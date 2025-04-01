@@ -167,4 +167,4 @@ Rosadi (Giovanni): Il Processo de Gesu. Florencia, 1904.
 
 [^12]: xv:2 Se reconoce que cierta legislación sólo tenía interés teórico; véase _T_. xiv. 1, xi. 6 a.
 
-[^13]: xvi:1 Para la manera en que se utilizaba la regla de interpretación _gezera shawa_ (véase [p. 72](2_3#p72), n. [6](2_3#fn_237)) para determinar qué pena de muerte debía aplicarse a los criminales cuando la Escritura no la prescribe, véase _Jewish Encyclopedia_, art. «Pena capital». Si esta regla no se aplica, el criminal debe morir por la pena no bíblica de estrangulamiento. Véase [p. 95](3_3#p95), n. [3](3_3#fn_292).
+[^13]: xvi:1 Para la manera en que se utilizaba la regla de interpretación _gezera shawa_ (véase [p. 72](../2_3#p72), n. [6](../2_3#fn_237)) para determinar qué pena de muerte debía aplicarse a los criminales cuando la Escritura no la prescribe, véase _Jewish Encyclopedia_, art. «Pena capital». Si esta regla no se aplica, el criminal debe morir por la pena no bíblica de estrangulamiento. Véase [p. 95](../3_3#p95), n. [3](../3_3#fn_292).

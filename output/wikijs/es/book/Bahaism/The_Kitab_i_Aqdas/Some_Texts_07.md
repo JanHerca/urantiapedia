@@ -45,8 +45,8 @@ dateCreated: 2025-2-5T9:13:18Z
 * V. ADVERTICIONES, REPROCHES Y ADVERTENCIAS ESPECÍFICAS
 * VI. TEMAS VARIOS SINOPSIS Y CODIFICACIÓN
   * I. EL NOMBRAMIENTO DE ABDU'L-BAHA COMO SUCESOR DE BAHÁ'U'LLAH E INTÉRPRETE DE SUS ENSEÑANZAS
-    * A. Se insta a los fieles a volver sus rostros hacia Aquel “a quien Dios se propuso, que brotó de esta antigua raíz”.
-    * B. Se ordena a los fieles que remitan todo lo que no entiendan en los escritos bahá'ís a “Aquel que ha brotado de este poderoso tronco”.
+    * A. Se insta a los fieles a volver sus rostros hacia Aquel «a quien Dios se propuso, que brotó de esta antigua raíz».
+    * B. Se ordena a los fieles que remitan todo lo que no entiendan en los escritos bahá'ís a «Aquel que ha brotado de este poderoso tronco».
   * II. ANTICIPACIÓN DE LA INSTITUCIÓN DE LA TUTELA
   * III. LA INSTITUCIÓN DE LA CASA DE JUSTICIA
     * A. Se ordena formalmente la Casa de Justicia.
@@ -56,7 +56,7 @@ dateCreated: 2025-2-5T9:13:18Z
     * A. Oración
       1. La sublime posición que ocupan las Oraciones Obligatorias en la Revelación Bahá'í.
       2. La Alquibla:
-        * a. Identificado por el Báb con “Aquel a quien Dios hará manifiesto”.
+        * a. Identificado por el Báb con «Aquel a quien Dios hará manifiesto».
         * b. El nombramiento hecho por el Báb es confirmado por Bahá'u'lláh.
         * c. Baha'u'llah ordena que Su lugar de descanso sea la Qiblih después de Su muerte.
         * d. Es obligatorio dirigirse a la Alquibla durante la recitación de las oraciones obligatorias.
@@ -67,7 +67,7 @@ dateCreated: 2025-2-5T9:13:18Z
         * c. Las mujeres en sus cursos, siempre que realicen sus abluciones y repitan un versículo específicamente revelado 95 veces al día.
       5. Las oraciones obligatorias deben ofrecerse individualmente.
       6. Es lícita la elección de una de las tres oraciones obligatorias.
-      7. Por “mañana”, “mediodía” y “tarde”, mencionados en relación con las oraciones obligatorias, se entiende respectivamente los intervalos entre la salida del sol y el mediodía, entre el mediodía y la puesta del sol, y desde la puesta del sol hasta dos horas después de la puesta del sol.
+      7. Por «mañana», «mediodía» y «tarde», mencionados en relación con las oraciones obligatorias, se entiende respectivamente los intervalos entre la salida del sol y el mediodía, entre el mediodía y la puesta del sol, y desde la puesta del sol hasta dos horas después de la puesta del sol.
       8. Es suficiente recitar la primera oración obligatoria (larga), una vez cada veinticuatro horas.
       9. Es preferible ofrecer la tercera oración obligatoria (breve) de pie.
       10. Abluciones:
@@ -143,12 +143,12 @@ dateCreated: 2025-2-5T9:13:18Z
       3. Herencia:
         * a. La herencia se clasifica en las siguientes categorías:
           1. niños 1.080 de 2.520 compartidos
-          2. esposo o esposa 390 “ 2,520 ”
-          3. padre 330 “ 2,520 ”
-          4. madre 270 “ 2,520 ”
-          5. hermano 210 “ 2,520 ”
-          6. hermana 150 “ 2,520 ”
-          7. profesor 90 “ 2,520 ”
+          2. esposo o esposa 390 « 2,520 »
+          3. padre 330 « 2,520 »
+          4. madre 270 « 2,520 »
+          5. hermano 210 « 2,520 »
+          6. hermana 150 « 2,520 »
+          7. profesor 90 « 2,520 »
         * b. Bahá'u'lláh duplica la parte que les corresponde a los hijos, tal como la ha asignado el Báb. En los casos de sucesión intestada se aplicará el método de división de los bienes (véase el punto o. de esta sección) y se reducirá en proporción igual la parte correspondiente de cada uno de los beneficiarios restantes.
         * c.
           * i. En los casos en que no hay descendencia, la parte de los hijos vuelve a la Casa de Justicia para ser gastada en huérfanos y viudas y en todo lo que beneficie a la humanidad.
@@ -305,14 +305,14 @@ dateCreated: 2025-2-5T9:13:18Z
   * VI. TEMAS VARIOS
     1. El carácter trascendente de la Revelación Bahá'í
     2. La exaltada posición del Autor de la Fe
-    3. La suprema importancia del Kitab-i-Aqdas, “El Libro Más Sagrado”
-    4. La doctrina de la “Grandísima Infalibilidad”
+    3. La suprema importancia del Kitab-i-Aqdas, «El Libro Más Sagrado»
+    4. La doctrina de la «Grandísima Infalibilidad»
     5. Los deberes gemelos de reconocimiento de la Manifestación y de observancia de Sus Leyes, y su inseparabilidad
     6. El fin de todo aprendizaje es el reconocimiento de Aquel que es el Objeto de todo conocimiento.
-    7. La bienaventuranza de quienes han reconocido la verdad fundamental: “No se le preguntará por sus acciones”
-    8. El efecto revolucionario de la “Gran Orden”
+    7. La bienaventuranza de quienes han reconocido la verdad fundamental: «No se le preguntará por sus acciones»
+    8. El efecto revolucionario de la «Gran Orden»
     9. La elección de una lengua única y la adopción de una escritura común para uso de todos los habitantes de la Tierra: uno de los dos signos de la madurez de la raza humana
-    10. Profecías del Báb sobre “Aquel a quien Dios hará manifiesto”
+    10. Profecías del Báb sobre «Aquel a quien Dios hará manifiesto»
     11. Predicción relativa a la oposición a la Fe
     12. Elogio del rey que profesará la Fe y se levantará a servirla
     13. La inestabilidad de los asuntos humanos
@@ -324,7 +324,7 @@ dateCreated: 2025-2-5T9:13:18Z
     19. Garantía de perdón a Mirza Yahya si se arrepiente
     20. Apóstrofe dirigido a Teherán
     21. Apóstrofe dirigido a Constantinopla y su pueblo.
-    22. Apóstrofe dirigido a las “orillas del Rin”
+    22. Apóstrofe dirigido a las «orillas del Rin»
     23. Condena de quienes pretenden falsamente poseer conocimientos esotéricos
     24. Condena de quienes permiten que el orgullo por su saber los aleje de Dios
     25. Profecías relativas al Jorasán

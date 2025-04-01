@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## ADHYÂYA II, KHANDA 1.
 
@@ -132,7 +132,7 @@ Y usando una faja.
 
 
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## CAPÍTULO 3.
 
@@ -209,7 +209,7 @@ Y usando una faja.
 
 
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## SECCIÓN 7.
 
@@ -279,7 +279,7 @@ Y usando una faja.
 
 25\. (O) una (estrofa) del comienzo de cada himno.
 
-26\. El maestro puede opcionalmente decir al comienzo del himno: “Este es el comienzo”.
+26\. El maestro puede opcionalmente decir al comienzo del himno: «Este es el comienzo».
 
 27\. [^158]. Esto se ha explicado con más detalle en el tratado sobre el <i>Ri</i>shisvâdhyâya. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
@@ -307,7 +307,7 @@ Y usando una faja.
 
 
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## SECCIÓN 10.
 
@@ -458,7 +458,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 17\. A las deidades desconocidas del norte y a Dhanapati (es decir, el Señor de los tesoros).
 
-18. Con el cordón sacrificial suspendido sobre el hombro derecho, vierte el remanente hacia el sur con el verso: “Aquellos a quienes el fuego ha quemado” (Rig-veda X, 15, 14).
+18. Con el cordón sacrificial suspendido sobre el hombro derecho, vierte el remanente hacia el sur con el verso: «Aquellos a quienes el fuego ha quemado» (Rig-veda X, 15, 14).
 
 19\. Cuando haya hecho sus ofrendas a los dioses, padres (es decir, Manes) y hombres, que dé comida a un <i>S</i>rotriya (es decir, a un Brâhma<i>n</i>a erudito).
 
@@ -502,7 +502,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## KHANDA 16.
 
@@ -592,7 +592,7 @@ El cómputo de los años no desde el nacimiento sino desde la concepción aparec
 
 [^129]: 62:4 Nârâya<i>n</i>a: Â<i>n</i>ârya âtmano mâ<i>n</i>avakasya _k<i>n</i>ñ_<i>n</i>alî udakena pûrayitvâ, etc.
 
-[^130]: 62:6-7 6, 7. Un diálogo similar entre el maestro y el estudiante en el Upanayana se encuentra en el Kau<i>s</i>ika-sûtra (ap. Weber, Indische Studien, X, 71). El estudiante dice: «Hazme un Ârsheya (descendiente de los <i>Ri</i>shis) y alguien con parentesco, e iníciame». Y el maestro responde: «Te hago un Ârsheya y alguien con parentesco, y te inicié». Así como en este pasaje del Kau<i>s</i>ika-sûtra se representa al maestro como teniendo el poder de hacer, mediante la ceremonia Upanayana, un Ârsheya del estudiante, así también, según la opinión expresada por el profesor Weber (loc. cit., p. 72 seq.), el <i>S</i>âṅkhâyana incluso daría al poder del maestro hacer del estudiante su samânârsheya, es decir, extender su propio Ârsheya a tantos alumnos como quiera. Español El profesor Weber entiende el sexto Sûtra de tal manera que el maestro tendría que decir, samânârsheyo bhavân brûhi (Nârâya<i>s</i>a: bhavân brûhîti brahma<i>s</i>ârî bhavân brûhîty ata<i>h</i> \[Sûtra 8\] si<i>s</i>hâvalokananyâyenâtrânusha<i>s</i>yate. Según el Paddhati de Râma<i>s</i>andra, él solo dice samânârsheya<i>h</i>). El estudiante responde, samânârsheyo 'ham bho; El profesor Weber, que proporciona el imperativo asâni, traduce esto: “¡Permítame tener el mismo Ârsheya, señor!”
+[^130]: 62:6-7 6, 7. Un diálogo similar entre el maestro y el estudiante en el Upanayana se encuentra en el Kau<i>s</i>ika-sûtra (ap. Weber, Indische Studien, X, 71). El estudiante dice: «Hazme un Ârsheya (descendiente de los <i>Ri</i>shis) y alguien con parentesco, e iníciame». Y el maestro responde: «Te hago un Ârsheya y alguien con parentesco, y te inicié». Así como en este pasaje del Kau<i>s</i>ika-sûtra se representa al maestro como teniendo el poder de hacer, mediante la ceremonia Upanayana, un Ârsheya del estudiante, así también, según la opinión expresada por el profesor Weber (loc. cit., p. 72 seq.), el <i>S</i>âṅkhâyana incluso daría al poder del maestro hacer del estudiante su samânârsheya, es decir, extender su propio Ârsheya a tantos alumnos como quiera. Español El profesor Weber entiende el sexto Sûtra de tal manera que el maestro tendría que decir, samânârsheyo bhavân brûhi (Nârâya<i>s</i>a: bhavân brûhîti brahma<i>s</i>ârî bhavân brûhîty ata<i>h</i> \[Sûtra 8\] si<i>s</i>hâvalokananyâyenâtrânusha<i>s</i>yate. Según el Paddhati de Râma<i>s</i>andra, él solo dice samânârsheya<i>h</i>). El estudiante responde, samânârsheyo 'ham bho; El profesor Weber, que proporciona el imperativo asâni, traduce esto: «¡Permítame tener el mismo Ârsheya, señor!»
 
 Creo que es más natural traducir simplemente la pregunta del maestro: "¿Eres tú samânârsheya?" (o, añadiendo bhavân brûhi del Sutra 8, "Declara que eres samânârsheya"), y la respuesta del estudiante: "¡Soy samânârsheya, señor!". Así pues, posiblemente deberíamos considerar estas fórmulas, que establecen un samânârsheyatva ficticio e ideal entre el maestro y los estudiantes, como un vestigio, y hasta donde puedo ver, el único vestigio, de una antigua regla que exige un samânârsheyatva real entre el maestro y el estudiante. Mientras las diferencias rituales entre los distintos Gotras, de las que, como es bien sabido, solo han sobrevivido algunos vestigios en la tradición védica, conservaron toda su importancia, en verdad difícilmente se pudo considerar admisible que un joven Brâhma<i>n</i> fuera confiado a la guía de un maestro que sacrificaba e invocaba a los dioses de una manera distinta a la que requerían las costumbres de la propia familia del alumno.
 

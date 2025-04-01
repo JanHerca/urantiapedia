@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 ## SABBASÂVA SUTTA. INTRODUCCIÓN
 

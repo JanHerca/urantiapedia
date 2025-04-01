@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 <span id="v7_1_1"><sup><small>7:1:1</small></sup></span>
 
@@ -87,7 +87,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 <span id="v7_1_1_2626"><sup><small>7:1:1:2626.</small></sup></span> Los deposita por separado: los diferentes deseos que existen, los deposita en el ser. Los establece de una vez: así, unifica el ser. Pronuncia el verso Sûdadohas [^572] sobre ellos; pues el Sûdadohas es el aire vital: mediante el aire vital, lo hace (Agni) continuo, lo une.
 
-<span id="v7_1_1_2727"><sup><small>7:1:1:2727.</small></sup></span> Acto seguido, dando la vuelta por detrás, se sienta en el lado norte con la cara hacia el sur y se pone primero el del sur de los dos que hay detrás, <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> con (Vâ<i>g</i>. S. XII, 51), 'Alimento potente, oh Agni, la posesión del ganado' —alimento significa ganado: así invoca para él la bendición del ganado;—'¡Concédele perpetuamente al que llama!' —el que llama sin duda es el Sacrificador; “Que tengamos un hijo, el perpetuador de la raza” —un hijo significa descendencia—; “¡que esa, oh Agni, sea tu buena voluntad para con nosotros!”, invoca con ello una bendición.
+<span id="v7_1_1_2727"><sup><small>7:1:1:2727.</small></sup></span> Acto seguido, dando la vuelta por detrás, se sienta en el lado norte con la cara hacia el sur y se pone primero el del sur de los dos que hay detrás, <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> con (Vâ<i>g</i>. S. XII, 51), 'Alimento potente, oh Agni, la posesión del ganado' —alimento significa ganado: así invoca para él la bendición del ganado;—'¡Concédele perpetuamente al que llama!' —el que llama sin duda es el Sacrificador; «Que tengamos un hijo, el perpetuador de la raza» —un hijo significa descendencia—; «¡que esa, oh Agni, sea tu buena voluntad para con nosotros!», invoca con ello una bendición.
 
 <span id="v7_1_1_2828"><sup><small>7:1:1:2828.</small></sup></span> Luego, el del norte, con (Vâ<i>g</i>. S. XII, 52; <i>Ri</i>k S. III, 29, 10), 'Este es tu vientre natural, de donde naciste resplandeciste', es decir, 'este (el hogar del dueño de casa) es tu vientre primigenio y perenne (lugar de nacimiento), de donde naciste;' '¡sabiéndolo, asciende, oh Agni, y aumenta nuestra sustancia!' como el texto, así su significado.
 
@@ -122,7 +122,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 <span id="v7_1_1_4444"><sup><small>7:1:1:4444.</small></sup></span> Luego vierte leche en ella; primero recibe semilla, y ahora recibe leche; pues el brasero es una hembra: por lo tanto, cuando una hembra recibe semilla, entonces recibe leche. La arena está abajo, y la leche arriba, pues la semilla está abajo, y la leche arriba. La vierte en el centro, para que allí pueda colocar la cabeza humana [^592].
 
 
-<span id="p312">[<sup><small>pág. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 <span id="v7_1_2"><sup><small>7:1:2</small></sup></span>
 
@@ -168,7 +168,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 <span id="v7_1_2_2121"><sup><small>7:1:2:2121.</small></sup></span> Ese mismo Anush<i>t</i>ubh, el habla, es triple. Ese fuego, tomando la forma del aire vital, acompaña al habla: el fuego que está en el Âhavanîya (altar) es la exhalación y el sol que está allá; el fuego que está en el Âgnîdhrîya es la inhalación y el viento que sopla allá; y el fuego que está en el Gârhapatya es la inhalación y el fuego que hay aquí en este mundo (terrenal). Y, en verdad, quien conoce esto se crea todo el Vâ<i>k</i> (habla), todo el aire vital, todo el cuerpo (de Pra<i>g</i>âpati). <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 7:1:2:2222\. Luego, ese Brihatî (metro), —los dos (versos) de treinta y dos sílabas: eso suma treinta y dos; luego, esas dos fórmulas: eso suma treinta y cuatro; Agni, el trigésimo quinto;— un metro no desaparece por una sílaba (de más o de menos), ni por una ni por dos [^606];—además, ese (Agni) consta de dos sílabas: eso suma treinta y seis. El Brihatî consta de treinta y seis sílabas,—es el Brihatî al que equivale esa pila (Âhavanîya) así; porque de la misma manera que la semilla se infunde en el útero, de allí nace una descendencia similar: así, al constituir ese B<i>ri</i>hatî (metro) en este (hogar Gârhapatya), ese (Âhavanîya) altar de fuego equivale al B<i>ri</i>hatî.
 
-<span id="v7_1_2_2323"><sup><small>7:1:2:2323.</small></sup></span> En cuanto a esto, dicen: «Como el Gârhapatya es este mundo (terrestre), el Dhish<i>n</i>ya es el aire, y el Âhavanîya es el cielo, y el mundo aéreo no está separado de este mundo (terrestre), ¿por qué entonces, después de construir el Gârhapatya, construye el Âhavanîya, y (solo) después los Dhish<i>n</i>yas?». Bueno, al principio estos dos mundos (cielo y tierra) estaban juntos; y cuando se separaron, el espacio que los separaba (antar) se convirtió en ese aire (antariksha). Porque 'îksha [^607]', de hecho, así era antes, y «Ahora este “îksha” se ha interpuesto (antarâ)», dijeron, de donde proviene 'antariksha' (aire). Y en cuanto a por qué, tras construir el Gârhapatya, construye el Âhavanîya, es porque estos dos mundos fueron creados primero. Luego, al retroceder, construye los hogares Dhish<i>n</i>ya, solo para evitar la discontinuidad de la <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> obra sagrada; y así, en efecto, se completa el medio, después de que se hayan completado los dos extremos.
+<span id="v7_1_2_2323"><sup><small>7:1:2:2323.</small></sup></span> En cuanto a esto, dicen: «Como el Gârhapatya es este mundo (terrestre), el Dhish<i>n</i>ya es el aire, y el Âhavanîya es el cielo, y el mundo aéreo no está separado de este mundo (terrestre), ¿por qué entonces, después de construir el Gârhapatya, construye el Âhavanîya, y (solo) después los Dhish<i>n</i>yas?». Bueno, al principio estos dos mundos (cielo y tierra) estaban juntos; y cuando se separaron, el espacio que los separaba (antar) se convirtió en ese aire (antariksha). Porque 'îksha [^607]', de hecho, así era antes, y «Ahora este «îksha» se ha interpuesto (antarâ)», dijeron, de donde proviene 'antariksha' (aire). Y en cuanto a por qué, tras construir el Gârhapatya, construye el Âhavanîya, es porque estos dos mundos fueron creados primero. Luego, al retroceder, construye los hogares Dhish<i>n</i>ya, solo para evitar la discontinuidad de la <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> obra sagrada; y así, en efecto, se completa el medio, después de que se hayan completado los dos extremos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -206,7 +206,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^560]: 300:1 Sâya<i>n</i>a, en Taitt. S. IV, 2, 4, toma 'sa<i>m</i><i>g</i><i>ñ</i>ânam' en el sentido de 'conocimiento, reconocimiento'; explicándolo a partir del hecho de que el ganado por su olfato reconoce los lugares de suelo salino y los lame.
 
-[^561]: 300:2 O para evitar que el fuego queme sobre la arena y dañe el suelo salino o amnios. Para la construcción, véase [p. 198](Book_3_6_3#p198), nota [2](Book_3_6_3#fn407).
+[^561]: 300:2 O para evitar que el fuego queme sobre la arena y dañe el suelo salino o amnios. Para la construcción, véase [p. 198](../Book_3_6_3#p198), nota [2](../Book_3_6_3#fn407).
 
 [^562]: 300:3 Esta noción aparentemente se basa en la supuesta conexión etimológica de '<i>s</i>ikatâ', arena, con la raíz 'si<i>k</i>'.
 
@@ -214,13 +214,13 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^564]: 301:2 ? Es decir, excavando cada piedra, el círculo consta de veintiuna piedras en total.
 
-[^565]: 301:3 Las dos ceremonias a las que se hace referencia aquí, a saber, el 'sâdana' (asentar, fijar, estabilizar, a saber, por medio de la fórmula, XII, 53, 'con la ayuda de esa deidad permanece firme, como Aṅgiras', véase [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30)) y la recitación del verso Sûdadohas (Vâ<i>g</i>. S. XII, 55, para cuya pág. 302 véase la nota \*[^575]\* al [párrafo 31](Book_3_7_1#v7_1_1_31)), son los llamados ritos 'necesarios', porque por regla general se tienen que realizar en cada ladrillo (especial), cuando se ha colocado al construir el altar del fuego.
+[^565]: 301:3 Las dos ceremonias a las que se hace referencia aquí, a saber, el 'sâdana' (asentar, fijar, estabilizar, a saber, por medio de la fórmula, XII, 53, 'con la ayuda de esa deidad permanece firme, como Aṅgiras', véase [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30)) y la recitación del verso Sûdadohas (Vâ<i>g</i>. S. XII, 55, para cuya pág. 302 véase la nota \*[^575]\* al [párrafo 31](../Book_3_7_1#v7_1_1_31)), son los llamados ritos 'necesarios', porque por regla general se tienen que realizar en cada ladrillo (especial), cuando se ha colocado al construir el altar del fuego.
 
-[^566]: 302:1 A saber, los llamados 'lokamp<i>ri</i><i>n</i>â' (o ladrillos que rellenan el espacio), para lo cual véase [p. 153](Book_3_6_1#p153), nota \*[1](Book_3_6_1#fn306)\*.
+[^566]: 302:1 A saber, los llamados 'lokamp<i>ri</i><i>n</i>â' (o ladrillos que rellenan el espacio), para lo cual véase [p. 153](../Book_3_6_1#p153), nota \*[1](../Book_3_6_1#fn306)\*.
 
 [^567]: 303:1 Es decir, con las líneas que los marcan de oeste a este. Si bien estos cuatro ladrillos son oblongos, de sesenta centímetros por treinta centímetros, los cuatro colocados detrás y delante miden cada uno treinta centímetros cuadrados, al igual que los colocados en las esquinas de la pila cuadrada, excepto en la esquina sureste, donde se colocarán dos ladrillos de treinta centímetros por ciento cada uno.
 
-[^568]: 303:2 Véase [VI, 1, 1, 3](Book_3_6_1#v6_1_1_3)\-[6](Book_3_6_1#v6_1_1_6).
+[^568]: 303:2 Véase [VI, 1, 1, 3](../Book_3_6_1#v6_1_1_3)\-[6](../Book_3_6_1#v6_1_1_6).
 
 [^569]: 303:3 O ‘allá’, es decir, como el gran altar de fuego, que pronto será construido, y que en última instancia recibirá el fuego Âhavanîya, tomado del Gârhapatya.
 
@@ -236,7 +236,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^575]: 306:1 Están unidas entre sí, según Sâya<i>n</i>a, pero difícilmente este pueda ser el significado pretendido, ya que las piedras se encuentran cerca una de otra también en el extremo inferior (occidental).
 
-[^576]: 307:1 Esta porción común de las dos fórmulas forma la llamada fórmula de «asentamiento» (o «establecimiento») (sâdana); Kâty. Sr. XVI, 7, 14; cf. [VI, 1, 2, 28](Book_3_6_1#v6_1_2_28), y [p. 301](#p301), nota [^563]. «Como Angiras» aparentemente significa «como (hiciste) en el caso de, o con, Angiras».
+[^576]: 307:1 Esta porción común de las dos fórmulas forma la llamada fórmula de «asentamiento» (o «establecimiento») (sâdana); Kâty. Sr. XVI, 7, 14; cf. [VI, 1, 2, 28](../Book_3_6_1#v6_1_2_28), y [p. 301](#p301), nota [^563]. «Como Angiras» aparentemente significa «como (hiciste) en el caso de, o con, Angiras».
 
 [^577]: 307:2 Vâ<i>g</i>. S. XII, 55; <i>Ri</i>k S. VIII, 69, 3. «Al nacer, los ordeñadores, moteados y parecidos a pozos, mezclan el soma (bebida), los clanes de los dioses en las tres esferas de los cielos». Este difícil verso ha sido traducido de diferentes maneras por distintos traductores. El propio Brâhma<i>n</i>a también ofrece una interpretación muy diferente, sin duda bastante fantasiosa, en VIII, 7, 3, 21.
 
@@ -244,7 +244,7 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^579]: 307:4 O, 'así (va,—o, Agni, como un pájaro, vuela) hacia los dioses.'
 
-[^580]: 307:5 Véase [VI, 1, 1, 15](Book_3_6_1#v6_1_1_15).
+[^580]: 307:5 Véase [VI, 1, 1, 15](../Book_3_6_1#v6_1_1_15).
 
 [^581]: 308:1 VIII, 7, 2, 1 seq.
 
@@ -260,25 +260,25 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^587]: 309:3 Véase parte ii, pág. 116, nota 3, 'La tierra tomada del pozo que se utilizó para construir el altar mayor, ambas son del mismo tamaño o extensión cúbica.'
 
-[^588]: 309:4 Véase [VI, 3, 3, 26](Book_3_6_3#v6_3_3_26).
+[^588]: 309:4 Véase [VI, 3, 3, 26](../Book_3_6_3#v6_3_3_26).
 
 [^589]: 309:5 O mejor dicho, es un círculo cuyo área corresponde a un cuadrado de una braza; lo que da un diámetro ligeramente superior en longitud a una braza (es decir, el espacio entre las puntas de los dedos medios con los brazos extendidos). La medida es (al menos teóricamente) relativa, adaptándose al tamaño del sacrificador; pero en la práctica, la braza (vyâma, o purusha, hombre) puede considerarse de unos 6 pies, siendo el vyâma igual a 4 aratnis (codos) de 2 prâde<i>s</i>as (tramos de unas 18 pulgadas cada uno). Esto permite un cuadrado central de 4 pies, y aproximadamente 1 pie (en realidad, algo menos) para cada una de las dos bisectrices de los segmentos.
 
 [^590]: 310:1 Es decir, vierte el fuego de la sartén (ukhyâgni) sobre el Gârhapatya (hogar).
 
-[^591]: 310:2 «Purîshya» parece tener aquí el sentido de «rico, abundante». Véase [p. 201](Book_3_6_3#p201), nota \*[1](Book_3_6_3#fn415)\*.
+[^591]: 310:2 «Purîshya» parece tener aquí el sentido de «rico, abundante». Véase [p. 201](../Book_3_6_3#p201), nota \*[1](../Book_3_6_3#fn415)\*.
 
 [^592]: 310:3 'Ukhâ', el pan, es femenino y representa el útero del que nace Agni.
 
-[^593]: 311:1 [VI, 3, 1, 30](Book_3_6_3#v6_3_1_30).
+[^593]: 311:1 [VI, 3, 1, 30](../Book_3_6_3#v6_3_1_30).
 
-[^594]: 311:2 Véase [VII, 5, 2, 14](Book_3_7_5#v7_5_2_14).
+[^594]: 311:2 Véase [VII, 5, 2, 14](../Book_3_7_5#v7_5_2_14).
 
 [^595]: 312:1 Literalmente, caído en pedazos, es decir, roto en pedazos, o descoordinado ('abierto', Delbrück, Synt. F. V, p. 385).
 
 [^596]: 314:1 O, en cualquier parte de este (año) de ahora en adelante no lo haga así.
 
-[^597]: 314:2 Es muy dudoso que esta segunda cláusula de la oratio directa pertenezca realmente al argumento de Vâmakakshâya<i>n</i>a, o que sea del propio autor, en cuyo caso debe interpretarse con lo que sigue. «Para que no se desmorone, primero lo restaura», etc. Es decir, no debe colocarlo (a Pra<i>g</i>pati) en posición vertical hasta que se haya restaurado por completo. La forma particular del participio que califica a Pra<i>g</i>pati (vi<i>kh</i>idyamâna) podría parecer que favorece la primera alternativa; véase, sin embargo, [párrafo 23](Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, 'después de que los dos extremos se hayan perfeccionado'.
+[^597]: 314:2 Es muy dudoso que esta segunda cláusula de la oratio directa pertenezca realmente al argumento de Vâmakakshâya<i>n</i>a, o que sea del propio autor, en cuyo caso debe interpretarse con lo que sigue. «Para que no se desmorone, primero lo restaura», etc. Es decir, no debe colocarlo (a Pra<i>g</i>pati) en posición vertical hasta que se haya restaurado por completo. La forma particular del participio que califica a Pra<i>g</i>pati (vi<i>kh</i>idyamâna) podría parecer que favorece la primera alternativa; véase, sin embargo, [párrafo 23](../Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, 'después de que los dos extremos se hayan perfeccionado'.
 
 [^598]: 314:3 En este y los siguientes párrafos la posición ordinaria del sujeto y del predicado parece a menudo invertida: en el caso presente uno esperaría que para él el aire fuera el espacio entre los dos fuegos.
 
@@ -294,11 +294,11 @@ SÉPTIMO KÂ<i>N</i><i>D</i>A.
 
 [^604]: 316:2 Es decir, estos treinta y dos elementos forman, por así decirlo, un verso Anush<i>t</i>ubh que consta de treinta y dos sílabas.
 
-[^605]: 316:3 Véase [VII, 2, 1, 1](Book_3_7_2#v7_2_1_1) seq.
+[^605]: 316:3 Véase [VII, 2, 1, 1](../Book_3_7_2#v7_2_1_1) seq.
 
-[^606]: 316:4 No veo qué otras fórmulas puedan estar aquí indicadas, salvo las dirigidas a las piedras circundantes, que concluyen con la fórmula «sâdana» o de «asentamiento», a saber, Vâ<i>g</i>. S. XII, 53; véase arriba, [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30); aunque estas no dan exactamente treinta y dos sílabas, sino treinta y cuatro (véase, sin embargo, el [párrafo 22](Book_3_7_1#v7_1_2_22)). Lamentablemente, los manuscritos disponibles del comentario presentan deficiencias en este punto. Sobre la manipulación artificial para crear metros imaginarios con el mero número de sílabas, independientemente de su valor prosódico real, véase el Profesor Weber, Ind. Stud., VIII, pág. 23 y siguientes.
+[^606]: 316:4 No veo qué otras fórmulas puedan estar aquí indicadas, salvo las dirigidas a las piedras circundantes, que concluyen con la fórmula «sâdana» o de «asentamiento», a saber, Vâ<i>g</i>. S. XII, 53; véase arriba, [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30); aunque estas no dan exactamente treinta y dos sílabas, sino treinta y cuatro (véase, sin embargo, el [párrafo 22](../Book_3_7_1#v7_1_2_22)). Lamentablemente, los manuscritos disponibles del comentario presentan deficiencias en este punto. Sobre la manipulación artificial para crear metros imaginarios con el mero número de sílabas, independientemente de su valor prosódico real, véase el Profesor Weber, Ind. Stud., VIII, pág. 23 y siguientes.
 
-[^607]: 317:1 O los hogares Dhish<i>n</i>ya (véase el [párrafo 23](Book_3_7_1#v7_1_2_23)), que se sitúan más apropiadamente entre los hogares Gârhapatya y Âhavanîya. Véase el plano del terreno de sacrificios en la parte ii; donde, sin embargo, el Âhavanîya del Prâ<i>k</i>înava<i>m</i><i>s</i>a (salón), o el llamado <i>s</i>âlâdvârya (fuego de la puerta del salón), representaría el Gârhapatya para el Âhavanîya del Mahâvedi.
+[^607]: 317:1 O los hogares Dhish<i>n</i>ya (véase el [párrafo 23](../Book_3_7_1#v7_1_2_23)), que se sitúan más apropiadamente entre los hogares Gârhapatya y Âhavanîya. Véase el plano del terreno de sacrificios en la parte ii; donde, sin embargo, el Âhavanîya del Prâ<i>k</i>înava<i>m</i><i>s</i>a (salón), o el llamado <i>s</i>âlâdvârya (fuego de la puerta del salón), representaría el Gârhapatya para el Âhavanîya del Mahâvedi.
 
 [^608]: 318:1 Se concede la misma latitud en el cálculo del número de sílabas que constituyen un metro, Ait. Br. I, 6.
 

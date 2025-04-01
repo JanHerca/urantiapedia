@@ -44,7 +44,7 @@ El Adhvaryu dijo:
 
 Disfrutas de la fragancia de la tierra, bebes jugos acuosos, ves los colores de los cuerpos brillantes, palpas las cualidades del aire, oyes el sonido producido en el espacio, piensas con la mente (sobre los objetos de) las operaciones mentales. Y crees que todas estas entidades tienen vida. No te has abstenido (entonces) de quitar la vida. Estás (ocupado) en la matanza (de criaturas vivientes) [^1409]. No hay movimiento [^1410] sin matanza (de criaturas vivientes). ¿O qué piensas, oh nacido dos veces?
 
-<span id="p292">[<sup><small>pág. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 El asceta dijo
 
@@ -52,7 +52,7 @@ Lo indestructible y lo destructible, tal es la doble manifestación del ser. De 
 
 El Adhvaryu dijo:
 
-¡Oh, el mejor de los hombres talentosos! En este mundo, uno debería <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> vivir solo en compañía de hombres buenos [1](Anugita_14#fn1417). Al haber escuchado tu opinión, mi mente se ha iluminado. ¡Oh, venerable señor! Me acerco a ti, convencido de que eres el Señor; y te digo, ¡oh, doblemente nacido!, que no tengo ninguna culpa al realizar, como lo he hecho, los ritos que otros realizan [2](Anugita_14#fn1418).
+¡Oh, el mejor de los hombres talentosos! En este mundo, uno debería <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> vivir solo en compañía de hombres buenos [1](../Anugita_14#fn1417). Al haber escuchado tu opinión, mi mente se ha iluminado. ¡Oh, venerable señor! Me acerco a ti, convencido de que eres el Señor; y te digo, ¡oh, doblemente nacido!, que no tengo ninguna culpa al realizar, como lo he hecho, los ritos que otros realizan [2](../Anugita_14#fn1418).
 
 El Brâhma<i>n</i>a dijo:
 
@@ -90,19 +90,19 @@ Tras esta explicación, el asceta guardó silencio, y el Adhvaryu también proce
 
 [^1394]: 288:3 El conocimiento es Brahman, que se describe aquí como un bosque, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1395]: 288:4 Cf. Bhagavad Gita, [pág. 70](Bhagavad-gita_6#p70).
+[^1395]: 288:4 Cf. Bhagavad Gita, [pág. 70](../Bhagavad-gita_6#p70).
 
 [^1396]: 288:5 Este es el nombre de las operaciones de la mente.
 
 [^1397]: 288:6 La sensación es similar a la del Bhagavad Gita, [p. 55] (Bhagavadgita_3#p55). El yo no tiene nada que ver con estos sentimientos; las cualidades se relacionan con las cualidades.
 
-[^1398]: 288:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65). El significado de naturaleza aquí, como en el Gîtâ, es en esencia el resultado de toda acción previa con la que el yo ha estado asociado, resultado que, por supuesto, existe conectado no con el yo, sino con los desarrollos de la naturaleza, en la forma del cuerpo, p. 289, sentidos, etc. La comparación parece significar que los sentimientos de deseo, etc., son, como los vientos vitales, ajenos al yo, aunque asociados a él, y ambos son manifestaciones de la naturaleza.
+[^1398]: 288:7 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65). El significado de naturaleza aquí, como en el Gîtâ, es en esencia el resultado de toda acción previa con la que el yo ha estado asociado, resultado que, por supuesto, existe conectado no con el yo, sino con los desarrollos de la naturaleza, en la forma del cuerpo, p. 289, sentidos, etc. La comparación parece significar que los sentimientos de deseo, etc., son, como los vientos vitales, ajenos al yo, aunque asociados a él, y ambos son manifestaciones de la naturaleza.
 
 [^1399]: 289:1 Nîlaka<i>nth</i>a compara B<i>nth</i>hadâra<i>n</i>yaka, p. 770. Ar<i>g</i>una Mi<i>s</i>ra tiene una lectura diferente, que significa 'susceptible (de ser subyugado)'.
 
-[^1400]: 289:2 El plural, que aparece en el original, es inusual. Los diversos aspectos del «resultado» enunciados en [p. 288](Anugita_12#p288), nota [^1393], al examinarlos por separado, se describen como «naturalezas», como las hojas de un loto, que en conjunto forman un solo loto.
+[^1400]: 289:2 El plural, que aparece en el original, es inusual. Los diversos aspectos del «resultado» enunciados en [p. 288](../Anugita_12#p288), nota [^1393], al examinarlos por separado, se describen como «naturalezas», como las hojas de un loto, que en conjunto forman un solo loto.
 
-[^1401]: 289:3 Lalita Vistara, pág. 2, y [pág. 64](Bhagavadgita_5#p64) supra.
+[^1401]: 289:3 Lalita Vistara, pág. 2, y [pág. 64](../Bhagavadgita_5#p64) supra.
 
 [^1402]: 289:4 La figura parece ser similar a la del Bhagavad-gita, [pág. 82] (Bhagavad-gita_9#pág. 82), sobre la atmósfera y el espacio, el cual permanece inmaculado por el primero. Considerando diversas naturalezas, es decir, como distintas del yo.
 
@@ -110,7 +110,7 @@ Tras esta explicación, el asceta guardó silencio, y el Adhvaryu también proce
 
 [^1404]: 289:6 Es decir, con agua, como preparación para ser ofrecida para el sacrificio.
 
-[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, pág. 542, y [pág. 337](Anugita_27#p337) a continuación.
+[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, pág. 542, y [pág. 337](../Anugita_27#p337) a continuación.
 
 [^1406]: 290:2 Cf. <i>Kh</i>ândogya-upanishad, pág. 627, y también <i>S</i>ârîraka Bhâshya sobre Sûtra III, 1, 25, pág. 774.
 
@@ -122,7 +122,7 @@ Tras esta explicación, el asceta guardó silencio, y el Adhvaryu también proce
 
 [^1410]: 291:1 Esto no está muy claro, pero el significado parece ser que la matanza se realiza para el disfrute del sacrificador; el sacrificador sólo necesita combustible, y el animal sacrificado se utiliza entonces para ese propósito.
 
-[^1411]: 291:2 Cf. <i>Kh</i>ândogya, pág. 627, y nota siguiente; y Gîtâ, entre otros, [pág. 114](Bhagavadgita_15#p114), y [pág. 348](Anugita_28#p348) infra.
+[^1411]: 291:2 Cf. <i>Kh</i>ândogya, pág. 627, y nota siguiente; y Gîtâ, entre otros, [pág. 114](../Bhagavadgita_15#p114), y [pág. 348](../Anugita_28#p348) infra.
 
 [^1412]: 291:3 Véase Sânkhyatattvaktumudi, pág. 7.
 
@@ -132,9 +132,9 @@ Tras esta explicación, el asceta guardó silencio, y el Adhvaryu también proce
 
 [^1415]: 291:6 Es decir, el soporte del cuerpo, dice Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra lo interpreta de otra manera: «la verdadera naturaleza del Sat, el ser». Nîlaka<i>nth</i>a traduce el original por sadrûpam sin más explicaciones. Este indestructible parece corresponder al mencionado en el Bhagavad Gita, [p. 113](Bhagavadgita_15#p113), que debe considerarse en relación con el Bhagavad Gita, pp. [73](Bhagavadgita_6#p73), [74](Bhagavadgita_7#p74). La nota de la página anterior quizás no esté expresada con la precisión necesaria, ya que la palabra «causa material» evoca asociaciones inadmisibles. Quizás «principio subyacente» sea una idea más acertada. Lo existente será pues lo que realmente existe, pues es indestructible.
+[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra lo interpreta de otra manera: «la verdadera naturaleza del Sat, el ser». Nîlaka<i>nth</i>a traduce el original por sadrûpam sin más explicaciones. Este indestructible parece corresponder al mencionado en el Bhagavad Gita, [p. 113](../Bhagavadgita_15#p113), que debe considerarse en relación con el Bhagavad Gita, pp. [73](../Bhagavadgita_6#p73), [74](../Bhagavadgita_7#p74). La nota de la página anterior quizás no esté expresada con la precisión necesaria, ya que la palabra «causa material» evoca asociaciones inadmisibles. Quizás «principio subyacente» sea una idea más acertada. Lo existente será pues lo que realmente existe, pues es indestructible.
 
-[^1417]: 292:2 Cf. Bhagavad Gita, [pág. 77](Bhagavad-gita_7#p77).
+[^1417]: 292:2 Cf. Bhagavad Gita, [pág. 77](../Bhagavad-gita_7#p77).
 
 [^1418]: 292:3 Véase <i>S</i>ânti Parvan (Moksha), cap. 240, est. 31.
 
@@ -142,4 +142,4 @@ Tras esta explicación, el asceta guardó silencio, y el Adhvaryu también proce
 
 [^1420]: 292:5 Liberado scil. de la piedad o impiedad, etc.,—Ar<i>g</i>una Mi<i>s</i>ra, quien dice que 'Ser' en la frase precedente significa mente.
 
-[^1421]: 292:6 Porque, dice Ar<i>g</i>una Mi<i>s</i>ra, según la misma autoridad que afirma que hay pecado en la matanza, todo pecado se destruye mediante el conocimiento. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1421]: 292:6 Porque, dice Ar<i>g</i>una Mi<i>s</i>ra, según la misma autoridad que afirma que hay pecado en la matanza, todo pecado se destruye mediante el conocimiento. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).

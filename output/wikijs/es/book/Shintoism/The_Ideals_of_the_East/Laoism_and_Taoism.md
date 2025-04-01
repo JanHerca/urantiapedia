@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 China nunca habría podido aceptar el idealismo indio si el laoísmo y el taoísmo no hubieran estado preparando, desde el final de la dinastía Shu, una base psicológica para la manifestación común de estas polaridades mutuas del pensamiento asiático.
 
@@ -52,11 +52,11 @@ Durante todo este tiempo, China fue devorada gradualmente por las invasiones de 
 
 En los tres reinos en que se dividió la dinastía Hâng —lo que disminuyó el prestigio de la unidad confuciana—, el espíritu del laoísmo estaba desenfrenado. Kaan y Ohitsu escribieron nuevos comentarios sobre el Tao-tei-king, y aunque estos pensadores no atacaron abiertamente el confucianismo, sus vidas se dirigieron conscientemente a protestar contra las convenciones. <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> Este fue el período en que los eruditos se retiraban a discutir filosofía en los bosques de bambú; cuando un primer ministro decidió detener su carruaje frente a una taberna al borde del camino para beber con sus sirvientes ante la mirada atónita del público; cuando un simple estudiante se atrevió a demorar a un alto dignatario y le pidió que tocara la flauta, por la que era famoso, y el amable estadista se complació en complacerlo durante horas. cuando los filósofos se dedicaban, por diversión, a trabajar en la forja, sin prestar atención a los ilustres invitados que podrían haber venido a honrarlos planteándoles importantes preguntas para su solución. La poesía de esta época y de la primera parte de las Seis Dinastías (265-618 d. C.) representa esta libertad, y por la simplicidad y la gracia con que retorna al amor por la naturaleza, contrasta marcadamente con la magnífica imaginería y la elaborada métrica de los poetas Hâng.
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
-Todos recordarán los poemas de Toenmei —el más confuciano de los laoístas y el más laoísta de los confucianos, el hombre que renunció a su cargo de gobernador porque no le gustaba usar una túnica ceremonial para recibir a un representante imperial— pues su oda sobre “El regreso” fue la expresión misma de la época. Es a través de Toenmei y otros poetas del Sur que la pureza del "crisantemo que gotea el rocío", la delicada gracia del bambú que se mece, la fragancia inconsciente de las flores de ciruelo flotando en el agua crepuscular, la verde serenidad del pino, susurrando sus silenciosas penas al viento, y el divino narciso, ocultando su noble alma en profundos barrancos, o buscando la primavera en un atisbo del cielo, se convierten en temas de inspiración poética, que, cuando se mezclan con los ideales budistas en el gran período liberalizador Tang, estallan de nuevo en los poetas Sung, que son, como Toenmei, un producto de la mente Yang-tse, siempre buscando la expresión del alma en la Naturaleza.
+Todos recordarán los poemas de Toenmei —el más confuciano de los laoístas y el más laoísta de los confucianos, el hombre que renunció a su cargo de gobernador porque no le gustaba usar una túnica ceremonial para recibir a un representante imperial— pues su oda sobre «El regreso» fue la expresión misma de la época. Es a través de Toenmei y otros poetas del Sur que la pureza del "crisantemo que gotea el rocío", la delicada gracia del bambú que se mece, la fragancia inconsciente de las flores de ciruelo flotando en el agua crepuscular, la verde serenidad del pino, susurrando sus silenciosas penas al viento, y el divino narciso, ocultando su noble alma en profundos barrancos, o buscando la primavera en un atisbo del cielo, se convierten en temas de inspiración poética, que, cuando se mezclan con los ideales budistas en el gran período liberalizador Tang, estallan de nuevo en los poetas Sung, que son, como Toenmei, un producto de la mente Yang-tse, siempre buscando la expresión del alma en la Naturaleza.
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Soshi reconoce la libertad como la característica esencial. Relata la historia de un gran noble que buscaba un pintor distinguido para pintar un cuadro. Uno a uno, los candidatos fueron llegando y, saludándolo con decoro, le preguntaron sobre el tema y el estilo de trabajo que requería. Con todo esto, no quedó nada satisfecho. Finalmente, apareció un artista, quien irrumpió bruscamente en la sala y, quitándose la ropa, se sentó en una postura tosca antes de pedir sus pinceles y colores. «¡Aquí!», exclamó el mecenas sin más, «¡He encontrado a mi hombre!».
 
@@ -96,7 +96,7 @@ Kutsugen.—Príncipe de So, provincia a orillas del Yangtsé. Sus consejos fuer
 
 Mencio.—Moshi o Mencio vivió aproximadamente un siglo después de Confucio. Con Bunno y Confucio, la benevolencia se había predicado como el secreto de la convivencia humana. Mencio añade la nota de deber, presentando la obligación mutua como la ley. El ideograma para deber es muy sugestivo aquí; consiste en oveja y ego. Mi oveja, es decir, deber. El ideograma para benevolencia es hombre y dos: en dos, uno se olvida de sí mismo.
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 El Dragón.—Desde el auge del taoísmo, en todo el arte chino y japonés, siempre que se busca expresar la infinitud, encontramos este símbolo. Significa el poder del Cambio, la soberanía suprema. La persona imperial siempre puede describirse como con cuerpo o rostro de dragón.
 

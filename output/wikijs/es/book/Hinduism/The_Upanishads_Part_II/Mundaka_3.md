@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>pág. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 TERCER MUNDO TAMBIÉN CONOCIDO COMO.
 

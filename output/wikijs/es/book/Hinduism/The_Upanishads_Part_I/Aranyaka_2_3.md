@@ -70,7 +70,7 @@ Entre los seres animados el yo se va desarrollando gradualmente, pues en algunos
 
 5\. Ese hombre (concebido como uktha) es el sacrificio, que es una sucesión ora de palabra, ora de pensamiento. Ese sacrificio es quíntuple: el Agnihotra, los sacrificios de luna nueva y llena, los sacrificios cuatrimestrales, el sacrificio animal y el sacrificio de Soma. El sacrificio de Soma es el más perfecto de los sacrificios, pues en él se ven estos cinco tipos de ceremonias: la primera, que precede a las libaciones (la Dîkshâ, etc.), luego tres libaciones, y la que sigue (el Avabhritha, etc.) es la quinta.
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
@@ -158,9 +158,9 @@ Al identificar ciertas partes del himno Nishkevalya con un ave, la cabeza del av
 
 ## SÉPTIMO KHA<i>N</i><i>D</i>A.
 
-1\. Este (nishkevalya-<i>s</i>astra) se perfecciona como mil B<i>ri</i>hatîs. Es la gloria (el Brahman glorioso, no el Brahman absoluto), es Indra. Indra es el señor de todos los seres. Quien así conoce a Indra como el señor de todos los seres, parte de este mundo rompiendo las ataduras de la vida [^573]\—así dijo Mahidâsa Aitareya. Tras partir, se convierte en Indra (o Hira<i>n</i>yagarbha) y brilla en esos mundos [^574]. <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. Y con respecto a esto dicen: 'Si un hombre obtiene el otro mundo en esta forma (meditando en el prâ<i>n</i>a, el aliento, que es el uktha, el himno del mahâvrata), entonces ¿en qué forma obtiene este mundo [1](Aranyaka_2_3#fn575)?'
+1\. Este (nishkevalya-<i>s</i>astra) se perfecciona como mil B<i>ri</i>hatîs. Es la gloria (el Brahman glorioso, no el Brahman absoluto), es Indra. Indra es el señor de todos los seres. Quien así conoce a Indra como el señor de todos los seres, parte de este mundo rompiendo las ataduras de la vida [^573]\—así dijo Mahidâsa Aitareya. Tras partir, se convierte en Indra (o Hira<i>n</i>yagarbha) y brilla en esos mundos [^574]. <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. Y con respecto a esto dicen: 'Si un hombre obtiene el otro mundo en esta forma (meditando en el prâ<i>n</i>a, el aliento, que es el uktha, el himno del mahâvrata), entonces ¿en qué forma obtiene este mundo [1](../Aranyaka_2_3#fn575)?'
 
-3\. Aquí, la sangre de la mujer es una forma de Agni (fuego); por lo tanto, nadie debe despreciarla. Y la semilla del hombre es una forma de Âditya (sol); por lo tanto, nadie debe despreciarla. Este ser (la mujer) se entrega (piel, sangre y carne) a ese ser (grasa, hueso y médula), y ese ser (el hombre) se entrega (grasa, hueso y médula) a este ser (piel, sangre y carne). Así [2](Aranyaka_2_3#fn576) estos dos crecen juntos. En esta forma (perteneciente a la mujer y al fuego) él va a ese mundo (perteneciente al hombre y al sol), y en esa forma (perteneciente al hombre y al sol) va a este mundo (perteneciente a la mujer y al fuego [3](Aranyaka_2_3#fn577)).
+3\. Aquí, la sangre de la mujer es una forma de Agni (fuego); por lo tanto, nadie debe despreciarla. Y la semilla del hombre es una forma de Âditya (sol); por lo tanto, nadie debe despreciarla. Este ser (la mujer) se entrega (piel, sangre y carne) a ese ser (grasa, hueso y médula), y ese ser (el hombre) se entrega (grasa, hueso y médula) a este ser (piel, sangre y carne). Así [2](../Aranyaka_2_3#fn576) estos dos crecen juntos. En esta forma (perteneciente a la mujer y al fuego) él va a ese mundo (perteneciente al hombre y al sol), y en esa forma (perteneciente al hombre y al sol) va a este mundo (perteneciente a la mujer y al fuego [3](../Aranyaka_2_3#fn577)).
 
 ## OCTAVO KHA<i>N</i><i>D</i>A.
 
@@ -182,7 +182,7 @@ Al identificar ciertas partes del himno Nishkevalya con un ave, la cabeza del av
 
 11\. 'Venid acá con lo que es más rápido que el entendimiento', y (Ap. VIII, 73, 2) 'Venid acá con lo que es más rápido que un abrir y cerrar de ojos', sí, un abrir y cerrar de ojos [^582].
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

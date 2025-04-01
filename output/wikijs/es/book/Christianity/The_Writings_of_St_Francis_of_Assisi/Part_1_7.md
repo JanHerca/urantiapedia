@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## VII. DE VIVIR RELIGIOSAMENTE EN UNA ERMITA.
 
@@ -80,7 +80,7 @@ Y no deben permitir que ninguna persona entre al claustro donde viven, ni que co
 
 [^355]: 87:2 Véase _Floretum S. Francisci_, ed. Sabatier, cap. 16, p. 60. Este capítulo, que es uno de los más interesantes desde un punto de vista crítico, representa a San Francisco consultando a Santa Clara y al hermano Silvestre sobre el tema de su duda.
 
-[^356]: 87:3 Véase Primera Regla, cap. vii (arriba, [p. 40](Part_1_4#p40)); también _Speculum Perf._, ed. Sabatier, págs. 25-26.
+[^356]: 87:3 Véase Primera Regla, cap. vii (arriba, [p. 40](../Part_1_4#p40)); también _Speculum Perf._, ed. Sabatier, págs. 25-26.
 
 [^357]: 87:4 Como lo describe poéticamente el autor del _Sacrum Commercium_. Muéstrenme su claustro, pide la Señora Pobreza a los frailes. Y ellos, conduciéndola a la cima de una colina, le mostraron el vasto mundo, diciendo: Este es nuestro claustro, oh Señora Pobreza. (Véase _La Señora Pobreza_, de M. Carmichael, pág. 128).
 
@@ -88,19 +88,19 @@ Y no deben permitir que ninguna persona entre al claustro donde viven, ni que co
 
 [^359]: 88:2 San Francisco usa habitualmente la palabra _locus_ o lugar para designar las habitaciones de los frailes (véase arriba, Regla II, cap. vi, p. 68).
 
-[^360]: 89:1 Véase “Franciscus in admonitionibus suis” (fruct. xii, p. 11, cap. 30). De este texto tomó Wadding el Reglamento para su edición de los _Opuscula_ en la que figura bajo el encabezado _Collationes Monasticae III_.
+[^360]: 89:1 Véase «Franciscus in admonitionibus suis» (fruct. xii, p. 11, cap. 30). De este texto tomó Wadding el Reglamento para su edición de los _Opuscula_ en la que figura bajo el encabezado _Collationes Monasticae III_.
 
-[^361]: 89:2 La figura que presenta a María y Marta como tipos de la vida contemplativa y activa era ya familiar. Véase Gregorio, _VI Moral._, c. 37, no. 61: “¿Qué expresa María, quien se sentó a escuchar las palabras del Señor, sino una vida contemplativa? ¿Qué significa Marta, ocupada en sus deberes externos, sino una vida activa?”
+[^361]: 89:2 La figura que presenta a María y Marta como tipos de la vida contemplativa y activa era ya familiar. Véase Gregorio, _VI Moral._, c. 37, no. 61: «¿Qué expresa María, quien se sentó a escuchar las palabras del Señor, sino una vida contemplativa? ¿Qué significa Marta, ocupada en sus deberes externos, sino una vida activa?»
 
-[^362]: 89:3 Cod. As. después de claustro se lee: “en el cual cada uno tendrá su propia celda”.
+[^362]: 89:3 Cod. As. después de claustro se lee: «en el cual cada uno tendrá su propia celda».
 
-[^363]: 89:4 Cod. As. dice: “inmediatamente después de la puesta del sol”.
+[^363]: 89:4 Cod. As. dice: «inmediatamente después de la puesta del sol».
 
 [^364]: 90:1 Lucas 12: 31.
 
-[^365]: 90:2 Esta es la lectura del Cod. As. e Is.; otros textos dicen los “mendigos más pobres”.
+[^365]: 90:2 Esta es la lectura del Cod. As. e Is.; otros textos dicen los «mendigos más pobres».
 
-[^366]: 90:3 Cod. O. añade: “cualquier mujer o persona que sea”.
+[^366]: 90:3 Cod. O. añade: «cualquier mujer o persona que sea».
 
 [^367]: 90:4 El texto en Cod. As. termina aquí.
 

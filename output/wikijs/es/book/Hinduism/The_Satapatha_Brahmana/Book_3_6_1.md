@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 <span id="v6_1_1"><sup><small>6:1:1</small></sup></span>
 
@@ -224,7 +224,7 @@ SEXTO KÂ<i>N</i><i>D</i>A.
 
 [^283]: 143:2 En el original, «lo inexistente» es el sujeto de la cláusula, no el predicado, como se desprende de la traducción. Una transposición similar suele ser aconsejable en inglés, por motivos de énfasis y por otras razones. La traducción de Muir, «Los Rishis dicen que en el principio había inexistencia», es errónea.
 
-[^284]: 143:3 El nominativo aquí es impactante y vívido (cf. [párrafo 11](Book_3_6_1#v6_1_1_11) más adelante). En pasajes correspondientes de los libros anteriores, el acusativo se usaría aquí; p. ej., II, 1, 2, 4: «saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate»; de igual manera, III, 1, 2, 3.
+[^284]: 143:3 El nominativo aquí es impactante y vívido (cf. [párrafo 11](../Book_3_6_1#v6_1_1_11) más adelante). En pasajes correspondientes de los libros anteriores, el acusativo se usaría aquí; p. ej., II, 1, 2, 4: «saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate»; de igual manera, III, 1, 2, 3.
 
 [^285]: 144:1 Es decir, seres vivos o almas, individualidades, que, en su forma combinada, se imaginan aquí con la forma de un pájaro. La traducción de Muir, «varones», resulta poco convincente.
 
@@ -236,7 +236,7 @@ SEXTO KÂ<i>N</i><i>D</i>A.
 
 [^289]: 146:1 Muir interpreta esto de otra manera: —Además, (como) el Veda fue creado primero a partir de ese Varón, por lo tanto fue creada su boca. Esta traducción, sin embargo, no tiene en cuenta la partícula «hi».
 
-[^290]: 146:2 Para la construcción, véase arriba, [párrafo 2](Book_3_6_1#v6_1_1_2), con la nota \*[^284]\*.
+[^290]: 146:2 Para la construcción, véase arriba, [párrafo 2](../Book_3_6_1#v6_1_1_2), con la nota \*[^284]\*.
 
 [^291]: 146:3 Literalmente, que había fluido. Se explica como el líquido embrionario en el amnios, o membrana interna que envuelve al feto.
 
@@ -254,7 +254,7 @@ SEXTO KÂ<i>N</i><i>D</i>A.
 
 [^298]: 149:2 Otra clase de deidades (de tormenta), aquí asociadas con Vâyu, el viento, el guardián de la región del aire.
 
-[^299]: 149:3 Esta clase de deidades (de luz) están aquí asociadas con el Sol, que de hecho es llamado Âditya en los párrafos [4](Book_3_6_1#v6_1_2_4) y [10](Book_3_6_1#v6_1_2_10) (en lugar de Sûrya).
+[^299]: 149:3 Esta clase de deidades (de luz) están aquí asociadas con el Sol, que de hecho es llamado Âditya en los párrafos [4](../Book_3_6_1#v6_1_2_4) y [10](../Book_3_6_1#v6_1_2_10) (en lugar de Sûrya).
 
 [^300]: 150:1 El profesor Weber (Ind. Stud. XIII, p. 268) ha llamado la atención sobre la discrepancia entre este pasaje y III, 4, 2, 1, donde se niega a los Vi<i>s</i>ve Devâ<i>h</i> (con B<i>ri</i>haspati) el privilegio de formar una clase especial de deidades, siendo este uno de los muchos puntos de diferencia, tanto doctrinales como lingüísticos, entre los Libros 1-5 y 6-10.
 
@@ -262,7 +262,7 @@ SEXTO KÂ<i>N</i><i>D</i>A.
 
 [^302]: 150:3 Literalmente, se desintegró, se hizo pedazos, se descoyuntó. Por lo tanto, cuando los dioses restauraron a Pra<i>g</i>âpati (el señor de la generación, identificado con el sacrificio, y con Agni, el fuego), el verbo usado es <i>s</i>a<i>m</i>sk<i>ri</i>; «reunir»; y esta unión, o restauración, de Pra<i>g</i>âpati se identifica simbólicamente con la construcción del altar del fuego.
 
-[^303]: 151:1 Upa-dhâ. Los párrafos [14](Book_3_6_1#v6_1_2_14) y [15](Book_3_6_1#v6_1_2_15) implican un doble significado de la palabra hita, el participio pasado de dhâ, poner, a saber: poner, dispuesto, adecuado, beneficioso.
+[^303]: 151:1 Upa-dhâ. Los párrafos [14](../Book_3_6_1#v6_1_2_14) y [15](../Book_3_6_1#v6_1_2_15) implican un doble significado de la palabra hita, el participio pasado de dhâ, poner, a saber: poner, dispuesto, adecuado, beneficioso.
 
 [^304]: 151:2 O, «me pondré», etc., upa-dhâ, el verbo usado para referirse a la colocación de ladrillos al construir el altar. Cf. II, 1, 2, 15.
 
@@ -270,31 +270,31 @@ SEXTO KÂ<i>N</i><i>D</i>A.
 
 [^306]: 153:1 A diferencia de los ladrillos ya<i>g</i>ushmatî (de oración), que tienen nombres especiales y fórmulas especiales adjuntas, lokam-p<i>ri</i><i>n</i>â (que llenan el espacio) es el término técnico para aquellos ladrillos que no tienen oraciones especiales que les pertenezcan, sino que están apilados con una fórmula común (Vâ<i>g</i>. S. XII, 54; Sat. Br. VIII, 7, 2, 1 seq.), que comienza con 'lokam p<i>ri</i><i>n</i>a <i>kh</i>idram p<i>ri</i>na', '¡llena el espacio, llena el hueco!'.
 
-[^307]: 154:1 Esta es la fórmula (Vâ<i>g</i>. S. XII, 53) con la que se realiza el llamado «sâdanam» o «asentamiento» de los ladrillos. Véase [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30).
+[^307]: 154:1 Esta es la fórmula (Vâ<i>g</i>. S. XII, 53) con la que se realiza el llamado «sâdanam» o «asentamiento» de los ladrillos. Véase [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30).
 
-[^308]: 154:2 Es decir, el primer ladrillo que la esposa del Sacrificador forma, y ​​que se llama Ashâ<i>dh</i>â. Véase [VI, 3, 1, 1](Book_3_6_3#v6_3_1_1); [5, 3, 1](Book_3_6_5#v6_5_3_1).
+[^308]: 154:2 Es decir, el primer ladrillo que la esposa del Sacrificador forma, y ​​que se llama Ashâ<i>dh</i>â. Véase [VI, 3, 1, 1](../Book_3_6_3#v6_3_1_1); [5, 3, 1](../Book_3_6_5#v6_5_3_1).
 
 [^309]: 155:1 Es decir, por medio de los ladrillos de arcilla y la tierra suelta puesta entre las capas.
 
 [^310]: 155:2 Sâya<i>n</i>a sólo se refiere aquí al hecho de que el sacrificio (ya<i>g</i><i>ñ</i>a) se llama 'pâṅkta', 'el quíntuple'.
 
-[^311]: 155:3 Véase [VII, 5, 2, 1](Book_3_7_5#v7_5_2_1) seq.
+[^311]: 155:3 Véase [VII, 5, 2, 1](../Book_3_7_5#v7_5_2_1) seq.
 
-[^312]: 155:4 Véase [VII, 4, 1, 15](Book_3_7_4#v7_4_1_15) seq.
+[^312]: 155:4 Véase [VII, 4, 1, 15](../Book_3_7_4#v7_4_1_15) seq.
 
-[^313]: 155:5 Véase [VII, 4, 1, 32](Book_3_7_4#v7_4_1_32) seq.
+[^313]: 155:5 Véase [VII, 4, 1, 32](../Book_3_7_4#v7_4_1_32) seq.
 
-[^314]: 155:6 Véase [VII, 5, 1, 12](Book_3_7_5#v7_5_1_12) seq.
+[^314]: 155:6 Véase [VII, 5, 1, 12](../Book_3_7_5#v7_5_1_12) seq.
 
-[^315]: 155:7 Véase [VII, 5, 1, 1](Book_3_7_5#v7_5_1_1) seq.
+[^315]: 155:7 Véase [VII, 5, 1, 1](../Book_3_7_5#v7_5_1_1) seq.
 
-[^316]: 155:8 Aparentemente, algún tipo de piedra porosa. Tres de estas piedras perforadas o «ladrillos» se utilizan en la construcción del altar de fuego: una se coloca sobre el hombre de oro en el centro de la capa inferior (se pronuncia un sâman relacionado con bhûs, la tierra, pág. 156 sobre él al tocarlo); la segunda en el centro de la tercera capa; y la tercera se coloca en el centro de la quinta capa una vez terminada. Representan los tres mundos, y los agujeros están destinados a proporcionar al sacrificador (representado por el hombre de oro) un paso a las regiones superiores. Véase [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1) ss.
+[^316]: 155:8 Aparentemente, algún tipo de piedra porosa. Tres de estas piedras perforadas o «ladrillos» se utilizan en la construcción del altar de fuego: una se coloca sobre el hombre de oro en el centro de la capa inferior (se pronuncia un sâman relacionado con bhûs, la tierra, pág. 156 sobre él al tocarlo); la segunda en el centro de la tercera capa; y la tercera se coloca en el centro de la quinta capa una vez terminada. Representan los tres mundos, y los agujeros están destinados a proporcionar al sacrificador (representado por el hombre de oro) un paso a las regiones superiores. Véase [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1) ss.
 
 [^317]: 156:1 No está del todo claro si el autor incurre en trivialidades etimológicas (go—gû). El manuscrito de Bombay de Sâya<i>n</i>a dice: —imâ<i>m</i>stallokân ga<i>k</i><i>kh</i>atîti kavana(?gavana)karmasâdhana<i>m</i> go<i>s</i>abda<i>m</i> dar<i>s</i>ayati.
 
-[^318]: 157:1 Véase [VI, 1, 1, 2](Book_3_6_1#v6_1_1_2) siguientes, donde los siete aires vitales están representados asumiendo la forma de un pájaro: el Purusha Pra<i>g</i>âpati.
+[^318]: 157:1 Véase [VI, 1, 1, 2](../Book_3_6_1#v6_1_1_2) siguientes, donde los siete aires vitales están representados asumiendo la forma de un pájaro: el Purusha Pra<i>g</i>âpati.
 
-[^319]: 157:2 Véanse los párrafos [7](Book_3_6_1#v6_1_2_7)\-[11](Book_3_6_1#v6_1_2_11).
+[^319]: 157:2 Véanse los párrafos [7](../Book_3_6_1#v6_1_2_7)\-[11](../Book_3_6_1#v6_1_2_11).
 
 [^320]: 158:1 Quiere decir que dejará que esto se suministre en la enumeración de las creaciones posteriores.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p215">[<sup><small>pág. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ### CAPÍTULO VII.
 

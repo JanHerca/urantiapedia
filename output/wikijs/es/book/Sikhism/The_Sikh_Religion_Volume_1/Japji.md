@@ -44,7 +44,7 @@ El Verdadero estaba en el principio; el Verdadero estaba en la era primordial.
 
 El Verdadero es[^5] ahora también, oh Nanak; el Verdadero también será.[^6]
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ### I
 
@@ -89,7 +89,7 @@ Entonces, ¿qué podemos ofrecerle para que su corte pueda ser vista?
 ¿Qué palabras pronunciaremos con nuestros labios, para que al oírlas Él nos ame?
 En la hora ambrosial de la mañana medita en el verdadero Nombre y la grandeza de Dios.
 
-<span id="p198">[<sup><small>pág. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 El Bondadoso nos dará un manto de honor, y por Su favor alcanzaremos la puerta de la salvación.[^1]
 Nanak, así sabremos que Dios es completamente verdadero.[^2]
@@ -105,7 +105,7 @@ _Así_ se disiparán tus penas y quedarás absorto en Aquel que es la morada de 
 Bajo la instrucción del Gurú se escucha la palabra de Dios; bajo la instrucción del Gurú se adquiere su conocimiento; bajo la instrucción del Gurú el hombre aprende que Dios está en todas partes.[^4]
 El Gurú es Shiv; el Gurú es Vishnu y Brahma; el Gurú es Parbati, Lakhshmi,[^5] y Saraswati.[^6]
 
-<span id="p199">[<sup><small>pág. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Si lo conociera, ¿no debería describirlo? No se puede describir con palabras.
 Mi Gurú me ha explicado una cosa:
@@ -127,7 +127,7 @@ Si él alcanzara un gran nombre, alabanza y renombre en el mundo;
 Si la mirada favorable de Dios no cayera sobre él, nadie lo notaría.
 Sería considerado un gusano entre gusanos, e incluso los pecadores le imputarían pecado.
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 Nanak, Dios puede otorgar virtud a aquellos que están desprovistos de ella.
 de ella, así como de aquellos que _ya_ la poseen;
@@ -157,7 +157,7 @@ Al escuchar el Nombre se obtienen la verdad, la satisfacción y el conocimiento 
 Escuchar el Nombre es igual a bañarse en los sesenta y ocho lugares de peregrinación.
 Al oír el Nombre y leerlo el hombre obtiene honor.[^5]
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Al escuchar el Nombre, la mente se compone y se fija en Dios.[^1]
 Nanak, los santos están siempre felices.
@@ -190,7 +190,7 @@ Obedeciéndole a Él el hombre no se separará de Él[^4]
 Tan puro es el nombre de Dios—
 El que obedece a Dios conoce el placer que ello supone en su propio corazón.
 
-<span id="p202">[<sup><small>pág. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 ### XIV
 
@@ -267,7 +267,7 @@ _Soy tan humilde_ que ni siquiera una vez puedo ser un sacrificio para Ti.
 Todo lo que te agrada es bueno.
 Oh Sin Forma, Tú estás siempre Seguro.
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ### XIX
 
@@ -297,7 +297,7 @@ Así que cuando la mente está contaminada por el pecado,
 Es purificado por el amor[^4] del Nombre.
 Los hombres no se convierten en santos o pecadores por el mero hecho de llamarse así.
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 _Los ángeles registradores_ llevan consigo un registro de los actos del hombre.
 Él mismo siembra y él mismo come.
@@ -339,7 +339,7 @@ Como los ríos y los arroyos desembocan en el mar, pero desconocen su extensión
 Reyes y emperadores que poseen océanos y montañas de propiedades y riquezas,[^4]
 No somos iguales al gusano que no se olvida de Dios en su corazón.
 
-<span id="p208">[<sup><small>pág. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ### XXIV
 
@@ -371,7 +371,7 @@ Sus muchas bondades[^4] no se pueden registrar,
 ¿Cuántos mueren alguna vez en apuros y hambre?
 Oh Dador, éstos son también Tus dones.
 
-<span id="p209">[<sup><small>pág. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 El renacimiento[^1] y la liberación dependen de tu voluntad:
 Nadie puede interferir con ello.
@@ -395,7 +395,7 @@ Inestimable tu misericordia, e inestimables tus ordenanzas.
 Es algo que no se puede expresar con palabras: estás más allá de todo precio.
 Hablando siempre de Ti, los hombres continúan fijando sus pensamientos en Ti.[^7]
 
-<span id="p212">[<sup><small>pág. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Que Dios es siempre verdadero, Él es el verdadero Señor y el verdadero Nombre.
 El que hizo este mundo, es y será; no se apartará ni será apartado.[^1]
@@ -427,7 +427,7 @@ Las huestes que visten los colores de tu fe.
 Todas las cosas junto a las cuales cantan tu glorioso nombre,
 Nunca podría decirse por la humilde canción de Nanak.
 
-<span id="p213">[<sup><small>pág. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 ¡SALVE![^1] SALVE A ÉL,
 
@@ -455,7 +455,7 @@ Como le place a Dios, Él los dirige con sus órdenes.
 
 ¡Lo primigenio, lo puro, sin principio, lo indestructible, lo mismo en todos los tiempos!
 
-<span id="p214">[<sup><small>pág. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 ### XXXI
 
@@ -488,7 +488,7 @@ Aquel en cuyo brazo hay fuerza, verá lo que puede hacer.
 Nanak, nadie es superior o inferior en fuerza ante Dios.
 
 
-<span id="p215">[<sup><small>pág. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ### XXXIV
 
@@ -518,7 +518,7 @@ Ahora describo la condición del reino del conocimiento.
 ¡Cuántas fuentes de vida! ¡Cuántas lenguas! ¡Y cuántas líneas de reyes!
 ¡Cuántos poseedores del conocimiento divino! ¡Y ahora cuántos adoradores! Nanak, ¡no hay fin!
 
-<span id="p216">[<sup><small>pág. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 ### XXXVI
 
@@ -548,7 +548,7 @@ Dios habita en el reino verdadero.[^5]
 Hay continentes, mundos y universos.
 Quien intente describirlas, jamás llegará al final.
 
-<span id="p217">[<sup><small>pág. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Hay mundos sobre mundos y formas _sobre formas_.
 Ellos _cumplen_ sus funciones según las órdenes de Dios:
@@ -574,7 +574,7 @@ Según las obras de los hombres, unos estarán cerca de Dios y otros lejos de é
 Aquellos que han reflexionado sobre el Nombre y se han marchado tras haber cumplido su labor,[^3]
 ¡Oh Nanak, sus rostros se iluminarán! ¡Cuántos serán emancipados en compañía de ellos!
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

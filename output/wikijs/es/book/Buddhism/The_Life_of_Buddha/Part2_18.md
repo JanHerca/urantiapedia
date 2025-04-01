@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 
 El Maestro permaneció en Cravasti un tiempo; luego partió para regresar a Rajagriha, donde lo esperaba el rey Vimbasara. Se había detenido a descansar en una aldea a mitad de camino, cuando vio acercarse a siete hombres. Los reconoció. Seis eran parientes, y se encontraban entre los sakyas más ricos y poderosos. Sus nombres eran Anuruddha, Bhadrika, Bhrigu, Kimbala, Devadatta y Ananda. El séptimo era un barbero llamado Upali.
@@ -45,15 +45,15 @@ Los seis príncipes partieron entonces para reunirse con el Buda. <span id="p197
 
 Bhadrika se sonrojó; pero luego vio que Ananda también llevaba sus joyas y respondió riendo:
 
-“Mírate a ti mismo, Ananda”.
+«Mírate a ti mismo, Ananda».
 
 Ahora fue el turno de Ananda de sonrojarse.
 
 Entonces todos se miraron y descubrieron que aún llevaban sus joyas. Sintieron vergüenza; bajaron la mirada y caminaron por el camino en silencio cuando se encontraron con el barbero Upali.
 
-“Barbero”, dijo Ananda, “toma mis joyas; te las doy”.
+«Barbero», dijo Ananda, «toma mis joyas; te las doy».
 
-“Y toma el mío”, dijo Bhadrika.
+«Y toma el mío», dijo Bhadrika.
 
 Los demás también le entregaron sus joyas a Upali. Él no supo qué responder. ¿Por qué estos príncipes, que nunca lo habían visto, le hacían tales regalos? ¿Debería aceptarlos? ¿Debería rechazarlos?
 
@@ -63,7 +63,7 @@ No temas aceptar estas joyas. Nos dirigimos a unirnos al gran ermitaño nacido d
 
 —Príncipes —preguntó el barbero—, ¿vais a haceros monjes?
 
-“Sí”, respondieron.
+«Sí», respondieron.
 
 Entonces tomó las joyas y partió hacia la ciudad. Pero, de repente, pensó: «Estoy actuando como un necio. ¿Quién creerá que los príncipes me han impuesto estas riquezas? Me tomarán por ladrón, o quizás por asesino. Lo menos que me puede pasar es que los Sakyas me desagraden profundamente. No me quedaré con las joyas». Las colgó en un árbol que estaba junto al camino. Y pensó: «Esos príncipes están dando un noble ejemplo. Tuvieron el valor de dejar sus palacios; ¿acaso yo, que no soy nada, no tengo el valor de dejar mi tienda? No. Los seguiré. Yo también veré al Buda, ¡y que él me reciba en la comunidad!».
 
@@ -73,9 +73,9 @@ Siguió a los príncipes a distancia. Le daba vergüenza unirse a ellos. Bhadrik
 
 «Yo también quiero ser monje», respondió el barbero.
 
-“Entonces camina con nosotros”, dijo Bhadrika.
+«Entonces camina con nosotros», dijo Bhadrika.
 
-<span id="p199">[<sup><small>pág. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Pero Upali seguía rezagado. Anuruddha le dijo:
 

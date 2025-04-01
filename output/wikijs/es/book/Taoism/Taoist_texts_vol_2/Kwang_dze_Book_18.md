@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:58Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_19">
-          <span class="pr-2">Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XIX. Tâ Shäng, o «La comprensión plena de la vida».</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 LOS TEXTOS DEL TAOÍSMO.
 
@@ -82,7 +82,7 @@ El marqués intentaba alimentar al ave con lo que usaba para sí mismo, y no con
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_19">
-          <span class="pr-2">Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XIX. Tâ Shäng, o «La comprensión plena de la vida».</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

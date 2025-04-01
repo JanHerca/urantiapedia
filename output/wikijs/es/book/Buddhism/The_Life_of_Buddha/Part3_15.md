@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 
 Antes de morir, el Bendito decidió emprender un largo viaje. Quería visitar a algunos de sus discípulos y exhortarlos a observar sus enseñanzas con escrupuloso cuidado. Con solo Ananda como compañero, abandonó la ciudad de Rajagriha.
@@ -43,45 +43,45 @@ Llegará un tiempo en que los hombres se preguntarán por qué entré en el vien
 
 Un pastor cruzaba el campo. Tenía la serenidad de quien realiza tranquilamente una labor llena de alegría.
 
-“¿Quién eres, pastor?” le preguntó el Maestro.
+«¿Quién eres, pastor?» le preguntó el Maestro.
 
-“Mi nombre es Dhaniya”, respondió el pastor.
+«Mi nombre es Dhaniya», respondió el pastor.
 
 ¿A dónde vas?, preguntó el Maestro.
 
-“Me voy a casa con mi esposa y mis hijos”.
+«Me voy a casa con mi esposa y mis hijos».
 
-“¿Parece que conoces la felicidad pura, pastor?”
+«¿Parece que conoces la felicidad pura, pastor?»
 
-“He hervido mi arroz, he ordeñado mis vacas”, dijo el pastor Dhaniya; “vivo con mi familia a orillas del río; mi casa está bien techada, mi fuego está encendido; así que cae si quieres, oh lluvia del cielo”.
+«He hervido mi arroz, he ordeñado mis vacas», dijo el pastor Dhaniya; «vivo con mi familia a orillas del río; mi casa está bien techada, mi fuego está encendido; así que cae si quieres, oh lluvia del cielo».
 
-“Estoy libre de ira, estoy libre de terquedad”, dijo el Maestro; “Paso la noche en las orillas del río; mi casa no tiene techo, el fuego de las pasiones se ha extinguido en mi ser; así que cae si quieres, oh lluvia del cielo”.
+«Estoy libre de ira, estoy libre de terquedad», dijo el Maestro; «Paso la noche en las orillas del río; mi casa no tiene techo, el fuego de las pasiones se ha extinguido en mi ser; así que cae si quieres, oh lluvia del cielo».
 
-“Los tábanos nunca atormentan mi rebaño”, dijo el pastor Dhaniya; “mis vacas vagan por los prados herbosos; pueden soportar la lluvia que llega; así que cae si quieres, oh lluvia del cielo”.
+«Los tábanos nunca atormentan mi rebaño», dijo el pastor Dhaniya; «mis vacas vagan por los prados herbosos; pueden soportar la lluvia que llega; así que cae si quieres, oh lluvia del cielo».
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
-“Construí una balsa robusta, zarpé hacia el nirvana”, dijo el Maestro; “crucé el torrente de las pasiones y llegué a las orillas santas; ya no necesito la balsa; así que cae si quieres, oh lluvia del cielo”.
+«Construí una balsa robusta, zarpé hacia el nirvana», dijo el Maestro; «crucé el torrente de las pasiones y llegué a las orillas santas; ya no necesito la balsa; así que cae si quieres, oh lluvia del cielo».
 
-“Mi esposa es obediente, es casta y buena”, dijo el pastor Dhaniya; “ha vivido conmigo todos estos años; es agradable y bondadosa, nadie habla mal de ella; así que cae si quieres, oh lluvia del cielo”.
+«Mi esposa es obediente, es casta y buena», dijo el pastor Dhaniya; «ha vivido conmigo todos estos años; es agradable y bondadosa, nadie habla mal de ella; así que cae si quieres, oh lluvia del cielo».
 
-“Mi mente es obediente, está libre de todas las ataduras”, dijo el Maestro; “la he entrenado durante todos estos años; es completamente dócil, no queda mal alguno en mí; así que cae si quieres, oh lluvia del cielo”.
+«Mi mente es obediente, está libre de todas las ataduras», dijo el Maestro; «la he entrenado durante todos estos años; es completamente dócil, no queda mal alguno en mí; así que cae si quieres, oh lluvia del cielo».
 
-“Yo mismo pago a mis sirvientes sus salarios”, dijo el pastor Dhaniya; “mis hijos reciben comida sana en mi mesa; nadie ha intentado jamás hablar mal de ellos; así que cae si quieres, oh lluvia del cielo”.
+«Yo mismo pago a mis sirvientes sus salarios», dijo el pastor Dhaniya; «mis hijos reciben comida sana en mi mesa; nadie ha intentado jamás hablar mal de ellos; así que cae si quieres, oh lluvia del cielo».
 
-“No soy sirviente de nadie”, dijo el Maestro; “con lo que gano viajo por todo el mundo; no tengo necesidad de ningún sirviente; así que cae si quieres, oh lluvia del cielo”.
+«No soy sirviente de nadie», dijo el Maestro; «con lo que gano viajo por todo el mundo; no tengo necesidad de ningún sirviente; así que cae si quieres, oh lluvia del cielo».
 
-“Tengo vacas, tengo terneros, tengo novillas”, dijo el pastor Dhaniya, “y tengo un perro que es el señor de mi rebaño; así que cae si quieres, oh lluvia del sol.
+«Tengo vacas, tengo terneros, tengo novillas», dijo el pastor Dhaniya, “y tengo un perro que es el señor de mi rebaño; así que cae si quieres, oh lluvia del sol.
 
 «No tengo vacas, ni terneros, ni novillas», dijo el Maestro, «y no tengo perro que me vigile; así que cae si quieres, ¡oh lluvia del cielo!».
 
-“Las estacas están profundamente clavadas en la tierra, nada puede moverlas”, dijo el pastor Dhaniya; las cuerdas son nuevas y están hechas de hierbas fuertes; las vacas ya no las romperán; así que cae si quieres, oh lluvia del cielo”.
+«Las estacas están profundamente clavadas en la tierra, nada puede moverlas», dijo el pastor Dhaniya; las cuerdas son nuevas y están hechas de hierbas fuertes; las vacas ya no las romperán; así que cae si quieres, oh lluvia del cielo”.
 
-“Como el perro que ha roto su cadena”, dijo el Maestro, “como el elefante que ha roto sus grilletes, nunca más entraré en un vientre materno; así que cae si quieres, oh lluvia del cielo”.
+«Como el perro que ha roto su cadena», dijo el Maestro, «como el elefante que ha roto sus grilletes, nunca más entraré en un vientre materno; así que cae si quieres, oh lluvia del cielo».
 
 El pastor Dhaniya se inclinó ante el Maestro y dijo:
 
-“Ahora sé quién eres, Oh Bendito; ven conmigo a mi casa”.
+«Ahora sé quién eres, Oh Bendito; ven conmigo a mi casa».
 
 Cuando estaban a punto de entrar en la casa, la lluvia caía a cántaros y formaba pequeños arroyos que se deslizaban por el suelo. Cuando Dhaniya oyó la lluvia, pronunció estas palabras:
 
@@ -89,9 +89,9 @@ En verdad, hemos adquirido grandes riquezas desde que vimos al Buda. Oh Maestro,
 
 Entonces se oyó una voz, y Mara, el Maligno, se paró frente a ellos. Nadie lo había visto venir.
 
-“Quien tiene hijos es feliz de ver a sus hijos”, dijo Mara, el Maligno; “quien tiene vacas es feliz de ver a sus vacas; feliz es el hombre de sustancia, y quien no tiene sustancia no es feliz”.
+«Quien tiene hijos es feliz de ver a sus hijos», dijo Mara, el Maligno; «quien tiene vacas es feliz de ver a sus vacas; feliz es el hombre de sustancia, y quien no tiene sustancia no es feliz».
 
-“Quien tiene hijos se preocupa de ver a sus hijos”, dijo el Maestro; “quien tiene vacas se preocupa de ver a sus vacas; preocupado está el hombre de sustancia, y quien no tiene sustancia no tiene preocupaciones”.
+«Quien tiene hijos se preocupa de ver a sus hijos», dijo el Maestro; «quien tiene vacas se preocupa de ver a sus vacas; preocupado está el hombre de sustancia, y quien no tiene sustancia no tiene preocupaciones».
 
 Pero Mara había huido. Dhaniya y su esposa escuchaban al Maestro hablar.
 

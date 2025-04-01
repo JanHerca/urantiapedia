@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## PRAP_TH_AKA II, K_N__D_IK 1.
 
@@ -155,7 +155,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11\. [^205] (Ella dice): 'Yo (NN) estoy retenida firmemente', etc., como arriba (Sûtra 9).
 
-12\. Luego se dirige a ella con el verso: “Firme es el cielo” (MB. I, 3, 7).
+12\. Luego se dirige a ella con el verso: «Firme es el cielo» (MB. I, 3, 7).
 
 13\. [^206] Después de que le han hablado de esta manera, ella respetuosamente llama a su Gurú por su nombre Gotra.
 
@@ -211,7 +211,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 5.
 
@@ -254,7 +254,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. [^222] (Lo compra con los Mantras):
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 "Si perteneces a Soma, te compro para el rey Soma.
 
@@ -391,7 +391,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -497,7 +497,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 20\. Mirando (al estudiante), el maestro murmura (el verso): 'Con aquel que viene a nosotros, nos hemos reunido' (MB. I, 6, 14).
 
-21\. Hace que (el estudiante) diga: “He venido aquí para ser estudiante” (ibid. 16).
+21\. Hace que (el estudiante) diga: «He venido aquí para ser estudiante» (ibid. 16).
 
 22\. [^256] En (las palabras), "¿Cuál es tu nombre?" (ibid. 17), pregunta por su nombre.
 
@@ -521,7 +521,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 32\. Y con su mano izquierda, el hombro izquierdo, con la fórmula: «¡Te entrego al cuidado del dios Savit_ri_, NN!» (ibid. 24).
 
-33\. [^257] Luego le ordena (observar los deberes del Brahma<i>k</i>arya, mediante la fórmula): “¡Eres un estudiante, NN!” (ibid. 25).
+33\. [^257] Luego le ordena (observar los deberes del Brahma<i>k</i>arya, mediante la fórmula): «¡Eres un estudiante, NN!» (ibid. 25).
 
 34\. «Cargar combustible. Beber agua. Realizar el servicio. No dormir durante el día» (ibid. 26).
 
@@ -597,7 +597,7 @@ Fin del segundo Prapâ<i>th</i>aka.
 
 [^190]: 43:10 «Con Klîtaka», etc., significa con agua en la que se ha vertido Klîtaka, etc.; comp. G<i>ri</i>hya-sa<i>ri</i>graha II, 15. «Surâ de primera calidad» es Surâ preparada con melaza; véase G<i>ri</i>hya-sa<i>ri</i>graha II, 16. Comp., sin embargo, también G<i>ri</i>hya-sa<i>ri</i>graha II, 41.
 
-[^191]: 43:13 Khâdira-Grihya I, 3, 5; Grihya-sarigraha II, 25, 26. «Agua firme» parece ser agua que no se seca. El Grihya-sarigraha dice: «Agua que tiene su olor, color y sabor, que se encuentra en grandes ríos, pozos y otros receptáculos, y en estanques: a dicha agua se le llama “firme”; este es el significado fijo». Compárese con la nota de Bloomfield, ZDMG XXXV, 574.
+[^191]: 43:13 Khâdira-Grihya I, 3, 5; Grihya-sarigraha II, 25, 26. «Agua firme» parece ser agua que no se seca. El Grihya-sarigraha dice: «Agua que tiene su olor, color y sabor, que se encuentra en grandes ríos, pozos y otros receptáculos, y en estanques: a dicha agua se le llama «firme»; este es el significado fijo». Compárese con la nota de Bloomfield, ZDMG XXXV, 574.
 
 [^192]: 44:17 17-19. Khâdira-G<i>ri</i>hya I, 3, 6. Ya<i>ri</i><i>ri</i>opavîtinîm en el Sûtra 19 significa, según el comentario, que ella lleva su prenda exterior dispuesta como el cordón sacrificial, sobre su hombro izquierdo; pues a las mujeres no se les permite llevar el cordón sacrificial en sí.
 

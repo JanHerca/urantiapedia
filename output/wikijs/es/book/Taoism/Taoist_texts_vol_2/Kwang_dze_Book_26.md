@@ -1,5 +1,5 @@
 ---
-title: "Libro XXVI. Wâi Wû, o “Lo que viene de afuera”."
+title: "Libro XXVI. Wâi Wû, o «Lo que viene de afuera»."
 description: "Textos taoístas, vol. 2; Chuang-tzu parte II"
 published: true
 date: 2025-2-12T12:58:58Z

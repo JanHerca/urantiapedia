@@ -36,7 +36,7 @@ Dhri tarashtra dijo:
 
 ¿Quién posee esta taciturnidad [^709], y cuál de las dos [^710] es la taciturnidad? Describe, ¡oh, erudito!, la condición de taciturnidad aquí. ¿Acaso un erudito alcanza la taciturnidad [^711] mediante la taciturnidad? ¿Y cómo, ¡oh, sabio!, ​​practican la taciturnidad en este mundo?
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Sanatsugâta dijo:
 
@@ -80,7 +80,7 @@ Algunos se jactan de conocer los Vedas, con los Âkhyânas como <span id="p171">
 
 Sanatsugâta dijo:
 
-Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes!, surgieron numerosos Vedas. Algunos [^788] solo se aferran a la verdad. Las fantasías de quienes se han apartado de la verdad son infructuosas, y por ignorancia de la verdad, las ceremonias se amplifican [^789]. Se debe entender que un brahmán, que solo lee mucho, es un hombre de muchas palabras [^790]. Conócelo solo como el brahmán (verdadero), que no se desvía de la verdad [^791]. ¡Oh, tú, el más elevado entre los hombres [^792]!, los <i>Kh</i>andas, en verdad, se remiten a él [^793]. Por lo tanto, <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Al estudiarlos, las personas eruditas que comprenden los <i>Kh</i>andas alcanzan el Veda, no lo que debe conocerse [^794]. Entre los Vedas, no hay nadie que los comprenda [^795]. Por culpa de la ignorancia [^796], uno no comprende el Veda ni el objeto del conocimiento [^797]. Quien conoce el Veda conoce el objeto del conocimiento. Quien conoce el objeto del conocimiento [^798] no conoce la verdad. Quien comprende los Vedas comprende también el objeto del conocimiento; pero eso [^799] no lo comprenden los Vedas ni quienes los comprenden. Aun así, los brahmanes que comprenden los Vedas, comprenden el Veda por medio de los Vedas [^800]. Como la rama de un árbol respecto a la parte de una porción del glorioso [^801], así, según declaran, son los Vedas respecto a la <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> la comprensión del ser supremo. Entiendo que es un brahmán ingenioso que explica [^802] (los textos védicos). Quien comprende (esos textos) así [^803], conoce verdaderamente ese (principio) supremo. No se debe buscarlo entre (cosas) antagónicas [^804] en absoluto. Sin buscarlo (ahí), se ve a ese Señor mediante el Veda [^805]. Permaneciendo en silencio, se debe practicar la devoción, y ni siquiera formular un deseo en la mente [^806]. Para él, el Brahman se presenta [^807] mismo, y directamente después alcanza al perfecto [^808]. Por la taciturnidad [^809], uno se vuelve sabio; no se vuelve sabio morando en un bosque [^810]. Y se le llama el sabio supremo a quien comprende ese principio indestructible. Se le llama analizador [^811] (también) por <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> analizar todos los objetos. El análisis proviene de eso como raíz; y al realizar tal análisis, se le llama así. El hombre que ve los mundos directamente lo ve todo [1](Sanatsugatiya_4#fn812). Un brahmán, en verdad, que se aferra a la verdad, la comprende y se vuelve omnisciente. ¡Te digo, oh erudito!que adhiriéndose al conocimiento y al resto [2](Sanatsugatiya_4#fn813) de esta manera, uno ve al Brahman, ¡oh Kshatriya!, mediante un curso (de estudio) en los Vedas [3](Sanatsugatiya_4#fn814).
+Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes!, surgieron numerosos Vedas. Algunos [^788] solo se aferran a la verdad. Las fantasías de quienes se han apartado de la verdad son infructuosas, y por ignorancia de la verdad, las ceremonias se amplifican [^789]. Se debe entender que un brahmán, que solo lee mucho, es un hombre de muchas palabras [^790]. Conócelo solo como el brahmán (verdadero), que no se desvía de la verdad [^791]. ¡Oh, tú, el más elevado entre los hombres [^792]!, los <i>Kh</i>andas, en verdad, se remiten a él [^793]. Por lo tanto, <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Al estudiarlos, las personas eruditas que comprenden los <i>Kh</i>andas alcanzan el Veda, no lo que debe conocerse [^794]. Entre los Vedas, no hay nadie que los comprenda [^795]. Por culpa de la ignorancia [^796], uno no comprende el Veda ni el objeto del conocimiento [^797]. Quien conoce el Veda conoce el objeto del conocimiento. Quien conoce el objeto del conocimiento [^798] no conoce la verdad. Quien comprende los Vedas comprende también el objeto del conocimiento; pero eso [^799] no lo comprenden los Vedas ni quienes los comprenden. Aun así, los brahmanes que comprenden los Vedas, comprenden el Veda por medio de los Vedas [^800]. Como la rama de un árbol respecto a la parte de una porción del glorioso [^801], así, según declaran, son los Vedas respecto a la <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> la comprensión del ser supremo. Entiendo que es un brahmán ingenioso que explica [^802] (los textos védicos). Quien comprende (esos textos) así [^803], conoce verdaderamente ese (principio) supremo. No se debe buscarlo entre (cosas) antagónicas [^804] en absoluto. Sin buscarlo (ahí), se ve a ese Señor mediante el Veda [^805]. Permaneciendo en silencio, se debe practicar la devoción, y ni siquiera formular un deseo en la mente [^806]. Para él, el Brahman se presenta [^807] mismo, y directamente después alcanza al perfecto [^808]. Por la taciturnidad [^809], uno se vuelve sabio; no se vuelve sabio morando en un bosque [^810]. Y se le llama el sabio supremo a quien comprende ese principio indestructible. Se le llama analizador [^811] (también) por <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> analizar todos los objetos. El análisis proviene de eso como raíz; y al realizar tal análisis, se le llama así. El hombre que ve los mundos directamente lo ve todo [1](../Sanatsugatiya_4#fn812). Un brahmán, en verdad, que se aferra a la verdad, la comprende y se vuelve omnisciente. ¡Te digo, oh erudito!que adhiriéndose al conocimiento y al resto [2](../Sanatsugatiya_4#fn813) de esta manera, uno ve al Brahman, ¡oh Kshatriya!, mediante un curso (de estudio) en los Vedas [3](../Sanatsugatiya_4#fn814).
 
 <figure class="table chapter-navigator">
   <table>
@@ -112,7 +112,7 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^711]: 162:2 Es decir, en el camino hacia la emancipación final.
 
-[^712]: 162:3 El goce de la felicidad suprema, Brahmânanda (<i>S</i>ankara); la grandeza que consiste en el conocimiento de _Rik_, Ya<i>g</i>us, <i>S</i>man, y la esencia de sus enseñanzas, que es digna de un Brâhma<i>n</i>a (Nîlakan<i>th</i>a). Véase también Anugîtâ, [p. 232](Anugita_1#p232).
+[^712]: 162:3 El goce de la felicidad suprema, Brahmânanda (<i>S</i>ankara); la grandeza que consiste en el conocimiento de _Rik_, Ya<i>g</i>us, <i>S</i>man, y la esencia de sus enseñanzas, que es digna de un Brâhma<i>n</i>a (Nîlakan<i>th</i>a). Véase también Anugîtâ, [p. 232](../Anugita_1#p232).
 
 [^713]: 162:4 Modestia = estar avergonzado de hacer el mal; restricción (de los sentidos) = restricción mental; y la pureza es tanto interna como externa, - <i>S</i>ankara; el conocimiento es, por supuesto, conocimiento del Brahman.
 
@@ -128,7 +128,7 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^719]: 163:3 O, dice <i>Sankara</i>, 'quien es el autor de los Vedas'.
 
-[^720]: 163:4 Es decir, 'con los Vedas', dice Nîlaka<i>nth</i>a, siendo Om, la quintaesencia de los Vedas, un nombre del Brahman (sobre lo cual cf. Gîtâ, [p. 79](Bhagavadgita_8#p79), y Maitrî, ​​p. 84). <i>S</i>ankara toma la expresión completa como significando <i>g</i>yotirmaya, que consiste en luz. Nîlaka<i>nth</i>a dice que esta estrofa responde a las cinco preguntas siguientes hechas en la estrofa precedente, a saber: ¿de qué sirve la taciturnidad? ¿cuál de las dos es la taciturnidad? etc., como arriba. Las primeras cuatro preguntas se responden en las dos primeras líneas de esta estrofa. La esencia de la respuesta es que el uso de la taciturnidad es alcanzar el asiento que ni siquiera la mente puede alcanzar, y que la taciturnidad incluye tanto la restricción de la mente como de los sentidos externos. Mediante dicha restricción, los mundos externo e interno dejan de percibirse como existentes y se alcanza la meta suprema.
+[^720]: 163:4 Es decir, 'con los Vedas', dice Nîlaka<i>nth</i>a, siendo Om, la quintaesencia de los Vedas, un nombre del Brahman (sobre lo cual cf. Gîtâ, [p. 79](../Bhagavadgita_8#p79), y Maitrî, ​​p. 84). <i>S</i>ankara toma la expresión completa como significando <i>g</i>yotirmaya, que consiste en luz. Nîlaka<i>nth</i>a dice que esta estrofa responde a las cinco preguntas siguientes hechas en la estrofa precedente, a saber: ¿de qué sirve la taciturnidad? ¿cuál de las dos es la taciturnidad? etc., como arriba. Las primeras cuatro preguntas se responden en las dos primeras líneas de esta estrofa. La esencia de la respuesta es que el uso de la taciturnidad es alcanzar el asiento que ni siquiera la mente puede alcanzar, y que la taciturnidad incluye tanto la restricción de la mente como de los sentidos externos. Mediante dicha restricción, los mundos externo e interno dejan de percibirse como existentes y se alcanza la meta suprema.
 
 [^721]: 163:5 Esta pregunta surge de manera bastante natural en la interpretación de Nîlaka<i>nth</i>a de la estrofa precedente, cuyo significado es en esencia que los Vedas no pueden captar el Brahman completamente, pero son útiles para una comprensión rudimentaria de él, como se dice más adelante, ver [p. 172](#p172) infra.
 
@@ -138,7 +138,7 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^724]: 164:2 Es decir, hipócritamente.
 
-[^725]: 164:3 Es decir, no se elevan a su memoria—Nîlaka<i>nth</i>a, citando el Gîtâ, [p. 78](Bhagavadgita_8#p78) supra.
+[^725]: 164:3 Es decir, no se elevan a su memoria—Nîlaka<i>nth</i>a, citando el Gîtâ, [p. 78](../Bhagavadgita_8#p78) supra.
 
 [^726]: 164:4 Scil. sobre la veneración debida a quien ha estudiado los Vedas—Nîlaka<i>nth</i>a, citando uno o dos pasajes al respecto.
 
@@ -150,15 +150,15 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^730]: 164:8 Es decir, el Brahman, es decir, para alcanzarlo. Penitencia = <i>k</i>ândrâya<i>n</i>a y otras observancias; sacrificio = <i>g</i>yotish<i>t</i>oma, etc.
 
-[^731]: 164:9 Cfr. [pag. 158](Sanatsugatiya_2#p158) supra, y Taittirîya-âra<i>ny</i>aka, p. 888.
+[^731]: 164:9 Cfr. [pag. 158](../Sanatsugatiya_2#p158) supra, y Taittirîya-âra<i>ny</i>aka, p. 888.
 
 [^732]: 165:1 Cf. <i>S</i>vetâ<i>s</i>vatara, pág. 327; Mu<i>nd</i>aka, pág. 323.
 
-[^733]: 165:2 Así que <i>Sankara</i>. Nîlaka<i>nth</i>a interpreta la palabra original como «el grupo de los sentidos», y la frase completa como «disfrutes de los sentidos». Nîlaka<i>nth</i>a se apoya en un pasaje posterior, [p. 167](#p167). Pero en cuanto a «aquellos que desean el cielo», cf. Gîtâ, págs. [48](Bhagavadgita_2#p48)\-[84](Bhagavadgita_9#p84).
+[^733]: 165:2 Así que <i>Sankara</i>. Nîlaka<i>nth</i>a interpreta la palabra original como «el grupo de los sentidos», y la frase completa como «disfrutes de los sentidos». Nîlaka<i>nth</i>a se apoya en un pasaje posterior, [p. 167](#p167). Pero en cuanto a «aquellos que desean el cielo», cf. Gîtâ, págs. [48](../Bhagavadgita_2#p48)\-[84](../Bhagavadgita_9#p84).
 
 [^734]: 165:3 Es decir, en forma de mérito, etc.
 
-[^735]: 165:4 Cfr. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^735]: 165:4 Cfr. Gîtâ, [p. 84](../Bhagavadgita_9#p84).
 
 [^736]: 165:5 Cf. <i>Kh</i>ândogya, pág. 23. Brâhma<i>n</i>as = aquellos que conocen al Brahman. Véase [pág. 171](#p171) infra.
 
@@ -172,7 +172,7 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^741]: 165:10 Todos los objetos de disfrute, Nîlaka<i>nth</i>a.
 
-[^742]: 166:1 Cf. Brihadâra nyaka, pág. 899. Tapas se traduce de diversas maneras. Véase, entre otros, Prasna, págs. 162-170; Svetâsvatara, pág. 307; Muriaka, págs. 270-280, 311-314; Khândogya, pág. 136; Anugîtâ, págs. [247](Anugita_4#p247), [339](Anugita_27#p339).
+[^742]: 166:1 Cf. Brihadâra nyaka, pág. 899. Tapas se traduce de diversas maneras. Véase, entre otros, Prasna, págs. 162-170; Svetâsvatara, pág. 307; Muriaka, págs. 270-280, 311-314; Khândogya, pág. 136; Anugîtâ, págs. [247](../Anugita_4#p247), [339](../Anugita_27#p339).
 
 [^743]: 166:2 Es decir, Brahma-vidyâ, o ciencia del Brahman, Nîlaka<i>nth</i>a; el Brahman mismo, <i>S</i>ankara.
 
@@ -204,19 +204,19 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^757]: 167:8 La esposa no teniendo otro protector.
 
-[^758]: 167:9 Véase la nota, en la página [162](Sanatsugatiya_2#p162).
+[^758]: 167:9 Véase la nota, en la página [162](../Sanatsugatiya_2#p162).
 
 [^759]: 167:10 De pares de opuestos, como el calor y el frío, etc.
 
 [^760]: 167:11 Restricción de los sentidos en presencia de sus objetos.
 
-[^761]: 167:12 Cfr. Gîtâ, págs. [69](Bhagavadgita_6#p69), [70](Bhagavadgita_6#p70).
+[^761]: 167:12 Cfr. Gîtâ, págs. [69](../Bhagavadgita_6#p69), [70](../Bhagavadgita_6#p70).
 
 [^762]: 167:13 Que son útiles para alcanzar el objetivo más elevado.
 
-[^763]: 168:1 El original es la palabra 'taciturnidad' como en [p. 162](Sanatsugatiya_2#p162) supra.
+[^763]: 168:1 El original es la palabra 'taciturnidad' como en [p. 162](../Sanatsugatiya_2#p162) supra.
 
-[^764]: 168:2 Ofrenda de las propias acciones a Dios (Nîlaka<i>nth</i>a), sobre lo cual cf. Gîtâ, [p. 64](Bhagavadgita_5#p64). Véase también [p. 182](Sanatsugatiya_5#p182) infra para esta estrofa.
+[^764]: 168:2 Ofrenda de las propias acciones a Dios (Nîlaka<i>nth</i>a), sobre lo cual cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64). Véase también [p. 182](../Sanatsugatiya_5#p182) infra para esta estrofa.
 
 [^765]: 168:3 Es decir, para los objetos de los sentidos.
 
@@ -248,9 +248,9 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^779]: 169:5 Concentración = fijar la mente continuamente en algún objeto, tal como el ser en el sol, etc.; la contemplación es aquello en lo cual uno se identifica con el Brahman; reflexión acerca de lo que uno es, de dónde viene, etcétera.
 
-[^780]: 169:6 Sankara afirma que esto podría referirse al «robo» mencionado en la [pág. 160](Sanatsugatiya_2#p160). Los comentaristas interpretan aquí que la vida de un brahmán significa continencia (pág. 170), como también en Mundaka, pág. 311, entre otros. Véase también Khândogya, pág. 533.
+[^780]: 169:6 Sankara afirma que esto podría referirse al «robo» mencionado en la [pág. 160](../Sanatsugatiya_2#p160). Los comentaristas interpretan aquí que la vida de un brahmán significa continencia (pág. 170), como también en Mundaka, pág. 311, entre otros. Véase también Khândogya, pág. 533.
 
-[^781]: 170:1 Hijo, esposa, hogar, etc.; sobre lo cual cf. Gîtâ, [p. 103](Bhagavadgita_13#p103), y N<i>ri</i>si<i>m</i>ha Tâpinî, p. 198, comentario.
+[^781]: 170:1 Hijo, esposa, hogar, etc.; sobre lo cual cf. Gîtâ, [p. 103](../Bhagavadgita_13#p103), y N<i>ri</i>si<i>m</i>ha Tâpinî, p. 198, comentario.
 
 [^782]: 170:2 Los ocho ya mencionados.
 
@@ -262,7 +262,7 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^786]: 170:6 De la penitencia, es decir.
 
-[^787]: 170:7 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109) para la colocación.
+[^787]: 170:7 Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109) para la colocación.
 
 [^788]: 170:8 Kath opanishad, pág. 151; Maitrî, ​​pág. 161. <i>S</i>ankara, parece tomar los cinco y los sentidos por separado; los cinco significan las cinco clases de objetos sensoriales.
 
@@ -274,9 +274,9 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^792]: 171:3 Sankara ofrece varias interpretaciones de esto. Quizás la mejor sea interpretarlo como conocimiento. «El único conocimiento, la única verdad», sería entonces como el famoso texto de Taittirîya, pág. 56: «El Brahman es verdad, conocimiento», etc.
 
-[^793]: 171:4 Para esta frase cf. Gîtâ, [p. 73](Bhagavadgita_6#p73).
+[^793]: 171:4 Para esta frase cf. Gîtâ, [p. 73](../Bhagavadgita_6#p73).
 
-[^794]: 171:5 Quienes no comprenden al Brahman pierden su poder natural para obtener lo que desean, y por ello recurren a diversas ceremonias para obtener diversos beneficios especiales. Cf. <i>Kh</i>ândogya, pág. 541; Gîtâ, [pág. 47](Bhagavadgita_2#p47); y [pág. 184](Sanatsugatiya_5#p184) infra.
+[^794]: 171:5 Quienes no comprenden al Brahman pierden su poder natural para obtener lo que desean, y por ello recurren a diversas ceremonias para obtener diversos beneficios especiales. Cf. <i>Kh</i>ândogya, pág. 541; Gîtâ, [pág. 47](../Bhagavadgita_2#p47); y [pág. 184](../Sanatsugatiya_5#p184) infra.
 
 [^795]: 171:6 Cfr. B<i>ri</i>hadâranyaka, pág. 893.
 
@@ -318,6 +318,6 @@ Por ignorancia del único Veda [^787] —la única verdad—, ¡oh, rey de reyes
 
 [^814]: 173:8 Autocontrol, como se explicó antes en [p. 163](#p163).
 
-[^815]: 173:9 Aunque esto no es poco importante, como puede verse en el contraste entre la ciudad y el bosque en <i>Kh</i>ândogya, pág. 340. Véase también Maitrî, ​​pág. 100; Mu<i>nd</i>aka, pág. 240. En cuanto al 'sabio supremo', véase B<i>nd</i>hadâra<i>n</i>yaka, pág. 899, donde el pasaje sobre 'sacrificio, don, penitencia' debe compararse con el Gîtâ, [pág. 122](Bhagavadgita_18#p122).
+[^815]: 173:9 Aunque esto no es poco importante, como puede verse en el contraste entre la ciudad y el bosque en <i>Kh</i>ândogya, pág. 340. Véase también Maitrî, ​​pág. 100; Mu<i>nd</i>aka, pág. 240. En cuanto al 'sabio supremo', véase B<i>nd</i>hadâra<i>n</i>yaka, pág. 899, donde el pasaje sobre 'sacrificio, don, penitencia' debe compararse con el Gîtâ, [pág. 122](../Bhagavadgita_18#p122).
 
 [^816]: 173:10 La construcción en el original no es del todo clara. Entiendo que el sentido es el siguiente: En la ciencia del alma, el analizador (la palabra es la misma que la de gramático) es quien analiza objetos, no solo palabras. Ahora bien, el verdadero análisis de los objetos los reduce todos al Brahman (cf. <i>Kh</i>ândogya, p. 407; B<i>ri</i>hadâra<i>n</i>yaka, p. 152); y el sabio comprende esto y realiza el análisis en consecuencia, por lo que con razón se le llama analizador.

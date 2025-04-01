@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## LIBRO I.
 
@@ -62,7 +62,7 @@ Par. 1. Nan-kwo Dze-khî en trance y su discípulo. Las notas del cielo, la tier
 
 10\. La penumbra y la sombra. El sueño de Kwang-dze de ser una mariposa.
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## LIBRO III.
 
@@ -100,7 +100,7 @@ Párrafo 1. Confucio explica la influencia del lisiado Wang Thâi sobre el puebl
 
 5\. Los favoritos deformados del duque Ling de Wei y el duque Hwan de Khî. Discusión entre Kwang-dze y Hui-dze, derivada del relato del primero sobre ellos.
 
-<span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## LIBRO VI.
 
@@ -342,7 +342,7 @@ Párrafos 1 y 2. Hsü Wû-kwei, Nü Shang y el marqués Wû de Wei: discursos de
 
 9\. Nan-po Dze-khî y su asistente Yen Khäng-dze.
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 El trance es el resultado supremo del Tao. De él se extrae una lección práctica.
 

@@ -119,9 +119,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^546]: 289:2 Véase I, 1, 2, 5.
 
-[^547]: 289:3 Sâya<i>n</i>a se refiere a Vâ<i>g</i>. S. XII, 31, 'que todos los dioses te lleven hacia arriba...' ([párrafo 9](Book_3_6_8#v6_8_1_9)) a continuación, como un pasaje al respecto.
+[^547]: 289:3 Sâya<i>n</i>a se refiere a Vâ<i>g</i>. S. XII, 31, 'que todos los dioses te lleven hacia arriba...' ([párrafo 9](../Book_3_6_8#v6_8_1_9)) a continuación, como un pasaje al respecto.
 
-[^548]: 291:1 Véase arriba, [VI, 7, 3, 2](Book_3_6_7#v6_7_3_2).
+[^548]: 291:1 Véase arriba, [VI, 7, 3, 2](../Book_3_6_7#v6_7_3_2).
 
 [^549]: 292:1 Mahîdhara, de acuerdo con Casi. III, 18 (sacerdote), explica a 'bharata' como aquel que trae ofrendas (blear); y, con Sâya<i>n</i>a, identifica al Bharata con el Sacrificador.
 
@@ -129,10 +129,10 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^551]: 294:1 'Pra-sad' (= pra-âp, Mahîdhara) parece tener aquí realmente el significado de 'abhiprasad' o 'anuprasad', ya que el acusativo difícilmente puede tomarse junto con 'âsada<i>h</i>.'
 
-[^552]: 295:1 Véase [p. 249](Book_3_6_6#p249), nota [3](Book_3_6_6#fn486).
+[^552]: 295:1 Véase [p. 249](../Book_3_6_6#p249), nota [3](../Book_3_6_6#fn486).
 
-[^553]: 296:1 A saber, los cuatro puntos cardinales y los cuatro puntos intermedios de la brújula, y la región superior. A estos párrafos [12](Book_3_6_8#v6_8_2_12) se añade, como décimo, la región inferior.
+[^553]: 296:1 A saber, los cuatro puntos cardinales y los cuatro puntos intermedios de la brújula, y la región superior. A estos párrafos [12](../Book_3_6_8#v6_8_2_12) se añade, como décimo, la región inferior.
 
-[^554]: 296:2 [VI, 6, 4, 10](Book_3_6_6#v6_6_4_10) seq.
+[^554]: 296:2 [VI, 6, 4, 10](../Book_3_6_6#v6_6_4_10) seq.
 
 [^555]: 297:1 Es decir, el de amplio resplandor o de amplio gobierno.

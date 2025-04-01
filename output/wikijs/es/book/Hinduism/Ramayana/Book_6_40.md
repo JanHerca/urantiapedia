@@ -43,7 +43,7 @@ Buscaba su habitación en el palacio.
 Entonces, como la esperanza más segura de todas,
 El monarca ordenó a sus sirvientes que llamaran
 
-<span id="p451">[<sup><small>pág. 451</small></sup>]</span>
+<span id="p451"><sup><small>[ p. 451 ]</small></sup></span>
 
 Vidyujjihva, cuya habilidad mágica
 Hecho dueño de los medios del mal.
@@ -126,7 +126,7 @@ Y que ella vea con ojos llorosos
 Que su marido yace en lo más profundo de la muerte.
 Delante de la reina el gigante yacía
 La hermosa cabeza que su arte había creado.
-Y Ravan gritó: “Tus ojos lo sabrán”.
+Y Ravan gritó: «Tus ojos lo sabrán».
 Estas flechas y el poderoso arco.
 Con fama de esto por Ráma ensartado
 La tierra, el cielo y el infierno han resonado.
@@ -165,7 +165,7 @@ Mientras \*\*\*\* el \*\*\*\*\*\*\*\*\* yace largo y tendido
 Poco a poco recuperando el sentido y la fuerza,
 En la querida cabeza ella \*\*\*\*\*\*\*\* su ojo
 
-<span id="p452">[<sup><small>pág. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 Y lloró con un llanto muy amargo:
 «Ah, cuando veo tu mejilla fría y muerta,
@@ -289,7 +289,7 @@ Grandes huestes que luchan con árboles blandidos,
 Para quien, con ojos que nunca duermen,
 ¿Su constante vigilancia la mantiene tu Ráma?
 
-<span id="p453">[<sup><small>pág. 453</small></sup>]</span>
+<span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
 Señor del brazo y del pecho poderosos,
 De los guerreros terrenales primero y mejor,
@@ -412,7 +412,7 @@ Así comenzó el relato de Saramá:
 'Allí estaba la madre real: ella
 Le rogó a su hijo que te liberara,
 
-<span id="p454">[<sup><small>pág. 454</small></sup>]</span>
+<span id="p454"><sup><small>[ p. 454 ]</small></sup></span>
 
 Y a su consejo, lágrimas y oraciones,
 Los nobles mayores agregaron el suyo:
@@ -535,7 +535,7 @@ El océano con un puente se ha extendido.
 Oh rey gigante, libera a la dama,
 Y pedirle la paz al hijo de Raghu.
 
-<span id="p455">[<sup><small>pág. 455</small></sup>]</span>
+<span id="p455"><sup><small>[ p. 455 ]</small></sup></span>
 
 
 
@@ -598,7 +598,7 @@ Colocó al guerrero Indrajit,
 Su hijo, alegría y jactancia del gigante,
 Rodeado de un ejército de Rákshas:
 Y el poderoso Sáran se apresuró
-Con Suka para proteger el norte. [1b](Libro_6_40#fn955)
+Con Suka para proteger el norte. [1b](../Libro_6_40#fn955)
 «Yo mismo lo haré», exclamó el monarca,
 'Estar presente en el lado norte.'
 Estas órdenes para la defensa de los muros
@@ -647,11 +647,11 @@ El rey, rodeado de un ejército
 De gigantes entrenados en la guerra, cuyas manos
 Manejar mazas, espadas y lanzas, de pie.
 
-<span id="p456">[<sup><small>pág. 456</small></sup>]</span>
+<span id="p456"><sup><small>[ p. 456 ]</small></sup></span>
 
 Todos estos son jefes que Rávan ​​eligió
 Como el más poderoso para resistir a sus enemigos;
-Y cada uno dirige un ejército incontable [1](Libro_6_40#fn957)
+Y cada uno dirige un ejército incontable [1](../Libro_6_40#fn957)
 Con elefantes, coches y corceles.
 Entonces Ráma, mientras su espíritu ardía
 Para la batalla volvieron palabras como éstas:
@@ -767,7 +767,7 @@ Y, vestida de flores de todos los colores,
 Y su alin dorado \* thr \*.
 Es más justo ver la cabeza de la montaña.
 
-<span id="p457">[<sup><small>pág. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 Se extendía por cien leguas de longitud.
 Allí la ciudad de Rávan, firmemente situada,
@@ -840,7 +840,7 @@ Así con sus ramas entrelazadas,
 Que, carmesí con las flores de la primavera,
 De un lado a otro se mecen las brisas,
 En una lucha furiosa podrás ver
-El Kins'uk y el árbol Seemal. [1](Libro_6_50#fn958)
+El Kins'uk y el árbol Seemal. [1](../Libro_6_50#fn958)
 Peleaban con los puños y las manos por igual.
 Preparado para parar y golpear.
 Durante mucho tiempo se libró el dudoso combate

@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. Si un edificio se derrumba y se duda si hay alguien enterrado bajo las ruinas; si se duda si está vivo o muerto, si es pagano o israelita, se permite retirar las ruinas de encima en sábado; si se encuentra vivo, se deben retirar las ruinas por completo para rescatarlo; pero si está muerto, se le debe dejar hasta después.
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 § 8. La ofrenda por el pecado y la ofrenda por la culpa, por los pecados cometidos a sabiendas, expían el pecado. El Yom Kipur y la muerte expian mediante la penitencia sincera; la penitencia expía las transgresiones leves contra los mandamientos, tanto positivos como negativos; en el caso de las transgresiones graves, se obtiene un plazo [^359] hasta que Yom Kipur complete la expiación.
 

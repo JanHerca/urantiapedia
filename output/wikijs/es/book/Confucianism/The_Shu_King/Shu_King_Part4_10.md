@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Han transcurrido los reinados de siete reyes más de Yin o Shang, y este libro nos lleva a la época de Kâu-hsin o Shâu, su último soberano, entre 1154 y 1123 a. C. La Casa de Kâu comienza a cobrar protagonismo, pues «el Jefe del Oeste» fue uno de los fundadores reconocidos de la dinastía Kâu; no se sabe con certeza si fue Khang, conocido como el rey Wăn, o su hijo Fâ, conocido como el rey Wû. El padre de Khang, el duque de Kâu en el actual departamento de Făng-hsiang, Shen-hsî, había sido nombrado Jefe del Oeste, es decir, de toda la parte occidental del reino, que abarcaba las provincias de Yü: Yung, Liang y Kâing. La misma jurisdicción pasó a su hijo y nieto. El estado de Lî, cuya conquista se menciona, se encontraba en el actual departamento de Lû-an, Shan-hsî, dentro del dominio real, por lo que el Jefe del Oeste ya no se limitaba al oeste, sino que amenazaba al propio rey.
 

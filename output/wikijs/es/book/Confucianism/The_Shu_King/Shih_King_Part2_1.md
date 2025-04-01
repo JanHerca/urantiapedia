@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ## II. LAS ODAS MENORES DEL REINO.
 

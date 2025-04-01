@@ -56,7 +56,7 @@ Camina con cuidado quien presta atención sólo a <span id="p131"><sup><small>[ 
 
 Un monje celoso debe evitar, en primer lugar (es decir, al buscar limosna), las faltas ocasionadas tanto por quien da (udgama) como por quien recibe (utpâdana); en segundo lugar (es decir, al recibir limosna), las faltas inherentes a la recepción; y en el uso de los artículos recibidos, las cuatro faltas [^337]. (12) <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 4\. Si un monje asume o deja los dos tipos de cosas que pertenecen a su vestimenta general y <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> complementaria [^338], debe proceder de la siguiente manera. (13)
 
-<span id="p134">[<sup><small>pág. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Un monje celoso debe limpiar la cosa después de haberla inspeccionado con sus ojos, y luego debe tomarla o dejarla, teniendo el Samiti en ambos aspectos [^339]. (I 4)
 

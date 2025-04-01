@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## IV. TRATADO KILAIM
 
@@ -52,7 +52,7 @@ No sembrarás tu viña con semillas diversas, para que no se contaminen el fruto
 
 § 4. Entre los frutos de los árboles, las peras y la crustumina [^39] no son kilaim; tampoco lo son los membrillos ni los nísperos. La manzana y el manzano silvestre, los albaricoques y las almendras, las ciruelas y los pistachos, aunque de sabor similar, son, sin embargo, kilaim.
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 § 5. Los rábanos y la colza, la mostaza y el lapsano, [^40] las calabazas griegas y egipcias \[juntas\] y las calabazas amargas, aunque similares, son, sin embargo, kilaim.
 

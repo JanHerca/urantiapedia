@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Hay que considerar tres fases del bahaísmo.
 
@@ -42,19 +42,19 @@ _El Bab: El Predictor_
 
 (Surgió en Shiraz, mayo de 1844. Ejecutado en Tabriz, julio de 1850).
 
-Han transcurrido sesenta y cuatro años desde que aquel a quien muchos creyentes aclamaban con regocijo como “El Báb”, “La Puerta”, inició en Persia su singular y exitosa carrera.
+Han transcurrido sesenta y cuatro años desde que aquel a quien muchos creyentes aclamaban con regocijo como «El Báb», «La Puerta», inició en Persia su singular y exitosa carrera.
 
-Como dijo Alguien hace siglos: “Yo soy El Camino”, así Mirza Ali Mohammed dijo: “Yo soy La Puerta”.
+Como dijo Alguien hace siglos: «Yo soy El Camino», así Mirza Ali Mohammed dijo: «Yo soy La Puerta».
 
-Ese también declaró que vino “no a destruir, sino a cumplir”. Así vino Mirza Ali Mohammed, sin intentar en ningún grado desarraigar las enseñanzas y doctrinas del creador del Corán, sino para instar a un cumplimiento completo y sincero de los mandamientos del Profeta.
+Ese también declaró que vino «no a destruir, sino a cumplir». Así vino Mirza Ali Mohammed, sin intentar en ningún grado desarraigar las enseñanzas y doctrinas del creador del Corán, sino para instar a un cumplimiento completo y sincero de los mandamientos del Profeta.
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 El Báb —porque como tal fue reconocido y será recordado con reverencia— creía firmemente en esto: que «en el pasado, siempre que había necesidad, Dios suscitaba un Profeta en la tierra, que traía un libro que contenía una Revelación Divina; y hará lo mismo en el futuro, siempre que haya necesidad».
 
 Creía, con la misma vehemencia, que él mismo, en su propia persona, estaba inspirado por Dios como profeta de su tiempo. Esa creencia, esa inspiración, lo impulsaba a confiar plenamente en la continuidad de los tratos de Dios con la humanidad; una continuidad que, siempre a intervalos regulares, proclama el Mensaje Divino a través de labios proféticos. Ese Mensaje debería ser, en la práctica, uno y el mismo, aunque quienes lo proclamaran emplearan palabras e idiomas diversos; incluso, acaso, incitara a quienes buscaban a Dios a seguir métodos aparentemente antagónicos.
 
-El Libro del Bab se titulaba “El Bayan” y, en términos generales, constituía una nueva interpretación de mucho de lo que el Profeta del Islam había escrito, hablado y puesto en práctica.
+El Libro del Bab se titulaba «El Bayan» y, en términos generales, constituía una nueva interpretación de mucho de lo que el Profeta del Islam había escrito, hablado y puesto en práctica.
 
 Tan firme como era su fe en sí mismo, creía también, con la misma firmeza, que, mientras mantenía abierta la Puerta del Atrio de Dios, otro, más grande que él, vendría después. Comprendió, predijo, la llegada de un Profeta posterior cuya misión superaría la suya en la fuerza de su propósito, en su más plena aceptación, en sus exigencias mucho más amplias sobre la mente de los hombres. Para él, Persia era el centro de su acción; su regeneración y reforma, su deseo inmediato y último.
 
@@ -94,15 +94,15 @@ La confiscación de bienes fue, como cabía esperar de los perseguidores de aque
 
 La extraordinaria personalidad e influencia del Báb son innegables. Su espiritualidad; su desprecio por las cosas mundanas y materiales; su magistral comprensión de los puntos religiosos y filosóficos; su profundo amor y comprensión del pueblo y sus necesidades más profundas; todo ello fundamentó su postura y respaldó su afirmación.
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
-Había exhortado a sus alumnos a “soportarlo todo” por amor a Dios, a su fe y a la suya.
+Había exhortado a sus alumnos a «soportarlo todo» por amor a Dios, a su fe y a la suya.
 
 Obedecieron. Fueron a prisión regocijándose por el triunfo seguro de la verdad que adoraban; la verdad que los liberó de las ataduras del mundo. La tortura no pudo arrancar expresiones de arrepentimiento de sus labios resecos pero sonrientes.
 
 La vida, la vida eterna, la plenitud de gozo en la presencia perpetua de Dios, les había sido prometida; y, convencidos de que esa gloriosa certeza debía cumplirse en su propia experiencia, pisotearon el miedo a la muerte. Para ellos, la muerte había perdido su aguijón. Esto no por poco tiempo, sino año tras año. De hecho, se observa que estas persecuciones continuaron hasta principios del nuevo siglo.
 
-En 1901 “hubo ciento setenta mártires a la vez en la ciudad de Yeza”. [^0]
+En 1901 «hubo ciento setenta mártires a la vez en la ciudad de Yeza». [^0]
 
 <figure class="table chapter-navigator">
   <table>
@@ -130,4 +130,4 @@ En 1901 “hubo ciento setenta mártires a la vez en la ciudad de Yeza”. [^0]
 
 ## Notas al pie
 
-[^0]: 24:1 “Su espíritu de abnegación y amor queda bien ejemplificado en la forma en que Mirza Kurban Ali, uno de los siete ejecutados juntos en Teherán en septiembre de 1850, halló la muerte. Cuando lo llevaron al pie del pilón de ejecución, el verdugo alzó su espada y lo golpeó por la espalda. El golpe solo hirió el cuello del anciano y arrojó su turbante al suelo. Levantó la cabeza y exclamó: “¡Oh, feliz aquel amante ebrio que, a los pies de su Amada, no sabe si es su cabeza o su turbante lo que arroja!”.”—Profesor EG Browne, _Narrativa de un Viajero_.
+[^0]: 24:1 «Su espíritu de abnegación y amor queda bien ejemplificado en la forma en que Mirza Kurban Ali, uno de los siete ejecutados juntos en Teherán en septiembre de 1850, halló la muerte. Cuando lo llevaron al pie del pilón de ejecución, el verdugo alzó su espada y lo golpeó por la espalda. El golpe solo hirió el cuello del anciano y arrojó su turbante al suelo. Levantó la cabeza y exclamó: “¡Oh, feliz aquel amante ebrio que, a los pies de su Amada, no sabe si es su cabeza o su turbante lo que arroja!».”—Profesor EG Browne, _Narrativa de un Viajero_.

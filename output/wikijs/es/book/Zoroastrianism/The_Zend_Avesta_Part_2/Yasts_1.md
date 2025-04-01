@@ -1,6 +1,6 @@
 ---
 title: "I. Ormazd Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 El Ormazd Ya<i>s</i>t, propiamente dicho, termina en el § 23. El resto del Ya<i>s</i>t, desde el § 24 hasta el final, falta en varios manuscritos, y los parsis suponen que es un fragmento del Bahman Ya<i>s</i>t.
 
@@ -58,7 +58,7 @@ Las especulaciones sobre los poderes místicos de los nombres de Dios siempre ha
 
 Tenemos tres traducciones nativas de este Ya<i>s</i>t: una en pahlavi (East India Office, XII, 39, y San Petersburgo, XCIX, 39; editado por Carl Salemann), una en persa (East India Office, XXII, 43), y una en sánscrito (París, fonds Burnouf, V, 66); las dos últimas editadas en nuestros Études Iraniennes, II, 255).
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 La segunda parte del Yast, el llamado fragmento Bahman Yast, se encuentra en un estado de corrupción extrema. Es difícil encontrar una conexión entre las ideas, pero los §§ 28, 29 y 30 parecen apuntar con bastante claridad a la lucha final entre Ormazd y Ahriman y a la aniquilación de los daêvas, y, por lo tanto, se establece cierta conexión entre este fragmento y el Pahlavi Bahman Yast [^98], que trata el mismo tema. Si dicha correspondencia es real, el § 26 podría referirse al comienzo del Pahlavi Bahman Yast, en el que Ahura le muestra a Zaratustra los tiempos venideros y el fin del mundo.
 
@@ -78,7 +78,7 @@ Recito la 'Alabanza de la Santidad [^102]:'
 
 Me confieso adorador de Mazda, seguidor de Zaratustra, que odia a los Daêvas y obedece las leyes de Ahura [^103];
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Para sacrificio [^104], oración, propiciación y glorificación a \[Hâvani\] [^105], el santo y maestro de la santidad;
 
@@ -108,7 +108,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de la santidad: las riquez
 
 'Mi tercer nombre es el Fuerte [^113].
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 'Mi cuarto nombre es Santidad Perfecta [^114].
 
@@ -196,7 +196,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 19\. 'Pero esos nombres vendrán para protegerlo por detrás y por delante [^136], de la Droga invisible, del demonio Varenya [^137], del malhechor [^138] empeñado en hacer daño [^139], y de ese demonio que es toda muerte, Angra Mainyu. Será como si mil hombres vigilaran a un solo hombre [^140].
 
-20\. “¿Quién aniquilará al demonio para mantener tus ordenanzas? Enséñame claramente tus <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> reglas para este mundo y para el siguiente, para que Sraosha venga con Vohu-Manô y ayude a quien quieras [^141].”
+20\. «¿Quién aniquilará al demonio para mantener tus ordenanzas? Enséñame claramente tus <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> reglas para este mundo y para el siguiente, para que Sraosha venga con Vohu-Manô y ayude a quien quieras [^141].»
 
 21\. ¡Salve a la Gloria de los Kavis [^142]! ¡Salve al Airyanem Vaê<i>g</i>ah [^143]! ¡Salve al Saoka [^144], creado por Mazda! ¡Salve a las aguas del Dâitya [^145]! ¡Salve a Ardvi [^146], el pozo puro! ¡Salve al mundo entero del Espíritu Santo!
 
@@ -220,7 +220,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 26\. «¡Tú sabes esto y cómo es, oh santo Zaratustra!, según mi entendimiento y según mi conocimiento; a saber, cómo empezó el mundo [^160] y cómo acabará [^161].
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 '¡Mil remedios, diez mil remedios! [^162]
 
@@ -244,7 +244,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 'Adoramos la lengua de Ahura Mazda, para hablar la Santa Palabra.
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 'Adoramos al monte que da el entendimiento, que preserva el entendimiento [^172]; \[lo adoramos\] de día y de noche, con ofrendas de libaciones bien aceptadas [^173].
 
@@ -382,7 +382,7 @@ Adoramos a Râma <i>H</i><i>v</i>âstra y a Vayu, quien obra con gran poder y es
 
 [^146]: 30:1 De Yasna XLIV, 16; cf. Vendîdâd VIII, 20.
 
-[^147]: 30:2 Véase Sîrôzah I, 9, [p. 7](Sirozahs_1#p7), nota [2](Sirozahs_1#fn40).
+[^147]: 30:2 Véase Sîrôzah I, 9, [p. 7](../Sirozahs_1#p7), nota [2](../Sirozahs_1#fn40).
 
 [^148]: 30:3 Irân Vê<i>g</i>; véase Vendîdâd, p. 3.
 
@@ -448,7 +448,7 @@ Adoramos a Râma <i>H</i><i>v</i>âstra y a Vayu, quien obra con gran poder y es
   «¡Mil remedios, diez mil remedios!» (tres veces; cf. arriba, § 26.)
   'Adoramos el Fravashi del hombre cuyo nombre es Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i>; luego adoraré los Fravashis de los otros santos que fueron fuertes en la fe' (Yt. XXII, 37).
   Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i> fue uno de los primeros seguidores de Zaratustra, y con su nombre comienza la enumeración de los Fravashis (Yt. XIII, 96).
-  Luego sigue el § 30, y luego nuevamente el § 31 con el Ashem Vohû: y luego el pasaje adicional, “Adoramos…”, se repite dos veces.
+  Luego sigue el § 30, y luego nuevamente el § 31 con el Ashem Vohû: y luego el pasaje adicional, «Adoramos…», se repite dos veces.
 
 [^179]: 33:3 Visión XIX, 2.
 

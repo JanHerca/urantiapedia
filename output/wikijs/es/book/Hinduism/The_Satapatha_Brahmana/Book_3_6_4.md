@@ -81,7 +81,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v6_4_2_99"><sup><small>6:4:2:99.</small></sup></span> \[Vâ<i>g</i>. S. XI, 37; <i>Ri</i>k S. I, 36, 9\] «Siéntate, tú que eres grande» —ahora hace que la semilla infundida se establezca, de donde la semilla infundida en la matriz se establece—; «¡arde, el que alegra a los dioses!» —es decir, «brilla, el que alegra a los dioses; ¡envía, oh Agni, digno participante de la ofrenda, tu humo rojizo y vistoso!», pues cuando él (Agni) se enciende, emite su humo rojizo —el vistoso, pues, por así decirlo, se muestra.
 
-<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span> Estos (versos) suman seis: seis estaciones son un año, y Agni es el año: tan grande como Agni es, tan grande como su medida, tan grande se vuelve este. Y lo que llega a ser como el año, llega a ser como el Brihatî; pues el año es el Brihatî: doce lunas llenas, doce octavos días [1](Book_3_6_4#fn443) (de la quincena de luna menguante), doce lunas nuevas, lo que suma treinta y seis, y el Brihatî consta de treinta y seis sílabas. Lo lleva (el trozo de arcilla) del lado derecho (sur) al izquierdo (norte) del agujero, pues desde el lado derecho la semilla se infunde en el útero; y este (agujero) ahora es su útero (el de Agni). Lo lleva allí sin detenerse, para no detener la semilla.
+<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span> Estos (versos) suman seis: seis estaciones son un año, y Agni es el año: tan grande como Agni es, tan grande como su medida, tan grande se vuelve este. Y lo que llega a ser como el año, llega a ser como el Brihatî; pues el año es el Brihatî: doce lunas llenas, doce octavos días [1](../Book_3_6_4#fn443) (de la quincena de luna menguante), doce lunas nuevas, lo que suma treinta y seis, y el Brihatî consta de treinta y seis sílabas. Lo lleva (el trozo de arcilla) del lado derecho (sur) al izquierdo (norte) del agujero, pues desde el lado derecho la semilla se infunde en el útero; y este (agujero) ahora es su útero (el de Agni). Lo lleva allí sin detenerse, para no detener la semilla.
 
 
 <span id="v4_4_3"><sup><small>4:4:3</small></sup></span>
@@ -107,7 +107,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v6_4_3_1010"><sup><small>6:4:3:1010.</small></sup></span> Luego lo eleva desde allí hacia el este; pues este Agni es aquel sol: así, coloca aquel sol hacia arriba desde aquí en el este, y, por lo tanto, aquel sol se coloca hacia arriba desde aquí en el este. \[Hace esto con Vâ<i>g</i>. S. XI, 42; <i>Ri</i>k S. I, 36, 13\] «¡Recto para nuestra protección, mantente como el dios Savitri!» —como el texto, así su significado—; «recto, como quien otorga [^449] fuerza», pues erguido él (el sol) ciertamente otorga [^449] fuerza, alimento; «cuando pronunciamos nuestro llamado con las ofrendas brillantes» —las ofrendas brillantes [^450], sin duda, son sus rayos (del sol): a esto se refiere. Lo eleva más allá del alcance de sus brazos, pues más allá del alcance de sus brazos está ese (sol) desde aquí. Luego lo baja; y, habiéndolo bajado, lo sostiene por encima del ombligo: el significado de esto se explicará más adelante [^451].
 
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 <span id="v6_4_4"><sup><small>6:4:4</small></sup></span>
 
@@ -187,13 +187,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^438]: 215:1 Respecto de la piel del antílope negro, considerado como un símbolo del culto y civilización brahmánica, véase la parte i, pág. 23, nota 2. En cuanto al pelo blanco y negro que representa los versos de los himnos (<i>ri</i><i>k</i>) y las melodías (sâman), y los de color indeciso que representan las fórmulas Ya<i>g</i>us, véase I, 1, 4, 2.
 
-[^439]: 215:2 Es decir, porque del habla se produjeron las aguas ([VI, 1, 1, 9](Book_3_6_1#v6_1_1_9)) y de ellas brotó la hoja de loto. Di.
+[^439]: 215:2 Es decir, porque del habla se produjeron las aguas ([VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9)) y de ellas brotó la hoja de loto. Di.
 
-[^440]: 216:1 Véase [p. 201](Book_3_6_3#p201), nota [1](Book_3_6_3#fn415).
+[^440]: 216:1 Véase [p. 201](../Book_3_6_3#p201), nota [1](../Book_3_6_3#fn415).
 
-[^441]: 217:1 Véase [p. 201](Book_3_6_3#p201), nota [1](Book_3_6_3#fn415).
+[^441]: 217:1 Véase [p. 201](../Book_3_6_3#p201), nota [1](../Book_3_6_3#fn415).
 
-[^442]: 217:2 ? O, de todo sacerdote (vi<i>s</i>vasya vâghata<i>h</i>). No hay nada que muestre en la pág. 218 cómo el autor de esta parte del Brâhma<i>n</i>a interpreta 'vâghat'. Cf. [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).—El profesor Ludwig (<i>Ri</i>k S. VI, 16, 13) traduce, 'de la cabeza del sacerdote Vi<i>s</i>va'. El Mahîdhara ofrece varias interpretaciones, según las cuales 'vâghata<i>h</i>' puede tomarse como nombre. plur., el verbo se añade de nuevo en plural, 'los sacerdotes te produjeron desde la cabeza del universo', o 'los sacerdotes del universo (o todos los sacerdotes) te produjeron', o 'vâghata<i>h</i>' puede ser ablativo sing., como 'mûrdhna<i>h</i>', que califica a 'pushkarât', del loto, la cabeza, el líder (o iniciador, vâhakât) del universo.
+[^442]: 217:2 ? O, de todo sacerdote (vi<i>s</i>vasya vâghata<i>h</i>). No hay nada que muestre en la pág. 218 cómo el autor de esta parte del Brâhma<i>n</i>a interpreta 'vâghat'. Cf. [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).—El profesor Ludwig (<i>Ri</i>k S. VI, 16, 13) traduce, 'de la cabeza del sacerdote Vi<i>s</i>va'. El Mahîdhara ofrece varias interpretaciones, según las cuales 'vâghata<i>h</i>' puede tomarse como nombre. plur., el verbo se añade de nuevo en plural, 'los sacerdotes te produjeron desde la cabeza del universo', o 'los sacerdotes del universo (o todos los sacerdotes) te produjeron', o 'vâghata<i>h</i>' puede ser ablativo sing., como 'mûrdhna<i>h</i>', que califica a 'pushkarât', del loto, la cabeza, el líder (o iniciador, vâhakât) del universo.
 
 [^443]: 219:1 Así, el autor evidentemente interpreta 'vídâna<i>h</i>', en lugar de 'se encontró', 'se trouvant', como es su verdadero significado.
 
@@ -203,7 +203,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^446]: 221:2 Con su dedo meñique, introduce un poco de tierra suelta en el agujero, primero desde los lados frontal (este) y posterior (oeste), y luego desde los lados derecho (sur) e izquierdo (norte). Así, según Kâty. XVI, 3, 4, el movimiento solar se obtiene mediante el movimiento de la mano de este (a lo largo del sur) a oeste, y luego de sur (a lo largo del oeste) a norte.
 
-[^447]: 222:1 Véase [VI, 3 1, 27](Book_3_6_3#v6_3_1_27).
+[^447]: 222:1 Véase [VI, 3 1, 27](../Book_3_6_3#v6_3_1_27).
 
 [^448]: 222:2 Véase <i>Ri</i>k S. VIII, 23, 5, que difiere considerablemente.
 
@@ -211,20 +211,20 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^451]: 223:2 O bien, un ganador—gana.
 
-[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. Véase [p. 217](Book_3_6_4#p217), nota [2](Book_3_6_4#fn441).
+[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. Véase [p. 217](../Book_3_6_4#p217), nota [2](../Book_3_6_4#fn441).
 
-[^453]: 223:4 Véase [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^453]: 223:4 Véase [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
 [^454]: 224:1 Para la ceremonia de 'equipar' a Agni, ver parte i, pág. 276, nota 1.
 
-[^455]: 224:2 Es decir, porque el fuego puede obtenerse de la madera seca. Véase también I, 6, 4, 5, donde se dice que Soma, frecuentemente identificado con Agni (véase [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1)), desciende a la tierra en luna nueva y penetra en las aguas y plantas para renacer de ellas.
+[^455]: 224:2 Es decir, porque el fuego puede obtenerse de la madera seca. Véase también I, 6, 4, 5, donde se dice que Soma, frecuentemente identificado con Agni (véase [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1)), desciende a la tierra en luna nueva y penetra en las aguas y plantas para renacer de ellas.
 
-[^456]: 225:1 Literalmente, portador de lo que es adecuado para el ganado por parte de Agni, o quizás, sé tú, para Agni, el portador de lo que (él mismo) es favorable para el ganado;—'pa<i>s</i>avya' se usa aquí como en otros lugares (ver [p. 201](Book_3_6_3#p201), nota \*[1](Book_3_6_3#fn415)\*) para explicar 'purîsha', aquello que llena el molde o tierra usada como mortero para las capas de ladrillos, al construir el altar del fuego.
+[^456]: 225:1 Literalmente, portador de lo que es adecuado para el ganado por parte de Agni, o quizás, sé tú, para Agni, el portador de lo que (él mismo) es favorable para el ganado;—'pa<i>s</i>avya' se usa aquí como en otros lugares (ver [p. 201](../Book_3_6_3#p201), nota \*[1](../Book_3_6_3#fn415)\*) para explicar 'purîsha', aquello que llena el molde o tierra usada como mortero para las capas de ladrillos, al construir el altar del fuego.
 
 [^457]: 225:2 Por su comparación con el caballo, Sây. El autor probablemente alude al aspecto abatido y desanimado del asno, como se compara en la pág. 226 con el del caballo. Sin embargo, la palabra «<i>s</i>u<i>k</i>» también podría interpretarse en el sentido de «fervor, fuego».
 
-[^458]: 227:1 Véase [VI, 3, 2, 6](Book_3_6_3#v6_3_2_6) seq.
+[^458]: 227:1 Véase [VI, 3, 2, 6](../Book_3_6_3#v6_3_2_6) seq.
 
-[^459]: 228:1 Véase [VII, 1, 1, 9](Book_3_7_1#v7_1_1_9).
+[^459]: 228:1 Véase [VII, 1, 1, 9](../Book_3_7_1#v7_1_1_9).
 
 [^460]: 228:2 El trozo de arcilla se deposita sobre un montículo elevado (o quizás más bien sobre un trozo de tierra recortado, uddhata), en un cobertizo cerrado, (con una puerta en el lado este) al norte de la Âhavanîya.

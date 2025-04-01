@@ -32,23 +32,23 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 ## I
 
-Me quedé perplejo por la frase “ceja de polilla de gusano de seda” en un antiguo proverbio japonés, o más bien chino: “La ceja de polilla de gusano de seda de una mujer es el hacha que corta la sabiduría del hombre”. Así que fui a ver a mi amiga Niimi, que cría gusanos de seda, para pedirle una explicación.
+Me quedé perplejo por la frase «ceja de polilla de gusano de seda» en un antiguo proverbio japonés, o más bien chino: «La ceja de polilla de gusano de seda de una mujer es el hacha que corta la sabiduría del hombre». Así que fui a ver a mi amiga Niimi, que cría gusanos de seda, para pedirle una explicación.
 
 —¿Es posible —exclamó— que nunca hayas visto una polilla de seda? La polilla de seda tiene unas cejas preciosas.
 
-“¿Cejas?” pregunté asombrado.
+«¿Cejas?» pregunté asombrado.
 
 —Bueno, llámalas como quieras —respondió Niimi—; los poetas las llaman cejas... Espera un momento, y te lo mostraré.
 
 Salió de la habitación de invitados y regresó pronto con un abanico de papel blanco, sobre el cual reposaba somnolienta una polilla de seda.
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
-“Siempre reservamos algunos para la cría”, dijo; “este acaba de salir del capullo. No puede volar, por supuesto: ninguno de ellos puede volar”.
+«Siempre reservamos algunos para la cría», dijo; «este acaba de salir del capullo. No puede volar, por supuesto: ninguno de ellos puede volar».
 
 Ahora mira las cejas”.
 
@@ -60,7 +60,7 @@ En el vecindario de Niimi, donde abundan las moreras, muchas familias crían gus
 
 Fue la lección evolutiva de este último hecho lo que más me ocupó mientras Niimi y su hermano menor (quien alimenta a los gusanos) me explicaban amablemente los métodos de la industria. Me contaron cosas curiosas sobre diferentes razas, y también sobre una variedad silvestre de gusano de seda que no se puede domesticar: hila una seda espléndida antes de convertirse en una vigorosa polilla que puede usar sus alas para algún propósito. Pero me temo que no actué como una persona interesada en el tema; pues, incluso mientras intentaba escuchar, comencé a reflexionar.
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ## II
 
@@ -72,7 +72,7 @@ Pero ¿qué sería de esta imagen humana en un estado de perfecta felicidad? Des
 
 Esos gusanos de seda tienen todo lo que desean, e incluso mucho más. Sus necesidades, aunque muy simples, son fundamentalmente idénticas a las de la humanidad: alimento, refugio, calor, seguridad y comodidad. Nuestra interminable lucha social se centra principalmente en estas cosas. Nuestro sueño del cielo es el sueño de obtenerlo gratuitamente y con dolor; y la condición de esos gusanos de seda es la <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>realización, en pequeña medida, de nuestro Paraíso imaginario. (No estoy considerando el hecho de que la gran mayoría de los gusanos están predestinados al tormento y a la segunda muerte; pues mi tema es el cielo, no las almas perdidas. Hablo de los elegidos, esos gusanos predestinados a la salvación y al renacimiento). Probablemente solo puedan sentir sensaciones muy débiles: ciertamente son incapaces de orar. Pero si pudieran rezar, no podrían pedir nada más de lo que ya reciben del joven que los alimenta y cuida. Él es su providencia, un dios de cuya existencia solo pueden ser conscientes de forma vaga, pero justo el dios que necesitan. Y sería una tontería creernos afortunados de ser igualmente bien atendidos en proporción a nuestras necesidades más complejas. ¿Acaso nuestras formas comunes de oración no demuestran nuestro deseo de una atención similar? ¿No es la afirmación de nuestra «necesidad de amor divino» una confesión involuntaria de que deseamos ser tratados como gusanos de seda, vivir sin dolor con la ayuda de los dioses? Sin embargo, si los dioses nos trataran como deseamos, pronto presentaríamos una nueva evidencia —en la forma de lo que se llama «la evidencia de la degeneración»— de que la gran ley evolutiva está muy por encima de los dioses.
 
-<span id="p65">[<sup><small>pág. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Una etapa temprana de esa degeneración estaría representada por la incapacidad total para ayudarnos a nosotros mismos; entonces, comenzaríamos a perder el uso de nuestros órganos sensoriales superiores; más tarde, el cerebro se reduciría a una diminuta materia; aún más tarde, nos reduciríamos a meros sacos amorfos, simples estómagos ciegos. Tal sería la consecuencia física de ese tipo de amor divino que tan perezosamente deseamos. El anhelo de dicha perpetua en paz perpetua bien podría parecer una inspiración malévola de los Señores de la Muerte y la Oscuridad. Toda vida que siente y piensa ha sido, y puede seguir siendo, solo como producto de la lucha y el dolor, solo como el resultado de una batalla interminable con los Poderes del Universo. Y la ley cósmica es inflexible. Cualquier órgano que deje de conocer el dolor, cualquier facultad que deje de utilizarse bajo el estímulo del dolor, también debe dejar de existir. Que el dolor y su esfuerzo se suspendan, y la vida debe retroceder, primero a la informe protoplásmica, luego al polvo.
 
@@ -86,13 +86,13 @@ La comparación anterior es innecesariamente fuerte; pero la enseñanza budista 
 
 Le conté lo esencial de mi ensoñación a Niimi. Era un gran lector de libros budistas.
 
-“Bueno”, dijo, “me acordé de una extraña historia budista por el proverbio que me pediste que explicara: “La ceja de polilla de seda de una mujer es el hacha que corta la sabiduría del hombre”. Según nuestra doctrina, el dicho sería tan cierto para la vida en el cielo como para la vida en la tierra… Esta es la historia:
+«Bueno», dijo, «me acordé de una extraña historia budista por el proverbio que me pediste que explicara: “La ceja de polilla de seda de una mujer es el hacha que corta la sabiduría del hombre». Según nuestra doctrina, el dicho sería tan cierto para la vida en el cielo como para la vida en la tierra… Esta es la historia:
 
 Cuando Shaka\[1\] vivía en este mundo, uno de sus discípulos, llamado Nanda, quedó fascinado por la belleza de una mujer; y Shaka deseó salvarlo de las consecuencias de esta ilusión. Así que tomó
 
 \[1. Sakyamuni.\]
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 Nanda a un lugar salvaje en las montañas donde había simios, y le mostró una mona muy fea, y le preguntó:—"¿Cuál es más hermosa, Nanda, la mujer que amas, o esta mona?" "¡Oh, Maestro!" exclamó Nanda, "¿cómo puede una mujer hermosa ser comparada con un simio feo?" "Quizás pronto encuentres una razón para hacer la comparación tú mismo", respondió el Buda;—e instantáneamente por poder sobrenatural ascendió con Nanda al _San-jûsan-Ten_, que es el Segundo de los Seis Cielos del Deseo. Allí, dentro de un palacio de joyas, Nanda vio una multitud de doncellas celestiales celebrando un festival con música y danza; y la belleza de la más pequeña entre ellas excedía incomparablemente la de la mujer más hermosa de la tierra. "¡Oh Maestro!" exclamó Nanda, "¿qué maravilloso festival es este?" "Pregúntale a algunas de esas personas", respondió Shaka. Entonces Nanda preguntó a una de las doncellas celestiales; Y ella le dijo: «Este festival es para celebrar la buena nueva que nos ha sido traída. Hay ahora en el mundo humano, entre los discípulos de Shaka, un joven excelente llamado Nanda, que pronto renacerá en este cielo y se convertirá en nuestro novio, gracias a su vida santa. Lo esperamos con <span id="p69"><sup><small>[ p. 69 ]</small></sup></span>regocijo». Esta respuesta llenó de alegría el corazón de Nanda. Entonces el Buda le preguntó: «¿Hay alguna entre estas doncellas, Nanda, igual en belleza a la mujer de la que has estado enamorado?». «¡No, Maestro!», respondió Nanda; «así como esa mujer superaba en belleza a la simia que vimos en la montaña, así también ella es superada incluso por la más pequeña de estas».
 

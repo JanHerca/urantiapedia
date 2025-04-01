@@ -98,7 +98,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^610]: 190:10 Esto se traduce según el comentario de Maimónides; pero este pasaje se explica de diversas maneras.
 
-[^611]: 190:11 Véase Nota [^600], página [188](Tratado13_Erubin_2#p188).
+[^611]: 190:11 Véase Nota [^600], página [188](../Tratado13_Erubin_2#p188).
 
 [^612]: 190:12 Está prohibido mirar a los sacerdotes mientras se dice la bendición ‏ברכת כהנים‎.
 

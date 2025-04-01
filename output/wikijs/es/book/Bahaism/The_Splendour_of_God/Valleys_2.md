@@ -42,7 +42,7 @@ No conoce ni el conocimiento ni la ignorancia, ni la duda ni la certeza; tampoco
 
 Evita tanto la infidelidad como la fe.
 
-Así lo dice Attar (uno de los grandes e inspirados líderes sufíes, poetas y filósofos de la Edad Media del Islam): “Deja la infidelidad a los infieles y la fe a los fieles; una sola partícula de dolor en tu amor es suficiente para el corazón de Attar”.
+Así lo dice Attar (uno de los grandes e inspirados líderes sufíes, poetas y filósofos de la Edad Media del Islam): «Deja la infidelidad a los infieles y la fe a los fieles; una sola partícula de dolor en tu amor es suficiente para el corazón de Attar».
 
 El corcel de este valle es el Dolor.
 
@@ -70,7 +70,7 @@ A cada instante el Amor consume un mundo; y en cualquier tierra donde iza su ban
 
 La existencia no tiene ser en su reino, y los hombres de razón no tienen punto de apoyo en su dominio.
 
-La ballena del amor devora al erudito en razón y destruye al prudente en conocimiento. Bebe los “siete mares” y, sin embargo, la sed de su corazón no se calma y sigue diciendo: “¿Queda algo más?”
+La ballena del amor devora al erudito en razón y destruye al prudente en conocimiento. Bebe los «siete mares» y, sin embargo, la sed de su corazón no se calma y sigue diciendo: «¿Queda algo más?»
 
 Se vuelve ajeno a sí mismo y rechaza todo lo que hay en el mundo.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 SEGUNDO VALLÎ, O, EL CAPÍTULO SOBRE ÂNANDA (LA FELICIDAD).
 
@@ -44,7 +44,7 @@ Quien conoce a Brahman alcanza el Brahman supremo. Sobre esto se registra el sig
 
 'El que conoce a Brahman, que es (es decir, causa, no efecto), que es consciente, que es sin fin, como oculto en la profundidad (del corazón), en el éter más elevado, disfruta de todas las bendiciones, en unidad con el omnisciente Brahman.'
 
-De ese Ser [^213] (Brahman) surgió el éter (âkâ<i>s</i>a, aquello a través de lo cual oímos); del éter el aire (aquello a través de lo cual oímos y sentimos); del aire el fuego (aquello a través de lo cual oímos, sentimos y vemos); del fuego el agua (aquello a través de lo cual oímos, sentimos, vemos y saboreamos); del agua la tierra (aquello a través de lo cual oímos, sentimos, vemos, saboreamos y olemos). De la tierra las hierbas, de las hierbas el alimento, del alimento la semilla, de la semilla el hombre. El hombre, pues, consiste en la esencia del alimento. Esta es su cabeza, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> este su brazo derecho, este su brazo izquierdo, este su tronco (Âtman), este el asiento (el soporte) [1](Taittiriyaka_2#fn214).
+De ese Ser [^213] (Brahman) surgió el éter (âkâ<i>s</i>a, aquello a través de lo cual oímos); del éter el aire (aquello a través de lo cual oímos y sentimos); del aire el fuego (aquello a través de lo cual oímos, sentimos y vemos); del fuego el agua (aquello a través de lo cual oímos, sentimos, vemos y saboreamos); del agua la tierra (aquello a través de lo cual oímos, sentimos, vemos, saboreamos y olemos). De la tierra las hierbas, de las hierbas el alimento, del alimento la semilla, de la semilla el hombre. El hombre, pues, consiste en la esencia del alimento. Esta es su cabeza, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> este su brazo derecho, este su brazo izquierdo, este su tronco (Âtman), este el asiento (el soporte) [1](../Taittiriyaka_2#fn214).
 
 Sobre esto también existe el siguiente <i>S</i>loka:
 
@@ -60,7 +60,7 @@ Diferente de este, que consiste en la esencia del alimento, es el otro, el Ser i
 Sobre esto también existe el siguiente <i>S</i>loka:
 
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## TERCER ANUVÂKA.
 
@@ -78,7 +78,7 @@ Quien conoce la dicha de ese Brahman, de donde toda palabra, con la mente, se ap
 
 Diferente de esto, que consiste en la mente, es el otro, el Ser interior, que consiste en la comprensión. El primero está lleno de esto. También tiene la forma del hombre. Así como la forma humana del primero es la forma humana del segundo. La fe es su cabeza. Lo correcto es su brazo derecho. Lo verdadero es su brazo izquierdo.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 La absorción (yoga) es su tronco. El gran (¿intelecto?) es el asiento (el soporte).
 
@@ -104,9 +104,9 @@ A continuación siguen las preguntas del alumno:
 
 ¿Acaso quien no sabe, tras partir de esta vida, va a ese mundo? ¿O acaso quien sabe, tras partir, va a ese mundo? [^218]
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
-La respuesta es: Él deseó, que yo sea muchos [1](Taittiriyaka_2#fn219), que yo crezca. Se meditó sobre sí mismo (como un hombre que realiza penitencia). Tras reflexionar así, creó todo lo que existe. Habiendo creado, entró en ello. Habiendo entrado, se convirtió en sat (lo manifiesto) y tyat (lo no manifiesto), definido e indefinido, sostenido y no sostenido, dotado de conocimiento y sin conocimiento (como piedras), real e irreal [2](Taittiriyaka_2#fn220). El Sattya (verdadero) se convirtió en todo esto, y por eso los sabios lo llaman (al Brahman) Sat-tya (lo verdadero).
+La respuesta es: Él deseó, que yo sea muchos [1](../Taittiriyaka_2#fn219), que yo crezca. Se meditó sobre sí mismo (como un hombre que realiza penitencia). Tras reflexionar así, creó todo lo que existe. Habiendo creado, entró en ello. Habiendo entrado, se convirtió en sat (lo manifiesto) y tyat (lo no manifiesto), definido e indefinido, sostenido y no sostenido, dotado de conocimiento y sin conocimiento (como piedras), real e irreal [2](../Taittiriyaka_2#fn220). El Sattya (verdadero) se convirtió en todo esto, y por eso los sabios lo llaman (al Brahman) Sat-tya (lo verdadero).
 
 Sobre esto también existe este <i>S</i>loka:
 
@@ -150,14 +150,14 @@ Cien veces la dicha de Pra<i>g</i>âpati es una <span id="p61"><sup><small>[ p. 
 
 (5) Él [^226] que es este (Brahman) en el hombre, y él que es aquel (Brahman) en el sol, ambos son uno [^227].
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Quien sabe esto, cuando ha partido de este mundo, alcanza y comprende el Ser que consiste en alimento, el Ser que consiste en aliento, el Ser que consiste en mente, el Ser que consiste en entendimiento, el Ser que consiste en bienaventuranza.
 
 Sobre esto también existe este <i>S</i>loka:
 
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## NOVENO ANUVÂKA [^231].
 

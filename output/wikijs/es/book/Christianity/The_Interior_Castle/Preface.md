@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:53:32Z
   </table>
 </figure>
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 **IHS**
 

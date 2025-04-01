@@ -60,7 +60,7 @@ Capítulo LXXV., Versículo 35.—¿No es Él capaz de dar vida a los muertos?
 
 <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
-Capítulo III, Versículo 190.—«¡Señor! En verdad, oímos a un pregonero que llamaba a la fe: “Creed en vuestro Señor», y creímos. ¡Señor! Perdona nuestros pecados y cubre nuestras ofensas, y déjanos morir con los justos. ¡Señor! Y tráenos lo que nos has prometido por medio de Tus apóstoles, y no nos deshonres en el día de la resurrección; porque, en verdad, Tú no rompes Tus promesas”. Y el Señor les responderá: «No desperdicio las obras de un trabajador entre ustedes, ya sea hombre o mujer, - uno de ustedes es del otro».
+Capítulo III, Versículo 190.—«¡Señor! En verdad, oímos a un pregonero que llamaba a la fe: «Creed en vuestro Señor», y creímos. ¡Señor! Perdona nuestros pecados y cubre nuestras ofensas, y déjanos morir con los justos. ¡Señor! Y tráenos lo que nos has prometido por medio de Tus apóstoles, y no nos deshonres en el día de la resurrección; porque, en verdad, Tú no rompes Tus promesas». Y el Señor les responderá: «No desperdicio las obras de un trabajador entre ustedes, ya sea hombre o mujer, - uno de ustedes es del otro».
 
 <figure class="table chapter-navigator">
   <table>

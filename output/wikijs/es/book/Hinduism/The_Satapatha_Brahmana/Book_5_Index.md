@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p511">[<sup><small>pág. 511</small></sup>]</span>
+<span id="p511"><sup><small>[ p. 511 ]</small></sup></span>
 
 
 abhi<i>g</i>it, Soma-day, Parte IV, página 321 n.
@@ -63,7 +63,7 @@ Aditi, por dieciséis sílabas gana el sho<i>d</i>a<i>s</i>a-stoma, III, 40; <i>
 
 âditya-nâmâni (parthas), III., 83.
 
-<span id="p513">[<sup><small>pág. 513</small></sup>]</span>
+<span id="p513"><sup><small>[ p. 513 ]</small></sup></span>
 
 Âdityas, por quince sílabas ganan pa<i>ñ</i><i>k</i>ada<i>s</i>a-stoma, III, 40; ofrenda animal a (en lugar de a Aditi), 126; doce, nacidos de Vâ<i>k</i>, 149; colocados con Âditya en el cielo, 150; formaron el cielo por medio de <i>G</i>agatî, 234; pap en dîkshâ de Agni<i>k</i>ayana, 247;—producidos, IV, 33; Âdityas y Maruts, conectados con embriones y el pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stoma, 68; Vasus, Rudras y Âdityas se separaron y fueron los señores cuando el cielo y la tierra se separaron, 75; señores de la región occidental, 101; conectados con Varu<i>n</i>a, saptada<i>s</i>a-stoma, etc., 101; Vasus, Rudras, Âdityas, Maruts, Vi<i>s</i>ve Devâ<i>h</i> construyen en diferentes lados del altar (ESWN Superior), 118;—los doce Âdityas enumerados, V, 116; Âdityas y Aṅgiras compitiendo por llegar primeros al cielo, 152; surgir mediante la realización del tercer empujón, 173; el caballo sacrificial para ir por el camino de los Âdityas, 288; consagrar al rey por el <i>G</i>agatî, 313; obtener la parte de Vishnu, el sacrificio, correspondiente al prensado vespertino, 443; Indra, con Vasus, Rudras y Âdityas, recibe la ofrenda de gharma, 479-80,
 
@@ -1389,7 +1389,7 @@ kshumâ (vl kshupâ), nombre de una flecha, III, 88,
 
 Kubera Vai<i>s</i>rava<i>n</i>a, rey de los Rakshas, ​​V, 367.
 
-<span id="p546">[<sup><small>pág. 546</small></sup>]</span>
+<span id="p546"><sup><small>[ p. 546 ]</small></sup></span>
 
 Kuhû, pap le ofreció, (el extremo de) una de las cuatro regiones, IV, 264.
 
@@ -1497,7 +1497,7 @@ Mahâ<i>s</i>âla <i>G</i>âbâla, instruido por Dhîra <i>S</i>âtapar<i>n</i>e
 
 Olla Mahâvîra (Vish<i>n</i>u y el Sol), etimología, V, 443; fabricación, 447 y siguientes; su forma, 454; ungida con ghee, 462; es reverenciado (como el sol), 469.
 
-<span id="p548">[<sup><small>pág. 548</small></sup>]</span>
+<span id="p548"><sup><small>[ p. 548 ]</small></sup></span>
 
 Mahâvrata, IV, introd. xxv seq.; 110, 168; el último día (antes del día concluyente) de Gavâm ayanam, y anteriormente uno de los tres grandes ritos del Sattra, V, (139), 144, 167.
 
@@ -2287,7 +2287,7 @@ sata, un cuenco (de caña), V, 220, 252.
 
 <i>s</i>atamâna, placa redonda (de oro), III, 104; presentada a Brahman, 141; honorarios por bahishpavamâna de A<i>s</i>vamedha, V, 306.
 
-<span id="p569">[<sup><small>pág. 569</small></sup>]</span>
+<span id="p569"><sup><small>[ p. 569 ]</small></sup></span>
 
 <i>S</i>atânîka Sâtrâ<i>g</i>ita, realizó el A<i>s</i>vamedha, V, 400, 401.
 
@@ -2433,7 +2433,7 @@ serpiente, no es ni gusano ni no-gusano, III, 90; son la gente de Arbuda Kâdrav
 
 Snâtaka, puede iniciar al sacerdote Unnetri, V, 137.
 
-<span id="p572">[<sup><small>pág. 572</small></sup>]</span>
+<span id="p572"><sup><small>[ p. 572 ]</small></sup></span>
 
 <i>s</i>o<i>k</i>is,—haras, <i>s</i>o<i>k</i>is, ar<i>k</i>is (calor, fuego, llama) de Agni, IV, 182.
 
@@ -2497,7 +2497,7 @@ espíritus, oblación, V, 133.
 
 <i>s</i>rî, excelencia, III, 144, 163, 392; distinción (eminencia social), IV, 110, 132, 241; V, 285, 313; bondad (?), 326, 327; prosperidad, V, 18, 59; belleza, 315.
 
-<span id="p574">[<sup><small>pág. 574</small></sup>]</span>
+<span id="p574"><sup><small>[ p. 574 ]</small></sup></span>
 
 <i>S</i>rî, diosa de la belleza y la fortuna, surge de Pra<i>g</i>âpati, y es despojada por los dioses, V, 62.
 
@@ -2653,7 +2653,7 @@ poros sudorosos, tantos como pelos y gotas de lluvia, V, 169.
 
 <i>s</i>yena, halcón o águila, uno de los metros Gâyatrî (es el bahishpavamâna) que lleva al Sacrificador a la dicha, V, 173; el que mata con garras
 
-<span id="p577">[<sup><small>pág. 577</small></sup>]</span>
+<span id="p577"><sup><small>[ p. 577 ]</small></sup></span>
 
 <i>s</i>yena, el rey de las aves, se origina en el corazón de Indra, 215; con dos plumas de <i>s</i>yena se purifica el sacrificio (se barre hacia arriba y hacia abajo) en Sautrâma<i>n</i>î, 230.
 
@@ -3157,7 +3157,7 @@ yamanetrâ<i>h</i> (devâ<i>h</i>), sentado en el sur, III, 49.
 
 Yaudhāgāya-sāman, cantado con tres nidhanas, IV, 7.
 
-<span id="p590">[<sup><small>pág. 590</small></sup>]</span>
+<span id="p590"><sup><small>[ p. 590 ]</small></sup></span>
 
 Yavamat, un Gandharva, V, 30.
 

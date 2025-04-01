@@ -39,7 +39,7 @@ El Gurú y Mardana emprendieron de nuevo su viaje. Se dice que se dirigieron al 
 Tú eres la tabla, oh Señor; tú eres la pluma, y ​​también la escritura.
 Habla del único Dios; oh Nanak, ¿por qué debería haber un segundo?[^1]
 
-El jeque Kamal fue y, tras una reverencia, se sentó cerca de ellos y pidió que le repitieran el verso. Así lo hicieron, y se lo aprendió de memoria. Luego recogió la leña que había recogido y se fue a casa. Le contó a su amo su aventura y le repitió el verso. El jeque Brahm se alegró mucho de que el Gurú hubiera visitado de nuevo su país y procedió de inmediato a darle la bienvenida. Tras saludos mutuos, el Gurú agradeció a Dios por haberle concedido ver de nuevo al jeque Brahm. Tras una conversación amistosa, el jeque le pidió al Gurú que le explicara el verso. «Nanak, dices: “Solo hay un Dios; ¿por qué habría de haber otro?”». Yo digo:
+El jeque Kamal fue y, tras una reverencia, se sentó cerca de ellos y pidió que le repitieran el verso. Así lo hicieron, y se lo aprendió de memoria. Luego recogió la leña que había recogido y se fue a casa. Le contó a su amo su aventura y le repitió el verso. El jeque Brahm se alegró mucho de que el Gurú hubiera visitado de nuevo su país y procedió de inmediato a darle la bienvenida. Tras saludos mutuos, el Gurú agradeció a Dios por haberle concedido ver de nuevo al jeque Brahm. Tras una conversación amistosa, el jeque le pidió al Gurú que le explicara el verso. «Nanak, dices: «Solo hay un Dios; ¿por qué habría de haber otro?»». Yo digo:
 
 'Hay un solo Señor y dos caminos;
 ¿Cuál adoptaré y cuál rechazaré?
@@ -64,7 +64,7 @@ Ella no tendrá demora en encontrarse con Él si tiene buenas intenciones.[^2]
 El Jeque Brahm respondió al último verso:
 
 Cuando era pequeña no disfrutaba de su esposo; cuando creció murió.
-Yaciendo en la tumba ella grita: “No te he conocido, oh Señor”.[^3]
+Yaciendo en la tumba ella grita: «No te he conocido, oh Señor».[^3]
 
 Luego Gurú Nanak dijo lo siguiente, en el sentido de que la salvación depende de la virtud y no de un exterior agradable o de la posesión de logros:
 
@@ -76,7 +76,7 @@ El jeque luego formuló las siguientes preguntas:
 ¿Cuál es esa palabra, cuál es esa virtud, cuál es ese hechizo inestimable?
 ¿Qué vestido debo usar para cautivar a mi Esposa?[^4]
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 El Gurú respondió:
 
@@ -101,7 +101,7 @@ Al oír esto, el jeque levantó la cabeza asombrado y dijo: «Bien hecho. Has vi
 Hay amistad entre la belleza y el amor, alianza entre el hambre y los manjares delicados;
 Compañía entre la avaricia y la riqueza, entre un hombre dormido y una cama y una colcha.
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 La ira que ladra es despreciada; es vano preocuparse por las ocupaciones mundanas.
 Guardar silencio, oh Nanak, es bueno; sin el Nombre la boca está contaminada.[^1]
@@ -121,7 +121,7 @@ Oh Creador, Tú eres el Dador; estando complacido otorgas y practicas la bondad.
 Tú lo sabes todo; das y quitas la vida con una palabra.[^3]
 Sentado contemplas _Tu obra_ con deleite.[^4]
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Shaikh Brahm solicitó al Gurú más instrucciones. El Gurú habló entonces sobre la humildad y dijo que, así como el agua, que reposa humildemente sobre la tierra, se eleva bajo la presión hacia el aire en fuentes centelleantes, quienes conservan una mente humilde ascienden a la cima más alta de Dios.
 
@@ -153,7 +153,7 @@ Nanak, el Verdadero es benéfico para todos.[^1]
 
 El Gurú sintió aún más afecto por el leproso y lo bendijo. El leproso se curó de su enfermedad, cayó a los pies del Gurú y comenzó a pronunciar el Nombre.
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 El Gurú viajó entonces por Sultanpur —su antigua sede cuando era funcionario del gobierno—, Vairowal y Jalalabad, hasta llegar a un lugar llamado Kari Pathandi, en el distrito de Amritsar. En Kari Pathandi, convocó a muchos pastunes. Solían cantarle serenatas con música instrumental, intercaladas con gritos de "¡Salud al rey Nanak!". Allí, el Gurú compuso lo siguiente:
 
@@ -173,7 +173,7 @@ Y realiza el encantamiento de los méritos, encontrará a su Amado.
 Quien lo encuentra con su corazón continuará encontrándolo; eso se llama un encuentro _real_.
 Por mucho que uno lo desee, un encuentro no se logra con palabras.
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 El metal se mezcla con el metal y el amor se apresura a amar.
 Conoce el favor del Gurú y encontrarás al Intrépido.
@@ -193,7 +193,7 @@ Las mujeres hindúes, ya sean de casta alta o baja, corren el mismo destino que 
 Cantan el himno del asesinato, oh Nanak, y se untan con el azafrán de la sangre.
 Nanak canta las alabanzas del Señor en la ciudad de los cadáveres y pronuncia esta frase común:
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 El que hizo a los hombres les asignó diferentes posiciones; Él se sienta aparte, solo, y los observa.
 Verdadero es el Señor, verdadera su decisión, verdadera la justicia que Él imparte como ejemplo.
@@ -247,7 +247,7 @@ Si hubieran pensado en Él antes, ¿por qué habrían recibido castigo?
 Pero habían perdido todo pensamiento de Dios en las alegrías, en los espectáculos y en los placeres.
 Cuando se proclamó el gobierno de Babar, ningún príncipe pastún comió su comida.
 
-<span id="p113">[<sup><small>pág. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Algunos perdieron sus _cinco_ tiempos de oración, otros sus horas de adoración.
 ¿Cómo podrán ahora las mujeres hindúes bañarse y aplicarse marcas frontales sin sus cuadrados sagrados?
@@ -258,7 +258,7 @@ Lo que agrada a Dios, oh Nanak, sucederá; ¿qué es el hombre?[^3]
 
 Después de esto, llegó Mir Khan, el gobernador de la cárcel. Vio que el bulto del Gurú estaba elevado un codo por encima de su cabeza sin ningún soporte aparente, y que el caballo confiado a Mardana lo seguía mientras tocaba música sacra en su rabel. El gobernador comunicó esta información a Babar. El Emperador respondió que, de haber sabido que la ciudad albergaba a hombres tan santos, no la habría destruido. Por sugerencia del gobernador, fue a la prisión, que se encontraba a tres kilómetros de distancia. Allí había mujeres pastunes e hindúes apiñadas promiscuamente, moliendo maíz. El Gurú también había recibido un molino de mano para el mismo propósito. Se dice que el molino giraba solo mientras él metía el maíz. El Emperador se dirigió al Gurú, pero este se encontraba en trance, pensando en la masacre de sus inocentes compatriotas. Al despertar, cantó el siguiente himno, que, sin embargo, no se encuentra en el Granth Sahib:
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Nadie puede matar a Aquel a quien Tú preservas, ¡oh Bondadoso!
 ¿Cómo se pueden contar tus alabanzas? Salvas a innumerables seres.
@@ -273,7 +273,7 @@ Sácalo, oh Señor, del océano del mundo y hazlo tuyo.
 
 Se dice que el Emperador, al oír esto, se postró a los pies de Nanak y declaró que Dios se había aparecido en su rostro. Ante esto, todos los cortesanos saludaron a Nanak. El Emperador le pidió que aceptara un regalo. El Gurú respondió que no quería nada para sí, pero solicitó la liberación de los cautivos de Saiyidpur. Ante esto, el Emperador ordenó que fueran liberados y que se les devolvieran sus propiedades. Sin embargo, los cautivos se negaron a partir sin el Gurú. Entonces se le permitió ir con ellos, y regresaron a sus hogares en la ciudad. Encontraron que todos los que habían permanecido en Saiyidpur habían sido ejecutados. Mardana le dijo a su señor que todo había sucedido como Dios lo había querido. Ante esto, el Gurú, acompañado por el rabel de Mardana, cantó la siguiente lamentación:
 
-<span id="p115">[<sup><small>pág. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ¿Dónde están esos deportes, esos establos y esos caballos?
 ¿Dónde estaban aquellas cornetas y clarines?
@@ -295,7 +295,7 @@ Un lado apuntaba y disparaba sus armas, el otro también manejaba sus armas:
 Aquellos cuya carta[^1] ha sido desgarrada en el tribunal de Dios deben morir, hermanos míos.
 Había esposas de hindúes, de turcos, de bhattis y de rajputs.
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Las túnicas de algunos fueron rasgadas desde la cabeza hasta los pies; las viviendas de otros fueron sus lugares de cremación.
 ¿Cómo pasaron la noche aquellas cuyos maridos no volvieron a casa?
@@ -315,7 +315,7 @@ La codicia es un calabozo negro, demerita los grilletes en los pies.
 La riqueza siempre golpea al alma con su mazo, mientras el pecado se sienta como juez.
 El hombre será bueno o malo, oh Señor, según cómo lo mires.
 
-<span id="p117">[<sup><small>pág. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 El Ser Primordial se llama ahora Alá; ha llegado el turno de los Shaikhs.
 Existe un impuesto sobre los santuarios de los dioses; tal es la práctica establecida.
@@ -334,7 +334,7 @@ Los hombres, mediante el ejercicio de la mentira, construyen casas para sí mism
 ¡Despertad, vosotros los que dormís! ¡Mirad! El alma, dispuesta a permanecer aquí para siempre, construirá luego casas.
 El cuerpo caerá y el alma se apartará, si alguno desea conocer la verdad.
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ¿Por qué gritas: «¡Ay! ¡Ay!»? Dios es y será.
 Lloráis por los demás, pero ¿quién llorará por vosotros?
@@ -386,7 +386,7 @@ Que Nanak obtenga limosnas en las puertas.
 
 El Emperador estaba tan complacido con el Gurú que le pidió que lo acompañara. Al principio, el Gurú solo prometió quedarse un día con él, pero, al ser presionado para que se quedara tres días, finalmente accedió. El Gurú miraba siempre con angustia a los prisioneros. Por tercera vez cantó el himno anterior, y luego cayó en trance y perdió el conocimiento. El Emperador, de pie junto a él, preguntó a los presentes qué había sucedido. Respondieron que el faquir, al contemplar la ira de Dios, estaba sufriendo y había caído en trance. Babar se alarmó por la seguridad del Gurú y pidió a la gente que rezara a Dios por su recuperación.
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Ante esto, el Gurú se puso de pie, y entonces brilló una luz como si hubieran surgido mil soles. Babar saludó y le pidió al Gurú que fuera misericordioso con él. El Gurú respondió: «Si tú, oh Emperador, deseas bondad, libera a todos tus cautivos». Aceptó, con una condición: que el Gurú prometiera que su imperio continuaría de generación en generación. El Gurú respondió: «Tu imperio permanecerá por un tiempo». Ante esto, el Emperador ordenó que todos sus prisioneros fueran vestidos con ropas de honor, algo que le causó gran placer y satisfacción. El Emperador le pidió al Gurú instrucciones adecuadas a su posición. El Gurú dijo: «Emite juicios justos, reverencia a los hombres santos, renuncia al vino y al juego. El monarca que se entrega a estos vicios, si sobrevive, lamentará sus fechorías. Sé misericordioso con los vencidos y adora a Dios en espíritu y en verdad».
 

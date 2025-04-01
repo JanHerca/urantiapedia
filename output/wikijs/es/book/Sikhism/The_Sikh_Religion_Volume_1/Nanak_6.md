@@ -70,7 +70,7 @@ La mujer fue a casa de su suegro;[^7] ¿cómo mostrará su rostro mientras va?
 Cuando amaneció, durmió profundamente y se olvidó de su viaje.
 Ella se separó de Ti, oh Esposo, y por eso almacenó dolor para sí misma.
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 En Ti, oh Señor, están los méritos; en mí todos los deméritos: Nanak quiere hacer esta única representación.
 Cada noche es para la mujer virtuosa; ¡que yo, aunque no sea casta, pueda obtener también una noche![^1]
@@ -93,7 +93,7 @@ El rey imparte justicia cuando tiene la palma llena.
 Si un hombre pide por amor a Dios, nadie le hace caso.
 Nanak, los hombres _hoy en día_ son hombres sólo en forma y nombre:
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 En acción son perros; ¿serán aceptados en la puerta de Dios?
 Si el hombre, por el favor de su gurú, se considera un invitado en este mundo,
@@ -117,7 +117,7 @@ Pon las agujas surma[^5] del temor de Dios en tus ojos, y
 oreja la decoración del amor.
 Serás conocida como una esposa devota y feliz[^6] si amas al Novio.
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 ¿Qué hará una mujer tonta si no complace a su marido?
 Por mucho que implore, no podrá entrar en su cámara.
@@ -127,7 +127,7 @@ No es por estos medios que se obtiene el Esposo; tonta es la mujer que piensa as
 Id y preguntad a las felices esposas[^1] por qué medios obtuvieron su Esposo—
 'Todo lo que Él haga, acéptalo como bueno; hazlo con inteligencia y orden.
 'Aplica tu mente a la adoración de Sus pies por cuyo amor se obtiene lo que más se valora.[^2]
-“Haz todo lo que el Esposo te ordene; entrégale tu cuerpo y tu alma; tales perfumes son aplicables.”[^3]
+«Haz todo lo que el Esposo te ordene; entrégale tu cuerpo y tu alma; tales perfumes son aplicables.»[^3]
 Así hablan las felices esposas:[^4] 'Oh hermana, por estos medios se obtiene el Esposo.
 'Desapóyate y obtendrás al Esposo; ¿qué otro arte hay?'
 Solamente importa el día en que el Esposo mira con agrado, pues entonces la esposa habrá obtenido las riquezas del mundo.
@@ -135,7 +135,7 @@ Ella que complace a su esposo es la feliz esposa Nanak, ella es la reina de todo
 Ella está saturada de placer, intoxicada de felicidad,[^5] y día y noche absorta en Su amor.
 Ella es bella y hermosa a la vista, talentosa, y es sólo ella quien es sabia.[^6]
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Nurshah y sus mujeres, al oír este himno, se enrollaron sus tocados en señal de sumisión y se postraron a los pies del Gurú. Preguntaron cómo podían alcanzar la salvación. El Gurú les indicó que repitieran el nombre de Dios, cumplieran concienzudamente con sus tareas domésticas y renunciaran a la magia, para así asegurar su felicidad futura. Se dice que se convirtieron en seguidoras del Gurú Nanak y así lograron la salvación.
 
@@ -159,7 +159,7 @@ Que el cisne haga del miedo su alimento, su bebida y su sustento. Sin ese alimen
 ¿Quién tiene ayudante? Que lo diga cualquiera.
 Todo el mundo es tuyo; Tú eres _el ayudador_ de todos.
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Nanak, nombrar y meditar en Aquel a quien pertenece
 Los hombres, los animales inferiores, la riqueza y la propiedad, son difíciles.[^1]
@@ -202,7 +202,7 @@ No puedo hacer nada para pasar mi tiempo en paz.
 
 Luego el Gurú compuso el siguiente himno en el Rag Malar:
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 La muerte se olvida entre la comida y la bebida, la risa y el sueño.
 Al olvidar al Señor, el hombre se ha arruinado a sí mismo y ha hecho que su vida sea maldita; no debe quedarse aquí.
@@ -228,7 +228,7 @@ El Gurú regresó de Kamrup por el gran río Brahmaputra y luego realizó un via
 El sol y la luna, oh Señor, son tus lámparas; el firmamento, tu bandeja; los orbes de las estrellas, las perlas engastadas en él.
 El perfume del sándalo[^1] es tu incienso; el viento es tu abanico;[^2] todos los bosques son tus flores, oh Señor de la luz.[^3]
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ¿Qué adoración es ésta, oh Tú, Destructor del nacimiento?[^1] Melodías ininterrumpidas de éxtasis son las trompetas de Tu adoración.
 Tienes mil ojos y sin embargo ni un solo[^2] ojo; tienes mil formas y sin embargo ni una sola forma;[^3]
@@ -241,7 +241,7 @@ Lo que te agrada es el verdadero arati.[^5]
 Oh Dios, mi mente está fascinada con Tus pies de loto como el abejorro con la flor: noche y día tengo sed de ellos.
 Dale el agua de tu gracia al sarang[^6] Nanak, para que pueda morar en tu nombre,[^7]
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 En Jagannath, Gurú Nanak se encontró con un brahmán que mantenía los ojos y la nariz cerrados para no recibir placer de estos órganos. Afirmó que en ese estado, con sus ojos mentales, veía los secretos del mundo. Nanak ocultó su lota y el brahmán no pudo encontrarlo, así que Nanak, con el siguiente himno en la métrica Dhanasari, lo reprendió por su falta de omnisciencia:
 

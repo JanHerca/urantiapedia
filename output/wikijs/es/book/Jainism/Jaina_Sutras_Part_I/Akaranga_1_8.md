@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 OCTAVA LECCIÓN, (LLAMADA) LA ALMOHADA DE LA JUSTICIA.
 
@@ -78,7 +78,7 @@ No usaba ropa ajena ni comía en vasijas ajenas. Sin hacer caso del desprecio, i
 
 Conociendo la mesura al comer y beber, no deseaba la comida deliciosa ni la ansiaba. Un sabio no debe frotarse los ojos ni rascarse el cuerpo. (19)
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Mirando un poco a los lados, mirando un poco hacia atrás, respondiendo poco cuando se le habla, debe caminar atento mirando su camino. (20)
 
@@ -144,7 +144,7 @@ Así eran los habitantes. Muchos otros mendigos vivían allí, comiendo comida �
 
 Aun así armados, fueron mordidos y desgarrados por los perros. Es difícil viajar en Lâdhâ. (6)
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Dejando de usar el palo (es decir, la crueldad) contra los seres vivos, abandonando el cuidado del cuerpo, el sin hogar (Mahâvîra), el Venerable, soporta las espinas de los pueblos (es decir, el lenguaje abusivo de los campesinos), (siendo) perfectamente iluminado. (7)
 
@@ -187,7 +187,7 @@ Al entrar en un pueblo o ciudad, mendigaba comida preparada para otra persona. C
 
 Cuando había cuervos hambrientos, o seres sedientos se interponían en su camino, donde mendigaba, o cuando los veía descender repetidamente, (10)
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Cuando un Brâhma<i>n</i>a o <i>Srama<i>n</i>a, un mendigo o un huésped, un <i>K</i>â<i>n</i><i>d</i>âla [^316], un gato o un perro se interponían en su camino, (11)
 

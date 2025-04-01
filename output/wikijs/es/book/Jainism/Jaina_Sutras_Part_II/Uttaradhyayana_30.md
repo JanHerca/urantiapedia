@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 TRIGÉSIMA LECCIÓN. EL CAMINO DE LA PENITENCIA.
 
@@ -56,7 +56,7 @@ Las austeridades externas son:
 
 <i>a</i>. El ayuno temporal se divide en seis tipos: 1. en forma de línea [^470]; 2. en forma de cuadrado; 3. en forma de cubo; 4. de sexta potencia; 5. de duodécima potencia; 6. de cualquier disposición. El ayuno temporal (puede practicarse) por diferentes objetivos que se tengan en mente. (10, 11)
 
-<span id="p176">[<sup><small>pág. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 <i>b</i>. El ayuno que precede a la muerte es de dos tipos en cuanto a los movimientos del cuerpo: con cambio de posición y sin cambio. (12)
 
@@ -68,7 +68,7 @@ a. Quien come menos de lo habitual [^472], en el caso extremo solo un bocado, se
 
 <i>b</i>. (Lugar significa) una aldea, una ciudad libre [^473], una capital, un campamento de comerciantes [^474], una mina, un asentamiento de una tribu salvaje [^475], un lugar con una muralla de tierra [^476], una ciudad pobre [^477], una ciudad con puerto [^478], una ciudad grande [^479], una ciudad aislada [^480] y una ciudad abierta [^481]. (16)
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 En una ermita, un vihâra [^482], un lugar de parada para una procesión [^483], un lugar de descanso para viajeros [^484], una estación de pastores, un campamento en terreno elevado, un campamento de caravanas, un lugar de refugio fortificado. (17)
 
@@ -82,7 +82,7 @@ O si recoge limosna en una parte del tercer Paurushî, o en su último cuarto, e
 
 d. Quien acepta limosna de una mujer o un hombre, de una persona adornada o no adornada, de cualquier edad o vestimenta, de cualquier carácter o color, observa abstinencia mental si dicha persona no cambia su disposición o condición [^486]. (22, 23)
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 <i>e</i>. Un monje que observa la abstinencia según los detalles enumerados respecto a la sustancia, el lugar, el tiempo y el estado mental, también observa la abstinencia respecto al desarrollo [^487]. (24)
 
@@ -154,7 +154,7 @@ Así lo digo.
 
 [^466]: 174:1 Karmôpâdânahêtavas, aquello a través de lo cual el alma es afectada por Karman.
 
-[^467]: 174:2 Agârava = agaurava; pero aquí se explica, libre de garva, cf. [pag. 98](Uttaradhyayana_19#p98), nota [2](Uttaradhyayana_19#fn257).
+[^467]: 174:2 Agârava = agaurava; pero aquí se explica, libre de garva, cf. [pag. 98](../Uttaradhyayana_19#p98), nota [2](../Uttaradhyayana_19#fn257).
 
 [^468]: 174:3 Literalmente coronas, es decir, diez millones.
 

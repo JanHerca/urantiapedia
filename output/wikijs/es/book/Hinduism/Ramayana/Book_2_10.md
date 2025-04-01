@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## CANTO I.: EL HEREDERO APARENTE.
 
@@ -143,7 +143,7 @@ Y la debilidad le advirtió que la muerte estaba cerca:
 Pero Ráma se hizo querer por el mundo.
 Con cada gracia su pecho se alegraba,
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 La luna de cada ojo, cuyo rayo
 Ahuyentó todo su dolor y su miedo.
@@ -268,7 +268,7 @@ Entonces todo el pueblo respondió:
 Campesino y ciudadano, de a pie y de a pie:
 ' Cada don más noble de forma y mente,
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Oh Monarca, en tu hijo encontramos.
 ¿Escuchas las virtudes divinas?
@@ -391,7 +391,7 @@ Estar por cien mil colocados;
 Cuajada fresca con chorros de leche rociada
 Para alimentar a la multitud Bráhman.
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Con cuidado sean satisfechas todas sus necesidades.
 Y en medio de los jefes nacidos dos veces se dividen
@@ -510,7 +510,7 @@ Su pueblo próspero satisfecho;
 ¿En qué arsenales se almacenan armas?
 Y tesoro con tesoros de oro,
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Sus amigos se regocijan como se regocijó el Bendito.
 Cuando Amrit coronó su ansiosa búsqueda.
@@ -624,7 +624,7 @@ Tú y Sítá ayunad estrictamente:
 Aparta tu alma de los pensamientos mundanos,
 Y permanezco recostado sobre la hierba sagrada.
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Y que tus señores de confianza te asistan
 En cuidadosa vigilancia sobre su amigo,
@@ -706,7 +706,7 @@ Y en mi fortuna llevas parte.
 Sea tuyo, hijo de Sumitrá, saberlo
 Las alegrías que fluyen del poder real.
 Mi vida misma, el asiento del monarca,
-Por tu amado amor eres dulce para mí. [1](Libro_2_10#fn268)
+Por tu amado amor eres dulce para mí. [1](../Libro_2_10#fn268)
 
 Así le dijo Rama a su hermano:
 Inclinó la cabeza ante ambas madres,
@@ -748,7 +748,7 @@ Y tuyo será el lugar del Regente:
 Ahora con tu Sítá, como es correcto,
 Pasar la noche en el más estricto ayuno,
 
-<span id="p95">[<sup><small>pág. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 Para cuando el amanecer del día siguiente sea hermoso
 El rey consagrará a su heredero:
@@ -871,7 +871,7 @@ La ciudad abarrotada de Ayodhyá voló,
 Y tan pronto como apareció el amanecer, cada hombre
 Comenzamos a decorar la ciudad.
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 En todos los templos brillantes y hermosos
 Como nubes blancas que se elevan en el aire,
@@ -995,7 +995,7 @@ Desde la alta colina de Kailása, ella corrió.
 Pecado en sus pensamientos, su alma en llamas,
 Donde dormía la reina Kaikeyí, ella vino:
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 "¿Por qué duermes?" gritó, "levántate,
 El peligro está cerca, abre los ojos.
@@ -1119,7 +1119,7 @@ Sabio, pronto, formado en la ciencia bélica;
 Y ay, tiemblo cuando pienso
 De tu querido hijo al borde de la ruina.
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Ella es bendecida con un destino elevado,
 Kaus'alyá; porque su hijo será
@@ -1245,7 +1245,7 @@ En destierro hoy.'
 Mientras la furia iluminaba los ojos de Kaikeyí
 Ella habló con largos y ardientes suspiros:
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 «Este día verá mi hijo entronizado,
 Y Rama huirá a los bosques.
@@ -1365,7 +1365,7 @@ Dedicado al bienestar de tu dama.
 Querida niña, sin tu fiel ayuda
 No había marcado el terreno que había trazado.
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Lleno de todo engaño, pecado y rencor.
 Las jorobadas deformes impactan la vista:
@@ -1485,7 +1485,7 @@ Ella reflexionó sobre su resolución por un tiempo,
 Como el hermoso camino que la dicha aseguró
 La miserable dama atraída,
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Dedicada a su reina y balanceada
 Por la esperanza de ganancias y felicidad, la doncella
@@ -1600,7 +1600,7 @@ Y te sanarán.
 ¿A quién, querido, quieres ver castigado?
 ¿O a quién se enriqueció con honores señoriales?
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 “No llores, mi amada Reina, y quédate
 Este dolor que desgasta tu cuerpo
@@ -1628,7 +1628,7 @@ Lo mejor de mí lo temen las naciones del sur,
 Los angas y los vaugas oyen.
 Y como señor supremo yo reino
 Sobre Magadh y la llanura de los Matsyas,
-Kos'al y el amplio dominio de Kási: [1](Libro_2_20#fn273)
+Kos'al y el amplio dominio de Kási: [1](../Libro_2_20#fn273)
 Todo rico en tesoros de la mina.
 En maíz dorado, ovejas, cabras y vacas.
 Elige lo que quieras. Kaikeyi, de ahí:

@@ -40,7 +40,7 @@ Su hijo Bala<i>s</i>rî, también conocido como M<i>ri</i>gâputra (es decir, hi
 
 En su palacio, Nandana retozaba con sus esposas, como el dios Dôgundaga [^235], siempre feliz en su mente. (3)
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 De pie ante una ventana de su palacio [^236], cuyo suelo estaba incrustado con piedras preciosas y joyas, miraba hacia abajo a las plazas, lugares y caminos de la ciudad. (4)
 
@@ -128,7 +128,7 @@ Disfruta de los cinco placeres humanos. Después de que hayas terminado de disfr
 
 «Aunque aquí haga frío, allí es infinitamente más intenso; en el infierno he padecido el frío. (48)
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 'Un número infinito de veces me han asado sobre un fuego abrasador en un horno, gritando fuerte, cabeza abajo y pies arriba. (49)
 
@@ -198,7 +198,7 @@ Sus padres le dijeron: «Hijo, un hombre es libre de entrar en la orden, pero a 
 
 'De la misma manera, un monje piadoso va a muchos lugares y camina como los animales, pero después va a las regiones superiores. (82)
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 'Así como un animal salvaje va solo a muchos lugares, vive en muchos lugares y siempre consigue su alimento, así también un monje en su gira de mendicidad no debe despreciar ni culpar (el alimento que consigue). (83)
 
@@ -218,7 +218,7 @@ Le era indiferente el éxito o el fracaso (en la mendicidad), la felicidad y la 
 
 Se apartó de la vanidad y de las pasiones, de las acciones injuriosas, dañinas y peligrosas [^258], de la alegría y de la tristeza; estaba libre de pecados y ataduras. (91)
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 No tenía ningún interés en este mundo ni en el próximo; era indiferente a las cosas desagradables y agradables [^259], a la comida y al ayuno. (92)
 
@@ -302,7 +302,7 @@ Así lo digo.
 
 [^256]: 97:1 Miga = m<i>ri</i>ga, literalmente 'antílope'; pero aquí con tanta frecuencia la palabra aparentemente tiene el significado más general de 'animal salvaje'.
 
-[^257]: 98:1 Véase las notas [2](Uttaradhyayana_12#fn159) y [3](Uttaradhyayana_12#fn160) en [p. 50](Uttaradhyayana_12#p50).
+[^257]: 98:1 Véase las notas [2](../Uttaradhyayana_12#fn159) y [3](../Uttaradhyayana_12#fn160) en [p. 50](../Uttaradhyayana_12#p50).
 
 [^258]: 98:2 Garava = gaurava o garva. Dīpikā: <i>ri</i>ddhigārava-rasagārava-sātāgārava iti garvatrayarahitah</i>.
 
@@ -310,4 +310,4 @@ Así lo digo.
 
 [^260]: 99:1 Vâsî<i>k</i>anda<i>n</i>akappô. El autor del Ava<i>k</i>ûri explica esta frase así: no le gustaba más un hombre que se unge con sándalo que un albañil. Aparentemente, le da a vâsa el significado de «morada»; pero creo que la yuxtaposición de «k</i>andana» requiere una palabra que denote una sustancia maloliente, tal vez una inmundicia.
 
-[^261]: 99:2 Literalmente «puerta». El significado del verso se interpretará plenamente y el símil se conservará, al menos parcialmente, con la siguiente traducción menos literal: cerró la puerta, por así decirlo, a las malas influencias. Para el âsrava, véase arriba, [p. 55](Uttaradhyayana_12#p55), nota [1](Uttaradhyayana_12#fn165).
+[^261]: 99:2 Literalmente «puerta». El significado del verso se interpretará plenamente y el símil se conservará, al menos parcialmente, con la siguiente traducción menos literal: cerró la puerta, por así decirlo, a las malas influencias. Para el âsrava, véase arriba, [p. 55](../Uttaradhyayana_12#p55), nota [1](../Uttaradhyayana_12#fn165).

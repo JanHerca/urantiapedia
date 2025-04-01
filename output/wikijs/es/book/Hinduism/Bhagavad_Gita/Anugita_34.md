@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:1:28Z
   </table>
 </figure>
 
-<span id="p375">[<sup><small>pág. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Los sabios dijeron:
 
@@ -73,7 +73,7 @@ Los sabios dijeron:
 
 [^1950]: 375:4 Esta es la opinión de quienes sostienen la teoría de Pari<i>n</i>âma, o desarrollo, dice Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1951]: 375:5 'Ser uno' = conocimiento que es todo de una sola descripción, 'distinto' = conocimiento que tiene diversas entidades por sus distintos objetos (esta es la visión de los sostenedores del Vi<i>g</i>ñânavâda, dice Ar<i>g</i>una Mi<i>s</i>ra); múltiple = que los seres son innumerables. Las palabras aquí son casi idénticas a las del Gîtâ, [p. 83](Bhagavadgita_9#p83), véase la nota [4](Bhagavadgita_9#fn323) allí.
+[^1951]: 375:5 'Ser uno' = conocimiento que es todo de una sola descripción, 'distinto' = conocimiento que tiene diversas entidades por sus distintos objetos (esta es la visión de los sostenedores del Vi<i>g</i>ñânavâda, dice Ar<i>g</i>una Mi<i>s</i>ra); múltiple = que los seres son innumerables. Las palabras aquí son casi idénticas a las del Gîtâ, [p. 83](../Bhagavadgita_9#p83), véase la nota [4](../Bhagavadgita_9#fn323) allí.
 
 [^1952]: 375:6 Es decir, ayuda en acción, Ar<i>g</i>una Mi<i>s</i>ra.
 

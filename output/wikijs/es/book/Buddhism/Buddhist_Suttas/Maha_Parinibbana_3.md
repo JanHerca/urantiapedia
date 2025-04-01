@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## EL LIBRO DEL GRAN MUERTE. MAHÁ-PARINIBBÁNA-SUTTA. CAPÍTULO III.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 4\. Pero a pesar de la sugestión tan evidente y la insinuación tan clara que el Bendito le dio, el venerable Ânanda fue incapaz de comprenderlas; y no le suplicó, diciendo: «¡Dígnate, Señor, permanecer durante el kalpa! ¡Vive a través del kalpa, oh Bendito! ¡Por el bien y la felicidad de las grandes multitudes, por compasión hacia el mundo, por el bien, la ganancia y la prosperidad de los dioses y los hombres!». Hasta ese punto estaba su corazón poseído por el Maligno[^3].
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 5\. Una segunda y una tercera vez el Bendito \[dijo lo mismo, y una segunda y una tercera vez el corazón de Ânanda se endureció así\].
 
@@ -85,7 +85,7 @@ Con alegría interior y calma, se quebró,
 
 15. Además, Ânanda, cuando un Bodhisatta abandona consciente y deliberadamente su forma temporal en el cielo del deleite y desciende al vientre de su madre, esta tierra se estremece y se sacude violentamente. Estas son las terceras causas, próximas o remotas, de la aparición de un gran terremoto.
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 16\. «Además, Ananda, cuando un Bodhisatta abandona deliberada y conscientemente el vientre de su madre, la tierra tiembla y se estremece violentamente. Esta es la cuarta causa, próxima y remota, de la aparición de un gran terremoto.»
 
@@ -109,7 +109,7 @@ Con alegría interior y calma, se quebró,
 
 24\. 'Ahora bien, éstas, Ânanda, son las ocho posiciones de dominio \[sobre el engaño que surge de la aparente permanencia de las cosas externas[^10]\]. ¿Cuáles son las ocho?
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 25\. 'Cuando un hombre que tiene subjetivamente la idea de forma ve externamente formas que son finitas y agradables o desagradables a la vista, y habiéndolas dominado, es consciente de que sabe y ve, ésta es la primera posición de dominio.
 
@@ -129,19 +129,19 @@ Con alegría interior y calma, se quebró,
 
 35\. 'Sin la idea subjetiva de la forma, ve las formas externamente: ésta es la segunda etapa de la liberación.
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
-36\. 'Con el pensamiento “está bien”, se concentra (en lo que ve): esta es la tercera etapa de la liberación.
+36\. 'Con el pensamiento «está bien», se concentra (en lo que ve): esta es la tercera etapa de la liberación.
 
-37\. 'Al ir más allá de toda idea de forma, al poner fin a toda idea de resistencia, al no prestar atención a la idea de distinción, él, pensando “todo es espacio infinito”, alcanza (mentalmente) y permanece en el estado mental en el que la idea de la infinitud del espacio es la única idea presente: esta es la cuarta etapa de la liberación.
+37\. 'Al ir más allá de toda idea de forma, al poner fin a toda idea de resistencia, al no prestar atención a la idea de distinción, él, pensando «todo es espacio infinito», alcanza (mentalmente) y permanece en el estado mental en el que la idea de la infinitud del espacio es la única idea presente: esta es la cuarta etapa de la liberación.
 
-38\. 'Al ir más allá de toda idea de que el espacio es la base infinita, él, pensando “todo es razón infinita”, alcanza (mentalmente) y permanece en el estado mental en el que solo está presente la infinitud de la razón: esta es la quinta etapa de la liberación.
+38\. 'Al ir más allá de toda idea de que el espacio es la base infinita, él, pensando «todo es razón infinita», alcanza (mentalmente) y permanece en el estado mental en el que solo está presente la infinitud de la razón: esta es la quinta etapa de la liberación.
 
-39\. 'Al ir más allá de la mera conciencia de la infinitud de la razón, él, pensando “no existe nada en absoluto”, alcanza (mentalmente) y permanece en el estado mental en el que nada en absoluto está especialmente presente: esta es la sexta etapa de la liberación.
+39\. 'Al ir más allá de la mera conciencia de la infinitud de la razón, él, pensando «no existe nada en absoluto», alcanza (mentalmente) y permanece en el estado mental en el que nada en absoluto está especialmente presente: esta es la sexta etapa de la liberación.
 
 40\. 'Al pasar completamente más allá de toda idea de la nada, alcanza (mentalmente) y permanece en el estado mental en el que ni las ideas ni la ausencia de ideas están especialmente presentes: ésta es la séptima etapa de la liberación.
 
-41\. 'Al ir más allá del estado de “ni ideas ni ausencia de ideas”, alcanza (mentalmente) y permanece en el estado mental en el que tanto las sensaciones como las ideas han dejado de existir: esta es la octava etapa de la liberación.
+41\. 'Al ir más allá del estado de «ni ideas ni ausencia de ideas», alcanza (mentalmente) y permanece en el estado mental en el que tanto las sensaciones como las ideas han dejado de existir: esta es la octava etapa de la liberación.
 
 42\. 'Ahora bien, éstas, Ânanda, son las ocho etapas de la liberación.
 

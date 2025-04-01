@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T17:53:32Z
   </table>
 </figure>
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Absalón, III. i. 6
 
@@ -93,7 +93,7 @@ Oruga, semejanza de, V. ii. 6
 
 Bodega de vino, V. i. 10, ii. 11
 
-<span id="p302">[<sup><small>pág. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Certeza del alma, signo de unión, V. i. 8, 9
 
@@ -171,7 +171,7 @@ Somnolencia, V. i. 3, 5
 
 Sequedad, en la oración, III. i. 9, 10, 15
 
-<span id="p303">[<sup><small>pág. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Pascua, trance en la fiesta de, VI. xi. 8.
 
@@ -261,7 +261,7 @@ Imitación de Cristo, I. i. 8; II. i. 8; V. i. 3, iii. 3; VII. iv. 7, 12
 
 Impulsos, VI. ii. 12, xi. _por tótem_.
 
-<span id="p304">[<sup><small>pág. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 Incienso, espiritual, IV. ii. 6; VI. ii. 14
 
@@ -355,7 +355,7 @@ Música, VII. iii. 10
 
 Misterios revelados durante los raptos, VI. iv. 10, 12, 13
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 El Arca de Noé, VII. iii. 12
 
@@ -489,7 +489,7 @@ Tomás de Aquino, S., V. i. 6; VI. v. 8
 
 Toledo, Convento de San José, Prefacio, pág. 36
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Tortuga, IV. iii. 4.
 

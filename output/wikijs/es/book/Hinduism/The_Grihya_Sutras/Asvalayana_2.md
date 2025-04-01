@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## ADHYÂYA II, KANDIKÂ 1.
 
@@ -98,7 +98,7 @@ Dentro del dominio del blanco, ninguna serpiente ha matado nada. Al blanco, hijo
 
 5\. [^492]. «Que estemos a salvo de los hijos de Pra<i>g</i>âpati» —murmura mientras mira el fuego. <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
-6\. (Al decir): “Sé feliz y amigable con nosotros” —debería pensar en el invierno.
+6\. (Al decir): «Sé feliz y amigable con nosotros» —debería pensar en el invierno.
 
 7. Al oeste del fuego hay una capa bien extendida de paja; sobre ella debe sentarse, murmurar el verso: «¡Sé suave, oh tierra!» (Rig-veda I, 22, 15), y acostarse sobre esa capa con su gente, con la cabeza hacia el este y el rostro hacia el norte.
 
@@ -335,7 +335,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 4\. Para que el viento sople hacia él desde el campo, debe ofrecer oblaciones con el himno «Por el señor del campo» (Rig-veda IV, 57), verso por verso, o debe murmurarlo.
 
-5\. [^523]. Debe decir a las vacas cuando se van, estos dos versos: “Que un viento refrescante sople sobre las vacas” (Rig-veda X, 169, I seq.).
+5\. [^523]. Debe decir a las vacas cuando se van, estos dos versos: «Que un viento refrescante sople sobre las vacas» (Rig-veda X, 169, I seq.).
 
 6\. [^524]. Cuando regresen, (deberá recitar los siguientes versos,)
 
@@ -343,7 +343,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 Ven a mí, refréscate, tráeme vigor y fuerza. Dame leche inagotable, descansa en mi establo para que pueda llegar a ser el más alto.
 
-Y, “Aquellos que han elevado sus cuerpos hacia los dioses”—el resto del himno (Rig-veda X, 169, 3. 4).
+Y, «Aquellos que han elevado sus cuerpos hacia los dioses»—el resto del himno (Rig-veda X, 169, 3. 4).
 
 7\. [^525]. Algunos recitan (en lugar de los textos indicados en el Sûtra 6) el himno Âgâvîya.
 
@@ -385,7 +385,7 @@ Fin del segundo Adhyâya.
 
 [^488]: 202:15 Es decir, dos ofrendas de Bali para cada día, una para la mañana y otra para la tarde.
 
-[^489]: 203:2 2, 2. «El plural “Deben sacrificarlo” significa que, mientras el sacrificio lo realiza el jefe de familia, sus hijos y los demás miembros de la familia deben tocarlo». Nârâya<i>n</i>a.
+[^489]: 203:2 2, 2. «El plural «Deben sacrificarlo» significa que, mientras el sacrificio lo realiza el jefe de familia, sus hijos y los demás miembros de la familia deben tocarlo». Nârâya<i>n</i>a.
 
 [^490]: 203:4 El sacrificio Âgraya<i>n</i>a, que se ofrece cuando el sacrificador va a disfrutar de las primicias de la cosecha, se trata, en relación con el sacrificador que guarda los fuegos <i>S</i>rauta, en el <i>S</i>rauta-sûtra II, q. En mi opinión, este sutra debe entenderse como una adición suplementaria a ese capítulo. Nârâya<i>n</i>a se refiere a la regla aquí dada en caso de cualquier incidente o peligro (âpad) que impida al sacrificador realizar la ceremonia en su forma más completa, como se prescribe en el <i>S</i>rauta-sûtra.
 
@@ -395,7 +395,7 @@ Fin del segundo Adhyâya.
 
 [^493]: 204:5 Las serpientes son los hijos de Ka<i>s</i>yapa (es decir, Pra<i>s</i>âpati) y Kadrû; véase Mahâbhârata I, 1074 seqq.
 
-[^494]: 205:10 'Los mantras que comienzan desde “Sé suave, oh tierra” (Sutra 7) hasta los himnos auspiciosos (Sutra 13).' Nârâya<i>n</i>a.
+[^494]: 205:10 'Los mantras que comienzan desde «Sé suave, oh tierra» (Sutra 7) hasta los himnos auspiciosos (Sutra 13).' Nârâya<i>n</i>a.
 
 [^495]: 205:11 Del Sutra 12 se desprende que aquí deben girar sus rostros hacia el este.
 

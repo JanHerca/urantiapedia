@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. El padre tiene derecho al Kidushin [^820] de su hija [si no es núbil], ya sea por dinero, contrato matrimonial o parentesco. Tiene derecho, además, a lo que ella encuentre, a sus ganancias y a anular sus votos. También recibe su Get [^821] por ella, pero no disfruta del usufructo [de sus bienes maternos] durante su vida. El esposo tiene ventaja sobre él, ya que disfruta del usufructo [de sus bienes] durante su vida. Pero entonces está obligado a su manutención, a su rescate [en caso de ser llevada al cautiverio] y a su entierro. R. Jehudah dice: «Incluso el hombre más pobre de Israel no debe tener menos de dos flautas [instrumentos] de luto, y una mujer de luto [en el funeral de su esposa]».
 
-<span id="p251">[<sup><small>pág. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 § 5. Ella [una mujer] está siempre [invariablemente] bajo la autoridad de su padre hasta que sea puesta bajo la autoridad de su esposo [por matrimonio]; [según otra versión: hasta que sea puesta bajo el dosel nupcial]. [^822] Si el padre la ha entregado a los emisarios del esposo, está bajo la autoridad del esposo. Si el padre ha ido con los emisarios del esposo, o si los emisarios del padre han ido con los emisarios del esposo, ella está [aún] bajo la autoridad del padre. Si los emisarios del padre la han entregado a los emisarios del esposo, está bajo la autoridad de su esposo.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. Aunque el esposo no haya firmado una Ketubá para ella, la novia, sin embargo, recibe 200 dinares, y la viuda, un mané, según lo estipulado por el Bethdin. [^825] Si le ha cedido un campo por valor de tan solo 100 zooz, en lugar de los 200 zooz que le corresponden legalmente, y no ha añadido en la Ketubá las palabras: «Todas mis demás posesiones están sujetas a tu Ketubá», la obligación sigue vigente, ya que es una estipulación fija del Bethdin. [^826]
 
-<span id="p252">[<sup><small>pág. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 § 8. Aunque no haya insertado en su Ketubah: «Si eres hecha cautiva, te rescataré y te recibiré [de vuelta] como mi esposa»; o, si es la esposa de un sacerdote, «y te traeré de regreso a tu propia tierra [hogar]», [^827] la obligación sigue vigente, ya que es una estipulación fija [condición permanente promulgada] por el Bethdin.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 VIGÉSIMA PRIMERA CONFERENCIA. SAMUDRAPÂLA.
 
@@ -52,9 +52,9 @@ joven, tenía una figura esbelta y buena apariencia. (6) Su padre le consiguió 
 
 Una vez vio desde la ventana de su palacio a un hombre condenado a muerte, vestido para la ejecución, camino del lugar de la ejecución. (8)
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
-Agitado por lo que vio, Samudrapâla dijo así: “De las malas acciones éste es el mal resultado”. (9)
+Agitado por lo que vio, Samudrapâla dijo así: «De las malas acciones éste es el mal resultado». (9)
 
 El venerable hombre se iluminó de inmediato y se agitó enormemente; se despidió de sus padres y entró en el estado de sin hogar. (10)
 
@@ -116,7 +116,7 @@ Así lo digo.
 
 [^281]: 108:1 Para traducir nîtikôvida.
 
-[^282]: 108:2 Para Dôgundaga, véase arriba, [p. 88](Uttaradhyayana_18#p88), nota [2](Uttaradhyayana_19#fn235).
+[^282]: 108:2 Para Dôgundaga, véase arriba, [p. 88](../Uttaradhyayana_18#p88), nota [2](../Uttaradhyayana_19#fn235).
 
 [^283]: 109:1 Saggantha = sagrantha, que obviamente es lo opuesto de nirgrantha. Los comentaristas corrigen sa<i>m</i>ga<i>m</i>tha en sa<i>m</i>ga<i>m</i> <i>k</i>a. La lectura original se encuentra en el manuscrito BA, que tiene sa<i>m</i>ga<i>m</i>tha, y también C. originalmente, pero corrige el tha en <i>k</i>a. Según los comentaristas, deberíamos traducir: abandonando el apego mundano que causa gran angustia, gran engaño, oscuridad (Lê<i>s</i>yâ) y peligros, uno debería, etc.
 

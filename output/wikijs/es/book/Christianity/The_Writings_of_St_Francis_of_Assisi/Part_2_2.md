@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## II. CARTA A TODOS LOS FRAILES.
 
@@ -42,9 +42,9 @@ Esta carta, al igual que la anterior, fue dividida erróneamente por Rodolfo di 
 
 La carta a todos los frailes se encuentra en catorce de los manuscritos mencionados anteriormente que contienen la carta a todos los fieles, a saber, los de Asís, Düsseldorf, <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> Florencia (Ognissanti), San Floriano, Foligno, Liegnitz, Múnich, Oxford, París (los tres manuscritos) y Roma (ambos manuscritos en San Isidoro y cod. 4354 de la Biblioteca Vaticana). También se encuentra en otros ocho códices: (1) _Capistran_ (munic. lib. cod. xxii, fol. 85 r); (2) _Friburgo_ en Suiza (lib. ad Conventual Conv., cod. 23, 1. 60); (3) París (lib. nat., cód. 18327, fol. 159 v); (4-5) Subiaco (lib. monástica, cód. 120, fol. 325 y 212, fol. 184); (6-7) Roma (cód. de San Antonio, fol. 61 r y 80 r, y lib. vaticana, cód. B. 82, fol. 147 v); (8) Volterra (lib. Guarnacci, cód. 225, fol. 151 r). De estos últimos códices, los dos manuscritos romanos y el de Volterra datan del siglo XIV; los otros cinco, del siglo XV.
 
-Para el texto de Quaracchi de la carta, que aquí se traduce, se cotejaron los manuscritos de Asís, [^445] de San Antonio, Ognissanti y San Isidoro con las versiones que aparecen en _Arbor Vitae_ (l. v, cap. vii, fol. 224 v), _Monumenta_ (fol. 231 v) y _Firmamenta_ (fol. 21 r). [^446] Cabe señalar que, al colocar la oración “Dios Todopoderoso y Eterno”, etc., al final de la carta, los editores de Quaracchi siguieron el orden de los manuscritos de Asís, Antoniano, Liegnitz y Mazarino. [^447] Pero basta de introducción a la Carta II, dirigida por San Francisco:
+Para el texto de Quaracchi de la carta, que aquí se traduce, se cotejaron los manuscritos de Asís, [^445] de San Antonio, Ognissanti y San Isidoro con las versiones que aparecen en _Arbor Vitae_ (l. v, cap. vii, fol. 224 v), _Monumenta_ (fol. 231 v) y _Firmamenta_ (fol. 21 r). [^446] Cabe señalar que, al colocar la oración «Dios Todopoderoso y Eterno», etc., al final de la carta, los editores de Quaracchi siguieron el orden de los manuscritos de Asís, Antoniano, Liegnitz y Mazarino. [^447] Pero basta de introducción a la Carta II, dirigida por San Francisco:
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## A TODOS LOS FRAILES.
 
@@ -52,11 +52,11 @@ En el nombre de la Altísima Trinidad y la Santa Unidad del Padre, del Hijo y de
 
 A todos los reverendos y muy amados hermanos, al [^449] ministro general de la Orden de los Menores, su señor, y a los demás ministros generales que le sucederán, y a todos los ministros, custodios y sacerdotes de la misma hermandad, humildes en Cristo, y a todos los hermanos sencillos y obedientes, desde los primeros hasta los últimos, el hermano Francisco, hombre humilde y caído, vuestro pequeño siervo, os saluda en Aquel que nos redimió y nos limpió en su Preciosa Sangre, [^450] y a quien, al oír su Nombre, adoráis con temor y reverencia, postrados en tierra; [^451] el Señor Jesucristo, tal es el Nombre [^452] del Hijo Altísimo, bendito por los siglos. Amén.
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Escuchen, señores míos, hijos míos y hermanos míos, y escuchen mis palabras. [^453] Inclinen el oído [^454] de su corazón y obedezcan la voz del Hijo de Dios. Guarden sus mandamientos con todo su corazón y cumplan sus consejos con una mente perfecta. Alábenlo porque es bueno [^455] y ensalcenlo en sus obras, [^456] pues por eso los ha enviado por todo el mundo para que con palabras y obras den testimonio de su voz, [^457] y den a conocer a todos que no hay otro Todopoderoso fuera de Él. [^458] Perseveren en la disciplina [^459] y la obediencia, y con un propósito bueno y firme cumplan lo que le han prometido. El Señor Dios se ofrece a ustedes como a sus hijos. [^460]
 
-Por tanto, hermanos, besando vuestros pies y con la caridad de que soy capaz, os conjuro a todos a mostrar toda la reverencia y todo el honor posible al santísimo Cuerpo y Sangre de nuestro Señor Jesucristo, en quien las cosas que están en los cielos y las cosas que están en la tierra se pacifican y reconcilian con Dios Todopoderoso. [^461] También suplico en el Señor a todos mis hermanos que son y serán y desean ser sacerdotes [^462] del Altísimo que, cuando quieran celebrar la Misa, siendo puros, ofrezcan el verdadero Sacrificio <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> del Cuerpo y la Sangre de nuestro Señor Jesucristo puramente, con reverencia, con una intención santa y limpia, no por ninguna cosa terrena ni por temor ni por amor a ningún hombre, como si fuera agradar a los hombres. [^463] Pero que toda voluntad, en la medida en que la gracia del Todopoderoso ayude, se dirija a Él, [^464] deseando desde allí agradar solo al Señor Supremo, porque solo Él obra allí [en el Santo Sacrificio] como le plazca, pues Él mismo dice: “Hagan esto en conmemoración mía”; [^465] "si alguien hace lo contrario, se convierte en el traidor Judas [^466] y es hecho culpable del Cuerpo y la Sangre del Señor. [^467]
+Por tanto, hermanos, besando vuestros pies y con la caridad de que soy capaz, os conjuro a todos a mostrar toda la reverencia y todo el honor posible al santísimo Cuerpo y Sangre de nuestro Señor Jesucristo, en quien las cosas que están en los cielos y las cosas que están en la tierra se pacifican y reconcilian con Dios Todopoderoso. [^461] También suplico en el Señor a todos mis hermanos que son y serán y desean ser sacerdotes [^462] del Altísimo que, cuando quieran celebrar la Misa, siendo puros, ofrezcan el verdadero Sacrificio <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> del Cuerpo y la Sangre de nuestro Señor Jesucristo puramente, con reverencia, con una intención santa y limpia, no por ninguna cosa terrena ni por temor ni por amor a ningún hombre, como si fuera agradar a los hombres. [^463] Pero que toda voluntad, en la medida en que la gracia del Todopoderoso ayude, se dirija a Él, [^464] deseando desde allí agradar solo al Señor Supremo, porque solo Él obra allí [en el Santo Sacrificio] como le plazca, pues Él mismo dice: «Hagan esto en conmemoración mía»; [^465] "si alguien hace lo contrario, se convierte en el traidor Judas [^466] y es hecho culpable del Cuerpo y la Sangre del Señor. [^467]
 
 Recordad, sacerdotes, hermanos míos, lo que está escrito en la ley de Moisés: cómo quienes transgredieron, incluso materialmente, murieron por decreto del Señor sin piedad alguna. [^468] ¡Cuántos mayores y peores castigos merece sufrir quien ha pisoteado al Hijo de Dios y ha considerado impura la Sangre del pacto por la que fue santificado, y ha ofendido al Espíritu de la gracia! [^469] Porque el hombre desprecia, mancha y pisotea al Cordero de Dios cuando, como dice el Apóstol, [^470] al no discernir ni distinguir el santo pan de Cristo de otros alimentos u obras, <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> come indignamente o, si es digno, come en vano e indecorosamente, pues el Señor dijo por medio del profeta: «Maldito el hombre que hace la obra del Señor con engaño». [^471] Y condena a los sacerdotes que no se toman esto en serio, diciendo: «Maldeciré vuestras bendiciones». [^472]
 
@@ -106,13 +106,13 @@ Dios Todopoderoso, eterno, justo y misericordioso, concédenos, a nosotros, los 
 
 [^441]: 109:1 Así nos lo dice Ubertino da Casale en su _Arbor Vitae_, terminado en el monte La Verna el 28 de septiembre de 1305 (l. v, cap. vii).
 
-[^442]: 109:2 Como aprendemos de la rúbrica del Manuscrito de Asís. 338: “Sobre la carta y admonición de nuestro beatísimo padre Francisco, que envió a los hermanos en el capítulo cuando estaba enfermo”.
+[^442]: 109:2 Como aprendemos de la rúbrica del Manuscrito de Asís. 338: «Sobre la carta y admonición de nuestro beatísimo padre Francisco, que envió a los hermanos en el capítulo cuando estaba enfermo».
 
 [^443]: 109:3 _Hist. Seraph._, fol. 173 v.
 
 [^444]: 109:4 Epístolas X, XI y XII en su edición.
 
-[^445]: 110:1 A continuación de este manuscrito, Monseñor Faloci editó la primera parte de la carta (al “mundo sin fin. Amén” —véase página 116) en su Miss. Frances, t. VI, pág. 94.
+[^445]: 110:1 A continuación de este manuscrito, Monseñor Faloci editó la primera parte de la carta (al «mundo sin fin. Amén» —véase página 116) en su Miss. Frances, t. VI, pág. 94.
 
 [^446]: 110:2 El _Mon._ y _Firm._, como Rodolfo (fol. 273 v), dan sólo la primera parte de la carta, que Wadding convierte en Epis. XII.
 
@@ -120,7 +120,7 @@ Dios Todopoderoso, eterno, justo y misericordioso, concédenos, a nosotros, los 
 
 [^448]: 111:1 Cod. As. omite esta invocación.
 
-[^449]: 111:2 Cod. As. añade “al Hermano _A_, ministro general”. Se ha conjeturado que San Francisco deseaba que esta carta se leyera al comienzo de todos los capítulos subsiguientes, con vistas a perpetuar su presencia espiritual entre los hermanos. En esta hipótesis, el copista debía escribir aquí la inicial del ministro general que gobernaba la orden en el momento de su escritura. El hecho de que _A_ sea la inicial que figura al comienzo del manuscrito de Asís puede dar una pista sobre la fecha de su composición (Alberto de Pisa gobernó la orden entre 1239 y 1240, y _A_ymon de Faversham, entre 1240 y 1244), pero en el cuerpo de la carta (véase más adelante, [p. 117](#p117)) se hace referencia al ministro general como Hermano _H_ \[_H_elias (?) 1232-1239\]. Cod. An. En el encabezado de la carta se lee Hermano _T_ \[Tomás de Farignano (?), 1367-73\].
+[^449]: 111:2 Cod. As. añade «al Hermano _A_, ministro general». Se ha conjeturado que San Francisco deseaba que esta carta se leyera al comienzo de todos los capítulos subsiguientes, con vistas a perpetuar su presencia espiritual entre los hermanos. En esta hipótesis, el copista debía escribir aquí la inicial del ministro general que gobernaba la orden en el momento de su escritura. El hecho de que _A_ sea la inicial que figura al comienzo del manuscrito de Asís puede dar una pista sobre la fecha de su composición (Alberto de Pisa gobernó la orden entre 1239 y 1240, y _A_ymon de Faversham, entre 1240 y 1244), pero en el cuerpo de la carta (véase más adelante, [p. 117](#p117)) se hace referencia al ministro general como Hermano _H_ \[_H_elias (?) 1232-1239\]. Cod. An. En el encabezado de la carta se lee Hermano _T_ \[Tomás de Farignano (?), 1367-73\].
 
 [^450]: 111:3 Véase Apocalipsis 1:5.
 
@@ -136,7 +136,7 @@ Dios Todopoderoso, eterno, justo y misericordioso, concédenos, a nosotros, los 
 
 [^456]: 112:4 Véase Tob. 13: 6.
 
-[^457]: 112:5 Cod. An. dice: “puedes dejar estupefactos a todos los que se le oponen de palabra o de obra”.
+[^457]: 112:5 Cod. An. dice: «puedes dejar estupefactos a todos los que se le oponen de palabra o de obra».
 
 [^458]: 112:6 Véase Tob. 13:4.
 
@@ -150,7 +150,7 @@ Dios Todopoderoso, eterno, justo y misericordioso, concédenos, a nosotros, los 
 
 [^463]: 113:1 Véase Efesios 6:6 y Colosenses 3:22.
 
-[^464]: 113:2 Cod. As. dice: “al Señor”.
+[^464]: 113:2 Cod. As. dice: «al Señor».
 
 [^465]: 113:3 Lucas 22: 39.
 

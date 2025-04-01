@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span> pág. 269 pág. 270 pág. 271
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> pág. 269 pág. 270 pág. 271
 
 PRAS_Ñ_A-UPANISHAD.
 
@@ -123,7 +123,7 @@ PRAS_Ñ_A-UPANISHAD.
 12\. Quien ha conocido el origen [^898], la entrada, el lugar, la quíntuple distribución y el estado interno [^899] del Prâ<i>n</i>a, obtiene la inmortalidad, sí, obtiene la inmortalidad.'
 
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## CUARTA PREGUNTA.
 

@@ -32,24 +32,24 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 
 El Bendito recordó que el rey Vimbasara había expresado una vez su deseo de conocer la ley, y decidió ir a Rajagriha. Partió con el mayor de los Kasyapa y algunos de sus nuevos discípulos, y se instaló en un bosque, cerca de la ciudad.
 
 Vimbasara pronto se enteró de la llegada de los monjes. Decidió visitarlos. Acompañado por un grupo de sirvientes, se dirigió al bosque. Reconoció al Maestro y exclamó:
 
-“No olvidaste mi deseo, oh Bendito; grande es mi gratitud y mi reverencia”.
+«No olvidaste mi deseo, oh Bendito; grande es mi gratitud y mi reverencia».
 
 Se postró, y cuando el Maestro le pidió que se levantara, se mantuvo a distancia para mostrar su respeto.
 
 Pero entre la multitud había algunos que conocían a Kasyapa y lo consideraban un hombre muy santo. Nunca habían visto al Buda antes y se asombraron de que el rey le concediera tal honor.
 
-“Seguramente ha cometido un error”, dijo un brahmán; “debería haberse postrado ante Kasyapa”.
+«Seguramente ha cometido un error», dijo un brahmán; «debería haberse postrado ante Kasyapa».
 
-“Sí”, dijo otro, “Kasyapa es un gran maestro”.
+«Sí», dijo otro, «Kasyapa es un gran maestro».
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 «El rey ha cometido un extraño error», añadió un tercero: «ha confundido al alumno con el maestro».
 
@@ -69,11 +69,11 @@ Siete veces se postró, y la multitud exclamó con admiración:
 
 ¡Poderoso es quien ha convencido a Kasyapa de su ignorancia! Kasyapa se creía el más grande de los maestros, ¡y ahora lo veo inclinarse ante otro! ¡Oh, poderoso es quien es el maestro de Kasyapa!
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Entonces el Bendito les habló de las cuatro grandes verdades. Al terminar, el rey Vimbasara se acercó y, delante de todos, pronunció con valentía estas palabras:
 
-“Creo en Buda, creo en la ley, creo en la comunidad de los santos”.
+«Creo en Buda, creo en la ley, creo en la comunidad de los santos».
 
 El Bendito permitió al rey sentarse a su lado, y el rey volvió a hablar:
 
@@ -81,7 +81,7 @@ En mi vida he albergado cinco grandes esperanzas: que algún día sería rey; qu
 
 Él se levantó.
 
-“Oh Maestro, dígnate tomar tu comida en mi palacio mañana”.
+«Oh Maestro, dígnate tomar tu comida en mi palacio mañana».
 
 El Maestro consintió. El rey se fue; conoció una gran felicidad.
 
@@ -95,9 +95,9 @@ El amable Maestro está entre la gente amable; él trae la liberación. El que b
 
 Tenía una voz agradable. Hizo un gesto a la multitud para que se abriera paso, y obedecieron sin pensar en resistirse. Y cantó:
 
-“El Maestro ha disipado la oscuridad; la noche nunca renacerá; aquel que conoce la ley suprema ha llegado a Rajagriha”.
+«El Maestro ha disipado la oscuridad; la noche nunca renacerá; aquel que conoce la ley suprema ha llegado a Rajagriha».
 
-“¿De dónde viene este joven brahmán de voz clara y dulce?”, se preguntaba la gente.
+«¿De dónde viene este joven brahmán de voz clara y dulce?», se preguntaba la gente.
 
 Continuó cantando:
 
@@ -111,7 +111,7 @@ Me regocijo en tu presencia, mi Señor. Necesito verte a menudo y escuchar a men
 
 El Buda sonrió complacido. Trajeron una palangana dorada llena de agua perfumada. El rey tomó la palangana y vertió el agua sobre las manos del Maestro. Y dijo:
 
-“Así como esta agua fluye de mis manos a las tuyas, mi Señor, así también el Bosque de Bambú pueda pasar de mis manos a las tuyas, mi Señor.”
+«Así como esta agua fluye de mis manos a las tuyas, mi Señor, así también el Bosque de Bambú pueda pasar de mis manos a las tuyas, mi Señor.»
 
 La tierra tembló: la ley ahora tenía tierra donde enraizar. Y ese mismo día, el Maestro y sus discípulos se fueron a vivir al Bosque de Bambú.
 

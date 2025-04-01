@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 CUARTA LECCIÓN, LLAMADA MODOS DE HABLA [^413].
 
@@ -60,7 +60,7 @@ Un monje o una monja, al dirigirse a una mujer que no responde al ser interpelad
 
 Un monje o una monja, al dirigirse a una mujer que no responde al ser interpelada, debe decir: «¡Oh, longeva! ¡Oh, hermana! ¡Oh, señora! ¡Oh, mi señora! ¡Oh, hermana laica! ¡Oh, discípula! ¡Oh, fiel! ¡Oh, amante de la fe!». Con una reflexión profunda, deben usar un lenguaje intachable, intachable, etc. (11)
 
-Un monje o una monja no deben decir: “¡El dios [^420] del cielo! ¡El dios de la tormenta! ¡El dios del relámpago! ¡El dios que comienza a llover! ¡El dios que deja de llover! ¡Que llueva o que no llueva! ¡Que crezcan las cosechas o que no crezcan! ¡Que la noche mengüe o que no mengüe! ¡Que salga el sol o que no salga! ¡Que el rey conquiste o que no conquiste!”. No deben usar ese lenguaje. (12)
+Un monje o una monja no deben decir: «¡El dios [^420] del cielo! ¡El dios de la tormenta! ¡El dios del relámpago! ¡El dios que comienza a llover! ¡El dios que deja de llover! ¡Que llueva o que no llueva! ¡Que crezcan las cosechas o que no crezcan! ¡Que la noche mengüe o que no mengüe! ¡Que salga el sol o que no salga! ¡Que el rey conquiste o que no conquiste!». No deben usar ese lenguaje. (12)
 
 Pero conociendo la naturaleza de las cosas, debería decir: El aire; el seguidor de Guhya; una nube se ha reunido o ha descendido; la nube ha llovido.'
 
@@ -78,7 +78,7 @@ Un monje o una monja, al observar cualquier tipo de cualidades, debería decir: 
 
 Un monje o una monja, al ver cualquier tipo de cosas como muros o zanjas, etc. (ver II, 3, 2, § 14), no debe hablar de ellas de esta manera: 'Esto está bien ejecutado, finamente ejecutado, hermoso, excelente, (así hecho) o debe hacerse'; no deben usar un lenguaje tan pecaminoso, etc. (3)
 
-Un monje o una monja, al ver paredes, etc., debería hablar de ellas de esta manera: “Esto ha sido ejecutado con gran esfuerzo, con pecado, con mucho trabajo; es muy magnífico, es muy hermoso, es muy fino, es muy hermoso”; pensándolo bien, deberían usar un lenguaje sin pecado, etc. (4)
+Un monje o una monja, al ver paredes, etc., debería hablar de ellas de esta manera: «Esto ha sido ejecutado con gran esfuerzo, con pecado, con mucho trabajo; es muy magnífico, es muy hermoso, es muy fino, es muy hermoso»; pensándolo bien, deberían usar un lenguaje sin pecado, etc. (4)
 
 Un monje o una monja, al ver comida, etc., preparada, no debe hablar de ello de esta manera: 'Esto está bien ejecutado, finamente ejecutado, hermoso, excelente, (así hecho) o por hacerse'; considerando bien, no deben usar un lenguaje tan pecaminoso, etc. (5)
 
@@ -100,7 +100,7 @@ Un monje o una monja, al ver muchos frutos silvestres, no debe hablar de ellos d
 
 Un monje o una monja, al ver muchos frutos silvestres, debería hablar de ellos de esta manera: 'Son muy abundantes, contienen muchas semillas, están completamente desarrollados, han desarrollado su forma adecuada'; pensándolo bien, deberían usar un lenguaje sin pecado, etc. (14)
 
-Un monje o una monja, al ver muchas verduras, no debe hablar de ellas de esta manera: “Están maduras, son de color oscuro, brillantes, aptas para ser fritas o asadas o comidas”; pensándolo bien, no debe usar un lenguaje tan pecaminoso, etc. (15)
+Un monje o una monja, al ver muchas verduras, no debe hablar de ellas de esta manera: «Están maduras, son de color oscuro, brillantes, aptas para ser fritas o asadas o comidas»; pensándolo bien, no debe usar un lenguaje tan pecaminoso, etc. (15)
 
 Un monje o una monja, al ver muchos vegetales, debería hablar de ellos de esta manera: 'Han crecido, han crecido completamente, son fuertes, son excelentes, han dado semillas, han esparcido sus semillas, están llenos de savia'; considerando bien, deberían usar un lenguaje sin pecado, etc. (16)
 

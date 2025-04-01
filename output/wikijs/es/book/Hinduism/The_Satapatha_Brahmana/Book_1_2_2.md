@@ -115,7 +115,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v2_2_2_1919"><sup><small>2:2:2:1919.</small></sup></span> Ahora bien, asistir a (o adorar) ese fuego consagrado (agnyâdheya) significa decir la verdad. Quien dice la verdad, actúa como si rociara ese fuego encendido con ghee; pues así lo enciende: y aumenta cada vez más su energía vital, y día a día se vuelve mejor. Y quien dice la mentira, actúa como si rociara ese fuego encendido con agua; pues así lo debilita: y su energía vital disminuye cada vez más, y día a día se vuelve más malvado. Que, por lo tanto, solo diga la verdad.
 
-<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span> Entonces los parientes le dijeron a Aru<i>n</i>a Aupave<i>s</i>i: «Eres de edad avanzada: ¡enciende los dos fuegos!». Él respondió: «¡No hables así! Sé moderado [1](Book_1_2_2#fn706); pues quien ha encendido los fuegos no debe mentir: mejor que no hable en absoluto, pero que no mienta. La adoración, por encima de todo, es veracidad».
+<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span> Entonces los parientes le dijeron a Aru<i>n</i>a Aupave<i>s</i>i: «Eres de edad avanzada: ¡enciende los dos fuegos!». Él respondió: «¡No hables así! Sé moderado [1](../Book_1_2_2#fn706); pues quien ha encendido los fuegos no debe mentir: mejor que no hable en absoluto, pero que no mienta. La adoración, por encima de todo, es veracidad».
 
 
 <span id="v2_2_3"><sup><small>2:2:3</small></sup></span>
@@ -262,7 +262,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^701]: 307:2 Pra<i>k</i>yavata iva vâ esho 'smâl lokât... imân hi lokân samârohann eti. El texto de Kâ<i>n</i>va dice: «Pues quien realiza estas oblaciones se aparta, por así decirlo, de este mundo de los hombres para ir al mundo de los dioses, ya que, por así decirlo, se mueve hacia arriba (ûrdhva iva hi samârohann eti)». Cf. párrafos 14-16.
 
-[^702]: 307:3 Para estos (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, u oraciones invitatorias y de ofrenda en el Svish<i>t</i>ak<i>ri</i>t, véase [p. 164](Book_1_1_6#p164), nota [2](Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
+[^702]: 307:3 Para estos (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, u oraciones invitatorias y de ofrenda en el Svish<i>t</i>ak<i>ri</i>t, véase [p. 164](../Book_1_1_6#p164), nota [2](../Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
 
 [^703]: 308:1 Según la recensión Kâ<i>n</i>va, el anuvâkyâ y el yâ<i>g</i>yâ, en ese caso, deberían consistir en los versos que contienen la palabra mûrdhan ('cabeza'), a saber, Vâ<i>g</i>. S. XIII, 14, 15; cf. <i>S</i>at. Br. I, 6, 2, 12.
 
@@ -274,7 +274,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^707]: 311:1 'Pra tv evâsurebhyo bravâmeti.'—'Hantâsurebhya<i>h</i> pratiprabravâmeti,' texto de Kâ<i>n</i>va. ? '¡Convenzámoslos de lo contrario!'
 
-[^708]: 311:2 Véase [p. 297](Book_1_2_1#p297), nota [4](Book_1_2_1#fn684).
+[^708]: 311:2 Véase [p. 297](../Book_1_2_1#p297), nota [4](../Book_1_2_1#fn684).
 
 [^709]: 312:1 Este párrafo es algo ambiguo. La recensión de Kâ<i>n</i>va contiene, en cambio, los siguientes párrafos más explícitos: En cuanto a esto, existe una fuente de ansiedad (âgas) para algunos, pues temen que 'ese fuego se apague (anvagan)'. Pero que no presten atención a esto, pues, con toda seguridad, ese fuego suyo, que se ha establecido en lo más profundo de su alma, no se apaga. 'El carruaje podría pasar (vyayâsît), el carro podría pasar; ¡él (o alguien) podría interponerse entre (el fuego y yo)!', tal es otra fuente de ansiedad para algunos; pero que tampoco presten atención a esto; pues, con toda seguridad, el carruaje no pasa, el carro no atraviesa ese fuego suyo que se ha establecido en lo más profundo de su alma. Cf. XII, 4, 1, 2-3.
 
@@ -300,7 +300,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^720]: 317:3 El paṅkti consta de cinco pâdas octosílabos. El anuvâkyâ y el yâ<i>g</i>yâ de la ofrenda principal son los del Rig-veda IV, 10, 2 y 4; los del svish<i>t</i>ak<i>ri</i>t, ib., versos 4 y 1.—Â<i>s</i>v. II, 8, 14.
 
-[^721]: 317:4 Las oraciones de ofrenda de todas las libaciones y ofrendas en este ishti deben, por lo tanto, contener el nombre de Agni. En cada ofrenda anterior y posterior se añade una forma diferente de agni después de los respectivos objetos de esas ofrendas, así: «... samidho agne p. 318 'gna â<i>g</i>yasya vyantu', 'tanûnapâd agnim agna...', 'i<i>d</i>o agninâgne...', etc. Véase párrafo 19; también [p. 148](Book_1_1_5#p148), n. [2](Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 y ss. Las dos porciones de mantequilla que de otro modo se ofrecerían a Agni o a Soma respectivamente (cf. I, 6, 1, 20 y ss.) se ofrecen en este caso a Agni; los anuvâkyâs, según Â<i>s</i>v. II, 8, 7, son el Rig-veda VIII, 44, I, y VI, 16, 16, respectivamente. Véanse, sin embargo, los párrafos 21 y ss.
+[^721]: 317:4 Las oraciones de ofrenda de todas las libaciones y ofrendas en este ishti deben, por lo tanto, contener el nombre de Agni. En cada ofrenda anterior y posterior se añade una forma diferente de agni después de los respectivos objetos de esas ofrendas, así: «... samidho agne p. 318 'gna â<i>g</i>yasya vyantu', 'tanûnapâd agnim agna...', 'i<i>d</i>o agninâgne...', etc. Véase párrafo 19; también [p. 148](../Book_1_1_5#p148), n. [2](../Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 y ss. Las dos porciones de mantequilla que de otro modo se ofrecerían a Agni o a Soma respectivamente (cf. I, 6, 1, 20 y ss.) se ofrecen en este caso a Agni; los anuvâkyâs, según Â<i>s</i>v. II, 8, 7, son el Rig-veda VIII, 44, I, y VI, 16, 16, respectivamente. Véanse, sin embargo, los párrafos 21 y ss.
 
 [^722]: 318:1 Es decir, el Adhvaryu llama, Õ <i>s</i>râvaya, '¡haz que (él o uno) escuche!' y el Âgnîdhra responde con Astu <i>s</i>rausha<i>t</i>, '¡sí, que él (o uno) escuche!'
 
@@ -340,7 +340,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^740]: 322:3 Véase II, 1, 1, 5.
 
-[^741]: 325:1 La sruva, o cuchara para mojar, y el cucharón de Agnihotra, por ejemplo, están hechos de esta madera; ver [p. 331](Book_1_2_3#p331), nota [2](Book_1_2_3#fn746).
+[^741]: 325:1 La sruva, o cuchara para mojar, y el cucharón de Agnihotra, por ejemplo, están hechos de esta madera; ver [p. 331](../Book_1_2_3#p331), nota [2](../Book_1_2_3#fn746).
 
 [^742]: 325:2 Sobre 'hiṅ' como elemento esencial en la recitación de los cánticos Sâma, véase I, 4, 1, 1 seq.
 

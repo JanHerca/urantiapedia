@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:59:9Z
       <tr>
         <td>
         <a href="/es/book/Taoism/The_Sayings_of_Lao_Tzu/Tao_As_A_Moral_Principle">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Tao como principio moral o “virtud”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Tao como principio moral o «virtud»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 El Sabio se ocupa de la inacción y transmite instrucciones sin palabras. ¿Acaso no es descuidando el interés propio como se logra?
 
@@ -76,7 +76,7 @@ Deja que todas las cosas sigan su curso natural y no interfieras.
       <tr>
         <td>
         <a href="/es/book/Taoism/The_Sayings_of_Lao_Tzu/Tao_As_A_Moral_Principle">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Tao como principio moral o “virtud”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Tao como principio moral o «virtud»</span>
         </a>
         </td>
         <td>

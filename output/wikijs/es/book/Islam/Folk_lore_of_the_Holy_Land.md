@@ -71,7 +71,7 @@ Nota: la versión de este libro que actualmente está en imprenta por Dover es u
 	- [II. Nuestro padre Adán](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_2)
 	- [III. Noé y Og](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_3)
 	- [IV. Job y su familia](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_4)
-	- [V. Abraham, “el amigo de Dios”](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_5)
+	- [V. Abraham, «el amigo de Dios»](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_5)
 	- [VI. Lot y el árbol de la cruz](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_6)
 	- [VII. Las muertes de Moisés y Aarón](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_7)
 	- [VIII. David y Salomón](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_8)

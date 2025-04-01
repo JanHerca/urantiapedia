@@ -35,7 +35,7 @@ PRESIDENTE-FUNDADOR DE LA SOCIEDAD TEOSÓFICA.<br>
 Cuadragésima segunda edición. Corregida.<br>
 <br><br>
 Madrás:<br>
-La Oficina del “Teósofo”, Adyar.<br>
+La Oficina del «Teósofo», Adyar.<br>
 LONDRES Y BENARES: SOCIEDAD EDITORIAL TEOSÓFICA.<br>
 [1903]<br>
 <br>

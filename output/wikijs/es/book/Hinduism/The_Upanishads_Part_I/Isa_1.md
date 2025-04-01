@@ -29,13 +29,13 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p308">[<sup><small>pág. 308</small></sup>]</span> pág. 309
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span> pág. 309
 
 VÂ<i>G</i>ASANEYI-SA<i>M</i>HITÂ-UPANISHAD, A VECES LLAMADO Î<i>S</i>ÂVÂSYA O Î<i>S</i>Â-UPANISHAD
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 VÂ<i>G</i>ASANEYI-SA<i>M</i>HITÂ-UPANISHAD.
 

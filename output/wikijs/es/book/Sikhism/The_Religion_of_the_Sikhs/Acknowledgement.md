@@ -29,9 +29,9 @@ dateCreated: 2025-2-12T12:56:41Z
   </table>
 </figure>
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Cualquier escritor sobre la religión de los sikhs necesariamente debe estar en gran deuda con la obra única del Sr. Max A. Macauliffe sobre el tema, _La religión sikh: sus gurús, santos y autores_.
 

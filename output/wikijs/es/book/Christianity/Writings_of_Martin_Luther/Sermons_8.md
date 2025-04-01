@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:34Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 ## LA PARÁBOLA DE LA CIZAÑA QUE EL ENEMIGO SEMBRÓ EN EL CAMPO:
 

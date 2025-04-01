@@ -44,13 +44,13 @@ Sus parientes, al verlo, lo rodearán y exclamarán: «¡Hijo, te hemos criado, 
 
 'Los ancianos son de buena voz; tus hijos, niña, son muy jóvenes; te has casado con tu esposa; (ten cuidado) de que no se vaya con otro hombre. (5)
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 «Ven, niña, vamos a casa; nosotras podemos hacer todo el trabajo, tú no necesitas (hacerlo); la próxima vez nos encargaremos (de que no te sobrecargues de trabajo); niña, mientras tanto, vamos a nuestra casa. (6)
 
 'Después podrás volver a ir; por esta (tu visita) no dejarás de ser un <i>Srama<i>n</i>a; ¿quién te impedirá practicar el control cuando hayas terminado con los deseos mundanos [^772]? (7)
 
-“Hemos dividido entre nosotros todas vuestras deudas pendientes y os daremos el dinero necesario para el negocio”. (8)
+«Hemos dividido entre nosotros todas vuestras deudas pendientes y os daremos el dinero necesario para el negocio». (8)
 
 De esta manera, sus parientes acuden a él, lamentándose, e intentan persuadirlo. Aferrado por el apego a sus parientes, regresa rápidamente a su casa. (9)
 

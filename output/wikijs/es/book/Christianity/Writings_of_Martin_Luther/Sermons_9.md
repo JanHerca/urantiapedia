@@ -303,7 +303,7 @@ Que esta sea una regla fija para ustedes: Todo lo que se le deba comprar al Papa
 
 También debería haber un supervisor o guardián que conociera a todos los pobres e informara al ayuntamiento o al sacerdote de sus necesidades; o se podría tomar alguna otra medida similar. En mi opinión, ninguna ocupación abunda tanto en la pillería y el engaño como entre los mendigos; algo que podría eliminarse fácilmente. Esta mendicidad generalizada y desenfrenada es, además, perjudicial para la gente común. Calculo que, de las cinco o seis órdenes de monjes mendicantes, cada una visita cada lugar más de seis o siete veces al año; además, están los mendigos comunes, los emisarios y los peregrinos; de esta manera, calculo que cada ciudad sufre un chantaje unas sesenta veces al año, sin contar las tasas e impuestos pagados al gobierno civil ni los robos inútiles de la sede romana; así que, en mi opinión, es uno de los mayores milagros de Dios que logremos vivir y mantenernos.
 
-Algunos podrían pensar que de esta manera los pobres no estarían bien atendidos, y que no se construirían tan grandes casas de piedra y conventos, ni en tanta abundancia, y yo también lo creo. Ni es necesario. Si uno quiere ser pobre, no debería ser rico; si quiere ser rico, que ponga la mano en el arado y se enriquezca de la tierra. Basta con proveer decentemente a los pobres para que no mueran de frío y hambre. No es justo que uno trabaje para que otro esté ocioso, y que viva mal para que otro viva bien, como es ahora el perverso abuso, pues San Pablo dice: «Si alguno no quiere trabajar, tampoco coma» (2 Tes. 3:10). Dios no ha ordenado que nadie viva de los bienes de otros, excepto sólo los sacerdotes y ministros, como dice San Pablo (1 Cor. ix. 14), por causa de su trabajo espiritual, como también Cristo dice a los Apóstoles: “El obrero es digno de su salario” (Lc. x. 7).
+Algunos podrían pensar que de esta manera los pobres no estarían bien atendidos, y que no se construirían tan grandes casas de piedra y conventos, ni en tanta abundancia, y yo también lo creo. Ni es necesario. Si uno quiere ser pobre, no debería ser rico; si quiere ser rico, que ponga la mano en el arado y se enriquezca de la tierra. Basta con proveer decentemente a los pobres para que no mueran de frío y hambre. No es justo que uno trabaje para que otro esté ocioso, y que viva mal para que otro viva bien, como es ahora el perverso abuso, pues San Pablo dice: «Si alguno no quiere trabajar, tampoco coma» (2 Tes. 3:10). Dios no ha ordenado que nadie viva de los bienes de otros, excepto sólo los sacerdotes y ministros, como dice San Pablo (1 Cor. ix. 14), por causa de su trabajo espiritual, como también Cristo dice a los Apóstoles: «El obrero es digno de su salario» (Lc. x. 7).
 
 22\. También es de temer que las numerosas misas que se han organizado en conventos y fundaciones, en lugar de ser beneficiosas, provoquen la ira de Dios; por lo tanto, sería bueno no dotar más misas y abolir muchas de las que se han organizado; pues vemos que solo se consideran sacrificios y buenas obras, aunque en realidad son sacramentos como el bautismo y la confesión, y como tales solo benefician a quien los recibe. Pero ahora se ha establecido la costumbre de celebrar misas por los vivos y los difuntos, y todo se basa en ellas. Esta es la razón por la que hay tantas, y por la que han llegado a ser lo que vemos.
 
@@ -377,7 +377,7 @@ Como el Papa no pudo obligar a los griegos ni al emperador de Constantinopla, em
 
 Así, la sede romana ha conseguido lo que deseaba: Roma ha sido tomada, y el emperador alemán expulsado, obligado por juramento a no residir en Roma. Será emperador romano, pero no residirá en Roma, y, además, dependerá siempre del Papa y sus seguidores, y hará su voluntad. Nosotros tendremos el título, y ellos las tierras y las ciudades. Porque siempre han hecho de nuestra ingenuidad la herramienta de su orgullo y tiranía, y nos consideran alemanes estúpidos, a quienes pueden engañar y embaucar a su antojo.
 
-Bueno, para nuestro Señor Dios es poca cosa mover reinos y principados de un lado a otro; Él es tan generoso con ellos que a veces le quita un reino a un hombre bueno y se lo da a un sinvergüenza, a veces mediante la traición de hombres falsos y malvados, a veces por herencia, como leemos acerca de Persia, Grecia y casi todos los reinos; y Daniel dice: «Suyos son la sabiduría y el poder; y Él cambia los tiempos y las épocas, y quita reyes y pone reyes» (Dan. 2:20, 21). Por lo tanto, nadie debe considerarlo un gran asunto si se le da un reino, especialmente si es cristiano; y así, los alemanes no debemos enorgullecernos de haber recibido un nuevo imperio romano. Porque a sus ojos es un pobre don el que a veces da a los menos merecedores, como dice Daniel: “Y todos los habitantes de la tierra son considerados como nada; y él hace según su voluntad en el ejército del cielo y en los habitantes de la tierra” (Dan. 4:35).
+Bueno, para nuestro Señor Dios es poca cosa mover reinos y principados de un lado a otro; Él es tan generoso con ellos que a veces le quita un reino a un hombre bueno y se lo da a un sinvergüenza, a veces mediante la traición de hombres falsos y malvados, a veces por herencia, como leemos acerca de Persia, Grecia y casi todos los reinos; y Daniel dice: «Suyos son la sabiduría y el poder; y Él cambia los tiempos y las épocas, y quita reyes y pone reyes» (Dan. 2:20, 21). Por lo tanto, nadie debe considerarlo un gran asunto si se le da un reino, especialmente si es cristiano; y así, los alemanes no debemos enorgullecernos de haber recibido un nuevo imperio romano. Porque a sus ojos es un pobre don el que a veces da a los menos merecedores, como dice Daniel: «Y todos los habitantes de la tierra son considerados como nada; y él hace según su voluntad en el ejército del cielo y en los habitantes de la tierra» (Dan. 4:35).
 
 Ahora bien, aunque el Papa ha despojado violenta e injustamente al verdadero emperador del Imperio Romano, o de su nombre, y nos lo ha dado a nosotros, los alemanes, es cierto que Dios ha usado la maldad del Papa para dar a la nación alemana este imperio y erigir un nuevo Imperio Romano, que existe ahora, tras la caída del antiguo. No le dimos al Papa ninguna razón para esta acción, ni comprendimos sus falsos objetivos y planes; pero aun así, mediante la astucia y la picardía de los papas, hemos pagado, ¡ay!, demasiado caro el precio de este imperio con un derramamiento de sangre incalculable, con la pérdida de nuestra libertad, con el robo de nuestras riquezas, especialmente de nuestras iglesias y beneficios, y con una traición e insultos indecibles. Nosotros tenemos el imperio de nombre, pero el Papa tiene nuestra riqueza, nuestro honor, nuestros cuerpos, vidas, almas y todo lo que tenemos. Esta era la manera de engañar a los alemanes, y de engañarlos con engaños. Lo que los papas deseaban era convertirse en emperadores; Y como no podían hacerlo, se pusieron por encima de los emperadores.
 
@@ -452,7 +452,7 @@ En Wittenberg, en el año 1520.
 
 [^3]: Por el Interdicto, o excomunión general, países enteros, distritos o ciudades, o sus respectivos gobernantes, fueron privados de todos los beneficios espirituales de la Iglesia, como el servicio divino, la administración de los sacramentos, etc.
 
-[^4]: El epíteto “borracho” era aplicado antiguamente con frecuencia por los italianos a los alemanes.
+[^4]: El epíteto «borracho» era aplicado antiguamente con frecuencia por los italianos a los alemanes.
 
 [^5]: Lutero alude aquí al convento benedictino situado en el Mönchberg, o monte de San Miguel.
 
@@ -464,7 +464,7 @@ En Wittenberg, en el año 1520.
 
 [^9]: El palio era desde el siglo IV el símbolo del poder arzobispal, y debía ser rescatado del Papa mediante una gran suma de dinero y un solemne juramento de obediencia.
 
-[^10]: Los monjes que abandonaron su orden sin ninguna dispensa legal fueron llamados “apóstatas”.
+[^10]: Los monjes que abandonaron su orden sin ninguna dispensa legal fueron llamados «apóstatas».
 
 [^11]: El oficio papal encargado de la emisión y registro de ciertos documentos se llamaba Dataria, por la frase que se les añadía: «Datum apud S. Petrum». El jefe de dicho oficio, generalmente un cardenal, ostentaba el título de Datarius o Prodatarius.
 
@@ -482,7 +482,7 @@ En Wittenberg, en el año 1520.
 
 [^18]: En la época en que se escribió lo anterior, la función de la signatura gratiae era supervisar la concesión de subvenciones, concesiones, favores, etc., mientras que la signatura justitiae abarcaba la administración general de los asuntos eclesiásticos.
 
-[^19]: Los “casos reservados” se refieren a aquellos grandes pecados por los cuales sólo el Papa o los obispos podían dar la absolución.
+[^19]: Los «casos reservados» se refieren a aquellos grandes pecados por los cuales sólo el Papa o los obispos podían dar la absolución.
 
 [^20]: La célebre bula papal conocida con el nombre de In Coena Domini, que contenía anatemas y excomuniones contra todos aquellos que disentían de cualquier manera del credo católico romano, solía leerse públicamente en Roma el Jueves Santo hasta el año 1770.
 
@@ -510,14 +510,14 @@ En Wittenberg, en el año 1520.
 
 [^32]: Aquellas, es decir, entre los padrinos en el bautismo y sus buenos hijos.
 
-[^33]: Lutero utiliza aquí la palabra Pikarden, que es una corrupción de Begharden, es decir, “begardos”, un apodo frecuentemente aplicado en aquellos días a los husitas.
+[^33]: Lutero utiliza aquí la palabra Pikarden, que es una corrupción de Begharden, es decir, «begardos», un apodo frecuentemente aplicado en aquellos días a los husitas.
 
 [^34]: En el santuario de su corazón.
 
-[^35]: Lutero se refiere aquí a las “Sentencias” de Pedro Lombardo, el llamado magister sententiarum, que formaron la base de toda interpretación dogmática desde aproximadamente mediados del siglo XII hasta la Reforma.
+[^35]: Lutero se refiere aquí a las «Sentencias» de Pedro Lombardo, el llamado magister sententiarum, que formaron la base de toda interpretación dogmática desde aproximadamente mediados del siglo XII hasta la Reforma.
 
 [^36]: Véase arriba, págs. 301 y siguientes.
 
-[^37]: Lutero sigue aquí la Vulgata, traduciendo el versículo anterior: “Los romanos vendrán y destruirán a los judíos; y después ellos también perecerán”.
+[^37]: Lutero sigue aquí la Vulgata, traduciendo el versículo anterior: «Los romanos vendrán y destruirán a los judíos; y después ellos también perecerán».
 
-[^38]: Lutero usa la expresión ausbuben en el sentido de sich austoben, es decir, “hacer salir por la fuerza las propias pasiones”, y luego acuña la palabra sich einbuben, es decir, “hacer salir por la fuerza las propias pasiones”.
+[^38]: Lutero usa la expresión ausbuben en el sentido de sich austoben, es decir, «hacer salir por la fuerza las propias pasiones», y luego acuña la palabra sich einbuben, es decir, «hacer salir por la fuerza las propias pasiones».

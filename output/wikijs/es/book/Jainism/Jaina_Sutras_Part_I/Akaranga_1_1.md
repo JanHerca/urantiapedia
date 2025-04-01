@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span> 
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span> 
 
 Â<i>K</i>ÂRÂṄGA SÛTRA. 
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 700 a 800 d. C.
 
@@ -42,7 +42,7 @@ En la India, también hay un período de calma en las discusiones sobre lo Abstr
 
 En la era que consideramos, comenzando con Asangha y Vasubandhu, toda la energía del budismo se vuelca en esta investigación científica del mundo de los sentidos y de los fenómenos, y uno de los primeros resultados es una elaborada psicología que aborda la evolución del alma finita en sus cincuenta y dos etapas de crecimiento <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> y la liberación final en el infinito. Que el universo entero se manifiesta en cada átomo; que cada variedad, por lo tanto, tiene la misma autenticidad; que no existe verdad que no esté relacionada con la unidad de las cosas; esta es la fe que libera la mente india en la ciencia, y que incluso en la actualidad es tan poderosa para liberarla de la dura cáscara del especialismo que uno de sus hijos ha podido, mediante la más rigurosa demostración científica, salvar el supuesto abismo entre los mundos orgánico e inorgánico. Una fe como ésta, en su energía y entusiasmo iniciales, fue el incentivo natural para esa gran era científica que produciría astrónomos como Aryabhatta, descubriendo la revolución de la Tierra sobre su propio eje, y su no menos ilustre sucesor, Varamihira; que llevó la medicina hindú a su apogeo, tal vez bajo Susruta, y que finalmente dio a Arabia el conocimiento con el que más tarde fructificaría Europa.
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 También fue una época de poesía, distinguida por los nombres de Kalidasa, Banabhatta y el jainista Ravikirti, que crearon esa riqueza de imágenes y alusiones que luego revestirían al hinduismo con la tradición puránica.
 

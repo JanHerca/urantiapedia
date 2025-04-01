@@ -63,7 +63,7 @@ Al lado de Ambarísha, y dijo:
 'Se ha ido el corcel, oh Rey, y este
 Se debe a ti, en cuidado remiso.
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Tales faltas negligentes destruirán a los reyes.
 Quienes no protegen lo que disfrutan.
@@ -166,7 +166,7 @@ Cuando Vísvámitra, gloriosa santa,
 Había escuchado la desgarradora queja del niño.
 Él calmó su dolor, secó sus lágrimas,
 
-<span id="p74">[<sup><small>pág. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Entonces llamó a sus hijos y gritó:
 'Ha llegado el momento de que demuestres
@@ -295,7 +295,7 @@ Y, cargado de angustia, llegó el recuerdo.
 Porque rápidamente supo, con ira encendida,
 Que todos los Inmortales habían conspirado
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Para bañar su alma despreocupada en tranquilidad,
 Y estropear sus largas austeridades.
@@ -395,7 +395,7 @@ Cuando los árboles comienzan a florecer en primavera,
 Yo, con Kandarpa como amigo,
 Cerca de tu lado mi ayuda te prestaré.
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Haz que tu hermoso esplendor se arme
 Con toda gracia y encanto encantador,
@@ -517,7 +517,7 @@ Sí, como el diluvio ardiente del Destino
 Deja toda la creación desolada.
 Él puede reinar sobre los dioses conquistados:
 ¡Oh, concédele lo que anhela obtener!'
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Entonces todos los Benditos, guiados por Brahmá,
 Se acercó al santo y dulcemente le dijo:
@@ -644,7 +644,7 @@ Lo sostuvo como gobernante de la tierra,
 Una promesa en su mano sucesiva.
 Este arco lo llevaba el poderoso Rudra
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 En el sacrificio de antaño de Daksha [^245],
 Cuando la carnicería de los Inmortales manchó
@@ -744,7 +744,7 @@ Nuestra raza ha ganado prestigio de siglo en siglo.
 Demasiado fuerte para los que aún han reinado,
 Aunque grandes en poder, tensaron cada nervio.
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Titán y demonio desafían su fuerza,
 Dios, espíritu, juglar de los cielos.
@@ -871,7 +871,7 @@ Vasishtha y sus señores además:
 Bien guardado por Vis'vámitra
 Entre los buenos viven los Videhans.
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Su gobernante Janak, dispuesto a reconocer
 El poder incomparable que ha demostrado mi hijo,
@@ -998,7 +998,7 @@ Así en presencia del sacerdote
 El real Janak habló y luego calló.
 Luego vinieron sus secuaces, rápidos y valientes,
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 A quien el monarca le encomendó su encargo.
 Tan pronto como oyeron su testamento, a toda prisa
@@ -1120,11 +1120,11 @@ Y, de su marido, afligido durante tanto tiempo,
 Ella dio a luz un hijo que él concibió.
 Porque su rival mezcló la perdición
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Para hacer vana su concepción,
 Y fruta inmadura para destruir,
-Sagar [1](Libro_1_77#fn249) llamó a su querido niño.
+Sagar [1](../Libro_1_77#fn249) llamó a su querido niño.
 Sagar Asamanj heredó:
 El brillante Ans'umán dio a luz a su consorte.
 El hijo de Ans'umán, el famoso Dilipa,
@@ -1134,7 +1134,7 @@ De él surgió Raghu, temido por los enemigos,
 De él surgió el valiente Purushádak,
 Héroe feroz de molde gigantesco:
 Llevaba el nombre de Kalmáshapáda,
-Porque sus pies estaban manchados. [2](Libro_1_77#fn250)
+Porque sus pies estaban manchados. [2](../Libro_1_77#fn250)
 De él vino Sankan, y de él
 Sudars'an, de rostro y extremidades hermosos.
 De la hermosa Sudars'an vino

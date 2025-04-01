@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p147">[<sup><small>pág. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 
 El rey Suddhodana se enteró de que su hijo había alcanzado el conocimiento supremo y que vivía en Rajagriha, en el bosque de bambú. Anhelaba verlo de nuevo y le envió un mensajero con estas palabras: «Tu padre, el rey Suddhodana, anhela verte, oh Maestro».
@@ -43,9 +43,9 @@ Hay un bosque aferrado a la ladera de una montaña, y al pie de esta, un estanqu
 
 El mensajero escuchó con deleite. Luego se postró a los pies del Maestro y dijo:
 
-“Recíbeme entre tus discípulos, oh Bendito.”
+«Recíbeme entre tus discípulos, oh Bendito.»
 
-El Maestro extendió sus manos y dijo: “Ven, oh monje”.
+El Maestro extendió sus manos y dijo: «Ven, oh monje».
 
 El mensajero se levantó y, de repente, su ropa, por sí sola, adoptó la forma y el color de la túnica de un monje. Lo olvidó todo, y <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> el mensaje que Suddhodana le había confiado nunca llegó a ser entregado.
 
@@ -53,9 +53,9 @@ El rey se cansó de esperar su regreso. Cada día, el deseo de ver a su hijo se 
 
 Suddhodana finalmente convocó a Udayin.
 
-“Udayin”, dijo, “como sabes, de los nueve mensajeros que partieron hacia el Bosque de Bambú, ninguno ha regresado, ninguno me ha dicho cómo llegó mi mensaje. No sé si hablaron con mi hijo, si siquiera lo vieron. Me duele, Udayin. Soy un anciano. La muerte me acecha. Puede que viva hasta mañana, pero sería imprudente contar con los días que vendrán. Y antes de morir, Udayin, quiero ver a mi hijo. Fuiste su mejor amigo; ve con él ahora. No se me ocurre nadie más bienvenido. ¡Cuéntale mi dolor; cuéntale mi deseo, y que no le sea indiferente!”
+«Udayin», dijo, «como sabes, de los nueve mensajeros que partieron hacia el Bosque de Bambú, ninguno ha regresado, ninguno me ha dicho cómo llegó mi mensaje. No sé si hablaron con mi hijo, si siquiera lo vieron. Me duele, Udayin. Soy un anciano. La muerte me acecha. Puede que viva hasta mañana, pero sería imprudente contar con los días que vendrán. Y antes de morir, Udayin, quiero ver a mi hijo. Fuiste su mejor amigo; ve con él ahora. No se me ocurre nadie más bienvenido. ¡Cuéntale mi dolor; cuéntale mi deseo, y que no le sea indiferente!»
 
-“Iré, mi señor”, respondió Udayin.
+«Iré, mi señor», respondió Udayin.
 
 Fue. Mucho antes de llegar al Bosque de Bambú, había decidido hacerse monje, pero las palabras del rey Suddhodana lo conmovieron profundamente, y pensó: «Le contaré al Maestro el dolor de su padre. Se compadecerá e irá a verlo».
 
@@ -67,11 +67,11 @@ Los árboles están brotando; pronto tendrán hojas. Observen los brillantes ray
 
 El Maestro sonrió a Udayin y preguntó:
 
-“¿Por qué me insistes en viajar, Udayin?”
+«¿Por qué me insistes en viajar, Udayin?»
 
-“Tu padre, el Rey [Suddhodana](errata.htm#0), estaría feliz de verte, Maestro”.
+«Tu padre, el Rey [Suddhodana](../errata.htm#0), estaría feliz de verte, Maestro».
 
-El Buda pensó un momento y luego dijo: “Iré a Kapilavastu; iré a ver a mi padre”.
+El Buda pensó un momento y luego dijo: «Iré a Kapilavastu; iré a ver a mi padre».
 
 <figure class="table chapter-navigator">
   <table>

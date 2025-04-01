@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 PARTE II.
 
@@ -52,7 +52,7 @@ PARTE II.
 
 6\. Ahora bien, la propiedad es la forma atenuada de la honestidad y la buena fe, y es también el comienzo del desorden; la rápida aprehensión es
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 (sólo) una flor del Tâo, y es el comienzo de la estupidez.
 
@@ -62,7 +62,7 @@ PARTE II.
 
 La «virtud» es la actividad u operación del Tao, que se supone emana de su absolutismo. Incluso Han Fei la define así aquí: «Es la obra meritoria del Tao».
 
-En el párrafo 5, evidentemente, tenemos un resumen de los párrafos anteriores y, dado su carácter histórico, los traduzco en pasado; aunque lo que ocurrió en los inicios del mundo también puede decirse que continúa ocurriendo en la experiencia de cada individuo. Con considerable vacilación, he presentado los temas de esos párrafos en concreto, en deferencia a la autoridad de Ho-shang Kung y la mayoría de los demás comentaristas. El primero dice: «Por “el más alto teh” se entienden los gobernantes de la mayor antigüedad, sin nombre ni designación, cuya virtud fue grande e insuperable». La forma en que Wû Khäng interpreta el pasaje es sumamente ingeniosa, y acorde con el sistema taoísta, y me sorprende que no haya sido aceptada generalmente. Por 'el teh superior' entiende 'el Tâo', aquello que es anterior y superior al Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/08101.jpg)) por 'el teh inferior', la benevolencia, aquello que es posterior y inferior al Teh; por 'la benevolencia superior', el Teh que está por encima de la benevolencia; por 'la rectitud superior', la benevolencia que está por encima de la rectitud; y por 'la propiedad superior', la rectitud que está por encima de la propiedad. Ciertamente, en el resumen de estos cuatro párrafos que tenemos en el quinto, los <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> temas de ellos parecerían haber estado en la mente de Lâo-dze tal como los definió Wû.
+En el párrafo 5, evidentemente, tenemos un resumen de los párrafos anteriores y, dado su carácter histórico, los traduzco en pasado; aunque lo que ocurrió en los inicios del mundo también puede decirse que continúa ocurriendo en la experiencia de cada individuo. Con considerable vacilación, he presentado los temas de esos párrafos en concreto, en deferencia a la autoridad de Ho-shang Kung y la mayoría de los demás comentaristas. El primero dice: «Por «el más alto teh» se entienden los gobernantes de la mayor antigüedad, sin nombre ni designación, cuya virtud fue grande e insuperable». La forma en que Wû Khäng interpreta el pasaje es sumamente ingeniosa, y acorde con el sistema taoísta, y me sorprende que no haya sido aceptada generalmente. Por 'el teh superior' entiende 'el Tâo', aquello que es anterior y superior al Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/08101.jpg)) por 'el teh inferior', la benevolencia, aquello que es posterior y inferior al Teh; por 'la benevolencia superior', el Teh que está por encima de la benevolencia; por 'la rectitud superior', la benevolencia que está por encima de la rectitud; y por 'la propiedad superior', la rectitud que está por encima de la propiedad. Ciertamente, en el resumen de estos cuatro párrafos que tenemos en el quinto, los <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> temas de ellos parecerían haber estado en la mente de Lâo-dze tal como los definió Wû.
 
 En el resto del capítulo continúa hablando en tono despectivo sobre las ceremonias y el conocimiento, de modo que todo el capítulo debe entenderse como descriptivo del proceso de decadencia y deterioro desde los primeros tiempos en los que el Tâo y sus atributos dominaban las sociedades de los hombres.
 
@@ -154,7 +154,7 @@ No sabemos quiénes fueron los autores de las frases citadas, pero habría sido 
 La forma más singular que asume esta visión está en uno de los tratados sobre nuestro Rey, atribuido al patriarca taoísta Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08601.jpg)), que 'el Uno es el Cielo, que se formó por la solidificación del Tâo'. Según otro tratado, también atribuido al mismo Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08602.jpg)), el Uno era 'el éter primordial'; el Dos, 'la separación de éste en sus constituyentes Yin y Yang'; y el Tres, 'la producción del cielo, la tierra y el hombre por éstos'. Al citar el párrafo, Hwâi-nan dze omite ![](/image/book/Taoism/Taoist_texts_vol_1/08603.jpg), y comienza con ![](/image/book/Taoism/Taoist_texts_vol_1/08604.jpg), y su glosador, Kâo Yû, define al Uno como el Tâo, al Dos como las Inteligencias Espirituales ( ![](/image/book/Taoism/Taoist_texts_vol_1/08605.jpg)), y al Tres como el Aliento Armonizador. Por la mención del Yin y el Yang que sigue, creo que Lâo-dze pretendía con el Dos estas dos cualidades o elementos en el éter primordial, que sería 'el Uno'. No me atrevo a aventurar una conjetura sobre qué eran 'los Tres'.
 
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 <a id="c43"></a>
 
@@ -225,7 +225,7 @@ Y la elocuencia un grito balbuceante.
 
 46\. 1. Cuando el Tao prevalece en el mundo, envían de vuelta sus veloces caballos para (tirar) los carros de estiércol.
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Cuando el Tao es ignorado en el mundo, los caballos de guerra se reproducen en las tierras fronterizas.
 
@@ -263,7 +263,7 @@ He traducido el párrafo 2 en pasado, y quizás el primero también debería tra
 
 Ziâo Hung comienza sus citas de comentario sobre este capítulo con lo siguiente de Kumâragîva, en el segundo párrafo: «Continúa el proceso de disminución hasta que no queda nada grosero en él que no se haya desechado. Lo desecha hasta olvidar todo lo malo. Luego desecha todo lo bueno. Lo hace hasta olvidar todo lo bueno. Pero lo malo era incorrecto, y lo bueno es correcto. Habiendo disminuido lo incorrecto, y también disminuido lo correcto, el proceso continúa hasta que ambos son olvidados. La pasión y el deseo son cortados; y su virtud y el Tao están tan unidos que no hace nada; pero aunque no hace nada, permite que todas las cosas actúen por sí mismas, y todas las cosas se realizan». Esta es una visión budista del pasaje, poco inteligible, y que no comparto.
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 En un pasaje de las 'Narrativas de la Escuela' (Libro IX, Arte 2), tenemos una visión confuciana del pasaje: 'Que la perspicacia, la inteligencia, la astucia y la sabiduría sean protegidas por la estupidez, y el servicio del poseedor afectará al mundo entero; que sean protegidas por la complacencia, y su datación y fuerza sacudirán la era; que sean protegidas por la timidez, y su riqueza estará toda dentro de los cuatro mares; que sean protegidas por la humildad, y habrá lo que llamamos el método de "disminuirla y disminuirla de nuevo". Pero tampoco apoyo esto.
 
@@ -284,7 +284,7 @@ Mi propia visión del alcance del capítulo se ha expuesto anteriormente en poca
 
 Mi versión del párrafo 1 está tomada del Dr. Chalmers. Un buen comentario al respecto lo realizó el último emperador, pero uno de los primeros de las dos grandes dinastías Sung, en el período 1111-1117 d. C.: «La mente del sabio está libre de preocupaciones y es capaz de recibir; quieta y capaz de responder».
 
-En el párrafo 2 adopto la lectura de "obtener" ('obtener') en lugar de la más común ('virtud' o 'cualidad') <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) ('virtud' o 'cualidad'). Hay un pasaje en Han Ying (IX, 3 b, 4 a), cuyo estilo, la mayoría de los lectores probablemente coincidirán conmigo en pensar, se inspiró en el texto que nos ocupa, aunque no se menciona ninguna conexión entre él y el dicho de Lâo-dze. Debo considerarlo como una secuela de la conversación entre Confucio y algunos de sus discípulos sobre el principio (el principio de Lâo) de que 'la injuria debe ser recompensada con bondad', como se registra en Con. Ana., XIV, 36. Leemos:—'Dze-lû dijo: “Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, yo tampoco seré bueno con ellos”. Dze-kung dijo: “Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, simplemente los guiaré, ya sea hacia adelante o hacia atrás”. Yen Hui dijo: Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, seguiré siendo bueno con ellos”. Como las opiniones de los tres discípulos eran tan diferentes, remitieron el asunto al Maestro, quien dijo: «Las palabras de Dze-lû son las que cabría esperar entre las tribus salvajes de los Man y los Mo; las de Dze-kung, las que cabría esperar entre amigos; las de Hui, las que cabría esperar entre parientes y allegados». Esto es todo. El Maestro aún estaba lejos del punto de vista de Lâo-dze y del de su discípulo favorito, Yen Hui.
+En el párrafo 2 adopto la lectura de "obtener" ('obtener') en lugar de la más común ('virtud' o 'cualidad') <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) ('virtud' o 'cualidad'). Hay un pasaje en Han Ying (IX, 3 b, 4 a), cuyo estilo, la mayoría de los lectores probablemente coincidirán conmigo en pensar, se inspiró en el texto que nos ocupa, aunque no se menciona ninguna conexión entre él y el dicho de Lâo-dze. Debo considerarlo como una secuela de la conversación entre Confucio y algunos de sus discípulos sobre el principio (el principio de Lâo) de que 'la injuria debe ser recompensada con bondad', como se registra en Con. Ana., XIV, 36. Leemos:—'Dze-lû dijo: «Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, yo tampoco seré bueno con ellos». Dze-kung dijo: «Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, simplemente los guiaré, ya sea hacia adelante o hacia atrás». Yen Hui dijo: Cuando los hombres son buenos conmigo, yo también seré bueno con ellos; cuando no sean buenos conmigo, seguiré siendo bueno con ellos”. Como las opiniones de los tres discípulos eran tan diferentes, remitieron el asunto al Maestro, quien dijo: «Las palabras de Dze-lû son las que cabría esperar entre las tribus salvajes de los Man y los Mo; las de Dze-kung, las que cabría esperar entre amigos; las de Hui, las que cabría esperar entre parientes y allegados». Esto es todo. El Maestro aún estaba lejos del punto de vista de Lâo-dze y del de su discípulo favorito, Yen Hui.
 
 
 <a id="c50"></a>
@@ -346,7 +346,7 @@ Y oculta lo inmutable a la vista de los hombres.
 
 Para comprender el párrafo 1, debemos referirnos al primer capítulo del tratado, donde el Tao, «sin nombre», aparece como «el Principio» o «Causa Primera» del mundo, y luego, «con nombre», como su «Madre». Es la misma cosa o concepto en ambas fases: la ideal o absoluta, y su manifestación en sus acciones desapasionadas. Los antiguos traductores jesuitas traducen este párrafo como «Mundus principium et causam suam habet in Divino ![](/image/book/Taoism/Taoist_texts_vol_1/09501.jpg), seu actione Divinae sapientiae quae dici potest ejus mater». Hasta aquí, puedo suponer que coincidieron conmigo en entender que el tema del párrafo era el Tao.
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 El párrafo 2 establece la ley de vida para el hombre, derivada así del Tao. Los mismos traductores dan la última cláusula como equivalente a «Unde fit ut post mortem nihil ei timendum sit», un significado que los caracteres no comprenderán. Pero de esa cláusula y del párrafo siguiente, me veo obligado a concluir que incluso en la mente de Lâo-dze se encontraba el germen de la sublimación de la estructura material que dio origen al ascetismo y las artes de preservación de la vida del taoísmo posterior.
 
@@ -388,7 +388,7 @@ Sacrificios a su santuario.
 2\. Tâo cuando se nutre dentro de uno mismo,
 Su vigor hará verdadero;
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Y donde la familia manda
 ¡Qué riquezas se acumularán!
@@ -410,7 +410,7 @@ El Teh mencionado cinco veces en el párrafo 2 es la "virtud" del Tâo encarnada
 Ho-shang Kung explica con claridad la fuerza de los párrafos 3 y 4. En la primera cláusula, dice: «Tomen la persona de quien cultiva el Tao y compárenla con la de quien no lo cultiva; ¿cuál se encuentra en estado de decadencia? ¿Y cuál se encuentra en estado de conservación?».
 
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 <a id="c55"></a>
 
@@ -475,7 +475,7 @@ No sabemos si el escritor estaba citando a algún sabio en particular en el pár
 58\. 1. El gobierno que parece más imprudente,
 A menudo la bondad hacia el pueblo es lo mejor que puede proporcionar;
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 Aquello que se entromete, que todo lo toca,
 Trabajará, pero enfermará y traerá desilusión.
@@ -653,7 +653,7 @@ Que se unan a él.'
 Así decimos: "Como el Cielo tiene sus fines,
 Ningún sabio antiguo fue más brillante.
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11200.jpg), «A la par con el Cielo». El capítulo describe la labor del practicante del Tao, realizada como la del Cielo, sin esfuerzo ni llanto. Aparece bajo la figura de un guerrero con cota de malla (![](/image/book/Taoism/Taoist_texts_vol_1/11201.jpg)) del antiguo carro. Este capítulo es una continuación del anterior, y lo completa Wû Khäng, al igual que el siguiente.
 
@@ -717,7 +717,7 @@ En el párrafo 1, 'el gran temor' es la muerte, y las cosas que se deben y se pu
 
 Los párrafos 2 y 3 complementan el 1. Para ![](/image/book/Taoism/Taoist_texts_vol_1/11404.jpg), el segundo carácter del texto de Ho-shang Kung en el párrafo 2, Wang Pî lee ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg), que tiene el mismo nombre que el otro; y según el diccionario Khang-hsî, ambos caracteres son intercambiables. También he seguido a Wû Khäng al adoptar ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg) para el primero de los dos ![](/image/book/Taoism/Taoist_texts_vol_1/11406.jpg) en el párrafo 2. 3. Wû adoptó esta lectura del comentarista Liû de Lü-ling. Tiene un buen significado y se apoya en la estructura de otras oraciones similares.
 
-<span id="p115">[<sup><small>pág. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 En el párrafo 4, 'el sabio' debe ser 'el gobernante que es un sabio', un maestro del Tao, 'el rey' del capítulo 25. Él 'se ama a sí mismo', es decir, su vida, y toma las medidas correctas para prolongar su vida, pero sin ninguna demostración de que lo esté haciendo.
 
@@ -745,7 +745,9 @@ Otra explicación.
 
 3\. Si no se cansa de la vida, tampoco se cansará de la tierra de su padre.
 
-4\. Por eso el santo no aspira al orgullo de la majestad, sino que se muestra más bien similar a los demás. <span id="p116">[<sup><small>pág. 116] 5\. El que se cuida bien a sí mismo y ama a su pueblo, no se hace precioso ni inaccesible.
+4\. Por eso el santo no aspira al orgullo de la majestad, sino que se muestra más bien similar a los demás. <span id="p116">[<sup><small>pág. 116]</small></sup></span>
+
+5\. El que se cuida bien a sí mismo y ama a su pueblo, no se hace precioso ni inaccesible.
 
 6\. Por lo tanto, evita todo aquello que pueda inspirar miedo; Aquello que reconcilia el amor y la bondad, demuestra que es elegido para ello y lo abraza voluntariamente.
 
@@ -859,7 +861,7 @@ Es el rey de los hombres por eso.
 
 Pero el taoísta de Lâo-dze es un ideal más elevado que el hombre honesto de Burns.
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 El párrafo 4 está separado de este capítulo y Wû Khäng lo hace comenzar el siguiente.
 
@@ -910,7 +912,7 @@ El texto se encuentra casi en su totalidad en Sze-mâ Khien y Kwang-dze. Sin emb
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/12301.jpg), «La Manifestación de la Simplicidad». El capítulo muestra la serena y eficaz manera en que el Tao procede, y por contradicciones, de una manera que solo el maestro puede comprender. El autor, dice Wû Khäng, «resume en esto el tema de las dos partes de su Tratado, demostrando que en sus cinco mil caracteres no hay nada más allá de lo que aquí se dice».
 
-<span id="p124">[<sup><small>pág. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 El párrafo 2 le sugiere al Dr. Chalmers los conocidos versos de Bunyan como análogo:
 

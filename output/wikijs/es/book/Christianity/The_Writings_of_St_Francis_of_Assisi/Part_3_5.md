@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ## V. EL CÁNTICO DEL SOL.
 

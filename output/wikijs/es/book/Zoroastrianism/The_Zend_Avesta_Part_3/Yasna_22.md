@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXII. El sacrificio continúa"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 1\. Con el Baresman traído aquí junto con el Zaothra, para la adoración del Creador Ahura Mazda, el resplandeciente, el glorioso, y para la de los Generosos Inmortales, deseo acercarme a este Haoma con mi alabanza, ofrecida (tal como es) con meticulosa santidad (o, como bendición), y esta leche fresca, y esta planta Hadhânaêpata. 2. Y, como acto de adoración a las aguas benéficas, deseo acercarme a estos Zaothras con (mi) alabanza ofrecida (tal como es) con meticulosa santidad, teniendo el Haoma con ellos, y la carne, con el Hadhânaêpata. Y deseo acercarme al agua Haoma con mi alabanza por las aguas benéficas; y deseo acercarme al mortero de piedra y al mortero de hierro con mi alabanza. 3. Y deseo acercarme a esta planta para el Baresman con mi alabanza, y la oportuna oración de bendiciones, la que se ha acercado (para aceptar nuestro homenaje), y la recitación memorizada y el cumplimiento de la buena Fe Mazdayasniana, y la recitación escuchada de los Gâthas, y la oportuna y exitosa oración de bendiciones, la del santo señor del orden ritual. Y deseo acercarme a estos troncos y a su perfume con mi alabanza, ¡tuyo, del Fuego, oh hijo de Ahura Mazda! Sí, deseo acercarme a todas las cosas buenas con mi alabanza, aquellas que Mazda creó y que contienen la semilla de la santidad (en su interior), (4) para la propiciación de Ahura Mazda y del Generoso <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> ¡Inmortales, y de Sraosha el bendito, y del Fuego de Ahura Mazda, el elevado señor ritual [^1146]!
 

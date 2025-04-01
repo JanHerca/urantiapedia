@@ -78,7 +78,7 @@ Los hermanos no deben predicar en la diócesis de ningún obispo cuando este pue
 
 Los hermanos que son ministros y servidores de los demás hermanos visitarán y amonestarán a sus hermanos, y los corregirán con humildad y caridad, sin mandarles nada que vaya en contra de sus almas y de nuestra Regla. Sin embargo, los hermanos que están sujetos deben recordar que, por Dios, han renunciado a su propia voluntad. Por lo tanto, les ordeno que obedezcan estrictamente a sus ministros en todo lo que han prometido al Señor observar y que no vaya en contra de sus almas ni de nuestra Regla. Y dondequiera que haya hermanos que vean y sepan que no son capaces de observar la regla espiritualmente, deben y pueden recurrir a sus ministros. Y que los ministros los reciban con caridad y bondad, y les muestren tanta familiaridad que puedan hablar y actuar con ellos como maestros con sus siervos, pues así debe ser, ya que los ministros son servidores de todos los hermanos.
 
-También advierto y exhorto a los hermanos en el Señor Jesucristo a que se guarden de todo orgullo, vanagloria, envidia, codicia, [^301] las preocupaciones y afanes de este mundo, de la detracción y la murmuración. Que quienes ignoran las letras no se preocupen por aprenderlas, sino que consideren que, sobre todo, deben desear poseer el espíritu del Señor y su santa obra, orarle siempre con un corazón puro, tener humildad, paciencia en la persecución y en la debilidad, y amar a quienes nos persiguen, reprenden y acusan, porque el Señor ha dicho: «Amad a vuestros enemigos... y orad por quienes os persiguen y calumnian». [^302] «Bienaventurados los que sufren persecución <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> por causa de la justicia, porque de ellos es el reino de los cielos». [^303] “Pero el que persevere hasta el fin, éste será salvo.” [^304]
+También advierto y exhorto a los hermanos en el Señor Jesucristo a que se guarden de todo orgullo, vanagloria, envidia, codicia, [^301] las preocupaciones y afanes de este mundo, de la detracción y la murmuración. Que quienes ignoran las letras no se preocupen por aprenderlas, sino que consideren que, sobre todo, deben desear poseer el espíritu del Señor y su santa obra, orarle siempre con un corazón puro, tener humildad, paciencia en la persecución y en la debilidad, y amar a quienes nos persiguen, reprenden y acusan, porque el Señor ha dicho: «Amad a vuestros enemigos... y orad por quienes os persiguen y calumnian». [^302] «Bienaventurados los que sufren persecución <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> por causa de la justicia, porque de ellos es el reino de los cielos». [^303] «Pero el que persevere hasta el fin, éste será salvo.» [^304]
 
 11.—_Que los Hermanos no deben entrar en los Monasterios de Monjas_.
 
@@ -122,11 +122,11 @@ Además, mando a los ministros que, por obediencia, pidan al Señor Papa que uno
 
 [^290]: 65:1 Véase Mateo 19:21.
 
-[^291]: 66:1 Véase arriba, página [34](Part_1_4#p34), nota [2](Part_1_4#fn_177).
+[^291]: 66:1 Véase arriba, página [34](../Part_1_4#p34), nota [2](../Part_1_4#fn_177).
 
 [^292]: 66:2 Lucas 9: 62.
 
-[^293]: 66:3 Este pasaje: _ex quo habere poterunt breviaria_, también puede traducirse: “tan pronto como puedan tener breviarios”. (Véase Wadding, _Opusc._, pág. 179.) Pero esta última traducción tiene menos fundamento.
+[^293]: 66:3 Este pasaje: _ex quo habere poterunt breviaria_, también puede traducirse: «tan pronto como puedan tener breviarios». (Véase Wadding, _Opusc._, pág. 179.) Pero esta última traducción tiene menos fundamento.
 
 [^294]: 67:1 Véase Mateo 4: 2.
 
@@ -150,6 +150,6 @@ Además, mando a los ministros que, por obediencia, pidan al Señor Papa que uno
 
 [^304]: 73:2 Mateo 10: 22.
 
-[^305]: 73:3 Esto es conforme a la bula original, que dice _nec hac Occasione_; pero la mayoría de los textos impresos dan ne, “para que no surja escándalo”, en lugar de _nec_.
+[^305]: 73:3 Esto es conforme a la bula original, que dice _nec hac Occasione_; pero la mayoría de los textos impresos dan ne, «para que no surja escándalo», en lugar de _nec_.
 
 [^306]: 74:1 Véase Col. 1: 23.

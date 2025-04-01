@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 4, SECCIÓN 10.
 
@@ -62,7 +62,7 @@ Me interpongo (otro) a través de las estaciones, a través de los días y las n
 
 Luego sacrifica con sus nombres: «¡A NN svadhâ! ¡Adoración! ¡A NN svadhâ! ¡Adoración!»
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Si mi madre ha obrado mal, abandonando su deber (hacia su esposo), que mi padre tome ese esperma como suyo; que otro se desprenda de la madre. ¡Svadhâ! ¡Adoración!
 
@@ -123,7 +123,7 @@ Cuando han comido (y se van), va tras ellos y les pide permiso para tomar los re
 
 
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## PATALA 4, SECCIÓN 13.
 

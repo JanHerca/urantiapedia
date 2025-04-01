@@ -70,7 +70,7 @@ Por el nombre del Creador Auharmazd y por el buen augurio de la buena creación,
 
 20. "Ustedes vienen de allá, para que nosotros podamos proceder de aquí y ustedes nos vean y nosotros los veamos. {Marcharemos uno contra el otro y nos enfrentaremos para luchar.}
 
-21\. “Entonces les mostraremos cómo los demonios son derrotados por manos de ángeles.”
+21\. «Entonces les mostraremos cómo los demonios son derrotados por manos de ángeles.»
 
 22\. Aprahim, el jefe de los escribas, terminó la carta, y Vindarfsh, el hechicero, y Namkhvast de Hazar la recibieron, saludaron al rey Vishtasp y se fueron.
 
@@ -126,7 +126,7 @@ Por el nombre del Creador Auharmazd y por el buen augurio de la buena creación,
 
 48. ¡Dichoso el hombre que no ve a las siguientes personas!: al mago Bidarafsh, cuando llega, provoca la batalla y causa destrucción, mata al valiente comandante Zarir, tu hermano, y le arrebata su caballo, el caballo negro de pezuña de hierro de Zarir; y a Namkhvast de Hazar, que llega, provoca la batalla y causa destrucción, mata a Pat-khosrob, un hombre justo entre los Mazdayasnians, tu hermano, y le arrebata también su caballo, el caballo con empuñadura de oro; y a Namkhvast de Hazar, que llega, provoca la batalla y causa destrucción, mata a Farsh-havard, tu hijo, quien, desde su nacimiento, vive en el distrito de la fortaleza de Kaiba, y te es más querido que tus otros hijos.
 
-49\. “De tus hijos y hermanos, veintitrés serán asesinados.”
+49\. «De tus hijos y hermanos, veintitrés serán asesinados.»
 
 50\. Entonces, cuando el rey Vishtasp oyó estas palabras, cayó al suelo desde su exaltado trono.
 
@@ -192,7 +192,7 @@ Por el nombre del Creador Auharmazd y por el buen augurio de la buena creación,
 
 81\. Quizás los Khyaonas vengan a matarte porque también mataron a Zarir. Entonces los Khyaonas se atribuirán el mérito de dos nombres: «Hemos matado a Zarir, el comandante en jefe de Irán, y hemos matado a su hijo Bastur».
 
-82\. Después, Bastur le dijo en secreto al dueño del caballo: «Vishtasp ha ordenado: “Dale a Bastur el caballo en el que montaba Zarir cuando era niño”».
+82\. Después, Bastur le dijo en secreto al dueño del caballo: «Vishtasp ha ordenado: «Dale a Bastur el caballo en el que montaba Zarir cuando era niño»».
 
 83\. El dueño del caballo ordenó que lo ensillaran, y Bastur se sentó sobre él, y soltó al caballo y mató al enemigo hasta que llegó al lugar donde vio muerto a su valiente padre.
 
@@ -224,7 +224,7 @@ Por el nombre del Creador Auharmazd y por el buen augurio de la buena creación,
 
 97. ¿Quién de ustedes, Khyaonas, luchará contra ese hombre y lo matará? Le daré en matrimonio a Bashastun, mi hija, que no tiene mujer más hermosa en todo el país de Khyaona.
 
-98\. “Y lo haré amo de todo el país de Khyaona, porque si sobreviviera hasta la noche, no tardaría en quedar solo uno de nosotros, los Khyaonas.”
+98\. «Y lo haré amo de todo el país de Khyaona, porque si sobreviviera hasta la noche, no tardaría en quedar solo uno de nosotros, los Khyaonas.»
 
 99\. Entonces Vidarafsh, el mago, se puso de pie y dijo: «Ensillémenme un caballo para que pueda ir».
 

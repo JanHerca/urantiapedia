@@ -64,7 +64,7 @@ El venerable asceta Mahâvîra—inteligente, con las aspiraciones de un hombre 
 
 Así lanzaron el grito de victoria. (111)
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Antes de que el Venerable Asceta Mahâvîra adoptara la vida de cabeza de familia (es decir, antes de casarse), poseía un conocimiento e intuición supremos, ilimitados [^607] e irreprochables. Con este conocimiento e intuición supremos e ilimitados, el Venerable Asceta Mahâvîra percibió que había llegado el momento de su Renunciación [^608]. Dejó su plata, dejó su oro, dejó sus riquezas, su trigo, su majestad y su reino; su ejército, su grano, su tesoro, su almacén, su ciudad, su serrallo y sus súbditos; abandonó y rechazó sus bienes reales y valiosos, como riquezas, oro, piedras preciosas, joyas, perlas, caracolas, piedras, corales, rubíes, etc.; distribuyó regalos a través de personas adecuadas y entre los indigentes. (112) [^609]
 
@@ -90,7 +90,7 @@ No había obstáculos en ninguna parte para el Venerable. Se ha declarado que lo
 
 El Venerable vivió, excepto en la estación de las lluvias, los ocho meses de verano e invierno, en las aldeas sólo una noche, en las ciudades sólo cinco noches; era indiferente por igual al olor de la inmundicia y de la sandalia, a la paja y a las joyas, a la suciedad y al oro, al placer y al dolor, no apegado ni a este mundo ni al del más allá, no deseando ni la vida ni la muerte, llegó a la otra orilla del sa<i>m</i>sâra y se esforzó por suprimir la impureza del Karman. (119)
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Con supremo conocimiento, con suprema intuición, con suprema conducta, en un alojamiento intachable, en un vagabundeo intachable, con supremo valor, con suprema rectitud, con suprema mansedumbre, con suprema destreza, con suprema paciencia, con suprema libertad de pasiones, con supremo control, con supremo contentamiento, con suprema comprensión, en el camino supremo hacia la liberación final, que es el fruto de la veracidad, el control, la penitencia y la buena conducta, el Venerable meditó sobre sí mismo durante doce años.
 
@@ -118,13 +118,13 @@ Español En aquella noche en que murió el Venerable Asceta Mahâvîra, etc. (ha
 
 Español En ese período, en esa era el Venerable Asceta Mahâvîra tenía una excelente comunidad [^638] de catorce mil <i>S</i>rama<i>n</i>as con Indrabhûti a la cabeza; (134) treinta y seis mil monjas con <i>K</i>andanâ a la cabeza; (135) ciento cincuenta y nueve mil devotos laicos con <i>S</i>aṅkha<i>s</i>ataka a la cabeza; (136) trescientas dieciocho <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> mil devotas laicas con Sulasâ y Revatî a la cabeza; (137) trescientos sabios que conocían los catorce Pûrvas, quienes aunque ninguna <i>G</i>ina se acercaba mucho a ellos, quienes conocían la combinación de todas las letras, y como <i>G</i>ina predicaban de acuerdo a la verdad; (138) mil trescientos sabios que poseían el conocimiento de Avadhi y cualidades a,, superiores; (139) setecientos Kevalins que poseían la combinación [^639] de mejor conocimiento e intuición; (140) setecientos que podían transformarse a sí mismos, y, aunque no eran dioses, habían obtenido los poderes (<i>ri</i>ddhi) de los dioses; (141) quinientos sabios de poderoso intelecto [^640] que conocen las condiciones mentales de todos los seres desarrollados que poseen intelecto y cinco sentidos en los dos continentes y medio y dos océanos; (142) cuatrocientos profesores que nunca fueron vencidos en las disputas que ocurrieron en las asambleas de dioses, hombres y Asuras; (143) setecientos discípulos hombres y mil cuatrocientos discípulos mujeres que alcanzaron la perfección, etc. (todos hasta) liberarse de todos los dolores; (144) ochocientos sabios en su último nacimiento que fueron felices en cuanto a su posición, felices en cuanto a su existencia [^641], afortunados en cuanto a su futuro. (145)
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 El Venerable Asceta Mahâvîra instituyó dos épocas en su calidad de Creador de un fin: la época relativa a las generaciones y la época relativa a la condición psíquica; en la tercera generación terminó la primera época, y en el cuarto año de su Kevaliship la segunda. (146) [^642]
 
 En ese período, en esa era, el Venerable Asceta Mahâvîra vivió treinta años como cabeza de familia, más de doce años completos en un estado inferior a la perfección, algo menos de treinta años como Kevalin, cuarenta y dos años como monje, y setenta y dos años en total. EspañolCuando su Karman que produce Vedanîya (o lo que uno tiene que experimentar en este mundo), Âyus (duración de la vida), nombre y familia, se habían agotado, cuando en esta era Avasarpi<i>n</i>î había transcurrido la mayor parte del período Du<i>h</i>shamasushamâ y solo quedaban tres años y ocho meses y medio, cuando la luna estaba en conjunción con el asterismo Svâti, a la hora de la mañana temprano, en la ciudad de Pâpâ, y en la oficina de escritores del rey Hastipâla, (Mahâvîra) solo y solo, sentado en la postura Samparyaṅka, recitando las cincuenta y cinco conferencias que detallan los resultados de Karman, y las treinta y seis [^643] preguntas no formuladas, cuando acababa de explicar la conferencia principal (la de Marudeva) murió, etc. (véase § 124, todo hasta) liberado de todos los dolores. (147)
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Desde la muerte del Venerable Asceta Mahâvira, etc. (hasta su liberación de todo sufrimiento), han transcurrido nueve siglos, y del siglo X este es el octogésimo año. Otra redacción indica el nonagésimo tercer año (en lugar del octogésimo) [^644]. (148)
 

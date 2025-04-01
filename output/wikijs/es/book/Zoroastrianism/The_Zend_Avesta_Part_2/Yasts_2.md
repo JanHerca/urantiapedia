@@ -1,6 +1,6 @@
 ---
 title: "II. Haptán Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 El Yast de los siete Amshaspands se recita los primeros siete días de la semana, es decir, los días consagrados a los Amesha-Spe<i>n</i>tas. De hecho, no es más que un extracto de las Sîrôzahs, compuesto por las primeras siete fórmulas en sus dos formas: §§ 1-5 = Sîrôzah I, 1-7; §§ 6-10 = Sîrôzah II, 1-7. A continuación, vienen cuatro secciones que constituyen la parte original del Yast (§§ 11-15).
 
@@ -54,7 +54,7 @@ A Vohu-Manô; a la Paz, cuyo aliento es amigable, y que es más poderosa para de
 
 2\. [^189]. A Asha-Vahi<i>s</i>sta, la más bella; al muy deseado Airyaman; al instrumento hecho por Mazda; y al buen Saoka, con ojos de amor, hecho por Mazda y santo;
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 A Khshathra-Vairya; a los metales; a la Misericordia y la Caridad.
 
@@ -78,7 +78,7 @@ Y a Ameretâ<i>t</i>, el señor; a la gordura y a los rebaños; a la abundancia 
 
 Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## II.
 
@@ -130,7 +130,7 @@ De Ahura Mazda, brillante y gloriosa, y de los Amesha-Spe<i>n</i>tas;
 
 De Vohu-Manô; de la Paz, cuyo aliento es amigable [^208] . . . .
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 De Asha-Vahi<i>s</i>sta, la más bella; del muy deseado Airyaman [^209] . . . .
 

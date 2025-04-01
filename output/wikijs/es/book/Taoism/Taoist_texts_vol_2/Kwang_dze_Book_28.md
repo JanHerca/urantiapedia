@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 LIBRO XXVIII.
 
@@ -44,7 +44,7 @@ Zang Wang, o 'Reyes que han deseado renunciar al trono [^322]'.
 
 Shun propuso ceder el trono a Dze-kâu Kih-po [^323], quien declinó en los mismos términos que Kih-fû. Ahora bien, el reino es la mayor preocupación, y aun así, este hombre no daría su vida a cambio del trono. Esto demuestra cómo quienes poseen el Tao se diferencian de la gente común.
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Shun propuso ceder el trono a Shan Küan [^324], quien dijo: «Soy una unidad en medio del espacio y el tiempo. En invierno visto pieles y cueros; en verano, tela de hierba y lino; en primavera aro y siembro, con la fuerza que me corresponde; en otoño recojo mi cosecha y estoy dispuesto a dejar de trabajar y comer. Al amanecer me levanto y trabajo; al atardecer descanso. Así disfruto entre el cielo y la tierra, y mi mente está satisfecha: ¿por qué debería tener algo que ver con el trono? ¡Ay! ¡Que usted, señor, no me conozca mejor!». Ante esto, declinó la oferta y se alejó, adentrándose en las colinas, sin que nadie supiera adónde.
 
@@ -54,7 +54,7 @@ Cuando Thâi-wang Than-fû [^326] vivía en Pin [^326], las tribus salvajes del 
 
 El pueblo de Yüeh asesinó a su gobernante tres veces seguidas, y el príncipe Sâu [^328], afligido por ello, huyó a las cuevas de Tan, dejando a Yüeh sin gobernante. El pueblo buscó al príncipe, pero no lo encontraron, hasta que finalmente lo siguieron hasta la cueva de Tan. El príncipe no quiso salir, pero lo ahumaron con moxa y lo obligaron a subir al carro real. Mientras agarraba la correa y subía al carruaje, miró al cielo y exclamó: «¡Oh, Gobernante, oh, Gobernante! ¿No podías haberme ahorrado esto?». Al príncipe Sâu no le disgustaba ser gobernante; le disgustaba el mal inseparable de serlo. Se puede decir de él que no arriesgaría su vida por el bien de un reino; Y precisamente esta fue la razón por la cual el pueblo de Yüeh quiso tenerlo como su gobernante.
 
-2\. Han [^329] y Wei [^329] disputaban por un territorio que uno de ellos le había arrebatado al otro. Dze-hwâ Dze [^330] fue a ver al marqués Kâo-hsî (de Han) [^331] y, al encontrarlo con aspecto afligido, dijo: «Supongamos ahora que todos los estados firmaran un acuerdo ante ustedes según el cual “quien con su mano izquierda se apodere (del territorio en disputa) perderá su mano derecha, y quien con su mano derecha perderá su mano izquierda, pero que, sin embargo, quien se apodere de él se asegurará de obtener todo el reino”; ¿se sentiría su señoría capaz de arrebatárselo?». El marqués dijo: «No me lo arrebataría», y Dze-hwâ replicó: «Muy bien. Viéndolo desde este punto de vista, sus dos brazos son más valiosos para ustedes que todo el reino». Pero <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> tu cuerpo vale más que tus dos brazos, y Han vale mucho menos que todo el reino. El territorio por el que ahora luchas es, además, mucho menos importante que Han: su señoría, ya que siente tanta preocupación por su cuerpo, no debería poner en peligro su vida complaciendo su dolor.
+2\. Han [^329] y Wei [^329] disputaban por un territorio que uno de ellos le había arrebatado al otro. Dze-hwâ Dze [^330] fue a ver al marqués Kâo-hsî (de Han) [^331] y, al encontrarlo con aspecto afligido, dijo: «Supongamos ahora que todos los estados firmaran un acuerdo ante ustedes según el cual «quien con su mano izquierda se apodere (del territorio en disputa) perderá su mano derecha, y quien con su mano derecha perderá su mano izquierda, pero que, sin embargo, quien se apodere de él se asegurará de obtener todo el reino»; ¿se sentiría su señoría capaz de arrebatárselo?». El marqués dijo: «No me lo arrebataría», y Dze-hwâ replicó: «Muy bien. Viéndolo desde este punto de vista, sus dos brazos son más valiosos para ustedes que todo el reino». Pero <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> tu cuerpo vale más que tus dos brazos, y Han vale mucho menos que todo el reino. El territorio por el que ahora luchas es, además, mucho menos importante que Han: su señoría, ya que siente tanta preocupación por su cuerpo, no debería poner en peligro su vida complaciendo su dolor.
 
 El marqués Kâo-hsî dijo: «¡Bien! Muchos me han aconsejado sobre este asunto, pero nunca he oído lo que has dicho». Se puede decir que Dze-hwâ Dze conocía bien lo que era de gran importancia y lo que era de poca importancia.
 
@@ -92,7 +92,7 @@ Cuando Thang estaba a punto de atacar a Kieh, consultó con Pien Sui, quien dijo
 
 Thang entonces consultó con Î Yin, atacó a Kieh y lo venció, tras lo cual propuso entregar el trono a Pien Sui, quien lo rechazó diciendo: «Cuando estabas a punto de atacar a Kieh y me pediste consejo, debiste haberme creído dispuesto a ser un ladrón. Ahora que has conquistado a Kieh y propones entregarme el trono, debes considerarme codicioso. Nací en una época de desorden, y un hombre sin principios viene dos veces e intenta extenderme la mancha de sus vergonzosas acciones. No soporto oír la repetición de sus propuestas». Dicho esto, se arrojó al agua del Kâu [^344] y murió.
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Thang además ofreció el trono a Wû Kwang [^345], diciendo: «El hombre sabio lo ha planeado; el hombre marcial lo ha llevado a cabo; y el hombre benévolo debería ocuparlo: este era el método de la antigüedad. ¿Por qué no debería usted, señor, aceptar el puesto?». Wû Kwang rechazó la oferta, diciendo: «Deponer al soberano es contrario al derecho; matar al pueblo es contrario a la benevolencia. Cuando otro ha asumido los riesgos, si yo aceptara la ganancia de su aventura, violaría mi desinterés. He oído decir: «Si no es correcto que lo haga, uno no debería aceptar el emolumento; en una época de gobierno sin principios, uno no debería poner un pie en el suelo del país»: ¡cuánto menos debería aceptar esta posición de honor! No soporto verlo más». Y con esto, tomó una piedra de su espalda y se ahogó en el agua de Lü [^346].
 

@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 La vida sencilla de Asia no debe temer vergüenza alguna ante ese marcado contraste con la Europa en la que la han situado hoy el vapor y la electricidad. El antiguo mundo del comercio, el mundo del artesano y el vendedor ambulante, del mercado rural y la feria de los santos, donde pequeñas barcas remaban río arriba y río abajo cargadas con los productos del país, donde cada palacio tenía un patio donde el comerciante ambulante podía exhibir sus telas y joyas para que las hermosas mujeres las vieran y compraran, aún no ha muerto del todo. Y, por mucho que cambie su forma, solo con gran pérdida puede Asia permitir que su espíritu muera, ya que todo ese arte industrial y decorativo, reliquia de siglos, ha estado bajo su custodia, y con él debe perder no solo la belleza de las cosas, sino también la alegría del trabajador, su visión individual y la humanización secular de su trabajo. Pues revestirse con la red del propio tejido es alojarse en la propia casa, crear para el espíritu su propia esfera.
 

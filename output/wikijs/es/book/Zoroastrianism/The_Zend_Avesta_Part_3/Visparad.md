@@ -1,6 +1,6 @@
 ---
 title: "Visparad"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 <a id="v1"></a>
 
@@ -120,7 +120,7 @@ Y deseo aproximarme en mi alabanza al heroico Yasna Haptanghâiti, el santo y go
 
 (El Ratu.) Yo vendré (por él).
 
-<span id="p342">[<sup><small>pág. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 (El Zaotar.) Yo quisiera el Âsnatar [^1413].
 
@@ -190,7 +190,7 @@ De acuerdo con el precepto, con alabanza y con la alegre recepción de la gracia
 
 <a id="v8"></a>
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ## VISPARAD VIII (SP. IX).
 
@@ -316,7 +316,7 @@ Y adoramos esa recompensa y esa salud, esa curación y ese progreso, ese crecimi
 
 <a id="v21"></a>
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 ## VISPARAD XXI (ESP. XXIV).
 
@@ -338,7 +338,7 @@ Con este canto (plenamente) entonado, y que es para los Generosos Inmortales y l
 
 También sacrificamos por ese deseo supremo, que es el de Asha Vahi<i>s</i>sta, y adoramos al Cielo, que es el mundo supremo de los santos, brillante y glorioso; y sacrificamos asimismo por ese camino supremo que conduce a él. 2. Y sacrificamos por esa recompensa, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> salud, curación, progreso y crecimiento, y por esa victoria que está dentro de [^1506] ambos, el Ahuna-vairya y el Airy<i>e</i>mâ-ishyô, mediante la recitación memorizada de los buenos pensamientos, palabras y acciones (que ellos prescriben).
 
-<span id="p365">[<sup><small>pág. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -576,7 +576,7 @@ También sacrificamos por ese deseo supremo, que es el de Asha Vahi<i>s</i>sta, 
 
 [^1504]: 360:2 En los Bundahi<i>s</i> se hace referencia especialmente a Ahura.
 
-[^1505]: 360:3 O bien, “junto con las criaturas abundantes adoramos a las criaturas santas”.
+[^1505]: 360:3 O bien, «junto con las criaturas abundantes adoramos a las criaturas santas».
 
 [^1506]: 360:4 Esta expresión puede haber sido determinada accidentalmente por la posición de la palabra manô en la fórmula Ahuna-vairya; ver Y: XIX, 12.
 

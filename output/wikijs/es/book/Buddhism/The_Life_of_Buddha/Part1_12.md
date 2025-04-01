@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 
 Llamó a su escudero, el veloz Chandaka.
@@ -51,7 +51,7 @@ El caballo se cuidó de no hacer ruido, pues la noche era clara. Nadie en el pal
 
 Dejando a su padre, a su hijo y a su gente, Siddhartha salió de la ciudad. Sin remordimientos, exclamó con voz firme:
 
-“Hasta que no haya visto el final de la vida y de la muerte, no regresaré a la ciudad de Kapila”.
+«Hasta que no haya visto el final de la vida y de la muerte, no regresaré a la ciudad de Kapila».
 
 <figure class="table chapter-navigator">
   <table>

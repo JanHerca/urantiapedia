@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 LIBRO VI
 
@@ -141,7 +141,7 @@ Al tercer día, Hui volvió a ver (al Maestro) y dijo: «Estoy progresando». «
 
 [^257]: 236:4 Es decir, puede existir el conflicto, hasta el fin de la vida, entre la fe y los hechos, tan gráficamente expuesto en el Libro de Job, y compendiosamente descrito en el Salmo setenta y tres.
 
-[^258]: 237:1 Aquí nos encontramos con el Hombre Verdadero, un Maestro del Tao. Es el mismo que el Hombre Perfecto, el Hombre Espiritual y el Hombre Sabio (véanse las págs. 127 y 128), y la designación a veces se intercambia en los cinco párrafos siguientes con «el Hombre Sabio». El Sr. Balfour dice aquí que este nombre «se usa en el sentido esotérico: “participando de la esencia de la divinidad”»; y, en consecuencia, lo traduce como «el hombre divino». Pero también podría traducir cualquiera de los otros tres nombres de la misma manera. El diccionario Shwo Wän define el nombre como ![](/image/book/Taoism/Taoist_texts_vol_1/23701.jpg), 'un recluso de la montaña, cuya forma corporal ha cambiado, y que asciende al cielo'; pero cuando se hizo este relato, el Taoísmo había entrado en una nueva fase, diferente de la que tenía en el tiempo de nuestro autor.
+[^258]: 237:1 Aquí nos encontramos con el Hombre Verdadero, un Maestro del Tao. Es el mismo que el Hombre Perfecto, el Hombre Espiritual y el Hombre Sabio (véanse las págs. 127 y 128), y la designación a veces se intercambia en los cinco párrafos siguientes con «el Hombre Sabio». El Sr. Balfour dice aquí que este nombre «se usa en el sentido esotérico: «participando de la esencia de la divinidad»»; y, en consecuencia, lo traduce como «el hombre divino». Pero también podría traducir cualquiera de los otros tres nombres de la misma manera. El diccionario Shwo Wän define el nombre como ![](/image/book/Taoism/Taoist_texts_vol_1/23701.jpg), 'un recluso de la montaña, cuya forma corporal ha cambiado, y que asciende al cielo'; pero cuando se hizo este relato, el Taoísmo había entrado en una nueva fase, diferente de la que tenía en el tiempo de nuestro autor.
 
 [^259]: 237:2 En esta descripción del «Hombre Verdadero», y en lo que sigue, hay elementos grotescos y exagerados (véase la nota sobre el título del primer Libro, pág. 127). Su característica más destacada fue su perfecta comprensión del Tao y su participación en él.
 

@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:51Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_15">
-          <span class="pr-2">Libro XV: Kho Î, o “Ideas arraigadas”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XV: Kho Î, o «Ideas arraigadas»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p345">[<sup><small>pág. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 LIBRO XIV.
 
@@ -46,17 +46,17 @@ Thien Yün, o 'La revolución del cielo [^502]'.
 
 Los vientos se levantan del norte; uno sopla hacia el oeste y otro hacia el este; mientras que algunos se elevan hacia arriba, con dirección incierta. ¿Quién los produce? ¿Quién, sin esfuerzo ni esfuerzo propio, produce todas sus ondulaciones? Me atrevo a preguntar su causa [^503].
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 Wû-hsien Thiâo [^504] dijo: «Ven, y te lo diré. Al cielo pertenecen los seis Puntos Extremos y los cinco Elementos [^505]. Cuando los Tîs y los Reyes actuaban en consonancia con ellos, había buen gobierno; cuando actuaban en contra de ellos, había maldad. Observando las cosas (descritas) en las nueve divisiones (de la escritura) de Lo [^506], su gobierno se perfeccionó y su virtud fue completa. Inspeccionaron e ilustraron el reino bajo sus pies, y todo bajo el cielo los reconoció y los sostuvo. Tal era la condición bajo los augustos (soberanos [^507]) y los que los precedieron».
 
 2\. Tang [^508], el administrador principal de Shang [^508], le preguntó a Kwang-dze sobre la Benevolencia [^509], y la respuesta fue: «Los lobos y los tigres son benévolos». «¿Qué quieres decir?», preguntó Tang. Kwang-dze respondió: «Padre e hijo (entre ellos) son cariñosos. ¿Por qué deberían ser considerados no benévolos?».
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 'Permítame preguntarle sobre la benevolencia perfecta', continuó el otro. Kwang-dze dijo: 'La benevolencia perfecta [^510] no admite (el sentimiento) de afecto'. El ministro dijo: 'He oído que, sin (el sentimiento) de afecto no hay amor, y sin amor no hay deber filial; ¿es permisible decir que los perfectamente benévolos no son filiales?' Kwang-dze replicó: 'Esa no es la manera de decirlo. La benevolencia perfecta es lo más alto; el deber filial no es suficiente para describirla. El dicho que usted cita no dice que (tal benevolencia) trascienda el deber filial; no se refiere en absoluto a tal deber. Uno, viajando hacia el sur, llega (por fin) a Ying [^511], y allí, de cara al norte, no ve el monte Ming [^512]. ¿Por qué no lo ve? Porque está muy lejos de él. Por eso se dice: «El deber filial como parte de la reverencia es fácil, pero el deber filial como parte del amor es difícil. Si es fácil como parte del amor, es difícil olvidar [^513] a los padres. Puede que me sea fácil olvidar a mis padres, pero es difícil que me olviden. Si fuera fácil que mis padres me olvidaran, me sería difícil olvidar a todos los hombres del mundo. Si fuera fácil olvidar a todos los hombres del mundo, sería difícil que todos me olvidaran».
 
-Esta virtud podría hacer que uno menosprecie a Yâo y Shun, y no desee ser como ellos [^514]. Sus beneficios y sus beneficiosas influencias se extienden a lo largo de los siglos, y nadie en el mundo sabe de dónde provienen. ¿Cómo puedes simplemente suspirar profundamente y hablar (como lo haces) de benevolencia y deber filial? El deber filial, el respeto fraternal, la benevolencia, la rectitud, la lealtad, la sinceridad, la firmeza y la pureza; todo esto puede ponerse al servicio de esta virtud, pero dista de ser suficiente para alcanzarla. Por eso se dice: “Para aquel que posee lo más noble [^515], todas las dignidades de un estado son como nada [^516]; para aquel que posee las mayores riquezas, toda la riqueza de un estado es como nada; para aquel que tiene todo lo que podría desear, la fama y la alabanza son como nada”. Es así que el Tao no admite sustituto.
+Esta virtud podría hacer que uno menosprecie a Yâo y Shun, y no desee ser como ellos [^514]. Sus beneficios y sus beneficiosas influencias se extienden a lo largo de los siglos, y nadie en el mundo sabe de dónde provienen. ¿Cómo puedes simplemente suspirar profundamente y hablar (como lo haces) de benevolencia y deber filial? El deber filial, el respeto fraternal, la benevolencia, la rectitud, la lealtad, la sinceridad, la firmeza y la pureza; todo esto puede ponerse al servicio de esta virtud, pero dista de ser suficiente para alcanzarla. Por eso se dice: «Para aquel que posee lo más noble [^515], todas las dignidades de un estado son como nada [^516]; para aquel que posee las mayores riquezas, toda la riqueza de un estado es como nada; para aquel que tiene todo lo que podría desear, la fama y la alabanza son como nada». Es así que el Tao no admite sustituto.
 
 3\. Pei-män Khäng [^517] le preguntó a Hwang-Tî: «Estabas celebrando, oh Tî, una interpretación de la música de los Hsien-khih [^518], en campo abierto cerca del lago Thung-thing. Cuando escuché la primera parte, sentí miedo; la siguiente me agotó; y la última me dejó perplejo. Me agité, no pude hablar y perdí el control». El Tî dijo: «¡Es probable que te afectara así! Se interpretó con instrumentos humanos, y todo en armonía con las influencias del Cielo. Se desarrolló según los principios de la propiedad y la rectitud, y estaba impregnado de la idea de la Gran Pureza».
 
@@ -70,7 +70,7 @@ Primero interpreté la música destinada a sobrecogerte; y te asustaste como si 
 
 4\. Cuando Confucio viajaba por el oeste en Wei, Yen Yüan le preguntó al maestro de música Kin [^521], diciendo: <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> "¿Qué te parece el curso del Maestro?". El maestro de música respondió: "¡Ay! ¡Se acabó todo con tu Maestro!". "¿Cómo?", preguntó Yen Yüan. Y el otro dijo: "Antes de que los perros de hierba [^522] sean presentados (en el sacrificio), se depositan en una caja o cesta y se envuelven con telas elegantemente bordadas, mientras que el representante de los muertos y el oficiante de oración se preparan en ayunas para presentarlos. Sin embargo, después de ser presentados, los transeúntes les pisotean la cabeza y la espalda, y los cortadores de hierba los toman y los queman en la cocina. Para eso solo sirven". Si uno los volviera a tomar, los guardara en la caja o cesta, los envolviera con telas bordadas y luego, al deambular o permanecer en el mismo lugar, se acostara bajo ellos, si no tuviera pesadillas, seguramente las sufriría a menudo. Ahora bien, aquí está tu Maestro, tomando de la misma manera los perros de hierba, obsequio de los antiguos reyes, y guiando a sus discípulos a deambular o a dormir bajo ellos. Debido a esto, el árbol (bajo el cual practicaban ceremonias) en Sung fue talado [^523]; se vio obligado a abandonar Wei [^524]; se vio en apuros en Shang [^524] y Kâu [^525]: ¿no eran esas experiencias como tener pesadillas? Lo mantuvieron en estado de asedio entre Khän y Zhâi [^526], de modo que durante siete días no tuvo alimentos cocinados para comer y se encontraba en una situación entre la vida y la muerte: ¿no eran aquellas experiencias como la pesadilla?
 
-<span id="p353">[<sup><small>pág. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Si viajas por agua, lo mejor es usar un bote; si viajas por tierra, un carruaje. Toma un bote que se desplace fácilmente por el agua e intenta impulsarlo por tierra, y en toda tu vida no avanzará ni una o dos brazas: ¿no son el tiempo antiguo y el presente como el agua y la tierra firme? ¿Y no son Kâu y Lû como el bote y el carruaje? Intentar ahora practicar las antiguas costumbres de Kâu en Lû es como impulsar un bote por tierra firme. Es solo una labor ardua, sin éxito; quien lo haga seguramente se encontrará con la calamidad. No ha aprendido que al transmitir las artes de una época, seguramente se verá reducido al extremo al intentar adaptarlas a las condiciones de otra.
 
@@ -84,11 +84,11 @@ Los hombres perfectos de antaño recorrieron el camino de la benevolencia como u
 
 Quienes creen que la riqueza es lo suyo no pueden renunciar a sus ingresos; quienes buscan distinción no pueden renunciar a la idea de la fama; quienes se aferran al poder no pueden cederlo a otros. Mientras se aferran a estas cosas, temen perderlas. Cuando las pierden, se afligen; y no miran un solo ejemplo que les permita percibir la locura de sus ambiciones incansables: tales hombres están bajo la condena del Cielo [^534].
 
-Odio y bondad; recibir y dar; reproche e instrucción; muerte y vida: estas ocho cosas son instrumentos de rectificación, pero solo quienes no se niegan obstinadamente a aceptar sus grandes cambios pueden usarlas. Por eso se dice: “Corrección es Rectificación”. Cuando las mentes de algunos no reconocen esto, es porque la puerta del Cielo [^535] (en ellos) no se ha abierto.
+Odio y bondad; recibir y dar; reproche e instrucción; muerte y vida: estas ocho cosas son instrumentos de rectificación, pero solo quienes no se niegan obstinadamente a aceptar sus grandes cambios pueden usarlas. Por eso se dice: «Corrección es Rectificación». Cuando las mentes de algunos no reconocen esto, es porque la puerta del Cielo [^535] (en ellos) no se ha abierto.
 
 6\. En una entrevista con Lâo Tan, Confucio le habló de benevolencia y rectitud. Lâo Tan dijo: «Si avientas paja y el polvo te entra en los ojos, entonces el cielo, la tierra y los cuatro puntos cardinales cambian para ti. Si los mosquitos o los tábanos te pinchan la piel, te impedirán dormir toda la noche [^536]. Pero esta dolorosa repetición de benevolencia y rectitud me conmueve y me produce la mayor confusión. Si usted, señor, quiere que los hombres no pierdan su sencillez natural, y si además imita al viento en sus movimientos (libres) y se destaca con todos sus atributos naturales, ¿por qué debe emplear tanta energía y cargar un gran tambor para buscar al hijo que ha perdido [^537]?» El ganso nival no se baña a diario para blanquearse, ni el cuervo se ennegrece a diario para volverse negro. La simplicidad natural de su blanco y negro no da pie a controversia; y la fama y los elogios que a los hombres les gusta contemplar no los hacen más grandes de lo que son por naturaleza. Cuando los manantiales (que abastecen los estanques) se secan, los peces se acurrucan en tierra firme. Antes que humedecerse allí con sus jadeos y mantenerse húmedos con su lecha, sería mejor que se olvidaran unos de otros en los ríos y lagos [^538].
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Tras esta entrevista con Lâo Tan, Confucio regresó a casa y permaneció en silencio durante tres días. Sus discípulos le preguntaron: «Maestro, has visto a Lâo Tan; ¿cómo podrías amonestarlo y corregirlo?». Confucio respondió: «En él (puedo decir) que he visto al dragón. El dragón se enrosca, y ahí está su cuerpo; se despliega y se convierte en el dragón completo. Cabalga en el aire turbio y se nutre del Yin y el Yang. Mantuve la boca abierta y no pude callarla; ¿cómo podría amonestar y corregir a Lâo Tan?».
 
@@ -120,7 +120,7 @@ Confucio (después de esto) no salió hasta que, al cabo de tres meses, volvió 
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_15">
-          <span class="pr-2">Libro XV: Kho Î, o “Ideas arraigadas”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XV: Kho Î, o «Ideas arraigadas»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -194,7 +194,7 @@ Confucio (después de esto) no salió hasta que, al cabo de tres meses, volvió 
 
 [^584]: 355:1 Es decir, el sabio no lo depositará, donde permanecerá oculto; compárese Analectas XVI, vi.
 
-[^585]: 356:1 Véase la misma expresión empleada en el Libro VI, párrafo 11, utilizada por Confucio para referirse a sí mismo. Al comparar ambos pasajes, debo dudar de la exactitud de mi anotación ([2](Kwang_dze_Book_6#fn290), pág. 252), según la cual «Cielo» se usa en el sentido confuciano de Tî, o Dios. Los hombres aquí buscaban y se afanaban en pos de los placeres del mundo, en lugar de las serenas satisfacciones del Tâo.
+[^585]: 356:1 Véase la misma expresión empleada en el Libro VI, párrafo 11, utilizada por Confucio para referirse a sí mismo. Al comparar ambos pasajes, debo dudar de la exactitud de mi anotación ([2](../Kwang_dze_Book_6#fn290), pág. 252), según la cual «Cielo» se usa en el sentido confuciano de Tî, o Dios. Los hombres aquí buscaban y se afanaban en pos de los placeres del mundo, en lugar de las serenas satisfacciones del Tâo.
 
 [^586]: 357:1 Véase Libro XXIII, párrafo 9. La frase = ![](/image/book/Taoism/Taoist_texts_vol_1/35700.jpg).
 

@@ -54,7 +54,7 @@ Entonces el pecador que ha estado matando seres vivos, al final de su vida cae d
 
 Como un hombre que por una Kâkinî [^117] (arriesga y) pierde mil (Kârshâpa<i>n</i>as), o como el rey que perdió su reino (y su vida) al comer un mango que le había sido estrictamente prohibido (por su médico) [^118]: (11)
 
-<span id="p29">[<sup><small>pág. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Así también los placeres humanos se comparan con los placeres de los dioses: la vida y los placeres divinos los superan mil veces y más. (12)
 

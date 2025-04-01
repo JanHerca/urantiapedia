@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 En ese período, a esa edad, el Venerable Asceta Mahâvîra tenía nueve Ga<i>n</i>as y once Ga<i>n</i>adharas.
 
@@ -62,7 +62,7 @@ En la breve redacción la lista de Sthaviras después de .Ârya Ya<i>s</i>obhadr
 
 8. i. Ârya Mahâgiri del Ailâpatya gotra y
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 ii. Ârya Suhastin del Vâsish<i>th</i>a gotra;
 
@@ -92,7 +92,7 @@ a. Godâsa, fundador del Godâsa Ga<i>n</i>a [^667], que se dividió en cuatro <
 
 γ. El Pu<i>n</i><i>d</i>ravardhanîyâ <i>S</i>âkhâ, y
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 δ. El Dâsîkharba<i>t</i>ikâ <i>S</i>âkhâ.
 
@@ -150,7 +150,7 @@ a. Uttara,
 
 b. Balissaha, quienes juntos fundaron el Uttarabalissaha Ga<i>n</i>a, que se dividió en cuatro <i>S</i>âkhâs</i>.
 
-<span id="p290">[<sup><small>pág. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 α. Kau<i>s</i>ambikâ,
 
@@ -198,7 +198,7 @@ y en seis Kulas:
 
 ζ´. Parihâsaka.
 
-<span id="p291">[<sup><small>pág. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 b. Bhadrayas del Bhâradvâ<i>g</i>a gotra, quien fundó el U<i>d</i>uvâ<i>t</i>ika Ga<i>n</i>a, que se dividió en cuatro <i>S</i>âkhâs:
 
@@ -254,7 +254,7 @@ y en siete Kulas:
 
 α´. Vâtsalîya (Pr. Va<i>k</i><i>kh</i>ali<i>g</i><i>g</i>a),
 
-<span id="p292">[<sup><small>pág. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 β´. Prîtidharmika,
 
@@ -310,7 +310,7 @@ Ambos Sthaviras tuvieron juntos cinco discípulos:
 
 10. a. Ârya Indradatta (Pr. Indadinna) del Kâ<i>s</i>yapa gotra,
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 b. Priyagantha, fundador del Madhyamâ <i>S</i>âkhâ,
 
@@ -350,7 +350,7 @@ iii. Ârya Ratha del Vatsa gotra, fundador del Ârya<i>g</i>ayantî <i>S</i>âkh
 
 15. Ârya Pushyagiri del Kau<i>s</i>ika gotra.
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 16. Ârya Phalgumitra del Gautama gotra.
 
@@ -388,7 +388,7 @@ iii. Ârya Ratha del Vatsa gotra, fundador del Ârya<i>g</i>ayantî <i>S</i>âkh
 
 33. Ârya <i>S</i>â<i>n</i><i>d</i>ilya [^673].
 
-<span id="p295">[<sup><small>pág. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Inclinando mi cabeza, rindo homenaje al Sthavira <i>G</i>ambû del Gautama gotra, quien poseía virtud constante, buena conducta y conocimiento. ix.
 

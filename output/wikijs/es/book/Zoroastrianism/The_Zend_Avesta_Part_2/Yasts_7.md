@@ -1,6 +1,6 @@
 ---
 title: "VII. Mâh Yast"
-description: "The Zend Avesta, Part II: “The Sîrôzahs, Yasts and Nyâyis” (SBE 23)"
+description: "The Zend Avesta, Part II: «The Sîrôzahs, Yasts and Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T12:15:34Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Este Ya<i>s</i>t a la Luna se recita el día de la Luna y en los de Bahman, Gô<i>s</i> y Râm [^430] (Anquetil, II, 185). Bahman y Gô<i>s</i> están tan conectados con la Luna que los tres son gao<i>k</i>ithra: «Bahman [^431], la Luna, y Gô<i>s</i> [^432], los tres, tienen en ellos la semilla del toro; Bahman no se puede ver ni agarrar con la mano; la Luna procedió de Bahman [^433] y se puede ver, pero no se puede agarrar con la mano; Gô<i>s</i> procedió de la Luna [^434] y se puede ver y agarrar con la mano [^435].» Aquí se hace referencia a Râm como <i>h</i><i>v</i>âstra, 'señor de buenos pastos [^436]'.
 

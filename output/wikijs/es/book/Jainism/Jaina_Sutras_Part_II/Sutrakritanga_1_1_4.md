@@ -114,4 +114,4 @@ Así lo digo.
 
 [^729]: 248:5 Nûma = maya.
 
-[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Compárense las expresiones similares en I, 1, 2, 12, arriba, [p. 241](Sutrakritanga_1_1_2#p241), notas 1-4, y I, 2, 2, 29, abajo, [p. 257](Sutrakritanga_1_2_2#p257).
+[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Compárense las expresiones similares en I, 1, 2, 12, arriba, [p. 241](../Sutrakritanga_1_1_2#p241), notas 1-4, y I, 2, 2, 29, abajo, [p. 257](../Sutrakritanga_1_2_2#p257).

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:52Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 
 ## PREFACIO DEL ESCOLAR ANCIANO.
@@ -43,7 +43,7 @@ Un día después de la exposición, cuando se hablaba de los cambios en el saber
 
 De joven, yo también estudié con maestros inútiles. Engañé palabras y perdí el tiempo hasta que, de repente, comprendí la insensatez de tal estudio y decidí buscar la sabiduría de los antiguos, la cual es para uno mismo.[^6] ¡Pero, ay! Sin maestro ni amigo, me desconcertaban las opiniones contradictorias de los eruditos, y dudaba a medias, creía a medias en la enseñanza de Tei-Shu. Así, el tiempo transcurrió en vano hasta que cumplí cuarenta años, cuando acepté plenamente esta filosofía,[6a](#fn6a) comprendiendo que nada podía reemplazarla. Durante treinta años la he leído y meditado. ¡Contemplando sus alturas, qué trascendente! ¡Intentando dividirla, qué compacta! Sin embargo, no es ni demasiado lejana ni elevada, ni demasiado superficial ni cercana. ¡Si los Sabios volvieran a aparecer, la seguirían! Pues el Camino del Cielo y la Tierra es el Camino de Gyō y Shun:[^7] el Camino de Gyō y Shun es el Camino de Confucio y Mencio; y el Camino de Confucio y Mencio es el Camino de Tei-Shu. Abandonando Tei-Shu no podemos encontrar a Confucio ni a Mencio. Abandonando a Confucio ni a Mencio no podemos encontrar a Gyō ni a Shun; y abandonando a Gyō ni a Shun no podemos encontrar el Camino del Cielo y la Tierra. No confíes ciegamente en un erudito veterano, pero esto lo sé y, por lo tanto, digo. Si digo algo falso, algo que no he verificado, que el Cielo y la Tierra me castiguen al instante.
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Ante esto, todos los presentes se pusieron de pie y escucharon atentamente. El Anciano <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> [^8] continuó: —Esto no ha esperado mi juramento, ha sido decidido durante quinientos años. Desde la época de Shushi, los grandes eruditos del Sō, el Gen y el Min[^9], junto con todos los que seguían la Filosofía Ética, lo han aceptado plenamente. Hombres de gran erudición debatieron, de hecho, su estilo y sus pequeños puntos, pero no dijeron nada en contra de su filosofía[^10]. Así, hasta mediados del Min, el saber era puro y la célebre verdad, intacta. Entonces llegó Ōyōmei con su intuicionismo[^11]. Atacó a Shushi y cambió el saber del Min. Tras su muerte, sus discípulos aceptaron las doctrinas Zen[^12] y, a partir de entonces, los eruditos se embriagaron de intuicionismo y se cansaron de la filosofía natural. Eran meros memorizadores o budistas. Que hombres sin una diezmilésima parte del conocimiento de Tei-Shu encuentren fácilmente defectos es como si un reyezuelo se burlara de un bo,[^13] como si una oruga midiera el mar. Como dice Kantaishi[^14]: «Sentarse en un pozo y, mirando el cielo, decir que es pequeño». Pero son innumerables los hombres superficiales e ignorantes que adoptan estas ideas por su novedad.
 
@@ -75,7 +75,7 @@ El Viejo duda de todas estas enseñanzas. Solo la filosofía de Tei-Shu une lo e
 
 ## LOS CIEGOS DE CORAZÓN.
 
-Entonces uno comentó: "Estamos de acuerdo en que podemos vencer mejor la herejía exhortándonos unos a otros y esforzándonos por una conducta correcta. Así lo hizo Mencio cuando respondió al ataque de Yo-Bu[^24] porque ignoró la acusación de ser discutidor y concluyó su exposición de los principios fundamentales diciendo: "El hombre superior vuelve a la línea correcta". Aún más deberíamos degradar el "Camino" hoy en día cuando las herejías y los herejes son como la maleza en una llanura y los principios malvados y las opiniones despreciables son como las hojas caídas de un bosque, si respondiéramos a cada uno. Recientemente me asombraron las palabras de un filósofo: "El camino no viene del Cielo", dijo, "fue inventado por los sabios. Tampoco está de acuerdo con la naturaleza; es una mera cuestión de estética y ornamento.[^25] De las cinco relaciones, solo la conyugal es natural, mientras que la lealtad, la obediencia filial y el resto fueron inventadas por los sabios y se han mantenido bajo su autoridad desde entonces. “Seguramente entre todas las herejías desde la antigüedad hasta ahora, ninguna ha sido tan monstruosa como ésta”.
+Entonces uno comentó: "Estamos de acuerdo en que podemos vencer mejor la herejía exhortándonos unos a otros y esforzándonos por una conducta correcta. Así lo hizo Mencio cuando respondió al ataque de Yo-Bu[^24] porque ignoró la acusación de ser discutidor y concluyó su exposición de los principios fundamentales diciendo: "El hombre superior vuelve a la línea correcta". Aún más deberíamos degradar el "Camino" hoy en día cuando las herejías y los herejes son como la maleza en una llanura y los principios malvados y las opiniones despreciables son como las hojas caídas de un bosque, si respondiéramos a cada uno. Recientemente me asombraron las palabras de un filósofo: "El camino no viene del Cielo", dijo, "fue inventado por los sabios. Tampoco está de acuerdo con la naturaleza; es una mera cuestión de estética y ornamento.[^25] De las cinco relaciones, solo la conyugal es natural, mientras que la lealtad, la obediencia filial y el resto fueron inventadas por los sabios y se han mantenido bajo su autoridad desde entonces. «Seguramente entre todas las herejías desde la antigüedad hasta ahora, ninguna ha sido tan monstruosa como ésta».
 
 Los oyentes hablaron juntos y se rieron, y el Viejo dijo:
 
@@ -85,7 +85,7 @@ Así sucede con la mayoría de los hombres. Aunque leen libros, desconocen los p
 
 Conozco el origen de tales nociones. Estos hombres son meros estudiantes de la letra. Les gusta rebuscar entre multitud de libros, pero no se fijan en los clásicos. Estudian palabras y comentarios, pero no buscan la verdad profunda. Ignoran su propia oscuridad y se entregan a la vanidad erudita y al amor por las alabanzas vacías. Así ha sido desde la época del Min. Estos hombres anhelan cosas elevadas, injurian a los antiguos hombres superiores y se colocan por encima de los eruditos del pasado. Pero el sabio ve que su erudición es «remota», que están intoxicados con el veneno de Jun y So[^27] y que su estilo es una mera selección de los ornamentos de Ori[^28]. <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> Con su erudición herética, declaran que el «Camino» no viene del Cielo. Poniéndolo a prueba con sus propios corazones bajos, dicen que solo la relación conyugal es p. 38 «natural». Sus argumentos son débiles, pero muchos los creen, y el mundo parece aceptar sus viles opiniones. Nos dolerá mucho que así dañen cada vez más la mente de los hombres y la verdad aceptada. Para evitar tal mal, las palabras vacías fueron castigadas en el Libro de los Ritos.[^29]
 
-Pero en un mundo así para mí, sin talento ni virtud, detener el mal es como sostener una gran casa con un solo palo. ¿Quién creería mi polémica o mi exposición? ¿Y cómo podría escapar del reproche de desconocer los límites de mis poderes? La filosofía Tei-Shu es como las túnicas ceremoniales de antiguos reyes; pero esto es como vender las prendas de los hombres civilizados a los salvajes. Aunque su filosofía es la música célebre del mundo, ahora es como la Canción de Primavera de Eikaku[^30] entre un pueblo de habla bárbara. Como dice el Libro de Poesía: “Quien me conoce dice: Tiene tristeza en su corazón; quien no me conoce dice: Algo busca; ¡Cielo azul, distante! ¿Qué hombre es este?”[^31] <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> Así cantó el oficial de Shu en su dolor por la caída de la casa de Shu, y tal es mi dolor por la decadencia del “Camino”.
+Pero en un mundo así para mí, sin talento ni virtud, detener el mal es como sostener una gran casa con un solo palo. ¿Quién creería mi polémica o mi exposición? ¿Y cómo podría escapar del reproche de desconocer los límites de mis poderes? La filosofía Tei-Shu es como las túnicas ceremoniales de antiguos reyes; pero esto es como vender las prendas de los hombres civilizados a los salvajes. Aunque su filosofía es la música célebre del mundo, ahora es como la Canción de Primavera de Eikaku[^30] entre un pueblo de habla bárbara. Como dice el Libro de Poesía: «Quien me conoce dice: Tiene tristeza en su corazón; quien no me conoce dice: Algo busca; ¡Cielo azul, distante! ¿Qué hombre es este?»[^31] <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> Así cantó el oficial de Shu en su dolor por la caída de la casa de Shu, y tal es mi dolor por la decadencia del «Camino».
 
 ## LA MONTAÑA DEL TONTO.
 
@@ -129,7 +129,7 @@ Tres clases de eruditos atacan a Shushi:
 
 1.º, la escuela de Ōyōmei. Ōyōmei era un hombre fuerte, y aunque sus argumentos no resisten el examen (pág. 43), no carecía completamente de razón. Pues en su época, la mayoría de los eruditos se dedicaban a palabras y frases y descuidaban el autoexamen. Así, supuso que la «ciencia» de Shushi estaba separada de la rectitud y, con sus «intuiciones», buscó examinarse a sí mismo. Aprobamos su propósito. Pero la «ciencia» de Shushi no descuida nuestras intuiciones, sino que demuestra que surgen de las «cosas». Al margen de las «cosas», ¿podemos buscar nuestras intuiciones, al estilo de Ōyōmei? Pero ¿no son los clásicos, las ceremonias y la música la enseñanza de antiguos reyes? ¿Qué son sino «cosas»? Están los seis clásicos y las cien obras. Lealtad y deslealtad, verdad y falsedad; conocemos sus principios por las «cosas». Si intuitivamente sabemos todo sobre la reverencia, ¿qué necesidad hay de estudiar las ceremonias? Y si por naturaleza somos pacíficos, ¿qué necesidad hay de la música? Además, si intuitivamente podemos gobernar nuestras acciones, progresando en lealtad y verdad, si existe un camino tan corto y fácil, ¿por qué los sabios no lo enseñaron en lugar de su largo y difícil "Camino"? Además, ¿con qué emplearemos estas "intuiciones" si no es con "cosas"? "Seguramente", dirán, "en el autoexamen y desechando la lujuria emplearemos nuestras intuiciones". Permítanme ilustrar: El conocimiento de los cinco sonidos es por los oídos, así que prestemos atención a nuestros oídos y conozcamos los cinco sonidos sin oírlos. Y el conocimiento de los cinco colores es por los ojos; prestémosles atención y conozcamos los cinco colores sin verlos. Y el conocimiento de los cinco sabores es por la boca, así que si nos preocupamos por ello, ¡los conoceremos sin comer! ¿No es evidente que, aunque el conocimiento de los cinco sonidos y del resto reside en nosotros, los colores, sonidos y sabores están en las cosas, y que solo los conocemos al escuchar, observar y comer? Menos aún podemos conocer las sutiles distinciones entre lo claro y lo oscuro en el color, entre lo puro y lo impuro en los sonidos, y entre lo delicado y lo áspero en los sabores, independientemente de las cosas, pues estas diferencias residen en las cosas.
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Sin estudio, sabemos que debemos amar a nuestros padres y reverenciar a nuestro hermano mayor; sin embargo, al cumplir con estos deberes, investigamos los principios. Lo mismo ocurre con las cien virtudes del Hombre Superior. Si no somos tan "científicos", sino que usamos simplemente nuestra intuición, no distinguiremos el bien del mal. Ya que la piedad filial es el principio de las cien virtudes. Hablaré de ello en breve.
 
@@ -139,19 +139,19 @@ No debemos dejar de obedecer por el simple hecho de estudiar, ni debemos estable
 
 La expresión de Mencio: «Conocer sin aprender es conocimiento intuitivo»[^36] <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> significa que en el hombre, antes de estudiar, hay un corazón que ama a sus padres y reverencia a sus hermanos mayores. Hagamos de ese corazón la base; estudiemos y fortaleceremos ese poder. ¡Mencio no enseñó que podemos ser perfectos sin estudiar! Este intento de corregir a Shushi descartando la filosofía natural no es solo malinterpretarlo. Es enderezar lo torcido de tal manera que se dobla hacia atrás.
 
-2.º—Los eruditos que rechazan la doctrina del “ri-ki-tai-yo”[^37] de Shushi y declaran que no fue enseñada por Confucio y Mencio. Pero en respuesta, recordamos que Confucio dijo: “La naturaleza es similar”[^38] y Mencio dijo: “La naturaleza es buena”[^39] <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>, y además expuso la doctrina del “yo-ki-ya-ki”, que no se encuentra en los libros más antiguos. Confucio no usó estas palabras de Shushi, pero los eruditos del Sō no vulneraron sus principios. Desconocían todas estas dudas y elogiaron especialmente el descubrimiento (p. 46) de lo que los Sabios no habían enseñado. La era del Sō fue mucho después de Confucio y Mencio, y los eruditos se dedicaban a argumentar y a explicar el "Camino", y no eran tan cuidadosos en repetir las palabras de los Sabios mientras no se violaran sus principios. Cuando Shushi enseña algo que no está en Confucio y Mencio, aprendamos su significado mediante la reflexión y el estudio cuidadosos. Si parece haber desacuerdo, moderemos nuestras dudas, pues si declaramos que su doctrina no nos complace y que se opone a la de los Sabios, la superficialidad de nuestra erudición será manifiesta. Tales nociones demuestran una superficialidad descuidada. No puedo discutir todos estos puntos, pero hablaré brevemente de ki y ri (espíritu y ley).[^40]
+2.º—Los eruditos que rechazan la doctrina del «ri-ki-tai-yo»[^37] de Shushi y declaran que no fue enseñada por Confucio y Mencio. Pero en respuesta, recordamos que Confucio dijo: «La naturaleza es similar»[^38] y Mencio dijo: «La naturaleza es buena»[^39] <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>, y además expuso la doctrina del «yo-ki-ya-ki», que no se encuentra en los libros más antiguos. Confucio no usó estas palabras de Shushi, pero los eruditos del Sō no vulneraron sus principios. Desconocían todas estas dudas y elogiaron especialmente el descubrimiento (p. 46) de lo que los Sabios no habían enseñado. La era del Sō fue mucho después de Confucio y Mencio, y los eruditos se dedicaban a argumentar y a explicar el "Camino", y no eran tan cuidadosos en repetir las palabras de los Sabios mientras no se violaran sus principios. Cuando Shushi enseña algo que no está en Confucio y Mencio, aprendamos su significado mediante la reflexión y el estudio cuidadosos. Si parece haber desacuerdo, moderemos nuestras dudas, pues si declaramos que su doctrina no nos complace y que se opone a la de los Sabios, la superficialidad de nuestra erudición será manifiesta. Tales nociones demuestran una superficialidad descuidada. No puedo discutir todos estos puntos, pero hablaré brevemente de ki y ri (espíritu y ley).[^40]
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
-Estos eruditos dicen: “En el Cielo y la Tierra solo hay espíritu (ki), que fluye a través de las cuatro estaciones; produce todas las cosas y, naturalmente, no cesa. Este es el Camino del Cielo, tal como lo vemos. Es absurdo que Shushi ponga por encima de este espíritu otra cosa sin forma llamada ley”.[^41] Incluso en China, muchos eruditos no pudieron librarse de estas dudas, aunque afirmaban haber estudiado Shushi con detenimiento. Al menos no resolvieron el asunto de un vistazo como nuestros eruditos japoneses. Por supuesto, no puedo pretender resolver la misteriosa cuestión de la prioridad de ki o ri en una sola sesión, pero hablaré un rato, tomando un ejemplo de Laotze.[^42] <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
+Estos eruditos dicen: «En el Cielo y la Tierra solo hay espíritu (ki), que fluye a través de las cuatro estaciones; produce todas las cosas y, naturalmente, no cesa. Este es el Camino del Cielo, tal como lo vemos. Es absurdo que Shushi ponga por encima de este espíritu otra cosa sin forma llamada ley».[^41] Incluso en China, muchos eruditos no pudieron librarse de estas dudas, aunque afirmaban haber estudiado Shushi con detenimiento. Al menos no resolvieron el asunto de un vistazo como nuestros eruditos japoneses. Por supuesto, no puedo pretender resolver la misteriosa cuestión de la prioridad de ki o ri en una sola sesión, pero hablaré un rato, tomando un ejemplo de Laotze.[^42] <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
-“Al calcular la rueda, no hay rueda; al calcular el año, no hay año”. Veamos: esta es la llanta, este el cubo, este el eje, este el radio; pero la llanta no es la rueda, ni el cubo, ni el eje, ni los radios. Sin embargo, si los desechamos, la rueda también desaparece. Pero la ley de la rueda la precedió, y antes de que la rueda fuera hecha, el principio de la pág. 48 fue determinado. Y como la ley es imperecedera, el carpintero la sigue y hace la rueda. ¡Miren, entonces! ¿La rueda proviene de los radios y la llanta, o estos provienen de la rueda? Si decimos que la rueda proviene de las partes, conocemos su forma, pero no su ley.
+«Al calcular la rueda, no hay rueda; al calcular el año, no hay año». Veamos: esta es la llanta, este el cubo, este el eje, este el radio; pero la llanta no es la rueda, ni el cubo, ni el eje, ni los radios. Sin embargo, si los desechamos, la rueda también desaparece. Pero la ley de la rueda la precedió, y antes de que la rueda fuera hecha, el principio de la pág. 48 fue determinado. Y como la ley es imperecedera, el carpintero la sigue y hace la rueda. ¡Miren, entonces! ¿La rueda proviene de los radios y la llanta, o estos provienen de la rueda? Si decimos que la rueda proviene de las partes, conocemos su forma, pero no su ley.
 
 Así ocurre con el año. Doce horas forman un día, treinta días un mes, doce meses un año. Esto, entonces, decimos que es una hora, un día, un mes o un año, y si los descartamos, sin ellos no hay año. Pero en el día trescientos sesenta y seis, el sol y la tierra regresan y se unen para formar el año. Porque el año no se define en días ni meses, sino que su «ley» se determinó primero, y el sol y la luna giran según este plan. Así, durante siglos se han creado calendarios, y para años y días que aún no son, para cien años venideros como para cien años pasados. Porque la «ley» no se define en días ni meses, sino que es eterna. Así es que «el cielo no habla, pero las cuatro estaciones trabajan y todas las cosas se producen».[^43] <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> Porque este es el centro, el pilar principal del Cielo y la Tierra; las cuatro estaciones funcionan gracias a él y todo se origina. Este es el significado de la expresión: «Contando la rueda, no hay rueda, y contando el año, no hay año».
 
 Separada del «espíritu» no existe «ley», pues, sin forma ni lugar, simplemente diríamos «razón» (dori). Confucio, mediante la forma, separó lo superior de lo inferior y, frente al utensilio, colocó el «Camino»; así, Shushi, mediante la forma, separó el antes y el después y, frente al «espíritu», colocó la «ley». El razonamiento es el mismo. Ignorar la razón fundamental y argumentar a partir de las hojas y las ramas solo causa confusión: no se puede llegar a ninguna conclusión.
 
-De igual manera, razonamos sobre “cuerpo” y “actividad”. Donde hay actividad, siempre hay cuerpo. El cuerpo está quieto, p. 49 inmóvil; la actividad se mueve y actúa. La actividad, nutrida en silencio, reside con el cuerpo; el cuerpo, al reflejarse y moverse, trabaja con la actividad. Esto es lo que significa la expresión: cuerpo y actividad son uno en origen sin la más mínima separación. Confucio dijo: “El Hombre Superior reforma lo interno con reverencia y establece lo externo con rectitud”.[^44] Shishi dijo: “Con moderación y armonía, establece el camino universal”.[^45] Y Mencio: “La benevolencia y la rectitud son el gran y sagrado camino”.[^46] <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> Sin las palabras “cuerpo” y “actividad”, la razón es la misma en todos, y “cuerpo” y “actividad” están en todos ellos. Pero esa escuela corrupta de eruditos se conforma con las verdades que conoce, y, por supuesto, no comprende que el cuerpo perfecto y la gran actividad están incluidos en el «Camino». No hay necesidad de discutir a fondo con ellos.
+De igual manera, razonamos sobre «cuerpo» y «actividad». Donde hay actividad, siempre hay cuerpo. El cuerpo está quieto, p. 49 inmóvil; la actividad se mueve y actúa. La actividad, nutrida en silencio, reside con el cuerpo; el cuerpo, al reflejarse y moverse, trabaja con la actividad. Esto es lo que significa la expresión: cuerpo y actividad son uno en origen sin la más mínima separación. Confucio dijo: «El Hombre Superior reforma lo interno con reverencia y establece lo externo con rectitud».[^44] Shishi dijo: «Con moderación y armonía, establece el camino universal».[^45] Y Mencio: «La benevolencia y la rectitud son el gran y sagrado camino».[^46] <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> Sin las palabras «cuerpo» y «actividad», la razón es la misma en todos, y «cuerpo» y «actividad» están en todos ellos. Pero esa escuela corrupta de eruditos se conforma con las verdades que conoce, y, por supuesto, no comprende que el cuerpo perfecto y la gran actividad están incluidos en el «Camino». No hay necesidad de discutir a fondo con ellos.
 
 3.º—Estos eruditos son disolutos y están hastiados de la ilustre virtud. Solo estudian libros y palabras. Al oír el dicho de Shushi: «Con cuidado y reverencia, establece la verdad», lo consideran un lugar común de un erudito anticuado. Ignoran que los filósofos estudian mediante el autoexamen. Mientras acosan ruidosamente los oídos de los hombres con su parloteo, no hay respuesta. Solo podemos suspirar profundamente.
 
@@ -163,23 +163,23 @@ Un día, cuando cinco o seis estudiantes se quedaron después de la conferencia 
 
 En el Libro de los Cambios se dice: «Los Sabios formaron su enseñanza según el Camino de los Dioses».[^49] Es decir, su enseñanza se llama «El Camino de los Dioses» para manifestar su misterio divino, como hablamos del Camino de la Benevolencia. Pero el «Camino de los Dioses» no es una religión en sí misma. Por lo tanto, no puedo aceptar como religión nativa aquello que popularmente se llama sintoísmo, y que se exalta por encima de las enseñanzas de los Sabios. No pretendo comprender la razón profunda de las Divinidades, pero, en resumen, esta es mi idea:
 
-La Doctrina del Medio habla de la “virtud de los Dioses”[^50] <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> y Shushi explica que esta palabra “virtud” significa “el corazón y su revelación”. Su significado se expresa así en la p. 51 del Saden: “Dios es inteligencia pura y justicia”.[^51] Ahora bien, todos saben que Dios es justo, pero desconocen que es inteligente. Pero no existe tal inteligencia en ningún otro lugar como la de Dios. El hombre oye con el oído, y donde no hay oído, no oye, aunque tenga la capacidad auditiva de Shikō; y el hombre ve con los ojos, y donde no los hay, no ve, aunque tenga la capacidad visual de Rirō;[^52] y el hombre piensa con el corazón, y el pensamiento más veloz requiere tiempo. Pero Dios no usa ni el oído ni la vista, ni pasa por alto el pensamiento. Siente directamente y responde directamente. Debemos saber, entonces, que esto no son dos ni tres, sino simplemente la virtud recibida de la única verdad. Así, en el Cielo y la Tierra hay un ser de vista y oído muy perspicaces, sin tiempo ni lugar, ahora de esta manera, comunicándose instantáneamente, encarnado en todas las cosas, llenando el universo. Sin forma ni voz, por supuesto, no es visto ni oído por los hombres. Cuando hay verdad, siente, y cuando siente, responde. Cuando no hay verdad, no siente, y cuando no siente, no hay respuesta. Respondiendo de inmediato, es, no respondiendo, naturalmente no es. ¿No es esta la Divinidad del Cielo y la Tierra? Así dice la Doctrina del Medio: «Buscado no se puede ver, escuchado no se puede oír. ¡Entra en todas las cosas! No hay nada sin él».[53]
+La Doctrina del Medio habla de la «virtud de los Dioses»[^50] <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> y Shushi explica que esta palabra «virtud» significa «el corazón y su revelación». Su significado se expresa así en la p. 51 del Saden: «Dios es inteligencia pura y justicia».[^51] Ahora bien, todos saben que Dios es justo, pero desconocen que es inteligente. Pero no existe tal inteligencia en ningún otro lugar como la de Dios. El hombre oye con el oído, y donde no hay oído, no oye, aunque tenga la capacidad auditiva de Shikō; y el hombre ve con los ojos, y donde no los hay, no ve, aunque tenga la capacidad visual de Rirō;[^52] y el hombre piensa con el corazón, y el pensamiento más veloz requiere tiempo. Pero Dios no usa ni el oído ni la vista, ni pasa por alto el pensamiento. Siente directamente y responde directamente. Debemos saber, entonces, que esto no son dos ni tres, sino simplemente la virtud recibida de la única verdad. Así, en el Cielo y la Tierra hay un ser de vista y oído muy perspicaces, sin tiempo ni lugar, ahora de esta manera, comunicándose instantáneamente, encarnado en todas las cosas, llenando el universo. Sin forma ni voz, por supuesto, no es visto ni oído por los hombres. Cuando hay verdad, siente, y cuando siente, responde. Cuando no hay verdad, no siente, y cuando no siente, no hay respuesta. Respondiendo de inmediato, es, no respondiendo, naturalmente no es. ¿No es esta la Divinidad del Cielo y la Tierra? Así dice la Doctrina del Medio: «Buscado no se puede ver, escuchado no se puede oír. ¡Entra en todas las cosas! No hay nada sin él».[53]
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Es como el verso del sacerdote Saigyō en los santuarios de Ise,[^54]
 
-“Aunque no sabe lo que es, llora lágrimas de agradecimiento”.
+«Aunque no sabe lo que es, llora lágrimas de agradecimiento».
 
 ¿Acaso sus lágrimas no provienen de su percepción de la verdad? Ante el santuario se yergue, sincero, sincero; y a su verdad Dios también acude y comulgan, y así es como llora.
 
-Así como el reflejo en el agua clara corresponde a la luna, y juntos luna y estanque aumentan la luz, así si continuamente en la única verdad se disuelven no podemos distinguir a Dios del hombre, así como cielo y agua, agua y cielo se unen en uno. “En todas partes, en todas partes, a la derecha parece Él y a la izquierda.”[^55] <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> Esta es la revelación de Dios, la verdad que no debe ocultarse. No pienses que Dios está distante, sino búscalo en el corazón, porque el corazón es la Casa de Dios. Donde no hay obstáculo de lujuria, de un espíritu con el Dios del Cielo y la Tierra, existe esta comunión. Pero excepto por esta comunión no hay tal cosa. Saigyō no lloró antes de ir al santuario y por esto sabemos que Dios vino.
+Así como el reflejo en el agua clara corresponde a la luna, y juntos luna y estanque aumentan la luz, así si continuamente en la única verdad se disuelven no podemos distinguir a Dios del hombre, así como cielo y agua, agua y cielo se unen en uno. «En todas partes, en todas partes, a la derecha parece Él y a la izquierda.»[^55] <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> Esta es la revelación de Dios, la verdad que no debe ocultarse. No pienses que Dios está distante, sino búscalo en el corazón, porque el corazón es la Casa de Dios. Donde no hay obstáculo de lujuria, de un espíritu con el Dios del Cielo y la Tierra, existe esta comunión. Pero excepto por esta comunión no hay tal cosa. Saigyō no lloró antes de ir al santuario y por esto sabemos que Dios vino.
 
 Y ahora, la aplicación. Examínense, hagan de la verdad del corazón la base, aumenten su conocimiento y al final lo lograrán. Entonces conocerán la verdad de lo que digo.
 
 Mientras así hablaba, todos guardaron silencio, impresionados por las grandes reflexiones del anciano filósofo. También ellos derramaron lágrimas de agradecimiento, como el sacerdote ante el santuario.
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## LA VERDAD DEL SABIO.
 
@@ -189,7 +189,7 @@ Los Sabios no hicieron milagros, pero su verdad es inocultable. Cuando el Hombre
 
 Maijō reprendió al rey de Go: «Si no quieres que los hombres sepan, no actúes; y si no quieres que oigan, no hables».[^60] Este es un dicho célebre, simple en su expresión pero profundo en su significado. Decir mal o hacerlo, pensando que no será conocido, es añadir intereses al capital y cargar con una carga que se hace cada día más pesada. Al final, su peso es grande, ¿cómo se ocultará? Todos pecan, excepto el Sabio, incluso el hombre superior. Pero el hombre superior no intenta ocultar sus faltas, sino que las corrige a la vista de los hombres. El error y el arrepentimiento se dan sin intentar ocultarlos, y así la virtud se acrecienta. El error del hombre superior es como el eclipse de sol o de luna: todos ven el error y todos quedan impresionados por su arrepentimiento.[^61] <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> Aunque menos que la verdad del Sabio, cuando los hombres ven tal rostro y escuchan tales palabras, creen y siguen, sin que sea necesario ningún esfuerzo. Esta es la verdadera "comunión". Jamás podrá ser rivalizada por el liderazgo de la sabiduría, el poder o los dones. Qué parcial es el dicho: "El bien se queda dentro, pero el mal se extiende mil millas". Ambos, cuando son reales, llegan a todas partes.
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## LOS MONSTRUOS SURGEN DEL HOMBRE.
 
@@ -201,7 +201,7 @@ Hace un tiempo leí, en los escritos de Shinseisan, sobre la hija de un granjero
 
 Pero en una época degenerada, el corazón del hombre es malvado; en su mayor parte, «siente» la aparición de los espíritus malignos y los monstruos. El Sabio no habló de maravillas,[^65] de proezas de fuerza, confusiones ni divinidades; sin embargo, como su «ley» está incluida en «la distinción de las cosas», deben mencionarse.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 En el Saden, Shinju de Rō escribe sobre los monstruos: «Cuando los hombres temen, surgen monstruos por las llamas vacilantes del espíritu. Los monstruos surgen de los hombres».[^66] Esto concuerda bien con nuestra ciencia. Cuando el fuego es indeterminado, la llama parpadea, se apaga y vuelve a encenderse, y existe un estado del espíritu humano similar a esto. Como dice el proverbio: «Los hombres desean ver aquello que temen». No pueden olvidarlo y, llevados por sus fantasías, como la llama se enciende y se apaga, a veces lo ven y luego no. Finalmente, tan aturdidos están sus espíritus que cuestionan su propia identidad y entonces, en esa abertura, los espíritus se introducen y muestran sus formas en visiones, monstruos y cosas malignas. Estas aparecen por las llamas del espíritu y cesan por la «sensación» de los buenos espíritus.
 
@@ -213,13 +213,13 @@ En el castillo de Sumpu[^68] había un zorro llamado Uba. Se ponía una toalla e
 
 Además, los hombres adoran en templos profanos y creen en el budismo. Así como la sombra acompaña al cuerpo, si existe una creencia firme, incluso donde no la hay, construiremos un ser. Se ven maravillas, la gente se engaña cada vez más y la verdad se pierde. Se cree que las nimiedades son de los dioses y los budas, y se les llama neciamente sus respuestas. Los sacerdotes inventan mentiras, engañan a la gente, agrupándola hasta que las ofrendas de centavos son como montañas. Estos estafadores son los ladrones de la nación, un gran mal para el imperio.
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 ## EL DUENDE DE HIDAYAMA.
 
 Tras una pausa, el Anciano continuó: —Esta «sensación y respuesta» de los dioses es la vía del espíritu. Si hay el más mínimo «toque» del espíritu, aunque no se manifieste en la voz ni en el rostro, los dioses lo perciben al instante. Pero cuando en perfecta quietud no hay mezcla del espíritu, los dioses no encuentran lugar para entrar. Esta es la verdadera naturaleza (honbun), lo que llamo el «ser». El verso de Sha-rei-un[^70] despertó mi pensamiento, aunque él desconocía el profundo significado del «ser».
 
-“El hombre perfecto se exalta a sí mismo.”
+«El hombre perfecto se exalta a sí mismo.»
 
 El Libro de los Cambios dice: «El Cielo no se opone, y mucho menos el hombre o dios».[^71] Esto, por supuesto, es cierto para el hombre, y también para el Cielo y los dioses. Así, los reyes sabios con este «yo» estaban por encima del imperio: «El imperio soy solo yo, ¿quién puede quebrantar mi resolución?». Los filósofos posteriores separaron el «yo» de diez mil, y en medio de la multitud solo conocieron el «yo».
 
@@ -233,9 +233,9 @@ Pero las mentes ordinarias siempre se ven conmovidas por los pensamientos y fant
 
 Desconocido para los hombres, el origen de un pensamiento en la oscuridad y la soledad es como la llegada de la primavera mientras aún está aquí el invierno. Justo cuando el pensamiento comienza a surgir, se distingue entre el bien y el mal, como este año y el próximo se dividen mientras el invierno permanece. Mil millas de error surgen de una pulgada. En la nimiedad está la separación del bien y el mal, su división y su límite. «Debemos custodiar incesantemente esta puerta», preguntándonos a nuestros corazones si el bien o el mal están en nuestra elección. Así, abandonar todo mal y seguir el bien es el comienzo de la práctica de nuestra filosofía. Ser descuidados aquí, conociendo el bien y el mal solo como se manifiesta en el rostro y las acciones, es llegar demasiado tarde. Por mucho que luchemos, no lo lograremos.
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
-## TODOS LOS “CAMINOS” ENTRAN POR HECHOS.
+## TODOS LOS «CAMINOS» ENTRAN POR HECHOS.
 
 Muchos que habían estado ausentes por un tiempo regresaron y se excusaron diciendo: «Hemos estado ocupados y por eso hemos sido negligentes». Pero el Anciano respondió:
 
@@ -285,21 +285,21 @@ Pero hoy en día, los jóvenes solo buscan el placer. Descuidando su deber hacia
 
 [^4]: Las expresiones de humildad son convencionales. Kyusō tenía la mayor influencia y los honores que los Tokugawa otorgaban a un erudito. Era admitido ante el Shōgun y consultado sobre asuntos de estado.
 
-[^5]: El Sō, [pp. 4-5](Introducción #p4) arriba. La filosofía del Tei-Shu, [p. 5](Introducción #p5) arriba.
+[^5]: El Sō, [pp. 4-5](../Introducción #p4) arriba. La filosofía del Tei-Shu, [p. 5](../Introducción #p5) arriba.
 
 [^6]: Una enseñanza que gobierna la propia vida.
 
-[6a](#fr_6a) Así que Confucio “a los cuarenta años no tenía dudas”. Analectas, II; IV, 3. A los “quince años tenía la mente empeñada en aprender”.
+[6a](#fr_6a) Así que Confucio «a los cuarenta años no tenía dudas». Analectas, II; IV, 3. A los «quince años tenía la mente empeñada en aprender».
 
-[^7]: Los míticos reyes sabios de China. Gyō, según la cronología común y poco fiable, comenzó a reinar en el año 2357 a. C. y reinó 100 años, siendo sucedido por Shun, quien reinó 50 años. “El Reino Medio”, vol. II, pág. 148.
+[^7]: Los míticos reyes sabios de China. Gyō, según la cronología común y poco fiable, comenzó a reinar en el año 2357 a. C. y reinó 100 años, siendo sucedido por Shun, quien reinó 50 años. «El Reino Medio», vol. II, pág. 148.
 
 [^8]: Okina, el anciano, es un título de respeto.
 
-[^9]: La dinastía Gen (Yuen) fue mongol (1280-1368 d. C.) y fue sucedida por los Min (Ming) (1368-1644). “El Reino Medio”, vol. II, págs. 175-179.
+[^9]: La dinastía Gen (Yuen) fue mongol (1280-1368 d. C.) y fue sucedida por los Min (Ming) (1368-1644). «El Reino Medio», vol. II, págs. 175-179.
 
-[^10]: El texto aquí contiene una lista de eruditos chinos cuyos nombres se omiten en la traducción, de acuerdo con lo indicado en las [pp. 26-27](Introducción n.° p. 26) anteriores. Del Sō, Shinseizan, Gikakuzan; del Gen, Kiyorozai Kosoro; del Min, Sek-kei-ken, Ko-kei-sai.
+[^10]: El texto aquí contiene una lista de eruditos chinos cuyos nombres se omiten en la traducción, de acuerdo con lo indicado en las [pp. 26-27](../Introducción n.° p. 26) anteriores. Del Sō, Shinseizan, Gikakuzan; del Gen, Kiyorozai Kosoro; del Min, Sek-kei-ken, Ko-kei-sai.
 
-[^11]: Ōyōmei, [p. 10](Introducción #p10) arriba. Su «intuicionalismo» es el ###. Véase Mencio, Libro VII, Parte 1, Cap. XV, 1. [p. 44](#fn36) nota a continuación.
+[^11]: Ōyōmei, [p. 10](../Introducción #p10) arriba. Su «intuicionalismo» es el ###. Véase Mencio, Libro VII, Parte 1, Cap. XV, 1. [p. 44](#fn36) nota a continuación.
 
 [^12]: La secta zen del budismo, la secta contemplativa que profesa no utilizar ningún libro.
 
@@ -311,7 +311,7 @@ Pero hoy en día, los jóvenes solo buscan el placer. Descuidando su deber hacia
 
 [^16]: La oración budista, Namu Amida-butsu.
 
-[^17]: La costumbre no fue abolida definitivamente hasta 1664 d. ​​C.; Lay's, “Ritos funerarios japoneses”, vol. XIX, parte III, pág. 528 de estas “Transacciones”. Un karō era el ministro de un daimyō.
+[^17]: La costumbre no fue abolida definitivamente hasta 1664 d. ​​C.; Lay's, «Ritos funerarios japoneses», vol. XIX, parte III, pág. 528 de estas «Transacciones». Un karō era el ministro de un daimyō.
 
 [^18]: El comentario sobre La Primavera y el Otoño, Libro V, Año XV, pág. 165 de los Clásicos Chinos, edición de Legge.
 
@@ -323,7 +323,7 @@ Pero hoy en día, los jóvenes solo buscan el placer. Descuidando su deber hacia
 
 [^22]: Si por Sabio el autor se refiere a Confucio, entonces el Gran Sabiduría no es obra de un Sabio, sino que se acepta que contiene sus enseñanzas. Los Clásicos Chinos, Vol. I. Prolegómenos, págs. 26-27. En las secciones dedicadas a la literatura, el autor muestra cierta familiaridad con los resultados, al menos de la crítica, pero no los aplica a los clásicos, aceptando acríticamente todo lo que la tradición le atribuye como escrito por Confucio.
 
-[^23]: Para la Escuela de Aprendizaje Antiguo, véase la «Nota» del Sr. Haga y mi «Comentario» más abajo. La «Virtud de las Ilustraciones» es una frase de la Escuela Ōyōmei, [p. 13](Introducción n.° p. 13), arriba.
+[^23]: Para la Escuela de Aprendizaje Antiguo, véase la «Nota» del Sr. Haga y mi «Comentario» más abajo. La «Virtud de las Ilustraciones» es una frase de la Escuela Ōyōmei, [p. 13](../Introducción n.° p. 13), arriba.
 
 [^24]: Mencio, Libro III: Pt. II., Capítulo IX. La cita no es verbal.
 
@@ -331,7 +331,7 @@ Pero hoy en día, los jóvenes solo buscan el placer. Descuidando su deber hacia
 
 [^26]: Sotōba ### fue uno de los literatos chinos más famosos. Perteneció a la dinastía Sō (Sung). Perteneció a la escuela ortodoxa y fue estadista, poeta y filósofo. Mayers, pág. 190.
 
-[^27]: Jun y So ###, escritores taoístas. Jun se distinguió como erudito y estadista. Se suicidó en el año 212 d. C. Al igual que el famoso Chang, autor de “El Clásico Divino de Nan-Hua” (trad. de F.H. Balfour), Mayers, págs. 198 y 30.
+[^27]: Jun y So ###, escritores taoístas. Jun se distinguió como erudito y estadista. Se suicidó en el año 212 d. C. Al igual que el famoso Chang, autor de «El Clásico Divino de Nan-Hua» (trad. de F.H. Balfour), Mayers, págs. 198 y 30.
 
 [^28]: Escritores conocidos por la ornamentación meretriz de su estilo.
 
@@ -349,11 +349,11 @@ Pero hoy en día, los jóvenes solo buscan el placer. Descuidando su deber hacia
 De aquellos muertos inmortales que vuelven a vivir
 En mentes que su presencia mejora:”
 
-[^34]: Kaku-butsu-gaku traduzco “ciencia”. Se explica así: p. 44 ### “La distinción de las cosas es simplemente lo mismo que el estudio porque todo estudio es una contemplación discriminante de las cosas, ya sean reales o abstractas. Ciertamente, uno debe contemplarlas hasta que de ellas se haya extraído un principio ###… Por lo tanto, se puede decir que ### es una criba de materiales. Pero no es ciencia natural… se refiere a los hombres”. “Un compendio sistemático de las doctrinas de Confucio”, p. 55. Véase el Gran Aprendizaje, 4-5. “Deseando ser sinceros en sus pensamientos, primero extendieron al máximo su conocimiento. Tal extensión del conocimiento residía en la investigación de las cosas”. Los clásicos chinos, vol. I: p. 222, traducción de Legge.
+[^34]: Kaku-butsu-gaku traduzco «ciencia». Se explica así: p. 44 ### «La distinción de las cosas es simplemente lo mismo que el estudio porque todo estudio es una contemplación discriminante de las cosas, ya sean reales o abstractas. Ciertamente, uno debe contemplarlas hasta que de ellas se haya extraído un principio ###… Por lo tanto, se puede decir que ### es una criba de materiales. Pero no es ciencia natural… se refiere a los hombres». «Un compendio sistemático de las doctrinas de Confucio», p. 55. Véase el Gran Aprendizaje, 4-5. «Deseando ser sinceros en sus pensamientos, primero extendieron al máximo su conocimiento. Tal extensión del conocimiento residía en la investigación de las cosas». Los clásicos chinos, vol. I: p. 222, traducción de Legge.
 
-[^35]: Estas citas son del “Libro de los Ritos”.
+[^35]: Estas citas son del «Libro de los Ritos».
 
-[^36]: Libro VII, Parte I, Cap. XV, 1. “La capacidad que poseen los hombres sin adquirirla mediante el aprendizaje es aprendizaje intuitivo, y el conocimiento que poseen sin el ejercicio del pensamiento es su conocimiento intuitivo”. Traducción de Legge. Los Clásicos Chinos, vol. II, pág. 332.
+[^36]: Libro VII, Parte I, Cap. XV, 1. «La capacidad que poseen los hombres sin adquirirla mediante el aprendizaje es aprendizaje intuitivo, y el conocimiento que poseen sin el ejercicio del pensamiento es su conocimiento intuitivo». Traducción de Legge. Los Clásicos Chinos, vol. II, pág. 332.
 
 [^37]: ### (ley, espíritu, cuerpo, actividad).
 
@@ -361,7 +361,7 @@ En mentes que su presencia mejora:”
 
 [^39]: Libro VI, Parte I Cap. NOSOTROS.
 
-[^40]: Libro II, Parte I Cap. II, 9-16. El Dr. Legge traduce “ki” ### “naturaleza pasional” y comenta: “Sobre ### {. . . ki} hay mucho parloteo vano en la Com. para mostrar cómo el ### {ki} del cielo y la tierra es el ### {ki} también del hombre”. Y traduce 13 así: “Esta es la naturaleza pasional: es sumamente grande y sumamente fuerte. Al ser nutrida por la rectitud y no sufrir daño alguno, llena todo entre el cielo y la tierra”. La escuela Tei-Shu quizás se preguntaría quién es aquí culpable de vano parloteo. Si hombres como nuestro autor y su maestro Shushi entendieran los clásicos, el ### {ki} del cielo y la tierra bien podría identificarse con el ### {ki} en el hombre. De hecho, no veo cómo su filosofía puede explicarse de otra manera. El Dr. Legge escribe en otra parte; Khi (ki), o 'espíritu', es el aliento, aún material pero más puro que el Zing (esencia) y pertenece a la parte más fina y activa del éter. El Rey Yi, pág. 355, nota, vol. XVI, Libros Sagrados de Oriente. Y nuevamente escribe: «El nombre del espíritu inteligente es literalmente 'el aliento conocedor'... 'el aliento' se usa como el hebreo ruach y el latín spiritus». Lo he aducido para mostrar cómo él (Confucio) sostenía que, mientras el cuerpo del hombre se desmorona y regresa al polvo al morir, el espíritu liberado, 'el aliento' como él lo expresa, asciende a un estado más brillante. Las religiones de China, págs. 119-121. De hecho, el pneuma estoico es el ki de la escuela de Tei-Shu, y por lo tanto del sistema dominante del pensamiento chino hasta nuestros días: «El alma humana, como la definen los estoicos (pág. 47), es un aliento innato... Es una parte separada de la Deidad». «Esta impregna el mundo como un aliento omnipresente. El alma humana es parte de la Deidad, o una emanación de ella; el alma y su fuente actúan y reaccionan mutuamente. El alma es el aliento cálido que habita en nosotros». Hubo opiniones divergentes sobre su vida después de la muerte del cuerpo. Historia de la filosofía de Ueberweg, vol. I, págs. 194-196, trad. inglesa. Véase «Ki Ri y Ten» más adelante.
+[^40]: Libro II, Parte I Cap. II, 9-16. El Dr. Legge traduce «ki» ### «naturaleza pasional» y comenta: «Sobre ### {. . . ki} hay mucho parloteo vano en la Com. para mostrar cómo el ### {ki} del cielo y la tierra es el ### {ki} también del hombre». Y traduce 13 así: «Esta es la naturaleza pasional: es sumamente grande y sumamente fuerte. Al ser nutrida por la rectitud y no sufrir daño alguno, llena todo entre el cielo y la tierra». La escuela Tei-Shu quizás se preguntaría quién es aquí culpable de vano parloteo. Si hombres como nuestro autor y su maestro Shushi entendieran los clásicos, el ### {ki} del cielo y la tierra bien podría identificarse con el ### {ki} en el hombre. De hecho, no veo cómo su filosofía puede explicarse de otra manera. El Dr. Legge escribe en otra parte; Khi (ki), o 'espíritu', es el aliento, aún material pero más puro que el Zing (esencia) y pertenece a la parte más fina y activa del éter. El Rey Yi, pág. 355, nota, vol. XVI, Libros Sagrados de Oriente. Y nuevamente escribe: «El nombre del espíritu inteligente es literalmente 'el aliento conocedor'... 'el aliento' se usa como el hebreo ruach y el latín spiritus». Lo he aducido para mostrar cómo él (Confucio) sostenía que, mientras el cuerpo del hombre se desmorona y regresa al polvo al morir, el espíritu liberado, 'el aliento' como él lo expresa, asciende a un estado más brillante. Las religiones de China, págs. 119-121. De hecho, el pneuma estoico es el ki de la escuela de Tei-Shu, y por lo tanto del sistema dominante del pensamiento chino hasta nuestros días: «El alma humana, como la definen los estoicos (pág. 47), es un aliento innato... Es una parte separada de la Deidad». «Esta impregna el mundo como un aliento omnipresente. El alma humana es parte de la Deidad, o una emanación de ella; el alma y su fuente actúan y reaccionan mutuamente. El alma es el aliento cálido que habita en nosotros». Hubo opiniones divergentes sobre su vida después de la muerte del cuerpo. Historia de la filosofía de Ueberweg, vol. I, págs. 194-196, trad. inglesa. Véase «Ki Ri y Ten» más adelante.
 
 [^41]: Véase el Repositorio Chino, vol. XIII, págs. 552, 609 y siguientes, para una traducción de la exposición de Shushi de estas palabras. Medhurst traduce allí «ri» como principio inmaterial y «ki» como materia prima. McClatchie traduce «ri» como «destino» y «ki» como «aire» («Cosmogonía Confuciana»). Eitel, pág. supra, traduce «ley» como «energía vital». I, «espíritu» como «ley», el primero en el sentido estoico de pneuma. Griffith John traduce «ri» como «principio inmaterial» y «ki» como principio material. Véase mi «Comentario» más abajo para un resumen de las enseñanzas de Shushi.
 
@@ -387,17 +387,17 @@ En mentes que su presencia mejora:”
 
 [^52]: Rirō podía distinguir un solo cabello a cien pasos de distancia. Mayers, pág. 119. Shikō poseía poderes mágicos de audición.
 
-[^53]: XVI; 1. 3 Legge traduce en plural: “Los buscamos”, sin que el texto tenga, por supuesto, distinción de número.
+[^53]: XVI; 1. 3 Legge traduce en plural: «Los buscamos», sin que el texto tenga, por supuesto, distinción de número.
 
 [^54]: Saigyō fue un célebre seguidor de Yoritomo que se convirtió en sacerdote. Murió en 1198 d. C.
 
-[^55]: La Doctrina del Medio, XVI:3; Legge traduce: “Como agua desbordante, parecen estar sobre las cabezas y a la derecha e izquierda de los adoradores”.
+[^55]: La Doctrina del Medio, XVI:3; Legge traduce: «Como agua desbordante, parecen estar sobre las cabezas y a la derecha e izquierda de los adoradores».
 
 [^56]: Analectas XV; 4.
 
 [^57]: Libro de los Cambios, Apéndice 1 Sec., I, I, 5. Doctrina del Medio, Cap. XXXI.
 
-[^58]: Mencio, Libro VII, Parte I, Cap. XIII, 3. “Dondequiera que el hombre superior atraviesa la transformación, la sigue; dondequiera que reside, su influencia es de naturaleza espiritual. Fluye hacia arriba y hacia abajo como la del Cielo y la Tierra”. Traducción de Legge. Esta aplicación de la influencia del sabio ideal al Confucio histórico discrepa notablemente de los hechos de su fracaso como estadista en vida.
+[^58]: Mencio, Libro VII, Parte I, Cap. XIII, 3. «Dondequiera que el hombre superior atraviesa la transformación, la sigue; dondequiera que reside, su influencia es de naturaleza espiritual. Fluye hacia arriba y hacia abajo como la del Cielo y la Tierra». Traducción de Legge. Esta aplicación de la influencia del sabio ideal al Confucio histórico discrepa notablemente de los hechos de su fracaso como estadista en vida.
 
 [^59]: Libro de Cambios, Apéndice III: Sec. I: Cap. VIII, 42.
 
@@ -429,4 +429,4 @@ La palabra espíritu, presente en esta obra, representa el carácter «ki» ###.
 
 [^72]: ### Un famoso poeta y filósofo del Sōdansty.
 
-[^73]: El pensamiento y el acto son del ki, el verdadero ser es del ri, ver “Ki, Ri y Ten” a continuación.
+[^73]: El pensamiento y el acto son del ki, el verdadero ser es del ri, ver «Ki, Ri y Ten» a continuación.

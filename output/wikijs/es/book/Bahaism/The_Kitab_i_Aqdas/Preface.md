@@ -33,7 +33,7 @@ En 1953, Shoghi Effendi, el Guardián de la Fe Bahá'í, incluyó como uno de lo
 
 A continuación del texto del Aqdas se encuentra una breve compilación de los Escritos de Bahá'u'lláh que complementan el Libro Más Sagrado, y una traducción de las Preguntas y Respuestas publicadas aquí por primera vez.
 
-Shoghi Effendi había declarado que la traducción al inglés del Aqdas debía estar “copiosamente anotada”. La política seguida en la preparación de las notas ha sido la de concentrarse en aquellos puntos que podrían parecer oscuros a un lector que no hable árabe o que, por diversas razones, requieren una aclaración o información de fondo. No se pretende que sean un comentario exhaustivo sobre el texto más allá de estos requisitos fundamentales.
+Shoghi Effendi había declarado que la traducción al inglés del Aqdas debía estar «copiosamente anotada». La política seguida en la preparación de las notas ha sido la de concentrarse en aquellos puntos que podrían parecer oscuros a un lector que no hable árabe o que, por diversas razones, requieren una aclaración o información de fondo. No se pretende que sean un comentario exhaustivo sobre el texto más allá de estos requisitos fundamentales.
 
 Las notas, que se colocan a continuación de la Sinopsis y la Codificación, están numeradas secuencialmente. Cada una va precedida de una cita del pasaje al que se refiere, y se indica el número del párrafo en el que aparece. Esto facilita la referencia cruzada entre el texto y las notas, al tiempo que permite a los lectores estudiar las notas sin consultar repetidamente el texto, si así lo prefieren. De esta manera se espera satisfacer las necesidades de lectores de una amplia gama de antecedentes e intereses.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p223">[<sup><small>pág. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 LIBRO V
 
@@ -68,7 +68,7 @@ Algunos días después, el duque Âi relató esta conversación a Min-dze [^225]
 
 5\. Una persona sin labios, con las piernas dobladas de modo que solo podía caminar de puntillas y deforme [^226], consultó al duque Ling de Wei, quien se mostró tan complacido con él que consideró a un hombre de complexión perfecta como si tuviera un cuello delgado y pequeño en comparación con él. Otro, con un bocio enorme como una vasija de barro [^226], consultó al duque Hwan de Khî [^227], quien se mostró tan complacido con él que consideró a un hombre de complexión perfecta como si tuviera un cuello delgado y pequeño en comparación con él [^228]. Así, cuando la virtud de alguien es extraordinaria, cualquier deficiencia en su forma física puede olvidarse. Cuando los hombres no olvidan lo que se olvida fácilmente, y olvidan lo que no se olvida fácilmente, tenemos un caso de verdadero olvido. Por lo tanto, el hombre sabio tiene aquello en lo que su mente encuentra su goce, y (considera) la sabiduría (sólo) como los brotes de un viejo tocón; los acuerdos con los demás son para él sólo pegamento; las bondades son
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 (Sino las artes de la) comunicación; y la gran habilidad es (solo) como la mercancía de un comerciante. El hombre sabio no traza planes; ¿de qué le serviría la sabiduría? No tiene que cortar ni hachar; ¿de qué le serviría el pegamento? No ha perdido nada; ¿de qué le servirían las artes de la comunicación? No tiene bienes que vender; ¿qué necesidad tiene de ser un comerciante? (La falta de) estas cuatro cosas es el alimento de (su) naturaleza celestial; ese alimento es su alimento celestial. Ya que recibe este alimento del Cielo, ¿qué necesidad tiene de algo (ingeniado) humano? Tiene la forma corporal del hombre, pero no las pasiones ni los deseos de (otros) hombres. Tiene la forma del hombre, y por lo tanto es un hombre. Al estar libre de las pasiones y los deseos humanos, sus aprobaciones y desaprobaciones no se encuentran en él. ¡Cuán insignificante y pequeño es (el cuerpo) por el cual pertenece a la humanidad! ¡Cuán grande y grandioso es Él en la perfección única de su naturaleza celestial!
 

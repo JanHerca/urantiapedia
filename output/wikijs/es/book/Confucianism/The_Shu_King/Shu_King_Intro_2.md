@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Si los registros del Shû son confiables o no.
 

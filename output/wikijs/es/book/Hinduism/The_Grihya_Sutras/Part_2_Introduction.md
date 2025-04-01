@@ -201,13 +201,13 @@ La descripción del vri shotsarga (es decir, de la liberación de un toro) concu
 
 § 15: nabhyastheऽnumantrayate mayobhûr ity anuvâka<i>s</i>eshe<i>s</i>a.
 
-('Cuando el toro está en medio de las vacas, recita sobre ellas los textos “mayobhû_h_, etc.,” hasta el final del Anuvâka.')
+('Cuando el toro está en medio de las vacas, recita sobre ellas los textos «mayobhû_h_, etc.,» hasta el final del Anuvâka.')
 
 Por otro lado en Pâraskara tenemos:
 
 § 7: nabhyastham abhimantrayate mayobhûr ity anuvâka<i>s</i>eshe<i>s</i>a.
 
-('Cuando el toro está en medio de las vacas, recita sobre él los textos “mayobhû_h_, etc.,” hasta el final del Anuvâka.')
+('Cuando el toro está en medio de las vacas, recita sobre él los textos «mayobhû_h_, etc.,» hasta el final del Anuvâka.')
 
 La cita mayobhû<i>h</i> es clara si la relacionamos con el Rig-veda. El Himno X, 169, que se encuentra aproximadamente en medio de un Anuvâka, comienza con esta palabra [^79]. Por otro lado, en el Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ no hay ningún mantra que comience con Mayobhû_h_; encontramos esta palabra en medio del Mantra XVIII, 45, y a continuación siguen versos cuyo uso en el v<i>g</i>shotsarga resultaría, en parte, extremadamente extraño. Por lo tanto, no cabe duda de que Pâraskara tomó prestado de un texto de sutra perteneciente al Rig-veda, un Pratîka, lo cual, al relacionarlo con el Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ, resulta absurdo.
 

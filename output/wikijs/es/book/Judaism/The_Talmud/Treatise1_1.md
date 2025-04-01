@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span> pág. 49
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span> pág. 49
 
 ## SELECCIONES DEL TALMUD. LA MISNHÁ. TRATADO I.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p407">[<sup><small>pág. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 ## PATALA III, KHANDA 1.
 
@@ -58,13 +58,13 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11\. Algunos dicen que ambos deberían hacerlo.
 
-12\. El maestro debe decir (en el Mantra), “Con ello (lo rocío),” (en lugar de, “Con ello me rocío a mí mismo”).
+12\. El maestro debe decir (en el Mantra), «Con ello (lo rocío),» (en lugar de, «Con ello me rocío a mí mismo»).
 
 13\. Con (los versos), 'Que en las aguas' (MB. I, 7, 1) (el estudiante) debe derramar sus manos unidas llenas de agua;
 
 III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha âkâryah. 3. prâgagreshv. 4. evam brahmavark asakâmo. 5. goshthe pasukâmas. 6. sabhâyâm yasaskâmah. 7. sarvaushadhenâpah phânayet. 8. surabhibhi<i>s</i> <i>k</i>a. 9. tâbhi<i>s</i> <i>s</i>îtosh<i>n</i>âbhir â<i>k</i>âryoऽbhishi<i>ñ</i><i>k</i>et. 10. svaya<i>m</i> vâ mantrâbhivâdâd. 11. ubhâv ity eke. 12. tenemam ity â<i>k</i>âryo brûyâd. 13. ye apsv ity apâm a<i>ñ</i><i>g</i>alim avasi<i>ñ</i><i>k</i>ed.</small>
 
-<span id="p408">[<sup><small>pág. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 14\. Y con (la fórmula), '¿Qué (es terrible) en las aguas?' (ll 2);
 
@@ -92,7 +92,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 14. yad apâm iti k a. 15. tûsh<i>n</i>î<i>ñ</i> <i>k</i>a. 16. yo ro<i>k</i>ana iti g<i>ri</i>hyâtmânam abhishi<i>ñ</i><i>k</i>ed. 27. yena striyam iti k a. 18. tûsh<i>n</i>î<i>ñ</i> <i>k</i>o. 19. ऽdyann ity âdityam upatish<i>th</i>et. 20. samasyed vâ. 21. viharann ​​anusa<i>m</i>hare<i>k</i> <i>k</i>akshur asîty. 22. ud uttamam iti mekhalâm avamu<i>ñ</i><i>k</i>et. 23. prâ<i>s</i>ya vâpaye<i>k</i> <i>kh</i>ikâvar<i>g</i>a<i>m</i> ke<i>s</i>a<i>s</i>ma<i>s</i>rulomanakhâny. 24. ala<i>m</i>k<i>ri</i>toऽhatavâsasâ <i>s</i>rîr iti sra<i>g</i>a<i>m</i> pratimu<i>ñ</i><i>k</i>en. 25. netryau stha ity upânahau.</small>
 
-<span id="p409">[<sup><small>pág. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 26\. Con (la fórmula), 'Tú eres el Gandharva' (ll 13), toma un bastón de bambú.
 
@@ -144,7 +144,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>39. anyatra <i>s</i>âkamâ<i>m</i>sayavapish<i>t</i>avikârebhya<i>h</i>. 40. pâyasâ<i>k</i> <i>k</i>a. 41. phalapra<i>k</i>ayanodapânâveksha<i>n</i>avarshatidhâvanopânatsvaya<i>m</i>hara<i>n</i>âni na kuryân. 42. nâgandhâ<i>m</i> sra<i>g</i>a<i>m</i> dhârayen. 43. na <i>k</i>ed dhira<i>n</i>yasrag. 44. bhadram iti na v<i>ri</i>thâ vyâharet. 45. push<i>t</i>ikâmo gâ<i>h</i> prakâlayed imâ ma iti. 46. pratyâgatâ imâ madhumatîr iti. 47. push<i>t</i>ikâma eva prathama<i>g</i>âtasya vatsasya prâṅ mâtu<i>h</i> pralehanâl lalâ<i>t</i>am ullihya nigired gavâm iti. 48. sampra<i>g</i>âtâsu gosh<i>th</i>e ni<i>s</i>âyâ<i>i>m</i> vilayana<i>ñ</i> <i>g</i>uhuyât sa<i>m</i>graha<i>n</i>ety.</small>
 
-<span id="p411">[<sup><small>pág. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 49. Ahora, otra ceremonia. Debe hacer marcas en las orejas de un ternero y de una ternera con la fórmula: «Eres el mundo» (ll 5, 6).
 
@@ -183,7 +183,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>5. dakshi<i>n</i>apa<i>s</i><i>k</i>ime antare<i>n</i>âgni<i>ñ</i> <i>k</i>a sa<i>m</i><i>k</i>ara<i>h</i>. 6. <i>s</i>ûrpe<i>n</i>a <i>s</i>ish<i>t</i>ân agnâv opyâtipra<i>n</i>îtâd anatipra<i>n</i>îtasyârdha<i>m</i> gatvâ nya<i>ñ</i><i>k</i>au pâ<i>n</i>i k<i>ri</i>tvâ nama<i>h</i> P<i>ri</i>thivyâ iti <i>g</i>apet. 7. tata utthâya Somo râ<i>g</i>eti darbhastambam upasthâya (correcto, upasthâpya) stambasthân sarpân manasâ dhyâyann. 8. akshatân âdâya prâṅ vodaṅ vâ grâmân nishkramya <i>g</i>uhuyâd a<i>ñ</i><i>g</i>alinâ haye Râka iti <i>k</i>atas<i>ri</i>bhi<i>h</i>. 9. prâṅ utkramya <i>boquiabierto</i>vasuvana edhîti. 10. tris tri<i>h</i> pratidi<i>s</i>am avântarade<i>s</i>eshu <i>k</i>o.</small>
 
-<span id="p413">[<sup><small>pág. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 11\. Mirando hacia arriba (debería ofrecer un Bali) a las huestes de seres divinos,
 
@@ -211,7 +211,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>11. ऽrdhva<i>m</i> prekshan devaya<i>g</i>anebhyas (correcto, deva<i>g</i>anebhyas). 12. tiryaṅṅ itara<i>g</i>anebhyo. 13. ऽvâṅ prekshan pratyetyânavekshann akshatân prâ<i>s</i>nîyâ<i>k</i>. 14. <i>kh</i>vobhûteऽkshatasaktûn k<i>ri</i>tvâ nave pâtre nidhâyâstam ite balîn hared. 15. âgrahâya<i>n</i>yâ<i>h</i>. 16. praush<i>th</i>apadî<i>m</i> hastenâdhyâyân upâkuryu<i>h</i>. 17. <i>s</i>râva<i>n</i>îm ity eke. 18. hutvopanayanavat. 19. sâvitrîm anuvâ<i>k</i>ayet. 20. Soma<i>m</i>râ<i>g</i>âna<i>m</i> parvâdî<i>m</i><i>s</i> <i>k</i>a. 21. dhânâ dadhi <i>k</i>a prâ<i>s</i>nîyur abhirûpâbhyâ<i>i>m</i>. 22. <i>s</i>vobhûte prâtar adhîyîra<i>ñ</i> <i>kh</i>ishyebhyo.</small>
 
-<span id="p414">[<sup><small>pág. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 23\. (Después de cada sección del texto) deben repetir (¿como una especie de índice?) los comienzos de los _Ri_<i> prekshan devaya</i>as y los Prastâvas (de los Sâmans).
 
@@ -242,7 +242,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 1\. [^1030]. El día de luna llena de Â<i>vayu</i>vayu<i>vayu</i> se prepara un arroz con leche consagrado a Rudra.
 
-2\. Debería ofrecerlo con (el Mantra), “No a nuestros hijos”.
+2\. Debería ofrecerlo con (el Mantra), «No a nuestros hijos».
 
 3\. Que vierta Â<i>ri</i>ya en la leche; esto se llama P<i>ri</i>shâtaka.
 
@@ -258,11 +258,11 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 9\. Todos aquellos que hayan recibido la iniciación, deben comer el resto de esa (comida sacrificial).
 
-10\. Habiéndolos “esparcido” bajo el agua, deberá cortar dos porciones de los frutos nuevos.
+10\. Habiéndolos «esparcido» bajo el agua, deberá cortar dos porciones de los frutos nuevos.
 
 <small>3, 1. â<i>s</i>vayu<i>g</i>î<i>i>m</i> Rudrâya pâyaso. 2. mâ nas toka iti <i>g</i>uhuyât. 3. payasy avanayed â<i>g</i>ya<i>m</i> tat p<i>ri</i>shâtaka<i>m</i>. 4. tenâbhyâgatâ gâ ukshed â no Mitrâvaru<i>n</i>eti. 5. vatsâ<i>m</i><i>s</i> <i>k</i>a mât<i>ri</i>bhis saha vâsayet ta<i>m</i> râtrî<i>m</i>. 6. navaya<i>g</i><i>ñ</i>e pâyasa aindrâgna<i>h</i>. 7. <i>s</i>atâyudhâyeti <i>k</i>atas<i>ri</i>bhir â<i>g</i>ya<i>m</i> <i>g</i>uhuyâd. 8. uparish<i>t</i>âd Agni<i>h</i> prâ<i>s</i>nâtv iti <i>k</i>a. 9. tasya <i>s</i>esha<i>m</i> prâ<i>s</i>nîyur yâvanta upetâ. 10. upastîryâpo dvir navasyâvadyet.</small>
 
-<span id="p416">[<sup><small>pág. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 11\. Tres (porciones son cortadas) por los descendientes de Bh<i>s</i>gu.
 
@@ -290,11 +290,11 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>11. trir Bh<i>ri</i>gû<i>n</i>âm. 12. apâ<i>ñ</i> <i>k</i>oparish<i>t</i>âd. 13. bhadrân na ity asa<i>m</i>khâdya pragiret tris trir. 14. etam u tyam iti vâ yavânâm. 15. amoऽsîti mukhyân prâ<i>n</i>ân abhim<i>ri</i><i>s</i>ed. 16. âgrahâya<i>n</i>a<i>m</i> karma <i>s</i>râva<i>n</i>enaiva vyâkhyâta<i>m</i>. 17. nama<i>h</i> P<i>ri</i>thivyâ iti <i>g</i>apet (léase, iti na <i>g</i>apet?). 18. pradoshe pâyasasya <i>g</i>uhuyât prathameti. 19. nya<i>ñ</i><i>k</i>au pâ<i>n</i>î k<i>ri</i>tvâ prati kshatra iti <i>g</i>apet. 20. pa<i>s</i><i>k</i>âd agne svastaram udagagrais t<i>ri</i><i>n</i>air udakprava<i>n</i>am âstîrya tasminn âstara<i>n</i>e g<i>ri</i>hapatir âste. 21. ऽnupûrvam itare. 22. ऽnantarâ bhâryâ<i>h</i>.</small>
 
-<span id="p417">[<sup><small>pág. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 23\. Y sus hijos.
 
-24\. El dueño de casa, girando sus manos hacia abajo (de modo que toquen la capa de hierba), debe murmurar (el Mantra), “Sé suave” (ll 4).
+24\. El dueño de casa, girando sus manos hacia abajo (de modo que toquen la capa de hierba), debe murmurar (el Mantra), «Sé suave» (ll 4).
 
 25\. Al terminar este versículo, deberán acostarse sobre su lado derecho. Deberán dar tres vueltas, girándose hacia sí mismos (es decir, girando hacia adelante, no hacia atrás, y así regresar a su posición anterior).
 
@@ -321,7 +321,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 1\. [^1033]. En el medio (Ash<i>t</i>akâ) se sacrifica una vaca.
 
-4\. 1. madhyamâyâ<i>m</i> gaus. <span id="p418">[<sup><small>pág. 418</small></sup>]</span>
+4\. 1. madhyamâyâ<i>m</i> gaus. <span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 2\. Debe colocar esa (vaca) al este del fuego, mirando hacia el oeste, y debe sacrificar (Â<i>g</i>ya) con (el verso), '¿Qué, oh bestias?' (MB. II, 2, 5).
 
@@ -345,7 +345,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>2. ta<i>m</i> purastâd agne<i>h</i> pratyaṅmukhîm avasthâpya <i>g</i>uhuyâd yat pa<i>s</i>ava iti. 3. hutvâ <i>k</i>ânumantrayetânu tveti. 4. yavamatîbhir adbhi<i>h</i> prokshed ash<i>t</i>akâyai tvâ <i>g</i>ush<i>t</i>a<i>m</i> (correcto, <i>g</i>ush<i>t</i>â<i>m</i>) prokshâmîti. 5. prokshyolmukena parih<i>ri</i>tya proksha<i>n</i>î<i>h</i> pâyayed. 6. udaṅṅ uts<i>ri</i>pya pratyak<i>s</i>irasam (°sim, °sîm los MSS.) udakpadî<i>m</i> sa<i>m</i><i>g</i><i>ñ</i>apayet. 7. sa<i>m</i><i>g</i><i>ñ</i>aptâyâ<i>m</i> <i>g</i>uhuyâd yat pa<i>s</i>ur iti. 8. tasyâ<i>h</i> patnî srotâ<i>m</i>si prakshâlayet. 9. pavitre antardhâyotkri tya vapâm uddhârayed. 10. yagñiyasya vri kshasya visâkhâsâkhâbhyâm parigri hyâgnau srapayet. 11. prasri tâyâm visased.
 
-<span id="p419">[<sup><small>pág. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 12\. Se ha descrito la extensión y rociado (Â<i>purastâd agne</i>ya) sobre el epiplón. Es similar a la oblación svish<i>purastâd agne</i>ak<i>purastâd agne</i>t (véase II, 1, 24).
 
@@ -373,7 +373,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>12. uktam upastara<i>n</i>âbhighâra<i>n</i>a<i>m</i> yathâ svish<i>t</i>ak<i>ri</i>to. 13. ऽsh<i>t</i>akâyai svâheti <i>g</i>uhuyât. 14. sarvâṅgebhyoऽvadânâny uddhârayen. 15. na savyât sakthno na klomna<i>h</i>. 16. savya<i>m</i> sakthi nidhâya. 17. p<i>ri</i>thaṅ meksha<i>n</i>âbhyâm avadânâni sthâlîpâka<i>ñ</i> <i>k</i>a <i>s</i>rapayitvâ. 18. ka<i>m</i>se rasa<i>m</i> prasrâvya. 19. plaksha<i>s</i>âkhâsv avadânâni k<i>ri</i>tvai. 20. ऽkaikasmât ka<i>m</i>seऽvadyet. 21. sthâlîpâkâ<i>k</i>a. 22. k aturg ri hîtam ash t ag ri hîta m vâtra (vâ g ya m? vâtra m, vâtra los manuscritos) uhuyâd Agnâv iti. 23. ka m sât parâbhir dvâbhyâ m dvâbhyâ m ekaikâm âhuti m.
 
-<span id="p420">[<sup><small>pág. 420</small></sup>]</span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 24\. La oblación a (Agni) Svish<i>n</i>ak<i>n</i>t con el octavo (verso).
 
@@ -402,7 +402,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 5, 1. navamîm dasamîm vânvashtakyam. 2. dakshin apûrvabhâge parivârya tatrottarârdhe mathitvâgnim pranayet. 3. sakri dgri hîtân vrîhîn sakri tphalîkritân prasavyam udâyuvañsrapayed.
 
-<span id="p421">[<sup><small>pág. 421</small></sup>]</span>
+<span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 
 4\. Y un poco de carne de aquel muslo (véase arriba, cap. 4, 16).
 
@@ -426,7 +426,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>4. amushmâ<i>k</i> <i>k</i>a sakthno mâ<i>m</i>sam iti. 5. dakshi<i>n</i>odvâsya na pratyabhighârayet. 6. pa<i>s</i><i>k</i>ad agner dakshi<i>n</i>as tisra<i>h</i> karshû<i>h</i> khanyâ<i>k</i> <i>k</i>aturaṅgulam adhas tiryak <i>k</i>a. 7. tâsâ<i>m</i> purastâd agni<i>m</i> pra<i>n</i>ayet. 8. st<i>ri</i><i>n</i>uyât. 9. karshûsk a. 10. paskâd agne svastaram dakshi nâgrais tri nair dakshi nâprava n am âstîrya bri sîm upari nidadhyât. 11. tasminn ekaikam âharet. 12. ka<i>m</i>se samavadâya meksha<i>n</i>enopaghâta<i>m</i> <i>g</i>uhuyât svâhâ Somâya pit<i>ri</i>mate svâhâgnaye kavyavâhanâyeti. 13. savyenolmuka<i>m</i> dakshi<i>n</i>ata<i>h</i> karshûr nidadhyâd apahatâ iti.</small>
 
-<span id="p422">[<sup><small>pág. 422</small></sup>]</span>
+<span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 
 (la fórmula), '(Los Asuras han sido) expulsados' (MB. II, 3, 3).
 
@@ -468,7 +468,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 <small>22. taila<i>m</i> surabhi <i>k</i>a. 23. pi<i>n</i><i>d</i>aprabh<i>ri</i>ti yathârtham ûhed. 24. atha nihnavana<i>m</i>. 25. pûrvasyâ<i>m</i> karshvâ<i>m</i> dakshi<i>n</i>ottânau pâ<i>n</i>î k<i>ri</i>tvâ namo va<i>h</i> pitaro <i>g</i>îvâya namo va<i>h</i> pitara<i>s</i> <i>s</i>ûshâyeti. 26. savyottânau madhyamâyâ<i>m</i> namo va<i>h</i> pitaro ghorâya namo va<i>h</i> pitaro rasâyeti. 27. dakshi<i>n</i>ottânau pa<i>s</i><i>k</i>imâyâ<i>m</i> namo va<i>h</i> pitara svadhâyai namo va<i>h</i> pitaro manyava ity. 28. a<i>ñ</i><i>g</i>ali<i>m</i> k<i>ri</i>tvâ 29. namo va iti. 30. sûtratantûn karshûshu nidadhyâd yathâpi<i>n</i><i>d</i>am etad va ity.</small>
 
-<span id="p424">[<sup><small>pág. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 31\. Debe recitar sobre los pozos (el verso), 'Trayendo fuerza' (MB. II, 3, 13).
 

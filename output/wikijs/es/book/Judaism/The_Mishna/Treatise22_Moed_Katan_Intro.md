@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## XXII. TRATADO MOED KATAN O, LOS DÍAS MEDIOS DE LAS FIESTAS.
 

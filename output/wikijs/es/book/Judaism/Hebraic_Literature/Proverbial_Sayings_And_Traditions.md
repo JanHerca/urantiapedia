@@ -72,7 +72,7 @@ Cuando los pepinos son jóvenes podemos saber si serán buenos para comer.
 
 La pobreza viene de Dios, pero no la suciedad.
 
-<span id="p332">[<sup><small>pág. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Nuestras buenas acciones y nuestros generosos regalos van al cielo como mensajeros e interceden por nosotros ante nuestro Padre Celestial.
 
@@ -130,7 +130,7 @@ La rosa crece entre espinas.
 
 El vino es del amo pero el camarero recibe las gracias.
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 El que se mezcla con cosas inmundas se vuelve inmundo él mismo; aquel cuyas asociaciones son puras se vuelve más santo cada día.
 
@@ -180,7 +180,7 @@ El hogar de un hombre es su esposa.
 
 El que se divorcia de su mujer es odiado ante Dios.
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Si tu mujer es pequeña, inclínate para escuchar su consejo.
 
@@ -216,7 +216,7 @@ La oración es la única arma de Israel, un arma heredada de sus padres, un arma
 
 Cuando los justos mueren, viven; porque su ejemplo vive.
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Que el fruto rece por el bienestar de la hoja.
 
@@ -278,7 +278,7 @@ Cuando el buey cae muchos son los carniceros.
 
 Baja un paso al elegir a tu esposa; sube un paso al elegir a tu amiga.
 
-<span id="p336">[<sup><small>pág. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Golpea a los dioses y sus sacerdotes temblarán.
 
@@ -316,7 +316,7 @@ El rabino Gamaliel le ordenó a su sirviente Tobi que trajera algo bueno del mer
 
 Los árboles del bosque preguntaron una vez a los árboles frutales: "¿Por qué no se oye a lo lejos el susurro de tus hojas?". Los árboles frutales respondieron: "Podemos prescindir del susurro para manifestar nuestra presencia; nuestros frutos dan testimonio de nosotros". Los árboles frutales entonces preguntaron a los árboles del bosque:
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 ¿Por qué tus hojas crujen casi continuamente? Nos vemos obligados a llamar la atención del hombre sobre nuestra existencia.
 
@@ -404,7 +404,7 @@ La caridad es más que sacrificios.
 
 Un día, un filósofo le preguntó al rabino Akiba: «Si tu Dios ama a los pobres, ¿por qué no los apoya?»
 
-<span id="p340">[<sup><small>pág. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 «Dios permite que los pobres estén siempre con nosotros», respondió Akiba, «para que las oportunidades de hacer el bien nunca falten».
 
@@ -436,7 +436,7 @@ Se derraman lágrimas en el altar de Dios por aquel que abandona su primer amor.
 
 El que ama a su esposa como a sí mismo y la honra más que a sí mismo, educará adecuadamente a sus hijos; cumplirá también el versículo: «Y sabrás que hay paz en tu tienda, y cuidarás de tu morada y nada te faltará».
 
-<span id="p341">[<sup><small>pág. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Nunca llamo a mi esposa «esposa», sino «hogar», porque ella, de hecho, constituye mi hogar.
 
@@ -480,7 +480,7 @@ Es mejor soportar una falsa acusación en silencio, que hablar para traer vergü
 
 El que puede avergonzarse no hará fácilmente el mal.
 
-<span id="p342">[<sup><small>pág. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Hay una gran diferencia entre quien puede sentirse avergonzado ante su propia alma y quien sólo se avergüenza ante su prójimo.
 
@@ -582,7 +582,7 @@ En mi juventud trabajé y sigo trabajando. Con el beneplácito de Dios, incluso 
 
 El anciano vivía para disfrutar de ese mismo fruto, y recordando las palabras del emperador, decidió visitarlo. Así que, tomando una pequeña cesta, la llenó con los higos más selectos del árbol y prosiguió su misión. Tras comunicar su propósito a la guardia del palacio, fue admitido ante el soberano.
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 «Bueno», preguntó el emperador, «¿cuál es tu deseo?»
 
@@ -636,7 +636,7 @@ El propietario parecía algo perplejo ante este modo de distribución, pero no d
 
 Entonces el hijo del comerciante dividió el pollo. Les dio la cabeza al dueño y a su esposa, las patas a los dos hijos, las alas a las dos hijas, y se quedó con el cuerpo. Este fue su tercer acto sabio.
 
-<span id="p349">[<sup><small>pág. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 El propietario dijo:
 
@@ -656,7 +656,7 @@ El ciudadano así comisionado llegó a Atenas y enseguida se encontró con el ho
 
 El zapatero reparó la cuerda y el hombre le pagó una moneda de más valor que el de los zapatos.
 
-<span id="p350">[<sup><small>pág. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Al día siguiente, caminando con el mismo hombre, rompió la cuerda de su otro zapato, y yendo al zapatero, le pagó la misma gran suma por repararlo.
 
@@ -690,7 +690,7 @@ Buscando al jerosolimitano que lo había engañado, dijo:
 
 —Que esto te sirva de lección —respondió el jerosolimitano—. No creo que estés tan dispuesto a burlarte de nosotros en el futuro.
 
-<span id="p351">[<sup><small>pág. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Un joven, durante sus viajes por el campo, conoció a una joven y se encariñaron. Cuando el joven se vio obligado a abandonar la residencia de la doncella, se encontraron para despedirse. Durante la despedida, se juraron fidelidad mutua y prometieron esperar hasta que, con el tiempo, pudieran casarse. "¿Quién será testigo de nuestro compromiso?", preguntó el joven. Justo entonces vieron a una comadreja pasar corriendo junto a ellos y desaparecer en el bosque. "Miren", continuó, "esta comadreja y este pozo junto al que estamos serán testigos de nuestro compromiso"; y así se separaron. Pasaron los años, la doncella le fue fiel, pero el joven se casó. Nació un hijo, que creció para el deleite de sus padres. Un día, mientras jugaba, se cansó y, tumbado en el suelo, se quedó dormido. Una comadreja lo mordió en el cuello y murió desangrado. Los padres estaban consumidos por la pena ante esta calamidad, y no fue hasta que les dieron otro hijo que olvidaron su dolor. Pero cuando este segundo hijo pudo caminar solo, vagó fuera de la casa, y encorvado sobre el pozo, mirando su sombra en el agua, perdió el equilibrio y se ahogó. Entonces el padre recordó su voto perjuro y a sus testigos, la comadreja y el pozo. Le contó lo sucedido a su esposa, y ella accedió al divorcio. Luego buscó a la doncella a la que le había prometido matrimonio, y la encontró aún esperando su regreso. Le contó cómo, por obra de Dios, había sido castigado por su maldad, tras lo cual se casaron y vivieron en paz.
 
@@ -698,7 +698,7 @@ Un sabio israelita, que vivía lejos de Jerusalén, envió a su hijo a la Ciudad
 
 Tan pronto como murió su amo, el esclavo, eufórico con su buena fortuna, se apresuró a viajar a Jerusalén, informó al hijo de su difunto amo de lo que había sucedido y le mostró el testamento.
 
-<span id="p352">[<sup><small>pág. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 El joven se sorprendió y afligió al enterarse, y transcurrido el tiempo de duelo, comenzó a reflexionar seriamente sobre su situación. Fue a ver a su maestro, le explicó las circunstancias, le leyó el testamento de su padre y expresó su amargura por la decepción de sus razonables esperanzas. No se le ocurrió nada que hubiera hecho para ofender a su padre y se quejó en voz alta de la injusticia.
 
@@ -716,7 +716,7 @@ Para evitar estas cosas, legó su propiedad a su esclavo, sabiendo muy bien que 
 
 El joven hizo lo que le aconsejaron y después le dio la libertad al esclavo. Pero desde entonces solía exclamar:
 
-<span id="p353">[<sup><small>pág. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 «La sabiduría reside en los ancianos, y el entendimiento en la larga vida.»
 
@@ -774,7 +774,7 @@ El rabino Jojanán, hijo de Leví, ayunó y oró al Señor para que le permitier
 
 Pero aún así el rabino insistió:
 
-<span id="p356">[<sup><small>pág. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 «No te molestaré ni te preguntaré», dijo; «sólo déjame acompañarte en tu camino».
 
@@ -824,7 +824,7 @@ Cuando Dios estaba a punto de crear al hombre, los ángeles se reunieron a su al
 
 Pero otros dijeron:
 
-<span id="p359">[<sup><small>pág. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 ¡Escúchanos, Rey Todopoderoso, no crees más! La gloriosa armonía de los cielos que enviaste a la tierra será perturbada y destruida por el hombre.
 
@@ -878,7 +878,7 @@ Entonces dijeron los oficiales de los captores: «Estos hombres son hombres de m
 
 Pero Pelatya, hijo de Joiada, salió y se dirigió a Nabucodonosor de esta manera:
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 «Mira, si un rebaño es entregado en manos de un pastor, y un lobo roba un cordero del rebaño, dime, ¿quién es responsable ante el dueño del animal perdido?»
 
@@ -972,7 +972,7 @@ Aún así el tirano habló con suavidad y con palabras amables.
 
 —Mira —continuó el otro—, tus hermanos yacen muertos ante ti; su destino será el tuyo si te niegas a hacer lo que deseo. Mira, arrojaré mi anillo al suelo; agáchate y recógelo; así consideraré la lealtad a mis dioses.
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 «¿Crees que temo tus amenazas?», respondió el muchacho impasible; «¿por qué debería temer a un ser humano más que al gran Dios, el Rey de reyes?»
 
@@ -998,7 +998,7 @@ Abrazó al muchacho, estrechándolo contra su pecho y apretando sus labios contr
 
 —No —respondió él con burla—, no puedo hacerlo, pues tus propias leyes lo prohíben. Sea buey o oveja, no lo mataréis a él y a su cría en un mismo día.
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 «¡Ay de ti!», respondió la madre, «tú que eres tan escrupuloso con las leyes». Entonces, apretando a su hijo contra su corazón, dijo: «Ve, querido mío, dile a Abraham que mi sacrificio ha excedido al suyo. Él construyó un altar para sacrificar a Isaac; tu madre construyó siete altares y sacrificó siete Isaacs en un día. Él solo fue tentado; tu madre cumplió.»
 
@@ -1032,7 +1032,7 @@ El rey estaba afligido y sorprendido, y Maimónides, mudo de asombro, no pudo de
 
 «La muerte es la pena para quien intente asesinar a su gobernante», dijo el rey. «Elige ahora el modo de tu castigo».
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Moisés pidió tres días para considerarlo, lo cual el rey le concedió. Durante este tiempo, preparó una mezcla y ordenó a sus discípulos que la tuvieran lista y la aplicaran según sus instrucciones cuando regresara a casa sin sentido. Entonces se presentó ante el rey y solicitó que le abrieran las venas. La arteria vital no se exploró, como él había anticipado, y el resultado fue el previsto. Tras su recuperación, huyó de Egipto y se refugió en una cueva, donde escribió su _Fad Hazakah_ (la "Mano Fuerte"), compuesta por catorce divisiones, representadas por la palabra _Yad_, que también significa catorce.
 
@@ -1044,7 +1044,7 @@ Maimónides murió a la edad de setenta años, y sus restos fueron enterrados en
 
 Durante el reinado de uno de los obispos de Metz, vivía en esa ciudad un judío llamado Rabino Amnón. Era de ilustre familia, de gran mérito personal, rico y respetado por el obispo y el pueblo. El obispo lo presionaba con frecuencia para que abjurara del judaísmo y abrazara el cristianismo, pero sin el menor resultado. Sin embargo, cierto día, estando más presionado que de costumbre y algo ansioso por librarse de las insistencias del obispo, dijo apresuradamente: «Estudiaré el tema y te daré una respuesta en tres días».
 
-<span id="p370">[<sup><small>pág. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Sin embargo, tan pronto como se alejó de la presencia del obispo, sintió un fuerte dolor en el corazón, y una conciencia inquieta lo culpó por admitir, incluso de esta manera, una duda sobre la verdadera fe. Llegó a casa abrumado por el dolor; le sirvieron comida, pero se negó a comer; y cuando sus amigos lo visitaron y averiguaron la causa de su desánimo, rechazó el consuelo que le ofrecieron, diciendo: «Bajaré de luto a la tumba por estas palabras». Al tercer día, mientras aún lamentaba su imprudente concesión, el obispo lo mandó llamar, pero se negó a responder.
 
@@ -1070,9 +1070,9 @@ En el Año Nuevo está escrito, en el Día de la Expiación está sellado. Sí, 
 
 Cuando hubo terminado esta declaración, en la que quería reconocer su pecado y la justicia de su castigo, el rabino Amnón expiró, muriendo dignamente en la casa de Dios, entre los hijos de Israel reunidos.
 
-<span id="p372">[<sup><small>pág. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

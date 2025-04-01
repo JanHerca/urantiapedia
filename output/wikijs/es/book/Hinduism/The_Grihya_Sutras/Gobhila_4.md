@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA IV, KÂ_N__D_IKÂ 1.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 20\. [^354] O debería ofrecerle comida a una vaca. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
-21\. [^355] O debería quemar leña en el bosque y decir: “Éste es mi Ash<i>t</i>akâ”.
+21\. [^355] O debería quemar leña en el bosque y decir: «Éste es mi Ash<i>t</i>akâ».
 
 22\. Pero que no descuide hacer ninguna de estas cosas. Pero que no descuide hacer ninguna de estas cosas.
 
@@ -168,7 +168,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 3.
 
@@ -178,7 +178,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^375] Tomando de nuevo con su mano izquierda una tea encendida, deberá colocarla en el lado sur de los pozos con (el verso), 'Aquellos que toman (múltiples) formas' (ibid. 4).
 
-4\. Luego llama a los Padres (a su sacrificio) con (el verso), “Venid aquí, vosotros, Padres, que habéis bebido Soma” (ibid. 5).
+4\. Luego llama a los Padres (a su sacrificio) con (el verso), «Venid aquí, vosotros, Padres, que habéis bebido Soma» (ibid. 5).
 
 5\. Luego deberá colocar recipientes con agua cerca de los pozos.
 
@@ -576,7 +576,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -628,7 +628,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^444] Al norte del lugar (en el que se ofrecerá la recepción Arghya a un invitado), deben atar una vaca (a un poste o similar), y deben (reverencialmente) acercarse a ella con (el verso), 'Arha<i>n</i>â putra vâsa' (MB. II, 8, 1).
 
-2\. [^445] (El invitado a quien se le va a ofrecer la recepción Arghya) debe acercarse murmurando: “Aquí piso este Padyâ Virâ<i>g</i> para disfrutar de la comida” (ibid. 2).
+2\. [^445] (El invitado a quien se le va a ofrecer la recepción Arghya) debe acercarse murmurando: «Aquí piso este Padyâ Virâ<i>g</i> para disfrutar de la comida» (ibid. 2).
 
 3\. (Debe hacerlo) donde le van a realizar la ceremonia Arghya,
 
@@ -652,7 +652,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 13\. El agua que se le ofrece para beber debe beberla con la fórmula: «Gloria eres tú» (ibid. 10).
 
-14\. Debe aceptar el Madhuparka con (la fórmula): “La gloria de la gloria eres tú” (ibid. 11).
+14\. Debe aceptar el Madhuparka con (la fórmula): «La gloria de la gloria eres tú» (ibid. 11).
 
 15\. [^448] Que beba (de él) tres veces con (la <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> fórmula que repite tres veces), 'Tú eres el alimento de la gloria; tú eres el alimento del poder; tú eres el alimento de la dicha; concédeme la dicha' (MB. II, 8, 12);
 
@@ -860,7 +860,7 @@ Fin del Gobhila-G<i>ri</i>hya-sûtra.
 
 [^423]: 121:19 19-21. He traducido las palabras de estos Sutras sin intentar expresar ningún significado. Según el comentario, el significado es el siguiente: 19. No debe construirse una casa con la puerta trasera, ni con una puerta principal y una trasera. 20. La puerta de la casa no debe dar a la puerta de otra casa. 21. La puerta de la casa debe construirse de tal manera que el dueño de casa no sea visto por los _K<i>â</i>n_<i>â</i>âlas, etc., cuando esté realizando actos religiosos o comiendo en su casa. O, si en lugar de sa<i>â</i>lokî se acepta la lectura sa<i>â</i>loki, el Sûtra significa: la puerta de la casa debe construirse de tal manera que los objetos valiosos, etc., que estén en la casa, no puedan ser vistos por los transeúntes.—El comentario sobre Khâdira-G<i>â</i>hya IV, 2, 15 contiene la observación: dvâradvaya<i>m</i> (var. lectio, dvâra_m<i>â</i>m<i>â</i>ri_<i>â</i>u na syâd iti ke<i>â</i>it. Esto me parece que conduce a la correcta comprensión de estos Sûtras. Creo que deberíamos leer y dividir de esta manera: (19) anudvâra_m<i>â</i>k_a. (20. 21) g<i>â</i>hadvâra_m<i>â</i>m_loki syât. 'Y que construya una puerta trasera que no dé hacia la puerta principal de la casa'. Los manuscritos Khâdira contienen las siguientes lecturas: asallokî, asandraloke, sa<i>â</i>loka.
 
-[^424]: 122:22 22-24. Estos son <i>S</i>lokas</i> a los que el comentario aplica muy apropiadamente, aunque no exactamente en el sentido original, el dicho tan frecuente en los textos brâhma<i>n</i>a: na hy ekasmâd aksharâd virâdhayanti. Los intentos del Dr. Knauer por restaurar los <i>S</i>lokas correctos son quizás un poco arriesgados; inserta <i>k</i>a en el tercer verso después de plakshas, ​​y en el segundo cambia el primer brûyât por <i>k</i>a, con lo cual el segundo pie del hemistiquio pierde su forma regular ![](img/12200.jpg), y recibe en su lugar la forma ![](img/12201.jpg).
+[^424]: 122:22 22-24. Estos son <i>S</i>lokas</i> a los que el comentario aplica muy apropiadamente, aunque no exactamente en el sentido original, el dicho tan frecuente en los textos brâhma<i>n</i>a: na hy ekasmâd aksharâd virâdhayanti. Los intentos del Dr. Knauer por restaurar los <i>S</i>lokas correctos son quizás un poco arriesgados; inserta <i>k</i>a en el tercer verso después de plakshas, ​​y en el segundo cambia el primer brûyât por <i>k</i>a, con lo cual el segundo pie del hemistiquio pierde su forma regular ![](../img/12200.jpg), y recibe en su lugar la forma ![](../img/12201.jpg).
 
 [^425]: 122:25 Debería quitar un árbol Asvattha del lado este, etc.
 
@@ -870,7 +870,7 @@ Fin del Gobhila-G<i>ri</i>hya-sûtra.
 
 [^428]: 123:34 Comp. arriba, cap. 6, 7 nota.
 
-[^429]: 123:36 El comentario dice: 'La última oblación debe ofrecerse con la fórmula, “¡A Pra<i>g</i>âpati svâhâ!”' Probablemente deberíamos corregir el texto, Pra<i>g</i>âpata ity uttamâ, 'el último (verso) es, “¡Pra<i>g</i>âpati!” (MB. II, 5, 8);' véase arriba, IV, 6, 9; Khâdira-G<i>g</i>hya IV, 2, 20.
+[^429]: 123:36 El comentario dice: 'La última oblación debe ofrecerse con la fórmula, «¡A Pra<i>g</i>âpati svâhâ!»' Probablemente deberíamos corregir el texto, Pra<i>g</i>âpata ity uttamâ, 'el último (verso) es, «¡Pra<i>g</i>âpati!» (MB. II, 5, 8);' véase arriba, IV, 6, 9; Khâdira-G<i>g</i>hya IV, 2, 20.
 
 [^430]: 124:43 Véase arriba, III, 8, 9 seq.
 

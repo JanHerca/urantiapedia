@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v9_1_1"><sup><small>9:1:1</small></sup></span>
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 NOVENO KÂ<i>N</i><i>D</i>A.
 
@@ -263,7 +263,7 @@ IX. 47. ¡Cazador, señor de la planta (Soma)! ¡Cuchillo azul-rojo! No asustes 
 
 [^262]: 156:2 Es decir, aquello por lo cual se propicia o apacigua a la deidad.
 
-[^263]: 156:3 Una etimología fantasiosa de <i>S</i>ata-rudriya, como si fuera <i>s</i>ânta (propiciado) + rudriya, en lugar de 'aquello que se relaciona con cien Rudras'; cf. [párrafo 7](Book_4_9_1#v9_1_1_7).
+[^263]: 156:3 Una etimología fantasiosa de <i>S</i>ata-rudriya, como si fuera <i>s</i>ânta (propiciado) + rudriya, en lugar de 'aquello que se relaciona con cien Rudras'; cf. [párrafo 7](../Book_4_9_1#v9_1_1_7).
 
 [^264]: 157:1 Es decir, la hoja se usa en lugar de la cuchara de ofrenda común. Mientras realiza ofrendas continuas en una de las tres piedras de esta hoja, sostenida en la mano derecha, el sacerdote sostiene un trozo de madera de arka en la mano izquierda. Mahîdh. sobre Vâ<i>g</i>. S. XVI, 1.
 
@@ -283,9 +283,9 @@ IX. 47. ¡Cazador, señor de la planta (Soma)! ¡Cuchillo azul-rojo! No asustes 
 
 [^272]: 160:4 Pra<i>g</i>âyâ yad dhanam asti, Sây.
 
-[^273]: 160:5 Véase el [párrafo 28](Book_4_9_1#v9_1_1_28).
+[^273]: 160:5 Véase el [párrafo 28](../Book_4_9_1#v9_1_1_28).
 
-[^274]: 161:1 El cálculo aquí, como suele ocurrir con la métrica, es bastante impreciso. El Anuvâka I, compuesto de dieciséis versos, se considera equivalente a las primeras ochenta fórmulas; los anuvâkas II y III, compuestos de diez ka<i>n</i><i>d</i>ikâs (cada uno de los cuales se calcula que consta de ocho mantras), constituyen el segundo grupo de ochenta; los anuvâkas IV y V, a su vez, forman el tercer grupo de ochenta; los anuvâkas VI-VIII (excepto las últimas cuatro fórmulas, véase [párrafo 22](Book_4_9_1#v9_1_1_22)), el cuarto grupo de ochenta; y de ahí a las fórmulas de «desencadenamiento», es decir, desde XVI, 46 a 53, el quinto grupo de ochenta. Al final de cada ochenta fórmulas debe pronunciar un Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
+[^274]: 161:1 El cálculo aquí, como suele ocurrir con la métrica, es bastante impreciso. El Anuvâka I, compuesto de dieciséis versos, se considera equivalente a las primeras ochenta fórmulas; los anuvâkas II y III, compuestos de diez ka<i>n</i><i>d</i>ikâs (cada uno de los cuales se calcula que consta de ocho mantras), constituyen el segundo grupo de ochenta; los anuvâkas IV y V, a su vez, forman el tercer grupo de ochenta; los anuvâkas VI-VIII (excepto las últimas cuatro fórmulas, véase [párrafo 22](../Book_4_9_1#v9_1_1_22)), el cuarto grupo de ochenta; y de ahí a las fórmulas de «desencadenamiento», es decir, desde XVI, 46 a 53, el quinto grupo de ochenta. Al final de cada ochenta fórmulas debe pronunciar un Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
 
 [^275]: 161:2 Un juego etimológico con la palabra 'a<i>s</i>îti', como si derivara de a<i>s</i>, comer.
 
@@ -297,31 +297,31 @@ IX. 47. ¡Cazador, señor de la planta (Soma)! ¡Cuchillo azul-rojo! No asustes 
 
 [^279]: 164:1 Vâ<i>g</i>. S. XVI, 64-66. Al realizar estas tres oblaciones a los Rudras en el cielo, el aire y la tierra, respectivamente, el procedimiento es inverso al descrito en los párrafos 11 (Libro 491#v91111)-13 (Libro 491#v91113), es decir, primero sobre la piedra que le llega a la boca, luego sobre la que le llega al ombligo y, por último, sobre la que le llega a la rodilla.
 
-[^280]: 165:1 Estas palabras, así como las palabras espaciadas en el siguiente párrafo, se agregan a cada una de las tres fórmulas en los [párrafos 35](Book_4_9_1#v9_1_1_35)\-[37](Book_4_9_1#v9_1_1_37).
+[^280]: 165:1 Estas palabras, así como las palabras espaciadas en el siguiente párrafo, se agregan a cada una de las tres fórmulas en los [párrafos 35](../Book_4_9_1#v9_1_1_35)\-[37](../Book_4_9_1#v9_1_1_37).
 
 [^281]: 165:2 La unión de los huecos de las manos, colocando las puntas de los dedos juntas, es una señal de reverencia.
 
 [^282]: 166:1 De los objetos que suman seis, comúnmente ocurren las estaciones, por ejemplo VI, 7, 1, 16.
 
-[^283]: 166:2 Véase el [párrafo 4](Book_4_9_1#v9_1_1_4). Según Kâty. <i>S</i>rautas. 18, 1, 6, ambos utensilios de ofrenda (la hoja y el palo de arka) se arrojan al pozo.
+[^283]: 166:2 Véase el [párrafo 4](../Book_4_9_1#v9_1_1_4). Según Kâty. <i>S</i>rautas. 18, 1, 6, ambos utensilios de ofrenda (la hoja y el palo de arka) se arrojan al pozo.
 
 [^284]: 167:1 Como señala el profesor Weber en «Die vedischen Nachrichten von den Nakshatra», pág. 298, este pasaje indica un período de intercalación de seis años, ya que, al contar 360 días en el año, el resto se acumula en seis años hasta formar un mes intercalado de treinta y cinco días (o treinta y seis según Sat. Br. X, 5, 4, 5); y, en consecuencia, en Vâ<i>g</i>. S. XXX, 15 y Taitt. Âr. IV, 19, 1, se mencionan los nombres de los seis años de dicho período de intercalación; mientras que se hace referencia con mayor frecuencia a un período de cinco años y a los nombres de los respectivos años.
 
 [^285]: 167:2 A saber: veinte dedos de las manos y de los pies, los brazos superiores e inferiores, los muslos y las pantorrillas, y las manos.
 
-[^286]: 168:1 Para el mahad uktham, o Gran Letanía, recitado en el día del Mahâvrata, véase [p. 110](Book_4_8_6#p110), nota [3](Book_4_8_6#fn202). Sin embargo, según Sâya<i>n</i>a, esto no se refiere al Mahad uktham, o Gran Letanía, en sí, sino a su Stotra, el Mahâvrata-sâman (cf. nota sobre [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)), por cuyo canto está precedido, y que, al igual que la Gran Letanía misma, se representa como compuesto de las diferentes partes del cuerpo en forma de pájaro de Agni-Pra<i>g</i>âpati. Ahora bien, la parte del canto que corresponde al tronco del dios (âtman) es la única parte de este Stotra que se canta en el Pañkavimâsâstoma, o himno de veinticinco versos, que, de hecho, es el estoma característico del día del Mahâvrata, ya que todos los demás Stotras de ese rito se cantan en esa forma. Sin embargo, dudo que se trate más bien de la parte inicial de la Gran Letanía, que representa el tronco, a la que se hace referencia aquí, y que, de hecho, consta de veinticinco versos; cf. F. Max Müller, Upanishads, I, pág. 183. Además, siempre debe tenerse presente que la disposición particular de la Gran Letanía que los autores del Brâhmaânâ tenían ante sí puede haber diferido en algunos aspectos de la que conocemos.
+[^286]: 168:1 Para el mahad uktham, o Gran Letanía, recitado en el día del Mahâvrata, véase [p. 110](../Book_4_8_6#p110), nota [3](../Book_4_8_6#fn202). Sin embargo, según Sâya<i>n</i>a, esto no se refiere al Mahad uktham, o Gran Letanía, en sí, sino a su Stotra, el Mahâvrata-sâman (cf. nota sobre [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)), por cuyo canto está precedido, y que, al igual que la Gran Letanía misma, se representa como compuesto de las diferentes partes del cuerpo en forma de pájaro de Agni-Pra<i>g</i>âpati. Ahora bien, la parte del canto que corresponde al tronco del dios (âtman) es la única parte de este Stotra que se canta en el Pañkavimâsâstoma, o himno de veinticinco versos, que, de hecho, es el estoma característico del día del Mahâvrata, ya que todos los demás Stotras de ese rito se cantan en esa forma. Sin embargo, dudo que se trate más bien de la parte inicial de la Gran Letanía, que representa el tronco, a la que se hace referencia aquí, y que, de hecho, consta de veinticinco versos; cf. F. Max Müller, Upanishads, I, pág. 183. Además, siempre debe tenerse presente que la disposición particular de la Gran Letanía que los autores del Brâhmaânâ tenían ante sí puede haber diferido en algunos aspectos de la que conocemos.
 
-[^287]: 168:2 Véase [p. 112](Book_4_8_6#p112), nota [1](Book_4_8_6#fn204).
+[^287]: 168:2 Véase [p. 112](../Book_4_8_6#p112), nota [1](../Book_4_8_6#fn204).
 
 [^288]: 168:3 Es decir, el cuerpo con sus veinticuatro miembros, a saber, los dos brazos, las dos piernas y los veinte dedos de las manos y de los pies.
 
-[^289]: 168:4 Según Sâya<i>n</i>a, aquí se hace referencia al Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, cantado después del Mahad uktham. Véase [p. 111](Book_4_8_6#p111), nota [1](Book_4_8_6#fn203). Sâya<i>n</i>a lo interpreta como las fórmulas en prosa al final del Sastra, que, según él, representan la mente (buddhi) de Pra<i>g</i>âpati.
+[^289]: 168:4 Según Sâya<i>n</i>a, aquí se hace referencia al Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, cantado después del Mahad uktham. Véase [p. 111](../Book_4_8_6#p111), nota [1](../Book_4_8_6#fn203). Sâya<i>n</i>a lo interpreta como las fórmulas en prosa al final del Sastra, que, según él, representan la mente (buddhi) de Pra<i>g</i>âpati.
 
 [^290]: 169:1 O mejor dicho, vierte agua sobre él (el altar).
 
 [^291]: 169:2 Es decir, desde el punto inferior (o posterior) donde el ala derecha se une al cuerpo del altar. Allí coloca una piedra, desde la cual comienza la aspersión del altar.
 
-[^292]: 170:1 Véase [IX, I, 1, 33](Book_4_9_1#v9_1_1_33).
+[^292]: 170:1 Véase [IX, I, 1, 33](../Book_4_9_1#v9_1_1_33).
 
 [^293]: 171:1 El calor abrasador del fuego y todo sufrimiento físico y mental.
 
@@ -335,7 +335,7 @@ IX. 47. ¡Cazador, señor de la planta (Soma)! ¡Cuchillo azul-rojo! No asustes 
 
 [^298]: 174:2 Véase VI, 1, 1, 1-5.
 
-[^299]: 175:1 Así, o esencia (ra<i>s</i>a), según Sâya<i>n</i>a; cf. [X, 6, 5, 1](Book_4_10_6#v10_6_5_1). La palabra «ka» también significa «alegría».
+[^299]: 175:1 Así, o esencia (ra<i>s</i>a), según Sâya<i>n</i>a; cf. [X, 6, 5, 1](../Book_4_10_6#v10_6_5_1). La palabra «ka» también significa «alegría».
 
 [^300]: 176:1 Es decir, 'el calor' que se considera la propiedad principal del humor bilioso.
 
@@ -349,10 +349,10 @@ IX. 47. ¡Cazador, señor de la planta (Soma)! ¡Cuchillo azul-rojo! No asustes 
 
 [^308]: 180:1 El Pra<i>g</i>âpati-h<i>ri</i>daya, o Pra<i>g</i>âpater h<i>ri</i>dayam, tal como se representa para el canto, se encuentra en Sâma-v. Calc. ed. vol. ii, pág. 499. Consiste en las palabras imâ<i>h</i> pra<i>g</i>â<i>h</i> pra<i>g</i>âpate(r) h<i>ri</i>dayam pra<i>g</i>ârûpam a<i>g</i>î<i>g</i>ane, con stobhas y modulaciones insertadas. Le sigue una forma más sencilla, que quizás sea la que se utiliza en esta ocasión.
 
-[^309]: 180:2 Es decir, en el punto donde el ala derecha se une al cuerpo del altar. Según otras autoridades, el himno <i>S</i>yaita también debe cantarse cerca de la axila izquierda (o, según Sâ<i>n</i><i>d</i>ilya, en el punto donde el Adhvaryu sube al altar). Para otras variaciones, véase Weber, Ind. Stud. XIII, pág. 276. No creo que el ritual del Ya<i>g</i>us Blanco, al omitir la axila izquierda, presente ninguna laguna o inconsistencia, ya que la axila derecha está marcada, no por un paralelismo corporal, sino por la sencilla razón de que se supone que indica la posición del corazón. Si bien todos los demás lugares donde se cantan himnos son partes esenciales del ave Agni, la axila no lo es, sino que simplemente indica el órgano central del cuerpo. Lâ<i>t</i>y. I, 5, 11 ss. proporciona las siguientes instrucciones, aparentemente implicando un orden de procedimiento algo diferente al seguido en nuestro texto: Pasa por el sur y, de pie (al este del altar) con la cara hacia el oeste, canta el Gâyatra en la cabecera. Al regresar, canta el Rathantara en el ala derecha. Dando la vuelta, canta el B<i>ri</i>hat en el ala izquierda. Al retroceder, y de pie detrás de la cola, con la cara hacia el este, canta el Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. Canta el Vâmadevya a la derecha, y el Pra<i>g</i>âpati-h<i>ri</i>daya a la izquierda, en la axila. A continuación, se presentan diferentes puntos de vista de distintos maestros. —Con respecto a esta ceremonia, mediante la cual se rinde homenaje a las diferentes partes del cuerpo de Agni-Pra<i>g</i>âpati, compárese la ceremonia similar, pero más elaborada, del Parimâda<i>h</i> del Mahâvrata, [X, 1, 2, 9](Book_4_10_1#v10_1_2_9) con la nota.
+[^309]: 180:2 Es decir, en el punto donde el ala derecha se une al cuerpo del altar. Según otras autoridades, el himno <i>S</i>yaita también debe cantarse cerca de la axila izquierda (o, según Sâ<i>n</i><i>d</i>ilya, en el punto donde el Adhvaryu sube al altar). Para otras variaciones, véase Weber, Ind. Stud. XIII, pág. 276. No creo que el ritual del Ya<i>g</i>us Blanco, al omitir la axila izquierda, presente ninguna laguna o inconsistencia, ya que la axila derecha está marcada, no por un paralelismo corporal, sino por la sencilla razón de que se supone que indica la posición del corazón. Si bien todos los demás lugares donde se cantan himnos son partes esenciales del ave Agni, la axila no lo es, sino que simplemente indica el órgano central del cuerpo. Lâ<i>t</i>y. I, 5, 11 ss. proporciona las siguientes instrucciones, aparentemente implicando un orden de procedimiento algo diferente al seguido en nuestro texto: Pasa por el sur y, de pie (al este del altar) con la cara hacia el oeste, canta el Gâyatra en la cabecera. Al regresar, canta el Rathantara en el ala derecha. Dando la vuelta, canta el B<i>ri</i>hat en el ala izquierda. Al retroceder, y de pie detrás de la cola, con la cara hacia el este, canta el Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. Canta el Vâmadevya a la derecha, y el Pra<i>g</i>âpati-h<i>ri</i>daya a la izquierda, en la axila. A continuación, se presentan diferentes puntos de vista de distintos maestros. —Con respecto a esta ceremonia, mediante la cual se rinde homenaje a las diferentes partes del cuerpo de Agni-Pra<i>g</i>âpati, compárese la ceremonia similar, pero más elaborada, del Parimâda<i>h</i> del Mahâvrata, [X, 1, 2, 9](../Book_4_10_1#v10_1_2_9) con la nota.
 
 [^310]: 181:1 Es decir, tomando las aurículas como partes del corazón.
 
-[^311]: 181:2 Según Lâ<i>t</i>y. I, 5, 1 ss., es el Prastot<i>ri</i> quien canta estos sâmans. Un conflicto de competencia similar a este respecto se menciona no solo con respecto a los sâmans independientes (cf. Kâty. IV, 9, 6-9), sino incluso con respecto a representaciones solemnes como el canto del Mahâvrata-sâman (cf. nota sobre [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)).
+[^311]: 181:2 Según Lâ<i>t</i>y. I, 5, 1 ss., es el Prastot<i>ri</i> quien canta estos sâmans. Un conflicto de competencia similar a este respecto se menciona no solo con respecto a los sâmans independientes (cf. Kâty. IV, 9, 6-9), sino incluso con respecto a representaciones solemnes como el canto del Mahâvrata-sâman (cf. nota sobre [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)).
 
 [^312]: 181:3 Vi-<i>k</i>ita, en este sentido, parece ser un ἅπαξ λεγόμενον. Sâya<i>n</i>a parece haber leído vi<i>g</i>ita (parâbhûta, derrotado) en su lugar.

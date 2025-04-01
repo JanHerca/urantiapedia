@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p213">[<sup><small>pág. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los hexagramas
 
@@ -48,7 +48,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 5\. (El sabio) aparece en lo alto, por encima de todas las cosas, y los innumerables estados disfrutan de reposo.
 
-<span id="p214">[<sup><small>pág. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 1\. ¡La gran y originadora (capacidad) indicada por Khwăn es completa! Todas las cosas le deben su nacimiento; recibe obedientemente las influencias del Cielo.
 
@@ -70,13 +70,13 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 (El método para tratar con) los jóvenes e ignorantes es nutrir la naturaleza correcta que les pertenece; esto realiza el servicio del sabio.
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 [^129]. 1. Hsü denota espera. (La figura) muestra peligro inminente; pero a pesar de la firmeza y fuerza (indicadas por el trigrama interno), su sujeto no se deja envolver (en el peligroso desfiladero); es correcto que no se vea presionado ni reducido al extremo.
 
 2\. Cuando se dice que «con la sinceridad declarada en Hsü, habrá un éxito brillante, y con la firmeza, buena fortuna», esto se demuestra por la posición (de la quinta línea) en el lugar asignado por el Cielo, y por ser la posición correcta para ello, y en el centro. «Será ventajoso atravesar la gran corriente»; es decir, el progreso será seguido por un logro meritorio.
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 [^130]. ​​1. La parte superior de Sung es (el trigrama que representa) la fuerza, y la inferior (la que representa) el peligro. (La unión de) la fuerza y ​​el peligro da (la idea en) Sung.
 
@@ -88,7 +88,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 «No será ventajoso cruzar el gran arroyo»: uno (que intentara hacerlo) se encontraría en un abismo.
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 [^131]. 1. (El nombre) Sze describe la multitud (del ejército). La firmeza y corrección (que indica el hexagrama) se refieren a la corrección (moral) (de propósito). Cuando (el impulsor) es capaz de usar la multitud con tal corrección, puede alcanzar el poder real.
 
@@ -102,7 +102,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 3\. 'Nubes densas pero sin lluvia' indican que el movimiento (de las líneas fuertes) sigue avanzando.
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 'Comenzando en nuestra frontera occidental' indica que la influencia (beneficiosa) aún no se ha manifestado ampliamente.
 
@@ -116,7 +116,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 [^136]. «La falta de buen entendimiento entre las (diferentes clases de) hombres en Phî, y su indicación como desfavorable para el rumbo firme y correcto del hombre superior; con la insinuación de que los grandes se han ido y los pequeños vienen»: todo esto surge del hecho de que en él el cielo y la tierra no se comunican entre sí, y, en consecuencia, todas las cosas no tienen libre curso; y que lo alto y lo bajo (superiores e inferiores) no se comunican entre sí, y no hay estados (bien regulados) bajo el cielo. El (trigrama) interno se compone de las líneas débiles y divididas, y el externo de las fuertes e indivisas: el interno es (el símbolo de) la debilidad, y el externo de la fuerza; el interno (representa) al hombre pequeño, y el externo al hombre superior. Así, el camino del hombre pequeño parece crecer, y el del hombre superior decrecer.
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 [^137]. 1. En Thung <i>Z</i>ăn la (línea) débil tiene el lugar (de influencia), el lugar central, y responde a (la línea correspondiente en) <i>Kh</i>ien (arriba); de ahí viene su nombre de Thung <i>Z</i>ăn (o 'Unión de hombres').
 
@@ -130,7 +130,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 2\. Es propio del cielo disminuir a los plenos y aumentar a los humildes. Es propio de la tierra derrocar a los plenos y reabastecer a los humildes. Los seres espirituales infligen calamidades a los plenos y bendicen a los humildes. Es propio de los hombres odiar a los plenos y amar a los humildes. La humildad en una posición de honor la hace aún más brillante; y en una posición inferior los hombres no intentarán trascenderla. Así es como «el hombre superior tendrá un buen resultado en sus empresas».
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 [^140]. 1. En Yü vemos la línea fuerte a la que responden todas las demás, y la voluntad (de quien la representa) ejecutándose; y (también) la obediencia dócil que emplea el movimiento (para sus propósitos). (De estas cosas proviene) Yü (la Condición de armonía y satisfacción).
 
@@ -138,7 +138,7 @@ Tratado sobre el Thwan [^124], o las explicaciones del rey Wăn sobre todos los 
 
 3\. El cielo y la tierra demuestran una dócil obediencia en relación con el movimiento, y por ello el sol y la luna no se equivocan (en el tiempo), y las cuatro estaciones no se desvían (de su orden). Los sabios muestran tal dócil obediencia en relación con sus movimientos, y por ello sus castigos y penalizaciones son completamente justos, y la gente lo reconoce con su sumisión. ¡Grandes son, en verdad, el tiempo y la importancia indicados en Yü!
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 [^141]. 1. En Sui vemos que el fuerte (trigrama) viene y se coloca debajo del débil; vemos (en los dos) los atributos de movimiento y placer: esto da (la idea de) Sui.
 
@@ -178,13 +178,13 @@ Las líneas fuertes y débiles se dividen equitativamente (en la figura). El mov
 
 4\. Observamos las figuras ornamentales del cielo y, de esta manera, percibimos los cambios de las estaciones. Observamos las celebraciones ornamentales de la sociedad y comprendemos cómo se llevan a cabo los procesos de transformación en todo lo que existe bajo el cielo.
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 [^147]. 1. Po denota derrocamiento o ser derrocado. Vemos (en la figura) las líneas débiles (que amenazan con) transformar la (última) línea fuerte (en una de ellas).
 
 2\. Que «no será ventajoso moverse en ninguna dirección» se desprende del hecho de que los hombres pequeños (ahora) están creciendo y creciendo. El hombre superior actúa según (la exigencia del momento) y detiene todo avance, considerando el (significado de) las figuras simbólicas (en el hexagrama). Valora los procesos de crecimiento y disminución, de plenitud y decadencia, (como se observa) en los movimientos de los cuerpos celestes.
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 [^148]. 1. 'Fû indica el libre curso y progreso (de lo que denota):'—es el retorno de lo que se pretende con la línea indivisa.
 
@@ -210,7 +210,7 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 2\. El cielo y la tierra nutren todas las cosas. Los sabios nutren a los hombres de talento y virtud, para que con ellos lleguen a las miríadas de personas. ¡Grande es (la obra que se pretende con esto) nutrir en su tiempo!
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 [^152]. 1. Tâ Kwo muestra los grandes (= las líneas indivisas) en exceso.
 
@@ -235,7 +235,7 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## SECCIÓN II
 
@@ -253,7 +253,7 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 4\. El sol y la luna, al comprender en sí mismos (el curso del Cielo), pueden perpetuar su brillo. Las cuatro estaciones, mediante su cambio y transformación, pueden perpetuar su producción (de cosas). Los sabios perseveran mucho tiempo en su curso, y todo bajo el cielo se transforma y perfecciona. Cuando observamos lo que continúan haciendo durante mucho tiempo, se pueden ver las tendencias naturales del cielo, la tierra y todas las cosas.
 
-<span id="p240">[<sup><small>pág. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 [^157]. 1. «Thun indica progreso exitoso»: es decir, en el mismo retiro que Thun denota, existe dicho progreso. La línea fuerte está en el lugar dominante, (la quinta), y es correspondida adecuadamente (por la segunda línea). La acción se desarrolla según (la exigencia del) momento.
 
@@ -265,7 +265,7 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 2\. 'Tâ <i>K</i>wang indica que será ventajoso ser firme y correcto': lo que es grande (debería ser) correcto. Dada la corrección y la grandeza (en su grado máximo), se pueden ver el carácter y las tendencias del cielo y la tierra.
 
-<span id="p241">[<sup><small>pág. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 [^159]. 1. Žin denota avanzar.
 
@@ -283,7 +283,7 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 3\. Que el padre sea verdaderamente padre, y el hijo, hijo; que el hermano mayor sea verdaderamente hermano mayor, y el hermano menor, hermano menor; que el esposo sea verdaderamente esposo, y la esposa, esposa: entonces la familia alcanzará su estado normal. Si la familia alcanza ese estado, todo bajo el cielo se establecerá.
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 [^162]. 1. En Khwei tenemos el símbolo del Fuego, que al moverse tiende hacia arriba, y el de un Pantano, cuyas aguas, al moverse, tienden hacia abajo. Tenemos también los símbolos de dos hermanas que viven juntas, pero cuyas voluntades no van en la misma dirección.
 
@@ -291,13 +291,13 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 3\. El cielo y la tierra son separados y distintos, pero su obra es la misma. El hombre y la mujer son separados y distintos, pero con una voluntad común buscan el mismo objetivo. Existe diversidad entre las innumerables clases de seres, pero existe una analogía entre sus diversas operaciones. Grandes son, en verdad, los fenómenos y los resultados de esta condición de desunión y separación.
 
-<span id="p244">[<sup><small>pág. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 [^163]. 1. <i>K</i>ien denota dificultad. Hay (el trigrama que expresa) peligro al frente. Cuando uno, al ver el peligro, puede detener sus pasos (de acuerdo con el significado del trigrama inferior), ¿no es sabio?
 
 2\. (El lenguaje de) <i>K</i>ien, que «se hallará ventaja en el suroeste», se refiere a la (quinta línea fuerte) avanzada y en el lugar central. Que «no habrá ventaja en el noreste» insinúa que el camino (para tratar con el estado de <i>K</i>ien) está agotado. Que «será ventajoso ver al gran hombre» insinúa que el avance conducirá al logro. Que los lugares (de las diferentes líneas después de la primera) sean los apropiados indica firme corrección y buena fortuna, con lo cual las regiones (del reino) se normalizan. ¡Grande es, sin duda, la obra por realizar en tiempos de <i>K</i>ien!
 
-<span id="p245">[<sup><small>pág. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 [^164]. 1. En <i>K</i>ieh tenemos (el trigrama que expresa) peligro que continúa con el que expresa movimiento. Mediante el movimiento se escapa del peligro:—(este es el significado de) <i>K</i>ieh.
 
@@ -305,13 +305,13 @@ Si (su objeto y su acción) no son correctos, caerá en errores, y no le será v
 
 3\. Cuando el cielo y la tierra se liberan (del invierno), tenemos truenos y lluvia. Cuando estos llegan, los brotes de las plantas y árboles que producen los diversos frutos comienzan a brotar. Grandes son, en verdad, los fenómenos en la época que insinúa <i>K</i>ieh.
 
-<span id="p246">[<sup><small>pág. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 [^165]. 1. En Sol (vemos) el (trigrama) inferior disminuido, y el superior aumentado. (Pero) el método (de acción) implícito en esto opera también arriba (o asciende (también) y opera).
 
 2\. «Si hay sinceridad en este método de disminución, habrá gran fortuna; ausencia de error; firmeza y corrección que se puedan mantener; y ventaja en cada movimiento que se realice. ¿En qué se empleará esta (sinceridad en el ejercicio del Sol)? Incluso en el sacrificio, se pueden presentar dos canastas de grano (aunque no haya nada más):» —para estas dos canastas debe haber un momento oportuno. Hay un momento en que lo fuerte debe disminuir y lo débil debe fortalecerse. Disminución y aumento, desbordamiento y vacío: todo esto ocurre en armonía con las condiciones del momento.
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 [^166]. 1. En Yî vemos que el trigrama superior disminuye y el inferior aumenta. La satisfacción de la gente (como consecuencia de esto) es ilimitada. Lo que desciende de arriba llega a todo lo que está abajo, tan grande y brillante es el curso (de su operación).
 
@@ -340,7 +340,7 @@ Aumentad coronas sobre todo valle y altura;
 Y sin cesar se apresura,
 Los regalos de cada temporada se apresuran a dar sus frutos.
 
-<span id="p249">[<sup><small>pág. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 [^167]. 1. Kwâi es el símbolo del desplazamiento o la remoción. Vemos (en la figura) las líneas fuertes desplazando a las débiles. (Tenemos en ella los atributos de) fuerza y ​​complacencia. Hay desplazamiento, pero la armonía (continúa).
 
@@ -352,7 +352,7 @@ Los regalos de cada temporada se apresuran a dar sus frutos.
 
 'Habrá ventaja en todo lo que emprenda': cuando se haya completado el crecimiento de las (líneas) fuertes, habrá un fin (del desplazamiento).
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 [^168]. 1. Kâu tiene el significado de aparecer inesperadamente. (Vemos en él) la (línea) débil apareciendo inesperadamente sobre las fuertes.
 
@@ -388,7 +388,7 @@ Los regalos de cada temporada se apresuran a dar sus frutos.
 
 "Si pronuncia discursos, sus palabras no pueden ser buenas": ser aficionado a discutir o a suplicar es la manera de verse reducido al extremo.
 
-<span id="p253">[<sup><small>pág. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 1\. Tenemos el símbolo de la madera en el agua y la elevación del agua, lo que nos da la idea de un pozo. Un pozo proporciona alimento y no se agota.
 
@@ -424,7 +424,7 @@ Cuando el cambio se produce de la manera adecuada, «desaparece la ocasión para
 
 2\. Descansar en el punto de descanso es descansar en el lugar que le corresponde. Las líneas superior e inferior del hexagrama se corresponden exactamente, pero no interactúan; por eso se dice que «(el sujeto del hexagrama) no tiene conciencia de sí mismo; que cuando camina por su patio, no ve a ninguna de las personas que lo habitan; y que no habrá error».
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 [^177]. 1. El avance indicado por <i>K</i>ien es (como) el matrimonio de una joven dama que viene acompañado de buena fortuna.
 
@@ -460,7 +460,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 2\. (Vemos que) la línea fuerte (quinta) ha penetrado en el lugar central y correcto, y la voluntad (de su sujeto) se está llevando a cabo; (vemos también) las líneas débiles (primera y cuarta) obedecen a las líneas fuertes (superiores). Por lo tanto, se dice: «Habrá algún pequeño logro y progreso. Habrá ventaja en el avance en cualquier dirección. También será ventajoso ver al gran hombre».
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 [^182]. 1. Tui tiene el significado de satisfacción placentera.
 
@@ -472,7 +472,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 3\. 'Será ventajoso cruzar el gran arroyo': (el sujeto del hexagrama) cabalga en
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 (un recipiente de) madera (sobre agua), y lo hará con éxito.
 
@@ -484,7 +484,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 4\. El cielo y la tierra observan sus términos regulares, y tenemos las cuatro estaciones completas. Si los gobernantes establecen sus medidas según las debidas regulaciones, los recursos del estado no sufren daño, y el pueblo no sufre daño.
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 [^185]. 1. En <i>K</i>ung Fû tenemos las dos líneas débiles en la parte más interna de la figura y las líneas fuertes en los lugares centrales de los trigramas. Tenemos los atributos de satisfacción placentera y penetración flexible. La sinceridad (así simbolizada) transformará un país.
 
@@ -494,7 +494,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 3\. En (el ejercicio de la virtud denotada por) <i>K</i>ung Fû, (se dice que) 'habrá ventaja en ser firme y correcto': —en esa virtud, de hecho, tenemos la respuesta (del hombre) al Cielo.
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 [^186]. 1. En Hsiâo Kwo (vemos) las pequeñas (líneas) que superan a las demás, y (dan la indicación de) progreso y logro.
 
@@ -506,7 +506,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 5\. (En el hexagrama) tenemos 'el símbolo de un pájaro en vuelo, y de las notas que descienden de tal pájaro, por lo que es mejor descender que ascender, conduciendo así a una gran buena fortuna': ascender es contrario a lo que es razonable en el caso, mientras que descender es natural y correcto.
 
-<span id="p265">[<sup><small>pág. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 [^187]. 1. '<i>K</i>î Žî insinúa progreso y éxito': en los asuntos pequeños, es decir, habrá ese progreso y éxito.
 
@@ -520,7 +520,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 
 2\. 'El joven zorro casi ha cruzado el arroyo', pero aún no ha escapado del peligro y la calamidad.
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 «Su cola se hunde. No habrá ninguna ventaja»: al final no hay continuidad (del propósito) inicial. Aunque los lugares (de las diferentes líneas) no son los apropiados, una línea fuerte y una línea débil siempre se complementan.
 
@@ -551,7 +551,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 ## Notas al pie
 
 
-[^124]: 213:1 El nombre Thwan y el significado del carácter así llamado están suficientemente establecidos. Thwan son las explicaciones del rey Wăn de todos los hexagramas. Parece imposible ahora determinar cómo surgió el carácter y cómo se le llamó Thwan. El tratado sobre Thwan se atribuye a Confucio; y he considerado en la Introducción, [p. 30](Introduction_3#p30), si la tradición al respecto puede ser aceptada en alguna medida.
+[^124]: 213:1 El nombre Thwan y el significado del carácter así llamado están suficientemente establecidos. Thwan son las explicaciones del rey Wăn de todos los hexagramas. Parece imposible ahora determinar cómo surgió el carácter y cómo se le llamó Thwan. El tratado sobre Thwan se atribuye a Confucio; y he considerado en la Introducción, [p. 30](../Introduction_3#p30), si la tradición al respecto puede ser aceptada en alguna medida.
 
 [^125]: 214:I El hexagrama <i>Kh</i>ien se compone de seis líneas enteras, o del trigrama <i>Kh</i>ien, símbolo del cielo de Fû-hsî, repetido. El Thwan no se detiene en esto, sino que parte, en su exposición, de la palabra «cielo», suponiendo que el hexagrama representaba todo el significado que se le había dado a ese término. En los párrafos 1, 2 y 4, los cuatro atributos del Texto de Wăn (el 2 se ocupa del segundo, aunque no se nombra expresamente) se ilustran mediante los fenómenos que ocurren en el mundo físico.
   En los párrafos 3 y 5, el tema es el sabio. No se le nombra, de hecho; y Khung Ying-tâ (574-648 d. C.) no lo presenta hasta el párrafo 5, cuando el significado exige la presencia de un agente humano, que gobierna en el mundo de los hombres como el cielo en el de la naturaleza. La «conexión entre el fin y el principio» que él ve es la de causa y efecto en las operaciones de la naturaleza y el curso de los asuntos humanos. Los diversos pasos de ese curso están simbolizados por las líneas del hexagrama; y el sabio ideal, dirigiendo su gobierno ideal y tomando sus medidas en consecuencia, se representa conduciendo por el cielo en un carruaje tirado por seis dragones. Kû Hsî dice con extravagancia que «el sabio es el Cielo, y el Cielo es el sabio»; pero no hay nada parecido en el texto.
@@ -565,15 +565,15 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
   En el párrafo 2, las virtudes o atributos asignados a los trigramas intentan descifrar el resultado indicado en el Thwan. Conmover y excitar es la cualidad de <i>K</i>ăn; la peligrosidad es la cualidad de Khan. El poder de conmover probablemente produzca grandes efectos; hacerlo en circunstancias peligrosas y difíciles requiere firmeza y corrección. Pero esta explicación tampoco es muy satisfactoria.
   La primera parte del párrafo 3 describe una situación de perturbación y desorden en el mundo natural, ocasionada por los fenómenos que simbolizan la importancia de <i>K</i>ăn y Khan; pero esto simboliza, a su vez, el desorden y la angustia, política y social, característicos de la época. Los buenos príncipes de toda la nación ayudarían a remediarlo; pero la autoridad suprema no debería resignarse a la indiferencia, confiando en ellos.
 
-[^128]: 217:IV El trigrama Kăn tiene como símbolo en el mundo natural una montaña que se yergue ceñuda y detiene o frena el avance del viajero. La detención, entendida a veces de forma activa y a veces pasiva, se denomina virtud o atributo que indica. Khan, como mencioné en la [p. 32](Introduction_3#p32), tiene como símbolo el agua, especialmente en forma de lluvia. Aquí, sin embargo, el agua aparece como un arroyo en un desfiladero difícil, como el que suele aparecer al acercarse a una montaña, sugiriendo peligrosidad como atributo de dicha posición. De la combinación de estos símbolos y sus atributos, el autor cree obtener la idea del carácter (no el hexagrama completo) Măng, como símbolo de ignorancia e inexperiencia. Véase más adelante sobre «El Gran Simbolismo».
+[^128]: 217:IV El trigrama Kăn tiene como símbolo en el mundo natural una montaña que se yergue ceñuda y detiene o frena el avance del viajero. La detención, entendida a veces de forma activa y a veces pasiva, se denomina virtud o atributo que indica. Khan, como mencioné en la [p. 32](../Introduction_3#p32), tiene como símbolo el agua, especialmente en forma de lluvia. Aquí, sin embargo, el agua aparece como un arroyo en un desfiladero difícil, como el que suele aparecer al acercarse a una montaña, sugiriendo peligrosidad como atributo de dicha posición. De la combinación de estos símbolos y sus atributos, el autor cree obtener la idea del carácter (no el hexagrama completo) Măng, como símbolo de ignorancia e inexperiencia. Véase más adelante sobre «El Gran Simbolismo».
   Hasta la última oración del párrafo 2, todo lo dicho pretende mostrar cómo la figura indica progreso y éxito. Toda la representación se basa en la línea entera en el centro. Es el símbolo del esfuerzo activo por enseñar a los ignorantes en el lugar y momento adecuados; a esto se suma la quinta línea dividida, que representa la ignorancia que debe enseñarse como dócil, «la voluntad responde a la voluntad». Pero el tema de la línea 2 (p. 218) exige sinceridad en quien solicita la instrucción y siente que debe hacer que su propia enseñanza sea aceptable y agradable. Todo esto contribuye a la idea de progreso y éxito.
   Finalmente, en los jóvenes e ignorantes existe una naturaleza correcta, un estado moral propicio para la bondad. Si el maestro eficiente dirige sus esfuerzos a cultivarla y nutrirla, el progreso y el éxito serán grandes; el servicio prestado será digno de un sabio.
 
 [^129]: 218:V Hsü se compone de <i>Kh</i>ien, con la cualidad de la fuerza, y de Khan, con la cualidad de la peligrosidad. El fuerte podría fácilmente enfrentarse al peligro, pero se contiene y espera. Esta es la lección del hexagrama: el beneficio de la acción bien pensada, de los planes bien madurados.
-  La quinta línea, como ya hemos observado en más de una ocasión, es el lugar de honor que corresponde al gobernante o rey. Aquí se le llama «el asiento celestial o dado por el Cielo», cuyo significado se desprende de su aparición en el Shih, III, i, oda 2. 1. El cinco es un número impar, y el quinto es, por lo tanto, el lugar «correcto» para una línea entera; también es el lugar central del trigrama, lo que indica cómo su ocupante debe caminar con seguridad en el debido orden. Véase más información en las notas del texto, [p. 68](Section_1#p68).
+  La quinta línea, como ya hemos observado en más de una ocasión, es el lugar de honor que corresponde al gobernante o rey. Aquí se le llama «el asiento celestial o dado por el Cielo», cuyo significado se desprende de su aparición en el Shih, III, i, oda 2. 1. El cinco es un número impar, y el quinto es, por lo tanto, el lugar «correcto» para una línea entera; también es el lugar central del trigrama, lo que indica cómo su ocupante debe caminar con seguridad en el debido orden. Véase más información en las notas del texto, [p. 68](../Section_1#p68).
 
 [^130]: 219:VI El párrafo 1 aquí es muy similar a la primera oración en las notas sobre el Thwan del Texto. Dice: «La fuerza sin peligro no produciría contienda; el peligro sin fuerza no podría contender».
-  2\. 'Una línea fuerte ha llegado y ha obtenido el lugar central': esta frase ha dado lugar a una doctrina sobre los cambios de trigramas y hexagramas, que ha oscurecido más que cualquier otra cosa la interpretación del Yî. ¿De dónde ha salido la segunda línea fuerte? De cien críticos recibimos la respuesta: 'De Tun ( ![](image/book/Confucianism/The_I_Ching/hex111000.jpg)).' El lector verá que si se hace que la segunda y la tercera línea del trigrama inferior cambien de lugar, el resultado es ![](image/book/Confucianism/The_I_Ching/hex111010.jpg) o Sung. La doctrina de cambiar las figuras mediante la manipulación de los tallos surgió entre la época de Wăn y su hijo y la de la composición de los Apéndices; pero no hay rastro de ella en el Texto real del Yî; Y esto imposibilita cualquier esquema para la interpretación de las figuras. Los editores de la pág. 220 del Yî imperial lo admiten, y en este pasaje descartan la doctrina por completo, refiriéndose al lenguaje del Thwan en los hexagramas 11 y 12 como perjudicial para ella. Véanse las notas allí y la Introducción, págs. 11-16. «Ha llegado una línea fuerte» debe interpretarse simplemente como equivalente a «hay una línea fuerte».
+  2\. 'Una línea fuerte ha llegado y ha obtenido el lugar central': esta frase ha dado lugar a una doctrina sobre los cambios de trigramas y hexagramas, que ha oscurecido más que cualquier otra cosa la interpretación del Yî. ¿De dónde ha salido la segunda línea fuerte? De cien críticos recibimos la respuesta: 'De Tun ( ![](../image/book/Confucianism/The_I_Ching/hex111000.jpg)).' El lector verá que si se hace que la segunda y la tercera línea del trigrama inferior cambien de lugar, el resultado es ![](../image/book/Confucianism/The_I_Ching/hex111010.jpg) o Sung. La doctrina de cambiar las figuras mediante la manipulación de los tallos surgió entre la época de Wăn y su hijo y la de la composición de los Apéndices; pero no hay rastro de ella en el Texto real del Yî; Y esto imposibilita cualquier esquema para la interpretación de las figuras. Los editores de la pág. 220 del Yî imperial lo admiten, y en este pasaje descartan la doctrina por completo, refiriéndose al lenguaje del Thwan en los hexagramas 11 y 12 como perjudicial para ella. Véanse las notas allí y la Introducción, págs. 11-16. «Ha llegado una línea fuerte» debe interpretarse simplemente como equivalente a «hay una línea fuerte».
   Si bien 'el gran hombre considera que es el medio debido y el lugar correcto', su decisión en cualquier asunto de controversia seguramente será la correcta.
 
 [^131]: 220:VII. Que "multitud" se da aquí como si fuera el significado del nombre Sze surgió, probablemente, de la sola línea entera en la figura. Ese es el símbolo del general; todas las demás líneas, divididas, sugieren la idea de una multitud obediente a sus órdenes. La ubicación del general en el centro del trigrama inferior, con su correlato correspondiente en la línea 5, sugiere la idea de firmeza y corrección que predomina en el hexagrama. Pero en la última oración, es el gobernante, y no el general del ejército, quien es el sujeto. Compárese lo que se dice de él con Mencio, I, i, cap. 3; ii, cap. 5, etc. <span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
@@ -601,7 +601,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
   La fuerza del Señor, además, está dirigida por la inteligencia y sus acciones son siempre en el momento oportuno, como las estaciones del cielo.
 
 [^139]: 226:XV El Thwan de este hexagrama fue tan breve que el autor trata aquí en general el tema de la humildad, mostrando cómo la valoran el cielo y la tierra, los espíritus y los hombres. El descenso de las influencias celestiales y la baja posición de la tierra en el párrafo 1 son ambos símbolos de la humildad. Las influencias celestiales se manifiestan en la belleza y la fertilidad de la tierra.
-  El camino del cielo se aprecia, por ejemplo, en la decadencia diaria del sol y la menguante de la luna tras su plenitud; el camino de la tierra en otoño. Sobre el significado de «Seres Espirituales (Kwei Shăn)», véase la Introducción, págs. [34](Introduction_3#p34), [35](Introduction_3#p35). Es difícil determinar qué idea le atribuía el autor al nombre. Lo que dice sobre la apreciación humana de la humildad es sorprendente y, en mi opinión, acertado.
+  El camino del cielo se aprecia, por ejemplo, en la decadencia diaria del sol y la menguante de la luna tras su plenitud; el camino de la tierra en otoño. Sobre el significado de «Seres Espirituales (Kwei Shăn)», véase la Introducción, págs. [34](../Introduction_3#p34), [35](../Introduction_3#p35). Es difícil determinar qué idea le atribuía el autor al nombre. Lo que dice sobre la apreciación humana de la humildad es sorprendente y, en mi opinión, acertado.
 
 [^140]: 227:XVI Lo que se dice en el párrafo 1 sobre las líneas ha sido señalado en las notas del Texto. 'La obediencia' es el atributo de Khwăn, el trigrama inferior, que toma la iniciativa en la acción de la figura; y aquí hace uso del movimiento, que es el atributo de <i>K</i>ăn, el trigrama superior.
   Apenas puedo rastrear la conexión entre las diferentes partes del párrafo 2. ¿No se basa en la armonía producida por la atronadora explosión entre el cielo y la tierra, como se declara en la página 227 del Apéndice II? Entonces entra en juego la analogía entre los fenómenos naturales y las experiencias humanas y sociales.
@@ -612,7 +612,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 [^142]: 229:XVIII El simbolismo aquí es el opuesto al de Sui. El trigrama superior, <i>K</i>ăn, es fuerte, denotando, según el rey Wăn, «el hijo menor»; y el inferior, Sol, es débil, denotando «la hija mayor». Que la hija mayor esté por debajo del hijo menor es totalmente correcto y ayuda a indicar el auspicio de un gran éxito. El atributo del Sol es la flexibilidad, y el de <i>K</i>ăn, la detención o el arresto. La débil flexibilidad que enfrenta la montaña que lo detiene da una idea del estado maligno que implica Kû.
   «Tres días antes y después del punto de inflexión» significa, literalmente, tres días antes y después de <i>k</i>iâ, siendo <i>k</i>iâ el nombre del primero de los «troncos terrenales» entre los caracteres cíclicos. Por lo tanto, tiene el significado de «inicio» y aquí denota el punto de inflexión en el que el desorden da paso al orden. Según «el procedimiento del Cielo», la historia es una narrativa de cambio, donde una situación da paso constantemente a otra, la opuesta. «Un reino inconmovible» no entra en el círculo de las ideas chinas.
 
-[^143]: 229:XIX Véase lo dicho sobre el cuarto párrafo en las págs. [98](Section_1#p98), [99](Section_1#p99) del Texto. Los demás párrafos no necesitan explicación más allá de lo que aparece en la traducción complementaria.
+[^143]: 229:XIX Véase lo dicho sobre el cuarto párrafo en las págs. [98](../Section_1#p98), [99](../Section_1#p99) del Texto. Los demás párrafos no necesitan explicación más allá de lo que aparece en la traducción complementaria.
 
 [^144]: 230:XX «El Gran Manifestador» es el regente, el sujeto principal del hexagrama, representado por la línea 5, cerca de la parte superior de la figura. En dicha figura, el trigrama inferior es <i>Kh</i>wăn, que representa la tierra, con el atributo de docilidad, y el superior es el Sol, que representa el viento, con los atributos de flexibilidad y penetración. Según la ubicación de la línea 5, así son las virtudes del regente.
   «El camino espiritual del Cielo» es el agente invisible e insondable que opera siempre según leyes generales y con regularidad invariable en lo que llamamos naturaleza. Compárese con este párrafo la definición de Shăn o Espíritu en el Apéndice III, 1, 32; y la doctrina de la acción divina, que se enseña en el Apéndice VI, 8, 9.
@@ -657,7 +657,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 [^158]: 240:XXXIV Párrafo 1. 'Lo que es grande' denota, en primer lugar, el grupo de cuatro líneas fuertes que nos llama la atención en la pág. 241 al observar la figura, y luego al hombre superior, o a los hombres fuertes en posiciones de poder, de los cuales estos son los representantes. <i>Kh</i>ien es el trigrama de la fuerza, y <i>K</i>ăn el del movimiento.
   Párrafo 2. Lo que es grande (debería ser) correcto: —que el «debería ser» debe añadirse en la traducción se desprende de esto, que el párrafo pretende ilustrar el texto: «será ventajoso ser firme y correcto». El poder del hombre se convierte entonces en un reflejo del gran poder que vemos obrar en la naturaleza, «imparcialmente», «altruistamente».
 
-[^159]: 241:XXXV Para aquellos que defienden la visión de que los hexagramas del Yî se han formado por cambios de las líneas al manipular con los tallos adivinatorios, las palabras del párrafo 2, que tenemos en la figura 'la línea débil avanzada y moviéndose hacia arriba', sugieren la derivación de Žin de Kwan, cuyas líneas 4.ª y 5.ª se hacen cambiar de lugar ( ![](image/book/Confucianism/The_I_Ching/hex110000.jpg)). Pero hemos visto que esa visión es inadmisible en la interpretación del Yî. Y una explicación simple del lenguaje se presenta de inmediato. Como dice Hsiang An-shih (dinastía Sung), 'De los tres trigramas «hijas» es solo Lî la que tiene su línea dividida ocupando el lugar central de honor, cuando es el trigrama superior en un hexagrama'.
+[^159]: 241:XXXV Para aquellos que defienden la visión de que los hexagramas del Yî se han formado por cambios de las líneas al manipular con los tallos adivinatorios, las palabras del párrafo 2, que tenemos en la figura 'la línea débil avanzada y moviéndose hacia arriba', sugieren la derivación de Žin de Kwan, cuyas líneas 4.ª y 5.ª se hacen cambiar de lugar ( ![](../image/book/Confucianism/The_I_Ching/hex110000.jpg)). Pero hemos visto que esa visión es inadmisible en la interpretación del Yî. Y una explicación simple del lenguaje se presenta de inmediato. Como dice Hsiang An-shih (dinastía Sung), 'De los tres trigramas «hijas» es solo Lî la que tiene su línea dividida ocupando el lugar central de honor, cuando es el trigrama superior en un hexagrama'.
 
 [^160]: 242:XXXVI El sol desapareciendo, como decimos, 'debajo de la tierra', o, como lo concibe el escritor chino, 'en medio de, o dentro de la tierra', indica suficientemente el oscurecimiento o la herida del brillo, la represión y resistencia de lo bueno y brillante.
   El rey Wăn no pertenecía a la línea de Shang. Aunque su soberano se opuso y lo persiguió, pudo seguir su propio camino, hasta que su linaje finalmente sustituyó al otro. No pudo ocurrir lo mismo con el conde de <i>K</i>î, miembro de la Casa de Shang. No pudo hacer nada para contribuir a su caída.
@@ -681,7 +681,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
   En el párrafo 2, el tema de la contribución, como el pago de impuestos (p. 247), pasa a un segundo plano. Los editores de Khang-hsî dicen: «Lo que se entiende por disminución en este hexagrama es la regulación del gasto o la contribución según el tiempo. Esto variaría en una familia según su pobreza o riqueza; y en un estado según la abundancia o escasez de sus recursos. Cuando se dice que debe haber sinceridad junto con una disminución, significa que, aunque tal disminución es inevitable, lo que se da debe darse sinceramente. Un pequeño sacrificio ofrecido con sinceridad es aceptado. En el lenguaje, «Hay un momento en que lo fuerte debe ser disminuido y lo débil ser fortalecido», no debemos encontrar las dos cestas en la disminución de lo fuerte. «Lo fuerte» es lo esencial, en este caso la sinceridad; «Lo débil» es lo que no es importante, la cantidad y la forma de la ofrenda.» Si uno complementa la insuficiencia de su ofrenda con la abundancia de su sinceridad, la insignificancia de sus dos canastas no será despreciada.
 
 [^166]: 248:XLII 1. El proceso de formación de los trigramas aquí es inverso al del hexagrama anterior; y está sujeto a las observaciones que he hecho al respecto. Por supuesto, el pueblo está lleno de complacencia y satisfacción con las labores de su gobernante para su propio bien.
-  2\. La mención de «la acción de la madera» se refiere al trigrama superior Sol, símbolo tanto del viento como de la madera. De madera se construyen barcos y naves, con los que se puede cruzar la gran corriente. En tres hexagramas, este, 59 y 61, de los cuales el Sol forma parte, se menciona el cruce de la gran corriente. Generalmente se dice que el trigrama inferior <i>K</i>ăn también simboliza la madera; pero esto se obtiene mediante un proceso indirecto. <i>K</i>ăn ocupa el lugar del este en la disposición de los trigramas de Wan; pero el este simboliza la primavera, cuando comienza el crecimiento de la vegetación; y, por lo tanto, <i>K</i>ăn podría simbolizar la madera. Se afirmó en [p. 33](Introduction_3#p33) que la doctrina de «los cinco elementos» no aparece en el Yî. <i>Kh</i>ăng-žze toma madera ( ![](image/book/Confucianism/The_I_Ching/24800.jpg) mû), 'como un error de imprenta para aumentar ( ![](image/book/Confucianism/The_I_Ching/24801.jpg) yî).'
+  2\. La mención de «la acción de la madera» se refiere al trigrama superior Sol, símbolo tanto del viento como de la madera. De madera se construyen barcos y naves, con los que se puede cruzar la gran corriente. En tres hexagramas, este, 59 y 61, de los cuales el Sol forma parte, se menciona el cruce de la gran corriente. Generalmente se dice que el trigrama inferior <i>K</i>ăn también simboliza la madera; pero esto se obtiene mediante un proceso indirecto. <i>K</i>ăn ocupa el lugar del este en la disposición de los trigramas de Wan; pero el este simboliza la primavera, cuando comienza el crecimiento de la vegetación; y, por lo tanto, <i>K</i>ăn podría simbolizar la madera. Se afirmó en [p. 33](../Introduction_3#p33) que la doctrina de «los cinco elementos» no aparece en el Yî. <i>Kh</i>ăng-žze toma madera ( ![](../image/book/Confucianism/The_I_Ching/24800.jpg) mû), 'como un error de imprenta para aumentar ( ![](../image/book/Confucianism/The_I_Ching/24801.jpg) yî).'
   3\. Las palabras 'el cielo dispensa y la tierra produce' se basan en la supuesta génesis de la figura de <i>Kh</i>ien y Khwăn
 
 [^167]: 249:XLIII 1. La última cláusula del párrafo 1 es buena en sí misma, pues demuestra que el estadista fuerte y digno, al expulsar a un hombre malo del estado, no se deja llevar por sentimientos artísticos privados. Sin embargo, difícilmente puede afirmarse que el sentimiento, tal como se expresa, se derive del simbolismo.
@@ -703,7 +703,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
 [^172]: 253:XLVIII <i>K</i>ăng Khang-<i>Kh</i>ăng dice:—«Khân, el trigrama superior, representa el agua, y Sol, el inferior, la madera. Esta madera representa la rueda hidráulica o polea con su cubo, que desciende a la boca del manantial y sube el agua». Esta podría ser una explicación correcta de la figura, aunque su lectura de abajo a arriba parece extraña a primera vista.
   Párrafo 2. Se insiste en que la forma del pozo no sufre grandes cambios como ejemplo de la inmutabilidad de los grandes principios de la naturaleza humana y del gobierno. Pero que esta verdad pueda aprenderse de las líneas fuertes y centrales solo produce una sonrisa. Lo mismo ocurre con las observaciones sobre las otras dos frases del Thwan.
 
-[^173]: 254:XLIX Párrafo 1. Lî, el trigrama inferior, representa el fuego, y Tui, el superior, el agua. El agua extingue el fuego, y el fuego, a su vez, seca el agua. Cada uno, aparentemente, produce un cambio en el otro. De nuevo, según el esquema de trigramas del rey Wăn, como se muestra en la [p. 33](Introduction_3#p33), y en la Figura 1, Lámina III, Lî es la segunda hija, y Tui la menor. Es probable que sus voluntades difieran en el amor y en otros aspectos; pero este simbolismo no sugiere tan fácilmente la idea de cambio.
+[^173]: 254:XLIX Párrafo 1. Lî, el trigrama inferior, representa el fuego, y Tui, el superior, el agua. El agua extingue el fuego, y el fuego, a su vez, seca el agua. Cada uno, aparentemente, produce un cambio en el otro. De nuevo, según el esquema de trigramas del rey Wăn, como se muestra en la [p. 33](../Introduction_3#p33), y en la Figura 1, Lámina III, Lî es la segunda hija, y Tui la menor. Es probable que sus voluntades difieran en el amor y en otros aspectos; pero este simbolismo no sugiere tan fácilmente la idea de cambio.
   2\. La primera frase sugiere cómo se supera en general la aversión al cambio por parte de las personas.
   El segundo sugiere cómo el cambio que procede de la inteligencia y da satisfacción general tendrá éxito.
   El párrafo 3 nos dice cómo los mayores cambios naturales y los mayores cambios políticos son igualmente exitosos y admirables cuando se llevan a cabo correctamente.
@@ -728,7 +728,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
   3\. La posición de una línea dividida sobre una entera siempre se representa como un mal presagio; es difícil entender por qué. Hay menos indicios de razón en ello que en otras cosas que se dicen sobre las líneas. Las líneas están donde no pueden estar debido a la forma en que se formaron las figuras.
 
 [^179]: 259:LV Los editores de Khang-hsî señalan que el párrafo 1 no explica tanto el significado del nombre Făng, sino que explica por qué el hexagrama, compuesto de Lî y <i>K</i>ăn, tiene tal significado.
-  El párrafo 3 parece bastante contrario a la lección del hexagrama. Según este, la prosperidad no puede mantenerse, como tampoco podemos tener las demás estaciones sin invierno ni un día perpetuo sin noche; pero el objetivo del ensayo es exhortar a mantener la prosperidad. ¿Acaso el auge de toda república y causa debe ir seguido de su decadencia y caída? La mente se niega a admitir los cambios de estaciones, etc., como una verdadera analogía para todos los movimientos morales e intelectuales. Véase una observación importante sobre la frase final en la Introducción, págs. [34](Introduction_3#p34), [35](Introduction_3#p35).
+  El párrafo 3 parece bastante contrario a la lección del hexagrama. Según este, la prosperidad no puede mantenerse, como tampoco podemos tener las demás estaciones sin invierno ni un día perpetuo sin noche; pero el objetivo del ensayo es exhortar a mantener la prosperidad. ¿Acaso el auge de toda república y causa debe ir seguido de su decadencia y caída? La mente se niega a admitir los cambios de estaciones, etc., como una verdadera analogía para todos los movimientos morales e intelectuales. Véase una observación importante sobre la frase final en la Introducción, págs. [34](../Introduction_3#p34), [35](../Introduction_3#p35).
 
 [^180]: 260:LVI Lo dicho en el párrafo 1 pretende explicar el Thwan, y no el significado del nombre Lü. Se asume que Lü significa un extraño; y el autor, a partir de la posición de la quinta línea y de los atributos de los trigramas que la componen, deriva las ideas de humildad, docilidad, serenidad e inteligencia como características propias de un extraño, las cuales probablemente le permitan alcanzar sus deseos y, por consiguiente, progresar.
 
@@ -742,7 +742,7 @@ El avance se realiza de acuerdo con la corrección:—(el sujeto del hexagrama) 
   El trigrama superior, Sol, representa tanto el viento como la madera. Para explicar el significado de Hwan, se toma el del viento; el escritor aquí se vale del de la madera, como material para construir una embarcación con la que cruzar la gran corriente.
 
 [^184]: 262:LX Párrafo 1. Véase lo que se dice en el Texto del Thwan.
-    <span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+    <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
   'Su curso llegará a su fin' es lo opuesto de la insinuación que se da en <i>K</i>ieh sobre progreso y logro.
   En el párrafo 3 el escritor vuelve a esta insinuación de la figura: por los atributos de los trigramas; por las posiciones apropiadas de las líneas 4 y 5; y, sobre todo, por el lugar central y correcto del 5.
   El párrafo 4 ilustra la importancia de hacer las cosas de acuerdo con las reglas, haciendo referencia a las operaciones de la naturaleza y a las disposiciones e instituciones de los gobernantes sabios.

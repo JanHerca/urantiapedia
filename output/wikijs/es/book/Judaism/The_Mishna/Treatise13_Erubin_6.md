@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ### CAPÍTULO VI.
 

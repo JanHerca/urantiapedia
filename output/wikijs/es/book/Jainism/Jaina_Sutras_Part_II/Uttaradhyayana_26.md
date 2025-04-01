@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 VIGÉSIMA SEXTA CONFERENCIA. LA CONDUCTA CORRECTA.
 
@@ -58,7 +58,7 @@ En el mes de Âshâ<i>dh</i>a el Paurushî (de la noche) contiene dos pies (pada
 
 La quincena oscura de Âshâ<i>dh</i>a, Bhâdrapada, Kârttika, Pausha, Phâlguna y Vai<i>s</i>âkha se conoce como avamarâtrâs [^364]. (15)
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 En el trimestre del año que comprende los tres meses <i>G</i>yêsh<i>th</i>âmûla, Âshâ<i>dh</i>a y <i>S</i>râva<i>n</i>a, la inspección (matutina) debe durar seis dígitos (más allá de ¼ Paurushî); en el segundo trimestre, ocho; en el tercero, diez; en el cuarto, ocho [^365]. (16)
 
@@ -72,7 +72,7 @@ Cuando queda una pequeña parte del cuarto [^367], en el que se encuentra el nak
 
 En el primer cuarto (del primer Paurushî) debe inspeccionar (y limpiar) sus cosas, presentar sus respetos a su superior y luego comenzar a estudiar, sin dejarse afectar por ningún dolor [^369]. (21)
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 En el (último) cuarto del primer Paurushî, después de presentar sus respetos al Gurú, un monje debe inspeccionar su cuenco de limosnas, sin realizar, sin embargo, el Kâla-pratikrama<i>n</i>a [^370]. (22)
 
@@ -84,7 +84,7 @@ De pie, sostiene firmemente su paño y lo inspecciona primero lentamente, luego 
 
 Debe evitar la falta de atención: 1. al comenzar su trabajo; 2. al recoger las esquinas de la tela; 3. al doblarla; 4. al sacudir el polvo; 5. al colocarla (sobre algún otro trozo de tela); 6. al sentarse sobre los cuartos traseros [^374]. (26)
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 (Además, hay que evitar) sostener la tela sin apretar, o por una esquina, o de manera que se agite, o de manera que se someta a fricción, o de manera que se sacuda de diferentes maneras, o si uno se ha equivocado en el número de pliegues (véase versículo 25), contar (en voz alta o con la ayuda de los dedos, etc.) [^375] (27)
 
@@ -110,7 +110,7 @@ En el último cuarto del cuarto Paurushî debe rendir homenaje al Gurú y, despu
 
 Un monje celoso también debe inspeccionar el lugar donde descarga sus excrementos y orina, y luego (hasta que se ponga el sol) debe atravesar Kâyôtsarga sin dejarse afectar por ningún dolor. (39)
 
-<span id="p148">[<sup><small>pág. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Luego deberá, en el debido orden, reflexionar sobre todas las transgresiones que ha cometido durante el día, respecto al conocimiento, la fe y la conducta. (40)
 

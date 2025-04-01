@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 
 La luz que emanaba del cuerpo del héroe llegaba incluso a los reinos donde Mara, la Malvada, reinaba suprema. Deslumbró a Mara, y le pareció oír una voz que decía:
@@ -53,11 +53,11 @@ Pero Mara, al ver las legiones que lo rodeaban, sintió que recuperaba el valor.
 
 Para el hombre de energía, una batalla solo puede terminar en victoria. Somos valientes; sin duda ganaremos. ¿Qué fuerza puede tener este hombre? Está solo. Avanzaré contra él con un vasto ejército y lo abatiré al pie del árbol.
 
-“La simple cantidad de hombres no hace la fuerza de un ejército”, dijo Sarthavaha. “El sol puede eclipsar a una miríada de luciérnagas. Si la sabiduría es la fuente de su poder, un solo héroe puede derrotar a innumerables soldados”.
+«La simple cantidad de hombres no hace la fuerza de un ejército», dijo Sarthavaha. «El sol puede eclipsar a una miríada de luciérnagas. Si la sabiduría es la fuente de su poder, un solo héroe puede derrotar a innumerables soldados».
 
 Pero Mara no le hizo caso. Ordenó al ejército que avanzara de inmediato, y Sarthavaha pensó:
 
-“El que está loco de orgullo nunca se recuperará”.
+«El que está loco de orgullo nunca se recuperará».
 
 El ejército de Mara era un espectáculo aterrador. Estaba repleto de picas, flechas y espadas; muchos portaban enormes hachas de guerra y pesados ​​garrotes. Los soldados eran negros, azules, amarillos, rojos, y sus rostros eran aterradores. Sus ojos eran llamas crueles; sus bocas escupían sangre. Algunos tenían orejas de cabra, otros de cerdo o de elefante. Muchos tenían cuerpos con forma de jarra. Uno tenía patas de tigre, joroba de camello y cabeza de burro; otro tenía melena de león, cuerno de rinoceronte y cola de mono. Había muchos con dos, cuatro y cinco cabezas, y otros con diez, doce y veinte brazos. En lugar de adornos, llevaban mandíbulas, calaveras y dedos humanos marchitos. Y sacudiendo sus cabezas peludas, avanzaban con risas espantosas y gritos salvajes:
 
@@ -67,7 +67,7 @@ Sarthavaha se mantuvo apartado. Unos amigos se habían reunido a su alrededor y 
 
 ¡Insensatos! Creen que está loco porque medita; creen que es cobarde porque está tranquilo. Son ustedes los locos, son ustedes los cobardes. Desconocen su poder; debido a su gran sabiduría, los vencerá a todos. Si fueran tan numerosos como los granos de arena en las orillas del Ganges, no le tocarían ni un solo cabello. ¡Y creen que pueden matarlo! ¡Oh, retrocedan! No intenten hacerle daño; inclínense ante él con reverencia. Su reinado ha llegado. Los chacales aúllan en los bosques cuando el león no está, pero cuando el león ruge, los chacales huyen aterrorizados. ¡Insensatos, insensatos! Gritan con orgullo mientras el amo calla, pero cuando el león habla, se dan a la fuga.
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 El ejército escuchó con desprecio estas sabias palabras de Sarthavaha y sus amigos. Siguió avanzando.
 
@@ -83,7 +83,7 @@ Y, de repente, llenos de terror al ver estos prodigios, los soldados del Maligno
 
 Y Mara se retorcía las manos con angustia, y gritaba:
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ¿Qué he hecho para que este hombre me derrote? ¡Pues no son pocos los que han accedido a sus deseos! ¡A menudo he sido amable y generoso! Esos cobardes que huyen podrían dar fe de ello.
 
@@ -95,7 +95,7 @@ Sí, han sido amables y generosos. Daremos testimonio de ello.
 
 Entonces salió una voz de la tierra que decía:
 
-“Daré testimonio de su generosidad”.
+«Daré testimonio de su generosidad».
 
 Mara se quedó muda de asombro. La voz continuó:
 

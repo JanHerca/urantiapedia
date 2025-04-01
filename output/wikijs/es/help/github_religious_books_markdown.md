@@ -272,10 +272,10 @@ Si el libro no usa versículos necesitamos algún mecanismo para poder referirno
 La marca de página debe incluirse entre las palabras en las que se pasa de una página a otra como sigue:
 
 ```
-Y el ángel del Señor, apareciendo a Eleazar, el Gran Sacerdote, en una visión semejante, le dijo: He aquí que Joaquín viene hacia ti con ofrendas. Recibe sus dones religiosamente y conforme a la ley, como conviene. Porque el Señor ha escuchado sus ruegos, y ha realizado su <span id="p18">[<sup><small>p. 18</small></sup>]</span> demanda. Y el Gran Sacerdote se despertó de su sueño, se levantó, y dio gracias al Altísimo, diciendo: Bendito sea el Señor, Dios de Israel, porque no desdeña a sus servidores que le imploran. Después, el ángel apareció por segunda vez a Ana, y le dijo: He aquí que tu marido llega. Levántate, ve a buscarlo, y recíbelo con alegría. Y Ana se levantó, revistió su atavío nupcial, y fue a buscar a su marido. Y, cuando lo divisó, se prosternó con júbilo ante él, y le echó al cuello los brazos.
+Y el ángel del Señor, apareciendo a Eleazar, el Gran Sacerdote, en una visión semejante, le dijo: He aquí que Joaquín viene hacia ti con ofrendas. Recibe sus dones religiosamente y conforme a la ley, como conviene. Porque el Señor ha escuchado sus ruegos, y ha realizado su <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> demanda. Y el Gran Sacerdote se despertó de su sueño, se levantó, y dio gracias al Altísimo, diciendo: Bendito sea el Señor, Dios de Israel, porque no desdeña a sus servidores que le imploran. Después, el ángel apareció por segunda vez a Ana, y le dijo: He aquí que tu marido llega. Levántate, ve a buscarlo, y recíbelo con alegría. Y Ana se levantó, revistió su atavío nupcial, y fue a buscar a su marido. Y, cuando lo divisó, se prosternó con júbilo ante él, y le echó al cuello los brazos.
 ```
 
-Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
+Se puede ver que la marca es: `<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>`.
 
 Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18` (`ppp` es un texto que sabemos que nunca va a ocurrir), por seguir con el ejemplo anterior. Luego se pueden buscar esas marcas y reemplazarlas por las definitivas de un modo automático como hemos indicado en otro ejemplo más arriba. Es decir, así también valdría:
 

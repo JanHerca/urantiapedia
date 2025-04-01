@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p217">[<sup><small>pág. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 ## ADHYÂYA III, KA<i>ND</i>IKÂ 1.
 
@@ -62,7 +62,7 @@ Si da a los hombres, este es el sacrificio a los hombres.
 
 2. Debe salir de la aldea hacia el este o el norte, bañarse en agua, beber agua en un lugar limpio, cubierto con el cordón sacrificial; debe extender, sin que su ropa esté mojada, una gran cantidad de hierba Darbha, cuyos mechones estén orientados hacia el este, y sentarse sobre ella con la cara vuelta hacia el este, formando un regazo, juntando las manos en las que sostiene purificadores (es decir, hojas de Kusa), de modo que la mano derecha quede hacia arriba.
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Se entiende (en el Sruti): «Esto es la hierba Darbha: es la esencia de las aguas y las hierbas. Así, Él dota de esencia al Brahman».
 
@@ -112,7 +112,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 
 
-<span id="p221">[<sup><small>pág. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 5.
 
@@ -178,7 +178,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 5\. Si ha tenido una pesadilla, debe adorar al sol con los dos versos: «Hoy, dios Savitri» (Rig-veda V, 82, 4, 5), y con los cinco versos: «¡Qué pesadillas hay entre las vacas!» (Rig-veda VIII, 47, 14 ss.).
 
-6\. O con (el verso), “Quienquiera, oh rey, ya sea un compañero o un amigo” (Rig-veda II, 28, 10).
+6\. O con (el verso), «Quienquiera, oh rey, ya sea un compañero o un amigo» (Rig-veda II, 28, 10).
 
 7\. Cuando estornude, bostece, ve algo desagradable, percibe mal olor, le palpita el ojo y oye ruidos en los oídos, debe murmurar: «Que mis ojos tengan buena vista, mi rostro esté vigorizado y mis oídos oigan bien. ¡Que la voluntad y la comprensión moren en mí!».
 
@@ -269,7 +269,7 @@ Que estos fuegos que están estacionados en los altares llamados Dhish<i>n</i>y�
 
 
 
-<span id="p229">[<sup><small>pág. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 9.
 
@@ -302,7 +302,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 4\. 'De la inhalación y la exhalación'—(esto lo dice) en voz baja,
 
-5\. Y (el verso), “Ven aquí, Indra, con tus caballos de hermoso sonido y color barbecho” (Rig-veda III, 45, 1).
+5\. Y (el verso), «Ven aquí, Indra, con tus caballos de hermoso sonido y color barbecho» (Rig-veda III, 45, 1).
 
 6\. [^560]. El anciano murmura entonces: «A la inhalación y la exhalación yo, el de amplia extensión, recurro contigo. Al dios Savitri te encargo» —y el verso.
 
@@ -466,7 +466,7 @@ Fin del tercer Adhyâya.
 
 [^551]: 227:6 8, 6. «En lo alto» significa «no en el suelo» (Nârâya<i>n</i>a). Sobre el karma gaudânika<i>m</i> (el afeitado de la barba), comp. arriba, Adhyâya I, Ka<i>nd</i>ikâ 18. La palabra «ceremonia» significaría aquí, según Nârâya<i>n</i>a, que debe realizar el rito solo, sin observar las prescripciones mencionadas arriba, I, 18, 7.
 
-[^552]: 227:7 Así, en lugar de decir: “¡Hierba! ¡Protégelo!” (I, 17, 8), debe decir: “¡Hierba! ¡Protégeme!”, y así sucesivamente.
+[^552]: 227:7 Así, en lugar de decir: «¡Hierba! ¡Protégelo!» (I, 17, 8), debe decir: «¡Hierba! ¡Protégeme!», y así sucesivamente.
 
 [^553]: 227:8 Ekaklîtaka es, según Nârâya<i>n</i>a y el Prayogaratna, la semilla de una fruta Kara<i>nd</i>a (Pongamia Glabra, Vent.) que contiene solo un grano. Dichos granos se machacan antes de frotarse con ellos.
 

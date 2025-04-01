@@ -79,7 +79,7 @@ Ráhu [^1005] el terrible Dragón brilla.
 Treinta alcatraces cerca de su costado,
 Su carro con ejes está bien provisto:
 
-<span id="p483">[<sup><small>pág. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 Y brillando como la luz de las estrellas
 Brillan sus dos poderosas cimitarras.
@@ -200,7 +200,7 @@ Akampan y el poder de Prahasta,
 Estos, estos y muchos Rákshas más,
 Cada maestro de las armas que portaba,
 
-<span id="p484">[<sup><small>pág. 484</small></sup>]</span>
+<span id="p484"><sup><small>[ p. 484 ]</small></sup></span>
 
 A quien derrotó a todo enemigo en la lucha,
 Nadie pudo jamás someter a los vencedores,
@@ -223,7 +223,7 @@ Obsérvalos cuando los lados se oscurezcan;
 Esté preparado en la oscuridad de la noche,
 Y antes que llegue la mañana trae la luz.
 Enseñados por nuestra pérdida, no podemos despreciarla
-“Estas legiones de nacidos en el bosque.”
+«Estas legiones de nacidos en el bosque.»
 
 Él cesó: los señores Rákshas obedecieron;
 Cada uno en su puesto sus tropas dispuestas:
@@ -323,7 +323,7 @@ En el salón de Rávan ​​el destino de los príncipes.
 Las sombras de la noche que cae ocultas
 La carnicería del campo de batalla,
 
-<span id="p485">[<sup><small>pág. 485</small></sup>]</span>
+<span id="p485"><sup><small>[ p. 485 ]</small></sup></span>
 
 Los cuales, al oír cada uno una marca encendida,
 Hanuman y Vibhishan escanearon,
@@ -428,7 +428,7 @@ Allí estaba la luminosa morada de Kuvera;
 Allí brillaba el arma mística de Brahma.
 Allí estaba la noble colina donde
 
-<span id="p486">[<sup><small>pág. 486</small></sup>]</span>
+<span id="p486"><sup><small>[ p. 486 ]</small></sup></span>
 
 Aquellas hierbas brillaban con un brillo maravilloso.
 Y, embelesado por la gloriosa vista,
@@ -550,7 +550,7 @@ Nikumbha vio morir a su hermano,
 Y sus ojos brillaron de furia.
 Se lanzó con poderoso balanceo y movimiento.
 
-<span id="p487">[<sup><small>pág. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 Su hacha contra el rey Vánar;
 Pero destrozado en esa roca viva
@@ -558,7 +558,7 @@ Se partió en fragmentos por el impacto.
 Sugríva, levantándose para el golpe,
 Levantó su enorme mano y golpeó a su enemigo.
 Y en el polvo yacía el gigante.
-Jadeando en sangre su alma se aleja. [1](Libro_6_100#fn1010)
+Jadeando en sangre su alma se aleja. [1](../Libro_6_100#fn1010)
 
 <figure class="table chapter-navigator">
   <table>

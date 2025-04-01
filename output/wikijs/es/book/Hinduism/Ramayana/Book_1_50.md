@@ -72,7 +72,7 @@ Hasta que a través de las profundidades de la tierra te abras paso.
 Entonces hiere al ladrón y llévalo a la muerte.
 El cargador regresa triunfante.
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Los sesenta mil jefes obedecieron:
 A través de lo profundo de la tierra hicieron su camino.
@@ -116,12 +116,12 @@ A su alrededor caminaban con paso solemne,
 Y lo honró con amables saludos,
 Luego, hacia abajo, minaron su camino.
 Ganaron el terreno entre el este y el norte.
-Cuya fama siempre se proclama, [1b](Libro_1_50#fn189)
+Cuya fama siempre se proclama, [1b](../Libro_1_50#fn189)
 Y impulsado por una tormenta de rabia,
 Cavando a través de la tierra, mantuvieron su curso.
 Entonces todos los príncipes, de alma noble,
 De maravilloso vigor, fuerte y audaz,
-Vi a Vásudeva [2b](Libro_1_50#fn190) de pie allí
+Vi a Vásudeva [2b](../Libro_1_50#fn190) de pie allí
 En la forma de Kapil le encantaba usar,
 Y cerca del Dios eterno
 El cargador víctima cortó el césped.
@@ -132,7 +132,7 @@ Gritando en voz alta: ¡De pie, villano! ¡De pie!
 —¡Adelante! ¡Adelante! —gritó el gran Kapil.
 Su pecho se llenó de pasión;
 Entonces, con su poder, esa orgullosa formación
-Todo quedó reducido a montones de cenizas. [3b](Libro_1_50#fn191)
+Todo quedó reducido a montones de cenizas. [3b](../Libro_1_50#fn191)
 
 
 
@@ -147,7 +147,7 @@ Un rival para los poderosos de antaño.
 Ahora sigue el camino de tus tíos.
 Y seguir la pista del ladrón del caballo.
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Para protegerte toma tu espada y tu arco,
 Porque enormes y fuertes son las bestias de abajo.
@@ -224,7 +224,7 @@ Vuelve, y toma contigo el corcel;
 Así tendrá éxito el rito de tu abuelo.
 
 El príncipe Ans'umán el fuerte y valiente
-Siguió la rede Suparna [1b](Libro_1_50#fn193) dio.
+Siguió la rede Suparna [1b](../Libro_1_50#fn193) dio.
 El glorioso héroe tomó el caballo,
 Y rápidamente emprendió el camino hacia casa.
 Se dirigió directamente hacia el ansioso rey,
@@ -268,7 +268,7 @@ Dilípa entonces, la buena y grande,
 Tan pronto como supo el destino de sus parientes,
 Abatido por la aflicción, con la mente turbada,
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Después de pensarlo mucho no pude encontrar ninguna cura.
 "¿Cómo puedo traer?" suspiró el doliente,
@@ -338,7 +338,7 @@ Con dulces y amables palabras respondió:
 ¡Bhagirath del poderoso coche!
 La línea de Ikshváku es bendecida en ti,
 Y así como oras, así será.
-Gangá, cuyas olas fluyen en Swarga [1b](Libro_1_50#fn196),
+Gangá, cuyas olas fluyen en Swarga [1b](../Libro_1_50#fn196),
 Es hija del Señor de las Nieves.
 Gana que Siva te preste su ayuda
 Para sostenerla en medio de su descenso,
@@ -348,7 +348,7 @@ Y nadie puede sostener su peso excepto Él,
 La deidad que empuña el tridente.
 Dicho esto, el Señor supremo
 Le dirigió la corriente celestial;
-Y luego con Dioses y Maruts [2b](Libro_1_50#fn197) se fue
+Y luego con Dioses y Maruts [2b](../Libro_1_50#fn197) se fue
 Al cielo sobre el firmamento.
 
 
@@ -388,7 +388,7 @@ Y la mantuvo vagando, donde,
 Densos como los bosques del Himalaya, se extendían
 Los enredos de su cabello.
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 No encontró camino a la tierra, avergonzada,
 Aunque luchó mucho y con mucho esfuerzo,
@@ -506,7 +506,7 @@ Donde los hijos de Sagar habían cavado su camino.
 Así que, conduciendo a través de las cavernas inferiores de la tierra,
 Las olas purificadoras del río.
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Sobre el polvo de sus parientes el señor
 Se derramó su libación fúnebre.
@@ -630,7 +630,7 @@ Allí, los príncipes a su lado,
 Los mejores de los santos ermitaños huyeron.
 Era una ciudad sumamente bella.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Esto podría compararse con el cielo mismo.
 Luego, palma contra palma suplicante,
@@ -728,7 +728,7 @@ Y vinieron sesenta millones de hermosas.
 Nacidos de la espuma y el agua, estos
 Fueron acertadamente llamadas Apsarases. [^206]
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Cada una tenía sus doncellas. La lengua fallaría—
 Tan grande es la multitud, que es difícil contar la historia,
@@ -769,7 +769,7 @@ Un loto en su mano perfecta,
 Y con cariño, del loto brotado,
 Vishnu se aferró a la flor de loto.
 Sus dioses arriba y los hombres abajo
-Como lo saben la Reina de la Belleza y la Fortuna. [1b](Libro_1_50#fn210)
+Como lo saben la Reina de la Belleza y la Fortuna. [1b](../Libro_1_50#fn210)
 Dioses, titanes y el tren de juglares
 Todavía se agitaba y se trabajaba el atribulado núcleo.
 Al fin el premio tan locamente buscado,
@@ -792,7 +792,7 @@ Sí, Vishnu, Dios omnipresente,
 Bajo sus pies pisaron los Titanes.
 La raza de Aditi, los hijos de la luz,
 mató a la prole de Diti en una lucha cruel.
-Entonces Indra, que destruyó la ciudad [2b](Libro_1_50#fn211), obtuvo
+Entonces Indra, que destruyó la ciudad [2b](../Libro_1_50#fn211), obtuvo
 Su imperio, y en gloria reinó
 Sobre los tres mundos con bardo y sabio
 Regocijándose en su herencia.
@@ -806,7 +806,7 @@ Salvaje por el dolor de una madre sin hijos.
 A Kas'yap, hijo de Marícha, le habló:
 Su marido: “¡Oh tú, gloriosa!
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Muertos están los niños, ya no son míos,
 Te di a luz hijos poderosos.
@@ -857,7 +857,7 @@ Y un nuevo hermano verás.
 Por tu causa lo criaré noblemente,
 Y el deseo de guerra alimentará su alma;
 Entonces estarás libre de preocupaciones y de tristeza.
-Verás los mundos inclinarse ante él.' [1](Libro_1_50#fn212)
+Verás los mundos inclinarse ante él.' [1](../Libro_1_50#fn212)
 
 
 
@@ -910,7 +910,7 @@ Vis'álá, gloria de su época,
 Por quien, un monarca libre de culpa,
 ¿Fue esta hermosa ciudad construida por Vis'álá?
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Su hijo fue Hemachandra, todavía
 Famoso por su poder y habilidad bélica.
@@ -1031,7 +1031,7 @@ Para ver al poderoso santo tan cerca,
 Y cuando el santo ermitaño espió
 Con atuendo de ermitaño, el de los Mil Ojos,
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Él lo sabía todo, su furia estalló.
 El pecador continuó mientras hablaba:
@@ -1061,7 +1061,7 @@ Y hacer puro de nuevo al pecador.
 El honor que se le debe rendir a él, tu invitado,
 Limpiará tu pecho enamorado y errante,
 Te devuelvo a mi lado la dicha,
-Y dale tu forma apropiada una vez más.' [1](Libro_1_50#fn218)
+Y dale tu forma apropiada una vez más.' [1](../Libro_1_50#fn218)
 
 Así le dijo a su esposa culpable:
 Entonces el santo Gautama huyó lejos.
@@ -1150,7 +1150,7 @@ Dónde podemos quedarnos y descansar un rato.
 El ermitaño hizo lo que Ráma oró,
 Y en un lugar hizo su alojamiento,
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Lejos de la multitud, aislado, claro,
 Con abundante agua fluyendo cerca.

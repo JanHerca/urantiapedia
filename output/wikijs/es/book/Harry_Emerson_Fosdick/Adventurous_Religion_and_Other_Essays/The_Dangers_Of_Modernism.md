@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 ## I
 
@@ -54,7 +54,7 @@ Ese tipo de cosas son ciertas en el caso de muchos predicadores liberales. Está
 
 Tal es la prueba de cualquier cristianismo, y el modernismo no tiene por qué esperar favores especiales. Nuestro principal enemigo no es el «literalismo acre». Eso no puede perdurar. Las estrellas en sus órbitas luchan contra ese Sísara. Nuestro principal enemigo es el «liberalismo árido».
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 ## II
 

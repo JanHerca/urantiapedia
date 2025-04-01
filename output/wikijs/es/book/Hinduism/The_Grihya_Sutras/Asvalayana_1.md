@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 ## ADHYÂYA I, KA<i>ND</i>IKÂ 1.
 
@@ -58,7 +58,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 
 
-<span id="p161">[<sup><small>pág. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## KANDIKÂ. 2.
 
@@ -132,7 +132,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 7\. [^376]. No existen tales oblaciones, según algunos (maestros).
 
-8\. En la boda, la cuarta oblación con el verso: “Tú (oh Agni) eres Aryaman hacia las muchachas” (Rig-veda V, 3, 2).
+8\. En la boda, la cuarta oblación con el verso: «Tú (oh Agni) eres Aryaman hacia las muchachas» (Rig-veda V, 3, 2).
 
 
 
@@ -156,7 +156,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ## KANDIK 6.
 
@@ -246,7 +246,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 5\. Llevan constantemente el fuego nupcial al frente. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
-6 [^401]. En lugares hermosos, árboles y encrucijadas, que murmure (el verso): “Que ningún caminante nos encuentre” (Rig-veda X, 85, 32).
+6 [^401]. En lugares hermosos, árboles y encrucijadas, que murmure (el verso): «Que ningún caminante nos encuentre» (Rig-veda X, 85, 32).
 
 7\. En cada lugar de residencia (en su camino) que mire a los observadores, con (el verso), 'La buena suerte trae a esta mujer' (Rig-veda X, 85, 33).
 
@@ -439,7 +439,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 
 
-<span id="p181">[<sup><small>pág. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 ## KANDIK 14.
 
@@ -705,7 +705,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 
 
-<span id="p191">[<sup><small>pág. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 ## KANDIK 22.
 
@@ -1078,7 +1078,7 @@ Fin del primer Adhyâya.
 
 [^430]: 178:15 Sobre los ritos relativos al escupitajo, véase Kâtyâyana VI, 10, 1 seq.; Indische Studien, X, 346.
 
-[^431]: 178:1 12, 1. Parece indudable que el profesor Stenzler tiene razón al otorgar a <i>k</i>aitya en este capítulo su significado común de santuario religioso ('Denkmal'). El texto muestra que el sacrificio de Kaitya no se ofrecía como otros sacrificios en la casa del sacrificador, sino que en algunos casos la ofrenda debía enviarse, al menos simbólicamente, a lugares distantes. Esto confirma la traducción que el profesor Stenzler hace de <i>k</i>aitya. Nârâya<i>n</i>a explica el _k<i>n</i>k_itte bhava y dice: «Si hace un voto a cierta deidad, diciendo: “Si consigo tal o cual deseo, te ofreceré un sacrificio Â<i>n</i>ya, o un Sthâlîpâka, o un animal”—y si luego obtiene lo que deseaba y realiza ese sacrificio a esa deidad: este es un sacrificio <i>k</i>aitya». No conozco nada que respalde esta afirmación en cuanto al significado de <i>k</i>aitya.
+[^431]: 178:1 12, 1. Parece indudable que el profesor Stenzler tiene razón al otorgar a <i>k</i>aitya en este capítulo su significado común de santuario religioso ('Denkmal'). El texto muestra que el sacrificio de Kaitya no se ofrecía como otros sacrificios en la casa del sacrificador, sino que en algunos casos la ofrenda debía enviarse, al menos simbólicamente, a lugares distantes. Esto confirma la traducción que el profesor Stenzler hace de <i>k</i>aitya. Nârâya<i>n</i>a explica el _k<i>n</i>k_itte bhava y dice: «Si hace un voto a cierta deidad, diciendo: «Si consigo tal o cual deseo, te ofreceré un sacrificio Â<i>n</i>ya, o un Sthâlîpâka, o un animal»—y si luego obtiene lo que deseaba y realiza ese sacrificio a esa deidad: este es un sacrificio <i>k</i>aitya». No conozco nada que respalde esta afirmación en cuanto al significado de <i>k</i>aitya.
 
 [^432]: 178:2 'Debería hacer de una hoja un mensajero y un palo de transporte.' Nârâya<i>n</i>a.
   No está claro si además de esta imagen de un mensajero había también un mensajero real que debía llevar el Bali al <i>K</i>aitya, p. 179 o si todo el rito era puramente simbólico y se basaba en el principio: In sacris ficta pro veris accipiuntur.
@@ -1137,11 +1137,11 @@ Fin del primer Adhyâya.
 
 [^459]: 191:10 <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 6, 7; Paraskara II, 5, 8.
 
-[^460]: 191:12 'El estudiante debe, de acuerdo con las reglas de los Pâkaya<i>g</i><i>g</i>as, cocinar la comida Anuprava<i>g</i>anîya y anunciarla al maestro con las palabras: “La comida está cocinada”.' Nârâya<i>g</i>a.
+[^460]: 191:12 'El estudiante debe, de acuerdo con las reglas de los Pâkaya<i>g</i><i>g</i>as, cocinar la comida Anuprava<i>g</i>anîya y anunciarla al maestro con las palabras: «La comida está cocinada».' Nârâya<i>g</i>a.
 
 [^461]: 192:15 Nârâya<i>n</i>a menciona como tales textos, especialmente los pertenecientes al Âra<i>n</i>yaka, a saber, el Mahânâmnyas, el Mahâvrata y el Upanishad. Pero no hay razón para que no consideremos igualmente válido el propio Rig-veda Sa<i>n</i>hitâ.
 
-[^462]: 192:18 Que diga: “¡Señores! Pronuncien el final del Veda (estudio)”. Y que respondan: “Que se haga el final del Veda (estudio)”. Nârâya<i>n</i>a.
+[^462]: 192:18 Que diga: «¡Señores! Pronuncien el final del Veda (estudio)». Y que respondan: «Que se haga el final del Veda (estudio)». Nârâya<i>n</i>a.
 
 [^463]: 192:20 Comp. arriba, cap. 15, 2.
 

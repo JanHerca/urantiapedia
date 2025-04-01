@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span> pág. 26 pág. 27
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span> pág. 26 pág. 27
 
 MU<i>N</i><i>D</i>AKA-UPANISHAD.
 
@@ -57,7 +57,7 @@ PRIMER MU<i>N</i><i>D</i>TAMBIÉN CONOCIDO COMO.
 8\. «El Brahman se expande mediante la penitencia [^157]; de ahí se produce la materia (alimento); de la materia, el aliento [^158], la mente, la verdad [^159], los siete mundos, y de las obras (realizadas por los hombres en los mundos), lo inmortal (los efectos eternos, las recompensas y los castigos de las obras).» <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 9\. «De aquel que todo lo percibe y todo lo sabe, cuya penitencia (penitencia) consiste en conocimiento, de él (el Brahman supremo) nace ese Brahman [^160], el nombre, la forma [^161] y la materia (alimento).»
 
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 

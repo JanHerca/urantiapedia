@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p214">[<sup><small>pág. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 LIBRO XXXIII.
 
@@ -46,7 +46,7 @@ Pero ¿dónde está lo que antiguamente se llamaba «el método del Tao» [^428]
 
 No estar separado de su fuente primera constituye lo que llamamos el hombre celestial; no estar separado de su naturaleza esencial constituye lo que llamamos el hombre espiritual; no estar separado de su verdad real constituye lo que llamamos el hombre perfecto [^432].
 
-<span id="p215">[<sup><small>pág. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Considerar el Cielo como su Fuente primordial, sus Atributos como la Raíz (de su naturaleza), y el Tâo como la Puerta (por la que entra en esta herencia), (conociendo también) los pronósticos dados en el cambio y la transformación, constituye lo que llamamos el hombre sabio [^433].
 
@@ -64,7 +64,7 @@ Se desató un gran desorden en el mundo, y los sabios y los sabios virtuosos dej
 
 Hwang-Tî tenía su Hsien-khih; Yâo, su Tâ Kang; Shun, su Tâ Shah; Yü, su Tâ Hsiâ; Thang, su Tâ Hû; el rey Wän, su música de Phi-yung [^438]; y el rey Wû y el duque de Kâu hicieron el Wû.
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 En los ritos de duelo de los antiguos, nobles y humildes tenían sus diversas observancias, y altos y bajos, sus diferentes grados. El ataúd del Hijo del Cielo era séptuple; el de un señor feudal, quíntuple; el de un alto oficial, triple; el de otros oficiales, doble. Pero ahora, solo Mo-dze no quería cantos en vida ni luto después de la muerte. Como norma general, tendría un ataúd de madera de elaeococca, de siete centímetros de grosor, sin ningún armazón. La enseñanza de tales lecciones no puede considerarse una prueba de su amor por los hombres; practicarlas en su propio caso demostraría sin duda que no se amaba a sí mismo; pero esto no ha sido suficiente para desmentir las ideas de Mo-dze. No obstante, los hombres cantarán, y él condena el canto; los hombres lamentarán, y él condena el lamento; los hombres expresarán su alegría, y él condena tal expresión: ¿es esto realmente conforme con la naturaleza humana? Durante la vida, el esfuerzo, y al morir, la tacañería: su camino es de gran crueldad. Causando tristeza y melancolía, y difícil de llevar a la práctica, me temo que no puede considerarse el camino de un sabio. Contrariamente a la opinión general, los hombres no lo tolerarán. Aunque el propio Mo-dze pudiera soportarlo, ¿cómo podría superarse la aversión del mundo hacia él? Si el mundo le es reacio, debe estar lejos del camino de los reyes (antiguos).
 

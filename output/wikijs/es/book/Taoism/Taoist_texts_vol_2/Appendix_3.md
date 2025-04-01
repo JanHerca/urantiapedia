@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:58Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_4">
-          <span class="pr-2">Apéndice IV. Zäh Yung King, o “Clásico del directorio por un día”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice IV. Zäh Yung King, o «Clásico del directorio por un día»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -80,7 +80,7 @@ La estupidez, la más oscura, y la grosería, la más densa, son consecuencias d
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_4">
-          <span class="pr-2">Apéndice IV. Zäh Yung King, o “Clásico del directorio por un día”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice IV. Zäh Yung King, o «Clásico del directorio por un día»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

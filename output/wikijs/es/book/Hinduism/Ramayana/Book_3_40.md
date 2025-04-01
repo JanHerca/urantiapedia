@@ -118,7 +118,7 @@ Ráma envió sus flechas de alas rápidas,
 Cada uno brillante con oro y adornos.
 Se volvieron hacia las serpientes de múltiples caras:
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Los ejércitos gigantes los comieron y los quemaron.
 Adondequiera que huyeron estos en salvaje consternación
@@ -244,7 +244,7 @@ Con el corazón más valiente se puede aguantar,
 Nos encontramos en el frente de una lucha mortal,
 Mirar al hijo de Raghu.
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Las huestes gigantes eran valientes y fuertes,
 Bueno con el arco y la lanza:
@@ -361,7 +361,7 @@ Sus himnos consagratorios de alabanza,
 Echó a perder el jugo sagrado del Soma.
 Derramado por ellos en uso solemne.
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 El sacrificio que sus manos arrojaron,
 Y los brahmanes mataron cruelmente.
@@ -375,7 +375,7 @@ Coronas celestiales adornaban su pecho.
 Estaba sentado en una forma de terror, como
 Destrucción antes que los mundos que golpea.
 Ella lo vio en su lugar de honor,
-La alegría de la carrera del viejo Pulastya [1](Libro_3_40#fn488),
+La alegría de la carrera del viejo Pulastya [1](../Libro_3_40#fn488),
 Empezado por consejero y compañero,
 Rávan, el miedo mortal del enemigo,
 Y el terror se reflejaba en sus rasgos,
@@ -483,7 +483,7 @@ Sin ser tocado por el favor, la ira y el odio,
 Y a él el pueblo lo celebra.
 Oh débil de mente, sin dejar rastro
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 De las virtudes que un rey debe honrar,
 ¿Quién no ha aprendido de un espía vigilante?
@@ -609,7 +609,7 @@ Y ejecuta las palabras que digo
 Ven, Rey gigante, busca este tesoro,
 Porque tú eres fuerte y ellos son débiles.
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Deja que Sítá del marco impecable
 Déjate llevar y sé tu dama.
@@ -725,7 +725,7 @@ Yacía en el margen de lo profundo.
 Y rocas grises se alzaban entre el rojo
 De coral arrastrado desde el fondo del océano.
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Altos se alzaban los picos de las montañas que sostenían
 Tesoros de mineral de oro y plata,
@@ -855,7 +855,7 @@ Deambula con su esposa vistiendo ropas miserables.
 Este desgraciado, la desgracia de su tribu guerrera.
 Ha matado a lo mejor de la raza gigante.
 
-<span id="p272">[<sup><small>pág. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Duro, malvado, feroz y de alma codiciosa,
 Un tonto, con los sentidos descontrolados,
@@ -975,7 +975,7 @@ Mientras Indra gobierna entre los Bienaventurados.
 Menos vana la esperanza de robar
 La gloria del Señor del Día.
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Oh Ravan, protégete del fuego.
 De la ira encendida del vengativo Rama,
@@ -1088,7 +1088,7 @@ Todavía imberbe y de tez oscura;
 Una sola túnica es su única vestimenta,
 Sus sienes veladas por cabellos ondulantes,
 
-<span id="p274">[<sup><small>pág. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Alrededor de su cuello una cadena de oro,
 Él agarró el arco que tanto amaba;
@@ -1213,7 +1213,7 @@ De aquel ilustre anacoreta,
 Y sin hacer caso de un enemigo ermitaño,
 Recordé mi anterior derrota.
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Lo cargué en mi rabia y desprecio.
 Para matarlo con mi cuerno puntiagudo,
@@ -1332,7 +1332,7 @@ Si busca honor y recompensa.
 O, cuando ve que algún camino prudente
 Lo cual, dicho así, puede desagradar a su rey.
 
-<span id="p276">[<sup><small>pág. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Debería mostrar indicios de arte diestro.
 Imparte su consejo a su señor.

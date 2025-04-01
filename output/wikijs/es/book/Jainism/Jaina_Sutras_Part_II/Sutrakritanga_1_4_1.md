@@ -38,7 +38,7 @@ CAPÍTULO PRIMERO.
 
 Un monje que ha abandonado a su madre y a su padre y todos los lazos mundanos, (decide) caminar solo y con sabiduría, abstenerse de los placeres sexuales y pedir un lugar apartado (donde alojarse). (1)
 
-<span id="p272">[<sup><small>pág. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Con astutas apariencias las mujeres lo conquistan, por tontas que sean; saben cómo lograr que algunos monjes tengan intimidad con ellas. (2)
 
@@ -66,7 +66,7 @@ Quienes se aferran a esta relación pecaminosa deben ser considerados malvados. 
 
 El monje no debe tener relaciones sexuales con sus hijas ni con sus nueras, ni con nodrizas ni con esclavas, ni con muchachas adultas. (13)
 
-Cuando los parientes y amigos ven (la intimidad de un monje con una muchacha), se enfadan (diciendo): “Todas las criaturas aman los placeres; tú eres un hombre, protégela y apóyala”. (14)
+Cuando los parientes y amigos ven (la intimidad de un monje con una muchacha), se enfadan (diciendo): «Todas las criaturas aman los placeres; tú eres un hombre, protégela y apóyala». (14)
 
 Pero algunos se enfadan incluso cuando ven a una <i>Srama<i>n</i>a inocente, y sospechan de la fidelidad de sus esposas por los platos que les sirven [^798]. (15)
 
@@ -76,7 +76,7 @@ Aunque muchos abandonan el hogar, algunos llegan a una posición intermedia (ent
 
 En la asamblea pronuncia palabras santas, pero en secreto comete pecados; pero los sabios saben que es un engañador y un gran sinvergüenza. (18)
 
-<span id="p274">[<sup><small>pág. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 El pecador no confiesa su falta, sino que se jacta de ella cuando es reprendido. Aunque se le advierte que no actúe como la mayoría de los hombres, se debilita una y otra vez. (19)
 
@@ -96,11 +96,11 @@ O, al declararse discípula laica y correligionaria de los <i>S</i>rama<i>n</i>a
 
 Una olla llena de laca arrojada al fuego se derrite rápidamente y se destruye; así los monjes se pierden por las relaciones sexuales con las mujeres. (27)
 
-Algunos cometen pecados (con una muchacha), pero cuando se les pregunta al respecto, dicen: “No he cometido ningún pecado; ella sólo durmió en mi regazo (como mi hija)”. (28)
+Algunos cometen pecados (con una muchacha), pero cuando se les pregunta al respecto, dicen: «No he cometido ningún pecado; ella sólo durmió en mi regazo (como mi hija)». (28)
 
 Esta es una segunda locura del pecador: negar obstinadamente lo que ha hecho. Comete un doble pecado, pues, por su reputación, vuelve a caer [^801]. (29)
 
-(Algunas mujeres) dirán, a modo de invitación, a un monje atractivo y conocedor: “¡Hombre santo, acepta una túnica, un cuenco de limosna, comida o bebida (en nuestra casa)!” (30)
+(Algunas mujeres) dirán, a modo de invitación, a un monje atractivo y conocedor: «¡Hombre santo, acepta una túnica, un cuenco de limosna, comida o bebida (en nuestra casa)!» (30)
 
 Debe considerar sus palabras como arroz salvaje [^802], y no debe desear visitar (su) casa; porque un tonto que está atado a las cadenas de la sensualidad estará sujeto al engaño una y otra vez. (31)
 

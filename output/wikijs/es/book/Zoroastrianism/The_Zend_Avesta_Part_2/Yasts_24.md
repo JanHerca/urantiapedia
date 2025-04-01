@@ -1,6 +1,6 @@
 ---
 title: "XXIV. Vista previa del libro"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -60,7 +60,7 @@ Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo V
 
 'Ashem Vohû: La santidad es el mejor de todos los bienes...
 
-<span id="p330">[<sup><small>pág. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 ## II.
 
@@ -144,7 +144,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 30\. 'Avanzad con alabanzas, avanzad por el camino de la buena ley mazdeísta y de todos los que andan en sus caminos, hombres y mujeres.
 
-<span id="p336">[<sup><small>pág. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 'Quien quiera apoderarse de la recompensa celestial [^1447], la apoderará dando regalos a quien nos sostiene (la Ley) [^1448] en este mundo aquí abajo [^1449] . . .
 
@@ -170,11 +170,11 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 Dijo Zaratustra: «Quien sea hostil hacia ella, que se convierta en seguidor de la Ley de Mazda, tal como la proclamamos.
 
-35\. 'Proclama siempre (a los pobres): “¡Siempre puedes esperar aquí la basura que te traen los que tienen abundancia de riquezas [^1460]!” Así la Droga no caerá sobre ti y te arrojará lejos; ejercerás allí poder real [^1461].
+35\. 'Proclama siempre (a los pobres): «¡Siempre puedes esperar aquí la basura que te traen los que tienen abundancia de riquezas [^1460]!» Así la Droga no caerá sobre ti y te arrojará lejos; ejercerás allí poder real [^1461].
 
 36\. «La Ley de Mazda no te entregará al dolor [^1462]. Eres suplicado (por caridad) por todo el mundo viviente, y ella [^1463] siempre está a tu puerta en la persona de tus hermanos en la fe: los mendigos siempre están a la puerta del extraño, entre quienes mendigan pan.
 
-<span id="p338">[<sup><small>pág. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 "Ese pan siempre será carbón ardiente sobre tu cabeza [^1464].
 
@@ -184,7 +184,7 @@ Dijo Zaratustra: «Quien sea hostil hacia ella, que se convierta en seguidor de 
 
 'Que ningún pensamiento de Angra Mainyu te infecte jamás, de modo que te entregues a malos deseos, hagas burla e idolatría, y cierres (a los pobres) la puerta de tu casa [^1467].
 
-38\. [^1468]. 'Âtar bendice así al hombre que le trae incienso, complacido con él y sin enojarse, y alimentado como él requería: “¡Que crezcan para ti manadas de bueyes y multipliques tus hijos! ¡Que el destino y sus decretos te traigan las bendiciones que deseas! ¡Por tanto, invócame y alábame con excelencia en este mundo glorioso! Para que tenga alimento inagotable, pleno de la gloria de Mazda [^1469], con la que me complazco.”
+38\. [^1468]. 'Âtar bendice así al hombre que le trae incienso, complacido con él y sin enojarse, y alimentado como él requería: «¡Que crezcan para ti manadas de bueyes y multipliques tus hijos! ¡Que el destino y sus decretos te traigan las bendiciones que deseas! ¡Por tanto, invócame y alábame con excelencia en este mundo glorioso! Para que tenga alimento inagotable, pleno de la gloria de Mazda [^1469], con la que me complazco.»
 
 39\. '¡Oh Mazda! Toma para ti las palabras de nuestra alabanza: de estas palabras hablo y repito, la fuerza y ​​el vigor victorioso, el poder de la salud y la curación, la plenitud, el aumento y el crecimiento.
 
@@ -204,7 +204,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 43\. «¡Cómo fueron dispuestos los mundos te fue dicho primero, oh Zaratustra! Zaratustra se lo repitió al joven rey Vî<i>s</i>tâspa; por eso alaba a quien guarda y mantiene la luna y el sol.»
 
-<span id="p340">[<sup><small>pág. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 'A quien tenga poca amistad con la Ley, lo he puesto abajo para que sufra.'
 
@@ -234,7 +234,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 ## VIII [^1492].
 
-53\. 'Las palabras del Vahi<i>s</i>tôi<i>s</i>ti [^1493] Gâtha deben cantarse: “¡Feliz es aquel, oh santo Vî<i>s</i>tâspa! Feliz el hombre, quienquiera que sea, a quien Ahura Mazda le concede el pleno cumplimiento de sus deseos.”
+53\. 'Las palabras del Vahi<i>s</i>tôi<i>s</i>ti [^1493] Gâtha deben cantarse: «¡Feliz es aquel, oh santo Vî<i>s</i>tâspa! Feliz el hombre, quienquiera que sea, a quien Ahura Mazda le concede el pleno cumplimiento de sus deseos.»
 
 '¿Dónde mora su alma en esa noche [^1494]?'
 
@@ -246,7 +246,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 56\. 'Y le parece como si su propia conciencia avanzara hacia él en ese viento, en la forma de una doncella hermosa, brillante, de brazos blancos, fuerte, alta, de complexión alta, de pecho grueso, hermosa de cuerpo, noble, de una simiente gloriosa, del tamaño de una doncella de quince años, tan bella como las cosas más bellas del mundo.
 
-57\. 'Y el alma de la fiel se dirigió a ella, preguntándole: “¿Qué doncella eres tú, la doncella más hermosa que he visto jamás?”
+57\. 'Y el alma de la fiel se dirigió a ella, preguntándole: «¿Qué doncella eres tú, la doncella más hermosa que he visto jamás?»
 
 58\. 'Y ella, siendo su propia conciencia, le responde: "¡Oh tú, joven de buenos pensamientos, buenas palabras y buenas obras, de buena religión! Yo soy tu propia conciencia.
 
@@ -258,7 +258,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 61\. 'El primer paso que dio el alma del hombre fiel lo colocó en el Paraíso del Buen Pensamiento; el segundo paso que dio el alma del hombre fiel lo colocó en el Paraíso de la Buena Palabra; el tercer paso que dio el alma del hombre fiel lo colocó en el Paraíso de la Buena Acción; el cuarto paso que dio el alma del hombre fiel lo colocó en la Luz Infinita.
 
-62\. 'Entonces, uno de los fieles, que había partido antes que él, preguntó: “¿Cómo partiste de esta vida, hombre santo? ¿Cómo llegaste, hombre santo? ¿De las moradas llenas de ganado y llenas de los deseos y goces del amor? ¿Del mundo material al mundo espiritual? ¿Del mundo decadente al incorruptible? ¿Cuánto duró tu felicidad?”
+62\. 'Entonces, uno de los fieles, que había partido antes que él, preguntó: «¿Cómo partiste de esta vida, hombre santo? ¿Cómo llegaste, hombre santo? ¿De las moradas llenas de ganado y llenas de los deseos y goces del amor? ¿Del mundo material al mundo espiritual? ¿Del mundo decadente al incorruptible? ¿Cuánto duró tu felicidad?»
 
 63\. Y Ahura Mazda respondió: «No le preguntes lo que le preguntas a él, quien acaba de recorrer el triste camino, lleno de miedo y angustia, cuando el cuerpo y el alma se separan.
 
@@ -305,9 +305,9 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1460]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) pertenece al § 2 (O.).
 
-[^1461]: 328:6 Véase [p. 326](Yasts_23#p326), nota [8](Yasts_23#fn1374).
+[^1461]: 328:6 Véase [p. 326](../Yasts_23#p326), nota [8](../Yasts_23#fn1374).
 
-[^1462]: 328:7 Véase [p. 326](Yasts_23#p326), nota [9](Yasts_23#fn1375).
+[^1462]: 328:7 Véase [p. 326](../Yasts_23#p326), nota [9](../Yasts_23#fn1375).
 
 [^1463]: 328:8 Inmortalidad (cf. Yt. XXIII, 7). W. tiene ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
 
@@ -345,7 +345,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1480]: 330:7 Véase Vend. Introd. IV, 30.
 
-[^1481]: 330:8 Véase [p. 11](Sirozahs_1#p11), nota [5](Sirozahs_1#fn77).
+[^1481]: 330:8 Véase [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
 
 [^1482]: 330:9 Pâre<i>n</i>di.
 
@@ -401,7 +401,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1508]: 335:4 El alma del justo.
 
-[^1509]: 335:5 Véase la página [152](Yasts_10#p152), nota [1](Yasts_10#fn698).
+[^1509]: 335:5 Véase la página [152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
 
 [^1510]: 335:6 El Pahlavi tiene, 'el camino de Zaratustra' (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
 

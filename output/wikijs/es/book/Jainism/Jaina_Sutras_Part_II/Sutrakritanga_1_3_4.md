@@ -50,7 +50,7 @@ No pierdas mucho por poco, despreciándola. Si no abandonas esta ley errónea, t
 
 (Y también lo harán) quienes matan a seres vivos, quienes no se abstienen de hablar mentiras, quienes toman lo que no se les da libremente, quienes disfrutan de los placeres sexuales y quienes poseen propiedades. (8)
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Algunos herejes indignos [^790], esclavos de mujeres, hombres ignorantes que son contrarios a la Ley de las <i>Ginas</i>, hablan así: (9)
 
@@ -108,7 +108,7 @@ Así lo digo.
 
 ## Notas al pie
 
-[^791]: 268:3 Sobre Nami, véase arriba, [p. 35](Uttaradhyayana_8#p35), nota [2](Uttaradhyayana_9#fn130). Râmagupta podría ser otro nombre de Râma. En lugar de Târâga<i>n</i>a, Sîlâṅka escribe Nârâya<i>n</i>a.
+[^791]: 268:3 Sobre Nami, véase arriba, [p. 35](../Uttaradhyayana_8#p35), nota [2](../Uttaradhyayana_9#fn130). Râmagupta podría ser otro nombre de Râma. En lugar de Târâga<i>n</i>a, Sîlâṅka escribe Nârâya<i>n</i>a.
 
 [^792]: 269:1 Âsila no se conoce en otras fuentes; quizás se refiere a Asita, y Âsila Davila representa a Asita Dêvala. Respecto a Dvîpâyana, el Pârâ<i>s</i>ara, compárese con la Revista de la Sociedad Oriental Alemana, vol. 42, p. 495. Pero en el Aupapâtika Sûtra (ed. Leumann, § 76), Pârâ<i>s</i>ara y Dvîpâyana son dos personas distintas.
 

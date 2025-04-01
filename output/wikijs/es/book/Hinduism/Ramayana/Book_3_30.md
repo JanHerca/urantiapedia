@@ -61,7 +61,7 @@ Con la nariz cortada y la oreja destrozada:
 Mis heridas sangraban como un río,
 Te busqué y fui consolado.
 
-<span id="p254">[<sup><small>pág. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Esos dos veces siete gigantes, valientes y fuertes,
 Enviaste a vengar el agravio,
@@ -185,12 +185,12 @@ Y las estrellas brillaban con un costoso emblema.
 Sobre espadas centelleantes colgaba su estandarte,
 Y dulces campanas, siempre tintineando, sonaban.
 
-<span id="p255">[<sup><small>pág. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Ese poderoso ejército con espada y escudo
 Y el remo estaba listo para el campo:
 Y Khara vio, y Dúshan lloró,
-“¡Adelante, gigantes, a la lucha!”
+«¡Adelante, gigantes, a la lucha!»
 Entonces ondearon los estandartes y se alzaron los escudos y las espadas.
 Destelló cuando el anfitrión obedeció a su señor.
 Desde Janasthán salieron
@@ -305,7 +305,7 @@ En el cielo con estas afiladas flechas mías.
 Impulsado por la furia guerrera,
 Podría causar que incluso la misma Muerte muera.
 
-<span id="p256">[<sup><small>pág. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 No volveré a buscar mi hogar
 Hasta que mis afiladas flechas hayan matado
@@ -419,7 +419,7 @@ A la muerte estos vagabundos de la noche;
 Pero yo hoy lucharía solo
 Hasta que todos los demonios sean derrotados.
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Él habló, y Lakshman no respondió nada.
 Trajo sus flechas y su arco,
@@ -513,7 +513,7 @@ Los dioses que vagan por la sombra del bosque.
 Porque en la furia furiosa que brillaba
 Dentro de su alma el héroe mostró
 Como Siva cuando su ira se apodera de él.
-Se suspendió el rito sacrificial de Daksha. [1b](Libro_3_30#fn467)
+Se suspendió el rito sacrificial de Daksha. [1b](../Libro_3_30#fn467)
 Como una gran nube al amanecer
 Cuando el sol sale por primera vez,
 Y sobre la masa sombría cada rayo
@@ -542,7 +542,7 @@ El jefe de brazos fuertes balanceó su arma.
 Tan pronto como los niños de la noche
 Vio a Khara corriendo hacia la pelea,
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Sus señores con un fuerte grito sobrenatural
 Siguieron a su jefe y se reunieron cerca.
@@ -664,7 +664,7 @@ Una abrumadora lluvia de árboles frondosos.
 Lucha salvaje y maravillosa, para asustar a los ojos,
 Y erizar cada cabello estremecido,
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Al igual que los demonios que amaban vagar
 ¡Por la noche el heroico Ráma luchó!
@@ -677,7 +677,7 @@ De todas partes fueron aclamados ferozmente,
 Rodeado por los enemigos que pululaban a su alrededor,
 Lanzó un grito poderoso cuyo sonido
 Aterrorizado. En la tripulación gigante
-Su gran flecha Gándharva [1](Libro_3_30#fn469) voló.
+Su gran flecha Gándharva [1](../Libro_3_30#fn469) voló.
 Mil flechas mortales llovieron
 Desde el arco orbeado el héroe tensó,
 Hasta el este y el oeste y el sur y el norte
@@ -782,7 +782,7 @@ Y resonó con fuerza su grito de alegría,
 '¡Honor a Ráma! ¡Noblemente hecho!
 ¡Bien has luchado, hijo de Kakutstha!
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Pero los tres grandes, el ejército que lideraba,
 Enfurecido al ver a su jefe muerto,
@@ -854,7 +854,7 @@ Por el hijo de Raghu fueron derrocados,
 Un hombre, a pie y completamente solo.
 De todos los que se reunieron en ese feroz día,
 Khara, el gran jefe, sobrevivió a la refriega,
-El monstruo de la triple cabeza, [1](Libro_3_30#fn471)
+El monstruo de la triple cabeza, [1](../Libro_3_30#fn471)
 Y el hijo de Raghu, el temible enemigo.
 Los demás guerreros demonios, todos
 Hábil y valiente y fuerte y alto,
@@ -904,7 +904,7 @@ Que corceles enjaezados arrastraron velozmente,
 Como una enorme colina con tres picos
 Y se apresuró a buscar al príncipe,
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Aún así, como una gran nube, enviando
 Su lluvia de flechas con muchos gritos
@@ -1010,7 +1010,7 @@ Rama sangró por muchas flechas.
 En lo alto de su coche se alzaba la rosa gigante
 Preparado para cerrar una lucha mortal,
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Y todos los espíritus lo vieron de pie.
 Como Yama con su soga en la mano.
@@ -1132,7 +1132,7 @@ Por codicia o lujuria una vida de pecado,
 Incluso como la dama de un Bráhman, imprudente,
 Come del granizo caído [^476] y muere.
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Tu mano ha matado al puro y al bueno,
 Los santos ermitaños del bosque de Dandak,
@@ -1254,7 +1254,7 @@ Mal en pensamiento, palabra y obra.
 Mi mano tomará esa vida tuya
 Como Garud [^477] se apoderó del jugo divino.
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Tú, desgarrado por las flechas, hoy morirás:
 Tu cadáver yacerá en el suelo,
@@ -1372,7 +1372,7 @@ Fuerza heroica que se mantuvo sola,
 Habiendo cantado así, el tren resplandeciente
 Regresaron nuevamente a sus hogares celestiales.
 
-<span id="p265">[<sup><small>pág. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Entonces los altos santos de raza real
 Y buscó el lugar más elevado,

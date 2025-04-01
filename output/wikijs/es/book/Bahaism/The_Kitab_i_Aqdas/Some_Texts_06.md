@@ -42,15 +42,15 @@ RESPUESTA: El nacimiento de la Bella Abhá se produjo al amanecer del segundo d�
 
 3\. PREGUNTA: Sobre los Versículos sobre el Matrimonio.
 
-RESPUESTA: Para los hombres: “Todos, en verdad, cumpliremos la voluntad de Dios”. Para las mujeres: “Todos, en verdad, cumpliremos la voluntad de Dios”.
+RESPUESTA: Para los hombres: «Todos, en verdad, cumpliremos la voluntad de Dios». Para las mujeres: «Todos, en verdad, cumpliremos la voluntad de Dios».
 
 4\. PREGUNTA: Si un hombre emprende un viaje sin especificar el tiempo de su regreso, es decir, sin indicar el período esperado de su ausencia, y después no se tiene noticia de él y se pierde todo rastro de él, ¿qué conducta debe seguir su esposa?
 
 RESPUESTA: Si él no ha fijado un tiempo para su regreso a pesar de estar al tanto de la estipulación del Kitab-i-Aqdas al respecto, su esposa debe esperar un año completo, después del cual será libre de adoptar el camino que sea loable o elegir otro esposo. Sin embargo, si él no está al tanto de esta estipulación, ella debe tener paciencia hasta que Dios quiera revelarle su destino. Por el camino que es loable en este sentido se entiende el ejercicio de la paciencia.
 
-5\. PREGUNTA: Sobre el versículo sagrado: “Cuando oímos el clamor de los niños aún no nacidos, duplicamos su parte y disminuimos la de los demás”.
+5\. PREGUNTA: Sobre el versículo sagrado: «Cuando oímos el clamor de los niños aún no nacidos, duplicamos su parte y disminuimos la de los demás».
 
-RESPUESTA: Según el Libro de Dios, el patrimonio del difunto se divide en 2.520 acciones, número que es el mínimo común múltiplo de todos los números enteros hasta el nueve, y estas acciones se distribuyen luego en siete porciones, cada una de las cuales se asigna, como se menciona en el Libro, a una categoría particular de herederos. A los hijos, por ejemplo, se les asignan nueve bloques de 60 acciones, que comprenden 540 acciones en total. El significado de la declaración “Hemos duplicado su parte” es, por lo tanto, que los hijos reciben otros nueve bloques de 60 acciones, lo que les da derecho a un total de 18 bloques. Las acciones adicionales que reciben se deducen de las porciones de las otras categorías de herederos, de modo que, si bien se revela, por ejemplo, que el cónyuge tiene derecho a “ocho partes que comprenden cuatrocientas ochenta acciones”, lo que equivale a ocho bloques de 60 acciones, ahora, en virtud de esta reorganización, se han sustraído de la porción del cónyuge un bloque y medio de acciones, que comprenden 90 acciones en total, y se han reasignado a los hijos, y lo mismo en el caso de los demás. El resultado es que la cantidad total sustraída es equivalente a los nueve bloques de acciones adicionales asignados a los hijos.
+RESPUESTA: Según el Libro de Dios, el patrimonio del difunto se divide en 2.520 acciones, número que es el mínimo común múltiplo de todos los números enteros hasta el nueve, y estas acciones se distribuyen luego en siete porciones, cada una de las cuales se asigna, como se menciona en el Libro, a una categoría particular de herederos. A los hijos, por ejemplo, se les asignan nueve bloques de 60 acciones, que comprenden 540 acciones en total. El significado de la declaración «Hemos duplicado su parte» es, por lo tanto, que los hijos reciben otros nueve bloques de 60 acciones, lo que les da derecho a un total de 18 bloques. Las acciones adicionales que reciben se deducen de las porciones de las otras categorías de herederos, de modo que, si bien se revela, por ejemplo, que el cónyuge tiene derecho a «ocho partes que comprenden cuatrocientas ochenta acciones», lo que equivale a ocho bloques de 60 acciones, ahora, en virtud de esta reorganización, se han sustraído de la porción del cónyuge un bloque y medio de acciones, que comprenden 90 acciones en total, y se han reasignado a los hijos, y lo mismo en el caso de los demás. El resultado es que la cantidad total sustraída es equivalente a los nueve bloques de acciones adicionales asignados a los hijos.
 
 6\. PREGUNTA: ¿Es necesario que el hermano, para tener derecho a su parte de la herencia, descienda tanto del padre como de la madre del difunto, o es suficiente que haya un padre en común?
 
@@ -60,7 +60,7 @@ Esta sentencia se aplica también a la hermana.
 
 7\. PREGUNTA: Entre las disposiciones relativas a la herencia se ha establecido que, si el difunto no deja descendencia, su parte de la herencia revierte a la Casa de Justicia. En caso de que otras categorías de herederos, como el padre, la madre, el hermano, la hermana y el maestro estén igualmente ausentes, ¿sus partes de la herencia revierten también a la Casa de Justicia, o se les aplica algún otro tratamiento?
 
-Respuesta: El versículo sagrado es suficiente. Dice, exaltada sea Su Palabra: “Si el difunto no deja descendencia, su parte revertirá a la Casa de Justicia”, etc. y “Si el difunto deja descendencia, pero ninguna de las otras categorías de herederos que se han especificado en el Libro, recibirán dos tercios de la herencia y el tercio restante revertirá a la Casa de Justicia”, etc. En otras palabras, cuando no hay descendencia, la porción asignada de la herencia revierte a la Casa de Justicia; y cuando hay descendencia pero faltan las otras categorías de herederos, dos tercios de la herencia pasan a la descendencia, y el tercio restante revierte a la Casa de Justicia. Esta regla tiene aplicación tanto general como específica, es decir, siempre que falte alguna categoría de esta última clase de herederos, dos tercios de su herencia pasan a la descendencia y el tercio restante a la Casa de Justicia.
+Respuesta: El versículo sagrado es suficiente. Dice, exaltada sea Su Palabra: «Si el difunto no deja descendencia, su parte revertirá a la Casa de Justicia», etc. y «Si el difunto deja descendencia, pero ninguna de las otras categorías de herederos que se han especificado en el Libro, recibirán dos tercios de la herencia y el tercio restante revertirá a la Casa de Justicia», etc. En otras palabras, cuando no hay descendencia, la porción asignada de la herencia revierte a la Casa de Justicia; y cuando hay descendencia pero faltan las otras categorías de herederos, dos tercios de la herencia pasan a la descendencia, y el tercio restante revierte a la Casa de Justicia. Esta regla tiene aplicación tanto general como específica, es decir, siempre que falte alguna categoría de esta última clase de herederos, dos tercios de su herencia pasan a la descendencia y el tercio restante a la Casa de Justicia.
 
 8\. PREGUNTA: Respecto de la suma básica sobre la que se debe pagar el Huququ'llah.
 
@@ -88,9 +88,9 @@ RESPUESTA: El matrimonio está condicionado al consentimiento de los padres de a
 
 14\. PREGUNTA: A los creyentes se les ha ordenado orientarse en dirección a la Qiblih cuando recitan sus oraciones obligatorias; ¿en qué dirección deben orientarse cuando ofrecen otras oraciones y devociones?
 
-RESPUESTA: Mirar hacia la Qiblih es un requisito fijo para la recitación de la oración obligatoria, pero para otras oraciones y devociones uno puede seguir lo que el Señor misericordioso ha revelado en el Corán: “Dondequiera que os volváis, allí está el rostro de Dios”.
+RESPUESTA: Mirar hacia la Qiblih es un requisito fijo para la recitación de la oración obligatoria, pero para otras oraciones y devociones uno puede seguir lo que el Señor misericordioso ha revelado en el Corán: «Dondequiera que os volváis, allí está el rostro de Dios».
 
-15\. PREGUNTA: Con respecto al recuerdo de Dios en el Mashriqu'l-Adhkar “a la hora del alba”. RESPUESTA: Aunque las palabras “a la hora del alba” se utilizan en el Libro de Dios, es aceptable para Dios al amanecer del día, entre el amanecer y el amanecer, o incluso hasta dos horas después del amanecer.
+15\. PREGUNTA: Con respecto al recuerdo de Dios en el Mashriqu'l-Adhkar «a la hora del alba». RESPUESTA: Aunque las palabras «a la hora del alba» se utilizan en el Libro de Dios, es aceptable para Dios al amanecer del día, entre el amanecer y el amanecer, o incluso hasta dos horas después del amanecer.
 
 16\. PREGUNTA: ¿La ordenanza que establece que el cuerpo del difunto no debe ser transportado a una distancia mayor que una hora de viaje es aplicable al transporte tanto por tierra como por mar?
 
@@ -112,7 +112,7 @@ RESPUESTA: El punto de partida para el cómputo es el día en que la pareja se s
 
 RESPUESTA: La edad de madurez es de quince años tanto para hombres como para mujeres.
 
-21\. PREGUNTA: Con respecto al versículo sagrado: “Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad... una sola postración en lugar de cada Oración Obligatoria no dicha...”
+21\. PREGUNTA: Con respecto al versículo sagrado: «Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad... una sola postración en lugar de cada Oración Obligatoria no dicha...»
 
 RESPUESTA: Esta postración es para compensar la oración obligatoria omitida durante el viaje y por circunstancias inseguras. Si en el momento de la oración el viajero se encuentra descansando en un lugar seguro, debe realizar esa oración. Esta disposición sobre la postración compensatoria se aplica tanto en casa como durante el viaje.
 
@@ -126,7 +126,7 @@ RESPUESTA: Se pagan nueve mitzkalas por la primera infracción, dieciocho por la
 
 24\. PREGUNTA: Sobre la caza.
 
-RESPUESTA: Él dice, exaltado sea: “Si cazaseis bestias o aves de rapiña” y así sucesivamente.
+RESPUESTA: Él dice, exaltado sea: «Si cazaseis bestias o aves de rapiña» y así sucesivamente.
 
 También se incluyen otros medios, como arcos y flechas, armas de fuego y equipos similares empleados en la caza. Sin embargo, si se utilizan trampas o lazos y la pieza muere antes de que se pueda alcanzarla, su consumo es ilegal.
 
@@ -138,9 +138,9 @@ RESPUESTA: Es obligación peregrinar a una de las dos Casas sagradas; pero a cu�
 
 RESPUESTA: En cuanto a la dote, la intención de contentarse con el nivel más bajo es de diecinueve mitzvales de plata.
 
-27\. PREGUNTA: Sobre el versículo sagrado: “Si, sin embargo, le llegase la noticia de la muerte de su marido”, etc.
+27\. PREGUNTA: Sobre el versículo sagrado: «Si, sin embargo, le llegase la noticia de la muerte de su marido», etc.
 
-RESPUESTA: Con referencia a esperar un “número fijo de meses” se entiende un período de nueve meses.
+RESPUESTA: Con referencia a esperar un «número fijo de meses» se entiende un período de nueve meses.
 
 28\. PREGUNTA: Nuevamente se ha preguntado sobre la parte de la herencia que corresponde al maestro.
 
@@ -150,11 +150,11 @@ RESPUESTA: Si el maestro ha fallecido, una tercera parte de su parte de la heren
 
 RESPUESTA: Por peregrinación a la Casa Sagrada, que se les ha encomendado a los hombres, se entiende tanto la Casa Más Grande de Bagdad como la Casa del Punto Primordial de Shiraz; basta con peregrinar a cualquiera de estas Casas. Pueden, por tanto, peregrinar a la que esté más cerca del lugar donde residen.
 
-30\. PREGUNTA: Respecto del versículo: “quien quiera tomar a una sirvienta a su servicio, puede hacerlo con propiedad”.
+30\. PREGUNTA: Respecto del versículo: «quien quiera tomar a una sirvienta a su servicio, puede hacerlo con propiedad».
 
 RESPUESTA: Esto es únicamente para el servicio que presta cualquier otra clase de sirvientes, ya sean jóvenes o viejos, a cambio de un salario; dicha doncella es libre de elegir marido en el momento que le plazca, ya que está prohibido que se compren mujeres o que un hombre tenga más de dos esposas.
 
-31\. PREGUNTA: Sobre el versículo sagrado: “El Señor ha prohibido... la práctica a la que recurrísteis anteriormente cuando os divorciasteis tres veces de una mujer”.
+31\. PREGUNTA: Sobre el versículo sagrado: «El Señor ha prohibido... la práctica a la que recurrísteis anteriormente cuando os divorciasteis tres veces de una mujer».
 
 RESPUESTA: La referencia es a la ley que anteriormente hacía necesario que otro hombre se casara con dicha mujer antes de que ella pudiera casarse nuevamente con su anterior marido; esta práctica ha sido prohibida en el Kitab-i-Aqdas.
 
@@ -198,7 +198,7 @@ RESPUESTA: En cada caso, en cualquier momento en que ocurre la antipatía, el a�
 
 41\. PREGUNTA: La residencia y la ropa personal del difunto han sido asignadas a los hijos varones, no a las mujeres, ni a los demás herederos; si el difunto no ha dejado descendencia masculina, ¿qué se debe hacer?
 
-RESPUESTA: Él dice, exaltado sea: “Si el difunto no deja descendencia, su parte revertirá a la Casa de Justicia...” De conformidad con este versículo sagrado, la residencia y la ropa personal del difunto revierten a la Casa de Justicia.
+RESPUESTA: Él dice, exaltado sea: «Si el difunto no deja descendencia, su parte revertirá a la Casa de Justicia...» De conformidad con este versículo sagrado, la residencia y la ropa personal del difunto revierten a la Casa de Justicia.
 
 42\. PREGUNTA: La ordenanza del Huququ'llah se revela en el Kitab-i-Aqdas. ¿Está incluida la vivienda, con los accesorios y el mobiliario necesarios, en la propiedad sobre la que se debe pagar el Huquq, o no?
 
@@ -216,7 +216,7 @@ RESPUESTA: En tal caso no se deberá pagar el Huquq.
 
 RESPUESTA: En este caso también no se requiere el pago del Huquq.
 
-46\. PREGUNTA: Con referencia al versículo sagrado, “Dios os ha prescrito el matrimonio”, ¿es esta prescripción obligatoria o no?
+46\. PREGUNTA: Con referencia al versículo sagrado, «Dios os ha prescrito el matrimonio», ¿es esta prescripción obligatoria o no?
 
 RESPUESTA: No es obligatorio.
 
@@ -226,7 +226,7 @@ RESPUESTA: En tal caso, los gastos y la dote pueden ser reembolsados. La condici
 
 Sin embargo, ocultar y perdonar el asunto merecerá, a los ojos de Dios, una generosa recompensa.
 
-48\. PREGUNTA: “Se os ha ordenado una fiesta...” ¿Es esto obligatorio o no?
+48\. PREGUNTA: «Se os ha ordenado una fiesta...» ¿Es esto obligatorio o no?
 
 RESPUESTA: No es obligatorio.
 
@@ -238,7 +238,7 @@ RESPUESTA: La determinación de los grados de estas penas corresponde a la Casa 
 
 RESPUESTA: Estos asuntos también competen a los Síndicos de la Casa de Justicia.
 
-51\. PREGUNTA: Con referencia a las abluciones, se ha revelado: “Quien no encuentre agua para la ablución, que repita cinco veces las palabras ‘En el Nombre de Dios, el Más Puro, el Más Puro’”: ¿es permisible recitar este verso en tiempos de frío intenso, o si las manos o la cara están heridas?
+51\. PREGUNTA: Con referencia a las abluciones, se ha revelado: «Quien no encuentre agua para la ablución, que repita cinco veces las palabras ‘En el Nombre de Dios, el Más Puro, el Más Puro’»: ¿es permisible recitar este verso en tiempos de frío intenso, o si las manos o la cara están heridas?
 
 RESPUESTA: Se puede utilizar agua tibia en épocas de frío intenso. Si hay heridas en la cara o en las manos, o hay otras razones como dolores y molestias para las que el uso del agua sería perjudicial, se puede recitar el verso indicado en lugar de la ablución.
 
@@ -256,9 +256,9 @@ parte del padre..." ¿Qué se debe hacer si la hija muere durante la vida de su 
 
 RESPUESTA: Su parte de la herencia debe distribuirse entre las siete categorías de herederos según la ordenanza del Libro.
 
-55\. PREGUNTA: Si la fallecida es una mujer, ¿a quién se le asigna la parte de la herencia de la “esposa”?
+55\. PREGUNTA: Si la fallecida es una mujer, ¿a quién se le asigna la parte de la herencia de la «esposa»?
 
-RESPUESTA: La parte de la herencia que le corresponde a la “esposa” se asigna al marido.
+RESPUESTA: La parte de la herencia que le corresponde a la «esposa» se asigna al marido.
 
 56\. PREGUNTA: Respecto del sudario del cuerpo del difunto, que está decretado que comprenda cinco sábanas: ¿se refiere con cinco a cinco telas que se utilizaban hasta entonces habitualmente o a cinco sudarios de cuerpo entero envueltos uno alrededor del otro?
 
@@ -268,7 +268,7 @@ RESPUESTA: Se pretende el uso de cinco paños.
 
 RESPUESTA: Muchas Tablas fueron reveladas y enviadas en su forma original sin ser revisadas ni revisadas. En consecuencia, como se había ordenado, fueron leídas nuevamente en la Santa Presencia y puestas en conformidad con las convenciones gramaticales del pueblo para prevenir las objeciones de los oponentes de la Causa. Otra razón para esta práctica es que el nuevo estilo inaugurado por el Heraldo, que las almas de todos excepto Él sean ofrecidas por Su causa, se vio marcado por una considerable latitud en la adhesión a las reglas de la gramática; por lo tanto, los versículos sagrados fueron revelados en un estilo que en su mayor parte está en conformidad con el uso corriente para facilitar la comprensión y la concisión de la expresión.
 
-58\. PREGUNTA: Con respecto al bendito versículo, “Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad… una sola postración en lugar de cada Oración Obligatoria no dicha”: ¿es esto una compensación por la Oración Obligatoria perdida por razón de circunstancias inseguras, o la oración obligatoria se suspende completamente durante el viaje, y la postración ocupa su lugar?
+58\. PREGUNTA: Con respecto al bendito versículo, «Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad… una sola postración en lugar de cada Oración Obligatoria no dicha»: ¿es esto una compensación por la Oración Obligatoria perdida por razón de circunstancias inseguras, o la oración obligatoria se suspende completamente durante el viaje, y la postración ocupa su lugar?
 
 RESPUESTA: Si al llegar la hora de la oración obligatoria no hay seguridad, al llegar a un lugar seguro, se debe realizar una postración en lugar de cada oración obligatoria que se haya perdido y, después de la postración final, sentarse con las piernas cruzadas y leer el verso designado. Si hay un lugar seguro, la oración obligatoria no se suspende durante el viaje.
 
@@ -282,7 +282,7 @@ RESPUESTA: Es suficiente recitar el verso designado después de la última postr
 
 61\. PREGUNTA: Si se omite una oración obligatoria en casa, ¿se debe compensar con una postración o no?
 
-RESPUESTA: En respuesta a preguntas anteriores se escribió: “Esta disposición sobre la postración compensatoria se aplica tanto en casa como en viaje”.
+RESPUESTA: En respuesta a preguntas anteriores se escribió: «Esta disposición sobre la postración compensatoria se aplica tanto en casa como en viaje».
 
 62\. PREGUNTA: Si por otro motivo se han realizado las abluciones y llega el momento de la oración obligatoria, ¿son suficientes estas abluciones o deben renovarse?
 
@@ -304,11 +304,11 @@ RESPUESTA: Se ordena ofrecer una de estas tres oraciones; cualquiera que se real
 
 RESPUESTA: Las abluciones están conectadas con la oración obligatoria para la que se realizan y deben renovarse para cada oración.
 
-67\. PREGUNTA: En relación con la oración obligatoria larga, es necesario ponerse de pie y “volverse hacia Dios”. Esto parece indicar que no es necesario orientarse hacia la Alquimia. ¿Es así o no?
+67\. PREGUNTA: En relación con la oración obligatoria larga, es necesario ponerse de pie y «volverse hacia Dios». Esto parece indicar que no es necesario orientarse hacia la Alquimia. ¿Es así o no?
 
 RESPUESTA: La Alquimia está destinada.
 
-68\. PREGUNTA: Respecto del verso sagrado: “Recitad los versos de Dios cada mañana y cada tarde”.
+68\. PREGUNTA: Respecto del verso sagrado: «Recitad los versos de Dios cada mañana y cada tarde».
 
 RESPUESTA: La intención es todo lo que ha sido enviado desde el Cielo de la Palabra Divina. El requisito primordial es el anhelo y el amor de las almas santificadas por leer la Palabra de Dios. Leer un versículo, o incluso una palabra, con un espíritu de alegría y resplandor, es preferible a la lectura de muchos Libros.
 
@@ -366,11 +366,11 @@ RESPUESTA: Las deudas pendientes y los pagos del Huquq deben ser pagados con el 
 
 RESPUESTA: Es preferible y más apropiado adoptar una actitud de humilde reverencia.
 
-82\. PREGUNTA: Respecto de la primera oración obligatoria se ha ordenado que “se debe realizar en cualquier momento en que uno se encuentre en estado de humildad y anhelante adoración”: ¿se debe realizar una vez cada veinticuatro horas o con mayor frecuencia?
+82\. PREGUNTA: Respecto de la primera oración obligatoria se ha ordenado que «se debe realizar en cualquier momento en que uno se encuentre en estado de humildad y anhelante adoración»: ¿se debe realizar una vez cada veinticuatro horas o con mayor frecuencia?
 
 RESPUESTA: Una vez cada veinticuatro horas es suficiente; esto es lo que ha sido pronunciado por la Lengua del Mandato Divino.
 
-83\. PREGUNTA: Sobre la definición de “mañana”, “mediodía” y “tarde”.
+83\. PREGUNTA: Sobre la definición de «mañana», «mediodía» y «tarde».
 
 RESPUESTA: Son el amanecer, el mediodía y el atardecer. Los momentos permitidos para las oraciones obligatorias son desde la mañana hasta el mediodía, desde el mediodía hasta el atardecer y desde el atardecer hasta dos horas después. La autoridad está en manos de Dios, el Portador de los Dos Nombres.
 
@@ -380,7 +380,7 @@ RESPUESTA: Tanto el tomar como el dar en matrimonio son permisibles; así lo dec
 
 85\. PREGUNTA: En cuanto a la oración por los muertos, ¿debe preceder o seguir al entierro? ¿Es obligatorio orientarse hacia la Alquimia?
 
-RESPUESTA: La recitación de esta oración debe preceder al entierro; y con respecto a la Qiblih: “Dondequiera que os volváis, allí está el rostro de Dios.” (Corán 2:115).
+RESPUESTA: La recitación de esta oración debe preceder al entierro; y con respecto a la Qiblih: «Dondequiera que os volváis, allí está el rostro de Dios.» (Corán 2:115).
 
 86\. PREGUNTA: Al mediodía, que es el momento de dos de las oraciones obligatorias —la oración breve del mediodía y las oraciones que se deben ofrecer por la mañana, el mediodía y la tarde— ¿es necesario en este caso realizar dos abluciones o bastaría con una?
 
@@ -452,7 +452,7 @@ RESPUESTA: Si se encuentra un tesoro, un tercio del mismo pertenece al descubrid
 
 Respuesta: La ordenanza de Dios es que los bienes inmuebles que han dejado de producir ingresos, es decir, Adrianópolis, de los que no se obtiene ningún beneficio, no están sujetos al pago del Huqúq. Él, en verdad, es el Gobernante, el Munificente.
 
-103\. PREGUNTA: Sobre el versículo sagrado: “En las regiones donde los días y las noches se hacen largos, que los tiempos de oración se midan con relojes...”
+103\. PREGUNTA: Sobre el versículo sagrado: «En las regiones donde los días y las noches se hacen largos, que los tiempos de oración se midan con relojes...»
 
 RESPUESTA: La intención es la de aquellos territorios que se encuentran alejados. Sin embargo, en estos climas la diferencia de longitud es de apenas unas horas, por lo que esta norma no se aplica.
 
@@ -460,7 +460,7 @@ RESPUESTA: La intención es la de aquellos territorios que se encuentran alejado
 
 105\. En otra Tabla se revelaron estas palabras sublimes: ¡Oh Muhammad! El Anciano de los Días ha vuelto Su rostro hacia ti, haciendo mención de ti y exhortando al pueblo de Dios a educar a sus hijos. Si un padre descuida este precepto tan importante establecido en el Kitab-i-Aqdas por la Pluma del Rey Eterno, perderá los derechos de paternidad y será considerado culpable ante Dios. Bienaventurado aquel que graba en su corazón las advertencias del Señor y se aferra a ellas con firmeza. Dios, en verdad, ordena a Sus siervos lo que les ayudará y les permitirá acercarse a Él. Él es el Ordenador, el Eterno.
 
-106\. ¡Él es Dios, exaltado sea, el Señor de majestad y poder! Los Profetas y los Elegidos han sido todos comisionados por el Único Dios Verdadero, magnificada sea Su gloria, para nutrir los árboles de la existencia humana con las aguas vivas de la rectitud y el entendimiento, para que pueda surgir de ellos lo que Dios ha depositado en lo más íntimo de sus seres. Como puede observarse fácilmente, cada árbol produce un determinado fruto, y un árbol estéril sólo es apto para el fuego. El propósito de estos Educadores, en todo lo que dijeron y enseñaron, fue preservar la exaltada posición del hombre. Bienaventurado aquel que en el Día de Dios se ha aferrado firmemente a Sus preceptos y no se ha desviado de Su Ley verdadera y fundamental. Los frutos que mejor se adaptan al árbol de la vida humana son la honradez y la piedad, la veracidad y la sinceridad; pero mayor que todo, después del reconocimiento de la unidad de Dios, alabado y glorificado sea Él, es el respeto por los derechos que se deben a los padres. Esta enseñanza ha sido mencionada en todos los Libros de Dios y reafirmada por la Más Exaltada Pluma. Considerad lo que el Señor Misericordioso ha revelado en el Corán, exaltadas sean Sus palabras: “Adorad a Dios, no Le asociéis igual ni semejanza; y mostrad bondad y caridad a vuestros padres...” Observad cómo la bondad amorosa hacia los padres ha estado vinculada al reconocimiento del único Dios verdadero. Felices aquellos que están dotados de verdadera sabiduría y entendimiento, que ven y perciben, que leen y entienden, y que observan lo que Dios ha revelado en los Libros Sagrados de antaño, y en esta Tabla incomparable y maravillosa.
+106\. ¡Él es Dios, exaltado sea, el Señor de majestad y poder! Los Profetas y los Elegidos han sido todos comisionados por el Único Dios Verdadero, magnificada sea Su gloria, para nutrir los árboles de la existencia humana con las aguas vivas de la rectitud y el entendimiento, para que pueda surgir de ellos lo que Dios ha depositado en lo más íntimo de sus seres. Como puede observarse fácilmente, cada árbol produce un determinado fruto, y un árbol estéril sólo es apto para el fuego. El propósito de estos Educadores, en todo lo que dijeron y enseñaron, fue preservar la exaltada posición del hombre. Bienaventurado aquel que en el Día de Dios se ha aferrado firmemente a Sus preceptos y no se ha desviado de Su Ley verdadera y fundamental. Los frutos que mejor se adaptan al árbol de la vida humana son la honradez y la piedad, la veracidad y la sinceridad; pero mayor que todo, después del reconocimiento de la unidad de Dios, alabado y glorificado sea Él, es el respeto por los derechos que se deben a los padres. Esta enseñanza ha sido mencionada en todos los Libros de Dios y reafirmada por la Más Exaltada Pluma. Considerad lo que el Señor Misericordioso ha revelado en el Corán, exaltadas sean Sus palabras: «Adorad a Dios, no Le asociéis igual ni semejanza; y mostrad bondad y caridad a vuestros padres...» Observad cómo la bondad amorosa hacia los padres ha estado vinculada al reconocimiento del único Dios verdadero. Felices aquellos que están dotados de verdadera sabiduría y entendimiento, que ven y perciben, que leen y entienden, y que observan lo que Dios ha revelado en los Libros Sagrados de antaño, y en esta Tabla incomparable y maravillosa.
 
 107\. En una de las Tablas Él, exaltadas sean Sus palabras, ha revelado: Y en materia de Zakat, asimismo hemos decretado que debéis seguir lo que ha sido revelado en el Corán.
 

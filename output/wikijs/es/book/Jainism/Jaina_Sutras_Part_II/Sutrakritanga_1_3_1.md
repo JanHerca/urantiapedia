@@ -42,7 +42,7 @@ Avanzan hacia el frente de la batalla; pero cuando la lucha ha comenzado, la mad
 
 Así, un novicio, que aún no ha sufrido dolores ni está acostumbrado a la vida mendicante, se cree un héroe hasta que practica austeridades [^768]. (3)
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Cuando durante el invierno sufren frío y corrientes de aire, los débiles se desaniman como los Kshattriyas que han perdido su reino. (4)
 
@@ -54,7 +54,7 @@ Los hombres débiles que no pueden soportar estos insultos en los pueblos o ciud
 
 Quizás un perro gruñón muerda a un monje hambriento; en ese caso, los débiles se desanimarán como animales quemados por el fuego. (8)
 
-Algunos que odian (a los monjes) los injurian: “Quienes llevan una vida tan miserable (como la de los monjes) expían (sus pecados en una vida anterior)”. (9)
+Algunos que odian (a los monjes) los injurian: «Quienes llevan una vida tan miserable (como la de los monjes) expían (sus pecados en una vida anterior)». (9)
 
 Algunos les llaman por apodos como 'desnudos, los más bajos de los mendigos, calvos, costrosos, sucios, repugnantes'. (10)
 
@@ -64,7 +64,7 @@ Cuando les pican moscas y mosquitos, y no pueden soportar el pinchazo de la hier
 
 Algunos hombres débiles, que sufren a causa del arrancamiento del cabello y que no son capaces de conservar su castidad, se desanimarán como peces atravesados ​​por una lanza [^771]. (13)
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Algunas personas bajas que llevan una vida de iniquidad y mantienen opiniones heréticas, estando sujetas al amor y al odio, dañan a un monje. (14)
 

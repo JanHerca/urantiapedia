@@ -1,6 +1,6 @@
 ---
 title: "VI. Khôrshêd Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## (YAS AL SOL.)
 

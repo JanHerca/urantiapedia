@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## PARTE IV. LOS LIBROS DE SHANG. LIBRO I. EL DISCURSO DE THANG.
 
@@ -42,7 +42,7 @@ Cuando se formó la colección, en el Shû existían treinta y un documentos de 
 
 Había convocado a su pueblo para que entrara en campaña con él contra Kieh, el cruel y condenado soberano de Hsiâ, y al encontrarlos reacios a la empresa, expone en este Libro sus razones para atacar al tirano, argumenta contra su renuencia, utilizando al final tanto promesas como amenazas para inducirlos a obedecer sus órdenes.
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 El rey dijo: «Vengan, multitudes del pueblo, escuchen mis palabras. No soy yo, el pequeño [^95], quien se atreve a emprender una empresa rebelde; pero debido a los muchos crímenes del soberano de Hsiâ, el Cielo ha dado la orden de destruirlo».
 

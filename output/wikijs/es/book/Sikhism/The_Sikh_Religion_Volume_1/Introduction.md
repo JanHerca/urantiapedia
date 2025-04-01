@@ -475,7 +475,7 @@ Las hazañas realizadas, las profecías pronunciadas y la instrucción impartida
 
 Aquellos que, seguros de su propia sabiduría e infalibilidad, y viviendo apartados del pueblo indio, desdeñan todo conocimiento de sus sistemas teológicos, y por lo tanto consideran el sijismo una religión pagana, y la felicidad espiritual y la lealtad de sus seguidores insignificantes, son hombres cuyo triunfo será efímero y cuya gloria no descenderá con el acompañamiento de éxtasis de juglares a las generaciones futuras. No pierdo la esperanza de que cuando los gobernantes ilustrados conozcan los méritos de la religión sij, no la dejarán perecer voluntariamente en el gran abismo en el que se han hundido tantos credos.
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

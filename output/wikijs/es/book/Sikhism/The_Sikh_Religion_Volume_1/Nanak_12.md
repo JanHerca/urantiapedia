@@ -50,7 +50,7 @@ Aquel que está imbuido del verdadero Nombre lo obtiene; ese Gurú se llama sand
 Fija tu atención en Sus pies por cuyo olor los vegetales
 están perfumados.
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 A través del Gurú el hombre obtiene la vida real, y a través del Gurú el hombre parte hacia la casa de Dios.
 Nanak, a través del Gurú el hombre se absorbe en el Verdadero; a través del Gurú el hombre obtiene la dignidad especial de la liberación.[^1]
@@ -90,7 +90,7 @@ Después de esto, el Gurú se lanzó a una sátira sobre los jainistas:
 
 Les arrancan el pelo, beben agua sucia, mendigan y comen los desechos de otros;
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Extendieron sus excrementos, inhalaron su olor, les dio vergüenza mirar el agua;
 Les despluman la cabeza como a ovejas; las manos de los desplumadores están untadas de ceniza.
@@ -107,7 +107,7 @@ Los jainistas no hacen ofrendas ni realizan abluciones; el polvo cae sobre sus c
 De las gemas del agua surgieron cuando Meru hizo el bastón batidor.[^3]
 Los dioses designaron los sesenta y ocho lugares de peregrinación y los días sagrados fueron fijados en consecuencia por sus órdenes.
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Después de la ablución, los musulmanes rezan; después de la ablución, los hindúes adoran; los sabios siempre se bañan.
 Los muertos y los vivos se purifican cuando se vierte agua sobre sus cabezas.
@@ -145,7 +145,7 @@ Recibe cien vituperios de día y mil de noche.[^3]
 
 El Pir entonces cayó a sus pies, invitó al Gurú a permanecer con él y desistir de sus vagabundeos, ante lo cual el Gurú pronunció la siguiente reflexión e instrucción:
 
-<span id="p154">[<sup><small>pág. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Descansa, siéntate en casa, siempre hay problemas en viajar.
 Se reconoce un lugar de descanso cuando los hombres habitan allí de forma permanente.
@@ -164,7 +164,7 @@ Sólo el Misericordioso es permanente; todo el mundo que lo rodea es transitorio
 Llámalo permanente a Aquel en cuya cabeza no está escrito ningún destino.
 Los cielos y la tierra pasarán; sólo él, el único Dios, permanece.
 De día viaja el sol, de noche la luna; cientos de miles de estrellas pasan.
-“El único Dios es nuestro lugar de descanso”, dice Nanak con verdad.[^1]
+«El único Dios es nuestro lugar de descanso», dice Nanak con verdad.[^1]
 
 Ante esto, el Pir se convenció de que el Gurú era un líder espiritual exaltado.
 

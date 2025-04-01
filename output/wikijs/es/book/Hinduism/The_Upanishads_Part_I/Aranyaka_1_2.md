@@ -151,7 +151,7 @@ Quien sabe esto descansa firme, y también aquellos para quienes un sacerdote Ho
 
 10\. El Hotri sube al columpio, el Udgâtri al asiento de madera de Udumbara. El columpio es masculino, el asiento femenino, y forman una unión. Así, se une al comienzo del uktha para tener descendencia.
 
-<span id="p175">[<sup><small>pág. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 El que sabe esto, tendrá descendencia y ganado.
 

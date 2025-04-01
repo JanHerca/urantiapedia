@@ -64,7 +64,7 @@ Nota: ¡Aquí hay una declaración diplomática!
 
 19-20. El esfuerzo, la aplicación y la manifestación de la energía son, sin duda, deberes del hombre; pero sus efectos están todos bajo el Gran Destino.
 
-<span id="p331">[<sup><small>pág. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 Los Pundits que conocen la tradición antigua dicen que hay tres tipos de Karma mencionados en los Purânas y Âgamas: Primero, el Karma Sanchita (hecho en nacimientos pasados); el Karma Prârabdha, el Karma ya hecho; y el Karma Vartamân (Karma en mano).
 
@@ -159,7 +159,7 @@ Aquí termina el Capítulo 21 del S'rî Mad Devî Bhâgavatam, el Mahâ Purânam
 
 26\. Y aproximadamente en esa época, Bhagavân, el Protector del devoto, apareció en el octavo vientre de Devakî para servir al propósito de los dioses y aliviar la carga de la Tierra.
 
-27-28. El Rey dijo: —¡Oh, el mejor de los Munis! “Has descrito las encarnaciones parciales de (1) Kas'yapa como Vâsudeva y (2) de Bhagavân Hari para aliviar la carga de la Diosa Tierra, según Su oración; y (3) de Ananta Deva; pero no has descrito las encarnaciones parciales de los demás Devas. Cómo los demás Devas encarnaron como sus partes en esta tierra, por favor, descríbelas ahora.” <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> 29\. Vyâsa dijo: —Te estoy refiriendo brevemente a las encarnaciones parciales de Suras y Asuras en esta tierra, y sus nombres; escucha.
+27-28. El Rey dijo: —¡Oh, el mejor de los Munis! «Has descrito las encarnaciones parciales de (1) Kas'yapa como Vâsudeva y (2) de Bhagavân Hari para aliviar la carga de la Diosa Tierra, según Su oración; y (3) de Ananta Deva; pero no has descrito las encarnaciones parciales de los demás Devas. Cómo los demás Devas encarnaron como sus partes en esta tierra, por favor, descríbelas ahora.» <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> 29\. Vyâsa dijo: —Te estoy refiriendo brevemente a las encarnaciones parciales de Suras y Asuras en esta tierra, y sus nombres; escucha.
 
 30-32. Vâsudeva fue la encarnación parcial de Kas'yapa; Devakî lo fue de Aditi; Baladeva, de Ananta; Vâsudeva S'rî Krisna, de S'rîmân Nârâyana; el hijo de Dharma que existía incluso en ese momento en su cuerpo físico; Arjuna, de Nara, el hermano menor de Nârâyana.
 
@@ -179,7 +179,7 @@ Aquí termina el Capítulo 21 del S'rî Mad Devî Bhâgavatam, el Mahâ Purânam
 
 46-47. Kubalaya, el elefante de Kamsa, fue una encarnación parcial de Arista, el sol de Diti. Vakî era hija de Bali, y Vaka era su hija menor.
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 El poderoso hijo de Drona, As'vatthâmâ, aunque conocido como la parte encarnada de Rudra, en realidad nació de las cuatro partes de Yama, Rudra, Codicia e Ira.
 
@@ -198,7 +198,7 @@ Así termina el capítulo 22 del cuarto libro del S'rîmad Devî Bhâgavatam, el
 
 **Capítulo XXIII**
 
-**Sobre el nacimiento de Sri Krisna** <span id="p337">[<sup><small>pág. 337</small></sup>]</span> 1-2. Vyâsa dijo:— Habiendo matado Kamsa a los seis hijos de Devakî y habiendo abortado el séptimo útero, Kamsa, cuando Devakî quedó embarazada por octava vez, comenzó a pensar en la causa de su propia muerte, según le había aconsejado Nârada, y vigiló atentamente día y noche, para que esta vez naciera un hijo y no hubiera aborto.
+**Sobre el nacimiento de Sri Krisna** <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 1-2. Vyâsa dijo:— Habiendo matado Kamsa a los seis hijos de Devakî y habiendo abortado el séptimo útero, Kamsa, cuando Devakî quedó embarazada por octava vez, comenzó a pensar en la causa de su propia muerte, según le había aconsejado Nârada, y vigiló atentamente día y noche, para que esta vez naciera un hijo y no hubiera aborto.
 
 3\. Por otra parte, Bhagavân Hari descendió y descansó en el cuerpo de Vâsudeva como parte encarnada y luego entró en el vientre de Devakî, en el debido orden.
 
@@ -430,7 +430,7 @@ Aquí termina el Capítulo Vigésimo Cuarto del Cuarto Libro del S'rî Mad Devî
 
 31-32. Durante el primer mes, se alimentó solo de frutas, meditó en Shiva y repitió en silencio el mantra de Shiva. Así, practicó austeridades muy severas. Durante el segundo mes, se alimentó solo de agua y se apoyó en una sola pierna. Durante el tercer mes, se alimentó solo de aire y se apoyó en la punta del dedo gordo del pie.
 
-33-36. Así transcurrió el tiempo. En el sexto mes, el dios Rudra, sosteniendo la Luna en su frente, se sintió complacido con su ascetismo y devoción, y se apareció ante él en ese mismo lugar. El dios Mahâ Deva llegó en un toro; lo acompañaban Brahmâ y Visnu, Indra y los demás devas, Yakshas y Gandarbhas, y le habló así: “¡Oh, noble Krisna, descendiente de Yadu! Me complace tu riguroso ascetismo; pide ahora tu anhelada bendición; te la concederé ahora mismo. Cumplo todos los deseos de todos mis devotos; <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> ¿qué deseo, entonces, puede haber que no se cumpla cuando me ven los devotos?”
+33-36. Así transcurrió el tiempo. En el sexto mes, el dios Rudra, sosteniendo la Luna en su frente, se sintió complacido con su ascetismo y devoción, y se apareció ante él en ese mismo lugar. El dios Mahâ Deva llegó en un toro; lo acompañaban Brahmâ y Visnu, Indra y los demás devas, Yakshas y Gandarbhas, y le habló así: «¡Oh, noble Krisna, descendiente de Yadu! Me complace tu riguroso ascetismo; pide ahora tu anhelada bendición; te la concederé ahora mismo. Cumplo todos los deseos de todos mis devotos; <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> ¿qué deseo, entonces, puede haber que no se cumpla cuando me ven los devotos?»
 
 37-38. Vyâsa dijo: —El hijo de Devakî se alegró mucho de ver al dios Samkara y se postró a sus pies. Entonces, ese eterno y supremo dios de los Devas comenzó a recitar himnos de alabanza en su honor con un tono tan profundo como el rumor de una nube.
 

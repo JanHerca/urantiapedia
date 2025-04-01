@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 ### CAPÍTULO XIII.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. ¿Qué menor huérfana está obligada a presentar una negativa formal? La que, con su consentimiento, fue casada por su madre o hermanos, pero que, tras haber sido casada por ellos sin su consentimiento, no necesita pronunciar una negativa formal para anular el matrimonio. R. Hanina ben Atignos dice: «Cualquier menor que fuera entonces [^743] incapaz de administrar el dinero, etc., [que se le dio como vínculo matrimonial] tampoco está obligada a presentar una negativa formal». R. Eleazar dice: «El acto de una menor es nulo, y dicha joven solo puede ser considerada como una que ha sido seducida. Si es hija de un israelita, y él sacerdote, no puede comer del cielo; pero si es hija de un sacerdote, y él israelita, sí puede comerlo».
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 § 3. R. Eleazar ben Jacob dice: "Cuando la estancia prolongada de una mujer [^744] \[que había sido divorciada de su marido\] se debe al afecto por él, debe ser considerada como su esposa; pero si no procedió de esa causa, [^745] no debe ser considerada como su esposa.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 6. Si una persona se divorció de su esposa y la recuperó, su hermano puede, al fallecer sin descendencia, casarse con ella por Yebum; pero R. Eleazar lo prohíbe. Así también, un huérfano que ha sido divorciado y recuperado puede casarse por Yebum; pero R. Eleazar también lo prohíbe. Una mujer que, siendo menor de edad, fue dada en matrimonio por su padre y recibió un Get, se considera huérfana, incluso en vida de su padre. Sin embargo, todos coinciden en que, en caso de que él, es decir, el hombre del que se divorció, la recuperara, no puede, por deseo suyo, casarse con su hermano por Yebum.
 
-<span id="p229">[<sup><small>pág. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 § 7. Cuando dos hermanos se casan con dos hermanas menores de edad y huérfanas, y el esposo de una de ellas fallece, la viuda queda exonerada de Yeboom, como hermana de la esposa del cuñado; también cuando ambas mujeres son sordomudas. Cuando una de las hermanas ha alcanzado la mayoría de edad y la otra es aún menor de edad, si el esposo de la menor fallece, queda exonerada de Yeboom, como hermana de la esposa del cuñado. R. Eleazar dice: «Cuando fallece el esposo de la hermana mayor, se debe instruir a la hermana menor a que se niegue». [^746] Rabbon Gamaliel dice: «Si se niega, está bien; si no, que espere hasta alcanzar la mayoría de edad; y entonces su hermana quedará exonerada como hermana de la esposa». R. Joshua dice: "Un hombre así merece conmiseración, a causa de su propia esposa y su cuñada, porque debe separarse de su esposa mediante un _Get_, y está obligado a recibir _Chalitzah_ de su cuñada.
 

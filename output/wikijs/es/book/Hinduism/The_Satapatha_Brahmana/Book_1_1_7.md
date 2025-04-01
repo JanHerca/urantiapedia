@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 <span id="v1_7_1"><sup><small>1:7:1</small></sup></span>
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_7_1_1313"><sup><small>1:7:1:1313.</small></sup></span> Así como entonces (es decir, en el sacrificio de Soma) clarifican al rey Soma con un colador, de la misma manera ahora clarifica (la leche); y puesto que el colador con el que en esa ocasión clarifican al rey Soma tiene su fleco dirigido hacia el norte, por tanto, que ahora también lo coloque con la parte superior hacia el norte.
 
-<span id="v1_7_1_1414"><sup><small>1:7:1:1414.</small></sup></span> Lo escribe, con el texto (Vâ<i>g</i>. S. I, 3 a), "¡Tú eres el medio de purificación (pavitram) de Vasu!" —Vasu, de hecho, es el sacrificio: por esta razón dice: "¡Tú eres el medio de purificación de Vasu! ¡Fluyendo en cien corrientes, fluyendo en mil corrientes!" —lo alaba y lo elogia cuando dice: "Fluyendo en cien corrientes, fluyendo en mil corrientes". <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 1:7:1:1515\. Ahora permanece en silencio mientras dura el ordeño de las tres vacas, pues el sacrificio, sin duda, es palabra: “¡Que pueda realizar el sacrificio sin ser molestado!”, piensa.
+<span id="v1_7_1_1414"><sup><small>1:7:1:1414.</small></sup></span> Lo escribe, con el texto (Vâ<i>g</i>. S. I, 3 a), "¡Tú eres el medio de purificación (pavitram) de Vasu!" —Vasu, de hecho, es el sacrificio: por esta razón dice: "¡Tú eres el medio de purificación de Vasu! ¡Fluyendo en cien corrientes, fluyendo en mil corrientes!" —lo alaba y lo elogia cuando dice: "Fluyendo en cien corrientes, fluyendo en mil corrientes". <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 1:7:1:1515\. Ahora permanece en silencio mientras dura el ordeño de las tres vacas, pues el sacrificio, sin duda, es palabra: «¡Que pueda realizar el sacrificio sin ser molestado!», piensa.
 
 <span id="v1_7_1_1616"><sup><small>1:7:1:1616.</small></sup></span> Cuando el ordeñador vierte la leche de las tres vacas desde el cubo de madera a través del colador en la olla, el Adhvaryu la consagra susurrando cada vez la fórmula (Vâ<i>g</i>. S. I, 3 b): «¡Que la divina Savit<i>ri</i> te purifique con los métodos de purificación de Vasu, que purifican bien y fluyen en cien corrientes!», pues así como en el sacrificio de Soma se clarifica al rey Soma con un colador, así también él clarifica la leche.
 
@@ -188,7 +188,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_7_3_2626"><sup><small>1:7:3:2626.</small></sup></span> Aquí ahora dicen: «Que cocinen los platos sacrificiales <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> en el Âhavanîya; pues desde allí, sin duda, los dioses ascendieron al cielo, y con él continuaron adorando y trabajando: ¡allí cocinaremos los platos sacrificiales; allí realizaremos el sacrificio! Pues, por así decirlo, se produciría un desplazamiento [^479] de los platos sacrificiales si los cocinaran en el Gârhapatya. El Âhavanîya es el sacrificio: ¡realizaremos el sacrificio en el sacrificio!»
 
-<span id="v1_7_3_2727"><sup><small>1:7:3:2727.</small></sup></span> Sin embargo, también cocinan en el Gârhapatya, argumentando: «El primero es ciertamente âhavanîya (es decir, “apto para holocausto”); pero ese, sin duda, no está destinado a esto, es decir, a que cocinen alimentos crudos sobre él; pero sí está destinado a esto, es decir, a que ofrezcan alimentos cocidos sobre él». Por lo tanto, puede hacerlo en el fuego que desee.
+<span id="v1_7_3_2727"><sup><small>1:7:3:2727.</small></sup></span> Sin embargo, también cocinan en el Gârhapatya, argumentando: «El primero es ciertamente âhavanîya (es decir, «apto para holocausto»); pero ese, sin duda, no está destinado a esto, es decir, a que cocinen alimentos crudos sobre él; pero sí está destinado a esto, es decir, a que ofrezcan alimentos cocidos sobre él». Por lo tanto, puede hacerlo en el fuego que desee.
 
 <span id="v1_7_3_2828"><sup><small>1:7:3:2828.</small></sup></span> Ese sacrificio dijo: «Temo la desnudez». «¿Qué es la desnudez para ti?». «¡Que me esparzan (hierba de sacrificio) a mi alrededor!». Por eso esparcieron (hierba de sacrificio) alrededor del fuego. «Temo la sed». «¿Cómo te saciarás?». «¡Que me sacie después de que el sacerdote se sacie!». Que, por lo tanto, al terminar el sacrificio, ordene que el sacerdote se sacie; pues entonces sacia el sacrificio.
 
@@ -265,7 +265,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^424]: 183:2 Gâyatryai vâ somasya vâ='tanto de G. como de S.', Sâya<i>n</i>a. Apâd astâ, 'un tirador sin pies', es una lectura dudosa y quizás una antigua corrupción; Sâya<i>n</i>a dice apâdhastâ (? adhastât); cf. Weber, varias lecturas, p. 133. El manuscrito Kâ<i>n</i>va dice: 'devebhyas tasyâ âharantyâ avâdastâbhyâyatya par<i>n</i>a<i>m</i> pra<i>k</i>i<i>kh</i>eda'. Según el Rig-veda IV, 27, 3, fue el arquero K<i>ri</i><i>s</i>ânu quien hirió al halcón cuando este se llevaba el Soma del cielo, haciéndole caer una de sus plumas. Sobre el mito completo, véase A. Kuhn, Herabkunft des Feuers and des Göttertranks, pág. 137 y siguientes. Cf. Taitt. S. III, 5, 7, 1; Taitt. Br. I, 1, 3, 10: «El Soma estaba en el tercer cielo desde aquí; Gâyatrî lo sacó; una de sus plumas fue cortada, y se convirtió en un árbol par<i>n</i>a (palâ<i>s</i>a)». De igual manera, Taitt. Br. I, 2, 1, 6; véase también <i>S</i>at. Br. Yo, 8, 2, 10.
 
-[^425]: 184:1 'Somasya nyaktam', véase [p. 167](Book_1_1_6#p167), nota [2](Book_1_1_6#fn388).
+[^425]: 184:1 'Somasya nyaktam', véase [p. 167](../Book_1_1_6#p167), nota [2](../Book_1_1_6#fn388).
 
 [^426]: 184:2 Este acto, así como el de dejar que los terneros se unan a las vacas, precede, por supuesto, al arreo de los terneros. Estos procedimientos tienen lugar la víspera de la luna nueva, después del agnyanvâdhâna. Según Kâty., el sacrificador hace voto de abstinencia tras cortar la rama. Sin embargo, antes de estos ritos, debe realizarse el llamado Pi<i>n</i><i>d</i>a-pit<i>ri</i>ya<i>g</i><i>ñ</i>a, u oblación de pi<i>n</i><i>d</i>as (bolas, empanadillas) en honor a los antepasados ​​fallecidos; para ello, véase II, 4, 2, 1 y siguientes.
 
@@ -275,7 +275,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^429]: 185:1 Es decir, con ocasión de tomar del carro el arroz para las oblaciones, véase I, 1, 2, 17-19.
 
-[^430]: 185:2 Véase [p. 19](Book_1_1_1#p19), nota [1](Book_1_1_1#fn110). Según Karka, esto ocurre antes de ocultar la rama (Scholl. sobre Kâty. IV, 2, 15). Según Kâty. IV, 2, 12, 13, el upavesha (véase I, 2, 1, 3) se corta en esta unión —con el texto «Tú eres el que realiza (vesha)»— de la parte inferior de la rama palâ<i>s</i>a, en la parte restante (p. 186), de la cual fija entonces el colador. Cuando no se hace la oblación sânnâyya (y en consecuencia no se utiliza ninguna rama de palâ<i>s</i>a), el upavesha se hace de madera de vara<i>n</i>a.
+[^430]: 185:2 Véase [p. 19](../Book_1_1_1#p19), nota [1](../Book_1_1_1#fn110). Según Karka, esto ocurre antes de ocultar la rama (Scholl. sobre Kâty. IV, 2, 15). Según Kâty. IV, 2, 12, 13, el upavesha (véase I, 2, 1, 3) se corta en esta unión —con el texto «Tú eres el que realiza (vesha)»— de la parte inferior de la rama palâ<i>s</i>a, en la parte restante (p. 186), de la cual fija entonces el colador. Cuando no se hace la oblación sânnâyya (y en consecuencia no se utiliza ninguna rama de palâ<i>s</i>a), el upavesha se hace de madera de vara<i>n</i>a.
 
 [^431]: 186:1 El ordeñador puede ser cualquiera excepto un Sudra, Taitt. Br. III, 2, 3, 9; Kâty. IV, 2, 22; Âpast. I, 12, 25.
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^434]: 187:2 La dirección de oeste a este es la principal en todos los arreglos sacrificiales: por lo tanto, la de sur a norte es la que se encuentra a través de la primera.
 
-[^435]: 188:1 Es decir, cuando la leche se ha vertido a través del colador como antes. La escuela Taittirîya crea los nombres místicos (o epítetos) de las tres vacas: Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (que todo lo abarca) y Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3; Taitt. Br. III, 2, 3, 7. En este último pasaje, estos nombres se identifican, como aquí, con la tierra, la atmósfera y los cielos, respectivamente. El ordeñador, al responder al Adhvaryu, aparentemente llama a las vacas por sus nombres ordinarios. Cf. [p. 178](Book_1_1_6#p178), nota [4](Book_1_1_6#fn412).
+[^435]: 188:1 Es decir, cuando la leche se ha vertido a través del colador como antes. La escuela Taittirîya crea los nombres místicos (o epítetos) de las tres vacas: Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (que todo lo abarca) y Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3; Taitt. Br. III, 2, 3, 7. En este último pasaje, estos nombres se identifican, como aquí, con la tierra, la atmósfera y los cielos, respectivamente. El ordeñador, al responder al Adhvaryu, aparentemente llama a las vacas por sus nombres ordinarios. Cf. [p. 178](../Book_1_1_6#p178), nota [4](../Book_1_1_6#fn412).
 
 [^436]: 189:1 Según Taitt. S. I, 1, 3, Kâty. IV, 2, 32, etc., mientras lo hace, pronuncia el texto: «¡Uníos, vosotros que seguís la ley eterna, vosotros los que ondeáis (con el saludo, Katy.), vosotros los más dulces, —[llenando la leche con miel, Kâty.\]— vosotros los deliciosos, para la obtención de la riqueza!»
 
@@ -299,13 +299,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^441]: 191:1 La palabra en realidad deriva de ava-dâ (hacer), 'cortar'. La Biblia Taitt ofrece la misma explicación etimológica fantasiosa del término que aquí.
 
-[^442]: 192:1 Los cuatro 'cortes' de los que consta cada oblación de pastel de arroz se hacen de la siguiente manera: primero, un poco de mantequilla clarificada, 'cortada' o extraída de la mantequilla en la cuchara dhruvâ por medio de la sruva (cuchara para mojar) y vertida en el <i>g</i>uhû (esto se llama upastara<i>n</i>a o capa inferior de mantequilla); segundo y tercero, dos trozos del tamaño de la articulación de un pulgar, cortados del centro y la parte delantera del pastel de arroz y colocados sobre esa mantequilla; y cuarto, un poco de mantequilla clarificada vertida sobre estos trozos de pastel (el nombre técnico de esta aplicación de mantequilla es abhighâra<i>n</i>a). La familia de los Gámadagnis, que se menciona que siempre hacen cinco cortes (Kâty. I, 9, 3-4), toma tres trozos de pastel en lugar de dos, es decir, uno adicional de la parte posterior (oeste). Yâ<i>g</i><i>ñ</i>ika Deva, en Kâty., cita un pareado de un Sm<i>ri</i>ti, en el que se menciona a los Vatsas, los Vidas y los Ârsh<i>t</i>ishe<i>n</i>as junto a los Gámadagnis, como pa<i>ñ</i><i>k</i>âvattina<i>h</i> o haciendo cinco cortes. En el Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (ofrenda en voz baja), que se realiza entre la ofrenda del pastel a Agni y la ofrenda a Agni-Soma en la luna llena, y entre la ofrenda del pastel a Agni y la ofrenda a Indra-Agni (o el sânnâyya, u ofrenda de leche agridulce a Indra) en la luna nueva, y que consiste enteramente en mantequilla, los cuatro cortes se realizan de la misma manera que se describe en la nota de la página 193, página [174](Book_1_1_6#p174). En el sânnâyya, dos (o tres) sruva-fuls de leche agridulce y leche agria reemplazan los dos (o tres) trozos de pastel.
+[^442]: 192:1 Los cuatro 'cortes' de los que consta cada oblación de pastel de arroz se hacen de la siguiente manera: primero, un poco de mantequilla clarificada, 'cortada' o extraída de la mantequilla en la cuchara dhruvâ por medio de la sruva (cuchara para mojar) y vertida en el <i>g</i>uhû (esto se llama upastara<i>n</i>a o capa inferior de mantequilla); segundo y tercero, dos trozos del tamaño de la articulación de un pulgar, cortados del centro y la parte delantera del pastel de arroz y colocados sobre esa mantequilla; y cuarto, un poco de mantequilla clarificada vertida sobre estos trozos de pastel (el nombre técnico de esta aplicación de mantequilla es abhighâra<i>n</i>a). La familia de los Gámadagnis, que se menciona que siempre hacen cinco cortes (Kâty. I, 9, 3-4), toma tres trozos de pastel en lugar de dos, es decir, uno adicional de la parte posterior (oeste). Yâ<i>g</i><i>ñ</i>ika Deva, en Kâty., cita un pareado de un Sm<i>ri</i>ti, en el que se menciona a los Vatsas, los Vidas y los Ârsh<i>t</i>ishe<i>n</i>as junto a los Gámadagnis, como pa<i>ñ</i><i>k</i>âvattina<i>h</i> o haciendo cinco cortes. En el Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (ofrenda en voz baja), que se realiza entre la ofrenda del pastel a Agni y la ofrenda a Agni-Soma en la luna llena, y entre la ofrenda del pastel a Agni y la ofrenda a Indra-Agni (o el sânnâyya, u ofrenda de leche agridulce a Indra) en la luna nueva, y que consiste enteramente en mantequilla, los cuatro cortes se realizan de la misma manera que se describe en la nota de la página 193, página [174](../Book_1_1_6#p174). En el sânnâyya, dos (o tres) sruva-fuls de leche agridulce y leche agria reemplazan los dos (o tres) trozos de pastel.
 
-[^443]: 193:1 Véase la página [26](Book_1_1_1#p26), nota [1](Book_1_1_1#fn125). Las partes de los pasteles o del sânnâyya, de las cuales se han hecho cortes, se untan, una a una, con mantequilla tomada con la sruva de la mantequera; y siempre que se vierte mantequilla con la sruva del dhruvâ al <i>g</i>uhû</i>, se repone la mantequilla de la mantequera.
+[^443]: 193:1 Véase la página [26](../Book_1_1_1#p26), nota [1](../Book_1_1_1#fn125). Las partes de los pasteles o del sânnâyya, de las cuales se han hecho cortes, se untan, una a una, con mantequilla tomada con la sruva de la mantequera; y siempre que se vierte mantequilla con la sruva del dhruvâ al <i>g</i>uhû</i>, se repone la mantequilla de la mantequera.
 
 [^444]: 193:2 Tayor mithunam asti vasha<i>t</i>kâra eva, 'para estos dos, el vasha<i>t</i>-llamado es el complemento para formar un par'. Sobre el vasha<i>t</i> (vausha<i>t</i>) y las otras dos fórmulas, véase la nota sobre I, 5, 2, 16.
 
-[^445]: 194:1 Las formalidades habituales, que han sido detalladas anteriormente (ver nota de la página [174](Book_1_1_6#p174)), por supuesto, deben llevarse a cabo en cada oblación.
+[^445]: 194:1 Las formalidades habituales, que han sido detalladas anteriormente (ver nota de la página [174](../Book_1_1_6#p174)), por supuesto, deben llevarse a cabo en cada oblación.
 
 [^446]: 195:1 En este pasaje, la fórmula invitatoria (anuvâkyâ o puro'nuvâkyâ), que está en la métrica gâyatrî, se identifica con el cielo, y la fórmula de ofrenda (yâ<i>g</i>yâ), que está en la métrica trish<i>t</i>ubh, con la tierra. Por otro lado, el gâyatrî también es la tierra (cf. I, 4, I, 34), y el trish<i>t</i>ubh el cielo; de modo que, según este razonamiento, no solo existe una conexión íntima entre ambas métricas, sino una identidad real. El verso gâyatrî, usado como fórmula de invitación, en ocasión de la ofrenda de pastel de arroz a Agni, es Rig-veda VIII, 4.4, 16 \[agnir mûrdhâ diva<i>h</i> kakut, 'Agni, la cabeza y cumbre del cielo,' etc.\]; con aquel a Agni y Soma, en el sacrificio de la luna llena, Rig-veda I, 93, 3 \[agnîshomau savedasau, sahûtî vanatam gira<i>h</i>, '¡Oh, Agni y Soma, de la misma riqueza e invocación, aceptad esta canción!' etc.\]; y a Indra y Agni, en la luna nueva, Rig-veda VII, 94, 7 \[indrâgnî avasâ gatam, 'Oh Indra y Agni, venid a nosotros con favor I' &c.\] o con la ofrenda de leche (opcional) (sânnâyyam), en la luna nueva, Rig-veda I, 8, 1 \[endra sânasi<i>m</i> rayim, ¡aquí, oh Indra, trae abundante tesoro! &c.\], si es a Indra; o Rig-veda VIII, 6, 1 \[mahâṅ indro ya o<i>g</i>asâ par<i>g</i>anyo v<i>ri</i>sh<i>t</i>imâṅ iva, 'el Gran Indra, que en poder es igual a la nube de tormenta lluviosa,' etc.\], si se refiere a Mahendra.
 
@@ -325,7 +325,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^454]: 198:1 Es decir, las fórmulas de invitación y de ofrenda.
 
-[^455]: 198:2 El llamado sacrificial vausha<i>t</i> (por vasha<i>t</i>, aoristo irregular de vah, 'llevar', cf. [p. 88](Book_1_1_3#p88), nota [2](Book_1_1_3#fn254)) se explica aquí fantasiosamente como compuesto de vauk, por vâk, 'habla', + sha<i>t</i>, 'seis'.
+[^455]: 198:2 El llamado sacrificial vausha<i>t</i> (por vasha<i>t</i>, aoristo irregular de vah, 'llevar', cf. [p. 88](../Book_1_1_3#p88), nota [2](../Book_1_1_3#fn254)) se explica aquí fantasiosamente como compuesto de vauk, por vâk, 'habla', + sha<i>t</i>, 'seis'.
 
 [^456]: 198:3 Pra<i>g</i>âpati, o Señor de las Criaturas, se toma aquí, como a menudo (cf. I, 2, 5, 13), como representante del año o Tiempo.
 
@@ -349,7 +349,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^466]: 203:1 O, lugar de descanso, morada, dhâman.
 
-[^467]: 203:2 Es decir, en el 'devatânâm âvahanam', cf. I, 4, 2, 17; [p. 118](Book_1_1_4#p118), n. [1](Book_1_1_4#fn307).
+[^467]: 203:2 Es decir, en el 'devatânâm âvahanam', cf. I, 4, 2, 17; [p. 118](../Book_1_1_4#p118), n. [1](../Book_1_1_4#fn307).
 
 [^468]: 203:3 'Âya<i>g</i>atâm e<i>g</i>yâ isha<i>h</i>'. Mahîdhara, en Vâ<i>g</i>. S. XXI, 47, lo interpreta así: '¡Que estas (isha<i>h</i>) criaturas deseosas, aptas para el sacrificio, sacrifiquen apropiadamente!'. De igual manera, quizás Sâya<i>n</i>a en nuestro pasaje.
 
@@ -401,7 +401,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^492]: 211:3 El uso consistente de derivaciones de una misma raíz (pra-su) en este y otros pasajes similares es, por supuesto, tan artificial en sánscrito como debe ser cualquier imitación del mismo en inglés.
 
-[^493]: 211:4 Con ello evita los efectos malignos del acto relacionado con Rudra, «el dios terrible»; véase [p. 2](Book_1_1_1#p2), nota [2](Book_1_1_1#fn84). Además, con el i<i>d</i>â con el que ahora procede a representar al ganado, lo protege del rudriya (cf. supra I, 7, 3, 21).
+[^493]: 211:4 Con ello evita los efectos malignos del acto relacionado con Rudra, «el dios terrible»; véase [p. 2](../Book_1_1_1#p2), nota [2](../Book_1_1_1#fn84). Además, con el i<i>d</i>â con el que ahora procede a representar al ganado, lo protege del rudriya (cf. supra I, 7, 3, 21).
 
 [^494]: 211:5 Véase I, 8, 1, 12, 13.
 
@@ -409,7 +409,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^496]: 212:2 El texto no indica que se hagan referencias a dos prácticas diferentes. Sin embargo, la recensión de Kâ<i>n</i>va añade aquí: «pero que no lo haga», lo cual evidentemente se entiende también en nuestro texto.
 
-[^497]: 212:3 Es decir, en el prâ<i>s</i>itrahara<i>n</i>a, o recipiente que recibirá la porción del brahmán. La parte hueca del recipiente debe tener la forma de un espejo de mano, es decir, con un cuenco redondo, o la de una <i>k</i>amasa o jarra, es decir, con un cuenco cuadrado ([p. 7](Book_1_1_1#p7), nota [1](Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. Sobre la capa inferior de mantequilla, véase I, 7, 2, 8.
+[^497]: 212:3 Es decir, en el prâ<i>s</i>itrahara<i>n</i>a, o recipiente que recibirá la porción del brahmán. La parte hueca del recipiente debe tener la forma de un espejo de mano, es decir, con un cuenco redondo, o la de una <i>k</i>amasa o jarra, es decir, con un cuenco cuadrado ([p. 7](../Book_1_1_1#p7), nota [1](../Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. Sobre la capa inferior de mantequilla, véase I, 7, 2, 8.
 
 [^498]: 212:4 «Tiryag evaina<i>m</i> nirmimîte». Dudo que la pág. 213 enam (omitida en el texto de Kâ<i>n</i>va) se refiera realmente al dardo de Rudra. Cf. párrafo 9.
 
@@ -417,7 +417,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^500]: 213:2 Según Kâty. II, 2, 17, previamente lo deposita sobre el hombro del altar, con el texto (Vâ<i>g</i>. S. p. 58), '¡Te deposito, sobre el ombligo de la tierra, en el regazo de Aditi!'. Sin embargo, según 19, esto es opcional (excepto cuando el brahmán no come el prâ<i>s</i>itra inmediatamente).
 
-[^501]: 213:3 Según Kâty. II, 2, 20, el brahmán, tras enjuagar el recipiente p. 214 [o, según el comentario, los dos prâ<i>s</i>itrahara<i>n</i>a, uno de los cuales sirve de tapa al otro], se toca el ombligo con el texto (Vâ<i>g</i>. S. p. 58): «¡Que las deidades que habitan en las aguas purifiquen esto! ¡Entra en el estómago de Indra, ofreciéndose con “¡Salve!”! ¡No te mezcles con mi comida! ¡Acomódate sobre mi ombligo! ¡Hago que te acomodes en el estómago de Indra!».
+[^501]: 213:3 Según Kâty. II, 2, 20, el brahmán, tras enjuagar el recipiente p. 214 [o, según el comentario, los dos prâ<i>s</i>itrahara<i>n</i>a, uno de los cuales sirve de tapa al otro], se toca el ombligo con el texto (Vâ<i>g</i>. S. p. 58): «¡Que las deidades que habitan en las aguas purifiquen esto! ¡Entra en el estómago de Indra, ofreciéndose con «¡Salve!»! ¡No te mezcles con mi comida! ¡Acomódate sobre mi ombligo! ¡Hago que te acomodes en el estómago de Indra!».
 
 [^502]: 214:1 La porción regular del Brahman (brahmabhâga) de la comida sacrificial se corta, como el prâ<i>s</i>itra o porción delantera (que aparentemente recibe como representante de B<i>ri</i>haspati), del pastel de Agni.
 
@@ -425,4 +425,4 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^504]: 214:3 Según el escoliasta, representa la pâkaya<i>g</i><i>ñ</i>a u ofrendas domésticas (cocinadas), porque en estas últimas, como en el i<i>d</i>â, se comen los restos de las ofrendas.
 
-[^505]: 215:1 ? 'Mano <i>g</i>ûtir \[<i>g</i>yotir, Kâ<i>n</i>va rec.\] <i>g</i>ushatâm â<i>g</i>yasya'. Me inclino a leer <i>g</i>ûter \[cf. Ath.-veda XIX, 58, 1: gh<i>ri</i>tasya <i>g</i>ûti<i>h</i> samânâ\]. El Mahîdhara interpreta: '¡Que la mente impaciente se dedique a la mantequilla!'. Hillebrandt, Neu- y Vollmondsopfer, pág. 135, aparentemente propone combinar mano<i>g</i>ûtir con 'des Geistes Schnelligkeit'. Tal vez <i>g</i>ushatâm deba tomarse en un sentido transitivo: “Que el borboteo de la mantequilla deleite la mente”.
+[^505]: 215:1 ? 'Mano <i>g</i>ûtir \[<i>g</i>yotir, Kâ<i>n</i>va rec.\] <i>g</i>ushatâm â<i>g</i>yasya'. Me inclino a leer <i>g</i>ûter \[cf. Ath.-veda XIX, 58, 1: gh<i>ri</i>tasya <i>g</i>ûti<i>h</i> samânâ\]. El Mahîdhara interpreta: '¡Que la mente impaciente se dedique a la mantequilla!'. Hillebrandt, Neu- y Vollmondsopfer, pág. 135, aparentemente propone combinar mano<i>g</i>ûtir con 'des Geistes Schnelligkeit'. Tal vez <i>g</i>ushatâm deba tomarse en un sentido transitivo: «Que el borboteo de la mantequilla deleite la mente».

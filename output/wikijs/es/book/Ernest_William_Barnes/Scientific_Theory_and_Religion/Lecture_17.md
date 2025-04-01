@@ -1,5 +1,5 @@
 ---
-title: "CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO “REAL”"
+title: "CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO «REAL»"
 description: "Teoría científica y religión"
 published: true
 date: 2025-2-12T14:46:34Z

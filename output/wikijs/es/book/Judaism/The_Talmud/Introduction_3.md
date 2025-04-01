@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 El Talmud adoptado por los judíos—La hostilidad de los gentiles y los cristianos hacia él—Reuchlin exige tolerancia hacia él—Distinciones hechas en sus enseñanzas—Escuelas de Shammai y Hillel—Bath Kol—Fariseos—Saduceos y otras sectas—Cabalistas—Metatrón—Resumen.
 

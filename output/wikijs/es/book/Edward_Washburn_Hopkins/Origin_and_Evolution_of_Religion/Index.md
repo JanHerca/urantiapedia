@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T14:32:31Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>pág. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 Abeghian, 81 Abelardo, 266
 
@@ -123,7 +123,7 @@ Bhuvaneshwar, 14
 
 Biblia, referencias a, 261, 55, 80, 113, 115, 1281, 163, 195, 231, 236, 242 f 266, 282, 334, 351 Biología, 107, 224, 352
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Aves, culto, 34; como símbolos, 44 y sig., alma de pájaro, 145
 
@@ -243,7 +243,7 @@ Cumberland, 267
 
 Cumont, 60
 
-<span id="p363">[<sup><small>pág. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Maldición, 48, 236
 
@@ -403,7 +403,7 @@ Destino, 55, 278; tres destinos, 91, 295
 
 Padre, como sacerdote, 205; -dios, 279, 341. Véase Prajapati Fear, 89, 931; como dios, 101
 
-<span id="p364">[<sup><small>pág. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Fergusson, 38 años, 202
 
@@ -535,7 +535,7 @@ Hiperbóreos, 231
 
 Hipnotismo, 242
 
-<span id="p365">[<sup><small>pág. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Ideal, en la naturaleza, 354; conformidad con, 357
 
@@ -681,7 +681,7 @@ Amor, 48, 1001, 1031, 172, 263; amor libre y religión, 270; en el budismo, 332
 
 Lyall, 153
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Talla, 66
 
@@ -837,7 +837,7 @@ Uno, El, 76, 341
 
 Ojitimfsm, 285
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Oráculos, 82; árbol oracular, 26
 
@@ -993,7 +993,7 @@ Ritual, 79, 179 y ss.
 
 Roma, 219, 231
 
-<span id="p368">[<sup><small>pág. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Rosario, 193
 
@@ -1121,7 +1121,7 @@ Spencer y Gillen, 162
 
 Espíritu, como mente, 11; se distingue del alma, 109, 113; y de la materia, 285; espíritu y forma en la religión, 224; espiritualidad, 110 Festival de primavera, 61, 105 Starbuck, EI, 105 f.
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Estrellas, culto a las, 52 f., 125
 
@@ -1251,7 +1251,7 @@ Nacimiento virginal, 65, 330
 
 Vishnu, 18, 24, 35, 42, 60 y siguientes, 125, 290, 3031, 3101, 317; como Buda, 323, 3301, 347; como Pharma, 332
 
-<span id="p370">[<sup><small>pág. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Casa de pescado, sacrificio en, 174
 

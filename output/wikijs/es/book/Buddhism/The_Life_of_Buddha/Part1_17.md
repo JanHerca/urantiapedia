@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 
 Las cristalinas aguas del Nairanjana fluían por una tierra fértil y rica. Pequeños pueblos dormitaban a la sombra de magníficos árboles, y extensas praderas se extendían en la distancia. El héroe pensó: «¡Qué agradable es este lugar! ¡Qué lugar tan acogedor para meditar! Quizás aquí encuentre el camino a la sabiduría. Aquí moraré».
@@ -45,7 +45,7 @@ Maya, la madre del héroe, vivía entre los dioses. Oía sus llantos y lamentos,
 
 Ella dijo:
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Cuando naciste en el jardín, me aseguraron, oh hijo mío, que verías la verdad. Y más tarde, Asita predijo que liberarías al mundo. Pero todas esas predicciones eran mentiras. ¡No alcanzaste la fama con ninguna conquista real, no alcanzaste el conocimiento supremo! Moriste lastimosamente y solo. ¿Quién te ayudará, oh hijo mío? ¿Quién te devolverá la vida? Durante diez lunas te llevé en mi vientre, oh joya mía, y ahora solo puedo lamentar.
 
@@ -61,7 +61,7 @@ Y, sin embargo, el verdadero conocimiento no le llegó. Sentía que se estaba de
 
 Había una aldea llamada Uruvilva cerca del lugar donde Siddhartha pasaba largas horas meditando. El jefe de la aldea tenía diez hijas. Reverenciaban al héroe y le llevaban grano y fruta como limosna. Rara vez probaba estos regalos, pero un día, las muchachas notaron que se había comido todo lo que le habían ofrecido. Al día siguiente, llegaron con un plato grande lleno de arroz hervido, y lo vació. Al día siguiente, cada una trajo un manjar diferente, y el héroe se los comió todos. Empezó a engordar y, al poco tiempo, empezó a ir a la aldea a mendigar comida. Los habitantes competían entre sí por darle limosna, y en poco tiempo recuperó su fuerza y ​​su belleza.
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Pero los cinco discípulos que estaban con él se dijeron unos a otros:
 

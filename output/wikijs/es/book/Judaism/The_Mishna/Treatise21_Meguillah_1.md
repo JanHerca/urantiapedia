@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. La Meguillah [^561] se lee \[a veces\] los días 11, 12, 13, 14 o 15 \[del mes de Adar\], ni antes ni después. Las ciudades que, desde la época de Josué, hijo de Nun, estaban amuralladas, la leen el día 15. [^562] Las aldeas y las grandes ciudades \[abiertas\] [^563] la leerán el día 14, pero los habitantes de las aldeas pueden leerla con antelación el día de la asamblea. [^564]
 
-<span id="p181">[<sup><small>pág. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 § 2. ¿Cómo debe entenderse esto? Cuando el día 14 caiga en lunes, los habitantes de las aldeas y de las grandes ciudades abiertas lo leerán ese mismo día, y los de las ciudades amuralladas, al día siguiente. Cuando caiga en martes o miércoles, los habitantes de las aldeas lo leerán con antelación el lunes anterior al día de la asamblea, los de las grandes ciudades abiertas, el mismo día, y los de las ciudades amuralladas, al día siguiente. [^565] Cuando caiga en jueves, los habitantes de las aldeas y de las grandes ciudades abiertas lo leerán ese mismo día, y los de las ciudades amuralladas, al día siguiente. Si cae en viernes, los habitantes de las aldeas lo leerán con antelación el lunes anterior al día de la asamblea, y los de las grandes ciudades abiertas y amuralladas, el mismo día, y los de las ciudades amuralladas, el mismo día, y los de las ciudades abiertas y amuralladas, el mismo día, y los de las ciudades amuralladas, el mismo día. Español Cuando ocurra en sábado, los habitantes de las aldeas y de las grandes ciudades abiertas lo leerán con antelación el jueves anterior al día de la asamblea, y los de las ciudades amuralladas el día siguiente al sábado. [^566] Cuando ocurra en domingo, los habitantes de las aldeas lo leerán el jueves anterior al día de la asamblea, y los de las grandes ciudades abiertas el mismo día, es decir, el 14, y los de las ciudades amuralladas el día siguiente.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. No hay diferencia entre una persona que sufre una emisión involuntaria de semen y la ha experimentado dos veces en el mismo día o en dos días consecutivos, y quien la ha experimentado tres veces en el mismo tiempo o en tres días, salvo que este último debe ofrecer un sacrificio. No hay diferencia entre una persona leprosa que solo ha estado encerrada, [^573] y una persona declarada leprosa por el sacerdote, salvo que esta última debe ir con las ropas rasgadas y dejar que el cabello le crezca salvajemente. [^574] No hay diferencia entre un leproso declarado limpio tras ser encerrado y uno que ha sido curado de esa enfermedad, salvo que este último debe afeitarse y ofrecer ofrendas de aves.
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 § 8. No hay diferencia entre los libros sagrados [^575] y las tefilinas y mezuzás, rollos colocados en los postes de las puertas (Deuteronomio 6:8, 9), excepto que los primeros pueden escribirse en cualquier idioma, pero los segundos solo en hebreo [^576]. Rabbón Simeón ben Gamaliel dice: «El permiso para escribir los libros sagrados en otro idioma se limitaba únicamente al griego».
 

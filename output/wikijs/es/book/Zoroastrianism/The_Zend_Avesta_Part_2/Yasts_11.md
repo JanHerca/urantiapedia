@@ -1,6 +1,6 @@
 ---
 title: "XI. Srôsh Yast Hâdhôkht"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Hay dos Yasts dedicados a Sraosha, el ángel del culto divino [^731]: uno forma parte del Yasna (LVII \[LVI\]), y este, el otro, se llama Srôsh Yast Hâdhôkht. Si pertenecía al llamado Hâdhôkht Nosk [^732], uno de los veintiún Nosks que componen el Avesta original [^733], o si se recitaba en el sacrificio Hâdhôkht [^734], una liturgia particular, es un asunto sobre el que no tenemos suficiente información.
 
@@ -56,7 +56,7 @@ Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
 Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 ## I.
 
@@ -192,7 +192,7 @@ Sacrificamos al cuerpo de la enseñanza de larga tradición;
 
 Hacemos sacrificios a los cuerpos de los Amesha-Spe<i>n</i>tas;
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Sacrificamos a nuestros propios cuerpos, los Saoshya<i>n</i><i>t</i>s, la parte de dos pies de la sagrada creación;
 
@@ -252,7 +252,7 @@ Bendigo el sacrificio y la oración, la fuerza y ​​el vigor del santo y fuer
 
 [^772]: 160:5 Dudoso (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
-[^773]: 160:6 Véase [p. 23](Yasts_1#p23).
+[^773]: 160:6 Véase [p. 23](../Yasts_1#p23).
 
 [^774]: 160:7 O, 'es el mejor de todos los castigadores de demonios en la batalla'.
 
@@ -286,7 +286,7 @@ Bendigo el sacrificio y la oración, la fuerza y ​​el vigor del santo y fuer
 
 [^789]: 162:7 Cf. Yt. I, 19.
 
-[^790]: 163:1 Cf. arriba, [p. 145](Yasts_10#p145), nota [1](Yasts_10#fn669).
+[^790]: 163:1 Cf. arriba, [p. 145](../Yasts_10#p145), nota [1](../Yasts_10#fn669).
 
 [^791]: 163:2 Al infierno.
 

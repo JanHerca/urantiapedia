@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 ## I
 
@@ -40,11 +40,11 @@ Siendo un pueblo para el que la poesía ha sido durante siglos una forma univers
 
 La poesía en Japón es tan universal como el aire. Todos la sienten. Todos la leen. Casi todos la componen, sin importar clase ni condición. Y no es ubicua solo en la atmósfera mental: ¡está en todas partes para ser escuchada por el oído y vista por el ojo!
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 En cuanto a la poesía audible, dondequiera que hay trabajo, hay canto. El trabajo del campo y la labor de la calle se realizan al ritmo de versos cantados; y el canto parece ser una expresión de la vida del pueblo, casi en el mismo sentido que lo es de la vida de las cigarras... En cuanto a la poesía visible, aparece por doquier, escrita o grabada, en caracteres chinos o japoneses, como una forma de decoración. En miles y miles de viviendas, se puede observar que las mamparas corredizas que separan habitaciones o cierran alcobas tienen textos decorativos chinos o japoneses; y estos textos son poemas. En las casas de clase alta, suele haber varios gaku, o tablillas colgantes, cada una con un verso bellamente escrito. Pero se pueden encontrar poemas en casi cualquier utensilio doméstico: por ejemplo, en braseros, teteras de hierro, jarrones, bandejas de madera, objetos lacados, porcelanas, palillos finos, ¡incluso mondadientes! Se pintan poemas en rótulos de tiendas, paneles, biombos y abanicos. Se imprimen poemas en toallas, cortinas, pañuelos, forros de seda y ropa interior femenina de crepé de seda. Se estampan o se trabajan poemas en papel de carta, sobres, monederos, estuches para espejos y maletas. Se incrustan poemas en objetos esmaltados, se tallan en bronce, se graban en pipas metálicas y se bordan en bolsas de tabaco. Sería un esfuerzo inútil enumerar todos los artículos decorados con textos poéticos. Probablemente mis lectores conozcan esas reuniones sociales en las que es costumbre componer versos y colgar las composiciones junto a árboles en flor; también el festival Tanabata en honor a ciertos dioses astrales, cuando poemas inscritos en tiras de papel de colores y adheridos a finos bambúes se ven incluso al borde del camino, todos ondeando al viento como banderitas. . . . Quizás encuentren el camino a alguna aldea japonesa donde no haya árboles ni flores, pero nunca a una aldea donde no haya poesía visible. Podrían vagar, como yo, por un asentamiento tan pobre que no pudieran conseguir allí, ni por amor ni por dinero, ni siquiera una taza de té de verdad; pero no creo que puedan descubrir un asentamiento donde no haya nadie capaz de componer un poema.
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ## II
 
@@ -68,9 +68,9 @@ Furosato ni
 Fubo ari—mushi no
 ¡Koë-goë!\[1\]
 
-\—_“En mi tierra natal los ancianos \[o, mis padres\] son—¡clamor de voces de insectos!”_ . . .
+\—_«En mi tierra natal los ancianos \[o, mis padres\] son—¡clamor de voces de insectos!»_ . . .
 
-1. Debo observar, sin embargo, que el elogio fue especialmente evocado por el uso del término _koë-goë_\- (que literalmente significa “voz tras voz” o un llanto de muchas voces); y el valor especial de las sílabas aquí solo puede ser apreciado por un poeta japonés.
+1. Debo observar, sin embargo, que el elogio fue especialmente evocado por el uso del término _koë-goë_\- (que literalmente significa «voz tras voz» o un llanto de muchas voces); y el valor especial de las sílabas aquí solo puede ser apreciado por un poeta japonés.
 
 <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> El poeta aquí es un muchacho de campo. En campos desconocidos, escucha el gran coro otoñal de los insectos; y el sonido le reaviva el recuerdo de su lejano hogar y de sus padres... Pero aquí hay algo incomparablemente más conmovedor, aunque en traducción literal probablemente más oscuro, que cualquiera de los ejemplos anteriores:
 
@@ -79,9 +79,9 @@ Soy
 Shôji ni
 ¡Yubi no Ato!
 
-—“¡Oh, viento penetrante! ¡Esa obra de deditos en el shôji!”—[1] ... ¿Qué significa esto? Significa el dolor de una madre por su hijo muerto. _Shôji_ es el nombre que se da a esas ligeras mamparas de papel blanco que en las casas japonesas sirven tanto de ventanas como de puertas, dejando entrar mucha luz, pero ocultando, como el vidrio esmerilado, el interior de la observación exterior y excluyendo el viento. A los bebés les encanta romperlas metiendo los dedos a través del suave papel: entonces el viento sopla por los agujeros. En este caso, el viento sopla muy frío, en el corazón mismo de la madre, pues entra
+—«¡Oh, viento penetrante! ¡Esa obra de deditos en el shôji!»—[1] ... ¿Qué significa esto? Significa el dolor de una madre por su hijo muerto. _Shôji_ es el nombre que se da a esas ligeras mamparas de papel blanco que en las casas japonesas sirven tanto de ventanas como de puertas, dejando entrar mucha luz, pero ocultando, como el vidrio esmerilado, el interior de la observación exterior y excluyendo el viento. A los bebés les encanta romperlas metiendo los dedos a través del suave papel: entonces el viento sopla por los agujeros. En este caso, el viento sopla muy frío, en el corazón mismo de la madre, pues entra
 
-\[1. Más literalmente:—“viento que atraviesa el cuerpo—¡ah!—_shôji_\—en los rastros de \[viz.: agujeros hechos por\] los dedos!”\] <span id="p158"><sup><small>[ p. 158 ]</small></sup></span>a través de los pequeños agujeros que fueron hechos por los dedos de su hijo muerto.
+\[1. Más literalmente:—«viento que atraviesa el cuerpo—¡ah!—_shôji_\—en los rastros de \[viz.: agujeros hechos por\] los dedos!»\] <span id="p158"><sup><small>[ p. 158 ]</small></sup></span>a través de los pequeños agujeros que fueron hechos por los dedos de su hijo muerto.
 
 La imposibilidad de preservar la esencia de tales poemas en una traducción literal será ahora evidente. Cualquier intento en este sentido debe ser necesariamente ittakkiri; pues lo no dicho debe expresarse; y lo que el poeta japonés es capaz de decir en diecisiete o veintiún sílabas puede requerir en inglés más del doble de palabras. Pero quizás este hecho añada un mayor interés a los siguientes elementos de expresión emocional:
 
@@ -102,7 +102,7 @@ Y doncella Pureza de corazón, para avivar su rubor y fragancia,
 (1) Busqué en el lugar de las tumbas la tumba de mi desaparecido amigo:
 Desde los antiguos cedros de arriba se escuchaba el canto de una paloma salvaje.
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 (2) Quizás un capricho del viento—aunque quizás una señal del recuerdo—
 Esta caída de una sola hoja sobre el agua que vierto por los muertos.
@@ -137,7 +137,7 @@ Todos los límites han desaparecido; nada indica una dirección:
 Entró en mi habitación el aroma de las flores del ciruelo.
 Convierte mi ventana rota en una fuente de deleite.
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 ## FANTASÍAS DE OTOÑO
 
@@ -152,7 +152,7 @@ Bajo la misma suave luz y las sombras que rodean tu hogar.
 
 ## EN TIEMPOS DE DUELO, ESCUCHANDO UNA SÉMI (CIGARRA)
 
-Sólo “yo”, “yo”, ¡el grito del tonto sémi!
+Sólo «yo», «yo», ¡el grito del tonto sémi!
 Cualquiera sabe que el mundo está vacío como su cáscara desechada.
 
 ## SOBRE EL CAPARAZÓN DESTROZADO DE UN SÉMI
@@ -177,14 +177,14 @@ Chi-hiro y Umi
 
 \]
 
-<span id="p161">[<sup><small>pág. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## SHINTÔ REVERY
 
 Olas locas devoran las rocas: me pregunto en la oscuridad,
-“¿Me he convertido en un dios?” ¡La noche es oscura y salvaje!
+«¿Me he convertido en un dios?» ¡La noche es oscura y salvaje!
 
-“¿Me he convertido en un dios?”, es decir, “¿He muerto? ¿Soy solo un fantasma en esta desolación?” Se cree que los muertos, al convertirse en _kami_ o dioses, rondan preferentemente las soledades salvajes.
+«¿Me he convertido en un dios?», es decir, «¿He muerto? ¿Soy solo un fantasma en esta desolación?» Se cree que los muertos, al convertirse en _kami_ o dioses, rondan preferentemente las soledades salvajes.
 
 ## IV
 
@@ -198,7 +198,7 @@ Furu-dera ya:
 Kané mono iwazu;
 Sakura chiru.
 
-—_“Viejo templo: campana muda; flores de cerezo caen.”_
+—_«Viejo templo: campana muda; flores de cerezo caen.»_
 
 ## DESPERTAR POR LA MAÑANA DESPUÉS DE UNA NOCHE DE DESCANSO EN UN TEMPLO
 
@@ -206,9 +206,9 @@ Yamadera no
 Shichô akeyuku:
 Taki no oto.
 
-—_“En el templo de la montaña la mosquitera de papel está iluminada por el amanecer: sonido de cascada.”_
+—_«En el templo de la montaña la mosquitera de papel está iluminada por el amanecer: sonido de cascada.»_
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 ## ESCENA DE INVIERNO
 
@@ -216,7 +216,7 @@ Yuki no mura;
 Noche de Niwatori;
 Aké shiroshi.
 
-—“Pueblo nevado;—canto de gallos;—amanecer blanco.”_
+—«Pueblo nevado;—canto de gallos;—amanecer blanco.»_
 
 Permítanme concluir este chisme sobre poesía citando de otro grupo de versos —también pictóricos, en cierto sentido, pero notables sobre todo por su ingenio— dos curiosidades de la improvisación. La primera es antigua y se atribuye a la famosa poetisa Chiyo. Tras ser retada a componer un poema de diecisiete sílabas que hiciera referencia a un cuadrado, un triángulo y un círculo, se dice que respondió de inmediato:
 
@@ -224,9 +224,9 @@ Kaya no té wo
 Hitotsu hazushitei,
 ¡¡¡Tsuki-mi kana!!!
 
-—“Al quitar una esquina del mosquitero, ¡mira la luna!”_ La parte superior del mosquitero, suspendida por cuerdas en cada una de sus cuatro esquinas, representa el cuadrado; al bajar la mosquitera por una esquina, el cuadrado se convierte en un triángulo; y la luna representa el círculo.
+—«Al quitar una esquina del mosquitero, ¡mira la luna!»_ La parte superior del mosquitero, suspendida por cuerdas en cada una de sus cuatro esquinas, representa el cuadrado; al bajar la mosquitera por una esquina, el cuadrado se convierte en un triángulo; y la luna representa el círculo.
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 La otra curiosidad es un reciente esfuerzo improvisado por retratar, en un verso de diecisiete sílabas, el último grado de pobreza despreocupada, tal vez
 
@@ -238,7 +238,7 @@ Nusundaru
 Kagashi no Kasa
 Amé kyû nari.
 
-\—_“¡Llueve a cántaros sobre el sombrero que le robé al espantapájaros!”_
+\—_«¡Llueve a cántaros sobre el sombrero que le robé al espantapájaros!»_
 
 <figure class="table chapter-navigator">
   <table>

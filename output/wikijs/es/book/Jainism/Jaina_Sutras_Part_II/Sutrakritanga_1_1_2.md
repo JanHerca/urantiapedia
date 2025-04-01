@@ -80,7 +80,7 @@ Existe la doctrina de los Kriyâvâdins [^700], que ya fue explicada previamente
 
 'Quien pretende (matar) a un ser vivo pero no lo hace mediante (un acto de) su cuerpo, y quien sin saberlo mata a uno, ambos son afectados por ese acto solo a través de un ligero contacto (con él), pero el demérito (en su caso) no está completamente desarrollado [^701].' (25)
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 'Hay tres maneras de cometer pecados: por actividad propia, por comisión, por aprobación (del hecho). (26)
 
@@ -144,11 +144,11 @@ Así lo digo.
 
 [^701]: 241:5 Es digno de notar que aquí se representa a los Mlê<i>k</i><i>kh</i>as como si no entendieran el idioma de los Âryas.
 
-[^702]: 242:1 La última parte del versículo también podría traducirse: “porque estos necios creen que el tema se aclara (ma<i>ñ</i><i>g</i>û) con sus propios argumentos”.
+[^702]: 242:1 La última parte del versículo también podría traducirse: «porque estos necios creen que el tema se aclara (ma<i>ñ</i><i>g</i>û) con sus propios argumentos».
 
 [^703]: 242:2 Hay un juego de palabras entre viussanti y viussiyâ. En la última línea de este verso, viussanti es un verbo denominativo de viusa = vidvân, y se traduce como vidvân ivâ <i>k</i>arati. Viussiya = vi + ut + <i>s</i>rita.
 
-[^704]: 242:3 Véase arriba, [p. 83](Uttaradhyayana_18#p83). <i>S</i>îlâṅka define aquí a los Kriyâvâdins como hombres que sostienen que el principal medio para alcanzar Môksha es <i>k</i>aityakarma, la construcción de santuarios.
+[^704]: 242:3 Véase arriba, [p. 83](../Uttaradhyayana_18#p83). <i>S</i>îlâṅka define aquí a los Kriyâvâdins como hombres que sostienen que el principal medio para alcanzar Môksha es <i>k</i>aityakarma, la construcción de santuarios.
 
 [^705]: 242:4 Es necesario matar intencionalmente a un ser vivo para inducir el Karman en el alma. Si falta una de las condiciones esenciales que constituyen la culpa del asesinato (hi<i>m</i>sâ), pág. 243, el Karman se produce; sin embargo, no se apodera del alma, sino que simplemente la «toca». Esta es, por supuesto, la opinión de los Kriyâvâdins.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p290">[<sup><small>pág. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 LA FORMACIÓN DE LA COLECCIÓN DEL SHIH; CÓMO LLEGÓ A SER TAN PEQUEÑA E INCOMPLETA; LA INTERPRETACIÓN Y LOS AUTORES DE LAS PIEZAS; UN PUNTO DE TIEMPO CIERTAMENTE INDICADO EN ELLA; Y EL PREFACIO CONFUCIANO.
 
@@ -40,7 +40,7 @@ LA FORMACIÓN DE LA COLECCIÓN DEL SHIH; CÓMO LLEGÓ A SER TAN PEQUEÑA E INCOM
 
 ¿Cómo se recopilaron las odas inicialmente? En su Relato de una conversación sobre «una correcta regulación de los gobiernos para el bien común de la humanidad» (Edimburgo, 1704), pág. 10, Sir Andrew Fletcher, de Saltoun, nos presenta la opinión de «un hombre muy sabio»: «Si a un hombre se le permitiera componer todas las baladas de una nación, no tendría que preocuparse por quién dictara sus leyes». Un escritor del Spectator, n.º 502, menciona una opinión similar en Inglaterra antes de la época de Fletcher. «He oído», dice, «que un ministro de Estado del reinado de Isabel I recibió toda clase de libros y baladas, de cualquier tipo, y se fijó mucho en la acogida que tenían entre el pueblo; con base en ello, juzgaría, y sin duda podría, muy bien su disposición actual y la manera más adecuada de aplicarlas según sus propios fines [313]».
 
-<span id="p291">[<sup><small>pág. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 La teoría de los eruditos chinos sobre una colección de poemas con fines gubernamentales.
 
@@ -48,7 +48,7 @@ En armonía con las opiniones así expresadas está la teoría de los eruditos c
 
 Los rudimentos de esta teoría se pueden encontrar en el Shû, en el Canon de Shun; pero el único pasaje clásico que se invoca en apoyo de esta teoría se encuentra en el Registro de Ritos, III, ii, parr. 13, 14: «Cada cinco años, el Hijo del Cielo recorría el reino, cuando se le ordenaba al Gran Maestro de Música que le presentara los poemas de los diferentes estados, como una exhibición de las costumbres y el gobierno del pueblo». Desafortunadamente, este Libro del Lî <i>K</i>î, las Ordenanzas Reales, se compiló solo durante el reinado del emperador Wăn de la dinastía Han (179-155 a. C.). Los eruditos encargados de la obra hicieron todo lo posible, podemos suponer, con los materiales a su disposición; es evidente que hicieron mucho uso de Mencio y del Î Lî. El <i>K</i>âu Lî, o Libro Oficial de <i>K</i>âu, no se había recuperado en aquel entonces. Pero ni en Mencio ni en el Î Lî encontramos ninguna autoridad que respalde la afirmación que nos ocupa. El Shû menciona que Shun realizaba una gira de inspección cada cinco años; pero entonces no había odas que examinar, pues a él y a su ministro Kâo-yâo se les atribuye el primer intento rudimentario en el arte poético. No tenemos información sobre los progresos de los soberanos Hsiâ y Yin; y sabemos que los de los reyes de <i>K</i>âu solo se realizaron una vez cada doce años. Por lo tanto, la afirmación de las Ordenanzas Reales probablemente se basaba únicamente en la tradición.
 
-A pesar de las dificultades que presenta este pasaje del Lî <i>K</i>î, no me inclino a rechazarlo por completo. Se confirma en cierta medida con el pasaje citado del Libro Oficial de <i>K</i>âu en la pág. 278, que muestra que en la dinastía <i>K</i>âu existía una colección de poemas, bajo las divisiones del Făng, el Yâ y el Sung, <span id="p292">[<sup><small>pág. 292</small></sup>]</span>, que el Gran Maestro de Música debía enseñar a los músicos de la corte. Cabe aceptar, entonces, que el duque de Kâu, al legislar para su dinastía, decretó que los poemas producidos en los diferentes estados feudales se recopilaran con ocasión de los progresos reales y se depositaran posteriormente en los archivos de la oficina de música de la corte real. Lo mismo, podemos suponer a fortiori, se haría, en otras ocasiones específicas, con los producidos dentro del propio dominio real.
+A pesar de las dificultades que presenta este pasaje del Lî <i>K</i>î, no me inclino a rechazarlo por completo. Se confirma en cierta medida con el pasaje citado del Libro Oficial de <i>K</i>âu en la pág. 278, que muestra que en la dinastía <i>K</i>âu existía una colección de poemas, bajo las divisiones del Făng, el Yâ y el Sung, <span id="p292"><sup><small>[ p. 292 ]</small></sup></span>, que el Gran Maestro de Música debía enseñar a los músicos de la corte. Cabe aceptar, entonces, que el duque de Kâu, al legislar para su dinastía, decretó que los poemas producidos en los diferentes estados feudales se recopilaran con ocasión de los progresos reales y se depositaran posteriormente en los archivos de la oficina de música de la corte real. Lo mismo, podemos suponer a fortiori, se haría, en otras ocasiones específicas, con los producidos dentro del propio dominio real.
 
 El maestro de música del rey obtenía las odas de cada estado de su maestro de música.
 

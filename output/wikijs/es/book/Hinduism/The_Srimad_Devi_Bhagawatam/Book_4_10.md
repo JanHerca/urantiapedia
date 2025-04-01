@@ -111,7 +111,7 @@ Así termina el Primer Adhyâya del Cuarto Libro del Sri Mad Devî Bhâgavata Pu
 
 19\. Ahora bien, si el nacimiento de Visnu, de infinita destreza, ocurre según su voluntad, ¿por qué pasa por tantos nacimientos impíos? ¿Por qué Bhagavân Visnu, en diferentes yugas, nace en orígenes bajos y viles?
 
-<span id="p254">[<sup><small>pág. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 ¿Dónde está ese hombre autosuficiente que, abandonando su morada Vaikuntha y toda clase de placeres y felicidad, desea vivir en este templo mortal, lleno de orina, heces y otras materias inmundas?
 
@@ -645,7 +645,7 @@ Aquí termina el Séptimo Capítulo del 4º Libro del S'rîmad Devî Bhâgavatam
 
 3\. Por haber insultado al muchacho brahmán, su padre tuvo que ir al infierno; y él pensaba constantemente en cómo liberar a su padre.
 
-4\. El hijo se llama “Puttra” porque libera a su padre del infierno, llamado “Put”. Él es el verdadero hijo que puede hacerlo. <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> 5-6. El afortunado hijo de Parîksit quedó profundamente atormentado y desconcertado por el miedo al enterarse del destino de su padre, quien murió mordido por una serpiente en la azotea de un palacio, debido a la maldición de un brahmán, privado de baños, caridades y actos purificadores.
+4\. El hijo se llama «Puttra» porque libera a su padre del infierno, llamado «Put». Él es el verdadero hijo que puede hacerlo. <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> 5-6. El afortunado hijo de Parîksit quedó profundamente atormentado y desconcertado por el miedo al enterarse del destino de su padre, quien murió mordido por una serpiente en la azotea de un palacio, debido a la maldición de un brahmán, privado de baños, caridades y actos purificadores.
 
 7\. Cuando Vyâsa regresó a casa, Janamejaya le preguntó sobre todo el curso de los acontecimientos de Nara Nârâyana.
 
@@ -863,7 +863,7 @@ Aquí termina el Noveno Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâvat
 
 49\. Mientras los Devas mataban a los Demonios, estos se aterrorizaron y exclamaron: "¡Oh, Señor! ¡Protégenos! ¡Protégenos!", y se refugiaron en Sukra.
 
-50\. S'ukrâchârya, viendo a los Daityas muy perplejos y distraídos, de inmediato gritó en voz alta por la influencia de su Mantra: “No teman, no teman”. Entonces los Devas, al ver a S'ukrâchârya, dejaron a los Daityas y huyeron a sus propios lugares.
+50\. S'ukrâchârya, viendo a los Daityas muy perplejos y distraídos, de inmediato gritó en voz alta por la influencia de su Mantra: «No teman, no teman». Entonces los Devas, al ver a S'ukrâchârya, dejaron a los Daityas y huyeron a sus propios lugares.
 
 Aquí termina el Décimo Capítulo del Cuarto Libro del Mahâ Purânam, S'rî Mad Devî Bhâgavatam, de 18000 versos de Maharsî Veda Vyâsa sobre la maldición de Visnu por parte de Bhrigu.
 

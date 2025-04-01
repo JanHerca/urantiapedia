@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p302">[<sup><small>pág. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 ### CAPÍTULO IX.
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^1081]: 303:1 Véase cap. V., nota 2, página [290](Tratado14_Pesachim_4#p290) de este Tratado.
+[^1081]: 303:1 Véase cap. V., nota 2, página [290](../Tratado14_Pesachim_4#p290) de este Tratado.
 
 [^1082]: 303:2 Es decir, el último Get en la página, debajo de la cual han firmado los testigos.
 

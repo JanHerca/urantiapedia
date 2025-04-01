@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:58Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_26">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XXVI. Wâi Wû, o “Lo que viene de afuera”.</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XXVI. Wâi Wû, o «Lo que viene de afuera».</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 LIBRO XXVII.
 
@@ -74,7 +74,7 @@ Cuando llegó por primera vez a la posada, los habitantes lo recibieron y lo pre
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_26">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XXVI. Wâi Wû, o “Lo que viene de afuera”.</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XXVI. Wâi Wû, o «Lo que viene de afuera».</span>
         </a>
         </td>
         <td>

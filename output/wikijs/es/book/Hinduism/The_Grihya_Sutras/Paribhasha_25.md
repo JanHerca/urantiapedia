@@ -32,9 +32,9 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
-<span id="p315">[<sup><small>pág. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 REGLAS GENERALES DEL SACRIFICIO.
 

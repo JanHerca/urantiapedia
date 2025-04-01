@@ -72,7 +72,7 @@ El alma no puede ser aprehendida por los sentidos, pues no posee forma corpórea
 
 Así, ignorando la Ley, cometimos pecados en el pasado, y por nuestra mala mentalidad se nos impidió entrar en la orden. No volveremos a actuar de la misma manera. (20)
 
-“Mientras la humanidad es acosada (por uno), y atrapada (por el otro), y mientras los infalibles pasan, no nos deleitamos en la vida de un cabeza de familia.” (21)
+«Mientras la humanidad es acosada (por uno), y atrapada (por el otro), y mientras los infalibles pasan, no nos deleitamos en la vida de un cabeza de familia.» (21)
 
 ¿Quién atormenta al mundo? ¿Quién se apodera de él? <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> ¿A quién llaman infalible? Hijos míos, estoy ansioso por aprender esto. (22)
 
@@ -80,9 +80,9 @@ Así, ignorando la Ley, cometimos pecados en el pasado, y por nuestra mala menta
 
 “El día que pasa no volverá jamás; los días pasan sin provecho para quien actúa contra la Ley. (24)
 
-“El día que pasa no volverá jamás; los días pasan con mucho provecho para quien actúa conforme a la Ley.” (25)
+«El día que pasa no volverá jamás; los días pasan con mucho provecho para quien actúa conforme a la Ley.» (25)
 
-“Habiendo vivido juntos en un mismo lugar, y habiendo adquirido ambas partes la rectitud, oh hijos míos, después saldremos (como monjes) y pediremos limosna de casa en casa”. (26)
+«Habiendo vivido juntos en un mismo lugar, y habiendo adquirido ambas partes la rectitud, oh hijos míos, después saldremos (como monjes) y pediremos limosna de casa en casa». (26)
 
 “Quien puede llamar amiga a la Muerte, o quien puede escapar de ella, o quien sabe que no morirá, tal vez podría decidir: esto se hará mañana. (27)
 
@@ -128,7 +128,7 @@ Como un elefante que ha roto sus grilletes, ve a tu destino. ¡Oh, gran rey Ishu
 
 «Abandona tu gran reino y los placeres que son tan queridos a todos; abandona lo que agrada a los sentidos y lo que atrae; sé sin apego ni propiedad; aprende a fondo la Ley y abandona todas las diversiones; luego practica una penitencia famosa y severa, siendo de firme energía [^184].» (49, 50)
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 De esta manera todos estos profesores de la Ley obtuvieron gradualmente la iluminación, estando temerosos del nacimiento y de la muerte y buscando el fin de la miseria. (51)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p265">[<sup><small>pág. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 El rey a quien se atribuye este cargo fue Phing (770-719 a. C.). Entre él y Mû transcurrieron, pues, dos siglos completos, de los cuales no existen, ni existieron nunca, documentos en la colección del Shû. Este período estuvo ocupado por siete reinados, el último de los cuales fue el de Nieh, conocido como el rey Yû, un gobernante indigno, obsesionado con una favorita, llamada Pâo-sze. Por su culpa, degradó a su reina y envió a su hijo, Î-_kh_iû, a la corte del señor de Shan, su padre, para que aprendiera buenas costumbres. El señor de Shan solicitó la ayuda de algunas tribus bárbaras, quienes saquearon la capital y asesinaron al rey; y con él, terminó el dominio del Kâu Occidental. Varios príncipes feudales acudieron en ayuda de la Casa Real, expulsaron a los bárbaros, trajeron de vuelta a Î-_kh_iû de Shăn y lo aclamaron como rey. Se le conoce como el rey Phing, «el Tranquilizador». Su primera medida fue trasladar la capital de las ruinas de Hâo a Lo, cumpliendo así, aunque en circunstancias desastrosas, los deseos del duque de Kâu; y de esta época (770 a. C.) data la historia de Kâu Oriental.
 

@@ -124,7 +124,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v9_5_1_4444"><sup><small>9:5:1:4444.</small></sup></span> Hay ocho de esos (Sâvitra), y entonces (hay ocho de) estos: así hace el final
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 (lo mismo) que el principio. El llamado Svâhâ es el noveno de esos [^481], y así es de estos: así hace que el final sea el principio. La oblación (âhuti) es el décimo de esos [^482], y así es de estos: así hace que el final sea el principio. En esa ocasión, ofrece la oblación continuamente para no detener la semilla, pues el sacrificio allí es semilla; en esta ocasión, (ofrece) con la cuchara de inmersión en el llamado Svâhâ, pues la semilla se manifiesta cuando nace.
 
@@ -273,11 +273,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^475]: 263:4 Los cuatro logesh<i>t</i>akâs (terrones de tierra), colocados en los extremos de las dos espinas, representan los cuatro puntos cardinales, marcando el centro de los lados este, sur, oeste y norte del sitio del altar, sembrados con semillas de todo tipo; véase VII, 3, I, 13 y siguientes. El manojo de hierba Darbha, colocado en el centro, representaría así la quinta región, es decir, la de arriba.
 
-[^476]: 263:5 Aunque se dice que los Prâ<i>n</i>abh<i>ri</i>ts representan, no las regiones, sino los canales de los aires vitales, están colocados en filas a lo largo de las diagonales del cuerpo cuadrado del altar, marcando así, por así decirlo, las regiones intermedias; mientras que el quinto conjunto está dispuesto en un círculo alrededor del centro. Véase [VIII, 1, 1, 1](Book_4_8_1#v8_1_1_1) ss.
+[^476]: 263:5 Aunque se dice que los Prâ<i>n</i>abh<i>ri</i>ts representan, no las regiones, sino los canales de los aires vitales, están colocados en filas a lo largo de las diagonales del cuerpo cuadrado del altar, marcando así, por así decirlo, las regiones intermedias; mientras que el quinto conjunto está dispuesto en un círculo alrededor del centro. Véase [VIII, 1, 1, 1](../Book_4_8_1#v8_1_1_1) ss.
 
 [^477]: 263:6 Se supone que todos los ladrillos de estas capas están marcados por su posición para relacionarse con las regiones o barrios.
 
-[^478]: 264:1 Para los Asapatnâs, colocados cerca de los extremos de las espinas, para alejar el mal en los cuatro cuartos, véase [VIII, 5, 1, 1](Book_4_8_5#v8_5_1_1); para los otros dos tipos de ladrillos, expresamente identificados con las regiones, véase [VIII, 6, 1, 1](Book_4_8_6#v8_6_1_1) seq.
+[^478]: 264:1 Para los Asapatnâs, colocados cerca de los extremos de las espinas, para alejar el mal en los cuatro cuartos, véase [VIII, 5, 1, 1](../Book_4_8_5#v8_5_1_1); para los otros dos tipos de ladrillos, expresamente identificados con las regiones, véase [VIII, 6, 1, 1](../Book_4_8_6#v8_6_1_1) seq.
 
 [^479]: 264:2 Es decir, el altar estaba tan lleno de regiones que se escaparon por la parte superior.
 
@@ -285,11 +285,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^481]: 265:1 Se trata de una sutileza etimológica a la que se recurre para explicar la oblación a Pra<i>g</i>âpati como una de las oblaciones de las diosas (devikâ).
 
-[^482]: 265:2 Véase [p. 248](Book_4_9_4#p248), nota [1](Book_4_9_4#fn426).
+[^482]: 265:2 Véase [p. 248](../Book_4_9_4#p248), nota [1](../Book_4_9_4#fn426).
 
-[^483]: 265:3 Véase ibid., nota [2](Book_4_9_4#fn427).
+[^483]: 265:3 Véase ibid., nota [2](../Book_4_9_4#fn427).
 
-[^484]: 265:4 Es decir, para estas cinco oblaciones que se insertan entre las oblaciones principales y el Svish<i>t</i>ak<i>ri</i>t del Pa<i>s</i>upuro<i>d</i>â<i>s</i>a; como arriba, [IX, 4, 3, 12](Book_4_9_4#v9_4_3_12) seq.
+[^484]: 265:4 Es decir, para estas cinco oblaciones que se insertan entre las oblaciones principales y el Svish<i>t</i>ak<i>ri</i>t del Pa<i>s</i>upuro<i>d</i>â<i>s</i>a; como arriba, [IX, 4, 3, 12](../Book_4_9_4#v9_4_3_12) seq.
 
 [^485]: 265:5 Para esta ceremonia expiatoria, llamada <i>S</i>ûlâvabh<i>ri</i>tha (baño de saliva), pág. 266 y que marca la conclusión de un sacrificio animal ordinario (nirû<i>dh</i>a) —no uno que pertenece al sacrificio Soma— así como de la ofrenda de una vaca estéril, véase la parte ii, pág. 215.
 
@@ -307,7 +307,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^492]: 267:5 «¡Oh dioses, honradlo (al Sacrificador)!» Mahîdhara; pero quizás se dirige a los Rishis en esta segunda línea. Mahîdhara usa «atra» («aquí») junto con «parame vyoman» («en este cielo supremo»).
 
-[^493]: 268:1 Véase [VIII, 6, 3, 23](Book_4_8_6#v8_6_3_23), [24](Book_4_8_6#v8_6_3_24).
+[^493]: 268:1 Véase [VIII, 6, 3, 23](../Book_4_8_6#v8_6_3_23), [24](../Book_4_8_6#v8_6_3_24).
 
 [^494]: 268:2 Sin embargo, el significado del verso es incierto. La interpretación anterior es de Mahîdhara, salvo que él interpreta «yâ<i>h</i>» como «y qué (otros) arroyos existen». Sin embargo, también podría significar: «¡Qué arroyos nuestros de miel y ghee nunca faltan en ninguna parte! ¡Agni Vai<i>s</i>vakarma<i>n</i>a los depositará en el cielo con los dioses!». En cuyo caso se pediría la debida recompensa por el sacrificio.
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^510]: 273:1 Es decir, debe haber sido llevado en su vientre por lo menos durante seis meses; y los embriones menores de seis meses no pueden vivir.
 
-[^511]: 273:2 Esto se debe a que el Mahad uktham consta de más de ochenta versículos; véase [IX, 3, 3, 19](Book_4_9_3#v9_3_3_19). Cabría la posibilidad de incluir esta frase completa en la cita anterior.
+[^511]: 273:2 Esto se debe a que el Mahad uktham consta de más de ochenta versículos; véase [IX, 3, 3, 19](../Book_4_9_3#v9_3_3_19). Cabría la posibilidad de incluir esta frase completa en la cita anterior.
 
 [^512]: 273:3 Es decir, ya demasiado atenuado, al ser hecho tan grande como uno de un año (?).
 
@@ -353,7 +353,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^516]: 275:2 Es decir, el primero de los siete versos (<i>Ri</i>g-veda III, 37, 1).
 
-[^517]: 275:3 Según Kâty. <i>S</i>r. XVII, 7, 1, esta ceremonia debe tener lugar al completarse cada capa, después de haber sido cubierta con tierra suelta; cf. [párrafo 11](Book_4_9_5#v9_5_2_11).
+[^517]: 275:3 Según Kâty. <i>S</i>r. XVII, 7, 1, esta ceremonia debe tener lugar al completarse cada capa, después de haber sido cubierta con tierra suelta; cf. [párrafo 11](../Book_4_9_5#v9_5_2_11).
 
 [^518]: 276:1 Para el versículo completo, véase IV, 6, 4, 4.
 
@@ -365,8 +365,8 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^522]: 278:1 A saber, Indra y Agni, cada uno con cuatro versos dirigidos a ellos.
 
-[^523]: 278:2 Véase [p. 282](Book_4_10_1#p282), nota [5](Book_4_10_1#fn525).
+[^523]: 278:2 Véase [p. 282](../Book_4_10_1#p282), nota [5](../Book_4_10_1#fn525).
 
-[^524]: 278:3 Véase [p. 110](Book_4_8_6#p110), nota [3](Book_4_8_6#fn202); [p. 111](Book_4_8_6#p111), nota [1](Book_4_8_6#fn203).
+[^524]: 278:3 Véase [p. 110](../Book_4_8_6#p110), nota [3](../Book_4_8_6#fn202); [p. 111](../Book_4_8_6#p111), nota [1](../Book_4_8_6#fn203).
 
 [^525]: 279:1 Es decir, los textos védicos.

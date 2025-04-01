@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:34Z
   </table>
 </figure>
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 ## LAS VISIONES VERDADERAS Y FALSAS DE LOS SUFRIMIENTOS DE CRISTO
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-18T17:54:34Z
 
 11\. Undécimo, dado que tal obra no está en nuestras manos, sucede que a veces oramos y no la recibimos en ese momento; a pesar de esto, no debemos desesperar ni dejar de orar. A veces, llega cuando no estamos orando por ella, como Dios sabe y quiere; pues será libre y sin ataduras: entonces, el hombre tiene la conciencia atribulada y está profundamente disgustado con su propia vida, y puede fácilmente suceder que no sepa que la Pasión de Cristo está obrando precisamente esto en él, de lo cual quizás no era consciente, al igual que otros meditaban tan exclusivamente en la Pasión de Cristo que, en su autoconocimiento, no podían salir de ese estado de meditación. Entre los primeros, los sufrimientos de Cristo son verdaderos y auténticos; entre los demás, una fachada y falsos, y según su naturaleza, Dios a menudo cambia de tema, de modo que quienes no meditan en la Pasión, realmente sí lo hacen; y quienes celebran la misa, no la oyen; y quienes no la oyen, sí la oyen.
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## SECCIÓN III. EL CONSUELO DE LOS SUFRIMIENTOS DE CRISTO.
 

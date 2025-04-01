@@ -233,17 +233,17 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^134]: 60:3 Estos dieciocho ladrillos, que representan los Stomas, o formas de himno, se colocan en el siguiente orden. En cada extremo del lomo (de oeste a este) se coloca un ladrillo del tamaño de la caña (de la rodilla al tobillo), con sus marcas de línea de oeste a este; el oriental se coloca al norte y el occidental al sur del lomo. A continuación, se coloca un ladrillo ordinario, de un pie cuadrado (p. 61) en el extremo sur del lomo transversal, de modo que quede sobre el lomo (aunque aparentemente no exactamente en el centro, sino de modo que solo una cuarta parte del ladrillo quede a un lado del lomo), con sus marcas de línea de sur a norte; y un segundo ladrillo del mismo tamaño se coloca en el norte, dejando el espacio completo de otro ladrillo similar entre este y el borde norte del altar. Detrás (al oeste) del ladrillo frontal, se colocan catorce ladrillos de medio pie, en fila de norte a sur, siete a cada lado de la columna.
 
-[^135]: 61:1 Las fórmulas de los primeros cuatro de estos ladrillos (stoma) no se dan aquí (en los párrafos [9](Book_4_8_4#v8_4_1_9)\-[12](Book_4_8_4#v8_4_1_12)) en el orden en que los ladrillos se colocan realmente, a saber, EWSN, sino en el orden ESNW; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. Para una explicación simbólica de este cambio de orden, véase [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) seq.
+[^135]: 61:1 Las fórmulas de los primeros cuatro de estos ladrillos (stoma) no se dan aquí (en los párrafos [9](../Book_4_8_4#v8_4_1_9)\-[12](../Book_4_8_4#v8_4_1_12)) en el orden en que los ladrillos se colocan realmente, a saber, EWSN, sino en el orden ESNW; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. Para una explicación simbólica de este cambio de orden, véase [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) seq.
 
 [^136]: 61:2 O, quizás, «el enojado». Sin embargo, el autor del Brâhma<i>n</i>a evidentemente conecta «bhânta» con la raíz «bhâ», brillar.
 
-[^137]: 66:1 Para detalles sobre el <i>K</i>atush<i>t</i>oma, véase la nota sobre [XIII, 1, 3, 4](Book_4_8_1#v8_1_3_4).
+[^137]: 66:1 Para detalles sobre el <i>K</i>atush<i>t</i>oma, véase la nota sobre [XIII, 1, 3, 4](../Book_4_8_1#v8_1_3_4).
 
 [^138]: 66:2 Los diez Sp<i>ri</i>ta<i>h</i> se colocan en estrecha conexión con el conjunto anterior; es decir, en los extremos delantero y trasero de la columna, se colocan dos ladrillos de tamaño exactamente igual al de los que ya se encontraban allí, al sur y al norte de estos, respectivamente. De igual manera, se colocan dos ladrillos de un pie cuadrado en la columna transversal, inmediatamente al norte de los dos ladrillos para estomas que se encuentran allí. Los seis ladrillos restantes se colocan detrás de la fila de catorce estomas en la parte delantera del altar, tres a cada lado de la columna.
 
 [^139]: 67:1 O, de ese mal, la muerte.
 
-[^140]: 67:2 En el caso de los primeros cuatro Sp<i>ri</i>ta<i>h</i>, como en el de los Stomas correspondientes (véase pág. 6r, nota r), si bien los ladrillos se colocan en el orden EWNS, el orden en que se dan las fórmulas en los párrafos 3-6 es el de ENSW —Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. Para una explicación simbólica de este cambio de orden, véase [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) ss.
+[^140]: 67:2 En el caso de los primeros cuatro Sp<i>ri</i>ta<i>h</i>, como en el de los Stomas correspondientes (véase pág. 6r, nota r), si bien los ladrillos se colocan en el orden EWNS, el orden en que se dan las fórmulas en los párrafos 3-6 es el de ENSW —Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. Para una explicación simbólica de este cambio de orden, véase [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) ss.
 
 [^141]: 69:1 Esta es claramente una etimología fantasiosa. Si «yava» y «ayava», en el sentido de las quincenas brillante y oscura, son términos realmente genuinos, es más probable que deriven de yu, «alejar», considerando que la mitad brillante de la luna es capaz de alejar a los malos espíritus, y la mitad oscura, lo contrario.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^146]: 76:1 Es decir, los hace pasar a su propio poder, los hace suyos.
 
-[^147]: 77:1 Es decir, al colocar estos ladrillos. Para el orden de colocación, véase también [p. 67](Book_4_8_4#p67), nota [2](Book_4_8_4#fn139).
+[^147]: 77:1 Es decir, al colocar estos ladrillos. Para el orden de colocación, véase también [p. 67](../Book_4_8_4#p67), nota [2](../Book_4_8_4#fn139).
 
 [^148]: 78:1 El texto sánscrito, como es habitual, hace de nuestra cláusula gerundial la cláusula principal: 'porque las establece al cambiarlas'.
 
@@ -282,22 +282,22 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^158]: 81:4 Es decir, como un exceso de dientes afilados (incisivos)—yasya mukhalaksha<i>n</i>a<i>m</i> dakshi<i>n</i>ada<i>m</i>sh<i>t</i>râtirekâdi bhavati; comm.
 
-[^159]: 81:5 Véase [VIII, 4, 1, 3](Book_4_8_4#v8_4_1_3).
+[^159]: 81:5 Véase [VIII, 4, 1, 3](../Book_4_8_4#v8_4_1_3).
 
-[^160]: 81:6 Véase [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4).
+[^160]: 81:6 Véase [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4).
 
-[^161]: 81:7 Véase [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^161]: 81:7 Véase [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
-[^162]: 81:8 Véase [VIII, 4, 1, 8](Book_4_8_4#v8_4_1_8).
+[^162]: 81:8 Véase [VIII, 4, 1, 8](../Book_4_8_4#v8_4_1_8).
 
-[^163]: 81:9 Véase [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4) seq.
+[^163]: 81:9 Véase [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4) seq.
 
-[^164]: 82:1 Véase [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^164]: 82:1 Véase [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
 [^165]: 82:2 O, en el sentido simbólico. La lectura literal de la cláusula es: «Por lo tanto, esta capa suya adquiere ascendencia y parentesco (o sentido místico)».
 
-[^166]: 82:3 Es decir, en la esquina noreste, o en el hombro izquierdo, desde donde, en dos vueltas, se llenan los espacios disponibles del altar. Al colocar los Lokampri de las tres primeras capas, comenzó desde las esquinas sureste, suroeste y noroeste, respectivamente. Cf. [p. 22](Book_4_8_1#p22), nota [1](Book_4_8_2#fn73); [p. 41](Book_4_8_2#p41), nota [1](Book_4_8_2#fn94); [p. 58](Book_4_8_3#p58), nota [1](Book_4_8_3#fn127).
+[^166]: 82:3 Es decir, en la esquina noreste, o en el hombro izquierdo, desde donde, en dos vueltas, se llenan los espacios disponibles del altar. Al colocar los Lokampri de las tres primeras capas, comenzó desde las esquinas sureste, suroeste y noroeste, respectivamente. Cf. [p. 22](../Book_4_8_1#p22), nota [1](../Book_4_8_2#fn73); [p. 41](../Book_4_8_2#p41), nota [1](../Book_4_8_2#fn94); [p. 58](../Book_4_8_3#p58), nota [1](../Book_4_8_3#fn127).
 
-[^167]: 82:4 Véase [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^167]: 82:4 Véase [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^168]: 82:5 Véase [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^168]: 82:5 Véase [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

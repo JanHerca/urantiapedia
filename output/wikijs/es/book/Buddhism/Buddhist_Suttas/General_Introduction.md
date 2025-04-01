@@ -45,7 +45,7 @@ Estos son—
 
 6\. La Leyenda del Gran Rey de la Gloria (el Mahâ-sudassana-Suttanta), que es un ejemplo de la forma en que los primeros budistas abordaron las leyendas previamente existentes.
 
-7\. El Sutta titulado “Todos los Âsavas” (el Sabbâsava-Sutta), que explica el significado de un término técnico constantemente recurrente y establece los principios esenciales del agnosticismo budista.
+7\. El Sutta titulado «Todos los Âsavas» (el Sabbâsava-Sutta), que explica el significado de un término técnico constantemente recurrente y establece los principios esenciales del agnosticismo budista.
 
 La Disciplina de los Mendicantes Budistas, las Reglas de su Orden —probablemente la más influyente, por ser la más antigua del mundo— se describirán detalladamente, hasta el último detalle, en la traducción del Vinaya Pi<i>t</i>aka, que formará parte posterior de esta Serie de Traducciones de los Libros Sagrados de Oriente. Por lo tanto, no era necesario incluir ningún Sutta sobre este tema en el presente volumen; pero confío en que las obras seleccionadas ofrezcan una idea correcta y adecuada, aunque necesariamente algo fragmentaria, del resto de los temas tratados en los Libros Sagrados Budistas —leyendas budistas, evangelios, teología controvertida y ética—.
 
@@ -194,9 +194,9 @@ Agosto de 1880.
 
 ## Notas al pie
 
-[^1]: Traducido a continuación, [pp. 112-135](Maha_Parinibbana_6#p112).
+[^1]: Traducido a continuación, [pp. 112-135](../Maha_Parinibbana_6#p112).
 
-[^2]: Esto es un error. El Subhadda al que se hace referencia es una persona muy distinta del último converso. Véase mi nota a continuación, [p. 127](Maha_Parinibbana_6#p127).
+[^2]: Esto es un error. El Subhadda al que se hace referencia es una persona muy distinta del último converso. Véase mi nota a continuación, [p. 127](../Maha_Parinibbana_6#p127).
 
 [^3]: Páginas 67, 68 en la edición de Childers.
 

@@ -179,7 +179,7 @@ Lord Reay, Presidente de la Real Sociedad Asiática, un noble que nunca deja de 
 
 El señor L. W. Dane (actualmente Sir Louis W. Dane, teniente gobernador del Punjab) siempre ha adoptado una actitud comprensiva hacia mis trabajos y, en la medida de sus posibilidades, ha contribuido a llevarlos a buen puerto.
 
-Y Lord Kitchener de Jartum, después de presidir mi conferencia pública sobre “Cómo los sikhs se convirtieron en un pueblo militante”, se expresó así:
+Y Lord Kitchener de Jartum, después de presidir mi conferencia pública sobre «Cómo los sikhs se convirtieron en un pueblo militante», se expresó así:
 
 Debe ser una gran satisfacción para el Sr. Macauliffe que la Sabha Singh de Amritsar haya aceptado sus traducciones como absolutamente exactas. Podemos afirmar con seguridad que, al poner a nuestro alcance el estudio de las escrituras sagradas sijs, el Sr. Macauliffe se ha ganado la aprobación de todos los que conocen el gran valor del soldado sij; el cordial reconocimiento de los gobernantes del país y la gratitud de los jefes, sardars y miembros de la comunidad sij. Un sentimiento de gratitud que, estoy seguro, aumentará considerablemente cuando el Sr. Macauliffe haya traducido las escrituras sagradas al panyabí común de la actualidad, una labor que, según tengo entendido, está a punto de comenzar y que espero que dé como resultado su difusión general en todos los hogares sijs del país.
 

@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Español El G<i>ri</i>hya-sûtra de Gobhila difiere de los de <i>S</i>âṅkhâyana, Â<i>ri</i>valâyana, Pâraskara, Hira<i>ri</i>yake<i>ri</i>in en un punto esencial: si bien estos textos presuponen solo los mismos Sa<i>ri</i>hitâs védicos en los que también se basan los <i>S</i>rauta-sûtras correspondientes, a saber, el <i>Ri</i>g-veda-Sa<i>ri</i>hitâ, el Vâ<i>ri</i>asaneyi-Sa<i>ri</i>hitâ y el Taittirîya-Sa<i>ri</i>hitâ; El Sûtra de Gobhila, por otra parte, presupone, además del Sa<i>ri</i>hitâ del Sâma-veda [^80], otra colección de Mantras que evidentemente fue compuesta expresamente con el propósito de ser utilizada en las ceremonias G<i>ri</i>hya: esta colección se conserva hasta nosotros bajo el título de Mantra-Brâhma<i>ri</i>a, y ha sido editada en Calcuta (1873), con un comentario y una traducción bengalí de Satyavrata Sâma<i>ri</i>ramin [^81].
 
@@ -54,7 +54,7 @@ Añadiré solo unas palabras sobre una segunda ceremonia de G<i>ri</i>hya, que r
 
 Y esto me lleva a una de las conjeturas del profesor Knauer sobre el Mantra-Brâhma<i>n</i>a que aún no he abordado. Según la tradición, consideramos que el Mantra-Brâhma<i>n</i>a pertenece al Sama-veda; en la edición de Calcuta se le denomina «Sâma-vedasya Mantra-Brâhma<i>n</i>am». El profesor Knauer considera dudoso que el Mantra-Brâhma<i>n</i>a perteneciera originalmente al Sama-veda. Conjetura [^90] que ya existía en la <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> período durante el cual las escuelas separadas estaban aún en proceso de selección, cuando aún no había Sâma-vedistas en el sentido posterior y más estricto del término [^91].' Porque de los 249 Mantras del Mantra-Brâhma<i>n</i>a solo hay cuatro que se encuentran en el Sâma-veda [^92], como lo ha demostrado el Prof. Knauer, mientras que un número mucho mayor de estos Mantras aparece en los otros Sa<i>n</i>hitâs védicos. Me inclinaría a concluir lo contrario: solo porque el autor del Mantra-Brâhma<i>n</i>a presuponía un conocimiento del Sa<i>n</i>hitâ del Sâma-veda, pero no de los otros Vedas —o en otras palabras, porque destinó su obra a los Sâma-vedins—, no necesitaba repetir lo que estaba en el Sâma-veda, sino que se vio obligado a incorporar en su compilación los Mantras del <i>Ri</i>g-veda o del Ya<i>n</i>ur-veda [^93]. Además, sacaría las mismas conclusiones de los Mantras citados por Gobhila que están ausentes en el Mantra-Brâhma<i>n</i>a, como las que saqué de los Mantras que aparecen en el Mantra-Brâhma<i>n</i>a, pero que no se encuentran en el Sâma-veda. Todos estos mantras se encuentran en el Sama-veda, con la excepción de aquellos que Gobhila tiene in extenso, y que, por lo tanto, podrían omitirse en el Mantra-Brâhma<i>n</i>a. Si examinamos los trece mantras recopilados por el profesor Knauer (pág. 29), observamos que, en el caso de nueve de ellos, el pasaje del Sama-veda (siempre del primer Âr<i>n</i>ika) donde se encuentran es citado por el profesor Knauer.
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Los otros cuatro casos son:
 

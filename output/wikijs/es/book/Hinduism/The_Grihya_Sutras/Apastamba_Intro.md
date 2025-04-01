@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
-<span id="p248">[<sup><small>pág. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
-<span id="p249">[<sup><small>pág. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 El breve tratado de Âpastamba sobre el ritual G<i>ri</i>hya forma un Pra<i>ri</i>na del gran corpus del Âpastambîya-Kalpa-sûtra (véase Libros Sagrados, vol. ii, pág. xii) y se encuentra, entre los textos G<i>ri</i>hya, en conexión más estrecha con el Hira<i>ri</i>yake<i>ri</i>iG<i>ri</i>hya-sûtra. EspañolLa principal diferencia entre estos dos Sûtras, ambos pertenecientes a la Escuela Taittirîya del Ya<i>ri</i>ur-veda Negro, consiste aquí en que Âpastamba, tal como se ha establecido más arriba [^711] con respecto a Gobhila, da sólo las reglas para la realización de los ritos G<i>ri</i>hya sin los Mantras, que están contenidos en una colección especial, el Mantrapâ<i>ri</i>a, que se encuentra al lado de los Sûtras: Hira<i>ri</i>yake<i>ri</i>in, por otro lado, sigue la práctica más usual, adoptada por <i>S</i>âṅkhâyana, Â<i>ri</i>valâyana, Pâraskara, de entrelazar la descripción de las ceremonias con el texto de los Mantras correspondientes. Español En cuanto a la relación que existe entre los Âpastambîya-sûtras y el Mantrapâ<i>ri</i>a, no hay, hasta donde puedo ver, ninguna razón por la cual no deberíamos extender la teoría que hemos tratado de establecer con respecto a Gobhila, al caso evidentemente paralelo de Âpastamba: los Sûtras presuponen la existencia del Mantrapâ<i>ri</i>a, tal como este último texto parece presuponer los Sûtras.—Las cuestiones relativas a la relación histórica de Âpastamba con Hira<i>ri</i>yake<i>ri</i>in han sido tratadas por el Profesor Bühler en su Introducción al Dharma-sûtra de Âpastamba, SBE, vol. ii, pp. xxiii seq.
 
@@ -68,4 +68,4 @@ Quiero agradecer al Dr. Winternitz, a quien debemos una excelente edición del �
 
 ## Notas al pie
 
-[^711]: 249:1 Véase arriba, pág. [3](Gobhila_Intro#p3) seq.
+[^711]: 249:1 Véase arriba, pág. [3](../Gobhila_Intro#p3) seq.

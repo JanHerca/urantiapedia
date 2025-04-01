@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 3. Según Beth Shammai, dicha mujer puede casarse de nuevo y recibir la cantidad de su Ketubah, pero Beth Hillel sostiene que puede casarse, pero no tiene derecho a su Ketubah. Beth Shammai les dijo: «Permitieron [la posible comisión del] grave pecado de adulterio, [^758] y, sin embargo, niegan su permiso en asuntos de dinero, [^759] que son de tan poca importancia». Beth Hillel respondió: «[Decidimos esto,\] porque encontramos que los hermanos de su esposo no pueden heredar la herencia de su hermano fallecido con su testimonio sin fundamento». Beth Shammai respondió: «La suma que su esposo le prometió la conocemos de su contrato matrimonial. [^760] Porque así está escrito allí: 'En caso de que te cases con otro esposo, recibirás lo que aquí se te asigna'». Entonces Beth Hillel abandonó su opinión anterior y enseñó como Beth Shammai.
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 § 4. Todo testigo es digno de confianza para declarar a una mujer sobre el fallecimiento de su marido, excepto su suegra, la hija de este, su rival, su cuñada o la hijastra o la hijastra de su marido. [^761] ¿Por qué se hace esta distinción entre el testimonio de la esposa que alega haberse divorciado de su marido y el de quien da testimonio de su fallecimiento? Porque el documento escrito [^762] prueba el asunto de forma más satisfactoria. Si un testigo declaró: «Su esposo ha fallecido», por lo que la viuda obtuvo permiso para volver a casarse, aunque otro testigo posteriormente contradiga esta declaración y diga: «Su esposo no ha fallecido», no pierde su derecho a volver a casarse. Sin embargo, si un testigo, incapaz de declarar, declara: «Ha fallecido», y dos testigos, en la misma situación, declaran posteriormente: «No ha fallecido», debe disolver ese matrimonio, incluso estando ya casada, según la primera declaración. Si dos testigos declaran: «Ha fallecido» y otro declara: «No ha fallecido», entonces, incluso si no se casó según la declaración del primero, podrá casarse posteriormente, a pesar de la última declaración.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Cuando ella dice: «Me nació un hijo en el extranjero, que murió, y luego murió también mi esposo», se le debe dar crédito, pero si dijo: «Mi esposo murió primero, y luego mi hijo», no se le debe dar crédito; sin embargo, sus palabras se consideran hasta cierto punto, de modo que solo se le permite recibir _Jalitzah_ de su cuñado, pero no puede casarse con él por _Yeboom_.
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 § 10. Si dice: «Me nació un cuñado allí» [^765] y añade: «Mi esposo murió primero, y luego mi cuñado», o: «Mi cuñado murió primero, y luego mi esposo», se le debe creer. Si viajó con su esposo y su cuñado y, a su regreso, dice: «Mi esposo murió primero, y luego mi cuñado», o: «Mi cuñado murió primero, y luego mi esposo», no se le debe creer. Pues una mujer no tiene derecho a crédito pleno cuando dice: «Mi cuñado muere», ya que [es posible] que haga esa afirmación solo [para que se le permita] casarse de nuevo. Tampoco cuando dice: «Mi hermana murió», para poder casarse con su cuñado. Tampoco se le debe creer a un hombre por su propia afirmación cuando dice: «Mi esposa murió», ya que es posible que desee casarse con su hermana.
 

@@ -1,5 +1,5 @@
 ---
-title: "Libro XVI: Shan Hsing, o “La corrección de la naturaleza”"
+title: "Libro XVI: Shan Hsing, o «La corrección de la naturaleza»"
 description: "Textos taoístas, vol. 1; Lao-tse; Chuang-tzu parte I"
 published: true
 date: 2025-2-12T12:58:51Z
@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:51Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_15">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XV: Kho Î, o “Ideas arraigadas”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XV: Kho Î, o «Ideas arraigadas»</span>
         </a>
         </td>
         <td>
@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:51Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_17">
-          <span class="pr-2">Libro XVII: Khiû Shui, o “Las inundaciones del otoño”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XVII: Khiû Shui, o «Las inundaciones del otoño»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p368">[<sup><small>pág. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 LIBRO XVI.
 
@@ -44,7 +44,7 @@ Shan Hsing, o 'Corrigiendo la Naturaleza [^557]'.
 
 Cuando la facultad del conocimiento y la placidez
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Así se fusionan y se nutren mutuamente, y de la naturaleza surgen la armonía y el método ordenado. Los atributos del Tao constituyen la armonía; el Tao mismo asegura el método ordenado. Cuando los atributos se manifiestan en una práctica universal de tolerancia, tenemos benevolencia; cuando el camino está completamente marcado por un método ordenado, tenemos rectitud; cuando la rectitud se manifiesta claramente y todo se considera con afecto, tenemos sinceridad; cuando el corazón es puro y real, y se reencuentra con sus cualidades, tenemos música; cuando esta sinceridad se manifiesta en todo el espectro de la capacidad, y sus manifestaciones concuerdan con lo elegante, tenemos ceremonia. Si las ceremonias y la música se llevan a cabo de manera imperfecta y unilateral, el mundo se sume en la confusión. Cuando los hombres quieren rectificar a otros, y su propia virtud se ve nublada, no es suficiente extenderse a ellos. Si se intentara extenderlo, también perderían su naturaleza propia.
 
@@ -68,7 +68,7 @@ Lo que antiguamente se llamaba «Lograr el Objetivo» no significaba obtener car
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_15">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XV: Kho Î, o “Ideas arraigadas”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XV: Kho Î, o «Ideas arraigadas»</span>
         </a>
         </td>
         <td>
@@ -78,7 +78,7 @@ Lo que antiguamente se llamaba «Lograr el Objetivo» no significaba obtener car
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_17">
-          <span class="pr-2">Libro XVII: Khiû Shui, o “Las inundaciones del otoño”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XVII: Khiû Shui, o «Las inundaciones del otoño»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -88,7 +88,7 @@ Lo que antiguamente se llamaba «Lograr el Objetivo» no significaba obtener car
 
 ## Notas al pie
 
-[^609]: 368:1 Ver págs. [147](Kwang_dze_Intro#p147), [148](Kwang_dze_Intro#p148).
+[^609]: 368:1 Ver págs. [147](../Kwang_dze_Intro#p147), [148](../Kwang_dze_Intro#p148).
 
 [^610]: 368:2 «Vulgar» debe significar «común», y «el saber vulgar» es la enseñanza popular en la época de nuestro autor, la cual él consideraba contraria a los principios del taoísmo, del cual era partidario. Los críticos chinos afirman que «vulgar» se usa aquí como lo opuesto de «verdadero».
 

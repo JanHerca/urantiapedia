@@ -66,9 +66,9 @@ El hombre debe estar despierto, vigoroso, ardiente.
 
 La vida meditativa del recluso no es más efectiva que la vida ordinaria del hombre mundano, a menos que se dedique exclusivamente a alcanzar la Iluminación.
 
-“_No hacer el mal, sino hacer el bien_,”
+«_No hacer el mal, sino hacer el bien_,»
 
-“_Purificar el corazón, ésta es la enseñanza del Perfecto_”, es uno de los textos más solemnes utilizados por los budistas.
+«_Purificar el corazón, ésta es la enseñanza del Perfecto_», es uno de los textos más solemnes utilizados por los budistas.
 
 4. Nirvana es uno de los numerosos epítetos que se utilizan para nombrar el ideal budista de vida. Implica la "salida" del corazón de la lujuria, la mala voluntad, la torpeza o la estupidez.
 
@@ -82,11 +82,11 @@ _Una primera causa._
 
 _Psicología._
 
-“Todo lo que somos es el resultado de lo que hemos pensado”.
+«Todo lo que somos es el resultado de lo que hemos pensado».
 
-“En este pequeño cuerpo mortal, de una braza de largo, con sus pensamientos y sus nociones, declaro que está el mundo”.
+«En este pequeño cuerpo mortal, de una braza de largo, con sus pensamientos y sus nociones, declaro que está el mundo».
 
-7. Los “Cuatro Impensables” sobre los cuales Gotama desaprobaba la especulación son:
+7. Los «Cuatro Impensables» sobre los cuales Gotama desaprobaba la especulación son:
 
 _Los cuatro impensables_.
 
@@ -160,8 +160,8 @@ _El infierno y el cielo._
 
 ## Notas al pie
 
-[^1]: “Buda realizó un esfuerzo extraordinario y asombroso para separar el desarrollo del pensamiento filosófico y religioso del sustancialismo o animismo aristotélico” (Manual de Ética Psicológica Budista). _Caroline Rhys Davids_.
+[^1]: «Buda realizó un esfuerzo extraordinario y asombroso para separar el desarrollo del pensamiento filosófico y religioso del sustancialismo o animismo aristotélico» (Manual de Ética Psicológica Budista). _Caroline Rhys Davids_.
 
-[^2]: “Según la creencia budista, no hay propagación de especies. La vida es indivisible; por lo tanto, el niño no guarda relación con sus padres, ya que el individuo errante encuentra a su familia a través de su propio karma inherente.” (LA Waddell. JRAS Abril 94)
+[^2]: «Según la creencia budista, no hay propagación de especies. La vida es indivisible; por lo tanto, el niño no guarda relación con sus padres, ya que el individuo errante encuentra a su familia a través de su propio karma inherente.» (LA Waddell. JRAS Abril 94)
 
-[^3]: “Y, hermanos, aprendan de la parábola de la balsa que deben abandonar las buenas condiciones, y mucho menos las malas”. Con referencia a esta frase del Buda, la Sra. Rhys Davids comenta en el prefacio de su Manual de Ética Psicológica Budista (pág. XCIV): “El bien es como una balsa que nos lleva a través de la corriente del peligro. No es fácil para nosotros, que hemos aprendido de Platón a llamar a nuestro Absoluto el bien y a nuestro ideal el Summum Bonum, simpatizar realmente con este punto de vista moral”.
+[^3]: «Y, hermanos, aprendan de la parábola de la balsa que deben abandonar las buenas condiciones, y mucho menos las malas». Con referencia a esta frase del Buda, la Sra. Rhys Davids comenta en el prefacio de su Manual de Ética Psicológica Budista (pág. XCIV): «El bien es como una balsa que nos lleva a través de la corriente del peligro. No es fácil para nosotros, que hemos aprendido de Platón a llamar a nuestro Absoluto el bien y a nuestro ideal el Summum Bonum, simpatizar realmente con este punto de vista moral».

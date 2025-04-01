@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>pág. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 
 El príncipe Siddhartha vivía feliz con su esposa, la princesa. Y el rey, cuyo amor por su hijo rozaba la adoración, se esforzó al máximo para evitarle cualquier cosa que pudiera perturbarlo. Le construyó tres magníficos palacios: uno para el invierno, otro para el verano y el tercero para la temporada de lluvias; y le prohibió abandonarlos jamás para vagar por la vasta faz de la tierra.

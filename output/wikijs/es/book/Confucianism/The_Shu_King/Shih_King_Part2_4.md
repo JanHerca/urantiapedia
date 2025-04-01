@@ -52,11 +52,11 @@ Un oficial, mantenido mucho tiempo en el extranjero en servicio a distancia, ape
 
 SERVICIOS SACRIFICIALES Y FESTIVALES EN EL TEMPLO ANCESTRAL; Y SU RELACIÓN CON LA ATENCIÓN A LA CRÍA.
 
-Véanse las observaciones sobre los Servicios del Templo Ancestral, págs. [300](Shih_King_Part1_Intro#p300), 301.
+Véanse las observaciones sobre los Servicios del Templo Ancestral, págs. [300](../Shih_King_Part1_Intro#p300), 301.
 
 El tribulus crecía espeso (en el suelo), pero despejaron sus arbustos espinosos. ¿Por qué hicieron esto antaño? Para que pudiéramos plantar nuestro mijo y el mijo de sacrificio; para que nuestro mijo fuera abundante, y nuestro mijo de sacrificio exuberante. Cuando nuestros graneros están llenos, y nuestros montones se cuentan por decenas de miríadas, procedemos a preparar licores y grano preparado, para ofrendas y sacrificios. Sentamos a los representantes de los muertos y los animamos a comer [^437]: buscando así aumentar nuestra brillante felicidad.
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Con un comportamiento correcto y reverente, puros los toros y carneros, procedemos a los sacrificios de invierno y otoño. Algunos desuellan a las víctimas; otros cocinan su carne; algunos preparan la carne; otros ajustan los trozos. El oficiante de oración sacrifica dentro de la puerta del templo [^438], y todo el servicio sacrificial es completo y brillante. Nuestros progenitores llegan majestuosamente; sus espíritus disfrutan con alegría de las ofrendas; su descendiente filial recibe la bendición: lo recompensarán con gran felicidad, con miríadas de años, vida eterna.
 
@@ -114,7 +114,7 @@ Los campos son extensos y el trabajo es diverso. Tras seleccionar la semilla y c
 
 Las espigas y el fruto se mantienen tiernos en su vaina; se endurecen y son de buena calidad; no hay hierba cola de lobo ni cizaña. Eliminamos los insectos que se comen el corazón y la hoja, y los que se comen las raíces y los nudos, para que no dañen las plantas jóvenes de nuestros campos. ¡Que el espíritu, el Padre de la Agricultura [^457], los agarre y los ponga en el fuego ardiente!
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Las nubes se forman en densas masas. Y la lluvia cae lentamente. Que llueva primero en nuestros campos públicos [^458], y luego en nuestros privados. Allá habrá trigo joven sin cosechar, y aquí algunos manojos sin recoger; allá habrá puñados en el suelo, y aquí espigas sin tocar: —Para beneficio de la viuda [^459].
 

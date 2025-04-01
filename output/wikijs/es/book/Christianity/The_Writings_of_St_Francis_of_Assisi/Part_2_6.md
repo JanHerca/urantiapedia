@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## VI. AL HERMANO LEO.
 
@@ -86,7 +86,7 @@ Te digo: Sí, hijo mío, y como madre; pues en estas palabras y consejos resumo 
 
 [^518]: 131:1 Véase, por ejemplo, el texto paralelo en latín e italiano dado por el Padre Bernardo da Fivizzano, OMCap.
 
-[^519]: 131:2 “Este plural muestra claramente que el hermano León había hablado en nombre de un grupo.”—Sabatier: _Vida de San Francisco_, pág. 301.
+[^519]: 131:2 «Este plural muestra claramente que el hermano León había hablado en nombre de un grupo.»—Sabatier: _Vida de San Francisco_, pág. 301.
 
 [^520]: 131:3 Cuando mandaba escribir cartas a modo de saludo o admonición, no permitía que se borrara ninguna letra ni sílaba, aunque a menudo eran superfluas o estaban mal colocadas. (Véase 1 Cel. 82.)
 

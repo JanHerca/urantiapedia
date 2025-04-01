@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:53:32Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Los lectores, especialmente aquellos que no estén familiarizados con la filosofía escolástica, quizás se alegrarán de encontrar aquí una breve explicación de los diversos tipos de visión y locución: corporal, imaginaria e intelectual. Los sentidos del gusto, el tacto y el olfato no suelen verse afectados por fenómenos místicos, pero lo que vamos a decir respecto a la vista y el oído se aplica, mutatis mutandis, también a estos.
 
@@ -48,7 +48,7 @@ Estas visiones, locuciones, etc., no son alucinaciones. Estas últimas se deben 
 
 III. UNA VISIÓN O LOCUCIÓN INTELECTUAL es aquella en la que los ojos y los oídos no ven ni oyen nada, y la imaginación no percibe ninguna sensación. Pero la impresión que la imaginación transmitiría al intelecto, si llegara a través de los sentidos y se transmitiera a esta, se imprime directamente en el intelecto. Para comprender esto, es necesario tener presente que las impresiones que recibimos a través de los sentidos deben sufrir una transformación —deben espiritualizarse— antes de llegar al intelecto. Este es uno de los problemas más difíciles de la psicología; ninguna de las soluciones ofrecidas por diversas escuelas filosóficas parece liberarlo por completo de la oscuridad. Según Santo Tomás de Aquino, la impresión recibida por el ojo (Species sensibilis) es espiritualizada por una facultad llamada Intellectus agens mediante la abstracción (Species impressa), y se atesora en la memoria, como diapositivas, disponibles a petición. La mente, al identificarse con la Species impressa, produce la "Palabra de la mente" (Verbum mentis), en la que consiste el acto de Entendimiento o Concepción Mental. En la Visión o Locución Intelectual, Dios, sin la cooperación de los sentidos, la imaginación ni la memoria, produce directamente en la mente la Species impressa. Dado que esta es sobrenatural en cuanto a su origen, y a menudo también en cuanto a su objeto, es lógico que sea demasiado elevada para que la memoria la reciba, de modo que tales visiones y locuciones con frecuencia se recuerdan solo de forma imperfecta y, a veces, se olvidan por completo, como nos dice Santa Teresa. Por otra parte, son mucho menos peligrosas que las Visiones y Locuciones Corporales o Imaginarias, porque los sentidos y la imaginación no tienen nada que ver con ellas, mientras que los espíritus malignos no pueden actuar directamente sobre la mente, y el autoengaño queda totalmente excluido por las razones expuestas por Santa Teresa.
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 San Pablo menciona un ejemplo de tal visión: «Conozco a un hombre en Cristo hace más de catorce años (si en el cuerpo, no lo sé; Dios lo sabe), que fue arrebatado hasta el tercer cielo. Y conozco a tal hombre (si en el cuerpo, no lo sé; Dios lo sabe): que fue arrebatado al paraíso y oyó palabras secretas que al hombre no le es dado expresar» (2 Corintios 12:2-4).
 

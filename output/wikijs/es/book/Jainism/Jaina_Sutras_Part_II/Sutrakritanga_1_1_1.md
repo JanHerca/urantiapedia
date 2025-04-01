@@ -32,9 +32,9 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span> pág. 235
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span> pág. 235
 
 SÛTRAKRI TÂṄGA.
 
@@ -54,7 +54,7 @@ Uno debe saber qué causa la esclavitud del Alma, y ​​conociéndola, debe el
 
 El que posee incluso una pequeña propiedad en cosas vivas o inertes [^673], o consiente que otros la posean, no se librará de la miseria. (2)
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Si un hombre mata seres vivos, o hace que otros hombres los maten, o consiente que los maten, su iniquidad seguirá aumentando. (3)
 
@@ -68,7 +68,7 @@ Algunos [^677] profesan (la creencia exclusiva en) los cinco elementos brutos: t
 
 'Estos cinco elementos brutos (son las causas originales de las cosas), de ellos surge otra (cosa, a saber, âtman) [^678]; porque con la disolución de los (cinco elementos) los seres vivos dejan de existir. (8)
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 'Y así como la Tierra, aunque no es más que un solo pilar, presenta muchas formas, así también el principio inteligente, es decir, el âtman, aparece bajo diversas formas como el universo [^679].' (9)
 
@@ -92,7 +92,7 @@ Los <i>G</i>â<i>n</i>ayas [^686] dicen que hay cuatro elementos: tierra, agua, 
 
 (Todos estos herejes dicen): «Aquellos que habitan en casas, en bosques o en colinas, se verán liberados de toda miseria si adoptan nuestro credo». (19)
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Pero no cruzan el Diluvio de la Vida quienes, ignorando la verdadera relación de las cosas y no versados ​​en la verdadera Ley, sostienen las opiniones heréticas antes mencionadas. (20)
 

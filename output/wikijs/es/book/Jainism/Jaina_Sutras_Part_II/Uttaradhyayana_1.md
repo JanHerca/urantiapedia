@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 UTTARÂDHYAYANA. PRIMERA CONFERENCIA. SOBRE LA DISCIPLINA.
 
@@ -56,7 +56,7 @@ Un hombre sabio, cuando es reprendido, no debe enojarse, sino que debe mostrarse
 
 No debe hacer nada malo [^52], ni hablar mucho; sino que después de haber aprendido la lección, debe meditar por sí mismo. (10)
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Si por casualidad hace algo malo, nunca debe negarlo, pero si lo ha hecho, debe decir: "Lo he hecho"; si no lo ha hecho, "No lo he hecho". (11)
 
@@ -104,7 +104,7 @@ El monje no debe acercarse a los que están sentados en fila para comer, sino qu
 
 El monje debe esperar (su limosna) solo, no demasiado lejos ni demasiado cerca de otros monjes, pero de forma que no sea visto por nadie más; otro monje no debe pasar delante de él para adelantarse. (33)
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Ni erguido con audacia ni inclinándose humildemente, ni demasiado cerca ni demasiado lejos, un monje debe aceptar la comida permitida [^61] que haya sido preparada para otra persona [^62]. (34)
 

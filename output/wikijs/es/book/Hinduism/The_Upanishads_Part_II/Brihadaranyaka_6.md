@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 SEXTO ADHYÂYA.
 
@@ -69,7 +69,7 @@ Entonces el rey dijo: «¿Te ha enseñado tu padre?». «Sí», respondió.
 
 «¿Sabes cómo regresan a este mundo?» «No», respondió [^599].
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 «¿Sabes que ese mundo nunca se llena con tantos que una y otra vez parten hacia allá?» «No», respondió.
 
@@ -89,19 +89,19 @@ Entonces el rey dijo: «¿Te ha enseñado tu padre?». «Sí», respondió.
 
 «Puede irse, señor», respondió el hijo.
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Entonces Gautama fue al lugar donde se encontraba Pravâha<i>n</i>a Gaivali, y el rey le ofreció un asiento, le pidió agua y le hizo las ofrendas correspondientes. Luego le dijo: «Señor, ofrecemos una bendición a Gautama».
 
-5\. Gautama dijo: “Esa bendición me ha sido prometida; dime el mismo discurso que pronunciaste en presencia de mi hijo”.
+5\. Gautama dijo: «Esa bendición me ha sido prometida; dime el mismo discurso que pronunciaste en presencia de mi hijo».
 
 6\. Dijo: 'Eso pertenece a los beneficios divinos, nombra uno de los beneficios humanos.'
 
 7\. Dijo: «Sabes bien que tengo mucho oro, muchas vacas, caballos, esclavos, sirvientes y ropa; no me amontones [^600] lo que ya tengo en abundancia, en sobreabundancia y en superabundancia».
 
-El rey dijo: “Gautama, ¿deseas que te instruya de la manera apropiada?”
+El rey dijo: «Gautama, ¿deseas que te instruya de la manera apropiada?»
 
-Gautama respondió: “Vengo a ti como alumno”.
+Gautama respondió: «Vengo a ti como alumno».
 
 Solo de palabra han venido los antiguos sabios (aunque brahmanes) como discípulos (de personas de rango inferior), pero Gautama en realidad habitó como discípulo (de Pravâha<i>n</i>a, quien era un Râ<i>g</i>anya) para obtener la fama de haber servido respetuosamente a su amo [^601]. <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> 8\. El rey dijo: «No te ofendas con nosotros, ni tú ni tus antepasados, porque este conocimiento nunca antes ha habitado en ningún brahmán [^602]. Pero te lo diré, pues ¿quién podría negarte cuando hablas así?»
 
@@ -158,7 +158,7 @@ Luego dice: Svâhâ a Kshatra (la caballería), vierte ghee en el fuego y arroja
 
 Luego dice: Svâhâ al Pasado, vierte ghee en el fuego y arroja lo que queda en el Mantha (mortero).
 
-<span id="p212">[<sup><small>pág. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Luego dice: Svâhâ al futuro, vierte ghee en el fuego y arroja lo que queda en el Mantha (mortero).
 
@@ -184,19 +184,19 @@ Repite todo el verso de Sâvitrî y todos los versos sobre la miel, pensando: «
 
 7\. Uddâlaka Âruni le contó esta (doctrina Mantha) a su discípulo Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas». <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 8\. Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya le contó lo mismo a su discípulo Madhuka Paiṅgya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas».
 
-9\. Madhuka Paiṅgya le dijo lo mismo a su alumno <i>K</i>ûla Bhâgavitti</i>, y dijo: “Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas”.
+9\. Madhuka Paiṅgya le dijo lo mismo a su alumno <i>K</i>ûla Bhâgavitti</i>, y dijo: «Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas».
 
 10\. <i>K</i>ûla Bhâgavitti le dijo lo mismo a su alumno <i>G</i>ânaki Âyasthû<i>n</i>a, y dijo: 'Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas.'
 
 11\. <i>G</i>ânaki Âyasthû<i>n</i>a le dijo lo mismo a su alumno Satyakâma <i>G</i>âbâla, y dijo: 'Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas.'
 
-12\. Satyakâma <i>G</i>âbâla les contó lo mismo a sus discípulos, y dijo: “Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas”.
+12\. Satyakâma <i>G</i>âbâla les contó lo mismo a sus discípulos, y dijo: «Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas».
 
 Que nadie diga esto [^619] a nadie, excepto a un hijo o a un alumno [^620].
 
 13\. Cuatro cosas están hechas de la madera del árbol Udumbara: el cucharón de sacrificio (sruva), la copa (kamasa), el combustible y los dos palos para batir.
 
-Hay diez tipos de semillas de aldea (cultivadas), a saber: arroz y cebada (brîhiyavâs), sésamo y frijoles (tilamâshâs), mijo y semillas de ñame (a<i>n</i>upriyaṅgavas), trigo (godhûmâs), lentejas (masûrâs), legumbres (khalvâs) y arvejas (khalakulâs [^621]). Después de haberlas molido, las espolvorea con cuajada (dadhi), miel y ghee, y luego ofrece (las porciones adecuadas) de mantequilla clarificada [1](Brihadaranyaka_6#fn622) (â<i>g</i>ya).
+Hay diez tipos de semillas de aldea (cultivadas), a saber: arroz y cebada (brîhiyavâs), sésamo y frijoles (tilamâshâs), mijo y semillas de ñame (a<i>n</i>upriyaṅgavas), trigo (godhûmâs), lentejas (masûrâs), legumbres (khalvâs) y arvejas (khalakulâs [^621]). Después de haberlas molido, las espolvorea con cuajada (dadhi), miel y ghee, y luego ofrece (las porciones adecuadas) de mantequilla clarificada [1](../Brihadaranyaka_6#fn622) (â<i>g</i>ya).
 
 
 ## CUARTO BRAHMA<i>N</i>A [^623].
@@ -251,7 +251,7 @@ Aquel a quien un brahmán que sabe esto maldice, parte de este mundo sin fuerza 
 
 22\. Hira<i>n</i>mayî ara<i>n</i>î yâbhyâ<i>m</i> nirmanthatâm [^656] a<i>s</i>vinau [^657], ta<i>m</i> te garbha<i>m</i> havâmahe [^658] da<i>s</i>ame mâsi sûtave. Yathâgnigarbhâ p<i>ri</i>thivî, yathâ dyaur indre<i>n</i>a garbhi<i>n</i>î, vâyur di<i>s</i>â<i>m</i> yathâ garbha eva<i>m</i> garbha<i>m</i> dadhâ<i>m</i>î te 'sav iti [^659].
 
-23\. Soshyantîm [^660] adbhir abhyukshati. Yathâ vâyu<i>h</i> [^661] pushkari<i>n</i>î<i>m</i> sami_ñ_<i>g</i>ayati sarvata<i>h</i>, evâ te garbha e<i>g</i>atu sahâvaitu garâyu<i>n</i>â. Indrasyâya<i>m</i> vra<i>g</i>a<i>h</i> k<i>ri</i>ta<i>h</i> sârga<i>l</i>a<i>h</i> [^662] sapari<i>s</i>raya<i>h</i> [^663], tam indra nir<i>g</i>ahi garbhe<i>n</i>a sâvarâ<i>m</i> [^664] saheti. <span id="p222">[<sup><small>pág. 222</small></sup>]</span> 24 [^665]. Cuando nace el niño, prepara el fuego, lo coloca en su regazo y, tras verter p<i>ri</i>shadâ<i>g</i>ya, es decir, dadhi (leche espesa) mezclada con gh<i>ri</i>ta (mantequilla clarificada) en una jarra de metal, sacrifica poco a poco ese p<i>ri</i>shadâ<i>g</i>ya, diciendo: «¡Que yo, al crecer en esta mi casa, pueda alimentar a mil! ¡Que la fortuna nunca falte a su raza, con descendencia y ganado, Svâhâ!».
+23\. Soshyantîm [^660] adbhir abhyukshati. Yathâ vâyu<i>h</i> [^661] pushkari<i>n</i>î<i>m</i> sami_ñ_<i>g</i>ayati sarvata<i>h</i>, evâ te garbha e<i>g</i>atu sahâvaitu garâyu<i>n</i>â. Indrasyâya<i>m</i> vra<i>g</i>a<i>h</i> k<i>ri</i>ta<i>h</i> sârga<i>l</i>a<i>h</i> [^662] sapari<i>s</i>raya<i>h</i> [^663], tam indra nir<i>g</i>ahi garbhe<i>n</i>a sâvarâ<i>m</i> [^664] saheti. <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> 24 [^665]. Cuando nace el niño, prepara el fuego, lo coloca en su regazo y, tras verter p<i>ri</i>shadâ<i>g</i>ya, es decir, dadhi (leche espesa) mezclada con gh<i>ri</i>ta (mantequilla clarificada) en una jarra de metal, sacrifica poco a poco ese p<i>ri</i>shadâ<i>g</i>ya, diciendo: «¡Que yo, al crecer en esta mi casa, pueda alimentar a mil! ¡Que la fortuna nunca falte a su raza, con descendencia y ganado, Svâhâ!».
 
 'Te ofrezco en mi mente los alientos vitales que hay en mí, ¡Svâhâ!'
 
@@ -265,7 +265,7 @@ Aquel a quien un brahmán que sabe esto maldice, parte de este mundo sin fuerza 
 
 28 [^674]. Luego se dirige a la madre del niño:
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>a
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>a
 
 Tú eres I<i>l</i>â Maitrâvaru<i>n</i>î: tú, mujer fuerte, has dado a luz a un niño fuerte. Bendita seas con hijos fuertes, tú que me has bendecido con un niño fuerte.
 
@@ -284,7 +284,7 @@ Prensa de la Universidad de Oxford
 
 \[1921\]
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>hume
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>hume
 
 SEXTO ADHYÂYA
 
@@ -302,7 +302,7 @@ SEXTO ADHYÂYA
 
 Esto, en verdad, en verdad, fue lo que Nâka Maudgalya sabía cuando dijo:
 
-Esto, en verdad, en verdad, era lo que sabía Kumârahârita cuando dijo: “Muchos hombres mortales, brahmanes por descendencia, parten de este mundo, impotentes y carentes de mérito, es decir, aquellos que practican relaciones sexuales sin saber esto”.
+Esto, en verdad, en verdad, era lo que sabía Kumârahârita cuando dijo: «Muchos hombres mortales, brahmanes por descendencia, parten de este mundo, impotentes y carentes de mérito, es decir, aquellos que practican relaciones sexuales sin saber esto».
 
 \[Si\] se derrama incluso esta cantidad [^675] de semen, ya sea de alguien dormido o de alguien despierto, \[5\] entonces debe tocarlo, o \[sin tocarlo\] repetir:
 
@@ -315,7 +315,7 @@ Todo lo que ha fluido a la hierba, todo lo que ha regado...
 De nuevo los altares y el fuego
 ¡Encuéntrense en su lugar acostumbrado!
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>hume
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>hume
 
 Dicho esto, deberá tomarlo con el dedo anular y el pulgar y frotarlo entre los pechos o entre las cejas.
 
@@ -341,7 +341,7 @@ Distrae a esta mujer aquí en mí,
 
 12\. Ahora bien, si la esposa de uno tiene un amante, y él lo odia, que ponga fuego en un recipiente sin recocer, extienda una hilera de flechas de caña en orden inverso, y allí sacrifique en orden inverso.
 
-<span id="p170">[<sup><small>pág. 170</small></sup>]</span>hume
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>hume
 
 Ordena a esas flechas de caña, con las puntas untadas con ghee, diciendo:
 
@@ -363,7 +363,7 @@ En verdad, aquel a quien un brahmán que conoce esto maldice, parte de este mund
 
 16\. Ahora bien, si alguien desea: «¡Que me nazca un hijo moreno de ojos rojos! ¡Que pueda repetir los tres Vedas! ¡Que alcance la longevidad!», ambos deberían hervir arroz con agua y comerlo preparado con ghee. Es probable que ambos lo engendren.
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>hume
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>hume
 
 17\. Ahora bien, si alguien desea: «¡Que me nazca una hija sabia (_pandita_)! ¡Que alcance la plenitud de su vida!», ambos deberían comer arroz hervido con sésamo y preparado con ghee. Es probable que ambos la engendren.
 
@@ -386,7 +386,7 @@ Esta esposa junto con su señor ——' [^682]
 Juntos mezclemos el semen,
 ¡Un varón, un hijo para procurar!
 
-<span id="p172">[<sup><small>pág. 172</small></sup>]</span>hume
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>hume
 
 21\. Luego le separa los muslos, diciendo: «¡Sepárense, cielo y tierra!». Introduciendo el miembro en ella y uniendo boca con boca, la acaricia tres veces hasta que el cabello se extiende, diciendo:
 
@@ -425,7 +425,7 @@ Con barricada alrededor.
 
 24\. Cuando nace el hijo, el padre enciende un fuego, lo sienta en su regazo, mezcla ghee y leche coagulada en un recipiente de metal y hace una oblación, sirviendo con un cucharón el ghee y la leche coagulada mezclados, y diciendo:
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>hume
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>hume
 
 "Que en este hijo yo pueda crecer,
 ¡Y tengo mil en mi casa!
@@ -460,20 +460,20 @@ Dámelo aquí, oh Sarasvatî, para que lo chupes. [^689]'
 Sigue siendo una mujer llena de héroes.
 ¡La que nos hizo abundar en un héroe!
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>hume
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>hume
 
 De tal hijo, en verdad, dicen: «¡Ah, has superado a tu padre! ¡Ah, has superado a tu abuelo!»
 
 ¡Ah, alcanza el pináculo más alto del esplendor, la gloria y el conocimiento sagrado quien nace como hijo de un Brahman que sabe esto!
 
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>b
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>b
 
 ## QUINTO BRÂHMANA.
 
 1\. Ahora sigue la raíz [^692]:
 
-1\. Pautimâshîputra de Kâtyâyanîputra, <span id="p225">[<sup><small>pág. 225</small></sup>]</span> 2\. Kâtyâyanîputra de Gotamîputra,
+1\. Pautimâshîputra de Kâtyâyanîputra, <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 2\. Kâtyâyanîputra de Gotamîputra,
 3\. Gotamîputra de Bhâradvâ<i>g</i>îputra,
 4\. Bhâradvâ<i>g</i>îputra de Pârâ<i>s</i>arîputra,
 5\. Pârâ<i>s</i>arîputra de Aupasvatîputra,
@@ -707,7 +707,7 @@ Como provenientes de Âditya, el Sol, estos versos puros [^699] Ya<i>g</i>us han
 
 [^654]: 220:5 Este verso se cita y explica con frecuencia. Aparece en el Atharva-veda XIV, 71, como «amo 'ham asmi si tva<i>m</i>, sâmâham asmy <i>ri</i>k tvam, dyaur aham p<i>ri</i>thivî tvam; tâv iha sam bhavâva pra<i>g</i>âm â ganayâvahai».
 
-Aquí tenemos la oposición entre ama<i>h</i> y sâ, mientras que en el Ait. Brâhma<i>n</i>a VIII, 27, tenemos amo 'ham asmi sa tvam, dando ama<i>h</i> en oposición a sa. Parece probable que esta pág. 221 fuera una antigua fórmula proverbial, y que originalmente significara simplemente «Yo soy él, y tú eres ella». Pero este significado pronto se olvidó. En el <i>Kh</i>ând. Up. I, 6, 1, encontramos que sâ se explica como tierra, ama como fuego (Libros Sagrados de Oriente, vol. i, pág. 13). En el Ait. Brâhma<i>n</i>a, sâ se explica como <i>Ri</i><i>k</i>, ama como Sâman. Por eso en nuestro pasaje también he seguido la interpretación del comentario, en lugar de traducirlo así: “Yo soy él, y tú eres ella; tú eres ella, y yo soy él”.
+Aquí tenemos la oposición entre ama<i>h</i> y sâ, mientras que en el Ait. Brâhma<i>n</i>a VIII, 27, tenemos amo 'ham asmi sa tvam, dando ama<i>h</i> en oposición a sa. Parece probable que esta pág. 221 fuera una antigua fórmula proverbial, y que originalmente significara simplemente «Yo soy él, y tú eres ella». Pero este significado pronto se olvidó. En el <i>Kh</i>ând. Up. I, 6, 1, encontramos que sâ se explica como tierra, ama como fuego (Libros Sagrados de Oriente, vol. i, pág. 13). En el Ait. Brâhma<i>n</i>a, sâ se explica como <i>Ri</i><i>k</i>, ama como Sâman. Por eso en nuestro pasaje también he seguido la interpretación del comentario, en lugar de traducirlo así: «Yo soy él, y tú eres ella; tú eres ella, y yo soy él».
 
 [^655]: 221:1 Anulomam, mûrdhânam ârabhya pâdântam.
 

@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 8. Es ilícito concluir la comida del sacrificio pascual con un postre. Si alguno de los presentes se duerme durante la comida, podrá comer del sacrificio pascual después; pero cuando todos se hayan dormido, no podrán volver a comerlo [al despertar]. R. José dice: «Si solo están somnolientos, pueden comerlo, pero si se quedan profundamente dormidos, no podrán comerlo [después]».
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 § 9. La ofrenda pascual, después de la medianoche, contamina las manos. [^351] Los sacrificios rechazados \[‏פגול‎\], o que permanecen más tiempo del prescrito \[‏נותר‎\], también contaminan las manos. Quien haya pronunciado la bendición sobre la ofrenda pascual no está obligado a pronunciarla también sobre la ofrenda festiva, pero quien la haya pronunciado sobre la ofrenda festiva está obligado a pronunciarla también sobre la ofrenda pascual. Tal es el dictamen de R. Ismael; pero R. Akivah dice: «Ninguna de estas exime de la obligación de pronunciar la otra bendición».
 

@@ -496,7 +496,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 50\. Bhâradvâja preguntó: «¡Oh, Ojos de Loto! ¿Quién eres y de quién eres esposa? ¿Por qué te has tomado tantas molestias para venir aquí? Responde a todas estas preguntas con sinceridad».
 
-51\. “¡Oh, hermosa! ¿Eres una Devi o un ser humano? Tu hijo es muy pequeño. ¿Por qué has venido a este denso bosque? Parece como si te hubieran privado de tu reino.” <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 52\. Ante la pregunta del mejor de los Munis, la bella Manoramâ se sintió profundamente afligida y rompió a llorar; no podía decir nada y le ordenó a Vidalla que le informara al Muni de todo lo sucedido.
+51\. «¡Oh, hermosa! ¿Eres una Devi o un ser humano? Tu hijo es muy pequeño. ¿Por qué has venido a este denso bosque? Parece como si te hubieran privado de tu reino.» <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 52\. Ante la pregunta del mejor de los Munis, la bella Manoramâ se sintió profundamente afligida y rompió a llorar; no podía decir nada y le ordenó a Vidalla que le informara al Muni de todo lo sucedido.
 
 53-54. Vidalla dijo entonces: —Había un rey de Kosala llamado Dhruvasandhi. Ella es la esposa legal de ese rey. Su nombre es Manoramâ. Ese poderoso rey de la Dinastía Solar fue asesinado por un león en un bosque. Este niño, Sudars'ana, es su hijo.
 

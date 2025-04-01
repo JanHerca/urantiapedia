@@ -54,13 +54,13 @@ Reverendo Señor, probablemente haya presenciado cosas desagradables durante la 
 
 Entonces Muso habló de la figura tenue y aterradora que había entrado en la cámara mortuoria para devorar el cuerpo y las ofrendas. Nadie pareció sorprenderse con su narración; y el dueño de la casa observó:
 
-“Lo que nos ha dicho, reverendo señor, concuerda con lo que se ha dicho sobre este asunto desde la antigüedad”.
+«Lo que nos ha dicho, reverendo señor, concuerda con lo que se ha dicho sobre este asunto desde la antigüedad».
 
 Muso entonces preguntó:
 
-“¿Acaso el sacerdote en la colina no realiza a veces el servicio funeral por sus muertos?”
+«¿Acaso el sacerdote en la colina no realiza a veces el servicio funeral por sus muertos?»
 
-“¿Qué sacerdote?” preguntó el joven.
+«¿Qué sacerdote?» preguntó el joven.
 
 —El sacerdote que anoche me indicó cómo llegar a este pueblo —respondió Muso—. Visité su anjitsu en la colina de allá. Me negó alojamiento, pero me indicó el camino.
 
@@ -72,11 +72,11 @@ Muso no dijo nada más al respecto; pues era evidente que sus amables anfitrione
 
 —No tienes por qué avergonzarte por haberme negado refugio —dijo Muso—. Me indicaste el pueblo de allá, donde me trataron con mucha amabilidad; y te agradezco ese favor.
 
-«No puedo dar cobijo a nadie», respondió el recluso; y no es por la negativa que me avergüenzo. Solo me avergüenzo de que me hayas visto en mi verdadero cuerpo, pues fui yo quien devoró el cadáver y las ofrendas anoche ante tus ojos... Sepa, reverendo señor, que soy un jikininki, <a id="note_1"></a> [1](Notes#note_3_1) —un devorador de carne humana. Ten piedad de mí y permíteme confesar la falta secreta que me redujo a esta condición.
+«No puedo dar cobijo a nadie», respondió el recluso; y no es por la negativa que me avergüenzo. Solo me avergüenzo de que me hayas visto en mi verdadero cuerpo, pues fui yo quien devoró el cadáver y las ofrendas anoche ante tus ojos... Sepa, reverendo señor, que soy un jikininki, <a id="note_1"></a> [1](../Notes#note_3_1) —un devorador de carne humana. Ten piedad de mí y permíteme confesar la falta secreta que me redujo a esta condición.
 
-Hace mucho, mucho tiempo, fui sacerdote en esta desolada región. No había otro sacerdote en muchas leguas a la redonda. Así que, en aquella época, los cuerpos de los montañeses que morían solían ser traídos aquí, a veces desde grandes distancias, para que pudiera repetir sobre ellos el servicio sagrado. Pero repetía el servicio y realizaba los ritos solo por negocios; pensaba solo en la comida y la ropa que mi sagrada profesión me permitía obtener. Y debido a esta impiedad egoísta, renací, inmediatamente después de mi muerte, en el estado de jikininki. Desde entonces me he visto obligado a alimentarme de los cadáveres de las personas que mueren en este distrito: debo devorar a cada uno de ellos de la manera que vio anoche... Ahora, reverendo señor, permítame suplicarle que realice un servicio Segaki <a id="note_2"></a> [2](Notes#note_3_2) por mí: ayúdeme con sus oraciones, se lo suplico, para que yo Quizás pronto podamos escapar de este horrible estado de existencia”...
+Hace mucho, mucho tiempo, fui sacerdote en esta desolada región. No había otro sacerdote en muchas leguas a la redonda. Así que, en aquella época, los cuerpos de los montañeses que morían solían ser traídos aquí, a veces desde grandes distancias, para que pudiera repetir sobre ellos el servicio sagrado. Pero repetía el servicio y realizaba los ritos solo por negocios; pensaba solo en la comida y la ropa que mi sagrada profesión me permitía obtener. Y debido a esta impiedad egoísta, renací, inmediatamente después de mi muerte, en el estado de jikininki. Desde entonces me he visto obligado a alimentarme de los cadáveres de las personas que mueren en este distrito: debo devorar a cada uno de ellos de la manera que vio anoche... Ahora, reverendo señor, permítame suplicarle que realice un servicio Segaki <a id="note_2"></a> [2](../Notes#note_3_2) por mí: ayúdeme con sus oraciones, se lo suplico, para que yo Quizás pronto podamos escapar de este horrible estado de existencia”...
 
-Apenas el ermitaño pronunció esta petición, desapareció; y la ermita también desapareció en ese mismo instante. Y Muso Kokushi se encontró arrodillado, solo, entre la hierba alta, junto a una antigua tumba cubierta de musgo llamada go-rin-ishi, <a id="note_3"></a> [3](Notes#note_3_3) que parecía ser la tumba de un sacerdote.
+Apenas el ermitaño pronunció esta petición, desapareció; y la ermita también desapareció en ese mismo instante. Y Muso Kokushi se encontró arrodillado, solo, entre la hierba alta, junto a una antigua tumba cubierta de musgo llamada go-rin-ishi, <a id="note_3"></a> [3](../Notes#note_3_3) que parecía ser la tumba de un sacerdote.
 
 <figure class="table chapter-navigator">
   <table>

@@ -45,7 +45,7 @@ Falso el cuerpo, falso el vestido, falsa la belleza incomparable;
 Falsos maridos, falsas esposas; se consumen y se convierten en polvo.[^1]
 El hombre falso ama lo falso y olvida al Creador.
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 ¿Con quién se contrae amistad? El mundo entero pasa.
 Falsa es la dulzura, falsa la miel, en la falsedad se ahogan barcos llenos.
@@ -61,7 +61,7 @@ Un funcionario millonario que vivía en un pueblo vecino comenzó a menospreciar
 
 Un día, un brahmán fanático se acercó al Gurú y le pidió limosna. El Gurú, que estaba desayunando, lo invitó a acompañarlo. El brahmán respondió que no comería de esa manera. Solo comería lo que él mismo hubiera cocinado. Primero, excavaría la tierra hasta un codo de profundidad para eliminar toda impureza de la superficie, y también haría un espacio para cocinar en el que solo él pudiera entrar. Luego, cavaría un palmo más profundo y haría una chimenea donde pondría leña lavada para que ningún insecto se quemara. El Gurú no había atendido a estas formalidades, y el brahmán rechazó la comida cocinada de otra manera. El Gurú le dijo que le daría viandas crudas para que él mismo cocinara. Entonces salió y comenzó a excavar la tierra, pero dondequiera que cavaba, solo sacaba huesos, lo cual consideraba una abominación aún mayor que la comida del Gurú. Siguió cavando todo el día, pero con el mismo resultado. Finalmente, abrumado por el hambre, fue y se arrojó a los pies de Nanak, y le pidió la comida cocinada que había rechazado previamente. El Gurú, complacido en complacerlo, compuso lo siguiente:
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Hornillos de oro, vasijas de oro,
 Líneas de plata extendidas a lo lejos,
@@ -101,7 +101,7 @@ Incluso los perversos que obtienen el conocimiento divino bajo la instrucción d
 Haz súplica al verdadero Gurú para que te una con el Amigo.
 Cuando el hombre encuentra al Amigo obtiene la felicidad, y los mirmidones de la muerte se envenenan.
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Yo permanezco en el Nombre, y el Nombre permanece en mi corazón.
 Sin el Gurú todo es oscuridad; sin la Palabra nada se puede saber.
@@ -118,7 +118,7 @@ El niño al que se dirigió el himno mencionado fue posteriormente conocido como
 
 Kalu, con toda su gente, se dirigió al lugar donde su hijo, el Gurú, había fijado su residencia. Entonces comenzaron a formarse las sociedades sijs. El Gurú se quitó su extraordinario atuendo y se vistió de forma más convencional. Con un paño alrededor de la cintura, una sábana sobre los hombros y un turbante en la cabeza, parecía la personificación de la santidad. El hilo de su fama se elevaba al cielo, se decía, como el de una cometa. Todos le decían: «¡Salve, Nanak! Un gran santo ha nacido en el mundo».
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 En Kartarpur, una vigilia antes del amanecer, se repitieron el Japji y el Asa ki War. A continuación, se leyeron y explicaron los himnos del Gurú, hasta una vigilia y cuarto después del amanecer. A esto le siguieron los cantos y la lectura del Arati (Gagan mai thal). Después, se sirvió el desayuno. A la tercera vigilia se cantó de nuevo, tras lo cual, por la noche, se leyó el Sodar. Después, todos los sijs cenaron juntos. La comida concluyó con más cantos. Transcurrida una vigilia nocturna, se leyó el Sohila y todos se retiraron.
 
@@ -128,7 +128,7 @@ El Gurú se expresó así sobre los ejercicios devocionales de los sijs: «Aleja
 
 El Gurú respondió a un hombre llamado Kalu que le había pedido una definición de un hombre santo: 'Reconoce como santo a aquel en quien se encuentran amistad, simpatía, placer en el bienestar ajeno y aversión a las malas compañías. En primer lugar, las intenciones de los hombres santos son puras. En segundo lugar, se complacen <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> al escuchar las alabanzas de los demás. En tercer lugar, los hombres santos sirven a los virtuosos. En cuarto lugar, honran a quienes pueden impartirles conocimiento y buen consejo. En quinto lugar, así como hay un anhelo periódico por la comida o los intoxicantes, también sienten un anhelo por la palabra del Gurú y por el conocimiento divino. En sexto lugar, aman a sus esposas y renuncian a otras mujeres. En séptimo lugar, evitan los temas de los que pueden surgir disputas. En octavo lugar, sirven a quienes son superiores a ellos en inteligencia o devoción. En noveno lugar, aunque fuertes, no son arrogantes ni pisotean a los demás. En décimo lugar, abandonan la compañía de los malvados y solo se relacionan con los santos.
 
-Español Dos sikhs, llamados Bhagta y Ohri, preguntaron al Gurú Nanak cómo se podía obtener descanso y evitar la transmigración. El Gurú respondió lo siguiente: “Encontrarás descanso evitando _manmukh karm_ (actos perversos)”. Al serle pedido que definiera el manmukh karm más particularmente, el Gurú respondió: “Es tener una envidia sincera de todos, desear que la riqueza mundana y toda la felicidad abandonen a los demás y vengan a uno mismo, sufrir un gran dolor al contemplar las casas y propiedades de otros, creer a todos los hombres como enemigos y no hacer el bien a nadie. Expulsa todo este mal de tus corazones. En segundo lugar, el hombre perverso es orgulloso e implacable con todos. Cuando ve a tal o cual persona inferior a él, nunca le aconseja; es más, se ríe de él y lo trata con desprecio, diciendo: “El suyo no es igual a mi elevado intelecto”. En tercer lugar, el hombre perverso es adicto a la calumnia; Pero renuncia a él y nunca lo pronuncies. Si alguien alaba a otro que es superior a él, no puede soportarlo, es más, se enfurece, diciendo: "¡Oh! Lo conozco bien". De esta manera, profiere calumnias. ¿Cómo puede alguien que se enorgullece de sus esfuerzos y envidia a los demás poseer alguna vez la excelencia? En cuarto lugar, si el hombre perverso recibe consejo, no lo seguirá por obstinación; es más, hará perversamente lo contrario. Estos vicios —la envidia, el orgullo, la calumnia y la obstinación— pertenecen a los perversos. Abandónalos, actuando como hacen los árboles cuando pierden sus hojas en otoño.
+Español Dos sikhs, llamados Bhagta y Ohri, preguntaron al Gurú Nanak cómo se podía obtener descanso y evitar la transmigración. El Gurú respondió lo siguiente: «Encontrarás descanso evitando _manmukh karm_ (actos perversos)». Al serle pedido que definiera el manmukh karm más particularmente, el Gurú respondió: «Es tener una envidia sincera de todos, desear que la riqueza mundana y toda la felicidad abandonen a los demás y vengan a uno mismo, sufrir un gran dolor al contemplar las casas y propiedades de otros, creer a todos los hombres como enemigos y no hacer el bien a nadie. Expulsa todo este mal de tus corazones. En segundo lugar, el hombre perverso es orgulloso e implacable con todos. Cuando ve a tal o cual persona inferior a él, nunca le aconseja; es más, se ríe de él y lo trata con desprecio, diciendo: “El suyo no es igual a mi elevado intelecto». En tercer lugar, el hombre perverso es adicto a la calumnia; Pero renuncia a él y nunca lo pronuncies. Si alguien alaba a otro que es superior a él, no puede soportarlo, es más, se enfurece, diciendo: "¡Oh! Lo conozco bien". De esta manera, profiere calumnias. ¿Cómo puede alguien que se enorgullece de sus esfuerzos y envidia a los demás poseer alguna vez la excelencia? En cuarto lugar, si el hombre perverso recibe consejo, no lo seguirá por obstinación; es más, hará perversamente lo contrario. Estos vicios —la envidia, el orgullo, la calumnia y la obstinación— pertenecen a los perversos. Abandónalos, actuando como hacen los árboles cuando pierden sus hojas en otoño.
 
 Se le preguntó al Gurú por qué las palabras Sat Nam (el Nombre Verdadero) siempre se escribían como introducción a sus himnos. Respondió: «El Nombre es el Dios de todos los dioses. Algunos propician a Durga,[^1] otros a Shiva, otros a Ganesh,[^2] y otros dioses; pero los sijs del Gurú adoran el Nombre Verdadero y así eliminan todos los obstáculos para la salvación. Por consiguiente, las palabras introductorias, el Nombre Verdadero, se escriben en todas las composiciones».
 
@@ -142,11 +142,11 @@ Soy miserable sin mi Amado; aún no tengo amigos. De la instrucción del Gurú b
 El Sin Forma continúa Su creación;[^4] para obedecer a Dios
 es el mejor de los actos humanos.
 
-<span id="p139">[<sup><small>pág. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 Nanak, la mujer te está esperando; escúchame, oh Espíritu Omnipresente.
 
-El chatrik[^1] grita “¡Prio!” y el kokil[^2] también canta sus melodías.
+El chatrik[^1] grita «¡Prio!» y el kokil[^2] también canta sus melodías.
 La mujer que es abrazada por su esposo goza de toda la felicidad.
 Aquella a quien Dios en su placer ha abrazado es una mujer feliz.
 Dios estableció las nueve mansiones _del cuerpo_; _la décima_, que es superior a todas, es Su hogar.
@@ -164,7 +164,7 @@ Llueve un torrente de néctar, cuyas gotas son deliciosas,
 Cuando el amigo, el Gurú bondadoso, se encuentra con uno, y se establece el amor con Dios.
 Dios entra en el templo del cuerpo cuando le place, y la mujer se levanta y repite sus alabanzas.
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 En cada casa el esposo goza de su feliz esposa; ¿por qué mi Esposo se ha olvidado de mí?
 Nubes bajas han cubierto los cielos; llueve agradablemente y el amor reconforta mi alma y mi cuerpo.
@@ -181,13 +181,13 @@ El mes de Baisakh es agradable, los árboles están en flor;
 La mujer esperaba a Dios a su puerta, y decía: «Ven, ten compasión de mí.
 'Ven a casa, Amado mío, hazme cruzar el difícil océano; sin Ti no valgo nada.
 ¿Quién puede apreciar tu valor, mi querida? Si te place, te miraré y te mostraré a los demás.
-“Sé que no estás distante; reconozco que estás en mi corazón y reconozco tu mansión”.
+«Sé que no estás distante; reconozco que estás en mi corazón y reconozco tu mansión».
 Nanak, en Baisakh Dios es encontrado por aquel que medita en la Palabra y cuya mente es así de feliz.
 
 El mes de Jet es agradable; ¿por qué ha de ser olvidado el Amado?
 La tierra arde como un horno; la mujer suplica.
 
-<span id="p141">[<sup><small>pág. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 La mujer está suplicando y alabando sus cualidades.
 'Agradaré al Señor si pronuncio sus alabanzas.
@@ -208,7 +208,7 @@ En Sawan sé feliz, oh alma mía; es la estación de las nubes y la lluvia.
 'Estoy solo en mi lecho y muy afligido; oh madre, mi dolor es tan terrible como la muerte.
 Dime, ¿cómo puedo dormir y tener apetito sin Dios? La ropa no me reconforta.
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Nanak, ella es la esposa feliz que es abrazada por su amado esposo.
 
@@ -232,7 +232,7 @@ El amor es el aceite de la lámpara; la mujer y su amado se han encontrado;[^3] 
 Aquella a quien el pecado mata no será aceptable en su muerte, mientras que aquella a quien la virtud mata, morirá realmente.[^4]
 Dios ha dado Su nombre y servicio a quienes habitan en sus propios hogares; siempre su oración es—
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 Ven a nuestro encuentro, oh Dios, y abre las puertas de nuestro entendimiento; de lo contrario, una hora será como seis meses.
 
@@ -254,7 +254,7 @@ En Magh la mujer se vuelve pura cuando conoce el lugar de Peregrinación[^2] den
 He conocido fácilmente al Amigo y, al adoptar Sus atributos, me he fusionado con Él.
 Escúchame, oh Dios amado y hermoso, he hecho de tus atributos mis adornos; si te place, me bañaré en tu estanque.
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 El Ganges, el Jamna, la confluencia de los tres ríos en Tribeni Priyag,[^1] los siete océanos,
 La limosna, la caridad y la adoración están contenidas en el nombre de Dios. Lo reconozco como el único Dios en todos los tiempos.
@@ -269,7 +269,7 @@ Nanak, mi Gurú me ha fusionado con Dios y lo he obtenido como mi Esposo.
 Los doce meses, las estaciones, los días lunares y los días de la semana,
 Los gharis, los mahurats,[^4] los momentos, son todos placenteros cuando el Verdadero viene y me encuentra por Su propia voluntad.
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Cuando se obtiene al querido Señor, todo está arreglado, el Creador lo sabe todo.
 Soy querido por Aquel que me adornó, lo he conocido y soy feliz.

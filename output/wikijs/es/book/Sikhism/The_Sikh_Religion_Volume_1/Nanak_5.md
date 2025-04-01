@@ -50,7 +50,7 @@ Gurú Nanak, en respuesta, compuso el siguiente himno:
 Oh mi Amado, no conozco Tu límite.
 Tú llenas el mar y la tierra, las regiones inferiores y superiores. Eres Tú mismo quien estás contenido en todo.
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Mi corazón es la balanza, mi entendimiento el peso, tu servicio es el pesador que empleo.
 Peso al Señor en mi corazón, y en ello fijo mi atención.
@@ -74,7 +74,7 @@ Permanece puro en medio de las impurezas del mundo; así encontrarás el camino 
 Al encontrar un verdadero gurú, la duda se disipa y los vagabundeos de la mente se controlan.
 Llueve néctar, se oye una música lenta y extática, y el hombre es feliz dentro de sí mismo.
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Permanece puro en medio de las impurezas del mundo; así encontrarás el camino de la religión.
 
@@ -91,7 +91,7 @@ Oh Brahman, tú adoras y propicias el salagram, y consideras que es un buen acto
 ¿Por qué aplicar yeso a una pared frágil y tambaleante?
 Repitiendo el nombre de Dios, formad una balsa _para tu salvación_; ¡que el Misericordioso tenga misericordia de vosotros!
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Chatur Das respondió: «Oh, santo, el salagram y el collar de albahaca dulce pueden ser inútiles para regar una tierra estéril, pero dime cómo preparar el terreno y encontrar a Dios». El Gurú respondió:
 
@@ -113,7 +113,7 @@ El pandit admitió entonces que el Gurú era un santo de Dios y le pidió que be
 La ciudad[^2] es frágil, el rey; es un muchacho y ama a los malvados;
 Se dice que tiene dos madres[^4] y dos padres[^5] Oh Pandit, piensa en esto.
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Oh, señor Pandit, instrúyeme.
 Cómo puedo obtener al Señor de la vida.
@@ -173,12 +173,12 @@ II
 
 En la segunda vigilia de la noche, oh amigo comerciante, se olvida de meditar en Dios.
 Se mece en los brazos, oh amigo comerciante, como Krishan en la casa de Yasodha.
-El niño es mecido en brazos y su madre dice: “Éste es mi hijo”.
+El niño es mecido en brazos y su madre dice: «Éste es mi hijo».
 Piensa en esto, oh hombre irreflexivo y estúpido,[^1] al final nada será tuyo.
 No conoces a quien te creó; medita en Él en tu corazón.
-Dijo Nanak: “El niño se olvidó de meditar en la segunda vigilia”.
+Dijo Nanak: «El niño se olvidó de meditar en la segunda vigilia».
 
-<span id="p67">[<sup><small>pág. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 III.
 
@@ -225,7 +225,7 @@ El pecado es el carbón que se añade a la mente y con el cual se calienta la an
 La mente se ha convertido en escoria, pero volverá a convertirse en oro cuando se encuentre con un Gurú.
 Como otorgará el nombre ambrosial del único Dios; entonces, Nanak, la mente se fijará.[^3]
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 El Gurú aprovechó entonces la oportunidad para disertar sobre el peculiar vicio del comerciante inmoral: «El hombre es voluble cuando contempla a una cortesana; entonces siente un deseo especial por el juego amoroso, y de ninguna manera puede ser reprimido. Al encontrarla, pierde su humanidad. Desprovisto de su religión, cae en el infierno, donde sufre castigo y se lamenta profusamente. Por tanto, no la mires, sino pasa tu tiempo entre los santos».
 
@@ -237,7 +237,7 @@ Los placeres y la autocomplacencia son mis actos, oh Creador.
 Amigos míos, ¿acaso alguien obtiene honor con sólo palabras?
 Llamadlos mejores a quienes son los mejores en la puerta del Señor; los que hacen actos viles se sientan y lloran.
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Hay placer en el oro, placer en la plata y en las mujeres, placer en el perfume del sándalo;
 Hay placer en los caballos, placer en los sofás y en los palacios, placer en los dulces y placer en las carnes.
@@ -260,7 +260,7 @@ Oh Nanak, reconoce el verdadero camino.
 
 Entonces el Gurú partió de allí.
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

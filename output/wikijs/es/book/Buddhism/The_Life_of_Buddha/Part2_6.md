@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 
 El Bendito llevaba un buen rato caminando. Estaba cansado. Al llegar a un pequeño bosque, entró y se sentó al pie de un árbol. Estaba a punto de quedarse dormido cuando un grupo de treinta jóvenes entró en el bosque. Los observó.
@@ -43,17 +43,17 @@ Por sus palabras y comportamiento, era evidente que buscaban a alguien. Finalmen
 
 Somos músicos. Vagamos de ciudad en ciudad. A menudo hemos tocado ante reyes, pues nuestra habilidad es muy admirada. Hoy trajimos a una joven para nuestro placer, pero mientras dormíamos, allá a la orilla del camino, robó todo lo que pudo llevarse y huyó. Es a ella a quien buscamos.
 
-“¿Qué es mejor”, preguntó el Buda: “¿que vayan en busca de esta mujer o que vayan en busca de ustedes mismos?”
+«¿Qué es mejor», preguntó el Buda: «¿que vayan en busca de esta mujer o que vayan en busca de ustedes mismos?»
 
 Los músicos se rieron del Maestro.
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 «Toca tu laúd», le dijo luego al que se reía más fuerte.
 
 El músico tocaba. Era hábil; era fácil creer que los reyes se deleitaban con su forma de tocar. Al terminar, el Maestro dijo:
 
-“Dame tu laúd.”
+«Dame tu laúd.»
 
 Y tocó. Los músicos lo escucharon con asombro. Nunca imaginaron que un laúd pudiera tocar notas tan dulces. Incluso el viento calló, y las diosas del bosque abandonaron sus verdes refugios para escucharlo mejor.
 
@@ -79,11 +79,11 @@ En Uruvilva, el Bendito encontró a los tres hermanos Kasyapa. Estos virtuosos b
 
 Los Kasyapas le pidieron al Buda que se quedara con ellos unos días. Él consintió. Sorprendió a sus anfitriones realizando innumerables prodigios, y al poco tiempo todos decidieron aceptar la ley. Solo el mayor de los Kasyapas se negó a seguir al Buda. Pensó:
 
-“Es cierto que este monje es muy poderoso; realiza grandes prodigios, pero no es mi igual en santidad.”
+«Es cierto que este monje es muy poderoso; realiza grandes prodigios, pero no es mi igual en santidad.»
 
 El Bendito leyó los pensamientos de Kasyapa. Le dijo:
 
-“Crees que eres un hombre muy santo, Kasyapa, y ni siquiera estás en el camino que conduce a la santidad”.
+«Crees que eres un hombre muy santo, Kasyapa, y ni siquiera estás en el camino que conduce a la santidad».
 
 Kasyapa se asombró de que el Buda hubiera adivinado sus pensamientos secretos. El Bendito añadió:
 

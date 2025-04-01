@@ -29,7 +29,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p285">[<sup><small>pág. 285</small></sup>]</span> pág. 286 pág. 287
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span> pág. 286 pág. 287
 
 Maitrâya<i>n</i>a-Brâhma<i>n</i>a-Upanishad
 
@@ -64,11 +64,11 @@ Entonces el Santo le dijo:
 
 3\. 'Ahora bien, esta es la ciencia de Brahman, y la ciencia de todos los Upanishads, oh Rey, que nos fue enseñada por la Santa Maitri [^950]. Te la diré:
 
-Oímos (en los registros sagrados) que una vez existieron los Vâlakhilyas [^951], quienes habían abandonado todo mal, eran vigorosos y desapasionados. Dijeron al Pra<i>g</i>âpati Kratu: “Oh, Santo, este cuerpo carece de inteligencia, como una carreta. ¿A qué ser sobrenatural pertenece este gran poder que ha hecho inteligente a tal cuerpo? ¿O quién es el conductor? Lo que tú sabes, oh, Santo, dinoslo [^952]”. Pra<i>g</i>âpati respondió y dijo:
+Oímos (en los registros sagrados) que una vez existieron los Vâlakhilyas [^951], quienes habían abandonado todo mal, eran vigorosos y desapasionados. Dijeron al Pra<i>g</i>âpati Kratu: «Oh, Santo, este cuerpo carece de inteligencia, como una carreta. ¿A qué ser sobrenatural pertenece este gran poder que ha hecho inteligente a tal cuerpo? ¿O quién es el conductor? Lo que tú sabes, oh, Santo, dinoslo [^952]». Pra<i>g</i>âpati respondió y dijo:
 
-4\. 'Aquel a quien en el Sruti se le llama “Estar en lo alto”, como los ascetas sin pasión [^953] entre los objetos del mundo, él, en verdad, el puro, limpio, subdesarrollado, tranquilo, sin aliento, sin cuerpo [^954], infinito, imperecedero, firme, eterno, no nacido, independiente, se yergue en su propia grandeza, y por él este cuerpo se ha vuelto inteligente, y él también es el conductor.'
+4\. 'Aquel a quien en el Sruti se le llama «Estar en lo alto», como los ascetas sin pasión [^953] entre los objetos del mundo, él, en verdad, el puro, limpio, subdesarrollado, tranquilo, sin aliento, sin cuerpo [^954], infinito, imperecedero, firme, eterno, no nacido, independiente, se yergue en su propia grandeza, y por él este cuerpo se ha vuelto inteligente, y él también es el conductor.'
 
-<span id="p292">[<sup><small>pág. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 Dijeron: «Oh, Santo, ¿cómo ha sido esto dotado de inteligencia por un ser como este, sin deseos [^955], y cómo es él quien lo guía?». Él les respondió y dijo:
 
@@ -97,9 +97,9 @@ Le preguntaron: «¿Cuál es?». Y él les respondió:
 
 5\. Y se ha dicho en otra parte: El desconcierto, el miedo, la pena, el sueño, la pereza, el descuido, la decadencia, la tristeza, el hambre, la sed, la tacañería, la ira, la infidelidad, la ignorancia, la envidia, la crueldad [^998], la necedad, la desvergüenza, la mezquindad [^999], el orgullo, la variabilidad [^1000], estos son los resultados de la cualidad de la oscuridad (tama<i>h</i>) [^1001].
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
-La sed interior, el cariño, la pasión, la codicia, la crueldad, el amor, el odio, el engaño [1](Maitrayana#fn1002), los celos, la vana inquietud, la inconstancia [2](Maitrayana#fn1003), la inestabilidad, la emulación, la codicia, el patrocinio de los amigos, el orgullo familiar, la aversión a los objetos desagradables, la devoción a los objetos agradables, los susurros [3](Maitrayana#fn1004), la prodigalidad, estos son los resultados de la cualidad de la pasión (ra<i>g</i>as).
+La sed interior, el cariño, la pasión, la codicia, la crueldad, el amor, el odio, el engaño [1](../Maitrayana#fn1002), los celos, la vana inquietud, la inconstancia [2](../Maitrayana#fn1003), la inestabilidad, la emulación, la codicia, el patrocinio de los amigos, el orgullo familiar, la aversión a los objetos desagradables, la devoción a los objetos agradables, los susurros [3](../Maitrayana#fn1004), la prodigalidad, estos son los resultados de la cualidad de la pasión (ra<i>g</i>as).
 
 Por éstos se llena, por éstos se vence, y por lo tanto, este Ser elemental asume múltiples formas, sí, múltiples formas.'
 
@@ -121,7 +121,7 @@ Por la penitencia ascética se obtiene la bondad, de la bondad se llega al enten
 6\. «Estas son solo las principales manifestaciones del Brahman supremo, inmortal e incorpóreo. Quien se dedica a uno, se regocija aquí en su mundo (presencia), así dijo. Brahman, en verdad, es todo esto, y un hombre puede meditar en, adorar o incluso rechazar aquellas que [^1022] son ​​sus principales manifestaciones. Con estas (deidades) asciende a mundos cada vez más elevados, y cuando todo perezca, se une con el Purusha, sí, con el Purusha».
 
 
-<span id="p303">[<sup><small>pág. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 ## QUINTO PRAP TAMBIÉN CONOCIDO COMO [^1023].
 
@@ -137,12 +137,12 @@ Señor del Universo, ¡gloria a ti! Tú eres el Ser de Todo, tú eres el creador
 
 2\. 'En el principio [^1027] solo la oscuridad (tamas) era esto. Estaba en lo Alto, y, movida por lo Alto, se vuelve desigual. Así se convierte en oscuridad.
 
-<span id="p304">[<sup><small>pág. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 (ra<i>g</i>as) [^1028]. Entonces, esta oscuridad, al ser movida, se vuelve desigual. Así, se convierte en bondad (sattva). Entonces, esta bondad, al ser movida, la esencia fluyó [^1029]. Esta es esa parte (o estado del Ser) que es completamente inteligente, reflejada en el hombre (como el sol en diferentes recipientes de agua), que conoce el cuerpo (kshetra<i>g</i>_ñ_a), atestiguado por su concepción, voluntad y creencia, es Pra<i>g</i>âpati, llamado Vi<i>s</i>va. Sus manifestaciones han sido declaradas antes [^1030]. Ahora bien, esa parte de él que pertenece a la oscuridad, esa, oh estudiantes [^1031], es a quien se llama Rudra. Esa parte de él que pertenece a la oscuridad, esa, oh estudiantes, es a quien se llama Brahmâ. Esa parte de él que pertenece a la bondad, oh estudiantes, es aquel a quien se llama Vishnu. Siendo uno, se convierte en tres, se convierte en ocho [^1032], se convierte en once [^1033], se convierte en doce, se convierte en infinito. Porque [^1034] así llegó a ser, él es el Ser (neut.), se mueve, habiendo entrado en todos los seres, se ha convertido en el Señor de todos los seres. Él es el Ser interior y exterior, sí, interior y exterior.
 
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 ## SEXTO PRAP<i>TH</i>TAMBIÉN CONOCIDO COMO [^1035].
 
@@ -162,7 +162,7 @@ Estos dos, el Aliento y el Sol, se mueven cerca uno del otro (en el corazón y e
 
 3\. Hay dos formas de Brahman [^1043]: la material (efecto) y la inmaterial (causa). La material es falsa, la inmaterial es verdadera. Lo verdadero es Brahman, lo que es Brahman es luz, y lo que es luz es el Sol [^1044]. Y este Sol se convirtió en el Ser de ese Om.
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Se dividió en tres partes, pues Om consta de tres letras: a + u + m. A través de ellas, todo esto [^1045] está contenido en él como urdimbre y trama. Pues así se dice:
 
@@ -176,13 +176,13 @@ El Brahman de tres pies tiene su raíz hacia arriba [^1050], sus ramas son éter
 
 Solo Él nos ilumina. Porque así se dice:
 
-<span id="p308">[<sup><small>pág. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 'Ésta sola es la sílaba pura, ésta sola es la sílaba más alta; quien conoce sólo esa sílaba, todo lo que desee, es suyo [^1052].'
 
 5\. Y así se ha dicho en otra parte: Este Om [^1053] es su cuerpo dotado de sonido (Prâ<i>n</i>âdityâtman). Este es su cuerpo dotado de género, a saber, femenino, masculino, neutro. Este es su cuerpo dotado de luz, a saber, Agni, Vâyu, Âditya. Este es su cuerpo dotado de señor, a saber, Brahmâ, Rudra, Vish<i>n</i>u. Este es su cuerpo dotado de boca, a saber, Gârhapatya, Dakshi<i>n</i>âgni, Âhavanîya [^1054]. Este es su cuerpo dotado de conocimiento, a saber, <i>Ri</i><i>k</i>, Ya<i>g</i>us, Sâman. Este es su cuerpo dotado de mundo, a saber, Bhû<i>h</i>, Bhuva<i>h</i>, Svar. Este es su cuerpo dotado por el tiempo, a saber: Pasado, Presente, Futuro. Este es su cuerpo dotado por el calor, a saber: Aliento, Fuego, Sol. Este es su cuerpo dotado por el crecimiento, a saber: Alimento, Agua, Luna. Este es su cuerpo dotado por el pensamiento, a saber: intelecto, mente, personalidad. Este es su cuerpo dotado por el aliento, a saber: Prâ<i>n</i>a, Apâna, Vyâna. Por lo tanto, mediante la sílaba Om mencionada, todos estos cuerpos aquí enumerados son alabados e identificados (con el Prâ<i>n</i>âdityâtman). Pues así se dice [^1055]:
 
-“Oh Satyakâma, la sílaba Om es el Brahman superior e inferior”.
+«Oh Satyakâma, la sílaba Om es el Brahman superior e inferior».
 
 6\. Este [^1056] (mundo) no se pronunció [^1057]. Entonces, en verdad, Pra<i>g</i>âpati, tras meditar, lo pronunció con las palabras Bhû<i>h</i>, Bhuva<i>h</i>, Svar. Este es el cuerpo más denso de ese Pra<i>g</i>âpati, compuesto por los tres mundos [^1058]. De ese cuerpo, Svar es la cabeza, Bhuva<i>h</i> el ombligo, Bhû<i>h</i> <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> los pies, el sol el ojo. Pues en el ojo se fija la gran medida del hombre, pues con el ojo realiza todas las mediciones. El ojo es la verdad (satyam), pues la persona (purusha) que reside en el ojo se dirige a todas las cosas (conoce todos los objetos con certeza). Por lo tanto, que el hombre adore con los Vyâh<i>ri</i>tis, Bhû<i>h</i>, Bhuva<i>h</i>, Svar, pues así Pra<i>g</i>âpati, el Ser de Todo, es adorado como el (sol, el) Ojo de Todo [^1059]. Pues así se dice:
 
@@ -192,7 +192,7 @@ Solo Él nos ilumina. Porque así se dice:
 
 (Luego sigue el siguiente paso en Savitri): Bhargo devasya dhîmahi, es decir, 'el esplendor del dios en el que meditamos'. Aquí el dios es Savitri, y por lo tanto, medito en aquel a quien se llama su esplendor, así dicen los maestros Brahma.
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 (Luego sigue el último paso): Dhiyo yo na<i>h</i> pra<i>k</i>odayât, es decir, 'quien debería despertar nuestros pensamientos'. Aquí, el dhiya<i>h</i> son los pensamientos, y él debería despertarlos para nosotros, así dicen los maestros Brahma.
 
@@ -204,7 +204,7 @@ Y se dice:
 
 Ciertamente el Ser (absorbido en Prana, aliento), llamado Inmortal [^1066], es el pensador, el perceptor, el que va, el que evacua [^1067], el que deleita, el hacedor, el que habla, el que saborea, el que huele, el que ve, el que oye, y el que toca. Él es Vibhu (el que penetra), quien ha entrado en el cuerpo. Y se dice:
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 'Cuando el conocimiento es doble (subjetivo y objetivo), entonces oye, ve, huele, saborea y toca (algo), porque es el Ser quien lo sabe todo.'
 
@@ -250,7 +250,7 @@ Así como Agni (el fuego) es el que come entre los dioses, y Soma el alimento, q
 
 16\. Este tiempo manifiesto es el gran océano de las criaturas. Aquel a quien se llama Savitri (el sol, como engendrador) mora en él, de donde provienen la luna, las estrellas, los planetas, el año y todo lo demás. De ellos proviene todo esto, y así, todo lo bueno o malo que se ve en este mundo, proviene de ellos. Por lo tanto, Brahman es el Ser del sol, y el hombre debe adorar al sol bajo el nombre de tiempo. Algunos dicen que el sol es Brahman, y así se dice:
 
-<span id="p318">[<sup><small>pág. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 'El sacrificador, la deidad que disfruta del sacrificio, la oblación, el himno, el sacrificio, Vish<i>n</i>u, Pra<i>g</i>âpati, todo esto es el Señor, el testigo, que brilla en ese orbe.'
 
@@ -262,7 +262,7 @@ Quien conoce esto se vuelve uno con el Uno.
 
 18\. Esta es la regla para lograrlo (a saber, la concentración de la mente en el objeto de meditación): control de la respiración, control de los sentidos, meditación, atención fija, investigación, absorción; estos se llaman el Yoga séxtuple [^1089]. Al contemplar mediante <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> este Yoga, se contempla al Creador dorado, al Señor, a la Persona, Brahman, la Causa. Entonces, el sabio, dejando atrás el bien y el mal, une todo (aliento, órganos de los sentidos, cuerpo, etc.) en el Supremo Indestructible (en el pratyagâtman o Brahman). Y así se dice:
 
-“Así como los pájaros y los ciervos no se acercan a una montaña en llamas, así también los pecados nunca se acercan a quienes conocen a Brahman”.
+«Así como los pájaros y los ciervos no se acercan a una montaña en llamas, así también los pecados nunca se acercan a quienes conocen a Brahman».
 
 19\. Y así se dice en otra parte: Cuando quien conoce, mientras aún es Prâ<i>n</i>a (aliento), ha refrenado su mente y ha alejado de sí todos los objetos de los sentidos, entonces que permanezca sin concepciones. Y puesto que la persona viviente, llamada Prâ<i>n</i>a (aliento), ha sido creada aquí en la tierra a partir de aquello que no es Prâ<i>n</i>a (el Ser pensante), que este Prâ<i>n</i>a se fusione con el Prâ<i>n</i>a (él mismo) en lo que se llama el cuarto [^1090]. Y así se dice:
 
@@ -270,7 +270,7 @@ Quien conoce esto se vuelve uno con el Uno.
 
 20\. Y así se ha dicho en otra parte: Para él existe la atención fija superior (dhâra<i>n</i>â), a saber, si presiona la punta de la lengua contra el paladar y restringe la voz, la mente y la respiración, ve.
 
-<span id="p320">[<sup><small>pág. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Brahman mediante la discriminación (tarka). Y cuando, tras la cesación de la mente [^1092], ve su propio Ser, más pequeño que lo pequeño, y brillante, como el Ser Supremo [^1093], al haber visto su Ser como el Ser, se vuelve sin Ser, y debido a su ausencia de Ser, es ilimitado, sin causa, absorto en el pensamiento. Este es el misterio supremo, a saber, la liberación final. Y así se dice:
 
@@ -278,7 +278,7 @@ Brahman mediante la discriminación (tarka). Y cuando, tras la cesación de la m
 
 2 1. Y así se ha dicho en otra parte: La arteria llamada Sushumnâ, que asciende (del corazón al Brahmarandhra), y sirve como conducto del Prana, se divide en el paladar. A través de esa arteria, cuando se ha unido a ella la respiración (retenida), la sílaba sagrada Om y la mente (absorta en la contemplación de Brahman), que se ascienda [^1094], y tras llevar la punta de la lengua al paladar, sin [^1095] utilizar ninguno de los órganos de los sentidos, que la grandeza perciba la grandeza [^1096]. De ahí llega al desinterés, y mediante el desinterés deja de ser un disfrutador del placer y el dolor, y alcanza la soledad (kevalatva, la liberación final). Y así se dice:
 
-<span id="p321">[<sup><small>pág. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 'Habiendo fijado sucesivamente el aliento, después de haberlo restringido, en el paladar, habiendo cruzado desde allí el límite (la vida), que se una después a lo ilimitado (Brahman) en la coronilla.'
 
@@ -310,7 +310,7 @@ Por lo tanto, es como un recipiente caliente (lleno de mantequilla clarificada);
 
 27\. Y así también se ha dicho en otra parte: Este es el calor del Brahman supremo, inmortal e incorpóreo, es decir, el calor del cuerpo. Y este cuerpo es la mantequilla clarificada (vertida sobre él, mediante la cual se enciende el calor de Brahman, de otro modo invisible). Luego, al manifestarse, se deposita en el éter (del corazón). Entonces, mediante la concentración, eliminan ese éter que está dentro del corazón, de modo que su luz aparece, por así decirlo [^1107]. Por lo tanto, el adorador se identifica con esa luz sin demora. Como una bola de hierro, si se coloca en la tierra, se convierte en tierra sin demora, y como, una vez convertida en un terrón, el fuego y los herreros ya no tienen nada que ver con esa bola de hierro, así el pensamiento (sin demora) desaparece, junto con su soporte [^1108]. Y así se dice:
 
-<span id="p325">[<sup><small>pág. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 'El santuario que consiste en el éter en el corazón, el bienaventurado, el retiro más elevado, eso es nuestro, esa es nuestra meta, y eso es el calor y el brillo del fuego y del sol.'
 
@@ -324,13 +324,13 @@ Pero si un hombre, aunque bien iluminado (por la instrucción), todavía está a
 
 Español Aquí algunos dicen que es el Gu<i>n</i>a [^1115] (es decir, el llamado Mahat, el principio del intelecto que, según los Sâṅkhyas, es el resultado de los Gu<i>n</i>as o cualidades), el cual, a través de las diferencias de naturaleza (adquiridas en los estados anteriores de existencia), entra en esclavitud a la voluntad, y que la liberación tiene lugar (para el Gu<i>n</i>a) cuando la falta de la voluntad ha sido eliminada. (Pero este no es nuestro punto de vista), porque (llámalo gu<i>n</i>a, intelecto, buddhi, manas, mente, ahaṅkâra, egoísmo, no es la mente la que actúa, sino) él ve por la mente (como su instrumento), él oye por la mente; y todo eso lo llamamos <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> deseo, imaginación, duda, creencia, incredulidad, certeza, incertidumbre, vergüenza, pensamiento, miedo, todo lo que es solo mente (manas). Arrastrado por las olas de las cualidades, oscurecido en su imaginación, inestable, voluble, lisiado, lleno de deseos, vacilante, entra en la creencia, creyendo «yo soy él, esto es mío», y ata su Ser con su Ser, como un pájaro con una red [^1116]. Por lo tanto, un hombre, al poseer voluntad, imaginación y creencia, es un esclavo, pero quien es lo opuesto es libre. Por esta razón, que un hombre se libere de voluntad, imaginación y creencia: esta es la señal de la libertad, este es el camino que conduce a Brahman, esta es la apertura de la puerta, y a través de ella irá a la otra orilla de la oscuridad. Todos los deseos se cumplen allí. Y para esto citan un verso:
 
-“Cuando los cinco instrumentos del conocimiento permanecen inmóviles junto con la mente, y cuando el intelecto no se mueve, eso se llama el estado más elevado [^1117].”
+«Cuando los cinco instrumentos del conocimiento permanecen inmóviles junto con la mente, y cuando el intelecto no se mueve, eso se llama el estado más elevado [^1117].»
 
 Dicho esto, Sâkâyanya se sumió en sus pensamientos. Entonces Marut (es decir, el rey Brihadratha) [1118], tras inclinarse ante él y adorarlo debidamente, partió lleno de satisfacción hacia el Sendero del Norte [1119], pues no hay camino que lo lleve por ningún camino secundario. Este es el camino a Brahman. Tras forzar la puerta solar, se elevó a lo alto y se marchó. Y aquí citan:
 
 'Hay infinitos rayos (arterias) para el Ser que, como una lámpara, habita en el corazón: blanco y negro, marrón y azul, leonado y rojizo [^1120].
 
-<span id="p329">[<sup><small>pág. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Uno de ellos (el Sushumnâ) conduce hacia arriba, perforando el orbe solar: por él, habiendo ido más allá del mundo de Brahman, van al camino más elevado.
 
@@ -342,7 +342,7 @@ Por eso se dice que el santo Âditya (sol) es la causa de los nuevos nacimientos
 
 31\. Alguien pregunta: "¿De qué naturaleza son esos órganos de los sentidos que se dirigen hacia sus objetos? ¿Quién los envía aquí o quién los retiene?"
 
-Otro responde: “Su naturaleza es el Ser; el Ser los envía o los retiene; también las Apsaras (objetos atractivos de los sentidos) y los rayos solares (y otras deidades que presiden los sentidos).”
+Otro responde: «Su naturaleza es el Ser; el Ser los envía o los retiene; también las Apsaras (objetos atractivos de los sentidos) y los rayos solares (y otras deidades que presiden los sentidos).»
 
 Ahora el Ser devora los objetos mediante los cinco rayos (los órganos de los sentidos); entonces, ¿quién es el Ser?
 
@@ -378,7 +378,7 @@ Tras recitar el verso, descubre su significado: quien, permaneciendo en su mente
 
 (8) La mente debe ser restringida en el corazón hasta que llegue a su fin; eso es conocimiento, eso es libertad: todo lo demás son extensiones de los lazos [^1140] (que nos atan a esta vida).
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 (9) Esa felicidad que pertenece a una mente que mediante una meditación profunda ha sido lavada [^1141] de toda impureza y ha entrado dentro del Ser, no puede describirse aquí con palabras; puede sentirse sólo mediante el poder interno [^1142].
 
@@ -392,7 +392,7 @@ Por lo tanto, quienes no ofrecen el Agnihotra (como se describió anteriormente)
 
 Adoración a Vâyu, el morador del cielo, que recuerda su mundo. ¡Concédele ese mundo a este tu adorador!
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Adoración a Âditya, el morador del cielo, que recuerda su mundo. ¡Concédele ese mundo a este tu adorador!
 
@@ -469,7 +469,7 @@ Con el ancho de un pulgar en el corazón, como la llama de una lámpara, ardiend
 
 11\. Esta es, en efecto, su naturaleza (del Veda), la luz suprema del éter que reside en el corazón. Se enseña en tres aspectos: en el fuego, en el sol y en la respiración. Esta es, en efecto, su naturaleza, la sílaba Om, del éter que reside en el corazón. Por ella (por el Om), esa luz surge, se eleva, se exhala, se convierte para siempre en el medio de la adoración y el conocimiento de Brahman. Esa luz, en forma de <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> Om, cuando hay respiración, sustituye al calor interno, libre de todo brillo [^1166]. Esto es como la acción del humo; pues cuando hay una bocanada de aire, el humo, elevándose primero al cielo en una columna, sigue después cada rama, la envuelve y adquiere su forma [^1167]. Es como echar sal (al agua), como calentar ghee [^1168]. El Veda va y viene como la visión diluida de un mago maestro [^1169]. Y aquí citan:
 
-¿Por qué, entonces, se le llama “como un rayo”? Porque en cuanto surge (como Om), ilumina todo el cuerpo. Por lo tanto, que el hombre adore esa luz infinita con la sílaba Om.
+¿Por qué, entonces, se le llama «como un rayo»? Porque en cuanto surge (como Om), ilumina todo el cuerpo. Por lo tanto, que el hombre adore esa luz infinita con la sílaba Om.
 
 (1) El hombre en el ojo que mora en el ojo derecho, es Indra, y su esposa mora en el ojo izquierdo [^1170].
 
@@ -477,7 +477,7 @@ Con el ancho de un pulgar en el corazón, como la llama de una lámpara, ardiend
 
 (3) Hay un canal que sale del corazón hasta allí y se fija en ese ojo; esa es la arteria para ambos, siendo una, dividida en dos.
 
-<span id="p345">[<sup><small>pág. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 (4) La mente excita el fuego del cuerpo, ese fuego agita la respiración, y la respiración, moviéndose en el pecho, produce el sonido bajo.
 
@@ -489,7 +489,7 @@ Con el ancho de un pulgar en el corazón, como la llama de una lámpara, ardiend
 
 (8) Brahman con un pie se mueve en los tres, y Brahman con tres pies está en el último.
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 Es que tanto lo verdadero (en la cuarta condición) como lo falso (en las tres condiciones) pueden tener su merecido, que el Gran Ser (parece) volverse dos, sí, que él (parece) volverse dos [^1173].
 
@@ -706,7 +706,7 @@ Es que tanto lo verdadero (en la cuarta condición) como lo falso (en las tres c
 
 [^1020]: 301:3 M. lee pura eta, lo que puede ser correcto.
 
-[^1021]: 301:4 Rathita<i>h</i> es una palabra muy extraña, pero, como todo lo demás, el comentarista la explica en la pág. 302, a saber, como ratham prâpito rathitva<i>m</i> <i>k</i>a prâpita iti yâvat. Sin embargo, la interpretación de M. me parece preferible, a saber, atha yai<i>h</i> paripûr<i>n</i>o 'bhibhûto 'ya<i>m</i> tathaitai<i>s</i> <i>k</i>a, tai<i>h</i> sarvair vimukta svâtmany eva sâyu<i>g</i>yam upaiti. Yo preferiría vimuktas tv âtmany eva, y traduciría: “Pero entonces, liberado de todas aquellas cosas que lo llenaban y asimismo era vencido por ellas, obtiene la unión con el Ser”.
+[^1021]: 301:4 Rathita<i>h</i> es una palabra muy extraña, pero, como todo lo demás, el comentarista la explica en la pág. 302, a saber, como ratham prâpito rathitva<i>m</i> <i>k</i>a prâpita iti yâvat. Sin embargo, la interpretación de M. me parece preferible, a saber, atha yai<i>h</i> paripûr<i>n</i>o 'bhibhûto 'ya<i>m</i> tathaitai<i>s</i> <i>k</i>a, tai<i>h</i> sarvair vimukta svâtmany eva sâyu<i>g</i>yam upaiti. Yo preferiría vimuktas tv âtmany eva, y traduciría: «Pero entonces, liberado de todas aquellas cosas que lo llenaban y asimismo era vencido por ellas, obtiene la unión con el Ser».
 
 [^1022]: 302:1 M. lee por segunda vez abhivâdy asmîti, lo cual no supone ninguna mejora. Podría haber sido ativâdyasîti.
 

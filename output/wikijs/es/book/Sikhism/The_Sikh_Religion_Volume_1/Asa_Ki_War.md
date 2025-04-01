@@ -57,7 +57,7 @@ _Gurú Nanak_
 Nanak, aquellos que son muy inteligentes en su propia estimación no piensan en el Gurú,
 Quedarán como semillas de sésamo espurias en un campo segado.
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Quedarán en el campo, dice Nanak, sin dueño:
 Los miserables podrán incluso dar fruto y flores, pero serán como cenizas dentro de sus cuerpos.
@@ -95,7 +95,7 @@ Aquellos que nacen y mueren son los más falsos de los falsos.[^4]
 
 [^4]: _Koch_ se utiliza aquí como correlativo de _sach_, verdadero.
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 _Gurú Nanak_[^1]
 
@@ -125,7 +125,7 @@ Allí los falsos no encuentran lugar: van al infierno con el rostro ennegrecido.
 Aquellos que están imbuidos de tu nombre ganan; los engañadores pierden.
 _Dios_ registró nombres y designó a Dharmraj para registrar actos.
 
-<span id="p221">[<sup><small>pág. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## RESBALÓN III
 
@@ -157,7 +157,7 @@ Por tu poder comemos, bebemos y nos vestimos; por tu poder surge todo afecto;
 Por tu poder existen las especies, géneros y colores de las criaturas; por tu poder existen los animales del mundo.[^1]
 Por tu poder son las virtudes; por tu poder son los vicios; por tu poder, el honor y el deshonor;[^2]
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 Por tu poder son el viento, el agua y el fuego; por tu poder es la tierra.
 Todo existe por tu poder; Tú eres el Creador omnipotente; Tu nombre es el más santo de los santos.
@@ -186,7 +186,7 @@ En el miedo están los luchadores, los hombres muy poderosos y los héroes divin
 Con miedo, cargamentos de hombres van y vienen.
 Dios ha destinado el temor para todos;[^3] Nanak, el Sin Forma, el Verdadero, es el único que no tiene temor.
 
-<span id="p223">[<sup><small>pág. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 _Gurú Nanak_
 
@@ -223,7 +223,7 @@ Que el viento, el agua y el fuego sean tus joyas; y la luna y el sol tus avatare
 
 [^5]: Los _Gopâls_ son pastores entre los que Krishan solía divertirse.
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Toda la Tierra, vuestro escenario, vuestras propiedades y vuestros vasos, que son todos enredos.
 Nanak, aquellos que están desprovistos de conocimiento divino son robados; el ministro de la muerte los ha devorado.
@@ -254,7 +254,7 @@ _De la misma manera_ los que están atados en enredos son hechos girar;
 Cada uno danza según sus propios actos.
 Los que bailan y ríen llorarán al partir;
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 No pueden volar ni obtener poderes sobrenaturales.
 Saltar y bailar son recreaciones humanas,
@@ -280,7 +280,7 @@ En la mente de los generosos se produce el contentamiento en su deseo de dar.
 Otros dan, pero piden mil veces más, y aún así quieren que el mundo los honre.
 ¿Por qué mencionar a los ladrones, a los adúlteros, a los perjuros, a los hombres malos y pecadores?
 
-<span id="p226">[<sup><small>pág. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Muchos parten de aquí después de comer lo que habían acumulado _en vidas anteriores_;[^1] ¿tendrán algún negocio en el otro mundo_?[^2]
 Los _animales_ que viven en el agua, la tierra firme, los catorce mundos y toda la creación—
@@ -309,7 +309,7 @@ Ha encontrado al Dador de vida para el mundo.
 
 [^2]: Este versículo también se traduce: Muchos se van de aquí después de gastar lo que poseían; ¿tenían algún otro negocio _en este mundo_?
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 ## SLOK VII
 
@@ -344,7 +344,7 @@ Dice Nanak: «Escuchen, oh hombres, de esta manera los problemas desaparecerán.
 
 
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## PAVOS REALES VIVOS
 
@@ -371,7 +371,7 @@ _Gurú Nanak_
 El hombre puede realizar cientos de miles de buenos actos y obras, cientos de miles de obras de caridad aprobadas,
 Cientos de miles de penitencias en lugares sagrados, sahaj trotan[^2] en el desierto,
 
-<span id="p229">[<sup><small>pág. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Cientos de miles de valentías, y parte de su vida en el conflicto de la batalla;
 Puede estudiar cientos de miles de Veds y obras de conocimiento divino y meditación, y leer los Purans.
@@ -402,7 +402,7 @@ Cuanto más se lee y se escribe, más se sufre;
 Cuanto más vaga uno en peregrinaciones, más balbucea;
 Cuanto más vestiduras religiosas viste el hombre, más incomodidad le causa a su cuerpo.
 
-<span id="p230">[<sup><small>pág. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Lleva, oh alma mía, el resultado de tus propios actos.
 El que no come maíz[^1] ha perdido el gusto _de la vida_.
@@ -427,7 +427,7 @@ Sólo te pido a aquellos que meditan en Ti.[^3]
 
 
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## DESLIZAMIENTO X
 
@@ -455,7 +455,7 @@ El hombre será conocido como verdadero cuando reciba verdadera instrucción;
 Que el hombre muestre misericordia hacia los seres vivos y realice algunas obras de caridad.
 El hombre será conocido como verdadero cuando habite en la peregrinación de su corazón:
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Que el hombre, después de preguntar al verdadero Gurú, descanse y permanezca en su propio corazón;
 La verdad es la medicina para todos; elimina y lava el pecado.
@@ -486,7 +486,7 @@ La avaricia y el pecado son gobernantes y contables del pueblo; la falsedad es d
 La lujuria, su ministro, convoca a los hombres, los examina y se sienta a juzgarlos.
 Los súbditos son ciegos y sin conocimiento divino, y satisfacen la avaricia del juez con sobornos.
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Los sacerdotes bailan, tocan instrumentos musicales, se disfrazan y se decoran;
 Gritan en voz alta, cantan batallas y alabanzas a los héroes.
@@ -518,7 +518,7 @@ _Gurú Nanak_
 El dolor es medicina, el placer mundano una enfermedad; donde hay tal placer, no hay deseo de Dios.
 Tú eres el hacedor, yo no hago nada; si trato de hacer algo, no llega a nada.
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 Yo soy un sacrificio para Ti; Tú permaneces en tu omnipotencia:
 Tu fin no se puede ver.
@@ -545,7 +545,7 @@ _Gurú Nanak_
 El agua permanece si está confinada en un recipiente; pero no puede permanecer sin un recipiente.
 La mente controlada por el conocimiento divino está restringida; pero sin un gurú no puede haber conocimiento divino.
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## PABLO XII
 
@@ -571,7 +571,7 @@ El Sam Ved dice que el Señor está vestido de blanco,[^3] que los hombres desea
 El Rig dice que el nombre de Dios está contenido en todas partes, que es como el sol en el cielo;
 Que al repetirlo los pecados se apartan,
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Y entonces, Nanak, el hombre obtiene la salvación.
 El Yajur afirma que Kan Krishan, que era un Yadav, sedujo a Chandrawal;
@@ -600,7 +600,7 @@ pero sus cualidades y virtudes son exquisitas.
 Cada uno se inclina ante sí mismo, pero nadie se inclina ante otro.
 Si algo se pone en una balanza y se pesa, el lado que desciende es el más pesado.[^1]
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 El malvado, como un cazador de ciervos, se inclina dos veces más que cualquier otro;
 Pero ¿de qué sirve inclinar la cabeza si el corazón es impuro?
@@ -629,7 +629,7 @@ Y se arrepentirá de los pecados que cometió.
 
 El siguiente verso, dirigido por Guru Nanak a pandit Hardial, su sacerdote familiar, cuando fue a investirlo con un janeu, el cordón sacrificial de las clases altas de los hindúes, ya ha sido narrado:
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## SLOK XV
 
@@ -661,7 +661,7 @@ No hay hilo para los órganos sexuales, no hay hilo para las mujeres;
 _No hay cuerda para los actos impuros que hacen que_ sus barbas sean escupidas diariamente.
 No hay cuerda para los pies, no hay cuerda para las manos,
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 No hay cuerda para la lengua, no hay cuerda para los ojos.
 Sin tales cuerdas _el Brahman_ vaga por el mal camino,
@@ -686,7 +686,7 @@ Un hombre en Lahore le regaló una vaca a un brahmán. El brahmán la llevó con
 Cobras por una vaca y un brahmán, el estiércol de vaca no te salvará.
 Llevas un dhoti[^2] y una marca frontal, y llevas un rosario, _sin embargo_ comes el pan de malechhas.
 
-<span id="p240">[<sup><small>pág. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Realizas el culto hindú en casa, lees el Corán _en público_ y te asocias con los musulmanes,[^1] ¡oh hermano mío!
 Deja a un lado la hipocresía, repite el nombre de Dios y serás salvo.
@@ -712,7 +712,7 @@ Diciendo: ¡No toquéis! ¡Oh, no toquéis!
 "O esta nuestra comida será contaminada."
 Pero sus cuerpos están contaminados, y lo que hacen es contaminado;
 
-<span id="p241">[<sup><small>pág. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Sus corazones son falsos mientras realizan abluciones _después de sus comidas_.
 Dice Nanak: Medita en el Verdadero;
@@ -741,7 +741,7 @@ Así como la mujer tiene sus relaciones recurrentes, así la falsedad habita en 
 No debe llamarse puro a quien se sienta y lava su cuerpo;
 _Más bien_ es puro, Nanak, aquel en cuyo corazón habita Dios.
 
-<span id="p242">[<sup><small>pág. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## PICOS XVII
 
@@ -768,7 +768,7 @@ La impureza del corazón es codicia, la impureza de la lengua es falsedad;
 La impureza de los ojos es mirar la riqueza del otro, su mujer y su belleza;
 La impureza de los oídos es escuchar la calumnia.
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Nanak, incluso el supuesto santo que practica tales cosas, irá atado al infierno.
 Toda impureza consiste en la superstición y el apego a las cosas mundanas.
@@ -797,7 +797,7 @@ Cuando el alimento entra en un cuerpo pecador, se vuelve impuro como si fuera es
 La boca que no pronuncia el Nombre, y come incluso manjares sin el Nombre,
 Considéralo, oh Nanak, como si te hubieran escupido.
 
-<span id="p244">[<sup><small>pág. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 Lo siguiente fue la advertencia de Guru Nanak a un hombre que insultaba al sexo femenino:
 
@@ -827,7 +827,7 @@ Nanak, la mente y el cuerpo de aquel que habla mal son malos:
 El malvado es rechazado en el tribunal de Dios; su rostro es escupido.
 La persona malvada es un tonto y recibe azotes con los zapatos como castigo.
 
-<span id="p245">[<sup><small>pág. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 _Gurú Nanak_
 
@@ -849,7 +849,7 @@ Todo lo que vino se irá; a cada uno le llegará su turno.
 ¿Por qué olvidar a ese Señor que es dueño de la vida y del alma?
 Con tus propias manos arregla tus propios asuntos.
 
-<span id="p246">[<sup><small>pág. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## VERSO XXI
 
@@ -882,7 +882,7 @@ Y habla demasiado, no agrada a su señor.
 Si se anonada y presta servicio, obtendrá algún honor.
 Nanak, aquel que anhela a Dios lo encontrará, y su anhelo será aceptable.
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 _Gurú Angad_
 
@@ -916,7 +916,7 @@ Pierde su gran salario y recibe una paliza en la boca.
 Dale gracias a Aquel por cuyos dones vives.
 Nanak, las órdenes no tendrán éxito con Él; hay que implorarle al Maestro,
 
-<span id="p248">[<sup><small>pág. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## VERSO XXIII
 
@@ -947,7 +947,7 @@ En algunos se contiene leche[^3] otros se ponen al fuego.
 Algunos duermen en colchones y otros se quedan de pie y los vigilan.
 Nanak, Dios regenera a aquellos a quienes mira con favor.
 
-<span id="p249">[<sup><small>pág. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 _Gurú Angad_
 
@@ -963,7 +963,7 @@ El hombre debe realizar la obra que Dios destinó para él desde el principio.
 Nanak, excepto en el único Dios solo no hay lugar permanente.
 Él hace lo que quiere.
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

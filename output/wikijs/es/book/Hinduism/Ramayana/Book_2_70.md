@@ -60,7 +60,7 @@ En el bosque salvaje aguanta oír
 ¿La voz del miedo del león voraz?
 ¿Dónde duerme mi héroe de brazos fuertes, dónde?
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Como el estándar del Señor Mahendra, ¿es justo?
 ¿Dónde está, al lado de Lakshman, su cama?
@@ -183,7 +183,7 @@ Murmuró su triste queja:
 Sus ojos llenos de lágrimas se desbordaron,
 Como chorros se vierte el agua recién caída;
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Sus manos suplicantes, consternadas por el miedo
 Ella lo abrazó suavemente y lo colocó,
@@ -298,7 +298,7 @@ Se mostró glorioso como el poderoso abismo.
 Los torrentes bajan por su ladera boscosa
 Vertidos, algunos sin teñir, mientras otros teñidos.
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Dorado, ceniciento, plateado, ocre, aburrimiento
 Los matices de cada mineral de montaña.
@@ -422,7 +422,7 @@ Tu mano ha hecho sangrar a un Bráhman.
 No dejes que este dolor te aflija el pecho:
 No soy un joven dos veces nacido, oh Rey,
 
-<span id="p170">[<sup><small>pág. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 Porque de un padre vais'ya vine,
 Quien se casó con una dama S'udrá.
@@ -549,7 +549,7 @@ Yo solo guié a la pareja de luto,
 Sus almas estaban inquietas por la aflicción,
 Y que la dama y el ermitaño se acuesten
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Sus manos sobre la arcilla sin aliento.
 El padre tocó a su hijo y lo presionó.
@@ -671,7 +671,7 @@ De nuevo en mi memoria vino el error.
 Hecho en tu juventud salvaje, oh querida dama.
 Cuando me jactaba de disparar de oído.
 
-<span id="p172">[<sup><small>pág. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 El hecho ha dado sus frutos, que ahora
 Cuelga maduro sobre la rama doblada:
@@ -796,7 +796,7 @@ Expertos en el arte de los sueños,
 Primero tocó la cama en la que yacía.
 Pero nadie respondió; no se oyó ningún sonido.
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Ni la mano, ni la cabeza, ni el cuerpo se movieron.
 Temblaron y su miedo aumentó,
@@ -917,7 +917,7 @@ Abrazando la arcilla sin vida de su marido
 Un rato la devota permaneció llorando,
 Hasta que los chambelanes la sacaron de allí
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Vencido por la violencia del dolor.
 Luego en un barril de aceite lo pusieron
@@ -1039,7 +1039,7 @@ En los reinos sin rey no hay bandas de comerciantes
 Quien viaja a tierras lejanas,
 Sus carros están cargados de mercancías preciosas.
 
-<span id="p175">[<sup><small>pág. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Y no temáis ningún peligro en el camino,
 Ningún sabio está seguro de su autocontrol,
@@ -1154,7 +1154,7 @@ Cruzando el M'aliní que fluía
 Con suave corriente a través del camino.
 Atravesaron las olas sagradas del Ganges
 
-<span id="p176">[<sup><small>pág. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Donde vive Hastinapura [^341],
 De allí a Panchala [^342] hacia el oeste rápidamente.
@@ -1195,7 +1195,7 @@ Vinieron de noche y se posaron.
 Para complacer a su amo y protegerlo.
 La raza real, el derecho lineal,
 Los enviados, cansados ​​de cabalgar duramente,
-A aquella bella ciudad llegó de noche. [1b](Libro_2_70#fn347)
+A aquella bella ciudad llegó de noche. [1b](../Libro_2_70#fn347)
 
 
 
@@ -1208,7 +1208,7 @@ Una visión que le heló el alma de asombro.
 El sueño que presagiaba terribles acontecimientos
 El corazón de Bharat quedó helado de horror,
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Y angustiado por los sufrimientos que lo consumen,
 Pensó en su anciano padre.
@@ -1332,7 +1332,7 @@ Sumitrá hábil en el cumplimiento del deber,
 Quien también dio a luz al valiente S'atrughna,
 Segunda en edad, declara su salud.
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 Y ella, en su vanidad más sabia,
 Con un corazón egoísta muy propenso a la ira,

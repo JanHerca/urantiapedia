@@ -1,6 +1,6 @@
 ---
 title: "V. Âtas Nyâyis"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:36Z
 
 4\. [^1540]. ¡Que Ahura Mazda se regocije! . . . .
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 ¡Salve a ti, oh Fuego, hijo de Ahura Mazda, tú, el benéfico y más grande Yazata!
 
@@ -80,7 +80,7 @@ Bien le sea al hombre que siempre te adora con un sacrificio, sosteniendo la mad
 
 Conocimiento, sagacidad, rapidez de lengua, (santidad de) alma, buena memoria, y luego el entendimiento que va creciendo y el que no se adquiere mediante el aprendizaje [^1547];
 
-<span id="p360">[<sup><small>pág. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 Y luego el coraje varonil,
 
@@ -156,7 +156,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes...
 
 [^1617]: 359:3 Upasayêni: lo que se añade para mantener el fuego cuando está encendido (traducción personal).
 
-[^1618]: 359:4 El gaoshô-srûta khratu y el âsna khratu (ver [p. 7](Sirozahs_1#p7). nota [1](Sirozahs_1#fn39)).
+[^1618]: 359:4 El gaoshô-srûta khratu y el âsna khratu (ver [p. 7](../Sirozahs_1#p7). nota [1](../Sirozahs_1#fn39)).
 
 [^1619]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (traducción sánsk.).
 
@@ -176,4 +176,4 @@ Ashem Vohû: La santidad es el mejor de todos los bienes...
 
 [^1628]: 361:3 De Yasna XXXIV, 4.
 
-[^1629]: 361:4 'En el var nîrang' (Pahl. Comm.), es decir, en la prueba del fuego; véase arriba, [p. 170](Yasts_12#p170), nota [3](Yasts_12#fn787).
+[^1629]: 361:4 'En el var nîrang' (Pahl. Comm.), es decir, en la prueba del fuego; véase arriba, [p. 170](../Yasts_12#p170), nota [3](../Yasts_12#fn787).

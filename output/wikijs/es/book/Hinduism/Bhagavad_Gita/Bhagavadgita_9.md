@@ -36,7 +36,7 @@ Ahora les hablaré a ustedes, que no son dados a quejarse, de ese conocimiento t
 
 Glorificándome constantemente, y esforzándose [^322], firmes en sus votos [^323], y saludándome con reverencia,
 
-Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocimiento, me adoran como uno, como distinto y como omnipresente en numerosas formas [^324]. Soy el Kratu [^325], soy el Ya<i>g</i>ña, soy el Svadhâ, soy el producto de las hierbas. Soy el verso sagrado. Yo también soy la mantequilla sacrificial, y yo soy el fuego, yo la ofrenda [^326]. Soy el padre de este universo, la madre, el creador, el abuelo, lo que debe ser conocido, el medio de santificación, la sílaba Om [^327], el _Rik_, Sâman y también el Ya<i>g</i>us; la meta, el sustentador, el señor, el supervisor, el <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> residencia [^328], el asilo, el amigo, la fuente y aquello en lo que se funde, el soporte, el receptáculo y la semilla inagotable. Causo calor, envío y detengo las lluvias. Soy la inmortalidad y también la muerte; y yo, ¡oh Ar<i>g</i>una!, soy lo que es y lo que no es [^329]. Quienes conocen las tres ramas del conocimiento, beben el jugo del Soma, cuyos pecados son lavados, ofrecen sacrificios y me ruegan por un pasaje al cielo; y al llegar al mundo sagrado del señor de los dioses, disfrutan en las regiones celestiales de los placeres celestiales de los dioses. Y habiendo disfrutado de ese gran mundo celestial, entran al mundo mortal cuando se agotan sus méritos [^330]. Así, quienes desean objetos de deseo y recurren a las ordenanzas de los tres Vedas, obtienen como fruto el ir y el venir. A quienes me adoran, meditando en mí y en nadie más, y que son constantemente devotos, les doy nuevos dones y les preservo lo que han adquirido [^331]. Incluso aquellos, ¡oh hijo de Kuntî!, que siendo devotos de otras divinidades adoran con fe, me adoran solo a mí, (pero) irregularmente [^332]. Pues soy el disfrutador y señor [^333] de todos los sacrificios. Pero no me conocen verdaderamente, por eso caen [^334]. Quienes hacen votos [^335] a los dioses van a los dioses; <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> quienes hacen votos a los manes van a los manes, quienes adoran a los Bhûtas van a los Bhûtas; y quienes me adoran a mí, igualmente, van a mí. Quien con devoción me ofrece hojas, flores, frutas o agua, eso, ofrecido con devoción, lo acepto de aquel cuyo ser es puro. ¡Oh, hijo de Kuntî! ¡Todo lo que comas, todo el sacrificio que hagas, todo lo que des, toda la penitencia que realices, hazlo como se me ofrece! [^336]. Así te liberarás de las ataduras de la acción, cuyos frutos sean agradables o desagradables. Y con tu ser poseído por (esta) devoción, (esta) renuncia [^337], te liberarás (de las ataduras de la acción) y vendrás a mí. Soy igual a todos los seres; para mí, nadie es odioso, nadie querido. Pero quienes me adoran con devoción (habitan) en mí [^338], y yo también en ellos. Incluso si un hombre de mala conducta me adora, sin adorar a nadie más, sin duda debe ser considerado bueno, pues tiene buena resolución [^339]. Pronto se vuelve devoto de corazón y alcanza una tranquilidad duradera. (Puedes) afirmar, ¡oh, hijo de Kuntî!, que mi devoto nunca se arruina. Pues, ¡oh, hijo de Pithâ!, incluso aquellos de nacimiento pecador [^340], mujeres, vaisyas; y también los sudras, recurriendo a mí, alcanzan la meta suprema. ¿Qué puede decirse entonces de los santos brahmanes y santos reales que son mis devotos? Al venir a este mundo transitorio e infeliz [1](Bhagavadgita_10#fn341), adórame. Concentra tu mente en mí, conviértete en mi devoto, mi adorador; reverénciame, y, al convertirme en tu meta más alta y dedicarte a la abstracción, sin duda llegarás a mí.
+Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocimiento, me adoran como uno, como distinto y como omnipresente en numerosas formas [^324]. Soy el Kratu [^325], soy el Ya<i>g</i>ña, soy el Svadhâ, soy el producto de las hierbas. Soy el verso sagrado. Yo también soy la mantequilla sacrificial, y yo soy el fuego, yo la ofrenda [^326]. Soy el padre de este universo, la madre, el creador, el abuelo, lo que debe ser conocido, el medio de santificación, la sílaba Om [^327], el _Rik_, Sâman y también el Ya<i>g</i>us; la meta, el sustentador, el señor, el supervisor, el <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> residencia [^328], el asilo, el amigo, la fuente y aquello en lo que se funde, el soporte, el receptáculo y la semilla inagotable. Causo calor, envío y detengo las lluvias. Soy la inmortalidad y también la muerte; y yo, ¡oh Ar<i>g</i>una!, soy lo que es y lo que no es [^329]. Quienes conocen las tres ramas del conocimiento, beben el jugo del Soma, cuyos pecados son lavados, ofrecen sacrificios y me ruegan por un pasaje al cielo; y al llegar al mundo sagrado del señor de los dioses, disfrutan en las regiones celestiales de los placeres celestiales de los dioses. Y habiendo disfrutado de ese gran mundo celestial, entran al mundo mortal cuando se agotan sus méritos [^330]. Así, quienes desean objetos de deseo y recurren a las ordenanzas de los tres Vedas, obtienen como fruto el ir y el venir. A quienes me adoran, meditando en mí y en nadie más, y que son constantemente devotos, les doy nuevos dones y les preservo lo que han adquirido [^331]. Incluso aquellos, ¡oh hijo de Kuntî!, que siendo devotos de otras divinidades adoran con fe, me adoran solo a mí, (pero) irregularmente [^332]. Pues soy el disfrutador y señor [^333] de todos los sacrificios. Pero no me conocen verdaderamente, por eso caen [^334]. Quienes hacen votos [^335] a los dioses van a los dioses; <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> quienes hacen votos a los manes van a los manes, quienes adoran a los Bhûtas van a los Bhûtas; y quienes me adoran a mí, igualmente, van a mí. Quien con devoción me ofrece hojas, flores, frutas o agua, eso, ofrecido con devoción, lo acepto de aquel cuyo ser es puro. ¡Oh, hijo de Kuntî! ¡Todo lo que comas, todo el sacrificio que hagas, todo lo que des, toda la penitencia que realices, hazlo como se me ofrece! [^336]. Así te liberarás de las ataduras de la acción, cuyos frutos sean agradables o desagradables. Y con tu ser poseído por (esta) devoción, (esta) renuncia [^337], te liberarás (de las ataduras de la acción) y vendrás a mí. Soy igual a todos los seres; para mí, nadie es odioso, nadie querido. Pero quienes me adoran con devoción (habitan) en mí [^338], y yo también en ellos. Incluso si un hombre de mala conducta me adora, sin adorar a nadie más, sin duda debe ser considerado bueno, pues tiene buena resolución [^339]. Pronto se vuelve devoto de corazón y alcanza una tranquilidad duradera. (Puedes) afirmar, ¡oh, hijo de Kuntî!, que mi devoto nunca se arruina. Pues, ¡oh, hijo de Pithâ!, incluso aquellos de nacimiento pecador [^340], mujeres, vaisyas; y también los sudras, recurriendo a mí, alcanzan la meta suprema. ¿Qué puede decirse entonces de los santos brahmanes y santos reales que son mis devotos? Al venir a este mundo transitorio e infeliz [1](../Bhagavadgita_10#fn341), adórame. Concentra tu mente en mí, conviértete en mi devoto, mi adorador; reverénciame, y, al convertirme en tu meta más alta y dedicarte a la abstracción, sin duda llegarás a mí.
 
 <figure class="table chapter-navigator">
   <table>
@@ -74,13 +74,13 @@ Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocim
 
 [^314]: 82:1 Es decir, por conciencia inmediata, no mediatamente; 'no opuesto a la ley sagrada', es decir, como el sacrificio <i>S</i>yena para destruir a un enemigo.
 
-[^315]: 82:2 Porque no está contaminado por nada. Y, por lo tanto, las entidades tampoco viven en él, como se dice en la siguiente oración. Véase [p. 80](Bhagavadgita_8#p80) supra.
+[^315]: 82:2 Porque no está contaminado por nada. Y, por lo tanto, las entidades tampoco viven en él, como se dice en la siguiente oración. Véase [p. 80](../Bhagavadgita_8#p80) supra.
 
 [^316]: 82:3 Así como el espacio no está contaminado ni afectado por el aire que permanece en él, así también yo no estoy contaminado por las entidades.
 
-[^317]: 82:4 supra, [p. 58](Bhagavadgita_3#p58). Naturaleza = el principio no percibido.
+[^317]: 82:4 supra, [p. 58](../Bhagavadgita_3#p58). Naturaleza = el principio no percibido.
 
-[^318]: 82:5 Cfr. [pag. 80](Bhagavadgita_8#p80) supra.
+[^318]: 82:5 Cfr. [pag. 80](../Bhagavadgita_8#p80) supra.
 
 [^319]: 82:6 No me afectan las diferencias en las condiciones de estas entidades.
 
@@ -88,7 +88,7 @@ Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocim
 
 [^321]: 83:1 Esperanza, a saber, que alguna otra deidad les dará lo que quieren; actos, vanos porque no se ofrecen al Supremo; conocimiento, vano porque abunda en dudas necias, etc.
 
-[^322]: 83:2 Cfr. [pag. 76](Bhagavadgita_7#p76) supra.
+[^322]: 83:2 Cfr. [pag. 76](../Bhagavadgita_7#p76) supra.
 
 [^323]: 83:3 Para un conocimiento de lo supremo, o para los medios de tal conocimiento.
 
@@ -98,9 +98,9 @@ Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocim
 
 [^326]: 83:6 Kratu es un sacrificio védico; Ya<i>g</i>ña, un sacrificio establecido en Sm<i>ri</i>tis. Svadhâ = ofrenda a los manes; 'producto de las hierbas' = alimento preparado con vegetales o medicina.
 
-[^327]: 83:7 Cfr. [pag. 61](Bhagavadgita_4#p61) supra.
+[^327]: 83:7 Cfr. [pag. 61](../Bhagavadgita_4#p61) supra.
 
-[^328]: 83:8 P. [9](Bhagavadgita_Intro#p9) supra.
+[^328]: 83:8 P. [9](../Bhagavadgita_Intro#p9) supra.
 
 [^329]: 84:1 Es decir, el asiento del disfrute; receptáculo = donde se conservan las cosas para uso futuro, dicen los comentaristas.
 
@@ -112,13 +112,13 @@ Me adoran, siendo siempre devotos. Y otros, ofreciendo el sacrificio del conocim
 
 [^333]: 84:5 Porque en la forma adoran a otras divinidades.
 
-[^334]: 84:6 Dador del fruto. En cuanto al disfrutador, cf. [pag. 67](Bhagavadgita_5#p67) supra.
+[^334]: 84:6 Dador del fruto. En cuanto al disfrutador, cf. [pag. 67](../Bhagavadgita_5#p67) supra.
 
 [^335]: 84:7 Es decir, regresar al mundo mortal.
 
-[^336]: 84:8 Es decir, alguna regulación sobre el modo de adoración. Cf. también [p. 76](Bhagavadgita_7#p76) supra.
+[^336]: 84:8 Es decir, alguna regulación sobre el modo de adoración. Cf. también [p. 76](../Bhagavadgita_7#p76) supra.
 
-[^337]: 85:1 Cfr. [pag. 55](Bhagavadgita_3#p55) supra, y otros pasajes.
+[^337]: 85:1 Cfr. [pag. 55](../Bhagavadgita_3#p55) supra, y otros pasajes.
 
 [^338]: 85:2 Este modo de acción es a la vez devoción y renuncia: la primera, porque a uno no le importa el fruto; la segunda, porque se ofrece al Supremo.
 

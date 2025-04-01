@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Tratado sobre el simbolismo de los hexagramas y de las explicaciones del duque de Kâu sobre las distintas líneas [^189]
 
@@ -54,7 +54,7 @@ Tratado sobre el simbolismo de los hexagramas y de las explicaciones del duque d
 
 7\. 'Se utiliza el mismo NUEVE (indiviso)' (en todos los lugares de este hexagrama), pero el atributo del cielo (así denotado) no debe (siempre) ocupar el primer lugar.
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 [^191]. El poder (capacidad y sustentación) de la tierra es lo que denota Khwăn. El hombre superior, en consonancia con esto, con su gran virtud sustenta (a los hombres y a las cosas).
 
@@ -70,7 +70,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 7\. '(Las líneas son todas débiles y divididas, como se desprende del) uso del número SEIS: pero (aquellos que están representados de esta manera) volviéndose perpetuamente correctos y firmes, habrá de ese modo una gran consumación.
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 [^192]. (El trigrama que representa) las nubes y (el que representa) el trueno forman <i>K</i>un. El hombre superior, de acuerdo con esto, (ajusta sus medidas de gobierno) como si clasificara los hilos de la urdimbre y la trama.
 
@@ -86,7 +86,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 6\. 'Él llora lágrimas de sangre a torrentes': ¿cómo puede el Estado (así simbolizado) continuar por mucho tiempo?
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 [^193]. (El trigrama representa) una montaña, y debajo de ella, un manantial que brota de Măng. El hombre superior, en consonancia con esto, se esfuerza por ser firme en su conducta y nutre su virtud.
 
@@ -114,7 +114,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 6\. 'Los huéspedes vienen sin que se les pida (que presten su ayuda), y si (el sujeto del verso) los recibe respetuosamente, habrá buena fortuna al final': aunque el ocupante y el lugar no son adecuados entre sí, no ha habido un gran fracaso (en lo que se ha hecho).
 
-<span id="p274">[<sup><small>pág. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 [^195]. (El trigrama que representa) el cielo y (el que representa) el agua, alejándose, forman Sung. El hombre superior, en consonancia con esto, en la gestión de los asuntos, se asesora bien sobre sus primeros pasos.
 
@@ -142,7 +142,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 6\. «El gran gobernante entrega sus cargos»: con ello, distribuye correctamente el mérito. «No se debe emplear a gente pequeña»: sin duda, sembrarán la confusión en los estados.
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 [^197]. (El trigrama que representa) la tierra, y sobre ella (el que representa) el agua, forman Pî. Los antiguos reyes, en consonancia con esto, establecieron los diversos estados y mantuvieron una relación afectuosa con sus príncipes.
 
@@ -174,7 +174,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. «Ha llovido y (el avance) se ha detenido»: el poder (indicado en la figura) se ha acumulado al máximo. «Si el hombre superior lleva adelante sus medidas, habrá maldad»: se verá obstaculizado.
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 [^199]. (El trigrama que representa) el cielo arriba, y debajo de él (el que representa las aguas de) un pantano, forman Lî. El hombre superior, en consonancia con esto, distingue entre lo alto y lo bajo, y establece los objetivos del pueblo.
 
@@ -214,7 +214,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La angustia y la obstrucción, habiendo llegado a su fin, son derribadas y eliminadas': ¿cómo podrían prolongarse?
 
-<span id="p284">[<sup><small>pág. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 [^202]. (Los trigramas para) el cielo y el fuego forman Thung <i>Z</i>ăn. El hombre superior, de acuerdo con esto), distingue las cosas según sus tipos y clases.
 
@@ -230,7 +230,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. '(El representante de) la unión de los hombres aparece en los suburbios': su objetivo aún no se ha alcanzado.
 
-<span id="p285">[<sup><small>pág. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 [^203]. (El trigrama del) cielo y (el del) fuego sobre él forman Tâ Yû El hombre superior, de acuerdo con esto, reprime lo que es malo y da distinción a lo que es bueno, en simpatía con la excelente (naturaleza) conferida por el Cielo.
 
@@ -270,7 +270,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Con la mente oscurecida y dedicada a la armonía y satisfacción (del momento)', como se muestra en la línea superior: ¿cómo puede alguien en tal condición continuar por mucho tiempo?
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 [^206]. (El trigrama para las aguas de) un pantano y (el del) trueno (oculto) en medio de él forman Sui. El hombre superior, de acuerdo con esto, cuando oscurece, entra (en su casa) y descansa.
 
@@ -348,7 +348,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La ausencia de error asociada al tema de la línea superior, sin otro adorno que el (simple blanco)', muestra cómo ha alcanzado su objetivo.
 
-<span id="p296">[<sup><small>pág. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 [^212]. (Los trigramas que representan) la tierra, y (por encima de ella) el de una montaña, que se adhiere a la tierra, forman Po. Los superiores, de acuerdo con esto, buscan fortalecer a los que están por debajo de ellos, para asegurar la paz y la estabilidad de su propia posición.
 
@@ -364,7 +364,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. «El hombre superior se encuentra en un carruaje»: es arrastrado por el pueblo. «Los hombres pequeños (con su curso) destruyen sus propias viviendas»: ya nunca más podrán serles útiles.
 
-<span id="p297">[<sup><small>pág. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 [^213]. (El trigrama que representa) la tierra y el del trueno en medio de ella forman Fû. Los antiguos reyes, de acuerdo con esto, el día del solsticio de invierno, cerraban las puertas de los pasos de un estado a otro, para que los comerciantes viajeros no pudieran proseguir sus viajes, ni los príncipes continuar la inspección de sus estados.
 
@@ -380,7 +380,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'El mal que resulta de estar totalmente desviado en cuanto al retorno' se debe a que el curso seguido es contrario al curso apropiado para un gobernante.
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 [^214]. El trueno retumba bajo el cielo, y a cada cosa se le da su naturaleza, libre de toda falsedad. Los antiguos reyes, en consonancia con esto, establecieron sus normas en completa armonía con las estaciones, nutriendo así todas las cosas.
 
@@ -396,7 +396,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La acción (en este caso) de alguien que está libre de insinceridad' ocasionará la calamidad que surge de la acción (cuando el tiempo para ello se haya agotado).
 
-<span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 [^215]. (El trigrama que representa) una montaña, y en medio de ella aquello que representa el cielo, forman Tâ <i>Kh</i>û. El hombre superior, en consonancia con esto, almacena ampliamente en su memoria las palabras y acciones de hombres anteriores, para contribuir a la acumulación de su virtud.
 
@@ -412,7 +412,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Al mando del firmamento del cielo': el camino está grandiosamente abierto para el movimiento.
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 [^216]. (El trigrama que representa) una montaña y bajo ella la forma del trueno Î. El hombre superior, en consonancia con esto, (ordena) la vigilancia de nuestras palabras y la moderación en nuestra comida y bebida.
 
@@ -487,7 +487,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Mueve las mandíbulas y la lengua': (sólo) habla con la boca locuaz.
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 [^221]. (El trigrama que representa) el trueno y el del viento forman Hăng. El hombre superior, en consonancia con esto, se mantiene firme y no cambia su método (de operación).
 
@@ -503,7 +503,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'El sujeto de la línea superior se está excitando a sí mismo para una larga continuidad': lejos estará de lograr mérito.
 
-<span id="p308">[<sup><small>pág. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 [^222]. (El trigrama que representa) el cielo y, debajo de él, el de una montaña, forma Thun. El hombre superior, en consonancia con esto, mantiene a los hombres pequeños a distancia, no demostrando odio hacia ellos, sino con su propia y digna gravedad.
 
@@ -519,7 +519,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Se retira de manera noble, y hacerlo será ventajoso en todos los aspectos': quien así lo hace no tiene dudas sobre su curso.
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 [^223]. (El trigrama que representa) el cielo y, sobre él, el del trueno, forman Tâ <i>K</i>wang. El hombre superior, en consonancia con esto, no da un paso que no sea conforme a la propiedad.
 
@@ -535,7 +535,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. «No puede ni retroceder ni avanzar»: esto se debe a su falta de cuidado. «Si se da cuenta de la dificultad de su posición, le espera buena fortuna»: su error no se prolongará.
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 [^224]. (El trigrama que representa) la tierra y el del brillante (sol) que surge sobre ella forman Žin. El hombre superior, según esto, se entrega para hacer más brillante su virtud brillante.
 
@@ -551,7 +551,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Él usa sus cuernos sólo para castigar (al pueblo rebelde de) su ciudad': su curso de procedimiento aún no es brillante.
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 [^225]. (El trigrama que representa) la tierra y el del sol brillante que entra en ella forman Ming Î. El hombre superior, de acuerdo con esto, dirige su gestión de los hombres; muestra su inteligencia manteniéndola oculta.
 
@@ -581,7 +581,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La buena fortuna relacionada con la exhibición de majestad' describe (el resultado de) la recuperación del verdadero carácter.
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 [^227]. (El trigrama que representa) el fuego arriba, y el que representa (las aguas de) un pantano abajo, forman Khwei. El hombre superior, de acuerdo con esto, donde hay un acuerdo general, admite la diversidad.
 
@@ -599,7 +599,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La buena fortuna simbolizada por el encuentro con la lluvia (genial)' surge de la desaparición de todas las dudas.
 
-<span id="p315">[<sup><small>pág. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 [^228]. (El trigrama que representa) una montaña, y sobre ella el del agua, forman <i>K</i>ien. El hombre superior, en consonancia con esto, se reflexiona y cultiva su virtud.
 
@@ -617,7 +617,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 'Será ventajoso encontrarse con el gran hombre': por su curso sigue a ese noble (señor de la figura).
 
-<span id="p316">[<sup><small>pág. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 [^229]. (El trigrama que representa) el trueno y el de la lluvia, con estos fenómenos manifestados, forman <i>K</i>ieh. El hombre superior, en consonancia con esto, perdona los errores y trata con benevolencia los crímenes.
 
@@ -645,7 +645,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Él aumenta a los demás sin quitarle nada a lo suyo': obtiene su deseo a gran escala.
 
-<span id="p319">[<sup><small>pág. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 [^231]. (El trigrama que representa) el viento y el del trueno forman Yî. El hombre superior, en consonancia con esto, cuando ve el bien, se acerca a él; y cuando ve sus errores, se aparta de ellos.
 
@@ -661,7 +661,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. «Nadie contribuirá a su crecimiento»: esto expresa solo la mitad del resultado. «Muchos intentarán atacarlo»: vendrán de más allá (de su círculo inmediato) para hacerlo.
 
-<span id="p320">[<sup><small>pág. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 [^232]. (El trigrama que representa) el cielo y el de las aguas de un pantano que se eleva sobre él forman Kwâi. El hombre superior, en consonancia con esto, otorga emolumentos a sus subordinados y rechaza que sus dones se acumulen (sin distribuir).
 
@@ -695,7 +695,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Recibe a otros en sus cuernos': está exhausto en su máxima expresión, y habrá motivos para arrepentirse.
 
-<span id="p323">[<sup><small>pág. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 [^234]. (El trigrama que representa la) tierra y el de las aguas de un pantano que se eleva sobre ella forman Žhui. El hombre superior, de acuerdo con esto, tiene sus armas de guerra en buen estado, para estar preparado ante contingencias imprevistas.
 
@@ -741,7 +741,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 '(Dice): «Si me muevo, me arrepentiré de ello». Y se arrepiente (de los errores anteriores), lo que conduce a la buena fortuna”; así continúa (ahora).
 
-<span id="p327">[<sup><small>pág. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 [^237]. (El trigrama que representa) la madera y, sobre ella, el del agua, forman Žing. El hombre superior, en consonancia con esto, consuela a la gente y los estimula a la ayuda mutua.
 
@@ -797,7 +797,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 1\. 'Cuando llegue el momento del movimiento, se le encontrará mirando con aprensión': ese sentimiento de temor conduce a la felicidad.
 
-<span id="p331">[<sup><small>pág. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 'Él todavía sonríe y habla alegremente': el resultado (de su temor) es que adopta leyes (apropiadas) (para su curso).
 
@@ -831,7 +831,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 6\. 'Hay buena fortuna en mantener con devoción su tranquilidad': hasta el final se muestra generoso y bueno.
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 [^242]. (El trigrama que representa) una montaña y, sobre ella, la forma de un árbol, <i>K</i>ien. El hombre superior, en consonancia con esto, alcanza y mantiene su virtud extraordinaria, y mejora las costumbres del pueblo.
 
@@ -851,7 +851,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 6\. «Sus plumas pueden usarse como adornos. Habrá buena fortuna»: (el objeto y carácter del sujeto del verso) no puede ser alterado.
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 [^243]. (El trigrama que representa las aguas de) un pantano y sobre él, el que, para el trueno, forma Kwei Mei. El hombre superior, de acuerdo con esto, considerando el fin lejano, conoce el daño (que puede causarse al principio).
 
@@ -891,7 +891,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 'Mira su puerta, que está en silencio, sin nadie alrededor': él (sólo) se mantiene apartado de todos los demás.
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 [^245]. (El trigrama que representa) una montaña y, sobre ella, la del fuego, forma Lü. El hombre superior, en consonancia con esto, ejerce su sabiduría y cautela al aplicar castigos y no permite que los litigios continúen.
 
@@ -909,7 +909,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 6\. 'Considerando que el extranjero está aquí en lo más alto (de la distinción),' con el espíritu que lo posee, es correcto que (se le represente con un pájaro) quemando (su nido).
 
-<span id="p338">[<sup><small>pág. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 "Pierde su docilidad de buey con demasiada facilidad y rapidez": hasta el final no quiso escuchar (la verdad sobre el curso que debía seguir).
 
@@ -931,7 +931,7 @@ Sería ventajoso para él tener la <span id="p339"><sup><small>[ p. 339 ]</small
 
 'Ha perdido el hacha con la que ejecutaba sus decisiones': aunque intente ser correcto, habrá maldad.
 
-<span id="p340">[<sup><small>pág. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 [^247]. (Dos símbolos que representan) las aguas de un pantano, uno sobre el otro, forman Tui. El hombre superior, en consonancia con esto, fomenta la conversación entre amigos y estimula su práctica común.
 
@@ -947,7 +947,7 @@ Sería ventajoso para él tener la <span id="p339"><sup><small>[ p. 339 ]</small
 
 6\. 'El SEIS superior, (dividido), muestra el placer (de su sujeto) en liderar y atraer a otros': su (virtud) aún no es brillante.
 
-<span id="p341">[<sup><small>pág. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 [^248]. (El trigrama que representa) el agua y el del viento que se mueve sobre el agua forman Hwân. Los antiguos reyes, en consonancia con esto, presentaban ofrendas a Dios y establecían el templo ancestral.
 
@@ -963,7 +963,7 @@ Sería ventajoso para él tener la <span id="p339"><sup><small>[ p. 339 ]</small
 
 6\. 'Sus heridas sangrientas han desaparecido': está muy alejado del peligro de sufrir lesiones.
 
-<span id="p342">[<sup><small>pág. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 [^249]. (El trigrama que representa) un lago, y sobre él el del agua, forman <i>K</i>ieh. El hombre superior, de acuerdo con esto, construye sus métodos de numeración y medición, y discute puntos de virtud y conducta.
 
@@ -1195,7 +1195,7 @@ Sería ventajoso para él tener la <span id="p339"><sup><small>[ p. 339 ]</small
   Párrafo 5. La enfermedad no debería afectar a quien es completamente sincero. Si ocurre, debe atribuirla a alguna inexplicable voluntad del Cielo. Así como eso afligió, así también curará.
   Párrafo 6. 'Cuando una cosa está terminada y hecha, lo que se requiere es sumisión y aquiescencia, y no nuevos intentos de acción.'
 
-[^215]: 300:XXVI He citado, en la Introducción, [p. 37](Introduction_3#p37), la observación de Kû Hsî sobre el Gran Simbolismo. Khâng-žze dice: «El Cielo es lo más grande de todo, y su ubicación en medio de una montaña nos da la idea de una gran acumulación. Y tan grande es el esfuerzo del hombre superior por aprender, adquirir y recordar para acumular su virtud».
+[^215]: 300:XXVI He citado, en la Introducción, [p. 37](../Introduction_3#p37), la observación de Kû Hsî sobre el Gran Simbolismo. Khâng-žze dice: «El Cielo es lo más grande de todo, y su ubicación en medio de una montaña nos da la idea de una gran acumulación. Y tan grande es el esfuerzo del hombre superior por aprender, adquirir y recordar para acumular su virtud».
   Párrafo 1. La 'calamidad' es la de la oposición o represión por parte del sujeto de la línea 4.
   Párrafo 3. Cuando la acción del hexagrama llega a la línea 6, su labor ha concluido. El sujeto del 6 ya no ejercerá represión, sino que se unirá al del 3, ayudándolo a avanzar.
   Párrafo 4. El tema de la línea 4 ciertamente causa alegría. Sin recurrir al castigo por los crímenes cometidos, anticipándose a ellos por precaución, sin ningún esfuerzo, ha reprimido el mal. La «alegría» da paso en el párrafo 5 a la «felicitación», pues el pueblo está interesado en la acción del gobernante.

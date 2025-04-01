@@ -70,7 +70,7 @@ El primer arrepentimiento de Sofía.
 
 10. Y todos los gobernantes de los eones se burlaron de mí.
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 11. Y yo estaba en aquella región, de luto y buscando la luz que había visto en lo alto.
 
@@ -146,7 +146,7 @@ María se adelantó de nuevo y dijo: «Mi Señor, mi morador de luz tiene oídos
 
 7. Por causa de ti he sufrido vergüenza; la vergüenza ha cubierto mi rostro.
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 8. Me he convertido en un extraño para mis hermanos, un extraño para los hijos de mi madre.
 
@@ -174,7 +174,7 @@ María se adelantó de nuevo y dijo: «Mi Señor, mi morador de luz tiene oídos
 
 20. Mi corazón espera desgracia y miseria; esperé a quien me acompañara en el dolor, pero no pude llegar a él, ni a quien me consolara, y no lo encontré.
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 21. Me pusieron hiel por comida, y en mi sed me dieron a beber vinagre.
 
@@ -206,7 +206,7 @@ María se adelantó de nuevo y dijo: «Mi Señor, mi morador de luz tiene oídos
 
 35. Porque Dios salvará a Sión, y las ciudades de Judea serán reedificadas, y habitarán allí y la heredarán.
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 36. La descendencia de sus siervos la poseerá, y quienes aman su nombre morarán allí.
 
@@ -234,7 +234,7 @@ Jesús continuó de nuevo con el discurso y dijo: "Pistis Sophia continuó de nu
 
 6. Y he tenido fe en ella desde el momento en que me emanó, y tú mismo me hiciste emanar; y he tenido fe en tu luz desde el principio.
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 7. Y cuando tuve fe en ti, los gobernantes de los eones se burlaron de mí, diciendo: «Ha cesado en su misterio». Tú eres **(57)** mi salvador, mi libertador y mi misterio, ¡oh Luz!
 
@@ -250,15 +250,15 @@ Jesús continuó de nuevo con el discurso y dijo: "Pistis Sophia continuó de nu
 
 13. Que quienes quieran arrebatarme mi poder, caigan y se vuelvan impotentes. Que quienes quieran arrebatarme mi poder de luz, queden envueltos en la oscuridad y se hundan en la impotencia.
 
-“Éste es entonces el segundo arrepentimiento que Pistis Sophia ha pronunciado, cantando alabanzas a la Luz”.
+«Éste es entonces el segundo arrepentimiento que Pistis Sophia ha pronunciado, cantando alabanzas a la Luz».
 
 ## CAPÍTULO 36
 
-Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: “¿Entendéis cómo hablo con vosotros?”
+Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: «¿Entendéis cómo hablo con vosotros?»
 
 <small>Pedro se queja de María.</small>
 
-Pedro se adelantó y le dijo a Jesús: <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> “Señor mío, no soportaremos a esta mujer, porque nos quita la oportunidad y no deja hablar a ninguno de nosotros, sino que habla muchas veces.”
+Pedro se adelantó y le dijo a Jesús: <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> «Señor mío, no soportaremos a esta mujer, porque nos quita la oportunidad y no deja hablar a ninguno de nosotros, sino que habla muchas veces.»
 
 Y Jesús respondió y dijo a sus discípulos: «Que aquel en quien el poder de su espíritu arda, de modo que entienda lo que digo, **(58)** pase al frente y hable. Pero ahora, Pedro, veo tu poder en ti, que comprende la solución del misterio del arrepentimiento que Pistis Sophia ha expresado. Ahora, pues, Pedro, expresa el pensamiento de su arrepentimiento en medio de tus hermanos».
 
@@ -292,7 +292,7 @@ Y Pedro respondió y dijo a Jesús: Oh Señor, escucha, para que pueda hablarte 
 
 13. Que se avergüencen y se destruyan quienes calumnian mi alma. Que se cubran de vergüenza y desgracia quienes buscan el mal contra mí.
 
-“Ésta es entonces la solución del segundo arrepentimiento que Pistis Sophia ha pronunciado”.
+«Ésta es entonces la solución del segundo arrepentimiento que Pistis Sophia ha pronunciado».
 
 ## CAPÍTULO 37
 
@@ -320,7 +320,7 @@ Y aconteció que cuando Jesús terminó de decir estas palabras a sus discípulo
 
 Aconteció entonces que, antes de que Jesús terminara de hablar, Marta se adelantó, cayó a sus pies, los besó, clamó a voz en grito y lloró con lamentación y humildad, diciendo: «Señor mío, ten misericordia de mí y ten compasión de mí, y déjame decir la solución del arrepentimiento que Pistis Sophia ha pronunciado».
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Y Jesús le dio la mano a Marta y le dijo: «Bienaventurado todo aquel que se humilla, porque de él alcanzará misericordia. Ahora pues, Marta, bendita eres. Pero proclama entonces la solución del pensamiento del arrepentimiento de Pistis Sophia».
 
@@ -338,7 +338,7 @@ Y Marta respondió y dijo a Jesús en medio de los discípulos: "Con respecto al
 
 5. Pero yo soy desdichado, soy pobre; oh Señor, ayúdame. Tú eres mi ayuda y mi defensa; oh Señor, no tardes.
 
-“Ésta es entonces la solución del tercer arrepentimiento que Pistis Sophia ha pronunciado, cantando alabanzas a la altura”.
+«Ésta es entonces la solución del tercer arrepentimiento que Pistis Sophia ha pronunciado, cantando alabanzas a la altura».
 
 ## CAPÍTULO 39
 
@@ -368,7 +368,7 @@ El cuarto arrepentimiento de Sofía.
 
 “'10. Todo esto me ha sucedido, oh Luz, por tu **(64)** mandamiento y tu mandato, y es tu mandato que yo esté aquí.
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 11. Tu mandamiento me ha derribado, y he descendido como un poder del caos, y mi poder está entumecido en mí.
 
@@ -390,7 +390,7 @@ El cuarto arrepentimiento de Sofía.
 
 “'20. Escuchar los suspiros de los encadenados, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> para liberar el poder de las almas cuyo poder está atado,—
 
-“'21. Para que ponga su nombre en el alma y su misterio en el poder.'”
+«'21. Para que ponga su nombre en el alma y su misterio en el poder.'»
 
 ## CAPÍTULO 40
 
@@ -398,7 +398,7 @@ El cuarto arrepentimiento de Sofía.
 
 Sucedió que mientras Jesús hablaba estas palabras a sus discípulos, diciéndoles: «Este es el cuarto arrepentimiento que Pistis Sophia ha pronunciado; ahora, pues, quien entienda, que entienda», sucedió entonces que, cuando Jesús hubo dicho estas palabras, Juan se adelantó, adoró el pecho de Jesús y le dijo: «Señor mío, dame el mandamiento también a mí, y concédeme hablar la solución del cuarto arrepentimiento que Pistis Sophia ha pronunciado».
 
-Jesús le dijo a Juan: “Te doy el mandamiento y te concedo que digas la solución del arrepentimiento que Pistis Sophia ha pronunciado”.
+Jesús le dijo a Juan: «Te doy el mandamiento y te concedo que digas la solución del arrepentimiento que Pistis Sophia ha pronunciado».
 
 Juan respondió y dijo: «Mi Señor y Salvador, acerca de este arrepentimiento que Pistis Sophia ha pronunciado, tu poder de luz que estaba en David, lo ha profetizado anteriormente en el Salmo ciento uno:
 
@@ -412,7 +412,7 @@ Juan respondió y dijo: «Mi Señor y Salvador, acerca de este arrepentimiento q
 
 4. Estoy quemado como la hierba, y mi corazón se ha secado; porque me he olvidado de comer mi pan.
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 5. A la voz de mi gemido se me pegaron los huesos a la carne.
 
@@ -444,13 +444,13 @@ Juan respondió y dijo: «Mi Señor y Salvador, acerca de este arrepentimiento q
 
 19. Porque ha mirado hacia su santa altura; el Señor ha mirado desde los cielos a la tierra,
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 “'20. Para oír los suspiros **(67)** de los encadenados, para liberar a los hijos de los asesinados,
 
 “21. Para proclamar el nombre del Señor en Sión y su alabanza en Jerusalén.
 
-“Ésta, mi Señor, es la solución del misterio del arrepentimiento que Pistis Sophia ha pronunciado”.
+«Ésta, mi Señor, es la solución del misterio del arrepentimiento que Pistis Sophia ha pronunciado».
 
 <figure class="table chapter-navigator">
   <table>

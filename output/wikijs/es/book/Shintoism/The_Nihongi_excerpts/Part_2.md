@@ -154,11 +154,11 @@ IV. Se abolen los antiguos impuestos y el trabajo forzoso, y se instituye un sis
 
 Para las damas de compañía en el Palacio, que se proporcionen hermanas o hijas de funcionarios del distrito del rango de Shorei o superior, mujeres de buen aspecto (con un sirviente masculino y dos femeninos para atenderlas), y que se asignen 100 casas para proporcionar raciones para una dama de compañía.
 
-“La tela y el arroz suministrados en lugar del servicio se ajustarán, en todos los casos, a las mismas reglas que para los culíes”.
+«La tela y el arroz suministrados en lugar del servicio se ajustarán, en todos los casos, a las mismas reglas que para los culíes».
 
 En este mes, el Emperador ocupó el Palacio de Koshiro, que estaba separado de la ciudad. Envió mensajeros para ordenar a las provincias y distritos que repararan los arsenales. Yemishi acudió y rindió homenaje.
 
-Un libro dice: “El Miyake de Kosbiro, en el pueblo de Sayabe, en Naniba, fue derribado y se erigió un palacio temporal”.
+Un libro dice: «El Miyake de Kosbiro, en el pueblo de Sayabe, en Naniba, fue derribado y se erigió un palacio temporal».
 
 Segundo mes, día 15. El Emperador se dirigió a la Puerta Oriental del Palacio, donde, por orden de Soga, Oho-omi de la Derecha, decretó lo siguiente:
 

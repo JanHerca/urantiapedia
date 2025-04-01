@@ -1,6 +1,6 @@
 ---
 title: "Yasna XLII. Un suplemento a la Haptanghâiti"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -78,4 +78,4 @@ dateCreated: 2025-2-12T13:0:42Z
 
 [^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> apunta a una migración del zoroastrismo, procedente de Occidente (?).
 
-[^1226]: 291:4 Para Yasna XLIII-LI, véase arriba, págs. [98](Historia_43#p98)\-[187](Historia_51#p187).
+[^1226]: 291:4 Para Yasna XLIII-LI, véase arriba, págs. [98](../Historia_43#p98)\-[187](../Historia_51#p187).

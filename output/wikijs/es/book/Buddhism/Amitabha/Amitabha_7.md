@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Durante los preparativos para la guerra contra Magadha, llegaron noticias desde la frontera parta de que las tropas de Gandhâra habían obtenido una victoria decisiva que, sin embargo, fue muy cara, pues el propio rey, quien había sido el principal combatiente, murió gloriosamente en el campo de batalla. La corona pasó entonces a Kanishka, quien consideró su primer deber vencer a los enemigos de su nación. Dejando a los generales de confianza de su hermano al mando del ejército victorioso en Partia, se puso al frente de las tropas destinadas a marchar contra Magadha. Se le pidió a Charaka que lo acompañara en el campo de batalla, y Matura permaneció como canciller del estado.
 
@@ -44,13 +44,13 @@ En ese momento, Kanishka se acercó para despedirse de su hermana; y después de
 
 Mientras el rey y su médico cabalgaban juntos, con la casa a sus espaldas y el enemigo al frente, Kanishka preguntó por el problema que había hecho llorar a Charaka. Y Charaka dijo: «Es culpa mía. Cuando tu hermana se despidió de mí, sentí un amor incipiente por ella en mi alma, y ​​siento que ella me corresponde. Sé que es un pecado, y no cederé a la tentación, pero soy débil, y eso me hizo llorar. Me siento avergonzado».
 
-“¿Crees que el amor es un pecado?” preguntó el rey.
+«¿Crees que el amor es un pecado?» preguntó el rey.
 
-“¿No es el celibato el estado de santidad?”, respondió Charaka, “¿y no es el matrimonio una mera concesión a la mundanidad, instituido para prevenir una confusión aún mayor?”
+«¿No es el celibato el estado de santidad?», respondió Charaka, «¿y no es el matrimonio una mera concesión a la mundanidad, instituido para prevenir una confusión aún mayor?»
 
 —Deberías saber más que yo —continuó Kanishka—, pues te dedicaste a la religión uniéndote a la hermandad, mientras que yo soy un laico y mis nociones religiosas no se basan en un conocimiento más profundo.
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 —¡Ay! —suspiró Charaka—. No soy apto para ser monje. El abad del Vihâra no pudo ayudarme y me aconsejó que Açvaghosha de Magadha, el gran filósofo y santo que, según se dice, comprende la doctrina del Bendito, el Buda, disipara mis dudas y resolviera los problemas de mi alma.
 

@@ -81,7 +81,7 @@ Se dice que Jelāl dijo: “Cuando Shemsu-’d-Dīn llegó por primera vez, y se
 
 “Mis palabras eran, sin embargo, el alimento de mis discípulos; mis pensamientos eran el néctar de mis alumnos. Tenían hambre y sed. Por lo tanto, se engendraron malos sentimientos entre ellos, y una plaga cayó sobre mi maestro.
 
-«Vino a verme otro día mientras yo estaba, por orden suya, estudiando los escritos de mi padre. Tres veces me llamó: “No los estudies». De sus rasgos sagrados fluía el resplandor de la sabiduría espiritual. Dejé el libro y desde entonces nunca lo he abierto”.
+«Vino a verme otro día mientras yo estaba, por orden suya, estudiando los escritos de mi padre. Tres veces me llamó: «No los estudies». De sus rasgos sagrados fluía el resplandor de la sabiduría espiritual. Dejé el libro y desde entonces nunca lo he abierto».
 
 <span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 

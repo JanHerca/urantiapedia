@@ -32,13 +32,13 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 ## VI. TESTAMENTO DEL SANTO PADRE SAN FRANCISCO.
 
 El opúsculo que San Francisco llamó su Testamento es un documento precioso de la más alta autoridad. Renán, en efecto, negó su autenticidad, pero precipitadamente, pues, como bien señala M. Sabatier, [^321] esto no debe cuestionarse. [^322] El Testamento se corresponde plenamente con los demás escritos de San Francisco y, además, revela su carácter y espíritu en cada línea. Pero no nos limitamos a pruebas internas de su autenticidad. Español Todos los historiadores, incluso Tomás de Celano, [^323] y San Buenaventura, [^324] lo mencionan, [^325] mientras que Gregorio IX lo cita textualmente en su bula _Quo elongati_ del 28 de septiembre de 1230. Sabemos por esta bula que el Testamento del Santo fue publicado unos días antes de su muerte [^326]. Todo parece indicar que fue escrito en la ermita de Celle cerca de Cortona, durante la última visita de San Francisco allí (verano de 1226), aunque algunos piensan que fue dictado a Angelo Tancredi, uno de los Tres Compañeros, en la pequeña cabaña más cercana a la Porciúncula que servía de enfermería y en la que murió San Francisco.
 
-Según M. Sabatier, San Francisco escribió más de un testamento. De hecho, el crítico francés llega a afirmar que al final de cada una de sus crisis, el santo renovaba su testamento [^327], y para respaldar esta afirmación cita el capítulo 87 de su propia edición del Speculum Perfectionis, donde leemos que, durante una enfermedad (al parecer en abril de 1226), San Francisco encargó al hermano Benito de Prato que escribiera una bendición y algunos consejos «en señal de memoria, bendición y testamento». Pero, sin duda, de esta narración no podemos deducir la proposición general de que San Francisco escribió «varios testamentos». Las Leyendas antiguas guardan silencio, salvo en lo que respecta al único Testamento que se da aquí, y todos los pasajes que diferentes escritores citan «del Testamento» pueden encontrarse en este, si exceptuamos dos pasajes de la edición de M. Sabatier del Speculum Perfectionis. Pero no es difícil ver que en ambos lugares el Speculum es erróneo. En el capítulo noveno repite incorrectamente lo que el hermano León relata en otra parte [328], y en el capítulo cincuenta y cinco el compilador del Speculum se equivoca aún más, como lo indica claramente una comparación de este capítulo con el capítulo veintisiete de la edición del Padre Lemmen [329] del Speculum. Ambas ediciones del Speculum hablan casi con las mismas palabras del amor de San Francisco por la Iglesia de la Porciúncula. La edición de M. Sabatier dice: «A su muerte, hizo que se escribiera en el Testamento que todos los hermanos debían hacer lo mismo». Mientras que la edición del Padre Lemmens dice lo siguiente: “Hacia su muerte legó esta Iglesia a los hermanos como testamento”.
+Según M. Sabatier, San Francisco escribió más de un testamento. De hecho, el crítico francés llega a afirmar que al final de cada una de sus crisis, el santo renovaba su testamento [^327], y para respaldar esta afirmación cita el capítulo 87 de su propia edición del Speculum Perfectionis, donde leemos que, durante una enfermedad (al parecer en abril de 1226), San Francisco encargó al hermano Benito de Prato que escribiera una bendición y algunos consejos «en señal de memoria, bendición y testamento». Pero, sin duda, de esta narración no podemos deducir la proposición general de que San Francisco escribió «varios testamentos». Las Leyendas antiguas guardan silencio, salvo en lo que respecta al único Testamento que se da aquí, y todos los pasajes que diferentes escritores citan «del Testamento» pueden encontrarse en este, si exceptuamos dos pasajes de la edición de M. Sabatier del Speculum Perfectionis. Pero no es difícil ver que en ambos lugares el Speculum es erróneo. En el capítulo noveno repite incorrectamente lo que el hermano León relata en otra parte [328], y en el capítulo cincuenta y cinco el compilador del Speculum se equivoca aún más, como lo indica claramente una comparación de este capítulo con el capítulo veintisiete de la edición del Padre Lemmen [329] del Speculum. Ambas ediciones del Speculum hablan casi con las mismas palabras del amor de San Francisco por la Iglesia de la Porciúncula. La edición de M. Sabatier dice: «A su muerte, hizo que se escribiera en el Testamento que todos los hermanos debían hacer lo mismo». Mientras que la edición del Padre Lemmens dice lo siguiente: «Hacia su muerte legó esta Iglesia a los hermanos como testamento».
 
 El Testamento se encuentra entre las obras de San Francisco en doce de los códices arriba descritos, [^330] a <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> a saber, los de Asís, [^331] Berlín, Florencia (Ognissanti MSS.), San Floriano, Liegnitz, París (Nat. lib. y Mazarin MSS. 989), Praga y Roma (San Antonio y ambos manuscritos Vaticanos), así como en un manuscrito del siglo XV en La Haya (Municip. lib. cod. K. 54, fol. 3 v). El texto aquí traducido es el del Códice de Asís, cotejado con los de Ognissanti (Florencia) y San Antonio (Roma), y con las versiones del Testamento contenidas en los Monumenta (fol. 274 v) y Firmamenta [^332] (fol. 16 v). Aquí comienza:
 
@@ -101,21 +101,21 @@ Y quienquiera que observe estas cosas [^351], que sea colmado en el cielo con la
 
 [^325]: 79:5 También se cita expresamente en la _Leg. III Soc._ 11 y 29.
 
-[^326]: 79:6 “Circa ultimum vitae suae”, etc. Véase _Bullarium Franc._, t. Yo, pág. 63.
+[^326]: 79:6 «Circa ultimum vitae suae», etc. Véase _Bullarium Franc._, t. Yo, pág. 63.
 
-[^327]: 79:7 “À la fin de chacune de ces crisis, il faisait de nouveau p. 81 son testament”. _Speculum Perf._ (ed. Sabatier), p. xxxiii, nota 2. Véase también _Speculum_ (ed. Lemmens), núm. 30.
+[^327]: 79:7 «À la fin de chacune de ces crisis, il faisait de nouveau p. 81 son testament». _Speculum Perf._ (ed. Sabatier), p. xxxiii, nota 2. Véase también _Speculum_ (ed. Lemmens), núm. 30.
 
 [^328]: 80:1 Ver _S. Francisci Intentio regulae_, nn. 14 y 15, en la _Documenta Antiqua Franciscana_, P. I, p. 97.
 
 [^329]: 80:2 Ver _Documenta Antiqua Franciscana_, P. II, p. 60.
 
-[^330]: 80:3 Véase la página [3](Part_1_1#p3).
+[^330]: 80:3 Véase la página [3](../Part_1_1#p3).
 
 [^331]: 81:1 El texto del Testamento dado por M. Sabatier en su edición del _Speculum Perf._ es el de este manuscrito de Asís.
 
 [^332]: 81:2 También se puede encontrar en el _Speculum Minorum_ (Tract. III, 8 r) y en los _Annales_ de Wadding (ad an. 1226, 35).
 
-[^333]: 81:3 Véase 1 Cel. 17, donde se cita este pasaje del Testamento. Véase también Bonav. _Leg. Maj._, II, 6; y _Leg. III Soc._ 11. Algunos textos, en lugar de “_feci misericordiam cum illis_”, indican “_feci moram cum illis_”: “Viví con ellos”. Véase _Miscell. Franc._, III (1888), p. 70. Es interesante observar aquí cómo San Francisco, en vísperas de su muerte, al repasar los caminos que había recorrido, se detiene en este incidente que marcó una nueva era en su vida.
+[^333]: 81:3 Véase 1 Cel. 17, donde se cita este pasaje del Testamento. Véase también Bonav. _Leg. Maj._, II, 6; y _Leg. III Soc._ 11. Algunos textos, en lugar de «_feci misericordiam cum illis_», indican «_feci moram cum illis_»: «Viví con ellos». Véase _Miscell. Franc._, III (1888), p. 70. Es interesante observar aquí cómo San Francisco, en vísperas de su muerte, al repasar los caminos que había recorrido, se detiene en este incidente que marcó una nueva era en su vida.
 
 [^334]: 81:4 Bacalao. Como. dice "_talem fidem_", "tal fe".
 
@@ -129,30 +129,30 @@ Y quienquiera que observe estas cosas [^351], que sea colmado en el cielo con la
 
 [^339]: 83:2 Véase _Leg. III Soc._ 29, para referencia a este pasaje.
 
-[^340]: 83:3 Bacalao. O. dice: _eramus_ “estábamos contentos”.
+[^340]: 83:3 Bacalao. O. dice: _eramus_ «estábamos contentos».
 
-[^341]: 83:4 Cod. As. omite _qui volebant_, “por aquellos que quisieron”.
+[^341]: 83:4 Cod. As. omite _qui volebant_, «por aquellos que quisieron».
 
-[^342]: 83:5 Firm, y Wadd. añaden: “iglesias pobres y descuidadas”.
+[^342]: 83:5 Firm, y Wadd. añaden: «iglesias pobres y descuidadas».
 
 [^343]: 84:1 Véase Bonav. _Pierna. Mayor_, 111, 2.
 
-[^344]: 84:2 Cod. As. omite “otras cosas”, y O. omite “todas las demás cosas”.
+[^344]: 84:2 Cod. As. omite «otras cosas», y O. omite «todas las demás cosas».
 
 [^345]: 84:3 Ver _Documenta antiqua Franciscana_, P. I, página 98, n. 15, donde se cita este pasaje entre la _Verba quae scripsit Frater Leo_.
 
-[^346]: 84:4 Cod. O. omite “por obediencia”.
+[^346]: 84:4 Cod. O. omite «por obediencia».
 
 [^347]: 84:5 Cod. An. omite esta cláusula.
 
-[^348]: 84:6 Cod. O. omite “ni para una iglesia”.
+[^348]: 84:6 Cod. O. omite «ni para una iglesia».
 
 [^349]: 85:1 El cardenal Ugolino, después Gregorio IX, era entonces obispo de Ostia y protector de la Orden.
 
-[^350]: 86:1 Cod. As. y _Mon._ por “puramente” se lee “sin glosa”; _Firm._ y Wadd. añaden “sin glosa”.
+[^350]: 86:1 Cod. As. y _Mon._ por «puramente» se lee «sin glosa»; _Firm._ y Wadd. añaden «sin glosa».
 
-[^351]: 86:2 Cod. An. y O. leen “esto” en lugar de “estas cosas”.
+[^351]: 86:2 Cod. An. y O. leen «esto» en lugar de «estas cosas».
 
-[^352]: 86:3 Cod. O. añade: “a aquel que hizo que estas palabras se escribieran, sea todo honor, toda alabanza y gloria por los siglos de los siglos”.
+[^352]: 86:3 Cod. O. añade: «a aquel que hizo que estas palabras se escribieran, sea todo honor, toda alabanza y gloria por los siglos de los siglos».
 
 [^353]: 86:4 Véase 1 Cel. 34, para la bendición dada por San Francisco en su lecho de muerte a Elías y a la Orden.

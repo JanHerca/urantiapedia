@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 
 El Maestro llegó a la ciudad de Kausambi, y allí, al principio, se sintió muy feliz. Los habitantes escucharon con entusiasmo sus palabras, y muchos se hicieron monjes. El rey Udayana se encontraba entre los creyentes y permitió que su hijo Rashtrapala ingresara a la comunidad.

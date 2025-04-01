@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## XXV. TRATADO NEDARIM.
 

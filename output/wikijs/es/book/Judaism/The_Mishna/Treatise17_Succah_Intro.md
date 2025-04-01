@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## XVII. TRATADO SUCCAH, O, DE LOS TABERNÁCULOS.
 

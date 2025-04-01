@@ -308,7 +308,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 49-51. Son mis devotos y debo obrar de tal manera que no teman a los Devas». Y entonces exclamó a Jayantî: «¡Oh, hermosa! Deja que mis hijos se refugien en los Dioses; tu período de diez años ha terminado hoy; ahora voy a ver a mis discípulos; pronto volveré a ti».
 
-52. “Que así sea”, respondió Jayantî, el mejor de los que conocen la religión, “puedes ir a donde quieras; no voy a destruir tu Dharma”.
+52. «Que así sea», respondió Jayantî, el mejor de los que conocen la religión, «puedes ir a donde quieras; no voy a destruir tu Dharma».
 
 53-54. Al oír estas palabras, Sukrâchârya se dirigió apresuradamente a los Demonios y vio al Devaguru Brihaspati sentado ante ellos bajo la apariencia de Sukrâchârya. Les explicaba las doctrinas jainistas, compiladas por él mismo, y criticaba la envidia, la venganza, las matanzas y las maldiciones contra los sacrificios, etc.
 
@@ -326,7 +326,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 62\. Este Deva Gurú, aunque es un brahmán, está actuando hoy como un pícaro, queriendo llevarse todo y está engañando a mis discípulos los Daityas, quienes han sido confundidos por su magia.
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavatam, el Mahâpurânam de 18.000 versos sobre engañar a los Daityas de Maharsi Veda Vyâsa.
 
@@ -446,7 +446,7 @@ Aquí termina el Decimocuarto Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 10\. Entonces Indra, aconsejado por su Gurú Brihaspati, comenzó a recordar a la Diosa del Universo, la Altísima, la Dadora de bienestar, la Destructora de todas las penas y calamidades, y la Otorgadora de libertad, a adorarla y a cantarle himnos con gran devoción.
 
-11-12. Indra dijo: —¡Que la victoria sea para el nombre de la Diosa Mahâmâyâ, la Madre Eterna, la Sostenedora del tridente! Sostenedora de la caracola, el disco, la maza y el loto, la Dadora del “no temor”. Saludos a Ti, la Diosa del Universo; Tú eres la Heroína Suprema en todo lo relacionado con la fuerza, que se describe en los S'akti Dars'ana S'âstras. Tú eres los Diez Tattvas, Tú eres la Madre, Tú eres la Mahâvidyâ (el Conocimiento Supremo). <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 13\. Hay muchos Tattvas; aquí los diez tattvas son según el S'akti Dars'ana. Hay muchos Dharma S'âstras. Aquí se hace referencia al S'akti S'âstra.
+11-12. Indra dijo: —¡Que la victoria sea para el nombre de la Diosa Mahâmâyâ, la Madre Eterna, la Sostenedora del tridente! Sostenedora de la caracola, el disco, la maza y el loto, la Dadora del «no temor». Saludos a Ti, la Diosa del Universo; Tú eres la Heroína Suprema en todo lo relacionado con la fuerza, que se describe en los S'akti Dars'ana S'âstras. Tú eres los Diez Tattvas, Tú eres la Madre, Tú eres la Mahâvidyâ (el Conocimiento Supremo). <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 13\. Hay muchos Tattvas; aquí los diez tattvas son según el S'akti Dars'ana. Hay muchos Dharma S'âstras. Aquí se hace referencia al S'akti S'âstra.
 
 Los tattvas son las sustancias últimas en las que se disuelven estas manifestaciones burdas. Los tattvas son Mahavindu, Nâda Sakti, Misra Vindu, etc.
 
@@ -484,7 +484,7 @@ Los tattvas son las sustancias últimas en las que se disuelven estas manifestac
 
 33\. Vyâsa dijo:—Diciendo esto, el conocedor del conocimiento más elevado, Prahlâda, el devoto de Visnu, comenzó a cantar himnos con las manos juntas en alabanza a la Diosa, la Sustentadora del Universo.
 
-34\. Me inclino ante Ti, la encarnación del mantra “Hrîm”, el Refugio de todo, y en Quien todo este Universo, móvil e inmóvil, se manifiesta falsamente, como una serpiente que se confunde con una guirnalda de flores. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 35\. ¡Oh, Diosa! Todos estos Universos, móviles e inmóviles, han surgido de Ti; Brahmâ, Visnu y otros son Creadores, Preservadores solo de nombre; Tú los has creado a todos.
+34\. Me inclino ante Ti, la encarnación del mantra «Hrîm», el Refugio de todo, y en Quien todo este Universo, móvil e inmóvil, se manifiesta falsamente, como una serpiente que se confunde con una guirnalda de flores. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 35\. ¡Oh, Diosa! Todos estos Universos, móviles e inmóviles, han surgido de Ti; Brahmâ, Visnu y otros son Creadores, Preservadores solo de nombre; Tú los has creado a todos.
 
 36\. ¡Oh Mahâmâyâ! ¡Eres la Divina Madre de todo! Si has creado a los Asuras y a los Suras, ¿cómo puedes ver la diferencia entre los Devas y los Daityas?
 

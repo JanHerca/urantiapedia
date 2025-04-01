@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 
 El Maestro estaba envejeciendo. Cuando estaba en Rajagriha, reunió a los monjes y les habló extensamente:

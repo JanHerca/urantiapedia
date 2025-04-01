@@ -108,15 +108,15 @@ Y Jesús, el compasivo, respondió y dijo a María: «María, tú, bendita, a qu
 
 ## CAPÍTULO 18
 
-Entonces María dijo al Salvador: «Señor mío, la palabra que nos has dicho: “Quien **(27)** tenga oídos para oír, que oiga”, la dices para que entendamos lo que has dicho. Escucha, pues, Señor mío, para que pueda hablarte con franqueza.
+Entonces María dijo al Salvador: «Señor mío, la palabra que nos has dicho: «Quien **(27)** tenga oídos para oír, que oiga», la dices para que entendamos lo que has dicho. Escucha, pues, Señor mío, para que pueda hablarte con franqueza.
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 <small>María interpreta el discurso a partir de las palabras de Isaías.</small>
 
 “La palabra que has pronunciado: “He tomado un tercio del poder de los gobernantes de todos los eones y he cambiado su Destino y la esfera sobre la que gobiernan, para que, si la raza de los hombres los invoca en los misterios —aquellos que los ángeles que transgredieron les han enseñado para llevar a cabo sus actos malvados e ilícitos en el misterio de su hechicería—, para que a partir de esta hora ya no puedan llevar a cabo sus actos ilícitos, porque les has quitado su poder a ellos, a sus horóscopos, a sus consultores y a quienes declaran a los hombres en el mundo todas las cosas que han de suceder, para que a partir de esta hora ya no sepan cómo declararles nada en absoluto que haya de suceder (pues has cambiado sus esferas y les has hecho pasar seis meses girados hacia la izquierda y cumpliendo sus influencias, y otros seis meses mirando hacia la derecha y cumpliendo sus influencias), —con respecto a esta palabra entonces, mi Señor, el poder que fue El profeta Isaías habló así y proclamó en otro tiempo en una analogía espiritual, al hablar de la «Visión sobre Egipto»: «¿Dónde están, pues, Egipto, tus consultores, tus adivinos, los que claman **(28)** desde la tierra y los que claman desde su vientre? ¡Que te declaren desde ahora las obras que hará el Señor de los ejércitos!»
 
-El poder que residía en el profeta Isaías profetizó antes de tu llegada que arrebatarías el poder a los gobernantes de los eones y cambiarías su esfera y su destino, para que no supieran nada de ahora en adelante. Por esta razón también se ha dicho: «No sabréis entonces lo que hará el señor Sabaoth»; es decir, ninguno de los gobernantes sabrá lo que harás de ahora en adelante, pues ellos son «Egipto», porque son materia. El poder que residía en Isaías profetizó sobre ti en el pasado, diciendo: «De ahora en adelante no sabréis lo que hará el señor Sabaoth». Por la fuerza de la luz que recibiste de Sabaoth, el Bueno, que está en la región de la Derecha, y que está hoy en tu cuerpo material, por esta causa, mi Señor Jesús, nos has dicho: “El que tenga oídos para oír, que oiga”, para que puedas saber qué corazón se eleva ardientemente hacia el reino de los cielos.
+El poder que residía en el profeta Isaías profetizó antes de tu llegada que arrebatarías el poder a los gobernantes de los eones y cambiarías su esfera y su destino, para que no supieran nada de ahora en adelante. Por esta razón también se ha dicho: «No sabréis entonces lo que hará el señor Sabaoth»; es decir, ninguno de los gobernantes sabrá lo que harás de ahora en adelante, pues ellos son «Egipto», porque son materia. El poder que residía en Isaías profetizó sobre ti en el pasado, diciendo: «De ahora en adelante no sabréis lo que hará el señor Sabaoth». Por la fuerza de la luz que recibiste de Sabaoth, el Bueno, que está en la región de la Derecha, y que está hoy en tu cuerpo material, por esta causa, mi Señor Jesús, nos has dicho: «El que tenga oídos para oír, que oiga», para que puedas saber qué corazón se eleva ardientemente hacia el reino de los cielos.
 
 
 ## CAPÍTULO 19
@@ -127,7 +127,7 @@ Jesús elogia a María. Ella le pregunta además sobre el cambio de esferas.
 
 Cuando María oyó al Salvador decir estas palabras, se regocijó mucho, y vino ante Jesús, se postró ante él, adoró sus pies y le dijo: «Señor mío, escúchame para que te pregunte sobre esta palabra, antes de que nos hables de las regiones adonde has ido».
 
-Jesús respondió y dijo a María: “Habla abiertamente y no temas; todo lo que preguntes te lo revelaré”.
+Jesús respondió y dijo a María: «Habla abiertamente y no temas; todo lo que preguntes te lo revelaré».
 
 ## CAPÍTULO 20
 

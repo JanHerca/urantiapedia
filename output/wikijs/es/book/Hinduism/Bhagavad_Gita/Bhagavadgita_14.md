@@ -40,7 +40,7 @@ Ar<i>g</i>una dijo:
 
 ¿Cuáles son, oh señor, las características de quien ha trascendido estas tres cualidades? ¿Cuál es su conducta y cómo las trasciende? [^459]
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 La Deidad dijo:
 
@@ -81,7 +81,7 @@ EspañolSe dice que ha trascendido las cualidades, ¡oh hijo de Pându!, aquel q
 
 [^445]: 107:1 Es decir, 'no son destruidos', Madhusûdana; 'no caen', <i>S</i>ankara; 'no nacen', <i>S</i>rîdhara, y aparentemente Râmânu<i>g</i>a.
 
-[^446]: 107:2 Es decir, la “naturaleza” de la que se habló antes.
+[^446]: 107:2 Es decir, la «naturaleza» de la que se habló antes.
 
 [^447]: 107:3 Estas constituyen la naturaleza. Debemos entender la naturaleza, con el profesor Bhâ<i>nd</i>ârkar, como la causa hipotética de que el alma se sienta limitada y condicionada. Si se entiende por naturaleza, como suele hacerse, materia, su composición de cualidades resulta inexplicable. Interpretada idealmente, como sugiere el profesor Bhâ<i>nd</i>ârkar, la destrucción de la cual se habla al final del último capítulo también se hace inteligible. Mediante el conocimiento del alma, se comprende la irrealidad de estas manifestaciones y se destruye la naturaleza.
 
@@ -107,7 +107,7 @@ EspañolSe dice que ha trascendido las cualidades, ¡oh hijo de Pându!, aquel q
 
 [^458]: 109:4 Es decir, lo que antes se ha llamado Kshetragña, el principio supervisor dentro de uno.
 
-[^459]: 109:5 Los cuerpos son desarrollos de las cualidades, dicen los comentaristas, lo cual no es incompatible con la explicación de las cualidades dada anteriormente. En cuanto a las cualidades trascendentes, cf. [p. 48](Bhagavadgita_2#p48) supra.
+[^459]: 109:5 Los cuerpos son desarrollos de las cualidades, dicen los comentaristas, lo cual no es incompatible con la explicación de las cualidades dada anteriormente. En cuanto a las cualidades trascendentes, cf. [p. 48](../Bhagavadgita_2#p48) supra.
 
 [^460]: 109:6 Cf. en cuanto a lo que sigue a lo que se dice en el capítulo II acerca de 'aquel cuya mente está firme'.
 
@@ -117,10 +117,10 @@ EspañolSe dice que ha trascendido las cualidades, ¡oh hijo de Pându!, aquel q
 
 [^463]: 110:3 Es decir, de su determinación de buscar la verdad, mediante placeres o dolores mundanos.
 
-[^464]: 110:4 Cfr. [pag. 55](Bhagavadgita_3#p55) supra.
+[^464]: 110:4 Cfr. [pag. 55](../Bhagavadgita_3#p55) supra.
 
 [^465]: 110:5 Intención sólo en sí misma.
 
-[^466]: 110:6 Para el pasaje completo, cf. [p. 101](Bhagavadgita_12#p101) supra.
+[^466]: 110:6 Para el pasaje completo, cf. [p. 101](../Bhagavadgita_12#p101) supra.
 
 [^467]: 110:7 Nîlaka<i>nth</i>a interpreta esto como «el objeto último de los Vedas». Aquí, K<i>nth</i>sh<i>n</i>a. <i>S</i>rîdhara sugiere este paralelo: así como la luz encarnada es el sol, así también el Brahman encarnado es idéntico a Vâsudeva.

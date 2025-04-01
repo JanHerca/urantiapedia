@@ -50,7 +50,7 @@ Puesto que aceptar (regalos) lleva al infierno, uno no debe aceptar ni siquiera 
 
 Aquí algunos opinan que se liberarán de toda miseria con sólo asistir al maestro [^109], sin abstenerse de los pecados. (8)
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Reconociendo la verdad sobre la esclavitud y la liberación, pero sólo hablando, no actuando (de acuerdo con estos principios), buscan consuelo para sí mismos en palabras poderosas. (9)
 
@@ -66,7 +66,7 @@ Reconociendo la causa del Karman, uno debe vagar esperando su muerte; (conociend
 
 El asceta no debe guardar nada, ni siquiera tan poco como la grasa (que se pega a su cuenco de limosnas); sino, como un pájaro con su plumaje [^111], así él con su cuenco de limosnas debe vagar sin deseos. (15)
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Recibiendo limosna de una manera que evite faltas [^112], y controlándose a sí mismo, uno debe vagar por un pueblo (etc.) sin residencia fija; cuidadoso entre los descuidados uno debe mendigar su comida. (16)
 
@@ -110,7 +110,7 @@ Así lo digo.
 
 [^107]: 25:2 Sapêhâê pâsê = svaprêkshayâ pa<i>s</i>yêt, debe observarlo con la mente o reflexivamente. Sin embargo, sapêhâê suele ser el participio absoluto samprêkshya. El significado es el mismo en ambos casos.
 
-[^108]: 25:3 Algunos manuscritos insertan aquí el siguiente verso: “Los muebles y los bienes muebles, el maíz y los muebles no pueden liberar del dolor a un hombre que sufre por sus actos”.
+[^108]: 25:3 Algunos manuscritos insertan aquí el siguiente verso: «Los muebles y los bienes muebles, el maíz y los muebles no pueden liberar del dolor a un hombre que sufre por sus actos».
 
 [^109]: 25:4 Este es según los comentaristas el significado de la palabra dôgu<i>ñ</i><i>kh</i>î = <i>g</i>ugupsin.
 

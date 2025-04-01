@@ -109,7 +109,7 @@ Concederías mi primera y segunda oración.
 Aquellos a quienes se les ofrecieron favores, se comprometieron contigo entonces,
 Ahora exijo, oh Rey de los hombres,
 
-<span id="p103">[<sup><small>pág. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 De ti, oh Monarca, bueno y justo,
 Cuya alma justa observa cada confianza.
@@ -232,7 +232,7 @@ El orgullo de la raza de Manu él lo ata
 A él, las mentes agradecidas del pueblo.
 Conquista a los súbditos con su verdad,
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Los pobres con dones y gentileza,
 Sus maestros con su dócil voluntad,
@@ -356,7 +356,7 @@ A la gente, señor, y a Bharat también.
 Oh malvada traidora, feroz y vil,
 ¿Quién ama las obras pecaminosas y engañosas,
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 ¿Qué crimen o agravio ves,
 ¿Qué falla hay en Ráma o en mí?
@@ -481,7 +481,7 @@ Pronto gobernarás como emperatriz.
 Mi noble casa se desvela antes.
 Pero luego quedó una gran confusión,
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 De Ráma y de mí, despojado.
 Si Bharat consiente tu plan
@@ -594,7 +594,7 @@ Con la ira ardiendo en su pecho,
 Se hundió por un rato bajo el dolor,
 Entonces Kaikeyí le habló nuevamente:
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 'Sin hijos por tanto tiempo, al final gané,
 Con gran esfuerzo, del Cielo un hijo,
@@ -714,7 +714,7 @@ Con textos, ante la llama sagrada,
 A ti y a tu hijo os desprecio y os odio,
 Y todos a la vez repudiar.
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 La noche ha huido: el alba está cerca:
 Pronto estarán aquí los santos sacerdotes.
@@ -839,7 +839,7 @@ Las alabanzas de su señor y rey:
 El mar centelleante deleita nuestros ojos,
 Despierta, tranquilo, con alma gentil, y así
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Concédenos, Rey poderoso, el éxtasis.
 Como Mátali [^279] esta misma hora
@@ -961,7 +961,7 @@ Con ramas lechosas superpuestas,
 Todo rebosante de cada inundación sagrada,
 Y adornado con muchos capullos de loto
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Y bailarinas hermosas y libres,
 Alegres con sus gemas, estaban allí para ver,
@@ -1087,7 +1087,7 @@ Se regocijó cuando se acercó.
 Y de alegría su pecho se hinchó.
 Mientras seguía adelante con su rumbo,
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 A través de muchas cortes suntuosas
 Como el palacio de Indra, noblemente construido,
@@ -1208,7 +1208,7 @@ Tuyo por el alto decreto de tu padre,
 Como Él, quien formó y planificó los mundos,
 La realeza pasó a manos de Indra.
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Entonces mis ojos adorarán a mi rey.
 Cuando los ritos lustrales y el ayuno hayan terminado,
@@ -1287,9 +1287,9 @@ De todos los que separan el suave cabello oscuro,
 Su amor, su vida, poseía todo.
 Del corazón y del alma de su joven héroe:
 'Asegúrate de que el destino de la dama pague.
-Algún poderoso voto de días antiguos, [1b](Libro_2_20#fn283)
+Algún poderoso voto de días antiguos, [1b](../Libro_2_20#fn283)
 Porque ella está bendecida con el amor de Rama.
-Como, con la dulce Rohiní de la Luna. [2b](Libro_2_20#fn284)
+Como, con la dulce Rohiní de la Luna. [2b](../Libro_2_20#fn284)
 
 Tales fueron las palabras de brujas que vinieron
 De labios de muchas damas sin igual
@@ -1327,7 +1327,7 @@ Y nos han mostrado su amoroso cuidado:
 Así benditos permaneceremos nosotros y los nuestros,
 Sí, aún más bendecido en el reinado de Rama.
 
-<span id="p113">[<sup><small>pág. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Ya no necesitamos más comidas delicadas,
 Y sólo un objeto preciado atiende,
@@ -1374,7 +1374,7 @@ Me quedé mirando en la calle,
 Y su regreso con ojos ansiosos
 Esperado en las puertas,
 En cuanto a que su querida luna salga
-El Rey de los Ríos [1](Libro_2_20#fn285) espera.
+El Rey de los Ríos [1](../Libro_2_20#fn285) espera.
 
 
 
@@ -1449,7 +1449,7 @@ El padre a quien debe su nacimiento
 Debería ser su deidad en la tierra.
 ¿Te has movido por el orgullo y la necedad,
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ¿Con amarga burla el rey reprendió?
 Tiene desprecio por ti o broma cruel
@@ -1576,7 +1576,7 @@ Que sus propios labios no han expresado
 Su voluntad, ni dio a conocer su anhelo
 Que Bharat ascienda al trono.
 
-<span id="p115">[<sup><small>pág. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 A Bharat le entregaría mi esposa,
 Mi reino y mi riqueza, mi querida vida,
@@ -1702,7 +1702,7 @@ Sobre el espléndido rostro del héroe.
 Tampoco lo había hecho el jefe, poderosamente armado.
 Perdieron la mirada brillante todos los corazones que encantaban,
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Como se arroja desde las lunas de otoño
 Un esplendor que les es propio.
@@ -1813,7 +1813,7 @@ Ella besó en la cabeza:
 Ella lo bendijo en su orgullo y alegría.
 Con tiernas palabras, y dijo:
 
-<span id="p117">[<sup><small>pág. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 “Sé como tus antiguos reyes,
 ¡Los nobles buenos, los de alma elevada!
@@ -1844,7 +1844,7 @@ Pasar dos veces siete años en soledad.
 En manos de Bharat el rey se rendirá.
 El poder regente que pensé ejercer,
 Y a mí, un ermitaño, ¿me enviará?
-“Pasar mis días en el bosque de Dandak”.
+«Pasar mis días en el bosque de Dandak».
 
 Como cuando el hacha del leñador ha cortado
 Una rama de S'al en el bosque, ella dejó caer:
@@ -1938,7 +1938,7 @@ Antes de que su hora la muerte hubiera huido,
 Estoy de luto, como una vaca desconsolada,
 Había estado este día entre los muertos”.
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 
 <figure class="table chapter-navigator">

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Declaración de Sze-mâ <i>Kh</i>ien.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 ## XIX. TRATADO DE ROSH HASHANÁ, O, DEL AÑO NUEVO.
 

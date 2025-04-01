@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 5\. [^502] Él dice, 'NN!'—cuál es su nombre.
 
-6\. [^503] (El maestro dice): “Felizmente, dios Savit_ri_, pueda alcanzar la meta con este NN”—aquí pronuncia los dos nombres (del estudiante).
+6\. [^503] (El maestro dice): «Felizmente, dios Savit_ri_, pueda alcanzar la meta con este NN»—aquí pronuncia los dos nombres (del estudiante).
 
 7\. [^504] Con (el verso), «Que las diosas nos protejan para la dicha; que las aguas nos den de beber. Que nos inunden de dicha y felicidad» —ambos se secan. <span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
@@ -92,7 +92,7 @@ Y (de nuevo las fórmulas),
 
 4\. [^512] Acercando su boca a la del niño, murmura: «Que Indra te dé inteligencia, que la diosa Sarasvati te la conceda. Que los dos Asvins, coronados de loto, te concedan inteligencia».
 
-5\. [^513] Luego le da (al niño) a cargo (de los dioses y demonios, con las fórmulas), 'A Kashaka (?) te <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> te doy a cargo. A Antaka te doy a cargo. A Aghora (“el no temible”) te doy a cargo. A la Enfermedad . . . a Yama . . . a Makha . . . a Va<i>s</i>inî (“la diosa gobernante”) . . . a la tierra junto con Vai<i>s</i>vânara . . . a las aguas . . . a las hierbas . . . a los árboles . . . al Cielo y la Tierra . . . al bienestar . . . al brillo sagrado . . . a los devas Visve... a todos los seres... a todas las deidades te encargo.'
+5\. [^513] Luego le da (al niño) a cargo (de los dioses y demonios, con las fórmulas), 'A Kashaka (?) te <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> te doy a cargo. A Antaka te doy a cargo. A Aghora («el no temible») te doy a cargo. A la Enfermedad . . . a Yama . . . a Makha . . . a Va<i>s</i>inî («la diosa gobernante») . . . a la tierra junto con Vai<i>s</i>vânara . . . a las aguas . . . a las hierbas . . . a los árboles . . . al Cielo y la Tierra . . . al bienestar . . . al brillo sagrado . . . a los devas Visve... a todos los seres... a todas las deidades te encargo.'
 
 6\. [^514] Ahora le enseña el Sâvitrî, ​​si ya ha sido iniciado antes.
 
@@ -106,7 +106,7 @@ Y (de nuevo las fórmulas),
 
 11\. Tras recitarle (al niño el verso), «Te llamamos, señor de los ejércitos» (Taitt. Samh. II, 3, 14, 3), le recita (el Sâvitrî), primero Pâda por Pâda, luego hemistiquio por hemistiquio, y finalmente el verso completo (de la siguiente manera):
 
-<span id="p155">[<sup><small>pág. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 ¡Bhûs! Tat Savitur vare<i>n</i>ya<i>m</i> (Ese adorable esplendor)—
 
@@ -158,9 +158,9 @@ Y (de nuevo las fórmulas),
 
 17\. [^525] Luego, que mendigue en otras casas donde haya buena disposición hacia él.
 
-18\. Lleva (la comida que ha recibido) a su Gurú (es decir, al maestro) y se lo anuncia diciendo: “(Estas son) las limosnas”.
+18\. Lleva (la comida que ha recibido) a su Gurú (es decir, al maestro) y se lo anuncia diciendo: «(Estas son) las limosnas».
 
-19\. (El maestro lo acepta) con las palabras: “Son buenas limosnas”.
+19\. (El maestro lo acepta) con las palabras: «Son buenas limosnas».
 
 20\. [^526] «Que todos los dioses te bendigan, cuya primera prenda aceptamos. Que después de ti, el próspero, el bien nacido, nazcan muchos hermanos y amigos». Con este verso, el maestro toma la prenda anterior del estudiante.
 
@@ -255,7 +255,7 @@ Fin del segundo Pa<i>t</i>ala.
 
 [^501]: 150:2 2 y siguientes. Comp. Gobhila II, 20, 21 y siguientes; Pâraskara II, 2, 6; <i>S</i>âṅkhâyana II, 2, 4, etc.
 
-[^502]: 150:5 Mât<i>ri</i>datta, 'Como se dice a continuación, “él pronuncia sus dos nombres” (Sûtra 6), el estudiante debe aquí también pronunciar sus dos nombres, por ejemplo, “Soy Devadatta, Kârttika”.'
+[^502]: 150:5 Mât<i>ri</i>datta, 'Como se dice a continuación, «él pronuncia sus dos nombres» (Sûtra 6), el estudiante debe aquí también pronunciar sus dos nombres, por ejemplo, «Soy Devadatta, Kârttika».'
 
 [^503]: 150:6 'Su nombre común (vyâvahârika) y su nombre Nakshatra'. Mât<i>ri</i>datta.
 
@@ -289,7 +289,7 @@ Fin del segundo Pa<i>t</i>ala.
 
 [^518]: 156:5 Comp. arriba, I, 1, 2, 7 seq.
 
-[^519]: 156:6 Él dice: “¡Anumati! ¡Has dado tu consentimiento!”, etc.
+[^519]: 156:6 Él dice: «¡Anumati! ¡Has dado tu consentimiento!», etc.
 
 [^520]: 156:8 8 seq. Comp. Gobhila II, 10,
 

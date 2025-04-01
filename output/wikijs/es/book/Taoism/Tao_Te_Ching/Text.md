@@ -26,6 +26,8 @@ dateCreated: 2025-2-12T12:58:44Z
   </table>
 </figure>
 
+<a id="c1"></a>
+
 ## 1
 
 <p style="text-align:center;">
@@ -47,6 +49,8 @@ Se lleva a cabo y recibe diferentes nombres. Juntos los llamamos<br>
 El Misterio. Donde el Misterio es más profundo está la puerta de todo.
 Es sutil y maravilloso.<br>
 </p>
+
+<a id="c2"></a>
 
 ## 2
 
@@ -77,6 +81,8 @@ El trabajo está hecho, pero nadie puede ver cómo;
 "Es esto lo que hace que el poder no deje de existir."
 </p>
 
+<a id="c3"></a>
+
 ## 3
 
 <p style="text-align:center;">
@@ -96,6 +102,8 @@ de presumir de actuar (en consecuencia). Cuando existe esta abstinencia de<br>
 acción, el buen orden es universal.<br>
 </p>
 
+<a id="c4"></a>
+
 ## 4
 
 <p style="text-align:center;">
@@ -112,6 +120,8 @@ Acuerdo con la oscuridad de los demás. ¡Cuán puro y sereno es el Tao!
 No sé de quién es hijo. Parece que fue antes.
 Dios.<br>
 </p>
+
+<a id="c5"></a>
 
 ## 5
 
@@ -130,6 +140,8 @@ Mucho discurso nos lleva al agotamiento rápido, como vemos;
 Tu ser interior lo protege y lo mantiene libre.
 </p>
 
+<a id="c6"></a>
+
 ## 6
 
 <p style="text-align:center;">
@@ -140,6 +152,8 @@ Se llama la raíz de donde crecieron el cielo y la tierra.
 Su poder perdura por mucho tiempo e ininterrumpido,
 Úselo con suavidad y sin causar dolor.<br>
 </p>
+
+<a id="c7"></a>
 
 ## 7
 
@@ -154,6 +168,8 @@ el primer lugar; trata a su persona como si le fuera ajena,
 Y aun así esa persona se conserva. ¿No es porque no tiene<br>
 fines personales y privados, ¿por lo tanto tales fines se realizan?
 </p>
+
+<a id="c8"></a>
 
 ## 8
 
@@ -173,6 +189,8 @@ Y cuando (uno con la más alta excelencia) no discute (sobre<br>
 su baja posición), nadie le encuentra ningún defecto.<br>
 </p>
 
+<a id="c9"></a>
+
 ## 9
 
 <p style="text-align:center;">
@@ -185,6 +203,8 @@ Seguro. Cuando la riqueza y los honores conducen a la arrogancia, esta trae cons
 Sobre sí mismo. Cuando el trabajo está hecho, y el nombre de uno se está convirtiendo en...
 distinguido, retirarse a la oscuridad es el camino del Cielo.
 </p>
+
+<a id="c10"></a>
 
 ## 10
 
@@ -205,8 +225,10 @@ La inteligencia llega a todas direcciones, ¿no puede (parecer) ser?
 (El Tao) produce (todas las cosas) y las nutre; produce<br>
 ellos y no los reclama como propios; hace todo, y sin embargo no los hace.
 se jacta de ello; preside sobre todos, y sin embargo no los controla.<br>
-Esto es lo que se llama “La Cualidad Misteriosa” (del Tao).
+Esto es lo que se llama «La Cualidad Misteriosa» (del Tao).
 </p>
+
+<a id="c11"></a>
 
 ## 11
 
@@ -219,6 +241,8 @@ para formar un apartamento; pero es en el espacio vacío (dentro), que su<br>
 El uso depende. Por lo tanto, lo que tiene una existencia (positiva) sirve para
 adaptación rentable, y lo que no tiene esa utilidad (real).
 </p>
+
+<a id="c12"></a>
 
 ## 12
 
@@ -234,6 +258,8 @@ Por eso el sabio busca satisfacer (el anhelo del) vientre, y
 No el (anhelo insaciable de los) ojos. Él aparta de sí el<br>
 este último, y prefiere buscar lo primero.
 </p>
+
+<a id="c13"></a>
 
 ## 13
 
@@ -260,6 +286,8 @@ administrarlo con el amor que tiene a su propia persona puede ser<br>
 confiado a él.<br>
 </p>
 
+<a id="c14"></a>
+
 ## 14
 
 <p style="text-align:center;">
@@ -281,6 +309,8 @@ Está de vuelta. Cuando podemos aferrarnos al Tao de antaño para dirigir las co
 del presente, y son capaces de conocerlo como era en la antigüedad en el<br>
 Al principio, esto se llama (desenrollar) la clave del Tao.<br>
 </p>
+
+<a id="c15"></a>
 
 ## 15
 
@@ -306,6 +336,8 @@ ellos mismos). Es a través de no estar llenos de sí mismos que<br>
 Pueden permitirse el lujo de parecer desgastados y no nuevos y completos.
 </p>
 
+<a id="c16"></a>
+
 ## 16
 
 <p style="text-align:center;">
@@ -329,6 +361,8 @@ En el cielo, posee el Tao. Poseído por el Tao, perdura por mucho tiempo.
 y hasta el final de su vida corporal, está exento de todo peligro de descomposición.
 </p>
 
+<a id="c17"></a>
+
 ## 17
 
 <p style="text-align:center;">
@@ -344,6 +378,8 @@ Su trabajo fue realizado y sus empresas tuvieron éxito, mientras que el
 La gente decía: "¡Somos como somos, por nosotros mismos!"
 </p>
 
+<a id="c18"></a>
+
 ## 18
 
 <p style="text-align:center;">
@@ -355,6 +391,8 @@ Cuando la armonía ya no prevalecía entre los seis parentescos,
 Los hijos filiales encontraron su manifestación; cuando los estados y los clanes cayeron<br>
 En el desorden aparecieron ministros leales.
 </p>
+
+<a id="c19"></a>
 
 ## 19
 
@@ -372,6 +410,8 @@ Y hicieron que estos nombres ocultaran su falta de valor;
 Pero vistas sencillas y cursos claros y verdaderos
 Evitaría los fines egoístas y muchos deseos.
 </p>
+
+<a id="c20"></a>
 
 ## 20
 
@@ -402,6 +442,8 @@ Solo yo parezco torpe e incapaz, como un rudo fronterizo. (Así) solo yo<br>
 Soy diferente de los demás hombres, pero valoro a la madre lactante (el Tao).
 </p>
 
+<a id="c21"></a>
+
 ## 21
 
 <p style="text-align:center;">
@@ -426,6 +468,8 @@ Las cosas se forman y nunca conocen la descomposición.
 esta (naturaleza del Tao).<br>
 </p>
 
+<a id="c22"></a>
+
 ## 22
 
 <p style="text-align:center;">
@@ -441,9 +485,11 @@ reconocido; de la autocomplacencia, y por lo tanto adquiere<br>
 superioridad. Es porque está así libre de esforzarse que<br>
 Por lo tanto, nadie en el mundo es capaz de competir con él.
 <br>
-Ese dicho de los antiguos de que “lo parcial se vuelve completo” era<br>
+Ese dicho de los antiguos de que «lo parcial se vuelve completo» era<br>
 no dicho en vano:—toda verdadera consumación está comprendida en ello.<br>
 </p>
+
+<a id="c23"></a>
 
 ## 23
 
@@ -468,6 +514,8 @@ En su fracaso también tienen la felicidad de alcanzar (el Tao).<br>
 La fe (en él) surge (por parte de los demás).<br>
 </p>
 
+<a id="c24"></a>
+
 ## 24
 
 <p style="text-align:center;">
@@ -479,6 +527,8 @@ Al engreído no se le permite superioridad alguna. Tales condiciones, vistas
 Desde el punto de vista del Tao, son como restos de comida o un tumor.
 en el cuerpo, lo cual a todos les disgusta. Por lo tanto, quienes siguen (el curso)<br>
 del Tao no los adoptéis ni los permitáis.</p>
+
+<a id="c25"></a>
 
 ## 25
 
@@ -504,6 +554,8 @@ El Cielo; el Cielo toma su ley del Tao. La ley del Tao es su
 siendo lo que es.<br>
 </p>
 
+<a id="c26"></a>
+
 ## 26
 
 <p style="text-align:center;">
@@ -517,6 +569,8 @@ ellos. ¿Cómo podría el señor de una miríada de carros portarse con ligereza
 ¿Ante el reino? Si actúa a la ligera, ha perdido su raíz (de<br>
 gravedad); si procede al movimiento activo, perderá su trono.<br>
 </p>
+
+<a id="c27"></a>
 
 ## 27
 
@@ -538,6 +592,8 @@ su señor, y el otro no se alegró de su ayudador, un<br>
 (El observador), aunque inteligente, podría equivocarse mucho al respecto. Esto es<br>
 llamado 'El máximo grado de misterio'.
 </p>
+
+<a id="c28"></a>
 
 ## 28
 
@@ -569,6 +625,8 @@ Oficiales (del gobierno); y en sus mayores regulaciones emplea<br>
 No se permiten medidas violentas.<br>
 </p>
 
+<a id="c29"></a>
+
 ## 29
 
 <p style="text-align:center;">
@@ -587,6 +645,8 @@ La tienda en ruinas se burla de nuestro trabajo.
 Por lo tanto, el sabio deja de lado el esfuerzo excesivo, la extravagancia y la facilidad.
 indulgencia.<br>
 </p>
+
+<a id="c30"></a>
 
 ## 30
 
@@ -609,6 +669,8 @@ Cuando las cosas han alcanzado su fuerte madurez se vuelven viejas.
 Se puede decir que esto no está de acuerdo con el Tao: y lo que no lo está
 de acuerdo con ello pronto llega a su fin.<br>
 </p>
+
+<a id="c31"></a>
 
 ## 31
 
@@ -635,6 +697,8 @@ Deberíamos llorar por ellos con el más amargo dolor; y el vencedor en
 La batalla tiene su lugar (correctamente) según esos ritos.<br>
 </p>
 
+<a id="c32"></a>
+
 ## 32
 
 <p style="text-align:center;">
@@ -657,6 +721,8 @@ La relación del Tao con todo el mundo es como la del gran
 ríos y mares hasta los arroyos de los valles.<br>
 </p>
 
+<a id="c33"></a>
+
 ## 33
 
 <p style="text-align:center;">
@@ -668,6 +734,8 @@ sigue actuando con energía tiene una voluntad (firme).<br>
 El que no falla en las exigencias de su puesto, continúa
 largo; el que muere y sin embargo no perece, tiene longevidad.<br>
 </p>
+
+<a id="c34"></a>
 
 ## 34
 
@@ -689,6 +757,8 @@ Logros. Es al no engrandecerse que puede<br>
 cumplirlos.<br>
 </p>
 
+<a id="c35"></a>
+
 ## 35
 
 <p style="text-align:center;">
@@ -701,6 +771,8 @@ Pero aunque el Tao tal como sale de la boca, parece insípido y tiene
 Sin sabor, aunque no parezca que valga la pena mirarlo ni escucharlo,
 Su uso es inagotable.<br>
 </p>
+
+<a id="c36"></a>
 
 ## 36
 
@@ -717,6 +789,8 @@ Lo blando vence a lo duro; y lo débil a lo fuerte.
 Los peces no deben sacarse de las profundidades; los instrumentos para el
 Los beneficios de un Estado no deben mostrarse al pueblo.
 </p>
+
+<a id="c37"></a>
 
 ## 37
 
@@ -735,6 +809,8 @@ Está libre de todo objetivo externo.
 Sin deseos, en reposo y quieto,
 Todas las cosas van bien según su voluntad.
 </p>
+
+<a id="c38"></a>
 
 ## 38
 
@@ -773,6 +849,8 @@ Lo frágil habita en el fruto y no en la flor. Es
 de manera que desecha uno y escoge el otro.
 </p>
 
+<a id="c39"></a>
+
 ## 39
 
 <p style="text-align:center;">
@@ -808,6 +886,8 @@ De aspecto elegante como el jade, pero (prefiero) tener un aspecto tosco como un
 piedra (ordinaria).<br>
 </p>
 
+<a id="c40"></a>
+
 ## 40
 
 <p style="text-align:center;">
@@ -819,6 +899,8 @@ De las poderosas hazañas de Tao.
 Todas las cosas bajo el cielo surgieron de Él como existentes (y nombradas);
 que la existencia surgió de Él como inexistente (y no nombrada).<br>
 </p>
+
+<a id="c41"></a>
 
 ## 41
 
@@ -850,6 +932,8 @@ hábil para impartir (a todas las cosas lo que necesitan) y hacerlas
 completo.<br>
 </p>
 
+<a id="c42"></a>
+
 ## 42
 
 <p style="text-align:center;">
@@ -870,6 +954,8 @@ No mueran de muerte natural. Haré de esto la base de mi
 enseñanza.<br>
 </p>
 
+<a id="c43"></a>
+
 ## 43
 
 <p style="text-align:center;">
@@ -881,6 +967,8 @@ No hay resquicio alguno. Sé por esto qué ventaja tiene no hacer nada.
 Son pocos en el mundo los que alcanzan la enseñanza sin
 palabras y la ventaja que surge de la no acción.
 </p>
+
+<a id="c44"></a>
 
 ## 44
 
@@ -907,6 +995,8 @@ Libre de peligro<br>
 Larga vida será.
 </p>
 
+<a id="c45"></a>
+
 ## 45
 
 <p style="text-align:center;">
@@ -922,6 +1012,8 @@ La acción constante vence al frío; la quietud vence al calor. Pureza<br>
 y la quietud da la ley correcta a todos los que están bajo el cielo.<br>
 </p>
 
+<a id="c46"></a>
+
 ## 46
 
 <p style="text-align:center;">
@@ -935,6 +1027,8 @@ El deseo de obtener. Por lo tanto, la suficiencia del contentamiento es
 una suficiencia duradera e inmutable.
 </p>
 
+<a id="c47"></a>
+
 ## 47
 
 <p style="text-align:center;">
@@ -947,6 +1041,8 @@ Por lo tanto, los sabios obtuvieron su conocimiento sin viajar; dieron<br>
 sus nombres (correctos) a las cosas sin verlas; y logrado
 sus fines sin ningún propósito de hacerlo.<br>
 </p>
+
+<a id="c48"></a>
 
 ## 48
 
@@ -964,6 +1060,8 @@ No hay problema (con ese fin). Si uno se toma problemas (con ese fin), él<br>
 no es igual a obtener como suyo todo lo que hay bajo el cielo.
 </p>
 
+<a id="c49"></a>
+
 ## 49
 
 <p style="text-align:center;">
@@ -980,6 +1078,8 @@ El sabio tiene en el mundo una apariencia de indecisión y se mantiene
 Su mente permanece indiferente ante todo. La gente mantiene su...
 ojos y oídos dirigidos hacia él, y trata con todos ellos como si fueran suyos.
 niños.</p>
+
+<a id="c50"></a>
 
 ## 50
 
@@ -1002,6 +1102,8 @@ Ni el arma un lugar donde apuntar. ¿Y por qué?<br>
 Porque en él no hay lugar de muerte.
 </p>
 
+<a id="c51"></a>
+
 ## 51
 
 <p style="text-align:center;">
@@ -1023,6 +1125,8 @@ Los lleva a través de sus procesos y no alardea de su capacidad en
 Al hacerlo, los lleva a la madurez y no ejerce ningún control sobre ellos.
 ellos; esto se llama su operación misteriosa.<br>
 </p>
+
+<a id="c52"></a>
 
 ## 52
 
@@ -1050,6 +1154,8 @@ La voluntad alejará de su cuerpo toda plaga,
 Y oculta lo inmutable a la vista de los hombres.<br>
 </p>
 
+<a id="c53"></a>
+
 ## 53
 
 <p style="text-align:center;">
@@ -1067,6 +1173,8 @@ faja, mimarse en la comida y la bebida, y tener un<br>
 superabundancia de propiedades y riquezas;—tales (príncipes) pueden ser llamados<br>
 Ladrones y fanfarrones. ¡Esto es contrario al Tao, sin duda!<br>
 </p>
+
+<a id="c54"></a>
 
 ## 54
 
@@ -1097,6 +1205,8 @@ en el estado; y en el reino.<br>
 ¿Cielo? Por este método de observación.<br>
 </p>
 
+<a id="c55"></a>
+
 ## 55
 
 <p style="text-align:center;">
@@ -1122,6 +1232,8 @@ Se dice que es contrario al Tao. Todo lo que es contrario al Tao<br>
 pronto termina.<br>
 </p>
 
+<a id="c56"></a>
+
 ## 56
 
 <p style="text-align:center;">
@@ -1138,6 +1250,8 @@ A tal persona no se le puede tratar con familiaridad ni con distancia; es
 más allá de toda consideración de beneficio o perjuicio; de nobleza o<br>
 mezquindad:—él es el hombre más noble bajo el cielo.<br>
 </p>
+
+<a id="c57"></a>
 
 ## 57
 
@@ -1162,6 +1276,8 @@ no manifestará ninguna ambición, y el pueblo por sí solo alcanzará
 la simplicidad primitiva.
 </p>
 
+<a id="c58"></a>
+
 ## 58
 
 <p style="text-align:center;">
@@ -1184,6 +1300,8 @@ Es directo, pero no se permite ninguna licencia; es brillante,
 pero no deslumbra.<br>
 </p>
 
+<a id="c59"></a>
+
 ## 59
 
 <p style="text-align:center;">
@@ -1205,6 +1323,8 @@ profundo y sus tallos de flores firmes: esta es la manera de asegurar que su
 La vida duradera se verá por mucho tiempo.
 </p>
 
+<a id="c60"></a>
+
 ## 60
 
 <p style="text-align:center;">
@@ -1219,6 +1339,8 @@ Tampoco el sabio gobernante les hace daño.
 Cuando estos dos no se afectan mutuamente de forma perjudicial, su bien<br>
 Las influencias convergen en la virtud (del Tao).<br>
 </p>
+
+<a id="c61"></a>
 
 ## 61
 
@@ -1241,6 +1363,8 @@ Un Estado pequeño sólo desea ser recibido por el otro y servirle.
 Cada uno consigue lo que desea, pero el gran Estado debe aprender a humillarse.
 en sí mismo.<br>
 </p>
+
+<a id="c62"></a>
 
 ## 62
 
@@ -1266,6 +1390,8 @@ porque se podía conseguir buscándolo y el culpable podía escapar.
 bajo el cielo considérelo lo más valioso.
 </p>
 
+<a id="c63"></a>
+
 ## 63
 
 <p style="text-align:center;">
@@ -1287,6 +1413,8 @@ Si piensas continuamente que las cosas son fáciles, seguro que las encontrarás
 Por eso el sabio ve dificultad incluso en lo que parece fácil, y así
 Nunca tiene ninguna dificultad.<br>
 </p>
+
+<a id="c64"></a>
 
 ## 64
 
@@ -1317,6 +1445,8 @@ De esta manera ayuda al desarrollo natural de todas las cosas, y no se atreve a
 actuar (con un propósito ulterior propio).
 </p>
 
+<a id="c65"></a>
+
 ## 65
 
 <p style="text-align:center;">
@@ -1334,6 +1464,8 @@ La misteriosa excelencia (de un gobernador). Profunda y trascendental es<br>
 tan misteriosa excelencia, que muestra de hecho a su poseedor como opuesto<br>
 a los demás, sino llevándolos a una gran conformidad con él.
 </p>
+
+<a id="c66"></a>
 
 ## 66
 
@@ -1353,6 +1485,8 @@ Por eso todos en el mundo se deleitan en exaltarlo y no se cansan de hacerlo.
 Él. Porque él no se esfuerza, a nadie le resulta posible esforzarse.
 con él.<br>
 </p>
+
+<a id="c67"></a>
 
 ## 67
 
@@ -1378,6 +1512,8 @@ Mantiene su posición. El cielo salvará a su poseedor, por su (misma)<br>
 Gentileza protegiéndolo.<br>
 </p>
 
+<a id="c68"></a>
+
 ## 68
 
 <p style="text-align:center;">
@@ -1398,6 +1534,8 @@ Así decimos: "Como el Cielo tiene sus fines,
 "No hubo ningún sabio antiguo más brillante."
 </p>
 
+<a id="c69"></a>
+
 ## 69
 
 <p style="text-align:center;">
@@ -1415,6 +1553,8 @@ que cuando las armas opuestas se cruzan (de hecho), quien deplora<br>
 (la situación) vence.<br>
 </p>
 
+<a id="c70"></a>
+
 ## 70
 
 <p style="text-align:center;">
@@ -1431,6 +1571,8 @@ apreciado. Es así que el sabio viste (un pobre atuendo de) tela de pelo,<br>
 mientras lleva su (sello de) jade en su pecho.<br>
 </p>
 
+<a id="c71"></a>
+
 ## 71
 
 <p style="text-align:center;">
@@ -1442,6 +1584,8 @@ enfermedad de la que estamos protegidos. El sabio no tiene la enfermedad.
 Él sabe el dolor que sería inseparable de ello, y por eso él
 no lo tiene.<br>
 </p>
+
+<a id="c72"></a>
 
 ## 72
 
@@ -1460,6 +1604,8 @@ desfila (su conocimiento); ama, pero no (parece) valorarlo<br>
 Y así descarta la última alternativa y hace
 elección del primero.<br>
 </p>
+
+<a id="c73"></a>
 
 ## 73
 
@@ -1483,6 +1629,8 @@ Las mallas de la red del Cielo son grandes, muy separadas, pero dejando<br>
 Nada escapa.<br>
 </p>
 
+<a id="c74"></a>
+
 ## 74
 
 <p style="text-align:center;">
@@ -1496,6 +1644,8 @@ infligiría la muerte en lugar de quien así lo preside, tal vez
 Se le describe como un leñador en lugar de un gran carpintero. Rara vez se le describe como tal.
 que aquel que emprende la tala, en lugar del gran carpintero,
 ¡No se corta las manos!</p>
+
+<a id="c75"></a>
 
 ## 75
 
@@ -1515,6 +1665,8 @@ Vivir completamente fuera de la vista es mejor que darle un valor alto a<br>
 eso.<br>
 </p>
 
+<a id="c76"></a>
+
 ## 76
 
 <p style="text-align:center;">
@@ -1532,6 +1684,8 @@ conquistar; y un árbol fuerte llenará los brazos extendidos,
 Por lo tanto, el lugar de lo que es firme y fuerte está abajo, y eso
 De lo blando y débil está arriba.
 </p>
+
+<a id="c77"></a>
 
 ## 77
 
@@ -1554,6 +1708,8 @@ suyo; él logra su mérito y no descansa (arrogantemente) en él:—él<br>
 no desea mostrar su superioridad.
 </p>
 
+<a id="c78"></a>
+
 ## 78
 
 <p style="text-align:center;">
@@ -1574,6 +1730,8 @@ Todos ellos acuerdan el nombre del Rey.
 Las palabras que son estrictamente verdaderas parecen ser paradójicas.
 </p>
 
+<a id="c79"></a>
+
 ## 79
 
 <p style="text-align:center;">
@@ -1592,6 +1750,8 @@ condiciones favorables para él.<br>
 En el Camino del Cielo no hay parcialidad en el amor; siempre es<br>
 del lado del buen hombre.<br>
 </p>
+
+<a id="c80"></a>
 
 ## 80
 
@@ -1618,6 +1778,8 @@ El canto de las aves y de los perros debería oírse durante todo el trayecto ha
 Haría que las personas hasta la vejez, incluso hasta la muerte, no tuvieran ningún
 tener relaciones sexuales con él.<br>
 </p>
+
+<a id="c81"></a>
 
 ## 81
 

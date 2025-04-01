@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 ## I. CARTA A TODOS LOS FIELES.
 
@@ -58,7 +58,7 @@ Este Verbo del Padre, tan digno, tan santo y glorioso, cuya venida anunció el P
 
 Y cuando estaba cerca su Pasión, celebró la Pascua con sus discípulos y, tomando pan, dio gracias, bendijo y lo partió diciendo: «Tomen y coman: este es mi Cuerpo». Y, tomando el cáliz, dijo: «Esta es mi Sangre del Nuevo Testamento, que será derramada por ustedes y por muchos para remisión de los pecados». [^387] Después oró al Padre, diciendo: «Padre, si es posible, aparta de mí este cáliz». [^388] «Y su sudor se convirtió en gotas de sangre que corrían por la tierra». [^389] Pero, aun así, sometió su voluntad a la voluntad del Padre, diciendo: Padre, hágase tu voluntad: no como yo quiero, sino como tú. [^390] Tal fue la voluntad del Padre que su Hijo, Bendito y Glorioso, a quien nos dio y que nació por nosotros, [^391] se ofreciera por su propia Sangre, sacrificio y oblación en el altar de la Cruz, no por sí mismo, por quien «todo fue hecho», [^392] sino por nuestros pecados, dejándonos ejemplo para que sigamos sus pasos. [^393] Y desea que todos seamos salvados por él [^394] y que lo recibamos con un corazón puro y un cuerpo casto. Pero son pocos los que desean recibirlo y ser salvados por él, aunque su yugo es suave y su carga ligera. [^395]
 
-Aquellos que no quieren gustar cuán dulce es el Señor [^396] y que aman las tinieblas más que la luz, [^397] no queriendo cumplir los mandamientos de Dios son malditos: de ellos dice el profeta: “Malditos sean los que se apartan de tus mandamientos”. [^398] Pero, oh cuán felices y benditos <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> son aquellos que aman al Señor, que hacen como el Señor mismo dice en el Evangelio: “Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y... a tu prójimo como a ti mismo”. [^399] Por lo tanto, amemos a Dios y adorémosle con un corazón puro y una mente pura porque Él mismo, buscando eso por encima de todo, dice: “Los verdaderos adoradores adorarán al Padre en espíritu y en verdad”. [^400] Porque todos los que “le adoran, deben adorarlo en espíritu y en verdad”. [^401] Y ofrezcámosle alabanzas y oraciones día y noche, diciendo: “Padre nuestro que estás en los cielos”, porque “es necesario orar siempre y no desmayar”. [^402]
+Aquellos que no quieren gustar cuán dulce es el Señor [^396] y que aman las tinieblas más que la luz, [^397] no queriendo cumplir los mandamientos de Dios son malditos: de ellos dice el profeta: «Malditos sean los que se apartan de tus mandamientos». [^398] Pero, oh cuán felices y benditos <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> son aquellos que aman al Señor, que hacen como el Señor mismo dice en el Evangelio: «Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y... a tu prójimo como a ti mismo». [^399] Por lo tanto, amemos a Dios y adorémosle con un corazón puro y una mente pura porque Él mismo, buscando eso por encima de todo, dice: «Los verdaderos adoradores adorarán al Padre en espíritu y en verdad». [^400] Porque todos los que «le adoran, deben adorarlo en espíritu y en verdad». [^401] Y ofrezcámosle alabanzas y oraciones día y noche, diciendo: «Padre nuestro que estás en los cielos», porque «es necesario orar siempre y no desmayar». [^402]
 
 Ciertamente debemos confesar todos nuestros pecados a un sacerdote y recibir de él el Cuerpo y la Sangre de nuestro Señor Jesucristo. [^403] Quien no come Su Carne ni bebe Su Sangre no puede entrar en el Reino de Dios. [^404] Sin embargo, que coma y beba dignamente, porque quien lo recibe indignamente «come y bebe su propio juicio, sin discernir el Cuerpo del Señor», [^405] es decir, sin distinguirlo de los demás alimentos.
 
@@ -114,7 +114,7 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 ## Notas al pie
 
-[^374]: 96:1 Compárese, por ejemplo, el pasaje de la [p. 101](#p101), que comienza “Amemos, pues, a Dios”, etc., con el Capítulo XXII de la Primera Regla ([p. 53](Part_1_4#p53)); y la oración de Cristo dada en la [p. 105](#p105), con la conclusión del mismo capítulo ([p. 59](Part_1_4#p59)).
+[^374]: 96:1 Compárese, por ejemplo, el pasaje de la [p. 101](#p101), que comienza «Amemos, pues, a Dios», etc., con el Capítulo XXII de la Primera Regla ([p. 53](../Part_1_4#p53)); y la oración de Cristo dada en la [p. 105](#p105), con la conclusión del mismo capítulo ([p. 59](../Part_1_4#p59)).
 
 [^375]: 96:2 Véase Le Monnier, _l.c._, p. 202, y Knox Little, _l.c._, p. 164. Wadding, _Annales_, ad. an. 1213, sitúa la escritura de esta carta dos o tres años antes, lo que parece menos probable.
 
@@ -130,9 +130,9 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^381]: 98:3 Bartolomé de Pisa inserta aquí la mayor parte de la carta _passim_.
 
-[^382]: 99:1 Cod. O. dice: “todas las palabras del Señor”.
+[^382]: 99:1 Cod. O. dice: «todas las palabras del Señor».
 
-[^383]: 99:2 Cod. O. dice: “por esta presente carta y ahora”.
+[^383]: 99:2 Cod. O. dice: «por esta presente carta y ahora».
 
 [^384]: 99:3 Juan 6: 64.
 
@@ -148,13 +148,13 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^390]: 100:4 Véase Mateo 26: 42 y 39.
 
-[^391]: 100:5 Cod. O. omite: “y nació para nosotros”.
+[^391]: 100:5 Cod. O. omite: «y nació para nosotros».
 
 [^392]: 100:6 Juan 1: 3.
 
 [^393]: 100:7 Véase 1 Pedro 2: 21.
 
-[^394]: 100:8 Cod. O. omite: “Y Él desea que todos seamos salvos por Él”.
+[^394]: 100:8 Cod. O. omite: «Y Él desea que todos seamos salvos por Él».
 
 [^395]: 100:9 Véase Mateo 11:30.
 
@@ -172,7 +172,7 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^402]: 101:4 Lucas 18: 1.
 
-[^403]: 101:5 Cod. O. añade: “Porque el Señor dice: ¿Quién no come?”, etc.
+[^403]: 101:5 Cod. O. añade: «Porque el Señor dice: ¿Quién no come?», etc.
 
 [^404]: 101:6 Véase Juan 6: 54.
 
@@ -180,9 +180,9 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^406]: 101:8 Lucas 3: 8.
 
-[^407]: 102:1 Cod. As. y ediciones omiten “o no puede”.
+[^407]: 102:1 Cod. As. y ediciones omiten «o no puede».
 
-[^408]: 102:2 Cod. O. dice: “juicio y misericordia”.
+[^408]: 102:2 Cod. O. dice: «juicio y misericordia».
 
 [^409]: 102:3 Véase Santiago 2: 13.
 
@@ -212,7 +212,7 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^422]: 104:6 Véase Mateo 12: 50.
 
-[^423]: 104:7 Cod. As. y la de Volterra con el _Mon._ añaden: “el Paráclito”.
+[^423]: 104:7 Cod. As. y la de Volterra con el _Mon._ añaden: «el Paráclito».
 
 [^424]: 104:8 Véase Juan 10: 15.
 
@@ -228,21 +228,21 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
 
 [^430]: 107:1 Jer. 17:5.
 
-[^431]: 107:2 Cod. O. y Pis. dicen: “¿Satisfarás las cosas tomadas injustamente, es decir, aquellas cosas con las que has engañado a tu prójimo?”
+[^431]: 107:2 Cod. O. y Pis. dicen: «¿Satisfarás las cosas tomadas injustamente, es decir, aquellas cosas con las que has engañado a tu prójimo?»
 
-[^432]: 107:3 Los códices As. y Mon. omiten: “una muerte amarga”. Los códices Pis. y Volterra omiten: “hombre miserable”.
+[^432]: 107:3 Los códices As. y Mon. omiten: «una muerte amarga». Los códices Pis. y Volterra omiten: «hombre miserable».
 
-[^433]: 107:4 Cod. As. y _Mon._ omiten “sabiduría”.
+[^433]: 107:4 Cod. As. y _Mon._ omiten «sabiduría».
 
 [^434]: 107:5 Véase Lucas 8: 18.
 
-[^435]: 108:1 Estas palabras no se encuentran excepto en Cod. As., que omite la siguiente frase: “Todos a quienes pueda llegar esta carta”.
+[^435]: 108:1 Estas palabras no se encuentran excepto en Cod. As., que omite la siguiente frase: «Todos a quienes pueda llegar esta carta».
 
 [^436]: 108:2 Véase 1 Juan 4: 16.
 
-[^437]: 108:3 Cod. As. y _Mon._ dicen: “que estas palabras y otras”.
+[^437]: 108:3 Cod. As. y _Mon._ dicen: «que estas palabras y otras».
 
-[^438]: 108:4 Cod. As. y _Mon._ omiten lo que sigue a “Y todos aquellos”.
+[^438]: 108:4 Cod. As. y _Mon._ omiten lo que sigue a «Y todos aquellos».
 
 [^439]: 108:5 Véase Juan 6: 64.
 

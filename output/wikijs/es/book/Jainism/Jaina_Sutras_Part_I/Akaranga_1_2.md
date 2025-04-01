@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 SEGUNDA LECCIÓN, LLAMADA LA CONQUISTA DEL MUNDO.
 
@@ -53,7 +53,7 @@ Conociendo el dolor y el placer en toda su variedad [^114], y viendo que su vida
 
 Un hombre sabio debe eliminar cualquier aversión (al control [^117]); se liberará a su debido tiempo. Algunos, siguiendo instrucciones erróneas, se desvían (del control). Son torpes, envueltos en la ilusión. Mientras imitan la vida de los monjes, (diciendo): «Nos liberaremos del apego», disfrutan de los placeres que se les ofrecen [^118]. Por la instrucción errónea, los (aspirantes a) sabios se obsesionan (por los placeres); así, se hunden cada vez más en la ilusión, (y no pueden llegar) ni a esto ni a la orilla opuesta [^119]. Quienes se liberan (del apego al mundo y sus placeres), alcanzan la orilla opuesta [^120]. Dominando el deseo mediante la ausencia de deseos, no disfruta de los placeres que se les ofrecen. Sin deseos, renunciando al mundo y dejando de actuar, conoce, ve y no tiene deseos debido a su discernimiento [^121]; se le llama sin hogar. (t)
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 (Pero por el contrario) sufre día y noche, trabaja en el momento correcto y en el incorrecto, desea riquezas y tesoros, comete injurias y actos violentos, una y otra vez dirige su mente hacia estas acciones perjudiciales [^122]; por su propio bien, para apoyar o ser apoyado por sus parientes, amigos, los antepasados, los dioses, el rey, los ladrones, los invitados, los pobres, los <i>S</i>rama<i>n</i>as. (2)
 
@@ -86,7 +86,7 @@ Quien ve por sí mismo no necesita instrucción. Pero el necio miserable y aflig
 
 
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 ## CUARTA LECCIÓN.
 
@@ -111,13 +111,13 @@ Esto está aquí para el disfrute de algunos. Pero un hombre sabio, sin hogar, n
 
 Español Siendo invisible comprando y vendiendo, no debe comprar, ni hacer que otros compren, ni consentir la compra de otros. Este mendigo que conoce el tiempo, la fuerza (de sí mismo), la medida (de todas las cosas), la práctica [^137], la ocasión (para mendigar, etc.), la conducta, los preceptos religiosos [^138], la verdadera condición (del donante o del oyente), que reniega de todas las cosas que no son necesarias para los propósitos religiosos [^139], que no tiene obligaciones, procede con seguridad (en el camino hacia la liberación final) después de haber cortado ambos (el amor y el odio). Ropas, cuencos de limosna, mantas, escobas, propiedad [^140], esteras de paja, con respecto a estas cosas debe saber (lo que es impuro). Cuando recibe comida debe saber la cantidad requerida. Esto ha sido declarado por el Venerado: no debe regocijarse al recibir un regalo, ni lamentarse cuando no recibe nada. Habiendo obtenido mucho, uno no debe almacenarlo; Uno debe abstenerse de cosas que no sean necesarias para fines religiosos. Con una mente diferente (a la de la gente común), un vidente abandona (estas cosas). Este es el camino enseñado por los nobles, bien familiarizado con el cual uno no debe contaminarse (con el pecado). Así digo. (3)
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Los placeres son difíciles de rechazar, la vida es difícil de prolongar. El hombre que ama los placeres, sin duda, se aflige (por su pérdida), se aflige en su corazón, abandona sus costumbres, se turba, sufre dolor. El perspicaz que conoce el mundo, conoce su parte inferior (el infierno), su parte superior (el cielo), su parte lateral (el estado de las bestias). Aquel que conoce la relación (de los asuntos humanos, a saber) de que quien desea el mundo siempre está al revés (en el sa<i>m</i>sâra), es llamado entre los mortales un héroe que libera a los encadenados. (4)
 
 Como el interior (del cuerpo es repugnante), así es el exterior; como el exterior, así es el interior. En el interior del cuerpo percibe los malos humores internos, observa sus diversos cursos (o erupciones). Un hombre bien informado, que conoce (y renuncia al cuerpo y a los placeres), no debe comer (su saliva [^141]); no debe oponerse a la (corriente del conocimiento). Ciertamente, quien se involucra en asuntos mundanos, quien practica muchos trucos, quien está confundido por sus propias acciones, actúa una y otra vez impulsado por ese deseo que aumenta su injusticia [^142]. Por lo tanto, lo anterior se ha dicho para el aumento de esta (vida) [^143]. (Un hombre adicto a los placeres) actúa como si fuera inmortal y deposita una gran fe (en el placer); pero cuando percibe que este cuerpo soporta dolores, llora en su ignorancia. Por lo tanto, retengan en sus mentes lo que digo. (5)
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Un hereje [^144] afirma curar (el amor al placer), mientras mata, corta, golpea, destruye, ahuyenta, y se propone hacer lo que no se ha hecho antes. A quien aplica la cura, basta de afecto de necio [^145]; o quien se la aplica es un necio. Esto no aplica a los sin techo. Así lo digo. (6)
 
@@ -254,7 +254,7 @@ Fin de la Segunda Lección, llamada La conquista del mundo.
 
 [^146]: 25:2 Ala<i>m</i> bâlassa sa<i>m</i>ge<i>n</i>a, un pâda de <i>s</i>loka; seguido de las palabras en la nota [^142], [p. 24](#p24), forma el hemistiquio del versículo 3 en la Segunda Lección del siguiente Capítulo.
 
-[^147]: 26:1 Véase [p. 17](Akaranga_1_2#p17), nota [1](Akaranga_1_2#fn115).
+[^147]: 26:1 Véase [p. 17](../Akaranga_1_2#p17), nota [1](../Akaranga_1_2#fn115).
 
 [^148]: 26:2 Estas palabras aparentemente forman un <i>s</i>loka, aunque el tercer pâda es demasiado corto por una sílaba; pero este error puede corregirse fácilmente insertando <i>k</i>a: pa<i>m</i>ta<i>m</i> lûha<i>m</i> <i>k</i>a sevanti. Los comentaristas tratan el pasaje como prosa.
 

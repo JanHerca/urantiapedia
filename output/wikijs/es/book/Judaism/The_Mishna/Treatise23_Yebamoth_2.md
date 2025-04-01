@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p203">[<sup><small>pág. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 ### CAPÍTULO II.
 
@@ -106,4 +106,4 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^679]: 205:11 A otros, no al que se acusa a sí mismo. Sin embargo, existe una contradicción en esta última parte de la Mishná; pues, independientemente de si dicha persona cometió el delito sola o en colaboración con otros, es, sin duda, igualmente culpable; y, por lo tanto, ¿por qué debería aceptarse su testimonio en el segundo caso [y permitirse a la mujer casarse], y no en el primero? Por lo tanto, se explica que significa que dijo: «Estuve con quienes lo asesinaron, pero no lo maté yo mismo».
 
-[^680]: 205:12 Véase Nota 1, página [7](Tratado1_Berachoth_1#p7).
+[^680]: 205:12 Véase Nota 1, página [7](../Tratado1_Berachoth_1#p7).

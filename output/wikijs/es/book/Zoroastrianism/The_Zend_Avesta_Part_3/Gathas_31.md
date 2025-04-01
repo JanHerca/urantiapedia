@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXXI"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## YASNA XXXI. EL PROGRESO Y LAS LUCHAS DE LA CAUSA.
 
@@ -184,7 +184,7 @@ Traducción.
 
 [^191]: 42:1 Las indicaciones generales karîtûntâr y bavîhûnam apuntan al sentido apropiado.
 
-[^192]: 42:2 O, con Roth, "si los Ahura-Mazdas realmente se dejan llamar". De lo contrario, “¡Oh Mazda y los Ahuras!”. Hübschmann también sostuvo que aquí Mazd<i>a</i>u era plural; (véase su Y. XXX, 10.)
+[^192]: 42:2 O, con Roth, "si los Ahura-Mazdas realmente se dejan llamar". De lo contrario, «¡Oh Mazda y los Ahuras!». Hübschmann también sostuvo que aquí Mazd<i>a</i>u era plural; (véase su Y. XXX, 10.)
 
 [^193]: 42:3 Roth, traduciendo ishasâ de acuerdo con el Pahlavi, 'erbitte ich'.
 

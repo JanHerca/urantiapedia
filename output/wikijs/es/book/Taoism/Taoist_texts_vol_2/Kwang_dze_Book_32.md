@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p202">[<sup><small>pág. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 LIBRO XXXII.
 
@@ -153,7 +153,7 @@ Intentar, con lo desigual, producir lo par solo producirá un resultado desigual
 
 [^469]: 208:1 Compárese el uso de 'el Yin y el Yang' en XXIII, párrafo 8. —Yen Ho no adula a Confucio en su descripción de él.
 
-[^470]: 209:1 ¿Es esto equivalente al adagio “In vino veritas”?
+[^470]: 209:1 ¿Es esto equivalente al adagio «In vino veritas»?
 
 [^471]: 209:2 Un famoso antepasado de Confucio en el siglo VIII a. C., pág. 210, antes de que la familia Khung huyera de Sung. Véase su relato, con algunas modificaciones verbales, en el Zo Khwan, durante el séptimo año del duque Kâo.
 

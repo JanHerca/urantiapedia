@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Entre la humanidad, el reconocimiento de la belleza como tal implica la idea de la fealdad, y el reconocimiento del bien implica la idea del mal. Existe la misma relación mutua entre la existencia y la no existencia en materia de creación; entre la dificultad y la facilidad en materia de realización; entre lo largo y lo corto en materia de forma; entre lo alto y lo bajo en materia de elevación; entre lo agudo y lo grave en materia de altura musical; entre el antes y el después en materia de prioridad.
 

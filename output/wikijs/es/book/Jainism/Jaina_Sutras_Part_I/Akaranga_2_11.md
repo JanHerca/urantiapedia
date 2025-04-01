@@ -40,7 +40,7 @@ Si un monje o una monja oye algún sonido, a saber, el Vi<i>n</i>â, Vipam<i>k</
 
 Los mismos preceptos se aplican a los sonidos de los timbales, a saber, el Tâla, el Lattiyâ, el Gohiyâ [^471] o el Kirikiriyâ; (3)
 
-<span id="p184">[<sup><small>pág. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 También a sonidos de instrumentos de viento, a saber, la caracola, la flauta, Kharamukhî o Piripiriyâ. (4)
 
@@ -64,7 +64,7 @@ Ni a lugares donde actúan narradores de cuentos o acróbatas, o donde continuam
 
 Ni a los lugares donde se produzcan riñas, altercados, motines, conflictos entre dos reinos, disturbios anárquicos o revolucionarios; (15)
 
-<span id="p185">[<sup><small>pág. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Ni a lugares donde se pasea a una joven bien vestida y adornada, o donde se lleva a alguien a la muerte. (16)
 

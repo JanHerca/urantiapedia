@@ -94,7 +94,7 @@ Sudhanvá, amenazando con asedio y espada,
 Y me ordenó que le otorgara rápidamente
 El arco incomparable de Siva,
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Y Sítá de los ojos de loto:
 Pero rechacé cada premio incomparable.
@@ -116,9 +116,9 @@ Como dote de cada esposa real,
 Pagad las debidas ofrendas a los espíritus,
 Y solemnizar el día de la boda.
 La luna esta noche, oh Sabio real,
-En la Casa de Maghá [1](Libro_1_77#fn252) se refugia;
+En la Casa de Maghá [1](../Libro_1_77#fn252) se refugia;
 En la tercera noche sus rayos fueron benignos.
-En segundo lugar brillará Phálguni [2](Libro_1_77#fn253):
+En segundo lugar brillará Phálguni [2](../Libro_1_77#fn253):
 Sea aquel día, con próspero destino,
 Los ritos nupciales para celebrar.
 
@@ -207,7 +207,7 @@ El monarca con sus cuatro hijos,
 Se mostró como el Señor de la Vida divina
 Cuando los guardianes del mundo a su alrededor brillan.
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 
 
@@ -331,7 +331,7 @@ La mano de S'rutakirti se aferra.
 Ahora, hijos de Raghu, que todos ustedes
 Sed amables con vuestras mujeres y veraces;
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Cumplid bien los votos que hoy hacéis,
 No dejes que la ocasión se escape.
@@ -449,7 +449,7 @@ Los asesinos de su padre matan,
 Pero cuando en la antigüedad su furia ardía
 Mares de su sangre apaciguaron su ira:
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Así que seguramente ahora no lo tenía planeado.
 Para matar a todos los guerreros de la tierra.
@@ -555,7 +555,7 @@ Y mató a mi noble padre con astucia,
 Cuya penitencia había ganado una fuerza terrible,
 Cuya mano retuvo el arco dado por Dios.
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Escuché indignado cómo cayó.
 Por un triste destino, demasiado triste para contarlo.
@@ -680,7 +680,7 @@ Ráma, el poderoso arco que se levantó.
 Y el hijo de Jamadagni, escuchó.
 Ensalzó su nombre con los más altos elogios,
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Con pasos reverentes caminaba a su alrededor,
 Luego se apresuró a emprender su aéreo camino.
@@ -837,7 +837,7 @@ Con Lakshmi a su lado.
 
 [^254]: 85:1 Este es otro Rama, hijo de Jamadagni, llamado Parasuráma, o Rama con el hacha, por el arma que portaba. Durante su vida, fue el terror de la casta guerrera, y su nombre evoca largas y feroces luchas entre el orden sacerdotal y el militar, en las que este último sufrió severamente a manos de su implacable enemigo.
 
-[^255]: 86:1 «El autor del _Raghuvams'a_ sitúa el monte Mahendra en el territorio del rey de los kalinganos, cuyo palacio dominaba el océano. Es bien sabido que la región costera al sur de la desembocadura del Ganges fue la sede de este pueblo. Por lo tanto, cabe sospechar que este Mahendra es lo que Plinio llama “promontorium Calingon”. El nombre moderno, _Cabo Palmyras_, derivado de la palmyra Borassus flabelliformis, que abunda allí, concuerda notablemente con la descripción del poeta que habla de las arboledas de estos árboles. _Raghuvansa_, VI. 51.» SCHLEGEL.
+[^255]: 86:1 «El autor del _Raghuvams'a_ sitúa el monte Mahendra en el territorio del rey de los kalinganos, cuyo palacio dominaba el océano. Es bien sabido que la región costera al sur de la desembocadura del Ganges fue la sede de este pueblo. Por lo tanto, cabe sospechar que este Mahendra es lo que Plinio llama «promontorium Calingon». El nombre moderno, _Cabo Palmyras_, derivado de la palmyra Borassus flabelliformis, que abunda allí, concuerda notablemente con la descripción del poeta que habla de las arboledas de estos árboles. _Raghuvansa_, VI. 51.» SCHLEGEL.
 
 [^256]: 86:1b Siva
 

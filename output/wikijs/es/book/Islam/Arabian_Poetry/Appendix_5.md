@@ -62,7 +62,7 @@ Otra forma que se encuentra con frecuencia en la colección es el _Kitat_ o Frag
 Hiciste hermoso tu pensamiento del destino, cuando los días eran hermosos,
 &nbsp;&nbsp;Y no temiste los males que te sobrevendrían.
 Las noches eran tranquilas y seguras para ti; fuiste engañado por ellos,
-&nbsp;&nbsp;Porque en la paz de la noche nacen muchas cosas problemáticas. <span id="p368">[<sup><small>p. 368  </small></sup>]</span>
+&nbsp;&nbsp;Porque en la paz de la noche nacen muchas cosas problemáticas. <span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 ¡Mirad! en los cielos hay muchas estrellas, nadie puede contar su historia;
 &nbsp;&nbsp;Pero al sol y a la luna solo el eclipse trae oscurecimiento.
 La tierra produce muchas hierbas agradables y muchas plantas y árboles;

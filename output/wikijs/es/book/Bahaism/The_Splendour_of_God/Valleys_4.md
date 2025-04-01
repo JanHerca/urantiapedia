@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 _El Cuarto Valle_:
 
@@ -46,11 +46,11 @@ En esta estación rasga los velos de la pluralidad, huye de los mundos de la luj
 
 No ve en sí mismo ningún elogio, nombre ni dignidad; ve su propio elogio en el elogio del Verdadero, y contempla el Nombre del Verdadero en su propio nombre. Sabrá que todas las voces provienen del Rey y oirá todas sus melodías.
 
-Él será establecido en el trono de—“Di, todo es de Dios”, y descansará sobre la alfombra de—“No hay poder ni fuerza sino sólo a través de Dios”.
+Él será establecido en el trono de—«Di, todo es de Dios», y descansará sobre la alfombra de—«No hay poder ni fuerza sino sólo a través de Dios».
 
 Mirará las cosas con la visión de la unidad... y verá la luz de la unidad manifiesta y presente en todo lo existente. Todas las diferencias que el viajero percibe en el mundo del Ser durante las distintas etapas de su viaje se deben a su propia visión. Traemos un ejemplo para que este hecho quede plenamente claro:
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Consideremos el sol fenomenal que brilla sobre todos los seres con el mismo resplandor. . . .
 
@@ -62,7 +62,7 @@ Algunas almas débiles, habiendo encerrado el fundamento del conocimiento dentro
 
 Un olor agradable es desagradable para el escarabajo, y un perfume fragante no tiene ningún efecto sobre alguien que padece un resfriado.
 
-Por eso, para guiar a la multitud, se ha dicho: “Quita el frío de tu cabeza y de tu <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> cerebro, para que la Fragancia de Dios llene tu nariz”.
+Por eso, para guiar a la multitud, se ha dicho: «Quita el frío de tu cabeza y de tu <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> cerebro, para que la Fragancia de Dios llene tu nariz».
 
 Ahora queda clara la diferencia de lugar.
 
@@ -80,11 +80,11 @@ Los ignorantes, que no han obtenido ninguna porción del esplendor del Hermoso, 
 
 «Si Dios castigase a los hombres por su iniquidad, no dejaría sobre la tierra nada que se moviera, sino que les daría un plazo de respiro» (Corán).
 
-<span id="p66">[<sup><small>pág. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Un corazón puro es como un espejo; purifícalo con el pulimento del Amor y la separación de todo excepto Dios, hasta que el Sol Ideal pueda reflejarse en él y pueda amanecer la Mañana Eterna.
 
-Entonces encontrarás claro y manifiesto el significado de: “Ni mi tierra ni mi cielo me ocupan, sino el corazón de mi fiel siervo me ocupa”, y tomarás tu vida en tus manos y la sacrificarás, con mil anhelos, al nuevo Amado.
+Entonces encontrarás claro y manifiesto el significado de: «Ni mi tierra ni mi cielo me ocupan, sino el corazón de mi fiel siervo me ocupa», y tomarás tu vida en tus manos y la sacrificarás, con mil anhelos, al nuevo Amado.
 
 Cuando las luces del esplendor del Rey de la Unidad están sentadas en el trono del corazón y del alma, Su luz se manifiesta en todas las partes y miembros.
 
@@ -132,7 +132,7 @@ No bastan los libros para el Misterio del Amado, ni puede agotarse en estas Tabl
 
 'El conocimiento no es más que un punto, pero los ignorantes lo han multiplicado.'
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 No deseo mencionar mucho de los dichos anteriores, pues hablar de los dichos de otros sería una evidencia de conocimiento adquirido (es decir, conocimiento mediato), y no del Don Divino (es decir, conocimiento inmediato).
 
@@ -168,7 +168,7 @@ Es evidente que estos estados dependen de la visión del viajero.
 
 En cada ciudad ve un mundo; en cada valle encuentra una fuente; en cada desierto oye una melodía.
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 La paz sea con quienquiera que complete este viaje supremo y siga al Verdadero a través de las Luces de Guía.
 

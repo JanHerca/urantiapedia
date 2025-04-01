@@ -52,11 +52,11 @@ Los monjes cantaron un himno, del cual el novicio pudo captar algunas de las lí
 “En el salón de la montaña tomamos nuestros asientos,
  En la soledad calmando la mente;
  Nuestras almas están quietas y en silencio preparadas
- “Poco a poco iremos descubriendo la verdad.”
+ «Poco a poco iremos descubriendo la verdad.»
 
 Cuando hubieron circunvalado la dagoba, se detuvieron frente a ella, donde el novicio descubrió una imagen del Buda en actitud de enseñar, y los monjes hablaron a coro:
 
-“Estoy ansioso por llevar una vida de pureza hasta el final de mi carrera terrenal, cuando mi vida regrese a la preciosa trinidad del Buda, la Verdad y la Hermandad”.
+«Estoy ansioso por llevar una vida de pureza hasta el final de mi carrera terrenal, cuando mi vida regrese a la preciosa trinidad del Buda, la Verdad y la Hermandad».
 
 Entonces el cántico comenzó de nuevo:
 
@@ -78,9 +78,9 @@ Un venerable monje anciano que desempeñaba los deberes de abad se adelantó y p
 
 Hay un joven con nosotros que, tras dejar el mundo, se quedó conmigo un tiempo para recibir instrucción y disciplina. Está aquí y desea ser admitido en la hermandad.
 
-El abad respondió: “Que se acerque”.
+El abad respondió: «Que se acerque».
 
-Era Charaka; y cuando se situó en medio de los hermanos, el abad observó su alta figura con una mirada bondadosa y escrutadora y <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> preguntó: “¿Cuál es su nombre y cuál es su deseo?”
+Era Charaka; y cuando se situó en medio de los hermanos, el abad observó su alta figura con una mirada bondadosa y escrutadora y <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> preguntó: «¿Cuál es su nombre y cuál es su deseo?»
 
 Charaka se arrodilló y dijo con las manos juntas: «Me llamo Charaka. Ruego a la Hermandad la iniciación. Que la Hermandad me reciba y me eleve a su altura de perfección espiritual. Tengan compasión de mí, reverendos señores, y concedan mi petición».
 
@@ -88,7 +88,7 @@ El abad entonces le hizo al suplicante una serie de preguntas según lo prescrit
 
 Tras responder satisfactoriamente a todas las preguntas, el abad presentó el caso a la hermandad, diciendo: «Reverendos señores, la Hermandad puede escucharme. Este hombre, Charaka, discípulo del venerable Subhûti, desea recibir la ordenación. No tiene ningún obstáculo para ello. Tiene un cuenco de limosna y una túnica amarilla, e implora a la Hermandad la ordenación, con el reverente hermano Subhûti como maestro. Que quienes estén a favor de conceder la ordenación guarden silencio. Que quienes se opongan a ella den un paso al frente y hablen».
 
-Estas palabras fueron repetidas tres veces, y como no hubo ninguna voz disidente, el abad declaró con solemnidad: “La Hermandad indica con su silencio que concede a Charaka la ordenación, con el reverendo hermano Subhûti como su maestro”.
+Estas palabras fueron repetidas tres veces, y como no hubo ninguna voz disidente, el abad declaró con solemnidad: «La Hermandad indica con su silencio que concede a Charaka la ordenación, con el reverendo hermano Subhûti como su maestro».
 
 Tras completar la ceremonia y recitar las reglas de la orden, incluyendo las cuatro grandes prohibiciones, a saber, que un monje ordenado debe abstenerse de la indulgencia carnal, del robo de cualquier tipo, de matar incluso a la criatura más despreciable y de alardear de poderes milagrosos, el abad pidió al novicio que pronunciara la fórmula del refugio, que Charaka repitió tres veces con voz clara y resonante. Entonces, la congregación entonó de nuevo un cántico y, tras circunvalar la dagoba, abandonó el salón de actos marchando en solemne procesión por los pasillos, y cada hermano se dirigió entonces a su celda.
 

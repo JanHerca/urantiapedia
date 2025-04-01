@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 
 SUDDHODANA seguía pensando en lo que Asita le había dicho. No quería que su familia se extinguiera, y se dijo: «Despertaré en mi hijo el deseo de placer; entonces, quizás, tendré nietos y ellos prosperarán».
@@ -59,7 +59,7 @@ La mujer con la que me case estará en la flor de la juventud; la mujer con la q
 
 Y añadió:
 
-“Padre, si conoces a una doncella que posea estas cualidades, puedes dármela en matrimonio”.
+«Padre, si conoces a una doncella que posea estas cualidades, puedes dármela en matrimonio».
 
 El rey convocó al sacerdote de la casa. Enumeró las cualidades que el príncipe buscaba en la mujer con la que se casaría, y luego:
 
@@ -93,9 +93,9 @@ Pero de repente recordó que en su dedo llevaba un anillo de gran valor. Se lo q
 
 Ella no quiso aceptar el anillo.
 
-Ella dijo: “Príncipe, ¿debo aceptar este anillo?”
+Ella dijo: «Príncipe, ¿debo aceptar este anillo?»
 
-“Era mío”, respondió el príncipe, “y debes aceptarlo”.
+«Era mío», respondió el príncipe, «y debes aceptarlo».
 
 —No —dijo ella—, no quiero quitarte tus joyas. Me corresponde, más bien, darte una joya. Y se fue.
 
@@ -109,7 +109,7 @@ Y llamó al padre de Gopa al palacio.
 
 Dandapani no respondió de inmediato. Dudó, y de nuevo el rey le preguntó:
 
-“¿Casarás a tu hija con mi hijo?” Entonces Dandapani dijo:
+«¿Casarás a tu hija con mi hijo?» Entonces Dandapani dijo:
 
 Mi señor, su hijo ha sido criado en el lujo; nunca ha salido de las puertas del palacio; sus capacidades físicas e intelectuales nunca han sido demostradas. Usted sabe que los sakyas solo casan a sus hijas con hombres hábiles, fuertes, valientes y sabios. ¿Cómo puedo entregarle mi hija a su hijo, quien, hasta ahora, solo ha mostrado gusto por la indolencia?
 
@@ -119,17 +119,17 @@ Estas palabras perturbaron al rey Suddhodana. Pidió ver al príncipe. Siddharth
 
 El rey no supo cómo explicarle lo que Dandapani había expresado con tanta franqueza. Permaneció en silencio.
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 El príncipe repitió:
 
 —Padre, se ve muy triste. ¿Qué ha pasado?
 
-“No me preguntes”, respondió Suddhodana.
+«No me preguntes», respondió Suddhodana.
 
-“Padre, estás triste, ¿qué ha pasado?”
+«Padre, estás triste, ¿qué ha pasado?»
 
-“Es un tema doloroso; preferiría no hablar de ello”.
+«Es un tema doloroso; preferiría no hablar de ello».
 
 Explícate, padre. Siempre es bueno ser explícito.
 
@@ -139,7 +139,7 @@ El rey finalmente decidió relatar la entrevista que había tenido con Dandapani
 
 El rey recuperó la serenidad. Hizo proclamar por toda la ciudad:
 
-“Que el séptimo día a partir de hoy, el Príncipe Siddhartha competirá con todos los que sobresalgan en cualquier campo.”
+«Que el séptimo día a partir de hoy, el Príncipe Siddhartha competirá con todos los que sobresalgan en cualquier campo.»
 
 En el día señalado, todos aquellos que afirmaban ser hábiles en las artes o las ciencias se presentaron en el palacio. Dandapani estaba presente, y prometió su hija a quien, ya fuera noble o de humilde cuna, saliera victorioso en las contiendas que se celebrarían.
 
@@ -161,7 +161,7 @@ Nadie respondió a esta segunda pregunta.
 
 Le hicieron preguntas que se consideraron <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> difíciles, pero él dio las respuestas incluso antes de que terminaran de plantear el problema.
 
-“¡Que Arjuna mismo examine al príncipe!” se oyó el grito desde todos lados.
+«¡Que Arjuna mismo examine al príncipe!» se oyó el grito desde todos lados.
 
 Arjuna le planteó los problemas más complicados, y Siddhartha nunca se quedó sin solución.
 
@@ -173,13 +173,13 @@ Todo parecía haber terminado, y condujeron hacia el vencedor un enorme elefante
 
 El príncipe miró con reproche al joven y dijo:
 
-“Has hecho algo malo, Devadatta”.
+«Has hecho algo malo, Devadatta».
 
 Tocó al elefante con su pie, y éste se levantó y le rindió homenaje.
 
 Entonces todos aclamaron su gloria, y el aire resonó con sus vítores. Suddhodana estaba feliz, y Dandapani, llorando de alegría, exclamó:
 
-“Gopa, hija mía Gopa, siéntete orgullosa de ser la esposa de un hombre así”.
+«Gopa, hija mía Gopa, siéntete orgullosa de ser la esposa de un hombre así».
 
 <figure class="table chapter-navigator">
   <table>

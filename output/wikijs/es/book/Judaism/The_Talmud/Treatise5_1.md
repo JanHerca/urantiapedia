@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## TRATADO V.
 

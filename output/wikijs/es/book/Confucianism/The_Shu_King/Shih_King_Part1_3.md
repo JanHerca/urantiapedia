@@ -71,7 +71,7 @@ Con grandes cualidades, tanto civiles como marciales, afecta brillantemente a su
 
 
 
-<span id="p341">[<sup><small>pág. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 <a id="o4"></a>
 

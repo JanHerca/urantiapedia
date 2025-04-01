@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>pág. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 4, SECCIÓN 12.
 
@@ -165,15 +165,15 @@ La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el ombl
 
 6\. [^587] Entonces, en presencia (de su adversario), vuelto hacia él, murmura (los versos): «Quito el habla de tu boca, (el habla) que habita en tu mente, (el habla) de tu corazón. De cada miembro tomo tu habla. Dondequiera que habite tu habla, de allí la quito».
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 ¡Rudra de rizos oscuros! ¡Héroe! En cada combate, derriba a mi adversario, como un árbol es derribado por un rayo.
 
 Sé derrotado, sé conquistado cuando hables. Húndete bajo tierra cuando hables, abatido por mí irresistiblemente (?) con el martillo de... (?). Es cierto lo que digo. ¡Cae, inferior a mí, NN!
 
-7\. [7](Hiranyakesin_1_5#fn588) Toca el salón de actos (donde se desarrolla la competición) y murmura: «La bendita diosa de brazos dorados, cuyos ojos no desfallecen, adornada con ornamentos, sentada en medio de los dioses, ha hablado por mi bien. ¡Svâhâ!».
+7\. [7](../Hiranyakesin_1_5#fn588) Toca el salón de actos (donde se desarrolla la competición) y murmura: «La bendita diosa de brazos dorados, cuyos ojos no desfallecen, adornada con ornamentos, sentada en medio de los dioses, ha hablado por mi bien. ¡Svâhâ!».
 
-8\. [8](Hiranyakesin_1_5#fn589) 'Para mí tienen los altos y los bajos, para mí tiene esta amplia tierra, para mí han Agni e Indra logrado mi objetivo divino'—con (este verso) él mira a la asamblea, y murmura (que) se volvió hacia (la asamblea).
+8\. [8](../Hiranyakesin_1_5#fn589) 'Para mí tienen los altos y los bajos, para mí tiene esta amplia tierra, para mí han Agni e Indra logrado mi objetivo divino'—con (este verso) él mira a la asamblea, y murmura (que) se volvió hacia (la asamblea).
 
 Fin del Cuarto Pa<i>t</i>ala.
 

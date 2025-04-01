@@ -39,7 +39,7 @@ dateCreated: 2025-1-15T22:56:14Z
 Sauti dijo: «Que así sea. Y cuando el noble maestro se haya sentado, narraré, a su pregunta, historias sagradas sobre diversos temas». Después de un rato, el excelente Brahmana (Saunaka), habiendo cumplido debidamente con todos sus deberes y habiendo propiciado a los dioses con oraciones y a los manes con ofrendas de agua, regresó al lugar del sacrificio, donde, con Sauti sentado delante, se encontraba la asamblea de santos de votos rígidos, sentados a sus anchas. Y cuando Saunaka se sentó en medio de los Ritwiks y Sadhyas, quienes también estaban sentados, habló como sigue.
 
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## SECCIÓN V
 
@@ -56,7 +56,7 @@ Sauti respondió: «Bhrigu tenía una esposa llamada Puloma, a quien amaba profu
 
 «Mi designio se ha cumplido», dijo el Rakshasa, y, agarrando a la hermosa matrona, se la llevó. Y, en efecto, ella, la de sonrisas agradables, había sido prometida por su propio padre, aunque posteriormente este la entregó, según los ritos debidos, a Bhrigu. ¡Oh, tú, de la raza Bhrigu!, esta herida dolió profundamente en la mente del Rakshasa, quien consideró el momento oportuno para llevarse a la dama.
 
-“Y el Rakshasa vio el aposento en el que el fuego del sacrificio se mantenía ardiendo brillantemente. El Rakshasa entonces preguntó al elemento llameante: “Dime, oh Agni, de quién es legítimamente esposa esta mujer. Tú eres la boca de los dioses; por lo tanto, estás obligado a responder a mi pregunta. Esta dama de complexión superior había sido aceptada por mí como esposa, pero su padre posteriormente se la entregó al falso Bhrigu. Dime con verdad si esta bella puede ser considerada como la esposa de Bhrigu, pues habiéndola encontrado sola, he decidido sacarla por la fuerza de la ermita. Mi corazón arde de rabia cuando pienso que Bhrigu ha tomado posesión de esta mujer de cintura delgada, la primera prometida mía”.
+«Y el Rakshasa vio el aposento en el que el fuego del sacrificio se mantenía ardiendo brillantemente. El Rakshasa entonces preguntó al elemento llameante: “Dime, oh Agni, de quién es legítimamente esposa esta mujer. Tú eres la boca de los dioses; por lo tanto, estás obligado a responder a mi pregunta. Esta dama de complexión superior había sido aceptada por mí como esposa, pero su padre posteriormente se la entregó al falso Bhrigu. Dime con verdad si esta bella puede ser considerada como la esposa de Bhrigu, pues habiéndola encontrado sola, he decidido sacarla por la fuerza de la ermita. Mi corazón arde de rabia cuando pienso que Bhrigu ha tomado posesión de esta mujer de cintura delgada, la primera prometida mía».
 
 Sauti continuó: «De esta manera, el Rakshasa preguntó una y otra vez al dios llameante del fuego si la dama era la esposa de Bhrigu. Y el dios temía responder. «Tú, oh dios del fuego», dijo, «resides constantemente en cada criatura, como testigo de sus méritos y deméritos. Oh, tú, ser respetado, entonces responde con sinceridad a mi pregunta. ¿Acaso Bhrigu no se ha apropiado de quien yo elegí como mi esposa? Debes declarar con sinceridad si, por lo tanto, es mi esposa por elección propia. Después de que me respondas si es la esposa de Bhrigu, la sacaré de esta ermita incluso delante de ti. Por lo tanto, responde con sinceridad».
 
@@ -70,9 +70,9 @@ Sauti dijo: «Oh, Brahmana, tras escuchar estas palabras del dios del fuego, el 
 
 Y Bhrigu vio a su hijo Chyavana y a su hermosa madre. El Rishi, furioso, le preguntó: «¿Quién te reveló a ese Rakshasa que decidió llevártelo? ¡Oh, tú, la de las sonrisas agradables! El Rakshasa no pudo reconocerte como mi ardid. Por lo tanto, dime quién le dijo eso al Rakshasa para que lo maldijera con ira». Y Pauloma respondió: «¡Oh, poseedora de los seis atributos! Agni (el dios del fuego) me identificó con el Rakshasa. Y él (el Rakshasa) me llevó, llorando como un kurari (águila pescadora). Y solo el ardiente esplendor de este hijo tuyo me salvó, pues el Rakshasa (al ver a este niño) me soltó y, cayendo al suelo, se convirtió en cenizas».
 
-Sauti continuó: «Bhrigu, al oír este relato de Pauloma, se enfureció muchísimo. Y, lleno de ira, el Rishi maldijo a Agni, diciendo: “Comerás de todo”».
+Sauti continuó: «Bhrigu, al oír este relato de Pauloma, se enfureció muchísimo. Y, lleno de ira, el Rishi maldijo a Agni, diciendo: «Comerás de todo»».
 
-Así termina la sexta sección llamada “La maldición de Agni” en el Adi Parva.
+Así termina la sexta sección llamada «La maldición de Agni» en el Adi Parva.
 
 
 ## SECCIÓN VII
@@ -110,7 +110,7 @@ Y mientras Ruru se entregaba a estas lamentaciones por la pérdida de su novia, 
 
 Y Ruru respondió: «¡Oh, mensajero del cielo! ¿Qué es lo que los dioses han ordenado? Dímelo con todo detalle para que (al escucharlo) pueda cumplirlo. ¡Te corresponde liberarme del dolor!». Y el mensajero celestial le dijo a Ruru: «Entrega la mitad de tu vida a tu novia, y entonces, oh Ruru de la raza de Bhrigu, tu Pramadvara se elevará de la tierra». «Oh, el mejor de los mensajeros celestiales, con mucho gusto ofrezco la mitad de mi vida a favor de mi novia. Que entonces mi amada se levante una vez más con su atuendo y su adorable forma».
 
-Sauti dijo: “Entonces el rey de los Gandharvas (el padre de Pramadvara) y el mensajero celestial, ambos de excelentes cualidades, fueron ante el dios Dharma (el Juez de los muertos) y le hablaron, diciendo: “Si es tu voluntad, oh Dharmaraja, que la amable Pramadvara, la esposa prometida de Ruru, que ahora yace muerta, se levante con una mitad de la vida de Ruru”. Y Dharmaraja respondió: “Oh mensajero de los dioses, si es tu deseo, que Pramadvara, la esposa prometida de Ruru, se levante dotada con una mitad de la vida de Ruru”.
+Sauti dijo: «Entonces el rey de los Gandharvas (el padre de Pramadvara) y el mensajero celestial, ambos de excelentes cualidades, fueron ante el dios Dharma (el Juez de los muertos) y le hablaron, diciendo: “Si es tu voluntad, oh Dharmaraja, que la amable Pramadvara, la esposa prometida de Ruru, que ahora yace muerta, se levante con una mitad de la vida de Ruru». Y Dharmaraja respondió: «Oh mensajero de los dioses, si es tu deseo, que Pramadvara, la esposa prometida de Ruru, se levante dotada con una mitad de la vida de Ruru».
 
 Sauti continuó: «Y cuando Dharmaraja dijo esto, Pramadvara, la doncella de complexión superior, dotada con una fracción de la vida de Ruru, se despertó como si despertara de su letargo. Esta concesión por parte de Ruru de una fracción de su propia vida para resucitar a su novia condujo posteriormente, como se vería, a una reducción de la vida de Ruru.»
 
@@ -118,7 +118,7 @@ Y en un día propicio, sus padres los casaron con alegría y ritos debidos. La p
 
 Un día, oh Brahmana, Ruru entró en un extenso bosque. Allí vio una antigua serpiente de la especie Dundubha tendida en el suelo. En ese momento, Ruru levantó furioso su bastón, semejante al bastón de la Muerte, con el propósito de matarla. Entonces el Dundubha, dirigiéndose a Ruru, dijo: «¡No te he hecho ningún daño, oh Brahmana! ¿Por qué, entonces, me matas con ira?».
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Así termina la novena sección del Pauloma Parva del Adi Parva del bendito Mahabharata.
 
@@ -130,7 +130,7 @@ Sauti dijo: «Y Ruru, al oír esas palabras, respondió: «Mi esposa, a quien am
 
 Y el Dundubha respondió: «Oh, Brahmana, las serpientes que muerden al hombre son de un tipo muy distinto. Te corresponde no matar a los Dundubhas, que solo son serpientes de nombre. Sujetos como otras serpientes a las mismas calamidades, pero sin compartir su buena fortuna, con la misma aflicción, pero diferente alegría, no deberías matar a los Dundubhas bajo ninguna falsa concepción».
 
-Sauti continuó: “Y el Rishi Ruru, al oír estas palabras de la serpiente y ver que estaba desconcertada por el miedo, a pesar de ser una serpiente de la especie Dundubha, no la mató. Y Ruru, el poseedor de los seis atributos, consolando a la serpiente, le habló diciendo: “Dime con todo detalle, oh serpiente, ¿quién eres tú que te has metamorfoseado así?”. Y el Dundubha respondió: “¡Oh Ruru! Yo antes era un Rishi de nombre Sahasrapat. Y es por la maldición de un Brahmana que me he transformado en serpiente”. Y Ruru preguntó: “¡Oh tú, la mejor de las serpientes! ¿Por qué fuiste maldecida por un Brahmana en su ira? ¿Y cuánto tiempo más continuará así tu forma?”.
+Sauti continuó: «Y el Rishi Ruru, al oír estas palabras de la serpiente y ver que estaba desconcertada por el miedo, a pesar de ser una serpiente de la especie Dundubha, no la mató. Y Ruru, el poseedor de los seis atributos, consolando a la serpiente, le habló diciendo: “Dime con todo detalle, oh serpiente, ¿quién eres tú que te has metamorfoseado así?». Y el Dundubha respondió: «¡Oh Ruru! Yo antes era un Rishi de nombre Sahasrapat. Y es por la maldición de un Brahmana que me he transformado en serpiente». Y Ruru preguntó: «¡Oh tú, la mejor de las serpientes! ¿Por qué fuiste maldecida por un Brahmana en su ira? ¿Y cuánto tiempo más continuará así tu forma?».
 
 Y así termina la décima sección del Pauloma Parva del Adi Parva.
 
@@ -140,7 +140,7 @@ Y así termina la décima sección del Pauloma Parva del Adi Parva.
 
 Sauti continuó: «El Dundubha dijo entonces: «En tiempos pasados, tuve un amigo llamado Khagama. Era impetuoso al hablar y poseía poder espiritual gracias a sus austeridades. Un día, mientras estaba en el Agni-hotra (sacrificio de fuego), hice una serpiente falsa con briznas de hierba y, en un retozo, intenté asustarlo con ella. Enseguida se desmayó. Al recobrar el sentido, ese asceta veraz y observador de votos, ardiendo de ira, exclamó: «Ya que has hecho una serpiente falsa impotente para asustarme, tú mismo te convertirás en una serpiente sin veneno por mi maldición». Oh, asceta, conocía bien el poder de sus penitencias; por lo tanto, con el corazón agitado, me dirigí a él así, inclinándome con las manos juntas: «Amigo, hice esto a modo de broma, para provocarte la risa». Te corresponde perdonarme y revocar tu maldición. Y al verme profundamente perturbado, el asceta se conmovió y respondió, respirando con dificultad: «Lo que he dicho debe suceder. Escúchame y guárdalo en tu corazón. ¡Oh, piadoso! Cuando aparezca Ruru, el hijo puro de Pramati, te liberarás de la maldición en cuanto lo veas. Tú eres el mismísimo Ruru y el hijo de Pramati. Al recuperar mi forma original, te diré algo para tu bien».
 
-“Y ese ilustre hombre y el mejor de los Brahmanas dejó entonces su cuerpo de serpiente y alcanzó su propia forma y brillo original. Luego dirigió las siguientes palabras a Ruru de incomparable poder: '¡Oh tú, el primero de los seres creados!, en verdad la más alta virtud del hombre es perdonar la vida a los demás. Por lo tanto, un Brahmana nunca debe quitarle la vida a ninguna criatura. Un Brahmana siempre debe ser apacible. Este es el mandato más sagrado de los Vedas. Un Brahmana debe ser versado en los Vedas y Vedangas, y debe inspirar a todas las criaturas la creencia en Dios. Debe ser benevolente con todas las criaturas, veraz y perdonador, así como es su deber primordial retener los Vedas en su memoria. Los deberes del Kshatriya no son tuyos. Ser severo, blandir el cetro y gobernar a los súbditos correctamente son los deberes del Kshatriya. “Escucha, oh Ruru, el relato de la destrucción de las serpientes en el sacrificio de Janamejaya en días de antaño, y la liberación de los aterrorizados reptiles por ese mejor de los Dwijas, Astika, profundo en la tradición védica y poderoso en energía espiritual”.
+«Y ese ilustre hombre y el mejor de los Brahmanas dejó entonces su cuerpo de serpiente y alcanzó su propia forma y brillo original. Luego dirigió las siguientes palabras a Ruru de incomparable poder: '¡Oh tú, el primero de los seres creados!, en verdad la más alta virtud del hombre es perdonar la vida a los demás. Por lo tanto, un Brahmana nunca debe quitarle la vida a ninguna criatura. Un Brahmana siempre debe ser apacible. Este es el mandato más sagrado de los Vedas. Un Brahmana debe ser versado en los Vedas y Vedangas, y debe inspirar a todas las criaturas la creencia en Dios. Debe ser benevolente con todas las criaturas, veraz y perdonador, así como es su deber primordial retener los Vedas en su memoria. Los deberes del Kshatriya no son tuyos. Ser severo, blandir el cetro y gobernar a los súbditos correctamente son los deberes del Kshatriya. “Escucha, oh Ruru, el relato de la destrucción de las serpientes en el sacrificio de Janamejaya en días de antaño, y la liberación de los aterrorizados reptiles por ese mejor de los Dwijas, Astika, profundo en la tradición védica y poderoso en energía espiritual».
 
 Y así termina la undécima sección del Pauloma Parva del Adi Parva.
 

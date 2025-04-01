@@ -89,9 +89,9 @@ Anda, date prisa: tardamos demasiado.
 S'atrughna, trae la gloriosa Bharat,
 Los nobles hijos del rey, [^357]
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
-Yudhájit [1](Book_2_90#fn358) y Sumantra, todos
+Yudhájit [1](../Book_2_90#fn358) y Sumantra, todos
 El llamado veraz y virtuoso,
 Terminó: pronto un sonido poderoso
 Alrededor se levantó un tumulto cada vez más denso,
@@ -100,7 +100,7 @@ Con coche, y elefante, y caballo,
 Todo el pueblo con alegre aclamación
 Recibió al Príncipe Bharat a su llegada:
 Así como amaban saludar a su rey,
-O como los dioses se encuentran con el Señor Indra [2](Libro_2_90#fn359).
+O como los dioses se encuentran con el Señor Indra [2](../Libro_2_90#fn359).
 La vasta asamblea brillaba como una bella
 Con el rostro real de Bharat
 Como si el mismo Das'aratha estuviera allí
@@ -206,7 +206,7 @@ Y dio las órdenes que quería.
 El pecho de cada soldado se llena de delicias,
 Aud a través de cada jefe y capitán emocionado,
 
-<span id="p191">[<sup><small>pág. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Para oír esa marcha proclamada, para traer
 Querido Ráma, que ha vuelto de vagar.
@@ -331,10 +331,10 @@ Trae a su querido hermano nuevamente a casa.
 Con elefante, y caballo, y coche,
 La gran procesión viajó lejos,
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Y llegó donde las olas del Ganges abajo
-La ciudad de Sringavera [1](Libro_2_90#fn361) fluye.
+La ciudad de Sringavera [1](../Libro_2_90#fn361) fluye.
 Allí, con sus amigos y parientes cerca,
 Habitaba Guha, el querido aliado de Ráma,
 Guardián heroico de la tierra
@@ -453,7 +453,7 @@ Mañana podrás ir con él.
 Así suplicó el rey de Nishadas:
 El príncipe con espíritu cargado de sabiduría
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Respondió con palabras apropiadas que se mezclaron
 Asunto profundo con el argumento:
@@ -478,7 +478,7 @@ Y yo viajaré a tu lado.
 Pero este tu ejército tan extendido
 Despierta en mi corazón una duda y un temor,
 No sea que, amenazando a Rama, bueno y grande,
-“Tu viaje estimula malos pensamientos”.
+«Tu viaje estimula malos pensamientos».
 Pero cuando el rey Guha, incómodo,
 Declaró su miedo con palabras como estas:
 Tan puro como el cielo sin nubes
@@ -578,7 +578,7 @@ Aquel a quien ningún demonio poderoso, ningún,
 Ni el Dios celestial puede derrocar,
 Mira, Guha, cómo miente, ay,
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Con Sítá recostado sobre la hierba recogida.
 Por trabajos variados, largos y severos,
@@ -701,11 +701,11 @@ Y luego, obediente a sus votos,
 Ayunó con su gentil esposa.
 Así también Lakshman se abstuvo de comer,
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Y bebió el agua que le quedaba:
 Luego, con labios retorcidos, devotamente serios,
-Los tres [1](Libro_2_90#fn362) pagaron su culto vespertino.
+Los tres [1](../Libro_2_90#fn362) pagaron su culto vespertino.
 Entonces Lakshman, con incansable cuidado,
 Trajeron montones de hierba sagrada, y allí
 Con sus propias manos extendió rápidamente,
@@ -824,7 +824,7 @@ Para él la pena de destierro;
 Así que permaneceré intacto, salvo
 La promesa que hizo el héroe.
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 Mientras permanezco allí para Ráma,
 S'atrnghna compartirá mi exilio,
@@ -938,7 +938,7 @@ Con el sacerdote y el diácono a su lado,
 A la morada de Bharadvaja se dirigió
 Eso es lo mejor de los santos para ver.
 
-<span id="p197">[<sup><small>pág. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 
 

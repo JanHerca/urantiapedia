@@ -60,7 +60,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_5_1_1212"><sup><small>3:5:1:1212.</small></sup></span>Ese altar mayor (Uttaravedi [^295]) es la nariz del sacrificio; porque lo levantan para que sea más alto que el altar, por eso se le llama 'altar mayor'.
 
-<span id="v3_5_1_1313"><sup><small>3:5:1:1313.</small></sup></span> Ahora bien, al principio había dos tipos de seres aquí: los Adityas y los Angiras. Los Angiras fueron los primeros en preparar un sacrificio, y tras prepararlo, le dijeron a Agni: «Anuncia a los Adityas este nuestro banquete de Soma de mañana, diciendo: “¡Servid en este sacrificio nuestro!”».
+<span id="v3_5_1_1313"><sup><small>3:5:1:1313.</small></sup></span> Ahora bien, al principio había dos tipos de seres aquí: los Adityas y los Angiras. Los Angiras fueron los primeros en preparar un sacrificio, y tras prepararlo, le dijeron a Agni: «Anuncia a los Adityas este nuestro banquete de Soma de mañana, diciendo: «¡Servid en este sacrificio nuestro!»».
 
 <span id="v3_5_1_1414"><sup><small>3:5:1:1414.</small></sup></span> Los Âdityas se dijeron (unos a otros): '¡Idead cómo los Angiras nos servirán a nosotros, y no nosotros a los Angiras!'
 
@@ -109,7 +109,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v3_5_1_3636"><sup><small>3:5:1:3636.</small></sup></span> La rocía con: «Eres una leona, venciendo a los enemigos: ¡purificate para los dioses!». Luego la cubre con grava. La grava es ciertamente un adorno, porque brilla bastante. Y como esa grava son las cenizas de Agni Vai<i>s</i>vânara, está a punto de colocar a Agni sobre ella, y así Agni no la daña: ​​por eso la cubre con grava. La cubre con: «Eres una leona, venciendo a los enemigos: ¡prepárate para los dioses!». Luego la cubre [^320], y así permanece cubierta durante esa noche.
 
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span> 3:5:2:
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span> 3:5:2:
 
 ### EL AGNI-PRA<i>N</i>AYANA, O LA CONDUCCIÓN DEL FUEGO [^321] HACIA EL ALTAR MAYOR.
 
@@ -205,7 +205,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v3_5_3_2525"><sup><small>3:5:3:2525.</small></sup></span> Con «Tú eres la costurera de Vishnu [^363]», cose (las vallas a los cuatro postes de la puerta) con cuerda mediante un alfiler de madera. Con «Tú eres el punto fijo de Vishnu [^364]», hace un nudo para que no se rompa. Deshace ese mismo nudo al terminar la obra; y así, la enfermedad [^365] no afecta ni al Adhvaryu ni al Sacrificador. Toca el cobertizo de la carreta terminado con «Tú eres propiedad de Vishnu», pues el carro de Soma (y el cobertizo) pertenecen a Vishnu.
 
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 <span id="v3_5_4"><sup><small>3:5:4</small></sup></span>
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^291]: 111:2 La preparación de los altares especiales, a saber, el gran altar Soma (mahâ-vedi o saumikî-vedi) y el 'altar mayor' (uttara-vedi) en el primero, tiene lugar el penúltimo día de los Upasad, después de la realización matutina de los Upasads.
 
-[^292]: 111:3 Este poste se encuentra en medio de la puerta este del salón o Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, justo delante del fuego Âhavanîya. Véase [p. 3](Book_2_3_1#p3), nota [2](Book_2_3_1#fn27).
+[^292]: 111:3 Este poste se encuentra en medio de la puerta este del salón o Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, justo delante del fuego Âhavanîya. Véase [p. 3](../Book_2_3_1#p3), nota [2](../Book_2_3_1#fn27).
 
 [^293]: 111:4 Anta<i>h</i>pâta, lit. «que cae dentro o entre», porque se sitúa (pág. 112) entre el altar (nuevo) y los fuegos y el altar del Prâ<i>k</i>îna-va<i>m</i><i>s</i>a. Véase III, 5, 2, 2.
 
@@ -309,7 +309,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^303]: 115:2 Âdadânâ <i>k</i>a<i>k</i>âra = <i>g</i>ighatsayâ samîpastha<i>m</i> sarva<i>m</i> svîkurvatî, Sây.
 
-[^304]: 115:3 Véase [III](Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](Book_2_3_5#v3_5_2_11).
+[^304]: 115:3 Véase [III](../Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](../Book_2_3_5#v3_5_2_11).
 
 [^305]: 116:1 Es decir, el pozo (<i>k</i>âtvâla) de donde se extrae la tierra para el altar mayor se mide con el yugo, y el altar mayor con el yugo. Sâya<i>n</i>a parece interpretarlo de otra manera: Yatra yasmin de<i>s</i>e yugena haranti yato yasmât tatra <i>s</i>amyayâpi haranti.
 
@@ -337,7 +337,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^318]: 119:2 Toma con la pala todo lo necesario para hacer el altar mayor del tamaño adecuado.
 
-[^319]: 119:3 Esta afirmación parece haber desconcertado enormemente a los ritualistas posteriores, como lo demuestran Kâty. V, 3, 32-35 y los comentarios al respecto. En la regla 32 se establece, de acuerdo con el [párrafo 26](Book_2_3_5#v3_5_1_26) anterior, que el Adhvaryu debe construir el altar mayor del tamaño del yugo y el foso, es decir, de aproximadamente dos pies cuadrados. La siguiente regla deja una opción entre otras cuatro medidas: puede hacerlo un tercio del área del altar mayor, o de tamaño ilimitado, o del tamaño del yugo (86 aṅgulas = aprox. 5-5½ pies) o de diez pies del sacrificador. Harisvâmin explica esta última medida de forma bastante ingeniosa, indicando que el altar mayor debe formar p. 120 un oblongo de tres pies por un pie, cuando, al contar el número de lados de los tres cuadrados así obtenidos, obtenemos diez lados de un pie cada uno. Sin embargo, la repetición de «da<i>s</i>a» en nuestro texto —que solo puede significar «diez pies por lado»— no favorece esta explicación. Las dos últimas alternativas, según las reglas 34-35, solo se aplican al sacrificio de Soma, porque de lo contrario el altar (como en el caso del «altar norte» en el Kâturmâsya, cf. parte I, pág. 392) no sería lo suficientemente grande para albergar un «altar mayor» de ese tamaño.
+[^319]: 119:3 Esta afirmación parece haber desconcertado enormemente a los ritualistas posteriores, como lo demuestran Kâty. V, 3, 32-35 y los comentarios al respecto. En la regla 32 se establece, de acuerdo con el [párrafo 26](../Book_2_3_5#v3_5_1_26) anterior, que el Adhvaryu debe construir el altar mayor del tamaño del yugo y el foso, es decir, de aproximadamente dos pies cuadrados. La siguiente regla deja una opción entre otras cuatro medidas: puede hacerlo un tercio del área del altar mayor, o de tamaño ilimitado, o del tamaño del yugo (86 aṅgulas = aprox. 5-5½ pies) o de diez pies del sacrificador. Harisvâmin explica esta última medida de forma bastante ingeniosa, indicando que el altar mayor debe formar p. 120 un oblongo de tres pies por un pie, cuando, al contar el número de lados de los tres cuadrados así obtenidos, obtenemos diez lados de un pie cada uno. Sin embargo, la repetición de «da<i>s</i>a» en nuestro texto —que solo puede significar «diez pies por lado»— no favorece esta explicación. Las dos últimas alternativas, según las reglas 34-35, solo se aplican al sacrificio de Soma, porque de lo contrario el altar (como en el caso del «altar norte» en el Kâturmâsya, cf. parte I, pág. 392) no sería lo suficientemente grande para albergar un «altar mayor» de ese tamaño.
 
 [^320]: 120:1 El texto de Kâ<i>n</i>va quiere que se haga en la parte posterior (<i>g</i>aghanena).
 
@@ -347,21 +347,21 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^323]: 121:1 La transferencia del fuego de Âhavanîya al altar mayor se realiza en la mañana del último día de Upasad (es decir, el día anterior al día de prensado, llamado upavasatha o día de preparación). Está precedida por la realización doble o combinada de las ofrendas de Upasad (una de las cuales tuvo lugar en la tarde de los dos días anteriores).
 
-[^324]: 121:2 Se coloca un poco de grava en una bandeja para que la leña arda se coloque encima, cuando se va a transferir desde la Âhavanîya al nuevo altar. Los Taittirîyas mezclan con la grava una cuarta parte del polvo de la huella de la vaca Soma ([III, 3, 1, 6](Book_2_3_3#v3_3_1_6)), las otras tres partes se utilizan respectivamente para ungir el eje del carro Soma ([III, 5, 3, 13](Book_2_3_5#v3_5_3_13)), para la capa inferior del fuego Âgnîdhra ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)), y para esparcir detrás del Gârhapatya ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)\-[7](Book_2_3_6#v3_6_3_7)).
+[^324]: 121:2 Se coloca un poco de grava en una bandeja para que la leña arda se coloque encima, cuando se va a transferir desde la Âhavanîya al nuevo altar. Los Taittirîyas mezclan con la grava una cuarta parte del polvo de la huella de la vaca Soma ([III, 3, 1, 6](../Book_2_3_3#v3_3_1_6)), las otras tres partes se utilizan respectivamente para ungir el eje del carro Soma ([III, 5, 3, 13](../Book_2_3_5#v3_5_3_13)), para la capa inferior del fuego Âgnîdhra ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)), y para esparcir detrás del Gârhapatya ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)\-[7](../Book_2_3_6#v3_6_3_7)).
 
 [^325]: 121:3 Lit. levantan la capa inferior (la madera ardiendo).
 
 [^326]: 121:4 Para los ocho versos (o doce, recitándose el primero y el último tres veces cada uno) que el Hotri debe repetir mientras se lleva el fuego hacia el este y se deposita en el altar mayor, véase Ait. Br. I, 28; Â<i>s</i>v. Sr. II, 17. Para los deberes del brahmán, véase Kâty. XI, 1, 9.
 
-[^327]: 122:1 Véase [III, 5, 1, 1](Book_2_3_5#v3_5_1_1).
+[^327]: 122:1 Véase [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1).
 
 [^328]: 122:2 El Âhavanîya o fuego de ofrenda ahora se transfiere al nuevo altar, el antiguo hogar Âhavanîya se usa de ahora en adelante como Gârhapatya; y se traza una línea desde él hasta el anta<i>h</i>pâta, que marca el centro del lado oeste del gran altar.
 
 [^329]: 122:3 Al 'conducir hacia adelante' el fuego, proceden a lo largo del lado norte del gran altar.
 
-[^330]: 122:4 Indraghoshá, quizá «nombre de la India»; Mahîdhara y Sâya<i>n</i>a lo interpretan como «aquel que se hace oír como Indra» (es decir, llamado Indra), lo cual, sin embargo, requeriría el acento «índraghosha». Quizá «el ruido de Indra» signifique Agni, el fuego rugiente: para Agni y los Vasus, véase [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^330]: 122:4 Indraghoshá, quizá «nombre de la India»; Mahîdhara y Sâya<i>n</i>a lo interpretan como «aquel que se hace oír como Indra» (es decir, llamado Indra), lo cual, sin embargo, requeriría el acento «índraghosha». Quizá «el ruido de Indra» signifique Agni, el fuego rugiente: para Agni y los Vasus, véase [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
-[^331]: 122:5 Pra<i>k</i>etas, aquí Varu<i>n</i>a según Mahîdhara y Sâya<i>n</i>a. Cf. [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^331]: 122:5 Pra<i>k</i>etas, aquí Varu<i>n</i>a según Mahîdhara y Sâya<i>n</i>a. Cf. [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
 [^332]: 123:1 Mahîdhara y Sâya<i>n</i>a consideran que 'Mano<i>g</i>avas' se refiere a Yama.
 
@@ -371,7 +371,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^335]: 124:2 El sureste está consagrado a Agni y el noroeste a Vâyu.
 
-[^336]: 124:3 Porque los Âdityas la trajeron como una Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](Book_2_3_5#v3_5_1_18).
+[^336]: 124:3 Porque los Âdityas la trajeron como una Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](../Book_2_3_5#v3_5_1_18).
 
 [^337]: 124:4 A falta de un pronombre demostrativo con â<i>s</i>î<i>h</i>, se podría interpretar el pasaje así: «Abundante, en verdad, es esta oración de bendición entre los textos sacrificiales: con ella ora por el sacerdocio y la nobleza». Cf. I, 2, 1, 7.
 
@@ -379,39 +379,39 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^339]: 125:2 El texto de Kâ<i>n</i>va lo convierte en sus huesos.
 
-[^340]: 126:1 Normalmente, la colocación de los paridhis se realiza inmediatamente antes de encender el fuego para la ofrenda; pero como la siguiente ofrenda no se realizará hasta dentro de un tiempo, el fuego quedaría sin protección si se dejara sin los palitos que lo envuelven. Sâya<i>n</i>a toma 'dûre' en el sentido de 'dentro de mucho tiempo', como se mencionó anteriormente; pero podría tomarse de 'lejos', cuando el pasaje se referiría a la ofrenda que se realizará en el antiguo Âhavanîya ([III, 5, 3, 10](Book_2_3_5#v3_5_3_10) ss.); y cabe destacar en referencia a este punto que, según Kâty. VIII, 3, 30, ese fuego no se convierte en Gârhapatya hasta inmediatamente después de esa ofrenda.
+[^340]: 126:1 Normalmente, la colocación de los paridhis se realiza inmediatamente antes de encender el fuego para la ofrenda; pero como la siguiente ofrenda no se realizará hasta dentro de un tiempo, el fuego quedaría sin protección si se dejara sin los palitos que lo envuelven. Sâya<i>n</i>a toma 'dûre' en el sentido de 'dentro de mucho tiempo', como se mencionó anteriormente; pero podría tomarse de 'lejos', cuando el pasaje se referiría a la ofrenda que se realizará en el antiguo Âhavanîya ([III, 5, 3, 10](../Book_2_3_5#v3_5_3_10) ss.); y cabe destacar en referencia a este punto que, según Kâty. VIII, 3, 30, ese fuego no se convierte en Gârhapatya hasta inmediatamente después de esa ofrenda.
 
 [^341]: 126:2 Yâvat-tâvat parecería significar aquí más bien 'de proporciones correspondientes (o relativamente iguales)' a las de un hombre, es decir, como el sacrificador respectivo. 'Sa vai tâyamâno yâvân eva purushas tâvân vidhîyate, purushasyaiva vidhâm anu'. Kâ<i>n</i>va rec.
 
 [^342]: 126:3 Soma mismo es Vish<i>n</i>u.
 
-[^343]: 126:4 Véase [III, 6, 1, 23](Book_2_3_6#v3_6_1_23); [2, 21](Book_2_3_6#v3_6_2_21).
+[^343]: 126:4 Véase [III, 6, 1, 23](../Book_2_3_6#v3_6_1_23); [2, 21](../Book_2_3_6#v3_6_2_21).
 
-[^344]: 127:1 Véase [III, 6, 2, 21](Book_2_3_6#v3_6_2_21).
+[^344]: 127:1 Véase [III, 6, 2, 21](../Book_2_3_6#v3_6_2_21).
 
 [^345]: 127:2 Es decir, los fuegos (antiguos) Âhavanîya y Gârhapatya del Prâ<i>k</i>îna-va<i>m</i><i>s</i>a.
 
-[^346]: 127:3 El carro del sur (y el más grande) está a cargo del Adhvaryu, y el del norte, a cargo de su asistente, el Pratiprasthât<i>ri</i>. Cada uno conduce su carro hacia el oeste, por los lados sur y norte respectivamente; y cuando están frente a la sala (<i>s</i>âla), hacen que los carros giren de izquierda a derecha. después de lo cual vuelven al altar y los colocan allí con las varas hacia el este, cerca del anta<i>h</i>pâta (clavija 'intermedia', véase [III, 5, 1, 1](Book_2_3_5#v3_5_1_1)), al sur y al norte de la 'columna vertebral' (cf. [p. 112](Book_2_3_5#p112), nota [2](Book_2_3_5#fn294)), cada uno a la distancia de un codo de este último.
+[^346]: 127:3 El carro del sur (y el más grande) está a cargo del Adhvaryu, y el del norte, a cargo de su asistente, el Pratiprasthât<i>ri</i>. Cada uno conduce su carro hacia el oeste, por los lados sur y norte respectivamente; y cuando están frente a la sala (<i>s</i>âla), hacen que los carros giren de izquierda a derecha. después de lo cual vuelven al altar y los colocan allí con las varas hacia el este, cerca del anta<i>h</i>pâta (clavija 'intermedia', véase [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1)), al sur y al norte de la 'columna vertebral' (cf. [p. 112](../Book_2_3_5#p112), nota [2](../Book_2_3_5#fn294)), cada uno a la distancia de un codo de este último.
 
-[^347]: 127:4 Para hacer inclinar el cobertizo hacia el norte, cf. [III, 1, 1, 2](Book_2_3_1#v3_1_1_2).
+[^347]: 127:4 Para hacer inclinar el cobertizo hacia el norte, cf. [III, 1, 1, 2](../Book_2_3_1#v3_1_1_2).
 
 [^348]: 128:1 No me queda claro si los arreglos mencionados en este párrafo se refieren a los carros en primer lugar, y deben repetirse después de erigirse el cobertizo, o si, como creo, algunos se refieren solo al cobertizo. Incluso en la época de los Kâty. Sûtras parece haber existido cierta confusión al respecto, y el comentarista malinterpretó por completo las reglas VIII, 4, 7-12 (10-15, en la edición). Sin embargo, es cierto que los carros se cubrían con esteras antes de ser trasladados de la parte trasera a la delantera del altar. En cuanto al cobertizo, parece haber sido construido de la siguiente manera: delante y detrás de los carros, se clavan vigas en el suelo, seis a cada lado, según Sâya<i>n</i>a en TS I, 2, 13; Las dos centrales, un codo al norte y al sur de la columna vertebral, respectivamente, forman una puerta a cada lado (Kâty. VIII, 4, 24 scholl.). Sobre estas dos filas de vigas se colocan otras vigas, que van de sur a norte, y forman, por así decirlo, los dinteles de las puertas; y sobre ellas descansan las vigas de unión (de oeste a este). Este armazón de madera debe formar un cuadrado de nueve (o diez) codos. Sobre las vigas de unión se extienden tres esteras de junco (<i>k</i>adis) —de nueve (o diez) codos por tres (3½)—, de sur a norte; primero la central y luego las otras dos, por detrás y por delante. Luego se extienden vallas verticales (o esteras de junco) entre los respectivos postes de las esquinas, para formar los lados sur y norte del cobertizo; y se cosen a los postes de las esquinas. Entre las partes superiores de los dos postes de la puerta principal se cuelga una banda o guirnalda de mechones de juncos trenzados (o, según Haug, un manojo de hierba Darbha, que consiste en tallos secos y verdes), para representar un filete o corona que se usa en la frente (?), o como guirnalda de puerta.
 
-[^349]: 128:2 Esta observación parecería implicar que sólo hay dos esteras (cf. párrs. [23](Book_2_3_5#v3_5_3_23), [24](Book_2_3_5#v3_5_3_24)), pero tal vez sólo pretende mostrar que dos esteras están extendidas detrás y delante de la primera estera (es decir, de sur a norte, y no de oeste a este); no que sólo hay dos esteras.
+[^349]: 128:2 Esta observación parecería implicar que sólo hay dos esteras (cf. párrs. [23](../Book_2_3_5#v3_5_3_23), [24](../Book_2_3_5#v3_5_3_24)), pero tal vez sólo pretende mostrar que dos esteras están extendidas detrás y delante de la primera estera (es decir, de sur a norte, y no de oeste a este); no que sólo hay dos esteras.
 
 [^350]: 128:3 Si el párrafo precedente se refiere (al menos en parte) al cobertizo, p. 129, entonces el atha aquí significa 'Ahora, en primer lugar', introduciendo así detalles preliminares a lo que se acaba de afirmar.
 
-[^351]: 129:1 Véase [III, 2, 4, 16](Book_2_3_2#v3_2_4_16). Ahora atribuyo «etayâ» a «vâ<i>k</i>am», al igual que Sâya<i>n</i>a, —yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. Explica «prakâmodya» mediante «mlai<i>k</i><i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am», lenguaje bárbaro y mundano.
+[^351]: 129:1 Véase [III, 2, 4, 16](../Book_2_3_2#v3_2_4_16). Ahora atribuyo «etayâ» a «vâ<i>k</i>am», al igual que Sâya<i>n</i>a, —yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. Explica «prakâmodya» mediante «mlai<i>k</i><i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am», lenguaje bárbaro y mundano.
 
 [^352]: 129:2 Vipa<i>s</i><i>k</i>it, probablemente «pensador de himnos». Sigue siendo dudoso el significado que nuestro autor le asignó a la palabra. Mahîdhara lo explica como sarva<i>g</i><i>ñ</i>a, «omnisciente». Sâya<i>n</i>a, en Taitt. S. I, 2, 13, refiere «viprasya b<i>ri</i>hato vipa<i>s</i><i>k</i>itah» al sacrificador.
 
-[^353]: 130:1 Es decir, los pasadores de hierro incrustados en el eje, alrededor de los cuales giran los cubos de las ruedas. Véase también [p. 121](Book_2_3_5#p121), nota [2](Book_2_3_5#fn322).
+[^353]: 130:1 Es decir, los pasadores de hierro incrustados en el eje, alrededor de los cuales giran los cubos de las ruedas. Véase también [p. 121](../Book_2_3_5#p121), nota [2](../Book_2_3_5#fn322).
 
 [^354]: 130:2 La hacen entrar al salón por la puerta sur y caminar por la parte trasera de la (vieja) chimenea de Gârhapatya hasta las huellas de ruedas en el lado norte donde el Pratiprasthât<i>ri</i> está a punto de ofrecer.
 
 [^355]: 130:3 Los rayos del sol son aparentemente comparados a cuerdas con las que mantiene la tierra recta y firme.
 
-[^356]: 131:1 Mientras recita su himno de ocho versos (que, como de costumbre, se amplía a doce mediante la repetición del primero y el último), el Hotri debe seguir los carros de modo que la huella norte del carro sur quede entre sus pies. Cf. [p. 79](Book_2_3_3#p79), nota [1](Book_2_3_3#fn208). Para los versos que recita, véase Ait. Br. I, 29; Â<i>s</i>v. <i>S</i>r. IV, 9.
+[^356]: 131:1 Mientras recita su himno de ocho versos (que, como de costumbre, se amplía a doce mediante la repetición del primero y el último), el Hotri debe seguir los carros de modo que la huella norte del carro sur quede entre sus pies. Cf. [p. 79](../Book_2_3_3#p79), nota [1](../Book_2_3_3#fn208). Para los versos que recita, véase Ait. Br. I, 29; Â<i>s</i>v. <i>S</i>r. IV, 9.
 
 [^357]: 131:2 O, '¡no vaciléis!'
 
@@ -427,7 +427,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^363]: 133:2 Véase [p. 128](#p128), nota [^346].
 
-[^364]: 133:3 Aparentemente se refiere al hueso parietal; o quizás al frontal. El texto de Kâ<i>n</i>va dice: «Entonces toca esa estera de caña, o pág. 134, de arriba, con “Que Vish<i>n</i>u...”, pues eso es para él (Vish<i>n</i>u, el cobertizo) lo que es ese hueso craneal aquí arriba. Y cuando dice “permanecen sobre”, es porque descansan sobre los otros huesos craneales \[? adhi hy etad anyeshu kapâleshu kshiyanti!\]. Entonces, las dos esteras de caña que hay en los dos carros, son para él lo que son los dos huesos craneales aquí a ambos lados. Y esa estera de caña, o estructura de caña, que pone allí detrás (o detrás de aquella), es para él lo que es el hueso craneal de atrás».
+[^364]: 133:3 Aparentemente se refiere al hueso parietal; o quizás al frontal. El texto de Kâ<i>n</i>va dice: «Entonces toca esa estera de caña, o pág. 134, de arriba, con «Que Vish<i>n</i>u...», pues eso es para él (Vish<i>n</i>u, el cobertizo) lo que es ese hueso craneal aquí arriba. Y cuando dice «permanecen sobre», es porque descansan sobre los otros huesos craneales \[? adhi hy etad anyeshu kapâleshu kshiyanti!\]. Entonces, las dos esteras de caña que hay en los dos carros, son para él lo que son los dos huesos craneales aquí a ambos lados. Y esa estera de caña, o estructura de caña, que pone allí detrás (o detrás de aquella), es para él lo que es el hueso craneal de atrás».
 
 [^365]: 134:1 Syû, explicado por Sâya<i>n</i>a como 'hilo, cuerda', por Mahîdhara como 'aguja'.
 
@@ -453,7 +453,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^376]: 139:2 Cp. I, 3, 3, 7 seq.
 
-[^377]: 139:3 O bien, el cabello del hombre sacrificado; véase [III, 5, 3, 1](Book_2_3_5#v3_5_3_1) seq.
+[^377]: 139:3 O bien, el cabello del hombre sacrificado; véase [III, 5, 3, 1](../Book_2_3_5#v3_5_3_1) seq.
 
 [^378]: 140:1 Las tablas de prensado tienen un codo de largo y son algo más anchas por detrás que por delante. Se colocan una al sur de la otra, de manera que queden juntas por detrás (sambaddhânte, Kâ<i>n</i>va rec.), o el espacio de dos pulgadas entre ellas. El espacio entre ellas se rellena con tierra.
 

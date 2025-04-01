@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:2Z
   </table>
 </figure>
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 La verdadera religión de Japón, la religión que aún se profesa de una forma u otra por toda la nación, es el culto que ha sido el fundamento de toda religión y sociedad civilizadas: el culto a los antepasados. A lo largo de miles de años, este culto original ha sufrido modificaciones y ha asumido diversas formas; pero en todo Japón su carácter fundamental permanece inalterado. Sin incluir las diferentes formas budistas de culto a los antepasados, encontramos tres ritos distintos de origen puramente japonés, modificados posteriormente en cierta medida por la influencia y el ceremonial chinos. Estas formas japonesas de culto se clasifican bajo el nombre de "Shintô", que significa "El Camino de los Dioses". No es un término antiguo; se adoptó inicialmente solo para distinguir la religión nativa, o "Camino", de la religión extranjera del budismo llamada "Butsudô", o "El Camino del Buda". Las tres formas del culto sintoísta a los antepasados ​​son el culto doméstico, el culto comunitario y el culto estatal; o, en otras palabras, el culto a los antepasados ​​familiares, el culto a los antepasados ​​del clan o tribales, <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> y el culto a los antepasados ​​imperiales. La primera es la religión del hogar; la segunda es la religión de la divinidad local, o dios tutelar; la tercera es la religión nacional. Existen otras formas de culto sintoísta; pero no es necesario considerarlas por ahora.
 

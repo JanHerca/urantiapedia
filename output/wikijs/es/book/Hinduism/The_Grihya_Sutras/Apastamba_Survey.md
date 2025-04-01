@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span> pág. 299
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span> pág. 299
 
 
 1\. El fuego sagrado G<i>ri</i>hya. _S_. I, 1; Â. I, 9; P. I, 2; G. I, 1; Kh. I, 5, 1 seq.; H. I, 22, 2 seq.; 26; Âp. 5, 13 seq.

@@ -79,7 +79,7 @@ Los capitanes se pusieron en marcha con paso marcial.
 Recibido con honor como fue recibido
 Se inclinaron para presionar los pies de su monarca,
 
-<span id="p435">[<sup><small>pág. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 Y cada uno un lugar en orden encontrado
 En un taburete, en un cojín o en el suelo.
@@ -188,7 +188,7 @@ Y nunca se arrepiente de un acto precipitado;
 Y desventurado aquel cuya alma atribulada
 Llora por días fuera de control.
 
-<span id="p436">[<sup><small>pág. 436</small></sup>]</span>
+<span id="p436"><sup><small>[ p. 436 ]</small></sup></span>
 
 Estás atrapado en las redes de la belleza,
 Se atrevió a realizar un acto desesperado y audaz;
@@ -248,14 +248,14 @@ Halagando esperanzas el discurso aprobó:
 Un cuento secreto que, durante mucho tiempo reprimido,
 Mentiras prisioneras sólo en mi pecho.
 Un día—un día que nunca olvidaré—
-La feria Punjikasthalá [1](Libro_6_20#fn932) Conocí,
+La feria Punjikasthalá [1](../Libro_6_20#fn932) Conocí,
 Cuando, radiante como una llama de fuego,
 Ella buscó el palacio del Señor.
 En el anhelo de la pasión, desgarré
 De sus dulces miembros las túnicas que vestía,
 Y sin hacer caso de sus oraciones y llantos
 Presioné contra mi pecho el premio vencido.
-Como Nalini [2](Libro_6_20#fn933) con tierra descolorida.
+Como Nalini [2](../Libro_6_20#fn933) con tierra descolorida.
 Ella ganó la mansión del Señor,
 Y el llanto hizo notoria la indignación
 A Brahmá en su trono celestial.
@@ -305,7 +305,7 @@ Tu ciudad con enemigos implacables.
 Oh, que la dama Maithil sea restaurada
 Antes de soltarse de la cuerda que resonaba
 
-<span id="p437">[<sup><small>pág. 437</small></sup>]</span>
+<span id="p437"><sup><small>[ p. 437 ]</small></sup></span>
 
 Las flechas vengativas de Rama vuelan,
 Y tus príncipes yacen hundidos en la muerte.
@@ -419,7 +419,7 @@ Y al hijo de Raghu dale
 Hermosos vestidos y gemas y minerales preciosos,
 Y Sitá a sus brazos restituye.'
 
-<span id="p438">[<sup><small>pág. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 
 
@@ -526,7 +526,7 @@ Ese jefe gigante sublime en el aire
 Con otros cuatro en brillante formación
 Viene armado para conquistar y matar.
 
-<span id="p439">[<sup><small>pág. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 Tan pronto como oyeron su discurso de advertencia,
 Los jefes Vánar, sin inmutarse
@@ -648,7 +648,7 @@ Impulsado por la culpa de su hermano a huir.
 Con alma justa que aborrece el pecado,
 Huyó de Lanká y sus parientes.
 
-<span id="p440">[<sup><small>pág. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 Si los extraños preguntan, surgirán dudas.
 Y enfriar el corazón de alguien tan sabio.
@@ -761,7 +761,7 @@ Y Rama se movió hacia Vibhishana.
 Así se mueve, un hermano Dios para saludar,
 El Señor Indra desde su asiento celestial.
 
-<span id="p441">[<sup><small>pág. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 
 
@@ -828,7 +828,7 @@ Para asaltar la ciudad del enemigo,
 Y ayudar al derrocamiento del tirano.
 Así habló Vibhíshan: Rama presionó
 El jefe Rákshas a su pecho,
-Y gritó a Lakshman: “Date prisa y tráelo”.
+Y gritó a Lakshman: «Date prisa y tráelo».
 'Agua de mar para el nuevo rey.'
 Habló, y sobre la cabeza de Vibhíshan
 Las gotas consagratorias fueron derramadas
@@ -843,7 +843,7 @@ Deja que el hijo de Raghu se presente como suplicante
 Suplica al poderoso mar que te preste
 Su socorro y esta causa son amigos.
 Sus canales, como han dicho los sabios,
-Por los hijos de Sagar fueron excavados antaño, [1b](Libro_6_20#fn942)
+Por los hijos de Sagar fueron excavados antaño, [1b](../Libro_6_20#fn942)
 Ni el océano de pensamientos elevados despreciará
 Nació un príncipe del linaje de Sagar.
 Cesó; el prudente consejo ganó
@@ -872,7 +872,7 @@ Y detenerlos en las arenas del océano.
 ¡Oh Monarca, levántate, afronta este peligro!
 No corras el riesgo de la derrota.
 
-<span id="p442">[<sup><small>pág. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 Que primero se pruebe cada arte más sabio;
 Sobornarlos, o ganarlos, o dividirlos.'

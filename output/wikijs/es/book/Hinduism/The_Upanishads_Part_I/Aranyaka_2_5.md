@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 QUINTO ADHYÂYA.
 

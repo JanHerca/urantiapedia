@@ -82,7 +82,7 @@ Aquí [^74], en verdad, el Venerable Asceta Mahâvîra del Kâ<i>s</i>yapa Gôtr
 
 22\. sammatta (samyaktva)-p., rectitud.
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 [^77]La enumeración de los problemas ha sido entregada por el Kâ<i>s</i>yapa [^78], te los explicaré en el orden debido. Escúchame. (1)
 
@@ -132,9 +132,9 @@ Si un monje escucha malas palabras, crueles y hirientes, debe ignorarlas en sile
 
 13\. Un monje no debe enojarse si es golpeado, ni por ello debe albergar pensamientos pecaminosos; sabiendo que la paciencia es el bien supremo, un monje debe meditar en la Ley. (26)
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
-Si alguien golpea en algún lugar a un <i>Srama<i>n</i>a contenido y resignado, debería pensar: “No he perdido mi vida”. (27)
+Si alguien golpea en algún lugar a un <i>Srama<i>n</i>a contenido y resignado, debería pensar: «No he perdido mi vida». (27)
 
 14\. A un monje sin hogar siempre le resultará difícil conseguirlo todo mendigando, y nada sin mendigar. (28)
 
@@ -154,7 +154,7 @@ Al sol su dolor se hará insoportable; aun así, un monje, aunque herido por la 
 
 18\. Cuando por el calor del verano su cuerpo suda y se cubre de polvo y suciedad, un monje sabio no debe lamentarse por la pérdida de su bienestar. (36)
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Debe soportar (todo esto), esperando la destrucción de su Karman [^85], (y practicando) la noble y excelente Ley; debe llevar la inmundicia sobre su cuerpo hasta que expire. (37)
 
@@ -172,9 +172,9 @@ No resentido, teniendo pocas necesidades, mendigando a extraños y no siendo del
 
 22\. Un monje no debe pensar: «No hay, en verdad, vida venidera, ni un estado exaltado que se pueda alcanzar mediante penitencias; en resumen, me he engañado». (44)
 
-Un monje no debe pensar: “Mintieron quienes dijeron que había, hay y habrá <i>Ginas</i>”. (45)
+Un monje no debe pensar: «Mintieron quienes dijeron que había, hay y habrá <i>Ginas</i>». (45)
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Todos estos problemas fueron declarados por el Kâ<i>s</i>yapa. Un monje no debe dejarse vencer por ellos cuando es atacado por cualquier cosa en cualquier lugar.
 

@@ -80,7 +80,7 @@ Contado, aunque triste, hasta la muerte, su destino (que yo
 Para mitigar así se aboga, no para revertir),
 A una vida mejor le rendiré, donde conmigo
 Todos mis redimidos puedan vivir en alegría y felicidad,
-“Hecho uno conmigo, como yo soy uno contigo”.
+«Hecho uno conmigo, como yo soy uno contigo».
 
 A quien el Padre, sin nubes, sereno:
 “Toda tu petición por el Hombre, Hijo aceptado,
@@ -202,7 +202,7 @@ Me asegura que la amargura de la muerte
 Ha pasado, y viviremos. ¡Por lo tanto, te saludo!
 Eva, llamada con razón Madre de toda la humanidad,
 Madre de todos los seres vivientes, pues por ti
-“El hombre debe vivir, y todas las cosas viven para el hombre”.
+«El hombre debe vivir, y todas las cosas viven para el hombre».
 
 A quien Eva, con triste actitud, se muestra mansa:
 "No me parece digno de tal título pertenecer
@@ -308,7 +308,7 @@ Redímete por completo de la rapaz demanda de la Muerte;
 Pero más tiempo en este Paraíso para morar
 No lo permite. Para quitarte he venido,
 Y te enviaré fuera del Jardín, para que labres.
-“La tierra de donde fuiste tomado, tierra más apta.”
+«La tierra de donde fuiste tomado, tierra más apta.»
 No añadió nada; porque Adán, ante la noticia
 Con un golpe de corazón, y un dolor escalofriante, se quedó allí,
 Que todos sus sentidos estaban atados; Eva, que sin ver
@@ -340,7 +340,7 @@ Lo que justamente has perdido, ni has puesto tu corazón,
 Así que, demasiado aficionado a lo que no es tuyo.
 Tu camino no es solitario; contigo va
 Tu marido; estás obligada a seguirlo;
-“Donde él habita, allí está tu suelo natal”.
+«Donde él habita, allí está tu suelo natal».
 
 Adán, por esto del frío repentino y húmedo
 Recuperándose, y sus ánimos dispersos regresaron,
@@ -481,7 +481,7 @@ Los efectos que tu crimen original ha producido
 En algún momento surgirá de ti, que nunca tocó
 El Árbol exceptuado, ni con la Serpiente conspiró,
 Ni cometiste tu pecado, ni aun así derivaste de ese pecado
-“La corrupción para generar más actos violentos”.
+«La corrupción para generar más actos violentos».
 
 Abrió los ojos y vio un campo,
 Parte cultivable y de labranza, sobre la cual se encontraban gavillas
@@ -575,7 +575,7 @@ Manteniendo aún la similitud divina
 En parte, estar libre de tales deformidades,
 ¿Y por causa de la imagen de su Creador, exento?”
 
-“La imagen de su Hacedor”, respondió Miguel, “entonces
+«La imagen de su Hacedor», respondió Miguel, “entonces
 Los abandonaron, cuando ellos mismos se vilipendiaron
 Para servir al apetito descontrolado, y tomó
 Su imagen a la que servían -un vicio brutal,
@@ -587,12 +587,12 @@ Mientras pervierten las sanas reglas de la Naturaleza pura
 A una enfermedad repugnante, dignamente, ya que
 La imagen de Dios no se reverencia en sí misma.”
 
-“Me lo entrego sin más”, dijo Adán, “y me someto.
+«Me lo entrego sin más», dijo Adán, “y me someto.
 Pero ¿no hay todavía otra salida, aparte de...
 Estos dolorosos pasajes, cómo podemos llegar a ser...
 ¿A la muerte y a mezclarse con nuestro polvo connatural?”
 
-“Sí que lo hay”, dijo Miguel, “si observas bien
+«Sí que lo hay», dijo Miguel, “si observas bien
 La regla de no demasiado, enseñada por la templanza
 En lo que comes y bebes, busca de ello
 Alimento debido, no deleite glotón,
@@ -668,7 +668,7 @@ La inclinación de la Naturaleza; que así expresó:
 Mucho mejor parece esta visión, y más esperanza.
 Se auguran días más pacíficos que los dos pasados:
 Eran de odio y de muerte, o de dolor mucho peor;
-“Aquí la Naturaleza parece realizada en todos sus fines.”
+«Aquí la Naturaleza parece realizada en todos sus fines.»
 
 A quien Miguel dijo: "No juzguéis lo que es mejor
 Por el placer, aunque parezca conveniente a la Naturaleza,
@@ -703,7 +703,7 @@ Entró tan bellamente que debería desviarse para pisar
 Pero aún veo el tenor del dolor del hombre.
 Se mantiene igual, desde la Mujer hasta el principio.”
 
-“De la desidia afeminada del hombre comienza”,
+«De la desidia afeminada del hombre comienza»,
 Dijo el ángel: "¿Quién debería ocupar mejor su lugar?
 Por la sabiduría y los dones superiores recibidos.
 Pero ahora prepárate para otra escena”.
@@ -782,7 +782,7 @@ Arrebatado en una nube balsámica, con corceles alados,
 En lo alto de la salvación y en los climas de dicha,
 Exento de muerte, para mostrarte qué recompensa
 Aguarda el bien, lo demás qué castigo;
-“Dirige ahora tu mirada y pronto contemplarás.”
+«Dirige ahora tu mirada y pronto contemplarás.»
 
 Miró y vio que el rostro de las cosas había cambiado por completo.
 La garganta de bronce de la guerra había dejado de rugir;
@@ -978,7 +978,7 @@ Su arco de tres colores, donde mirar
 Y recuerda su pacto. Día y noche,
 Tiempo de siembra y de cosecha, calor y escarcha,
 Mantendrán su curso hasta que el fuego purifique todas las cosas nuevas.
-“El cielo y la tierra, en ellos morarán los justos.”
+«El cielo y la tierra, en ellos morarán los justos.»
 
 <figure class="table chapter-navigator">
   <table>

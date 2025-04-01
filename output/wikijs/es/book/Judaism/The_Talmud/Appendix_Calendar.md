@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p364">[<sup><small>pág. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 ## I.—Nisán, llamado en las Escrituras Abib (parte de marzo y abril).
 
@@ -82,7 +82,7 @@ IV.—Thamuz (parte de junio y julio).
 
 1\. Luna Nueva.
 
-<span id="p365">[<sup><small>pág. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 ## VII.—Tishri (parte de septiembre y octubre).
 
@@ -130,7 +130,7 @@ El último sábado de este mes se llama la «Porción de los Shekels». Se leen 
 
 14 y 15. Fiesta de Purim por la destrucción de Amán.
 
-( ) Veaddar o Adar adicional: el mes intercalado para que los años lunar y solar coincidan. (Véase _nota_ \[[1](Treatise10_1#fn363)\], página [176](Treatise10_1#p176)). En el año actual, 1877 d. C., según la Cronología Judía, el año AM 5638 comenzó el primer día de Tishri.
+( ) Veaddar o Adar adicional: el mes intercalado para que los años lunar y solar coincidan. (Véase _nota_ \[[1](../Treatise10_1#fn363)\], página [176](../Treatise10_1#p176)). En el año actual, 1877 d. C., según la Cronología Judía, el año AM 5638 comenzó el primer día de Tishri.
 
 <figure class="table chapter-navigator">
   <table>

@@ -38,7 +38,7 @@ Trabajos sobre el texto antiguo de Sze-mâ Kwang y Fan Ȝû-yü.
 
 1\. A pesar de la dificultad en torno a un capítulo, señalada en la pág. 455, el texto de Hsüan Ȝung fue generalmente aceptado como representante del texto en caracteres modernos recuperado en el siglo II a. C. Sin embargo, aún hubo quienes defendían la validez del «texto antiguo». Sze-mâ Kwang, distinguido ministro y erudito de la dinastía Sung (1009-1086), presentó a la corte en 1054 sus «Explicaciones del rey Hsiâo según el texto antiguo», argumentando, en su prefacio y en diversos memoriales, la exactitud de dicho texto, tal como lo recuperó Liû Hsüan en el siglo VI. Fan Ȝû-yü (1041-1098), erudito del mismo siglo y colaborador de Kwang, produjo, hacia el final de su vida, una «Exposición del rey Hsiâo según el texto antiguo». Dice en su prefacio: «Aunque el acuerdo entre los textos antiguos y modernos es grande, y la diferencia pequeña, sin embargo, el antiguo merece ser preferido, y mi trabajo sobre él puede que no carezca de algún pequeño valor [^629]».
 
-<span id="p459">[<sup><small>pág. 459</small></sup>]</span>
+<span id="p459"><sup><small>[ p. 459 ]</small></sup></span>
 
 Crítica escéptica. Opiniones de Kû Hsî.
 

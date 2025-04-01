@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Sugerencia antes de leer los Tratados—Observaciones—Conclusión.
 

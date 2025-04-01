@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Espíritus malignos—Satanás—Ángeles buenos—Cielo—Infierno—La Resurrección—Juicio final—El Talmud contradice las Sagradas Escrituras—Estimación de los gentiles—Preceptos para los hijos de Noé—Río Sambation—Historias de rabinos—Proverbios—Ideas de Dios—El Mesías: Su Reino—Alusiones al Señor Jesucristo y sus discípulos.
 

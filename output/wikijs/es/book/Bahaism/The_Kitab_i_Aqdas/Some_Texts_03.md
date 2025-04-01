@@ -62,7 +62,7 @@ Que se siente, pues, y diga:
 
 Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios, y que no hay otro Dios fuera de Ti. En verdad, Tú has revelado Tu Causa, has cumplido Tu Pacto y has abierto de par en par la puerta de Tu gracia a todos los que habitan en el cielo y en la tierra. Bendiciones y paz, saludos y gloria sean para Tus amados, a quienes los cambios y las casualidades del mundo no han impedido volverse hacia Ti, y quienes han dado todo de sí con la esperanza de obtener lo que está contigo. Tú eres, en verdad, el Siempre Perdonador, el Todo Generoso.
 
-(Si alguien elige recitar en lugar del verso largo estas palabras: “Dios testifica que no hay otro Dios sino Él, el que ayuda en el peligro, el que subsiste por Sí mismo”, sería suficiente. Y de la misma manera, sería suficiente si, mientras está sentado, elige recitar estas palabras: “Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios, y que no hay otro Dios fuera de Ti”).
+(Si alguien elige recitar en lugar del verso largo estas palabras: «Dios testifica que no hay otro Dios sino Él, el que ayuda en el peligro, el que subsiste por Sí mismo», sería suficiente. Y de la misma manera, sería suficiente si, mientras está sentado, elige recitar estas palabras: «Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios, y que no hay otro Dios fuera de Ti»).
 
 (Oraciones y meditaciones de Bahá'u'lláh, CLXXXII)
 

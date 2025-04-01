@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. Si una persona ha apartado o seleccionado como ofrenda pascual una cabra o una cordera, o un macho de dos años, deben ser dejados pastar hasta que contraigan un defecto \[legal\]; entonces deben ser vendidos y el producto pagado al fondo de los holocaustos voluntarios. [^342] Si una persona que ha seleccionado su ofrenda pascual muere \[en el
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 _interino_, antes de ser sacrificado_], su hijo no puede traerlo como ofrenda pascual, sino que debe traerlo como ofrenda de paz. [^343]
 

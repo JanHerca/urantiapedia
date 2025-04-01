@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 
 El Buda comenzó a preguntarse cómo propagaría el conocimiento. Se dijo a sí mismo:
@@ -41,7 +41,7 @@ He descubierto una profunda verdad. Era difícil de percibir; será difícil de 
 
 Y el Bienaventurado no se inclinó a predicar la doctrina.
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 Entonces Brahma, en virtud de su inteligencia suprema, supo de las dudas que asediaban al Bendito. Se asustó. «El mundo está perdido», se dijo, «el mundo está deshecho si el Perfecto, el Santo, el Buda, se mantiene distante, si no va entre los hombres a predicar la doctrina y propagar el conocimiento».
 

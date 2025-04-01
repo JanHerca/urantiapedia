@@ -1,6 +1,6 @@
 ---
 title: "Fragmentos varios"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p389">[<sup><small>pág. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 ## I
 
@@ -64,7 +64,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 Propiciación al cuerpo creado de la vaca de bendita dotación y al alma de la vaca (así, si se presenta una vaca [^1570]). Propiciación al cuerpo y al alma de ustedes dos (así, si son dos [^1570]). —A su cuerpo y alma (si son tres, o a toda la manada [^1570]). (Sigue el Ahuna.)
 
-<span id="p392">[<sup><small>pág. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 ## VII
 

@@ -40,7 +40,7 @@ Se dice que Lahina, en una visión, vio a una mujer con un vestido rojo lavando 
 
 Un Jogi fue a visitar al Gurú para felicitarlo por la gran cantidad de conversos que había logrado. El Gurú respondió que tenía pocos sijs auténticos, como el propio Jogi vería. El Gurú y el Jogi decidieron adentrarse en el bosque y probar allí a los conversos sijs que los acompañaban en gran número. Para ello, el Gurú adoptó un disfraz terrible. Se puso ropa sucia y andrajosa, tomó un cuchillo y se adentró en el bosque con algunos perros de caza, aparentemente en busca de presas. Ante esto, varios de sus sijs huyeron. Fue en esa ocasión que el Gurú compuso lo siguiente:
 
-<span id="p184">[<sup><small>pág. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Tengo un perro[^1] y dos perras[^2] conmigo;
 Cada mañana ladran al viento.[^3]
@@ -74,7 +74,7 @@ El Verdadero es, era, oh Nanak; el Verdadero también será.
 
 El Gurú le indicó a Lahina que pronunciara el hechizo con un corazón puro. Cumpliría todos sus deseos, le otorgaría felicidad en este mundo y salvación en el venidero; y con su práctica continua, la luz de Dios brillaría en su corazón. Ante esto, el Jogi dijo: «Oh, Nanak, él será tu Gurú, aquel que nace de tu cuerpo, Ang». Ante esto, el Gurú abrazó a Lahina, lo llamó Angad y le prometió que sería su sucesor. El Jogi y el Gurú se fueron entonces a sus respectivos hogares.
 
-<span id="p186">[<sup><small>pág. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Los sijs que habían abandonado al Gurú lamentaron amargamente su conducta. Quienes encontraron las monedas de cobre dijeron que si hubieran ido más lejos, habrían encontrado las de plata; y quienes encontraron las de plata dijeron que si hubieran ido más lejos, habrían encontrado las de oro. Ante esto, el Gurú escribió lo siguiente:
 

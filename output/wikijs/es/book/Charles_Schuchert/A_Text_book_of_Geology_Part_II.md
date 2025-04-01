@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-12T14:46:23Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>		<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>		<text style="font-size:9px" x="61" y="60">Un libro de texto</text>		<text style="font-size:9px" x="61" y="70">de Geología,</text>		<text style="font-size:9px" x="61" y="80">Parte II -</text>		<text style="font-size:9px" x="61" y="90">Geología histórica</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">UN LIBRO DE TEXTO DE </span><br><span class="text-h3">G E 0 L O G Í A </span><br>PARTE II<br>GEOLOGÍA HISTÓRICA<br>POR<br><span class="text-h5">CHARLES SCHUCHERT</span><br>SEGUNDA EDICIÓN REVISADA<br>CASA AL AZAR<br>NUEVA YORK<br>JOHN WILEY & SONS, Inc.<br>Londres: CHAPMAN & HALL, LIMITED <br>1915<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>
+		<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>
+		<text style="font-size:9px" x="61" y="60">Un libro de texto</text>
+		<text style="font-size:9px" x="61" y="70">de Geología,</text>
+		<text style="font-size:9px" x="61" y="80">Parte II -</text>
+		<text style="font-size:9px" x="61" y="90">Geología histórica</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">UN LIBRO DE TEXTO DE </span><br>
+<span class="text-h3">G E 0 L O G Í A </span><br>
+PARTE II<br>
+GEOLOGÍA HISTÓRICA<br>
+POR<br>
+<span class="text-h5">CHARLES SCHUCHERT</span><br>
+SEGUNDA EDICIÓN REVISADA<br>
+CASA AL AZAR<br>
+NUEVA YORK<br>
+JOHN WILEY & SONS, Inc.<br>
+Londres: CHAPMAN & HALL, LIMITED <br>
+1915<br>
+<br>
+</p>
+
+<br>
+
+
+
+«tiempos críticos»
+
 ## Índice
 
 - [PREFACIO A LA PARTE II](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/Preface)

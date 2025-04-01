@@ -1,6 +1,6 @@
 ---
 title: "Índice de los volúmenes IV y XXIII"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -29,11 +29,11 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span> pág. 363
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span> pág. 363
 
 ÍNDICE DEL VENDÎDÂD, VOLUMEN IV; Y DE LOS SÎRÔZAHS, YA<i>S</i>TS Y NYÂYI<i>S</i>, VOLUMEN XXIII.
 
-<span id="p364">[<sup><small>pág. 364</small></sup>]</span> pág. 365
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span> pág. 365
 
 Las referencias en pequeños números romanos son a la Introducción a la Vendîdâd; las precedidas por II son a este volumen; las demás son a la Vendîdâd.
 
@@ -133,7 +133,7 @@ Akāyadha, hombre, II, 219.
 
 Hazte Vida, demonio, lxxii; II, 297, 308.
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Âkhnangha, hombre, II, 217.
 
@@ -289,7 +289,7 @@ Ar<i>s</i>ti, genio, II, 166.
 
 Arsvat, hombre, II, 210.
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Artajerjes, xliv, lv; II, 53.
 
@@ -449,7 +449,7 @@ Avesta, lii. n 2. Significado de la palabra, xxx. Véase Âba<i>s</i>tâ y Zand 
 
 Aw<i>z</i>\-dânva, lago, II, 301.
 
-<span id="p368">[<sup><small>pág. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Ayêhi, demonio, 228.
 
@@ -635,7 +635,7 @@ Daêvô-<i>t</i>bi<i>s</i>, hombre, II, 204.
 
 Dahae, pueblo, II, 227. n 2.
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Dahâk, demonio, II, 298. n 1. Véase A<i>z</i>i Dahâka.
 
@@ -967,7 +967,7 @@ Paraíso del Buen Pensamiento, II, 317.
 
 Gôpatishâh, hombre, 20. n 2; II, 114. No. 7, 307. No. 6.
 
-<span id="p371">[<sup><small>pág. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Gôs, genio, II, 9, 17, 88, 110-118 (Gôs Yast).
 
@@ -1141,7 +1141,7 @@ Humâyaka, pueblo, II, 80.
 
 Hun, II, 205. n
 
-<span id="p372">[<sup><small>pág. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Huno, pueblo, II, 205.
 
@@ -1317,7 +1317,7 @@ Kavâta, rey, II, 65. n 1, 222, 30;. Véase Qobad.
 
 Kavis, herejes, II, 26. n 2.
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Kavis, reyes, II, 213, 215, 218. Véase Aipivôhu, Apîvêh, Aris<i>s</i>, Armîn, Arshan, Byârhan, Husravah, Kavāta, Kaus, Khosrav, Pashîn, Qobad, Syâvakhshâ,U®
 
@@ -1483,7 +1483,7 @@ Maretan, hombre. Véase Gaya.
 
 Margiana, tierra, II, 123. n 4.
 
-<span id="p374">[<sup><small>pág. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Margus, río, II, 123. n 4.
 
@@ -1641,7 +1641,7 @@ Ormazd, II, 177. n 2. Véase Ahura Mazda.
 
 Ôshêdar Bamî, Hombre, II, 79. n 3, 164. n 1, 220. n 3, 226. n 1.
 
-<span id="p375">[<sup><small>pág. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Ôshêdar Mâh, II, 264. n 1, 220. n 2.
 
@@ -1797,7 +1797,7 @@ Sacerdote, errante, 157. n 1, 162. n 1; indigno, 189.
 
 Sacerdocio, xlvii.
 
-<span id="p376">[<sup><small>pág. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Proclo, xiii.
 
@@ -1953,7 +1953,7 @@ Estoy de pie, tierra, II, 123. n 3, 288. n 2.
 
 Selm, hombre. Lago Sairima.
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 En cuanto a, hombre, xlv.
 
@@ -2133,7 +2133,7 @@ Takhma-Urupa, príncipe, II, 60. n 1, 204, 252, 292, 326.
 
 Tanâfûhr, xcvi.
 
-<span id="p378">[<sup><small>pág. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Tanuperetha, xcvi.
 
@@ -2309,7 +2309,7 @@ Vanara, hombre, II, 205.
 
 Vandaremaini, hombre, II, 80.
 
-<span id="p379">[<sup><small>pág. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Vanghapara, 152.
 
@@ -2481,7 +2481,7 @@ Vyar<i>s</i>va<i>n</i><i>t</i>, hombre, II, 210.
 
 Vyâtana, mano, II, 218.
 
-<span id="p380">[<sup><small>pág. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Caminando sin Kostî, 199.
 

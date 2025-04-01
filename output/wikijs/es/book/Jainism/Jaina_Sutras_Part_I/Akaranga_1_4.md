@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 CUARTA LECCIÓN, LLAMADA JUSTICIA.
 
@@ -44,7 +44,7 @@ Los Arhats y Bhagavats del pasado, presente y futuro, todos dicen así, hablan a
 
 Habiendo adoptado (la ley), no se debe ocultar ni abandonar. Al comprender correctamente la ley, se debe llegar a la indiferencia hacia las impresiones de los sentidos [^184] y «no actuar según los motivos del mundo». «Quien no tiene esta mentalidad [^185], ¿cómo podría llegar a la otra [^186]?»
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Lo que aquí se ha dicho ha sido visto (por los omniscientes), oído (por los creyentes), reconocido (por los fieles) y comprendido plenamente por ellos. Quienes se entregan y se entregan (a los placeres mundanos), nacen una y otra vez. «Esforzándote día y noche, con firmeza», siempre con sabiduría, percibe que los descuidados están fuera (de la salvación); si eres cuidadoso, siempre vencerás. Así digo. (3)
 
@@ -71,7 +71,7 @@ Reflexiona y observa que, ya sea que vayas a este mundo o al más allá, en todo
 
 Todos los profesores, versados ​​en el dolor, predican la renuncia. Así, conociendo a fondo el karma, observando el mandamiento, sabio, desapegado (del mundo), reconociendo tu Ser como uno solo [^191], somete el cuerpo, castígate, debilítate: "¡Como el fuego consume la madera vieja!". Así, con una mente serena, desapegada, "¡evita la ira sin vacilar!". Considerando la brevedad de la vida, "conoce el dolor, o lo que vendrá [^192]"; uno sentirá los diversos sentimientos y percibirá el mundo sufriendo bajo ellos. (2)
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Quienes están libres de actos pecaminosos se llaman anidâna [^193]. Por lo tanto, un hombre muy sabio no debería dejarse llevar por la ira. Así lo digo. (3)
 

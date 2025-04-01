@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 
 Había una gran distancia de Rajagriha a Kapilavastu, y el Maestro caminaba lentamente. Udayin decidió adelantarse e informar a Suddhodana que su hijo venía a verlo, pues así el rey tendría paciencia y dejaría de lamentarse.

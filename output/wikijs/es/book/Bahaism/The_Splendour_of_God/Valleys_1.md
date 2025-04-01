@@ -44,7 +44,7 @@ En este viaje el buscador llega a tal punto que encuentra a todos los seres exis
 
 Ve a muchos Jacob vagando en busca de José. Contempla un mundo de amigos que corren en busca del Deseado, y un universo de amantes que viajan tras el Amado.
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 A cada momento percibe un asunto nuevo y a cada hora se entera de un misterio, pues ha elevado su corazón desde ambos mundos y se ha propuesto alcanzar la Kaaba (la meta) del Amado.
 
@@ -52,19 +52,19 @@ A cada paso la asistencia del Invisible lo rodea y el ardor de su búsqueda aume
 
 Para ilustrar la minuciosidad de la búsqueda de los requisitos para el logro en el Primer Valle, se cuenta una historia, precedida por la declaración:
 
-“La búsqueda debe medirse por el acto del Majnoon del amor”.
+«La búsqueda debe medirse por el acto del Majnoon del amor».
 
 «Majnoon», nos dice nuestro traductor, significa «loco» y era el nombre con el que se conocía a un célebre amante perteneciente a las antiguas tribus nómadas árabes. Su pareja era Laila, la hija de un príncipe árabe. La historia simboliza el amor puro y humano en su máxima expresión y ha sido el tema de muchos poetas persas. El poema de Nizami sobre esta historia de amor es una obra maestra.
 
 Se cuenta que un día vieron a Majnoon tamizando el polvo y derramando lágrimas. Dijeron: "¿Qué haces?". Él respondió: "¡Estoy buscando a Laila!". Dijeron: "¡Ay de ti! Laila proviene del espíritu puro, ¡y la estás buscando en la tierra!". Él dijo: "Me esfuerzo en buscarla _por todas partes_; ¡quizás la encuentre en algún lugar!".
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Aunque buscar al Señor de Señores en el polvo es despreciable para los sabios, es evidencia de un esfuerzo y una búsqueda incansables. «Quien busca con diligencia, sin duda encontrará».
 
 Un buscador sincero no encuentra nada más que la unión con el Deseado, y un amante no tiene otro objetivo que alcanzar al amado.
 
-El buscador no puede obtener este espíritu de búsqueda excepto mediante el sacrificio de todo lo que existe; es decir, debe aniquilar todo lo que ha visto, oído o entendido con “la negación ‘no’, para poder llegar a la ciudad del Espíritu, que es la ciudad del ‘pero’”.
+El buscador no puede obtener este espíritu de búsqueda excepto mediante el sacrificio de todo lo que existe; es decir, debe aniquilar todo lo que ha visto, oído o entendido con «la negación ‘no’, para poder llegar a la ciudad del Espíritu, que es la ciudad del ‘pero’».
 
 Aquí nuestro traductor nos recuerda que «No hay más Dios que Dios» es la fórmula de la fe en la Unidad Divina. «No hay más Dios» es negación, mientras que «sino Dios» es fe y afirmación.
 

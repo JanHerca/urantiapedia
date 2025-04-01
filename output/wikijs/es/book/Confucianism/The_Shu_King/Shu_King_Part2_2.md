@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 De las seis clases de documentos del Shû, los 'Consejos' son la segunda y contienen los sabios comentarios y sugerencias de altos funcionarios sobre el tema del gobierno.
 

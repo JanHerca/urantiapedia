@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ## CAPÍTULO I
 
@@ -51,7 +51,7 @@ Cómo Fray León tuvo una terrible visión en un sueño
 
 Una vez, en un sueño, Fray León tuvo una visión de la preparación del juicio divino. Vio a los ángeles tocando trompetas y diversos instrumentos, y convocando a una multitud maravillosa en un prado. A un lado del prado había una escalera roja y rosada que subía de la tierra al cielo, y al otro lado del prado había otra escalera blanca que descendía del cielo a la tierra. En lo alto de la escalera roja, Cristo apareció, un Señor ofendido y lleno de ira. San Francisco estaba cerca de Cristo solo unos escalones más abajo; y descendió aún más por la escalera, y con voz potente y gran fervor llamó y dijo: «Venid, mis frailes, venid con confianza, no temáis, venid, acercaos al Señor, porque Él os llama». A la voz de San Francisco y a su llamado, los frailes subieron por la escalera roja con gran confianza. Y, cuando todos estaban allí, algunos cayeron del tercer escalón, otros del cuarto, otros del quinto y del sexto; y al final todos cayeron, de modo que no quedó ni uno solo en la escalera. Ante la gran ruina de sus frailes, San Francisco, como un padre compasivo, se compadeció y suplicó al Juez por sus hijos que los aceptara en su misericordia. Y Cristo mostró sus heridas, todas ensangrentadas, y le dijo a San Francisco: «Esto me han hecho tus frailes». Y San Francisco <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> No tardó, sino que, mientras intercedía, bajó ciertos escalones y gritó a los frailes que habían caído de la escalera roja: «¡Vamos, levántense, hijos míos y frailes! ¡Ánimo y no desesperen! Corran a la escalera blanca y suban por ella, porque por ella serán recibidos en el Reino de los Cielos. ¡Corran, frailes, por paternal exhortación, a la escalera blanca!». Y en lo alto de la escalera apareció la gloriosa Virgen María, Madre de Jesucristo, toda piadosa y bondadosa, y dio la bienvenida a aquellos frailes; y sin dificultad alguna entraron en el reino eterno. Para alabanza de Cristo. Amén.
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 IMPRESO POR
 TURNBULL Y SPEARS,

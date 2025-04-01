@@ -1,5 +1,5 @@
 ---
-title: "Apéndice I. El rey Khing Käng, o “el clásico de la pureza”"
+title: "Apéndice I. El rey Khing Käng, o «el clásico de la pureza»"
 description: "Textos taoístas, vol. 2; Chuang-tzu parte II"
 published: true
 date: 2025-2-12T12:58:58Z
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ### Khing Käng King, o 'El Clásico de la Pureza [^483]'.
 
@@ -64,7 +64,7 @@ Por supuesto, los seis deseos [^499] no surgirán y los tres venenos [^500] ser�
 
 4\. La razón por la que los hombres no pueden alcanzar esto es porque sus mentes no han sido purificadas y sus deseos no han sido disipados.
 
-<span id="p252">[<sup><small>pág. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Si uno es capaz de expulsar los deseos, cuando mira su mente, ya no es suya; cuando mira su cuerpo, ya no es suyo; y cuando mira más lejos, a las cosas externas, son cosas con las que no tiene nada que ver.
 

@@ -463,7 +463,7 @@ A través de los estrictos centinelas y estaciones espesas
 ¿De ángeles vigilando alrededor? Aquí tenía necesidad
 Toda circunspección: y nosotros ahora no menos
 Elección en nuestro sufragio; porque a quién enviamos
-“El peso de todo, y nuestra última esperanza, reposa.”
+«El peso de todo, y nuestra última esperanza, reposa.»
 
 Dicho esto, se sentó; y la expectación se apoderó de él.
 Su mirada suspensa, esperando a quien apareciera.
@@ -873,7 +873,7 @@ Pero tú, oh Padre, te advierto que no te metas en problemas.
 Su flecha mortal: ni esperes en vano
 Ser invulnerable en esos brazos brillantes,
 Aunque templado celestialmente; por esa fuerza mortal,
-“Salvo Aquel que reina arriba, nadie puede resistir.”
+«Salvo Aquel que reina arriba, nadie puede resistir.»
 Ella terminó; y el sutil Demonio su conocimiento
 Pronto aprendió, ahora más suave, y así respondió suavemente:
 
@@ -932,7 +932,7 @@ Me diste mi ser; ¿a quién debo obedecer?
 A ese nuevo mundo de luz y dicha, entre
 Los dioses que viven a gusto, donde yo reinaré
 A tu diestra voluptuosa, como conviene
-“Tu hija y tu amada, sin fin.”
+«Tu hija y tu amada, sin fin.»
 
 Diciendo esto, de su lado la llave fatal,
 Ella tomó el triste instrumento de todos nuestros males;

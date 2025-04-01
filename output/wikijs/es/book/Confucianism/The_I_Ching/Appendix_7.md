@@ -29,11 +29,11 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p441">[<sup><small>pág. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 Tratado sobre los Hexagramas tomados promiscuamente, según la oposición o diversidad de su significado.
 
-Este último Apéndice se menciona brevemente en el párrafo final de la Introducción, [p. 55](Introduction_3#p55). Allí se indica que rima, y ​​he procurado darle una forma similar a la siguiente versión. Sin embargo, la rima y la longitud de los versos en el original son muy irregulares, y me resultó imposible reproducir dicha irregularidad en inglés.
+Este último Apéndice se menciona brevemente en el párrafo final de la Introducción, [p. 55](../Introduction_3#p55). Allí se indica que rima, y ​​he procurado darle una forma similar a la siguiente versión. Sin embargo, la rima y la longitud de los versos en el original son muy irregulares, y me resultó imposible reproducir dicha irregularidad en inglés.
 
 1, 2. Encontramos fuerza en <i>Kh</i>ien y debilidad en Khwăn.
 

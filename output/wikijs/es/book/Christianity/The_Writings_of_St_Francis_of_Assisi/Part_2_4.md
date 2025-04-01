@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ## IV. A LOS GOBERNANTES DEL PUEBLO.
 

@@ -1,5 +1,5 @@
 ---
-title: "Libro XV: Kho Î, o “Ideas arraigadas”"
+title: "Libro XV: Kho Î, o «Ideas arraigadas»"
 description: "Textos taoístas, vol. 1; Lao-tse; Chuang-tzu parte I"
 published: true
 date: 2025-2-12T12:58:51Z
@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:51Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_16">
-          <span class="pr-2">Libro XVI: Shan Hsing, o “La corrección de la naturaleza”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XVI: Shan Hsing, o «La corrección de la naturaleza»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p363">[<sup><small>pág. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 LIBRO XV.
 
@@ -80,7 +80,7 @@ Existe el dicho popular: «La mayoría de los hombres considera la ganancia como
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_16">
-          <span class="pr-2">Libro XVI: Shan Hsing, o “La corrección de la naturaleza”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XVI: Shan Hsing, o «La corrección de la naturaleza»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -90,7 +90,7 @@ Existe el dicho popular: «La mayoría de los hombres considera la ganancia como
 
 ## Notas al pie
 
-[^599]: 363:1 Véase pág. [146](Introducción_Fin#p146), [147](Introducción_Fin#p147).
+[^599]: 363:1 Véase pág. [146](../Introducción_Fin#p146), [147](../Introducción_Fin#p147).
 
 [^600]: 363:2 Como lo hizo Shän-thu Tî. Véase Libro VI, párr. 3.
 

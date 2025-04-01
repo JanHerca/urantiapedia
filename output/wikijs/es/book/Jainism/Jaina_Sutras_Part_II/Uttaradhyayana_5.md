@@ -40,7 +40,7 @@ Se han declarado dos modos de vida que terminan con la muerte: la muerte por vol
 
 La muerte contra la voluntad es propia de los ignorantes, y le sucede (al mismo individuo) muchas veces. La muerte por voluntad propia es propia de los sabios, y en el mejor de los casos [^94] solo ocurre una vez. (3)
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Mahâvîra ha descrito así el primer tipo de comportamiento, en el que un hombre ignorante, apegado a los placeres, realiza acciones muy crueles. (4)
 
@@ -60,13 +60,13 @@ Entonces enferma y es atacado por la enfermedad; y teme el otro mundo cuando ref
 
 He oído hablar de los lugares del infierno y del destino del pecador, donde los necios que cometen actos crueles sufrirán violentamente. (12)
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Luego, al ir al lugar donde debe nacer de nuevo según sus obras, siente remordimiento, como he oído (de mi maestro). (13)
 
 Como un auriga que, en contra de su buen juicio, abandona el camino llano y emprende un camino accidentado, y se arrepiente cuando se rompe el eje; así también el necio, que transgrede la Ley y abraza la injusticia, se arrepiente en la hora de la muerte, como (el auriga) ante el eje roto. (14, 15)
 
-Entonces, cuando finalmente llega la muerte, el necio tiembla de miedo; muere “contra su voluntad” (habiendo perdido su oportunidad), como un jugador vencido por Kali. (16)
+Entonces, cuando finalmente llega la muerte, el necio tiembla de miedo; muere «contra su voluntad» (habiendo perdido su oportunidad), como un jugador vencido por Kali. (16)
 
 Así se explicó la «muerte contra la voluntad» de los necios; ahora escucha de mí la «muerte con la voluntad» de los sabios. (17)
 
@@ -90,7 +90,7 @@ A las regiones más elevadas, en el orden debido, a aquellas donde no hay engañ
 
 Habiendo oído esto de los hombres venerables que se controlan y someten sus sentidos, los virtuosos y los eruditos no tiemblan en la hora de la muerte. (29)
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Un hombre sabio que haya sopesado (ambos tipos de muerte) y haya elegido la mejor (enseñado en) la Ley de la Compasión, alcanzará la calma mediante la paciencia, con una mente tranquila (en el momento de la muerte). (30)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Es la mañana del día de batalla, para el cual el rey ha preparado a su ejército con los tres discursos del último Libro. Una vez más, se dirige a sus príncipes confederados, a sus oficiales y a sus hombres. Expone con mayor brevedad la intolerable maldad de Shâu e instruye y advierte a sus tropas sobre cómo deben comportarse en la lucha.
 

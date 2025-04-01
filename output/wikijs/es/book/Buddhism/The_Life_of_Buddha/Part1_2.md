@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 
 A la misma hora en que nació la primavera, Maya tuvo un sueño mientras dormía. Vio a un joven elefante descender del cielo. Tenía seis grandes colmillos; era blanco como la nieve en las cimas de las montañas. Maya lo vio entrar en su vientre, y miles de dioses aparecieron repentinamente ante ella. La alabaron con cánticos inmortales, y Maya comprendió que nunca más conocería la inquietud, el odio ni la ira.

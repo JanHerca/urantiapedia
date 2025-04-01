@@ -36,7 +36,7 @@ OCTAVA CONFERENCIA. LOS VERSOS DE KAPILA [^125].
 
 ¿Con qué actos puedo escapar de una suerte dolorosa en este inestable e eterno Sa<i>m</i>sâra, que está lleno de miseria? (1)
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Abandonando tus antiguas conexiones, no pongas tu afecto en nada; un monje que no ama ni siquiera a quienes lo aman, se liberará del pecado y del odio. (2)
 
@@ -70,7 +70,7 @@ Y si alguien diera toda la tierra a un solo hombre, no le bastaría; tan difíci
 
 Cuanto más tienes, más deseas; tus deseos aumentan con tus recursos. Aunque dos māshas bastarían para cubrir tus necesidades, diez millones apenas te parecerían suficientes. (17)
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 No deseéis a las mujeres, esos demonios femeninos [^129], en cuyos pechos crecen dos trozos de carne, que cambian continuamente de opinión, que seducen a los hombres y luego se burlan de ellos como de esclavas. (18)
 

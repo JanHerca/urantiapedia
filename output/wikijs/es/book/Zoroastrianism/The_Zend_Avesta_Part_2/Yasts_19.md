@@ -1,6 +1,6 @@
 ---
 title: "XIX. Zamyâd Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Este Ya<i>s</i>t, inscrito al Genio de la Tierra, está dedicado a una descripción de las montañas y de la Gloria real (kavaêm <i>H</i><i>v</i>arenô), que se invocan, junto con la Tierra, en la fórmula correspondiente del Sîrôzah (§ 28): no hay ningún Ya<i>s</i>t dedicado a la Tierra misma.
 
@@ -52,7 +52,7 @@ Para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el sant
 
 Al monte Ushi-darena, hecho por Mazda, sede de la santa felicidad; a la Gloria real, hecha por Mazda; a esa Gloria que no puede ser tomada por la fuerza, hecha por Mazda [^1205],
 
-<span id="p287">[<sup><small>pág. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
@@ -72,7 +72,7 @@ El séptimo fue el monte Bumya [^1213].
 
 El octavo fue el monte Raoidhita [^1214].
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 El noveno fue el monte Mazi<i>s</i>i<i>s</i>v<i>a</i>u.
 
@@ -86,7 +86,7 @@ El duodécimo fue el monte Vâiti-gaêsa [^1215].
 
 4\. Monte Aêzakha, Monte Maênakha, Monte Vâkhedrakaê, Monte Asaya, Monte Tudhaskaê, Monte I<i>s</i>avaê, Monte Draoshi<i>s</i>v<i>a</i>u, Monte Sâiriv<i>a</i>u, Monte Nanghu<i>s</i>m<i>a</i>u, Monte Kakahyu, Monte A<i>n</i>tare-Kangha [^1218];
 
-5\. Monte Sikidava [^1219], Monte Ahuna, Monte Raêmana, Monte Asha-stembana, Monte Urunyô-vâidhkaê, Monte Âsnava<i>n</i><i>t</i> [^1220], Monte Ushaoma, Monte U<i>s</i>ta-<i>h</i><i>v</i>arenah, Monte Syâmaka [^1221], Monte Vafray<i>a</i>u, Monte Vourusha; <span id="p289">[<sup><small>pág. 289</small></sup>]</span> 6\. Entre los cuales se encuentran el monte <i>G</i>atara, el monte Adhutavau, el monte Spitavarena, el monte Spe<i>n</i>tô-dâta [^1222], el monte Kadrva-aspa [^1223], el monte Kaoirisa [^1224], el monte Taêra [^1225], el monte Barô-srayana, el monte Barana, el monte Frâpay<i>a</i>u, el monte Udrya y el monte Raêva<i>n</i><i>t</i> [^1226], y todas aquellas alturas a las que los hombres han dado el nombre de monte,
+5\. Monte Sikidava [^1219], Monte Ahuna, Monte Raêmana, Monte Asha-stembana, Monte Urunyô-vâidhkaê, Monte Âsnava<i>n</i><i>t</i> [^1220], Monte Ushaoma, Monte U<i>s</i>ta-<i>h</i><i>v</i>arenah, Monte Syâmaka [^1221], Monte Vafray<i>a</i>u, Monte Vourusha; <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 6\. Entre los cuales se encuentran el monte <i>G</i>atara, el monte Adhutavau, el monte Spitavarena, el monte Spe<i>n</i>tô-dâta [^1222], el monte Kadrva-aspa [^1223], el monte Kaoirisa [^1224], el monte Taêra [^1225], el monte Barô-srayana, el monte Barana, el monte Frâpay<i>a</i>u, el monte Udrya y el monte Raêva<i>n</i><i>t</i> [^1226], y todas aquellas alturas a las que los hombres han dado el nombre de monte,
 
 7\. Al número de dos mil montañas, y doscientos cuarenta y cuatro [^1227], ¡oh Spitama Zaratustra!
 
@@ -228,7 +228,7 @@ Entonces A<i>z</i>i retiró sus manos, pues el instinto de vida prevalecía, tan
 
 Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
-<span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## IX.
 
@@ -312,7 +312,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
-<span id="p306">[<sup><small>pág. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 ## XIV.
 
@@ -350,7 +350,7 @@ Fue esa Gloria la que Thraêtaona llevaba consigo cuando A<i>z</i>i Dahâka fue 
 
 Que el rey Husrava dio a luz cuando Frangrasyan, el turanio, fue asesinado [^1312];
 
-<span id="p308">[<sup><small>pág. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Ese fue el rey Vî<i>s</i>tâspa, cuando mantuvo victoriosamente la Santidad contra la hueste de los demonios y quitó el Droga del mundo del buen principio [^1313].
 
@@ -366,7 +366,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 97\. Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 Bendigo el sacrificio y la oración, la fuerza y ​​el vigor del Monte Ushi-darena, hecho por Mazda, sede de la santa felicidad; de la Gloria real, hecho por Mazda; de la Gloria que no puede ser tomada por la fuerza, hecho por Mazda [^1320].
 
@@ -404,7 +404,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1267]: 286:1 Sîrôzah I, 28.
 
-[^1268]: 287:1 Lo mismo que el Hara Berezaiti, el posterior Albôrz; véase [p. 58](Yasts_5#p58), nota [3](Yasts_5#fn296).
+[^1268]: 287:1 Lo mismo que el Hara Berezaiti, el posterior Albôrz; véase [p. 58](../Yasts_5#p58), nota [3](../Yasts_5#fn296).
 
 [^1269]: 287:2 El mar Caspio.
 
@@ -412,9 +412,9 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1271]: 287:4 Según los Bundahi<i>s</i>, Manusha es otro nombre del monte Zeredhô (XII, 2). Es la montaña donde nació Mânû<i>s</i><i>k</i>îhar (ibid. 10).
 
-[^1272]: 287:5 'La montaña que da entendimiento, que preserva el entendimiento', el posterior Monte Ô<i>s</i>dâ<i>s</i>târ; véase [p. 33](Yasts_1#p33), nota [1](Yasts_1#fn172).
+[^1272]: 287:5 'La montaña que da entendimiento, que preserva el entendimiento', el posterior Monte Ô<i>s</i>dâ<i>s</i>târ; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172).
 
-[^1273]: 287:6 Véase [p. 65](Yasts_5#p65), nota [2](Yasts_5#fn319).
+[^1273]: 287:6 Véase [p. 65](../Yasts_5#p65), nota [2](../Yasts_5#fn319).
 
 [^1274]: 287:7 El monte Arzûr 'es una cumbre en la puerta del infierno' (Bundahi<i>s</i> XII, 8; cf. Vend. III, 7 (23); XIX, 140).
 
@@ -428,11 +428,11 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1279]: 288:3 ? Kãsô-tafedhra; posiblemente el nombre de una montaña; Monte Kãsô-tafedhra Vafra.
 
-[^1280]: 288:4 Véase [p. 67](Yasts_5#p67), nota [4](Yasts_5#fn335).
+[^1280]: 288:4 Véase [p. 67](../Yasts_5#p67), nota [4](../Yasts_5#fn335).
 
 [^1281]: 288:5 'Si<i>k</i>idâv, una montaña entre las que están en Kangde<i>z</i>' (Bund. XII, 2, tr. Oeste).
 
-[^1282]: 288:6 Véase [p. 7](Sirozahs_1#p7), nota [5](Sirozahs_1#fn43).
+[^1282]: 288:6 Véase [p. 7](../Sirozahs_1#p7), nota [5](../Sirozahs_1#fn43).
 
 [^1283]: 288:7 El monte Siyâk-ômand ('la montaña negra') y el monte Vafar-ômand ('la montaña nevada') de Bundahi<i>s</i> XII, 22, que se dice que crecieron en la cresta de Apârsên y se extienden hacia China.
 
@@ -442,13 +442,13 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1286]: 289:3 La montaña Kôîrâs en Îrân-Vê<i>g</i> (Bund. XII, 25).
 
-[^1287]: 289:4 Cf. Yt. XV, 7, y [p. 58](Yasts_5#p58), nota [2](Yasts_5#fn295).
+[^1287]: 289:4 Cf. Yt. XV, 7, y [p. 58](../Yasts_5#p58), nota [2](../Yasts_5#fn295).
 
-[^1288]: 289:5 Véase [p. 8](Sirozahs_1#p8), notas [1](Sirozahs_1#fn46) y [2](Sirozahs_1#fn47).
+[^1288]: 289:5 Véase [p. 8](../Sirozahs_1#p8), notas [1](../Sirozahs_1#fn46) y [2](../Sirozahs_1#fn47).
 
 [^1289]: 289:6 'Las demás montañas han crecido a partir de Albûr<i>z</i>, en número de 2244 montañas' (Bund. XII, 2).
 
-[^1291]: 289:7 Véase notas a Yt. III, 17 ([p. 47](Yasts_3#p47)).
+[^1291]: 289:7 Véase notas a Yt. III, 17 ([p. 47](../Yasts_3#p47)).
 
 [^1292]: 290:1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
 
@@ -460,7 +460,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1296]: 291:1 §§ 19-20 = §§ 11-12.
 
-[^1297]: 291:2 Los Saoshya<i>n</i><i>t</i>s; véase [p. 165](Yasts_11#p165), nota [1](Yasts_11#fn769).
+[^1297]: 291:2 Los Saoshya<i>n</i><i>t</i>s; véase [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769).
 
 [^1298]: 291:3 §§ 23-24 = §§ 19-20.
 
@@ -484,13 +484,13 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1308]: 294:1 A<i>z</i>i Dahâka y sus seguidores.
 
-[^1309]: 294:2 Se describe que la Gloria se retira tres veces, porque es triple, según pertenezca al rey, ya sea sacerdote, guerrero o labrador. En ese triple carácter, es idéntica a Âdar Frobâ, Âdar Gushasp y Âdar Bûrzîn Mihr ([p. 7](Sirozahs_1#p7), notas).
+[^1309]: 294:2 Se describe que la Gloria se retira tres veces, porque es triple, según pertenezca al rey, ya sea sacerdote, guerrero o labrador. En ese triple carácter, es idéntica a Âdar Frobâ, Âdar Gushasp y Âdar Bûrzîn Mihr ([p. 7](../Sirozahs_1#p7), notas).
 
 [^1310]: 294:3 Un cuervo, una de las encarnaciones del Genio de la Victoria (Yt. XIV, 18-21; cf. ibid. § 35).
 
 [^1311]: 294:4 Cf. Yt. V, 34.
 
-[^1312]: 295:1 Véase V, 37 (págs. [62](Yasts_5#p62)\-[63](Yasts_5#p63), y notas); XIII, 136; XV, 27.
+[^1312]: 295:1 Véase V, 37 (págs. [62](../Yasts_5#p62)\-[63](../Yasts_5#p63), y notas); XIII, 136; XV, 27.
 
 [^1313]: 295:2 Cf. Yasna IX, II (34-39). Este relato pertenece al extendido ciclo de la ballena-isla (una ballena cuyo lomo es confundido por los marineros con una isla; desembarcan en ella, cocinan allí su comida, y el monstruo, despertado por el calor, huye y se los lleva: véase Las mil y una noches, Septuagésima primera noche; Babâ Bathrâ, 5).
 
@@ -515,7 +515,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
   Erizarse la barbilla y prometerle al hombre,
   Apolo apuntó sus flechas. (Papa.)
 
-[^1324]: 297:2 La Gloria sacerdotal; véase [p. 11](Sirozahs_1#p11), nota [6](Sirozahs_1#fn78), cf. § 53.
+[^1324]: 297:2 La Gloria sacerdotal; véase [p. 11](../Sirozahs_1#p11), nota [6](../Sirozahs_1#fn78), cf. § 53.
 
 [^1323]: 297:3 Cuando partió de Yima.
 
@@ -527,7 +527,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1329]: 298:2 Dudoso.
 
-[^1330]: 299:1 Apãm Napâ<i>t</i>; véase [p. 6](Sirozahs_1#p6), nota [1](Sirozahs_1#fn28).
+[^1330]: 299:1 Apãm Napâ<i>t</i>; véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
 [^1331]: 299:2 Una alusión a antiguos mitos sobre el origen ígneo de la vida (Ormazd et Ahriman, § 78).
 
@@ -563,7 +563,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1347]: 302:3 El Helmend (Ἐτύμανδρος; cf. Vend. I, 14).
 
-[^1348]: 302:4 La sede del <i>H</i><i>v</i>arenô; véase [p. 33](Yasts_1#p33), nota [1](Yasts_1#fn172), [p. 287](#p287), nota [^1210] e Introducción a Yt. XVIII.
+[^1348]: 302:4 La sede del <i>H</i><i>v</i>arenô; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172), [p. 287](#p287), nota [^1210] e Introducción a Yt. XVIII.
 
 [^1349]: 302:5 El agua de los ríos en los que reside la Gloria, y en medio de los cuales el Kavi ha sido nutrido.
 
@@ -571,7 +571,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1352]: 303:1 Dudoso.
 
-[^1353]: 303:2 Véase [p. 182](Yasts_13#p182), nota [2](Yasts_13#fn817).
+[^1353]: 303:2 Véase [p. 182](../Yasts_13#p182), nota [2](../Yasts_13#fn817).
 
 [^1354]: 303:3 Ver Yt. XIII, artículo 132.
 
@@ -581,7 +581,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1357]: 304:2 Keresavazda, el Karsîvaz de Firdausi, el hermano de Afrâsyâb y el asesino de Syâvarshâna: fue condenado a muerte por Husravah en compañía de su hermano (Études Iraniennes, II, 227).
 
-[^1358]: 304:3 Véase [p. 114](Yasts_9#p114), nota [7](Yasts_9#fn545).
+[^1358]: 304:3 Véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545).
 
 [^1359]: 305:1 Véase Vend. XX, 10.
 
@@ -601,13 +601,13 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1367]: 306:1 §§ 85-86 = Yt. XIII, 99-100.
 
-[^1368]: 306:2 O 'con su lanza empujada hacia adelante'; véase [p. 205](Yasts_13#p205), nota [1](Yasts_13#fn924).
+[^1368]: 306:2 O 'con su lanza empujada hacia adelante'; véase [p. 205](../Yasts_13#p205), nota [1](../Yasts_13#fn924).
 
 [^1369]: 306:3 Cf. Yt. V, 109.
 
 [^1370]: 306:4 §§ 89-90 = §§ 11-12.
 
-[^1371]: 306:5 Véase [p. 117](Yasts_9#p117), nota [6](Yasts_9#fn555).
+[^1371]: 306:5 Véase [p. 117](../Yasts_9#p117), nota [6](../Yasts_9#fn555).
 
 [^1372]: 307:1 Saoshya<i>n</i><i>t</i>; cf. Yt. XIII, 129.
 
@@ -619,7 +619,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1376]: 307:5 O 'el demonio'.
 
-[^1377]: 307:6 Esta línea contradice lo que sabemos de la leyenda de Frangrasyan, a menos que el texto esté corrupto y el nombre de Frangrasyan se haya introducido aquí por error (¿en lugar de Keresâspa?). Sin embargo, podría aludir a aspectos más brillantes, desconocidos para nosotros, del héroe turanio: el Toro (g<i>a</i>u<i>s</i>) podría ser su hermano Aghraêratha, el Hombre-Toro (Gôpatishâh); véase [p. 114](Yasts_9#p114), nota [7](Yasts_9#fn545).
+[^1377]: 307:6 Esta línea contradice lo que sabemos de la leyenda de Frangrasyan, a menos que el texto esté corrupto y el nombre de Frangrasyan se haya introducido aquí por error (¿en lugar de Keresâspa?). Sin embargo, podría aludir a aspectos más brillantes, desconocidos para nosotros, del héroe turanio: el Toro (g<i>a</i>u<i>s</i>) podría ser su hermano Aghraêratha, el Hombre-Toro (Gôpatishâh); véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545).
 
 [^1378]: 307:7 Véase § 77.
 
@@ -631,7 +631,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1382]: 308:4 Un nombre de la droga.
 
-[^1383]: 308:5 Véase [p. 220](Yasts_13#p220), nota [1](Yasts_13#fn981).
+[^1383]: 308:5 Véase [p. 220](../Yasts_13#p220), nota [1](../Yasts_13#fn981).
 
 [^1384]: 308:6 Véase [p. 297](#p297), nota [^1261].
 

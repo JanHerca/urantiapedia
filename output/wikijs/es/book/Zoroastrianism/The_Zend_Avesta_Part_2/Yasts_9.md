@@ -1,6 +1,6 @@
 ---
 title: "IX. Gôs Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Gô<i>s</i>, «la vaca», κατ᾽ ἐξοχήν, es una personificación del reino animal, al que mantiene y protege. También se le llama Drvâspa y Go<i>s</i>ûrûn: Drvâspa significa «la que mantiene sanos a los caballos» y no es más que un epíteto de Gô<i>s</i>. Gô<i>s</i>ûrûn (del Zend G<i>e</i>u<i>s</i> urvan) significa «el Alma del Toro» (el Toro primigenio). Aunque urvan es un sustantivo masculino en el Zend, Gô<i>s</i>ûrûn se considera un ángel femenino, ya que este nombre es solo un sustituto de Gô<i>s</i>.
 
-Gô<i>s</i> es el ángel del día 14 (Sîrôzah I, 14), y su Ya<i>s</i>t se recita durante el Gâh U<i>s</i>ahin, en los días de Gô<i>s</i>, Bahman, Mâh y Râm (los mismos días en que se recita el Mâh Ya<i>s</i>t; ver arriba, [p. 88](Yasts_7#p88)).
+Gô<i>s</i> es el ángel del día 14 (Sîrôzah I, 14), y su Ya<i>s</i>t se recita durante el Gâh U<i>s</i>ahin, en los días de Gô<i>s</i>, Bahman, Mâh y Râm (los mismos días en que se recita el Mâh Ya<i>s</i>t; ver arriba, [p. 88](../Yasts_7#p88)).
 
 Gô<i>s</i> apenas se describe en este Ya<i>s</i>t (§§ 1-2); la mayor parte está llena de las diversas oraciones que le dirigieron los héroes iraníes: Haoshyangha (§ 3), Yima (§ 8), Thraêtaona (§ 13), Haoma (§ 17), Husravah (§ 21), Zarathu<i>s</i>tra y Vî<i>s</i>tâspa. Sus adoradores y sus oraciones son los mismos que en el caso de Ashi Vanguhi (véase Yt. XVII).
 
@@ -56,7 +56,7 @@ Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
 Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## I.
 
@@ -104,7 +104,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## IV.
 
@@ -146,7 +146,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p117">[<sup><small>pág. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 ## VII.
 
@@ -206,13 +206,13 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^552]: 111:2 Dudoso.
 
-[^553]: 111:3 Cf. [p. 58](Yasts_5#p58), nota [1](Yasts_5#fn294).
+[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), nota [1](../Yasts_5#fn294).
 
-[^554]: 111:4 Cf. [59](Yasts_5#p59), nota [2](Yasts_5#fn298).
+[^554]: 111:4 Cf. [59](../Yasts_5#p59), nota [2](../Yasts_5#fn298).
 
 [^555]: 111:5 Al infierno.
 
-[^556]: 112:1 Como arriba, [p. 30](Yasts_1#p30).
+[^556]: 112:1 Como arriba, [p. 30](../Yasts_1#p30).
 
 [^557]: 112:2 § 7 = §§ 1-2.
 
@@ -224,13 +224,13 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destrucción de los demonios, uno de los principales efectos del sacrificio, se atribuye a Haoma como el elemento más poderoso del mismo. En el Shâh Nâmah, el dios Haoma se ha convertido en un ermitaño que, viviendo cerca de la cueva donde Afrâsyâb se había refugiado (véase supra, Yt. V, 41), escucha sus lamentaciones, lo sorprende, lo ata y lo entrega en manos de Khosrav (Études Iraniennes, II, 227).
 
-[^563]: 114:3 Véase [p. 64](Yasts_5#p64), nota [1](Yasts_5#fn315).
+[^563]: 114:3 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
-[^564]: 114:4 Véase arriba, [p. 66](Yasts_5#p66), nota [2](Yasts_5#fn322).
+[^564]: 114:4 Véase arriba, [p. 66](../Yasts_5#p66), nota [2](../Yasts_5#fn322).
 
-[^565]: 114:5 Véase [p. 66](Yasts_5#p66), nota [3](Yasts_5#fn323).
+[^565]: 114:5 Véase [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323).
 
-[^566]: 114:6 Véase [p. 64](Yasts_5#p64), nota [1](Yasts_5#fn315).
+[^566]: 114:6 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
 [^567]: 114:7 Dudoso (narava, en oposición a nara). Aghraêratha (Aghrêrath) era hermano de Afrâsyâb; era un hombre justo, y Afrâsyâb lo mató por haber salvado al rey iraní Mino<i>k</i>ihr con su ejército, cuando estaba cautivo en las montañas Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Sin embargo, aún vive como inmortal en la tierra de Saukavastân, bajo el nombre de Gôpatshâh (el rey de los toros); 'de los pies a la mitad del cuerpo es un toro, y de la mitad del cuerpo a la p. 115 cima es un hombre; En todo momento permanece a la orilla del mar, y siempre realiza el culto a Dios, y siempre vierte agua bendita en el mar (Minokhired LXII, 31 y siguientes, tr. Oeste; Bund. XXIX, 5); según Bund. XXXI, 20, Aghrêrath no era Gôpatshâh, sino su padre. Cf. Yt. XIX, 93.
 
@@ -246,7 +246,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^573]: 117:2 ? <i>Gainyâvara</i>.
 
-[^574]: 117:3 Véase arriba, [p. 79](Yasts_5#p79), nota [4](Yasts_5#fn392).
+[^574]: 117:3 Véase arriba, [p. 79](../Yasts_5#p79), nota [4](../Yasts_5#fn392).
 
 [^577]: 117:4 Una vez llamado.
 

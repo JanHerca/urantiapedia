@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:56Z
   </table>
 </figure>
 
-<span id="p65">[<sup><small>pág. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## Puntos en disputa entre las escuelas de Shammai y Hillel: El orden de las bendiciones.
 
@@ -75,7 +75,7 @@ Pero la escuela de Hillel dice: El exterior de la copa es impuro en cualquier ca
 
 **M**.VIII. 4 (3). La Escuela de Shammai dice: Un _M_. se limpia las manos [^409] con una servilleta y la coloca sobre la mesa; [^410] y la Escuela de Hillel dice: Sobre el cojín. [^411]
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 **T**.
 
@@ -93,7 +93,7 @@ Se da otra razón: El lavado de manos no es para la comida común. [^412] Sino q
 
 **M**.VIII. 5. La escuela de Shammai dice: Lámpara, alimento y especias [^416] y _Habdalah_. [^417] Pero el
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 **M**.\[el párrafo continúa\] La escuela de Hillel dice: Lámpara, especias, alimentos y Habdalah.
 
@@ -107,7 +107,7 @@ El que está acostumbrado a usar tales formas dice muchas _Habdaloth_, [^419] y 
 
 En el Aula de Conferencias, la Escuela de Shammai dice: Una persona dice la Bendición por todos ellos, y la Escuela de Hillel dice: Cada uno dice la Bendición por sí mismo. [^420]
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## La redacción de la bendición sobre la lámpara.
 
@@ -129,7 +129,7 @@ El fuego [^429] y los híbridos [^430] no fueron creados en los seis días de la
 
 8\. En el caso del fuego y las especias de un baño, [^433] no se reza la bendición sobre ellos. Si se está en una tienda de especias todo el día, se reza la bendición solo una vez. Si se entra y se sale repetidamente, se reza la bendición cada vez.
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -143,7 +143,7 @@ El fuego [^429] y los híbridos [^430] no fueron creados en los seis días de la
 
 9 (8). Supongamos que les llega el vino después de la comida, y solo hay una copa, [^437] la escuela de Shamai dice: Se dice la bendición sobre el vino, y después la bendición sobre la comida. Pero la escuela de Hillel dice: Se dice la bendición sobre la comida, y después la bendición sobre el vino. [^438] Responden "Amén" cuando un israelita dice la bendición, pero no dicen "Amén" cuando un cutiano (es decir,
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 **M**.\[párrafo continúa\] Samaritano) que dice la Bendición, hasta que se oye toda la Bendición. [^439]
 
@@ -222,15 +222,15 @@ V. 21. En el caso de un pagano que dice la bendición en el nombre (del Idán), 
 
 [^416]: 68:4 _sobre la cabeza del asistente. Para no desperdiciarlo.
 
-[^417]: 68:5 _especias_. Como la costumbre de quemar especias al final de las comidas (_M_. VI. 6, _supra_, [p. 48](Berakoth_3_6#p48)) «se interrumpía en el sabbat, la introducción de especias se asoció con el fin del sabbat» (Abrahams on SA, p. 216).
+[^417]: 68:5 _especias_. Como la costumbre de quemar especias al final de las comidas (_M_. VI. 6, _supra_, [p. 48](../Berakoth_3_6#p48)) «se interrumpía en el sabbat, la introducción de especias se asoció con el fin del sabbat» (Abrahams on SA, p. 216).
 
-[^418]: 68:6 _Habdalá_, [p. 39](Berakoth_2_5#p39).
+[^418]: 68:6 _Habdalá_, [p. 39](../Berakoth_2_5#p39).
 
 [^419]: 69:1 _para una fiesta_. Cuando un sábado precede inmediatamente a una fiesta.
 
 [^420]: 69:2 _Habdalot_. El plural puede referirse a la vanidad en las Bendiciones, en las citas de las Escrituras o en la enumeración de diversas «distinciones».
 
-[^421]: 69:3 _Cada uno por sí mismo_. Quizás porque van y vienen continuamente. Cf. _supra_, [p. 63](Berakoth_3_7#p63).
+[^421]: 69:3 _Cada uno por sí mismo_. Quizás porque van y vienen continuamente. Cf. _supra_, [p. 63](../Berakoth_3_7#p63).
 
 [^422]: 70:1 _la lámpara_. La palabra traducida aquí y en la cláusula siguiente es _ma'ôr_ (Gén. 116), y en la mishná anterior, _nêr_. Pero en _T_ se usa _ma'ôr_ en lugar de _nêr_.
 
@@ -270,7 +270,7 @@ V. 21. En el caso de un pagano que dice la bendición en el nombre (del Idán), 
 
 [^440]: 73:1 Véase _T_.
 
-[^441]: 73:2 Véase [p. 9](Berakoth_1_1#p9).
+[^441]: 73:2 Véase [p. 9](../Berakoth_1_1#p9).
 
 [^442]: 73:3 Un prosélito pagano ha aprendido la forma judía común. Pero un samaritano puede decir algo herético.
 

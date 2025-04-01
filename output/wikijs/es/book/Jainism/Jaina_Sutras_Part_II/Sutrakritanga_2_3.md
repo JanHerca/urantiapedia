@@ -40,7 +40,7 @@ Aquí, en el Este, Oeste, Norte y Sur, existen en el mundo cuatro tipos de semil
 
 Estos seres vivos se alimentan de la sustancia líquida [^1133] de estas partículas de tierra, origen de diversas cosas; estos seres consumen cuerpos terrestres, cuerpos acuáticos, cuerpos ígneos, cuerpos eólicos, cuerpos vegetales; privan de vida a los cuerpos de múltiples seres móviles e inmóviles; los cuerpos destruidos, que han sido consumidos previamente o absorbidos por la corteza, son digeridos y asimilados por ellos. Y los cuerpos de estos árboles, que producen sus diferentes partes, son de múltiples colores, olores, sabores, texturas, formas y disposición de partículas corpóreas [^1134].
 
-<span id="p390">[<sup><small>pág. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 Estos seres (árboles animadores) llegan a existir debido a su Karman; así nos enseñan (los Tîrthakaras, etc.) (2)
 
@@ -66,7 +66,7 @@ Y nuevamente se ha dicho antiguamente: algunos seres surgen como seres móviles 
 
 Estas criaturas se alimentan de la savia de los árboles, enredaderas, hierbas, plantas, ya sean terrestres o acuáticas; de la savia de sus raíces, semillas, etc., de Âyas, etc., de udakas, etc. Y consumen cuerpos terrestres, asimilados por ellos. Los cuerpos de estos seres nacidos de árboles, enredaderas, hierbas, plantas, raíces, etc., de Âyas, etc., de udagas, etc., son de múltiples colores, etc., el resto como en el § 2, hasta el final. (20)
 
-<span id="p393">[<sup><small>pág. 393</small></sup>]</span>
+<span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 Y también se ha dicho antiguamente: un hombre y una mujer se unen en cohabitación en un cunnus, producido por su Karman, y allí depositan sus humores. Allí nacen las almas de diferentes hombres, a saber, de aquellos nacidos en Karmabhûmi [^1151], o en Akarmabhûmi, o en los continentes menores, de Âryas y bárbaros, como mujeres, hombres o eunucos, según el semen y la sangre de la madre [^1152] y las demás circunstancias [^1153] (dependientes de su surgimiento). Estos seres se alimentan primero de la menstruación de la madre y del semen del padre, o de ambos combinados en una sustancia impura y fétida. Y después absorben con una parte (de sus cuerpos) la esencia [^1154] de cualquier alimento que ingieran las madres. Aumentando gradualmente y alcanzando las dimensiones propias de un feto [^1155], salen del útero, algunos como machos, otros como hembras, otros como neutros. Mientras son bebés, maman de la leche materna; pero al crecer, comen arroz hervido, gachas o seres tanto móviles como inmóviles. Estos seres consumen cuerpos terrenales (etc., todo como antes, hasta) asimilados por ellos. Y los cuerpos de estos hombres, es decir, los nacidos en Karmabhûmi, Akarmabhûmi, o en los continentes menores, de Âryas y bárbaros, son de múltiples <span id="p394"><sup><small>[ p. 394 ]</small></sup></span> colores (etc., todo como en el § 2, hasta el final). (21)
 
@@ -182,7 +182,7 @@ Así lo digo.
 
 [^1160]: 392:4 Esto debe detallarse de la misma manera que con los árboles y las enredaderas.
 
-[^1161]: 393:1 Comparar la nota [1](Uttaradhyayana_36#fn648), [p. 225](Uttaradhyayana_36#p225).
+[^1161]: 393:1 Comparar la nota [1](../Uttaradhyayana_36#fn648), [p. 225](../Uttaradhyayana_36#p225).
 
 [^1162]: 393:2 Ambos se indican en el texto con bî<i>g</i>a. Según <i>S</i>îlâṅka, se producirá un varón si hay exceso de semen; una hembra, si hay exceso de sangre; un neutro, si hay un equilibrio equilibrado.
 
@@ -206,7 +206,7 @@ Así lo digo.
 
 [^1172]: 395:3 Puede ser <i>k</i>atushpâdika, cuadrúpedo; pero entonces la palabra debe tomarse en un sentido restringido, tal vez, cuadrúpedos pequeños.
 
-[^1173]: 395:4 Véase Uttarâdhyayana XXXVI, 187; supra, [p. 224](Uttaradhyayana_36#p224). ¿Quizás los dos últimos tipos de pakshins se refieren a escarabajos y mariposas?
+[^1173]: 395:4 Véase Uttarâdhyayana XXXVI, 187; supra, [p. 224](../Uttaradhyayana_36#p224). ¿Quizás los dos últimos tipos de pakshins se refieren a escarabajos y mariposas?
 
 [^1174]: 395:5 A<i>n</i>usûya = anusûta o anusyûta.
 

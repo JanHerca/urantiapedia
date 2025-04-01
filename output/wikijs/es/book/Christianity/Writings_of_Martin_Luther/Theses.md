@@ -233,7 +233,7 @@ Correo electrónico: CFWLibrary@CRF.CUIS.EDU Correo postal: 6600 N. Clinton St.,
 
 ---
 
-“Disputa sobre la declaración de la virtud de las indulgencias”. por el Dr. Martín Lutero, 1483-1546 D. OBRAS DE MARTÍN LUTERO: EDICIÓN CRÍTICA COMPLETA. 1er volumen (Weimar: Hermann Boehlau, 1883). páginas. 233-238. PW #001-001La
+«Disputa sobre la declaración de la virtud de las indulgencias». por el Dr. Martín Lutero, 1483-1546 D. OBRAS DE MARTÍN LUTERO: EDICIÓN CRÍTICA COMPLETA. 1er volumen (Weimar: Hermann Boehlau, 1883). páginas. 233-238. PW #001-001La
 
 ---
 

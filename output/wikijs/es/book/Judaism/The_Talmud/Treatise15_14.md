@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>pág. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 1\. «¿Cómo fue purificado el leproso?» “Trajo una vasija de barro nueva y echó en ella un cuarto de log de agua corriente, y trajo dos aves domesticadas. Mató a una de ellas sobre la vasija de barro y sobre el agua corriente. La cavó y la enterró delante de él. Tomó madera de cedro, hisopo y lana escarlata, y las envolvió en el resto [^612] del trozo de lana. Y les sujetó las puntas de las alas y el extremo de la cola de la segunda ave. El sacerdote las sumergió en la vasija de barro y roció el agua y la sangre siete veces en el dorso de la mano del leproso, y algunos dicen que en su frente. Y así también era el orden de rociar sobre el dintel de la casa del leproso por fuera.
 

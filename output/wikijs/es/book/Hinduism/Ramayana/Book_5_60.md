@@ -104,7 +104,7 @@ Sobre aquel que quebranta la ley antigua. [^892]
 Observa el punto medio donde se encuentra la justicia,
 Y perdonarle la vida, pero aun así castigarlo.'
 
-<span id="p423">[<sup><small>pág. 423</small></sup>]</span>
+<span id="p423"><sup><small>[ p. 423 ]</small></sup></span>
 
 Entonces estalló la furia del tirano,
 Y así, con palabras airadas, habló:
@@ -201,7 +201,7 @@ Y observó cada calle, cada plaza y cada camino,
 Todavía envuelto en un resplandor inofensivo,
 Un sol adornado con rayos.
 
-<span id="p424">[<sup><small>pág. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 
 
@@ -275,7 +275,7 @@ Perecer consumido por las llamas.
 Si yo, cuando la ira me vuelve loco.
 Han causado la muerte del hijo de Janak,
 La llama encendida acabará con mi dolor,
-O los fuegos profundos que arden abajo, [1](Libro_5_60#fn895)
+O los fuegos profundos que arden abajo, [1](../Libro_5_60#fn895)
 O mi cuerpo abandonado será
 Comida para los monstruos del mar.
 ¿Cómo puedo conocer a Sugríva? ¿Cómo?
@@ -285,7 +285,7 @@ Yo, cuyo acto temerario he frustrado locamente.
 ¿O se ha desprendido de su propia virtud brillante?
 ¿Su influencia guardiana alrededor de su cabeza?
 Ella vive intacta, la dama incomparable;
-La llama no tiene furia por la llama. [2](Libro_5_60#fn896)
+La llama no tiene furia por la llama. [2](../Libro_5_60#fn896)
 El mismo fuego jamás lo consentiría.
 Para dañar a una reina tan excelente,
 La fiel esposa del noble Rama,
@@ -314,7 +314,7 @@ Entonces la reina buscó con alegre prisa,
 Con palabras de esperanza consolaron su corazón,
 Y lo preparó para partir.
 
-<span id="p425">[<sup><small>pág. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 Selló la gloriosa empinada pendiente de Arishta.
 Cuyas cumbres se elevaban sobre las profundidades.
@@ -408,11 +408,11 @@ A ti, triunfante sobre el enemigo
 Nuestras esperanzas, nuestras vidas y todo lo que debemos.
 Oh corazón fiel probado en los peligros,
 
-<span id="p426">[<sup><small>pág. 426</small></sup>]</span>
+<span id="p426"><sup><small>[ p. 426 ]</small></sup></span>
 
 Lo cual ni el trabajo ni el miedo pudieron desviar,
 La dama restaurará tu obra,
-Y el corazón de Ráma no dolerá más,' [1](Libro_5_66#fn899)
+Y el corazón de Ráma no dolerá más,' [1](../Libro_5_66#fn899)
 
 <figure class="table chapter-navigator">
   <table>
@@ -442,11 +442,11 @@ Y el corazón de Ráma no dolerá más,' [1](Libro_5_66#fn899)
 
 [^891]: 422:1 Cuando Hanumán fue atado con cuerdas, Indrajit liberó a su cautivo del hechizo que le había impuesto el arma mágica.
 
-[^892]: 422:1b “Quien asesina a un embajador i (_rája \*bhata_) va a Tuptakumbha, el infierno de los calderos calientes.” WILSON's _Vishya Purana_, Vol. II pág. 217. pág. 423 “Se recordará que a los enviados del rey David les afeitó la mitad de la barba Hanún, rey de Amón. (2 Sam. X.)” WHEELER, _Hist, of India_, Vol. II. 342.
+[^892]: 422:1b «Quien asesina a un embajador i (_rája \*bhata_) va a Tuptakumbha, el infierno de los calderos calientes.» WILSON's _Vishya Purana_, Vol. II pág. 217. pág. 423 «Se recordará que a los enviados del rey David les afeitó la mitad de la barba Hanún, rey de Amón. (2 Sam. X.)» WHEELER, _Hist, of India_, Vol. II. 342.
 
 [^893]: 423:1 No he intentado atenuar nada en este Canto. Ofrezco una traducción fiel.
 
-[^894]: 423:1b “¡He aquí una maravilla! Aquellos que ahora parecían superar en tamaño a los hijos gigantes de la tierra, ahora son menos que los enanos más pequeños en un espacio estrecho, una multitud innumerable.”
+[^894]: 423:1b «¡He aquí una maravilla! Aquellos que ahora parecían superar en tamaño a los hijos gigantes de la tierra, ahora son menos que los enanos más pequeños en un espacio estrecho, una multitud innumerable.»
   _Paraíso perdido_, I, 716.
 
 [^895]: 424:1 El fuego que se supone que arde bajo el mar.

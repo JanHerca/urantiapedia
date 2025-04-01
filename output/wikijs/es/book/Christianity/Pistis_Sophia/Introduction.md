@@ -36,7 +36,7 @@ dateCreated: 2025-1-18T17:53:4Z
 
 El Códice Askew. El singular manuscrito del documento gnóstico copto comúnmente llamado «Pistis Sophia» fue adquirido por el Museo Británico en 1785 a los herederos del Dr. Askew y ahora está catalogado como MS. Add. 5114. El título en el reverso de la encuadernación moderna es «Piste Sophia Coptice». En la parte superior de la primera página del manuscrito figura la firma «A. Askew, MD». En la primera página de la encuadernación se encuentra la siguiente nota, probablemente escrita a mano por Woide, el erudito copto más famoso de la época y bibliotecario del Museo:
 
-“_Codex dialecti Superioris Ægypti, quam Sahidicam seu Thebaidicam votant, cujus titulus exstat página 115: Pmeh snaou ǹtomos ǹ̀tpiste Sophia—Tomos secundus fidelis Sapientiæ—deest pagina_ 337-344.”
+«_Codex dialecti Superioris Ægypti, quam Sahidicam seu Thebaidicam votant, cujus titulus exstat página 115: Pmeh snaou ǹtomos ǹ̀tpiste Sophia—Tomos secundus fidelis Sapientiæ—deest pagina_ 337-344.»
 
 El título «Piste Sophia» es incorrecto. Esta forma no se encuentra en ninguna de las numerosas apariciones del nombre en el texto, y la enmienda sugerida apresuradamente por Dulaurier y Renan para que se lea «Piste Sophia» no ha recibido apoyo.
 

@@ -1,6 +1,6 @@
 ---
 title: "Yasna VII. Presentación de ofrendas por parte del sacerdote con el objeto de propiciación nombrado"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -86,7 +86,7 @@ Y ofrezco los trozos de madera con el perfume para Tu propiciación, del Fuego, 
 
 26\. Sacrificamos al Ahuna-vairya, a la palabra veraz correctamente pronunciada, a la oración piadosa y bondadosa que pide bendiciones, a la terrible maldición de los sabios, el Yazad, a Haurvatâ<i>t</i> y Ameretatâ<i>t</i>, a la carne del ganado del don bendito, al Haoma y al jugo de Haoma, a los trozos de madera y al perfume, para alabanza de la oración piadosa y bondadosa que pide bendiciones.
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 El YêNhê hâtãm.
 

@@ -65,7 +65,7 @@ Cada señor Vánar con todo su séquito,
 Cada guardabosques de este dominio salvaje,
 Y Angad aquí, tu amada, mira
 Un gobernador y amigo en ti.
-Estos dos [1b](Libro_4_30#fn604) cuyos corazones están doloridos
+Estos dos [1b](../Libro_4_30#fn604) cuyos corazones están doloridos
 Los ritos funerarios se realizarán,
 Y Angad por el cuidado de su madre
 Sé rey, heredero legítimo de su padre.
@@ -103,7 +103,7 @@ Y mira la cama donde yace Báli.
 Allí todavía respiran con suspiros lentos y débiles.
 Yacía Báli en el suelo: sus ojos,
 
-<span id="p351">[<sup><small>pág. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Húmedo por las lágrimas de la muerte, se levantó,
 Al conquistar Sugríva contempló,
@@ -216,7 +216,7 @@ El peso de la lucha mortal de antaño
 Con Golabh el Gandharva, cuando,
 Durando cinco largos años y diez,
 
-<span id="p352">[<sup><small>pág. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 El terrible conflicto no tuvo fin
 En la penumbra de la noche, en el resplandor del día;
@@ -342,7 +342,7 @@ De quien proviene nuestra dicha y honor.
 Obediente al mandato de su madre
 Presionó suavemente los pies de su padre.
 
-<span id="p353">[<sup><small>pág. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Con los brazos entrelazados y las manos demoradas:
 "Padre", gritó, "allí está Angad".
@@ -361,7 +361,7 @@ El sacrificio de la lucha mortal.
 En donde el eje de Ráma aceleró
 Suministró el lugar de la cuenca hidrográfica,
 ¿Cómo te has bañado al final?
-¿Sin tu esposa para prestarme su ayuda? [1](Libro_4_30#fn610)
+¿Sin tu esposa para prestarme su ayuda? [1](../Libro_4_30#fn610)
 ¿Por qué mis ojos ya no ven?
 Tu brillante y amada cadena de oro,
 Lo cual, complacido contigo, Rey de los Inmortales
@@ -455,7 +455,7 @@ Con una fuerza abrumadora sobre mi alma:
 Así se recoge la lluvia que desciende
 En el profundo hueco de la llanura.
 
-<span id="p354">[<sup><small>pág. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 
 
@@ -575,7 +575,7 @@ Se utiliza cuando mueren los monarcas más orgullosos:
 En cuanto a un rey de amplio poder.
 Celebra hoy sus exequias,
 
-<span id="p355">[<sup><small>pág. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Sugriva dio su alta orden;
 Entonces la principesca Tara y el resto,
@@ -696,7 +696,7 @@ Y entrenó una conducta justa para mantenerla
 Regalos como los de su padre adornan su juventud.
 Nacido mayor del mayor nacido.
 
-<span id="p356">[<sup><small>pág. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 Este es el mes de Srávana [^613]primero
 De aquellos que ven estallar las nubes de lluvia.
@@ -791,7 +791,7 @@ El fuerte hurra y el grito alegre.
 «¡Bien hecho! ¡Bien hecho!», gritó cada Vánar.
 Y el buen Sugriva glorificó.
 
-<span id="p357">[<sup><small>pág. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Entonces, con voces alegres y en voz alta,
 Fueron alabados Rama y su hermano;
@@ -915,7 +915,7 @@ Más querido para Ráma que su vida.
 Jefe cuando vio al Señor de la Noche
 Elévate lentamente sobre la altura oriental,
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Se revolvió en su lecho de hojas
 Con ojos que el sueño no ha visitado.
@@ -1019,7 +1019,7 @@ Cada torrente que caía desde la cumbre se derramaba
 Sustituye al cordón sagrado. [^621]
 Y vientos que en sus cavernas gimen.
 
-<span id="p359">[<sup><small>pág. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 Suena como el tono de voz. [^622]
 De este a oeste destellan relámpagos rojos,
@@ -1052,7 +1052,7 @@ Y habita dentro de su palacio liberado
 
 De cada cuidado de necesidad apremiante
 La luna está llena, feroz y fuerte.
-El impetuoso Sarjú [1b](Libro_4_30#fn629) ruge
+El impetuoso Sarjú [1b](../Libro_4_30#fn629) ruge
 Como si las multitudes de Ayodhyá se hubieran agotado
 Para saludar a su rey con un grito resonante.
 En este dulce tiempo de tranquilidad y descanso.
@@ -1082,7 +1082,7 @@ Mi socorro, o negar la deuda
 Conozco su generoso corazón, y por eso
 Espera el momento con confianza
 Cuando su celo amistoso se manifieste,
-Y los arroyos vuelven a fluir tranquilos.' [2b](Libro_4_30#fn630)
+Y los arroyos vuelven a fluir tranquilos.' [2b](../Libro_4_30#fn630)
 
 
 
@@ -1103,7 +1103,7 @@ Y toda alta esperanza se cumplió.
 Con la real Rumá a su lado,
 O Tará, una novia aún más querida,
 
-<span id="p360">[<sup><small>pág. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 Pasó cada día y cada noche alegres.
 En jolgorio y deleite salvaje,
@@ -1191,7 +1191,7 @@ El imperial Vanar le dio su bendición:
 'Ve, Nila, a las huestes lejanas
 Que mantienen en armas sus diversos puestos,
 Y todos los ejércitos que protegen
-Los cuarteles, [1](Libro_4_30#fn632) con sus jefes, se reúnen.
+Los cuarteles, [1](../Libro_4_30#fn632) con sus jefes, se reúnen.
 A todas las luminarias colocadas
 En las regiones intermedias hay prisa,
 Y pide a cada capitán que se levante y dirija
@@ -1222,7 +1222,7 @@ De sus tiernos brazos arrancado para siempre.
 Lamentó que la ocasión se le escapara,
 Y débil de angustia exhalaba cada suspiro
 
-<span id="p361">[<sup><small>pág. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 Se sentó donde había muchas vetas variadas
 De rico mineral se marcaba la cima de la montaña.
@@ -1338,7 +1338,7 @@ Pero ahora el dominio del placer los hunde.
 Contigo, mi hermano, por aliado
 Esa fuerza y ​​ese valor los desafío
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Él prometió que cuando terminaran las lluvias,
 El socorro de su brazo para prestar.
@@ -1389,7 +1389,7 @@ Luego añade lo que te parezca mejor.
 
 ## Notas al pie
 
-[^603]: 350:1 “Nuestras acciones nos siguen desde lejos. Y lo que hemos sido nos hace lo que somos.”
+[^603]: 350:1 «Nuestras acciones nos siguen desde lejos. Y lo que hemos sido nos hace lo que somos.»
 
 [^604]: 350:1b Sugríva y Angad.
 
@@ -1413,7 +1413,7 @@ Luego añade lo que te parezca mejor.
 
 [^614]: 356:2 Cartas: Octubre-Noviembre.
 
-[^615]: 356:3 “Indras, como el sol nocturno, se oculta, transformado, en el cielo estrellado: las estrellas son sus ojos. Argos, el de los cien ojos o el que todo lo ve (panoptês), se coloca como espía sobre las acciones de la vaca amada por Zeus, en el equivalente helénico de esta forma de Indras.” DE GUBERNATIS, _Mitología Zoológica_, Vol. I, pág. 418.
+[^615]: 356:3 «Indras, como el sol nocturno, se oculta, transformado, en el cielo estrellado: las estrellas son sus ojos. Argos, el de los cien ojos o el que todo lo ve (panoptês), se coloca como espía sobre las acciones de la vaca amada por Zeus, en el equivalente helénico de esta forma de Indras.» DE GUBERNATIS, _Mitología Zoológica_, Vol. I, pág. 418.
 
 [^616]: 356:1b Baudháyana y otros.
 
@@ -1421,7 +1421,7 @@ Luego añade lo que te parezca mejor.
 
 [^618]: 357:1 Vitex Negundo.
 
-[^619]: 358:1 Mályavat: “El nombre de esta montaña me parece erróneo, y creo que en lugar de Mályavat debería leerse Malayavat. Malaya es un grupo de montañas situado exactamente en la parte sur de la India donde ahora estaba Ráma, mientras que Mályavat está situado al noreste”. GORRESIO.
+[^619]: 358:1 Mályavat: «El nombre de esta montaña me parece erróneo, y creo que en lugar de Mályavat debería leerse Malayavat. Malaya es un grupo de montañas situado exactamente en la parte sur de la India donde ahora estaba Ráma, mientras que Mályavat está situado al noreste». GORRESIO.
 
 [^620]: 358:2 Los mantos de piel de antílope negro eran la vestimenta prescrita por los ascetas y estudiantes religiosos.
 
@@ -1439,7 +1439,7 @@ Luego añade lo que te parezca mejor.
 
 [^627]: 359:6 Bharat, quien fue regente durante la ausencia de Rama.
 
-[^628]: 359:7 O con Goriesio, siguiendo la glosa de otro comentario: “Ha completado todos los ritos sagrados y acumulado reservas de méritos”.
+[^628]: 359:7 O con Goriesio, siguiendo la glosa de otro comentario: «Ha completado todos los ritos sagrados y acumulado reservas de méritos».
 
 [^629]: 359:1b El río sobre el que se construyó Ayodhyá.
 

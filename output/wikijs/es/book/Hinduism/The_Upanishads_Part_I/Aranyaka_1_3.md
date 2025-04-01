@@ -48,7 +48,7 @@ TERCER ADHYÂYA.
 
 6\. Si comienza con el sonido Él, ese sonido es la separación del habla divina y humana.
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Por lo tanto, quien comienza, después de haber pronunciado el sonido Él, separa el habla divina del habla humana [^429].
 
@@ -137,7 +137,7 @@ pati<i>m</i> vo aghnyânâm,
 Anu yam vi<i>s</i>ve madanti ûmâ<i>h</i> sho
 dhenûnâm ishudhyasi.
 
-<span id="p182">[<sup><small>pág. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 En nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] son ​​las aguas en el cielo, pues riegan todo esto; y son las aguas en la boca, pues riegan todo buen alimento.
 
@@ -149,7 +149,7 @@ En nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] son ​​las agua
 
 6\. Extiende un Trish<i>t</i>ubh y un Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh es el hombre, Anush<i>t</i>ubh la esposa, y forman una pareja. Por lo tanto, un hombre, después de encontrar esposa, se considera un hombre más perfecto.
 
-7\. Estos versos, al repetirse las tres primeras veces, se convierten en veinticinco. El tronco es el vigésimo quinto, y Pra<i>g</i>âpati es el vigésimo quinto [^446]. Tiene diez dedos en las manos, diez dedos en los pies, dos piernas, dos brazos, y el tronco es el vigésimo quinto. Él adorna ese tronco como el vigésimo quinto. Ahora bien, este día consta de veinticinco, y el himno Stoma de ese día consta de veinticinco: se convierte en el mismo <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> a través del mismo. Por lo tanto, los dos, el día y el himno, son veinticinco [1](Aranyaka_3_1#fn447).
+7\. Estos versos, al repetirse las tres primeras veces, se convierten en veinticinco. El tronco es el vigésimo quinto, y Pra<i>g</i>âpati es el vigésimo quinto [^446]. Tiene diez dedos en las manos, diez dedos en los pies, dos piernas, dos brazos, y el tronco es el vigésimo quinto. Él adorna ese tronco como el vigésimo quinto. Ahora bien, este día consta de veinticinco, y el himno Stoma de ese día consta de veinticinco: se convierte en el mismo <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> a través del mismo. Por lo tanto, los dos, el día y el himno, son veinticinco [1](../Aranyaka_3_1#fn447).
 
 
 ## SEXTO KHA<i>N</i><i>D</i>A.

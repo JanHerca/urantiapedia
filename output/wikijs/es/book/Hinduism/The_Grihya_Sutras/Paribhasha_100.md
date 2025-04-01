@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 <span id="an76"></span>
 
@@ -76,7 +76,7 @@ Sin distinción de casta, la ofrenda Aindrâgna se omite para quien ofrece el S�
 
 Aunque no sea un Somayâ<i>g</i>in, dice el comentario.
 
-<span id="p338">[<sup><small>pág. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Todo este asunto se resume en el comentario de Kapardin: Amâvâsyâyâm asomayâ<i>g</i>ina aindrâgna-sâ<i>g</i>nâyyayor vikalpa_h_. Paur<i>g</i>amâsyâ_m<i>g</i>g<i>g</i>n<i>g</i>h_. Tadrahitâpi paur<i>g</i>amâsî purushârtha<i>m</i> sâdhayati. Tatra dvayor eva hi yâgayo_h<i>g</i>n<i>g</i>s<i>g</i>k_yatvam asti, pratyeka<i>m</i> nâmayogât. Tasmâd agnîshomîyayâgarahitâv evetarau purushârtha_m<i>g</i>h_.
 

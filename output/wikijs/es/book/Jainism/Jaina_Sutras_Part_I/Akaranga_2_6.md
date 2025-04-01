@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 SEXTA LECCIÓN, LLAMADA PEDIR UN CUENCO [^432].
 
@@ -76,13 +76,13 @@ Un monje o una monja pueden mendigar un cuenco que ningún otro <i>Srama<i>n</i>
 
 Esta es la cuarta regla.
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Un monje o una monja que haya adoptado una de estas cuatro reglas no debe decir, etc. (véase II, 1, tr, § 12, todo hasta) nos respetamos mutuamente en consecuencia. (7)
 
-Un jefe de familia puede tal vez decirle a un mendigo que pide limosna de la manera prescrita: “¡Oh, <i>S</i>rama<i>n</i>a de larga vida! Regresa después de un mes”, etc. (todo como en la Lección llamada La mendicidad de ropa [^436]). (8)
+Un jefe de familia puede tal vez decirle a un mendigo que pide limosna de la manera prescrita: «¡Oh, <i>S</i>rama<i>n</i>a de larga vida! Regresa después de un mes», etc. (todo como en la Lección llamada La mendicidad de ropa [^436]). (8)
 
-El dueño de casa puede decir (a uno de sus hombres): “¡Oh, longevo! (o, ¡oh, hermana!) trae ese cuenco, frótalo con aceite, ghee, mantequilla fresca o médula, te lo daremos”, etc. (véase II, 5, 1, § 11); o lávalo, límpialo o frótalo con perfumes, etc.; o “lávalo con agua fría o caliente”; o “vacíalo de los bulbos”, etc. (véase II, 5, 1, §§ 11 y 12). (9)
+El dueño de casa puede decir (a uno de sus hombres): «¡Oh, longevo! (o, ¡oh, hermana!) trae ese cuenco, frótalo con aceite, ghee, mantequilla fresca o médula, te lo daremos», etc. (véase II, 5, 1, § 11); o lávalo, límpialo o frótalo con perfumes, etc.; o «lávalo con agua fría o caliente»; o «vacíalo de los bulbos», etc. (véase II, 5, 1, §§ 11 y 12). (9)
 
 El jefe de familia puede decir (al mendigo): «¡Oh, longevo <i>S</i>rama<i>n</i>a! Quédate un rato hasta que hayan cocinado o preparado nuestra comida, etc., y entonces te daremos, ¡oh, longevo!, tu cuenco de limosna lleno de comida o bebida; no es bueno, no es apropiado que un mendigo reciba un cuenco de limosna vacío». Tras reflexionar, el mendigo debe responder: «¡Oh, longevo! (o, ¡oh, hermana!), en verdad no me corresponde comer ni beber comida, etc., que es âdhâkarmika; no la cocines ni la prepares; si quieres darme algo, dáselo tal como está». Tras estas palabras, el jefe de familia puede ofrecerle el cuenco de limosna lleno de comida o bebida cocinada o preparada: no debe aceptar tal cuenco de limosna, pues es impuro e inaceptable. (10)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 ### CAPÍTULO XI.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 5. Cuando el hijo de una mujer casada con un sacerdote se intercambia con el de su esclava, ambos pueden comer del cielo, pero si se presentan al mismo tiempo en la era, recibirán solo una porción del cielo; no podrán contaminarse con un cadáver ni casarse con mujeres que cumplan o no los requisitos para casarse con un sacerdote. [^728] Pero cuando hayan alcanzado la mayoría de edad y se hayan manumitido mutuamente, podrán casarse solo con las mujeres que cumplan los requisitos para el sacerdocio, y no podrán contaminarse con un cadáver; pero si lo hicieran, no se les aplicarán los cuarenta azotes. No pueden comer del pan, pero si lo hacen, no tienen que devolver el capital ni una quinta parte adicional, ni participar en la repartición del pan entre los sacerdotes en la era, sino que pueden vender su propio pan y quedarse con el dinero. [^729] No tienen parte en las cosas consagradas del Templo; [^730] no se les dan cosas consagradas, [^731] ni se les exige su pago. Además, no están obligados a dar la espaldilla, las quijadas ni el grupito de su ofrenda a los sacerdotes. Sus primogénitos deben pastar hasta que contraigan una falta legal, y con respecto a sus sacrificios, se les deben aplicar las más estrictas normas vigentes para los sacerdotes y los israelitas.
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 § 6. Si una mujer que no esperó tres meses para volver a casarse desde la muerte de su esposo o desde su divorcio, se casa dentro de ese plazo y tiene un hijo del cual se duda si fue hijo de nueve meses del primer esposo o de siete meses del segundo; si tuvo otros hijos del primer y segundo esposo, entonces estos hijos deben, en caso de fallecimiento sin descendencia de su hermano, sobre cuyo nacimiento existe duda, recibir la jalitzá de su viuda, pero no puede casarse con ella por yebúm; y también solo puede recibir la jalitzá de cualquiera de las viudas de su hermano, pero no puede casarse con ellas por yebúm. Pero si tenía medio hermanos, ya sea de su primer o segundo esposo, que no fueran hijos de su madre, puede en ese caso [^733] recibir la jalitzá de la viuda de su hermano o casarse con ella por yebúm. Respecto a sus hermanos, uno de ellos debe [en caso de fallecimiento sin descendencia] recibir la jalitzá de su viuda, y luego otro hermano puede casarse con ella por yebúm.
 

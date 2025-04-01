@@ -1,6 +1,6 @@
 ---
 title: "XIV. Bahram Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Respecto de Bahrâm (Verethraghna), el Genio de la Victoria, véase Vend. Introd. V, 8.
 
@@ -68,7 +68,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico, Creador del mundo material, tú, Santo!
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 '¿Quién es el mejor armado de los dioses celestiales?'
 
@@ -88,7 +88,7 @@ Ahura Mazda respondió: '¡Es Verethraghna, hecho por Ahura, oh Spitama Zarathus
 
 6\. 'Ofrecemos sacrificios a Verethraghna, hecho por Ahura.'
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico, Creador del mundo material, tú, Santo!
 
@@ -180,7 +180,7 @@ Ahura Mazda respondió: '¡Es Verethraghna, hecho por Ahura, oh Spitama Zarathus
 
 21\. Él pasta en los caminos ocultos [^1051] de las montañas, pasta en las cimas de las montañas, pasta en las profundidades de los valles, pasta en la cima [^1052] de los árboles, escuchando las voces de los pájaros.
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda [^1053], la Gloria hecha por Mazda . . . .
 
@@ -242,7 +242,7 @@ A él le ofreció el santo Zaratustra un sacrificio, pidiendo un pensar victorio
 
 31\. Verethraghna, hecho por Ahura, le dio las fuentes de la virilidad, la fuerza de los brazos, la salud de todo el cuerpo, la robustez de todo el cuerpo y la vista del caballo macho, que, en la oscuridad de la noche, en su primera mitad [^1060] y a través de la lluvia, puede percibir el pelo de un caballo tirado en el suelo y sabe si proviene de la cabeza o de la cola [^1061].
 
-<span id="p240">[<sup><small>pág. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
@@ -262,7 +262,7 @@ Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado
 
 Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico, Creador del mundo material, tú, Santo!
 
-<span id="p241">[<sup><small>pág. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 'Si me han lanzado una maldición, un hechizo lanzado sobre mí por muchos hombres que me odian, ¿cuál es el remedio?'
 
@@ -326,7 +326,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p246">[<sup><small>pág. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## XVIII.
 
@@ -348,7 +348,7 @@ El príncipe y su hijo y sus hijos, que son jefes de miríadas [^1090] le ofrece
 
 Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## XX.
 
@@ -530,6 +530,6 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1155]: 247:1 De Yasna X, 20 (62), donde, en lugar de las palabras, 'en el buey está nuestra fuerza (amem), en el buey está nuestra necesidad', el texto tiene, 'en el buey está su necesidad, en el buey está nuestra necesidad', es decir, 'cuando le damos su necesidad (agua y pasto), él nos da nuestra necesidad (leche y terneros)' (Pahl. tr.).
 
-[^1156]: 248:1 Véase [p. 120](Yasts_10#p120), nota [2](Yasts_10#fn558).
+[^1156]: 248:1 Véase [p. 120](../Yasts_10#p120), nota [2](../Yasts_10#fn558).
 
 [^1157]: 248:2 ¿Quién ofrecerá un sacrificio a Verethraghna?

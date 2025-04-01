@@ -1,6 +1,6 @@
 ---
 title: "VIII. Tîr Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T13:0:36Z
 </figure>
 
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Ti<i>s</i>trya es el líder de las estrellas contra los planetas, ya que las estrellas y los planetas pertenecen, respectivamente, a los mundos de Ahura Mazda y Angra Mainyu (Vend. Introd. IV, 36; Bund. II, 5 seq.).
 
@@ -57,7 +57,7 @@ Para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el sant
 
 A Ti<i>s</i>trya, la estrella brillante y gloriosa, y al poderoso Satavaêsa, hecho por Mazda, que impulsa las aguas hacia adelante [^456],
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
@@ -73,7 +73,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'A Ti<i>s</i>trya, la estrella brillante y gloriosa, ofrecemos las libaciones, el Haoma y la carne, la baresma, la sabiduría de la lengua, los hechizos sagrados, el habla, las acciones, las libaciones y las palabras correctamente dichas [^462].
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 'Yênhê hâtãm: Todos aquellos seres de quienes Ahura Mazda . . . .
 
@@ -85,7 +85,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## III.
 
-5\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa; por quien rebaños, manadas y hombres anhelaban su llegada, engañados en su esperanza [^466]: “¿Cuándo lo veremos surgir, la estrella brillante y gloriosa Tistrya? ¿Cuándo brotarán olas tan densas como el tamaño de un caballo, o aún más densas? ¿O nunca llegarán?”
+5\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa; por quien rebaños, manadas y hombres anhelaban su llegada, engañados en su esperanza [^466]: «¿Cuándo lo veremos surgir, la estrella brillante y gloriosa Tistrya? ¿Cuándo brotarán olas tan densas como el tamaño de un caballo, o aún más densas? ¿O nunca llegarán?»
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -101,7 +101,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 8\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, que aflige a los Pairikas, que aflige a los Pairikas, quienes, en forma de estrellas-gusano [^471], vuelan <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> entre la tierra y el cielo, en el mar Vouru-Kasha, el mar poderoso, el vasto y profundo mar de aguas saladas [^472]. Acude a su lago en forma de caballo, en forma sagrada; y allí abajo hace que las aguas hiervan y los vientos soplen con fuerza por todas partes.
 
-9\. 'Entonces Satavaêsa [^473] hace que esas aguas fluyan hacia los siete Karshvares de la tierra [^474], y cuando llega allí, se yergue, hermoso, esparciendo tranquilidad y alegría en los países fértiles (pensando para sí mismo): “¿Cómo se volverán fértiles los países de los Aryas?”
+9\. 'Entonces Satavaêsa [^473] hace que esas aguas fluyan hacia los siete Karshvares de la tierra [^474], y cuando llega allí, se yergue, hermoso, esparciendo tranquilidad y alegría en los países fértiles (pensando para sí mismo): «¿Cómo se volverán fértiles los países de los Aryas?»
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -129,7 +129,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97"><sup><small>[
 
 14\. 'Es activo como lo fue el primer hombre [^484]; sigue adelante con la fuerza del primer hombre; tiene la virilidad [^485] del primer hombre.
 
-15\. [^486]. Aquí convoca a la gente a reunirse, aquí pregunta: “¿Quién me ofrecerá ahora las libaciones con el Haoma y la carne sagrada? ¿A quién le daré la riqueza de hijos varones, un grupo de hijos varones y la purificación de su propia alma? Ahora debo recibir sacrificios y oraciones en el mundo material, por la ley de la santidad suprema.”
+15\. [^486]. Aquí convoca a la gente a reunirse, aquí pregunta: «¿Quién me ofrecerá ahora las libaciones con el Haoma y la carne sagrada? ¿A quién le daré la riqueza de hijos varones, un grupo de hijos varones y la purificación de su propia alma? Ahora debo recibir sacrificios y oraciones en el mundo material, por la ley de la santidad suprema.»
 
 16\. 'Las siguientes diez noches, ¡oh Spitama Zarathu<i>s</i>tra!, el brillante y glorioso Ti<i>s</i>trya mezcla su forma con la luz, moviéndose en la forma de un toro de cuernos dorados [^487].
 
@@ -145,7 +145,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97"><sup><small>[
 
 23\. 'Y Tistrya huye del mar Vouru-Kasha, tan lejos como un Hâthrâ [^489] de distancia. Grita con dolor y angustia, el brillante y glorioso Tistrya: "¡Ay de mí, oh Ahura Mazda! ¡Estoy en aflicción, oh Aguas y Plantas! ¡Oh Destino y tú, Ley de los adoradores de Mazda! Los hombres no me adoran con un sacrificio en el que se me invoca por mi propio nombre, como adoran a los demás Yazatas con sacrificios en los que se les invoca por sus propios nombres [^490].
 
-24\. '“Si los hombres me hubieran adorado con un sacrificio en el que yo hubiera sido invocado por mi propio nombre, como adoran a los otros Yazatas con sacrificios en los que son invocados por sus propios nombres, yo habría tomado para mí la fuerza de diez caballos, la fuerza de diez camellos, la fuerza de diez toros, la fuerza de diez montañas, la fuerza de diez ríos [^491].”
+24\. '«Si los hombres me hubieran adorado con un sacrificio en el que yo hubiera sido invocado por mi propio nombre, como adoran a los otros Yazatas con sacrificios en los que son invocados por sus propios nombres, yo habría tomado para mí la fuerza de diez caballos, la fuerza de diez camellos, la fuerza de diez toros, la fuerza de diez montañas, la fuerza de diez ríos [^491].»
 
 25\. 'Entonces yo, Ahura Mazda, ofrezco al brillante y glorioso Ti<i>s</i>trya un sacrificio en el que se le invoca por su propio nombre, y le traigo la fuerza de diez caballos, la fuerza de diez camellos, la fuerza de diez toros, la fuerza de diez montañas, la fuerza de diez ríos.
 
@@ -199,7 +199,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 41\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, por quien anhelan las aguas estancadas, las aguas de manantial, las aguas de los arroyos y las aguas de lluvia:
 
-42\. “¿Cuándo surgirá para nosotros el brillante y glorioso Tistrya? ¿Cuándo los manantiales, con caudal y abundancia de aguas, tan densas como el lomo de un caballo, correrán hacia los hermosos parajes y campos, y hacia los pastos, hasta las raíces de las plantas, para que crezcan con vigor?”
+42\. «¿Cuándo surgirá para nosotros el brillante y glorioso Tistrya? ¿Cuándo los manantiales, con caudal y abundancia de aguas, tan densas como el lomo de un caballo, correrán hacia los hermosos parajes y campos, y hacia los pastos, hasta las raíces de las plantas, para que crezcan con vigor?»
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -215,7 +215,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## XIV.
 
@@ -305,17 +305,17 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 [^482]: 93:5 Nombre; véase Estudios iraníes, II, 124.
 
-[^483]: 93:6 Cf. [pág. 47](Yasts_3#p47).
+[^483]: 93:6 Cf. [pág. 47](../Yasts_3#p47).
 
 [^484]: 94:1 Poderosamente.
 
-[^485]: 94:2 O, «por quien la belleza de las aguas viene de Bereza, y su semilla de Apãm Napâ<i>t</i>». Bereza, el alto, el alto, un epíteto de Apãm Napâ<i>t</i>, se convirtió en uno de sus nombres (Ized Bôr<i>g</i>; cf. § 34); para Apãm Napâ<i>t</i>, véase arriba, [p. 6](Sirozahs_1#p6), nota [1](Sirozahs_1#fn28).
+[^485]: 94:2 O, «por quien la belleza de las aguas viene de Bereza, y su semilla de Apãm Napâ<i>t</i>». Bereza, el alto, el alto, un epíteto de Apãm Napâ<i>t</i>, se convirtió en uno de sus nombres (Ized Bôr<i>g</i>; cf. § 34); para Apãm Napâ<i>t</i>, véase arriba, [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
 [^486]: 94:3 Paiti<i>s</i>mare<i>n</i>ti; cf. Yt. V, 123.
 
 [^487]: 94:4 O mejor, 'en su mirada'.
 
-[^488]: 94:5 Véase arriba, [p. 54](Yasts_5#p54), nota [6](Yasts_5#fn279).
+[^488]: 94:5 Véase arriba, [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
 
 [^489]: 95:1 Mainivas<i>a</i><i>u</i> = mainyu-as<i>a</i><i>u</i> (que significa pun mînôî <i>g</i>îvâkîh, svargasthânam, Yasna LVII, 27 \[LVI, 11, 3\]).
 
@@ -325,7 +325,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 [^492]: 95:4 Dudoso. Se alude a estrellas fugaces. El Sr. Geiger comenta que cada año cae un enjambre de estrellas fugaces justo cuando se supone que Tistrya, en el clima europeo, es más activa, el 10 de agosto.
 
-[^493]: 96:1 Véase arriba, [p. 66](Yasts_5#p66), nota [3](Yasts_5#fn323).
+[^493]: 96:1 Véase arriba, [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323).
 
 [^494]: 96:2 Se dice que Satavaêsa es el líder de las estrellas occidentales (léase estrellas del sur, Bund. II, 7), y tiene en su protección los mares del cuadrante sur (ibid. XIII, 12); el mar de Satavaêsa es el golfo Pérsico.
 
@@ -381,7 +381,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 [^520]: 102:2 Haoma abre el camino a las aguas del cielo, como elemento principal del sacrificio (cf. § 24). Por la misma razón, los Bundahi<i>s</i> incluyen a Vohu-Manô, «Buena Mente», entre los colaboradores de Ti<i>s</i>trya.
 
-[^521]: 102:3 Véase [p. 6](Sirozahs_1#p6), nota [1](Sirozahs_1#fn28).
+[^521]: 102:3 Véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
 [^522]: 102:4 O mejor, 'sentado en las aguas'; véase Yt. XIX, 56 seq. y Yt. XIII, 65.
 
@@ -397,7 +397,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 [^528]: 104:1 Véase Yt. XVII.
 
-[^529]: 104:2 Véase arriba, [p. 11](Sirozahs_1#p11), nota [5](Sirozahs_1#fn77).
+[^529]: 104:2 Véase arriba, [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
 
 [^530]: 104:3 Dudoso. El monte <i>H</i><i>v</i>anva<i>n</i><i>t</i>, al estar situado en el mar Vouru-Kasha (como se desprende de Ti<i>s</i>trya viajando hacia ese mar, § 38), parece ser el mismo que el monte Aûsindôm (§ 32).
 
@@ -409,7 +409,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 [^534]: 105:3 En los Bundahi<i>s</i> es especialmente la líder de las estrellas orientales; pero el Minokhired la llama la primera estrella (XLIX, 5; cf. arriba, § 12).
 
-[^535]: 105:4 Véase arriba, [p. 38](Yasts_2#p38), nota [3](Yasts_2#fn199).
+[^535]: 105:4 Véase arriba, [p. 38](../Yasts_2#p38), nota [3](../Yasts_2#fn199).
 
 [^536]: 106:1 Véase Yt. X, 82, nota.
 

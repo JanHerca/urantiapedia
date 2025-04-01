@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 3. ¿Cómo se puede separar la masa de la torta [חלה] en la Pascua si se ha vuelto impura? [^276] R. Eleazar dice: «Solo se le debe dar nombre después de hornearse». R. Jehudah, hijo de Beterah, dice: «Esta no es la levadura de la que se dice: 'No se verá ni se hallará en tu casa'». Por lo tanto, debe separarse y dejarse hasta la tarde, sin importar si se leuda o no.
 
-<span id="p103">[<sup><small>pág. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 § 4. Rabbón Gamaliel dice: «Tres mujeres pueden amasar la masa para la Pascua a la vez y hornearla en el mismo horno, una tras otra». Pero los sabios dicen: «Tres mujeres pueden ocuparse de la masa, pero de la siguiente manera: una amasará, otra dará forma a la masa, mientras la tercera hornea». Rabbán Akivah dice: «No es lo mismo con todas las mujeres, ni con la leña ni con los hornos». [^277] Esta es la regla: en cuanto la masa se infle, la mujer debe sumergir la mano en agua fría. [^278]
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 Asia es una. El Himalaya divide, solo para acentuar, dos poderosas civilizaciones: la china, con su comunismo de Confucio, y la india, con su individualismo de los Vedas. Pero ni siquiera las barreras nevadas pueden interrumpir ni un instante esa vasta extensión de amor por lo Último y Universal, que es la herencia mental común de todas las razas asiáticas, lo que les permite producir todas las grandes religiones del mundo y los distingue de los pueblos marítimos del Mediterráneo y el Báltico, que aman centrarse en lo particular y buscar el medio, no el fin, de la vida.
 
@@ -44,7 +44,7 @@ Pues si Asia es una, también es cierto que las razas asiáticas forman una sola
 
 O, volviendo de nuevo al Asia oriental desde Occidente, el budismo —ese gran océano de idealismo en el que se funden todos los sistemas fluviales del pensamiento del Asia oriental— no está teñido sólo del agua pura del Ganges, pues las naciones tártaras que se unieron a él hicieron también tributario su genio, aportando nuevo simbolismo, nueva organización, nuevos poderes de devoción, para añadir a los tesoros de la fe.
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Sin embargo, Japón ha tenido el gran privilegio de comprender esta unidad en la complejidad con especial claridad. La sangre indo-tartárica de esta raza fue en sí misma una herencia que la capacitó para absorber ambas fuentes y, por lo tanto, reflejar la totalidad de la conciencia asiática. La singular bendición de una soberanía inquebrantable, la orgullosa autosuficiencia de una raza invicta y el aislamiento insular que protegió las ideas e instintos ancestrales a costa de la expansión, hicieron de Japón el verdadero depositario de la confianza del pensamiento y la cultura asiáticos. Las convulsiones dinásticas, las incursiones de los jinetes tártaros, la carnicería y la devastación de las turbas enfurecidas: todo esto, azotándola una y otra vez, no ha dejado a China ningún hito, salvo su literatura y sus ruinas, que recuerde la gloria de los emperadores Tang o el refinamiento de la sociedad Song.
 

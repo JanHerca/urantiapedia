@@ -44,7 +44,7 @@ Vete, y, siempre bajo la protección de Dios, que ningún mal te alcance jamás,
 
 Aunque tu forma se asemeja a la de la damisela, ninguna imaginación puede comprender las virtudes de su mente.
 
-«Tan pronto como el caballero terminó sus versos, mi señor, soltó al cervatillo de su mano, y se fue saltando sobre el desierto estéril, cuando pronto se les unieron dos caballeros más. —“¿Y qué hay de maravilloso en todo esto?» dijo Ramih. Supongo que son de la tribu de Cahtan, y que la tarde los ha sorprendido, y en consecuencia deben descansar en mi tierra, y la abandonarán por la mañana”.
+«Tan pronto como el caballero terminó sus versos, mi señor, soltó al cervatillo de su mano, y se fue saltando sobre el desierto estéril, cuando pronto se les unieron dos caballeros más. —«¿Y qué hay de maravilloso en todo esto?» dijo Ramih. Supongo que son de la tribu de Cahtan, y que la tarde los ha sorprendido, y en consecuencia deben descansar en mi tierra, y la abandonarán por la mañana».
 
 Malik, sin embargo, que había oído esta conversación, estaba convencido de que el hombre a pie, del que hablaba el esclavo, debía ser Shiboob, mientras que el caballero humanitario sólo podía ser Antar, que iba de camino a rescatarlos; y tenía razón. Inmediatamente hubo una gran confusión en las tiendas; el héroe-león cortó la cabeza del jefe con su espada Dhami, y habiendo liberado a Malik y a su hijo, todos regresaron a la tierra de Abs.
 

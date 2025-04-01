@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span> pág. 146
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span> pág. 146
 
 TALAVAKÂRA O KENA-UPANISHAD.
 
-<span id="p147">[<sup><small>pág. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ## PRIMER KHAND.
 

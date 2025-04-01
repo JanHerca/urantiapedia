@@ -44,7 +44,7 @@ Santiago se adelantó, besó el pecho de Jesús y dijo: «Señor mío, tu espír
 
 2. Pon tu mano sobre el arma y el escudo y levántate para ayudarme.
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 3. Saca una espada y ocúltala de mis opresores. Dile a mi alma: «Yo soy tu salvación».
 
@@ -96,7 +96,7 @@ Santiago se adelantó, besó el pecho de Jesús y dijo: «Señor mío, tu espír
 
 27. Que quienes desean mi justificación se alegren y se regocijen, y que quienes desean la paz de su siervo digan: «Sea el Señor grande y levántese».
 
-“28. Mi lengua se regocijará por tu justificación y por tu honor todo el día.” **(98)**
+«28. Mi lengua se regocijará por tu justificación y por tu honor todo el día.» **(98)**
 
 ## CAPÍTULO 52
 
@@ -116,9 +116,9 @@ El arrepentimiento de Sofía es aceptado. Jesús es enviado a ayudarla.
 
 Jesús continuó de nuevo y dijo a sus discípulos: «Sucedió entonces, cuando Pistis Sophia había proclamado el noveno arrepentimiento, que el poder con cara de león la oprimió de nuevo, deseando quitarle todos los poderes. Ella clamó de nuevo a la Luz, diciendo: **(99)**
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
-“'Oh Luz, en quien he tenido fe desde el principio, por cuya causa he soportado estos grandes dolores, ayúdame.'”
+«'Oh Luz, en quien he tenido fe desde el principio, por cuya causa he soportado estos grandes dolores, ayúdame.'»
 
 Y en esa hora, su arrepentimiento le fue aceptado. El Primer Misterio la escuchó, y fui enviado por orden suya. Vine a ayudarla y la saqué del caos, porque se había arrepentido, y también porque había tenido fe en la Luz y había soportado estos grandes dolores y estos grandes peligros. Había sido engañada por el divino Obstinado, y no había sido engañada por nada más, salvo por un poder de luz, debido a su semejanza con la Luz en la que había tenido fe. Por esta razón, fui enviado por orden del Primer Misterio para ayudarla en secreto. Sin embargo, aún no fui a la región de los eones; sino que descendí a través de ellos, sin que ningún poder lo supiera, ni los del interior ni los del exterior, salvo solo el Primer Misterio.
 
@@ -142,7 +142,7 @@ El décimo arrepentimiento de Sofía.
 
 ## CAPÍTULO 53
 
-Cuando Jesús hubo dicho esto a sus discípulos, les dijo: “Ahora pues, que aquel a quien su espíritu conmueva, se presente y diga la solución del décimo arrepentimiento de Pistis Sophia”.
+Cuando Jesús hubo dicho esto a sus discípulos, les dijo: «Ahora pues, que aquel a quien su espíritu conmueva, se presente y diga la solución del décimo arrepentimiento de Pistis Sophia».
 
 Pedro respondió y dijo: «Oh Señor, acerca de esto tu poder de luz profetizó anteriormente por medio de David en el Salmo ciento diecinueve, diciendo:
 
@@ -156,7 +156,7 @@ Pedro respondió y dijo: «Oh Señor, acerca de esto tu poder de luz profetizó 
 
 “'4. Las flechas del fuerte se afilan con el carbón del desierto.
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 5 ¡Ay de mí!, que mi morada está lejos, y habito en las tiendas de Cedar.
 
@@ -164,7 +164,7 @@ Pedro respondió y dijo: «Oh Señor, acerca de esto tu poder de luz profetizó 
 
 7. Yo era pacífico con quienes odiaban la paz; si les hablaba, peleaban contra mí sin causa.
 
-“Esta es ahora, pues, oh Señor, la solución del décimo arrepentimiento de Pistis Sophia, que ella pronunció cuando las emanaciones materiales de Obstinado la oprimieron, ellos y su poder con cara de león, y cuando la oprimieron excesivamente.”
+«Esta es ahora, pues, oh Señor, la solución del décimo arrepentimiento de Pistis Sophia, que ella pronunció cuando las emanaciones materiales de Obstinado la oprimieron, ellos y su poder con cara de león, y cuando la oprimieron excesivamente.»
 
 <small>Jesús elogia a Pedro.</small>
 
@@ -190,7 +190,7 @@ El undécimo arrepentimiento de Sofía.
 
 7. Y te verán y se regocijarán por ti, y dirán: «He aquí una emanación que no ha purificado su luz para salvarse, sino que se jactó de la abundancia de la luz de su poder, porque no emanó del poder que reside en ella, y ha dicho: «Le quitaré la luz a Pistis Sophia, que ahora le será arrebatada».
 
-“Ahora, pues, que aquel en quien ha resurgido su poder, se presente y proclame la solución del undécimo arrepentimiento de Pistis Sophia”.
+«Ahora, pues, que aquel en quien ha resurgido su poder, se presente y proclame la solución del undécimo arrepentimiento de Pistis Sophia».
 
 Entonces Salomé se adelantó y dijo: «Señor mío, acerca de este poder de tu luz profetizó anteriormente a través de David en el Salmo cincuenta y uno, diciendo:
 
@@ -246,7 +246,7 @@ El duodécimo arrepentimiento de Sofía.
 
 “'9. Que todos los poderes de su emanación sean sin luz y que su materia esté sin ninguna luz en ella.
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 10. Que sus emanaciones permanezcan en el caos y no se atrevan a ir a su región. Que su luz se extinga en ellas y no les permita ir al decimotercer eón, su región.
 
@@ -264,7 +264,7 @@ El duodécimo arrepentimiento de Sofía.
 
 17. Les gustaba descender al caos; que permanezcan allí, y de ahora en adelante no serán llevados de allí. No desearon la región de la Rectitud como morada, y no serán llevados allí de ahora en adelante.
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 18. Se vistió de oscuridad como de vestidura, y entró en él como agua, y entró en todos sus poderes como aceite.
 
@@ -282,9 +282,9 @@ El duodécimo arrepentimiento de Sofía.
 
 “'25. Y se burlaron de mí; me miraban, asintiendo con la cabeza.
 
-“26. Ayúdame según tu misericordia.” **(108)**
+«26. Ayúdame según tu misericordia.» **(108)**
 
-“Ahora, pues, que aquel cuyo espíritu esté preparado, se presente y pronuncie la solución del duodécimo arrepentimiento de Pistis Sophia”.
+«Ahora, pues, que aquel cuyo espíritu esté preparado, se presente y pronuncie la solución del duodécimo arrepentimiento de Pistis Sophia».
 
 ## CAPÍTULO 56
 
@@ -292,7 +292,7 @@ Y Andrés se adelantó y dijo: «Mi Señor y Salvador, tu poder de luz ha profet
 
 “1. Dios, no guardes silencio ante mis cánticos de alabanza.
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 <small>Andrés interpreta el duodécimo arrepentimiento del Salmo 18.</small>
 
@@ -346,9 +346,9 @@ Y Andrés se adelantó y dijo: «Mi Señor y Salvador, tu poder de luz ha profet
 
 “26. Ayúdame, oh Señor Dios, y sálvame según tu gracia.
 
-“27 Que sepan que esta es tu mano, y que tú, oh Señor, los has formado”.
+«27 Que sepan que esta es tu mano, y que tú, oh Señor, los has formado».
 
-“Ésta es entonces la solución del duodécimo arrepentimiento que Pistis Sophia pronunció cuando estaba en el caos”.
+«Ésta es entonces la solución del duodécimo arrepentimiento que Pistis Sophia pronunció cuando estaba en el caos».
 
 ## CAPÍTULO 57
 
@@ -386,7 +386,7 @@ Marta se adelantó y dijo: «Señor mío, mi espíritu me insta a proclamar la s
 
 4. Para que seas justificado en tus palabras y prevalezcas cuando me juzgues.
 
-“Ésta es entonces la solución de las palabras que Pistis Sophia ha pronunciado”.
+«Ésta es entonces la solución de las palabras que Pistis Sophia ha pronunciado».
 
 Jesús le dijo: «Bien dicho, Marta, bendita [la]».
 
@@ -410,7 +410,7 @@ Y Jesús continuó de nuevo con el discurso y dijo a sus discípulos: «Sucedió
 
 6. Y que la resolución que han tomado de quitarme mi poder no les afecte. Y como han hablado contra mí para quitarme mi luz, quítenles la suya en lugar de la mía.
 
-<span id="p95">[<sup><small>pág. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 7. Y se han propuesto quitarme toda mi luz y no han podido, porque tu poder de luz estaba conmigo.
 
@@ -418,7 +418,7 @@ Y Jesús continuó de nuevo con el discurso y dijo a sus discípulos: «Sucedió
 
 9. Porque he tenido fe en la Luz, no temeré; y la Luz es mi libertador y no temeré.
 
-“Ahora, pues, que aquel cuyo poder es exaltado diga la solución de las palabras que Pistis Sophia ha pronunciado”.
+«Ahora, pues, que aquel cuyo poder es exaltado diga la solución de las palabras que Pistis Sophia ha pronunciado».
 
 Y aconteció que, cuando Jesús terminó de decir estas palabras a sus discípulos, Salomé se adelantó y dijo: «Señor mío, mi poder me obliga a decir la solución de las palabras que Pistis Sophia ha pronunciado. Tu poder profetizó anteriormente a través de Salomón, diciendo:
 
@@ -474,7 +474,7 @@ Y María, la madre de Jesús, respondió y dijo: "Señor mío, tu poder de luz h
 
 “1. El Señor está sobre mi cabeza como una corona, y no me apartaré de él.
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 <small>María, su madre, interpreta el cántico de Sofía de la oda XIX de Salomón.</small>
 
@@ -536,7 +536,7 @@ Aconteció entonces que cuando Jesús oyó estas palabras que dijo su madre Mar�
 
 La otra María se adelantó y dijo: «Señor mío, ten paciencia conmigo y no te enfades conmigo. Sí, desde el momento en que tu madre te habló sobre la solución de estas palabras, mi poder me inquietó para acercarme y, de igual manera, expresar la solución de estas palabras».
 
-Jesús le dijo: “Te pido que digas su solución”.
+Jesús le dijo: «Te pido que digas su solución».
 
 <small>De los cuerpos espiritual y material de Jesús.</small>
 

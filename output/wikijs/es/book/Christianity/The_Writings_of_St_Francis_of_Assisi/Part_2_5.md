@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## V. A TODOS LOS CUSTODIOS.
 
@@ -50,7 +50,7 @@ Y en toda predicación que hagáis, amonestad al pueblo acerca de la penitencia 
 
 Y de tal manera anunciaréis y predicaréis Su alabanza a todos los pueblos, que a toda hora y cuando suenen las campanas, siempre se darán alabanzas y gracias al Dios Todopoderoso por todos los pueblos de toda la tierra.
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Y a cualquiera de mis hermanos, custodios, que llegue este escrito, que lo copie y lo conserve consigo, y que lo copien para los hermanos que tienen el oficio de predicar y el cuidado de los hermanos, y que prediquen hasta el fin todo lo que está contenido en este escrito; que sepan que tienen la bendición del Señor Dios y la mía. Y que esto les sea otorgado mediante la verdadera y santa obediencia.
 
@@ -83,7 +83,7 @@ Y a cualquiera de mis hermanos, custodios, que llegue este escrito, que lo copie
 
 ## Notas al pie
 
-[^512]: 127:1 Bacalao. 225, mencionado anteriormente ([p. 110](Part_2_2#p110)). Véase Bartholi de Sabatier, p. 135.
+[^512]: 127:1 Bacalao. 225, mencionado anteriormente ([p. 110](../Part_2_2#p110)). Véase Bartholi de Sabatier, p. 135.
 
 [^513]: 127:2 Aparentemente una alusión a los misterios de la Eucaristía.
 

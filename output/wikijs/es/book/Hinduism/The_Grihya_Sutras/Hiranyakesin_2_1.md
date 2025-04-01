@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p208">[<sup><small>pág. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 1, SECCIÓN 1,
 
@@ -76,7 +76,7 @@ Luego hace que la esposa, que se ha bañado, lleva un vestido limpio y adornos, 
 
 Sé una piedra, sé un hacha, sé oro insuperable. Tú, en verdad, eres el Veda llamado hijo; vive así cien otoños.
 
-<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 De miembro a miembro te formas; del corazón naces. Eres, en verdad, el ser (âtman) llamado hijo; vive así cien otoños.
 
@@ -102,7 +102,7 @@ De miembro a miembro te formas; del corazón naces. Eres, en verdad, el ser (ât
 
 (f) 'Los sirvientes de Kuvera, Vi<i>s</i>vavâsa (?), enviados por el rey de los demonios, todos de un origen común, <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> recorren las aldeas, visitando a los que despiertan (?). ¡Svâhâ!
 
-(g) “¡Mátenlos! ¡Atadlos!”, así dice este mensajero de Brahman. Agni los ha rodeado. Indra los conoce; Brihaspati los conoce; yo, el Brâhmari, conozco a quienes se apoderan de los hombres, a quienes tienen dientes prominentes, cabello áspero y pechos colgantes. ¡Svâhâ!
+(g) «¡Mátenlos! ¡Atadlos!», así dice este mensajero de Brahman. Agni los ha rodeado. Indra los conoce; Brihaspati los conoce; yo, el Brâhmari, conozco a quienes se apoderan de los hombres, a quienes tienen dientes prominentes, cabello áspero y pechos colgantes. ¡Svâhâ!
 
 (h) '¡Los caminantes nocturnos, con adornos en sus pechos y lanzas en sus manos, bebiendo de calaveras! ¡Svâhâ!
 
@@ -207,7 +207,7 @@ De la enfermedad crónica, de la destrucción, de la astucia, de las ataduras de
 
 En el lado izquierdo con (el Mantra), '(La navaja) con la que Pûshan ha afeitado (la barba) de Brihaspati, de Agni, de Indra, por el bien de una larga vida, con esa yo afeito tu (cabeza), NN!'
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Antes con (el Mantra), 'Para que pueda vivir largamente en alegría, y pueda ver largamente el sol.'
 

@@ -56,9 +56,9 @@ QUINTO PRAPÂTHAKA [^226].
 
 11\. La mente se fue, y tras un año ausente, volvió y dijo: "¿Cómo han podido vivir sin mí?". Respondieron: "Como niños cuya mente aún no está formada, pero respirando con el aliento, hablando con la lengua, viendo con el ojo, oyendo con el oído. Así vivimos". Entonces la mente regresó.
 
-12\. El aliento, a punto de partir, desgarró los demás sentidos, como un caballo, al sobresaltar, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, podría desgarrar las estacas a las que está atado [1](Khandogya_5#fn228). Acudieron a él y le dijeron: «Señor, sé tú (nuestro señor); eres el mejor entre nosotros. ¡No te alejes de nosotros!».
+12\. El aliento, a punto de partir, desgarró los demás sentidos, como un caballo, al sobresaltar, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, podría desgarrar las estacas a las que está atado [1](../Khandogya_5#fn228). Acudieron a él y le dijeron: «Señor, sé tú (nuestro señor); eres el mejor entre nosotros. ¡No te alejes de nosotros!».
 
-13\. Entonces la lengua le dijo: «Si yo soy el más rico, tú eres el más rico». El ojo le dijo: «Si yo soy el reposo firme, tú eres el reposo firme [2](Khandogya_5#fn229)».
+13\. Entonces la lengua le dijo: «Si yo soy el más rico, tú eres el más rico». El ojo le dijo: «Si yo soy el reposo firme, tú eres el reposo firme [2](../Khandogya_5#fn229)».
 
 14\. La oreja le dijo: «Si yo soy el éxito, tú eres el éxito». La mente le dijo: «Si yo soy el hogar, tú eres el hogar».
 
@@ -94,7 +94,7 @@ De la misma manera, que vierta ghee al fuego, diciendo: «Svâhâ para el éxito
 
 2\. '¿Sabe usted a dónde van los hombres desde aquí?' 'No, señor', respondió.
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 «¿Sabe cómo regresan?» «No, señor», respondió.
 
@@ -146,7 +146,7 @@ De la misma manera, que vierta ghee al fuego, diciendo: «Svâhâ para el éxito
 
 2\. 'Al nacer, vive sea cual sea la duración de su vida. Al partir, sus amigos lo llevan, según lo previsto, al fuego (de la pira funeraria) de donde vino, de donde surgió.
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## DÉCIMO KHA<i>N</i><i>D</i>A.
 
@@ -164,7 +164,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 'Por eso ese mundo nunca llega a estar completo [^255] (cf. V, 3, 2).
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 «Por lo tanto, que cada cual se cuide a sí mismo [^256]! Y así se dice en el siguiente <i>S</i>loka [^257]:
 
@@ -188,7 +188,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 7\. Dijo: «Mañana les daré una respuesta». Así que, a la mañana siguiente, se acercaron a él, llevando combustible en las manos (como estudiantes), y él, sin exigirles previamente ningún rito preparatorio [^262], les dijo:
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 ## DUODÉCIMO KHAND.
 
@@ -204,7 +204,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 «Pero eso no es más que el ojo del Ser, y te habrías quedado ciego si no hubieras venido a mí.»
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## DECIMOCUARTO KHA<i>N</i><i>D</i>A.
 
@@ -248,7 +248,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 2\. 'Si Prâ<i>n</i>a está satisfecho, el ojo está satisfecho, si el ojo está satisfecho, el sol está satisfecho, si el sol está satisfecho, el cielo está satisfecho, si el cielo está satisfecho, todo lo que está bajo el cielo y bajo el sol está satisfecho... Y a través de su satisfacción él mismo (el sacrificador o el que come) está satisfecho con la descendencia, el ganado, la salud, el brillo y el esplendor védico.
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 ## VIGÉSIMO KHAND.
 

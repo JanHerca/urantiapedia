@@ -280,7 +280,7 @@ Ambos se jactaban de haber escapado del diluvio estigio.
 Como dioses, y por su propia fuerza recuperada,
 No por el sufrimiento de un poder supremo.
 
-“¿Es esta la región, este el suelo, este el clima?”
+«¿Es esta la región, este el suelo, este el clima?»
 Dijo entonces el Arcángel perdido: "este es el asiento
 ¿Que debemos cambiar por el Cielo? -esta triste penumbra
 ¿Por esa luz celestial? Que así sea, ya que Él

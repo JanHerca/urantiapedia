@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 
 Una mañana, el héroe tomó su cuenco de limosna y entró en la ciudad de Rajagriha. La gente que se cruzaba con él en el camino admiraba su belleza y su noble porte. "¿Qué es este hombre?", se preguntaban. "Es como un dios, como Sakra o el mismísimo Brahma". De repente, corrió la voz de que un ser maravilloso vagaba por la ciudad, mendigando. Todos querían ver al héroe; lo seguían, y las mujeres corrían a las ventanas a su paso. Pero él prosiguió su camino con gravedad, mientras sobre la ciudad aparecía una extraña luz.
@@ -49,13 +49,13 @@ Luego, inclinándose humildemente, dijo:
 
 —Eres joven —dijo el rey—, eres hermosa, eres ardiente; sé rica. Tendrás a las doncellas más hermosas de mi reino para servirte. No te vayas; quédate y sé mi compañera.
 
-“He renunciado a grandes riquezas”, dijo el héroe.
+«He renunciado a grandes riquezas», dijo el héroe.
 
-“Te daré la mitad de mi reino”.
+«Te daré la mitad de mi reino».
 
-“He renunciado al más hermoso de los reinos”.
+«He renunciado al más hermoso de los reinos».
 
-“Aquí podrás satisfacer todos tus deseos”.
+«Aquí podrás satisfacer todos tus deseos».
 
 Conozco la vanidad de todo deseo. Los deseos son como veneno; los sabios los desprecian. Los he desechado como se desecha una brizna de paja seca. Los deseos son tan perecederos como la fruta de un árbol, tan caprichosos como las nubes del cielo, tan traicioneros como la lluvia, tan cambiantes como el viento. El sufrimiento nace del deseo, pues nadie ha satisfecho jamás todos sus deseos. Pero quienes buscan la sabiduría, quienes reflexionan sobre la verdadera fe, son los que encuentran la paz. Quien bebe agua salada aumenta su sed; quien huye del deseo encuentra su sed saciada. Ya no conozco el deseo. Busco la verdadera ley.
 

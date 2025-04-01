@@ -56,7 +56,7 @@ Había un Sthavira y Ga<i>n</i>adhara [^386], el sabio erudito Garga. Este líde
 
 '(Un mal alumno) hace objeciones y señala dificultades (imaginadas); con frecuencia actúa en contra de las palabras de los superiores. (11)
 
-(Si lo envía a una dama, dirá): “Si no me conoce, no me dará nada; supongo que se habrá ido; envía a otro monje allí”. (12)
+(Si lo envía a una dama, dirá): «Si no me conoce, no me dará nada; supongo que se habrá ido; envía a otro monje allí». (12)
 
 'Si se les envía a hacer un recado, no hacen lo que se les ordena [^393], sino que pasean por donde les place; o, comportándose como sirvientes del rey [^394], fruncen el ceño (cuando hablan con otras personas). (13)
 
@@ -64,9 +64,9 @@ Había un Sthavira y Ga<i>n</i>adhara [^386], el sabio erudito Garga. Este líde
 
 Ahora bien, este conductor (es decir, Garga), que tenía que lidiar con bueyes en mal estado, pensó: "¿Qué tengo que ver yo con malos alumnos? Estoy descorazonado". (15)
 
-“Así como son malos alumnos, así son malos bueyes; dejaré a estos burros perezosos y practicaré severas austeridades”. (16)
+«Así como son malos alumnos, así son malos bueyes; dejaré a estos burros perezosos y practicaré severas austeridades». (16)
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Aquel noble hombre, lleno de bondad, serio y siempre meditativo, vagaba por la tierra llevando una vida virtuosa. (17)
 
@@ -108,7 +108,7 @@ Así lo digo.
 
 [^391]: 150:4 <i>Kh</i>imâla = <i>g</i>âra, véase Hêma<i>k</i>andra, Dê<i>s</i>î Kôsha 3, 27. Es un término burdo, que reemplazo por otro, aunque probablemente el lenguaje de nuestros cocheros podría proporcionarnos una traducción más idiomática.
 
-[^392]: 150:5 Garava, cf. [pag. 98](Uttaradhyayana_19#p98), nota [2](Uttaradhyayana_19#fn257).
+[^392]: 150:5 Garava, cf. [pag. 98](../Uttaradhyayana_19#p98), nota [2](../Uttaradhyayana_19#fn257).
 
 [^393]: 151:1 La métrica de este verso parece haber sido originalmente Âryâ, pero se ha intentado cambiarla a Anush<i>t</i>ubh. Encontramos aquí la interesante forma a<i>n</i>usâsammî (léase a<i>n</i>usasammi) = anu<i>s</i>âsmi.
 

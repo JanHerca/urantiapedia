@@ -29,13 +29,13 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>pág. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## TODOS LOS ASAVAS. SABBÂSAVA-SUTTA.
 
 1\. Esto es lo que he oído. El Bendito se alojaba una vez en Sâvatthi, en el Getavana, en el parque de Anâtha Pi<i>nd</i>ika.
 
-Allí el Bendito se dirigió a los hermanos y dijo: “Bhikkhus”.
+Allí el Bendito se dirigió a los hermanos y dijo: «Bhikkhus».
 
 «¡Sí, Señor!», dijeron aquellos hermanos, en señal de asentimiento, al Bendito.
 
@@ -87,15 +87,15 @@ Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a qu
 
 10\. 'En él, al reflexionar así imprudentemente, surge una u otra de las seis nociones (absurdas)[^2].
 
-"Como algo verdadero y real, él entiende la noción: “¡Tengo un yo!”
+"Como algo verdadero y real, él entiende la noción: «¡Tengo un yo!»
 
-"Como algo verdadero y real, él entiende la noción: “¡No tengo un yo!”
+"Como algo verdadero y real, él entiende la noción: «¡No tengo un yo!»
 
-'Como algo verdadero y real, obtiene la noción: “¡Por ​​mí mismo, soy consciente de mí mismo!”
+'Como algo verdadero y real, obtiene la noción: «¡Por ​​mí mismo, soy consciente de mí mismo!»
 
-'Como algo verdadero y real, obtiene la noción: “¡Por ​​mí mismo soy consciente de mi no-yo!”
+'Como algo verdadero y real, obtiene la noción: «¡Por ​​mí mismo soy consciente de mi no-yo!»
 
-'O, de nuevo, tiene la noción: “Esta alma mía puede ser percibida, ha experimentado el resultado de acciones buenas y malas cometidas aquí y allá: ahora esta alma mía es permanente, duradera, eterna, tiene la cualidad inherente de nunca cambiar, y continuará por los siglos de los siglos”.
+'O, de nuevo, tiene la noción: «Esta alma mía puede ser percibida, ha experimentado el resultado de acciones buenas y malas cometidas aquí y allá: ahora esta alma mía es permanente, duradera, eterna, tiene la cualidad inherente de nunca cambiar, y continuará por los siglos de los siglos».
 
 11\. 'Esto, hermanos, se llama caminar en el engaño, la jungla del engaño[^3], el desierto del engaño, el teatro de marionetas del engaño, el retorcimiento del engaño, el grillete del engaño.
 
@@ -149,7 +149,7 @@ En esto, hermanos, un bhikkhu, tras reflexionar sabiamente, <span id="p302"><sup
 
 26\. 'Reflexionando sabiamente, hace uso de una morada; sólo para protegerse del frío, para protegerse del calor, para alejarse del contacto de los tábanos y los mosquitos, del viento y el sol, y las serpientes; sólo para evitar los peligros del clima y para asegurarse el deleite de la privacidad.
 
-<span id="p304">[<sup><small>pág. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 27\. 'Reflexionando sabiamente, hace uso de la medicina y otros artículos necesarios para los enfermos, sólo para alejar el dolor que les causa daño y para preservar su salud.
 
@@ -191,7 +191,7 @@ En esto, hermanos, un bhikkhu, reflexionando sabiamente, evita a un elefante reb
 
 35\. '¿Y cuáles, hermanos, son los Âsavas que deben abandonarse mediante el cultivo[^10]?
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 '[^11]En esto, hermanos, un Bhikkhu, reflexionando sabiamente, cultiva esa parte de la sabiduría superior llamada Atención Plena, que depende del aislamiento, de la ausencia de pasión, del éxtasis absoluto de la contemplación, dando como resultado la desaparición de la ausencia de pensamientos.
 

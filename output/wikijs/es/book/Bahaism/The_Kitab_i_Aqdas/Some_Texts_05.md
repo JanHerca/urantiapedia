@@ -36,7 +36,7 @@ dateCreated: 2025-2-5T9:13:18Z
 
 Trátalo, oh Tú que perdonas los pecados de los hombres y ocultas sus faltas, como corresponde al cielo de Tu generosidad y al océano de Tu gracia. Concédele la entrada en los recintos de Tu misericordia trascendente que existía antes de la fundación de la tierra y del cielo. No hay más Dios que Tú, el Siempre Perdonador, el Más Generoso.
 
-Que repita seis veces el saludo “Allah-u-Abha”, y luego repita diecinueve veces cada uno de los siguientes versos:
+Que repita seis veces el saludo «Allah-u-Abha», y luego repita diecinueve veces cada uno de los siguientes versos:
 
 Todos nosotros, verdaderamente, adoramos a Dios.
 

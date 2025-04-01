@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 _M_. II. 1. Si uno está leyendo [^97] \[el Shma'\] en la Ley y ha llegado el momento de recitarlo, si lee con intención ha cumplido con la obligación \[de recitar el Shma'\], pero si no \[con intención\], no la ha cumplido. Y en las secciones [^98] puede saludar por respeto \[a su amigo\], y puede responder a un saludo dado. Y en
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 **M**. En la mitad de una sección, puede darla por temor a un superior y responder. Esta es la opinión de R. Meir. R. Judah dice: En la mitad, puede darla por temor y responder por respeto; y en las secciones, puede darla por respeto y responder con la habitual «Paz» a cualquiera. [^99]
 
@@ -47,9 +47,9 @@ _M_. II. 1. Si uno está leyendo [^97] \[el Shma'\] en la Ley y ha llegado el mo
 
 **M**.II. 2. Esto es lo que significa «entre las secciones», a saber: entre la primera bendición y la segunda; entre la segunda y el Shemá; [^101] entre el Shemá y «Y sucederá si escucháis»; [^102] entre «Y sucederá si escucháis» y «Y el SEÑOR dijo»; [^103] entre «Y el SEÑOR dijo» y «Verdadero y seguro». [^104] R. Judah dice: No se puede hacer una pausa entre «Y el SEÑOR dijo» y «Verdadero y seguro». [^105]
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
-**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](Berakoth_1_2#fn_106) dijo: ¿Por qué el Shemá precede a «Y sucederá si escucháis»? Para que el hombre acepte primero el yugo del reino de los Cielos [2](Berakoth_1_2#fn_107) y después el yugo de los mandamientos. \[De igual manera\] «Y sucederá si escucháis» precede a «Y el SEÑOR dijo», porque «Y sucederá si escucháis» aplica tanto de día como de noche, pero «Y el SEÑOR dijo» aplica solo de día. [3](Berakoth_1_2#fn_108)
+**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](../Berakoth_1_2#fn_106) dijo: ¿Por qué el Shemá precede a «Y sucederá si escucháis»? Para que el hombre acepte primero el yugo del reino de los Cielos [2](../Berakoth_1_2#fn_107) y después el yugo de los mandamientos. \[De igual manera\] «Y sucederá si escucháis» precede a «Y el SEÑOR dijo», porque «Y sucederá si escucháis» aplica tanto de día como de noche, pero «Y el SEÑOR dijo» aplica solo de día. [3](../Berakoth_1_2#fn_108)
 
 <a id="m4"></a>
 
@@ -57,7 +57,7 @@ _M_. II. 1. Si uno está leyendo [^97] \[el Shma'\] en la Ley y ha llegado el mo
 
 4\. (3). Quien recita el Shemá sin la suficiente fuerza para oírse, ha cumplido con su obligación. R. José [^109] dice que no. Si ha recitado sin expresar las letras con exactitud, R. José dice que ha cumplido con su obligación. R. Judah dice que no. Quien recita en un orden irregular [^110] no ha cumplido con su obligación. Si ha recitado y se ha equivocado, debe regresar al lugar donde se equivocó.
 
-<span id="p17">[<sup><small>pág. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 **T**.
 
@@ -153,15 +153,15 @@ II. 8 (7 _cont_.). Y cuando murió su esclavo Tabi, aceptó el pésame [^138] po
 
 [^107]: 16:2 _el reino de los cielos_. La soberanía de Dios revelada a su pueblo. Este es también el significado principal de «el reino de los cielos» en el Evangelio según San Mateo.
 
-[^108]: 16:3 Se refiere a los flecos (tsitsith), que no se usan de noche. Núm. 1539 dice: «para que podáis verlo». Véase Abrahams sobre SA, pág. 97. Vide infra, [pág. 80](Berakoth 39, pág. 80).
+[^108]: 16:3 Se refiere a los flecos (tsitsith), que no se usan de noche. Núm. 1539 dice: «para que podáis verlo». Véase Abrahams sobre SA, pág. 97. Vide infra, [pág. 80](../Berakoth 39, pág. 80).
 
 [^109]: 16:4 _R. José_. Este nombre, sin ningún añadido, se refiere a R. José ben Chalaphta, curtidor de Séforis y maestro de la Mishná de tercera generación, c. 130-260 d. C.
 
-[^110]: 16:5 _en orden irregular_. Véase [p. 56](Berakoth_3_6#p56).
+[^110]: 16:5 _en orden irregular_. Véase [p. 56](../Berakoth_3_6#p56).
 
 [^111]: 17:1 _el Hallel_. Psd. 113-118. SA, pág. 219.
 
-[^112]: 17:2 _la Oración_. Las _Dieciocho Bendiciones_ (_vide supra_, [p. 5](Berakoth_1_1#p5)).
+[^112]: 17:2 _la Oración_. Las _Dieciocho Bendiciones_ (_vide supra_, [p. 5](../Berakoth_1_1#p5)).
 
 [^113]: 17:3 _el Rollo_. El Libro de Ester. Cada uno de estos tres libros se compone de más de una sección.
 
@@ -189,11 +189,11 @@ II. 8 (7 _cont_.). Y cuando murió su esclavo Tabi, aceptó el pésame [^138] po
 
 [^125]: 19:3 _las bendiciones antes y después de ella_. SA, págs. 39-42.
 
-[^126]: 19:4 _antes... después_. Literalmente, «antes de ellos» y «después de ellos», es decir, el Shemá y la comida (véase infra, [p. 23](Berakoth_1_3#p23)).
+[^126]: 19:4 _antes... después_. Literalmente, «antes de ellos» y «después de ellos», es decir, el Shemá y la comida (véase infra, [p. 23](../Berakoth_1_3#p23)).
 
 [^127]: 19:5 _tres veces_. _es decir_ mañana, tarde y noche. El _shel_ en el texto de Zuckermandel parece ser un error de imprenta.
 
-[^128]: 19:6 _que desciendan delante del Arca_. Cf. _M_. V. 3: «el que pasa delante del Arca». Ambas frases se usaron originalmente para referirse al líder en la Tefilá, porque este se adelantaba frente al Arca que contenía los rollos de la Ley. Pero el término permaneció vigente cuando ocupó su lugar allí mucho antes de la Tefilá. «Desciendan», porque a veces el Arca estaba más abajo que el cuerpo de la sinagoga, quizás para enseñar humildad. Véase Elbogen, pág. 497; SA, en la pág. 42 (pág. lvi). Cf. _infra_, [pág. 40](Berakoth_2_5#p40).
+[^128]: 19:6 _que desciendan delante del Arca_. Cf. _M_. V. 3: «el que pasa delante del Arca». Ambas frases se usaron originalmente para referirse al líder en la Tefilá, porque este se adelantaba frente al Arca que contenía los rollos de la Ley. Pero el término permaneció vigente cuando ocupó su lugar allí mucho antes de la Tefilá. «Desciendan», porque a veces el Arca estaba más abajo que el cuerpo de la sinagoga, quizás para enseñar humildad. Véase Elbogen, pág. 497; SA, en la pág. 42 (pág. lvi). Cf. _infra_, [pág. 40](../Berakoth_2_5#p40).
 
 [^129]: 19:7 Pero debe decir el Shemá por la mañana.
 
@@ -213,8 +213,8 @@ II. 8 (7 _cont_.). Y cuando murió su esclavo Tabi, aceptó el pésame [^138] po
 
 [^137]: 21:2 Hebreos 13:13.
 
-[^138]: 21:3 _condolencia_. En la oración formal por los dolientes, pronunciada por quienes los visitaron durante la semana de duelo. Para ejemplos de tales oraciones utilizadas hoy en día, véase SA, pág. 324. R. Eliezer se negó a aceptar tal condolencia de sus discípulos y dijo que solo debían usarse las mismas frases que ante la muerte de un buey: «Que Dios te compense por tu pérdida», pero otros rabinos permitieron que se dijera más cuando el esclavo o la esclava era piadoso (Gemará TB 18b). Cf. _infra_. [pág. 42](Berakoth_2_5#p42).
+[^138]: 21:3 _condolencia_. En la oración formal por los dolientes, pronunciada por quienes los visitaron durante la semana de duelo. Para ejemplos de tales oraciones utilizadas hoy en día, véase SA, pág. 324. R. Eliezer se negó a aceptar tal condolencia de sus discípulos y dijo que solo debían usarse las mismas frases que ante la muerte de un buey: «Que Dios te compense por tu pérdida», pero otros rabinos permitieron que se dijera más cuando el esclavo o la esclava era piadoso (Gemará TB 18b). Cf. _infra_. [pág. 42](../Berakoth_2_5#p42).
 
 [^139]: 21:4 _Rabán Simeón ben Gamaliel_. Hijo de Gamaliel II, floreció hacia el 130-160 d. C., padre de R. Judah el Príncipe, quien fue el compilador de la Mishná.
 
-[^140]: 21:5 Una advertencia contra la vanidad y el orgullo, que conducen a la hipocresía. No todos pueden imitar con seguridad a R. Gamaliel (véase _M_. 6(5), [p. 19](Berakoth_1_2#p19)).
+[^140]: 21:5 Una advertencia contra la vanidad y el orgullo, que conducen a la hipocresía. No todos pueden imitar con seguridad a R. Gamaliel (véase _M_. 6(5), [p. 19](../Berakoth_1_2#p19)).

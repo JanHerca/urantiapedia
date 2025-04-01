@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 TERCER VALLÎ, O, EL CAPÍTULO DE BHRIGU.
 
@@ -57,7 +57,7 @@ Habiendo percibido esto, fue de nuevo a su padre Varuna y le dijo: «Señor, ens
 
 Hizo penitencia. Habiendo hecho penitencia—
 
-<span id="p65">[<sup><small>pág. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## TERCER ANUVÂKA.
 
@@ -82,7 +82,7 @@ Hizo penitencia. Habiendo hecho penitencia—
 
 Habiendo percibido esto, fue de nuevo a su padre Varuna y le dijo: «Señor, enséñame a Brahman». Él le respondió: «Intenta conocer a Brahman mediante la penitencia, pues la penitencia es el medio para conocer a Brahman».
 
-<span id="p66">[<sup><small>pág. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Hizo penitencia. Habiendo hecho penitencia—
 
@@ -90,13 +90,13 @@ Hizo penitencia. Habiendo hecho penitencia—
 
 Él percibió que la dicha es Brahman, pues de la dicha nacen estos seres; por la dicha, cuando nacen, viven; en la dicha entran al morir.
 
-Este es el conocimiento de Bh<i>ri</i>gu y Varu<i>n</i>a [1](Taittiriyaka_3#fn237), exaltado en el cielo más alto (en el corazón). Quien conoce esto se enaltece, se enriquece con alimentos y puede comer sano, se engrandece por su descendencia, ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por su fama.
+Este es el conocimiento de Bh<i>ri</i>gu y Varu<i>n</i>a [1](../Taittiriyaka_3#fn237), exaltado en el cielo más alto (en el corazón). Quien conoce esto se enaltece, se enriquece con alimentos y puede comer sano, se engrandece por su descendencia, ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por su fama.
 
 ## SÉPTIMO ANUVÂKA.
 
 Que nunca abuse de la comida, esa es la regla.
 
-La respiración es alimento [2](Taittiriyaka_3#fn238), el cuerpo ingiere el alimento. El cuerpo descansa en la respiración, la respiración descansa en el cuerpo. Este es el alimento que descansa en el alimento. Quien conoce este alimento que descansa en el alimento [3](Taittiriyaka_3#fn239), descansa exaltado, se enriquece con alimento y es capaz de comer sano, se engrandece por su descendencia, ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por su fama.
+La respiración es alimento [2](../Taittiriyaka_3#fn238), el cuerpo ingiere el alimento. El cuerpo descansa en la respiración, la respiración descansa en el cuerpo. Este es el alimento que descansa en el alimento. Quien conoce este alimento que descansa en el alimento [3](../Taittiriyaka_3#fn239), descansa exaltado, se enriquece con alimento y es capaz de comer sano, se engrandece por su descendencia, ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por su fama.
 
 ## OCTAVO ANUVÂKA.
 

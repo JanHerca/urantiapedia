@@ -1,6 +1,6 @@
 ---
 title: "XVII. Ashi Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Ashi Vanguhi o «la buena Ashi [^1150]» es una personificación femenina de la piedad [^1151] y, al mismo tiempo, la fuente de todo el bien y la riqueza que se relacionan con ella [^1152]. Por lo tanto, se la describe como diosa de la fortuna y la riqueza, y se la invoca en compañía de Pâre<i>n</i>di, la diosa de los tesoros (Sîrôzah 25).
 
@@ -82,7 +82,7 @@ Homenaje a Haoma, porque todas las demás bebidas están acompañadas de Aêshma
 
 19\. 'En cuyo nacimiento y crecimiento Angra Mainyu se precipitó desde esta tierra ancha y redonda, cuyos confines yacen lejanos, y él, el malvado Angra Mainyu, que es toda muerte, dijo: "Todos los dioses juntos <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> no han podido abatirme a pesar de mí mismo, y solo Zaratustra puede alcanzarme a pesar de mí mismo.
 
-20\. ' “Me golpea con el Ahuna Vairya, un arma tan poderosa como una piedra grande como una casa [^1174]; me quema con Asha-Vahi<i>s</i>ta, como si fuera latón fundido [^1175]. Él hace que sea mejor para mí que abandone esta tierra, él, Spitama Zarathu<i>s</i>tra, el único que puede intimidarme.” '
+20\. ' «Me golpea con el Ahuna Vairya, un arma tan poderosa como una piedra grande como una casa [^1174]; me quema con Asha-Vahi<i>s</i>ta, como si fuera latón fundido [^1175]. Él hace que sea mejor para mí que abandone esta tierra, él, Spitama Zarathu<i>s</i>tra, el único que puede intimidarme.» '
 
 21\. Y el gran Ashi Vanguhi exclamó: «¡Acércate a mí, pura y santa Spitama! ¡Apóyate en mi carroza!»
 
@@ -116,7 +116,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 ## V.
 
@@ -152,7 +152,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## VIII.
 
@@ -248,7 +248,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes.
 
 [^1216]: 270:5 Perethu-vîra; véase Estudios iraníes, II, 183.
 
-[^1217]: 271:1 Los aliados de Saoshya<i>n</i><i>t</i>, quienes participarán activamente en la restauración del mundo a la vida eterna (frashô-kereti). Cf. [p. 165](Yasts_11#p165), nota [1](Yasts_11#fn769). Ashi les otorga la «inteligencia de la vida» (frasha khratu), mediante la cual podrán realizar su tarea.
+[^1217]: 271:1 Los aliados de Saoshya<i>n</i><i>t</i>, quienes participarán activamente en la restauración del mundo a la vida eterna (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769). Ashi les otorga la «inteligencia de la vida» (frasha khratu), mediante la cual podrán realizar su tarea.
 
 [^1218]: 271:2 Cf. Yt. V, 10.
 
@@ -312,7 +312,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes.
 
 [^1248]: 280:3 Ella rechaza las ofrendas de todos los seres estériles.
 
-[^1249]: 280:4 Cf. Yt. V, 98. Las siguientes cláusulas aluden a algún mito de Ashi Vanguhi conectado con el conflicto entre los turanios y los naotaras (ya sea Tusa y Vistauru; cf. [p. 71](Yasts_5#p71), nota [7](Yasts_5#fn352), o más probablemente el propio Vî<i>s</i>tâspa, a quien se refieren el capítulo precedente p. 281 \[§§ 48-52\] y la penúltima cláusula del Ya<i>s</i>t). Ella intentó huir de la manera practicada por Ulises en la caverna de los cíclopes; ambos grupos perseguían al animal que la llevaba, aunque no sabían qué llevaba, hasta que unos niños la descubrieron.
+[^1249]: 280:4 Cf. Yt. V, 98. Las siguientes cláusulas aluden a algún mito de Ashi Vanguhi conectado con el conflicto entre los turanios y los naotaras (ya sea Tusa y Vistauru; cf. [p. 71](../Yasts_5#p71), nota [7](../Yasts_5#fn352), o más probablemente el propio Vî<i>s</i>tâspa, a quien se refieren el capítulo precedente p. 281 \[§§ 48-52\] y la penúltima cláusula del Ya<i>s</i>t). Ella intentó huir de la manera practicada por Ulises en la caverna de los cíclopes; ambos grupos perseguían al animal que la llevaba, aunque no sabían qué llevaba, hasta que unos niños la descubrieron.
 
 [^1250]: 282:1 Cf. §§ 49 y siguientes.
 

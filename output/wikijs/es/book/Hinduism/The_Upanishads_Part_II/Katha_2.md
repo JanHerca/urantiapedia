@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 SEGUNDO ADHYÂYA.
 
@@ -67,7 +67,7 @@ SEGUNDO ADHYÂYA.
 15\. 'Así como el agua pura vertida en agua pura permanece igual, así es, oh Gautama, el Ser de un pensador que conoce.'
 
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## QUINTO VALLÉS.
 
@@ -100,7 +100,7 @@ SEGUNDO ADHYÂYA.
 15\. «Allí no brilla el sol, ni la luna ni las estrellas, ni estos relámpagos, y mucho menos este fuego. Cuando él brilla, todo brilla tras él; con su luz todo esto se ilumina [^131]».
 
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 ## SEXTO VALLÎ.
 

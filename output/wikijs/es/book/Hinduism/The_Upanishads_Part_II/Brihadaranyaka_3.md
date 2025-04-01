@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 TERCER ADHYÂYA.
 
@@ -44,11 +44,11 @@ TERCER ADHYÂYA.
 
 2\. Y <i>Ganaka</i> les habló: «Venerables brahmanes, el más sabio de entre vosotros, que aleje a estas vacas».
 
-Entonces aquellos Brâhma<i>n</i>as no se atrevieron, pero Yâ<i>g</i>_ñ_avalkya le dijo a su alumno: “Apártalos, querido mío”.
+Entonces aquellos Brâhma<i>n</i>as no se atrevieron, pero Yâ<i>g</i>_ñ_avalkya le dijo a su alumno: «Apártalos, querido mío».
 
-Él respondió: “¡Oh gloria del Sâman [^386]!” y los expulsó.
+Él respondió: «¡Oh gloria del Sâman [^386]!» y los expulsó.
 
-Los brahmanes se enojaron y dijeron: “¿Cómo puede llamarse el más sabio entre nosotros?”
+Los brahmanes se enojaron y dijeron: «¿Cómo puede llamarse el más sabio entre nosotros?»
 
 Allí estaba Asvala, el sacerdote Hotri de Ganaka Vaideha. Le preguntó: «¿Eres realmente el más sabio entre nosotros, oh Yâg_ñ_avalkya?». Él respondió: «Me inclino ante el más sabio (el que mejor conoce a Brahman), pero en verdad deseo tener estas vacas».
 
@@ -92,7 +92,7 @@ A continuación siguen los logros.
 
 'Aquellos que, cuando se les ofrece, se encienden; aquellos que, cuando se les ofrece, hacen un ruido excesivo; y aquellos que, cuando se les ofrece, se hunden [^389].'
 
-<span id="p124">[<sup><small>pág. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 '¿Qué gana con ellos?'
 
@@ -112,13 +112,13 @@ Por aquellos que, al ser ofrecidos, se inflaman, alcanza el mundo de Deva (dios)
 
 '¿Y estos tres quiénes son?'
 
-“Aquellos que se llaman Puronuvâkyâ, Yâ<i>g</i>yâ, y, en tercer lugar, <i>S</i>asyâ”.
+«Aquellos que se llaman Puronuvâkyâ, Yâ<i>g</i>yâ, y, en tercer lugar, <i>S</i>asyâ».
 
 “¿Y qué son estas cosas con respecto al cuerpo (adhyâtmam)?
 
 'El Puronuvâkyâ es Prâ<i>n</i>a (respiración ascendente), el Yâ<i>g</i>yâ es el Apâ<i>n</i>a (respiración descendente), el <i>S</i>asyâ es el Vyâna (respiración descendente).'
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 '¿Qué gana con ellos?'
 
@@ -176,7 +176,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Toma mi mano, amigo mío. Solo nosotros dos sabre
 
 Dijo: '¿Y a dónde van aquellos que han realizado un sacrificio de caballos?'
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya respondió: 'Treinta y dos viajes del carro del sol es este mundo. La tierra lo rodea por todos lados, el doble de grande, y el océano rodea esta tierra por todos lados, el doble de grande. Ahora hay entre [^400] ellos un espacio tan grande como el filo de una navaja o el ala de un mosquito. Indra, habiéndose convertido en pájaro, los entregó (a través del espacio) a Vâyu (el aire), y Vâyu (el aire), sosteniéndolos dentro de sí, los transportó a donde moran quienes han realizado un sacrificio de caballo. De alguna manera de esta manera alabó a Vâyu en verdad. Por lo tanto, Vâyu (el aire) es todo en sí mismo, y Vâyu es todas las cosas juntas. Aquel que sabe esto, conquista la muerte'. Después de eso, Bhugyu Lâhyâyani guardó silencio.
 
@@ -185,7 +185,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: 'Treinta y dos viajes del carro del sol es es
 
 1\. Entonces Ushasta Kâkrâya<i>n</i>a preguntó: «Yâ<i>g</i>_ñ_avalkya», dijo, «dime el Brahman que es visible, no invisible [^402], el Ser (âtman), que está dentro de todo».
 
-Yâ<i>g</i>_ñ_avalkya respondió: “Éste, tu Ser, que está dentro de todo”.
+Yâ<i>g</i>_ñ_avalkya respondió: «Éste, tu Ser, que está dentro de todo».
 
 «¿Qué Ser, oh Yâ<i>g</i>_ñ_avalkya, está dentro de todos?»
 
@@ -193,7 +193,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Quien inhala la inspiración, es tu Ser y e
 
 2\. Ushasta Kâkrâya<i>n</i>a dijo: «Como se podría decir, esto es una vaca, esto es un caballo, así lo has explicado. Dime el Brahman que es visible, no invisible, el Ser, que está dentro de todo».
 
-Yâ<i>g</i>_ñ_avalkya respondió: “Éste, tu Ser, que está dentro de todo”.
+Yâ<i>g</i>_ñ_avalkya respondió: «Éste, tu Ser, que está dentro de todo».
 
 «¿Qué Ser, oh Yâ<i>g</i>_ñ_avalkya, está dentro de todos?»
 
@@ -204,7 +204,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «No pudiste ver al (verdadero) vidente de la
 
 1\. Entonces Kahola Kaushîtakeya preguntó: «Yâ<i>g</i>_ñ_avalkya», dijo, «dime el Brahman que es visible, no invisible, el Ser (Âtman), que está dentro de todo».
 
-Yâ<i>g</i>_ñ_avalkya respondió: “Éste, tu Ser, que está dentro de todo”.
+Yâ<i>g</i>_ñ_avalkya respondió: «Éste, tu Ser, que está dentro de todo».
 
 «¿Qué Ser, oh Yâ<i>g</i>_ñ_avalkya, está dentro de todos?»
 
@@ -225,7 +225,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Aquel que vence el hambre y la sed, la tris
 
 «En los mundos de los Gandharvas, oh Gârgî», respondió.
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 '¿En qué están tejidos entonces los mundos de los Gandharvas, como urdimbre y trama?'
 
@@ -260,15 +260,15 @@ En los mundos de los Nakshatras (estrellas), oh Gârgî, respondió.
 Yâ<i>g</i>_ñ_avalkya dijo: «Oh, Gârgî, no pidas demasiado, no sea que se te caiga la cabeza. Preguntas demasiado sobre una deidad sobre la que no debemos preguntar demasiado [^409]. No pidas demasiado, oh, Gârgî». Después de eso, Gargî Vâ<i>k</i>aknavî guardó silencio.
 
 
-<span id="p132">[<sup><small>pág. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SÉPTIMO BRAHMA<i>N</i>A [^410].
 
-1\. Entonces Uddâlaka Âruni [^411] preguntó: «Yâ<i>g</i>_ñ_avalkya», dijo, «vivíamos entre los madrasitas en las casas de Pata_ñ_<i>k</i>ala Kâpya, estudiando el sacrificio. Su esposa poseía un Gandharva, y le preguntamos: "¿Quién eres?". Él respondió: «Soy Kabandha Âtharva<i>n</i>a». Y les preguntó a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: «¿Conoces, Kâpya, ese hilo que une a este mundo y al otro, y a todos los seres?». Y Pata_ñ_<i>k</i>ala Kâpya respondió: «No lo sé, señor». Él dijo de nuevo a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: “¿Conoces, Kâpya, a ese tirador (gobernante) interior (antaryâmin), que en el interior tira (gobierna) este mundo y el otro mundo y a todos los seres?” Y Pata_ñ_<i>k</i>ala Kâpya respondió: “No lo sé, Señor”. Él dijo de nuevo a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: “Él, oh Kâpya, que conoce ese hilo y a quien tira (de él) interiormente, conoce a Brahman, conoce los mundos, conoce a los Devas, conoce los Vedas, conoce a los Bhûtas (criaturas), conoce al Ser, lo sabe todo”. Así les dijo él (el Gandharva), y yo lo sé. 'Si tú, oh Yâ<i>g</i>_ñ_avalkya, sin conocer esa cuerda y al que la tira desde dentro, alejas a esas vacas Brahma (las vacas ofrecidas como premio a quien mejor conoce a Brahman), tu cabeza se caerá.'
+1\. Entonces Uddâlaka Âruni [^411] preguntó: «Yâ<i>g</i>_ñ_avalkya», dijo, «vivíamos entre los madrasitas en las casas de Pata_ñ_<i>k</i>ala Kâpya, estudiando el sacrificio. Su esposa poseía un Gandharva, y le preguntamos: "¿Quién eres?". Él respondió: «Soy Kabandha Âtharva<i>n</i>a». Y les preguntó a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: «¿Conoces, Kâpya, ese hilo que une a este mundo y al otro, y a todos los seres?». Y Pata_ñ_<i>k</i>ala Kâpya respondió: «No lo sé, señor». Él dijo de nuevo a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: «¿Conoces, Kâpya, a ese tirador (gobernante) interior (antaryâmin), que en el interior tira (gobierna) este mundo y el otro mundo y a todos los seres?» Y Pata_ñ_<i>k</i>ala Kâpya respondió: «No lo sé, Señor». Él dijo de nuevo a Pata_ñ_<i>k</i>ala Kâpya y a (nosotros) los estudiantes: «Él, oh Kâpya, que conoce ese hilo y a quien tira (de él) interiormente, conoce a Brahman, conoce los mundos, conoce a los Devas, conoce los Vedas, conoce a los Bhûtas (criaturas), conoce al Ser, lo sabe todo». Así les dijo él (el Gandharva), y yo lo sé. 'Si tú, oh Yâ<i>g</i>_ñ_avalkya, sin conocer esa cuerda y al que la tira desde dentro, alejas a esas vacas Brahma (las vacas ofrecidas como premio a quien mejor conoce a Brahman), tu cabeza se caerá.'
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Oh, Gautama, creo que conozco ese hilo y al que lo tira en su interior”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Oh, Gautama, creo que conozco ese hilo y al que lo tira en su interior».
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 El otro dijo: «Cualquiera puede decir: «Lo sé, lo sé. Di lo que sabes».
 
@@ -325,11 +325,11 @@ Hasta aquí con respecto a los dioses (adhidaivatam); ahora con respecto a los s
 
 1\. Entonces Vâ<i>k</i>aknavî [^415] dijo: «Venerables brahmanes, le haré dos preguntas. Si las responde, creo que ninguno de ustedes podrá vencerlo en ningún argumento sobre Brahman».
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Pregunta, oh Gârgî”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Pregunta, oh Gârgî».
 
 2\. Ella dijo: «Oh, Yâ<i>g</i>_ñ_avalkya, como el hijo de un guerrero de los Kâ<i>s</i>îs o Videhas podría tensar su arco desatado, tomar dos flechas puntiagudas que perforan al enemigo en su mano y alzarse para la batalla, me he levantado para <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> luchar contra ti con dos preguntas. Respóndeme».
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Pregunta, oh Gârgî”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Pregunta, oh Gârgî».
 
 3\. Ella dijo: 'Oh Yâ<i>g</i>_ñ_avalkya, aquello de lo que dicen que está por encima de los cielos, debajo de la tierra, abarcando el cielo y la tierra [^416], pasado, presente y futuro, dime, ¿en qué está tejido, como urdimbre y trama?'
 
@@ -343,7 +343,7 @@ Yâ<i>g</i>_ñ_avalkya dijo [^417]: 'Pregunta, oh Gârgî.'
 
 7\. Yâ<i>g</i>_ñ_avalkya dijo: 'Aquello de lo cual dicen que está por encima de los cielos, debajo de la tierra, abarcando el cielo y la tierra, el pasado, el presente y el futuro, eso está tejido, como la urdimbre y la trama, en el éter.'
 
-Gârgî dijo: “¿En qué está tejido entonces el éter, como la urdimbre y la trama?”
+Gârgî dijo: «¿En qué está tejido entonces el éter, como la urdimbre y la trama?»
 
 8\. Dijo: «Oh, Gârgî, los brahmanes lo llaman Akshara (lo imperecedero). No es ni tosco ni fino, ni corto ni largo, ni rojo (como el fuego) ni fluido (como el agua); es sin sombra, sin oscuridad, sin aire, sin éter, sin <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> apego [^418], sin sabor, sin olor, sin ojos, sin oídos, sin habla, sin mente, sin luz (vigor), sin aliento, sin boca (o puerta), sin medida; sin interior ni exterior, no devora nada, y nadie lo devora».
 
@@ -364,7 +364,7 @@ Gârgî dijo: “¿En qué está tejido entonces el éter, como la urdimbre y la
 
 "Treinta y tres", dijo.
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 «Sí», dijo, y volvió a preguntar: «¿Cuántos dioses hay realmente, oh Yâ<i>g</i>_ñ_avalkya?»
 
@@ -394,17 +394,17 @@ Gârgî dijo: “¿En qué está tejido entonces el éter, como la urdimbre y la
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Los ocho Vasus, los once Rudras, los doce Âdityas. Son treinta y uno, e Indra y Pra<i>g</i>âpati son treinta y tres [^426]».
 
-3\. Preguntó: “¿Quiénes son los Vasus?”
+3\. Preguntó: «¿Quiénes son los Vasus?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Agni (fuego), Piri</i>thivî (tierra), Vâyu (aire), Antariksha (cielo), Âditya (sol), Dyu (cielo), Kandramas (luna), las Nakshatras (estrellas), estos son los Vasus, pues en ellos reside todo lo que habita (este mundo); y por eso se les llama Vasus». <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 4\. Preguntó: «¿Quiénes son los Rudras?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Estos diez alientos vitales (prâ<i>n</i>as, los sentidos, es decir, los cinco <i>g</i>_ñ_ânendriyas, y los cinco karmendriyas), y Âtman [^428], como el undécimo. Cuando parten de este cuerpo mortal, nos hacen llorar (rodayanti), y por eso se les llama Rudras».
 
-5\. Preguntó: “¿Quiénes son los Adityas?”
+5\. Preguntó: «¿Quiénes son los Adityas?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Los doce meses del año, y son Âdityas, porque se mueven (yanti), absorbiéndolo todo [^429] (âdadânâ<i>h</i>). Porque se mueven, absorbiéndolo todo, por eso se llaman Âdityas».
 
-6\. Preguntó: “¿Y quién es Indra y quién es Pra<i>g</i>âpati?”
+6\. Preguntó: «¿Y quién es Indra y quién es Pra<i>g</i>âpati?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: 'Indra es el trueno, Pra<i>g</i>âpati es el sacrificio.'
 
@@ -422,13 +422,13 @@ Yâ<i>g</i>_ñ_avalkya respondió: 'Agni (fuego), P<i>ri</i>thivî (tierra), Vâ
 
 8\. Preguntó: '¿Quiénes son los tres dioses?'
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
-Yâ<i>g</i>_ñ_avalkya respondió: “Estos tres mundos, porque en ellos existen todos estos dioses”.
+Yâ<i>g</i>_ñ_avalkya respondió: «Estos tres mundos, porque en ellos existen todos estos dioses».
 
 Él preguntó: ¿Quiénes son los dos dioses?
 
-Yâ<i>g</i>_ñ_avalkya respondió: “Comida y aliento”.
+Yâ<i>g</i>_ñ_avalkya respondió: «Comida y aliento».
 
 Preguntó: ¿Quién es el único dios y medio?
 
@@ -468,7 +468,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de cada ser, de quien hablas. La persona sombría [^439], «él es él». Pero dime, <i>S</i>âkalya, ¿quién es su devatâ?»
 
-<i>S</i>âkalya respondió: “Muerte”.
+<i>S</i>âkalya respondió: «Muerte».
 
 15\. <i>S</i>âkalya dijo: 'Quienquiera que conozca a esa persona cuya morada son los colores (brillantes), cuya vista es el ojo, cuya mente es la luz, el principio de cada ser, ese en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
 
@@ -478,7 +478,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo
 
 16\. <i>S</i>âkalya dijo: 'Quienquiera que conozca a esa persona cuya morada es el agua, cuya vista es el corazón, cuya mente es la luz, el principio de cada ser, ese en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo ser, de quien hablas. La persona en el agua, «él es él». Pero dime, <i>S</i>âkalya, ¿quién es su devatâ?»
 
@@ -496,7 +496,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo
 
 19\. Yâ<i>g</i>_ñ_avalkya dijo: 'Conozco los lugares con sus deidades y sus moradas'.
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 <i>S</i>âkalya dijo: 'Si conoces los lugares con sus deidades y sus moradas,
 
@@ -516,7 +516,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En los colores, porque con el ojo ve los colores.'
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'En el corazón [^442], porque conocemos los colores por el corazón, porque los colores residen en el corazón [^443].'
 
-<i>S</i>âkalya dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>S</i>âkalya dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
 21\. <i>S</i>âkalya dijo: '¿Cuál es tu deidad en el cuadrante sur?'
 
@@ -536,7 +536,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En Sraddhâ (fe), porque si un hombre cree, entonc
 
 <i>S</i>âkalya dijo: '¿Y en qué reside entonces la fe?'
 
-Yâ<i>g</i>_ñ_avalkya dijo: “En el corazón, porque por el corazón la fe conoce, y por lo tanto la fe permanece en el corazón”.
+Yâ<i>g</i>_ñ_avalkya dijo: «En el corazón, porque por el corazón la fe conoce, y por lo tanto la fe permanece en el corazón».
 
 <i>S</i>âkalya dijo: «Así es, en verdad, oh Yâ<i>g</i>_ñ_avalkya». <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 22\. <i>S</i>âkalya dijo: «¿Cuál es tu deidad en la dirección occidental?»
 
@@ -554,7 +554,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En la semilla.'
 
 Yâ<i>g</i>_ñ_avalkya dijo: «En el corazón. Y por eso también dicen de un hijo que se parece a su padre que parece salido de su corazón, o hecho de su corazón; pues la semilla reside en el corazón».
 
-<i>S</i>âkalya dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>S</i>âkalya dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
 23\. <i>S</i>âkalya dijo: '¿Cuál es tu deidad en el cuadrante Norte?'
 
@@ -570,17 +570,17 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En la Verdad; y por eso le dicen a quien ha realiz
 
 <i>S</i>âkalya dijo: '¿Y en qué mora la Verdad?'
 
-Yâ<i>g</i>_ñ_avalkya dijo: “En el corazón, porque con el corazón conocemos lo que es verdadero, y en el corazón ciertamente reside la Verdad”.
+Yâ<i>g</i>_ñ_avalkya dijo: «En el corazón, porque con el corazón conocemos lo que es verdadero, y en el corazón ciertamente reside la Verdad».
 
-<i>S</i>âkalya dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>S</i>âkalya dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
 24\. <i>S</i>âkalya dijo: '¿Cuál es tu deidad en el cenit?'
 
-<span id="p148">[<sup><small>pág. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Yag_ñ_avalkya dijo: 'Agni.'
 
-<i>S</i>âkalya dijo: “¿En qué reside ese Agni?”
+<i>S</i>âkalya dijo: «¿En qué reside ese Agni?»
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'En el habla.'
 
@@ -588,7 +588,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En el habla.'
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'En el corazón.'
 
-<i>S</i>âkalya dijo: “¿Y en qué mora el corazón?”
+<i>S</i>âkalya dijo: «¿Y en qué mora el corazón?»
 
 2 5. Yâ<i>g</i>_ñ_avalkya dijo: 'Oh, Ahallika [^445], cuando piensas que el corazón podría estar en cualquier otro lugar lejos de nosotros, si estuviera lejos de nosotros, los perros podrían comérselo o los pájaros podrían desgarrarlo.'
 
@@ -630,13 +630,13 @@ Pero aquellos brahmanes no se atrevieron a decir nada.
 
 4\. 'Pero, mientras que el árbol, cuando es talado, vuelve a crecer más joven desde la raíz, ¿de qué raíz, dime, crece un mortal, después de haber sido talado por la muerte?
 
-5\. 'No digas: “de la semilla”, porque la semilla se produce de lo vivo [^454]; pero un árbol, que brota de un grano, claramente [^455] resurge después de la muerte [^456].
+5\. 'No digas: «de la semilla», porque la semilla se produce de lo vivo [^454]; pero un árbol, que brota de un grano, claramente [^455] resurge después de la muerte [^456].
 
 6\. 'Si un árbol es arrancado de raíz, no volverá a crecer; ¿de qué raíz, pues, dime, crece el mortal después que ha sido talado por la muerte?
 
 7\. 'Una vez nacido, no vuelve a nacer; pues ¿quién lo crearía de nuevo? [^457]'
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 'Brahman, que es conocimiento y felicidad, es el principio, tanto para aquel que da regalos [^458], como también para aquel que se mantiene firme y sabe.'
 

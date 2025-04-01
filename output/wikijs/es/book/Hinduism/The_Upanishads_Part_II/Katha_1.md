@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 KATH A-UPANISHAD.
 
@@ -48,7 +48,7 @@ PRIMER ADHYÂYA.
 
 4. Él (sabiendo que su padre había prometido renunciar a todo lo que poseía, y por lo tanto también a su hijo) le dijo a su padre: «Querido padre, ¿a quién me entregarás?»
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Lo repitió una segunda y una tercera vez. Entonces el padre respondió (enojado):
 
@@ -111,7 +111,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 29\. «No, aquello sobre lo que hay esta duda, ¡oh Muerte!, dinos qué hay en ese gran Más Allá. Na<i>k</i>iketas no elige otra bendición que la que entra en el mundo oculto».
 
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ## SEGUNDO VALLE
 
@@ -166,7 +166,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 25\. '¿Quién sabe entonces dónde está Él, Aquel para quien los brahmanes y los kshatriyas son (por así decirlo) sólo alimento [^113], y la muerte misma un condimento?'
 
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## TERCER VALLÎ
 

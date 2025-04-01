@@ -1,6 +1,6 @@
 ---
 title: "IV. Khordâd Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -68,7 +68,7 @@ Sacrificamos a Haurvatâ<i>t</i>, la Amesha-Spe<i>n</i>ta; sacrificamos a la pro
 
 Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyéndolo [^261] o recitándolo de memoria, dibuja los surcos [^262] y se esconde [^263] allí él mismo, \[diciendo\]:
 
-6\. “¡Te heriré, oh Droga! Quienquiera que seas, quienquiera que seas entre las Drogas que entran por la vía pública, quienquiera que seas entre las Drogas que entran por vías ocultas, quienquiera que seas entre las Drogas que contaminan por contacto; seas la Droga que seas, te expulso de los países arios; seas la Droga que seas, te ato; ¡te derribo, oh Droga! ¡Te arrojo al suelo, oh Droga!” <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> 7\. 'Dibuja \[luego\] tres surcos [^264]: lo proclamo uno de los fieles; dibuja seis surcos [^264]: lo proclamo uno de los fieles; dibuja nueve surcos [^264]: lo proclamo uno de los fieles.
+6\. «¡Te heriré, oh Droga! Quienquiera que seas, quienquiera que seas entre las Drogas que entran por la vía pública, quienquiera que seas entre las Drogas que entran por vías ocultas, quienquiera que seas entre las Drogas que contaminan por contacto; seas la Droga que seas, te expulso de los países arios; seas la Droga que seas, te ato; ¡te derribo, oh Droga! ¡Te arrojo al suelo, oh Droga!» <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> 7\. 'Dibuja \[luego\] tres surcos [^264]: lo proclamo uno de los fieles; dibuja seis surcos [^264]: lo proclamo uno de los fieles; dibuja nueve surcos [^264]: lo proclamo uno de los fieles.
 
 8\. 'Los nombres de aquellos (Amesha-Spe<i>n</i>tas) hieren a los hombres convertidos a Nasus [^265] por las Drogas; la semilla y los parientes de los sordos [^266] son ​​heridos, los desdeñosos [^267] están muertos, mientras el Zaotar Zaratustra los sopla hacia la aflicción [^268], por muy fieros que sean, a su voluntad y deseo, a tantos como él desea.
 
@@ -116,7 +116,7 @@ Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyén
 
 [^262]: Venta 48:4. XXII, 20\[54\]
 
-[^263]: 48:5 Como arriba, [p. 22](Yasts_1#p22) y notas.
+[^263]: 48:5 Como arriba, [p. 22](../Yasts_1#p22) y notas.
 
 [^264]: 49:1 Siroza I, 6.
 
@@ -148,7 +148,7 @@ Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyén
 
 [^283]: 51:2 Lectura nasûm kereta; cf. nasu-kereta (Vend. VII, 26 \[67\]).
 
-[^284]: 51:3 Véase arriba, [p. 26](Yasts_1#p26), nota [2](Yasts_1#fn120).
+[^284]: 51:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120).
 
 [^285]: 51:4 Saoká; cf. Yt. XXII, 13.
 

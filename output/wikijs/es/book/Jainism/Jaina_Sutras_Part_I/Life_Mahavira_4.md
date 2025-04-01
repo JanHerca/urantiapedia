@@ -54,7 +54,7 @@ Diciendo esto, aceptó el verdadero significado de los sueños y, con el permiso
 
 Por eso, ella permaneció despierta para salvar sus sueños escuchando historias buenas, auspiciosas, piadosas y agradables sobre dioses y hombres religiosos. (55)
 
-<span id="p241">[<sup><small>pág. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Al amanecer, el Kshatriya Siddhârtha llamó a sus sirvientes familiares y les dijo así: (56)
 
@@ -106,11 +106,11 @@ Ahora bien, el Venerable Asceta Mahâvîra, por compasión hacia su madre, no se
 
 Entonces el Venerable Asceta Mahâvîra, sabiendo que tal idea interna, etc. (ver § 90, hasta) había ocurrido en la mente de su madre, tembló un poco. (93)
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Sintiendo a su hijo estremecerse, temblar, moverse y agitarse, la Kshatriyâ<i>n</i>î Tri<i>s</i>alâ —contenta, complacida y alegre, etc.— dijo así: «No, en verdad, el fruto de mi vientre no me ha sido arrebatado, no ha muerto, no ha caído, no está perdido. Antes no se movía, pero ahora sí». Así estaba contenta, complacida y alegre, etc.
 
-Entonces la Venerable Asceta Mahâvîra, mientras estaba en su vientre, tomó la siguiente resolución: “No me corresponderá, mientras vivan mis padres, arrancarme el cabello y abandonar la casa para entrar en el estado de no tener hogar”. (94)
+Entonces la Venerable Asceta Mahâvîra, mientras estaba en su vientre, tomó la siguiente resolución: «No me corresponderá, mientras vivan mis padres, arrancarme el cabello y abandonar la casa para entrar en el estado de no tener hogar». (94)
 
 Bañarse, hacer ofrendas a los dioses domésticos, realizar ritos auspiciosos y actos expiatorios, y adornarse con todos los ornamentos, la Kshatriyâ<i>n</i>î Tri<i>s</i>alâ se protegía de la enfermedad, la tristeza, el desmayo, el miedo y la fatiga con comida y ropa, perfumes y guirnaldas, que no eran ni demasiado fríos ni demasiado calientes, ni demasiado amargos ni demasiado picantes, ni demasiado astringentes ni demasiado ácidos ni demasiado dulces, ni demasiado suaves ni demasiado ásperos, ni demasiado húmedos ni demasiado secos, sino todos adecuados a la estación. En el lugar y momento adecuados, comía solo alimentos buenos, suficientes y saludables para la nutrición de su hijo. Daba paseos por lugares vacíos y agradables, así como deleitosos para la mente; sus deseos eran loables, cumplidos, honrados, no desatendidos, sino acatados y ejecutados; Ella dormitaba, reposaba, permanecía, se sentaba y se acostaba con la mayor comodidad en camas y asientos suaves e inoportunos, y así llevaba cómodamente a su hijo no nacido. (95)
 

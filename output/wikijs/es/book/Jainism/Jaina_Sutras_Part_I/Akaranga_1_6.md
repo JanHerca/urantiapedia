@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 SEXTA LECCIÓN, LLAMADA LA LIMPIEZA [^230].
 
@@ -46,7 +46,7 @@ Ahora veamos a aquellos que nacen en estas familias para cosechar el fruto de su
 
 Forúnculos y lepra, tuberculosis, enfermedades que afectan a las piernas, ceguera y rigidez, cojera y joroba, 1
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Hidropesía y mudez, ¡mira! apoplejía y enfermedades oculares, temblor y lisiado, elefantiasis y diabetes, 2
 
@@ -107,7 +107,7 @@ Un santo [^253], con intuición recta, que alberga compasión por el mundo, en e
 
 Sin descuidar la tranquilidad, la indiferencia, la paciencia, la liberación, la pureza, la rectitud, la mansedumbre y la liberación de las preocupaciones mundanas [^256], se debe, con la debida consideración, predicar la ley de los mendicantes a toda clase de criaturas. (3)
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Predicando la ley de los mendicantes con la debida consideración, uno no debe causarse daño a sí mismo, ni a nadie más, ni a ninguna de las cuatro clases de seres vivos. Pero un gran sabio, sin causar daño ni dañar, se convierte en un refugio para toda clase de criaturas afligidas, como una isla que nunca está cubierta de agua. (4)
 
@@ -197,7 +197,7 @@ Fin de la Sexta Lección, llamada la Limpieza.
 
 [^255]: 60:1 O los que rompen los votos.
 
-[^256]: 60:2 No, véase nota [2](Akaranga_1_5#fn228), [p. 52](Akaranga_1_5#p52).
+[^256]: 60:2 No, véase nota [2](../Akaranga_1_5#fn228), [p. 52](../Akaranga_1_5#p52).
 
 [^257]: 60:3 Veyavi = vedavid.
 

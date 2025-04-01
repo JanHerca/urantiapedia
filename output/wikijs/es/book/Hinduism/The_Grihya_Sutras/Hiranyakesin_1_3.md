@@ -126,7 +126,7 @@ Esta hierba es protectora, vencedora y poderosa. Que me haga brillar con un bril
 
 10\. [^560] Con (la fórmula), 'Eres el refugio de Pra<i>g</i>âpati, la cobertura del Brahman', toma la sombrilla.
 
-11\. [^561] Con el verso: “Mi bastón que cayó al aire libre, al suelo, lo tomo de nuevo por amor a una larga vida, a la santidad, al santo brillo” —toma su bastón, si se le ha caído de la mano.
+11\. [^561] Con el verso: «Mi bastón que cayó al aire libre, al suelo, lo tomo de nuevo por amor a una larga vida, a la santidad, al santo brillo» —toma su bastón, si se le ha caído de la mano.
 
 Fin del tercer Pa<i>t</i>ala.
 
@@ -156,7 +156,7 @@ Fin del tercer Pa<i>t</i>ala.
 
 ## Notas al pie
 
-[^542]: 162:4 9, 4. Comp. I, 1, 3, 4; <i>Ri</i>g-veda I, 94, 1. «Cuando se dice: “Él pone leña al fuego” (agnim upasamâdhâya), debe preparar el terreno levantándolo, etc., debe llevar el fuego a ese lugar, debe ponerle leña y luego debe sacrificar en él. Donde no se dicen esas palabras, solo debe esparcir hierba alrededor del fuego que ya está establecido en su lugar, y así debe realizar el sacrificio». Mât<i>ri</i>datta.
+[^542]: 162:4 9, 4. Comp. I, 1, 3, 4; <i>Ri</i>g-veda I, 94, 1. «Cuando se dice: «Él pone leña al fuego» (agnim upasamâdhâya), debe preparar el terreno levantándolo, etc., debe llevar el fuego a ese lugar, debe ponerle leña y luego debe sacrificar en él. Donde no se dicen esas palabras, solo debe esparcir hierba alrededor del fuego que ya está establecido en su lugar, y así debe realizar el sacrificio». Mât<i>ri</i>datta.
 
 [^543]: 162:6 Sâṅkhâyana I, 28, 9.
 
@@ -184,7 +184,7 @@ Fin del tercer Pa<i>t</i>ala.
 
 [^555]: 168:3 El Mantra, con excepción de las últimas palabras, es idéntico al último verso de la Sección 10, Sûtra 6. Aquí los manuscritos nuevamente tienen oshadhe en lugar de oshadhis.
 
-[^556]: 168:4 Comp. Atharva-veda VI, 137: “El que nace del Señor es el que nace del Señor”, etc. Paraskara II, 6, 23.
+[^556]: 168:4 Comp. Atharva-veda VI, 137: «El que nace del Señor es el que nace del Señor», etc. Paraskara II, 6, 23.
 
 [^557]: 168:5 Con respecto al ungüento Traikakuda, comp. Zimmer, Antiguo y temprano medieval, pág. 69, y véase Atharva-veda IV, 9, 9.
 

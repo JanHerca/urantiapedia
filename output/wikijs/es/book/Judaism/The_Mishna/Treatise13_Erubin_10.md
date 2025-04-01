@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 10. Está prohibido usar un cerrojo suelto [^244] con pomo en el sabbat. Tal es el dictamen de R. Eleazar, pero R. José permite su uso. R. Eleazar dijo: «En la sinagoga de Tiberíades era costumbre usar dicho cerrojo, hasta que Rabbon Gamaliel y los ancianos vinieron y permitieron su uso». Pero R. José respondió: «Por el contrario, se abstuvieron de usarlo, considerándolo ilegal, hasta que Rabbon Gamaliel y los ancianos vinieron y permitieron su uso».
 
-<span id="p95">[<sup><small>pág. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 § 11. Un perno suelto, sujeto a una cuerda y que cuelga hacia el suelo, solo se puede usar para sujetar objetos en el Templo, pero no en el campo; [^245] pero un perno fijo en el edificio mismo está prohibido en ambos lugares. R. Jehudah dice: «Se puede usar un perno fijo en el Templo, y un perno suelto en el campo».
 

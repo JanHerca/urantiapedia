@@ -129,7 +129,7 @@ Con quemaduras por rayos en el pecho y las extremidades.
 Un ejército poderoso obedece su voluntad
 Y tropas de esclavos llenan su palacio;
 
-<span id="p290">[<sup><small>pág. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Sus señores del estado son sabios y veraces,
 Tiene parientes y séquito.
@@ -251,7 +251,7 @@ Aferrado como una enredadera a los árboles,
 Y como una pobre cosa abandonada
 Con gritos salvajes resonó el bosque.
 Pero rápidamente el gigante llegó a su lado,
-<span id="p291">[<sup><small>pág. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 Tan fuerte lloró el nombre de Ráma.
 Feroz como la muerte siniestra, con una mano puso
@@ -370,7 +370,7 @@ Desde el cielo sobre el firmamento. [^506]
 Los pájaros de todas las alas se habían reunido.
 A los árboles majestuosos mecidos por la brisa:
 
-<span id="p292">[<sup><small>pág. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 Estos inclinaron sus cabezas barridas por el viento y
 dicho:
@@ -494,7 +494,7 @@ Y con locura retira sus labios
 De la medicina que controlaría la caries.
 Enrollado firmemente alrededor de tu cuello
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 La espiral mortal del Destino está atada,
 Y tú, oh Ravan, no temas
@@ -617,7 +617,7 @@ Vio ocho gigantes, fuertes y temibles,
 Se alimentaba de carne de víctimas sangrantes,
 Orgulloso del don que Brahma le dio,
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Y confiando en su poder para salvar.
 Así se dirigió a los poderosos jefes:
@@ -741,7 +741,7 @@ Aunque guiado por Aquel que gobierna el cielo.
 No hay Dios en el cielo, ni sabio en la tierra,
 Ningún juglar de nacimiento celestial,
 
-<span id="p295">[<sup><small>pág. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 No veo ningún espíritu en los mundos
 Un duelo de poder y fuerza para mí.
@@ -865,7 +865,7 @@ Sí, si la mirada de Ráma brillara
 Con furia debería iluminar tu forma,
 Si te quemaste este día caerías y morirías.
 
-<span id="p296">[<sup><small>pág. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Como Cama asesinado por el ojo de Rudra. [^507]
 Aquel que desde el cielo pudo arrojar la luna,
@@ -987,7 +987,7 @@ El cuerpo de la sonrisa,
 Verdadera consorte \* del destino feliz
 W \* y dedicar
 
-<span id="p297">[<sup><small>pág. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 Ella mira y anhela el rostro de Ráma,
 Pero ve una multitud de raza demoníaca,
@@ -1111,7 +1111,7 @@ Presagiado por los gritos del chacal.
 ¡Oh, que la dama Maitil sea protegida!
 ¡Por la indignación de cada demonio hambriento!
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 Por desgracia, si Lakshman por casualidad escuchara...
 Ese amargo grito de dolor y miedo
@@ -1236,7 +1236,7 @@ Ni el corazón de su orgulloso rival obedece,
 De vuelta a mi cuna repararé
 Si Sítá viviera para saludarme allí,
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Pero si mi mujer perece, yo...
 El resto del amor seguramente morirá,
@@ -1358,7 +1358,7 @@ Para ganar mi amor, tu hermano fue asesinado.
 No es amor, sino el oscuro decreto de Bharat
 Te aconsejó compartir su exilio,
 
-<span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 O escuchando ahora su amargo llanto
 Seguramente tú correrías en su ayuda.

@@ -36,13 +36,13 @@ CUARTA LECCIÓN, LLAMADA RENUNCIA A LA ACTIVIDAD.
 
 ¡Oh, longevo (Gambûsvâmin)! Yo (Sudharman) he escuchado el siguiente discurso del Venerable (Mahâvîra). Llegamos ahora a la conferencia titulada «Renuncia a la Actividad». Su contenido es el siguiente:
 
-<span id="p399">[<sup><small>pág. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 Es el Ser que puede [^1171] no renunciar (a la actividad), que puede estar acostumbrado a actuar, que puede adherirse a errores, que puede ser propenso al pecado, que puede ser completamente ignorante, que puede ser completamente impasible [^1172], que puede no considerar las operaciones [^1173] de la mente, el habla y el cuerpo, que no puede evitar y renunciar a los pecados.
 
 El Venerable ha dicho: «Él (es decir, el Ser) es incontrolable, irresponsable, no evita ni renuncia a los pecados, es activo, descuidado, propenso al pecado, completamente ignorante, completamente impasible. Aunque un necio no considera [^1174] las operaciones de su mente, habla y cuerpo, ni siquiera ve un sueño [^1175]; aun así comete pecados [^1176]. (1)
 
-El oponente le dice al maestro: «No puede haber pecado si (el autor de una acción) no posee pensamientos, palabras y funciones corporales pecaminosos, si no mata, si no tiene órganos internos, si no considera las operaciones de la mente, el habla y el cuerpo, si ni siquiera ve un sueño». <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> ¿Qué quiere decir el oponente con esta afirmación? «Cuando hay una mente pecaminosa, hay pecado de la mente; cuando hay palabras pecaminosas, hay pecado del habla; cuando hay un cuerpo pecaminoso, hay pecado del cuerpo. Cuando uno mata, posee un órgano interno y considera las operaciones de la mente, el habla y el cuerpo, incluso si ve un sueño, entonces hay pecado. Solo quien tiene estas cualidades puede cometer pecado». El oponente continúa diciendo: “Aquellos que dicen: Hay pecado, aunque (el perpetrador de una acción) no posee pensamientos, palabras y funciones corporales pecaminosas, aunque no mata, aunque no posee un órgano interno, aunque no considera las operaciones de la mente, el habla y el cuerpo, y aunque no ve ni siquiera un sueño, aquellos que dicen esto, están equivocados”. (2)
+El oponente le dice al maestro: «No puede haber pecado si (el autor de una acción) no posee pensamientos, palabras y funciones corporales pecaminosos, si no mata, si no tiene órganos internos, si no considera las operaciones de la mente, el habla y el cuerpo, si ni siquiera ve un sueño». <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> ¿Qué quiere decir el oponente con esta afirmación? «Cuando hay una mente pecaminosa, hay pecado de la mente; cuando hay palabras pecaminosas, hay pecado del habla; cuando hay un cuerpo pecaminoso, hay pecado del cuerpo. Cuando uno mata, posee un órgano interno y considera las operaciones de la mente, el habla y el cuerpo, incluso si ve un sueño, entonces hay pecado. Solo quien tiene estas cualidades puede cometer pecado». El oponente continúa diciendo: «Aquellos que dicen: Hay pecado, aunque (el perpetrador de una acción) no posee pensamientos, palabras y funciones corporales pecaminosas, aunque no mata, aunque no posee un órgano interno, aunque no considera las operaciones de la mente, el habla y el cuerpo, y aunque no ve ni siquiera un sueño, aquellos que dicen esto, están equivocados». (2)
 
 Aquí el maestro le dice al oponente: «Es cierto lo que acabo de decir: hay pecado, aunque (el autor de la acción) no tenga pensamientos pecaminosos, (etc., todo como se mencionó anteriormente, hasta) aunque no tenga ni un sueño». «¿Cuál es la razón?» (El Â<i>k</i>ârya dice) [^1177]: «El Venerable ha señalado las seis clases de seres vivos como la razón: las vidas terrenales, (etc., hasta) los seres móviles. Con respecto a estas seis clases de seres vivos, el Ser no evita ni renuncia a los pecados, es malvado y causa daño mediante la crueldad: (esto se aplica a los cinco pecados capitales) matar seres vivos, etc. (y las pasiones): la ira, etc. (hasta) el pecado de la creencia errónea». (3)
 
@@ -62,7 +62,7 @@ Así, incluso los seres sin sentido se consideran instrumentales en la matanza d
 
 (El oponente pregunta): "¿Qué se debe hacer o qué se debe hacer para controlarse y restringirse, para evitar y renunciar a los pecados?" (El Â<i>k</i>ârya responde): El Venerable ha declarado que la causa (de los pecados) son las seis clases de seres vivos, vidas terrenales, etc. Como yo siento dolor, ellos también lo sienten. Por lo tanto, no se les debe herir ni matar [^1183].
 
-<span id="p405">[<sup><small>pág. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Esta Ley constante, permanente, eterna y verdadera ha sido enseñada por sabios que comprenden todas las cosas. Así, un monje se abstiene de (los cinco pecados capitales): matar seres vivos, etc., (y de vicios, hasta) el pecado de la creencia errónea. No se cepilla los dientes, no acepta colirio, eméticos ni perfumes. Un monje así no actúa ni mata, está libre de ira, orgullo, engaño y avaricia, y es tranquilo y feliz. El Venerable dice que un monje así es bien controlado y sobrio, evita y renuncia a los pecados, no es activo, sino cuidadoso y profundamente sabio. (11)
 
@@ -120,4 +120,4 @@ Así lo digo.
 
 [^1192]: 403:1 Si el pasaje se imprimiera completo, las contradicciones más flagrantes saltarían a la vista del lector. La causa no es que el pasaje no pueda traducirse correctamente, sino que los autores de los Sutras siempre usan frases hechas, independientemente de si todas sus partes se ajustan al caso en cuestión. A veces podemos evitar un disparate absoluto seleccionando una traducción ligeramente diferente a la que se ofrece en otra parte del libro; y así lo hago en la última oración de este párrafo. Pero esto es solo una solución provisional.
 
-[^1193]: 404:1 Aquí resumo el texto que es idéntico a II, 1, 48 y siguientes, [p. 351](Sutrakritanga_2_1#p351).
+[^1193]: 404:1 Aquí resumo el texto que es idéntico a II, 1, 48 y siguientes, [p. 351](../Sutrakritanga_2_1#p351).

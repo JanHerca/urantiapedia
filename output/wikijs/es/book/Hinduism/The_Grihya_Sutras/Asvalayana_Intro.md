@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 
 

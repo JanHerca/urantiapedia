@@ -50,7 +50,7 @@ Aquel que usa una cama, una tabla, una silla, un asiento o su plumero [^204], si
 
 Aquel que camina con gran prisa y sin cuidado, siendo autoritario y feroz, se llama un mal <i>Srama<i>n</i>a. (8)
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Aquel que inspecciona las cosas descuidadamente [^205], arrojando su plumero al azar, sin prestar atención a la inspección de las cosas, se llama un mal <i>S</i>rama<i>n</i>a. (9)
 
@@ -70,7 +70,7 @@ Aquel que come después del atardecer y, cuando se le amonesta, responde con eno
 
 Aquel que abandona a su propio maestro y sigue a los heréticos, que cambia continuamente de escuela [^206], al ser de mala disposición, se le llama un mal <i>Srama<i>n</i>a. (17)
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Aquel que ha abandonado su propia casa y se ocupa en la casa de otro, que vive de la adivinación, se llama un mal <i>Srama<i>n</i>a. (18)
 

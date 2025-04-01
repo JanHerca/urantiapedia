@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span> pág. 261
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span> pág. 261
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 El Grihya-sûtra de Pâraskara, perteneciente al Yariur-veda Blanco y apéndice del Srauta-sûtra de Kâtyâyana, ha sido editado, con traducción al alemán, por el erudito que fue el primero en hacer accesible un texto Grihya a los orientalistas y en abordar las primeras y más serias dificultades que dificultaban su interpretación, y quien desde entonces ha contribuido más que nadie al esclarecimiento de esta importante rama de la literatura védica. Sería muy inapropiado que quien se dedique al estudio de los textos Grihya no reconociera efusivamente su gratitud al profesor Stenzler. Al mismo tiempo, el respeto debido al veterano editor e intérprete de Â<i>ri</i>valâyana y Pâraskara no sólo permite, sino que exige que quien se proponga la misma tarea en la que trabajó con tanto conocimiento el profesor Stenzler, exprese tan claramente como sea posible lo que ese distinguido erudito dejó para que otros hicieran, y por qué quien prepara una traducción al inglés de Pâraskara tiene una tarea muy diferente a la de simplemente traducir al inglés la traducción al alemán del profesor Stenzler.
 
@@ -69,7 +69,7 @@ Ahora bien, si esto puede aceptarse como una expresión vaga del propósito gene
 
 'pra<i>s</i>abda upa<i>s</i>abdârthe. ara<i>s</i>yupâdânakam eka â<i>s</i>âryâ i<i>s</i><i>s</i>anti.'
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Es decir: «La palabra pra tiene el mismo sentido que la palabra upa. Algunos maestros desean que (el fuego) tenga como base física las astillas de madera [^653]».
 
@@ -135,7 +135,7 @@ Quizás me he extendido demasiado en la interpretación de algunas palabras que 
 
 [^660]: 268:1 Agneh pa<i>s</i><i>s</i>âd ya<i>s</i>amâno dakshi<i>s</i>ata_h<i>s</i>k<i>s</i>s_ati. ara<i>s</i>ipradâna_m<i>s</i>m_. âh<i>s</i>tasyâgner eva sa<i>s</i>skârah.
 
-[^661]: 268:2 Sobre este nombre de <i>S</i>âṅkhâyana, véase mi Introducción a la traducción del <i>S</i>âṅkhâyana-G<i>ri</i>hya, arriba, [p. 3](Sankhayana_Intro#p3).
+[^661]: 268:2 Sobre este nombre de <i>S</i>âṅkhâyana, véase mi Introducción a la traducción del <i>S</i>âṅkhâyana-G<i>ri</i>hya, arriba, [p. 3](../Sankhayana_Intro#p3).
 
 [^662]: 268:3
   Atrâra<i>n</i>ipradâna_m<i>n</i>h<i>n</i>k_it,

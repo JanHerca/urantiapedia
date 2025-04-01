@@ -44,7 +44,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte I: “Vendîdâd” (SBE 4)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte I: «Vendîdâd» (SBE 4)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Zoroastrianism/The_Zend_Avesta_Part_1" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -71,7 +71,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte II: “El Sîrôzahs, Yasts y Nyâyis” (SBE 23)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte II: «El Sîrôzahs, Yasts y Nyâyis» (SBE 23)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Zoroastrianism/The_Zend_Avesta_Part_2" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -98,7 +98,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte III: “El Yasna, Visparad, Âfrînagân, Gâhs y Fragmentos Varios” (SBE 31)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte III: «El Yasna, Visparad, Âfrînagân, Gâhs y Fragmentos Varios» (SBE 31)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Zoroastrianism/The_Zend_Avesta_Part_3" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">

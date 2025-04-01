@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 LIBRO VIII.
 
@@ -78,7 +78,7 @@ Y además, al emplear el anzuelo y el sedal, el compás y la escuadra para dar a
 
 ## Notas al pie
 
-[^376]: 268:1 Ver págs. [138](Kwang_dze_Intro#p138), [139](Kwang_dze_Intro#p139).
+[^376]: 268:1 Ver págs. [138](../Kwang_dze_Intro#p138), [139](../Kwang_dze_Intro#p139).
 
 [^377]: 268:2 «Salen de la naturaleza», pero «naturaleza» debe entenderse aquí como en la traducción. El carácter no es Tâo.
 

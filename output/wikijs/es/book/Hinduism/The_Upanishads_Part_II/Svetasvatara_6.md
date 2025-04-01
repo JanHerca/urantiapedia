@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## SEXTO ADHYÂYA.
 

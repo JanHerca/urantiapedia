@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p285">[<sup><small>pág. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Desde Confucio hasta el ascenso de la dinastía Khin.
 
@@ -46,7 +46,7 @@ Tres textos diferentes.
 
 3\. Tres textos diferentes del Shih aparecieron a principios de la dinastía Han, conocidos como el Shih de Lû, de Khî y de Han; es decir, el Libro de Poesía se recuperó de tres fuentes diferentes. El Catálogo de los Libros de la Biblioteca Imperial de Han (6 a. C.-1 a. C.) de Liû Hin comienza, sobre el Rey Shih, con una recopilación de los tres textos, en veintiocho capítulos.
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 El texto de Lû.
 
@@ -62,7 +62,7 @@ iii. El texto de Han fue algo más afortunado. El Catálogo de Hin contiene los 
 
 4\. Pero aunque esas tres recensiones diferentes del Shih desaparecieron todas, con la excepción de un solo tratado de Han Ying, su desafortunado destino no se debió más a las convulsiones por las que a menudo se desgarraba el imperio y la consiguiente destrucción de monumentos literarios como los que
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Un cuarto texto: el de Mâo.
 
@@ -104,4 +104,4 @@ En general, la evidencia presentada anteriormente es tan completa como podría d
 
 ## Notas al pie
 
-[^323]: 285:1 Todos, de hecho, salvo que exceptuemos las seis piezas de la Parte II, de las cuales solo tenemos los títulos. Kû Hsî y otros sostienen que el texto de estas se había perdido antes de la época de Confucio. Sin embargo, es posible que se perdiera después de la muerte del sabio; véase la nota en la [p. 283](Shih_King_Intro_2#p283).
+[^323]: 285:1 Todos, de hecho, salvo que exceptuemos las seis piezas de la Parte II, de las cuales solo tenemos los títulos. Kû Hsî y otros sostienen que el texto de estas se había perdido antes de la época de Confucio. Sin embargo, es posible que se perdiera después de la muerte del sabio; véase la nota en la [p. 283](../Shih_King_Intro_2#p283).

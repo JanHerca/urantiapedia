@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Açvaghosha vio que todas las miradas estaban fijas en él, y por eso contó la historia del elefante blanco. Dijo:
 
@@ -54,7 +54,7 @@ Cuando Açvaghosha hubo terminado la parábola del noble y poderoso elefante, lo
 
 Nuestro objetivo no es vivir, sino, ya sea que muramos o vivamos, evitar el mal y dejar que prevalezcan el bien, la justicia y la bondad. Dice el Tathagata:
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 “No cometáis mal alguno, sino buenas obras,
  Y sea puro tu corazón.

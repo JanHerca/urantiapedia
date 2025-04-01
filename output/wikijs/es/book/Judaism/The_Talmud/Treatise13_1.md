@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p242">[<sup><small>pág. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## TRATADO XIII.
 

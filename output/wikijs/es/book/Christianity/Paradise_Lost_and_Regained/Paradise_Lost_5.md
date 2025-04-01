@@ -60,7 +60,7 @@ Nos llama; perdemos el primer momento para marcar cómo llega la primavera
 Nuestras plantas cuidadas, cómo sopla el cidrero,
 ¿Qué gotas de mirra y qué caña balsámica,
 Cómo la Naturaleza pinta sus colores, cómo la abeja
-“Se sienta sobre la flor extrayendo un líquido dulce”.
+«Se sienta sobre la flor extrayendo un líquido dulce».
 
 Tal susurro la despertó, pero con ojos sobresaltados.
 Sobre Adán, a quien abrazó, así le dijo:
@@ -249,7 +249,7 @@ Hice vocalizar mi canción y enseñé su alabanza.
 ¡Salve, Señor universal! Sé generoso aún.
 Para darnos sólo el bien; y, si la noche
 Han acumulado algo malo o lo han ocultado,
-“Dispérsala, como ahora la luz disipa la oscuridad”.
+«Dispérsala, como ahora la luz disipa la oscuridad».
 
 Así oraron los inocentes, y a sus pensamientos
 Pronto se restableció la paz firme y la calma habitual.
@@ -267,7 +267,7 @@ Rafael, el Espíritu sociable, que se dignó
 Viajar con Tobías, y asegurado
 Su matrimonio con la doncella que se había casado siete veces.
 
-“Rafael”, dijo él, “¿oyes qué revuelo hay en la Tierra?
+«Rafael», dijo él, “¿oyes qué revuelo hay en la Tierra?
 Satanás, del infierno escapó a través del oscuro Golfo,
 Ha resucitado en el Paraíso, y cuán perturbado
 Esta noche la pareja humana; ahora él diseña
@@ -288,7 +288,7 @@ La caída de otros de un estado similar de felicidad.
 ¿Por la violencia? No, porque eso será resistido.
 Pero con engaños y mentiras. Esto le hizo saber,
 No sea que, transgrediendo voluntariamente, pretenda
-“Sorprendente, imprevisto, sin previo aviso”.
+«Sorprendente, imprevisto, sin previo aviso».
 
 Así habló el Padre Eterno, y cumplió
 Toda justicia. Ni retrasó al Santo alado
@@ -376,7 +376,7 @@ Pero me apresuraré, y de cada rama y de cada espino,
 Cada planta y calabaza más jugosa, arrancará tal elección
 Para entretener a nuestro invitado ángel como él,
 Al contemplar, confesaré que aquí en la Tierra
-“Dios ha dispensado sus bondades como en el Cielo”.
+«Dios ha dispensado sus bondades como en el Cielo».
 
 Así lo dijo, con miradas apresuradas.
 Ella se vuelve, con pensamientos hospitalarios,
@@ -421,7 +421,7 @@ Sentarse y saborear, hasta este calor meridiano
 Se acabó, y el sol más fresco declinará.”
 
 A quien así respondió suavemente la Virtud angélica:
-“Adán, por eso vine; ¿y tú no eres tal?”
+«Adán, por eso vine; ¿y tú no eres tal?»
 Creado, o tal lugar tienes aquí para habitar,
 Como no siempre se puede invitar, aunque los Espíritus del Cielo,
 Para visitarte. Condúceme, pues, a donde está tu cenador.

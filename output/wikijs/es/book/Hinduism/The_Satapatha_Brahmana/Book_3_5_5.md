@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 <span id="v5_5_1"><sup><small>5:5:1</small></sup></span>
 
@@ -248,9 +248,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^239]: 122:1 O más bien, esa dirección hacia arriba.
 
-[^240]: 122:2 Es decir, la región de la luz, del sol. Véase [V, 3, 1, 2](Book_3_5_3#v5_3_1_2) con nota.
+[^240]: 122:2 Es decir, la región de la luz, del sol. Véase [V, 3, 1, 2](../Book_3_5_3#v5_3_1_2) con nota.
 
-[^241]: 123:1 Se desconoce el significado de este compuesto. Sâya<i>n</i>a lo explica como «alguien que no se mueve de un sitio, alguien que siempre permanece en el mismo». De ahí la conjetura del diccionario de San Petersburgo: «Aquel cuyo rebaño (o corral, vra<i>g</i>a, vrâ<i>g</i>a) es estacionario». De igual manera, el profesor Weber, en el Diccionario de Böhtlingk. Véase, sin embargo, la lectura de Kâ<i>n</i>va anterior, [p. 50](Book_3_5_2#p50), nota [1](Book_3_5_2#fn115), según la cual la palabra parecería significar alguien afligido por cierta enfermedad (¿cólera o disentería?). La ofrenda 'Pa<i>ñ</i><i>k</i>abila' puede realizarse como un ish<i>t</i>i especial, independientemente del Râ<i>g</i>asûya.
+[^241]: 123:1 Se desconoce el significado de este compuesto. Sâya<i>n</i>a lo explica como «alguien que no se mueve de un sitio, alguien que siempre permanece en el mismo». De ahí la conjetura del diccionario de San Petersburgo: «Aquel cuyo rebaño (o corral, vra<i>g</i>a, vrâ<i>g</i>a) es estacionario». De igual manera, el profesor Weber, en el Diccionario de Böhtlingk. Véase, sin embargo, la lectura de Kâ<i>n</i>va anterior, [p. 50](../Book_3_5_2#p50), nota [1](../Book_3_5_2#fn115), según la cual la palabra parecería significar alguien afligido por cierta enfermedad (¿cólera o disentería?). La ofrenda 'Pa<i>ñ</i><i>k</i>abila' puede realizarse como un ish<i>t</i>i especial, independientemente del Râ<i>g</i>asûya.
 
 [^242]: 123:2 «¿Pero quién sabe si vivirá un año?» Taitt. Br. I, 8, 4. 3.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^244]: 124:1 Es decir, las primeras seis oblaciones deben combinarse y realizarse juntas como una sola ofrenda, sin cambiar la cubierta de hierba sacrificial en el altar.
 
-[^245]: 124:2 Sâya<i>n</i>a menciona «reyes» y se refiere a Taitt. Br. I, 8, 4, 1, donde se dice que los Kurupa<i>ñ</i><i>k</i>âla (reyes) salen en la estación húmeda (en una incursión por el país oriental) y regresan con su botín al final de la estación cálida. Véase el [párrafo 5](Book_3_5_5#v5_5_2_5).
+[^245]: 124:2 Sâya<i>n</i>a menciona «reyes» y se refiere a Taitt. Br. I, 8, 4, 1, donde se dice que los Kurupa<i>ñ</i><i>k</i>âla (reyes) salen en la estación húmeda (en una incursión por el país oriental) y regresan con su botín al final de la estación cálida. Véase el [párrafo 5](../Book_3_5_5#v5_5_2_5).
 
 [^246]: 125:1 En el ceremonial Taittirîya este sacrificio animal precede al 'prayu<i>g</i>â<i>m</i> havî<i>m</i>shi'; siendo sucedido en primer lugar por el 'sâtyadûtânâ<i>m</i> havî<i>m</i>shi'.
 
@@ -322,12 +322,12 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^276]: 141:1 Aparentemente el hijo de A<i>g</i>âta<i>s</i>atru, rey de Kâ<i>s</i>î, quien es mencionado como muy competente en teología especulativa, y celoso, en este aspecto, del rey <i>G</i>anaka de Videha.
 
-[^277]: 141:2 Según Sâya<i>n</i>a, estos '<i>s</i>atamânas' son similares al plato redondo que usaba el rey durante la ceremonia de Consagración; véase [p. 104](Book_3_5_4#p104), nota [2](Book_3_5_4#fn206). Estos platos (al igual que los 'rukmas' en general, [VI, 7, 1, 2](Book_3_6_7#v6_7_1_2) ss.) aparentemente se usaban solo como ornamento, no como monedas.
+[^277]: 141:2 Según Sâya<i>n</i>a, estos '<i>s</i>atamânas' son similares al plato redondo que usaba el rey durante la ceremonia de Consagración; véase [p. 104](../Book_3_5_4#p104), nota [2](../Book_3_5_4#fn206). Estos platos (al igual que los 'rukmas' en general, [VI, 7, 1, 2](../Book_3_6_7#v6_7_1_2) ss.) aparentemente se usaban solo como ornamento, no como monedas.
 
 [^278]: 141:3 Sâya<i>n</i>a explica que esto significa que el oro no se usa para el consumo real, sino solo indirectamente, como en la elaboración de vasijas para servir comida, o en el comercio, como medio de trueque; de ​​esta manera, el oro nunca pierde su apariencia, su gloria. Véase II, 2, 1, 5: «Por lo tanto, tampoco uno se purifica con él (?), ni hace nada más con él».
 
 [^279]: 142:1 O bien, se extendían las ropas (ya sea al tejerlas o al ponérselas). «Extender el sacrificio» es el término habitual para la práctica ceremonial de extender el fuego sacrificial desde el Gârhapatya (o fuego doméstico) sobre los otros dos hogares, y así, para la realización del sacrificio en general.
 
-[^280]: 142:2 Véase [p. 119](Book_3_5_4#p119), nota [2](Book_3_5_4#fn234).
+[^280]: 142:2 Véase [p. 119](../Book_3_5_4#p119), nota [2](../Book_3_5_4#fn234).
 
 [^281]: 142:3 Es decir, tomando en cuenta los terneros de las tres vacas lecheras: y contando opcionalmente el regalo al Âgnîdhra.

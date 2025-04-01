@@ -69,16 +69,16 @@ Una espesa oscuridad se extendió sobre el sol.
 Las vacas negaron a sus terneros sedientos,
 Y los elefantes arrojaron su comida a un lado.
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
-Tris'anku, [1](Libro_2_50#fn315) Júpiter parecía temeroso,
+Tris'anku, [1](../Libro_2_50#fn315) Júpiter parecía temeroso,
 Y Mercurio y Marte los rojos,
 En terrible oposición se encontraron,
 La gloria de la luna acosada.
 Las estrellas lunares retuvieron su luz,
 Los planetas ya no brillaban,
 Pero los meteoritos con su horrible resplandor,
-Y el dire Vis'ákhás [2](Libro_2_50#fn316) iluminó el aire.
+Y el dire Vis'ákhás [2](../Libro_2_50#fn316) iluminó el aire.
 Mientras el océano agitado se agita y delira
 Cuando la tempestad salvaje de Doom barre las olas,
 Así todo Ayodhyá se tambaleó y se dobló.
@@ -187,7 +187,7 @@ Despertado de su lecho, aunque señor de todo,
 Con apariencia de esclavo sin amigos.
 El querido hijo de Janak que nunca conoció
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Con algo más que alegría y consuelo todavía,
 Llegará hoy al bosque, desgastado
@@ -310,7 +310,7 @@ Y el grano en alegre bienvenida arroja
 Cuando con deleite las bandas juveniles
 De doncellas brahmanes en sus manos
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Da frutos y flores en buen espectáculo,
 ¿Y dando vueltas alrededor de Ayodhyá?
@@ -433,7 +433,7 @@ De la gente triste aquí consuelo:
 A medida que los largos bancos de nubes se destilan
 Su agua cuando ven el cerro,
 
-<span id="p147">[<sup><small>pág. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 Así correrán las gotas del éxtasis.
 De tus ojos alegres al ver a tu hijo
@@ -553,7 +553,7 @@ La sabiduría de los Vedas, la riqueza que apreciamos,
 Allí, como esposas en casa, vivirán,
 Cuyo amor y verdad los protegen bien.
 
-<span id="p148">[<sup><small>pág. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Para seguirte nuestros corazones se inclinan;
 No necesitamos planes ni argumentos.
@@ -680,7 +680,7 @@ Todo cuidado de la casa y del hogar resignado,
 Cuidándonos con el corazón y la mente,
 Esta gente de la ciudad anhela
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Para vernos regresar a casa:
 Consentirán abandonar sus vidas,
@@ -797,7 +797,7 @@ Qué huellas de su carro mostraban,
 Pero cuando al fin esas huellas fallaron,
 Una profunda desesperación asaltó sus corazones.
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 El carro no marca nada más discernible,
 Los sabios sin esperanza se volvieron hacia atrás:
@@ -919,7 +919,7 @@ La tierra desamparada, sin señor y sin Dios,
 Malditos caerán por la culpa de Kaikeyí,
 Y una rápida destrucción se apoderará de todo.
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Porque Ráma se vio obligado a huir de su casa,
 El rey su padre seguramente morirá,
@@ -1043,7 +1043,7 @@ Tus amadas torres volverán a ver,
 Y, viniendo de mi retiro salvaje,
 'Mi madre y mi padre se conocieron.
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Entonces un dolor ardiente inflamó su ojo,
 Mientras levantaba en alto su brazo derecho,
@@ -1169,7 +1169,7 @@ Sacado del arroyo por la mano de Lakshman.
 Y Lakshman con observancia se encuentra
 Lavó los pies de su amado hermano,
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Quien descansó con su esposa Maithil:
 Luego lo sentó bajo unas ramas distantes.

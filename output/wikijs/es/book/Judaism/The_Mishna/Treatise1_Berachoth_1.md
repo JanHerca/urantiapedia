@@ -44,7 +44,7 @@ CONTIENE LEYES PARA REGULAR LAS ORACIONES DIARIAS Y EL RITUAL DEL CULTO DIVINO.
 
 § 1. ¿Desde qué hora debe recitarse la שמע [^1] al anochecer? Desde que los sacerdotes [^2] vuelven a entrar al santuario para comer sus ofrendas, hasta el final de la primera vigilia [^3] de la noche. Tal es el dictamen de Rabí Eleazar; pero los sabios dicen: «Hasta la medianoche». Rabí Gamaliel dice: «Hasta el amanecer». Sucedió que sus hijos regresaron de un banquete después de la medianoche. Le dijeron: «Aún no hemos recitado la שמע». Él respondió: «Si aún no ha amanecido, debéis decirlo; y», añadió, «no solo en este caso, sino en todo deber cuyo cumplimiento, según los sabios, se limita únicamente a la medianoche, la obligación legal no cesa hasta el amanecer. Así, en la quema de la grasa y los miembros de los sacrificios, la obligación legal rige hasta el amanecer. Y para todas las ofrendas que deben comerse el día en que se han traído, la obligación legal se extiende hasta el amanecer». Siendo así, ¿por qué los sabios dicen solo «hasta la medianoche»? Para evitar que el hombre transgreda.
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 § 2. ¿Desde qué hora debe recitarse el שמע por la mañana? Desde el momento en que el hombre puede distinguir entre azul y blanco. R. Eleazar dice: «entre azul y verde puerro». Y puede decirse: «hasta que el sol brille [sobre las cimas de las montañas]». R. Joshua dice: «hasta la hora tercera», [^4] pues tal es la costumbre de los príncipes reales que se levantan a la hora tercera. Quien recita el שמע después de esa hora no pierde nada, sino que es como cualquier hombre que lee la Torá.
 

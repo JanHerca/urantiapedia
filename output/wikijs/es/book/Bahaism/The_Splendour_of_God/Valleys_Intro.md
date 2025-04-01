@@ -32,17 +32,17 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## LOS SIETE VALLES
 
 La palabra escrita de Bahá'u'lláh posee mucha instrucción directa, transmitida muy bellamente, y con un tono siempre útil e inspirador.
 
-Si lo desean, deambulemos un rato con él por “Los Siete Valles”, siete estaciones, por así decirlo, en el Camino Divino. Encontraremos estas estaciones en un verdadero Jardín del Alma. Se describen en forma de respuestas a preguntas formuladas por un místico sufí, un musulmán llamado Sheik Abdur Rahman. Lo que extraemos de estas respuestas, o tablas, se obtendrá de la traducción de Ali Kuli Khan, publicada por la Sociedad Editorial Bahai en 1906. Observaremos que estas respuestas se describen además como “reveladas”; que, naturalmente, se presentan con una brillante y elaborada riqueza de imágenes orientales. Debemos dejar mucho de esto sin recoger, contentándonos con lo suficiente de la verdadera fineza de la obra para darnos una idea clara de la idea que la sustenta.
+Si lo desean, deambulemos un rato con él por «Los Siete Valles», siete estaciones, por así decirlo, en el Camino Divino. Encontraremos estas estaciones en un verdadero Jardín del Alma. Se describen en forma de respuestas a preguntas formuladas por un místico sufí, un musulmán llamado Sheik Abdur Rahman. Lo que extraemos de estas respuestas, o tablas, se obtendrá de la traducción de Ali Kuli Khan, publicada por la Sociedad Editorial Bahai en 1906. Observaremos que estas respuestas se describen además como «reveladas»; que, naturalmente, se presentan con una brillante y elaborada riqueza de imágenes orientales. Debemos dejar mucho de esto sin recoger, contentándonos con lo suficiente de la verdadera fineza de la obra para darnos una idea clara de la idea que la sustenta.
 
 Comienza así
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 “_En el nombre de Dios, el Compasivo, el Misericordioso_.
 

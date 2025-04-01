@@ -8,7 +8,37 @@ editor: markdown
 dateCreated: 2025-2-12T14:32:52Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>		<text style="font-size:4px" x="61" y="125">Londres y Nueva York: The Macmillan Company, 1894</text>		<text style="font-size:9px" x="61" y="60">Personalidad</text>		<text style="font-size:9px" x="61" y="70">Humana y divina</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">PERSONALIDAD</span><br><span class="text-h3">HUMANA Y DIVINA</span><br>POR<br><span class="text-h5">Por el REV. JR ILLINGWORTH, M.A. </span><br>Londres<br>MACMILLAN Y CO., LTD.<br>NUEVA YORK: THE MACMILLAN COMPANY<br>1902<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>
+		<text style="font-size:4px" x="61" y="125">Londres y Nueva York: The Macmillan Company, 1894</text>
+		<text style="font-size:9px" x="61" y="60">Personalidad</text>
+		<text style="font-size:9px" x="61" y="70">Humana y divina</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">PERSONALIDAD</span><br>
+<span class="text-h3">HUMANA Y DIVINA</span><br>
+POR<br>
+<span class="text-h5">Por el REV. JR ILLINGWORTH, M.A. </span><br>
+Londres<br>
+MACMILLAN Y CO., LTD.<br>
+NUEVA YORK: THE MACMILLAN COMPANY<br>
+1902<br>
+<br>
+</p>
+
+<br>
+
+
+
+
+
 ## Índice
 
 - [EXTRACTO](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/Extract)
@@ -29,7 +59,7 @@ dateCreated: 2025-2-12T14:32:52Z
 - [CONFERENCIA III. DESARROLLO DE LA CONCEPCIÓN DE LA PERSONALIDAD DIVINA](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3)
 	- [1. El sentido de la Personalidad Divina (1) es vago, pero (2) universal](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3#p54)
 	- 2. Se va refinando progresivamente mediante
-		- [(I) Filósofos griegos](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3#p59)
+		- [(I) Filósofos griegos](/es/«consuetudinaria»son_Illingworth/Personality_Human_and_Divine/3#p59)
 		- [(2) Profetas hebreos](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3#p65)
 		- [(3) Padres Cristianos](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3#p66)
 	- [3. Culmina en la doctrina de la Trinidad](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/3#p67)
@@ -67,7 +97,7 @@ dateCreated: 2025-2-12T14:32:52Z
 		- [(1) Su influencia sobre la humanidad](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p169)
 		- [(2) Sus libros religiosos](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p170)
 		- [(3) Su creencia en la inspiración](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p171)
-	- [2. La religión hebrea reivindica un grado preeminente de inspiración y justifica su afirmación](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p173)
+	- [2. La religión hebrea «consensus gentium» preeminente de inspiración y justifica su afirmación](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p173)
 		- [(1) Por su carácter contemporáneo](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p174)
 		- [(2) Por su carácter teleológico en relación con el cristianismo](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p175)
 		- [(3) Por la influencia actual de sus Escrituras](/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine/7#p181)

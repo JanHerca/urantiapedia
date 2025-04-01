@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## I
 
@@ -44,7 +44,7 @@ Para otros, sin embargo, la religión significa una supresión efectiva de la vi
 
 Es en el contexto de esta concepción tan prevalente que el significado de la religión para los videntes espirituales se hace evidente. Para ellos, la religión ha sido todo lo contrario a una vida reprimida y encadenada. Ha significado la expansión y la plenitud de la vida, con todos los poderes y posibilidades vitales desplegados y sus energías encendidas. Ha sido la liberadora de la vida, no su carcelera. Su principal efecto no ha sido la represión, sino la liberación.
 
-<span id="p203">[<sup><small>pág. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 ## II
 
@@ -52,7 +52,7 @@ Si los videntes espirituales tienen razón o no en esto es una indagación impor
 
 Años de trabajo en una gran ciudad, en lo que casi podría llamarse un confesionario protestante, donde se han presentado continuamente todo tipo de pecados y vergüenzas, y todos los grados de necesidad espiritual, demuestran que lo último que la gente busca cuando busca la religión es la represión. «Siempre buscan la vida: su liberación, libertad y plenitud. Tengo ante mí una carta de alguien que anhela la fe religiosa. «Si tan solo tuviera más religión», dice la carta, «la situación sería mucho más esperanzadora». No se trata de un deseo de ser arrestado por un policía espiritual y puesto bajo control, sino de un clamor por el secreto interior de una vida libre y triunfante.
 
-<span id="p204">[<sup><small>pág. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Los elementos más profundos de la personalidad humana quedan truncados e incompletos hasta que se expanden hacia la religión. Por ejemplo, algo que todas las personas desean cuando buscan la religión es la felicidad. Es indispensable; no pueden seguir con la existencia estéril que carece de ella. Han intentado alcanzarla sin religión. Puede que incluso hayan caído conscientemente en la irreligión, afirmando que no hay Dios, que ochenta y tantos elementos químicos con sus combinaciones conforman toda la existencia, que no hay origen espiritual tras la vida ni significado en ella. Han considerado a los santos y videntes como autoengañados: Wordsworth, sintiendo la Presencia que lo perturbaba con la alegría de pensamientos elevados, se dejó engañar; incluso Jesús, al decir: «No estoy solo, porque el Padre está conmigo», fue víctima de un engaño.
 
@@ -92,7 +92,7 @@ Así que podríamos continuar con la lista de los elementos constitutivos que ha
 
 Sin duda, ese hecho por sí solo no prueba la verdad de la religión. Algunos, con lo que les parece una respuesta contundente, estarán dispuestos a enfrentarse a los hechos que hemos estado presentando. Dirán:
 
-<span id="p212">[<sup><small>pág. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Sin duda, la religión es la culminación de la vida. Sería un privilegio, el privilegio supremo, por así decirlo, dar rienda suelta a nuestros deseos ideales, regocijarnos en un mundo en su centro creativo porque eso nos hace felices, ver en la bondad una revelación de Dios, interpretar nuestro amor como un reflejo del suyo y, así, pensar en el Eterno en términos de lo más elevado que conocemos. Sería emocionante sentir nuestras vidas tan inmersas y glorificadas en el propósito unificador de un universo moralmente significativo, y creer que la humanidad finalmente cosechará los frutos por los que sus santos se han esforzado. Pero solo porque sería emocionante, no lo vamos a creer. No vamos a ser crédulos.
 

@@ -32,11 +32,11 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 EL LIBRO DE LA GRAN MUERTE. MAHÂ-PARINIBBÂNA-SUTTA. CAPÍTULO VI.
 
-1\. Ahora el Bendito se dirigió al venerable Ânanda y dijo: «Puede ser, Ânanda, que en algunos de ustedes surja el pensamiento: “¡La palabra del Maestro ha terminado, ya no tenemos maestros!”. Pero no es así, Ânanda, como deben considerarlo. Que las verdades y las reglas del orden que he establecido y establecido para todos ustedes, después de mi partida, sean su Instructor».
+1\. Ahora el Bendito se dirigió al venerable Ânanda y dijo: «Puede ser, Ânanda, que en algunos de ustedes surja el pensamiento: «¡La palabra del Maestro ha terminado, ya no tenemos maestros!». Pero no es así, Ânanda, como deben considerarlo. Que las verdades y las reglas del orden que he establecido y establecido para todos ustedes, después de mi partida, sean su Instructor».
 
 ---
 
@@ -52,7 +52,7 @@ EL LIBRO DE LA GRAN MUERTE. MAHÂ-PARINIBBÂNA-SUTTA. CAPÍTULO VI.
 
 «Pero ¿cuál es, Señor, la pena mayor?»
 
-<span id="p113">[<sup><small>pág. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 'Que <i>Kh</i>anna diga lo que quiera, Ânanda, los hermanos no deben hablarle, ni exhortarlo, ni amonestarlo[^2].'
 
@@ -66,7 +66,7 @@ Y cuando esto hubo dicho, los hermanos guardaron silencio.
 
 Y aun la tercera vez los hermanos guardaron silencio.
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 7\. Entonces el Bendito se dirigió a los hermanos y dijo: «Puede ser, hermanos, que no hagan preguntas por reverencia al maestro. Que un amigo se comunique con otro».
 
@@ -78,7 +78,7 @@ Y cuando esto hubo dicho, los hermanos guardaron silencio.
 
 ---
 
-10\. Entonces el Bendito se dirigió a los hermanos y dijo: «Miren, hermanos, les exhorto: “¡La decadencia es inherente a todo lo que lo compone! ¡Esfuércense por su salvación!”».
+10\. Entonces el Bendito se dirigió a los hermanos y dijo: «Miren, hermanos, les exhorto: «¡La decadencia es inherente a todo lo que lo compone! ¡Esfuércense por su salvación!»».
 
 ¡Ésta fue la última palabra del Tathagata!
 
@@ -86,7 +86,7 @@ Y cuando esto hubo dicho, los hermanos guardaron silencio.
 
 11\. Entonces el Bendito entró en la primera <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> etapa de meditación profunda[^4]. Y, saliendo de la primera etapa, pasó a la segunda. Y, saliendo de la segunda, pasó a la tercera. Y, saliendo de la tercera etapa, pasó a la cuarta. Y, saliendo de la cuarta etapa de meditación profunda, entró en el estado mental donde solo está presente la infinitud del espacio[^5]. Y, saliendo de la mera consciencia de la infinitud del espacio, entró en el estado mental donde solo está presente la infinitud del pensamiento. Y, saliendo de la mera consciencia de la infinitud del pensamiento, entró en un estado mental donde nada en absoluto estaba especialmente presente. Y, saliendo de la consciencia de ningún objeto en particular, cayó en un estado entre la consciencia y la inconsciencia. Y pasando del estado entre la conciencia y la inconsciencia, cayó en un estado en el que la conciencia, tanto de las sensaciones como de las ideas, había desaparecido por completo.
 
-12\. Entonces el venerable Ânanda le dijo al venerable Anuruddha: “¡Oh, mi Señor, oh, Anuruddha, el Bendito ha muerto!”
+12\. Entonces el venerable Ânanda le dijo al venerable Anuruddha: «¡Oh, mi Señor, oh, Anuruddha, el Bendito ha muerto!»
 
 —¡No! Hermano Ananda, el Bendito no ha muerto. Ha alcanzado ese estado en el que tanto las sensaciones como las ideas han cesado.
 
@@ -116,7 +116,7 @@ El crecimiento es su naturaleza, y la decadencia.
 Se producen, se disuelven de nuevo:  
 ¡Y entonces es mejor, cuando se han hundido para descansar[^7]!
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 17\. Cuando el Bendito murió, el venerable Anuruddha, en el momento de su partida de la existencia, pronunció estas estrofas:
 
@@ -137,7 +137,7 @@ Así como una llama brillante se apaga, así fue
 Cuando él nos dotó de toda gracia—  
 ¡El Buda Supremo murió[^9]!'
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 19\.[^10] Cuando murió el Bendito, entre aquellos hermanos que aún no estaban libres de las pasiones, algunos extendieron los brazos y lloraron, y otros cayeron de bruces al suelo, rodando de un lado a otro angustiados al pensar: «¡Demasiado pronto ha muerto el Bendito! ¡Demasiado pronto ha dejado de existir el Feliz! ¡Demasiado pronto se ha apagado la Luz en el mundo!».
 
@@ -145,13 +145,13 @@ Pero aquellos de los hermanos que estaban libres de las pasiones (los Arahats) s
 
 20\. Entonces el venerable Anuruddha exhortó a los hermanos y dijo: «¡Basta, hermanos míos! ¡No lloren ni se lamenten! ¿Acaso el Bendito no nos declaró anteriormente que es propio de la naturaleza misma de todas las cosas cercanas y queridas que debamos separarnos de ellas, abandonarlas, separarnos de ellas? ¿Cómo, entonces, hermanos, es posible que, si bien todo lo que nace, se crea y se organiza, contiene en sí mismo la necesidad inherente de la disolución, cómo es posible que tal ser no se disuelva? ¡Tal condición no puede existir! Incluso los espíritus, hermanos, nos lo reprocharán».
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 «¿Pero en qué clase de espíritus está pensando el Señor, el venerable Anuruddha?»
 
 21\. 'Hay espíritus, hermano Ânanda, en el cielo, pero de mente mundana, que se despeinan y lloran, extienden los brazos y lloran, se postran en el suelo y ruedan de un lado a otro angustiados al pensar: "¡Demasiado pronto murió el Bendito! ¡Demasiado pronto falleció el Feliz! ¡Demasiado pronto se apagó la Luz en el mundo!"'
 
-También hay espíritus, Ânanda, en la tierra, y de mente mundana, que se arrancan el pelo y lloran, extienden los brazos y lloran, se postran en el suelo y ruedan de un lado a otro angustiados al pensar: “¡Demasiado pronto murió el Bendito! ¡Demasiado pronto falleció el Feliz! ¡Demasiado pronto se apagó la Luz en el mundo!”.
+También hay espíritus, Ânanda, en la tierra, y de mente mundana, que se arrancan el pelo y lloran, extienden los brazos y lloran, se postran en el suelo y ruedan de un lado a otro angustiados al pensar: «¡Demasiado pronto murió el Bendito! ¡Demasiado pronto falleció el Feliz! ¡Demasiado pronto se apagó la Luz en el mundo!».
 
 Pero los espíritus libres de pasión la soportan, tranquilos y serenos, conscientes del dicho que comienza: «Todos los componentes son impermanentes. ¿Cómo es posible entonces que tal ser no se disuelva?»
 
@@ -199,7 +199,7 @@ Tu propósito, oh Vâsetthas, es este: llevemos el cuerpo del Bendito por el sur
 
 33\.[^14] Entonces los Mallas de Kusinârâ dijeron al venerable Ânanda: '¿Qué debe hacerse, Señor, con los restos del Tathâgata?'
 
-“Así como los hombres tratan los restos de un rey de reyes, así, Vâse<i>tth</i>as, deberían tratar los restos de un Tathâgata”.
+«Así como los hombres tratan los restos de un rey de reyes, así, Vâse<i>tth</i>as, deberían tratar los restos de un Tathâgata».
 
 'Y ¿cómo, Señor, tratan los restos de un rey de reyes?'
 
@@ -219,7 +219,7 @@ Y así como tratan los restos de un rey de reyes, así, Vâse<i>tth</i>as, deben
 
 —¡Oh amigo! ¿Seguramente conoces a nuestro Maestro?
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 —¡Sí, amigo! Lo conozco. Hoy, el Sama<i>n</i>a Gotama lleva muerto una semana. Así es como obtuve esta flor de Mandârava.
 
@@ -233,7 +233,7 @@ Pero aquellos de los hermanos que estaban libres de las pasiones (los Arahats) s
 
 Y Subhadda, el anciano, se dirigió a los hermanos y dijo: «¡Basta, hermanos! ¡No lloren ni se lamenten! Nos hemos librado del gran Samana. Antes nos molestaba que nos dijeran: «Esto les conviene, esto no les conviene». Pero ahora podremos hacer lo que queramos; y lo que no nos guste, ¡no tendremos que hacerlo!».
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 41\. Pero el venerable Mahâ Kassapa se dirigió a los hermanos y dijo: «¡Basta, hermanos míos! ¡No lloren ni se lamenten! ¿Acaso el Bendito no nos declaró anteriormente que es propio de la naturaleza misma de todas las cosas, cercanas y queridas para nosotros, que debemos separarnos de ellas, abandonarlas, separarnos de ellas? ¿Cómo, entonces, hermanos, es posible que, si bien todo lo que nace, se crea y se organiza contiene en sí mismo la necesidad inherente de la disolución, cómo es posible que tal ser no se disuelva? ¡Tal condición no puede existir!»
 
@@ -259,7 +259,7 @@ Y Subhadda, el anciano, se dirigió a los hermanos y dijo: «¡Basta, hermanos! 
 
 47\. Y cuando terminó el homenaje del venerable Mahâ Kassapa y de aquellos quinientos hermanos, la pira funeraria del Bendito se incendió por sí sola[^16].
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 48\. Mientras el cuerpo del Bendito se consumía, no se veían restos de piel, tegumentos, carne, nervios y fluidos articulares; solo quedaron los huesos.
 
@@ -267,7 +267,7 @@ Así como no se ve hollín ni ceniza al quemar pegamento o aceite, así también
 
 49\. Y cuando el cuerpo del Bendito fue quemado, descendieron corrientes de agua del cielo y extinguieron la pira funeraria del Bendito; y brotaron corrientes de agua del depósito de aguas (bajo la tierra), y extinguieron la pira funeraria del Bendito. Los Mallas de Kusinârâ también trajeron agua perfumada con toda clase de perfumes y extinguieron la pira funeraria del Bendito[17].
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 50\. Entonces los Mallas de Kusinârâ rodearon los huesos del Bendito en su sala del consejo con una celosía de lanzas y una muralla de arcos; y allí, durante siete días, les rindieron honor, reverencia, respeto y homenaje con danzas, canciones y música, y con guirnaldas y perfumes.
 
@@ -287,7 +287,7 @@ Entonces el rey de Magadha, A<i>g</i>âtasattu, hijo de la reina del clan Videha
 
 56\. Y el brahmán de Vethadîpa oyó la noticia de que el Bendito había muerto en Kusinârâ. Y el brahmán de Vethadîpa envió un mensajero a los Mallas, diciendo: «El Bendito pertenecía a la casta de los soldados, y yo soy brahmán. Soy digno de recibir una parte de las reliquias del Bendito. Sobre sus restos erigiré un túmulo sagrado, y en su honor celebraré un banquete».
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 57\. Y los Mallas de Pâvâ oyeron la noticia de que el Bendito había muerto en Kusinârâ.
 
@@ -333,7 +333,7 @@ Y los Bulis de Allakappa hicieron un montículo en Allakappa sobre los restos de
 
 Y los Koliyas de Râmagâma hicieron un montículo en Râmagâma sobre los restos del Bendito y celebraron un banquete.
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Y Ve<i>th</i>adîpaka el Brahmán hizo un montículo en Ve<i>th</i>adîpa sobre los restos del Bendito y celebró un banquete.
 
@@ -355,7 +355,7 @@ Y una medida en Râmagâma, por los reyes de la raza de la serpiente.
 También un diente es honrado en el cielo y otro en la ciudad de Gandhâra,  
 Uno en el reino Kâlinga y otro más de la raza Nâga.
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Por su gloria la tierra abundante se ilumina con ofrendas sin dolor.  
 Porque con tales son mejor honradas las reliquias del Gran Maestro por aquellos que son honrados,  
@@ -367,7 +367,7 @@ Por los dioses y por los nagas y los reyes, sí, así también por los más nobl
 
 Fin del Libro del Gran Fallecimiento.
 
-<span id="p139">[<sup><small>pág. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -409,7 +409,7 @@ Fin del Libro del Gran Fallecimiento.
 
 [^7]: Sobre este célebre verso, véase más abajo la Introducción al Mahâ-Sudassana Sutta. Debe ser el original del primer verso de la obra china, Fa Kheu Pi Hu (Beal, Dhammapada, pág. 32), aunque allí está tan modificado que cada cláusula ha perdido su sentido.
   'Todo lo que existe no tiene permanencia.  
-  De ahí los términos “floreciente” y “decadente”.  
+  De ahí los términos «floreciente» y «decadente».  
   El hombre nace y luego muere.  
   ¡Oh, la felicidad de escapar de esta condición!
   

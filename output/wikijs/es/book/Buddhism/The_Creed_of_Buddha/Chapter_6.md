@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:59Z
   </table>
 </figure>
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Es el silencio de Buda lo que ha engañado a tantos de sus comentaristas. El maestro que, mientras nos señala las cuestiones fundamentales de la vida, guarda silencio sobre sus realidades y principios fundamentales, debe estar preparado para que su filosofía —la filosofía que se encuentra en el corazón de su silencio— sea malinterpretada. No se trata simplemente de que no nos dé ninguna pista sobre el laberinto de sus pensamientos más profundos, dejándonos así a cada uno la libertad de explorarlo por sí mismo. Existe otro peligro, aún más grave, al que expone la fe de su corazón. De quienes se interesan especulativamente en sus ideas, pocos se contentarán con considerar su silencio puramente agnóstico. La mayoría verá en él la negación o la confirmación de sus propios prejuicios filosóficos. El dogmático positivo, que ha decidido que las realidades últimas de la existencia son tales y cuales, lo considerará un desafío y una provocación, y le aplicará los epítetos que reserva para la negación de su propia creencia. El dogmático negativo insistirá en que se trata de una concesión cortés a la debilidad de los «ortodoxos», y que tras ella se esconde una concepción de la vida tan fundamentalmente negativa como la suya. En cualquier caso, el silencio del <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Maestro se interpretará como equivalente a negación y rebelión.
 
@@ -40,7 +40,7 @@ Este es el destino que le ha tocado a Buda. Por no haber dicho nada sobre Dios, 
 
 No hay nada en la historia del pensamiento humano más dramático ni más significativo que el silencio de Buda. Tratemos de comprender sus profundidades. Es difícil dudar de que en su esencia exista un profundo significado espiritual, de que existiera una profunda convicción espiritual. No fue por indiferencia que Buda, precisamente él, se convirtió y permaneció hasta el final en un aparente agnóstico. Y, al margen de la indiferencia, aunque pueda haber silencio sobre «grandes asuntos», no puede haber agnosticismo (en el sentido de neutralidad metafísica) en la vida interior del pensador. Un estado de perfecto equilibrio mental es incompatible con un vivo interés por los problemas más profundos de la existencia. El silencio de Buda parece haber sido el cumplimiento deliberado de un voto autoimpuesto. En cualquier caso, había un propósito sólido tras él; y ese propósito debe haber sido el resultado, no de la indiferencia filosófica, sino de alguna teoría magistral de las cosas.
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Cuanto más estudio las historias en las que Buda responde a los curiosos con silencio y explica sus razones, y cuanto más libremente me entrego a la sutil influencia de su atmósfera, más fuerte se vuelve mi convicción de que Buda guardó silencio cuando se discutían cuestiones metafísicas, no porque no tuviera nada que decir sobre grandes asuntos, sino porque tenía demasiado, porque estaba abrumado por la avalancha de sus propios pensamientos poderosos, y porque los canales de expresión que los adivinos de su época lo invitaban a usar eran demasiado estrechos y superficiales para brindarle alivio. Como sucede en el plano de la emoción espiritual, sucede en el plano del pensamiento espiritual. «Silencio», dice uno de los personajes de Shakespeare,
 
@@ -67,13 +67,13 @@ Si yo, Ânanda, cuando el monje errante Vacchagotta me preguntó: "¿Existe el E
 
 —No sería así, señor.
 
-“Pero si yo, Ânanda, cuando el monje errante Vacchagotta me preguntó: “¿No existe el Ego?”, hubiera respondido: “El Ego no existe”, entonces eso, Ânanda, solo habría causado que el monje errante Vacchagotta pasara de una confusión a otra: “¡Mi Ego, no existía antes? ¡Pero ahora ya no existe!””
+«Pero si yo, Ânanda, cuando el monje errante Vacchagotta me preguntó: “¿No existe el Ego?», hubiera respondido: «El Ego no existe», entonces eso, Ânanda, solo habría causado que el monje errante Vacchagotta pasara de una confusión a otra: «¡Mi Ego, no existía antes? ¡Pero ahora ya no existe!»”
 
 En esta historia, Buda da dos razones para negarse a responder la pregunta de Vacchagotta. Se le pide que responda sí o no. Sea cual sea su respuesta, alguna escuela de metafísicos sin duda la reclamará como suya. Y sea cual sea su respuesta, sin duda desconcertará a Vacchagotta.
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
-Esta y otras historias demuestran claramente que Buda no tenía paciencia con los metafísicos. Tuvo muchas disputas con ellos. Les reprochaba sus juegos de palabras, con el resultado de que, por un lado, desviaban a la gente de los asuntos principales de la vida y, por otro, profanaban, por la insuficiencia de sus símbolos, los profundos misterios que pretendían explorar. Se oponía a la concepción errónea del conocimiento, de la verdad y de la realidad, que subyacía en su superficial dualismo y les permitía asumir que todos los problemas de la existencia podían resolverse con un simple sí o un simple no. Sobre todo, deploraba la pérdida de la paciencia que la propia futilidad de sus disputas verbales hacía inevitable: la pérdida de la caridad, la pérdida de la serenidad, la pérdida del autocontrol, la pérdida de todas las cualidades que él había llamado a los hombres a cultivar. “La teoría de que el mundo es eterno, la teoría de que el mundo es infinito, la teoría de que el alma y el cuerpo son idénticos” —de cada una de estas y de todas las teorías afines dice lo mismo— “esta teoría es una jungla, un desierto, un teatro de marionetas, un retorcimiento y un grillete, y está acompañada de miseria, ruina, desesperación y agonía y no tiende a la aversión, la ausencia de pasión, el cese, la quietud, el conocimiento, la sabiduría suprema y el Nirvana”. [^34]
+Esta y otras historias demuestran claramente que Buda no tenía paciencia con los metafísicos. Tuvo muchas disputas con ellos. Les reprochaba sus juegos de palabras, con el resultado de que, por un lado, desviaban a la gente de los asuntos principales de la vida y, por otro, profanaban, por la insuficiencia de sus símbolos, los profundos misterios que pretendían explorar. Se oponía a la concepción errónea del conocimiento, de la verdad y de la realidad, que subyacía en su superficial dualismo y les permitía asumir que todos los problemas de la existencia podían resolverse con un simple sí o un simple no. Sobre todo, deploraba la pérdida de la paciencia que la propia futilidad de sus disputas verbales hacía inevitable: la pérdida de la caridad, la pérdida de la serenidad, la pérdida del autocontrol, la pérdida de todas las cualidades que él había llamado a los hombres a cultivar. «La teoría de que el mundo es eterno, la teoría de que el mundo es infinito, la teoría de que el alma y el cuerpo son idénticos» —de cada una de estas y de todas las teorías afines dice lo mismo— «esta teoría es una jungla, un desierto, un teatro de marionetas, un retorcimiento y un grillete, y está acompañada de miseria, ruina, desesperación y agonía y no tiende a la aversión, la ausencia de pasión, el cese, la quietud, el conocimiento, la sabiduría suprema y el Nirvana». [^34]
 
 Pero comprenderemos mejor su antipatía hacia los metafísicos si consideramos la segunda de sus razones para guardar silencio: su temor a engañar o confundir a Vacchagotta. <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> El Dr. Oldenberg cree que, al dar esta razón, estuvo muy cerca de afirmar que no existía el Ego, y que solo la consideración por las susceptibilidades de Vacchagotta lo mantuvo en silencio. Esta crítica se basa, creo, en una interpretación errónea de la actitud mental de Buda. Buda vio con claridad que la respuesta a la pregunta de Vacchagotta, como a todas las preguntas similares, era «Sí y No»: «Sí» desde este punto de vista, «No» desde aquel. Las palabras que se le atribuyen —palabras que bien podrían haber sido suyas— sugieren que algunos pensamientos como estos pasaban por su mente: «El Ego es real más allá de toda realidad, pero no puedo esperar que Vacchagotta lo entienda. Si le digo que el Ego es, asumirá que con la palabra me refiero a lo que él hace, y así se extraviará. Si, previendo esto, le digo que el cuerpo no es el Ego, las sensaciones no son el Ego, la consciencia no es el Ego, etc., si, en mi deseo de hacerle comprender la realidad trascendente del Ego, me niego a permitirle que lo identifique con ninguna de esas cosas que ha estado acostumbrado a considerar reales, llegará a la conclusión de que no hay Ego, que la palabra es un nombre vacío. Si, por otro lado, le digo que, tal como él entiende la palabra, no hay Ego, que el sentido de individualidad, de separación, que le parece ser de la Si la esencia del sentido del yo es engañosa (la separación es la negación misma de la verdadera identidad), se sentirá igualmente desconcertado. En cualquier caso, sentirá que ha estado viviendo en un sueño. ¿Qué puedo hacer, entonces, sino callar?
 
@@ -91,7 +91,7 @@ Vemos: la cuestión del Nirvana es planteada ante Buda por ese monje de la forma
 
 “A esto también debe Mâlukya responder negativamente.
 
-“Si un hombre”, continúa Buda, “fue herido por <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> una flecha envenenada, y sus amigos y familiares llamaron a un médico experto, ¿qué pasaría si el herido dijera: “No permitiré que me curen la herida hasta que sepa quién es el hombre que me ha herido, si es un noble, un brahmán, un vaiçya, un sudra”? O si dijera: “No permitiré que me curen la herida hasta que sepa cómo se llama al hombre que me ha herido, a qué familia pertenece, si es alto, bajo o de mediana estatura, y cómo está hecha el arma con la que me ha herido”. ¿Cuál sería el final del caso? El hombre moriría a causa de la herida.
+«Si un hombre», continúa Buda, «fue herido por <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> una flecha envenenada, y sus amigos y familiares llamaron a un médico experto, ¿qué pasaría si el herido dijera: “No permitiré que me curen la herida hasta que sepa quién es el hombre que me ha herido, si es un noble, un brahmán, un vaiçya, un sudra»? O si dijera: «No permitiré que me curen la herida hasta que sepa cómo se llama al hombre que me ha herido, a qué familia pertenece, si es alto, bajo o de mediana estatura, y cómo está hecha el arma con la que me ha herido». ¿Cuál sería el final del caso? El hombre moriría a causa de la herida.
 
 ¿Por qué Buda no ha enseñado a sus discípulos si el mundo es finito o infinito, si el santo vive más allá de la muerte o no? Porque el conocimiento de estas cosas no conduce al progreso en la santidad, porque no contribuye a la paz ni a la iluminación. Lo que contribuye a la paz y a la iluminación, Buda lo enseñó a sí mismo: la verdad del sufrimiento, la verdad del origen del sufrimiento, la verdad del camino hacia la cesación del sufrimiento. «Por lo tanto, Mâlukyaputta, todo lo que no haya sido revelado por mí, que permanezca sin revelar, y lo que ha sido revelado, que se revele.»
 
@@ -103,13 +103,13 @@ Lo que la primera historia nos permitió conjeturar, la segunda nos lo ha sugeri
 
 Se cuenta que el rey Pasenadi de Kosala, en una ocasión, durante un viaje entre sus dos ciudades principales, Sâketa y Sâvatthi, se encontró con la monja Khemâ, discípula de Buda, famosa por su <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> sabiduría. El rey le presentó sus respetos y le preguntó sobre la doctrina sagrada.
 
-“Venerable señora”, preguntó el Rey, “¿existe el Perfecto después de la muerte?”
+«Venerable señora», preguntó el Rey, «¿existe el Perfecto después de la muerte?»
 
-“'El Exaltado, oh gran Rey, no ha declarado: el Perfecto existe después de la muerte.'”
+«'El Exaltado, oh gran Rey, no ha declarado: el Perfecto existe después de la muerte.'»
 
-“Entonces, ¿no existe el Perfecto después de la muerte, venerable señora?”
+«Entonces, ¿no existe el Perfecto después de la muerte, venerable señora?»
 
-“'Esto también, oh gran Rey, el Exaltado no lo ha declarado: el Perfecto no existe después de la muerte.'”
+«'Esto también, oh gran Rey, el Exaltado no lo ha declarado: el Perfecto no existe después de la muerte.'»
 
 “'Entonces, venerable señora, el Perfecto existe después de la muerte, y al mismo tiempo no existe después de la muerte?—entonces, venerable señora, el Perfecto ni existe después de la muerte, ni tampoco no existe?'
 
@@ -127,9 +127,9 @@ El Rey está asombrado. «¿Cuál es la razón, venerable señora, cuál es el f
 
 ¿Y por qué no? El gran océano es profundo, inmensurable, insondable. Así también, oh gran Rey, si la existencia del Perfecto se mide por los predicados de la forma corpórea: estos predicados de la forma corpórea son abolidos en el Perfecto, su raíz es cercenada, son cortados como una palmera y dejados de lado, para que no puedan germinar de nuevo en el futuro. Liberado, oh gran Rey, está el Perfecto de esto, de que su ser sea medido por la medida del mundo corpóreo: él es profundo, inmensurable, insondable como el gran océano. «El Perfecto existe después de la muerte», esto no es apropiado; «El Perfecto no existe después de la muerte», esto tampoco es apropiado; «El Perfecto existe y no existe después de la muerte», esto tampoco es apropiado; «El Perfecto no existe ni no existe después de la muerte», esto tampoco es apropiado.»
 
-“Pero Pasenadi, el rey de Kosala, recibió el discurso de la monja Khemâ con satisfacción y aprobación, se levantó de su asiento, se inclinó reverentemente ante Khemâ, la monja, se dio la vuelta y se fue”.
+«Pero Pasenadi, el rey de Kosala, recibió el discurso de la monja Khemâ con satisfacción y aprobación, se levantó de su asiento, se inclinó reverentemente ante Khemâ, la monja, se dio la vuelta y se fue».
 
-La realidad suprema —el objeto ideal de todo pensamiento elevado, de todo conocimiento, de toda sabiduría— se simboliza aquí por la existencia del Ser Perfecto. Y esa existencia, se nos dice, es «profunda, insondable, inconmensurable como el gran océano». “Cuando <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> se da tal razón —dice el Dr. Oldenberg— para descartar la pregunta de si el Perfecto vive para siempre, ¿no es esta misma razón una respuesta? ¿Y no es esta respuesta un Sí? No ser en el sentido común, pero ciertamente no un no ser; una sublime certeza, de la cual el pensamiento no tiene idea, para la cual el lenguaje no tiene expresión, que irradia para satisfacer las ansias de los sedientos de inmortalidad en ese mismo esplendor del que dice el apóstol: 'Cosas que ojo no vio, ni oído oyó, ni han subido al corazón del hombre, son las que Dios ha preparado para los que le aman'”.
+La realidad suprema —el objeto ideal de todo pensamiento elevado, de todo conocimiento, de toda sabiduría— se simboliza aquí por la existencia del Ser Perfecto. Y esa existencia, se nos dice, es «profunda, insondable, inconmensurable como el gran océano». «Cuando <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> se da tal razón —dice el Dr. Oldenberg— para descartar la pregunta de si el Perfecto vive para siempre, ¿no es esta misma razón una respuesta? ¿Y no es esta respuesta un Sí? No ser en el sentido común, pero ciertamente no un no ser; una sublime certeza, de la cual el pensamiento no tiene idea, para la cual el lenguaje no tiene expresión, que irradia para satisfacer las ansias de los sedientos de inmortalidad en ese mismo esplendor del que dice el apóstol: 'Cosas que ojo no vio, ni oído oyó, ni han subido al corazón del hombre, son las que Dios ha preparado para los que le aman'».
 
 La monja Khemâ había captado el espíritu de la enseñanza de su Maestro. Su explicación armoniza tan bien con la que él mismo, según se dice, dio al ser interpelado por Vacchagotta y Mâlukya, que debemos considerarla, al menos provisionalmente, cierta. Buda guardó silencio porque su corazón estaba rebosante, porque tenía demasiado que decir.
 
@@ -185,8 +185,8 @@ Eslabón a eslabón, se ha forjado la cadena de pruebas que conecta el alma más
 
 ## Notas al pie
 
-[^34]: 136:1 Véase págs. [77](cob06.htm#page_77), [78](cob06.htm#page_78).
+[^34]: 136:1 Véase págs. [77](../cob06.htm#page_77), [78](../cob06.htm#page_78).
 
-[^35]: 140:1 “El budismo en traducción” (por HS Warren).
+[^35]: 140:1 «El budismo en traducción» (por HS Warren).
 
 [^36]: 154:1 Utilizo las palabras _él_ y _lo_ y _su_ por falta de un pronombre más adecuado.

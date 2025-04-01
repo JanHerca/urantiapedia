@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p186">[<sup><small>pág. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 LIBRO XXX.
 
@@ -48,7 +48,7 @@ El príncipe heredero dijo: «Sí; pero mi padre, el rey, solo verá espadachine
 
 Kwang-dze dijo: «Con su permiso, me conseguiré un traje de espadachín». Este estuvo listo en tres días, y cuando se presentó con él ante el príncipe, este lo acompañó a presentárselo al rey, quien desenvainó su espada y lo esperó. Cuando Kwang-dze entró por la puerta del salón, no se apresuró a avanzar, ni al ver al rey hizo una reverencia. El rey le preguntó: «¿Qué quiere enseñarme, señor, para que el príncipe le haya mencionado de antemano?». La respuesta fue: «He oído que a Su Majestad le gusta la esgrima, y ​​por eso he solicitado una entrevista con usted, basándose en mi habilidad con la espada». «¿Qué puede hacer con su espada contra un oponente?». «Si me encuentro con un oponente cada diez pasos, mi espada se encargará de él, así que no me detendré en una marcha de mil lî». El rey, encantado con él, dijo: «No tienes rival en el reino». Kwang-dze respondió: «Un buen espadachín primero finta (contra su oponente), luego aparenta darle ventaja y finalmente da una estocada, alcanzándolo antes de que pueda devolver el golpe. Me gustaría tener la oportunidad de demostrarle mi habilidad». El rey dijo: «Deténgase (un momento), Maestro. Vaya a su alojamiento y espere mis órdenes. Haré los preparativos para la partida y luego lo llamaré».
 
-El rey, en consecuencia, puso a prueba a sus espadachines durante siete días, hasta que más de sesenta de ellos murieron o resultaron gravemente heridos. Entonces seleccionó a cinco o seis hombres y les hizo traer sus espadas y ocupar sus lugares bajo el salón. Tras lo cual llamó a Kwang-dze y le dijo: «Hoy voy a hacer que (tú y) estos hombres demuestren lo que pueden hacer con sus espadas». «Hace tiempo que busco la oportunidad», respondió Kwang-dze. El rey le preguntó entonces qué longitud de espada usaría; y él respondió: «Cualquier longitud me servirá, pero tengo tres espadas, y usaré cualquiera de ellas según le plazca a Su Majestad. Permítame que primero le cuente sobre ellas y luego vaya a la arena». «Me gustaría saber más sobre las tres espadas», dijo el rey. Y Kwang-dze continuó: “Está la espada del Hijo del Cielo; la espada de un príncipe feudal; y la espada de un hombre común”.
+El rey, en consecuencia, puso a prueba a sus espadachines durante siete días, hasta que más de sesenta de ellos murieron o resultaron gravemente heridos. Entonces seleccionó a cinco o seis hombres y les hizo traer sus espadas y ocupar sus lugares bajo el salón. Tras lo cual llamó a Kwang-dze y le dijo: «Hoy voy a hacer que (tú y) estos hombres demuestren lo que pueden hacer con sus espadas». «Hace tiempo que busco la oportunidad», respondió Kwang-dze. El rey le preguntó entonces qué longitud de espada usaría; y él respondió: «Cualquier longitud me servirá, pero tengo tres espadas, y usaré cualquiera de ellas según le plazca a Su Majestad. Permítame que primero le cuente sobre ellas y luego vaya a la arena». «Me gustaría saber más sobre las tres espadas», dijo el rey. Y Kwang-dze continuó: «Está la espada del Hijo del Cielo; la espada de un príncipe feudal; y la espada de un hombre común».
 
 '¿Qué pasa con la espada del Hijo del Cielo?'
 

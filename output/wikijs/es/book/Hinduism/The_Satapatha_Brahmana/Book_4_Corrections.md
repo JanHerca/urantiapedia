@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p405">[<sup><small>pág. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Página 66, 1. 11 y nota 1. El <i>Katushtoma</i> es una disposición de los Stotras de un sacrificio de Soma en la que los Stomas (o formas de himno) empleados aumentan sucesivamente en cuatro sílabas. Véanse las notas sobre XI, 5, 2, 9; XIII, 3, 1, 4 (¡sic!).
 
@@ -84,7 +84,7 @@ P. 363, nota 1. La referencia es errónea; para el verdadero Satya-sâman, véas
 
 P. 67, l. 24. En dirección opuesta, es decir, en dirección opuesta a nosotros.
 
-<span id="p406">[<sup><small>pág. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 P. 369, nota 1. La referencia es errónea; para el verdadero tetra-sâman, véase la parte iv, p. 145, nota 1.
 
@@ -92,7 +92,7 @@ P. 379, l. 10. Leed: aquí el aliento sirve para todo.
 
 „ l. 20. Para este Sâman, basado en la palabra 'bhûs', véase la parte iv, pág. 145, nota 1.
 
-P. 404, l. 15. Leer: —Habiendo dotado al hombre de poder de manera preeminente, lo erige. Cf. [VIII, 7, 2, 3](Libro 487, v8723).
+P. 404, l. 15. Leer: —Habiendo dotado al hombre de poder de manera preeminente, lo erige. Cf. [VIII, 7, 2, 3](../Libro 487, v8723).
 
 P. 415, l. 4. Leer,—XIII, 53.
 

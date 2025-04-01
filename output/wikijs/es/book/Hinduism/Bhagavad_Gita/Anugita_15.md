@@ -86,7 +86,7 @@ Estas flechas, ¡oh Alarka!, no me atravesarán en absoluto. Solo te atravesará
 
 Al oír esto, luego de considerarlo, dijo:
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Alarka dijo:
 
@@ -108,7 +108,7 @@ Estas flechas, ¡oh Alarka!, no me atravesarán en absoluto. Solo te atravesará
 
 El Brâhma<i>n</i>a [^1435] dijo:
 
-Entonces Alarka, incluso allí, se dedicó a una terrible penitencia [^1436] difícil de realizar; pero no obtuvo flechas para estos siete con su devoción. Entonces ese rey deliberó con la mente muy concentrada en un (tema), y tras deliberar largamente, ¡oh, el mejor de los dos veces nacidos! Alarka, el más talentoso (hombres), no pudo llegar a nada mejor <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> que la concentración mental [1](Anugita_16#fn1437). Entonces, dirigiendo su mente a un punto [2](Anugita_16#fn1438), se estabilizó y se dedicó a la concentración mental. Y (entonces) el valiente hombre destruyó inmediatamente los sentidos con una flecha; y penetrando en el ser mediante la concentración mental, alcanzó la perfección suprema. Y el sabio real, asombrado, pronunció este verso: "¡Oh! ¡Ay! ¡Que nos hubiéramos dedicado a todos los asuntos externos; que, poseídos por el deseo de goce, nos hubiéramos consagrado antes a la soberanía! Ahora he aprendido que no hay mayor felicidad que la concentración mental". ¡Entiende esto también, oh Rama! Y no mates a los kshatriyas. Realiza una penitencia terrible [3](Anugita_16#fn1439), y así obtendrás el bien supremo. Así dicho por sus abuelos, el noble hijo de Gamadagni se dedicó a una penitencia terrible y alcanzó esa perfección difícil de alcanzar.
+Entonces Alarka, incluso allí, se dedicó a una terrible penitencia [^1436] difícil de realizar; pero no obtuvo flechas para estos siete con su devoción. Entonces ese rey deliberó con la mente muy concentrada en un (tema), y tras deliberar largamente, ¡oh, el mejor de los dos veces nacidos! Alarka, el más talentoso (hombres), no pudo llegar a nada mejor <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> que la concentración mental [1](../Anugita_16#fn1437). Entonces, dirigiendo su mente a un punto [2](../Anugita_16#fn1438), se estabilizó y se dedicó a la concentración mental. Y (entonces) el valiente hombre destruyó inmediatamente los sentidos con una flecha; y penetrando en el ser mediante la concentración mental, alcanzó la perfección suprema. Y el sabio real, asombrado, pronunció este verso: "¡Oh! ¡Ay! ¡Que nos hubiéramos dedicado a todos los asuntos externos; que, poseídos por el deseo de goce, nos hubiéramos consagrado antes a la soberanía! Ahora he aprendido que no hay mayor felicidad que la concentración mental". ¡Entiende esto también, oh Rama! Y no mates a los kshatriyas. Realiza una penitencia terrible [3](../Anugita_16#fn1439), y así obtendrás el bien supremo. Así dicho por sus abuelos, el noble hijo de Gamadagni se dedicó a una penitencia terrible y alcanzó esa perfección difícil de alcanzar.
 
 
 <figure class="table chapter-navigator">

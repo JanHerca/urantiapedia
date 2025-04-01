@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Al ver la luna nueva por primera vez, bebe agua a sorbos y, sosteniendo una vasija de agua en sus manos, la venera con los cuatro versos: «Aumenta» (Taitt. Sa<i>m</i>h. I, 4, 32), «Que tu leche» (ibid. IV, 2, 7, 4), «La luna se vuelve nueva y renovada al nacer» (ibid. II, 4, 14, 1), «Ese Soma que los Âdityas hacen crecer» (ibid. II, 4, 14, 1). <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
-2\. [^591] Cuando bosteza, murmura: “Que la voluntad y la inteligencia moren en mí”.
+2\. [^591] Cuando bosteza, murmura: «Que la voluntad y la inteligencia moren en mí».
 
 3\. [^592] Si el viento le agita la falda (de su manto), murmura: «Eres una falda. No eres un rayo. Adoración sea para ti. No me hagas daño».
 

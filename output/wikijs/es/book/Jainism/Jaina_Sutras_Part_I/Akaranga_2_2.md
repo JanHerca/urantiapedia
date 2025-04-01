@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 SEGUNDA CONFERENCIA, LLAMADA "PIDIENDO UN CAMAROTE" [^376].
 
@@ -52,7 +52,7 @@ Además, un monje o una monja, sabiendo que el laico, por el bien del mendicante
 
 Un monje o una monja, sabiendo que el laico, por causa del mendicante, traslada de un lugar a otro, o coloca afuera, una silla o una tabla o una escalera o un mortero, no debe usar tal lugar de alojamiento, etc. (todo como al final del último párrafo). (6)
 
-<span id="p122">[<sup><small>pág. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Un monje o una monja no deben usar para sus posturas religiosas, etc., un lugar de alojamiento sobre el suelo, como un pilar, una plataforma elevada, un andamio, un segundo piso o un tejado plano, ni tampoco un lugar subterráneo (excepto en circunstancias urgentes). Si por casualidad se alojan así, no deben lavarse ni limpiarse allí las manos, los pies, los ojos, los dientes ni la boca con agua caliente o fría; ni deben expulsar allí ninguna otra secreción, como excrementos, orina, saliva, moco, humor bilioso, ícor, sangre ni ningún otro componente de los humores corporales.
 
@@ -138,7 +138,7 @@ Algunos jefes de familia (que habiendo aprendido los requisitos de un lugar de a
 
 Al explicar [^387] así, explica con verdad. (El maestro dice): Bueno, él es (un explicador de la verdad). (1)
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 Si un mendigo, de noche o al anochecer, sale o entra en una pequeña vivienda, una vivienda con puerta pequeña, una vivienda baja o abarrotada, (debe adelantar) primero la mano, luego el pie, y así salir o entrar con cautela.
 
@@ -178,7 +178,7 @@ Un monje o una monja no deben utilizar para posturas religiosas, etc., un alojam
 
 Para evitar estas ocasiones de pecar hay cuatro reglas, según las cuales el mendigo debe pedir un lecho.
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Ahora bien, ésta es la primera regla para pedir un sofá.
 
@@ -222,7 +222,7 @@ Ya sea que su alojamiento [^395] sea parejo o desigual; lleno o libre de corrien
 
 Así lo digo. (29)
 
-Fin de la segunda conferencia, llamada “Pedir un diván”.
+Fin de la segunda conferencia, llamada «Pedir un diván».
 
 
 
@@ -266,7 +266,7 @@ Fin de la segunda conferencia, llamada “Pedir un diván”.
 
 [^388]: 127:1 <i>S</i>ântig<i>ri</i>ha.
 
-[^389]: 127:2 Véase la nota [5](Akaranga_1_8#fn307) en la [p. 81](Lección_1_8#p81).
+[^389]: 127:2 Véase la nota [5](../Akaranga_1_8#fn307) en la [p. 81](../Lección_1_8#p81).
 
 [^390]: 128:1 Hay cinco clases de Srama<i>n</i>, tal como se enumera en el siguiente hemistiquio, que aparece no solo en el comentario de <i>S</i>îlâṅka, sino también en el del Sthânâṅga Sûtra, como me informa el Dr. Leumann: Nigga<i>m</i>tha, Sakka, Tâvasa, Gerua, Â<i>g</i>îva pa<i>m</i><i>k</i>ahâ sama<i>n</i>â. Nirgranthas, <i>S</i>âkyas, Tâpasas, Gairikas, Â<i>g</i>îvakas.
 

@@ -33,7 +33,7 @@ dateCreated: 2025-1-12T19:26:25Z
 </figure>
 
 
-<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 CUARTA PARTE.
 

@@ -41,7 +41,7 @@ No pongas tus pies en dos barcas, no sea que tu propiedad se hunda.[^3]
 
 El Gurú respondió:
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Pon tus pies en dos barcas, y tus bienes también sobre ellas:[^1]
 Un barco podrá hundirse, pero el otro cruzará.[^2]
@@ -73,7 +73,7 @@ Entonces el Shaikh Brahm pronunció lo siguiente:
 Cuando debiste haber hecho tu balsa, no lo hiciste;
 Cuando el río está lleno[^5], es difícil cruzarlo.
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 No pongas tu mano en el fuego, porque se quemará, querida mía.
 Algunos han obtenido honor para sí mismos al pronunciar el nombre de Dios.
@@ -101,7 +101,7 @@ Entonces el Shaikh Brahm pronunció lo siguiente:
 Aquellos que tienen amor sincero hacia Dios son los verdaderos;
 Pero aquellos que tienen una cosa en su corazón y dicen otra son considerados falsos.
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Aquellos que están imbuidos del amor de Dios y de un anhelo de contemplarlo _también son verdaderos_.
 Aquellos que olvidan el nombre de Dios son una carga para la tierra.
@@ -125,7 +125,7 @@ Oh Señor, Tú eres inaccesible e inigualable; estoy exhausto de pronunciar tus 
 ¿Qué puedo pedirte? ¿Qué puedo decirte? Tengo hambre y sed de verte.
 Bajo la instrucción del Gurú he obtenido al Señor; la oración de Nanak ha sido concedida.
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 El Gurú y el Shaikh Brahm permanecieron juntos esa noche en el bosque. Un aldeano bondadoso y caritativo que los había visto les llevó un cuenco de leche antes del amanecer. El Shaikh separó su parte de la del Gurú y pronunció estos versos:
 
@@ -148,7 +148,7 @@ La noche es oscura; ¿qué será de ti cuando el ladrón entrare y robare tu cas
 Oh inaccesible, incomparable Protector, escucha mi súplica.
 Oh Nanak, el necio nunca ha pensado en Dios; ¿qué puede ver en una noche oscura?
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 II
 
@@ -168,7 +168,7 @@ Si el hombre, bajo la instrucción del Gurú, medita en el Nombre, obtendrá des
 La transmigración y la muerte nunca nos abandonan; sin el Nombre estamos afligidos.
 Nanak, en la tercera vigilia los hombres, bajo la influencia de las tres cualidades,[^2] sienten amor mundano.
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 IV
 
@@ -228,7 +228,7 @@ Cuando se encuentra al verdadero Gurú, se produce la verdad y el hombre que se 
 Cuando el hombre se llena de temor a través de las instrucciones del Gurú, entonces obtiene entendimiento y resulta el honor.
 Nanak, el verdadero Rey, entonces fusiona al hombre consigo mismo.[^2]
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 El Gurú, tras su agradable visita a Shaikh Brahm y su distrito, donde logró varias conversiones, se dirigió a un país llamado Bisiar, probablemente el estado de Bushahir en el Himalaya, donde fue mal recibido. Los habitantes, considerando su presencia una contaminación, purificaron todo lugar donde había estado. Un solo hombre, Jhanda, un carpintero, lo trató con hospitalidad. Lo llevó a su casa, le lavó los pies y bebió el agua utilizada para tal fin. Mientras bebía, se le reveló que Nanak era un Gurú. Se unió a él en sus peregrinajes.
 
@@ -239,7 +239,7 @@ Poco después se encontraron en un desierto solitario. Mardana comenzó a sentir
 Los semidioses, para poder contemplarte, oh Dios, hicieron peregrinaciones en sufrimientos y hambre.
 Los jogis y los jatis[^1] siguen cada uno su camino y visten ropas de color ocre.
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Por Ti, oh mi Señor, los darweshes están imbuidos de amor.
 Tus nombres son diversos, tus formas son diversas, el número de tus méritos no puede contarse.

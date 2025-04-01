@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p408">[<sup><small>pág. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 Complementario al Thwan y al Yâo sobre el primer y segundo hexagrama, y ​​que muestra cómo pueden interpretarse en relación con la naturaleza y las acciones del hombre [^278]
 
@@ -44,7 +44,7 @@ Capítulo [^279]. 1. Lo que se llama (según Khien) 'lo grande y originario' es 
 
 3\. El hecho de que el hombre superior practique estas cuatro virtudes justifica que se le apliquen las palabras: «Kh_ien representa lo grande y originario, lo penetrante, lo ventajoso, lo correcto y lo firme».
 
-<span id="p409">[<sup><small>pág. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Capítulo [^280]. 4. ¿Cuál es el significado de las palabras bajo los primeros NUEVE (indivisos): «El dragón yace oculto (en las profundidades); ¿no es momento de acción activa?». El Maestro dijo: «Ahí está, con los poderes del dragón, y sin embargo, oculto. La influencia del mundo no lo cambiaría; no haría nada (simplemente) para asegurar su fama. Puede vivir, apartado del mundo, sin arrepentimiento; puede experimentar la desaprobación sin inquietud. Regocijándose (en la oportunidad), lleva sus principios a la práctica; afligido (por falta de oportunidad), los mantiene en retiro. Sí, no debe ser arrancado de su raíz (en sí mismo).» Este es «el dragón yace oculto».
 
@@ -58,7 +58,7 @@ Capítulo [^280]. 4. ¿Cuál es el significado de las palabras bajo los primeros
 
 9\. ¿Cuál es el significado de las palabras bajo el NUEVE superior: «El dragón excede los límites debidos; habrá ocasión para el arrepentimiento»? El Maestro dijo: «La posición es noble, pero no es la de un cargo; (su ocupante) reside en lo alto, pero no tiene pueblo (que gobierne); y los hombres de talento <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> y virtud en los puestos inferiores no le brindarán ayuda; si se mueve en tal caso, habrá ocasión para el arrepentimiento».
 
-<span id="p413">[<sup><small>pág. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 Capítulo [^281]. 10. 'El dragón yace escondido; no es el momento para acciones activas': la posición es (demasiado) baja.
 
@@ -74,7 +74,7 @@ Capítulo [^281]. 10. 'El dragón yace escondido; no es el momento para acciones
 
 16\. Líneas indivisas aparecen en todas estas representaciones del gran poder originario denotado por Khien:—(lo que sigue en el Yâo nos dice cómo) bajo el cielo habrá buen orden.
 
-<span id="p414">[<sup><small>pág. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 Capítulo [^282]. 17. 'El dragón yace escondido en lo profundo; no es el momento para acciones activas': la energía denotada por la línea indivisa está almacenada y oculta como en lo profundo.
 
@@ -90,7 +90,7 @@ Capítulo [^282]. 17. 'El dragón yace escondido en lo profundo; no es el moment
 
 23\. Los NUEVE indivisos aparecen en todas estas representaciones del gran poder originario denotado por <i>Kh</i>ien: —y (de lo que sigue en el Yâo) vemos el modelo (de acción) proporcionado por el cielo.
 
-<span id="p415">[<sup><small>pág. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 Capítulo [^283]. 24. La 'grandeza' y el 'origen' representados por <i>Kh</i>ien se refieren a él como (el símbolo de) lo que da su comienzo (a todas las cosas), y (también) asegura su crecimiento y desarrollo.
 
@@ -104,7 +104,7 @@ Capítulo [^283]. 24. La 'grandeza' y el 'origen' representados por <i>Kh</i>ien
 
 29\. (El gran hombre) en el momento oportuno conduce por el cielo con estos seis dragones. Las nubes se mueven y la lluvia se distribuye; todo bajo el cielo disfruta de reposo.
 
-<span id="p416">[<sup><small>pág. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 Capítulo [^284]. 30. En el hombre superior, su conducta es fruto de su virtud perfeccionada, lo cual se refleja en su quehacer diario; pero la fuerza de la frase «oculto» le exige mantenerse retraído, sin mostrarse aún, ni desarrollar plenamente su actividad. Mientras esto suceda, el hombre superior sabe que no es momento de actuar activamente.
 
@@ -122,7 +122,7 @@ Capítulo [^284]. 30. En el hombre superior, su conducta es fruto de su virtud p
 
 
 
-<span id="p418">[<sup><small>pág. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 ## SECCIÓN II: CUATRO
 
@@ -187,7 +187,7 @@ Capítulo II. 5. La familia que acumula bondad seguramente tendrá una felicidad
   Párrafo 9. Como ya he dicho, el lugar de honor y autoridad en el hexagrama corresponde a la quinta línea, y ninguna otra desempeña un papel tan insignificante como la sexta; por lo tanto, se representa aquí como si no tuviera cabida. Ante aquel a quien representa es llamado a actuar, la batalla está ganada o perdida. Cualquier movimiento de su parte solo acelerará e intensificará el resultado.
 
 [^281]: 413:III El capítulo III, párrafos 10-16, repasa el Yâo del duque de <i>K</i>âu con explicaciones muy breves, basadas principalmente en la consideración del lugar o posición ocupada por las distintas líneas y el momento de su introducción en la acción del hexagrama.
-  Párrafo 16. Véase la nota sobre el texto de <i>Kh</i>ien, correspondiente a esta línea, página [58](Section_1#p58), y también la del párrafo 7 sobre el simbolismo de las figuras y líneas, Sección 1, página [165](Section_2#p165). Existe la misma dificultad (p. 413) para comprender la primera parte de este breve párrafo; su conclusión debe ser consecuencia del lenguaje del Yâo, aunque no se repite aquí.
+  Párrafo 16. Véase la nota sobre el texto de <i>Kh</i>ien, correspondiente a esta línea, página [58](../Section_1#p58), y también la del párrafo 7 sobre el simbolismo de las figuras y líneas, Sección 1, página [165](../Section_2#p165). Existe la misma dificultad (p. 413) para comprender la primera parte de este breve párrafo; su conclusión debe ser consecuencia del lenguaje del Yâo, aunque no se repite aquí.
 
 [^282]: 414:IV El capítulo IV, párrafos 7-23, repasa el mismo tema por tercera vez, tratando los diversos párrafos principalmente desde el punto de vista del tiempo.
   El párrafo 17 nos dice que el tiempo y las circunstancias son esenciales, así como el poder interior, para el desarrollo y la demostración exitosos. En el párrafo 18, no se citan las palabras del Yâo sobre su encuentro con el gran hombre, pero estas inspiraron la segunda mitad.
@@ -208,4 +208,4 @@ Capítulo II. 5. La familia que acumula bondad seguramente tendrá una felicidad
   
 Los párrafos 35 y 36 sugieren la descripción de Confucio por Mencio, V, ii, 1, 5, como el sabio que más se dejaba guiar por la consideración del tiempo, haciendo continuamente lo que las circunstancias del momento requerían.
 
-[^285]: 421:1 El hexagrama Khwăn se aborda en la Sección ii, y se describe de forma mucho más breve que <i>Kh</i>ien en la Sección i. Además, es mucho menos claro el intento de mostrar cómo deben entenderse los atributos del hexagrama en relación con los principios de la naturaleza humana. La parte más importante de la Sección, quizás, es el párrafo 5, el primero del capítulo II, y ya he hablado de él en la Introducción, páginas [47](Introduction_3#p47) y [48](Introduction_3#p48).
+[^285]: 421:1 El hexagrama Khwăn se aborda en la Sección ii, y se describe de forma mucho más breve que <i>Kh</i>ien en la Sección i. Además, es mucho menos claro el intento de mostrar cómo deben entenderse los atributos del hexagrama en relación con los principios de la naturaleza humana. La parte más importante de la Sección, quizás, es el párrafo 5, el primero del capítulo II, y ya he hablado de él en la Introducción, páginas [47](../Introduction_3#p47) y [48](../Introduction_3#p48).

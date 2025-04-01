@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 ## ÂKANKHEYYA SUTTHA. INTRODUCCIÓN
 

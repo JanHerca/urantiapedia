@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXXIV"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## YASNA XXXIV.
 
@@ -64,7 +64,7 @@ No, él declara que las acciones de Piedad son en sí mismas la sabiduría más 
 
 15\. De nuevo, concluyendo con una oración culminante y sinóptica, suplica a Ahura que le hable y le revele todas las declaraciones, ceremonias y alabanzas más accesibles. Y sin olvidar jamás que todas las ceremonias, himnos y sacrificios, por sagrados que sean, son solo medios para un fin mayor; ruega a la Deidad que ejerza ese Poder Soberano, el único sumamente eficaz para aliviar la angustia actual (LIII, 9), pues solo mediante sus leyes sagradas y armas espirituales puede invocar el Frashakard y crear en la sociedad esa condición en la que todo el progreso humano se habrá completado.
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Traducción.
 
@@ -138,7 +138,7 @@ El Pahlavi traduce libremente y con sentido crítico, considerando al spe<i>n</i
 
 [^413]: 84:2 Así también las traducciones: Aîgha<i>s</i> parvari<i>s</i>n va min frarûnîh. Ner.: Uttamena pratipâlyâ manasâ. Compárese con Y. XXXII, 2: sâremanŏ khshathrâ<i>t</i>. El verbo en singular es difícil.
 
-[^414]: 84:3 O, 'porque como aquellos que actúan con justicia y en preparación lo ofreceremos como una bendición junto con todos los que están entre “los Tuyos”.' Aquí khshmâva<i>n</i>t equivale a 'los Tuyos'; en lugar de 'Ustedes mismos'.
+[^414]: 84:3 O, 'porque como aquellos que actúan con justicia y en preparación lo ofreceremos como una bendición junto con todos los que están entre «los Tuyos».' Aquí khshmâva<i>n</i>t equivale a 'los Tuyos'; en lugar de 'Ustedes mismos'.
 
 [^415]: 84:4 O «visible» como fuego, pero esta concepción parece demasiado débil para el lugar. El traductor pahlavi leyó «dere<i>s</i>tâ» como participio de dar(e)z, lo cual es tan posible como que debiera ser de dar(e)s. Traduce «yakhsenunê<i>d</i> kînŏ»; Ner., «vidadhâti nigraham». Que tradujera así porque desconocía que «dere<i>s</i>tâ» también podía ser participio de dar(e)s ya no es sostenible.
 

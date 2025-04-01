@@ -36,7 +36,7 @@ TRIGÉSIMA SEXTA CONFERENCIA. SOBRE LOS SERES VIVOS Y LAS COSAS SIN VIDA [^581].
 
 Ahora aprended de mí, con mente atenta, la división entre seres vivos y cosas sin vida [^582], que debe conocer un monje que quiera esforzarse en el autocontrol. (1)
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Los seres vivos y las cosas sin vida forman este mundo (Lôka); pero el espacio donde sólo se encuentran las cosas sin vida se llama No-mundo (Alôka). (2)
 
@@ -60,7 +60,7 @@ Las cosas compuestas y los átomos ocurren como cosas individuales y aparte (o d
 
 Las cosas sutiles ocurren en todo el mundo, las cosas groseras sólo en una parte de él.
 
-<span id="p209">[<sup><small>pág. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 A continuación daré su cuádruple división con respecto al tiempo. (12)
 
@@ -80,7 +80,7 @@ Los que se desarrollan con respecto al gusto son de cinco clases: 1. amargo, 2. 
 
 Las que se desarrollan respecto al tacto son de ocho clases: 1. dura, 2. blanda, 3. pesada, 4. ligera, 5. fría, 6. caliente, 7. lisa y 8. áspera.
 
-<span id="p210">[<sup><small>pág. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 De este modo se han declarado las sustancias que se desarrollan en relación con el tacto. (20, 21)
 
@@ -206,7 +206,7 @@ Aquellas plantas que tienen en común un cuerpo son de muchas clases [^613]: Âl
 
 Harilî, Sirilî, Sassirilî, <i>G</i>âvaî, Kêyakandalî [^616], cebolla, ajo, plátano, Ku<i>d</i>uvvaya [^617]; (98)
 
-<span id="p217">[<sup><small>pág. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Lôhi<i>n</i>îhûya, Thîhûya, Tuhaga, Ka<i>n</i>ha [^618], Va<i>g</i><i>g</i>akanda [^619], Sûra<i>n</i>aya [^620]; (99)
 
@@ -228,7 +228,7 @@ Los brutos y plenamente desarrollados son de muchas clases: carbón, paja ardien
 
 Meteoros, y relámpagos, y muchas otras clases además.
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Las Vidas del Fuego sutil son de una sola clase, ya que no hay variedad. (111)
 
@@ -244,7 +244,7 @@ Las vidas del viento sutil son de una sola clase, ya que no hay variedad. (120)
 
 Las especies sutiles, etc. (como arriba, 79-84. Sustituir Vidas del Viento por Vidas de la Tierra. En el versículo 123, correspondiente al 114, léase: «la duración más larga de la vida de las Vidas del Viento es de tres mil años»; el resto como arriba). (121-126)
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 γ. Los seres móviles con cuerpos orgánicos (es decir, los animales) son de cuatro clases: i. los que poseen dos órganos de los sentidos, ii. los que tienen tres órganos, iii. los que tienen cuatro órganos, iv. los que tienen cinco órganos. (127)
 
@@ -258,7 +258,7 @@ Estos y otros son los numerosos tipos de seres con dos órganos sensoriales. Tod
 
 Con respecto al flujo continuo, etc. (como en el versículo 80). (132)
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 La duración de la vida de los seres con dos órganos de los sentidos es de doce años como máximo; la más corta es menos de un muhûrta. (133)
 
@@ -388,7 +388,7 @@ El medio del medio, lo más alto del medio, lo más bajo de lo más alto, el med
 
 Los más altos de los más altos. Estos son los dioses Graivêyaka.
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 β´. Los Vi<i>g</i>ayas, los Vai<i>g</i>ayantas, los <i>G</i>ayantas, los Aparâ<i>g</i>itas (214)
 
@@ -416,7 +416,7 @@ En Brahmalôka Kalpa (<i>a</i>) hay diez Sâgarôpamâs, (<i>b</i>) siete. (225)
 
 En Lantaka Kalpa (<i>a</i>) hay catorce Sâgarôpamâs, (<i>b</i>) diez. (226)
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 En Mahâ<i>s</i>ukla Kalpa(<i>a</i>) hay diecisiete Sâgarôpamâs, (<i>b</i>) catorce [^657]. (227)
 
@@ -462,7 +462,7 @@ Después de haber vivido como un <i>S</i>rama<i>n</i> durante muchos años, un s
 
 La duración más larga de la mortificación es de doce años; la media, de un año; y la más corta, de seis meses. (250)
 
-<span id="p230">[<sup><small>pág. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Durante los primeros cuatro años deberá abstenerse de alimentos preparados [^662], y durante los segundos cuatro años deberá mantener diversos ayunos. (251)
 
@@ -478,7 +478,7 @@ Aquellas almas que albergan opiniones heréticas, cometen pecados y matan a sere
 
 Aquellas almas que albergan opiniones ortodoxas, no cometen pecados y están envueltas en Lê<i>s</i>yâ blanca, alcanzarán el Bôdhi en el momento de la muerte. (257)
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Aquellas almas que albergan opiniones heréticas, cometen pecados y están envueltas en la negra Lê<i>s</i>yâ, no alcanzarán el Bôdhi en el momento de la muerte. (258)
 
@@ -578,7 +578,7 @@ El iluminado y liberado <i>G</i><i>ñ</i>ât<i>ri</i>(putra) ha pronunciado así
 
 [^591]: 209:1 El significado de este verso es que una cosa, en lo que respecta a su causa material, siempre ha existido y siempre existirá bajo una forma u otra, pero que la cosa individual en su forma actual tiene una existencia limitada.
 
-[^592]: 209:2 Asa<i>m</i>khakâlam. Véase más arriba, [p. 42](Uttaradhyayana_10#p42), nota [2](Uttaradhyayana_10#fn142).
+[^592]: 209:2 Asa<i>m</i>khakâlam. Véase más arriba, [p. 42](../Uttaradhyayana_10#p42), nota [2](../Uttaradhyayana_10#fn142).
 
 [^593]: 209:3 Antaram; el intervalo entre el momento en que la cosa es retirada de su escena apropiada y el momento en que regresa a ella (Ava<i>k</i>ûri y Dîpikâ).
 
@@ -682,7 +682,7 @@ El iluminado y liberado <i>G</i><i>ñ</i>ât<i>ri</i>(putra) ha pronunciado así
 
 [^643]: 223:1 Sammûr<i>kh</i>ima. Crecen asimilando los materiales de su entorno. Según una segunda explicación, su órgano interno no se desarrolla completamente.
 
-[^644]: 223:2 Consulte la página [16](Uttaradhyayana_3#p16), nota [1](Uttaradhyayana_3#fn88).
+[^644]: 223:2 Consulte la página [16](../Uttaradhyayana_3#p16), nota [1](../Uttaradhyayana_3#fn88).
 
 [^645]: 223:3 Éste es, según el Ava<i>k</i>ûri, el significado de puhutta<i>m</i> p<i>ri</i>thaktvam.
 
@@ -726,7 +726,7 @@ El iluminado y liberado <i>G</i><i>ñ</i>ât<i>ri</i>(putra) ha pronunciado así
 
 [^665]: 230:1 Vigaî-ni<i>g</i><i>g</i>ûha<i>n</i>a. El significado es que al final de sus ayunos, el monje debe comer â<i>k</i>âmla, nirvik<i>ri</i>tika, etc. En el Ava<i>k</i>ûri se cita un verso del Ni<i>s</i>îtha<i>k</i>ûrni, que establece la misma regla para los siguientes cuatro años.
 
-[^667]: 230:2 Âyâma = â<i>k</i>âmla. ¿Es lo mismo que el âyâmaga = â<i>k</i>âmaka mencionado en XV, 13? Véase arriba, [p. 72](Uttaradhyayana_15#p72), nota [2](Uttaradhyayana_15#fn192).
+[^667]: 230:2 Âyâma = â<i>k</i>âmla. ¿Es lo mismo que el âyâmaga = â<i>k</i>âmaka mencionado en XV, 13? Véase arriba, [p. 72](../Uttaradhyayana_15#p72), nota [2](../Uttaradhyayana_15#fn192).
 
 [^668]: 230:3 Kô<i>d</i>îsahiyam âyamam = kô<i>t</i>isahitam â<i>k</i>âmlam. Los comentaristas dan dos explicaciones para esta frase: (1) Tras ayunar un día, se debe tomar â<i>k</i>âmla al día siguiente; (2) el segundo día se debe continuar absteniéndose de â<i>k</i>âmla.
 

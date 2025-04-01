@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 QUINTA CONFERENCIA, LLAMADA ESENCIA DEL MUNDO.
 
@@ -78,7 +78,7 @@ Comprendiendo que el placer (y el dolor) son individuales, aconsejando la bondad
 
 Para un monje que aún no ha alcanzado el discernimiento [209], es un mal camino y un proceder difícil vagar (solo) de aldea en aldea. Algunos hombres (cuando se equivocan) se enfadan al ser exhortados con palabras. Y un hombre con orgullo cauteloso se ve avergonzado por una gran ilusión [210]. (1) Hay muchos obstáculos que son muy difíciles de superar para el ignorante y el ciego. ¡Que ese no sea tu caso! Esa es la doctrina del sabio (Mahavîra). Adoptando las opiniones del â<i>k</i>ârya, imitando su indiferencia (por el mundo exterior), haciéndolo guía y consejero (en todos los asuntos), compartiendo su morada, viviendo con cuidado, actuando según su mente, examinando su camino [211], sin acercarse demasiado (al â<i>k</i>ârya), preocupándose por los seres sintientes, uno debe ir (a sus asuntos). (2)
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Un monje, según la orden del â<i>k</i>ârya, debe ir y regresar, contraer o estirar sus extremidades y limpiar a fondo lo que debe limpiarse. A veces, aunque un monje sea virtuoso y practique la rectitud, los seres vivos que entren en contacto con su cuerpo serán asesinados. Si esto ocurre por simple descuido, recibirá su castigo en esta vida; pero si actuó en contra de las reglas [^212], debe arrepentirse y hacer penitencia por ello [^213]. Así, quien conoce la sabiduría sagrada [^214] recomienda la penitencia combinada con la prudencia. (3)
 
@@ -97,11 +97,11 @@ Aquel cuya mente siempre vacila, no alcanza la contemplación abstracta [^217]. 
 
 Todo lo que un hombre fiel y bien dispuesto, al ingresar a la orden, creía verdadero, puede después parecerle verdadero; lo que creía verdadero, puede después parecerle falso; lo que creía falso, puede después parecerle verdadero; lo que creía falso, puede después parecerle verdadero. Lo que cree verdadero, puede, tras reflexionar, parecerle verdadero, sea o no verdadero. Lo que cree falso, puede, tras reflexionar, parecerle falso, sea o no verdadero. Pero quien reflexiona debería decirle al que no reflexiona: Considéralo verdadero. Así se rompe la conexión (es decir, la continuidad de los pecados). (3)
 
-Considera esto como el proceder del celoso, que se mantiene firme (en obediencia al guía espiritual). ¡En este punto no te muestres como un necio! [1](Akaranga_1_5#fn219)
+Considera esto como el proceder del celoso, que se mantiene firme (en obediencia al guía espiritual). ¡En este punto no te muestres como un necio! [1](../Akaranga_1_5#fn219)
 
-Como te sucede a ti, sucede con aquel a quien intentas matar. Como te sucede a ti, sucede con aquel a quien intentas tiranizar. Como te sucede a ti, sucede con aquel a quien intentas atormentar. De la misma manera, sucede con aquel a quien intentas castigar y expulsar. El hombre justo que vive conforme a estos sentimientos, por lo tanto, no mata ni hace que otros maten (seres vivos). No debe infligirse intencionalmente el mismo castigo [2](Akaranga_1_5#fn220). (4)
+Como te sucede a ti, sucede con aquel a quien intentas matar. Como te sucede a ti, sucede con aquel a quien intentas tiranizar. Como te sucede a ti, sucede con aquel a quien intentas atormentar. De la misma manera, sucede con aquel a quien intentas castigar y expulsar. El hombre justo que vive conforme a estos sentimientos, por lo tanto, no mata ni hace que otros maten (seres vivos). No debe infligirse intencionalmente el mismo castigo [2](../Akaranga_1_5#fn220). (4)
 
-El Ser es el conocedor (o experimentador), y el conocedor es el Ser. Aquello mediante lo cual se conoce es el Ser. Con respecto a esto (conocer), se establece (el Ser) [3](Akaranga_1_5#fn221). Así es quien mantiene la correcta doctrina del Ser. Este tema ha sido verdaderamente explicado. Así lo digo. (5)
+El Ser es el conocedor (o experimentador), y el conocedor es el Ser. Aquello mediante lo cual se conoce es el Ser. Con respecto a esto (conocer), se establece (el Ser) [3](../Akaranga_1_5#fn221). Así es quien mantiene la correcta doctrina del Ser. Este tema ha sido verdaderamente explicado. Así lo digo. (5)
 
 
 

@@ -14,7 +14,7 @@ dateCreated: 2025-1-18T17:54:34Z
       <tr>
         <td>
         <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: «letra» y «espíritu»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:34Z
   </table>
 </figure>
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 ## DEL OFICIO DE PREDICACIÓN Y DE PREDICADORES Y OYENTES:
 
@@ -40,7 +40,7 @@ JUAN 10:1-11: De cierto, de cierto os digo: El que no entra por la puerta en el 
 
 ## SECCIÓN I. LOS VERDADEROS PREDICADORES DE LA PALABRA DEBEN SER LLAMADOS REGULARMENTE.
 
-1\. Este Evangelio trata del oficio del ministerio, cómo se constituye, qué logra y cómo se abusa de él. Es, sin duda, muy necesario conocer estas cosas, pues el oficio de predicar es insuperable en la cristiandad. San Pablo estimaba mucho este oficio porque a través de él se proclamaba la Palabra de Dios, la cual es eficaz para la salvación de todos los que creen en ella. Dice a los Romanos (1:16): «No me avergüenzo del Evangelio, porque es poder de Dios para salvación de todo aquel que cree». Debemos ahora considerar este tema, ya que nuestra lección del Evangelio lo presenta e incluye. Sin embargo, ¡será un hedor para el papa! <span id="p374"><sup><small>[ p. 374 ]</small></sup></span> Pero, ¿cómo puedo tratarlo de otra manera? El texto dice: “El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ése es ladrón y salteador (asesino)”.
+1\. Este Evangelio trata del oficio del ministerio, cómo se constituye, qué logra y cómo se abusa de él. Es, sin duda, muy necesario conocer estas cosas, pues el oficio de predicar es insuperable en la cristiandad. San Pablo estimaba mucho este oficio porque a través de él se proclamaba la Palabra de Dios, la cual es eficaz para la salvación de todos los que creen en ella. Dice a los Romanos (1:16): «No me avergüenzo del Evangelio, porque es poder de Dios para salvación de todo aquel que cree». Debemos ahora considerar este tema, ya que nuestra lección del Evangelio lo presenta e incluye. Sin embargo, ¡será un hedor para el papa! <span id="p374"><sup><small>[ p. 374 ]</small></sup></span> Pero, ¿cómo puedo tratarlo de otra manera? El texto dice: «El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ése es ladrón y salteador (asesino)».
 
 2\. Este versículo se ha explicado como referente a quienes, por su presunción, ascienden a las mejores condiciones de vida eclesiásticas mediante favores, riquezas, recomendaciones o su propio poder, sin obtenerlos mediante nombramientos y autoridad regulares. Actualmente, los juristas más piadosos castigan a quienes corren a Roma en busca de honorarios y beneficios, o de ascensos y cargos eclesiásticos. A esto lo llaman simonía. Esta práctica es verdaderamente deplorable, pues mucho depende de ser llamado y nombrado regularmente. Nadie debería asumir el cargo y predicar por su propia presunción y sin la comisión de quienes tienen la autoridad. Pero en las condiciones actuales, si esperáramos a recibir la comisión para predicar y administrar los sacramentos, jamás ejerceríamos esos oficios mientras vivamos. Pues los obispos de nuestros días presionan para acceder a sus cargos por la fuerza, y quienes tienen el poder de ascenso se dejan influenciar por la amistad y el rango. Pero dejo esto de lado y hablaré del verdadero oficio, al que nadie se abre paso por la fuerza (aunque su devoción lo impulse) sin ser llamado por otros con la autoridad.
 
@@ -99,7 +99,7 @@ Porque, aunque era libre de todos, me sometí a todos para ganar a más. Y a los
       <tr>
         <td>
         <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: «letra» y «espíritu»</span>
         </a>
         </td>
         <td>

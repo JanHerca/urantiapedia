@@ -1,6 +1,6 @@
 ---
 title: "Yasna XLVI"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -92,7 +92,7 @@ Traducción.
 
 13\. Sí, quien propiciará a Zaratustra Spitâma [^646] con ofrendas entre los hombres, este hombre es apto para la proclamación, y a él Ahura Mazda le dará la vida (próspera). Y asimismo hará que los asentamientos prosperen en la bondad mental. Lo consideramos [^647], por lo tanto, Tu buen compañero para (fomentar y mantener) Tu Rectitud (e idóneo para Tu acercamiento).
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 (Una voz de entre los jefes.)
 
@@ -196,7 +196,7 @@ Traducción.
 
 [^633]: 139:3 Ashavanem se aplica a Ahura, y no puede significar aquí «justo». «Santo» es el término más apropiado en este contexto, mientras que spe<i>n</i>tem queda necesariamente excluido de ese significado por su presencia con ashavanem en conexión inmediata.
 
-[^634]: 139:4 Nótese que la palabra tashâ aparece aquí sin ninguna mención de herir en la conexión (ver nota [6](Gathas_29#fn44) en la página [6](Gathas_29#p6)).
+[^634]: 139:4 Nótese que la palabra tashâ aparece aquí sin ninguna mención de herir en la conexión (ver nota [6](../Gathas_29#fn44) en la página [6](../Gathas_29#p6)).
 
 [^635]: 139:5 Aquí me llaman al Pahlavi algunos que rara vez lo mencionan. Yo había traducido: «Estas palabras me incitan (al deber) a través de Tu Buena Mente»; tan frecuente en el Veda. El traductor Pahlavi, al igual que sus sucesores, escandalizado por las formas difíciles, también se anticipó a sus sucesores (como suele ocurrir en otros lugares) en la superación de la dificultad. Hizo exactamente lo mismo que practican ahora los eruditos (a veces con demasiada frecuencia). Tradujo el texto como si lo hubiera cambiado de lo que no podía entender a lo que sí podía entender, apegándose, sin embargo, a las raíces correctas, que ahora sigo. Sabía que ishe<i>n</i>ti mâ no significaba «Estoy buscando», pero no podía dar crédito a las palabras que tenía ante sí.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## I
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:27Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Se dan las siguientes referencias para aquellos que puedan estar suficientemente interesados ​​en el tema como para profundizar en sus detalles:
 

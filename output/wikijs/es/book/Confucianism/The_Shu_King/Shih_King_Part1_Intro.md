@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## EL REY SHIH. I. ODAS DEL TEMPLO Y DEL ALTAR.
 
-Se afirmó en la Introducción, [p. 278](Shih_King_Intro_1#p278), que los poemas de la cuarta parte del Shih son los únicos que se declaran religiosos; y hay incluso algunos de ellos, como se verá, que tienen poco derecho, desde un punto de vista interno, a ser considerados como tales.
+Se afirmó en la Introducción, [p. 278](../Shih_King_Intro_1#p278), que los poemas de la cuarta parte del Shih son los únicos que se declaran religiosos; y hay incluso algunos de ellos, como se verá, que tienen poco derecho, desde un punto de vista interno, a ser considerados como tales.
 
 Con ellos comienzo mi selección del Shih para los Libros Sagrados de las Religiones de Oriente. Los mencionaré todos, excepto las dos primeras Odas de Alabanza de Lû, cuya razón de omisión se explicará cuando llegue a esa parte de la Parte.
 

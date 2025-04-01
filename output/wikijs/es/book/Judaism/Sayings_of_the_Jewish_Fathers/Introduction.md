@@ -32,13 +32,13 @@ dateCreated: 2025-2-7T10:40:21Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 MASSEKETH ABOTH, mejor conocido [con la adición de Pereq Rabbi Meir] como Pirqe Aboth, o Capítulos de los Padres, es un tratado de la Mishná en Séder Neziqin, entre 'Abodah Zarah y Horaioth. Recibe su nombre porque se compone en gran parte de máximas de los Padres judíos cuyos nombres se mencionan en sus páginas, y se valora principalmente como un compendio de ética práctica, aunque no carece de un elemento místico en partes de su quinto y último capítulo. Su simplicidad y excelencia intrínseca le han asegurado a ABOTH una popularidad generalizada y duradera, y han llevado a que se extraiga del Talmud y se use litúrgicamente en la sinagoga, en ciertas épocas, desde una época temprana. «Era costumbre», escribe Sar Shalom Gaon, «en la casa de nuestro Rabino en Babel, recitar ABOTH y (el sexto capítulo suplementario) QINYAN THORAH, después de la oración de la tarde del Shabat»; y los «Seis Capítulos» se encuentran en la actualidad en los Libros de Oración del rito Ashkenazí.
 
 El dicho talmúdico de que _Quien quiera ser piadoso debe cumplir los dictados de los_ PADRES es citado por los comentaristas rabínicos en sus introducciones a Pirqe Aboth, y el Tratado ha sido descrito, con referencia a este dicho, como «Mishnath ha-Chasidim», un curso de instrucción para los piadosos.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 El Primer Capítulo comienza con la declaración de que Moisés, tras recibir la Ley del Sinaí, la entregó a Josué, y este a su vez a los Ancianos, y estos a los hombres de la Gran Sinagoga. Establecida así la sucesión mosaica, los hombres de la Gran Sinagoga pronuncian sus tres PALABRAS, que expresan el objetivo y la función de la nueva escuela de Soferim: «Sed reflexivos en el juicio; y levantad muchos discípulos; y cerrad la Ley». A continuación viene Simón Justo, con su afirmación de que los tres pilares del mundo son la Revelación, la Adoración y la Humanidad; y tras él, el primer maestro de nombre griego, Antígono, cuya inculcación del servicio desinteresado se describe en una tradición judía como la fuente última de los principios negativos de los saduceos, o «hijos de Sadoc». Desde este punto hasta el final del Capítulo Cuarto tenemos una serie de dichos morales, que son puestos en boca de rabinos que vivieron en el período de dos siglos antes a dos siglos después de CRISTO.
 

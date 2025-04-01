@@ -104,7 +104,7 @@ Y líbrame de esta carga de dolor.
 Oh palma, vestida de rico fruto maduro
 Redonda como las bellezas de su pecho,
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Si tienes corazón para saber y sentir,
 Se revela el destino de mi incomparable consorte.
@@ -229,7 +229,7 @@ Lloró por la esposa que buscó en vano.
 Y Lakshman cuyo pecho fraternal
 Anhelando su bienestar, el jefe se dirigió a él.
 
-<span id="p302">[<sup><small>pág. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Cuya alma cedió ante el dolor
 Cuando toda su ansiosa búsqueda fue en vano.
@@ -351,7 +351,7 @@ Pero nunca podré volver a verte.
 Esas habitaciones donde debería estar mi reina
 Y escuchad hablar a la gente desdeñosa
 
-<span id="p303">[<sup><small>pág. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 De Ráma como un cobarde débil.
 Porque mía será la vergüenza del cobarde.
@@ -476,7 +476,7 @@ Tampoco mi querida, la de ojos de loto,
 Busqué lirios junto al río,
 Porque sin mí ella nunca iría
 
-<span id="p304">[<sup><small>pág. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 A los arroyos donde crecen las flores silvestres,
 No me digas, hermano, que ella se ha extraviado.
@@ -597,7 +597,7 @@ Entonces, cuando su dolor despertó de nuevo,
 Así le habló a su hermano jefe:
 "Esos ciervos escucharon tu ansiosa pregunta
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Y al instante se levantó conmovido por la compasión:
 Mira, en tu búsqueda te prestan su ayuda,
@@ -721,7 +721,7 @@ Creador cuando es compasivo.
 Y así, supongo, los Inmortales se vuelven
 Ahora me miran con frialdad y me desprecian.
 
-<span id="p306">[<sup><small>pág. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 El debilucho responde al llamado de la compasión,
 Dedicado al bien de todos.
@@ -784,7 +784,7 @@ Sus ojos se pusieron rojos y sus labios feroces se hincharon.
 Dibujó su capa de corteza alrededor de su figura.
 Y enrolló de nuevo sus trenzas de ermitaño.
 Como Rudra cuando anhelaba matar
-El demonio Tripur [1](Libro_3_70#fn510) en la refriega.
+El demonio Tripur [1](../Libro_3_70#fn510) en la refriega.
 Así parecía el héroe valiente y sabio,
 La furia que brilla en sus ojos.
 Entonces Ráma, conquistador del enemigo,
@@ -840,7 +840,7 @@ Ni quiénes fueron los jefes que se encontraron y lucharon,
 Ni cuál era el premio que buscaban los enemigos;
 Quien marcó el terreno con casco y rueda,
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 ¿O de quién es la mano que maneja el acero?
 Lo que dejó este lugar, la batalla terminó,
@@ -962,7 +962,7 @@ Y llamar de nuevo a la vida vigorosa.
 Sea varonil, se muestra vigor divino;
 Pon en escena esa fuerza más noble: la tuya.
 
-<span id="p308">[<sup><small>pág. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Esfuérzate, lo mejor de la cepa del viejo Ikshváku,
 Esforzarse hasta que el enemigo conquistado sea asesinado.
@@ -1086,7 +1086,7 @@ El buitre, envuelto en mi destino,
 Yace sangrando y muriendo en el suelo.
 Entonces Ráma y su hermano se movieron.
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 Por piedad lloró el pájaro real,
 Y, mientras sus manos acariciaban sus miembros,
@@ -1206,7 +1206,7 @@ Así era venerada esta ave real.
 Traer combustible para el lugar del funeral:
 Estas manos encenderán el fuego solemne
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Y sobre la pira ardiente pondrán
 El pájaro que murió por mí hoy.
@@ -1325,7 +1325,7 @@ El príncipe se dirigió con palabras como estas:
 'Mira tu tesoro precioso y hermoso:
 Ayomukhi [^517] el nombre que llevo.
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 En la espesura de cada elevada colina,
 En los islotes de cada arroyo y riachuelo,
@@ -1446,7 +1446,7 @@ Declarar por qué ocasión se produjo
 Estas tierras solitarias y salvajes que pisas,
 Con espadas, arcos y flechas para atravesar,
 
-<span id="p312">[<sup><small>pág. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Como toros cuyos cuernos son fuertes y feroces.
 ¿Por qué habéis buscado esta tierra forestal?

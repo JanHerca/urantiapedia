@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## EL LIBRO DEL GRAN MUERTE. MAHÁ-PARINIBBÁNA-SUTTA. CAPÍTULO V.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 2\. Y el Bendito procedió con una gran compañía de hermanos al Bosque Sala de los Mallas, el Upavattana de Kusinârâ, al otro lado del río Hiranyavatî; y al llegar allí, se dirigió al venerable Ânanda y dijo:
 
-“Te ruego, Ânanda, que extiendas para mí el lecho con la cabecera hacia el norte, entre los árboles gemelos de Sâla[^1]. Estoy cansado, Ânanda, y quisiera acostarme.”
+«Te ruego, Ânanda, que extiendas para mí el lecho con la cabecera hacia el norte, entre los árboles gemelos de Sâla[^1]. Estoy cansado, Ânanda, y quisiera acostarme.»
 
 —¡Así sea, Señor! —dijo el venerable Ânanda, asintiendo, al Bendito. Y extendió una manta sobre el lecho, con la cabecera hacia el norte, entre los árboles gemelos de Sala. Y el Bendito se acostó sobre su lado derecho, con una pierna apoyada en la otra; y se sintió consciente y sereno.
 
@@ -76,15 +76,15 @@ dateCreated: 2025-2-5T22:38:45Z
 
 16\. «Existen estos cuatro lugares, Ânanda, que el creyente debe visitar con reverencia y admiración. ¿Cuáles son?»
 
-17\. 'El lugar, Ânanda, en el que el creyente puede decir: “¡Aquí nació el Tathagata!” es un sitio que debe ser visitado con sentimientos de reverencia y temor.
+17\. 'El lugar, Ânanda, en el que el creyente puede decir: «¡Aquí nació el Tathagata!» es un sitio que debe ser visitado con sentimientos de reverencia y temor.
 
-18\. 'El lugar, Ânanda, en el que el creyente puede decir: “¡Aquí el Tathagata alcanzó la suprema y perfecta visión!” es un sitio que debe ser visitado con sentimientos de reverencia y temor reverencial.
+18\. 'El lugar, Ânanda, en el que el creyente puede decir: «¡Aquí el Tathagata alcanzó la suprema y perfecta visión!» es un sitio que debe ser visitado con sentimientos de reverencia y temor reverencial.
 
-19\. 'El lugar, Ânanda, en el que el creyente puede decir: “¡Aquí el Tathagata estableció el reino de la rectitud!” es un sitio que debe ser visitado con sentimientos de reverencia y temor reverente.
+19\. 'El lugar, Ânanda, en el que el creyente puede decir: «¡Aquí el Tathagata estableció el reino de la rectitud!» es un sitio que debe ser visitado con sentimientos de reverencia y temor reverente.
 
 20\. 'El lugar, Ânanda, en el que el creyente puede decir: «¡Aquí el Tathagata falleció finalmente en esa muerte total que no deja nada que quedar atrás!» es un lugar que debe ser visitado con sentimientos de reverencia y temor reverencial.
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 21\. 'Y a tales lugares llegarán, Ânanda, creyentes, hermanos y hermanas de la orden, o hombres y mujeres devotos, y dirán: «¡Aquí nació el Tathagata!», o «¡Aquí el Tathagata alcanzó la visión suprema y perfecta!», o «¡Aquí el Tathagata estableció el reino de la rectitud!», o «¡Aquí el Tathagata falleció en esa muerte absoluta que no deja nada que quedar!».
 
@@ -124,7 +124,7 @@ Y así como tratan los restos de un rey de reyes, así, Ânanda, deben tratar lo
 
 'Un Tathagata, o Arahat-Buddha, es digno de un dâgaba. Un Pakkeka-Buddha es digno de un dâgaba[^12].
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Un verdadero oyente del Tathagata es digno de un dāgaba. Un rey de reyes es digno de un dāgaba.
 
@@ -154,7 +154,7 @@ Al pensar, Ânanda, «Esta es la dâgaba de aquel rey justo que gobernó con rec
 
 El venerable Ânanda, Señor, ha entrado en el Vihâra y, apoyado en el dintel de la puerta, llora al pensar: «¡Ay! Sigo siendo solo un aprendiz, alguien que aún no ha alcanzado su propia perfección. Y el Maestro, tan bondadoso, está a punto de morir».
 
-34\. Y el Bendito llamó a cierto hermano y le dijo: «Ve ahora, hermano, e invoca a Ânanda en mi nombre, y di: “Hermano Ânanda, el Maestro te llama.”»
+34\. Y el Bendito llamó a cierto hermano y le dijo: «Ve ahora, hermano, e invoca a Ânanda en mi nombre, y di: «Hermano Ânanda, el Maestro te llama.»»
 
 —¡Así sea, Señor! —dijo aquel hermano, asintiendo, al Bendito. Y subió al lugar donde se encontraba el Bendito; y al llegar allí, le dijo al venerable Ânanda: «Hermano Ânanda, el Maestro te llama».
 
@@ -168,7 +168,7 @@ El venerable Ânanda, Señor, ha entrado en el Vihâra y, apoyado en el dintel d
 
 37\. 'Él es un hombre sabio, hermanos, es Ânanda.
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Él sabe cuándo es el momento adecuado para venir a visitar al Tathagata, y cuándo es el momento adecuado para que los hermanos y hermanas de la orden, para los hombres y mujeres devotos, para un rey o para los ministros de un rey, para otros maestros o sus discípulos, vengan a visitar al Tathagata.
 
@@ -194,7 +194,7 @@ El venerable Ânanda, Señor, ha entrado en el Vihâra y, apoyado en el dintel d
 
 Que el Bendito no muera en este pequeño pueblo de juncos, en este pueblo en medio de la selva, en este municipio secundario[^19]. Pues, Señor, hay otras grandes ciudades, como Kampâ, Râ<i>g</i>agaha, Sâvatthi, Sâketa, Kosambi y Benâres. Que el Bendito muera en una de ellas. Allí hay muchos nobles ricos, brahmanes y jefes de familia, creyentes en el Tathagata, que rendirán el debido honor a los restos del Tathagata[^20].
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 42\. ¡No digas eso, Ânanda! No digas eso, Ânanda, que esto no es más que un pequeño pueblo de cañas y barro, un pueblo en medio de la selva, un municipio secundario. Hace mucho tiempo, Ânanda, hubo un rey llamado Mahâ-Sudassana, rey de reyes, un hombre justo que gobernó con rectitud, Señor de los cuatro puntos cardinales de la tierra, conquistador, protector de su pueblo, poseedor de los siete tesoros reales. Esta Kusinârâ, Ânanda, era la ciudad real del rey Mahâ-Sudassana, bajo el nombre de Kusâvatî, y tenía doce leguas de largo al este y al oeste, y siete leguas de ancho al norte y al sur.
 
@@ -208,11 +208,11 @@ Que el Bendito no muera en este pequeño pueblo de juncos, en este pueblo en med
 
 «Así también, Señor», dijo el venerable Ânanda, en señal de asentimiento, al Bendito; y se vistió, y tomando su cuenco[^23], entró en Kusinârâ acompañado por otro miembro de la orden.
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 46\. En ese momento, los Mallas de Kusinârâ estaban reunidos en la sala del consejo para tratar algún asunto público[^24].
 
-Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y al llegar allí, les informó diciendo: «Hoy, oh Vâse<i>tth</i>as, en la última vigilia de la noche, tendrá lugar la muerte definitiva del Tathagata. Sé propicio, oh Vâse<i>tth</i>as, sé propicio. No os deis motivo para reprocharos en el futuro, diciendo: “En nuestra propia aldea murió nuestro Tathagata, y no aprovechamos la oportunidad de visitarlo en sus últimos momentos”».
+Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y al llegar allí, les informó diciendo: «Hoy, oh Vâse<i>tth</i>as, en la última vigilia de la noche, tendrá lugar la muerte definitiva del Tathagata. Sé propicio, oh Vâse<i>tth</i>as, sé propicio. No os deis motivo para reprocharos en el futuro, diciendo: «En nuestra propia aldea murió nuestro Tathagata, y no aprovechamos la oportunidad de visitarlo en sus últimos momentos»».
 
 47\. Y al oír estas palabras del venerable Ânanda, los Mallas, con sus jóvenes, doncellas y esposas, se sintieron afligidos, tristes y afligidos. Algunos lloraron, despeinándose, extendieron los brazos y lloraron, se postraron en el suelo y rodaron de un lado a otro angustiados al pensar: «¡Muy pronto morirá el Bendito! ¡Muy pronto se irá el Feliz! ¡Pronto se desvanecerá la Luz del mundo!».
 
@@ -230,7 +230,7 @@ Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y 
 
 52\. En ese momento, un mendigo llamado Subhadda, que no era creyente, vivía en Kusinârâ. Y el mendigo Subhadda oyó la noticia: «Dicen que hoy mismo, a la tercera vigilia de la noche, ocurrirá la muerte definitiva del Sama<i>n</i>a Gotama».
 
-53\. Entonces pensó el mendicante Subhadda: «Esto he oído de mis compañeros mendicantes, ancianos y entrados en años, maestros y discípulos, cuando decían: “A veces, y muy pocas veces, aparecen en el mundo los Tathagatas, los Arahat Buddhas”. Sin embargo, hoy, en la última vigilia de la noche, ocurrirá la muerte definitiva del Sama<i>n</i>a Gotama. Ahora, una cierta sensación de incertidumbre ha surgido en mi mente; y tengo fe en el Sama<i>n</i>a Gotama, en que él, me parece, es capaz de presentar la verdad de tal manera que pueda librarme de esta sensación de incertidumbre».
+53\. Entonces pensó el mendicante Subhadda: «Esto he oído de mis compañeros mendicantes, ancianos y entrados en años, maestros y discípulos, cuando decían: «A veces, y muy pocas veces, aparecen en el mundo los Tathagatas, los Arahat Buddhas». Sin embargo, hoy, en la última vigilia de la noche, ocurrirá la muerte definitiva del Sama<i>n</i>a Gotama. Ahora, una cierta sensación de incertidumbre ha surgido en mi mente; y tengo fe en el Sama<i>n</i>a Gotama, en que él, me parece, es capaz de presentar la verdad de tal manera que pueda librarme de esta sensación de incertidumbre».
 
 54\. Entonces el mendicante Subhadda fue al bosque sala de los Mallas, al Upavattana de Kusinârâ, al lugar donde se encontraba el venerable Ânanda.
 
@@ -240,7 +240,7 @@ Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y 
 
 57\. Y de nuevo el mendigo Subhadda \[hizo la misma petición con las mismas palabras y recibió la misma respuesta\]; y la tercera vez el mendigo Subhadda \[hizo la misma petición con las mismas palabras y recibió la misma respuesta\]
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 58\. Ahora bien, el Bendito escuchó esta conversación del venerable Ânanda con el mendicante Subhadda. Y el Bendito llamó al venerable Ânanda y le dijo: «¡Basta, Ânanda! No dejes entrar a Subhadda. Subhadda, Ânanda, puedes ver al Tathagata. Todo lo que Subhadda me pida, lo hará por deseo de conocimiento, y no para molestarme. Y todo lo que yo diga en respuesta a sus preguntas, lo comprenderá rápidamente».
 
@@ -254,24 +254,24 @@ Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y 
 
 62\. Y el Bendito dijo: 'En cualquier doctrina o disciplina, Subhadda, no se encuentra el noble óctuple sendero, ni en él se encuentra un hombre de verdadera santidad de primero, ni de segundo, ni de tercero, ni de cuarto grado[^27].
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 Y en cualquier doctrina y disciplina, Subhadda, se encuentra el noble óctuple sendero, se encuentra el hombre de verdadera santidad de primer, segundo, tercer y cuarto grado. Ahora bien, en esta doctrina y disciplina, Subhadda, se encuentra el noble óctuple sendero, y solo en ella, Subhadda, está el hombre de verdadera santidad. Vacíos están los sistemas de otros maestros, vacíos de verdaderos santos. Y en este, Subhadda, que los hermanos vivan la Vida Recta, para que el mundo no carezca de Arahant[28].
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 'Pero yo tenía veintinueve años cuando renuncié.  
 El mundo, Subhadda, buscando el bien.  
 Durante cincuenta años y un año más, Subhadda,  
 Desde que salí soy peregrino  
 A través de los amplios reinos de la virtud y de la verdad,  
-¡Y fuera de estos no puede haber ningún verdadero “santo”[^29]!”
+¡Y fuera de estos no puede haber ningún verdadero «santo»[^29]!”
 
 Sí, no del primero, ni del segundo, ni del tercero, ni del cuarto grado. Los sistemas de otros maestros son vacíos, vacíos de verdaderos santos. Pero en este, Subhadda, que los hermanos vivan la vida perfecta, para que el mundo no carezca de quienes han alcanzado el fruto más elevado.
 
 63\. Y tras estas palabras, Subhadda, el mendigo, dijo al Bendito: «¡Excelentes, Señor, son las palabras de tu boca, excelsas! Como si un hombre levantara lo que está derribado, revelara lo que está oculto, señalara el camino recto al extraviado o trajera una lámpara a la oscuridad para que quienes tienen ojos puedan ver las apariencias; así, Señor, la verdad me ha sido revelada, en múltiples formas, por el Bendito. Y yo, yo mismo, me refugio, Señor, en el Bendito, en la verdad y en la orden. ¡Que el Bendito me acepte como discípulo, como un verdadero creyente, desde hoy y hasta el fin de mis días!»
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 64. «Subhadda, quienquiera que haya seguido anteriormente otra doctrina y desee ser admitido en el grado superior o inferior de esta doctrina y disciplina, permanece en período de prueba durante cuatro meses; y al final de los cuatro meses, los hermanos, exaltados en espíritu, lo reciben en el grado inferior o superior de la orden. Sin embargo, en este caso reconozco la diferencia entre las personas».
 
@@ -332,7 +332,7 @@ Fin de la porción Hira<i>ññ</i>avatiya, siendo la quinta porción para recita
 
 [^7]: Rey de reyes es una traducción inadecuada de <i>K</i>akkavatti Râ<i>g</i>â. Se trata de un rey cuyo poder ningún otro rey puede disputar, quien es reconocido como el señor supremo en la India. La idea difícilmente pudo haber existido antes de que <i>K</i>andragupta, el primer <i>K</i>akravarti, se alzara al poder. Este pasaje, por lo tanto, sirve como guía para determinar la fecha en que el Mahâ-parinibbâna Sutta asumió su forma actual.
 
-[^8]: 'Vihatena kappâsenâ ti supho<i>t</i>itena kappâsenâ: Kâsika-vattha<i>m</i> hi sukhumattâ tela<i>m</i> na ga<i>n</i>hati, tasmâ vihatena kappâsenâ ti âha. 'Como la tela de Benâres, debido a su fina textura, no absorbe el aceite, dice, por lo tanto, “con algodón vihata”, es decir, con algodón bien deshecho.' Que pho<i>t</i>ita sea aquí el participio del verbo causal, y no del verbo simple, se deduce necesariamente de su uso como explicación de vihata, 'hecho pedazos'. El uso técnico de la palabra, aplicado al algodón, solo se ha encontrado en este pasaje. Suele significar 'hecho pedazos por el dolor'.
+[^8]: 'Vihatena kappâsenâ ti supho<i>t</i>itena kappâsenâ: Kâsika-vattha<i>m</i> hi sukhumattâ tela<i>m</i> na ga<i>n</i>hati, tasmâ vihatena kappâsenâ ti âha. 'Como la tela de Benâres, debido a su fina textura, no absorbe el aceite, dice, por lo tanto, «con algodón vihata», es decir, con algodón bien deshecho.' Que pho<i>t</i>ita sea aquí el participio del verbo causal, y no del verbo simple, se deduce necesariamente de su uso como explicación de vihata, 'hecho pedazos'. El uso técnico de la palabra, aplicado al algodón, solo se ha encontrado en este pasaje. Suele significar 'hecho pedazos por el dolor'.
 
 [^9]: Ayasâya tela-do<i>n</i>iyâ, donde se esperaría âyasâya, pero mi manuscrito del Dîgha Nikâya confirma dos veces aquí y dos veces más abajo, § VI, 33, 35, la interpretación dada por Childers. Buddhaghosa dice: Âyasan ti suva<i>nn</i>a<i>m</i>, suva<i>nn</i>amhi idha âyasan ti adhippeto, pero aquí también esperaríamos encontrar ayo o ayasa<i>m</i> la segunda vez. El significado de la palabra tampoco está del todo claro {nota al pie pág. 93}. Sin duda, se usó originalmente para el bronce, y solo más tarde también para el hierro, y finalmente exclusivamente para el hierro. Como ka<i>m</i>sa ya era una palabra común para el bronce en los primeros textos budistas pali, creo que âyasa o ayasa deben significar aquí «de hierro». Cuando Buddhaghosa dice que aquí se refiere al oro, solo podemos concluir que el hierro se había convertido, en su época, en un metal que él podría considerar demasiado básico para el propósito propuesto.
 
@@ -384,5 +384,5 @@ Fin de la porción Hira<i>ññ</i>avatiya, siendo la quinta porción para recita
 
 [^30]: Es decir, el Nirvana. Compárese el Mangala Sutta V, 11, y el Dhammapada, versos 180, 354 y anteriores, cap. I, § 7.
 
-[^31]: Buddhaghosa dice que las últimas cinco palabras del texto (las últimas doce palabras en mi traducción) fueron añadidas por los Theras que celebraron el Concilio. Sobre la ordenación de Subhadda, tiene la siguiente nota interesante: «El Thero (es decir, Ânanda), dicen, lo tomó a un lado, vertió agua sobre su cabeza desde un recipiente, le hizo repetir la fórmula de meditación sobre la impermanencia del cuerpo (Ta<i>k</i>a-pa<i>ñk</i>aka-kamma<i>tth</i>ana<i>m</i>; véase mi «Historias del nacimiento budista», pág. 161), le afeitó el cabello y la barba, lo vistió con las túnicas amarillas, le hizo repetir los «Tres Refugios» y lo condujo de regreso al Bendito. El Bendito mismo lo admitió entonces en el rango superior de la hermandad y le indicó un tema de meditación (kamma<i>tth</i>ana<i>m</i>; véase “Historias del Nacimiento Budista (nota al pie pág. 111)”, pág. 147). Él lo aceptó y, paseando por un rincón tranquilo del bosque, pensó y meditó sobre ello hasta que, venciendo al Espíritu Maligno, adquirió el estado de Arahant y, con él, el conocimiento discernidor de todas las Escrituras (Pa<i>t</i>isambhidâ). Luego, al regresar, se acercó y se sentó junto al Bendito.
+[^31]: Buddhaghosa dice que las últimas cinco palabras del texto (las últimas doce palabras en mi traducción) fueron añadidas por los Theras que celebraron el Concilio. Sobre la ordenación de Subhadda, tiene la siguiente nota interesante: «El Thero (es decir, Ânanda), dicen, lo tomó a un lado, vertió agua sobre su cabeza desde un recipiente, le hizo repetir la fórmula de meditación sobre la impermanencia del cuerpo (Ta<i>k</i>a-pa<i>ñk</i>aka-kamma<i>tth</i>ana<i>m</i>; véase mi «Historias del nacimiento budista», pág. 161), le afeitó el cabello y la barba, lo vistió con las túnicas amarillas, le hizo repetir los «Tres Refugios» y lo condujo de regreso al Bendito. El Bendito mismo lo admitió entonces en el rango superior de la hermandad y le indicó un tema de meditación (kamma<i>tth</i>ana<i>m</i>; véase «Historias del Nacimiento Budista (nota al pie pág. 111)», pág. 147). Él lo aceptó y, paseando por un rincón tranquilo del bosque, pensó y meditó sobre ello hasta que, venciendo al Espíritu Maligno, adquirió el estado de Arahant y, con él, el conocimiento discernidor de todas las Escrituras (Pa<i>t</i>isambhidâ). Luego, al regresar, se acercó y se sentó junto al Bendito.
 	Según esto, no se llevó a cabo ninguna ceremonia establecida para la ordenación (Sangha-kamma), tal como se establece en el Vinaya; y es, por otra parte, probable que ninguna ceremonia de ese tipo fuera habitual en los primeros días del budismo.

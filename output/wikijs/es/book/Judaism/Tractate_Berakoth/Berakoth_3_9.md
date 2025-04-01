@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **T**. VII. 2. Quien ve la idolatría dice: Bendito sea el que tarda en enojarse. \[Quien ve\] un lugar del que se desarraigó la idolatría dice: Bendito sea el que ha desarraigado la idolatría de nuestra tierra; sea grato a tu vista, oh Señor Dios nuestro, que la idolatría sea desarraigada de nuestra tierra y de todo Israel, y que vuelvas los corazones de quienes adoran ídolos para que te adoren.
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 **T**.
 
@@ -48,7 +48,7 @@ Ben Zoma vio ejércitos en el área del Templo. Dijo: «Bendito sea Aquel que cr
 
 Y así decía Ben Zoma: «¿Qué dice un buen huésped? ¡Recuerde al posadero para siempre! ¡Cuántas clases de vino nos ha traído! ¡Cuántas clases de carne nos ha traído! ¡Cuántos tipos de pan fino nos ha traído! Todo lo que hizo, lo hizo solo por mí. Pero ¿qué dice un mal huésped? Bueno, ¿qué he comido de él? Un trozo de pan he comido de él; una porción de carne he comido de él; una copa he bebido de él; todo lo que hizo, lo hizo solo por el bien de su esposa y sus hijos. Y así dice: “Recuerda que magnificas su obra, de la cual los hombres han cantado». [^453]
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -82,7 +82,7 @@ Quien ve el sol, la luna, las estrellas y los planetas, dice: «Bendito sea Aque
 
 5\. (3 _cont_.). ¿Cómo? Si su esposa está embarazada y él dice: «Que te plazca que mi esposa tenga un hijo varón», ¡mira, esta es una oración en vano! [^473] O si está de viaje y oye gritos en la ciudad y dice: «Que te plazca que no estén en mi casa», ¡mira, esta es una oración en vano! [^474]
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 **T**.
 
@@ -96,7 +96,7 @@ T. VII. 7. R. Meir solía decir: Mira, dice: «Y amarás al Señor tu Dios con t
 
 El que hace para sí mismo _Tsitsith_ [^491] dice: «Bendito sea Aquel que nos trajo a este tiempo», cuando se envuelve en (el chal en el que están) dice: «envolverse en Tsitsith».
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 **T**.
 
@@ -122,7 +122,7 @@ Y los que estaban presentes dijeron: «Así como le hiciste entrar en el pacto, 
 
 ## Sobre la oración al entrar y al salir de una ciudad.
 
-**M**.IX. 6 (4). Quien entra en una ciudad reza dos oraciones: una al entrar y otra al salir. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] dice: Cuatro: dos al entrar y dos al salir. Y una alaba lo que pasó y proclama lo que está por venir. [^504]
+**M**.IX. 6 (4). Quien entra en una ciudad reza dos oraciones: una al entrar y otra al salir. [4](../Berakoth_3_9#fn_502) Ben Azzai [^503] dice: Cuatro: dos al entrar y dos al salir. Y una alaba lo que pasó y proclama lo que está por venir. [^504]
 
 **T**.
 
@@ -134,7 +134,7 @@ Y los que estaban presentes dijeron: «Así como le hiciste entrar en el pacto, 
 
 Dicen en parábolas: ¿A qué se parece el asunto? A un rey de carne y hueso que le dijo a su sirviente que le preparara un caldo, aunque nunca lo había hecho. El resultado fue que quemó el caldo y provocó a su amo. Le dijo que le hiciera un pliegue en la camisa, aunque nunca se lo había hecho.
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 El resultado fue que ensució la camisa y _T_. provocó a su amo. [^515]
 
@@ -150,13 +150,13 @@ El resultado fue que ensució la camisa y _T_. provocó a su amo. [^515]
 
 8_a_ (5_b_). Un hombre no debe comportarse irreverentemente cuando esté frente a la puerta oriental, [^520] porque está situada frente al Santuario Santísimo. No debe entrar al área del Templo con su bastón, y su
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
-**M**.zapatos, [1](Berakoth_3_9#fn_521) y con su bolsa, y con el polvo de sus pies. [2](Berakoth_3_9#fn_522) No debe tomar un atajo, [3](Berakoth_3_9#fn_523) y mucho menos escupir allí. ¿Y qué hay de usar zapatos? Porque es por respeto; está prohibido entrar con ellos. ¿Y escupir? Porque es un acto de desprecio. Es la regla. [4](Berakoth_3_9#fn_524)
+**M**.zapatos, [1](../Berakoth_3_9#fn_521) y con su bolsa, y con el polvo de sus pies. [2](../Berakoth_3_9#fn_522) No debe tomar un atajo, [3](../Berakoth_3_9#fn_523) y mucho menos escupir allí. ¿Y qué hay de usar zapatos? Porque es por respeto; está prohibido entrar con ellos. ¿Y escupir? Porque es un acto de desprecio. Es la regla. [4](../Berakoth_3_9#fn_524)
 
 **T**.
 
-**T**. VII. 19. No se puede entrar al recinto del Templo con dinero atado en su lienzo, [5](Berakoth_3_9#fn_525) ni con polvo en los pies, ni con la bolsa del dinero atada por fuera de la túnica. Porque está dicho: «Cuida tus pies cuando vayas a la casa de Dios». [6](Berakoth_3_9#fn_526) R. José, hijo de R. Judá, dice: «Porque nadie puede entrar por la puerta del rey vestido de cilicio». [7](Berakoth_3_9#fn_527) ¡Cuántos argumentos, desde lo menor hasta lo mayor, hay en este caso! Y por lo tanto, escupir (está prohibido) por el mismo argumento. Porque, como con el calzado, en relación con el cual no hay desprecio habitual, dice la Ley: [8](Berakoth_3_9#fn_528) No entrarás con calzado, cuánto menos con escupir, en relación con lo cual hay desprecio habitual.
+**T**. VII. 19. No se puede entrar al recinto del Templo con dinero atado en su lienzo, [5](../Berakoth_3_9#fn_525) ni con polvo en los pies, ni con la bolsa del dinero atada por fuera de la túnica. Porque está dicho: «Cuida tus pies cuando vayas a la casa de Dios». [6](../Berakoth_3_9#fn_526) R. José, hijo de R. Judá, dice: «Porque nadie puede entrar por la puerta del rey vestido de cilicio». [7](../Berakoth_3_9#fn_527) ¡Cuántos argumentos, desde lo menor hasta lo mayor, hay en este caso! Y por lo tanto, escupir (está prohibido) por el mismo argumento. Porque, como con el calzado, en relación con el cual no hay desprecio habitual, dice la Ley: [8](../Berakoth_3_9#fn_528) No entrarás con calzado, cuánto menos con escupir, en relación con lo cual hay desprecio habitual.
 
 <a id="m8b"></a>
 
@@ -176,7 +176,7 @@ El resultado fue que ensució la camisa y _T_. provocó a su amo. [^515]
 
 **M**.IX. 8_c_ (5_d_). Y ordenaron que un hombre saludara a su compañero en el Nombre. [^540] Porque se dice: “Y he aquí, Booz vino de Belén y dijo a los segadores: «El Señor esté con vosotros», y ellos le respondieron: «El Señor te bendiga». [^541] Y dice: «El Señor esté contigo, hombre valiente y esforzado». [^542] Y dice: «No desprecies a tu madre cuando envejezca». [^543] Y dice: «Es hora de trabajar para el Señor; han invalidado tu ley». [^544] R. Natán dice: Quebrantan tu ley mientras trabajan para el Señor. [^545]
 
-<span id="p89">[<sup><small>pág. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 **T**.
 
@@ -222,7 +222,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^458]: 76:4 _a intervalos_. Cf. _T_. VII. 6 (p. 78). A intervalos de treinta días (Bartenora), excluyendo así a las personas que viven en la costa.
 
-[^459]: 76:5 _La bendición en la invitación_. Véase [p. 59](Berakoth_3_6#p59).
+[^459]: 76:5 _La bendición en la invitación_. Véase [p. 59](../Berakoth_3_6#p59).
 
 [^460]: 76:6 Deuteronomio 810.
 
@@ -256,7 +256,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^471]: 78:4 dice: «quien nos ha dado vida, nos ha establecido y nos ha permitido llegar a este tiempo». —Se da un servicio para la consagración de una casa en SA, págs. 300-303, pero la fórmula citada aquí se encuentra en la pág. ccxix. Abrahams, en su nota, dice que está «prescrita para usarse al disfrutar de una nueva posesión o placer por primera vez».
 
-[^472]: 78:5 _el resumen_. Véase _M_. IV. 3 nota ([p. 30](Berakoth_2_4#p30)).
+[^472]: 78:5 _el resumen_. Véase _M_. IV. 3 nota ([p. 30](../Berakoth_2_4#p30)).
 
 [^473]: 78:6 _para bien . . . para mal_, SA, p. 292.
 
@@ -280,7 +280,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^483]: 79:8 _R. Dosethai bar Jannai_. En la cuarta generación de maestros de la Mishná, c. 160-200 d. C.
 
-[^484]: 79:9 en el pasaje sobre Isaac. Cf. Mc 1226 «en el pasaje sobre la zarza»; y quizás Rom. 112 «en Elías». _Vídese supra_, [p. 36](Berakoth_2_5#p36).
+[^484]: 79:9 en el pasaje sobre Isaac. Cf. Mc 1226 «en el pasaje sobre la zarza»; y quizás Rom. 112 «en Elías». _Vídese supra_, [p. 36](../Berakoth_2_5#p36).
 
 [^485]: 79:10 Verbalmente en Génesis 26:24, pero esencialmente en los versículos 3 y ss., lo que facilita la cita inmediata del versículo 12. Pero, en cualquier caso, «no hay antes ni después en la Ley» (TB _Pesachim_, 6b).
 
@@ -294,11 +294,11 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^490]: 80:4 _quien nos permitió llegar a esta época_. Estas son las palabras finales de la meditación que se encuentra en SA, pág. 232, que también incluye la siguiente oración.
 
-[^491]: 80:5 _a Lulab_. _Véase más arriba_, [p. 33](Berakoth_2_4#p33).
+[^491]: 80:5 _a Lulab_. _Véase más arriba_, [p. 33](../Berakoth_2_4#p33).
 
-[^492]: 80:6 _Tsitsith_. _Véase más arriba_, [p. 16](Berakoth_1_2#p16).
+[^492]: 80:6 _Tsitsith_. _Véase más arriba_, [p. 16](../Berakoth_1_2#p16).
 
-[^493]: 81:1 _Tephillin_, o Filacterias. _Vide supra_, [p. 17](Berakoth_1_2#p17).
+[^493]: 81:1 _Tephillin_, o Filacterias. _Vide supra_, [p. 17](../Berakoth_1_2#p17).
 
 [^494]: 81:2 _los pone_. _es decir_ los ata a la cabeza o al brazo.
 
@@ -316,7 +316,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^501]: 82:2 El texto común añade Bendiciones para ser utilizadas en la circuncisión de prosélitos y esclavos, tomadas de _T_. B. Sabb. 137b.
 
-[^502]: 82:3 _Contribuciones_. Véase [p. 59](Berakoth_3_6#p59).
+[^502]: 82:3 _Contribuciones_. Véase [p. 59](../Berakoth_3_6#p59).
 
 [^503]: 82:4 Las oraciones se dan en _T_.
 
@@ -330,7 +330,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^508]: 83:4 _me sucederá_ (_ye'ra' bî_). Jastrow (p. 1382b) traduce el pasaje paralelo de la Guemará, _T_. B. 60a, como «para que ningún mal ni pecado ocurra por mi culpa», pero la referencia inmediata a la muerte parece impedirlo.
 
-[^509]: 84:1 _Que mi muerte sea una expiación_, cf. _supra_, [p. 13](Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8: «La muerte y el Día de la Expiación hacen expiación, con arrepentimiento.»
+[^509]: 84:1 _Que mi muerte sea una expiación_, cf. _supra_, [p. 13](../Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8: «La muerte y el Día de la Expiación hacen expiación, con arrepentimiento.»
 
 [^510]: 84:2 _todo lo mismo, en el futuro que ha de venir_. _es decir_ el fuego de la Gehena.
 
@@ -376,7 +376,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^531]: 87:1 «_desde siempre_». C dice _hāyu_ _min ha'ôlām_, literalmente, «eran desde siempre» o «del mundo». Pero B dice _hāyu_ _'omrīm 'ad ha'ôlām_, «todos los que sellaban las Bendiciones que estaban en el Templo solían decir 'para siempre'». Probablemente, sin embargo, T. VII. 21 tiene razón al leer solo _'ad_, «a», en lugar de _min_, «desde».
 
-[^532]: 87:2 _los herejes_ (_ha Minim_). Aquí claramente no se trata de los hebreo-cristianos, pues estos nunca negaron la existencia del otro mundo. Cf. págs. [40](Berakoth_2_5#p40) _sq_., [42](Berakoth_2_5#p42).
+[^532]: 87:2 _los herejes_ (_ha Minim_). Aquí claramente no se trata de los hebreo-cristianos, pues estos nunca negaron la existencia del otro mundo. Cf. págs. [40](../Berakoth_2_5#p40) _sq_., [42](../Berakoth_2_5#p42).
 
 [^533]: 87:3 _de la eternidad a la eternidad_. Literalmente, «del mundo y hasta el mundo». Sin embargo, en Nehemías 95 encontramos que en el Segundo Templo se dice: «Levántate, bendice al SEÑOR tu Dios de la eternidad a la eternidad». Para otras referencias, véase Dalman, _Worte_, págs. 123 y ss. (ET pág. 151).
 
@@ -412,7 +412,7 @@ R. Meir solía decir: «No hay nadie en Israel que no cumpla cien mandamientos c
 
 [^549]: 89:3 Jueces 612. Nuevamente se implica la verdad central de la Ley.
 
-[^550]: 89:4 Hillel el Viejo, véase la nota [p. 27](Berakoth_1_3#p27).
+[^550]: 89:4 Hillel el Viejo, véase la nota [p. 27](../Berakoth_1_3#p27).
 
 [^551]: 89:5 Cuando los hombres vengan a escuchar, enseña.
 

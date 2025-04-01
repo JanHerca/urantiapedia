@@ -74,7 +74,7 @@ Servida por alguien más noble que ella, alcanza
 Su fin sin el menor movimiento, y recibe,
 Como homenaje, un viaje tan sin fin trajo
 De velocidad incorpórea su calor y luz:
-“Velocidad, para describir cuya rapidez el número falla”.
+«Velocidad, para describir cuya rapidez el número falla».
 
 Así habló nuestro Señor, y por su semblante parecía...
 Entrando en estudiosos pensamientos abstrusos; que Eva
@@ -288,7 +288,7 @@ Tormento, y gran lamento, y furia furiosa.
 Me alegro de haber regresado a las costas de la Luz.
 Antes del anochecer del sábado, así estábamos nosotros a cargo.
 Pero ahora tu relación: porque estoy atento,
-“Tus palabras me complacen tanto como tú las mías”.
+«Tus palabras me complacen tanto como tú las mías».
 
 Así habló el Poder divino, y así nuestro Padre:
 “Para que el hombre cuente cómo empezó la vida humana

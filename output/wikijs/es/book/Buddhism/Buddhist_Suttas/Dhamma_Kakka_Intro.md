@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p139">[<sup><small>pág. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## EL SUTTA DEL KAKKA-PPAVATTANA. INTRODUCCIÓN AL FUNDAMENTO DEL REINO DE JUSTICIA.
 
@@ -139,7 +139,7 @@ Este ideal budista de la vida perfecta tiene una analogía sumamente instructiva
 
 [^4]: 'Memorias sobre la reliquia del diente', etc., pág. 15.
 
-[^5]: 'La rueda de la ley', <span id="p288">[<sup><small>pág. 288</small></sup>]</span>.
+[^5]: 'La rueda de la ley', <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>.
 
 [^6]: Cap. I, §§ 10-20.
 

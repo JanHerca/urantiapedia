@@ -31,7 +31,7 @@ dateCreated: 2025-2-5T9:13:18Z
 
 _Abdu'l-Bahá_
 
-El “Siervo de Bahá”, Abbas Effendi (1844-1921), el hijo mayor y Sucesor designado de Bahá'u'lláh, y el Centro de Su Alianza.
+El «Siervo de Bahá», Abbas Effendi (1844-1921), el hijo mayor y Sucesor designado de Bahá'u'lláh, y el Centro de Su Alianza.
 
 _Abjad_
 
@@ -39,7 +39,7 @@ El antiguo sistema árabe de asignar un valor numérico a las letras del alfabet
 
 _Bab, El_
 
-Literalmente, la “Puerta”, título asumido por Mirza Ali-Muhammad (1819-1850) después de la Declaración de Su Misión en Shiraz en mayo de 1844. Fue el Fundador de la Fe Babi y el Heraldo de Bahá'u'lláh.
+Literalmente, la «Puerta», título asumido por Mirza Ali-Muhammad (1819-1850) después de la Declaración de Su Misión en Shiraz en mayo de 1844. Fue el Fundador de la Fe Babi y el Heraldo de Bahá'u'lláh.
 
 _bahá_
 
@@ -47,19 +47,19 @@ Baha significa Gloria. Es el Nombre Más Grande de Dios y un título con el que 
 
 Bahá'u'lláh
 
-La “Gloria de Dios”, título de Mirza Husayn-'Ali (1817-1892), el fundador de la Fe Bahá'í.
+La «Gloria de Dios», título de Mirza Husayn-'Ali (1817-1892), el fundador de la Fe Bahá'í.
 
 _Bayan_
 
-El Bayan (“Exposición”) es el título dado por el Báb a Su Libro de Leyes, y también se aplica a todo el cuerpo de Sus Escritos. El Bayan persa es la obra doctrinal más importante y el principal depósito de las leyes ordenadas por el Báb. El Bayan árabe es paralelo en contenido, pero más pequeño y menos importante. Las referencias en las anotaciones a temas que se encuentran tanto en el Bayan persa como en el Bayan árabe se identifican mediante el uso del término “Bayan” sin más calificación.
+El Bayan («Exposición») es el título dado por el Báb a Su Libro de Leyes, y también se aplica a todo el cuerpo de Sus Escritos. El Bayan persa es la obra doctrinal más importante y el principal depósito de las leyes ordenadas por el Báb. El Bayan árabe es paralelo en contenido, pero más pequeño y menos importante. Las referencias en las anotaciones a temas que se encuentran tanto en el Bayan persa como en el Bayan árabe se identifican mediante el uso del término «Bayan» sin más calificación.
 
 _Huququ'llah_
 
-El “Derecho de Dios”, instituido en el Kitab-i-Aqdas, es una ofrenda que hacen los bahá'ís a través del Líder de la Fe para los fines especificados en los Escritos bahá'ís.
+El «Derecho de Dios», instituido en el Kitab-i-Aqdas, es una ofrenda que hacen los bahá'ís a través del Líder de la Fe para los fines especificados en los Escritos bahá'ís.
 
 _Mashriqu'l-Adhkar_
 
-Literalmente, “el Lugar del Amanecer de la alabanza de Dios”, la designación de la Casa de Adoración Bahá'í y sus dependencias.
+Literalmente, «el Lugar del Amanecer de la alabanza de Dios», la designación de la Casa de Adoración Bahá'í y sus dependencias.
 
 _Mitqal_
 
@@ -69,7 +69,7 @@ Unidad de peso, equivalente a poco más de 3 ½ gramos, utilizada en el Kitab-i-
 
 _Nakhud_
 
-Unidad de peso. Véase “mithqal”.
+Unidad de peso. Véase «mithqal».
 
 _Qayyumu'l-Asma'_
 
@@ -81,7 +81,7 @@ Shoghi Effendi (1897-1957), Guardián de la Fe Bahá'í de 1921 a 1957. Era el n
 
 _Siyah-Chal_
 
-Literalmente, “el Pozo Negro”. La oscura y maloliente mazmorra subterránea de Teherán donde Bahá'u'lláh estuvo preso durante cuatro meses en 1852.
+Literalmente, «el Pozo Negro». La oscura y maloliente mazmorra subterránea de Teherán donde Bahá'u'lláh estuvo preso durante cuatro meses en 1852.
 
 <figure class="table chapter-navigator">
   <table>

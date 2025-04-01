@@ -36,7 +36,7 @@ DECIMOCTAVA LECCIÓN. SA_Ñ_<i>G</i>AYA [^210].
 
 En la ciudad de Kâmpilya había un rey, llamado Sa<i>ñ</i><i>g</i>aya, que poseía numerosas tropas y carros de guerra; una vez fue a cazar. (1)
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Estaba rodeado por todos lados por una gran hueste de caballos, elefantes, carros y soldados de infantería. (2)
 
@@ -50,7 +50,7 @@ Entonces el rey a caballo llegó rápidamente allí; vio al ciervo muerto y vio 
 
 El rey, consternado, pensó: "Casi he herido al monje; ¡qué desventurado y cruel soy yo, que estoy loco por esta diversión!" (7)
 
-Después de despedir a su caballo, el rey se inclinó respetuosamente a los pies del monje (diciendo): “Perdóname esto, reverendo señor”. (8)
+Después de despedir a su caballo, el rey se inclinó respetuosamente a los pies del monje (diciendo): «Perdóname esto, reverendo señor». (8)
 
 Pero el venerable monje, sumido en silenciosa meditación, no respondió al rey, quien, por lo tanto, se sintió presa del temor. (9)
 
@@ -58,7 +58,7 @@ Pero el venerable monje, sumido en silenciosa meditación, no respondió al rey,
 
 «No temas, oh rey; pero concede seguridad también a los demás; en este mundo transitorio de seres vivos, ¿por qué eres adicto a la crueldad? (11)
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 'Si por necesidad debes algún día desprenderte de todo, en este mundo transitorio de seres vivos, ¿por qué te aferras al poder real? (12)
 
@@ -70,7 +70,7 @@ Pero el venerable monje, sumido en silenciosa meditación, no respondió al rey,
 
 «Oh rey, otros hombres, contentos y satisfechos, y bien vestidos, disfrutarán de las riquezas que (el difunto) había amasado, y retozarán con las esposas que él había tan bien protegido. (16)
 
-“Y cualesquiera sean las acciones que haya realizado, buenas o malas, con su Karman partirá a su próxima existencia”. (17)
+«Y cualesquiera sean las acciones que haya realizado, buenas o malas, con su Karman partirá a su próxima existencia». (17)
 
 Entonces el rey aprendió la Ley a través de este monje, y se llenó de un gran deseo de pureza y de desprecio por los objetos mundanos. (18)
 
@@ -90,7 +90,7 @@ Los hombres que cometen pecados irán al infierno; pero quienes hayan recorrido 
 
 “Toda esta charla engañosa (de los herejes) es falsa y sin sentido; yo vivo y camino según las reglas del autocontrol. (26)
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Sé que todas estas herejías son despreciables; sé que habrá una vida después de la muerte, y me conozco a mí mismo. (27)
 
@@ -140,7 +140,7 @@ Estos toros de reyes han adoptado la fe de los <i>G</i>inas; tras haber colocado
 
 “Y así, el rey Vi<i>g</i>aya [^232], cuyos pecados no fueron completamente aniquilados [^233], se convirtió en monje después de que él, el hombre famoso, hubiera abandonado su excelente reino. (50)
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 “Y así, el vidente real Mahâbala [^234] practicó una severa penitencia con una mente serena, y tomó sobre sí la gloria (del autocontrol). (51)
 
@@ -218,7 +218,7 @@ Así lo digo.
 
 [^229]: 87:1 El rey Da<i>s</i>âr<i>n</i>abhadra fue contemporáneo de Mahâvîra.
 
-[^230]: 87:2 Éstos son los cuatro Pratyêkabuddhas; ver [p. 35](Uttaradhyayana_8#p35), nota [2](Uttaradhyayana_9#fn130).
+[^230]: 87:2 Éstos son los cuatro Pratyêkabuddhas; ver [p. 35](../Uttaradhyayana_8#p35), nota [2](../Uttaradhyayana_9#fn130).
 
 [^231]: 87:3 La historia de Udâya<i>n</i>a (o quizás Uddâyana) se encuentra en mis Reflexiones seleccionadas en Mâhârâsh<i>t</i>rî, págs. 28 y siguientes. Fue contemporáneo de Mahâvîra.
 

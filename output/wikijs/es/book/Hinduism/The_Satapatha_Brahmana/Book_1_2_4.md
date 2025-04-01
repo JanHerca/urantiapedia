@@ -63,7 +63,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v2_4_1_1414"><sup><small>2:4:1:1414.</small></sup></span> En cuanto a las observancias respecto a (la entrada a) su casa, cuando un dueño de casa regresa de un viaje, su casa tiembla de miedo, pensando: "¿Qué dirá aquí? ¿Qué hará aquí?". Por lo tanto, es por temor a quien habla o hace algo en esta ocasión que la casa tiembla y corre el riesgo de aplastar a su familia; pero al que no habla ni hace nada, su casa lo recibe con confianza, pensando: "¡No ha hablado aquí, no ha hecho nada aquí!". Y si se enoja demasiado por algo en esta ocasión, que haga al día siguiente lo que quiera decir o hacer. Esta es, pues, la observancia respecto a la casa [^795].
 
 
-<span id="p361">[<sup><small>pág. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 <span id="v2_4_2"><sup><small>2:4:2</small></sup></span>
 
@@ -239,7 +239,7 @@ La celebración del sacrificio Dâkshâya<i>n</i>a se consideraba obligatoria so
 
 [^791]: 357:1 Véase I, 9, 3, 21
 
-[^792]: 357:2 Para esta forma más breve de adorar a los fuegos, véase [p. 349](Book_1_2_3#p349), nota [2](Book_1_2_3#fn781).
+[^792]: 357:2 Para esta forma más breve de adorar a los fuegos, véase [p. 349](../Book_1_2_3#p349), nota [2](../Book_1_2_3#fn781).
 
 [^793]: 357:3 Es decir, un viaje que le obligará a pasar la noche más allá del límite de la aldea.
 
@@ -315,7 +315,7 @@ La celebración del sacrificio Dâkshâya<i>n</i>a se consideraba obligatoria so
 
 [^829]: 371:2 O bien, puede hacerlo. Kâty. IV, 6, 7 deja la opción entre grano nuevo y viejo.
 
-[^830]: 372:1 Esta es una oblación en voz baja, en la que las oraciones de invitación y ofrenda (con excepción del «Vausha<i>t</i>» y el «Om» finales) se pronuncian en voz baja. Véase [p. 171](Book_1_1_6#p171), nota [1](Book_1_1_6#fn395); [p. 192](Book_1_1_7#p192), nota [1](Book_1_1_7#fn439).
+[^830]: 372:1 Esta es una oblación en voz baja, en la que las oraciones de invitación y ofrenda (con excepción del «Vausha<i>t</i>» y el «Om» finales) se pronuncian en voz baja. Véase [p. 171](../Book_1_1_6#p171), nota [1](../Book_1_1_6#fn395); [p. 192](../Book_1_1_7#p192), nota [1](../Book_1_1_7#fn439).
 
 [^831]: 372:2 El texto de Kâ<i>n</i>va dice: 'La razón por la que consta de un solo kapâla es que esta tierra es un kapâla, y que es sólo una.'
 

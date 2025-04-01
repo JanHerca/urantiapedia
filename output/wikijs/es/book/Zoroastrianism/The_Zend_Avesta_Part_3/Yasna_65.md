@@ -1,6 +1,6 @@
 ---
 title: "Yasna LXV. a Ardvi Sûra Anâhita y las aguas"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -99,7 +99,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 [^1346]: 319:2 Algunos de los nombres están en femenino.
 
-[^1347]: 319:3 Aquí repite como arriba, desde “Oh plantas” hasta “dadores de lo mejor y lo santo”.
+[^1347]: 319:3 Aquí repite como arriba, desde «Oh plantas» hasta «dadores de lo mejor y lo santo».
 
 [^1348]: 320:1 Véase más abajo.
 

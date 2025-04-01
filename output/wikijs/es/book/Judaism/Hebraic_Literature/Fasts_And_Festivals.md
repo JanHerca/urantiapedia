@@ -49,7 +49,7 @@ Se les ordenó asarlo entero y no quebrarle ningún hueso, para que los egipcios
 
 El Señor le dijo a Moisés: «Di a los hijos de Israel que tomen prestados de los egipcios utensilios de oro y de plata», para que no se dijera después: «Se cumplió la palabra: ‘Los harán servir y los afligirán’; pero no se cumplió la palabra: ‘Saldrán con gran riqueza’».
 
-<span id="p374">[<sup><small>pág. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Cuando Moisés les dijo a los israelitas que debían salir de Egipto con grandes bienes, ellos respondieron: «Ojalá pudiéramos irnos también con las manos vacías», como el siervo confinado en prisión.
 
@@ -85,7 +85,7 @@ A los hijos de Esaú se les pidió que aceptaran la ley, y también preguntaron:
 
 Cuando se le pidió a Israel que aceptara la ley, el pueblo respondió: «La haremos y obedeceremos».
 
-<span id="p376">[<sup><small>pág. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 ## AÑO NUEVO, O EL DÍA DE LOS CAÍDOS
 
@@ -95,7 +95,7 @@ El primer día del séptimo mes, Tishri (octubre), se conmemora la creación del
 
 Esta es la época en que el Señor perdonó a los israelitas que habían adorado al becerro de fundición. Le ordenó a Moisés que volviera a subir al monte por una segunda tabla, después de haber destruido la primera. Así dicen los sabios: «El Señor le dijo a Moisés en el mes de Elul: 'Sube a mí al monte'. Moisés subió y recibió la segunda tabla al cabo de cuarenta días. Antes de ascender, hizo sonar la trompeta por todo el campamento». Desde entonces, es costumbre tocar la corneta en las sinagogas para advertir al pueblo de que el Día del Juicio, el Año Nuevo, se acerca rápidamente, y con él, el Día de la Expiación. Por lo tanto, se dicen oraciones propiciatorias dos veces cada día, por la mañana y por la tarde, desde el segundo día de Elul hasta la víspera del Día de la Expiación, período que comprende los últimos cuarenta días que Moisés pasó en el Sinaí, cuando Dios se reconcilió con Israel y perdonó sus transgresiones con el becerro de fundición.
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 El rabino Eleazar dijo: «Abraham y Jacob nacieron en Tishri, y en Tishri murieron. El primero de Tishri fue creado el universo, y durante la Pascua nació Isaac. El primero de Tishri (Año Nuevo), Sara, Raquel y Ana, tres mujeres estériles, recibieron la visita. El primer día de Tishri, nuestros antepasados ​​interrumpieron su riguroso trabajo en Egipto. El primero de Tishri fue creado Adán; a partir de su existencia contamos nuestros años, que es el sexto día de la creación. Ese mismo día comió del fruto prohibido; por lo tanto, es tiempo de penitencia, pues el Señor le dijo a Adán: «Esto será una señal para las generaciones futuras; tus descendientes serán juzgados en estos días, y serán señalados como días de perdón y perdón».
 
@@ -117,7 +117,7 @@ Así enseñó el rabino Akiba: "¿Por qué la ley ordena traer una gavilla de ce
 
 ¿Por qué dice la Biblia: «Traigan dos panes de trigo nuevo en Pentecostés»? Porque en Pentecostés el fruto madura, y Dios dice: «Ofrézcanme dos panes de trigo nuevo, para que yo bendiga el fruto que está en los árboles».
 
-<span id="p378">[<sup><small>pág. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 ¿Por qué se nos ordenó traer una libación de agua al Templo en la Fiesta de los Tabernáculos? Porque es la época de lluvias, y el Señor dice: «Traedme la libación de agua para que bendiga la lluvia del año».
 
@@ -171,7 +171,7 @@ En noveno lugar, para recordarnos que oremos por el momento en que los marginado
 
 Décimo, para recordarnos la resurrección de los muertos y nuestra firme creencia en ella, «Sí, todos vosotros los que habitáis el mundo y moráis sobre la tierra, cuando se levante el estandarte sobre el monte, mirad; y cuando se suene la trompeta, oíd», dice el profeta Isaías.
 
-<span id="p381">[<sup><small>pág. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Por tanto, debemos fijar nuestro corazón en estas épocas y cumplir el precepto que nos manda la Biblia, como está escrito:
 
@@ -231,7 +231,7 @@ Sucedió que el alcalde de una ciudad envió a su sirviente al mercado a comprar
 
 —Entonces, ¿cómo puedes permitirte pagar un precio tan alto por un pescado y cómo te atreves a degradar mi dignidad ofreciendo por él una suma mayor que la que ofreció mi sirviente?
 
-<span id="p386">[<sup><small>pág. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 —Ayuno mañana —respondió el sastre—, y quería comer el pescado hoy para tener fuerzas. No lo habría perdido ni por diez monedas de oro.
 
@@ -255,7 +255,7 @@ El rey del país envió un oficial a este hombre, ordenándole que compareciera 
 
 Desesperado, el hombre se dirigió a su tercer amigo, aquel a quien había descuidado, pero quien le respondió de inmediato:
 
-<span id="p387">[<sup><small>pág. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 No temas; iré contigo y hablaré en tu defensa. No te dejaré hasta que seas libre de tu aflicción.
 
@@ -269,7 +269,7 @@ Oh Señor Soberano, hoy en la tierra existe una nación pura e inocente. Como lo
 
 «Dios escucha este testimonio de su ángel y perdona los pecados de todos su pueblo».
 
-Pero aunque el Todopoderoso perdona así nuestros pecados, no podemos repetirlos impunemente, porque «quien dice: “Cometeré un pecado y me arrepentiré», no puede haber perdón ni arrepentimiento”.
+Pero aunque el Todopoderoso perdona así nuestros pecados, no podemos repetirlos impunemente, porque «quien dice: «Cometeré un pecado y me arrepentiré», no puede haber perdón ni arrepentimiento».
 
 ## FIESTA DE LOS TABERNÁCULOS
 
@@ -305,7 +305,7 @@ El cidro es una fruta valiosa; es buena para comer y tiene un aroma muy agradabl
 
 La rama de palma da fruto, pero no huele. Se compara con quienes son eruditos, pero carecen de buenas obras; quienes conocen la ley, pero transgreden sus mandatos.
 
-<span id="p391">[<sup><small>pág. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 El mirto se compara con aquellas personas que son naturalmente buenas, que actúan correctamente hacia Dios y hacia los hombres, pero que no tienen educación.
 
@@ -321,7 +321,7 @@ Entonces algunas personas respondieron:
 
 «Felices fueron los días de nuestra juventud, porque no han de sonrojarnos los días de nuestra vejez.» Éstos eran hombres de piedad.
 
-<span id="p392">[<sup><small>pág. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 Otros respondieron:—
 
@@ -359,7 +359,7 @@ Aunque el Señor afligió a Israel a causa de sus iniquidades, aun así mostró 
 
 «Y con todo eso, aunque estén en la tierra de sus enemigos, no los desecharé, ni los aborreceré para destruirlos por completo, rompiendo mi pacto con ellos, porque yo soy el Señor su Dios.»
 
-<span id="p394">[<sup><small>pág. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 Y así lo explican los rabinos:
 

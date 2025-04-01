@@ -81,7 +81,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v5_3_2_77"><sup><small>5:3:2:77.</small></sup></span> Dividen los granos de arroz en dos partes: las más pequeñas y rotas pertenecen a Brihaspati, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> y las más grandes y enteras a Mitra. Porque Mitra no daña a nadie, ni nadie daña a Mitra; ni un tallo ni una espina lo pinchan, ni le queda cicatriz; porque Mitra es amigo de todos (mitram).
 
-<span id="v5_3_2_88"><sup><small>5:3:2:88.</small></sup></span> Luego pone la papilla para Brihaspati al fuego, la cubre con el recipiente para la papilla de Mitra, vierte la mantequilla en este último y añade los granos de arroz. Se cocina simplemente con el vapor caliente [1](Book_3_5_3#fn143); pues lo que se cocina al fuego pertenece a Varuna, y lo que se cocina al vapor caliente pertenece a Mitra; por lo tanto, se cocina al vapor caliente. Haciendo cortes de ambos platos de sacrificio, dice: «¡Pronunciad la oración de invitación a Mitra y Brihaspati!». Después de haber llamado al <i>S</i>rausha<i>t</i>, dice: '¡Pronuncia la oración de ofrenda a Mitra y B<i>ri</i>haspati!' y ofrece mientras se pronuncia el Vasha<i>t</i>.
+<span id="v5_3_2_88"><sup><small>5:3:2:88.</small></sup></span> Luego pone la papilla para Brihaspati al fuego, la cubre con el recipiente para la papilla de Mitra, vierte la mantequilla en este último y añade los granos de arroz. Se cocina simplemente con el vapor caliente [1](../Book_3_5_3#fn143); pues lo que se cocina al fuego pertenece a Varuna, y lo que se cocina al vapor caliente pertenece a Mitra; por lo tanto, se cocina al vapor caliente. Haciendo cortes de ambos platos de sacrificio, dice: «¡Pronunciad la oración de invitación a Mitra y Brihaspati!». Después de haber llamado al <i>S</i>rausha<i>t</i>, dice: '¡Pronuncia la oración de ofrenda a Mitra y B<i>ri</i>haspati!' y ofrece mientras se pronuncia el Vasha<i>t</i>.
 
 
 <span id="v5_3_3"><sup><small>5:3:3</small></sup></span>
@@ -311,7 +311,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^128]: 59:1 De donde la parte posterior de esa región superior es blanca o brillante.
 
-[^129]: 60:1 La función exacta de este funcionario no está claramente definida. Aunque el término también se usa para un jefe de aldea común (Patel, Adhikârin, Adigar), esto difícilmente podría aplicarse aquí. Sâya<i>n</i>a, en un pasaje, explica el término como 'Grâma<i>m</i> nayati', pero en otro lugar lo explica como 'Grâmâ<i>n</i>â<i>m</i> netâ;', y quizás tenga algún significado similar: el jefe de la administración comunal, ya sea para un distrito (como uno de los señores de Manu de cien, o de mil aldeas), o para todo el país. Sin embargo, si se refiere al jefe de una sola aldea (como la asociación del cargo con los Maruts podría llevar a suponer), probablemente sería un propietario territorial hereditario que reside cerca del lugar donde se celebra la ceremonia de inauguración. Cf. [V, 4, 4, 18](Book_3_5_4#v5_4_4_18); y Zimmer. Altindisches Leben, pág. 171.
+[^129]: 60:1 La función exacta de este funcionario no está claramente definida. Aunque el término también se usa para un jefe de aldea común (Patel, Adhikârin, Adigar), esto difícilmente podría aplicarse aquí. Sâya<i>n</i>a, en un pasaje, explica el término como 'Grâma<i>m</i> nayati', pero en otro lugar lo explica como 'Grâmâ<i>n</i>â<i>m</i> netâ;', y quizás tenga algún significado similar: el jefe de la administración comunal, ya sea para un distrito (como uno de los señores de Manu de cien, o de mil aldeas), o para todo el país. Sin embargo, si se refiere al jefe de una sola aldea (como la asociación del cargo con los Maruts podría llevar a suponer), probablemente sería un propietario territorial hereditario que reside cerca del lugar donde se celebra la ceremonia de inauguración. Cf. [V, 4, 4, 18](../Book_3_5_4#v5_4_4_18); y Zimmer. Altindisches Leben, pág. 171.
 
 [^130]: 62:1 Savyash<i>th</i>ri (de otro modo savyesh<i>th</i><i>ri</i>, savyesh<i>th</i>a;—savyastha, Kâ<i>n</i>va rec.) es explicado por los comentarios como sinónimo de sârathi, auriga (con el que se combina en savyesh<i>th</i>asârathî, Taitt. Br. I, 7, 9, 1, donde Sâya<i>n</i>a los convierte en los dos aurigas de pie a la izquierda y a la derecha del guerrero), pero parece más probable que los términos anteriores se refieran al propio guerrero (παραβάτης) (como sin duda hace savyash<i>th</i>â, Atharva-veda VIII, 8, 23), que se encuentra en el lado izquierdo del conductor (sârathi, ἡνίοχος); el cambio de significado se debe quizás a escrúpulos de casta sobre una asociación tan cercana entre el guerrero Kshatriya y su sirviente Sûdra, como se implica en este y otros pasajes. (Cf. V, 3, 2, 2 con nota.)—En Taitt. S. I, 8, 9, Sâya<i>n</i>a explica a sa<i>m</i>grahît<i>ri</i> como el tesorero (dhanasa<i>m</i>grahakartâ ko<i>s</i>âdhyaksha<i>h</i>), pero en I, 8, 16 opcionalmente como tesorero o auriga; mientras que al Sûta es I, 8, 9 identificado por él con el auriga (sârathi). Es más probable, sin embargo, que en la época del Brâhma<i>n</i>a, el Sûta ocupara una posición muy similar a la que se le asigna en las epopeyas, a saber, la de bardo de la corte y cronista. La conexión del sa<i>m</i>grahît<i>ri</i> con los A<i>s</i>vins difícilmente puede afirmarse que favorezca la interpretación del término propuesta por Sâya<i>n</i>a (quien, además, se ve obligado, en Taitt. S. I, 8, 15; Taitt. Br. I, 7, 10, 6, a interpretarlo en el sentido de auriga).
 
@@ -320,7 +320,7 @@ dateCreated: 2025-1-15T22:56:28Z
 δαιτρὸς δὲ κρειῶ πίνακας παρέθηκεν ἀείρας
 παντοίων, παρὰ δέ σφι τίθει χρύσεια κύπελλα
 
-[^132]: 63:2 Véase [V, 2, 5, 8](Book_3_5_2#v5_2_5_8).
+[^132]: 63:2 Véase [V, 2, 5, 8](../Book_3_5_2#v5_2_5_8).
 
 [^133]: 63:3 «El que lanza o guarda los dados», según Sâya<i>n</i>a. En V, 4, 4, 6, el verbo â-vap se usa para referirse a lanzar los dados a la mano del jugador; y es quizás esa función del que guarda los dados la que se pretende expresar con el término («der Zuwerfer der Würfel»).
 
@@ -344,11 +344,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^143]: 68:1 Es decir, por el vapor que sube del pap Brihaspati en el recipiente inferior.
 
-[^144]: 68:2 El Abhishe<i>k</i>anîya (o Abhisheka, literalmente 'la aspersión'), la ceremonia de Consagración (que corresponde a la Unción de los tiempos modernos), requiere para su realización cinco días, a saber: un dîkshâ (ceremonia de iniciación), tres upasads y un sutyâ o día de Soma. La forma particular del sacrificio de Soma es el Ukthya (parte ii, pág. 325, nota 2). El Dîkshâ se realiza inmediatamente después de la quincena oscura posterior a la luna llena de Phalgunî, es decir, el primer día de Kaitra (aproximadamente a mediados de marzo). —Según Katy. XV, 3, 47 Tanto el Abhishe<i>k</i>anîya como el Da<i>s</i>apeya requieren lugares especiales para las ofrendas, estando este último al norte del primero. Cf. nota sobre [V, 4, 5, 13](Book_3_5_4#v5_4_5_13).—En cuanto a la pág. 69, los cantos (stotra) de la ceremonia de Consagración, los Pavamâna-stotras se cantan en el trigésimo segundo modo, los Â<i>g</i>ya-stotras en el decimoquinto, los P<i>ri</i>sh<i>th</i>a-stotras en el decimoséptimo, y los Agnish<i>t</i>oma-sâman y los Uktha-stotras en el vigésimo primer modo de canto (stoma). Pa<i>ñ</i><i>k</i>. Br, 18, 10, 9. El Bahishpavamâna está especialmente construido para constar de las siguientes partes: Sâma-veda II, 978-80; además seis versos llamados sambhâryâ más II, 125-27; II, 4-6; II, 431-3; II, 128-30; II, 555-59; II, 7-9; II, 981-83; ver Pa<i>ñ</i><i>k</i>. Hno. 18, 8, 7 seq.—El ritual Taittirîya (Taitt. Br. I, 8, 7 seq.), por otra parte, prescribe para los Pavamâna-stotras, el estoma de treinta y cuatro versos, comenzando el Bahishpavamâna en II, 920; II, 431, etc.
+[^144]: 68:2 El Abhishe<i>k</i>anîya (o Abhisheka, literalmente 'la aspersión'), la ceremonia de Consagración (que corresponde a la Unción de los tiempos modernos), requiere para su realización cinco días, a saber: un dîkshâ (ceremonia de iniciación), tres upasads y un sutyâ o día de Soma. La forma particular del sacrificio de Soma es el Ukthya (parte ii, pág. 325, nota 2). El Dîkshâ se realiza inmediatamente después de la quincena oscura posterior a la luna llena de Phalgunî, es decir, el primer día de Kaitra (aproximadamente a mediados de marzo). —Según Katy. XV, 3, 47 Tanto el Abhishe<i>k</i>anîya como el Da<i>s</i>apeya requieren lugares especiales para las ofrendas, estando este último al norte del primero. Cf. nota sobre [V, 4, 5, 13](../Book_3_5_4#v5_4_5_13).—En cuanto a la pág. 69, los cantos (stotra) de la ceremonia de Consagración, los Pavamâna-stotras se cantan en el trigésimo segundo modo, los Â<i>g</i>ya-stotras en el decimoquinto, los P<i>ri</i>sh<i>th</i>a-stotras en el decimoséptimo, y los Agnish<i>t</i>oma-sâman y los Uktha-stotras en el vigésimo primer modo de canto (stoma). Pa<i>ñ</i><i>k</i>. Br, 18, 10, 9. El Bahishpavamâna está especialmente construido para constar de las siguientes partes: Sâma-veda II, 978-80; además seis versos llamados sambhâryâ más II, 125-27; II, 4-6; II, 431-3; II, 128-30; II, 555-59; II, 7-9; II, 981-83; ver Pa<i>ñ</i><i>k</i>. Hno. 18, 8, 7 seq.—El ritual Taittirîya (Taitt. Br. I, 8, 7 seq.), por otra parte, prescribe para los Pavamâna-stotras, el estoma de treinta y cuatro versos, comenzando el Bahishpavamâna en II, 920; II, 431, etc.
 
 [^145]: 69:1 Este es el Pa<i>s</i>u-purodâ<i>s</i>a ordinario, o pastel de animal (ofrenda). Véase parte ii, pág. 199, nota 2 (donde se lee Agni y Soma en lugar de Indra y Agni).
 
-[^146]: 69:2 Es decir, según Sâya<i>n</i>a, arroz que ha brotado de nuevo y madura muy rápidamente. Taitt. S. I, 8, 10 tiene 'â<i>s</i>u' en su lugar, para lo cual véase el [siguiente párrafo](Book_3_5_3#v5_3_3_4).
+[^146]: 69:2 Es decir, según Sâya<i>n</i>a, arroz que ha brotado de nuevo y madura muy rápidamente. Taitt. S. I, 8, 10 tiene 'â<i>s</i>u' en su lugar, para lo cual véase el [siguiente párrafo](../Book_3_5_3#v5_3_3_4).
 
 [^147]: 69:3 O, consagrado (sû).
 
@@ -366,9 +366,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^154]: 72:1 Aquí se inserta el nombre del pueblo, por ejemplo, "¡Oh vosotros, Kurus! ¡Oh vosotros, Pa<i>ñ</i><i>k</i>âlas!". El Taitt. S. dice: "¡Oh vosotros, Bharatâ<i>h</i>!".
 
-[^155]: 72:2 Es decir, las oblaciones a los ‘Vividores Divinos’, que se insertaron entre la oblación principal del (Agnîshomîya) pa<i>s</i>upurodâ<i>s</i>a y el Svish<i>t</i>ak<i>ri</i>t de él; véase arriba, [párrafo 10](Book_3_5_3#v5_3_3_10).
+[^155]: 72:2 Es decir, las oblaciones a los ‘Vividores Divinos’, que se insertaron entre la oblación principal del (Agnîshomîya) pa<i>s</i>upurodâ<i>s</i>a y el Svish<i>t</i>ak<i>ri</i>t de él; véase arriba, [párrafo 10](../Book_3_5_3#v5_3_3_10).
 
-[^161]: 81:1 Es decir, antes de que las 'aguas' se depositaran allí, según [V, 3, 4, 28](Book_3_5_3#v5_3_4_28).
+[^161]: 81:1 Es decir, antes de que las 'aguas' se depositaran allí, según [V, 3, 4, 28](../Book_3_5_3#v5_3_4_28).
 
 [^162]: 83:1 Es decir, porque tres de los receptores de estas libaciones —A<i>m</i><i>s</i>a, Bhaga y Aryaman— pertenecen a las deidades llamadas Âdityas, o hijos de Aditi.
 
@@ -376,7 +376,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^164]: 83:3 Es decir, por sus ramas colgantes. Es bien sabido que el ficus indica, o baniano, como se le llama comúnmente, tiene la costumbre de doblar sus ramas hacia el suelo, las cuales luego echan raíces y desarrollan nuevos troncos secundarios, de modo que un solo árbol puede, con el tiempo, formar una gran arboleda. De ahí el nombre que se le da aquí (nyag-rodha, el que crece hacia abajo). «Una familia tiende a multiplicar familias a su alrededor, hasta convertirse en el centro de una tribu, así como el baniano tiende a rodearse de un bosque de sus propios descendientes». Maclennan, Matrimonio Primitivo, pág. 269.
 
-[^165]: 84:1 Véase arriba, [p. 34](Book_3_5_2#p34), nota [1](Book_3_5_2#fn80). Los Maruts se identifican constantemente con los Vi<i>s</i>, o el pueblo (campesinos, etc.) en general, mientras que Indra es considerado el representante divino de la clase gobernante (el rey y el noble).
+[^165]: 84:1 Véase arriba, [p. 34](../Book_3_5_2#p34), nota [1](../Book_3_5_2#fn80). Los Maruts se identifican constantemente con los Vi<i>s</i>, o el pueblo (campesinos, etc.) en general, mientras que Indra es considerado el representante divino de la clase gobernante (el rey y el noble).
 
 [^166]: 84:2 Véase I, 1, 3, 1 (parte i, pág. 19).
 
@@ -410,6 +410,6 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^181]: 88:4 O quizás,—mientras (él) se mueve hacia adelante,—mientras se mueve hacia atrás,—mientras se mueve lateralmente.
 
-[^182]: 89:1 Para una pelea simulada con flechas que forma parte de la ceremonia en el ritual del Ya<i>g</i>us Negro, véase [p. 100](Book_3_5_4#p100). nota [1](Book_3_5_4#fn199).
+[^182]: 89:1 Para una pelea simulada con flechas que forma parte de la ceremonia en el ritual del Ya<i>g</i>us Negro, véase [p. 100](../Book_3_5_4#p100). nota [1](../Book_3_5_4#fn199).
 
 [^183]: 89:2 Esas son, según parece, las fórmulas de información (o quizás de anuncio, introducción); la primera de estas fórmulas comienza con âvis (a la vista), las otras con el participio âvitta, es decir, 'obtenido, presente'; Sâya<i>n</i>a y Mahîdhara, sin embargo, lo toman en el sentido de 'informado', un significado que, de hecho, la palabra quizás pudo haber querido transmitir en estas fórmulas.

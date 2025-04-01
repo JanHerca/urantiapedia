@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Si se coció un muslo con el גיד הנשה dentro, si ese tendón era lo suficientemente grande como para darle sabor, este no se puede usar. ¿Cómo se calcula esto? En la misma proporción que la carne cocida con nabos. [^1237]
 
-<span id="p344">[<sup><small>pág. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 § 5. Cuando el Guid Anashé se hirvió con otros tendones, si se reconoce dicho tendón, se debe retirar y se prohíben los demás tendones si les hubiera dado sabor. [^1238] Pero si no se reconoce, se prohíben todos los tendones. El caldo o líquido en el que se hierve no se puede usar si el Guid Anashé le dio sabor; [^1239] y lo mismo ocurre si un trozo de Nebelah o de un pescado prohibido se hirvió con otros trozos de carne o pescado permitidos: si se reconocen los primeros, se deben retirar, y si hubieran dado sabor a los demás, estos no se pueden usar. Si no se reconocen, se prohíben todos los trozos; y lo mismo ocurre con el caldo, que no se puede usar si le hubiera dado sabor a los trozos prohibidos.
 

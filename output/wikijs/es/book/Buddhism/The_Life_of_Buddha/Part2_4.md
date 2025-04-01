@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p117">[<sup><small>pág. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 
 El Bendito entró en la gran ciudad de Benarés. Deambuló por las calles pidiendo limosna; comió lo que le dieron, y luego se dirigió al Parque de los Ciervos, donde sabía que encontraría a los antiguos discípulos de Rudraka.
@@ -51,7 +51,7 @@ No me llamen amigo, oh monjes. Soy el Santo, el Perfecto, el Buda supremo. Abran
 
 Pero ellos respondieron:
 
-“Antes, a pesar de tus prácticas austeras, no llegaste al conocimiento perfecto, ¿cómo podrías haberlo logrado ahora que llevas una vida de autocomplacencia?”
+«Antes, a pesar de tus prácticas austeras, no llegaste al conocimiento perfecto, ¿cómo podrías haberlo logrado ahora que llevas una vida de autocomplacencia?»
 
 «Oh, monjes», respondió el Bendito, «no llevo una vida de autocomplacencia; no he renunciado a ninguna de las bendiciones a las que aspiré. Soy el Santo, el Perfecto, el Buda supremo. Abrid los oídos, oh monjes; se ha descubierto el camino que conduce a la liberación. Os mostraré el camino; os enseñaré la ley. Escuchad atentamente y aprenderéis la sagrada verdad».
 
@@ -69,7 +69,7 @@ Oh, monjes, les diré la verdad sobre el sufrimiento. El sufrimiento es nacimien
 
 Los cinco discípulos escucharon con arrobamiento las palabras del Bendito. Él habló de nuevo:
 
-<span id="p122">[<sup><small>pág. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Oh, monjes, mientras no comprendía completamente estas cuatro verdades, sabía que ni en este mundo ni en el mundo de los dioses, ni en el mundo de Mara ni en el mundo de Brahma, sabía que entre todos los seres, hombres, dioses, ermitaños o brahmanes, yo no había alcanzado el rango supremo de Buda. Pero, oh, monjes, ahora que comprendo completamente estas cuatro verdades, sé que en este mundo, como en el mundo de los dioses, en el mundo de Mara y en el mundo de Brahma, sé que entre todos los seres, hombres, dioses, ermitaños o brahmanes, yo he alcanzado el rango supremo de Buda. Soy libre para siempre: para mí no habrá nuevo nacimiento.
 

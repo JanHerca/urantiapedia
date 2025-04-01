@@ -71,7 +71,7 @@ OCTAVO PRAP AKA.
 'Cualquier objeto al que se apegue, cualquier objeto que desee, por su mera voluntad le llega, y habiéndolo obtenido, es feliz.
 
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ Lo que la gente llama vida de ermitaño (ara<i>n</i>yâyana), en realidad es abs
 Ahora bien, ese mundo de Brahman pertenece a aquellos que encuentran los lagos Ara y <i>N</i>ya en el mundo de Brahman mediante la abstinencia; para ellos hay libertad en todos los mundos [^337].
 
 
-<span id="p132">[<sup><small>pág. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
 
@@ -124,9 +124,9 @@ Ahora bien, ese mundo de Brahman pertenece a aquellos que encuentran los lagos A
 
 5\. Pero cuando parte de este cuerpo, asciende mediante esos mismos rayos (hacia los mundos que ha obtenido por mérito, no por conocimiento); o sale mientras medita en Om [^339] (y así se asegura la entrada al Brahmaloka).
 
-<span id="p134">[<sup><small>pág. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
-Y mientras su mente flaquea, se dirige al sol. Pues el sol es la puerta del mundo (de Brahman). Quienes saben, entran; quienes no saben, quedan excluidos. Hay este verso [1](Khandogya_8#fn340): «Hay ciento una arterias del corazón; una de ellas penetra la coronilla; ascendiendo por ella, el hombre alcanza la inmortalidad; las demás sirven para partir en diferentes direcciones, sí, en diferentes direcciones [2](Khandogya_8#fn341)».
+Y mientras su mente flaquea, se dirige al sol. Pues el sol es la puerta del mundo (de Brahman). Quienes saben, entran; quienes no saben, quedan excluidos. Hay este verso [1](../Khandogya_8#fn340): «Hay ciento una arterias del corazón; una de ellas penetra la coronilla; ascendiendo por ella, el hombre alcanza la inmortalidad; las demás sirven para partir en diferentes direcciones, sí, en diferentes direcciones [2](../Khandogya_8#fn341)».
 
 ## SÉPTIMO KHA<i>N</i><i>D</i>A [^342].
 
@@ -138,16 +138,16 @@ Diciendo esto, Indra se apartó de los Devas, Viro<i>k</i>ana de los Asuras, y a
 
 3\. Vivieron allí como discípulos durante treinta y dos años. Entonces Pra<i>g</i>âpati les preguntó: «¿Con qué propósito han vivido aquí?»
 
-Respondieron: «Se repite un dicho tuyo: “El Ser libre de pecado, libre de vejez, de muerte y pena, de hambre y sed, que no desea nada más que lo que debe desear, y no imagina nada más que lo que debe imaginar, es lo que debemos buscar, es lo que debemos intentar comprender. Quien ha buscado ese Ser y lo comprende, alcanza todos los mundos y todos los deseos”. Ahora bien, ambos hemos vivido aquí porque anhelamos ese Ser.»
+Respondieron: «Se repite un dicho tuyo: «El Ser libre de pecado, libre de vejez, de muerte y pena, de hambre y sed, que no desea nada más que lo que debe desear, y no imagina nada más que lo que debe imaginar, es lo que debemos buscar, es lo que debemos intentar comprender. Quien ha buscado ese Ser y lo comprende, alcanza todos los mundos y todos los deseos». Ahora bien, ambos hemos vivido aquí porque anhelamos ese Ser.»
 
 Pra<i>g</i>âpati les dijo: «La persona que se ve a simple vista [^343], ése es el Ser. Esto es lo que he dicho. Esto es lo inmortal, lo intrépido, esto es Brahman».
 
 Ellos preguntaron: 'Señor, el que se percibe en el agua y el que se percibe en el espejo, ¿quién es?'
 
-Él respondió: “En verdad, Él mismo se ve en todos estos [344]”.
+Él respondió: «En verdad, Él mismo se ve en todos estos [344]».
 
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## OCTAVO KHA<i>N</i><i>D</i>A.
 
@@ -165,7 +165,7 @@ Pra<i>g</i>âpati dijo: '¿Qué ves?'
 
 3\. Dijeron: «Así como estamos, bien vestidos, con nuestras mejores ropas y limpios, así estamos los dos allí, señor, bien vestidos, con nuestras mejores ropas y limpios».
 
-Pra<i>g</i>âpati dijo: “Eso es el Ser, esto es lo inmortal, lo intrépido, esto es Brahman”.
+Pra<i>g</i>âpati dijo: «Eso es el Ser, esto es lo inmortal, lo intrépido, esto es Brahman».
 
 Entonces ambos se fueron satisfechos en sus corazones.
 
@@ -181,7 +181,7 @@ Ahora Virokana, satisfecho en su corazón, fue a los Asuras y les predicó esa d
 
 2. Tomando combustible en su mano, regresó como discípulo de Pra<i>g</i>âpati. Pra<i>g</i>âpati le dijo: «Maghavat (Indra), ya que te marchaste con Virokana, satisfecho de corazón, ¿con qué propósito regresaste?»
 
-<span id="p138">[<sup><small>pág. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Dijo: «Señor, así como este yo (la sombra) está bien adornado, cuando el cuerpo está bien adornado, bien vestido, cuando el cuerpo está bien vestido, bien limpio, si el cuerpo está bien limpio, ese yo también será ciego, si el cuerpo es ciego, cojo, si el cuerpo es cojo, lisiado, si el cuerpo es lisiado, y perecerá, de hecho, tan pronto como el cuerpo perezca. Por lo tanto, no veo nada bueno en esta (doctrina)».
 
@@ -207,7 +207,7 @@ Dijo: 'Señor, si bien es cierto que ese yo no es ciego aunque el cuerpo sea cie
 
 Vivió con él otros treinta y dos años. Entonces Pra<i>g</i>âpati dijo:
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## UNDÉCIMO KHAND.
 
@@ -231,7 +231,7 @@ Vivió allí otros cinco años. En total, fueron ciento un años, y por eso se d
 
 3\. Así, ese ser sereno, que surge de este cuerpo, aparece en su propia forma, tan pronto como alcanza la luz suprema (el conocimiento del Ser [^355]). Él (en ese estado) es la persona suprema (uttama pûrusha). Allí se mueve riendo (o comiendo), jugando y regocijándose (mentalmente), ya sea con mujeres, carruajes o familiares, sin importarle el cuerpo en el que nació [^356].
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 'Así como un caballo está atado a un carro, así también el espíritu [^357] (prâ<i>n</i>a, pra<i>g</i>ñâtman) está atado a este cuerpo.
 
@@ -242,7 +242,7 @@ Vivió allí otros cinco años. En total, fueron ciento un años, y por eso se d
 «Los Devas que están en el mundo de Brahman meditan en ese Ser (como Pra<i>g</i>âpati enseñó a Indra, y este a los Devas). Por lo tanto, todos los mundos y todos los deseos les pertenecen. Quien conoce y comprende ese Ser, alcanza todos los mundos y todos los deseos». Así dijo Pra<i>g</i>âpati, sí, así dijo Pra<i>g</i>âpati.
 
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## DECIMOTERCER KHAN D [^359].
 
@@ -258,7 +258,7 @@ Vengo al salón de Pra<i>g</i>âpati, a la casa; soy glorioso entre los brahmane
 
 
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## DECIMOQUINTO KHAND.
 

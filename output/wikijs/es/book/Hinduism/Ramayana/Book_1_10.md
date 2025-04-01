@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-[3b](Libro_1_10#fn5)
+[3b](../Libro_1_10#fn5)
 
 ## CANTO I: NÁRAD.
 
@@ -49,7 +49,7 @@ Cuyo cuidado constante y principal deleite
 ¿Fueron la Escritura y el rito ascético,
 El buen Válmíki, el primero y el mejor
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 De los santos ermitaños, estas palabras se dirigieron: [^8]
 'En todo este mundo, te ruego, ¿quién
@@ -96,7 +96,7 @@ La fortuna ha dejado su huella en él.
 Adornado con una triple línea de caracola,
 Su amenaza muestra un signo auspicioso. [^15]
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 El alto destino está claramente impreso
 En mandíbula masiva y pecho amplio,
@@ -160,7 +160,7 @@ Y que su hijo sea el heredero.
 Por las cadenas del deber firmemente atadas,
 El desdichado rey tuvo que obedecer por fuerza.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 Ráma, para complacer a Kaikeyí fue
 Obediente hasta el destierro.
@@ -206,7 +206,7 @@ Bharat, su hijo, se negó a reinar,
 Aunque impulsado por todo el tren de los nacidos dos veces [^28].
 Se dirigió al bosque para encontrarse con
 Hola hermano, caí a sus pies,
-Y gritó: 'Tu [reclamo](errata.htm#0) todos los hombres lo admiten:
+Y gritó: 'Tu [reclamo](../errata.htm#0) todos los hombres lo admiten:
 Oh, ven, sé nuestro señor y rey.
 Pero Rama eligió noblemente ser
 Observante del decreto de su padre.
@@ -226,7 +226,7 @@ Su visita a su tranquilo retiro,
 Lejos de la colina de Chitrakúta
 Ráma siguió adelante hasta que
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Bajo los frondosos árboles se encontraba
 De la madera primigenia de Dandaká,
@@ -336,7 +336,7 @@ Doscientas leguas a través del mar.
 Se dirigió a la ciudad de Lanká [^34],
 Donde Ravan ejercía su poder real.
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Allí, pensativos bajo las ramas de As'oka [^35]
 Encontró a la pobre Sitá, la esposa de Ráma.
@@ -424,7 +424,7 @@ El comerciante, obtiene suerte en el comercio;
 Y S'údras escuchando [^41] nunca fallará
 Para sacar provecho del cuento. [^42]
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 
 
@@ -521,7 +521,7 @@ Y meditaba profundamente, cautivado.
 Entonces glorioso Brahmá, [^46] Señor Altísimo.
 Creador de la tierra y del cielo,
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 El Dios de cuatro caras, para encontrarse con el sabio
 Llegamos a la ermita de Válmíki.
@@ -568,7 +568,7 @@ Cada uno de sus actos hoy se muestra,
 Su vida secreta no fue traicionada por nadie:
 Cómo Lakshman, cómo lucharon los gigantes;
 Con gran esfuerzo y pensamiento oculto:
-Y todo lo que le sucedió al hijo de Janak [1b](Libro_1_10#fn48)
+Y todo lo que le sucedió al hijo de Janak [1b](../Libro_1_10#fn48)
 Donde todos podían ver, donde nadie podía decir,
 Todo esto será verdaderamente
 Se te dio a conocer, oh el mejor de los santos.
@@ -579,7 +579,7 @@ El cuento divino en verso encantador.
 Mientras en esta tierra firme
 Los arroyos fluirán, las montañas se mantendrán,
 Hasta luego, en todo el mundo, tenlo por seguro,
-El gran Rámáyan perdurará. [2b](Libro_1_10#fn49)
+El gran Rámáyan perdurará. [2b](../Libro_1_10#fn49)
 Mientras que la antigua cepa del Rámáyan
 ¿Permanecerá glorioso en la tierra?
 A esferas superiores te elevarás
@@ -611,7 +611,7 @@ Y miró con ansioso pensamiento a su alrededor.
 Si se pudiese encontrar un conocimiento más completo.
 
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Sus labios fueron rociados primero con agua, [^50]
 Se sentó, en actitud reverente.
@@ -719,7 +719,7 @@ La cueva donde habitaba el oso.
 El ayuno propuesto, sus vidas para terminar;
 Sampati llegó a ser su amigo.
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 La escalada de la colina, el salto
 De Hanumán a través de las profundidades.
@@ -822,7 +822,7 @@ La palabra de su santo maestro se cumplió.
 Al igual que el propio Rama, de quien vinieron,
 Compartían su tamaño en cara y figura,
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Como si fuera de una bella piedra esculpida
 Habían crecido dos imágenes iguales.
@@ -929,7 +929,7 @@ Mientras los hombres buenos escuchan con deleite.
 En la orilla de Sarjú [^61], de amplio tamaño,
 El feliz reino de Kos'al se encuentra,
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Con fértil longitud de champaña justa
 Y rebaños y manadas y riquezas de grano.
@@ -980,7 +980,7 @@ Y carros para tracción y automóviles para velocidad.
 Con enviados enviados por reyes lejanos,
 Y mercaderes con sus cosas preciosas,
 Con banderas que juegan sobre sus tejados,
-Y armas que matan a cien; [1b](Libro_1_10#fn67)
+Y armas que matan a cien; [1b](../Libro_1_10#fn67)
 Todas las máquinas bélicas creadas por el hombre,
 Y toda clase de artesanos.
 Una ciudad rica sin comparación
@@ -994,7 +994,7 @@ El sonido del arco del arquero;
 Con bandas de héroes divinos hábiles
 En cada arma bélica, llena,
 Y guardado por los guerreros del enemigo,
-Mientras los Nágas protegen su hogar abajo. [2b](Libro_1_10#fn68)
+Mientras los Nágas protegen su hogar abajo. [2b](../Libro_1_10#fn68)
 Allí están los brahmanes más sabios de todos los tiempos
 La llama de la adoración alimenta,
 Y versado en toda la sabiduría de los Vedas,
@@ -1013,7 +1013,7 @@ Al campo y a la ciudad queridos,
 Gran Das'aratha, bueno y sabio.
 Bien leído en la página sagrada de las Escrituras:
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Con la intención de beneficiar a su reino,
 Poderoso y valiente y providente;
@@ -1101,7 +1101,7 @@ Al igual que Indra por su forma y velocidad,
 De las colinas de Váhlí [^71] y la arena de Sindhu [^72],
 Vanáyu [^73] y la tierra de Kámboja. [^74]
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Sus nobles elefantes se habían extraviado
 A través de la sombra de Vindhyan y del Himalaya,
@@ -1111,15 +1111,15 @@ Rivalizaban bien con la fama mundial
 De la gran estirpe de la que proceden,
 De Váman, vasto en tamaño,
 De la gloriosa línea de Mahápadma,
-Tuyo, Aujan, y Airávat, tuyo. [1](Libro_1_10#fn75)
+Tuyo, Aujan, y Airávat, tuyo. [1](../Libro_1_10#fn75)
 Defensores de los cielos.
 Con aquellos, inscritos en la clase cuádruple,
 A quienes todos sus poderosos parientes superan,
 A quién los hombres nombran Matangas,
 Y Mrigas vio blanco y negro,
 Y Bhadras de poder incansable,
-Y los Mandras son difíciles de domar. [2](Libro_1_10#fn76)
-Así, digna del nombre que llevaba, [3](Libro_1_10#fn77)
+Y los Mandras son difíciles de domar. [2](../Libro_1_10#fn76)
+Así, digna del nombre que llevaba, [3](../Libro_1_10#fn77)
 Ayodhyá por una legua o más
 Lanza una gloria brillante alrededor,
 Donde Das'aratha sabio y grande
@@ -1199,7 +1199,7 @@ Ninguna de vida perdida ni de mala fama,
 No hay mal genio de la dama del otro.
 Contentos con su suerte cada casta
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Pasaron días tranquilos en dichosa tranquilidad;
 Y, todos ellos empleados en tareas adecuadas,
@@ -1310,7 +1310,7 @@ Y hábil en halagos,
 Para que puedan engañar al ermitaño
 Con todo arte y artimaña amorosa
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Cuyo uso conocen tan bien,
 Y con sus brujerías seducen
@@ -1424,7 +1424,7 @@ Su alma modesta con suave deseo.
 Con el ceño fruncido, con la frente en alto y una sonrisa,
 Con cada acto que despierta la pasión
 
-<span id="p17">[<sup><small>pág. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 De mirada y mano de loto,
 Con todos los atractivos que emocionan
@@ -1550,7 +1550,7 @@ Habiéndole advertido así de sus enemigos
 Esa noche la pasó en casa.
 Y cuando salió el sol del día siguiente
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Y se dirigió hacia el bosque.
 
@@ -1669,7 +1669,7 @@ Para celebrar el sacrificio
 Para ganarle hijos y el Paraíso, [^82]
 Que se preparará gustosamente.
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 De él, el señor de los hombres al fin
 El beneficio que busca obtendrá,
@@ -1774,7 +1774,7 @@ Agraciado como el rey con amor y alabanza
 Y brilló en gloriosa luz con ella,
 Dulce S'ántá, para su ministro,
 Como Vas'ishtha, hijo de Brahmá, él
-Quien se casó con Santa Arundhati. [1](Libro_1_20#fn83)
+Quien se casó con Santa Arundhati. [1](../Libro_1_20#fn83)
 
 <figure class="table chapter-navigator">
   <table>

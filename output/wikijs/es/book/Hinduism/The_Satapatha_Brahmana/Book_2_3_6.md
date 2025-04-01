@@ -275,15 +275,15 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 ## Notas al pie
 
-[^380]: 140:3 El Sadas es un cobertizo o tienda, orientado al este con su lado largo, que debe medir dieciocho (o veintiuno, o veinticuatro, o, según el <i>S</i>ulva-sûtra, veintisiete) codos, el ancho por p. 141 seis codos (o diez, o la mitad del lado largo). El poste udumbara, según algunos, debe estar exactamente en el centro del cobertizo; o, según otros, a una distancia igual de los lados (largos) este y oeste; la 'columna vertebral' (cf. [p. 112](Book_2_3_5#p112), nota [2](Book_2_3_5#fn294)) en ese caso divide el edificio en dos partes iguales, una norte y otra sur. En el centro, el cobertizo debe tener la altura del sacrificador, y desde allí el techo debe inclinarse hacia los extremos, llegando hasta el ombligo del sacrificador. Según el Yagus Negro, la construcción de los Sadas precede a la excavación de los Uparavas, descrita en el Brâhma<i>n</i>a anterior. Taitt. S. VI, 2, 10, 11.
+[^380]: 140:3 El Sadas es un cobertizo o tienda, orientado al este con su lado largo, que debe medir dieciocho (o veintiuno, o veinticuatro, o, según el <i>S</i>ulva-sûtra, veintisiete) codos, el ancho por p. 141 seis codos (o diez, o la mitad del lado largo). El poste udumbara, según algunos, debe estar exactamente en el centro del cobertizo; o, según otros, a una distancia igual de los lados (largos) este y oeste; la 'columna vertebral' (cf. [p. 112](../Book_2_3_5#p112), nota [2](../Book_2_3_5#fn294)) en ese caso divide el edificio en dos partes iguales, una norte y otra sur. En el centro, el cobertizo debe tener la altura del sacrificador, y desde allí el techo debe inclinarse hacia los extremos, llegando hasta el ombligo del sacrificador. Según el Yagus Negro, la construcción de los Sadas precede a la excavación de los Uparavas, descrita en el Brâhma<i>n</i>a anterior. Taitt. S. VI, 2, 10, 11.
 
-[^381]: 141:1 El anta<i>h</i>pâta, véase [III, 5, I, 1](Book_2_3_5#v3_5_1_1).
+[^381]: 141:1 El anta<i>h</i>pâta, véase [III, 5, I, 1](../Book_2_3_5#v3_5_1_1).
 
 [^382]: 142:1 La parte que estará sobre el suelo será del tamaño del sacrificador.
 
 [^383]: 143:1 Svâru<i>h</i>, 'crecido naturalmente', Taitt. S. VI, 2, 10, 4.
 
-[^384]: 144:1 Véase [III, 5, 2, 11](Book_2_3_5#v3_5_2_11) con nota. El texto de Kâ<i>n</i>va dice: bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
+[^384]: 144:1 Véase [III, 5, 2, 11](../Book_2_3_5#v3_5_2_11) con nota. El texto de Kâ<i>n</i>va dice: bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
 
 [^385]: 145:1 El poste debe estar bifurcado en la parte superior, y entre los tocones de las ramas (formando, por así decirlo, sus orejas) se debe colocar una pieza de oro y verter el ghee sobre ella; cuando el ghee llegue al suelo, se debe pronunciar el «¡Svâhâ!» final, según la práctica en los homas; el oro representa, por así decirlo, el fuego sacrificial. Sâya<i>n</i>a sobre Taitt. S. I, 3, I; Kâty. VIII, 5, 37 y siguientes.
 
@@ -291,7 +291,7 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^387]: 146:1 Es decir, con vallas o esteras de hierba verticales, fijadas a los postes de la puerta por medio de una cuerda.
 
-[^388]: 146:2 Véase [III, 5, 3, 25](Book_2_3_5#v3_5_3_25).
+[^388]: 146:2 Véase [III, 5, 3, 25](../Book_2_3_5#v3_5_3_25).
 
 [^389]: 147:1 Al norte del atasco (apalamba) de los carros, Kâ<i>n</i>va rec.
 
@@ -299,7 +299,7 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^391]: 148:1 O, como lo entiende Sâya<i>n</i>a, 'aquel que es conocido (por su buena conducta) y repetidor (lector) del Veda'.
 
-[^392]: 148:2 Véase [IV, 3, 4, 19](Book_2_4_3#v4_3_4_19) seq.
+[^392]: 148:2 Véase [IV, 3, 4, 19](../Book_2_4_3#v4_3_4_19) seq.
 
 [^393]: 148:3 O, 'que (el fuego) no sufrirá mal' (ârti<i>m</i> na labheta, Sâya<i>n</i>a).
 
@@ -307,13 +307,13 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^395]: 149:1 Es decir, las partes del cuerpo que corresponden entre sí, como los brazos, los lomos, etc.
 
-[^396]: 149:2 Ver [III, 2, 4, 1](Book_2_3_2#v3_2_4_1) seq.; Oldenberg, Zeitsch. d. Alemán. Morg. Ges. XXXVII, pág. 67 siguientes; Weber, Indiana Stud. VIII, pág. 31.
+[^396]: 149:2 Ver [III, 2, 4, 1](../Book_2_3_2#v3_2_4_1) seq.; Oldenberg, Zeitsch. d. Alemán. Morg. Ges. XXXVII, pág. 67 siguientes; Weber, Indiana Stud. VIII, pág. 31.
 
 [^397]: 149:3 En Taitt. S. VI, 1, 6; Kâ<i>th</i>. XXIII, 10, supar<i>n</i>î, 'el bien alado', se identifica con el cielo.
 
 [^398]: 149:4 Lit. 'ella ganará a ambos', es decir, cada uno diciendo que el otro ganaría ella misma.
 
-[^399]: 150:1 «Y debido a que estos dos disputaron allí, se narra aquí la historia llamada “Saupar<i>n</i>akâdrava”», texto Kâ<i>n</i>va. Es difícil comprender cómo se insertó esta declaración aquí, a menos que se deba a una división en el texto, ya que este párrafo es el número diecinuevecientos de la recensión Mâdhyandina. Sin embargo, esta explicación no se aplicaría al texto Kâ<i>n</i>va.
+[^399]: 150:1 «Y debido a que estos dos disputaron allí, se narra aquí la historia llamada «Saupar<i>n</i>akâdrava»», texto Kâ<i>n</i>va. Es difícil comprender cómo se insertó esta declaración aquí, a menos que se deba a una división en el texto, ya que este párrafo es el número diecinuevecientos de la recensión Mâdhyandina. Sin embargo, esta explicación no se aplicaría al texto Kâ<i>n</i>va.
 
 [^400]: 150:2 'Con ella te redimiré de la muerte', recita Kâ<i>n</i>va.
 
@@ -321,9 +321,9 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^402]: 151:1 Sâya<i>n</i>a lo interpreta en el sentido de 'tragó (khâd)', pero me inclinaría a referirlo al mismo verbo 'khid' (? khad) que 'âkhidat', que viene inmediatamente después. ¿Podría el Sûtra VI, 1, 52 de Pâ<i>n</i>ini referirse a este pasaje? \[Kâ<i>s</i>. V., edición de Benarés <i>k</i>ikhâda; MS. Indian Office <i>k</i>akhâda.\] El texto de Kâ<i>n</i>va tiene la misma lectura: â<i>k</i>akhâda-âkhidat.
 
-[^403]: 152:1 Véase [III, 3, 3, 11](Book_2_3_3#v3_3_3_11).
+[^403]: 152:1 Véase [III, 3, 3, 11](../Book_2_3_3#v3_3_3_11).
 
-[^404]: 152:2 Para estas oblaciones vertidas sobre manojos ardientes de astillas y hierba sostenidos sobre los diversos fuegos del hogar, véase [IV, 4, 2, 7](Book_2_4_4#v4_4_2_7).
+[^404]: 152:2 Para estas oblaciones vertidas sobre manojos ardientes de astillas y hierba sostenidos sobre los diversos fuegos del hogar, véase [IV, 4, 2, 7](../Book_2_4_4#v4_4_2_7).
 
 [^405]: 152:3 Yad vâ uparyupari somam bibhrata<i>h</i> sa<i>m</i><i>k</i>arishyanti, Kâ<i>n</i>va rec. (sosteniendo el soma cerca de los dhish<i>n</i>yas). Este pasaje, pág. 153, aparentemente se refiere a los <i>K</i>amasa-Adhvaryus o coperos, quienes en la época de las Savanas sostienen sus copas llenas de soma, el cual, tras realizar libaciones en el fuego, es bebido por los sacerdotes.
 
@@ -341,11 +341,11 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^412]: 155:2 O, corresponde a (anu).
 
-[^413]: 155:3 Es decir, un pariente consanguíneo del sacrificador, que vivía con él. Cf. también [p. 40](Book_2_3_2#p40), nota [1](Book_2_3_2#fn111).
+[^413]: 155:3 Es decir, un pariente consanguíneo del sacrificador, que vivía con él. Cf. también [p. 40](../Book_2_3_2#p40), nota [1](../Book_2_3_2#fn111).
 
 [^414]: 156:1 Es decir, en el Âhavanîya del Prâ<i>k</i>înava<i>m</i><i>s</i>a (salón) que ahora sirve como Gârhapatya, y generalmente llamado <i>s</i>âlâdvârya, es decir, el que está cerca de la puerta del salón (delantera o del este).
 
-[^415]: 156:2 Véase [p. 121](Book_2_3_5#p121), nota [2](Book_2_3_5#fn322).
+[^415]: 156:2 Véase [p. 121](../Book_2_3_5#p121), nota [2](../Book_2_3_5#fn322).
 
 [^416]: 156:3 P<i>ri</i>shad-â<i>g</i>ya (lit. mantequilla moteada) es mantequilla clarificada mezclada con leche agria.
 
@@ -357,21 +357,21 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^420]: 158:1 Los «Vâyavya» son copas de madera con forma de mortero. Parece incluir aquí todas las copas de soma (véase IV, 1, 3, 7-10; Kâty, VIII, 7, 5).
 
-[^421]: 158:2 Véase [III, 4, 1, 17](Book_2_3_4#v3_4_1_17)\-[18](Book_2_3_4#v3_4_1_18).
+[^421]: 158:2 Véase [III, 4, 1, 17](../Book_2_3_4#v3_4_1_17)\-[18](../Book_2_3_4#v3_4_1_18).
 
-[^422]: 158:3 Es decir, en la ofrenda para invitados, véase [p. 103](Book_2_3_4#p103), nota [3](Book_2_3_4#fn269). Estaba relacionado con los tres objetos mencionados inmediatamente antes.
+[^422]: 158:3 Es decir, en la ofrenda para invitados, véase [p. 103](../Book_2_3_4#p103), nota [3](../Book_2_3_4#fn269). Estaba relacionado con los tres objetos mencionados inmediatamente antes.
 
 [^423]: 158:4 Los vapâ<i>s</i>rapa<i>n</i>î son palos de madera de kârshmarya.
 
-[^424]: 158:5 Para estos objetos, véase [p. 90](Book_2_3_4#p90), nota [5](Book_2_3_4#fn241).
+[^424]: 158:5 Para estos objetos, véase [p. 90](../Book_2_3_4#p90), nota [5](../Book_2_3_4#fn241).
 
-[^425]: 158:6 «Así, ese sacrificio asciende a aquel mundo celestial, y, siendo el sacrificio el sacrificador, este va allí», texto de Kâ<i>n</i>va. Véase [III, 6, 1, 28](Book_2_3_6#v3_6_1_28), donde se dice que los dioses alcanzaron la inmortalidad gracias al Âgnîdhrîya.
+[^425]: 158:6 «Así, ese sacrificio asciende a aquel mundo celestial, y, siendo el sacrificio el sacrificador, este va allí», texto de Kâ<i>n</i>va. Véase [III, 6, 1, 28](../Book_2_3_6#v3_6_1_28), donde se dice que los dioses alcanzaron la inmortalidad gracias al Âgnîdhrîya.
 
 [^426]: 159:1 También las dos telas filtrantes con flecos (da<i>s</i>âpavitre), según la rec. Kâ<i>n</i>va.
 
-[^427]: 160:1 'Luego deposita el Prastara en el montículo ([p. 140](Book_2_3_5#p140), nota [2](Book_2_3_5#fn377)), deposita allí el <i>g</i>uhû y el upabh<i>ri</i>t y el p<i>ri</i>shadâ<i>g</i>ya; y habiendo tocado los materiales del sacrificio y tocado el agua, toma al rey y entra (al cobertizo del carro),' etc. Kâ<i>n</i>va rec.
+[^427]: 160:1 'Luego deposita el Prastara en el montículo ([p. 140](../Book_2_3_5#p140), nota [2](../Book_2_3_5#fn377)), deposita allí el <i>g</i>uhû y el upabh<i>ri</i>t y el p<i>ri</i>shadâ<i>g</i>ya; y habiendo tocado los materiales del sacrificio y tocado el agua, toma al rey y entra (al cobertizo del carro),' etc. Kâ<i>n</i>va rec.
 
-[^428]: 161:1 Véase [III, 3, 4, 21](Book_2_3_3#v3_3_4_21).
+[^428]: 161:1 Véase [III, 3, 4, 21](../Book_2_3_3#v3_3_4_21).
 
 [^429]: 161:2 Así (iti), es decir, con las siguientes modificaciones de la fórmula correspondiente, usada en la «consagración intermedia» [III, 4, 3, 9] (Libro 2, 3, 4, v3, 4, 3, 9). Quizás «iti» signifique «así», es decir, mientras mantenía los dedos hacia adentro; o bien, podría significar «como tal» (como hombre libre).
 
@@ -383,11 +383,11 @@ Luego ella se lo llevó mientras estaba bajo el cuidado del Akhâvâka, por lo q
 
 [^433]: 164:1 Es decir, lo coloca o lo sostiene contra el lugar donde está a punto de golpear el árbol, de modo de cortar primero la hierba.
 
-[^434]: 164:2 Para el destino de este trozo de corteza, véase [III, 7, 1, 8](Book_2_3_7#v3_7_1_8).
+[^434]: 164:2 Para el destino de este trozo de corteza, véase [III, 7, 1, 8](../Book_2_3_7#v3_7_1_8).
 
 [^435]: 164:3 Es decir, no debe cortar el árbol demasiado alto, de modo que el eje de la carreta pueda pasar fácilmente sobre el tocón restante sin tocarlo. El texto del Kâ<i>n</i>va dice: «tam anakshastambhe v<i>ri</i><i>s</i><i>k</i>ed uta hy enam anasâ vakshyanto bhavanty uto svarga<i>m</i> hâsya loka<i>m</i> yate (sic) 'kshastambha<i>h</i> syât tasmâd anakshastambhe v<i>ri</i><i>s</i><i>k</i>et». No se dice en ninguna parte que la yûpa sea transportada en una carreta hasta el lugar de los sacrificios, si es que esa afirmación se refiere a ella. El comentario de Sâya<i>n</i>a es muy corrupto aquí, pero parece interpretar el pasaje en el sentido de que algunas personas podrían transportar la estaca en el carro (pakshe anasâ yûpa<i>m</i> nayeyu<i>h</i>) y que en ese caso el carro sería obstruido.
 
-[^436]: 165:1 O, 'de ahí que los árboles vuelvan a crecer del tocón (? después de la tala, “â vra<i>s</i><i>k</i>anât”) a partir de la semilla.'
+[^436]: 165:1 O, 'de ahí que los árboles vuelvan a crecer del tocón (? después de la tala, «â vra<i>s</i><i>k</i>anât») a partir de la semilla.'
 
 [^437]: 167:1 Sobre la conexión del Pa<i>ñ</i><i>k</i>ada<i>s</i>a-stoma con Indra, el portador del rayo, véase la parte i, introducción, pág. xviii.
 

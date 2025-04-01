@@ -42,7 +42,7 @@ Conocimiento recto, fe, conducta y austeridades; los seres que siguen este camin
 
 I. El conocimiento es quíntuple: 1. Sruta, conocimiento derivado de los libros sagrados; 2. Âbhinibôdhika, percepción [^395]; 3. Avadhi, conocimiento sobrenatural; 4. Mana<i>h</i>paryâya [^396], conocimiento de los pensamientos ajenos; 5. Kêvala, el conocimiento supremo e ilimitado. (4)
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Este es el conocimiento quíntuple. Los sabios han enseñado el conocimiento de las sustancias, las cualidades y todos los desarrollos [^397]. (5)
 

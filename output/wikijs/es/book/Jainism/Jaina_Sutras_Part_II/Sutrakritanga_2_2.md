@@ -102,7 +102,7 @@ Como quien se clava una flecha [^1046] en el cuerpo y no la extrae (por temor al
 
 12\. Ahora tratamos del duodécimo tipo de pecado, a saber, la avaricia. Aquellos (monjes herejes) que viven en bosques, chozas, cerca de aldeas, o practican ritos secretos, no se controlan bien ni se abstienen de matar a toda clase de seres vivos. Emplean un lenguaje que es verdadero y falso a la vez [^1048]: «No me golpees, golpea a otros; no me abuses, abuses de otros; no me captures, captures a otros; no me atormentes, atormentes a otros; no me prives de la vida, prives de la vida a otros [^1049]». Y así se entregan a los placeres sensuales, los desean, se sienten cautivos de ellos, los aman apasionadamente durante cuatro o cinco años, seis o diez años; (el período) puede ser más corto o más largo. Tras haber disfrutado de estos placeres y haber muerto en su tiempo asignado, nacerán en lugares habitados por asuras y malhechores. Y cuando se liberen de ellos, nacerán sordos y mudos, o ciegos [^1050], o mudos de nacimiento. Por lo tanto, les corresponde el mal karma. Esta es la duodécima clase de pecado, a saber, la codicia. (21)
 
-<span id="p364">[<sup><small>pág. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Un <i>Srama<i>n</i>a o Brâhma<i>n</i>a piadoso debe comprender bien estos doce tipos de pecados [^1051]. (22)
 
@@ -118,7 +118,7 @@ Un hombre, al hacerse compañero de otro, lo seguirá a todas partes (y, habién
 
 Un hombre, al convertirse en ayudante de otro hombre, siempre lo atiende (y habiéndole inspirado confianza), lo golpea, etc. (todo hasta degradarse). (30)
 
-<span id="p368">[<sup><small>pág. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Un hombre, al encontrarse con alguien en el camino, se golpea, etc. (todo hasta degradarse). (3 I)
 
@@ -278,7 +278,7 @@ Pero aquellos <i>Srama<i>n</i>as y Brâhma<i>n</i>as que dicen que no se debe go
 
 Así pues, aquellos seres que practican las primeras doce clases de acciones [^1130], no han alcanzado la perfección, (etc., hasta el punto de) no han, ni hacen, ni pondrán fin a toda miseria. (83)
 
-<span id="p388">[<sup><small>pág. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 Pero aquellos seres que practican el decimotercer tipo de acción, han alcanzado la perfección, (etc., todo hasta) han puesto, o pondrán, fin a toda miseria. (84)
 
@@ -342,7 +342,7 @@ Así lo digo.
 
 [^1046]: 359:2 Se especializan en el texto como <i>S</i>yâmaka<i>m</i> tri<i>n</i>a<i>m</i>, mukundaka vrîhiûsita y kâlêsuka. Solo los dos primeros se mencionan en nuestros diccionarios.
 
-[^1047]: 359:3 En el Dipikâ se cita el siguiente versus memorialis, en el que se definen los nombres de los lugares mencionados en el texto: grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || Se verá que el significado de estos términos dados en este verso difiere del que se da en las notas [3](Uttaradhyayana_30#fn473)\-[11](Uttaradhyayana_30#fn481), [p. 176](Uttaradhyayana_30#p176).
+[^1047]: 359:3 En el Dipikâ se cita el siguiente versus memorialis, en el que se definen los nombres de los lugares mencionados en el texto: grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || Se verá que el significado de estos términos dados en este verso difiere del que se da en las notas [3](../Uttaradhyayana_30#fn473)\-[11](../Uttaradhyayana_30#fn481), [p. 176](../Uttaradhyayana_30#p176).
 
 [^1048]: 360:1 El mismo pasaje aparece en Kalpa Sûtra, Vidas de los <i>G</i>inas, § 92, parte i, pág. 249.
 
@@ -360,7 +360,7 @@ Así lo digo.
 
 [^1055]: 362:4 Pa<i>k</i><i>k</i>âyâti, pratyâyâti. Dîpikâ: avi<i>s</i>vâsyatayâ pratyâyâti prakhyâti<i>m</i> yâti.
 
-[^1056]: 363:1 Respecto de la cuádruple división del habla, véase arriba, [p. 335](Sutrakritanga_2_1#p335), y la parte i, p. 150, nota 2.
+[^1056]: 363:1 Respecto de la cuádruple división del habla, véase arriba, [p. 335](../Sutrakritanga_2_1#p335), y la parte i, p. 150, nota 2.
 
 [^1057]: 363:2 El significado es que los brahmanes declaran que es un crimen capital matar a un brahmán, pero venial matar a un sudra.
 

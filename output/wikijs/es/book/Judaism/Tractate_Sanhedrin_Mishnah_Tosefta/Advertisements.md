@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:41:3Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 (Estos anuncios aparecieron al final del libro original. Esta parte fue transcrita para que estuviera completa. No había números de página en esta sección; los números de página se han proporcionado por razones técnicas.—JBH.)
 
@@ -47,7 +47,7 @@ El Reverendo CANON GH BOX, MA
 
 El objetivo de la Serie es proporcionar libros de texto breves, económicos y prácticos para estudiantes, tanto para quienes trabajan de forma independiente como en clase. El objetivo es proporcionar traducciones de textos importantes sin la carga de comentarios ni notas elaboradas, que pueden encontrarse en obras más extensas.
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ### PRIMERA SERIE
 
@@ -77,7 +77,7 @@ Textos judíos palestinos y afines
 
 11\. Los Testamentos de Abraham, Isaac y Jacob. El Reverendo Canon Box y S. Gazelee.
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ### PRIMERA SERIE—_continuación_
 
@@ -105,7 +105,7 @@ Textos judeo-helenísticos
 
 7\. El libro de José y Asenat. Traducido del texto griego por EW Brooks.
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ### TERCERA SERIE
 

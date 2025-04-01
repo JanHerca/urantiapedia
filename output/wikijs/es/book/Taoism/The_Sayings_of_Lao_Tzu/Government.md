@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 No exaltar el valor evita que la gente compita. No valorar lo difícil de conseguir evita que la gente robe. No mostrarles lo que pueden codiciar es la manera de proteger sus mentes del desorden.
 
@@ -58,7 +58,7 @@ Si el gobierno es perezoso y tolerante, la gente será honesta y libre de engañ
 
 Gobierna una gran nación como cocinarías un pez pequeño. [^4]
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Si el Imperio se rige según el Tao, los espíritus incorpóreos no manifestarán poderes sobrenaturales. No es que carezcan de poder sobrenatural, sino que no lo usarán para dañar a la humanidad. De nuevo, no es que sean incapaces de dañar a la humanidad, sino que ven que el Sabio tampoco lo hace. Si entonces ni el Sabio ni los espíritus causan daño, su virtud converge hacia un fin benéfico.
 

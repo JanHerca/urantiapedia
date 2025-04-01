@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:2Z
   </table>
 </figure>
 
-<span id="p481">[<sup><small>pág. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 ## EL CONSEJO DE HERBERT SPENCER A JAPÓN
 
@@ -49,7 +49,7 @@ Respecto a las demás preguntas que plantea, permítame, en primer lugar, respon
 
 \[1. Estas cartas aún no se han hecho públicas.\]
 
-<span id="p482">[<sup><small>pág. 482</small></sup>]</span>
+<span id="p482"><sup><small>[ p. 482 ]</small></sup></span>
 
 Me parece que las únicas formas de intercambio que pueden permitir con ventaja son las que son indispensables para el intercambio de mercancías: la importación y exportación de productos físicos y mentales. No se deben conceder más privilegios a personas de otras razas, y especialmente a las de las razas más poderosas, que los absolutamente necesarios para el logro de estos fines. Al parecer, proponen, mediante la revisión del tratado con las potencias de Europa y América, "abrir todo el Imperio a los extranjeros y al capital extranjero". Lamento que esto sea una política fatal. Si desean ver lo que probablemente ocurrirá, estudien la historia de la India. Si una de las razas más poderosas obtiene un punto de apoyo, inevitablemente, con el tiempo, se desarrollará una política agresiva que conducirá a enfrentamientos con Japón; estos enfrentamientos se presentarán como ataques japoneses que deberán ser vengados, según sea el caso; una porción de territorio será confiscada y se requerirá que se convierta en un asentamiento extranjero; y de esto, eventualmente, surgirá la subyugación de todo el Imperio japonés. Creo que tendréis grandes dificultades para evitar ese destino en cualquier caso, pero facilitaréis el proceso si permitís algunos privilegios a los extranjeros más allá de los que he indicado.
 

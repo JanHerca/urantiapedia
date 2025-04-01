@@ -99,11 +99,11 @@ E. B. COWELL.
 
 [^5]: viii:3 Véase el artículo del Prof. MM Künté, _Journ. RAS Ceylon_, viii. 123.
 
-[^6]: viii:4 En la curiosa descripción del bosque budista en el Harsha-carita, viii., Bāṇa menciona búhos “que repetían los Jātakas del Bodhisattva, habiendo obtenido la iluminación al escucharlos recitados continuamente”.
+[^6]: viii:4 En la curiosa descripción del bosque budista en el Harsha-carita, viii., Bāṇa menciona búhos «que repetían los Jātakas del Bodhisattva, habiendo obtenido la iluminación al escucharlos recitados continuamente».
 
-[^7]: x:1 Tenemos una ilustración interesante del carácter proverbial de algunas de las historias de Jātaka en los Aforismos Sāṇkhya, iv. 11, “quien no tiene esperanza es feliz como Piṅgalā”, que encuentra su explicación en Jāt. 330. También se hace referencia a él en el Mahābh. xii. 6520.
+[^7]: x:1 Tenemos una ilustración interesante del carácter proverbial de algunas de las historias de Jātaka en los Aforismos Sāṇkhya, iv. 11, «quien no tiene esperanza es feliz como Piṅgalā», que encuentra su explicación en Jāt. 330. También se hace referencia a él en el Mahābh. xii. 6520.
 
-[^8]: x:2 Como, por ejemplo, Fausböll, iii. <span id="p495">[<sup><small>pág. 495</small></sup>]</span>. Cf. _Divyāvad_. <span id="p377">[<sup><small>pág. 377</small></sup>]</span>, 1.
+[^8]: x:2 Como, por ejemplo, Fausböll, iii. <span id="p495"><sup><small>[ p. 495 ]</small></sup></span>. Cf. _Divyāvad_. <span id="p377"><sup><small>[ p. 377 ]</small></sup></span>, 1.
 
 [^9]: x:3 Véase también varios artículos en el octavo volumen del _Journal of the Ceylon Branch of the RA Society_.
 

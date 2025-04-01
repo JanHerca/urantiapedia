@@ -1,6 +1,6 @@
 ---
 title: "XV. Ram Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>pág. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Este Ya<i>s</i>t lleva el nombre de Râma <i>H</i><i>v</i>âstra, el Genio que preside el día 21 del mes (Sîrôzah, § 21), y está dedicado a su Hamkâr, Vayu.
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 1\. Sacrificaré a las Aguas y a Aquel que las divide [^1097]. Sacrificaré a la Paz, cuyo aliento es amigable, y al Bienestar, ambos.
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 A este Vayu ofrecemos sacrificios, a este Vayu invocamos, por esta casa, por el dueño de esta casa y por el hombre que ofrece libaciones y ofrendas. A este excelente Dios ofrecemos sacrificios, para que acepte nuestra comida y nuestras oraciones, y nos conceda, a cambio, aplastar a nuestros enemigos de un solo golpe.
 
@@ -184,7 +184,7 @@ A este Vayu sacrificamos, a este Vayu invocamos...
 
 32\. Le rogó un favor, diciendo: «Concédeme esto, ¡oh Vayu!, que trabajas con gran maestría, para que el valiente Husravah, quien une a las naciones arias en un solo reino [^1121], no nos ataque; para que pueda huir del rey Husravah [^1122];...
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 'Que el rey Husravah y todos los arios del bosque lo derroten [^1123].'
 
@@ -214,7 +214,7 @@ Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado
 
 38\. Sacrificaré a las Aguas y a Aquel que las divide . . . .
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 A este Vayu sacrificamos, a este Vayu invocamos...
 
@@ -274,7 +274,7 @@ Mi nombre es El que cruza fácilmente.
 
 Mi nombre es El que va arrojando lejos.
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Mi nombre es El que aplasta de un golpe.
 
@@ -388,21 +388,21 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1161]: 250:2 Fraspâ<i>t</i>, persa ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25000.jpg).
 
-[^1162]: 250:3 Cf. [p. 169](Yasts_12#p169), nota [5](Yasts_12#fn783).
+[^1162]: 250:3 Cf. [p. 169](../Yasts_12#p169), nota [5](../Yasts_12#fn783).
 
-[^1163]: 250:4 Véase [p. 10](Sirozahs_1#p10), nota [4](Sirozahs_1#fn69).
+[^1163]: 250:4 Véase [p. 10](../Sirozahs_1#p10), nota [4](../Sirozahs_1#fn69).
 
 [^1164]: 250:5 Como Vayu, la atmósfera, es el lugar en el que tiene lugar el conflicto de los dos principios, una parte de él pertenece al Espíritu Maligno (ver Vend. Introd. IV, 17).
 
 [^1165]: 251:1 El resto como en la cláusula 1.
 
-[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](Yasts_5#p58), nota [2](Yasts_5#fn295).
+[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](../Yasts_5#p58), nota [2](../Yasts_5#fn295).
 
 [^1167]: 251:3 Cf. Yt. V, 21-23.
 
 [^1168]: 251:4 Introducido desde el § 4 en esta y todas las cláusulas similares, excepto la relacionada con A<i>z</i>i Dahâka (§ 21).
 
-[^1169]: 252:1 Takhma Urupa (en la leyenda posterior, Tahmûrâf) era hermano de Yima. Reinó durante treinta años y montó a Ahriman, convertido en caballo. Pero finalmente su esposa, engañada por Ahriman, le reveló el secreto del poder de su esposo, y Tahmûrâf fue absorbido por su caballo. Pero Yima logró recuperar el cuerpo de su hermano del cuerpo de Ahriman y recuperó así las artes y la civilización que habían desaparecido junto con Tahmûrâf (ver Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionale Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. arriba, [p. 60](Yasts_5#p60), nota [1](Yasts_5#fn302)).
+[^1169]: 252:1 Takhma Urupa (en la leyenda posterior, Tahmûrâf) era hermano de Yima. Reinó durante treinta años y montó a Ahriman, convertido en caballo. Pero finalmente su esposa, engañada por Ahriman, le reveló el secreto del poder de su esposo, y Tahmûrâf fue absorbido por su caballo. Pero Yima logró recuperar el cuerpo de su hermano del cuerpo de Ahriman y recuperó así las artes y la civilización que habían desaparecido junto con Tahmûrâf (ver Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionale Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. arriba, [p. 60](../Yasts_5#p60), nota [1](../Yasts_5#fn302)).
 
 [^1170]: 252:2 Azinava<i>n</i><i>t</i> o zaênahva<i>n</i><i>t</i>: mantuvo ese epíteto en la tradición posterior: Zînavend, 'quod cognomen virum significat armis probe instructum' (Hamza Ispahensis, p. 20, tr. Gottwaldt).
 
@@ -438,7 +438,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1186]: 257:2 Véase Yt. IX, 26.
 
-[^1187]: 257:3 Véase [p. 77](Yasts_5#p77), nota [1](Yasts_5#fn381).
+[^1187]: 257:3 Véase [p. 77](../Yasts_5#p77), nota [1](../Yasts_5#fn381).
 
 [^1188]: 258:1 Cabe dudar si la alusión aquí es a una leyenda de matrimonio en masa, tras el matrimonio de Hutaosa con Vî<i>s</i>tâspa, o si el aoristo se usa con un significado indicativo: 'A él le hacen las doncellas que no han conocido varón... Le piden un favor, diciendo...' Cf. Yt. XVI, 17.
 

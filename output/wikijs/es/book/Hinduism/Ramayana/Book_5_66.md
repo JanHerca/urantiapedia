@@ -120,7 +120,7 @@ Esta vida oprimida por la aflicción y el dolor:
 Y cuando se acabe el mes, yo
 La presa de los gigantes seguramente debe morir.
 
-<span id="p427">[<sup><small>pág. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 
 

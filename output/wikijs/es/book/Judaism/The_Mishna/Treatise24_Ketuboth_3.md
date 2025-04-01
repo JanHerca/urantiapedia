@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Quien seduce a una doncella paga el triple de daños y perjuicios, y quien la viola, el cuádruple. El seductor paga por su deshonra, la pérdida de valor y la multa; además, el violador paga por el dolor físico que le ha infligido. ¿Cuál es la diferencia entre el castigo del seductor y el del violador? El violador paga por el dolor físico; el seductor no. El violador debe pagar de inmediato, el seductor si se niega a casarse con ella. El violador debe beber de su vaso contaminado, mientras que el seductor puede, si lo desea, divorciarse de ella.
 
-<span id="p248">[<sup><small>pág. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 § 5. ¿Cómo debe entenderse que «él debe beber de su vasija contaminada»? Aunque ella sea coja, ciega o tenga llagas [lepra], debe casarse y no puede divorciarse de ella. Pero si descubre en ella una conducta vergonzosa [después del matrimonio], [^809] o si no es apta para entrar en la congregación de Israel, no se le permite conservarla; pues está dicho: «Para él será una esposa, una esposa idónea y apropiada para él». [^810]
 

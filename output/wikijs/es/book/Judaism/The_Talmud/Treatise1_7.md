@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 1\. Tres hombres que hayan comido juntos están obligados a bendecir después de comer. "¿Si alguien ha comido de algo dudoso, ya sea que haya pagado el diezmo o no; o del primer diezmo del cual se haya tomado la ofrenda elevada; o del segundo diezmo o de cosas consagradas que hayan sido redimidas; también, si el camarero ha comido una cantidad del tamaño de una aceituna; o si un samaritano está entre los presentes?" "Se debe decir la bendición." "¿Pero si alguien ha comido de lo no diezmado —o de los primeros diezmos de los cuales no se ha tomado la ofrenda elevada— o de cosas consagradas que no hayan sido redimidas; o si el camarero ha comido una cantidad menor al tamaño de una aceituna, o si un extraño está entre los presentes?" "No se debe decir la bendición."
 

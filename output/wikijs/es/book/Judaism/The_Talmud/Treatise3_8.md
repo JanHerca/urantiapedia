@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 1\. Se puede servir vino suficiente para la copa, [^117] leche suficiente para un trago, miel suficiente para una contusión, aceite suficiente para ungir un miembro pequeño, agua suficiente para humedecer el colirio, y el resto de las bebidas un cuarto de log, y lo que se pueda verter [^118] un cuarto de log. Rabí Simeón dice: «Todos por un cuarto de log». Y no mencionaron estas medidas, salvo para quienes las reservan.
 

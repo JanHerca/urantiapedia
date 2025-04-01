@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p357">[<sup><small>pág. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 ## LXI. TRATADO YADAIM
 

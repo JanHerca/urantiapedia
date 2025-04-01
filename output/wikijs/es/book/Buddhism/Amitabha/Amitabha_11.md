@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Açvaghosha mantenía conversaciones diarias con Kanishka, a las que no sólo sus amigos Charaka y el rey de Magadha, sino también la princesa Bhadraçrî, su novia electa, solían unirse.
 
@@ -40,13 +40,13 @@ Un día, Subâhu se vio detenido por importantes asuntos de estado, y cuando hiz
 
 —Mi regio amigo —dijo Kanishka—, ¿qué te preocupa? ¡Qué terrible debe ser la calamidad que afecta a un hombre de tu serenidad! ¿Estás tú o algún pariente en peligro de muerte? O, por favor, ¿qué otra cosa te preocupa?
 
-“Mi querido amigo y aliado”, respondió el rey Subâhu, “es tu vida la que está en peligro. Vengo a consultarte sobre cómo podemos salvarte de la peligrosa situación en la que te ha colocado el falso patriotismo de mi pueblo. Algunos de mis generales del sur, recién llegados con subsidios que debí haber tenido al comienzo de la guerra, conspiraron con mi primer ministro para rodear el palacio, hacerte prisionero y pasarte a cuchillo; luego, atacar a tus soldados incautos y expulsarlos del país. Todo se ha planeado en la más estricta privacidad, y tu noble confianza en mi fe y amistad les ha facilitado reemplazar gradualmente a los guardias por sus amigos, hasta que ahora todo les sale a su manera, y tengo entendido que, a menos que me una a los conspiradores, elegirán a otro rey”.
+«Mi querido amigo y aliado», respondió el rey Subâhu, «es tu vida la que está en peligro. Vengo a consultarte sobre cómo podemos salvarte de la peligrosa situación en la que te ha colocado el falso patriotismo de mi pueblo. Algunos de mis generales del sur, recién llegados con subsidios que debí haber tenido al comienzo de la guerra, conspiraron con mi primer ministro para rodear el palacio, hacerte prisionero y pasarte a cuchillo; luego, atacar a tus soldados incautos y expulsarlos del país. Todo se ha planeado en la más estricta privacidad, y tu noble confianza en mi fe y amistad les ha facilitado reemplazar gradualmente a los guardias por sus amigos, hasta que ahora todo les sale a su manera, y tengo entendido que, a menos que me una a los conspiradores, elegirán a otro rey».
 
 —¿Y qué es lo que te causa placer en este asunto? —preguntó Kanishka, quien no delataba más preocupación que si estuviera hablando de una partida de damas.
 
 —¿Mi placer? —exclamó el desconsolado rey—. No preguntes cuál es mi placer. Solo veo mi deber, ¡y es salvarte o morir contigo!
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Kanishka era un hombre de hechos, no de palabras. Le ordenó a Charaka que izara de inmediato en la torre del palacio una bandera azul, señal secreta para convocar a los generales de Gandhâra que acampaban en las inmediaciones de la ciudad. Tras investigar la situación y enterarse de que los conspiradores estaban en posesión de todas las puertas, solicitó al rey que llamara al traidor primer ministro que encabezaba la conspiración, indicando, como si nada hubiera sucedido, que quería hablar con él.
 
@@ -58,9 +58,9 @@ Con una cortesía regia irreprochable, el rey Kanishka respondió: «Permítanme
 
 El primer ministro se sonrojó y miró al rey con aire inquisitivo; pero la mirada del rey Kanishka permanecía serena y no mostraba la menor sospecha. Al mismo tiempo, había una firmeza y determinación en la actitud del rey que hizo que el traicionero ministro se estremeciera y se sometiera.
 
-“Éste es el camino al salón donde están reunidos mis amigos”, dijo el primer ministro, y le mostró el camino al rey.
+«Éste es el camino al salón donde están reunidos mis amigos», dijo el primer ministro, y le mostró el camino al rey.
 
-“Esperen un momento”, dijo el rey Kanishka, “sería un error por nuestra parte si mi hermano real, el rey <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> Subâhu, no estuviera presente. Llamemos a mis consejeros y generales para manifestarles nuestro deseo de honrar a sus invitados”.
+«Esperen un momento», dijo el rey Kanishka, «sería un error por nuestra parte si mi hermano real, el rey <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> Subâhu, no estuviera presente. Llamemos a mis consejeros y generales para manifestarles nuestro deseo de honrar a sus invitados».
 
 Mientras tanto, algunos jinetes habían llegado, y sus oficiales exigieron entrar a las puertas del palacio para informar de su presencia al rey. Fueron anunciados y admitidos.
 

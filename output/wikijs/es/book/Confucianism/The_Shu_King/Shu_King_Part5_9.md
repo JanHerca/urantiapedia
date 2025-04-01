@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 De los diez hijos del rey Wăn, el noveno se llamaba Fâng y generalmente se le conoce como Khang Shû, o «el tío (el príncipe) de Khang». Debemos concluir que Khang era el nombre del feudo de Făng, perteneciente al dominio real. Este libro contiene el cargo que se le otorgó al ser nombrado marqués de Wei (el nombre chino es bastante diferente del del feudo del conde de Wei), cuya principal ciudad era Kâu-ko, que había sido la capital de Kâu-hsin. Se extendía hacia el oeste desde el actual Khâi Kâu, departamento de Tâ-ming. Kâih-lî, hasta los límites de los departamentos de Wei-hui y Hwâi-khâing, Ho-nan.
 
@@ -46,7 +46,7 @@ En el tercer mes, cuando la luna comenzaba a menguar, el duque de Kâu comenzó 
 
 2\. El rey dice: «¡Oh, Fang! Ten esto en cuenta. Tu éxito en la gestión del pueblo dependerá de que sigas con reverencia a tu padre Wan; pon en práctica las virtuosas palabras que has escuchado y vístete con ellas. Además, dondequiera que vayas, busca entre los antiguos reyes sabios de Yin lo que puedas usar para proteger y dirigir a su pueblo. Además, debes estudiar a distancia las costumbres de los antiguos hombres sabios de Shang, para que puedas fortalecer tu corazón y saber cómo instruir al pueblo. Además, debes investigar lo que se puede aprender de los sabios reyes de la antigüedad y emplearlo para tranquilizar y proteger al pueblo». (Por último), amplía (tus pensamientos) hasta (la comprensión de todos los) principios celestiales, y la virtud se mostrará ricamente en tu persona, de modo que no harás inútil el encargo del rey.'
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 El rey dice: «¡Oh! Făng, pequeño, ten mucho cuidado, como si estuvieras enfermo. Aunque el Cielo sea terrible, ayuda a los sinceros. Los sentimientos del pueblo pueden discernirse en su mayoría; pero es difícil preservar el apego de las clases bajas. Dondequiera que vayas, dedica todo tu corazón. No busques el reposo ni te apasiones por la comodidad y el placer. He leído el dicho: «La insatisfacción no se debe tanto a las grandes cosas ni a las pequeñas, sino a la observancia de los principios (de un gobernante) o a su falta, y a su energía en la conducta o a la falta». Sí, es tuyo, pequeño, es tu deber ampliar la influencia real y proteger al pueblo de Yin en armonía con sus sentimientos. Así también ayudarás al rey, consolidando el designio del Cielo y renovando al pueblo.»
 
@@ -58,7 +58,7 @@ El rey dice: «En asuntos que excedan (su supervisión inmediata), establezcan l
 
 El rey dice: «Al establecer el asunto de las leyes, los castigos se determinarán según las leyes regulares de Yin. Pero debes asegurarte de que esos castigos, y en especial la pena de muerte, sean justos. Y no debes permitir que se deformen para que concuerden con tus propias inclinaciones, oh Fang. Entonces serán totalmente conformes con lo correcto, y podrás decir: «Están debidamente ordenados»; sin embargo, debes decir: «Quizás aún no sean totalmente conformes con lo correcto». Sí, aunque eres el pequeño, ¿quién tiene un corazón como tú, oh Fang? Mi corazón y mi virtud también te son conocidos.
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 'Todos aquellos que por sí mismos cometen crímenes, robando, hurtando, practicando villanía y traición, y que matan a hombres o los atacan violentamente para tomar sus propiedades, siendo imprudentes y sin miedo a la muerte; estos son aborrecidos por todos.'
 

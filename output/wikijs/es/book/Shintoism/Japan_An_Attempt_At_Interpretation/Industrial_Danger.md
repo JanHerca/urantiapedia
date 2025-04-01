@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:2Z
   </table>
 </figure>
 
-<span id="p443">[<sup><small>pág. 443</small></sup>]</span>
+<span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 
 En todas partes, el curso de la civilización humana ha sido moldeado por la misma ley evolutiva; y así como la historia temprana de las antiguas comunidades europeas puede ayudarnos a comprender las condiciones sociales del antiguo Japón, un período posterior de la misma historia puede ayudarnos a adivinar algo del probable futuro del nuevo Japón. El autor de _La Cité Antique_ ha demostrado que la historia de todas las antiguas comunidades griegas y latinas incluyó cuatro períodos revolucionarios.\[1\] La primera revolución tuvo como resultado, en todas partes, la retirada del poder político al rey-sacerdote; a quien, sin embargo, se le permitió conservar la autoridad religiosa. El segundo período revolucionario presenció la disolución de la gens o {en griego _génos_}, la liberación del cliente de la autoridad del patrón y varios cambios importantes en
 
@@ -50,7 +50,7 @@ M. de Coulanges ha señalado[1] que la ausencia de libertad individual fue la ve
 
 \[1. _La Cité Antique_, págs. 400-401.\]
 
-<span id="p450">[<sup><small>pág. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 Roma sufrió menos, sobrevivió y dominó, porque dentro de sus fronteras los derechos individuales habían sido más respetados... Ahora bien, la ausencia de libertad individual en el Japón moderno ciertamente parecería ser nada menos que un peligro nacional. Pues esos mismos hábitos de obediencia incondicional, lealtad y respeto a la autoridad, que hicieron posible la sociedad feudal, probablemente imposibilitarían un verdadero régimen democrático y tenderían a generar un estado de anarquía. Solo las razas acostumbradas desde hace tiempo a la libertad personal —libertad para pensar en cuestiones éticas al margen de los asuntos de gobierno—, libertad para considerar cuestiones de bien y mal, justicia e injusticia, con independencia de la autoridad política— son capaces de afrontar sin riesgo el peligro que ahora amenaza a Japón. Pues si la desintegración social tomara en Japón el mismo curso que siguió en las antiguas sociedades europeas —sin control de ninguna legislación preventiva— y provocara así otra revolución social, la consecuencia sería apenas la ruina absoluta. En la Europa antigua, la desintegración total del sistema patriarcal duró siglos: fue lenta y normal, al no haber sido provocada por fuerzas externas. En Japón, por el contrario, esta desintegración se está produciendo bajo una enorme presión externa, operando con la rapidez de la electricidad y el vapor. En las sociedades griegas, los cambios se efectuaron en unos trescientos años; en Japón, apenas han pasado treinta años desde que el sistema patriarcal se disolvió legalmente y el sistema industrial se reformó; sin embargo, el peligro de anarquía ya se vislumbra, y la población —asombrosamente aumentada en más de diez millones— ya comienza a experimentar todas las formas de miseria que genera la necesidad en las condiciones industriales.
 

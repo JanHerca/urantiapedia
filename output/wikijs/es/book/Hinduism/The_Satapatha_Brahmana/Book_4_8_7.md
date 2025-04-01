@@ -249,11 +249,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^230]: 127:2 Sobre los tres ladrillos Vi<i>s</i>va<i>g</i>yotis, colocados en las mismas capas, como representación de los dioses Agni, Vâyu y Âditya respectivamente, véase VI, 3, 3, 16; 5, 3, 3.
 
-[^231]: 128:1 O, Pero estos (ladrillos) también son (o significan) poder generativo, cf. [párrafo 1](Book_4_8_7#v8_7_1_1).
+[^231]: 128:1 O, Pero estos (ladrillos) también son (o significan) poder generativo, cf. [párrafo 1](../Book_4_8_7#v8_7_1_1).
 
 [^232]: 128:2 Es decir, no debe moverlos de su lugar, sino colocar cada par subsiguiente exactamente sobre los colocados anteriormente. De hecho, sin embargo, estos dos ladrillos (si determinamos su ubicación mediante un simple cálculo) parecerían, en la quinta capa, estar medio pie más lejos del punto central que los <i>Ri</i>tavyâs de las otras capas. Esto se debe a que, mientras que en las capas donde un Svayamât<i>ri</i><i>n</i><i>n</i>â se encuentra en el medio, solo la mitad de estos ladrillos centrales se encuentra al este del punto central, en la capa actual la parte oriental del Gârhapatya (que ocupa la parte central de la capa) consiste en ladrillos de tamaño completo. Esta discrepancia de medio pie probablemente se compensó dejando un espacio, que luego se rellenó con tierra. a menos que, en efecto, se permitiera que los Svayamât<i>ri</i><i>n</i><i>n</i>âs, como piedras aparentemente naturales, excedieran un poco el tamaño ordinario de los ladrillos.
 
-[^233]: 131:1 Para este versículo, véase la parte iii, pág. 307, nota 2; para su significado simbólico (como el aliento o aire vital) VII, 1, 1, 15; 26. Véase también [VIII, 7, 3, 21](Book_4_8_7#v8_7_3_21), donde se explica el versículo mismo.
+[^233]: 131:1 Para este versículo, véase la parte iii, pág. 307, nota 2; para su significado simbólico (como el aliento o aire vital) VII, 1, 1, 15; 26. Véase también [VIII, 7, 3, 21](../Book_4_8_7#v8_7_3_21), donde se explica el versículo mismo.
 
 [^234]: 131:2 Al colocar el Lokamp<i>ri</i><i>n</i>as de la quinta capa, comienza, como en la primera capa, desde el hombro derecho, o la esquina sureste, del altar, pero de modo que en este caso el primer relleno no se coloca en la esquina, sino un codo al oeste de esta. Desde ese punto, rellena los espacios disponibles, en dos turnos, moviéndose en el sentido del sol.
 
@@ -261,7 +261,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^236]: 132:2 En VI, 1, 2, 25, Tâ<i>n</i><i>d</i>ya se le hizo sostener que los Ya<i>g</i>ushmatîs, o ladrillos colocados con fórmulas especiales, eran la nobleza, y que los Lokamp<i>ri</i><i>n</i>âs, colocados con la misma fórmula, eran los campesinos, y como el noble (o cacique) requería un clan numeroso para su subsistencia, debería haber menos ladrillos del primer tipo que lo establecido. Sin embargo, esta opinión fue rechazada por el autor del Brâhma<i>n</i>a, y aquí, en oposición a ella, se identifica al Lokamp<i>ri</i><i>n</i>â con la nobleza, y a los Ya<i>g</i>ushmatîs con el clan.
 
-[^237]: 132:3 La fórmula común usada con estos ladrillos, y de la cual derivan su nombre—que comienza como 'Lokam p<i>ri</i><i>n</i>a', '¡Llena el espacio!', véase [párrafo 6](Book_4_8_7#v8_7_2_6)\—se pronuncia solo una vez después de cada diez ladrillos de este tipo, y después de los impares al final.
+[^237]: 132:3 La fórmula común usada con estos ladrillos, y de la cual derivan su nombre—que comienza como 'Lokam p<i>ri</i><i>n</i>a', '¡Llena el espacio!', véase [párrafo 6](../Book_4_8_7#v8_7_2_6)\—se pronuncia solo una vez después de cada diez ladrillos de este tipo, y después de los impares al final.
 
 [^238]: 133:1 En la traducción de VII, 5, 2, 14 (parte iii, pág. 404), el pasaje 'habiendo tomado posesión del hombre por la fuerza', que se basaba en una lectura errónea (véase Weber, Berl. Cat. II, pág. 69), debería leerse así: 'habiendo dotado preeminentemente al hombre con poder' (o, quizás, 'habiéndolo colocado por encima (de los demás) con respecto al poder', St. Petersb. Dict.).
 
@@ -269,7 +269,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^240]: 135:1 Es decir, uno no debidamente construido.
 
-[^241]: 136:1 Este parecería ser el Vikar<i>n</i>î (ver [VIII, 7, 3, 9](Book_4_8_7#v8_7_3_9) seqq.) que, sin embargo, al igual que el Svayamât<i>ri</i><i>n</i><i>n</i>â central, solo se debe colocar después de que la capa haya sido nivelada.
+[^241]: 136:1 Este parecería ser el Vikar<i>n</i>î (ver [VIII, 7, 3, 9](../Book_4_8_7#v8_7_3_9) seqq.) que, sin embargo, al igual que el Svayamât<i>ri</i><i>n</i><i>n</i>â central, solo se debe colocar después de que la capa haya sido nivelada.
 
 [^242]: 136:2 Es decir, al extremo este de la 'columna vertebral'.
 
@@ -279,7 +279,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^245]: 137:3 O, quizás, cavarlos.
 
-[^246]: 138:1 Âvapana también significa «introducir, insertar», lo cual se entiende aquí también, mientras que más adelante en este párrafo («el aire es el âvapanam de todos los seres») difícilmente puede tener este significado (¿algo inyectado?). Cf. [IX, 4, 2, 27](Book_4_9_4#v9_4_2_27).
+[^246]: 138:1 Âvapana también significa «introducir, insertar», lo cual se entiende aquí también, mientras que más adelante en este párrafo («el aire es el âvapanam de todos los seres») difícilmente puede tener este significado (¿algo inyectado?). Cf. [IX, 4, 2, 27](../Book_4_9_4#v9_4_2_27).
 
 [^247]: 139:1 O, con ella (con tierra suelta).
 

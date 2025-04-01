@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 El budismo había ganado ascendencia en la India sin exterminar los credos más antiguos, y había muchas personas devotamente religiosas que solo tenían una vaga noción del contraste que existía entre éste y otras formas de fe.
 
@@ -56,7 +56,7 @@ Charaka dijo: "¿Eres un pastor, famoso en el arte de la dialéctica, y no sabes
 
 —Tenga la amabilidad, reverendo señor —respondió el novicio, que comenzaba a irritarse ante los ataques del enérgico monje— de comprender lo que quiero decir. El mundo en que vivimos es un mundo de orden, y sabemos que existen leyes a las que debemos someternos. Cuando hablo de Dios, me refiero a aquel que nos creó, el Creador Omnipotente del Universo, el Padre de todos los Seres, <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> el Estándar de toda Perfección, la Ley Eterna de la Vida.
 
-“Bueno, bueno”, respondió Kevaddha, quien, aunque bullicioso, en el fondo era bondadoso. “No pretendo ofenderte. Intento hacerte comprender una verdad con humor. La verdad es seria, aunque mi forma de expresarme pueda ser humorística. Ahora entiendo que eres devoto del gran Dios Todopoderoso, Brahma, como lo llaman los brahmanes, el Señor, Creador y Gobernante del Universo. Pero ¿alguna vez consideraste dos cosas? Primero, que ese Dios Todopoderoso, concebido como un ser con nombre y forma, es producto de nuestra propia imaginación, al igual que todas las demás deidades del pueblo; y segundo, que si Brahma fuera tan real como tú y como yo, ¿no serviría de nada? Cada uno debe encontrar el camino de la salvación por sí mismo, y la sabiduría de Brahma no es tu sabiduría. Ni Brahma, que reside en el cielo de Brahma, puede enseñarte nada”.
+«Bueno, bueno», respondió Kevaddha, quien, aunque bullicioso, en el fondo era bondadoso. «No pretendo ofenderte. Intento hacerte comprender una verdad con humor. La verdad es seria, aunque mi forma de expresarme pueda ser humorística. Ahora entiendo que eres devoto del gran Dios Todopoderoso, Brahma, como lo llaman los brahmanes, el Señor, Creador y Gobernante del Universo. Pero ¿alguna vez consideraste dos cosas? Primero, que ese Dios Todopoderoso, concebido como un ser con nombre y forma, es producto de nuestra propia imaginación, al igual que todas las demás deidades del pueblo; y segundo, que si Brahma fuera tan real como tú y como yo, ¿no serviría de nada? Cada uno debe encontrar el camino de la salvación por sí mismo, y la sabiduría de Brahma no es tu sabiduría. Ni Brahma, que reside en el cielo de Brahma, puede enseñarte nada».
 
 Charaka no ocultó su insatisfacción con la noción de Dios de Kevaddha y dijo: «La mera idea de que existe un Dios me fortalece. Puede ser directamente inaccesible <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> o puede rodearnos como el aire o el éter que penetra nuestros cuerpos. Puede ser diferente de lo que suponemos; pero debe existir como la causa de todo lo bueno, sabio, verdadero y bello. ¿Cómo podré tener éxito en mis esfuerzos por buscar la verdad si no existe un modelo eterno de verdad?»
 

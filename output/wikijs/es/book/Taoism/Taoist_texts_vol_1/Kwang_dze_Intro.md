@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 LOS ESCRITOS DE KWANG-DZE.
 
@@ -55,7 +55,7 @@ Una antigua visión del Libro era que Kwang-dze se refería a sí mismo con el g
 
 ## LIBRO II. KHI WU LUN.
 
-El Sr. Balfour tradujo este título como «Ensayo sobre la uniformidad de todas las cosas»; y, al estar el tema del libro tan malinterpretado, su traducción no podía dejar de ser muy incorrecta. Los críticos chinos, sin excepción, interpretan el título como yo. El segundo y el tercer carácter, Wû Lun, se toman juntos y significan «Discusiones sobre Cosas», equivalente a nuestras «Controversias». Están bajo el control del primer carácter, Khî, usado como verbo, con el significado de «Armonizar» o «Ajustar». Permítanme ilustrar esto condensando un pasaje del «Comentario Suplementario del Sr. Kang, subsecretario de la Cancillería Imperial», de la dinastía Ming ( ![](/image/book/Taoism/Taoist_texts_vol_1/12800.jpg)). Él dice: 'Lo que Kwang-dze llama “Discusiones sobre Cosas” hace referencia a las diversas ramas de las numerosas escuelas, cada una de las cuales tiene sus propios puntos de vista, en conflicto con <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> los puntos de vista de los demás'. Continúa mostrando que si tan solo adoptaran el método señalado por Kwang-dze, 'sus controversias se ajustarían ( ![](/image/book/Taoism/Taoist_texts_vol_1/12900.jpg)) utilizando el primer Khî en voz pasiva.
+El Sr. Balfour tradujo este título como «Ensayo sobre la uniformidad de todas las cosas»; y, al estar el tema del libro tan malinterpretado, su traducción no podía dejar de ser muy incorrecta. Los críticos chinos, sin excepción, interpretan el título como yo. El segundo y el tercer carácter, Wû Lun, se toman juntos y significan «Discusiones sobre Cosas», equivalente a nuestras «Controversias». Están bajo el control del primer carácter, Khî, usado como verbo, con el significado de «Armonizar» o «Ajustar». Permítanme ilustrar esto condensando un pasaje del «Comentario Suplementario del Sr. Kang, subsecretario de la Cancillería Imperial», de la dinastía Ming ( ![](/image/book/Taoism/Taoist_texts_vol_1/12800.jpg)). Él dice: 'Lo que Kwang-dze llama «Discusiones sobre Cosas» hace referencia a las diversas ramas de las numerosas escuelas, cada una de las cuales tiene sus propios puntos de vista, en conflicto con <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> los puntos de vista de los demás'. Continúa mostrando que si tan solo adoptaran el método señalado por Kwang-dze, 'sus controversias se ajustarían ( ![](/image/book/Taoism/Taoist_texts_vol_1/12900.jpg)) utilizando el primer Khî en voz pasiva.
 
 Este fue, pues, el tema de nuestro autor en este Libro. Queda a criterio del lector descubrir, a partir de la traducción, cómo lo desarrolla. Señalé una peculiaridad del Libro anterior: si bien la idea del Tao subyace a todo, el término en sí nunca aparece. No solo la misma idea subyace en este Libro, sino que el nombre se emplea con frecuencia. El Tao es la panacea para los males de la controversia, el solvente mediante el cual se pueden disipar las diferentes opiniones de los hombres.
 
@@ -78,7 +78,7 @@ El párrafo 1 expone el daño que surge de no nutrir así la vida y establece la
 
 El párrafo 2 ilustra la observancia de la regla mediante la habilidad perfecta con la que el cocinero del gobernante Wän-hui de Wei cortaba los bueyes para su patrón sin problemas para él ni dañar su cuchillo.
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 El párrafo 3 ilustra el resultado de la negligencia en la observancia de una de las precauciones del párrafo 1 hacia un cierto maestro de la Izquierda, quien había provocado el desmembramiento al perder uno de sus pies.
 
@@ -95,7 +95,7 @@ En Kwang-dze hay varias otras historias del mismo carácter que la del cocinero 
 
 Un hombre ocupa su lugar entre los demás en el mundo; es miembro, mientras vive, del cuerpo humano. Y así como ocupa su lugar en la sociedad, también tiene deberes especiales que cumplir, según su posición y su relación con los demás. Los escritores taoístas se refieren a este Libro como prueba del carácter práctico de los escritos de Kwang-dze.
 
-<span id="p132">[<sup><small>pág. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Tienen razón hasta cierto punto; pero los casos de parentesco que se exponen y describen son de un carácter tan peculiar que el Libro resulta de escaso valor como guía de la conducta y el deber humanos. En los dos primeros párrafos, se presenta el caso de Yen Hui, quien desea ir a Wei e intentar reformar el carácter y el gobierno de su opresor gobernante; en el tercero y cuarto, el del duque de Sheh, a quien el rey de Khû le ha confiado una difícil misión en la corte de Khî, lo cual le causa mucha ansiedad y aprensión; y en el quinto, el de Yen Ho, quien está a punto de asumir el cargo de maestro del hijo del duque Ling de Wei, un joven de temperamento muy malo. Los otros cuatro párrafos no parecen surgir con naturalidad después de estos tres casos, ya que se ocupan de dos árboles inmensos y maravillosos, el caso de un pobre lisiado deforme y la conferencia impartida a Confucio por «el loco de Khû». En todos estos últimos párrafos, el tema es la utilidad, al menos para el propio partido, de no ser de ninguna utilidad.
 
@@ -104,7 +104,7 @@ Confucio es el orador principal en los primeros cuatro párrafos. En lo que dice
 En la conclusión, el taoísmo de nuestro autor contrasta con los métodos de Confucio. Su objetivo en todo el tratado, quizás, era mostrar cómo «no hacer nada, y sin embargo, hacerlo todo», era el método a seguir en todas las relaciones sociales.
 
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 <a id="b5"></a>
 
@@ -131,7 +131,7 @@ Así que traduzco el título de este Libro, tomando Zung como verbo, y Zung Shih
 
 La clave se encuentra en el primero de sus quince párrafos. Existen en el hombre dos elementos: el Celestial o Taoísta, y el humano. El discípulo del Tao, reconociendo ambos, cultiva lo que conoce como hombre <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> para conformarse plenamente a la acción del Tao y ser sumiso en las experiencias más dolorosas de su destino, que está enteramente determinado por él. La sabiduría de este camino quedará sellada en el más allá, cuando haya completado su existencia terrenal y regrese al estado de no existencia, del cual el Tao lo llamó a nacer como hombre. Mientras tanto, podrá alcanzar la verdadera humanidad, poseedora del verdadero conocimiento.
 
-Nuestro autor procede entonces a presentar a sus lectores, en cinco párrafos, su idea del Hombre Verdadero. El Sr. Balfour afirma que este nombre debe entenderse «en el sentido esotérico, como participante de la esencia de la divinidad», y lo traduce como «el Hombre Divino». Pero no tenemos derecho a introducir aquí los términos «divino» y «divinidad». Nan-hwâi (VII, 5b) ofrece una breve definición del nombre, más pertinente: «Lo que llamamos “el Hombre Verdadero” es aquel cuya naturaleza concuerda con el Tâo ( ![](/image/book/Taoism/Taoist_texts_vol_1/13500.jpg)) y el comentarista añade en una nota: «Hombres como Fû-hsî, Hwang-Tî y Lâo Tan». El diccionario Khang-hsî comienza su descripción del personaje ![](/image/book/Taoism/Taoist_texts_vol_1/13501.jpg) o «Verdadero» con una definición del Hombre Verdadero tomada del Shwo Wän como ![](/image/book/Taoism/Taoist_texts_vol_1/13502.jpg), «un recluso de la montaña, cuya forma corporal ha cambiado y que asciende al cielo». Sin embargo, cuando se creó este primer diccionario, el taoísmo había entrado en una nueva fase, diferente de la que tenía en la época de nuestro autor. La característica más destacada del Hombre Verdadero es que está libre de todo ejercicio de pensamiento y propósito, un ser completamente pasivo en manos del Tao. En el párrafo 3 se mencionan siete hombres, hombres buenos y dignos, pero inferiores al Verdadero.
+Nuestro autor procede entonces a presentar a sus lectores, en cinco párrafos, su idea del Hombre Verdadero. El Sr. Balfour afirma que este nombre debe entenderse «en el sentido esotérico, como participante de la esencia de la divinidad», y lo traduce como «el Hombre Divino». Pero no tenemos derecho a introducir aquí los términos «divino» y «divinidad». Nan-hwâi (VII, 5b) ofrece una breve definición del nombre, más pertinente: «Lo que llamamos «el Hombre Verdadero» es aquel cuya naturaleza concuerda con el Tâo ( ![](/image/book/Taoism/Taoist_texts_vol_1/13500.jpg)) y el comentarista añade en una nota: «Hombres como Fû-hsî, Hwang-Tî y Lâo Tan». El diccionario Khang-hsî comienza su descripción del personaje ![](/image/book/Taoism/Taoist_texts_vol_1/13501.jpg) o «Verdadero» con una definición del Hombre Verdadero tomada del Shwo Wän como ![](/image/book/Taoism/Taoist_texts_vol_1/13502.jpg), «un recluso de la montaña, cuya forma corporal ha cambiado y que asciende al cielo». Sin embargo, cuando se creó este primer diccionario, el taoísmo había entrado en una nueva fase, diferente de la que tenía en la época de nuestro autor. La característica más destacada del Hombre Verdadero es que está libre de todo ejercicio de pensamiento y propósito, un ser completamente pasivo en manos del Tao. En el párrafo 3 se mencionan siete hombres, hombres buenos y dignos, pero inferiores al Verdadero.
 
 Tras haber dicho lo que tenía que decir sobre el Hombre Verdadero, Kwang-dze, en el séptimo párrafo, habla directamente del Tao mismo y lo describe con numerosos predicados maravillosos que lo exaltan por encima de nuestra idea de Dios: un concepto, no una personalidad. Concluye mencionando a varios personajes antiguos que adquirieron el Tao y, mediante él, obraron maravillas, comenzando con un Shih-wei, que precedió a Fû-hsî, y terminando con Fû Yüeh, ministro de <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Wû-ting, en el siglo XIV a. C., quien finalmente se convirtió en una estrella en la porción oriental del zodíaco. También se menciona que Phäng Zû vivió, gracias a su posesión del Tao, desde el siglo XXII del siglo XIII hasta el siglo VII o después. El sol, la luna y la constelación de la Osa Mayor también se mencionan como sus poseedores, y el fabuloso Ser llamado la Madre del Rey Occidental. Todo el pasaje resulta sumamente desconcertante para el lector.
 
@@ -150,7 +150,7 @@ El quinto párrafo es más extenso y nos narra la derrota de un mago, un fisonom
 
 El sexto párrafo es una homilía del propio autor sobre la inacción. Contiene un buen símil: compara la mente del hombre perfecto con un espejo que refleja fielmente lo que se le presenta, pero no conserva ninguna imagen de ello cuando la mente desaparece.
 
-<span id="p138">[<sup><small>pág. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 El último párrafo es una ingeniosa e interesante alegoría que relata cómo los dioses de los mares del sur y del norte acabaron con el Caos abriéndole agujeros. De este modo, destruyeron la simplicidad primigenia y, según el taoísmo, ¡le causaron un gran daño! En general, no creo que este Libro, con el que concluyen los ensayos más elaborados de Kwang-dze, tenga tanto éxito como los que lo preceden.
 
@@ -168,7 +168,7 @@ El tema del Libro nos resulta extraño: que, según el Tao, la benevolencia y la
 Destaca especialmente a dos hombres: uno del siglo XII a. C., el famoso Po-î, quien murió de hambre antes que reconocer la dinastía de Kâu; y otro más reciente, el ladrón Shih, un gran líder de bandidos, quien con sus actos se llevó a una muerte prematura; y no ve diferencia entre ellos. Debemos juzgar la enseñanza del confucianismo con preferencia a la del taoísmo, si nuestro autor puede ser considerado un expositor imparcial de este último. Es ingenioso en sus afirmaciones e ilustraciones, pero, al igual que su maestro Lâo-dze, era solo un soñador.
 
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 <a id="b9"></a>
 
@@ -178,7 +178,7 @@ Destaca especialmente a dos hombres: uno del siglo XII a. C., el famoso Po-î, q
 
 Gobernar a los hombres es como gobernar a los caballos. Pueden ser gobernados de forma perjudicial, como Po-lâo gobernó al caballo, contrariamente a su naturaleza. Su método no era diferente al del (primer) alfarero y carpintero al trabajar la arcilla y la madera, contrario a la naturaleza de esas sustancias. A pesar de esto, época tras época ha celebrado la habilidad de esos grupos, sin saber qué constituye el buen y hábil gobierno de los hombres. Tal gobierno simplemente requiere que los hombres se obliguen a cumplir con su naturaleza regular y constante, las cualidades que todos poseen en común, con las que están constituidos por el Cielo, y luego se les deja a su suerte. Esto fue lo que constituyó la era de la virtud perfecta; pero cuando los sabios insistieron en la práctica de la benevolencia, la rectitud, las ceremonias y la música, la gente comenzó a carecer de esa virtud perfecta. No es que fueran en sí mismos diferentes de lo que habían sido, sino que esas prácticas no pertenecen realmente a su naturaleza regular; Surgieron de su descuido de las características del Tao y del abandono de su constitución natural; fue el caso del hábil artesano que cortaba y desmenuzaba sus materias primas para formar vasijas con ellas. No hay duda de que el manejo de caballos por parte de Po-lâo les proporcionó el conocimiento con el que luego se convirtieron en ladrones, o de que fue el gobierno del pueblo por parte de los sabios lo que los llevó a dedicarse a la búsqueda de ganancias; es imposible negar el error de esos sabios.
 
-Hay una sola idea en el Libro de principio a fin: es una ampliación de la expresión del Libro anterior de que “todos los hombres tienen su constitución regular y constante [<sup><small>p. 141</small></sup>]”, y es la composición más fácil de interpretar de Kwang-dze. Sin embargo, debido a los maravillosos toques de su lápiz al describir la simpatía entre los hombres y otras criaturas en su estado primitivo, algunos han imaginado que hay un desperdicio y embellecimiento del lenguaje, y han dudado de que el Libro sea realmente suyo, pensando que fue escrito por alguien que imita su estilo. Me temo que ninguna otra mano habría alcanzado fácilmente tal dominio de ese estilo.
+Hay una sola idea en el Libro de principio a fin: es una ampliación de la expresión del Libro anterior de que «todos los hombres tienen su constitución regular y constante [<sup><small>p. 141</small></sup>]», y es la composición más fácil de interpretar de Kwang-dze. Sin embargo, debido a los maravillosos toques de su lápiz al describir la simpatía entre los hombres y otras criaturas en su estado primitivo, algunos han imaginado que hay un desperdicio y embellecimiento del lenguaje, y han dudado de que el Libro sea realmente suyo, pensando que fue escrito por alguien que imita su estilo. Me temo que ninguna otra mano habría alcanzado fácilmente tal dominio de ese estilo.
 
 No es posible juzgar definitivamente la sospecha sobre la autenticidad del Libro expresada en las observaciones finales de Hsî-kung. La misma sospecha surgió en mí durante el proceso de traducción. Me sorprende que nuestro autor no percibiera lo absurdo de sus nociones sobre el estado primigenio del hombre ni de su condena de los sabios.
 
@@ -191,7 +191,7 @@ El comentarista Kwei Kän-khüan observa que una idea recorre este Libro: que lo
 
 El lector estará de acuerdo con estas descripciones del Libro. Kwang-dze a veces se muestra débil al intentar fundamentar sus argumentos. En mi opinión, las partes más interesantes de este Libro, y la última, son las declaraciones completas que encontramos en ellas sobre el feliz estado de los hombres cuando el Tao mantenía su dominio indiscutible en el mundo, y los nombres de muchos de los primeros soberanos taoístas. ¿Cómo podemos suponer que se ganaría algo con un retorno a la condición de inocencia y simplicidad primitivas? El antagonismo entre el taoísmo y el confucianismo se manifiesta de forma muy clara en este Libro.
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 El título del Libro está tomado de dos personajes de la primera cláusula del primer párrafo.
 
@@ -250,7 +250,7 @@ En las notas de los tres párrafos anteriores, me he esforzado por que su signif
 
 No puedo pensar en una mejor traducción para ![](/image/book/Taoism/Taoist_texts_vol_1/14600.jpg), los dos primeros caracteres del Libro, y que aparecen como su título, que nuestras 'Ideas arraigadas'; nociones, es decir, sostenidas tan firmemente como si estuvieran grabadas en la sustancia de la mente. Sin embargo, no pertenecen a todo el Libro, sino solo al primer miembro del primer párrafo. Ese párrafo describe seis clases de hombres, solo los últimos de los cuales son los verdaderos seguidores del Tâo;—los Sabios, desde el punto de vista taoísta, quienes nuevamente en la última oración del último párrafo se identifican con 'los Hombres Verdaderos' descritos extensamente en el sexto Libro. El quinto miembro de este primer párrafo es interesante porque muestra cómo había una clase de taoístas que cultivaban el sistema con vistas a obtener longevidad mediante sus prácticas en el manejo de la respiración; Sin embargo, nuestro autor no les concede su plena aprobación, mientras que, al mismo tiempo, el Taoísmo superior aparece en el último párrafo, como promotor de la longevidad sin el control de la respiración. Khû Po-hsiû, en su comentario sobre Kwang-dze, publicado en 1210, cita a Po-î y Shû-khî como ejemplos de la primera clase mencionada aquí; a Confucio y Mencio, de la segunda; a Î Yin y Fû Yüeh, de la tercera; y a Khâo Fû y Hsü Yû, como ejemplos de la cuarta. De la quinta clase no da ningún ejemplo, salvo el de Phäng Zû mencionado en él.
 
-Lo que distingue al sabio genuino, al Verdadero Hombre del Taoísmo, es su pura simplicidad al seguir el Camino, como se ve en la operación del Cielo y la Tierra, y nutrir su espíritu en consecuencia, hasta que se produce una fusión etérea entre su Camino y la operación ordenada del Cielo. Este tema se desarrolla hasta el final del Libro. El predicado más notable del espíritu así entrenado es aquel del tercer párrafo: «Su nombre es el <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> mismo que Tî o Dios», sobre el cual ningún crítico ha podido arrojar una luz satisfactoria. La versión de Balfour es: «Su nombre es “Uno con Dios”»; la de Giles: «Su nombre es entonces “De Dios”, siendo el «entonces» consecuencia de su visión de que el tema es «la existencia espiritual del hombre antes de nacer en el mundo de los mortales». Mi propia visión del significado aparece en mi versión.
+Lo que distingue al sabio genuino, al Verdadero Hombre del Taoísmo, es su pura simplicidad al seguir el Camino, como se ve en la operación del Cielo y la Tierra, y nutrir su espíritu en consecuencia, hasta que se produce una fusión etérea entre su Camino y la operación ordenada del Cielo. Este tema se desarrolla hasta el final del Libro. El predicado más notable del espíritu así entrenado es aquel del tercer párrafo: «Su nombre es el <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> mismo que Tî o Dios», sobre el cual ningún crítico ha podido arrojar una luz satisfactoria. La versión de Balfour es: «Su nombre es «Uno con Dios»»; la de Giles: «Su nombre es entonces «De Dios», siendo el «entonces» consecuencia de su visión de que el tema es «la existencia espiritual del hombre antes de nacer en el mundo de los mortales». Mi propia visión del significado aparece en mi versión.
 
 Lin Hsî-kung, sin embargo, cuestiona la autenticidad de todo el Libro y cree que podría haber sido escrito por la misma mano que el Libro XIII. Sin duda, comparten una peculiaridad: numerosas referencias a dichos que no se pueden rastrear, pero que se introducen mediante la fórmula de cita: «Por lo tanto, se dice».
 
@@ -324,7 +324,7 @@ El Libro XVII se considera comúnmente el más elocuente de los Tratados de Kwan
 Cabe señalar que el título corresponde únicamente al primer párrafo. El Kih que contiene debe entenderse en el sentido de «conocimiento», no de «sabiduría».
 
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 <a id="b23"></a>
 
@@ -419,7 +419,7 @@ No debemos suponer que en la experiencia de Kwang-dze ocurriera algo como lo que
 «El Viejo Pescador» es el cuarto libro de la colección de escritos de Kwang-dze, al que, desde la época de Sû Shih, muchos han calificado de «espurio». Sin embargo, ya he insinuado que las sospechas sobre la autenticidad de esos libros se han sustentado sin fundamento suficiente; y en lo que respecta a «El Viejo Pescador», me alegra que haya llegado hasta nosotros, sea espurio o auténtico. Puede que haya cierta crudeza en «El Ladrón Kih», que nos hace despreciar a Confucio o reírnos de él; pero la sátira en este libro es delicada, y no nos gusta menos el sabio cuando sube por la orilla desde el arroyo donde el pescador le ha dado un sermón. Las imágenes de él y sus discípulos en el bosque, leyendo y cantando en la Terraza de los Albaricoques, y del anciano impulsando lentamente su esquife hacia tierra y luego, con la misma calma, impulsándolo hasta perderse entre los juncos, son deliciosas; no hay nada más exquisito en este volumen. ¿Qué mano sino la de Kwang-dze, tan ligera en su toque y a la vez tan fuerte, incisiva y decidida, podría haberlas delineado?
 
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 <a id="b32"></a>
 
@@ -454,7 +454,7 @@ El párrafo 5 se remonta a la era de Lâo-dze y lo menciona a él y a Kwan Yin c
 
 El párrafo 6 presenta a Kwang-dze siguiendo sus pasos y yendo más allá de ellos, la luminaria más brillante del sistema.
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 El párrafo 7 abandona el taoísmo y menciona a Hui Shih y otros sofistas.
 

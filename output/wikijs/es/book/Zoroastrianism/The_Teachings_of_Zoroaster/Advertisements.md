@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T13:0:24Z
   </table>
 </figure>
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Los siguientes anuncios históricos siguieron el texto del libro original. Se incluyen para completar la información —JBH.
 
@@ -69,7 +69,7 @@ Los dichos de Lao-Tzu
 
 Del chino. Traducido con introducción de LIONEL GILES, del Museo Británico. \[_Listo_.
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 La religión del Corán
 
@@ -105,51 +105,51 @@ _Otros en preparación y serán debidamente anunciados_
 
 JOHN MURRAY, CALLE ALBEMARLE, LONDRES, W.
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## EXTRACTOS DE ALGUNAS OPINIONES DE PRENSA
 
-**El Ateneo**.—“Ojalá hubiera más; son de ensueño, realistas y fascinantes.”
+**El Ateneo**.—«Ojalá hubiera más; son de ensueño, realistas y fascinantes.»
 
-**St. James's Gazette**.—“La pintoresca y pequeña serie 'Sabiduría de Oriente'”.
+**St. James's Gazette**.—«La pintoresca y pequeña serie 'Sabiduría de Oriente'».
 
-**Pall Mall Gazette**.—“No se ha realizado ninguna traducción de esta importante obra desde principios del siglo XVIII.”
+**Pall Mall Gazette**.—«No se ha realizado ninguna traducción de esta importante obra desde principios del siglo XVIII.»
 
-**La Academia**.—“Pequeños volúmenes delgados y encuadernados con buen gusto.”
+**La Academia**.—«Pequeños volúmenes delgados y encuadernados con buen gusto.»
 
-**Manchester Courier**.—“Digno de estudio minucioso por parte de todos aquellos que quieran penetrar en la profundidad del pensamiento y el sentimiento orientales”.
+**Manchester Courier**.—«Digno de estudio minucioso por parte de todos aquellos que quieran penetrar en la profundidad del pensamiento y el sentimiento orientales».
 
-**Guía literaria**.—“Le deseamos éxito a esta pequeña serie de libros.”
+**Guía literaria**.—«Le deseamos éxito a esta pequeña serie de libros.»
 
 **Perspectiva**.—"Esta serie se publica para ayudar en el proceso de renovación de la vida espiritual y moral de Occidente".
 
-**The Scotsman**.—“Esta serie no dejará de complacer a los lectores más estudiosos”.
+**The Scotsman**.—«Esta serie no dejará de complacer a los lectores más estudiosos».
 
-**Nottingham Press**.—“Este pequeño y delicado volumen es el quinto de la serie, cuyos volúmenes anteriores han sido cordialmente recibidos tanto por la prensa como por el público”.
+**Nottingham Press**.—«Este pequeño y delicado volumen es el quinto de la serie, cuyos volúmenes anteriores han sido cordialmente recibidos tanto por la prensa como por el público».
 
-**Southport Guardian**.—“Esta serie encontrará considerable aceptación entre todos los estudiantes de literatura oriental y filosofía oriental”.
+**Southport Guardian**.—«Esta serie encontrará considerable aceptación entre todos los estudiantes de literatura oriental y filosofía oriental».
 
-**The Northern Weekly**.—“Debo confesar que me atrae la literatura de Oriente. Esta semana he estado leyendo los delicados libritos de Orient Press.”
+**The Northern Weekly**.—«Debo confesar que me atrae la literatura de Oriente. Esta semana he estado leyendo los delicados libritos de Orient Press.»
 
-**Bristol Mercury**.—“Recomendamos estos libritos a todos aquellos que imaginan que no hay conocimiento que valga la pena tener fuera de Europa y América”.
+**Bristol Mercury**.—«Recomendamos estos libritos a todos aquellos que imaginan que no hay conocimiento que valga la pena tener fuera de Europa y América».
 
-**Glasgow Herald**.—“Esta nueva serie tiene un objetivo claro y ambicioso, y merece nuestro apoyo. Los libros son pequeños, económicos y se adaptan bien al bolsillo. Cada página es refrescante y estimulante.”
+**Glasgow Herald**.—«Esta nueva serie tiene un objetivo claro y ambicioso, y merece nuestro apoyo. Los libros son pequeños, económicos y se adaptan bien al bolsillo. Cada página es refrescante y estimulante.»
 
-**North Devon Journal**.—“La diferencia entre los modos de pensamiento oriental y occidental queda claramente ejemplificada por esta serie”.
+**North Devon Journal**.—«La diferencia entre los modos de pensamiento oriental y occidental queda claramente ejemplificada por esta serie».
 
-**Halifax Guardian**.—“Merece la pena leerlos y se presentan al lector en esa forma atractiva que Orient Press ha tenido el gusto de encontrar”.
+**Halifax Guardian**.—«Merece la pena leerlos y se presentan al lector en esa forma atractiva que Orient Press ha tenido el gusto de encontrar».
 
-**Crónica Judía**.—“Nunca se ha hecho una traducción tan cercana a una traducción al inglés.”
+**Crónica Judía**.—«Nunca se ha hecho una traducción tan cercana a una traducción al inglés.»
 
-**Christian Age**.—“La meditación sobre las enseñanzas de este librito no puede sino ser útil para todos sus lectores.”
+**Christian Age**.—«La meditación sobre las enseñanzas de este librito no puede sino ser útil para todos sus lectores.»
 
-**Campo**.—“Estos libros son valiosas ayudas para comprender una época y un pueblo lejanos, y resultan de gran interés para el estudioso de la literatura.” Irish Times.-“Los volúmenes son encantadores en su forma, económicos en precio y excelentes en su contenido.”
+**Campo**.—«Estos libros son valiosas ayudas para comprender una época y un pueblo lejanos, y resultan de gran interés para el estudioso de la literatura.» Irish Times.-«Los volúmenes son encantadores en su forma, económicos en precio y excelentes en su contenido.»
 
-**Circular de los editores**.—“Los recomendamos sin vacilación a todos aquellos que puedan apreciar el ideal de la bondad y la santidad y la más alta forma de cultura”.
+**Circular de los editores**.—«Los recomendamos sin vacilación a todos aquellos que puedan apreciar el ideal de la bondad y la santidad y la más alta forma de cultura».
 
-**Opinión Pública**.—“Estos pequeños libros tienen mucho que recomendar.”
+**Opinión Pública**.—«Estos pequeños libros tienen mucho que recomendar.»
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 **Todas las comunicaciones literarias deberán dirigirse a los editores de**
 

@@ -113,7 +113,7 @@ Cada cámara, sala y pasillo,
 Y un cenador brillante con flores perfumadas.
 Y cabaña y celda y sala de cuadros.
 
-<span id="p403">[<sup><small>pág. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 Con mirada atenta y pies silenciosos
 Pasó por muchos retiros frescos.
@@ -209,8 +209,8 @@ Allí entraré y por allí pasaré.
 La sombra enredada renueva mi búsqueda.
 Sea gloria al ejército en lo alto,
 El Sol y la Luna que iluminan el cielo,
-El séquito de los Vasus [1](Libro_5_20#fn822) y los Maruts [2](Libro_5_20#fn823),
-Ádityas [3](Libro_5_20#fn824) y los As'vins [4](Libro_5_20#fn825) dos.
+El séquito de los Vasus [1](../Libro_5_20#fn822) y los Maruts [2](../Libro_5_20#fn823),
+Ádityas [3](../Libro_5_20#fn824) y los As'vins [4](../Libro_5_20#fn825) dos.
 Así podré alcanzar el éxito y traer
 La dama regresa triunfante,
 
@@ -221,7 +221,7 @@ La dama regresa triunfante,
 De un salto superó la barrera;
 Se encontraba en el agradable terreno,
 
-<span id="p404">[<sup><small>pág. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 Y con ojos encantados observó
 Las plantas trepadoras y la sombra variada,
@@ -236,7 +236,7 @@ Dondequiera que volaba un pavo real asustado,
 Las ramas de colores alegres se desprendieron
 Su lluvia florida sobre su cabeza
 Que se aferró al Vánar hasta
-Parecía una colina cubierta de flores, [1](Libro_5_20#fn826)
+Parecía una colina cubierta de flores, [1](../Libro_5_20#fn826)
 La tierra, en cuyo hermoso seno yacía
 Las flores que cayeron de cada rocío,
 Fue gloriosa como una hermosa doncella
@@ -335,7 +335,7 @@ Una vida en bosques solitarios elegida.
 Esta, esta es ella, de molde tan bello.
 Cuyos miembros son brillantes como el oro bruñido.
 
-<span id="p405">[<sup><small>pág. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Cuya voz era siempre suave y apacible.
 Quien dulcemente habló y dulcemente sonrió.
@@ -434,14 +434,14 @@ El monarca llegó a la puerta del jardín,
 Mientras antorchas de oro y plata, alimentadas
 Con aceite perfumado se proyecta una suave luz. [^830]
 
-<span id="p406">[<sup><small>pág. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 Él, mientras la llama del deseo feroz
 Ardía en sus ojos como fuego encendido,
 Parecía el amor encarnado en su orgullo,
-Su arco y sus flechas dejados a un lado. [1](Libro_5_20#fn831)
+Su arco y sus flechas dejados a un lado. [1](../Libro_5_20#fn831)
 Su túnica, libre de mancha y defecto.
-Como Amrit espumoso del mar, [2](Libro_5_20#fn832)
+Como Amrit espumoso del mar, [2](../Libro_5_20#fn832)
 Colgado en muchos pliegues sueltos
 Realizado con flores y brillante con oro.
 El Vánar desde su posición observó,
@@ -535,12 +535,12 @@ Ha partido de toda tierra saqueada,
 A ti te doy este día
 Y a tus pies estaba mi reino.
 
-<span id="p407">[<sup><small>pág. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 Invadiré la tierra amplia y rica,
 Y no dejéis ninguna ciudad sin conquistar, ninguna;
 Luego de todo esto haremos una ofrenda.
-A Janak, [1](Libro_5_30#fn835) querido, por tu dulce amor.
+A Janak, [1](../Libro_5_30#fn835) querido, por tu dulce amor.
 En todo el mundo no veo ningún poder
 De Dios o del hombre puede luchar conmigo.
 De la antigüedad los dioses y los asur se establecieron
@@ -560,7 +560,7 @@ Sus ojos nunca se posarán en ti.
 ¿Podría él, ese poderoso monarca, que
 Fue nombrado Hiranyakas'ipu.
 ¿Podría aquel que vestía el manto de oro?
-¿Recuperar la gloria del control de Indra? [2](Libro_5_30#fn836)
+¿Recuperar la gloria del control de Indra? [2](../Libro_5_30#fn836)
 Oh señora de la encantadora sonrisa,
 Cuyos ojos engañan al corazón más severo,
 En toda tu radiante belleza vestida

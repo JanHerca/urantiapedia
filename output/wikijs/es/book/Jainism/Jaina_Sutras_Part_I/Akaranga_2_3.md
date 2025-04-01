@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 TERCERA CONFERENCIA, LLAMADA CAMINATA [^396].
 
@@ -129,7 +129,7 @@ Así lo digo. (17)
 
 
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ## TERCERA LECCIÓN.
 
@@ -141,7 +141,7 @@ El Kevalin dice: Esta es la razón: Los ciervos, el ganado, los pájaros, las se
 
 Por eso se le ha dicho al mendigo, etc., que no debe mirar los objetos (mencionados en el § 2) sosteniendo sus brazos, etc. [^411] (3)
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Un monje o una monja, que vaga de aldea en aldea junto con el maestro o profesor, no debe tocar la mano del maestro o profesor con la suya, etc.; pero sin tocar ni ser tocado, debe vagar con cautela de aldea en aldea junto con el maestro o profesor. (4)
 
@@ -157,7 +157,7 @@ De la misma manera debe proceder si se le pregunta por bulbos de plantas acuáti
 
 De igual modo, si se pregunta sobre (transportes de) maíz, carros, automóviles, etc. (véase II, 3, 2, § 16). (10)
 
-De la misma manera, si se pregunta: “¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Qué tan grande es esta aldea o ciudad libre, etc.?” (11)
+De la misma manera, si se pregunta: «¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Qué tan grande es esta aldea o ciudad libre, etc.?» (11)
 
 Del mismo modo, si se le pregunta: «¡Oh, longevo <i>Srama<i>n</i>a! ¿A qué distancia está esa aldea o ciudad libre de impuestos, etc.?» (12)
 

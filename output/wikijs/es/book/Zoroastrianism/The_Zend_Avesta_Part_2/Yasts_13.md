@@ -1,6 +1,6 @@
 ---
 title: "XIII. Farvardîn Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 El Fravashi es el poder interior de cada ser que lo sustenta, lo hace crecer y subsistir. Originalmente, los Fravashis eran los mismos que los Pitris de los hindúes o los Manes de los latinos, es decir, las almas eternas y deificadas de los muertos (véanse §§ 49-52); pero con el tiempo adquirieron un dominio más amplio, y no solo los hombres, sino también los dioses e incluso los objetos físicos, como el cielo y la tierra, etc. (§§ 85-86), tenían cada uno un Fravashi (véase Ormazd et Ahriman, §§ 111-113).
 
@@ -126,7 +126,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 24\. ' "Quienes dan la victoria a su invocador, quienes dan favores a su amante, quienes dan salud al hombre enfermo, quienes dan buena Gloria al hombre fiel que trae libaciones y los invoca con un sacrificio y palabras de propiciación [^831];
 
-25\. '“Que se vuelven hacia aquel lado donde están los hombres fieles, los más devotos de la santidad, y donde está la mayor piedad [^832], donde el hombre fiel es regocijad [^833], y donde el hombre fiel no es maltratado [^834].” '
+25\. '«Que se vuelven hacia aquel lado donde están los hombres fieles, los más devotos de la santidad, y donde está la mayor piedad [^832], donde el hombre fiel es regocijad [^833], y donde el hombre fiel no es maltratado [^834].» '
 
 ## III.
 
@@ -144,7 +144,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 31\. Adoramos a los buenos, fuertes y benéficos Fravashis de los fieles; cuya voluntad es terrible para quienes los atormentan; poderosos y sumamente benéficos; quienes en la batalla rompen las temibles armas de sus enemigos y enemigos.
 
-<span id="p188">[<sup><small>pág. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 ## VI.
 
@@ -196,7 +196,7 @@ Cuando el viento sopla detrás de ellos [^860] y trae su aliento a los hombres,
 
 48. Y esas naciones son azotadas de un solo golpe por sus cincuenta y sus cien, por sus cien y sus mil, por sus mil y sus decenas de mil, por sus decenas de mil y sus miríadas de miríadas, contra las cuales se vuelven los terribles Fravashis de los fieles, junto con Mitra y Rashnu, y el terrible pensamiento maldiciente de los sabios y el viento victorioso.
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## XIII.
 
@@ -270,7 +270,7 @@ Cuando el viento sopla detrás de ellos [^860] y trae su aliento a los hombres,
 
 Adoramos las almas; las de los animales domesticados; las de los animales salvajes; las de los animales que viven en las aguas; las de los animales que viven bajo tierra; las de los que vuelan; las de los que corren; las de los que pastan [^886].
 
-<span id="p198">[<sup><small>pág. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Adoramos sus Fravashis [^887].
 
@@ -364,7 +364,7 @@ Adoramos la piedad y el Fravashi del santo Zaratustra;
 
 95\. 'Allí Mitra, el señor de los amplios pastos, aumentará todas las excelencias de nuestros países y aliviará sus problemas; allí el poderoso Apãm-Napâ<i>t</i> [^915] aumentará todas las excelencias de nuestros países y aliviará sus problemas.'
 
-<span id="p203">[<sup><small>pág. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Adoramos la piedad y el Fravashi de Maidhyô-m<i>a</i>ungha, el hijo de Arâsti [^916], quien primero escuchó la palabra y la enseñanza de Zarathu<i>s</i>tra.
 
@@ -388,7 +388,7 @@ Adoramos el Fravashi del sagrado Fradhidaya.
 
 Adoramos al Fravashi del santo Usmânara, el hijo de Paêshata.
 
-<span id="p204">[<sup><small>pág. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Vohu-rao<i>k</i>ah, el hijo de Frânya;
 
@@ -426,7 +426,7 @@ Adoramos al Fravashi del sagrado Varâza;
 
 Adoramos al Fravashi del sagrado Bû<i>g</i>i-sravah [^929].
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Berezy-ar<i>s</i>ti;
 
@@ -456,7 +456,7 @@ Adoramos al Fravashi del sagrado Âtare-dâta;
 
 Adoramos al Fravashi del sagrado Âtare-<i>k</i>ithra;
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Âtare-<i>h</i><i>v</i>arenah;
 
@@ -480,7 +480,7 @@ Adoramos al Fravashi del santo Frashao<i>s</i>tra [^935], el hijo de Hvôva;
 
 Adoramos al Fravashi del sagrado <i>G</i>âmâspa [^936], el hijo de Hvôva;
 
-<span id="p208">[<sup><small>pág. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Avârao<i>s</i>tri [^937].
 
@@ -516,7 +516,7 @@ Adoramos al Fravashi del santo Frâyaodha, el hijo de Karesna.
 
 Adoramos al Fravashi del santo y bueno Arshya; Arshya, el jefe de las asambleas, el más enérgico de los adoradores de Mazda.
 
-<span id="p210">[<sup><small>pág. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Dâraya<i>t</i>-ratha;
 
@@ -550,7 +550,7 @@ Adoramos al Fravashi del santo Ashâvanghu, el hijo de Biva<i>n</i>dangha [^950]
 
 Adoramos al Fravashi del sagrado <i>G</i>arô-danghu, el hijo de Pairi<i>s</i>tîra [^950];
 
-<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Neremyazdana, el hijo de Âthwyôza.
 
@@ -578,7 +578,7 @@ Adoramos al Fravashi del santo Khshoiwrâspa, el hijo de Kh<i>s</i>tâvaênya.
 
 Adoramos al Fravashi del santo Vohv-asti, el hijo de Pouru-dhâkh<i>s</i>ti;
 
-<span id="p212">[<sup><small>pág. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Gayadhâsti, el hijo de Pouru-dhâkh<i>s</i>ti;
 
@@ -608,7 +608,7 @@ Adoramos al Fravashi del sagrado Usinemah.
 
 Adoramos al Fravashi del santo Ashaskyaothna, el hijo de Gayadhâsti [^959].
 
-<span id="p213">[<sup><small>pág. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Vohu-nemah, el hijo de Katu;
 
@@ -642,7 +642,7 @@ Adoramos al Fravashi del santo Frâ<i>k</i>ya, el hijo de Taurvâti.
 
 Adoramos al Fravashi del santo Vahmaêdâta, el hijo de Mãthravâka [^962].
 
-<span id="p214">[<sup><small>pág. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Ustra, el hijo de Sadhanah.
 
@@ -684,7 +684,7 @@ Adoramos al Fravashi del sagrado <i>H</i><i>v</i>âkhshathra.
 
 Adoramos al Fravashi del sagrado Ashô-paoirya.
 
-<span id="p215">[<sup><small>pág. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Adoramos el Fravashi del sagrado ASTVA<i>T</i>\-ERETA [^963].
 
@@ -722,7 +722,7 @@ Adoramos al Fravashi del sagrado Frya.
 
 Adoramos al Fravashi del santo cuyo nombre es Ashem-yêNhê-vereza;
 
-<span id="p216">[<sup><small>pág. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 Adoramos el Fravashi del santo cuyo nombre es Ashem-yahmâi-u<i>s</i>tâ [^965].
 
@@ -748,7 +748,7 @@ Adoramos el Fravashi del sagrado Vîsrûtâra.
 
 Adoramos al Fravashi del sagrado Baremna.
 
-<span id="p217">[<sup><small>pág. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Adoramos el Fravashi del santo Visrûta.
 
@@ -778,7 +778,7 @@ Adoramos al Fravashi del santo Avahya, el hijo de Spe<i>n</i>ta.
 
 Adoramos al Fravashi del santo Aêta, el hijo de Mâyu;
 
-<span id="p218">[<sup><small>pág. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Yaêtu<i>s</i>\-g<i>a</i>u, el hijo de Vyâtana.
 
@@ -834,7 +834,7 @@ Adoramos el Fravashi del sagrado <i>H</i><i>v</i>are-<i>k</i>aê<i>s</i>man;
 
 Adoramos al Fravashi del sagrado Frâda<i>t</i>\-<i>h</i><i>v</i>arenah;
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 Adoramos al Fravashi del sagrado Vareda<i>t</i>\-<i>h</i><i>v</i>arenah;
 
@@ -862,7 +862,7 @@ Adoramos al Fravashi del santo Aoshnara, el hijo de Pouru-<i>g</i>îra [^992].
 
 Adoramos al Fravashi del santo Uzava, el hijo de Tûmâspa [^993].
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 Adoramos al Fravashi del santo Aghraêratha, el semihombre [^994].
 
@@ -896,7 +896,7 @@ Adoramos al Fravashi del santo rey Husravah [^999];
 
 Para resistir al maligno que engaña a su amigo y al avaro que causa la destrucción del mundo [^1006].
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Adoramos el Fravashi del santo y valiente Haoshyangha;
 
@@ -922,7 +922,7 @@ Adoramos el Fravashi del santo Huma [^1012].
 
 Adoramos al Fravashi del sagrado Zairi<i>k</i>i.
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 Adoramos el Fravashi del sagrado Vîspa-taurvashi.
 
@@ -958,7 +958,7 @@ Adoramos al Fravashi del sagrado Hukithra.
 
 Adoramos el Fravashi del sagrado Kanuka.
 
-<span id="p226">[<sup><small>pág. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Adoramos el Fravashi de la santa doncella Srûta<i>t</i>\-fedhri [^1019].
 
@@ -976,7 +976,7 @@ Adoramos a las Fravashis de las mujeres santas en los países de Turan.
 
 Adoramos los Fravashis de los hombres santos en los países Sairimyan [^1024];
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Adoramos a las Fravashis de las mujeres santas en los países Sairimyan.
 
@@ -1098,7 +1098,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^866]: 184:3 Véase arriba, [p. 180](#p180), nota [^810].
 
-[^867]: 184:4 Véase arriba, [p. 165](Yasts_11#p165), nota [1](Yasts_11#fn769).
+[^867]: 184:4 Véase arriba, [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769).
 
 [^868]: 185:1 Cf. § 1.
 
@@ -1146,7 +1146,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^892]: 189:6 Hvira; véase Études Iraniennes, II, 183.
 
-[^893]: 189:7 Cf. [p. 165](Yasts_11#p165), nota [1](Yasts_11#fn769).
+[^893]: 189:7 Cf. [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769).
 
 [^894]: 189:8 Dudoso (asabana).
 
@@ -1170,7 +1170,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^904]: 191:3 Cf. Yt. X, 9.
 
-[^905]: 191:4 Véase arriba, [p. 12](Sirozahs_1#p12), nota [12](Sirozahs_1#fn93).
+[^905]: 191:4 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [12](../Sirozahs_1#fn93).
 
 [^906]: 192:1 El sexto y último Gâhambâr (véase Âfrîgân Gâhambâr), o los últimos diez días del año (del 10 al 20 de marzo), incluyendo los últimos cinco días del último mes, Sapendârmad, y los cinco días complementarios. Estos últimos diez días debían dedicarse a obras de caridad, banquetes religiosos (<i>g</i>a<i>s</i>an) y ceremonias en memoria de los difuntos. También era con la llegada de la primavera que los romanos y los atenienses solían ofrecer sacrificios anuales a los muertos; los romanos en febrero «qui tunc extremus anni mensis erat» (Cicerón, De Legibus, II, 21), los atenienses en el tercer día de la fiesta del Anthesterion (en el mismo mes). Se suponía que las almas de los muertos participarían de la nueva vida que comenzaba a circular por la naturaleza, que también había estado muerta durante los largos meses de invierno.
 
@@ -1198,7 +1198,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^918]: 194:2 Para mantener el Hôm blanco allí, alejado de los seres malignos que intentan destruirlo (Minokhirad LXII, 28).
 
-[^919]: 194:3 Véase arriba, [p. 97](Yasts_8#p97), nota [4](Yasts_8#fn479).
+[^919]: 194:3 Véase arriba, [p. 97](../Yasts_8#p97), nota [4](../Yasts_8#fn479).
 
 [^920]: 195:1 Keresâspa yace dormido en la llanura de Pê<i>s</i>yânsâi; 'la gloria (lejos) del cielo se yergue sobre él con el propósito de que, cuando A<i>z</i>\-i-Dahâk quede liberado, pueda levantarse y matarlo; y una miríada de espíritus guardianes de los justos son como una protección para él' (Bundahi<i>s</i> XXIX, 8; tr. Oeste).
 
@@ -1216,7 +1216,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^927]: 197:3 Âsna = âzana (?).
 
-[^928]: 197:4 Cf. [p. 165](Yasts_11#p165), nota [1](Yasts_11#fn769).
+[^928]: 197:4 Cf. [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769).
 
 [^929]: 197:5 Cf. Yt. XIII, 10.
 
@@ -1280,7 +1280,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^959]: 203:1 Maidhyô-m<i>a</i>ungha era el primo y primer discípulo de Zaratustra; el padre de Zaratustra, Pourushaspa, y Ârâsti eran hermanos (Bund. XXXII, 3); cf. Yasna LI \[L\], 19.
 
-[^960]: 203:2 Cf. [p. 33](Yasts_1#p33), nota [2](Yasts_1#fn173); Yt. XXII, 37.
+[^960]: 203:2 Cf. [p. 33](../Yasts_1#p33), nota [2](../Yasts_1#fn173); Yt. XXII, 37.
 
 [^961]: 203:3 Se menciona otro Par<i>s</i>a<i>t</i>\-g<i>a</i>u<i>s</i> en el § 126.
 
@@ -1344,7 +1344,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^993]: 209:4 Cf. Yt. XIII, 99.
 
-[^995]: 210:1 Amru y <i>K</i>amru son aparentemente las dos aves míticas mencionadas anteriormente bajo los nombres de Sîn-amru (el halcón Amru) y <i>K</i>ãmrô<i>s</i> ([p. 173](Yasts_12#p173), nota [1](Yasts_12#fn795)).
+[^995]: 210:1 Amru y <i>K</i>amru son aparentemente las dos aves míticas mencionadas anteriormente bajo los nombres de Sîn-amru (el halcón Amru) y <i>K</i>ãmrô<i>s</i> ([p. 173](../Yasts_12#p173), nota [1](../Yasts_12#fn795)).
 
 [^997]: 210:2 El Sr. West compara a Ashâvanghu, el hijo de Biva<i>n</i>dangha, y a <i>G</i>arôdanghu, el hijo de Pairi<i>s</i>tîra, con los dos sumos sacerdotes de los Karshvares de Arezahi y Savahi, cuyos nombres son, en la pág. 211 Bundahi<i>s</i>, Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i>a<i>n</i>d<i>k</i>ân y Hoazarôdathhri-ê Parê<i>s</i>tyarô (Bund. XXIX, 1, notas 4 y 5).
 
@@ -1418,13 +1418,13 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^1038]: 221:1 Él suprimirá tanto el poder destructivo de los hombres del Droga (idólatras y similares) como los errores de los Mazdayasnians (?).
 
-[^1039]: 221:2 Véase arriba, [p. 25](Yasts_1#p25), nota [4](Yasts_1#fn117).
+[^1039]: 221:2 Véase arriba, [p. 25](../Yasts_1#p25), nota [4](../Yasts_1#fn117).
 
 [^1040]: 221:3 Vouru-vãthwa; cf. Estudios iraníes, II, 182.
 
 [^1041]: 221:4 Como hizo que las aguas y los árboles no se secasen, y que el ganado y los hombres no muriesen.
 
-[^1042]: 221:5 Véase arriba, [p. 61](Yasts_5#p61), nota [1](Yasts_5#fn305).
+[^1042]: 221:5 Véase arriba, [p. 61](../Yasts_5#p61), nota [1](../Yasts_5#fn305).
 
 [^1043]: 221:6 Como inventor de la medicina; véase Vend. XX, Introd.
 
@@ -1434,7 +1434,7 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^1046]: 221:9 Llamado en el Shah Nâmah Zab, hijo de Tahmâsp, que parece haber sido hijo de Nodar (Bund. XXXI, 23).
 
-[^1047]: 222:1 Véase arriba, [p. 114](Yasts_9#p114), nota [7](Yasts_9#fn545) (Yt. IX, 18).
+[^1047]: 222:1 Véase arriba, [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545) (Yt. IX, 18).
 
 [^1048]: 222:2 Airyu, el más joven de los tres hijos de Thraêtaona (véase 61, nota i), fue asesinado por sus hermanos y vengado por su hijo Manu<i>s</i>\-<i>k</i>ithra, quien sucedió a Thraêtaona.
 
@@ -1444,11 +1444,11 @@ Ashem Vohû.: La santidad es el mejor de todos los bienes. . . .
 
 [^1054]: 222:5 Usadhan, Arshan, Pisanah y Byârshan fueron los cuatro hijos de Aipivanghu; se les llama en Firdausi Kai Kaus, Kai Arish, Kai Pashîn y Kai Armin. Sólo Kai Kaus subió al trono.
 
-[^1056]: 222:6 Syâvakhsh y Khosrav; ver arriba, [p. 64](Yasts_5#p64), nota [1](Yasts_5#fn315).
+[^1056]: 222:6 Syâvakhsh y Khosrav; ver arriba, [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
 [^1057]: 222:7 Llegar a poseer fuerza, victoria, etc., como lo hizo Husravah.
 
-[^1058]: 223:1 Como Frangrasyan; cf. [p. 64](Yasts_5#p64), nota [1](Yasts_5#fn315).
+[^1058]: 223:1 Como Frangrasyan; cf. [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
 [^1059]: 223:2 Véase Yt. V, 37; XV, 27; XIX, 38.
 

@@ -32,15 +32,15 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>pág. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 ## TERCERA PARTE
 
-<span id="p210">[<sup><small>pág. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/21000.jpg)
 
-<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 
 Mahaprajapati meditaba. Conocía la vanidad de este mundo. Quería huir del palacio, huir de Kapilavastu y llevar una vida de santidad.
@@ -77,13 +77,13 @@ Oh, reina, ¿por qué has venido aquí vestida así? ¿Por qué estás ante la p
 
 No me atrevo a entrar en su presencia. Ya ha negado mi petición tres veces, y lo que ha rechazado tres veces, he venido a pedirle de nuevo: que me conceda el favor, que se le conceda a las mujeres entrar en la comunidad.
 
-“Intercederé por ti, oh reina”, dijo Ananda.
+«Intercederé por ti, oh reina», dijo Ananda.
 
 Entró en la sala. Vio al Maestro y le dijo:
 
 Bendito, Mahaprajapati, nuestra venerada reina, se encuentra ante tu puerta. No se atreve a presentarse ante ti; teme que vuelvas a hacer oídos sordos a su súplica. Sin embargo, no es la súplica de una mujer insensata, Bendito. ¿Significaría tanto para ti concederla? La reina fue una madre para ti; siempre fue bondadosa contigo; sin duda merece ser escuchada. ¿Por qué no deberías <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> recibir mujeres en la comunidad? Hay mujeres de gran piedad, mujeres con el valor santo de mantenerse en el camino de la santidad.
 
-“Ananda”, dijo el Maestro, “no me pidas que permita que las mujeres entren en la comunidad”.
+«Ananda», dijo el Maestro, «no me pidas que permita que las mujeres entren en la comunidad».
 
 Ananda se fue. La reina lo estaba esperando.
 
@@ -93,7 +93,7 @@ Ananda se fue. La reina lo estaba esperando.
 
 Al día siguiente, Ananda fue nuevamente a ver al Bendito.
 
-“Mahaprajapati no ha abandonado el bosque”, dijo. Ella piensa en los días felices de su juventud. Maya vivía entonces; Maya, la más hermosa de todas las mujeres; Maya, de quien nacería un hijo. La hermana de Maya era una mujer noble: no conocía la envidia; amaba a este niño, incluso antes de que naciera. Y cuando nació, para traer alegría a todas las criaturas, la reina Maya murió. Mahaprajapati fue bondadosa con el niño huérfano de madre: parecía tan frágil. Lo protegió del mal; le dio enfermeras devotas; lo resguardó de la influencia de sirvientes malvados; lo prodigó con sus cuidados y su ternura. Él envejeció, y aun así ella no lo abandonó. Se anticipó a sus más mínimos deseos; lo adoró. Y él alcanzó la más feliz fortuna; él es el árbol gigante que cobija a los sabios; y ahora, cuando ella buscaría un humilde lugar a su sombra, se le niega la paz y el descanso que ella deseaba. aspira. Oh Maestro, no seas injusto; recibe a Mahaprajapati en la comunidad”.
+«Mahaprajapati no ha abandonado el bosque», dijo. Ella piensa en los días felices de su juventud. Maya vivía entonces; Maya, la más hermosa de todas las mujeres; Maya, de quien nacería un hijo. La hermana de Maya era una mujer noble: no conocía la envidia; amaba a este niño, incluso antes de que naciera. Y cuando nació, para traer alegría a todas las criaturas, la reina Maya murió. Mahaprajapati fue bondadosa con el niño huérfano de madre: parecía tan frágil. Lo protegió del mal; le dio enfermeras devotas; lo resguardó de la influencia de sirvientes malvados; lo prodigó con sus cuidados y su ternura. Él envejeció, y aun así ella no lo abandonó. Se anticipó a sus más mínimos deseos; lo adoró. Y él alcanzó la más feliz fortuna; él es el árbol gigante que cobija a los sabios; y ahora, cuando ella buscaría un humilde lugar a su sombra, se le niega la paz y el descanso que ella deseaba. aspira. Oh Maestro, no seas injusto; recibe a Mahaprajapati en la comunidad”.
 
 El Maestro reflexionó; luego pronunció con gravedad estas palabras:
 

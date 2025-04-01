@@ -186,7 +186,7 @@ Con la culpa de su propio pecado, porque él mismo,
 Insaciable de gloria, lo había perdido todo;
 Pronto se le ocurrió otra excusa:
 
-“De la gloria, como quieras”, dijo él, “así lo consideras;
+«De la gloria, como quieras», dijo él, “así lo consideras;
 Valga o no la pena buscarlo, déjalo pasar.
 Pero a un Reino has nacido ordenado.
 Para sentarte en el trono de David tu padre,

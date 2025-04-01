@@ -32,15 +32,15 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span> pág. 101
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span> pág. 101
 
 ## PARTE DOS
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/10200.jpg)
 
-<span id="p103">[<sup><small>pág. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 
 El Buda permaneció inmóvil. Permaneció bajo el árbol, con las piernas cruzadas. Se sintió lleno de dicha por haber alcanzado el conocimiento perfecto. Pensó: «He encontrado la liberación». Permaneció inmóvil bajo el árbol del conocimiento durante una semana entera.
@@ -69,9 +69,9 @@ Tomó un trozo de madera seca y empezó a dibujar figuras en la arena. Sus tres 
 
 —Me ha vencido un hombre santo —respondió Mara—. Es una prueba de mi fuerza y ​​mi astucia.
 
-“Padre”, dijo Trishna, “somos hermosas y tenemos maneras seductoras”.
+«Padre», dijo Trishna, «somos hermosas y tenemos maneras seductoras».
 
-“Iremos a ver a este hombre”, continuó Arati; “lo atamos con las cadenas del amor y lo traemos ante ti, humillado y cobarde”.
+«Iremos a ver a este hombre», continuó Arati; «lo atamos con las cadenas del amor y lo traemos ante ti, humillado y cobarde».
 
 Fueron donde Buda y cantaron:
 
@@ -81,17 +81,17 @@ Pero el Bendito no se conmovió ante la canción. Les frunció el ceño a las j�
 
 Desesperados, regresaron con su padre. «Padre», exclamó Rati, «mira lo que le ha hecho a nuestra juventud y a nuestra belleza».
 
-“El amor nunca le hará daño”, dijo Trishna, “porque fue capaz de resistirse a nuestros encantos”.
+«El amor nunca le hará daño», dijo Trishna, «porque fue capaz de resistirse a nuestros encantos».
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
-“Oh”, suspiró Arati, “cuán cruelmente nos ha castigado”.
+«Oh», suspiró Arati, «cuán cruelmente nos ha castigado».
 
-“Padre”, imploró Trishna, “cúranos de esta horrible vejez”.
+«Padre», imploró Trishna, «cúranos de esta horrible vejez».
 
-“¡Devuélvanos nuestra juventud!” gritó Rati.
+«¡Devuélvanos nuestra juventud!» gritó Rati.
 
-“¡Devuélvannos nuestra belleza!” gritó Arati.
+«¡Devuélvannos nuestra belleza!» gritó Arati.
 
 —Pobres hijas mías —respondió Mara—, me duele su pérdida. Sí, él ha vencido al amor; está más allá de mi poder, y estoy triste. Me suplican que les devuelva su juventud y su belleza, pero ¿cómo puedo? Solo el Buda puede deshacer lo que el Buda ha hecho. Regresen con él; reconozcan que fueron culpables; díganle que están arrepentidas, y tal vez les devuelva sus encantos.
 
@@ -125,11 +125,11 @@ Debe ser algún monje. Quizás quiera comer algo.
 
 Trapusha y Bhallika se acercaron al carro que transportaba las provisiones. Encontraron harina y pasteles de miel, y se los llevaron al Buda.
 
-“Tómalos, hombre santo”, dijeron ofreciéndole los pasteles, “tómalos y ten piedad de nosotros”.
+«Tómalos, hombre santo», dijeron ofreciéndole los pasteles, «tómalos y ten piedad de nosotros».
 
 El Bendito no tenía cuenco para recibir limosna. No sabía qué hacer. Los dioses, que observaban desde los cuatro puntos cardinales de la tierra, vieron su perplejidad y rápidamente le trajeron cuencos de oro. Pero el Bendito se dijo a sí mismo:
 
-“En verdad, sería indecoroso que un monje recibiera limosna en un cuenco de oro”.
+«En verdad, sería indecoroso que un monje recibiera limosna en un cuenco de oro».
 
 Y rechazó los cuencos de oro. Los dioses le trajeron cuencos de plata, que también rechazó. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> Asimismo, rechazó los cuencos de esmeralda y solo aceptó cuencos de piedra.
 

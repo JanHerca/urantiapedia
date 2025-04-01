@@ -98,7 +98,7 @@ Y así el furioso demonio se dirigió:
 «¿No te conviene, oh amigo de la virtud,
 Mis cimas de montañas para partirlas y desgarrarlas;
 
-<span id="p336">[<sup><small>pág. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Para mí, el tranquilo retiro del ermitaño,
 Para los hechos de guerra no soy apto en absoluto,
@@ -214,7 +214,7 @@ Junto a la celda del ermitaño de Santa Matanga:
 Matanga vio, ilustre sabio,
 Esas gotas contaminan su ermita,
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 Y mientras se maravillaba de dónde venían,
 La ira feroz llenó su alma de llamas:
@@ -342,7 +342,7 @@ Surgen pensamientos de sus terribles acciones.
 Y llena mi alma de tristes sospechas.
 Discurso, forma y confianza que nada puede mover
 
-<span id="p338">[<sup><small>pág. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Tu fuerza secreta y tu gloria prueban,
 Mientras las cenizas humeantes se muestran tenuemente
@@ -447,7 +447,7 @@ Sugríva, a la lucha se dirigió,
 Se ciñó más el chaleco,
 Y lanzó un grito salvaje que atravesó el cielo.
 
-<span id="p339">[<sup><small>pág. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 Para llamar al enemigo Báli.
 Apareció impetuoso Báli, agitado
@@ -548,7 +548,7 @@ Mientras caminaba al lado de su camarada.
 Y, aún con la intención de la palabra de Ráma,
 Sus pasos se dirigieron hacia el gran Kishkindhá.
 
-<span id="p340">[<sup><small>pág. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 
 
@@ -628,7 +628,7 @@ A veces se escuchan tonos dulces.
 El sonido de las tobilleras, anillos y zonas.
 Escuchas la canción y el sonido de la música,
 Y una fragancia celestial se respira alrededor,
-Allí arden debidamente los fuegos triples [1](Libro_4_20#fn578)
+Allí arden debidamente los fuegos triples [1](../Libro_4_20#fn578)
 Donde el humo se eleva en espirales ondulantes,
 Y, en una corona parda, cuelga por encima
 Los árboles altos, como una paloma incubadora.
@@ -667,7 +667,7 @@ Tejieron alrededor de sus formas una pantalla veladora.
 Sobre toda la agradable sombra del jardín
 Los ojos del rey Sugriva se desviaron,
 
-<span id="p341">[<sup><small>pág. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Y, mientras miraba la hierba y el árbol,
 Los fuegos de la ira ardieron en su interior.
@@ -743,7 +743,7 @@ En el reinado de algún monarca innoble.
 El ciervo corrió en salvaje confusión.
 Como caballos girando en la vanguardia de la batalla.
 Cayeron los pájaros, como dioses que caen.
-Cuando los méritos fallan, [1](Libro_4_20#fn579), ante ese terrible llamado.
+Cuando los méritos fallan, [1](../Libro_4_20#fn579), ante ese terrible llamado.
 Tan ferozmente, audaz para la lucha,
 La descendencia del Señor del Día
 Lanzó su grito furioso tan fuerte
@@ -784,7 +784,7 @@ Como una corona marchita de ayer,
 Oh, espera hasta la luz de la mañana,
 Entonces, si quieres, sal y lucha.
 
-<span id="p342">[<sup><small>pág. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 No creas que dudo de tu valor, no;
 ¿O te consideras más débil que tu enemigo?
@@ -901,7 +901,7 @@ Y domar al enemigo no lo mataría.
 Mi furia, armada con árboles blandidos,
 Derribará a Sugríva de rodillas:
 
-<span id="p343">[<sup><small>pág. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
 Ni el enemigo humillado resistirá.
 Los golpes de mi mano vengadora,
@@ -964,7 +964,7 @@ Báli, medio vencido, se hundió y se tambaleó,
 Como se hunde un barco con su carga
 Abrumado por un peso abrumador.
 
-Veloz como el vuelo más veloz de Suparna [1](Libro_4_20#fn583)
+Veloz como el vuelo más veloz de Suparna [1](../Libro_4_20#fn583)
 Con una fuerza terrible se lanzaron a la lucha:
 Así también el sol y la luna en lo alto
 Enfrentando batalla en el cielo.
@@ -987,7 +987,7 @@ Y puso su flecha en el arco.
 Como a un orbe el arco que él dibujó
 De la cuerda salió volando la flecha.
 Como el tremendo disco lanzado por el destino
-Por Yama [2](Libro_4_20#fn584) salió para acabar con el mundo.
+Por Yama [2](../Libro_4_20#fn584) salió para acabar con el mundo.
 Tan fuerte el estruendo que todos los pájaros
 Los clanes de la cuerda del arco oyeron con terror,
 Y el ciervo asustado huyó salvajemente
@@ -1001,7 +1001,7 @@ Atravesó el pecho de Báli y allí tembló.
 Golpeado por el eje que voló tan bien
 El poderoso Vánar se tambaleó y cayó,
 Como la bandera de Indra en la tierra, ellos la levantan.
-Cuando la hermosa luna de As'víní está llena [3](Libro_4_20#fn585)
+Cuando la hermosa luna de As'víní está llena [3](../Libro_4_20#fn585)
 
 
 
@@ -1012,7 +1012,7 @@ El valiente Báli fue arrojado al suelo,
 Donde postrado en el polvo rodó
 Revestido con el brillo del oro reluciente,
 
-<span id="p344">[<sup><small>pág. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 Como cuando el estandarte se desgarra
 Del gran Dios que gobierna los cielos.
@@ -1116,7 +1116,7 @@ Estos le dan al príncipe su mejor renombre.
 Aquí en el bosque, oh Rey, vivimos.
 Sobre las raíces y los frutos que dan las ramas. [^590]
 
-<span id="p345">[<sup><small>pág. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 Así creó la naturaleza nuestra inofensiva raza:
 Eres un hombre supremo en su puesto.
@@ -1214,14 +1214,14 @@ La dama Maithil a su señor;
 Y, atando a Ravan con una cadena,
 Lo había puesto a tus pies sin matarlo.
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 Sí, aunque estuviera hundida en el más profundo infierno,
 O abrumado bajo el oleaje del océano,
 Yo habría seguido su rastro
 Y trajo de vuelta a la dama rescatada,
-Como Hayagríva [1](Libro_4_20#fn595) una vez liberado
-Del infierno el blanco As'vatarí. [2](Libro_4_20#fn596)
+Como Hayagríva [1](../Libro_4_20#fn595) una vez liberado
+Del infierno el blanco As'vatarí. [2](../Libro_4_20#fn596)
 Que cuando mi espíritu alza el vuelo
 El reinado de Sugríva es justo y correcto.
 Pero soy muy injusto, oh Rey, que yo,
@@ -1229,7 +1229,7 @@ Muerto por tu mano traidora, debería yacer,
 Quédate quieto, corazón mío: este estado terrenal
 Está gobernado oscuramente por el Destino soberano.
 El reino está perdido y ganado: desafía
-Tus interrogadores con respuesta adecuada.' [3](Libro_4_20#fn597)
+Tus interrogadores con respuesta adecuada.' [3](../Libro_4_20#fn597)
 
 
 
@@ -1318,7 +1318,7 @@ Para controlar la erupción de quienes se atreven a desviarse
 De la costumbre que los buenos obedecen,
 No puedo, descendiente de Kshatriya,
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 Perdona este atroz pecado tuyo:
 Las leyes para los que pecan como tú
@@ -1422,7 +1422,7 @@ Perdona las burlas enojadas que estallaron
 Desde mi pecho salvaje mientras hablaba.
 Y no me acuses, oh Rey,
 
-<span id="p348">[<sup><small>pág. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 El vano aguijón de mis locos reproches.
 Tú, entrenado en la verdad por la prueba,
@@ -1545,7 +1545,7 @@ Los Vánars huyeron y presenciaron su caída.
 Que todos nuestros jefes traigan su socorro,
 Y Angad fue ungido rey;
 
-<span id="p349">[<sup><small>pág. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Para todos los que vienen de la raza Vánar
 Le serviremos en el lugar de Báli.
@@ -1666,7 +1666,7 @@ Cuya mano vil asestó un golpe cobarde,
 ¡Y te hirió luchando con tu enemigo!
 ¡Ay de mi señor, mis días!
 
-<span id="p350">[<sup><small>pág. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 En amarga, amarga pena pasará:
 Y yo, bendecido durante mucho tiempo con todo bien,
@@ -1743,7 +1743,7 @@ Se sentó en el suelo donde yacía Bálí.
 
 [^568]: 335:1 Justo porque nunca transgrede sus límites, y
   “sobre sus grandes mareas
-  “La fidelidad preside.”
+  «La fidelidad preside.»
 
 [^569]: 335:2 Himálaya, el Señor de la Nieve, es el padre de Umá, la esposa de S'iva o S'ankar.
 
@@ -1796,19 +1796,19 @@ Se sentó en el suelo donde yacía Bálí.
 
 [^591]: 345:1 Que un hermano menor se case antes que el mayor es una grave violación de la ley y el deber de la India. La misma ley se aplicaba a las hijas de los hebreos: «En nuestro país no debe darse a la menor antes que a la primogénita». Génesis 19:26.
 
-[^592]: 345:1b “El erizo y el puercoespín, el lagarto, el rinoceronte, la tortuga y el conejo o la liebre, sabios legisladores \*deliran\* el alimento lícito entre los animales de cinco dedos.” \*MANU, i.\* 18.
+[^592]: 345:1b «El erizo y el puercoespín, el lagarto, el rinoceronte, la tortuga y el conejo o la liebre, sabios legisladores \*deliran\* el alimento lícito entre los animales de cinco dedos.» \*MANU, i.\* 18.
 
-[^593]: 345:2b “No puede sujetar su causa desmoralizada dentro del cinturón del gobierno.” MACBETH.
+[^593]: 345:2b «No puede sujetar su causa desmoralizada dentro del cinturón del gobierno.» MACBETH.
 
 [^594]: 345:3b El _Ankus_ o gancho de hierro con el que se conduce y guía a un elefante.
 
 [^595]: 346:1 Hayagríva, con cuello de caballo, es una forma de Vishnu
 
-[^596]: 346:2 “As'vatara es el nombre de un jefe de los Nágas o serpientes que habitan las regiones subterráneas; también es el nombre de un Gandharva. As'vatarí debería ser la esposa de uno de los dos, pero no estoy seguro de que esta conjetura sea correcta. El comentarista no dice quién es esta As'vatarí ni a qué tradición o mito se alude. Vimalabodha lee As'vatarí en nominativo y explica: As'vatarí es el sol, y así como el sol con sus rayos trae de vuelta a la luna, que se ha hundido en el océano y las regiones infernales, así también yo traeré de vuelta a Sítá”. GORRESIO.
+[^596]: 346:2 «As'vatara es el nombre de un jefe de los Nágas o serpientes que habitan las regiones subterráneas; también es el nombre de un Gandharva. As'vatarí debería ser la esposa de uno de los dos, pero no estoy seguro de que esta conjetura sea correcta. El comentarista no dice quién es esta As'vatarí ni a qué tradición o mito se alude. Vimalabodha lee As'vatarí en nominativo y explica: As'vatarí es el sol, y así como el sol con sus rayos trae de vuelta a la luna, que se ha hundido en el océano y las regiones infernales, así también yo traeré de vuelta a Sítá». GORRESIO.
 
 [^597]: 346:3 Es decir, 'Considera qué respuesta puedes dar a tus acusadores cuando te acusen de injusticia al matarme.'
 
-[^598]: 347:1 Manu, Libro VIII. 318. “Pero los hombres que han cometido ofensas y han recibido de los reyes el castigo que les corresponde, van puros al cielo y se vuelven tan limpios como aquellos que han obrado bien.”
+[^598]: 347:1 Manu, Libro VIII. 318. «Pero los hombres que han cometido ofensas y han recibido de los reyes el castigo que les corresponde, van puros al cielo y se vuelven tan limpios como aquellos que han obrado bien.»
 
 [^599]: 347:2 Mándhátá fue uno de los primeros descendientes de Ikshváku. Su nombre se menciona en la genealogía de Ráma, pág. 81.
 

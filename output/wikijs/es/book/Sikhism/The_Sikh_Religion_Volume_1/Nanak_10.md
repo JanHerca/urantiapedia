@@ -39,7 +39,7 @@ El Gurú partió entonces hacia Pasrur, y de allí a Sialkot, la fortaleza de la
 La amistad con Karars es falsa y falso es su fundamento.
 Mula no veía de dónde le vendría la muerte.[^1]
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Tras completar su labor en Sialkot, el Gurú se dirigió al sur del Punjab hasta Mithankot (en el actual distrito de Dera Ghazi Khan), donde residía Mian Mitha, un famoso sacerdote musulmán. El Gurú se instaló en un jardín cerca de la ciudad. Al enterarse de la llegada del Gurú, Mian Mitha dijo: «Nanak es un buen faquir; pero si me lo encuentro, le exprimiré el jugo como a un limón». Mardana, al informarle de su discurso al Gurú, dijo: «Mian Mitha es tu autómata y tocará como tú le hagas tocar». Mian Mitha continuó jactándose: «Iré a ver a Nanak y, si me lo encuentro, le quitaré la crema como si fuera leche desnatada». Mian Mitha se encontró con el Gurú y, tras saludarlo al estilo musulmán, se sentó. Lo desafió con el siguiente slok:
 
@@ -57,7 +57,7 @@ Actúa según el Corán y tus libros sagrados.
 Pon la mecha del miedo en tu cuerpo
 Quema en él el conocimiento de la verdad;
 
-<span id="p124">[<sup><small>pág. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Así arderá tu lámpara sin aceite.
 Haz una luz así, y hallarás al Señor.
@@ -82,7 +82,7 @@ Nanak, el verdadero Nombre, la fuente de consuelo en esta última era, procurar�
 Teméis a los leones, a los chacales y a las serpientes; pero ellos harán su morada en vuestros sepulcros.
 Los bueyes excavarán vuestras tumbas, y hasta el odio de vuestros enemigos hacia vosotros se enfriará.
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Hermanos, amigos y amantes, leed la fatiha[^1] y decid oraciones _por los difuntos_.
 Nanak, esas cosas son falsas, y sólo Dios es verdadero.
@@ -103,7 +103,7 @@ Como papel serán golpeados con mazos y puestos en prensas;
 Serán ardiendo como hierro, arderán y gritarán;
 Las cabezas de los miserables serán tomadas con tenazas y colocadas sobre yunques,
 
-<span id="p126">[<sup><small>pág. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Sobre los cuales serán golpeados con martillos al ritmo de la marcha del herrero.
 Nanak, sin el verdadero Nombre no tendrán descanso ni en este mundo ni en el próximo.
@@ -126,7 +126,7 @@ La nariz y los ojos también se declararán inocentes, y será la pobre alma la 
 El alma arrestada en el tribunal de la Muerte _suplica_: 'Son los sentidos los que han llevado al mundo entero por mal camino:
 'Los sentidos unidos han arrojado al hombre a la miseria, como el herrero coloca el hierro sobre el yunque.'
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Nanak, aquel que no encuentra al verdadero Gurú y no obtiene el conocimiento divino, no encontrará descanso en este mundo ni en el próximo.
 El alma será limada setenta veces como una flecha;
@@ -147,7 +147,7 @@ Haz de la honestidad tu corcel, de la verdad tu silla de montar, de la continenc
 Las cinco virtudes[^1] tus flechas, y la verdad tu espada y tu escudo.
 Nanak, los hombres piadosos que tienen verdad en sus corazones, obtendrán honor en la corte de Dios.
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Brahma, que vino al mundo repitiendo los Veds, no puede describir a Dios.
 ¿Qué es el pobre Krishan que por orden de Dios descendió a la tierra?
@@ -167,7 +167,7 @@ El hombre sin fe es inmundo; el de corazón tierno es puro.
 El conocimiento es gentileza. Los no avaros son santos, los avaros son impacientes.
 El hombre honesto tiene el rostro brillante; el ingrato, el amarillo.
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 La verdad es el cielo, la falsedad es el infierno.
 La mansedumbre es alimento.

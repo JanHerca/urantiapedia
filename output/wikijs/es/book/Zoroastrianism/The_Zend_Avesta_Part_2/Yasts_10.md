@@ -1,6 +1,6 @@
 ---
 title: "X. Mihir Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Este Yast, uno de los más extensos del Avesta y uno de los más interesantes desde el punto de vista literario, no resulta muy instructivo para la mitología. Consiste en largos fragmentos descriptivos, a veces bastante animados, y en fervientes oraciones e invocaciones de misericordia o protección. Originalmente, Mitra era el dios de la luz celestial (§§ 12, 50, 67, 104, 124 y ss., 136 y ss., etc.); y en esa condición conoce la verdad, pues lo ve todo; por lo tanto, se le considera testigo de la verdad, es el protector de los juramentos y la buena fe (§§ 2, 44 y ss., 79 y ss., 81 y ss., etc.). Él castiga a quienes rompen sus promesas y mienten a Mitra, destruye sus casas y los hiere en batalla (§§ 17 y siguientes, 28 y siguientes, 35 y siguientes, 47 y siguientes, 99 y siguientes, 105 y siguientes, 112 y siguientes, 128 y siguientes, etc.).
 
@@ -134,7 +134,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
-<span id="p126">[<sup><small>pág. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## VII.
 
@@ -192,7 +192,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 41\. 'Mitra les infunde miedo; Rashnu [^600] les infunde un miedo contrario [^601]; el santo Sraosha los dispersa por doquier hacia los dos Yazatas, los sustentadores del mundo [^602]. Hacen que las filas del ejército se dispersen, mientras Mitra, el señor <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> de los vastos pastos, enojado, ofendido e insatisfecho, llega a su encuentro [^603].
 
-42\. 'Llaman a Mitra, señor de los amplios pastos, diciendo: “¡Oh, Mitra, señor de los amplios pastos! ¡Aquí están nuestros caballos bravos llevándonos, huyendo de Mitra! ¡Aquí están nuestros robustos brazos destrozados por la espada, oh, Mitra!”
+42\. 'Llaman a Mitra, señor de los amplios pastos, diciendo: «¡Oh, Mitra, señor de los amplios pastos! ¡Aquí están nuestros caballos bravos llevándonos, huyendo de Mitra! ¡Aquí están nuestros robustos brazos destrozados por la espada, oh, Mitra!»
 
 43\. 'Y entonces Mitra, el señor de los amplios pastos, los arroja al suelo, matando a sus cincuenta y a sus cientos, a sus cientos y a sus miles, a sus miles y a sus decenas de miles, a sus decenas de miles y a sus miríadas de miríadas; mientras Mitra, el señor de los amplios pastos, estaba enojado y ofendido.
 
@@ -310,7 +310,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Por su brillo y gloria, le ofrecemos un sacrificio digno de ser escuchado...
 
-<span id="p138">[<sup><small>pág. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 ## XIX.
 
@@ -320,7 +320,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 74\. ' "¡Oh Ahura Mazda, espíritu más benéfico! ¡Creador del mundo material, tú, Santo!
 
-“Si los hombres me adoraran [^641] con un sacrificio en el que yo fuera invocado por mi propio nombre, como adoran a los otros dioses con sacrificios en los que son invocados por sus propios nombres, entonces yo vendría a los fieles en el tiempo señalado; vendría en el tiempo señalado de mi hermosa e inmortal vida [^642].”
+«Si los hombres me adoraran [^641] con un sacrificio en el que yo fuera invocado por mi propio nombre, como adoran a los otros dioses con sacrificios en los que son invocados por sus propios nombres, entonces yo vendría a los fieles en el tiempo señalado; vendría en el tiempo señalado de mi hermosa e inmortal vida [^642].»
 
 75\. 'Que podamos conservar nuestro campo; que nunca seamos exiliados [^643] de nuestro campo, exiliados de nuestra casa, exiliados de nuestro municipio, exiliados de nuestra ciudad, exiliados de nuestro país.
 
@@ -372,7 +372,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 86\. 'La vaca extraviada le invoca en busca de ayuda [^651], añorando los establos:
 
-“¿Cuándo nos traerá de vuelta ese toro, Mitra, el señor de los amplios pastos, y nos hará llegar a los establos? ¿Cuándo nos hará volver al camino correcto desde la guarida del Droga adonde fuimos expulsados ​​[^652]?”
+«¿Cuándo nos traerá de vuelta ese toro, Mitra, el señor de los amplios pastos, y nos hará llegar a los establos? ¿Cuándo nos hará volver al camino correcto desde la guarida del Droga adonde fuimos expulsados ​​[^652]?»
 
 87\. 'Y a aquel con quien Mitra, el señor de los amplios pastos, se ha saciado, le viene con ayuda; y a aquel con quien Mitra, el señor de los amplios pastos, se ha ofendido, le derriba la casa, el municipio, la ciudad, la provincia, el país.
 
@@ -418,7 +418,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'De quien todos los Daêvas invisibles y los demonios Varenya huyen con miedo [^668].
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 'El señor de las naciones, Mitra, el señor de los amplios pastos, avanza a la derecha de esta tierra ancha y redonda, cuyos confines se encuentran lejos.
 
@@ -438,7 +438,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## XXVII.
 
@@ -448,7 +448,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 105\. 'Y tú, ¡oh Mitra!, abarcando todo esto a tu alrededor, alcánzalo por todas partes con tus brazos.
 
-'El hombre sin gloria [^674], extraviado del camino recto, se aflige en su corazón; el hombre sin gloria piensa así en sí mismo: “Ese descuidado Mitra no ve todo el mal que se hace, ni todas las mentiras que se dicen”.
+'El hombre sin gloria [^674], extraviado del camino recto, se aflige en su corazón; el hombre sin gloria piensa así en sí mismo: «Ese descuidado Mitra no ve todo el mal que se hace, ni todas las mentiras que se dicen».
 
 106\. 'Pero esto pienso en mi corazón:
 
@@ -456,19 +456,19 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 "Si las malas palabras del hombre terrenal fueran cien veces peores, no se elevarían tan alto como las buenas palabras del Mitra celestial;
 
-<span id="p147">[<sup><small>pág. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 "Si las malas acciones del hombre terrenal fueran cien veces peores, no se elevarían tan alto como las buenas acciones del Mitra celestial;
 
 107\. ' "Si la sabiduría celestial [^675] en el hombre terrenal fuese cien veces mayor, no se elevaría tan alto como la sabiduría celestial en el Mitra celestial;
 
-“Y así, si los oídos del hombre terrenal oyeran cien veces mejor, no oiría tan bien como el Mitra celestial, cuyo oído oye bien, que tiene mil sentidos y ve a todo hombre que dice una mentira”.
+«Y así, si los oídos del hombre terrenal oyeran cien veces mejor, no oiría tan bien como el Mitra celestial, cuyo oído oye bien, que tiene mil sentidos y ve a todo hombre que dice una mentira».
 
 'Mitra se yergue en su fuerza, conduce a la majestuosidad de la realeza y envía desde sus ojos hermosas miradas que brillan desde lejos, (diciendo):
 
 108\. "¿Quién me ofrecerá un sacrificio? ¿Quién me mentirá? ¿Quién me considera un dios digno de un buen sacrificio? ¿Quién me considera digno solo de un mal sacrificio? ¿A quién, con mi poder, impartiré brillo y gloria? ¿A quién, con mi poder, salud física? ¿A quién, con mi poder, impartiré riquezas y plenitud? ¿A quién bendeciré criándole una descendencia virtuosa?
 
-109\. '“¿A quién le daré a cambio, sin que lo piense, la imponente soberanía, bellamente dispuesta, con numerosos ejércitos y la más perfecta; la soberanía de un tirano todopoderoso, que se deja vencer, valiente, castigador e ileso; que ordena que se ejecute el castigo y su orden se cumple de inmediato, la que ordenó en su ira?”
+109\. '«¿A quién le daré a cambio, sin que lo piense, la imponente soberanía, bellamente dispuesta, con numerosos ejércitos y la más perfecta; la soberanía de un tirano todopoderoso, que se deja vencer, valiente, castigador e ileso; que ordena que se ejecute el castigo y su orden se cumple de inmediato, la que ordenó en su ira?»
 
 ¡Oh, Mitra! Cuando te sientes ofendido e insatisfecho, él [^677] apacigua tu mente y satisface a Mitra. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> 110\. '¿A quién, con mi poder, le daré enfermedad y muerte? ¿A quién le daré pobreza y esterilidad [^678]? ¿A quién le quitaré de un plumazo la descendencia?
 
@@ -504,7 +504,7 @@ Un guerrero con yelmo de plata [^680], coraza de oro [^680], que mata con puñal
 
 'Mitra es cuarenta entre dos socios [^688];
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 'Mitra es cincuenta veces mayor entre esposa y esposo [^689];
 
@@ -532,7 +532,7 @@ Un guerrero con yelmo de plata [^680], coraza de oro [^680], que mata con puñal
 
 '¡Ofrece un sacrificio a Mitra, oh Spitama! y ordena a tus alumnos que hagan lo mismo.
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 'Que el adorador de Mazda te ofrezca sacrificios [^695] con ganado pequeño, con ganado negro, con pájaros voladores, que se deslizan hacia adelante con sus alas.
 
@@ -556,7 +556,7 @@ Un guerrero con yelmo de plata [^680], coraza de oro [^680], que mata con puñal
 
 126\. 'A su derecha conduce Rashnu-Razi<i>s</i>ta [^706], el más benéfico y el más bien formado.
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 'A su izquierda conduce la muy recta <i>Kista</i> [^707], la santa, llevando libaciones en sus manos, vestida con ropas blancas, y blanca ella misma; y el pensamiento maldiciente [^708] de la Ley de Mazda.
 
@@ -614,7 +614,7 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 ## XXXIV.
 
@@ -634,7 +634,7 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 'Ofrecemos sacrificios a Mitra dentro de los países;
 
-<span id="p158">[<sup><small>pág. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 'Ofrecemos sacrificios a Mitra en este país [^725];
 
@@ -700,13 +700,13 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 [^586]: 121:3 Va<i>n</i>ta, 'asistencia, es decir, hacer <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi está haciendo una colecta para los pobres (Études Iraniennes, II, 155).
 
-[^587]: 121:4 Como [p. 30](Yasts_1#p30).
+[^587]: 121:4 Como [p. 30](../Yasts_1#p30).
 
 [^588]: 121:5 Perethu-vaêdhayana: sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
 
 [^589]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem: esta palabra, por extraño que parezca, generalmente se traduce como 'quien tiene los brazos más fuertes' (balish<i>th</i>abhu<i>g</i>am); <i>g</i>agâuru se traduce de la misma manera.
 
-[^590]: 122:1 Véase [p. 12](Sirozahs_1#p12), nota [13](Sirozahs_1#fn94).
+[^590]: 122:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
 [^591]: 122:2 Cf. Yt. V, 53; X, 94.
 
@@ -760,7 +760,7 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 [^619]: 128:2 Venta. XVIII, 51 \[III\].
 
-[^620]: 128:3 Véase arriba, [p. 26](Yasts_1#p26), nota [2](Yasts_1#fn120). §§ 30-34 = §§ 56-59.
+[^620]: 128:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
 
 [^621]: 128:4 Dudoso (leyendo arena<i>t</i>\-<i>g</i>aêsha?).
 
@@ -820,7 +820,7 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 [^651]: 136:1 Cfr. Yt. VIII, 38.
 
-[^652]: 136:2 Véase arriba, [p. 12](Sirozahs_1#p12), nota [13](Sirozahs_1#fn94).
+[^652]: 136:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
 [^653]: 136:3 Mitra mismo (?).
 
@@ -836,7 +836,7 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 [^659]: 136:9 Dudoso.
 
-[^660]: 136:10 Véase arriba, [p. 95](Yasts_8#p95), nota [1](Yasts_8#fn468).
+[^660]: 136:10 Véase arriba, [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
 
 [^661]: 136:11 Véase Vend. Introd. IV, 23.
 
@@ -927,9 +927,9 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^703]: 146:5 ¿Quién no tiene un rayo de la luz celestial? He aquí, el hombre de poca fe.
 
-[^704]: 147:1 Véase arriba, [p. 4](Sirozahs_1#p4), n. [5](Sirozahs_1#fn11).
+[^704]: 147:1 Véase arriba, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
 
-[^705]: 147:2 Âsna: sánsk. su<i>s</i>îla ([p. 34](Yasts_1#p34), n. [4](Yasts_1#fn181)).
+[^705]: 147:2 Âsna: sánsk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
 
 [^706]: 147:3 El que te ofrece un buen sacrificio; cf. § 108.
 
@@ -993,7 +993,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^739]: 153:1 Véase Yt. XVI.
 
-[^741]: 153:2 Véase arriba, [p. 12](Sirozahs_1#p12), nota [13](Sirozahs_1#fn94).
+[^741]: 153:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
 [^742]: 153:3 Cf. Yt. X, 70.
 
@@ -1001,7 +1001,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^744]: 153:5 El genio del fuego.
 
-[^745]: 153:6 Véase [p. 95](Yasts_8#p95), nota [1](Yasts_8#fn468).
+[^745]: 153:6 Véase [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
 
 [^746]: 153:7 Un punto de oro.
 

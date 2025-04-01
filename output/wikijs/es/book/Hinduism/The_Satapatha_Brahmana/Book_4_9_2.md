@@ -230,7 +230,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^313]: 182:1 O, ‘¡Homenaje a tu fuego ardiente (consumidor)!’ como Mahîdhara toma ‘harase <i>s</i>o<i>k</i>ishe,’ y quizás también el Brâhma<i>n</i>a, aunque ‘etai<i>h</i>,’ usado en referencia a las armas de Agni, parecería más bien indicar una pluralidad de ellas.
 
-[^314]: 182:2 Véase VII, 2, 3, 4; [VIII, 6, 3, 15](Book_4_8_6#v8_6_3_15).
+[^314]: 182:2 Véase VII, 2, 3, 4; [VIII, 6, 3, 15](../Book_4_8_6#v8_6_3_15).
 
 [^315]: 182:3 Véase III, 5, 2, 9-11; la libación de ghee ofrecida allí en el uttara-vedi, pág. 183, es preparatoria para llevar el fuego hacia el altar mayor.
 
@@ -270,13 +270,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^335]: 195:3 ? O, llegar a ese lugar; Sâya<i>n</i>a, en primer lugar, lo interpreta como «hasta aquí» (desde más allá del sol hasta el fin del aire); pero en segundo lugar, lo interpreta como una referencia al punto específico del terreno sacrificial cerca del cual se realiza esta parte de la ceremonia, a saber, el cobertizo del Âgnîdhra (que representa el aire), al sur del cual el Adhvaryu coloca una piedra jaspeada cerca de la «columna vertebral».
 
-[^336]: 196:1 Es decir, donde posteriormente habrá que erigir el cobertizo y el hogar del Âgnîdhra (véase [IX, 4, 3, 5](Book_4_9_4#v9_4_3_5)\-[6](Book_4_9_4#v9_4_3_6)) en el borde norte del Vedi, a mitad de camino entre los hogares de Gârhapatya y Âhavanîya.
+[^336]: 196:1 Es decir, donde posteriormente habrá que erigir el cobertizo y el hogar del Âgnîdhra (véase [IX, 4, 3, 5](../Book_4_9_4#v9_4_3_5)\-[6](../Book_4_9_4#v9_4_3_6)) en el borde norte del Vedi, a mitad de camino entre los hogares de Gârhapatya y Âhavanîya.
 
 [^337]: 197:1 Así, Mahîdhara aquí toma «pûrva», y aparentemente también el autor del Brâhma<i>n</i>a; el padre oriental es Âhavanîya, y por ende, el cielo. En la fórmula, parecería significar más bien antiguo.
 
-[^338]: 197:2 Véase [VIII, 7, 3, 7](Book_4_8_7#v8_7_3_7).
+[^338]: 197:2 Véase [VIII, 7, 3, 7](../Book_4_8_7#v8_7_3_7).
 
-[^339]: 198:1 Es decir, dado que la tea que ahora se lleva al gran altar del fuego, donde de ahora en adelante servirá como Âhavanîya, fue tomada del fuego Gârhapatya, que a su vez es idéntico al Ukhya Agni, o fuego que el sacrificador lleva consigo en el Ukhâ, o sartén, durante su período de iniciación. Véase [p. 191](Book_4_9_2#p191), nota [^323].
+[^339]: 198:1 Es decir, dado que la tea que ahora se lleva al gran altar del fuego, donde de ahora en adelante servirá como Âhavanîya, fue tomada del fuego Gârhapatya, que a su vez es idéntico al Ukhya Agni, o fuego que el sacrificador lleva consigo en el Ukhâ, o sartén, durante su período de iniciación. Véase [p. 191](../Book_4_9_2#p191), nota [^323].
 
 [^340]: 199:1 Mahîdhara toma 'puro'gni' en el sentido de precursor (puras agre aṅgati ga<i>k</i><i>kh</i>ati).
 
@@ -286,9 +286,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^343]: 201:1 Véase. VI, 7, 2, 2.
 
-[^344]: 201:2 Véase [IX, 2, 1, 1](Book_4_9_2#v9_2_1_1).
+[^344]: 201:2 Véase [IX, 2, 1, 1](../Book_4_9_2#v9_2_1_1).
 
-[^345]: 201:3 Véase [IX, 1, 1, 6](Book_4_9_1#v9_1_1_6).
+[^345]: 201:3 Véase [IX, 1, 1, 6](../Book_4_9_1#v9_1_1_6).
 
 [^346]: 201:4 ? O bien, esa (la tea) es en realidad alimento (vâ<i>g</i>a). El Mahîdhara interpreta esta parte de la fórmula así: A ti te damos alimento (vâ<i>g</i>âya por vâ<i>g</i>am).
 

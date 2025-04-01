@@ -56,7 +56,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 \[Se refiere a los delitos que, si se cometen imprudentemente, se castigan con la excisión, pero que, si se cometen por inadvertencia, conllevan la obligación de presentar ofrendas por el pecado o la transgresión.\]
 
-<span id="p355">[<sup><small>pág. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 ## XLVII. TRATADO MEHILAH, TRANSGRESIÓN.
 
@@ -98,7 +98,7 @@ PURIFICACIONES LEGALES; CONTIENE
 
 \[Contiene leyes relativas a la impureza que surge de un cadáver, fundadas en Números 19:14.\]
 
-<span id="p356">[<sup><small>pág. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 \_\_\_\_\_\_\_\_\_
 

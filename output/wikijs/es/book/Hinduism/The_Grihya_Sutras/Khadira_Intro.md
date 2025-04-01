@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
-<span id="p370">[<sup><small>pág. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
-<span id="p371">[<sup><small>pág. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Entre los manuscritos Grantha recopilados por el difunto Dr. Burnell y que ahora pertenecen a la Biblioteca de la Oficina de la India, hay algunos manuscritos (números CLXXII y siguientes del Catálogo) de un G<i>ri</i>hya-sûtra hasta ahora inédito, que se atribuye a Khâdirâ<i>ri</i>ârya. Pertenece a la escuela Drâhyâya<i>ri</i>a del Sâma-veda, que prevalece en el sur de la península india [^962], y está basada en el Gobhilîya-sûtra, del cual ha tomado la mayor parte de sus aforismos, así como el Drâhyâya<i>ri</i>a-<i>S</i>rauta-sûtra, hasta donde podemos juzgar en la actualidad, no es más que una redacción ligeramente alterada del Lâ<i>ri</i>yâyana [^963]. Al igual que el Gobhila-Grihya, rara vez presenta los Mantras en su extensión completa, sino que los cita solo con sus Pratîkas, y es fácil identificar estas citas en el Mantrabrâhmari (publicado en Calcuta, 1873), que contiene los textos prescritos por Gobhila para las ceremonias del Grihya.
 
@@ -44,7 +44,7 @@ El Khâdira-Grihya evidentemente se compuso con la intención de resumir el trat
 
 En general, aunque ciertamente el Khâdira-Grihya no contiene mucho material que no conozcamos de otras fuentes, posee no obstante cierto interés, ya que muestra con un ejemplo muy claro cómo un Sûtrakâra de época posterior remodelaría la obra de un autor más antiguo, intentando superarlo mediante una disposición más correcta, y especialmente por lo que se apreciaba cada vez más como el mayor logro de la composición de sutras: la mayor concisión y economía de palabras posibles. Para un intérprete de Gobhila, la comparación con el Khâdira-Grihya sin duda sugerirá en muchos casos una comprensión más correcta de su texto de la que probablemente habría alcanzado sin esa ayuda, y quizás incluso interpretaciones de Gobhila que hasta entonces parecían estar sujetas a dudas, deban ceder ante las interpretaciones proporcionadas por los manuscritos Grantha del Khâdira-Grihya. Así, Gobhila III, 8, 16, no dudo en corregir asa<i>ri</i>svâdam, con la autoridad de Khâd. III, 3, 13, en asa<i>ri</i>khâdam o asa<i>ri</i>khâdan [^964].
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Dado que el texto del Khâdira-Grihya es muy breve y aún no se ha publicado, se ha impreso al pie de la página, junto con referencias a los pasajes paralelos del Gobhila. Para más explicaciones sobre los sutras individuales, me remito a mi traducción del Gobhila, que formará parte del segundo volumen de los sutras del Grihya, donde también espero incluir algunos extractos del comentario de Rudraskanda sobre el Khâdira-Grihya.
 

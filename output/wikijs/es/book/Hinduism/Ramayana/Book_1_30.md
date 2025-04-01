@@ -38,7 +38,7 @@ El ermitaño escuchó con gran satisfacción
 Ese discurso tan maravillosamente elocuente,
 Y mientras cada cabello se levantaba con alegría, [^141]
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Así respondió al final:
 «Bueno es tu discurso, oh noble Rey,
@@ -155,7 +155,7 @@ Los límites a la fuerza y ​​a la debilidad están establecidos,
 No es rival para los enemigos demoníacos.
 Quien las artes mágicas a las armas se oponen.
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Oh jefe de los santos, no tengo poder,
 De Ráma reft, para vivir una hora:
@@ -272,7 +272,7 @@ Lo mejor de los hombres por su valentía.
 Amor encarnado de penitencia triste,
 Entre los sabios sin igual.
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Bien lo sabe el gran hijo de Kus'ik,
 Los brazos celestiales, cada uno,
@@ -281,7 +281,7 @@ Mucho menos revelado a otros hombres.
 Estos brazos para él, cuando la tierra se balanceaba,
 El poderoso Kris'ás'va, complacido, transmitió.
 Son en verdad hijos de Kris'ás'va,
-Producido por la hermosa semilla de Daksha, [1](Libro_1_30#fn145)
+Producido por la hermosa semilla de Daksha, [1](../Libro_1_30#fn145)
 Heraldos de conquista, fuertes y audaces,
 Brillante, de semblante múltiple.
 Jayá y Vijayá, las más bellas,
@@ -362,7 +362,7 @@ En un sueño tranquilo o en un deleite salvaje.
 No hay nadie en toda la tierra
 Tu igual para la mano vigorosa.
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Tú, cuando tus labios pronuncian el hechizo,
 No tendrás igual en el cielo ni en el infierno,
@@ -450,13 +450,13 @@ Pero el ojo de Dios con mirada desdeñosa
 Le cayó terriblemente encima.
 Disolvió la forma que era tan bella
 
-<span id="p38">[<sup><small>pág. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Y quemó cada miembro.
 Desde la terrible ira del gran Dios
 Destruyó su forma y estructura,
 Káma en cada era sucesiva
-Ha llevado el nombre de Ananga [1](Libro_1_30#fn156).
+Ha llevado el nombre de Ananga [1](../Libro_1_30#fn156).
 Así, donde su hermosa forma se descompuso,
 Esta tierra es de estilo Anga:
 Sagrada para él desde antiguo esta sombra,
@@ -554,7 +554,7 @@ Parece oscuro y sin camino,
 Donde miles de pájaros vagan libremente;
 Donde resuenan los agudos gritos de las cigarras,
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Y abundan las aves de triste aspecto,
 León, rinoceronte y oso,
@@ -662,7 +662,7 @@ Su hijo se llamaba Máricha,
 Un gigante, a través de una maldición, se convirtió en.
 Ella, viuda, se atrevió a molestarlo.
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Agastya, [^162] de todos los santos el mejor.
 Inflamado por la furia más salvaje del hambre,
@@ -773,7 +773,7 @@ Hasta que Ráma ardió de rabia.
 Luego derramó su lluvia de flechas
 Esa inundación pedregosa para quedarse,
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Con dardos alados, mientras cargaba con fuerza,
 Él le apartó las manos.
@@ -856,7 +856,7 @@ Y tal como lo pidió, aquella noche pasó
 En el bosque salvaje de Tádaká, contenido.
 Y el bosque resplandecía aquel día feliz,
 Liberado de la maldición que pesaba sobre él,
-Como Chaitraratha [1](Libro_1_30#fn163) hermoso y alegre.
+Como Chaitraratha [1](../Libro_1_30#fn163) hermoso y alegre.
 
 
 
@@ -879,7 +879,7 @@ Las armas místicas que usan arriba,
 Porque eres digno de haber revelado
 Las armas que he aprendido a manejar.
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Primero, hijo de Raghu, será tuyo.
 El brazo de la venganza, fuerte, divino:
@@ -984,7 +984,7 @@ Invocó los nombres de esos grandes encantos
 Recibe tú Verdadero y Verdaderamente Famoso,
 Y audaz y veloz: las armas nombradas
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Guardián y Progreso, de paso rápido,
 Cabeza vuelta y cara caída;

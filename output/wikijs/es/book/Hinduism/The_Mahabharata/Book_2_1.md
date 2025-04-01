@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:14Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## SECCIÓN I
 
@@ -48,7 +48,7 @@ Arjuna dijo: «Oh, tú, el inmaculado, te consideras salvado (por mí) de la mue
 
 Vaisampayana dijo: «Entonces, ¡oh, toro de la raza Bharata!, impulsado por Maya, Vasudeva reflexionó un momento sobre lo que debía pedirle a Maya que lograra. Krishna, el Señor del universo y Creador de todo objeto, tras reflexionar, le ordenó a Maya: «Que construyas un sabha (salón de reuniones) palaciego como tú elijas, si tú, ¡oh, hijo de Diti, el más destacado de todos los artistas!, deseas hacer el bien a Yudhishthira, el justo. De hecho, construye un palacio tal que las personas pertenecientes al mundo de los hombres no puedan imitarlo ni siquiera después de examinarlo con detenimiento, sentadas en su interior. Y, ¡oh, Maya!, construye una mansión en la que podamos contemplar una combinación de designios divinos, asúricos y humanos».
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Vaisampayana continuó: «Al oír esas palabras, Maya se alegró enormemente. E inmediatamente construyó un magnífico palacio para el hijo de Pandu, semejante al palacio de los mismos seres celestiales. Entonces, Krishna y Partha (Arjuna), tras haberle narrado todo al rey Yudhishthira, el justo, le presentaron a Maya. Yudhishthira recibió a Maya con respeto, ofreciéndole el honor que merecía. Y, ¡oh, Bharata!, Maya aceptó ese honor con gran aprecio. ¡Oh, monarca de la raza Bharata!, aquel gran hijo de Diti recitó entonces a los hijos de Pandu la historia del Danava Vrisha-parva, y aquel destacado artista, tras descansar un rato, se dedicó, tras una planificación muy meditada, a construir un palacio para los ilustres hijos de Pandu. De acuerdo con los deseos tanto de Krishna como de los hijos de Pritha, el ilustre Danava de gran destreza, habiendo realizado en un día auspicioso los ritos propiciatorios iniciales de la fundación y habiendo también complacido a miles de brahmanas bien versados ​​con leche azucarada y arroz y con ricos presentes de varios tipos, midió una parcela de tierra de cinco mil codos cuadrados, que era encantadora y sumamente hermosa de contemplar y que era favorable para la construcción de un edificio adecuado a las exigencias de cada estación.
 

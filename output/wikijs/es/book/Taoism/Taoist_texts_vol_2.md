@@ -8,7 +8,35 @@ editor: markdown
 dateCreated: 2025-2-12T12:58:58Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-tao"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Chuang Tzu; por Jame Legge (tr.)</text>		<text style="font-size:4px" x="61" y="125">1891</text>		<text style="font-size:9px" x="61" y="60">Textos taoístas</text>		<text style="font-size:9px" x="61" y="70">Parte II (SBE40)</text>	</g></svg></div><p style="text-align:center;">Los libros sagrados de Oriente<br>Traducido por varios eruditos orientales y editado por<br>F. Max Müller<br>Volumen XL<br><span class="text-h3">Los textos del taoísmo</span><br><span class="text-h5">Traducido por James Legge</span><br>en dos partes Parte II<br>Los escritos de Kwang-dze (Chuang Tzu) (XVIII-XXXIII)<br>El Tratado de las Acciones y sus Retribuciones de T'ai Shang<br>Apéndices I-VIII<br>escaneado en sacred-texts 3/2001. JB Hare, redactor. Reformateado en julio de 2003. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-tao">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5«La comprensión plena de la vida» Jame Legge (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1891</text>
+		<text style="font-size:9px" x="61" y="60">Textos taoístas</text>
+		<text style="font-size:9px" x="61" y="70">Parte II (SBE40)</text>
+	</g>
+</svg>
+</div>
+«Lo que viene de afuera»
+<p style="text-align:center;">
+Los libros sagrados de Oriente<br>
+Traducido por varios eruditos orientales y editado por<br>
+F. Max Müller<br>
+Volumen XL<br>
+<span class="text-h3">Los textos del taoísmo</span><br>
+<span class="text-h5">Traducido por James Legge</span><br>
+en dos partes Parte II<br>
+Los escritos de Kwang-dze (Chuang Tzu) (XVIII-XXXIII)<br>
+El Tratado de las Acciones y sus Retr«el clásico de la pureza»r>
+Apéndices I-VIII<br>
+escaneado en sacred-texts 3/2001. JB Hare, redactor. Reformateado en julio de 2003. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br>
+<br>«Clásico del directorio por un día»
+</p>
+
+
 ## Índice
 
 - [Contenido](/es/book/Taoism/Taoist_texts_vol_2/Contents)

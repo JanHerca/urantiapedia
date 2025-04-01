@@ -50,7 +50,7 @@ El continente, el verdadero y el paciente te cantan; los héroes inquebrantables
 Los Pandits y los Rikhis supremos, leyendo sus Veds, te cantan en todas las épocas.
 Las encantadoras doncellas celestiales que seducen el corazón en las regiones superior, media e inferior te cantan.
 
-<span id="p251">[<sup><small>pág. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Las joyas creadas por Ti con los sesenta y ocho lugares de peregrinación hindú Te cantan.
 Poderosos guerreros y héroes te cantan; las cuatro fuentes de vida te cantan.
@@ -78,7 +78,7 @@ Aquellos que poseen la sabiduría divina y espiritual, sacerdotes y sumos sacerd
 Sin embargo, no pudieron describir ni siquiera una pequeña porción de tu grandeza.
 Toda verdad, todo fervor, toda bondad,
 
-<span id="p252">[<sup><small>pág. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Las excelencias de los hombres perfectos,
 No pueden alcanzar su perfección sin Ti.
@@ -115,7 +115,7 @@ Oh siervos de Dios y del verdadero Gurú, el verdadero Ser, ofrecedle esta súpl
 Nosotros, insectos y gusanos, buscamos tu protección, oh verdadero Gurú; ilumíname misericordiosamente con el Nombre;
 Mi amigo y divino Gurú, ilumíname con el nombre de Dios.
 
-<span id="p253">[<sup><small>pág. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Bajo la instrucción del Gurú, el Nombre es el ayudante de mi alma; cantar alabanzas a Dios es mi ocupación.
 Son sumamente afortunados los hombres de Dios que tienen fe en Él y sed de Él:
@@ -130,7 +130,7 @@ GURÚ ARJAN, RAG GUJARI[^2]
 Oh alma mía, ¿por qué te propones esforzarte[^3] cuando Dios mismo está empeñado en esforzarse por ti?
 Incluso pone su alimento antes que los insectos que creó en las rocas y las piedras.
 
-<span id="p254">[<sup><small>pág. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Oh Dios mío, aquellos que se reúnen en la sociedad de los santos se salvan.
 Por el favor del Gurú obtienen el rango más alto; aunque sean como madera seca, se vuelven verdes.
@@ -154,7 +154,7 @@ Tú, oh Dios, el único Ser Supremo, estás plenamente contenido en cada corazó
 Algunos hombres son dadores, otros mendigos; todos son tu maravilloso juego.
 Tú mismo eres el Dador; Tú eres el Disfrutador; no conozco a nadie fuera de Ti.
 
-<span id="p255">[<sup><small>pág. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Tú eres el Ser Supremo totalmente infinito; ¿qué atributos Tuyos debo enumerar?
 El esclavo Nanak es un sacrificio para aquellos que Te sirven, para aquellos que Te sirven.
@@ -174,7 +174,7 @@ Lo que te agrada prevalece; lo que Tú haces sucede.
 Tú mismo formaste toda la creación, sin embargo, una vez creada, desaparecerá.[^2]
 Nanak canta las alabanzas del Creador que sabe todas las cosas.
 
-<span id="p256">[<sup><small>pág. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 GURÚ RAM DAS, RAG ASA
 
@@ -202,7 +202,7 @@ GURU NANAK, RAG ASA
 El hombre ha obtenido una morada en ese estanque[^3] cuya agua Dios ha hecho tan caliente como el fuego.
 Los pies del hombre no pueden moverse en el fango del amor mundano; lo hemos visto ahogándose en él.
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 ¡Oh hombre necio! No has pensado en el único Dios en tu corazón;
 Por haberlo olvidado, tus virtudes se han desvanecido.
@@ -222,7 +222,7 @@ No has servido a los santos ni has conocido a Dios.
 Nanak dijo: bajos han sido mis actos;
 Preserva mi honor, pues en Ti me he refugiado.
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

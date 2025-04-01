@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 
 Pasaron los meses. Entonces, un día, la reina supo que se acercaba el nacimiento de su hijo. Fue al rey Suddhodana y le dijo:
@@ -59,7 +59,7 @@ En ese mismo instante, todo lo que vivía en el mundo tembló de alegría. La ti
 
 Una de las doncellas de Maya corrió hacia el rey Suddhodana y exclamó con alegría:
 
-“¡Señor mío, señor mío, te ha nacido un hijo, un hijo que traerá gran gloria a tu casa!”
+«¡Señor mío, señor mío, te ha nacido un hijo, un hijo que traerá gran gloria a tu casa!»
 
 Se quedó sin palabras. Pero su rostro irradiaba alegría y conocía una gran felicidad.
 
@@ -67,7 +67,7 @@ Inmediatamente convocó a todos los Sakyas y les ordenó que lo acompañaran al 
 
 Cuando se acercó al niño, el rey hizo una profunda reverencia y dijo:
 
-“¿Te inclinas como yo me inclino ante el príncipe, a quien le doy el nombre de Siddhartha?”
+«¿Te inclinas como yo me inclino ante el príncipe, a quien le doy el nombre de Siddhartha?»
 
 Todos se inclinaron y los brahmanes, inspirados por los dioses, cantaron:
 

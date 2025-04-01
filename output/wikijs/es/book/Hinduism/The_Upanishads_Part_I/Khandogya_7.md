@@ -68,7 +68,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 -Señor, dígamelo.
 
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -87,7 +87,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 1\. La voluntad [^304] (saṅkalpa) es mejor que la mente. Porque cuando un hombre desea, piensa en su mente, emite palabras, y las emite en un nombre. En un nombre se contienen los himnos sagrados, y en los himnos sagrados, todos los sacrificios.
 
-2\. 'Todos estos, por lo tanto (comenzando con la mente y <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> terminando en el sacrificio) se centran en la voluntad, consisten en la voluntad, residen en la voluntad. El cielo y la tierra desearon, el aire y el éter desearon, el agua y el fuego desearon. Por la voluntad del cielo y la tierra, etc., la lluvia desea; por la voluntad de la lluvia desea el alimento; por la voluntad del alimento desean los aires vitales; por la voluntad de los aires vitales desean los himnos sagrados; por la voluntad de los himnos sagrados desean los sacrificios; por la voluntad de los sacrificios desea el mundo (como recompensa); por la voluntad del mundo, todo desea [1](Khandogya_7#fn305). Esto es voluntad. Medita en la voluntad.
+2\. 'Todos estos, por lo tanto (comenzando con la mente y <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> terminando en el sacrificio) se centran en la voluntad, consisten en la voluntad, residen en la voluntad. El cielo y la tierra desearon, el aire y el éter desearon, el agua y el fuego desearon. Por la voluntad del cielo y la tierra, etc., la lluvia desea; por la voluntad de la lluvia desea el alimento; por la voluntad del alimento desean los aires vitales; por la voluntad de los aires vitales desean los himnos sagrados; por la voluntad de los himnos sagrados desean los sacrificios; por la voluntad de los sacrificios desea el mundo (como recompensa); por la voluntad del mundo, todo desea [1](../Khandogya_7#fn305). Esto es voluntad. Medita en la voluntad.
 
 3\. 'Quien medita en la voluntad como Brahman, estando seguro, firme y sin angustias, obtiene los mundos seguros, firmes y sin angustias que ha deseado; es, por así decirlo, señor y amo hasta donde alcanza la voluntad—quien medita en la voluntad como Brahman.'
 
@@ -199,7 +199,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 —Señor, ¿hay algo mejor que el éter?
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Sí, hay algo mejor que el éter.
 
@@ -232,7 +232,7 @@ Sí, hay algo mejor que el éter.
 -Señor, dígamelo.
 
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ## DECIMOQUINTO KHAND.
 
@@ -245,7 +245,7 @@ Sí, hay algo mejor que el éter.
 4\. «El Espíritu, entonces, es todo esto. Quien ve esto, lo percibe y lo entiende, se convierte en un ativâdin [^316]. Si le dicen a alguien así: «Tú <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> eres un ativâdin», puede decir: «Soy un ativâdin»; no tiene por qué negarlo.
 
 
-## DÉCIMO SEXTO KHAND [1](Khandogya_7#fn317).
+## DÉCIMO SEXTO KHAND [1](../Khandogya_7#fn317).
 
 1\. 'Pero en realidad es un ativâdin quien declara que el Ser Supremo es el Verdadero (Satya, τὸ ὄντως ὄν).'
 
@@ -258,7 +258,7 @@ Sí, hay algo mejor que el éter.
 
 ## DÉCIMO SÉPTIMO KHAND.
 
-1\. «Cuando uno comprende la Verdad, la declara. Quien no la comprende, no declara la Verdad. [2](Khandogya_7#fn318). Solo quien la comprende, declara la Verdad. Sin embargo, debemos desear comprender esta comprensión».
+1\. «Cuando uno comprende la Verdad, la declara. Quien no la comprende, no declara la Verdad. [2](../Khandogya_7#fn318). Solo quien la comprende, declara la Verdad. Sin embargo, debemos desear comprender esta comprensión».
 
 -Señor, deseo entenderlo.
 
@@ -270,7 +270,7 @@ Sí, hay algo mejor que el éter.
 -Señor, deseo entenderlo.
 
 
-<span id="p122">[<sup><small>pág. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## DECIMONOVENO KHAND.
 
@@ -299,11 +299,11 @@ Sí, hay algo mejor que el éter.
 -Señor, deseo entenderlo.
 
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 ## VIGÉSIMO TERCER KHA<i>N</i><i>D</i>A.
 
-1\. «El Infinito (bhûman) [1](Khandogya_7#fn320) es dicha. No hay dicha en nada finito. Solo la infinitud es dicha. Sin embargo, debemos desear comprender esta infinitud».
+1\. «El Infinito (bhûman) [1](../Khandogya_7#fn320) es dicha. No hay dicha en nada finito. Solo la infinitud es dicha. Sin embargo, debemos desear comprender esta infinitud».
 
 -Señor, deseo entenderlo.
 
@@ -313,7 +313,7 @@ Sí, hay algo mejor que el éter.
 
 «Señor, ¿en qué reposa el Infinito?»
 
-'En su propia grandeza, o ni siquiera en su grandeza [2](Khandogya_7#fn321).'
+'En su propia grandeza, o ni siquiera en su grandeza [2](../Khandogya_7#fn321).'
 
 2\. «En el mundo llaman grandeza a las vacas y los caballos, a los elefantes y al oro, a los esclavos, a las esposas, a los campos y a las casas. No me refiero a esto», así dijo; «pues en ese caso, un ser (el poseedor) descansa en algo más, (pero el Infinito no puede descansar en algo distinto de sí mismo)».
 
@@ -336,7 +336,7 @@ Sí, hay algo mejor que el éter.
 
 2\. 'Hay este versículo: "Quien ve esto no ve la muerte, ni la enfermedad, ni el dolor; quien ve esto lo ve todo y lo obtiene todo en todas partes.
 
-“Él es uno (antes de la creación), se convierte en tres <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> (fuego, agua, tierra), se convierte en cinco, se convierte en siete, se convierte en nueve; luego nuevamente se le llama el undécimo, y ciento diez y mil veinte [^324].”
+«Él es uno (antes de la creación), se convierte en tres <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> (fuego, agua, tierra), se convierte en cinco, se convierte en siete, se convierte en nueve; luego nuevamente se le llama el undécimo, y ciento diez y mil veinte [^324].»
 
 Cuando el alimento intelectual se purifica, toda la naturaleza se purifica. Cuando toda la naturaleza se purifica, la memoria se consolida. Y cuando la memoria (del Ser Supremo) permanece firme, entonces todos los lazos (que nos atan a creer en algo que no sea el Ser) se aflojan.
 

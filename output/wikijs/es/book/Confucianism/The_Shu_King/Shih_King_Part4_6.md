@@ -46,7 +46,7 @@ No hay ninguna mención específica de la antigua capital de <i>K</i>âu en la p
 
 Allí estaba el mijo con sus hojas caídas; allí estaba el mijo del sacrificio brotando [^613]. Lentamente me movía, con el corazón agitado. Quienes me conocían decían que tenía el corazón triste. Quienes no me conocían, decían que buscaba algo. ¡Oh, tú, Cielo distante y azul [^614]! ¿Por qué hombre se produjo esto [^615]?
 
-<span id="p440">[<sup><small>pág. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 <a id="o9"></a>
 

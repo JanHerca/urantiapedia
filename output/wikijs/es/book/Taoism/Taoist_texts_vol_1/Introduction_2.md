@@ -98,7 +98,7 @@ Importancia para el Taoísmo de los Libros de Kwang-dze.
 
 Como se mencionó anteriormente, los nombres «Hwang-Tî» y «Lâo-dze» se asociaban para designar a los maestros del taoísmo, y la frase «las palabras de Hwang-Tî y Lâo-dze» pasó a ser simplemente un nombre para el rey del Tâo Teh. Gradualmente, los dos nombres se fusionaron en «Hwang Lâo», como en el pasaje citado en la pág. 6 de Pan Kû. Después de la dinastía Han, el nombre Hwang dio paso a Kwang, y los nombres Lâo Kwang, y a veces invertido, Kwang Lâo, se emplearon para designar el sistema o los textos del taoísmo. En el relato, por ejemplo, de Kî
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Khang, en el capítulo diecinueve de las Biografías de Zin, nos presenta a un taoísta típico. De adulto, «amaba a Lâo y a Kwang»; y un visitante, para causarle la mejor impresión, dice: «Lâo-dze y Kwang Kâu son mis maestros».
 
@@ -112,7 +112,7 @@ Comprende siete Libros; el segundo, quince; y el tercero, once. «Interno» pued
 
 El título general de las obras de Kwang-dze.
 
-Ducado de Sung, nacido en lo que entonces se llamaba el distrito de Mäng, perteneciente al estado o reino de Liang o Wei. Al crecer, ocupó un cargo oficial en la ciudad de Zhî-yüan, cuya ubicación no es fácil de determinar con certeza. En el año 742 d. C., el nombre de su lugar de nacimiento se cambió (aunque solo temporalmente) a Nan-hwa, y se emitió una orden imperial para que Kwang-Sze fuera llamado a partir de entonces <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> «El Hombre Verdadero de Nan-hwa», y su Libro, «El Libro Verdadero de Nan-hwa [1](Introducción_4#fn8)». Ser un «Hombre Verdadero» es el mayor logro taoísta de un hombre, y nuestro autor, así canonizado, comunica su gloria a su Libro.
+Ducado de Sung, nacido en lo que entonces se llamaba el distrito de Mäng, perteneciente al estado o reino de Liang o Wei. Al crecer, ocupó un cargo oficial en la ciudad de Zhî-yüan, cuya ubicación no es fácil de determinar con certeza. En el año 742 d. C., el nombre de su lugar de nacimiento se cambió (aunque solo temporalmente) a Nan-hwa, y se emitió una orden imperial para que Kwang-Sze fuera llamado a partir de entonces <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> «El Hombre Verdadero de Nan-hwa», y su Libro, «El Libro Verdadero de Nan-hwa [1](../Introducción_4#fn8)». Ser un «Hombre Verdadero» es el mayor logro taoísta de un hombre, y nuestro autor, así canonizado, comunica su gloria a su Libro.
 
 <figure class="table chapter-navigator">
   <table>

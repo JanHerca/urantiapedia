@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## SOBRE EL CONOCIMIENTO DE LOS VEDAS. TEVIGG A-SUTTA. CAPÍTULO I.
 
@@ -40,17 +40,17 @@ dateCreated: 2025-2-5T22:38:45Z
 
 2\. En ese momento, muchos brahmanes muy distinguidos y ricos se alojaban en Manasâka<i>t</i>a, a saber, <i>K</i>ankî el brahmán, Târukkha el brahmán, Pokkharasâti el brahmán, Gâ<i>n</i>usso<i>n</i>i el brahmán, Todeyya el brahmán y otros brahmanes muy distinguidos y ricos[^2].
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 3\. Ahora bien, surgió una conversación entre Vâse<i>tth</i>a y Bhâradvâ<i>g</i>a, mientras hacían ejercicio (después del baño) y caminaban de un lado a otro en estado de ánimo pensativo, sobre cuál era el camino verdadero y cuál el falso[^3].
 
 4\. El joven Brâhman Vâse<i>tth</i>a habló así:
 
-“Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ[^4]—me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti”.
+«Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ[^4]—me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti».
 
 5\. El joven Brâhman Bhâradvâ<i>g</i>a habló así:
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 «Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Târukkha.»
 
@@ -66,7 +66,7 @@ Ese Sama<i>n</i>a Gotama, Bhâradvâ<i>g</i>a, del clan Sakya, que dejó la trib
 
 8\. Entonces el joven Brâhman Vâse<i>tth</i>a y el joven Brâhman Bhâradvâ<i>g</i>a continuaron hacia el lugar donde estaba el Bendito.
 
-<span id="p170">[<sup><small>pág. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 Y cuando llegaron allí, intercambiaron con el Bendito saludos y cumplidos de amistad y cortesía, y se sentaron a su lado.
 
@@ -74,11 +74,11 @@ Y mientras estaban así sentados, el joven Brâhman Vâse<i>tth</i>a le dijo al 
 
 Mientras nosotros, Gotama, hacíamos ejercicio y caminábamos, surgió una conversación sobre cuál era el camino verdadero y cuál el falso. Dije así:
 
-“Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti”.
+«Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti».
 
 'Bhâradvâga dijo así:
 
-“Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Târukkha”.
+«Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Târukkha».
 
 «Respecto a este asunto, Gotama, hay una discordia, una disputa, una diferencia de opinión entre nosotros.»
 
@@ -86,13 +86,13 @@ Mientras nosotros, Gotama, hacíamos ejercicio y caminábamos, surgió una conve
 
 9\. 'Entonces dices, Vâse<i>tth</i>a, que dijiste así:
 
-“Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti”.
+«Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Pokkarasâti».
 
 'Mientras Bhâradvâ<i>g</i>a decía así:
 
-“Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Târukkha”.
+«Éste es el camino recto, éste es el camino directo que conduce a quien actúa conforme a él a un estado de unión con Brahmâ; me refiero a lo que ha sido anunciado por el Brâhman Târukkha».
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 '¿En qué, entonces, oh Vâse<i>tth</i>a, hay una contienda, una disputa, una diferencia de opinión entre vosotros[^6]?'
 
@@ -108,7 +108,7 @@ Así, Gotama, así como cerca de una aldea o un pueblo hay muchos y diversos cam
 
 —Así te digo, Gotama.
 
-<span id="p172">[<sup><small>pág. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 12\. 'Pero entonces, Vâse<i>tth</i>a, ¿hay un solo brahmán versado en los Tres Vedas que haya visto alguna vez a Brahmâ cara a cara?'
 
@@ -126,11 +126,11 @@ Así, Gotama, así como cerca de una aldea o un pueblo hay muchos y diversos cam
 
 —¡No, en absoluto, Gotama!
 
-13\. 'Bien entonces, Vâse<i>tth</i>a, aquellos antiguos <i>Ri</i>shis de los Brâhmanes versados ​​en los Tres Vedas, los autores de los versos, los pronunciadores de los versos, cuya antigua forma de palabras así entonadas, pronunciadas o compuestas, los Brâhmanes de hoy las cantan de nuevo o repiten; entonando o recitando exactamente como se ha entonado o recitado—a saber, A<i>tth</i>aka, Vâmaka, Vâmadeva, Vessâmitta, Yamataggi, Angirasa, Bhâradvâ<i>g</i>a, Vâse<i>tth</i>a, Kassapa, y Bhagu[^9]—incluso ellos hablaron así, diciendo: “Lo sabemos, lo hemos visto, dónde está Brahmâ, de dónde está Brahmâ, adónde está Brahmâ?”
+13\. 'Bien entonces, Vâse<i>tth</i>a, aquellos antiguos <i>Ri</i>shis de los Brâhmanes versados ​​en los Tres Vedas, los autores de los versos, los pronunciadores de los versos, cuya antigua forma de palabras así entonadas, pronunciadas o compuestas, los Brâhmanes de hoy las cantan de nuevo o repiten; entonando o recitando exactamente como se ha entonado o recitado—a saber, A<i>tth</i>aka, Vâmaka, Vâmadeva, Vessâmitta, Yamataggi, Angirasa, Bhâradvâ<i>g</i>a, Vâse<i>tth</i>a, Kassapa, y Bhagu[^9]—incluso ellos hablaron así, diciendo: «Lo sabemos, lo hemos visto, dónde está Brahmâ, de dónde está Brahmâ, adónde está Brahmâ?»
 
 —¡No es así, Gotama!
 
-14\. «Entonces dices, Vâse<i>tth</i>a, que ningún brahmán, ni sus maestros, ni sus discípulos, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ cara a cara. Y que ni siquiera los antiguos Rishis, los autores y oradores de los versos, de la antigua forma de palabras que los brahmanes de hoy entonan y recitan con tanto cuidado, tal como les ha sido transmitida, pretendieron saber o haber visto dónde, de dónde viene o adónde viene Brahmâ».[^10]. Así que los brahmanes versados ​​en los Tres Vedas dijeron así: “Lo que no sabemos, lo que no hemos visto, para llegar a un estado de unión con eso podemos mostrar el camino, y podemos decir: “¡Este es el camino recto, este es el camino directo que conduce a quien actúa conforme a él, a un estado de unión con Brahmâ!”
+14\. «Entonces dices, Vâse<i>tth</i>a, que ningún brahmán, ni sus maestros, ni sus discípulos, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ cara a cara. Y que ni siquiera los antiguos Rishis, los autores y oradores de los versos, de la antigua forma de palabras que los brahmanes de hoy entonan y recitan con tanto cuidado, tal como les ha sido transmitida, pretendieron saber o haber visto dónde, de dónde viene o adónde viene Brahmâ».[^10]. Así que los brahmanes versados ​​en los Tres Vedas dijeron así: «Lo que no sabemos, lo que no hemos visto, para llegar a un estado de unión con eso podemos mostrar el camino, y podemos decir: “¡Este es el camino recto, este es el camino directo que conduce a quien actúa conforme a él, a un estado de unión con Brahmâ!»
 
 —¿Qué opinas, Vasetha? ¿No se deduce, por tanto, que las palabras de los brahmanes, a pesar de su conocimiento de los Tres Vedas, son tonterías?
 
@@ -158,7 +158,7 @@ Así, Gotama, así como cerca de una aldea o un pueblo hay muchos y diversos cam
 
 ---
 
-—Simplemente, Vâse<i>tth</i>a, es como si un hombre dijera: “¡Cuánto anhelo, cuánto amo a la mujer más hermosa de esta tierra!”
+—Simplemente, Vâse<i>tth</i>a, es como si un hombre dijera: «¡Cuánto anhelo, cuánto amo a la mujer más hermosa de esta tierra!»
 
 Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa de la tierra, a quien tanto amas y anhelas, ¿sabes si esa hermosa mujer es una dama noble, una brahmana, una comerciante o una sudra?»
 
@@ -168,9 +168,9 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 "Pero cuando se le pregunte debería responder "No".
 
-'Y entonces le dirán: “Entonces, buen amigo, a quien no conoces ni has visto, ¿la amas y la deseas?”
+'Y entonces le dirán: «Entonces, buen amigo, a quien no conoces ni has visto, ¿la amas y la deseas?»
 
-«Y luego, cuando se le pregunte, deberá responder “Sí”.»
+«Y luego, cuando se le pregunte, deberá responder «Sí».»
 
 —¿Qué opinas, Vâse<i>tth</i>a? ¿No resultaría, siendo así, que lo que dijo ese hombre era una tontería?
 
@@ -188,7 +188,7 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 "Y cuando se le pregunte, deberá responder: "No"."
 
-'Y la gente debería decirle: “Pero entonces, buen amigo, estás haciendo una escalera para subir a algo, tomándolo por una mansión, que, todo este tiempo, no sabes ni has visto”.
+'Y la gente debería decirle: «Pero entonces, buen amigo, estás haciendo una escalera para subir a algo, tomándolo por una mansión, que, todo este tiempo, no sabes ni has visto».
 
 "Y cuando se le pregunte, deberá responder: "Sí"."
 
@@ -204,13 +204,13 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 24\. 'Además, Vâse<i>tth</i>a, si este río A<i>k</i>iravatî estuviera lleno de agua hasta el borde y se desbordara[^14]. Y un hombre con asuntos en la otra orilla, con destino a la otra orilla, llegara y quisiera cruzar. Y él, de pie en esta orilla, invocara a la otra orilla y dijera: "¡Ven acá, oh otra orilla! ¡Pasa a este lado!"
 
-<span id="p180">[<sup><small>pág. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 —¿Qué opinas, Vaseta? ¿Acaso la otra orilla del río Akiravati, por las invocaciones, oraciones, esperanzas y alabanzas de ese hombre, se pasaría a este lado?
 
 —¡Por supuesto que no, Gotama!
 
-25\. 'De la misma manera, Vâse<i>tth</i>a, los brahmanes versados ​​en los Tres Vedas —omitiendo la práctica de aquellas cualidades que realmente hacen a un hombre un brahmán, y adoptando la práctica de aquellas cualidades que realmente hacen a los hombres no brahmanes— dicen así: “¡Invocamos a Indra, invocamos a Soma, invocamos a Varu<i>n</i>a, invocamos a Îsâna, invocamos a Pa<i>g</i>pati, invocamos a Brahma, invocamos a Mahiddhi, invocamos a Yama[^15]!” EspañolEn verdad, Vâse<i>tth</i>a, que aquellos Brâhmanes versados ​​en los Tres Vedas, pero que omitieron la práctica de aquellas cualidades que realmente hacen a un hombre un Brâhman, y adoptaron la práctica de aquellas cualidades que realmente hacen a los hombres no Brâhmanes —que ellos, por razón de su invocación, oración, esperanza y alabanza, deberían, después de la muerte y cuando el cuerpo se disuelva, unirse con Brahmâ— ¡en verdad tal condición de cosas no tiene existencia!'
+25\. 'De la misma manera, Vâse<i>tth</i>a, los brahmanes versados ​​en los Tres Vedas —omitiendo la práctica de aquellas cualidades que realmente hacen a un hombre un brahmán, y adoptando la práctica de aquellas cualidades que realmente hacen a los hombres no brahmanes— dicen así: «¡Invocamos a Indra, invocamos a Soma, invocamos a Varu<i>n</i>a, invocamos a Îsâna, invocamos a Pa<i>g</i>pati, invocamos a Brahma, invocamos a Mahiddhi, invocamos a Yama[^15]!» EspañolEn verdad, Vâse<i>tth</i>a, que aquellos Brâhmanes versados ​​en los Tres Vedas, pero que omitieron la práctica de aquellas cualidades que realmente hacen a un hombre un Brâhman, y adoptaron la práctica de aquellas cualidades que realmente hacen a los hombres no Brâhmanes —que ellos, por razón de su invocación, oración, esperanza y alabanza, deberían, después de la muerte y cuando el cuerpo se disuelva, unirse con Brahmâ— ¡en verdad tal condición de cosas no tiene existencia!'
 
 ---
 
@@ -218,7 +218,7 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 —¡Por supuesto que no, Gotama!
 
-27\. 'De la misma manera, Vâse<i>tth</i>a, hay cinco cosas que conducen a la lujuria, que en la Disciplina del Noble se llaman “cadena” y “lazo”.'
+27\. 'De la misma manera, Vâse<i>tth</i>a, hay cinco cosas que conducen a la lujuria, que en la Disciplina del Noble se llaman «cadena» y «lazo».'
 
 '¿Cuales son los cinco?'
 
@@ -226,7 +226,7 @@ Formas perceptibles a la vista; formas deseables, agradables, placenteras y atra
 
 28\. 'Y en verdad, Vasetha, que los brahmanes versados ​​en los Tres Vedas, pero que omiten la práctica de las cualidades que realmente hacen a un hombre brahmán, y adoptan la práctica de las cualidades que realmente hacen a los hombres no brahmanes —aferrándose a estas cinco cosas que predisponen a la pasión, infatuados por ellas, culpables de ellas, sin ver su peligro, sin conocer su inestabilidad, y de tal manera disfrutándolas—, que estos brahmanes, tras la muerte, al disolverse el cuerpo, se unan a Brahmâ —tal condición de cosas no existe.'
 
-<span id="p182">[<sup><small>pág. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 29\. 'Además, Vaseta, si este río Akiravatl estuviera lleno de agua hasta el borde y se desbordara. Y un hombre con negocios en la otra orilla, con destino a la otra orilla, llegara y quisiera cruzar. Y si, cubriéndose hasta la cabeza, se acostara en esta orilla a dormir.
 
@@ -234,7 +234,7 @@ Formas perceptibles a la vista; formas deseables, agradables, placenteras y atra
 
 —¡Por supuesto que no, Gotama!
 
-30\. 'Y de la misma manera, Vâse<i>tth</i>a, existen estos cinco impedimentos, en la Disciplina del Noble, que se llaman “velos[^16]”, “impedimentos[^17]”, “obstáculos[^18]” y enredos[^19].”
+30\. 'Y de la misma manera, Vâse<i>tth</i>a, existen estos cinco impedimentos, en la Disciplina del Noble, que se llaman «velos[^16]», «impedimentos[^17]», «obstáculos[^18]» y enredos[^19].”
 
 '¿Cuales son los cinco?'
 
@@ -264,7 +264,7 @@ El obstáculo de la duda.
 
 «Libre de ira, Gotama.»
 
-“¿Está su mente llena de malicia o libre de malicia?”[^21]
+«¿Está su mente llena de malicia o libre de malicia?»[^21]
 
 'Libre de malicia, Gotama.'
 

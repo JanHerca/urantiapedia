@@ -92,7 +92,7 @@ Hsiang Liang solía instruir a su sobrino Chi [^151] en el arte de la guerra. Ch
 
 [^127]: xlv:1 _Shih Chi_, cap. 25, fol. 1: #.
 
-[^128]: xlvi:1 La primera instancia de # en el _P'ei Wên Yün Fu_ es de la carta de Ssŭ-ma Ch'ien a # Jên An (ver #, cap. 41, f. 9 _r_°), donde M. Chavannes lo traduce como “la cangue et la chaîne”. Pero en el presente pasaje parece más bien indicar algún instrumento único de tortura.
+[^128]: xlvi:1 La primera instancia de # en el _P'ei Wên Yün Fu_ es de la carta de Ssŭ-ma Ch'ien a # Jên An (ver #, cap. 41, f. 9 _r_°), donde M. Chavannes lo traduce como «la cangue et la chaîne». Pero en el presente pasaje parece más bien indicar algún instrumento único de tortura.
 
 [^129]: xlvi:2 #.
 
@@ -116,7 +116,7 @@ Hsiang Liang solía instruir a su sobrino Chi [^151] en el arte de la guerra. Ch
 
 [^139]: xlvii:9 _Ibíd._ XII. 5; _Chia Yu_, cap. 1 _al final_.
 
-[^140]: xlviii:1 No he podido rastrear esta expresión. Véase la nota [2](Introducción_4#fn_122) en la [p. xliii](Introducción_4#pxliii).
+[^140]: xlviii:1 No he podido rastrear esta expresión. Véase la nota [2](../Introducción_4#fn_122) en la [p. xliii](../Introducción_4#pxliii).
 
 [^141]: xlviii:2 Véase _supra_.
 
@@ -124,13 +124,13 @@ Hsiang Liang solía instruir a su sobrino Chi [^151] en el arte de la guerra. Ch
 
 [^144]: xlviii:4 Véase _supra_.
 
-[^145]: xlviii:5 _Viz._, #. los otros cuatro son #, #, # y # “adoración, duelo, entretenimiento de invitados y ritos festivos”. Véase _Shu Ching_, II, 1, iii. 8, y _Chou Li_, IX, fol. 49.
+[^145]: xlviii:5 _Viz._, #. los otros cuatro son #, #, # y # «adoración, duelo, entretenimiento de invitados y ritos festivos». Véase _Shu Ching_, II, 1, iii. 8, y _Chou Li_, IX, fol. 49.
 
 [^146]: xlviii:6 Prefacio a Sun Tzŭ: #.
 
-[^147]: xlviii:7 Véase [p. 166](13#p166).
+[^147]: xlviii:7 Véase [p. 166](../13#p166).
 
-[^148]: xlix:1 Esta es una alusión bastante oscura a _Tso Chuan_, #, XXXI. 4, donde Tzŭ-ch'an dice: # “Si tienes una pieza de hermoso brocado, no emplearás a un simple aprendiz para confeccionarla”.
+[^148]: xlix:1 Esta es una alusión bastante oscura a _Tso Chuan_, #, XXXI. 4, donde Tzŭ-ch'an dice: # «Si tienes una pieza de hermoso brocado, no emplearás a un simple aprendiz para confeccionarla».
 
 [^149]: xlix:2 Cf. _Tao Tê Ching_, cap. 31: #.
 
@@ -140,9 +140,9 @@ Hsiang Liang solía instruir a su sobrino Chi [^151] en el arte de la guerra. Ch
 
 [^152]: xlix:5 Mejor conocido como Hsiang # Yü \[BC 233–202\].
 
-[^153]: xlix:6 El tercero entre los # (o #) enumerados en [p. 141](11#p141). Para el incidente al que se hace referencia, véase _Tso Chuan_, #, XXII. 4.
+[^153]: xlix:6 El tercero entre los # (o #) enumerados en [p. 141](../11#p141). Para el incidente al que se hace referencia, véase _Tso Chuan_, #, XXII. 4.
 
-[^154]: xlix:7 Véase _supra_, [p. xvi](Introducción_1#pxvi), nota [4](Introducción_1#fn_25).
+[^154]: xlix:7 Véase _supra_, [p. xvi](../Introducción_1#pxvi), nota [4](../Introducción_1#fn_25).
 
 [^155]: xlix:8 _Shih Chi_, cap. 47, f. 7 _r_°.
 

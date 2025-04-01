@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 SEGUNDO PRAPÂTHAKA.
 
@@ -108,7 +108,7 @@ SEGUNDO PRAPÂTHAKA.
 
 8\. Lo que él es al ponerse por primera vez, eso es el nidhana. De él dependen los padres. Por lo tanto, los hacen descender (nidadhati), pues comparten el nidhana de ese Sâman. Así, un hombre medita en el Sâman séptuple como el sol.
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## DÉCIMO KHA<i>N</i><i>D</i>A.
 
@@ -140,7 +140,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1, 2. A continuación sigue el Vâmadevya entretejido en la generación [^144].
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## DECIMOCUARTO KHA<i>N</i><i>D</i>A.
 
@@ -172,7 +172,7 @@ SEGUNDO PRAPÂTHAKA.
 
 2\. Quien así conoce estos Revatîs, entrelazados en los animales, se enriquece con animales [^148], alcanza la plenitud de la vida, vive mucho tiempo, se vuelve grande con hijos y ganado, grande por la fama. Su regla es: «Nunca te quejes de los animales».
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ## DECIMONOVENO KHAND.
 
@@ -198,14 +198,14 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. El udgîtha, del cual un poeta dijo: «Elijo la nota profunda del Sâman como buena para el ganado», pertenece a Agni; la nota indefinida pertenece a Pra<i>g</i>âpati, la nota definida a Soma, la nota suave y tersa a Vâyu, la nota suave y fuerte a Indra, la nota de garza a B<i>ri</i>haspati, la nota sorda a Varu<i>n</i>a. Que el hombre cultive todas estas, evitando, sin embargo, la de Varu<i>n</i>a.
 
-2\. Que un hombre cante [^151], deseando obtener con su canto la inmortalidad para los Devas. «Que con mi canto obtenga oblaciones (svadhâ) para los padres, esperanza para los hombres, forraje y agua para los animales, cielo para el sacrificador, alimento para mí mismo». Reflexionando sobre esto, que un hombre (sacerdote Udgât<i>ri</i>) cante alabanzas, sin cometer errores de pronunciación, etc. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> 3\. Todas las vocales (svara) pertenecen a Indra, todas las sibilantes (ûshman) a Pra<i>g</i>âpati, todas las consonantes (spar<i>s</i>a) a M<i>ri</i>tyu (muerte). Si alguien le reprende por sus vocales, que diga: “Fui a Indra como mi refugio (al pronunciar mis vocales): él te responderá”.
+2\. Que un hombre cante [^151], deseando obtener con su canto la inmortalidad para los Devas. «Que con mi canto obtenga oblaciones (svadhâ) para los padres, esperanza para los hombres, forraje y agua para los animales, cielo para el sacrificador, alimento para mí mismo». Reflexionando sobre esto, que un hombre (sacerdote Udgât<i>ri</i>) cante alabanzas, sin cometer errores de pronunciación, etc. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> 3\. Todas las vocales (svara) pertenecen a Indra, todas las sibilantes (ûshman) a Pra<i>g</i>âpati, todas las consonantes (spar<i>s</i>a) a M<i>ri</i>tyu (muerte). Si alguien le reprende por sus vocales, que diga: «Fui a Indra como mi refugio (al pronunciar mis vocales): él te responderá».
 
 4\. Y si alguien lo reprende por sus sibilantes, que diga: «Me refugié en Pra<i>g</i>âpati; te destrozará». Y si alguien lo reprende por sus consonantes, que diga: «Me refugié en M<i>ri</i>tyu; te reducirá a cenizas».
 
 5\. Todas las vocales deben pronunciarse con voz (ghosha) y fuerza (bala), para que el Udgât<i>ri</i> fortalezca a Indra. Todas las sibilantes deben pronunciarse, ni como si se tragaran (agrasta) [^152], ni como si se expulsaran (nirasta) [^153], sino bien abiertas [^154] (viv<i>ri</i>ta), para que el Udgât<i>ri</i> se entregue a Pra<i>g</i>âpati. Todas las consonantes deben pronunciarse lentamente, sin amontonarlas [^155], para que el Udgât<i>ri</i> se retire de M<i>ri</i>tyu.
 
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## VIGÉSIMO TERCER KHA<i>N</i><i>D</i>A.
 
@@ -293,7 +293,7 @@ SEGUNDO PRAPÂTHAKA.
 
 [^132]: 25:1 El prana se explica con ghrâ<i>n</i>a, olfato; posiblemente ghrâ<i>n</i>a fuera la lectura original. En cualquier caso, no puede tratarse del prana mukhya, ya que se representa claramente como el sentido más bajo.
 
-[^133]: 26:1 Éstas son nuevamente las stobhâksharas, o sílabas musicales utilizadas en la interpretación de los himnos Sâman; ver [p. 22](Introducción#p22).
+[^133]: 26:1 Éstas son nuevamente las stobhâksharas, o sílabas musicales utilizadas en la interpretación de los himnos Sâman; ver [p. 22](../Introducción#p22).
 
 [^134]: 26:2 Cf. <i>Kh</i>. Up. II, 2, 2. Comm.
 

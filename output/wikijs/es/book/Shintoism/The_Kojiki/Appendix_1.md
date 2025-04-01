@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:54:39Z
 
 pág. A1 \[343\]
 
-TEXTO JAPONÉS DE LAS CANCIONES CONSERVADAS EN EL “KO-JI-KI” O “REGISTROS DE ASUNTOS ANTIGUOS”, TRANSLITERADO AL ROMANO. [^2408]
+TEXTO JAPONÉS DE LAS CANCIONES CONSERVADAS EN EL «KO-JI-KI» O «REGISTROS DE ASUNTOS ANTIGUOS», TRANSLITERADO AL ROMANO. [^2408]
 
 I. (SECCIÓN XIX, NOTA 6.)
 
@@ -2458,7 +2458,7 @@ _Koto mo norasanu_
 [^2425]: A12:13 Motowori divide estas líneas así: _Mayo-gaki ko ni_. _Tara kaki_.
 
 
-[^2426]: A12:14 El texto defectuoso de esta línea se restaura con la ayuda del pasaje paralelo en las “Crónicas”.
+[^2426]: A12:14 El texto defectuoso de esta línea se restaura con la ayuda del pasaje paralelo en las «Crónicas».
 
 
 [^2427]: A13:15 Moribe propone enmendar la segunda mitad de este poema para
@@ -2515,7 +2515,7 @@ _Wagihe no atari_.
 [^2432]: A16:20 Motowori lee las palabras _Hara ni aru_ como una línea separada.
 
 
-[^2433]: A20:21 Moribe, siguiendo la lectura de las “Crónicas”, omite la posposición _no_ después de _Karu_; y Motowori lee _hato no_ como una línea por sí sola.
+[^2433]: A20:21 Moribe, siguiendo la lectura de las «Crónicas», omite la posposición _no_ después de _Karu_; y Motowori lee _hato no_ como una línea por sí sola.
 
 
 [^2434]: A21:22 Moribe añadiría a la palabra _ashi_ el honorífico _mi_, que encuentra en un manuscrito antiguo. La métrica se beneficiaría con esta enmienda del verso.

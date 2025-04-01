@@ -50,7 +50,7 @@ Kê<i>s</i>ava le pidió a la muchacha Râ<i>g</i>îmatî [^291] en matrimonio p
 
 Ahora bien, esta hija de un excelente rey [^292] era virtuosa y de buena apariencia; poseía todas las marcas de la suerte en su cuerpo y brillaba como el relámpago Saudâmanî. (7)
 
-Su padre le dijo al poderoso Vâsudêva: “Deja que el príncipe venga aquí para que pueda darle a mi hija”. (8)
+Su padre le dijo al poderoso Vâsudêva: «Deja que el príncipe venga aquí para que pueda darle a mi hija». (8)
 
 Se había bañado en hierbas de la buena suerte y había realizado las ceremonias habituales; vestía un traje celestial y estaba adornado con adornos. (9)
 
@@ -64,7 +64,7 @@ En su camino vio animales encerrados en jaulas y recintos, dominados por el mied
 
 Viéndolos a punto de ser asesinados por su carne, y de ser comidos después, el gran sabio habló a su auriga [^295] así: (15)
 
-“¿Por qué [^296] todos estos animales, que desean ser felices, están mantenidos en jaulas y recintos?” (16)
+«¿Por qué [^296] todos estos animales, que desean ser felices, están mantenidos en jaulas y recintos?» (16)
 
 Entonces el auriga respondió: «Afortunados son estos animales porque en tu boda proporcionarán alimento a mucha gente». (17)
 
@@ -84,13 +84,13 @@ Luego él mismo se arrancó en cinco puñados su cabello deliciosamente perfumad
 
 Y Vâsudêva le dijo a aquel subyugador de los sentidos, que se había arrancado el cabello: «Oh, señor de los ascetas, que pronto obtengas lo que deseas y anhelas. (25)
 
-“¡Aumenten el conocimiento, la fe y la conducta correcta, la paciencia y la perfección!” (26)
+«¡Aumenten el conocimiento, la fe y la conducta correcta, la paciencia y la perfección!» (26)
 
 De esta manera, Râma y Kêsava, los Da<i>s</i>ârhas y muchas personas rindieron homenaje a Arish<i>t</i>anêmi y luego regresaron a la ciudad de Dvârakâ. (27)
 
 Cuando la hija del rey oyó hablar de la ordenación de la <i>Gina</i>, la risa y la alegría la abandonaron, y se sintió abrumada por la aflicción [^299]. (28)
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Râ<i>g</i>îmatî pensó: «¡Qué vergüenza que me haya abandonado! Sería mejor que me convirtiera en monja». (29)
 
@@ -118,7 +118,7 @@ La hija del mejor rey, fiel al autocontrol y a sus votos, mantuvo el honor de su
 
 «Si poseyeras la belleza de Vai<i>s</i>rama<i>n</i>a [^303], las agradables maneras de Nalakûbara [^304], si fueras como el mismo Purandara [^305], no sentiría ningún deseo por ti. (41)
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ¡Ay de ti, famoso caballero, que quieres beber la bebida vomitada por el bien de esta vida; sería mejor para ti morir! [^306]. (42)
 
@@ -132,7 +132,7 @@ Habiendo oído estas bien dichas palabras de la virtuosa dama, regresó a la Ley
 
 Protegido en pensamientos, palabras y acciones, sometiendo sus sentidos y manteniendo los votos, practicó la verdadera <i>Srama<i>n</i>ahood</i> durante toda su vida. (47)
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Después de practicar severas austeridades, ambos se convirtieron en Kêvalins y, habiendo aniquilado completamente su Karman, alcanzaron la más alta perfección. (48)
 

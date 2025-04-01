@@ -34,9 +34,9 @@ dateCreated: 2025-2-7T10:42:11Z
 
 «Preciosa a los ojos del Señor es la Agadá, como se explica en el Midrashim»
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## NOTA INTRODUCTORIA
 
@@ -44,9 +44,9 @@ Los Midrashim son antiguas exposiciones rabínicas de las Sagradas Escrituras. E
 
 Los Midrashim, en su mayor parte, surgieron de un loable deseo de familiarizar al pueblo con las Sagradas Escrituras, las cuales, a consecuencia de los cambios en la lengua vernácula, se habían convertido, con el tiempo, en letra muerta. Estos Midrashim tienen poco o nada que ver con las Halajá o decisiones legales del Talmud, salvo en su propósito, que es ilustrar y explicar. No son interpretaciones literales, sino figurativas y alegóricas, y por lo tanto enigmáticas. Sin embargo, deben interpretarse como declaraciones de los sabios, y algunos incluso las consideran tan vinculantes como la propia ley de Moisés. Los siguientes son extractos bastante representativos.
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## LOS MIDRASHIM
 
@@ -84,7 +84,7 @@ Abraham hizo un pacto con el pueblo de la tierra, y cuando los ángeles se le pr
 
 _Ibídem._
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Siquem, hijo de Hamor, reunió a unas muchachas que tocaban panderetas fuera de la tienda de Dina, y cuando ella salió a verlas, se la llevó... y ella le dio a luz a Osenat. Los hijos de Jacob querían matarla para que la gente de la tierra no empezara a hablar mal de la casa de su padre. Sin embargo, Jacob grabó el santo Nombre en una placa de metal, se la colgó al cuello y la despidió. Habiendo observado todo esto ante el Santo —¡bendito sea!—, el ángel Miguel fue enviado, quien la condujo a Egipto, a la casa de Potifera; pues Osenat era digna de ser la esposa de José.
 
@@ -114,7 +114,7 @@ _Bamidbar Rabbah_, cap. 2.
 
 _Ibíd._, cap. 7.
 
-<span id="p241">[<sup><small>pág. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 «Y Abraham se levantó temprano y ensilló su asno» (Génesis 12:3). Este es el asno en el que Moisés también cabalgó al entrar en Egipto; pues se dice (Éxodo 4:20): «Y Moisés tomó a su mujer y a sus hijos, y los montó en un asno». Este es el asno en el que también cabalgará el Hijo de David; como se dice (Zacarías 9:9): «Pobre, y cabalgando sobre un asno».
 
@@ -188,7 +188,7 @@ El rabino Yojanán dice: «Adán y Eva parecían tener unos veinte años cuando 
 
 _Ibíd._, cap. 14.
 
-<span id="p245">[<sup><small>pág. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 Rav Ajá dijo que cuando Dios estaba a punto de crear a Adán, consultó a los ángeles ministradores y les preguntó: "¿Haremos un hombre?". Ellos preguntaron: "¿De qué servirá este hombre?". Él respondió: "Su sabiduría será mayor que la vuestra". Un día, por lo tanto, reunió al ganado, las bestias y las aves, y les preguntó el nombre de cada uno, pero no lo supieron. Entonces los hizo pasar ante Adán y le preguntó: "¿Cómo se llama este y el otro?". Entonces Adán respondió: "Este es un buey, este es un asno", y así sucesivamente. "Y tú, ¿por qué te llamas Adán?" (es decir, en hebreo, hombre). "Debería llamarme Adán", fue su respuesta, "pues fui creado de Adamah" (la tierra). "¿Y cuál es mi nombre?". "Es apropiado que te llames Señor, porque eres Señor de todas tus criaturas". Rav Ajá dice: «Yo soy el Señor, ese es mi nombre» (Isaías 42:8). (Ese es mi nombre con el que Adán me llamó).
 
@@ -204,7 +204,7 @@ _Ibíd._, cap. 28.
 
 Respecto al hueso coccygis, hay una historia interesante en el Midrash Kohelet (fol. 114, 3), que conviene incluir aquí. Adriano (cuyos huesos sean molidos y su nombre borrado) preguntó en una ocasión al rabino Joshua ben Chanania: "¿De qué se reconstruirá la estructura humana cuando se levante de nuevo?". "De Luz en la columna vertebral", fue la respuesta. "Demuéstrame esto", dijo Adriano. Entonces el rabino tomó Luz, un pequeño hueso de la columna vertebral, y lo sumergió en agua, pero no se ablandó; lo puso en el fuego, pero no se consumió; lo puso en un molino, pero no se pudo machacar; lo colocó sobre un yunque y lo golpeó con un martillo, pero el yunque se partió y el martillo se rompió. (Véase también Zohar en "Génesis", 206, etc.)
 
-<span id="p246">[<sup><small>pág. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 «Harás una ventana al arca» (Génesis 6:16). El rabino Amma dice: «Era una ventana de verdad». El rabino Levi, por otro lado, sostenía que era una piedra preciosa, y que durante los doce meses que Noé estuvo en el arca no necesitó la luz del sol de día ni de la luna de noche gracias a esa piedra, que había mantenido suspendida, y sabía que era de día cuando estaba oscura y de noche cuando brillaba.
 
@@ -278,7 +278,7 @@ _Midrash Rabá_, cap. 39.
 
 _Shemoth Rabbah_, cap. 32.
 
-«Cuando el Señor tu Dios ensanche tu territorio, como te ha prometido» (Deuteronomio 12:20). Rabí Yitzchak dijo: «Este rollo nadie sabe cuánto mide de largo ni de ancho, pero al desenrollarlo habla por sí solo y muestra su grandeza. Así sucede con la tierra de Israel, que, en su mayor parte, está compuesta de colinas y montañas; pero cuando el Santo —¡bendito sea!— la nivele, como se dice (Isaías 4:4): “Todo valle se elevará, toda montaña y colina se bajará, lo torcido se enderezará y lo áspero se allanará», entonces esa tierra hablará, por así decirlo, por sí misma, y ​​su extensión quedará al descubierto”.
+«Cuando el Señor tu Dios ensanche tu territorio, como te ha prometido» (Deuteronomio 12:20). Rabí Yitzchak dijo: «Este rollo nadie sabe cuánto mide de largo ni de ancho, pero al desenrollarlo habla por sí solo y muestra su grandeza. Así sucede con la tierra de Israel, que, en su mayor parte, está compuesta de colinas y montañas; pero cuando el Santo —¡bendito sea!— la nivele, como se dice (Isaías 4:4): «Todo valle se elevará, toda montaña y colina se bajará, lo torcido se enderezará y lo áspero se allanará», entonces esa tierra hablará, por así decirlo, por sí misma, y ​​su extensión quedará al descubierto».
 
 _Devarim Rabbah_, cap. 4.
 
@@ -286,11 +286,11 @@ Bienaventurados los que habitan en la tierra de Israel, porque no tienen pecado 
 
 _Midrash Shochar Tov en Ps. lxxxv_.
 
-«Mejor es un bocado seco y con él tranquilidad» (Prov. 17:1). Esto, dice el Rabino, se refiere a la tierra de Israel, pues incluso si un hombre no tiene más que pan y sal para comer, si mora en la tierra de Israel, está seguro de ser hijo del mundo venidero. «Que una casa llena de sacrificios y contiendas». Esto se refiere al exterior de la tierra, que está lleno de robo y violencia. El Rabino Y——- dice: «Quien camina solo una hora en la tierra de Israel y luego muere dentro de ella, puede estar seguro de ser hijo del mundo venidero; porque está escrito (Deut. 32:43): “Y su tierra expiará a su pueblo»”.
+«Mejor es un bocado seco y con él tranquilidad» (Prov. 17:1). Esto, dice el Rabino, se refiere a la tierra de Israel, pues incluso si un hombre no tiene más que pan y sal para comer, si mora en la tierra de Israel, está seguro de ser hijo del mundo venidero. «Que una casa llena de sacrificios y contiendas». Esto se refiere al exterior de la tierra, que está lleno de robo y violencia. El Rabino Y——- dice: «Quien camina solo una hora en la tierra de Israel y luego muere dentro de ella, puede estar seguro de ser hijo del mundo venidero; porque está escrito (Deut. 32:43): «Y su tierra expiará a su pueblo»».
 
 _Midrash Mishle_.
 
-<span id="p251">[<sup><small>pág. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Véase también el Talmud, Kethuboth, fol. 111, col. 1. El Dr. Benisch traduce «y hará expiación por Su tierra y Su pueblo». Los Tárgumes de Jonatán y el Yerushalmi dicen: «Él hará expiación por Su tierra y Su pueblo»; y Onkelos lo expresa así: «Él mostrará misericordia a Su tierra y Su pueblo». Nuestra traducción, sin embargo, concuerda con el sentido que se le da en el Talmud. Hay judíos que viajan por el mundo con sacos de tierra de la Tierra Santa, que venden en pequeñas cantidades a precios elevados a quienes pueden permitírselo, y creen en su virtud como protección contra los gusanos de la tumba.
 
@@ -314,7 +314,7 @@ _Vayekra Rabbah_, cap. 13.
 
 _Pirke d'Rab. Eliezer_, cap. 10.
 
-«Y salió fuego del Señor» (Levítico 10:2). Abba Yossi dice: «Dos hilos de fuego salieron del Lugar Santísimo, y se dividieron en cuatro: dos entraron en la nariz de uno (es decir, Nadab), y dos en la del otro (es decir, Abiú), y así los consumieron. Sus almas se quemaron, pero no sus ropas; pues está escrito: “Se acercaron, pues, y los llevaron en sus túnicas»” (v. 5).
+«Y salió fuego del Señor» (Levítico 10:2). Abba Yossi dice: «Dos hilos de fuego salieron del Lugar Santísimo, y se dividieron en cuatro: dos entraron en la nariz de uno (es decir, Nadab), y dos en la del otro (es decir, Abiú), y así los consumieron. Sus almas se quemaron, pero no sus ropas; pues está escrito: «Se acercaron, pues, y los llevaron en sus túnicas»» (v. 5).
 
 _Torath Cohanim_, sec. _Shemini_.
 
@@ -326,7 +326,7 @@ _Midrash Rabá Bereshith_, cap. 17.
 
 _Pesikta_.
 
-<span id="p253">[<sup><small>pág. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 (Cant. v. i), «Entré en mi jardín», las sinagogas y academias; «Mi hermana, mi esposa», la congregación de Israel; «He recogido mi mirra con mis especias», es decir, la Biblia; «He comido mi panal con mi miel», es decir, las Halajás, Midrasot y Agadot; «He bebido mi vino con mi leche», esto alude a las buenas obras reservadas para los sabios de Israel. Después, «¡Comed, amigos! ¡Bebed, sí, bebed libremente, amados!».
 
@@ -380,7 +380,7 @@ _Ibídem._
 
 El rabino Avin dijo que se crearon cuatro tipos de excelencia en el mundo: (1.) la excelencia del hombre sobre el reino animal; (2.) la excelencia del águila sobre las tribus emplumadas;
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 (3.) la excelencia del buey sobre el ganado doméstico; y (4.) la excelencia del león sobre las fieras. Todos estaban bajo el carro de Dios; como se dice (Ezequiel 1:10): «En cuanto a la semejanza de sus rostros, los cuatro tenían rostro de hombre, rostro de león, rostro de buey y rostro de águila». ¿Y por qué todo esto? Para que no se exaltaran, sino que supieran que hay un reino de los cielos sobre ellos; y por esta razón se dice (Eclesiastés 5:8): «El que es más alto que el más alto mira, y hay más alto que ellos». Este es el significado de Éxodo 15:1: «Ha triunfado gloriosamente».
 
@@ -408,7 +408,7 @@ _Midrash Rabá Eijá_.
 
 ¡Cómo se asienta la ciudad solitaria! (Lamentaciones 1:1). Tres profetas han usado esta palabra «cómo» al profetizar: Moisés, Isaías y Jeremías. Moisés dijo (Deuteronomio 1:12): «¿Cómo puedo yo mismo llevar vuestra carga?». Isaías dijo
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 (Isaías 1:21): "¡Cómo se ha convertido la ciudad fiel en una ramera!" Jeremías dijo (Lamentaciones 1:1): "¡Cómo se sienta la ciudad solitaria!". Rabí Levi dice: "Es como una matrona que tiene tres amigas: una la vio en su prosperidad, otra la vio en su desenfreno, y la tercera la vio en su corrupción. Así que Moisés vio a Israel en su gloria y prosperidad, y dijo: "¿Cómo puedo yo mismo soportar su carga?". Isaías los vio en su desenfreno, y dijo: "¿Cómo está la ciudad fiel?", etc.; y Jeremías los vio en su corrupción, y dijo: "¡Cómo se sienta la ciudad solitaria!".
 
@@ -476,7 +476,7 @@ Las lluvias son mayores que la entrega de la Ley, porque la entrega de la Ley fu
 
 _Midrash Shojar Tov_, 117
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 David era un pastor de Israel, y el Pastor de David era el Santo, ¡bendito sea Él!, como está dicho (Salmo 23:10): «El Señor es mi Pastor».
 
@@ -494,15 +494,15 @@ _Yalkut Eliezer_, fol. 65, col. 2, n-36.
 
 _Yalkut Jethro_, n. 271.
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 «Escuchemos la conclusión de todo el asunto» (Eclesiastés 12:13). Siempre escucharás la Ley, incluso cuando no la entiendas. «Teme a Dios» y entrégale tu corazón. «Y guarda sus mandamientos», pues por causa de la Ley fue creado el mundo entero para que la estudiara.
 
 _Koheleth, como se da en Tse-enah Ure-enah_.
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
-<span id="p265">[<sup><small>pág. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## I
 
@@ -39,7 +39,7 @@ Si, entonces, necesitamos una reforma religiosa hoy, no hay esencialmente nada n
 
 Esta necesidad perenne de recuperar la libertad y el movimiento en la religión, de descongelar sus formas congeladas, restaurar la espontaneidad y la creatividad, y así reemplazar la rigidez estática, que es la muerte, por la libertad y el progreso, que son la vida, es la lección clara de toda la historia religiosa, tanto dentro como fuera de la cristiandad. El proceso siempre es inquietante, pero una religión que carece de la vitalidad para intentarlo, que ya no posee la fuerza creativa suficiente para impacientarse con las viejas formulaciones y desecharlas cuando quedan obsoletas, ya está prácticamente muerta. El poder de la reforma es a la religión lo que el poder de la recuperación es a la salud.
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 ## II
 
@@ -91,11 +91,11 @@ Pero este llamado que hacemos aquí no permite que una relajación tan relajada 
 
 ## En
 
-De hecho, apelar a la religión de Jesús no es intelectualmente tan simple como podría parecer a primera vista. Incluso aquí, el literalismo y el legalismo pueden tener un efecto letal. A Jesús mismo se le puede otorgar la autoridad verbal contra la que luchó a lo largo de su ministerio. Sus principios pueden convertirse en reglas; las formas de pensamiento de su generación que compartió, como la explicación de las enfermedades por posesión demoníaca, pueden considerarse infalibles porque las utilizó; y, una vez más, la letra puede aniquilar el espíritu en su caso, como lo ha hecho con todos los líderes espirituales de la historia. Cuando uno apela a la religión de Jesús a través de los siglos, no pretende atribuirle carácter definitivo, como si Dios no hubiera hablado desde entonces, como si ninguna nueva luz hubiera brillado sobre el mundo. Si Dios no habla ahora, nunca ha hablado en absoluto. Pero sí se quiere decir que el modo de vida del Maestro es central en el cristianismo, y que en él están implicados convicciones, motivos, ideales y principios tan supremos que el cristianismo debe siempre recobrar su fuerza y ​​refrescar su pureza en el lugar donde comenzó, es decir, cuando el Maestro dijo a sus discípulos: “Sígueme”.
+De hecho, apelar a la religión de Jesús no es intelectualmente tan simple como podría parecer a primera vista. Incluso aquí, el literalismo y el legalismo pueden tener un efecto letal. A Jesús mismo se le puede otorgar la autoridad verbal contra la que luchó a lo largo de su ministerio. Sus principios pueden convertirse en reglas; las formas de pensamiento de su generación que compartió, como la explicación de las enfermedades por posesión demoníaca, pueden considerarse infalibles porque las utilizó; y, una vez más, la letra puede aniquilar el espíritu en su caso, como lo ha hecho con todos los líderes espirituales de la historia. Cuando uno apela a la religión de Jesús a través de los siglos, no pretende atribuirle carácter definitivo, como si Dios no hubiera hablado desde entonces, como si ninguna nueva luz hubiera brillado sobre el mundo. Si Dios no habla ahora, nunca ha hablado en absoluto. Pero sí se quiere decir que el modo de vida del Maestro es central en el cristianismo, y que en él están implicados convicciones, motivos, ideales y principios tan supremos que el cristianismo debe siempre recobrar su fuerza y ​​refrescar su pureza en el lugar donde comenzó, es decir, cuando el Maestro dijo a sus discípulos: «Sígueme».
 
 Si bien la apelación a la religión de Jesús presenta problemas intelectuales, preguntas de erudición histórica no siempre fáciles de responder, su principal efecto debería ser esclarecedor. Lo que sucede cuando un nuevo fundador de una religión aparece en la historia es evidente. Llega con su personalidad y su evangelio, y en torno al magnetismo de su influencia se reúnen sus discípulos. Luego se marcha y sus seguidores, a lo largo de las generaciones, formulan sus enseñanzas, las adaptan a los moldes de sucesivas filosofías y cosmovisiones, construyen teologías para explicarlo y tejen leyendas para explicarlo, hasta que, si regresara, nadie se sorprendería tanto de lo que se dice y cree sobre él como el propio fundador.
 
-<span id="p321">[<sup><small>pág. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 Eso le ocurrió a Gautama Buda. Su propia religión incluso ignoraba la existencia de un Dios personal. La suya era una religión profunda, interior y noble de abnegación, pero la existencia y la disponibilidad de Dios no desempeñaban ningún papel en ella. Por lo tanto, si Gautama pudiera recorrer hoy China y Japón y ver los templos construidos para su gloria, las mitologías que se recitaban sobre él, las teologías que se creían sobre él, los rituales que se celebraban ante él; si él, que no consideraba la existencia de Dios, pudiera verse adorado como un dios, mientras que la religión por la que realmente vivió está sofocada bajo la religión acumulada que lo rodea, su queja constante sería: «Si esto es budismo, entonces no soy budista».
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p185">[<sup><small>pág. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 1600-1700 d. C.
 

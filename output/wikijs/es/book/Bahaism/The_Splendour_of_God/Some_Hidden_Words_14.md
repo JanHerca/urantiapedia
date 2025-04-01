@@ -40,11 +40,11 @@ La Guía de Dios lo hace evidente y claro, cuando se abre el Camino del Reino, e
 
 No basta con distinguir el Camino del Reino, solo con descubrir el Camino Celestial; hay que recorrerlo hasta el final. Por ejemplo, no basta con que un hombre descubra el camino a América. Debe recorrerlo para llegar a ese país; de lo contrario, si pasa años descubriendo más sobre el camino y no lo recorre, nunca llegará.
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 No basta con que un niño sepa dónde está la escuela; debe estudiar en ella para adquirir conocimiento. La fe no consiste simplemente en saber cuál es la escuela y reconocer al maestro; es necesario adquirir conocimiento en ella. Si no se adquiere conocimiento, de nada sirve saber de la escuela.
 
-Esto es lo que dijo Cristo: “Conoceréis el árbol por sus frutos”.
+Esto es lo que dijo Cristo: «Conoceréis el árbol por sus frutos».
 
 Si ves a alguien que es veraz, que realmente cree y es justo, que se siente atraído por el reino y cuya voluntad está aniquilada en el Camino de Dios; entonces sabrás que es un árbol del Reino, si muestra todas estas cualidades.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 1\. Estas cosas en la Pascua abrogan el mandamiento contra el trabajo en sábado: su sacrificio, la aspersión de su sangre, la purificación de sus entrañas y la incensación de su grasa. Pero asarlo y enjuagarlo no abrogan el sábado. Pero transportarlo, llevarlo más allá de la jornada de un sábado y cortarle la verga, no abrogan el sábado. Rabí Eleazar dijo: «Lo abro».
 

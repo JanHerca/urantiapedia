@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T14:46:34Z
       <tr>
         <td>
         <a href="/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_17">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO “REAL”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO «REAL»</span>
         </a>
         </td>
         <td>
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T14:46:34Z
       <tr>
         <td>
         <a href="/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_17">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO “REAL”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CONFERENCIA XVII. LA TEORÍA CIENTÍFICA Y EL MUNDO «REAL»</span>
         </a>
         </td>
         <td>

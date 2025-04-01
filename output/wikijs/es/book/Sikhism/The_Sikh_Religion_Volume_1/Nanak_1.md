@@ -77,7 +77,7 @@ Quien considera el mal y el bien como lo mismo, de esta manera quedará absorbid
 CH. El que hizo los cuatro Veds,[^4] las cuatro minas,[^5] y las cuatro eras[^6]
 Ha sido en todas las épocas un Jogi, un hombre mundano o un pandit erudito.
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 CHH. La sombra de Dios está sobre todo; la duda es obra suya.
 Oh Dios, habiendo creado la duda, Tú mismo extravías al hombre. Aquellos a quienes favoreces se encuentran con el Gurú.
@@ -105,7 +105,7 @@ DH. Él mismo destruye y edifica; actúa como le place.
 N. Aquel en cuyo corazón habita Dios canta sus alabanzas.
 El Creador mezcla a los hombres consigo mismo, y ellos no nacen de nuevo.
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 T. El terrible océano[^1] es profundo y nadie encuentra su fin.
 No tenemos barca ni balsa; nos estamos ahogando; sálvanos, oh Rey Salvador.
@@ -155,7 +155,7 @@ Medita en Él; absórbete en el Verdadero; y sé un sacrificio para Él.
 H. No hay otro Dador que Aquel que creó las criaturas y les dio sustento.
 Medita en el nombre de Dios; absórbete en el nombre de Dios, y noche y día obtendrás beneficio de ello.
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 A. Lo que Dios, que creó el mundo, tiene que hacer, lo sigue haciendo.
 Él actúa y hace que otros actúen; Él lo sabe todo; así dice el poeta Nanak.
@@ -170,7 +170,7 @@ Para que, cuando sea necesario, se pueda encontrar en él una verdadera marca.
 Allí[^3] se obtiene grandeza, alegrías eternas y delicias eternas.
 Aquellos en cuyo corazón está la verdad, tienen la marca de ella en sus frentes.
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Por la misericordia de Dios los hombres lo obtienen y no por palabras ociosas.
 Uno viene, otro va; les damos grandes nombres.[^1]
@@ -252,7 +252,7 @@ Este cuerpo tuyo se convertirá en un montón de polvo en el sepulcro.
 ZOE. Eran tiranos que no acataron el Nombre:
 ¿Cómo puede el hombre obtener la paz sin su Maestro?
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 'AIN. Practica las buenas obras lo mejor que puedas:
 Sin buenas obras y virtudes el hombre morirá lleno de arrepentimiento.
@@ -291,7 +291,7 @@ Cuanto más recuerdan a Dios, más le aman.
 LAM. Aquellos sobre quienes Él dirige su mirada misericordiosa se han vuelto dignos.
 ¿Qué deseo de vida tiene el hombre si no regula su propia conducta?
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ALIF. Dios está en ti; ¿por qué no piensas en Él, oh hombre ignorante?
 Mediante el servicio al gurú se encuentra a Dios y finalmente se obtiene la liberación.
@@ -305,7 +305,7 @@ No parece que ni siquiera el aprendizaje del persa orientara los pensamientos de
 
 
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

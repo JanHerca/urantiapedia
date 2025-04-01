@@ -56,7 +56,7 @@ El monarca universal Brahmadatta, el poderoso y glorioso rey, respetuosamente le
 
 «Sabe, Sambhûta, que has obtenido la recompensa de tus virtudes en forma de gran riqueza y prosperidad; pero sabe, oh rey, que lo mismo ocurre con <i>K</i>itra; él también obtuvo prosperidad y esplendor.» (11) 
 
-“Una canción de profundo significado condensada en palabras ha sido repetida en medio de una multitud de hombres, (habiendo escuchado) que monjes de piedad y virtudes se esfuerzan en esta (religión): Me he convertido en un <i>S</i>rama<i>n</i>a.” (12) 
+«Una canción de profundo significado condensada en palabras ha sido repetida en medio de una multitud de hombres, (habiendo escuchado) que monjes de piedad y virtudes se esfuerzan en esta (religión): Me he convertido en un <i>S</i>rama<i>n</i>a.» (12) 
 
 'Reconocidos son mis hermosos palacios U<i>k</i><i>k</i>a, Udaya, Madhu, Karka y Brahman: esta casa, llena de tesoros y que contiene los mejores productos de los Pa<i>ñ</i><i>k</i>âlas, ¡oh <i>K</i>itra [^170], considérala como tuya! (13) 
 

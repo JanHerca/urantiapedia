@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## MAHÂ-SUDASSANA SUTTA. INTRODUCCIÓN
 
@@ -42,11 +42,11 @@ Este Sutta aparece en el Dîgha Nikâya, inmediatamente después del Libro del G
 
 La parte entre corchetes corresponde al comentario, probablemente escrito en Ceilán en el siglo V de nuestra era. He incluido la parte del comentario que explica las palabras del verso, por su interés extraordinario. Hay motivos para creer, por las razones expuestas en la Introducción a las «Historias del Nacimiento Budista», que las historias pertenecen a un período muy temprano de la historia del budismo; y podemos estar seguros de que si el autor del comentario hubiera extraído esta historia de nuestro Sutta, no se habría atrevido a introducir cambios tan importantes en lo que consideraba escritura sagrada.
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## MAHÂ-SUDASSANA <i>G</i>ÂTAKA. EL GRAN REY DE LA GLORIA
 
-\[“Cuán transitorias son todas las cosas componentes”. Esto dijo el Maestro mientras yacía en su lecho de muerte, respecto a aquella palabra de Ânanda el Thera, cuando dijo: “Oh Bendito, no mueras en este pequeño pueblo”, y así sucesivamente.
+\[«Cuán transitorias son todas las cosas componentes». Esto dijo el Maestro mientras yacía en su lecho de muerte, respecto a aquella palabra de Ânanda el Thera, cuando dijo: «Oh Bendito, no mueras en este pequeño pueblo», y así sucesivamente.
 
 Cuando el Tathagata se encontraba en el <i>Getavana</i>[^1], pensó: «El Thera Sâriputta, nacido en Nâlagâma, ha muerto el día de luna llena del mes de Kattika, en esa misma aldea[^2]; y Mahâ Moggallâna en este último, en la mitad oscura de ese mismo mes. Como mis dos discípulos principales han muerto, yo también moriré en Kusinârâ». Acto seguido, se dirigió directamente a ese lugar y se acostó en el lecho de Uttara-sîsaka, entre los árboles gemelos de Sala, para no volver a levantarse.
 
@@ -58,7 +58,7 @@ Y a petición del Thera, él, contando la historia, pronunció el Mahâ-Sudassan
 
 En aquella ocasión, cuando la reina Subhaddâ vio a Mahâ Sudassana, quien descendía del Palacio de la Rectitud y se encontraba recostado, no lejos de allí, en el lecho apropiado, tendido en el bosque de las siete clases de gemas, ella dijo: «Tuyas, oh rey, son estas ochenta y cuatro mil ciudades, de las cuales la principal es la ciudad real de Kusavâtî. ¡Despierta tu deseo por ellas!»
 
-Entonces respondió Mahâ Sudassana: '¡No hables así, oh reina!, sino más bien exhortame, diciendo: “¡Desecha el deseo por estas cosas, no las anheles[^4]!”
+Entonces respondió Mahâ Sudassana: '¡No hables así, oh reina!, sino más bien exhortame, diciendo: «¡Desecha el deseo por estas cosas, no las anheles[^4]!»
 
 Y cuando ella preguntó: «¿Por qué, oh rey?», «Hoy ha llegado mi hora y moriré», fue su respuesta[^5].
 
@@ -87,7 +87,7 @@ Y cuando Mahâ Sudassana hubo llevado su discurso a un punto culminante con el g
 
 \[Cuando el Maestro hubo concluido esta lección sobre la verdad, resumió el <i>G</i>âtaka</i>, diciendo: 'La que entonces era Subhaddâ, la reina, era la madre de Râhula, el gran consejero era Râhula, el resto del séquito era el séquito del Buda, y Mahâ Sudassana yo mismo.'\]
 
-<span id="p242">[<sup><small>pág. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## INTRODUCCIÓN (continuación)
 

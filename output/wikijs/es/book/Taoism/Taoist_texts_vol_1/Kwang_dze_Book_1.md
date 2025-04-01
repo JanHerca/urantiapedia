@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 LOS ESCRITOS DE KWANG-DZE. LIBRO I.
 
@@ -42,13 +42,13 @@ Hsiâo-yâo Yû, o 'Disfrute en tranquilidad [^41]'.
 
 1\. En el Océano del Norte hay un pez llamado Khwän [^42], de tamaño desconocido. Se transforma en un ave llamada Phing, cuyo lomo mide también desconocido. Cuando esta ave se levanta y vuela, sus alas son como nubes que rodean el cielo. Cuando el mar se agita (para arrastrarla), se prepara para dirigirse al Océano Austral. El Océano Austral es la Piscina del Cielo.
 
-<span id="p165">[<sup><small>pág. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Existe el libro Khî Hsieh [^43], un registro de maravillas. Contiene estas palabras: «Cuando el phäng se dirige al Océano Antártico, bate sus alas sobre el agua durante 3000 lî. Luego asciende en un torbellino 90 000 lî, y descansa solo al cabo de seis meses». (Pero similar a esto es el movimiento de las brisas que llamamos) los caballos de los campos, del polvo (que vibra con los rayos del sol) y de los seres vivos al ser empujados unos contra otros por el aire [^44]. ¿Es su azul el color propio del cielo? ¿O se debe a su distancia e inmensidad? Si uno mirara hacia abajo (desde arriba), la misma apariencia se presentaría ante sus ojos.
 
 2\. Y además, (hablando de) la acumulación de agua; si no es grande, no tendrá fuerza para sostener un gran barco. Vuelca una taza de agua en una cavidad, y una pajita flotará sobre ella como si fuera un barco. Coloca una taza en ella, y se pegará firmemente; el agua es baja y el barco es grande. (Lo mismo ocurre con) la acumulación de viento; si no es grande, no tendrá fuerza para sostener grandes alas. Por lo tanto (el phäng ascendió a) la altura de 90.000 lî, y había tal masa de viento debajo; a partir de entonces, la acumulación de viento fue suficiente. Como parecía llevar el cielo azul a cuestas, y no había nada que obstruyera o detuviera su curso, pudo proseguir su camino hacia el sur.
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 Una cigarra y una pequeña paloma se rieron de ello, diciendo: 'Hacemos un esfuerzo y volamos hacia un olmo o un árbol de madera de sapan; y a veces antes de alcanzarlo, no podemos hacer más que caer al suelo. ¿De qué le sirve a esta (criatura) ascender 90.000 lî y dirigirse al sur?' El que va a los suburbios herbosos [^45], volviendo a la tercera comida (del día), tendrá su estómago tan lleno como cuando partió; el que va a una distancia de 100 lî tendrá que moler su grano donde se detenga a pasar la noche; el que va mil lî, tendrá que llevar consigo provisiones para tres meses. ¿Qué deberían saber estas dos pequeñas criaturas sobre el asunto? El conocimiento de lo que es pequeño no alcanza a lo que es grande; (la experiencia de) unos pocos años no alcanza a la de muchos. ¿Cómo sabemos que es así? El hongo de una mañana no sabe (lo que ocurre entre) el principio y el final de un mes; La efímera cigarra desconoce lo que ocurre entre la primavera y el otoño. Estos son ejemplos de una vida breve. Al sur de Khû [^46], se encuentra el árbol llamado Ming-ling [^47], cuya primavera dura 500 años y su otoño lo mismo; en la antigüedad existía el llamado Tâ-khun [^48], <span id="p167"><sup><small>[ p. 167 ]</small></sup></span>, cuya primavera dura 8000 años y su otoño lo mismo. Y Phäng Zû [^49] es el único hombre reconocido hasta el día de hoy por su longevidad: si todos los hombres quisieran igualarlo, ¿no serían miserables?
 

@@ -60,7 +60,7 @@ Un mago solía despojar a los muertos de sus mortajas. En una ocasión, al llega
 
 _Bava Bathra_, fol. 58, col. 1
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 A nadie se le permitía sentarse en el Sanedrín a menos que tuviera conocimientos de magia.
 
@@ -98,7 +98,7 @@ Para la ceguera nocturna, que un hombre tome una cuerda de pelo y ate un extremo
 
 _Gittin_, fol. 69, col. 1.
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Según los rabinos, un hombre no debe beber agua de noche, pues así se expone al poder de Shavriri, el demonio de la ceguera. ¿Qué debe hacer entonces si tiene sed? Si hay otro hombre con él, que lo despierte y diga: «Tengo sed»; pero si está solo, que golpee la tapa de la jarra (para que el demonio piense que hay alguien con él) y, dirigiéndose por su nombre y el de su madre, que diga: «Tu madre te ha dicho que te guardes de Shavriri, vriri, riri, iri, ri», en una taza blanca. Rashi dice que con este conjuro el demonio se contrae gradualmente y desaparece a medida que disminuye el sonido de la palabra Shavriri.
 

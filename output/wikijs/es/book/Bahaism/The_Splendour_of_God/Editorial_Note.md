@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span> pág. 8
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span> pág. 8
 
 El objetivo de los editores de esta serie es muy concreto. Desean sobre todo que, a su humilde manera, estos libros sean embajadores de la buena voluntad y el entendimiento entre Oriente y Occidente: el viejo mundo del Pensamiento y el nuevo de la Acción. En este empeño, y en su propio ámbito, no son más que seguidores del más alto ejemplo del país. Confían en que un conocimiento más profundo de los grandes ideales y la noble filosofía del pensamiento oriental pueda contribuir al resurgimiento de ese auténtico espíritu de Caridad que no desprecia ni teme a las naciones de otro credo y color. Finalmente, al agradecer a la prensa y al público la cordial acogida brindada a la Serie "Sabiduría de Oriente", desean manifestar que no se han escatimado esfuerzos para conseguir los mejores especialistas para el tratamiento de los diversos temas en cuestión.
 

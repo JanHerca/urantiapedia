@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 KHANG era el título honorario de sacrificio otorgado a Kâo, hijo y sucesor del rey Khăng. Su reinado duró desde el año 1078 a. C. hasta el 1053 a. C. Khang, como título honorario, tiene varios significados. En el texto probablemente significa: «Quien hizo que el pueblo estuviera tranquilo y feliz».
 
@@ -76,7 +76,7 @@ Los duques y todos los demás, al oír esta acusación, se saludaron y se retira
 
 ## Notas al pie
 
-[^286]: 243:1 Véase la nota sobre estos ministros, [p. 235](Shu_King_Part5_22#p235).
+[^286]: 243:1 Véase la nota sobre estos ministros, [p. 235](../Shu_King_Part5_22#p235).
 
 [^287]: 243:2 Estos presentes se sumaban a los equipos de caballos exhibidos en el patio: sedas y productos más ligeros de sus diversos territorios.
 

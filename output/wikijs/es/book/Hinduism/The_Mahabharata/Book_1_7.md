@@ -62,9 +62,9 @@ Duryodhana respondió: «Bhishma no siente un gran afecto por ninguno de los dos
 
 Vaisampayana dijo: «Entonces el príncipe Duryodhana, junto con sus hermanos, comenzó a ganarse gradualmente al pueblo mediante la concesión de riquezas y honores. Mientras tanto, algunos consejeros astutos, instruidos por Dhritarashtra, un día comenzaron a describir (en la corte) la ciudad de Varanavata como un lugar encantador. Y dijeron: «El festival de Pasupati (Siva) ha comenzado en la ciudad de Varanavata. La multitud es grande y la procesión es la más encantadora jamás vista en la tierra. Adornada con todos los adornos, cautivó los corazones de todos los espectadores». Así hablaron aquellos consejeros, instruidos por Dhritarashtra, de Varanavata, y mientras hablaban, los Pandavas, ¡oh rey!, sintieron el deseo de ir a esa encantadora ciudad. Y cuando el rey (Dhritarashtra) comprobó que la curiosidad de los Pandavas había despertado, el hijo de Ambika les habló diciendo: «Estos hombres míos suelen hablar de Varanavata como la ciudad más encantadora del mundo. Si, hijos, deseáis presenciar ese festival, id a Varanavata con vuestros seguidores y amigos y disfrutad allí como los celestiales. Y regalad perlas y gemas a los brahmanes y músicos (que se reúnan allí). Y, tras divertiros allí un rato como os plazca, como los resplandecientes celestiales y disfrutar de todos los placeres que deseéis, regresad a Hastinapura».
 
-Vaisampayana continuó: «Yudhishthira, comprendiendo plenamente los motivos de Dhritarashtra y considerando que él mismo era débil y carecía de amigos, respondió al rey: «Así sea». Entonces, dirigiéndose a Bhishma, el hijo de Santanu, al sabio Vidura, a Drona, a Valhika, al Kaurava, a Somadatta, a Kripa, a Aswatthaman, a los Bhurisravas, a los demás consejeros, a los brahmanes y ascetas, a los sacerdotes y ciudadanos, y al ilustre Gandhari, dijo lenta y humildemente: «Con nuestros amigos y seguidores, nos dirigimos a la encantadora y populosa ciudad de Varanavata por orden de Dhritarashtra. Con alegría, danos tus bendiciones para que, al alcanzar la prosperidad, no seamos tocados por el pecado». Cuando el mayor de los hijos de Pandu se dirigió a ellos, los jefes Kaurava alegremente pronunciaron bendiciones sobre ellos, diciendo: “Hijos de Pandu, que todos los elementos os bendigan a lo largo de vuestro camino y que no os suceda el más mínimo mal”.
+Vaisampayana continuó: «Yudhishthira, comprendiendo plenamente los motivos de Dhritarashtra y considerando que él mismo era débil y carecía de amigos, respondió al rey: «Así sea». Entonces, dirigiéndose a Bhishma, el hijo de Santanu, al sabio Vidura, a Drona, a Valhika, al Kaurava, a Somadatta, a Kripa, a Aswatthaman, a los Bhurisravas, a los demás consejeros, a los brahmanes y ascetas, a los sacerdotes y ciudadanos, y al ilustre Gandhari, dijo lenta y humildemente: «Con nuestros amigos y seguidores, nos dirigimos a la encantadora y populosa ciudad de Varanavata por orden de Dhritarashtra. Con alegría, danos tus bendiciones para que, al alcanzar la prosperidad, no seamos tocados por el pecado». Cuando el mayor de los hijos de Pandu se dirigió a ellos, los jefes Kaurava alegremente pronunciaron bendiciones sobre ellos, diciendo: «Hijos de Pandu, que todos los elementos os bendigan a lo largo de vuestro camino y que no os suceda el más mínimo mal».
 
-“Los Pandavas, habiendo realizado ritos propiciatorios para obtener (su parte del) reino y finalizado sus preparativos, partieron hacia Varanavata”.
+«Los Pandavas, habiendo realizado ritos propiciatorios para obtener (su parte del) reino y finalizado sus preparativos, partieron hacia Varanavata».
 
 
 ## SECCIÓN CXLVI
@@ -88,10 +88,10 @@ Tras estas palabras, el hijo de Pandu, Yudhishthira el justo, respondió a Vidur
 
 Yudhishthira respondió: «El virtuoso Vidura me dijo que supiéramos que la mansión (para nuestro alojamiento en Varanavata) fue construida con materiales inflamables. Me dijo: «El camino de escape tampoco te será desconocido», y además: «Quienes puedan controlar sus sentidos podrán alcanzar la soberanía del mundo entero». La respuesta que le di a Vidura fue: «Te he comprendido».
 
-Vaisampayana continuó: “Los Pandavas partieron el octavo día del mes de Phalguna, cuando la estrella Rohini estaba en ascenso, y al llegar a Varanavata contemplaron la ciudad y a sus habitantes”.
+Vaisampayana continuó: «Los Pandavas partieron el octavo día del mes de Phalguna, cuando la estrella Rohini estaba en ascenso, y al llegar a Varanavata contemplaron la ciudad y a sus habitantes».
 
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 ## SECCIÓN CXLVIII
 
@@ -100,7 +100,7 @@ Vaisampayana dijo: «Entonces, todos los ciudadanos (de Varanavata), al enterars
 
 Después de que los Pandavas hubieran vivido así durante diez noches, Purochana les habló de la mansión (que había construido) llamada 'El Hogar Bendito', pero en realidad la casa maldita. Entonces, aquellos tigres entre los hombres, ataviados con ropas costosas, entraron en esa mansión a instancias de Purochana como _Guhyakas_ entrando en el palacio (de Siva) en el monte _Kailasa_. El más destacado de todos los hombres virtuosos, Yudhishthira, inspeccionando la casa, le dijo a Bhima que en realidad estaba construida con materiales inflamables. Al percibir el aroma de grasa mezclada con mantequilla clarificada y preparaciones de laca, le dijo a Bhima: "¡Oh, castigador de enemigos, esta casa está verdaderamente construida con materiales inflamables! ¡De hecho, es evidente que así es!". Es evidente que el enemigo, con la ayuda de artistas de confianza y expertos en la construcción de casas, ha construido esta mansión con gran maestría, tras conseguir cáñamo, resina, brezo, paja y bambú, todo ello empapado en mantequilla clarificada. Este malvado Purochana, siguiendo las instrucciones de Duryodhana, se encuentra aquí con el objetivo de quemarme vivo cuando me vea confiado. Pero, oh hijo de Pritha, Vidura, de gran inteligencia, conocía este peligro y, por lo tanto, me lo advirtió de antemano. Sabiéndolo todo, nuestro tío más joven, siempre deseando nuestro bien con cariño, nos ha dicho que esta casa, tan peligrosa, ha sido construida por los miserables bajo el mando de Duryodhana, actuando en secreto.
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Al oír esto, Bhima respondió: «Si, señor, sabe que esta casa es tan inflamable, sería bueno que regresáramos a donde nos habíamos alojado». Yudhishthira respondió: «Me parece que preferimos seguir viviendo aquí, aparentando despreocupación, pero siempre con cautela y con los sentidos bien despiertos, buscando alguna forma segura de escapar. Si Purochana descubre por nuestros rostros que hemos adivinado nuestros planes, actuando con prisa, podría quemarnos repentinamente. De hecho, a Purochana le importan poco la difamación o el pecado. Ese miserable se queda aquí siguiendo las instrucciones de Duryodhana. Si morimos quemados, ¿se enojará nuestro abuelo Bhishma? ¿Por qué, mostrando su ira, provocará la ira de los Kauravas?» O quizás, nuestro abuelo Bhishma y el otro toro de la raza de Kuru, considerando virtuosa la indignación ante semejante acto pecaminoso, se enfurezcan. Si, sin embargo, por miedo a ser quemados, huimos de aquí, Duryodhana, ambicioso de soberanía, sin duda nos matará por medio de espías. Mientras no tengamos rango ni poder, Duryodhana posee ambos; mientras no tengamos amigos ni aliados, Duryodhana posee ambos; mientras carezcamos de riquezas, Duryodhana tiene a su disposición un tesoro repleto. ¿No nos destruirá, por lo tanto, adoptando los medios adecuados? Así pues, engañando a este miserable (Purochana) y a aquel otro miserable Duryodhana, pasemos nuestros días, disfrazándonos a veces. Llevemos también una vida de cazadores, vagando por la tierra. Entonces, si tenemos que escapar de nuestros enemigos, conoceremos todos los caminos. También, hoy mismo, haremos que se cave un pasaje subterráneo en nuestra habitación con gran secreto. Si actuamos así, ocultándolo todo, el fuego jamás podrá consumirnos. Viviremos aquí, haciendo todo lo posible por nuestra seguridad, pero con tal privacidad que ni Purochana ni ningún ciudadano de Varanavata sepa lo que buscamos.
 
@@ -130,7 +130,7 @@ Entonces, al ver a aquellos hombres destacados con su madre pensativa y triste, 
 
 Diciendo estas palabras a aquellos heroicos príncipes, el enviado de Vidura llevó a aquellos toros entre los hombres al otro lado del Ganges en su bote. Y tras cruzar el agua y verlos a todos a salvo en la orilla opuesta, pronunció la palabra 'Jaya' (victoria) por su éxito y luego los dejó y regresó al lugar de donde había venido.
 
-“Los ilustres Pandavas también enviaron a través de esa persona un mensaje a Vidura, y comenzaron, después de haber cruzado el Ganges, a avanzar con prisa y en gran secreto”.
+«Los ilustres Pandavas también enviaron a través de esa persona un mensaje a Vidura, y comenzaron, después de haber cruzado el Ganges, a avanzar con prisa y en gran secreto».
 
 
 ## SECCIÓN CLII
@@ -138,7 +138,7 @@ Diciendo estas palabras a aquellos heroicos príncipes, el enviado de Vidura lle
 
 Vaisampayana dijo: «Entonces, al caer la noche, una gran multitud del pueblo acudió apresuradamente a ver a los hijos de Pandu. Tras extinguir el fuego, vieron que la casa que acababa de incendiarse había sido construida con materiales de laca y que Purochana, consejero de Duryodhana, había muerto quemado. Y la gente comenzó a lamentarse en voz alta diciendo: «En efecto, esto fue urdido por el pecador Duryodhana para la destrucción de los Pandavas. No cabe duda de que Duryodhana, con el conocimiento de Dhritarashtra, quemó vivos a los herederos de Pandu; de lo contrario, el príncipe habría sido impedido por su padre. No cabe duda de que ni siquiera Bhishma, el hijo de Santanu, ni Drona, Vidura, Kripa y otros Kauravas, ninguno de ellos, ha seguido los dictados del deber». Enviemos ahora una carta a Dhritarashtra para decirle: "¡Tu gran deseo se ha cumplido! ¡Has quemado a los Pandavas!"
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Entonces comenzaron a extinguir los miembros para obtener algún rastro de los Pandavas, y vieron a la inocente mujer Nishada y a sus cinco hijos quemados vivos. Entonces, el minero enviado por Vidura, mientras retiraba las cenizas, cubrió el hoyo que había cavado con ellas de tal manera que pasó desapercibido para todos los que habían ido allí.
 
@@ -148,10 +148,10 @@ Dicho esto, Dhritarashtra, hijo de Ambika, rodeado de sus parientes, ofreció ob
 
 Mientras tanto, los Pandavas, dotados de gran fuerza, junto con su madre, formando una compañía de seis, partieron de la ciudad de Varanavata y llegaron a las orillas del Ganges. Alcanzaron rápidamente la orilla opuesta gracias a la fuerza de los brazos de los barqueros, la rapidez de la corriente y un viento favorable. Abandonando la barca, se dirigieron hacia el sur, orientándose en la oscuridad a la luz de las estrellas. Tras mucho sufrimiento, llegaron finalmente, ¡oh rey!, a un denso bosque. Estaban cansados ​​y sedientos; el sueño les cerraba los ojos a cada instante. Entonces Yudhishthira, dirigiéndose a Bhima, dotado de gran energía, dijo: «¿Qué puede ser más doloroso que esto? Nos encontramos en la espesura del bosque. No sabemos qué lado es cuál, ni podemos avanzar mucho más. Desconocemos si ese miserable Purochana ha muerto quemado o no. ¿Cómo escaparemos de estos peligros sin que otros los vean? ¡Oh Bharata!, encárgate de nosotros, procede como antes.» Sólo tú entre nosotros eres fuerte y rápido como el viento.
 
-“Tras estas palabras de Yudhishthira el justo, el poderoso Bhimasena, tomando en su cuerpo a Kunti y a sus hermanos, comenzó a avanzar con gran celeridad.”
+«Tras estas palabras de Yudhishthira el justo, el poderoso Bhimasena, tomando en su cuerpo a Kunti y a sus hermanos, comenzó a avanzar con gran celeridad.»
 
 
-<span id="p315">[<sup><small>pág. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 ## SECCIÓN CLIII
 

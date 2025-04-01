@@ -56,7 +56,7 @@ Muchos hombres en este mundo que han estudiado astrología, el arte de interpret
 
 Los kriyâvâdins, <i>srama<i>n</i>as</i> y brâhma<i>n</i>as, que comprenden el mundo (según sus luces), dicen lo siguiente: la miseria es producida por las propias obras, no por las de otros (es decir, el destino, el creador, etc.) [^940]. Pero el conocimiento y la conducta correctos conducen a la liberación. (11)
 
-<span id="p318">[<sup><small>pág. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Los (Tîrthakaras), siendo (por así decirlo) los ojos del mundo y sus guías, enseñan el camino que es saludable para los hombres; ellos han declarado que el mundo es eterno puesto que las criaturas viven (eternamente) en él, ¡oh hombres! (12)
 
@@ -140,4 +140,4 @@ Así lo digo.
 
 [^951]: 319:1 Âsrava y sa<i>m</i>vara.
 
-[^952]: 319:2 Es evidente que los Gainas se consideraban Kriyâvâdins. Pasé por alto este pasaje al escribir la nota sobre la [p. 83](Uttaradhyayana_18#p83).
+[^952]: 319:2 Es evidente que los Gainas se consideraban Kriyâvâdins. Pasé por alto este pasaje al escribir la nota sobre la [p. 83](../Uttaradhyayana_18#p83).

@@ -29,7 +29,9 @@ dateCreated: 2024-11-18T23:1:26Z
   </table>
 </figure>
 
-<span id="p60">[<sup><small>p. 60 p. 61</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
+
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Página [1](./Text#p1). Laila, Majnún.—todos tipos bien conocidos de amantes orientales. Shírín y sus pretendientes figuran en la Sec. XX.
 

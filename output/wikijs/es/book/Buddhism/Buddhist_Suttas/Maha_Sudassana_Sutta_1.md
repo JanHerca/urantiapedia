@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## EL GRAN REY DE LA GLORIA. MAHÂ-SUDASSANA-SUTTA. CAPÍTULO I.
 
@@ -44,13 +44,13 @@ dateCreated: 2025-2-5T22:38:45Z
 
 2 «Que el Bendito no muera en este pequeño pueblo de cañas y barro, en este pueblo en medio de la selva, en este municipio secundario. Pues, Señor, hay otras grandes ciudades, como Kampâ, Râ<i>g</i>agaha, Sâvatthi, Sâketa, Kosambi y Benâres. Que el Bendito muera en una de ellas. Allí hay muchos nobles ricos, brahmanes y jefes de familia, creyentes en el Tathagata, que rendirán el debido honor a los restos del Tathagata».
 
-3\. ¡No digas eso, Ânanda! No digas eso, Ânanda, <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> que esto no es más que un pequeño pueblo de cañas y adobe, un pueblo en medio de la selva, un municipio secundario. Hace mucho tiempo, Ânanda, hubo un rey llamado Mahâ-Sudassana, rey de reyes, un hombre justo que gobernó con rectitud, un Kshatriya ungido[^3], Señor de los cuatro puntos cardinales de la tierra, conquistador, protector de su pueblo, poseedor de los siete tesoros reales. Esta Kusinârâ, Ânanda, era la ciudad real del rey Mahâ-Sudassana, bajo el nombre de Kusâvatî[^4], y tenía doce leguas de largo al este y al oeste, y siete leguas de ancho al norte y al sur. Esa ciudad real, Kusâvatî, Ânanda, era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Ânanda, como la ciudad real de los dioses, llamada Â<i>l</i>akamandâ, es poderosa, próspera, estaba llena de gente, repleta de dioses y provista de todo tipo de alimentos. Ânanda, la ciudad real de Kusâvatî era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Tanto de día como de noche, Ânanda, la ciudad real Kusâvatî resonaba <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> con los diez gritos; es decir, el ruido de los elefantes, y el ruido de los caballos, y el ruido de los carros; los sonidos del tambor, del tamboril y del laúd; el sonido del canto, y los sonidos del címbalo y del gong; y por último, con el grito: “¡Comed, bebed y sed felices[^5]!”
+3\. ¡No digas eso, Ânanda! No digas eso, Ânanda, <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> que esto no es más que un pequeño pueblo de cañas y adobe, un pueblo en medio de la selva, un municipio secundario. Hace mucho tiempo, Ânanda, hubo un rey llamado Mahâ-Sudassana, rey de reyes, un hombre justo que gobernó con rectitud, un Kshatriya ungido[^3], Señor de los cuatro puntos cardinales de la tierra, conquistador, protector de su pueblo, poseedor de los siete tesoros reales. Esta Kusinârâ, Ânanda, era la ciudad real del rey Mahâ-Sudassana, bajo el nombre de Kusâvatî[^4], y tenía doce leguas de largo al este y al oeste, y siete leguas de ancho al norte y al sur. Esa ciudad real, Kusâvatî, Ânanda, era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Ânanda, como la ciudad real de los dioses, llamada Â<i>l</i>akamandâ, es poderosa, próspera, estaba llena de gente, repleta de dioses y provista de todo tipo de alimentos. Ânanda, la ciudad real de Kusâvatî era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Tanto de día como de noche, Ânanda, la ciudad real Kusâvatî resonaba <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> con los diez gritos; es decir, el ruido de los elefantes, y el ruido de los caballos, y el ruido de los carros; los sonidos del tambor, del tamboril y del laúd; el sonido del canto, y los sonidos del címbalo y del gong; y por último, con el grito: «¡Comed, bebed y sed felices[^5]!»
 
 ---
 
 4\. 'La ciudad real de Kusâvatî, Ânanda, estaba rodeada por siete murallas. De estas, una era de oro, otra de plata, otra de berilo, otra de cristal, otra de ágata, otra de coral y otra de todo tipo de gemas[^6]!'
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 5\. 'La ciudad real de Kusavati, Ananda, tenía cuatro puertas. Una puerta era de oro, otra de plata, otra de jade y otra de cristal. En cada puerta se alzaban siete pilares, de una altura equivalente a tres o cuatro veces la de un hombre. Un pilar era de oro, otro de plata, otro de berilo, otro de cristal, otro de ágata, otro de coral y otro de toda clase de gemas.
 
@@ -74,11 +74,11 @@ dateCreated: 2025-2-5T22:38:45Z
 
 12\. 'Cuando lo vio, el Gran Rey de la Gloria pensó:
 
-“Este dicho he oído: “Cuando un rey de la raza guerrera, un rey ungido, se ha purificado en el día de reposo, en el día de luna llena, y ha subido al piso superior de su palacio para celebrar el día sagrado; si se le aparece el Tesoro celestial de la Rueda, con su cubo, su llanta y sus mil radios completos, ese rey se convierte en un rey de reyes invencible”. Que yo, entonces, pueda convertirme en un rey de reyes invencible[11].”
+«Este dicho he oído: “Cuando un rey de la raza guerrera, un rey ungido, se ha purificado en el día de reposo, en el día de luna llena, y ha subido al piso superior de su palacio para celebrar el día sagrado; si se le aparece el Tesoro celestial de la Rueda, con su cubo, su llanta y sus mil radios completos, ese rey se convierte en un rey de reyes invencible». Que yo, entonces, pueda convertirme en un rey de reyes invencible[11].”
 
 13\. 'Entonces, Ânanda, el Gran Rey de la Gloria, se levantó de su asiento y, descubriendo reverentemente su túnica por un hombro, sostuvo en su mano izquierda una jarra y con su mano derecha roció agua sobre la Rueda, mientras decía:
 
-“¡Avanza, oh mi Señor, la Rueda! ¡Oh mi Señor, avanza y vence!”
+«¡Avanza, oh mi Señor, la Rueda! ¡Oh mi Señor, avanza y vence!»
 
 14\. 'Entonces la maravillosa Rueda, Ânanda, siguió rodando hacia la región del Este, y tras ella iba el Gran Rey de la Gloria[^12], y con él su <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> ejército, caballos, carros, elefantes y hombres. Y dondequiera que la Rueda se detuviera, Ânanda, allí moraba el Gran Rey de la Gloria, y con él su ejército, caballos, carros, y
 
@@ -86,7 +86,7 @@ elefantes y hombres.
 
 15\. 'Entonces, Ânanda, todos los reyes rivales de la región del Este vinieron ante el Gran Rey de la Gloria y dijeron:
 
-“¡Ven, oh poderoso rey! ¡Bienvenido, oh poderoso rey! ¡Todo es tuyo, oh poderoso rey! ¡Sé tú, oh poderoso rey, un maestro para nosotros!”
+«¡Ven, oh poderoso rey! ¡Bienvenido, oh poderoso rey! ¡Todo es tuyo, oh poderoso rey! ¡Sé tú, oh poderoso rey, un maestro para nosotros!»
 
 16\. 'Así habló el Gran Rey de la Gloria:
 
@@ -100,7 +100,7 @@ elefantes y hombres.
 
 "No beberéis ninguna bebida enloquecedora.
 
-“Comeréis como habéis comido[^13].”
+«Comeréis como habéis comido[^13].»
 
 17\. 'Entonces, Ânanda, todos los reyes rivales de la región del Este quedaron sujetos al Gran Rey de la Gloria.
 
@@ -112,9 +112,9 @@ elefantes y hombres.
 
 ---
 
-21\. 'Ahora además, Ânanda, se le apareció al Gran Rey de la Gloria el Tesoro del Elefante[^14], todo blanco, siete veces firme[^15], maravilloso en poder, volando por el cielo—el Rey Elefante, cuyo nombre era “Los Cambios de la Luna[^16]”.
+21\. 'Ahora además, Ânanda, se le apareció al Gran Rey de la Gloria el Tesoro del Elefante[^14], todo blanco, siete veces firme[^15], maravilloso en poder, volando por el cielo—el Rey Elefante, cuyo nombre era «Los Cambios de la Luna[^16]».
 
-22\. 'Cuando lo vio, el Gran Rey de la Gloria se sintió complacido al pensar: <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> '“¡Sería auspicioso montar ese Elefante, si tan solo se sometiera a ser controlado!”
+22\. 'Cuando lo vio, el Gran Rey de la Gloria se sintió complacido al pensar: <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> '«¡Sería auspicioso montar ese Elefante, si tan solo se sometiera a ser controlado!»
 
 23\. 'Entonces, Ânanda, el maravilloso Elefante—como un fino elefante de sangre noble bien entrenado desde hacía mucho tiempo—se sometió al control.
 
@@ -122,11 +122,11 @@ elefantes y hombres.
 
 25\. 'Así, Ânanda, era el maravilloso Elefante que se le apareció al Gran Rey de la Gloria.
 
-26\. 'Ahora bien, Ânanda, se le apareció al Gran Rey de la Gloria el Caballo Tesoro[^18], todo blanco con una cabeza negra y una melena oscura, maravilloso en poder, volando por el cielo: el Rey Corcel, cuyo nombre era “Nube de Trueno[^19]”.
+26\. 'Ahora bien, Ânanda, se le apareció al Gran Rey de la Gloria el Caballo Tesoro[^18], todo blanco con una cabeza negra y una melena oscura, maravilloso en poder, volando por el cielo: el Rey Corcel, cuyo nombre era «Nube de Trueno[^19]».
 
 27\. 'Cuando lo vio, el Gran Rey de la Gloria se sintió complacido en su corazón al pensar:
 
-“¡Sería auspicioso montar ese Caballo si tan solo se sometiera a ser controlado!”
+«¡Sería auspicioso montar ese Caballo si tan solo se sometiera a ser controlado!»
 
 28\. 'Entonces, Ânanda, el maravilloso Caballo—como <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> un fino caballo de la mejor sangre, bien entrenado desde hacía mucho tiempo—se sometió al control.
 
@@ -142,7 +142,7 @@ elefantes y hombres.
 
 33\. 'Cuando, como antes, Ânanda, el Gran Rey de la Gloria, para probar esa maravillosa Gema, puso en orden a todo su cuádruple ejército y alzó en alto la Gema sobre la cima de su estandarte, pudo marchar en la penumbra y la oscuridad de la noche.
 
-34\. 'Y entonces también, Ânanda, todos los habitantes de las aldeas de los alrededores se pusieron a trabajar diariamente, pensando: “Ha aparecido la luz del día”.
+34\. 'Y entonces también, Ânanda, todos los habitantes de las aldeas de los alrededores se pusieron a trabajar diariamente, pensando: «Ha aparecido la luz del día».
 
 35\. 'Tal era, Ânanda, la maravillosa Gema que se le apareció al Gran Rey de la Gloria.
 
@@ -170,13 +170,13 @@ elefantes y hombres.
 
 «¡Necesito, oh Tesorero, oro amarillo!»
 
-““Deja entonces que el barco, oh Gran Rey, se dirija hacia cualquiera de las orillas.”
+«“Deja entonces que el barco, oh Gran Rey, se dirija hacia cualquiera de las orillas.»
 
 «Es aquí, oh Tesorero, donde necesito oro amarillo».
 
 44\. 'Entonces el maravilloso Tesorero extendió ambas manos hasta el agua y sacó una jarra <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> llena de oro amarillo, y le dijo al Gran Rey de la Gloria:
 
-“¿Es suficiente, oh Gran Rey? ¿He hecho suficiente, oh Gran Rey?”
+«¿Es suficiente, oh Gran Rey? ¿He hecho suficiente, oh Gran Rey?»
 
 'Y el Gran Rey de la Gloria respondió:
 
@@ -202,7 +202,7 @@ elefantes y hombres.
 
 '¿Cuáles son los Cuatro Regalos Maravillosos?'
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 50\. 'En primer lugar, Ânanda, el Gran Rey de la Gloria, era de figura graciosa, de apariencia hermosa, de modales agradables y de complexión muy hermosa, más allá de lo que son otros hombres.
 
@@ -214,7 +214,7 @@ elefantes y hombres.
 
 52\. 'Y además de eso, Ânanda, el Gran Rey de la Gloria, estaba libre de enfermedades y de sufrimientos corporales; y su fuego interno no era ni demasiado caliente ni demasiado frío, sino tal como para promover una buena digestión, más allá de la de otros hombres[^26].
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 'El Gran Rey de la Gloria, Ânanda, fue dotado con este Tercer Don Maravilloso.
 
@@ -222,11 +222,11 @@ elefantes y hombres.
 
 54\. 'Una vez, Ânanda, el Gran Rey de la Gloria, marchó con su cuádruple ejército hacia el lugar de recreo. Allí, Ânanda, los brahmanes y los laicos se acercaron al Gran Rey de la Gloria y dijeron:
 
-“¡Oh Rey, pasa despacio para que podamos contemplarte durante más tiempo!”
+«¡Oh Rey, pasa despacio para que podamos contemplarte durante más tiempo!»
 
 'Pero el Gran Rey de la Gloria, Ânanda, se dirigió a su auriga y dijo:
 
-“¡Conduce el carro lentamente, auriga, para que pueda contemplar a mi pueblo (brahmanes y laicos) durante más tiempo!”
+«¡Conduce el carro lentamente, auriga, para que pueda contemplar a mi pueblo (brahmanes y laicos) durante más tiempo!»
 
 55\. 'Éste fue el Cuarto Don Maravilloso, Ânanda, con el que fue dotado el Gran Rey de la Gloria.
 
@@ -246,17 +246,17 @@ elefantes y hombres.
 
 60\. «Y alrededor de esos estanques de loto corría, Ânanda, una barandilla doble. Una era de oro y la otra de plata. La barandilla de oro tenía sus postes de oro, sus travesaños y sus capiteles de plata. La barandilla de plata tenía sus postes de plata, sus travesaños y sus capiteles de oro».[^28]
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 61\. 'Ahora, al Gran Rey de la Gloria, Ânanda, le ocurrió el pensamiento:
 
-“Supongamos ahora que yo tuviera flores de todas las estaciones plantadas en esos estanques de lotos para el uso de toda la gente, a saber, nenúfares azules y lotos azules, lotos blancos y nenúfares blancos”.
+«Supongamos ahora que yo tuviera flores de todas las estaciones plantadas en esos estanques de lotos para el uso de toda la gente, a saber, nenúfares azules y lotos azules, lotos blancos y nenúfares blancos».
 
 'Entonces, Ânanda, el Gran Rey de la Gloria, hizo plantar flores de todas las estaciones en esos estanques de lotos para el uso de toda la gente, a saber, nenúfares azules y lotos azules, lotos blancos y nenúfares blancos.
 
 62\. 'Ahora, al Gran Rey de la Gloria, Ânanda, le ocurrió el pensamiento:
 
-“Supongamos, ahora, que yo colocara bañistas en las orillas de esos estanques de loto, para bañar a las personas que acuden allí de vez en cuando”.
+«Supongamos, ahora, que yo colocara bañistas en las orillas de esos estanques de loto, para bañar a las personas que acuden allí de vez en cuando».
 
 'Entonces, Ânanda, el Gran Rey de la Gloria, colocó bañistas en las orillas de aquellos estanques de loto, para bañar a las personas que acudían allí de vez en cuando.
 
@@ -288,25 +288,25 @@ elefantes y hombres.
 
 67\. 'Ahora bien, Ânanda, cuando Sakka, el rey de los dioses, percibió en su mente los pensamientos que <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> albergaba el corazón del Gran Rey de la Gloria, se dirigió a Vissakamma, el dios[^29], y dijo:
 
-“Ven ahora, Vissakamma, créame una mansión para el Gran Rey de la Gloria, un palacio que se llamará 'Rectitud[^30]'”.
+«Ven ahora, Vissakamma, créame una mansión para el Gran Rey de la Gloria, un palacio que se llamará 'Rectitud[^30]'».
 
-68\. “¡Así sea, Señor!”, dijo Vissakamma, en señal de asentimiento, Ânanda, a Sakka, el rey de los dioses. Y tan instantáneamente como un hombre fuerte podría extender su brazo doblado, o retraerlo una vez extendido, así de rápido desapareció del cielo de los Treinta y Tres Grandes y apareció ante el Gran Rey de la Gloria.
+68\. «¡Así sea, Señor!», dijo Vissakamma, en señal de asentimiento, Ânanda, a Sakka, el rey de los dioses. Y tan instantáneamente como un hombre fuerte podría extender su brazo doblado, o retraerlo una vez extendido, así de rápido desapareció del cielo de los Treinta y Tres Grandes y apareció ante el Gran Rey de la Gloria.
 
 69\. 'Entonces, Ânanda, el dios Vissakamma le dijo al Gran Rey de la Gloria:
 
-“Yo crearía para ti, oh Rey, una mansión, un palacio que se llamará '¡Justicia!'”
+«Yo crearía para ti, oh Rey, una mansión, un palacio que se llamará '¡Justicia!'»
 
 'Entonces, Ânanda, el Gran Rey de la Gloria, manifestó con silencio su consentimiento.
 
 ---
 
-70\. 'Entonces Vissakamma, el dios Ânanda, creó para el Gran Rey de la Gloria una mansión, un palacio que se llamaría “Rectitud”.
+70\. 'Entonces Vissakamma, el dios Ânanda, creó para el Gran Rey de la Gloria una mansión, un palacio que se llamaría «Rectitud».
 
 71\. 'El Palacio de la Justicia, Ânanda, tenía una legua de largo al este y al oeste, y media legua de ancho al norte y al sur.
 
 72\. 'La planta baja, Ânanda, del Palacio de la Rectitud[^31], con una altura tres veces mayor que la que un hombre puede alcanzar, estaba construida con ladrillos de cuatro tipos. Un tipo de ladrillo era de oro, otro de plata, otro de berilo y otro de cristal.
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 73\. 'En el Palacio de la Rectitud, Ânanda, había ochenta y cuatro mil pilares de cuatro tipos. Un tipo de pilar era de oro, otro de plata, otro de berilo y otro de cristal.
 
@@ -322,7 +322,7 @@ elefantes y hombres.
 
 'A la puerta de la cámara de plata había una palmera de oro; y su tronco era de oro, y sus hojas y frutos, de plata.
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 'A la puerta de la cámara de berilo había una palmera de cristal; su tronco era de cristal, y sus hojas y frutos de berilo.
 
@@ -332,7 +332,7 @@ elefantes y hombres.
 
 77\. 'Entonces, Ânanda, al Gran Rey de la Gloria se le ocurrió este pensamiento:
 
-“Supongamos, ahora, que yo hiciera un bosque de palmeras, todas de oro, a la entrada de la cámara del Gran Complejo[^32], bajo cuya sombra pudiera pasar el calor del día”.
+«Supongamos, ahora, que yo hiciera un bosque de palmeras, todas de oro, a la entrada de la cámara del Gran Complejo[^32], bajo cuya sombra pudiera pasar el calor del día».
 
 'Entonces, Ânanda, el Gran Rey de la Gloria, hizo un bosque de palmeras, todas de oro, a la entrada de la cámara del Gran Complejo, bajo cuya sombra pudiera pasar el calor del día.
 
@@ -356,11 +356,11 @@ elefantes y hombres.
 
 83\. 'Entonces, Ânanda, al Gran Rey de la Gloria se le ocurrió este pensamiento:
 
-“Supongamos ahora que, frente al Palacio de la Rectitud, yo hiciera un lago de loto que llevara el nombre de 'Rectitud'”.
+«Supongamos ahora que, frente al Palacio de la Rectitud, yo hiciera un lago de loto que llevara el nombre de 'Rectitud'».
 
-'Entonces, Ânanda, el Gran Rey de la Gloria, hizo un lago de loto que llevaría el nombre de “Rectitud”.
+'Entonces, Ânanda, el Gran Rey de la Gloria, hizo un lago de loto que llevaría el nombre de «Rectitud».
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 84\. 'El Lago de la Justicia, Ânanda, tenía una legua de largo al este y al oeste, y media legua de ancho al norte y al sur.
 

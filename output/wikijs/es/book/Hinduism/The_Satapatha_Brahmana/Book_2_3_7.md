@@ -68,7 +68,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_7_1_1616"><sup><small>3:7:1:1616.</small></sup></span> La esquina que daba al fuego la coloca frente a él; pues la esquina que daba al fuego es el sacrificador, y el sacrificio es fuego. Por lo tanto, si apartara la esquina del fuego, el sacrificador se apartaría del sacrificio; por lo tanto, coloca la esquina que daba al fuego frente al fuego. Luego, amontona tierra a su alrededor, la compacta firmemente y vierte agua sobre ella [^445].
 
-<span id="v3_7_1_1717"><sup><small>3:7:1:1717.</small></sup></span> Acto seguido, le hace decir (al sacrificador) mientras lo toca (Vâ<i>g</i>. S. VI, 4; Rig-veda I, 22, 19): «¡Vean las obras de Vish<i>n</i>u, mediante las cuales contempló las ordenanzas sagradas, amigo aliado de Indra <span id="p172">[<sup><small>p. 172</small></sup>]!». Pues quien ha colocado la hoguera del sacrificio ha lanzado el rayo: «¡Vean la conquista de Vish<i>n</i>u!». Quiere decir: «Vean las obras de Vishnu, mediante las cuales contempló las ordenanzas sagradas, aliado de Indra». Indra, en verdad, es la deidad del sacrificio, y la estaca del sacrificio pertenece a Vishnu; por lo tanto, la relaciona con Indra; por lo tanto, dice: «Amigo aliado de Indra».
+<span id="v3_7_1_1717"><sup><small>3:7:1:1717.</small></sup></span> Acto seguido, le hace decir (al sacrificador) mientras lo toca (Vâ<i>g</i>. S. VI, 4; Rig-veda I, 22, 19): «¡Vean las obras de Vish<i>n</i>u, mediante las cuales contempló las ordenanzas sagradas, amigo aliado de Indra!». <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Pues quien ha colocado la hoguera del sacrificio ha lanzado el rayo: «¡Vean la conquista de Vish<i>n</i>u!». Quiere decir: «Vean las obras de Vishnu, mediante las cuales contempló las ordenanzas sagradas, aliado de Indra». Indra, en verdad, es la deidad del sacrificio, y la estaca del sacrificio pertenece a Vishnu; por lo tanto, la relaciona con Indra; por lo tanto, dice: «Amigo aliado de Indra».
 
 <span id="v3_7_1_1818"><sup><small>3:7:1:1818.</small></sup></span> Luego mira hacia el anillo superior con (Vâ<i>g</i>. S. VI, 5; Rig-veda I, 22, 20): «El sabio siempre contempla ese escalón más alto de Vish<i>n</i>u, fijo como un ojo en el cielo». Pues quien ha colocado la estaca del sacrificio ha lanzado el rayo: «¡Vean esa conquista de Vish<i>n</i>u!», quiere decir cuando dice: «El sabio siempre contempla ese escalón más alto de Vish<i>n</i>u, fijo como un ojo en el cielo».
 
@@ -155,7 +155,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v3_7_3_1313"><sup><small>3:7:3:1313.</small></sup></span> "¡Alégrense, prósperos!", pues el ganado es próspero; por eso dice: "¡Alégrense, prósperos!". "¡Oh, Señor de la oración, preserva nuestros bienes!". El Señor de la oración, en verdad, es Brahman; y bienes significa ganado: a aquellos que no se sometieron, los dioses los encerraron con Brahman en el otro lado, y no lo traspasaron. Y de la misma manera, ahora los encierra con Brahman en el otro lado, y no lo traspasan; por eso dice: "¡Oh, Señor de la oración, preserva nuestros bienes!". Tras hacer un nudo corredizo, lo arroja sobre (la víctima) [^455]. Ahora, en cuanto a la atadura misma.
 
 
-<span id="p181">[<sup><small>pág. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 <span id="v3_7_4"><sup><small>3:7:4</small></sup></span>
 
@@ -175,7 +175,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_7_4_77"><sup><small>3:7:4:77.</small></sup></span> Entonces le dice (al Hotri): "¡Recita al fuego que se enciende!". Cuando ha hecho la segunda libación de ghee [^459] y ha regresado (a su lugar anterior) sin dejar que las dos cucharas se toquen [^460], unge a la víctima con el ghee.
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 <i>g</i>uhû, Porque la segunda libación es la cabeza del sacrificio, y el sacrificio aquí es de hecho esa víctima: por lo tanto, pone la cabeza sobre el sacrificio y, por lo tanto, unge a la víctima con el <i>g</i>uhû.
 
@@ -217,11 +217,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^440]: 168:1 De la parte del árbol cortada de la estaca de sacrificio, se hace una pieza superior o anillo de cabeza (<i>k</i>ashâla) de unas ocho o nueve pulgadas de alto, de ocho esquinas (como la estaca de sacrificio); más angosto en el medio como un mortero, y ahuecado para poder fijarlo a la estaca.
 
-[^441]: 168:2 Véase [III, 6, 1, 7](Book_2_3_6#v3_6_1_7) seq.
+[^441]: 168:2 Véase [III, 6, 1, 7](../Book_2_3_6#v3_6_1_7) seq.
 
-[^442]: 168:3 Para la construcción, véase [p. 15](Book_2_3_1#p15), nota [3](Book_2_3_1#fn55).
+[^442]: 168:3 Para la construcción, véase [p. 15](../Book_2_3_1#p15), nota [3](../Book_2_3_1#fn55).
 
-[^443]: 169:1 Véase [III, 6, 4, 11](Book_2_3_6#v3_6_4_11).
+[^443]: 169:1 Véase [III, 6, 4, 11](../Book_2_3_6#v3_6_4_11).
 
 [^444]: 169:2 Los Unnetri son los sacerdotes que tienen que extraer el Soma.
 
@@ -229,11 +229,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^446]: 170:2 Pippala se refiere especialmente a la baya o fruto del Ficus Religiosa.
 
-[^447]: 171:1 En esta ocasión se utilizan las mismas fórmulas que en [III, 6, 1, 17](Book_2_3_6#v3_6_1_17)\-[18](Book_2_3_6#v3_6_1_18).
+[^447]: 171:1 En esta ocasión se utilizan las mismas fórmulas que en [III, 6, 1, 17](../Book_2_3_6#v3_6_1_17)\-[18](../Book_2_3_6#v3_6_1_18).
 
 [^448]: 172:1 Según el texto de Kâ<i>n</i>va, debe colocarse alrededor de nîvídaghne, «a la altura de la prenda inferior» (nâbhidaghne, Taitt. S. VI, 3, 4, 5). Según Kâty. VI, 3, 1, el ceñido va precedido de una llamada al Hot<i>ri</i> para que recite al poste que se unge; pero ninguna recensión lo menciona.
 
-[^449]: 173:1 Cuando, en lugar de un solo macho cabrío para Agni, se sacrifican once víctimas, se las ata a una estaca cada una, o a todas a la misma. Véase [III, 9, 1, 4](Book_2_3_9#v3_9_1_4) ss. La astilla a la que se alude es una de las que se obtienen al desbastar la estaca y hacerla octogonal.
+[^449]: 173:1 Cuando, en lugar de un solo macho cabrío para Agni, se sacrifican once víctimas, se las ata a una estaca cada una, o a todas a la misma. Véase [III, 9, 1, 4](../Book_2_3_9#v3_9_1_4) ss. La astilla a la que se alude es una de las que se obtienen al desbastar la estaca y hacerla octogonal.
 
 [^450]: 174:1 Sobre los 'sâdhyas', véase Weber, Ind. Stud. IX, pág. 6, nota 2.
 
@@ -241,7 +241,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^452]: 175:2 Véase Ait. Hno. II, 3.
 
-[^453]: 175:3 La ofrenda de las fichas no tiene lugar hasta el final de las ofrendas posteriores (véase la nota a [III, 8, 5, 6](Book_2_3_8#v3_8_5_6)). Es un tanto extraño que se anticipe en este lugar, tanto en esta recensión como en las de Kâ<i>n</i>va.
+[^453]: 175:3 La ofrenda de las fichas no tiene lugar hasta el final de las ofrendas posteriores (véase la nota a [III, 8, 5, 6](../Book_2_3_8#v3_8_5_6)). Es un tanto extraño que se anticipe en este lugar, tanto en esta recensión como en las de Kâ<i>n</i>va.
 
 [^454]: 176:1 No se me ocurre ninguna explicación satisfactoria de «prakubratâ». Parece derivar de «kubra», al que los diccionarios asignan los significados de «agujero para el fuego sacrificial» e «hilo» (además de «bosque», «pendiente» y «carro»). U<i>n</i>âd. II, 28, lo deriva de la raíz «kub», que significa cubrir, resguardar. ? Para la base segura (o la prolongación) del banquete de Soma de mañana. El texto de Kâ<i>n</i>va, por otro lado, dice: «Algunos, ahora, apuestan todo (a la) upavasatha (día anterior al banquete de Soma) para acelerar (?prakudratâyai) la obra, pensando: «Concluiremos rápidamente el sacrificio».»
 

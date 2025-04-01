@@ -173,7 +173,7 @@ Aunque las numerosas definiciones del sufismo que aparecen en los libros árabes
 
 > «El sufismo es no poseer nada y no ser poseído por nada.»
 
-> «El sufismo no es un sistema compuesto de reglas o ciencias, sino una disposición moral; es decir, si fuera una regla, podría hacerse propia mediante un esfuerzo extenuante, y si fuera una ciencia, podría adquirirse mediante la instrucción; pero, por el contrario, es una disposición, según el dicho: “Formaos en la naturaleza moral de Dios»; y la naturaleza moral de Dios no puede alcanzarse ni por medio de reglas ni por medio de ciencias.”
+> «El sufismo no es un sistema compuesto de reglas o ciencias, sino una disposición moral; es decir, si fuera una regla, podría hacerse propia mediante un esfuerzo extenuante, y si fuera una ciencia, podría adquirirse mediante la instrucción; pero, por el contrario, es una disposición, según el dicho: «Formaos en la naturaleza moral de Dios»; y la naturaleza moral de Dios no puede alcanzarse ni por medio de reglas ni por medio de ciencias.»
 
 > «El sufismo es libertad y generosidad y ausencia de autocontrol.»
 

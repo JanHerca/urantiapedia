@@ -54,9 +54,9 @@ Estudiosos posteriores han malinterpretado a Sun Tzŭ, distorsionando sus palabr
 
 Teniendo en cuenta la exuberancia de la amistad, me inclino a respaldar este juicio favorable y, sin duda, lo situaría por encima de Ch'ên Hao en orden de mérito. <span id="pxl">[<sup><small>p. xl</small></sup>]</span> 9\. # **Wang Hsi**, también de la dinastía Sung, es decididamente original en algunas de sus interpretaciones, pero mucho menos juicioso que Mei Yao-ch'ên, y en general no es un guía muy fiable. Le gusta comparar su propio comentario con el de Ts'ao Kung, pero la comparación no suele ser halagadora para él. Sabemos por Ch'ao Kung-wu que Wang Hsi revisó el antiguo texto de Sun Tzŭ, subsanando lagunas y corrigiendo errores. [^109]
 
-10\. # **Ho Yen-hsi** de la dinastía Sung. El nombre personal de este comentarista lo da # Chêng Ch'iao, como se mencionó anteriormente, en el _T'ung Chih_, escrito a mediados del siglo XII, pero aparece simplemente como # Ho Shih en el _Yü Hai_, y Ma Tuan-lin cita a Ch'ao Kung-wu diciendo que su nombre personal es desconocido. No parece haber razón para dudar de la afirmación de Chêng Ch'iao; de lo contrario, me habría inclinado a aventurar una conjetura e identificarlo con un tal # Ho Ch'ü-fei, autor de un breve tratado sobre la guerra titulado #, que vivió a finales del siglo XI. [^110] El comentario de Ho Shih, en palabras del catálogo _T'ien-i-ko_, # “contiene añadidos útiles” aquí y allá, pero es principalmente notable por los abundantes extractos tomados, en forma adaptada, de las historias dinásticas y otras fuentes.
+10\. # **Ho Yen-hsi** de la dinastía Sung. El nombre personal de este comentarista lo da # Chêng Ch'iao, como se mencionó anteriormente, en el _T'ung Chih_, escrito a mediados del siglo XII, pero aparece simplemente como # Ho Shih en el _Yü Hai_, y Ma Tuan-lin cita a Ch'ao Kung-wu diciendo que su nombre personal es desconocido. No parece haber razón para dudar de la afirmación de Chêng Ch'iao; de lo contrario, me habría inclinado a aventurar una conjetura e identificarlo con un tal # Ho Ch'ü-fei, autor de un breve tratado sobre la guerra titulado #, que vivió a finales del siglo XI. [^110] El comentario de Ho Shih, en palabras del catálogo _T'ien-i-ko_, # «contiene añadidos útiles» aquí y allá, pero es principalmente notable por los abundantes extractos tomados, en forma adaptada, de las historias dinásticas y otras fuentes.
 
-11\. # **Chang Yü**. La lista cierra con un comentarista quizás sin gran originalidad, pero dotado de admirables dotes de exposición lúcida. Su comentario se basa en el de Ts'ao Kung, cuyas concisas frases logra ampliar y desarrollar con maestría. Sin Chang Yü, se puede afirmar que gran parte del comentario de Ts'ao Kung habría permanecido envuelto en su prístina oscuridad y, por lo tanto, carente de valor. Su obra no se menciona en la historia Sung, el _T'ung K'ao_ ni en <span id="pxli">[<sup><small>p. xli</small></sup>]</span> el _Yü Hai_, pero encuentra un nicho en el _T'ung Chih_, que también lo nombra como autor de las # “Vidas de Generales Famosos”. [^111]
+11\. # **Chang Yü**. La lista cierra con un comentarista quizás sin gran originalidad, pero dotado de admirables dotes de exposición lúcida. Su comentario se basa en el de Ts'ao Kung, cuyas concisas frases logra ampliar y desarrollar con maestría. Sin Chang Yü, se puede afirmar que gran parte del comentario de Ts'ao Kung habría permanecido envuelto en su prístina oscuridad y, por lo tanto, carente de valor. Su obra no se menciona en la historia Sung, el _T'ung K'ao_ ni en <span id="pxli">[<sup><small>p. xli</small></sup>]</span> el _Yü Hai_, pero encuentra un nicho en el _T'ung Chih_, que también lo nombra como autor de las # «Vidas de Generales Famosos». [^111]
 
 Resulta bastante notable que los cuatro últimos mencionados hayan florecido en tan poco tiempo. Ch'ao Kung-wu lo explica diciendo: «Durante los primeros años de la dinastía Sung, el Imperio disfrutó de un largo período de paz, y la gente dejó de practicar el arte de la guerra. Pero cuando estalló la rebelión de Chao Yuan-hao en 1038-1042 y los generales fronterizos fueron derrotados una y otra vez, la Corte realizó una intensa investigación para encontrar hombres hábiles en la guerra, y los temas militares se pusieron de moda entre todos los altos funcionarios. De ahí que los comentaristas de Sun Tzŭ en nuestra dinastía pertenezcan principalmente a ese período». [^112]
 
@@ -98,7 +98,7 @@ Hay dos obras, descritas en el <span id="pxlii">[<sup><small>p. xlii</small></su
 
 [^94]: xxxv:3 _Loc. cit._: #.
 
-[^95]: xxxvi:1 Cf. # Catálogo de la biblioteca de la familia # Fan en Ningpo, #, fol. 12 _v_°: # “Su comentario es frecuentemente oscuro pero proporciona una pista, aunque no desarrolla completamente el significado”.
+[^95]: xxxvi:1 Cf. # Catálogo de la biblioteca de la familia # Fan en Ningpo, #, fol. 12 _v_°: # «Su comentario es frecuentemente oscuro pero proporciona una pista, aunque no desarrolla completamente el significado».
 
 [^96]: xxxvi:2 Véase #, cap. 141 _ad init_.
 
@@ -106,7 +106,7 @@ Hay dos obras, descritas en el <span id="pxlii">[<sup><small>p. xlii</small></su
 
 [^98]: xxxvi:4 Cap. 207, f. 5 _r_°.
 
-[^99]: xxxvi:5 Es interesante notar que M. Pelliot ha descubierto recientemente los capítulos 1, 4 y 5 de esta obra perdida en las “Grutas de los Mil Budas”. Véase BEFE O, t. VIII, núms. 3-4, pág. 525.
+[^99]: xxxvi:5 Es interesante notar que M. Pelliot ha descubierto recientemente los capítulos 1, 4 y 5 de esta obra perdida en las «Grutas de los Mil Budas». Véase BEFE O, t. VIII, núms. 3-4, pág. 525.
 
 [^100]: xxxvi:6 _Loc. cit._
 
@@ -130,7 +130,7 @@ Hay dos obras, descritas en el <span id="pxlii">[<sup><small>p. xlii</small></su
 
 [^110]: xl:2 Véase #, cap. 99, f. 16 _v_°.
 
-[^111]: xli:1 Parece que aún se conserva. Véase las “Notas” de Wylie, pág. 91 (nueva edición).
+[^111]: xli:1 Parece que aún se conserva. Véase las «Notas» de Wylie, pág. 91 (nueva edición).
 
 [^112]: xli:2 _T'ung K'ao_, _loc. cit._: #.
 

@@ -1,6 +1,6 @@
 ---
 title: "Capítulo V. La Vendîdâd"
-description: "El Zend Avesta, Parte I: “Vendîdâd” (SBE 4)"
+description: "El Zend Avesta, Parte I: «Vendîdâd» (SBE 4)"
 published: true
 date: 2025-2-12T13:0:30Z
 tags: Zoroastrianism, book
@@ -203,7 +203,7 @@ Noviembre de 1879.
 
 [^245]: lxxxiii:3 La palabra Vendîdâd es una corrupción de Vîdaêvô-dâtem (dâtem), 'la ley antidemoníaca'. A veces se aplica a toda la ley (Vendîdâd Sâdah).
 
-[^246]: lxxxiii:4 Véase arriba, [p. xxxii](Introducción_3#pxxxii).
+[^246]: lxxxiii:4 Véase arriba, [p. xxxii](../Introducción_3#pxxxii).
 
 [^247]: lxxxiv:1 Como introducción a un código de leyes sobre médicos; véase Farg. VII, 36-44.
 
@@ -231,11 +231,11 @@ Noviembre de 1879.
 
 [^259]: lxxxvi:4 Saddar 78.
 
-[^260]: lxxxvii:1 En la práctica son todavía menos particulares: 'el Sag-dîd puede ser realizado por un perro de pastor, por un perro doméstico, por un perro Vohunazga (ver Farg. XIII, 19, n.), o por un perro joven (un perro de cuatro meses de edad), Comm. ad Farg. VII, 2. Como las aves de rapiña son tan destructoras de demonios como el perro (ver arriba, [p. lxxiii](Introducción_4#plxxiii), n. [4](Introducción_4#fn_216)), son destructoras de Nasu como él, y uno puede apelar a sus servicios, cuando no hay un perro a mano (ver Farg. VII, 3, n. 5).
+[^260]: lxxxvii:1 En la práctica son todavía menos particulares: 'el Sag-dîd puede ser realizado por un perro de pastor, por un perro doméstico, por un perro Vohunazga (ver Farg. XIII, 19, n.), o por un perro joven (un perro de cuatro meses de edad), Comm. ad Farg. VII, 2. Como las aves de rapiña son tan destructoras de demonios como el perro (ver arriba, [p. lxxiii](../Introducción_4#plxxiii), n. [4](../Introducción_4#fn_216)), son destructoras de Nasu como él, y uno puede apelar a sus servicios, cuando no hay un perro a mano (ver Farg. VII, 3, n. 5).
 
 [^261]: lxxxvii:2 Rig-veda X, 14, 10 seq.
 
-[^262]: lxxxviii:1 Gr. Rav. p. 592. Se encuentran alusiones a este mito en Farg. XIII, 9, y XIX, 30. El Comentario ad Farg. XIII, 17 dice: «Hay perros que vigilan las regiones terrenales; hay otros que vigilan las catorce regiones celestiales». El nacimiento del perro de orejas amarillas se describe en el Ravâet (lc) de la siguiente manera: «Ormazd, deseando proteger el cuerpo del primer hombre, Gayômart, de los ataques de Ahriman, quien intentó matarlo, gritó: “¡Oh, perro de orejas amarillas, levántate!”. Y enseguida el perro ladró y sacudió sus dos orejas; y el impuro Satanás y los demonios, al ver el aspecto aterrador del perro de orejas amarillas y oír sus ladridos, se asustaron terriblemente y huyeron al infierno».
+[^262]: lxxxviii:1 Gr. Rav. p. 592. Se encuentran alusiones a este mito en Farg. XIII, 9, y XIX, 30. El Comentario ad Farg. XIII, 17 dice: «Hay perros que vigilan las regiones terrenales; hay otros que vigilan las catorce regiones celestiales». El nacimiento del perro de orejas amarillas se describe en el Ravâet (lc) de la siguiente manera: «Ormazd, deseando proteger el cuerpo del primer hombre, Gayômart, de los ataques de Ahriman, quien intentó matarlo, gritó: «¡Oh, perro de orejas amarillas, levántate!». Y enseguida el perro ladró y sacudió sus dos orejas; y el impuro Satanás y los demonios, al ver el aspecto aterrador del perro de orejas amarillas y oír sus ladridos, se asustaron terriblemente y huyeron al infierno».
 
 [^263]: lxxxviii:2 Farg. VIII, 14-22.
 
@@ -263,13 +263,13 @@ Noviembre de 1879.
 
 [^275]: xc:8 Rey Balash (Josué el Estilita, traducción Martin, § xx). Parece que hubo una confusión entre Balash y Kavât; en cualquier caso, demuestra que bañarse era herejía. A los judíos se les prohibía realizar las abluciones legales (Fürst, Culturgeschichte der Juden, 9).
 
-[^276]: xc:9 Véase arriba, [p. lxxii](Introducción_4#plxxii).
+[^276]: xc:9 Véase arriba, [p. lxxii](../Introducción_4#plxxii).
 
 [^277]: xc:10 Farg. Yo, 13.
 
-[^278]: xci:1 Del reinado de Ciro (cf. arriba, [p. li](Introducción_3#pli)).
+[^278]: xci:1 Del reinado de Ciro (cf. arriba, [p. li](../Introducción_3#pli)).
 
-[^279]: xci:2 Cf. arriba, [p. xlv](Introducción_3#pxlv).
+[^279]: xci:2 Cf. arriba, [p. xlv](../Introducción_3#pxlv).
 
 [^280]: xci:3 Sin embargo, el culto a la tierra no parece haber penetrado tan profundamente en la religión general como el culto al fuego. Las leyes sobre la disposición de los muertos fueron interpretadas por muchos, al parecer, como destinadas solo a asegurar la pureza del agua y del fuego, y pensaron que podrían estar en paz con la religión si hubieran tenido cuidado de enterrar el cadáver, de modo que ninguna parte de él pudiera ser llevada por los animales al fuego o al agua (Farg. III, 41, n, 7).
 
@@ -281,7 +281,7 @@ Noviembre de 1879.
 
 [^284]: xcii:1 Farg. V, 35 seg.
 
-[^285]: xcii:2 Véase arriba, [p. lxxiii](Introducción_4#plxxiii).
+[^285]: xcii:2 Véase arriba, [p. lxxiii](../Introducción_4#plxxiii).
 
 [^286]: xcii:3 Véase arriba, [p. xc](#pxc).
 
@@ -305,7 +305,7 @@ Noviembre de 1879.
 
 [^296]: xciii:5 Farg. VII, 44.
 
-[^297]: xciii:6 Ibídem. [pag. 96](8#p96), n. [1](8#fn_688).
+[^297]: xciii:6 Ibídem. [pag. 96](../8#p96), n. [1](../8#fn_688).
 
 [^298]: xciv:1 Herodes. I, 138.
 
@@ -335,7 +335,7 @@ Noviembre de 1879.
 
 [^311]: xcv:7 Farg VIII, 33-34.
 
-[^312]: xcv:8 Véase [p. 34](4#p34), n. [3](4#fn_476).
+[^312]: xcv:8 Véase [p. 34](../4#p34), n. [3](../4#fn_476).
 
 [^313]: xcv:9 Un istîr (στατήρ) equivale a cuatro dirhems (δραχμή). La tradición moderna estima que el dirhem es un poco más que una rupia.
 
@@ -395,7 +395,7 @@ Noviembre de 1879.
 
 [^341]: c:6 Farg. VIII, 27.
 
-[^342]: c:7 Véase [p. 111](8#p111), n. [1](8#fn_721); Farg. XVIII, 64.
+[^342]: c:7 Véase [p. 111](../8#p111), n. [1](../8#fn_721); Farg. XVIII, 64.
 
 [^343]: ci:1 Nuestras citas se refieren al texto que aparece en la edición de Spiegel, pero corregido después del manuscrito de Londres.
 

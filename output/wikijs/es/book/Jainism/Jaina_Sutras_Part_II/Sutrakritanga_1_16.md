@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 DECIMOSEXTA LECCIÓN, LLAMADA EL CANTO [^972].
 
@@ -42,7 +42,7 @@ Ahora el Venerable dijo: Aquel que domina así sus sentidos, que está bien capa
 
 Es un <i>Srama<i>n</i>a</i> porque no se ve obstaculizado por ningún obstáculo, está libre de deseos, (absteniéndose de) propiedad, asesinato, mentiras y relaciones sexuales; (y de) ira, orgullo, engaño, codicia, amor y odio: renunciando así a toda pasión que lo lleve al pecado, (como) matar seres. (Tal hombre) merece el nombre de <i>Srama<i>n</i>a, quien domina (además) sus sentidos, está bien capacitado (para su tarea) y abandona su cuerpo. (3)
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Es un Bhikshu porque no es engreído, sino modesto y obediente a su Gurú; domina sus sentidos, está bien capacitado para su tarea y abandona su cuerpo; soporta todos los problemas y calamidades; practica con una mente pura la conducta prescrita; se esfuerza, es constante y come solo una cantidad moderada de la comida que le dan otros. Un hombre así merece el nombre de Bhikshu. (4)
 

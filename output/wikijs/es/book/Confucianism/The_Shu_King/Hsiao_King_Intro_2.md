@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p452">[<sup><small>pág. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 LA RECUPERACIÓN DEL REY HSIÂO BAJO LA DINASTÍA HAN Y SU PRESERVACIÓN HASTA LA PUBLICACIÓN DEL COMENTARIO DEL EMPERADOR THANG HSÜAN ZUNG.
 
-1\. El Hsiâo King sufrió, como todos los demás libros confucianos, excepto el Yî, los incendios de Khin. Su recuperación posterior fue muy similar a la del Shû, descrita en las págs. [7](Shu_King_Intro_1#p7), 8. Disponemos de una copia abreviada y otra más extensa, un texto moderno y un texto antiguo.
+1\. El Hsiâo King sufrió, como todos los demás libros confucianos, excepto el Yî, los incendios de Khin. Su recuperación posterior fue muy similar a la del Shû, descrita en las págs. [7](../Shu_King_Intro_1#p7), 8. Disponemos de una copia abreviada y otra más extensa, un texto moderno y un texto antiguo.
 
 Recuperación del Rey Hsiâo.
 
@@ -64,7 +64,7 @@ Las copias catalogadas por Hin se realizaron tras el examen y la revisión de lo
 
 Desde Khung An-kwo hasta el emperador Hsüan Ȝung.
 
-2\. He dicho anteriormente ([p. 450](Hsiao_King_Intro_1#p450)) que el texto del clásico, es decir, el texto moderno, tal como lo conocemos, se debe a la labor del emperador Hsüan Ȝung de la dinastía Thang. Kû Î-tsun, del período Khien-lung (1736-1795), en su trabajo sobre los clásicos y los escritos sobre ellos, ha citado los títulos de ochenta y seis obras diferentes sobre nuestro clásico, publicadas entre Khung An-kwo y Hsüan ZȜung. Ninguna de ellas se conserva actualmente; pero su enumeración demuestra que los eruditos más distinguidos durante los siglos intermedios ejercieron su influencia sobre el tratado y se vigilaban mutuamente para preservar el texto. Además, varias de las obras continuaron durante la dinastía Thang y la de Sung. El Catálogo de la Biblioteca Sui contiene diecinueve títulos en su lista.
+2\. He dicho anteriormente ([p. 450](../Hsiao_King_Intro_1#p450)) que el texto del clásico, es decir, el texto moderno, tal como lo conocemos, se debe a la labor del emperador Hsüan Ȝung de la dinastía Thang. Kû Î-tsun, del período Khien-lung (1736-1795), en su trabajo sobre los clásicos y los escritos sobre ellos, ha citado los títulos de ochenta y seis obras diferentes sobre nuestro clásico, publicadas entre Khung An-kwo y Hsüan ZȜung. Ninguna de ellas se conserva actualmente; pero su enumeración demuestra que los eruditos más distinguidos durante los siglos intermedios ejercieron su influencia sobre el tratado y se vigilaban mutuamente para preservar el texto. Además, varias de las obras continuaron durante la dinastía Thang y la de Sung. El Catálogo de la Biblioteca Sui contiene diecinueve títulos en su lista.
 
 Obra de Hsüan Ȝung.
 
@@ -74,7 +74,7 @@ El emperador no menciona las diferencias entre los textos antiguos y modernos, a
 
 El texto empleado en este comentario imperial podría considerarse ahora suficientemente seguro. Fue grabado, menos de un siglo después, en las tablillas de piedra de Thang, que se completaron en el año 837 y se colocaron en Hsî-an, la capital de Thang, donde permanecen, prácticamente sin daños, hasta el día de hoy [628]. Y no solo eso. El emperador quedó tan satisfecho con el comentario que había realizado que ordenó grabarlo íntegramente en cuatro grandes tablillas o pilares de piedra en el año 745. Aún se pueden ver en Hsî-an, frente al Colegio Confuciano.
 
-<span id="p458">[<sup><small>pág. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 El trabajo de Hsing Ping.
 

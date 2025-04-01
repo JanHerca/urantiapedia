@@ -72,7 +72,7 @@ e. Kêvala, el conocimiento supremo e ilimitado. (4)
 
 Los tres tipos de Môhanîya referentes a la fe son: 1. fe correcta; 2. fe incorrecta; 3. fe parcialmente correcta y parcialmente incorrecta. (9)
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Los dos tipos de Môhanîya que se refieren a la conducta son: 1. lo que se experimenta en la forma de las cuatro pasiones cardinales; 2. lo que se experimenta en la forma de sentimientos diferentes de ellas. (10)
 
@@ -90,7 +90,7 @@ Así se ha contado la división de Karman y las subdivisiones.
 
 Ahora escuchemos su número de átomos [^543], lugar, tiempo y desarrollo. (16)
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 El número de átomos de cada Karman es infinito; es (infinitamente) mayor que (el número) de almas encadenadas [^544], pero menor que el de las perfeccionadas. (17)
 

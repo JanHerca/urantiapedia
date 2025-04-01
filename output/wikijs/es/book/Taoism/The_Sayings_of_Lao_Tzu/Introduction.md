@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Con una modestia excepcional y una inteligente autoestima, Confucio se describió a sí mismo como «un transmisor, no un creador, alguien que amaba y creía en los antiguos». Esta juiciosa estimación resume acertadamente la posición del maestro más destacado de China. Si bien su influencia sobre millones de personas es incalculable, se debe más a su intachable sentido común, respaldado por la fortaleza moral de su carácter, que a una notable capacidad intelectual o a la novedad de sus ideas.
 

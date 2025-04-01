@@ -48,7 +48,7 @@ Acordaos del Señor, hermanos míos, porque todos deben partir.
 Los asuntos de este mundo son transitorios, sólo por cuatro días; debemos ciertamente seguir adelante:
 Sin duda debemos seguir adelante como un invitado. ¿Por qué deberíamos estar orgullosos?
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Repite el nombre de Aquel por cuya adoración obtendrás la felicidad en Su corte.
 En el otro mundo no podrás de ninguna manera hacer valer tu autoridad; a cada uno le irá según sus actos.
@@ -64,7 +64,7 @@ Si los hombres lloran por las cosas mundanas, todo su llanto, oh Padre, será en
 Todo su llanto será en vano; el mundo no se acuerda de Dios, y llora por las riquezas.
 No distinguen el bien del mal y por ello pierden sus vidas humanas.
 Todos los que vienen a este mundo deben partir; falsos son ustedes los que practican el orgullo.
-_Dice_ Nanak: “Se considerará que los hombres han llorado, oh Padre, si lloran por amor”.[^1]
+_Dice_ Nanak: «Se considerará que los hombres han llorado, oh Padre, si lloran por amor».[^1]
 
 Ante esto, la multitud reunida comenzó a cantar canciones de duelo, y el Gurú cayó en trance. Al despertar, sus hijos, al ver a un extraño designado para suceder a su padre, preguntaron qué provisiones se habían hecho. El Gurú Nanak respondió: «Oh, hijos míos, Dios da a sus criaturas; recibiréis alimento y ropa en abundancia, y si repitéis el nombre de Dios, al fin seréis salvados».
 
@@ -90,7 +90,7 @@ Se cantó entonces el slok final del Japji. El Gurú extendió una sábana sobre
 
 [^3]: Râg Gauri Dîpaki. Gurú Nânak hizo que se repitiera este himno en su honor como muestra de regocijo cuando agonizaba. Aún se canta en un servicio fúnebre.
 
-<span id="p191">[<sup><small>pág. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Cuando se retiró la sábana a la mañana siguiente, no se encontró nada debajo. Las flores de ambos lados estaban en flor. Los hindúes y los musulmanes retiraron sus respectivas flores. Todos los sijs saludaron con reverencia el lugar donde había yacido el Gurú. Exhaló su último suspiro el décimo día de la primera mitad del mes de Assu, Sambat 1595 (1538 d. C.), en Kartarpur, Punjab.
 
@@ -118,7 +118,7 @@ Los hombres religiosos que deberían estar guiando a sus rebaños se habían ret
 
 Las cuatro castas de los hindúes las redujo a una sola. Independientemente de si un sij pertenecía a una casta, se distinguía en la sociedad de los santos. Las seis escuelas filosóficas son como las seis estaciones del año, pero la secta del Gurú es el sol que brilla sobre todas ellas. El Gurú Nanak, tras abolir todas las sectas, derramó gran esplendor sobre la suya. Dejando de lado los Veds y los libros del Islam, enseñó a su secta a repetir el nombre del Dios infinito que sobrepasa toda concepción. Los sijs del Gurú se reconocen postrándose unos a otros y practicando la humildad. Viven como ermitaños entre sus familias, borran su individualidad, pronuncian el nombre inefable de Dios y no transgreden la voluntad del Creador profiriendo bendiciones o maldiciones sobre sus semejantes. Así, los hombres se salvaron en todas las direcciones y el Gurú Nanak se convirtió en el verdadero sostén de las nueve regiones de la tierra.
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

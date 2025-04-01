@@ -1,6 +1,6 @@
 ---
 title: "II. Mihir Nyâyis"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -82,7 +82,7 @@ Sacrificamos a Mitra detrás de los países.
 
 13\. [^1524]. Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
-<span id="p355">[<sup><small>pág. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Ofrecemos libaciones a Mitra. . . .
 

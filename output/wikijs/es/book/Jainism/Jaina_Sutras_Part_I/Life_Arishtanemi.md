@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p276">[<sup><small>pág. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 En ese período, en esa era, vivió el Arhat Arishtanemi, cuyos cinco momentos más importantes ocurrieron cuando la luna estaba en conjunción con el asterismo <i>Kitrâ</i>. En <i>Kitrâ</i>, descendió del cielo, etc. (véase § 149, hasta) y obtuvo la liberación final. (1 70)
 
@@ -44,7 +44,7 @@ El Arhat Arisht anemi, astuto, etc. (véanse los §§ 155-157, todos los cuales 
 
 El Arhat Arisht anemi descuidó su cuerpo durante cincuenta y cuatro días (véanse los §§ 117-120). Durante el quincuagésimo quinto día —en el tercer mes de la temporada de lluvias, en la quinta quincena, la quincena oscura de Â<i>s</i>vina—, en su decimoquinto día, en la última parte del día, cuando la luna estaba en conjunción con el asterismo <i>K</i>itrâ— (Arisht anemi) bajo un árbol Ve<i>t</i>asa [^654] en la cima del monte Girnâr [^655], tras ayunar tres días y medio sin beber agua, etc., obtuvo el conocimiento e intuición infinitos y supremos, llamados Kevala, etc. (véase el § 121, hasta el momento). (174)
 
-<span id="p278">[<sup><small>pág. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 El Arhat Arishtanemi tenía dieciocho Ganas y dieciocho Ganadharas. (175)
 

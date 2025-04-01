@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p226">[<sup><small>pág. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 «Los Oficiales de Kâu» contiene un esquema general del sistema oficial de la dinastía Kâu, detallando los nombres y funciones de los principales ministros de la corte y otros, a quienes, además, el rey que habla en él, sin duda el rey Khâng, dirige diversos consejos. Los críticos chinos lo clasifican entre las «Instrucciones» del Shû, pero pertenece más bien a los «Anuncios».
 

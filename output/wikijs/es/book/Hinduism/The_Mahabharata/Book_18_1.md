@@ -31,7 +31,7 @@ dateCreated: 2025-1-15T22:56:14Z
 
 **1**
 
-¡Om! Después de inclinarse ante Narayana y ante Nara, el más importante de los hombres, así como también ante la diosa Sarasvati, se debe pronunciar la palabra “Jaya”.
+¡Om! Después de inclinarse ante Narayana y ante Nara, el más importante de los hombres, así como también ante la diosa Sarasvati, se debe pronunciar la palabra «Jaya».
 
 Janamejaya dijo: «Tras alcanzar el Cielo, ¿a qué regiones llegaron respectivamente mis antepasados, los Pandavas y los hijos de Dhritarashtra? Deseo escuchar esto. Creo que lo sabes todo, pues el gran Rishi Vyasa te enseñó proezas maravillosas.»
 

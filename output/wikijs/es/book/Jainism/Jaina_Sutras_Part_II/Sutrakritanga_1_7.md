@@ -40,11 +40,11 @@ Estas clases (de seres vivos) han sido declaradas (por los <i>G</i>inas); sepan 
 
 Todo ser que nace, ya sea alto o bajo en la escala de la creación viviente, entre seres móviles e inmóviles, encontrará la muerte. Cualesquiera que sean los pecados que el malhechor cometa en cada nacimiento, por ellos debe morir [^865]. (3)
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 En este mundo o en el otro, los pecadores sufren cien veces lo que han infligido a otros seres, o sufren otro castigo. Viviendo en el Samsara, siempre acumulan nuevo Karman y sufren por sus malas acciones. (4)
 
-Algunos abandonan a su madre y a su padre para vivir como <i>Srama<i>n</i>as, pero utilizan el fuego; (el profeta) dice: “Las personas que matan seres para su propio placer son malvadas”. (5)
+Algunos abandonan a su madre y a su padre para vivir como <i>Srama<i>n</i>as, pero utilizan el fuego; (el profeta) dice: «Las personas que matan seres para su propio placer son malvadas». (5)
 
 Quien enciende un fuego, mata a los seres vivos; quien lo apaga, mata el fuego. Por lo tanto, un hombre sabio que medita bien en la Ley no debería encender fuego. (6)
 
@@ -54,7 +54,7 @@ Los brotes son seres con desarrollo natural [^867], sus cuerpos (requieren) alim
 
 Al destruir las semillas, ya sean jóvenes o adultas, un hombre descuidado perjudica su propia alma. (El profeta) dice: «Es perversa la gente que destruye las semillas para su propio placer». (9)
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Los hombres mueren como embriones, o como bebés que aún no hablan, o que ya lo hacen; otros hombres, como niños con cinco mechones de pelo [^868], o como jóvenes, o en la mediana edad: al expirar su vida, todos abandonan el cuerpo y mueren.
 
@@ -148,7 +148,7 @@ Así lo digo.
 
 [^880]: 296:1 Âi = âdi.
 
-[^881]: 296:2 Cf. [p. 265](Sutrakritanga_1_3_2#p265), verso 16.
+[^881]: 296:2 Cf. [p. 265](../Sutrakritanga_1_3_2#p265), verso 16.
 
 [^882]: 296:3 Bhârassa <i>g</i>âyâ = bhârasya ( = sa<i>m</i>yamasya) yâtrâ.
 

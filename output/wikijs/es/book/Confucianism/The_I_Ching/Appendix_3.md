@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p348">[<sup><small>pág. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 ## SECCIÓN I
 
@@ -58,7 +58,7 @@ En los cielos están las (diferentes) figuras allí completadas, y en la tierra 
 
 8\. Al alcanzar tal facilidad y liberarse del esfuerzo, se dominan todos los principios bajo el cielo. Con este dominio, el sabio consolida su posición intermedia entre el cielo y la tierra.
 
-<span id="p350">[<sup><small>pág. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Capítulo [^255]. 9. Los sabios expusieron los diagramas, inspeccionaron los emblemas que contenían y añadieron sus explicaciones; de esta manera se aclararon la buena y la mala fortuna (indicadas por ellos).
 
@@ -70,7 +70,7 @@ Capítulo [^255]. 9. Los sabios expusieron los diagramas, inspeccionaron los emb
 
 14\. Por lo tanto, el hombre superior, al vivir en paz, contempla los emblemas y estudia sus explicaciones; al iniciar cualquier movimiento, contempla los cambios (que se producen en la adivinación) y estudia sus pronósticos. Así, «se le extiende la ayuda del Cielo; habrá buena fortuna y ventaja en cada movimiento».
 
-<span id="p352">[<sup><small>pág. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Capítulo [^256]. 15. Los Thwan hablan de las figuras emblemáticas (de los diagramas completos). Los Yâo hablan de los cambios (que ocurren en las diversas líneas).
 
@@ -88,7 +88,7 @@ Capítulo [^257]. 20. El Yî fue hecho sobre un principio de conformidad con el 
 
 23\. (A través del Yî), él comprende como en un molde o recinto las transformaciones del cielo y la tierra sin ningún error; por una adaptación siempre variable él completa (la naturaleza de) todas las cosas sin excepción; penetra en un conocimiento del curso del día y la noche (y todos los demás fenómenos conectados);—es así que su operación es espiritual, no condicionada por el lugar, mientras que los cambios que produce no están restringidos a ninguna forma.
 
-<span id="p355">[<sup><small>pág. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Capítulo [^258]. 24. El movimiento sucesivo de las operaciones inactivas y activas constituye lo que se llama el curso (de las cosas). <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 25\. Lo que resulta (de su movimiento) es la bondad; lo que la muestra en su plenitud es la naturaleza (de los hombres y las cosas).
 
@@ -106,7 +106,7 @@ Capítulo [^258]. 24. El movimiento sucesivo de las operaciones inactivas y acti
 
 32\. Lo que es insondable en (el movimiento de) las operaciones inactivas y activas es (la presencia de un) poder espiritual.
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Capítulo [^259]. 33. ¡Sí, el Yî es amplio y grandioso! Si lo describimos en su máxima extensión, no se le pueden poner límites; si lo describimos con referencia a lo cercano, sus lecciones son inmutables y correctas; si lo describimos en relación con todo lo que existe entre el cielo y la tierra, lo abarca todo.
 
@@ -155,7 +155,7 @@ Se difunde una fragancia como la de las plantas de orquídeas.
 
 48\. El Maestro dijo: —Puede decirse que los creadores del Yî conocieron la filosofía del robo. El Yî dice: «Es un portador de cargas, y sin embargo viaja en un carruaje, incitando así a los ladrones a atacarlo». Llevar cargas es cosa de un hombre humilde. Un carruaje es el vehículo de un caballero. Cuando un hombre humilde viaja en el vehículo de un hombre gentil, los ladrones pensarán en quitárselo. Cuando uno es insolente con sus superiores y opresivo con sus inferiores, los ladrones querrán atacarlo. El acaparamiento descuidado incita al robo, como el adorno de una mujer incita a la lujuria. Lo que dice el Yî acerca del portador de carga que viaja en un carruaje y que incita a los ladrones a atacarlo, (muestra cómo) se llama robo.
 
-<span id="p365">[<sup><small>pág. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Capítulo [^262]. 49. Al cielo pertenece (el número) 1; a la tierra, 2; al cielo, 3; a la tierra, 4; al cielo, 5; a la tierra, 6; al cielo, 7; a la tierra, 8; al cielo, 9; a la tierra, 10.
 
@@ -177,7 +177,7 @@ Capítulo [^262]. 49. Al cielo pertenece (el número) 1; a la tierra, 2; al ciel
 
 58\. El Maestro dijo: —Quien conoce el método del cambio y la transformación puede decirse que sabe lo que se hace mediante ese poder espiritual.
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Capítulo [^263]. 59. En el Yî hay cuatro aspectos característicos del camino de los sabios. Debemos valorar al máximo sus explicaciones para guiarnos al hablar; sus cambios para (el inicio de) nuestros movimientos; sus figuras emblemáticas para (acción definida como en) la construcción de herramientas; y sus pronósticos para nuestra práctica de adivinación.
 
@@ -193,7 +193,7 @@ Capítulo [^263]. 59. En el Yî hay cuatro aspectos característicos del camino 
 
 65\. Éste es el significado de lo que dijo el Maestro: «En el Yî hay cuatro cosas que indican el camino de los sabios».
 
-<span id="p371">[<sup><small>pág. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Capítulo [^264]. 66. El Maestro dijo: —¿Qué hace el Yî? El Yî revela el conocimiento de las cosas, lleva a cabo las empresas de los hombres y abarca bajo él el camino de todas las cosas bajo el cielo. Esto y nada más es lo que hace el Yî. Así, los sabios, mediante su adivinación, orientarían los objetivos de todo lo que existe bajo el cielo, darían estabilidad a sus proyectos y disiparían sus dudas.
 
@@ -217,9 +217,9 @@ Habiendo sido producida la planta adivinatoria, los sabios la separaron y establ
 
 74\. En el esquema del Yî están las cuatro figuras simbólicas con las que se informa a los hombres (en la adivinación sobre las líneas que forman los diagramas); las explicaciones adjuntas transmiten el significado (de los diagramas y líneas); y la determinación (de la adivinación) como afortunada o no, para disipar las dudas (de los hombres).
 
-<span id="p375">[<sup><small>pág. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
-Capítulo [^265], 75. Se dice en el Yî: «Se le concede ayuda del Cielo. Tendrá buena fortuna; ventajas en todos los aspectos». El Maestro <span id="p376"><sup><small>[ p. 376 ]</small></sup></span> dijo: «Yû ( ![](image/book/Confucianism/The_I_Ching/37600.jpg)) es el símbolo de la asistencia. Aquel a quien el Cielo asiste es observador (de lo correcto); aquel a quien los hombres asisten es sincero. El individuo aquí indicado recorre el camino de la sinceridad y desea ser observador (de lo correcto), y se esfuerza por exaltar a los dignos. Por lo tanto, «Se le concede ayuda del Cielo. Tendrá buena fortuna y ventajas en todos los aspectos».
+Capítulo [^265], 75. Se dice en el Yî: «Se le concede ayuda del Cielo. Tendrá buena fortuna; ventajas en todos los aspectos». El Maestro <span id="p376"><sup><small>[ p. 376 ]</small></sup></span> dijo: «Yû ( ![](../image/book/Confucianism/The_I_Ching/37600.jpg)) es el símbolo de la asistencia. Aquel a quien el Cielo asiste es observador (de lo correcto); aquel a quien los hombres asisten es sincero. El individuo aquí indicado recorre el camino de la sinceridad y desea ser observador (de lo correcto), y se esfuerza por exaltar a los dignos. Por lo tanto, «Se le concede ayuda del Cielo. Tendrá buena fortuna y ventajas en todos los aspectos».
 
 76\. El Maestro dijo: «Los caracteres escritos no son <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> la representación completa del habla, y la habla no es la expresión completa de las ideas; ¿es imposible entonces descubrir las ideas de los sabios?». El Maestro dijo: «Los sabios crearon sus símbolos emblemáticos para expresar plenamente sus ideas; designaron todos los diagramas para mostrar plenamente la verdad y la falsedad de las cosas; añadieron sus explicaciones para dar la expresión completa de sus palabras; y cambiaron las diversas líneas y generalizaron el método para hacerlo, para exhibir plenamente lo ventajoso. Así, estimularon a la gente, por ejemplo, con tambores y danzas, desarrollando así plenamente el carácter espiritual del Yî».
 
@@ -237,7 +237,7 @@ Transformación y modelado es lo que llamamos cambio; llevar esto a cabo y opera
 
 
 
-<span id="p379">[<sup><small>pág. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 ## SECCIÓN II
 
@@ -259,7 +259,7 @@ Capítulo [^266]. 1. Completados los ocho trigramas en su orden correspondiente,
 
 10\. El gran atributo del cielo y la tierra es dar y mantener la vida. Lo más preciado para el sabio es alcanzar el lugar (más elevado), donde pueda ser el representante humano del cielo y la tierra. ¿Qué le garantizará esta posición? Los hombres. ¿Cómo reunirá una gran población a su alrededor? Mediante el poder de su riqueza. La correcta administración de esa riqueza, las instrucciones correctas al pueblo y la prohibición de las malas acciones: todo esto constituye su rectitud.
 
-<span id="p382">[<sup><small>pág. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Capítulo [^267]. 11. Antiguamente, cuando Pâo-hsî llegó a gobernar todo bajo el cielo, al alzar la vista, contempló las brillantes formas que se exhibían en el firmamento, y al bajar, observó los patrones que se mostraban en la tierra. Contempló las apariencias ornamentales de las aves y las bestias, y las (diferentes) aptitudes del suelo. De cerca, en su propia persona, encontró cosas que considerar, y lo mismo a distancia, en las cosas en general. Con base en esto, ideó los ocho trigramas, para mostrar plenamente los <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> atributos de lo espiritual y lo inteligente (operaciones que operan secretamente), y para clasificar las cualidades de las miríadas de cosas.
 
@@ -287,7 +287,7 @@ Capítulo [^267]. 11. Antiguamente, cuando Pâo-hsî llegó a gobernar todo bajo
 
 23\. En la más remota antigüedad, el gobierno se ejercía con éxito mediante cuerdas anudadas (para preservar la memoria de las cosas). En épocas posteriores, los sabios sustituyeron estos caracteres y vínculos escritos. Mediante estos, se podían regular las acciones de todos los funcionarios y examinar con precisión los asuntos de todo el pueblo. La idea de esto probablemente se tomó de Kwâi (el hexagrama cuadragésimo tercero).
 
-<span id="p386">[<sup><small>pág. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 Capítulo [^268]. 24. Por lo tanto, lo que llamamos el Yî es una colección de líneas emblemáticas. Se les llama emblemáticas por ser semejanzas. <span id="p387"><sup><small>[ p. 387 ]</small></sup></span> 25\. Lo que llamamos el Thwan (o las explicaciones del rey Wăn) se basa en el significado de cada hexagrama en su conjunto.
 
@@ -295,7 +295,7 @@ Capítulo [^268]. 24. Por lo tanto, lo que llamamos el Yî es una colección de 
 
 27\. De esta manera (vemos) el surgimiento de la buena fortuna y del mal, y la manifestación del arrepentimiento y el arrepentimiento.
 
-<span id="p388">[<sup><small>pág. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 Capítulo [^269]. 28. En los trigramas Yang (o de línea indivisa) hay más líneas Yin, y en los trigramas Yin (o de línea dividida) hay más líneas Yang.
 
@@ -303,7 +303,7 @@ Capítulo [^269]. 28. En los trigramas Yang (o de línea indivisa) hay más lín
 
 30\. ¿Qué método de conducta virtuosa se insinúa así? En los trigramas Yang tenemos un regente y dos sujetos, lo que sugiere el camino del hombre superior. En los trigramas Yin tenemos dos regentes y un sujeto, lo que sugiere el camino del hombre pequeño.
 
-<span id="p389">[<sup><small>pág. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 Capítulo [^270]. 31. Dice el Yî: «Lleno de pensamientos ansiosos vas y vienes; solo los amigos te seguirán y pensarán contigo». El Maestro dijo: «En todos los procesos que ocurren bajo el cielo, ¿qué hay de pensar? ¿qué hay de maquinar con ansiedad? Todos llegan al mismo resultado, aunque por caminos diferentes; el resultado es el mismo, aunque haya cien maquinaciones ansiosas. ¿Qué hay de pensar? ¿qué hay de maquinar con ansiedad?».
 
@@ -333,7 +333,7 @@ Capítulo [^270]. 31. Dice el Yî: «Lleno de pensamientos ansiosos vas y vienes
 
 44\. El Maestro dijo: —El hombre superior (en un puesto elevado) se sereniza antes de intentar conmover a los demás; tranquiliza su mente antes de hablar; establece los principios de su trato con los demás antes de exigirles algo. El hombre superior cultiva estas tres cosas, y por lo tanto es completo. Si intenta conmover a los demás estando intranquilo, la gente no actuará con él; si habla estando en estado de aprensión, la gente no le responderá; si sin ciertos principios de intercomunicación, emite sus peticiones, la gente no las concederá. Cuando no hay nadie que concuerde con él, aparecerán quienes intentan perjudicarlo. Como dice el Yî: «(Vemos a alguien) a cuyo beneficio nadie contribuirá, mientras que algunos intentarán atacarlo. No observa ninguna regla regular en la organización de su corazón: —habrá maldad».
 
-<span id="p395">[<sup><small>pág. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Capítulo [^271]. 45. El Maestro dijo: «Los trigramas <i>Kh</i>ien y Khwăn pueden considerarse la puerta del Yî». <i>Kh</i>ien representa lo que es de naturaleza yang (brillante y activo); Khwăn lo que es de naturaleza yin (oscuro e inactivo). Estos dos se unen según sus cualidades, y de ahí surge la materialización del resultado mediante las líneas fuertes y débiles. De esta manera, los fenómenos del cielo y la tierra se manifiestan visiblemente y podemos comprender el funcionamiento de la inteligencia espiritual.
 
@@ -343,7 +343,7 @@ Capítulo [^271]. 45. El Maestro dijo: «Los trigramas <i>Kh</i>ien y Khwăn pue
 
 48\. Las denominaciones y nombres (de los diagramas y líneas) son insignificantes, pero las clases de cosas que abarcan son amplias. Su alcance es amplio, y las explicaciones que los acompañan son elegantes. Las palabras son indirectas, pero concisas; los temas parecen claramente expuestos, pero hay un principio secreto en ellos. Su objetivo es, en casos dudosos, ayudar a las personas en su conducta y explicar claramente las recompensas del bien y del mal.
 
-<span id="p397">[<sup><small>pág. 397</small></sup>]</span>
+<span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 
 Capítulo [^272]. 49. ¿No fue acaso en el período medio de la antigüedad cuando el Yî comenzó a florecer? ¿No fue él quien lo familiarizó con la ansiedad y la calamidad?
 
@@ -353,7 +353,7 @@ Capítulo [^272]. 49. ¿No fue acaso en el período medio de la antigüedad cuan
 
 52\. (El uso de) Lî aparece en la armonía de la conducta; de Hsien, en la regulación de las ceremonias; de Fû, en el autoconocimiento; de Hăng, en la uniformidad de la virtud; de Sun, en mantener a distancia lo que es dañino; de Yî, en la promoción de lo que es ventajoso; de Khwăn, en la disminución de los resentimientos; de Žing, en la discriminación de lo que es recto; y de Sun, en hacer lo que es apropiado al tiempo y a las circunstancias.
 
-<span id="p399">[<sup><small>pág. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 Capítulo [^273]. 53. El Yî es un libro que no debe olvidarse. Su método de enseñanza se caracteriza por la frecuente variación de sus líneas. Estas cambian y se mueven sin detenerse en un solo lugar, fluyendo hacia cualquiera de los seis lugares del hexagrama. Ascienden y descienden, siempre inconstantes. Las líneas fuertes y débiles cambian de lugar, de modo que no puede derivarse de ellas una regla invariable y completa; esta debe variar según sus cambios.
 
@@ -363,7 +363,7 @@ Capítulo [^273]. 53. El Yî es un libro que no debe olvidarse. Su método de en
 
 56\. Comenzando por tomar nota de sus explicaciones, razonamos los principios a los que apuntan. Así descubrimos que proporciona una regla constante y estándar. Pero si no hay las personas adecuadas para llevar esto a cabo, el camino no puede seguirse sin ellas.
 
-<span id="p400">[<sup><small>pág. 400</small></sup>]</span>
+<span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 Capítulo [^274]. 57. El Yî es un libro en el que la forma (de cada diagrama) está determinada por las líneas desde la primera hasta la última, las cuales deben observarse cuidadosamente. Las seis líneas se combinan según el momento (cuando entran en la figura) y su sustancia (en su totalidad y en sus divisiones).
 
@@ -377,17 +377,17 @@ Capítulo [^274]. 57. El Yî es un libro en el que la forma (de cada diagrama) e
 
 62\. La tercera y la quinta línea son de la misma calidad (al estar en lugares extraños), pero sus posiciones son diferentes; y quien ocupa la tercera sufre muchas desgracias, mientras que quien ocupa la quinta alcanza mucho mérito: esto se debe a que una se encuentra en la posición noble y la otra en la media. ¿Están ocupadas por el símbolo de la debilidad? Habrá peligro. ¿Por el de la fuerza? Habrá victoria.
 
-<span id="p402">[<sup><small>pág. 402</small></sup>]</span>
+<span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 
 Capítulo [^275]. 63. El Yî es un libro de vasta comprensión y gran alcance, que lo abarca todo. Contiene el camino del cielo, el camino del hombre y el camino de la tierra. Luego toma (las líneas que representan) esos tres Poderes y los duplica hasta llegar a seis. Lo que estas seis líneas muestran es simplemente esto: el camino de los tres Poderes.
 
 64\. Este camino está marcado por cambios y movimientos, y de ahí las líneas imitativas. Estas líneas son de diferentes grados (en los trigramas), y por ello las designamos a partir de sus elementos componentes. Estos se mezclan, y surgen formas elegantes. Cuando estas formas no están en sus lugares apropiados, se producen las ideas de buena y mala fortuna.
 
-<span id="p403">[<sup><small>pág. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 Capítulo [^276]. 65. ¿No fue en la última era de Yin, cuando la virtud de Kâu alcanzó su punto máximo, y durante los conflictos entre el rey Wăn y el tirano Kâu, que el estudio del Yî comenzó a florecer? Por ello, las explicaciones del libro expresan una profunda aprensión y enseñan cómo el peligro puede transformarse en seguridad, y cómo la negligencia fácil conduce a la derrota. El proceso por el cual esto sucede es muy completo y debe reconocerse en todos los ámbitos. Si al principio existe una cautelosa aprensión respecto al final, probablemente no habrá error ni motivo de censura. Esto es lo que se llama el camino del Yî.
 
-<span id="p404">[<sup><small>pág. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos los seres bajo el cielo. Gracias a esta cualidad, sus operaciones se manifiestan siempre con facilidad, pues sabe dónde podría haber peligro y dificultad. (El hexagrama) Khwăn representa al más dócil de todos los seres bajo el cielo. Gracias a esta cualidad, sus operaciones se manifiestan siempre con la decisión más rápida, pues sabe dónde podría haber obstrucción.
 
@@ -432,13 +432,13 @@ Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos lo
 ## Notas al pie
 
 [^254]: 349:I El Capítulo I intenta mostrar la correspondencia entre los fenómenos de la naturaleza externa, siempre cambiantes, y las figuras del Rey Yî, siempre variables. Los primeros cuatro párrafos, se dice, muestran, a partir de los fenómenos de producción y transformación en la naturaleza externa (p. 350), los principios sobre los que se crearon las figuras del Yî. Los párrafos quinto y sexto muestran, en particular, cómo los atributos representados por las figuras <i>Kh</i>ien y Khwăn se encuentran en (las operaciones del) cielo y la tierra. Los dos últimos párrafos muestran ambos atributos encarnados o realizados en el hombre. De hecho, la realización plena solo se da en el sabio o el hombre ideal, quien así se convierte en el modelo para todos los hombres.
-  En el párrafo 3 tenemos cinco de los seis trigramas derivados; los 'seis hijos', según la nomenclatura del arreglo Wăn. 'Trueno' representa a <i>k</i>ăn ( ![](image/book/Confucianism/The_I_Ching/tri001.jpg)), 'relámpago' a lî ( ![](image/book/Confucianism/The_I_Ching/tri101.jpg)), 'viento' al sol ( ![](image/book/Confucianism/The_I_Ching/tri110.jpg)), y 'lluvia' a khan ( ![](image/book/Confucianism/The_I_Ching/tri010.jpg)). "El sol", sin embargo, también es un emblema de lî, y "la luna" uno de kăn ( ![](image/book/Confucianism/The_I_Ching/tri100.jpg)), que generalmente se dice que representa "montañas", mientras que tui ( ![](image/book/Confucianism/The_I_Ching/tri011.jpg)) que representa "colecciones de agua", no tiene lugar en la enumeración. <i>K</i>û Hsî dice que en el párrafo 3 tenemos los cambios naturales observados en los fenómenos del cielo, mientras que en 4 tenemos cambios tales como encontrar cuerpo y figura en la tierra.
-  Los párrafos 5 y 6 han sido malinterpretados por descuidar el significado peculiar del carácter <i>k</i>ih ( ![](image/book/Confucianism/The_I_Ching/35000.jpg)), y por tomarlo en su acepción común de 'conocer'. Tanto los comentarios como los diccionarios señalan que aquí se usa en el sentido de 'dirigir', 'presidir'. Sin embargo, en el párrafo 7, retoma su significado ordinario.
+  En el párrafo 3 tenemos cinco de los seis trigramas derivados; los 'seis hijos', según la nomenclatura del arreglo Wăn. 'Trueno' representa a <i>k</i>ăn ( ![](../image/book/Confucianism/The_I_Ching/tri001.jpg)), 'relámpago' a lî ( ![](../image/book/Confucianism/The_I_Ching/tri101.jpg)), 'viento' al sol ( ![](../image/book/Confucianism/The_I_Ching/tri110.jpg)), y 'lluvia' a khan ( ![](../image/book/Confucianism/The_I_Ching/tri010.jpg)). "El sol", sin embargo, también es un emblema de lî, y "la luna" uno de kăn ( ![](../image/book/Confucianism/The_I_Ching/tri100.jpg)), que generalmente se dice que representa "montañas", mientras que tui ( ![](../image/book/Confucianism/The_I_Ching/tri011.jpg)) que representa "colecciones de agua", no tiene lugar en la enumeración. <i>K</i>û Hsî dice que en el párrafo 3 tenemos los cambios naturales observados en los fenómenos del cielo, mientras que en 4 tenemos cambios tales como encontrar cuerpo y figura en la tierra.
+  Los párrafos 5 y 6 han sido malinterpretados por descuidar el significado peculiar del carácter <i>k</i>ih ( ![](../image/book/Confucianism/The_I_Ching/35000.jpg)), y por tomarlo en su acepción común de 'conocer'. Tanto los comentarios como los diccionarios señalan que aquí se usa en el sentido de 'dirigir', 'presidir'. Sin embargo, en el párrafo 7, retoma su significado ordinario.
   [^255]: 351:II El Capítulo II, párrafos 9-14, se divide en dos partes. La primera contiene los párrafos 9-12 y nos cuenta cómo los sabios, el rey Wăn y el duque de Kâu, procedieron a crear el Yî, de modo que este indicara la buena y la mala suerte de los caminos humanos, en armonía con el bien y el mal, y los procesos de la naturaleza. Los párrafos 13 y 14 conforman la segunda parte y hablan del estudio del Yî por parte del hombre superior, deseoso de hacer lo correcto y aumentar su conocimiento, y de las ventajas que de ello se derivan.
   Puedo seguir hasta cierto punto las dos primeras afirmaciones del párrafo 12, en lo que respecta a las ideas del autor, aunque afirmar cualquier correspondencia entre los cambios en las líneas de los diagramas y las operaciones de la naturaleza externa, como en la sucesión del día y la noche, es simplemente un juego de la imaginación. Sin embargo, casi no logro captar la idea de la última afirmación. En el trigrama, la primera línea representa la tierra; la segunda, el hombre; y la tercera, el cielo; en el hexagrama, la primera y la segunda líneas se asignan a la tierra; la tercera y la cuarta, al hombre; y la quinta y la sexta, al cielo. Estos son los tres Poderes, y cada Poder tiene un «Gran Extremo», donde su naturaleza y operación se manifiestan en su ideal más elevado. Esto es hasta cierto punto concebible; pero cuando intento seguir a nuestro autor y encontrar una analogía entre el curso de estos extremos y los movimientos en los lugares de los diagramas, no tengo ninguna pista para seguir mi camino. Para la frase final del párrafo 14, véase al duque de Kâu en la última línea del hexagrama 14.
 
 [^256]: 353:III El capítulo III, párrafos 15-19, ofrece información adicional sobre las partes constituyentes del Yî, es decir, el texto del clásico tal como lo conocemos del rey Wăn y su hijo. Los editores imperiales afirman que amplía el significado del cuarto párrafo, el tercero del capítulo 2. Si bien es cierto que lo hace, este relato apenas abarca todo su contenido.
-  Para comprender los nombres 'pequeño y grande', tal como se usan en los diagramas de los párrafos 17 y 19, debe notarse que los hexagramas a los cuales la línea dividida o yin da su carácter se denominan 'pequeños', y aquellos donde rige la línea indivisa o yang se denominan 'grandes'. Kâu (44, ![](image/book/Confucianism/The_I_Ching/hex111110.jpg)), Thun (33, ![](image/book/Confucianism/The_I_Ching/hex111100.jpg)), y Phei (12, ![](image/book/Confucianism/The_I_Ching/hex111000.jpg)) son instancias de la primera clase; Fû (24, ![](image/book/Confucianism/The_I_Ching/hex000001.jpg)), Lin (19, ![](image/book/Confucianism/The_I_Ching/hex000011.jpg)) y Thâi (11, ![](image/book/Confucianism/The_I_Ching/hex000111.jpg)), del otro.
+  Para comprender los nombres 'pequeño y grande', tal como se usan en los diagramas de los párrafos 17 y 19, debe notarse que los hexagramas a los cuales la línea dividida o yin da su carácter se denominan 'pequeños', y aquellos donde rige la línea indivisa o yang se denominan 'grandes'. Kâu (44, ![](../image/book/Confucianism/The_I_Ching/hex111110.jpg)), Thun (33, ![](../image/book/Confucianism/The_I_Ching/hex111100.jpg)), y Phei (12, ![](../image/book/Confucianism/The_I_Ching/hex111000.jpg)) son instancias de la primera clase; Fû (24, ![](../image/book/Confucianism/The_I_Ching/hex000001.jpg)), Lin (19, ![](../image/book/Confucianism/The_I_Ching/hex000011.jpg)) y Thâi (11, ![](../image/book/Confucianism/The_I_Ching/hex000111.jpg)), del otro.
   Žhâi <i>Kh</i>ing (a principios de la dinastía Ming) observó que los términos "diagramas" y "explicaciones" deben entenderse no solo referidos a las figuras completas sino también como abarcando las diversas líneas.
 
 [^257]: 354:IV El Capítulo IV, párrafos 20-23, pretende exaltar aún más el Yî, y parece indicar que el sabio, mediante él, puede realizar un estudio exhaustivo de todos los principios y de la naturaleza humana, hasta alcanzar el conocimiento de las ordenanzas del Cielo. Tal es la descripción del capítulo dada por <i>K</i>û Hsî; pero el segundo carácter del párrafo 21 debe entenderse en el significado que tiene en las sesenta y cuatro frases que explican la estructura emblemática de los hexagramas, como = 'de acuerdo con' y no 'por medio de'. Los editores imperiales de la pág. 355 añaden a su exposición del relato de <i>K</i>û que debe tenerse presente que los sabios no tuvieron que esperar a que se les hiciera el Yî para realizar su estudio exhaustivo. Ya lo habían hecho antes, y el Yî puede considerarse como una charla sobre los resultados, elaborada con su propio estilo peculiar. Es un espejo de la naturaleza, pero sus autores conocían la naturaleza antes de crearla.
@@ -470,8 +470,8 @@ Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos lo
 
 [^262]: 366:IX El capítulo IX, párrafos 49-58, es de carácter diferente de los anteriores y trata, de manera insatisfactoria, del uso de los números en conexión con la figura del Yî y la práctica de la adivinación.
   En la edición Thang del Yî, publicada en el siglo VII, el párrafo 49 es el primero del undécimo capítulo según la disposición actual. Kh_ăng-žze lo restauró a su lugar actual, que ocupaba, como se ha demostrado, durante la dinastía Han (p. 367), y al que pertenece propiamente. Este párrafo y el siguiente deben considerarse conjuntamente, y son distintos de lo que sigue, aunque la edición Thang se confunde aún más al colocar el 51 antes del 50.
-  En los versículos 49 y 50 se utilizan los términos «cielo» y «tierra», como hemos visto en los párrafos 30 y 34. Los números impares corresponden a la línea fuerte o indivisa, que simboliza la actividad de la naturaleza, y los números pares a la línea débil o dividida, que simboliza su inacción. Sin embargo, la fraseología de los párrafos solo puede comprenderse mediante una referencia al «mapa del río», que se menciona en la Introducción, páginas [15](Introduction_2#p15), [16](Introduction_2#p16).
-  El mapa, tal como aparecía en el dorso del 'caballo-dragón', consistía en muchos círculos y en muchas marcas circulares oscuras; se suponía que las primeras eran de carácter yang y las segundas de carácter yin. Fû-hsî sustituyó al círculo por la línea fuerte o indivisa ( ![](image/book/Confucianism/The_I_Ching/line1.jpg)), y a las marcas oscuras por la línea débil o dividida ( ![](image/book/Confucianism/The_I_Ching/line0.jpg)). Se observará que los símbolos yang son los círculos 1, 3, 5, 7 y 9, y los yin son las marcas circulares 2, 4, 6, 8 y 10, que es la delineación pictórica del párrafo 49. Lo único que cabe decir al respecto es que la disposición de los cinco círculos y las diez marcas circulares es peculiar y, evidentemente, concebida con un propósito. Sin embargo, hasta ahora, como sabemos, no se intentó ninguna representación del mapa hasta después de principios de nuestro siglo XII.
+  En los versículos 49 y 50 se utilizan los términos «cielo» y «tierra», como hemos visto en los párrafos 30 y 34. Los números impares corresponden a la línea fuerte o indivisa, que simboliza la actividad de la naturaleza, y los números pares a la línea débil o dividida, que simboliza su inacción. Sin embargo, la fraseología de los párrafos solo puede comprenderse mediante una referencia al «mapa del río», que se menciona en la Introducción, páginas [15](../Introduction_2#p15), [16](../Introduction_2#p16).
+  El mapa, tal como aparecía en el dorso del 'caballo-dragón', consistía en muchos círculos y en muchas marcas circulares oscuras; se suponía que las primeras eran de carácter yang y las segundas de carácter yin. Fû-hsî sustituyó al círculo por la línea fuerte o indivisa ( ![](../image/book/Confucianism/The_I_Ching/line1.jpg)), y a las marcas oscuras por la línea débil o dividida ( ![](../image/book/Confucianism/The_I_Ching/line0.jpg)). Se observará que los símbolos yang son los círculos 1, 3, 5, 7 y 9, y los yin son las marcas circulares 2, 4, 6, 8 y 10, que es la delineación pictórica del párrafo 49. Lo único que cabe decir al respecto es que la disposición de los cinco círculos y las diez marcas circulares es peculiar y, evidentemente, concebida con un propósito. Sin embargo, hasta ahora, como sabemos, no se intentó ninguna representación del mapa hasta después de principios de nuestro siglo XII.
   Se supone que la misma figura ilustra lo que se dice en el párrafo 50: «Los números de las dos series se corresponden entre sí en sus posiciones fijas». 1 y 2, y 3 y 4 ciertamente se sitúan uno frente al otro, y quizás 5 y 6; pero 7 y 8, y 9 y 10 no lo hacen de la misma manera. Se dice también que «cada uno tiene otro que puede considerarse su compañero». Lo mismo ocurre con 1 y 6, 2 y 7, 3 y 8, 4 y 9, pero difícilmente con 5 y 10. Además, 1 + 3 + 5 + 7 + 9 = 25; 2 + 4 + 6 + 8 + 10 = 30; y 25 + 30 = 55; todos estos puntos se indican.
   La última afirmación del párrafo, sin embargo, no se deriva de la figura, hasta donde puedo ver. ¿Cómo pueden los números afectar las cosas que se predican de ellos? Existe, en efecto, una jerga (p. 368) sobre la formación de los cinco elementos, pero para que parezca no razonable, sino susceptible de relación, los escritores invocan la escritura Lo en ayuda del mapa Ho; y «los cinco elementos» es una división de los constituyentes de las cosas materiales, ajena al Yî.
   El párrafo 51 pretende describir el proceso de adivinación mediante la manipulación de los tallos, pero la descripción es confusa al introducir en ella las cuatro estaciones y el tema de la intercalación, de modo que resulta muy difícil de entender.
@@ -492,11 +492,11 @@ Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos lo
   El párrafo 66 responde a la pregunta de qué hace el Yî; y si hubiera verdad o razón en ello, el libro y su uso serían de suma importancia. He cerrado la cita de las palabras del «Maestro» al final del párrafo; pero en realidad, no sabemos si se extienden hasta ese punto o más allá.
   Los párrafos 67 y 68 glorifican a los sabios y su obra. Todas las virtudes de la planta adivinatoria les pertenecían, y así pudieron organizar el plan de adivinación. La producción de «cosas espirituales» se atribuye, en el párrafo 73, al Cielo; los caracteres que las rodean en estos párrafos no significan más que lo que expresa la traducción. <span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
   El párrafo 69 muestra cómo la antinomia del yin y el yang impregna toda la naturaleza, y cómo los sabios la aprovecharon, existiendo de manera preeminente en la planta adivinatoria.
-  Párrafo 70. Evidentemente el autor tenía en mente aquí la génesis de los diagramas del Yî, el número de figuras aumentando en una progresión geométrica con la razón de 2, mientras que las líneas de las figuras forman una progresión aritmética con la diferencia común de 1. Esto es bastante claro después de que se han hecho 'las dos formas elementales ( ![](image/book/Confucianism/The_I_Ching/line1.jpg) y ![](image/book/Confucianism/The_I_Ching/line0.jpg))'. Dan origen a 'los cuatro símbolos emblemáticos', cada uno de dos líneas ( ![](image/book/Confucianism/The_I_Ching/dyad11.jpg), ![](image/book/Confucianism/The_I_Ching/dyad01.jpg), ![](image/book/Confucianism/The_I_Ching/dyad10.jpg), ![](image/book/Confucianism/The_I_Ching/dyad00.jpg), conocidos, en este orden, como el Gran o antiguo Yang, el joven Yin, el joven Yang y el Gran o antiguo Yin). Mediante la adición a cada uno de estos símbolos, primero de la línea yang y luego de la yin, surgen los ocho trigramas, cada uno de tres líneas y el proceso de formación podría continuar indefinidamente.
+  Párrafo 70. Evidentemente el autor tenía en mente aquí la génesis de los diagramas del Yî, el número de figuras aumentando en una progresión geométrica con la razón de 2, mientras que las líneas de las figuras forman una progresión aritmética con la diferencia común de 1. Esto es bastante claro después de que se han hecho 'las dos formas elementales ( ![](../image/book/Confucianism/The_I_Ching/line1.jpg) y ![](../image/book/Confucianism/The_I_Ching/line0.jpg))'. Dan origen a 'los cuatro símbolos emblemáticos', cada uno de dos líneas ( ![](../image/book/Confucianism/The_I_Ching/dyad11.jpg), ![](../image/book/Confucianism/The_I_Ching/dyad01.jpg), ![](../image/book/Confucianism/The_I_Ching/dyad10.jpg), ![](../image/book/Confucianism/The_I_Ching/dyad00.jpg), conocidos, en este orden, como el Gran o antiguo Yang, el joven Yin, el joven Yang y el Gran o antiguo Yin). Mediante la adición a cada uno de estos símbolos, primero de la línea yang y luego de la yin, surgen los ocho trigramas, cada uno de tres líneas y el proceso de formación podría continuar indefinidamente.
   Pero ¿cómo se dio el primer paso en la formación de las dos líneas elementales? Aquí, se dice, fueron producidas por el Thâi Kî, o el Gran Término. Esto se representa en la «Introducción de la Juventud al Estudio del Yî» de Kû Hsî mediante un círculo; pero nos dice que esa representación fue realizada por primera vez por Kâu-žze (1017-1073 d. C., también llamado Kâu Tun-î, Kâu Mâu-shû y, sobre todo, Kâu Lien-khî), y que sus lectores deben tener cuidado de no suponer que Fû-hsî tenía tal figura en mente. No logro comprender cómo puede generarse a partir de un círculo la línea indivisa y la línea quebrada. Dadas estas dos líneas, y la formación de los sesenta y cuatro hexagramas se realiza regularmente según el método descrito anteriormente, debemos partir de ellos, independientemente de si podemos explicar o no el surgimiento de la idea de ellos en la mente de Fû-hsî.
   Dejando el tema de la figura del Thâi <i>K</i>î, el nombre no nos da casi ninguna pista sobre su significado. <i>K</i>î se usa para el término extremo de cualquier cosa, como el caballete de una casa o el pináculo de una pagoda. El comentario de Wang Pî (226-249 d. C.) sobre la primera oración del párrafo es:—'La existencia debe comenzar en la no existencia, y por lo tanto el Gran Término produjo las dos Formas elementales. Thâi <i>K</i>î es la denominación de lo que no tiene denominación. Como no puede ser nombrado, el texto toma el punto extremo p. 376 de cualquier cosa que exista como un término análogo para el Thâi <i>K</i>î'. Ampliando el comentario de Wang, Khung Ying-tâ dice:—'Thâi <i>K</i>î significa la materia sutil original, que formó la masa caótica única antes de que el cielo y la tierra se dividieran;' Y luego se refiere a ciertos pasajes del Tâo Teh King de Lâo-žze, e identifica el Thâi <i>K</i>î con su Tâo. Esto parecería otorgarle al Thâi <i>K</i>î un significado material. Los filósofos posteriores de la escuela Sung, sin embargo, insisten en su inmaterialidad, llamándolo ahora lî, el principio del orden en la naturaleza, ahora tâo, el curso definido de las cosas, ahora Tî, el Poder Supremo o Dios, ahora shin, la obra espiritual de Dios. Según <i>Kh</i>ăng-žze, todos estos nombres deben referirse al «Cielo», del cual expresan tantos conceptos diferentes.
   El párrafo 71 habla de la adivinación en la práctica, y el párrafo 72 celebra el servicio que se realiza a través de la planta y la concha, como equivalente y, de hecho, complemento de todos los demás servicios prestados por el cielo y la tierra, las estaciones, el sol y la luna, los sabios y los grandes potentados. Sin duda, todo esto es muy extravagante.
-  Los dos últimos párrafos retoman el tema de la creación del Yî por los sabios y su enseñanza de la práctica de la adivinación. Ya he hablado del mapa Ho y de la escritura Lo en la introducción, páginas [14](Introduction_2#p14)\-[18](Introduction_2#p18). Pero si aceptamos la afirmación de que la escritura Lo tuvo algo que ver con la creación del Yî, debemos excluir a Fû-hsî de los sabios a quienes les debemos su creación. Fue al Gran Yü, más de mil años después que Fû-hsî, a quien el Lo reveló su escritura; y nunca se dice que Yü haya tenido algo que ver con el Yî. Tampoco se menciona ninguno de estos aspectos en la Sección ii, párrafo 11, donde se describe con más detalle la obra de Fû-hsî.
+  Los dos últimos párrafos retoman el tema de la creación del Yî por los sabios y su enseñanza de la práctica de la adivinación. Ya he hablado del mapa Ho y de la escritura Lo en la introducción, páginas [14](../Introduction_2#p14)\-[18](../Introduction_2#p18). Pero si aceptamos la afirmación de que la escritura Lo tuvo algo que ver con la creación del Yî, debemos excluir a Fû-hsî de los sabios a quienes les debemos su creación. Fue al Gran Yü, más de mil años después que Fû-hsî, a quien el Lo reveló su escritura; y nunca se dice que Yü haya tenido algo que ver con el Yî. Tampoco se menciona ninguno de estos aspectos en la Sección ii, párrafo 11, donde se describe con más detalle la obra de Fû-hsî.
 
 [^265]: 378:XII El capítulo XII, párrafos 75-81, intenta mostrar cómo tenemos en el Yî una representación de los fenómenos cambiantes de la naturaleza, una representación que las palabras o el habla no podrían transmitir.
   El párrafo 75 tiene un buen significado, considerado por sí mismo; pero no tiene conexión aparente con el resto del capítulo. <i>K</i>û Hsî consideró (pág. 379) que estaba mal ubicado en su posición actual y debería estar al final del capítulo 8. Compárese con el párrafo 14.
@@ -514,7 +514,7 @@ Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos lo
   Lo que se dice en el párrafo 10 es sorprendente e importante, y está en armonía con la corriente general de la enseñanza confuciana (como en el Gran Aprendizaje, capítulo 10, y muchos otros lugares), pero no veo su pertinencia en el lugar que ocupa actualmente en el Yî.
 
 [^267]: 385:II El Capítulo II, párrafos 11-23, trata del progreso de la civilización en China y de cómo los grandes hombres de la antigüedad que lideraron las diversas etapas de dicho progreso fueron guiados por el Yî. Solo se mencionan cinco de ellos: el primero, Fû-hsî, cuyo reinado, según el menos improbable de los relatos cronológicos, debe situarse en el siglo XXXIV a. C., mientras que el reinado de Shun (pág. 386) finalizó en el año 2203 a. C. Por lo tanto, el período abarcado por este capítulo es de aproximadamente doce siglos y medio. Sin embargo, el autor opina que los diversos descubrimientos e invenciones mencionados fueron sugeridos a sus autores por ciertos hexagramas del Yî. Sin embargo, la opinión más común es que Fû-hsî solo tenía ocho trigramas, y que su multiplicación para obtener los 64 hexagramas fue obra del rey Wăn, mil años después de Shun. Esta es la opinión de los editores del Yî imperial. Si se afirma que el propio Fû-hsî multiplicó sus trigramas y dio nombre a los hexagramas resultantes, ¿cómo pudo haber envuelto en ellos indicios de descubrimientos que no se hicieron hasta muchos siglos después de su muerte? Las afirmaciones del capítulo no pueden considerarse históricas. Provienen de otra mano, y no del propio Confucio. El escritor o compilador relata las leyendas actuales sobre los diversos inventos de su época. La creación de los trigramas se sitúa en primer lugar para honrar al Yî. El relato es diferente al del párrafo 73 de la sección anterior, y no se sabe nada del mapa Ho ni de la escritura Lo.
-  Párrafo 11. Pâo-hsî, tanto aquí como en el 13, es lo mismo que Fû-hsî. Como Pâo se escribe aquí, no tiene significado; pero otro carácter, Phâo ( ![](image/book/Confucianism/The_I_Ching/38600.jpg)), es más común, y Phâo-hsî significaría el inventor de la cocina y la gastronomía. Este fue el primer paso hacia la civilización, y fue seguido apropiadamente por la caza y la pesca —ambas con redes— en el párrafo 12.
+  Párrafo 11. Pâo-hsî, tanto aquí como en el 13, es lo mismo que Fû-hsî. Como Pâo se escribe aquí, no tiene significado; pero otro carácter, Phâo ( ![](../image/book/Confucianism/The_I_Ching/38600.jpg)), es más común, y Phâo-hsî significaría el inventor de la cocina y la gastronomía. Este fue el primer paso hacia la civilización, y fue seguido apropiadamente por la caza y la pesca —ambas con redes— en el párrafo 12.
   Los párrafos 13 y 14 celebran la obra de Shăn-năng, «el labrador maravilloso o espiritual». El arado primitivo carecía de metal. El mercado para el intercambio de mercancías, sin el uso de monedas, representó un avance importante.
   La invención de las túnicas, o del vestido, mencionada en el párrafo 15, parecería indicar que anteriormente los hombres se encontraban en un estado muy rudo. El pasaje, sin embargo, indica las cortesías y los decoros de la vida social, en los que el vestido desempeña un papel importante, y que ahora comenzaban a organizarse.
   La navegación infantil del párrafo 16 estaba tan poco en deuda con el uso del metal como la agricultura del 13.
@@ -527,7 +527,7 @@ Capítulo [^277]. 66. (El hexagrama) Khien representa al más fuerte de todos lo
   Párrafo 26. Por ejemplo, una línea indivisa puede aparecer en un lugar impar, lo cual es correcto, o en un lugar par, lo cual es incorrecto; y ocurre lo contrario con las líneas divididas. Pero ¿qué tiene esto que ver con la corrección o incorrección de los eventos adivinados?
 
 [^269]: 388:IV Capítulo IV, párrafos 28-30. De la distinción de los trigramas en Yang y Yin.
-  Los trigramas que contienen solo una línea indivisa—<i>k</i>ăn ( ![](image/book/Confucianism/The_I_Ching/tri001.jpg)), khan ( ![](image/book/Confucianism/The_I_Ching/tri010.jpg)), y kăn ( ![](image/book/Confucianism/The_I_Ching/tri100.jpg))—se llaman Yang. La línea indivisa se llama 'el señor' en ellos. Es exactamente lo opuesto con los trigramas Yin, en los que hay dos líneas indivisas y una dividida: sun ( ![](image/book/Confucianism/The_I_Ching/tri110.jpg)), lî ( ![](image/book/Confucianism/The_I_Ching/tri101.jpg)) y tui ( ![](image/book/Confucianism/The_I_Ching/tri011.jpg)). Estos juntos constituyen los 'seis hijos', o 'tres hijos' y 'tres hijas' en la disposición posterior de los trigramas, atribuidos al rey Wăn.
+  Los trigramas que contienen solo una línea indivisa—<i>k</i>ăn ( ![](../image/book/Confucianism/The_I_Ching/tri001.jpg)), khan ( ![](../image/book/Confucianism/The_I_Ching/tri010.jpg)), y kăn ( ![](../image/book/Confucianism/The_I_Ching/tri100.jpg))—se llaman Yang. La línea indivisa se llama 'el señor' en ellos. Es exactamente lo opuesto con los trigramas Yin, en los que hay dos líneas indivisas y una dividida: sun ( ![](../image/book/Confucianism/The_I_Ching/tri110.jpg)), lî ( ![](../image/book/Confucianism/The_I_Ching/tri101.jpg)) y tui ( ![](../image/book/Confucianism/The_I_Ching/tri011.jpg)). Estos juntos constituyen los 'seis hijos', o 'tres hijos' y 'tres hijas' en la disposición posterior de los trigramas, atribuidos al rey Wăn.
   Párrafo 29. Cada parte de la línea dividida cuenta como una, por lo tanto, un trigrama yang cuenta como 1 + 2 + 2 = 5 trazos, cuatro de los cuales son yin, mientras que un trigrama yin cuenta como 2 + 1 + 1 = 4, de los cuales solo dos son yang. Pero esto es una nimiedad.
   En la explicación del párrafo 30 se dice que «en los trigramas yang tenemos dos (o más) sujetos que sirven a un gobernante, y en los yin un sujeto que sirve a dos gobernantes, y dos gobernantes que luchan juntos por la lealtad a un Sujeto». Esto es ingenioso, pero fantasioso; ya que, de hecho, esta distinción de los trigramas en una clase yang y una yin es un mero juego de la imaginación.
 

@@ -32,9 +32,9 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-<span id="p319">[<sup><small>pág. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
-[1](Libro_4_10#fn523)
+[1](../Libro_4_10#fn523)
 
 
 ## CANTO I.: EL LAMENTO DE RAMA.
@@ -123,7 +123,7 @@ Con el murmullo asustado de las abejas silvestres.
 Tus ojos se vuelven hacia allá Cassias [^527]
 Cuyos gloriosos racimos brillan y arden.
 
-<span id="p320">[<sup><small>pág. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Esos árboles de túnicas amarillas contemplan,
 Como gigantes adornados con oro bruñido.
@@ -213,7 +213,7 @@ En criaturas de especie inferior.
 Mira cómo la pava se gira para encontrarse
 Su consorte ahora con los pies atraídos por el amor.
 
-<span id="p321">[<sup><small>pág. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 Entonces, Lakshman, si mi querido de ojos grandes,
 El hijo de Janak todavía estaba aquí,
@@ -315,7 +315,7 @@ Brillan con las gotas que cuelgan de ellos.
 La vida ya no tiene placeres para mí
 Aunque no pueda ver a mi querida reina,
 
-<span id="p322">[<sup><small>pág. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ¿Quién amó tanto esas flores que compiten?
 Con todo el esplendor de su mirada,
@@ -415,7 +415,7 @@ Despierta pensamientos de angustia en mi pecho.
 Contempla ese arroyo cubierto de lotos
 Cuyas aguas corren tan frescas y frías,
 
-<span id="p323">[<sup><small>pág. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 Dulce arroyo, el lugar predilecto de las aves acuáticas,
 Donde retozan el zarapito, el cisne y el colimbo;
@@ -534,7 +534,7 @@ Luego prosiguió su viaje.
 El héroe en su tarea intenta,
 Ni pensé en el hermoso arroyo de Pampá,
 
-<span id="p324">[<sup><small>pág. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 O árboles que las brisas murmurantes sacudían,
 Aunque sus miradas se posaron en bosques oscuros,
@@ -551,7 +551,7 @@ Le mostró al hijo de Raghu lo que exigía el deber,
 Y le pidió a su corazón que fuera valiente.
 Luego, mientras los hermanos caminaban a paso rápido,
 A la altura de Rishyamúka,
-El soberano de la raza Vánar [1](Libro_4_10#fn537)
+El soberano de la raza Vánar [1](../Libro_4_10#fn537)
 Se turbó al verlo.
 Mientras en la alta colina se extraviaba
 Vió a los jefes acercarse:
@@ -565,7 +565,7 @@ Cuando en su glorioso poder los mejores
 De los jefes reales se acercaron,
 Los Vánars en su salvaje inquietud
 Preparado para girar y volar.
-Buscaron el hogar sagrado del ermitaño [2](Libro_4_10#fn538)
+Buscaron el hogar sagrado del ermitaño [2](../Libro_4_10#fn538)
 Por la paz y la felicidad ordenadas,
 Y allí, donde a los Vánars les encantaba vagar.
 Un asilo seguro ganado.
@@ -638,7 +638,7 @@ Entonces no temas, señor de la raza Vánar.
 ¡Ay, en ti encuentro claramente
 La debilidad de la especie Vánar,
 
-<span id="p325">[<sup><small>pág. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 Que ama de pensamiento en pensamiento hasta el alcance,
 No arregles tus creencias y da la bienvenida al cambio.
@@ -732,7 +732,7 @@ Es glorioso con la luz que traes.
 ¿Cómo habéis llegado, como dioses en el rostro,
 Mejores señores de la tierra, este lugar solitario,
 
-<span id="p326">[<sup><small>pág. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Con trenzas enrolladas como un ermitaño, [^545]
 ¿Y los esplendores de esos ojos de loto?
@@ -840,7 +840,7 @@ Y todo su corazón se llenó de alegría.
 Y esperar que la alianza con ellos les traiga
 Reparación y triunfo para su rey.
 
-<span id="p327">[<sup><small>pág. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 
 
@@ -932,7 +932,7 @@ Debería siempre salvar y prosperar a todos.
 Ahora quiere ganar la gracia de Sugriva.
 Ha buscado su morada en el bosque.
 
-<span id="p328">[<sup><small>pág. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Hijo de un rey de gloriosa fama;
 ¿Quién no sabe el nombre de Das'aratha?
@@ -1044,7 +1044,7 @@ Entonces, madera con madera engendrando, [^555] vino
 Bajo sus hábiles manos la llama encendida.
 Entre los jefes que disparan colocó
 
-<span id="p329">[<sup><small>pág. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Con coronas de flores y adoración adornada.
 Y alrededor de su gloria resplandeciente se extendía
@@ -1114,9 +1114,9 @@ Que nunca más su rencor mortal
 Puede que me roben mi antiguo derecho,
 O afligir mi alma con dolor.
 Se formó una liga, una liga para traer
-A los demonios de Sítá y al rey Vánar [1b](Libro_4_10#fn557)
+A los demonios de Sítá y al rey Vánar [1b](../Libro_4_10#fn557)
 Felicidad y sufrimiento repartidos.
-A través de su ojo izquierdo se dispararon rápidas palpitaciones, [2b](Libro_4_10#fn558)
+A través de su ojo izquierdo se dispararon rápidas palpitaciones, [2b](../Libro_4_10#fn558)
 Señales alegres, la dama no dudó,
 Eso contó su historia esperanzadora.
 El brillante ojo izquierdo de Báli se sintió
@@ -1147,7 +1147,7 @@ El dolor de un gemido solitario.
 Pero pronto, querido Príncipe, tu corazón estará...
 Libre de todo rastro de dolor;
 
-<span id="p330">[<sup><small>pág. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Porque yo restauraré a tu amado,
 Perdido como el premio de la santa ciencia. [^559]
@@ -1239,7 +1239,7 @@ La morada de mi enemigo.
 Y él, bajo esta mano, hoy
 A los salones de Yama iremos.'
 
-<span id="p331">[<sup><small>pág. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 
 
@@ -1360,7 +1360,7 @@ Su constancia y amor perduran.
 Oro, plata, joyas ricas y raras.
 Cuentan como riqueza para compartir entre amigos.
 
-<span id="p332">[<sup><small>pág. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Sí, sean ricos o pobres y humildes,
 Bendecido con todas las alegrías o hundido en la tristeza,
@@ -1474,7 +1474,7 @@ Sus pasos dondequiera que él quiera ir,
 Sólo por ellos, en el trabajo y el dolor,
 Mi miserable vida aún sostengo.
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Basta, pues has oído brevemente
 La historia de mi dolor y pena.
@@ -1586,7 +1586,7 @@ Pero ellos, una vez conocido el cuento,
 Me colocó como rey en el trono de Báli.
 Allí reiné con justicia por un tiempo.
 
-<span id="p334">[<sup><small>pág. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Y todos ordenados con igual cuidado,
 Cuando me alegro del demonio asesinado
@@ -1705,7 +1705,7 @@ A la boca enrejada llegué tristemente,
 Y llamó en voz alta el nombre de Sugríva.
 Pero todo estaba en silencio: ninguna voz respondió.
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Y la esperanza en mi pecho murió.
 Con furiosos esfuerzos, vanos al principio,
@@ -1804,7 +1804,7 @@ Y así contó su maravillosa historia:
 
 [^534]: 322:1 Butea Frondosa. Árbol que produce una profusión de flores rojas brillantes que aparecen antes que las hojas.
   Omito cinco s'lokas que contienen únicamente una lista de árboles para los cuales, con una o dos excepciones, no existen nombres equivalentes en inglés. A continuación, la traducción de Gorresio del pasaje correspondiente en la recensión bengalí:
-  “¡Oh, cómo brillan en esta primavera las vides, las galed upas, las bassias, las dalbergias, las diospyri … las tile, las michelias, las rott\*lerias, las pentapteras y las pterospermas, las bombaxes, las grisleas, los abris, los amarantos y las dalbergias; “Los sirii, los galedupe, los barringtonia y los palmizos, los xanthoeymi, los pepebetel, los verbosine y los ticaie, los nauclee, los erythrine, los asochi y los tapia exhiben sus flores por todas partes”.
+  «¡Oh, cómo brillan en esta primavera las vides, las galed upas, las bassias, las dalbergias, las diospyri … las tile, las michelias, las rott\*lerias, las pentapteras y las pterospermas, las bombaxes, las grisleas, los abris, los amarantos y las dalbergias; “Los sirii, los galedupe, los barringtonia y los palmizos, los xanthoeymi, los pepebetel, los verbosine y los ticaie, los nauclee, los erythrine, los asochi y los tapia exhiben sus flores por todas partes».
 
 [^535]: 322:1b Un arroyo sagrado mencionado a menudo en el transcurso del poema, véase Libro II. Cauto XCV.
 
@@ -1826,7 +1826,7 @@ Y así contó su maravillosa historia:
   Como los ángeles buenos y malos de Milton
   “como les plazca
   Tienen extremidades, y color, forma o tamaño.
-  “Supóngase que le gustan más, coudenses o raras”.
+  «Supóngase que le gustan más, coudenses o raras».
 
 [^544]: 325:2b El Himalaya es por supuesto _por excelencia_ el Monarca de las montañas, pero el título complementario se da con frecuencia a otras colinas, como aquí a Malasia.
 
@@ -1880,7 +1880,7 @@ Y así contó su maravillosa historia:
   Donde las cañas ondean sobre el césped sagrado.
   Véase también Libro I. Canto XXIX. _Meghadúta_
 
-[^563]: 333:1 “La historia de Sugríva pinta con vivos colores las costumbres y las ideas de las tribus salvajes de las montañas que habitaban Kishkindhya o las colinas del sur del Deccan, de la gente a la que el poema llama monos, tribus completamente diferentes en origen y civilización de la raza indo-sánscrita”. Gorresio.
+[^563]: 333:1 «La historia de Sugríva pinta con vivos colores las costumbres y las ideas de las tribus salvajes de las montañas que habitaban Kishkindhya o las colinas del sur del Deccan, de la gente a la que el poema llama monos, tribus completamente diferentes en origen y civilización de la raza indo-sánscrita». Gorresio.
 
 [^564]: 333:2 Un demonio asesinado por Balí.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Como la noche ya estaba muy avanzada, el mensajero real permitió que sus caballos descansaran un poco en el Vihâra y partió con Charaka a primera hora de la mañana siguiente. Sin embargo, los dos viajeros no pudieron avanzar con rapidez, pues el ambiente era turbio y la niebla de la estación lluviosa oscurecía el camino. Pasaron junto a un grupo de soldados de Gandhâra que vigilaban a los montañeses hostiles. El mensajero montado les mostró su pasaporte, y los dos hombres llegaron a la capital solo cuando las sombras del atardecer se posaban sobre el valle. Las puertas estaban cuidadosamente custodiadas por hombres armados. El centinela condujo a los dos jinetes hasta el oficial de la puerta, quien pareció satisfecho con el informe de que Charaka no había encontrado enemigos en ninguna parte; Pero las noticias que llegaban a casa eran muy malas, pues uno de los príncipes había muerto y se creía que Chandana (comúnmente <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> llamado Kanishka), el tercer y más joven hijo del rey, estaba gravemente enfermo.
 

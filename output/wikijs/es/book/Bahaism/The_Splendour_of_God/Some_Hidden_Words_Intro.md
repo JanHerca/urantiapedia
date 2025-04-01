@@ -32,9 +32,9 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
-[1](Algunas_Palabras_Ocultas_1#fn7)
+[1](../Algunas_Palabras_Ocultas_1#fn7)
 
 ¡Él es la Gloria del Más Glorioso!
 

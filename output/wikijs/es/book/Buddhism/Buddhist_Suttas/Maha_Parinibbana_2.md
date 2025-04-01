@@ -32,11 +32,11 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 ## EL LIBRO DEL GRAN MUERTE. MAHÁ-PARINIBBÁNA-SUTTA. CAPÍTULO II.
 
-Ahora el Bendito se dirigió al venerable Ânanda y le dijo: “Ven, Ânanda, sigamos hacia Ko<i>t</i>igâma”.
+Ahora el Bendito se dirigió al venerable Ânanda y le dijo: «Ven, Ânanda, sigamos hacia Ko<i>t</i>igâma».
 
 «¡Que así sea, Señor!», dijo Ânanda, en señal de asentimiento, al Bendito.
 
@@ -50,7 +50,7 @@ La noble verdad sobre el dolor; la noble verdad sobre la causa del dolor; la nob
 
 3\. Así habló el Bendito; y cuando el Bendito hubo hablado así, entonces el Maestro volvió a decir:
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 'Al no ver las Cuatro Nobles Verdades como realmente son,  
 Largo es el camino que se recorre a través de muchos nacimientos;  
@@ -69,7 +69,7 @@ La raíz del dolor ha sido arrancada y ya no hay más nacimiento.
 
 Y el Bendito procedió a las aldeas de Nâdika con una gran compañía de hermanos; y allí, en Nâdika, el Bendito se quedó en el Salón de Ladrillos[^2].
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 6\. El venerable Ânanda se acercó al Bendito, le rindió reverencia y se sentó a su lado. Una vez sentado, se dirigió al Bendito y dijo: «El hermano llamado Sâ<i>lh</i>a ha muerto en Nâdika, Señor. ¿Dónde ha renacido y cuál es su destino? La hermana llamada Nandâ ha muerto, Señor, en Nâdika. ¿Dónde ha renacido y cuál es su destino?». Y con la misma franqueza, preguntó por la devota Sudatta, la devota Su<i>g</i>âtâ, la devota Kakudha, Kâlinga, Nika<i>t</i>a, Ka<i>t</i>issabha, Tu<i>tth</i>a, Santu<i>tth</i>a, Bhadda y Subhadda.
 
@@ -103,9 +103,9 @@ Luego el Bendito procedió, con una gran compañía de hermanos, a Vesâli; y al
 
 'Él actúa, oh mendicantes, con plena presencia de ánimo en todo lo que hace, al salir y al entrar, al mirar y observar, al doblar su brazo o extenderlo, al vestir sus vestiduras o llevar su cuenco, al comer y beber, al consumir o saborear, al caminar, al estar de pie o sentado, al dormir o al despertar, al hablar y al estar en silencio.
 
-“Así pues, hermano, oh mendicantes, sea atento y reflexivo; ésta es nuestra instrucción para vosotros[^5]”.
+«Así pues, hermano, oh mendicantes, sea atento y reflexivo; ésta es nuestra instrucción para vosotros[^5]».
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 16\. [^6] La cortesana Ambapâli oyó que el Bendito había llegado a Vesâli y se alojaba en su huerto de mangos. Ordenó que prepararan varios magníficos vehículos, montó en uno y se dirigió con su séquito hacia su jardín. Fue en el carruaje hasta donde el terreno era transitable; allí se apeó; y se dirigió a pie hasta donde se encontraba el Bendito, y se sentó respetuosamente a un lado. Y cuando estuvo así sentada, el Bendito la instruyó, la animó, la incitó y la alegró con un discurso religioso.
 
@@ -115,7 +115,7 @@ Luego el Bendito procedió, con una gran compañía de hermanos, a Vesâli; y al
 
 Y el Bendito dio su consentimiento en silencio. Entonces, cuando Ambapâli, la cortesana, vio que el Bendito había consentido, se levantó de su asiento y se inclinó ante él. Y, manteniéndolo a su derecha al pasar junto a él, se marchó.
 
-<span id="p31">[<sup><small>pág. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 8\. Los Likkhavis de Vesâli oyeron que el Bendito había llegado a Vesâli y se alojaba en el bosque de Ambapâli. Ordenaron que prepararan varios carruajes magníficos, subieron a uno y partieron con su séquito hacia Vesâli. Algunos eran morenos, de tez oscura, y vestían ropas y adornos oscuros; otros eran rubios, de tez clara, y vestían ropas y adornos claros; algunos eran rojos, de tez rojiza, y vestían ropas y adornos rojos; otros eran blancos, de tez pálida, y vestían ropas y adornos blancos.
 
@@ -127,7 +127,7 @@ Y el Bendito dio su consentimiento en silencio. Entonces, cuando Ambapâli, la c
 
 'Señores, si me ofrecierais todo Vesâli con su territorio subordinado, no renunciaría a un banquete tan honorable.'
 
-Entonces los Likkhavis levantaron las manos[^8], exclamando: “¡Esta muchacha del mango nos supera! ¡Esta muchacha del mango nos supera[^9]!” y continuaron hacia el bosque de Ambapâli.
+Entonces los Likkhavis levantaron las manos[^8], exclamando: «¡Esta muchacha del mango nos supera! ¡Esta muchacha del mango nos supera[^9]!» y continuaron hacia el bosque de Ambapâli.
 
 20\. Cuando el Bendito vio a los Likkhavis <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> acercándose a lo lejos, se dirigió a los hermanos y dijo:
 
@@ -139,7 +139,7 @@ Entonces los Likkhavis levantaron las manos[^8], exclamando: “¡Esta muchacha 
 
 «Oh, Li<i>kkh</i>avis, he prometido cenar mañana con Ambapâli, la cortesana», fue la respuesta.
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Entonces los Likkhavis alzaron las manos, exclamando: «¡Esta chica del mango nos supera! ¡Esta chica del mango nos supera!». Y, expresando su agradecimiento y aprobación por las palabras del Bendito, se levantaron de sus asientos y se inclinaron ante él. Lo mantuvieron a su derecha al pasar junto a él y se marcharon.
 
@@ -149,7 +149,7 @@ Y el Bendito se vistió temprano por la mañana, tomó su cuenco y fue con los h
 
 24\. Y cuando el Bendito terminó de comer, la cortesana hizo traer un taburete bajo, se sentó a su lado y se dirigió al Bendito diciendo: «Señor, presento esta mansión a la orden de los mendicantes, de la cual Buda es el jefe». El Bendito aceptó el obsequio; y tras instruirla, animarla, animarla y alegrarla con un discurso religioso, se levantó de su asiento y partió de allí.
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. Mientras estaba en el bosque de mangos de Ambapâli, el Bendito mantuvo con los discípulos aquel amplio discurso religioso sobre la naturaleza de la conducta recta, de la contemplación sincera y de la inteligencia.
 
@@ -167,7 +167,7 @@ Luego el Bendito procedió, con una gran compañía de hermanos, a Beluva, y all
 
 27\. Entonces el Bendito se dirigió a los hermanos y dijo: «Oh, mendigos, alojáos en los alrededores de Vesâli, cada uno según el lugar donde vivan sus amigos, íntimos y compañeros cercanos, para la temporada de lluvias de vassa. Yo entraré en la temporada de lluvias aquí en Beluva».
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 —¡Así sea, Señor! —dijeron aquellos hermanos, asintiendo, al Bendito. Y entraron en la estación lluviosa en los alrededores de Vesali, cada uno según el lugar donde vivían sus amigos, íntimos o compañeros cercanos; mientras tanto, el Bendito permaneció incluso allí, en Beluva.
 
@@ -244,7 +244,7 @@ Fin de la Segunda Porción para Recitación.
 
 [^11]: El Mâlâlankâra-vatthu relata la esencia del discurso en esta ocasión. «Los príncipes habían llegado con sus mejores y más suntuosos atuendos; en su apariencia rivalizaban en belleza con los nats (o ángeles). Pero previendo la ruina y la miseria que pronto les sobrevendría a todos, el Buda exhortó a sus discípulos a despreciar por completo las cosas que deslumbran a la vista, pero que son esencialmente perecederas e irreales por naturaleza». —Bigandet, 2.ª ed., pág. 260.
 
-[^12]: El obispo Bigandet dice: 'Al registrar la conversión de una cortesana llamada Apapalika, su liberalidad y sus regalos a Budha y sus discípulos, y la preferencia que se le dio deliberadamente sobre los príncipes y nobles, quienes, humanamente hablando, parecían en todos los aspectos más merecedores de atenciones, uno casi recuerda {nota pág. 34} la conversión de “una mujer que era pecadora”, mencionada en los Evangelios' (Leyenda del Budha birmano, 2.ª ed. pág. 258).
+[^12]: El obispo Bigandet dice: 'Al registrar la conversión de una cortesana llamada Apapalika, su liberalidad y sus regalos a Budha y sus discípulos, y la preferencia que se le dio deliberadamente sobre los príncipes y nobles, quienes, humanamente hablando, parecían en todos los aspectos más merecedores de atenciones, uno casi recuerda {nota pág. 34} la conversión de «una mujer que era pecadora», mencionada en los Evangelios' (Leyenda del Budha birmano, 2.ª ed. pág. 258).
 
 [^13]: Beluva-gâmako ti Vesâli-samîpe pâda-gâmako, 'un pueblo en una ladera al pie de una colina cerca de Vesâli', dice Buddhaghosa. (SV <i>t</i>au.)
 

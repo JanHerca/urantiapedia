@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 800 a 900 d. C.
 
@@ -68,13 +68,13 @@ Las obras artísticas de la época están llenas de este intenso fervor y cercan
 
 Uno de los mejores ejemplos de la escultura de este período es el Buda Yakshi, el Gran Sanador, tallado bajo las órdenes de Kukai, que se conserva en el templo Zhingoji, cerca de Kioto. Otro, el Kwannon de once cabezas de Toganji en Omi, se atribuye a Saicho, el gran rival de Kukai. También cabe mencionar el Kwannon Nioirin de Kansinji y el elegante Kwannon de Hokkiji en Nara.
 
-<span id="p139">[<sup><small>pág. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 En pintura, los doce devas de Kukai, conservados actualmente en Saidaiji en Nara, junto con el Riokaimandara de Senjuin, de la misma provincia, son los ejemplos más destacados de la fuerte pincelada de este período.
 
 El arte Heian es, por lo tanto, sinónimo de una obra vigorosa y vital, por su concreción. Está lleno de cierto vigor y seguridad. Pero no es libre, carente de la espontaneidad y el desapego propios del gran idealismo. Al mismo tiempo, representa una etapa esencial en la apropiación de las concepciones budistas. Hasta entonces, se las ha considerado y tratado como algo ajeno al propio creyente. Ahora, en su dinamización, aunque algo trivial, de la conciencia Heian, esta separación se pierde, y la era posterior muestra su absorción y reexpresión en la vida nacional como emoción.
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## NOTAS
 

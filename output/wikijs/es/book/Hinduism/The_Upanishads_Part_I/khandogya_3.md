@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>pág. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
@@ -46,7 +46,7 @@ TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
 4\. Esa (esencia) fluyó y se dirigió hacia el sol [^162]. Y eso forma lo que llamamos la luz roja (rohita) del sol naciente.
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -83,7 +83,7 @@ TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
 
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
 
@@ -135,7 +135,7 @@ TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
 4\. Mientras el sol sale por el norte y se pone por el sur, el doble de tiempo sale por arriba y se pone por abajo; y mientras tanto sigue el poder soberano de los Sâdhyas [^166].
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## UNDÉCIMO KHAND.
 
@@ -199,7 +199,7 @@ Ahora bien, el hombre es una criatura de voluntad. Según sea su voluntad en est
 
 4\. Aquel de quien proceden todas las obras, todos los deseos, todos los dulces olores y sabores, quien todo esto abarca, quien nunca habla y quien nunca se sorprende, él, mi ser en el corazón, es ese Brahman (n.). Cuando me haya ido de aquí, lo alcanzaré (ese Ser). Quien tiene esta fe [^180] no duda; así dijo <i>S</i>â<i>n</i><i>d</i>ilya [^181], sí, así dijo.
 
-<span id="p49">[<sup><small>pág. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## DECIMOQUINTO KHAN D [^182].
 
@@ -243,7 +243,7 @@ Ahora bien, el hombre es una criatura de voluntad. Según sea su voluntad en est
 
 5\. Por lo tanto, cuando dicen: «Habrá un nacimiento», y «ha habido un nacimiento» (palabras utilizadas en el sacrificio de Soma, que en realidad significan: «Él derramará el jugo de Soma», y «ha derramado el jugo de Soma»), ese es su nuevo nacimiento. Su muerte es la ceremonia de Avabhritha (cuando se llevan los vasos sacrificiales para su purificación).
 
-6\. Ghora Âṅgirasa, tras haber comunicado esta (visión del sacrificio) a K<i>ri</i>sh<i>n</i>a, el hijo de Devăkî [^187]\ —y nunca más anheló (otro conocimiento)— dijo: «Que un hombre, cuando se acerca su fin, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> se refugie en esta Tríada [^188]: “Tú eres lo imperecedero”, “Tú eres lo inmutable”, “Tú eres el límite de Prâ<i>n</i>a”». Sobre este tema hay dos versos del <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30):
+6\. Ghora Âṅgirasa, tras haber comunicado esta (visión del sacrificio) a K<i>ri</i>sh<i>n</i>a, el hijo de Devăkî [^187]\ —y nunca más anheló (otro conocimiento)— dijo: «Que un hombre, cuando se acerca su fin, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> se refugie en esta Tríada [^188]: «Tú eres lo imperecedero», «Tú eres lo inmutable», «Tú eres el límite de Prâ<i>n</i>a»». Sobre este tema hay dos versos del <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30):
 
 7\. «Entonces ven (dentro de sí mismos) la luz omnipresente de la semilla ancestral (del mundo, Sat), la suprema, que se ilumina en el brillante (Brahman)». Rig-veda I, 50, 10:
 

@@ -59,7 +59,7 @@ El rey Wăn dijo: «¡Ay! ¡Ay!, tú (soberano de) Yin-shang, no es Dios quien h
 El rey Wăn dijo: «¡Ay! ¡Ay!, tú (soberano de) Shang, la gente tiene un dicho: «Cuando un árbol cae por completo, mientras sus ramas y hojas aún están intactas, primero debe haber sido arrancado de raíz». El faro de Yin no está lejos; está en la era del (último) soberano de Hsiâ.»
 
 
-<span id="p413">[<sup><small>pág. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -83,7 +83,7 @@ No hables a la ligera; tus palabras son tuyas [^560]. No digas: «Esto es de poc
 
 Visto en tu trato amistoso con hombres superiores, tu semblante se vuelve armonioso y apacible; ansioso por no hacer nada malo. Visto en tu habitación, deberías estar igualmente libre de vergüenza ante la luz que brilla en ti. No digas: «Este lugar no es público; nadie puede verme aquí». La llegada de los seres espirituales no puede preverse de antemano; pero con mayor razón no deben ser menospreciados [^561].
 
-<span id="p416">[<sup><small>pág. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 Oh príncipe, que tu práctica de la virtud sea completamente buena y admirable. Vigila bien tu comportamiento y no permitas nada malo en tu comportamiento. Sin excederte ni hacer daño, pocos son los que no te tomarán como ejemplo. Cuando alguien me lanza un melocotón, le devuelvo una ciruela [^562]. Buscar cuernos en un carnero joven solo te cansará, hijo mío [^563].
 
@@ -151,7 +151,7 @@ El jefe de Shăn es un hombre muy activo, y el rey lo emplearía para continuar 
 
 De los servicios del jefe de Shăn La fundación fue puesta por el conde de Shâo, quien primero construyó las murallas (de su ciudad), y luego completó su templo ancestral [^586]. Cuando el templo estuvo terminado, amplio y grandioso, el rey confirió al jefe de Shâo cuatro nobles corceles, con ganchos para los arreos de los petos, resplandecientes [^587].
 
-<span id="p425">[<sup><small>pág. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 <a id="o6"></a>
 
@@ -176,7 +176,7 @@ Majestuosa es la montaña de Liang, que Yü hizo cultivable. Brillante es el cam
 Al abandonar la corte, el marqués de Han ofreció un sacrificio al espíritu del camino. Salió y pasó la noche en Tû.
 
 
-<span id="p427">[<sup><small>pág. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -288,7 +288,7 @@ El cielo envía su red de crimen; insectos devoradores que cansan y confunden la
 
 [^596]: 421:1 Equivalente a la extinción de la dinastía.
 
-[^597]: 421:2 El rey había ofrecido sacrificios a todos los antiguos señores de Kâu. «Los numerosos duques» podría incluir a los reyes Thâi y Kî. También había ofrecido sacrificios a sus ministros. Compárese lo que dice Pan-kăng en el Shû, [p. 109](Shu_King_Part4_7#p109), sobre sus predecesores y sus ministros. Algunos consideran «los numerosos duques y ministros» a todos los príncipes de estados que se habían distinguido por sus servicios al pueblo y al reino.
+[^597]: 421:2 El rey había ofrecido sacrificios a todos los antiguos señores de Kâu. «Los numerosos duques» podría incluir a los reyes Thâi y Kî. También había ofrecido sacrificios a sus ministros. Compárese lo que dice Pan-kăng en el Shû, [p. 109](../Shu_King_Part4_7#p109), sobre sus predecesores y sus ministros. Algunos consideran «los numerosos duques y ministros» a todos los príncipes de estados que se habían distinguido por sus servicios al pueblo y al reino.
 
 [^598]: 421:3 El rey difícilmente podía esperar que su padre, el opresivo Lî, en su estado de ánimo, le brindara ayuda alguna; pero basta con encontrar en sus palabras la expresión de un sentimiento natural. Probablemente fue la consideración del carácter de Lî lo que ha llevado a algunos críticos a entender por «padres» y «antepasados» a los mismos individuos, a saber, los reyes Wăn y Wû, «los antepasados» de Hsüan, quienes en realidad habían sido «los padres» del pueblo.
 
@@ -298,9 +298,9 @@ El cielo envía su red de crimen; insectos devoradores que cansan y confunden la
 
 [^601]: 422:2 Este era el sacrificio fronterizo a Dios, cuando Hâu-_k_î se asociaba con él. Algunos críticos añaden un sacrificio en el primer mes de invierno, para bendecir el año siguiente, ofrecido a «los venerados del cielo»: el sol, la luna y las constelaciones zodiacales.
 
-[^602]: 422:3 Véase la nota 2 en la [p. 371](Shih_King_Part2_4#p371).
+[^602]: 422:3 Véase la nota 2 en la [p. 371](../Shih_King_Part2_4#p371).
 
-[^603]: 422:4 Véase la nota 1 en la [p. 356](Shih_King_Part2_2#p356).
+[^603]: 422:4 Véase la nota 1 en la [p. 356](../Shih_King_Part2_2#p356).
 
 [^604]: 423:1 Shăn era un pequeño marquesado, parte del actual departamento de Nan-yang, Ho-nan. Fû, también llamado Lü, era otro pequeño territorio, no lejos de Shan. Los príncipes de ambos eran Kiangs, descendientes del ministro principal de Yâo, llamado en el primer Libro del Shû, «las Cuatro Montañas». Otros estados fueron gobernados por sus descendientes, en particular el gran estado de Khî. Cuando se dice aquí que un espíritu descendió de las grandes montañas y produjo el nacimiento de (los príncipes de) Fû y Shăn, probablemente nos encontramos con una tradición legendaria sobre el nacimiento del ministro de Yâo, que era común entre todos sus descendientes. y con el que podemos comparar las leyendas que han llegado a nuestro conocimiento sobre los nacimientos sobrenaturales de los antepasados ​​de los fundadores de las Casas Shang y Kâu. El carácter de «montañas» en la pág. 424, en las líneas 1 y 3, es el mismo que aparece en el título del ministro de Yâo. Sobre la afirmación de que las montañas envían un espíritu, Hwang Hsün, crítico de la dinastía Sung, afirma que es simplemente una personificación del poeta, para demostrar cómo el Cielo quiso revivir la fortuna de Kâu, y que no debemos preocuparnos por si existió tal espíritu o no.
 
@@ -314,11 +314,11 @@ El cielo envía su red de crimen; insectos devoradores que cansan y confunden la
 
 [^609]: 425:2 La conexión entre estas cuatro líneas y las anteriores es la siguiente: si bien el Cielo produce a todos los hombres con la bondad allí descrita, en ocasiones produce a otros con virtud y poderes excepcionales. Tal fue el caso del rey Hsüan, y por lo tanto, para demostrar su agradecimiento y por su ayuda, ahora produjo al rey Shan-fû.
 
-[^610]: 425:3 Este era un sacrificio especial al comienzo de un viaje o expedición. Véase la nota 2 en la [pág. 399](Shih_King_Part3_2#p399).
+[^610]: 425:3 Este era un sacrificio especial al comienzo de un viaje o expedición. Véase la nota 2 en la [pág. 399](../Shih_King_Part3_2#p399).
 
-[^611]: 427:1 Véase la nota 2 en la [p. 386](Shih_King_Part3_1#p386).
+[^611]: 427:1 Véase la nota 2 en la [p. 386](../Shih_King_Part3_1#p386).
 
-[^612]: 427:2 El conde utilizaba la copa y los licores al realizar sacrificios en su templo ancestral. Compárese el obsequio similar del rey Khăng al duque de Kâu, en el Shû, [p. 194](Shu_King_Part5_13#p194). Se especifican inmediatamente obsequios más sustanciales.
+[^612]: 427:2 El conde utilizaba la copa y los licores al realizar sacrificios en su templo ancestral. Compárese el obsequio similar del rey Khăng al duque de Kâu, en el Shû, [p. 194](../Shu_King_Part5_13#p194). Se especifican inmediatamente obsequios más sustanciales.
 
 [^613]: 427:3 Se entiende que «El Realizado» es el rey Wăn (= «el Rey Realizado»). Fue el fundador de la dinastía Kâu. El reino le llegó por designación y don del Cielo. Por lo tanto, era deber de sus sucesores, al conceder territorios a oficiales meritorios, anunciarlos en Khî-_kâu, el antiguo territorio de la familia, y obtener, por así decirlo, su permiso para lo que estaban haciendo.
 

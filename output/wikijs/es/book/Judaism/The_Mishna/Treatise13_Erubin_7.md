@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Si se ha colocado una tabla de cuatro palmos de ancho a través de la zanja, y de igual manera, si se han conectado dos balcones salientes mediante dicha tabla o tabla, los ocupantes pueden preparar dos erubines o, si lo prefieren, pueden unirlos en uno; pero si la tabla o tabla es menos ancha que estos cuatro palmos, cada uno debe preparar un erubine separado, y no unirlos en uno.
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 § 5. Si entre dos patios hay un almiar de diez palmos de altura, los ocupantes deben preparar dos erubines separados, y no pueden unirlos en uno. El ganado puede alimentarse de ellos desde cada lado; y cuando el almiar baje de diez palmos, deben unirlos en un solo erubine, y no preparar dos.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 1\. Existe en el cabello blanco lo que no está en la extensión, y existe en la extensión lo que no está en el cabello blanco, porque el cabello blanco contamina desde el principio, y contamina con cualquier color blanquecino, y no hay rastro de purificación en él. Existe en la extensión, que contamina, por pequeño que sea, y contamina con toda lepra externa a (la fuente) de la lepra, lo cual no ocurre con el cabello blanco.
 

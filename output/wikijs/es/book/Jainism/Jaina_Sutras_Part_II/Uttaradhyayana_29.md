@@ -33,7 +33,7 @@ dateCreated: 2025-1-12T19:57:49Z
 </figure>
 
 
-<span id="p158">[<sup><small>pág. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 VIGÉSIMA NOVENA CONFERENCIA. EL ESFUERZO EN LA JUSTICIA.
 
@@ -315,7 +315,7 @@ Cumpliendo todas las virtudes se asegura de no nacer de nuevo; con ello quedará
 
 73\. Luego, tras liberarse por todos los medios de sus cuerpos audârika, kârma<i>n</i>a (y tai<i>g</i>asa), el alma adopta la forma de una línea recta, asciende en un instante, sin tocar nada ni ocupar espacio, (hacia el Akâ<i>s</i>a supremo), y allí se desarrolla en su forma natural, alcanza la perfección, la iluminación, la liberación y la beatitud final, y pone fin a toda miseria. (73)
 
-Éste es, en efecto, el tema de la conferencia llamada “Esfuerzo en la rectitud”, que el Venerable Asceta Mahâvîra ha dicho, declarado, explicado y demostrado. (74)
+Éste es, en efecto, el tema de la conferencia llamada «Esfuerzo en la rectitud», que el Venerable Asceta Mahâvîra ha dicho, declarado, explicado y demostrado. (74)
 
 Así lo digo.
 
@@ -356,7 +356,7 @@ Así lo digo.
 
 [^425]: 162:2 Atyâsâtana.
 
-[^426]: 162:3 Nidâna, cf. [pag. 60](Uttaradhyayana_13#p60), n. [2](Uttaradhyayana_13#fn173).
+[^426]: 162:3 Nidâna, cf. [pag. 60](../Uttaradhyayana_13#p60), n. [2](../Uttaradhyayana_13#fn173).
 
 [^427]: 162:4 Este es el significado de las palabras itthîvêya napu<i>m</i>sagavêya<i>m</i> pág. 163 = strîvêda, napu<i>m</i>sakavêda, como lo explicaron los comentaristas en XXXII, 102.
 
@@ -372,7 +372,7 @@ Así lo digo.
 
 [^433]: 164:2 Antakriyâ, explicado por mukti.
 
-[^434]: 164:3 Los Kalpas y los Vimânas son los cielos de los dioses Vaimânika, ver más abajo, [p. 226](Uttaradhyayana_36#p226).
+[^434]: 164:3 Los Kalpas y los Vimânas son los cielos de los dioses Vaimânika, ver más abajo, [p. 226](../Uttaradhyayana_36#p226).
 
 [^436]: 164:4 Por camino se entiende el medio para adquirir conocimiento recto, y por recompensa del camino, conocimiento recto. La recompensa de la buena conducta es mukti.
 
@@ -380,7 +380,7 @@ Así lo digo.
 
 [^438]: 165:1 Según los comentarios, por Tîrtha se entienden los Ga<i>n</i>adharas.
 
-[^439]: 165:2 Sobre los ocho tipos de Karman, véase XXXIII, 2 y 3, [p. 192](Uttaradhyayana_32#p192). Âyushka es el Karman que determina la duración de la vida. Bhandarkar, loc. cit., p. 97, nota, ofrece una explicación algo diferente de este Karman.
+[^439]: 165:2 Sobre los ocho tipos de Karman, véase XXXIII, 2 y 3, [p. 192](../Uttaradhyayana_32#p192). Âyushka es el Karman que determina la duración de la vida. Bhandarkar, loc. cit., p. 97, nota, ofrece una explicación algo diferente de este Karman.
 
 [^440]: 165:3 El pasaje en cuestión es una adición en algunos manuscritos, según nos dicen los comentaristas. Parece significar que el karman, que estaba ligado a muchas partes del alma, se restringe a menos lugares por la influencia de la pureza que la meditación infunde en el alma.
 
@@ -398,7 +398,7 @@ Así lo digo.
 
 [^447]: 168:2 Sadbhâva pratyâkhyâna. El Dîpikâ da la siguiente explicación: él hace la renuncia de tal manera que no necesita hacerla una segunda vez.
 
-[^448]: 168:3 Vêdanîya es ese Karman que produce efectos que deben ser experimentados, como placer o dolor; âyushka es el Karman que determina la duración de la vida; nâman y gôtra hacen que él nazca como tal o cual individuo en esta o aquella familia; ver Trigésima Tercera Lección, versos 2 y 3, [p. 192](Uttaradhyayana_32#p192) f.
+[^448]: 168:3 Vêdanîya es ese Karman que produce efectos que deben ser experimentados, como placer o dolor; âyushka es el Karman que determina la duración de la vida; nâman y gôtra hacen que él nazca como tal o cual individuo en esta o aquella familia; ver Trigésima Tercera Lección, versos 2 y 3, [p. 192](../Uttaradhyayana_32#p192) f.
 
 [^449]: 168:4 Explicado: sthavirakalpasâdhuvêshadhâritvam.
 
@@ -406,7 +406,7 @@ Así lo digo.
 
 [^451]: 169:1 Gupti.
 
-[^452]: 170:1 Para Sa<i>m</i>vara y Âsrava, ver arriba, [p. 55](Uttaradhyayana_12#p55), nota [1](Uttaradhyayana_12#fn165), y [p. 73](Uttaradhyayana_15#p73), nota [2](Uttaradhyayana_16#fn197).
+[^452]: 170:1 Para Sa<i>m</i>vara y Âsrava, ver arriba, [p. 55](../Uttaradhyayana_12#p55), nota [1](../Uttaradhyayana_12#fn165), y [p. 73](../Uttaradhyayana_15#p73), nota [2](../Uttaradhyayana_16#fn197).
 
 [^453]: 170:2 Véase arriba, § 41.
 
@@ -422,7 +422,7 @@ Así lo digo.
 
 [^459]: 172:2 Éstos son los obstáculos para los cinco tipos de conocimiento: mati, <i>s</i>ruta, avadhi, mana<i>h</i>paryâya, kêvala.
 
-[^460]: 172:3 Son: los obstáculos para el kakshurdarsana, el akshurdarsana, el avadhidarsana y el kêvaladarsana, y los cinco tipos de sueño (nidrâ). Sobre Antarâya, véase [p. 193](Uttaradhyayana_33#p193).
+[^460]: 172:3 Son: los obstáculos para el kakshurdarsana, el akshurdarsana, el avadhidarsana y el kêvaladarsana, y los cinco tipos de sueño (nidrâ). Sobre Antarâya, véase [p. 193](../Uttaradhyayana_33#p193).
 
 [^461]: 172:4 Sayôgin, es decir, mientras aún no haya alcanzado el decimocuarto gu<i>n</i>asthâna, el estado de un Kêvalin.
 

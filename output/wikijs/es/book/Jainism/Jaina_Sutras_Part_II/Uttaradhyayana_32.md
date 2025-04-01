@@ -54,7 +54,7 @@ Explicaré en el orden oportuno los medios que debe adoptar quien quiera erradic
 
 No se debe disfrutar con preferencia la comida agradable [^524], pues generalmente hace que los hombres sean demasiado fuertes [^525]; y los deseos se precipitan sobre los fuertes, como los pájaros sobre un árbol con frutas dulces. (10)
 
-<span id="p186">[<sup><small>pág. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Así como en un bosque lleno de leña, el fuego avivado por el viento no puede extinguirse, así también el fuego de los sentidos de aquel que come según le place, no beneficia a ningún hombre casto. (11)
 
@@ -72,7 +72,7 @@ Para un hombre que anhela la liberación, que teme al Sa<i>m</i>sâra y vive de 
 
 A quienes han superado el apego (a las mujeres), todos los demás no les ofrecerán dificultades [^527]; así como a quienes han cruzado el gran océano, ningún río, aunque grande como el Ganges, (les ofrecerá dificultad alguna). (18)
 
-<span id="p187">[<sup><small>pág. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Del deseo de placer surge la miseria del mundo entero, incluidos los dioses; cualquier miseria del cuerpo y de la mente que haya, el desapasionado le pondrá fin. (19)
 
@@ -88,7 +88,7 @@ Aquel que se apasiona por los colores, llegará a la ruina prematura, tal como u
 
 Quien odia apasionadamente (un color), al mismo tiempo sufrirá dolor. Es culpa de un hombre indisciplinado que le moleste (un color); no es el «color» en sí lo que le molesta. (25)
 
-<span id="p188">[<sup><small>pág. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Aquel que ama mucho un color bello, odia todos los demás; por eso, un tonto sufrirá miseria, pero un sabio desapasionado no se verá afectado por ella. (26)
 
@@ -116,15 +116,15 @@ La última línea del versículo 37, que corresponde al versículo 24, dice así
 
 Como un ciervo apasionado, atraído (por una canción), se precipita hacia la muerte, sin contentarse con el sonido.
 
-De la misma manera los versículos 48-60 se aplican a los olores; sustituya “olor” por “órgano del olfato”.
+De la misma manera los versículos 48-60 se aplican a los olores; sustituya «olor» por «órgano del olfato».
 
-Los versículos 61-73 se aplican a los gustos; sustituya “gustos” por “lengua”.
+Los versículos 61-73 se aplican a los gustos; sustituya «gustos» por «lengua».
 
-Los versículos 74-86 se aplican a los toques; sustituya “toques” por “cuerpo”.
+Los versículos 74-86 se aplican a los toques; sustituya «toques» por «cuerpo».
 
-Los versículos 87-99 se aplican a los sentimientos; sustituya “sentimientos” y “mente”.
+Los versículos 87-99 se aplican a los sentimientos; sustituya «sentimientos» y «mente».
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Las líneas correspondientes a la comparación del versículo 24, dicen así:
 
@@ -142,7 +142,7 @@ Las cosas agradables (por sí mismas) no causan indiferencia ni emociones (como 
 
 La ira, el orgullo, el engaño, la codicia; el asco, la aversión al autocontrol y el deleite en las cosas sensuales [^535]; la alegría, el miedo, la tristeza, el deseo carnal por las mujeres, los hombres o ambos; todas estas múltiples pasiones surgen en aquel que está apegado a los placeres; y así también otras emociones producidas por aquellas (antes mencionadas) surgen en aquel que es digno de lástima, que (debería) avergonzarse de sí mismo y que es odioso. (102, 103)
 
-<span id="p191">[<sup><small>pág. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Un monje no debe desear un compañero, ni siquiera uno que sea capaz de cumplir con sus deberes religiosos; ni, si se arrepiente de haber hecho los votos, debe desear una recompensa mundana por sus austeridades [^536]. Tales emociones, de infinita variedad, surgen en quien es esclavo de sus sentidos. (104)
 

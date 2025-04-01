@@ -44,7 +44,7 @@ La esposa del brahmán dijo:
 
 En cuanto a este símbolo del Brahman que se denomina Kshetra<i>g</i>ña, ¿dónde, en efecto, se puede encontrar una descripción del mismo mediante la cual [^1473] sea capaz de ser comprendido?
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 El brahmana dijo:
 
@@ -52,7 +52,7 @@ El brahmana dijo:
 
 La Deidad dijo:
 
-Entonces la mente de la esposa del Brâhma<i>n</i>a, después de la <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destrucción de la Kshetra<i>g</i>ña [1](Anugita_20#fn1482), se volvió hacia aquello que está más allá de (todas) las Kshetra<i>g</i>ñas por medio del conocimiento de la Kshetra [2](Anugita_20#fn1483).
+Entonces la mente de la esposa del Brâhma<i>n</i>a, después de la <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destrucción de la Kshetra<i>g</i>ña [1](../Anugita_20#fn1482), se volvió hacia aquello que está más allá de (todas) las Kshetra<i>g</i>ñas por medio del conocimiento de la Kshetra [2](../Anugita_20#fn1483).
 
 Ar<i>g</i>una dijo:
 
@@ -60,7 +60,7 @@ Ar<i>g</i>una dijo:
 
 La Deidad dijo:
 
-Sabe que mi mente es la del Brâhma<i>n</i>a, y que mi entendimiento es la esposa del Brâhmana. Y él, ¡oh Dhanañ<i>g</i>aya!, de quien se ha hablado como la Kshetra<i>g</i>ña, soy yo misma [3](Anugita_20#fn1484).
+Sabe que mi mente es la del Brâhma<i>n</i>a, y que mi entendimiento es la esposa del Brâhmana. Y él, ¡oh Dhanañ<i>g</i>aya!, de quien se ha hablado como la Kshetra<i>g</i>ña, soy yo misma [3](../Anugita_20#fn1484).
 
 <figure class="table chapter-navigator">
   <table>
@@ -94,7 +94,7 @@ Sabe que mi mente es la del Brâhma<i>n</i>a, y que mi entendimiento es la espos
 
 [^1478]: 308:3 Es decir, el Brahman, dice Ar<i>g</i>una Mi<i>s</i>ra, del cual la Kshetra<i>g</i>ña es solo un símbolo. Para una definición de la Kshetra<i>g</i>ña, véase <i>S</i>ânti Parvan (Moksha), cap. 187, estrofa 23.
 
-[^1479]: 309:1 Véase Sanatsugâtîya, [p. 160](Sanatsugatiya_2#p160).
+[^1479]: 309:1 Véase Sanatsugâtîya, [p. 160](../Sanatsugatiya_2#p160).
 
 [^1480]: 309:2 Es decir, lo que se requiere como preliminar a la adquisición de conocimiento, y por tanto es necesario para la emancipación final.
 

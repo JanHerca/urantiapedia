@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p322">[<sup><small>pág. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 סדר נזיקין‎
 
@@ -70,7 +70,7 @@ Los tratados mencionados contienen leyes civiles. Se llaman «Puertas» porque, 
 
 \[Contiene preceptos para la administración de juramentos.\]
 
-<span id="p323">[<sup><small>pág. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ## XXXVI. TRATADO EDIOTH, TESTIMONIOS.
 

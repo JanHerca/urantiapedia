@@ -68,7 +68,7 @@ No sostengas que la experiencia del efecto y la aniquilación del Karman no exis
 
 No sostengas que la actividad y la no actividad no existen, sino que existen. (19)
 
-<span id="p408">[<sup><small>pág. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 No sostengas que la ira y el orgullo no existen, sino que existen. (20)
 
@@ -94,7 +94,7 @@ No se debe afirmar que todo es imperecedero o lleno de dolores, ni que los crimi
 
 No afirméis que aquellos hombres son monjes de buena conducta que llevan una vida pura, y que aquellos otros llevan una vida impura. (31)
 
-<span id="p409">[<sup><small>pág. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Un monje sabio no debe decir: recibimos limosna (de este jefe de familia) o no; sino que debe mejorar sus posibilidades de alcanzar la liberación final [^1192]. (32)
 
@@ -134,7 +134,7 @@ Así lo digo.
 
 [^1195]: 406:1 <i>S</i>âstâra<i>h</i>, maestros, aquí aquellos que alcanzan la perfección. El significado es que el mundo quedaría vacío si todos los seres alcanzaran la perfección. No debe sostenerse esto, ni la opinión contraria, de que algunos seres están calificados para el Nirvana y otros no.
 
-[^1196]: 406:2 Ahâkammâ<i>n</i>i, ver [p. 131](Uttaradhyayana_24#p131), nota [7](Uttaradhyayana_24#fn337).
+[^1196]: 406:2 Ahâkammâ<i>n</i>i, ver [p. 131](../Uttaradhyayana_24#p131), nota [7](../Uttaradhyayana_24#fn337).
 
 [^1197]: 406:3 Los <i>G</i>ainas</i> suponen que cada individuo posee cinco cuerpos: (1) audârika, o el cuerpo que se ve; (2) kârma<i>n</i>a, receptáculo de Karman, está compuesto de partículas de Karman; (3) tai<i>g</i>asa, un cuerpo compuesto de partículas de fuego, causa la digestión; (4) âhâraka, un cuerpo sutil del alma, con el que va a lugares distantes (por ejemplo, cuando un <i>k</i>aturda<i>s</i>apûrvin va al Kêvalin para aclarar alguna duda); (5) vaikriya, un cuerpo sutil que puede cambiar a voluntad. Todos estos "cuerpos", excepto el primero, son lo que en el lenguaje común se llama espíritus o almas. Tenemos aquí una contraparte hindú de la creencia en la pluralidad de almas compartidas p. 407 por muchas naciones antiguas y modernas. Compárense los siguientes versículos citados en Tylor, Origen de la Cultura, Capítulo XI:
 

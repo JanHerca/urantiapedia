@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 ## I
 
@@ -50,7 +50,7 @@ Incluso hoy, los predicadores se postran ante el trono al orar y piden a sus con
 
 Este hecho evidente de que la religión habitualmente representa a Dios en términos de algún elemento dominante en la vida de la generación, creando y adorando ídolos imaginarios incluso cuando se niegan los ídolos visibles, es, por supuesto, pan comido para los ateos. La religión, dicen, es fantasía, poesía, espejismo, pensamiento pictórico patéticamente confundido con la verdad sustancial. Sin embargo, este desprecio suyo debería ser efímero. No puede sobrevivir fácilmente al tu quoque. Quien suscribe el materialismo mecanicista actual está en el mismo barco que el teísta en lo que respecta al pensamiento pictórico.
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 El estilo más actual de la filosofía materialista es creer que todo es un mecanismo fisicoquímico; que el universo entero y cada organismo vivo que lo compone, desde un protozoo hasta Platón, puede describirse adecuadamente en términos mecanicistas. Hace unas semanas, uno de los principales abogados estadounidenses recibió una carta en la que afirmaba estar seguro de que el hombre era simplemente un mecanismo. Esa es nuestra filosofía más reciente y actual, pero obviamente es un pensamiento imaginario.
 

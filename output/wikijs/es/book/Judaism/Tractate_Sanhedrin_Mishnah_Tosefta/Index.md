@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:41:3Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 &nbsp; |   |  
 --- | --- | ---
@@ -116,7 +116,7 @@ Deuteronomio | |
 &nbsp; | 21\. 23 | M. 6. 4_b_
 &nbsp; | 24\. 7 | M. 11. 1
 &nbsp; | 25\. 1-2 | T. 7. 4
-&nbsp; | 29\. 27 | T. 13. 12 <span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+&nbsp; | 29\. 27 | T. 13. 12 <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 Deuteronomio | |
 &nbsp; | 29\. 28 | M. 10. 3_d_
 &nbsp; | 34\. 9 | T. 4. 9

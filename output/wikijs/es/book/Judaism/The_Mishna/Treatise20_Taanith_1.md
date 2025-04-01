@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 3. El 3 de marzo de Cheshván [^519] se deben rezar oraciones para la lluvia, [^520] pero según Rabbon Gamaliel, el 7 del mismo mes, es decir, quince días después de la Fiesta de los Tabernáculos, para que los últimos israelitas pudieran haber llegado al río Éufrates. [^521]
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 § 4. Si el diecisiete de marzo de Cheshvan ha llegado sin que haya descendido aún la lluvia, los particulares [^522] comienzan a observar tres días de ayuno, [^523] en las noches anteriores a los cuales es lícito comer y beber, trabajar \[en el día de ayuno\], bañarse, ungir el cuerpo, usar zapatos \[de cuero\] y cumplir con el deber matrimonial.
 
@@ -81,7 +81,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^517]: 168:2 Es decir, en términos expresos, como, «Concede que la lluvia descienda», etc., pero sólo como si se mencionara incidentalmente.
 
-[^518]: 168:3 Es decir, el que lee el ‏מוסף‎ \[Servicio Adicional\]. Véase nuestra octava nota página [165](Tratado12_Shabbath_19#p165), Tratado Rosh Hashaná.
+[^518]: 168:3 Es decir, el que lee el ‏מוסף‎ \[Servicio Adicional\]. Véase nuestra octava nota página [165](../Tratado12_Shabbath_19#p165), Tratado Rosh Hashaná.
 
 [^519]: 168:4 Es decir, comenzar a decir en las oraciones: «El que hace soplar el viento y descender la lluvia».
 

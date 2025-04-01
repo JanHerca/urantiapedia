@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 QUINTA CONFERENCIA, LLAMADA DESCRIPCIÓN DE LOS INFIERNOS.
 
@@ -62,7 +62,7 @@ Y llegan al gran infierno infranqueable, lleno de agonía, llamado Asûrya (es d
 
 Allí, como en una cueva, asándose en el fuego, se quema, perdiendo el recuerdo (de sus pecados) y la conciencia de todo lo demás; siempre sufriendo (llega) a ese miserable lugar caliente que siempre está listo (para el castigo de los malhechores) [^828]. (12)
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Allí los crueles castigadores han encendido cuatro fuegos y asan a los pecadores; son asados ​​allí como peces puestos vivos al fuego. (13)
 
@@ -142,6 +142,6 @@ Así lo digo.
 
 [^837]: 281:3 O bien, con fuego ardiente los asan.
 
-[^838]: 281:4 Véase Uttarâdhyayana XIX, 69 y sigs., arriba [p. 96](Uttaradhyayana_19#p96).
+[^838]: 281:4 Véase Uttarâdhyayana XIX, 69 y sigs., arriba [p. 96](../Uttaradhyayana_19#p96).
 
 [^839]: 282:1 Compare la nota del versículo 12. Las mismas líneas se repiten en el capítulo siguiente, versículo 13. El comentarista da allí la misma explicación que aquí.

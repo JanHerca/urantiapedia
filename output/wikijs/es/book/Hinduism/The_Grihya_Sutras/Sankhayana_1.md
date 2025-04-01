@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## ADHYÂYA YO, KHANDA
 
@@ -169,7 +169,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## KHANDA 6.
 
-1\. [^35]. Si quiere conseguir una esposa, que recite sobre los pretendientes (a quienes envía al padre de la muchacha) cuando se van, el verso “Sin espinas” (Rig-veda X, 85, 23).
+1\. [^35]. Si quiere conseguir una esposa, que recite sobre los pretendientes (a quienes envía al padre de la muchacha) cuando se van, el verso «Sin espinas» (Rig-veda X, 85, 23).
 
 2\. Cuando llegan, llevan flores, frutas, cebada y una olla con agua.
 
@@ -413,7 +413,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 ## KHANDA 14.
 
-1\. «Esta mujer, esparciendo granos, reza así: “¡Que traiga felicidad a mis parientes; que mi esposo viva mucho tiempo! ¡Svâhâ!”». Mientras el esposo murmura este texto, ella se sacrifica de pie.
+1\. «Esta mujer, esparciendo granos, reza así: «¡Que traiga felicidad a mis parientes; que mi esposo viva mucho tiempo! ¡Svâhâ!»». Mientras el esposo murmura este texto, ella se sacrifica de pie.
 
 2\. [^81]. (Todas las ceremonias), comenzando desde la pisada <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> sobre la piedra, (se repiten) de la misma manera por segunda vez,
 
@@ -467,11 +467,11 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 9\. Si alguna parte del carro se rompe o revienta, que lleve a la muchacha a la casa de quien guarda los fuegos sagrados,
 
-10\. Y repara (el daño) con el verso: “Cúbrete con las Khadiras” (Rig-veda III, 53, 19).
+10\. Y repara (el daño) con el verso: «Cúbrete con las Khadiras» (Rig-veda III, 53, 19).
 
-11\. Un nudo con el verso: “Él como un caballo” (Rig-veda X, 143, 2).
+11\. Un nudo con el verso: «Él como un caballo» (Rig-veda X, 143, 2).
 
-12\. Luego murmura los cinco versos: “Que la prosperidad nos dé” (Rig-veda V, 51, 11-15).
+12\. Luego murmura los cinco versos: «Que la prosperidad nos dé» (Rig-veda V, 51, 11-15).
 
 13\. 'Adornada con flores de Ki<i>m</i>suka' (Rig-veda X, 85, 20), cuando sube al carro;
 
@@ -527,7 +527,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 ## KHANDA 17.
 
-1\. Con el verso: “Alabé a Dadhikrâvan” (Rig-veda IV, 39, 6), que beban juntos cuajada.
+1\. Con el verso: «Alabé a Dadhikrâvan» (Rig-veda IV, 39, 6), que beban juntos cuajada.
 
 2\. [^93]. Que permanezcan en silencio, cuando el sol se haya puesto, hasta que aparezca la estrella polar.
 
@@ -571,7 +571,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## KHANDA 19.
 
@@ -614,7 +614,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## KHANDA 21.
 
@@ -740,7 +740,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## KHANDA 26.
 
@@ -918,7 +918,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 [^21]: 16:1 3, 1. Lo más probable es que esta regla se deba dividir en dos Sûtras, de modo que atha darsapûr<i>n</i>amâsau quedaría como encabezamiento del capítulo; comp. más abajo, cap. 18, 1, atha <i>k</i>aturthîkarma; cap. 24, 1, atha <i>k</i>âtakarma, etc.
 
-[^22]: 16:2 'Si esto se establece expresamente, la oblación debe hacerse durante la noche; por ejemplo, en la ceremonia de Vâstoshpatîya se establece: “La décima oblación del Sthâlîpâka, a Agni Svish<i>t</i>ak<i>t</i>t en la noche” (ver abajo, III, 4, 8).' Nârâya<i>t</i>a.
+[^22]: 16:2 'Si esto se establece expresamente, la oblación debe hacerse durante la noche; por ejemplo, en la ceremonia de Vâstoshpatîya se establece: «La décima oblación del Sthâlîpâka, a Agni Svish<i>t</i>ak<i>t</i>t en la noche» (ver abajo, III, 4, 8).' Nârâya<i>t</i>a.
 
 [^23]: 17:3 Sobre vighana, que he traducido finamente, véase la nota en la edición alemana, págs. 119 y siguientes.
 
@@ -952,13 +952,13 @@ Con respecto a la división cuádruple de Pâkaya<i>g</i><i>g</i> como se establ
 
 [^36]: 21:1 6, 1. 'Los pretendientes, es decir, su propio padre, etc.' Nârâya<i>n</i>a.
 
-[^37]: 21:3 «Cuando el padre del pretendiente y los demás, junto con su Â<i>s</i>ârya, llegan a la casa de quien entregará a la joven, se sitúan en el salón, y el padre del pretendiente dice tres veces: “¡Aquí estoy, NN (amuka<i>s</i>arman), señor!”. Con estas palabras se anuncia tres veces... Pues a la casa de quien entrega a la joven llegan también muchas otras personas para presenciar las festividades. Para distinguirse de ellas, pronuncia su nombre». Nârâya<i>s</i>a.
+[^37]: 21:3 «Cuando el padre del pretendiente y los demás, junto con su Â<i>s</i>ârya, llegan a la casa de quien entregará a la joven, se sitúan en el salón, y el padre del pretendiente dice tres veces: «¡Aquí estoy, NN (amuka<i>s</i>arman), señor!». Con estas palabras se anuncia tres veces... Pues a la casa de quien entrega a la joven llegan también muchas otras personas para presenciar las festividades. Para distinguirse de ellas, pronuncia su nombre». Nârâya<i>s</i>a.
 
 [^38]: 22:6 La posición de las palabras así como el sentido favorecen la combinación del genitivo kanyâyâ_h<i> con â</i>k<i> con â</i>h_, no con mûrdhani, aunque Râma<i> con â</i>andra dice que debe entenderse el varapakshâ<i> con â</i>ârya.
 
 [^39]: 22:1 7, 1 ss. A continuación se describe el sacrificio que debe realizarse cuando el padre de la muchacha ha declarado su consentimiento (prati<i>s</i>rute) para entregarla en matrimonio: este es el modelo general para todos los sacrificios G<i>s</i>hya.—'Varo <i>g</i>uhoti', Nârâya<i>s</i>a.
 
-[^40]: 22:3 'Aquí establece una excepción a la regla, “Las ceremonias sagradas para los Manes están dirigidas hacia el sur” (<i>S</i>rauta-sûtra I, 1, 14) . . . Debería considerar la dirección sureste, sagrada para Agni, como aquella a la que deben dirigirse las ceremonias (prâ<i>îm pûrvâ</i>îm pûrvâ<i>m</i> kalpayet) que son sagradas para los Manes, como la pág. 23 prescrita en el Sûtra, “Que haga oblaciones cada mes a los Padres” (IV, 1, 1) . . . . Establece una excepción a la regla, “Las ceremonias sagradas para los dioses están dirigidas hacia el este” (<i>S</i>raut. I, 1, 13) . ... El norte
+[^40]: 22:3 'Aquí establece una excepción a la regla, «Las ceremonias sagradas para los Manes están dirigidas hacia el sur» (<i>S</i>rauta-sûtra I, 1, 14) . . . Debería considerar la dirección sureste, sagrada para Agni, como aquella a la que deben dirigirse las ceremonias (prâ<i>îm pûrvâ</i>îm pûrvâ<i>m</i> kalpayet) que son sagradas para los Manes, como la pág. 23 prescrita en el Sûtra, «Que haga oblaciones cada mes a los Padres» (IV, 1, 1) . . . . Establece una excepción a la regla, «Las ceremonias sagradas para los dioses están dirigidas hacia el este» (<i>S</i>raut. I, 1, 13) . ... El norte
 
 [^41]: 23:6-7 Véanse las citas de los comentarios de Râma<i>k</i>andra y Nârâya<i>k</i>a, pág. 123 de la edición alemana. El Dr. Bloomfield ofrece una ilustración de la forma del stha<i>k</i><i>k</i>ila con las líneas dibujadas en él en su nota sobre el G<i>k</i>hya-sa<i>k</i>graha-pari<i>k</i>ish<i>k</i>a I, 52 y siguientes; Sin embargo, en lugar de las tres líneas que se prescriben aquí en el Sûtra 7, hay cuatro indicadas de acuerdo con la doctrina de ese Pari<i>k</i>ish<i>k</i>a y del propio Gobhila, que se dice que son sagradas para P<i>k</i>thivî, Pra<i>k</i>âpati, Indra y Soma, mientras que la línea girada de sur a norte es sagrada para Agni.
 
@@ -986,7 +986,7 @@ Con respecto a la división cuádruple de Pâkaya<i>g</i><i>g</i> como se establ
 
 [^53]: 26:24-25 24, 25. Râma<i>k</i>andra: 'Él vierte agua en el Sruva y lo purifica también, como había hecho con el Â<i>k</i>ya (Sûtra 21) . . . . Luego vierte una pequeña porción de esa agua sobre el agua del Pra<i>k</i>îtâ (véase arriba, Sûtra 8), y con el resto, que se llama agua del Proksha<i>k</i>î, rocía la comida sacrificial, el combustible y los Barhis.'
 
-[^54]: 26:1 9, 1. 'Cuando no se establece una regla especial, el Sruva debe entenderse como el recipiente (para la ofrenda). Por lo tanto, la regla, “El _G<i>uhû es el recipiente” (<i>S</i>rauta-sûtra III, 19, 5) queda abolida (porque el G<i>uhû es el recipiente” (ritos hya).' Nârâya<i>uhû es el recipiente” (</i>a.
+[^54]: 26:1 9, 1. 'Cuando no se establece una regla especial, el Sruva debe entenderse como el recipiente (para la ofrenda). Por lo tanto, la regla, «El _G<i>uhû es el recipiente» (<i>S</i>rauta-sûtra III, 19, 5) queda abolida (porque el G<i>uhû es el recipiente” (ritos hya).' Nârâya<i>uhû es el recipiente” (</i>a.
 
 [^55]: 26:3 La manera de sostener el Sruva en el que está el Â<i>g</i>ya, está descrita por Kâtyâyana, <i>S</i>raut. I, 10, 6 seq., nota de Stenzler sobre Pâraskara I, 1, 4.
 
@@ -1107,7 +1107,7 @@ Sobre kusaka, Nârâya, dice: kusaka_mssssnsaka_hskska (MS. Berol. Orient., fol.
 
 [^111]: 52:7 El primer Mantra está corrupto; en el Â<i>valâyana-</i>valâyana-<i>S</i>rauta-sûtra (II, 10, 4) su texto dice así: âyush _t<i>valâyana-</i>s<i>valâyana-</i>n<i>valâyana-</i>h_, etc. Compárese con Atharva-veda VII, 53, 6.
 
-[^112]: 52:11 «Las palabras “cada mes” (Sûtra 10) conservan su valor pág. 53 (aquí también). Así, el sûtikâgni debe conservarse durante un año. Transcurrido ese año, se debe sacrificar cada mes en el fuego doméstico mientras se viva. Como se dice “en el fuego doméstico”, el sûtikâgni ya no debe conservarse». Nârâya<i>n</i>a.
+[^112]: 52:11 «Las palabras «cada mes» (Sûtra 10) conservan su valor pág. 53 (aquí también). Así, el sûtikâgni debe conservarse durante un año. Transcurrido ese año, se debe sacrificar cada mes en el fuego doméstico mientras se viva. Como se dice «en el fuego doméstico», el sûtikâgni ya no debe conservarse». Nârâya<i>n</i>a.
 
 [^113]: 53:1 26, 1. Este capítulo no se encuentra en el <i>S</i>âmbavya-G<i>ri</i>hya, y Nârâya<i>ri</i>a lo designa expresamente como kshepaka kha<i>ri</i><i>ri</i>a. Es una especie de apéndice de los Sûtras 25, 5, 6; dado que allí se prescribe un sacrificio a tres Nakshatras con sus deidades presidentes, se da aquí una enumeración de los Nakshatras y deidades. Compárese, sobre listas similares, el segundo artículo de Weber sobre los Nakshatras y ss. (Abhandlungen der Berliner Akademie der Wissenschaften, 1861), pp. 289, 315, 367 y ss.
 

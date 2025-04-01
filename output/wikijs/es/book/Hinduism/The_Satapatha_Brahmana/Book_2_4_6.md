@@ -54,7 +54,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v4_6_1_99"><sup><small>4:6:1:99.</small></sup></span> En cuanto a esto, Budila Â<i>s</i>vatarâ<i>s</i>vi dijo: «Que la dibuje después de simplemente levantar (la piedra), y que no presione; pues ellos presionan para otras deidades: así él hace diferente de lo que hace para otras deidades; y al levantar (la piedra) de hecho, con eso se produce la presión para él».
 
-<span id="v4_6_1_1010"><sup><small>4:6:1:1010.</small></sup></span> En cuanto a esto, Yâ<i>g</i><i>ñ</i>avalkya dijo: «No, que presione: “El Soma sin presionar no deleitó al poderoso Indra, ni las bebidas exprimidas sin oración”, así habló el <i>Ri</i>shi (Rig-veda VII, 26, I). A ninguna otra deidad la golpea más que una vez: así actúa de manera diferente a como lo hace con otras deidades; ¡por lo tanto, que presione!»
+<span id="v4_6_1_1010"><sup><small>4:6:1:1010.</small></sup></span> En cuanto a esto, Yâ<i>g</i><i>ñ</i>avalkya dijo: «No, que presione: «El Soma sin presionar no deleitó al poderoso Indra, ni las bebidas exprimidas sin oración», así habló el <i>Ri</i>shi (Rig-veda VII, 26, I). A ninguna otra deidad la golpea más que una vez: así actúa de manera diferente a como lo hace con otras deidades; ¡por lo tanto, que presione!»
 
 <span id="v4_6_1_1111"><sup><small>4:6:1:1111.</small></sup></span> Doce novillas preñadas de su primer ternero son la tarifa de los sacerdotes por esto (graha). Ahora bien, hay doce meses en el año, y Pra<i>g</i>âpati es el año, y el A<i>m</i><i>s</i>u es Pra<i>g</i>âpati: así, él (el sacrificador) es Pra<i>g</i>âpati.
 
@@ -213,9 +213,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v4_6_8_1717"><sup><small>4:6:8:1717.</small></sup></span> Él guía al rey hacia adelante. El fuego de Âgnîdhrîya acaba de ser recogido en el soporte, cuando cada uno toma una tea y la dispersa hacia sus diversos hogares dhish<i>n</i>ya. Así se hace, y no se deshace. La razón por la que tienen diferentes dhish<i>n</i>yas es para tener más espacio para moverse; y la razón por la que tienen diferentes puro<i>d</i>â<i>s</i>as [^1029] es para que quede más alimento para el sacrificio y así completar la ceremonia.
 
-<span id="v4_6_8_1818"><sup><small>4:6:8:1818.</small></sup></span> Ahora se explica la sesión sacrificial, mediante la cual los dioses expulsaron rápidamente el mal y obtuvieron la autoridad suprema que ahora ostentan: con un G<i>ri</i>hapati, un puro<i>d</i>â<i>s</i>a, un dhish<i>n</i>ya, expulsaron rápidamente la maldad y renacieron rápidamente. Y de la misma manera, estos (los sacrificadores), con un G<i>ri</i>hapati, un puro<i>d</i>â<i>s</i>a, un dhish<i>n</i>ya, expulsarán rápidamente el mal y renacerán. <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> 4:6:8:1919\. Ahora bien, en el caso anterior, hay una sala con las vigas del techo que van de sur a norte [1](Book_2_4_6#fn1030), —esa es la práctica humana. Hay un mismo Âhavanîya y diferentes Gârhapatyas —eso es distinto. En el Gârhapatya de G<i>ri</i>hapati, realizan las Patnîsa<i>m</i>yâ<i>g</i>as con la cola (de la víctima), y los demás se sientan a ofrecer en respuesta con ghee —eso es distinto:
+<span id="v4_6_8_1818"><sup><small>4:6:8:1818.</small></sup></span> Ahora se explica la sesión sacrificial, mediante la cual los dioses expulsaron rápidamente el mal y obtuvieron la autoridad suprema que ahora ostentan: con un G<i>ri</i>hapati, un puro<i>d</i>â<i>s</i>a, un dhish<i>n</i>ya, expulsaron rápidamente la maldad y renacieron rápidamente. Y de la misma manera, estos (los sacrificadores), con un G<i>ri</i>hapati, un puro<i>d</i>â<i>s</i>a, un dhish<i>n</i>ya, expulsarán rápidamente el mal y renacerán. <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> 4:6:8:1919\. Ahora bien, en el caso anterior, hay una sala con las vigas del techo que van de sur a norte [1](../Book_2_4_6#fn1030), —esa es la práctica humana. Hay un mismo Âhavanîya y diferentes Gârhapatyas —eso es distinto. En el Gârhapatya de G<i>ri</i>hapati, realizan las Patnîsa<i>m</i>yâ<i>g</i>as con la cola (de la víctima), y los demás se sientan a ofrecer en respuesta con ghee —eso es distinto:
 
-<span id="v4_6_8_2020"><sup><small>4:6:8:2020.</small></sup></span> Pero aquí hay una sala con vigas que van de oeste a este [2](Book_2_4_6#fn1031): es como con los dioses. Hay el mismo Âhavanîya, el mismo Gârhapatya y el mismo Âgnîdhrîya: así, esta sesión de sacrificio es exitosa, al igual que el sacrificio de Soma de un día fue exitoso, no hay fracaso para él. Su curso es el mismo en todo excepto en los dhish<i>n</i>yas.
+<span id="v4_6_8_2020"><sup><small>4:6:8:2020.</small></sup></span> Pero aquí hay una sala con vigas que van de oeste a este [2](../Book_2_4_6#fn1031): es como con los dioses. Hay el mismo Âhavanîya, el mismo Gârhapatya y el mismo Âgnîdhrîya: así, esta sesión de sacrificio es exitosa, al igual que el sacrificio de Soma de un día fue exitoso, no hay fracaso para él. Su curso es el mismo en todo excepto en los dhish<i>n</i>yas.
 
 
 <span id="v4_6_9"><sup><small>4:6:9</small></sup></span>
@@ -302,12 +302,12 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^992]: 426:1 La señorita Kâ<i>n</i>va leyó 'Kaükthasta'.
 
-[^993]: 426:2 Quizás el autor aquí quiere conectar sattra (satra) con los adverbios satram, satrâ, 'juntos, siempre', en lugar de con el verbo sad, sentarse; pero cf. [IV, 6, 8, 1](Book_2_4_6#v4_6_8_1).
+[^993]: 426:2 Quizás el autor aquí quiere conectar sattra (satra) con los adverbios satram, satrâ, 'juntos, siempre', en lugar de con el verbo sad, sentarse; pero cf. [IV, 6, 8, 1](../Book_2_4_6#v4_6_8_1).
 
 [^994]: 426:3 La gran sesión sacrificial (sattra), llamada Gavâm ayana, o p. 427 el paseo (o recorrido) de las vacas, generalmente se extiende durante doce meses (de 30 días), y consta de las siguientes partes:
   Atirâtra, o día de apertura.
   Un día de <i>K</i>aturvi<i>m</i><i>s</i>a, un Ukthya, cuyos stotras están en el estoma de <i>K</i>aturvi<i>m</i><i>s</i>a.
-  Cinco meses, cada uno compuesto de cuatro Abhiplava shad ahas y un Pri shth ya shad aha (= 30 días). Cf. [p. 402](Book_2_4_5#p402), n. [2](Book_2_4_5#fn935).
+  Cinco meses, cada uno compuesto de cuatro Abhiplava shad ahas y un Pri shth ya shad aha (= 30 días). Cf. [p. 402](../Book_2_4_5#p402), n. [2](../Book_2_4_5#fn935).
   28 días, que con los dos primeros días completan el sexto mes:
   Tres Abhiplavas y un P<i>ri</i>sh<i>th</i>ya.
   Día de Abhi<i>g</i>it.
@@ -320,24 +320,24 @@ dateCreated: 2025-1-15T22:56:28Z
   Cuatro meses, cada uno de los cuales consta de cuatro Abhiplavas y un P<i>ri</i>sh<i>th</i>ya.
   30 días:
   (Tres Abhiplava shadahas.
-  Un Gosh<i>t</i>oma (Agnish<i>t</i>oma, [p. 403](Book_2_4_5#p403), n. [4](Book_2_4_5#fn937)).
+  Un Gosh<i>t</i>oma (Agnish<i>t</i>oma, [p. 403](../Book_2_4_5#p403), n. [4](../Book_2_4_5#fn937)).
   Un Âyushtoma (Ukthya).
-  Un Da<i>s</i>arâtra (los diez días centrales del Dvâda<i>s</i>âha, [p. 402](Book_2_4_5#p402), nota [2](Book_2_4_5#fn935)).
+  Un Da<i>s</i>arâtra (los diez días centrales del Dvâda<i>s</i>âha, [p. 402](../Book_2_4_5#p402), nota [2](../Book_2_4_5#fn935)).
   Día del Mahâvrata.
   Udayaniya Atirātra.
   Imitando el curso retrógrado del Sol, el orden de actuación durante la segunda parte del año es, en general, el inverso al de la primera mitad.
 
 [^995]: 427:1 Ta etam shadbhir mâsair yanti, tasmât parâñk o grahâ gri hyante parâñk i stotrân i parâñk i sastrân i. Cada uno de ustedes debe hacer lo que le plazca. Texto de Kanva.
 
-[^996]: 427:2 A saber, la copa Atigrâhya para Sûrya ([IV, 5, 4, 2](Book_2_4_5#v4_5_4_2) seq.), que debe ser extraída en el Vishuvant o día intermedio del Gavâm ayana; también se prescribe un sacrificio animal a la misma deidad.
+[^996]: 427:2 A saber, la copa Atigrâhya para Sûrya ([IV, 5, 4, 2](../Book_2_4_5#v4_5_4_2) seq.), que debe ser extraída en el Vishuvant o día intermedio del Gavâm ayana; también se prescribe un sacrificio animal a la misma deidad.
 
-[^997]: 428:1 El texto de Kâ<i>n</i>va permite el mantra alternativo: Rig-veda I, 50, 3; Vâ<i>g</i>. S. VIII, 40, Ad<i>ri</i><i>s</i>ram asya ketava<i>h</i>, etc. Véase [IV, 5, 4, 11](Book_2_4_5#v4_5_4_11).
+[^997]: 428:1 El texto de Kâ<i>n</i>va permite el mantra alternativo: Rig-veda I, 50, 3; Vâ<i>g</i>. S. VIII, 40, Ad<i>ri</i><i>s</i>ram asya ketava<i>h</i>, etc. Véase [IV, 5, 4, 11](../Book_2_4_5#v4_5_4_11).
 
-[^998]: 428:2 Véase [III, 9, 1, 5](Book_2_3_9#v3_9_1_5) ss. Debe sacrificar una víctima cada día, y si después del undécimo día la celebración continúa (como en el Dvâda<i>s</i>aha), debe comenzar de nuevo con la primera víctima del ekâda<i>s</i>inî. Según el texto Kâ<i>n</i>va y Kâty. XII, 6, 17, en un día tan impar debe inmolar a todas las víctimas restantes del conjunto de once. Así, en el último (duodécimo) día del Dvâda<i>s</i>aha —el Udayanîya Atirâtra—, tendría que sacrificar el conjunto completo de once víctimas.
+[^998]: 428:2 Véase [III, 9, 1, 5](../Book_2_3_9#v3_9_1_5) ss. Debe sacrificar una víctima cada día, y si después del undécimo día la celebración continúa (como en el Dvâda<i>s</i>aha), debe comenzar de nuevo con la primera víctima del ekâda<i>s</i>inî. Según el texto Kâ<i>n</i>va y Kâty. XII, 6, 17, en un día tan impar debe inmolar a todas las víctimas restantes del conjunto de once. Así, en el último (duodécimo) día del Dvâda<i>s</i>aha —el Udayanîya Atirâtra—, tendría que sacrificar el conjunto completo de once víctimas.
 
 [^999]: 428:3 Es decir, la forma particular del <i>G</i>yotish<i>t</i>oma, que se está realizando.
 
-[^1000]: 429:1 Es decir, los himnos del Rig-veda, cuyas colecciones individuales comienzan con los himnos a Agni, seguidos de los de Indra. El 'ukthâni' aquí difícilmente puede referirse a los tres <i>s</i>astras</i> adicionales del sacrificio Ukthya, ya que están compuestos por himnos a Indra-Varu<i>n</i>a, Indra-B<i>ri</i>haspati e Indra-Vish<i>n</i>u, respectivamente. Â<i>s</i>v. <i>S</i>r. VI, 1; Ait. Br. III, 50. Cp. [IV, 2, 5, 14](Book_2_4_2#v4_2_5_14).
+[^1000]: 429:1 Es decir, los himnos del Rig-veda, cuyas colecciones individuales comienzan con los himnos a Agni, seguidos de los de Indra. El 'ukthâni' aquí difícilmente puede referirse a los tres <i>s</i>astras</i> adicionales del sacrificio Ukthya, ya que están compuestos por himnos a Indra-Varu<i>n</i>a, Indra-B<i>ri</i>haspati e Indra-Vish<i>n</i>u, respectivamente. Â<i>s</i>v. <i>S</i>r. VI, 1; Ait. Br. III, 50. Cp. [IV, 2, 5, 14](../Book_2_4_2#v4_2_5_14).
 
 [^1001]: 429:2 La extracción de esta copa forma parte de la celebración del penúltimo día del Gavâm ayana, el llamado día del Mahâvrata (gran voto), en el que se proporcionan los siguientes detalles en Kâtyâyana XIII, 2, 16 ss. La forma particular de sacrificio prescrita para el día es el Agnish<i>t</i>oma. Se debe inmolar una víctima a Pra<i>g</i>âpati. El Mahâvratîya-graha se extrae como libación adicional (como los Atigrâhyas). La señal para el canto de los P<i>ri</i>sh<i>th</i>a-stotras la da un brahmán tocando, con una púa de ratán, un arpa de cien cuerdas de hierba Mu<i>ñ</i><i>g</i>a. Durante el canto y la recitación, el Udgât<i>ri</i> se sienta en un sillón, el Hot<i>ri</i> en una hamaca o columpio, el Adhvaryu en una tabla y los demás sacerdotes en cojines de hierba. A continuación, se celebran varias ceremonias curiosas, realizadas en parte dentro y en parte fuera del Vedi. La ejecución del Sattra es alabada y vituperada alternativamente por dos personas: una, un brahmán, sentado en la puerta principal del Sadas; la otra, un <i>S</i>ûdra, en la puerta trasera; ambas enfrentadas; así, Lâ<i>t</i>y. IV, 3, según cuya autoridad, sin embargo, solo deben decir respectivamente, '¡Estos Sattrins no han tenido éxito!' - '¡Han tenido éxito!'] Al mismo tiempo, una ramera y un estudiante de teología (brahma<i>kh</i>ârin) se reprochan mutuamente (frente al cobertizo del fuego de Âgnîdhrîya); mientras que (al sur de Mâr<i>g</i>âlîya) tiene lugar una competencia simulada entre un Ârya (Vai<i>s</i>ya) y un <i>S</i>ûdra por la posesión de una piel blanca y redonda, teniendo que ceder el <i>S</i>ûdra (después del tercer esfuerzo, cuando el Ârya lo golpea con la piel). Luego, una pareja es encarcelada en un espacio cerrado al sur del Mâr<i>g</i>âlîya (o detrás del Âgnîdhrîya, Lâ<i>t</i>y.) para recibir maithuna.
 
@@ -361,7 +361,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^1011]: 432:5 ¿O acaso no somos conocidos por ello aquellos de nosotros (que tenemos un nombre)? En ambos casos, sin embargo, la fuerza interrogativa de «atha», sin ninguna otra partícula, es bastante inusual.
 
-[^1012]: 434:1 Es decir, el Sâman que proporciona el texto para el Stotra cantado en conexión con el Sastra del Brâhma<i>n</i>â_kh<i>a</i>m_sin, y que forma el verso Stotriya de este último. Así, en la savana del mediodía, el Stotra (P<i>ri</i>sh<i>th</i>a) de ese sacerdote suele consistir en el Naudhasa-sâman (Sâma-veda II, 35-36), si se usa el Rathantara-sâman (Sâma-vela II, 30-31) para el Stotra del Hot<i>ri</i>. Pero, si el Brihat-sâman (ib. II, 159-160) se usa para este último, entonces el Syaita-sâman (II, 161-2) se usa como el Brahma-sâman. Véase [p. 339](Book_2_4_3#p339), nota [2](Book_2_4_3#fn801). Sin embargo, la razón por la que se hace mención especial del Brâhma<i>n</i>â_kh<i>a</i>m_sin en este lugar, probablemente es que en el Gavâm ayana el Brahma-sâman se trata de una manera peculiar. Porque, mientras que en 142 días de la primera mitad del año, a saber, en el <i>K</i>aturvi<i>m</i><i>s</i>a, en todos los (6 × 23) días Âbhiplavika y en los tres días Svara-sâman,—una y la misma melodía, el Abhîvarta-sâman, debe usarse día a día, pero cada vez con una estrofa pragâtha diferente (así el pragâtha SV II, 35-36, usualmente cantado con la melodía Naudhasa, siendo en esta ocasión cantado con la melodía Abhîvarta); en los días correspondientes de la segunda mitad del año, una y la misma estrofa, 'Indra kratu<i>m</i> na â bhara' (SV II, 806-7), debe usarse día a día, pero con diferentes melodías (seis de ellas se dan en la Calc. ed. vol. iv, pp. 529-34). Tâ<i>n</i><i>d</i>ya Br. IV, 3, 1 seq.
+[^1012]: 434:1 Es decir, el Sâman que proporciona el texto para el Stotra cantado en conexión con el Sastra del Brâhma<i>n</i>â_kh<i>a</i>m_sin, y que forma el verso Stotriya de este último. Así, en la savana del mediodía, el Stotra (P<i>ri</i>sh<i>th</i>a) de ese sacerdote suele consistir en el Naudhasa-sâman (Sâma-veda II, 35-36), si se usa el Rathantara-sâman (Sâma-vela II, 30-31) para el Stotra del Hot<i>ri</i>. Pero, si el Brihat-sâman (ib. II, 159-160) se usa para este último, entonces el Syaita-sâman (II, 161-2) se usa como el Brahma-sâman. Véase [p. 339](../Book_2_4_3#p339), nota [2](../Book_2_4_3#fn801). Sin embargo, la razón por la que se hace mención especial del Brâhma<i>n</i>â_kh<i>a</i>m_sin en este lugar, probablemente es que en el Gavâm ayana el Brahma-sâman se trata de una manera peculiar. Porque, mientras que en 142 días de la primera mitad del año, a saber, en el <i>K</i>aturvi<i>m</i><i>s</i>a, en todos los (6 × 23) días Âbhiplavika y en los tres días Svara-sâman,—una y la misma melodía, el Abhîvarta-sâman, debe usarse día a día, pero cada vez con una estrofa pragâtha diferente (así el pragâtha SV II, 35-36, usualmente cantado con la melodía Naudhasa, siendo en esta ocasión cantado con la melodía Abhîvarta); en los días correspondientes de la segunda mitad del año, una y la misma estrofa, 'Indra kratu<i>m</i> na â bhara' (SV II, 806-7), debe usarse día a día, pero con diferentes melodías (seis de ellas se dan en la Calc. ed. vol. iv, pp. 529-34). Tâ<i>n</i><i>d</i>ya Br. IV, 3, 1 seq.
 
 [^1013]: 434:2 Según XII, 6, I, 40, sólo los sacerdotes de la familia Vasish<i>th</i>a podían convertirse en brahmanes, o sacerdotes superintendentes, en la antigüedad; porque sólo ellos conocían los mantras Somabhâga; pero ahora todos los aprenden y, por lo tanto, pueden convertirse en brahmanes.
 
@@ -373,19 +373,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^1017]: 435:4 Sobre 'pra' véase parte i, nota p. 301.
 
-[^1018]: 436:1 Véase [IV, 5, 8, 4](Book_2_4_5#v4_5_8_4).
+[^1018]: 436:1 Véase [IV, 5, 8, 4](../Book_2_4_5#v4_5_8_4).
 
 [^1019]: 436:2 Así pues, según el texto de Kâ<i>n</i>va,—dvau bhâgâv indro 'bha<i>g</i>ataika<i>m</i> vish<i>n</i>u<i>h</i>.
 
 [^1020]: 438:1 Véase I, 6, 4, 13 seq.
 
-[^1021]: 439:1 Véase [IV, 2, 5, 8](Book_2_4_2#v4_2_5_8).
+[^1021]: 439:1 Véase [IV, 2, 5, 8](../Book_2_4_2#v4_2_5_8).
 
 [^1022]: 440:1 Es decir, preparación, ceremonia preparatoria; y de ahí también el 'tomar la iniciativa, ser el precursor'.
 
 [^1023]: 440:2 En el texto de Kâ<i>n</i>va este es el último Brâhma<i>n</i>a del (quinto) Kâ<i>n</i><i>d</i>a.
 
-[^1024]: 440:3 Para el Dîkshâ, véase [III, 1, 1, 1](Book_2_3_1#v3_1_1_1) ss. En el texto de Kâ<i>n</i>va no he encontrado nada que corresponda al Brâhma<i>n</i>a actual.
+[^1024]: 440:3 Para el Dîkshâ, véase [III, 1, 1, 1](../Book_2_3_1#v3_1_1_1) ss. En el texto de Kâ<i>n</i>va no he encontrado nada que corresponda al Brâhma<i>n</i>a actual.
 
 [^1025]: 440:4 Es decir, el verbo 'i' (ir; más especialmente su compuesto upa-i, sufrir, pasar por, emprender) se usa para las ejecuciones sacrificiales en el Sattra que duran doce días (presionantes) y más, para distinguir estos últimos de los sacrificios ahîna, que duran de dos a doce días (presionantes).
 
@@ -393,49 +393,49 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^1027]: 441:2 La cabeza de la víctima (o víctimas, ver VI, 2, 1 seq.) tendrá que ser colocada en la capa inferior del altar del fuego, para impartir estabilidad a este último.
 
-[^1028]: 441:3 Véase [p. 97](Book_2_3_4#p97), nota [1](Book_2_3_4#fn255). En un Sattra, el G<i>ri</i>hapati, así como todos los demás <i>ri</i>tvig, debe ser un Brahman; Kâty. I, 6, 13-16.
+[^1028]: 441:3 Véase [p. 97](../Book_2_3_4#p97), nota [1](../Book_2_3_4#fn255). En un Sattra, el G<i>ri</i>hapati, así como todos los demás <i>ri</i>tvig, debe ser un Brahman; Kâty. I, 6, 13-16.
 
-[^1029]: 442:1 En los Sattras suele haber doce días de Upasad. Véase [p. 105](Book_2_3_4#p105), nota [1](Book_2_3_4#fn273). Ait. Br. IV, 24 prescribe doce días para la Dîkshâ y otros tantos para los Upasads del Dvâda<i>s</i>âha. Kâty. XII, 1, 19; 2, 14 no da una regla especial sobre la duración de la Dîkshâ, pero prescribe doce Upasads. Véase también Lâ<i>t</i>y. III, 3, 27; Â<i>s</i>v. VI, 1, 2.
+[^1029]: 442:1 En los Sattras suele haber doce días de Upasad. Véase [p. 105](../Book_2_3_4#p105), nota [1](../Book_2_3_4#fn273). Ait. Br. IV, 24 prescribe doce días para la Dîkshâ y otros tantos para los Upasads del Dvâda<i>s</i>âha. Kâty. XII, 1, 19; 2, 14 no da una regla especial sobre la duración de la Dîkshâ, pero prescribe doce Upasads. Véase también Lâ<i>t</i>y. III, 3, 27; Â<i>s</i>v. VI, 1, 2.
 
 [^1030]: 442:2 El día anterior al primer día de prensado.
 
-[^1031]: 442:3 Véase [III, 6, 3, 1](Book_2_3_6#v3_6_3_1) seq.
+[^1031]: 442:3 Véase [III, 6, 3, 1](../Book_2_3_6#v3_6_3_1) seq.
 
 [^1032]: 442:4 O bien, aquellos fuegos menores (? occidentales), a saber, los que extinguen los del sur y el norte del Gârhapatya de G<i>ri</i>hapati; o (opcionalmente) también este último, siendo alimentado nuevamente por la tea del fuego de Sâlâdvârya. Cf. Kâty. XII, 1, 25-26.
 
-[^1033]: 442:5 Véase [III, 6, 3, 9](Book_2_3_6#v3_6_3_9) seq.
+[^1033]: 442:5 Véase [III, 6, 3, 9](../Book_2_3_6#v3_6_3_9) seq.
 
 [^1034]: 444:1 O, según Kâty. XII, 2, 8-9, cada uno toma dos fuegos, a saber, el suyo propio y el del G<i>ri</i>hapati.
 
-[^1035]: 445:1 Los Savanîya-puro<i>d</i>â<i>s</i>as habituales ([III, 8, 3, 1](Book_2_3_8#v3_8_3_1)) deben ofrecerse por separado en cada fuego.
+[^1035]: 445:1 Los Savanîya-puro<i>d</i>â<i>s</i>as habituales ([III, 8, 3, 1](../Book_2_3_8#v3_8_3_1)) deben ofrecerse por separado en cada fuego.
 
-[^1036]: 446:1 Viz. las Sadas, véase [p. 128](Book_2_3_5#p128), nota [1](Book_2_3_5#fn346).
+[^1036]: 446:1 Viz. las Sadas, véase [p. 128](../Book_2_3_5#p128), nota [1](../Book_2_3_5#fn346).
 
-[^1037]: 446:2 Como en el caso del Prâ<i>k</i>ina-va<i>m</i><i>s</i>a de los ish<i>t</i>is comunes. Véase [III, 1, 1, 6](Book_2_3_1#v3_1_1_6)\-[7](Book_2_3_1#v3_1_1_7).
+[^1037]: 446:2 Como en el caso del Prâ<i>k</i>ina-va<i>m</i><i>s</i>a de los ish<i>t</i>is comunes. Véase [III, 1, 1, 6](../Book_2_3_1#v3_1_1_6)\-[7](../Book_2_3_1#v3_1_1_7).
 
-[^1038]: 446:3 El texto de Kâ<i>n</i>va tiene nishedu<i>h</i>, 'se sentaron'. Véase [IV, 6, 8, 1](Book_2_4_6#v4_6_8_1).
+[^1038]: 446:3 El texto de Kâ<i>n</i>va tiene nishedu<i>h</i>, 'se sentaron'. Véase [IV, 6, 8, 1](../Book_2_4_6#v4_6_8_1).
 
-[^1039]: 446:4 Véase [p. 31](Book_2_3_2#p31), nota [1](Book_2_3_2#fn86).
+[^1039]: 446:4 Véase [p. 31](../Book_2_3_2#p31), nota [1](../Book_2_3_2#fn86).
 
-[^1040]: 447:1 A saber, los mencionados en los párrafos [8](Book_2_4_6#v4_6_9_8) y [9](Book_2_4_6#v4_6_9_9).
+[^1040]: 447:1 A saber, los mencionados en los párrafos [8](../Book_2_4_6#v4_6_9_8) y [9](../Book_2_4_6#v4_6_9_9).
 
-[^1041]: 447:2 Es decir, en el décimo día del Da<i>s</i>arâtra, y por lo tanto o bien el penúltimo día del Dvâda<i>s</i>âha sesional ([p. 402](Book_2_4_5#p402), nota [2](Book_2_4_5#fn935)), o bien el penúltimo día del Gavâm ayana ([p. 426](Book_2_4_6#p426), nota [3](Book_2_4_6#fn988)), llamado p. 448 Avivâkya. Las ceremonias aquí descritas tienen lugar por la tarde, después de la realización regular del sacrificio Soma de ese día (atyagnish<i>t</i>oma).
+[^1041]: 447:2 Es decir, en el décimo día del Da<i>s</i>arâtra, y por lo tanto o bien el penúltimo día del Dvâda<i>s</i>âha sesional ([p. 402](../Book_2_4_5#p402), nota [2](../Book_2_4_5#fn935)), o bien el penúltimo día del Gavâm ayana ([p. 426](../Book_2_4_6#p426), nota [3](../Book_2_4_6#fn988)), llamado p. 448 Avivâkya. Las ceremonias aquí descritas tienen lugar por la tarde, después de la realización regular del sacrificio Soma de ese día (atyagnish<i>t</i>oma).
 
 [^1042]: 448:1 'Cada uno de ellos (? o, uno por uno), atado al habla, guarda a Soma hasta el despertar', Kâty. XII, 4, 1. Según el texto de Kâ<i>n</i>va solo uno (eko haishâm) lo hace (pero quizás a la vez), mientras que los demás se dispersan (vitish<i>th</i>ante).
 
 [^1043]: 448:2 El Patnî<i>s</i>âla parece ser idéntico aquí al Prâ<i>k</i>înava<i>m</i><i>s</i>a (véase Kâty. XII, 4, 7), a menos que se trate de algún cobertizo o tienda contigua a este último, cf. Âpast. <i>S</i>r. X, 5, comm. La fórmula sacrificial de la primera ofrenda parece referirse al hogar doméstico, el centro de la vida familiar, como fuente de alegría y fortaleza para el cabeza de familia.
 
-[^1044]: 448:3 Según el texto Kâ<i>n</i>va, el Adhvaryu hace las oblaciones; pero si no sabe cómo realizarlas (es decir, si su escuela no las reconoce como parte de sus deberes), lo hace el G<i>ri</i>hapati; y si no puede, cualquiera que las conozca puede realizarlas. Respecto a estas oblaciones y al orden de las ceremonias subsiguientes, existe una considerable diferencia de opinión entre las autoridades ritualistas. Según Â<i>s</i>v. VIII, 13, 1-2, todos ofrecen, pero solo la primera oblación debe realizarse en el Gârhapatya y la segunda en el Âgnîdhrîya. Lâ<i>t</i>y. III, 7, 8 ss., por otro lado, ordena al Udgât<i>ri</i> realizar dos oblaciones en el Gârhapatya; la primera con la fórmula (algo modificada), asignada en nuestro texto a la segunda oblación, mientras que la segunda oblación debe hacerse con 'Svâhâ' simplemente. \[La primera de las fórmulas anteriores debe, según esa autoridad, ser utilizada por ellos, cuando tocan el poste Udumbara, ver [IV, 6, 9, 22](Book_2_4_6#v4_6_9_22).\] Completadas las oblaciones, deben proceder al Âhavanîya, donde los Udgât<i>ri</i>s deben cantar tres veces el Sâman II, 1126 (?); después de lo cual entran en los Sadas para realizar el Mânasa-stotra.
+[^1044]: 448:3 Según el texto Kâ<i>n</i>va, el Adhvaryu hace las oblaciones; pero si no sabe cómo realizarlas (es decir, si su escuela no las reconoce como parte de sus deberes), lo hace el G<i>ri</i>hapati; y si no puede, cualquiera que las conozca puede realizarlas. Respecto a estas oblaciones y al orden de las ceremonias subsiguientes, existe una considerable diferencia de opinión entre las autoridades ritualistas. Según Â<i>s</i>v. VIII, 13, 1-2, todos ofrecen, pero solo la primera oblación debe realizarse en el Gârhapatya y la segunda en el Âgnîdhrîya. Lâ<i>t</i>y. III, 7, 8 ss., por otro lado, ordena al Udgât<i>ri</i> realizar dos oblaciones en el Gârhapatya; la primera con la fórmula (algo modificada), asignada en nuestro texto a la segunda oblación, mientras que la segunda oblación debe hacerse con 'Svâhâ' simplemente. \[La primera de las fórmulas anteriores debe, según esa autoridad, ser utilizada por ellos, cuando tocan el poste Udumbara, ver [IV, 6, 9, 22](../Book_2_4_6#v4_6_9_22).\] Completadas las oblaciones, deben proceder al Âhavanîya, donde los Udgât<i>ri</i>s deben cantar tres veces el Sâman II, 1126 (?); después de lo cual entran en los Sadas para realizar el Mânasa-stotra.
 
 [^1045]: 449:1 Según Kâty. XII, 4, 10 y com., se refiere al eje sur del carro norte. De igual manera, el texto de Kâ<i>n</i>va, al tocar el eje derecho del carro norte, canta sobre él el Sâman, «la culminación (éxito) de la sesión». Las palabras «sattrasya <i>ri</i>ddhi<i>h</i>» son sin duda el nombre del Sâman, que se ha creado erróneamente, con «asi» añadido en el texto Mâdhy. del Sa<i>m</i>hitâ, el comienzo del Sâman.
 
-[^1046]: 450:1 Véase [p. 299](Book_2_4_2#p299), nota [2](Book_2_4_2#fn719).
+[^1046]: 450:1 Véase [p. 299](../Book_2_4_2#p299), nota [2](../Book_2_4_2#fn719).
 
-[^1047]: 451:1 A saber, el llamado Mânasa-stotra (canto mental), Sâma-veda II, 726-8 (Rig-veda X, 289, 1-3, atribuido a la reina de las serpientes): 'El toro moteado ha subido, etc.', realizado de forma inaudible. En relación con este Stotra, se realiza una libación imaginaria a Pra<i>g</i>âpati-Vâyu, todo lo relacionado con esto, desde el upâkara<i>n</i>a (o introducción, por parte del Adhvaryu, véase [p. 401](Book_2_4_5#p401), nota [1](Book_2_4_5#fn931)) hasta el bhaksha, o beber la copa por los sacerdotes, se hace 'mentalmente' (es decir, como parece, solo por gestos). Según Â<i>s</i>v. II, 13, 6, sin embargo, el Hot<i>ri</i> recita el mismo himno en voz baja (upâ<i>m</i><i>s</i>u), pero no de forma inaudible, como un <i>S</i>astra. Pero véase [p. 452](#p452), nota [^1044].
+[^1047]: 451:1 A saber, el llamado Mânasa-stotra (canto mental), Sâma-veda II, 726-8 (Rig-veda X, 289, 1-3, atribuido a la reina de las serpientes): 'El toro moteado ha subido, etc.', realizado de forma inaudible. En relación con este Stotra, se realiza una libación imaginaria a Pra<i>g</i>âpati-Vâyu, todo lo relacionado con esto, desde el upâkara<i>n</i>a (o introducción, por parte del Adhvaryu, véase [p. 401](../Book_2_4_5#p401), nota [1](../Book_2_4_5#fn931)) hasta el bhaksha, o beber la copa por los sacerdotes, se hace 'mentalmente' (es decir, como parece, solo por gestos). Según Â<i>s</i>v. II, 13, 6, sin embargo, el Hot<i>ri</i> recita el mismo himno en voz baja (upâ<i>m</i><i>s</i>u), pero no de forma inaudible, como un <i>S</i>astra. Pero véase [p. 452](#p452), nota [^1044].
 
-[^1048]: 451:2 No por los Prastot<i>ri</i>, como suele ser el caso; véase [p. 310](Book_2_4_2#p310), nota [1](Book_2_4_2#fn747).
+[^1048]: 451:2 No por los Prastot<i>ri</i>, como suele ser el caso; véase [p. 310](../Book_2_4_2#p310), nota [1](../Book_2_4_2#fn747).
 
-[^1049]: 451:3 Véase [p. 311](Book_2_4_2#p311), nota [1](Book_2_4_2#fn748).
+[^1049]: 451:3 Véase [p. 311](../Book_2_4_2#p311), nota [1](../Book_2_4_2#fn748).
 
 [^1050]: 452:1 Según esto (y Tâ<i>n</i><i>d</i>ya Br. IV, 9, 13) parecería que el Hot<i>ri</i> no debe recitar el himno del Mânasa-stotra, como lo prescriben el Ait. Br. y Â<i>s</i>v.
 
@@ -451,8 +451,8 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^1056]: 454:3 Según Lâ<i>t</i>y. III, 8, forman un círculo alrededor del poste de Udumbara y lo tocan, murmurando el mantra: «¡Aquí está la estabilidad, aquí está (nuestra) propia estabilidad! ¡Aquí está la alegría: aquí se regocijan!» o «En mí está la estabilidad, en mí está (vuestra) propia estabilidad! ¡En mí está la alegría: en mí se regocijan!», o ambos. Véase [p. 448](#p448), nota [^1038].
 
-[^1057]: 454:4 Véase [III, 9, 2, 1](Book_2_3_9#v3_9_2_1) seq.
+[^1057]: 454:4 Véase [III, 9, 2, 1](../Book_2_3_9#v3_9_2_1) seq.
 
-[^1058]: 455:1 Véase [III, 3, 4, 17](Book_2_3_4#v3_4_4_17) seq.
+[^1058]: 455:1 Véase [III, 3, 4, 17](../Book_2_3_4#v3_4_4_17) seq.
 
 [^1059]: 455:2 Según la comunicación sobre Kâty. XII, 4, 28, es el recitador del Subrahma<i>n</i>yâ quien, tras decir: «¡Oh, Subrahma<i>n</i>yâ, invítame allí!», pone leña en el fuego.

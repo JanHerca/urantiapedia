@@ -58,7 +58,7 @@ El sacerdote brahmán, al oír esto, se enfureció y le preguntó al Gurú si to
 Adorando y alabando el Nombre se obtiene honor y un hilo verdadero.
 _De esta manera_ se pondrá un hilo sagrado que no se romperá y que será apto para entrar en la corte de Dios.
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Luego el Gurú concluyó su instrucción sobre el tema de la siguiente manera:
 
@@ -108,7 +108,7 @@ Sin el Nombre ¿cómo podría vivir, oh madre?
 Noche y día[^1] lo repito y permanezco, _oh Señor_, bajo tu protección.
 Nanak, aquel que está imbuido con el Nombre obtiene honor.[^2]
 
-<span id="p21">[<sup><small>pág. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Después de esto, Nanak se acostó, permaneció en la misma posición durante cuatro días y rechazó todo esfuerzo físico.
 
@@ -126,7 +126,7 @@ En el orgullo de la riqueza y el esplendor de la belleza se ha desperdiciado la 
 El pecado del cuerpo es un charco, la mente es un sapo en él, que no valora en absoluto el loto.
 El abejorro es el maestro,[^3] que predica incesantemente; pero ¿puede el gurú hacer que un hombre entienda si no quiere entender?[^4]
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Predicar y escuchar son como el susurro del viento, cuando la mente del hombre está teñida por las ilusiones del mundo.
 El Señor lanza una mirada favorable y se complace en aquellos que meditan sólo en Él.
@@ -143,7 +143,7 @@ Mammón ha seducido a este mundo, y pocos son los que lo entienden.
 
 Entonces Nanak le informó a su padre que había sembrado su propio campo y que la cosecha ya estaba lista. Tenía tanta confianza en su labor que, incluso después de deducir la parte pagada en especie al gobierno como ingreso, aún obtendría la totalidad del producto. Hijos, hijas, mendigos, hermanos y parientes se beneficiarían. Había trabajado para Dios, quien lo había tratado como un señor a sus labradores, y el día que se uniera a su Creador, su alma se alegraría.
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Al oír esto, su padre le sugirió que abriera una tienda, pues una tienda era tan rentable como la labranza. Nanak respondió:
 
@@ -162,7 +162,7 @@ Kalu, desesperado, respondió: «Estás perdido para nosotros; ve y acepta un se
 Haz de la atención tu servicio, de la fe en el Nombre tu ocupación;
 Haz que el esfuerzo por contener el mal sea tuya, y entonces los hombres te felicitarán.
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Entonces Dios te mirará, oh Nanak, con ojos favorables, y tu tez se iluminará cuatro veces más.[^1]
 
@@ -206,7 +206,7 @@ Tú que hiciste el día, hiciste también la noche.
 Aquellos que olvidan a su Esposa[^3] son ​​malos personajes;[^4]
 Nanak, sin Su nombre no son nada.[^5]
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Entonces su madre se levantó y contó a la familia el estado de Nanak. Ante esto, toda la familia y sus parientes se entristecieron y dijeron que era una gran lástima que el hijo de Kalu se hubiera vuelto loco.
 
@@ -251,7 +251,7 @@ Así como el hombre es útil mientras tenga aliento en su cuerpo,
 Así, cuando el aliento se va, el cuerpo se desmorona y se vuelve inútil:
 Nadie toma medicina después de eso.
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Cuando el hombre posea el Nombre del Brillante y Radiante[^1],
 Su cuerpo será como el oro y su alma será pura;
@@ -277,7 +277,7 @@ Hay día, aquí todo es noche.
 Hagamos de la penitencia el papel,[^5] tu nombre, _oh Señor_, la prescripción.
 Aquellos a quienes se les prescribe esta medicina inestimable,
 
-<span id="p29">[<sup><small>pág. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Tienen suerte cuando llegan a su hogar definitivo.
 Oh Nanak, benditas sean las madres que los dieron a luz.[^1]

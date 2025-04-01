@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 **EL TAO EL REY, O EL TAO Y SUS CARACTERÍSTICAS.**
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 EL AL REY.
 
@@ -59,7 +59,7 @@ Su periferia exterior es todo lo que veremos.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/04700.jpg), 'Encarnando el Tao'. El autor expone, hasta donde la dificultad del tema lo permite, la naturaleza del Tao en sí y su manifestación. Para comprender el Tao, es necesario ser partícipe de su naturaleza.
 
-El párrafo 3 evoca las palabras del apóstol Juan: «El que no ama no conoce a Dios; porque Dios es amor». Este capítulo abarca tanto el Tâo, el ideal de Lâo-dze en lo absoluto, como su Teh, u operación; este último es el Tâo con el nombre de la Madre de todas las cosas. Véanse las páginas [12](Introducción_2#p12), [13](Introducción_3#p13) de la Introducción sobre la traducción del término Tâo.
+El párrafo 3 evoca las palabras del apóstol Juan: «El que no ama no conoce a Dios; porque Dios es amor». Este capítulo abarca tanto el Tâo, el ideal de Lâo-dze en lo absoluto, como su Teh, u operación; este último es el Tâo con el nombre de la Madre de todas las cosas. Véanse las páginas [12](../Introducción_2#p12), [13](../Introducción_3#p13) de la Introducción sobre la traducción del término Tâo.
 
 
 <a id="c2"></a>
@@ -141,7 +141,7 @@ Utilizado con suavidad y sin provocar dolor.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05100.jpg), «La Perfección de las Formas Materiales». Este título expresa acertadamente la importancia de este enigmático capítulo; pero en él se sientan las bases para el desarrollo del taoísmo posterior, que se ocupa de la prolongación de la vida mediante el manejo de la respiración ( ![](/image/book/Taoism/Taoist_texts_vol_1/05101.jpg)) o fuerza vital.
 
-«El valle» se usa metafóricamente como símbolo de «vacío» o «vacío»; y «el espíritu del valle» es algo invisible, aunque casi personal, perteneciente al Tâo, que constituye el Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) en nombre de nuestro Rey. «El espíritu del valle» ha llegado a ser un nombre para la actividad del Tâo en todo el ámbito de su operación. «El misterio femenino» es el Tâo con un nombre de capítulo 1, que es «la Madre de todas las cosas». Todos los seres vivos tienen un padre y una madre. Los procesos de generación y producción difícilmente pueden ser imaginados por nosotros sin un reconocimiento de este hecho; y así Lâo-dze pensó en el reino existente de la naturaleza —de la vida— como proveniente de un <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> evolución (no una creación) a partir del aire o aliento primigenio, dividiéndose en dos y apareciendo desde allí en formas materiales e inmateriales. El capítulo se encuentra en Lieh-dze (I, 1 b), citado por él mismo de un libro de Hwang-Tî; y aquí Lâo-dze lo ha apropiado y lo ha hecho suyo. Véase la Introducción, [p. 2](Introducción_1#p2).
+«El valle» se usa metafóricamente como símbolo de «vacío» o «vacío»; y «el espíritu del valle» es algo invisible, aunque casi personal, perteneciente al Tâo, que constituye el Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) en nombre de nuestro Rey. «El espíritu del valle» ha llegado a ser un nombre para la actividad del Tâo en todo el ámbito de su operación. «El misterio femenino» es el Tâo con un nombre de capítulo 1, que es «la Madre de todas las cosas». Todos los seres vivos tienen un padre y una madre. Los procesos de generación y producción difícilmente pueden ser imaginados por nosotros sin un reconocimiento de este hecho; y así Lâo-dze pensó en el reino existente de la naturaleza —de la vida— como proveniente de un <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> evolución (no una creación) a partir del aire o aliento primigenio, dividiéndose en dos y apareciendo desde allí en formas materiales e inmateriales. El capítulo se encuentra en Lieh-dze (I, 1 b), citado por él mismo de un libro de Hwang-Tî; y aquí Lâo-dze lo ha apropiado y lo ha hecho suyo. Véase la Introducción, [p. 2](../Introducción_1#p2).
 
 
 <a id="c7"></a>
@@ -248,7 +248,7 @@ No estoy seguro de que Wang Pî haya captado exactamente la idea del autor en el
 
 3\. Lo encontramos y no vemos su Frente; lo seguimos y no vemos su Reverso. Cuando podemos aferrarnos al Tao de antaño para dirigir las cosas del presente y somos capaces de conocerlo tal como era en el principio, esto se llama (desenredar) la clave del Tao.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/05700.jpg), 'La Manifestación del Misterio'. El tema del párrafo 1 es el Tao, pero el Tao en su funcionamiento, y no su concepción original, como completamente distinta de las cosas, que surge en el segundo párrafo. Los caracteres chinos que he traducido como 'el Ecuatorial', 'el Inaudible' y 'el Sutil' se pronuncian ahora Î, Hî y Wei, y en 1823 Rémusat creyó que estaban destinados a representar el tetragrámaton hebreo יהוה, que creía que había llegado a Lâo-dze de alguna manera desde Occidente, o que él había encontrado allí. Era una mera fantasía o sueño; Y aún más lo es el reciente intento de revivir la noción por parte de Victor von Strauss en 1870 y del Dr. Edkins en 1884. La idea de este último es especialmente extraña, pues sostiene que debemos leer los caracteres según sus antiguos sonidos. Lâo-dze no tiene en mente en el capítulo un Ser personal, sino el procedimiento de su misterioso Tâo, el curso según el cual se producen los fenómenos visibles, incognoscible para el sentido humano y susceptible solo de una descripción aproximada mediante términos apropiados al dominio de los sentidos. Véase la Introducción, págs. [14](Introducción_3#p14), [15](Introducción_3#p15).
+![](/image/book/Taoism/Taoist_texts_vol_1/05700.jpg), 'La Manifestación del Misterio'. El tema del párrafo 1 es el Tao, pero el Tao en su funcionamiento, y no su concepción original, como completamente distinta de las cosas, que surge en el segundo párrafo. Los caracteres chinos que he traducido como 'el Ecuatorial', 'el Inaudible' y 'el Sutil' se pronuncian ahora Î, Hî y Wei, y en 1823 Rémusat creyó que estaban destinados a representar el tetragrámaton hebreo יהוה, que creía que había llegado a Lâo-dze de alguna manera desde Occidente, o que él había encontrado allí. Era una mera fantasía o sueño; Y aún más lo es el reciente intento de revivir la noción por parte de Victor von Strauss en 1870 y del Dr. Edkins en 1884. La idea de este último es especialmente extraña, pues sostiene que debemos leer los caracteres según sus antiguos sonidos. Lâo-dze no tiene en mente en el capítulo un Ser personal, sino el procedimiento de su misterioso Tâo, el curso según el cual se producen los fenómenos visibles, incognoscible para el sentido humano y susceptible solo de una descripción aproximada mediante términos apropiados al dominio de los sentidos. Véase la Introducción, págs. [14](../Introducción_3#p14), [15](../Introducción_3#p15).
 
 
 <a id="c15"></a>
@@ -305,7 +305,7 @@ El logro de poseer el Tao, o ser una encarnación de él, sigue al devenir Celes
 ![](/image/book/Taoism/Taoist_texts_vol_1/06104.jpg), «La decadencia de las costumbres». Una continuación del capítulo anterior, que muestra también cómo la decadencia general de las costumbres brindó la oportunidad de exhibir ciertas virtudes individuales. Observe «el Gran Tao», que aparece aquí por primera vez como la designación del Tao.
 
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 <a id="c19"></a>
 
@@ -402,7 +402,7 @@ La mente de Lâo-dze está ocupada con un tema muy difícil: describir la produc
 Compare la oración final con la del final del párrafo 1 del capítulo 17.
 
 
-<span id="p67">[<sup><small>pág. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 <a id="c24"></a>
 
@@ -431,11 +431,11 @@ Los restos de comida no se utilizaban como ofrendas sacrificiales; véase el Lî
 
 «Él no conoce su nombre», y lo designa con el término que denota un curso o camino (Tâo, ![](/image/book/Taoism/Taoist_texts_vol_1/tao.jpg)), e indica el atributo fenoménico, el método por el cual todos los fenómenos llegan a nuestra observación, en su desarrollo o evolución. Y para distinguirlo de todos los demás métodos de evolución, lo llamaría «el Gran Método», y por eso emplea esa combinación como su nombre en el cap. 18 y en otras partes; pero no se puede decir que este nombre se haya mantenido plenamente en los escritos de sus seguidores. Pero entendido así, aquí dice, como en el cap. 1, que es «la Madre de todas las cosas». Y, sin embargo, cuando dice que «era antes de que se produjeran el Cielo y la Tierra», se acerca mucho a sus afirmaciones de los capítulos 1 y 4, de que «el Tâo sin nombre fue el principio (o causa originaria) del Cielo y la Tierra», y «podría parecer haber sido antes
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Dios. ¿Acaso buscaba a Dios a tientas, por si acaso lo encontraba? Creo que sí, y llega incluso a concebirlo como «la Causa Incausada», pero se queda corto en la idea de su personalidad. Las demás causas subordinadas que menciona obtienen su fuerza o poder del Tao, pero, al fin y al cabo, el Tao es simplemente una espontaneidad que evoluciona de sí misma y no actúa por voluntad personal, conscientemente en la dirección de su propia sabiduría y amor. «¿Quién puede, buscando, encontrar a Dios? ¿Quién puede encontrar al Todopoderoso en su perfección?»
 
-El predicado del Tao en el capítulo, que más me resulta desconcertante, es “Regresa”, en el párrafo 3. “Fluye lejos, muy lejos, y regresa”; ¿no son las tres afirmaciones juntas iguales a “Está en todas partes”?
+El predicado del Tao en el capítulo, que más me resulta desconcertante, es «Regresa», en el párrafo 3. «Fluye lejos, muy lejos, y regresa»; ¿no son las tres afirmaciones juntas iguales a «Está en todas partes»?
 
 
 <a id="c26"></a>
@@ -451,7 +451,7 @@ El predicado del Tao en el capítulo, que más me resulta desconcertante, es “
 La regla para que un líder no se separe de sus carros de equipaje es simplemente la necesidad de atenerse a la gravedad. He adoptado de Han Fei la lectura de «el príncipe sabio» en lugar de «el sabio», que se encuentra en Ho-shang Kung; y posteriormente la lectura de «ha perdido su raíz» en lugar de «pierde a sus ministros», aunque esta última también se encuentra en Han Fei.
 
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 <a id="c27"></a>
 
@@ -607,7 +607,7 @@ Más interesantes son los predicados del párrafo 2. Ziâo Hung ofrece el coment
 La Gran Imagen (del Tao invisible) es un nombre para el Tao en su funcionamiento, como se indica en los capítulos 14 y 41. Quien la personifique en su gobierno será un centro de atracción para todo el mundo. O bien, ![](/image/book/Taoism/Taoist_texts_vol_1/07704.jpg) puede interpretarse como un predicado del poseedor de la Gran Imagen: «Si recorre todo el mundo enseñando el Tao». Ambas construcciones son sostenidas por comentaristas destacados. En el párrafo 2, se contrasta la atracción del Tao con la de los placeres y gratificaciones comunes.
 
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 <a id="c36"></a>
 

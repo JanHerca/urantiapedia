@@ -204,7 +204,7 @@ P. ¿Qué significa esto?
 
 A. En verdad, Dios da el pan de cada día a los malvados, incluso sin nuestra oración. Pero en esta petición oramos para que nos ayude a comprenderlo y a recibir nuestro pan de cada día con agradecimiento.
 
-P. ¿Qué significa “Pan de cada día”?
+P. ¿Qué significa «Pan de cada día»?
 
 A. Todo lo que nutre nuestro cuerpo y satisface sus necesidades, tales como: comida, bebida, vestido, zapatos, casa, patio, campos, ganado, dinero, posesiones, un cónyuge devoto, hijos devotos, empleados devotos, gobernantes devotos y fieles, buen gobierno, buen clima, paz, salud, disciplina, honor, buenos amigos, vecinos fieles y otras cosas como estas.
 
@@ -245,7 +245,7 @@ A. El bautismo no es sólo agua simple, sino es agua contenida dentro del mandat
 
 P. ¿Qué Palabra de Dios es ésta?
 
-A. El que nuestro Señor Jesucristo habló en el último capítulo de Mateo: “Id por todo el mundo y enseñad a todas las naciones paganas, y bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo”.
+A. El que nuestro Señor Jesucristo habló en el último capítulo de Mateo: «Id por todo el mundo y enseñad a todas las naciones paganas, y bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo».
 
 ### II.
 
@@ -255,7 +255,7 @@ A. Da el perdón de los pecados, redime de la muerte y del Diablo, da salvación
 
 P. ¿Cuáles son estas palabras y promesas de Dios?
 
-A. Nuestro Señor Cristo habló de una de ellas en el último capítulo de Marcos: “El que crea y sea bautizado, será salvo; pero el que no crea, será condenado”.
+A. Nuestro Señor Cristo habló de una de ellas en el último capítulo de Marcos: «El que crea y sea bautizado, será salvo; pero el que no crea, será condenado».
 
 ### III.
 
@@ -271,7 +271,7 @@ A. Significa que el viejo Adán en nosotros debe ser ahogado por la tristeza y e
 
 P. ¿Dónde está escrito esto?
 
-A. San Pablo dice a los Romanos en el capítulo seis: “Somos sepultados con Cristo por el bautismo en la muerte, para que, de la misma manera que Cristo resucitó de entre los muertos por la gloria del Padre, así también nosotros debemos andar en una vida nueva”.
+A. San Pablo dice a los Romanos en el capítulo seis: «Somos sepultados con Cristo por el bautismo en la muerte, para que, de la misma manera que Cristo resucitó de entre los muertos por la gloria del Padre, así también nosotros debemos andar en una vida nueva».
 
 
 ## Parte cinco: Confesión
@@ -292,7 +292,7 @@ En segundo lugar, la persona recibe la absolución o el perdón del confesor, co
 
 P. ¿Qué pecados debemos confesar?
 
-A. Cuando hablamos con Dios, debemos declararnos culpables de todos los pecados, incluso de aquellos que no conocemos, tal como lo hacemos en el “Padre Nuestro”, pero cuando hablamos con el confesor, solo de los pecados que conocemos, que conocemos y sentimos en nuestro corazón.
+A. Cuando hablamos con Dios, debemos declararnos culpables de todos los pecados, incluso de aquellos que no conocemos, tal como lo hacemos en el «Padre Nuestro», pero cuando hablamos con el confesor, solo de los pecados que conocemos, que conocemos y sentimos en nuestro corazón.
 
 P. ¿Cuales son estos?
 
@@ -315,7 +315,7 @@ P. ¿Dónde está escrito eso?
 
 A. Los santos apóstoles Mateo, Marcos, Lucas y San Pablo escriben esto:
 
-Nuestro Señor Jesucristo, la noche que fue entregado, tomó pan, dio gracias, lo partió, se lo dio a sus discípulos y dijo: “¡Tomen! ¡Coman! Este es mi cuerpo, que es entregado por ustedes. ¡Hagan esto en memoria de mí!”. De la misma manera, después de cenar, tomó la copa, dio gracias, se la dio y dijo: “¡Tomen y beban de ella todos! Esta copa es el Nuevo Testamento en mi sangre, que se derrama por ustedes para perdón de los pecados. Hagan esto todas las veces que la beban, en memoria de mí”.
+Nuestro Señor Jesucristo, la noche que fue entregado, tomó pan, dio gracias, lo partió, se lo dio a sus discípulos y dijo: «¡Tomen! ¡Coman! Este es mi cuerpo, que es entregado por ustedes. ¡Hagan esto en memoria de mí!». De la misma manera, después de cenar, tomó la copa, dio gracias, se la dio y dijo: «¡Tomen y beban de ella todos! Esta copa es el Nuevo Testamento en mi sangre, que se derrama por ustedes para perdón de los pecados. Hagan esto todas las veces que la beban, en memoria de mí».
 
 ### III.
 

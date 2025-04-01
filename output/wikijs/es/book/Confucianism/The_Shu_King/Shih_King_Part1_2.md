@@ -130,7 +130,7 @@ Ciertamente, el honor y la sucesión provienen de él para la Casa de Kâu. A su
 
 Brillante e ilustre es la Casa de Kâu. Él ha regulado las posiciones de los príncipes; ha llamado a escudos y lanzas; ha devuelto a sus estuches arcos y flechas [^352]. Cultivará una virtud admirable y la exhibirá por todas estas grandes regiones. El rey ciertamente preservará el cargo.
 
-<span id="p319">[<sup><small>pág. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 <a id="o19"></a>
 
@@ -189,13 +189,13 @@ Nuevamente, existe la dificultad de determinar a qué sacrificio debe referirse 
 
 CELEBRANDO A LOS REPRESENTANTES DE DINASTÍAS ANTIGUAS, QUE HABÍAN LLEGADO A LA CORTE PARA ASISTIR A UN SACRIFICIO EN EL TEMPLO ANCESTRAL.
 
-Esta pieza pudo haber sido utilizada cuando el rey despedía a sus distinguidos invitados en el templo ancestral. Véase la nota introductoria de esta parte, págs. [300](Shih_King_Part1_Intro#p300), 301.
+Esta pieza pudo haber sido utilizada cuando el rey despedía a sus distinguidos invitados en el templo ancestral. Véase la nota introductoria de esta parte, págs. [300](../Shih_King_Part1_Intro#p300), 301.
 
 Una bandada de garcetas vuela, sobre el pantano allá en el oeste [^358]. Mis visitantes llegaron, con un porte (elegante) como esos pájaros.
 
 Allí, (en sus estados), no son desagradables, aquí, (en <i>K</i>âu), nunca se cansan de ellos; están seguros, día y noche, de perpetuar su fama.
 
-<span id="p323">[<sup><small>pág. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <a id="o24"></a>
 
@@ -217,7 +217,7 @@ Los críticos coinciden en afirmar que esta pieza se compuso con motivo de la fi
 
 Allí están los músicos ciegos; allí están los músicos ciegos; En el patio de (el templo de) <i>K</i>âu. [^359]
 
-<span id="p324">[<sup><small>pág. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Allí están los marcos de música con sus tableros y postes, el borde dentado de los primeros y las plumas clavadas en los segundos; con los tambores, grandes y pequeños, suspendidos de ellos; y los tambores de mano y las piedras sonoras, el instrumento para dar la señal de inicio y el tapón. Una vez terminados, se empieza a tocar la música. La zampoña y la flauta doble comienzan al mismo tiempo [^360].
 
@@ -247,7 +247,7 @@ Vienen llenos de armonía; están aquí con toda gravedad; los príncipes ayudan
 
 Con penetrante sabiduría te comportaste como un hombre. Un soberano con los dones de la paz y la guerra, dando descanso incluso al gran Cielo [^361], y asegurando la prosperidad a tus descendientes.
 
-<span id="p326">[<sup><small>pág. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 'Me confortas con las cejas de la longevidad; me haces grande con múltiples bendiciones; ofrezco este sacrificio a mi meritorio padre y a mi realizada madre [^362].'
 
@@ -274,7 +274,7 @@ La mención de los caballos blancos en el carro del visitante corrobora suficien
 ¡El noble huésped se quedará solo una o dos noches! ¡El noble huésped se quedará solo dos o cuatro noches! Denle cuerdas para atar sus caballos [^364].
 
 Lo acompañaré (con un banquete de despedida); lo consolaré de todas las maneras posibles. Adornado con tan gran dignidad, es muy natural que sea bendecido.
-<span id="p328">[<sup><small>pág. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 <a id="o210"></a>
 
@@ -345,7 +345,7 @@ Quitan la hierba y los arbustos, y con sus arados abren la tierra.
 
 En miles de parejas quitan las raíces, unos en las tierras bajas y húmedas, otros a lo largo de los diques.
 
-<span id="p332">[<sup><small>pág. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Allí están el amo y su hijo mayor; sus hijos menores y todos sus hijos; sus fuertes ayudantes y sus sirvientes contratados. ¡Cómo resuena el ruido de sus comidas! (Los esposos) piensan con cariño en sus esposas; (Las esposas) se mantienen cerca de sus esposos. (Entonces) con sus afiladas rejas de arado, se ponen a trabajar en las tierras del sur.
 
@@ -371,7 +371,7 @@ Muy afiladas son las excelentes acciones con que se pusieron a trabajar en los a
 
 Siembran sus distintas clases de granos, y cada semilla contiene en sí un germen de vida.
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Hay quienes vienen a verlos, Con sus cestas redondas y cuadradas, Conteniendo las provisiones de mijo.
 
@@ -391,7 +391,7 @@ Al estar esas cien casas llenas, las esposas y los niños tienen una sensación 
 
 UNA ODA APROPIADA A LOS PREPARATIVOS Y EL PROGRESO DE UN FESTÍN DESPUÉS DE UN SACRIFICIO.
 
-El prefacio y los editores del Yung-_kh_ăng Shih afirman que la pieza hace referencia al entretenimiento ofrecido al día siguiente de un sacrificio en el templo ancestral, a los personificadores de los muertos, descrito en la [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî lo niega y simplemente sostiene que pertenece al festín posterior a un sacrificio, sin especificar de qué sacrificio se trata. La visión antigua es probablemente la más correcta.
+El prefacio y los editores del Yung-_kh_ăng Shih afirman que la pieza hace referencia al entretenimiento ofrecido al día siguiente de un sacrificio en el templo ancestral, a los personificadores de los muertos, descrito en la [p. 301](../Shih_King_Part1_Intro#p301). <i>K</i>û Hsî lo niega y simplemente sostiene que pertenece al festín posterior a un sacrificio, sin especificar de qué sacrificio se trata. La visión antigua es probablemente la más correcta.
 
 Con sus ropas de seda, limpias y brillantes, Con su gorra en la cabeza, luciendo tan respetuoso, Desde el salón va al pie de la escalera, Y (luego) de las ovejas a los bueyes [^369]. (Inspecciona) los trípodes, grandes y pequeños, Y la copa curva de cuerno de rinoceronte [^370]. Los buenos espíritus son apacibles, (Pero) no hay ruido, ninguna insolencia:—Un auspicio (este) de gran longevidad.
 
@@ -487,7 +487,7 @@ En la octava pieza de la primera década encontramos una oda similar, que relata
 
 [^370]: 322:2 Para el cultivo de la tierra, las parcelas de cada familia estaban separadas por una pequeña zanja; diez parcelas, por una más grande; cien, por lo que podríamos llamar un arroyo; mil, por un pequeño riachuelo; y diez mil, por un río. El espacio ocupado por 10.000 familias formaba un cuadrado de poco más de treinta y dos lî. Podemos suponer que este espacio se refería al número redondo de treinta lî en el texto. Así lo explicó al menos Kăng Khang-_khăng.
 
-[^371]: 322:3 Estos dos versos hacen que la pieza sea alusiva. Véase la Introducción, [p. 279](Shih_King_Intro_1#p279).
+[^371]: 322:3 Estos dos versos hacen que la pieza sea alusiva. Véase la Introducción, [p. 279](../Shih_King_Intro_1#p279).
 
 [^372]: 323:1 Los músicos ciegos en la corte de Kâu eran numerosos. Se suponía que la ceguera de los ojos agudizaba la audición y favorecía la voz. En el Libro Oficial de Kâu, III, i, párrafo 22, la enumeración de la pág. 234 de estos músicos ciegos indica dos directores de primer rango y cuatro de segundo; cuarenta intérpretes de primer grado, cien de segundo y ciento sesenta de tercero; con trescientos asistentes videntes. Pero es difícil no sentir cierta incredulidad ante esta gran colección de músicos ciegos en la corte de Kâu.
 
@@ -497,7 +497,7 @@ En la octava pieza de la primera década encontramos una oda similar, que relata
 
 [^375]: 326:1 En los sacrificios a los antepasados, las tablillas espirituales de las esposas se colocaban junto con las de sus esposos en sus santuarios, para que ambos compartieran los honores del servicio. Así sucede ahora en el templo imperial ancestral de Pekín. La «madre consumada» sería Thâi Sze, a menudo celebrada en los fragmentos del primer Libro de la Parte I y en otros lugares.
 
-[^376]: 326:2 Entre los usos de los servicios del templo ancestral, especificados por Confucio y citados en la [p. 302](Shih_King_Part1_Intro#p302), se encontraba la distinción del orden de descendencia en la Casa Real. Según las reglas para tal fin, los caracteres aquí utilizados nos permiten determinar que el sujeto de esta línea era el rey Wû, en oposición a su padre Wan.
+[^376]: 326:2 Entre los usos de los servicios del templo ancestral, especificados por Confucio y citados en la [p. 302](../Shih_King_Part1_Intro#p302), se encontraba la distinción del orden de descendencia en la Casa Real. Según las reglas para tal fin, los caracteres aquí utilizados nos permiten determinar que el sujeto de esta línea era el rey Wû, en oposición a su padre Wan.
 
 [^377]: 327:1 Estos cuatro versos expresan simplemente el deseo del rey de distraer a su visitante del deleite que su presencia le proporcionaba. Compárese con el lenguaje similar de la segunda oda de la cuarta década de la Parte II.
 

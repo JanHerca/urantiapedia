@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p252">[<sup><small>pág. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 ### LIBRO XXVI. EL ENCARGO A <i>KH</i>IUNG.
 

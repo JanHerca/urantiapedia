@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## SOBRE EL CONOCIMIENTO DE LOS VEDAS. TEVI<i>GG</i>A-SUTTA. CAPÍTULO III.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 4\. 'Así, Vâse<i>tth</i>a, como un poderoso trompetista se hace oír —y eso sin dificultad— en las cuatro direcciones; así también, de todas las cosas que tienen <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> forma o vida, no hay ninguna que él pase por alto o deje de lado, sino que las contempla a todas con una mente libre y una profunda compasión, simpatía y ecuanimidad.
 
-“En verdad, éste, Vâse<i>tth</i>a, es el camino hacia un estado de unión con Brahmâ”.
+«En verdad, éste, Vâse<i>tth</i>a, es el camino hacia un estado de unión con Brahmâ».
 
 5\. 'Ahora bien, ¿qué piensas, Vâse<i>tth</i>a? ¿El Bhikkhu[^2] que vive así poseerá mujeres y riquezas, o no?'
 
@@ -86,7 +86,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 Fin del Tevi<i>gg</i>a Suttanta.
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

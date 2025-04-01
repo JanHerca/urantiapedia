@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:15Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 <a name="xref_CC1"></a>
 
@@ -70,7 +70,7 @@ La familia Tou salvó a la gente y así obtuvo noblemente la olea de cinco ramas
 
 Tou Yü-Chün aún no había tenido un hijo varón a los treinta años. Una noche, su abuelo se le apareció en sueños y le dijo: «Puede que no tengas descendencia ni vivas mucho tiempo si no eres diligente en la realización de obras de caridad».
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Yü-Chün era un hombre adinerado y podía permitirse muchas obras de caridad. Uno de sus sirvientes robó una suma considerable de dinero de su arca. Al descubrirse el hecho, el culpable huyó dejando a su hija de trece años, a quien le adjuntaban una nota que decía: «Ofrezco a esta joven y mi casa en venta. Con el dinero así obtenido deseo saldar mi deuda».
 
@@ -80,7 +80,7 @@ Yü-Chün hizo muchas otras obras buenas. Los pobres que no podían costear los 
 
 Mientras tanto, volvió a ver a su abuelo en sueños, quien le dijo: «Originalmente estabas destinado a no tener descendencia y a vivir solo unos pocos años más. Pero gracias a tus actos humanitarios, tus méritos han sido registrados por el Señor Celestial. Tu vida se prolongará y tendrás cinco hijos que serán muy prósperos».
 
-“El camino del Yin y el Yang”, añadió el espíritu, “es como la ley del Karma. La recompensa puede manifestarse en esta vida o en vidas posteriores. La <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> red celestial es vasta y pende libremente, pero nunca permite que nada se escape. No debes albergar ninguna duda al respecto”.
+«El camino del Yin y el Yang», añadió el espíritu, «es como la ley del Karma. La recompensa puede manifestarse en esta vida o en vidas posteriores. La <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> red celestial es vasta y pende libremente, pero nunca permite que nada se escape. No debes albergar ninguna duda al respecto».
 
 Los cinco hijos de Yü-Chün aprobaron con éxito los exámenes literarios y fueron promovidos a altos puestos oficiales.
 
@@ -106,7 +106,7 @@ Shun Shu-Ao, del estado de Chu, de niño, solía salir con frecuencia. Un día v
 
 Cuando Shun era hombre, fue nombrado ministro de estado.
 
-<span id="p31">[<sup><small>pág. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 <a name="xref_CC7"></a>
 
@@ -120,7 +120,7 @@ La diferencia entre sabios como Yao y Shun y miserables como Chieh o Chou, simpl
 
 El alma de un caballero sincero y sincero [^8] hunde sus raíces en este oscuro rincón, que examina y purifica en solemne silencio y privacidad. Simplemente esto: un corazón para salvar al mundo; ni una pizca de corazón para la mundanidad. Simplemente esto: un corazón para amar a la humanidad; ni una pizca de corazón para odiar a la gente. Simplemente esto: un corazón para respetar a los demás; ni una pizca de corazón para burlarse del mundo. Simplemente esto: un corazón para promover con fervor la propia conversión; ni una pizca de corazón para el autoengaño indulgente. Este es el camino de la autopurificación y el fundamento seguro de la dicha.
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 <a name="xref_CC8"></a>
 
@@ -146,9 +146,9 @@ Hsieh Wen-Ching dice: «La razón por la que un hombre tiene miles de problemas 
 
 La piedad filial guía todas las acciones. Es la raíz última de la humanidad; ¿y es posible que la raíz esté podrida mientras las ramas y las hojas crecen exuberantes?
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
-Yao-Jao Hou dice: “Los cuatro elementos esenciales de la piedad filial son: (1) Estar establecido en la virtud; (2) Mantener a la familia; (3) Mantener el cuerpo intacto; (4) Cultivar el carácter”.
+Yao-Jao Hou dice: «Los cuatro elementos esenciales de la piedad filial son: (1) Estar establecido en la virtud; (2) Mantener a la familia; (3) Mantener el cuerpo intacto; (4) Cultivar el carácter».
 
 Los hijos piadosos no permitirán que sus padres se inclinen por la fría indiferencia. No permitirán que sus padres se irriten ni se angustiesen. No permitirán que sus padres se alarmen ni se llenen de miedo. No permitirán que sus padres se aflijan ni se avergüencen. No permitirán que sus padres se sientan perplejos. No permitirán que sus padres se sientan avergonzados ni indignados.
 
@@ -176,7 +176,7 @@ La gran virtud del cielo y la tierra es crear, y todos los seres vivos, hombres 
 
 Comprar animales cautivos para liberarlos no es más que un arrebato de compasión. La gente insensata se burla de criaturas insignificantes como hormigas, arañas, etc., y las mata sin miramientos, sin piedad ni remordimiento; pero los corazones piadosos se abstienen de tal crueldad.
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 <a name="xref_CC14"></a>
 
@@ -218,7 +218,7 @@ Procede en el bien durante mil días y no te bastará; procede en el mal durante
 
 ## Notas al pie
 
-[^1]: 25:1 El término “cielo y tierra” representa los dos principios divinos, también llamados _yang_ y _yin_, que dan forma a todas las condiciones del mundo, incluidos los destinos de los asuntos humanos.
+[^1]: 25:1 El término «cielo y tierra» representa los dos principios divinos, también llamados _yang_ y _yin_, que dan forma a todas las condiciones del mundo, incluidos los destinos de los asuntos humanos.
 
 [^2]: 26:1 Las palabras impresas en letra grande en la presente nota y las tres siguientes pertenecen, en todas las ediciones originales en chino, al texto del _Yin Chih Wen_ propiamente dicho. Por consiguiente, las hemos colocado en el mismo tipo que nuestra traducción del texto, pero las hemos eliminado del Comentario Chino, ya que parecen estar fuera de lugar en el texto. Compárese con la nota 3 en la página 39.
 
@@ -238,10 +238,10 @@ Procede en el bien durante mil días y no te bastará; procede en el mal durante
 
 [^10]: 32:5 Los ideales de los confucianos.
 
-[^11]: 33:6 El término _sheng i_, es decir, “voluntad de vida”, es una notable anticipación de la idea de Schopenhauer de la “voluntad de vivir”. El comentarista insiste en que nuestro egoísmo y vanidad son la principal causa del mal en el mundo, una idea aparentemente absorbida del budismo, y declara que debemos dejar que _sheng i_, la “voluntad de vivir”, tal como existe en otras criaturas, se desarrolle sin obstáculos, lo que resultará en una exuberancia incalculable de la manifestación de _T'ien Tao_, la Razón Celestial.
+[^11]: 33:6 El término _sheng i_, es decir, «voluntad de vida», es una notable anticipación de la idea de Schopenhauer de la «voluntad de vivir». El comentarista insiste en que nuestro egoísmo y vanidad son la principal causa del mal en el mundo, una idea aparentemente absorbida del budismo, y declara que debemos dejar que _sheng i_, la «voluntad de vivir», tal como existe en otras criaturas, se desarrolle sin obstáculos, lo que resultará en una exuberancia incalculable de la manifestación de _T'ien Tao_, la Razón Celestial.
 
 [^12]: 35:7 El comentarista se refiere al Paraíso Occidental (sukhâvati) de la secta de la Tierra Pura, que aquí se interpreta como un estado mental.
 
 [^13]: 36:8 Estos tres pasajes que tratan el mismo tema son tres comentarios consecutivos como lo indican las referencias.
 
-[^14]: 36:9 La Razón del Cielo aquí no es _T'ien Tao_, sino _T'ien Li_, que significa “razón” o “racionalidad” en el sentido comúnmente aceptado.
+[^14]: 36:9 La Razón del Cielo aquí no es _T'ien Tao_, sino _T'ien Li_, que significa «razón» o «racionalidad» en el sentido comúnmente aceptado.

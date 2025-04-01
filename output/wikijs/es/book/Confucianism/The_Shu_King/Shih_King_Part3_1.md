@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 ## III. LAS ODAS MAYORES DEL REINO.
 
@@ -90,7 +90,7 @@ El desierto de Mû se extendía inmenso; los carros de sándalo brillaban con fu
 
 Pequeños comienzos y posterior crecimiento de la Casa de <i>K</i>ÂU en <i>K</i>ÂU. Su expulsión de Pin bajo el reinado de Than-FÛ, con su primer asentamiento en <i>K</i>ÂU, con el lugar entonces otorgado a la construcción del templo ancestral y el altar a los espíritus de la tierra. Consolidación de su fortuna por el rey Win.
 
-El antiguo duque Than-fû fue abuelo del rey Wăn y fue canonizado por el duque de Kâu como rey Thâi. Como se menciona en una nota de la [p. 316](Shih_King_Part1_2#p316), fue el primero de su familia en establecerse en Kâu, trasladándose allí desde Pin, el lugar de su anterior asentamiento, «la región alrededor de los ríos Khü y Khî».
+El antiguo duque Than-fû fue abuelo del rey Wăn y fue canonizado por el duque de Kâu como rey Thâi. Como se menciona en una nota de la [p. 316](../Shih_King_Part1_2#p316), fue el primero de su familia en establecerse en Kâu, trasladándose allí desde Pin, el lugar de su anterior asentamiento, «la región alrededor de los ríos Khü y Khî».
 
 En largas hileras, las calabazas crecen cada vez más [^486]. Cuando (nuestro) pueblo surgió por primera vez, de la región alrededor del <i>Kh</i>ü y el <i>Kh</i>î [^487], el antiguo duque <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> Than-fû construyó para ellos chozas y cuevas similares a hornos, antes de que aún tuvieran casas [^488].
 
@@ -100,7 +100,7 @@ La llanura de Kâu lucía hermosa y exuberante, con sus violetas y cardos dulces
 
 Animó al pueblo y lo estableció; aquí a la izquierda, allá a la derecha. Dividió y subdividió el terreno; si cavó las zanjas, definió los acres. De este a oeste, no hubo nada que no tomara en sus manos [492].
 
-<span id="p384">[<sup><small>pág. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 Llamó a su Superintendente de Obras; llamó a su Ministro de Instrucción; y les encargó la construcción de las casas. Con la línea lo enderezaron todo; sujetaron firmemente las tablas de la estructura, para que se alzaran con regularidad y el templo ancestral en su solemne grandeza [493].
 
@@ -108,13 +108,13 @@ Multitudes trajeron la tierra en cestas; la arrojaron a gritos en los marcos; la
 
 Levantaron la puerta exterior (del palacio), que se alzaba majestuosa. Levantaron la puerta de la audiencia, que se alzaba severa y precisa. Levantaron el gran altar a los espíritus de la tierra, del cual debían proceder todos los grandes movimientos [^495].
 
-<span id="p385">[<sup><small>pág. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Así, aunque no pudo evitar la furia de sus enemigos [^496], no dejó que su fama se desvaneciera. Los robles y los espinos fueron talados (gradualmente), y se abrieron caminos para los viajeros. Las hordas de Khwăn desaparecieron, asustadas y jadeantes.
 
 Los jefes de Yü y Zui [^497] llegaron a un acuerdo gracias al estímulo que el rey Wăn les dio a su virtud natural. Entonces, diría yo, algunos acudieron a él sin conocerlo previamente; otros, atraídos por el primero; otros, por sus rápidos éxitos; y otros por su defensa de los débiles contra los insultos.
 
-<span id="p386">[<sup><small>pág. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -160,7 +160,7 @@ Aunque no pudo evitar grandes calamidades, su brillo y magnanimidad fueron intac
 
 Así, los hombres adultos se volvieron virtuosos gracias a él, y los jóvenes alcanzaron logros constantes. Nuestro antiguo príncipe nunca se cansó, y de él provenían la fama y la eminencia de sus oficiales.
 
-<span id="p389">[<sup><small>pág. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 <a id="o7"></a>
 
@@ -212,7 +212,7 @@ El rey Wăn es famoso; sí, es muy famoso. Lo que buscaba era la tranquilidad (d
 
 El rey Wăn recibió el nombramiento celestial y logró su victoria marcial. Tras derrocar a Khung [^526], fijó su capital en Fang [^527]. ¡Un verdadero soberano fue el rey Wăn!
 
-<span id="p395">[<sup><small>pág. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Reparó los muros a lo largo del (viejo) foso. Su establecimiento en Făng siguió el ejemplo de sus antepasados. No era que se apresurara a satisfacer sus deseos, sino que demostraba el deber filial que le correspondía. ¡Un verdadero soberano era el príncipe real!
 
@@ -224,7 +224,7 @@ En la capital de Hâo construyó su salón con su círculo de agua [^529]. De oe
 
 El rey examinó y adivinó sobre el establecimiento de la capital de Hâo. El caparazón de tortuga decidió el sitio [^530], y el rey Wû completó la ciudad. ¡Un verdadero soberano fue el rey Wû!
 
-<span id="p396">[<sup><small>pág. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 Junto al agua del Fang crece el mijo blanco [^531]; ¿Acaso el rey Wû no demostró sabiduría al asignar oficiales? Dejaría sus planes a sus descendientes y aseguraría consuelo y apoyo a su hijo. ¡Un verdadero soberano fue el rey Wû!
 

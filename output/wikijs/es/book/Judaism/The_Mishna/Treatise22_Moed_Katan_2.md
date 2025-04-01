@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 ### CAPÍTULO II.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. No deben comprar casas, esclavos ni ganado, excepto para el uso del festival o para el del vendedor, quien de otro modo no tendría qué comer. No deben trasladar objetos de una casa a otra, aunque esto puede hacerse si ambas casas se encuentran en el mismo tribunal. Los objetos que se hayan entregado a un artesano para su confección o reparación no deben llevarse del taller, pero si el propietario sospecha que, si se dejan con el artesano, pueden perderse o que puede exigir un segundo pago, puede trasladarlos a otro tribunal.
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 § 5. Pueden cubrir los higos secos con paja. R. Jehudah dice: «También pueden colocarse en capas».
 

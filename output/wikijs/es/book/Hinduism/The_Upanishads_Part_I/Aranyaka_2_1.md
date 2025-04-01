@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 SEGUNDO ÂRANYAKA.
 
@@ -60,13 +60,13 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 4\. Esto fue declarado por un Rishi (Rv. VIII, 101, 14): «Tres clases de personas transgredieron; otras se asentaron en torno al venerable (Agni, fuego); el gran (sol) se situó en medio de los mundos; el viento (Vâyu, aire) entró en los Harits (los amaneceres, o los confines de la tierra)».
 
-5\. Cuando dice: “Tres (clases de) personas transgredieron”, las tres (clases de) personas que transgredieron son las que vemos aquí (en la tierra, nacidas de nuevo) como pájaros, árboles, hierbas y serpientes [^503].
+5\. Cuando dice: «Tres (clases de) personas transgredieron», las tres (clases de) personas que transgredieron son las que vemos aquí (en la tierra, nacidas de nuevo) como pájaros, árboles, hierbas y serpientes [^503].
 
 6\. Cuando dice: «Otros se establecieron en torno al venerable», se refiere a aquellos que ahora se sientan a adorar a Agni (el fuego).
 
 7\. Cuando dice: «El Grande se encontraba en medio de los mundos», el Grande en medio del mundo se refiere a este Âditya, el sol.
 
-8\. Cuando dice: “El soplo entró en los Harits”, quiere decir que Vâyu, el aire, el purificador, entró en todos los rincones de la tierra [^504].
+8\. Cuando dice: «El soplo entró en los Harits», quiere decir que Vâyu, el aire, el purificador, entró en todos los rincones de la tierra [^504].
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -102,7 +102,7 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 Él también (el verdadero adorador que medita en sí mismo como el uktha) es a la vez consumidor y consumido (sujeto y objeto [^506]). Nadie posee lo que no come, ni las cosas que no lo comen [^507].
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 2\. Él (el hombre) está compuesto de alimento (irâ), y por estar compuesto de alimento (irâmaya), está compuesto de oro (hira<i>n</i>maya [^508]). Quien conoce esto se vuelve dorado en el otro mundo, y es visto como dorado (como el sol) para beneficio de todos los seres.
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
@@ -178,9 +178,9 @@ Entonces los Devas lo sacaron (el aliento), y al ser sacado, quedó tendido. Cua
 
 6\. «Vi (el aliento) como un guardián, incansable, yendo y viniendo por sus caminos (las arterias). Ese aliento (en el cuerpo, identificado con el sol entre los Devas), iluminando los ámbitos principal e intermedio del cielo, regresa constantemente en medio de los mundos».
 
-Dice: “Vi un guardián”, porque él, el aliento, es un guardián, pues guarda todo.
+Dice: «Vi un guardián», porque él, el aliento, es un guardián, pues guarda todo.
 
-7\. Dice: “Nunca se cansa”, porque la respiración nunca descansa.
+7\. Dice: «Nunca se cansa», porque la respiración nunca descansa.
 
 8\. Dice: «Va y viene por sus caminos», porque el aliento va y viene por sus caminos.
 

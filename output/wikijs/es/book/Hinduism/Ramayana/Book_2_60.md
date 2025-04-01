@@ -136,7 +136,7 @@ Su hermano Lakshman se dirigió a él de esta manera:
 'Ahora surge rápidamente el Señor de la Luz,
 Y huyó, es venerable la noche,
 
-<span id="p154">[<sup><small>pág. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Ese pájaro de alas oscuras, el Koïl ahora
 Está llamando desde la rama más alta,
@@ -263,7 +263,7 @@ Cuando tus tiernos brazos lo rodean.
 Tu viejo corazón dejará de doler.
 Con amargos dolores por el amor de Rama.
 
-<span id="p155">[<sup><small>pág. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 Y dile a Bharat: “Mira cómo tratas
 Las reinas con toda observancia se reúnen:
@@ -392,7 +392,7 @@ Para el hijo del rey, ese jugo sagrado.
 Entonces Ráma hizo de sus largos cabellos,
 Y también la de Lakshman, la trenza de ermitaño.
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Y los dos hermanos reales allí
 Con capas de corteza y pelo enmarañado,
@@ -518,7 +518,7 @@ Los jóvenes reales ya no podían espiar,
 Se giró del lugar donde se encontraba.
 De regreso a casa con Guha desde el bosque.
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Aún así los hermanos se abrieron paso.
 Donde dulces pájaros cantaban en cada rama,
@@ -640,7 +640,7 @@ Más amor del que brilla en el pecho de Ráma.
 Quien, según nos cuenta el cuento.
 Se dirigió al loro herido de esta manera:
 
-<span id="p158">[<sup><small>pág. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 'Loro, las garras del capturador desgarran,
 Mientras aún estás solo revoloteas allí.
@@ -764,7 +764,7 @@ Había oído al príncipe desarrollar su historia,
 Les ordenó que trajeran agua, un toro,
 Y obsequios de honor en platos llenos,
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Y bebida y comida de variado gusto,
 Bayas y raíces, colocadas ante él,
@@ -889,7 +889,7 @@ Con reverencia continuaron su camino.
 Rharadvája mostró un gran favor.
 Y los bendijo, preparándolos para el camino.
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Con miradas tan cariñosas como las que lanzan los padres
 Sobre sus propios hijos, antes de que se vayan.
@@ -964,7 +964,7 @@ Concédele a mi señor que cumpla su voto.
 Por ti sangrarán mil vacas,
 Cien cántaros derramarán su vino,
 Cuando Ráma vuelva a ver esa ciudad
-“Donde reinan los hijos del viejo Ikshváku”.
+«Donde reinan los hijos del viejo Ikshváku».
 
 Así que ella se dirigió al arroyo de Kálindi.
 Y oró en actitud suplicante.
@@ -1013,7 +1013,7 @@ Un rato en esa deliciosa sombra
 Dónde vagaban innumerables elefantes.
 Donde los pavos reales gritaban y los monos jugaban.
 
-<span id="p161">[<sup><small>pág. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 Ellos vagaban con deleite.
 Luego, a la orilla del río, encontraron
@@ -1119,7 +1119,7 @@ Su flecha había dado en el bosque;
 Él vino cargando con su poderosa carga,
 Y lo puso en la llama encendida.
 
-<span id="p162">[<sup><small>pág. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Tan pronto como vio que la carne estaba lista,
 Y que los jugos dejaron de correr
@@ -1138,7 +1138,7 @@ Las huestes celestiales aparecieron a la vista,
 Y Ráma se retiró a la cuna,
 Mientras una dulce sensación de éxtasis se apoderaba de mí.
 A través del alma del héroe inigualable.
-Pagó lo que le correspondía a los Vis'vedevas [1](Libro_2_60#fn332).
+Pagó lo que le correspondía a los Vis'vedevas [1](../Libro_2_60#fn332).
 Y Rudra tiene razón, y Vishnu también.
 Ni las bendiciones acostumbradas, para proteger
 ¿Descuidó su casa recién construida?
@@ -1205,7 +1205,7 @@ Y rápidamente pasó por la puerta.
 El auriga siguió adelante y luego
 En cientos, sí, en miles, hombres
 Corrieron hacia el auto desde todos los lados,
-Y, “Rama, ¿dónde está Rama?” lloró.
+Y, «Rama, ¿dónde está Rama?» lloró.
 Sumantra dijo: 'Mi carro llevaba
 El príncipe obediente a la orilla del Ganges;
 Lo dejé allí por orden suya,
@@ -1241,7 +1241,7 @@ Donde la gente se agolpaba por todos lados.
 Desde cada terraza alta, salvaje por la tristeza
 Las Indias reales se congregaron abajo:
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Los oyó hablar en tono suave,
 Mientras cada uno gemía por Rama:
@@ -1367,7 +1367,7 @@ Y siempre a la hora debida, gira
 Donde arden los fuegos sagrados de la adoración.
 Y, señora, a nuestro señor concédele
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Tal honor debemos a los dioses.
 Sé amable con cada reina: deja que el orgullo
@@ -1476,7 +1476,7 @@ Algún mensaje desde el bosque podría enviarse.
 Tus reinos, gran Monarca, lloran el golpe,
 Y simpatizar con el dolor de Ráma.
 
-<span id="p165">[<sup><small>pág. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Cada árbol marchito agacha su cabeza,
 Y el brote, el capullo y la flor están muertos.
@@ -1573,7 +1573,7 @@ Debajo: mi cabello las malas hierbas enredadas:
 Su fuente son las lágrimas derramadas por Ráma:
 Las palabras del jorobado temen sus monstruos:
 La bendición que le di al miserable es su orilla,
-Hasta que termine el destierro de Rama. [1](Libro_2_60#fn334)
+Hasta que termine el destierro de Rama. [1](../Libro_2_60#fn334)
 ¡Ay de mí!, que anhelaría poner
 Mis ojos ansiosos hoy
 Sobre el hijo de Raghu, y él todavía está
@@ -1596,7 +1596,7 @@ Dónde están Rama, Sita y Lakshman.
 Sin ellos no tengo poder
 Detenerse en una sola hora.
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 De nuevo, te ruego, que vuelvas sobre tus pasos,
 Y yo en el bosque de Dandak,

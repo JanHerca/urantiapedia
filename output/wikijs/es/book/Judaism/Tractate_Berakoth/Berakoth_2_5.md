@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **M**.V. 1. Los hombres no se ponen de pie [^218] para orar sino con solemnidad. [^219] Los piadosos de antaño solían esperar una hora y luego orar, para poder dirigir su intención hacia Dios. [^220] Si el Rey [^221] lo saluda, que no devuelva la
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 **M**.saludo. Y aunque una serpiente [^222] se enroscara en su talón, no debería detenerse.
 
@@ -68,9 +68,9 @@ Así que nadie debería despedirse de su compañero inmediatamente después de l
 
 **T**. III. 9. Si no ha hecho mención del poder de las lluvias en la \[Bendición de\] la Resurrección de los muertos, y no ha pedido las lluvias en la Bendición de los años, debe ser rechazado.
 
-Si no ha dicho la Habdalah en «Tú que gentilmente das conocimiento», la dice sobre la <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> copa. [1](Berakoth_2_5#fn_256) Si no la ha dicho \[allí\], debe regresar.
+Si no ha dicho la Habdalah en «Tú que gentilmente das conocimiento», la dice sobre la <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> copa. [1](../Berakoth_2_5#fn_256) Si no la ha dicho \[allí\], debe regresar.
 
-Dijo R. José: También aquel que no haya hecho mención del \[pacto\] en la acción de gracias por la tierra [2](Berakoth_2_5#fn_257) debe ser devuelto.
+Dijo R. José: También aquel que no haya hecho mención del \[pacto\] en la acción de gracias por la tierra [2](../Berakoth_2_5#fn_257) debe ser devuelto.
 
 <a id="m3"></a>
 
@@ -78,15 +78,15 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 **M**.V. 3. Quien dice: «Sobre un nido de pájaro [^258] se extienden tus misericordias», y «Que tu nombre sea recordado para bien», [^259] y «Te alabamos, te alabamos», [^260] debe ser detenido. En cuanto a quien pase delante del Arca [^261] y se equivoque, que otro pase en su lugar. Que no se niegue [cuando se le pida que rece en ese momento]]. ¿Por dónde empieza? Al principio de la bendición en la que se equivocó.
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
-**M**.4\. Quien [1](Berakoth_2_5#fn_262) pase delante del Arca no debe responder Amén después de los sacerdotes [2](Berakoth_2_5#fn_263) por temor a distracciones. Si no hay sacerdotes presentes, no debe alzar las manos para bendecir. Pero si confía en que al alzar las manos [3](Berakoth_2_5#fn_264) para bendecir podrá regresar a su oración, se le permite hacerlo.
+**M**.4\. Quien [1](../Berakoth_2_5#fn_262) pase delante del Arca no debe responder Amén después de los sacerdotes [2](../Berakoth_2_5#fn_263) por temor a distracciones. Si no hay sacerdotes presentes, no debe alzar las manos para bendecir. Pero si confía en que al alzar las manos [3](../Berakoth_2_5#fn_264) para bendecir podrá regresar a su oración, se le permite hacerlo.
 
 ### Sobre los errores (continuación). El conocimiento de R. Chanina sobre el efecto de sus oraciones.
 
 5\. Quien esté rezando y cometa un error, es de mal augurio para él. Y si es el representante de la congregación [^265], es de mal augurio para quienes le piden que los represente, porque el representante de un hombre es como él mismo. [^266] Cuentan que R. Chanina b. Dosa solía rezar por los enfermos y decir: «Este vivirá, y este morirá». Le dijeron: «¿De dónde sabes esto?». Él les respondió: «Si mi oración fluye [^267] en mi boca, sé que él [el enfermo]».
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 **M**.man\] es aceptado, y si no sé que es rechazado.
 
@@ -124,11 +124,11 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 [^218]: 35:3 SA, pág. 238.
 
-[^219]: 35:4 _stand_. es decir decir los Dieciocho (_cf_. pp. [4](Berakoth_1_1#p4) _sq_.).
+[^219]: 35:4 _stand_. es decir decir los Dieciocho (_cf_. pp. [4](../Berakoth_1_1#p4) _sq_.).
 
 [^220]: 35:5 _con solemnidad_. La frase literalmente significa «con pesadez de cabeza», es decir, con abatimiento, pero probablemente la expresión aquí sea meramente metafórica, en contraste con «ligereza de cabeza», es decir, irreverencia (cf. T. III. 21 [p. 38]). No difiere mucho de la frase «los pobres de espíritu» (Mt. 53).
 
-[^221]: 35:6 _Dios_. Lit.: el Lugar ([p. 29](Berakoth_2_4#p29)). B tiene «su Padre que está en el cielo».
+[^221]: 35:6 _Dios_. Lit.: el Lugar ([p. 29](../Berakoth_2_4#p29)). B tiene «su Padre que está en el cielo».
 
 [^222]: 35:7 _el Rey_. Un israelita, pues ante un rey pagano hay que responder, por temor a las consecuencias (Bartenora).
 
@@ -146,7 +146,7 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 [^229]: 36:7 La sección muestra la sinceridad con la que oraba el gran maestro.
 
-[^230]: 36:8 Dan. 610. Las frases en el caso de Daniel, Ana, David, Salomón están literalmente «en Daniel», etc., y posiblemente sean del mismo tipo que en [p. 79](Berakoth_3_9#p79).
+[^230]: 36:8 Dan. 610. Las frases en el caso de Daniel, Ana, David, Salomón están literalmente «en Daniel», etc., y posiblemente sean del mismo tipo que en [p. 79](../Berakoth_3_9#p79).
 
 [^231]: 37:1 1 Sam. 113.
 
@@ -156,7 +156,7 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 [^234]: 37:4 Sal. 331.
 
-[^235]: 37:5 «Verdadero y seguro» (_'Emeth wyatzib_), _cf_. [p. 7](Berakoth_1_1#p7).
+[^235]: 37:5 «Verdadero y seguro» (_'Emeth wyatzib_), _cf_. [p. 7](../Berakoth_1_1#p7).
 
 [^236]: 37:6 Después de la oración (_Tephillah_) pueden comenzar variaciones serias, con exclusión de variaciones menores en la _Tephillah_ misma.
 
@@ -198,7 +198,7 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 [^255]: 39:8 _conocimiento_. La cuarta Bendición (SA, p. 46).
 
-[^256]: 39:9 _la Hoda'ah_, [p. 34](Berakoth_2_4#p34) nota.
+[^256]: 39:9 _la Hoda'ah_, [p. 34](../Berakoth_2_4#p34) nota.
 
 [^257]: 40:1 _la copa_. Al final del sabbat, SA, p. 216.
 
@@ -208,9 +208,9 @@ Tres ejemplos de bendiciones en momentos inoportunos. Sobre los errores del líd
 
 [^260]: 40:4 _Para bien, etc._. Parece negar que Dios permita el mal tanto como el bien.
 
-[^261]: 40:5 _Alabamos, alabamos_. Doblemente. El orador podría estar refiriéndose a más de un principio divino (cf. la siguiente Mishná y M. IX. 8 (5), [p. 87](Berakoth_3_9#p87), y el argumento común a favor de la Trinidad basado en el triple uso de «Santo» en Isaías 6:3).
+[^261]: 40:5 _Alabamos, alabamos_. Doblemente. El orador podría estar refiriéndose a más de un principio divino (cf. la siguiente Mishná y M. IX. 8 (5), [p. 87](../Berakoth_3_9#p87), y el argumento común a favor de la Trinidad basado en el triple uso de «Santo» en Isaías 6:3).
 
-[^262]: 40:6 _Él pasa ante el Arca_. [p. 19](Berakoth_1_2#p19) nota. Era correcto que quien fue invitado a dirigir la Tefilá declinara la primera vez, pero cediera a una segunda y una tercera invitación (Gemara _T_. B. 34a).
+[^262]: 40:6 _Él pasa ante el Arca_. [p. 19](../Berakoth_1_2#p19) nota. Era correcto que quien fue invitado a dirigir la Tefilá declinara la primera vez, pero cediera a una segunda y una tercera invitación (Gemara _T_. B. 34a).
 
 [^263]: 41:1 Prefijos B: «Quien dice: Que los buenos digan la bendición, esto huele a herejía (_minûth_)», como si sugiriera la división de los miembros en dignos e indignos. Pero no parece tener ninguna conexión con el cristianismo.
 

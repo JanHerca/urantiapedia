@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ### CAPÍTULO XIII.
 
@@ -82,4 +82,4 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^143]: 56:2 ‏ביברין‎, del latín _vivarium_; una especie de guarida o recinto en el que se guardaban animales salvajes.
 
-[^144]: 56:3 Vide nuestra nota [1](Treatise4_Kilaim_7#fn58), [p. 27](Treatise4_Kilaim_9#p27).
+[^144]: 56:3 Vide nuestra nota [1](../Treatise4_Kilaim_7#fn58), [p. 27](../Treatise4_Kilaim_9#p27).

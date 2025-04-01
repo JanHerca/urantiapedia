@@ -80,7 +80,7 @@ Si el otro lo conduce o lo trata en un jardín o un parque, le limpia o frota lo
 
 A uno no le debe agradar ni prohibir si el otro intenta curarlo con puros encantos;
 
-<span id="p188">[<sup><small>pág. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Si el otro intenta curarlo con hechizos impuros;
 

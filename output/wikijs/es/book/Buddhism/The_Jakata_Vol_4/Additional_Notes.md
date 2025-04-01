@@ -37,19 +37,19 @@ dateCreated: 2025-2-5T22:39:31Z
 
 ## VOLUMEN II.
 
-[9](441#p9) No. 154, línea 3. Fick (Estructura social en la época de Buda) consideraría el seṇibandham como una “pelea de gremios”.
+[9](../441#p9) No. 154, línea 3. Fick (Estructura social en la época de Buda) consideraría el seṇibandham como una «pelea de gremios».
 
-[12](442#p12) Ante un estornudo, un hindú en las provincias del noroeste todavía dirá: “Que vivas cien años”. _Notas y consultas del norte de la India_, iv. 388.
+[12](../442#p12) Ante un estornudo, un hindú en las provincias del noroeste todavía dirá: «Que vivas cien años». _Notas y consultas del norte de la India_, iv. 388.
 
-[104](466#p104) Para la primera estrofa compare Dhammapada, p. 146.
+[104](../466#p104) Para la primera estrofa compare Dhammapada, p. 146.
 
-[167](483#p167) Para la segunda y tercera estrofas, compárese Dhammapada, pág. 149.
+[167](../483#p167) Para la segunda y tercera estrofas, compárese Dhammapada, pág. 149.
 
-[207](490#p207) Una variante rusa del Nacimiento de Gāmaṇicaṇḍa se da en la Reseña del volumen I de la presente traducción del Prof. S. Oldenburg (Revista del Ministerio de Educación Pública) 1896, pp. 47 y siguientes.
+[207](../490#p207) Una variante rusa del Nacimiento de Gāmaṇicaṇḍa se da en la Reseña del volumen I de la presente traducción del Prof. S. Oldenburg (Revista del Ministerio de Educación Pública) 1896, pp. 47 y siguientes.
 
-[251](499#p251) Debo agradecer a Fick (_Soc. Glied._ p. 87 nota) por una corrección de la lista de personas justas, que debería ser así: “…hermano menor (que era) virrey, sacerdote de familia brahmán, cortesano-auriga, tesorero, noble maestro de los graneros, portero, esclava cortesana”.
+[251](../499#p251) Debo agradecer a Fick (_Soc. Glied._ p. 87 nota) por una corrección de la lista de personas justas, que debería ser así: «…hermano menor (que era) virrey, sacerdote de familia brahmán, cortesano-auriga, tesorero, noble maestro de los graneros, portero, esclava cortesana».
 
-[257](500#p257) Fick explica al _rajjugāhakaamacco_ como una especie de agrimensor real para fines fiscales, lo que se ajusta al contexto.
+[257](../500#p257) Fick explica al _rajjugāhakaamacco_ como una especie de agrimensor real para fines fiscales, lo que se ajusta al contexto.
 
 El _rajju_ será su cadena, símbolo de su cargo (_Soc. Glied._ nota 7).
 

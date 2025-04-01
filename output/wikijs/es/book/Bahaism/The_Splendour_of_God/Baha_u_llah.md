@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Los cristianos fueron llamados así por primera vez en Antioquía.
 
@@ -50,7 +50,7 @@ Al igual que Francisco de Asís, prefirió la pobreza y la difamación con los s
 
 Rápidamente adquirió una posición de admiración y reverencia. Su carácter bondadoso y directo, su profunda devoción al Báb y sus principios, fueron apreciados mucho antes de que se declarara Aquel a quien, según su predecesor, «Dios haría manifiesto».
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 La persecución y el martirio del Báb, así como el persistente maltrato a los babis, resultaron en un apego aún mayor a las revelaciones del Profeta. Esto, nuevamente, parece estar estrictamente en consonancia con la historia de la religión. «La sangre de los mártires es la semilla de la Iglesia».
 
@@ -76,25 +76,25 @@ Baha'u'llah pasó dos años solo entre las montañas cercanas a Bagdad, orando, 
 
 Después de esto llegó el momento de la proclamación.
 
-Su declaración de Sí mismo como el cumplimiento de la profecía del Predictor, la “Manifestación de <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Dios”, fue hecha aparentemente, al principio, en un período de ansiedad y angustia, a unos pocos de los elegidos.
+Su declaración de Sí mismo como el cumplimiento de la profecía del Predictor, la «Manifestación de <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Dios», fue hecha aparentemente, al principio, en un período de ansiedad y angustia, a unos pocos de los elegidos.
 
 La proclamación pública no se produjo hasta cuatro o cinco años después, cuando, al ser pronunciada, fue inmediatamente aceptada por la gran mayoría de los babis, los seguidores del Báb, como de origen divino. Bahá'u'lláh era ahora el líder generalmente reconocido del movimiento. Los discípulos que antes se llamaban "babis" adoptaron el título de "bahais".
 
-El motivo principal de la misión de Bahá'u'lláh fue el de “establecer la paz y la unidad religiosa [^1] en el mundo”.
+El motivo principal de la misión de Bahá'u'lláh fue el de «establecer la paz y la unidad religiosa [^1] en el mundo».
 
 Bahá'u'lláh se declaró en 1863. Tras haber viajado con ellos a Bagdad, debemos acompañarlo a él y a su pueblo aún más lejos. El miedo se apoderó de los mulás musulmanes; un temor sincero al predominio del Profeta. Si todos en la tierra vivieran en amor, paz y unidad, ¿qué sería del poder y la hacienda sacerdotal? Los mulás enviaron a Constantinopla en busca de intervención y asistencia oficial, y su petición fue atendida. Los bahá'ís fueron convocados a la capital.
 
 Destierro a Adrianópolis —así rezaba el decreto inalterable—. A Adrianópolis fueron convocados nuestros religiosos perseguidos.
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Durante su residencia allí, Bahá'u'lláh encontró tiempo para dirigirse al Papa y a los monarcas de Europa en epístolas instando al establecimiento de la unidad, el abandono de la injusticia y la abolición de las prácticas bélicas. Adrianópolis no pudo contenerlo por mucho tiempo. Él y sus amigos fueron finalmente sentenciados al exilio en Acca (Acre) en Siria, en realidad una colonia penal al norte del Monte Carmelo, [^2] un lugar temido por su atmósfera pestilente y su inaccesibilidad. La idea de que la fiebre pudiera atacar y matar rápidamente al Profeta alimentó una esperanzada alegría en la mente de sus perseguidores. Dispusieron, con considerable crueldad, que «los pocos fieles» subsistieran como pudieran en un par de habitaciones en los barracones de la ciudad. Hubo unos setenta confinados así durante dos años.
 
 La acusación que condujo a esta severidad comprendía muchas faltas. Estas almas temerosas y buscadoras de Dios fueron acusadas de asesinos y ladrones. Se les tildó de nihilistas. [^3] Se les prohibió la libertad, cualquier tipo de libertad. En verdad, «soportaron penurias, como buenos soldados» de la Causa que, para ellos, era mucho más cautivadora que el cautiverio físico; aún se regocijaban en la Luz que los guiaba.
 
-Entre los setenta, el hermano de Bahá'u'lláh, a quien la muerte trajo la liberación, sufrió. Tal era la inseguridad del techo del lugar que, mientras buscaba un aire más puro que el de la habitación de abajo y mayor tranquilidad para reflexionar sobre "las cosas de Dios", este cedió. El que oraba cayó por el techo y murió. A pesar del estrecho confinamiento, la ausencia de cualquier consuelo y lo insalubre de su condición, los prisioneros se comportaron con inquebrantable cortesía y gentileza. Hallaron gracia ante los ojos del director de su prisión, quien, probablemente conmovido por la muerte de su hermano, autorizó a Bahá'u'lláh a alquilar una casa en la ciudad. Incluso allí, se vio obligado a "vivir, moverse y existir" en un solo apartamento, y esto durante siete años. Un director se iba, otro llegaba. Cada uno, antes de que expirara su condena o, por algún motivo, fuera retirado, aprendió que se debía respeto y reverencia a esta gente bondadosa y receptiva. Con los años posteriores se produjo una ampliación de privilegios muy bienvenida, y al Profeta finalmente se le permitió vagar “dentro de un radio de dieciocho millas”.
+Entre los setenta, el hermano de Bahá'u'lláh, a quien la muerte trajo la liberación, sufrió. Tal era la inseguridad del techo del lugar que, mientras buscaba un aire más puro que el de la habitación de abajo y mayor tranquilidad para reflexionar sobre "las cosas de Dios", este cedió. El que oraba cayó por el techo y murió. A pesar del estrecho confinamiento, la ausencia de cualquier consuelo y lo insalubre de su condición, los prisioneros se comportaron con inquebrantable cortesía y gentileza. Hallaron gracia ante los ojos del director de su prisión, quien, probablemente conmovido por la muerte de su hermano, autorizó a Bahá'u'lláh a alquilar una casa en la ciudad. Incluso allí, se vio obligado a "vivir, moverse y existir" en un solo apartamento, y esto durante siete años. Un director se iba, otro llegaba. Cada uno, antes de que expirara su condena o, por algún motivo, fuera retirado, aprendió que se debía respeto y reverencia a esta gente bondadosa y receptiva. Con los años posteriores se produjo una ampliación de privilegios muy bienvenida, y al Profeta finalmente se le permitió vagar «dentro de un radio de dieciocho millas».
 
-Así, “perseguido pero no abandonado”, Bahá'u'lláh habitó en suelo sagrado, trabajando y enseñando, sin soñar jamás con la desesperación. El cautiverio de cuarenta años había, sin duda, debilitado, si no destruido, tanto la esperanza como la fe en una mente común. Con igual certeza, el fortalecimiento y crecimiento de la esperanza y la fe con cada año que pasaba, constituye un testimonio contundente de la afirmación de Bahá'u'lláh de que su apoyo y sustento espiritual eran divinos. Mantuvo una mente vigorosa hasta que, en 1892, a los setenta y cinco años, fue llamado a la Luz más cercana.
+Así, «perseguido pero no abandonado», Bahá'u'lláh habitó en suelo sagrado, trabajando y enseñando, sin soñar jamás con la desesperación. El cautiverio de cuarenta años había, sin duda, debilitado, si no destruido, tanto la esperanza como la fe en una mente común. Con igual certeza, el fortalecimiento y crecimiento de la esperanza y la fe con cada año que pasaba, constituye un testimonio contundente de la afirmación de Bahá'u'lláh de que su apoyo y sustento espiritual eran divinos. Mantuvo una mente vigorosa hasta que, en 1892, a los setenta y cinco años, fue llamado a la Luz más cercana.
 
 Es al menos una coincidencia interesante que, desde el mismo punto de Oriente desde donde brilló una Gran Luz hace veinte siglos, Bahá'u'lláh se viera obligado a residir; «Bahá'u'lláh» —«La Gloria de Dios»—, y que desde allí también brillara su Luz, iluminando a judíos y gentiles, musulmanes e infieles. Aquí, en Acca, aquel que en Teherán, por su bondad y benevolencia, fue llamado «El Padre de los Pobres», poseyó su alma en la paciencia, en la pobreza y la degradación; sin embargo, vivió para dispensar la Luz. El encarcelamiento y la ignominia no lograron oscurecer los rayos que penetraban mucho más allá de los muros de Acca. Esa oscura ciudad, al albergar al Profeta, se convirtió en la Linterna de la Luz.
 
@@ -110,7 +110,7 @@ Numerosas tablas y tratados de instrucción salieron de la pluma de Bahá'u'llá
 
 Baha'u'llah insistió en la caridad práctica, la buena voluntad práctica y la bondad hacia todos y cada uno, incluido el mundo animal inferior.
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 La historia tiene la quizás malsana costumbre de repetirse. En el pasado, las religiones fueron instituidas, las reformas religiosas realizadas, por hombres devotos divinamente inspirados, quienes, seguros de la fuente de su inspiración, se negaron a adorarse en cualquier forma. Es más; en casos notables, prohibieron definitivamente dicha adoración mientras vivieron en la tierra o después de su partida física del mundo. Se prohibieron los anuncios como «Soy de Pablo» o «Soy de Apolo». No obstante, la construcción de templos y la erección de altares en memoria de profetas y predicadores se hicieron habituales. A poca distancia de la ascensión del profeta, surgieron templos, y la adoración se hizo obligatoria.
 
@@ -202,11 +202,11 @@ A su sucesor designado le correspondía inaugurar otra presentación más amplia
 
 ## Notas al pie
 
-[^1]: 29:1 “Llamó a los hombres de todo credo y raza a unirse al estandarte de Unidad que él había enarbolado y a ayudarlo a establecer el Reino de Dios y la Hermandad del Hombre sobre la tierra.”—S. Sprague.
+[^1]: 29:1 «Llamó a los hombres de todo credo y raza a unirse al estandarte de Unidad que él había enarbolado y a ayudarlo a establecer el Reino de Dios y la Hermandad del Hombre sobre la tierra.»—S. Sprague.
 
-[^2]: 30:1 “Aquí en la tierra de Sión y el Carmelo, donde se ha anunciado ‘la venida’ en este último día de todos los profetas, Bahá'u'lláh vivió y enseñó; muchos viajaron desde grandes distancias para escucharlo, mientras que otros recibieron enseñanza de sus escritos.”—CM Rémey.
+[^2]: 30:1 «Aquí en la tierra de Sión y el Carmelo, donde se ha anunciado ‘la venida’ en este último día de todos los profetas, Bahá'u'lláh vivió y enseñó; muchos viajaron desde grandes distancias para escucharlo, mientras que otros recibieron enseñanza de sus escritos.»—CM Rémey.
 
-[^3]: 30:2 “La acusación contra el gobernador establecía que eran… nihilistas.”—Ethel J. Rosenberg.
+[^3]: 30:2 «La acusación contra el gobernador establecía que eran… nihilistas.»—Ethel J. Rosenberg.
 
-[^4]: 34:1 “Encontré que esta fe” (Bahaísmo) “no se agota en teorías hermosas e infructuosas, sino que tiene un poder vital y efectivo para moldear la vida hacia el ideal más elevado del carácter humano”. —Profesor G. Granville Browne, MA
-  “Este espíritu de amor y servicio al prójimo quedó ejemplificado en un bahá'í indio que dio su vida para salvar la mía, y 'Nadie tiene amor más grande que este'”, —Sydney Sprague.
+[^4]: 34:1 «Encontré que esta fe» (Bahaísmo) «no se agota en teorías hermosas e infructuosas, sino que tiene un poder vital y efectivo para moldear la vida hacia el ideal más elevado del carácter humano». —Profesor G. Granville Browne, MA
+  «Este espíritu de amor y servicio al prójimo quedó ejemplificado en un bahá'í indio que dio su vida para salvar la mía, y 'Nadie tiene amor más grande que este'», —Sydney Sprague.

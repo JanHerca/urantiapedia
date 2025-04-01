@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## ADHYÂYA III, KHANDA 1.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. [^203]. Que se siente ese día en soledad.
 
-13\. Con (los versos), “¡Oh árbol! con fuertes ramas”, y, “Un gobernante en verdad” (Rig-veda VI, 47, 26; X, 152, 1) que suba al carro.
+13\. Con (los versos), «¡Oh árbol! con fuertes ramas», y, «Un gobernante en verdad» (Rig-veda VI, 47, 26; X, 152, 1) que suba al carro.
 
 14\. (Antes de regresar a casa) que se acerque primero a un lugar donde le realizarán Argha con una vaca o una cabra.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ## KHANDA 3.
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 'Aquí se llaman las vacas; aquí se llaman las cabras y las ovejas; y la dulce esencia (?) de la comida se llama aquí, a nuestra casa.
 
-“Permanece firme en el Rathantara; recuéstate en el Vâmadevya; establécete en el B<i>ri</i>hat”—con (estos textos) toca el poste principal.
+«Permanece firme en el Rathantara; recuéstate en el Vâmadevya; establécete en el B<i>ri</i>hat»—con (estos textos) toca el poste principal.
 
 2\. Cuando la casa ha sido construida conformemente (a sus dimensiones adecuadas), toca los postes.
 
@@ -156,7 +156,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ## KHANDA 6.
 
@@ -164,7 +164,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. (Murmurando el texto), 'Mitra y Varuna, protejan esta casa por mí; que Pûshan la guarde intacta e intacta hasta nuestro regreso;'
 
-3\. Y murmura (el verso): “En el camino hemos entrado” (Rig-veda VI, 51, 16).
+3\. Y murmura (el verso): «En el camino hemos entrado» (Rig-veda VI, 51, 16).
 
 
 
@@ -200,13 +200,13 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 6\. Con el verso, 'Felicidad con nuestros oídos' (Rig-veda I, 89, 8), (toca) los miembros como se afirma (en ese verso);
 
-7\. Adorar al sol con el verso “Allí el ojo” (Rig-veda VII, 66, 16).
+7\. Adorar al sol con el verso «Allí el ojo» (Rig-veda VII, 66, 16).
 
 ## KHANDA 9.
 
 1\. [^217]. «Que las (diosas) ruidosas os mantengan alejados de las huestes de matanza. Que toda la parte, oh vacas, que pertenece a este señor de las vacas, no sufra daño entre vosotras—(y)
 
-“Que Pûshan vaya tras nuestras vacas” (Rig-veda VI, 54, 5) —esto debe decirse sobre las vacas cuando se van (a sus pastizales).
+«Que Pûshan vaya tras nuestras vacas» (Rig-veda VI, 54, 5) —esto debe decirse sobre las vacas cuando se van (a sus pastizales).
 
 2\. 'Que Pûshan se sostenga' (Rig-veda VI, 54, 10), cuando corren de un lado a otro.
 
@@ -238,7 +238,7 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 He dejado que el ternero se reúna con su madre. Que el ternero, mamando del pecho de su madre, apoye el aumento de nuestra riqueza. ¡Svâhâ!
 
-5\. Con el verso: “Que Pûshan vaya tras nuestras vacas” (Rig-veda VI, 54, 5), él sacrifica de (una mezcla de comida sacrificial) perteneciente a Pûshan.
+5\. Con el verso: «Que Pûshan vaya tras nuestras vacas» (Rig-veda VI, 54, 5), él sacrifica de (una mezcla de comida sacrificial) perteneciente a Pûshan.
 
 6\. [^220]. Habiendo murmurado los Rudra-(himnos),
 
@@ -264,7 +264,7 @@ He dejado que el ternero se reúna con su madre. Que el ternero, mamando del pec
 
 
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## KHANDA 12.
 
@@ -278,7 +278,7 @@ He dejado que el ternero se reúna con su madre. Que el ternero, mamando del pec
 
 5\. [^224]. Con (los versos), 'Aquella en quien están contenidos Yama, el hijo de Vivasvat, y todos los dioses, la Ash<i>t</i>akâ cuyo rostro está vuelto hacia todos los lados, ella ha saciado mis deseos.
 
-Llaman a tus dientes “piedras de prensar”; tu ubre es (Soma) Pavamâna; ... son los meses y los medios meses. ¡Adoración a ti, oh, la de rostro alegre! ¡Svâhâ!
+Llaman a tus dientes «piedras de prensar»; tu ubre es (Soma) Pavamâna; ... son los meses y los medios meses. ¡Adoración a ti, oh, la de rostro alegre! ¡Svâhâ!
 
 
 ## KHANDA 13.

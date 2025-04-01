@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 EL LIBRO DE LA GRAN MUERTE. MAHÂ-PARINIBBÂNA-SUTTA. CAPÍTULO I.
 
@@ -62,13 +62,13 @@ Ven ahora, oh Brahmán, ve ante el Bendito y postrate en adoración a sus pies e
 
 «Podemos esperar entonces», respondió el brahmán, «el bienestar, y no la decadencia, de los vaggianos cuando poseen cualquiera de estas condiciones de bienestar, cuánto más cuando poseen las siete. Así pues, Gotama, los vaggianos no pueden ser vencidos por el rey de Magadha; es decir, no en batalla, sin diplomacia ni rompiendo su alianza». Y ahora, Gotama, debemos irnos; estamos ocupados y tenemos mucho que hacer.
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 «Lo que creas más conveniente, oh brahmán», fue la respuesta. Y el brahmán Vassakâra, encantado y complacido con las palabras del Bendito, se levantó de su asiento y se fue.
 
 6\. Poco después de partir, el Bendito se dirigió al venerable Ânanda y le dijo: «Ve ahora, Ânanda, y reúne en la Sala de Servicios a los Hermanos[^9] que viven en los alrededores de Râgagaha».
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Y así lo hizo; y volvió al Bendito, y le informó, diciendo:
 
@@ -102,7 +102,7 @@ Y al manifestarle su asentimiento, él habló lo siguiente:
 
 Y al manifestarle su asentimiento, él habló lo siguiente:
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 'Mientras los hermanos se ejerciten en la séptuple sabiduría superior, es decir, en la actividad mental, la búsqueda de la verdad, la energía, la alegría, la paz, la contemplación sincera y la ecuanimidad de mente, se puede esperar que los hermanos no decaigan, sino que prosperen.
 
@@ -120,7 +120,7 @@ Y al manifestarle su asentimiento, él habló lo siguiente:
 
 Y al manifestarle su asentimiento, él habló lo siguiente:
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 'Mientras los hermanos perseveren en la bondad de acción, palabra y pensamiento entre los santos, tanto en público como en privado; mientras dividan sin parcialidad y compartan en común con los rectos y los santos todas las cosas que reciban de acuerdo con las justas provisiones de la orden, incluso hasta el mero contenido de un cuenco de mendigo; mientras los hermanos vivan entre los santos en la práctica, tanto en público como en privado, de aquellas virtudes que (inquebrantables, intactas, sin mancha, sin tacha) son productivas de libertad[^15], y alabadas por los sabios; que no están manchadas por el deseo de una vida futura, o por la creencia en la eficacia de los actos externos[^16]; y que conduzcan a pensamientos elevados y santos—mientras los hermanos vivan entre los santos, albergando, tanto en público como en privado, esa fe noble y salvadora que conduce a la completa destrucción del dolor de aquel que actúa conforme a ella—mientras tanto se puede esperar que los hermanos no decaigan, sino que prosperen.
 
@@ -130,7 +130,7 @@ Y al manifestarle su asentimiento, él habló lo siguiente:
 
 12\. Y mientras el Bendito permaneció allí en Râ<i>g</i>agaha, en el Pico del Buitre, sostuvo con los hermanos una extensa charla religiosa sobre la naturaleza de la conducta recta, la contemplación sincera y la inteligencia. «Grande es el fruto, grande la ventaja de la contemplación sincera cuando se acompaña de una conducta recta. Grande es el fruto, grande la ventaja del intelecto cuando se acompaña de una contemplación sincera. La mente, acompañada de inteligencia, se libera de los grandes males, es decir, de la sensualidad, del individualismo, del engaño y de la ignorancia». [^17] [^18]
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 13\. Cuando el Bendito hubo permanecido en Râ<i>g</i>agaha tanto tiempo como quiso, se dirigió al venerable Ânanda y le dijo: «Ven, Ânanda, vamos a Ambala<i>tth</i>ikâ».
 
@@ -198,7 +198,7 @@ Y el Bendito, no mucho después de que los discípulos <span id="p18"><sup><smal
 
 28\. Actúan, Ânanda, como si hubieran consultado con los Tâvati<i>m</i>sa, ángeles. \[Y al contarle lo que había visto y la influencia que ejercían tales hadas, añadió\]: «Y entre los lugares de residencia famosos y lugares frecuentados por hombres ocupados, esta se convertirá en la principal, la ciudad de Pâ<i>t</i>ali-putta, un centro para el intercambio de todo tipo de mercancías. Pero tres peligros se ciernen sobre Pâ<i>t</i>ali-putta: el del fuego, el del agua y el de la disensión[^26]».
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 29\. Sunîdha y Vassakâra, los ministros principales de Magadha, se dirigieron al lugar donde se encontraba el Bendito. Al llegar, intercambiaron con él saludos y cumplidos de amistad y cortesía, y permanecieron allí respetuosamente a un lado. Y, de pie, Sunîdha y Vassakâra, los ministros principales de Magadha, le dijeron así al Bendito:
 
@@ -206,7 +206,7 @@ Y el Bendito, no mucho después de que los discípulos <span id="p18"><sup><smal
 
 30\. Entonces, cuando Sunîdha y Vassakâra, los ministros principales de Magadha, percibieron su consentimiento, regresaron a su lugar de residencia. Al llegar, prepararon platos dulces de arroz hervido y pasteles; e informaron al Bendito, diciendo:
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 «Ha llegado la hora de la comida, oh Gotama, y ​​todo está listo.»
 
@@ -232,7 +232,7 @@ Y el hombre que tiene la gracia de los dioses, buena fortuna contempla[^27].'
 'Los que cruzan el océano se entristecen  
 Haciendo un camino sólido a través de las piscinas.
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Mientras el mundo vanidoso ata sus balsas de cesta,  
 ¡Éstos son los sabios, éstos son los verdaderamente salvados[^30]!'
@@ -300,7 +300,7 @@ Fin de la primera porción para recitación.
 
 [^15]: Buddhaghosa toma esto en un sentido espiritual, 'tâni pan' etâni (sîlâni) ta<i>n</i>hâ-dâsavyato mo<i>k</i>etvâ bhu<i>g</i>issa-bhâva-kara<i>n</i>ato bhu<i>g</i>issâni': es decir, 'Estas virtudes son bhu<i>g</i>issâni porque llevan a uno al estado de un hombre libre liberándolo de la esclavitud del anhelo'.
 
-[^16]: 'Ta<i>n</i>hâ-di<i>tth</i>îhi aparâma<i>tth</i>attâ, ida<i>m</i> nâma tva<i>m</i> âpannapubbo ti kena<i>k</i>i parama<i>tth</i>u<i>m</i> asakku<i>n</i>eyyattâ <i>k</i>a, 'aparâma<i>tth</i>âni' (SV fol. 116), es decir, 'Estas virtudes se llaman aparâma<i>tth</i>âni' porque no están manchadas por el anhelo o el engaño, y porque nadie puede decir de quien las practica: “ya has sido culpable de tal y tal pecado”. El anhelo es aquí la esperanza de una vida futura en el cielo, y el engaño, la creencia en la eficacia de los ritos y ceremonias (los dos nissayas) que son condenados como incentivos indignos para la virtud.
+[^16]: 'Ta<i>n</i>hâ-di<i>tth</i>îhi aparâma<i>tth</i>attâ, ida<i>m</i> nâma tva<i>m</i> âpannapubbo ti kena<i>k</i>i parama<i>tth</i>u<i>m</i> asakku<i>n</i>eyyattâ <i>k</i>a, 'aparâma<i>tth</i>âni' (SV fol. 116), es decir, 'Estas virtudes se llaman aparâma<i>tth</i>âni' porque no están manchadas por el anhelo o el engaño, y porque nadie puede decir de quien las practica: «ya has sido culpable de tal y tal pecado». El anhelo es aquí la esperanza de una vida futura en el cielo, y el engaño, la creencia en la eficacia de los ritos y ceremonias (los dos nissayas) que son condenados como incentivos indignos para la virtud.
 
 [^17]: Este párrafo se presenta como si fuera un resumen bien conocido, y se repite constantemente a continuación. La palabra que he traducido como «contemplación seria» es samâdhi, que ocupa en el Pâli Pi<i>t</i>akas una posición muy similar a la de la fe en el Nuevo Testamento; y esta sección muestra que la importancia relativa de samâdhi, pa<i>ññ</i>â y sîla desempeñó un papel en el budismo primitivo, al igual que la distinción entre fe, razón y obras lo desempeñó posteriormente en la teología occidental. Sería difícil encontrar un pasaje en el que la visión budista de la relación entre estas ideas contradictorias se exprese con mayor belleza de pensamiento o con igual concisión formal.
 

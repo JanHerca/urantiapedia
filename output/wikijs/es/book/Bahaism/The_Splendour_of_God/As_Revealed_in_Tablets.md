@@ -45,7 +45,7 @@ Si se produce oposición o daño, debemos soportarlo y ser amables, y, en todo c
 
 Guardar silencio ante las faltas de los demás; orar por ellos; y ayudarles, mediante la bondad, a corregir sus faltas.
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Mirar siempre lo bueno y no lo malo. Si un hombre tiene diez cualidades buenas y una mala, debemos fijarnos en las diez y olvidarnos de la primera. Y si un hombre tiene diez cualidades malas y una buena, debemos fijarnos en la primera y olvidarnos de las diez.
 
@@ -75,7 +75,7 @@ Ser causa de curación para todo enfermo; consolador para todo afligido; agua ag
 
 Nuestro Bendito Maestro dijo:
 
-“En estas cosas conoceréis al fiel siervo de Dios.”
+«En estas cosas conoceréis al fiel siervo de Dios.»
 
 ---
 

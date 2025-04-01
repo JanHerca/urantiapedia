@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p276">[<sup><small>pág. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 LIBRO IX.
 
@@ -76,7 +76,7 @@ El primer alfarero dijo: «Sé trabajar bien la arcilla»; y los hombres procedi
 
 ## Notas al pie
 
-[^398]: 276:1 Véase pág. [140](Introducción_Capítulo#p140), [141](Introducción_Capítulo#p141).
+[^398]: 276:1 Véase pág. [140](../Introducción_Capítulo#p140), [141](../Introducción_Capítulo#p141).
 
 [^399]: 276:2 Literalmente, «torres justas»; pero ![](/image/book/Taoism/Taoist_texts_vol_1/27600.jpg) tiene aplicaciones muy diversas, y existen otras interpretaciones. Compárese el nombre de ling thâi, dado por el pueblo a la torre construida por el rey Wän; Shih, III, i, 8.
 

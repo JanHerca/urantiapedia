@@ -1,6 +1,6 @@
 ---
 title: "XXIII. Âfrîn Paighambar Zartûst"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>pág. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 XXIII-XXIV. ÂFRÎN PAIGHAMBAR ZARTÛ<i>S</i>T Y VÎ<i>S</i>TÂSP YA<i>S</i>T.
 
-'Dios le enseñó el Zendávasta a Zartusht, una obra sublime... Dios le dijo a Zartusht: “Ve y lee este libro ante Sháh Gushtásp, para que pueda llegar a la fe... guarda todo mi consejo y repítelo palabra por palabra a Sháh Gushtásp [^1359]”.
+'Dios le enseñó el Zendávasta a Zartusht, una obra sublime... Dios le dijo a Zartusht: «Ve y lee este libro ante Sháh Gushtásp, para que pueda llegar a la fe... guarda todo mi consejo y repítelo palabra por palabra a Sháh Gushtásp [^1359]».
 
 Zartusht, en obediencia a Dios, fue a la corte de Gushtásp: «Se adelantó e invocó una bendición sobre el Shâh [^1360]». Luego le leyó el Zandávasta y le dijo: «Aprende sus estatutos y anda según ellos. Si tu deseo es hacia sus leyes, morarás en el paraíso celestial. Pero si te apartas de sus mandamientos, tu corona descenderás al polvo. Tu Dios se disgustará contigo y arruinará tu próspera condición. Al final, descenderás al infierno si no escuchas el consejo del Todopoderoso [^1361]».
 
@@ -60,7 +60,7 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 2\. '¡Que tengas un hijo como <i>G</i>âmâspa, y que él te bendiga como (G</i>âmâspa bendijo a) Vî<i>s</i>tâspa (el señor) del país [^1366]!
 
-<span id="p326">[<sup><small>pág. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 '¡Que seas muy benéfico, como Mazda!
 
@@ -114,7 +114,7 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 ' [^1387] Abracemos y propaguemos los buenos pensamientos, las buenas palabras y las buenas acciones que se han hecho y que se harán aquí y en otros lugares, para que podamos estar entre los buenos.
 
-<span id="p328">[<sup><small>pág. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 'Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
@@ -158,7 +158,7 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 [^1430]: 324:4 Véase Yt. XXIII, 2; no está claro si la declaración de Anquetil en ese sentido (Zend-Avesta II, 623) se basa en una tradición independiente o sólo en el texto de nuestro Ya<i>s</i>t.
 
-[^1431]: 324:5 Véase arriba, [p. 70](Yasts_5#p70), nota [1](Yasts_5#fn344).
+[^1431]: 324:5 Véase arriba, [p. 70](../Yasts_5#p70), nota [1](../Yasts_5#fn344).
 
 [^1432]: 325:1 Por ejemplo, §§ 28, 30, 31, 39, etc.
 
@@ -178,7 +178,7 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 [^1440]: 326:6 Véase Yt. XV, 28.
 
-[^1441]: 326:7 Véase [p. 64](Yasts_5#p64), nota [1](Yasts_5#fn315).
+[^1441]: 326:7 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
 [^1442]: 326:8 Uno perteneciente a la familia Âthwya, de la cual Thraêtaona era miembro. Todos llevaban nombres que indican que eran ricos en ganado: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. («uno con bueyes abundantes, con bueyes útiles, con el buey pardo, etc.» Bundahi<i>s</i>, tr. West, XXXI, 7, nota 8).
 

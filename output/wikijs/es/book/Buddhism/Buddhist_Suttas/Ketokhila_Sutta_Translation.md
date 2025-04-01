@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p223">[<sup><small>pág. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 ## ESTERILIDAD Y ESCLAVITUD. <i>K</i>ETOKHILA-SUTTA.
 
@@ -70,7 +70,7 @@ Entonces el Bendito habló:
 
 'Pero aquel cuya mente no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no se ha liberado de esta quinta esterilidad espiritual.
 
-“Es así, oh Bhikkhus, quien no está libre de los cinco tipos de esterilidad espiritual”.
+«Es así, oh Bhikkhus, quien no está libre de los cinco tipos de esterilidad espiritual».
 
 ---
 
@@ -94,7 +94,7 @@ Entonces el Bendito habló:
 
 'Pero aquella mente cuya inclinación no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no ha roto esta tercera esclavitud espiritual.
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 11\. 'Y además, Oh Bhikkhus, un hermano puede haber comido lo suficiente y hasta saciarse, y comienza a seguir el caso del sueño, la comodidad de la suavidad, la comodidad de la pereza.
 
@@ -104,13 +104,13 @@ Entonces el Bendito habló:
 
 12\. «Y además, oh bhikkhus, un hermano puede haber adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes angélicas, y pensar para sí mismo: «Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!»
 
-'Cualquier hermano, oh Bhikkhus, que haya adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes de ángeles, y piense para sí mismo: “Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!”, su mente no se inclina al celo, al esfuerzo, a la perseverancia ni a la lucha.
+'Cualquier hermano, oh Bhikkhus, que haya adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes de ángeles, y piense para sí mismo: «Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!», su mente no se inclina al celo, al esfuerzo, a la perseverancia ni a la lucha.
 
 'Pero aquella mente cuya inclinación no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no ha roto esta quinta esclavitud espiritual.
 
 «Es así, oh Bhikkhus, quien no ha roto los cinco tipos de esclavitud mental.
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 13\. 'Y cualquier hermano, oh Bhikkhus, que no se haya liberado completamente de las cinco clases de esterilidad espiritual, que no haya roto por completo las cinco clases de esclavitud mental, que tal persona alcance el máximo provecho de, que logre el pleno crecimiento en, la plena amplitud de, esta doctrina y disciplina, ¡eso de ninguna manera puede ser!
 
@@ -158,7 +158,7 @@ Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la persever
 
 22\. 'Y además, oh Bhikkhus, cuando un hermano se ha librado de la pasión por una forma (rûpe), se ha librado del deseo por una forma, se ha librado de la atracción por una forma, se ha librado de la sed por una forma, se ha librado de la fiebre de una forma, se ha librado del anhelo por una forma.—
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 'Cualquier hermano, oh Bhikkhus, que se haya librado de la pasión por una forma, se haya librado del deseo por una forma, se haya librado de la atracción por una forma, se haya librado de la sed por una forma, se haya librado de la fiebre por una forma, se haya librado del anhelo por una forma, su mente se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
 
@@ -170,9 +170,9 @@ Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la persever
 
 'Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la perseverancia y la lucha, se habrá liberado de esta cuarta esclavitud espiritual[^6].
 
-24\. 'Y además, oh bhikkhus, cuando un hermano no ha adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes angélicas, pensando para sí mismo: “Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!”—
+24\. 'Y además, oh bhikkhus, cuando un hermano no ha adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes angélicas, pensando para sí mismo: «Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!»—
 
-«Oh, bhikkhus, cualquier hermano que no haya adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes angélicas, pensando para sí mismo: “Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!”, su mente se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
+«Oh, bhikkhus, cualquier hermano que no haya adoptado la vida religiosa con la aspiración de pertenecer a alguna de las huestes angélicas, pensando para sí mismo: «Por esta moralidad, o por esta observancia, o por esta austeridad, o por esta vida religiosa, ¡me convertiré en un ángel, o en uno de los ángeles!», su mente se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
 
 'Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la perseverancia y la lucha, se habrá liberado de esta quinta esclavitud espiritual.
 
@@ -190,7 +190,7 @@ Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la persever
 
 29\. '¡Así mismo, un hermano dotado así de quince veces de determinación seguramente saldrá a la luz, seguramente alcanzará la sabiduría superior, seguramente alcanzará la seguridad suprema[^11]!'
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 30\. Así habló el Bendito. Y aquellos Hermanos, con el corazón lleno de alegría, exaltaron la palabra del Bendito.
 
@@ -198,7 +198,7 @@ Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la persever
 
 Fin del Sutta sexto, sobre la esterilidad y la esclavitud.
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

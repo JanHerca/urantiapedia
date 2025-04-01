@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 ### PERIODO TOKUGAWA POSTERIOR
 
@@ -52,7 +52,7 @@ La sórdida aristocracia de la época consideraba todo esto natural, pues sus pr
 
 La Escuela Popular, que fue su única expresión, si bien alcanzó destreza en el color y el dibujo, carece de esa idealidad que constituye la base del arte japonés. Esas xilografías de encantadores colores, llenas de vigor y versatilidad, realizadas por Outamaro, Shunman, Kionobu, Harunobu, Kionaga, Toyokuni y Hokusai, se distinguen de la línea principal de desarrollo del arte japonés, cuya evolución ha sido continua desde el período Nara. Los inros, los netsukes, los guardas de espadas y los deliciosos artículos lacados de la época eran meros juguetes, y como tales, no encarnaban el fervor nacional, en el que reside todo verdadero arte. El gran arte es aquel ante el cual anhelamos morir. Pero el arte del período Tokugawa tardío solo permitía al hombre recrearse en los deleites de la fantasía. Es porque la belleza de las obras de este período se hizo notar primero, en lugar de la grandeza de las obras maestras escondidas en las colecciones de los daimyos y los tesoros de los templos, que el arte japonés aún no es considerado seriamente en Occidente.
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 El arte burgués de Yedo (Tokio), bajo la temible sombra de los shogunes, se vio así limitado a un estrecho círculo de expresión. Gracias a la atmósfera más libre de Kioto, se desarrolló otra forma más elevada de arte democrático. Kioto, donde se mantuvo la sede imperial, se encontraba por ello relativamente libre de la disciplina Tokugawa, pues los shogunes no se atrevían a imponerse allí tan abiertamente como en Yedo y en otras partes del país. Fue aquí, por tanto, donde eruditos y librepensadores acudieron en masa a refugiarse, convirtiéndose así, un siglo y medio después, en el punto de apoyo sobre el que giraría la palanca de la restauración Meiji. Fue aquí donde los artistas que desdeñaban el yugo de Kano pudieron aventurarse a desviarse deliberadamente de la tradición, donde las clases medias adineradas pudieron permitirse admirar su originalidad. Allí estaba Busson intentando formular un nuevo estilo ilustrando la poesía popular; Aquí estaba Watanabe-Shiko, que intentó <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> revivir el estilo de Korin, y Shohaku, que, con un instinto similar al de Blake, se deleitaba con imágenes salvajes basadas en Jasoku del período Ashikaga; y aquí, finalmente, estaba Jakuchu, un fanático, que amaba pintar pájaros imposibles.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 TERCERA PARTE.
 
@@ -94,7 +94,7 @@ En medio del palanquín había un trono costoso cubierto con un paño divino, pi
 
 Llevaba en la cabeza una corona y una diadema, su cuerpo brillaba y estaba adornado con muchos ornamentos; se había puesto una túnica de muselina que valía un lakh. ix.
 
-<span id="p198">[<sup><small>pág. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Después de un ayuno de tres días, con gloriosa resolución ascendió al palanquín supremo, purificando todo con su luz.
 
@@ -140,7 +140,7 @@ i. El primer gran voto, señor, dice así:
 
 Renuncio a matar a cualquier ser vivo, ya sea sutil o físico, móvil o inmóvil. Tampoco mataré a ningún ser vivo (ni obligaré a otros a hacerlo ni consentiré en ello). Mientras viva, confieso, culpo, me arrepiento y me eximo de estos pecados, de la triple manera [^510], en mente, palabra y cuerpo.
 
-<span id="p203">[<sup><small>pág. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Hay cinco cláusulas.
 
@@ -190,7 +190,7 @@ La primera cláusula dice así:
 
 Un Nirgrantha habla tras deliberar, no sin deliberar. El Kevalin dice: Sin deliberar, un Nirgrantha podría decir una falsedad en su discurso. Un Nirgrantha habla tras deliberar, no sin deliberar.
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 Esta es la primera cláusula. (1)
 
@@ -252,7 +252,7 @@ Ahora sigue la cuarta cláusula:
 
 Un Nirgrantha que ha tomado posesión de un terreno debe renovar constantemente su concesión. El Kevalin dice: Si a un Nirgrantha no se le renueva constantemente su concesión, puede tomar posesión de lo que no se le ha dado. Un Nirgrantha, etc.
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Esta es la cuarta cláusula. (4)
 

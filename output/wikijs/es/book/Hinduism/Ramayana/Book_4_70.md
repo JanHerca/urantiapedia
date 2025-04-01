@@ -90,7 +90,7 @@ Reft de mi hermano y mi influencia.
 Desde la cima de esta alta montaña yo
 Me arrojará de cabeza y morirá.
 
-<span id="p390">[<sup><small>pág. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 
 
@@ -114,7 +114,7 @@ Un príncipe bueno y valiente, su heredero,
 ¿Deberá el querido nombre de Ráma perdurar?
 Con su valiente hermano Lakshman él
 Un exilio en los bosques será,
-Donde Rávan, a quien ningún dios puede matar, [1](Libro_4_70#fn779)
+Donde Rávan, a quien ningún dios puede matar, [1](../Libro_4_70#fn779)
 Le robará a su amada esposa,
 En vano se cortejará al cautivo
 Con amor ofrecido y comida delicada,
@@ -185,7 +185,7 @@ Sé fuerte en la más segura confianza.
 Rápido, saltó del peñasco para intentar
 Sus alas en su cielo natal.
 ¿Sus palabras habían apaciguado las dudas de los jefes?
-Y cada corazón se llenó de valor. [1b](Libro_4_70#fn780)
+Y cada corazón se llenó de valor. [1b](../Libro_4_70#fn780)
 
 
 
@@ -208,7 +208,7 @@ Como montañas, amenazando el cielo,
 Y formas infernales salvajes entre
 Se vieron las crestas de las olas.
 
-<span id="p391">[<sup><small>pág. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 Vieron las olas agitarse y crecer,
 Y sus tristes espíritus se hundieron y cayeron;
@@ -317,7 +317,7 @@ Entonces el anciano jefe volvió a hablar:
 Porque a la tarea yo incitaré
 Un jefe con suficiente poder.
 
-<span id="p392">[<sup><small>pág. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 
 
@@ -429,7 +429,7 @@ Gran almacén de hierbas de la montaña y del prado,
 Las cuales, esparcidas sobre la ola turbulenta.
 El Amrit fue dado a los trabajadores,
 
-<span id="p393">[<sup><small>pág. 393</small></sup>]</span>
+<span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 Pero ahora mis días están casi contados,
 Mi fuerza se ha ido, mis miembros están viejos,
@@ -440,7 +440,7 @@ Tu incomparable poder y fuerza demuestran
 ¡Levántate, oh príncipe, nuestro segundo rey,
 Y sobre la inundación del océano brota la primavera.
 Así se verá la gloriosa hazaña
-Con aquel que atravesó la tierra y el cielo.' [1](Libro_4_70#fn786)
+Con aquel que atravesó la tierra y el cielo.' [1](../Libro_4_70#fn786)
 
 Él habló: el jefe más joven oyó,
 Su alma se agitó ante el esfuerzo vigoroso,

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 SEGUNDO LIBRO
 
@@ -54,7 +54,7 @@ Un monje o una monja que esté de gira pidiendo limosna no debe aceptar como lim
 
 Pero cuando reconocen que estas cosas han sido realizadas más de una vez, dos o tres veces, entonces pueden aceptarlas, si las obtienen, porque son puras y aceptables. (6)
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 Un monje o una monja que desee entrar en la morada de un jefe de familia para recoger limosna, no debe entrar ni salir junto con un hereje o un jefe de familia; o un monje que evita todos los alimentos prohibidos, etc., junto con uno que no lo hace. (7)
 
@@ -66,7 +66,7 @@ Un monje o una monja que esté de gira pidiendo limosna no debe dar, inmediata o
 
 Un monje o una monja en una gira de mendicidad no debe aceptar comida, etc., de un jefe de familia que ellos saben que debe dar por respeto a un Nirgrantha, en nombre de un compañero asceta, comida, etc., que ha comprado, robado o tomado, aunque no debía ser tomada ni dada, sino tomada por la fuerza, actuando pecaminosamente hacia toda clase de seres vivos; porque esa comida, etc., preparada por otro hombre [^326] o por el mismo dador, traída fuera de la casa o no traída fuera de la casa, perteneciente al dador o no perteneciente a él, compartida o probada, o no compartida o probada, es impura e inaceptable.
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 En este precepto, sustituye 'en nombre de un compañero asceta' por (2) en nombre de muchos compañeros ascetas, (3) en nombre de una compañera asceta, (4) en nombre de muchas compañeras ascetas; de modo que habrá cuatro preceptos análogos. (11)
 
@@ -83,7 +83,7 @@ Así lo digo. (14)
 
 
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ## SEGUNDA LECCIÓN.
 
@@ -147,7 +147,7 @@ Un monje o una monja pueden asistir a un entretenimiento como el descrito en el 
 
 Un monje o una monja que desee entrar en la casa de un jefe de familia no debe hacerlo si ve que se están ordeñando las vacas lecheras, o que se está cocinando la comida, etc., y que aún no se ha distribuido. Al percatarse de ello, debe apartarse y permanecer donde nadie pase ni los vea. Pero cuando considere que las vacas lecheras están ordeñadas, que la comida está preparada y distribuida, puede entrar o salir con cautela de la casa para pedir limosna. (3)
 
-Algunos mendigos dicen a los que siguen las mismas reglas de conducta, viven (en el mismo lugar) o vagan de un pueblo a otro: “Este es en verdad un pueblo pequeño, es demasiado poblado, pero tampoco es grande; reverendos caballeros, id a los pueblos de los alrededores a pedir limosna [^337]”.
+Algunos mendigos dicen a los que siguen las mismas reglas de conducta, viven (en el mismo lugar) o vagan de un pueblo a otro: «Este es en verdad un pueblo pequeño, es demasiado poblado, pero tampoco es grande; reverendos caballeros, id a los pueblos de los alrededores a pedir limosna [^337]».
 
 Algunos mendigos pueden tener parientes o familiares, por ejemplo, un cabeza de familia o su esposa, hijas, nueras, niñeras, esclavos y esclavas, o sirvientes. A estas familias con las que tiene parentesco o matrimonio, las visitará antes (del momento de mendigar): «Conseguiré allí (piensa) comida, golosinas, leche, leche agria espesa, mantequilla fresca, ghee, azúcar, aceite, miel, carne o licor, un plato de sésamo [^338], azúcar sin refinar, trigo tostado [^339], cuajada y azúcar con especias [^340]; después de haber comido y bebido, y de haber limpiado y frotado el cuenco de limosnas, <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> junto con otros mendigos, entrar o salir de la casa de un jefe de familia para recoger limosna. Como esto sería un pecado, no debe hacerlo. (4)
 
@@ -253,7 +253,7 @@ Un monje o una monja en una gira de mendicidad no debe aceptar jugo de mangos, j
 
 (2) Cuando un monje o una monja que está de gira para pedir limosna huele, en casas de viajeros, en casas de jardines, en casas de jefes de familia o en ma<i>th</i>s, el aroma de comida o bebida o aromas dulces, no debe olerlos, siendo indiferente al olor y no ansioso, ni deseoso, ni codicioso, ni codicioso del olor agradable.
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Un monje o una monja en una gira de mendicidad no debe aceptar alimentos crudos que aún no hayan sido modificados con instrumentos [^355], como raíces bulbosas que crecen en agua o tierra seca, o tallos de mostaza; pues son impuros e inaceptables. Lo mismo ocurre con la pimienta larga, la pimienta larga molida, la pimienta común, la pimienta común molida, el jengibre o el jengibre molido. (3)
 
@@ -285,7 +285,7 @@ Así lo digo. (15)
 
 
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## NOVENA LECCIÓN.
 
@@ -316,7 +316,7 @@ Así lo digo. (7)
 
 Un mendigo soltero, tras haber recogido limosnas para muchos, podría, sin consultar a sus compañeros ascetas, dárselas a quienes desee; como esto sería un pecado, no debería hacerlo. Tomando la comida, debería ir allí (donde está su maestro, etc.) y decir: «¡Oh, longevo <i>Srama<i>n</i>a! Tengo parientes espirituales cercanos o remotos: un maestro, un submaestro, un guía religioso, un Sthavira, un líder de un Ga<i>n</i>a, un Ga<i>n</i>adhara, un fundador de un Ga<i>n</i>a; en verdad, se las daré». El otro podría responderle: «¡Bien, oh, longevo! ¡Da tal porción!». Tanto como el otro ordene, tanto debe dar; si el otro ordena todo, debe darlo todo. (1)
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Un mendigo soltero, tras haber recogido comida sabrosa, podría cubrirla con comida desagradable, pensando: «El maestro o submaestro, etc., viendo lo que he recibido, podría tomarlo él mismo; ¡de hecho, no le daré nada a nadie!». Como esto sería un pecado, no debería hacerlo.
 
@@ -503,7 +503,7 @@ Fin de la Primera Conferencia, llamada La Mendicidad de Alimentos.
 
 [^373]: 110:5 Pistia Stratiotes.
 
-[^374]: 111:1 Para el significado de este término frecuentemente usado, véase la nota [5](Akaranga_1_8#fn307) en la [p. 81](Akaranga_1_8#p81), y la nota [1](Akaranga_2_1#fn329) en la [p. 94](Akaranga_2_1#p94).
+[^374]: 111:1 Para el significado de este término frecuentemente usado, véase la nota [5](../Akaranga_1_8#fn307) en la [p. 81](../Akaranga_1_8#p81), y la nota [1](../Akaranga_2_1#fn329) en la [p. 94](../Akaranga_2_1#p94).
 
 [^375]: 114:1 Se detallan en el original: a<i>m</i>taru<i>k</i><i>kh</i>uya<i>m</i>, un trozo entre dos nudos; u<i>k</i><i>kh</i>uga<i>m</i><i>d</i>iya<i>m</i>, un trozo que contiene un nudo; u<i>k</i><i>kh</i>u<i>k</i>oyagam (?), u<i>k</i><i>kh</i>umeraga<i>m</i>, parte superior de un tallo; u<i>k</i><i>kh</i>usâlaga<i>m</i>, hoja larga; u<i>k</i><i>kh</i>u<i>d</i>âlaga<i>m</i>, fragmento de una hoja.
 

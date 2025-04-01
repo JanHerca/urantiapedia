@@ -80,7 +80,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_5_1_2323"><sup><small>1:5:1:2323.</small></sup></span> Se acerca al asiento del Hotri, toma un tallo de junco y lo arroja fuera (del terreno sacrificial), con la fórmula: "¡Expulsado el acaparador de riquezas (parâvasu, lit. "riqueza ajena")!". Anteriormente, el Hotri de los Asuras era un tal Parâvasu: a él, con ello, lo expulsa del asiento del Hotri.
 
-<span id="v1_5_1_2424"><sup><small>1:5:1:2424.</small></sup></span> Luego se sienta en el asiento del Hotri, con la fórmula: "¡Aquí me siento en el asiento del dador de riqueza (arvâvasu, lit. “riqueza de aquí”)!", pues un tal Arvâvasu era el Hotri de los dioses [^339], y en consecuencia se sienta en su asiento.
+<span id="v1_5_1_2424"><sup><small>1:5:1:2424.</small></sup></span> Luego se sienta en el asiento del Hotri, con la fórmula: "¡Aquí me siento en el asiento del dador de riqueza (arvâvasu, lit. «riqueza de aquí»)!", pues un tal Arvâvasu era el Hotri de los dioses [^339], y en consecuencia se sienta en su asiento.
 
 <span id="v1_5_1_2525"><sup><small>1:5:1:2525.</small></sup></span> Al mismo tiempo, murmura: «¡Oh, Creador de todo, tú eres el protector de las vidas! ¡No me queméis vosotros dos (fuegos) y me alejéis (de esto) [^340], no me dañéis! Esta <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> es vuestra esfera». Con esto, se desplaza ligeramente hacia el norte: con este mantra, indica que se encuentra a medio camino entre el Âhavanîya y el Gârhapatya, y así propicia a estos dos; y, de acuerdo con lo que dice: «¡No me queméis y me alejéis de esto! ¡No me dañéis!», no le dañan.
 
@@ -129,7 +129,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_5_2_1919"><sup><small>1:5:2:1919.</small></sup></span> Si él (el sacrificador) desea la lluvia, o debe realizar una ofrenda especial [^353], o incluso en el sacrificio de luna nueva y luna llena, puede decir: "¡En verdad, deseo la lluvia!"; y también puede decirle al Adhvaryu: "¡Reflexiona sobre el viento del este y el relámpago!"; al Âgnîdhra: "¡Reflexiona sobre las nubes!"; al Hotri: "¡Reflexiona sobre el trueno y la lluvia!"; al Brahman: "¡Reflexiona sobre todo esto!"; pues donde los sacerdotes oficiantes practican el sacrificio con un entendimiento mutuo perfecto, allí ciertamente lloverá.
 
-<span id="v1_5_2_2020"><sup><small>1:5:2:2020.</small></sup></span> Con '¡Oh, srâvaya!', los dioses llamaron a la vaca resplandeciente (virâ<i>g</i>, es decir, vaca); con '¡Astu, srausha, t!', desataron al ternero y lo dejaron ir hacia ella; con '¡Ya, sá, á!', alzaron (su cabeza hasta la ubre de la vaca) [^354]; con <span id="p144">[<sup><small>pág. 144</small></sup>]</span> '¡Ye, ya, âmahe!', se sentaron junto a ella (para ordeñar); con la llamada vasha, la ordeñaron. La resplandeciente es, sin duda, ésta (la tierra), y de ella éste es el ordeño: y para aquel que sabe que éste es el ordeño de la resplandeciente, esta resplandeciente (vaca-tierra) ordeña así todos sus deseos.
+<span id="v1_5_2_2020"><sup><small>1:5:2:2020.</small></sup></span> Con '¡Oh, srâvaya!', los dioses llamaron a la vaca resplandeciente (virâ<i>g</i>, es decir, vaca); con '¡Astu, srausha, t!', desataron al ternero y lo dejaron ir hacia ella; con '¡Ya, sá, á!', alzaron (su cabeza hasta la ubre de la vaca) [^354]; con <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> '¡Ye, ya, âmahe!', se sentaron junto a ella (para ordeñar); con la llamada vasha, la ordeñaron. La resplandeciente es, sin duda, ésta (la tierra), y de ella éste es el ordeño: y para aquel que sabe que éste es el ordeño de la resplandeciente, esta resplandeciente (vaca-tierra) ordeña así todos sus deseos.
 
 
 <span id="v1_5_3"><sup><small>1:5:3</small></sup></span>
@@ -247,13 +247,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^331]: 131:2 El Hot<i>ri</i>, al concluir la invitación de los dioses, se sienta con las rodillas levantadas en el mismo lugar donde ha estado de pie (ver [p. 95](Book_1_1_3#p95), nota [1](Book_1_1_3#fn263)), parte la hierba sacrificial del altar y mide un palmo en la tierra, con el texto (Â<i>s</i>v. I, 3, 22), 'Aditi es su madre, no lo cortes del aire. Con la ayuda de p. 132 Agni, el dios, la deidad; con el triple canto, con el râthantara-sâman, con el metro gâyatrî, con el sacrificio agnish<i>t</i>oma, con el llamado vasha<i>t</i>, el rayo, ¡aquí mato a quien nos odia y a quien nosotros odiamos!' El Adhvaryu, habiendo caminado entonces alrededor del Hot<i>ri</i> de izquierda a derecha, se sitúa detrás del utkara (montón de basura) con su cara hacia el este y la banda de combustible en su mano, e invoca (â<i>s</i>râvayati) al Âgnîdhra, con Õ <i>s</i>râvaya (o Õ<i>m</i> <i>s</i>râvaya, es decir, â <i>s</i>râvaya; o simplemente '<i>s</i>râvaya;' cf. Sâya<i>n</i>a sobre Taitt. S. I, 6, 11). El Âgnîdhra (mientras está de pie al norte del Adhvaryu, con su cara hacia el sur, y tomando la espada de madera y la banda de combustible del Adhvaryu) responde (pratyâ<i>s</i>râvayati) con 'astu <i>s</i>rausha<i>t</i>.'
+[^331]: 131:2 El Hot<i>ri</i>, al concluir la invitación de los dioses, se sienta con las rodillas levantadas en el mismo lugar donde ha estado de pie (ver [p. 95](../Book_1_1_3#p95), nota [1](../Book_1_1_3#fn263)), parte la hierba sacrificial del altar y mide un palmo en la tierra, con el texto (Â<i>s</i>v. I, 3, 22), 'Aditi es su madre, no lo cortes del aire. Con la ayuda de p. 132 Agni, el dios, la deidad; con el triple canto, con el râthantara-sâman, con el metro gâyatrî, con el sacrificio agnish<i>t</i>oma, con el llamado vasha<i>t</i>, el rayo, ¡aquí mato a quien nos odia y a quien nosotros odiamos!' El Adhvaryu, habiendo caminado entonces alrededor del Hot<i>ri</i> de izquierda a derecha, se sitúa detrás del utkara (montón de basura) con su cara hacia el este y la banda de combustible en su mano, e invoca (â<i>s</i>râvayati) al Âgnîdhra, con Õ <i>s</i>râvaya (o Õ<i>m</i> <i>s</i>râvaya, es decir, â <i>s</i>râvaya; o simplemente '<i>s</i>râvaya;' cf. Sâya<i>n</i>a sobre Taitt. S. I, 6, 11). El Âgnîdhra (mientras está de pie al norte del Adhvaryu, con su cara hacia el sur, y tomando la espada de madera y la banda de combustible del Adhvaryu) responde (pratyâ<i>s</i>râvayati) con 'astu <i>s</i>rausha<i>t</i>.'
 
-[^332]: 132:1 Véase [p. 127](Book_1_1_4#p127), nota [1](Book_1_1_4#fn321).
+[^332]: 132:1 Véase [p. 127](../Book_1_1_4#p127), nota [1](../Book_1_1_4#fn321).
 
 [^333]: 133:1 Así lo dice nuestro autor. Debería ser más bien: «Que adore a los dioses, él, el sabio, el considerado».
 
-[^334]: 133:2 Cf. [p. 115](Book_1_1_4#p115), nota [1](Book_1_1_4#fn303).
+[^334]: 133:2 Cf. [p. 115](../Book_1_1_4#p115), nota [1](../Book_1_1_4#fn303).
 
 [^335]: 134:1 Excepto el comienzo, estas fórmulas son completamente diferentes de las dadas por Â<i>s</i>v. <i>S</i>. I, 3, 23-24.
 
@@ -289,11 +289,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^351]: 142:1 Véase IV, 2, 5, 7-8.
 
-[^352]: 142:2 (1) O <i>s</i>râvaya (por â srâvaya), el llamado del Adhvaryu; (2) astu <i>s</i>rausha<i>t</i>, la respuesta del Âgnîdhra; (3) (samidho) ya<i>g</i>a, la convocatoria del Adhvaryu al Hot<i>ri</i>; (4) ye ya<i>g</i>âmahe, el comienzo del yâ<i>g</i>yâ del Hot<i>ri</i>, o la oración de ofrenda (véase la nota [p. 135](Book_1_1_5#p135)); (5) vausha<i>t</i>, fórmula final del yâ<i>g</i>yâ.
+[^352]: 142:2 (1) O <i>s</i>râvaya (por â srâvaya), el llamado del Adhvaryu; (2) astu <i>s</i>rausha<i>t</i>, la respuesta del Âgnîdhra; (3) (samidho) ya<i>g</i>a, la convocatoria del Adhvaryu al Hot<i>ri</i>; (4) ye ya<i>g</i>âmahe, el comienzo del yâ<i>g</i>yâ del Hot<i>ri</i>, o la oración de ofrenda (véase la nota [p. 135](../Book_1_1_5#p135)); (5) vausha<i>t</i>, fórmula final del yâ<i>g</i>yâ.
 
-[^354]: 143:1 Para â<i>s</i>râvaya (cf. [p. 131](Book_1_1_4#p131), nota [2](Book_1_1_5#fn329)), es decir, '¡pídele (a él, a Agni, o a ellos) que escuchen!' pero el autor aquí hace de <i>s</i>râvaya el causativo de <i>s</i>ru (sru), 'fluir'; de ahí â <i>s</i>râvaya, 'hacer fluir'; y astu <i>s</i>rausha<i>t</i> \[propiamente '¡Sí, que él (o uno) escuche!'\] hace '¡Sí, que fluya!'
+[^354]: 143:1 Para â<i>s</i>râvaya (cf. [p. 131](../Book_1_1_4#p131), nota [2](../Book_1_1_5#fn329)), es decir, '¡pídele (a él, a Agni, o a ellos) que escuchen!' pero el autor aquí hace de <i>s</i>râvaya el causativo de <i>s</i>ru (sru), 'fluir'; de ahí â <i>s</i>râvaya, 'hacer fluir'; y astu <i>s</i>rausha<i>t</i> \[propiamente '¡Sí, que él (o uno) escuche!'\] hace '¡Sí, que fluya!'
 
-[^355]: 143:2 Una etimología fantasiosa de vasha<i>t</i> de la raíz v<i>ri</i>sh, 'hacer llover'; para la verdadera derivación de la palabra, véase [p. 88](Book_1_1_3#p88), nota [2](Book_1_1_3#fn254).
+[^355]: 143:2 Una etimología fantasiosa de vasha<i>t</i> de la raíz v<i>ri</i>sh, 'hacer llover'; para la verdadera derivación de la palabra, véase [p. 88](../Book_1_1_3#p88), nota [2](../Book_1_1_3#fn254).
 
 [^356]: 143:3 Es decir, una ofrenda hecha con vistas a la obtención de algún deseo especial (kâmyesh<i>t</i>i).
 
@@ -313,7 +313,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^364]: 149:1 Al hacer la oblación, el Adhvaryu sostiene el <i>g</i>uhû</i> sobre el upabh<i>ri</i>t y vierte un poco de la mantequilla del <i>g</i>uhû</i> sobre el pico del upabh<i>ri</i>t al fuego. En la tercera oración, vacía toda la mantequilla restante del <i>g</i>uhû</i> en el fuego, y luego, para la cuarta oblación, rellena la cuchara vacía con la mitad del contenido del upabh<i>ri</i>t, después de lo cual procede como antes.
 
-[^365]: 151:1 Cf. [p. 118](Book_1_1_4#p118), nota [3](Book_1_1_4#fn309). Las palabras «Svâhâ Agnim», etc., van precedidas de «ye ya<i>g</i>âmahe», véase antes, [p. 148](#p148), nota [^360].
+[^365]: 151:1 Cf. [p. 118](../Book_1_1_4#p118), nota [3](../Book_1_1_4#fn309). Las palabras «Svâhâ Agnim», etc., van precedidas de «ye ya<i>g</i>âmahe», véase antes, [p. 148](#p148), nota [^360].
 
 [^366]: 151:2 Después de que el Adhvaryu haya realizado la última ofrenda anticipada, se retira detrás del altar y, sentado junto a los platos de la comida sacrificial, unge, con la mantequilla restante en el <i>g</i>uhû, primero la mantequilla del dhruvâ, luego los diversos platos de sacrificio; y finalmente la mantequilla del upabh<i>ri</i>t. Kâty. III, 3, 9.
 

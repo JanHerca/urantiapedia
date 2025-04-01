@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>pág. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 La secuencia ordenada de los hexagramas [^297]
 
@@ -74,7 +74,7 @@ La regla para la relación entre marido y mujer es que sea duradera. Por lo tant
 
 49-55. Para cambiar la sustancia de las cosas, nada es igual al caldero; por lo tanto, a Kö le sigue Ting. Para presidir (ese y todos los demás) recipientes, nadie es igual al hijo mayor, por lo que a Ting le sigue <i>K</i>ăn. <i>K</i>ăn transmite la idea de poner en movimiento. Pero las cosas no pueden mantenerse en movimiento eternamente. El movimiento se detiene; por lo tanto, a <i>K</i>ăn le sigue Kăn, que da la idea de detener o detener. Las cosas no pueden mantenerse eternamente en un estado de represión, por lo que a Kăn le sigue <i>K</i>ien, que da la idea de
 
-<span id="p438">[<sup><small>pág. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 Avanzando (gradualmente). Con el avance se llega a cierto punto, y por eso, a Kien le sucede Kwei Mei. Cuando las cosas encuentran así el punto adecuado, sin duda alcanzarán la grandeza. Por eso, a Kwei Mei le sucede Făng, lo que transmite la idea de grandeza.
 
@@ -86,7 +86,7 @@ Avanzando (gradualmente). Con el avance se llega a cierto punto, y por eso, a Ki
 
 62-64. Quien supera a los demás sin duda remediará los males existentes, y por lo tanto, Hsiâo Kwo es sucedido por <i>K</i>î Žî. Pero la sucesión de acontecimientos no tiene fin, y por lo tanto, <i>K</i>î Žî es <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> sucedido por Wei Žî, con lo cual concluyen los hexagramas.
 
-<span id="p440">[<sup><small>pág. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 
 

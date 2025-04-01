@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 El Synedrion (συνέδριον), llamado en arameo Sanedrín, era la Corte Suprema de la nación judía. Es de gran interés, por haber sido el tribunal que rechazó deliberadamente la Mesianidad y la Deidad de nuestro Señor Jesucristo, una decisión a la que el pueblo judío se ha adherido hasta la actualidad. Como su nombre lo indica, era una especie de senado, establecido durante la ocupación griega de Palestina, que precedió al período macabeo, y no es, como creen los judíos, una continuación de los setenta ancianos nombrados por Moisés. Parece ser mencionado en 2 Mac. i. 10; iv. 44; xi. 27; bajo el nombre de Concilio (ἡ γερουσία). Para ser precisos, había tres Sanedrines: dos menores y uno mayor. Los dos más pequeños parecen haber servido como comités permanentes del cuerpo general. El presidente principal era llamado "Príncipe" y el vicepresidente "Padre de la Casa del Juicio". Cuando se mencionan sacerdotes, ancianos y escribas juntos, se hace referencia al Gran Sanedrín. Los rabinos dicen que para ser un miembro ordinario del Sanedrín, un hombre debía ser sabio, apuesto, aristocrático, anciano, mago y capaz de hablar setenta idiomas, para que el Sanedrín no necesitara un intérprete. Se dice que tuvo diez "revoloteos": de la cámara del templo a las tiendas del atrio exterior; de las tiendas del atrio exterior a Jerusalén; de Jerusalén a Jabne; de ​​Jabne a Osha; de Osha a Sefaraam; de Sefaraam a Betsaaraim; de Betsaaraim a Séforis; de Séforis a Tiberíades. Para completar el número diez, se dice que revoloteó dos veces entre Osha y Jabneh. Estos revoloteos comenzaron cuarenta años antes de la destrucción del Templo.
 
@@ -58,7 +58,7 @@ Simeón, hijo de Hillel, supuestamente fue quien tomó a nuestro Salvador en sus
 
 Gamaliel, hijo de Simeón (maestro de San Pablo). Al morir, el honor de la ley y la pureza también perecieron.
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Simeón, su hijo (muerto en Jerusalén).
 

@@ -44,7 +44,7 @@ Ar<i>g</i>una dijo:
 
 Pero ¿por quién, oh descendiente de V<i>ri</i>sh<i>n</i>i!, se ve al hombre impulsado, aunque no lo quiera y, por así decirlo, obligado por la fuerza, a cometer el pecado?
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 La Deidad dijo:
 
@@ -82,9 +82,9 @@ Es deseo, es ira [^177], nacida de la cualidad de la pasión; es muy voraz, muy 
 
 [^154]: 52:3 El estado de identificación de uno mismo con el Brahman, que resulta de un conocimiento correcto del Brahman.
 
-[^155]: 52:4 infra, [p. 66](Bhagavadgita_5#p66).
+[^155]: 52:4 infra, [p. 66](../Bhagavadgita_5#p66).
 
-[^156]: 52:5 supra, [p. 47](Bhagavadgita_2#p47).
+[^156]: 52:5 supra, [p. 47](../Bhagavadgita_2#p47).
 
 [^157]: 52:6 Es decir, según <i>Sankara</i>, la identificación de uno mismo con Brahman.
 
@@ -92,13 +92,13 @@ Es deseo, es ira [^177], nacida de la cualidad de la pasión; es muy voraz, muy 
 
 [^159]: 52:8 Es decir, no acompañado de conocimiento y pureza de corazón.
 
-[^160]: 53:1 Cfr. infra, págs. [122](Bhagavadgita_18#p122)\-[128](Bhagavadgita_18#p128).
+[^160]: 53:1 Cfr. infra, págs. [122](../Bhagavadgita_18#p122)\-[128](../Bhagavadgita_18#p128).
 
 [^161]: 53:2 Manos, pies, etc.
 
 [^162]: 53:3 Mediante la verdadera discriminación, mantener los sentidos alejados de los apegos a los objetos mundanos, que conducen al pecado y al mal.
 
-[^163]: 53:4 Cf. infra, págs. [60](Bhagavadgita_4#p60), [61](Bhagavadgita_4#p61). Probablemente los «sacrificios» mencionados en ese pasaje deben interpretarse como los mismos a los que se refiere el mandato del Creador mencionado en este pasaje.
+[^163]: 53:4 Cf. infra, págs. [60](../Bhagavadgita_4#p60), [61](../Bhagavadgita_4#p61). Probablemente los «sacrificios» mencionados en ese pasaje deben interpretarse como los mismos a los que se refiere el mandato del Creador mencionado en este pasaje.
 
 [^164]: 53:5 Cf. Maitrî-upanishad, pág. 143
 
@@ -110,9 +110,9 @@ Es deseo, es ira [^177], nacida de la cualidad de la pasión; es muy voraz, muy 
 
 [^168]: 54:4 <i>S</i>rîdhara dice que aquí se le dice a Ar<i>g</i>una que realice la acción, ya que la liberación de ella es sólo para el hombre de verdadero conocimiento, que Ar<i>g</i>una aún no es.
 
-[^169]: 54:5 Es decir, emancipación final; cf. [p. 59](Bhagavadgita_4#p59) infra, y Î<i>s</i>opanishad, p. 6.
+[^169]: 54:5 Es decir, emancipación final; cf. [p. 59](../Bhagavadgita_4#p59) infra, y Î<i>s</i>opanishad, p. 6.
 
-[^170]: 55:1 El principio activo es la naturaleza, el agregado de las tres cualidades; el alma es sólo el observador; cf. inter alia, [p. 104](Bhagavadgita_13#p104) infra.
+[^170]: 55:1 El principio activo es la naturaleza, el agregado de las tres cualidades; el alma es sólo el observador; cf. inter alia, [p. 104](../Bhagavadgita_13#p104) infra.
 
 [^171]: 55:2 Esci. la diferencia entre el alma y el conjunto de cualidades, a saber, el cuerpo, los sentidos, etc., y de las acciones de las que son autores.
 
@@ -128,16 +128,16 @@ Es deseo, es ira [^177], nacida de la cualidad de la pasión; es muy voraz, muy 
 
 [^177]: 56:4 Cf. Sutta Nipâta, p. 101, en cuanto a los 'gustos y disgustos'.
 
-[^178]: Vídeo 57:1 [p. 50](Bhagavadgita_2#p50) supra.
+[^178]: Vídeo 57:1 [p. 50](../Bhagavadgita_2#p50) supra.
 
-[^179]: 57:2 Es decir, el conocimiento, mencionado en la siguiente oración, para cuya construcción se pueden comparar [p. 71](Bhagavadgita_6#p71) y [p. 98](Bhagavadgita_11#p98).
+[^179]: 57:2 Es decir, el conocimiento, mencionado en la siguiente oración, para cuya construcción se pueden comparar [p. 71](../Bhagavadgita_6#p71) y [p. 98](../Bhagavadgita_11#p98).
 
 [^180]: 57:3 Que se vuelve más poderoso cuanto más se alimenta.
 
-[^181]: 57:4 La mente es la que reflexiona sobre las cosas como tales o tales; el entendimiento es el que finalmente determina (cf. Historia de la Filosofía de Lewes, II, 463-465). Estos y los sentidos son la «sede» del deseo, porque la percepción de un objeto por los sentidos, la reflexión sobre él por la mente y la determinación al respecto por el entendimiento son los preliminares para el despertar del deseo; supra, [p. 50](Bhagavadgita_2#p50).
+[^181]: 57:4 La mente es la que reflexiona sobre las cosas como tales o tales; el entendimiento es el que finalmente determina (cf. Historia de la Filosofía de Lewes, II, 463-465). Estos y los sentidos son la «sede» del deseo, porque la percepción de un objeto por los sentidos, la reflexión sobre él por la mente y la determinación al respecto por el entendimiento son los preliminares para el despertar del deseo; supra, [p. 50](../Bhagavadgita_2#p50).
 
 [^182]: 57:5 El conocimiento proviene de los libros o de los maestros, la experiencia es el resultado de la percepción personal.
 
-[^183]: 57:6 Kath opanishad, pág. 114; y véanse también las págs. [148](Sanatsugatiya_Intro#p148), [149](Sanatsugatiya_1#p149).
+[^183]: 57:6 Kath opanishad, pág. 114; y véanse también las págs. [148](../Sanatsugatiya_Intro#p148), [149](../Sanatsugatiya_1#p149).
 
 [^184]: 57:7 Es decir, el Ser supremo, como en el Kath opanishad.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Recientemente, al pasar por una callejuela habitada principalmente por comerciantes de antigüedades, vi un _furisodé_, o túnica de manga larga, de un intenso tono púrpura llamado _murasaki_, colgado frente a una de las tiendas. Era una túnica como la que podría haber usado una dama de rango en la época de los Tokugawa. Me detuve a observar sus cinco escudos; y en ese mismo instante recordé la leyenda de una túnica similar que, según se dice, causó la destrucción de Yedo.
 

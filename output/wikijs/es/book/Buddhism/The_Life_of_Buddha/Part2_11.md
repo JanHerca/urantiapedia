@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p151">[<sup><small>pág. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 
 CUANDO Vimbasara oyó que el Maestro iba a abandonar el bosque de bambú para ausentarse por algún tiempo, fue a verlo con su hijo, el príncipe Ajatasatru.
 
 El Maestro miró al joven príncipe; luego, volviéndose hacia el rey, dijo:
 
-“Que Ajatasatru sea digno de tu amor, oh rey”.
+«Que Ajatasatru sea digno de tu amor, oh rey».
 
 Volvió a mirar al príncipe y le dijo:
 
@@ -47,15 +47,15 @@ Ahora escucha bien, Ajatasatru, y reflexiona sobre mis palabras. La astucia no s
 
 Vimbasara agradeció al Maestro la valiosa lección que le había enseñado a su hijo. Luego dijo:
 
-“Bendito, tengo una petición que hacerte”.
+«Bendito, tengo una petición que hacerte».
 
-“Habla”, dijo el Buda.
+«Habla», dijo el Buda.
 
 Cuando te hayas ido, oh Bendito, no podré honrarte, no podré hacerte las ofrendas habituales, y me dolerá. Dame un mechón de tu cabello, dame los recortes de tus uñas; los colocaré en un templo en medio de mi palacio. Así, conservaré algo de ti, y cada día decoraré el templo con guirnaldas frescas y quemaré incienso excepcional.
 
 El Bendito le dio al rey estas cosas que había pedido, y dijo:
 
-“Toma mi cabello y toma estos recortes; guárdalos en un templo, pero, en tu mente, conserva lo que te he enseñado”.
+«Toma mi cabello y toma estos recortes; guárdalos en un templo, pero, en tu mente, conserva lo que te he enseñado».
 
 Y cuando Vimbasara regresó alegremente a su palacio, el Maestro partió hacia Kapilavastu.
 

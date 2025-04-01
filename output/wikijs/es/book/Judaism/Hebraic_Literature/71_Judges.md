@@ -97,7 +97,7 @@ _Yevamoth_, fol. 115, col. 1.
 
 _Kidushin_, fol. 40, col. 2.
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Incluso cuando se paga a un testigo, su testimonio no queda invalidado por ello.
 

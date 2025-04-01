@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p329">[<sup><small>pág. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 DECIMOQUINTA CONFERENCIA, LLAMADA LOS YAMAKAS [^961].
 
@@ -44,7 +44,7 @@ Sobre este o aquel (artículo del credo) tiene la opinión correcta; por eso se 
 
 No seas hostil hacia tus semejantes: esa es la Ley de quien es rico en control; quien es rico en control renuncia a todo, y en este (mundo medita en las) reflexiones sobre la vida [^962]. (4)
 
-<span id="p330">[<sup><small>pág. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Aquel cuya alma se purifica meditando en esas reflexiones es comparado a un barco en el agua; como un barco que llega a la orilla, se pone más allá de la miseria. (5)
 

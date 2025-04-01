@@ -42,7 +42,7 @@ Entonces Vidura, al enterarse de que los Pandavas habían conquistado a Draupadi
 
 Al escuchar estas palabras de Vidura, Dhritarashtra dijo: «Esos niños son tan queridos para mí como lo fueron para Pandu. Es más, ¡escúchame por qué mi afecto por ellos ahora es aún mayor! Los heroicos hijos de Pandu están bien y en paz. Han conseguido muchos amigos. Sus parientes, y otros a quienes han aliado, están dotados de gran fuerza. ¿A quién, entre los monarcas, en la prosperidad o en la adversidad, no le gustaría tener a Drupada y a sus parientes como aliados?».
 
-Vaisampayana continuó: «Tras escuchar estas palabras del monarca, Vidura dijo: “¡Oh, rey, que tu entendimiento permanezca inalterado durante cien años!”. Dicho esto, Vidura regresó a su morada. Entonces, ¡oh, monarca!, llegaron a Dhritarashtra Duryodhana y Karna, el hijo de Radha. Dirigiéndose al monarca, dijeron: «¡Oh, rey, no podemos hablar de ninguna transgresión en presencia de Vidura! ¡Te hemos encontrado solo y, por lo tanto, diremos todo lo que queramos! ¿Qué es lo que has deseado hacer, oh, monarca? ¿Acaso consideras la prosperidad de tus enemigos como si fuera la tuya, que has estado aplaudiendo a los Pandavas, oh, el más destacado de los hombres, en presencia de Vidura? ¡Oh, tú, el inmaculado, no actúas, oh, rey, como deberías! ¡Oh, padre, ahora debemos actuar cada día de tal manera que debilitemos (la fuerza de) los Pandavas». Ha llegado el momento, oh padre, de que reunamos fuerzas para que los Pandavas no nos traguen a todos, junto con nuestros hijos, amigos y parientes.'”
+Vaisampayana continuó: «Tras escuchar estas palabras del monarca, Vidura dijo: «¡Oh, rey, que tu entendimiento permanezca inalterado durante cien años!». Dicho esto, Vidura regresó a su morada. Entonces, ¡oh, monarca!, llegaron a Dhritarashtra Duryodhana y Karna, el hijo de Radha. Dirigiéndose al monarca, dijeron: «¡Oh, rey, no podemos hablar de ninguna transgresión en presencia de Vidura! ¡Te hemos encontrado solo y, por lo tanto, diremos todo lo que queramos! ¿Qué es lo que has deseado hacer, oh, monarca? ¿Acaso consideras la prosperidad de tus enemigos como si fuera la tuya, que has estado aplaudiendo a los Pandavas, oh, el más destacado de los hombres, en presencia de Vidura? ¡Oh, tú, el inmaculado, no actúas, oh, rey, como deberías! ¡Oh, padre, ahora debemos actuar cada día de tal manera que debilitemos (la fuerza de) los Pandavas». Ha llegado el momento, oh padre, de que reunamos fuerzas para que los Pandavas no nos traguen a todos, junto con nuestros hijos, amigos y parientes.'”
 
 
 ## SECCIÓN CCIII
@@ -53,7 +53,7 @@ Vaisampayana dijo: «Dhritarashtra respondió: «Deseo hacer exactamente lo que 
 Duryodhana dijo: «Oh, padre, con la ayuda de brahmanes de confianza, hábiles y diestros, busquemos sembrar disensiones entre los hijos de Kunti y Madri. O bien, que el rey Drupada, sus hijos y todos sus ministros de estado reciban abundantes regalos para que abandonen la causa de Yudhishthira, hijo de Kunti. O bien, que nuestros espías induzcan a los Pandavas a establecerse en los dominios de Drupada, explicándoles, por separado, los inconvenientes de residir en Hastinapura, para que, separados de ellos, puedan establecerse permanentemente en Panchala. O bien, que algunos espías astutos y adinerados, sembrando la discordia entre los Pandavas, los pongan celosos entre sí. O bien, que inciten a Krishna contra sus esposos. Ella tiene muchos señores y esto no presentará ninguna dificultad». O que algunos intenten que los Pandavas se sientan insatisfechos con Krishna, en cuyo caso Krishna también estará insatisfecho con ellos. O que, oh rey, algunos espías astutos, que se dirigen allí, planeen secretamente la muerte de Bhimasena. Bhima es el más fuerte de todos. Confiando solo en Bhima, los Pandavas solían ignorarnos, antaño. Bhima es fiero y valiente, y el (único) refugio de los Pandavas. Si él muere, los demás quedarán privados de fuerza y ​​energía. Privados de Bhima, su único refugio, ya no lucharán por recuperar su reino. Arjuna, oh rey, es invencible en batalla, si Bhima lo protege por la retaguardia. Sin Bhima, Arjuna no es igual ni a la cuarta parte de Radheya. De hecho, oh rey, los Pandavas, conscientes de su propia debilidad sin Bhima y de nuestra fuerza, no lucharían realmente por recuperar el reino. O, oh monarca, si al venir aquí se muestran dóciles y obedientes, entonces intentaremos reprimirlos según los dictados de la ciencia política (como explicó Kanika). O podemos tentarlos con muchachas hermosas, lo que irritará a la princesa de Panchala. O, oh Radheya, que se envíen mensajeros para traerlos aquí, para que, al llegar, podamos, mediante agentes de confianza, mediante alguno de los métodos mencionados, matarlos. Esfuérzate, oh padre, por emplear cualquiera de estos métodos que te parezcan intachables. El tiempo pasa. Antes de que confíen en el rey Drupada —ese toro entre reyes—, podemos lograr, oh monarca, enfrentarlos. Pero una vez que confíen en Drupada, seguro que fracasaremos. Estas, oh padre, son mis intenciones para la derrota de los Pandavas. Juzga si son buenas o malas. ¿Qué opinas, oh Karna?
 
 
-<span id="p399">[<sup><small>pág. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 ## SECCIÓN CCIV
 
@@ -62,7 +62,7 @@ Vaisampayana dijo: «Tras las palabras de Duryodhana, Karna respondió: «No me 
 
 Vaisampayana continuó: «Al oír estas palabras de Radheya, Dhritarashtra, dotado de gran fuerza, lo aplaudió efusivamente. El monarca se dirigió entonces a él y dijo: «Tú, oh hijo de un Suta, estás dotado de gran sabiduría y eres experto en armas. Por lo tanto, este discurso, que promueve la demostración de destreza, te conviene. Pero que Bhishma, Drona, Vidura y ustedes dos se reúnan y adopten la propuesta que pueda beneficiarnos».
 
-Vaisampayana continuó: “Entonces el rey Dhritarashtra convocó a todos aquellos ministros célebres y consultó con ellos”.
+Vaisampayana continuó: «Entonces el rey Dhritarashtra convocó a todos aquellos ministros célebres y consultó con ellos».
 
 
 ## SECCIÓN CCV
@@ -81,7 +81,7 @@ Vaisampayana continuó: «Después de que Drona cesó, Karna volvió a hablar: '
 Vaisampayana continuó: «Al oír estas palabras de Karna, Drona respondió: «Como eres malvado, es evidente que lo dices debido a la maldad de tus intenciones. Nos criticas por perjudicar a los Pandavas. Pero debes saber, oh Karna, que lo que he dicho es para el bien de todos y la prosperidad de la raza Kuru. Si consideras que todo esto produce mal, declara tú mismo lo que es para nuestro bien. Si no se sigue el buen consejo que te he dado, creo que los Kurus serán exterminados enseguida».
 
 
-<span id="p403">[<sup><small>pág. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 ## SECCIÓN CCVII
 
@@ -106,7 +106,7 @@ Vaisampayana dijo: «Al oír estas palabras de Vidura, Drupada dijo: «Es <span 
 
 Al oír esto, Yudhishthira dijo: «Ahora, oh monarca, dependemos de ti junto con todos nuestros hermanos menores. Haremos con gusto lo que nos pidas».
 
-Vaisampayana continuó: «Entonces Vasudeva dijo: “Soy de la opinión de que los Pandavas deberían irse. Pero todos debemos acatar la opinión del rey Drupada, quien es experto en todas las normas de moralidad”.
+Vaisampayana continuó: «Entonces Vasudeva dijo: «Soy de la opinión de que los Pandavas deberían irse. Pero todos debemos acatar la opinión del rey Drupada, quien es experto en todas las normas de moralidad».
 
 Drupada habló entonces: «Ciertamente coincido con lo que piensa este hombre ilustre, dadas las circunstancias. Pues los ilustres hijos de Pandu ahora son para mí lo que son, sin duda, para Vasudeva. El propio hijo de Kunti, Yudhishthira, no busca el bienestar de los Pandavas con tanto fervor como Kesava, ese tigre entre los hombres».
 

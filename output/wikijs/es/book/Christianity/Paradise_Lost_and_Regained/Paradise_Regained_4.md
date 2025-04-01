@@ -225,7 +225,7 @@ Como me los ofreces a mí, el Hijo de Dios—
 A mí lo mío, en tan aborrecido pacto,
 ¿Que me postre y te adore como a Dios?
 ¡Quítate de mi vista! Ahora pareces estar
-“Ese maligno, Satanás, sea condenado para siempre.”
+«Ese maligno, Satanás, sea condenado para siempre.»
 
 A lo cual el Demonio, avergonzado y asustado, respondió:
 “No te ofendas tanto, Hijo de Dios—
@@ -428,7 +428,7 @@ Un reino te presagian, pero ¿qué reino?
 Real o alegórico, no lo distingo;
 Ni cuándo: eterno seguro como sin fin,
 Sin principio; sin fecha prefijada
-“Me dirige en el conjunto Starry Rubric”.
+«Me dirige en el conjunto Starry Rubric».
 
 Diciendo esto, tomó (porque aún conocía su poder)
 Aún no vencido), y al desierto
@@ -678,7 +678,7 @@ Para que no les mande descender a lo profundo,
 Atados y enviados al tormento antes de tiempo.
 Salve, Hijo del Altísimo, heredero de ambos mundos,
 ¡Apaciguador de Satanás! Por tu gloriosa obra
-“Entra ahora y comienza a salvar a la Humanidad”.
+«Entra ahora y comienza a salvar a la Humanidad».
 
 Así el Hijo de Dios, nuestro Salvador manso,
 Cantado vencedor, y, refrescado por el banquete celestial,

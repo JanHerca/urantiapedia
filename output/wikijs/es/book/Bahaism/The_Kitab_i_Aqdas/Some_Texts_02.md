@@ -82,7 +82,7 @@ Que se ponga entonces de pie y diga:
 
 ¡Oh Señor de todo ser y Poseedor de todas las cosas visibles e invisibles! Tú percibes mis lágrimas y los suspiros que prorrumpo, y oyes mis gemidos, mis lamentos y el lamento de mi corazón.
 
-¡Poder! Mis transgresiones me han impedido acercarme a Ti; y mis pecados me han mantenido lejos de la corte de Tu santidad. Tu amor, oh mi Señor, me ha enriquecido, y la separación de Ti me ha destruido, y el alejamiento de Ti me ha consumido. Te suplico por Tus pisadas en este desierto, y por las palabras “Aquí estoy. Aquí estoy” que Tus elegidos han pronunciado en esta inmensidad, y por los alientos de Tu Revelación, y los suaves vientos del Amanecer de Tu Manifestación, que ordenes que pueda contemplar Tu belleza y observar todo lo que está en Tu Libro.
+¡Poder! Mis transgresiones me han impedido acercarme a Ti; y mis pecados me han mantenido lejos de la corte de Tu santidad. Tu amor, oh mi Señor, me ha enriquecido, y la separación de Ti me ha destruido, y el alejamiento de Ti me ha consumido. Te suplico por Tus pisadas en este desierto, y por las palabras «Aquí estoy. Aquí estoy» que Tus elegidos han pronunciado en esta inmensidad, y por los alientos de Tu Revelación, y los suaves vientos del Amanecer de Tu Manifestación, que ordenes que pueda contemplar Tu belleza y observar todo lo que está en Tu Libro.
 
 Que repita entonces el Nombre Más Grande tres veces, y se incline con las manos apoyadas sobre las rodillas y diga:
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 PARASKARA-GRI-HYA-SUTRA.
 =========================
@@ -80,7 +80,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 3.
 
@@ -136,7 +136,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 26\. Cuando (el invitado) ha bebido agua, (el anfitrión), sosteniendo un cuchillo de carnicero, le dice tres veces: "¡Una vaca!"
 
-27\. Él responde: «La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> ombligo de la inmortalidad. A quienes me entienden, les digo: “No maten a la vaca inocente, que es Aditi”. Mato mi pecado y el pecado de NN, si así lo desea.
+27\. Él responde: «La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> ombligo de la inmortalidad. A quienes me entienden, les digo: «No maten a la vaca inocente, que es Aditi». Mato mi pecado y el pecado de NN, si así lo desea.
 
 28\. Pero si decide soltarlo, debe decir: «Mi pecado y el de NN han sido exterminados. ¡Oh! ¡Suéltalo! ¡Que coma hierba!».
 
@@ -182,7 +182,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 «Soma te ha adquirido primero (como su esposa); después de él, el Gandharva te ha adquirido. Tu tercer esposo es Agni; el cuarto es tu esposo humano.»
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 «Soma te ha entregado al Gandharva; el Gandharva te ha entregado a Agni. Agni me ha dado riquezas e hijos, y además, esta esposa.»
 
@@ -232,7 +232,7 @@ Ven aquí, muéstranos un camino fácil. Danos una vida brillante e incorruptibl
 
 'Al dios Aryaman las muchachas han ofrecido sacrificios, a Agni; que él, el dios Aryaman, nos libere de aquí, y no del marido. ¡Svâhâ!
 
-'Esta mujer, mientras esparce granos, reza así: “Que mi esposo viva mucho tiempo; que mis relaciones sean prósperas”. ¡Svâhâ!
+'Esta mujer, mientras esparce granos, reza así: «Que mi esposo viva mucho tiempo; que mis relaciones sean prósperas». ¡Svâhâ!
 
 Arrojo estos granos al fuego: que te traiga prosperidad y me una a ti. Que Agni nos lo conceda. ¡NN! ¡Svâhâ!
 
@@ -295,7 +295,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 12\. [^714]. Porque está dicho: 'En las bodas y en los funerales entrará en la aldea;'
 
-13\. (Y) porque el <i>S</i>ruti dice: “Por lo tanto, en estas dos ocasiones la autoridad recae en la aldea”.
+13\. (Y) porque el <i>S</i>ruti dice: «Por lo tanto, en estas dos ocasiones la autoridad recae en la aldea».
 
 14\. Al maestro (que ayuda en las ceremonias de boda) le da un regalo opcional.
 
@@ -311,7 +311,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 «Firme eres; te veo, firme. ¡Firme sé conmigo, oh próspera!»
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 'A mí te ha dado Brihaspati; si obtienes descendencia a través de mí, tu esposo, vive conmigo cien otoños.'
 
@@ -516,7 +516,7 @@ Si lo desea; 'Que (el hijo) se vuelva valiente', recita sobre él (es decir, sob
 
 4\. (El nombre) de un Brâhma<i>n</i>a (debe terminar en)
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 _s_arman (por ejemplo, Vishnuarman), el de un Kshatriya en varman (por ejemplo, Lakshmîvarman), el de un Vaihnya en gupta (por ejemplo, Kandragupta).
 
@@ -544,7 +544,7 @@ _s_arman (por ejemplo, Vishnuarman), el de un Kshatriya en varman (por ejemplo, 
 
 
 
-<span id="p299">[<sup><small>pág. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## C<i>Y</i>IK 19.
 
@@ -624,7 +624,7 @@ Fin del Primer Kâ<i>nd</i>a.
 
 [^669]: 271:4 La comida _k<i>âtushprâ</i>s_ya se prepara, al momento de encender los fuegos <i>S</i>rauta, para los cuatro sacerdotes principales oficiantes de los sacrificios <i>S</i>rauta. Comp. <i>S</i>atapatha Brâhma<i>âtushprâ</i>a II, 1, 4. Las reglas correspondientes del Kâtyâyana respecto al Âdhâna de los fuegos <i>S</i>rauta se encuentran en IV, 7, 15, 16.
 
-[^670]: 271:5 Comp. las observaciones sobre este Sûtra, en la Introducción, págs. [265](Paraskara_Intro#p265) siguientes.
+[^670]: 271:5 Comp. las observaciones sobre este Sûtra, en la Introducción, págs. [265](../Paraskara_Intro#p265) siguientes.
 
 [^671]: 271:6 <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6, 1: 'Hay cinco grandes sacrificios que son grandes Sattras, a saber: el sacrificio a los seres vivos, el sacrificio a los hombres, el sacrificio a los Manes, el sacrificio a los dioses, el Brahmaya<i>nd</i>a.' Como las ceremonias G<i>n</i>hya se incluyen aquí bajo la categoría de mahâya<i>nd</i>âs o grandes sacrificios, requieren, según los maestros cuya opinión se expresa en el Sûtra 5, una forma del Agnyâdhâna (encendido del fuego sagrado) análoga al Agnyâdhâna del ritual <i>S</i>rauta, y que contiene, como ese Âdhâna, el acto del Ara<i>n</i>ipradâna o entrega de la leña (Sûtra 5).
 
@@ -750,7 +750,7 @@ Fin del Primer Kâ<i>nd</i>a.
 
 [^732]: 291:1 13, 1. He traducido según la lectura de un Mantra similar que se encuentra en el Atharva-veda (VIII, 2, 6), que sin duda es correcto, sahasvatî en lugar de sarasvatî.
 
-[^733]: 291:3 14, 3. Las palabras “como arriba” se refieren al cap. 13, 1.
+[^733]: 291:3 14, 3. Las palabras «como arriba» se refieren al cap. 13, 1.
 
 [^734]: 292:14\_4 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 20, 3.
 

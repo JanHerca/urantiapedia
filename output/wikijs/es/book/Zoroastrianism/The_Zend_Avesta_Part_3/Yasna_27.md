@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXVII. Preludio al recital principal del Ahuna-vairya"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ## YASNA XXVII. PRELUDIO AL RECITAL PRINCIPAL DEL AHUNA-VAIRYA.
 
@@ -96,4 +96,4 @@ dateCreated: 2025-2-12T13:0:42Z
 
 [^1189]: 281:4 O, 'el mejor'.
 
-[^1190]: 281:5 Sigue el YêNhê hâtãm. Para Y. XXVIII-XXXIV, véase el Gâtha Ahunavaiti arriba, págs. [2](Gathas_Introduction#p2)\-[194](Gathas_53#p194).
+[^1190]: 281:5 Sigue el YêNhê hâtãm. Para Y. XXVIII-XXXIV, véase el Gâtha Ahunavaiti arriba, págs. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).

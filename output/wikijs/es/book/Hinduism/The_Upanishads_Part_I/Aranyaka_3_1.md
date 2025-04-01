@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>pág. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 TERCER ÂRA<i>N</i>YAKA [^619].
 
@@ -46,17 +46,17 @@ PRIMER ADHYÂYA.
 
 3\. Ese aire no se considera [^622] independiente [^623], por lo tanto no estoy de acuerdo con su hijo (el de Mandûka).
 
-4\. En verdad, ambos son lo mismo; por lo tanto, el aire se considera <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> independiente, dice Âgastya. Pues es lo mismo, ya sea que digan aire o éter [1](Aranyaka_3_1#fn624).
+4\. En verdad, ambos son lo mismo; por lo tanto, el aire se considera <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> independiente, dice Âgastya. Pues es lo mismo, ya sea que digan aire o éter [1](../Aranyaka_3_1#fn624).
 
 5\. Hasta aquí con referencia a las deidades (mitológicamente); ahora con referencia al cuerpo (fisiológicamente):
 
-6\. La primera mitad es el habla, la segunda mitad es la mente, su unión es el aliento (prâ<i>n</i>a), así dice <i>S</i>ûravîra [2](Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
+6\. La primera mitad es el habla, la segunda mitad es la mente, su unión es el aliento (prâ<i>n</i>a), así dice <i>S</i>ûravîra [2](../Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
 
-7\. Pero su hijo mayor dijo: La primera mitad es mente, la segunda mitad habla. Pues primero concebimos con la mente [3](Aranyaka_3_1#fn626), y luego expresamos con el habla. Por lo tanto, la primera mitad es mente, la segunda mitad habla, pero su unión es en realidad aliento.
+7\. Pero su hijo mayor dijo: La primera mitad es mente, la segunda mitad habla. Pues primero concebimos con la mente [3](../Aranyaka_3_1#fn626), y luego expresamos con el habla. Por lo tanto, la primera mitad es mente, la segunda mitad habla, pero su unión es en realidad aliento.
 
-8\. En verdad, lo mismo ocurre con ambos, con el padre (Mâ<i>n</i><i>d</i>ukeya) y con el hijo [4](Aranyaka_3_1#fn627).
+8\. En verdad, lo mismo ocurre con ambos, con el padre (Mâ<i>n</i><i>d</i>ukeya) y con el hijo [4](../Aranyaka_3_1#fn627).
 
-9\. Esta (meditación como aquí se describe), unida [5](Aranyaka_3_1#fn628) con la mente, el habla y la respiración, es (como) un carro tirado por dos caballos y un caballo entre ellos (prash<i>t</i>ivâhana).
+9\. Esta (meditación como aquí se describe), unida [5](../Aranyaka_3_1#fn628) con la mente, el habla y la respiración, es (como) un carro tirado por dos caballos y un caballo entre ellos (prash<i>t</i>ivâhana).
 
 10\. Y quien así conoce esta unión, se une a la descendencia, el ganado, la fama, la gloria de su rostro y el mundo de Svarga. Vive su madurez.
 
@@ -96,7 +96,7 @@ PRIMER ADHYÂYA.
 
 Si otro hombre reprende a quien dice el Prat<i>ri</i><i>n</i><i>n</i>a, que le diga: "Has ofendido al cielo, la deidad; el cielo, la deidad, te golpeará".
 
-Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “Has ofendido al cielo, la deidad; el cielo, la deidad, te golpeará”.
+Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: «Has ofendido al cielo, la deidad; el cielo, la deidad, te golpeará».
 
 7\. Y cualquier cosa que el recitador diga a quien le habla o no le habla, ten por seguro que sucederá.
 
@@ -106,7 +106,7 @@ Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “H
 
 10\. Ni siquiera con excesiva riqueza se debe maldecir a un brahmán, sino que se debe decir: «Me inclino ante los brahmanes», así dice <i>S</i>ûravîra Mâ<i>n</i><i>d</i>ûkeya.
 
-<span id="p252">[<sup><small>pág. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
@@ -120,7 +120,7 @@ Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “H
 
 5\. Y cualquier cosa que el recitador diga a quien le habla o no, ten por seguro que sucederá. Pero a un brahmán no le diga nada que no sea auspicioso. Solo puede maldecir a un brahmán por su excesiva riqueza. Ni siquiera por su excesiva riqueza debe maldecir a un brahmán, sino que debe decir: «Me inclino ante los brahmanes», así dice Sûravîra Mândûkeya.
 
-<span id="p253">[<sup><small>pág. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## QUINTO KHAND.
 
@@ -130,7 +130,7 @@ Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “H
 
 3\. Quien así conoce esta Samhitâ (unión), se une a la descendencia, el ganado, la fama, la gloria de su rostro y el mundo de Svarga. Alcanza la madurez.
 
-4\. Ahora Hrasva Mâ<i>n</i><i>d</i>ûkeya dice: 'Nosotros, los recitadores del Nirbhuga, decimos: “Sí, la primera mitad es la primera sílaba, y la segunda mitad la segunda sílaba, pero el Sa<i>m</i>hitâ es el espacio entre la primera y la segunda mitad en la medida en que mediante él se logra la unión (sandhi), y se sabe qué es el acento y qué no lo es [^645], y se distingue qué es la mora y qué no lo es.”'
+4\. Ahora Hrasva Mâ<i>n</i><i>d</i>ûkeya dice: 'Nosotros, los recitadores del Nirbhuga, decimos: «Sí, la primera mitad es la primera sílaba, y la segunda mitad la segunda sílaba, pero el Sa<i>m</i>hitâ es el espacio entre la primera y la segunda mitad en la medida en que mediante él se logra la unión (sandhi), y se sabe qué es el acento y qué no lo es [^645], y se distingue qué es la mora y qué no lo es.»'
 
 5\. Quien así conoce esta Samhitâ (unión), se une a la descendencia, el ganado, la fama, la gloria de su rostro y el mundo de Svarga. Alcanza la madurez.
 

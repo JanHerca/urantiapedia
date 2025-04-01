@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 ‏סדר נשים‎
 

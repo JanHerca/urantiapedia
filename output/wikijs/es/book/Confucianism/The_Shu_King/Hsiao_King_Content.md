@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p465">[<sup><small>pág. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 <a id="c1"></a>
 
@@ -58,7 +58,7 @@ Se dice en (El Marqués de) Fû sobre los castigos [^639],
 
 Superiores a los demás, y sin embargo libres de orgullo, habitan en las alturas, sin peligro; apegados a la economía y observantes escrupulosos de las normas y leyes, se sienten plenos, sin desbordarse. Habitar en las alturas sin peligro es el camino largo para preservar la nobleza; estar plenos sin desbordarse es el camino largo para preservar las riquezas. Cuando sus riquezas y nobleza no los abandonan, pueden preservar los altares de su tierra y su grano, y asegurar la armonía de su pueblo y de los hombres en el poder [^640]: esta es la piedad filial de los príncipes de los estados.
 
-<span id="p469">[<sup><small>pág. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 Se dice en el Libro de Poesía [^641],
 
@@ -108,11 +108,11 @@ Por eso, desde el Hijo del Cielo hasta el pueblo común, nunca ha habido nadie c
 
 El discípulo Ȝăng dijo: «¡Inmensa es, en verdad, la grandeza de la piedad filial!». El Maestro respondió [^650]:
 
-<span id="p473">[<sup><small>pág. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 Sí, la piedad filial es el método constante del Cielo, la rectitud de la Tierra y el deber práctico del Hombre [^651]. El Cielo y la tierra invariablemente siguen el curso así descrito, y el pueblo lo toma como modelo. Los antiguos reyes imitaron a las brillantes luminarias del cielo y actuaron conforme a las diversas ventajas que ofrecía la tierra, de modo que estaban en armonía con todo lo que existía bajo el cielo; y, en consecuencia, sus enseñanzas, sin ser severas, tuvieron éxito, y su gobierno, sin ser riguroso, aseguró un orden perfecto.
 
-<span id="p474">[<sup><small>pág. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 'Los antiguos reyes, viendo cómo sus enseñanzas [^652] podían transformar al pueblo, pusieron ante ellos un ejemplo del más extenso amor, y ninguno de ellos descuidó a sus padres; les expusieron (la naturaleza de) la virtud y la rectitud, y el pueblo se animó a practicarlas; fueron ante ellos con reverencia y cortesía indulgente, y el pueblo no tuvo contenciones; los guiaron por las reglas de la propiedad y por la música, y el pueblo fue armonioso y benigno; les mostraron lo que amaban y lo que no les gustaba, y el pueblo comprendió sus prohibiciones.
 
@@ -127,7 +127,7 @@ Sí, la piedad filial es el método constante del Cielo, la rectitud de la Tierr
 
 El Maestro dijo: «Antiguamente, cuando los reyes inteligentes, por medio de la piedad filial, gobernaban todo bajo el cielo, no se atrevían a recibir con desprecio a los ministros de los pequeños estados; ¡cuánto menos lo harían con los duques, marqueses, condes y barones!». Así fue como consiguieron que los príncipes de los innumerables estados, con corazones alegres, los asistieran en los servicios sacrificiales a sus predecesores reales [^654].
 
-<span id="p475">[<sup><small>pág. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 Los gobernantes de los estados no se atrevieron a menospreciar a los hombres sin esposa ni a las viudas; ¡cuánto menos a sus funcionarios y al pueblo! Así fue como lograron que todo su pueblo, con un corazón alegre, los ayudara a servir a los gobernantes, sus predecesores [^655].
 
@@ -140,7 +140,7 @@ En tal estado de cosas, mientras vivían, los padres descansaban en la gloria de
 “A una conducta recta y virtuosa
 "Todos en los cuatro puntos cardinales del estado rinden obediente homenaje."
 
-<span id="p476">[<sup><small>pág. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 <a id="c9"></a>
 
@@ -150,7 +150,7 @@ En tal estado de cosas, mientras vivían, los padres descansaban en la gloria de
 
 El discípulo Ȝăng dijo: «Me atrevo a preguntar si en la virtud de los sabios no había algo mayor que la piedad filial». El Maestro respondió: «De todas las criaturas (con sus diferentes) naturalezas producidas por el Cielo y la Tierra, el hombre es el más noble. De todas las acciones del hombre, ninguna es mayor que la piedad filial. En la piedad filial no hay nada mayor que el respeto reverencial al padre. En el respeto reverencial mostrado al padre no hay nada mayor que hacerlo correlativo del Cielo [^659]. El duque de Kâu fue el hombre que (primero) hizo esto [^660].
 
-<span id="p477">[<sup><small>pág. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
 Antiguamente, el duque de Kâu, en el altar fronterizo, ofrecía sacrificios a Hâu-kî como correlato del Cielo, y en el Salón Brillante honraba al rey Wăn, ofreciéndole sacrificios como correlato de Dios [^661]. La consecuencia fue que, desde todos los estados dentro de los cuatro mares, todos los príncipes acudían en cumplimiento de su deber para asistir en esos sacrificios. En la virtud de los sabios, ¿qué había mayor que la piedad filial?
 
@@ -158,7 +158,7 @@ Ahora el afecto crece en el seno de los padres, y a medida que se ejerce el debe
 
 La relación y los deberes entre padre e hijo, pertenecientes así a la naturaleza divina, contienen el principio de la rectitud entre gobernante y súbdito [^662]. El hijo recibe su vida de sus padres, y no podría transmitirse mayor don; gobernante y padre son uno solo, y su padre lo trata en consecuencia, y ninguna generosidad podría ser mayor. Por lo tanto, quien no ama a sus padres, pero ama a los demás, se le llama rebelde contra la virtud; y quien no venera a sus padres, pero venera a los demás, se le llama rebelde contra el decoro. Cuando el gobernante actúa así en contra de los principios que deberían ponerlo en armonía con todos, no ofrece nada que el pueblo pueda imitar. No tiene nada que ver con el bien, sino solo con lo que perjudica la virtud. Aunque pueda obtener su voluntad y estar por encima de los demás, el hombre superior no le da su aprobación.
 
-<span id="p480">[<sup><small>pág. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 No sucede así con el hombre superior. Habla, habiendo considerado si sus palabras deben ser pronunciadas; actúa, habiendo considerado si sus acciones serán placenteras. Su virtud y rectitud son tales que serán honradas; lo que inicia y hace es digno de imitación; su comportamiento es digno de contemplación; sus movimientos, al avanzar o retirarse, se ajustan a la regla correcta. De esta manera se presenta al pueblo, que lo venera y lo ama, lo imita y se asemeja a él. Así, logra que su enseñanza de la virtud tenga éxito, y que su gobierno y sus órdenes se lleven a cabo [^663].
 
@@ -173,7 +173,7 @@ No sucede así con el hombre superior. Habla, habiendo considerado si sus palabr
 
 El Maestro dijo: «El servicio que un hijo filial presta a sus padres es el siguiente: en su conducta general, les muestra la máxima reverencia; al cuidar de ellos, se esfuerza por brindarles el máximo placer; cuando están enfermos, siente la mayor ansiedad; al llorarlos (por sus muertos), muestra toda clase de dolor; al ofrecerles sacrificios, muestra la mayor solemnidad. Cuando un hijo cumple con estas cinco cualidades, puede ser declarado capaz de servir a sus padres».
 
-<span id="p481">[<sup><small>pág. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 Quien sirve así a sus padres, en una posición elevada, estará libre de orgullo; en una posición inferior, estará libre de insubordinación; y entre sus iguales, no será pendenciero. En una posición elevada, el orgullo lleva a la ruina; en una posición inferior, la insubordinación lleva al castigo; entre iguales, la pendenciera lleva al uso de armas.
 
@@ -201,7 +201,7 @@ Las Reglas de Decencia son simplemente el desarrollo del principio de Reverencia
 
 El Maestro dijo: «La enseñanza de la piedad filial por parte del hombre superior [^668] no exige que visite a cada familia y vea diariamente a los miembros de cada una. Su enseñanza de la piedad filial es un tributo de reverencia a todos los padres bajo el cielo; su enseñanza de la sumisión fraternal es un tributo de reverencia a todos los hermanos mayores bajo el cielo; su enseñanza del deber de un súbdito es un tributo de reverencia a todos los gobernantes bajo el cielo».
 
-<span id="p483">[<sup><small>pág. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 'Se dice en el Libro de Poesía [^669],
 
@@ -255,7 +255,7 @@ Y nunca lo olvidaré."
 
 
 
-<span id="p487">[<sup><small>pág. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 <a id="c18"></a>
 
@@ -271,9 +271,9 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 
 ---
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -298,7 +298,7 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 
 ## Notas al pie
 
-[^651]: 465:1 Kung-nî era la designación o nombre de matrimonio de Confucio. Lo encontramos dos veces en la Doctrina del Medio (caps. 2 y 30), aplicado al sabio por Ȝze-sze, su nieto, el supuesto autor de dicho tratado. Se dice que, con su designación, un nieto podría referirse a su abuelo, y por lo tanto, algunos eruditos sostienen que el Clásico de la Piedad Filial también debería atribuirse a Ȝze-sze; pero tal canon no puede considerarse suficientemente establecido. Sobre la autoría del Clásico, véase la Introducción, [p. 451](Hsiao_King_Intro_1#p451).
+[^651]: 465:1 Kung-nî era la designación o nombre de matrimonio de Confucio. Lo encontramos dos veces en la Doctrina del Medio (caps. 2 y 30), aplicado al sabio por Ȝze-sze, su nieto, el supuesto autor de dicho tratado. Se dice que, con su designación, un nieto podría referirse a su abuelo, y por lo tanto, algunos eruditos sostienen que el Clásico de la Piedad Filial también debería atribuirse a Ȝze-sze; pero tal canon no puede considerarse suficientemente establecido. Sobre la autoría del Clásico, véase la Introducción, [p. 451](../Hsiao_King_Intro_1#p451).
 
 [^652]: 465:2 Ȝăng-ȝze, llamado Shăn y conocido como Ȝze-yü, fue uno de los discípulos más distinguidos de Confucio. Era uno de los favoritos del sabio y un escritor prolífico. Se relatan numerosos incidentes y dichos que ilustran su piedad filial, por lo que era natural que el maestro abordara con él esta virtud. Comparte el honor y la adoración que aún se rinden a Confucio y es uno de sus «Cuatro Asesores» en sus templos.
 
@@ -314,7 +314,7 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 
 [^658]: 468:2 El apelativo «Hijo del Cielo» para el soberano era desconocido en los primeros tiempos de la nación china. No se puede rastrear más allá de la dinastía Shang.
 
-[^659]: 468:3 Véase el Shû, V, xxvii, 4, y la nota sobre el nombre de ese Libro, [p. 254](Shu_King_Part5_27#p254).
+[^659]: 468:3 Véase el Shû, V, xxvii, 4, y la nota sobre el nombre de ese Libro, [p. 254](../Shu_King_Part5_27#p254).
 
 [^660]: 468:4 En el Repositorio Chino encontramos lo siguiente: «Podrán proteger sus posesiones ancestrales con el producto de sus tierras»; «¡Asegurarán el rango supremo a sus familias!». Pero es mejor conservar el estilo original. El rey tenía un gran altar dedicado al espíritu (o espíritus) que presidía la tierra. El color de la tierra en el centro era amarillo; el de cada uno de sus cuatro lados difería según los colores asignados a los cuatro puntos cardinales del cielo. Una porción de esta tierra se cortaba y formaba el núcleo de un altar correspondiente en cada estado feudal, según su posición relativa a la capital. El príncipe del estado tenía la prerrogativa de sacrificar allí. Una regla similar prevalecía para los altares dedicados a los espíritus que presidían el grano. Mientras una familia gobernaba un estado, su jefe ofrecía esos sacrificios; y la extinción de los sacrificios era una forma enfática de describir la ruina y extinción de la Casa gobernante.
 
@@ -356,7 +356,7 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 
 [^678]: 476:1 'Los sabios' aquí debe significar los 'soberanos sabios de la antigüedad', quienes tenían a la vez la sabiduría más alta y el lugar más alto.
 
-[^679]: 476:2 Véase una nota en la [pág. 99](Shu_King_Part4_5#p99) sobre el significado de la frase «el compañero de Dios», que es la misma que en este capítulo, traducida como «el correlato de Dios». P. Cibot profundiza en una discusión de la idea transmitida por el carácter chino P'ei, pero sin llegar a ninguna conclusión definitiva; y de hecho Tâi Thung, autor del diccionario Liû Shû Kû, dice que «su significado original ha desconcertado a la investigación, mientras que su uso clásico es en el sentido de «compañero», «compañero»». El significado aquí es el segundo que se le asigna en la [pág. 99](Shu_King_Part4_5#p99). En el Repositorio Chino encontramos: «Como muestra de reverencia, no hay nada más importante que colocar al padre en igualdad con el cielo». Lo cual no es en absoluto la idea, mientras que el autor distorsiona aún más el significado con la siguiente nota: «T'ien, «Cielo», y Shang Tî, el «Gobernante Supremo», parecen ser perfectamente sinónimos; y sean cuales sean las ideas que los chinos les atribuyan, es evidente que el noble señor de Kâu consideraba a sus antepasados, inmediatos y remotos, como sus iguales, y les rendía a unos el mismo homenaje que a los otros. Al elevar así a los mortales a la igualdad con el Gobernante Supremo, es apoyado y aprobado por Confucio, y ha sido imitado por miríadas de cada generación de sus compatriotas hasta la actualidad».
+[^679]: 476:2 Véase una nota en la [pág. 99](../Shu_King_Part4_5#p99) sobre el significado de la frase «el compañero de Dios», que es la misma que en este capítulo, traducida como «el correlato de Dios». P. Cibot profundiza en una discusión de la idea transmitida por el carácter chino P'ei, pero sin llegar a ninguna conclusión definitiva; y de hecho Tâi Thung, autor del diccionario Liû Shû Kû, dice que «su significado original ha desconcertado a la investigación, mientras que su uso clásico es en el sentido de «compañero», «compañero»». El significado aquí es el segundo que se le asigna en la [pág. 99](../Shu_King_Part4_5#p99). En el Repositorio Chino encontramos: «Como muestra de reverencia, no hay nada más importante que colocar al padre en igualdad con el cielo». Lo cual no es en absoluto la idea, mientras que el autor distorsiona aún más el significado con la siguiente nota: «T'ien, «Cielo», y Shang Tî, el «Gobernante Supremo», parecen ser perfectamente sinónimos; y sean cuales sean las ideas que los chinos les atribuyan, es evidente que el noble señor de Kâu consideraba a sus antepasados, inmediatos y remotos, como sus iguales, y les rendía a unos el mismo homenaje que a los otros. Al elevar así a los mortales a la igualdad con el Gobernante Supremo, es apoyado y aprobado por Confucio, y ha sido imitado por miríadas de cada generación de sus compatriotas hasta la actualidad».
 
 [^680]: 476:3 Es difícil determinar en qué consistió la innovación del duque de Kâu (pág. 477). Los editores de la Explicación extensa del Hsiâo afirman: «Según los comentaristas de nuestro clásico, Shun, pensando solo en la virtud de su antepasado, no le ofreció sacrificios en el altar de la frontera. Los soberanos de Hsiâ y Yin fueron los primeros en sacrificar allí a sus antepasados; pero no contaban con la ceremonia de sacrificar a sus padres como correlatos del Cielo. Esto comenzó con el duque de Kâu». Los editores discrepan ante esta explicación del texto y consideran que el sustantivo «padre» en la oración anterior debería tomarse, en el caso del duque de Kâu, tanto de Hâu-_k_î como del rey Wăn.
 
@@ -390,7 +390,7 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 
 [^685]: 481:1 Compárese con esto las Analectas confucianas, II, vii.
 
-[^686]: 481:2 Véase el Shû, [p. 43](Shu_King_Part2_1#p43), y especialmente pp. [255](Shu_King_Part5_27#p255), [256](Shu_King_Part5_27#p256).
+[^686]: 481:2 Véase el Shû, [p. 43](../Shu_King_Part2_1#p43), y especialmente pp. [255](../Shu_King_Part5_27#p255), [256](../Shu_King_Part5_27#p256).
 
 [^687]: 482:1 Debemos entender que la «reverencia» aquí debe entenderse como la que muestra el soberano. Al reverenciar a su padre (o a un tío, que en el lenguaje chino también puede llamarse así), reverencia la idea de la paternidad, y al estar «en consonancia con la mente de todos los hombres bajo el cielo», su ejemplo es universalmente poderoso. Y podemos razonar de manera similar respecto a los otros dos casos de reverencia mencionados.
 
@@ -405,9 +405,9 @@ Los servicios de amor y reverencia a los padres en vida, y los de dolor y triste
 [^692]: 484:3 Este capítulo es tan difícil de comprender como el séptimo, que trató sobre la Piedad Filial en Relación con los Tres Poderes. De hecho, es una continuación de aquel. El Cielo y la Tierra aparecen como dos Poderes, o como un Poder dual (p. 485), que ocupa el lugar del Cielo o de Dios. Podemos, hasta cierto punto, seguir el tratado al transferir la reverencia que un hijo profesa a su padre a la lealtad que este muestra a su gobernante; pero es más difícil comprender el desarrollo de la piedad filial en la religión que aquí se asume y describe. ¿No fue la excesiva presión sobre esta virtud, el exagerarla, lo que tendió a depravar la religión durante la dinastía Kâu y a mezclarla con el monoteísmo anterior con una forma de adoración a la naturaleza?
   Hsing Ping, en su 'Significado correcto', hace que la 'discriminación' sea aquí 'una capacidad para distinguir las ventajas de la tierra', mostrando así que tenía en mente los capítulos sexto y séptimo.
 
-[^693]: 485:1 «Las Inteligencias Espirituales» se refieren aquí al Cielo y la Tierra, concebidos como Seres Espirituales. Respondieron al servicio sincero de los reyes inteligentes, como dice Hsing Ping, con «la armonía de los principios activos y pasivos de la naturaleza, vientos y lluvias adecuados, la ausencia de epidemias y plagas, y el reposo de todo lo que existe bajo el cielo». Compárese con esto lo que se dice en «El Gran Plan» del Shû, págs. [147](Shu_King_Part5_4#p147), [148](Shu_King_Part5_4#p148).
+[^693]: 485:1 «Las Inteligencias Espirituales» se refieren aquí al Cielo y la Tierra, concebidos como Seres Espirituales. Respondieron al servicio sincero de los reyes inteligentes, como dice Hsing Ping, con «la armonía de los principios activos y pasivos de la naturaleza, vientos y lluvias adecuados, la ausencia de epidemias y plagas, y el reposo de todo lo que existe bajo el cielo». Compárese con esto lo que se dice en «El Gran Plan» del Shû, págs. [147](../Shu_King_Part5_4#p147), [148](../Shu_King_Part5_4#p148).
 
-[^694]: 486:1 El lector habrá notado muchos ejemplos de esto, o lo que se pretendía que fueran ejemplos de ello, en las traducciones del Shih, págs. [365](Shih_King_Part2_4#p365)\-368, etc.
+[^694]: 486:1 El lector habrá notado muchos ejemplos de esto, o lo que se pretendía que fueran ejemplos de ello, en las traducciones del Shih, págs. [365](../Shih_King_Part2_4#p365)\-368, etc.
 
 [^695]: 486:2 Véase Shih, III, i, oda 10, estrofa 6.
 

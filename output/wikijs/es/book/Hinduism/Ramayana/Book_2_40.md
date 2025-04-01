@@ -148,7 +148,7 @@ Trae contigo a la bella Videha,
 Con celestiales abrigos de malla a prueba de espadas,
 Aljabas, cuyas flechas nunca fallan,
 
-<span id="p132">[<sup><small>pág. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Y espadas con empuñaduras de oro tan afiladas,
 Los rivales del sol en brillo.
@@ -266,7 +266,7 @@ Cuyas alabanzas incluso los buenos declaran—
 En estos se entregaron ochenta coches,
 Y cada uno cargado con preciosos tesoros.
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Mil toros les bastan,
 Doscientos elefantes de precio,
@@ -388,7 +388,7 @@ Aunque ha conocido las dulzuras del poder,
 Y derramó sus dones en lluvia generosa,
 No se desviará del camino del deber,
 
-<span id="p134">[<sup><small>pág. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Pero aún así la verdad de su padre se preserva.
 Y ella cuya forma tan suave y hermosa
@@ -514,7 +514,7 @@ La ley profunda como la profundidad del océano,
 Y tan inmaculado como el cielo azul oscuro,
 Así le respondió Sumantra:
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 —Ve entonces, Sumantra, ve y llama.
 Mis esposas y damas todas y cada una.
@@ -646,7 +646,7 @@ A todo aquello que la riqueza puede ministrar.
 Sobre esta hermosa tierra, que ya no es mía,
 A la cual yo, con todos sus reinos, renuncio,
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Sus multitudes de hombres, su grano,
 Que Bharat reine por sus reservas de riqueza.
@@ -770,7 +770,7 @@ Y deseó perecer por la cuerda,
 Dijo a su marido: "Quisiera saberlo,
 Oh Monarca, ¿por qué te ríes así?
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 El rey respondió de nuevo:
 "Si yo explicara esta risa,
@@ -886,7 +886,7 @@ De donde huyen la espuma ligera y la vida.
 Así, en su furia, la dama de ojos largos
 Pronunció su terrible discurso sin sentirse afectado por la vergüenza.
 
-<span id="p138">[<sup><small>pág. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Entonces, respondiendo, Das'aratha habló:
 '¿Por qué? Habiéndome doblegado al yugo.
@@ -995,7 +995,7 @@ Ese león líder de los valientes
 Tomó de su mano el vestido que ella le dio,
 Echó sus finos vestidos al suelo,
 
-<span id="p139">[<sup><small>pág. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 Y alrededor de su cintura se ciñó la vestidura.
 Entonces, rápidamente, el héroe Lakshman también.
@@ -1117,7 +1117,7 @@ Con vestimentas de devoto.
 Mi santo guía ha dicho la verdad:
 Ella no es apta en su tierna juventud,
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 Tan suavemente nutrido, suave y hermoso,
 Las penurias de la madera para compartir.
@@ -1242,7 +1242,7 @@ Los caballos y el coche de estado.
 Luego se dirigió rápidamente al hijo del monarca,
 Y levantando las manos en reverencia dijo:
 
-<span id="p141">[<sup><small>pág. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 Que el carro ligero que el oro hizo hermoso,
 Con el mejor de los corceles, estaba allí de pie.
@@ -1366,7 +1366,7 @@ Eso contó las desgracias de las damas.
 Entonces Ráma, Sítá y Lakshman se inclinaron
 A los pies del rey, y tristemente se fue.
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Lo rodean con pasos lentos y reverentes.
 Cuando Ráma del corazón obediente
@@ -1491,7 +1491,7 @@ Sumantra, instado a alejarse rápidamente,
 El llamado de los ciudadanos debe desobedecer,
 Adelante, mientras el héroe de brazos largos avanzaba,
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 El polvo que levantan las ruedas de su carro
 Fue colocada junto a arroyos que siempre fluyeron
@@ -1561,7 +1561,7 @@ Verías que regresar a casa es en vano.
 Con miembros debilitados y rostro decaído
 Él escuchó su sabio consejo:
 Aún sobre su hijo el rey y la reina
-Mantuvieron fija su mirada fija. [1](Libro_2_50#fn314)
+Mantuvieron fija su mirada fija. [1](../Libro_2_50#fn314)
 
 <figure class="table chapter-navigator">
   <table>

@@ -48,7 +48,7 @@ Al cumplir sus meses, su primogénito nació como un cordero. Sin rupturas ni de
 
 Lo colocaron en un sendero estrecho, pero las ovejas y los bueyes lo protegieron con cariño [^535]. Lo colocaron en un amplio bosque, donde lo encontraron los leñadores. Lo colocaron sobre el hielo frío, y un pájaro lo protegió y lo sostuvo con sus alas. Cuando el pájaro se alejó, Hâu-_k_î comenzó a gemir. Su grito fue largo y fuerte, tanto que su voz resonó por todo el camino [^535].
 
-<span id="p398">[<sup><small>pág. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Cuando pudo gatear, lucía majestuoso e inteligente. Cuando pudo alimentarse solo, se dedicó a sembrar frijoles. Los frijoles crecieron exuberantes; sus hileras de arroz brotaron hermosamente; su cáñamo y trigo crecieron fuertes y densos; sus calabazas rindieron abundantemente.
 
@@ -104,7 +104,7 @@ Nos has hecho beber hasta saciarnos de tu espíritu; tus viandas fueron presenta
 
 UNA ODA APROPIADA A LA FIESTA QUE SE DABA A LOS PERSONADORES DE LOS DIFUNTOS, AL DÍA SIGUIENTE DEL SACRIFICIO EN EL TEMPLO ANCESTRAL.
 
-Este sacrificio suplementario que se realizaba el día después del servicio principal en el templo apareció en el noveno Libro de la cuarta Parte del Shû; y del banquete que se celebraba después de éste para los personificadores de los muertos he hablado en [p. 301](Shih_King_Part1_Intro#p301).
+Este sacrificio suplementario que se realizaba el día después del servicio principal en el templo apareció en el noveno Libro de la cuarta Parte del Shû; y del banquete que se celebraba después de éste para los personificadores de los muertos he hablado en [p. 301](../Shih_King_Part1_Intro#p301).
 
 Los patos salvajes y los silbones están en el <i>Rey</i> [^546]; <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> Los personificadores de tus antepasados ​​festejan y están felices. Tus espíritus están limpios; tus viandas son fragantes. Los personificadores de tus antepasados ​​festejan y beben; su felicidad y dignidad son completas.
 
@@ -116,7 +116,7 @@ Los patos salvajes y los silbones se encuentran donde las aguas se encuentran; l
 
 Los patos salvajes y los silbones están en la garganta; los imitadores de tus antepasados ​​descansan, llenos de complacencia. Los buenos aguardientes son deliciosos; tu carne, asada y a la parrilla, es fragante. Los imitadores de tus antepasados ​​festejan y beben; después de esto, no tendrán problemas.
 
-<span id="p404">[<sup><small>pág. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 <a id="o5"></a>
 
@@ -152,7 +152,7 @@ El fénix, macho y hembra, vuelan [^548], susurrando sus alas, mientras se posan
 
 El fénix, macho y hembra, revolotean, sus alas susurran, mientras se elevan al cielo. Muchos son tus admirables oficiales, oh rey, esperando tus órdenes, y amando a las multitudes del pueblo, el fénix, macho y hembra, emiten sus notas, en esa elevada cresta. Las dríadas crecen, en esas laderas orientales. Crecen exuberantes; y sus notas resuenan armoniosamente.
 
-<span id="p407">[<sup><small>pág. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 «Tus carros, oh soberano, son numerosos, muchos. Tus caballos, oh soberano, están bien entrenados y son veloces. He compuesto mis pocos versos, como prolongación de tu canción».
 
@@ -166,7 +166,7 @@ Con el <i>Kh</i>üan Â, concluyen las llamadas odas «correctas» de la Parte I
 
 El pueblo está ciertamente agobiado, pero quizás se pueda obtener un poco de alivio para ellos. Cuidemos este centro del reino, para asegurar el reposo de sus cuatro puntos cardinales. No concedamos indulgencia a los astutos y obsequiosos, para que los inconscientes sean cautelosos, y para reprimir a los ladrones y opresores, quienes no temen la clara voluntad (del Cielo) [^549]. Entonces, mostremos bondad a los distantes, y ayudemos a los cercanos, —así consolidaremos (el trono) de nuestro rey.
 
-<span id="p408">[<sup><small>pág. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 <a id="o10"></a>
 
@@ -182,7 +182,7 @@ El Cielo ahora está enviando calamidades; no se confíen tanto. El Cielo ahora 
 
 Aunque mis deberes son diferentes a los tuyos, soy tu compañero de servicio. Vengo a aconsejarte, y me escuchas con despectiva indiferencia. Mis palabras se refieren a los asuntos urgentes del presente; no creas que son motivo de risa. Los antiguos tenían un dicho: «Consulta con los recolectores de hierba y leña [^551]».
 
-<span id="p409">[<sup><small>pág. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 El cielo ahora ejerce opresión; no te burles de las cosas de esa manera. Un anciano, (hablo) con total sinceridad; pero ustedes, mis jóvenes, están llenos de orgullo. No es que mis palabras sean propias de la edad, sino que se burlan de lo triste. Pero los problemas se multiplicarán como llamas, hasta que sean inapelables.
 

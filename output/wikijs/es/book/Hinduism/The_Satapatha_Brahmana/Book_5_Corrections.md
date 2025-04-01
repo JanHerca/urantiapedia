@@ -29,7 +29,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p591">[<sup><small>pág. 591</small></sup>]</span>
+<span id="p591"><sup><small>[ p. 591 ]</small></sup></span>
 
 Página 13, párrafos 7, 8. Probablemente tengamos que traducir: los dioses fueron creados cuando llegó al cielo, fueron creados cuando entró en esta tierra.
 
@@ -49,7 +49,7 @@ P. 130, párrafo 9, ll. 2, 3. Lee: '¡El pensamiento divino te proteja, no el pe
 
 P. 136, párrafo 6, l. 2. Bajo él: Harisvâmin explica 'anu' por 'anvâbhakta', 'participando después de él', cf. [XIII, 5, 4, 24] (Book_5_13_5#v13_5_4_24).
 
-P. 149, nota 1. El comentario toma 'p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite' en el sentido de 'establecido en el p<i>ri</i>sh<i>th</i>ya', ya que, en la primera mitad del año, comienza cada mes con el Abhiplava y termina con el P<i>ri</i>sh<i>th</i>ya, que es el más fuerte (balavattara, cf. [XII, 2, 2, 16](Book_5_12_2#v12_2_2_16)), y por lo tanto 'âtmapratish<i>th</i>ita'.
+P. 149, nota 1. El comentario toma 'p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite' en el sentido de 'establecido en el p<i>ri</i>sh<i>th</i>ya', ya que, en la primera mitad del año, comienza cada mes con el Abhiplava y termina con el P<i>ri</i>sh<i>th</i>ya, que es el más fuerte (balavattara, cf. [XII, 2, 2, 16](../Book_5_12_2#v12_2_2_16)), y por lo tanto 'âtmapratish<i>th</i>ita'.
 
 P. 155, nota 2. El manuscrito del comentario está corrupto: âṅ-pûrvasyâkriyate satari<i>n</i>âdaya<i>h</i> <i>s</i>a<i>h</i> bhadrâgamam va<i>k</i><i>kh</i>asthâne evâdhikshipayati na prade<i>s</i>ântara âvartata ity artha<i>h</i>.
 

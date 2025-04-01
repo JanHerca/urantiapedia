@@ -153,7 +153,7 @@ Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo 
 
 (d) [^632] 'Así como la tierra está embarazada de Agni, así como el cielo está embarazada de Indra, así como Vâyu habita en el vientre de las regiones (de la tierra), así también yo coloco un embrión en tu vientre.
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 (e) 'Abre tu vientre; recibe el esperma; que un niño varón, un embrión, sea engendrado en el vientre. La madre lo lleva diez meses; que nazca, el más valiente de su raza.
 
@@ -173,7 +173,7 @@ Y (además de los dos Mantras), 'Unidos están nuestros nombres' (arriba, 24, 4)
 
 4\. Sólo la primera vez y después de sus ciclos menstruales, según Bâdarâya<i>n</i>a.
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 
 

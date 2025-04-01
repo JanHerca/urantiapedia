@@ -1,6 +1,6 @@
 ---
 title: "XX. Vanant Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
-Este Yast debe seguir inmediatamente después del Tîr Yast, ya que se deriva de la misma fórmula de Sîrôzah; aquella en la que se invoca a Tistrya junto con Vana't y Haptôiri'ga (Sîrôzah, § 13). Es un mero complemento de ese Yast. Sobre Vana't, véase [p. 97](Yasts_8#p97), nota [6](Yasts_8#fn481).
+Este Yast debe seguir inmediatamente después del Tîr Yast, ya que se deriva de la misma fórmula de Sîrôzah; aquella en la que se invoca a Tistrya junto con Vana't y Haptôiri'ga (Sîrôzah, § 13). Es un mero complemento de ese Yast. Sobre Vana't, véase [p. 97](../Yasts_8#p97), nota [6](../Yasts_8#fn481).
 
 ---
 
@@ -92,7 +92,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1388]: 310:1 Véase [p. 13](Sirozahs_1#p13), nota [2](Sirozahs_1#fn96).
+[^1388]: 310:1 Véase [p. 13](../Sirozahs_1#p13), nota [2](../Sirozahs_1#fn96).
 
 [^1389]: 310:2 Los reptiles y otras criaturas ahrimanianas (Vendîdâd, Introd. V, 11) que son destruidos por la lluvia (Bund. VII, 7).
 

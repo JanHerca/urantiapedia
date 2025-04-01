@@ -71,7 +71,7 @@ Con esta plegaria bien intencionada que los dioses han creado, mato a los Pi<i>s
 
 
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 6, SECCIÓN 20.
 
@@ -99,7 +99,7 @@ Sin mal de ojo, sin traer la muerte a tu marido, trae suerte al ganado, llénate
 
 3\. [^616] Después de hacerla sentar en su lugar (véase el Sutra 5 de la sección anterior) y rociar Â<i>g</i>ya en sus manos unidas, vierte dos veces grano frito en ellas, con el verso: «Este grano vierto (en tus manos): que me traiga prosperidad y te una (a mí). Que este Agni nos conceda eso». <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
-4\. Después de rociar (Â<i>g</i>ya) sobre (el grano en sus manos), sacrifica (el grano) con sus manos unidas (que él agarra), con (el verso), 'Esta mujer, esparciendo grano en el fuego, reza así: “¡Que mi esposo viva mucho; que mis relaciones sean prósperas. Svâhâ!”'
+4\. Después de rociar (Â<i>g</i>ya) sobre (el grano en sus manos), sacrifica (el grano) con sus manos unidas (que él agarra), con (el verso), 'Esta mujer, esparciendo grano en el fuego, reza así: «¡Que mi esposo viva mucho; que mis relaciones sean prósperas. Svâhâ!»'
 
 5\. [^617] Después de haberla hecho levantarse con (el verso que recita), '¡Arriba! con vida' (Taitt. Sa<i>m</i>h. I, 2, 8, 1), y habiendo circunvalado el fuego (con ella) de modo que sus lados derechos estén vueltos hacia él, con (el verso), 'Que encontremos nuestro camino contigo a través de todos los poderes hostiles, como a través de corrientes de agua'—vierte grano frito (en sus manos, y las sacrifica), como antes.
 
@@ -118,7 +118,7 @@ Sin mal de ojo, sin traer la muerte a tu marido, trae suerte al ganado, llénate
 
 
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## PATALA 6, SECCIÓN 21.
 

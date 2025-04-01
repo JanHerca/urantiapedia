@@ -66,7 +66,7 @@ Entonces a una criada, la más joven, le susurró:
 Cruzar en su camino que necesita puede observarnos;
 Dale una señal, mi hermana, recatadamente.”
 «Le di señales, pero él no las notó ni hizo caso»
-Respondió la doncella, y se apresuró a encontrarse conmigo. <span id="p359">[<sup><small>p. 359  </small></sup>]</span>
+Respondió la doncella, y se apresuró a encontrarse conmigo. <span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 Ah por esa noche en el valle de las dunas!
 Ah por el amanecer cuando en silencio nos separamos!
 El que la mañana puede despertar a sus besos
@@ -78,7 +78,7 @@ Bebe de la copa de los benditos en el cielo!
 
 Tarde y temprano, Amor entre nosotros el mensajero ocioso se había ido,
 Hasta que su fatal emboscada en el valle de Khedab fue colocada:
-Allí nos encontramos; ni señal, ni señal, necesitábamos más que una mirada—no más; <span id="p360">[<sup><small>p. 360  </small></sup>]</span>
+Allí nos encontramos; ni señal, ni señal, necesitábamos más que una mirada—no más; <span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 Todo mi corazón y toda su pasión reflejada en su corazón vi;
 Y dije: "Es la tarde fresca; las casas con jardines no están lejos;
 ¿Por qué nos sentamos insocialmente cansados sobre las bestias cansadas?

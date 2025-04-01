@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 1\. Hay reglas más estrictas para las cosas sagradas que para la ofrenda elevada. Porque se pueden bautizar vasos para la ofrenda elevada, pero no para las cosas sagradas. El exterior, el interior y el asa se cuentan por separado para la ofrenda elevada, pero no para las cosas sagradas. Quien lleve algo que se contamina al pisarlo, puede llevar la ofrenda elevada, pero no la carne sagrada. Pisar las vestiduras de quienes comen la ofrenda elevada contamina la carne sagrada. La medida de la carne sagrada no es la misma que la de la ofrenda elevada. Porque para la carne sagrada uno debe desatar sus vestiduras, secarse, bautizarse y luego vendarse. Pero en la ofrenda elevada, puede vendarse y luego bautizarse.
 

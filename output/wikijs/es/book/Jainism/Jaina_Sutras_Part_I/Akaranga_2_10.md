@@ -38,7 +38,7 @@ Un monje o una monja, presionado por la naturaleza, debe, si no tiene su propia 
 
 Un monje o una monja, sabiendo que el jefe de familia con respecto a tal lugar por el bien de uno o muchos compañeros ascetas, hombres o mujeres, por el bien de muchos <i>S</i>rama<i>n</i>as o Brâhma<i>n</i>as a quienes ha contado bien, mata seres vivos y comete varios pecados, no debe aliviar la naturaleza en tal lugar o cualquier otro del mismo tipo, ya sea que ese lugar sea apropiado por otra persona o no [^460], etc. (ver II, 1, 1, § 13). (2 y 3).
 
-<span id="p181">[<sup><small>pág. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 Ahora bien, debe saber esto: si ese lugar no ha sido apropiado por otra persona, etc., puede aliviar la naturaleza en ese lugar (después de haberlo inspeccionado y limpiado bien). (4)
 
@@ -74,7 +74,7 @@ Un monje o una monja no deben cultivar la naturaleza en pozos de arcilla fresca,
 
 Un monje o una monja no deben descansar en un campo de arbustos, vegetales o raíces. (20)
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Un monje o una monja no deben realizar sus necesidades en los bosques de A<i>s</i>ana [^465], <i>S</i>ana [^466], Dhâtakî [^467], Ketaki [^468], Mango, A<i>s</i>oka, Punnâga u otros lugares similares que contengan hojas, flores, frutos, semillas o brotes. (21)
 

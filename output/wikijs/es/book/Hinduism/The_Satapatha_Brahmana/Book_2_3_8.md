@@ -144,7 +144,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_8_3_33"><sup><small>3:8:3:33.</small></sup></span> Acto seguido corta a la víctima: '¡Muévete tres veces [^500], y haz que el corazón sea el más alto de lo tres veces movido!' así (le dice al matador), pues triple es el sacrificio.
 
-<span id="v3_8_3_44"><sup><small>3:8:3:44.</small></sup></span> Luego instruye al matasellos: «Si alguien te pregunta: “¿Está cocido el alimento del sacrificio, oh <i>S</i>amitar?”, di solo: “¡Cocido!”, no: “¡Cocido, reverendo señor!” ni: “¡Cocido, en verdad!”». <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> 3:8:3:55\. Tras tomar ghee coagulado con el <i>g</i>uhû, el Adhvaryu, acercándose (del altar) a (el <i>S</i>âmitra), pregunta: «¿Está cocido el alimento del sacrificio, oh <i>S</i>âmitar?». «Cocinado», dice. «Eso es de los dioses», dice el Adhvaryu en voz baja.
+<span id="v3_8_3_44"><sup><small>3:8:3:44.</small></sup></span> Luego instruye al matasellos: «Si alguien te pregunta: «¿Está cocido el alimento del sacrificio, oh <i>S</i>amitar?», di solo: «¡Cocido!», no: «¡Cocido, reverendo señor!» ni: «¡Cocido, en verdad!»». <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> 3:8:3:55\. Tras tomar ghee coagulado con el <i>g</i>uhû, el Adhvaryu, acercándose (del altar) a (el <i>S</i>âmitra), pregunta: «¿Está cocido el alimento del sacrificio, oh <i>S</i>âmitar?». «Cocinado», dice. «Eso es de los dioses», dice el Adhvaryu en voz baja.
 
 <span id="v3_8_3_66"><sup><small>3:8:3:66.</small></sup></span> La razón por la que pregunta es esta: cocinado, en verdad, no crudo, (debe ser) el alimento de los dioses; y el <i>S</i>amit<i>ri</i> sabe bien si está cocinado o crudo.
 
@@ -264,7 +264,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 9\. Él (el matasellos) entrega entonces el escupitajo de corazón (al Adhvaryu). Que no lo arroje al suelo ni al agua; pues si lo arrojara al suelo, la angustia penetraría en las plantas y los árboles; y si lo arrojara al agua, la angustia penetraría en el agua: por lo tanto, ni al suelo ni al agua.
 
-<span id="v3_8_5_1010"><sup><small>3:8:5:1010.</small></sup></span> Pero al descender al agua, que lo entierre en el punto donde se unen lo seco y lo húmedo. Pero si no le apetece descender (al agua), vierte un vaso de agua frente a la estaca de sacrificio y entierra (el escupitajo) en el punto donde se unen lo seco y lo húmedo, diciendo (Vâ<i>g</i>. S. VI, 22): "¡No dañes ni las aguas ni las plantas!". Así no daña ni a las aguas ni a las plantas; "¡De toda atadura [^541] —líbranos de ella, oh rey Varu<i>n</i>a!" Que dicen, juramos por las “(vacas) Inviolables”, por “Varu<i>n</i>a [^542]”, <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> ¡de ahí líbranos, oh Varu<i>n</i>a!' Con ello lo libra [^543] de toda soga de Varu<i>n</i>a, de toda (culpa) contra Varu<i>n</i>a.
+<span id="v3_8_5_1010"><sup><small>3:8:5:1010.</small></sup></span> Pero al descender al agua, que lo entierre en el punto donde se unen lo seco y lo húmedo. Pero si no le apetece descender (al agua), vierte un vaso de agua frente a la estaca de sacrificio y entierra (el escupitajo) en el punto donde se unen lo seco y lo húmedo, diciendo (Vâ<i>g</i>. S. VI, 22): "¡No dañes ni las aguas ni las plantas!". Así no daña ni a las aguas ni a las plantas; "¡De toda atadura [^541] —líbranos de ella, oh rey Varu<i>n</i>a!" Que dicen, juramos por las «(vacas) Inviolables», por «Varu<i>n</i>a [^542]», <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> ¡de ahí líbranos, oh Varu<i>n</i>a!' Con ello lo libra [^543] de toda soga de Varu<i>n</i>a, de toda (culpa) contra Varu<i>n</i>a.
 
 <span id="v3_8_5_1111"><sup><small>3:8:5:1111.</small></sup></span> Entonces se dirige (al agua) [^544] con: «¡Que las aguas y las plantas nos sean amistosas, hostiles a quien nos odia y a quien odiamos!». Pues cuando proceden con ese (escupitajo), las aguas, en verdad, al igual que las plantas, se alejan de él; pero con esto hace un pacto con ellas, y así se acercan de nuevo a él, y se realiza esa expiación. No realiza (el baño de escupitajo) en la ofrenda animal a Agni y Soma, ni en la de Agni, sino solo en la de la vaca Anûbandhyâ [^545], pues con ella se completa todo el sacrificio. Y dado que realizan (la ceremonia) con el escupitajo del corazón en la ofrenda de la vaca, de hecho llega a realizarse también para la ofrenda del animal a Agni y Soma, así como para la de Agni.
 
@@ -298,17 +298,17 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^467]: 185:1 El texto solo tiene 'âpyâyayanti', pero el verbo con el que el autor conecta el verbo 'âprî' es o bien â-p<i>ri</i><i>n</i>âti, él llena; o (más correctamente) 'â-prî<i>n</i>âti', él gratifica, propicia, correspondiente al Zand âfrînaiti. Quizás se hayan perdido algunas palabras aquí. El texto del Kâ<i>n</i>va tiene: sa yad etâbhir âprîbhi<i>h</i> punar âpyâyata etâbhir enam âpri<i>n</i>âti tasmâd âpriyo nâma. Sobre los versos Âprî, que forman las oraciones de ofrenda (yâ<i>g</i>yâs) en las ofrendas previas al sacrificio animal, y que varían según las diferentes familias, véase Ait. Br. II, 4; Max Müller, Hist. of ASL, pág. 463 y siguientes; Haug, Essays, pág. 24r.
 
-[^468]: 185:2 Véase I, 5, 3, 8. El Adhvaryu llama al Agnîdh: «¡Oh, srâvaya (que escuches)!». El Agnîdh llama: «¡Astu srausha t (que uno escuche)!». El Adhvaryu llama al Maitrâvaru n a: «¡Preshya samidha h (que alguien preste atención a las astillas)!». [o bien: «Preshya Tanûnapâtam o Narâ s a m sam», etc. en las ofrendas sucesivas.\] El Maitrâvaru<i>n</i>a exclama: 'Hotâ yakshat samidham \[Tanûnapâtam, etc.\], (que el Hot<i>ri</i> pronuncie la oración de ofrenda a las astillas, etc.)'. Cada oración de ofrenda (Âprî) se introduce en la pág. 186 con la fórmula 'Ye ya<i>g</i>âmahe, etc.'. Véase la parte i, nota de la pág. 148. Los objetos divinos de estas oblaciones de ghee son: 1. los Samidhs o astillas; 2. ya sea Tanûnapât o Narâ<i>s</i>a<i>m</i>sa; 3. los I<i>d</i>as; 4. los Barhis (hierba sacrificial en el altar); 5. las puertas (del cielo y del lugar de adoración); 6. el amanecer y la noche; 7. las dos divinas Hotri; 8. las tres diosas (Sarasvatî, Idâ y Bhâratî); 9. Tvashtri; 10. Vanaspati (el árbol o señor del bosque); 11. los Svâhâkritis (llamadas de «¡Salve!», que en esta última oración de ofrenda se repiten antes de los nombres de las principales deidades del sacrificio). Para esta última ofrenda, véase [III, 8, 2, 23](Book_2_3_8#v3_8_2_23) ss.
+[^468]: 185:2 Véase I, 5, 3, 8. El Adhvaryu llama al Agnîdh: «¡Oh, srâvaya (que escuches)!». El Agnîdh llama: «¡Astu srausha t (que uno escuche)!». El Adhvaryu llama al Maitrâvaru n a: «¡Preshya samidha h (que alguien preste atención a las astillas)!». [o bien: «Preshya Tanûnapâtam o Narâ s a m sam», etc. en las ofrendas sucesivas.\] El Maitrâvaru<i>n</i>a exclama: 'Hotâ yakshat samidham \[Tanûnapâtam, etc.\], (que el Hot<i>ri</i> pronuncie la oración de ofrenda a las astillas, etc.)'. Cada oración de ofrenda (Âprî) se introduce en la pág. 186 con la fórmula 'Ye ya<i>g</i>âmahe, etc.'. Véase la parte i, nota de la pág. 148. Los objetos divinos de estas oblaciones de ghee son: 1. los Samidhs o astillas; 2. ya sea Tanûnapât o Narâ<i>s</i>a<i>m</i>sa; 3. los I<i>d</i>as; 4. los Barhis (hierba sacrificial en el altar); 5. las puertas (del cielo y del lugar de adoración); 6. el amanecer y la noche; 7. las dos divinas Hotri; 8. las tres diosas (Sarasvatî, Idâ y Bhâratî); 9. Tvashtri; 10. Vanaspati (el árbol o señor del bosque); 11. los Svâhâkritis (llamadas de «¡Salve!», que en esta última oración de ofrenda se repiten antes de los nombres de las principales deidades del sacrificio). Para esta última ofrenda, véase [III, 8, 2, 23](../Book_2_3_8#v3_8_2_23) ss.
 
 [^469]: 186:1 Véase I, 5, 3, 16.
 
-[^470]: 186:2 Para las tres partes del rayo, véase [p. 108](Book_2_3_4#p108), nota [2](Book_2_3_4#fn285).
+[^470]: 186:2 Para las tres partes del rayo, véase [p. 108](../Book_2_3_4#p108), nota [2](../Book_2_3_4#fn285).
 
 [^471]: 186:3 El Hot<i>ri</i> recita el triplete, Rig-veda IV, 15, 1-3.
 
 [^472]: 187:1 Sâya<i>n</i>a parece interpretar «abhipariharati» en el sentido de «lo lleva al lugar donde cocinan». Según Kâty. VI, 5, 2, 3, el Agnîdh circunvala tres veces de izquierda a derecha, ya sea el lugar que comprende la víctima, el ghee, el lugar del sacrificio, el poste del sacrificio, el kâtvâla y Âhavanîya; o solo el ghee, la víctima y el lugar del sacrificio. Luego arroja la tea de vuelta al Âhavanîya y realiza la circunvalación tantas veces en la dirección opuesta. Sobre el Paryagnikara<i>n</i>a, véase también la parte I, pág. 45, nota.
 
-[^473]: 188:1 Para los dos orificios de epiplón, véase la nota sobre [III, 8, 2, 16](Book_2_3_8#v3_8_2_16).
+[^473]: 188:1 Para los dos orificios de epiplón, véase la nota sobre [III, 8, 2, 16](../Book_2_3_8#v3_8_2_16).
 
 [^474]: 188:2 La señal u orden adicional (upapraisha) del Maitrâvaru<i>n</i>a es: «¡Agni ha sido victorioso; ha ganado riqueza!». Sobre la recitación del Hot<i>ri</i> —la llamada letanía Adhrigu— que comienza con «¡Vosotros, divinos aquietadores (matadores), comenzad, así como vosotros que sois humanos!», y que consiste en fórmulas usualmente pronunciadas por el Adhvaryu (y por lo tanto quizás remontándose a una época en la que el Hot<i>ri</i> tenía que realizar todo menos las partes serviles del servicio sacrificial), véase Ait. Br. II, 6-7; Roth, Yâska XXXVII seq.
 
@@ -324,7 +324,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^480]: 193:1 Ned idam anv ahorâtrâ<i>n</i>i <i>s</i>o<i>k</i>ân iti, Kâ<i>n</i>va recension.
 
-[^481]: 193:2 Véase [III, 8, 1, 5](Book_2_3_8#v3_8_1_5).
+[^481]: 193:2 Véase [III, 8, 1, 5](../Book_2_3_8#v3_8_1_5).
 
 [^482]: 194:1 Los dos vapâ<i>s</i>rapa<i>n</i>îs (tostadores de epiplón) consisten en palos de madera de kârshmarya (Gmelina Arborea), uno de ellos es bastante recto, mientras que el otro está bifurcado en la parte superior, asándose así como un puntal.
 
@@ -338,7 +338,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^487]: 195:3 Es decir, al otro lado del altar inmediatamente detrás del fuego o altar mayor.
 
-[^488]: 196:1 Así según el comentarista de Kâty. VI, 6, 18. Véase también la nota sobre [IV, 2, 5, 22](Book_2_4_2#v4_2_5_22), y Haug, Transl. Ait. Br. p. 101 nota.
+[^488]: 196:1 Así según el comentarista de Kâty. VI, 6, 18. Véase también la nota sobre [IV, 2, 5, 22](../Book_2_4_2#v4_2_5_22), y Haug, Transl. Ait. Br. p. 101 nota.
 
 [^489]: 196:2 Las fórmulas (invitatorias) son Rig-Veda I, 75, 1, y III, 21, 1-5; Ait. Br. II, 12; Â<i>s</i>v. Sr. III, 4, 1.
 
@@ -348,7 +348,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^492]: 196:5 Cf. Haug, Transl. Ait. Br. pág. 100, nota 4.
 
-[^493]: 197:1 Es decir, ha pasado tanto tiempo desde que adopté esa práctica, y aquí estoy, envejecido y aún con pleno vigor, dice. 'Pero él, yaciendo viejo y agotado, dijo: “Estos dos brazos se han vuelto grises; ¿qué demonios ha sido de la palabra del Brahman?”' Texto del Kâ<i>n</i>va.
+[^493]: 197:1 Es decir, ha pasado tanto tiempo desde que adopté esa práctica, y aquí estoy, envejecido y aún con pleno vigor, dice. 'Pero él, yaciendo viejo y agotado, dijo: «Estos dos brazos se han vuelto grises; ¿qué demonios ha sido de la palabra del Brahman?»' Texto del Kâ<i>n</i>va.
 
 [^494]: 197:2 Sobre las dos porciones de mantequilla para Agni y Soma, que siguen a las ofrendas anticipadas, véase la parte i, nota pág. 174.
 
@@ -358,7 +358,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^497]: 198:3 En las ofrendas de animales de los días de Soma, añade a su praisha (orden) la palabra «prasthitam», que significa «de pie ante el altar». Kâty. VI, 6, 27. Véase también <i>S</i>. Br. IV, 4, 3, 9.
 
-[^498]: 198:4 Ûrdhvanabhas, «quien impulsa las nubes hacia arriba» (o mantiene las nubes arriba), o, quizás, «quien está arriba (en) el firmamento», es aparentemente un nombre de Vâyu, el viento. Cf. [III, 6, 1, 16](Book_2_3_6#v3_6_1_16).
+[^498]: 198:4 Ûrdhvanabhas, «quien impulsa las nubes hacia arriba» (o mantiene las nubes arriba), o, quizás, «quien está arriba (en) el firmamento», es aparentemente un nombre de Vâyu, el viento. Cf. [III, 6, 1, 16](../Book_2_3_6#v3_6_1_16).
 
 [^499]: 199:1 Lo hacen con el mantra, Vâ<i>g</i>. S. VI, 17 (Atharva-veda VII, 89, 3; cf. Rig-veda I, 23, 22; X, 9, 8).
 
@@ -366,19 +366,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^501]: 199:3 Sobre la esencia sacrificial que pasa sucesivamente del hombre al caballo, al buey, a la cabra y, finalmente, al arroz y a la cebada, véase I, 2, 3, 6-7.
 
-[^502]: 200:1 El orden de proceder no queda del todo claro en el contexto y parece haber desconcertado a los ritualistas posteriores. De Kâty. VI, 7-8, parece que el autor de los Sutras se refiere a que la ofrenda del pastel se realiza simultáneamente con el descuartizamiento de la víctima (y la cocción de las porciones y el asado del animal). Sin embargo, el comentario sobre Kâty. VI, 7, 29 protesta contra esta disposición por ser contraria al orden establecido en el Brâhma<i>n</i>a; e insiste especialmente en el «atha (ahora)» al principio de este párrafo. Sin embargo, esta partícula se usa a menudo en un sentido vago; como ocurre con mucha frecuencia cuando, tras esbozar el procedimiento principal, el autor vuelve a completar los detalles. Parece haber también una diferencia de opinión en cuanto al significado exacto de la instrucción dada por el Adhvaryu al Samitar después de que (al parecer) las porciones se hayan cocinado. El comentarista de Kâty. VI, 8, 1 aparentemente interpreta «tri<i>h</i> pra<i>k</i>yâvaya» en el sentido de «sacudir tres veces» o «girar tres veces». Sâya<i>n</i>a, por otro lado, lo explica como que el <i>S</i>amit<i>ri</i> debe dividir las porciones en tres partes, según se destinen a las ofrendas principales, al Svish<i>t</i>ak<i>ri</i>t o a las ofrendas secundarias (?). Como la instrucción no puede referirse a la extracción de las porciones del recipiente de cocción (ukhâ), parecería que el <i>S</i>amitar debe mover (agitar) el recipiente mismo o remover el contenido, quizás separando así las respectivas porciones. El texto Kâ<i>n</i>va dice: Tri<i>h</i> pra<i>k</i>yâvayâd ity uttame pra<i>k</i>yâva uttamârdhe h<i>ri</i>daya<i>m</i> kurutâd iti. El corazón, una vez listo, debe retirarse del asador y colocarse sobre las porciones; tras lo cual, el Adhvaryu vierte ghee sobre ellas ([párrafo 8](Book_2_3_8#v3_8_3_8)).
+[^502]: 200:1 El orden de proceder no queda del todo claro en el contexto y parece haber desconcertado a los ritualistas posteriores. De Kâty. VI, 7-8, parece que el autor de los Sutras se refiere a que la ofrenda del pastel se realiza simultáneamente con el descuartizamiento de la víctima (y la cocción de las porciones y el asado del animal). Sin embargo, el comentario sobre Kâty. VI, 7, 29 protesta contra esta disposición por ser contraria al orden establecido en el Brâhma<i>n</i>a; e insiste especialmente en el «atha (ahora)» al principio de este párrafo. Sin embargo, esta partícula se usa a menudo en un sentido vago; como ocurre con mucha frecuencia cuando, tras esbozar el procedimiento principal, el autor vuelve a completar los detalles. Parece haber también una diferencia de opinión en cuanto al significado exacto de la instrucción dada por el Adhvaryu al Samitar después de que (al parecer) las porciones se hayan cocinado. El comentarista de Kâty. VI, 8, 1 aparentemente interpreta «tri<i>h</i> pra<i>k</i>yâvaya» en el sentido de «sacudir tres veces» o «girar tres veces». Sâya<i>n</i>a, por otro lado, lo explica como que el <i>S</i>amit<i>ri</i> debe dividir las porciones en tres partes, según se destinen a las ofrendas principales, al Svish<i>t</i>ak<i>ri</i>t o a las ofrendas secundarias (?). Como la instrucción no puede referirse a la extracción de las porciones del recipiente de cocción (ukhâ), parecería que el <i>S</i>amitar debe mover (agitar) el recipiente mismo o remover el contenido, quizás separando así las respectivas porciones. El texto Kâ<i>n</i>va dice: Tri<i>h</i> pra<i>k</i>yâvayâd ity uttame pra<i>k</i>yâva uttamârdhe h<i>ri</i>daya<i>m</i> kurutâd iti. El corazón, una vez listo, debe retirarse del asador y colocarse sobre las porciones; tras lo cual, el Adhvaryu vierte ghee sobre ellas ([párrafo 8](../Book_2_3_8#v3_8_3_8)).
 
-[^503]: 201:1 El Adhvaryu retira el plato del fuego que está hacia el norte, saca las porciones, las pone en una especie de cesta y realiza 'prâ<i>n</i>adâna' ([p. 196](Book_2_3_8#p196), nota [3](Book_2_3_8#fn488)) sobre ellas.
+[^503]: 201:1 El Adhvaryu retira el plato del fuego que está hacia el norte, saca las porciones, las pone en una especie de cesta y realiza 'prâ<i>n</i>adâna' ([p. 196](../Book_2_3_8#p196), nota [3](../Book_2_3_8#fn488)) sobre ellas.
 
-[^504]: 202:1 O las ramas de Plaksha con las que se cubrió el altar la noche anterior. Véase [p. 120](Book_2_3_5#p120), nota [3](Book_2_3_5#fn320). El texto de Kâ<i>n</i>va (como Taitt. S. VI, 3, 10, 2) habla de una rama de Plaksha colocada sobre los barhis.
+[^504]: 202:1 O las ramas de Plaksha con las que se cubrió el altar la noche anterior. Véase [p. 120](../Book_2_3_5#p120), nota [3](../Book_2_3_5#fn320). El texto de Kâ<i>n</i>va (como Taitt. S. VI, 3, 10, 2) habla de una rama de Plaksha colocada sobre los barhis.
 
 [^505]: 202:2 Anûka, cuyo adjetivo es anûkya, significa «la parte anterior de la columna vertebral». El texto del Kâ<i>n</i>va dice: yan mastishko yad anûke ma<i>g</i><i>g</i>â.
 
-[^506]: 203:1 Es decir, el cucharón usado (en sustitución del <i>g</i>uhû) para ofrecer el aguardiente o la salsa. Véase el [párrafo 20](Book_2_3_8#v3_8_3_20).
+[^506]: 203:1 Es decir, el cucharón usado (en sustitución del <i>g</i>uhû) para ofrecer el aguardiente o la salsa. Véase el [párrafo 20](../Book_2_3_8#v3_8_3_20).
 
 [^507]: 203:2 Es decir, el recipiente utilizado para contener los recortes (samavatta) del i<i>d</i>â; también llamado i<i>d</i>âpâtrî, véase parte i, pág. 219, nota 3.
 
-[^508]: 203:3 Véase [p. 198](Book_2_3_8#p198), nota [1](Book_2_3_8#fn493).
+[^508]: 203:3 Véase [p. 198](../Book_2_3_8#p198), nota [1](../Book_2_3_8#fn493).
 
 [^509]: 203:4 Luego dice: 'Recita a la manotâ (deidad) la oración invitatoria para (del) havis que está siendo cortado en porciones (havisho 'vadîyamânasya)'. Texto del Kâ<i>n</i>va; cf. Ait. Br. II, 10.—Mientras se cortan las porciones sacrificiales en las respectivas cucharas, el Hot<i>ri</i> recita el Himno a Agni, Rig-veda VI, 1, 1-13, que comienza: 'Tú, oh maravilloso Agni, el primer pensador (manot<i>ri</i>) de este himno, fuiste verdaderamente el sacerdote...'. A partir de la aparición de esta palabra manotâ, esta última ha llegado a ser el nombre técnico tanto del himno mismo como de la deidad (Agni) a quien se recita.
 
@@ -390,7 +390,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^513]: 204:4 Según Kâty. VI, 7, 6, se toma la articulación anterior (o superior) (pûrvana<i>d</i>aka) del antepié izquierdo. El texto de Kâ<i>n</i>va simplemente dice 'atha dosh<i>n</i>a<i>h</i>'.
 
-[^514]: 204:5 Véase [III, 8, 4, 9](Book_2_3_8#v3_8_4_9) seq.
+[^514]: 204:5 Véase [III, 8, 4, 9](../Book_2_3_8#v3_8_4_9) seq.
 
 [^515]: 205:1 Literalmente, los tres miembros, el nombre técnico de la porción para Agni Svish<i>t</i>ak<i>ri</i>t.
 
@@ -406,7 +406,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^521]: 206:2 Esto forma parte de la fórmula anterior (como sujeto del verbo «que se tambalee»), aunque el autor parece separarla de ella, al igual que el Mahîdhara. El significado de la fórmula parece ser: «¡Que los enemigos perezcan, confundidos por (?) el vapor ardiente!».
 
-[^522]: 207:1 El Dictado de San Petersburgo interpreta «Na-upâveyu<i>h</i>» como «no se alinearon con ello; no se sintieron inclinados a ello»; como se menciona arriba, [III, 7, 3, 3](Book_2_3_7#v3_7_3_3). Sâya<i>n</i>a lo explica como «nopâgatâ<i>h</i>» (MSS. nâpâgatâ<i>h</i>).
+[^522]: 207:1 El Dictado de San Petersburgo interpreta «Na-upâveyu<i>h</i>» como «no se alinearon con ello; no se sintieron inclinados a ello»; como se menciona arriba, [III, 7, 3, 3](../Book_2_3_7#v3_7_3_3). Sâya<i>n</i>a lo explica como «nopâgatâ<i>h</i>» (MSS. nâpâgatâ<i>h</i>).
 
 [^523]: 207:2 Es decir, Aditi, según la recensión de Kâ<i>n</i>va.
 
@@ -432,9 +432,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^534]: 211:2 Gudo vai pa<i>s</i>u<i>h</i>, medo vai medhas; esta es una de las muchas excepciones a la regla establecida por el profesor Delbrück respecto al orden de sujeto y predicado, Synt. Forsch., III, pág. 26. Las oraciones copulativas con un tertium comparationis tampoco suelen ajustarse a dicha regla.
 
-[^535]: 212:1 Véase [p. 156](Book_2_3_6#p156), nota [3](Book_2_3_6#fn414).
+[^535]: 212:1 Véase [p. 156](../Book_2_3_6#p156), nota [3](../Book_2_3_6#fn414).
 
-[^536]: 212:2 Cuando los sacerdotes y el sacrificador han comido sus porciones del Idâ, el Agnîdh trae brasas calientes del Sâmitra (o, en la ofrenda animal conectada con el sacrificio Soma), opcionalmente del Âgnîdhra, y las pone en el hogar del Hotri ([p. 148](Book_2_3_6#p148), nota [4](Book_2_3_6#fn392)), o en la ofrenda animal ordinaria (nirûdh a pas u), en la cadera norte (esquina noroeste) del altar después de quitar la hierba sacrificial. Sobre estos carbones, el Pratiprasthât<i>ri</i> realiza las ofrendas complementarias (upaya<i>g</i>), mientras que el Adhvaryu realiza las ofrendas posteriores (anuyâ<i>g</i>a) sobre el Âhavanîya. Para las ofrendas complementarias, el Pratiprasthât<i>ri</i> corta la parte correspondiente y el cuarto trasero ([III, 8, 3, 18](Book_2_3_8#v3_8_3_18)) en once partes, y en cada Vasha<i>t</i> arroja un trozo con la mano al fuego. Los destinatarios de las primeras ocho y la última ofrenda posterior, por otro lado, son los mismos que los de las nueve ofrendas posteriores en los sacrificios estacionales (parte I, pág. 404). Las fórmulas del Hotri para las dos ofrendas adicionales, insertadas antes de la última, son: 9. El divino señor del bosque [10. Los divinos barhis de las plantas acuáticas] pueden aceptar graciosamente (la ofrenda) para la abundante obtención de un abundante don. ¡Vaushat! (cf. parte i, pág. 235; Â<i>s</i>v. <i>S</i>r. III, 6, 13.)
+[^536]: 212:2 Cuando los sacerdotes y el sacrificador han comido sus porciones del Idâ, el Agnîdh trae brasas calientes del Sâmitra (o, en la ofrenda animal conectada con el sacrificio Soma), opcionalmente del Âgnîdhra, y las pone en el hogar del Hotri ([p. 148](../Book_2_3_6#p148), nota [4](../Book_2_3_6#fn392)), o en la ofrenda animal ordinaria (nirûdh a pas u), en la cadera norte (esquina noroeste) del altar después de quitar la hierba sacrificial. Sobre estos carbones, el Pratiprasthât<i>ri</i> realiza las ofrendas complementarias (upaya<i>g</i>), mientras que el Adhvaryu realiza las ofrendas posteriores (anuyâ<i>g</i>a) sobre el Âhavanîya. Para las ofrendas complementarias, el Pratiprasthât<i>ri</i> corta la parte correspondiente y el cuarto trasero ([III, 8, 3, 18](../Book_2_3_8#v3_8_3_18)) en once partes, y en cada Vasha<i>t</i> arroja un trozo con la mano al fuego. Los destinatarios de las primeras ocho y la última ofrenda posterior, por otro lado, son los mismos que los de las nueve ofrendas posteriores en los sacrificios estacionales (parte I, pág. 404). Las fórmulas del Hotri para las dos ofrendas adicionales, insertadas antes de la última, son: 9. El divino señor del bosque [10. Los divinos barhis de las plantas acuáticas] pueden aceptar graciosamente (la ofrenda) para la abundante obtención de un abundante don. ¡Vaushat! (cf. parte i, pág. 235; Â<i>s</i>v. <i>S</i>r. III, 6, 13.)
 
 [^537]: 213:1 Praivaina<i>m</i> ta<i>g</i> <i>g</i>anayati, «hace que (la víctima) nazca (de nuevo)». Kâ<i>n</i>va rec. El pasaje anterior aparentemente debe entenderse en un sentido general: «hace que se produzca el nacimiento entre las criaturas vivientes».
 
@@ -442,18 +442,18 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^539]: 214:2 El texto de Kâ<i>n</i>va (como el Taitt. S.) invierte el orden de esta fórmula y la siguiente. Tampoco inicia aquí un nuevo Brâhma<i>n</i>a.
 
-[^540]: 214:3 Tras completar la última ofrenda posterior, el Adhvaryu, en la pág. 215, arroja al fuego la primera astilla de la estaca sacrificial, de acuerdo con [III, 7, 1, 32](Book_2_3_7#v3_7_1_32). Para los cuatro Patnîsa<i>m</i>yâ<i>g</i>as, cuyas deidades son Soma, Tvash<i>t</i><i>ri</i>, las esposas de los dioses, y Agni, el dueño de la casa, véase la parte I, pág. 256. Las dos primeras ofrendas pueden consistir únicamente en ghee o, como las dos últimas, en un trozo de cola.
+[^540]: 214:3 Tras completar la última ofrenda posterior, el Adhvaryu, en la pág. 215, arroja al fuego la primera astilla de la estaca sacrificial, de acuerdo con [III, 7, 1, 32](../Book_2_3_7#v3_7_1_32). Para los cuatro Patnîsa<i>m</i>yâ<i>g</i>as, cuyas deidades son Soma, Tvash<i>t</i><i>ri</i>, las esposas de los dioses, y Agni, el dueño de la casa, véase la parte I, pág. 256. Las dos primeras ofrendas pueden consistir únicamente en ghee o, como las dos últimas, en un trozo de cola.
 
-[^541]: 215:1 El término técnico para esta ceremonia purificatoria es <i>s</i>ûlâvabh<i>ri</i>tha, o baño de saliva. En la presente ocasión no se realiza (véase el [párrafo 11](Book_2_3_8#v3_8_5_11)), pero se inserta aquí porque forma la conclusión de la ofrenda animal ordinaria, no conectada con el sacrificio de Soma (nirû<i>dh</i>a-pa<i>s</i>u), así como de la ofrenda de una vaca estéril (llamada anûbandhyâ) a Mitra y Varu<i>n</i>a, que concluye el sacrificio de Soma. Véase la parte i, pág. 379, nota 1, y [IV, 5, 2, 1](Book_2_4_5#v4_5_2_1) ss.
+[^541]: 215:1 El término técnico para esta ceremonia purificatoria es <i>s</i>ûlâvabh<i>ri</i>tha, o baño de saliva. En la presente ocasión no se realiza (véase el [párrafo 11](../Book_2_3_8#v3_8_5_11)), pero se inserta aquí porque forma la conclusión de la ofrenda animal ordinaria, no conectada con el sacrificio de Soma (nirû<i>dh</i>a-pa<i>s</i>u), así como de la ofrenda de una vaca estéril (llamada anûbandhyâ) a Mitra y Varu<i>n</i>a, que concluye el sacrificio de Soma. Véase la parte i, pág. 379, nota 1, y [IV, 5, 2, 1](../Book_2_4_5#v4_5_2_1) ss.
 
 [^542]: 215:2 ? Ala<i>m</i><i>g</i>usha, 'suficiente para comer', Sâya<i>n</i>a, 'suficiente en sí mismo', Diccionario de San Petersburgo. El texto de Kâ<i>n</i>va tiene la lectura probablemente preferible: atha ala<i>m</i>gusha<i>m</i> <i>s</i>ritam eva parit<i>ri</i>ndanti; luego pinchan (con el asador) lo que ya está suficientemente cocido.
 
 [^543]: 216:1 Esta es una traducción dudosa, de acuerdo con la sugerencia del Dic. de San Petersburgo de que «dhâmno-dhâmna<i>h</i>» en este pasaje es una antigua corrupción de «dâmno-dâmna<i>h</i>». El Taitt. S. tiene la misma lectura. Sâya<i>n</i>a y Mahîdhara la interpretan en el sentido de «¡líbranos de todo lugar (infestado de enemigos o atemorizado por tu soga)!». ¿Podría «dhâmno-dhâmna<i>h</i>» interpretarse como genérico de «râ<i>g</i>an»?
 
-[^544]: 216:2 ? O, «Que digan (es decir, mencionen la palabra) “Vacas”, —que juremos por “Varu<i>n</i>a”,— ¡líbranos de ello, oh Varu<i>n</i>a!». Si la mención de palabras para vaca (así como el uso en vano del nombre de Varu<i>n</i>a) se pretende censurar en este pasaje, puede compararse con <i>S</i>at. Br. II, 2, 4, 14 (parte i, pág. 326, nota). Sin embargo, parece dudoso que el autor del Brâhma<i>n</i>a usara el término aghnyâ<i>h</i> como referencia a «vacas» en este caso. El Dict. de San Petersburgo, sv <i>s</i>ap, traduce: «cuando juramos por el nombre de Varun». En lugar de «Yad âhur aghnyâ iti varu<i>n</i>eti <i>s</i>apâmahe», el Taitt. S (I, 3, 11, 1) dice «Yad âpo aghniyâ varu<i>n</i>eti <i>s</i>apâmahe», lo que Sâya<i>n</i>a explica con: «¡Oh, aguas!, ¡oh, Aghnyâ<i>h</i> (inviolables, vacas, aguas), oh Varun!, así te suplicamos (que nos alejes del mal)». añadiendo un pasaje en el sentido de que quien se acerca a su superior (dirigiéndose a él) por su nombre, le desea 'pu<i>n</i>yârti'; mientras que en el presente mantra, sostiene que no hay mero 'tomar el nombre de Varu<i>n</i>a en vano'.
+[^544]: 216:2 ? O, «Que digan (es decir, mencionen la palabra) «Vacas», —que juremos por «Varu<i>n</i>a»,— ¡líbranos de ello, oh Varu<i>n</i>a!». Si la mención de palabras para vaca (así como el uso en vano del nombre de Varu<i>n</i>a) se pretende censurar en este pasaje, puede compararse con <i>S</i>at. Br. II, 2, 4, 14 (parte i, pág. 326, nota). Sin embargo, parece dudoso que el autor del Brâhma<i>n</i>a usara el término aghnyâ<i>h</i> como referencia a «vacas» en este caso. El Dict. de San Petersburgo, sv <i>s</i>ap, traduce: «cuando juramos por el nombre de Varun». En lugar de «Yad âhur aghnyâ iti varu<i>n</i>eti <i>s</i>apâmahe», el Taitt. S (I, 3, 11, 1) dice «Yad âpo aghniyâ varu<i>n</i>eti <i>s</i>apâmahe», lo que Sâya<i>n</i>a explica con: «¡Oh, aguas!, ¡oh, Aghnyâ<i>h</i> (inviolables, vacas, aguas), oh Varun!, así te suplicamos (que nos alejes del mal)». añadiendo un pasaje en el sentido de que quien se acerca a su superior (dirigiéndose a él) por su nombre, le desea 'pu<i>n</i>yârti'; mientras que en el presente mantra, sostiene que no hay mero 'tomar el nombre de Varu<i>n</i>a en vano'.
 
 [^545]: 217:1 Es decir, el sacrificador (o la víctima que representa al sacrificador).
 
 [^546]: 217:2 Según el texto de Kâ<i>n</i>va y Kâty. VI, 10, 5 ellos (los sacerdotes y el sacrificador) tocan el agua mientras murmuran la fórmula: 'De cada atadura... y a quienes odiamos'.
 
-[^547]: 217:3 Véase [IV, 5, 1, 5](Book_2_4_5#v4_5_1_5) seq.
+[^547]: 217:3 Véase [IV, 5, 1, 5](../Book_2_4_5#v4_5_1_5) seq.

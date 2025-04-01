@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 SEGUNDO MUNDO TAMBIÉN CONOCIDO COMO.
 
@@ -59,7 +59,7 @@ SEGUNDO MUNDO TAMBIÉN CONOCIDO COMO.
 10\. La Persona es todo esto: sacrificio, penitencia, Brahman, el supremo inmortal. Quien conoce esto oculto en la cueva del corazón, ¡oh amigo!, disipa el nudo de la ignorancia aquí en la tierra.
 
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -77,7 +77,7 @@ SEGUNDO MUNDO TAMBIÉN CONOCIDO COMO.
 
 7\. El que todo lo entiende y todo lo sabe, aquel a quien pertenece toda esta gloria del mundo, el
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 El Ser se sitúa en el éter, en la ciudad celestial de Brahman (el corazón). Asume la naturaleza de la mente y se convierte en el guía del cuerpo de los sentidos. Subsiste con alimento, en estrecha proximidad al corazón. Los sabios que comprenden esto contemplan al Inmortal que brilla pleno de dicha.
 

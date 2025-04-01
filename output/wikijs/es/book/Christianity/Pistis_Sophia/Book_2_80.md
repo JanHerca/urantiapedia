@@ -64,7 +64,7 @@ Y Mateo respondió y dijo: "En cuanto a la interpretación del cántico que Pist
 
 11. Has acumulado sobre ellos tus riquezas y se han convertido en una morada santa.
 
-<span id="p132">[<sup><small>pág. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Esta es, pues, mi Señor, la solución del cántico que Pistis Sophia ha pronunciado. Escúchame, pues, para que pueda decirlo con franqueza.
 
@@ -72,43 +72,43 @@ La palabra que tu poder pronunció a través de Salomón: «Quien me condujo des
 
 “Y la palabra que tu poder ha hablado a través de Salomón: '¿Quién ha tomado a aquellos que estaban en medio y me ha enseñado acerca de ellos?', es la palabra que Pistis Sophis ha hablado: 'Y nuevamente a través de tu mandamiento has hecho que el asunto en medio de mi poder sea purificado, y lo he visto.'
 
-“Y además, la palabra que tu poder ha hablado a través de Salomón: “Quien ha dispersado a mis enemigos y a mis adversarios”, es la palabra que Pistis Sophia ha pronunciado: “Has dispersado lejos de mí todas las emanaciones de Obstinado que me constreñían y me eran hostiles”.
+«Y además, la palabra que tu poder ha hablado a través de Salomón: “Quien ha dispersado a mis enemigos y a mis adversarios», es la palabra que Pistis Sophia ha pronunciado: «Has dispersado lejos de mí todas las emanaciones de Obstinado que me constreñían y me eran hostiles».
 
-“Y la palabra que tu poder ha dicho: “Quien me ha otorgado sabiduría sobre las ataduras, para desatarlas”, es la palabra que Pistis Sophia ha dicho: “Y me ha otorgado sabiduría para liberarme de las ataduras de esas emanaciones”.
+«Y la palabra que tu poder ha dicho: “Quien me ha otorgado sabiduría sobre las ataduras, para desatarlas», es la palabra que Pistis Sophia ha dicho: «Y me ha otorgado sabiduría para liberarme de las ataduras de esas emanaciones».
 
 Y la palabra que tu poder ha pronunciado: «Quien ha herido **(158)** a la serpiente de siete cabezas con mis manos, me ha elevado por encima de su raíz para extinguir su semilla», es la palabra que Pistis Sophia ha pronunciado: «Y has herido a la serpiente de siete cabezas con mis manos y me has elevado por encima de su materia. La has destruido, para que su semilla no pueda brotar de ahora en adelante».
 
-“Y la palabra que tu poder ha dicho: “Y tú estabas conmigo, ayudándome”, es la palabra que Pistis Sophia ha dicho: “Y tú estabas conmigo, dándome poder en todo esto”.
+«Y la palabra que tu poder ha dicho: “Y tú estabas conmigo, ayudándome», es la palabra que Pistis Sophia ha dicho: «Y tú estabas conmigo, dándome poder en todo esto».
 
-“Y la palabra que tu poder ha dicho: “Y tu nombre me rodeó en todas sus regiones”, es la palabra que Pistis Sophia ha dicho: “Y tu luz me rodeó en todas sus regiones”.
+«Y la palabra que tu poder ha dicho: “Y tu nombre me rodeó en todas sus regiones», es la palabra que Pistis Sophia ha dicho: «Y tu luz me rodeó en todas sus regiones».
 
-“Y la palabra que tu poder ha dicho: “Y tu diestra ha destruido el veneno de los calumniadores”, es la palabra que Pistis Sophia ha dicho: “Y a través de ti las emanaciones de Obstinado se volvieron impotentes, porque les has quitado la luz de su poder”.
+«Y la palabra que tu poder ha dicho: “Y tu diestra ha destruido el veneno de los calumniadores», es la palabra que Pistis Sophia ha dicho: «Y a través de ti las emanaciones de Obstinado se volvieron impotentes, porque les has quitado la luz de su poder».
 
 “Y la palabra que tu poder ha hablado:
 
 'Tu mano ha despejado el camino para tus fieles', es la palabra que Pistis Sophia ha pronunciado: 'Has enderezado mi camino para sacarme del caos, porque he tenido fe en ti'.
 
-“Y la palabra que tu poder ha dicho: “Los has liberado de las tumbas y los has sacado de en medio de los cadáveres”, es la palabra que Pistis Sophia ha dicho: “Me has liberado del caos y me has sacado de las tinieblas materiales, es decir, **(159)** de las emanaciones oscuras que están en el caos, de las cuales has tomado su luz”.
+«Y la palabra que tu poder ha dicho: “Los has liberado de las tumbas y los has sacado de en medio de los cadáveres», es la palabra que Pistis Sophia ha dicho: «Me has liberado del caos y me has sacado de las tinieblas materiales, es decir, **(159)** de las emanaciones oscuras que están en el caos, de las cuales has tomado su luz».
 
-<span id="p134">[<sup><small>pág. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
-“Y la palabra que tu poder ha dicho: “Tomaste huesos muertos y los revestiste de un cuerpo, y a quienes no se movían, les diste actividad de vida” —es la palabra que Pistis Sophia ha dicho: “Tomaste todos mis poderes en los que no había luz, y los infundiste en luz purificada, y a todos mis miembros, en los que no se movía luz, les diste luz de vida desde tu Altura”.
+«Y la palabra que tu poder ha dicho: “Tomaste huesos muertos y los revestiste de un cuerpo, y a quienes no se movían, les diste actividad de vida» —es la palabra que Pistis Sophia ha dicho: «Tomaste todos mis poderes en los que no había luz, y los infundiste en luz purificada, y a todos mis miembros, en los que no se movía luz, les diste luz de vida desde tu Altura».
 
 “Y la palabra que tu poder ha hablado:
 
 'Tu camino se ha vuelto indestructible, y tu rostro también', es la palabra que Pistis Sophia ha pronunciado: 'Y has enderezado tu camino para mí, y la luz de tu rostro se ha vuelto para mí vida indestructible'.
 
-“Y la palabra que tu poder ha dicho: “Has conducido a tu eón por encima de la decadencia, para que todo pudiera liberarse y renovarse”, es la palabra que Pistis Sophia ha dicho: “Me has conducido a mí, tu poder, por encima del caos y de la decadencia, para que todas las materias en esa región puedan liberarse y todos mis poderes renovarse en la Luz”.
+«Y la palabra que tu poder ha dicho: “Has conducido a tu eón por encima de la decadencia, para que todo pudiera liberarse y renovarse», es la palabra que Pistis Sophia ha dicho: «Me has conducido a mí, tu poder, por encima del caos y de la decadencia, para que todas las materias en esa región puedan liberarse y todos mis poderes renovarse en la Luz».
 
-“Y la palabra que tu poder ha pronunciado: “Y tu luz se ha convertido en fundamento para todos ellos”, es la palabra que Pistis Sophia ha pronunciado: “Y tu luz ha estado en todos ellos”. **(160)**
+«Y la palabra que tu poder ha pronunciado: “Y tu luz se ha convertido en fundamento para todos ellos», es la palabra que Pistis Sophia ha pronunciado: «Y tu luz ha estado en todos ellos». **(160)**
 
 “Y la palabra que tu poder de luz ha hablado a través de Salomón: 'Has puesto tus riquezas sobre él, y se ha convertido en una morada santa', es la palabra que Pistis Sophia ha hablado: 'Has mantenido la luz de tu corriente sobre mí, y me he convertido en una luz purificada'.
 
-“Ésta es entonces, mi Señor, la solución del cántico que Pistis Sophia ha pronunciado”.
+«Ésta es entonces, mi Señor, la solución del cántico que Pistis Sophia ha pronunciado».
 
 ## CAPÍTULO 72
 
-<span id="p135">[<sup><small>pág. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Sucedió entonces que, cuando el Primer Misterio oyó a Mateo pronunciar estas palabras, dijo: «Bien dicho, Mateo, y con gran acierto, amado. Esta es la solución del cántico que Pistis Sophia ha pronunciado».
 
@@ -122,15 +122,15 @@ Y el Primer Misterio continuó nuevamente y dijo:
 
 3. Oh Luz, tú has sacado mi poder del caos; me has salvado de quienes han descendido a la oscuridad.
 
-“Estas palabras las ha pronunciado nuevamente Pistis Sophia. Ahora, por tanto, aquella mente cuya mente se haya vuelto comprensiva, comprendiendo las palabras que Pistis Sophia ha pronunciado, que se presente y exponga su solución”.
+«Estas palabras las ha pronunciado nuevamente Pistis Sophia. Ahora, por tanto, aquella mente cuya mente se haya vuelto comprensiva, comprendiendo las palabras que Pistis Sophia ha pronunciado, que se presente y exponga su solución».
 
 <small>María tiene miedo de Pedro.</small>
 
-Sucedió entonces que, cuando el Primer Misterio terminó de decir estas palabras a los discípulos, María se adelantó y dijo: “Señor mío, mi mente **(161)** siempre está comprensiva, para en todo momento presentarse y exponer la solución de las palabras que ha pronunciado; pero tengo miedo de Pedro, porque me amenazó y odia nuestro sexo”.
+Sucedió entonces que, cuando el Primer Misterio terminó de decir estas palabras a los discípulos, María se adelantó y dijo: «Señor mío, mi mente **(161)** siempre está comprensiva, para en todo momento presentarse y exponer la solución de las palabras que ha pronunciado; pero tengo miedo de Pedro, porque me amenazó y odia nuestro sexo».
 
 Y al decir esto, el Primer Misterio le dijo: «Todo aquel que, lleno del espíritu de luz, se presente y exponga la solución de lo que digo, nadie podrá impedírselo. Ahora, pues, oh María, expón la solución de las palabras que Pistis Sophia ha pronunciado».
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Entonces María respondió y dijo al Primer Misterio en medio de los discípulos: «Mi Señor, acerca de la solución de las palabras que Pistis Sophia ha pronunciado, así ha profetizado tu poder de luz en el pasado a través de David:
 
@@ -164,7 +164,7 @@ Aconteció entonces que, cuando el Primer Misterio hubo terminado de decir estas
 
 Y aconteció que cuando el Primer Misterio oyó a Marta decir estas palabras, dijo: «Bien dicho, y finamente, Marta».
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Y el Primer Misterio continuó de nuevo y dijo a los discípulos: "Pistis Sophia continuó de nuevo en el canto y dijo:
 
@@ -180,7 +180,7 @@ Y el Primer Misterio continuó de nuevo y dijo a los discípulos: "Pistis Sophia
 
 “'5. Quien te ha llenado de luz purificada; y tu comienzo se renovará como un invisible de la Altura.'
 
-“Con estas palabras Pistis Sophia cantó alabanzas, porque fue salvada y recordó todas las cosas que yo le había hecho”.
+«Con estas palabras Pistis Sophia cantó alabanzas, porque fue salvada y recordó todas las cosas que yo le había hecho».
 
 ## CAPÍTULO 74
 
@@ -194,7 +194,7 @@ María se adelantó de nuevo y dijo: «Mi Señor, acerca de estas palabras con l
 
 2. Alaba, alma mía, al Señor y no olvides ninguno de sus beneficios.
 
-<span id="p138">[<sup><small>pág. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 3. Él es quien perdona todas tus iniquidades, y sana todas tus dolencias;
 
@@ -202,7 +202,7 @@ María se adelantó de nuevo y dijo: «Mi Señor, acerca de estas palabras con l
 
 “'5. Quien sacia tu anhelo con cosas buenas; tu juventud se renovará como la del águila.'
 
-“Es decir: Sofía será como los invisibles que están en la Altura; por eso ha dicho ‘como un águila’, porque la morada del águila está en la altura, y los **(164)** invisibles también están en la Altura; es decir: Pistis Sofía brillará como los invisibles, como lo fue desde su principio.”
+«Es decir: Sofía será como los invisibles que están en la Altura; por eso ha dicho ‘como un águila’, porque la morada del águila está en la altura, y los **(164)** invisibles también están en la Altura; es decir: Pistis Sofía brillará como los invisibles, como lo fue desde su principio.»
 
 Aconteció entonces que cuando el Primer Misterio oyó a María decir estas palabras, dijo: «Bien dicho, María, bendita».
 
@@ -232,7 +232,7 @@ Andrés se adelantó y dijo: «Mi Señor, esto se refiere a lo que tu poder de l
 
 3. Ha puesto en mi boca un cántico nuevo, un cántico de alabanza para nuestro Dios. Muchos lo verán, temerán y pondrán su esperanza en el Señor.
 
-Sucedió entonces que, cuando Andrés hubo expuesto el pensamiento de Pistis Sophia, el Primer Misterio le dijo: “Bien dicho, Andrés, bendito”.
+Sucedió entonces que, cuando Andrés hubo expuesto el pensamiento de Pistis Sophia, el Primer Misterio le dijo: «Bien dicho, Andrés, bendito».
 
 ## CAPÍTULO 75
 
@@ -254,9 +254,9 @@ Y después le dije de nuevo: «Escucha, que **(167)** puedo hablarte sobre el ti
 
 <small>Cómo sabrá Sofía que ha llegado el momento de su liberación final.</small>
 
-“Y yo respondí y le dije: “Si ves la puerta del Tesoro de la Gran Luz que se abre después del decimotercer Aeón, y esa es la izquierda [la izquierda], cuando esa puerta se abre, entonces se completan los tres tiempos”.
+«Y yo respondí y le dije: “Si ves la puerta del Tesoro de la Gran Luz que se abre después del decimotercer Aeón, y esa es la izquierda [la izquierda], cuando esa puerta se abre, entonces se completan los tres tiempos».
 
-“Pistis Sophia respondió de nuevo y dijo: “Oh Luz, ¿cómo sabré, pues estoy en esta región, que esa puerta está abierta?”
+«Pistis Sophia respondió de nuevo y dijo: “Oh Luz, ¿cómo sabré, pues estoy en esta región, que esa puerta está abierta?»
 
 <small>Lo que sucederá en ese momento.</small>
 
@@ -290,7 +290,7 @@ Sucedió entonces, cuando perseguían a Pistis Sophia, que ella gritó de nuevo 
 
 6. Ahora pues, oh Luz, abrázame en tu ira y eleva tu poder sobre mis enemigos que se han alzado contra mí hasta el final.
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 7. Vivíme pronto, como me has dicho: yo te ayudaré.
 
@@ -334,7 +334,7 @@ Y el Primer Misterio continuó de nuevo y dijo a los discípulos: «Sucedió ent
 
 Y cuando Pistis Sophia dijo esto, miró la región de Adamas y vio la región oscura y caótica **(174)** que él había creado, y vio también las dos emanaciones oscuras y extremadamente violentas que Adamas había emanado, para apoderarse de Pistis Sophia y arrojarla al caos que él había creado, y constreñirla y acosarla en esa región, hasta que le arrebataran su luz. Sucedió entonces que, cuando Pistis Sophia vio esas dos emanaciones oscuras y la región oscura que Adamas había creado, temió y clamó a la Luz, diciendo:
 
-<span id="p147">[<sup><small>pág. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 <small>Sofía vuelve a cantar a la Luz.</small>
 
@@ -352,13 +352,13 @@ Estas son las palabras que Pistis Sophia pronunció en su canción. Ahora bien, 
 
 Marta se adelantó de nuevo y dijo: «Señor mío, **(175)** estoy sobria de espíritu y entiendo las palabras que dices. Ahora, pues, dame la orden de exponer su solución abiertamente».
 
-Y el Primer Misterio respondió y dijo a Marta: “Te doy el mandamiento, Marta, de exponer la solución de las palabras que Pistis Sophia ha pronunciado en su canción”.
+Y el Primer Misterio respondió y dijo a Marta: «Te doy el mandamiento, Marta, de exponer la solución de las palabras que Pistis Sophia ha pronunciado en su canción».
 
 Y Marta respondió y dijo: "Señor mío, estas son las palabras que tu poder de luz profetizó antiguamente por medio de David en el Salmo séptimo, diciendo:
 
 12. Dios es justo y vindicador, fuerte y paciente, que no desata su ira todos los días.
 
-<span id="p148">[<sup><small>pág. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 <small>Marta interpreta las palabras de Sofía del Salmo 7.</small>
 
@@ -372,7 +372,7 @@ Y Marta respondió y dijo: "Señor mío, estas son las palabras que tu poder de 
 
 17. Su maldad recaerá sobre su propia cabeza, y su injusticia recaerá sobre su coronilla.
 
-Cuando Marta hubo dicho esto, el Primer Misterio, que mira hacia afuera, le dijo: “Bien dicho, bienaventurada Marta”.
+Cuando Marta hubo dicho esto, el Primer Misterio, que mira hacia afuera, le dijo: «Bien dicho, bienaventurada Marta».
 
 <figure class="table chapter-navigator">
   <table>

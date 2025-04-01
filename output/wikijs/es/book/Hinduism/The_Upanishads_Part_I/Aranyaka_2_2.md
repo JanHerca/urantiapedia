@@ -81,7 +81,7 @@ SEGUNDO ADHYÂYA [^525].
 4\. Indra le dijo: «Rishi, has llegado a mi encantador hogar. Te concedo una bendición». Visvâmitra dijo: «Que pueda conocerte». Indra dijo: «Soy Prana (aliento), oh Rishi, tú eres Prana, todo es Prana. Porque Prana brilla como el sol, y yo impregno todas las regiones bajo esa forma. Este alimento mío (el himno) es mi amigo y mi sostén (dakshina). Este es el alimento preparado por Visvâmitra. Yo soy, en verdad, quien brilla (el sol).»
 
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 

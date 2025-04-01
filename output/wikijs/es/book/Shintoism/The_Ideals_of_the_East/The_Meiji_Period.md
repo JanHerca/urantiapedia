@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 1850 HASTA LA ACTUALIDAD
 
@@ -86,13 +86,13 @@ Al igual que los grandes días de las pequeñas repúblicas italianas, cuando ca
 
 El salvaje torbellino del individualismo, que siempre busca hacer de su tormentosa voluntad su ley, ahora desgarrando los cielos en sus agonías de destrucción, nuevamente arremetiendo contra sí mismo con furia ante cualquier nuevo vestigio de religión y política occidental, habría hecho pedazos a la nación en su agitación hirviente si la sólida roca de la lealtad adamantina no hubiera formado su base inamovible.
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 La extraña tenacidad de la raza, nutrida a la sombra de una soberanía inquebrantable desde sus inicios, esa misma tenacidad que preserva los ideales chinos e indios en toda su pureza entre nosotros, incluso donde hace tiempo fueron desechados por las manos que los crearon; esa tenacidad que se deleita en la delicadeza de la cultura Fujiwara y se deleita al mismo tiempo en el ardor marcial de Kamakura; que tolera la suntuosa pompa de Toyotomi, aun cuando ama la austera pureza de los Ashikaga; mantiene intacto al Japón de hoy, a pesar de esta repentina e incomprensible afluencia de ideas occidentales. Permanecer fiel a sí misma, a pesar del nuevo cariz que la vida de una nación moderna la obliga a asumir, es, naturalmente, el imperativo fundamental de esa idea Adwaita en la que fue instruida por sus antepasados. Al eclecticismo instintivo de la cultura oriental debe la madurez de juicio que la impulsó a seleccionar de diversas fuentes <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> los elementos de la civilización europea contemporánea que necesitaba. La Guerra de China, que reveló nuestra supremacía en aguas orientales y que, sin embargo, nos ha acercado más que nunca en una amistad mutua, fue una consecuencia natural del nuevo vigor nacional, que ha estado trabajando por expresarse durante siglo y medio. También fue prevista en todos sus aspectos por la notable perspicacia de los estadistas más veteranos de la época, y ahora nos despierta a los grandes problemas y responsabilidades que nos aguardan como la nueva potencia asiática. No solo retomar nuestros propios ideales del pasado, sino también sentir y reavivar la vida latente de la antigua unidad asiática, se convierte en nuestra misión. Los tristes problemas de la sociedad occidental nos impulsan a buscar una solución superior en la religión india y la ética china. La propia tendencia de Europa, en la filosofía alemana y en la espiritualidad rusa, en sus últimos desarrollos, hacia el Este, nos ayuda a recuperar esas visiones más sutiles y nobles de la vida humana que acercaron a estas naciones a las estrellas en la noche de su olvido material.
 
 La doble naturaleza de la Restauración Meiji se manifiesta en el campo del arte, que lucha, al igual que la conciencia política, por alcanzar su máximo esplendor. El espíritu de indagación histórica y el resurgimiento de las letras antiguas llevaron al arte de vuelta a las escuelas pre-Tokugawa, trascendiendo la noción democrática popular del Ukioye y retornando de inmediato a los métodos de los Tosas en el heroico período Kamakura. La pintura histórica, enriquecida con material por la investigación arqueológica de los eruditos, se puso de moda. Tameyasu y To-tsugen fueron los pioneros de este resurgimiento Kamakura, que se inspiró en la escuela naturalista de Kioto a través de las obras de Yosai, e incluso se reflejó en la popular obra de Hokusai. Un movimiento paralelo se produjo simultáneamente en la ficción y el teatro.
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 La caída de la santidad de los monasterios budistas y la dispersión de los tesoros de los daimyos, debido a esa apatía hacia el arte que lo consideraba un lujo, fatal en un momento de supremo sacrificio patriótico, abrió la mente artística a una faceta hasta entonces desconocida del arte antiguo, tal como las obras maestras grecorromanas se revelaron a los primeros italianos del Renacimiento. Así, el primer movimiento reconstructivo del período Meiji fue la preservación e imitación de los antiguos maestros, liderado por la Asociación de Arte Bijitsu Kyo-Kai. Esta sociedad, compuesta por la aristocracia y los entendidos, inauguraba exposiciones anuales de antiguas obras maestras y organizaba salones competitivos con un espíritu de conservadurismo que, naturalmente, cae gradualmente en el formalismo y la reiteración sin sentido. Por otro lado, ese estudio del arte realista occidental que había ganado terreno lentamente bajo el difunto Tokugawa, un estudio en el que los intentos <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> de Shibakokan y Ayodo son notables, y ahora han encontrado una oportunidad para un crecimiento sin restricciones. Ese afán y profunda admiración por el conocimiento occidental, que confundía belleza con ciencia y cultura con industria, no dudó en acoger los cromos más insignificantes como ejemplos de grandes ideales artísticos.
 
@@ -116,13 +116,13 @@ La última obra maestra de Kano Hogai representa a Kwannon, la Madre Universal, 
 
 La imagen de Chokaro de Gaho combina el estilo vigoroso del Sesshu con la amplitud del Sotatsu. Retoma y reexpresa la obsoleta idea taoísta del mago que observa con una sonrisa melancólica al burro que acaba de proyectar desde su calabaza, una imagen de la actitud lúdica del fatalismo.
 
-La “Pira Funeraria de Buda” de Kanzan <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> nos evoca la grandiosa composición del período Heian, enriquecida por los contornos fuertemente acentuados del Sung temprano y un modelado a la altura de los artistas italianos. Representa a los grandes Arhats y Bodhisattvas alrededor de la pira ardiente, observando con misterioso asombro la llama etérea que se enciende sobre ese ataúd místico, destinado un día a llenar el mundo con su luz de suprema renuncia.
+La «Pira Funeraria de Buda» de Kanzan <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> nos evoca la grandiosa composición del período Heian, enriquecida por los contornos fuertemente acentuados del Sung temprano y un modelado a la altura de los artistas italianos. Representa a los grandes Arhats y Bodhisattvas alrededor de la pira ardiente, observando con misterioso asombro la llama etérea que se enciende sobre ese ataúd místico, destinado un día a llenar el mundo con su luz de suprema renuncia.
 
-Taikan trae al campo sus imágenes salvajes y concepciones tempestuosas, como se muestra en su “Kutsugen Wandering on the Barren Hills” entre narcisos arrastrados por el viento —la flor de la pureza silenciosa—, sintiendo la furiosa tormenta que se acumula en su alma.
+Taikan trae al campo sus imágenes salvajes y concepciones tempestuosas, como se muestra en su «Kutsugen Wandering on the Barren Hills» entre narcisos arrastrados por el viento —la flor de la pureza silenciosa—, sintiendo la furiosa tormenta que se acumula en su alma.
 
 Los héroes épicos de Kamakura se representan hoy con una visión más profunda de la naturaleza humana. La mitología se interpreta en su significado solar, y las antiguas baladas, tanto de China como de Japón, nos abren un mundo hasta ahora inexplorado.
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 La escultura y otras artes siguen de cerca este camino. El maravilloso vidriado de Kozan no solo rescata los secretos perdidos de la cerámica china primitiva, sino que crea nuevos sueños de color, al estilo de Korin.
 

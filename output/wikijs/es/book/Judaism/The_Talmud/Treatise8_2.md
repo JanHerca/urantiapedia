@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 1\. «¿Cuál es el orden de los días de ayuno?» «Se saca el arca que contiene los rollos de la Ley a la vía pública de la ciudad, y se ponen cenizas quemadas sobre la tapa del arca, sobre la cabeza del príncipe y sobre la del presidente del tribunal, y cada uno toma y se pone cenizas sobre su propia cabeza». El más anciano de ellos dice con palabras conmovedoras: «Hermanos, no se dice de los hombres de Nínive: 'Y Dios vio su cilicio y su ayuno', [^318] sino: 'Dios vio sus obras, que se volvieron de su mal camino'. Y en la tradición (del profeta) dice [^319]: 'Rasguen sus corazones y no sus vestiduras, y vuélvanse al Señor su Dios'».
 

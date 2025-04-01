@@ -69,7 +69,7 @@ El nacimiento conlleva dolor[^6], la decadencia es dolorosa, la enfermedad es do
 
 'En verdad, es esa sed (o anhelo), que causa la renovación de la existencia, acompañada por el deleite sensual, buscando satisfacción ahora aquí, ahora allí, es decir, el anhelo por la gratificación de las pasiones, o el anhelo por una vida (futura), o el anhelo por el éxito (en esta vida presente)[^8].
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 'Ésta es entonces, oh Bhikkhus, la noble verdad acerca del origen del sufrimiento.
 
@@ -81,7 +81,7 @@ El nacimiento conlleva dolor[^6], la decadencia es dolorosa, la enfermedad es do
 
 8\. «Ahora bien, esta, oh bhikkhus, es la noble verdad acerca del camino[^9] que conduce a la destrucción del sufrimiento. ¡En verdad! Es este noble óctuple sendero[^10]; es decir:
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Vistas correctas;  
 Aspiraciones correctas;  
@@ -146,7 +146,7 @@ y la contemplación correcta.
 
 'En Benâres, en la ermita de Migadâya, el Bendito ha puesto en marcha la rueda suprema del imperio de la Verdad, esa rueda que ni Sama<i>n</i>a ni Brâhman, ni ningún dios, ni ningún Brahma ni Mâra, ni nadie en el universo, podrá jamás hacerla retroceder[^14]!'
 
-<span id="p155">[<sup><small>pág. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 28\. Y así, en un instante, un segundo, un momento, el sonido se elevó hasta el mundo de Brahmâ: y este gran sistema de diez mil mundos se estremeció y se estremeció violentamente, y una luz brillante e inconmensurable apareció en el universo, ¡más allá incluso del poder de los dioses!
 
@@ -158,7 +158,7 @@ Fin del Dhamma-kakka-ppavattana-sutta.
 
 
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -193,7 +193,7 @@ Fin del Dhamma-kakka-ppavattana-sutta.
 [^3]: Gamma, una palabra de la misma derivación y significado correspondiente a nuestra palabra 'pagano'.
 
 [^4]: El Tathagata es un epíteto de un Buda. Buddhaghosa, en el Samangala Vilâsinî, lo interpreta como que vino a la Tierra con los mismos propósitos, tras haber pasado por el mismo entrenamiento en vidas anteriores, que todos los supuestos Budas anteriores; y que, al llegar, todas sus acciones correspondieron a las de ellos.
-  “Evitar estos dos extremos” tal vez debería referirse al Tathagata, pero prefiero la traducción anterior.
+  «Evitar estos dos extremos» tal vez debería referirse al Tathagata, pero prefiero la traducción anterior.
 
 [^5]: Sobre las siguientes 'cuatro verdades' compárese Dhammapada, verso 191, y Mahâ-parinibbâna Sutta II, 2, 3, y IV, 7, 8.
 
@@ -229,8 +229,8 @@ Fin del Dhamma-kakka-ppavattana-sutta.
   Véase el Mahâ Samaya Sutta en 'Los siete Palis Suttas' de Grimblot y {nota pág. 155} compárese la nota del profesor Max Müller en 'Buddhaghosha's Parables', pág. xxxiii, y Hardy en el 'Manual del Budismo', pág. 25.
 
 [^15]: El Mahâ Vagga completa la narración de la siguiente manera: 'Y entonces el venerable A<i>ññ</i>âta-Konda<i>ññ</i>a habiendo visto la verdad, habiendo llegado a la verdad, habiendo conocido la verdad, habiendo penetrado la verdad, habiendo ido más allá de la duda, habiendo dejado de lado la incertidumbre, habiendo alcanzado la confianza y no dependiendo de nadie más que de sí mismo para el conocimiento de la religión del maestro, habló así al Bendito:
-  “¡Que pueda llegar a ser, oh mi Señor, un novicio bajo el Bendito, que pueda recibir la ordenación completa!”
+  «¡Que pueda llegar a ser, oh mi Señor, un novicio bajo el Bendito, que pueda recibir la ordenación completa!»
   «¡Bienvenido, hermano!», dijo el Bendito, «la verdad ha sido bien expuesta. ¡Practica la santidad hasta la completa supresión del dolor!».
   'Y esa fue la ordenación del Venerable.'
   Los otros cuatro, Vappa, Bhaddiya, Mahânâma y Assa<i>g</i>i, se convirtieron en los días siguientes, según las 'Historias de nacimientos budistas', pág. 113.
-  También se dice allí que “miríadas de ángeles (devas) se habían convertido simultáneamente con Kondanya”.
+  También se dice allí que «miríadas de ángeles (devas) se habían convertido simultáneamente con Kondanya».

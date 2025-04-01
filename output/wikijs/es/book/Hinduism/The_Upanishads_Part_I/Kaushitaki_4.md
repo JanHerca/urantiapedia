@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T22:56:43Z
 
 CUARTO ADHYÂYA [^753]
 
-1\. Antiguamente, existía Gârgya Bâlâki [^754], famoso por su gran lectura; pues se decía que vivía entre los U<i>s</i>înaras, entre los Satvat-Matsyas, los Kuru-Pañ<i>k</i>âlas y los Kâ<i>s</i>î-Videhas [^755]. Tras acudir a A<i>g</i>âta<i>s</i>atru, (el rey) de Kâ<i>s</i>î, le preguntó: «¿Quieres que te cuente quién es Brahman?» A<i>g</i>âta<i>s</i>atru le dijo: “Te damos mil (vacas) por ese discurso (tuyo), porque en verdad toda la gente huye, diciendo: “<i>Ganaka (el rey de Mithilâ) es nuestro padre (patrón)”.
+1\. Antiguamente, existía Gârgya Bâlâki [^754], famoso por su gran lectura; pues se decía que vivía entre los U<i>s</i>înaras, entre los Satvat-Matsyas, los Kuru-Pañ<i>k</i>âlas y los Kâ<i>s</i>î-Videhas [^755]. Tras acudir a A<i>g</i>âta<i>s</i>atru, (el rey) de Kâ<i>s</i>î, le preguntó: «¿Quieres que te cuente quién es Brahman?» A<i>g</i>âta<i>s</i>atru le dijo: «Te damos mil (vacas) por ese discurso (tuyo), porque en verdad toda la gente huye, diciendo: “<i>Ganaka (el rey de Mithilâ) es nuestro padre (patrón)».
 
 2. [^756] BRIHAD-ÂRA<i>N</i>YAKA-UPANISHAD.
 
@@ -196,7 +196,7 @@ Entonces llegó Bâlâki, con combustible en la mano, y dijo: «¿Puedo venir a 
 
 20\. Y Agâtaâsâtru le dijo: «El lugar donde esta persona durmió, dónde estuvo, de dónde regresó, es este: Las arterias del corazón llamadas Hita se extienden desde el corazón de la persona hacia el cuerpo circundante. Pequeñas como un cabello dividido mil veces, están llenas de un fluido fino de varios colores: blanco, negro, amarillo, rojo. En estas, la persona, cuando duerme, no ve sueños».
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Entonces se une solo con ese prâ<i>n</i>a. Entonces el habla le llega con todos los nombres, el ojo con todas las formas, el oído con todos los sonidos, la mente con todos los pensamientos. Y cuando despierta, entonces, como de un fuego ardiente, chispas salen en todas direcciones; así, desde ese ser, el prâ<i>n</i>as (habla, etc.) procede, cada uno hacia su lugar: del prâ<i>n</i>as los dioses, de los dioses los mundos. Y como una navaja podría encajarse en un estuche, o como el fuego en la chimenea (el ara<i>n</i>i en el altar), así también este ser consciente penetra en el ser del cuerpo (considera el cuerpo como él mismo) hasta los pelos y las uñas. Y los demás seres (como el habla, etc.) siguen a ese ser, como su gente sigue al dueño de la casa. Y así como el maestro se alimenta de su pueblo, es más, como su pueblo se alimenta del maestro, así también este ser consciente se alimenta de los demás seres, como un maestro de su pueblo, y los demás seres lo siguen, como su pueblo sigue al maestro. Mientras Indra no comprendió ese ser, los asuras lo conquistaron. Cuando lo comprendió, conquistó a los asuras y obtuvo la preeminencia entre todos los dioses, la soberanía y la supremacía. Y así también, quien conoce esto obtiene la preeminencia entre todos los seres, la soberanía y la supremacía; sí, quien conoce esto.
 

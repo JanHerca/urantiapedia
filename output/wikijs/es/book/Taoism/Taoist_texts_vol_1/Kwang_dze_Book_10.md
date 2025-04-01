@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:51Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_11">
-          <span class="pr-2">Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XI: Zâi Yû, o «Dejar ser y ejercer la tolerancia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 LIBRO X.
 
@@ -72,7 +72,7 @@ Hoy en día, sin embargo, la situación es tal que se ve a la gente estirando el
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_11">
-          <span class="pr-2">Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libro XI: Zâi Yû, o «Dejar ser y ejercer la tolerancia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -82,7 +82,7 @@ Hoy en día, sin embargo, la situación es tal que se ve a la gente estirando el
 
 ## Notas al pie
 
-[^406]: 281:1 Véase pág. [141](Acerca_de_la_Introducción#p141), [142](Acerca_de_la_Introducción#p142).
+[^406]: 281:1 Véase pág. [141](../Acerca_de_la_Introducción#p141), [142](../Acerca_de_la_Introducción#p142).
 
 [^407]: 282:1 El significado es claro; pero introducir los diversos términos geográficos complicaría la traducción. La conclusión resulta desconcertante.
 
@@ -110,19 +110,19 @@ Hoy en día, sin embargo, la situación es tal que se ve a la gente estirando el
 
 [^419]: 286:1 Véase el Tâo Teh King, cap. 36. El uso que hace nuestro autor de este término arroja luz sobre su significado.
 
-[^420]: 286:2 Nota [1](Kwang_dze_Book_2#fn98), pág. 186.
+[^420]: 286:2 Nota [1](../Kwang_dze_Book_2#fn98), pág. 186.
 
-[^421]: 286:3 Nota [2](Kwang_dze_Book_8#fn343), pág. 269.
+[^421]: 286:3 Nota [2](../Kwang_dze_Book_8#fn343), pág. 269.
 
 [^422]: 286:4 Un hábil fabricante de flechas del tiempo de Yâo, el Kung-kung del Shû, II, i, 21; V, xxii, 19.
 
 [^423]: 287:1 El Tâo Teh King, cap. 45.
 
-[^424]: 287:2 Nota [6](Kwang_dze_Book_8#fn347), pág. 269.
+[^424]: 287:2 Nota [6](../Kwang_dze_Book_8#fn347), pág. 269.
 
-[^425]: 287:3 Nota [7](Kwang_dze_Book_8#fn348), pág. 269.
+[^425]: 287:3 Nota [7](../Kwang_dze_Book_8#fn348), pág. 269.
 
-[^426]: 287:4 Nota [5](Kwang_dze_Book_7#fn324), pág. 261.
+[^426]: 287:4 Nota [5](../Kwang_dze_Book_7#fn324), pág. 261.
 
 [^427]: 287:5 De los doce nombres mencionados aquí, el lector probablemente esté familiarizado con los de Fû-hsî y Shan-näng, el primero y el segundo de los Tî en la cronología. Hsien-yüan es otro nombre para Hwang-Tî, el tercero de ellos. Kû-yung fue, posiblemente, un ministro de Hwang-Tî. Ho-hsü ya aparece en el Libro IV. De los otros siete, cinco aparecen entre los quince soberanos ubicados en el «Compendio pág. 288 de Historia» entre Fû-hsî y Shän-näng. Los dos restantes se pueden encontrar, supongo, en el Lû Shih de Lo Pî.
 

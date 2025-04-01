@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Conocí a un adivino que creía firmemente en la ciencia que profesaba. Había aprendido, como estudiante de la antigua filosofía china, a creer en la adivinación mucho antes de pensar en practicarla. Durante su juventud, estuvo al servicio de un acaudalado daimyô, pero posteriormente, como miles de otros samuráis, se vio en una situación desesperada por los cambios sociales y políticos de la era Meiji. Fue entonces cuando se convirtió en adivino, un _uranaiya_ itinerante, que viajaba a pie de pueblo en pueblo y regresaba a su casa rara vez más de una vez al año con el dinero de sus viajes. Como adivino tuvo bastante éxito, principalmente, creo, debido a su perfecta sinceridad y a una peculiar amabilidad que inspiraba confianza. Su sistema era el de los antiguos eruditos: usaba el libro conocido por los ingleses <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>líderes como el Yî-King,—también un conjunto de bloques de ébano que podían disponerse de tal manera que formaran cualquiera de los hexagramas chinos;—y siempre comenzaba su adivinación con una ferviente oración a los dioses.
 

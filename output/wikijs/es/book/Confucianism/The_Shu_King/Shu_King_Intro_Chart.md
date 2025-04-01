@@ -48,7 +48,7 @@ El lector puede fácilmente encontrar otras aplicaciones interesantes de la cart
 
 La siguiente tabla ha sido calculada para las posiciones aparentes de las estrellas principales en los años 2300 a. C., 1500 a. C., 1 y 1000 d. C.; excepto en un caso, se encontrará que confirma un cálculo similar realizado por Biot para la más antigua de estas fechas.
 
-<span id="p29">[<sup><small>pág. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Nombre de la Estrella. | Para | el | año | a.C. | 2300. | Para | el | año | a.C. | 1500. | Para | el | año | d.C. | 1. | Para | el | año | d.C. | 1000. | Para | el | año | d.C. | 1872.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -80,9 +80,9 @@ Antares | 12 | 24 | 0 | 98 | 16.5 | 13 | 6 | 50 | 102 | 37.4 | 14 | 30 | 11 | 10
 Fomalhaut | 18 | 16 | 30 | 134 | 54.0 | 19 | 15 | 43 | 133 | 57.8 | 20 | 58 | 57 | 129 | 17.4 | 22 | 1 | 5 | 124 | 46.9 | 22 | 50 | 34 | 120 | 16.1
 α Pegasi | 19 | 24 | 1 | 92 | 34.4 | 20 | 6 | 35 | 90 | 33.5 | 21 | 24 | 14 | 84 | 49.4 | 22 | 15 | 19 | 80 | 2.6 | 22 | 58 | 41 | 75 | 27.0
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
-[![Carta de las Estrellas Principales, principalmente Zodiacales, para la Época 2300 a.C.](tn/03000.jpg)
+[![Carta de las Estrellas Principales, principalmente Zodiacales, para la Época 2300 a.C.](../tn/03000.jpg)
 Haga clic para ampliar](/image/book/Confucianism/The_Shu_King/03000.jpg)
 Carta de las Estrellas Principales, principalmente Zodiacales, para la Época 2300 a.C.
 

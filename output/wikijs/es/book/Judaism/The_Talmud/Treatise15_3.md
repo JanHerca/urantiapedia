@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 1\. Todo leproso es legalmente impuro, excepto los extranjeros y los forasteros. Todos son elegibles para la inspección de la lepra, pero la declaración de impureza y de purificación corresponde al sacerdote. Se le dice «declara impuro», y él dice «impuro». «Declara limpio», y él dice «limpio». No se inspeccionan dos lepras a la vez, ni en una ni en dos personas; sino que el sacerdote inspecciona la primera, la cierra, la declara irritante o la libera legalmente; y luego pasa a la segunda. No cierran lo que ya está cerrado, ni pronuncian irritación, ni lo que se declara irritante; ni pronuncian irritación, ni lo que está cerrado. Pero al principio o al final de los siete días, el sacerdote puede cerrar al que está cerrado; A quien se le pronuncia "preocupado", el sacerdote puede pronunciar "preocupado". Puede encerrar y puede liberar. Puede declarar "preocupado" y puede declarar "libre".
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p244">[<sup><small>pág. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 ## TERCER ADHYÂYA [^748].
 

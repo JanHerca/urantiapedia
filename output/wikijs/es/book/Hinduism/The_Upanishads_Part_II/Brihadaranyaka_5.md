@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 QUINTO ADHYÂYA.
 
@@ -85,7 +85,7 @@ La divina voz del trueno repite lo mismo: Da Da Da, es decir: Sé sometido, Da, 
 1\. Dicen que el rayo es Brahman, porque el rayo (vidyut) se llama así por cortar (vidânât) [^562]. Quien sabe que el rayo es Brahman, a ese Brahman le corta el mal, pues el rayo es, en verdad, Brahman.
 
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 ## OCTAVO BRAHMANA.
 
@@ -104,7 +104,7 @@ La divina voz del trueno repite lo mismo: Da Da Da, es decir: Sé sometido, Da, 
 1\. Cuando la persona abandona este mundo, llega al viento. Entonces, el viento le abre paso, como el agujero de una rueda de carruaje, y a través de él asciende. Llega al sol. Entonces, el sol le abre paso, como el agujero de una lambara [^564], y a través de él asciende. Llega a la luna. Entonces, la luna le abre paso, como el agujero de un tambor, y a través de ella asciende, y llega al mundo donde no hay tristeza ni nieve [^565]. Allí mora años eternos.
 
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 ## UNDÉCIMO BRAHMANA.
 
@@ -131,7 +131,7 @@ La divina voz del trueno repite lo mismo: Da Da Da, es decir: Sé sometido, Da, 
 4\. A continuación sigue el Kshatra. En verdad, el aliento es el Kshatra, pues el aliento es Kshatra, es decir, el aliento lo protege (trâyate) de ser dañado (ksha<i>n</i>ito<i>h</i>). Quien conoce esto, obtiene Kshatra (poder), que no requiere protección; logra la unión y la unidad con Kshatra [^572].
 
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ## DECIMOCUARTO BRÂHMA<i>N</i>A.
 
@@ -160,7 +160,7 @@ La divina voz del trueno repite lo mismo: Da Da Da, es decir: Sé sometido, Da, 
 
 2\. ¡Oh Pûshan, único vidente, Yama (juez), Sûrya (sol), hijo de Pra<i>g</i>âpati [^588], extiende tus rayos y recógelos!
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 La luz que es tu forma más hermosa, la veo. Soy lo que él es (es decir, la persona en el sol).
 

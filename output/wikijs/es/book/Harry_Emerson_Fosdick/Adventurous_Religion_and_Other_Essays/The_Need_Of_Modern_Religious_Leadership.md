@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ## I
 
@@ -66,7 +66,7 @@ En el constante esfuerzo de las iglesias por persuadir a los hombres a creer en 
 
 Algunos creen en un Dios cruel que ha predestinado a sus hijos a una cámara de tortura sin esperanza, y así su propia crueldad hacia aquellos a quienes creen que Dios desaprueba se ve confirmada y fortalecida. Algunos creen en un Dios tribal que, con indulgencia, los ha elegido como favoritos, y así su propio provincialismo y nacionalismo estrecho se profundizan y santifican. Algunos creen en un Dios sectario que, como si fuera gentil, odia a los judíos, o, siendo judío, odia a los gentiles; que, como si fuera protestante, detesta a los católicos, o, como católico, detesta a los protestantes; que, incluso siendo presbiteriano, mira con recelo a los bautistas, o, como bautista, mira con recelo a los presbiterianos; y así, todo su provincianismo se convierte en algo sagrado.
 
-Gran parte de nuestra religión actual, con sus efectos amargos, recuerda la queja de un irlandés por su país dividido: “Si todos fuéramos ateos, podríamos vivir juntos como cristianos”.
+Gran parte de nuestra religión actual, con sus efectos amargos, recuerda la queja de un irlandés por su país dividido: «Si todos fuéramos ateos, podríamos vivir juntos como cristianos».
 
 Lo que el cristianismo hace por algunas personas es evidente. Las eleva a una gran altura. Las marcadas divisiones que en niveles inferiores parecen importantes se vuelven diáfanas, transparentes, a sus ojos. Su comunión con Cristo ilustra su Regla de Oro con luminosidad en sus vidas, y su Sermón de la Montaña se publica en su edición más atractiva, encuadernado en papel. El cristianismo hace a algunas personas generosas, compasivas, comprensivas, fraternales y amables. Sin embargo, lo que el cristianismo actual está haciendo por otras es demasiado claro. «Vamos a luchar por nuestras convicciones», dicen. «Lo que creemos es verdad y todo lo demás es mentira, y debemos luchar contra ello porque es mentira. Las líneas deben ser claras y definidas: sus convicciones por un lado, las nuestras por el otro».
 
@@ -88,13 +88,13 @@ De nuevo, necesitamos un tipo de cristianismo que se recomiende a la inteligenci
 
 En cada ámbito de la vida existen dos conjuntos de elementos: los que cambian continuamente y los que cambian poco o nada. Esto es evidente, por ejemplo, en nuestros hogares. Hemos cambiado nuestras viviendas de tiendas de campaña a edificios de apartamentos, nuestra ropa de taparrabos y túnicas vaporosas a trajes de saco y prendas modernas, nuestros sirvientes de esclavos a trabajadores libres, nuestras teorías de la poligamia a la monogamia. La vida humana siempre está en transición, y los elementos efímeros se desvanecen y desaparecen por todas partes. Sin embargo, en la vida familiar persisten elementos constantes que cambian poco con las circunstancias y la teoría cambiantes.
 
-¿Puede imaginarse un contraste mayor que el que existe entre el hogar de Isaac y el de Mark Twain? Isaac, un nómada beduino milenario, que vivía en tiendas, viajaba en camellos y soportaba las simplicidades y penurias de la vida en el desierto, y Mark Twain, un típico moderno, con sus viajes a distancia, sus títulos universitarios y su hogar abastecido con todos los recursos de la ciencia aplicada: el contraste es agudo y claro. Sin embargo, al comparar las historias de amor de ambos hombres, el juicio cambia. He aquí la memorable experiencia de Isaac: «Isaac la trajo a la tienda de su madre Sara, y tomó a Rebeca por mujer, y la amó». Y aquí está la historia de amor de Mark Twain, tal como él mismo la expresó: “Ningún hombre y mujer saben realmente lo que es el amor perfecto hasta que llevan casados ​​un cuarto de siglo”.
+¿Puede imaginarse un contraste mayor que el que existe entre el hogar de Isaac y el de Mark Twain? Isaac, un nómada beduino milenario, que vivía en tiendas, viajaba en camellos y soportaba las simplicidades y penurias de la vida en el desierto, y Mark Twain, un típico moderno, con sus viajes a distancia, sus títulos universitarios y su hogar abastecido con todos los recursos de la ciencia aplicada: el contraste es agudo y claro. Sin embargo, al comparar las historias de amor de ambos hombres, el juicio cambia. He aquí la memorable experiencia de Isaac: «Isaac la trajo a la tienda de su madre Sara, y tomó a Rebeca por mujer, y la amó». Y aquí está la historia de amor de Mark Twain, tal como él mismo la expresó: «Ningún hombre y mujer saben realmente lo que es el amor perfecto hasta que llevan casados ​​un cuarto de siglo».
 
 Las diferencias entre dos casas así son muchas y profundas, ¡pero cómo se desvanecen ante el resplandor de esa experiencia reproducible!
 
 Exactamente lo mismo ocurre en la religión. Sus vestiduras, sus moradas, sus formulaciones intelectuales, sus vehículos teológicos están ahora y siempre han estado en constante cambio. Pero en el corazón de la religión se encuentran las experiencias perdurables y reproducibles del alma, consigo misma, con sus semejantes, con su Dios. Estas experiencias unen los siglos cristianos; hacen de Pablo, Agustín, Francisco de Asís, Lutero, Wesley y Beecher nuestros hermanos espirituales a pesar de todas las diferencias que nos separan; pueden repetirse en todas las épocas, en todas las circunstancias, con diversas formulaciones intelectuales.
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Paul y Phillips Brooks eran muy diferentes en tiempo y pensamiento. Paul se formó bajo la tutela de Gamaliel, y Phillips Brooks en Harvard. Paul tenía tras de sí la formación del judaísmo ortodoxo, y Phillips Brooks, la del Boston puritano. Paul era ciudadano del siglo I y pensaba en términos de cosmología, sociología, escatología y teología de su tiempo, y Phillips Brooks era tan liberal, incluso para el siglo XIX, que fue odiado y combatido ferozmente por los clérigos conservadores de su época. Sin embargo, si Paul y Phillips Brooks se conocieran alguna vez, como quizás lo han hecho, encontrarían en común los elementos más profundos de sus vidas religiosas.
 
@@ -108,9 +108,9 @@ Se dará un gran paso adelante hacia una renovación de la religión efectiva en
 
 En Nottingham, Inglaterra, se encuentra la capilla wesleyana <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> donde William Booth, fundador del Ejército de Salvación, se convirtió. Una placa conmemorativa recuerda con claridad que allí este ilustre amigo de los desamparados recibió su bautismo de poder espiritual. Naturalmente, la capilla se ha convertido en un santuario de peregrinación para los líderes del Ejército de Salvación de todo el mundo. Un día, el ministro de la capilla encontró a un anciano hombre de color, con el uniforme del Ejército, de pie ante la placa con la mirada alzada.
 
-“¿Puede un hombre rezar aquí?” preguntó.
+«¿Puede un hombre rezar aquí?» preguntó.
 
-“Por supuesto”, fue la respuesta del ministro, “un hombre puede decir sus oraciones aquí”.
+«Por supuesto», fue la respuesta del ministro, «un hombre puede decir sus oraciones aquí».
 
 Y el viejo oficial del Ejército de Salvación se arrodilló y, levantando las manos ante la placa, oró: "¡Oh, Dios, hazlo de nuevo! ¡Hazlo de nuevo!"
 
@@ -122,7 +122,7 @@ Estas experiencias repetibles constituyen una religión vital, y emprender su el
 
 Por último, necesitamos un tipo de cristianismo que envíe a los hombres a aplicar valientemente sus principios cristianos a nuestro orden social, industrial e internacional, en lugar de apaciguarlos con un optimismo sentimental nacido de una falsa confianza en Dios.
 
-<span id="p295">[<sup><small>pág. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Una de las críticas más considerables a la religión contemporánea no proviene de escépticos, materialistas, rebeldes intelectuales, sino de devotos servidores del bien común que están tratando de hacer de este mundo un lugar más decente para que el hombre pueda vivir. Lo que a menudo dicen es que nuestro cristianismo actual está volviendo a algunas personas perezosas, inútiles, blandas, tontamente optimistas y, por lo tanto, socialmente apáticas, mientras que sin su religión podrían haber sido inteligentemente útiles.
 

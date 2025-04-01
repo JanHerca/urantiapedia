@@ -8,8 +8,52 @@ editor: markdown
 dateCreated: 2025-2-12T14:33:32Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Lewis Browne</text>		<text style="font-size:4px" x="61" y="125">Nueva York: The Macmillan Company, 1926</text>		<text style="font-size:9px" x="61" y="50">Este mundo</text>		<text style="font-size:9px" x="61" y="60">creyente: un simple</text>		<text style="font-size:9px" x="61" y="70">relato de las</text>		<text style="font-size:9px" x="61" y="80">grandes religiones</text>		<text style="font-size:9px" x="61" y="90">de la humanidad</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">ESTE MUNDO CREYENTE </span><br> Un relato sencillo de las<br> Grandes religiones de la humanidad<br> POR<br> <span class="text-h5">LEWIS BROWNE </span><br> Autor de <br> «MÁS EXTRAÑO QUE LA FICCIÓN: UNA BREVE HISTORIA DE LOS JUDÍOS»<br> <br> CON MÁS DE SETENTA <br> ILUSTRACIONES Y <br>MAPAS ANIMADOS DIBUJADOS POR EL AUTOR <br> <br> NUEVA YORK<br> THE MACMILLAN COMPANY<br>1930<br><br></p><br><p style="text-align:center;">Para<br><br>H. G. WELLS<br><br></p>
-## Índice
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Lewis Browne</text>
+		<text style="font-size:4px" x="61" y="125">Nueva York: The Macmillan Company, 1926</text>
+		<text style="font-size:9px" x="61" y="50">Este mundo</text>
+		<text style="font-size:9px" x="61" y="60">creyente: un simple</text>
+		<text style="font-size:9px" x="61" y="70">relato de las</text>
+		<text style="font-size:9px" x="61" y="80">grandes religiones</text>
+		<text style="font-size:9px" x="61" y="90">de la humanidad</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">ESTE MUNDO CREYENTE </span><br> 
+Un relato sencillo de las<br> «misterios»
+Grandes religiones de la humanidad<br> 
+POR<br> «muertos»
+<span class="text-h5">LEWIS BROWNE </span><br> 
+Autor de <br> 
+«MÁS EXTRAÑO QUE LA FICCIÓN: UNA BREVE HISTORIA DE LOS JUDÍOS»<br> 
+<br> 
+CON MÁS DE SETENTA <br> 
+ILUSTRACIONES Y <br>
+MAPAS ANIMADOS DIBUJADOS POR EL AUTOR <br> 
+<br> 
+NUEVA YORK<br> 
+THE MACMILLAN COMPANY<br>
+1930<br>
+<br>
+</p>
+
+<br>
+«Tres Verdades»
+<p style="text-align:center;">
+Para<br>
+<br>«profanación»
+H. G. WELLS<br>
+<br>
+</p>
+
+
+## Índice«resurrección»
 
 - [AGRADECIMIENTOS](/es/book/Lewis_Browne/This_Believing_World/Acknowledgments)
 - [PRÓLOGO](/es/book/Lewis_Browne/This_Believing_World/Prologue)

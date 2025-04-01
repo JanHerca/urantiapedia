@@ -32,28 +32,28 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
-Las ropas del héroe se habían desgastado durante los seis años que las había usado, y pensó: “Estaría bien si tuviera ropa nueva; de lo contrario, tendré que andar desnudo, y eso sería inmodesto”.
+Las ropas del héroe se habían desgastado durante los seis años que las había usado, y pensó: «Estaría bien si tuviera ropa nueva; de lo contrario, tendré que andar desnudo, y eso sería inmodesto».
 
 Ahora bien, Sujata, la más devota de las diez jóvenes que le llevaban comida, tenía una esclava que acababa de morir. Había envuelto el cuerpo en una mortaja rojiza y lo había llevado al cementerio. La esclava muerta yacía en el polvo. El héroe vio el cuerpo al pasar; se acercó y le quitó la mortaja.
 
 Estaba muy polvoriento, y el héroe no tenía agua para lavarlo. Sakra, desde el cielo, vio su perplejidad. Al descender a la tierra, golpeó el suelo, y un charco apareció ante los ojos del Santo.
 
-“Bien”, dijo, “aquí hay agua, pero todavía necesito una piedra para lavarme”.
+«Bien», dijo, «aquí hay agua, pero todavía necesito una piedra para lavarme».
 
 Sakra hizo una piedra y la colocó en el borde de la piscina.
 
-“Hombre de virtud”, dijo el dios, “dame el sudario; yo te lo lavaré”.
+«Hombre de virtud», dijo el dios, «dame el sudario; yo te lo lavaré».
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 —No, no —respondió el Santo—. Conozco los deberes de un monje; yo mismo lavaré el sudario.
 
 Cuando estuvo limpio, se bañó. Mara, el Maligno, llevaba un tiempo esperándolo. De repente, elevó los bordes del estanque, haciéndolos muy empinados. El Santo no pudo salir del agua. Por suerte, había un árbol alto cerca del estanque, y el Santo dirigió una plegaria a la diosa que lo habitaba.
 
-“¡Oh Diosa, que una rama de este árbol se incline sobre mí!”
+«¡Oh Diosa, que una rama de este árbol se incline sobre mí!»
 
 Una rama se inclinó inmediatamente sobre el estanque. El Santo se agarró a ella y salió del agua. Luego fue a sentarse bajo el árbol y comenzó a coser el sudario y a confeccionarse una nueva prenda.
 
@@ -81,7 +81,7 @@ Purna, desde el umbral, vio al héroe caminando hacia la casa de Sujata. Irradia
 
 —¡Señora, ya viene! ¡Ya viene! ¡Y su esplendor cegará sus ojos!
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 ¡Que venga! ¡Ay, que venga! —gritó Sujata—. Para él he preparado esta leche maravillosa.
 
@@ -93,9 +93,9 @@ Se dice que a los antiguos budas se les servía su última comida en un cuenco d
 
 Luego le preguntó a la joven:
 
-“Hermana, ¿qué debo hacer con este cuenco dorado?”
+«Hermana, ¿qué debo hacer con este cuenco dorado?»
 
-“Te pertenece”, respondió ella.
+«Te pertenece», respondió ella.
 
 «No me sirve ese cuenco», dijo.
 
@@ -103,7 +103,7 @@ Luego le preguntó a la joven:
 
 Salió con el cuenco en las manos y caminó hasta la orilla del río. Se bañó y comió. Cuando el cuenco estuvo vacío, lo arrojó al agua y dijo:
 
-“Si he de convertirme en Buda hoy mismo, que <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> el cuenco vaya río arriba; si no, que vaya con la corriente.”
+«Si he de convertirme en Buda hoy mismo, que <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> el cuenco vaya río arriba; si no, que vaya con la corriente.»
 
 El cuenco flotó hasta el centro del río y luego rápidamente empezó a remontar la corriente. Desapareció en un remolino, y el héroe oyó el sonido sordo al aterrizar en el mundo subterráneo, entre los otros cuencos que los antiguos budas habían vaciado y tirado.
 
@@ -123,7 +123,7 @@ Allí se alzaba el árbol del conocimiento. El héroe se dirigió al este y se i
 
 El héroe se sentó, con la cabeza y los hombros erguidos y el rostro vuelto hacia el este. Luego dijo con voz solemne:
 
-“Aunque mi piel se seque, aunque mi mano se marchite, aunque mis huesos se conviertan en polvo, hasta que no alcance el conocimiento supremo no me moveré de este asiento”.
+«Aunque mi piel se seque, aunque mi mano se marchite, aunque mis huesos se conviertan en polvo, hasta que no alcance el conocimiento supremo no me moveré de este asiento».
 
 Y cruzó las piernas.
 

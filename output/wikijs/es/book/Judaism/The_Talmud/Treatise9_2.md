@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 1\. Los hombres no pueden disertar sobre conexiones ilegales con tres [^353], ni sobre la obra de la creación con dos [^354], ni sobre los querubines con uno [^355], a menos que uno sea sabio y lo comprenda por su propio conocimiento. Todo aquel que considera cuatro cosas, le convendría no haber venido al mundo. ¿Qué hay en lo alto? ¿Qué hay en lo profundo? ¿Qué hay delante? ¿Y qué hay detrás? Y todo aquel que no anhela la honra de su Creador, le convendría no haber venido al mundo.
 

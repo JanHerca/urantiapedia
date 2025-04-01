@@ -1,6 +1,6 @@
 ---
 title: "XII. Rashn Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Rashnu Razi<i>s</i>ta, 'el Verdadero más verdadero', es el Genio de la Verdad: es uno de los tres jueces de los difuntos, junto con Mitra y Sraosha: sostiene la balanza en la que se pesan los hechos de los hombres después de su muerte: 'no hace ninguna balanza injusta..., ni para los piadosos ni para los malvados, ni para los señores ni para los gobernantes; no variará ni un pelo, y no muestra favoritismo [^777]'. Es un vástago de Mitra, el Dios de la Verdad y el vengador de las mentiras, o del propio Ahura Mazda, el señor que todo lo sabe (§ 2 seq.).
 
-Este Ya<i>s</i>t parece ser una súplica hecha a Rashnu para que viniera y asistiera a la realización del var nîrang o prueba (ver [p. 170](#p170), nota [^787]), de la cual Rashnu, como el Genio de la Verdad, era el testigo natural y árbitro (cf. Vend. IV, 54-55 \[154-156\]). Como un dios de la Verdad debe saberlo todo y estar presente en todas partes, es llamado desde cualquier parte del mundo en la que pueda estar realmente. Esto da lugar a una enumeración de todas las partes del mundo, desde esta tierra (§§ 9-22) hasta el cielo más alto (§ 37), pasando por el Albôrz (§§ 23-26), la región estelar (§§ 26-32), la región lunar (§ 33) y la región solar (§ 34; cf. [p. 73](Yasts_5#p73), nota [2](Yasts_5#fn359)).
+Este Ya<i>s</i>t parece ser una súplica hecha a Rashnu para que viniera y asistiera a la realización del var nîrang o prueba (ver [p. 170](#p170), nota [^787]), de la cual Rashnu, como el Genio de la Verdad, era el testigo natural y árbitro (cf. Vend. IV, 54-55 \[154-156\]). Como un dios de la Verdad debe saberlo todo y estar presente en todas partes, es llamado desde cualquier parte del mundo en la que pueda estar realmente. Esto da lugar a una enumeración de todas las partes del mundo, desde esta tierra (§§ 9-22) hasta el cielo más alto (§ 37), pasando por el Albôrz (§§ 23-26), la región estelar (§§ 26-32), la región lunar (§ 33) y la región solar (§ 34; cf. [p. 73](../Yasts_5#p73), nota [2](../Yasts_5#fn359)).
 
 Este Yast se recita en los días de Rashn, Murdâd, Âshtâd y Zemyâd (el 18, 7, 26 y 28 del mes).
 
@@ -52,7 +52,7 @@ Para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el sant
 
 A Rashnu Razi<i>s</i>ta; a Ar<i>s</i>tâ<i>t</i>, que hace crecer el mundo, que hace aumentar el mundo; al habla veraz, que hace crecer el mundo [^778];
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
@@ -114,7 +114,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 16\. «Si tú, oh santo Rashnu, estás en el mar Vouru-Kasha [^794], invocamos, bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado... en cualquier parte del mundo donde te encuentres.»
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 ## X.
 
@@ -128,7 +128,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 19\. «Si tú, ¡oh santo Rashnu!, estás en el Sanaka [^797] del Rangha, invocamos y bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado...»
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 ## XIII.
 
@@ -150,7 +150,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 24\. «Si tú, ¡oh santo Rashnu!, te encuentras en el más alto Hukairya, de los profundos precipicios [^799], hecho de oro, de donde este río mío, Ardvi Sûra Anâhita, salta a una altura mil veces mayor que la de un hombre, invocamos, bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado...»
 
-<span id="p175">[<sup><small>pág. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 ## XVIII.
 
@@ -188,7 +188,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 33\. «Si tú, ¡oh santo Rashnu!, estás en la luna que contiene la semilla del Toro [^806], invocamos, bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado...»
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 ## XXVII.
 
@@ -212,7 +212,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 39\. 'Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado...
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 'Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda. . . .
 
@@ -268,7 +268,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 [^818]: 169:6 Literalmente, la grasa.
 
-[^819]: 170:1 Véase [p. 12](Sirozahs_1#p12), nota [13](Sirozahs_1#fn94).
+[^819]: 170:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
 [^820]: 170:2 Véase Vend. XXII, 3.
 
@@ -286,7 +286,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 [^832]: 172:1 Véase Yt. X, 15, nota 5.
 
-[^833]: 172:2 Véase [p. 54](Yasts_5#p54), nota [6](Yasts_5#fn279).
+[^833]: 172:2 Véase [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
 
 [^834]: 173:1 El Saêna, en la mitología posterior el Sînamrû o Sîmûrgh; su lugar de descanso está en el árbol que es Ja<i>d</i>\-bêsh (opuesto al daño) de todas las semillas; y siempre que asciende, mil ramitas brotan de ese árbol; y al posarse, las rompe y esparce sus semillas. Y el pájaro Chañmrôsh permanece para siempre en esa vecindad; y su obra es ésta, que recoge esa semilla que cae del árbol de todas las semillas, que es Ja<i>d</i>\-bêsh, y la lleva allí donde Tishtar toma el agua, para que Tishtar pueda tomar el agua con esa semilla de todo tipo, y pueda hacerla llover sobre el mundo con la lluvia' (Minokhirad LXII, 37; tr. Oeste).
 
@@ -310,7 +310,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 [^846]: 176:2 Excluyendo los planetas que pertenecen a Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
 
-[^847]: 176:3 Véase arriba, [p. 8](Sirozahs_1#p8), nota [8](Sirozahs_1#fn53).
+[^847]: 176:3 Véase arriba, [p. 8](../Sirozahs_1#p8), nota [8](../Sirozahs_1#fn53).
 
 [^848]: 177:1 El cielo más alto, la morada de Ormazd.
 

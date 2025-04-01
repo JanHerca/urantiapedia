@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:52Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ## EL IMPERIO, EL IMPERIO DEL IMPERIO.
 
@@ -40,11 +40,11 @@ Cuando la primavera daba paso al verano y los días se alargaban, las hojas de l
 
 El imperio es paz. Los hombres de rango y virtud pueden tratar a sus padres como corresponde a padres y a su virtud como corresponde a la virtud; y la gente común también puede encontrar placer en su placer, beneficio en su beneficio y ocio en su ocio. Así transcurren nuestros años. Es toda la bendición de la paz. Desde que Ieyasu, con su cabello alisado por el viento, su cuerpo ungido por la lluvia, con el trabajo de toda una vida logró que cesara la confusión y prevaleciera el orden, durante más de cien años no ha habido guerra. Las olas de los cuatro mares han permanecido serenas y nadie ha perdido las bendiciones de la paz. Nosotros, la gente común, debemos hablar con reverencia; sin embargo, es deber de los eruditos celebrar la virtud del Gobierno. Sin ser demasiado formal, últimamente he estado pensando mucho en un detalle en tan gran masa de virtud y quisiera proclamarlo a todos, como ahora a ustedes.
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Está escrito: «Que el señor del imperio no olvide que el imperio es el imperio del imperio, y no de un solo hombre».[^2] ¡Célebre es esa frase, e irrevocable por mil años! En China, con excepción de los reyes sabios, la mayoría de los emperadores que calmaron la confusión tomaron el imperio como propio, y no el imperio del imperio. Cuando uno de los emperadores[^3], al comienzo de su reinado, se enteró de que su general más famoso estaba enfermo en la guerra, lo llamó apresuradamente y buscó en vano su curación con la ayuda de médicos. Entonces, por fin, el emperador rezó a la montaña, al río, al Cielo: «¡Perdónenle la vida unos años y llévenme la mía con la suya!». No quería que sobreviviera a su general, así que juró por su propia vida. Me conmueve profundamente leer este incidente. De tal gobernante se dice: «Un emperador de verdad».[^4] Pero quienes gobiernan durante mucho tiempo naturalmente llegan a pensar que el imperio se da para su propio placer. Se aferran al imperio para que nadie se lo arrebate, como un niño se aferra a su juguete favorito. Con un corazón así, aunque el imperio sea tomado, no podrá conservarse por mucho tiempo, como ilustran Nobunaga y Hideyoshi[^5]. Carecían de benevolencia y la pérdida del imperio fue, por supuesto. No eran aptos para conservarlo. Como decían los antiguos: «El tesoro se esconde en lo profundo de la montaña: lo encuentra quien no lo busca».
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 En el año 1586 d. C., tras la batalla de Nagakute, Ieyasu hizo las paces con Toyotomi Hideyoshi. Hideyoshi envió un mensajero a Hamamatsu, en Enshu, e invitó a Ieyasu a Osaka. Pero este se negó a ir, a pesar de recibir reiterados mensajeros con invitaciones urgentes. Finalmente, Hideyoshi envió a su madre como rehén, exigiendo así su consentimiento. Entonces Ieyasu accedió. Pero sus seguidores, temiendo una traición, intentaron disuadirlo: «Si no vas, es cierto que Hideyoshi podría reanudar la guerra, pero tus fuerzas son más fuertes y estamos dispuestos a sacrificar nuestras vidas. No podrá ganar ni aunque traiga cien mil hombres». Pero Ieyasu respondió: —Es como dices, y no acepto su invitación porque le temo. Pero piensa en cuán constante ha sido la guerra durante generaciones sin paz en la capital ni en las provincias hasta ahora. Por fin tenemos paz. Si lucho contra Hideyoshi, la guerra comienza de nuevo para la miseria del imperio. Si me encuentro con el mal, moriré por el imperio. Con profunda admiración, todos escucharon estas palabras y no pudieron pedir nada más. Él conocía bien el peligro, y cuando partió hacia Osaka confió sus asuntos a sus ministros Ii y Honda. Tales palabras de verdad afectan tanto a los hombres como al Cielo; y como el decreto del Cielo estaba de acuerdo con los corazones de los hombres, tomó posesión del imperio. Como el emperador chino oró con su propia vida por la vida de su general, así también Ieyasu oró con su vida por la paz del imperio. Había el mismo espíritu amplio en ambos, no apegado a los tesoros sino a la rectitud; sin embargo, Ieyasu superó al otro.
 
@@ -54,9 +54,9 @@ Una vez, en casa de un amigo, nuestro anfitrión contó la historia de Ieyasu, y
 
 Pero tanto en China como en Japón, la mayoría de los hombres, cuando estaban en el poder, creían que el imperio era de un solo hombre. Se habían despilfarrado y se habían esforzado por alcanzar la fama. Pero Ieyasu sirvió al imperio, sin considerarlo suyo ni ansiar lujos. Fortaleció su gobierno y lo legó a las generaciones futuras; su gloria perdura y el imperio descansa en paz.
 
-Tras su gran victoria en Seki-ga-hara[^7], algunos de sus seguidores le dijeron:—“El imperio es tuyo, reúne tesoros para que tu nombre perdure. Hideyoshi construyó Dai Butsu.”[^8] Pero Ieyasu respondió:—“Así pues, Hideyoshi será recordado por su Dai Butsu, pero no me importa la transmisión de mi único nombre. Estudiaré los intereses del imperio y se lo dejaré a mi heredero, eso va mucho más allá de construir muchos Dai Butsu.” Sin duda, su propuesta le pareció insensata. Conquistar Corea, erigir Dai Butsu y gastar vastos tesoros es perjudicar al imperio, aunque sea maravilloso a los ojos y oídos de los necios. Ya los hombres reflexivos condenan y el nombre permanece deshonrado para el futuro. Pero los santuarios de Nikkō son reverenciados en todas las provincias. ¿No lo entiendes? Este es el verdadero nombre ilustre e incorruptible que siempre debe ser admirado.
+Tras su gran victoria en Seki-ga-hara[^7], algunos de sus seguidores le dijeron:—«El imperio es tuyo, reúne tesoros para que tu nombre perdure. Hideyoshi construyó Dai Butsu.»[^8] Pero Ieyasu respondió:—«Así pues, Hideyoshi será recordado por su Dai Butsu, pero no me importa la transmisión de mi único nombre. Estudiaré los intereses del imperio y se lo dejaré a mi heredero, eso va mucho más allá de construir muchos Dai Butsu.» Sin duda, su propuesta le pareció insensata. Conquistar Corea, erigir Dai Butsu y gastar vastos tesoros es perjudicar al imperio, aunque sea maravilloso a los ojos y oídos de los necios. Ya los hombres reflexivos condenan y el nombre permanece deshonrado para el futuro. Pero los santuarios de Nikkō son reverenciados en todas las provincias. ¿No lo entiendes? Este es el verdadero nombre ilustre e incorruptible que siempre debe ser admirado.
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Ieyasu sobresalía en todo, pero no se jactaba de su sabiduría. Al contrario, aprobaba las sinceras reprimendas de sus subordinados. Y, de hecho, la reprimenda puede considerarse el fundamento de la sabiduría del gobernante. Solo el Sabio no yerra. Si un hombre escucha la reprimenda, aunque yerra, es como un enfermo que toma medicina y recupera las fuerzas. Pero por muy sabio que sea un hombre, si no escucha la reprimenda, es como quien no toma medicina porque su enfermedad es leve y, por lo tanto, el peligro persiste. Pero la mayoría de los gobernantes fuertes odian la reprimenda e insisten en su propio camino. En China existe el cargo de censor, pero es de poca utilidad. Es solo un nombre, pues los hombres honestos son fácilmente destituidos y los aduladores reciben el cargo. Cuando hay error no hay reforma, ni reprimenda cuando el gobierno es malo, una pena que perdura desde la antigüedad hasta nuestros días. Es aún peor en Japón, con su gobierno feudal; los gobernantes gobiernan por la fuerza de las armas y los subordinados deben obedecer. Cesa la protesta y se acaba la compasión por el pueblo. El mal crece cada día, pero son pocos los que conocen su causa.
 
@@ -66,7 +66,7 @@ Honda recordó esto y se lo contó a su hijo entre lágrimas, mientras hablaba d
 
 Después, Ieyasu dijo a su samurái: «Un gobernante debe tener ministros fieles. Quien ve el error de su señor y lo reprende, sin temer su ira, es más valiente que quien empuña la lanza principal en la batalla. En la lucha se arriesgan el cuerpo y la vida, pero no es una muerte segura. Incluso si muere, hay fama inmortal y su señor se lamenta. Si hay victoria, se obtiene una gran recompensa y gloria, y la herencia pasa a hijo y nieto. Pero lamentarse por las faltas de su señor y reprender fielmente cuando las palabras no llegan a los oídos ni conmueven el corazón es realmente duro. Desagradado, recibido con indiferencia, desplazado por aduladores, su consejo no es escuchado, por muy leal que sea, al final abandona la tarea, se declara enfermo o se retira a la tranquilidad de la vejez. Si se atreve a arriesgar el desagrado de su señor por su fidelidad, puede ser encarcelado o incluso asesinado. Quien no teme todo esto, sino que renuncia incluso a la vida para beneficiar a su país, es digno de elogio. Comparado con él, la lanza más avanzada es un poste fácil. Estas palabras deberían repetirse a todas las edades como un mandato.
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ##SUGITA IKI.
 
@@ -80,7 +80,7 @@ Sugita regresó a casa y se preparó para el harakiri, esperando la palabra de s
 
 Cuando estaba en Kaga, un hombre de Echizen me contó esto. Sugita era uno de los que Ieyasu elogió. Un karō tiene una posición mucho más difícil que la lanza más avanzada.
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 ## PROHIBIR DAIZEN.
 
@@ -96,7 +96,7 @@ Y no hay otro ejemplo igual. Ningún otro hombre de bajo rango ha arriesgado su 
 
 Pero hoy en día se dice: «¡Tokugawa ganó porque ese era su destino, y el destino es irresistible!». Su humanidad y virtud eran grandes, y naturalmente cumplió con el decreto del Cielo. Pero esto por sí solo no explica su éxito. La fuerza de sus tropas explica su «destino». Cultivó su fidelidad. Por lo tanto, es fundamental promover la fidelidad del pueblo llano. ¡Qué superficial es hablar de su destino irresistible!
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## LA FIDELIDAD DEL SAMURAI.
 
@@ -112,7 +112,7 @@ Cuando Katsuyori y todo su grupo fueron destruidos, Ieyasu admiró profundamente
 
 Estando en Kaga, oí a un hombre comentar: «Todos los pecados, grandes y pequeños, pueden ser perdonados con el arrepentimiento y no quedan cicatrices, excepto dos: la huida de un samurái del puesto donde debía morir y el robo. Estos dejan una herida permanente que nunca sana. A todos los samuráis, hombres y mujeres, se les enseña desde la infancia que la fidelidad nunca debe olvidarse». Continué: «Por supuesto, a la mujer siempre se le enseña que la sumisión es su principal deber, y aunque cumpla plenamente con este alto deber de fidelidad, nunca debe olvidar esto. Si en un apuro inesperado su débil corazón abandona la fidelidad, todas sus demás virtudes no lo harán. Tanto en Japón como en China ha habido mujeres cuya virtud ha superado a la del hombre».
 
-La esposa de Nagaoka Itchu no Kami Tadaoki era hija de Akechi Mitsuhide, vasallo de Oda Nobunaga, quien asesinó tanto a su señor como al hijo de este.[^11] A su vez, fue destruido por Hideyoshi. Más tarde, Tadaoki, en tiempos de Seki-ga-hara, fue a reunirse con Ieyasu en el este. Durante su ausencia, Ishida Mitsunari[^12] envió tropas al castillo de Tadaoki para capturar a su esposa, pero ella exclamó: «No deshonraré la casa de mi esposo con mi deseo de vivir», y se suicidó antes de que el enemigo entrara. Excitados por su virtud, los dos o tres samuráis que la acompañaban incendiaron la mansión y se suicidaron, y sus mujeres, tomadas de la mano, se lanzaron al fuego y murieron. ¡Aun así, alabaremos esa hazaña! ¡El rebelde Mitsuhide tuvo un hijo así, difícilmente igualado en China o Japón! Como dice el proverbio: “El general no tiene semilla”, así que añadiré: La mujer heroica no tiene semilla.[^13] <span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
+La esposa de Nagaoka Itchu no Kami Tadaoki era hija de Akechi Mitsuhide, vasallo de Oda Nobunaga, quien asesinó tanto a su señor como al hijo de este.[^11] A su vez, fue destruido por Hideyoshi. Más tarde, Tadaoki, en tiempos de Seki-ga-hara, fue a reunirse con Ieyasu en el este. Durante su ausencia, Ishida Mitsunari[^12] envió tropas al castillo de Tadaoki para capturar a su esposa, pero ella exclamó: «No deshonraré la casa de mi esposo con mi deseo de vivir», y se suicidó antes de que el enemigo entrara. Excitados por su virtud, los dos o tres samuráis que la acompañaban incendiaron la mansión y se suicidaron, y sus mujeres, tomadas de la mano, se lanzaron al fuego y murieron. ¡Aun así, alabaremos esa hazaña! ¡El rebelde Mitsuhide tuvo un hijo así, difícilmente igualado en China o Japón! Como dice el proverbio: «El general no tiene semilla», así que añadiré: La mujer heroica no tiene semilla.[^13] <span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Pero un invitado comentó: —No es así; no tener descendencia es tener descendencia. La fidelidad hace de la naturaleza de la benevolencia y la rectitud su descendencia. Entonces, sin lugar ni ancestro, sin raza, sin distinción de alto o bajo nivel, hombre o mujer, sin vínculo familiar, los buenos hijos provienen de padres malvados, y los malos hijos de los buenos.
 
@@ -127,7 +127,7 @@ Yoritomo gritó furioso: "¡Cantas a ese rebelde Yoshitsune en lugar de celebrar
 
 Lamento que el erudito de Kioto, Nakamura Tekizai, omitiera a Shidzuka en su relato sobre las famosas mujeres de China y Japón, las Hime Kagami. Probablemente su origen humilde y su ocupación como bailarina expliquen su exclusión. Pero su historia enseña una lección importante que no debe olvidarse. El Libro de Poesía dice: «Toma las hierbas; no las arranques como si fueran de baja cuna».
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ##AMANO SABUROBEI.
 
@@ -139,7 +139,7 @@ Desconozco en particular las características de Honda y Kōriki, pero en el per
 
 En la época del siguiente Shogun, un hombre, en algún lugar, se encontró con un asceta al que tomó por Amano, pero desconocemos si era cierto o no. No importa; Amano era un samurái de corazón puro. No era correcto matar a un inocente y protegerse. Pero si no mataba al soldado, desobedecería al Shogun. Ninguna de las dos opciones era permisible. Así que no pudo permanecer en el mundo, renunció a sus treinta mil koku y desapareció para siempre. Esto no tiene paralelo.
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 ## ENORME fulano.
 
@@ -155,17 +155,17 @@ Posteriormente, en las ruinas del salón principal, se encontró el cuerpo de un
 
 De joven, oí la historia de otro samurái. Era vasallo del difunto Abe Bungō no Kami, pero había renunciado a su puesto y alquilado una casa en Hachobori, Edo. He olvidado su nombre. Con el paso de los años, se fue empobreciendo hasta que necesitó comida. Su casero se apiadó de él y le envió comida, pero enfermó. Luego, su casero le envió gachas, pero las rechazó porque estaba demasiado enfermo para comer. Cerró la puerta para que nadie pudiera entrar y su casero solo pudiera quedarse afuera y preguntar. Poco a poco, las respuestas cesaron. Entonces, el casero llamó a los vecinos, forzó la puerta y entró. Sentado sobre una estera de paja, apoyado en su cofre de armaduras con sus dos espadas sobre las rodillas, el samurái estaba muerto. A su lado había un escrito. Expresaba su agradecimiento por la bondad de su casero, con dinero para pagar el alquiler y su funeral. Su armadura estaba cuidadosamente guardada en su caja, y con ella tres piezas de oro. Sus espadas eran viejas, pero tenían adornos de oro. Solo tenía la ropa que vestía; no había ni una olla ni muebles. Tampoco parecía que hubiera comido en cien días. El terrateniente informó a los funcionarios, quienes le ordenaron que cumpliera las instrucciones escritas. Cuando Bungō no Kami se enteró de la situación, se sintió profundamente afligido. El samurái había sido un hombre fuerte y siempre el primero cuando había algo importante que hacer. Lamento profundamente su inútil muerte por inanición; y sería un error que un hombre así permaneciera oculto, sin que nadie lo mencionara.
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## LOS DOS MENDIGOS.
 
 Hoy en día, las costumbres han decaído y todos los hombres son egoístas. Pero como la naturaleza humana es originalmente buena, sin importar la familia ni las costumbres, hay hombres que conocen el bien incluso entre los mendigos.
 
-Hace diez años, el día 17 del mes 12 del año U, Mitsu no to, del período Kyōhō (12 de enero de 1724 d. C.), un oficinista llamado Ichijurō, empleado de un comerciante de Muromachi, Edo, llamado Echigoya Kichibei, perdió una bolsa que contenía treinta ryō cuando regresaba de cobrar unas cuentas. Pensó que se la habían robado, pero regresó por su ruta buscándola con cuidado. Finalmente, un mendigo se encontró con él y le preguntó: "¿Qué has perdido? ¿Es dinero?". Ichijurō, rebosante de alegría, contó su pérdida y el mendigo (pág. 111) dijo que había encontrado la bolsa y que buscaba a su dueño. Así que Ichijurō describió exactamente su contenido: dinero, papeles y todo, y el mendigo se la devolvió. En su alegría por el suceso inesperado, Ichijurō ofreció al mendigo cinco ryō, pero el mendigo no los aceptó. “¡Pero era todo uno y lo devolviste! ¡Toma cinco ryō!” dijo Ichijurō. Pero el mendigo insistió. “Si hubiera querido cinco ryō no habría devuelto los treinta. Pero no pensé que fueran míos cuando los recogí. Pensé que alguien había perdido el dinero de su amo y estaría en problemas. Algunos hombres podrían haberlo guardado, pero lo encontré y quise devolvérselo. Ahora que lo he devuelto, mi negocio ha terminado”. Y salió corriendo tan rápido como pudo. Pero Ichijurō sacó un itchi bu de la bolsa y lo siguió gritando: “¡Hace frío hoy! Toma esto por sake”. Así que el mendigo lo tomó y dijo: “Beberé el sake”. Y en respuesta a una pregunta, dijo: “Soy Hachibei, un mendigo de Kurumazenshichi”.
+Hace diez años, el día 17 del mes 12 del año U, Mitsu no to, del período Kyōhō (12 de enero de 1724 d. C.), un oficinista llamado Ichijurō, empleado de un comerciante de Muromachi, Edo, llamado Echigoya Kichibei, perdió una bolsa que contenía treinta ryō cuando regresaba de cobrar unas cuentas. Pensó que se la habían robado, pero regresó por su ruta buscándola con cuidado. Finalmente, un mendigo se encontró con él y le preguntó: "¿Qué has perdido? ¿Es dinero?". Ichijurō, rebosante de alegría, contó su pérdida y el mendigo (pág. 111) dijo que había encontrado la bolsa y que buscaba a su dueño. Así que Ichijurō describió exactamente su contenido: dinero, papeles y todo, y el mendigo se la devolvió. En su alegría por el suceso inesperado, Ichijurō ofreció al mendigo cinco ryō, pero el mendigo no los aceptó. «¡Pero era todo uno y lo devolviste! ¡Toma cinco ryō!» dijo Ichijurō. Pero el mendigo insistió. «Si hubiera querido cinco ryō no habría devuelto los treinta. Pero no pensé que fueran míos cuando los recogí. Pensé que alguien había perdido el dinero de su amo y estaría en problemas. Algunos hombres podrían haberlo guardado, pero lo encontré y quise devolvérselo. Ahora que lo he devuelto, mi negocio ha terminado». Y salió corriendo tan rápido como pudo. Pero Ichijurō sacó un itchi bu de la bolsa y lo siguió gritando: «¡Hace frío hoy! Toma esto por sake». Así que el mendigo lo tomó y dijo: «Beberé el sake». Y en respuesta a una pregunta, dijo: «Soy Hachibei, un mendigo de Kurumazenshichi».
 
 Cuando Ichijurō regresó a casa y contó su historia, su amo lloró de admiración y decidió darle al mendigo los cinco ryō. Así que a la mañana siguiente envió a Ichijurō y a su secretario principal a Zenshichi, el amo del mendigo, para pedirle que intentara persuadir a Hachibei de que aceptara el dinero. Pero Zenshichi dijo: «El mendigo Hachibei consiguió un bu en algún lugar anoche, reunió a sus amigos y tuvo un festín de pescado y sake. Bebió mucho y, aunque no le sentó bien, murió esta mañana». Ichijurō se asombró y pidió el cuerpo, y le pidió al hombre que no lo enviara ni lo enterrara. Así que, al volver a casa, Ichijurō se lo contó a su amo, quien mandó traer el cadáver y gastó los cinco ryō en un funeral, enterrándolo en Muenji, en Hongō. Ciertamente era maravilloso que un comerciante se sintiera así afectado por la rectitud. Había sido empleado a menudo por el Señor de Kaga, y el día veinte del mes Ichijurō fue a Kaga Yashiki y contó la historia a los funcionarios de allí, y ellos me la contaron a mí.
 
-<span id="p112">[<sup><small>pág. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Hachibei no era, en mi opinión, un hombre cualquiera. Sin duda, había entrado en el gremio de mendigos por ser pobre y estar sin hogar. No veía ningún recurso en la vida, y afortunadamente, teniendo dinero para un banquete para sus camaradas, pensó que sería un buen fin y se ahogó. Si hubiera sido un samurái o hubiera tenido autoridad, jamás habría usado su poder para arrebatar lo ajeno. Hay hombres cuyo nombre es espléndidamente samurái, pero que en realidad son mendigos, pero este hombre, al que llamaban mendigo, era en realidad un samurái.
 
@@ -205,11 +205,11 @@ Todos los presentes estuvieron de acuerdo con esta opinión del Viejo.
 
 ## Notas al pie
 
-[^1]: Libro de poesía—“Las odas sacrificiales de Kau”, Oda IV.
+[^1]: Libro de poesía—«Las odas sacrificiales de Kau», Oda IV.
 
 [^2]: Del Rikuto del Shichisho. ###
 
-[^3]: Chu Yuen-chang, plebeyo de nacimiento, derrocó a los mongoles en 1368 d. C. e instauró la dinastía Ming. “El Reino Medio”, vol. II, pág. 176.
+[^3]: Chu Yuen-chang, plebeyo de nacimiento, derrocó a los mongoles en 1368 d. C. e instauró la dinastía Ming. «El Reino Medio», vol. II, pág. 176.
 
 [^4]: Así dijo el célebre general Baen (Ma Yuan) de su emperador Kwang Wu Ti de la dinastía Han, que reinó en China entre el 25 y el 58 d. C.
 
@@ -219,7 +219,7 @@ Todos los presentes estuvieron de acuerdo con esta opinión del Viejo.
 
 [^7]: La victoria decisiva con la que Ieyasu ganó el imperio, en el año 1600 d.C.
 
-[^8]: En Kioto. Fue destruido por un terremoto en 1598. Una visión muy diferente de la conducta de Ieyasu en relación con el Dai Butsu se ofrece en el “Manual” de Satow y Hawes, 1.ª ed., pág. 321. Allí se le representa instando al heredero de Hideyoshi a reconstruirlo a una escala tan espléndida que agotaría sus finanzas. Y en relación con su dedicación, Ieyasu buscó motivos para ofender y provocó la caída final de su joven rival. Ieyasu y su nieto están enterrados en Nikko.
+[^8]: En Kioto. Fue destruido por un terremoto en 1598. Una visión muy diferente de la conducta de Ieyasu en relación con el Dai Butsu se ofrece en el «Manual» de Satow y Hawes, 1.ª ed., pág. 321. Allí se le representa instando al heredero de Hideyoshi a reconstruirlo a una escala tan espléndida que agotaría sus finanzas. Y en relación con su dedicación, Ieyasu buscó motivos para ofender y provocó la caída final de su joven rival. Ieyasu y su nieto están enterrados en Nikko.
 
 [^9]: La concesión directa de un regalo por parte del daimyō se consideraba la mayor de las recompensas.
 

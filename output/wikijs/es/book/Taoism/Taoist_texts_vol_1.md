@@ -8,7 +8,35 @@ editor: markdown
 dateCreated: 2025-2-12T12:58:51Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-tao"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</text>		<text style="font-size:4px" x="61" y="125">1891</text>		<text style="font-size:9px" x="61" y="60">Textos taoístas</text>		<text style="font-size:9px" x="61" y="70">Parte I (SBE 39)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Los textos del taoísmo</span><br><span class="text-h5">Traducido por James Legge</span><br>en dos partes Parte I<br>El Rey Tâo Teh (Tâo Te Ching) de Lâo Dze (Lao Tsu)<br>Los escritos de Kwang-dze (Chuang-tse) (Libros I-XVII)<br>Los libros sagrados de Oriente<br>Traducido por varios eruditos orientales y editado por<br>F. Max Müller<br>Volumen XXXIX<br>Imprenta de la Universidad de Oxford<br>[1891]<br>Escaneado en sacred-texts 3/2001. JB Hare, redactor. Reformateado en julio de 2003. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-tao">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1891</text>
+		<text style="font-size:9px" x="61" y="60">Textos taoístas</text>
+		<text style="font-size:9px" x="61" y="70">Parte I (SBE 39)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Los textos del taoísmo</span><br>
+<span class="text-h5">Traducido por James Legge</span><br>
+en dos partes Parte I<br>
+El Rey Tâo Teh (Tâo Te Ching) de Lâo Dze (Lao Tsu)<br>
+Los escritos de Kwang-dze (Chuang-tse) (Libros I-XVII)<br>
+Los libros sagrados de Oriente<br>
+Traducido por varios eruditos orientales y editado por<br>
+F. Max Müller<br>
+Volumen XXXIX<br>
+Imprenta de la Universidad de Oxford<br>
+[1891]<br>
+Escaneado en sacred-texts 3/2001. JB Hare, redactor. Reformateado en julio de 2003. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br>
+</p>
+
+
 ## Índice
 
 - [Contenido](/es/book/Taoism/Taoist_texts_vol_1/Contents)
@@ -117,13 +145,13 @@ dateCreated: 2025-2-12T12:58:51Z
 	- [Libro XII. Thien Tî](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b12)
 	- [Libro XIII. Thien Tao](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b13)
 	- [Libro XIV. Thien Yün](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b14)
-	- [Libro XV. Kho Î](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b15)
+	- [Libro XV. Kho Î](/es«Dejar ser y ejercer la tolerancia»ng_dze_Intro#b15)
 	- [Libro XVI. Shan Hsing](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b16)
 	- [Libro XVII. Khiû Shui](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b17)
 	- [Libro XVIII. Kih Lo](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b18)
-	- [Libro XIX. Tâ Shäng](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b19)
-	- [Libro XX. Shan Mu](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b20)
-	- [Libro XXI, Thien Dze-Fang](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b21)
+	- [Libro XIX. Tâ Shäng«Ideas arraigadas»Taoist_texts_vol_1/Kwang_dze_Intro#b19)
+	- [Libro XX. Shan Mu](/es/bo«La corrección de la naturaleza»ng_dze_Intro#b20)
+	- [Libro XXI, Thien Dze-Fang«Las inundaciones del otoño»ts_vol_1/Kwang_dze_Intro#b21)
 	- [Libro XXII. Kih Pei Yu](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b22)
 	- [Libro XXIII. Käng-Sang Khû](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b23)
 	- [Libro XXIV. Hsü Wû-Kwei](/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Intro#b24)

@@ -1,6 +1,6 @@
 ---
 title: "XVIII. Âstâd Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p283">[<sup><small>pág. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Ar<i>s</i>tâ<i>t</i> es la Veracidad: se la invoca en compañía del Genio de la Verdad, Rashnu Razi<i>s</i>ta (Sîrôzah, § 18), en el día Rashn. En el día especialmente dedicado a ella, el 26 del mes, se la invoca en compañía del Monte Ushi-darena, lo que explica el singular hecho de que su Ya<i>s</i>t esté completamente dedicado al <i>H</i><i>v</i>arenô, y por lo tanto es difícil distinguirlo del Ya<i>s</i>t de Zamyâd, ya que el Monte Ushi-darena es la sede real del <i>H</i><i>v</i>arenô (Yt. I, 31, texto y nota; cf. Yt. XIX, 66). De dónde viene esta conexión particular de Ar<i>s</i>tâ<i>t</i> con el Monte Ushi-darena es incierto, a menos que aluda al hecho de que la posesión del <i>H</i><i>v</i>arenô puede asegurarse solo a través de la veracidad: tan pronto como Yima "comenzó a encontrar deleite en palabras de falsedad y falsedad", el <i>H</i><i>v</i>arenô voló lejos de él (Yt. XIX, 34).
 

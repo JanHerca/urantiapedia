@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:24Z
   </table>
 </figure>
 
-<span id="p103">[<sup><small>pág. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Yima era conocido en el Shah Nameh [^84] como Jamshid. El orgullo fue la causa de su caída. Dios le concedió favores y, según la Vendidad, se convirtió en un rey poderoso y próspero. Eufórico por el éxito, renegaba de Dios, y en palabras de Firdosi se expresó así:
 

@@ -42,7 +42,7 @@ Kung-hui, de una antigua familia, de apellido _Z_ăn, con sede en el territorio 
 
 3\. 'Despreciadores de los dignos y parásitos de los poderosos, tuvo muchos seguidores así, sin duda: (pero) desde el principio, nuestro país fue para el soberano de Hsiâ como la maleza entre el trigo que brota y el grano marchito entre los buenos. (Nuestro pueblo), grande y pequeño, estaba en constante aprensión, temeroso aunque no era culpable de ningún delito. ¡Cuánto más lo fue cuando las virtudes de nuestro (príncipe) se convirtieron en tema (con avidez) escuchado! Nuestro rey no se acercó a la música (disoluta) ni a las mujeres; no buscó acumular propiedades ni riquezas. A la gran virtud le dio grandes cargos, y al gran mérito, grandes recompensas. Empleó a otros como si (sus excelencias) fueran suyas; no tardó en corregir sus errores. Justamente indulgente y justamente benévolo, gracias a la demostración (de tal virtud), millones de personas depositaron su confianza en él.
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Cuando el conde de Ko [^98] mostró su enemistad con los porteadores de provisiones, el castigo comenzó con Ko. Cuando se extendió por el este, las tribus salvajes del oeste murmuraron; cuando se extendió por el sur, las del norte murmuraron: "¿Por qué nos deja solos al final?". A cualquier pueblo al que se dirigía, se felicitaban entre sus familias, diciendo: "Hemos esperado a nuestro príncipe; nuestro príncipe ha llegado, y revivimos". El homenaje del pueblo a nuestro Shang es algo de larga data.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Según la nota del Prefacio del Shû, el encargo entregado en este Libro a <i>K</i>ün-yâ, o posiblemente al príncipe Yâ, fue impartido por el rey Mû; y su dictamen no ha sido cuestionado por ningún crítico chino. El reinado del rey <i>Kh</i>âo, quien sucedió a Khang, se omite, por lo tanto, en los documentos del Shû. Mû fue hijo y sucesor de <i>Kh</i>âo, y reinó desde el año 1001 hasta el 947 a. C.
 

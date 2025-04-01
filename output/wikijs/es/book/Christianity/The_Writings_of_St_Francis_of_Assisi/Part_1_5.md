@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## V. FRAGMENTOS DE LA REGLA DE LAS HERMANAS DE SANTA CLARA.
 
@@ -80,7 +80,7 @@ Yo, hermanito Francisco, deseo seguir la vida y pobreza de Jesucristo, nuestro A
 
 ## Notas al pie
 
-[^307]: 75:1 “Plura scripta tradidit nobis”, _Test. B Clarae_. Véase _Seraphicae Legislationis textus originales_, p. 276.
+[^307]: 75:1 «Plura scripta tradidit nobis», _Test. B Clarae_. Véase _Seraphicae Legislationis textus originales_, p. 276.
 
 [^308]: 75:2 «Cuando Clara —dice— y algunas otras mujeres devotas en el Señor decidieron servir bajo la misma observancia religiosa, el beato Francisco les dio una breve regla de vida» (formulam vitae tradidit). Véase la bula Angelis gaudium del 11 de mayo de 1238 (Bullar. Franc., t. I, p. 242).
 
@@ -90,7 +90,7 @@ Yo, hermanito Francisco, deseo seguir la vida y pobreza de Jesucristo, nuestro A
 
 [^311]: 76:1 Véase _Bullar._, t. I, pág. 315.
 
-[^312]: 76:2 Sobre el origen de la Segunda Orden y la Regla temprana, ver Lemmens: “Die Anfänge des Clarissenordens” en el _Römische Quartalschrift_, t. XVI, 1902, págs. 93-124, que tiene el carácter de una réplica al artículo del Dr. Lempp con el mismo título, publicado en el Zeitschrift für Kirchengeschichte de Brieger, XIII, 181-245.
+[^312]: 76:2 Sobre el origen de la Segunda Orden y la Regla temprana, ver Lemmens: «Die Anfänge des Clarissenordens» en el _Römische Quartalschrift_, t. XVI, 1902, págs. 93-124, que tiene el carácter de una réplica al artículo del Dr. Lempp con el mismo título, publicado en el Zeitschrift für Kirchengeschichte de Brieger, XIII, 181-245.
 
 [^313]: 76:3 Esta Regla está contenida en la bula _Solet annuere_, de Inocencio IV. Véase _Seraphicae Legislationis textus originales_, página 49 y siguientes. Véase también _Bullar._, I, 167; _Ana. Min._, III, 287.
 

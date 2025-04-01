@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:54:52Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 
 \[_Leído el 20 de enero de 1892._\]
@@ -41,11 +41,11 @@ Antes de la reciente introducción de la literatura y la ciencia occidentales, e
 
 El primer período concluyó en el siglo VIII de nuestra era. Fue el período del sintoísmo y del pensamiento nativo puro. Se ha tratado con detalle en las Actas de esta sociedad.[^1]
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 El segundo período comenzó con la introducción del budismo y, con él, de la civilización china en los siglos VI y VII d. C. Desde entonces, y durante mil años, la nueva religión fue suprema. «Durante siglos, toda la educación estuvo en manos budistas; el budismo introdujo el arte y la medicina, moldeó el folclore del país, creó su poesía dramática e influyó profundamente en su política y en todas las esferas de la actividad social e intelectual».[^2] En cuanto a la religión, su máximo desarrollo, típicamente japonés, se produjo en el siglo XIII, cuando se fundaron las sectas Nichiren y Shin. Su huella está profundamente arraigada en las obras maestras literarias de los siglos XI y XII.[^3]
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 El tercer período comenzó con el establecimiento de la paz bajo Tokugawa Ieyasu y continuó hasta el período Meiji en el que vivimos. Es el período de la filosofía china según la interpretación de los grandes eruditos de la dinastía Sō (Sung) en China.
 
@@ -55,19 +55,19 @@ La ética confuciana llegó a Japón a principios de la era cristiana, aunque no
 
 ## FILOSOFÍA Y ÉTICA.
 
-Esta distinción a menudo se ha pasado por alto y la filosofía se ha identificado con las enseñanzas de los Sabios. En segundo lugar, estas enseñanzas se describen como «un intento de aislar el lado puramente humano de la moral»,[^4] <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> encontrando su único origen “en la convicción de que la vida moral humana tiene su fundamento y sus salvaguardas en la naturaleza humana”.[^4] Las palabras de Confucio y Mencio parecen ser “un conjunto de verdades morales —algunos dirían perogrulladas— de un alcance muy estrecho y de áridas observancias ceremoniales, políticas más que personales”.[^5] Por muy cierta que sea esta caracterización de las primeras enseñanzas chinas, uno disiente cuando se la establece, finalmente, como “el credo de los chinos educados”;[^4] ni, en lo que respecta a mi limitado estudio, puedo encontrar que haya satisfecho a “los lejanos orientales de China, Corea y Japón”.
+Esta distinción a menudo se ha pasado por alto y la filosofía se ha identificado con las enseñanzas de los Sabios. En segundo lugar, estas enseñanzas se describen como «un intento de aislar el lado puramente humano de la moral»,[^4] <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> encontrando su único origen «en la convicción de que la vida moral humana tiene su fundamento y sus salvaguardas en la naturaleza humana».[^4] Las palabras de Confucio y Mencio parecen ser «un conjunto de verdades morales —algunos dirían perogrulladas— de un alcance muy estrecho y de áridas observancias ceremoniales, políticas más que personales».[^5] Por muy cierta que sea esta caracterización de las primeras enseñanzas chinas, uno disiente cuando se la establece, finalmente, como «el credo de los chinos educados»;[^4] ni, en lo que respecta a mi limitado estudio, puedo encontrar que haya satisfecho a «los lejanos orientales de China, Corea y Japón».
 
 No es necesario detenerse en los esfuerzos por demostrar el monoteísmo original de los chinos ni en enumerar los elementos religiosos de las enseñanzas de Confucio.[^6] Tras su muerte, se produjo una rápida "degeneración", pues su "conjunto de reglas morales" dejó la puerta abierta a otras doctrinas. En la época de Mencio, los eruditos ridiculizaron abiertamente al "Maestro", y a pesar de la oposición de Mencio, el taoísmo cobró fuerza. Posteriormente, durante siglos, el taoísmo tuvo "el campo prácticamente para sí mismo";[^7] hasta que posteriormente este sistema místico recibió al budismo con los brazos abiertos.[^8]
 
-Ya en el año 65 d. C. se dio la sanción imperial a la religión india, y desde entonces durante siglos los hombres fueron celosos tanto de Confucio como de Buda.[^9] Así que en la época del Tsin oriental “el budismo era la religión principal, . . . y las doctrinas de Confucio eran muy estimadas”;[^10] <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> y p. 4 nuevamente leemos del emperador Wuti de Liang en el siglo VI: “Wuti hizo mucho para restaurar la literatura y el estudio de Confucio; . . . En sus últimos días fue un devoto tan grande del budismo que se retiró a un monasterio como Carlos V”.[^11] Esta armonía continuó con poco que la perturbara hasta la época del Sō (Sung).
+Ya en el año 65 d. C. se dio la sanción imperial a la religión india, y desde entonces durante siglos los hombres fueron celosos tanto de Confucio como de Buda.[^9] Así que en la época del Tsin oriental «el budismo era la religión principal, . . . y las doctrinas de Confucio eran muy estimadas»;[^10] <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> y p. 4 nuevamente leemos del emperador Wuti de Liang en el siglo VI: «Wuti hizo mucho para restaurar la literatura y el estudio de Confucio; . . . En sus últimos días fue un devoto tan grande del budismo que se retiró a un monasterio como Carlos V».[^11] Esta armonía continuó con poco que la perturbara hasta la época del Sō (Sung).
 
 Fue durante este período de supremacía budista que la literatura china llegó a Japón, y allí también fue honrada pero no se hizo ningún esfuerzo por separarse de su aliado: la religión budista, y no la ética confuciana, es la característica del período.
 
 Sin embargo, cuando, bajo el dominio Tokugawa, el pensamiento chino conquistó Japón por segunda vez, dejó de ser favorable al budismo. Mientras Japón dormía su largo sueño de siglos (del siglo XII al XVII), China despertaba. Por fin, el confucianismo se había consolidado como una filosofía desarrollada y, con su nueva consciencia, había atacado y derrotado a su antiguo aliado. Esta nueva filosofía satisfizo el intelecto chino y, al introducirse en Japón, se abrió camino también allí de inmediato. La era de la fe budista llegó a su fin y el intelecto japonés aceptó, en lugar de la religión india, la filosofía panteísta de Shushi (Chu Hi).[12]
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
-Al lujo y la poesía del Tō (Tang) le siguieron las luchas del Sō (Sung, 970-1127 d. C., o sea, el “Sung del Sur” hasta 1277). Durante los reinados de Chin-tsung y de su hijo Tin-tsung, surgió una violenta controversia entre los literatos y funcionarios sobre la mejor manera de gobernar. Algunos, como el historiador Sz'ma Kwang, abogaban por el mantenimiento de los antiguos principios de los sabios. Otros, entre los que Wang Ngan-shi era el distinguido líder, abogaban por la reforma (pág. 5) y el cambio, hasta la demolición total de las instituciones existentes. Por primera vez en la historia de China, dos partidos políticos lucharon pacíficamente por la supremacía, cada uno conforme con depender de la argumentación y la verdad para obtener la victoria. Sin embargo, la contienda pronto se enconó, y la llegada al poder de un nuevo monarca, Shin-tsung, permitió a Wang desposeer a sus oponentes y gestionar los asuntos estatales a su antojo. Tras un período de prueba de ocho o diez años, la voz de la nación restableció a los conservadores en el poder, y los radicales fueron desterrados más allá de la frontera. Una discusión como esta, que abarcaba todas las ideas más preciadas de los chinos, suscitó una profunda y aguda indagación sobre la naturaleza y los usos de las cosas en general. “Y los escritores de esta dinastía, a la cabeza de los cuales estaba Chu Hi, dejaron una impresión duradera en la mente nacional”.[^13]
+Al lujo y la poesía del Tō (Tang) le siguieron las luchas del Sō (Sung, 970-1127 d. C., o sea, el «Sung del Sur» hasta 1277). Durante los reinados de Chin-tsung y de su hijo Tin-tsung, surgió una violenta controversia entre los literatos y funcionarios sobre la mejor manera de gobernar. Algunos, como el historiador Sz'ma Kwang, abogaban por el mantenimiento de los antiguos principios de los sabios. Otros, entre los que Wang Ngan-shi era el distinguido líder, abogaban por la reforma (pág. 5) y el cambio, hasta la demolición total de las instituciones existentes. Por primera vez en la historia de China, dos partidos políticos lucharon pacíficamente por la supremacía, cada uno conforme con depender de la argumentación y la verdad para obtener la victoria. Sin embargo, la contienda pronto se enconó, y la llegada al poder de un nuevo monarca, Shin-tsung, permitió a Wang desposeer a sus oponentes y gestionar los asuntos estatales a su antojo. Tras un período de prueba de ocho o diez años, la voz de la nación restableció a los conservadores en el poder, y los radicales fueron desterrados más allá de la frontera. Una discusión como esta, que abarcaba todas las ideas más preciadas de los chinos, suscitó una profunda y aguda indagación sobre la naturaleza y los usos de las cosas en general. «Y los escritores de esta dinastía, a la cabeza de los cuales estaba Chu Hi, dejaron una impresión duradera en la mente nacional».[^13]
 
 ## LOS FILÓSOFOS DEL S.O.
 
@@ -77,19 +77,19 @@ Estos filósofos pueden compararse con los escolásticos europeos. Ya no se conf
 
 Shushi nació en el año 1130 y murió en el año 1200. Fue historiador y estadista, además de comentarista y filósofo. Educado en el budismo y el taoísmo, los rechazó y completó el sistema de Ch'eng. Fue empleado repetidamente por el emperador en puestos de gran importancia, pero finalmente falleció en el retiro. Su sistema ha permanecido como estándar en China y no se ha permitido ninguna desviación de su enseñanza en los exámenes. Su comentario es la exposición ortodoxa y su filosofía la metafísica aceptada.[^15] "La Secta de los Sabios" designa a sus seguidores.
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## EL SISTEMA DE SHUSHI.
 
-La filosofía de Shushi (Chu Hi) es descrita así por Eitel: “Aunque el confucianismo moderno ha descartado hace tiempo la creencia en un único Dios supremo, del cual sus escritos clásicos aún conservan un registro inexistente, y aunque sustituyeron al Dios personal que adoraban sus antepasados ​​por una entidad abstracta, carente de personalidad, desprovista de todo atributo, consideran la naturaleza no como un tejido inanimado y muerto, sino como un organismo vivo que respira. Ven una cadena dorada de vida espiritual que recorre toda forma de existencia y une, como en un solo cuerpo vivo, todo lo que subsiste en el cielo o en la tierra. Lo que tan a menudo se ha admirado en la filosofía natural de los griegos —que dieron vida a la naturaleza; que vieron en cada piedra, en cada árbol, un espíritu vivo;...— esta forma poética, emotiva y reverencial de contemplar los objetos naturales es igualmente característica de las ciencias naturales en China”.
+La filosofía de Shushi (Chu Hi) es descrita así por Eitel: «Aunque el confucianismo moderno ha descartado hace tiempo la creencia en un único Dios supremo, del cual sus escritos clásicos aún conservan un registro inexistente, y aunque sustituyeron al Dios personal que adoraban sus antepasados ​​por una entidad abstracta, carente de personalidad, desprovista de todo atributo, consideran la naturaleza no como un tejido inanimado y muerto, sino como un organismo vivo que respira. Ven una cadena dorada de vida espiritual que recorre toda forma de existencia y une, como en un solo cuerpo vivo, todo lo que subsiste en el cielo o en la tierra. Lo que tan a menudo se ha admirado en la filosofía natural de los griegos —que dieron vida a la naturaleza; que vieron en cada piedra, en cada árbol, un espíritu vivo;...— esta forma poética, emotiva y reverencial de contemplar los objetos naturales es igualmente característica de las ciencias naturales en China».
 
-Hay una “reverencia infantil hacia los poderes vivos de la naturaleza”, un “temor sagrado y un temor tembloroso hacia lo invisible”, una “firme creencia en la realidad del mundo invisible y su constante intercomunicación con lo visible y temporal”.
+Hay una «reverencia infantil hacia los poderes vivos de la naturaleza», un «temor sagrado y un temor tembloroso hacia lo invisible», una «firme creencia en la realidad del mundo invisible y su constante intercomunicación con lo visible y temporal».
 
 De hecho, el modo de pensar de Choo-He ha sido adoptado por el confucianismo moderno. Según él, «al principio existía un principio abstracto o mónada, llamado la 'nada absoluta', que evolucionó a partir de sí mismo, el 'gran absoluto'». Este principio abstracto o mónada, el gran absoluto, es la causa primordial de toda existencia. Cuando se movió por primera vez, su aliento [^16] <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> o energía vital, al solidificarse, produjo el gran principio masculino. Cuando se movió al máximo, descansó, y al descansar, produjo el principio femenino. Tras descansar al máximo, volvió a moverse, y así continuó alternando movimiento y reposo sin cesar. Cuando esta causa suprema se dividió en masculino y femenino, lo superior constituyó el cielo, y lo inferior formó la tierra. Así se crearon el cielo y la tierra. Pero la causa suprema, habiendo producido por evolución los principios masculino y femenino, y a través de ellos el cielo y la tierra, no cesó sus constantes permutaciones, en cuyo curso surgieron hombres y animales, vegetales y minerales. Además, la misma energía vital continuó actuando desde entonces, y continuó actuando a través de esos dos orígenes. causas, los poderes masculinos y femeninos de la naturaleza, que desde entonces se empujan y agitan mutua y alternativamente, sin un momento de interrupción.
 
 Ahora bien, la energía que anima los dos principios se denomina en chino K'e (Ki en japonés), o el aliento de la naturaleza. Cuando este aliento surgió por primera vez y produjo los principios masculino y femenino, y finalmente el universo entero, no lo hizo de forma arbitraria ni aleatoria, sino que siguió leyes fijas, inescrutables e inmutables. Estas leyes u orden de la naturaleza, llamadas Li, se consideraron abstractamente antes de la emisión del aliento vital y, por lo tanto, deben considerarse por separado. Además, considerando este Li (Ri en japonés), o el orden general del universo, los antiguos sabios observaron que todas las leyes de la naturaleza y todos los mecanismos de su aliento vital se rigen estrictamente por ciertos principios matemáticos, que pueden trazarse o ilustrarse mediante diagramas que muestran la proporción numérica del universo llamada Su, o números. Pero... Estos tres principios no son directamente cognoscibles por los sentidos: están ocultos a la vista y solo se manifiestan a través de formas y contornos de la naturaleza física."[^17] <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 ## SUS OPONENTES JAPONESES
 
@@ -107,7 +107,7 @@ Shushi intentó coincidir con las diferentes escuelas de pensamiento chino, uni�
 
 Diferenciándose así en su método, también negaba las posturas fundamentales de la filosofía de Shushi. Esta última, como hemos visto en la pág. 11, enseñaba la existencia tanto del «ki» como del «ri», espíritu y ley. Su concepción del «ki» correspondía a la doctrina estoica del «pneuma».[^21] <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> El «ki» no implica necesariamente personalidad. A veces se describe como si fuera la esencia, el poder interior, de todas las cosas. No es «espiritual» en nuestro uso moderno y definido de la palabra. Se identifica con el aire. Existe en todas las cosas. Todas las cosas pueden llamarse «ki»: la hierba, los árboles, el cuerpo humano. Pero el corazón del hombre también es «ki» y muestra su naturaleza cuando se despiertan las pasiones. Desde este punto de vista, podríamos pensar que Shushi es tan estrictamente materialista como los estoicos, pero entonces también deberíamos interpretar la materia en el sentido estoico y no en el moderno. Hay ki sin forma y ki impalpable e invisible. Frente al ki se sitúa el «ri», la ley, el principio de la naturaleza. El ri es invisible y es lo mismo que el «Camino», como la razón. Sin embargo, no es meramente abstracto, pues entonces sería lo mismo que la «naturaleza» budista. El ri es una entidad tan real como el ki, de hecho, una entidad aún más verdadera, pues (teóricamente) precedió al ki y el ki depende de él.[22] Sin embargo, en el mundo real no hay ki sin ri ni ri sin ki. El corazón del hombre, su ki, es pulido y refinado por el ri, por lo que el ri debe ser estudiado y, por lo tanto, el proceso fundamental es «la distinción de las cosas».[23] Si no «conocemos» así, ni siquiera la mejor acción servirá de nada.[24]
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## EL IDEALISMO DE ŌYŌMEI.
 
@@ -125,7 +125,7 @@ La profunda repugnancia que este sistema despertaba entre los seguidores de Shus
 
 ## EL OKINA MONDŌ.
 
-¿Cómo podemos estar seguros, entonces, de la conducta correcta? Aferrémonos firmemente a los grandes principios del altruismo y la humildad, expulsemos el mal de nuestros corazones y sigamos la verdad. Su enseñanza no difiere expresamente de la escuela ortodoxa, pero su énfasis es diferente. Exalta el conocimiento del corazón, insiste en el deber supremo de pulir la ilustre virtud de nuestros corazones y proclama las leyes confucianas como la manifestación de las virtudes del corazón. Para él, el conocimiento del corazón está en todos, pero el sabio lo percibe intuitivamente (p. 14), mientras que otros están en deuda con su enseñanza. Aun así, todos, incluso los ignorantes, pueden alcanzar la dicha de la virtud, ya que el conocimiento del corazón se extiende de lo más bajo a lo más alto, y todos entran en él, aunque con distinción de poderes y lugar. “El gran camino es para todos, pero los viajeros no tienen la misma fuerza. Hay hombres y mujeres, viejos y jóvenes, débiles y fuertes; para cada uno hay un deber acorde con sus capacidades, y al hacerlo cumple la ley de la piedad filial.”[^28] “Pero”, objeta el que pregunta, “esta virtud es tan amplia que no puedo alcanzarla”. Y la respuesta es: “Esa es la sugerencia de un corazón malo. Puedes alcanzarla simplemente porque es tan amplia. La luz del sol y la luna llega a todas partes, y cada uno, según la fuerza de sus ojos, puede usarla; así que todos, hombres y mujeres, eruditos e ignorantes por igual, pueden obedecer esta virtud según su capacidad. En el Cielo se llama el 'Camino' del Cielo y en la tierra, el 'Camino' de la tierra. Originalmente no tenía nombre, pero para enseñar a los ignorantes, los Sabios la llamaron 'obediencia filial'.”[^29] <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> “Mora en el universo como el espíritu mora en el hombre. No tiene principio ni fin. Sin ella no hay tiempo ni ser. En todo el universo no hay nada sin ella. Como el hombre es la cabeza del universo, su imagen en miniatura, la obediencia filial está tanto en cuerpo como en espíritu y es el eje de su existencia.” “Como un espejo refleja muchas formas y colores, pero es en sí mismo inmutable, así también la obediencia filial refleja todas las virtudes, inmutable en sí misma. Todas las virtudes, todos los deberes pueden resolverse en ella, y se llama obediencia filial, porque la obediencia a los padres es el principio del 'Camino'. Su esencia es percibir que, así como nuestros cuerpos provienen de nuestros padres y, sin embargo, son uno con ellos, sus cuerpos también provienen del espíritu del cielo y la tierra, y el espíritu del cielo y la tierra es descendiente del espíritu del universo; así, mi cuerpo es uno con el universo y los dioses. Percibir claramente esta verdad (p. 15) y actuar conforme a ella es obediencia al «Camino». Esta «obediencia» es como el gran mar, y las diversas relaciones son como vasijas con las que sacamos el agua; según sea grande o pequeña la vasija,Redonda o cuadrada, así parece el agua, pero es toda igual al agua del gran mar.”[28a](#fn28a)
+¿Cómo podemos estar seguros, entonces, de la conducta correcta? Aferrémonos firmemente a los grandes principios del altruismo y la humildad, expulsemos el mal de nuestros corazones y sigamos la verdad. Su enseñanza no difiere expresamente de la escuela ortodoxa, pero su énfasis es diferente. Exalta el conocimiento del corazón, insiste en el deber supremo de pulir la ilustre virtud de nuestros corazones y proclama las leyes confucianas como la manifestación de las virtudes del corazón. Para él, el conocimiento del corazón está en todos, pero el sabio lo percibe intuitivamente (p. 14), mientras que otros están en deuda con su enseñanza. Aun así, todos, incluso los ignorantes, pueden alcanzar la dicha de la virtud, ya que el conocimiento del corazón se extiende de lo más bajo a lo más alto, y todos entran en él, aunque con distinción de poderes y lugar. «El gran camino es para todos, pero los viajeros no tienen la misma fuerza. Hay hombres y mujeres, viejos y jóvenes, débiles y fuertes; para cada uno hay un deber acorde con sus capacidades, y al hacerlo cumple la ley de la piedad filial.»[^28] «Pero», objeta el que pregunta, «esta virtud es tan amplia que no puedo alcanzarla». Y la respuesta es: «Esa es la sugerencia de un corazón malo. Puedes alcanzarla simplemente porque es tan amplia. La luz del sol y la luna llega a todas partes, y cada uno, según la fuerza de sus ojos, puede usarla; así que todos, hombres y mujeres, eruditos e ignorantes por igual, pueden obedecer esta virtud según su capacidad. En el Cielo se llama el 'Camino' del Cielo y en la tierra, el 'Camino' de la tierra. Originalmente no tenía nombre, pero para enseñar a los ignorantes, los Sabios la llamaron 'obediencia filial'.»[^29] <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> «Mora en el universo como el espíritu mora en el hombre. No tiene principio ni fin. Sin ella no hay tiempo ni ser. En todo el universo no hay nada sin ella. Como el hombre es la cabeza del universo, su imagen en miniatura, la obediencia filial está tanto en cuerpo como en espíritu y es el eje de su existencia.» «Como un espejo refleja muchas formas y colores, pero es en sí mismo inmutable, así también la obediencia filial refleja todas las virtudes, inmutable en sí misma. Todas las virtudes, todos los deberes pueden resolverse en ella, y se llama obediencia filial, porque la obediencia a los padres es el principio del 'Camino'. Su esencia es percibir que, así como nuestros cuerpos provienen de nuestros padres y, sin embargo, son uno con ellos, sus cuerpos también provienen del espíritu del cielo y la tierra, y el espíritu del cielo y la tierra es descendiente del espíritu del universo; así, mi cuerpo es uno con el universo y los dioses. Percibir claramente esta verdad (p. 15) y actuar conforme a ella es obediencia al «Camino». Esta «obediencia» es como el gran mar, y las diversas relaciones son como vasijas con las que sacamos el agua; según sea grande o pequeña la vasija,Redonda o cuadrada, así parece el agua, pero es toda igual al agua del gran mar.»[28a](#fn28a)
 
 Es esta dependencia implícita de las intuiciones del corazón lo que confiere al sistema de Ōyōmei su atractivo para muchos japoneses. «Sus seguidores eran pocos, pero todos hombres fuertes»,[29a](#fn29a), se nos dice. Y, por otro lado, «la enseñanza de Shushi es admirable, pero debilitó y enervó el espíritu de los japoneses».[^30]
 
@@ -143,7 +143,7 @@ Ambos sistemas expresan con vehemencia su odio al budismo e ignoran su deuda con
 
 El erudito que suele considerarse el primer exponente de la filosofía china es Seiga. No escribió ningún libro. Los grandes eruditos de la escuela ortodoxa formaron un grupo a finales del siglo XVII. De estos hombres, el más conocido es Arai Hakuseki. A su nombre se asocian los nombres de Ito Jinsai, Ogyu Sōrai[^36] y Yamazaki Ansai.
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Estos escritores fueron transmisores de la sabiduría china y venerados en el santuario de Tei-Shu. Ningún occidental se aferró más a la inspiración plenaria de la Biblia, tal como la expuso su comentarista favorito, que estos hombres a los clásicos chinos. Estos contienen la verdad absoluta y eterna del Cielo y la Tierra. Por ella se formó el universo con todas sus huestes. Este "Camino" es la sabiduría inmutable, la razón eterna, el arquetipo divino. Ninguna desviación de él puede quedar impune y ninguna variación en su exposición puede tolerarse. No es más sorprendente que la ortodoxia japonesa no intentara mejorar ni enmendar los clásicos, que que nuestros escritores ortodoxos no intentaran mejorar ni cambiar nuestro texto sagrado. Mientras los escritores occidentales de teología llenan sus páginas con referencias bíblicas, estos escritores de filosofía china las llenan con alusiones a los clásicos. Abundan las citas directas, las referencias y las frases, de modo que cada oración tiene su matiz clásico.
 
@@ -171,9 +171,9 @@ Ni en Shushi ni en Ōyōmei se comprende firmemente la idea de la personalidad. 
 
 ## EL ORIGEN DEL MAL.
 
-Porque todo mal es desorden. La confusión es la esencia del mal. Estrictamente hablando, no hay otro mal. «Nada es malo por naturaleza, pero todo es bueno, aunque con una distinción de rango». Cuando esta distinción de rango se conserva, todos son buenos. Pero esta bondad ideal rara vez se realiza. «Los dioses son la actividad del Cielo y la Tierra, el excelente poder del In y el Yō, y de la verdadera 'ley'... Pero a medida que los dioses llegan al mundo, hay tanto bien como mal. Porque aunque el funcionamiento de los cinco elementos a lo largo de las cuatro estaciones no es... malo en absoluto, aun así, como ese 'espíritu' está disperso y confuso por todo el universo, surgen vientos, calor, frío y tormentas inesperados».[^43] Así sucede con el hombre y todo lo que le pertenece. Como parte de la naturaleza, él también es bueno, originalmente bueno, pero como su “naturaleza se individualiza, tanto el bien como el mal aparecen”. [^44] Que se ponga en armonía con la verdadera naturaleza, y sobre todo que obedezca con corazón inquebrantable, y todo irá bien.
+Porque todo mal es desorden. La confusión es la esencia del mal. Estrictamente hablando, no hay otro mal. «Nada es malo por naturaleza, pero todo es bueno, aunque con una distinción de rango». Cuando esta distinción de rango se conserva, todos son buenos. Pero esta bondad ideal rara vez se realiza. «Los dioses son la actividad del Cielo y la Tierra, el excelente poder del In y el Yō, y de la verdadera 'ley'... Pero a medida que los dioses llegan al mundo, hay tanto bien como mal. Porque aunque el funcionamiento de los cinco elementos a lo largo de las cuatro estaciones no es... malo en absoluto, aun así, como ese 'espíritu' está disperso y confuso por todo el universo, surgen vientos, calor, frío y tormentas inesperados».[^43] Así sucede con el hombre y todo lo que le pertenece. Como parte de la naturaleza, él también es bueno, originalmente bueno, pero como su «naturaleza se individualiza, tanto el bien como el mal aparecen». [^44] Que se ponga en armonía con la verdadera naturaleza, y sobre todo que obedezca con corazón inquebrantable, y todo irá bien.
 
-Así, con el Estado, el crimen es “confusión”. El orden antiguo se ha perdido y, por lo tanto, surge el mal. “En la antigüedad, el Sabio ocupaba el trono; el Hombre Superior era el siguiente en autoridad y todos los que gobernaban eran sabios, mientras que los estúpidos ocupaban su posición natural por debajo del resto. Así, de la sabiduría más alta a la más baja determinaba el rango, y no había maldad. La única distinción era entre superior e inferior.”[^45] <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Y el Sabio gobernaba sin hacer nada. Bastaba con estar envuelto en una toga, entronizado, con los brazos cruzados. No mediante vanos esfuerzos ni conflictos se puede gobernar al imperio ni al individuo. Es sin hacer nada, dejando que la naturaleza siga su camino, que se alcanza la excelencia divina.
+Así, con el Estado, el crimen es «confusión». El orden antiguo se ha perdido y, por lo tanto, surge el mal. «En la antigüedad, el Sabio ocupaba el trono; el Hombre Superior era el siguiente en autoridad y todos los que gobernaban eran sabios, mientras que los estúpidos ocupaban su posición natural por debajo del resto. Así, de la sabiduría más alta a la más baja determinaba el rango, y no había maldad. La única distinción era entre superior e inferior.»[^45] <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Y el Sabio gobernaba sin hacer nada. Bastaba con estar envuelto en una toga, entronizado, con los brazos cruzados. No mediante vanos esfuerzos ni conflictos se puede gobernar al imperio ni al individuo. Es sin hacer nada, dejando que la naturaleza siga su camino, que se alcanza la excelencia divina.
 
 ## EL YO MÁS PROFUNDO.
 
@@ -193,7 +193,7 @@ En una ocasión, al exponer el Gran Saber ante su príncipe, este se sintió tan
 
 Desde 1711 hasta su muerte, trabajó para el gobierno Tokugawa y escribió varios libros bajo su supervisión. Recibió el máximo honor que el gobierno podía otorgar y alcanzó gran influencia y autoridad. Fue un ferviente defensor de la familia Tokugawa y de la escuela ortodoxa de filosofía china, e hizo pequeños esfuerzos por moderar sus expresiones al escribir sobre sus enemigos. Fue durante su vida que los famosos cuarenta y siete ronin llevaron a cabo su hazaña, y Kyusō les dio el nombre por el que aún se les recuerda: Gi-shi, el Samurái Justo.
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Murió el 9 de septiembre de 1784 y fue enterrado por petición propia en Edo, Odzuka, Tsukuba-yama-no-ushiro. Su tumba está marcada por una sencilla lápida grabada con la leyenda «Kyusō Murō Sensei no Haka», la tumba del erudito Kyusō Murō.[^50] Desde su muerte, su reputación ha aumentado y ha ocupado un lugar distinguido entre los eruditos de Japón, siendo especialmente recordado por su gran erudición. <span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
@@ -232,23 +232,23 @@ Los recuerdos sagrados del pasado, los tesoros de la filosofía y la religión, 
 
 ## Notas al pie
 
-[^1]: “El Kō-ji-ki”, traducido por B. H. Chamberlain, vol. X, apéndice; “El renacimiento del Shin-tau puro”, de Ernest Satow, vol. III, apéndice; “Antiguos rituales japoneses”, del mismo autor, vols. VII y IX; también “La poesía clásica japonesa”, de B. H. Chamberlain.
+[^1]: «El Kō-ji-ki», traducido por B. H. Chamberlain, vol. X, apéndice; «El renacimiento del Shin-tau puro», de Ernest Satow, vol. III, apéndice; «Antiguos rituales japoneses», del mismo autor, vols. VII y IX; también «La poesía clásica japonesa», de B. H. Chamberlain.
 
-[^2]: “Cosas japonesas”, por BH Chamberlain, pág. 71, 2.ª ed.
+[^2]: «Cosas japonesas», por BH Chamberlain, pág. 71, 2.ª ed.
 
 [^3]: Traducciones de James Troup de la enseñanza Shin, Vols. XIV, XVII de estas Transacciones.
 
-[^4]: “La Revista Internacional de Ética”, Vol. 1, No. 3, pág. 307.
+[^4]: «La Revista Internacional de Ética», Vol. 1, No. 3, pág. 307.
 
-[^5]: “Cosas japonesas”, 2.ª edición, pág. 92.
+[^5]: «Cosas japonesas», 2.ª edición, pág. 92.
 
-[^6]: Véase “Las religiones de China”, Lección I; y “Un compendio sistemático de las doctrinas de Confucio” de Faber, págs. 44-53.
+[^6]: Véase «Las religiones de China», Lección I; y «Un compendio sistemático de las doctrinas de Confucio» de Faber, págs. 44-53.
 
-[^7]: “Las religiones de China”, pág. 180.
+[^7]: «Las religiones de China», pág. 180.
 
-[^8]: “The China Review” Vol. VIII, No. 1, pág. 59.
+[^8]: «The China Review» Vol. VIII, No. 1, pág. 59.
 
-[^9]: El Dr. Edkins (“El Fénix”, vol. III, págs. 47-49) divide el desarrollo intelectual de China en cinco etapas: 1. La lucha del confucianismo contra diversas especulaciones, con la doctrina taoísta ganando terreno cada año; 2. La dinastía Han, cuando el tono de la especulación era predominantemente taoísta; 3. Las seis dinastías, cuando el budismo triunfó; 4. La dinastía Tang, suntuosa y poética; 5. La dinastía Sung, y así hasta nuestros días. En ninguno de estos períodos, el “aspecto puramente humano de la moral” fue el credo de los chinos cultos. Siempre fue necesario añadir algo para satisfacer sus necesidades intelectuales y religiosas.
+[^9]: El Dr. Edkins («El Fénix», vol. III, págs. 47-49) divide el desarrollo intelectual de China en cinco etapas: 1. La lucha del confucianismo contra diversas especulaciones, con la doctrina taoísta ganando terreno cada año; 2. La dinastía Han, cuando el tono de la especulación era predominantemente taoísta; 3. Las seis dinastías, cuando el budismo triunfó; 4. La dinastía Tang, suntuosa y poética; 5. La dinastía Sung, y así hasta nuestros días. En ninguno de estos períodos, el «aspecto puramente humano de la moral» fue el credo de los chinos cultos. Siempre fue necesario añadir algo para satisfacer sus necesidades intelectuales y religiosas.
 
 [^10]: El Reino Medio, Vol. II, pág. 165.
 
@@ -258,27 +258,27 @@ Los recuerdos sagrados del pasado, los tesoros de la filosofía y la religión, 
 
 [^13]: El Reino Medio, Vol. II, p.174.
 
-[^14]: “Manual” de Mayers, pág. 34.
+[^14]: «Manual» de Mayers, pág. 34.
 
-[^15]: El nombre de Shushi ha sido escrito de diversas maneras por escritores en China, como Chu-hsi, Choo He, Chu He, Chu Hi y Ku Hsi. El Dr. Legge ha utilizado gran parte del comentario de Shushi en relación con sus diversas traducciones. Se dan relatos de su vida en Mayer, pág. 25; Meadows, The Chinese, cap. XVIII; en el Chinese Repository, vol. XVIII, pág. 206 y sig. Una sección de sus escritos ha sido traducida por Medhurst, Chinese Repository, vol. XIII, págs. 552, 609 y sig. También por Canon McClatchie, —“Cosmogonía china”, que es la “Sección cuarenta y nueve de las Obras completas”, con críticas y defensa en The China Review, vol. III, pág. 342 y sig., vol. IV, págs. 84, 342 y sig. “El Reino Medio” tiene varias referencias a Shushi (Chu Hi), siendo la más extensa la del vol. I, págs. 682-685. WAP Martin, DD, ofrece una interesante reseña de algunos puntos de su filosofía: «La filosofía cartesiana antes de Descartes (extracto de la Revista de la Sociedad Oriental de Pekín)». Véase también «Doctrinas de Confucio» de Faber, págs. 32-33. Rev. Griffith John, Revista de la Rama del Norte de China de la Real Sociedad Asiática, vol. II, n.º 1, págs. 37-44, «La ética de los chinos».
+[^15]: El nombre de Shushi ha sido escrito de diversas maneras por escritores en China, como Chu-hsi, Choo He, Chu He, Chu Hi y Ku Hsi. El Dr. Legge ha utilizado gran parte del comentario de Shushi en relación con sus diversas traducciones. Se dan relatos de su vida en Mayer, pág. 25; Meadows, The Chinese, cap. XVIII; en el Chinese Repository, vol. XVIII, pág. 206 y sig. Una sección de sus escritos ha sido traducida por Medhurst, Chinese Repository, vol. XIII, págs. 552, 609 y sig. También por Canon McClatchie, —«Cosmogonía china», que es la «Sección cuarenta y nueve de las Obras completas», con críticas y defensa en The China Review, vol. III, pág. 342 y sig., vol. IV, págs. 84, 342 y sig. «El Reino Medio» tiene varias referencias a Shushi (Chu Hi), siendo la más extensa la del vol. I, págs. 682-685. WAP Martin, DD, ofrece una interesante reseña de algunos puntos de su filosofía: «La filosofía cartesiana antes de Descartes (extracto de la Revista de la Sociedad Oriental de Pekín)». Véase también «Doctrinas de Confucio» de Faber, págs. 32-33. Rev. Griffith John, Revista de la Rama del Norte de China de la Real Sociedad Asiática, vol. II, n.º 1, págs. 37-44, «La ética de los chinos».
 
-[^16]: “Entre el cielo y la tierra no hay nada tan importante, tan todopoderoso y omnipresente como este aliento de la naturaleza... A través de él, el cielo, la tierra y toda criatura viven, se mueven y tienen su ser. El aliento de la naturaleza no es, de hecho, más que la energía espiritual de los principios masculino y femenino.” “Feng-shui”, pág. 45.
+[^16]: «Entre el cielo y la tierra no hay nada tan importante, tan todopoderoso y omnipresente como este aliento de la naturaleza... A través de él, el cielo, la tierra y toda criatura viven, se mueven y tienen su ser. El aliento de la naturaleza no es, de hecho, más que la energía espiritual de los principios masculino y femenino.» «Feng-shui», pág. 45.
 
-[^17]: “Feng-shui”, págs. 5-9. Véase “Ki, Ri y Ten” más adelante. También mi “Comentario” más abajo para una exposición más detallada, que difiere ligeramente del de Eitel.
+[^17]: «Feng-shui», págs. 5-9. Véase «Ki, Ri y Ten» más adelante. También mi «Comentario» más abajo para una exposición más detallada, que difiere ligeramente del de Eitel.
 
-[^18]: “El renacimiento del Shin-tau puro”, págs. 13-14, 21-34.
+[^18]: «El renacimiento del Shin-tau puro», págs. 13-14, 21-34.
 
-[^19]: ### n. 1140 d. C. “En oposición a la erudición filosófica crítica de Chu-hsi, Lu desea que la rectificación del corazón y la vida sea el punto principal, como inicio y objetivo del estudio. No cabe duda de que en esto Confucio está de su lado”. Faber, “Doctrinas de Confucio”, pág. 33.
+[^19]: ### n. 1140 d. C. «En oposición a la erudición filosófica crítica de Chu-hsi, Lu desea que la rectificación del corazón y la vida sea el punto principal, como inicio y objetivo del estudio. No cabe duda de que en esto Confucio está de su lado». Faber, «Doctrinas de Confucio», pág. 33.
 
-[^20]: “Manual” de Mayers, pág. 246. Este breve párrafo es todo lo que he podido encontrar en inglés. Una conferencia impartida recientemente por el profesor Inoue, de la Universidad Imperial, es la fuente de mi análisis de Ōyōmei y su filosofía. Publicado en el Rikugo Zasshi, febrero de 1892.
+[^20]: «Manual» de Mayers, pág. 246. Este breve párrafo es todo lo que he podido encontrar en inglés. Una conferencia impartida recientemente por el profesor Inoue, de la Universidad Imperial, es la fuente de mi análisis de Ōyōmei y su filosofía. Publicado en el Rikugo Zasshi, febrero de 1892.
 
-[^21]: Pneuma “es la totalidad de toda la existencia; de él procede todo el universo visible, para luego disolverse en él de nuevo… De él se separó primero el fuego elemental, y este de nuevo se condensa en aire; un paso más en el camino descendente deriva el agua y la tierra de la solidificación del aire… De los elementos, la sustancia única se transforma en la multitud de cosas individuales”. Enc. Brit., art. Estoicos. Compárese con las págs. 46-47 infra.
+[^21]: Pneuma «es la totalidad de toda la existencia; de él procede todo el universo visible, para luego disolverse en él de nuevo… De él se separó primero el fuego elemental, y este de nuevo se condensa en aire; un paso más en el camino descendente deriva el agua y la tierra de la solidificación del aire… De los elementos, la sustancia única se transforma en la multitud de cosas individuales». Enc. Brit., art. Estoicos. Compárese con las págs. 46-47 infra.
 
-[^22]: Para un ejemplo del proceso de esta “cosificación del concepto”, véase [p. 47](Libro_1#p47) más abajo.
+[^22]: Para un ejemplo del proceso de esta «cosificación del concepto», véase [p. 47](../Libro_1#p47) más abajo.
 
-[^23]: Este método pretende basarse en una frase de Confucio: «la distinción de las cosas». Véase la [nota de la pág. 43](Libro_1#fn34), más abajo.
+[^23]: Este método pretende basarse en una frase de Confucio: «la distinción de las cosas». Véase la [nota de la pág. 43](../Libro_1#fn34), más abajo.
 
-[^24]: [P. 72](Libro_2#p72) abajo.
+[^24]: [P. 72](../Libro_2#p72) abajo.
 
 [^25]: El sistema de Ōyōmei se puede estudiar en el ###, Den-shu-roku, el Zen-sho y el Zen-shu, ###.
 
@@ -290,7 +290,7 @@ Los recuerdos sagrados del pasado, los tesoros de la filosofía y la religión, 
 
 [^29]: Okina Mondō, vol. I.p. 3.
 
-[28a](#fr_28a) Okina Mondo, vol. I, págs. 3-7. El Okina Mondo es una obra póstuma de Nakai Tōju, impresa en 1650 d. C. Imprimí una traducción abreviada en “El Crisantemo”, vol. II, núms. 3, 4, 6 y 8.
+[28a](#fr_28a) Okina Mondo, vol. I, págs. 3-7. El Okina Mondo es una obra póstuma de Nakai Tōju, impresa en 1650 d. C. Imprimí una traducción abreviada en «El Crisantemo», vol. II, núms. 3, 4, 6 y 8.
 
 [29a](#fr_29a) Profesor T. Inoue.
 
@@ -306,31 +306,31 @@ Los recuerdos sagrados del pasado, los tesoros de la filosofía y la religión, 
 
 [^35]: Durante una época de escasez, la ira de Ōshio se desató por la conducta despiadada de un funcionario de Ōsaka que se negó a remitir los impuestos. Así que Ōshio, influenciado por sus opiniones filosóficas hacia una indiferencia democrática hacia el rango y el derecho oficial, lideró un asalto a los almacenes del gobierno, tomó el grano y lo distribuyó al pueblo. El levantamiento fue rápidamente sofocado y Ōshio sufrió la muerte como criminal. Otro relato dice que en el camino a Satsuma se perdió en el mar: "Dai Ni Hon Jim-mei Ji-sho". Vol. I: ### Es posible que las enseñanzas de la escuela Ōyōmei fueran más peligrosas para el orden existente de lo que parece a un estudiante extranjero, y que Tokugawa conociera mejor sus propios intereses al prohibir su propagación.
 
-[^36]: Jinsu y Sōrai no eran ortodoxos. Vea la “Nota” del Sr. Haga a continuación.
+[^36]: Jinsu y Sōrai no eran ortodoxos. Vea la «Nota» del Sr. Haga a continuación.
 
-[^37]: La antigua escuela de aprendizaje “Kogaku” también se basó en la escuela china moderna.—Doctrinas de Confucio de Faber, pág. 34; y la “Nota” del Sr. Haga a continuación.
+[^37]: La antigua escuela de aprendizaje «Kogaku» también se basó en la escuela china moderna.—Doctrinas de Confucio de Faber, pág. 34; y la «Nota» del Sr. Haga a continuación.
 
 [^38]: Por supuesto, se encuentran casos similares en la historia de China.
 
-[^39]: [Pp. 41, 42](Libro_1#p41) abajo.
+[^39]: [Pp. 41, 42](../Libro_1#p41) abajo.
 
-[^40]: Se han publicado numerosas traducciones de los sermones de esta escuela, entre las más antiguas se encuentran “Cuentos del antiguo Japón” de AB Mitford, págs. 288-326. Los sermones más conocidos son los llamados Kyuō Dōwa y Shingaku Michi no Hanashi. Además de estos, existen, entre otros: Shō-ō Michi no Hanashi, Dōni-ō Dō-wa, Shingaku-kyoyu-roku y Zoku-zoku Kyuō Dōwa.
+[^40]: Se han publicado numerosas traducciones de los sermones de esta escuela, entre las más antiguas se encuentran «Cuentos del antiguo Japón» de AB Mitford, págs. 288-326. Los sermones más conocidos son los llamados Kyuō Dōwa y Shingaku Michi no Hanashi. Además de estos, existen, entre otros: Shō-ō Michi no Hanashi, Dōni-ō Dō-wa, Shingaku-kyoyu-roku y Zoku-zoku Kyuō Dōwa.
 
-[^41]: [P. 50](Libro_1#p50) abajo.
+[^41]: [P. 50](../Libro_1#p50) abajo.
 
 [^42]: El Okina Mondō, vol. V. págs. 17-18.
 
-[^43]: [P. 55](Libro_1#p55) abajo.
+[^43]: [P. 55](../Libro_1#p55) abajo.
 
-[^44]: [P. 55](Libro_1#p55) abajo.
+[^44]: [P. 55](../Libro_1#p55) abajo.
 
 [^45]: El Okina Mondō, vol. II, pág. 31.
 
-[^46]: [Pág. 60](Libro_1#p60) a continuación. Compárese con una cierta fase del misticismo cristiano: —“Oh, ser nada, nada”; “Un vaso roto y vacío”; “Vacío, para que Él me llenara”; “Roto, para que, sin impedimentos, su vida fluyera a través de mí”.
+[^46]: [Pág. 60](../Libro_1#p60) a continuación. Compárese con una cierta fase del misticismo cristiano: —«Oh, ser nada, nada»; «Un vaso roto y vacío»; «Vacío, para que Él me llenara»; «Roto, para que, sin impedimentos, su vida fluyera a través de mí».
 
 [^47]: El Okina Mondō, vol. V pág. 26.
 
-[^48]: [P. 40](Libro_1#p40) abajo.
+[^48]: [P. 40](../Libro_1#p40) abajo.
 
 [^49]: El culto a los antepasados ​​sigue siendo una inconsistencia difícil de explicar en la filosofía de Shushi. Enseña (en el Gorui ###) que al morir somos como la llama: asciende y desaparece, pero no podemos decir que haya dejado de existir. Es ley que el espíritu del hombre (ki ###) se disuelve al morir, se desvanece en el aire; pero hay excepciones. Cuando los hombres mueren de forma natural, y por así decirlo, voluntariamente, el espíritu se disuelve; pero cuando mueren violentamente, con enérgica protesta, el espíritu permanece retenido por un tiempo y puede regresar, manifestarse (p. 24) y causar daño. Un hombre asesinado por su esposa adúltera pareció ser su perdición, pues su odio mantuvo su espíritu unido hasta que se ejecutó la venganza. Pero tales excepciones son solo temporales; finalmente, todos regresan al espíritu primigenio. Shushi salva así su filosofía y su ortodoxia.
 

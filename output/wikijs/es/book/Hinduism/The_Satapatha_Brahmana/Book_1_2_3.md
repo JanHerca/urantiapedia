@@ -273,7 +273,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v2_3_4_4040"><sup><small>2:3:4:4040.</small></sup></span> A continuación, un verso dirigido a Agni (Vâ<i>g</i>. S. III, 36), donde finalmente se entrega a Agni para su protección: «¡Que tu carro inexpugnable, con el que proteges a los adoradores, nos rodee por todos lados!». Los adoradores, sin duda, son <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> los sacrificadores; y con el carro inexpugnable que él (Agni) posee, con él protege a los sacrificadores. Por lo tanto, con esto quiere decir: «Con el carro inexpugnable que posees, con el que proteges a los sacrificadores, con él nos proteges por todos lados». Este (verso) lo murmura tres veces.
 
-<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span> Luego pronuncia el nombre de su hijo [1](Book_1_2_4#fn787): «¡Que este hijo (NN) perpetúe esta obra tan varonil!». Si no tiene hijo, que inserte su propio nombre.
+<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span> Luego pronuncia el nombre de su hijo [1](../Book_1_2_4#fn787): «¡Que este hijo (NN) perpetúe esta obra tan varonil!». Si no tiene hijo, que inserte su propio nombre.
 
 <figure class="table chapter-navigator">
   <table>
@@ -313,7 +313,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^749]: 331:1 Según Kâty. IV, 14, 5, el Adhvaryu ilumina la leche con una pajita encendida; le vierte un poco de agua con la sruva o cuchara de inmersión; luego la ilumina una vez más; y levanta la olla tres veces, colocándola cada vez más al norte del fuego. Acto seguido, calienta las dos cucharas; las limpia con la mano; y, tras calentarlas una vez más, le dice al sacrificador: «¡Yo cucharón!». Este, de pie, responde: «¡Om, cucharón!».
 
-[^750]: 331:2 Para el Agnihotra-hava<i>n</i>î, o cuchara para ofrendas (sru<i>k</i>), usada en las libaciones matutinas y vespertinas, y hecha de madera de Vikankata (Flacourtia Sapida), véase [p. 67](Book_1_1_2#p67), nota [2](Book_1_1_3#fn207). Quienes hacen cinco cortes del havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](Book_1_1_7#p192) nota), toman cinco sruva-fuls. Kâty. IV, 14, 10, Comm.
+[^750]: 331:2 Para el Agnihotra-hava<i>n</i>î, o cuchara para ofrendas (sru<i>k</i>), usada en las libaciones matutinas y vespertinas, y hecha de madera de Vikankata (Flacourtia Sapida), véase [p. 67](../Book_1_1_2#p67), nota [2](../Book_1_1_3#fn207). Quienes hacen cinco cortes del havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](../Book_1_1_7#p192) nota), toman cinco sruva-fuls. Kâty. IV, 14, 10, Comm.
 
 [^751]: 331:3 Es decir, por los cuatro pezones de la ubre. Com.
 
@@ -339,7 +339,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^762]: 334:6 Âgatam, 'lo que ha llegado o ha sucedido', 'lo consumado'.
 
-[^763]: 335:1 El texto Kâ<i>n</i>va tiene,—Aquí ahora Daksha le dijo a Âru<i>n</i>i, 'Para alguien que desee obtener brahmavar<i>k</i>asa uno debe ofrecer con este texto, “Agni es brillo, la luz es brillo;”—“Sûrya es brillo, la luz es brillo”: un brahmavar<i>k</i>asin, entonces, se vuelve para quienquiera que sacrifiquen.'
+[^763]: 335:1 El texto Kâ<i>n</i>va tiene,—Aquí ahora Daksha le dijo a Âru<i>n</i>i, 'Para alguien que desee obtener brahmavar<i>k</i>asa uno debe ofrecer con este texto, «Agni es brillo, la luz es brillo;»—«Sûrya es brillo, la luz es brillo»: un brahmavar<i>k</i>asin, entonces, se vuelve para quienquiera que sacrifiquen.'
 
 [^764]: 336:1 He hecho que el discurso de <i>G</i>îvala</i> se extienda hasta el final del párrafo 35, como se hace, sin duda correctamente, en el texto de Kâ<i>n</i>va.
 
@@ -359,7 +359,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^772]: 338:5 Aquí Yama es aparentemente tomado como (el dios de) la muerte y la destrucción, causadas, como sugiere el profesor Weber, por las expediciones bélicas de Na<i>d</i>a, rey de Nishadha, en el sur.
 
-[^773]: 339:1 Es decir, el fuego en el que se cuece el arroz Anvâhârya, la dakshi<i>n</i>a de los sacerdotes en los sacrificios de luna nueva y luna llena. Véase I, 2, 3, 5; [p. 49](Book_1_1_2#p49), nota [1](Book_1_1_2#fn173).
+[^773]: 339:1 Es decir, el fuego en el que se cuece el arroz Anvâhârya, la dakshi<i>n</i>a de los sacerdotes en los sacrificios de luna nueva y luna llena. Véase I, 2, 3, 5; [p. 49](../Book_1_1_2#p49), nota [1](../Book_1_1_2#fn173).
 
 [^774]: 342:1 Ity âbilam âsa, es decir, 'hubo una (corrida general) hacia un agujero' (o quizás 'hacia la salida').
 
@@ -393,4 +393,4 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^789]: 354:1 Doshâvastar, 'el iluminador del crepúsculo'; o tal vez, como propone el profesor Ludwig, 'Nos acercamos a ti, día a día, al anochecer y al amanecer (por la tarde y por la mañana), con oración'.
 
-[^790]: 356:1 O, el Sâvitrî, ​​es decir, la oración sagrada a Savitri, el sol, también llamada Gâyatrî, Rig-veda III, 62, a. Cf. [p. 344](Book_1_2_3#p344), nota [1](Book_1_2_3#fn772).
+[^790]: 356:1 O, el Sâvitrî, ​​es decir, la oración sagrada a Savitri, el sol, también llamada Gâyatrî, Rig-veda III, 62, a. Cf. [p. 344](../Book_1_2_3#p344), nota [1](../Book_1_2_3#fn772).

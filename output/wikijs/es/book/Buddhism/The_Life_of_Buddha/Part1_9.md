@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 
 Un día, alguien habló en presencia del príncipe y contó cómo la hierba del bosque se había vuelto de un verde tierno, cómo los pájaros de los árboles cantaban la primavera y cómo, en los estanques, se desplegaban los grandes lotos. La naturaleza había roto las cadenas que el invierno había forjado, y, alrededor de la ciudad, aquellos jardines tan queridos por las jóvenes doncellas estaban ahora alegremente alfombrados de flores. Entonces, como un elefante confinado demasiado tiempo en su establo, el príncipe sintió un deseo irresistible de abandonar el palacio.
@@ -43,7 +43,7 @@ El rey se enteró del deseo de su hijo y no supo cómo oponerse.
 
 La ciudad fue decorada con guirnaldas y serpentinas, se preparó un magnífico carro y se ordenó a los lisiados, ancianos y mendigos que abandonaran las calles por donde pasaría el príncipe.
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Cuando llegó el momento, el rey mandó llamar a su hijo, y con lágrimas en los ojos lo besó en la frente. Su mirada se detuvo sobre él y le dijo: "¡Vete!". Y con esa palabra le dio permiso para salir del palacio, aunque su corazón le decía otra cosa.
 
@@ -67,9 +67,9 @@ Lo que estropea la belleza, lo que arruina el vigor, lo que causa tristeza y mat
 
 El príncipe se sintió profundamente conmovido. Preguntó:
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
-“¿Ese será también mi destino?”
+«¿Ese será también mi destino?»
 
 El auriga respondió:
 
@@ -87,7 +87,7 @@ Pero los dioses crearon un hombre afligido por una enfermedad repugnante y lo pu
 
 Siddhartha vio al enfermo, lo miró fijamente y preguntó al auriga:
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ¿Qué es este hombre con la panza hinchada? Sus brazos demacrados cuelgan flácidos, está pálido como la muerte y de sus labios salen gritos lastimeros. Jadea; mira, se tambalea y empuja a los transeúntes; se cae... Auriga, auriga, ¿qué es este hombre?
 
@@ -97,7 +97,7 @@ Mi señor, este hombre conoce el tormento de la enfermedad, pues padece el mal d
 
 El príncipe miró al hombre con compasión y volvió a preguntar:
 
-“¿Es esta aflicción peculiar de este hombre, o todas las criaturas están amenazadas por la enfermedad?”
+«¿Es esta aflicción peculiar de este hombre, o todas las criaturas están amenazadas por la enfermedad?»
 
 El auriga respondió:
 
@@ -119,11 +119,11 @@ Pero los dioses celosos crearon un cadáver. Cuatro hombres lo cargaron, y otros
 
 Y el hijo del rey preguntó:
 
-“¿Quién es aquel que es llevado por cuatro hombres, seguido por otros que visten ropas oscuras y lloran?”
+«¿Quién es aquel que es llevado por cuatro hombres, seguido por otros que visten ropas oscuras y lloran?»
 
 El auriga debería haber guardado silencio, pero fue la voluntad de los dioses que respondiera:
 
-“Mi señor, no tiene inteligencia, ni sentimientos, ni aliento; duerme inconsciente, como la hierba o un trozo de madera; el placer y el sufrimiento ya no significan nada para él, y tanto amigos como enemigos lo han abandonado.”
+«Mi señor, no tiene inteligencia, ni sentimientos, ni aliento; duerme inconsciente, como la hierba o un trozo de madera; el placer y el sufrimiento ya no significan nada para él, y tanto amigos como enemigos lo han abandonado.»
 
 El príncipe estaba preocupado. Preguntó: "¿Es esta una condición peculiar de este hombre, o acaso este mismo fin espera a todas las criaturas?"
 

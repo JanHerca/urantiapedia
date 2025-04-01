@@ -84,7 +84,7 @@ Todos los buenos nombres y las cualidades sublimes provienen de la Palabra. La P
 
 Exteriormente es fuego ardiente, mientras que interiormente es luz serena. Esta es el agua que da vida a todas las cosas.
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Rogamos a Dios que podamos participar de esta Agua Viva del Cielo y beber del Cáliz Espiritual de Descanso, y así ser libres de todo lo que tiende a impedirnos acercarnos a Su amor.
 

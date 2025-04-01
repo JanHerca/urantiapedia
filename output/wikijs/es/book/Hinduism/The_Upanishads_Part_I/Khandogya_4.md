@@ -42,19 +42,19 @@ CUARTO PRAP AKA.
 
 3\. El otro le respondió: '¿Cómo puedes hablar de él, siendo lo que es (un râ<i>g</i>anya, noble), como si fuera como Raikva con el carro [^195]?'
 
-4\. El primero respondió: “¿Qué le pasa a este Raikva con el carro del que hablas?”
+4\. El primero respondió: «¿Qué le pasa a este Raikva con el carro del que hablas?»
 
 El otro respondió: «Así como (en un juego de dados) todas las castas inferiores [^196] pertenecen a quien ha conquistado con la tirada Krita, así también todas las buenas acciones de otros pertenecen a ese Raikva. De quien sabe lo que sabe, así hablo yo».
 
 5\. <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a escuchó esta conversación, y tan pronto como se levantó por la mañana, le dijo a su portero (kshatt<i>ri</i>): 'Amigo, ¿hablas de (mí, como si fuera) Raikva con el carro?'
 
-Él respondió: “¿Cómo es eso de Raikva, del coche?”
+Él respondió: «¿Cómo es eso de Raikva, del coche?»
 
 6\. El rey dijo: «Así como (en un juego de dados), todas las castas inferiores pertenecen a quien ha conquistado con la tirada Krita, así también todas las buenas acciones de otros pertenecen a ese Raikva. De quien sabe lo que sabe, así hablo yo». <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> 7\. El portero fue a buscar a Raikva, pero regresó diciendo: «No lo encontré». Entonces el rey dijo: «¡Ay! Donde se debe buscar a un brahmán (en la soledad del bosque), allí hay que ir a buscarlo».
 
 8\. El portero se acercó a un hombre que yacía debajo de un carro rascándose las llagas [^197]. Se dirigió a él y le dijo: «Señor, ¿es usted Raikva el del carro?».
 
-Él respondió: “Aquí estoy”.
+Él respondió: «Aquí estoy».
 
 Entonces el portero volvió y dijo: "Lo he encontrado".
 
@@ -106,9 +106,9 @@ Estas son las aldeas de Raikva-par<i>n</i>a en el país de los Mahâv<i>ri</i>sh
 
 5\. Le dijo: «Nadie, excepto un verdadero brahmán, hablaría así. Ve a buscar leña, amigo, yo te iniciaré. No te has desviado de la verdad».
 
-Habiéndole iniciado, escogió cuatrocientas vacas flacas y débiles, y le dijo: “Cuida de éstas, amigo”.
+Habiéndole iniciado, escogió cuatrocientas vacas flacas y débiles, y le dijo: «Cuida de éstas, amigo».
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Los expulsó y se dijo a sí mismo: «No volveré a menos que traiga mil». Vivió varios años (en el bosque), y cuando las vacas llegaron a ser mil,
 
@@ -130,7 +130,7 @@ Le dijo: «La región oriental es un cuarto, la región occidental es un cuarto,
 
 (Tras estas palabras del toro), Satyakâma, al día siguiente, condujo las vacas hacia la casa del maestro. Y cuando llegaron al anochecer, encendió una fogata, encerró a las vacas, echó leña y se sentó detrás de ella, mirando hacia el este. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 2\. Entonces Agni (el fuego) le dijo: «¡Satyakâma!». Él respondió: «Señor».
 
-3\. Agni dijo: “Amigo, te declararé un pie de Brahman”.
+3\. Agni dijo: «Amigo, te declararé un pie de Brahman».
 
 «Declárelo, señor», respondió.
 
@@ -168,7 +168,7 @@ Le dijo: «La respiración es un cuarto, el ojo es un cuarto, el oído es un cua
 
 Quien conoce esto y medita en el pie de Brahman, compuesto de cuatro direcciones, llamado Âyatanavat, posee un hogar en este mundo. Conquista los mundos que ofrecen un hogar, quien conoce esto y medita en el pie de Brahman, compuesto de cuatro direcciones, llamado Âyatanavat.
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## NOVENO KHA<i>N</i><i>D</i>A.
 
@@ -190,7 +190,7 @@ El estudiante, afligido, no podía comer. <span id="p65"><sup><small>[ p. 65 ]</
 
 5\. 'El aliento es Brahman, Ka (el placer) es Brahman, Kha (el éter) es Brahman.'
 
-Dijo: “Entiendo que el aliento es Brahman, pero no entiendo a Ka o Kha [^210].”
+Dijo: «Entiendo que el aliento es Brahman, pero no entiendo a Ka o Kha [^210].»
 
 Dijeron: «Lo que es Ka es Kha, lo que es Kha es Ka» [211]. Por lo tanto, le enseñaron que Brahman es el aliento y el éter (en el corazón) [212].
 
@@ -251,7 +251,7 @@ El maestro dijo: «Amigo mío, te han enseñado sobre los mundos, pero te diré 
 5\. Así como un hombre que camina sobre dos piernas y un carruaje de dos ruedas avanza, así también avanza su sacrificio, y con el sacrificio exitoso, el sacrificador avanza; sí, habiendo sacrificado, se vuelve mejor.
 
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## DÉCIMO SÉPTIMO KHAND.
 

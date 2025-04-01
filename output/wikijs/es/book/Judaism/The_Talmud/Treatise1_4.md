@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 1\. La oración de la mañana puede rezarse hasta el mediodía. R. Judah dice "hasta la hora cuarta". La oración de la tarde, hasta la noche. R. Judah dice "hasta la media tarde". La oración de la noche no tiene límite, y las oraciones adicionales pueden rezarse durante todo el día. R. Judah dice "hasta la hora séptima".
 

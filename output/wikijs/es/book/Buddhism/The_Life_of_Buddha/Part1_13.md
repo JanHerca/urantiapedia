@@ -32,18 +32,18 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 
 Kanthaka lo cargó valientemente una gran distancia. Cuando el sol finalmente se asomó entre los párpados de la noche, el más noble de los hombres vio que estaba cerca de un bosque donde habitaban muchos ermitaños piadosos. Los ciervos dormían bajo los árboles y los pájaros revoloteaban sin miedo. Siddhartha se sintió descansado y pensó que no necesitaba ir más lejos. Desmontó y acarició suavemente a su caballo. Había felicidad en su mirada y en su voz cuando le dijo a Chandaka:
 
 En verdad, un caballo tiene la fuerza y ​​la rapidez de un dios. Y tú, querido amigo, al acompañarme, me has demostrado cuán grande es tu cariño y tu valentía. Fue una acción noble y me complace. Quienes, como tú, pueden combinar energía y devoción son realmente escasos. Has demostrado ser mi amigo, ¡y no esperas ninguna recompensa de mí! Sin embargo, suele ser el interés egoísta el que une a las personas. Te aseguro que me has hecho muy feliz. Toma el caballo ahora y regresa a la ciudad. He encontrado el bosque que buscaba.
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 El héroe se quitó sus joyas y se las entregó a Chandaka.
 
-“Toma este collar”, dijo, “y ve con mi padre. Dile que crea en mí y no se deje llevar por su dolor. Si entro en una ermita, no es porque carezca de afecto hacia mis amigos ni porque mis enemigos provoquen mi ira; ni es porque busque un lugar entre los dioses. La mía tiene una razón más digna: destruiré la vejez y la muerte. Por lo tanto, no te aflijas, Chanda, y no dejes que mi padre sea infeliz. Dejé mi hogar para librarme de la infelicidad. La infelicidad nace del deseo; es digno de lástima el hombre que es esclavo de sus pasiones. Cuando un hombre muere, siempre hay herederos de su fortuna, pero los herederos de sus virtudes rara vez se encuentran, nunca se encuentran. Si mi padre te dice: “Se fue al bosque antes de la hora señalada”, responderás que la vida es tan incierta que la práctica de la virtud nunca es inoportuna. Dile esto al rey, oh amigo mío, y haz todo lo posible por que me olvide. Dile que yo no poseen ni virtud ni mérito; porque un hombre sin virtud nunca es amado, y aquel que nunca es amado nunca es llorado.”
+«Toma este collar», dijo, «y ve con mi padre. Dile que crea en mí y no se deje llevar por su dolor. Si entro en una ermita, no es porque carezca de afecto hacia mis amigos ni porque mis enemigos provoquen mi ira; ni es porque busque un lugar entre los dioses. La mía tiene una razón más digna: destruiré la vejez y la muerte. Por lo tanto, no te aflijas, Chanda, y no dejes que mi padre sea infeliz. Dejé mi hogar para librarme de la infelicidad. La infelicidad nace del deseo; es digno de lástima el hombre que es esclavo de sus pasiones. Cuando un hombre muere, siempre hay herederos de su fortuna, pero los herederos de sus virtudes rara vez se encuentran, nunca se encuentran. Si mi padre te dice: “Se fue al bosque antes de la hora señalada», responderás que la vida es tan incierta que la práctica de la virtud nunca es inoportuna. Dile esto al rey, oh amigo mío, y haz todo lo posible por que me olvide. Dile que yo no poseen ni virtud ni mérito; porque un hombre sin virtud nunca es amado, y aquel que nunca es amado nunca es llorado.”
 
 Con lágrimas en los ojos, Chandaka respondió:
 
@@ -57,7 +57,7 @@ Tomó la mano del héroe.
 
 ¡No nos abandones! ¡Vuelve, oh, vuelve!
 
-<span id="p65">[<sup><small>pág. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Siddhartha permaneció en silencio. Finalmente, dijo con voz solemne:
 

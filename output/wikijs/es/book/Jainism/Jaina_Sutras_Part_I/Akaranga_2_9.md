@@ -36,7 +36,7 @@ NOVENA LECCIÓN [^456].
 
 Cuando un monje o una monja deseen ir a un lugar puro para estudiar, [^457] no deben aceptar uno que esté contaminado con huevos o seres vivos, etc., pues es impuro e inaceptable. Pero si el lugar de estudio al que desean ir está libre de huevos o seres vivos, etc., pueden aceptarlo, pues es puro y aceptable.
 
-<span id="p180">[<sup><small>pág. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 De este modo, todo lo que se ha dicho en el pasaje correspondiente sobre los divanes [^458] debe repetirse aquí en lo que respecta a las 'plantas acuáticas'. (1)
 

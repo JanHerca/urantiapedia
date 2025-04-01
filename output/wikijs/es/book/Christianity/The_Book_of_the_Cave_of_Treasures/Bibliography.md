@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T17:53:12Z
   </table>
 </figure>
 
-<span id="p291">[<sup><small>pág. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 BARTOLOMÉ, EL APÓSTOL. _Libro de la Resurrección de Cristo_ (en Budge, _Coptic Apocrypha_, Londres, 1913).
 
@@ -42,7 +42,7 @@ _Libro de la Abeja_. Texto siríaco y traducción al inglés, Oxford, 1886.
 _La historia de la Santísima Virgen María y la historia de la semejanza de Cristo, de la que se burlaron los judíos de Tiberíades_. Siríaco e inglés, 2 vols., Londres, 1899-1901.
 Leyendas de Nuestra Señora María. Traducciones del Ethiopic, Londres, 1922.
 
-<span id="p292">[<sup><small>pág. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 BUDGE, EA WALLIS. _Apócrifos coptos_. Copto e inglés, Londres, 1913.
 Textos coptos diversos. Copto e inglés, Londres, 1915.
@@ -82,9 +82,9 @@ TISCHENDORF, C. _Apocalipsis Apócrifos_, Leipzig, 1866.
 TRUMPP, E. _Gadla Adam, Der Kampf Adams gegen die Versuchungen des Satans. Das christliche Adambuch des Morgenlandes_, Munich, 1880. Texto etíope.
 _Die Hexaëmeron des Pseudo-Epiphanius_, Múnich, 1882. Texto etíope y traducción alemana.
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
-WRIGHT, W. “Contribuciones a la literatura apócrifa del Nuevo Testamento” (en _Journal of Sacred Literature_, vol. VI, págs. 417-448, y vol. VII, págs. 110-160, enero y abril de 1865).
+WRIGHT, W. «Contribuciones a la literatura apócrifa del Nuevo Testamento» (en _Journal of Sacred Literature_, vol. VI, págs. 417-448, y vol. VII, págs. 110-160, enero y abril de 1865).
 _Hechos Apócrifos de los Apóstoles_, 2 vols., 1871.
 
 <figure class="table chapter-navigator">

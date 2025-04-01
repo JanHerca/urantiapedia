@@ -130,7 +130,7 @@ Entonces el ojo del gigante brilló con fuego.
 Como la que enciende la pira funeraria.
 Ordenó a sus más valientes Kinkars [^878] que se apresuraran
 
-<span id="p418">[<sup><small>pág. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 Y a sus pies el alerón plomo.
 Salió del palacio, a sus pies,
@@ -184,7 +184,7 @@ De todos sus jefes el más poderoso.
 
 ## CANTO XLIII.: LA RUINA DEL TEMPLO.
 
-El hijo del Dios del Viento, un templo [1b](Libro_5_50#fn880) escalado
+El hijo del Dios del Viento, un templo [1b](../Libro_5_50#fn880) escalado
 El cual, sin ser atacado por su furia,
 Alto como la colina de Meru, se alzaba
 Entre las ruinas del bosque;
@@ -233,7 +233,7 @@ Feroz guerrero con dientes fabulosos,
 Con vestiduras sagitarias y corona brillante.
 Un arco como el de Indra [^881], y tienda
 
-<span id="p419">[<sup><small>pág. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 El jefe portaba flechas resplandecientes.
 Y siempre que la cuerda que él \*\*intentó
@@ -274,7 +274,7 @@ Allí se aplastó la hierba pisoteada
 Yacía como una masa indistinguible,
 El ojo del enemigo ya no podía ver
 Su cabeza o su pecho o su brazo o su rodilla.
-Y arco y carro y corceles [1](Libro_5_50#fn882) y tienda
+Y arco y carro y corceles [1](../Libro_5_50#fn882) y tienda
 De resplandor; ya no se vieron más rayos.
 Cuando se enteró de la muerte de Jambumah,
 El corazón del rey Rávan ​​se conmovió de rabia.
@@ -311,7 +311,7 @@ Los carros apresurados de sus enemigos,
 Los poderosos Vánar impávidos
 En medio de sus arqueros jugaban los enemigos,
 Mientras el viento alegre juega en lo alto
-Nubes armadas con arcos [1b](Libro_5_50#fn883) que llenan el cielo,
+Nubes armadas con arcos [1b](../Libro_5_50#fn883) que llenan el cielo,
 Lanzó un poderoso rugido y gritó.
 Ese miedo cayó sobre todo el ejército,
 Y entonces, su alma guerrera resplandeció.
@@ -346,7 +346,7 @@ Para apoderarse de esta cosa de raza silvana.
 Porque por sus maravillosas hazañas él
 Ningún mono del bosque puede ser,
 
-<span id="p420">[<sup><small>pág. 420</small></sup>]</span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 Pero algún nuevo tipo de criatura significaba...
 Para causarnos dolor, fue enviado por Indra.
@@ -461,7 +461,7 @@ Y Aksha yace entre los muertos.
 Tú eres mi mejor y más valiente: ve,
 Inigualable en poder, y mata al enemigo.
 
-<span id="p421">[<sup><small>pág. 421</small></sup>]</span>
+<span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 
 Oyó el grito: inclinó la cabeza;
 Sediento de batalla, se lanzó hacia adelante.
@@ -490,7 +490,7 @@ Sobre sus extremidades para sujetarlo firmemente.
 Pasaron las cuerdas alrededor de los pies y las muñecas;
 Lo golpearon con las manos y los puños.
 Y lo arrastraron mientras tensaban la cuerda.
-Con gritos de triunfo hacia su señor. [1](Libro_5_50#fn886)
+Con gritos de triunfo hacia su señor. [1](../Libro_5_50#fn886)
 
 ## CANTO XLIX.: RÁVAN.
 
@@ -521,7 +521,7 @@ Detrás del monarca se encontraba el mejor
 De hermosas mujeres alegremente vestidas.
 Y cada uno de sus gigantescos amos abanicaba,
 O agitaba un chourie en su mano.
-Cuatro nobles cortesanos [1b](Libro_5_50#fn888) sabios y buenos
+Cuatro nobles cortesanos [1b](../Libro_5_50#fn888) sabios y buenos
 En el consejo, cerca del monarca se encontraba,
 Como los cuatro océanos siempre están en pie
 Sobre la tierra rodeada por el mar.
@@ -555,7 +555,7 @@ Aprenda quién es, de dónde viene y por qué.
 Él estropeó la gloria del bosque,
 Y con mis capitanes luché ferozmente.
 
-<span id="p422">[<sup><small>pág. 422</small></sup>]</span>
+<span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 
 Prahasta escuchó la orden de su señor,
 Y así se dirigió el jefe Vánar:
@@ -590,7 +590,7 @@ No hay demonio ni Dios de tipo celestial
 Con lazo o cadena estas hierbas pueden unirse.
 El mismísimo Padre Eterno de la antigüedad
 Me concedió el don que me hace valiente,
-De la flecha mágica de Brahmá liberada [1](Libro_5_60#fn891)
+De la flecha mágica de Brahmá liberada [1](../Libro_5_60#fn891)
 Sabía que el poder del captor había cesado,
 Los vínculos imaginados que libremente tomé,
 Y así miraban al rey.

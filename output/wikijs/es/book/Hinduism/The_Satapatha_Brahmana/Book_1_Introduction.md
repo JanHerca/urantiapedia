@@ -186,7 +186,7 @@ Los Brâhma<i>n</i>as y los Kalpa-sûtras tratan de los llamados sacrificios <i>
 
 [^26]: xxiv:1 Véase R. Roth en Weber's Ind. Stud. I, 475 y siguientes; II, 111 y siguientes; Max Müller, Historia de la literatura sánscrita antigua, pág. 408 y siguientes.
 
-[^27]: xxiv:2 Véase el presente volumen, [p. 183](Book_1_1_7#p183). Compárese también con las observaciones del profesor Aufrecht sobre el mito de Apâlâ, Ind. Stud. IV, p. 8.
+[^27]: xxiv:2 Véase el presente volumen, [p. 183](../Book_1_1_7#p183). Compárese también con las observaciones del profesor Aufrecht sobre el mito de Apâlâ, Ind. Stud. IV, p. 8.
 
 [^28]: xxiv:3 KB III, 25; cf. Weber, Ind. Stud. II, 353.
 
@@ -312,7 +312,7 @@ Los Brâhma<i>n</i>as y los Kalpa-sûtras tratan de los llamados sacrificios <i>
 
 [^65]: xli:3 Ind. Stud. I, 187 y siguientes.
 
-[^66]: xli:4 Véase el presente volumen, [p. 204](Book_1_1_7#p204), con nota. Habría sido más acertado dar el nombre Videgha Mâthava, en lugar de Mâthava el Videgha.
+[^66]: xli:4 Véase el presente volumen, [p. 204](../Book_1_1_7#p204), con nota. Habría sido más acertado dar el nombre Videgha Mâthava, en lugar de Mâthava el Videgha.
 
 [^67]: xli:5 Véase Ludwig, Rig-veda III, pág. 205; Zimmer, La vida india antigua, pág. 103.
 

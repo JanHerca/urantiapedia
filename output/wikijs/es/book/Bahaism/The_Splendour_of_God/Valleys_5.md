@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T9:13:35Z
 
 En este valle él (el viajero) descubre las brisas del Divino Contentamiento, que soplan desde el desierto del Espíritu y consumen los velos de la pobreza.
 
-Allí presencia el día en que “Dios hará que todos sean independientes gracias a su abundancia”.
+Allí presencia el día en que «Dios hará que todos sean independientes gracias a su abundancia».
 
 Él dará testimonio de este día, tanto con su mirada externa como interna, en las partes visibles e invisibles de las cosas. Pasa de la tristeza a la alegría; y transforma la depresión y el abatimiento en alegría y júbilo.
 
@@ -44,7 +44,7 @@ La lengua es incapaz de dar cuenta de estos tres (últimos) valles, y la expresi
 
 Respecto de estos estados, el ruiseñor del corazón tiene otras melodías y misterios que agitan el corazón y alborotan el espíritu.
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Pero este enigma de los Significados sólo debe ser revelado de corazón a corazón y confiado de pecho a pecho.
 
@@ -56,9 +56,9 @@ En el fuego ve el Rostro del Amado; en la irrealidad percibe el signo de la Real
 
 Él contempla la nueva creación con una mirada perspicaz y comprende las señales sutiles con un corazón puro.
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
-“En aquel día haremos que tu vista discierna” es una evidencia de esta palabra, y es suficiente para este caso”.
+«En aquel día haremos que tu vista discierna» es una evidencia de esta palabra, y es suficiente para este caso”.
 
 \[El Valle del Contentamiento a veces se traduce como el Valle de la Riqueza.\]
 

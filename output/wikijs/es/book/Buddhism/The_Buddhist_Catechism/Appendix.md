@@ -32,9 +32,9 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## APÉNDICE.
 
@@ -75,7 +75,7 @@ XI. La esencia del budismo, tal como la resumió el propio Tathagata (Buda), es:
   * Para obtener la virtud,
   * Para purificar el corazón.
 
-<span id="p115">[<sup><small>pág. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 XII. El universo está sujeto a una causalidad natural conocida como «karma». Los méritos y deméritos de un ser en existencias pasadas determinan su condición en la presente. Cada ser, por lo tanto, ha preparado las causas de los efectos que ahora experimenta.
 
@@ -87,7 +87,7 @@ Redactado como una plataforma común en la que todos los budistas puedan estar d
 
 HS OLCOTT, PTS
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Sometido respetuosamente a la aprobación de los Sumos Sacerdotes de las naciones que representamos individualmente, en la Conferencia Budista celebrada en Adyar, Madrás, los días 8, 9, 10, 11 y 12 de enero de 1891 (AB 2434).
 
@@ -129,7 +129,7 @@ Sugata Sâsanadhaja Vinayâ chariya Dhammalankârâbhidhâna Nayaka Sthavira.
 
 (Firmado) Dhammalankara,
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Pawara neruttika chariya Mahâ Vibhavi Subhuti de Waskaduwa.
 

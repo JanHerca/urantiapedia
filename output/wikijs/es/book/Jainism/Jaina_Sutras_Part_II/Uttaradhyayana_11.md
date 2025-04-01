@@ -56,7 +56,7 @@ Así como un corcel Kambô<i>g</i>a entrenado, a quien ningún ruido asusta [^15
 
 Como un héroe valiente montado en un caballo amaestrado, con heraldos cantando a su derecha e izquierda, (no tiene igual) [^154], tampoco lo tiene un monje muy erudito. (17)
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Así como un elefante fuerte e irresistible de sesenta años, rodeado de sus hembras, no tiene igual, tampoco lo tiene un monje muy erudito. (18)
 

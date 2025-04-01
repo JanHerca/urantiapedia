@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 DUODÉCIMA CONFERENCIA [^158] HARIKÊ<i>S</i>A.
 
@@ -42,7 +42,7 @@ Observó las reglas respecto a caminar, mendigar, hablar, aliviar la naturaleza 
 
 Protegió del pecado sus pensamientos, su palabra y su cuerpo [^160], y sometió sus sentidos.
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Una vez, en su gira de mendicidad, se acercó al recinto de un sacrificio brahmánico. (3)
 
@@ -58,13 +58,13 @@ En ese momento el Yaksha, que vivía en el árbol Tinduka, tuvo compasión del g
 
 Soy un <i>Srama<i>n</i>a casto, que me controlo; no tengo propiedades, nada me pertenece, y no cocino mi propia comida; he venido por comida que está preparada para otra persona en el momento en que llamo. (9)
 
-“Dais, coméis y consumís abundantemente alimentos; sabed que yo subsisto mendigando; dejad que el mendigo consiga lo que queda del resto.” (10)
+«Dais, coméis y consumís abundantemente alimentos; sabed que yo subsisto mendigando; dejad que el mendigo consiga lo que queda del resto.» (10)
 
 «La cena ha sido preparada para los Brahmanes, ha sido preparada especialmente para nosotros y exclusivamente para nosotros; no les daremos esa comida ni bebida; ¿por qué están ahí parados?» (11)
 
 Los labradores siembran el trigo en terrenos altos y bajos [^162], esperando [una recompensa]. Por el mismo motivo, denme; puede que yo sea el campo que produzca méritos [como recompensa por su benevolencia] (12).
 
-“Todo el mundo sabe que somos (por así decirlo) el campo en el que los dones sembrados crecen como mérito; los brahmanes de nacimiento y conocimiento puros son los campos benditos”. (13)
+«Todo el mundo sabe que somos (por así decirlo) el campo en el que los dones sembrados crecen como mérito; los brahmanes de nacimiento y conocimiento puros son los campos benditos». (13)
 
 “Aquellos que están llenos de ira y orgullo, que matan, mienten, roban y poseen propiedades, son Brâhma<i>n</i>as sin nacimiento ni conocimiento puros; son campos muy malos. (14)
 
@@ -72,7 +72,7 @@ Eres solo un portador de palabras, por así decirlo; no comprendes su significad
 
 ¡Detractor de los sabios doctores, cómo te atreves a hablar así en nuestra presencia! Esta comida y bebida deberían pudrirse antes que dártelas, Nirgrantha [^163] (16)
 
-“Si no me das lo que pido, yo que observo los Samitis, que estoy protegido por los Guptis [^164], que sometéis mis sentidos, ¿qué beneficio, entonces, obtendréis de vuestros sacrificios?” (17)
+«Si no me das lo que pido, yo que observo los Samitis, que estoy protegido por los Guptis [^164], que sometéis mis sentidos, ¿qué beneficio, entonces, obtendréis de vuestros sacrificios?» (17)
 
 ¿No hay aquí Kshattriyas, ni sacerdotes que atiendan el fuego, ni maestros con sus discípulos que lo golpeen con un palo, lo apedreen con una nuez, lo agarren del cuello y lo ahuyenten? (18)
 
@@ -114,25 +114,25 @@ En ese momento los dioses hicieron una lluvia de agua perfumada y flores, y derr
 
 ¡Oh, brahmanes! ¿Por qué cuidan el fuego y buscan la pureza externa mediante el agua? Los sabios dicen que la pureza externa que buscan no es lo correcto. (38)
 
-“Utilizáis hierba Kusa, postes de sacrificio, paja y madera, tocáis el agua por la tarde y por la mañana; con ello dañáis a los seres vivos, y en vuestra ignorancia cometéis pecados una y otra vez.” (39)
+«Utilizáis hierba Kusa, postes de sacrificio, paja y madera, tocáis el agua por la tarde y por la mañana; con ello dañáis a los seres vivos, y en vuestra ignorancia cometéis pecados una y otra vez.» (39)
 
 «¿Cómo debemos sacrificar, oh monje, y cómo evitar las acciones pecaminosas? Dinos, asceta, a quien los Yakshas honran, ¿cuál declaran los sabios que es el método correcto de sacrificio?» (40)
 
 “No dañando a los seres vivos de los seis órdenes, absteniéndose de mentir y de tomar lo que no se les da libremente, renunciando a la propiedad, a las mujeres, al orgullo y al engaño, los hombres deben vivir bajo autocontrol. (41)
 
-“Quien está bien protegido por los cinco Samvaras [^165] y no está apegado a esta vida, quien abandona su cuerpo [^166], quien es puro y no se preocupa por su cuerpo, gana la gran victoria, la mejor de las ofrendas.” (42)
+«Quien está bien protegido por los cinco Samvaras [^165] y no está apegado a esta vida, quien abandona su cuerpo [^166], quien es puro y no se preocupa por su cuerpo, gana la gran victoria, la mejor de las ofrendas.» (42)
 
 ¿Dónde está tu fuego, tu chimenea, tu cucharón de sacrificio? ¿Dónde está el estiércol seco de vaca (usado como combustible)? Sin estas cosas, ¿qué clase de sacerdotes podrían ser los monjes? ¿Qué ofrendas ofrecen al fuego? (43)
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-“La penitencia es mi fuego; la vida mi hogar; el esfuerzo correcto es mi cucharón sacrificial; el cuerpo el estiércol seco de vaca; Karman es mi combustible; el autocontrol, el esfuerzo correcto y la tranquilidad son las oblaciones, alabadas por los sabios, que ofrezco.” (44)
+«La penitencia es mi fuego; la vida mi hogar; el esfuerzo correcto es mi cucharón sacrificial; el cuerpo el estiércol seco de vaca; Karman es mi combustible; el autocontrol, el esfuerzo correcto y la tranquilidad son las oblaciones, alabadas por los sabios, que ofrezco.» (44)
 
 ¿Dónde está tu estanque y el lugar sagrado para bañarte? ¿Cómo haces tus abluciones o te deshaces de las impurezas? Dinos, oh monje moderado, a quien los Yakshas veneran; deseamos aprender de ti. (45)
 
 “La Ley es mi estanque, el celibato mi lugar sagrado de baño, que no es turbio, y completamente limpio para el alma [^167]; allí hago abluciones; puro, limpio y completamente fresco me deshago del odio [^168] (o impureza). (46)
 
-“Los inteligentes han descubierto este baño, es el gran baño alabado por los videntes, en el que se bañan los grandes videntes, y, puros y limpios, obtienen el lugar más alto.” (47)
+«Los inteligentes han descubierto este baño, es el gran baño alabado por los videntes, en el que se bañan los grandes videntes, y, puros y limpios, obtienen el lugar más alto.» (47)
 
 Así lo digo.
 

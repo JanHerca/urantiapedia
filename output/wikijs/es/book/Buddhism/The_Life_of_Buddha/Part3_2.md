@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p217">[<sup><small>pág. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 
 Desde Vaisali, el Maestro fue a Cravasti, al parque de Jeta. Un día, el rey Prasenajit fue a verlo. «Mi Señor», dijo el rey, «seis ermitaños han llegado recientemente a Cravasti. No creen en tu ley. Sostienen que tu conocimiento no es igual al suyo, y han intentado asombrarme realizando numerosos prodigios. Creo que sus afirmaciones son falsas, pero sería bueno, mi Señor, que confundieras su audacia. La salvación del mundo depende de tu gloria. Así que preséntate ante estos estafadores e impostores y siléncialos».
@@ -55,11 +55,11 @@ Entonces Kala comenzó a cantar:
 
 ¿Cómo puede el Señor de los mundos ignorar mi miseria? Adoremos al Señor que ya no conoce el deseo; adoremos al Bendito que se apiada de todas las criaturas.
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 De repente Ananda apareció ante él.
 
-“Kala”, dijo, “el Maestro me ha enseñado las palabras que curarán tus heridas”.
+«Kala», dijo, «el Maestro me ha enseñado las palabras que curarán tus heridas».
 
 Recitó algunos versos y el príncipe recuperó inmediatamente el uso de sus miembros.
 
@@ -69,9 +69,9 @@ Y siguió a Ananda hasta el parque de Jeta. El Maestro lo recibió con gentileza
 
 Llegó el día en que el Maestro debía competir con los ermitaños. Temprano por la mañana, el rey Prasenajit fue al salón que había mandado construir para la ocasión. Los seis ermitaños ya estaban allí. Intercambiaron miradas y sonrieron.
 
-“Rey”, dijo uno de ellos, “somos los primeros en llegar al lugar de la reunión”.
+«Rey», dijo uno de ellos, «somos los primeros en llegar al lugar de la reunión».
 
-“¿Crees que el que esperamos realmente vendrá?”, dijo otro.
+«¿Crees que el que esperamos realmente vendrá?», dijo otro.
 
 —Ermitaños —dijo el rey—, no se burlen de él. Saben que envió a uno de sus discípulos a curar a mi hermano, a quien había castigado injustamente. Vendrá. Puede que incluso esté aquí, entre nosotros, sin que lo sepamos.
 
@@ -87,7 +87,7 @@ Los ermitaños se alarmaron. Vieron que el rey los miraba con desprecio y agacha
 
 De repente, el techo del salón desapareció, y en la cúpula del cielo, que se extendía de este a oeste, el Maestro trazó un camino que procedió a recorrer. Al ver este prodigio, su rival más insolente huyó aterrorizado. El ermitaño creyó ser perseguido por una jauría de perros aulladores, y no dejó de correr hasta llegar al borde de un estanque. Allí, se ató una piedra al cuello y se arrojó al agua. Un pescador encontró su cuerpo al día siguiente.
 
-<span id="p221">[<sup><small>pág. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 Mientras tanto, el Maestro había creado un ser a su imagen y semejanza, y, con él, recorría ahora el sendero celestial. Y se oyó su gran voz, que decía:
 

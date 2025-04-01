@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:58Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I. El rey Khing Käng, o “el clásico de la pureza”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I. El rey Khing Käng, o «el clásico de la pureza»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p255">[<sup><small>pág. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 ## Yin Fû King, o 'Clásico de la armonía de lo visible y lo invisible'.
 
@@ -70,7 +70,7 @@ Cuando alguien lleva a cabo el trabajo de cultura y refinamiento sabiamente lo l
 
 El Cielo no tiene ningún sentimiento especial de bondad, pero sí es cierto que la mayor bondad proviene de Él.
 
-<span id="p262">[<sup><small>pág. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 El estruendo del trueno y el viento huracanado surgen sin ningún propósito. [^523]
 
@@ -90,7 +90,7 @@ El estruendo del trueno y el viento huracanado surgen sin ningún propósito. [^
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I. El rey Khing Käng, o “el clásico de la pureza”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I. El rey Khing Käng, o «el clásico de la pureza»</span>
         </a>
         </td>
         <td>
@@ -122,7 +122,7 @@ El estruendo del trueno y el viento huracanado surgen sin ningún propósito. [^
 
 [^580]: 257:1a El Dr. Williams explica que 'hsiû lien ( ![](/image/book/Taoism/Taoist_texts_vol_2/25700.jpg) o ![](/image/book/Taoism/Taoist_texts_vol_2/25701.jpg))' significa 'volverse religioso, como un recluso o asceta'.
 
-[^581]: 257:1 Para explicar “el Camino del Cielo”, Lî Hsî-yüeh aduce la última frase del TTK, cap. 9: “Cuando el trabajo está hecho y el nombre de uno se ha vuelto distinguido, retirarse a la oscuridad es el Camino del Cielo”.
+[^581]: 257:1 Para explicar «el Camino del Cielo», Lî Hsî-yüeh aduce la última frase del TTK, cap. 9: «Cuando el trabajo está hecho y el nombre de uno se ha vuelto distinguido, retirarse a la oscuridad es el Camino del Cielo».
 
 [^582]: 257:2 Para explicar las acciones del Cielo, cita el primer párrafo del simbolismo del primer hexagrama del Yî: «El Cielo, en su movimiento, da la idea de fuerza. De acuerdo con esto, el hombre superior se energiza para una actividad incesante».
 

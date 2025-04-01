@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 SÉPTIMA CONFERENCIA, LLAMADA LIBERACIÓN.
 
@@ -74,13 +74,13 @@ Quien está libre de pasiones comprende perfectamente al brillante [^265], conoc
 
 Los cuerpos crecen con la alimentación, pero se debilitan ante las dificultades. Observa a algunos cuyos órganos fallan (ceden a la debilidad).
 
-Quien no tiene deseos, alberga compasión. Quien comprende la doctrina del pecado es un mendigo que conoce el momento, la fuerza, la medida, la ocasión, la conducta y el precepto religioso; reniega de todo lo que no sea necesario para los fines religiosos, <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> se esfuerza a tiempo, sin obligaciones; avanza con seguridad (en el camino hacia la liberación final) tras haber cortado con ambos (el amor y el odio) [1](Akaranga_1_7#fn266). (2)
+Quien no tiene deseos, alberga compasión. Quien comprende la doctrina del pecado es un mendigo que conoce el momento, la fuerza, la medida, la ocasión, la conducta y el precepto religioso; reniega de todo lo que no sea necesario para los fines religiosos, <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> se esfuerza a tiempo, sin obligaciones; avanza con seguridad (en el camino hacia la liberación final) tras haber cortado con ambos (el amor y el odio) [1](../Akaranga_1_7#fn266). (2)
 
 Un jefe de familia que se acerca a un mendigo cuyas extremidades tiemblan de frío, puede decir:
 
 ¡Oh, <i>Srama<i>n</i>a, de larga vida! ¿No estás sujeto a las influencias de tus sentidos?
 
-¡Oh, longevo dueño de casa! No estoy sujeto a la influencia de mis sentidos. Pero no puedo soportar la sensación de frío. Sin embargo, no me corresponde encender un fuego [2](Akaranga_1_7#fn267) para calentarme; ni (obtener ese consuelo) por orden de otros.
+¡Oh, longevo dueño de casa! No estoy sujeto a la influencia de mis sentidos. Pero no puedo soportar la sensación de frío. Sin embargo, no me corresponde encender un fuego [2](../Akaranga_1_7#fn267) para calentarme; ni (obtener ese consuelo) por orden de otros.
 
 Quizás después de que el mendigo haya hablado así, el otro encienda un fuego para calentarse. Pero el mendigo debe observar y comprender esto para poder ordenarle que no muestre tal obsequio. Así lo digo. (3)
 
@@ -102,7 +102,7 @@ Un mendigo que lleva dos túnicas y un cuenco como tercer artículo no pensará:
 
 Cuando a un mendigo se le ocurre que debido a una enfermedad está demasiado débil y no puede mendigar de casa en casa, y ante su queja, un jefe de familia le trae comida, etc., obtenida (sin dañar su vida [^276]), y se la da, entonces debe, después de deliberar, decir [^277]: ¡Oh, jefe de familia longevo! No me corresponde comer ni beber esta [^276] comida, etc., ni (aceptar) ninguna otra cosa de la misma clase. (2)
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Un mendicante que ha resuelto que, cuando esté enfermo, aceptará la ayuda de compañeros ascetas [^278] con buena salud, cuando le ofrezcan (ayuda) sin que se la pidan, y viceversa, él, cuando esté sano, dará ayuda a compañeros ascetas enfermos, ofreciéndola sin que se la pidan—(no debe desviarse de su resolución aunque muera por falta de ayuda). (3)
 
@@ -111,7 +111,7 @@ Hacer voto de mendigar (comida, etc.) para otro (que esté enfermo) y comer (cua
 
 
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 ## SEXTA LECCIÓN.
 
@@ -127,7 +127,7 @@ Si a un monje le viene a la mente este pensamiento: «Estoy enfermo y no puedo, 
 
 Al entrar en una aldea, un pueblo libre, un pueblo con muralla de tierra, un pueblo con una pequeña muralla, un pueblo aislado, una ciudad grande, un pueblo costero, una mina, una ermita, lugares de parada de procesiones, caravanas o una capital [^281], un monje debe mendigar paja; tras mendigarla, debe retirarse con ella a un lugar apartado. Tras examinar y limpiar repetidamente el suelo, donde no haya huevos, ni seres vivos, ni semillas, ni brotes, ni rocío, ni agua, ni hormigas, ni moho, ni gotas de agua, ni barro, ni telarañas, debe extender la paja sobre él. Luego, debe efectuar allí mismo la muerte religiosa llamada itvara [^282]. (4)
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Esta es la verdad: hablando la verdad, libre de pasión, superando el sa<i>m</i>sâra, apaciguando la indecisión, conociendo toda la verdad y sin ser conocido, abandonando este cuerpo frágil, superando toda clase de dolores y dificultades mediante la confianza en esta (religión), él logra esta temible (muerte religiosa). Así, a su debido tiempo, pondrá fin a la existencia. Esto ha sido adoptado por muchos que estaban libres de engaño; es bueno, saludable, apropiado, beatificante, meritorio. Así digo. (5)
 
@@ -139,7 +139,7 @@ A un monje desnudo [^283] le viene a la mente el pensamiento: Puedo soportar el 
 
 Un monje desnudo que persevera en esta conducta, sufre repetidamente estas y otras sensaciones dolorosas: la hierba lo pica, el calor y el frío lo atacan, las moscas y los mosquitos lo pican. Un monje desnudo (debería) aspirar a liberarse de las ataduras. La penitencia le conviene. Sabiendo lo que el Reverendo ha declarado, uno debe atenerse a ello completa y completamente. (1)
 
-Un monje que ha llegado a cualquiera de las siguientes resoluciones,—habiendo recogido comida, etc., daré de ella a otros monjes, y comeré (lo que ellos han) traído; (o) habiendo recogido comida, etc., daré de ella a otros monjes, pero no comeré <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> (lo que ellos han) traído; (o) habiendo recogido comida, etc., no daré de ella a otros monjes, pero comeré (lo que ellos han) traído; (o) habiendo recogido comida, etc., no daré de ella a otros monjes, ni comeré (lo que ellos han) traído; (2) (o) Ayudaré a un compañero asceta con los restos de mi cena, que sean aceptables [1](Akaranga_1_7#fn285) y se mantengan en el mismo estado en que fueron recibidos [2](Akaranga_1_7#fn286), y aceptaré la ayuda de otros ascetas con los restos de su cena, que sean aceptables y se mantengan en el mismo estado en que fueron recibidos; (ese monje debe mantener estos votos incluso si arriesga su vida) (3) —aspirando a liberarse de las ataduras. La penitencia le conviene. Conociendo lo que el Reverendo ha declarado, uno debe atenerse plenamente a ello. (4)
+Un monje que ha llegado a cualquiera de las siguientes resoluciones,—habiendo recogido comida, etc., daré de ella a otros monjes, y comeré (lo que ellos han) traído; (o) habiendo recogido comida, etc., daré de ella a otros monjes, pero no comeré <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> (lo que ellos han) traído; (o) habiendo recogido comida, etc., no daré de ella a otros monjes, pero comeré (lo que ellos han) traído; (o) habiendo recogido comida, etc., no daré de ella a otros monjes, ni comeré (lo que ellos han) traído; (2) (o) Ayudaré a un compañero asceta con los restos de mi cena, que sean aceptables [1](../Akaranga_1_7#fn285) y se mantengan en el mismo estado en que fueron recibidos [2](../Akaranga_1_7#fn286), y aceptaré la ayuda de otros ascetas con los restos de su cena, que sean aceptables y se mantengan en el mismo estado en que fueron recibidos; (ese monje debe mantener estos votos incluso si arriesga su vida) (3) —aspirando a liberarse de las ataduras. La penitencia le conviene. Conociendo lo que el Reverendo ha declarado, uno debe atenerse plenamente a ello. (4)
 
 (Los dos últimos párrafos de la última lección se reproducirán aquí.)
 
@@ -152,7 +152,7 @@ Así lo digo. (5)
 
 Los sabios que alcanzan en el debido orden [^287] uno de los estados infalibles (en los que se prescribe el suicidio), aquellos que son ricos en control y dotados de conocimiento, conociendo lo incomparable (la muerte religiosa, deben continuar su contemplación). (1)
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Conociendo los dos tipos de obstáculos (corporales y mentales), los sabios, habiendo aprendido completamente la ley, percibiendo en el orden debido (que ha llegado el momento de su muerte), se liberan del karman. (2)
 
@@ -172,7 +172,7 @@ Cuando los animales que se arrastran o que viven en lo alto o en lo bajo se alim
 
 Aunque estos animales destruyan el cuerpo, éste no debe moverse de su posición,
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Después de que los â<i>s</i>ravas hayan cesado, debe soportar (los dolores) como si se regocijara en ellos. (10)
 
@@ -198,7 +198,7 @@ Debe caminar cuando esté cansado de estar acostado, o permanecer de pie con los
 
 En vista de una muerte tan poco común, debería regular los movimientos de sus órganos.
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Al llegar a un lugar plagado de insectos, deberá buscar un lugar limpio. (17)
 

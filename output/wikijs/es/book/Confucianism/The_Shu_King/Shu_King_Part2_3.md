@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 KÂO-YÂO fue Ministro de Delitos de Shun y aún se le considera en China un modelo para todos los administradores de justicia. Existen pocos o ningún detalle fiable de su historia. Sze-ma Khien afirma que, al ascender al trono, Yü nombró a Kâo-yâo su primer ministro, con la intención de que finalmente lo sucediera, pero que este plan se frustró con la muerte de Kâo-yâo. Si hubiera existido tal tradición en la época de Mencio, probablemente la habría mencionado al defender a Yü de la acusación de inferioridad respecto a Yâo y Shun, quien cedió el trono al más digno, mientras que él se lo transmitió a su hijo. El apellido de Kâo-yâo era Yen, pero sus representantes fueron eliminados cuando el principado que les pertenecía se extinguió en la dinastía de Kâu por el ambicioso estado de Khû. Todavía existe en China una familia con el apellido Kâo, que afirma descender de este antiguo digno; pero Kâo y Yâo deben tomarse juntos en el Shû como su nombre.
 

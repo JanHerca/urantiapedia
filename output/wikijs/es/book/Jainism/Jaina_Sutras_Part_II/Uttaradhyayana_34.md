@@ -37,7 +37,7 @@ TRIGÉSIMA CUARTA CONFERENCIA. SOBRE LÊ<i>S</i>YÂ [^548].
 
 Daré en el orden debido la Conferencia sobre Lê<i>s</i>yâ; escuche la naturaleza de las seis Lê<i>s</i>yâs (producidas por) Karman. (1)
 
-<span id="p197">[<sup><small>pág. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 Escucha 1. los nombres, 2. los colores, 3. los sabores, 4. los olores, 5. los tactos, 6. los grados, 7. el carácter, 8. la variedad, 9. la duración, 10. el resultado y 11. la vida de los Lê<i>s</i>yâs. (2)
 
@@ -57,7 +57,7 @@ El Lê<i>s</i>yâ blanco tiene el color de una caracola, la piedra aṅka [^555]
 
 3\. El sabor del Lê<i>s</i>yâ negro es infinitamente más amargo que el de Tumbaka [^557], (el fruto del) árbol Nimb [^558], o el de Rôhi<i>n</i>î. (10)
 
-<span id="p198">[<sup><small>pág. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 El sabor del Lê<i>s</i>yâ azul es infinitamente más picante que el Trika<i>t</i>uka [^559] y el Hastipippalî. (11)
 
@@ -103,7 +103,7 @@ La mitad de una muhûrta es la más corta, y dos Sâgarôpamâs más un Palyôpa
 
 La mitad de una muhûrta es la más corta, y diez Sâgarôpamâs más una muhûrta es la duración más larga del Lê<i>s</i>yâ amarillo. (38)
 
-<span id="p201">[<sup><small>pág. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 La mitad de una muhûrta es la más corta, y treinta y tres Sâgarôpamâs más una muhûrta es la duración más larga del Lê<i>s</i>yâ blanco. (39)
 
@@ -121,7 +121,7 @@ La duración de cualquiera de los Lê<i>s</i>yâs, excepto el mejor (es decir, e
 
 Medio muhûrta es la duración más corta del Lê<i>s</i>yâ blanco (de animales y hombres), y la más larga de un Krore de años anteriores [^573] menos nueve años. (46)
 
-<span id="p202">[<sup><small>pág. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 He descrito la duración del Lê<i>s</i>yâs de los animales y de los hombres, ahora describiré la de los dioses. (47)
 
@@ -233,7 +233,7 @@ Así lo digo.
 
 [^575]: 201:2 La consecuencia de esta afirmación parece ser que, al expirar el Lê<i>s</i>yâ, se produce uno nuevo. Sin embargo, los comentaristas no son explícitos al respecto.
 
-[^576]: 201:3 Sobre los años anteriores, ver arriba, [p. 16](Uttaradhyayana_3#p16), nota [1](Uttaradhyayana_3#fn88).
+[^576]: 201:3 Sobre los años anteriores, ver arriba, [p. 16](../Uttaradhyayana_3#p16), nota [1](../Uttaradhyayana_3#fn88).
 
 [^577]: 202:1 Este verso parece establecer la duración del Lê<i>s</i>yâ en el caso de los dioses comunes, mientras que el siguiente se aplica a los Bhavanapatis, etc.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 
 Al principio, las palabras de Asita agradaron a Suddhodana, y él las reflexionó. «Así mi hijo vivirá, y vivirá gloriosamente», pensó, pero luego se sintió angustiado. Pues se había dicho que el príncipe renunciaría a la realeza, que llevaría una vida de ermitaño, ¿y no significaba eso que, a su muerte, la familia de Suddhodana desaparecería?
@@ -53,11 +53,11 @@ Mahaprajapati escuchó las palabras de la Diosa. Se desabrochó los brazaletes y
 
 Llegó el momento de llevar a Siddhartha al templo de los Dioses. Por orden del rey, las calles de la ciudad y las plazas públicas se adornaron con esplendor; sonaron tambores y campanas con alegría. Mientras Mahaprajapati lo vestía con sus más suntuosas vestiduras, el niño preguntó:
 
-“Mamá, ¿a dónde me llevas?”
+«Mamá, ¿a dónde me llevas?»
 
 —Al templo de los Dioses, hijo mío —respondió ella. El niño sonrió y la acompañó en silencio a encontrarse con su padre.
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Fue una vista magnífica. En la procesión iban brahmanes de la ciudad, guerreros y todos los principales comerciantes. Un ejército de guardias los seguía, y los sakyas rodeaban el carro que transportaba al príncipe y al rey. En las calles, el aire estaba cargado de incienso, había flores esparcidas a su paso, y la gente ondeaba banderas y banderines a su paso.
 

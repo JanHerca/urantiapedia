@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## II. SALUDO DE LA SANTÍSIMA VIRGEN.
 
@@ -76,8 +76,8 @@ Dios te salve, Santa Señora, Santísima Reina, Madre de Dios, María, siempre V
 
 [^544]: 143:3 El texto dado por Wadding (_Opusc_., p. 105) fue copiado por él de un manuscrito irlandés en Salamanca.
 
-[^545]: 143:4 El Cod. Is. omite desde “Salve, tú su tabernáculo” hasta “Salve, tú su sierva”, inclusive.
+[^545]: 143:4 El Cod. Is. omite desde «Salve, tú su tabernáculo» hasta «Salve, tú su sierva», inclusive.
 
-[^546]: 143:5 Wadding omite desde “Salve su casa” hasta “Salve su sierva”, inclusive.
+[^546]: 143:5 Wadding omite desde «Salve su casa» hasta «Salve su sierva», inclusive.
 
-[^547]: 144:1 El texto de las _Conformidades_ y Wadding añade aquí la segunda parte de la antífona que se da a continuación en el Oficio de la Pasión que comienza con “Madre de nuestro Santísimo Señor Jesucristo”, etc. En el _Speculum_ (ed. Morin, 1509) a esta Salutación le sigue otra oración a la Santísima Virgen (véase Sabatier, _Opuscules_, fasc. x, pág. 164); pero desde principios del siglo XVII, la segunda oración ya no se encuentra en el texto del _Speculum_ (véase la edición de Spoelberch, P. I, págs. 176-178, y Wadding, _Opusc._, pág. 107). En opinión del profesor Boehmer, esta Salutación debería seguir inmediatamente después de la Salutación de las Virtudes dada anteriormente ([pág. 20](Part_1_2#p20)). Véanse sus Analekten, págs. VI y XXVIII. Se encuentran en este orden en la Spec. Vitae de 3504 y el manuscrito Vaticano 4354.
+[^547]: 144:1 El texto de las _Conformidades_ y Wadding añade aquí la segunda parte de la antífona que se da a continuación en el Oficio de la Pasión que comienza con «Madre de nuestro Santísimo Señor Jesucristo», etc. En el _Speculum_ (ed. Morin, 1509) a esta Salutación le sigue otra oración a la Santísima Virgen (véase Sabatier, _Opuscules_, fasc. x, pág. 164); pero desde principios del siglo XVII, la segunda oración ya no se encuentra en el texto del _Speculum_ (véase la edición de Spoelberch, P. I, págs. 176-178, y Wadding, _Opusc._, pág. 107). En opinión del profesor Boehmer, esta Salutación debería seguir inmediatamente después de la Salutación de las Virtudes dada anteriormente ([pág. 20](../Part_1_2#p20)). Véanse sus Analekten, págs. VI y XXVIII. Se encuentran en este orden en la Spec. Vitae de 3504 y el manuscrito Vaticano 4354.

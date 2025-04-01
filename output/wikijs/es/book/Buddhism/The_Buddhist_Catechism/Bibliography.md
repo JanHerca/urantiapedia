@@ -29,7 +29,7 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 El _Catecismo Budista_ ha sido compilado a partir de estudios personales en Ceilán y, en parte, de las siguientes obras:
 
@@ -51,7 +51,7 @@ _Budismo_ | Rhys Davids.
 _Dhammapada_ | Fausboll y Max Müller.
 _Historia romántica de Buda_ | Beal.
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 &nbsp; | &nbsp;
 --- | ---
@@ -60,7 +60,7 @@ _Doce sectas budistas japonesas_ | B. Nanjio.
 _El Evangelio de Buda_ | Paul Carus.
 _El Dharma_ | Hacer.
 _India antigua_ | RC Dutt.
-_La serie “Libros sagrados de Oriente”_ | Ed. ​​Max Müller
+_La serie «Libros sagrados de Oriente»_ | Ed. ​​Max Müller
 _Enciclopedia Británica_. |  
 
 

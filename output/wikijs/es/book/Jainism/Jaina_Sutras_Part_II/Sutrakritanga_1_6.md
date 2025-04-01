@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p287">[<sup><small>pág. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 SEXTA CONFERENCIA, LLAMADA ELOGIO DE MAHÂVÎRA.
 
@@ -58,7 +58,7 @@ Por su vigor es el más vigoroso; como Sudar<i>s</i>ana (Mêru), la mejor de tod
 
 Toca el cielo y está sumergido en la tierra; alrededor de él giran los soles [^853]; tiene el color del oro y contiene muchos Nandana (parques) [^854]; en él se divierten los Mahêndras. (11)
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Esta montaña se distingue por (muchos) nombres; tiene el color del oro bruñido; es la más grande de todas las montañas, difícil de ascender debido a sus rocas; esta excelente montaña es como una parte de la tierra en llamas. (12)
 
@@ -130,7 +130,7 @@ Así lo digo.
 
 [^854]: 287:2 <i>K</i>akkhupahê <i>th</i>iyassa = <i>k</i>akshu<i>h</i>pathê sthitasya, literalmente, 'que se interpuso (o se interpone) en el camino de los ojos'. Apenas podemos inferir de esta frase que el autor realmente vio a Mahâvîra, como nos hace creer la tradición.
 
-[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Sobre las cinco etapas o clases de conocimiento, véase arriba, [p. 352](Sutrakritanga_2_1#p352). Se pretende el conocimiento kêvala.
+[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Sobre las cinco etapas o clases de conocimiento, véase arriba, [p. 352](../Sutrakritanga_2_1#p352). Se pretende el conocimiento kêvala.
 
 [^856]: 288:1 Para traducir anâyu<i>h</i>.
 
@@ -148,7 +148,7 @@ Así lo digo.
 
 [^863]: 289:3 Este es el <i>s</i>ukla dhyâna. Como <i>s</i>ukla, que traduzco como «puro», originalmente significa «blanco», la comparación con la luna es natural en el original.
 
-[^864]: 290:1 Pertenecen a los Bhavanapatis, ver arriba, [p. 225](Uttaradhyayana_36#p225).
+[^864]: 290:1 Pertenecen a los Bhavanapatis, ver arriba, [p. 225](../Uttaradhyayana_36#p225).
 
 [^865]: 290:2 El comentarista dice que Vê<i>n</i>udêva es otro nombre de Garu<i>d</i>a. Vê<i>n</i>u quizás signifique ve<i>n</i>hu = vish<i>n</i>u; pero no sé si Garu<i>d</i>a alguna vez se identificó directamente con Vish<i>n</i>u.
 

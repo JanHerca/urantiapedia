@@ -48,13 +48,13 @@ Así que quien conoce la búsqueda de placeres, tarde o temprano debe renunciar 
 
 Para que la suerte de los malvados no te caiga encima, ¡escapa de la influencia de los sentidos y disciplínate! Los malvados se lamentarán mucho y con fuerza, gemirán y se lamentarán. (7)
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Mira, la vida en este mundo es efímera; aunque tu vida dure cien años, mueres como un hombre efímero; recuerda que tus años pasan rápidamente. Sin embargo, los hombres codiciosos se apegan a los placeres. (8)
 
 “Aquellos que se dedican a empresas, que obran la perdición de sus almas y que matan (a seres vivos), irán al mundo de los malvados, a la morada de los Asuras por un largo tiempo (para morar allí). (9)
 
-Aunque la vida no se puede prolongar, como dice el dicho [^759], aun así la gente necia peca imprudentemente (pensando): “Solo nos preocupa el tiempo presente; ¿quién ha visto el otro mundo y ha regresado de allí?” (10)
+Aunque la vida no se puede prolongar, como dice el dicho [^759], aun así la gente necia peca imprudentemente (pensando): «Solo nos preocupa el tiempo presente; ¿quién ha visto el otro mundo y ha regresado de allí?» (10)
 
 Creed en las palabras de Aquel que todo lo ve, vosotros que estáis ciegos, por así decirlo, vosotros cuya vista está cegada, ¡ah, cuya vista está obstruida por vuestras obras que resultan en engaño! (11)
 
@@ -116,7 +116,7 @@ Así lo digo.
 
 [^764]: 258:4 Para traducir kâmî.
 
-[^765]: 259:1 Comparar [p. 256](Sutrakritanga_1_2_2#p256), nota [1](Sutrakritanga_1_2_2#fn744).
+[^765]: 259:1 Comparar [p. 256](../Sutrakritanga_1_2_2#p256), nota [1](../Sutrakritanga_1_2_2#fn744).
 
 [^766]: 259:2 Ânupûrvyâ.
 

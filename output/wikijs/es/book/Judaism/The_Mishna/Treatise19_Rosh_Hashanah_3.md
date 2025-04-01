@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. En los días de ayuno se usaban dos cuernos de carnero torcidos, cuyas boquillas estaban recubiertas de plata, y las dos trompetas se colocaban en el medio entre ellos; el sonido de las trompetas se prolongaba después de que el de los cuernos hubiera cesado, porque la obligación del día se aplica más particularmente al sonido de las trompetas.
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 § 5. El año del jubileo es como la fiesta del año nuevo en cuanto a los toques y las bendiciones. R. Jehudah dice: «En la fiesta del año nuevo se tocaba el cuerno de carnero, y en el año del jubileo, el cuerno de rebeco».
 

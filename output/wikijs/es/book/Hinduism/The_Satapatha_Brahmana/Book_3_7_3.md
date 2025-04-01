@@ -187,27 +187,27 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^647]: 342:1 Es decir, al realizar los diversos ritos del sacrificio de Soma, p. 343 y al mismo tiempo hacer todo lo necesario para la construcción del altar de fuego, sobre el cual finalmente se realizará la ofrenda de Soma.
 
-[^648]: 343:1 Es decir, al consagrar el sitio de Âhavanîya, así como el del altar Gârhapatya (véase [VII, 1, 1, 1](Book_3_7_1#v7_1_1_1)).
+[^648]: 343:1 Es decir, al consagrar el sitio de Âhavanîya, así como el del altar Gârhapatya (véase [VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1)).
 
-[^649]: 344:1 [VII, 1, 1, 14](Book_3_7_1#v7_1_1_14).
+[^649]: 344:1 [VII, 1, 1, 14](../Book_3_7_1#v7_1_1_14).
 
-[^650]: 344:2 Véanse los párrafos [45](Book_3_7_3#v7_3_1_45), [46](Book_3_7_3#v7_3_1_46).
+[^650]: 344:2 Véanse los párrafos [45](../Book_3_7_3#v7_3_1_45), [46](../Book_3_7_3#v7_3_1_46).
 
 [^651]: 345:1 Coloca un terrón de tierra en cada extremo de las dos 'espinas', es decir, en el medio de cada uno de los cuatro lados del cuadrado que constituye el 'cuerpo' del sitio del altar.
 
 [^652]: 345:2 O bien, cuando lo juntaron (construyendo el altar de fuego).
 
-[^653]: 346:1 Es decir, cuando estos mundos fueron sumergidos en el agua, véase [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^653]: 346:1 Es decir, cuando estos mundos fueron sumergidos en el agua, véase [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
 [^654]: 347:1 Es decir, desde algún lugar hacia el noroeste desde la mitad del lado occidental del cuerpo del altar.
 
 [^655]: 347:2 Mahîdhara toma 'âdam' aquí como el imperfecto regular de 'ad', yo comí.
 
-[^656]: 348:1 Véase [p. 301](Book_3_7_1#p301), nota [3](Book_3_7_1#fn563).
+[^656]: 348:1 Véase [p. 301](../Book_3_7_1#p301), nota [3](../Book_3_7_1#fn563).
 
-[^657]: 348:2 Véase [p. 153](Book_3_6_1#p153), nota [1](Book_3_6_1#fn306).
+[^657]: 348:2 Véase [p. 153](../Book_3_6_1#p153), nota [1](../Book_3_6_1#fn306).
 
-[^658]: 349:1 Véase [p. 325](Book_3_7_2#p325), nota [6](Book_3_7_2#fn619).
+[^658]: 349:1 Véase [p. 325](../Book_3_7_2#p325), nota [6](../Book_3_7_2#fn619).
 
 [^659]: 349:2 Es decir, primero arroja arena sobre el Uttara-vedi, y luego cubre con ella todo el cuerpo del altar, de manera de nivelarlo con el Uttara-vedi.
 
@@ -217,11 +217,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^662]: 352:2 Sikatâ<i>h</i>, arena, es plural, y consiste en una multiplicidad de granos de arena.
 
-[^663]: 353:1 Este es un cálculo un tanto impreciso. De hecho, las siete métricas principales, a saber, Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contienen en conjunto 252 sílabas. El himno recitado al esparcir la arena, por otro lado, consta de un Vish<i>t</i>ârapaṅkti (40), tres Satob<i>ri</i>hatîs (3 × 40), el Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40) y un Trish<i>t</i>ubh (44), o en total, de 244 sílabas. Sobre casos similares de imprecisiones en el cálculo de las sílabas de los metros, véase [p. 318](Book_3_7_1#p318), nota [1](Book_3_7_1#fn606).
+[^663]: 353:1 Este es un cálculo un tanto impreciso. De hecho, las siete métricas principales, a saber, Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contienen en conjunto 252 sílabas. El himno recitado al esparcir la arena, por otro lado, consta de un Vish<i>t</i>ârapaṅkti (40), tres Satob<i>ri</i>hatîs (3 × 40), el Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40) y un Trish<i>t</i>ubh (44), o en total, de 244 sílabas. Sobre casos similares de imprecisiones en el cálculo de las sílabas de los metros, véase [p. 318](../Book_3_7_1#p318), nota [1](../Book_3_7_1#fn606).
 
-[^664]: 353:2 Es decir, en cuanto emana del cuerpo (párrafo [28](Book_3_7_3#v7_3_1_28)), y el cuerpo consta de veinticinco partes: el tronco, las cuatro extremidades y veinte dedos de las manos y de los pies. Cf. [VI, 2, 1, 23](Book_3_6_2#v6_2_1_23), donde, sin embargo, no se toma en cuenta el tronco.
+[^664]: 353:2 Es decir, en cuanto emana del cuerpo (párrafo [28](../Book_3_7_3#v7_3_1_28)), y el cuerpo consta de veinticinco partes: el tronco, las cuatro extremidades y veinte dedos de las manos y de los pies. Cf. [VI, 2, 1, 23](../Book_3_6_2#v6_2_1_23), donde, sin embargo, no se toma en cuenta el tronco.
 
-[^665]: 354:1 Véase [p. 301](Book_3_7_1#p301), nota [3](Book_3_7_1#fn563).
+[^665]: 354:1 Véase [p. 301](../Book_3_7_1#p301), nota [3](../Book_3_7_1#fn563).
 
 [^666]: 355:1 Sâya<i>n</i>a comenta:—Se dice que la alta gloria, en el cielo, de Soma creciendo en la forma de una enredadera es la luna: en aquel mundo celestial esa luna, de hecho, cuando es bebida (por los dioses) en la forma (?) de ambrosía, hace que él, Soma, sea celebrado.
 
@@ -237,9 +237,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^672]: 357:1 Los asistentes del Adhvaryu toman la piel de buey con los ladrillos para la primera capa que se encuentra sobre ella.
 
-[^673]: 358:1 Véase [VII, 1, 1, 25](Book_3_7_1#v7_1_1_25).
+[^673]: 358:1 Véase [VII, 1, 1, 25](../Book_3_7_1#v7_1_1_25).
 
-[^674]: 358:2 Véase [p. 249](Book_3_6_6#p249), nota [3](Book_3_6_6#fn486).
+[^674]: 358:2 Véase [p. 249](../Book_3_6_6#p249), nota [3](../Book_3_6_6#fn486).
 
 [^675]: 359:1 Según Sâya<i>n</i>a, es por sus rayos (identificados con los aires vitales de los seres vivos) que el sol besa (o se pone en contacto con) las criaturas (y las anima); de modo que cada uno siente que es 'labdhâtmaka', o ha obtenido 'un yo', o vida y ser.
 

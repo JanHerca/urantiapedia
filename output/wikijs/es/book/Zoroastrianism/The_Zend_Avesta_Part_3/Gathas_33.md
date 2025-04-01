@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXXIII"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## YASNA XXXIII. ORACIONES, ESPERANZAS Y AUTOCONSAGRACIÓN.
 
@@ -54,7 +54,7 @@ Tiempos más prometedores parecen haber llegado. La venganza, tan confiadamente 
 
 14\. Tras el fervoroso lenguaje de los versículos anteriores, podemos aceptar el versículo 14 como una continuación legítima. Su «Zaratustra» puede significar «yo», así como el salmista usa «David» para «mí». Y este lenguaje no puede significar otra cosa que la dedicación de todo lo que es y tiene a Dios: su carne, su cuerpo, su eminencia religiosa, la obediencia que ofrece en palabra y obra, inspirada por la justicia, y el Reino que ha logrado salvar y bendecir. (No creo haber exagerado en absoluto la intensidad y el fervor de esta sección. No se podría decir menos, si se le concede a las palabras su peso natural).
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Traducción.
 

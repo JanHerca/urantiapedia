@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>pág. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 900 a 1200 d. C.
 
@@ -44,7 +44,7 @@ Los disturbios en China que, hacia el final de la dinastía Tang, impidieron el 
 
 Este nuevo desarrollo se caracteriza en las letras por la aparición de importantes libros escritos en japonés por mujeres. Hasta entonces, en comparación con el estilo clásico chino de los eruditos, la lengua vernácula se consideraba afeminada y se había convertido en un instrumento exclusivo de las mujeres. Así comenzó la gran era de la literatura femenina, en la que cabe mencionar a Murasa ki Shikibu, autora de la gran novela de Genji; Seishonagon, cuya pluma sarcástica anticipa, en setecientos años, las ocurrencias de Madame Scudery sobre los escándalos cortesanos del Gran Monarca; Akazome, célebre por su concepción pacífica y pura de la vida; y Komachi, la gran poetisa triste, cuya vida ejemplifica los amores y las penas de aquella época refinada y voluptuosa. Los hombres imitaron el estilo de estas damas, pues esta era, por excelencia, la era de la mujer.
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Confinada en su hogar isleño, sin asuntos de estado que perturbaran sus dulces ensoñaciones, la aristocracia cortesana encontró su ocupación seria en el arte y la poesía. Las tareas menores del arte de gobernar se dejaban a los inferiores, pues, para el refinamiento excesivo de la época, los deberes útiles parecían ser a la vez degradantes e impuros, de modo que el manejo del dinero y el uso de las armas eran funciones propias solo de las clases bajas.
 
@@ -70,7 +70,7 @@ Una guerra civil entre dos aspirantes al trono imperial a mediados del siglo XII
 
 La familia de aquel candidato imperial, apoyada por las armas de Taira, alcanzó el poder y lo conservó durante medio siglo. Luego sucumbieron a las costumbres e ideales de los Fujiwara, perdiendo por completo su valor. El descendiente de los Minamoto los encontró entonces presa fácil, y todo su poder y prestigio fueron destruidos en las épicas batallas de Suma y Shioya.
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ## NOTAS
 
@@ -84,7 +84,7 @@ Sankaracharya.—El mayor santo hindú y comentarista de la época moderna. Vivi
 
 Ramanuja.—Un santo y filósofo de tipo bhakti. Vivió en el sur de la India en el siglo XII. Es el fundador de la segunda gran escuela de la filosofía vedanta.
 
-_Chaitanya_.—Conocido como el “Profeta de Nuddea” en Bengala, un santo extático del siglo XIII.
+_Chaitanya_.—Conocido como el «Profeta de Nuddea» en Bengala, un santo extático del siglo XIII.
 
 _Suma y Shioya_.—Dos lugares cerca de Kobe, Japón.
 

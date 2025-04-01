@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ### NOTA EDITORIAL
 

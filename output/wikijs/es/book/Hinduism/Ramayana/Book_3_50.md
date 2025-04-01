@@ -71,7 +71,7 @@ Pierden cada alegría que se esfuerzan por ganar,
 Y toda la gente, gente de arriba y de abajo
 Caer en el derrocamiento común.
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 El mérito, la fama y el honor surgen,
 Lo mejor de los poderosos, del rey.
@@ -195,7 +195,7 @@ Sus flancos estaban teñidos de rosa,
 Y tintes de loto adornaban su piel.
 Su figura era hermosa, compacta y delgada;
 
-<span id="p278">[<sup><small>pág. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 Sus cascos estaban tallados en lazulita.
 Su cola con cada brillo cambiante
@@ -318,7 +318,7 @@ La vaca del bosque y el ciervo están allí,
 El cervatillo, el mono y el oso,
 Donde los ciervos moteados se deleitan jugando,
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 Y los fuertes y hermosos Kinnars [^495] vagan.
 Pero nunca, mientras pasaban,
@@ -438,7 +438,7 @@ Han caído por su perversa arte,
 Y ahora mi flecha herirá su corazón.
 Vatápi, por su poder mágico
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Hizo que los santos despreocupados devoraran su carne,
 Luego, desde dentro de sus marcos, los arrancó.
@@ -563,7 +563,7 @@ El monstruo sabía que el momento estaba cerca.
 Y gritó con gran entusiasmo:
 'Hola\*, Sítá, Lakshman\* y el tono
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Lo que tomó prestado era como el propio Ráma.
 Así que por esa flecha incomparable hendida,
@@ -601,7 +601,7 @@ Y se apresuró a llegar a su morada.
 
 Pero Sitá, al oírlo, pensó:
 El llanto de su marido estaba cargado de angustia.
-Llamó a su guardián: “Lakshman, corre”.
+Llamó a su guardián: «Lakshman, corre».
 Y en el bosque buscad al hijo de Raghu.
 Apenas puede mi corazón retener su trono,
 Apenas puedo llamarme mía mi vida,
@@ -688,7 +688,7 @@ Con amargas burlas que perforaban y picaban;
 \* ¡de tu gloriosa raza!
 \* Te vi con gozo
 
-<span id="p282">[<sup><small>pág. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Mi señor se encuentra en la más desesperada necesidad de ver.
 Tú sabes que Ráma ha sido duramente derrotado,
@@ -810,7 +810,7 @@ Contempló que el momento anhelado estaba cerca,
 Vestido con ropa de mendigo
 Cerca de la dama Maithil presionada.
 
-<span id="p283">[<sup><small>pág. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Con apariencia sagrada, un demonio aborrecido,
 La encontró de luto por su señor.
@@ -926,7 +926,7 @@ Y anhelaba en su corazón robarla de allí,
 Preparándose para la terrible ofensa,
 Traerá muerte sobre su cabeza.
 
-<span id="p284">[<sup><small>pág. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 La señora observaba con cara ansiosa
 Para Ráma que viene de la persecución
@@ -1050,7 +1050,7 @@ La reina de cada dama y yo.
 Mi ciudad Lanká, ciudad gloriosa,
 Miradas desde la frente de una montaña hacia abajo
 
-<span id="p285">[<sup><small>pág. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Donde el océano con su destello y espuma
 Late locamente en mi isla natal.
@@ -1170,7 +1170,7 @@ Temblando como los hombres cuando la muerte está cerca
 Una vez Vais'ravan, mi hermano, forjó
 A la ira, me encontré y luché,
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Pero cediendo ante un poder superior
 Huyó de su casa presa del pánico.
@@ -1275,7 +1275,7 @@ Y la Muerte con fuerza conquistadora desafía.
 Perfora el gran sol con un dardo furioso
 Y hasta sus profundidades hende la tierra.
 Mira, tú a quien el amor y la belleza ciegan,
-“Uso cada forma según mi mente lo exige”.
+«Uso cada forma según mi mente lo exige».
 Mientras hablaba así con ira ardiente,
 Sus ojos brillantes estaban rojos por el fuego.
 Su suave atuendo fue arrojado a un lado.
@@ -1291,7 +1291,7 @@ Con veinte brazos expuestos a la vista,
 Había dejado de lado su apariencia de santo.
 Y toda su gigantesca altura expuesta.
 
-<span id="p287">[<sup><small>pág. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Vestidos con túnicas teñidas de color carmesí
 Se quedó allí y observó con ojos enojados.
@@ -1414,7 +1414,7 @@ Me traería, conquistador, de regreso al día de hoy,
 Aunque Yama mismo recuperó su presa.
 Así desde el aire la dama envió
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Con voz lastimera su último lamento,
 Y mientras lloraba, por casualidad vio
@@ -1538,7 +1538,7 @@ Y mancharás la tierra con sangre
 Cayendo como Khara cayó antes.
 Pronto Ráma, vestido de corteza, atacará.
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Tú, su orgulloso enemigo, en una lucha mortal,
 Ráma, de quien a menudo hemos huido

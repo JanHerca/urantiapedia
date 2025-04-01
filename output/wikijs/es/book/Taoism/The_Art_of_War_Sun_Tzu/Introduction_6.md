@@ -130,7 +130,7 @@ A esto hay que añadir, por supuesto, el gran Catálogo de la Biblioteca Imperia
 
 [^159]: l:2 #.
 
-[^160]: l:3 Véase [p. 174](13#p174). Se encontrarán más detalles sobre T'ai Kung en el _Shih Chi_, cap. 32 _ad init_. Además de la tradición que lo considera exministro de Chou Hsin, se dan allí otros dos relatos sobre él, según los cuales parece haber sido criado desde una humilde posición privada por Wên Wang.
+[^160]: l:3 Véase [p. 174](../13#p174). Se encontrarán más detalles sobre T'ai Kung en el _Shih Chi_, cap. 32 _ad init_. Además de la tradición que lo considera exministro de Chou Hsin, se dan allí otros dos relatos sobre él, según los cuales parece haber sido criado desde una humilde posición privada por Wên Wang.
 
 [^161]: li:1 #.
 
@@ -138,7 +138,7 @@ A esto hay que añadir, por supuesto, el gran Catálogo de la Biblioteca Imperia
 
 [^163]: li:3 Véase _Han Shu_, #, cap. 40. La obra se llama allí #. Por ello, se ha confundido con el _Liu T'ao_. El _T'u Shu_ atribuye tanto el _Liu T'ao_ como el _San Lüeh_ al T'ai Kung.
 
-[^164]: li:4 #. Otra obra, supuestamente escrita por Huang-shih Kung, y también incluida en la sección militar del Catálogo Imperial, es el # _Su Shu_ en 1 _chüan_. Un breve tratado ético de sabor taoísta, sin referencia alguna a la guerra, se considera una falsificación de la mano de # Chang Shang-ying (f. 1121), quien lo editó con comentarios. Corregir las “Notas” de Wylie, nueva edición, p. 90, y el “Catálogo de Libros Chinos” de Courant, n.º 5056.
+[^164]: li:4 #. Otra obra, supuestamente escrita por Huang-shih Kung, y también incluida en la sección militar del Catálogo Imperial, es el # _Su Shu_ en 1 _chüan_. Un breve tratado ético de sabor taoísta, sin referencia alguna a la guerra, se considera una falsificación de la mano de # Chang Shang-ying (f. 1121), quien lo editó con comentarios. Corregir las «Notas» de Wylie, nueva edición, p. 90, y el «Catálogo de Libros Chinos» de Courant, n.º 5056.
 
 [^165]: lii:1 #. Se nos dice en el # que las seis obras mencionadas, junto con Sun Tzŭ, eran las prescritas para el entrenamiento militar en el período # (1078-1085). Véase # _Yü Hai_, cap. 140, f. 4 _r_°.
 

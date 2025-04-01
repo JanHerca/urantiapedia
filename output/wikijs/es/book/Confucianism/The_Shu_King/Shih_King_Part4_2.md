@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:52:26Z
 El Shû y partes anteriores del Shih nos han familiarizado con Shâo, nombre del apanaje de Shih, uno de los principales ministros de la corte de Kâu durante los dos primeros reinados de la dinastía. La ciudad de Shâo se encontraba en el actual departamento de Făng-khiang, Shen-hsî. Su primer poseedor, junto con el aún más famoso duque de Kâu, permanecieron en la corte para velar por el destino de la nueva dinastía. Eran conocidos como «los duques más altos» y «los dos grandes jefes», pues el duque de Kâu estaba a cargo de las partes orientales del reino y el otro de las occidentales. Se supone que las piezas de este libro fueron producidas en Shâo y los principados al sur de este, bajo su jurisdicción, por el duque.
 
 
-<span id="p431">[<sup><small>pág. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -53,7 +53,7 @@ Ella recoge el abrótano blanco, junto a los estanques, en los islotes. Lo emple
 
 Ella recoge el abrótano blanco, junto a los arroyos de los valles. Lo emplea, en el templo [^597] de nuestro príncipe.
 
-<span id="p432">[<sup><small>pág. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 Con el tocado alzado con reverencia, temprano, mientras aún es de noche, se encuentra en el templo del príncipe. Con su tocado, retirándose lentamente, regresa a sus aposentos.
 

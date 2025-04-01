@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXIX"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 LOS GATHAS.
 
@@ -62,7 +62,7 @@ Y mientras reza, confiesa su firme confianza en Ahura más que en los Daêvas, c
 
 11\. Entonces, como si ansiara recibir todo el equipo allí mismo, no solo implora por la Orden Justa, el Poder Real de Dios y Su Benevolencia para las masas representadas por el Rebaño, sino que pregunta cuándo acudirán a él y cuándo se apresurarán; y suplica a Ahura que les conceda su ayuda de inmediato para la gran causa, y con gran abundancia, a él y a sus compañeros. (Es singular que el nombre de Âramaiti no aparezca en esta sección).
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Traducción.
 
@@ -92,7 +92,7 @@ Ahura.
 
 6\. Ante esto, el Señor, el Gran Creador, Aquel que comprende la gracia misteriosa [^66] mediante Su intuición [^67], habló así: No de esta manera [^68] se nos encuentra un maestro espiritual, ni un jefe inspirado por la Rectitud y designado (en su espíritu); por eso, a Ti [^69] te he nombrado [^70] (como tal líder) para el diligente labrador de la tierra [^71].
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Los Ameshôspends [^72].
 
@@ -110,7 +110,7 @@ Los Ameshôspends [^79].
 
 ((¡Ah!) ¿Cuándo aparecerá alguien que pueda brindarle [^79] ayuda con mano fuerte [^80]?)
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Zaratustra [^81].
 
@@ -182,7 +182,7 @@ Zaratustra [^81].
 
 [^54]: 8:1 Es posible que aquí se hayan caído uno o más versículos.
 
-[^55]: 8:2 No me convence la comparación, casi universalmente aceptada, entre Mazd<i>a</i>u y medhâ. Véase la nota en la [pág. 104](Gathas_43#p104).
+[^55]: 8:2 No me convence la comparación, casi universalmente aceptada, entre Mazd<i>a</i>u y medhâ. Véase la nota en la [pág. 104](../Gathas_43#p104).
 
 [^56]: 8:3 ¿O, «Ha obrado por medio de los Daêvas»? De ser así, se indicaría una soberanía absoluta y no limitada. Véase la última línea.
 

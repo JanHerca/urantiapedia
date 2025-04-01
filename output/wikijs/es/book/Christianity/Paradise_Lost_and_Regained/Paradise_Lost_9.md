@@ -621,7 +621,7 @@ Redoblad, pues, este milagro, y decid:
 ¿Cómo llegaste a hablar del mudo y cómo?
 Para mí, tan amigable que creció por encima del resto.
 De tipo brutal que a diario se ven:
-“Di que tal maravilla merece la debida atención”.
+«Di que tal maravilla merece la debida atención».
 
 A lo cual el astuto Tentador respondió así:
 “¡Emperatriz de este hermoso mundo, resplandeciente Eva!
@@ -682,7 +682,7 @@ A nosotros; en tal abundancia se encuentra nuestra elección
 Como deja una mayor reserva de fruta intacta,
 Todavía colgando incorruptible, hasta que los hombres
 Crezcan hasta su provisión, y más manos
-“Ayudar a la Naturaleza a descargar su carga.”
+«Ayudar a la Naturaleza a descargar su carga.»
 
 A quien la astuta Víbora, alegre y contenta;
 “Emperatriz, el camino está listo y no es largo.
@@ -715,7 +715,7 @@ El crédito de cuya virtud recae sobre ti—
 Pero de este árbol no podemos gustar ni tocar;
 Dios así lo ordenó, y dejó ese mandato
 Hija única de su voz: el resto, vivimos
-“Ley para nosotros mismos; nuestra Razón es nuestra Ley.”
+«Ley para nosotros mismos; nuestra Razón es nuestra Ley.»
 
 A lo cual el Tentador respondió con picardía:
 ¡En verdad! ¿Dijo entonces Dios que del fruto
@@ -726,7 +726,7 @@ A quien Eva, aún sin pecado, dijo: "Del fruto
 De cada árbol del jardín podremos comer;
 Pero del fruto de este hermoso Árbol, en medio
 El Jardín, Dios ha dicho: 'No comeréis
-“De ella no toquéis, para que no muráis.”
+«De ella no toquéis, para que no muráis.»
 
 Apenas lo había dicho, aunque brevemente, cuando ahora era más audaz.
 El Tentador, pero, con muestras de celo y amor
@@ -1216,7 +1216,7 @@ Balanceo superior. De un pecho tan destemplado
 Adán, de aspecto extraño y estilo alterado,
 El discurso se interrumpió así y se le reanudó a Eva:
 
-“¡Ojalá hubieras escuchado mis palabras y te hubieras quedado!”
+«¡Ojalá hubieras escuchado mis palabras y te hubieras quedado!»
 Conmigo, como te lo supliqué, cuando ese extraño
 Deseo de vagar, esta mañana infeliz,
 ¡No sé de dónde te poseí! Teníamos entonces

@@ -80,7 +80,7 @@ Marcado con el nombre del poderoso arquero. [^838]
 Luego, en el diluvio ardiente, todos
 Tus gigantes caerán alrededor de su rey.
 
-<span id="p408">[<sup><small>pág. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 
 
@@ -154,7 +154,7 @@ Las órdenes que pronunció con fiereza:
 'Mirad que la guardéis bien y la domáis,
 Como algo salvaje, la dama testaruda,
 Hasta que su altivo cuerpo se doble
-Mediante una mezcla de amenazas y halagos. [1b](Libro_5_30#fn842)
+Mediante una mezcla de amenazas y halagos. [1b](../Libro_5_30#fn842)
 Los monstruos lo oyeron: él se alejó,
 Y pasó dentro de la morada de su reina.
 
@@ -187,7 +187,7 @@ Se paró junto a la reina Maithil y gritó:
 E hizo los treinta dioses y tres, [^844]
 Vencido en furiosa batalla, huye.
 
-<span id="p409">[<sup><small>pág. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Tu amante se aleja con desprecio
 De esposas a quienes la gracia y la juventud adornan.
@@ -270,7 +270,7 @@ Y temblando ante su presencia se encogió.
 Como un cervatillo extraviado, cuando la noche es oscura,
 Y lobos hambrientos alrededor de su ladrido.
 
-<span id="p410">[<sup><small>pág. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 Luego se arrastró hasta un árbol frondoso,
 Y pensó en su señor y lloró.
@@ -286,8 +286,8 @@ Ella yacía y lloraba y gemía.
 En el tono más triste del dolor,
 Y, salvaje de dolor, consternado de miedo,
 A Ráma y a su hermano se les llamó:
-«¡Oh, querida Kaus'alyá, [1](Libro_5_30#fn847) escúchame llorar!
-Dulce Reina Sumitrá [2](Libro_5_30#fn848), ¡escucha mi suspiro!
+«¡Oh, querida Kaus'alyá, [1](../Libro_5_30#fn847) escúchame llorar!
+Dulce Reina Sumitrá [2](../Libro_5_30#fn848), ¡escucha mi suspiro!
 Cierto es lo que dicen los sabios:
 La muerte no viene a aliviar la desesperación.
 Es en vano que una mujer o un hombre oren;
@@ -388,7 +388,7 @@ En el carro de Rávan ​​parecían viajar,
 Y huye con el principesco Lakshman.
 A los reinos del norte más allá del mar.
 
-<span id="p411">[<sup><small>pág. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Entonces Ravan, afeitado y rapado, untó
 Con aceite de la cabeza a los pies, apareció.
@@ -403,10 +403,10 @@ Ella arrojó al monarca de nuestra raza,
 Se levantó, bailó y rió,
 Con labios sedientos bebió el aceite,
 Entonces, con ojos desorbitados y boca llorosa,
-Aceleró en el carro hacia el sur. [1](Libro_5_30#fn849)
+Aceleró en el carro hacia el sur. [1](../Libro_5_30#fn849)
 Luego, dejando caer aceite de cada extremidad,
 Sus hijos los príncipes le siguieron,
-Y Kumbhakarna, [2](Libro_5_30#fn850) afeitado y rapado,
+Y Kumbhakarna, [2](../Libro_5_30#fn850) afeitado y rapado,
 Estaba rumbo al sur en un camello.
 Entonces la realeza de Lanká se tambaleó y cayó.
 Con puerta y torre y ciudadela,
@@ -476,7 +476,7 @@ del sánscrito se utilizaron, pero el empleo
 de dicción formal y elaborada,
 Textos sánscritos de MUIR, Parte II, pág. 166.}
 
-<span id="p412">[<sup><small>pág. 412</small></sup>]</span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 Aterrorizada, se sobresaltará y llorará;
 Y toda la banda de demonios, alarmada,
@@ -528,7 +528,7 @@ Calmará el temor de la fiel dama.
 
 [^837]: 407:1b Haz a los demás lo que quisieras que te hicieran a ti, es un precepto que aparece con frecuencia en los antiguos poemas indios.
 
-Esta caridad debe abarcar no solo a los seres humanos, sino también a las aves y a los animales: “Quien mejor ama todas las cosas, grandes y pequeñas, ora mejor”.
+Esta caridad debe abarcar no solo a los seres humanos, sino también a las aves y a los animales: «Quien mejor ama todas las cosas, grandes y pequeñas, ora mejor».
 
 [^838]: 407:2b Era costumbre de los guerreros indios marcar sus flechas con sus cifras o nombres, y parece que se consideraba un honor dar al enemigo la satisfacción de saber quién le había disparado. Sin embargo, este pasaje contiene, si no me falla la memoria, la primera mención de esta práctica en el poema, y ​​como las flechas se han mencionado y descrito con tanta frecuencia con casi todos los epítetos imaginables, su aparición aquí resulta sospechosa. Hasta ahora, no se ha mencionado ni aludido a la escritura en el poema.
 

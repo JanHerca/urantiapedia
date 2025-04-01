@@ -1,5 +1,5 @@
 ---
-title: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+title: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 description: 
 published: true
 date: 2025-2-12T13:0:36Z

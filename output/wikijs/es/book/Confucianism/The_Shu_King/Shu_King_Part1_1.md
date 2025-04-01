@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p31">[<sup><small>pág. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ## EL REY SHÛ. PARTE I. EL LIBRO DE THANG.
 
@@ -46,7 +46,7 @@ Distinguió a los capaces y virtuosos, y de ahí procedió al amor de todos en l
 
 2\. Ordenó a los Hsîs y Hos [^24] que, en reverente acuerdo con (su observación de) los amplios cielos, calcularan y delinearan (los movimientos y apariencias del) sol, la luna, las estrellas y los espacios zodiacales, y así entregaran respetuosamente las estaciones que debían ser observadas por el pueblo.
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Ordenó por separado al segundo hermano Hsî que residiera en Yü-î [^25], en lo que se llamaba el Valle Brillante, y que allí recibiera respetuosamente al sol naciente y organizara las labores de la primavera. «El día», dijo, «es de duración media, y la estrella está en Niâo; así podrás determinar con exactitud la mitad de la primavera. La gente está dispersa en los campos, y las aves y los animales se reproducen y copulan».
 

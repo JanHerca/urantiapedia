@@ -36,7 +36,7 @@ La Guemará en el Tratado Shabat hace las siguientes observaciones sobre el Tabe
 
 Aben Ezra y Rambán, repitiendo la antigua tradición, dicen que había figuras en cada estandarte. En el estandarte de Rubén había la imagen de un hombre. En el estandarte de Judá, la de un león. En el estandarte de Efraín, la de un buey. Y en el estandarte de Dan, la de un águila. De modo que eran como los querubines que vio el profeta Ezequiel.
 
-<span id="p374">[<sup><small>pág. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Los rabinos afirman que los vasos del Tabernáculo eran una réplica exacta de existencias reales en el cielo. «Rabí José, hijo de Rabí Judá, dijo: «Un arca de fuego, una mesa de fuego y un candelero de fuego descendieron del cielo. Y Moisés los vio e hizo conforme a su semejanza». También creen que el Arca de la Alianza está oculta en una cámara bajo el Recinto del Templo, y que esta y todos los vasos sagrados se encontrarán a la venida del Mesías. Sin embargo, los apócrifos nos informan que Jeremías colocó el Tabernáculo, el Arca y el Altar del Incienso en una «cueva hueca, en la montaña donde Moisés subió y vio la herencia de Dios». Y «el lugar será desconocido hasta que Dios reúna a su pueblo y lo reciba en misericordia». [^821] Los vasos sagrados, llevados a Roma tras la destrucción de Jerusalén en el año 70 d. C. y que ahora se ven esculpidos en el Arco de Tito, fueron llevados a África por los vándalos bajo el mando de Genserico. Belisario los llevó a Constantinopla en el año 520 d. C. Posteriormente fueron devueltos a Jerusalén, y desde allí se supone que fueron llevados a Persia, cuando Cosroes saqueó la Ciudad Santa en junio del 614.
 

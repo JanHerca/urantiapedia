@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## II. SALUDO DE LAS VIRTUDES.
 
@@ -73,16 +73,16 @@ Ahora sigue el
 
 ## Notas al pie
 
-[^130]: 20:1 “Por lo cual”, escribe sobre San Francisco, “en las alabanzas de las virtudes que compuso dice: “¡Salve! Reina sabiduría, Dios te salve con tu hermana pura y santa simplicidad”. Véase _2 Cel_. 3, 119, para este _Incipit_.
+[^130]: 20:1 «Por lo cual», escribe sobre San Francisco, «en las alabanzas de las virtudes que compuso dice: “¡Salve! Reina sabiduría, Dios te salve con tu hermana pura y santa simplicidad». Véase _2 Cel_. 3, 119, para este _Incipit_.
 
-[^131]: 20:2 Véase la página [3](Part_1_1#p3).
+[^131]: 20:2 Véase la página [3](../Part_1_1#p3).
 
-[^132]: 20:3 En el texto de las _Conformidades_ (que en su mayor parte concuerda con el del MS Ognissanti) el Saludo está precedido por el No. 27 de las Admoniciones y comienza con las palabras “No hay absolutamente ningún hombre”, etc.
+[^132]: 20:3 En el texto de las _Conformidades_ (que en su mayor parte concuerda con el del MS Ognissanti) el Saludo está precedido por el No. 27 de las Admoniciones y comienza con las palabras «No hay absolutamente ningún hombre», etc.
 
 [^133]: 20:4 Ed. de Venecia, 1504, y de Metz, 1509.
 
 [^134]: 20:5 _Opuscula_, Amberes, 1623.
 
-[^135]: 20:6 En el códice de Asís (como en el de Liegnitz) el título dice: (_Notas 6 y 7 llevadas a la página siguiente_.) p. 21 “De las virtudes con que fue adornada la Bienaventurada Virgen María y con las que también debe estar adornada un alma santa”, mientras que en el códice de Ognissanti y otros de la misma clase, el título es: “Saludo a las Virtudes y de su eficacia para confundir el Vicio”. (Véase Introducción.)
+[^135]: 20:6 En el códice de Asís (como en el de Liegnitz) el título dice: (_Notas 6 y 7 llevadas a la página siguiente_.) p. 21 «De las virtudes con que fue adornada la Bienaventurada Virgen María y con las que también debe estar adornada un alma santa», mientras que en el códice de Ognissanti y otros de la misma clase, el título es: «Saludo a las Virtudes y de su eficacia para confundir el Vicio». (Véase Introducción.)
 
-[^136]: 20:7 Cod. As. omite “Salve”.
+[^136]: 20:7 Cod. As. omite «Salve».

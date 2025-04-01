@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 1\. Un hijo terco y rebelde. [^399] «¿Desde cuándo es un hijo terco y rebelde?» «Desde que le salen dos cabellos hasta que le crece la barba; pero los Sabios hablaron con modestia. Como suele decirse, cuando un hombre tiene un hijo —un hijo, pero no una hija; un hijo, pero no un hombre; un niño aún libre de someterse a los mandamientos.»
 

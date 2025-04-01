@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_1_1"><sup><small>3:1:1</small></sup></span>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <i>S</i>ATAPATHA-BRÂHMA<i>N</i>A.
 
@@ -67,7 +67,7 @@ TERCER KÂ<i>N</i><i>D</i>A.
 
 <span id="v3_1_1_1010"><sup><small>3:1:1:1010.</small></sup></span> Que no se comunique con todos; pues quien está consagrado se acerca a los dioses y se convierte en una deidad. Ahora bien, los dioses no se comunican con todos, sino solo con un brahmán, un râ<i>g</i>anya o un vaisya; pues estos pueden ofrecer sacrificios. Si tiene ocasión de conversar con un sudra, que le diga a uno de ellos: «¡Dile a este tal! ¡Dile a este tal!».
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Esta es la regla de conducta para los consagrados en tal caso.
 
@@ -121,7 +121,7 @@ Esta es la regla de conducta para los consagrados en tal caso.
 <span id="v3_1_2_2121"><sup><small>3:1:2:2121.</small></sup></span> Él (el Adhvaryu) le hizo entrar en la sala. Que no comiera (la carne) ni de vaca ni de buey; pues la vaca y el buey sin duda sustentan todo aquí en la tierra. Los dioses dijeron: «En verdad, la vaca y el buey sustentan todo aquí: ¡ven, concedamos a la vaca y al buey el vigor que pertenece a otras especies [^41]!». En consecuencia, concedieron a la vaca y al buey el vigor que pertenecía a otras especies (de animales); y, por lo tanto, la vaca y el buey son los que más comen. Por lo tanto, si uno comiera (la carne) de buey o de vaca, habría, por así decirlo, un devorarlo todo, o, por así decirlo, una continuación hacia el fin (o la destrucción). Tal persona probablemente nacería (de nuevo) como un ser extraño, (como alguien de quien hay) malos informes, como «ha expulsado un embrión de una mujer», «ha cometido un pecado [^42]»; por lo tanto, que no coma (la carne) de la vaca ni del buey. Sin embargo, Yâ<i>g</i><i>ñ</i>avalkya dijo: «Yo, por mi parte, la como, siempre que esté tierna».
 
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 <span id="v3_1_3"><sup><small>3:1:3</small></sup></span>
 
@@ -210,11 +210,11 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^54]: 15:2 «Indra mató a Vritra, su globo ocular se desprendió y se convirtió en colirio». Taitt. S. VI, 1, 1, 5.
 
-[^55]: 15:3 El profesor Delbrück, SF III, 27, lo interpreta así: «Rocía el ojo con la punta de una caña, pues la caña es un rayo capaz de repeler el mal». Pero, si «virakshastâyai» perteneciera a lo que precede, probablemente tendría que interpretarse con «<i>s</i>areshikayâ 'nakti', insertando entre paréntesis la cláusula con «vai», que da la razón; mientras que, en una traducción idiomática, tendría que colocarse al final: Unge los ojos con un tallo de caña para ahuyentar a los malos espíritus, siendo la caña un rayo. Este dativo abstracto de propósito es muy común; generalmente se interpreta con lo que precede, como, por ejemplo, I, 1, 4, 1; 3, 2, 8; 5, 3, 8; 15; [III, 1, 2, 13](Book_2_3_1#v3_1_2_13); [19](Book_2_3_1#v3_1_2_19); ; y, con una cláusula entre paréntesis con 'vai' interviniendo, [III, 2, 1, 13](Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](Book_2_4_5#v4_5_7_7). No menos común es la construcción análoga con una cláusula con 'ned' p. 16 ('para que no ocurra tal evento') en lugar del dativo del abstracto, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](Book_2_4_5#v4_5_9_3).
+[^55]: 15:3 El profesor Delbrück, SF III, 27, lo interpreta así: «Rocía el ojo con la punta de una caña, pues la caña es un rayo capaz de repeler el mal». Pero, si «virakshastâyai» perteneciera a lo que precede, probablemente tendría que interpretarse con «<i>s</i>areshikayâ 'nakti', insertando entre paréntesis la cláusula con «vai», que da la razón; mientras que, en una traducción idiomática, tendría que colocarse al final: Unge los ojos con un tallo de caña para ahuyentar a los malos espíritus, siendo la caña un rayo. Este dativo abstracto de propósito es muy común; generalmente se interpreta con lo que precede, como, por ejemplo, I, 1, 4, 1; 3, 2, 8; 5, 3, 8; 15; [III, 1, 2, 13](../Book_2_3_1#v3_1_2_13); [19](../Book_2_3_1#v3_1_2_19); ; y, con una cláusula entre paréntesis con 'vai' interviniendo, [III, 2, 1, 13](../Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](../Book_2_4_5#v4_5_7_7). No menos común es la construcción análoga con una cláusula con 'ned' p. 16 ('para que no ocurra tal evento') en lugar del dativo del abstracto, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](../Book_2_4_5#v4_5_9_3).
 
-[^56]: 16:1 Ahora interpreto este pasaje de forma diferente a mi interpretación de I, 1, 2, 4 («y, para que este hombre pueda moverse por el aire, sin raíces ni ataduras en ambas direcciones»). Véase también [IV, 1, 1, 20](Book_2_4_1#v4_1_1_20).
+[^56]: 16:1 Ahora interpreto este pasaje de forma diferente a mi interpretación de I, 1, 2, 4 («y, para que este hombre pueda moverse por el aire, sin raíces ni ataduras en ambas direcciones»). Véase también [IV, 1, 1, 20](../Book_2_4_1#v4_1_1_20).
 
-[^57]: 16:2 'Tad uttaram evaitad uttarâvat karoti;' 'uttarấm évaitad úttaram karoti', recensión de Kâ<i>n</i>va. Cfr. [pag. 2](Book_2_3_1#p2), nota [1](Book_2_3_1#fn24).
+[^57]: 16:2 'Tad uttaram evaitad uttarâvat karoti;' 'uttarấm évaitad úttaram karoti', recensión de Kâ<i>n</i>va. Cfr. [pag. 2](../Book_2_3_1#p2), nota [1](../Book_2_3_1#fn24).
 
 [^58]: 17:1 Véase parte i, pág. 19, nota 2.
 
@@ -224,11 +224,11 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^61]: 17:4 Los Kâ<i>n</i>vas leen, aya<i>m</i> vâva vâkpatir yo 'yam pavate, tad enam esha punâti, 'el señor del habla sin duda es ese soplador (purificador, el viento): por lo tanto, es él quien lo purifica.'
 
-[^62]: 18:1 Véase [p. 8](Book_2_3_1#p8), nota [3](Book_2_3_1#fn34).
+[^62]: 18:1 Véase [p. 8](../Book_2_3_1#p8), nota [3](../Book_2_3_1#fn34).
 
 [^63]: 18:2 Considero ya<i>g</i><i>ñ</i>iyâsa<i>h</i> como acc. pl. fem., al igual que Mahîdh. Quizás debería traducirse como «para las oraciones propias del sacrificio», con lo cual se asegura de que cada sacerdote use sus propias oraciones durante el sacrificio.
 
-[^64]: 18:3 Para el significado simbólico del cierre de las manos, véase [III, 2, 1, 6](Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
+[^64]: 18:3 Para el significado simbólico del cierre de las manos, véase [III, 2, 1, 6](../Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
 
 [^65]: 19:1 Es decir, «svâhâ» en cada fórmula. El Sa<i>m</i>hitâ tiene dos veces «svâhâ» en la última fórmula (svâhâ vâtâd ârabhe svâhâ), a lo que esto podría referirse, pero ninguna recensión del Brâhma<i>n</i>a menciona el «svâhâ» final.
 
@@ -287,9 +287,9 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 <span id="v3_1_4_2121"><sup><small>3:1:4:2121.</small></sup></span> Ofrece esta libación con un verso anush<i>t</i>ubh, porque el anush<i>t</i>ubh es habla, y el sacrificio es habla; de modo que de ese modo obtiene el verdadero sacrificio.
 
-<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span> En cuanto a esto, dicen: «Que ofrezca solo esta: pues cualquiera que sea el objeto que se ofrezca a las demás, ese objeto lo obtiene incluso con esta». Y, de hecho [^74], si <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> ofrece solo esta, ofrecería una ofrenda completa; y la completa significa todo: por lo tanto, lo obtiene todo con esta (oblación). Y al llenar la cuchara de inmersión (sruva), llena la cuchara de ofrenda (<i>g</i>uhû), y esta última la ofrece completa. Esto, sin embargo, es una mera afirmación (de las opiniones de otros) [1](Book_2_3_2#fn75), pero se ofrecen las (cinco) libaciones.
+<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span> En cuanto a esto, dicen: «Que ofrezca solo esta: pues cualquiera que sea el objeto que se ofrezca a las demás, ese objeto lo obtiene incluso con esta». Y, de hecho [^74], si <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> ofrece solo esta, ofrecería una ofrenda completa; y la completa significa todo: por lo tanto, lo obtiene todo con esta (oblación). Y al llenar la cuchara de inmersión (sruva), llena la cuchara de ofrenda (<i>g</i>uhû), y esta última la ofrece completa. Esto, sin embargo, es una mera afirmación (de las opiniones de otros) [1](../Book_2_3_2#fn75), pero se ofrecen las (cinco) libaciones.
 
-<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span> Ofrece este con un verso anush<i>t</i>ubh. Al ser un verso anush<i>t</i>ubh, consta de treinta y una sílabas. Ahora bien, hay diez dedos en las manos, diez dedos de los pies, diez aires vitales, y el trigésimo primero es el cuerpo que contiene esos aires vitales; pues esto constituye al hombre, y el sacrificio es un hombre, el sacrificio es de la misma proporción que un hombre [2](Book_2_3_2#fn76). Así, sea cual sea la extensión del sacrificio, sea cual sea su medida, en esa medida toma posesión de él mediante esta (libación), cuando lo ofrece con un verso anush<i>t</i>ubh de treinta y una sílabas.
+<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span> Ofrece este con un verso anush<i>t</i>ubh. Al ser un verso anush<i>t</i>ubh, consta de treinta y una sílabas. Ahora bien, hay diez dedos en las manos, diez dedos de los pies, diez aires vitales, y el trigésimo primero es el cuerpo que contiene esos aires vitales; pues esto constituye al hombre, y el sacrificio es un hombre, el sacrificio es de la misma proporción que un hombre [2](../Book_2_3_2#fn76). Así, sea cual sea la extensión del sacrificio, sea cual sea su medida, en esa medida toma posesión de él mediante esta (libación), cuando lo ofrece con un verso anush<i>t</i>ubh de treinta y una sílabas.
 
 <figure class="table chapter-navigator">
   <table>
@@ -319,7 +319,7 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^23]: 1:1 Abhi-<i>s</i>î, 'yacer o elevarse por encima', con Sây. El Dr. Lindner toma bhûme<i>h</i> como abl. y traduce como 'donde solo yace tierra'. La transcripción de Kâ<i>n</i>va tiene bhûme<i>h</i> (gen.) igualmente en la cláusula precedente: 'tad yad eva varshish<i>th</i>am bhûmes tad eva devaya<i>g</i>ana<i>m</i> syâd yatrânyad bhûmer nâbhi<i>s</i>ayîteto vai devâ, etc.'. Evidentemente, los dioses ascendieron al cielo desde el punto más alto de la tierra, y por lo tanto, el sacrificador debe elegir el lugar más alto disponible. Véase Kâty. VII, 1, 11 scholl.; Lâ<i>t</i>y. S. I, 1, 17, 'na <i>k</i>âsya sthalataram (lugar superior) adûre syât.'
 
-[^24]: 2:1 O 'posterior'; un juego de palabras con la palabra 'uttara', que significa 'superior', 'posterior' e 'izquierdo'. El Dr. Lindner lo interpreta como 'del norte'. Es posible que uttara también se refiera a los altares de Soma (uttara vedi y uttara-vedi) que se prepararían posteriormente (véase [III, 5, 1, 1](Book_2_3_5#v3_5_1_1) ss.) en la parte oriental del terreno de sacrificios.
+[^24]: 2:1 O 'posterior'; un juego de palabras con la palabra 'uttara', que significa 'superior', 'posterior' e 'izquierdo'. El Dr. Lindner lo interpreta como 'del norte'. Es posible que uttara también se refiera a los altares de Soma (uttara vedi y uttara-vedi) que se prepararían posteriormente (véase [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1) ss.) en la parte oriental del terreno de sacrificios.
 
 [^25]: 2:2 El texto de Kâ<i>n</i>va dice: —En consecuencia, Yâ<i>g</i><i>ñ</i>avalkya dijo: «Vârsh<i>n</i>a pretendía sacrificar (ayakshyata). Así que fuimos (¡ayama!) a buscar un lugar de adoración». El conocido como Sâtyaya<i>g</i><i>ñ</i>i dijo: «En verdad, toda esta tierra es divina: hay un lugar de adoración dondequiera que se sacrifique en ella, tras rodearla con un ya<i>g</i>us». Y así lo pensó, pero los sacerdotes oficiantes constituyen sin duda el verdadero lugar de adoración: solo donde los sacerdotes sabios realizan el sacrificio según la debida forma, allí no hay fallos. Esa otra definición no es la característica del lugar de adoración. (Sin iti final).
 
@@ -327,7 +327,7 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^27]: 3:2 Prâ<i>k</i>îna-va<i>m</i><i>s</i>a (prâg-va<i>m</i><i>s</i>a, K.). Las va<i>m</i><i>s</i>as son las vigas horizontales sostenidas por los cuatro postes esquineros. Primero, se fijan dos vigas transversales a los postes esquineros, que sirven de dinteles para las puertas oriental y occidental. Sobre ellas se colocan vigas de unión, de oeste a este, sobre las que se extienden esteras a modo de techo. El término 'prâ<i>k</i>îna-va<i>m</i><i>s</i>a' se refiere a estas vigas superiores (upari-va<i>m</i><i>s</i>a), y especialmente a la viga central (p<i>ri</i>sh<i>th</i>a-va<i>m</i><i>s</i>a o madhyavala) cuyos extremos descansan en el medio de los dinteles de las puertas oriental y occidental; cf. Sâya<i>n</i>a en Taitt. S. I, 2, 1 (vol. i, págs. 279, 286); Kâty. VII, I, 20 scholl. Dentro del Prâ<i>k</i>îna-va<i>m</i><i>s</i>a se encuentra el fuego Âhavanîya inmediatamente orientado hacia la puerta oriental; El fuego de Gârhapatya, frente a la puerta oeste; entre ambos, el altar; y al sur de este último, el Dakshi<i>n</i>âgni. El cobertizo (vimita) se erigirá en la parte trasera (oeste) del terreno de sacrificio, después de desenterrar las raíces. Se describe como una estructura cuadrada de diez (o doce) codos, algo más alta por delante que por detrás; con puertas a cada lado (excepto, opcionalmente, la del norte). El <i>s</i>âlâ, o sala, medirá veinte codos por diez. Kâty. VII, 1, 19-24 comm.
 
-[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. Aparecen las mismas partículas [III, 2, 1, 11](Book_2_3_2#v3_2_1_11). El texto de Kâ<i>n</i>va dice: «para que no hiele en invierno, para que no llueva a cántaros en la estación lluviosa, y para que no haya un calor abrasador en verano».
+[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. Aparecen las mismas partículas [III, 2, 1, 11](../Book_2_3_2#v3_2_1_11). El texto de Kâ<i>n</i>va dice: «para que no hiele en invierno, para que no llueva a cántaros en la estación lluviosa, y para que no haya un calor abrasador en verano».
 
 [^29]: 5:1 El rito descrito en los párrafos siguientes se llama apsudîkshâ, o 'consagración en agua'.
 
@@ -339,7 +339,7 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^33]: 8:2 La recensión de Kâ<i>n</i>va tiene la mejor lectura: «Pues, de hecho, ahora lo purifican cuando se baña». Según Taitt. S. VI, 1, 1, 3, también bebe (a<i>s</i>nâti) un poco de agua con vistas a la purificación interna.
 
-[^34]: 8:3 Lit. «Porque aquello a quien purificaron (es decir, cuando purifican a alguien) con ghee está verdaderamente bien purificado». El imperfecto es bastante extraño. Véase también [III, 1, 3, 22](Book_2_3_1#v3_1_3_22). Los Kâ<i>n</i>vas dicen: «Porque aquello a quien purifican (yad pûyate) con ghee está verdaderamente bien purificado».
+[^34]: 8:3 Lit. «Porque aquello a quien purificaron (es decir, cuando purifican a alguien) con ghee está verdaderamente bien purificado». El imperfecto es bastante extraño. Véase también [III, 1, 3, 22](../Book_2_3_1#v3_1_3_22). Los Kâ<i>n</i>vas dicen: «Porque aquello a quien purifican (yad pûyate) con ghee está verdaderamente bien purificado».
 
 [^35]: 8:4 Prâṅ ivodaṅ = uttarapûrvârdham, Kâty. VII, 2, 15, es decir, «hacia el norte con un ligero giro hacia el este». El Dr. Lindner interpreta «udaṅ» (p. 9) como una explicación de la preposición «ud». Sin embargo, esto no explica el «iva».
 
@@ -351,9 +351,9 @@ Esta es la regla de conducta para los consagrados en tal caso.
 
 [^39]: 10:3 Es decir, si no es una prenda nueva, debe ser una que no haya sido lavada por un lavandero (con mautra, etc.), sino que se use diariamente después del baño.
 
-[^40]: 10:4 O, forma externa, tanu. Su significado a veces se acerca mucho al de «piel», que le asignan los lexicógrafos. Cf. [III, 2, 2, 20](Book_2_3_2#v3_2_2_20); [4, 3, 9](Book_2_3_4#v3_4_3_9).
+[^40]: 10:4 O, forma externa, tanu. Su significado a veces se acerca mucho al de «piel», que le asignan los lexicógrafos. Cf. [III, 2, 2, 20](../Book_2_3_2#v3_2_2_20); [4, 3, 9](../Book_2_3_4#v3_4_3_9).
 
-[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](Book_2_3_3#v3_3_3_3). La narración del Krishna dice: «yad anyeshâm vayasâm vîryam yad anyeshâm pasûnâm».
+[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](../Book_2_3_3#v3_3_3_3). La narración del Krishna dice: «yad anyeshâm vayasâm vîryam yad anyeshâm pasûnâm».
 
 [^42]: 11:2 El profesor Delbrück propone una traducción diferente de este pasaje (Synt. Forsch. III, pág. 25); pero el texto Kâ<i>n</i>va (sâ ta<i>m</i> he<i>s</i>varo 'dbhutam abhi<i>g</i>anitor <i>g</i>âyâyâ vâ garbha<i>m</i> niravadhîd yad yeti tad u hovâ<i>k</i>a) muestra que aquí tenemos que sustituir, con la misma frecuencia, î<i>s</i>vara<i>h</i> por el infinitivo en tos. El Kâ<i>n</i>va yad vâ ('o algo así') también parecería indicar que deberíamos traducir: (como de alguien de quien) hay malos informes: 'él ha cometido algún pecado tal (iti) como producir un aborto'.
 

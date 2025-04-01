@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
-<span id="p221">[<sup><small>pág. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## CAPÍTULO I
 

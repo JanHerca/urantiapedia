@@ -32,9 +32,9 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>pág. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 256\. P. ¿En qué se diferencian los bhikkhus budistas de los sacerdotes de otras religiones?
 
@@ -44,7 +44,7 @@ A. En otras religiones los sacerdotes afirman ser intercesores entre los hombres
 
 A. El objetivo en vista era hacer que las personas más virtuosas, inteligentes, altruistas y espirituales de un país se retiraran del entorno social donde sus deseos sensuales y otros deseos egoístas se fortalecían naturalmente, dedicaran sus vidas a la adquisición de la sabiduría más elevada y se capacitaran para enseñar y guiar a otros fuera del camino placentero que conduce a la miseria, hacia el camino más difícil que conduce a la verdadera felicidad y a la liberación final.
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 258\. P. _Además de las Ocho, ¿qué dos observancias adicionales son obligatorias para los Bhikkhus?_
 
@@ -66,7 +66,7 @@ Observancias para la represión de los sentidos (_Indriya samvara sîla_).
 
 Reglamento para la obtención y uso justo de alimentos, dieta, vestimentas, etc. (_Paccaya sannissita sîla_).
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Instrucciones para llevar una vida intachable (_Ajivapâri suddha sîla_).
 
@@ -78,7 +78,7 @@ Destruyendo la vida de los seres;
 
 Robo;
 
-Falsa exhibición de poderes “ocultos” para engañar a cualquiera;
+Falsa exhibición de poderes «ocultos» para engañar a cualquiera;
 
 Relaciones sexuales;
 
@@ -96,7 +96,7 @@ Usar un lenguaje áspero y reprochador; hablar en vano;
 
 Leyendo y escuchando historias y cuentos fabulosos. Llevando mensajes hacia y desde los laicos;
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Compra y venta;
 
@@ -132,7 +132,7 @@ A. Se pone las túnicas y repite los Tres Refugios (Tisaraṇa) y los Diez Prece
 
 267\. P. ¿Cuáles son los dos elementos esenciales que deben observarse?
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 A. Pobreza y castidad. Un bhikkhu, antes de la ordenación, debe poseer ocho cosas: sus hábitos, un cinturón, una escudilla, un colador de agua, una navaja, una aguja, un abanico y sandalias. Dentro de los límites estrictamente especificados en el Vinaya, puede poseer ciertas otras propiedades.
 
@@ -146,7 +146,7 @@ A. Se levanta antes del amanecer, se lava, barre el vihâra, barre el árbol Bo 
 
 270\. P. ¿Debemos creer que no hay mérito en_ 
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 ¿La ofrenda de flores (mala pûja) como acto de adoración?
 
@@ -176,7 +176,7 @@ A. Intuición: un estado mental en el que cualquier verdad deseada se capta inst
 
 275\. P. ¿Y cuándo podrá alcanzarse ese desarrollo?
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 A. Cuando uno, mediante la práctica de Jñâna, llega a su cuarta etapa de desarrollo.
 

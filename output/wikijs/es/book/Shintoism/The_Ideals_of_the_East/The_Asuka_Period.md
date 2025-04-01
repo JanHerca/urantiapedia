@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 550 A 700 d.C.
 
@@ -54,7 +54,7 @@ Aquí tenemos la clave de una gran era, <span id="p89"><sup><small>[ p. 89 ]</sm
 
 Los intentos artísticos de la época son numerosos, algunos de escala gigantesca. Pero la idea principal de una nación que admitiera imágenes budistas en el panteón taoísta parece haber sido revestir la religión india con los ropajes chinos del período artístico Hâng, y esto se hizo de forma muy similar a como se construyeron los templos e imágenes cristianos primitivos, al estilo de la arquitectura y la escultura romanas.
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 En cuanto a la construcción, como se mencionó anteriormente, los palacios chinos se transformaron inmediatamente en templos budistas en un impulso de renuncia, realizándose únicamente las modificaciones necesarias para satisfacer las nuevas necesidades. La estupa, gracias a su evolución del tee, ya en la época de Kanishka había alcanzado varios pisos, y al ser adaptada a las formas chinas, bajo las condiciones de la arquitectura de madera, se convirtió en la pagoda de madera, tal como se conoce hasta la actualidad en Japón. De estas, existen dos tipos: la rectangular y la circular, esta última conservando la forma de la cúpula original.
 
@@ -66,7 +66,7 @@ Los ejemplos más típicos que podemos recordar son las imágenes excavadas en l
 
 Un poeta chino que visitó el lugar dejó en una roca la inscripción: «Las mismas piedras aquí han envejecido y, por lo tanto, han alcanzado la Budeidad». El lugar en sí mismo es hermoso, pues bajo el precipicio donde están tallados los budas corre el torrente impetuoso del Isui, y en la orilla opuesta se encuentra un pequeño templo llamado Kosanji. El sitio de la casa de Hakurakuten, nuestro querido poeta de la dinastía Tang, aún se puede ver aquí.
 
-En el período Asuka, cuando el budismo llegó por primera vez a Japón, la familia Soga ocupó el lugar más prominente en el estado, al igual que los Fujiwara y los Minamoto en épocas posteriores. Los Soga siguieron siendo un factor poderoso en el imperio desde la época de su fundador, Takanouchi Sukune, quien fue consejero y primer ministro de la emperatriz Zhingo en su famosa conquista de Corea. En pinturas posteriores, se le puede ver como un venerable hombre barbudo, sosteniendo al infante emperador en sus brazos. A partir de entonces, su familia se convirtió en ministro hereditario de asuntos exteriores, y las tradiciones de su sangre los llevaron naturalmente a amar y reverenciar la cultura e instituciones extranjeras, mientras que otros príncipes nativos procuraban la estricta conservación de las costumbres nacionales. Pues la responsabilidad del gobierno generalmente recaía en la poderosa aristocracia que rodeaba el trono y ejecutaba los mandatos con la sanción del nombre imperial. Esta es la supervivencia de aquella “Asamblea de los Dioses” que se creía que había dado consejo a la Divinidad Suprema en Takamagahara.
+En el período Asuka, cuando el budismo llegó por primera vez a Japón, la familia Soga ocupó el lugar más prominente en el estado, al igual que los Fujiwara y los Minamoto en épocas posteriores. Los Soga siguieron siendo un factor poderoso en el imperio desde la época de su fundador, Takanouchi Sukune, quien fue consejero y primer ministro de la emperatriz Zhingo en su famosa conquista de Corea. En pinturas posteriores, se le puede ver como un venerable hombre barbudo, sosteniendo al infante emperador en sus brazos. A partir de entonces, su familia se convirtió en ministro hereditario de asuntos exteriores, y las tradiciones de su sangre los llevaron naturalmente a amar y reverenciar la cultura e instituciones extranjeras, mientras que otros príncipes nativos procuraban la estricta conservación de las costumbres nacionales. Pues la responsabilidad del gobierno generalmente recaía en la poderosa aristocracia que rodeaba el trono y ejecutaba los mandatos con la sanción del nombre imperial. Esta es la supervivencia de aquella «Asamblea de los Dioses» que se creía que había dado consejo a la Divinidad Suprema en Takamagahara.
 
 La conmoción civil que acompañó el establecimiento del budismo en Japón <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> se convierte así en un asunto de celos familiares entre los sogas y los mononobes, comandantes en jefe hereditarios del ejército territorial, apoyados por los nakotomis, ancestros de los fujiwaras, quienes, como sacerdotes principales, o más propiamente, custodios de los ritos ancestrales, se aferraron naturalmente a las antiguas nociones, desafiando la nueva religión. Los otomos, almirantes hereditarios de la armada japonesa, que navegaban por sus puestos en la costa coreana, se inclinaron por los sogas, al menos en el sentido de mantenerse neutrales en la disputa. Estas desastrosas luchas por el poder, que terminaron con la supremacía de los Soga, fueron acompañadas por el crimen inolvidable del impericidio y varios destronamientos, un asunto de grave disgusto para los japoneses de hoy en día, pero por lo demás no fueron muy diferentes de la situación en la reciente restauración Meiji, cuando progresistas y conservadores lucharon para resolver sus diferencias de objetivos <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> y opiniones, aunque con un espíritu más amable.
 
@@ -92,13 +92,13 @@ Un bordado que representa el Reino de la Felicidad Infinita, llamado Tenju-koku,
 
 De los restos arquitectónicos, el propio santuario es un ejemplo típico, y el Salón Dorado, Kondo, es, en términos generales, fiel al estilo, a pesar de haber sido restaurado un siglo después. Las pagodas de los templos vecinos, Horinji y Hokiji, también son ejemplos del mismo estilo.
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## NOTAS
 
 Dado que las fechas en que se divide la historia japonesa se han generalizado un tanto para los fines del presente bosquejo, se considera conveniente proporcionar el siguiente resumen breve en una forma más precisa para su uso como referencia.
 
-_El Período Asuka_.—Duró desde la introducción del [budismo](errata.htm#0) en 552 hasta la ascensión del emperador Tenji en 667 d.C. Esta era en Japón está muy influenciada por el gran vigor del budismo en China, bajo la dinastía Tâng.
+_El Período Asuka_.—Duró desde la introducción del [budismo](../errata.htm#0) en 552 hasta la ascensión del emperador Tenji en 667 d.C. Esta era en Japón está muy influenciada por el gran vigor del budismo en China, bajo la dinastía Tâng.
 
 _El período Fujiwara_. Desde la ascensión al trono del emperador Seiwa en 898 hasta la caída de la familia Taira en 1186 d. C. Esta época se caracteriza por un desarrollo puramente nacional del arte y la filosofía budistas, bajo la aristocracia Fujiwara.
 

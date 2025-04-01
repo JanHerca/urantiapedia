@@ -38,7 +38,7 @@ En una ocasión, el Gurú, al ver a sus padres y familiares de pie a su alrededo
 
 ¿Desde cuándo tengo madre? ¿Desde cuándo padre? ¿De dónde venimos?
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Del fuego y de las burbujas del agua nacimos; ¿para qué fuimos creados?
 Señor mío, ¿quién conoce tus méritos?
@@ -64,7 +64,7 @@ Los demás miembros de la familia de Nanak también aprobaron unánimemente su d
 
 Cuando Nanak le pidió permiso a Rai Bular para partir, este le ofreció un banquete. El Rai le pidió entonces que le diera la orden que quisiera, es decir, que le indicara qué favor le concedería. Nanak respondió:
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Te doy una orden si la cumples.
 Cuando tu propia fuerza no te sirva, junta las manos y adora a Dios.
@@ -91,7 +91,7 @@ Aún no podría expresar tu valor; ¿cuán grande podría llamar tu nombre?
 Nanak, tenía cientos de miles de toneladas de papel y el deseo de escribir sobre todo ello después de una investigación muy profunda;
 Si la tinta nunca me fallara y pudiera mover mi pluma como el viento,
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Aún no podría expresar tu valor; ¿cuán grande podría llamar tu nombre?[^1]
 
@@ -118,7 +118,7 @@ No hay otra puerta fuera de la tuya; ¿a qué puerta iré?
 Nanak hace una súplica:
 El alma y el cuerpo están todos en tu poder.
 
-<span id="p36">[<sup><small>pág. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Estás cerca, estás lejos y estás a medio camino.
 Tú ves y oyes; con tu poder creaste el mundo.
@@ -140,7 +140,7 @@ Los que estaban presentes concluyeron entonces que Nanak no estaba poseído, sin
 
 Al oír esto, Nanak ordenó a Mardana que tocara el rabel y continuó la estrofa:
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 El simplón Nanak se ha vuelto loco contra el Señor.[^1]
 Y no conoce a nadie más que a Dios.
@@ -168,7 +168,7 @@ La modestia es tu circuncisión, la civilidad tu ayuno, así serás musulmán.
 Haz de la conducta correcta tu Kaaba,[^6] de la verdad tu guía espiritual, de las buenas obras tu credo y tu oración,
 La voluntad de Dios sea tu rosario, y Dios preservará tu honor, oh Nanak.
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Nanak, que los bienes de los demás[^1] sean para ti como los cerdos para el musulmán y las vacas para el hindú;[^2]
 Los maestros espirituales hindúes y musulmanes saldrán en tu ayuda si no comes carroña.[^3]
@@ -195,7 +195,7 @@ Toda la congregación musulmana en la capital —los descendientes del Profeta, 
 A la puerta de Dios moran miles de Muhammads, miles de Brahmas, de Vishnus y de Shivas;[^3]
 Miles y miles de Carneros exaltados,[^4] miles de guías espirituales, miles de vestimentas religiosas;
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Miles y miles de célibes, hombres verdaderos y Sanyasis;[^1]
 Miles y miles de Gorakhs,[^2] miles y miles de superiores de Jogis;

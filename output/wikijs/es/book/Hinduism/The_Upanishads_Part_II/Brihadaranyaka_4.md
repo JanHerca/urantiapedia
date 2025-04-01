@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 CUARTO ADHYÂYA.
 
@@ -50,11 +50,11 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, 
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna [^461]”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna [^461]».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
-<span id="p153">[<sup><small>pág. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'La lengua es su cuerpo, el éter es su lugar, y uno debe adorarla como conocimiento.'
 
@@ -74,7 +74,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, 
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
@@ -90,7 +90,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 4\. Yâ<i>g</i>_ñ_avalkya dijo: 'Escuchemos lo que alguien te haya dicho'.
 
-<span id="p155">[<sup><small>pág. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha respondió: 'Barku Vârsh<i>n</i>a me dijo que la visión (<i>k</i>akshus) es Brahman'.
 
@@ -98,13 +98,13 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, 
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'El ojo es su cuerpo, el éter es su lugar, y uno debe adorarlo como lo que es verdadero.'
 
-Ganaka Vaideha dijo: “¿Cuál es la naturaleza de aquello que es verdadero?”
+Ganaka Vaideha dijo: «¿Cuál es la naturaleza de aquello que es verdadero?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Majestad, la vista misma es la verdad; pues si a un hombre que ve con los ojos le preguntan: "¿Viste?", y responde: "Vi", entonces es verdad. La vista, oh Rey, es el Brahman Supremo. La vista no abandona a quien adora a ese Brahman con tal conocimiento; todas las criaturas se acercan a él, y, convertido en un dios, se dirige a los dioses».
 
@@ -116,13 +116,13 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 <i>G</i>anaka Vaideha respondió: 'Gardabhîvibhîta Bhâradvâ<i>g</i>a me dijo que escuchar (<i>s</i>ruta) es Brahman.'
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, madre y maestro podría decirlo, así también Gardabhîvibhîta Bhâradvâ<i>g</i>a te dijo que oír es Brahman; pues ¿de qué sirve una persona que no puede oír? Pero ¿te habló del cuerpo y el lugar de descanso de ese Brahman?»
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
@@ -138,7 +138,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 6\. Yâ<i>g</i>_ñ_avalkya dijo: 'Escuchemos lo que alguien te haya dicho'.
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha respondió: 'Satyakâma <i>G</i>âbâla me dijo que la mente [^466] (manas) es Brahman.'
 
@@ -146,11 +146,11 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, 
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
-Yâ<i>g</i>_ñ_avalkya dijo: “La mente misma es su cuerpo, el éter es su lugar, y debemos adorarla como dicha”.
+Yâ<i>g</i>_ñ_avalkya dijo: «La mente misma es su cuerpo, el éter es su lugar, y debemos adorarla como dicha».
 
 <i>Ganaka</i> Vaideha dijo: '¿Cuál es la naturaleza de la felicidad?'
 
@@ -168,7 +168,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio <span id="p158"><su
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
-Yâ<i>g</i>_ñ_avalkya dijo: “Su Majestad, este (Brahman) se sostiene sobre una sola pierna”.
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, este (Brahman) se sostiene sobre una sola pierna».
 
 <i>G</i>anaka Vaideha dijo: 'Entonces dime, Yâ<i>g</i>_ñ_avalkya.'
 
@@ -189,7 +189,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, como quien desea emprender un largo viaje se proveería de un carro o un barco, así está su mente bien <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> provista por estos Upanishads [^467]. Usted es honorable y rico, ha estudiado los Vedas y le han sido enseñados los Upanishads. ¿Adónde irá entonces al partir de aquí?»
 
-<i>Ganaka</i> Vaideha dijo: “Señor, no sé a dónde iré”.
+<i>Ganaka</i> Vaideha dijo: «Señor, no sé a dónde iré».
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'Entonces te diré esto, a dónde irás.'
 
@@ -216,7 +216,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Entonces te diré esto, a dónde irás.'
 Entonces <i>Ganaka</i> dijo: «Que esa valentía te llegue también a ti, que nos la enseñas. Me inclino ante ti. Aquí están los Videhas, y aquí estoy yo (tu esclavo)».
 
 
-<span id="p161">[<sup><small>pág. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## TERCER BRAHMANA.
 
@@ -224,15 +224,15 @@ Entonces <i>Ganaka</i> dijo: «Que esa valentía te llegue también a ti, que no
 
 2\. 'Yâ<i>g</i>_ñ_avalkya', dijo, '¿qué es la luz del hombre [^477]?'
 
-Yâ<i>g</i>_ñ_avalkya respondió: “El sol, oh Rey; pues, teniendo sólo el sol como luz, el hombre se sienta, se mueve, hace su trabajo y regresa”.
+Yâ<i>g</i>_ñ_avalkya respondió: «El sol, oh Rey; pues, teniendo sólo el sol como luz, el hombre se sienta, se mueve, hace su trabajo y regresa».
 
-<i>G</i>anaka Vaideha dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>G</i>anaka Vaideha dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
-3\. <i>G</i>anaka Vaideha dijo: “Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, ¿qué es entonces la luz del hombre?”
+3\. <i>G</i>anaka Vaideha dijo: «Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, ¿qué es entonces la luz del hombre?»
 
-Yâ<i>g</i>_ñ_avalkya respondió: “La luna en verdad es su luz; pues, teniendo sólo la luna como luz, el hombre se sienta, se mueve, hace su trabajo y regresa”.
+Yâ<i>g</i>_ñ_avalkya respondió: «La luna en verdad es su luz; pues, teniendo sólo la luna como luz, el hombre se sienta, se mueve, hace su trabajo y regresa».
 
-<i>G</i>anaka Vaideha dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>G</i>anaka Vaideha dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
 4\. <i>G</i>anaka Vaideha dijo: 'Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, y la luna se ha puesto, ¿qué es la luz del hombre?'
 
@@ -242,13 +242,13 @@ Yâ<i>g</i>_ñ_avalkya respondió: 'El fuego en verdad es su luz; <span id="p163
 
 Yâ<i>g</i>_ñ_avalkya respondió: «El sonido, en verdad, es su luz; pues, teniendo solo el sonido como luz, el hombre se sienta, se mueve, realiza su trabajo y regresa. Por lo tanto, oh Rey, cuando uno no puede ver ni siquiera su propia mano, al oír un sonido, se dirige hacia él».
 
-<i>G</i>anaka Vaideha dijo: “Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya”.
+<i>G</i>anaka Vaideha dijo: «Así es en verdad, oh Yâ<i>g</i>_ñ_avalkya».
 
 6\. <i>G</i>anaka Vaideha dijo: 'Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, y la luna se ha puesto, y el fuego se ha apagado, y el sonido se ha silenciado, ¿qué es entonces la luz del hombre?'
 
-Yâ<i>g</i>_ñ_avalkya dijo: “El Ser en verdad es su luz; pues, teniendo sólo al Ser como su luz, el hombre se sienta, se mueve, hace su trabajo y regresa”.
+Yâ<i>g</i>_ñ_avalkya dijo: «El Ser en verdad es su luz; pues, teniendo sólo al Ser como su luz, el hombre se sienta, se mueve, hace su trabajo y regresa».
 
-7\. <i>Ganaka</i> Vaideha dijo: “¿Quién es ese Ser?”
+7\. <i>Ganaka</i> Vaideha dijo: «¿Quién es ese Ser?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Quien está en el corazón, rodeado de los Prâ<i>n</i>as [^478] (sentidos), la persona de luz, compuesta de conocimiento. Él, permaneciendo inmutable, vaga por los dos mundos [^479], como si [^480] pensara, como si se moviera. Durante el sueño profundo (en sueños), trasciende este mundo y todas las formas de muerte (todo lo que cae bajo el dominio de la muerte, todo lo perecedero).»
 
@@ -270,9 +270,9 @@ Tras haber dominado por el sueño todo lo que pertenece al cuerpo, él, sin dorm
 
 14\. «La gente puede ver su juego [^485], pero a él mismo nadie lo ve jamás. Por eso dicen: «Que nadie despierte a un hombre de repente, pues no es fácil remediarlo si no regresa (correctamente a su cuerpo)».
 
-'Aquí algunos se oponen y dicen: “No, esto (el sueño) es lo mismo que el lugar de la vigilia, pues lo que uno ve mientras está despierto, eso solo lo ve cuando duerme [^486]”.
+'Aquí algunos se oponen y dicen: «No, esto (el sueño) es lo mismo que el lugar de la vigilia, pues lo que uno ve mientras está despierto, eso solo lo ve cuando duerme [^486]».
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 No, aquí (en el sueño) la persona se autoilumina (como explicamos antes).'
 
@@ -326,9 +326,9 @@ Ganaka Vaideha dijo: «Señor, le doy mil. Hable por mi emancipación».
 
 Entonces Yâ<i>g</i>_ñ_avalkya tuvo miedo de que el Rey, habiéndose vuelto lleno de entendimiento, lo expulsara de todas sus posiciones [^504].
 
-34\. Y Yâ<i>g</i>_ñ_avalkya dijo: 'Esa (persona), habiéndose recreado en ese estado de dormir (sueño), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> habiéndose movido y visto tanto el bien como el mal, se apresura a regresar como vino, al lugar de donde partió, al estado de vigilia [1](Brihadaranyaka_4#fn505).
+34\. Y Yâ<i>g</i>_ñ_avalkya dijo: 'Esa (persona), habiéndose recreado en ese estado de dormir (sueño), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> habiéndose movido y visto tanto el bien como el mal, se apresura a regresar como vino, al lugar de donde partió, al estado de vigilia [1](../Brihadaranyaka_4#fn505).
 
-35\. 'Ahora bien, como un carruaje cargado avanza gimiendo, así también este Ser corpóreo, montado por el Ser inteligente, avanza gimiendo, cuando un hombre está a punto de expirar [2](Brihadaranyaka_4#fn506).
+35\. 'Ahora bien, como un carruaje cargado avanza gimiendo, así también este Ser corpóreo, montado por el Ser inteligente, avanza gimiendo, cuando un hombre está a punto de expirar [2](../Brihadaranyaka_4#fn506).
 
 36\. 'Y cuando (el cuerpo) se debilita por la vejez, o se debilita por la enfermedad, en ese momento esa persona, después de separarse de sus miembros, como un Amra (mango), o un Udumbara (higo), o una fruta Pippala se separa del tallo, se apresura a regresar de nuevo como vino, al lugar de donde comenzó, a la (nueva) vida.
 
@@ -373,7 +373,7 @@ He encontrado el pequeño y antiguo sendero que se extiende a lo lejos [^519]. P
 
 11\. 'Existen [^523], en efecto, esos mundos no benditos, <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> cubiertos de oscuridad ciega. Los hombres ignorantes e incultos van después de la muerte a esos mundos.
 
-12\. 'Si un hombre comprende el Ser, diciendo: “Yo soy Él”, ¿qué podría desear o anhelar para anhelar el cuerpo? [^524]
+12\. 'Si un hombre comprende el Ser, diciendo: «Yo soy Él», ¿qué podría desear o anhelar para anhelar el cuerpo? [^524]
 
 13\. 'Quienquiera que haya encontrado y comprendido al Ser que ha entrado en este escondite remendado [^525], ese es en verdad el creador, porque él es el hacedor de todo, suyo es el mundo y él es el mundo mismo [^526].
 
@@ -397,7 +397,7 @@ He encontrado el pequeño y antiguo sendero que se extiende a lo lejos [^519]. P
 
 Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la descendencia?, decían, <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> nosotros que poseemos este Ser y este mundo (de Brahman) [^534]? Y ellos, tras haber superado el deseo de hijos, riquezas y nuevos mundos, vagan como mendigos. Pues el deseo de hijos es deseo de riquezas, y el deseo de riquezas es deseo de mundos. Ambos son, en realidad, solo deseos. Él, el Ser, se describe con un ¡No, no! [^535]! Es incomprensible, porque no puede ser comprendido; es imperecedero, porque no puede perecer; es desapegado, porque no se apega a sí mismo; libre, no sufre, no fracasa. A él (quien sabe), estos dos no vencen, ya diga que por alguna razón ha hecho el mal, o que por alguna razón ha hecho el bien: vence a ambos, y ni lo que ha hecho, ni lo que ha omitido hacer, le quema (le afecta).
 
-23\. Esto lo dice un verso (Rik): “Esta eterna grandeza del Brahmana no crece con el trabajo, ni disminuye. Que el hombre intente encontrar su rastro, pues al encontrarlo, no queda manchado por ninguna mala acción.”
+23\. Esto lo dice un verso (Rik): «Esta eterna grandeza del Brahmana no crece con el trabajo, ni disminuye. Que el hombre intente encontrar su rastro, pues al encontrarlo, no queda manchado por ninguna mala acción.»
 
 «Por lo tanto, quien lo conoce, tras haberse calmado, sumiso, satisfecho, paciente y sereno [^536], se ve a sí mismo en el Ser, ve todo como Ser. El mal no lo domina; él domina todo el mal. El mal no lo quema; él quema todo el mal. Libre del mal, libre de manchas, libre de dudas, se convierte en un (verdadero) Brâhma<i>n</i>a; este es el mundo de Brahma, oh Rey», así habló Yâ<i>g</i>_ñ_avalkya.
 
@@ -440,7 +440,7 @@ Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la desc
 
 'En verdad, los Devas no son queridos para que puedas amarlos, sino para que puedas amar al Ser; por lo tanto, los Devas son queridos.
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 'En verdad, los Vedas no son queridos para que los ames, sino para que ames al Ser; por eso los Vedas son queridos.
 
@@ -466,7 +466,7 @@ Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la desc
 
 Pero él respondió: «Oh, Maitreyî, no digo nada desconcertante. En verdad, amada, ese Ser es imperecedero y de naturaleza indestructible.»
 
-15\. 'Pues cuando existe, por así decirlo, dualidad, uno ve al otro, uno huele al otro, uno saborea al otro, uno saluda al otro, uno oye al otro, uno percibe al otro, uno toca al otro, uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría ver al otro, cómo podría oler al otro, cómo podría saborear al otro, cómo podría saludar al otro, cómo podría oír al otro, cómo podría tocar al otro, cómo podría conocer al otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? Ese Ser se describe con ¡No, no! [1](Brihadaranyaka_4#fn544)! Es incomprensible, porque no puede ser comprendido; es imperecedero, porque no puede perecer; es desapegado, porque no se apega a sí mismo; libre, no sufre, no falla. ¿Cómo, oh amado, podría conocer al Conocedor? Así, oh Maitreyî, has sido instruido. Hasta aquí llega la inmortalidad'. Dicho esto, Yâ<i>g</i>_ñ_avalkya se fue (al bosque).
+15\. 'Pues cuando existe, por así decirlo, dualidad, uno ve al otro, uno huele al otro, uno saborea al otro, uno saluda al otro, uno oye al otro, uno percibe al otro, uno toca al otro, uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría ver al otro, cómo podría oler al otro, cómo podría saborear al otro, cómo podría saludar al otro, cómo podría oír al otro, cómo podría tocar al otro, cómo podría conocer al otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? Ese Ser se describe con ¡No, no! [1](../Brihadaranyaka_4#fn544)! Es incomprensible, porque no puede ser comprendido; es imperecedero, porque no puede perecer; es desapegado, porque no se apega a sí mismo; libre, no sufre, no falla. ¿Cómo, oh amado, podría conocer al Conocedor? Así, oh Maitreyî, has sido instruido. Hasta aquí llega la inmortalidad'. Dicho esto, Yâ<i>g</i>_ñ_avalkya se fue (al bosque).
 
 
 ## SEXTO BRAHMANA.
@@ -475,7 +475,7 @@ Pero él respondió: «Oh, Maitreyî, no digo nada desconcertante. En verdad, am
 
 1\. (Nosotros) de Pautimâshya,
 2\. Pautimâshya, de Gaupavana,
-3\. Gaupavana de Pautimâshya, <span id="p186">[<sup><small>pág. 186</small></sup>]</span> 4\. Pautimâshya de Gaupavana,
+3\. Gaupavana de Pautimâshya, <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 4\. Pautimâshya de Gaupavana,
 5\. Gaupavana de Kau<i>s</i>ika,
 6\. Kau<i>s</i>ika de Kau<i>n</i><i>d</i>inya,
 7\. Kau<i>n</i><i>d</i>inya de Sâ<i>n</i><i>d</i>ilya,
@@ -530,7 +530,7 @@ Pero él respondió: «Oh, Maitreyî, no digo nada desconcertante. En verdad, am
 51\. M<i>ri</i>tyu Prâdhva<i>m</i>sana de Prâdhva<i>m</i>sana,
 52\. Prâdhva<i>m</i>sana de Ekarshi,
 53\. Ekarshi de Vipra<i>k</i>itti [^548],
-54\. Viprakitti de Vyashti, <span id="p188">[<sup><small>pág. 188</small></sup>]</span> 55\. Vyashti de Sanâru,
+54\. Viprakitti de Vyashti, <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 55\. Vyashti de Sanâru,
 56\. Sanâru de Sanâtana,
 57\. Sanâtana de Sanaga,
 58\. Sanaga de Paramesh<i>th</i>in,

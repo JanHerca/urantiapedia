@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 EspañolHe dividido este libro en tres capítulos: uno, que consiste en breves notas históricas del comienzo y el final de la expedición de Wû; un segundo, que da el discurso (o una parte de él) pronunciado por Wû a sus nobles y oficiales en ocasión, podemos suponer, de su reconocimiento de él como rey, y su confirmación de algunos de ellos en sus antiguos estados o nombramientos, y dando nuevos a otros; el tercero nuevamente histórico, y que relata varios incidentes de la batalla entre Wû y Shâu, y continúa con eventos posteriores y medidas gubernamentales importantes de la nueva dinastía.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 En este Libro encontramos otro «Anuncio», dirigido al pueblo de Yin o Shang, y especialmente a las clases altas —«los numerosos oficiales»—, para reconciliarlos con su destino como súbditos de la nueva dinastía. De los dos Libros anteriores se desprende que muchos habitantes de Yin se habían trasladado a la región del río Lo, antes de que los duques de Shâo y Kâu comenzaran la construcción de la nueva ciudad. Una vez terminada la ciudad, suponemos que se ordenó otra migración mayor; y el duque de Kâu aprovechó la ocasión para emitir el anuncio que aquí se conserva.
 

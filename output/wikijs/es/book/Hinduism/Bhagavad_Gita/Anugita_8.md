@@ -40,7 +40,7 @@ La esposa del brahmán dijo:
 
 Mi antigua creencia era que los sacerdotes sacrificiales eran siete por naturaleza [^1294]. Explique cómo el gran principio es que en verdad hay cinco sacerdotes sacrificiales [^1295].
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 El Brâhma<i>n</i>a dijo:
 
@@ -66,7 +66,7 @@ El Brâhma<i>n</i>a dijo:
 
 Entonces Vyâna y Udâna se dirigieron a quien hablaba así: «¡No eres el más grande, oh Apâna!, porque el Prana está sujeto a ti». Entonces Apâna se movió, y Vyâna le habló: «Soy el más grande entre todos. Escucha la razón. Cuando me extingo, todos los vientos vitales en el cuerpo de los seres vivos se extinguen.»
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Y cuando yo me muevo, ellos se mueven de nuevo. Soy el más grande. ¡Mira, estoy extinto!
 
@@ -76,7 +76,7 @@ Entonces el Vyâna se extinguió y volvió a moverse. Y el Prâna, el Apâna, el
 
 El Brâhma<i>n</i>a dijo:
 
-Entonces Brahman, el señor de (todas) las criaturas, dijo a los reunidos: «Ustedes son todos los más grandes, y no los más grandes [^1304]. Todos poseen las cualidades de los demás [1](Anugita_9#fn1305). Todos son los más grandes en sus propias esferas y se apoyan mutuamente. Hay un solo inmóvil [2](Anugita_9#fn1306) (aire vital). Hay otros que se mueven, (que son) cinco, debido a (sus) cualidades específicas. Mi propio ser es solo uno [3](Anugita_9#fn1307), (pero) acumulado en numerosas (formas). Siendo amigables y complaciéndose mutuamente, váyanse felices. ¡Que les vaya bien! Apóyense mutuamente».
+Entonces Brahman, el señor de (todas) las criaturas, dijo a los reunidos: «Ustedes son todos los más grandes, y no los más grandes [^1304]. Todos poseen las cualidades de los demás [1](../Anugita_9#fn1305). Todos son los más grandes en sus propias esferas y se apoyan mutuamente. Hay un solo inmóvil [2](../Anugita_9#fn1306) (aire vital). Hay otros que se mueven, (que son) cinco, debido a (sus) cualidades específicas. Mi propio ser es solo uno [3](../Anugita_9#fn1307), (pero) acumulado en numerosas (formas). Siendo amigables y complaciéndose mutuamente, váyanse felices. ¡Que les vaya bien! Apóyense mutuamente».
 
 <figure class="table chapter-navigator">
   <table>
@@ -104,7 +104,7 @@ Entonces Brahman, el señor de (todas) las criaturas, dijo a los reunidos: «Ust
 
 ## Notas al pie
 
-[^1296]: 270:1 Los sentidos son las puertas de la casa aquí, como lo son entre las puertas de la ciudad en el Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1296]: 270:1 Los sentidos son las puertas de la casa aquí, como lo son entre las puertas de la ciudad en el Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1297]: 270:2 Debido a la falta de alimento, etc. Cf. Maitrî, ​​pág. 112, y <i>Kh</i>ândogya, pág. 422.
 
@@ -116,7 +116,7 @@ Entonces Brahman, el señor de (todas) las criaturas, dijo a los reunidos: «Ust
 
 [^1301]: 271:1 Ar<i>g</i>una Mi<i>s</i>ra dice: «El viento que va al Prâ<i>n</i>a, y al ser obstruido en su ascenso por este, va al Apâna, y luego, incapaz de ascender ni descender, penetra en los conductos o nâ<i>d</i>îs del cuerpo y se convierte en Vyâna. De la misma manera, Udâna, por la colisión de ambos, produce sonido en la garganta y depende de Prâ<i>n</i>a y Apâna; así también, Samâna, que reside en el ombligo y enciende el fuego gástrico, depende de estos dos». El significado parece ser que un mismo viento vital se distribuye en diferentes lugares y recibe diferentes nombres, como se ha indicado, en el orden mencionado. Véase Maitrî, ​​pág. 28.
 
-[^1302]: 271:2 Una visita similar de los Prâ<i>n</i>as (quienes, sin embargo, no son solo los vientos vitales, sino el viento vital Prâ<i>n</i>a y los órganos activos) a Pra<i>g</i>âpati se menciona en B<i>ri</i>hadâra<i>n</i>yaka-upanishad, pág. 1016, y <i>Kh</i>ândogya, pág. 297. Cf. también Pra<i>s</i>na, pág. 178; B<i>ri</i>hadâra<i>n</i>yaka, pág. 317; y Kaushîtaki, pág. 63. Véase también, en general, en cuanto a los vientos vitales y sus funciones, B<i>ri</i>hadâra<i>n</i>yaka, pág. 280, y el comentario de <i>S</i>ankara allí; Yoga-sûtras III, 38, y comentario; nota de Cowell en Maitrî, ​​p. 247; <i>S</i>ânti Parvan (Moksha Dharma), cap. 184, est. 24-25; cap. 185, est. 1 seq.; y [p. 258](Anugita_5#p258) supra.
+[^1302]: 271:2 Una visita similar de los Prâ<i>n</i>as (quienes, sin embargo, no son solo los vientos vitales, sino el viento vital Prâ<i>n</i>a y los órganos activos) a Pra<i>g</i>âpati se menciona en B<i>ri</i>hadâra<i>n</i>yaka-upanishad, pág. 1016, y <i>Kh</i>ândogya, pág. 297. Cf. también Pra<i>s</i>na, pág. 178; B<i>ri</i>hadâra<i>n</i>yaka, pág. 317; y Kaushîtaki, pág. 63. Véase también, en general, en cuanto a los vientos vitales y sus funciones, B<i>ri</i>hadâra<i>n</i>yaka, pág. 280, y el comentario de <i>S</i>ankara allí; Yoga-sûtras III, 38, y comentario; nota de Cowell en Maitrî, ​​p. 247; <i>S</i>ânti Parvan (Moksha Dharma), cap. 184, est. 24-25; cap. 185, est. 1 seq.; y [p. 258](../Anugita_5#p258) supra.
 
 [^1303]: 272:1 Ar<i>g</i>una Mi<i>s</i>ra dice: Vyâna y Apâna también por la fuerza de los dos 'y' que aparecen en el original; y así en otros lugares también.
 

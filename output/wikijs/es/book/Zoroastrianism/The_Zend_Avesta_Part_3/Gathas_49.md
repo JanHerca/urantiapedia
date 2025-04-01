@@ -1,6 +1,6 @@
 ---
 title: "Yasna XLIX"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -44,7 +44,7 @@ Y así, el poeta implora una vez más la divina Benevolencia para que sea su gua
 
 10\. Por lo tanto, confía el resultado a Ahura, y con él, a sus dependientes, tanto vivos como muertos. Y sus pensamientos, vueltos al cielo (11), también regresan, como por antítesis (la nota clave del Daêna), a la retribución futura. Aquellos que dudan, inclinados a adherirse al bando contrario (verso 9), son advertidos con palabras de significado peculiar. Quienes eligen al soberano malvado, un du<i>s</i>sasti, como en Y. XXXII, 9, o como los sastars de Y. XLVI, 1, no avanzarán con los santos hacia el <i>K</i>inva<i>t</i> (Y. XLVI, 10), ni serán recibidos por sus conciencias bajo imágenes agradables, ni posteriormente por las almas de los santos que los precedieron, sino que los malvados muertos los recibirán en el hogar de las Mentiras, con comida envenenada y palabras despectivas. Y esta será una venganza autoinfligida.
 
-<span id="p162">[<sup><small>pág. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Traducción.
 

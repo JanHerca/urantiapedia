@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 SEXTO PRAP<i>TH</i>TAMBIÉN CONOCIDO COMO.
 
@@ -62,7 +62,7 @@ El padre respondió: "Querido mío, como por un terrón de arcilla se conoce tod
 
 3\. 'Pensó [^271], que yo sea muchos, que yo crezca. Emitió fuego [^272].
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 'Ese fuego [^273] pensó: "Que pueda ser muchos, que pueda crecer". Emitió agua [^274].
 
@@ -92,7 +92,7 @@ Por lo tanto, cuando llueve en cualquier lugar, se produce la mayor parte de los
 
 4\. «El color rojo del relámpago es el color del fuego, el blanco el del agua, el negro la tierra. Así, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> se desvanece lo que llamamos relámpago, como mera variedad, siendo un nombre que surge del habla. Lo verdadero son los tres colores.»
 
-5\. 'Grandes cabezas de familia y grandes teólogos de la antigüedad que sabían esto, lo han declarado, diciendo: “Nadie puede mencionarnos de ahora en adelante nada que no hayamos oído, percibido o conocido [^279]”. De estos (tres colores o formas) ellos lo sabían todo.
+5\. 'Grandes cabezas de familia y grandes teólogos de la antigüedad que sabían esto, lo han declarado, diciendo: «Nadie puede mencionarnos de ahora en adelante nada que no hayamos oído, percibido o conocido [^279]». De estos (tres colores o formas) ellos lo sabían todo.
 
 6\. «Todo lo que creían que parecía rojo, sabían que era del color del fuego. Todo lo que creían que parecía blanco, sabían que era del color del agua. Todo lo que creían que parecía negro, sabían que era del color de la tierra.»
 
@@ -183,7 +183,7 @@ Y cómo estos tres seres (devatâ), fuego, agua y tierra, ¡oh hijo!, al llegar 
 «Así sea, hijo mío», respondió el padre.
 
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## DÉCIMO KHAND [^288]
 
@@ -213,9 +213,9 @@ Eso que es esa esencia sutil, en él todo lo que existe tiene su ser. Es la Verd
 «Así sea, hijo mío», respondió el padre.
 
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
-## DUODÉCIMO KHA<i>N</i><i>D</i>A [1](Khandogya_6#fn291).
+## DUODÉCIMO KHA<i>N</i><i>D</i>A [1](../Khandogya_6#fn291).
 
 1\. 'Tráeme de allí un fruto del árbol Nyagrodha.'
 
@@ -251,17 +251,17 @@ El hijo hizo como se le ordenó.
 
 El padre le dijo: «Tráeme la sal que pusiste anoche en el agua».
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 El hijo, después de buscarlo, no lo encontró, porque, naturalmente, estaba derretido.
 
 2\. El padre dijo: «Pruébalo desde la superficie del agua. ¿Qué tal está?»
 
-El hijo respondió: “Es sal”.
+El hijo respondió: «Es sal».
 
 Pruébalo desde el centro. ¿Qué tal está?
 
-El hijo respondió: “Es sal”.
+El hijo respondió: «Es sal».
 
 Pruébalo desde abajo. ¿Qué tal está?
 
@@ -284,7 +284,7 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 1\. 'Como si alguien alejara a una persona con los ojos vendados de los Gandhâras [^295] y la dejara <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> en un lugar donde no hay seres humanos; y esa persona se girara hacia el este, el norte o el oeste, y gritara: «Me han traído aquí con los ojos vendados, me han dejado aquí con los ojos vendados».
 
-2\. 'Y así como alguien podría soltarse la venda y decirle: “Ve en esa dirección, es Gandhâra, ve en esa dirección”; y así como entonces, habiendo sido informado y pudiendo juzgar por sí mismo, preguntando de aldea en aldea por el camino llegaría finalmente a Gandhâra, de la misma manera un hombre que se encuentra con un maestro que le instruye obtiene el verdadero conocimiento [^296]. Para él <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> solo hay demora mientras no se libere (del cuerpo); entonces será perfecto [^297].
+2\. 'Y así como alguien podría soltarse la venda y decirle: «Ve en esa dirección, es Gandhâra, ve en esa dirección»; y así como entonces, habiendo sido informado y pudiendo juzgar por sí mismo, preguntando de aldea en aldea por el camino llegaría finalmente a Gandhâra, de la misma manera un hombre que se encuentra con un maestro que le instruye obtiene el verdadero conocimiento [^296]. Para él <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> solo hay demora mientras no se libere (del cuerpo); entonces será perfecto [^297].
 
 3\. «Aquello que es la esencia sutil, en él todo lo que existe tiene su ser. Es lo Verdadero. Es el Ser, y tú, oh Svetaketu, lo eres.»
 
@@ -295,7 +295,7 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 ## DECIMOQUINTO KHAN D [^298].
 
-1\. «Si un hombre está enfermo, sus familiares se reúnen a su alrededor y le preguntan: “¿Me conoces? ¿Me conoces?”. Ahora bien, mientras su habla no esté <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> fundida en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo (devatâ), él los conoce.
+1\. «Si un hombre está enfermo, sus familiares se reúnen a su alrededor y le preguntan: «¿Me conoces? ¿Me conoces?». Ahora bien, mientras su habla no esté <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> fundida en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo (devatâ), él los conoce.
 
 2\. 'Pero cuando su palabra se funde en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo, entonces no los conoce.
 
@@ -308,7 +308,7 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 ## DÉCIMO SEXTO KHA<i>N</i><i>D</i>A [^299].
 
-1\. 'Hijo mío, traen aquí a un hombre al que han tomado de la mano, y dicen: “Ha robado algo, ha cometido un robo”. (Cuando <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> lo niega, dicen): “Que le calienten el hacha”. Si cometió el robo, se hace pasar por lo que no es. Entonces, el de mente falsa, tras haber ocultado su verdadero Ser con una falsedad, empuña el hacha caliente; se quema y muere.
+1\. 'Hijo mío, traen aquí a un hombre al que han tomado de la mano, y dicen: «Ha robado algo, ha cometido un robo». (Cuando <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> lo niega, dicen): «Que le calienten el hacha». Si cometió el robo, se hace pasar por lo que no es. Entonces, el de mente falsa, tras haber ocultado su verdadero Ser con una falsedad, empuña el hacha caliente; se quema y muere.
 
 2\. 'Pero si no cometió el robo, entonces se convierte en lo que es. Entonces, el de mente sincera, habiendo cubierto su verdadero Ser con la verdad, empuña el hacha de guerra; no se quema, y ​​se libera.
 

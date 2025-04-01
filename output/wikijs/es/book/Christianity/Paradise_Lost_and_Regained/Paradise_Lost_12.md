@@ -533,7 +533,7 @@ Los enemigos de la verdad. ¿Quién entonces guiará?
 Su pueblo, ¿quién lo defiende? ¿No tratarán?
 ¿Trataron a sus seguidores peor que a él?
 
-“Seguro que sí”, dijo el ángel; “pero desde el Cielo
+«Seguro que sí», dijo el ángel; “pero desde el Cielo
 Él enviará a los suyos un Consolador,
 La promesa del Padre, que morará,
 Su Espíritu, dentro de ellos, y la ley de la fe.
@@ -622,7 +622,7 @@ Por simplemente ser mansos; ese sufrimiento por causa de la Verdad
 ¿Es la fortaleza para la victoria más alta,
 Y a los fieles la muerte la puerta de la vida—
 Me enseñó esto con su ejemplo, a quien ahora conozco.
-“Reconoce a mi Redentor, siempre bendito.”
+«Reconoce a mi Redentor, siempre bendito.»
 
 A lo cual el ángel también respondió por última vez:
 “Habiendo aprendido esto, has alcanzado la suma

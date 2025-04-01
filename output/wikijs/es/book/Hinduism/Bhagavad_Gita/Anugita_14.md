@@ -94,6 +94,6 @@ Los Pitri dijeron:
 
 [^1430]: 295:4 Como los chatrias eran necesarios para la protección del pueblo, los brahmanes los procrearon con mujeres chatrias. Véase Muir, Textos Sánscritos, vol. ii, pág. 451 y siguientes. Y como eran descendientes de estas conexiones anómalas, se les describe como «parientes de los chatrias». Cf. <i>Kh</i>ândogya, pág. 317; B<i>ri</i>hadâra<i>n</i>yaka, pág. 1037 y comentarios al respecto. En cuanto a la heroicidad, véase Muir, Textos Sánscritos, vol. iv, pág. 302, nota.
 
-[^1431]: 295:5 Cfr. Gîtâ, [p. 40](Bhagavadgita_1#p40), nota [1](Bhagavadgita_1#fn97).
+[^1431]: 295:5 Cfr. Gîtâ, [p. 40](../Bhagavadgita_1#p40), nota [1](../Bhagavadgita_1#fn97).
 
 [^1432]: 295:6 Véase para la historia completa, Muir, Textos Sánscritos, vol. i, pág. 442.

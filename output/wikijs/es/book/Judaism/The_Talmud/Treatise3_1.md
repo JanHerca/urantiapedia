@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ## TRATADO III.
 
@@ -62,7 +62,7 @@ Mudanzas—Trabajo que debe evitarse—Discusión entre las escuelas de Shammai 
 
 10\. No deben freír carne, cebolla ni huevos, a menos que estén suficientemente fritos mientras aún es de día. No deben meter pan al horno al anochecer, ni un pastel sobre las brasas, a menos que su cara esté suficientemente cocida mientras aún es de día. El rabino Eliezer dijo: «Que su parte inferior esté suficientemente cocida».
 
-11\. «Pueden colgar la ofrenda de Pascua [1](Tratado3_2#fn93) en un horno al anochecer». Y pueden tomar una luz de la pila de leña en la casa de la quema. [2](Tratado3_2#fn94) Y en los suburbios, «cuando el fuego haya encendido suficientemente la mayor parte». El rabino Judah dice: «de las brasas, por pequeñas que sean» (encendidas antes del sabbat).
+11\. «Pueden colgar la ofrenda de Pascua [1](../Tratado3_2#fn93) en un horno al anochecer». Y pueden tomar una luz de la pila de leña en la casa de la quema. [2](../Tratado3_2#fn94) Y en los suburbios, «cuando el fuego haya encendido suficientemente la mayor parte». El rabino Judah dice: «de las brasas, por pequeñas que sean» (encendidas antes del sabbat).
 
 
 

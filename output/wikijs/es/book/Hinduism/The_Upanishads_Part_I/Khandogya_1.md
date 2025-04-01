@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <i>KH</i>ÂNDOGYA-UPANISHAD.
 
@@ -62,7 +62,7 @@ Sin embargo, el relato completo de Om es éste:
 
 10\. Ahora bien, parecería deducirse que tanto quien conoce esto (el verdadero significado de la sílaba Om) como quien no lo conoce, realizan el mismo sacrificio [^75]. Pero esto no es así, pues el conocimiento y la ignorancia son diferentes. El sacrificio que un hombre realiza con conocimiento, fe y el Upanishad [^76] es más poderoso. Esta es la explicación completa de la sílaba Om.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A [^77].
 
@@ -95,7 +95,7 @@ Sin embargo, el relato completo de Om es éste:
 14\. Quien conoce esto y medita en la sílaba Om (el udgîtha imperecedero) como el aliento de vida en la boca, obtiene todos sus deseos cantando. Esto en cuanto al udgîtha (Om) meditado en relación con el cuerpo [^84].
 
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -107,7 +107,7 @@ Ahora sigue la meditación sobre el udgîtha con referencia a los dioses. Que el
 
 4\. El habla es <i>Ri</i><i>k</i>, y por lo tanto, cuando un hombre pronuncia un verso <i>Ri</i><i>k</i>, no respira ni hacia arriba ni hacia abajo.
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 <i>Ri</i><i>k</i> es Sâman, y por lo tanto, cuando un hombre pronuncia un verso Sâman, no respira ni hacia arriba ni hacia abajo.
 
@@ -127,7 +127,7 @@ Sâman es udgîtha, y por lo tanto, cuando un hombre canta (el udgîtha, Om), no
 
 11\. Sobre el punto del mundo que va a alabar. Finalmente, tras meditar sobre sí mismo (su nombre, familia, etc.), que cante el himno de alabanza, reflexionando sobre su deseo y evitando errores de pronunciación, etc. Rápidamente [^88] se le cumplirá el deseo por el cual ofreció su himno de alabanza, sí, por el cual ofreció su himno de alabanza [^89].
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
@@ -141,7 +141,7 @@ Sâman es udgîtha, y por lo tanto, cuando un hombre canta (el udgîtha, Om), no
 
 5\. Quien sabiendo esto pronuncia en voz alta (pra<i>n</i>auti) [^91]\- esa sílaba, entra en la misma sílaba (imperecedera), el Svara, el inmortal, libre de temor, y habiendo entrado en él, se vuelve inmortal, como los Devas son inmortales.
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## QUINTO KHAND.
 
@@ -251,7 +251,7 @@ Aquel que sabiendo esto medita en el udgîtha, lo más grande que grande, obtien
 
 4\. «Y así también será su estado en el otro mundo». Quien así conoce el udgîtha y medita en él, su vida en este mundo será más grandiosa que grande, y también su estado en el otro mundo, sí, en el otro mundo.
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## DÉCIMO KHA<i>N</i><i>D</i>A.
 
@@ -289,7 +289,7 @@ Ushasti dijo: «Muy bien; pero que ellos, con mi permiso, interpreten los himnos
 
 El sacrificador asintió.
 
-4\. Entonces el Prastot<i>tri</i> se acercó a él y le dijo: «Señor, me dijiste: “Prastot<i>tri</i>, si tú, sin conocer la deidad que pertenece al prastâva, vas a cantarlo, se te caerá la cabeza”, ¿cuál es entonces esa deidad?»
+4\. Entonces el Prastot<i>tri</i> se acercó a él y le dijo: «Señor, me dijiste: «Prastot<i>tri</i>, si tú, sin conocer la deidad que pertenece al prastâva, vas a cantarlo, se te caerá la cabeza», ¿cuál es entonces esa deidad?»
 
 5\. Dijo: «Aliento (prâ<i>n</i>a). Pues todos estos seres se funden solo en el aliento, y del aliento surgen. Esta es la deidad perteneciente al prastâva. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido».
 
@@ -297,9 +297,9 @@ El sacrificador asintió.
 
 7\. Dijo: «El sol (âditya). Pues todos estos seres alaban al sol cuando está en lo alto. Esta es la deidad perteneciente al udgîtha. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido yo».
 
-8\. Entonces el Pratihart<i>ri</i> se acercó a él y le dijo: «Señor, me dijiste: “Pratihart<i>ri</i>, si vas a cantarlo sin conocer la deidad del pratihâra, te decapitarás”. ¿Cuál es entonces esa deidad?»
+8\. Entonces el Pratihart<i>ri</i> se acercó a él y le dijo: «Señor, me dijiste: «Pratihart<i>ri</i>, si vas a cantarlo sin conocer la deidad del pratihâra, te decapitarás». ¿Cuál es entonces esa deidad?»
 
-9\. Dijo: «Comida (anna). Porque todos estos seres <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> viven cuando participan de la comida. Esta es la deidad que pertenece al pratihâra. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido [1](Khandogya_1#fn113)».
+9\. Dijo: «Comida (anna). Porque todos estos seres <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> viven cuando participan de la comida. Esta es la deidad que pertenece al pratihâra. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido [1](../Khandogya_1#fn113)».
 
 ## DUODÉCIMO KHAND.
 
@@ -313,7 +313,7 @@ El sacrificador asintió.
 
 5\. '¡Om, comamos! ¡Om, bebamos! ¡Om, que el divino Varuna, Pragâpati, Savitri [^115] nos traiga comida! ¡Señor de la comida, trae la comida, tráela, Om!'
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 ## DECIMOTERCER KHAN D [^116].
 
@@ -396,7 +396,7 @@ El sacrificador asintió.
   "El quinto punto, es decir, _sol_: y _sol_ es lo mismo que _grian_ (sol); y eso es lo mismo que la justicia; porque la justicia y Cristo no son diferentes; es decir, Oh Cristo, dijo Moisés, líbranos.
   "El sexto punto, es decir, <i>la</i>, es lo mismo que _lav_; y esto es lo mismo que _indail_ (lavar); es decir, Oh Dios, dijo Moisés, lava nuestros pecados de nosotros.
   “Y al cantar aquel himno, Faraón y su ejército se ahogaron.
-  “Entiende, oh hombre, que en cualquier lugar en que se cante esta laud, es decir, este canto, el diablo queda atado por él, y su poder es extirpado de allí, y se invoca el poder de Dios”.
+  «Entiende, oh hombre, que en cualquier lugar en que se cante esta laud, es decir, este canto, el diablo queda atado por él, y su poder es extirpado de allí, y se invoca el poder de Dios».
   'Se nos ha enseñado que los nombres de las primeras seis notas de la gama fueron sugeridos por las sílabas iniciales de los primeros seis hemistiquios en una de las estrofas de un himno a San Juan:
   Para que puedan relajarse
   Resonar con las fibras

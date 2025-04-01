@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ## DE LOS SANTÍSIMOS ESTIGMAS DE SAN FRANCISCO Y DE SUS CONSIDERACIONES
 
@@ -57,7 +57,7 @@ _La tercera consideración se referirá a la visión seráfica y a la impresión
 
 _La cuarta consideración será cómo San Francisco descendió del monte Alvernia, después de haber_
 
-<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 _recibió los sagrados estigmas y regresó a Santa Maria degli Angeli._
 

@@ -32,10 +32,10 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p95">[<sup><small>pág. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 
-325\. P. ¿Tiene el budismo derecho a ser considerado una religión científica, o puede clasificarse como una religión “revelada”?
+325\. P. ¿Tiene el budismo derecho a ser considerado una religión científica, o puede clasificarse como una religión «revelada»?
 
 A. Enfáticamente, no es una religión revelada. Buda no la predicó ni se entiende así. Al contrario, la presentó como la declaración de verdades eternas, que sus predecesores habían enseñado como él.
 
@@ -49,7 +49,7 @@ A. El Buda enseñó que dos cosas carecen de causa, a saber, el Akasha y el Nirv
 
 328\. P. ¿Se opone el budismo a la educación y al estudio de la ciencia?
 
-A. Todo lo contrario: en el _Sigâlowâda Sutta_, en un discurso predicado por el Buda, Él especificó como uno de los deberes de un maestro que debía dar a sus alumnos “instrucción en la ciencia y el saber”. Las enseñanzas superiores del Buda son para los iluminados, los sabios y los reflexivos.
+A. Todo lo contrario: en el _Sigâlowâda Sutta_, en un discurso predicado por el Buda, Él especificó como uno de los deberes de un maestro que debía dar a sus alumnos «instrucción en la ciencia y el saber». Las enseñanzas superiores del Buda son para los iluminados, los sabios y los reflexivos.
 
 329\. P. ¿Puede usted demostrar algún respaldo adicional del budismo por parte de la ciencia?
 
@@ -57,7 +57,7 @@ A. La doctrina del Buda enseña que hubo muchos progenitores de la raza humana; 
 
 330\. P. ¿Alguna otra?
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 A. El budismo apoya la enseñanza de la indestructibilidad de la fuerza.
 
@@ -75,7 +75,7 @@ A. Es a causa de los respectivos Karmas de los hijos y de los padres; cada uno p
 
 334\. P. ¿Se dice algo acerca de que el cuerpo del Buda emita una luz brillante?
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 A. Sí, este fue un resplandor divino enviado desde adentro por el poder de su santidad.
 
@@ -137,7 +137,7 @@ A. Sí, en todas las pinturas de artistas cristianos, esta luz se representa bri
 
 349\. P. ¿Qué incidente histórico respalda la teoría moderna de la sugestión hipnótica?
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 A. El de Chullapanthaka, como se relata en el Comentario Pâlî sobre el Dhammapada, etc.
 
@@ -157,7 +157,7 @@ A. Regresar al vihâra y, si ocurría lo mismo, tomar del brazo a la primera fig
 
 A. Manomaya Iddhî.
 
-<span id="p102">[<sup><small>pág. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 354\. P. ¿Eran materiales las copias ilusorias de la persona del Arhat? ¿Estaban compuestas de sustancia y el mensajero pudo haberlas sentido y manipulado?
 
@@ -193,11 +193,11 @@ A. Los científicos modernos enseñan que cada generación humana hereda las con
 
 362\. P. ¿Qué dice el Vâsettha Sutta acerca de la causalidad en la Naturaleza?
 
-A. Dice: “El mundo existe por causa; todas las cosas existen por causa; todos los seres están ligados por una causa”.
+A. Dice: «El mundo existe por causa; todas las cosas existen por causa; todos los seres están ligados por una causa».
 
 363\. P. ¿Enseña el budismo la inmutabilidad del universo visible: nuestra tierra, el sol, la luna,
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 _¿las estrellas, los reinos mineral, vegetal, animal y humano?_
 
@@ -217,7 +217,7 @@ R. El nombre pali es Iddhi-vidhanânâ.
 
 367\. P. ¿Cuántos tipos hay?
 
-A. Dos: “Bahira”, es decir, aquel en el que el poder que produce los fenómenos puede obtenerse temporalmente mediante prácticas ascéticas y también recurriendo a drogas, la recitación de mantras (amuletos) u otras ayudas externas; y “Sasaniks”, aquel en el que el poder en cuestión se adquiere mediante el autodesarrollo interior, y abarca todos los fenómenos de Laukika Iddhî y más allá de ellos.
+A. Dos: «Bahira», es decir, aquel en el que el poder que produce los fenómenos puede obtenerse temporalmente mediante prácticas ascéticas y también recurriendo a drogas, la recitación de mantras (amuletos) u otras ayudas externas; y «Sasaniks», aquel en el que el poder en cuestión se adquiere mediante el autodesarrollo interior, y abarca todos los fenómenos de Laukika Iddhî y más allá de ellos.
 
 368\. P. ¿Qué clase de hombres disfrutan de estos poderes?
 
@@ -235,7 +235,7 @@ A. Sí, en perfección.
 
 A. Sí, algunos, pero no todos por igual; la capacidad para adquirir estos poderes ocultos varía según el individuo.
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 372\. P. _Da ejemplos_.
 
@@ -277,7 +277,7 @@ A. _Iddhî vidha_. Quien posee esto puede, manipulando las fuerzas de la Natural
 
 R. No; los desaconsejó expresamente por tender a confundir a quienes no conocían los principios involucrados. Además, incitan a sus poseedores a mostrarlos simplemente para satisfacer la curiosidad ociosa y su propia vanidad. Además, fenómenos similares pueden ser mostrados por magos y hechiceros versados ​​en el Laukika, o la forma más baja de la ciencia _Iddhî_. Todas las falsas pretensiones de logro sobrenatural por parte de los monjes se encuentran entre los pecados imperdonables (_Tevijga Sutta_).
 
-381\. P. _Usted habló de un 'deva' que se le apareció al Príncipe [Siddhârtha](errata.htm#5) bajo diversas formas; ¿qué creen los budistas respecto a las razas de seres elementales invisibles que tienen relaciones con la humanidad?_
+381\. P. _Usted habló de un 'deva' que se le apareció al Príncipe [Siddhârtha](../errata.htm#5) bajo diversas formas; ¿qué creen los budistas respecto a las razas de seres elementales invisibles que tienen relaciones con la humanidad?_
 
 A. Creen que existen seres que habitan mundos o esferas propios. La doctrina budista sostiene que, mediante el autodesarrollo interior y la superación de su naturaleza inferior, el Arhat se vuelve <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> superior incluso al más formidable de los devas, y puede someter y controlar a las clases inferiores.
 

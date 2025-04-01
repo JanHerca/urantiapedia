@@ -48,7 +48,7 @@ Los peligros del mundo:
 
 Hay continuos chaparrones, borrascas y torrentes: cientos de miles de olas se suceden unas tras otras.
 
-<span id="p380">[<sup><small>pág. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Dirígete al Verdadero Gurú y no tendrás miedo de que tu barca naufrague.
 
@@ -79,7 +79,7 @@ Los verdaderamente santos son pocos:
 
 Los santos son pocos, no muchos; el engaño y las disputas prevalecen en el mundo.[^2]
 
-<span id="p381">[<sup><small>pág. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Lo siguiente se refiere a la consagración de las viudas:
 
@@ -113,7 +113,7 @@ Una definición de un Khatri:
 Y quien emplea su cuerpo en la caridad.[^1]
 El Khatri que inspecciona su tierra antes de sembrar sus regalos,
 
-<span id="p382">[<sup><small>pág. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Será aceptable en el tribunal de _Dios_.
 El Khatri que practica la codicia, la avaricia y la falsedad,
@@ -142,7 +142,7 @@ Un hombre orgulloso de su dinero le dirigió un lenguaje inapropiado al Gurú. C
 
 No le imputéis culpa al Rai;[^2] su intelecto lo está abandonando en su vejez.
 
-<span id="p383">[<sup><small>pág. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 El ciego habló mucho y cayó en el pozo.
 Todo lo que el Perfecto ha hecho es perfecto; no hay en ello deficiencia ni exceso.

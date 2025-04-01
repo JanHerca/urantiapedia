@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 
 Siddhartha ya no encontraba paz. Caminaba por los pasillos de su palacio como un león herido por un dardo envenenado. Era infeliz.
@@ -45,7 +45,7 @@ Y al reflexionar sobre la miseria de la humanidad, perdió la vana ilusión de f
 
 De repente vio que se acercaba un hombre que parecía un mendigo y que sólo él podía ver.
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 «Dime, ¿quién eres?», le preguntó el príncipe.
 
@@ -61,7 +61,7 @@ Fue ante el rey, se inclinó y le dijo:
 
 Rey, concede la petición que te hago. No te opongas, pues estoy decidido. Abandonaré el palacio, emprenderé el camino de la liberación. Debemos separarnos, padre.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 El rey se conmovió profundamente. Con lágrimas en la voz, le dijo a su hijo:
 
@@ -69,15 +69,15 @@ Hijo, abandona esa idea. Eres demasiado joven para considerar una vocación reli
 
 El príncipe respondió:
 
-“Prométeme cuatro cosas, oh padre, y no abandonaré tu casa para ir al bosque”.
+«Prométeme cuatro cosas, oh padre, y no abandonaré tu casa para ir al bosque».
 
 ¿Qué son?, preguntó el rey.
 
-“Prométeme que mi vida no terminará en muerte, que la enfermedad no perjudicará mi salud, que la edad no seguirá a mi juventud, que la desgracia no destruirá mi prosperidad”.
+«Prométeme que mi vida no terminará en muerte, que la enfermedad no perjudicará mi salud, que la edad no seguirá a mi juventud, que la desgracia no destruirá mi prosperidad».
 
 —Pides demasiado —respondió el rey—. Abandona esa idea. No es bueno actuar por un impulso insensato.
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Solemne como la montaña Meru, el príncipe dijo a su padre:
 
@@ -87,7 +87,7 @@ Con lágrimas en los ojos, regresó al palacio. En el gran salón, los compañer
 
 Se quedaron dormidos. El príncipe los miró.
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Había desaparecido su estudiada gracia, el brillo de sus ojos. Tenían el cabello despeinado, la boca abierta, el pecho aplastado, y los brazos y piernas estirados rígidamente o torpemente retorcidos. Y el príncipe exclamó:
 

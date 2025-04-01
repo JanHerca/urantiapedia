@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p152">[<sup><small>pág. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ## I
 
@@ -96,7 +96,7 @@ No sin propósito de dar la vuelta
 En un remolino de polvo sin propósito,
 Esfuerzo sin sentido y en vano.
 
-De cualquier modo, uno empieza a preguntarse con curiosidad cuál es la base intelectual de ese ultimátum: “Los misterios deben dar lugar a los hechos”.
+De cualquier modo, uno empieza a preguntarse con curiosidad cuál es la base intelectual de ese ultimátum: «Los misterios deben dar lugar a los hechos».
 
 ## IV
 

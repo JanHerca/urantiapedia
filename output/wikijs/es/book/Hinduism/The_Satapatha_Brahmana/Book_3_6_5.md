@@ -61,7 +61,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v6_5_1_1212"><sup><small>6:5:1:1212.</small></sup></span> Con tres fórmulas amasa la arcilla; triple es Agni: tan grande como Agni, tan grande como su medida, con tanto lo amasa. Con dos versos mezcla, lo que da cinco; de cinco capas se compone el altar del fuego (Agni); cinco estaciones son un año, y el año es Agni: tan grande como Agni, tan grande como su medida, tan grande se vuelve. Con tres fórmulas vierte agua sobre ella, lo que da ocho; de ocho sílabas se compone la métrica Gâyatrî, y Agni es Gâyatra: tan grande como Agni, tan grande como su medida, tan grande se vuelve esto. Y, además, como una de ocho sílabas [^464] esta (tierra) fue creada en el principio: así tan grande como esta (tierra) fue creada en el principio, así de grande hace él a este (incendio que representa la tierra).
 
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 <span id="v6_5_2"><sup><small>6:5:2</small></sup></span>
 
@@ -201,13 +201,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^462]: 230:1 Todo el triplete dice así: 'Sois refrescantes, oh aguas; llevadnos a la fortaleza, para ver gran alegría. Sea cual sea vuestra savia más benigna, compartámosla, como madres amorosas. Por vosotras iremos gustosamente a aquel a cuya morada nos instáis, oh aguas, y nos vivificáis.'
 
-[^463]: 230:2 Véase [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^463]: 230:2 Véase [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
-[^464]: 230:3 [VI, 1, 1, 13](Book_3_6_1#v6_1_1_13).
+[^464]: 230:3 [VI, 1, 1, 13](../Book_3_6_1#v6_1_1_13).
 
 [^465]: 230:4 Es decir, el pelo del ganado es la característica más obvia de su apariencia exterior.
 
-[^466]: 232:1 Véase [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6)\-[7](Book_3_6_1#v6_1_2_7).
+[^466]: 232:1 Véase [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6)\-[7](../Book_3_6_1#v6_1_2_7).
 
 [^467]: 235:1 Vish<i>n</i>u es idéntico a Agni, ya que ambos son el sacrificio.
 
@@ -217,19 +217,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^470]: 236:2 Es decir, por medio de las montañas, según Sâya<i>n</i>a.
 
-[^471]: 238:1 [VI, 6, 4, 8](Book_3_6_6#v6_6_4_8).
+[^471]: 238:1 [VI, 6, 4, 8](../Book_3_6_6#v6_6_4_8).
 
-[^472]: 239:1 Véase [VI, 1, 1, 14](Book_3_6_1#v6_1_1_14).
+[^472]: 239:1 Véase [VI, 1, 1, 14](../Book_3_6_1#v6_1_1_14).
 
-[^473]: 239:2 A saber, los del cielo, el aire y la tierra. Véase [VI, 1, 2, 10](Book_3_6_1#v6_1_2_10).
+[^473]: 239:2 A saber, los del cielo, el aire y la tierra. Véase [VI, 1, 2, 10](../Book_3_6_1#v6_1_2_10).
 
-[^474]: 240:1 Es decir, en caso de que el brasero se rompiera. Véase [VI, 6, 4, 8](Book_3_6_6#v6_6_4_8) ss.
+[^474]: 240:1 Es decir, en caso de que el brasero se rompiera. Véase [VI, 6, 4, 8](../Book_3_6_6#v6_6_4_8) ss.
 
 [^475]: 241:1 ? O bien, divididos en grupos de siete cada uno, como, por ejemplo, la Mantis (véase II, 5, 1, 13).
 
 [^476]: 241:2 Comp. el germen. 'seine sieben Sachen (o Siebensachen) packen', empacar las trampas.
 
-[^477]: 241:3 Se podría tomar 'athainam asyâ<i>m</i> khanati' como 'ahora cava para él (Agni) en la tierra', o 'lo cava en la tierra'. Cf. [VI, 4, 1, 1](Book_3_6_4#v6_4_1_1), 'athainam ata<i>h</i> khanati'. Sâya<i>n</i>a, sin embargo (de acuerdo con la fórmula en el [párrafo 3](Book_3_6_5#v6_5_4_3)), suministra 'ava<i>t</i>am', 'un agujero'.
+[^477]: 241:3 Se podría tomar 'athainam asyâ<i>m</i> khanati' como 'ahora cava para él (Agni) en la tierra', o 'lo cava en la tierra'. Cf. [VI, 4, 1, 1](../Book_3_6_4#v6_4_1_1), 'athainam ata<i>h</i> khanati'. Sâya<i>n</i>a, sin embargo (de acuerdo con la fórmula en el [párrafo 3](../Book_3_6_5#v6_5_4_3)), suministra 'ava<i>t</i>am', 'un agujero'.
 
 [^478]: 242:1 Sarvâbhyo digbhya enam avat am khanati tam <i>k</i>a sarvâsu dikshu nâshtrâ na him</i>santi, Sây.
 

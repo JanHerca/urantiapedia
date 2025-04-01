@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 1\. Los indicios de lepra en las casas son diez. "¿Estuvo opaca la primera semana y desapareció?" "Hay que rasparla y queda limpia". "¿Estuvo opaca la segunda semana y desapareció?" "Hay que rasparla, pero su dueño necesita las aves". [^608] "¿Se extendió la primera semana?" "La saca, la raspa, la venda y le da otra semana". "¿Si regresa?" "Hay que descomponerla". "¿No regresó?" "Necesita las aves". "¿Se estancó la primera semana y se extendió la segunda?" "La saca, la raspa, la venda y le da otra semana". "¿Regresa?" "Hay que descomponerla". "¿No regresó?" "Necesita las aves". [^609] "¿Se estancó una semana y también la otra?" "Hay que sacarla, rasparla, vendarla y darle otra semana". «¿Regresa?» «Hay que descomponerlo.» «¿No regresó?» «Necesita a las aves.» [^609] «¿Antes de ser purificado por las aves, la lepra reapareció?» «Hay que descomponerlo.» «¿Y si después de ser purificado por las aves, la lepra reapareció?» «Hay que inspeccionarlo como al principio.»
 

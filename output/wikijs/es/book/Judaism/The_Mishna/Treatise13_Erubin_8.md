@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Si un patio tiene menos de cuatro metros cuadrados, no es lícito verter agua en él en sábado, a menos que se construya una alcantarilla con capacidad para dos saah por debajo de la salida, ya sea fuera o dentro del patio. Sin embargo, si la alcantarilla está fuera, debe estar abovedada; mientras que, en el interior, no es necesario.
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 § 10. R. Eleazar ben Jacob dice: «Es lícito verter agua en Shabat en una perrera abovedada de cuatro amoth, en el reshuth público». Pero los sabios sostienen que, aunque el patio o el techo tengan cien amoth de largo, no es lícito verter agua directamente por la perrera; pero se puede verter agua sobre el techo, de modo que caiga en la perrera. El vestíbulo de entrada puede añadirse al patio al calcular los cuatro amoth mencionados en la Mishná anterior. [^236]
 

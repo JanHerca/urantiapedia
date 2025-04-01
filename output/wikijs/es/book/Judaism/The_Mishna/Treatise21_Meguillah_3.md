@@ -86,7 +86,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^596]: 187:6 De las Aftorot; que, en otras ocasiones, deben conectarse con el tema de la primera sección leída, pero durante las semanas mencionadas, el tema de las Aftorah es el de las últimas secciones, o secciones adicionales.
 
-[^597]: 187:7 Lo cual _antiguamente_ podía suceder en el día de reposo: compárese con nuestra Nota 5, [p. 181](Tratado13_Erubin_Intro#p181).
+[^597]: 187:7 Lo cual _antiguamente_ podía suceder en el día de reposo: compárese con nuestra Nota 5, [p. 181](../Tratado13_Erubin_Intro#p181).
 
 [^598]: 187:8 Vide Tratado Taanith.
 

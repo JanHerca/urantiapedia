@@ -44,7 +44,7 @@ Posteriormente, Mardana recibió la orden de ir a otra aldea. Allí también rec
 
 Se dice que el Gurú y Mardana visitaron a un famoso ladrón llamado Shaikh Sajjan. Con extrema imparcialidad, había construido un templo para sus huéspedes hindúes y una mezquita para sus huéspedes musulmanes; y, por lo demás, aparentemente les proporcionaba todo lo necesario para su comodidad. Sin embargo, su hospitalidad era tan falsa como la del famoso ladrón griego Procusto. Al caer la noche, Sajjan despidió a sus huéspedes para que se durmieran. Luego los arrojó a un pozo donde perecieron. A la mañana siguiente, tomó un bastón de peregrino y un rosario, y extendió una alfombra para rezar con el auténtico espíritu de un antiguo fariseo. Shaikh Sajjan, al ver al Gurú, interpretó la expresión de satisfacción espiritual en su rostro como una conciencia de riqueza mundana, y esperaba grandes beneficios de tal fortuna. Como de costumbre, invitó a sus huéspedes a dormir. El Gurú pidió permiso para recitar un himno a Dios y, al obtenerlo, repitió lo siguiente:
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 El bronce es brillante y reluciente, pero al frotarlo aparece su negrura oscura.
 Que no se puede quitar ni lavando cien veces.
@@ -68,7 +68,7 @@ El Gurú, al enterarse de una feria religiosa en Kurkhetar, cerca de Thanesar, e
 El hombre es concebido primeramente en carne, habita en carne.
 Cuando se despierta, obtiene una boca de carne; sus huesos, su piel y su cuerpo están hechos de carne.
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Cuando es sacado de la matriz, toma pechos de carne.
 Su boca es de carne, su lengua es de carne, su aliento es de carne.
@@ -93,7 +93,7 @@ Un feto es concebido de carne; nosotros somos vasos de carne.
 Tú consideras mala la carne que viene de afuera, oh mi señor, y buena la carne de tu propia casa.
 Todos los animales proceden de la carne, y el alma tiene su morada en la carne.
 
-<span id="p49">[<sup><small>pág. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Aquellos cuyo gurú es ciego, comen cosas que no deben comerse y se abstienen de lo que debe comerse.
 En carne somos concebidos, de carne nacemos; somos vasos de carne.
@@ -106,7 +106,7 @@ Veamos qué erróneo sería que los que dan vayan al infierno y los que reciben 
 No te entiendes a ti mismo, pero instruyes a otros; ¡oh Pandit, eres muy sabio![^1]
 Oh Pandit, tú no sabes de qué carne ha surgido.
 El maíz, la caña de azúcar y el algodón se producen a partir del agua;[^2] se considera que del agua surgieron los tres mundos.
-El agua dice: “Soy bueno en muchos sentidos”; muchas son las modificaciones del agua.
+El agua dice: «Soy bueno en muchos sentidos»; muchas son las modificaciones del agua.
 Si abandonas el gusto por tales cosas, serás sobrehumano, dice Nanak deliberadamente.[^3]
 
 El Gurú logró muchos conversos en Kurkhetar. Al despedirse, se dirigió a sus sijs de esta manera: «Vivan en armonía, pronuncien el nombre del Creador, y si alguien los saluda con él, devuélvanle el saludo añadiendo «verdadero», y digan «Sat Kartar», el Verdadero Creador. Hay cuatro maneras por las cuales, con la repetición del nombre de Dios, los hombres pueden alcanzarlo. La primera es la santa compañía, la segunda, la verdad, la tercera, la satisfacción, y la cuarta, la moderación de los sentidos. Por cualquiera de estas <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> puertas que un hombre entre, ya sea ermitaño o cabeza de familia, encontrará a Dios».
@@ -141,7 +141,7 @@ Son pocos los que se afeitan la cabeza siguiendo las instrucciones de su gurú.
 Nanak habiendo abandonado todos los placeres, afectos y egoísmo,
 Se ha puesto un sombrero de esta manera.[^2]
 
-<span id="p54">[<sup><small>pág. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 El jeque le preguntó entonces al gurú a qué secta religiosa pertenecía. El gurú respondió:
 
@@ -169,7 +169,7 @@ Y beber de la cascada[^7] del cerebro.
 Descarto mi baja inteligencia por la elevada sabiduría de mi Gurú.
 De esta manera Nanak usa un taparrabos.
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Entonces el Shaikh volvió a preguntar a qué secta pertenecían las zapatillas del Gurú. El Gurú respondió:
 
@@ -195,7 +195,7 @@ Quienes obedecen el llamado de Dios y no hacen caso a ningún otro;
 Quienes están sentados en actitud contemplativa en el firmamento[^6] tocan música espontánea—
 Dice Nanak que ni los Veds ni el Corán conocen las alabanzas de esos hombres santos.
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 El jeque finalmente dijo: «¡Bien hecho! ¿Para qué seguir interrogando a quien da testimonio de Dios? Con solo contemplarlo basta». Luego estrechó la mano del Gurú, le besó los pies y se marchó.
 
@@ -225,7 +225,7 @@ Los adoradores a quienes Dios concede su bondad le adoran;
 Agradable es la noche para los que le anhelan en su corazón.
 Por la instrucción del Gurú a sus discípulos se obtiene este conocimiento,
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Que el Misericordioso salva a aquellos a quienes mira con favor.
 Prensas de aceite, ruecas, molinos manuales, tornos de alfarero,

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>pág. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 DECIMOCUARTA CONFERENCIA, LLAMADA NIRGRANTHA.
 
@@ -134,6 +134,6 @@ Así lo digo.
 
 [^965]: 327:3 Vibha<i>g</i>yavâda. La expresión del texto se refiere a los siete modos de aserción o saptabhaṅgînaya. Véase Bhandarkar, Informe, 1883-84, pág. 95.
 
-[^966]: 327:4 Véase arriba, [p. 304](Sutrakritanga_1_9#p304), nota [4](Sutrakritanga_1_9#fn900). Aquí se alude al primer y cuarto tipo de discurso.
+[^966]: 327:4 Véase arriba, [p. 304](../Sutrakritanga_1_9#p304), nota [4](../Sutrakritanga_1_9#fn900). Aquí se alude al primer y cuarto tipo de discurso.
 
 [^967]: 328:1 Samâhi = samâdhi.

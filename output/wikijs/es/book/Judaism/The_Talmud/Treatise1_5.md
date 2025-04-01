@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>pág. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 1\. Los hombres no deben ponerse de pie para orar, excepto con reverencia. Los piadosos de la antigüedad solían detenerse una hora antes de comenzar a orar, para poder dirigir sus corazones a Dios. Aunque el rey salude, no se debe responder; y aunque una serpiente se enrosque en su talón, no se debe detener.
 

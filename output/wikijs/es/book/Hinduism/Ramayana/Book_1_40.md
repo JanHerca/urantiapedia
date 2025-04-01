@@ -78,7 +78,7 @@ Midió con un paso poderoso,
 Cruzado con el siguiente firmamento,
 Y con el tercero pasó por el cielo.
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Así fue arrojado el rey de los demonios.
 Por Vishnu al mundo inferior,
@@ -199,7 +199,7 @@ Máricha en el pecho.
 En lo profundo de su carne yacía el arma.
 Alado por el hechizo místico,
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Y, arrojado a cien leguas de distancia,
 En la inundación del océano cayó.
@@ -318,7 +318,7 @@ En reverencia a la multitud ermitaña,
 Y Ráma, habiéndose sentado,
 Ante el santo de puro renombre,
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Con humildes palmas juntas colocadas
 Su ansiosa súplica hizo:
@@ -428,7 +428,7 @@ Cada forma majestuosa se inclinará y se doblará.
 Doblado por la ira del Dios del Viento
 Buscaban el palacio de su padre,
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Cayó al suelo entre suspiros,
 Mientras las lágrimas y la vergüenza estaban en sus ojos.
@@ -546,7 +546,7 @@ Sus hijas; y, abrazándolas a cada una,
 Ella miraba con cariño sus formas,
 Y el real Kus'anábha alabó.
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 
 
@@ -659,10 +659,10 @@ Y así nuevamente habló en cuestión:
 Y muchas islas muestran su seno:
 ¿Qué camino, oh Santo, nos llevará?
 ¿Y desembarcarnos en la otra orilla?
-El santo respondió: “El camino que yo elija”.
+El santo respondió: «El camino que yo elija».
 Esto es lo que usan los ermitaños piadosos.
 
-<span id="p49">[<sup><small>pág. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Durante muchas leguas viajaron
 Hasta que, cuando brilló el sol del mediodía,
@@ -775,7 +775,7 @@ Y así como tú dices, así será.
 
 [^180]
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Con sus dulces palabras el santo respondió:
 'Vosotras mismas, oh Reinas, decidid la elección.
@@ -785,7 +785,7 @@ Uno solo mantendrá la raza y el nombre,
 El anfitrión será famoso, fuerte y audaz.
 ¿Cuál tendrá cuál? Entonces Kes'inî
 La madre de uno de los herederos sería.
-Sumati, hermana del rey [1](Libro_1_40#fn181)
+Sumati, hermana del rey [1](../Libro_1_40#fn181)
 De todos los pájaros que surcan el cielo,
 A ese ilustre brahmán se le demandó
 Para que pudiera soportar la multitud
@@ -798,7 +798,7 @@ Pidió su propio asiento imperial.
 Pasó el tiempo. La consorte mayor desnuda
 Un hijo llamado Asamanj, el heredero.
 Entonces Sumati, la más joven, dio
-Nacimiento de una calabaza, [2](Libro_1_40#fn182) Oh héroe valiente,
+Nacimiento de una calabaza, [2](../Libro_1_40#fn182) Oh héroe valiente,
 Cuya corteza, al romperse y partirse en dos,
 Dio a ver sesenta mil bebés.
 Todo esto lo colocaron con cuidado las enfermeras.
@@ -878,7 +878,7 @@ Todos santificados con oración y conjuro.
 Si en lo profundo de la tierra se esconde,
 O acechar bajo la marea del océano,
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Seguid, queridos hijos, la pista del ladrón;
 Mátalo y trae de vuelta el cargador.
@@ -910,7 +910,7 @@ Cavaron, con la ira de que nada pudiera permanecer,
 A través de sesenta mil leguas su camino,
 Hendiendo la tierra con una fuerza incomparable
 Llegaron hasta el mismo infierno.
-Así cavaron y buscaron Jambudvip [1](Libro_1_50#fn184)
+Así cavaron y buscaron Jambudvip [1](../Libro_1_50#fn184)
 Con todas sus colinas y montañas escarpadas.
 Entonces un gran temor comenzó a sacudirme.
 El corazón de Dios, bardo, demonio y serpiente,

@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Una de las atracciones infalibles de los escenarios de Tokio es la representación, a cargo del famoso Kikugorô y su compañía, del Botan-Dôrô, o "Linterna de Peonía". Esta obra singular, cuyas escenas transcurren a mediados del siglo pasado, es la dramatización de una novela romántica del novelista Enchô, escrita en japonés coloquial y con un toque local puramente japonés, aunque inspirada en un cuento chino. Fui a ver la obra; y Kikugorô me familiarizó con una nueva variedad del placer del miedo.
 
 "¿Por qué no contarles a los lectores ingleses la parte fantasmal de la historia?" —preguntó un amigo que a veces me guía por los laberintos de la filosofía oriental—. Serviría para explicar algunas ideas populares sobre lo sobrenatural que los occidentales conocen muy poco. Y podría ayudarte con la traducción.
 
-<span id="p74">[<sup><small>pág. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Acepté con gusto la sugerencia y redactamos el siguiente resumen de la parte más extraordinaria del romance de Enchô. En algunos puntos, nos pareció necesario condensar la narrativa original; intentamos ceñirnos al texto solo en los pasajes conversacionales, algunos de los cuales poseen un particular interés psicológico.
 
@@ -70,7 +70,7 @@ He estado enferma desde principios de primavera; incluso ahora no puedo comer na
 
 Shijo respondió con gravedad:
 
-“Lamento mucho informarle que la joven ha fallecido”.
+«Lamento mucho informarle que la joven ha fallecido».
 
 —¡Muerta! —repitió Shinzaburô, palideciendo—. ¿Dijiste que estaba muerta?
 
@@ -80,9 +80,9 @@ Mi gran error fue presentarte; pues parece que se enamoró de ti al instante. Me
 
 1. Quizás esta conversación le parezca extraña al lector occidental, pero es realista. Toda la escena es típicamente japonesa.
 
-2\. La invocación _Namu Amida Butsu!_ (“¡Salve al Buda Amitâbha!”), repetida como una oración por los muertos.\]
+2\. La invocación _Namu Amida Butsu!_ («¡Salve al Buda Amitâbha!»), repetida como una oración por los muertos.\]
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Y el anciano se retiró apresuradamente, ansioso por evitar más conversaciones sobre el doloroso acontecimiento del que se sentía inconscientemente responsable.
 
@@ -92,7 +92,7 @@ Shinzaburô permaneció largo tiempo aturdido por la noticia de la muerte de O-T
 
 Nada alteraba la monotonía de su soledad antes de la llegada del Bon, el gran Festival de los Muertos, que comienza el día trece del séptimo mes. Entonces decoró su casa y preparó todo para el festival: colgó las linternas que guían a los espíritus que regresan y colocó la comida de los fantasmas en el _sbôryôdana_, o Estante de las Almas.
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Y en la primera tarde del Bon, después de la puesta del sol, encendió una pequeña lámpara delante de la tableta de O-Tsuyu y encendió las linternas.
 
@@ -100,9 +100,9 @@ La noche era clara, con una gran luna, sin viento y muy cálida. Shinzaburô bus
 
 Pero de repente, este silencio fue interrumpido por el sonido de geta\[1\] de mujeres que se acercaban —kara-kon, kara-kon— y el sonido se acercaba cada vez más, rápidamente, hasta que llegó al seto vivo que rodeaba el jardín. Entonces Shinzaburô, sintiendo curiosidad, se puso de puntillas para mirar por encima del seto; y vio pasar a dos mujeres. Una, que llevaba una hermosa linterna decorada
 
-\[1. _Komageta_ en el original. La geta es una sandalia o zueco de madera, del que existen muchas variedades, algunas decididamente elegantes. La _komageta_, o “pony-geta”, se llama así por el eco sonoro, similar al de los cascos, que produce al tocar el suelo duro.\]
+\[1. _Komageta_ en el original. La geta es una sandalia o zueco de madera, del que existen muchas variedades, algunas decididamente elegantes. La _komageta_, o «pony-geta», se llama así por el eco sonoro, similar al de los cascos, que produce al tocar el suelo duro.\]
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 ![La linterna de peonía](/image/book/Shintoism/In_Ghostly_Japan/08000.jpg)
 
@@ -122,7 +122,7 @@ Shinzaburô llamó simultáneamente a la criada:
 
 1. El tipo de linterna a la que se hace referencia ya no se fabrica; y su forma se comprende mejor con solo observar la imagen que acompaña a esta historia. Era totalmente diferente de la moderna linterna doméstica de mano, pintada con el escudo del dueño; pero no del todo diferente de algunos tipos de linternas que aún se fabricaban para la Fiesta de los Muertos, llamadas _Bon-dôrô_. Las flores que la adornaban no estaban pintadas: eran flores artificiales de crepé de seda, adheridas a la parte superior de la linterna.
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 —¡Qué extraordinario! —exclamó Shinzaburô—. ¡Me dijeron que ambos estaban muertos!
 
@@ -138,17 +138,17 @@ Confío en que me perdonen por la descortesía que me costó no haberlos visitad
 
 —¡Oh, qué extraordinario! —exclamó Shinzaburô—. ¿Será cierto? ¿O es solo un sueño? ¡Aquí yo también he estado recitando constantemente el Nembutsu ante una tablilla con su nombre! ¡Miren! —Y les mostró la tablilla de O-Tsuyu en su lugar sobre el Estante de las Almas.
 
-“Les agradecemos enormemente su amable recuerdo”, respondió O-Yoné sonriendo… <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> “En cuanto a mi señora”, continuó, volviéndose hacia O-Tsuyu, quien había permanecido recatada y silenciosa, medio ocultando su rostro con la manga, “en cuanto a mi señora, ¡dice que no le importaría ser repudiada por su padre durante siete existencias, o incluso que la matara, por su bien!… ¡Vamos! ¿No le permitirán quedarse aquí esta noche?”
+«Les agradecemos enormemente su amable recuerdo», respondió O-Yoné sonriendo… <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> «En cuanto a mi señora», continuó, volviéndose hacia O-Tsuyu, quien había permanecido recatada y silenciosa, medio ocultando su rostro con la manga, «en cuanto a mi señora, ¡dice que no le importaría ser repudiada por su padre durante siete existencias, o incluso que la matara, por su bien!… ¡Vamos! ¿No le permitirán quedarse aquí esta noche?»
 
 Shinzaburô palideció de alegría. Respondió con voz temblorosa por la emoción:
 
 Quédate, por favor; pero no hables alto, porque hay un tipo problemático viviendo cerca, un _ninsomi_\[2\] llamado Hakuôdô Yusai, que adivina la fortuna con solo mirarles la cara. Tiene tendencia a la curiosidad; y es mejor que no lo sepa.
 
-1. “Por el tiempo de siete existencias”, es decir, por el tiempo de siete vidas sucesivas. En el drama y el romance japoneses, no es raro representar a un padre renegando de su hijo “por el tiempo de siete vidas”. Esta renegación se denomina _shichi-shô madé no mandô_, una desheredación por siete vidas, lo que significa que en seis vidas futuras después de la presente, el hijo o la hija que ha cometido el delito continuará sintiendo el desagrado parental.
+1. «Por el tiempo de siete existencias», es decir, por el tiempo de siete vidas sucesivas. En el drama y el romance japoneses, no es raro representar a un padre renegando de su hijo «por el tiempo de siete vidas». Esta renegación se denomina _shichi-shô madé no mandô_, una desheredación por siete vidas, lo que significa que en seis vidas futuras después de la presente, el hijo o la hija que ha cometido el delito continuará sintiendo el desagrado parental.
 
 2 La profesión aún no se ha extinguido. El _ninsomi_ utiliza una especie de lupa (o espejo de aumento a veces), llamada _tengankyô_ o _ninsomégané_.
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Las dos mujeres pasaron la noche en casa del joven samurái y regresaron a su hogar poco antes del amanecer. Y después de esa noche, volvieron todas las noches durante siete días, con o sin mal tiempo, siempre a la misma hora. Shinzaburô se encariñó cada vez más con la muchacha; y las dos quedaron atadas, una a la otra, por ese vínculo de ilusión más fuerte que el hierro.
 
@@ -158,7 +158,7 @@ Había un hombre llamado Tomozô, que vivía en una pequeña cabaña contigua a 
 
 Una noche, muy tarde, Tomozô oyó la voz de una mujer en el aposento de su amo; esto lo inquietó. Temía que Shinzaburô, siendo tan gentil y cariñoso, pudiera caer en la trampa de algún astuto libertino, en cuyo caso los criados serían los primeros en sufrir. Por lo tanto, decidió vigilar; y a la noche siguiente, de puntillas, fue a la casa de Shinzaburô y miró por una rendija en una de las contraventanas correderas. A la luz de una linterna nocturna dentro del dormitorio, pudo percibir que su amo y una mujer desconocida conversaban bajo el mosquitero. Al principio, no pudo ver a la mujer con claridad. Le daba la espalda; solo observó que era muy delgada y que parecía muy joven, a juzgar por su vestido y peinado. [1] Acercando la oreja a la rendija, pudo oír la conversación con claridad. La mujer dijo:
 
-“Y si mi padre me repudiara, ¿me permitirías ir a vivir contigo?”
+«Y si mi padre me repudiara, ¿me permitirías ir a vivir contigo?»
 
 Shinzaburô respondió:—
 
@@ -166,7 +166,7 @@ Sin duda lo haría; es más, me alegraría tener la oportunidad. Pero no hay raz
 
 \[1. El color y la forma del vestido, así como el estilo del cabello, están regulados por la costumbre japonesa según la edad de la mujer.\]
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Ella respondió suavemente:
 
@@ -182,9 +182,9 @@ Porque el rostro era el rostro de una mujer larga
 
 Hakuôdô Yusai, el _ninsomi_, era un hombre muy anciano; pero en su vida había viajado mucho, y había oído y visto tantas cosas que no era fácil sorprenderse. Sin embargo, la historia del aterrorizado Tomozô lo alarmó y lo asombró a la vez. Había leído en antiguos libros chinos sobre el amor entre vivos y muertos, pero nunca lo había creído posible. Ahora, sin embargo, estaba <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>convencido de que la declaración de Tomozô no era falsa, y de que algo muy extraño realmente estaba sucediendo en la casa de Hagiwara. Si la verdad resultaba ser lo que Tomozô imaginaba, entonces el joven samurái estaba condenado.
 
-“Si la mujer es un fantasma”, dijo Yusai al sirviente asustado, “si la mujer es un fantasma, tu amo morirá pronto, a menos que se haga algo extraordinario para salvarlo. Y si la mujer es un fantasma, las señales de la muerte aparecerán en su rostro. Porque el espíritu de los vivos es yôki, y puro; el espíritu de los muertos es inki, e impuro; uno es positivo, el otro negativo. Aquel cuya esposa es un fantasma no puede vivir. Aunque en su sangre existiera la fuerza de una vida de cien años, esa fuerza debe perecer rápidamente… Aun así, haré todo lo posible por salvar a Hagiwara Sama. Y mientras tanto, Tomozô, no digas nada a nadie, ni siquiera a tu esposa, sobre este asunto. Al amanecer visitaré a tu amo”.
+«Si la mujer es un fantasma», dijo Yusai al sirviente asustado, «si la mujer es un fantasma, tu amo morirá pronto, a menos que se haga algo extraordinario para salvarlo. Y si la mujer es un fantasma, las señales de la muerte aparecerán en su rostro. Porque el espíritu de los vivos es yôki, y puro; el espíritu de los muertos es inki, e impuro; uno es positivo, el otro negativo. Aquel cuya esposa es un fantasma no puede vivir. Aunque en su sangre existiera la fuerza de una vida de cien años, esa fuerza debe perecer rápidamente… Aun así, haré todo lo posible por salvar a Hagiwara Sama. Y mientras tanto, Tomozô, no digas nada a nadie, ni siquiera a tu esposa, sobre este asunto. Al amanecer visitaré a tu amo».
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 ## VI
 
@@ -198,7 +198,7 @@ Shinzaburô, sorprendido aunque no convencido, decidió tras un momento de refle
 
 De repente, dos nuevas tumbas, una junto a la otra, en la parte trasera del templo, atrajeron su atención. Una era una tumba común, como las que podrían haber sido erigidas para una persona de rango humilde; la otra era un monumento grande y hermoso; y delante de él colgaba una hermosa linterna de peonías, que probablemente había sido dejada allí durante el Festival de los Muertos. Shinzaburô recordó que la linterna de peonías que llevaba O-Yoné era exactamente igual; y la coincidencia le pareció extraña. Volvió a mirar las tumbas, pero estas no explicaban nada. Ninguna tenía nombre propio, solo el budista kaimyô, o denominación póstuma. Entonces decidió buscar información en el templo. Un acólito declaró, en respuesta a sus preguntas, que la gran tumba había sido erigida recientemente para la hija de Iijima Heizayemon, el hatamoto de Ushigomé; y que la pequeña tumba que estaba a su lado era la de su sirviente O-Yoné, que había muerto de pena poco después del funeral de la joven.
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Inmediatamente a la memoria de Shinzaburô volvieron, con otro y siniestro significado, las palabras de O-Yoné: «Nos fuimos y encontramos una casa muy pequeña en Yanaka-no-Sasaki. Allí apenas podemos vivir, haciendo un pequeño trabajo privado...». Aquí estaba, en efecto, la pequeña casa, y en Yanaka-no-Sasaki. ¿Pero el pequeño trabajo privado...?
 
@@ -208,11 +208,11 @@ Aterrorizado, el samurái se dirigió a toda prisa a la casa de Yusai y le rogó
 
 El sumo sacerdote Ryôseki era un hombre erudito y santo. Mediante su visión espiritual, podía conocer el secreto de cualquier dolor y la naturaleza del karma que lo había causado. Escuchó impasible la historia de Shinzaburô y le dijo:
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Un gran peligro te amenaza ahora, debido a un error cometido en uno de tus anteriores estados de existencia. El karma que te ata a la muerte es muy fuerte; pero si intentara explicarte su naturaleza, no podrías comprenderlo. Por lo tanto, solo te diré esto: la persona fallecida no desea herirte por odio, no siente enemistad hacia ti; al contrario, la inspira un afecto apasionado. Probablemente, la joven ha estado enamorada de ti desde mucho antes de tu vida actual, desde al menos tres o cuatro existencias pasadas; y parece que, aunque cambia necesariamente de forma y condición en cada nacimiento sucesivo, no ha podido dejar de seguirte. Por lo tanto, no será fácil escapar de su influencia... Pero ahora te prestaré este poderoso mamori. Es una imagen de oro puro de ese Buda.
 
-\[1. La palabra japonesa mamori tiene significados al menos tan numerosos como los que se asocian a nuestro propio término "amuleto". Sería imposible, en una simple nota a pie de página, siquiera sugerir la variedad de objetos religiosos japoneses a los que se les da el nombre. En este caso, el mamori es una imagen muy pequeña, probablemente encerrada en un altar en miniatura de laca o metal, cubierto con una cubierta de seda. Estas pequeñas imágenes (nota a pie de página p. 95) solían ser llevadas por los samuráis. Recientemente me mostraron una figura en miniatura de Kwannon, en una caja de hierro, que había sido llevada por un oficial durante la guerra de Satsuma. Comentó, con razón, que probablemente le había salvado la vida, pues había detenido una bala cuya abolladura era claramente visible.\] <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>llamado el Tathagata que Resuena el Mar —Kai-On-Nyôrai_—, porque su prédica de la Ley resuena por el mundo como el sonido del mar. Y esta pequeña imagen es especialmente un _shiryô-yoké_,\[1\]\—que protege a los vivos de los muertos. Debes llevarla, con su cubierta, junto a tu cuerpo, debajo del cinto... Además, pronto realizaré en el templo un servicio _segaki_\[2\] para el reposo del espíritu atribulado... Y aquí hay un sutra sagrado, llamado _Ubô-Darani-Kyô_, o “Sutra de la Lluvia de Tesoros”:\[3\] debes ser
+\[1. La palabra japonesa mamori tiene significados al menos tan numerosos como los que se asocian a nuestro propio término "amuleto". Sería imposible, en una simple nota a pie de página, siquiera sugerir la variedad de objetos religiosos japoneses a los que se les da el nombre. En este caso, el mamori es una imagen muy pequeña, probablemente encerrada en un altar en miniatura de laca o metal, cubierto con una cubierta de seda. Estas pequeñas imágenes (nota a pie de página p. 95) solían ser llevadas por los samuráis. Recientemente me mostraron una figura en miniatura de Kwannon, en una caja de hierro, que había sido llevada por un oficial durante la guerra de Satsuma. Comentó, con razón, que probablemente le había salvado la vida, pues había detenido una bala cuya abolladura era claramente visible.\] <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>llamado el Tathagata que Resuena el Mar —Kai-On-Nyôrai_—, porque su prédica de la Ley resuena por el mundo como el sonido del mar. Y esta pequeña imagen es especialmente un _shiryô-yoké_,\[1\]\—que protege a los vivos de los muertos. Debes llevarla, con su cubierta, junto a tu cuerpo, debajo del cinto... Además, pronto realizaré en el templo un servicio _segaki_\[2\] para el reposo del espíritu atribulado... Y aquí hay un sutra sagrado, llamado _Ubô-Darani-Kyô_, o «Sutra de la Lluvia de Tesoros»:\[3\] debes ser
 
 \[1. De _shiryô_, un fantasma, y ​​_yokeru_, excluir. El folclore japonés tiene dos tipos de fantasmas propios: los espíritus de los muertos, _shiryô_; y los espíritus de los vivos, _ikiryô_. Una casa o una persona pueden ser embrujadas tanto por un _ikiryô_ como por un _shiryô_.
 
@@ -224,7 +224,7 @@ Shinzaburô agradeció humildemente al sumo sacerdote y luego, tomando consigo l
 
 1. O-fuda es el nombre general que reciben los textos religiosos utilizados como amuletos o talismanes. A veces se estampan o se queman sobre madera, pero es más común escribirlos o imprimirlos en tiras estrechas de papel. Los o-fuda se pegan sobre las entradas de las casas, en las paredes de las habitaciones, sobre tablillas colocadas en santuarios domésticos, etc. Algunos se llevan sobre la cabeza; otros se convierten en pastillas y se ingieren como medicina espiritual. El texto de los o-fuda más grandes suele ir acompañado de imágenes curiosas o ilustraciones simbólicas.
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ## VIII
 
@@ -232,7 +232,7 @@ Con el consejo y la ayuda de Yusai, Shinzaburô pudo fijar los textos sagrados e
 
 Llegó la noche, cálida y despejada. Shinzaburô cerró las puertas, se ató el preciado amuleto a la cintura, se metió en su mosquitero y, a la luz de una linterna nocturna, comenzó a recitar el Ubô-Darani-Kyô. Durante un largo rato cantó las palabras, sin comprender bien su significado; luego intentó descansar un poco. Pero su mente seguía demasiado perturbada por los extraños sucesos del día. Pasó la medianoche y no pudo conciliar el sueño. Por fin oyó el retumbar de la gran campana del templo de Dentsu-In anunciando la octava hora.
 
-\[1. Según la antigua forma japonesa de contar el tiempo, esta _yatsudoki_ u octava hora era igual a nuestras dos de la mañana. Cada hora japonesa equivalía a dos horas europeas, de modo que solo había seis horas en lugar de nuestras doce; y estas seis horas se contaban hacia atrás en el orden: 9, 8, 7, 6, 5, 4. Así, la novena hora correspondía a nuestro mediodía o medianoche; {nota pág. 98} las nueve y media a nuestra una; las ocho a nuestras dos. Las dos de la mañana, también llamadas «la Hora del Buey», eran la hora japonesa de los fantasmas y los duendes.\] <span id="p98">[<sup><small>pág. 98</small></sup>]</span>no cesó; Y Shinzaburô oyó de repente el sonido de _geta_ acercándose desde la antigua dirección, pero esta vez más despacio: _karan-koron_, _karan-koron!_. De inmediato, un sudor frío le inundó la frente. Abriendo el sutra apresuradamente, con mano temblorosa, comenzó de nuevo a recitarlo en voz alta. Los pasos se acercaban cada vez más, llegaron al seto vivo, ¡se detuvieron! Entonces, por extraño que parezca, Shinzaburô se sintió incapaz de permanecer bajo su mosquitero: algo más fuerte incluso que su miedo lo impulsó a mirar; y, en lugar de seguir recitando el _Ubô-Darani-Kyô_, se acercó tontamente a las contraventanas y, a través de una rendija, atisbó en la noche. Frente a la casa vio a O-Tsuyu de pie, y a O-Yoné con la linterna de peonías; y ambos contemplaban los textos budistas pegados sobre la entrada. Nunca antes, ni siquiera en su época, O-Tsuyu había lucido tan hermosa; y Shinzaburô sintió que su corazón se atraía hacia ella con una fuerza casi irresistible. Pero el terror a la muerte <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> y el terror a lo desconocido lo reprimieron; y se desencadenó en él una lucha tal entre su amor y su miedo que se convirtió en alguien que sufría en cuerpo los dolores del infierno Shô-netsu.\[1\]
+\[1. Según la antigua forma japonesa de contar el tiempo, esta _yatsudoki_ u octava hora era igual a nuestras dos de la mañana. Cada hora japonesa equivalía a dos horas europeas, de modo que solo había seis horas en lugar de nuestras doce; y estas seis horas se contaban hacia atrás en el orden: 9, 8, 7, 6, 5, 4. Así, la novena hora correspondía a nuestro mediodía o medianoche; {nota pág. 98} las nueve y media a nuestra una; las ocho a nuestras dos. Las dos de la mañana, también llamadas «la Hora del Buey», eran la hora japonesa de los fantasmas y los duendes.\] <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>no cesó; Y Shinzaburô oyó de repente el sonido de _geta_ acercándose desde la antigua dirección, pero esta vez más despacio: _karan-koron_, _karan-koron!_. De inmediato, un sudor frío le inundó la frente. Abriendo el sutra apresuradamente, con mano temblorosa, comenzó de nuevo a recitarlo en voz alta. Los pasos se acercaban cada vez más, llegaron al seto vivo, ¡se detuvieron! Entonces, por extraño que parezca, Shinzaburô se sintió incapaz de permanecer bajo su mosquitero: algo más fuerte incluso que su miedo lo impulsó a mirar; y, en lugar de seguir recitando el _Ubô-Darani-Kyô_, se acercó tontamente a las contraventanas y, a través de una rendija, atisbó en la noche. Frente a la casa vio a O-Tsuyu de pie, y a O-Yoné con la linterna de peonías; y ambos contemplaban los textos budistas pegados sobre la entrada. Nunca antes, ni siquiera en su época, O-Tsuyu había lucido tan hermosa; y Shinzaburô sintió que su corazón se atraía hacia ella con una fuerza casi irresistible. Pero el terror a la muerte <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> y el terror a lo desconocido lo reprimieron; y se desencadenó en él una lucha tal entre su amor y su miedo que se convirtió en alguien que sufría en cuerpo los dolores del infierno Shô-netsu.\[1\]
 
 En ese momento oyó la voz de la sirvienta, que decía:
 
@@ -242,9 +242,9 @@ Pero la muchacha respondió llorando:
 
 “¡Oh, pensar que esto podría suceder después de las promesas que nos hicimos el uno al otro! . . .
 
-1. En-netsu o Shô-netsu (del sánscrito “Tapana”) es el sexto de los Ocho Infiernos Calientes del budismo japonés. Un día de vida en este infierno equivale en duración a miles (algunos dicen millones) de años humanos.
+1. En-netsu o Shô-netsu (del sánscrito «Tapana») es el sexto de los Ocho Infiernos Calientes del budismo japonés. Un día de vida en este infierno equivale en duración a miles (algunos dicen millones) de años humanos.
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 A menudo me decían que el corazón de un hombre cambia tan rápido como el cielo de otoño; sin embargo, ¡seguramente el corazón de Hagiwara Sama no puede ser tan cruel como para querer excluirme de esta manera!... Querido Yoné, por favor, encuentra la manera de llevarme con él... Si no lo haces, nunca, nunca volveré a casa.
 
@@ -256,7 +256,7 @@ O-Yoné finalmente respondió:
 
 Y tomando a O-Tsuyu de la mano, la condujo hacia la parte trasera de la vivienda; y allí las dos desaparecieron tan repentinamente como desaparece la luz cuando se apaga la llama de una lámpara.
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## IX
 
@@ -276,13 +276,13 @@ Tras pronunciar estas palabras, O-Yoné y O-Tsuyu se miraron en silencio por un 
 
 Pero O-Tsuyu, llorando, respondió:
 
-“Querido Yoné, pase lo que pase, ¡no puedo evitar pensar en él!... Sabes que puedes conseguir cien ryô ​​para que te quiten el o-fuda... ¡Solo una vez más, te lo ruego, querido Yoné! ¡Solo una vez más, llévame cara a cara con Hagiwara Sama, te lo suplico!” Y ocultándose el rostro con la manga, continuó suplicando.
+«Querido Yoné, pase lo que pase, ¡no puedo evitar pensar en él!... Sabes que puedes conseguir cien ryô ​​para que te quiten el o-fuda... ¡Solo una vez más, te lo ruego, querido Yoné! ¡Solo una vez más, llévame cara a cara con Hagiwara Sama, te lo suplico!» Y ocultándose el rostro con la manga, continuó suplicando.
 
 ¡Oh! ¿Por qué me pides que haga estas cosas? —respondió O-Yoné—. Sabes muy bien que no tengo dinero. Pero ya que persistes en este capricho tuyo, a pesar de todo lo que pueda decir, supongo que debo intentar encontrar el dinero de alguna manera y traerlo mañana por la noche... —Entonces, volviéndose hacia la infiel Tomozô, dijo:—Tomozô, debo decirte que Hagiwara Sama ahora lleva sobre su cuerpo un _mamori_ llamado _Kai-On-Nyôrai_, <span id="p105"><sup><small>[ p. 105 ]</small></sup></span>, y que mientras lo lleve puesto no podemos acercarnos a él. Así que tendrás que arrebatárselo, por algún medio, y quitarle el _o-fuda_.
 
 Tomozô respondió débilmente:
 
-“Eso también lo puedo hacer, si me prometes traerme los cien _ryô_”.
+«Eso también lo puedo hacer, si me prometes traerme los cien _ryô_».
 
 —Bueno, señora —dijo O-Yoné—, esperará usted hasta mañana por la noche, ¿no es así?
 
@@ -304,9 +304,9 @@ Hakuôdô Yusai, el adivino, fue a ver el cadáver ante la oración del infiel T
 
 Ryôseki, sin esperar a escuchar el propósito de la visita del anciano, lo invitó de inmediato a un apartamento privado.
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
-“Sabes que siempre eres bienvenido aquí”, dijo Ryôseki. “Por favor, siéntate cómodamente... Bueno, lamento informarte que Hagiwara Sama ha fallecido”.
+«Sabes que siempre eres bienvenido aquí», dijo Ryôseki. «Por favor, siéntate cómodamente... Bueno, lamento informarte que Hagiwara Sama ha fallecido».
 
 Yusai exclamó con asombro:
 
@@ -324,7 +324,7 @@ He oído que un sacerdote de vida pura puede obtener el poder de ver el futuro d
 
 Cada vez más asombrado, el viejo _ninsomi_ se aventuró a observar:
 
-“He estudiado el _In-Yô_,\[1\] y la ciencia de la adivinación; y me gano la vida leyendo la fortuna de la gente; pero no puedo entender cómo sabes estas cosas.”
+«He estudiado el _In-Yô_,\[1\] y la ciencia de la adivinación; y me gano la vida leyendo la fortuna de la gente; pero no puedo entender cómo sabes estas cosas.»
 
 Ryôseki respondió con gravedad:
 
@@ -332,7 +332,7 @@ No importa cómo los conocí... Ahora quiero hablarte del funeral de Hagiwara. L
 
 1. Los principios masculino y femenino del universo, las fuerzas activas y pasivas de la naturaleza. Yusai se refiere aquí a la antigua filosofía natural china, más conocida por los lectores occidentales como FENG SHUI.
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Así sucedió que Shinzaburô fue enterrado junto a O-Tsuyu, en el cementerio de Shin-Banzui-In, en Yanaka-no-Sasaki.
 
@@ -347,9 +347,9 @@ Mi amigo me preguntó si la historia me había interesado; y le respondí dicié
 
 —Te acompaño enseguida —dijo—. ¿Pero qué te parecieron los personajes?
 
-“Para el pensamiento occidental”, respondí, “Shinzaburô es una criatura despreciable. Lo he estado comparando mentalmente con los verdaderos amantes de nuestra antigua literatura de baladas. Ellos estaban encantados de seguir a una novia muerta a la tumba; y sin embargo, siendo cristianos, creían que solo tenían una vida humana para disfrutar en este mundo. Pero Shinzaburô era budista, con un millón de vidas a sus espaldas y un millón de vidas por delante; y era demasiado egoísta como para renunciar siquiera a una existencia miserable por la chica <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> que regresó a él de entre los muertos. Entonces era aún más cobarde que egoísta. Aunque samurái de nacimiento y entrenamiento, tuvo que rogarle a un sacerdote que lo salvara de los fantasmas. En todos los sentidos demostró ser despreciable; y O-Tsuyu hizo bien en estrangularlo hasta la muerte”.
+«Para el pensamiento occidental», respondí, «Shinzaburô es una criatura despreciable. Lo he estado comparando mentalmente con los verdaderos amantes de nuestra antigua literatura de baladas. Ellos estaban encantados de seguir a una novia muerta a la tumba; y sin embargo, siendo cristianos, creían que solo tenían una vida humana para disfrutar en este mundo. Pero Shinzaburô era budista, con un millón de vidas a sus espaldas y un millón de vidas por delante; y era demasiado egoísta como para renunciar siquiera a una existencia miserable por la chica <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> que regresó a él de entre los muertos. Entonces era aún más cobarde que egoísta. Aunque samurái de nacimiento y entrenamiento, tuvo que rogarle a un sacerdote que lo salvara de los fantasmas. En todos los sentidos demostró ser despreciable; y O-Tsuyu hizo bien en estrangularlo hasta la muerte».
 
-“Desde el punto de vista japonés, igualmente”, respondió mi amigo, “Shinzaburô es bastante despreciable. Pero el uso de este personaje débil ayudó al autor a desarrollar incidentes que de otro modo, quizás, no habrían podido manejarse con tanta eficacia. En mi opinión, el único personaje atractivo de la historia es O-Yoné: el típico sirviente leal y cariñoso de antaño, inteligente, astuto, lleno de recursos, fiel no solo hasta la muerte, sino más allá de ella... Bueno, vayamos a Shin-Banzui-In”.
+«Desde el punto de vista japonés, igualmente», respondió mi amigo, «Shinzaburô es bastante despreciable. Pero el uso de este personaje débil ayudó al autor a desarrollar incidentes que de otro modo, quizás, no habrían podido manejarse con tanta eficacia. En mi opinión, el único personaje atractivo de la historia es O-Yoné: el típico sirviente leal y cariñoso de antaño, inteligente, astuto, lleno de recursos, fiel no solo hasta la muerte, sino más allá de ella... Bueno, vayamos a Shin-Banzui-In».
 
 El templo nos pareció aburrido, y el cementerio, una abominación desoladora. Los espacios que antes ocupaban tumbas se habían convertido en campos de patatas. Entre ellos, tumbas inclinadas en todos los ángulos, placas ilegibles por la caspa, pedestales vacíos, cisternas destrozadas y estatuas de budas sin cabeza ni manos. Las lluvias recientes habían empapado la tierra negra, dejando aquí y allá pequeños charcos de limo alrededor de los cuales saltaban enjambres de ranitas. Todo, excepto los campos de patatas, parecía haber estado abandonado durante años. En un cobertizo, justo al otro lado de la puerta, vimos a una mujer cocinando; y mi acompañante se atrevió a preguntarle si sabía algo sobre las tumbas descritas en el Romance de la Linterna de Peonías.
 
@@ -361,13 +361,13 @@ Nos abrimos paso entre los charcos de lluvia y entre los verdes surcos de patata
 
 —Los caracteres no son fáciles de leer —dijo mi amigo—, ¡pero espera!... Sacó de su manga una hoja de papel blanco y suave, la colocó sobre la inscripción y comenzó a frotarla con un trozo de arcilla. Al hacerlo, los caracteres aparecieron en blanco sobre la superficie ennegrecida.
 
-<span id="p113">[<sup><small>pág. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
-“'Undécimo día, tercer mes—Rata, Hermano Mayor, Fuego—Sexto año de Horéki_ [1756 d. C.]'... Esta parece ser la tumba de un posadero de Nedzu llamado Kichibei. Veamos qué hay en el otro monumento.”
+«'Undécimo día, tercer mes—Rata, Hermano Mayor, Fuego—Sexto año de Horéki_ [1756 d. C.]'... Esta parece ser la tumba de un posadero de Nedzu llamado Kichibei. Veamos qué hay en el otro monumento.»
 
 Con una hoja de papel nueva sacó el texto de un kaimyô y leyó:
 
-“_'En-myô-In, Hô-yô-I-tei-ken-shi, Hô-ni':—'Monja de la Ley, Ilustre, Pura de corazón y voluntad. Famosa en la Ley,—que habita las Mansiones de la Predicación de las Maravillas.'_ . . . La tumba de alguna monja budista.”
+«_'En-myô-In, Hô-yô-I-tei-ken-shi, Hô-ni':—'Monja de la Ley, Ilustre, Pura de corazón y voluntad. Famosa en la Ley,—que habita las Mansiones de la Predicación de las Maravillas.'_ . . . La tumba de alguna monja budista.»
 
 —¡Qué farsa! —exclamé—. Esa mujer solo se estaba burlando de nosotros.
 

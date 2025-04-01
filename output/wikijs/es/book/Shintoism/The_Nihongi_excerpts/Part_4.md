@@ -53,7 +53,7 @@ El Pico Tamu estaba coronado por un recinto circular. Además, en la cima, cerca
 
 En esa época, las obras públicas eran favorables. Se emplearon obreros para excavar un canal desde el extremo occidental del monte Kaguyama hasta la montaña de Iso no Kami. Doscientas barcazas fueron cargadas con piedras de la montaña Iso no Kami y arrastradas por la corriente hasta la montaña al este del Palacio, donde se apilaron para formar un muro. La gente de aquella época vilipendió la obra, diciendo: "¡Este canal desquiciado ha desperdiciado el trabajo de más de 30.000 hombres! ¡Esta construcción de muros ha desperdiciado el trabajo de más de 70.000 hombres! ¡Y la madera del Palacio se ha podrido! ¡Y la cima de la montaña se ha derrumbado!".
 
-Nuevamente lo insultaron, diciendo: “¡Que el túmulo construido en Iso no kami se derrumbe tan rápido como fue construido!”
+Nuevamente lo insultaron, diciendo: «¡Que el túmulo construido en Iso no kami se derrumbe tan rápido como fue construido!»
 
 (658 d. C.) Verano, cuarta boca. Abe no Omi emprendió una expedición contra los yemishi al mando de una flota de 180 barcos. Los yemishi de los distritos de Aita y Nushiro, presas del miedo, se sometieron. Acto seguido, los barcos se dispusieron en orden de batalla en la bahía de Aita. Un yemishi de Aita llamado Omuka se adelantó e hizo un juramento: «No es por la llegada de las fuerzas imperiales que nosotros, los esclavos, llevamos arcos y flechas, sino porque es nuestra naturaleza vivir de la carne. Si hemos provisto arcos y flechas contra las fuerzas imperiales, ¡que los dioses de la bahía de Aita lo tengan en cuenta! Serviremos al Gobierno con un corazón puro».
 
@@ -135,7 +135,7 @@ Dejándolo, debo irme.
 
 El segundo.
 
-Ella le ordenó a Mari, Hada no Oho-kura no Miyakko, diciendo: “Que estos versos se transmitan y que el mundo no los olvide”.
+Ella le ordenó a Mari, Hada no Oho-kura no Miyakko, diciendo: «Que estos versos se transmitan y que el mundo no los olvide».
 
 Undécimo mes, tercer día. Soga no Akaye no Omi, el funcionario a cargo durante la ausencia de la Emperatriz, se dirigió al Príncipe Imperial Arima y le dijo: «Hay tres defectos en la administración de los asuntos de gobierno de la Emperatriz. El primero es que construye grandes tesoros, donde acapara las riquezas del pueblo. El segundo es que malgasta los ingresos públicos del grano cavando largos canales. El tercero es que carga barcazas con piedras y las transporta para apilarlas en una colina». El Príncipe Imperial Arima, reconociendo la amabilidad de Akaye hacia él, se sintió complacido y respondió: «Solo ahora he llegado a una edad en la que estoy apto para portar armas».
 
@@ -159,7 +159,7 @@ Un libro dice: «En el séptimo mes del sexto año, Pekche envió emisarios con 
 
 Además, Tsuratari, Adzumi no Muraji, de rango Shokwa Inferior, quien había sido enviado al Sello Occidental, regresó de Pekche e informó que Pekche había regresado tras una exitosa expedición contra Silla. En ese momento, un caballo, por voluntad propia, recorría el Salón Dorado de un templo día y noche sin parar, deteniéndose solo para pastar.
 
-Un libro dice: “Esto fue un eco de su destrucción por el enemigo en el año Kanoye Saru”.
+Un libro dice: «Esto fue un eco de su destrucción por el enemigo en el año Kanoye Saru».
 
 (659 d. C.) Un zorro mordió la punta de una enredadera que un trabajador del distrito de Ou tenía en su mano y se la llevó. Además, un perro se llevó a la boca la mano y el antebrazo de un muerto y los depositó en el santuario de Ifuya. (Señales de que la Emperatriz estaba a punto de morir).
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 El budismo es un crecimiento. El trono de diamante de la iluminación original es ahora realmente difícil de descubrir, rodeado como está por el laberinto de gigantescas columnas y elaborados pórticos que sucesivos arquitectos han erigido, cada uno añadiendo su parte al edificio de la fe. Pues no ha habido generación que no haya aportado sus propias piedras y tejas para ensanchar el gran techo que, como el propio árbol bodhi, ofrece cada día un refugio más amplio a la humanidad. Como en Buddha Gaya, es la oscuridad de los siglos la que oculta la imagen del nacimiento del budismo. Guirnaldas de amor y reverencia lo han cubierto, y el orgullo sectario y los fraudes piadosos han teñido, cada uno con su propio matiz, las aguas del océano circundante, hasta el punto de que es casi imposible distinguir entre las diversas corrientes y arroyos que una vez fueron sus afluentes.
 
@@ -70,7 +70,7 @@ En la India, el arte de este budismo temprano fue un desarrollo natural del de l
 
 La imponente columna de hierro de Asoka en Delhi —extraña maravilla de fundición que Europa, con toda su maquinaria científica, no puede imitar hoy—, al igual que las doce colosales imágenes de hierro del contemporáneo de Asoka, el emperador Shin de China, nos remite a épocas de artesanía experta y vastos recursos. Se dedica muy poco esfuerzo a reconstruir la idea de ese gran esplendor y actividad que debió existir, como para dejar los restos que ha dejado a una época posterior. Quizás las desoladas tierras baldías de Kurukshetra y la maleza quejumbrosa de Rajagriha aún atesoren el recuerdo de una antigua gloria, que se encogen de miedo para ocultar de las miradas ajenas.
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Las imágenes del propio Buda, aunque ausentes en las primeras stupas y ahora indistinguibles para nosotros entre los especímenes existentes de este período temprano, pueden haber sido probablemente el primer trabajo de sus discípulos, quienes pronto aprendieron a revestir su memoria con las leyendas de Jataka y a embellecer su personalidad ideal.
 
@@ -94,7 +94,7 @@ El hinduismo —esa forma en la que la conciencia nacional india se ha esforzado
 
 El feudalismo espiritual por el cual...—Esto alude al ideal de la condición brahmán, que consiste en una cultura completa arraigada y practicada en una vida de extrema sencillez. El aldeano brahmán puede ser no solo un erudito en el sentido universitario europeo del término, sino también un hombre de intelecto y carácter emancipados. Y, sin embargo, se enorgullecerá de seguir siendo siempre el mismo aldeano frugal. Este criterio se aplica con mayor razón al sannyasin, de quien se espera que rinda culto a la pobreza como lo hizo San Francisco de Asís. Cabe decir que en la India, entre ambas clases, se encuentran muchos hombres de quienes la afirmación del texto no es en absoluto exagerada.
 
-Mahabharata.—La epopeya de la “Gran India”, que narra la guerra entre los Kurus y los Pandavas. Esta guerra debió de ocurrir unos diez o doce siglos antes de Cristo, y su historia sigue siendo el rasgo heroico de la educación de los niños indios de las clases altas. Contiene el Bhagavad Gita, como uno de sus episodios, y puede decirse que este breve evangelio encarna todos los rasgos esenciales del budismo nórdico.
+Mahabharata.—La epopeya de la «Gran India», que narra la guerra entre los Kurus y los Pandavas. Esta guerra debió de ocurrir unos diez o doce siglos antes de Cristo, y su historia sigue siendo el rasgo heroico de la educación de los niños indios de las clases altas. Contiene el Bhagavad Gita, como uno de sus episodios, y puede decirse que este breve evangelio encarna todos los rasgos esenciales del budismo nórdico.
 
 Los Upanishads. Fueron escritos al menos entre el 2000 y el 700 a. C. Complementan a los Vedas y constituyen los grandes clásicos religiosos del pueblo hindú. Su temática es la realización de la existencia suprapersonal. En cuanto a profundidad y grandeza, no tienen rival en la literatura mundial.
 

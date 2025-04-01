@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:53:48Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 POR EL TRADUCTOR
 
@@ -104,4 +104,4 @@ _Tokio, Japón._
 
 ## Notas al pie
 
-[^0]: 3:1 Que significa, “El romance de los genios”.
+[^0]: 3:1 Que significa, «El romance de los genios».

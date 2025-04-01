@@ -44,11 +44,11 @@ Al mismo tiempo, un brahmán versado en los Vêdas, llamado Vigayaghôsha, ofrec
 
 Ahora bien, este monje sin hogar, al final de un ayuno de un mes de duración, fue al sacrificio de Vi<i>g</i>ayaghôsha para pedir limosna. (5)
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 El sacerdote quiso desviar al monje que se acercaba: «No te daré limosna, mendigo, pide en otro lugar.» (6)
 
-“A los sacerdotes que son versados ​​en los Vêdas y castos como corresponde a los oferentes, que son versados ​​en el <i>G</i>yôtishâṅga [^350] y están bien versados ​​en la ciencia sacrificial, que son capaces de salvarse a sí mismos y a otros, a tales sacerdotes se les debe ofrecer comida y todo lo que deseen”. (7, 8)
+«A los sacerdotes que son versados ​​en los Vêdas y castos como corresponde a los oferentes, que son versados ​​en el <i>G</i>yôtishâṅga [^350] y están bien versados ​​en la ciencia sacrificial, que son capaces de salvarse a sí mismos y a otros, a tales sacerdotes se les debe ofrecer comida y todo lo que deseen». (7, 8)
 
 Cuando el gran sabio fue rechazado de esta manera por el sacerdote, no se enojó ni se alegró, pues siempre se esforzaba por alcanzar el bien supremo. (9)
 
@@ -56,7 +56,7 @@ No para conseguir comida, ni bebida, ni ninguna otra cosa que quisiera, sino par
 
 “No sabes lo que es más esencial [^351] en los Vêdas, ni en los sacrificios, ni en los cuerpos celestes [^352], ni en los deberes [^353]. (11)
 
-“Tampoco conoces a quienes puedan salvarse a sí mismos y a los demás; pero si lo sabes, ¡habla!” (12)
+«Tampoco conoces a quienes puedan salvarse a sí mismos y a los demás; pero si lo sabes, ¡habla!» (12)
 
 El sacerdote no respondió para defenderse de su insinuación; pero él y todos los allí reunidos unieron sus manos e interrogaron al gran sabio: (13)
 
@@ -92,7 +92,7 @@ A quien está exento de amor, odio y miedo, <span id="p139"><sup><small>[ p. 139
 
 “Aquel que ha abandonado sus antiguas relaciones (con sus padres, etc.), con sus parientes y parientes, y que no se entrega al placer, a ese lo llamamos Brâhma<i>n</i>a. (29)
 
-<span id="p140">[<sup><small>pág. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 La atadura de animales (al poste sacrificial), todos los Vêdas y los sacrificios, al ser causas de pecado, no pueden salvar al pecador; pues sus obras (o Karman) son muy poderosas. (30)
 
@@ -104,7 +104,7 @@ La atadura de animales (al poste sacrificial), todos los Vêdas y los sacrificio
 
 “El Iluminado ha declarado estas (buenas cualidades) a través de las cuales uno se convierte en un (verdadero) Snâtaka [^358]; a aquel que está exento de todo Karman, lo llamamos Brâhma<i>n</i>a. (34)
 
-“Los hombres más excelentes nacidos dos veces [^359] que poseen estas buenas cualidades, son capaces de salvarse a sí mismos y a los demás”. (35)
+«Los hombres más excelentes nacidos dos veces [^359] que poseen estas buenas cualidades, son capaces de salvarse a sí mismos y a los demás». (35)
 
 Cuando su duda fue resuelta, Vi<i>g</i>ayaghôsha, el Brâhma<i>n</i>a, asintió [^360] al gran sabio <i>G</i>ayaghôsha y a su (discurso). (36)
 
@@ -120,7 +120,7 @@ Vi<i>g</i>ayaghôsha, complacido, juntó las manos y dijo <span id="p141"><sup><
 
 “Si tomas dos terrones de arcilla, uno húmedo y otro seco, y los arrojas contra la pared, el húmedo se pegará a ella. (42)
 
-“Así, los hombres necios, que aman el placer, serán atados (al Karman), pero los desapasionados no, así como el terrón seco de arcilla (no se pega a la pared).” (43)
+«Así, los hombres necios, que aman el placer, serán atados (al Karman), pero los desapasionados no, así como el terrón seco de arcilla (no se pega a la pared).» (43)
 
 Cuando Vi<i>g</i>ayaghôsha aprendió la excelente Ley del hombre sin hogar <i>G</i>ayaghôsha, ingresó en la orden. (44)
 

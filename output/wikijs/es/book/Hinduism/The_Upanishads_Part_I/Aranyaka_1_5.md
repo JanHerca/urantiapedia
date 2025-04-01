@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 QUINTO ADHYÂYA.
 
@@ -50,7 +50,7 @@ QUINTO ADHYÂYA.
 
 6\. A continuación viene el verso de Sûdadohas. Sûdadohas, en verdad, es aliento. Une las articulaciones con el aliento.
 
-7\. Tras haber recitado ese verso doce veces, <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> lo deja ahí. Estos prâ<i>n</i>as son, en verdad, doce: siete en la cabeza, dos en el pecho y tres abajo. En estos doce lugares se contienen los prâ<i>n</i>as; allí son perfectos. Por lo tanto, lo deja ahí [1](Aranyaka_1_5#fn480).
+7\. Tras haber recitado ese verso doce veces, <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> lo deja ahí. Estos prâ<i>n</i>as son, en verdad, doce: siete en la cabeza, dos en el pecho y tres abajo. En estos doce lugares se contienen los prâ<i>n</i>as; allí son perfectos. Por lo tanto, lo deja ahí [1](../Aranyaka_1_5#fn480).
 
 8\. El himno indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forma los dos muslos (del ave) pertenecientes a Indra y Agni, los dos soportes con huesos anchos.
 

@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p449">[<sup><small>pág. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 ## INTRODUCCIÓN. CAPÍTULO 1. EL NOMBRE DEL CLÁSICO; SU EXISTENCIA ANTES DE LA DINASTÍA HAN; SU CONTENIDO Y QUIÉN LO ESCRITO.
 
 Significado del carácter Hsiâo.
 
-1\. El carácter chino pronunciado Hsiâo, que traducimos como «Piedad Filial», y que también puede desempeñar la función de adjetivo («filial»), verbo («ser filial») o adverbio («filialmente»), es uno de los caracteres compuestos cuyo significado se sugiere a partir de la combinación de sus partes constituyentes. Está formado por otros dos: uno que significa «anciano» o «vejez» y, debajo, el carácter que significa «hijo». Así, según el Shwo Wăn, el diccionario chino más antiguo (100 d. C.), presenta a la vista «un hijo que sostiene a un anciano», es decir, un niño que sostiene a su padre. Hsiâo también forma parte de al menos otros veinte caracteres, por lo que debe considerarse de formación muy temprana. El carácter King se ha explicado en la Introducción al Shû King, [p. 2](Shu_King_Intro_1#p2); y el título, Hsiâo King, significa 'el Clásico de la Piedad Filial'.
+1\. El carácter chino pronunciado Hsiâo, que traducimos como «Piedad Filial», y que también puede desempeñar la función de adjetivo («filial»), verbo («ser filial») o adverbio («filialmente»), es uno de los caracteres compuestos cuyo significado se sugiere a partir de la combinación de sus partes constituyentes. Está formado por otros dos: uno que significa «anciano» o «vejez» y, debajo, el carácter que significa «hijo». Así, según el Shwo Wăn, el diccionario chino más antiguo (100 d. C.), presenta a la vista «un hijo que sostiene a un anciano», es decir, un niño que sostiene a su padre. Hsiâo también forma parte de al menos otros veinte caracteres, por lo que debe considerarse de formación muy temprana. El carácter King se ha explicado en la Introducción al Shû King, [p. 2](../Shu_King_Intro_1#p2); y el título, Hsiâo King, significa 'el Clásico de la Piedad Filial'.
 
 ¿El tratado fue llamado el Rey Hsiâo por Confucio?
 

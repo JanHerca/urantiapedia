@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:58Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_19">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”.</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XIX. Tâ Shäng, o «La comprensión plena de la vida».</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 LIBRO XX.
 
@@ -52,7 +52,7 @@ El gobernante dijo: «El camino es largo y difícil; hay ríos y colinas; y como
 
 Si un hombre cruza un río en una barca y otra embarcación vacía choca con ella, aunque sea un hombre de temperamento iracundo, no se enojará. Sin embargo, si hay una persona en esa barca, le gritará que se aparte. Si no se oye su grito, lo repetirá; y si el otro no lo oye, gritará por tercera vez, profiriendo insultos. Antes no estaba enojado, pero ahora sí; antes (pensaba) que la barca estaba vacía, pero ahora hay una persona en ella. Si un hombre puede vaciarse de sí mismo durante su vida, ¿quién podrá hacerle daño?
 
-3\. Pei-kung Shê [^59] recaudaba impuestos para el duque Ling de Wei, para que los empleara en la fabricación de campanas. (En relación con la obra), construyó un altar fuera de la puerta de la muralla suburbana; y en tres meses las campanas estuvieron terminadas, incluso suspendiendo los niveles superior e inferior. El hijo del rey, Khing-kî [^60], las vio y le preguntó qué artes había empleado en su fabricación. Shê respondió: «Aparte de dedicarme por completo a ellas, no me atreví a usar ninguna otra. He oído el dicho: “Después de todo el tallado y el cincelado, que el objetivo sea volver a la simplicidad”. Yo era como un niño sin conocimientos; era extraordinariamente lento y vacilante; crecían como las plantas que brotan de sí mismas.» Al escoltar a quienes iban y recibir a quienes llegaban, mi objetivo no era obstaculizar las esquinas ni detener a quienes iban. Permití que quienes se oponían firmemente siguieran su camino y acepté a quienes hicieron todo lo posible por llegar a un acuerdo. Les permití a todos hacer lo mejor que pudieron, y así, mañana y tarde, recaudé los impuestos. No tuve la menor dificultad, ¡y cuánto más será así con quienes siguen el Gran Camino (a gran escala)!
+3\. Pei-kung Shê [^59] recaudaba impuestos para el duque Ling de Wei, para que los empleara en la fabricación de campanas. (En relación con la obra), construyó un altar fuera de la puerta de la muralla suburbana; y en tres meses las campanas estuvieron terminadas, incluso suspendiendo los niveles superior e inferior. El hijo del rey, Khing-kî [^60], las vio y le preguntó qué artes había empleado en su fabricación. Shê respondió: «Aparte de dedicarme por completo a ellas, no me atreví a usar ninguna otra. He oído el dicho: «Después de todo el tallado y el cincelado, que el objetivo sea volver a la simplicidad». Yo era como un niño sin conocimientos; era extraordinariamente lento y vacilante; crecían como las plantas que brotan de sí mismas.» Al escoltar a quienes iban y recibir a quienes llegaban, mi objetivo no era obstaculizar las esquinas ni detener a quienes iban. Permití que quienes se oponían firmemente siguieran su camino y acepté a quienes hicieron todo lo posible por llegar a un acuerdo. Les permití a todos hacer lo mejor que pudieron, y así, mañana y tarde, recaudé los impuestos. No tuve la menor dificultad, ¡y cuánto más será así con quienes siguen el Gran Camino (a gran escala)!
 
 4\. Confucio fue mantenido (por sus enemigos) en estado de asedio entre Khän y Zhâi [^61], y durante siete días no tuvo alimento cocinado al fuego. El Thâi-kung Zân [^62] fue a condolerse y le dijo: «Casi has encontrado la muerte». «Sí», fue la respuesta. «¿Te disgusta la muerte?». «Sí». Entonces Zän continuó: «Déjame intentar describir una manera de evitar esa muerte. En el mar oriental hay aves llamadas Of Î-îs [^63]; vuelan bajo y lentamente, como si carecieran de fuerza. Vuelan como si se guiaran y ayudaran mutuamente, y se presionan mutuamente cuando se posan. Nadie se atreve a liderar el avance ni a ser el último en retroceder. Al comer, nadie se atreve a tomar el primer bocado, sino que prefiere los fragmentos que dejan otros. De esta manera, las interrupciones en su línea no son muchas [^64], y los hombres externos no pueden dañarlos, por lo que escapan a cualquier daño.
 
@@ -62,7 +62,7 @@ El árbol recto es el primero en ser talado; el manantial de agua dulce es el pr
 
 Confucio dijo: «He recibido tus instrucciones con reverencia». Y acto seguido, con paso lento y aire de tranquilidad, regresó a su casa. Allí dejó de estudiar y guardó sus libros. Sus discípulos ya no acudían a saludarlo (y a recibir enseñanzas), pero su afecto por él aumentaba cada vez más.
 
-Otro día, Sang Hû le dijo además: «Cuando Shun estaba a punto de morir, le ordenó a Yü: “Ten cuidado. La atracción de una persona no es como la compasión; el afecto no es como el ejemplo. Donde hay compasión, no hay separación; donde hay ejemplo, no hay esfuerzo. Donde no hay separación ni esfuerzo, no tendrás que buscar la decoración de las apariencias para hacer atractiva a la persona, y donde no hay necesidad de esas apariencias, ciertamente no habrá necesidad de cosas externas”.
+Otro día, Sang Hû le dijo además: «Cuando Shun estaba a punto de morir, le ordenó a Yü: «Ten cuidado. La atracción de una persona no es como la compasión; el afecto no es como el ejemplo. Donde hay compasión, no hay separación; donde hay ejemplo, no hay esfuerzo. Donde no hay separación ni esfuerzo, no tendrás que buscar la decoración de las apariencias para hacer atractiva a la persona, y donde no hay necesidad de esas apariencias, ciertamente no habrá necesidad de cosas externas».
 
 6\. Kwang-dze, con un vestido remendado de tela basta y los zapatos atados con cuerdas, pasaba junto al rey de Wei, quien le dijo: «¿Cuán grande es tu aflicción, Maestro?». Kwang-dze respondió: «¡Es pobreza, no angustia! Mientras un erudito posea el Tao y sus Atributos, no puede andar con aflicción. La ropa andrajosa y los zapatos atados a los pies son señal de pobreza, no de angustia. Esto es lo que llamamos no haber llegado al momento oportuno. ¿No ha visto su majestad al mono trepador? Cuando está entre plátanos, rúculas, robles y alcanforeros, se agarra y retuerce sus ramas (a modo de pantalla), donde reina con total tranquilidad, de modo que ni siquiera Î [^69] ni Phäng Mäng [^69] podrían verlo». Sin embargo, cuando se encuentra entre las espinosas moreras, dátiles y otros espinos, camina con cautela, mira de reojo y toma con aprensión cada movimiento tembloroso; no es que sus tendones y huesos <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> estén tensos y hayan perdido su flexibilidad, sino que la situación no le conviene y no puede desplegar su agilidad. Y ahora, cuando vivo bajo un gobernante ignorante y ministros sediciosos, ¿cómo es posible que no esté en apuros? ¡Mi caso podría ilustrar cómo le arrancaron el corazón a Pi-kan [^70]!
 
@@ -86,7 +86,7 @@ Cuando regresó y entró en su casa, no apareció en su patio [^80] durante tres
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Kwang_dze_Book_19">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”.</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XIX. Tâ Shäng, o «La comprensión plena de la vida».</span>
         </a>
         </td>
         <td>

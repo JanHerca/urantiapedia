@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 
 DEVADATTA ansiaba suceder al Buda como líder de la comunidad. Un día, le dijo al rey Ajatasatru: «Mi señor, el Buda te desprecia. Te odia. Debes condenarlo a muerte, pues tu gloria está en juego. Envía hombres al Bosque de Bambú con órdenes de matarlo; yo los guiaré».
 
 Ajatasatru se dejó persuadir fácilmente. Los asesinos llegaron al Bosque de Bambú, pero al ver al Maestro, se postraron a sus pies y lo adoraron. Esto avivó la ira de Devadatta. Fue a los establos reales donde se guardaba un elefante salvaje y sobornó a los guardias para que lo liberaran cuando el Maestro pasara, para que el animal pudiera cornearlo con sus colmillos o pisotearlo. Pero al ver al Maestro, el elefante se apaciguó y, acercándose a él, con su trompa limpió el polvo de las vestiduras sagradas. Y el Maestro sonrió y dijo:
 
-“Esta es la segunda vez, gracias a Devadatta, que un elefante me rinde homenaje”.
+«Esta es la segunda vez, gracias a Devadatta, que un elefante me rinde homenaje».
 
 Entonces el propio Devadatta intentó hacerle daño al Maestro. Lo vio meditando a la sombra de un árbol; y tuvo la audacia de lanzarle una piedra afilada. Esta le dio en el pie; la herida comenzó a sangrar. El Maestro dijo:
 
@@ -53,7 +53,7 @@ Ajatasatru tuvo un hijo el día que ordenó la ejecución de su padre. Al ver al
 
 Entonces Ajatasatru empezó a arrepentirse. Un día, oyó a la reina Vaidehi decirle al infante príncipe, mientras lo llevaba en brazos:
 
-<span id="p263">[<sup><small>pág. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Que tu padre sea tan bondadoso contigo como su padre lo fue con él. Una vez, de niño, tenía una llaga en el dedo; le dolía y lloraba; ningún ungüento la curaba; así que Vimbasara se llevó el dedo a los labios y le extrajo el pus, y Ajatasatru pudo reír y jugar de nuevo. Oh, ama a tu padre, hijito; no lo castigues con tu crueldad por haber sido cruel con Vimbasara.
 
@@ -77,23 +77,23 @@ Entró en la ciudad al anochecer. Las calles estaban oscuras, casi desiertas; na
 
 ¡Tu marido! ¡Qué poco le importas! ¡Piensa en la vez que te abandonó con tanta maldad!
 
-“Me abandonó por la salvación del mundo”. “¿Todavía lo amas?”
+«Me abandonó por la salvación del mundo». «¿Todavía lo amas?»
 
-“Mi amor contaminaría la pureza de su vida”.
+«Mi amor contaminaría la pureza de su vida».
 
-“Entonces odíalo con todo tu corazón.”
+«Entonces odíalo con todo tu corazón.»
 
-“Lo respeto con todo mi corazón”.
+«Lo respeto con todo mi corazón».
 
 «Mujer, él te rechazó; toma venganza.»
 
-<span id="p265">[<sup><small>pág. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Cállate, monje. Tus palabras son malvadas.
 
 ¿No me reconoces? Soy Devadatta, quien te ama.
 
-“Devadatta, Devadatta, sabía que eras falso y malvado; sabía que serías un monje infiel, pero nunca sospeché la profundidad de tu villanía”.
+«Devadatta, Devadatta, sabía que eras falso y malvado; sabía que serías un monje infiel, pero nunca sospeché la profundidad de tu villanía».
 
 ¡Gopa, Gopa, te amo! Tu esposo te despreció, fue cruel. ¡Véngate! ¡Ámame!
 

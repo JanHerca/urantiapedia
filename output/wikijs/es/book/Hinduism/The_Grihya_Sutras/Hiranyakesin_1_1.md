@@ -32,9 +32,9 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>pág. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 1, SECCIÓN 1.
 
@@ -143,7 +143,7 @@ Tú que te recuestas de lado, pensando: «Soy yo quien lo mantiene todo separado
 
 
 
-<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## PATALA 1, SECCIÓN 3.
 
@@ -165,7 +165,7 @@ Tú que te recuestas de lado, pensando: «Soy yo quien lo mantiene todo separado
 
 "Por esto te suplico" (Taitt. Sa<i>m</i>h., loc. cit.),
 
-<span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 'Tú, Agni' (Taitt. Sa<i>m</i>h. II, 5, 12, 3),
 
@@ -212,7 +212,7 @@ Te has puesto esta prenda por tu bienestar; te has convertido en protector de tu
 
 4\. [^493] Luego enrolla el cinto tres veces de izquierda a derecha alrededor del niño, de modo que le cubra el ombligo. Según algunos maestros, solo lo hace dos veces. Se hace con el verso.
 
-<span id="p148">[<sup><small>pág. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 'Aquí ha llegado hasta nosotros aquella que aleja el pecado, purificando nuestra guardia y nuestra protección, dándonos fuerza por (el poder de) la inhalación y la exhalación, la hermana de los dioses, este bendito cinturón.'
 
@@ -228,7 +228,7 @@ Te has puesto esta prenda por tu bienestar; te has convertido en protector de tu
 
 8\. [^496] Luego le confía (a los dioses) a un brahmán con (el verso): «Oh, Indra, confiamos este niño a Brahmán para que adquiera gran sabiduría. Que Brahmán lo guíe hasta la vejez, y que el niño vele por el conocimiento durante mucho tiempo».
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Un Râ<i>g</i>anya (él entrega el cuidado a los dioses) con (el verso), 'Encomendamos a este niño, oh Indra, a Brahman, por el bien de la gran realeza. Que lo guíe hasta la vejez, y que vele por la realeza por mucho tiempo'.
 
@@ -340,7 +340,7 @@ Fin del Primer Pa<i>t</i>ala.
 
 [^487]: 146:12 «Él realiza la adoración con ese Mantra, llevando el cordón sacrificial sobre su hombro derecho, a los Manes. Según otros, adora a Agni. Pero esto contradiría las palabras (del Mantra)». Mât<i>ri</i>datta.
 
-[^488]: 146:13 Taittirîya. Sa<i>m</i>hitâ III, 4, 7. «A él» (tasmai) es masculino, «a ellos» (tâbhya<i>h</i>) femenino. El significado de estas palabras se explicará mejor con una traducción de la primera sección de las fórmulas del Râsh<i>m</i>rabh<i>m</i>t: «El campeón de la verdad, aquel cuya ley es la verdad, Agni es el Gandharva. Sus Apsaras son las hierbas; “savia” es su nombre. Que él proteja este poder de santidad y este poder mundano. Que ellas protejan este poder de santidad y este poder mundano. ¡A él, svâhâ! ¡A ellas, svâhâ!»
+[^488]: 146:13 Taittirîya. Sa<i>m</i>hitâ III, 4, 7. «A él» (tasmai) es masculino, «a ellos» (tâbhya<i>h</i>) femenino. El significado de estas palabras se explicará mejor con una traducción de la primera sección de las fórmulas del Râsh<i>m</i>rabh<i>m</i>t: «El campeón de la verdad, aquel cuya ley es la verdad, Agni es el Gandharva. Sus Apsaras son las hierbas; «savia» es su nombre. Que él proteja este poder de santidad y este poder mundano. Que ellas protejan este poder de santidad y este poder mundano. ¡A él, svâhâ! ¡A ellas, svâhâ!»
 
 [^489]: 146:14 Véase arriba, sección 2, § 13.
 

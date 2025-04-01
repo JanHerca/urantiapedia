@@ -122,7 +122,7 @@ Nadie necesitará asistencia, ni entrenamiento, donde nadie
 Han de contemplar el juicio, pero los juzgados,
 Esos dos; el tercero mejor ausente está condenado,
 Condenad por huida y rebelaos a toda ley;
-“A nadie le corresponde la convicción de la Serpiente.”
+«A nadie le corresponde la convicción de la Serpiente.»
 
 Diciendo esto, se levantó de su radiante Asiento.
 De alta gloria colateral. Él Tronos y Poderes,
@@ -210,7 +210,7 @@ Dime, Mujer, ¿qué es esto que has hecho?
 A quien la triste Eva, casi abrumada por la vergüenza,
 Confesando pronto, pero no ante su Juez
 Atrevido o locuaz, así avergonzado respondió:
-“La serpiente me engañó, y comí.”
+«La serpiente me engañó, y comí.»
 
 Y cuando el Señor Dios lo oyó, sin demora
 A juicio se procedió sobre los acusados
@@ -248,7 +248,7 @@ Y a la mujer se dirigió así su sentencia:
 “Multiplicaré en gran manera tu dolor
 Por tu concepción, hijos traerás
 En el dolor, adelante y a la voluntad de tu marido
-“El tuyo se someterá; él gobernará sobre ti.”
+«El tuyo se someterá; él gobernará sobre ti.»
 
 Sobre Adán por último pronunció este juicio:
 “Porque has escuchado la voz de tu mujer,
@@ -319,7 +319,7 @@ De gran mérito para toda la Hueste infernal,
 Facilitando así su paso para el intercambio
 O la transmigración, según les toque.
 Tampoco puedo perderme el camino, tan fuertemente dibujado
-“Por esta nueva atracción e instinto”.
+«Por esta nueva atracción e instinto».
 
 A lo cual la exigua Sombra respondió pronto:
 “Ve hacia donde el destino y la inclinación son fuertes
@@ -982,7 +982,7 @@ Por los padres; o su elección más feliz demasiado tarde
 Se encontrarán, ya unidos y atados por el matrimonio.
 A un adversario cruel, su odio o su vergüenza:
 ¿Qué infinita calamidad causará?
-“Confundan la vida humana y la paz familiar”.
+«Confundan la vida humana y la paz familiar».
 
 Él no añadió nada, y se apartó de ella; pero Eva,
 No tan repelido, con lágrimas que no cesaban de fluir,
@@ -1012,7 +1012,7 @@ Y al lugar del juicio volverán,
 Allí con mis gritos importa el Cielo, que todos
 La sentencia, quitada de tu cabeza, puede iluminar
 Sobre mí, única causa para ti de todo este dolor,
-“Yo, yo solo, justo objeto de su ira.”
+«Yo, yo solo, justo objeto de su ira.»
 
 Terminó llorando; y su humilde situación,
 Inamovible hasta que se obtenga la paz de la culpa

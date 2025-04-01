@@ -41,7 +41,7 @@ Brahm Das era entonces el más eminente de los pandits de Cachemira. Al enterars
 Sólo hay un camino, una puerta; el Gurú es la escalera para llegar a casa.
 Hermoso es Dios; Nanak, toda la felicidad está en Su nombre.
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ## PAURI
 
@@ -67,7 +67,7 @@ Aquellos que están satisfechos con el Verdadero están absorbidos en Él.[^1]
 
 Brahm Das, reconociendo entonces la piedad y el genio del Gurú, se postró a sus pies y le preguntó qué existía antes de la creación. El Gurú, en respuesta, pronunció el siguiente himno conocido como Solaha[^2] en Rag Maru:
 
-<span id="p165">[<sup><small>pág. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 En el principio[^1] había una oscuridad indescriptible;
 Entonces no existían ni tierra ni cielo, sino el orden inigualable de Dios.
@@ -90,7 +90,7 @@ Dios mismo, habiendo creado, se sintió complacido y valoró lo que había hecho
 No hubo purificación, ni autocontrol, ni collar de albahaca dulce;
 No había lechera, ni Krishan, ni vaca, ni pastor;
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 No hubo encantamientos ni hechizos, ni hipocresía, ni nadie tocó la flauta.[^1]
 No había actos vinculados al alma, ni a la religión, ni al tábano de Mammón.
@@ -109,7 +109,7 @@ allí no había amor, ni servicio, ni Shiv, ni energía suya;[^6]
 Sin amigo, sin ayudador, sin semilla, sin sangre.[^7]
 Dios mismo era el comerciante, Él mismo el comerciante—tal era la voluntad del Verdadero—
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Entonces no había Veds ni libros _Mahometanos_,[^1] ni Simritis ni Shastars;
 Sin lectura de los Purans, no hay amanecer ni atardecer.
@@ -178,12 +178,12 @@ Los Sidhs preguntaron:
 ¿De dónde vienes y a dónde vas?
 «Escucha, oh Nanak», dijeron los Sidhs, «¿Cuáles son tus principios?
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 _Nanak_\—'Yo habito en Dios, que tiene Su asiento en cada corazón; actúo según la voluntad del Verdadero Gurú.
 Vine según el curso natural, y según la orden de Dios me iré. Nanak siempre está sujeto a Su voluntad.
 'Estar fijo en Dios es mi actitud de oración; tal conocimiento he obtenido del Gurú.
-“Si uno comprende las instrucciones del Gurú y se conoce a sí mismo, entonces, siendo verdadero, se absorberá en el Verdadero”.
+«Si uno comprende las instrucciones del Gurú y se conoce a sí mismo, entonces, siendo verdadero, se absorberá en el Verdadero».
 
 Un Sidh llamado Charpat preguntó.—
 
@@ -192,7 +192,7 @@ Dice Charpat: 'Oh Audhut Nanak, da una respuesta verdadera'.
 _Nanak_\—'Tú lo dices; tú mismo lo entiendes. ¿Qué respuesta puedo darte?
 -Digo la verdad: has llegado a una orilla lejana. ¿Cómo puedo discutir contigo?
 "Como un loto en el agua permanece seco, así como un ave acuática en la corriente,
-“Así, meditando en la Palabra y repitiendo el nombre de Dios, no serás afectado por el mundo”.
+«Así, meditando en la Palabra y repitiendo el nombre de Dios, no serás afectado por el mundo».
 Nanak es esclavo de aquellos que permanecen apartados _del mundo_, en cuyos corazones habita el único Dios, que viven sin deseos en medio de los deseos,
 Y quienes ven y muestran a los demás al Dios inaccesible e incomprensible.[^1]
 

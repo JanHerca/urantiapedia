@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p357">[<sup><small>pág. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 <span id="v4_4_1"><sup><small>4:4:1</small></sup></span>
 
@@ -73,7 +73,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v4_4_1_1818"><sup><small>4:4:1:1818.</small></sup></span> Ahora bien, si hubiera regresado a la hora de prensar de la mañana —la hora de prensar de la mañana pertenece al Gayatri, y el Gayatri es el sacerdocio [^844]\—, el ganado habría quedado solo con los sacerdotes. Y si hubiera regresado a la hora de prensar del mediodía —la hora de prensar del mediodía pertenece a Indra, y el mismo Indra es la nobleza—, el ganado habría quedado solo con los nobles. Pero como regresó a la hora de prensar de la tarde —la hora de prensar de la tarde pertenece a los Dioses Todopoderosos, y los Dioses Todopoderosos lo son todo aquí—, por lo tanto, hay ganado por todas partes.
 
 
-<span id="p363">[<sup><small>pág. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 <span id="v4_4_2"><sup><small>4:4:2</small></sup></span>
 
@@ -248,26 +248,26 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^836]: 357:1 A saber, la de Ya<i>g</i><i>ñ</i>a, el hombre sacrificatorio, que representa al sacrificador mismo, con vistas a la preparación de un nuevo cuerpo en una existencia futura.
 
-[^837]: 357:2 Véase [IV, 3, 3, 12](Book_2_4_3#v4_3_3_12).
+[^837]: 357:2 Véase [IV, 3, 3, 12](../Book_2_4_3#v4_3_3_12).
 
-[^838]: 358:1 Véase [IV, 1, 1, 1](Book_2_4_1#v4_1_1_1).
+[^838]: 358:1 Véase [IV, 1, 1, 1](../Book_2_4_1#v4_1_1_1).
 
-[^839]: 359:1 Véase [p. 351](Book_2_4_3#p351), nota [1](Book_2_4_3#fn819).
+[^839]: 359:1 Véase [p. 351](../Book_2_4_3#p351), nota [1](../Book_2_4_3#fn819).
 
 [^840]: 359:2 Lit. 'con el vaso que no se ha bebido'. No debe beber con el Hotri los restos del Sâvitra graha, que debe ofrecerse entero (holocausto).
 
 [^841]: 359:3 En Ait. Br. III, 31 cinco clases de seres, a saber, los dioses y los hombres, los Gandharva-Apsaras, las serpientes y los melenas, están incluidos en el término Vi<i>s</i>ve Devâ<i>h</i>.
 
-[^842]: 360:1 El primer <i>s</i>astra del T<i>ri</i>tîya-savana, que ahora va a ser recitado por el Hot<i>ri</i> (sacerdote del Rig-veda), es el <i>s</i>vadeva astra; por lo tanto también, argumenta, es Vai<i>s</i>vadeva por parte del Sâman, debido a la conexión íntima de los cantos Sâman (aquí el T<i>ri</i>tîya, o Ârbhava, pavamâna stotra; véase [p. 325](Book_2_4_3#p325), nota [2](Book_2_4_3#fn774)) con los <i>s</i>astras.
+[^842]: 360:1 El primer <i>s</i>astra del T<i>ri</i>tîya-savana, que ahora va a ser recitado por el Hot<i>ri</i> (sacerdote del Rig-veda), es el <i>s</i>vadeva astra; por lo tanto también, argumenta, es Vai<i>s</i>vadeva por parte del Sâman, debido a la conexión íntima de los cantos Sâman (aquí el T<i>ri</i>tîya, o Ârbhava, pavamâna stotra; véase [p. 325](../Book_2_4_3#p325), nota [2](../Book_2_4_3#fn774)) con los <i>s</i>astras.
 
-[^843]: 360:2 Véase [p. 268](Book_2_4_1#p268), nota [1](Book_2_4_1#fn643).
+[^843]: 360:2 Véase [p. 268](../Book_2_4_1#p268), nota [1](../Book_2_4_1#fn643).
 
-[^844]: 361:1 Permanece así sentado hasta que el Hotri pronuncia el Âhâva 'Adhvaryo <i>s</i>o<i>s</i>a<i>m</i>sâvom' (¡Adhvaryu, cantemos!), momento en el que se da la vuelta y da su respuesta (pratigara) '<i>S</i>amsâmo daivom'. Véase [p. 326](Book_2_4_3#p326), nota [1](Book_2_4_3#fn775).
+[^844]: 361:1 Permanece así sentado hasta que el Hotri pronuncia el Âhâva 'Adhvaryo <i>s</i>o<i>s</i>a<i>m</i>sâvom' (¡Adhvaryu, cantemos!), momento en el que se da la vuelta y da su respuesta (pratigara) '<i>S</i>amsâmo daivom'. Véase [p. 326](../Book_2_4_3#p326), nota [1](../Book_2_4_3#fn775).
   El Vai<i>s</i>vadeva <i>s</i>astra consta de las siguientes partes:
   Pratipad (tresillo de apertura), Rig-veda V, 82, 1-3.
   Anu<i>k</i>ara (secuela), ib. 4-7.
-  Sûkta (himno) a Savit<i>ri</i>, IV, 54. Antes del último verso se inserta el Nivid ('¡Que el dios Savit<i>ri</i> beba del Soma!', etc.); al que se añade el verso a Vâyu, mencionado en el [párrafo 15](Book_2_4_4#v4_4_1_15).
-  Sûkta al Cielo y a la Tierra, I, 159, con el Nivid '¡Que el Cielo y la Tierra se deleiten en el Soma!', etc., insertado antes del último verso; la respuesta del Adhvaryu es tres veces 'Madamo daiva', véase [p. 330](Book_2_4_3#p330), nota [3](Book_2_4_3#fn782).
+  Sûkta (himno) a Savit<i>ri</i>, IV, 54. Antes del último verso se inserta el Nivid ('¡Que el dios Savit<i>ri</i> beba del Soma!', etc.); al que se añade el verso a Vâyu, mencionado en el [párrafo 15](../Book_2_4_4#v4_4_1_15).
+  Sûkta al Cielo y a la Tierra, I, 159, con el Nivid '¡Que el Cielo y la Tierra se deleiten en el Soma!', etc., insertado antes del último verso; la respuesta del Adhvaryu es tres veces 'Madamo daiva', véase [p. 330](../Book_2_4_3#p330), nota [3](../Book_2_4_3#fn782).
   Verso Dhâyya, I, 4, 1.
   Sûkta a los <i>Ri</i>bhus, I, 111; con Nivid antes del último verso.
   Tres Dhâyâs, X, 123, 1; X, 63, 3; IV, 50, 6.
@@ -278,25 +278,25 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^845]: 361:2 Es decir, habiendo sido enjuagados en el Mâr<i>g</i>âlîya, los tres dvidevatya son depositados en el khara por el Pratiprasthât<i>ri</i>.
 
-[^846]: 362:1 Véase [IV, 1, 3](Book_2_4_1#v4_1_3).
+[^846]: 362:1 Véase [IV, 1, 3](../Book_2_4_1#v4_1_3).
 
 [^847]: 362:2 Tal vez deberíamos leer, con el texto Kâ<i>n</i>va, gâyatra<i>m</i> vai prâta<i>h</i>savana<i>m</i> gâyatra<i>m</i> agne<i>s</i> <i>kh</i>ando brahma vâ agnir, brâhma<i>n</i>eshu haiva pa<i>s</i>avo 'bhavishyan, 'la presión matutina relacionada con el gâyatrî, y la métrica del gâyatrî perteneciente a Agni, y Agni siendo el sacerdocio'.
 
-[^848]: 363:1 Probablemente, porque Soma es asesinado al ser sacrificado (ver [IV, 3, 4, 1](Book_2_4_3#v4_3_4_1)), y por lo tanto pertenece a los Padres o Espíritus Difuntos.
+[^848]: 363:1 Probablemente, porque Soma es asesinado al ser sacrificado (ver [IV, 3, 4, 1](../Book_2_4_3#v4_3_4_1)), y por lo tanto pertenece a los Padres o Espíritus Difuntos.
 
-[^849]: 363:2 Y los Dioses Universales (o todos los dioses) significan todo. Véase [IV, 4, 1, 4](Book_2_4_4#v4_4_1_4).
+[^849]: 363:2 Y los Dioses Universales (o todos los dioses) significan todo. Véase [IV, 4, 1, 4](../Book_2_4_4#v4_4_1_4).
 
 [^850]: 364:1 El homa de ghee, preparado antes de la ofrenda de papilla de arroz a Soma, pertenece a Agni, y el preparado después de la ofrenda, a Vishnu. Si solo se prepara un homa, pertenece a Agni y Vishnu. El texto de Kâ<i>n</i>va dice: «Tad vâ âhur anyatarata eva pariya<i>g</i>et purastâd eveti», ahora dicen: «Debe ofrecer solo de un lado, y el del frente (previamente al karu)». Para las fórmulas de ofrenda, véase Â<i>s</i>v. V, 19, 3; Ait. Br. III, 32. Después de completar estas ofrendas, el Adhvaryu vierte ghee ordinario sobre la pap de arroz y se la presenta al Hotri, quien la observa mientras pronuncia algunas fórmulas (Â<i>s</i>v. V, 19, 4, 5), y se unta los ojos con el ghee sobre la pap, después de lo cual esta última se entrega a los cantores (udgâtri) para que la coman.
 
-[^851]: 364:2 Véase [III, 6, 2, 19](Book_2_3_6#v3_6_2_19).
+[^851]: 364:2 Véase [III, 6, 2, 19](../Book_2_3_6#v3_6_2_19).
 
-[^852]: 365:1 Viz., Vâ<i>g</i>. S. V, 31, 32. El hogar Âgnîdhra se prepara primero, y el Mâr<i>g</i>âlîya, el último de los ocho dhish<i>n</i>yas. Véase [p. 148](Book_2_3_6#p148), nota [4](Book_2_3_6#fn392).
+[^852]: 365:1 Viz., Vâ<i>g</i>. S. V, 31, 32. El hogar Âgnîdhra se prepara primero, y el Mâr<i>g</i>âlîya, el último de los ocho dhish<i>n</i>yas. Véase [p. 148](../Book_2_3_6#p148), nota [4](../Book_2_3_6#fn392).
 
 [^853]: 365:2 O, superior (uttamam; los Kâ<i>n</i>vas leen 'antamâm').
 
 [^854]: 365:3 El significado del término pâtnîvata es 'relativo al patnîvant (es decir, la esposa o apareada),' siendo 'patnîvant' probablemente Soma con el agua mezclada con él; o Agni con las esposas de los dioses, (con especial referencia a la esposa del sacrificador); cf. Taitt. S. VI, 5, 8, I, 2. Según el texto de Kâ<i>n</i>va, Agni asociado con la diosa Habla (Vâ<i>k</i> patnî) parece ser sobreentendido.
 
-[^855]: 366:1 Véase [p. 268](Book_2_4_1#p268), nota [1](Book_2_4_1#fn643).
+[^855]: 366:1 Véase [p. 268](../Book_2_4_1#p268), nota [1](../Book_2_4_1#fn643).
 
 [^856]: 366:2 En el Diccionario de San Petersburgo, parece que «patnîvata<i>h</i>» califica a «grahân»; pero cp. Rig-veda VIII, 82, 22: «Unidas con sus esposas (es decir, el agua mezclada con el jugo de Soma), estas bebidas de Soma (sutâ<i>h</i>) se dirigen ansiosamente al regocijo».
 
@@ -306,7 +306,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^859]: 368:1 Pero si se trata de un Ukthya, un Shoda<i>s</i>in, un Atirâtra o un Vâ<i>g</i>apeya, el texto de Kâ<i>n</i>va. Véase hacia el final de la siguiente nota.
 
-[^860]: 368:2 Kâty. X, 7 y schol. proporcionan los siguientes detalles. El Unnetri coloca las copas de kamasa detrás del altar mayor y vierte en ellas todo el jugo de soma que queda en el Pûtabhri, vertiendo solo un poco en la copa del Hotri para dejar espacio para la libación dhruva. ​​Además, el Âgrayana es el único soma que queda. Luego, el Adhvaryu, tocando el Soma en la copa del Hotri con dos tallos de hierba, da la señal para el canto del Agnishtoma Sâman (a saber, el Yagñâyagñîya, Sâmav. II, 53, 54), envolviéndose la cabeza, si lo desea, de la misma manera que los Udgâtri. Mientras tanto, el Nesh<i>t</i><i>ri</i> conduce a la dama por la puerta trasera hacia el Sadas, la hace sentarse al norte del Udgât<i>ri</i> e intercambia miradas con este último tres veces (en el 'Hi<i>m</i>,' véase [p. 308](Book_2_4_2#p308), nota [2](Book_2_4_2#fn745)). Tres veces también (en cada Nidhana) descubre su pierna derecha y vierte sobre ella un poco del agua pânne<i>g</i>anî que trajo por la mañana (véase [III, 9, 3, 27](Book_2_3_9#v3_9_3_27)), p. 369, tras lo cual regresa a su propia tienda. Luego sigue la recitación del Âgnimâruta <i>s</i>astra, que consta de las siguientes partes:
+[^860]: 368:2 Kâty. X, 7 y schol. proporcionan los siguientes detalles. El Unnetri coloca las copas de kamasa detrás del altar mayor y vierte en ellas todo el jugo de soma que queda en el Pûtabhri, vertiendo solo un poco en la copa del Hotri para dejar espacio para la libación dhruva. ​​Además, el Âgrayana es el único soma que queda. Luego, el Adhvaryu, tocando el Soma en la copa del Hotri con dos tallos de hierba, da la señal para el canto del Agnishtoma Sâman (a saber, el Yagñâyagñîya, Sâmav. II, 53, 54), envolviéndose la cabeza, si lo desea, de la misma manera que los Udgâtri. Mientras tanto, el Nesh<i>t</i><i>ri</i> conduce a la dama por la puerta trasera hacia el Sadas, la hace sentarse al norte del Udgât<i>ri</i> e intercambia miradas con este último tres veces (en el 'Hi<i>m</i>,' véase [p. 308](../Book_2_4_2#p308), nota [2](../Book_2_4_2#fn745)). Tres veces también (en cada Nidhana) descubre su pierna derecha y vierte sobre ella un poco del agua pânne<i>g</i>anî que trajo por la mañana (véase [III, 9, 3, 27](../Book_2_3_9#v3_9_3_27)), p. 369, tras lo cual regresa a su propia tienda. Luego sigue la recitación del Âgnimâruta <i>s</i>astra, que consta de las siguientes partes:
   Sûkta (himno), Rig-veda III, 3, a Agni Vai<i>s</i>vânara, con Nivid ('Que Agni Vai<i>s</i>vânara se deleite con este Soma', etc.) insertado antes del último verso.
   Dhâyyâ, I, 43, 6; o (verso a Rudra) II, 33, 1.
   Sûkta, I, 87, a los Maruts, con Nivid ('Que los Maruts se deleiten con este Soma', etc.) antes del último verso.
@@ -321,15 +321,15 @@ dateCreated: 2025-1-15T22:56:28Z
   Verso X, 14, 4 a Yama.
   Verso X, 14, 3 a Kavyaas (Manes).
   Versos X, 15, 1, 3, 2 a Pitara<i>h</i> (padres), con el Âhâva antes de cada verso.
-  Anupânîya (o Svâdushkilîya), versos VI, 47, I-4, a Indra. Después de cada uno de los tres primeros, el Adhvaryu puede responder al Âhâva del Hotri con «madâmo daiva» (en lugar de «sâm sâmo daiva»). Véase la nota sobre [IV, 3, 2, 11](Book_2_4_3#v4_3_2_11).
+  Anupânîya (o Svâdushkilîya), versos VI, 47, I-4, a Indra. Después de cada uno de los tres primeros, el Adhvaryu puede responder al Âhâva del Hotri con «madâmo daiva» (en lugar de «sâm sâmo daiva»). Véase la nota sobre [IV, 3, 2, 11](../Book_2_4_3#v4_3_2_11).
   Verso a Vishnu y Varuna (Atharva-veda VII, 25, 1). pag. 370
   Verso a Vishnu, Rig-veda I, 154, 1.
   Verso a Pra<i>g</i>âpati, X, 53, 6.
   Paridhânîyâ (verso final) IV, 17, 20, en cuya recitación el Hot<i>ri</i> toca el suelo; y durante la recitación del último pâda el Dhruva graha se vierte en la copa del Hot<i>ri</i>.
   Ukthavîrya, '¡Se han cantado alabanzas a Indra, a los dioses, por escucharte (?)!'
   Yâ<i>g</i>yâ (oración de ofrenda) V, 60, 8, al concluir la cual se hacen libaciones a Agni y a los Maruts, tanto en Vasha<i>t</i> como en Anuvasha<i>t</i>.
-  Luego siguen las ofrendas posteriores al sacrificio de animales (véase [III, 8, 4, 1](Book_2_3_8#v3_8_4_1) ss.).
-  En el Ukthya (y otros sacrificios Soma), el Ukthya graha se dibuja inmediatamente después de dibujar el Âgraya<i>n</i>a (ver [IV, 3, 5, 24](Book_2_4_3#v4_3_5_24), con nota). Antes de las ofrendas posteriores, el Ukthya graha se divide, como en las representaciones de la mañana y del mediodía (ver [p. 293](Book_2_4_2#p293), nota [2](Book_2_4_2#fn706)), entre los tres Hotrakas, con vistas a la recitación de sus <i>s</i>astras que forman la característica distintiva del sacrificio Ukthya, elevando el número de <i>s</i>astras (y stotras) de doce (del Agnish<i>t</i>oma) a quince. Además, el Ukthya requiere la inmolación de al menos dos víctimas en el día de Soma, a saber, un macho cabrío para Indra y Agni, además de la ofrenda a Agni.
+  Luego siguen las ofrendas posteriores al sacrificio de animales (véase [III, 8, 4, 1](../Book_2_3_8#v3_8_4_1) ss.).
+  En el Ukthya (y otros sacrificios Soma), el Ukthya graha se dibuja inmediatamente después de dibujar el Âgraya<i>n</i>a (ver [IV, 3, 5, 24](../Book_2_4_3#v4_3_5_24), con nota). Antes de las ofrendas posteriores, el Ukthya graha se divide, como en las representaciones de la mañana y del mediodía (ver [p. 293](../Book_2_4_2#p293), nota [2](../Book_2_4_2#fn706)), entre los tres Hotrakas, con vistas a la recitación de sus <i>s</i>astras que forman la característica distintiva del sacrificio Ukthya, elevando el número de <i>s</i>astras (y stotras) de doce (del Agnish<i>t</i>oma) a quince. Además, el Ukthya requiere la inmolación de al menos dos víctimas en el día de Soma, a saber, un macho cabrío para Indra y Agni, además de la ofrenda a Agni.
 
 [^861]: 370:1 Véase I, 8, 2, 8; la traducción ha sido modificada de acuerdo con las sugerencias del profesor Whitney, American Journal of Philology, III, pág. 406.
 
@@ -339,17 +339,17 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^864]: 371:2 ¿O estallido (udvavarta), como lo define el Diccionario de San Petersburgo? El texto de Kâ<i>n</i>va dice: —V<i>ri</i>tro vai soma âsît ta<i>m</i> yatra devâ<i>h</i> pâtreshu vyag_ri<i>h</i>n_ata tasya mûrdhno (!) vyavartta sa dro<i>n</i>akala<i>s</i>o 'bhavat.
 
-[^865]: 371:3 Yâvân vâ yâvân vâ rasa<i>h</i>, (? alguna cantidad indeterminada del jugo:) Cf. [IV, 4, 5, 13](Book_2_4_4#v4_4_5_13).
+[^865]: 371:3 Yâvân vâ yâvân vâ rasa<i>h</i>, (? alguna cantidad indeterminada del jugo:) Cf. [IV, 4, 5, 13](../Book_2_4_4#v4_4_5_13).
 
 [^866]: 372:1 El texto también podría interpretarse en el sentido de «cualquier metro que haya, tanto medido como no medido, todo lo que con ello consume». Sin embargo, la libación se realiza por los metros o el ganado, representados por el grano.
 
 [^867]: 372:2 En lugar del Âgnîdhra, véase I, 5, 2, 16, con nota.
 
-[^868]: 372:3 Respecto de 'prasthitam', véase [p. 198](Book_2_3_8#p198), nota [3](Book_2_3_8#fn495).
+[^868]: 372:3 Respecto de 'prasthitam', véase [p. 198](../Book_2_3_8#p198), nota [3](../Book_2_3_8#fn495).
 
 [^869]: 373:1 Sólo deben oler los granos remojados en el jugo de Soma.
 
-[^870]: 373:2 La recensión de Kâ<i>n</i>va añade: “¡Oh divino Soma!”
+[^870]: 373:2 La recensión de Kâ<i>n</i>va añade: «¡Oh divino Soma!»
 
 [^871]: 373:3 Lit., habiendo ofrecido Ya<i>g</i>us, y cantados cánticos para ello.
 
@@ -361,7 +361,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^875]: 374:2 Véase I, 9, 2, 25 seq.
 
-[^876]: 374:3 Véase [p. 310](Book_2_4_2#p310), nota [1](Book_2_4_2#fn747).
+[^876]: 374:3 Véase [p. 310](../Book_2_4_2#p310), nota [1](../Book_2_4_2#fn747).
 
 [^877]: 374:4 El virâ<i>g</i> consta de pâdas de diez sílabas. Para la misma especulación, véase II, 5, I, 20.
 
@@ -377,7 +377,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^883]: 379:3 O, todo lo relacionado con Soma (?). Según Kâty. X, 8, 12, 19, el trono (âsandî) y Audumbarî, así como las vasijas de Soma, Dro<i>n</i>akala<i>s</i>a, etc., deben llevarse primero al <i>k</i>âtvâla, y de allí al agua.
 
-[^884]: 379:4 Véase [III, 2, 1, 18](Book_2_3_2#v3_2_1_18). El Pratiprasthât<i>ri</i> debe lanzar silenciosamente tras la zona y la clavija de la dama (para rascarse).
+[^884]: 379:4 Véase [III, 2, 1, 18](../Book_2_3_2#v3_2_1_18). El Pratiprasthât<i>ri</i> debe lanzar silenciosamente tras la zona y la clavija de la dama (para rascarse).
 
 [^885]: 379:5 Para el 'svagâkâra', véase I, 8, 3, 11.
 
@@ -387,9 +387,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^888]: 380:3 Todos los sacerdotes, así como el sacrificador, deben participar en el nidhana (p. 381) (palabra final del Sâman). Según Kâty. X, 8, 16, 17, el Sâman se canta tres veces: al comenzar desde el kâtvâla, a mitad de camino y junto al agua.
 
-[^889]: 381:1 O culpa contra Varuna. Véase [p. 221](Book_2_3_9#p221), nota [1](Book_2_3_9#fn552).
+[^889]: 381:1 O culpa contra Varuna. Véase [p. 221](../Book_2_3_9#p221), nota [1](../Book_2_3_9#fn552).
 
-[^890]: 381:2 Paja yâvad vâ yâvad vâ. Ver. [pag. 371](Book_2_4_4#p371), nota [3](Book_2_4_4#fn862).
+[^890]: 381:2 Paja yâvad vâ yâvad vâ. Ver. [pag. 371](../Book_2_4_4#p371), nota [3](../Book_2_4_4#fn862).
 
 [^891]: 382:1 Para las cinco oraciones habituales, véase I, 5, 3, 8-13.
 

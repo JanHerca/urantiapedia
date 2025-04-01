@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p320">[<sup><small>pág. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 DECIMOTERCERA CONFERENCIA, LLAMADA LA VERDAD REAL.
 
@@ -119,7 +119,7 @@ Así lo digo.
 
 [^955]: 321:1 A_gh<i>a</i>ñ_<i>gh</i>apatta. _Gh<i>a</i>ñ_<i>gh</i>â (tempestad) = mâyâ.
 
-[^956]: 321:2 Respecto a los Ugras, ver arriba, [p. 71](Uttaradhyayana_15#p71), nota [2](Uttaradhyayana_15#fn190).
+[^956]: 321:2 Respecto a los Ugras, ver arriba, [p. 71](../Uttaradhyayana_15#p71), nota [2](../Uttaradhyayana_15#fn190).
 
 [^957]: 321:3 Le<i>k</i><i>kh</i>ai. Según los <i>G</i>ainas, los Li<i>k</i><i>kh</i>avi y Mallakis eran los jefes de Kâ<i>s</i>i y Kô<i>s</i>ala. Parecen haber sucedido a los Aikshvâkas, quienes gobernaron allí en tiempos del Râmâya<i>n</i>a. Los Li<i>k</i><i>kh</i>avis se convirtieron en una raza poderosa, que ostentó el poder supremo en la India Oriental durante muchos siglos después del comienzo de nuestra era.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 SEGUNDO ADHYÂYA.
 
@@ -68,9 +68,9 @@ Los hijos de aquel que adora a la luna no mueren antes que él. Así sucede con 
 
 Ahora, para aquel a quien aún no le ha nacido un hijo, murmura los tres versos <i>Ri</i><i>k</i>: «¡Aumenta, oh Soma! Que el vigor te llegue» (Rv. I, 91, 16; IX, 31, 4).
 
-<span id="p286">[<sup><small>pág. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
-“Que la leche y el alimento lleguen a ti” (Rv. I, 91, 18); “Ese rayo que alegran los Âdityas”.
+«Que la leche y el alimento lleguen a ti» (Rv. I, 91, 18); «Ese rayo que alegran los Âdityas».
 
 Tras murmurar estos tres versos de <i>Ri</i><i>k</i>, dice: «No te acrecientes con nuestro aliento (prâ<i>n</i>a), con nuestra descendencia, con nuestro ganado; quien nos odia y a quien odiamos, acreciente con su aliento, con su descendencia, con su ganado. Así hago girar el giro del dios, devuelvo el giro de Âditya [^732]». Tras estas palabras, habiendo levantado el brazo derecho (hacia Soma), lo suelta de nuevo [^733]. <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> 9\. Luego (en tercer lugar) que adore, el día de luna llena, a la luna como se ve en el este de la misma manera, diciendo: «Tú eres Soma, el rey, el sabio, el de cinco bocas, el señor de las criaturas». El Brahmana es una de tus bocas; con esa boca devoras a los reyes (Kshatriyas); ¡hazme devorador de alimento por esa boca! El rey es una de tus bocas; con esa boca devoras a los pueblos (Vai<i>s</i>yas); ¡hazme devorador de alimento por esa boca! El halcón es una de tus bocas; con esa boca devoras a los pájaros; ¡hazme devorador de alimento por esa boca! El fuego es una de tus bocas; con esa boca devoras este mundo; ¡hazme devorador de alimento por esa boca! En ti está la quinta boca; con esa boca devoras a todos los seres; ¡hazme devorador de alimento por esa boca! No disminuyas por nuestra vida, por nuestra descendencia, por nuestro ganado; quien nos odia y a quien odiamos, disminuya por su vida, por su descendencia, por su ganado. Así hago girar el giro del dios, devuelvo el giro de Âditya. Después de estas palabras, habiendo levantado el brazo derecho, lo suelta de nuevo.
 
@@ -94,7 +94,7 @@ Este Brahman brilla, en efecto, cuando se ve con los ojos, y muere cuando no se 
 
 Este Brahman brilla, en verdad, cuando se escucha con el oído, y muere cuando no se escucha. Su esplendor reside solo en la mente, la vida (prâ<i>n</i>a) en la respiración (prâ<i>n</i>a).
 
-<span id="p290">[<sup><small>pág. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Este Brahman brilla, en efecto, cuando se piensa con la mente, y muere cuando no se piensa. Su esplendor reside únicamente en el aliento (prâ<i>n</i>a), y la vida (prâ<i>n</i>a) en el aliento (prâ<i>n</i>a).
 

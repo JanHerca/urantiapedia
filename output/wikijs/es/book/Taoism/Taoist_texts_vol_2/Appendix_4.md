@@ -1,5 +1,5 @@
 ---
-title: "Apéndice IV. Zäh Yung King, o “Clásico del directorio por un día”"
+title: "Apéndice IV. Zäh Yung King, o «Clásico del directorio por un día»"
 description: "Textos taoístas, vol. 2; Chuang-tzu parte II"
 published: true
 date: 2025-2-12T12:58:58Z
@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 ## Zäh Yung King, o 'Clásico del directorio por un día'.
 
-No he encontrado mención alguna del autor de esta breve composición ni de su fecha. El uso de expresiones budistas en ella muestra que no puede haber tenido un origen muy temprano. Pertenece a la misma categoría de escritos taoístas que el Khing Käng King, que es el primero de estos apéndices. Lî Hsî-yüeh dice: «El Tratado se llama “Directorio para un día”, ya que muestra que durante todas las horas (el Tâo) no debe abandonarse ni un solo instante (compárese con las palabras de Confucio al comienzo del Kung Yung). Que se haga el trabajo, y seguro que habrá el resultado prometido; solo debe insistirse en la Pureza tanto del cuerpo como de la mente. En el segundo párrafo se dice: «Durante las doce horas del día, que los pensamientos se fijen constantemente en la Pureza absoluta»; y en el último párrafo, “Durante las doce horas sé siempre puro e inmaculado”; mostrando así cuál es la enseñanza principal del Gran sistema Taoísta y el lugar preeminente que ocupa la Pureza en el “Directorio para un Día”. El estilo es tan claro y sencillo que lo he dejado sin notas ni comentarios.
+No he encontrado mención alguna del autor de esta breve composición ni de su fecha. El uso de expresiones budistas en ella muestra que no puede haber tenido un origen muy temprano. Pertenece a la misma categoría de escritos taoístas que el Khing Käng King, que es el primero de estos apéndices. Lî Hsî-yüeh dice: «El Tratado se llama «Directorio para un día», ya que muestra que durante todas las horas (el Tâo) no debe abandonarse ni un solo instante (compárese con las palabras de Confucio al comienzo del Kung Yung). Que se haga el trabajo, y seguro que habrá el resultado prometido; solo debe insistirse en la Pureza tanto del cuerpo como de la mente. En el segundo párrafo se dice: «Durante las doce horas del día, que los pensamientos se fijen constantemente en la Pureza absoluta»; y en el último párrafo, «Durante las doce horas sé siempre puro e inmaculado»; mostrando así cuál es la enseñanza principal del Gran sistema Taoísta y el lugar preeminente que ocupa la Pureza en el «Directorio para un Día». El estilo es tan claro y sencillo que lo he dejado sin notas ni comentarios.
 
 ---
 

@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 8. Si una caravana acampa en un valle y se construye una cerca alrededor con los aperos del ganado, es lícito mover objetos dentro de la cerca en el día de descanso, siempre que la cerca tenga una altura de diez palmos y los huecos no excedan la extensión de la cerca. Se permite cualquier hueco de aproximadamente diez palmos de ancho, ya que se considera una puerta. Los huecos de más de diez palmos de ancho están prohibidos.
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 § 9. \[La caravana puede también ser\] cercada con tres cuerdas, una encima de la otra, siempre que entre cada cuerda haya menos de tres palmos de espacio \[intermedio\], y que la medida \[ancho o grosor\] de las tres cuerdas \[juntas\] exceda un palmo, de modo que el total sume \[los\] diez palmos.
 

@@ -64,4 +64,4 @@ Quizás se me permita ofrecerle una o dos advertencias. Haría bien en pensar de
 
 ## Notas al pie
 
-[^0]: v:1 Siempre que uso la palabra “Oriente” u “Oriental”, estoy pensando en el Lejano Oriente, es decir, en el este de Asia.
+[^0]: v:1 Siempre que uso la palabra «Oriente» u «Oriental», estoy pensando en el Lejano Oriente, es decir, en el este de Asia.

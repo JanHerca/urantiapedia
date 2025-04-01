@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span> pág. 44 pág. 45
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span> pág. 44 pág. 45
 
 TAITTIRÎYAKA-UPANISHAD.
 
@@ -47,7 +47,7 @@ PRIMER VALLÎ, O, EL CAPÍTULO SOBRE <i>S</i>ÎKSHÂ (PRONUNCIACIÓN).
 (1-5) [^198] ¡Que me proteja! ¡Que proteja al maestro! ¡Sí, que me proteja y que proteja al maestro! ¡Om! ¡Paz! ¡Paz! ¡Paz!
 
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## SEGUNDO ANUVÂKA.
 
@@ -83,9 +83,9 @@ Que mi cuerpo sea capaz, mi lengua dulce, ¡que pueda oír mucho con mis oídos!
 
 Ella (<i>S</i>rî, felicidad) acerca y difunde,
 
-2\. Y se hace, sin demora, ropa, vacas, comida y bebida en todo momento; por lo tanto, trae a esa <i>S</i>rî (felicidad) aquí, a mí, la lanuda, con <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> su ganado [1](Taittiriyaka_1#fn203)! ¡Svâhâ [2](Taittiriyaka_1#fn204)! ¡Que los estudiantes de Brahman vengan a mí, Svâhâ! ¡Que vengan de todas partes, Svâhâ! ¡Que vengan a mí, Svâhâ! ¡Que practiquen la moderación, Svâhâ! ¡Que disfruten de paz, Svâhâ!
+2\. Y se hace, sin demora, ropa, vacas, comida y bebida en todo momento; por lo tanto, trae a esa <i>S</i>rî (felicidad) aquí, a mí, la lanuda, con <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> su ganado [1](../Taittiriyaka_1#fn203)! ¡Svâhâ [2](../Taittiriyaka_1#fn204)! ¡Que los estudiantes de Brahman vengan a mí, Svâhâ! ¡Que vengan de todas partes, Svâhâ! ¡Que vengan a mí, Svâhâ! ¡Que practiquen la moderación, Svâhâ! ¡Que disfruten de paz, Svâhâ!
 
-3\. ¡Que yo sea una gloria entre los hombres, Svâhâ! ¡Que yo sea mejor que el más rico, Svâhâ! ¡Que pueda entrar en ti, oh tesoro (Om), Svâhâ! ¡Tú, oh tesoro [3](Taittiriyaka_1#fn205), entra en mí, Svâhâ! En ti, compuesto de mil ramas, en ti, oh tesoro, me purifico, Svâhâ. Como el agua fluye hacia abajo, como los meses se unen al año, así, oh preservador del mundo, que los estudiantes de Brahman siempre vengan a mí de todas partes, Svâhâ!
+3\. ¡Que yo sea una gloria entre los hombres, Svâhâ! ¡Que yo sea mejor que el más rico, Svâhâ! ¡Que pueda entrar en ti, oh tesoro (Om), Svâhâ! ¡Tú, oh tesoro [3](../Taittiriyaka_1#fn205), entra en mí, Svâhâ! En ti, compuesto de mil ramas, en ti, oh tesoro, me purifico, Svâhâ. Como el agua fluye hacia abajo, como los meses se unen al año, así, oh preservador del mundo, que los estudiantes de Brahman siempre vengan a mí de todas partes, Svâhâ!
 
 (1) ¡Eres un refugio! ¡Ilumíname! ¡Toma posesión de mí!
 
@@ -98,7 +98,7 @@ Bhû es este mundo, Bhuvas es el cielo, Suvas es el otro mundo.
 
 2\. Mahas es el sol. Todos los mundos se incrementan gracias al sol. Bhû es Agni (fuego), Bhuvas es Vâyu (aire), Suvas es Âditya (sol). Mahas es la luna. Todas las luces celestiales se incrementan gracias a la luna.
 
-<span id="p49">[<sup><small>pág. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Bhû son los versos <i>Ri</i><i>k</i>, Bhuvas son los versos Sâman, Suvas son los versos Ya<i>g</i>us.
 
@@ -122,7 +122,7 @@ Entre los dos paladares cuelga la úvula, como un pezón; ese es el punto de par
 (1) ¡Adora así, oh Prâ<i>k</i>înayogya!
 
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## SÉPTIMO ANUVÂKA.
 
@@ -137,7 +137,7 @@ Ahora bien, con referencia al ser (el cuerpo): 'Prâ<i>n</i>a (inhalación ascen
 
 1. Om significa Brahman. 2. Om significa todo esto. 3. Om significa obediencia. Cuando se les dice: «Om, habla», hablan. 4. Después de Om, cantan samanes. 5. Después de Om, recitan himnos. 6. Después de Om, el Adhvaryu da la respuesta. 7. Después de Om, el sacerdote brahmán da las órdenes. 8. Después de Om, el sacrificador permite la realización del Agnihotra. 9. Cuando un brahmán va a comenzar su conferencia, dice: 10. «Om, que adquiera Brahman (el Veda)». Así adquiere el Veda.
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## NOVENO ANUVÂKA [^209].
 

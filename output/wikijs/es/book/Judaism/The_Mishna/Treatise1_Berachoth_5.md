@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Los hombres no deben ponerse de pie para orar, excepto con profunda humildad. Los hombres piadosos de la antigüedad solían detenerse una hora antes de comenzar a orar para dirigir sus mentes a la Deidad. Aunque el rey lo salude, no debe responder al saludo, y aunque una serpiente se enrosque en su talón, no debe interrumpir sus oraciones.
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 § 2. El poder divino de hacer descender la lluvia debe mencionarse en la bendición de la resurrección de los muertos. La súplica por la lluvia debe hacerse en la bendición del año, y הבדלה, la distinción entre el sábado y el día de la semana, en la bendición חונן הדעת, quien generosamente otorga conocimiento. R. Akivah dice que הבדלה debe decirse en una cuarta bendición. R. Eleazar dice que, en la acción de gracias, מודים.
 

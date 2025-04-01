@@ -98,7 +98,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v4_2_1_3232"><sup><small>4:2:1:3232.</small></sup></span> Acto seguido, hacen que los sacerdotes del fuego ofrezcan juntos [^694]. Ahora, los sacerdotes del fuego, en conjunto, entregan <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> el sacrificio a los dioses; con ello, los satisface juntos, pensando: «Satisfechos y complacidos, entregarán el sacrificio a los dioses». Por lo tanto, hacen que los sacerdotes del fuego ofrezcan juntos.
 
-<span id="v4_2_1_3333"><sup><small>4:2:1:3333.</small></sup></span> Cuando se ha ofrecido la libación del primer o último sacerdote del fuego [1](Book_2_4_2#fn695), este les dice (Vâ<i>g</i>. S. VII, 15): «Que los oficios sacerdotales queden satisfechos, quienes han obtenido un buen sacrificio de dulce bebida; quienes se complacen cuando han obtenido una buena ofrenda con Svâhâ!», pues esta es la satisfacción de los oficios sacerdotales. Acto seguido, se acerca al hogar del Hot<i>ri</i> y se sienta con la cara hacia el oeste, con «¡El Agnîdh ha sacrificado!». porque en esta ocasión el Agnîdh sacrifica al último de los que sacrifican: por eso dice: 'El Agnîdh ha sacrificado'.
+<span id="v4_2_1_3333"><sup><small>4:2:1:3333.</small></sup></span> Cuando se ha ofrecido la libación del primer o último sacerdote del fuego [1](../Book_2_4_2#fn695), este les dice (Vâ<i>g</i>. S. VII, 15): «Que los oficios sacerdotales queden satisfechos, quienes han obtenido un buen sacrificio de dulce bebida; quienes se complacen cuando han obtenido una buena ofrenda con Svâhâ!», pues esta es la satisfacción de los oficios sacerdotales. Acto seguido, se acerca al hogar del Hot<i>ri</i> y se sienta con la cara hacia el oeste, con «¡El Agnîdh ha sacrificado!». porque en esta ocasión el Agnîdh sacrifica al último de los que sacrifican: por eso dice: 'El Agnîdh ha sacrificado'.
 
 
 <span id="v4_2_2"><sup><small>4:2:2</small></sup></span>
@@ -174,7 +174,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v4_2_3_1717"><sup><small>4:2:3:1717.</small></sup></span> «Te tomo con un soporte: a ti, la que complace a los dioses, te tomo por los dioses; (a ti) la que complace la alabanza, por las alabanzas, ¡agradable a Indra y Agni! Este es tu vientre: ¡a ti para Indra y Agni!», así lo deposita. En esta (tercera porción) no toca el sthâlî con «Eres una ofrenda». «...A ti para Indra», dice cada vez en el banquete del mediodía, pues el banquete del mediodía es sagrado para Indra.
 
-Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja la tercera vez.
+Dos veces toca el sthâlî con «Tú eres una ofrenda»; y en silencio lo deja la tercera vez.
 
 <span id="v4_2_3_1818"><sup><small>4:2:3:1818.</small></sup></span> Pero, para evitar la uniformidad (de ejecución), que no la saque con el 'soporte' ni la deposite en el 'útero'; pues esta (libación Ukthya <span id="p298"><sup><small>[ p. 298 ]</small></sup></span>) se ha tomado primero con el 'soporte' y se ha depositado primero en el útero; y si ahora también la tomara con el 'soporte' y la depositara en el 'útero', sin duda cometería la falta de uniformidad. Y en cuanto a tocar el sthâlî con 'Eres una ofrenda', sin duda volverá a tomar una libación de él. Que no le haga caso, sino que deje el recipiente en silencio.
 
@@ -304,7 +304,7 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^675]: 279:1 El que ha de ser comido (âdya<i>h</i>).
 
-[^676]: 279:2 Muir, OST ii, p. 386, traduce apa-han por «herir», lo cual parece encajar mejor con este pasaje que el significado común de «repeler, rechazar, expulsar»; pero véase el párrafo [20](Book_2_4_2#v4_2_1_20). La versión correspondiente de la leyenda en Taitt. S. VI, 4, 10 tiene «apa-nud (ahuyentar)».
+[^676]: 279:2 Muir, OST ii, p. 386, traduce apa-han por «herir», lo cual parece encajar mejor con este pasaje que el significado común de «repeler, rechazar, expulsar»; pero véase el párrafo [20](../Book_2_4_2#v4_2_1_20). La versión correspondiente de la leyenda en Taitt. S. VI, 4, 10 tiene «apa-nud (ahuyentar)».
 
 [^677]: 279:3 Así, este pasaje es interpretado por Sâya<i>n</i>a, quien se refiere a Pâ<i>n</i>. III, 3, 161 (sampra<i>s</i>ne liṅ) y VIII, 2, 97 (vi<i>k</i>âryamâ<i>n</i>ânâm p. 280 pluta<i>h</i>). Sin embargo, posiblemente, la expresión «no svid» deba separarse de lo que sigue: «¡de ninguna manera!, pues deberíamos atraer deidades», etc. El texto Kâ<i>n</i>va dice: 'no svit khalu devatâbhya eva g_ri<i>h</i>n_iyâmeti vidita<i>m</i> hîdam iti, tad u tan mîmâ<i>m</i>sâm eva <i>k</i>akre nety u ta<i>k</i> <i>k</i>akâra.'
 
@@ -322,7 +322,7 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^684]: 281:5 El verso está manifiestamente corrupto. El profesor Ludwig omite el acento en «a<i>s</i>rî<i>n</i>îta», eliminándolo así de la cláusula relativa; pero aun así, pág. 282, no me parece que se pueda extraer un sentido satisfactorio de este verso. Cuando el soma se mezcla con leche u otra sustancia (como harina), se colocan dos tallos de junco (ku<i>s</i>a) sobre la copa, y luego se vierte la sustancia accesoria a través de ellos. Kâty. IX, 6, 9-10.
 
-[^685]: 282:1 En los párrafos [13](Book_2_4_2#v4_2_1_13)\-[31](Book_2_4_2#v4_2_1_31) se anticipan las libaciones de las copas <i>S</i>ukra y Manthin. Para su lugar apropiado en la celebración, véase la nota a [IV, 3, 1, 1](Book_2_4_3#v4_3_1_1).
+[^685]: 282:1 En los párrafos [13](../Book_2_4_2#v4_2_1_13)\-[31](../Book_2_4_2#v4_2_1_31) se anticipan las libaciones de las copas <i>S</i>ukra y Manthin. Para su lugar apropiado en la celebración, véase la nota a [IV, 3, 1, 1](../Book_2_4_3#v4_3_1_1).
 
 [^686]: 283:1 El Diccionario de Petersburgo toma 'vi-pari-i' en el sentido de dar la vuelta. Cf. Kâty. IX, 10, 8; 'vividha<i>m</i> dakshi<i>n</i>a uttarata<i>s</i> <i>k</i>a paribhogam ishyantau (!),' Sâya<i>n</i>a.
 
@@ -330,15 +330,15 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^688]: 284:1 La estaca sacrificial se encuentra inmediatamente delante del altar mayor y el fuego. 'Yadi tato 'gnir nodbâdheta,' texto de Kâ<i>n</i>va.
 
-[^689]: 284:2 Es decir, las copas representan las cuencas de los ojos, y las libaciones, los ojos mismos. Sin embargo, quizá deberíamos traducir «donde estos ojos se unen (de modo que están) a ambos lados del hueso», representando la estaca del sacrificio el hueso o puente de la nariz. Véase el [párrafo 25](Book_2_4_2#v4_2_1_25).
+[^689]: 284:2 Es decir, las copas representan las cuencas de los ojos, y las libaciones, los ojos mismos. Sin embargo, quizá deberíamos traducir «donde estos ojos se unen (de modo que están) a ambos lados del hueso», representando la estaca del sacrificio el hueso o puente de la nariz. Véase el [párrafo 25](../Book_2_4_2#v4_2_1_25).
 
 [^690]: 285:1 'Y debido a que estas dos (libaciones), habiendo sido consagradas por Vasha<i>t</i>, se ofrecen con un mantra, por lo tanto alcanzan esta (distinción) de que toda la Savana se ofrece después de ellas; y la razón por la que toda la Savana se ofrece después de ellas, es que estos dos son sus ojos,' &c.
 
-[^691]: ​​286:1 O, según el Mahîdhara: «¡A ese Indra ofreced el licor con Svâhâ!». El Pratiprasthât<i>ri</i> hace su libación después del Adhvaryu. Los textos del Kâ<i>n</i>va dicen: «Cuando se ha pronunciado el Vasha<i>t</i>, el Adhvaryu ofrece, luego el Pratiprasthât<i>ri</i>; luego los demás ofrecen». Y, según Kâty. IX, II, 2, los <i>Kamasâdhvaryus</i> hacen libaciones de las copas de los nueve <i>Kamasins</i> (véase la nota [^693], página siguiente) con «Esto a Indra» en el Vashat, y «Esto a Agni» en el Anu-vashat. Estas libaciones se mencionan evidentemente en el párrafo [31](Book_2_4_2#v4_2_1_31).
+[^691]: ​​286:1 O, según el Mahîdhara: «¡A ese Indra ofreced el licor con Svâhâ!». El Pratiprasthât<i>ri</i> hace su libación después del Adhvaryu. Los textos del Kâ<i>n</i>va dicen: «Cuando se ha pronunciado el Vasha<i>t</i>, el Adhvaryu ofrece, luego el Pratiprasthât<i>ri</i>; luego los demás ofrecen». Y, según Kâty. IX, II, 2, los <i>Kamasâdhvaryus</i> hacen libaciones de las copas de los nueve <i>Kamasins</i> (véase la nota [^693], página siguiente) con «Esto a Indra» en el Vashat, y «Esto a Agni» en el Anu-vashat. Estas libaciones se mencionan evidentemente en el párrafo [31](../Book_2_4_2#v4_2_1_31).
 
 [^692]: 286:2? <i>S</i>a<i>s</i>vad dha vai retasa<i>h</i> siktasya sambhavata<i>s</i> <i>k</i>akshushî eva prathame sambhavatas tasmâd v eva<i>m</i> <i>g</i>apati; Kâ<i>n</i>va rec.
 
-[^693]: 286:3 'Sadasyâna<i>m</i> hotrâ<i>n</i>am'. Los sacerdotes subordinados a quienes pertenecen los dhish<i>n</i>yas (excepto el de los Hot<i>ri</i>), tanto los de los Sadas como los del Âgnîdhra. Véase página [148](Book_2_3_6#p148), nota [4](Book_2_3_6#fn392).
+[^693]: 286:3 'Sadasyâna<i>m</i> hotrâ<i>n</i>am'. Los sacerdotes subordinados a quienes pertenecen los dhish<i>n</i>yas (excepto el de los Hot<i>ri</i>), tanto los de los Sadas como los del Âgnîdhra. Véase página [148](../Book_2_3_6#p148), nota [4](../Book_2_3_6#fn392).
 
 [^694]: 287:1 Es decir, a las Sadas, para que los sacerdotes bebieran de ellas.
 
@@ -350,15 +350,15 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^698]: 288:2 Es decir, puesto que el cuenco está hecho de arcilla, —asyâ<i>h</i> p<i>ri</i>thivyâ<i>h</i> sakâ<i>s</i>ât sthâlî bhavati utpadyate; Sây. Los grahas Âgraya<i>n</i>a, Ukthya y Dhruva se extraen en un sthâlî (vasija o cuenco).
 
-[^699]: 289:1 Véase [IV, 4, 3, 2](Book_2_4_4#v4_4_3_2).
+[^699]: 289:1 Véase [IV, 4, 3, 2](../Book_2_4_4#v4_4_3_2).
 
-[^700]: 289:2 El Upâ<i>m</i><i>s</i>usavana, cf. [III, 9, 4, 6](Book_2_3_9#v3_9_4_6).
+[^700]: 289:2 El Upâ<i>m</i><i>s</i>usavana, cf. [III, 9, 4, 6](../Book_2_3_9#v3_9_4_6).
 
 [^701]: 289:3 El significado principal parece ser «primicia». Para la Âgraya<i>n</i>esh<i>t</i>i, u ofrenda de primicias, véase la parte I, pág. 369.
 
-[^702]: 289:4 O quizás, 'y su conquista entera estando libre de peligro y daño;' o, 'habiéndose obtenido completamente seguridad y paz (abhayam anâsh<i>t</i>ram)'. Cf. [IV, 3, 3, 5](Book_2_4_3#v4_3_3_5); también [III, 6, 3, 11](Book_2_3_6#v3_6_3_11); [8, 1, 9](Book_2_3_8#v3_8_1_9); [8, 2, 3](Book_2_3_8#v3_8_2_3).
+[^702]: 289:4 O quizás, 'y su conquista entera estando libre de peligro y daño;' o, 'habiéndose obtenido completamente seguridad y paz (abhayam anâsh<i>t</i>ram)'. Cf. [IV, 3, 3, 5](../Book_2_4_3#v4_3_3_5); también [III, 6, 3, 11](../Book_2_3_6#v3_6_3_11); [8, 1, 9](../Book_2_3_8#v3_8_1_9); [8, 2, 3](../Book_2_3_8#v3_8_2_3).
 
-[^703]: 290:1 El Âgraya<i>n</i>a se toma más bien de dos corrientes de Soma, a saber: de la que vierte el sacrificador desde la copa del Hotri al Dro<i>n</i>akala<i>s</i>a, y de otra vertida por el Unnet<i>ri</i>, y que consiste en Soma tomado del Âdhavanîya o, según otros, en el residuo de la libación del Upâ<i>m</i><i>s</i>u, que se había guardado temporalmente en el cuenco del Âgraya<i>n</i>a (véase [p. 255](Book_2_4_1#p255), nota [2](Book_2_4_1#fn618)), y que el Unnet<i>ri</i> debe vaciar en algún otro recipiente, cuando ese cuenco está a punto de usarse para la libación del Âgraya<i>n</i>a. Véase Kâty. IX, 6, 15 comm.
+[^703]: 290:1 El Âgraya<i>n</i>a se toma más bien de dos corrientes de Soma, a saber: de la que vierte el sacrificador desde la copa del Hotri al Dro<i>n</i>akala<i>s</i>a, y de otra vertida por el Unnet<i>ri</i>, y que consiste en Soma tomado del Âdhavanîya o, según otros, en el residuo de la libación del Upâ<i>m</i><i>s</i>u, que se había guardado temporalmente en el cuenco del Âgraya<i>n</i>a (véase [p. 255](../Book_2_4_1#p255), nota [2](../Book_2_4_1#fn618)), y que el Unnet<i>ri</i> debe vaciar en algún otro recipiente, cuando ese cuenco está a punto de usarse para la libación del Âgraya<i>n</i>a. Véase Kâty. IX, 6, 15 comm.
 
 [^704]: 291:1 La libación Âgraya<i>n</i>a se repite tanto al mediodía como en la fiesta de la tarde.
 
@@ -368,17 +368,17 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^707]: 293:1 Véase IV, 2, 4, 1 seq.
 
-[^708]: 293:2 Al final del festín matutino, el soma del cuenco Ukthya (sthâlî) se vierte en la copa Ukthya (pâtra) en tres porciones; y, tras ofrecer una parte de cada una, el jugo restante lo beben los asistentes del Hotri, a saber, el Prasâstri, el Brâhmaâ_khâmîsin y el Akhâvaka. Cada una de estas libaciones está precedida por el canto de un â<i>g</i>ya-stotra y la recitación del â<i>g</i>ya-sâstra (véase la página siguiente, nota [^708]). Pero antes de verter la porción del último sacerdote en su copa (<i>k</i>amasa), se bajan del carro plantas frescas de soma para prensarlas al mediodía; la mitad del agua restante de Vasatîvarî (o un tercio de la cantidad original) también se vierte en el abrevadero Âdhavanîya. Véase [III, 9, 2, 3](Book_2_3_9#v3_9_2_3).
+[^708]: 293:2 Al final del festín matutino, el soma del cuenco Ukthya (sthâlî) se vierte en la copa Ukthya (pâtra) en tres porciones; y, tras ofrecer una parte de cada una, el jugo restante lo beben los asistentes del Hotri, a saber, el Prasâstri, el Brâhmaâ_khâmîsin y el Akhâvaka. Cada una de estas libaciones está precedida por el canto de un â<i>g</i>ya-stotra y la recitación del â<i>g</i>ya-sâstra (véase la página siguiente, nota [^708]). Pero antes de verter la porción del último sacerdote en su copa (<i>k</i>amasa), se bajan del carro plantas frescas de soma para prensarlas al mediodía; la mitad del agua restante de Vasatîvarî (o un tercio de la cantidad original) también se vierte en el abrevadero Âdhavanîya. Véase [III, 9, 2, 3](../Book_2_3_9#v3_9_2_3).
 
 [^709]: 294:1 Es decir, lo último del primero de los dos últimos prensados, o del prensado del mediodía.
 
-[^710]: 294:2 Uktha, lit. 'recitación', es el término antiguo para 'sastra' ([IV, 3, 2, 1](Book_2_4_3#v4_3_2_1) seq.). Con respecto a los tres <i>s</i>astras de los Hotrakas, para cuya recitación el Ukthya graha se divide entre esos sacerdotes, véanse las notas sobre [IV, 3, 1, 25](Book_2_4_3#v4_3_1_25); [3, 3, 19](Book_2_4_3#v4_3_3_19).
+[^710]: 294:2 Uktha, lit. 'recitación', es el término antiguo para 'sastra' ([IV, 3, 2, 1](../Book_2_4_3#v4_3_2_1) seq.). Con respecto a los tres <i>s</i>astras de los Hotrakas, para cuya recitación el Ukthya graha se divide entre esos sacerdotes, véanse las notas sobre [IV, 3, 1, 25](../Book_2_4_3#v4_3_1_25); [3, 3, 19](../Book_2_4_3#v4_3_3_19).
 
-[^711]: 294:3 El texto de Kâ<i>n</i>va se lee tres veces «abhyardhe». Respecto a las fórmulas del puroru<i>k</i>, véase [p. 268](Book_2_4_1#p268), nota [1](Book_2_4_1#fn643).
+[^711]: 294:3 El texto de Kâ<i>n</i>va se lee tres veces «abhyardhe». Respecto a las fórmulas del puroru<i>k</i>, véase [p. 268](../Book_2_4_1#p268), nota [1](../Book_2_4_1#fn643).
 
-[^712]: 295:1 Véase [p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619).
+[^712]: 295:1 Véase [p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619).
 
-[^713]: 295:2 Es decir, vierte, para cada uno de los tres sacerdotes asistentes, su porción respectiva en el Ukthya-pâtra. Sin embargo, esta distribución no tiene lugar hasta el final de la ceremonia matutina; véase la nota a [IV, 2, 2, 4](Book_2_4_2#v4_2_2_4); [3, 1, 25](Book_2_4_3#v4_3_1_25).
+[^713]: 295:2 Es decir, vierte, para cada uno de los tres sacerdotes asistentes, su porción respectiva en el Ukthya-pâtra. Sin embargo, esta distribución no tiene lugar hasta el final de la ceremonia matutina; véase la nota a [IV, 2, 2, 4](../Book_2_4_2#v4_2_2_4); [3, 1, 25](../Book_2_4_3#v4_3_1_25).
 
 [^714]: 296:1 O, el que prospera a los dioses (es decir, el que prospera a los dioses), devâvî.
 
@@ -390,11 +390,11 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^718]: 298:2 Ambas libaciones están reservadas para la fiesta de la tarde.
 
-[^719]: 298:3 Véase [p. 288](Book_2_4_2#p288), nota [2](Book_2_4_2#fn696).
+[^719]: 298:3 Véase [p. 288](../Book_2_4_2#p288), nota [2](../Book_2_4_2#fn696).
 
 [^720]: 299:1 ? Tasmâd brâhma<i>n</i>o 'gnish<i>t</i>omasat syât. El significado obvio de esta oración es: «por lo tanto, quien celebra el Agnish<i>t</i>oma debe ser un brahmán», o, quizás, «por lo tanto, un brahmán debe celebrar el Agnish<i>t</i>oma»; pero no veo cómo puede tener ese significado aquí, sin al menos un doble sentido en el término «agnish<i>t</i>omasad», «Agnish<i>t</i>oma» en ese caso («la alabanza de Agni») refiriéndose tanto al sacrificio en general como al canto (stoma o stotra). Véase la siguiente nota. Mi manuscrito. Desafortunadamente, el comentario de Sâya<i>n</i>a (de la biblioteca del Mahârâ<i>g</i>a de Bikaner) tiene una omisión aquí.
 
-[^721]: 299:2 Viz. de las Sadas; 'ni<i>h</i>sarpet', texto de Kâ<i>n</i>va. El verbo sarp, 'deslizarse o arrastrarse', se usa técnicamente para un modo peculiar y silencioso de abandonar (ni<i>h</i>sarp) las Sadas y regresar allí (prasarp o pratisarp, véase el [párrafo 10](Book_2_4_2#v4_2_4_10)), y acercarse respetuosamente a los fuegos dhish<i>n</i>ya. Si debe interpretarse aquí en ese sentido, la primera prohibición parecería referirse al Hot<i>ri</i> (cf. Ait. Br. II, 21, donde se discute si el Hot<i>ri</i> debe o no (p. 300) dirigirse al lugar de canto con los demás sacerdotes, y la decisión es negativa); Ya que el sacrificador, a quien se refiere la segunda prohibición (Kâty. IX, 6, 23), los acompaña, según [IV, 2, 5, 4](Book_2_4_2#v4_2_5_4). Según el comentario sobre Kâty. IX, 6, 33, al realizar la sarpa<i>n</i>a, los sacerdotes y el sacrificador deben caminar sentados en el banquete de la mañana; caminando encorvados en el banquete del mediodía; y erguidos en el banquete de la tarde.
+[^721]: 299:2 Viz. de las Sadas; 'ni<i>h</i>sarpet', texto de Kâ<i>n</i>va. El verbo sarp, 'deslizarse o arrastrarse', se usa técnicamente para un modo peculiar y silencioso de abandonar (ni<i>h</i>sarp) las Sadas y regresar allí (prasarp o pratisarp, véase el [párrafo 10](../Book_2_4_2#v4_2_4_10)), y acercarse respetuosamente a los fuegos dhish<i>n</i>ya. Si debe interpretarse aquí en ese sentido, la primera prohibición parecería referirse al Hot<i>ri</i> (cf. Ait. Br. II, 21, donde se discute si el Hot<i>ri</i> debe o no (p. 300) dirigirse al lugar de canto con los demás sacerdotes, y la decisión es negativa); Ya que el sacrificador, a quien se refiere la segunda prohibición (Kâty. IX, 6, 23), los acompaña, según [IV, 2, 5, 4](../Book_2_4_2#v4_2_5_4). Según el comentario sobre Kâty. IX, 6, 33, al realizar la sarpa<i>n</i>a, los sacerdotes y el sacrificador deben caminar sentados en el banquete de la mañana; caminando encorvados en el banquete del mediodía; y erguidos en el banquete de la tarde.
 
 [^722]: 300:1 Tad u tad ya; amânasyaiva. Texto Kâ<i>n</i>va.
 
@@ -402,7 +402,7 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^724]: 300:3 El texto de Kâ<i>n</i>va tiene 'ya<i>s</i>asvî'.
 
-[^725]: 300:4 Véase [p. 99](Book_2_3_4#p99), nota [2](Book_2_3_4#fn261).
+[^725]: 300:4 Véase [p. 99](../Book_2_3_4#p99), nota [2](../Book_2_3_4#fn261).
 
 [^726]: 300:5 El manuscrito Kâ<i>n</i>va (W.) dice: 'agnish<i>t</i>omasad etad yása<i>h</i> sannidhâyata pág. 301 etasmât parâ<i>ñ</i><i>k</i>o ya<i>s</i>áso (sic) bhavanti' ('se alejan de aquel glorioso').
 
@@ -412,19 +412,19 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^729]: 302:1 <i>S</i>vâpada, lit. bestias 'con patas de perro'.
 
-[^730]: 303:1 Véase [IV, 2, 5, 15](Book_2_4_2#v4_2_5_15) seq.
+[^730]: 303:1 Véase [IV, 2, 5, 15](../Book_2_4_2#v4_2_5_15) seq.
 
 [^731]: 303:2 'Ellos (los dioses) entonces hicieron que el carro del sur fuera firme a partir de (o por medio de) el carro del norte'. Texto de Kâ<i>n</i>va.
 
 [^732]: 303:3 Es más probable que el Dhruva (firme, constante) derive su nombre del hecho de que permanece intacto hasta el final del Agnish<i>t</i>oma, como lo sugiere el Diccionario de Petersburgo.
 
-[^734]: 304:1 Es decir, en la fiesta de la tarde, cuando el Adhvaryu vierte el Soma del Dhruva-sthâlî en la copa del Hot<i>ri</i> ([párrafo 23](Book_2_4_2#v4_2_4_23)).
+[^734]: 304:1 Es decir, en la fiesta de la tarde, cuando el Adhvaryu vierte el Soma del Dhruva-sthâlî en la copa del Hot<i>ri</i> ([párrafo 23](../Book_2_4_2#v4_2_4_23)).
 
-[^735]: 304:2 Véase [p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619). Los párrafos anteriores anticipan los futuros ritos relativos a esta libación, cuyo sorteo original se describe ahora.
+[^735]: 304:2 Véase [p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619). Los párrafos anteriores anticipan los futuros ritos relativos a esta libación, cuyo sorteo original se describe ahora.
 
-[^736]: 305:1 Habiéndose tomado las libaciones (grahas), y habiéndose vertido el agua de Nigrâbhyâ restante, mezclada con jugo de Soma, de la copa del Hot<i>ri</i> en el Dro<i>n</i>akala<i>s</i>a ([p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619)), el Adhvaryu, Pratiprasthât<i>ri</i>; Prastot<i>ri</i>, Udgât<i>ri</i>, Pratihart<i>ri</i> y el Sacrificador salen del cobertizo de Havirdhâna, cada uno siguiendo a uno tocando el borde de la vestimenta del que está delante de él, y se dirigen al altar.
+[^736]: 305:1 Habiéndose tomado las libaciones (grahas), y habiéndose vertido el agua de Nigrâbhyâ restante, mezclada con jugo de Soma, de la copa del Hot<i>ri</i> en el Dro<i>n</i>akala<i>s</i>a ([p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619)), el Adhvaryu, Pratiprasthât<i>ri</i>; Prastot<i>ri</i>, Udgât<i>ri</i>, Pratihart<i>ri</i> y el Sacrificador salen del cobertizo de Havirdhâna, cada uno siguiendo a uno tocando el borde de la vestimenta del que está delante de él, y se dirigen al altar.
 
-[^737]: 305:2 El vipru<i>d</i>-homa, una oblación expiatoria por el soma derramado durante el prensado, consiste en una cucharada de pra<i>k</i>aranî llena de ghee. Según Â<i>s</i>v. V, 2, 6 y Lâ<i>t</i>y. I, 11, 9, parecería que cada uno de los que toman parte en el Sarpa<i>n</i>a (ver [p. 299](Book_2_4_2#p299), nota [2](Book_2_4_2#fn719)) hace dos oblaciones (llamadas 'prav<i>ri</i>tta-homa' por Lâ<i>t</i>y. Sr. y Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a Br.).
+[^737]: 305:2 El vipru<i>d</i>-homa, una oblación expiatoria por el soma derramado durante el prensado, consiste en una cucharada de pra<i>k</i>aranî llena de ghee. Según Â<i>s</i>v. V, 2, 6 y Lâ<i>t</i>y. I, 11, 9, parecería que cada uno de los que toman parte en el Sarpa<i>n</i>a (ver [p. 299](../Book_2_4_2#p299), nota [2](../Book_2_4_2#fn719)) hace dos oblaciones (llamadas 'prav<i>ri</i>tta-homa' por Lâ<i>t</i>y. Sr. y Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a Br.).
 
 [^738]: 306:1 El autor parece interpretar 'Grâva-<i>k</i>yuta' en el sentido de puesto en movimiento por la piedra (presionándola). El Rig-veda lee 'bâhu-<i>k</i>yuta;' también 'dhisha<i>n</i>âyâ<i>h</i>' en lugar de 'dhisha<i>n</i>ayo<i>h</i>.'
 
@@ -442,7 +442,7 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^745]: 307:4 Es decir, sin repetir esa fórmula, de la misma manera que los cantos de Pavamâna se interpretan sin repetir versos individuales. Véase [p. 308](#p308), nota [^745].
 
-[^746]: 307:5 El primer stotra en cada prensado se llama pavamâna (purificador, es decir, durante cuyo canto el Soma se clarifica), a saber: el Bahishpavamâna por la mañana, el Mâdhyandina pavamâna al mediodía y el Ârbhava (o t<i>ri</i>tîya) pavamâna en el prensado vespertino. Los demás stotras se llaman Dhurya, 'ser enjaezado, perteneciente a o formar un equipo'. Para la correspondencia entre el stotra y el <i>s</i>astra, véase [p. 325](Book_2_4_3#p325), nota [2](Book_2_4_3#fn774).
+[^746]: 307:5 El primer stotra en cada prensado se llama pavamâna (purificador, es decir, durante cuyo canto el Soma se clarifica), a saber: el Bahishpavamâna por la mañana, el Mâdhyandina pavamâna al mediodía y el Ârbhava (o t<i>ri</i>tîya) pavamâna en el prensado vespertino. Los demás stotras se llaman Dhurya, 'ser enjaezado, perteneciente a o formar un equipo'. Para la correspondencia entre el stotra y el <i>s</i>astra, véase [p. 325](../Book_2_4_3#p325), nota [2](../Book_2_4_3#fn774).
 
 [^747]: 308:1 Esta es la interpretación de Sâya<i>n</i>a de 'upâvartadhvam', en lugar de 'acércate', como lo traduje en I, 5, 2, 12. Probablemente tiene razón al conectarlo con las repeticiones que ciertos versos tienen que sufrir en los dhurya-stotras.
 
@@ -452,16 +452,16 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
   Humm abccc
   O 2\. Hu<i>m</i> aaabc
   Hu<i>m</i> abc ('apârâ' u 'otro, segundo').
-  Hu<i>m</i> abbbccc <span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+  Hu<i>m</i> abbbccc <span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
   O 3. Hu<i>m</i> abc
   Hu<i>m</i> abbbc esta forma se llama 'udyatî', o la ascendente.
   Mmm aaabccc
   Los tres paryâyas de un estoma (o vish<i>t</i>uti) muestran cada uno tres subdivisiones (aaa—b—c, las del primer paryâya mencionado), llamadas vish<i>t</i>ava. Cuando los Udgât<i>ri</i>s están a punto de comenzar un canto, el Prastot<i>ri</i> extiende entre ellos una tela, doblada de modo que el fleco sin tejer cubra el orillo, ya sea hacia el este o el norte. Sobre ella, marca las subdivisiones de los círculos con palos (ku<i>s</i>â), de un palmo de largo, de algún tipo de madera apta para sacrificios, partidos longitudinalmente por la médula (dejando la corteza afuera) y ligeramente puntiagudos en un extremo, untados con alguna sustancia aromática y envueltos individualmente en trozos del mismo tipo de tela que los extendidos en el suelo. La marcación de los vish<i>t</i>âvas, o subdivisiones, se realiza al final del prastâva o preludio (véase la página siguiente, nota [^747]) de esta manera, que cada vish<i>t</i>âva se marca con tantos palos como el verso correspondiente tenga que repetirse; los del primer vish<i>t</i>âva se colocan con la punta hacia el norte, luego detrás o al oeste de ellos los del segundo giro con la punta hacia el oeste, y detrás de ellos los del tercer giro con la punta hacia el norte. A continuación, los de las otras dos rondas se colocan de la misma manera, cada giro al norte del anterior. Por lo tanto, la disposición de los palos para la primera de las variedades anteriores del pa<i>ñ</i><i>k</i>ada<i>s</i>a-stoma sería tres rectos, uno transversal, uno recto; uno recto, tres transversales, uno recto; uno recto, uno transversal, tres rectos.
-  Con la excepción del Bahishpavamâna, el canto se realiza en los Sadas al lado del poste de Udumbara (ver [III, 6, 1, 2](Book_2_3_6#v3_6_1_2) seq.), este último también está envuelto en una tela de la descripción anterior, envuelta alrededor de él de izquierda a derecha, con la franja sin tejer hacia la parte superior.
+  Con la excepción del Bahishpavamâna, el canto se realiza en los Sadas al lado del poste de Udumbara (ver [III, 6, 1, 2](../Book_2_3_6#v3_6_1_2) seq.), este último también está envuelto en una tela de la descripción anterior, envuelta alrededor de él de izquierda a derecha, con la franja sin tejer hacia la parte superior.
 
 [^749]: 309:1 Cfr. Tâ<i>n</i><i>d</i>ya Br. VI, 7, 24.
 
-[^750]: 310:1 El Bahishpavamâna-(stotra), o 'pavamâna exterior', llamado así porque (el primer día de un sacrificio de Soma) se realiza fuera del altar (comentario sobre Pa<i>ñ</i><i>k</i>av. Br. VI, 8, 10-11; o fuera de los Sadas, Sây. sobre Sâmav. S. p. 47), se canta en el Triv<i>ri</i>t, o triple stoma; consta, como lo hace, de tres tercetos gâyatrî (Sâmav. II, 1-9 para el Agnish<i>t</i>oma), y ninguno de sus versos se canta más de una vez. Este stoma tiene tres variedades diferentes, a saber: el udyatî, o modo ascendente, cuya primera vuelta consta de los primeros versos de los tres tercetos, la segunda vuelta de los segundos versos y la tercera vuelta de los últimos versos, de ahí a1 a2 a3\—b1 b2 b3\—c1 c2 c3; el parivartinî, o modo inverso, siguiendo el orden natural, a1 b1 c1\—a2 b2 c2\—a3 b3 c3; y el kulâyinî, o modo similar a una red, realizado en el orden a1 b1 c1\-b2 c2 a2\—c3 a3 b3. Cf. Haug, Transl. Ait. Br. p. 237, donde, sin embargo, estas formas se describen de forma bastante diferente. El término usado para el orden natural de los versos en el parivartinî vish<i>t</i>uti es 'parâ<i>k</i>î', es decir, hacia allá, directamente. De la afirmación del [párrafo 7](Book_2_4_2#v4_2_5_7) anterior, de que 'cantan directamente (parâk)', se podría inferir que ese modo particular de canto debería usarse para el Bahishpavamâna-stotra; pero el término 'parâk' también puede interpretarse como una referencia a cada uno de los varios versos que se cantan 'directamente', sin ninguna repetición. Haug, Transl. Ait. Br. p. 120, nota, comenta: 'Cada uno de estos versos está dividido en cuatro partes para el canto: _Prastâva_, i, e. Preludio, el primero precedido por _hum̃_, que cantará el Prastotar; _Udgîtha_, la parte principal del Sâman, precedida por <i>Om</i>, que cantará el Udgâtar; el _Pratihâra_, es decir, respuesta \[? más bien, detener, detener; cf. [IV, 3, 4, 22](Book_2_4_3#v4_3_4_22)\], introducido por _hum̃_, que cantará el Pratihartar; y el _Nidhana_, es decir, final, que cantarán los tres. Para que el estudiante se haga una idea de esta división, adjunto aquí el segundo de estos <i>ri</i><i>k</i>as en la forma Sâman, distinguiendo sus cuatro partes:
+[^750]: 310:1 El Bahishpavamâna-(stotra), o 'pavamâna exterior', llamado así porque (el primer día de un sacrificio de Soma) se realiza fuera del altar (comentario sobre Pa<i>ñ</i><i>k</i>av. Br. VI, 8, 10-11; o fuera de los Sadas, Sây. sobre Sâmav. S. p. 47), se canta en el Triv<i>ri</i>t, o triple stoma; consta, como lo hace, de tres tercetos gâyatrî (Sâmav. II, 1-9 para el Agnish<i>t</i>oma), y ninguno de sus versos se canta más de una vez. Este stoma tiene tres variedades diferentes, a saber: el udyatî, o modo ascendente, cuya primera vuelta consta de los primeros versos de los tres tercetos, la segunda vuelta de los segundos versos y la tercera vuelta de los últimos versos, de ahí a1 a2 a3\—b1 b2 b3\—c1 c2 c3; el parivartinî, o modo inverso, siguiendo el orden natural, a1 b1 c1\—a2 b2 c2\—a3 b3 c3; y el kulâyinî, o modo similar a una red, realizado en el orden a1 b1 c1\-b2 c2 a2\—c3 a3 b3. Cf. Haug, Transl. Ait. Br. p. 237, donde, sin embargo, estas formas se describen de forma bastante diferente. El término usado para el orden natural de los versos en el parivartinî vish<i>t</i>uti es 'parâ<i>k</i>î', es decir, hacia allá, directamente. De la afirmación del [párrafo 7](../Book_2_4_2#v4_2_5_7) anterior, de que 'cantan directamente (parâk)', se podría inferir que ese modo particular de canto debería usarse para el Bahishpavamâna-stotra; pero el término 'parâk' también puede interpretarse como una referencia a cada uno de los varios versos que se cantan 'directamente', sin ninguna repetición. Haug, Transl. Ait. Br. p. 120, nota, comenta: 'Cada uno de estos versos está dividido en cuatro partes para el canto: _Prastâva_, i, e. Preludio, el primero precedido por _hum̃_, que cantará el Prastotar; _Udgîtha_, la parte principal del Sâman, precedida por <i>Om</i>, que cantará el Udgâtar; el _Pratihâra_, es decir, respuesta \[? más bien, detener, detener; cf. [IV, 3, 4, 22](../Book_2_4_3#v4_3_4_22)\], introducido por _hum̃_, que cantará el Pratihartar; y el _Nidhana_, es decir, final, que cantarán los tres. Para que el estudiante se haga una idea de esta división, adjunto aquí el segundo de estos <i>ri</i><i>k</i>as en la forma Sâman, distinguiendo sus cuatro partes:
   \[La forma <i>ri</i><i>k</i> conectada es: Abhi te madhunâ payo—atharvâ<i>n</i>o a<i>s</i>i<i>s</i>rayur—deva<i>m</i> devâya devayu.\]
   '_Prastâva:_ abhi te madhunâ payo<i>m</i>.
   '_Udgîtha:_ om âtharvâ<i>n</i>o a<i>s</i>i<i>s</i>râdeyurva<i>m</i> devâyadâ. pág. 311
@@ -471,29 +471,29 @@ Dos veces toca el sthâlî con “Tú eres una ofrenda”; y en silencio lo deja
 
 [^751]: 311:1 Lâ<i>t</i>y. I, 12; II, 1; Tâ<i>n</i><i>d</i>ya Br. VI, 7 ss. dan los siguientes detalles: El Prastot<i>ri</i> toma el prastara (manojo de hierba, que representa al Sacrificador) del Adhvaryu y dice: «Brahman, cantaremos, ¡oh Pra<i>s</i>âstar!». Tras haber dado el asentimiento el Brahman y el Maitrâvaru<i>n</i>a (Â<i>s</i>v. V, 2, 12-14), el Prastot<i>ri</i> entrega el prastara al Udgât<i>ri</i>. Este último se toca el muslo derecho con él (o dobla la rodilla derecha sobre él) y comienza el canto con la fórmula: «Con el fuego de Agni, con el poder de Indra, con la brillantez de Sûrya, que Brihaspati te enjaece», etc. (Tâ<i>n</i><i>d</i>ya Br. I, 3, 5); tras lo cual murmura: «Haré comida», etc. (ib. 6); y, tras mirar hacia el pozo, un recipiente con agua y el sol, comienza el canto. Los tres cantores están sentados al oeste de Adhvaryu y Pratiprasthât<i>ri</i> (quienes los miran), a saber: El Udgât<i>ri</i> mira al norte, el Prastot<i>ri</i> al oeste y el Pratihart<i>ri</i> al sur (o sureste). Al oeste de ellos se sientan tres, cuatro o seis cantantes subordinados, o coristas (upagât<i>ri</i>), que acompañan el canto con voz grave, pronunciando «Ho». Al terminar el canto, el Udgât<i>ri</i> dice: «He preparado la comida» y hace que el sacrificador murmure la fórmula: «Eres un halcón», etc. (Pa<i>ñ</i><i>k</i>. Br. I, 3, 8). Tras lo cual toma un tallo de hierba del prastara, le corta la parte superior e inferior, de modo que tenga la longitud de cuatro pulgares, y lo arroja al pozo, diciendo: «Si ha sido cantado», etc. (ib. II, 1, 8). Luego vierten el agua del recipiente en el pozo, diciendo: «Te envío al mar», etc., y dan 3, 5, 7 o 9 pasos hacia el norte, fuera del altar (p. 312), tras lo cual se dirigen al Âgnîdhrîya. Durante el canto, el Unnetri vierte el jugo de soma del comedero del Âdhavanîya a través del colador en el Pûtabhri.
 
-[^752]: 312:1 El Agnîdh toma brasas del fuego Âgnîdhrîya y las coloca en los fogones dhish<i>n</i>ya, en el orden en que fueron encendidas. Véase [p. 148](Book_2_3_6#p148), nota [4](Book_2_3_6#fn392).
+[^752]: 312:1 El Agnîdh toma brasas del fuego Âgnîdhrîya y las coloca en los fogones dhish<i>n</i>ya, en el orden en que fueron encendidas. Véase [p. 148](../Book_2_3_6#p148), nota [4](../Book_2_3_6#fn392).
 
 [^753]: 312:2 Extiende una capa de hierba (ulapa) a lo largo de la 'columna' (la línea desde la mitad de la espalda hasta la mitad del lado delantero) del altar.
 
 [^754]: 312:3 Pa<i>s</i>u<i>m</i> hy âlipsyamâno (!) bhavati. Kâ<i>n</i>va MS.
 
-[^755]: 312:4 Tras tomar esta copa de Soma o libación (con la fórmula Vâ<i>g</i>. S. VII, 11) del Dro<i>n</i>a-kala<i>s</i>a o del Pûtabh<i>ri</i>t, se le pide al sacrificador que observe las diversas copas y vasos de Soma, como se establece [IV, 5, 6, 1](Book_2_4_5#v4_5_6_1) ss.; la Â<i>s</i>vina se observa en sexto lugar en orden (o cuarto de los grahas), no en décimo lugar (como era su orden de extracción). Véase [IV, 1, 5, 16](Book_2_4_1#v4_1_5_16).
+[^755]: 312:4 Tras tomar esta copa de Soma o libación (con la fórmula Vâ<i>g</i>. S. VII, 11) del Dro<i>n</i>a-kala<i>s</i>a o del Pûtabh<i>ri</i>t, se le pide al sacrificador que observe las diversas copas y vasos de Soma, como se establece [IV, 5, 6, 1](../Book_2_4_5#v4_5_6_1) ss.; la Â<i>s</i>vina se observa en sexto lugar en orden (o cuarto de los grahas), no en décimo lugar (como era su orden de extracción). Véase [IV, 1, 5, 16](../Book_2_4_1#v4_1_5_16).
 
-[^756]: 312:5 Véase [III, 7, 1, 19](Book_2_3_7#v3_7_1_19) seq.
+[^756]: 312:5 Véase [III, 7, 1, 19](../Book_2_3_7#v3_7_1_19) seq.
 
-[^757]: 313:1 O los (tres) Uktha-stotras (Sâmav. II, 55-62) y los <i>s</i>astras</i>, el rasgo característico del sacrificio Ukthya. Cf. [p. 325](Book_2_4_3#p325), nota; y [IV, 6, 3, 3](Book_2_4_6#v4_6_3_3).
+[^757]: 313:1 O los (tres) Uktha-stotras (Sâmav. II, 55-62) y los <i>s</i>astras</i>, el rasgo característico del sacrificio Ukthya. Cf. [p. 325](../Book_2_4_3#p325), nota; y [IV, 6, 3, 3](../Book_2_4_6#v4_6_3_3).
 
 [^758]: 313:2 El Shodāsā-stotra (Sāmav. II, 302-304), cantado en el ekavimāsā stoma, es el stotra característico del sacrificio Shodāsān. El término, que significa «con un decimosexto» (es decir, stotra), evidentemente se refiere originalmente al sacrificio, y posteriormente también se ha aplicado al stotra y al sāstra. Véase también Haug, Ait. Br. Transl., pág. 255, nota 2.
 
-[^759]: 313:3 En esta ocasión se realizan los mismos ritos que en el sacrificio del ciervo Agnîshomîya ([III, 6, 4, 1](Book_2_3_6#v3_6_4_1) seq.), a saber, desde el ceñido de la estaca ([III, 7, 1, 19](Book_2_3_7#v3_7_1_19)) hasta la elección del Hot<i>ri</i> ([III, 7, 4, 9](Book_2_3_7#v3_7_4_9)). Luego se eligen los demás sacerdotes, a saber: Adhvaryu (y Pratiprasthât<i>ri</i>), el Pra<i>s</i>âst<i>ri</i> (Maitrâvaru<i>n</i>a), el Brâhma<i>n</i>â_kh<i>a</i>m_sin, el Pot<i>ri</i>, el Nesh<i>t</i><i>ri</i>, el Âgnîdhra y, finalmente, el mismo sacrificador; después de lo cual cada uno de ellos hace dos oblaciones de elección (prav<i>ri</i>tahoma) de ghee, la primera con: 'Que yo sea agradable a la Palabra, agradable al Señor de la palabra: ¡Oh Palabra divina, qué palabra más dulce y placentera es la tuya, concédemela! ¡Salve a Sarasvatî!' El segundo, con: «¡Que la santa Sarasvatî, de abundantes poderes y rica en devoción, acepte favorablemente nuestro sacrificio!». Acto seguido, proceden con la ofrenda animal hasta la ofrenda del epiplón (vapâ) y la purificación ([III, 8, 2, 30](Book_2_3_8#v3_8_2_30)); después de lo cual todos los dieciocho sacerdotes y el sacrificador realizan el Sarpa<i>n</i>a (ver [p. 299](Book_2_4_2#p299), nota [2](Book_2_4_2#fn719)), es decir, se acercan a los ocho hogares dhish<i>n</i>ya (con las fórmulas Vâ<i>g</i>. S. V, 31 ad; 32 ad respectivamente), señalando entonces el Adhvaryu el Âhavanîya, el lugar Bahishpavamâna, el <i>K</i>âtvâla, etc. (con Vâ<i>g</i>. S. V, 32 e seq.); y tocando las Sadas y sus postes, y dirigiéndose a Sûrya (el sol), a los Ritvig (sacerdotes oficiantes) y a los hogares dhish<i>n</i>ya (con V, 33-34). Kâty. IX, 8, 8-25. Para los deberes de los Udgât<i>ri</i>s, véase Lâ<i>t</i>y. <i>S</i>r. II, 2, 10 y siguientes.
+[^759]: 313:3 En esta ocasión se realizan los mismos ritos que en el sacrificio del ciervo Agnîshomîya ([III, 6, 4, 1](../Book_2_3_6#v3_6_4_1) seq.), a saber, desde el ceñido de la estaca ([III, 7, 1, 19](../Book_2_3_7#v3_7_1_19)) hasta la elección del Hot<i>ri</i> ([III, 7, 4, 9](../Book_2_3_7#v3_7_4_9)). Luego se eligen los demás sacerdotes, a saber: Adhvaryu (y Pratiprasthât<i>ri</i>), el Pra<i>s</i>âst<i>ri</i> (Maitrâvaru<i>n</i>a), el Brâhma<i>n</i>â_kh<i>a</i>m_sin, el Pot<i>ri</i>, el Nesh<i>t</i><i>ri</i>, el Âgnîdhra y, finalmente, el mismo sacrificador; después de lo cual cada uno de ellos hace dos oblaciones de elección (prav<i>ri</i>tahoma) de ghee, la primera con: 'Que yo sea agradable a la Palabra, agradable al Señor de la palabra: ¡Oh Palabra divina, qué palabra más dulce y placentera es la tuya, concédemela! ¡Salve a Sarasvatî!' El segundo, con: «¡Que la santa Sarasvatî, de abundantes poderes y rica en devoción, acepte favorablemente nuestro sacrificio!». Acto seguido, proceden con la ofrenda animal hasta la ofrenda del epiplón (vapâ) y la purificación ([III, 8, 2, 30](../Book_2_3_8#v3_8_2_30)); después de lo cual todos los dieciocho sacerdotes y el sacrificador realizan el Sarpa<i>n</i>a (ver [p. 299](../Book_2_4_2#p299), nota [2](../Book_2_4_2#fn719)), es decir, se acercan a los ocho hogares dhish<i>n</i>ya (con las fórmulas Vâ<i>g</i>. S. V, 31 ad; 32 ad respectivamente), señalando entonces el Adhvaryu el Âhavanîya, el lugar Bahishpavamâna, el <i>K</i>âtvâla, etc. (con Vâ<i>g</i>. S. V, 32 e seq.); y tocando las Sadas y sus postes, y dirigiéndose a Sûrya (el sol), a los Ritvig (sacerdotes oficiantes) y a los hogares dhish<i>n</i>ya (con V, 33-34). Kâty. IX, 8, 8-25. Para los deberes de los Udgât<i>ri</i>s, véase Lâ<i>t</i>y. <i>S</i>r. II, 2, 10 y siguientes.
 
-[^760]: 314:1 Para los metros que componen el stotra Mâdhyandina-pavamâna, véase [p. 333](Book_2_4_3#p333), nota [1](Book_2_4_3#fn787).
+[^760]: 314:1 Para los metros que componen el stotra Mâdhyandina-pavamâna, véase [p. 333](../Book_2_4_3#p333), nota [1](../Book_2_4_3#fn787).
 
-[^761]: 315:1 El Ârbhava o T<i>ri</i>tîya-pavamâna stotra, Sâmav. II, 39-52 (véase nota sobre [IV, 3, 5, 24](Book_2_4_3#v4_3_5_24)), se compone de cinco partes, compuestas principalmente en las métricas Gâyatrî, Kakubh, Ush<i>n</i>ih, Anush<i>t</i>ubh y <i>G</i>agatî, respectivamente. Se canta en el Saptada<i>s</i>a-stoma, y ​​sus diecisiete versos se obtienen de la siguiente manera. El trío Gâyatrî (II, 39-41) se canta dos veces, en las melodías Gâyatra y Sa<i>m</i>hita, lo que suma seis versos. A continuación, los versos 42 y 44 se cantan una vez cada uno, en las melodías Sapha y Paushkala, respectivamente. A continuación, el trío II, 47-49, se canta dos veces, en las melodías S</i>yâvâ<i>s</i>va y Ândhîgava (seis versos). Y, finalmente, el trío II, 50-52, se canta una vez, en la melodía Kâva (tres versos). En total, diecisiete versos. Los versos 43, 45 y 46 del Sa<i>m</i>hita se omiten en el canto.
+[^761]: 315:1 El Ârbhava o T<i>ri</i>tîya-pavamâna stotra, Sâmav. II, 39-52 (véase nota sobre [IV, 3, 5, 24](../Book_2_4_3#v4_3_5_24)), se compone de cinco partes, compuestas principalmente en las métricas Gâyatrî, Kakubh, Ush<i>n</i>ih, Anush<i>t</i>ubh y <i>G</i>agatî, respectivamente. Se canta en el Saptada<i>s</i>a-stoma, y ​​sus diecisiete versos se obtienen de la siguiente manera. El trío Gâyatrî (II, 39-41) se canta dos veces, en las melodías Gâyatra y Sa<i>m</i>hita, lo que suma seis versos. A continuación, los versos 42 y 44 se cantan una vez cada uno, en las melodías Sapha y Paushkala, respectivamente. A continuación, el trío II, 47-49, se canta dos veces, en las melodías S</i>yâvâ<i>s</i>va y Ândhîgava (seis versos). Y, finalmente, el trío II, 50-52, se canta una vez, en la melodía Kâva (tres versos). En total, diecisiete versos. Los versos 43, 45 y 46 del Sa<i>m</i>hita se omiten en el canto.
 
 [^762]: 315:2 Paṅkti significa tanto 'un conjunto de cinco' como el metro paṅkti, que consiste en cinco pies octosílabos.
 
-[^763]: 315:3 Véase [p. 325](Book_2_4_3#p325), nota [2](Book_2_4_3#fn774).
+[^763]: 315:3 Véase [p. 325](../Book_2_4_3#p325), nota [2](../Book_2_4_3#fn774).
 
 [^764]: 315:4 Taitt. Br. I, 5, 11 los asigna a los Asvins, por la razón de que realizaban curaciones con ellos.
 

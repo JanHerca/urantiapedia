@@ -60,7 +60,7 @@ Sus ojos arden de ira y orgullo:
 Los bienes se ofrecen a la base. \*
 Paciencia, paciencia, palabras amables
 
-<span id="p443">[<sup><small>pág. 443</small></sup>]</span>
+<span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 
 Sus corazones ingratos nunca podrán alcanzar.
 El mundo le rinde honor.
@@ -179,7 +179,7 @@ Destelló en la diadema del monarca.
 Allí está el Ganges, su reina afluente.
 Y Sindhu [^944] fue visto por su señor,
 
-<span id="p444">[<sup><small>pág. 444</small></sup>]</span>
+<span id="p444"><sup><small>[ p. 444 ]</small></sup></span>
 
 Y todo arroyo y riachuelo famoso
 En la historia antigua lo ciñeron.
@@ -298,7 +298,7 @@ Todo el estupendo trabajo fue realizado.
 Por el ancho camino corrían los Vánars,
 Ni lo tambalearon con sus innumerables pisadas.
 
-<span id="p445">[<sup><small>pág. 445</small></sup>]</span>
+<span id="p445"><sup><small>[ p. 445 ]</small></sup></span>
 
 Exultante en la orilla del océano
 Vibhíshan se puso de pie y, con la maza en la mano,
@@ -419,7 +419,7 @@ Donde la voz gay de Koïl se escucha fuerte.
 Dicho esto, se alineó con arte bélico
 Cada cuerpo del host aparte.
 
-<span id="p446">[<sup><small>pág. 446</small></sup>]</span>
+<span id="p446"><sup><small>[ p. 446 ]</small></sup></span>
 
 «Allí en el centro», gritó Rama,
 'Sé el lugar de Angad al lado de Níla.
@@ -538,7 +538,7 @@ Sus interminables líneas inspeccionadas:
 Tampoco intentarían, por pura desesperación,
 Para contar las innumerables legiones que hay allí,
 
-<span id="p447">[<sup><small>pág. 447</small></sup>]</span>
+<span id="p447"><sup><small>[ p. 447 ]</small></sup></span>
 
 Ese valle lleno de gente, llanura y colina,
 Que presionaba sobre cada cueva y arroyo.
@@ -662,7 +662,7 @@ De guerreros criados en el bosque,
 ¿Quién dirige aquí su mirada despiadada?
 Y grita su terrible grito de batalla:
 
-<span id="p448">[<sup><small>pág. 448</small></sup>]</span>
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
 
 Cuya voz con el estruendo del trueno tiembla
 Todo Lanka, con sus arboledas y lagos
@@ -779,7 +779,7 @@ Y temblando ante su venida, huyeron.
 Allí le encantaba saciarse con sus enemigos.
 El viejo odio hereditario. [^951]
 
-<span id="p449">[<sup><small>pág. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 Mira, Gaja y Gaváksha muestran
 Su ansia de batalla contra el enemigo.
@@ -870,7 +870,7 @@ A él se aferra su favorito elegido.
 Esa cadena la debe a la gracia de Ráma,
 Y Tara y su lugar real.
 En él conoce el gran Sugríva,
-A quien Rama rescató de su enemigo. [1](Libro_6_30#fn952)
+A quien Rama rescató de su enemigo. [1](../Libro_6_30#fn952)
 
 
 
@@ -895,7 +895,7 @@ Cuyos consejeros son ciegos y necios.
 ¿No te atreves a aterrorizar a la muerte?
 Para tentar a tu monarca a la desesperación,
 
-<span id="p450">[<sup><small>pág. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 De cuyo mandato imperial se deriva
 ¿Deshonra y honor, riqueza y desgracia?
@@ -992,7 +992,7 @@ Y, avanzando en masa, la escala de la muralla,
 Ahora, oh mi Rey, su consorte cede,
 O armarte con la espada y el escudo.
 Esta elección te queda: elige entre
-Tu seguridad y la reina Maithil. [1](Libro_6_40#fn953)
+Tu seguridad y la reina Maithil. [1](../Libro_6_40#fn953)
 
 <figure class="table chapter-navigator">
   <table>

@@ -8,7 +8,46 @@ editor: markdown
 dateCreated: 2025-2-12T14:46:34Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Ernest William Barnes</text>		<text style="font-size:4px" x="61" y="125">Nueva York: The Macmillan Company, 1933</text>		<text style="font-size:9px" x="61" y="50">Teoría científica</text>		<text style="font-size:9px" x="61" y="60">y Religión:</text>		<text style="font-size:9px" x="61" y="70">El Mundo descrito</text>		<text style="font-size:9px" x="61" y="80">por la Ciencia </text>		<text style="font-size:9px" x="61" y="90">y la Interpretación</text>		<text style="font-size:9px" x="61" y="100">Espiritual</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">TEORÍA CIENTÍFICA Y</span><br><span class="text-h3">RELIGIÓN</span><br><em>El Mundo descrito por la Ciencia y</em><br><em>la Interpretación Espiritual</em><br>por<br><span class="text-h5">ERNEST WILLIAM BARNES</span><br>Se.D. Camb., Excmo. D.D. y Edin., Excmo. LL.D. Glas.,<br>F.R.S., Obispo de Birmingham<br>LAS CONFERENCIAS GIFFORD EN ABERDEEN<br>1927-1929<br>NUEVA YORK; LA COMPAÑÍA MACMILLAN<br>CAMBRIDGE, INGLATERRA; EN LA UNIVERSITY PRESS<br>1933<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Ernest William Barnes</text>
+		<text style="font-size:4px" x="61" y="125">Nueva York: The Macmillan Company, 1933</text>
+		<text style="font-size:9px" x="61" y="50">Teoría científica</text>
+		<text style="font-size:9px" x="61" y="60">y Religión:</text>
+		<text style="font-size:9px" x="61" y="70">El Mundo descrito</text>
+		<text style="font-size:9px" x="61" y="80">por la Ciencia </text>
+		<text style="font-size:9px" x="61" y="90">y la Interpretación</text>
+		<text style="font-size:9px" x="61" y="100">Espiritual</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">TEORÍA CIENTÍFICA Y</span><br>
+<span class="text-h3">RELIGIÓN</span><br>
+<em>El Mundo descrito por la Ciencia y</em><br>
+<em>la Interpretación Espiritual</em><br>
+por<br>
+<span class="text-h5">ERNEST WILLIAM BARNES</span><br>
+Se.D. Camb., Excmo. D.D. y Edin., Excmo. LL.D. Glas.,<br>
+F.R.S., Obispo de Birmingham<br>
+LAS CONFERENCIAS GIFFORD EN ABERDEEN<br>
+1927-1929<br>
+NUEVA YORK; LA COMPAÑÍA MACMILLAN<br>
+CAMBRIDGE, INGLATERRA; EN LA UNIVERSITY PRESS<br>
+1933<br>
+<br>
+</p>
+
+<br>
+
+
+
+
+
 ## Índice
 
 - [PRÓLOGO](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Foreword)
@@ -25,7 +64,7 @@ dateCreated: 2025-2-12T14:46:34Z
 	- [10. La posibilidad de la superstición](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_1#p10)
 	- [11. Las leyes de la naturaleza](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_1#p11)
 	- [12. El alcance de las conferencias](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_1#p12)
-- [LECTURA II. MATERIA](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_2)
+- [LECTU«Si no hubiera cuerpos sólidos no tendríamos geometría»ic_Theory_and_Religion/Lecture_2)
 	- [13. La definición de materia según el físico: la inercia](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_2#p13)
 	- [14. El principio de inercia de Galileo: un hecho experimental](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_2#p14)
 	- [15. La materia en la especulación antigua](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_2#p15)
@@ -83,7 +122,7 @@ dateCreated: 2025-2-12T14:46:34Z
 	- [65. La curvatura total o gaussiana de una superficie bidimensional](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p65)
 	- [66. Uso de superficies geodésicas para determinar las magnitudes de una variedad n-dimensional en un punto asignado](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p66)
 	- [67. La condición de que el espacio generalizado sea plano](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p67)
-	- [68. Aplicación a nuestro espacio tridimensional y a variedades n-dimensionales similares](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p68)
+	- [68. Aplicación a nuestro espacio tridimensional y a variedades n-dim«cuatro velocidades»](/«cuatro aceleraciones»_Barnes/Scientific_Theory_and_Religion/Lecture_4#p68)
 	- [69. La forma canónica del elemento lineal en el espacio generalizado de curvatura constante](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p69)
 	- [70. Algunas transformaciones de la forma canónica para el espacio tridimensional](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p70)
 	- [71. Una interpretación geométrica del espacio tridimensional de curvatura positiva constante](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_4#p71)
@@ -294,7 +333,7 @@ dateCreated: 2025-2-12T14:46:34Z
 		- [267. Los movimientos de los astros](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p267)
 		- [268. Estrellas binarias](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p268)
 		- [269. Binarias visuales y espectroscópicas](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p269)
-		- [270. La relación masa-luminosidad](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p270)
+		- [270. La relación masa-luminosi«generación espontánea»lliam_Barnes/Scientific_Theory_and_Religion/Lecture_11#p270)
 		- [271. Binarias eclipsantes](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p271)
 		- [272. El contraste entre las binarias visuales y espectroscópicas](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p272)
 		- [273. Las edades de las estrellas](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_11#p273)
@@ -427,7 +466,7 @@ dateCreated: 2025-2-12T14:46:34Z
 	- [389. Fluctuación](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p389)
 	- [390. Selección natural](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p390)
 	- [391. ¿Cómo surge la variabilidad?](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p391)
-	- [392. La posición de Weismann](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p392)
+	- [392. La posición de Weismann](/es/book/Ernest_Wil«REAL»arnes/Scientific_Theory_and_Religion/Lecture_15#p392)
 	- [393. Críticas al lamarckismo](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p393)
 	- [394. Los experimentos de Dürken](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p394)
 	- [395. Los experimentos de Johannsen: las fluctuaciones no se heredan](/es/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_15#p395)

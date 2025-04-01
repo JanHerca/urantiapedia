@@ -42,7 +42,7 @@ El título podría traducirse como «El anuncio sobre los espíritus», pero el 
 
 Si tuviera ante mí todo el proceso de investigación del Dr. Edkins, me alegraría considerarlo y no dudaría en cambiar mi opinión si viera motivos para hacerlo. Mientras tanto, lo que dice me alegra haber adoptado «El Anuncio sobre la Embriaguez» como título de este capítulo. Es la embriaguez, independientemente del licor que la provoque, lo que el rey de Kâu condena y denuncia.
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Lo que comúnmente entendemos por vino nunca fue mencionado por Kiû en los clásicos chinos, por lo que no puedo usar ese término. Tras investigar a fondo en este país, desde que recibí la carta del Dr. Edkins, no he encontrado nada que me haga pensar que el término chino no se traduzca correctamente como «bebidas espirituosas».
 
@@ -54,7 +54,7 @@ Con respecto a la frase Shâo <i>K</i>iû, considerada el término apropiado par
 
 Cuando vuestro reverente padre, el rey Wăn, sentó las bases de nuestro reino en la región occidental, emitió anuncios y advertencias a los príncipes de las diversas regiones, a todos sus altos oficiales, a sus asistentes y a los administradores de los asuntos, diciendo, mañana y tarde: «En los sacrificios deben emplearse bebidas espirituosas». Cuando el Cielo enviaba su decreto favorable y sentaba las bases de la eminencia de nuestro pueblo, las bebidas espirituosas solo se usaban en los grandes sacrificios. Cuando el Cielo envía sus terrores, y nuestro pueblo se ve así gravemente desorganizado y pierde su virtud, esto puede atribuirse invariablemente a su indulgencia con las bebidas espirituosas; sí, la ruina de los estados, pequeños y grandes, (por estos terrores), ha sido causada invariablemente por su culpa en el uso de bebidas espirituosas [^186].
 
-<span id="p175">[<sup><small>pág. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 'El rey Wăn amonestó e instruyó a los jóvenes nobles, que estaban encargados de algún cargo o de cualquier empleo, que no debían usar bebidas alcohólicas habitualmente; y en todos los estados, exigió que los mismos bebieran bebidas alcohólicas solo en ocasión de sacrificios, y que entonces presidiera la virtud para que no hubiera embriaguez [^187].'
 

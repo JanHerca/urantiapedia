@@ -92,7 +92,7 @@ Así lo digo.
 
 ## Notas al pie
 
-[^709]: 244:1 Esto también podría traducirse como: “aunque la comida pase por las manos de mil hombres antes de que la acepte”.
+[^709]: 244:1 Esto también podría traducirse como: «aunque la comida pase por las manos de mil hombres antes de que la acepte».
 
 [^710]: 244:2 Vêsâliya = vai<i>s</i>âlika. Los comentaristas ofrecen tres explicaciones para esta palabra: (1) marina, vi<i>s</i>âla<i>h</i> samudras tatrabhavâ<i>h</i>; (2) perteneciente al género llamado vi<i>s</i>âla; (3) grande, vi<i>s</i>âla.
 

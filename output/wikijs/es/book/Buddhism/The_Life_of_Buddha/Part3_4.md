@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p227">[<sup><small>pág. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 
 El rey Prasenajit tenía una hija llamada Virupa. Había alcanzado la edad casadera. Desafortunadamente, era extremadamente fea; ningún príncipe ni guerrero la quería por esposa, e incluso los comerciantes la miraban con recelo.
@@ -41,11 +41,11 @@ Pero poco después, un extranjero adinerado llegó a vivir a Cravasti. Se llamab
 
 Ganga se sintió muy halagado por la oferta de Prasenajit. Era de origen humilde y, aunque como comerciante había amasado una gran fortuna, jamás soñó con casarse con una princesa. Por lo tanto, aceptó la propuesta.
 
-“Entonces ven al palacio esta misma noche”, dijo el rey, “y lleva a mi hija a casa contigo”.
+«Entonces ven al palacio esta misma noche», dijo el rey, «y lleva a mi hija a casa contigo».
 
 Él obedeció. La noche era oscura, y la boda se celebró sin que Ganga viera a su prometida. Entonces Virupa acompañó a su esposo a su casa.
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 Ganga vio a su esposa al día siguiente. Su fealdad lo asustó. Quiso echarla de casa, pero no se atrevió; temía la venganza del rey. La mantuvo en casa, pero era prácticamente una prisionera; no se le permitía salir, bajo ningún concepto.
 
@@ -65,7 +65,7 @@ En ese mismo momento, en el parque de Jeta, el Maestro se preguntaba: "¿Quién 
 
 Gracias a su poder de adivinación, se enteró de la angustia de Virupa. Voló a la casa de Ganga y entró. Virupa seguía viva. El Maestro aflojó la cuerda que ella le había atado al cuello. Ella respiró hondo y miró a su alrededor. Reconoció al Maestro. Cayó a sus pies y le hizo una ofrenda piadosa. Entonces él dijo:
 
-“Mírate en un espejo, Virupa”.
+«Mírate en un espejo, Virupa».
 
 Ella obedeció. Lanzó un grito de alegría y asombro. Era tan hermosa como una hija de los dioses. De nuevo quiso adorar al Buda, pero él había desaparecido.
 
@@ -91,7 +91,7 @@ Grande es tu felicidad, amigo. ¿Qué hiciste que complaciera tanto a los dioses
 
 Y los dejó abruptamente. Estaba furioso y mortificado. Abrió de golpe la puerta de su casa; recorrió los pasillos, murmurando imprecaciones; pero, de repente, las maldiciones murieron en sus labios. Palideció de asombro. Ante él estaba una mujer de incomparable belleza. Sonreía. Poco a poco recobró el sentido; entonces él también sonrió y preguntó:
 
-“¡Oh, tú que apareces ante mí como una diosa radiante recién surgida de su lecho de flores! ¡Oh, amada! ¿Quién te hizo tan hermosa?”
+«¡Oh, tú que apareces ante mí como una diosa radiante recién surgida de su lecho de flores! ¡Oh, amada! ¿Quién te hizo tan hermosa?»
 
 Virupa le contó la historia. Desde ese día, ella y su esposo conocieron la verdadera felicidad, y ambos aprovecharon cada oportunidad para demostrar su fe en el Buda y mostrarle su gratitud.
 

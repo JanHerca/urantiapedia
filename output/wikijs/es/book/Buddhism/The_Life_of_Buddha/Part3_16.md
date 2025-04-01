@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>pág. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 
 El Maestro llegó a las orillas del Ganges, al lugar donde se estaba construyendo la ciudad de Pataliputra. Se inclinó ante los muros que empezaban a levantarse del suelo y exclamó:
@@ -43,7 +43,7 @@ Cruzó el río. Partió hacia Vaisali, pero en la aldea de Bailva enfermó grave
 
 Cuando se recuperó, salió de la casa que lo había albergado y se sentó en un lugar preparado cerca de la puerta. Ananda se acercó y se sentó a su lado.
 
-<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 «Mi Señor», dijo, «veo que has recuperado la salud. Cuando te encontré tan enfermo, me faltaron las fuerzas; me sentía débil. A veces no me daba cuenta de que el Maestro estaba enfermo. Y, sin embargo, me tranquilicé, pues recordé que no habías revelado tus intenciones respecto a la comunidad, y sabía que no entrarías en el nirvana sin revelarlas primero».
 
@@ -63,7 +63,7 @@ Por la tarde reunió a los monjes de Vaisali y les dirigió la palabra.
 
 Oh, monjes, conserven cuidadosamente el conocimiento que he adquirido y que les he enseñado, y sigan el camino recto para que la vida de santidad perdure por mucho tiempo, para la alegría y la salvación del mundo, para la alegría y la salvación de los dioses, para la alegría y la salvación de la humanidad. Unos meses más, y mi hora habrá llegado; tres meses más, y entraré en el nirvana. Yo me voy y ustedes permanecen. Pero nunca dejen de luchar, oh monjes. Quien no titubea en el camino de la verdad evita el nacimiento, evita la muerte, para siempre jamás evita el sufrimiento.
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Al día siguiente, volvió a vagar por la ciudad en busca de limosna; luego, con algunos discípulos, emprendió el camino hacia Kusinagara, donde había decidido entrar en el nirvana.
 

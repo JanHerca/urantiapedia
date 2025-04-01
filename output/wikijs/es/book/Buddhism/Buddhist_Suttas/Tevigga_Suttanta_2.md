@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 <span id="Corto"></span>
 
@@ -54,7 +54,7 @@ En esto, oh Vaseta, al dejar de lado el asesinato de lo vivo, se abstiene de des
 
 'Esto también, (&c., véase § II, 2.)[^2]
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 4\. Dejando a un lado la mentira, se abstiene de decir falsedades. Dice la verdad, y nunca se desvía de ella; fiel y digno de confianza, no perjudica a su prójimo con engaños.
 
@@ -92,7 +92,7 @@ En esto, oh Vaseta, al dejar de lado el asesinato de lo vivo, se abstiene de des
 
 Fin de los párrafos breves sobre la conducta.
 
-<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 <span id="Medio"></span>
 
@@ -108,7 +108,7 @@ Fin de los párrafos breves sobre la conducta.
 
 3\. 'O mientras que algunos Sama<i>n</i>a-Brahmanes, que viven de la comida proporcionada por los fieles, siguen adictos a presenciar espectáculos públicos: es decir, bailes, cantos, conciertos, representaciones teatrales, recitaciones, música instrumental, ceremonias fúnebres, tambores, bailes, gimnasia, volteretas, festines en honor a los muertos, combates entre elefantes, caballos, búfalos, toros, cabras, carneros, gallos y codornices, juegos de garrote, boxeo, lucha libre, esgrima, revistas, marchas y revistas de tropas. Él, por otro lado, se abstiene de tales espectáculos públicos.
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 'Esto también, (&c., véase § II, 2.)
 
@@ -120,7 +120,7 @@ Fin de los párrafos breves sobre la conducta.
 
 'Esto también, (&c., véase § II, 2.)
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 6\. 'O mientras que algunos Sama<i>n</i>a-Brâhmanes, que viven de la comida proporcionada por los fieles, siguen adictos al uso de artículos para el adorno personal: es decir, ungüentos; aceites aromáticos; baños perfumados; champús; espejos; antimonio para cejas y pestañas; flores; cosméticos; dentífricos; brazaletes; diademas; elegantes bastones; tiaras; espadas; paraguas; zapatillas bordadas; filetes; joyas; abanicos de cola de búfalo; y largas prendas blancas. Él, por otro lado, se abstiene del uso de tales artículos para el adorno personal.
 
@@ -130,7 +130,7 @@ Fin de los párrafos breves sobre la conducta.
 
 'Esto también, (&c., véase § II, 2)
 
-8\. 'O mientras que algunos Sama<i>n</i>a-Brâhmanes, que viven del alimento de los fieles, siguen adictos a las disputas: es decir, a decir: “¡Tú ignoras esta doctrina y disciplina, pero yo las entiendo!”. “¿Qué sabes tú de doctrina o disciplina?”. “¡Tú eres heterodoxo, pero yo soy ortodoxo!”. “¡Mi discurso es provechoso, pero el tuyo es inútil!”. “¡Lo que deberías decir <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> primero, dilo al final, y lo que deberías decir al final, dilo primero!”. “¡Lo que has estudiado durante tanto tiempo lo he refutado por completo!”. “¡Tus errores han quedado muy claros!”. “¡Estás deshonrado!”. “¡Vete y escapa de esta disputa; o si no, líbrate de tus dificultades!”. Él, por otro lado, se abstiene de tales disputas.
+8\. 'O mientras que algunos Sama<i>n</i>a-Brâhmanes, que viven del alimento de los fieles, siguen adictos a las disputas: es decir, a decir: «¡Tú ignoras esta doctrina y disciplina, pero yo las entiendo!». «¿Qué sabes tú de doctrina o disciplina?». «¡Tú eres heterodoxo, pero yo soy ortodoxo!». «¡Mi discurso es provechoso, pero el tuyo es inútil!». «¡Lo que deberías decir <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> primero, dilo al final, y lo que deberías decir al final, dilo primero!». «¡Lo que has estudiado durante tanto tiempo lo he refutado por completo!». «¡Tus errores han quedado muy claros!». «¡Estás deshonrado!». «¡Vete y escapa de esta disputa; o si no, líbrate de tus dificultades!». Él, por otro lado, se abstiene de tales disputas.
 
 'Esto también, (&c., véase § II, 2)
 
@@ -146,7 +146,7 @@ Fin de los párrafos breves sobre la conducta.
 
 Fin de los párrafos intermedios sobre la conducta.
 
-<span id="p196">[<sup><small>pág. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 <span id="Largo"></span>
 
@@ -174,7 +174,7 @@ Fin de los párrafos intermedios sobre la conducta.
 
 4\. 'O mientras que algunos Sama<i>n</i>a-Brahmanes, que viven de la comida proporcionada por los fieles, continúan ganándose la vida mediante artes bajas y prácticas mentirosas como estas: es decir, prediciendo—
 
-“Habrá un eclipse de luna”. “Habrá un eclipse de sol”. “Habrá un eclipse de planeta”. “El sol y la luna estarán en conjunción”. “El sol y la luna estarán en <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> oposición”. “Los planetas estarán en conjunción”. “Los planetas estarán en oposición”. “Habrá caída de meteoritos y destellos ardientes en la atmósfera”. “Habrá terremotos, rayos y relámpagos bifurcados”. “La salida y la puesta del sol, la luna o los planetas serán nubladas o despejadas”. Y luego: “El eclipse de luna tendrá tal y tal resultado”. “El eclipse de sol tendrá tal y tal resultado”. “El eclipse de luna tendrá tal y tal resultado”. La conjunción del Sol y la Luna tendrá tal y tal resultado. La oposición del Sol y la Luna tendrá tal y tal resultado. La conjunción de los planetas tendrá tal y tal resultado. La oposición de los planetas tendrá tal y tal resultado. La caída de meteoritos y los destellos ardientes en la atmósfera tendrán tal y tal resultado. Los terremotos, los rayos y los relámpagos bifurcados tendrán tal y tal resultado. La salida y puesta del Sol, la Luna o los planetas, nublados o despejados, tendrán tal y tal resultado.
+«Habrá un eclipse de luna». «Habrá un eclipse de sol». «Habrá un eclipse de planeta». «El sol y la luna estarán en conjunción». «El sol y la luna estarán en <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> oposición». «Los planetas estarán en conjunción». «Los planetas estarán en oposición». «Habrá caída de meteoritos y destellos ardientes en la atmósfera». «Habrá terremotos, rayos y relámpagos bifurcados». «La salida y la puesta del sol, la luna o los planetas serán nubladas o despejadas». Y luego: «El eclipse de luna tendrá tal y tal resultado». «El eclipse de sol tendrá tal y tal resultado». «El eclipse de luna tendrá tal y tal resultado». La conjunción del Sol y la Luna tendrá tal y tal resultado. La oposición del Sol y la Luna tendrá tal y tal resultado. La conjunción de los planetas tendrá tal y tal resultado. La oposición de los planetas tendrá tal y tal resultado. La caída de meteoritos y los destellos ardientes en la atmósfera tendrán tal y tal resultado. Los terremotos, los rayos y los relámpagos bifurcados tendrán tal y tal resultado. La salida y puesta del Sol, la Luna o los planetas, nublados o despejados, tendrán tal y tal resultado.
 
 'Él, por el contrario, se abstiene de buscar su sustento mediante artes tan bajas, mediante prácticas tan mentirosas.
 

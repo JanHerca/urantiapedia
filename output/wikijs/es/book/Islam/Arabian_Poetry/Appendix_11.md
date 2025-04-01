@@ -77,7 +77,7 @@ v. 27. Parece un tanto extraño que el poeta compare un avestruz con un esclavo 
 
 «De un avestruz macho de cabeza pequeña que visita los huevos de su hembra en Dhū-’l-‘ushayra, como el esclavo con una larga prenda de piel, cuyas orejas y nariz están completamente cortadas.»
 
-El señor Redhouse señala que «sólo podemos conjeturar por qué el poeta comparó las plumas del avestruz con una prenda de piel larga. Los esclavos eran negros en aquella época; y tal vez, al ser de África y sensibles al frío, usaban pieles (¿de piel de oveja?). La longitud exacta entendida por el “largo» del poeta dependería del tipo de chaqueta de piel, o túnica, que usaran los esclavos en los campamentos del desierto. Veinte pulgadas es _largo_ donde doce es lo habitual”.
+El señor Redhouse señala que «sólo podemos conjeturar por qué el poeta comparó las plumas del avestruz con una prenda de piel larga. Los esclavos eran negros en aquella época; y tal vez, al ser de África y sensibles al frío, usaban pieles (¿de piel de oveja?). La longitud exacta entendida por el «largo» del poeta dependería del tipo de chaqueta de piel, o túnica, que usaran los esclavos en los campamentos del desierto. Veinte pulgadas es _largo_ donde doce es lo habitual».
 
 <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 

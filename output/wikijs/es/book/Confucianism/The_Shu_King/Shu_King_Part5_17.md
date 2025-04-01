@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 ȜHÂI era el nombre del pequeño estado o territorio que se le había otorgado a Tû, el hermano menor del duque de Kâu. El nombre aún se conserva en el distrito de Shang-_ȝh_âi, departamento de _Z_û-ning, Ho-nan. Tû fue privado de su estado por su complicidad en la rebelión de Wû-_k_ăng; pero posteriormente se lo devolvió a su hijo Hû por este cargo. Hû se llama aquí Kung, término que simplemente denota su lugar en la lista de sus hermanos o primos. El rey Khăng y Hû eran primos, «hermanos» según el uso chino de los términos, y Hû, al ser el menor de los dos, se le llamaba Ȝhâi Kung, «el segundo o hermano menor» de Ȝhâi.
 

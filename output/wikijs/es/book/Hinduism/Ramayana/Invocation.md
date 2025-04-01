@@ -29,7 +29,7 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 [^0]
 
@@ -44,12 +44,12 @@ Ni siente sus pies el camino de la dicha alcanzar
 ¡Cuando la gloria de Ráma es cantada por el santo!
 
 El arroyo Rámáyan deja su fuente sagrada
-El mundo entero, del pecado y la mancha a la libertad. [1b](Libro_1_10#fn3)
+El mundo entero, del pecado y la mancha a la libertad. [1b](../Libro_1_10#fn3)
 El Príncipe de los Ermitaños es la montura progenitora,
 El señorial Ráma es el mar querido.
 
 ¡Gloria a aquel cuya fama es eternamente brillante!
-¡Gloria a él, santo hijo de Prachetas [2b](Libro_1_10#fn4)!
+¡Gloria a él, santo hijo de Prachetas [2b](../Libro_1_10#fn4)!
 cuyos labios puros beben con un deleite siempre nuevo
 El mar de néctar de las acciones realizadas por Ráma.
 

@@ -118,9 +118,9 @@ Así lo digo.
 
 [^912]: 306:3 Día.
 
-[^913]: 307:1 Ahâga<i>d</i>a = yathâk<i>ri</i>ta; cf. [pag. 131](Uttaradhyayana_24#p131), nota [7](Uttaradhyayana_24#fn337), 1.
+[^913]: 307:1 Ahâga<i>d</i>a = yathâk<i>ri</i>ta; cf. [pag. 131](../Uttaradhyayana_24#p131), nota [7](../Uttaradhyayana_24#fn337), 1.
 
-[^914]: 308:1 Éste es, según <i>S</i>îlâṅka, el significado de las palabras arai<i>m</i> rai<i>m</i> vâ, véase, sin embargo, arriba, [p. 111](Uttaradhyayana_21#p111), nota [1](Uttaradhyayana_21#fn287).
+[^914]: 308:1 Éste es, según <i>S</i>îlâṅka, el significado de las palabras arai<i>m</i> rai<i>m</i> vâ, véase, sin embargo, arriba, [p. 111](../Uttaradhyayana_21#p111), nota [1](../Uttaradhyayana_21#fn287).
 
 [^915]: 308:2 Véase Uttarâdhyayana, Lección XXXIV.
 

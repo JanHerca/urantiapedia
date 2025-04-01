@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 1\. «¿Cómo bendecimos por el fruto?» «Para el fruto del árbol, di: “¿Quién crea el fruto de la madera?», excepto el vino. Para el vino, di: «¿Quién crea el fruto de la vid?». Para los frutos de la tierra, di: «¿Quién crea el fruto de la tierra?», excepto el bocado. Para el bocado, di: «¿Quién saca el pan de la tierra?». Para las verduras, di: «¿Quién crea el fruto de la tierra?». R. Judá dice: «¿Quién crea diversas clases de hierbas?».
 

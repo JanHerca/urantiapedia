@@ -58,7 +58,7 @@ Dueño (de sus sentidos) y evitando el mal, no debe hacer daño a nadie, ni con 
 
 El hombre sabio que refrena sus sentidos y posee gran conocimiento, debe aceptar las cosas que se le dan libremente, siendo siempre circunspecto en cuanto a la aceptación de limosnas y absteniéndose de lo que le está prohibido aceptar. (13)
 
-<span id="p312">[<sup><small>pág. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Un verdadero monje no debe aceptar alimentos y bebidas que hayan sido especialmente preparados para él junto con la matanza de seres vivos. (14)
 
@@ -138,11 +138,11 @@ Así lo digo.
 
 [^919]: 310:2 Véase nota sobre IX, 1.
 
-[^920]: 311:1 El mismo símil aparece también en I, 3, 4, 18, arriba [p. 271](Sutrakritanga_1_3_4#p271).
+[^920]: 311:1 El mismo símil aparece también en I, 3, 4, 18, arriba [p. 271](../Sutrakritanga_1_3_4#p271).
 
-[^921]: 311:2 El mismo verso apareció arriba, I, 1, 4, 10, [p. 247](Sutrakritanga_1_1_4#p247).
+[^921]: 311:2 El mismo verso apareció arriba, I, 1, 4, 10, [p. 247](../Sutrakritanga_1_1_4#p247).
 
-[^922]: 311:3 Hemos tenido el mismo verso arriba, I, 3, 4, 20, [p. 271](Sutrakritanga_1_3_4#p271).
+[^922]: 311:3 Hemos tenido el mismo verso arriba, I, 3, 4, 20, [p. 271](../Sutrakritanga_1_3_4#p271).
 
 [^923]: 312:1 Éste es el significado de la frase pûtikarma na sêvêta.
 
@@ -154,7 +154,7 @@ Así lo digo.
 
 [^927]: 313:2 Los comentaristas conectan sâhu como adjetivo con dîvam, y añaden Tîrthakara, etc. como sujeto.
 
-[^928]: 313:3 Véase arriba, [p. 55](Uttaradhyayana_12#p55), nota [1](Uttaradhyayana_12#fn165).
+[^928]: 313:3 Véase arriba, [p. 55](../Uttaradhyayana_12#p55), nota [1](../Uttaradhyayana_12#fn165).
 
 [^929]: 313:4 Samadhi.
 

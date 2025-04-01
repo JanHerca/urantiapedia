@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 10. Si un esclavo, una mujer o un menor le lee el hallel [^386] a un hombre, éste debe repetir después de ellos \[palabra por palabra\] lo que han leído; [^387] pero es una deshonra para él. [^388] Si una persona adulta [^389] se lo lee \[el hallel\], sólo repite después de él \[responde\] Aleluya.
 
-<span id="p137">[<sup><small>pág. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 § 11. En un lugar donde se acostumbra repetir los versos dos veces, se deben repetir. Donde se acostumbra simplemente recitarlos una vez, se debe recitar una sola vez. Donde se acostumbra decir una bendición después del loolab, se debe decir la bendición. En todos los casos, según la costumbre del país, se debe cumplir. Si alguien compra un loolab a su vecino durante el séptimo año sabático, el vendedor debe obsequiarle una cidra como regalo; ya que no está permitido comprar cidra durante el séptimo año sabático.
 

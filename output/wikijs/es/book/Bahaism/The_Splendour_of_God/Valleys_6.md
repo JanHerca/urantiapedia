@@ -68,7 +68,7 @@ Porque algunos se han aferrado a la razón y niegan todo lo que no puede ser com
 
 ¿Cómo puede la razón finita comprender el Corán? ¿Cómo puede una araña cazar un simurg?
 
-\[Un “Simurg”: un grifo; un ave fabulosa; la concepción de la ave más grande y rara; mitológicamente concebida como habitante de los elevados picos del Monte Cáucaso.\]
+\[Un «Simurg»: un grifo; un ave fabulosa; la concepción de la ave más grande y rara; mitológicamente concebida como habitante de los elevados picos del Monte Cáucaso.\]
 
 “Todos estos mundos (es decir, condiciones) se presentarán en el Valle del Asombro, y, a cada momento, el viajero busca un aumento de ellos, sin agotarse.
 
@@ -80,7 +80,7 @@ Asimismo, reflexiona sobre la completitud de la creación del hombre: todos esto
 
 Es necesario entonces un esfuerzo para aniquilar la condición animal, para que el significado de lo humano pueda manifestarse.
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Del mismo modo Lokman, que bebió de la fuente de la Sabiduría y probó del mar de la Misericordia, al demostrar los estados de resurrección a su hijo Natán, dio el sueño como prueba y lo aplicó como ilustración.
 
@@ -100,7 +100,7 @@ Este discurso quedó incompleto. Estoy descorazonado y abatido. ¡Oh, ten pacien
 
 La pluma se lamenta y la tinta llora, y el río del corazón rueda con olas de sangre.
 
-<span id="p77">[<sup><small>pág. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 ¡Nada nos sucederá excepto lo que Dios ha decretado para nosotros!
 

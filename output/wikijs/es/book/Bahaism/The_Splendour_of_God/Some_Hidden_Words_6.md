@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Ustedes son los árboles de mi Jardín; deben dar frutos frescos y hermosos, para que ustedes y otros se beneficien de ellos. Por lo tanto, es necesario que se dediquen a las artes y a los negocios.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
-<span id="p212">[<sup><small>pág. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 ## CAPÍTULO VI
 

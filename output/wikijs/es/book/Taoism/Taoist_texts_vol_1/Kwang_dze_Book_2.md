@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p176">[<sup><small>pág. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 LIBRO II.
 
@@ -60,7 +60,7 @@ Pero el habla no es como el soplo (del viento); el hablante tiene (un significad
 
 Todos los temas pueden ser vistos desde (dos puntos de vista), —desde ese y desde este. Si miro algo desde el punto de vista de otro, no lo veo; solo lo conozco como yo mismo lo conozco. Por lo tanto se dice, 'Esa visión proviene de esto; y esta visión es una consecuencia de aquello': —que es la teoría de que esa visión y esta —(las visiones opuestas)— se producen mutuamente [^90]. Aunque sea así, se afirma ahora la vida y ahora la muerte; ahora la muerte y ahora la vida; ahora la admisibilidad de algo y ahora su inadmisibilidad; ahora su inadmisibilidad y ahora su admisibilidad. (Los disputantes) ahora afirman y ahora niegan; ahora niegan y ahora afirman. Por lo tanto, el hombre sabio no sigue este método, sino que ve las cosas a la luz de (su) Cielo [^91] (-naturaleza), y de ahí forma su juicio de lo que es correcto.
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Esta perspectiva es la misma que aquella, y aquella perspectiva es la misma que esta. Pero aquella perspectiva implica tanto lo correcto como lo incorrecto; y esta perspectiva también implica lo correcto y lo incorrecto: ¿existen realmente, o no existen, las dos perspectivas, aquella y esta? No han encontrado su punto de correspondencia, llamado el eje del Tao. En cuanto uno encuentra este eje, se sitúa en el centro del círculo (del pensamiento), donde puede responder sin cesar a las opiniones cambiantes; sin cesar a las que afirman, y sin cesar a las que niegan. Por eso dije: «No hay nada como la luz adecuada (de la mente)».
 
@@ -74,7 +74,7 @@ Cuando nos esforzamos con espíritu e inteligencia, obstinadamente <span id="p18
 
 Una tercera clase sostenía que existía tal reconocimiento, pero que no había comenzado a haber ninguna expresión de opiniones diferentes al respecto.
 
-<span id="p186">[<sup><small>pág. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Fue a través de la expresión definida de diferentes opiniones al respecto que se produjo un daño a la doctrina del Tao. Fue este daño a la doctrina del Tao lo que condujo a la formación de preferencias parciales. ¿Fue realmente después de la formación de dichas preferencias que el daño se produjo? ¿O el daño precedió a su surgimiento? Si el daño surgió después de su formación, el método de Kâo para tocar el laúd era natural. Si el daño surgió antes de su formación, no habría existido una forma de tocar el laúd como la de Kâo [^98].
 
@@ -88,7 +88,7 @@ Hubo un principio. Hubo un principio antes de ese principio [^101]. Hubo un prin
 
 Había existencia; no había habido existencia. No había existencia antes del comienzo de esa no existencia [^101]. No había existencia previa a la no existencia, antes del comienzo de la no existencia. Si de repente hubo inexistencia, no sabemos si realmente existía algo o si realmente no existía. He dicho lo que he dicho, pero no sé si lo que he dicho es realmente pertinente o no.
 
-<span id="p188">[<sup><small>pág. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Bajo el cielo no hay nada más grande que la cima de una colina otoñal, y la montaña Thai es pequeña. No hay nadie más longevo que un niño que muere prematuramente, y Phäng Zû no vivió su tiempo. El Cielo, la Tierra y yo fuimos creados juntos, y todas las cosas y yo somos uno. Puesto que son uno, ¿puede hablarse de ellos? Pero puesto que se habla de ellos como uno, ¿no debe haber espacio para el habla? Uno y Habla son dos; dos y uno son tres. Partiendo de esto (en nuestra enumeración), el más hábil calculador no puede alcanzar (el final de los números necesarios), ¡y cuánto menos puede hacerlo la gente común! Por lo tanto, de la no existencia procedemos a la existencia hasta llegar a tres; procediendo de existencia en existencia, ¿a cuántos deberíamos llegar? Abjuremos de tal procedimiento y simplemente detengámonos aquí [^102].
 
@@ -108,9 +108,9 @@ Nieh Khüeh dijo (además): «Señor, ya que usted desconoce lo que es ventajoso
 
 9\. Khü Zhiâo-dze [^118] le preguntó a Khang-wû Dze [^118], diciendo:
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
-'Escuché al Maestro (hablando de un lenguaje como el siguiente):—“El hombre sabio no se ocupa de los asuntos mundanos. No se interpone en el camino de lo que es provechoso, ni intenta evitar lo que es perjudicial; no tiene placer en buscar (nada de nadie); no le importa ser encontrado en ningún Camino (establecido); habla sin hablar; no habla cuando habla; encontrando así su disfrute fuera del polvo y la suciedad (del mundo)”. El Maestro consideró todo esto como un flujo sin orillas de meras palabras, y considero que describe el curso del Camino Misterioso.—¿Qué piensa usted, Señor, de esto?' Khang-wû dze respondió: 'Escuchar tales palabras habría perplejo incluso a Hwang-Tî, y ¿cómo podría Khiû ser competente para entenderlas? Y tú, además, eres demasiado apresurado en formar tu estimación (de su significado). Ves el huevo, y (inmediatamente) buscas al gallo (que ha de salir de él); Ves el arco y (de inmediato) buscas la paloma (que va a ser derribada por él) que se está asando. Intentaré explicártelo a grandes rasgos; escúchame también.
+'Escuché al Maestro (hablando de un lenguaje como el siguiente):—«El hombre sabio no se ocupa de los asuntos mundanos. No se interpone en el camino de lo que es provechoso, ni intenta evitar lo que es perjudicial; no tiene placer en buscar (nada de nadie); no le importa ser encontrado en ningún Camino (establecido); habla sin hablar; no habla cuando habla; encontrando así su disfrute fuera del polvo y la suciedad (del mundo)». El Maestro consideró todo esto como un flujo sin orillas de meras palabras, y considero que describe el curso del Camino Misterioso.—¿Qué piensa usted, Señor, de esto?' Khang-wû dze respondió: 'Escuchar tales palabras habría perplejo incluso a Hwang-Tî, y ¿cómo podría Khiû ser competente para entenderlas? Y tú, además, eres demasiado apresurado en formar tu estimación (de su significado). Ves el huevo, y (inmediatamente) buscas al gallo (que ha de salir de él); Ves el arco y (de inmediato) buscas la paloma (que va a ser derribada por él) que se está asando. Intentaré explicártelo a grandes rasgos; escúchame también.
 
 ¿Cómo podría alguien permanecer junto al sol y la luna, y controlar todo el espacio y el tiempo? (Tal lenguaje solo significa que el hombre sabio) mantiene la boca cerrada y deja de lado las preguntas inciertas y oscuras, uniendo sus capacidades inferiores a él en la veneración (al Señor Único). Los hombres, en general, se afanan y trabajan arduamente; el hombre sabio parece estúpido e ignorante [^119]. Combina diez mil años en una sola (concepción del tiempo); la miríada de cosas siguen su curso espontáneo, y todas están ante él como si lo hicieran.
 

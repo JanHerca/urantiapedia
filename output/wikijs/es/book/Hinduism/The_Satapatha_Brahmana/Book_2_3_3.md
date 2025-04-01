@@ -83,7 +83,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_3_2_55"><sup><small>3:3:2:55.</small></sup></span> En primer lugar, eligen al rey (Soma). Se coloca un cántaro de agua cerca de él, y un brahmán se sienta a su lado [^175]. Hacia allá se dirigen (los sacerdotes y el sacrificador) hacia el este.
 
-<span id="v3_3_2_66"><sup><small>3:3:2:66.</small></sup></span> Mientras van allí, él (el Adhvaryu) hace <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> (al sacrificador) decir el texto (Vâ<i>g</i>. S. IV, 24): «Di, por mí, a Soma: “¡Esta es tu parte gâyatrî (bhâga) [^176]!”. Di, por mí, a Soma: “¡Esta es tu parte trish<i>t</i>ubh!”. Di, por mí, a Soma: “¡Esta es tu parte <i>g</i>ayatî!”. Dile a Soma por mí: "¡Consigue la suprema soberanía de los nombres de los metros!". Ahora bien, cuando él (el rey Soma) es comprado, lo es por un solo destino: por la soberanía de los metros, por la suprema soberanía de los metros; y cuando lo presionan, lo matan. Por eso le dice: "Es por la soberanía de los metros, por la suprema soberanía de los metros que te compro, no para matarte". Tras llegar allí, se sienta (detrás de Soma) con la cara hacia el este.
+<span id="v3_3_2_66"><sup><small>3:3:2:66.</small></sup></span> Mientras van allí, él (el Adhvaryu) hace <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> (al sacrificador) decir el texto (Vâ<i>g</i>. S. IV, 24): «Di, por mí, a Soma: «¡Esta es tu parte gâyatrî (bhâga) [^176]!». Di, por mí, a Soma: «¡Esta es tu parte trish<i>t</i>ubh!». Di, por mí, a Soma: «¡Esta es tu parte <i>g</i>ayatî!». Dile a Soma por mí: "¡Consigue la suprema soberanía de los nombres de los metros!". Ahora bien, cuando él (el rey Soma) es comprado, lo es por un solo destino: por la soberanía de los metros, por la suprema soberanía de los metros; y cuando lo presionan, lo matan. Por eso le dice: "Es por la soberanía de los metros, por la suprema soberanía de los metros que te compro, no para matarte". Tras llegar allí, se sienta (detrás de Soma) con la cara hacia el este.
 
 <span id="v3_3_2_77"><sup><small>3:3:2:77.</small></sup></span> Él toca (las plantas de Soma), con, 'Eres nuestra', —con lo cual él (Soma), ahora que ha venido (como invitado), se convierte por así decirlo en uno de los suyos (del sacrificador): por esta razón dice, 'Eres nuestra'; —'Tu (jugo) puro es apto para la bebida', pues ciertamente tomará de ahí la 'bebida pura [^178]'. '¡Que los recolectores te recojan!' esto lo dice para completar.
 
@@ -114,7 +114,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_3_3"><sup><small>3:3:3</small></sup></span>
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## TERCER BRAHMANA.
 
@@ -132,7 +132,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v3_3_3_77"><sup><small>3:3:3:77.</small></sup></span> Luego tienta [^187] al vendedor de soma (con el oro): «En compensación [^188] por tu vaca», con lo cual quiere decir: «¡Con el sacrificador (sea) tu vaca!». <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> Luego atrae el oro hacia el sacrificador y lo arroja al suelo, diciendo: «¡Nuestro sea tu oro!». Con lo cual él (el sacrificador) toma para sí la energía vital, y el vendedor de soma solo obtiene el cuerpo. Entonces, el vendedor de soma lo toma [^189].
 
-<span id="v3_3_3_88"><sup><small>3:3:3:88.</small></sup></span> Luego le hace decir (al sacrificador) sobre la cabra, que mira hacia el oeste: «Eres la imagen corporal del fervor». Esa cabra, en efecto, fue creada como la imagen corporal del fervor, de Pra<i>g</i>âpati; por eso dice: «Eres la imagen corporal del fervor», «de la especie de Pra<i>g</i>âpati», porque pare tres veces al año, por lo tanto, es de la especie de Pra<i>g</i>âpati. «Te compré con el animal más excelente», porque pare tres veces al año, es el más excelente de los animales. «¡Que pueda multiplicarme por mil!». Con ello implora una bendición: mil significa abundancia, y con ello quiere decir: “¡Que pueda obtener abundancia!”
+<span id="v3_3_3_88"><sup><small>3:3:3:88.</small></sup></span> Luego le hace decir (al sacrificador) sobre la cabra, que mira hacia el oeste: «Eres la imagen corporal del fervor». Esa cabra, en efecto, fue creada como la imagen corporal del fervor, de Pra<i>g</i>âpati; por eso dice: «Eres la imagen corporal del fervor», «de la especie de Pra<i>g</i>âpati», porque pare tres veces al año, por lo tanto, es de la especie de Pra<i>g</i>âpati. «Te compré con el animal más excelente», porque pare tres veces al año, es el más excelente de los animales. «¡Que pueda multiplicarme por mil!». Con ello implora una bendición: mil significa abundancia, y con ello quiere decir: «¡Que pueda obtener abundancia!»
 
 <span id="v3_3_3_99"><sup><small>3:3:3:99.</small></sup></span> Con ese (texto) entrega la cabra, con eso se lleva al rey [^190]; pues a<i>g</i>â (cabra) sin duda <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> significa lo mismo que â<i>g</i>â (conducir allá [^191]), ya que es a través de ella (la cabra) que finalmente lo conduce (a Soma) allí. Por lo tanto, en un sentido místico, la llaman 'a<i>g</i>â'.
 
@@ -245,7 +245,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^159]: 59:1 Literalmente, 'por una forma (rûpe<i>n</i>a) de Vâ<i>k</i> (habla),' es decir, el texto que se pronuncia.
 
-[^160]: 59:2 Esta difícilmente puede ser la lectura correcta. El texto de Kâ<i>n</i>va tiene la lectura más aceptable: «Bri</i>haspati es el Brahman, y la felicidad el sacrificio, y por ello dice: “¡Que el Brahman te haga descansar (o deleitarte, ramayatu) en la buena (obra), el sacrificio!”».
+[^160]: 59:2 Esta difícilmente puede ser la lectura correcta. El texto de Kâ<i>n</i>va tiene la lectura más aceptable: «Bri</i>haspati es el Brahman, y la felicidad el sacrificio, y por ello dice: «¡Que el Brahman te haga descansar (o deleitarte, ramayatu) en la buena (obra), el sacrificio!»».
 
 [^161]: 59:3 Según la comunicación sobre Kâty. VII, 6, 17, el Brahman y el Sacrificador deben sentarse en el sur, el Adhvaryu en el oeste y el Nesh<i>t</i><i>ri</i> en el lado norte de la huella.
 
@@ -257,7 +257,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^165]: 61:2 Véase el Diccionario de San Pedro sv totas. El texto del Kâ<i>n</i>va lo explica de manera similar: «tvayi tvayi pa<i>s</i>ava<i>h</i>». El Taitt. S. VI, 1, 8, 5 dice «Tote râya<i>h</i>»: «Tuya (?) es la riqueza», es decir, para la esposa, pues ella, la esposa, es la mitad de él.
 
-[^166]: 62:1 El texto de Kâ<i>n</i>va dice: “que pueda obtener héroes”.
+[^166]: 62:1 El texto de Kâ<i>n</i>va dice: «que pueda obtener héroes».
 
 [^167]: 62:2 Esta proeza aritmética de Indra y Vishnú aparentemente ya se menciona en el Rig-veda VI, 69, 8, aunque allí no se menciona la dificultad de la vaca extraña. La triple división parece referirse a los tres pasos de Vishnú, mediante los cuales (como el sol) mide el cielo; o a la división del universo en los tres mundos (?). Véase también Ait. Br. VI, 15.
 
@@ -277,13 +277,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^175]: 64:1 No creo que 'asya' pueda referirse al sacrificador, en oposición a 'etasya' (Soma); ni puede este último interpretarse con la siguiente cláusula relativa 'sa yo . . .' El texto de Kâ<i>n</i>va dice: Tad yad eva <i>s</i>obhanatama<i>m</i> tat somopanahana<i>m</i> syâd, vâso por asyaitad bhavati; sa yo haita<i>k</i> <i>kh</i>obhanatama<i>m</i> kurute, <i>s</i>obhate haiva sa<i>h</i>, etc.
 
-[^176]: 64:2 El Pratiprasthât<i>ri</i>, en primer lugar, toma las plantas de Soma (del vendedor) y las pone sobre una piel de buey, teñida de rojo y extendida en el suelo en el lugar (al este de la sala) donde se cavarán los 'agujeros de sondeo' (véase [III, 5, 4, 1](Book_2_3_5#v3_5_4_1) seq.). El vendedor del Soma, que debe ser de la tribu Kutsa o un <i>S</i>ûdra</i>, luego recoge el Soma, rompiendo las plantas en las articulaciones. Se coloca una jarra llena de agua frente al Soma, y ​​un Brahmán (o su asistente, es decir, el Brâhma<i>n</i>â_kh<i>a</i>m_sin) se sienta al lado (derecho o sur) del Soma. Kâty. VII, 6, 1-6.
+[^176]: 64:2 El Pratiprasthât<i>ri</i>, en primer lugar, toma las plantas de Soma (del vendedor) y las pone sobre una piel de buey, teñida de rojo y extendida en el suelo en el lugar (al este de la sala) donde se cavarán los 'agujeros de sondeo' (véase [III, 5, 4, 1](../Book_2_3_5#v3_5_4_1) seq.). El vendedor del Soma, que debe ser de la tribu Kutsa o un <i>S</i>ûdra</i>, luego recoge el Soma, rompiendo las plantas en las articulaciones. Se coloca una jarra llena de agua frente al Soma, y ​​un Brahmán (o su asistente, es decir, el Brâhma<i>n</i>â_kh<i>a</i>m_sin) se sienta al lado (derecho o sur) del Soma. Kâty. VII, 6, 1-6.
 
-[^177]: 65:1 Las tres partes se refieren a las tres Savanas, en las que se utilizan las métricas respectivas. Véase [IV, 3, 2, 7](Book_2_4_3#v4_3_2_7) ss.
+[^177]: 65:1 Las tres partes se refieren a las tres Savanas, en las que se utilizan las métricas respectivas. Véase [IV, 3, 2, 7](../Book_2_4_3#v4_3_2_7) ss.
 
-[^178]: 65:2 Bhâgam parece haberse perdido aquí, ya que parece haberse pretendido un juego de palabras con esa palabra, que tal vez podría reproducirse por sorteo. Aparece tanto en el texto de Kâ<i>n</i>va como en [III, 4, 1, 7](Book_2_3_4#v3_4_1_7).
+[^178]: 65:2 Bhâgam parece haberse perdido aquí, ya que parece haberse pretendido un juego de palabras con esa palabra, que tal vez podría reproducirse por sorteo. Aparece tanto en el texto de Kâ<i>n</i>va como en [III, 4, 1, 7](../Book_2_3_4#v3_4_1_7).
 
-[^179]: 65:3 Para el <i>S</i>ukra-graha, véase [IV, 2, 1, 1](Book_2_4_2#v4_2_1_1) seq.
+[^179]: 65:3 Para el <i>S</i>ukra-graha, véase [IV, 2, 1, 1](../Book_2_4_2#v4_2_1_1) seq.
 
 [^180]: 66:1 Ati<i>kh</i>andas ('sobre-metro') es el nombre genérico de los metros de más de cuarenta y ocho sílabas; por lo tanto, se dice que incluye todos los demás metros de menos sílabas. Véase VIII, 6, 2, 23, donde el término se explica por atti-<i>kh</i>andâ<i>h</i> (devorador de metros).
 
@@ -315,15 +315,15 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^194]: 72:3 «Para esos mismos Gandharvas, los supervisores de los Guardianes del Soma, ellos están destinados a sustituir a esos (¿montículos de hogar?), pues esos son sus nombres: es a ellos a quienes él asigna esos (objetos que constituyen el precio de compra), y así queda libre de deudas con ellos». Texto del Kâ<i>n</i>va. Véase también parte i, pág. 183, nota 2.
 
-[^195]: 73:1 Véase [III, 2, 1, 16](Book_2_3_2#v3_2_1_16). Su esposa hace lo mismo.
+[^195]: 73:1 Véase [III, 2, 1, 16](../Book_2_3_2#v3_2_1_16). Su esposa hace lo mismo.
 
-[^196]: 73:2 Según un pasaje anterior ([III, 1, 3, 28](Book_2_3_1#v3_1_3_28)), se supone que el sacrificador permanece en estado embrionario hasta el prensado del Soma. La recensión Kâ<i>n</i>va dice: 'Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;' donde 'a<i>g</i>î<i>g</i>anat' parece significar 'él ha engendrado'. No estoy muy seguro de si el propio Soma está realmente implicado. Véase [III, 3, 4, 6](Book_2_3_3#v3_3_4_6).
+[^196]: 73:2 Según un pasaje anterior ([III, 1, 3, 28](../Book_2_3_1#v3_1_3_28)), se supone que el sacrificador permanece en estado embrionario hasta el prensado del Soma. La recensión Kâ<i>n</i>va dice: 'Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;' donde 'a<i>g</i>î<i>g</i>anat' parece significar 'él ha engendrado'. No estoy muy seguro de si el propio Soma está realmente implicado. Véase [III, 3, 4, 6](../Book_2_3_3#v3_3_4_6).
 
 [^197]: 74:1 Compárese el verso ligeramente diferente, Rig-veda VI, 51, 16.
 
 [^198]: 74:2 El sacrificador lleva el paquete de Soma en su mano apoyada sobre su cabeza.
 
-[^199]: 74:3 Es decir, el vaso de agua mencionado [III, 1, 2, 2](Book_2_3_1#v3_1_2_2).
+[^199]: 74:3 Es decir, el vaso de agua mencionado [III, 1, 2, 2](../Book_2_3_1#v3_1_2_2).
 
 [^200]: 75:1 El carro se encuentra al sur del lugar donde se compró el soma, con las varas hacia el este, equipado con todos los implementos y uncido con un par de bueyes. La piel de antílope está extendida con el lado velloso hacia arriba y la parte del cuello hacia el este.
 
@@ -335,7 +335,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^204]: 77:1 'En las aguas (apsu),' Rig-veda.
 
-[^205]: 77:2 Véase [III, 2, 1, 1](Book_2_3_2#v3_2_1_1) seq.
+[^205]: 77:2 Véase [III, 2, 1, 1](../Book_2_3_2#v3_2_1_1) seq.
 
 [^206]: 77:3 Debe sujetarlo a un bastón fijado al poste del carro cerca del yugo. Kâty. VII, 9, 9.
 
@@ -345,7 +345,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^209]: 79:1 Apâlamba, un trozo de madera sujeto a la parte trasera del carro para evitar que retroceda al subir una cuesta; o, según otros, una cuerda utilizada para retrasar el avance del carro al bajar una cuesta. Kâty. VII, 9, 15 comm. El carro se mantiene con los bueyes hacia el este; luego se gira hacia la derecha, hacia el oeste, y se conduce hasta la sala, frente a la cual se gira hacia el norte; luego se baja el soma. Véase Ait. Br. I, 14.
 
-[^210]: 79:2 Los deberes del Hotri, mientras el carro de Soma se dirige a la sala, se exponen en Â<i>s</i>v. <i>S</i>rautas. IV, 4: Se sitúa a un metro detrás del carro, entre las dos huellas de las ruedas, y lanza tres veces polvo hacia el sur con la parte delantera del pie, sin mover el talón, con la fórmula: «Tú eres sabio, tú eres inteligente, tú sustentas todas las cosas: ¡aleja el peligro que surge de los hombres!». Acto seguido, tras pronunciar el sonido «Él», recita ocho versos, o bien, el primero y el último se recitan tres veces cada uno, en total doce versos. Cf. Ait. Br. I, 13. Primero permanece de pie en el mismo lugar y recita tres veces el primer verso. Luego, siguiendo el carro, recita los cinco versos siguientes. Tras detenerse el carro, camina alrededor de él por su lado derecho (sur) y, observando el soma, lo sigue mientras lo colocan en el trono. Luego lo toca y completa su recitación con los dos últimos versos. El primero de estos dos versos es el mismo que el sacrificador debe murmurar (con el Adhvaryu) mientras el soma es llevado a la sala, y que se encuentra en el [párrafo 30](Book_2_3_3#v3_3_4_30).
+[^210]: 79:2 Los deberes del Hotri, mientras el carro de Soma se dirige a la sala, se exponen en Â<i>s</i>v. <i>S</i>rautas. IV, 4: Se sitúa a un metro detrás del carro, entre las dos huellas de las ruedas, y lanza tres veces polvo hacia el sur con la parte delantera del pie, sin mover el talón, con la fórmula: «Tú eres sabio, tú eres inteligente, tú sustentas todas las cosas: ¡aleja el peligro que surge de los hombres!». Acto seguido, tras pronunciar el sonido «Él», recita ocho versos, o bien, el primero y el último se recitan tres veces cada uno, en total doce versos. Cf. Ait. Br. I, 13. Primero permanece de pie en el mismo lugar y recita tres veces el primer verso. Luego, siguiendo el carro, recita los cinco versos siguientes. Tras detenerse el carro, camina alrededor de él por su lado derecho (sur) y, observando el soma, lo sigue mientras lo colocan en el trono. Luego lo toca y completa su recitación con los dos últimos versos. El primero de estos dos versos es el mismo que el sacrificador debe murmurar (con el Adhvaryu) mientras el soma es llevado a la sala, y que se encuentra en el [párrafo 30](../Book_2_3_3#v3_3_4_30).
 
 [^211]: 79:3 Mientras el Soma es conducido hacia la sala, el sacrificador tiene que sujetarlo desde atrás.
 
@@ -365,9 +365,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^219]: 82:3 El texto de Kâ<i>n</i>va también afirma que esta última porción de la fórmula fue ideada por Âru<i>n</i>i, pero no se dice nada en cuanto a que su uso sea opcional.
 
-[^220]: 82:4 Para variaciones de esta parte final del Subrahma<i>n</i>yâ en diferentes escuelas, véase Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; también notas a [III, 9, 3, 10](Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Trad. Ait. Br. pág. 383.
+[^220]: 82:4 Para variaciones de esta parte final del Subrahma<i>n</i>yâ en diferentes escuelas, véase Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; también notas a [III, 9, 3, 10](../Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Trad. Ait. Br. pág. 383.
 
-[^221]: 82:5 Véase [III, 1, 3, 1](Book_2_3_1#v3_1_3_1) seq.
+[^221]: 82:5 Véase [III, 1, 3, 1](../Book_2_3_1#v3_1_3_1) seq.
 
 [^222]: 83:1 'Por esta víctima se redime a sí mismo, la víctima, y ​​con ese yo redimido, ahora suyo, se sacrifica.' Kâ<i>n</i>va rec.
 

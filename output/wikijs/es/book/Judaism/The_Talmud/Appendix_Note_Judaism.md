@@ -37,7 +37,7 @@ dateCreated: 2025-2-7T10:40:34Z
 UN RABINO POLACO MODERNO CON TALITH Y FILACTERIAS.
 PÁGINA 359
 
-<span id="p359">[<sup><small>pág. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 ## APÉNDICE. NOTA SOBRE EL JUDAÍSMO MODERNO.
 

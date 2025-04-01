@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p389">[<sup><small>pág. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 ## PATALA II, KHANDA 1.
 
@@ -80,7 +80,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 10. trir devebhya prakshâlayed. 11. dvir manushyebhya. 12. sakri pitribhyo. 13. meksha ena pradakshi am udâyuva ñs rapaye k. 14. khri tam abhighâryodag udvâsya pratyabhighârayet. 15. sarvâ y evam havîm shi. 16. barhishy asâdyâ. 17. ऽgyabhâgau <i>g</i>uhuyâ<i>k</i> <i>k</i>aturg<i>ri</i>hîtam â<i>g</i>ya<i>m</i> g<i>ri</i>hîtvâ pa<i>ñ</i><i>k</i>âvatta<i>m</i> Bh<i>ri</i>gû<i>n</i>â<i>m</i> <i>G</i>âmadagnyânâm Agnaye svâhety uttarata<i>h</i> Somâyeti dakshi<i>n</i>ato. 18. viparîtam itara. 19. â<i>g</i>yam upastîrya havishoऽvadyen meksha<i>n</i>ena madhyât purastâd iti.</small>
 
-<span id="p391">[<sup><small>pág. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 20\. Quien toma cinco porciones cortadas (ver Sutra 17), también del lado occidental.
 
@@ -98,7 +98,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 <small>20. pa<i>s</i><i>k</i><i>a pa<i>ñ</i><i>k</i>avatty. 21. Práctica de Abhighārya avadānasthānāni. 22. en svishtakrito. 23. Yo soy digno de ser alabado. 24. Aquel que ha sido guiado por el camino correcto es aquel que ha sido guiado por el camino correcto. 25. Samidham Adhâya. 26. Y aquel que ha sido guiado por Dios y Su Mensajero, que es el más justo de todos, es aquel que ha sido guiado por Dios y Su Mensajero, que es el más justo de todos, y quien ha sido guiado por Dios y Su Mensajero, que es el más justo de todos.
 
-<span id="p392">[<sup><small>pág. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 27\. Esta (ceremonia se llama) Ya<i>s</i><i>s</i>avâstu.
 
@@ -134,7 +134,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 <small>2, 1. Âgneya sthâlîpâkoऽnâhitâgner dar<i>s</i>apûr<i>n</i>amâsayor. 2. agnîshomîya<i>h</i> paur<i>n</i>amâsyâm âhitâgner. 3. aindro mâhendro vaindrâgno vâmâvâsyâyâ<i>m</i>. 4. yathâ vânâhitâgnes. 5. sarvam aha<i>h</i> prâtarâhute sthâna<i>m</i>. 6. râtris sâyamâhutes. 7. sarvoऽparapaksha<i>h</i> paur<i>n</i>amâsasya.</small>
 
-<span id="p393">[<sup><small>pág. 393</small></sup>]</span>
+<span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 8\. Para el sacrificio de la luna nueva de la primera quincena.
 
@@ -200,7 +200,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 
 
-<span id="p396">[<sup><small>pág. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 ## CAPÍTULO 3.
 
@@ -291,7 +291,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 4. 1. Ashtama Varshe Brahman Upanayet. 2. Tasya Shod Asad Anatita Kalā. 3. Ekadasi Kshatriya Mām.
 
-<span id="p400">[<sup><small>pág. 400</small></sup>]</span>
+<span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 4\. Para él (el tiempo no ha pasado) hasta el día veintidós.
 
@@ -313,7 +313,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 4. tasyâ dvâvi<i>m</i><i>s</i>âd. 5. dvâda<i>s</i>e vai<i>s</i>ya<i>m</i>. 6. tasyâ <i>k</i>aturvi<i>m</i><i>s</i>ât. 7. ku<i>s</i>alîk<i>ri</i>tam ala<i>m</i>k<i>ri</i>tam ahatenâ<i>kh</i>âdya hutvâgne vratapata ity. 8. uttaratoऽgne<i>h</i> pratyaṅmukham avasthâpyâ<i>ñ</i><i>g</i>ali<i>m</i> kârayet. 9. svaya<i>m</i> <i>k</i>opari kuryâd. 10. dakshi<i>n</i>atas tish<i>th</i>an mantravân brâhma<i>n</i>a â<i>k</i>âryâyodakâ<i>ñ</i><i>g</i>alim pûrayed. 11. âgantreti <i>g</i>apet prekshamâ<i>n</i>e [sic]. 12. ko nâmâsîty ukto devatâ<i>s</i>raya<i>m</i> nakshatrâ<i>s</i>raya<i>m</i> vâbhivâdanîya<i>m</i> nâma brûyâd asâv asmîty.</small>
 
-<span id="p401">[<sup><small>pág. 401</small></sup>]</span>
+<span id="p401"><sup><small>[ p. 401 ]</small></sup></span>
 
 13\. Habiendo dejado correr el agua (de sus manos unidas sobre las manos del estudiante), el maestro debe tomar con sus dos manos, sosteniendo la derecha en la superior, las manos unidas (del estudiante), con (la fórmula), Por el impulso del dios Sâvitrî' (ll 18).
 
@@ -331,7 +331,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 13. utsri g yâpo devasya ta iti dakshi n ottarabih m hastâbhyâ m añ g ali gri h n iyâd ak âryas. 14. Sûryasyeti pradakshi n am âvartayed. 15. dakshi n am am sam anvavam ri s yânantarhitâ m nâbhim alabhet prâ n ânâm ity. 16. athaina<i>m</i> pariadyâd antakaprabh<i>ri</i>tibhir. 17. dakshi<i>n</i>am a<i>m</i>sa<i>m</i> Pra<i>g</i>âpataye tveti. 18. savyena savya<i>m</i> devâya tveti. 19. brahma<i>k</i>âry asîti sa<i>m</i>preshyopavi<i>s</i>ya (sa<i>m</i>prekshy°, sa<i>m</i>prokshy° el manuscrito) dakshni<i>n</i>a<i>g</i>ânvaktam a<i>ñ</i><i>g</i>alîk<i>ri</i>ta<i>m</i> pradakshi<i>n</i>a<i>m</i> mu<i>ñ</i><i>g</i>amekhalâm âbadhnan vâ<i>k</i>ayed iya<i>m</i> duruktâd ity.</small>
 
-<span id="p402">[<sup><small>pág. 402</small></sup>]</span>
+<span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 
 20\. Con (las palabras), '¡Recita, señor!' (el estudiante) debe sentarse respetuosamente cerca (del maestro).
 
@@ -343,7 +343,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 24\. Le entrega el bastón, que debe estar hecho de madera de un árbol—
 
-25\. Con (la fórmula que el estudiante debe recitar), “Oh glorioso, hazme glorioso” (ll 34).
+25\. Con (la fórmula que el estudiante debe recitar), «Oh glorioso, hazme glorioso» (ll 34).
 
 26\. Que ponga un trozo de leña (en el fuego) con (el verso), 'A Agni un trozo de leña' (ll 32).
 
@@ -398,7 +398,7 @@ Debería dormir en el suelo.
 
 <small>2. Saloma<i>m</i> väpayed. 3. goऽ<i>s</i>vâvimithunâni dakshi<i>n</i>â<i>h</i> p<i>ri</i>thag var<i>n</i>ânâ<i>m</i>. 4. sarveshâm y gaur. 5. a<i>g</i>a<i>h</i> ke<i>s</i>apratigrahâyo. 6. Ktam upanayanam. 7. nâk arishyanta sam vatsaram. 8. aniyuktan tv ahatam. 9. athala m kâro. 10. ᤽dhassa<i>m</i>ve<i>s</i>y. 11. amadhumâ<i>m</i>sâ<i>s</i>î syân. 12. maithunakshurak<i>ri</i>tyasnâvalekhanadantadhâvanapâdadhâvanâni var<i>g</i>ayen. 13. No se preocupe, sonríe. 14. na goyuktam ârohen.</small>
 
-<span id="p404">[<sup><small>pág. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 15\. Ni llevar zapatos en el pueblo.
 
@@ -430,7 +430,7 @@ Debería dormir en el suelo.
 
 <small>25. o grama upānahau. 16. mekhalâdhâranabhaikshâk</i>ara<i>n</i>ada<i>n</i>d</i>asamidâdhânopaspar<i>s</i>anaprâtarabhivâdâ nitya<i>m</i>. 1 7. godânavrâtikâdityavratopanisha g</i><i>g</i>yesh<i>th</i>asâmikâs sa<i>m</i>vatsarâ. 18. nâdityavratam ekeshâm. 19. El Señor es mi Salvador. 20. âdityañkā nāntardadhate. 21. o <i>k</i>âpoཽbhyupayanti. 22. <i>s</i>akvarîn</i>âm</i> dvâdas</i>a nava sha<i>t</i> traya iti vikalpâh</i>. 23. Krishna Avastra. 24. Krishna abhaksha. 25. âkâryâdhînas. 26. tishthed divâ. 27. ཽsīta naktam. 28. sa<i>m</i>vatsaram ekeshâm pûrvai<i>s</i>srutâs</i> <i>k</i>ed.
 
-<span id="p405">[<sup><small>pág. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 29\. (El maestro) debe cantar (esos versos) al (estudiante) que ha ayunado y ha velado sus ojos (pensando), 'Que (el maestro) no me queme (con los versos de <i>S</i>akvari)'.
 

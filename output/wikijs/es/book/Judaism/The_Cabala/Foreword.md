@@ -29,9 +29,9 @@ dateCreated: 2025-2-7T10:40:27Z
   </table>
 </figure>
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 **Prólogo**.—Aunque la Cábala pertenece al pasado, exige nuestra atención debido al interés que le mostraron hombres como Raimundo Lulio, el «Doctor Illuminatus», como se le conocía (fallecido en 1315); Juan Picus di Mirandola (1463-1494); Juan Reuchlin (1455-1522); Cornelio Enrique Agrippa von Nettesheim (1486-1535); Juan Bautista von Helmont (1577-1644); los eruditos ingleses Robert Fludd (1574-1637) y Enrique More (1614-1687). Es difícil determinar en qué medida Teofrasto Paracelso (1493-1541) y Jacob Boehme (1575-1624), llamado «Philosophus Teutonicus», fueron influenciados por las doctrinas cabalísticas. De todos modos, los nombres mencionados anteriormente son suficientes para llamar la atención sobre un sistema teosófico que ha ocupado las mentes de eruditos judíos y cristianos.
 
@@ -45,7 +45,7 @@ Podemos decir que la visión de Etheridge es _mutatis mutandis_ también la de A
 
 Cuatro años después de la publicación de la obra mencionada, Canon Westcott (fallecido en 1901) publicó su _Introducción al estudio de los Evangelios_, Londres, <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> 1860, en la que incidentalmente se refiere a la Cábala, sin adoptar la opinión de Etheridge sobre la autoría del Zohar; Oh, por el contrario, dice (p. 159, Boston, 1867): «El Sepher ha-Zohar, o Libro del Esplendor, debe su existencia a R. Moisés de León en el siglo XIII», y esto, dice en una nota, «ha sido satisfactoriamente establecido por Jellinek en su tratado, _Moses ben Schemtob de Leon und sein Verhältniss zum Sohar_, Leipzig, 1851. La cálida aprobación de Jost es suficiente para eliminar cualquier duda persistente en cuanto a la corrección de la conclusión de Jellinek: _A Jellinek und die Kabala_, Leipzig, 1852».
 
-La publicación de _Beiträge zur Geschichte der Kabbala_ de Jellinek, 2 partes, Leipzig, 1852; y su _Auswahl kabbalistischer Mystik_, parte I, _ibid_., 1853; «Versuch einer umständlichen Analyse des Sohar» de Stern (en Ben Chananja, _Monatsschrift für jüdische Theologie_, Vols. I-IV, Szegedin, 1858-1861); Geschichte des Judenthums und seiner Sekten de Jost, vol. III, págs. 66-81, Leipzig, 1859; más especialmente de _Geschichte der Juden_ de Graetz, [^0] vol. VII, págs. 73-87, 442-459; 487-507, Leipzig, 1863, allanó el camino para el ensayo (ahora muy escaso) de Christian D. Ginsburg <span id="p8">[<sup><small>pág. 8</small></sup>]</span> _The Kabbalah_, Londres, 1865. Como es natural, adopta los resultados de la investigación moderna y rechaza la autoría de Simon ben Jochai.
+La publicación de _Beiträge zur Geschichte der Kabbala_ de Jellinek, 2 partes, Leipzig, 1852; y su _Auswahl kabbalistischer Mystik_, parte I, _ibid_., 1853; «Versuch einer umständlichen Analyse des Sohar» de Stern (en Ben Chananja, _Monatsschrift für jüdische Theologie_, Vols. I-IV, Szegedin, 1858-1861); Geschichte des Judenthums und seiner Sekten de Jost, vol. III, págs. 66-81, Leipzig, 1859; más especialmente de _Geschichte der Juden_ de Graetz, [^0] vol. VII, págs. 73-87, 442-459; 487-507, Leipzig, 1863, allanó el camino para el ensayo (ahora muy escaso) de Christian D. Ginsburg <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> _The Kabbalah_, Londres, 1865. Como es natural, adopta los resultados de la investigación moderna y rechaza la autoría de Simon ben Jochai.
 
 Hasta donde sabemos, no se ha publicado nada en inglés desde 1865. _The Kabbalah Unveiled_ de SLM Mathers, Londres, 1887, ofrece solo una traducción de algunas partes del Zóhar, que Knorr von Rosenroth había traducido al latín. Sin embargo, esta obra es interesante, ya que un lector inglés, con suficiente paciencia, puede experimentar la sabiduría y la insensatez del Zóhar.
 

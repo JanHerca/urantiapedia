@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p254">[<sup><small>pág. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 El cargo o los cargos registrados en este Libro se dieron en el centésimo año de la edad del rey. Se entiende, además, que el rey era Mû; y el centésimo año de su edad sería el año 952 a. C. El título del Libro en chino es simplemente «Los Castigos de Lü», y concluyo que Lü, o el marqués de Lü, fue un alto ministro que preparó, por orden del rey, un código de castigos para la regulación del reino, en relación con la tarea, o el cumplimiento de la cual el rey entregó a sus príncipes y jueces los sentimientos que aquí se conservan.
 

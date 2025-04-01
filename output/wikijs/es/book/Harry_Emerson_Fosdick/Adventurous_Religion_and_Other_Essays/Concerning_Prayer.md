@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## I
 
@@ -46,7 +46,7 @@ Hay muchas maneras en que una fe inoperante en Dios, sin influencia efectiva en 
 
 Hay muchos obstáculos que suelen afectar la aventura del alma al orar, <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> la mayoría de los cuales no son filosóficos, sino íntimamente personales. La gente, por ejemplo, no suele empezar a orar (por mucho que rece) hasta que lo necesita desesperadamente. Un amigo inglés que se encontraba en medio de los problemas del frente de Flandes me cuenta que una noche, tras las líneas, tuvo que escuchar a un astrónomo enviado por el Ministerio de Guerra británico para explicar a los hombres las estrellas, sus constelaciones y posiciones relativas, para que los soldados perdidos en la noche pudieran guiarse por el cielo. Mi amigo estaba francamente aburrido. La astronomía le parecía un asunto ajeno y abstruso, sin relación con el barro y la muerte que les preocupaban. Una noche, sin embargo, mientras exploraban la Tierra de Ko Man, sus hombres fueron descubiertos por el enemigo, recibieron disparos, se desorientaron, corrieron al azar, se tumbaron y luego intentaron escabullirse a casa. ¿Pero dónde estaba su hogar? Entonces mi amigo recordó las estrellas. Las necesitaba desesperadamente. Consternado, vio a través de ellas que sus hombres se habían estado escabullendo hacia el enemigo. Las estrellas, dice, fueron muy reales para él esa noche cuando recuperó a su último hombre sano y salvo.
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 La realidad en la oración suele estar sujeta a la misma condición de necesidad urgente. La comunión con Dios, que durante muchos años ha parecido una piadosa superfluidad, puede convertirse de repente en una verdadera necesidad. Un hombre descubre lo que todo sabio debe descubrir alguna vez: que la vida no es simplemente esfuerzo, producción, ataque, el impacto agresivo de uno mismo sobre el mundo. Se da cuenta de que una vida plena es imposible sin recursos internos a los que recurrir. Como una ciudad sitiada de antaño, está perdido a menos que descubra una fuente de agua viva en su interior. Entonces puede descubrir el secreto de la oración. La transformación que se opera en quienes la practican es a menudo maravillosa. Hacen más que creer en Dios. Realmente logran el contacto con el MÁS, se embarcan en él de una manera real y se salvan.
 
@@ -68,7 +68,7 @@ Si bien es cierto que las inhibiciones que impiden a las personas orar eficazmen
 
 A un Dios concebido de forma tan concreta, el niño comienza a orar. Pide todo lo que desea. Experimenta con la petición para lograr sus propósitos y comprueba sus aparentes éxitos y fracasos. En la adolescencia, con distintos grados de fervor, este hábito de orar suele perdurar, acompañado de una idea de Dios que, gradualmente sublimada y exaltada, pierde sus rasgos más burdos, pero aún conserva la imagen de una Deidad, en algún lugar lejano, que misteriosamente nos escucha cuando lloramos.
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Entonces llega el colapso. El joven se introduce en una vívida comprensión de nuestro nuevo universo, con sus distancias inimaginables y su imperio de la ley. La morada sobre nosotros, donde una vez habitaron los dioses, queda completamente destruida; a través de ella, contemplamos un espacio abismal. En la imaginación desconcertada, despojada de sus antiguos marcos y soportes, se desata la verdad de que el Dios antropomórfico que durante tanto tiempo creyó y rogó por no haber creado Betelgeuse ni Antares, que este universo es demasiado vasto para haber sido creado en primer lugar o sostenido ahora por la Deidad de la imaginación infantil. Las oraciones del joven empiezan a sonar huecas. Ha perdido su antigua imaginación del Dios al que reza. Se encuentra hablando al vacío. Para él ya no hay ningún Dios, o un Dios se ha vuelto tan vago y nebuloso que la oración dirigida a él es una parodia de la palabra.
 

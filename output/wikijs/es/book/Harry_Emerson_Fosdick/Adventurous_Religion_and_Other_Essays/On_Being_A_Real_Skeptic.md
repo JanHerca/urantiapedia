@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## I
 
@@ -76,7 +76,7 @@ Al distanciarnos de todo este proceso mediante el cual la mente humana ha intent
 
 Por la fe, por lo tanto, el hombre construye el mundo en el que vive. Hace tiempo que comenzó a conquistar y civilizar el universo físico con sus hipótesis y generalizaciones. Pero eso no basta. Hasta que un hombre no percibe el significado moral de su experiencia, cree en Dios y, por lo tanto, logra un universo tanto espiritual como físico, domina intelectualmente su mundo, donde puede encontrar en él un sentido satisfactorio y un propósito unificador que lo recorra. Sin duda, eso es fe. Pero no es fe ciega. No es "creer lo que sabes que no es así". Es parte integral de todo el proceso mediante el cual el hombre ha alcanzado la vida real a partir de los materiales de la existencia. Es la culminación del esfuerzo milenario de la raza por conquistar el caos y alcanzar la racionalidad y el orden.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 ## V
 

@@ -67,7 +67,7 @@ Recíbela con alma benigna,
 Cuando las austeridades son largas en el tiempo
 ¿La había limpiado de la mancha del crimen?
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Y, hijo de Kus'ik, hazme saber,
 ¿Demostró mi grandioso padre?
@@ -134,7 +134,7 @@ Algunos se alimentaban de agua, otros de aire,
 Algunas sobre las hojas que se marchitaron allí.
 Las raíces y los frutos silvestres eran el alimento de otros;
 Toda rabia fue contenida, cada sentido sometido,
-Allí Bálakhilyas [1](Libro_1_60#fn220) fue y vino,
+Allí Bálakhilyas [1](../Libro_1_60#fn220) fue y vino,
 Ahora respiraba la oración, ahora alimentaba la llama:
 Estos, y bandas ascéticas además,
 El dulce retiro embellecido.
@@ -183,7 +183,7 @@ El amor de tu pueblo, cumpliendo con todo
 Él habló. El modesto rey respondió.
 Que todo era próspero en todas partes.
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Así conversaron los dos durante un rato,
 Mientras cada uno repetía su historia,
@@ -297,7 +297,7 @@ De los dioses y de los espíritus todo depende:
 Mi vida misma se debe a ella,
 Mi guardián, amigo y ministro.
 
-<span id="p65">[<sup><small>pág. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 La alimentación de la llama sagrada, [^223]
 La limosna que reclaman los seres vivos. [^224]
@@ -404,7 +404,7 @@ Con elefantes, coches y corceles.
 Sobre innumerables bandas ondean sus pendones;
 Así es él mucho más poderoso que yo,
 
-<span id="p66">[<sup><small>pág. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Él habló. Entonces ella, con humor humilde,
 A aquel alto santo renovó su discurso:
@@ -449,7 +449,7 @@ Cayó como si me quemara una llama abrasadora.
 El monarca, famoso en todo el mundo
 De nuevo sus temibles armas arrojadas,
 
-Eso hizo a Kámbojas, [1b](Libro_1_60#fn227) Bárbaros, [2b](Libro_1_60#fn228) todos,
+Eso hizo a Kámbojas, [1b](../Libro_1_60#fn227) Bárbaros, [2b](../Libro_1_60#fn228) todos,
 Con los Yavans, atribulados, huyen y caen.
 
 
@@ -490,7 +490,7 @@ O alguna gran serpiente cuyos colmillos están aplastados:
 
 Parece que el objeto de esta leyenda es representar esta creación milagrosa como el origen de estas tribus, y que no se pudo haber pretendido nada más que la vaca llamó a la existencia grandes ejércitos, del mismo linaje que tribus particulares previamente existentes.
 
-<span id="p67">[<sup><small>pág. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 O como en un rápido eclipse el Sol
 Oscuro por la fatalidad que no puede evitar:
@@ -611,7 +611,7 @@ El líquido inextinguible y lo seco:
 El dardo de la venganza, rápido para matar:
 El dardo de los duendes, el pico del zarapito:
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 El disco tanto del Destino como del Derecho,
 Y el de Vishnu, de vuelo infalible:
@@ -718,7 +718,7 @@ Para hacer de mí sólo un santo real.'
 Así meditando, con sentido subyugado,
 Con el más severo celo renovó sus votos.
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Entonces reinaba un monarca, de alma sincera,
 ¿Quién mantuvo cada sentido bajo firme control?
@@ -804,7 +804,7 @@ Su malvado propósito apenas se expresó,
 Y lloraron, mientras la rabia les ardía el pecho,
 '¡Conviértete en un vil Chandála [^236]!'
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Dicho esto, con elevados pensamientos inspirados,
 Cada uno se retiró a su retiro.
@@ -922,7 +922,7 @@ Los hombres santos se reúnen aquí.
 Por todos fue demostrada la debida obediencia:
 Mahodaya [^238] se negó solo.
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Y ahora, oh Jefe de los ermitaños, escucha
 ¿Qué respuesta, que nos hiela de miedo,
@@ -1052,7 +1052,7 @@ Y lo marcó cayendo del cielo,
 Y dando rienda suelta a toda su pasión,
 Gritó con furia: «¡Quédate, quédate!»
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Por el poder de la penitencia y la santa ciencia,
 Como Aquel que creó los mundos de antaño,
@@ -1168,7 +1168,7 @@ Y los dioses y los sabios regresaron a casa.
 
 [^234]: 69:1 «Tris'anku, rey de Ayodhyá, fue el séptimo descendiente de Ikshváku. Das'aratha ocupa el trigésimo cuarto lugar en la misma genealogía. Véase Canto LXX. Nos remontamos, por lo tanto, a tiempos muy antiguos, y resulta sorprendente encontrar a Vas'ishtha y Vis'vámitra, protagonistas de estos sucesos, aún vivos en la época de Rama».
 
-[^235]: 69:1b “No parece que Tris'anku, al pedir la ayuda de los hijos de Vas'ishtha tras haberla solicitado en vano a su padre, pudiera ser acusado de recurrir a otra _s'ákhá_ (Escuela) en el sentido ordinario de la palabra; pues no es concebible que los hijos pertenecieran a otra S'ákhá que la del padre, cuya causa abrazan con tanto fervor. El comentarista de la edición de Bombay explica la palabra _S'ákhántaram_ como Yájanádiná rakshántaram, 'aquel que, al sacrificarse por ti, etc., será otro protector'. El texto Gauda\*? de Gorresio, que a menudo puede usarse como comentario del más antiguo, contiene la siguiente paráfrasis de las palabras en cuestión, cap. 60, 3. Múlam utsrijya\*? “¿Por qué, abandonando la raíz, deseas colgarte de las ramas?” MUIR, Textos Sánscritos, Vol. I, pág. 401.
+[^235]: 69:1b «No parece que Tris'anku, al pedir la ayuda de los hijos de Vas'ishtha tras haberla solicitado en vano a su padre, pudiera ser acusado de recurrir a otra _s'ákhá_ (Escuela) en el sentido ordinario de la palabra; pues no es concebible que los hijos pertenecieran a otra S'ákhá que la del padre, cuya causa abrazan con tanto fervor. El comentarista de la edición de Bombay explica la palabra _S'ákhántaram_ como Yájanádiná rakshántaram, 'aquel que, al sacrificarse por ti, etc., será otro protector'. El texto Gauda\*? de Gorresio, que a menudo puede usarse como comentario del más antiguo, contiene la siguiente paráfrasis de las palabras en cuestión, cap. 60, 3. Múlam utsrijya\*? “¿Por qué, abandonando la raíz, deseas colgarte de las ramas?» MUIR, Textos Sánscritos, Vol. I, pág. 401.
 
 [^236]: 69:2b Un Chandála era un hombre nacido de la unión ilegal e impura de un S'údra con una mujer de una de las tres castas superiores.
 

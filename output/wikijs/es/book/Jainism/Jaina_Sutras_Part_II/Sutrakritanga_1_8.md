@@ -40,7 +40,7 @@ Algunos dicen que consiste en las obras, y los piadosos dicen que consiste en la
 
 El descuido se llama (la causa de) Karman, el cuidado la de lo contrario (es decir, la ausencia de Karman); cuando se predica uno u otro
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 (de un hombre, se le llama) o un tonto o un sabio. (3)
 
@@ -132,6 +132,6 @@ Así lo digo.
 
 [^889]: 299:2 Véase Uttarâdhyayana, Quinta Conferencia.
 
-[^890]: 299:3 <i>S</i>îlâṅka cita y comenta cuatro lecturas diferentes de la primera línea de este verso, la última de las cuales se traduce arriba, ya que es el texto recibido del Dîpikâ. (1) Abstenerse incluso del orgullo más pequeño y del engaño, uno, etc. (2) 'Grande' por 'incluso pequeño'. (3) He oído de algunos hombres: Este es el valor del hombre virtuoso, que, etc. Después de este verso, <i>S</i>îlâṅka cita otro que, según él, no se encuentra en los manuscritos del texto, pero la pág. 300 sí se encuentra en el <i>T</i>îkâ. Sin embargo, es el mismo verso I, 3, 4, 20, véase arriba, [pág. 271](Sutrakritanga_1_3_4#p271), que aparece nuevamente en I, 11, 11.
+[^890]: 299:3 <i>S</i>îlâṅka cita y comenta cuatro lecturas diferentes de la primera línea de este verso, la última de las cuales se traduce arriba, ya que es el texto recibido del Dîpikâ. (1) Abstenerse incluso del orgullo más pequeño y del engaño, uno, etc. (2) 'Grande' por 'incluso pequeño'. (3) He oído de algunos hombres: Este es el valor del hombre virtuoso, que, etc. Después de este verso, <i>S</i>îlâṅka cita otro que, según él, no se encuentra en los manuscritos del texto, pero la pág. 300 sí se encuentra en el <i>T</i>îkâ. Sin embargo, es el mismo verso I, 3, 4, 20, véase arriba, [pág. 271](../Sutrakritanga_1_3_4#p271), que aparece nuevamente en I, 11, 11.
 
 [^891]: 300:1 Compárese con Mateo vi. i-6.

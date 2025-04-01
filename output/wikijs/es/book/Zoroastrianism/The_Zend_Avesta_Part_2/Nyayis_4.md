@@ -1,6 +1,6 @@
 ---
 title: "IV. Âbân Nyâyis"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -97,7 +97,7 @@ Sacrificamos a la sagrada Ardvi Sûra Anâhita con libaciones. Sacrificamos a Ar
 
 [^1602]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
 
-[^1603]: 356:4 Véase arriba, [p. 152](Yasts_10#p152), nota [1](Yasts_10#fn698).
+[^1603]: 356:4 Véase arriba, [p. 152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
 
 [^1604]: 357:1 La oración Yathâ ahû vairyô.
 

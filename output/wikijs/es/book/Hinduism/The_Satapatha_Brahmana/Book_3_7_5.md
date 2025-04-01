@@ -261,9 +261,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^723]: 389:1 Véase [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^723]: 389:1 Véase [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
-[^724]: 390:1 Es decir, cada texto védico es idéntico a la deidad a la que se dirige. Cf. [VI, 5, 1, 2](Book_3_6_5#v6_5_1_2).
+[^724]: 390:1 Es decir, cada texto védico es idéntico a la deidad a la que se dirige. Cf. [VI, 5, 1, 2](../Book_3_6_5#v6_5_1_2).
 
 [^725]: 391:1 Mientras que los ladrillos generalmente miden un pâda o pie cuadrado, el codo mide alrededor de dos pies.
 
@@ -273,27 +273,27 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^728]: 393:1 El mortero y la mano se colocarán tan al norte del ladrillo central (perforado naturalmente) como los dos retahsik se encuentren frente a él (hacia el este). Esta distancia se determina mediante una cuerda tendida a través de los ladrillos colocados hasta ese momento (desde el Svayamât<i>ri</i><i>n</i><i>n</i>â hasta el Ashâ<i>dh</i>â), y se hacen nudos en la cuerda sobre el centro de los respectivos ladrillos.
 
-[^729]: 394:1 No veo a qué otra cosa podría aludirse aquí sino al cielo y a la tierra (cf. [VII, 4, 2, 22](Book_3_7_4#v7_4_2_22)), aunque en ese caso cabría esperar más bien 'imau (lokau)' en vez de 'ime'. Sin embargo, es posible que se refiera a la tierra y a la atmósfera.
+[^729]: 394:1 No veo a qué otra cosa podría aludirse aquí sino al cielo y a la tierra (cf. [VII, 4, 2, 22](../Book_3_7_4#v7_4_2_22)), aunque en ese caso cabría esperar más bien 'imau (lokau)' en vez de 'ime'. Sin embargo, es posible que se refiera a la tierra y a la atmósfera.
 
 [^730]: 396:1 El mortero, según los comentarios de Katy., se excava parcialmente en el suelo, con la parte abierta hacia arriba; el mortero se coloca entonces a la derecha (sur) del mismo.
 
 [^731]: 397:1 Es decir, según Sâya<i>n</i>a, porque brotan del germen en el centro del fruto.
 
-[^732]: 397:2 ? O, de él (el brasero). Existe cierta incertidumbre sobre este punto del ceremonial. La regla de Kâtyâyana (XVII, 5, 4): «Tras colocar el Ukhâ (brasero) en el mortero, machacar el resto de la arcilla y arrojarla al suelo, con el texto “Dhruvâ asi”, (del) Ukhâ», es evidentemente intencionadamente vaga. El Mahîdhara (sobre Vâ<i>g</i>. S. XIII, 34) da la siguiente interpretación: «Tras colocar primero el Ukhâ en el mortero en silencio, luego machacar el resto de la arcilla y arrojarla al suelo frente al Ukhâ, que lo coloque sobre él con dos fórmulas». Según esto, el Ukhâ solo se colocaría temporalmente sobre el mortero, siendo su lugar adecuado y permanente (loka) la arcilla en polvo frente a este (al este). Sin embargo, el texto del Brâhma<i>n</i>a, tal como está, no puede interpretarse de manera que concuerde con la interpretación del Mahîdhara. Esto requeriría una lectura como: athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. Véase, no obstante, el párrafo [38](Book_3_7_5#v7_5_1_38) más adelante, que evidentemente se aplica a la posición permanente del pan.
+[^732]: 397:2 ? O, de él (el brasero). Existe cierta incertidumbre sobre este punto del ceremonial. La regla de Kâtyâyana (XVII, 5, 4): «Tras colocar el Ukhâ (brasero) en el mortero, machacar el resto de la arcilla y arrojarla al suelo, con el texto «Dhruvâ asi», (del) Ukhâ», es evidentemente intencionadamente vaga. El Mahîdhara (sobre Vâ<i>g</i>. S. XIII, 34) da la siguiente interpretación: «Tras colocar primero el Ukhâ en el mortero en silencio, luego machacar el resto de la arcilla y arrojarla al suelo frente al Ukhâ, que lo coloque sobre él con dos fórmulas». Según esto, el Ukhâ solo se colocaría temporalmente sobre el mortero, siendo su lugar adecuado y permanente (loka) la arcilla en polvo frente a este (al este). Sin embargo, el texto del Brâhma<i>n</i>a, tal como está, no puede interpretarse de manera que concuerde con la interpretación del Mahîdhara. Esto requeriría una lectura como: athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. Véase, no obstante, el párrafo [38](../Book_3_7_5#v7_5_1_38) más adelante, que evidentemente se aplica a la posición permanente del pan.
 
-[^733]: 397:3 Para el genitivo 'asya' (a saber, lokasya) con 'antarita'—en lugar de p. 398 del ablativo más habitual—ver [VI, 2, 2, 38](Book_3_6_2#v6_2_2_38), 'prâ<i>n</i>asya tad antariyât.'
+[^733]: 397:3 Para el genitivo 'asya' (a saber, lokasya) con 'antarita'—en lugar de p. 398 del ablativo más habitual—ver [VI, 2, 2, 38](../Book_3_6_2#v6_2_2_38), 'prâ<i>n</i>asya tad antariyât.'
 
-[^734]: 398:1 [VII. 4, 2, 5](Book_3_7_4#v7_4_2_5).
+[^734]: 398:1 [VII. 4, 2, 5](../Book_3_7_4#v7_4_2_5).
 
-[^735]: 398:2 Véase [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41).
+[^735]: 398:2 Véase [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41).
 
 [^736]: 399:1 El verbo «abhi-k<i>ri</i>» se toma aquí en el sentido de «vi-k<i>ri</i>» (le da forma); y en ese sentido lo tomaría ahora en II, 3; I, 4, «él moldea (da forma humana a) ese embrión», en lugar de «él beneficia a ese embrión». El diccionario de San Petersburgo propone el significado de «hacer algo con referencia a (o en beneficio de)». El significado correcto en alemán parece ser «bearbeiten». La preposición «abhi» probablemente se usa aquí con referencia a «abhi-<i>g</i>uhoti».
 
-[^737]: 399:2 Véase [p. 269](Book_3_6_7#p269), nota [3](Book_3_6_7#fn510).
+[^737]: 399:2 Véase [p. 269](../Book_3_6_7#p269), nota [3](../Book_3_6_7#fn510).
 
 [^738]: 400:1 ? Es decir, llenando los espacios vacíos del altar de izquierda a derecha.
 
-[^739]: 401:1 Véase [VI, 1, 1, 4](Book_3_6_1#v6_1_1_4); [2, 1, 7](Book_3_6_2#v6_2_1_7).
+[^739]: 401:1 Véase [VI, 1, 1, 4](../Book_3_6_1#v6_1_1_4); [2, 1, 7](../Book_3_6_2#v6_2_1_7).
 
 [^740]: 401:2 Es decir, por la cabeza, según Sâya<i>n</i>a.
 
@@ -301,41 +301,41 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^742]: 402:2 Es decir, antes de poner las cabezas en el fuego.
 
-[^743]: 403:1 Es decir, un macho cabrío, como sacrificio animal para Pra<i>g</i>âpati o (Vâyu) Niyutvat; véanse las págs. [178](Book_3_6_2#p178), [184](Book_3_6_2#p184).
+[^743]: 403:1 Es decir, un macho cabrío, como sacrificio animal para Pra<i>g</i>âpati o (Vâyu) Niyutvat; véanse las págs. [178](../Book_3_6_2#p178), [184](../Book_3_6_2#p184).
 
-[^744]: 403:2 Véase [VI, 2, 2, 15](Book_3_6_2#v6_2_2_15).
+[^744]: 403:2 Véase [VI, 2, 2, 15](../Book_3_6_2#v6_2_2_15).
 
 [^745]: 404:1 Sin embargo, sólo la primera de las dos fórmulas contiene la palabra 'vi<i>s</i>va'.
 
-[^746]: 404:2 La sartén estaba parcialmente llena de arena y leche, véase [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41), [44](Book_3_7_1#v7_1_1_44).
+[^746]: 404:2 La sartén estaba parcialmente llena de arena y leche, véase [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41), [44](../Book_3_7_1#v7_1_1_44).
 
 [^747]: 405:1 El expositor dogmático quizá toma aquí 'Pratimâ' en el sentido de 'semejanza, contraparte'; en cuyo caso habría que traducir como 'la contraparte de mil, el de todas las formas'.
 
-[^748]: 406:1 Véase [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^748]: 406:1 Véase [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
 [^749]: 406:2 O, 'ellos asisten a aquel (Agni, el altar de fuego) que tiende hacia el frente (este);' puesto que el altar está construido en la forma de un pájaro que vuela hacia el este.
 
 [^750]: 406:3 ¡O no hagas daño a la vaca, Aditi, la de amplio gobierno (o amplio resplandor)!
 
-[^751]: 406:4 Tras las dos premisas (con «vai»), la inferencia parece introducirse aquí sin partícula. De forma similar, en el párrafo [24](Book_3_7_5#v7_5_2_24); mientras que en el párrafo [19](Book_3_7_5#v7_5_2_19) se utiliza la partícula «u» para realizar dicha función. Cf., sin embargo, [VII, 4, 2, 1](Book_3_7_4#v7_4_2_1), donde una tercera cláusula paralela (que lógicamente podría haber sido la inferencia) se introduce con «u vai».
+[^751]: 406:4 Tras las dos premisas (con «vai»), la inferencia parece introducirse aquí sin partícula. De forma similar, en el párrafo [24](../Book_3_7_5#v7_5_2_24); mientras que en el párrafo [19](../Book_3_7_5#v7_5_2_19) se utiliza la partícula «u» para realizar dicha función. Cf., sin embargo, [VII, 4, 2, 1](../Book_3_7_4#v7_4_2_1), donde una tercera cláusula paralela (que lógicamente podría haber sido la inferencia) se introduce con «u vai».
 
 [^752]: 406:5 Sâya<i>n</i>a se refiere a la leyenda de Taitt. S. II, I, 2, 2, a la que aquí se alude: Svarbhânu, el Âsura, hirió al sol con oscuridad. Los dioses buscaron una expiación por esa oscuridad: la primera oscuridad que disiparon se convirtió en una oveja negra, la segunda en una roja, la tercera en una blanca; y lo que cortaron de la superficie del hueso (?) se convirtió en una oveja estéril, etc.
 
 [^753]: 407:1 Es decir, en cuanto que el fuego que finalmente se depositaría sobre el altar del fuego se tomaba del fuego original (de la puerta del salón).
 
-[^754]: 407:2 Véase [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^754]: 407:2 Véase [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^755]: 407:3 Es decir, Pra<i>g</i>âpati, el señor de la procreación; véase [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) seq.
+[^755]: 407:3 Es decir, Pra<i>g</i>âpati, el señor de la procreación; véase [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) seq.
 
 [^756]: 408:1 Es decir, habiéndolo murmurado rápidamente.
 
 [^757]: 408:2 Es decir, (medio de) liberación o eliminación, un término aplicado a los siguientes cinco mantras.
 
-[^758]: 408:3 Lit. su calor ardiente (<i>s</i>u<i>k</i>); cf. [par. 32](Book_3_7_5#v7_5_2_32) seq.
+[^758]: 408:3 Lit. su calor ardiente (<i>s</i>u<i>k</i>); cf. [par. 32](../Book_3_7_5#v7_5_2_32) seq.
 
 [^759]: 409:1 El sacrificador construye el altar de fuego con vistas a asegurarse un lugar en el cielo.
 
-[^760]: 409:2 Es dudoso qué se quiere decir aquí con este término, a menos que se trate de un mono o de una cabeza humana falsificada; cf. [p. 197](Book_3_6_3#p197), nota [4](Book_3_6_3#fn405).
+[^760]: 409:2 Es dudoso qué se quiere decir aquí con este término, a menos que se trate de un mono o de una cabeza humana falsificada; cf. [p. 197](../Book_3_6_3#p197), nota [4](../Book_3_6_3#fn405).
 
 [^761]: 410:1 Esta paráfrasis no deja claro cómo el autor construye e interpreta esta parte de la fórmula; especialmente en qué sentido toma 'nishîda'.
 
@@ -343,10 +343,10 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^763]: 411:1 Es decir, porque su lana sirve de cubierta al hombre y a los animales.
 
-[^764]: 412:1 «A<i>g</i>a», macho cabrío, se toma aquí de nuevo en el sentido de «a-<i>g</i>a», no nacido. En cuanto a que los dioses surgieron de Vâ<i>k</i>, véase [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) ss.
+[^764]: 412:1 «A<i>g</i>a», macho cabrío, se toma aquí de nuevo en el sentido de «a-<i>g</i>a», no nacido. En cuanto a que los dioses surgieron de Vâ<i>k</i>, véase [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) ss.
 
 [^765]: 412:2 Un animal fabuloso con ocho patas.
 
-[^766]: 414:1 Véase [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22); [5, 1, 4](Book_3_6_5#v6_5_1_4).
+[^766]: 414:1 Véase [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22); [5, 1, 4](../Book_3_6_5#v6_5_1_4).
 
 [^767]: 417:1 Los cuatro juegos de ladrillos se colocan en el medio de los cuatro lados del 'cuerpo' cuadrado del sitio del altar, o en los extremos de las dos 'espinas' que se cruzan entre sí.

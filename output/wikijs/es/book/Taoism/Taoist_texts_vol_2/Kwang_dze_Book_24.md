@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 LIBRO XXIV.
 
@@ -42,7 +42,7 @@ Hsü Wû-kwei [^191].
 
 1\. Hsü Wû-kwei, tras haber obtenido de Nü Shang [^192] una presentación ante el marqués Wû de Wei [^193], este, hablándole con amable compasión [^194], le dijo: «Está usted enfermo, señor; ha sufrido por sus duros y laboriosos trabajos [^194] en el bosque, y aun así ha querido venir a verme [^195]». Hsü Wû-kwei respondió: «Soy yo quien debe consolar a su señoría; ¿qué necesidad tiene usted de consolarme a mí? Si su señoría continúa colmando sus deseos sensuales y prolongando sus gustos y disgustos, su mente se enfermará, y si desalienta y reprime esos deseos, y niega sus gustos y disgustos, eso será una aflicción para sus oídos y ojos».
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 (privados de sus placeres acostumbrados); —es mi deber consolar a su señoría, ¿qué necesidad tiene usted de consolarme a mí? El marqués miró con desprecio y no respondió.
 

@@ -62,7 +62,7 @@ Cuyos lados están brillantes con el mineral más rico.
 levantando su gloriosa cabeza en alto
 De los bosques floridos que lo rodean.
 
-<span id="p375">[<sup><small>pág. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Busca bien sus bosques donde la brisa
 Sopla el aroma de los árboles de sándalo.
@@ -150,7 +150,7 @@ Una noble montaña contemplaréis,
 Llamado Rishabh, como un poderoso toro,
 Con gemas hechas brillantes y hermosas.
 
-<span id="p376">[<sup><small>pág. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Allí florecen todos los árboles de sándalo.
 De fragancia celestial, rica y rara.
@@ -158,7 +158,7 @@ Pero, aunque tienten tus ojos anhelantes,
 Evita tocarlos y sé sabio.
 Para Rohitas, una banda protectora
 De los feroces Gandharvas, están a su alrededor,
-A quién obedecen los cinco brillantes señores soberanos [1](Libro_4_50#fn714),
+A quién obedecen los cinco brillantes señores soberanos [1](../Libro_4_50#fn714),
 En gloria como el Dios del día.
 Aquí con buenas obras se gana un hogar.
 Con formas como el fuego, la luna, el sol.
@@ -167,7 +167,7 @@ Habitar en los confines de la tierra.
 Allí se queda; más allá, oscuro y lúgubre,
 Se encuentra la esfera de los espíritus difuntos,
 Y, ceñido por la oscuridad, lejos de la dicha,
-Es la triste metrópolis de Yama. [2](Libro_4_50#fn715)
+Es la triste metrópolis de Yama. [2](../Libro_4_50#fn715)
 Hasta ahora, mis señores, por tierra y mar
 El curso al que está destinado es sencillo y gratuito.
 Más allá de tus pasos no puedes poner nada,
@@ -244,7 +244,7 @@ Por Vísvakarmá [^724] se hizo el arte.
 Cuando Panchajan [^725] el demonio fue asesinado.
 Y Hayagríva, [^726] feroz en vano,
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 De allí tomó conchas y discos y fue
 Señor Vishnu, Dios preeminente.
@@ -274,8 +274,8 @@ Allí brilla un palacio glorioso,
 Y alrededor cantan dulces pájaros.
 Donde florecen los árboles alegres:
 
-El hogar de Varun [1b](Libro_4_50#fn732) señor de alma elevada,
-Ceñido en la muñeca con su cordón mortal. [2b](Libro_4_50#fn733)
+El hogar de Varun [1b](../Libro_4_50#fn732) señor de alma elevada,
+Ceñido en la muñeca con su cordón mortal. [2b](../Libro_4_50#fn733)
 Con diez tallos altos, una palma entre
 Se ve la colina de Meru y Asta:
 De la base brota plata pura,
@@ -284,7 +284,7 @@ Buscad a la dama Rávanthe junto al arroyo,
 En un valle sin senderos, en un rincón frondoso
 En la cresta de Meru vive un ermitaño
 Brillante con la luz que da la penitencia:
-Sávarni [3b](Libro_4_50#fn734) se le llama, renombrado
+Sávarni [3b](../Libro_4_50#fn734) se le llama, renombrado
 Como par de Brahmá, coronado con gloria.
 Allí, inclinándose en reverencia, hablan
 Y pregúntale a la dama que buscas.
@@ -322,7 +322,7 @@ En los bosques de Lodh y Deodár. [^736]
 Busca si con la hija de Janak, proyectada
 Al abrigo de las rocas, se esconde el demonio.
 
-<span id="p378">[<sup><small>pág. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Las tierras sagradas de Soma pisan
 Visitado por dioses y trovadores.
@@ -386,17 +386,17 @@ De flores y hojas como llamas de fuego.
 Todas sus dulces vidas transcurren sin problemas
 En dicha y alegría que no conocen fin,
 Mientras las doncellas adornadas con perlas ríen o cantan
-Con música de cuerda plateada. [1b](Libro_4_50#fn743)
+Con música de cuerda plateada. [1b](../Libro_4_50#fn743)
 Sigue adelante con tu viaje,
 Y descansa en las profundidades del norte,
 Donde brotando de las altas olas
-El monte Somagiri [2b](Libro_4_50#fn744) busca el cielo,
+El monte Somagiri [2b](../Libro_4_50#fn744) busca el cielo,
 Y se ilumina con un resplandor perpetuo
 El reino sin sol que se encuentra abajo.
 Allí, presente a través de toda la extensión de la vida,
 Mora el Señor Brahmá preeminente,
 Y alrededor del gran Dios, manifiesta
-En Rudra [3b](Libro_4_50#fn745) descansan las formas de los altos sabios.
+En Rudra [3b](../Libro_4_50#fn745) descansan las formas de los altos sabios.
 Entonces no te vuelvas más, oh Vánarsrch,
 Ni tientes a la orilla sin sol y sin límites.
 
@@ -407,7 +407,7 @@ Ni tientes a la orilla sin sol y sin límites.
 Pero me dio un asesoramiento especial.
 A Hanumán, sabio y valiente:
 
-<span id="p379">[<sup><small>pág. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 A aquel en quien su alma confió,
 Con palabras amistosas el monarca gritó:
@@ -523,18 +523,18 @@ Aún con miedo no encontré descanso:
 Busqué las regiones del oeste,
 Y contempló a Asta, [^748] donde el sol
 
-<span id="p380">[<sup><small>pág. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Se hunde cuando termina su curso diario
 Entonces, de aquella colina tan noble huí.
 Y hacia el país del norte se dirigió rápidamente,
-Saw Himavánt [1](Libro_4_50#fn749) y Meru'Meru'sp,
+Saw Himavánt [1](../Libro_4_50#fn749) y Meru'Meru'sp,
 Y se paró junto a las profundidades del norte.
 Pero cuando, oprimidos por el poder de Báli,
 Incluso en esos parajes salvajes no pude descansar,
 Llegó Hanumán, sabio y valiente,
 Y así dio su prudente consejo:
-'Te conté cómo Matanga [2](Libro_4_50#fn750) maldijo
+'Te conté cómo Matanga [2](../Libro_4_50#fn750) maldijo
 Tu tirano, que le estalle la cabeza
 En pedazos, debería atreverse a invadir
 Los alrededores de esa tranquila sombra.
@@ -590,7 +590,7 @@ Bien hemos buscado con trabajo y dolor,
 Y hemos matado criaturas monstruosas.
 Pero Hanumán, la mente más noble
 La dama Maithil aún la encontrará;
-Para su cuarto del cielo [1b](Libro_4_50#fn751)
+Para su cuarto del cielo [1b](../Libro_4_50#fn751)
 Se vio al demonio ladrón volar,
 
 
@@ -636,7 +636,7 @@ Su muerte conmovió con furia al sabio,
 Condenado desde esa hora a no tener refugio,
 Un desperdicio que los pájaros y las bestias deben evitar.
 
-<span id="p381">[<sup><small>pág. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Buscaron por todos los bordes del bosque,
 Registraron cada cueva y cornisa de la montaña,
@@ -649,7 +649,7 @@ La búsqueda cuidadosa, el trabajo y el dolor.
 Apenas podían atravesar un oscuro bosque,
 Tan espesas eran las enredaderas entrelazadas.
 Allí, mientras luchaban por atravesar el bosque,
-Ante sus ojos estaba un Asur [1](Libro_4_50#fn752).
+Ante sus ojos estaba un Asur [1](../Libro_4_50#fn752).
 Alto como una colina imponente, su orgullo
 Los mismos dioses del cielo desafiaron.
 Cuando sus miradas se posaron en el demonio
@@ -751,7 +751,7 @@ Vasta era la caverna oscura y terrible,
 Donde no se derramó ni un rayo de luz;
 Pero no por eso menos les falló la vista,
 
-<span id="p382">[<sup><small>pág. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Su coraje se hundió o su valor se acobardó.
 A través de la penumbra los Vánarssed
@@ -777,7 +777,7 @@ Y panal y abejas doradas.
 Entonces, mientras el Vánarser dibujaba,
 Una mujer santa se encontró con su vista.
 Alrededor de su figura estaba debidamente atada
-Una prenda de piel de ciervo negro. [1](Libro_4_60#fn753)
+Una prenda de piel de ciervo negro. [1](../Libro_4_60#fn753)
 Purísima devota ella brilló con luz
 De ferviente celo y santo rito.
 Entonces Hanumánre el resto
@@ -883,7 +883,7 @@ Con palabras reverentes la dama se dirigió:
 
 [^726]: 376:9b Hayagríva, el de Cuello de Caballo, es el nombre de un Daitya que, durante la disolución del universo causada por el sueño de Brahmá, se apoderó de los Vedas y los robó. Vishnu lo mató y recuperó los tesoros sagrados.
 
-[^727]: 377:1 Meru se encuentra en el centro de Jambudwípa y, en consecuencia, de la tierra. “El sol gira alrededor del mundo, manteniendo a Meru siempre a su derecha. Por lo tanto, para el espectador que está frente a él, al ascender, Meru debe estar siempre al norte; y como los rayos del sol no penetran más allá del centro de la montaña, las regiones más allá, o al norte de ella, deben estar en oscuridad, mientras que las del sur deben estar iluminadas: norte y sur son términos relativos, no absolutos, que dependen de la posición del espectador con respecto al Sol y a Meru”. _Vishnu Pura'na_ de WILSON, vol. II, pág. 243. Nota.
+[^727]: 377:1 Meru se encuentra en el centro de Jambudwípa y, en consecuencia, de la tierra. «El sol gira alrededor del mundo, manteniendo a Meru siempre a su derecha. Por lo tanto, para el espectador que está frente a él, al ascender, Meru debe estar siempre al norte; y como los rayos del sol no penetran más allá del centro de la montaña, las regiones más allá, o al norte de ella, deben estar en oscuridad, mientras que las del sur deben estar iluminadas: norte y sur son términos relativos, no absolutos, que dependen de la posición del espectador con respecto al Sol y a Meru». _Vishnu Pura'na_ de WILSON, vol. II, pág. 243. Nota.
 
 [^728]: 377:2 Los Vis'vadevas son una clase de deidades a las que se deben ofrecer sacrificios diariamente, como parte de la adoración ordinaria del cabeza de familia. Según el Váyun Purána, este es un privilegio que les confieren Brahmá y los Pitris como recompensa por las austeridades religiosas que practican en el Himalaya.
 
@@ -915,7 +915,7 @@ Con palabras reverentes la dama se dirigió:
 
 [^742]: 378:6 Situado en la parte oriental de la cordillera del Himalaya, al norte de Assam. La montaña fue desgarrada y el paso fue formado por el dios de la guerra Kártikeya y Paras'uráma.
 
-[^743]: 378:1b “Cabe destacar que los Uttara Kurus pudieron haber sido un pueblo real, como se menciona en el Altareya Bráhmana I. 14 ... ”Por lo tanto, las diversas naciones que habitan en esta zona norte, más allá del Himavat, los Uttara Kurus y los Uttara Madras están consagrados a un dominio glorioso, y la gente los llama los gloriosos. Sin embargo, en otro pasaje de la misma obra, los Uttara Kurus son tratados como pertenecientes al dominio de la mitología." MUIR's _Sanskrit Texts_. Vol. I p. 494. Ver NOTAS ADICIONALES.
+[^743]: 378:1b «Cabe destacar que los Uttara Kurus pudieron haber sido un pueblo real, como se menciona en el Altareya Bráhmana I. 14 ... »Por lo tanto, las diversas naciones que habitan en esta zona norte, más allá del Himavat, los Uttara Kurus y los Uttara Madras están consagrados a un dominio glorioso, y la gente los llama los gloriosos. Sin embargo, en otro pasaje de la misma obra, los Uttara Kurus son tratados como pertenecientes al dominio de la mitología." MUIR's _Sanskrit Texts_. Vol. I p. 494. Ver NOTAS ADICIONALES.
 
 [^744]: 378:2b La montaña-luna.
 

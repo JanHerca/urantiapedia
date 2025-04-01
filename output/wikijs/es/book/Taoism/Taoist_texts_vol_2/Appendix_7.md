@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 ## I.
 
@@ -40,7 +40,7 @@ LA PLACA DE PIEDRA EN EL TEMPLO DE LÂO-DZE. POR HSIEH TÂO-HÄNG DE LA DINASTÍ
 
 1\. Después de que el Thâi Ki (o Éter Primordial) comenzó su acción, el primer período del tiempo empezó a desarrollarse.
 
-<span id="p312">[<sup><small>pág. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 La cortina del cielo se desplegó, y el sol y la luna quedaron suspendidos en ella; la tierra de cuatro esquinas se estableció, y las montañas y los arroyos encontraron su lugar en ella. Entonces, las sutiles influencias (del Éter) operaron como la respiración, amainando y expandiéndose de nuevo; la obra de producción continuó en sus estaciones arriba y abajo; todas las cosas se formaron como a partir de materiales, y maduraron y se mantuvieron. Allí estaban las multitudes de personas; allí estaban sus gobernantes y superiores.
 
@@ -52,7 +52,7 @@ La cortina del cielo se desplegó, y el sol y la luna quedaron suspendidos en el
 
 5\. Kwang Kâu nos dice que, "cuando Lâo Tan murió,
 
-<span id="p315">[<sup><small>pág. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Khin Shih fue a dar el pésame (a su hijo), pero después de gritar tres veces, abandonó inmediatamente la casa [^548].' Esto fue lo que se llama el castigo por descuidar su Cielo (-naturaleza implantada), y aunque aparece como una de las ilustraciones metafóricas del oficial altanero, sin embargo, hay una pequeña indicación en el pasaje de la reaparición de la serpiente después de mudar sus exuvias [^549].
 
@@ -87,7 +87,7 @@ Y todas las viejas formas armoniosas.
 Los hombres apreciaban sus talentos y barnizaban su ingenio;
 Las leyes expuestas no fueron más que una red.
 
-<span id="p317">[<sup><small>pág. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Copas de vino y soportes adornaban el tablero,
 Y escudos y lanzas llenaron el país.
@@ -117,7 +117,7 @@ Todavía se conservarán rastros de él [^559];
 Pero ahora, como en los tiempos antiguos,
 Con los tiempos cambiados el mundo cambia.
 
-<span id="p318">[<sup><small>pág. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Su majestuoso templo cayó en ruinas
 Su altar estaba vacío y quieto;
@@ -145,7 +145,7 @@ Y en los vientos fragantes se oían cítaras [^563].
 9. Por su poder transformador los trípodes fueron asegurados;
 Y las familias se volvieron educadas y corteses.
 
-<span id="p319">[<sup><small>pág. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 Siempre tuvo presente (al sabio) debajo del Pilar [^564],
 Aún émulo de los soberanos más antiguos [^565].
@@ -239,7 +239,7 @@ Y con ello hicimos nuestra proclamación duradera al cielo y a la tierra.
 
 [^627]: 317:1 Por supuesto, este era Lâo-dze.
 
-[^628]: 317:2 Véase arriba, [p. 313](#p313), párrafo 4.
+[^628]: 317:2 Véase arriba, [p. 313](../#p313), párrafo 4.
 
 [^631]: 317:3 En el Tâo Teh King, pág. 50, párrafo 2, y pág. 52, párrafo 1. La lectura de la línea 7 es diferente en mis dos autoridades: en una ![](/image/book/Taoism/Taoist_texts_vol_2/31700.jpg), en la otra ![](/image/book/Taoism/Taoist_texts_vol_2/31701.jpg) supongo que la lectura correcta debería ser ![](/image/book/Taoism/Taoist_texts_vol_2/31702.jpg) y he dado lo que creo que es el significado.
 
@@ -257,7 +257,7 @@ Y con ello hicimos nuestra proclamación duradera al cielo y a la tierra.
 
 [^641]: 318:4 Esta y las tres líneas anteriores no son un poco oscuras.
 
-[^642]: 319:1 «El (sabio) bajo el Pilar» debe ser Lâo-dze. Véase arriba en la nota introductoria, [p. 313](#p313).
+[^642]: 319:1 «El (sabio) bajo el Pilar» debe ser Lâo-dze. Véase arriba en la nota introductoria, [p. 313](../#p313).
 
 [^643]: 319:2 Véase la nota sobre el significado del epíteto ![](/image/book/Taoism/Taoist_texts_vol_2/31900.jpg) vol. xxxix, pág. 40.
 

@@ -183,7 +183,7 @@ Descripción resumida del contenido del PS y del Cod. Bruc. de su importante est
 
 La principal crítica de P. es que la identificación que hace S. de las dos partes del primer tratado del Códice Bruce con 'Los libros de Yew' mencionados en PS es errónea.
 
-34\. 1894. Schmidt (C.). '_Los “Dos Libros de Jeû” contenidos en el Códice Brucianus copto-gnóstico en su relación con la Pistis Sophia_', en _Zeitschr. f. ciencia. Teólogo (Leipzig), xxxvii. 555-585.
+34\. 1894. Schmidt (C.). '_Los «Dos Libros de Jeû» contenidos en el Códice Brucianus copto-gnóstico en su relación con la Pistis Sophia_', en _Zeitschr. f. ciencia. Teólogo (Leipzig), xxxvii. 555-585.
 
 Respuesta de S. a la crítica de P.
 
@@ -229,7 +229,7 @@ L. (p. 405) incluye al PS entre una veintena de sectas que reúne bajo este tít
 
 44\. 1904. Granger (F.). Arte. 'Los Poemas de Hermes Trimegisto', en _The Journal of Theological Studies_ (Londres), pp. 395-412.
 
-G. (p. 401) cuestiona si el PS es una traducción del griego; pero la única razón que presenta es la arriesgada afirmación de que: “Los escritos gnósticos egipcios del siglo III exhiben las mismas cualidades de estilo que las biografías y apocalipsis coptos del siglo IV y siguientes”.
+G. (p. 401) cuestiona si el PS es una traducción del griego; pero la única razón que presenta es la arriesgada afirmación de que: «Los escritos gnósticos egipcios del siglo III exhiben las mismas cualidades de estilo que las biografías y apocalipsis coptos del siglo IV y siguientes».
 
 45\. 1905. Schmidt (C.). Escritos gnósticos coptos. Vol. I. _La Pistis Sophia. Los dos libros de Jeû. Obra gnóstica antigua desconocida (Leipzig), xxvii + 410 pp.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-1-18T17:53:4Z
 
 Sucedió entonces, cuando Jesús terminó de contarles a sus discípulos todas las aventuras que le habían acontecido a Pistis Sophia cuando se encontraba en el caos, y cómo **(176)** había cantado alabanzas a la Luz, para que esta la salvara y la sacara del caos, y la condujera a los doce Aeones, y también cómo la había salvado de todas las aflicciones con las que los gobernantes del caos la habían constreñido, porque anhelaba ir a la Luz, que Jesús continuó con el discurso y dijo a sus discípulos: «Sucedió entonces, después de todo esto, que tomé a Pistis Sophia y la conduje al decimotercer Aeón, brillando extraordinariamente, sin medida para la luz que me rodeaba. Entré en la región de los veinticuatro invisibles, brillando extraordinariamente. Y se conmocionaron; miraron y vieron a Sophia, que estaba conmigo. A ella la conocían, pero a mí no me conocían, ni quién era yo, pero me abrazaron. para algún tipo de emanación de la Tierra de la Luz.
 
-<span id="p149">[<sup><small>pág. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Sucedió entonces que, cuando Pistis Sophia vio a sus compañeros, los invisibles, se regocijó con gran alegría y exultó en extremo, y deseó proclamar las maravillas que yo había obrado en ella aquí abajo, en la tierra de la humanidad, hasta que la salvé. Ella se acercó a los **(177)** invisibles, y en medio de ellos me cantó alabanzas, diciendo:
 
@@ -62,7 +62,7 @@ Sucedió entonces que, cuando Pistis Sophia vio a sus compañeros, los invisible
 
 9. Cuando me faltaba el poder, me diste poder; y cuando me faltaba la luz, me llenaste de luz purificada.
 
-<span id="p150">[<sup><small>pág. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 “10. Yo estaba en la oscuridad y en la sombra del caos, atado con los poderosos grilletes del caos, y no había luz en mí.
 
@@ -86,7 +86,7 @@ Sucedió entonces que, cuando Pistis Sophia vio a sus compañeros, los invisible
 
 20. Enviaste tu corriente; me dio fuerza y ​​me salvó de todas mis aflicciones.
 
-“21. Te daré gracias, oh Luz, por haberme salvado y por tus obras maravillosas en la raza humana”.
+«21. Te daré gracias, oh Luz, por haberme salvado y por tus obras maravillosas en la raza humana».
 
 Esta es, pues, la canción que Pistis Sophia <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> ha pronunciado en medio de los veinticuatro invisibles, deseando que conocieran todas las obras maravillosas que he realizado por ella, y deseando que supieran que he ido al mundo de los hombres y les he dado los misterios de las Alturas. Ahora, pues, quien tenga pensamientos exaltados, que se acerque y diga la solución de la canción que Pistis Sophia ha pronunciado.
 
@@ -142,7 +142,7 @@ Esta es, pues, mi Señor, la solución del cántico que Pistis Sophia ha pronunc
 
 Y la palabra que pronunció David: **(181)** «Que digan esto los liberados del Señor, pues él los ha librado de la mano de sus enemigos», es la palabra que pronunció Pistis Sophia: «Pronuncio este cántico a la Luz, pues me ha salvado y me ha salvado de la mano de los gobernantes, mis enemigos». Y el resto del Salmo.
 
-“Esta es, pues, mi Señor, la solución del cántico que Pistis Sophia pronunció en medio de los veinticuatro invisibles, deseando que conocieran todas las obras maravillosas que has hecho por ella, y deseando que supieran que has dado tus misterios a la raza humana.”
+«Esta es, pues, mi Señor, la solución del cántico que Pistis Sophia pronunció en medio de los veinticuatro invisibles, deseando que conocieran todas las obras maravillosas que has hecho por ella, y deseando que supieran que has dado tus misterios a la raza humana.»
 
 Sucedió entonces que, al oír a Felipe decir estas palabras, Jesús dijo: «Bien dicho, bendito Felipe. Esta es la solución del cántico que Pistis Sophia ha pronunciado».
 
@@ -156,7 +156,7 @@ Sucedió entonces, después de todo esto, que María se acercó, adoró los pies
 
 Sucedió que, cuando Jesús oyó a María Magdalena decir estas palabras, le respondió: «Pregunta lo que desees preguntar, y te lo revelaré con precisión y certeza. Amén, amén, te digo: Regocíjate con gran alegría y exulta sobremanera. Si preguntas sobre todo con precisión, entonces me exultaré sobremanera, porque preguntas sobre todo con precisión y preguntas como corresponde. Ahora, pues, pregunta sobre lo que quieras preguntar, **(183)**, y te lo revelaré con alegría».
 
-Aconteció entonces que cuando María oyó al Salvador decir estas palabras, se regocijó con gran alegría y exultó sumamente, y dijo a Jesús: “Señor y Salvador mío, ¿de qué manera son, pues, los veinticuatro invisibles y de qué tipo, o mejor dicho, de qué calidad son, o de qué calidad es, pues, su luz?”
+Aconteció entonces que cuando María oyó al Salvador decir estas palabras, se regocijó con gran alegría y exultó sumamente, y dijo a Jesús: «Señor y Salvador mío, ¿de qué manera son, pues, los veinticuatro invisibles y de qué tipo, o mejor dicho, de qué calidad son, o de qué calidad es, pues, su luz?»
 
 ## CAPÍTULO 84
 
@@ -208,7 +208,7 @@ Sucedió entonces que, cuando María oyó al Salvador decir estas palabras, se r
 
 ## CAPÍTULO 86
 
-Y Jesús respondió y dijo a María: «Bien, en verdad, preguntas sobre todo con precisión y certeza. Pero escucha, María, que puedo hablarte sobre la consumación del eón y la ascensión del universo. Todavía no ocurrirá; pero te he dicho: “Si te conduzco a la región de las herencias de quienes recibirán el misterio de la Luz, **(189)** entonces el Tesoro de la Luz, la región de las emanaciones, te será tan solo una mota de polvo y como la luz del sol durante el día”.
+Y Jesús respondió y dijo a María: «Bien, en verdad, preguntas sobre todo con precisión y certeza. Pero escucha, María, que puedo hablarte sobre la consumación del eón y la ascensión del universo. Todavía no ocurrirá; pero te he dicho: «Si te conduzco a la región de las herencias de quienes recibirán el misterio de la Luz, **(189)** entonces el Tesoro de la Luz, la región de las emanaciones, te será tan solo una mota de polvo y como la luz del sol durante el día».
 
 <small>De los doce salvadores y sus regiones en la Herencia.</small>
 
@@ -224,7 +224,7 @@ Por lo tanto, he dicho: «Esto ocurrirá <span id="p160"><sup><small>[ p. 160 ]<
 
 “Y el quinto salvador de la quinta Voz del Tesoro de la Luz estará en la región de las almas de aquellos que han recibido el quinto misterio del Primer Misterio en las herencias de la Luz.
 
-<span id="p161">[<sup><small>pág. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 “Y el sexto salvador de las emanaciones de la sexta Voz del Tesoro de la Luz estará en la región de las almas de aquellos que han recibido el sexto misterio del Primer Misterio.
 
@@ -240,7 +240,7 @@ Por lo tanto, he dicho: «Esto ocurrirá <span id="p160"><sup><small>[ p. 160 ]<
 
 “Y el duodécimo salvador, es decir el salvador de las emanaciones del quinto Árbol del Tesoro de la Luz, estará en la región de las almas de aquellos que han recibido el duodécimo misterio del Primer Misterio en las herencias de la Luz.
 
-<span id="p162">[<sup><small>pág. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 <small>De la ascensión de los del Tesoro a la Herencia.</small>
 
@@ -310,7 +310,7 @@ Y después les hablaré también sobre la gloria del Ayudador que está por enci
 
 Sucedió entonces, cuando Jesús terminó de decir estas palabras a sus discípulos, que María Magdalena se adelantó y le dijo: «Señor mío, no te enfades conmigo si te pregunto, pues me preocupo constantemente. Ahora, pues, Señor mío, no te enfades conmigo si te pregunto sobre todo con precisión y certeza. Porque mis hermanos lo anunciarán entre la raza humana, para que escuchen, se arrepientan y se salven de los juicios violentos de los gobernantes malvados, y vayan a la Altura y hereden el Reino de la Luz; porque, Señor mío, somos compasivos no solo con nosotros mismos, sino con toda la raza humana, para que se salven de todos los juicios violentos. Ahora, pues, Señor mío, por esta razón preguntamos sobre todo con certeza; porque mis hermanos lo anuncian a toda la raza humana, **(200)** para que escapen de los violentos gobernantes de las tinieblas y se salven de las manos de los violentos receptores de las tinieblas más externas».
 
-Aconteció que cuando Jesús oyó a María decir estas palabras, el Salvador respondió con gran compasión hacia ella y le dijo: “Pregunta lo que desees preguntar, y te lo revelaré con precisión y certeza, y sin semejanza”.
+Aconteció que cuando Jesús oyó a María decir estas palabras, el Salvador respondió con gran compasión hacia ella y le dijo: «Pregunta lo que desees preguntar, y te lo revelaré con precisión y certeza, y sin semejanza».
 
 ## CAPÍTULO 89
 

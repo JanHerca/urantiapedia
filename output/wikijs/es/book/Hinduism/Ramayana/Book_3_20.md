@@ -676,7 +676,7 @@ de proteger a cada anacoreta confiado,
 y desde tu nuevo hogar defenderás 
 a los ermitaños que de ti dependen. 
 Ahora, allá, Príncipe, dirige tu mirada 
-hacia donde se alzan los densos bosques de Madhúka [1](Libro_3_20#fn442): 
+hacia donde se alzan los densos bosques de Madhúka [1](../Libro_3_20#fn442): 
 Atraviesa su oscura sombra y, al salir, 
 gira hacia una higuera al norte. 
 Luego, ascendiendo por un prado inclinado, 
@@ -1176,8 +1176,8 @@ Con Lakshman siempre a su lado,
 Y la dulce dama Maithil. 
 Español Así Rudra brilla por mundos adorados, 
 En gloria inmaculada, 
-Cuando Nandi [1](Libro_3_20#fn455) está junto a su señor, 
-Y el hijo del rey Himálaya. [2](Libro_3_20#fn456) 
+Cuando Nandi [1](../Libro_3_20#fn455) está junto a su señor, 
+Y el hijo del rey Himálaya. [2](../Libro_3_20#fn456) 
 
 
 
@@ -1496,10 +1496,10 @@ Y vidas de santa virtud conducen:
 Con sentidos ordenados e inmaculados, 
 Ráma y Lakshman son llamados. 
 
-Hermosos como el Rey de los Trovadores [1b](Libro_3_20#fn460) son ellos, 
+Hermosos como el Rey de los Trovadores [1b](../Libro_3_20#fn460) son ellos, 
 Y estampados con signos de dominio real. 
 No sé si los héroes descienden 
-de los dioses o de la raza Dánav [2b](Libro_3_20#fn461). 
+de los dioses o de la raza Dánav [2b](../Libro_3_20#fn461). 
 Allí, ante esos ojos asombrados, entre 
 los nobles jóvenes, se vislumbró una dama, 
 hermosa, joven y radiante, de delicada cintura, 
@@ -1715,7 +1715,7 @@ La caída de sus gigantescos campeones.
 
 [^442]: 245:1 La Madhúka, o, como se le llama ahora, Mahuwá, es la Bassia latifolia,un árbol de cuyas flores se extrae un espíritu.
 
-[^443]: 245:1b 'Habría dudado si Manu podría haber sido la lectura correcta aquí, pero ocurre de nuevo en el versículo 29, donde de igual manera es seguido en el versículo 31 por Analá, por lo que ciertamente parecería que el nombre Manu pretende representar a una mujer, la hija de Daksha. La recensión de Gauda, ​​seguida por el Signor Gorresio (III 20, 12), adopta una lectura completamente diferente al final de la línea, a saber, _Balám Atibalám api_, “Balá y Atibilá”, en lugar de Manu y Analá. Veo que el Profesor Roth sv aduce la autoridad del Amara Kosha y del Comentarista de Pánini para afirmar que la palabra a veces significa “la esposa de Manu”. En el siguiente texto del Mahábhárata I. 2553. también, Manu parece ser el nombre de una mujer: _Anaradyam, Manum, Vansám, Asurám, Márganapriyám, Anúpám, Subhagdm, Bhásím iti Prádhá vyajayata_. “Prádhá (hija de Daksha) dio a luz a Anavadyá, Manu, Vans'á, Márganaprivá, Anúpá, Subhagá. y Bhásí.”' _Texto sánscrito de Muir_, vol. I.p. 116. 
+[^443]: 245:1b 'Habría dudado si Manu podría haber sido la lectura correcta aquí, pero ocurre de nuevo en el versículo 29, donde de igual manera es seguido en el versículo 31 por Analá, por lo que ciertamente parecería que el nombre Manu pretende representar a una mujer, la hija de Daksha. La recensión de Gauda, ​​seguida por el Signor Gorresio (III 20, 12), adopta una lectura completamente diferente al final de la línea, a saber, _Balám Atibalám api_, «Balá y Atibilá», en lugar de Manu y Analá. Veo que el Profesor Roth sv aduce la autoridad del Amara Kosha y del Comentarista de Pánini para afirmar que la palabra a veces significa «la esposa de Manu». En el siguiente texto del Mahábhárata I. 2553. también, Manu parece ser el nombre de una mujer: _Anaradyam, Manum, Vansám, Asurám, Márganapriyám, Anúpám, Subhagdm, Bhásím iti Prádhá vyajayata_. «Prádhá (hija de Daksha) dio a luz a Anavadyá, Manu, Vans'á, Márganaprivá, Anúpá, Subhagá. y Bhásí.»' _Texto sánscrito de Muir_, vol. I.p. 116. 
 
 [^444]: 246:1 El elefante de Indra. 
 
@@ -1727,7 +1727,7 @@ La caída de sus gigantescos campeones.
 
 [^448]: 246:3b Las serpientes encapuchadas, dice el comentarista Tírtha, eran descendientes de Surasá: todos los demás de Kadrú. 
 
-[^449]: 246:4b El texto dice Kás'yapa, “un descendiente de Kas'yapa”, quien según Rám. II. 10, 6, debería ser Vivasvat. Pero como se afirma en la parte precedente de este pasaje III. 14, 11 f. que Manu era una de las ocho esposas de Kasyapa, aquí debemos leer Kasyapa. La recensión de Ganda dice (III, 20, 30) _Manur manushyams cha tutha janayámása Raghana\*\*_, en lugar de la línea correspondiente en la edición de Bombay. _Texto Sánscrito de Muir, Vol. I, pág. 117._ 
+[^449]: 246:4b El texto dice Kás'yapa, «un descendiente de Kas'yapa», quien según Rám. II. 10, 6, debería ser Vivasvat. Pero como se afirma en la parte precedente de este pasaje III. 14, 11 f. que Manu era una de las ocho esposas de Kasyapa, aquí debemos leer Kasyapa. La recensión de Ganda dice (III, 20, 30) _Manur manushyams cha tutha janayámása Raghana\*\*_, en lugar de la línea correspondiente en la edición de Bombay. _Texto Sánscrito de Muir, Vol. I, pág. 117._ 
 
 [^450]: 247:1 Los versos originales solo nombran los árboles. Me he visto obligado a ampliar ligeramente y omitir algunos quas versu dicere non est; ej., _tinis'a_ (Dalbergia ougeiniensis), _punnága_ (Rottleria tinctoria) _tilaka_ (sin nombre), _syandana_ (Dalbergia ougeiniensis nuevamente) _vandana_ (desconocido) _nipa_ (Nauclea Kadamba) _lakucha_ (Artoearpus lacucha), _dhava_ (Grislea tomentosa), As'vakarna (otro nombre para el Sál), _S'amí_ (Acacia Suma) _khad\*ra_ (Mimosa\*catechu) _kins'\*ka_ (Buteafrondosa) _pátala_ (Bignonia suaveolens). 
 

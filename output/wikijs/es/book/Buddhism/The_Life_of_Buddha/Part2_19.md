@@ -32,16 +32,16 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>pág. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 
 El Maestro se alegró de contar a estos parientes entre sus discípulos y los llevó consigo al Bosque de Bambú. Allí, el pobre Nanda sufría. No dejaba de pensar en Sundarika; ella se le aparecía a menudo en sueños, y lamentó haberla abandonado. El Buda, consciente de su infelicidad, decidió curarlo.
 
 Un día, lo tomó de la mano y lo condujo hasta un árbol donde estaba sentado un horrible mono.
 
-“Mira ese mono”, dijo, “¿no es hermoso?”
+«Mira ese mono», dijo, «¿no es hermoso?»
 
-“Rara vez he visto uno tan feo”, respondió Nanda.
+«Rara vez he visto uno tan feo», respondió Nanda.
 
 —¿De verdad? —preguntó el Maestro—. Y aun así se parece a Sundarika, tu antigua prometida.
 
@@ -51,15 +51,15 @@ Un día, lo tomó de la mano y lo condujo hasta un árbol donde estaba sentado u
 
 Pero Nanda no escuchaba. Suspiraba. Soñaba que veía a la esbelta y grácil Sundarika deambulando por un jardín rebosante de flores.
 
-“¡Toma el borde de mi manto!” dijo imperiosamente el Bendito.
+«¡Toma el borde de mi manto!» dijo imperiosamente el Bendito.
 
 Nanda obedeció. Sintió que la tierra cedía repentinamente bajo sus pies y un viento feroz lo arrastró hacia el cielo. Al recuperarse, se encontró en un parque maravilloso. Caminaba por un sendero dorado, y las flores eran joyas vivientes, hechas de rubíes y fragantes zafiros.
 
-“Estás en el cielo de Indra”, dijo el Bendito. “Abre tus ojos ciegos”.
+«Estás en el cielo de Indra», dijo el Bendito. «Abre tus ojos ciegos».
 
 Nanda vio una casa de plata brillante rodeada de un campo de esmeraldas. Una apsara, mucho más hermosa que Sundarika, estaba de pie en la puerta. Sonreía. Enloquecido por el deseo, Nanda corrió hacia ella, pero ella lo detuvo con un gesto repentino.
 
-<span id="p202">[<sup><small>pág. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 «Sé puro en la tierra», le dijo; «cumple tus votos, Nanda. Después de tu muerte, renacerás aquí; entonces podrás venir a mis brazos».
 
@@ -77,13 +77,13 @@ Y se fue.
 
 Nanda estaba muy perturbado. Corrió hacia el Maestro; cayó a sus pies y lloró. El Maestro le dijo:
 
-<span id="p203">[<sup><small>pág. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Tus pensamientos son malvados, Nanda. Eres esclavo de tus sentimientos. Primero fue Sundarika, ahora es una Apsara quien te hace perder la cabeza. ¡Y quieres renacer! ¿Renacer entre los dioses? ¡Qué locura, qué vanidad! Esfuérzate por alcanzar la sabiduría, Nanda; presta atención a mis enseñanzas y mata tus pasiones devoradoras.
 
 Nanda reflexionó sobre las palabras del Buda. Se convirtió en un discípulo sumamente obediente y, poco a poco, purificó su mente. Sundarika ya no se le aparecía en sueños, y ahora, cuando pensaba en las Apsaras, se reía de haber querido convertirse en un dios por ella. Un día, al ver a un horrible mono observándolo desde la copa de un árbol, exclamó con voz triunfante:
 
-“¡Salve, tú que Sundarika no puede igualar en gracia; salve, tú que eres mucho más hermosa que las más hermosas Apsaras!”
+«¡Salve, tú que Sundarika no puede igualar en gracia; salve, tú que eres mucho más hermosa que las más hermosas Apsaras!»
 
 Se enorgullecía de haber dominado sus pasiones. «Soy un verdadero santo», se decía, «y en virtud no cederé ni a mi hermano».
 
@@ -93,7 +93,7 @@ Aquí viene el Maestro. Levantémonos y saludémoslo.
 
 Pero cuando Nanda se acercó, vieron su error. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Se sintieron avergonzados y, al sentarse de nuevo, dijeron:
 
-“Él no ha estado en la comunidad tanto tiempo como nosotros; ¿por qué deberíamos levantarnos en su presencia?”
+«Él no ha estado en la comunidad tanto tiempo como nosotros; ¿por qué deberíamos levantarnos en su presencia?»
 
 Nanda se alegró de ver a los monjes levantarse al acercarse; se avergonzó al verlos sentarse de nuevo. Pero temía quejarse; sentía que lo culparían. Sin embargo, no le sirvió de lección; continuó caminando por el bosque de bambú, vestido con una túnica similar a la del Buda. A lo lejos, lo confundían con el Maestro, y los monjes se levantaban de sus asientos; pero al acercarse, reían y volvían a sentarse.
 
@@ -101,7 +101,7 @@ Finalmente, un monje fue a ver a Buda y se lo contó. Estaba muy disgustado. Reu
 
 —Nanda, ¿de verdad llevabas una túnica del mismo tamaño que la mía?
 
-“Sí, Bendito”, respondió Nanda; “Llevaba una túnica del mismo tamaño que la tuya”.
+«Sí, Bendito», respondió Nanda; «Llevaba una túnica del mismo tamaño que la tuya».
 
 —¡Qué! —dijo el Maestro—. ¡Un discípulo se atreve a hacerse una túnica del mismo tamaño que la del Buda! ¿Qué quieres decir con tal audacia? Una acción así no suele despertar la fe del incrédulo ni ayuda a fortalecer la del creyente. Debes acortar tu túnica, Nanda, y, en el futuro, cualquier monje que se haga una túnica del mismo tamaño que la del Buda, o más grande que la suya, cometerá una grave ofensa, por la cual será severamente castigado.
 

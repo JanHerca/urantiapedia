@@ -24,7 +24,7 @@ dateCreated: 2025-1-18T17:54:34Z
         </td>
         <td>
         <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
-          <span class="pr-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sermones — El doble uso de la ley y el evangelio: «letra» y «espíritu»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:34Z
   </table>
 </figure>
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Hebreos 9:11-15: Pero estando ya presente Cristo, sumo sacerdote de los bienes venideros, por un tabernáculo más amplio y más perfecto, no hecho de manos, es decir, no de esta creación; y no por sangre de machos cabríos ni de becerros, sino por su propia sangre, entró una vez para siempre en el Lugar Santísimo, habiendo obtenido eterna redención. Porque si la sangre de toros y de machos cabríos, y las cenizas de una becerra rociadas a los inmundos, santifican para la purificación de la carne, ¿cuánto más la sangre de Cristo, quien mediante el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de obras muertas para que sirváis al Dios vivo? Y por eso es mediador del nuevo pacto, para que interviniendo muerte para la redención de las transgresiones que había bajo el primer pacto, los llamados recibieran la promesa de la herencia eterna.
 
@@ -56,7 +56,7 @@ pertenencia a la congregación y disfrute de sus privilegios; en todos los aspec
 
 6\. Pero con el sacerdocio de Cristo se encuentra la verdadera remisión espiritual, la santificación y la absolución. Estas son válidas ante Dios —que Dios nos conceda que así sea— ya sea que estemos excomulgados externamente, o santos, o no. La sangre de Cristo nos ha obtenido perdón eterno, aceptable a Dios. Dios perdonará nuestros pecados por causa de esa sangre mientras perdure su poder y su intercesión por gracia en nuestro favor, que es eterna. Por lo tanto, somos eternamente santos y benditos ante Dios. Esta es la esencia del texto. Ahora que lo entenderemos con facilidad, lo consideraremos brevemente.
 
-“Pero estando ya presente Cristo, sumo sacerdote de los bienes venideros.”
+«Pero estando ya presente Cristo, sumo sacerdote de los bienes venideros.»
 
 7\. El adorno de Aarón y sus descendientes, los sumos sacerdotes, era de naturaleza material, y obtenían para el pueblo una remisión meramente formal de los pecados, desempeñando su oficio en un templo o tabernáculo perecedero. Era
 
@@ -68,15 +68,15 @@ Era evidente para los hombres que su absolución y santificación ante la congre
 
 8\. El apóstol no nombra el tabernáculo que menciona; ni puede hacerlo, ¡porque su naturaleza es tan extraña! Solo existe a la vista de Dios, y es nuestro por fe, para ser revelado en el futuro. No está hecho a mano, como el tabernáculo judío; en otras palabras, no es de «este edificio». El antiguo tabernáculo, como todos los edificios de su naturaleza, necesariamente estaba hecho de madera y otros materiales temporales creados por Dios. Dios dice en Isaías 66:1-2: «¿Qué casa me edificaréis?... Porque mi mano hizo todas estas cosas, y así todas estas cosas llegaron a ser». Pero ese tabernáculo mayor aún no tiene forma; aún no está terminado. Dios lo está construyendo y lo revelará. Las palabras de Cristo son (Jn. 14:3): «Y si me fuere y os preparare lugar».
 
-“Y no por sangre de machos cabríos ni de becerros, sino por su propia sangre, entró una vez para siempre en el Lugar Santísimo, habiendo obtenido eterna redención.”
+«Y no por sangre de machos cabríos ni de becerros, sino por su propia sangre, entró una vez para siempre en el Lugar Santísimo, habiendo obtenido eterna redención.»
 
 9\. Según Levítico 16, el sumo sacerdote debe entrar una vez al año en el santuario con la sangre de carneros y otras ofrendas, y con ellas realizar la reconciliación formal por el pueblo. Esta ceremonia simbolizaba que Cristo, el verdadero Sacerdote, debía morir una sola vez por nosotros para obtener la verdadera expiación. Pero el sacrificio anterior, que debía repetirse cada año, era solo una expiación temporal e imperfecta; no era eternamente suficiente, como la expiación de Cristo. Porque aunque caigamos y pequemos repetidamente, tenemos confianza en que la sangre de Cristo no cae ni peca; permanece firme ante Dios, y la expiación es perpetua y eterna. Bajo su influencia, la gracia se renueva perpetuamente, sin obra ni mérito de nuestra parte, siempre que no nos mantengamos al margen en la incredulidad.
 
-“Porque si la sangre de machos cabríos y de toros, y las cenizas de una becerra,” etc.
+«Porque si la sangre de machos cabríos y de toros, y las cenizas de una becerra,» etc.
 
 10\. Respecto al agua de separación y las cenizas de la vaca alazana, léase Números 19; y respecto a la sangre de toros y machos cabríos, Levítico 16:14-15. Según Pablo, estas eran purificaciones formales y temporales, como ya expliqué. Pero Cristo, a la vista de Dios, purifica la conciencia de obras muertas; es decir, de pecados que merecen la muerte, y de obras realizadas en pecado y, por lo tanto, muertas. Cristo nos purifica de estas para que podamos servir al Dios vivo mediante obras vivas.
 
-“Y por eso es mediador de un nuevo pacto [testamento]”, etc.
+«Y por eso es mediador de un nuevo pacto [testamento]», etc.
 
 11\. Bajo la antigua ley, que solo preveía un perdón formal o ritualista y restauraba la comunión humana, el pecado y las transgresiones persistían, agobiando la conciencia. Esta —la antigua ley— no beneficiaba en absoluto al alma, pues Dios no la instituyó para purificar y salvaguardar la conciencia, ni para otorgar el Espíritu. Existía únicamente con el propósito de disciplina, restricción y corrección externa. Así, Pablo enseña que bajo la dispensación del Antiguo Testamento las transgresiones del hombre persistían, pero ahora Cristo es nuestro Mediador por su sangre; por ella, nuestra conciencia queda libre de pecado ante Dios, pues Dios promete el Espíritu mediante la sangre de Cristo. Sin embargo, no todos lo reciben. Solo los llamados a ser herederos eternos, los elegidos, reciben el Espíritu.
 
@@ -98,7 +98,7 @@ Era evidente para los hombres que su absolución y santificación ante la congre
         </td>
         <td>
         <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
-          <span class="pr-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sermones — El doble uso de la ley y el evangelio: «letra» y «espíritu»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

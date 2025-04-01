@@ -115,7 +115,7 @@ E Indra con sus mil ojos,
 Y que concedan que la verdad sea
 Tan buenas como las palabras que me sobresaltaron.
 
-<span id="p413">[<sup><small>pág. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 
 
@@ -214,12 +214,12 @@ Porque para estos oídos tales palabras son dulces.
 Los Vánar conocían el pensamiento de la dama, [^862]
 Y dio la respuesta que tanto buscaba:
 
-<span id="p414">[<sup><small>pág. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 'Brillante como el sol que ilumina el cielo
 Querido como la luna para todos los ojos.
 Él esparce bendiciones sobre la tierra.
-Como recompensas de la mano de Vais'ravan [1](Libro_5_40#fn863).
+Como recompensas de la mano de Vais'ravan [1](../Libro_5_40#fn863).
 Como Vishnu fuerte e indomable,
 Inigualable en poder y fortaleza.
 Sabio, veraz como el Señor de la Palabra,
@@ -297,7 +297,7 @@ Mató a Báli, enemigo de Sugríva.
 Entonces por mandato de nuestro señor
 El Vánar alberga cada tierra explorada.
 Llegamos a la costa: crucé el mar.
-Y finalmente encontré mi camino hacia ti.' [1b](Libro_5_40#fn864)
+Y finalmente encontré mi camino hacia ti.' [1b](../Libro_5_40#fn864)
 
 
 
@@ -322,7 +322,7 @@ El más noble de tu especie del bosque.
 ¿Quién podría, impasible ante el terror, tolerar
 En Rávan, rey de los demonios, para mirar.
 
-<span id="p415">[<sup><small>pág. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 Ahora podemos comunicarnos aquí como amigos,
 Porque aquel a quien el rey Rama envía
@@ -426,12 +426,12 @@ A Rama, mucho más allá del mar;
 Te colocaré en la colina de Prasravan
 Donde todavía espera el hijo de Raghu.
 
-<span id="p416">[<sup><small>pág. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 —¿Cómo puedes llevarme de aquí? —gritó ella.
 'El camino es largo, el mar es ancho.
 Soportar mi propio peso sería
-Una tarea demasiado difícil para alguien como tú.' [1](Libro_5_40#fn872)
+Una tarea demasiado difícil para alguien como tú.' [1](../Libro_5_40#fn872)
 Swift se levantó ante sus ojos asustados.
 El Vánar en su tamaño nativo,
 Como la colina de Mandar o la altura de Meru,
@@ -531,7 +531,7 @@ En baja reverencia reverente.
 Y en su dedo ató la gema
 Ella se soltó de su diadema.
 
-<span id="p417">[<sup><small>pág. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

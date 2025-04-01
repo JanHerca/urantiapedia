@@ -32,11 +32,11 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 ### III. SOBRE LA REVERENCIA AL CUERPO DEL SEÑOR Y SOBRE LA PUREZA DEL ALTAR.
 
-Los argumentos ya aducidos para establecer la autenticidad de las Admoniciones también pueden usarse en favor de esta instrucción dirigida “a todos los clérigos”. Se encuentra en ocho de los códices mencionados anteriormente: a saber, los de Asís, Liegnitz, París (ambos manuscritos de Mazarino y en lib. de Prot. theol. fac.), Roma (manuscrito de San Antonio y San Isidoro 1/73) y Düsseldorf. En la edición de Wadding de los Opuscula, esta instrucción sobre el Santísimo Sacramento se encuentra entre las cartas de San Francisco [^137] (n.º XIII), pero los códices antiguos no la presentan en forma epistolar, [^138] sino tal como está impresa aquí, sin dirección ni saludo. Para la presente edición, el códice de Asís [^139] tiene <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>, así como los códices de San Antonio y San Isidoro en Roma. El texto es el siguiente:
+Los argumentos ya aducidos para establecer la autenticidad de las Admoniciones también pueden usarse en favor de esta instrucción dirigida «a todos los clérigos». Se encuentra en ocho de los códices mencionados anteriormente: a saber, los de Asís, Liegnitz, París (ambos manuscritos de Mazarino y en lib. de Prot. theol. fac.), Roma (manuscrito de San Antonio y San Isidoro 1/73) y Düsseldorf. En la edición de Wadding de los Opuscula, esta instrucción sobre el Santísimo Sacramento se encuentra entre las cartas de San Francisco [^137] (n.º XIII), pero los códices antiguos no la presentan en forma epistolar, [^138] sino tal como está impresa aquí, sin dirección ni saludo. Para la presente edición, el códice de Asís [^139] tiene <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>, así como los códices de San Antonio y San Isidoro en Roma. El texto es el siguiente:
 
 ## SOBRE LA REVERENCIA AL CUERPO DEL SEÑOR Y SOBRE LA PUREZA DEL ALTAR.
 

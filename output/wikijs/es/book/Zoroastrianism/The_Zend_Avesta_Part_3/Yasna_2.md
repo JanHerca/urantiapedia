@@ -1,6 +1,6 @@
 ---
 title: "Yasna II. El sacrificio continúa"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -58,7 +58,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 15\. Y en este Zaothra con este Baresman deseo aproximarme a la Bendición, piadosa y buena, y al hombre piadoso y santo que la pronuncia, y a la poderosa y temida Maldición de los sabios, el Yazad.
 
-16\. Y en este Zaothra, con este Baresman, deseo acercarme a estas aguas con mi alabanza, y a estas tierras y plantas, y a estos lugares, distritos, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> y pastos, y a estas viviendas con sus manantiales [1](Yasna_3#fn925), y a este gobernante de la tierra, que es Ahura Mazda.
+16\. Y en este Zaothra, con este Baresman, deseo acercarme a estas aguas con mi alabanza, y a estas tierras y plantas, y a estos lugares, distritos, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> y pastos, y a estas viviendas con sus manantiales [1](../Yasna_3#fn925), y a este gobernante de la tierra, que es Ahura Mazda.
 
 17\. Y en este Zaothra con este Baresman deseo acercarme a todos los grandes señores con mi alabanza, los señores de los días y de los meses, los de los años y de las estaciones, y los buenos, heroicos y generosos Fravashis de los santos.
 

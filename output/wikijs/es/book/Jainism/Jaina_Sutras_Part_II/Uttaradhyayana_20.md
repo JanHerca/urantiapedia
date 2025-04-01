@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 VIGÉSIMA CONFERENCIA. EL GRAN DEBER DE LOS NIRGRANTHAS.
 
@@ -48,19 +48,19 @@ Cuando el rey vio su figura, su asombro ante la figura de aquel asceta fue muy g
 
 ¡Oh su color, oh su figura, oh la hermosura del hombre noble, oh su tranquilidad, oh su perfección, oh su desprecio por los placeres! (6)
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Adorando sus pies y manteniéndolo a su derecha (se sentó), ni muy lejos ni muy cerca, y con las manos juntas le preguntó: (7)
 
 'Aunque eres un joven noble, has ingresado en la orden; en una edad propicia para el placer te esfuerzas como un <i>S</i>rama<i>n</i>a, oh asceta; quiero oírte explicar esto.' (8)
 
-“Estoy sin protector, oh gran rey; no hay nadie que me proteja, no conozco ningún amigo ni nadie que tenga simpatía por mí.” (9)
+«Estoy sin protector, oh gran rey; no hay nadie que me proteja, no conozco ningún amigo ni nadie que tenga simpatía por mí.» (9)
 
 Entonces el rey Srênika, gobernante de Magadha, se rió: "¿Cómo es posible que no haya nadie que proteja a alguien tan hábil como tú?".
 
 «Soy el protector de los hombres religiosos [^265]; oh monje; disfruta de los placeres junto con tus amigos y parientes; pues es una rara oportunidad nacer como ser humano.» (11)
 
-“Tú mismo estás sin protector, <i>S</i>rê<i>n</i>ika, gobernante de Magadha; y como estás sin protector, ¿cómo puedes proteger a nadie más?” (12)
+«Tú mismo estás sin protector, <i>S</i>rê<i>n</i>ika, gobernante de Magadha; y como estás sin protector, ¿cómo puedes proteger a nadie más?» (12)
 
 Cuando el santo dirigió estas palabras sin precedentes al rey, quien quedó profundamente conmovido y asombrado, y lleno de estupor, (respondió) [^266]: (13)
 
@@ -100,7 +100,7 @@ Mi padre habría gastado todo lo que poseía por mí; pero no pudo librarme de m
 
 “Entonces dije: Es muy difícil soportar dolores una y otra vez en el interminable Círculo de Nacimientos. (31)
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 “Si por una vez me libero de estos grandes dolores, me convertiré en un monje sin hogar, tranquilo, contenido y sin actuar. (32)
 
@@ -142,11 +142,11 @@ Así, el pecador obstinado que abandona el camino de las Ginas más altas, que c
 
 Un hombre sabio que escucha este discurso, una instrucción llena de preciosa sabiduría, y que abandona todo camino de los malvados, debería recorrer el camino de los grandes Nirgranthas. (51)
 
-“Quien posee una conducta y una vida virtuosas, quien ha practicado el mejor autocontrol, quien se mantiene alejado de las influencias pecaminosas [^279], y quien ha destruido su Karman, alcanzará (al final) el lugar más grande, mejor y permanente (es decir, mukti),” (52)
+«Quien posee una conducta y una vida virtuosas, quien ha practicado el mejor autocontrol, quien se mantiene alejado de las influencias pecaminosas [^279], y quien ha destruido su Karman, alcanzará (al final) el lugar más grande, mejor y permanente (es decir, mukti),» (52)
 
 Así, el austero y tranquilo, gran asceta y gran sabio que guardaba grandes votos y poseía gran fama, predicó largamente este gran sermón: el gran deber de los Nirgranthas. (53)
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 Y el rey <i>S</i>rê<i>n</i>ika, complacido, habló así: "Verdaderamente has demostrado lo que es estar sin protección. (54)
 
@@ -214,7 +214,7 @@ Así lo digo.
 
 [^272]: 103:2 Phi<i>t</i><i>t</i>ai = bhra<i>s</i>yati, Gramática Prâk<i>ri</i>t de Hêma<i>k</i>andra, iv, 177.
 
-[^273]: 104:1 Véase arriba, [p. 94](Uttaradhyayana_19#p94).
+[^273]: 104:1 Véase arriba, [p. 94](../Uttaradhyayana_19#p94).
 
 [^274]: 104:2 Los versículos 38-53 son aparentemente una adición posterior porque (1) el tema tratado en ellos no está conectado con el de la parte anterior, y (2) están compuestos en un metro diferente.
 
@@ -228,4 +228,4 @@ Así lo digo.
 
 [^279]: 105:5 Kuhêd</i>avig<i>g</i>â.
 
-[^280]: 106:1 Nirâsava = nirâsrava. Para los âsravas, véase [p. 55](Uttaradhyayana_12#p55), nota [1](Uttaradhyayana_12#fn165).
+[^280]: 106:1 Nirâsava = nirâsrava. Para los âsravas, véase [p. 55](../Uttaradhyayana_12#p55), nota [1](../Uttaradhyayana_12#fn165).

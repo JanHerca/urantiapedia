@@ -40,7 +40,7 @@ Porque cuando un amante sincero y un amigo agradable logran el encuentro con la 
 
 Por lo demás, todo lo que lleva consigo, incluso la médula y la piel, quedará quemado, y no quedará nada excepto el amigo.
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 'Cuando los atributos del Anciano se hicieron manifiestos, entonces el Interlocutor (Moisés) consumió los atributos de todas las cosas accidentales.'
 
@@ -52,7 +52,7 @@ Porque todo lo que es poseído por los hombres está confinado dentro de sus pro
 
 Se debe dedicar mucha reflexión a esta explicación para que el fin pueda quedar manifiesto. . . .
 
-Esta estación es la de la Pobreza, de la que se dice: “La pobreza es mi gloria” (Mahoma).
+Esta estación es la de la Pobreza, de la que se dice: «La pobreza es mi gloria» (Mahoma).
 
 Son muchos los significados y grados de la pobreza exterior e interior que no creo conveniente mencionar aquí, y que, por tanto, reservo para otra ocasión, si Dios quiere y el Decreto Divino lo ordena.
 
@@ -62,7 +62,7 @@ Escucha las melodías del Espíritu con todo tu corazón y con toda tu alma, y �
 
 Aunque la generosidad del Generoso es continua e ininterrumpida, para cada tiempo y edad se determina una cierta porción y se ordena un cierto beneficio; y estos son otorgados (a los hombres) según una cierta cantidad y medida.
 
-“No hay nada que no esté en Nuestras Manos, y no distribuimos lo mismo sino en una medida determinada” (Corán).
+«No hay nada que no esté en Nuestras Manos, y no distribuimos lo mismo sino en una medida determinada» (Corán).
 
 La nube de la Misericordia del Amado se derramará sólo sobre el Jardín del Alma, y ​​no otorgará esta generosidad excepto en tiempos de Primavera.
 
@@ -116,7 +116,7 @@ Esforzaos; quizá, como un globo, pueda proteger esta lámpara de los vientos co
 
 Porque un cuello que se alza en el Amor de Dios, ciertamente será cortado por una espada; una cabeza que se alza en el Amor seguramente será arrastrada por los vientos; y el corazón que está ligado a la conmemoración del Amado ciertamente estará lleno de dolor.
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Qué bien lo dice el poeta:
 
@@ -145,7 +145,7 @@ Aquí Bahá'u'lláh enseña que, contrariamente a lo que algunos sufíes enseña
 
 (Esta nota se refiere al texto anterior, relativo al error de la desviación del mandamiento.)
 
-Aquí también (ya que se añaden al guión de “Los Siete Valles”) podemos colocar apropiadamente estos dichos:
+Aquí también (ya que se añaden al guión de «Los Siete Valles») podemos colocar apropiadamente estos dichos:
 
 “Vacíate de aquello que es causado por tu deseo (o lujuria); luego avanza hacia tu Maestro.
 

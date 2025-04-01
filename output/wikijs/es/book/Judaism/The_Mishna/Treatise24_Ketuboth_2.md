@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 3. Si los testigos declaran: «Esta atestación está escrita a mano, pero nos obligaron a hacerlo», o «éramos menores de edad», o «por consanguinidad estábamos legalmente inhabilitados para ser testigos», se les debe creer. [^793] Pero si hay testigos que prueben que es su letra, o si su escritura se prueba por otros medios, no se les debe creer.
 
-<span id="p245">[<sup><small>pág. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 § 4. Si uno de ellos declara: «Esta es mi letra, y esta es la de mi compañero»; y el otro declara también: «Esta es mi letra, y esta es la de mi compañero», se les debe creer. Si cada uno de ellos solo declara: «Esta es mi letra», se requiere el testimonio adicional de otra persona. Tal es el dictamen del Rabino; ​​pero los sabios sostienen que no se requiere el testimonio adicional de otra persona, sino que se debe creer a todo hombre que declare: «Esta es mi letra».
 

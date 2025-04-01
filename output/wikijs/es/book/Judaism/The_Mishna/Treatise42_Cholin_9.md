@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. En los siguientes casos, la piel se considera carne: la piel humana, la del cerdo doméstico [^1257] y, según R. José, también la del cerdo salvaje; la piel tierna de la joroba de un camello joven [^1258] y la de la cabeza de un ternero joven; la piel entre las pezuñas hendidas, la que cubre la matriz, la de un feto animal en embrión, la que está debajo de la cola, y las del hurón, el camaleón, el lagarto y el caracol. R. Jehudah dice: «La de un lagarto debe considerarse como la piel de una comadreja». [^1259] Si alguna de estas ha sido curtida o convertida en cuero, o ha sido suficientemente pisada [en el proceso de convertir la piel en cuero], se considera limpia, excepto la piel humana. R. Jochanan ben Nouri dice: «Los ocho reptiles tienen piel». [^1260]
 
-<span id="p348">[<sup><small>pág. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 § 3. Cuando una persona desuella a un animal doméstico o salvaje, limpio o impuro, grande o pequeño, para cubrirse con ella, se contrae y se comunica la contaminación cuando se retira tanta piel como se pueda, y si se trata de hacer una botella de piel, se contrae y se comunica hasta que se retira la piel del pecho. Si el desuello se inició desde las patas, se considera que todo el área está conectada y sujeta a contaminación por contacto y comunicación. R. Jochanan ben Nuri no considera que la piel que cubre el cuello esté conectada, pero los sabios sí la consideran así hasta que se retira toda la piel.
 

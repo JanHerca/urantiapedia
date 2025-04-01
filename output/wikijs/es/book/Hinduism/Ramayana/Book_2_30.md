@@ -147,7 +147,7 @@ Perdóname, porque tengo que irme.
 Una vez Kaudu, poderoso santo, que hizo
 Su morada en la sombra del bosque,
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Una vaca —y él conocía las exigencias del deber—
 Obediente a su padre, mató.
@@ -224,7 +224,7 @@ Como el deber manda que las reglas perduren.
 Ahora abandona tus preparativos,
 Y encierra en tu pecho tu dolor,
 Que mi piadoso deseo no se cumpla
-“Ir al exilio al bosque”.
+«Ir al exilio al bosque».
 Tranquilo e impasible, el príncipe explicó:
 Su deber exige y su propósito son altos.
 La madre vida y sentido recobrados,
@@ -272,7 +272,7 @@ Vivir con la intención correcta,
 Ahora, madre, apresura la partida de tu hijo,
 Y que tu bendición calme mi dolor,
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Para que pueda volver, una vez cumplido mi exilio,
 Como el Rey Yayáti, de nuevo en casa.
@@ -395,7 +395,7 @@ Las gotas que hacen reyes caen sobre mi cabeza,
 Deberán, con sus puras lustraciones ahora
 Inauguro mi voto de ermitaño.
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Pero ¿qué tengo yo que ver con las cosas?
 ¿Que toca el estado y la pompa de los reyes?
@@ -511,7 +511,7 @@ Entonces, si sus mentes están ociosamente inclinadas,
 Para condenarte, Rey, al destierro,
 A través de dos veces siete años de exilio ellos
 
-<span id="p122">[<sup><small>pág. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ¿Deberás quedarte en el bosque solitario?
 Consumiré las esperanzas que encienden
@@ -636,7 +636,7 @@ En lo profundo de mi alma sentí el fuego,
 Cuyas ofrendas fluían de ojos llorosos,
 Con combustible alimentado de gemidos y suspiros,
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Mientras alrededor de la llama el humo se calentaba.
 De lágrimas porque no eres sincero.
@@ -766,7 +766,7 @@ A su querido hijo le dijo:
 Invocando con cada pensamiento ansioso
 Una bendición sobre su cabeza.
 
-<span id="p124">[<sup><small>pág. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 
 
@@ -875,7 +875,7 @@ Para la felicidad y la salud de Ráma, el sacerdote,
 Quedándose sin dar lo que quedaba
 En ofrenda general, [^299] según lo ordenado.
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Tratando entre el tren de dos bocinas
 Miel, cuajada, aceite y cereales,
@@ -997,7 +997,7 @@ Con gotas húmedas, ella observó su dolor,
 Y lloró, consumido por el fuego del dolor.
 '¿Qué, oh mi señor, te ha cambiado tanto?
 
-<span id="p126">[<sup><small>pág. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Vrihaspati mira hacia abajo benignamente,
 Y la luna descansa en el signo de Pushya,
@@ -1123,7 +1123,7 @@ El pensamiento ha engendrado desprecio hacia mí.
 Oh, el mejor de los héroes, me despido.
 Con amargo desprecio un discurso como éste:
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Indigno de la fama de un guerrero
 Mancha de vergüenza al hijo de un monarca,
@@ -1248,7 +1248,7 @@ Responde a los torrentes mientras deliran,
 Y su voz de terror lanza:
 El bosque, amor mío, está lleno de males.
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Allí juegan poderosos monstruos sin miedo,
 Y en su enloquecido ataque matan
@@ -1372,7 +1372,7 @@ Pero perturban la vida de aquellos
 ¿Quién habita en el bosque y no tiene nada que hacer?
 Sus sentidos rebeldes están bien controlados.
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 En los salones de mi padre, antes de casarme,
 Oí a una dama que mendigaba su pan.
@@ -1488,7 +1488,7 @@ Mi señor, mi casa o todo lo que dejo.
 Mi presencia, amor, nunca añadirá
 Un dolor para entristecer más el corazón;
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 No te causaré pena ni preocupación,
 Ni sea una carga difícil de llevar.
@@ -1612,7 +1612,7 @@ Entre nuestros seguidores, a continuación, divídanse.
 Ella era consciente de que su señor lo aprobaba.
 Su marcha, con gran arrebato la conmovió,
 
-<span id="p131">[<sup><small>pág. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Se apresuró hacia dentro, sin demora,
 Dispuestos a regalar su riqueza.

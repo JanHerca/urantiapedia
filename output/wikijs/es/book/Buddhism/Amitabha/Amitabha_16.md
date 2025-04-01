@@ -29,7 +29,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Página [1](/es/book/Buddhism/Amitabha/Amitabha_01#p1).
 
@@ -65,7 +65,7 @@ Página [31](/es/book/Buddhism/Amitabha/Amitabha_04#p31).
 
 La historia de Kevaddha es un relato abreviado de un antiguo texto budista pali. Los versos, así como otros detalles, están traducidos casi literalmente. Cf. _Buddhism in Translations_ de Henry Warren, págs. 308-313.
 
-<span id="p120">[<sup><small>pág. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Página [32](/es/book/Buddhism/Amitabha/Amitabha_05#p32).
 
@@ -77,7 +77,7 @@ Página [40](/es/book/Buddhism/Amitabha/Amitabha_05#p40).
 
 Página 56.
 
-<span id="an_13">13</span> Padhâna sutta, 16. _S.BE_, X, <span id="p71">[<sup><small>pág. 71</small></sup>]</span>.
+<span id="an_13">13</span> Padhâna sutta, 16. _S.BE_, X, <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>.
 
 Página [64](/es/book/Buddhism/Amitabha/Amitabha_08#p64).
 
@@ -101,7 +101,7 @@ Página [96](/es/book/Buddhism/Amitabha/Amitabha_12#p96).
 
 <span id="an_19">19</span> El _Saddharmapundarîka_, capítulo 7.
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Página [98](/es/book/Buddhism/Amitabha/Amitabha_12#p98).
 

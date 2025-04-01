@@ -45,7 +45,7 @@ Cómo Fray Junípero quedó en éxtasis durante la celebración de la Misa
 
 Una vez, mientras Fray Junípero oía Misa con gran devoción, quedó absorto en éxtasis por la elevación de su espíritu durante largo tiempo; y, tras ser dejado en una celda lejos de los demás frailes, al recobrar la consciencia, comenzó a decir con gran fervor: «Oh, frailes míos, ¿quién hay en esta vida tan noble que no llevaría con gusto un cesto de estiércol por toda la ciudad si le dieran una casa llena de oro?». Y dijo: «¡Ay! ¿Por qué no estamos dispuestos a sufrir un poco de vergüenza, si así podemos alcanzar la vida bienaventurada?».
 
-<span id="p219">[<sup><small>pág. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## CAPÍTULO XIII
 
@@ -57,7 +57,7 @@ Fray Junípero tenía como compañero a un fraile a quien amaba entrañablemente
 
 
 
-<span id="p220">[<sup><small>pág. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## CAPÍTULO XIV
 

@@ -1,6 +1,6 @@
 ---
 title: "Yasna LXXI. La conclusión de Yasna"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p327">[<sup><small>pág. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 ## YASNA LXXI (SP. LXX). LA CONCLUSIÓN DEL YASNA.
 

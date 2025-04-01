@@ -52,7 +52,7 @@ Un monje que siempre se esfuerza con respecto a los seis lê<i>s</i>yâs [^501],
 
 Un monje que siempre se esfuerza con respecto a las (siete) reglas de aceptación de limosnas [^503], y las siete causas de peligro (para otros hombres) no permanecerá, etc. (9)
 
-<span id="p182">[<sup><small>pág. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 Un monje que siempre se esfuerza con respecto a los (ocho) objetos de orgullo [^504], a aquello que protege su castidad [^505], y a la Ley décuple de los monjes [^506]. (10)
 
@@ -64,7 +64,7 @@ Un monje que siempre se esfuerza con respecto a los dieciséis Gâthâs [^509], 
 
 Un monje que siempre se esfuerza con respecto a los (dieciocho tipos de) continencia, a los (diecinueve) <i>g</i><i>ñ</i>âtâdhyayanas [^510], y a los (veinte) casos para no concentrar los pensamientos, no lo hará, etc. (14)
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Un monje que siempre se esfuerza con respecto a las veintiuna acciones prohibidas [^511] y los veintidós problemas [^512], no permanecerá, etc. (15)
 
@@ -126,7 +126,7 @@ Así lo digo.
 
 [^504]: 181:7 De los comentarios aprendo dos más de estos seis kâra<i>n</i>as: vêdana y vaiyâv<i>ri</i>tya. No puedo decir cuáles son los tres restantes.
 
-[^505]: 181:8 Se enumeran en la nota [^497] sobre XXX, 25, [p. 178](Uttaradhyayana_30#p178).
+[^505]: 181:8 Se enumeran en la nota [^497] sobre XXX, 25, [p. 178](../Uttaradhyayana_30#p178).
 
 [^507]: 182:1 Viz. casta, familia, belleza, etc.; véase Sûtrak<i>ri</i>t. II, 2, 17.
 
@@ -144,7 +144,7 @@ Así lo digo.
 
 [^514]: 183:1 <i>Sabala</i>, porque «varian» la conducta. Las acciones a las que se hace referencia son sentarse en un asiento sin limpiar, etc.
 
-[^515]: 183:2 Parisaha, véase arriba, [p. 9](Uttaradhyayana_2#p9) y sigs.
+[^515]: 183:2 Parisaha, véase arriba, [p. 9](../Uttaradhyayana_2#p9) y sigs.
 
 [^516]: 183:3 Rûpa. Los veinticuatro dioses son: diez Bhavanapatis, ocho Vyantaras, cinco <i>G</i>yôtishkas, un Vaimânika; o los veinticuatro profetas.
 

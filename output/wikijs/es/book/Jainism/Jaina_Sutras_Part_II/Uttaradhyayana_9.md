@@ -52,9 +52,9 @@ Al oír esto, el vidente real Nami, continuando con sus razones y argumentos, re
 
 'En Mithilâ está el árbol sagrado [^132] Manorama, lleno de hojas, flores y frutos, que proyecta una sombra fresca; este árbol es siempre el refugio favorito de muchos (pájaros). (9)
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
-“Ahora, mientras este árbol sagrado Manorama es sacudido por la tormenta, los pájaros, sufriendo, desprovistos de refugio y miserables, gritan en voz alta”. (10)
+«Ahora, mientras este árbol sagrado Manorama es sacudido por la tormenta, los pájaros, sufriendo, desprovistos de refugio y miserables, gritan en voz alta». (10)
 
 Al oír esto, el rey de los dioses, continuando con sus razones y argumentos, respondió al vidente real Nami de esta manera: (11)
 
@@ -70,7 +70,7 @@ A un monje que ha abandonado a sus hijos y esposas y ha dejado de actuar, no le 
 
 Indra respondió (ver versículo 11): (17)
 
-“Erige un muro, puertas y almenas; cava un foso; construye <i>s</i>ataghnîs [^133]: entonces serás [^134] un Kshattriya.” (18)
+«Erige un muro, puertas y almenas; cava un foso; construye <i>s</i>ataghnîs [^133]: entonces serás [^134] un Kshattriya.» (18)
 
 Nami respondió (ver versículo 8): (19)
 
@@ -78,7 +78,7 @@ Nami respondió (ver versículo 8): (19)
 
 Indra respondió (ver versículo 11): (23)
 
-“Construye palacios, casas excelentes [^136] y torres; así serás un Kshattriya.” (24)
+«Construye palacios, casas excelentes [^136] y torres; así serás un Kshattriya.» (24)
 
 Nami respondió (ver versículo 8): (25)
 
@@ -86,7 +86,7 @@ Nami respondió (ver versículo 8): (25)
 
 Indra respondió (ver versículo 11): (27)
 
-“Castigando a ladrones y salteadores, a ladrones de carteras y a salteadores, debes establecer la seguridad pública; así serás un Kshattriya.” (28)
+«Castigando a ladrones y salteadores, a ladrones de carteras y a salteadores, debes establecer la seguridad pública; así serás un Kshattriya.» (28)
 
 Nami respondió (ver versículo 8): (29)
 
@@ -94,7 +94,7 @@ Nami respondió (ver versículo 8): (29)
 
 Indra respondió (ver versículo 11): (31)
 
-“Oh rey, somete a todos los príncipes que no te reconocen; así serás un verdadero Kshattriya.” (32)
+«Oh rey, somete a todos los príncipes que no te reconocen; así serás un verdadero Kshattriya.» (32)
 
 Nami respondió (ver versículo 8): (33)
 
@@ -114,7 +114,7 @@ Nami respondió: (39)
 
 Indra respondió: (41)
 
-“Has abandonado el terrible â<i>s</i>rama (el del jefe de familia) [^138] y deseas entrar en otro; (sigue siendo lo que eras), oh rey, y conténtate con observar los días de Pôsaha.” (42)
+«Has abandonado el terrible â<i>s</i>rama (el del jefe de familia) [^138] y deseas entrar en otro; (sigue siendo lo que eras), oh rey, y conténtate con observar los días de Pôsaha.» (42)
 
 Nami respondió: (43)
 
@@ -138,7 +138,7 @@ Nami respondió: (52)
 
 'Los placeres son la espina que pica, los placeres son veneno, los placeres son como una serpiente venenosa; quien desea placeres no los conseguirá, y al final acabará mal. (53)
 
-“Se hundirá por la ira; se hundirá por el orgullo; el engaño bloqueará su camino; por la avaricia incurrirá en peligros en ambos mundos”. (54)
+«Se hundirá por la ira; se hundirá por el orgullo; el engaño bloqueará su camino; por la avaricia incurrirá en peligros en ambos mundos». (54)
 
 Despojándose de su apariencia de Brâhma<i>n</i>a y haciendo visible su verdadera forma, <i>S</i>akra lo saludó respetuosamente y lo alabó con estas dulces palabras: (55)
 
@@ -146,9 +146,9 @@ Despojándose de su apariencia de Brâhma<i>n</i>a y haciendo visible su verdade
 
 ¡Bravo por tu sencillez, oh santo! ¡Bravo por tu humildad, oh santo! ¡Bravo por tu perfecta paciencia! ¡Bravo por tu perfecta liberación! (57)
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
-“Aquí (en la tierra) eres el hombre más alto, reverendo señor, y de aquí en adelante serás el más alto; exento de todas las imperfecciones alcanzarás la Perfección, un estado superior al cual no hay ninguno en este mundo.” (58)
+«Aquí (en la tierra) eres el hombre más alto, reverendo señor, y de aquí en adelante serás el más alto; exento de todas las imperfecciones alcanzarás la Perfección, un estado superior al cual no hay ninguno en este mundo.» (58)
 
 Así alabando al Vidente real, <i>S</i>akra con perfecta fe mantuvo su lado derecho hacia él y le rindió reverencia una y otra vez. (59)
 

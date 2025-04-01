@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 
 Cerca de la ciudad de Vaisali, había un inmenso bosque que había sido obsequiado al Maestro, y allí vivía cuando le llegó la noticia de que su padre, el rey Suddhodana, había enfermado. El rey era anciano; la enfermedad era grave; se temía que estuviera moribundo. El Maestro decidió visitarlo y, surcando los aires, llegó a Kapilavastu.
@@ -41,13 +41,13 @@ El rey yacía tristemente en su lecho. Jadeaba. La muerte estaba muy cerca. Sin 
 
 Largo es el camino que has recorrido, oh rey, y siempre te esforzaste por hacer el bien. Desconocías los malos deseos; tu corazón era inocente de odio, y la ira jamás cegó tu mente. ¡Feliz quien se entrega a hacer el bien! Feliz quien mira a un estanque límpido y ve su rostro inmaculado, pero mucho más feliz quien examina su mente y conoce su pureza. Tu mente es pura, oh rey, y tu muerte tan serena como el final de un hermoso día.
 
-<span id="p207">[<sup><small>pág. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 «Bendito», dijo el rey, «ahora comprendo la inconstancia de los mundos. Estoy libre de todo deseo; estoy libre de las cadenas de la vida».
 
 Una vez más, rindió homenaje al Buda. Luego se dirigió a los sirvientes reunidos en el salón.
 
-“Amigos”, dijo, “debo haberles hecho daño muchas veces, pero nunca me mostraron rencor. Fueron amables y buenos. Pero antes de morir, necesito su perdón. Los agravios que les hice fueron involuntarios; perdónenme, amigos”.
+«Amigos», dijo, «debo haberles hecho daño muchas veces, pero nunca me mostraron rencor. Fueron amables y buenos. Pero antes de morir, necesito su perdón. Los agravios que les hice fueron involuntarios; perdónenme, amigos».
 
 Los sirvientes lloraban. Murmuraban: «¡No, señor, nunca nos ha hecho daño!». Suddhodana continuó:
 

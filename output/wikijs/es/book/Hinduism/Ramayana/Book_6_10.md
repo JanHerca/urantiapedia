@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-[1b](Libro_6_10#fn905)
+[1b](../Libro_6_10#fn905)
 
 
 ## CANTO I.: DISCURSO DE RÁMA.
@@ -45,9 +45,9 @@ Con palabras amistosas respondió:
 'He aquí una gran tarea realizada.
 Que jamás corazón alguno sino suyo concibió.
 ¿Quién más puede saltar del otro lado del mar?
-¿Salvar a Váyu [2b](Libro_6_10#fn906) y al Rey Emplumado? [3b](Libro_6_10#fn907)
+¿Salvar a Váyu [2b](../Libro_6_10#fn906) y al Rey Emplumado? [3b](../Libro_6_10#fn907)
 Quien, pasa los portales fuertes y altos.
-Que los Nágas, [4b](Libro_6_10#fn908) dioses y demonios desafían,
+Que los Nágas, [4b](../Libro_6_10#fn908) dioses y demonios desafían,
 Donde los anfitriones de Rávan ​​mantienen su posición,
 ¿Y llegar ileso a través de las profundidades?
 Con tal acción el hijo del Dios del Viento
@@ -80,7 +80,7 @@ Para tender un puente a través del mar,
 La ciudad de nuestro enemigo por alcanzar
 Que corona la montaña junto a la playa;
 
-<span id="p428">[<sup><small>pág. 428</small></sup>]</span>
+<span id="p428"><sup><small>[ p. 428 ]</small></sup></span>
 
 Y cuando nuestros pies pisen esa isla,
 Alégrate y considera muerto a tu enemigo.
@@ -164,7 +164,7 @@ Rellenaron los fosos que rodean la ciudad,
 Los pilares y los portales se volcaron,
 Y la majestuosa Lanká fue estropeada y quemada,
 Sin embargo, nosotros los Vánars nos abrimos paso
-Sobre el amplio asiento del dominio de Varun [1](Libro_6_10#fn909),
+Sobre el amplio asiento del dominio de Varun [1](../Libro_6_10#fn909),
 Asegúrate de que la ciudad del enemigo
 Está condenado a un derrocamiento repentino,
 ¿Por qué, entonces, una ventaja tan grande en el ejército?
@@ -203,7 +203,7 @@ Es un buen augurio para nuestra empresa.
 Este brazo matará al demonio; y ella.
 Mi consorte volverá a ser libre.
 
-<span id="p429">[<sup><small>pág. 429</small></sup>]</span>
+<span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 
 Mi ojo palpitante hacia arriba presagia
 El ansiado triunfo sobre mis enemigos.
@@ -315,7 +315,7 @@ La estrella polar y los siete santos [^914]
 Brilla intensamente en el cielo del norte,
 Y el gran Tris'anku, [^915] glorioso rey,
 
-<span id="p430">[<sup><small>pág. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 El hijo de Ikshváku, de quien descendemos,
 Rayos de gloria sin nubes cerca
@@ -370,7 +370,7 @@ Luego, desde la orilla, los capitanes miraron
 Sobre las olas que levantaban las brisas
 
 A la furia, mientras se precipitaban en la espuma
-Sobre el reino de Várun, el hogar de los Asur: [1b](Book_6_10#fn919)
+Sobre el reino de Várun, el hogar de los Asur: [1b](../Book_6_10#fn919)
 El mar que reía con espuma y bailaba
 Con olas donde los rayos del sol se reflejaban:
 Dónde, cuando la luz empezó a desvanecerse,
@@ -424,7 +424,7 @@ Que su joven vida transcurrió en dolor.
 Respira, suave viento, ¡oh, respira donde ella
 Se encuentra prisionero, y luego respira sobre mí,
 
-<span id="p431">[<sup><small>pág. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 Y aunque no pueda encontrar mi amor,
 Tu beso será divinamente dulce.
@@ -541,7 +541,7 @@ Los Dioses-Serpiente, y asaltaron su fortaleza;
 Escalaron el monte Kailása y derribaron
 Kuvera [^920] y su tripulación Yaksha,
 
-<span id="p432">[<sup><small>pág. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 Obligando al altivo amigo de Siva
 ¿Bajo un brazo más poderoso para doblar?
@@ -655,7 +655,7 @@ Enredados en la red que tejemos,
 La pena que ambos deben pagar,
 Y perderán sus vidas perdidas hoy.'
 
-<span id="p433">[<sup><small>pág. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 Entonces, con su alma guerrera en llamas,
 Nikumbha habló con ira ardiente:
@@ -759,7 +759,7 @@ La mayor gloria de la isla de los gigantes:
 Así, antes que su ardiente carrera concluya,
 Una nube de otoño deja pasar el sol.
 
-<span id="p434">[<sup><small>pág. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 Escuchó voces auspiciosas que se alzaban.
 Con fuerte acuerdo la nota de alabanza,

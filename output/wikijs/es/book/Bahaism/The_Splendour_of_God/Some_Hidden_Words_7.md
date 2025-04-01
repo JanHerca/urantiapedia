@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T9:13:35Z
 
 El principio de la religión es reconocer lo revelado por Dios y obedecer las leyes establecidas en Su Libro.
 
-<span id="p105">[<sup><small>pág. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 La fuente de todo bien es la confianza en Dios, la obediencia a su mandato y la satisfacción en su voluntad.
 

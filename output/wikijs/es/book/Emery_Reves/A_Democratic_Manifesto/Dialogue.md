@@ -31,7 +31,7 @@ dateCreated: 2025-2-12T14:42:47Z
 
 1\. Tsze-loo dijo: «El Príncipe de Wei te ha estado esperando para que junto a ti administres el gobierno. ¿Qué consideras que será lo primero que hagas?»
 
-“2\. _El Maestro respondió_: “Lo que es necesario es rectificar los nombres.”
+«2\. _El Maestro respondió_: “Lo que es necesario es rectificar los nombres.»
 
 —¡Así es! —dijo Tsze-loo—. Te equivocas. ¿Por qué es necesario rectificar?
 

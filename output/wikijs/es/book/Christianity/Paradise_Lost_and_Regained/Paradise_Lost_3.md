@@ -205,7 +205,7 @@ Arrastra tras él a toda la raza humana,
 Abolir tu creación y deshacerla,
 ¿Para él qué has hecho para tu gloria?
 Así también tu bondad y tu grandeza deberían ser
-“Ser interrogado y blasfemado sin defensa”.
+«Ser interrogado y blasfemado sin defensa».
 
 A lo cual el gran Creador respondió así:
 “Oh Hijo, en quien mi alma tiene el mayor deleite,

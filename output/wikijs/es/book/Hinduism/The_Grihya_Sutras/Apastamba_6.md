@@ -176,7 +176,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 [^775]: 284:10 Traduzco como si las palabras tena tryaham y karmaniv<i>ri</i>tti<i>h</i> formaran dos Sutras.
 
-[^776]: 284:13 'Habiendo realizado los mismos ritos que al inicio del estudio del Âgneya-kâ<i>nd</i>a, realiza un Upasthâna a las deidades como se enseñó con respecto al <i>S</i>ukriyavrata.' Haradatta.—'Después de que se hayan realizado las ceremonias hasta los Â<i>n</i>yabhâgas, se ofrece una oblación principal de Â<i>n</i>ya con la fórmula, “A Agni, el <i>Ri</i>shi del Kâ<i>nd</i>a, svâhâ!”' Sudar<i>n</i>anârya.
+[^776]: 284:13 'Habiendo realizado los mismos ritos que al inicio del estudio del Âgneya-kâ<i>nd</i>a, realiza un Upasthâna a las deidades como se enseñó con respecto al <i>S</i>ukriyavrata.' Haradatta.—'Después de que se hayan realizado las ceremonias hasta los Â<i>n</i>yabhâgas, se ofrece una oblación principal de Â<i>n</i>ya con la fórmula, «A Agni, el <i>Ri</i>shi del Kâ<i>nd</i>a, svâhâ!»' Sudar<i>n</i>anârya.
 
 [^777]: 284:14 Compárese las declaraciones dadas en la nota sobre Gobhila III,
 

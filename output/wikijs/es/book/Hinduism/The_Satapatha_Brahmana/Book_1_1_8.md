@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p216">[<sup><small>pág. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 <span id="v1_8_1"><sup><small>1:8:1</small></sup></span>
 
@@ -190,7 +190,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_8_3_1010"><sup><small>1:8:3:1010.</small></sup></span> Habiendo llamado al <i>s</i>rausha<i>t</i> (y habiendo sido respondido por el Âgnîdhra), él se dirige así (a los Hot<i>ri</i>), 'Los divinos Hot<i>ri</i>s [^559] son ​​convocados—', los divinos Hot<i>ri</i>s, es decir, son (representados por) estos <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> palos envolventes, ya que estos son Agnis (fuegos) [^560]. EspañolCuando dice, 'los Hot<i>ri</i>s divinos son convocados (ishita),' quiere decir, 'los Hot<i>ri</i>s divinos son deseados (ish<i>t</i>a).' \[Él continúa\], '—para la proclamación del éxito [^561],'—porque en esto los dioses mismos están de hecho interesados, a saber, que ellos deberían decir lo que es favorable (que conduce al éxito, sâdhu), que ellos deberían hacer lo que es favorable: por eso él dice 'para la proclamación del éxito.'—'¡El humano es convocado para el canto de alabanza (sûktavâka) [^562]!' con estas palabras él insta a este Hot<i>ri</i> humano a cantar alabanzas.
 
-<span id="v1_8_3_1111"><sup><small>1:8:3:1111.</small></sup></span> Ahora toma el manojo de prastara [^563]. El prastara, sin duda, es el sacrificador: por lo tanto, adondequiera que vaya su sacrificio, ¡allá le desea buena suerte! [^564] Ahora es al mundo de los dioses adonde fue su sacrificio; y al mundo de los dioses, en consecuencia, lleva al sacrificador. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 1:8:3:1212\. Si desea lluvia, que tome (el prastara), con este texto (Vâ<i>g</i>. S. II, 16 d): «¡Estad en armonía, cielo y tierra!». Porque cuando el cielo y la tierra están en armonía, entonces llueve [^565]: por eso dice: «¡Estén en armonía, cielo y tierra!» —«¡Que Mitra y Varuna te favorezcan con la lluvia!» con lo cual dice: «¡Que quien gobierna la lluvia te favorezca con la lluvia!». Ahora bien, quien gobierna la lluvia es, sin duda, el que sopla (Vâyu, el viento); y es cierto que sopla como uno solo; pero, al entrar en el hombre, se convierte en uno que se mueve hacia adelante y hacia atrás; y son estos dos, la exhalación y la inhalación. Y Mitra y Varuna son, sin duda, la exhalación y la inhalación; y por eso dice con esa (oración): «¡Que quien gobierna la lluvia te favorezca con la lluvia!». Que la repita, pues, con este texto, pues entonces la lluvia siempre será propicia. Lo unge (el prastara): con ello le hace (al sacrificador) una oblación, pensando: “¡Que él, como oblación, vaya al mundo de los dioses!”
+<span id="v1_8_3_1111"><sup><small>1:8:3:1111.</small></sup></span> Ahora toma el manojo de prastara [^563]. El prastara, sin duda, es el sacrificador: por lo tanto, adondequiera que vaya su sacrificio, ¡allá le desea buena suerte! [^564] Ahora es al mundo de los dioses adonde fue su sacrificio; y al mundo de los dioses, en consecuencia, lleva al sacrificador. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 1:8:3:1212\. Si desea lluvia, que tome (el prastara), con este texto (Vâ<i>g</i>. S. II, 16 d): «¡Estad en armonía, cielo y tierra!». Porque cuando el cielo y la tierra están en armonía, entonces llueve [^565]: por eso dice: «¡Estén en armonía, cielo y tierra!» —«¡Que Mitra y Varuna te favorezcan con la lluvia!» con lo cual dice: «¡Que quien gobierna la lluvia te favorezca con la lluvia!». Ahora bien, quien gobierna la lluvia es, sin duda, el que sopla (Vâyu, el viento); y es cierto que sopla como uno solo; pero, al entrar en el hombre, se convierte en uno que se mueve hacia adelante y hacia atrás; y son estos dos, la exhalación y la inhalación. Y Mitra y Varuna son, sin duda, la exhalación y la inhalación; y por eso dice con esa (oración): «¡Que quien gobierna la lluvia te favorezca con la lluvia!». Que la repita, pues, con este texto, pues entonces la lluvia siempre será propicia. Lo unge (el prastara): con ello le hace (al sacrificador) una oblación, pensando: «¡Que él, como oblación, vaya al mundo de los dioses!»
 
 <span id="v1_8_3_1313"><sup><small>1:8:3:1313.</small></sup></span> Unge la parte superior (del prastara con la mantequilla) en el <i>g</i>uhû, la parte media (con eso) en el upabh<i>ri</i>t, y el extremo inferior (con eso) en el dhruvâ; pues el <i>g</i>uhû es, por así decirlo, la parte superior, el upabh<i>ri</i>t el medio, y el dhruvâ la raíz. <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 1:8:3:1414\. Unge (cada vez), con el texto (Vâ<i>g</i>. S. II, 16 e), "¡Que (los dioses) coman, lamiendo al pájaro ungido [^566]!". Con ello, hace que (el prastara y, por lo tanto, simbólicamente, el sacrificador) se convierta en un pájaro y vuele desde este mundo de los hombres al mundo de los dioses. Luego lo atrae dos veces (hacia el Âhavanîya) hacia abajo (cerca del suelo). La razón por la que debe atraerlo hacia abajo (es esta): el prastara es el sacrificador; y de esta manera no lo desplaza de su firme posición; y, además, asegura la lluvia para este lugar.
 
@@ -250,7 +250,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^507]: 216:2 Según el escoliasta, 'se llevará a todas estas criaturas que viven en Bharatavarsha a algún otro país'.
 
-[^508]: 216:3 ? Sa<i>s</i>vad dha <i>gh</i>asha âsa, sa hi <i>g</i>yesh_th<i>a</i>m_ vardhate 'thetithî<i>m</i> samâ<i>m</i> tad augha âgantâ. 'Bald war er ein Grossfisch (<i>gh</i>asha), denn er wuchs gewaltig', Weber. 'Pronto se convirtió en un gran pez. Le dijo a Manu: “Cuando sea adulto, ese mismo año vendrá el diluvio”', Max Müller. 'Inmediatamente se convirtió en un gran pez; pues crece al máximo', Muir. Quizás <i>gh</i>asha se refiere aquí al nombre de algún fabuloso pez cornudo (cf. <i>s</i><i>ri</i>ṅgi, <i>s</i><i>ri</i>ṅgî). En el Yagur-veda Negro (Taitt. S. I, 7, 1; II, 6, 7), el i<i>d</i>â (pág. 217) se representa como una vaca, producida por Mitra y Varuna (véase más adelante, párr. 24). Quizás fue esta versión y la representación simbólica del i<i>d</i>â como ganado lo que sugirió la noción de un pez cornudo, al adaptar una leyenda más antigua.
+[^508]: 216:3 ? Sa<i>s</i>vad dha <i>gh</i>asha âsa, sa hi <i>g</i>yesh_th<i>a</i>m_ vardhate 'thetithî<i>m</i> samâ<i>m</i> tad augha âgantâ. 'Bald war er ein Grossfisch (<i>gh</i>asha), denn er wuchs gewaltig', Weber. 'Pronto se convirtió en un gran pez. Le dijo a Manu: «Cuando sea adulto, ese mismo año vendrá el diluvio»', Max Müller. 'Inmediatamente se convirtió en un gran pez; pues crece al máximo', Muir. Quizás <i>gh</i>asha se refiere aquí al nombre de algún fabuloso pez cornudo (cf. <i>s</i><i>ri</i>ṅgi, <i>s</i><i>ri</i>ṅgî). En el Yagur-veda Negro (Taitt. S. I, 7, 1; II, 6, 7), el i<i>d</i>â (pág. 217) se representa como una vaca, producida por Mitra y Varuna (véase más adelante, párr. 24). Quizás fue esta versión y la representación simbólica del i<i>d</i>â como ganado lo que sugirió la noción de un pez cornudo, al adaptar una leyenda más antigua.
 
 [^509]: 217:1 Adopto aquí, aunque no sin vacilación, la interpretación propuesta en el Dictado de San Pedro (sv. upa-âs), que favorece la separación de mâm del verbo. El profesor Max Müller traduce: «Construye un barco, pues, y adórame». El Dr. Muir: «Construirás, pues, un barco y recurrirás a mí». El Mahâbhârata dice: «Cuando estés en el barco, me buscarás: seré reconocible (porque llevaré un cuerno), lo que, después de todo, podría proporcionar la explicación correcta de nuestro pasaje.
 
@@ -266,7 +266,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^515]: 219:1 I<i>d</i>ayâ <i>k</i>arati tiene el doble significado de 'vive con I<i>d</i>â (la mujer)' y 'practica ritos sacrificiales con la ceremonia del i<i>d</i>â'.
 
-[^516]: 219:2 Véase [p. 16](Book_1_1_1#p16), nota [1](Book_1_1_1#fn106).
+[^516]: 219:2 Véase [p. 16](../Book_1_1_1#p16), nota [1](../Book_1_1_1#fn106).
 
 [^517]: 219:3 La expresión técnica usada para este corte quíntuple del i<i>d</i>â es sam-ava-do, 'cortar completamente (o juntos)' o, según el Dic. de San Pedro, 'dividir y juntar los p. 220 pedazos'. Los cinco cortes del i<i>d</i>â consisten en la upastara<i>n</i>a, o capa inferior de mantequilla en el i<i>d</i>âpâtrî; de dos cortes de cada uno de los havis (o platos de comida sacrificial) de sus partes sur y central respectivamente; y de dos gotas de mantequilla, como en el caso del svishtakrit (véase Kâty. III, 4, 6, y nota sobre I, 7, 3, 20). Según algunas autoridades, el i<i>d</i>â consta de solo cuatro cortes (cf. Hillebrandt, Neu- und Vollm. p. 122).
 
@@ -274,7 +274,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^520]: 220:2 Un gesto aquí indica las dos articulaciones centrales (o, según Harisvâmin, los eslabones intermedios) del dedo índice derecho del Hotri, a saber, primero la articulación inferior y después (párrafo 15) la articulación superior; tras lo cual el Hotri se aplica las articulaciones respectivas a los labios y unta la mantequilla sobre ellos, cf. Â<i>s</i>v. <i>S</i>. I, 7, 1; Kâty. III, 4, 9; Hillebrandt, op. cit., p. 124. En <i>S</i>at. Br. XII, 2, 4, 5 el dedo índice se llama annâditamâ, o el dedo 'que come más comida'; cf. Weber, Prati<i>g</i><i>ñ</i>âsûtra, pág. 97.
 
-[^521]: 221:1 Enâm hotari <i>s</i>rayati, literalmente 'hace que entre, permanezca en, el Hot<i>ri</i>'. Sin embargo, aquí, como en I, 6, 4, 7, el autor confunde el verbo <i>s</i>ri con <i>s</i>râ, 'cocinar'. Para más información, véase [p. 177](Book_1_1_6#p177), nota [4](Book_1_1_6#fn408).
+[^521]: 221:1 Enâm hotari <i>s</i>rayati, literalmente 'hace que entre, permanezca en, el Hot<i>ri</i>'. Sin embargo, aquí, como en I, 6, 4, 7, el autor confunde el verbo <i>s</i>ri con <i>s</i>râ, 'cocinar'. Para más información, véase [p. 177](../Book_1_1_6#p177), nota [4](../Book_1_1_6#fn408).
 
 [^522]: 221:2 Esto, según Â<i>s</i>v. <i>S</i>r. I, 7, 3 y com., se efectúa de la siguiente manera: el Hotri toma el i<i>d</i>â con las manos unidas (a<i>ñ</i><i>g</i>ali) y lo coloca en su mano izquierda; tras lo cual el Adhvaryu corta el avântare<i>d</i>â (corte quíntuple) del i<i>d</i>â en la mano derecha del Hotri, cuyos dedos apuntan hacia el norte; los cinco cortes aparentemente consisten en la capa inferior de mantequilla, dos trozos cortados del i<i>d</i>â y la mantequilla que gotea sobre ellos. Cf. Hillebrandt, op. cit., p. 125.
 
@@ -284,7 +284,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^525]: 222:2 Es decir, el Hotri, como representante de los sacerdotes oficiantes. Schol.
 
-[^526]: 222:3 Sobre los sâmans rathantara y b<i>ri</i>hat, véase [p. 196](Book_1_1_7#p196), nota [2](Book_1_1_7#fn446). El sâman vâmadevya es Sâma-veda II, 32-34: kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, «¿Con qué favor nos asistirá, el maravilloso y siempre alegre amigo?», etc. Cf. Haug, Ait. Br. II, 246.
+[^526]: 222:3 Sobre los sâmans rathantara y b<i>ri</i>hat, véase [p. 196](../Book_1_1_7#p196), nota [2](../Book_1_1_7#fn446). El sâman vâmadevya es Sâma-veda II, 32-34: kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, «¿Con qué favor nos asistirá, el maravilloso y siempre alegre amigo?», etc. Cf. Haug, Ait. Br. II, 246.
 
 [^527]: 222:4 En lugar de upahûtâ gâva<i>h</i>, el Taitt. lee upahûtâ dhenu<i>h</i>, «aquí se llama a la vaca». Â<i>s</i>val. <i>S</i>r. tiene upahûtâ gâva<i>h</i> sahâ<i>s</i>ira<i>h</i>\—upahûtâ dhenu<i>h</i> saha<i>ri</i>shabhâ. Aquí y después de los llamados subsiguientes, aparentemente tenemos que añadir las fórmulas inversas: «Que las vacas y el toro nos llamen», etc., como en Taitt. Br., omitidas también en Taitt. S. II, 6, 7.
 
@@ -350,7 +350,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^558]: 237:1 En Taitt. Br. III, 3, 9 se da una explicación simbólica diferente de la separación de las cucharas: se dice que, al desplazar el <i>g</i>uhû hacia el este, ahuyenta a los enemigos que han nacido; y, al desplazar el upabh<i>ri</i>t hacia el oeste, ahuyenta a los que nacerán en el más allá; y el sacrificador entonces se establece firmemente en este mundo.
 
-[^559]: 237:2 Véase [p. 162](Book_1_1_6#p162), nota [3](Book_1_1_6#fn378).
+[^559]: 237:2 Véase [p. 162](../Book_1_1_6#p162), nota [3](../Book_1_1_6#fn378).
 
 [^560]: 238:1 Este pasaje es de considerable importancia, ya que demuestra que la prohibición del matrimonio entre parientes consanguíneos cercanos —tan rígidamente aplicada en épocas posteriores y ya formulada en pasajes como Âpast. Dharm. II, 5, 15, 16, «No se debe entregar a la hija a un hombre perteneciente al mismo gotra. Ni a un pariente (dentro de seis grados) por línea materna (o paterna)». Gobh. III, 4, 3-5, «Se debe tomar por esposa a alguien que no sea del mismo gotra, o que no sea sap<i>n</i><i>d </i>a de la propia madre»— aún no estaba firmemente establecida en la época de nuestro autor. Harisvâmin comenta, en relación con nuestro texto, que los Kâ<i>n</i>vas permiten el matrimonio interreligioso en tales casos a partir de la tercera generación (el texto Kâ<i>n</i>va del <i>S</i>at. Br. dice: «En el tercer hombre nos unimos, en el cuarto hombre nos unimos»), y los Saurâsh<i>t</i>ras a partir de la cuarta generación; y que los Dâkshi<i>n</i>âtyas permiten el matrimonio con las hijas del hermano de la madre (pág. 239) y con los hijos de la hermana del padre. Véase Weber, Ind. Stud. X, pág. 75; Max Müller, History of Ancient Sanskrit Literature, pág. 387; Bühler, Sacred Laws of the Âryas, I, pág. 126.
 
@@ -370,7 +370,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^568]: 240:5 Svagâ.? literalmente 'auto-ir', es decir, '¡éxito para él!'
 
-[^569]: 241:1 Cf. Ait. Âr. III, I, 2, 2-4 (Max Müller, Up. I, p. 249): «La primera mitad (de un sa<i>m</i>hitâ o combinación de letras finales e iniciales) es la tierra, la segunda mitad el cielo, y su unión es la lluvia, el unificador Par<i>g</i>anya. Y así es cuando él (Par<i>g</i>anya) llueve con tanta fuerza, sin cesar, día y noche; entonces dicen también (en lenguaje común): “El cielo y la tierra se han unido”. Véase también <i>S</i>at. Br. I, 7, 2, 16.
+[^569]: 241:1 Cf. Ait. Âr. III, I, 2, 2-4 (Max Müller, Up. I, p. 249): «La primera mitad (de un sa<i>m</i>hitâ o combinación de letras finales e iniciales) es la tierra, la segunda mitad el cielo, y su unión es la lluvia, el unificador Par<i>g</i>anya. Y así es cuando él (Par<i>g</i>anya) llueve con tanta fuerza, sin cesar, día y noche; entonces dicen también (en lenguaje común): «El cielo y la tierra se han unido». Véase también <i>S</i>at. Br. I, 7, 2, 16.
 
 [^570]: 242:1 Vyantu vayo 'kta<i>m</i> rihâ<i>n</i>â<i>h</i>. El Mahîdhara lo interpreta así: «Que los pájaros (es decir, los metros) vayan (? al cielo, —tomando y) lamiendo al ungido (prastara)». Los Kâ<i>n</i>vas leen: «vyantu vayo ripto rihâ<i>n</i>â<i>h</i>». El Yagus Negro (Taitt. S. I, 1, 13, 1) tiene 'aktam rihânâ viyantu vayah, pragâm yonim mâ nirmriksham, âpyâyantâm âpa oshadhayah', lo cual Sâyaná explica con 'Que los pájaros, habiendo lamido la cima ungida, vayan por sus diversos caminos', etc.; y el Taitt. Br. III, 3, 9, 3 comenta a viyantu vayah: 'Habiéndolo convertido en pájaros, lo hace ir al mundo celestial'. Según Sâya<i>n</i>a, las tres fórmulas anteriores se refieren, según Âpastamba, a los tres actos de unción, mientras que las demás, dice, dividen la primera fórmula en dos y utilizan la segunda (pra<i>g</i>âm, etc.) mientras se unge la parte inferior del prastara. Véase, sin embargo, Hillebrandt, Neu- und Vollm. pág. 142, nota 3.
 
@@ -380,13 +380,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^573]: 243:2 Es decir, se asegura de que el sacrificador realmente haya obtenido el objeto por el cual se realizó el sacrificio: el derecho a ir al mundo celestial después de su muerte.
 
-[^574]: 244:1 Se toca cerca del corazón o, según Vaidyanâtha, se toca los ojos. Después, como de costumbre, debe tocar el agua lustral. Véase [p. 2](Book_1_1_1#p2), nota [2](Book_1_1_1#fn84).
+[^574]: 244:1 Se toca cerca del corazón o, según Vaidyanâtha, se toca los ojos. Después, como de costumbre, debe tocar el agua lustral. Véase [p. 2](../Book_1_1_1#p2), nota [2](../Book_1_1_1#fn84).
 
 [^575]: 244:2 Aquí comienza el <i>s</i>a<i>m</i>yuvâka; véase [p. 241](#p241), nota [^565].
 
 [^576]: 244:3 'Svagâ´ daívyâ hôt<i>ri</i>bhya<i>h</i>'. La forma daivyâ parece haberse fijado antes de hot<i>ri</i>, como consecuencia de su uso frecuente, especialmente en los himnos Âprî, como nom. acc. dual daívyâ hótârâ; y en la invocación del I<i>d</i>â, como nom. plur. daívyâ hótâra<i>h</i>.
 
-[^577]: 245:1 Aquí comienza la ofrenda de los restos (sa<i>m</i>srava) de mantequilla; ver [p. 236](Book_1_1_8#p236), nota [^553].
+[^577]: 245:1 Aquí comienza la ofrenda de los restos (sa<i>m</i>srava) de mantequilla; ver [p. 236](../Book_1_1_8#p236), nota [^553].
 
 [^578]: 245:2 Véase el párrafo 14 anterior.
 
@@ -394,10 +394,10 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^580]: 246:1 Paridheyâ<i>h</i>, literalmente «los que van a estar acostados»; según el Mahîdhara = paridhibhavâ<i>h</i>. El texto del Kâ<i>n</i>va tiene paridhaya<i>h</i>, «palos que encierran». El Ya<i>g</i>us Negro (Taitt. S. I, 1, 13, 2) tiene en cambio «barhishada<i>h</i> (sentado en los Barhis)».
 
-[^581]: 246:2 El significado original de este llamado sacrificial, como el aparentemente aliado vasha<i>t</i>, vausha<i>t</i>, parece ser: '¡Que él (Agni) lo lleve (la oblación a la deidad)!' Cf. [p. 88](Book_1_1_3#p88), nota [2](Book_1_1_3#fn254).
+[^581]: 246:2 El significado original de este llamado sacrificial, como el aparentemente aliado vasha<i>t</i>, vausha<i>t</i>, parece ser: '¡Que él (Agni) lo lleve (la oblación a la deidad)!' Cf. [p. 88](../Book_1_1_3#p88), nota [2](../Book_1_1_3#fn254).
 
 [^582]: 246:3 Véase I, 1, 2, 8.
 
-[^583]: 246:4 Esto parece referirse al momento en que prepara las cucharas para su uso sagrado. Luego las limpia con hierba sacrificial; es decir, frota a los caballos antes de emprender su viaje al mundo de los dioses. Véase [p. 68](Book_1_1_3#p68), nota [1](Book_1_1_3#fn208).
+[^583]: 246:4 Esto parece referirse al momento en que prepara las cucharas para su uso sagrado. Luego las limpia con hierba sacrificial; es decir, frota a los caballos antes de emprender su viaje al mundo de los dioses. Véase [p. 68](../Book_1_1_3#p68), nota [1](../Book_1_1_3#fn208).
 
 [^584]: 247:1 Adopto la interpretación de Harisvâmin, quien traduce avâr<i>kh</i>et por adha<i>h</i> patet. El Dictado de San Pedro aparentemente propone que «las desenganchaba, como desengancharía un caballo (o tiro)». Según Harisvâmin, el autor aquí contradice la opinión de los Karakas (<i>k</i>araka<i>s</i>ruti), quienes aparentemente enseñaban que el desenganche (simbólico) de las cucharas debía suceder a su colocación sobre el yugo; mientras que nuestro autor sostiene que el desenganche debe preceder a su colocación.

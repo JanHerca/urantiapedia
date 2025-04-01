@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## III. A CIERTO MINISTRO.
 
@@ -84,11 +84,11 @@ Para que este escrito se pueda observar mejor, consérvalo contigo hasta Penteco
 
 ## Notas al pie
 
-[^482]: 119:1 Se refiere a “los capítulos que hablan del pecado mortal” que sólo se encuentran en la Primera Regla (ver pp. [37](Part_1_4#p37), [47](Part_1_4#p47), [53](Part_1_4#p53)), y habla de cambios propuestos en la Regla que no pudieron, como está claro, haberse hecho después de noviembre de 1223. En particular, el tema del décimo capítulo de la nueva Regla discutido en el Capítulo celebrado en la Porciúncula, el 11 de junio de ese año (ver _Spec. Perf._, ed. Sabatier, c. t), se menciona como aún no definitivamente resuelto.
+[^482]: 119:1 Se refiere a «los capítulos que hablan del pecado mortal» que sólo se encuentran en la Primera Regla (ver pp. [37](../Part_1_4#p37), [47](../Part_1_4#p47), [53](../Part_1_4#p53)), y habla de cambios propuestos en la Regla que no pudieron, como está claro, haberse hecho después de noviembre de 1223. En particular, el tema del décimo capítulo de la nueva Regla discutido en el Capítulo celebrado en la Porciúncula, el 11 de junio de ese año (ver _Spec. Perf._, ed. Sabatier, c. t), se menciona como aún no definitivamente resuelto.
 
 [^483]: 119:2 Véase _Quellen_, etc. t. XXII, pág. 547.
 
-[^484]: 120:1 “... plus des objurgations et des reproches que des conseils.”—Sabatier, Bartholi, pág. 120.
+[^484]: 120:1 «... plus des objurgations et des reproches que des conseils.»—Sabatier, Bartholi, pág. 120.
 
 [^485]: 120:2 _Hist. Seraph._, fol. 177 v.
 
@@ -98,9 +98,9 @@ Para que este escrito se pueda observar mejor, consérvalo contigo hasta Penteco
 
 [^488]: 120:5 Véase su edición de Bartholi, págs. 113-131.
 
-[^489]: 120:6 Véase _Frère Elie de Cortone_, p. 51, donde se describe la idea de abolir las penitencias como “tan franciscana”.
+[^489]: 120:6 Véase _Frère Elie de Cortone_, p. 51, donde se describe la idea de abolir las penitencias como «tan franciscana».
 
-[^490]: 120:7 Véase “Los escritos de San Francisco”, en el _Month_, enero de 1904, págs. 161-164.
+[^490]: 120:7 Véase «Los escritos de San Francisco», en el _Month_, enero de 1904, págs. 161-164.
 
 [^491]: 121:1 en 1899; después del manuscrito del Vaticano. 7650 y el códice de Foligno. Ver _Epistola S. Francisci ad ministrum generalem in sua forma authentica cum appendice del P. Petro Catanii_.
 
@@ -108,22 +108,22 @@ Para que este escrito se pueda observar mejor, consérvalo contigo hasta Penteco
 
 [^493]: 121:3 En 1900. Véase su _Frère Elie de Cortone_, p. 50 segundos
 
-[^494]: 121:4 Esta es la inscripción del manuscrito napolitano. Según la mayor cantidad de códices, la carta está dirigida: “Al hermano N. . . Ministro”. Los manuscritos de Foligno y San Isidoro dicen: “Al hermano N. . . Ministro general”, y algunas versiones italianas citadas por M. Sabatier (véase Bartholi, pág. 121, nota 1) añaden el nombre del hermano Elías (véase también Rodolfo, _l.c._, fol. 177 v.). La rúbrica en la segunda familia de manuscritos ya descrita (véase Introd.) dice simplemente “Carta que San Francisco envió al Ministro general sobre el camino a seguir respecto a los hermanos súbditos que pecan mortal o venialmente”. Wadding (_Opusc._, pág. 25, n. 1) cree que la carta estaba dirigida a Pedro de Catana. Véase _Speculum Minorum_, fol. 218 v.
+[^494]: 121:4 Esta es la inscripción del manuscrito napolitano. Según la mayor cantidad de códices, la carta está dirigida: «Al hermano N. . . Ministro». Los manuscritos de Foligno y San Isidoro dicen: «Al hermano N. . . Ministro general», y algunas versiones italianas citadas por M. Sabatier (véase Bartholi, pág. 121, nota 1) añaden el nombre del hermano Elías (véase también Rodolfo, _l.c._, fol. 177 v.). La rúbrica en la segunda familia de manuscritos ya descrita (véase Introd.) dice simplemente «Carta que San Francisco envió al Ministro general sobre el camino a seguir respecto a los hermanos súbditos que pecan mortal o venialmente». Wadding (_Opusc._, pág. 25, n. 1) cree que la carta estaba dirigida a Pedro de Catana. Véase _Speculum Minorum_, fol. 218 v.
 
-[^495]: 122:1 Para la traducción de este pasaje dudoso: _et in hoc dilige eos ut velis quod sint meliores Christiani_, he traducido el texto latino como aparece en el manuscrito isidoriano 1/25, en las _Conformidades_ (fol. 132, v), en la edición de Wadding (Epis. VIII) y en la de Quaracchi (p. 108). Sin embargo, en el manuscrito Ognissanti, este pasaje dice _et non velis_ “y no desean que sean mejores cristianos”. Esta interpretación ha sido seguida por el padre Edouard d'Alençon y el señor Sabatier. Este último cree que San Francisco se refiere aquí a los leprosos ingratos y recalcitrantes a quienes solía llamar cristianos. Pero en esa hipótesis, el pasaje podría traducirse como “¡y no desean hacerlos mejores leprosos!”.
+[^495]: 122:1 Para la traducción de este pasaje dudoso: _et in hoc dilige eos ut velis quod sint meliores Christiani_, he traducido el texto latino como aparece en el manuscrito isidoriano 1/25, en las _Conformidades_ (fol. 132, v), en la edición de Wadding (Epis. VIII) y en la de Quaracchi (p. 108). Sin embargo, en el manuscrito Ognissanti, este pasaje dice _et non velis_ «y no desean que sean mejores cristianos». Esta interpretación ha sido seguida por el padre Edouard d'Alençon y el señor Sabatier. Este último cree que San Francisco se refiere aquí a los leprosos ingratos y recalcitrantes a quienes solía llamar cristianos. Pero en esa hipótesis, el pasaje podría traducirse como «¡y no desean hacerlos mejores leprosos!».
 
 [^496]: 122:2 Cod. O., donde _eremitorium_ se lee _meritorium_. Pero ¿no podría ser esta lectura tan improbable la más común en los manuscritos antiguos: el desliz de un copista?
 
 [^497]: 122:3 Cod. O. omite el resto de esta oración.
 
-[^498]: 123:1 El manuscrito napolitano que dice “aparece” dice “peca”.
+[^498]: 123:1 El manuscrito napolitano que dice «aparece» dice «peca».
 
-[^499]: 123:2 Caps. V, XIII y XX de la primera Regla. (Véase arriba, págs. [37](Part_1_4#p37), [47](Part_1_4#p47) y [53](Part_1_4#p53).)
+[^499]: 123:2 Caps. V, XIII y XX de la primera Regla. (Véase arriba, págs. [37](../Part_1_4#p37), [47](../Part_1_4#p47) y [53](../Part_1_4#p53).)
 
 [^500]: 123:3 Véase Mateo 9:12.
 
-[^501]: 123:4 Cod. O. dice: “otro”.
+[^501]: 123:4 Cod. O. dice: «otro».
 
-[^502]: 124:1 En el cap. XX de la Primera Regla (véase arriba, [p. 53](Part_1_4#p53)). El pasaje entre corchetes es la parte que omitían Wadding y quienes lo siguieron.
+[^502]: 124:1 En el cap. XX de la Primera Regla (véase arriba, [p. 53](../Part_1_4#p53)). El pasaje entre corchetes es la parte que omitían Wadding y quienes lo siguieron.
 
 [^503]: 124:2 Véase Juan 8: 11.

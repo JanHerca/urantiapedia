@@ -1,6 +1,6 @@
 ---
 title: "Yasna LVII. El Srôsh Yast"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 Propiciación sea para Sraosha, Obediencia el bendito, el poderoso, la palabra encarnada de la razón, cuyo cuerpo es el Mãthra, él de la lanza atrevida, dedicado al Señor, para (su) adoración sacrificial, homenaje, propiciación y alabanza.
 
-<span id="p298">[<sup><small>pág. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## I.
 
@@ -76,7 +76,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 Por su esplendor y su gloria, por su poderío . . . .
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## VI.
 
@@ -124,7 +124,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 Por su esplendor y su gloria, por su poderío . . . .
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 ## XII.
 
@@ -195,7 +195,7 @@ Por su esplendor y su gloria, por su poder, que golpea con victoria, lo adoraré
 [^1260]: 301:2 Posiblemente una interpolación antigua. Se han reducido las repeticiones.
 
 [^1261]: 301:3 Este versículo 14 puede ser una extensión antigua del Ya<i>s</i>t; por supuesto, se puede dar por sentado que dentro de un cierto período en un tiempo muy remoto, el Ya<i>s</i>t fue alterado y mejorado.
-  El versículo 16 puede haber formado originalmente dos secciones, habiéndose omitido la fórmula “adoramos”, etc.
+  El versículo 16 puede haber formado originalmente dos secciones, habiéndose omitido la fórmula «adoramos», etc.
 
 [^1262]: 302:1 Esto parece una glosa; su importancia es correcta.
 

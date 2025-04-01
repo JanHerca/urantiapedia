@@ -43,7 +43,7 @@ Sanjaya dijo: «Oh, rey, hay muchas islas sobre las que se extiende la Tierra. S
 
 Ahora te hablaré con sinceridad de Sakadwipa, oh Bharata. Escúchame, oh hijo de la raza de Kuru, mientras te la describo debidamente. Esa isla, oh gobernante de los hombres, tiene el doble de extensión que Jamvudwipa. Y el océano también, oh gran rey, tiene el doble de extensión que esa isla. En efecto, oh el mejor de los Bharatas, Sakadwipa está rodeada por el océano. Allí los reinos rebosan de rectitud, y los hombres nunca mueren. ¿Cómo puede haber hambruna allí? Toda la gente está dotada de perdón y de gran energía. Ahora, oh toro de la raza de Bharata, te he dado una breve descripción de Sakadwipa. ¿Qué más deseas oír, oh rey?
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Dhritarashtra dijo: «Me has dado, oh Sanjaya, una breve descripción de Sakadwipa. Oh, tú, que posees gran sabiduría, cuéntamelo todo con todo detalle y veracidad».
 
@@ -109,7 +109,7 @@ Tras escuchar este encantador _Bhumi Parva_, oh jefe de los Bharatas, un Kshatri
 
 [^72]: 28:3 Tasya (singular de Tad) y sa (singular masculino de Tad) se refieren a los cuatro elefantes, Gaja-chatushtaya en singular.
 
-[^73]: 28:4 Asamyadha lit. “Sin atar” o “sin restricciones”, es decir, libremente o irregularmente.
+[^73]: 28:4 Asamyadha lit. «Sin atar» o «sin restricciones», es decir, libremente o irregularmente.
 
 [^74]: 29:1 Es notable que la razón entre el diámetro y la circunferencia de un círculo fuera conocida aproximadamente por los antiguos hindúes. La circunferencia es casi, como se indica aquí, tres veces y media el diámetro. La siguiente razón, por supuesto, es ligeramente menor: tres y un séptimo.
 

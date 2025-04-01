@@ -56,7 +56,7 @@ El rey volvió a preguntarle si era hindú o musulmán. El Gurú continuó con s
 El Verdadero Gurú ha resuelto el problema de los dos caminos.
 Aquel que fija su atención en el Dios único y su mente no vacila, puede comprenderlo.
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 El que permanece en la Palabra y adora día y noche, ha terminado con sus dudas.
 
@@ -80,7 +80,7 @@ Nanak, mi mente está satisfecha con el estado supremo.
 
 Posteriormente, Saido y Gheho escribieron el Pransangali de memoria.
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 A su regreso a la India, el Gurú, tras enterarse de la feria de Shivrat[^1], fue a Achal Batala[^2] para predicar sus doctrinas. Todo el país se agolpó para verlo y escucharlo, y le colmaron de ofrendas. Los yogis, al presenciar su éxito, sintieron mucha envidia y decidieron humillarlo. Bhangarnath, su superior, le preguntó por qué mezclaba ácido con la leche, es decir, por qué, siendo un hombre santo, llevaba una vida familiar. «Cuando la leche se agria», dijo Bhangarnath, «no se produce mantequilla batiéndola. ¿Por qué te has quitado tu hábito de ermitaño y te has puesto ropas comunes?»
 
@@ -88,7 +88,7 @@ El Gurú respondió: «Oh, Bhangarnath, tu madre era una mujer torpe. No sabía 
 
 Bhangarnath no respondió a la pregunta del Gurú, sino que abordó otro tema: «Oh, Nanak, has mostrado milagros al mundo; ¿por qué tardas en mostrárnoslos también a nosotros?». El Gurú respondió: «No tengo nada que valga la pena mostrarte. El hombre no tiene ningún refugio excepto en la compañía de los himnos del Gurú. Aunque el hombre conmoviera la tierra, eso no induciría a Dios a concederle favores inmerecidos. Escucha la Palabra; en verdad te digo, no tengo ningún milagro excepto el Nombre Verdadero».
 
-<span id="p158">[<sup><small>pág. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Si me pusiera un vestido de fuego, construyera una casa de nieve y comiera hierro;
 Si yo convirtiera todos mis problemas en agua, la bebiera y condujera la tierra como un corcel;
@@ -103,7 +103,7 @@ En Batala, el Gurú venció con argumentos a todos los sacerdotes que asistieron
 Haz que el conocimiento divino sea tu melaza, la meditación tus flores dhava, las buenas acciones tu corteza fermentada[^5] para ponerlas en ellas.
 Haz del amor de Dios tu horno, de la devoción el sello del alambique; de ​​esta manera se destilará el néctar.
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Padre, al beber el jugo divino la mente se embriaga y se absorbe fácilmente en el amor de Dios.
 He dispuesto fijar mi atención en Dios día y noche, y he escuchado el sonido invicto.
@@ -123,7 +123,7 @@ Quien hace peregrinación cada uno de los trescientos sesenta días del año;
 ¿Quién lava la inmundicia del orgullo de su corazón?
 Nanak dice que es un ermitaño.
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Los Yogis le preguntaron entonces al Gurú si era un Audhut. El Gurú les explicó lo que debía ser un Audhut:
 
@@ -214,7 +214,7 @@ El Conocimiento Divino es su bastón, y el Omnipresente las cenizas que unta en 
 Haz que la alabanza de Dios sea tu oración, la instrucción del Gurú tu secta de Atits,[^2]
 La renuncia a los deseos y a las disputas, tu sentarse en contemplación en la ciudadela de Dios[^3]—
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Del sonido de tu cuerno se producirá una melodía que día y noche te llenará de música.
 En todo está contenida tu luz, oh Dios, y muchos y variados son sus colores.

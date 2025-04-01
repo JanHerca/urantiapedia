@@ -61,7 +61,7 @@ Los hombres serios y sabios, aunque beben, son apacibles y dueños de sí mismos
 Los picoverdes van y vienen, recogiendo grano en el almiar. ¡Ay de los afligidos y solitarios, considerados dignos reclusos de las cárceles! Con un puñado de grano salgo y adivino [^423] cómo podré llegar a ser bueno.
 
 
-<span id="p360">[<sup><small>pág. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 <a id="o3"></a>
 
@@ -77,7 +77,7 @@ Incluso las moreras y las grosellas deben ser respetadas [425]; pero a nadie se 
 
 
 
-<span id="p361">[<sup><small>pág. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -101,7 +101,7 @@ Los orgullosos están encantados, y los atribulados están tristes. ¡Oh Cielo a
 
 
 
-<span id="p362">[<sup><small>pág. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 <a id="o9"></a>
 

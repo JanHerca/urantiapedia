@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 <span id="t1"></span>
 
@@ -50,7 +50,7 @@ La confiabilidad... es la puerta de la tranquilidad para todo el mundo; la mejor
 
 No tomes a la ligera ningún asunto, sino habla con veracidad y sinceridad.
 
-<span id="p86">[<sup><small>pág. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 No os negéis a pagar la debida recompensa a nadie; respetad a los poseedores de talento; no manchéis las lenguas con calumnias.
 
@@ -80,7 +80,7 @@ Ahora, por la Gracia y Autoridad de la Palabra de Dios, estas cuatro grandes bar
 
 Ciertas leyes y principios son necesarios e indispensables para Persia; pero es conveniente que se cumplan de acuerdo con el deseo del Sha, de los médicos eminentes y de las grandes autoridades del Estado.
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 El temor de Dios es el verdadero guardián y el protector ideal. Huye de todo aquello que huela a corrupción (o sedición).
 
@@ -96,7 +96,7 @@ Las escuelas deben educar primeramente a los niños en los principios de la reli
 
 Los fideicomisarios (miembros) de la Casa de Justicia deben consultar sobre las ordenanzas tal como están reveladas externamente en el Libro, y luego hacer cumplir las que les parezcan agradables.
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 La moderación es deseable en todos los asuntos.
 

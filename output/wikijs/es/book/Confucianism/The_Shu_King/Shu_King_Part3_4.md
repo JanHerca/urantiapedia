@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p81">[<sup><small>pág. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 ESTE Libro es otro de los «Discursos» de los Shû, perteneciente al reinado de Kung Khang, hermano de Thâi Khang, el cuarto de los reyes de Shang (2159-2147 a. C.).
 

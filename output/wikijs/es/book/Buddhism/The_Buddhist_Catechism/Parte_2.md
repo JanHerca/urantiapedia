@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 106\. P. ¿Cuál es el significado de la palabra Buda?
 
@@ -46,7 +46,7 @@ A. Sí; nuestra creencia es que, bajo la operación de la causalidad eterna, un 
 
 A. Una persona, al oír y ver a uno de los Budas en la Tierra, se apodera de la determinación de vivir de tal manera que en algún momento futuro, cuando sea apto para ello, él también será un Buda para guiar a la humanidad fuera del ciclo de renacimientos.
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 109\. P. ¿Cómo procede?
 
@@ -92,11 +92,11 @@ A. Porque nos hace valorar lo que no vale la pena valorar, lamentarnos por lo qu
 
 A. Conocer todo el secreto de la existencia y del destino del hombre, para que no estimemos en más que su valor real esta vida y sus relaciones, y para que vivamos de manera que aseguremos la mayor felicidad y el menor sufrimiento para nuestros semejantes y para nosotros mismos.
 
-<span id="p31">[<sup><small>pág. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 120\. P. ¿Cuál es la luz que puede disipar esta ignorancia nuestra y eliminar todos los dolores?
 
-A. El conocimiento de las “Cuatro Nobles Verdades”, como las llamó Buda.
+A. El conocimiento de las «Cuatro Nobles Verdades», como las llamó Buda.
 
 121\. P. _Nombra estas Cuatro Nobles Verdades_.
 
@@ -114,7 +114,7 @@ A. Sí, pero todos los hombres las padecen en grado.
 
 A. Mediante la completa conquista y destrucción de esta ansiosa sed de vida y de sus placeres, que causa dolor.
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 125\. P. ¿Cómo podemos lograr tal conquista?
 
@@ -134,7 +134,7 @@ A. Emancipación de las miserias de la existencia terrena y de los renacimientos
 
 129\. P. _Y cuando se alcanza esta salvación o emancipación, ¿qué alcanzamos?_
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 A. Nirvana.
 
@@ -148,11 +148,11 @@ A. En el famoso Diccionario de la lengua Pâlî, del difunto Sr. RC Childers, ha
 
 132\. P. _Pero algunas personas imaginan que el Nirvana es una especie de lugar celestial, un Paraíso. ¿Enseña eso el budismo?_
 
-A. No. Cuando Kûtadanta le preguntó al Buda “¿Dónde está el Nirvâṇa?”, él respondió que era “Dondequiera que se obedezcan los preceptos”.
+A. No. Cuando Kûtadanta le preguntó al Buda «¿Dónde está el Nirvâṇa?», él respondió que era «Dondequiera que se obedezcan los preceptos».
 
 133\. P. ¿Qué es lo que nos hace renacer?
 
-<span id="p34">[<sup><small>pág. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 A. El deseo egoísta insatisfecho (Sk., _trishna;_ Pâlî, _tanha_) por cosas que pertenecen al estado de la existencia personal en el mundo material. Esta sed insaciable de existencia física (_bhâva_) es una fuerza, y posee un poder creativo en sí mismo tan poderoso que atrae al ser de vuelta a la vida mundana.
 
@@ -172,11 +172,11 @@ A. Es; de causa inmediata o remota.
 
 A. Aplicado a los individuos, es karma, es decir, acción. Significa que nuestras propias acciones o hechos nos traen cualquier alegría o desdicha que experimentemos.
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 138\. P. ¿Puede un hombre malo escapar de las consecuencias de su Karma?
 
-A. El Dhammapada dice: “No existe ningún lugar en la tierra, ni en el cielo, ni en el mar, ni tampoco en las hendiduras de las montañas, donde una mala acción no traiga problemas (al que la realiza)”.
+A. El Dhammapada dice: «No existe ningún lugar en la tierra, ni en el cielo, ni en el mar, ni tampoco en las hendiduras de las montañas, donde una mala acción no traiga problemas (al que la realiza)».
 
 139\. P. ¿Puede escapar un hombre bueno?
 
@@ -204,7 +204,7 @@ A. El budismo enseña que hay Sakwalas o sistemas de mundos enteros, de diversos
 
 145\. P. ¿No ha resumido el Buda toda su doctrina en un _gâthâ_ o verso?
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 146\. A. Sí.
 
@@ -230,17 +230,17 @@ A. Sí: la primera línea encarna todo el espíritu del Vinâya Pitaka, la segun
 
 A. Dejar de pecar puede considerarse pasivo, pero obtener virtud y purificar el propio corazón o mente son cualidades completamente activas. Buda enseñó <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> que no solo debemos ser buenos, sino que debemos ser verdaderamente buenos.
 
-149\. P. ¿Quiénes o qué son los “Tres Guías” [^9] que se supone que debe seguir un budista?
+149\. P. ¿Quiénes o qué son los «Tres Guías» [^9] que se supone que debe seguir un budista?
 
-A. Se revelan en la fórmula llamada Tisaraṇa: “Sigo a Buda como mi Guía; sigo la Ley como mi Guía; sigo la orden como mi Guía”. Estos tres son, de hecho, el Dharma del Buda.
+A. Se revelan en la fórmula llamada Tisaraṇa: «Sigo a Buda como mi Guía; sigo la Ley como mi Guía; sigo la orden como mi Guía». Estos tres son, de hecho, el Dharma del Buda.
 
 150\. P. ¿Qué quiere decir al repetir esta fórmula?
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 A. Quiere decir que considera al Buda como su Maestro omnisciente, Amigo y Ejemplo; la Ley, o Doctrina, como la que contiene los principios esenciales e inmutables de la Justicia y la Verdad y el camino que conduce a la realización de la perfecta paz mental en la tierra; y la Orden como los maestros y ejemplos de esa excelente Ley enseñada por Buda.
 
-151\. P. _¿Pero no son algunos de los miembros de esta “Orden” hombres intelectual y moralmente inferiores?_
+151\. P. _¿Pero no son algunos de los miembros de esta «Orden» hombres intelectual y moralmente inferiores?_
 
 R. Sí; pero el Buda nos enseña que solo quienes prestan atención diligente a los Preceptos, disciplinan sus mentes y se esfuerzan por alcanzar o han alcanzado una de las ocho etapas de santidad y perfección, constituyen su «Orden». Se afirma expresamente que la Orden a la que se refiere el «Tisaraṇa» se refiere a los «Attha Ariya Puggala», los Nobles que han alcanzado una de las ocho etapas de perfección. El mero hecho de vestir hábitos amarillos, o incluso la ordenación, no hace a un hombre puro, sabio ni merecedor de reverencia.
 
@@ -250,7 +250,7 @@ A. Ciertamente no.
 
 153\. P. ¿Cuáles son las cinco observancias o universales? 
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 _preceptos, llamados Pancha Sila, que se imponen a los laicos en general?_
 
@@ -280,7 +280,7 @@ A. Se dice que adquiere mayor o menor mérito según la forma y el tiempo de obs
 
 157\. P. ¿Cuáles son las otras observancias que se considera meritorio que los laicos, como tales, se comprometan a guardar voluntariamente?
 
-A. El _Atthanga Silo_, o el Óctuple Precepto, que abarca los cinco arriba enumerados (omitiendo <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> la palabra “ilegal” en el tercero), con tres adicionales; a saber:
+A. El _Atthanga Silo_, o el Óctuple Precepto, que abarca los cinco arriba enumerados (omitiendo <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> la palabra «ilegal» en el tercero), con tres adicionales; a saber:
 
 Observo el precepto de abstenerme de comer en horario inoportuno.
 
@@ -304,11 +304,11 @@ A. El Dhammapada declara que el mérito de difundir el Dharma, la Ley de Rectitu
 
 161\. P. ¿Qué libros contienen toda la sabiduría más excelente de las enseñanzas de Buda?
 
-A. Las tres colecciones de libros llamadas _Tripitakas_, o “_Tres Cestas_”.
+A. Las tres colecciones de libros llamadas _Tripitakas_, o «_Tres Cestas_».
 
 162\. P. ¿Cuáles son los nombres de los tres Pitakas o grupos de libros?
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 A. El _Vinâya Pitaka_, el _Sutta Pitaka_ y el _Abhidhamma Pitaka_.
 
@@ -328,7 +328,7 @@ A. El Dr. Rhys-Davids estima que hay 1.752.800.
 
 A. Entre el 88 y el 76 a. C., bajo el reinado del rey cingalés Wattagamini; o 330 años después del Parinirvâṇa del Buda.
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 167\. P. ¿Tenemos motivos para creer que conocemos todos los discursos del Buda?
 
@@ -354,7 +354,7 @@ A. Porque enseña que cada persona recibe, gracias al karma infalible, exactamen
 
 A. Una causalidad que opera en el plano moral, así como en el físico y otros. Los budistas afirman que no hay milagro en los asuntos humanos: lo que uno siembra debe y cosechará.
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 173\. P. ¿Qué otras buenas palabras se han utilizado para expresar la esencia del budismo?
 
@@ -374,7 +374,7 @@ A. Cuarenta y nueve días.
 
 177\. P. ¿Cómo se llama el primer discurso predicado por el Buda, el que dirigió a sus cinco antiguos compañeros?
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 A. El _Dhammacakka-ppavattana sutta_, el Sutra de la Definición de la Regla de la Doctrina. [^12]
 
@@ -388,7 +388,7 @@ A. No lo hizo; se opuso. El Buda condenó la adoración a dioses, demonios, árb
 
 160\. P. _Pero los budistas no hacen reverencia_ 
 
-<span id="p49">[<sup><small>pág. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 _¿Ante la estatua de Buda, sus reliquias y los monumentos que las consagran?_
 
@@ -424,7 +424,7 @@ A. Entre otras, estas: enseña la bondad suprema sin un Dios creador; una contin
 
 188\. P. _Especifique las dos divisiones principales de la 'meditación', es decir, del proceso mediante el cual uno extingue la pasión y alcanza el conocimiento_.
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 A. _Samatha_ y _Vidarsama_: (1) la atenuación de la pasión llevando una vida santa y mediante el esfuerzo continuo para someter los sentidos; (2) la obtención de la sabiduría sobrenatural mediante la reflexión: cada uno de los cuales abarca veinte aspectos, pero no necesito especificarlos aquí.
 
@@ -460,7 +460,7 @@ A. Sí. El Buda dijo que no debemos creer en algo que se dice solo porque se dic
 
 A. Debemos creer cuando la escritura, la doctrina o el dicho se corroboran con nuestra propia razón y consciencia. «Por esto», concluye, «les enseñé a no creer solo por haber oído, sino a actuar conforme a ello y con abundancia, cuando crean por su propia consciencia». (Véase el _Kâlâma Sutta_ del _Anguttara Nikâya_ y el _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 197\. P. ¿Cómo se llama a sí mismo el Buda?
 
-A. Dice que él y los otros Budas son sólo “predicadores” de la verdad que señalan el camino: nosotros mismos debemos hacer el esfuerzo.
+A. Dice que él y los otros Budas son sólo «predicadores» de la verdad que señalan el camino: nosotros mismos debemos hacer el esfuerzo.
 
 198\. P. ¿Dónde se dice esto?
 
@@ -468,13 +468,13 @@ A. En el capítulo xx. del Dhammapada.
 
 199\. P. ¿El budismo tolera la hipocresía?
 
-A. El Dhammapada dice: “Como una bella flor llena de color sin aroma, las bellas palabras de aquel que no actúa en consecuencia son infructuosas”.
+A. El Dhammapada dice: «Como una bella flor llena de color sin aroma, las bellas palabras de aquel que no actúa en consecuencia son infructuosas».
 
 200\. P. ¿Nos enseña el budismo a devolver mal por mal?
 
 A. En el Dhammapada, el Buda dijo: «Si un hombre me hace daño neciamente, le devolveré la protección de mi amor generoso; cuanto más mal provenga de él, más bien provendrá de mí». Este es el camino seguido por el Arhat. [^14] Devolver mal por mal está terminantemente prohibido en el budismo.
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 201\. P. ¿Anima cruelmente?
 
@@ -500,7 +500,7 @@ A. La castidad absoluta, siendo condición para el pleno desarrollo espiritual, 
 
 A. El _Anguttara Nikâya_, cap. iv, 55.
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 207\. P. ¿Qué enseña acerca del deber de los padres hacia los hijos?
 
@@ -524,13 +524,13 @@ A. Mostrarle afecto; ordenar correctamente su casa; ser hospitalaria con los hu�
 
 212\. P. ¿Dónde se enseñan estos preceptos?
 
-<span id="p59">[<sup><small>pág. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 A. En el _Sello Bajo_.
 
 213\. P. ¿Las riquezas ayudan al hombre a alcanzar la felicidad futura?
 
-A. El Dhammapada dice: “Uno es el camino que conduce a la riqueza, otro es el camino que conduce al Nirvâṇa”.
+A. El Dhammapada dice: «Uno es el camino que conduce a la riqueza, otro es el camino que conduce al Nirvâṇa».
 
 214\. P. ¿Significa eso que ningún hombre rico puede alcanzar el Nirvâṇa?
 
@@ -540,13 +540,13 @@ A. Eso depende de a quién ama más. Si usa su riqueza para beneficio de la huma
 
 A. Pero si ama y atesora ávidamente el dinero por el bien de su posesión, entonces debilita su sentido moral, lo incita al crimen, atrae maldiciones sobre él en esta vida, y sus efectos se sienten en el próximo nacimiento.
 
-216\. P. ¿Qué dice el “Dhammapada” sobre la ignorancia?
+216\. P. ¿Qué dice el «Dhammapada» sobre la ignorancia?
 
 A. Que es una mancha peor que todas las manchas que un hombre puede poner sobre sí mismo.
 
 217\. P. ¿Qué dice acerca de la falta de caridad hacia los demás?
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 A. Que la falta de los demás se percibe fácilmente, pero la de uno mismo es difícil de percibir; un hombre avienta las faltas de su prójimo como paja, pero esconde sus propias faltas, como un tramposo esconde el dado malo al jugador.
 
@@ -564,7 +564,7 @@ A. Los asesinos de padre, madre y santos Arhats; los bhikkhus que siembran disco
 
 221\. P. ¿El budismo especifica lugares o condiciones de tormento a los que el karma arrastra a un hombre malo al abandonar esta vida?
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 A. Sí. Son: Sanjîva; Kalasutra; Sanghata; Raurava; Maha-Raurava; Tapa; Pratapa; Avichi.
 
@@ -582,7 +582,7 @@ A. Según nuestra religión, están en perfecta igualdad con los hombres. «La m
 
 225\. P. ¿Qué dice un crítico moderno sobre el efecto del budismo en la mujer?
 
-A. Que “ha hecho más por la felicidad y la <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> emancipación de la mujer que cualquier otro credo” (Sir Lepel Griffin).
+A. Que «ha hecho más por la felicidad y la <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> emancipación de la mujer que cualquier otro credo» (Sir Lepel Griffin).
 
 226\. P. ¿Qué enseñó el Buda sobre las castas?
 
@@ -604,13 +604,13 @@ A. Considera que «alma» es una palabra usada por ignorantes para expresar una 
 
 A. La idea asociada a ella de que el hombre puede ser una entidad separada de todas las demás entidades y de la existencia de todo el Universo. Esta idea de separación es irrazonable, no se puede demostrar mediante la lógica ni está respaldada por la ciencia.
 
-231\. P. _Entonces no hay un “yo” separado, ni podemos decir “mi” esto o aquello?_
+231\. P. _Entonces no hay un «yo» separado, ni podemos decir «mi» esto o aquello?_
 
 A. Exactamente.
 
 232\. P. _Si la idea de un alma humana separada_ 
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _debe rechazarse, ¿qué hay en el hombre que le da la impresión de tener una personalidad permanente?_
 
@@ -622,7 +622,7 @@ A. Una nueva agregación de Skandhas, o personalidad [^18] <span id="p65"><sup><
 
 234\. P. ¿Cuántos Skandhas hay?
 
-<span id="p66">[<sup><small>pág. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 A. Cinco.
 
@@ -678,7 +678,7 @@ A. Avaricia, malicia, pereza, orgullo y duda.
 
 248\. P. ¿Por qué vemos esta minuciosa división de sentimientos, impulsos, funcionamientos de la mente, obstáculos y_ 
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 ¿Ayudas para el avance tan utilizadas en las enseñanzas del Buda? Resulta muy confuso para un principiante.
 
@@ -694,7 +694,7 @@ A. Él conocía la naturaleza de lo cognoscible y lo incognoscible, lo posible y
 
 251\. P. ¿Cómo llamamos al principio básico sobre el que se construye toda la enseñanza del Buda?
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 A. Se llama _Paticca Samuppâdâ_. [^21]
 
@@ -754,13 +754,13 @@ A. El Buda miraba el corazón de cada persona y predicaba para adaptarse al temp
 
 [^14]: Un asceta budista que, mediante un curso de práctica prescrito, ha alcanzado un estado superior de desarrollo espiritual e intelectual. Los Arhats pueden dividirse en dos grupos generales: _Samathayânika_ y _Sukkha Vipassaka_. Los primeros han destruido sus pasiones y desarrollado plenamente su capacidad intelectual o visión mística; los segundos han dominado igualmente la pasión, pero no han adquirido los poderes mentales superiores. Los primeros (pág. 56) pueden manipular los fenómenos, los segundos no. El Arhat de la primera clase, al alcanzar su pleno desarrollo, ya no es presa de las ilusiones de los sentidos, ni esclavo de la pasión ni de la fragilidad mortal. _Penetra hasta la raíz de cualquier tema al que se aplique su mente_ sin seguir los lentos procesos del razonamiento. Su autoconquista es completa; y, en lugar de la emoción y el deseo que atormentan y cautivan al hombre común, se eleva a una condición que se expresa mejor en el término 'Nirvánico'. En Ceilán existe la idea errónea de que alcanzar el estado de Arhat es imposible; que el propio Buda profetizó que este poder se extinguiría un milenio después de su muerte. Este rumor —y otro similar que se escucha por toda la India, a saber, que, al ser el ciclo oscuro del Kali Yuga, la práctica del Yôga Vidyâ, o la sublime ciencia espiritual, es imposible— lo atribuyo al ingenio de quienes deberían ser tan puros y (para usar un término no budista, pero muy conveniente) psíquicamente sabios como sus predecesores, pero no lo son, y por lo tanto buscan una excusa. El Buda enseñó la idea contraria. En el Digha Nikâya dijo: «¡Escucha, Subbhadra! El mundo nunca estará sin Arhats si los ascetas (bhikkhus) de mis congregaciones observan mis preceptos fielmente». (_Imecha Subhaddhabhikkhu samma vihareiyum asunno loko Arahantehiassa_.)
 
-[^15]: Kolb, en su 'Historia de la cultura', dice: “Es al budismo a quien 'debemos agradecer la salvación de los prisioneros de guerra, quienes hasta entonces habían sido asesinados también por la interrupción del cautiverio de los habitantes de las tierras conquistadas'”.
+[^15]: Kolb, en su 'Historia de la cultura', dice: «Es al budismo a quien 'debemos agradecer la salvación de los prisioneros de guerra, quienes hasta entonces habían sido asesinados también por la interrupción del cautiverio de los habitantes de las tierras conquistadas'».
 
 [^16]: El quinto Sila hace referencia al mero consumo de intoxicantes y drogas estupefacientes, que en última instancia conduce a la embriaguez.
 
 [^17]: El «alma» que aquí se critica es el equivalente del griego _psuche_. La palabra «material» abarca otros estados de la materia además del del cuerpo físico.
 
-[^18]: Tras reflexionar, he sustituido «personalidad» por «individualidad», como se escribió en la primera edición. Las apariciones sucesivas en una o varias tierras, o «descensos en la generación», de las partes tanhaicamente coherentes (Skandhas) de un ser determinado son una sucesión de personalidades. En cada nacimiento, la personalidad difiere de la del nacimiento anterior o del siguiente. El karma, el deus ex [machinâ](errata.htm#2)_, se enmascara (¿o mejor dicho, se refleja?) a sí mismo, ya en las personalidades de un sabio, ya en las de un artesano, y así sucesivamente a lo largo de la sucesión de nacimientos. Pero aunque las personalidades cambian constantemente, la única línea de vida a lo largo de la cual se ensartan como cuentas, corre ininterrumpida; siempre es esa línea particular, nunca ninguna otra. Por lo tanto, es el individuo —una ondulación vital individual— el que se desplaza velozmente por el lado objetivo de la Naturaleza, bajo el impulso del Karma y la dirección creativa de Tanhâ, y persiste a través de numerosos cambios cíclicos. El profesor Rhys-Davids denomina «carácter» o «acción» a aquello que pasa de una personalidad a otra a lo largo de la cadena individual. Dado que el «carácter» no es una mera abstracción metafísica, sino la suma de las cualidades mentales y las propensiones morales de uno, ¿no ayudaría a disipar lo que el profesor Rhys-Davids llama «El recurso desesperado de un misterio» [Budismo, pág. 101], si consideráramos la ondulación vital como individualidad y cada una de sus series de manifestaciones natales como una personalidad separada? Necesitamos dos palabras para distinguir entre los conceptos, y ninguna encuentro tan clara y expresiva como las dos que he elegido. El individuo perfeccionado, budistamente hablando, es un Buda, diría yo; pues un Buda no es más que la flor excepcional de la humanidad, sin la más mínima mezcla sobrenatural. Y, como se requieren incontables generaciones —«cuatro asankheyyas y cien mil ciclos»— de las Historias de Nacimientos Budistas de Fausboll y Rhys-David (13) para que un hombre se convierta en un Buda, y la férrea voluntad de convertirse en uno se extiende a lo largo de todos los nacimientos sucesivos, ¿cómo llamaremos a eso que así desea y persevera? ¿Carácter o individualidad? Una individualidad que se manifiesta parcialmente en cada nacimiento, pero que se construye con fragmentos de todos los nacimientos.
+[^18]: Tras reflexionar, he sustituido «personalidad» por «individualidad», como se escribió en la primera edición. Las apariciones sucesivas en una o varias tierras, o «descensos en la generación», de las partes tanhaicamente coherentes (Skandhas) de un ser determinado son una sucesión de personalidades. En cada nacimiento, la personalidad difiere de la del nacimiento anterior o del siguiente. El karma, el deus ex [machinâ](../errata.htm#2)_, se enmascara (¿o mejor dicho, se refleja?) a sí mismo, ya en las personalidades de un sabio, ya en las de un artesano, y así sucesivamente a lo largo de la sucesión de nacimientos. Pero aunque las personalidades cambian constantemente, la única línea de vida a lo largo de la cual se ensartan como cuentas, corre ininterrumpida; siempre es esa línea particular, nunca ninguna otra. Por lo tanto, es el individuo —una ondulación vital individual— el que se desplaza velozmente por el lado objetivo de la Naturaleza, bajo el impulso del Karma y la dirección creativa de Tanhâ, y persiste a través de numerosos cambios cíclicos. El profesor Rhys-Davids denomina «carácter» o «acción» a aquello que pasa de una personalidad a otra a lo largo de la cadena individual. Dado que el «carácter» no es una mera abstracción metafísica, sino la suma de las cualidades mentales y las propensiones morales de uno, ¿no ayudaría a disipar lo que el profesor Rhys-Davids llama «El recurso desesperado de un misterio» [Budismo, pág. 101], si consideráramos la ondulación vital como individualidad y cada una de sus series de manifestaciones natales como una personalidad separada? Necesitamos dos palabras para distinguir entre los conceptos, y ninguna encuentro tan clara y expresiva como las dos que he elegido. El individuo perfeccionado, budistamente hablando, es un Buda, diría yo; pues un Buda no es más que la flor excepcional de la humanidad, sin la más mínima mezcla sobrenatural. Y, como se requieren incontables generaciones —«cuatro asankheyyas y cien mil ciclos»— de las Historias de Nacimientos Budistas de Fausboll y Rhys-David (13) para que un hombre se convierta en un Buda, y la férrea voluntad de convertirse en uno se extiende a lo largo de todos los nacimientos sucesivos, ¿cómo llamaremos a eso que así desea y persevera? ¿Carácter o individualidad? Una individualidad que se manifiesta parcialmente en cada nacimiento, pero que se construye con fragmentos de todos los nacimientos.
 
 La negación del «Alma» por parte de Buda (véase _Sanyutta Nikâya_, el _Sutta Pitaka_) apunta a la creencia engañosa prevaleciente en una personalidad independiente; una entidad que, tras un nacimiento, iría a un lugar o estado fijo donde, como entidad perfecta, podría disfrutar o sufrir eternamente. Y lo que demuestra es que la conciencia del «Yo soy yo» es, en cuanto a la permanencia, lógicamente imposible, ya que sus constituyentes elementales cambian constantemente y el «Yo» de un nacimiento difiere del «Yo» de todos los demás. Pero todo lo que he encontrado en el budismo concuerda con la teoría de una evolución gradual del hombre perfecto —es decir, un Buda— a través de innumerables experiencias natales. Y en la conciencia de aquel individuo que, al final de una cadena dada de nacimientos, alcanza la Budeidad, o que logra alcanzar la cuarta etapa de Dhyâna, o autodesarrollo místico, en cualquiera de sus nacimientos anteriores al último, son perceptibles las escenas de todos estos nacimientos en serie. En el Jâtakatthavannanâ —tan bien traducido por el profesor Rhys-Davids— se repite continuamente una expresión que, en mi opinión, apoya bastante esta idea, a saber: «Entonces el Bendito manifestó un suceso oculto por el cambio de nacimiento», o «aquello que había estado oculto por», etc. El budismo primitivo sostenía entonces claramente la permanencia de los registros en el Âkâsha y la capacidad potencial del hombre para leerlos cuando ha evolucionado hasta la etapa de la verdadera iluminación individual. Al morir, y en convulsiones y trance, el javana chitta se transfiere al último objeto creado por los deseos. La voluntad de vivir objetiva todos los pensamientos.
 
@@ -768,4 +768,4 @@ La negación del «Alma» por parte de Buda (véase _Sanyutta Nikâya_, el _Sutt
 
 [^20]: Fisiológicamente hablando, el cuerpo del hombre cambia completamente cada siete años.
 
-[^21]: Este principio fundamental o básico puede ser designado en Pâlî, _Nidâna_—cadena de causalidad o, literalmente, “Origen de la dependencia”. Se especifican doce Nidânas, _viz_.: _Avijjâ_—ignorancia de la verdad de la religión natural; _Samkhârâ_—acción causal, karma; _Viññâna_—conciencia de la personalidad, el “Yo soy Yo”; _Nâma rûpa_—nombre y forma; _Salayatana_—seis sentidos; _Phassa_—contacto, _Vedanâ_—sensación; _Tanhâ_—deseo de disfrute; _Upâdâna_—apego; _Bhava_—existencia individualizadora; _Jati_—nacimiento, casta; _Jarâ_, _narana_, _sokaparidêsa_, _dukkha_, _domanassa_, _upâyâsa_—Decadencia, muerte, pena, lamentación, desesperación.
+[^21]: Este principio fundamental o básico puede ser designado en Pâlî, _Nidâna_—cadena de causalidad o, literalmente, «Origen de la dependencia». Se especifican doce Nidânas, _viz_.: _Avijjâ_—ignorancia de la verdad de la religión natural; _Samkhârâ_—acción causal, karma; _Viññâna_—conciencia de la personalidad, el «Yo soy Yo»; _Nâma rûpa_—nombre y forma; _Salayatana_—seis sentidos; _Phassa_—contacto, _Vedanâ_—sensación; _Tanhâ_—deseo de disfrute; _Upâdâna_—apego; _Bhava_—existencia individualizadora; _Jati_—nacimiento, casta; _Jarâ_, _narana_, _sokaparidêsa_, _dukkha_, _domanassa_, _upâyâsa_—Decadencia, muerte, pena, lamentación, desesperación.

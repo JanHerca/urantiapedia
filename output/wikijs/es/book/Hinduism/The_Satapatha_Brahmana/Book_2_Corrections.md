@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p474">[<sup><small>pág. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 ## PARTE I. (VOL. XII DE LA SERIE.)
 
@@ -62,7 +62,7 @@ P. 210, nota 1. Leer dos veces: '<i>s</i>astra' por '<i>s</i>âstra'.
 
 P. 221, l. 4 seq. En lugar de, 'Antes de que los Rakshas (vengan),' el Dict. de BR interpreta, quizás correctamente, 'A salvo de los Rakshas'.
 
-P. 263, párr. 27.—Estas mismas deidades . . .; para una mejor traducción, cf. [IV, 4, 4, 5](Book_2_4_4#v4_4_4_5)\-[6](Book_2_4_4#v4_4_4_6).
+P. 263, párr. 27.—Estas mismas deidades . . .; para una mejor traducción, cf. [IV, 4, 4, 5](../Book_2_4_4#v4_4_4_5)\-[6](../Book_2_4_4#v4_4_4_6).
 
 P. 308, l. 21. En lugar de 'y al presionar', léase 'a saber, al presionar'.
 

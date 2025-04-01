@@ -68,7 +68,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_4_1_1818"><sup><small>1:4:1:1818.</small></sup></span> Gotama Râhûga<i>n</i>a le preguntó entonces (a Mâthava): "¿Por qué no respondiste cuando te dirigimos la palabra?". Él respondió: "Agni Vai<i>s</i>vânara estaba en mi boca; no respondí para que no se me escapara".
 
-<span id="v1_4_1_1919"><sup><small>1:4:1:1919.</small></sup></span> '¿Cómo sucedió esto entonces?' —'En el momento en que pronunciaste las palabras: “¡(A ti), oh, el rociado con mantequilla, te invocamos!”, justo entonces, al mencionar la mantequilla, Agni Vaisvanara brotó de mi boca; no pude contenerlo; salió de mi boca.'
+<span id="v1_4_1_1919"><sup><small>1:4:1:1919.</small></sup></span> '¿Cómo sucedió esto entonces?' —'En el momento en que pronunciaste las palabras: «¡(A ti), oh, el rociado con mantequilla, te invocamos!», justo entonces, al mencionar la mantequilla, Agni Vaisvanara brotó de mi boca; no pude contenerlo; salió de mi boca.'
 
 <span id="v1_4_1_2020"><sup><small>1:4:1:2020.</small></sup></span> Por lo tanto, esa (palabra) en el sâmidhenîs que contiene mantequilla (gh<i>ri</i>ta) es especialmente adecuada para encender (sam-indh); y con ella, en consecuencia, lo enciende (a Agni, el fuego) y le otorga vigor a este (sacrificador).
 
@@ -235,7 +235,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v1_4_4_1414"><sup><small>1:4:4:1414.</small></sup></span> Él (el Âgnîdhra) barre entonces (el fuego con <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> la tira de leña): así la enjaeza, pensando: «Ahora que ha sido enjaezada, ¡que transmita el sacrificio a los dioses!». Por esta razón, la barre. Mientras la barre, se mueve alrededor, ya que al enjaezar se mueven alrededor de la yunta. Barre tres veces cada vez (es decir, tres veces a lo largo de cada uno de los tres palos que la envuelven): triple es el sacrificio.
 
-<span id="v1_4_4_1515"><sup><small>1:4:4:1515.</small></sup></span> Barre (una vez), con el texto (Vâ<i>g</i>. S. II, 7 a), "¡Oh, Agni, el que gana alimento! ¡Te purifico, el que gana alimento, que estás a punto de apresurarte hacia la comida!". Y dice: "¡Te purifico a ti, que vas a entregar el sacrificio (a los dioses), a ti apto para el sacrificio!". Luego barre tres veces (el fuego) en silencio: pues, así como, tras enjaezar (al animal), uno lo azuza diciendo: "¡Vamos! ¡Tira!", así lo golpea con el látigo [1](Book_1_1_4#fn321), pensando: "¡Ve y entrega el sacrificio a los dioses!". Por eso lo barre tres veces en silencio, y de la misma manera que este acto se realiza entre (las dos salpicaduras de mantequilla), así también esta mente y el habla, aunque forman uno, se vuelven, por así decirlo, separados.
+<span id="v1_4_4_1515"><sup><small>1:4:4:1515.</small></sup></span> Barre (una vez), con el texto (Vâ<i>g</i>. S. II, 7 a), "¡Oh, Agni, el que gana alimento! ¡Te purifico, el que gana alimento, que estás a punto de apresurarte hacia la comida!". Y dice: "¡Te purifico a ti, que vas a entregar el sacrificio (a los dioses), a ti apto para el sacrificio!". Luego barre tres veces (el fuego) en silencio: pues, así como, tras enjaezar (al animal), uno lo azuza diciendo: "¡Vamos! ¡Tira!", así lo golpea con el látigo [1](../Book_1_1_4#fn321), pensando: "¡Ve y entrega el sacrificio a los dioses!". Por eso lo barre tres veces en silencio, y de la misma manera que este acto se realiza entre (las dos salpicaduras de mantequilla), así también esta mente y el habla, aunque forman uno, se vuelven, por así decirlo, separados.
 
 
 <span id="v1_4_5"><sup><small>1:4:5</small></sup></span>
@@ -397,9 +397,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^312]: 119:2 <i>G</i>atavedas probablemente significa 'el que conoce a todos los seres', pero se explica de forma más general como 'el que posee riquezas (o sabiduría)', por no mencionar otras interpretaciones. Según Haug, Ait. Br. vol. ii. pág. 224, el significado correcto del término es 'poseer todo lo que nace, es decir, impregnarlo'. Además, menciona que los Rishis están muy familiarizados con la idea de que el fuego es un poder omnipresente; y que por Gâtavedas se entiende particularmente el 'fuego animal'. Nuestra fórmula actual 'â <i>k</i>a vaha <i>g</i>âtaveda<i>h</i> suya<i>g</i>â <i>k</i>a ya<i>g</i>a' difiere ligeramente de la fórmula correspondiente del Taitt. S. II, 5, 9, 5, 'â <i>k</i>âgne devân vaha suya<i>g</i>â <i>k</i>a ya<i>g</i>a <i>g</i>âtaveda<i>h</i>.'
 
-[^314]: 119:3 Para la anuvâkyâ o oración de invitación, y la yâ<i>g</i>yâ o oración de ofrenda, véase la nota [p. 135](Book_1_1_5#p135).
+[^314]: 119:3 Para la anuvâkyâ o oración de invitación, y la yâ<i>g</i>yâ o oración de ofrenda, véase la nota [p. 135](../Book_1_1_5#p135).
 
-[^315]: 120:1 Las dos primeras palabras del primer sâmidhenî, cf. [p. 101](Book_1_1_4#p101) nota. Nuestro autor les otorga un significado místico al combinarlas e identificar la forma obtenida con el adjetivo pravant, que significa tanto «que contiene la sílaba pra» como «dirigido hacia adelante», ambos significados aplicables a la exhalación o espiración (prâ<i>n</i>a, cf. I, 1, 3, 2).
+[^315]: 120:1 Las dos primeras palabras del primer sâmidhenî, cf. [p. 101](../Book_1_1_4#p101) nota. Nuestro autor les otorga un significado místico al combinarlas e identificar la forma obtenida con el adjetivo pravant, que significa tanto «que contiene la sílaba pra» como «dirigido hacia adelante», ambos significados aplicables a la exhalación o espiración (prâ<i>n</i>a, cf. I, 1, 3, 2).
 
 [^316]: 120:2 A quien se le ha dado el don del conocimiento es a quien se le ha dado el don del conocimiento. Sâya<i>n</i>a.
 

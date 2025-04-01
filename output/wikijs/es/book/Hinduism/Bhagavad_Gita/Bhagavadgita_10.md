@@ -68,7 +68,7 @@ Bien, entonces, ¡oh, el mejor de los Kauravas! Te expondré mis propias emanaci
 
 ## Notas al pie
 
-[^342]: 86:1 Cfr. [pag. 79](Bhagavadgita_8#p79) supra.
+[^342]: 86:1 Cfr. [pag. 79](../Bhagavadgita_8#p79) supra.
 
 [^343]: 86:2 Como refiriéndose al alma suprema.
 
@@ -88,7 +88,7 @@ Bien, entonces, ¡oh, el mejor de los Kauravas! Te expondré mis propias emanaci
 
 [^351]: 88:1 Siendo imposible conocerte plenamente, ¿a qué manifestación especial tuya deberíamos recurrir para nuestras meditaciones?
 
-[^352]: 88:2 P. [129](Bhagavadgita_18#p129) infra.
+[^352]: 88:2 P. [129](../Bhagavadgita_18#p129) infra.
 
 [^353]: 88:3 «Âditya se usa en el Veda principalmente como epíteto general para varias deidades solares». Max Müller, Hibbert Lectures, pág. 264.
 
@@ -108,7 +108,7 @@ Bien, entonces, ¡oh, el mejor de los Kauravas! Te expondré mis propias emanaci
 
 [^361]: 89:1 Cfr. Sutta Nipata, pág. 121.
 
-[^362]: Vídeo 89:2 [p. 79](Bhagavadgita_8#p79) supra.
+[^362]: Vídeo 89:2 [p. 79](../Bhagavadgita_8#p79) supra.
 
 [^363]: 89:3 Gapa es la meditación silenciosa. Madhusudana dice que es superior porque no implica la matanza de ningún animal, etc.
 
@@ -120,7 +120,7 @@ Bien, entonces, ¡oh, el mejor de los Kauravas! Te expondré mis propias emanaci
 
 [^367]: 89:7 Cfr. Sutta Nipata, pág. 121.
 
-[^368]: 89:8 Es decir, no la mera pasión carnal. Cf. [p. 74](Bhagavadgita_7#p74) supra.
+[^368]: 89:8 Es decir, no la mera pasión carnal. Cf. [p. 74](../Bhagavadgita_7#p74) supra.
 
 [^369]: 89:9 Los nagas no tienen veneno, dice Sridhara. Varuna es el dios del mar.
 
@@ -132,7 +132,7 @@ Bien, entonces, ¡oh, el mejor de los Kauravas! Te expondré mis propias emanaci
 
 [^373]: 90:2 'Aquellos que tienen la capacidad de movimiento', dice Râmânu<i>g</i>a.
 
-[^374]: 90:3 El héroe de la epopeya hindú, Râmâyana, traducido en verso por el Sr. RTH [Griffith](errata.htm#0).
+[^374]: 90:3 El héroe de la epopeya hindú, Râmâyana, traducido en verso por el Sr. RTH [Griffith](../errata.htm#0).
 
 [^375]: 90:4 El delfín.
 

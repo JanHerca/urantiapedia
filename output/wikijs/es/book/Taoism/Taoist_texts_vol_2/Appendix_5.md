@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:58Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice IV. Zäh Yung King, o “Clásico del directorio por un día”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice IV. Zäh Yung King, o «Clásico del directorio por un día»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 ## LIBRO I.
 
@@ -52,17 +52,17 @@ Para ilustrar esto, como ejemplos del Gran Hombre, tenemos, en el párrafo 4, a 
 
 En cuanto al estilo del Libro, la declaración repentina y la prueba repentina; la ilustración repentina y el razonamiento repentino; la decisión, que parece no ser una decisión; la conexión, ahora representada como ninguna conexión; la repetición, que resulta no ser una repetición: estas características van y vienen en los párrafos, como las nubes en el firmamento abierto, cambiando a cada momento y siendo un deleite para la vista.
 
-Lû Fang-hû lo describe bien: “El hilo guía en el hilo sin hilar; la serpiente durmiendo en la hierba”.
+Lû Fang-hû lo describe bien: «El hilo guía en el hilo sin hilar; la serpiente durmiendo en la hierba».
 
 ## LIBRO II.
 
 En los escritos que pretenden arrojar luz sobre el Tao, encontramos diversas perspectivas: afirmaciones por un lado y negaciones por el otro. Estas pueden llamarse controversias, y la razón por la que no se ajustan es que cada uno se aferra a su propia perspectiva. Pero cada perspectiva peculiar surge del conocimiento de quien la posee. Sin embargo, dicho conocimiento tiende a perjudicar su mente y no sirve para nada, ni para bien ni para mal, ilustrar la naturaleza del Tao; solo aumenta la confusión de la controversia. Por lo tanto, cuando deseamos ajustar controversias, debemos usar bien nuestro conocimiento; y para usarlo bien, debemos detenernos en el punto donde no se extiende.
 
-<span id="p276">[<sup><small>pág. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 En todo este Libro, el conocimiento y el desconocimiento son el hilo conductor (y unen sus partes). Las expresiones sobre la existencia de los hombres en la oscuridad, en el párrafo 2, y la oscuridad del Tao, en el párrafo 3, indican la falta de conocimiento; las del párrafo 3, sobre la luz de la mente y cómo arrojar esa luz sobre un tema, indican el buen uso del conocimiento; las del párrafo 5, sobre los destellos de luz en medio de la confusión y la perplejidad, y el depósito de luz, en el párrafo 7, indican que nos detenemos en el punto donde nuestro conocimiento no alcanza. ¿Y qué hacer cuando nos detenemos en este punto? No se puede hacer nada más; simplemente, como se dice en el párrafo 6, debemos detenernos aquí.
 
-Cuando Nan-kwo Dze-khî dice, en el párrafo 1, «Me había perdido a mí mismo», expresa plenamente el tema del Libro. Si consideramos que las afirmaciones y negaciones de la mente humana son ficciones, creadas de la nada para ser algo, esto es como la miríada de sonidos diferentes del viento, que aparecen repentinamente en sus innumerables variaciones. Pero ¿quién produce todos estos sonidos? Como se dice en el párrafo 2, son «los sonidos de la Tierra que en realidad son las notas del Cielo». Las mentes humanas hablan desde su posesión de conocimiento. Por grandes o pequeñas que sean sus palabras, todas son de su propia creación. Un discurso bajo mil cabezas con una miríada de detalles, que surge y se detiene repentinamente, puede sugerir la idea de lo que llamamos «un Gobernante Verdadero». Pero la idea es vaga, y aunque nuestro conocimiento no alcanza tal tema, los hombres trabajan su inteligencia hasta el final de sus vidas, sin parar hasta que mente y cuerpo se agotan. ¿Cuál es la razón de esto? Esto se debe a que tienen “sus mentes completamente decididas” (párrafo 3).
+Cuando Nan-kwo Dze-khî dice, en el párrafo 1, «Me había perdido a mí mismo», expresa plenamente el tema del Libro. Si consideramos que las afirmaciones y negaciones de la mente humana son ficciones, creadas de la nada para ser algo, esto es como la miríada de sonidos diferentes del viento, que aparecen repentinamente en sus innumerables variaciones. Pero ¿quién produce todos estos sonidos? Como se dice en el párrafo 2, son «los sonidos de la Tierra que en realidad son las notas del Cielo». Las mentes humanas hablan desde su posesión de conocimiento. Por grandes o pequeñas que sean sus palabras, todas son de su propia creación. Un discurso bajo mil cabezas con una miríada de detalles, que surge y se detiene repentinamente, puede sugerir la idea de lo que llamamos «un Gobernante Verdadero». Pero la idea es vaga, y aunque nuestro conocimiento no alcanza tal tema, los hombres trabajan su inteligencia hasta el final de sus vidas, sin parar hasta que mente y cuerpo se agotan. ¿Cuál es la razón de esto? Esto se debe a que tienen «sus mentes completamente decididas» (párrafo 3).
 
 Ahora bien, si las palabras fueran como el canto de los pájaros jóvenes que llegan al oído, no habría diferencia entre ellas en cuanto a verdad o falsedad, correcto o incorrecto; pero existe una influencia oscurecedora, a través de la cual se producen las diferentes opiniones de los literatos y los mohistas, con su confusión e incertidumbre. Todo esto se debe a que <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> las partes no utilizan bien su conocimiento. En sus controversias, cada uno considera el punto de vista del otro solo desde su propio punto de vista, y desde allí proyecta sobre el tema la luz del Cielo, respondiéndose así vacíamente sin fin. ¿Y acaso esto pretende poner fin a sus disputas de forma violenta? (No es así), pues el Tao es originalmente uno. Lo alto y lo bajo, lo bello y lo feo, lo ordinario y lo extraño, el éxito y la derrota, no tienen nada que ver con él. Los inteligentes lo saben; Quienes se fatigan intentando lograr la unidad no lo saben. En este punto, los sabios iluminan el tema con la luz del Cielo, deseando también descansar en él, y así llegan a una unión natural: así es como utilizan bien su conocimiento.
 
@@ -82,7 +82,7 @@ En cuanto a lo que se dice acerca de la sustancia y la sombra que esperan cada u
 
 ¿Queda algo por hacer para resolver la controversia? Una idea surge de otra en el Libro, y una expresión da lugar a otra aparentemente muy diferente. Existe una conexión y referencia mutuas entre sus partes. De repente, el estilo se torna difícil como la ladera del Yang-khang y se desvanece como la trayectoria de un pájaro; de repente, parece una multitud de acantilados escarpados y precipicios sucesivos. Cuando los eruditos comunes ven esto y no pueden rastrear la conexión de pensamiento, si lo dejaran de lado y no se aventuraran a decir nada al respecto, se les podría perdonar. Pero cuando se atreven a seguir sus prejuicios y a añadir sus explicaciones licenciosas, rompiendo la conexión de pensamiento y reduciendo al polvo esta maravillosa composición, la admiración de miles de años; ¡ah!, cuando el viejo Kwang tomó su lápiz y procedió a escribir sus pensamientos, ¿por qué sorprendernos de que hombres como estos no puedan comprenderlo fácilmente?
 
-<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ## LIBRO VI.
 
@@ -104,7 +104,7 @@ Y, sin embargo, no tiene por qué ser difícil. No fue así con Dze-yü (párraf
 
 (De nuevo) tenemos una concordancia similar (con el Tâo) en la pregunta de Dze-lî a Dze-lâi (par. 10), acerca de haber sido hecho el hígado de una rata o el brazo de un insecto, con la respuesta de este último y su observación acerca del horno de un fundidor.
 
-<span id="p283">[<sup><small>pág. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Éstos eran hombres que habían comprendido el Tao, como también lo eran Dze-fan y Khin Kang (par. 11), hombres conforme a la mente del Creador, que disfrutaban divirtiéndose en el único éter vital del cielo y la tierra.
 
@@ -136,13 +136,13 @@ Permítanme intentar dar fe de esto con el ejemplo de los antiguos tis y reyes. 
 
 Pero preguntémonos quién fue realmente el que llevó las cosas a este punto. La respuesta nos la dan las palabras de Lâo Tan (véase TTK, cap. 19): «Abolid la sabiduría y desechad la sabiduría, y el mundo alcanzará un estado de buen orden». Pero la cuestión no empieza con el estado del mundo. Cuando Kwang Khäng-dze respondió a las preguntas de Hwang-Tî, dijo (párrafo 4): «Cuida tu cuerpo y fortalece las cosas. Mantén la unidad y habita en la armonía». Lo que dijo sobre la lluvia que caía antes de que se acumularan las nubes, sobre los árboles que perdían sus hojas antes de amarillear, sobre la luz (del sol y la luna) que se extinguía rápidamente, sobre la mente de Hwang-Tî, la de un adulador al que no le haría caso, y sobre cómo no debía hacer nada más que confiar en los instintos de su naturaleza y no interferir con la mente de los hombres: todas estas son expresiones relacionadas con el valor y el amor que se le debe dar al cuerpo. Y la lección de sus palabras no termina con el cuidado del cuerpo.
 
-Estas son las palabras dirigidas por Hung Mung a Yün <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> Kiang: «Alimenta en tu mente una profunda armonía (con el éter primigenio). (Las cosas) regresan a su raíz, y no saben (que lo están haciendo). En cuanto a lo que dices, que “las misteriosas operaciones del Cielo no se han cumplido, que todos los pájaros cantan de noche, que la vegetación se marchita ante la calamidad, y que todos los insectos son alcanzados por el desastre: —sobre todas estas cosas no hay motivo de ansiedad”. Mientras no hagas nada, descansa en los impulsos de tu naturaleza humana, y no interfieras con las mentes de los hombres; tal es la influencia genial que atrae y reúne todas las cosas a su alrededor (párrafo 2).»
+Estas son las palabras dirigidas por Hung Mung a Yün <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> Kiang: «Alimenta en tu mente una profunda armonía (con el éter primigenio). (Las cosas) regresan a su raíz, y no saben (que lo están haciendo). En cuanto a lo que dices, que «las misteriosas operaciones del Cielo no se han cumplido, que todos los pájaros cantan de noche, que la vegetación se marchita ante la calamidad, y que todos los insectos son alcanzados por el desastre: —sobre todas estas cosas no hay motivo de ansiedad». Mientras no hagas nada, descansa en los impulsos de tu naturaleza humana, y no interfieras con las mentes de los hombres; tal es la influencia genial que atrae y reúne todas las cosas a su alrededor (párrafo 2).»
 
 Pero que el hombre superior deje que el mundo siga su propio curso de esta manera tan generosa es algo que la gente común y corriente no puede comprender. Cuando estos hombres hablan de gobernar, se examinan cuidadosamente entre sí mismos y los demás, y se esfuerzan por distinguir entre discrepar y estar de acuerdo. Su única búsqueda es encontrar la manera de superar a los demás, y el resultado es que siempre son superados por ellos. No saben que, para reducir a otros al nivel de cosas, debe haber quienes no puedan ser reducidos a ese nivel. Se dice que esos son los únicos poseedores del poder (párrafo 6).
 
 La enseñanza del Gran Hombre, sin embargo, no es de esta naturaleza. Él responde a los demás según sus cualidades, sin ningún propósito egoísta. Aunque es el único poseedor del poder, este se vuelve insignificante a su juicio. Entre tener y no tener no hay diferencia en su uso. Sin hacer nada, y aun así a veces obligado a actuar, lo hace de inmediato; cuando actúa, nadie ve que lo ha hecho, y es lo mismo que si no hubiera actuado. Así es según el Tao; pero en él se encuentran tanto los elementos Celestiales como los Humanos. De acuerdo con esto, existen (en el gobierno real) el Señor y el Ministro (párrafo 7). Cuando uno discierne esto y sabe qué elemento es preferible, convencido de que no hacer nada es valioso, ¿qué dificultad tiene para gobernar el mundo?
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 El hilo conductor de este Libro es "No hacer nada". Ya sea que se refiera a los impulsos de la naturaleza o a las mentes humanas, muestra cómo, en relación con ambos, debe existir este "no hacer nada". Finalmente, con mucha repetición, distingue y analiza, demostrando que el hecho de no hacer nada no tiene por qué preocuparnos, y no es lo mismo que la "extinción" de los budistas. No hay mucha diferencia entre la enseñanza de este Libro y lo que leemos en las Analectas confucianas: "No hizo nada y, sin embargo, gobernó con eficiencia" (Libro XV, cap. IV). Este es un ejemplo de la luz que nuestro "viejo Kwang" arroja sobre el Rey, y muestra cómo puede llegar a un entendimiento entre él y nuestros literatos.
 
@@ -186,7 +186,7 @@ La esencia de lo que sabemos es la siguiente: el Tao fue creado antes del cielo 
 
 En este Libro se revelan los misterios del Tao; un ligero giro de expresión tras otro revela sus sucesivas profundidades, más allá del alcance del razonamiento. La Fang-hû dice: «Domina este Libro, y el Mahâyâna del Tripitaka se te revelará con la primera aplicación de tu cuchillo». ¡Qué bien se expresa!
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 ## LIBRO XXVI.
 
@@ -202,7 +202,7 @@ Así, el hombre perfecto alcanza la armonía de su Cielo (naturaleza dada), y su
 
 Este Libro señala la verdadera forma de las sustancias y dio pie a la discusión posterior sobre los hexagramas Khân y Lî, así como sobre el plomo y el mercurio. Casi todo el libro ha sido cuestionado, y los párrafos segundo, tercero y cuarto están tan marcados por la superficialidad de su estilo y la excentricidad de sus sentimientos, que cabe dudar de su autenticidad. Sospecho que fueron escritos e introducidos por algún imitador de Kwang-dze, por lo que los dejo fuera de mi análisis.
 
-<span id="p296">[<sup><small>pág. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## LIBRO XXXII.
 
@@ -222,7 +222,7 @@ El tema del último párrafo del Lieh Yü-khâu es Kwang-dze, «cuando estaba a 
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice IV. Zäh Yung King, o “Clásico del directorio por un día”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice IV. Zäh Yung King, o «Clásico del directorio por un día»</span>
         </a>
         </td>
         <td>

@@ -32,18 +32,18 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 
 KAUNDINYA fue el primero de los cinco monjes en acercarse al Bendito. Dijo: «Te he escuchado, oh Maestro, y si me consideras digno, seré tu discípulo».
 
-“¿Me entendiste, Kaundinya?”, preguntó el Bendito.
+«¿Me entendiste, Kaundinya?», preguntó el Bendito.
 
-“Tengo fe en el Buda y en el Buda. Lo seguiría”, dijo Kaundinya. “Seguiría a quien posee el conocimiento, quien conoce los mundos, quien es un Santo; seguiría a quien doma a todos los seres como se doma a los toros salvajes, cuyas palabras son escuchadas tanto por dioses como por hombres; seguiría a quien es el Buda supremo. Tengo fe en la ley y la seguiría. El Bendito la ha expuesto; ha sido claramente expuesta; conduce a la salvación, y el sabio debe reconocer su poder benéfico. Viviré según tus preceptos, según tus santos preceptos, según tus preceptos que los sabios alabarán”.
+«Tengo fe en el Buda y en el Buda. Lo seguiría», dijo Kaundinya. «Seguiría a quien posee el conocimiento, quien conoce los mundos, quien es un Santo; seguiría a quien doma a todos los seres como se doma a los toros salvajes, cuyas palabras son escuchadas tanto por dioses como por hombres; seguiría a quien es el Buda supremo. Tengo fe en la ley y la seguiría. El Bendito la ha expuesto; ha sido claramente expuesta; conduce a la salvación, y el sabio debe reconocer su poder benéfico. Viviré según tus preceptos, según tus santos preceptos, según tus preceptos que los sabios alabarán».
 
 —Lo has entendido, Kaundinya —dijo el Bendito—. Acércate. La ley está bien predicada. Lleva una vida santa y acaba con el sufrimiento.
 
-<span id="p124">[<sup><small>pág. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Entonces Vashpa acudió al Buda para profesar su fe, y le siguieron Bhadrika, Mahanaman y Asvajit. Y entonces hubo seis santos en el mundo.
 
@@ -55,7 +55,7 @@ Cuatro amigos de Yasas, Vimala, Subahu, Purnajit y Gavampati, se divirtieron con
 
 Vayamos al Parque de los Ciervos a buscar a Yasas. Lo convenceremos de su error y regresará con nosotros.
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Al entrar en el bosque, encontraron al Buda instruyendo a sus discípulos. Les decía:
 
@@ -73,7 +73,7 @@ Vimala se postró a los pies del Bendito. Le profesó su fe y fue recibido entre
 
 Cada día aumentaba el número de discípulos, y pronto el maestro contaba con sesenta monjes listos para propagar el conocimiento. Les dijo:
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Oh discípulos, estoy libre de toda atadura, humana y divina. Y ustedes también son libres ahora. Así que, discípulos, emprendan su camino; vayan, por compasión al mundo, por la felicidad del mundo. Es a ustedes a quienes los dioses y los hombres les deben su bienestar y su alegría. Partan, solos y en solitario. Y enseñen, discípulos, enseñen la ley gloriosa, la ley gloriosa al principio, gloriosa a la mitad, gloriosa al final; enseñen el espíritu de la ley; enseñen la letra de la ley; a todos los que escuchan, proclamen la vida perfecta, pura y santa. Hay algunos que no están cegados por el polvo de la tierra, pero no encontrarán la salvación si no escuchan la ley proclamada. Así que vayan, discípulos, id y enséñenles la ley.
 

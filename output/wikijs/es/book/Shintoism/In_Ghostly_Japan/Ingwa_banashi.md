@@ -32,15 +32,15 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 La esposa del daimyô agonizaba, y lo sabía. No había podido levantarse de la cama desde principios del otoño del décimo Bunsei. Era el cuarto mes del duodécimo Bunsei, el año 1829 según el sistema occidental; y los cerezos estaban en flor. Pensó en los cerezos de su jardín y en la alegría de la primavera. Pensó en sus hijos. Pensó en las diversas concubinas de su esposo, especialmente en Yukiko, de diecinueve años.
 
-\[1. Lit., “un cuento de _ingwa_”. _Ingwa_ es un término budista japonés que designa el karma maligno, o la consecuencia negativa de las faltas cometidas en una existencia anterior. Quizás el curioso título de la narración se explique mejor con la enseñanza budista de que los muertos tienen el poder de dañar a los vivos solo como consecuencia de las malas acciones cometidas por sus víctimas en una vida anterior. Tanto el título como la narración pueden encontrarse en la colección de cuentos extraños titulada _Hyaku-Monogatari_.\]
+\[1. Lit., «un cuento de _ingwa_». _Ingwa_ es un término budista japonés que designa el karma maligno, o la consecuencia negativa de las faltas cometidas en una existencia anterior. Quizás el curioso título de la narración se explique mejor con la enseñanza budista de que los muertos tienen el poder de dañar a los vivos solo como consecuencia de las malas acciones cometidas por sus víctimas en una vida anterior. Tanto el título como la narración pueden encontrarse en la colección de cuentos extraños titulada _Hyaku-Monogatari_.\]
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
-“Mi querida esposa”, dijo el daimyô, “has sufrido mucho durante tres largos años. Hemos hecho todo lo posible por tu recuperación: velando a tu lado día y noche, rezando por ti y ayunando a menudo por tu bien. Pero a pesar de nuestros amorosos cuidados y de la pericia de nuestros mejores médicos, parece que el fin de tu vida está cerca. Probablemente nos dolerá más que tú tener que abandonar lo que el Buda llamó con tanta acierto «esta casa ardiente del mundo». Ordenaré que se realicen, cueste lo que cueste, todos los ritos religiosos que puedan ayudarte en tu próximo renacimiento; y todos oraremos sin cesar por ti, para que no tengas que vagar por el Espacio Negro, sino que entres pronto en el Paraíso y alcances la Budeidad”.
+«Mi querida esposa», dijo el daimyô, «has sufrido mucho durante tres largos años. Hemos hecho todo lo posible por tu recuperación: velando a tu lado día y noche, rezando por ti y ayunando a menudo por tu bien. Pero a pesar de nuestros amorosos cuidados y de la pericia de nuestros mejores médicos, parece que el fin de tu vida está cerca. Probablemente nos dolerá más que tú tener que abandonar lo que el Buda llamó con tanta acierto «esta casa ardiente del mundo». Ordenaré que se realicen, cueste lo que cueste, todos los ritos religiosos que puedan ayudarte en tu próximo renacimiento; y todos oraremos sin cesar por ti, para que no tengas que vagar por el Espacio Negro, sino que entres pronto en el Paraíso y alcances la Budeidad».
 
 Le habló con suma ternura, acariciándola constantemente. Entonces, con los párpados cerrados, ella le respondió con una voz tenue como la de un insecto:
 
@@ -58,17 +58,17 @@ Yukiko acudió a la llamada del señor y, obedeciendo una señal suya, se arrodi
 
 Mientras así preguntaba, su voz se fue haciendo cada vez más clara y firme, como si la intensidad del deseo le hubiera dado nuevas fuerzas; entonces, de repente, rompió a llorar. Yukiko se arrodilló inmóvil, sin saber qué hacer; pero el señor asintió.
 
-“Es su último deseo en este mundo”, dijo.
+«Es su último deseo en este mundo», dijo.
 
 Siempre le encantaron los cerezos; y sé que deseaba mucho ver ese yamato en flor. Ven, querida Yukiko, hazle saber lo que quiera.
 
 Como una nodriza que le da la espalda a un niño para que éste se aferre a ella, Yukiko ofreció sus hombros a la esposa y dijo:
 
-“Señora, estoy listo: por favor, dígame cómo puedo ayudarla mejor”.
+«Señora, estoy listo: por favor, dígame cómo puedo ayudarla mejor».
 
 —¡Por aquí! —respondió la moribunda, incorporándose con un esfuerzo casi sobrehumano aferrándose a los hombros de Yukiko. Pero al erguirse, deslizó rápidamente sus delgadas manos por los hombros, bajo la túnica, y aferró los pechos de la joven, prorrumpiendo en una risa maliciosa.
 
-<span id="p210">[<sup><small>pág. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 —¡He cumplido mi deseo! —exclamó—. ¡He cumplido mi deseo de la flor del cerezo, pero no la flor del cerezo del jardín!... No podría morir sin haber cumplido mi deseo. ¡Ahora lo he cumplido! ¡Qué alegría!
 

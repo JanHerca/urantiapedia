@@ -1,6 +1,6 @@
 ---
 title: "Observaciones preliminares a los Yasts y Sîrôzahs"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## YASTS Y SÎRÔZAHS.
 
@@ -48,7 +48,7 @@ Sîrôzah significa ‘treinta días’: es el nombre de una oración compuesta 
 
 Hay dos Sîrôzahs, pero la única diferencia entre ellas es que las fórmulas de la primera son más cortas [^3], y hay también, ocasionalmente, alguna diferencia en los epítetos, que son más completos en la segunda.
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 En la India, el Sîrôzah se recita en honor a los muertos, el trigésimo día después de la muerte, el trigésimo día del sexto mes, el trigésimo día del duodécimo mes y luego cada año el trigésimo día a partir del día del aniversario (Anquetil, Zend-Avesta, II, 315).
 
@@ -93,7 +93,7 @@ Sin embargo, no todos los Ya<i>s</i>t están dedicados al Ized cuyo nombre lleva
 
 El orden sistemático tan evidente en el Sîrôzah impregna en gran medida el resto de la liturgia: la enumeración de los Izeds en Yasna XVII, 12-4a (XVI, 3-6) sigue exactamente el orden del Sîrôzah, excepto que da sólo el primer nombre de cada fórmula; y puede plantearse la cuestión de si este pasaje del Yasna está tomado del Sîrôzah, o si el Sîrôzah se desarrolla a partir del Yasna.
 
-La idea misma del Sîrôzah, es decir la atribución de cada uno de los treinta días del mes a ciertos dioses, parece haber sido tomada de los semitas: las tablillas encontradas en la biblioteca de Assurbanipal contienen un Sîrôzah asirio, es decir, una lista completa de los dioses asirios que presiden los treinta días del mes [1](Sirozahs_1#fn4).
+La idea misma del Sîrôzah, es decir la atribución de cada uno de los treinta días del mes a ciertos dioses, parece haber sido tomada de los semitas: las tablillas encontradas en la biblioteca de Assurbanipal contienen un Sîrôzah asirio, es decir, una lista completa de los dioses asirios que presiden los treinta días del mes [1](../Sirozahs_1#fn4).
 
 <figure class="table chapter-navigator">
   <table>

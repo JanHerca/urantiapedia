@@ -80,7 +80,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v2_6_1_2424"><sup><small>2:6:1:2424.</small></sup></span> Todos cambian su cordón sacrificial al hombro derecho, estando a punto de proceder con esas oblaciones (principales). El Sacrificador y el Brahmán, así investidos, pasan del oeste al este, y el Âgnîdhra del este al oeste del fuego. Además, la llamada del Adhvaryu al «<i>S</i>rausha<i>t</i>» es «_Õ_<i>m</i> svadhâ!» y la respuesta del Âgnîdhra es «Astu svadhâ [^966]!». y el llamado de Vashat es 'Svadhâ nama<i>h</i>!'
 
-<span id="v2_6_1_2525"><sup><small>2:6:1:2525.</small></sup></span> En cuanto a esto, Âsuri dijo: 'Que pidan el Srausha<i>t</i> (con “Õ <i>S</i>râvaya”), y que respondan con el “(Astu) <i>S</i>rausha<i>t</i>”, y que pronuncien el “Vashat”, para que no nos desviemos de la manera del sacrificio'.
+<span id="v2_6_1_2525"><sup><small>2:6:1:2525.</small></sup></span> En cuanto a esto, Âsuri dijo: 'Que pidan el Srausha<i>t</i> (con «Õ <i>S</i>râvaya»), y que respondan con el «(Astu) <i>S</i>rausha<i>t</i>», y que pronuncien el «Vashat», para que no nos desviemos de la manera del sacrificio'.
 
 <span id="v2_6_1_2626"><sup><small>2:6:1:2626.</small></sup></span> \[El Adhvaryu\] dice entonces: «¡Pronuncia la oración invitatoria a los padres, acompañados por Soma!» o «—a Soma, acompañado por los padres». Pronuncia dos oraciones invitatorias (el Hotri) (durante las ofrendas), porque con una se conmueve a los dioses, y con dos a los padres, ya que los padres han partido para siempre [^967]: por lo tanto, pronuncia dos oraciones invitatorias. <span id="p429"><sup><small>[ p. 429 ]</small></sup></span> 2:6:1:2727\. El Adhvaryu prepara una capa inferior de mantequilla (en el <i>g</i>uhû o cuchara de ofrendas). Luego corta un trozo del pastel y, junto con él, un poco del grano tostado y las gachas [^968]. Lo coloca al mismo tiempo (en el <i>g</i>uhû); lo espolvorea dos veces con mantequilla; y unge de nuevo (rellena con mantequilla las partes de los platos de sacrificio con los que ha hecho) los cortes. No camina hacia el lado sur del fuego; sino que, tras levantarse y acercarse al fuego del mismo lado donde estaba sentado, y pedir al Âgnîdhra el '<i>S</i>rausha<i>t</i>', le dice al Hotri: «¡Pronuncia la oración de ofrenda a los padres, acompañado por Soma!». y vierte la oblación (en el fuego) tan pronto como se pronuncia el Vasha<i>t</i> [^969]. <span id="p430"><sup><small>[ p. 430 ]</small></sup></span> 2:6:1:2828\. Acto seguido, dice: «¡Pronuncien la oración invitatoria a los padres, sentados en los barhis!». Luego prepara una capa inferior de mantequilla, toma un corte de (la parte norte del) grano tostado y, junto con ella, un poco de las gachas y el pastel; coloca todo esto al mismo tiempo (en el <i>g</i>uhû); espolvorea dos veces con mantequilla y vuelve a ungir (los lugares de) los cortes. No cruza caminando; Pero habiéndose acercado (al fuego) del mismo lado y llamado al 'Sraushat', dice: '¡Pronuncia la oración de ofrenda a los padres, sentado en los barhis!' y vierte la oblación tan pronto como se ha pronunciado el Vashat.
 
@@ -155,7 +155,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v2_6_2_1818"><sup><small>2:6:2:1818.</small></sup></span> Luego giran a la derecha y regresan (al uttaravedi) sin mirar atrás. Al regresar, tocan el agua; pues han estado realizando una ceremonia relacionada con Rudra [^993], y el agua es (un medio de) purificación: con el agua, ese (medio de) purificación, se purifican en consecuencia.
 
-<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span> Acto seguido, se afeita el cabello y la barba, y enciende el fuego (del uttaravedi), pues solo después de cambiar de lugar (al terreno de sacrificio ordinario) realiza el sacrificio (de luna llena) en ese fuego, ya que no es apropiado que realice el <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra en el uttaravedi; por esta razón, cambia de lugar. Tras ir a la casa y apagar los fuegos [1](Book_1_2_6#fn994), realiza la ofrenda de luna llena. Las ofrendas estacionales, sin duda, son sacrificios separados; mientras que la ofrenda de luna llena es un sacrificio regular y establecido: por lo tanto, finalmente se establece por medio de ese sacrificio regular, y por lo tanto cambia su lugar (al terreno de sacrificio ordinario).
+<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span> Acto seguido, se afeita el cabello y la barba, y enciende el fuego (del uttaravedi), pues solo después de cambiar de lugar (al terreno de sacrificio ordinario) realiza el sacrificio (de luna llena) en ese fuego, ya que no es apropiado que realice el <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra en el uttaravedi; por esta razón, cambia de lugar. Tras ir a la casa y apagar los fuegos [1](../Book_1_2_6#fn994), realiza la ofrenda de luna llena. Las ofrendas estacionales, sin duda, son sacrificios separados; mientras que la ofrenda de luna llena es un sacrificio regular y establecido: por lo tanto, finalmente se establece por medio de ese sacrificio regular, y por lo tanto cambia su lugar (al terreno de sacrificio ordinario).
 
 
 <span id="v2_6_3"><sup><small>2:6:3</small></sup></span>
@@ -259,9 +259,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^949]: 422:1 No tres veces, como en un ish<i>t</i>i ordinario; ver I, 1, 4, 23.
 
-[^950]: 422:2 No hacia el este, como en el Dar<i>s</i>apûr<i>n</i>amâsa; cf. [p. 38](Book_1_1_2#p38), nota [3](Book_1_1_2#fn153). En las ofrendas a los Manes, el sur, por regla general, ocupa el lugar del este, el oeste el del sur, etc.
+[^950]: 422:2 No hacia el este, como en el Dar<i>s</i>apûr<i>n</i>amâsa; cf. [p. 38](../Book_1_1_2#p38), nota [3](../Book_1_1_2#fn153). En las ofrendas a los Manes, el sur, por regla general, ocupa el lugar del este, el oeste el del sur, etc.
 
-[^951]: 422:3 Al concluir la ceremonia de Âptya (cf. I, 2, 2, 18-3, 5), erige al sur del fuego (ordinario) de Dakshi<i>n</i>a un cobertizo (cuadrangular) (véase más adelante, párrafo 20) con una puerta en el lado norte. En su interior, prepara un altar cuadrangular (del mismo tamaño que el del Dar<i>s</i>apûr<i>n</i>amâsa; cf. I, 2, 5, 14) con las esquinas hacia los cuartos intermedios, en cuyo centro construye el (nuevo) hogar de Dakshi<i>n</i>âgni. \[Según Taitt. Br. I, 6, 8, 5-6 no se excava al preparar el altar (que debe ser cuadrado) en el Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] Cuando el fuego Dakshi<i>n</i>a se traslada al nuevo hogar, el agua Pra<i>n</i>itâ (véase [p. 9](Book_1_1_1#p9), nota) se lleva después, seguida por el Brahman y el Sacrificador, y se coloca al este (no al norte) del hogar. La preparación del fuego está precedida por la habitual quíntuple purificación del hogar (véase [p. 2](Book_1_1_1#p2)).
+[^951]: 422:3 Al concluir la ceremonia de Âptya (cf. I, 2, 2, 18-3, 5), erige al sur del fuego (ordinario) de Dakshi<i>n</i>a un cobertizo (cuadrangular) (véase más adelante, párrafo 20) con una puerta en el lado norte. En su interior, prepara un altar cuadrangular (del mismo tamaño que el del Dar<i>s</i>apûr<i>n</i>amâsa; cf. I, 2, 5, 14) con las esquinas hacia los cuartos intermedios, en cuyo centro construye el (nuevo) hogar de Dakshi<i>n</i>âgni. \[Según Taitt. Br. I, 6, 8, 5-6 no se excava al preparar el altar (que debe ser cuadrado) en el Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] Cuando el fuego Dakshi<i>n</i>a se traslada al nuevo hogar, el agua Pra<i>n</i>itâ (véase [p. 9](../Book_1_1_1#p9), nota) se lleva después, seguida por el Brahman y el Sacrificador, y se coloca al este (no al norte) del hogar. La preparación del fuego está precedida por la habitual quíntuple purificación del hogar (véase [p. 2](../Book_1_1_1#p2)).
 
 [^952]: 423:1 En lugar de hacia el norte, como se hace en el ish<i>t</i>i normal; ver I, 2, 4, 12 seq.
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^969]: 427:5 Véase I, 5, 3, 1 seq.
 
-[^970]: 428:1 En el sacrificio a los Manes, el Âgnîdhra, al pronunciar su respuesta, se sitúa al sur del Adhvaryu. Véase [p. 132](Book_1_1_5#p132), nota. La primera sílaba de «svadhâ» es alargada. Según el comentario sobre Kâty, V, 9, 12, las fórmulas de ofrenda también comienzan con «Yẽ svadhâmahe», en lugar de «Yẽ ya<i>g</i>âmahe» (véase I, 5, 2, 16 y nota).
+[^970]: 428:1 En el sacrificio a los Manes, el Âgnîdhra, al pronunciar su respuesta, se sitúa al sur del Adhvaryu. Véase [p. 132](../Book_1_1_5#p132), nota. La primera sílaba de «svadhâ» es alargada. Según el comentario sobre Kâty, V, 9, 12, las fórmulas de ofrenda también comienzan con «Yẽ svadhâmahe», en lugar de «Yẽ ya<i>g</i>âmahe» (véase I, 5, 2, 16 y nota).
 
 [^971]: 428:2 No veo del todo la pertinencia de la razón aquí alegada, a menos que el autor quiera decir que una vez (en el primer acto de la pág. 429) los padres han partido, y en un segundo acto regresan aquí. Según Â<i>s</i>val. II, 19, 22, las dos oraciones invitatorias al Pitara<i>h</i> Somavanta<i>h</i> son Rig-v. X, 15, 1; IX, 96, 11; al Soma Pit<i>ri</i>mat, Rig-v. I, 91, 1; 20; al Pitaro Barhishada<i>h</i>, Rig-v. X, 15, 4; 3; al Pitaro 'gnishvâttâ<i>h</i>, Rig-v. X, 15, 11; 13; \[a Yama X, 14, 4; 5.\]—Las oraciones de ofrenda son respectivamente, Rig-v. X, 15, 5; VIII, 48, 13; X, 15, 2; X, 15, 14; \[X, 14, 1.\]
 
@@ -309,7 +309,7 @@ Los Ya<i>g</i>us Negros son algo diferentes; a saber: Soma Pit<i>ri</i>mat, anuv
 
 [^973]: 429:2 O más bien el 'Svadhâ nama<i>h</i>', cf. párrafo 24. El Adhvaryu hace la oblación con la mano izquierda, mientras mira hacia el sur. Paddh. sobre Katy. V, 9.
 
-[^974]: 431:1 Según la comunicación sobre Kâty. V, 9, 13, en ese caso, se sustituye 'mantha<i>h</i>' por i<i>d</i>â' en la invocación (véase I, 8, 1, 19 ss.). El manuscrito Kâ<i>n</i>va dice lo siguiente: Acto seguido, a modo de i<i>d</i>â, colocan esa misma papilla en la mano del Hot<i>ri</i>. El Hot<i>ri</i>, tras invocarla, la huele. Se la entregan al Âgnîdhra. El Âgnîdhra la huele. Se la entregan al Brahman. El Brahman la huele. En cuanto a esto, Âsuri dijo: 'Como de cualquier otra oblación se corta el “i<i>d</i>â” y la parte delantera, así que que lo corten y lo huelan, p. 432 pero no lo coman: algo, en verdad, debe ser comido de aquello de lo cual se hace la ofrenda en el fuego.'
+[^974]: 431:1 Según la comunicación sobre Kâty. V, 9, 13, en ese caso, se sustituye 'mantha<i>h</i>' por i<i>d</i>â' en la invocación (véase I, 8, 1, 19 ss.). El manuscrito Kâ<i>n</i>va dice lo siguiente: Acto seguido, a modo de i<i>d</i>â, colocan esa misma papilla en la mano del Hot<i>ri</i>. El Hot<i>ri</i>, tras invocarla, la huele. Se la entregan al Âgnîdhra. El Âgnîdhra la huele. Se la entregan al Brahman. El Brahman la huele. En cuanto a esto, Âsuri dijo: 'Como de cualquier otra oblación se corta el «i<i>d</i>â» y la parte delantera, así que que lo corten y lo huelan, p. 432 pero no lo coman: algo, en verdad, debe ser comido de aquello de lo cual se hace la ofrenda en el fuego.'
 
 [^975]: 432:1 Véase II, 4, 2, 16 ss. Según la comunicación sobre Kâty. V, q, 27, algunos rocían tres veces alrededor del altar por cada uno de los tres antepasados. Pero según la Paddhati, se rocía una vez alrededor del altar, comenzando desde la esquina noroeste; luego se sienta y vierte agua en esa esquina para el padre. Acto seguido, tras caminar en dirección opuesta (de izquierda a derecha) hacia la esquina suroeste, vuelve a rociar todo alrededor y, de la misma manera, vierte agua en esa esquina para el abuelo; y, tras retroceder hasta la esquina sureste, realiza la misma circunvalación y vierte agua en esa esquina para el bisabuelo; tras lo cual, vuelve a retroceder hasta la esquina oeste del altar.
 
@@ -323,9 +323,9 @@ Los Ya<i>g</i>us Negros son algo diferentes; a saber: Soma Pit<i>ri</i>mat, anuv
 
 [^980]: 435:1 El texto de Kâ<i>n</i>va dice: «La razón por la que se mueve tres veces en círculo, rociando de izquierda a derecha, es que, después de ir tras esos tres antepasados ​​suyos, los abandona y regresa a este, su propio mundo». Véase II, 6, I, 15.
 
-[^981]: 435:2 Sobre el nîvi, o extremo sin tejer del manto (hindi dhotî, Mahr. dhotar), que debía pasarse por debajo y recogerse por detrás al comienzo de la presente ceremonia, véase [p. 368](Book_1_2_4#p368), nota [2](Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
+[^981]: 435:2 Sobre el nîvi, o extremo sin tejer del manto (hindi dhotî, Mahr. dhotar), que debía pasarse por debajo y recogerse por detrás al comienzo de la presente ceremonia, véase [p. 368](../Book_1_2_4#p368), nota [2](../Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
 
-[^982]: 435:3 Para las seis fórmulas utilizadas para este propósito, véase [p. 368](Book_1_2_4#p368), nota [2](Book_1_2_4#fn819).
+[^982]: 435:3 Para las seis fórmulas utilizadas para este propósito, véase [p. 368](../Book_1_2_4#p368), nota [2](../Book_1_2_4#fn819).
 
 [^983]: 436:1 Véase I, 8, 3, 1 seq.
 
@@ -343,7 +343,7 @@ Los Ya<i>g</i>us Negros son algo diferentes; a saber: Soma Pit<i>ri</i>mat, anuv
 
 [^990]: 440:2 En Taitt. Br. I, 6, 10, 4, esta hermana de Rudra se identifica con el otoño, con el que el dios suele matar (a saber, mediante catarro, fiebre, etc., Sây.). Véase también Weber, Ind. Stud. I, 183; Muir, Textos Sánscritos Originales, vol. iv, pág. 321.
 
-[^991]: 440:3 'Âkhûtkara'; 'âkhukarîsha', texto de Kâ<i>n</i>va. Posiblemente se refiere a una ratonera o a la tierra que levanta un ratón. Véase [p. 278](Book_1_2_1#p278), nota [3](Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2: «NN es tu víctima», diciendo así, que indique a quien (el Sacrificador) odia; con ello le entrega (a Rudra) a quien odia. Si no odia a nadie, que diga: «El topo (ratón) es tu víctima».
+[^991]: 440:3 'Âkhûtkara'; 'âkhukarîsha', texto de Kâ<i>n</i>va. Posiblemente se refiere a una ratonera o a la tierra que levanta un ratón. Véase [p. 278](../Book_1_2_1#p278), nota [3](../Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2: «NN es tu víctima», diciendo así, que indique a quien (el Sacrificador) odia; con ello le entrega (a Rudra) a quien odia. Si no odia a nadie, que diga: «El topo (ratón) es tu víctima».
 
 [^992]: 440:4 'Así le entrega solamente el topo como víctima, y ​​lo pone en su boca', texto de Kâ<i>n</i>va.
 
@@ -355,7 +355,7 @@ Los Ya<i>g</i>us Negros son algo diferentes; a saber: Soma Pit<i>ri</i>mat, anuv
 
 [^996]: 443:2 Según Kâty. V, 10, 22, murmura la palabra 'vestido de piel' mientras sostiene las dos cestas.
 
-[^997]: 443:3 Véase [p. 2](Book_1_1_1#p2), nota [2](Book_1_1_1#fn84).
+[^997]: 443:3 Véase [p. 2](../Book_1_1_1#p2), nota [2](../Book_1_1_1#fn84).
 
 [^998]: 444:1 Véase II, 5, 2, 48.
 
@@ -379,7 +379,7 @@ Los Ya<i>g</i>us Negros son algo diferentes; a saber: Soma Pit<i>ri</i>mat, anuv
 
 [^1008]: 449:1 Anika (? 'vanguardia'), cf. V, 3, 1, 1 'Traje el arte del arte': II, 5, 3, 2.
 
-[^1009]: 450:1 Véase [p. 448](Book_1_2_6#p448), nota [1](Book_1_2_6#fn1003).
+[^1009]: 450:1 Véase [p. 448](../Book_1_2_6#p448), nota [1](../Book_1_2_6#fn1003).
 
 [^1010]: 451:1 El texto de Kâ<i>n</i>va añade: Y cuando realiza el <i>S</i>unâsîrîya, entonces se convierte en Vâyu, y alcanza la unión con Vâyu y la coexistencia en su mundo.
 

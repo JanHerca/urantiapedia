@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p180">[<sup><small>pág. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 ## XXI. TRATADO DE MEGUILLAH, O, DEL ROLLO DEL LIBRO DE ESTER.
 

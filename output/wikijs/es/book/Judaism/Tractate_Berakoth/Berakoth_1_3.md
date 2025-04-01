@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 III. 1. Aquel cuyo muerto yace ante él [^141] está exento de la recitación del Shma', [^142]† y de las filacterias. [^142]† En el caso de aquellos que
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 **M**. quienes llevan el féretro, y quienes ocupan sus lugares, y quienes ocupan los lugares de estos, [^143] incluyendo a quienes están delante y detrás del féretro, y también a quienes son requeridos para el féretro, tienen la obligación de recitar el Shemá. Ambos grupos están exentos de la oración. [^144]
 
@@ -68,7 +68,7 @@ III. 1. Aquel cuyo muerto yace ante él [^141] está exento de la recitación de
 
 14\. Si un hombre se encuentra desnudo en campo abierto, o trabajando desnudo, debe cubrirse con paja, rastrojo o cualquier otra cosa, y así recitar el Shemá, según el dicho: No es digno de alabanza que un hombre esté desnudo; pues cuando el Santo, bendito sea, creó al hombre, no lo creó desnudo. Pues se dice: «Cuando hice de la nube su vestidura y de la densa oscuridad su faja». [^161] «Cuando hice de la nube su vestidura» —esto se refiere a la bolsa; «y de la densa oscuridad su faja» —esto se refiere a la placenta. Un hombre que lleva un delantal de tela o de cuero ceñido a sus lomos, recita el Shemá. Pero en ambos casos, el hombre no reza la oración hasta que se cubre el corazón.
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 **T**.
 
@@ -80,7 +80,7 @@ III. 1. Aquel cuyo muerto yace ante él [^141] está exento de la recitación de
 
 18\. Un hombre no puede permanecer de pie y orar cuando
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 **T**.
 
@@ -92,7 +92,7 @@ siente que debe aliviar la naturaleza. Porque se dice: _Prepárate para encontra
 
 21\. Hillel el Viejo [^170] dice: No te muestres desnudo, no te muestres vestido; no te muestres de pie, no te muestres sentado; no te muestres riendo, no te muestres llorando; porque está dicho: "Tiempo de reír y tiempo de llorar;"
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 **T**.tiempo de abrazar, y tiempo de abstenerse de abrazar.
 
@@ -136,13 +136,13 @@ Pero Bacher (Ag. der Tanis, I. 8) explica el pasaje como simplemente el desarrol
 
 [^147]: 22:4 _la fila_ \[_de dolientes_\]. Tras el entierro, «es costumbre que el pueblo se coloque en dos filas paralelas mientras los dolientes pasan entre ellas, y digan: «Que Dios los consuele junto con todos los que lloran por Sión y Jerusalén»» (Enciclopedia Judía, v. 530).
 
-[^148]: 23:1 _la bendición después de las comidas_. Pero no se les invita a decir la bendición. _M_. VII. 3 (2) (_infra_, [p. 60](Berakoth_3_7#p60)).
+[^148]: 23:1 _la bendición después de las comidas_. Pero no se les invita a decir la bendición. _M_. VII. 3 (2) (_infra_, [p. 60](../Berakoth_3_7#p60)).
 
 [^149]: 23:2 Levítico 1516.
 
 [^150]: 23:3 _no antes_. Fue ordenado únicamente por los rabinos, no por la Ley.
 
-[^151]: 23:4 _ellos_. Tanto el Shmá como la comida (_vide supra_, [p. 19](Berakoth_1_2#p19)).
+[^151]: 23:4 _ellos_. Tanto el Shmá como la comida (_vide supra_, [p. 19](../Berakoth_1_2#p19)).
 
 [^152]: 24:1 Levítico 1516.
 
@@ -184,4 +184,4 @@ Pero Bacher (Ag. der Tanis, I. 8) explica el pasaje como simplemente el desarrol
 
 [^171]: 27:4 Hillel el Viejo. El siguiente Hillel era tan joven (Patriarca 330-365 d. C.) que difícilmente se le puede dar el epíteto con fines de comparación. Es más bien un título de honor y de supremacía en erudición y sabiduría. En la Sifra (Kdoshim III. 7) sobre Levítico 1932 encontramos: «R. José el Galileo dice: «Anciano (ZaKêN) no significa otra cosa que «Aquel que ha adquirido sabiduría» (Zeh shKaNah chokmah), pues se dice: «El SEÑOR me adquirió (KNani) como el principio de su camino» (Prov. 822). Dicho sea de paso, nunca se le llama «Rabí Hillel», excepto, según parece, en C de Aboth II. 5».
 
-[^172]: 28:1 Eclesiastés 34, 5. Obsérvese que las palabras citadas no son consecutivas. El pasaje podría significar que cada deber tiene su momento oportuno, y es ostentoso dejarnos sorprender por el momento de recitar el Shemá si no estamos debidamente preparados. Por eso, nuestro Señor insta a los hombres a no orar de pie en las esquinas de las calles (Mateo 65). Cf. la advertencia al final de _M_. II. 8 ([p. 21](Berakoth_1_2#p21)).
+[^172]: 28:1 Eclesiastés 34, 5. Obsérvese que las palabras citadas no son consecutivas. El pasaje podría significar que cada deber tiene su momento oportuno, y es ostentoso dejarnos sorprender por el momento de recitar el Shemá si no estamos debidamente preparados. Por eso, nuestro Señor insta a los hombres a no orar de pie en las esquinas de las calles (Mateo 65). Cf. la advertencia al final de _M_. II. 8 ([p. 21](../Berakoth_1_2#p21)).

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Todas las cosas en la Naturaleza actúan silenciosamente. Surgen sin poseer nada. Cumplen sus funciones sin exigir nada.
 
@@ -56,7 +56,7 @@ Quien, consciente del merecimiento, se contenta con sufrir la desgracia, será e
 
 El que es grande debe basarse en la humildad. El que es alto debe basarse en la humildad. Así, príncipes y reyes, al referirse a sí mismos, usan términos como «solitario», «sin amigos», «de poca monta». ¿No es esto convertir la humildad en su base?
 
-Así es que “Algunas cosas aumentan al disminuirse, otras disminuyen al aumentarse”. Lo que otros han enseñado, yo también lo enseño; en verdad, lo haré la raíz de mi enseñanza.
+Así es que «Algunas cosas aumentan al disminuirse, otras disminuyen al aumentarse». Lo que otros han enseñado, yo también lo enseño; en verdad, lo haré la raíz de mi enseñanza.
 
 Lo que hace grande a un reino es ser como un río que fluye hacia abajo, el punto central hacia el cual convergen todos los arroyos menores bajo el Cielo; o como la mujer en todo el mundo, que con su quietud siempre vence al hombre. Y la quietud es una forma de humildad.
 

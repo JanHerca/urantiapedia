@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 THANG murió en 1754 o 1753 a. C., y fue sucedido, según la evidencia del Shû, por su nieto, conocido como Thâi <i>K</i>iâ. El ministro principal de Thang había sido Î Yin, quien entrega estas Instrucciones a su joven soberano poco después de su ascenso al trono. Fue un hombre eminente y sabio, «un gran sabio», como lo llama Thang en el último Libro, y Mencio lo clasifica entre otros ministros célebres como «el más inclinado a asumir el cargo». Razona así: «El plan del Cielo para la humanidad es que quienes primero sean informados instruyan a quienes lo sean después, y quienes primero comprendan los principios instruyan a quienes lo hagan después». Se consideraba uno de los primeros, y un fuego interior lo impulsaba a buscar un cargo con el fin de beneficiar a los ignorantes y descarriados. Existían muchas leyendas sobre él en la época de Kâu. Su apellido era Î, por haber nacido cerca del río del mismo nombre, afluente del Ho. Se dice que su nombre era Kâih, y también Â-hăng (véase el comienzo del siguiente libro). Yin era su designación. Thang probablemente le había confiado la tutela de su nieto, por lo que repasó la historia del reino desde Yü hasta su transferencia del linaje de Hsiâ al de Shang, elogió las virtudes de Thang y su gobierno, y advirtió al joven rey del destino que le aguardaba si descuidaba las instrucciones que le habían sido dadas.
 

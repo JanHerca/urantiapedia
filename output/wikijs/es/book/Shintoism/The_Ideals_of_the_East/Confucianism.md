@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>pág. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 La primera ola de influencia continental que se extendió por el arte del Japón primitivo, antes de que el budismo llegara a nosotros en el siglo VI, fue la de la dinastía Hâng y las Seis Dinastías de China.
 
@@ -46,11 +46,11 @@ Sin embargo, durante muchos siglos después de su asentamiento en las llanuras, 
 
 Pero las necesidades, que se definían lentamente, de una comunidad agrícola, que se desarrolló a través de incontables eras de tranquilidad, aún no habían dado origen a ese gran sistema ético y religioso, basado en la tierra y el trabajo, que hasta la actualidad constituye el poder inagotable de la nación china. Fieles a esta organización ancestral y aferrados a su exaltado socialismo, sus hijos, a pesar de los disturbios políticos, continúan extendiendo su conquista industrial a todos los rincones del planeta.
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 A Confucio (551 a. C. - 479 a. C.), al final de la dinastía Shu, le correspondió dilucidar y resumir este gran esquema de trabajo sintético, digno de estudio para todo sociólogo moderno. Se dedicó a la realización de una religión ética, la consagración del Hombre al Hombre. Para él, la Humanidad es Dios, la armonía de la vida, su máxima expresión. Dejando que el alma india se eleve y se fusione con su propia infinitud celeste; dejando que la Europa empírica investigue los secretos de la Tierra y la materia, y que cristianos y semitas se dejen llevar por el aire a través de un Paraíso de sueños terrenales; dejando todo esto, el confucianismo debe seguir cautivando a las grandes mentes por el hechizo de sus amplias generalizaciones intelectuales y su infinita compasión por la gente común.
 
-El _Eki_ o _Libro del Cambio_, Veda de la raza china, lleno de alusiones, como está, a la vida pastoral, aunque por él se acerca a lo Incomprensible, es casi una página prohibida para el agnóstico Confucio, quien dice, “Sin saber aún de la vida, ¿cómo voy a hablar de la muerte?”. Según la ética china, la unidad de la sociedad es la familia, constituida sobre el sistema de obediencia graduada, y el campesino es de igual importancia que el emperador, ese autócrata paternal cuyas virtudes lo han colocado a la cabeza de la gran hermandad comunista de deberes mutuos, enteramente por su propio consentimiento y elección.
+El _Eki_ o _Libro del Cambio_, Veda de la raza china, lleno de alusiones, como está, a la vida pastoral, aunque por él se acerca a lo Incomprensible, es casi una página prohibida para el agnóstico Confucio, quien dice, «Sin saber aún de la vida, ¿cómo voy a hablar de la muerte?». Según la ética china, la unidad de la sociedad es la familia, constituida sobre el sistema de obediencia graduada, y el campesino es de igual importancia que el emperador, ese autócrata paternal cuyas virtudes lo han colocado a la cabeza de la gran hermandad comunista de deberes mutuos, enteramente por su propio consentimiento y elección.
 
 El canon supremo de la vida era el autosacrificio del individuo a la comunidad, y el arte era apreciado por su contribución a las obras morales de la sociedad. Cabe destacar que la música ocupaba el primer lugar, siendo su función especial armonizar a los hombres con los hombres y a las comunidades con las comunidades. El estudio de la música era, por lo tanto, el primer logro de un joven Shu de noble cuna.
 

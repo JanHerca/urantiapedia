@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Con muchas palabras se agota el ingenio; es mejor conservar un término medio. La excelencia de una vivienda reside en su ubicación; la excelencia de una mente en su profundidad; la excelencia de la generosidad en la caridad; la excelencia del habla en la veracidad; la excelencia del gobierno en el orden; la excelencia de la acción en la habilidad; la excelencia del movimiento en la puntualidad.
 
@@ -46,7 +46,7 @@ Si un hombre es lúcido e inteligente, ¿puede carecer de conocimiento?
 
 El Sabio atiende a lo interior y no a lo exterior; deja de lado lo objetivo y se aferra a lo subjetivo.
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Entre sí y sí, ¡qué pequeña la diferencia! Entre el bien y el mal, ¡qué grande la diferencia!
 
@@ -98,7 +98,7 @@ Sé recto sin ser angular. Sé honesto sin ser mezquino. Sé recto sin ser punti
 
 Las buenas palabras te ganarán honor en el mercado, pero las buenas acciones te ganarán amigos entre los hombres.
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Quisiera ser bueno con los buenos, y también bueno con los que no son buenos, para hacerlos buenos.
 
@@ -136,7 +136,7 @@ Los violentos y testarudos no mueren de muerte natural.
 
 Las palabras verdaderas no son bonitas; las palabras bonitas no son verdaderas.
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Los buenos no son contenciosos; los contenciosos no son buenos.
 
@@ -170,7 +170,7 @@ Este es el Camino del Cielo, que beneficia y no perjudica. Este es el Camino del
 
 ## Notas al pie
 
-[^8]: 49:\* Hay un juego de palabras con la palabra _p'u_, simplicidad, cuyo significado original es “material no adecuado”.
+[^8]: 49:\* Hay un juego de palabras con la palabra _p'u_, simplicidad, cuyo significado original es «material no adecuado».
 
 [^9]: 50:\* Siempre debe existir la debida armonía entre la mente y el cuerpo, sin que ninguno de ellos pueda prevalecer sobre el otro. En tales circunstancias, las facultades mentales serán constantes, invariables, siempre igualmente listas para usarse cuando se les requiera. Y tal estado mental es lo que Lao Tzŭ llama aquí «sabiduría».
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p303">[<sup><small>pág. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 <a id="Introducción"></a>
 
@@ -42,7 +42,7 @@ Estas Odas de Shang constituyen el último libro de las ediciones ordinarias del
 
 Los soberanos de la dinastía Shang que ocuparon el trono desde 1766 a. C. hasta 1123. Su linaje se remonta a Hsieh, y aparecen en el Shû como Ministro de Instrucción de Shun. Por Yâo o por Shun, Hsieh fue investido con el principado de Shang, correspondiente al pequeño departamento que lleva ese nombre en Shen-hsî. Decimocuarto descendiente suyo fue Thien-Yî, más conocido como <i>Kh</i>ăng Thang, o Thang el Exitoso, quien destronó al último descendiente de la línea de Hsiâ y se convirtió en el fundador de una nueva dinastía. Lo encontramos primero a una distancia considerable del feudo ancestral (que, sin embargo, dio nombre a la dinastía), teniendo como capital el sur de Po, que parece referirse correctamente al actual distrito de Shang-_kh_iû, en el departamento de Kwei-teh, Ho-nan. Entre los veintisiete soberanos que sucedieron a Thang, hubo tres especialmente distinguidos: Thâi K iâ, su nieto y sucesor (1753-1721 a. C.), quien recibió el título de Thai Ȝung; Thai Mâu (1637-1563 a. C.), canonizado como Kung Ȝung; y Wû-ting (1324-1266 a. C.), conocido como Kâo Ȝung. Los santuarios de estos tres soberanos y el de Thang conservaron su lugar en el templo ancestral después de su primera construcción, y si se hubieran conservado todas las odas sacrificiales de la dinastía, la mayoría habrían sido en alabanza de uno u otro de los cuatro. Pero sucedió que al menos todas las odas de las que Thai Ȝung era el tema se perdieron; y de las demás solo tenemos la pequeña parte que se ha mencionado anteriormente.
 
-De cómo es que tenemos incluso esto, tenemos el siguiente relato en las Narrativas de los Estados, compilado, probablemente, por un contemporáneo de Confucio. El conde de Wei fue nombrado duque de Sung por el rey Wû de Kâu, como se relata en el Shû, V, viii, para continuar allí los sacrificios de la Casa de Shang; pero el gobierno de Sung cayó posteriormente en desorden, y los memoriales de la dinastía se perdieron. En la época del duque Tâi (799 a. C.-766), uno de sus ministros, Kăng-khâo, antepasado de Confucio, recibió del Gran Maestro de Música en la corte de Kâu doce <span id="p304">[<sup><small>p. 304 de las odas sacrificiales de Shang con las que regresó a Sung, donde se usaron para sacrificar a los antiguos reyes Shang. Se supone que siete de estas se perdieron posteriormente, antes de que se formara la colección del Shih.
+De cómo es que tenemos incluso esto, tenemos el siguiente relato en las Narrativas de los Estados, compilado, probablemente, por un contemporáneo de Confucio. El conde de Wei fue nombrado duque de Sung por el rey Wû de Kâu, como se relata en el Shû, V, viii, para continuar allí los sacrificios de la Casa de Shang; pero el gobierno de Sung cayó posteriormente en desorden, y los memoriales de la dinastía se perdieron. En la época del duque Tâi (799 a. C.-766), uno de sus ministros, Kăng-khâo, antepasado de Confucio, recibió del Gran Maestro de Música en la corte de Kâu doce <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> de las odas sacrificiales de Shang con las que regresó a Sung, donde se usaron para sacrificar a los antiguos reyes Shang. Se supone que siete de estas se perdieron posteriormente, antes de que se formara la colección del Shih.
 
 <a id="o1"></a>
 
@@ -80,7 +80,7 @@ Con los cubos de sus ruedas forrados de cuero y sus yugos ornamentados, con las 
 
 ¡Que él considere nuestros sacrificios de invierno y otoño, (así) ofrecidos por el descendiente de Thang!
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 <a id="o3"></a>
 
@@ -114,7 +114,7 @@ Cuando las aguas del diluvio se extendieron extensamente, Yû dispuso y dividió
 
 El rey oscuro ejerció una influencia efectiva [^333]. Encargado de un pequeño estado, ordenó el éxito: Encargado de un gran estado, ordenó el éxito [^334]. Siguió sus reglas de conducta sin error; dondequiera que inspeccionó (al pueblo), respondieron (a sus instrucciones) [^335]. (Entonces llegó) Hsiang-thû todo ardiente [^336], Y todos dentro de los cuatro mares, más allá (de las regiones medias), reconocieron sus restricciones.}
 
-<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 El favor de Dios no abandonó a Shang, y en Thang se halló el objeto idóneo para su exhibición. Thang no nació demasiado tarde, y su sabiduría y reverencia progresaban cada día: brillante fue la influencia de su carácter en el Cielo por mucho tiempo. Reverenció a Dios, y Dios lo designó modelo para las nueve regiones.
 

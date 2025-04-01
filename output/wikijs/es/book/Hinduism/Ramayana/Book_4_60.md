@@ -92,7 +92,7 @@ Tan hábil en las artes de la danza y el canto.
 Pero dime qué causa te ha llevado a pasar.
 Los laberintos de este bosque para pisar.
 
-<span id="p383">[<sup><small>pág. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 ¿Cómo, extraños, tuvisteis la oportunidad de espiar?
 ¿El bosque oculto a la mirada del caminante?
@@ -212,7 +212,7 @@ En ti, en la sabiduría del consejo probado,
 Nuestro rey Sugriva confiaba mucho.
 Vuestros corazones, cargados de fuerte afecto,
 
-<span id="p384">[<sup><small>pág. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 Su bienestar en cada trabajo buscado,
 Y el verdadero valor de tu banda
@@ -315,7 +315,7 @@ Hender la montaña como una flor.
 Oh Angad, presta atención a mi consejo:
 Si en esta cueva decides vivir,
 
-<span id="p385">[<sup><small>pág. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 
 
@@ -404,7 +404,7 @@ O cuando escucha el destino de su amado
 La reina morirá desconsolada.
 Así Angad se despidió de los jefes:
 Luego arrojó sus extremidades al suelo.
-Donde se extendía la hierba sagrada Darbha [1](Libro_4_60#fn762),
+Donde se extendía la hierba sagrada Darbha [1](../Libro_4_60#fn762),
 Y lloró porque toda esperanza había huido.
 Las conmovedoras palabras de Augad atrajeron
 El lastimero rocío cae sobre las mejillas envejecidas.
@@ -430,7 +430,7 @@ El más glorioso, fuerte y audaz.
 En la ladera de la colina de Vindhya
 Vio a los Vánars tranquilos y calmados.
 
-<span id="p386">[<sup><small>pág. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 Estas palabras las pronunció mientras la vista
 Llenó su feroz espíritu de deleite:
@@ -547,7 +547,7 @@ Fueron formados por la habilidad mágica de Maya.
 A través del oscuro laberinto nuestros pasos se doblaron,
 Y vagando por allí pasamos un mes,
 
-<span id="p387">[<sup><small>pág. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 Y perdido, en un error infructuoso, así
 Los días que nuestro rey nos asignó.
@@ -648,14 +648,14 @@ Veloz a través del cuarto salto el halcón
 El quinto, las alas más lentas del buitre.
 Hasta el sexto se alzan los alegres cisnes,
 
-<span id="p388">[<sup><small>pág. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
-Donde vuela el real Vainateya [1](Libro_4_60#fn772).
+Donde vuela el real Vainateya [1](../Libro_4_60#fn772).
 Nosotros también, oh jefes, de la raza buitre,
 Nuestra línea desde Vinatá puede rastrearse,
 Condenados, porque hicimos un acto
 De vergüenza, de carne y sangre para alimentarse.
-Pero todos los poderes maravillosos de Suparna [2](Libro_4_60#fn773)
+Pero todos los poderes maravillosos de Suparna [2](../Libro_4_60#fn773)
 Y la longitud de la vista más aguda es nuestra,
 Que estamos a cien leguas de distancia
 A través de los campos de aire divisamos nuestra presa.
@@ -666,7 +666,7 @@ Esta barrera de las profundidades saladas.
 Encuentra a la dama Videhan allí,
 Y alegre por la reparación de tu hogar.
 Yo también, oh Vánars. al lado
-De la casa de Varun [3](Libro_4_60#fn774) el océano, guía,
+De la casa de Varun [3](../Libro_4_60#fn774) el océano, guía,
 Dónde se pagarán las debidas libaciones
 'A la sombra de mi gran hermano.'
 
@@ -706,7 +706,7 @@ Estuvo a mi lado, pero no trajo ninguna presa.
 Escuchó mi queja y me respondió:
 
 'Llevado en alas rápidas antes de que amaneciera
-Me quedé en la altura de Mahendra [1b](Libro_4_60#fn775),
+Me quedé en la altura de Mahendra [1b](../Libro_4_60#fn775),
 Y, muy abajo, el mar que yo veía
 Y pájaros en incontable multitud.
 Ante mis ojos voló un gigante
@@ -761,7 +761,7 @@ Y las aguas mientras espumeaban,
 Y sabía que la hermosa colina debía ser
 Monte Vindhya junto al mar del sur.
 
-<span id="p389">[<sup><small>pág. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 Venerado por los seres celestiales, se encontraba
 Cerca de donde yacía, un bosque sagrado,
@@ -802,7 +802,7 @@ Ha hecho tu forma y tu aspecto extraños.
 Una vez conocí a dos hermanos buitres:
 Cada forma la podían dotar a su voluntad.
 Los de la raza de los buitres eran reyes,
-Y voló con las alas de Mátaris'va [1](Libro_4_70#fn776).
+Y voló con las alas de Mátaris'va [1](../Libro_4_70#fn776).
 En forma humana les encantaba saludar.
 Su amigo ermitaño, y abraza sus pies,
 El más joven era Jatáyus, tú
@@ -844,7 +844,7 @@ Digamos que tiene enfermedad o odio hacia el enemigo.
 
 [^756]: 382:3b Nombre general merusávarni para los últimos cuatro de los catorce Manus.
 
-[^757]: 382:4b Svayamprabhá “autoluminoso” es según DE GUBERNATIS la luna: "En el _Svayamprabhátoo_, nos encontramos con la luna como un hada buena que, desde el palacio dorado que reserva para su amiga Hemá la dorada:) es durante un mes la guía, en la vasta caverna de Hanumant y sus compañeros, que han perdido su camino en la búsqueda del amanecer. Sitáis no es del todo exacto: HanumHanumán y sus compañeros vagan durante un mes en la caverna sin guía, y luego Svayamprabhás los saca.
+[^757]: 382:4b Svayamprabhá «autoluminoso» es según DE GUBERNATIS la luna: "En el _Svayamprabhátoo_, nos encontramos con la luna como un hada buena que, desde el palacio dorado que reserva para su amiga Hemá la dorada:) es durante un mes la guía, en la vasta caverna de Hanumant y sus compañeros, que han perdido su camino en la búsqueda del amanecer. Sitáis no es del todo exacto: HanumHanumán y sus compañeros vagan durante un mes en la caverna sin guía, y luego Svayamprabhás los saca.
 
 [^758]: 384:1 Purandara, el destructor de ciudades; las ciudades son las nubes que el Dios del firmamento abre con sus rayos, para liberar las aguas aprisionadas en estas fortalezas de los demonios de la sequía.
 
@@ -876,7 +876,7 @@ Digamos que tiene enfermedad o odio hacia el enemigo.
 
 [^772]: 388:1 Garuda, hijo de Vinatá, el soberano de los pájaros.
 
-[^773]: 388:2 “El de buenas alas”, Garuda.
+[^773]: 388:2 «El de buenas alas», Garuda.
 
 [^774]: 388:3 El dios del mar.
 

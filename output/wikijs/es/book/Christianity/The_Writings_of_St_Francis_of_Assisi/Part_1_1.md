@@ -32,15 +32,15 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 **PARTE I.**
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 **ADVERTENCIAS, REGLAS, ETC.**
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 ## I. PALABRAS DE ADMONICIÓN DE NUESTRO SANTO PADRE SAN FRANCISCO.
 
@@ -64,7 +64,7 @@ El Señor Jesús dijo a sus discípulos: «Yo soy el Camino, la Verdad y la Vida
 
 Por tanto, quien tiene el Espíritu del Señor que mora en sus fieles, es quien recibe el Santísimo Cuerpo y la Sangre del Señor: todos los demás que no tienen este mismo Espíritu y presumen de recibirlo, comen y beben su propio juicio. Por tanto, «¡Oh, hijos de los hombres! ¿Hasta cuándo seréis insensibles?» ¿Por qué no queréis conocer la verdad y creer en el Hijo de Dios? Contemplad cómo cada día se humilla como cuando desde su trono real entró en el vientre de la Virgen; cada día viene a nosotros con igual humildad; cada día desciende del seno de su Padre sobre el altar en manos del sacerdote. Y así como se apareció en carne verdadera a los santos apóstoles, ahora se nos muestra en el Pan sagrado. Y así como ellos, con sus ojos carnales, solo veían su carne, pero al contemplarlo con sus ojos espirituales, creían que era Dios, así nosotros, al ver el pan y el vino con ojos corporales, vemos y creemos firmemente que es su Santísimo Cuerpo y su Sangre verdadera y viva. Y de esta manera nuestro Señor está siempre con sus fieles, como Él mismo dice: «He aquí que estoy con vosotros todos los días, hasta la consumación del mundo». [^93]
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ### 2\. El mal de la propia voluntad.
 
@@ -112,7 +112,7 @@ Para el siervo de Dios nada debe desagradar excepto el pecado. Y no importa de q
 
 Así puede el siervo de Dios saber si tiene el Espíritu de Dios: si cuando el Señor obra algún bien a través de él, su cuerpo, puesto que siempre está en desacuerdo con todo lo que es bueno, no se envanece por eso, sino que se vuelve más vil a sus propios ojos y se estima menos que los demás hombres. [^112]
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ### 13\. De la paciencia.
 
@@ -126,7 +126,7 @@ Bienaventurados los pobres de espíritu, porque de ellos es el reino de los ciel
 
 Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios. [^116] Son verdaderamente pacificadores aquellos que en medio de todo lo que sufren en este mundo mantienen la paz en el alma y en el cuerpo por amor de nuestro Señor Jesucristo.
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ### 16\. De la limpieza del corazón.
 
@@ -142,9 +142,9 @@ Bienaventurado el hombre que soporta a su prójimo según la fragilidad de su na
 
 ### 19\. Del siervo feliz y del infeliz.
 
-Bienaventurado el siervo que entrega todos sus bienes al Señor Dios, porque quien retiene algo para sí esconde “el dinero de su Señor” [^118], y aquello “que cree tener le será quitado” [^119].
+Bienaventurado el siervo que entrega todos sus bienes al Señor Dios, porque quien retiene algo para sí esconde «el dinero de su Señor» [^118], y aquello «que cree tener le será quitado» [^119].
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 ### 20\. De los buenos y humildes religiosos.
 
@@ -166,7 +166,7 @@ Bienaventurado el siervo que soporta la disciplina, la acusación y la culpa aje
 
 Bienaventurado aquel [^125] que se halle tan humilde entre sus súbditos como si estuviera entre sus amos. Bienaventurado el siervo que siempre persevera bajo la vara de la corrección. Es «un siervo fiel y prudente» [^126] quien no tarda en castigarse por todas sus ofensas, interiormente mediante la contrición y exteriormente mediante la confesión y las obras de satisfacción.
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ### 25\. Del Amor Verdadero.
 
@@ -176,7 +176,7 @@ Bienaventurado el hermano que ama a su hermano tanto cuando está enfermo y no p
 
 Bienaventurado el siervo de Dios que confía en los clérigos que viven rectamente según la forma de la santa Iglesia Romana. ¡Y ay de quienes los desprecian! Pues, aunque sean pecadores, nadie debe juzgarlos, pues el Señor mismo se reserva el derecho de juzgarlos. Pues así como la administración que se les encomienda, es decir, el santísimo Cuerpo y Sangre de nuestro Señor Jesucristo, que reciben y que solo ellos administran a los demás, es mayor que todas las demás, así también el pecado de quienes los ofenden es mayor que cualquier otro pecado contra los demás hombres de este mundo.
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ### 27\. De las virtudes que hacen huir a los vicios.
 
@@ -303,7 +303,7 @@ Bienaventurado el siervo que atesora en el cielo [^128] los bienes que el Señor
 
 [^112]: 13:4 Cod. O. e Is. dicen: «Si, por lo tanto, su cuerpo se envanece, no tiene el Espíritu de Dios. Si, en cambio, se vuelve más vil a sus propios ojos, entonces verdaderamente tiene el Espíritu de Dios».
 
-[^113]: 14:1 Cod. O. dice: “mientras disfrute de todo según su deseo y necesidad”.
+[^113]: 14:1 Cod. O. dice: «mientras disfrute de todo según su deseo y necesidad».
 
 [^114]: 14:2 Mateo 5: 3.
 
@@ -317,7 +317,7 @@ Bienaventurado el siervo que atesora en el cielo [^128] los bienes que el Señor
 
 [^119]: 15:3 Lucas 8: 18.
 
-[^120]: 16:1 Véase Bonav. _Leg. Maj._, VI, 1: “Y tenía estas palabras continuamente en su boca**: '**lo que un hombre es a los ojos de Dios, eso es, y nada más.'” Véase también _Imitación de Cristo_, Libro III, Cap. L, donde se cita el mismo dicho de San Francisco.
+[^120]: 16:1 Véase Bonav. _Leg. Maj._, VI, 1: «Y tenía estas palabras continuamente en su boca**: '**lo que un hombre es a los ojos de Dios, eso es, y nada más.'» Véase también _Imitación de Cristo_, Libro III, Cap. L, donde se cita el mismo dicho de San Francisco.
 
 [^121]: 16:2 Véase _Speculum Perfectionis_, ed. Sabatier, pág. 189.
 
@@ -327,7 +327,7 @@ Bienaventurado el siervo que atesora en el cielo [^128] los bienes que el Señor
 
 [^124]: 17:1 En el Cod. O. los números 23 y 24 no están divididos.
 
-[^125]: 17:2 Cod. An. dice: “Bienaventurado aquel superior . . .”
+[^125]: 17:2 Cod. An. dice: «Bienaventurado aquel superior . . .»
 
 [^126]: 17:3 Mateo 24: 45.
 

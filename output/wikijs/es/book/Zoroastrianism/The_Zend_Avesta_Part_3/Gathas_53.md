@@ -1,6 +1,6 @@
 ---
 title: "Yasna LIII"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -44,7 +44,7 @@ Los versos 1 y 2 forman una introducción admirable; sin embargo, la transición
 
 1\. Como el objetivo de la «gran causa», además de la preservación de sus seguidores, era la extensión de su influencia, primero sobre los partidos vacilantes (Y. XLIV, 12), y luego sobre todos los vivos (Y. XXXI, 3), no sorprende que la oración central de Zaratustra culminara en el deseo de convertir a los oponentes. Incluso se sabía que algunos turanios se habían convertido al santo credo y ayudado a prosperar los asentamientos que sus parientes habían saqueado con tanta frecuencia (Y. XLVI, 12); por lo tanto, había orado para que quienes hasta entonces habían perjudicado a la santa Daêna se convirtieran en sus discípulos mediante una conversión genuina. 2. Habiendo observado la fidelidad de los conversos y discípulos originales, el rey y sus principales nobles celebraban su devoción con himnos, ceremonias y sacrificios, como símbolos de toda virtud moral, estableciendo para el pueblo la ley moral del Salvador. 3. Como sería exagerado suponer que en el t<i>e</i>m<i>k</i>â se hace referencia al Saoshya<i>n</i>t, y como además, según la admirable sugerencia de Geldner, ese título bien podría referirse aquí a Zaratustra, es mejor aceptar una pérdida de versos y suponer que se alude a una persona como el novio, quien, si bien no era tan eminente como para merecer el imponente nombre de Saoshya<i>n</i>t, era al menos uno de sus satélites más prominentes, pues el antiguo poeta continúa dirigiéndose a una hija de Zaratustra como novia. Ella es la más joven, y su nombre es tan piadoso como el de una doncella del antiguo Israel, pues se la considera «llena de conocimiento religioso». Su esposo debe ser un apoyo en la santidad, y ella debe buscar consejo con piedad. 4. Su respuesta es apropiada; rivalizará con su esposo en todo afecto sagrado, así como en toda virtud doméstica. 5. El taliarca sacerdotal se dirige entonces a las damas de honor y a la pareja con las debidas advertencias a la piedad y el afecto. 6. Dirigiéndose ahora a la asamblea, posiblemente tras la recitación de algunas estrofas desaparecidas hace tiempo, procede con advertencias y palabras de aliento. Exorcizará al Demonio, que era especialmente esclavo de los Daêvas; pero advierte a todos los hombres y mujeres contra el malvado Vayu, el espíritu del aire. 7. Concluyendo caritativamente que saldrán vencedores de las pruebas que aún les aguardan, a continuación les advierte contra toda incitación al vicio. 8. Tras nombrar a los demonios profanos, su celo polémico se inflama por completo. Anticipando con feroz deleite el sufrimiento de los malvados, clama con vehemencia por el campeón, quien, en alianza con los potentados vecinos, puede entregar al falso líder asesino, dando paz a las masas; y ruega que se dé toda la prisa. 9. Para despertar a los grandes jefes a su deber, recuerda (como en Y.XXXII) los éxitos del enemigo; y pide al príncipe que pueda derrocarlo y expulsarlo, pero, como si supiera muy bien que el brazo humano por sí solo no podría traer la salvación, atribuye a Ahura el Poder Soberano, que es el único que puede proteger la inocencia indefensa contra el saqueo y la opresión sin ley.
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Traducción.
 
@@ -167,7 +167,7 @@ Traducción.
 
 [^869]: 193:8 Khrûnerãm<i>k</i>â debe ser una glosa.
 
-[^870]: 194:1 'Que los “derrote” o los “conmueva”.'
+[^870]: 194:1 'Que los «derrote» o los «conmueva».'
 
 [^871]: 194:2 Comp. mazi<i>s</i>ta = el más fuerte en Y. XLIX, 1, 'el que prevalece'. Lit. 'con el encadenamiento de la muerte el más grande'.
 

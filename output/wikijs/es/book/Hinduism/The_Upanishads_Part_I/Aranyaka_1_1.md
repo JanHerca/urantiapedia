@@ -32,15 +32,15 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>pág. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
-<span id="p155">[<sup><small>pág. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 AITAREYA-ÂRANYAKA.
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 PRIMER ÂRAN YAKA.
 
@@ -185,7 +185,7 @@ Este (Gâyatrî pra-uga), según el ceremonial de un día (ekâha) [^391], es pe
 
 Ahora bien, este día consta de veinticinco, y el himno Stoma de ese día consta de veinticinco: se convierte en el mismo a través del mismo. Por lo tanto, estos dos, el día y el himno, son veinticinco, sí, veinticinco.
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

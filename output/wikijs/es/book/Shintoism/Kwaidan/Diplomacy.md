@@ -42,7 +42,7 @@ Si alguien muere por un profundo resentimiento, su fantasma podrá vengarse del 
 
 Te permitiremos asustarnos todo lo que quieras, después de tu muerte. Pero me cuesta creer que hables en serio. ¿Intentarás darnos alguna muestra de tu profundo resentimiento, después de que te hayan decapitado?
 
-“Seguro que lo haré”, respondió el hombre.
+«Seguro que lo haré», respondió el hombre.
 
 —Muy bien —dijo el samurái, desenvainando su espada larga—. Ahora voy a cortarte la cabeza. Justo delante de ti hay un peldaño. Después de cortarte la cabeza, intenta morderlo. Si tu fantasma furioso puede ayudarte, algunos nos asustaremos... ¿Intentarás morderlo?
 
@@ -58,7 +58,7 @@ Durante los meses siguientes, los sirvientes y los criados vivieron con un temor
 
 El criado miró a su amo con aire suplicante, pero dudó en preguntarle el motivo de tan alarmante confianza.
 
-“Oh, la razón es bastante simple”, declaró el samurái, adivinando la duda tácita. “Solo la última intención del sujeto pudo haber sido peligrosa; y cuando lo reté a darme la señal, distraje su deseo de venganza. Murió con el propósito de morder el peldaño; y pudo lograr ese propósito, pero nada más. Todo lo demás debió haberlo olvidado... Así que no tienes por qué preocuparte más por el asunto”.
+«Oh, la razón es bastante simple», declaró el samurái, adivinando la duda tácita. «Solo la última intención del sujeto pudo haber sido peligrosa; y cuando lo reté a darme la señal, distraje su deseo de venganza. Murió con el propósito de morder el peldaño; y pudo lograr ese propósito, pero nada más. Todo lo demás debió haberlo olvidado... Así que no tienes por qué preocuparte más por el asunto».
 
 —Y efectivamente, el muerto ya no causó más problemas. No pasó nada en absoluto.
 

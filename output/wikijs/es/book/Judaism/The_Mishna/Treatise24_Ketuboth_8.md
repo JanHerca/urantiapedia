@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^886]: 261:1 Así como por el acto del compromiso, y también por el rito del matrimonio, el marido adquiere un derecho absoluto y exclusivo a poseer y disfrutar de la persona de la esposa, se sigue que por el mismo acto adquiere un derecho igual a su propiedad, que de hecho no es más que un apéndice de su persona.
 
-[^887]: 262:2 Vide Nota 1, [p. 260](Tratado14_Pesachim_2#p260).
+[^887]: 262:2 Vide Nota 1, [p. 260](../Tratado14_Pesachim_2#p260).
 
 [^888]: 262:3 Establece una regla de procedimiento diferente en diferentes casos.
 

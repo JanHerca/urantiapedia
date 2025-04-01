@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## I
 
@@ -78,7 +78,7 @@ Existen otras áreas de evidencia, como los análisis de sangre, que confirman n
 
 ## IV
 
-Si, ahora bien, es cierto, como muchos afirman, que esta aceptación de la evolución es fatal para la religión, entonces la situación es realmente grave. Pero ¿es cierto? ¿Qué tienen de temer los cristianos en la evolución? Para empezar, algunos, con profunda ansiedad, afirman que la evolución no es la <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Biblia. Por supuesto que no está en la Biblia. Tampoco lo son la radio, ni el avión, ni la astronomía copernicana, ni la gravitación newtoniana, ni la relatividad de Einstein. ¿Quién en su sano juicio recurre a la Biblia como libro de texto de la ciencia moderna? El gran poema sobre la creación con el que comienza la Biblia es una magnífica expresión de fe en un Dios supremo y en este universo como obra suya, pero no es ciencia moderna. Si uno insiste en la Biblia como guía infalible en la ciencia, debe remontarse mucho antes de que siquiera se soñara con nuestras visiones modernas del mundo. Debe creer que la tierra es plana y que debajo hay “fuentes del gran abismo”; que es estacionaria, “establecida de modo que no puede ser movida”; Que el cielo es un firmamento sólido, “fuerte como un espejo fundido”, y más allá “las aguas que están sobre los cielos”; que la lluvia proviene del mar supracelestial, que desciende por “las ventanas de los cielos”; y que el sol, la luna y las estrellas se mueven por el firmamento estacionario para iluminar al hombre. Es imposible identificar esta antigua perspectiva del universo, su tierra plana tan cómodamente arropada bajo el manto del cielo, con la ciencia moderna. <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> estamos causando un daño incalculable a la fe de nuestra generación al intentar usar la Biblia para fines que nunca se pretendió que cumpliera, como la sirvienta insensata que usó la flauta de su amo para golpear las alfombras. ¿Qué beneficio hay en intentar convertir en un hecho científico la creación de la luz en esta tierra tres días antes de que existiera el sol; o en intentar identificar siete días, cada uno con una tarde y una mañana, con eras geológicas? ¿Nunca lo habías soñado hasta hace unos años?
+Si, ahora bien, es cierto, como muchos afirman, que esta aceptación de la evolución es fatal para la religión, entonces la situación es realmente grave. Pero ¿es cierto? ¿Qué tienen de temer los cristianos en la evolución? Para empezar, algunos, con profunda ansiedad, afirman que la evolución no es la <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Biblia. Por supuesto que no está en la Biblia. Tampoco lo son la radio, ni el avión, ni la astronomía copernicana, ni la gravitación newtoniana, ni la relatividad de Einstein. ¿Quién en su sano juicio recurre a la Biblia como libro de texto de la ciencia moderna? El gran poema sobre la creación con el que comienza la Biblia es una magnífica expresión de fe en un Dios supremo y en este universo como obra suya, pero no es ciencia moderna. Si uno insiste en la Biblia como guía infalible en la ciencia, debe remontarse mucho antes de que siquiera se soñara con nuestras visiones modernas del mundo. Debe creer que la tierra es plana y que debajo hay «fuentes del gran abismo»; que es estacionaria, «establecida de modo que no puede ser movida»; Que el cielo es un firmamento sólido, «fuerte como un espejo fundido», y más allá «las aguas que están sobre los cielos»; que la lluvia proviene del mar supracelestial, que desciende por «las ventanas de los cielos»; y que el sol, la luna y las estrellas se mueven por el firmamento estacionario para iluminar al hombre. Es imposible identificar esta antigua perspectiva del universo, su tierra plana tan cómodamente arropada bajo el manto del cielo, con la ciencia moderna. <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> estamos causando un daño incalculable a la fe de nuestra generación al intentar usar la Biblia para fines que nunca se pretendió que cumpliera, como la sirvienta insensata que usó la flauta de su amo para golpear las alfombras. ¿Qué beneficio hay en intentar convertir en un hecho científico la creación de la luz en esta tierra tres días antes de que existiera el sol; o en intentar identificar siete días, cada uno con una tarde y una mañana, con eras geológicas? ¿Nunca lo habías soñado hasta hace unos años?
 
 Se aboga así, no para desacreditar el Libro, sino para salvarlo por su legítimo servicio a la vida de los hombres. La gloria distintiva de la Biblia nunca ha sido que enseñara ciencia. Lo asombroso es que la Biblia haya sobrevivido a ese empleo ruinoso de ella. La perdurable utilidad del Libro reside en su atractivo para las inmutables necesidades y experiencias espirituales de los hombres. «El Señor es mi pastor; nada me faltará»; eso no cambia con los cambios en las ciencias. «Dios estaba en Cristo reconciliando consigo al mundo»; eso no cambia con los cambios en las biologías. «Quítense de vosotros toda amargura, ira, enojo, gritería y maledicencia, y toda malicia; y sed benignos con <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> otros, misericordiosos de corazón, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo” —eso no cambia con los cambios de filosofías.
 
@@ -86,7 +86,7 @@ Por lo tanto, cuando alguien dice que la evolución no está en la Biblia, la re
 
 ## V
 
-Una dificultad mucho más seria con la evolución reside en quienes insisten en que la evolución desplaza a Dios. Esto suena extrañamente familiar. Se decía eso cuando llegó la nueva astronomía. La Iglesia promovió al Padre Caccini por predicar un sermón que, haciendo un juego de palabras con el nombre de Galileo, tenía como texto: «Hombres de Galileo, ¿por qué estáis mirando al cielo?». Y que, antes de terminar, había llamado a toda la geometría «del diablo» y había dicho que «los matemáticos deberían ser desterrados como autores de todas las herejías». También se desesperó de Dios cuando Newton anunció su ley de la gravitación. Dijeron que «tomó de Dios esa acción directa sobre sus obras que tan constantemente se le atribuye en las Escrituras y la transfirió al mecanismo material», y «sustituyó la Providencia por la gravitación». No debe sorprendernos, por tanto, oír a un clérigo decir que la evolución es “un intento de derrocar a Dios”.
+Una dificultad mucho más seria con la evolución reside en quienes insisten en que la evolución desplaza a Dios. Esto suena extrañamente familiar. Se decía eso cuando llegó la nueva astronomía. La Iglesia promovió al Padre Caccini por predicar un sermón que, haciendo un juego de palabras con el nombre de Galileo, tenía como texto: «Hombres de Galileo, ¿por qué estáis mirando al cielo?». Y que, antes de terminar, había llamado a toda la geometría «del diablo» y había dicho que «los matemáticos deberían ser desterrados como autores de todas las herejías». También se desesperó de Dios cuando Newton anunció su ley de la gravitación. Dijeron que «tomó de Dios esa acción directa sobre sus obras que tan constantemente se le atribuye en las Escrituras y la transfirió al mecanismo material», y «sustituyó la Providencia por la gravitación». No debe sorprendernos, por tanto, oír a un clérigo decir que la evolución es «un intento de derrocar a Dios».
 
 De hecho, Dios no es tan fácil de desechar como estos pusilánimes de poca fe parecen pensar.
 
@@ -98,7 +98,7 @@ En la ciudad de Nueva York, hay hogares donde mujeres y niños fabrican flores d
 
 Cuando yo, por mi parte, miro hacia atrás a la imagen que tenía en la infancia de la actividad creadora de Dios y ahora pienso en este universo extraño, terrible y aventurero en el que vivo, donde a partir de comienzos poco prometedores en los que el ojo humano, si hubiera estado allí, no habría visto ninguna potencia espiritual, ha llegado este desarrollo asombroso coronado en un carácter aspiracional y esperanzas de un reino de justicia en la tierra, no por causa de la ciencia solamente, sino por causa de la religión y la visión ampliada de Dios, no quisiera por nada del mundo volver atrás.
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 ## VI
 
@@ -106,7 +106,7 @@ Una dificultad aún mayor para muchos es el efecto de la evolución en su valora
 
 Si la evolución brutaliza así la concepción que el hombre tiene de su propia naturaleza, es un enemigo público. Ya tenemos un problema bastante difícil, ya que lidiar con la animalidad de la naturaleza humana. Cuando Tennyson escribió:
 
-<span id="p128">[<sup><small>pág. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 > Muévete hacia arriba, trabajando en la bestia,
 > Y que mueran el mono y el tigre,
@@ -127,7 +127,7 @@ Un violín en manos de un gran intérprete interpretando la Quinta Sinfonía es 
 
 ¿Qué diferencia hay para la religión si Dios, del polvo de la tierra, creó al hombre por decreto o lo creó mediante procesos graduales? Sea cual sea su origen, el hombre es lo que es, con su inteligencia, su vida moral, sus posibilidades espirituales y su capacidad de comunión con Dios.
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Para muchos, el problema central en este ámbito concierne al alma del hombre: su personalidad invisible, con inteligencia, propósito y buena voluntad centrados en una autoconciencia permanente. ¿En qué momento de la evolución, se preguntan, se introdujo esta individualidad en el hombre? ¿Cuándo surgió su alma? A lo cual bien se podría responder con otra pregunta: En la evolución de cada individuo, desde la concepción hasta la madurez, ¿dónde surgió su individualidad y dónde apareció su alma? El problema no es diferente para la raza que para el individuo. Cada uno de nosotros comenzó con una base física en la que el ojo humano no podía ver ninguna promesa de resultado espiritual, y finalmente emergimos no como un cuerpo, sino como un alma construida en un cuerpo como un templo en un andamio, creyendo en la perpetuidad de la estructura interna una vez derribada la estructura externa. Si esto es cierto para nosotros, uno por uno, ¿por qué no podría serlo para la raza?
 

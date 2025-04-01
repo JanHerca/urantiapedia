@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## INTRODUCCIÓN. CAPÍTULO I.
 
@@ -66,7 +66,7 @@ Este libro, llamado Orden de Semillas, contiene los siguientes tratados:
 
 11\. _Primicias_ (Éxodo xxiii. 19; Deuteronomio xxvi. 1) trata de qué frutos debían ofrecerse en el Templo y de qué manera; también de las cestas en que debían llevarse.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ### LIBRO II. DEL ORDEN DE LAS FIESTAS.
 

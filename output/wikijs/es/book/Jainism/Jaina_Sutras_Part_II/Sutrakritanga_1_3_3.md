@@ -36,7 +36,7 @@ CAPÍTULO TERCERO.
 
 Así como en el momento de la batalla el cobarde mira hacia atrás en busca de una zanja, un matorral o cualquier otro escondite [^774], (pensando que) nadie sabe quién ganará; (1)
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 «Un instante traerá la decisión [^775]; si perdemos, huiremos». Así piensa el cobarde. (2)
 
@@ -54,7 +54,7 @@ Algunos injurian a un monje que lleva una vida santa. Pero estos injuriadores es
 
 (Los injuriadores dicen): Vivís como los laicos, estando unidos los unos a los otros, pues (por ejemplo) pedís limosna para un enfermo y se la dais. (9)
 
-“Por lo tanto, todavía tenéis un apego, al ser obedientes a la voluntad de los demás; no tenéis la pureza producida por el camino correcto, y no habéis ido más allá del Círculo de Nacimientos”. (10)
+«Por lo tanto, todavía tenéis un apego, al ser obedientes a la voluntad de los demás; no tenéis la pureza producida por el camino correcto, y no habéis ido más allá del Círculo de Nacimientos». (10)
 
 Ahora bien, un monje que conoce (la verdad sobre) Môksha <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> debería responderles [^778]: 'Hablas así, vacilando entre dos formas de vida (a saber, la de los jefes de familia y la de los monjes). (11)
 
@@ -66,11 +66,11 @@ Deben ser instruidos en la verdad por alguien que la conoce y está libre de pas
 
 "Tus palabras son débiles, como la punta de un bambú. (Cuando dices: un hermano enfermo) puede comer la comida que trae un jefe de familia, pero no la que trae un monje. (15)
 
-“(Y cuando decís que) nuestros preceptos religiosos son saludables sólo para los jefes de familia (no para los monjes), respondemos que nuestro Profeta no tenía) tales (inconsistentes) ideas cuando enseñó (su Ley).” (16)
+«(Y cuando decís que) nuestros preceptos religiosos son saludables sólo para los jefes de familia (no para los monjes), respondemos que nuestro Profeta no tenía) tales (inconsistentes) ideas cuando enseñó (su Ley).» (16)
 
 Cuando (estos herejes) no pueden probar (su afirmación) con ningún argumento, abandonan la discusión y recurren a su audaz (afirmación). (17)
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Dominados por sus pasiones e infectados por la falsedad, (estos hombres) recurren al lenguaje grosero, como los (salvajes) <i>T</i>aṅkana [^783] (cuando son derrotados) recurren a sus colinas. (18)
 

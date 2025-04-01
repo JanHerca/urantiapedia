@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p256">[<sup><small>pág. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 
 DEVADATTA reflexionaba: «Siddhartha quiso humillarme restándole importancia a mi inteligencia. Le demostraré que se equivoca. Mi gloria eclipsará la suya: la lámpara de noche se convertirá en el sol. Pero el rey Vimbasara es su fiel amigo; lo protege. Mientras el rey viva, nada puedo hacer. El príncipe Ajatasatru, en cambio, me honra y me tiene en alta estima; deposita en mí una confianza ciega. Si él reinara, obtendría todo lo que deseo».
@@ -59,19 +59,19 @@ Los guardias continuaron vigilando de cerca y, al cabo de unos días, volvieron 
 
 —Hijo —dijo Vimbasara—, mis guardias dicen que últimamente te has comportado de forma extraña. Dicen que deambulas por el palacio, actuando de forma misteriosa, y que rehúyes la mirada de quienes te encuentras. Hijo, ¿no mienten?
 
-“No mienten, padre”, dijo Ajatasatru.
+«No mienten, padre», dijo Ajatasatru.
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 El remordimiento lo invadió de repente. Cayó a los pies del rey y, desde lo más profundo de su vergüenza, exclamó:
 
-“Padre, quería matarte.”
+«Padre, quería matarte.»
 
 Vimbasara se estremeció. Con voz angustiada, preguntó:
 
 ¿Por qué querías matarme?
 
-“Para reinar.”
+«Para reinar.»
 
 —¡Entonces reina! —gritó el rey—. La realeza no vale la enemistad de un hijo.
 
@@ -89,11 +89,11 @@ Mientras tanto, perseguía a los fieles seguidores del Buda. Se les prohibió cu
 
 En el palacio de Ajatasatru vivía una mujer llamada Srimati. Era muy devota. Le apenaba no poder realizar obras de santidad, y se preguntaba cómo, en esos tiempos tan tristes, podría demostrarle al Maestro que había mantenido su fe. Al pasar frente al templo, se quejó amargamente al verlo tan desierto, y al notar lo sucio que estaba, lloró.
 
-“El Maestro sabrá que todavía hay una mujer en esta casa que lo honraría”, pensó Srimati, y arriesgando su vida, barrió el templo y lo decoró con una guirnalda brillante.
+«El Maestro sabrá que todavía hay una mujer en esta casa que lo honraría», pensó Srimati, y arriesgando su vida, barrió el templo y lo decoró con una guirnalda brillante.
 
 Ajatasatru vio la guirnalda. Se indignó profundamente y quiso saber quién se había atrevido a desobedecerlo. Srimati no intentó esconderse; por voluntad propia, se presentó ante el rey.
 
-“¿Por qué desafiaste mis órdenes?” preguntó Ajatasatru.
+«¿Por qué desafiaste mis órdenes?» preguntó Ajatasatru.
 
 —Si desafié tus órdenes —respondió ella—, respeté las de tu padre, el rey Vimbasara.
 

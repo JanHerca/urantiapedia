@@ -50,7 +50,7 @@ Ar<i>g</i>una dijo:
 
 La Deidad dijo:
 
-¡Oh, hijo de P<i>ri</i>thâ! Ni en este mundo ni en el siguiente hay ruina para él; pues, ¡oh, querido amigo!, nadie que realiza buenas obras tiene un mal fin. Quien ha caído de la devoción alcanza los mundos de quienes realizan actos meritorios, reside allí durante muchos años y después nace en una familia de hombres santos e ilustres [^266]. O incluso nace en una familia de devotos talentosos; pues un nacimiento como ese en este mundo es más difícil de obtener. Allí entra en contacto con el conocimiento que le pertenecía en su cuerpo anterior, y luego, ¡oh, descendiente de Kuru!, trabaja por la perfección [^267]. Pues aunque reticente [^268], es desviado por la <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> la misma práctica anterior, y aunque solo desea aprender devoción, se eleva por encima de los frutos de la acción establecidos en la palabra divina. Pero el devoto que trabaja con gran esfuerzo [1](Bhagavadgita_7#fn269), y libre de sus pecados, alcanza la perfección después de muchos nacimientos, y luego alcanza la meta suprema. El devoto es estimado superior a quienes realizan penitencias, superior incluso a los hombres de conocimiento, y el devoto es superior a los hombres de acción; por lo tanto, ¡oh Ar<i>g</i>una!, conviértete en devoto. E incluso entre todos los devotos, aquel que, lleno de fe, me adora, con su más profunda intención en mí, es considerado por mí como el más devoto.
+¡Oh, hijo de P<i>ri</i>thâ! Ni en este mundo ni en el siguiente hay ruina para él; pues, ¡oh, querido amigo!, nadie que realiza buenas obras tiene un mal fin. Quien ha caído de la devoción alcanza los mundos de quienes realizan actos meritorios, reside allí durante muchos años y después nace en una familia de hombres santos e ilustres [^266]. O incluso nace en una familia de devotos talentosos; pues un nacimiento como ese en este mundo es más difícil de obtener. Allí entra en contacto con el conocimiento que le pertenecía en su cuerpo anterior, y luego, ¡oh, descendiente de Kuru!, trabaja por la perfección [^267]. Pues aunque reticente [^268], es desviado por la <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> la misma práctica anterior, y aunque solo desea aprender devoción, se eleva por encima de los frutos de la acción establecidos en la palabra divina. Pero el devoto que trabaja con gran esfuerzo [1](../Bhagavadgita_7#fn269), y libre de sus pecados, alcanza la perfección después de muchos nacimientos, y luego alcanza la meta suprema. El devoto es estimado superior a quienes realizan penitencias, superior incluso a los hombres de conocimiento, y el devoto es superior a los hombres de acción; por lo tanto, ¡oh Ar<i>g</i>una!, conviértete en devoto. E incluso entre todos los devotos, aquel que, lleno de fe, me adora, con su más profunda intención en mí, es considerado por mí como el más devoto.
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,13 +78,13 @@ La Deidad dijo:
 
 ## Notas al pie
 
-[^233]: 67:1 Cfr. infra, [p. 18](Bhagavadgita_Introducción#p18).
+[^233]: 67:1 Cfr. infra, [p. 18](../Bhagavadgita_Introducción#p18).
 
 [^234]: 67:2 pág. 57 y Kathopanishad, pág. 157.
 
 [^235]: 67:3 Que son necesarios para los ritos religiosos ordinarios.
 
-[^236]: 67:4 Que son la causa de los deseos; ver supra, [p. 50](Bhagavadgita_2#p50).
+[^236]: 67:4 Que son la causa de los deseos; ver supra, [p. 50](../Bhagavadgita_2#p50).
 
 [^237]: 67:5 Abandonar las acciones que distraen; significa alcanzar el conocimiento perfecto, dice <i>S</i>rîdhara.
 
@@ -94,7 +94,7 @@ La Deidad dijo:
 
 [^240]: 68:2 Esto significa restringir los sentidos mediante la mente. Véase Maitrî-upanishad, pág. 180.
 
-[^241]: 68:3 supra, [p. 57](Bhagavadgita_3#p57).
+[^241]: 68:3 supra, [p. 57](../Bhagavadgita_3#p57).
 
 [^242]: 68:4 Por cualquiera de las aflicciones del mundo.
 
@@ -118,7 +118,7 @@ La Deidad dijo:
 
 [^252]: 70:1 Cfr. Sutta Nipata, pág. 62.
 
-[^253]: 70:2 Cfr. supra, [pág. 53](Bhagavadgita_3#p53).
+[^253]: 70:2 Cfr. supra, [pág. 53](../Bhagavadgita_3#p53).
 
 [^254]: 70:3 Es decir, dejar de pensar en los objetos de los sentidos. Cf. supra, [p. 69](#p69).
 
@@ -134,7 +134,7 @@ La Deidad dijo:
 
 [^260]: 71:3 Cf. Issopanishad, pág. 13.
 
-[^261]: 71:4 'Incluso abandonando toda acción', dice <i>S</i>rîdhara; y cf. infra, [p. 105](Bhagavadgita_13#p105).
+[^261]: 71:4 'Incluso abandonando toda acción', dice <i>S</i>rîdhara; y cf. infra, [p. 105](../Bhagavadgita_13#p105).
 
 [^262]: 71:5 Quien cree que el placer y el dolor son tan queridos o desagradados por los demás como por él mismo, y se pone de hecho en el lugar de los demás.
 
@@ -150,4 +150,4 @@ La Deidad dijo:
 
 [^268]: 72:4 Es decir, la emancipación final.
 
-[^269]: 72:5 'Así como el mismo Ar<i>g</i>una', dice Madhusûdana, 'recibe instrucción en el conocimiento, aunque llega al campo de batalla sin tal objeto; por eso se dijo antes, “nada es aquí abortivo”'. Véase [p. 47](Bhagavadgita_2#p47).
+[^269]: 72:5 'Así como el mismo Ar<i>g</i>una', dice Madhusûdana, 'recibe instrucción en el conocimiento, aunque llega al campo de batalla sin tal objeto; por eso se dijo antes, «nada es aquí abortivo»'. Véase [p. 47](../Bhagavadgita_2#p47).

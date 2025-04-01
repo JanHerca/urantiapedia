@@ -44,7 +44,7 @@ Después de que un hombre ha realizado actos que causan la muerte de seres vivos
 
 «Mi madre, mi padre, mi nuera, mi hermano, mi mujer y mis hijos no podrán ayudarme cuando sufra por mis propias acciones [^889]». (5)
 
-<span id="p302">[<sup><small>pág. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Tomando en serio esta verdad de la que fluyen las verdades más importantes, un monje, sin propiedad y sin egoísmo, debe seguir la enseñanza de las <i>Ginas</i>. (6)
 
@@ -60,7 +60,7 @@ Engaño [^891], avaricia [^892], ira [^893] y orgullo [^894]: combatid estas cau
 
 Lavarse, teñirse, orinar, evacuar los intestinos, vomitar, ungir los ojos y todo lo que sea contrario a las reglas de conducta [^895]: de todo esto debe abstenerse un hombre sabio. (12)
 
-<span id="p303">[<sup><small>pág. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Perfumes, coronas, baños, limpieza de dientes, propiedades, acciones relacionadas con las mujeres: de todo esto debe abstenerse un hombre sabio. (13)
 
@@ -90,7 +90,7 @@ Al hablar, el monje debe emplear la menor cantidad de palabras posible; no debe 
 
 Uno se arrepentirá de haber usado el tercer tipo de lenguaje [^900]; no se debe revelar un secreto. Este es el mandamiento del Nirgrantha. (26)
 
-<span id="p305">[<sup><small>pág. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 (Un monje) no debe llamar a nadie por sus nombres [^901], ni 'amigo', ni por su Gôtra; 'tú, tú' es vulgar; ¡nunca te dirijas a alguien por 'tú'! (27)
 
@@ -108,7 +108,7 @@ Debe obedecer y servir a un maestro sabio y piadoso, (a aquellos maestros) que s
 
 Estos hombres, que no ven la luz (por así decirlo) en la vida doméstica, son los amados del pueblo; estos héroes, libres de esclavitud, no desean la vida. (34)
 
-<span id="p306">[<sup><small>pág. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 No anhelan los placeres sensuales ni se dedican a las obras. Todo lo que dicen los herejes se opone a la fe verdadera. (35)
 
@@ -152,7 +152,7 @@ Así lo digo.
 
 [^895]: 301:4 Vêra = vaira.
 
-[^896]: 301:5 Este verso se repite en Uttarâdhyayana VI, 3; arriba, [pág. 25](Uttaradhyayana_6#p25).
+[^896]: 301:5 Este verso se repite en Uttarâdhyayana VI, 3; arriba, [pág. 25](../Uttaradhyayana_6#p25).
 
 [^897]: 302:1 Pôya<i>g</i>arâû = pôta<i>g</i>arâyu, es decir, nacido vivo (como los elefantes, etc.) y nacido junto con el corion (como las vacas, etc.)
 
@@ -162,7 +162,7 @@ Así lo digo.
 
 [^900]: 302:4 Tha<i>n</i><i>d</i>illa, es decir, krôdha.
 
-[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, es decir, mâna. Estas cuatro pasiones se nombran aquí por la forma en que supuestamente actúan sobre el alma. Nombres similares aparecieron anteriormente, [p. 248](Sutrakritanga_1_1_4#p248), notas [3](Sutrakritanga_1_1_4#fn723)\-[6](Sutrakritanga_1_1_4#fn726).
+[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, es decir, mâna. Estas cuatro pasiones se nombran aquí por la forma en que supuestamente actúan sobre el alma. Nombres similares aparecieron anteriormente, [p. 248](../Sutrakritanga_1_1_4#p248), notas [3](../Sutrakritanga_1_1_4#fn723)\-[6](../Sutrakritanga_1_1_4#fn726).
 
 [^902]: 302:6 Palimantha.
 

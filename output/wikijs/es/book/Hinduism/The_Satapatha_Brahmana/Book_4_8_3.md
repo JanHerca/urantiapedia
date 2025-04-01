@@ -69,7 +69,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v8_3_2"><sup><small>8:3:2</small></sup></span>
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## SEGUNDO BRAHMANA.
 
@@ -189,25 +189,25 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^98]: 41:4 Para la conexión de estas deidades con la tercera capa y el aire, véase también VI, 2, 3, 3. Vi<i>s</i>vakarman es asimismo la deidad por la cual se establece el ladrillo Vi<i>s</i>va<i>g</i>yotis, que representa a Vâyu (el viento), el regente del mundo del aire; véase [VIII, 3, 2, 3](Book_4_8_3#v8_3_2_3).
+[^98]: 41:4 Para la conexión de estas deidades con la tercera capa y el aire, véase también VI, 2, 3, 3. Vi<i>s</i>vakarman es asimismo la deidad por la cual se establece el ladrillo Vi<i>s</i>va<i>g</i>yotis, que representa a Vâyu (el viento), el regente del mundo del aire; véase [VIII, 3, 2, 3](../Book_4_8_3#v8_3_2_3).
 
 [^99]: 42:1 Véase parte iii, pág. 155, nota 8.
 
-[^100]: 43:1 Es decir, por la fórmula final: “¡Con la ayuda de esa deidad, semejante a Angiras, permanece firme!”, véase parte iii, pág. 302, nota 3.
+[^100]: 43:1 Es decir, por la fórmula final: «¡Con la ayuda de esa deidad, semejante a Angiras, permanece firme!», véase parte iii, pág. 302, nota 3.
 
 [^101]: 43:2 Viz. Vâ<i>g</i>. S. XII, 55 (<i>Ri</i>g-veda S. VIII, 69, 3), «Al nacer, los ordeñadores, moteados y parecidos a pozos, mezclan el Soma, los clanes de los dioses en las tres esferas de los cielos». Véase parte iii, pág. 307, nota 2.
 
-[^102]: 43:3 [VIII, 7, 4, 1](Book_4_8_7#v8_7_4_1) seq.
+[^102]: 43:3 [VIII, 7, 4, 1](../Book_4_8_7#v8_7_4_1) seq.
 
-[^103]: 43:4 Los cinco Di<i>s</i>yâs se colocan sobre las espinas en las cuatro direcciones, en la cordillera reta<i>h</i>si<i>k</i>, justo encima de donde se colocaron los cinco ladrillos Vai<i>s</i>vadevî en la segunda capa (véase el boceto, [p. 24](Book_4_8_2#p24)). Entre ellos y el ladrillo central (perforado naturalmente) hay, por lo tanto, un espacio vacío de un pie cuadrado, y los dos Di<i>s</i>yâs del sur son medios ladrillos dispuestos uno al norte y otro al sur.
+[^103]: 43:4 Los cinco Di<i>s</i>yâs se colocan sobre las espinas en las cuatro direcciones, en la cordillera reta<i>h</i>si<i>k</i>, justo encima de donde se colocaron los cinco ladrillos Vai<i>s</i>vadevî en la segunda capa (véase el boceto, [p. 24](../Book_4_8_2#p24)). Entre ellos y el ladrillo central (perforado naturalmente) hay, por lo tanto, un espacio vacío de un pie cuadrado, y los dos Di<i>s</i>yâs del sur son medios ladrillos dispuestos uno al norte y otro al sur.
 
 [^104]: 44:1 Véase VI, 2, 3, 4. El segundo ladrillo perforado naturalmente representa el mundo del aire con el que Vâyu, el viento, está más estrechamente asociado.
 
 [^105]: 44:2 Es decir, los colocó en el sitio del altar, antes de comenzar la primera capa, a saber, el manojo de darbha en el centro del 'cuerpo' del altar, donde las dos espinas (anûka) se intersecan entre sí (VII, 2, 3, 1 seqq.); y los ladrillos de tierra (logesh<i>t</i>akâ) en los cuatro extremos de las dos espinas (VII, 3, 1, 23 seqq.), es decir, en el medio de cada uno de los cuatro lados del cuadrado del que consta el 'cuerpo'.
 
-[^106]: 44:3 La interpretación simbólica aquí parece algo confusa, ya que se acaba de afirmar que los Di<i>s</i>yâs, que ahora aparentemente se identifican con el sol, representan las regiones. En VI, 7, 1, 17, el sol se representaba como el punto central del universo, al que estos tres mundos están vinculados mediante los cuartos (como por las cuerdas de una balanza). Los terrones, por otro lado, sí se identificaban, en VII, 3, I, 13, con las regiones (cuartos); y el manojo de hierba, tendido en el centro, podría considerarse como la quinta región, la que se extiende hacia arriba desde aquí. Cf. [IX, 5, 1, 36](Book_4_9_5#v9_5_1_36).
+[^106]: 44:3 La interpretación simbólica aquí parece algo confusa, ya que se acaba de afirmar que los Di<i>s</i>yâs, que ahora aparentemente se identifican con el sol, representan las regiones. En VI, 7, 1, 17, el sol se representaba como el punto central del universo, al que estos tres mundos están vinculados mediante los cuartos (como por las cuerdas de una balanza). Los terrones, por otro lado, sí se identificaban, en VII, 3, I, 13, con las regiones (cuartos); y el manojo de hierba, tendido en el centro, podría considerarse como la quinta región, la que se extiende hacia arriba desde aquí. Cf. [IX, 5, 1, 36](../Book_4_9_5#v9_5_1_36).
 
-[^107]: 44:4 La hoja de loto se coloca en el centro del altar cuando se va a colocar la primera capa. Véase [VII, 4, 1, 7](Book_4_8_4#v8_4_1_7) ss., donde en la pág. 45 se explica que representa el fundamento del altar de fuego, o mejor dicho, el útero del que nace Agni.
+[^107]: 44:4 La hoja de loto se coloca en el centro del altar cuando se va a colocar la primera capa. Véase [VII, 4, 1, 7](../Book_4_8_4#v8_4_1_7) ss., donde en la pág. 45 se explica que representa el fundamento del altar de fuego, o mejor dicho, el útero del que nace Agni.
 
 [^108]: 45:1 Es decir, no está separado de él por otros ladrillos especiales; aunque se deja el espacio completo de un ladrillo entre el Di<i>s</i>yâs y el ladrillo central. Sin embargo, quizá «anantarhita» aquí signifique «inmediatamente después».
 
@@ -215,7 +215,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^110]: 45:3 Uttara parece tener aquí y en otros lugares un doble significado, a saber, el de posterior, y superior o izquierdo, ya que mirando hacia estos ladrillos desde el centro del altar, están colocados a la izquierda de la sección particular de los anûkas.
 
-[^111]: 45:4 Véase [p. 26](Book_4_8_2#p26), nota [3](Book_4_8_2#fn81).
+[^111]: 45:4 Véase [p. 26](../Book_4_8_2#p26), nota [3](../Book_4_8_2#fn81).
 
 [^112]: 45:5 Los metros se representan comúnmente como ganado.
 
@@ -225,14 +225,14 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^115]: 47:2 Aunque, propiamente hablando, el Vi<i>s</i>va<i>g</i>yotis se encuentra cerca de solo uno de los Di<i>s</i>yâs, a saber, el oriental, puede decirse, en cualquier caso, que se encuentra cerca de su distribución. Aquí también, el sentido «inmediatamente después, sin separación temporal de ellos» sería aún más adecuado.
 
-[^116]: 47:3 Véase [VIII, 3, 1, 4](Book_4_8_3#v8_3_1_4) con nota.
+[^116]: 47:3 Véase [VIII, 3, 1, 4](../Book_4_8_3#v8_3_1_4) con nota.
 
 [^117]: 48:1
   ![LA PARTE CENTRAL DE LA TERCERA CAPA.](/image/book/Hinduism/The_Satapatha_Brahmana/04800.jpg)
 
 Estos dos <i>Ri</i>tavyâs</i> están situados junto a (al este) los Vi<i>s</i>va<i>g</i>yotis, uno al norte del otro, justo encima de los de la primera y la segunda capa, es decir, en el quinto espacio desde el centro. En este caso, sin embargo, estos ladrillos tienen solo la mitad del grosor habitual; otros dos, de tamaño similar, se colocan sobre ellos.
 
-[^118]: 49:1 Como en el caso de la tortuga viva, en la primera capa; ver VII, 5, 1, 11 con nota—'Blyxa octandra, una planta herbácea que crece en tierras pantanosas (“flor de loto”, Weber, Ind. Stud. XIII, pág. 250).'
+[^118]: 49:1 Como en el caso de la tortuga viva, en la primera capa; ver VII, 5, 1, 11 con nota—'Blyxa octandra, una planta herbácea que crece en tierras pantanosas («flor de loto», Weber, Ind. Stud. XIII, pág. 250).'
 
 [^119]: 50:1 Es decir, los tres juegos de ladrillos no están separados por ningún otro del Svayamât<i>ri</i><i>n</i><i>n</i>â.
 
@@ -250,10 +250,10 @@ Estos dos <i>Ri</i>tavyâs</i> están situados junto a (al este) los Vi<i>s</i>v
 
 [^126]: 57:2 Las fórmulas utilizadas con estos ladrillos, Vâ<i>g</i>. S. XIV, 11-16, constituyen el primer anuvâka de los textos relativos a la tercera capa (XIV, II-22).
 
-[^127]: 57:3 Es decir, diez Prâ<i>n</i>abh<i>ri</i>ts, véase [VIII, 3, 2, 14](Book_4_8_3#v8_3_2_14).
+[^127]: 57:3 Es decir, diez Prâ<i>n</i>abh<i>ri</i>ts, véase [VIII, 3, 2, 14](../Book_4_8_3#v8_3_2_14).
 
-[^128]: 58:1 Mientras que, al colocar los Lokampri de la primera y segunda capa, comenzó desde las esquinas sureste y suroeste respectivamente, en la tercera capa comienza desde la cenefa izquierda (o esquina noroeste) del altar, llenando los espacios disponibles en dos vueltas, en el sentido del sol. Cf. [p. 22](Book_4_8_1#p22), nota [1](Book_4_8_2#fn73); y [p. 41](Book_4_8_2#p41), nota [1](Book_4_8_2#fn94).
+[^128]: 58:1 Mientras que, al colocar los Lokampri de la primera y segunda capa, comenzó desde las esquinas sureste y suroeste respectivamente, en la tercera capa comienza desde la cenefa izquierda (o esquina noroeste) del altar, llenando los espacios disponibles en dos vueltas, en el sentido del sol. Cf. [p. 22](../Book_4_8_1#p22), nota [1](../Book_4_8_2#fn73); y [p. 41](../Book_4_8_2#p41), nota [1](../Book_4_8_2#fn94).
 
-[^129]: 58:2 Véase [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^129]: 58:2 Véase [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^130]: 58:3 Véase [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^130]: 58:3 Véase [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

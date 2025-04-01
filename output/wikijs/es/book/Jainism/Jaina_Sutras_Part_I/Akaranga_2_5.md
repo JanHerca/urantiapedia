@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p157">[<sup><small>pág. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 QUINTA LECCIÓN, LLAMADA LA MENDIGACIÓN DE ROPAS [^422].
 
@@ -58,7 +58,7 @@ Esta es la primera regla. (6)
 
 Ahora sigue la segunda regla:
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Un monje o una monja pueden pedir ropa que hayan inspeccionado cuidadosamente al dueño de la casa, a su esposa, etc. Tras considerarlo, deben decir: "¡Oh, longevo! (o, ¡oh, hermana!), por favor, dame una de estas ropas". Si la piden, o el dueño de la casa se la da, pueden aceptarla; pues es pura y aceptable.
 
@@ -98,13 +98,13 @@ El mendigo debe devolver la misma respuesta que más arriba (en el §11) y no ac
 
 El jefe de familia puede decir (a otro de sus <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>): «¡Oh, longevo! (o, ¡oh, hermana!) trae esa tela, vacía los bulbos, etc. (véase II, 2, 1, § 5); se la daremos al <i>S</i>rama<i>n</i>a». Al oír y percibir tales palabras, el mendicante debe decir, tras reflexionar: «¡Oh, longevo! (o, ¡oh, hermana!) no vacíes esa tela de los bulbos, etc.; no me corresponde aceptar esas ropas». Tras estas palabras, el jefe de familia puede, no obstante, llevarse los bulbos, etc., y ofrecerle la tela; pero no debe aceptarla, pues es impura e inaceptable. (13)
 
-Si un padre de familia trae una túnica y se la da a un mendigo, debe, después de considerarlo, decir: “¡Oh, tú, la de larga vida! (o, ¡oh, hermana!) En tu presencia inspeccionaré atentamente el interior de la túnica”.
+Si un padre de familia trae una túnica y se la da a un mendigo, debe, después de considerarlo, decir: «¡Oh, tú, la de larga vida! (o, ¡oh, hermana!) En tu presencia inspeccionaré atentamente el interior de la túnica».
 
 El Kevalin dice: Esta es la razón: Podría haber escondido en la túnica un pendiente, un cinturón, oro y plata, etc. (véase II, 2, 1, § 11), seres vivos, semillas o hierba. Por lo tanto, se le ha dicho al mendigo, etc., que inspeccione cuidadosamente el interior de la túnica. (14)
 
 Un monje o una monja no deben aceptar ropa llena de huevos o seres vivos, etc., pues son impuras. Un monje o una monja no deben aceptar ropa que no contenga huevos o seres vivos, etc., pero que no sea adecuada, resistente, duradera ni apta para ser usada [^428]\ —que, aunque agradables, no son aptas (para un mendicante); pues son impuras e inaceptables. (15)
 
-<span id="p162">[<sup><small>pág. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Un monje o una monja pueden aceptar ropas que sean apropiadas, fuertes, duraderas, para ser usadas, agradables y adecuadas para un mendicante; porque son puras y aceptables. (16)
 
@@ -122,7 +122,7 @@ Un monje o una monja que quiera airear o secar (al sol) su ropa, no debe colocar
 
 Un monje o una monja que quiera airear o secar (al sol) su ropa, no debe hacerlo en un pilar, una plataforma elevada, un andamio, un segundo piso, un techo plano o cualquier lugar similar sobre el suelo, etc. (22)
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Sabiendo esto, debe recurrir a un lugar apartado y secar allí cuidadosamente su ropa sobre un montón de cenizas o huesos, etc. (ver II, 1, 1, § 1), que ha inspeccionado y limpiado repetidamente.
 

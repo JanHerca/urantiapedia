@@ -70,7 +70,7 @@ El quinto arrepentimiento de Sofía.
 
 “13. Pero yo te he cantado alabanzas, oh Luz, y mi arrepentimiento te alcanzará **(69)** en la altura.
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 “14. Que tu luz venga sobre mí,
 
@@ -82,7 +82,7 @@ El quinto arrepentimiento de Sofía.
 
 18. Y por tu mandamiento no has permitido que mis semejantes me ayudaran, ni has permitido que mi par me salvara de mis aflicciones.
 
-“Éste es entonces el quinto arrepentimiento que Pistis Sophia pronunció en el caos, cuando todas las emanaciones materiales de Obstinado habían continuado y la habían oprimido”.
+«Éste es entonces el quinto arrepentimiento que Pistis Sophia pronunció en el caos, cuando todas las emanaciones materiales de Obstinado habían continuado y la habían oprimido».
 
 ## CAPÍTULO 42
 
@@ -118,7 +118,7 @@ Felipe respondió y dijo a Jesús: «Señor mío, escucha que te diré la soluci
 
 2. Llegue mi llanto delante de ti; inclina tu oído a mi súplica, oh Señor.
 
-<span id="p60">[<sup><small>pág. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 3. Porque mi alma está llena de maldad, mi vida se ha acercado al mundo de abajo.
 
@@ -148,13 +148,13 @@ Felipe respondió y dijo a Jesús: «Señor mío, escucha que te diré la soluci
 
 16. Tus iras han venido sobre mí, y tus terrores me han hecho engañar.
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 17. Me han rodeado como agua; se han apoderado de mí todo el día.
 
-“18. Has alejado de mí a mis semejantes y de mi miseria a mis conocidos”.
+«18. Has alejado de mí a mis semejantes y de mi miseria a mis conocidos».
 
-“Ésta es entonces la solución del misterio del quinto arrepentimiento que Pistis Sophia pronunció cuando estaba oprimida en el caos”.
+«Ésta es entonces la solución del misterio del quinto arrepentimiento que Pistis Sophia pronunció cuando estaba oprimida en el caos».
 
 ## CAPÍTULO 44
 
@@ -178,7 +178,7 @@ El sexto arrepentimiento de Sofía.
 
 5. Y mi poder ha tenido fe en tu misterio; y además, mi poder ha confiado en la Luz cuando estaba entre los de las alturas; y ha confiado en ella cuando estaba en el caos de abajo.
 
-<span id="p62">[<sup><small>pág. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 6. Que todos mis poderes confíen en la Luz cuando esté en la oscuridad de abajo, y que vuelvan a confiar en la Luz cuando lleguen a la región de las alturas.
 
@@ -186,12 +186,12 @@ El sexto arrepentimiento de Sofía.
 
 8. Y salvará a todos los poderes del caos a causa de mi transgresión. Pues he abandonado mi región y he descendido al caos.
 
-“Ahora, pues, aquel cuya mente está exaltada, que entienda.”
+«Ahora, pues, aquel cuya mente está exaltada, que entienda.»
 
 
 ## CAPÍTULO 45
 
-Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: “¿Entendéis cómo hablo con vosotros?”
+Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: «¿Entendéis cómo hablo con vosotros?»
 
 Andrés se adelantó y dijo: «Mi Señor, respecto a la solución del sexto arrepentimiento de Pistis Sophia, tu poder de luz profetizó anteriormente a través de David en el Salmo ciento veintinueve, diciendo: **(75)**
 
@@ -211,7 +211,7 @@ Andrés se adelantó y dijo: «Mi Señor, respecto a la solución del sexto arre
 
 7. Porque la gracia está junto al Señor, y con él hay una gran redención.
 
-<span id="p63">[<sup><small>pág. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 8. Y él librará a Israel de todas sus iniquidades.
 
@@ -221,11 +221,11 @@ Jesús le dijo: «Bien dicho, Andrés, bendito. Esta es la solución de su arrep
 
 <small>María interpreta las palabras de Jesús.</small>
 
-Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: “¿Entendéis cómo os hablo?”
+Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus discípulos, les dijo: «¿Entendéis cómo os hablo?»
 
 María dijo: «Sí, Señor, he comprendido lo que has dicho. Respecto a lo que has dicho: «Al disolverse toda la Mezcla, te sentarás en un poder de luz y tus discípulos, es decir, nosotros mismos, nos sentaremos a tu derecha, y juzgarás a los dioses tiranos que no han renunciado a la purificación de su luz, y el fuego sabio los morderá hasta que pierdan la última luz que hay en ellos». Sobre esta palabra, tu poder de luz profetizó anteriormente a través de David, en el Salmo ochenta y uno, diciendo:
 
-“'Dios se sentará en la asamblea (sinagoga) **(77)** de los dioses y probará a los dioses.'”
+«'Dios se sentará en la asamblea (sinagoga) **(77)** de los dioses y probará a los dioses.'»
 
 Jesús le dijo: «Bien dicho, María».
 
@@ -281,7 +281,7 @@ El séptimo arrepentimiento de Sofía.
 
 “22. Ahora, pues, ¡oh Luz!, salva mis poderes de las emanaciones de Obstinado, por quien me siento oprimido.
 
-“Ahora pues, el que es sobrio, que sea sobrio.”
+«Ahora pues, el que es sobrio, que sea sobrio.»
 
 Cuando Jesús hubo dicho esto a sus discípulos, Tomás se adelantó y dijo: «Señor mío, estoy sobrio, estoy plenamente sobrio, y mi espíritu está dispuesto en mí, y me regocijo enormemente de que nos hayas revelado estas palabras. Pero, en verdad, he sido paciente con mis hermanos hasta ahora, para no enojarlos; más bien, he sido paciente con cada uno para que viniera ante ti y anunciara **(80)** la solución del arrepentimiento de Pistis Sophia. Ahora, pues, mi Señor, respecto a la solución del séptimo arrepentimiento de Pistis Sophia, tu poder de luz ha profetizado a través del profeta David en el Salmo veinticuatro, así:
 
@@ -307,7 +307,7 @@ Cuando Jesús hubo dicho esto a sus discípulos, Tomás se adelantó y dijo: «S
 
 10. Todos los caminos del Señor son gracia y verdad para los que buscan su justicia y sus testimonios.
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 11. Por amor de tu nombre, oh Señor, perdona mi pecado, porque es sumamente grande.
 
@@ -445,9 +445,9 @@ Y dicho esto, dijo: ¿Entendéis lo que digo?
 
 <small>María interpreta las palabras de Jesús.</small>
 
-María se adelantó y dijo: «Oh, Señor, respecto a este asunto nos dijiste anteriormente en una analogía: “Habéis esperado conmigo en las pruebas, y os legaré un reino, como mi Padre me lo ha legado a mí, para que comáis y bebáis a mi mesa en mi reino; y os sentaréis en doce tronos y juzgaréis a las doce tribus de Israel”».
+María se adelantó y dijo: «Oh, Señor, respecto a este asunto nos dijiste anteriormente en una analogía: «Habéis esperado conmigo en las pruebas, y os legaré un reino, como mi Padre me lo ha legado a mí, para que comáis y bebáis a mi mesa en mi reino; y os sentaréis en doce tronos y juzgaréis a las doce tribus de Israel»».
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Él le dijo: «Bien dicho, María».
 

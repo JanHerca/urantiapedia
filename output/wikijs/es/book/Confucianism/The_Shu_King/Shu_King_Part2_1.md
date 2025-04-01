@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## PARTE II. LOS LIBROS DE YÜ. LIBRO I. EL CANON DE SHUN.
 
@@ -126,7 +126,7 @@ Cada tres años se realizaba un examen de méritos, y después de tres exámenes
 
 [^38]: 39:3 Los príncipes de los diversos estados, cuyo jefe oficial era el Presidente de las Cuatro Montañas, todos 'pastores de hombres'.
 
-[^39]: 39:4 Thâi-ȝung es el monte Thâi en Shan-tung. Véase la nota sobre el Presidente de las Cuatro Montañas, [p. 35](Shu_King_Part1_1#p35).
+[^39]: 39:4 Thâi-ȝung es el monte Thâi en Shan-tung. Véase la nota sobre el Presidente de las Cuatro Montañas, [p. 35](../Shu_King_Part1_1#p35).
 
 [^41]: 40:1 Véase nota sobre el Presidente de las Cuatro Montañas, pág. 35.
 

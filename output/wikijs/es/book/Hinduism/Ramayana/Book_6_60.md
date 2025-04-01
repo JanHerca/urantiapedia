@@ -90,7 +90,7 @@ En elefante, en coche y en corcel.
 Los Vánars vieron al enemigo gigante
 Saldrán por la puerta con galante espectáculo,
 
-<span id="p466">[<sup><small>pág. 466</small></sup>]</span>
+<span id="p466"><sup><small>[ p. 466 ]</small></sup></span>
 
 Se regocijaron con el feroz deleite de los guerreros
 Y gritó, anhelando la pelea.
@@ -209,7 +209,7 @@ Las rocas y árboles que arrojaron los Vánars.
 Feroz como un león hambriento cuando
 Un ciervo desprevenido se acerca a su guarida,
 
-<span id="p467">[<sup><small>pág. 467</small></sup>]</span>
+<span id="p467"><sup><small>[ p. 467 ]</small></sup></span>
 
 Angad, con los ojos rojos de furia,
 Agitando un árbol sobre su cabeza.
@@ -294,7 +294,7 @@ Pero aun así reunió fuerzas para apoderarse de su espada;
 Y, cortado por la brillante hoja,
 La cabeza del gigante fue depositada en la tierra. [^972]
 
-<span id="p468">[<sup><small>pág. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 
 
@@ -420,7 +420,7 @@ El señor de Lanká respondió.
 Aml espera ganar fama eterna
 Este brazo te protegerá en el ??
 
-<span id="p469">[<sup><small>pág. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 Y acaba tu gloria y tu vida.'
 «¡Recuerda!», gritó el hijo del Dios del Viento,
@@ -538,7 +538,7 @@ Su cuerpo comprimido por esos enormes brazos.
 El gigante dado por Dios \*\*\*\*\*
 Pero consciente de que él mismo *era parte
 
-<span id="p470">[<sup><small>pág. 470</small></sup>]</span>
+<span id="p470"><sup><small>[ p. 470 ]</small></sup></span>
 
 De Vishnu, él era firme en el corazón.
 
@@ -657,7 +657,7 @@ Y a ti y a los tuyos os llevaré a la ruina.
 Y Vedavati, [^977] antes de morir
 Muerto por mi despiadado insulto, gritó:
 
-<span id="p471">[<sup><small>pág. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 'Un descendiente de mi linaje real
 Matarás, vil desgraciado, a ti y a los tuyos.
@@ -758,7 +758,7 @@ Que te lleva a una velocidad desenfrenada
 Para despertarme. Recuerda lo que digo.
 El rey temblará de miedo,
 
-<span id="p472">[<sup><small>pág. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 De Vishn'u, él era firme en el corazón.
 El hijo del Dios del Viento presenció la lucha,
@@ -870,7 +870,7 @@ Y a ti y a los tuyos os llevaré a la ruina.
 Y Vedavathi, [^983] antes de morir
 Muerto por mi despiadado insulto, gritó:
 
-<span id="p473">[<sup><small>pág. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 'Un descendiente de mi linaje real
 Matarás, vil desgraciado, a ti y a los tuyos.
@@ -970,7 +970,7 @@ Que te lleva a una velocidad desenfrenada
 Para despertarme. Recuerda lo que digo.
 El rey temblará de miedo,
 
-<span id="p474">[<sup><small>pág. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 Que el fuego se apague y que Indra sea asesinado.
 Antes quebrantéis mi descanso en vano.

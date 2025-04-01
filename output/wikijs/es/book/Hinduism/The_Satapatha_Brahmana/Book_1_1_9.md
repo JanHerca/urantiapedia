@@ -46,7 +46,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 <span id="v1_9_1_44"><sup><small>1:9:1:44.</small></sup></span> Entona [^583]: 'Esto ha resultado exitoso, oh cielo y tierra', porque en verdad ha resultado exitoso cuando uno ha completado el sacrificio. 'Hemos completado el canto de alabanza, y la <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> expresión de adoración [^584]', pues de hecho estos dos, el canto de alabanzas y la expresión de adoración, forman el sacrificio: y en consecuencia con ello dice, 'Hemos completado el sacrificio, hemos obtenido posesión del sacrificio'. —'Tú, oh Agni, eres la voz de alabanza al escuchar [^585] el cielo y la tierra', con lo cual le dice a Agni, 'Tú eres la voz de alabanza, mientras el cielo y la tierra escuchan'. —'¡Que el cielo y la tierra te sean propicios, oh sacrificador, en este sacrificio!' con lo cual dice, 'Que el cielo y la tierra abunden en alimento para ti, oh sacrificador, en este sacrificio'.
 
-<span id="v1_9_1_55"><sup><small>1:9:1:55.</small></sup></span> «Ellos, propicios para el ganado [^586], pródigos en regalos», dice con ello: «Que sean propicios para el ganado y pródigos en regalos». —«Ellos, los intrépidos e inescrutables [^587]»; dice con ello: «Que no temas a nadie; que nadie obtenga antes que tú esta tu riqueza». <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 1:9:1:66. «Ellos, de amplia morada, los que brindan seguridad». Con ello dice: “Que ambos posean moradas amplias y estén exentos de peligro”. —“Ellos, los que están cubiertos de lluvia, los que vierten agua”, con ello dice: “Que ambos posean lluvia”.
+<span id="v1_9_1_55"><sup><small>1:9:1:55.</small></sup></span> «Ellos, propicios para el ganado [^586], pródigos en regalos», dice con ello: «Que sean propicios para el ganado y pródigos en regalos». —«Ellos, los intrépidos e inescrutables [^587]»; dice con ello: «Que no temas a nadie; que nadie obtenga antes que tú esta tu riqueza». <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 1:9:1:66. «Ellos, de amplia morada, los que brindan seguridad». Con ello dice: «Que ambos posean moradas amplias y estén exentos de peligro». —«Ellos, los que están cubiertos de lluvia, los que vierten agua», con ello dice: «Que ambos posean lluvia».
 
 <span id="v1_9_1_77"><sup><small>1:9:1:77.</small></sup></span> «Ellos, los geniales y benéficos»; con ello dice: «Que ambos sean geniales y benéficos». — «Ellos, los ricos en savia y sustancia»; con ello dice: «Que ambos abunden en humedad y proporcionen los medios de subsistencia».
 
@@ -157,7 +157,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 <span id="v1_9_2_3030"><sup><small>1:9:2:3030.</small></sup></span> Esta ofrenda la hace como una adicional, ya que el samish<i>t</i>aya<i>g</i>us es el final del sacrificio, y en consecuencia lo que viene después del samish<i>t</i>aya<i>g</i>us es adicional; y porque, al realizar el samish<i>t</i>aya<i>g</i>us, él ofrece a esas (deidades [^616]), y de ahí se producen aquí plantas ilimitadas adicionales.
 
-<span id="v1_9_2_3131"><sup><small>1:9:2:3131.</small></sup></span> Lo ofrece, con el texto (Vâ<i>g</i>. S. II, 22): «¡Que los barhis se combinen con la comida sacrificial, con la mantequilla! ¡Que Indra se combine con los Âdityas, los Vasus, los Maruts y el Vi<i>s</i>ve Devâ<i>h</i>! ¡Que lo que se ha ofrecido con “Svâhâ” ascienda al éter celestial [^617]!».
+<span id="v1_9_2_3131"><sup><small>1:9:2:3131.</small></sup></span> Lo ofrece, con el texto (Vâ<i>g</i>. S. II, 22): «¡Que los barhis se combinen con la comida sacrificial, con la mantequilla! ¡Que Indra se combine con los Âdityas, los Vasus, los Maruts y el Vi<i>s</i>ve Devâ<i>h</i>! ¡Que lo que se ha ofrecido con «Svâhâ» ascienda al éter celestial [^617]!».
 
 <span id="v1_9_2_3232"><sup><small>1:9:2:3232.</small></sup></span> Tras haber caminado desde el lado norte del fuego de Âhavanîya hacia el sur, vierte el agua de pra<i>n</i>îtâ [^618] sobre el altar. Al extender el sacrificio, lo unce. Pero si no lo hiciera, el sacrificio, al estar desuncido, al retroceder, dañaría al sacrificador. De esta manera, sin embargo, el sacrificio no daña al sacrificador; y por esta razón vierte el agua pra<i>n</i>îtâ, después de caminar hacia el sur.
 
@@ -198,7 +198,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 <span id="v1_9_3_1515"><sup><small>1:9:3:1515.</small></sup></span> Entonces mira al sol, pues ese es el fin último, ese es el refugio seguro. A ese fin último, a ese refugio, se dirige así: por eso mira al sol.
 
-<span id="v1_9_3_1616"><sup><small>1:9:3:1616.</small></sup></span> Levanta la vista, con el texto (Vâ<i>g</i>. S. II, 26 a): «¡Eres autoexistente, el mejor rayo de luz!». El sol es, en efecto, el mejor rayo de luz [^628], y por eso dice: «Eres autoexistente, el mejor rayo de luz». «“Eres dador de luz: ¡dame luz (var<i>k</i>as)!”, así digo yo», dijo Yâ<i>g</i><i>ñ</i>avalkya, «pues en esto, en efecto, el Brâhma<i>n</i>a debe esforzarse por ser brahmavar<i>k</i>asin (iluminado por el brahma, o la escritura sagrada).» Aupoditeya [^629], por otro lado, dijo: 'En verdad, él me dará vacas [^630]: (por eso digo), “¡Tú eres el que da las vacas, dame vacas!”' Así, cualquier deseo que él (el sacrificador) tenga (y exprese), ese deseo le es concedido.
+<span id="v1_9_3_1616"><sup><small>1:9:3:1616.</small></sup></span> Levanta la vista, con el texto (Vâ<i>g</i>. S. II, 26 a): «¡Eres autoexistente, el mejor rayo de luz!». El sol es, en efecto, el mejor rayo de luz [^628], y por eso dice: «Eres autoexistente, el mejor rayo de luz». ««Eres dador de luz: ¡dame luz (var<i>k</i>as)!», así digo yo», dijo Yâ<i>g</i><i>ñ</i>avalkya, «pues en esto, en efecto, el Brâhma<i>n</i>a debe esforzarse por ser brahmavar<i>k</i>asin (iluminado por el brahma, o la escritura sagrada).» Aupoditeya [^629], por otro lado, dijo: 'En verdad, él me dará vacas [^630]: (por eso digo), «¡Tú eres el que da las vacas, dame vacas!»' Así, cualquier deseo que él (el sacrificador) tenga (y exprese), ese deseo le es concedido.
 
 <span id="v1_9_3_1717"><sup><small>1:9:3:1717.</small></sup></span> Luego gira (de izquierda a derecha), con el texto (Vâ<i>g</i>. S. II, 26 b), 'Me muevo a lo largo del curso del <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> sol'; habiendo alcanzado esa meta final, ese refugio seguro, ahora se mueve a lo largo del curso de ese (sol) [^631].
 
@@ -240,11 +240,11 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 ## Notas al pie
 
-[^585]: 247:2 El autor ahora procede a dar en detalle las fórmulas que debe recitar el Hot<i>ri</i> durante las ceremonias tratadas en el Brâhma<i>n</i>a precedente (ver [p. 236](Book_1_1_8#p236), nota [2](Book_1_1_8#fn553)); párrafos 1-23 que tratan del sûktavâka; párrafos 24-29 del <i>s</i>amyuvâka.
+[^585]: 247:2 El autor ahora procede a dar en detalle las fórmulas que debe recitar el Hot<i>ri</i> durante las ceremonias tratadas en el Brâhma<i>n</i>a precedente (ver [p. 236](../Book_1_1_8#p236), nota [2](../Book_1_1_8#fn553)); párrafos 1-23 que tratan del sûktavâka; párrafos 24-29 del <i>s</i>amyuvâka.
 
 [^586]: 248:1 Sûktaiva tad âha, que el comentarista parafrasea con sûktâṅy âha. Aparentemente, su propósito es explicar el término sûktavaka. La palabra sûkta, aquí, excepcionalmente, lleva el acento en la penúltima.
 
-[^587]: 248:2 Véase [p. 240](Book_1_1_8#p240), nota [2](Book_1_1_8#fn561). Las fórmulas se dan en Taitt. Br. III, 5, 10; Â<i>s</i>v. <i>S</i>. I, 9, 1.
+[^587]: 248:2 Véase [p. 240](../Book_1_1_8#p240), nota [2](../Book_1_1_8#fn561). Las fórmulas se dan en Taitt. Br. III, 5, 10; Â<i>s</i>v. <i>S</i>. I, 9, 1.
 
 [^588]: 249:1 «Sûktavâkam uta namovâkam». Nuestro autor parece referirse a estos términos en relación con los versos Rik y las fórmulas Yagus utilizadas durante el sacrificio. Sâyaná, en Taitt. S. II, 6, 9, interpreta «namovâka» en un sentido más restringido, es decir, como referencia a la fórmula «namo devebhyah». Tanto el Yagur-vela Negro como el Âsv. S. añaden «ridhyâsma sûktokyam», que probablemente deba interpretarse en el sentido de «Que logremos lo expresado en los sûktas». \[Sâya<i>n</i>a, 'Que tengamos éxito con el sûkta que aún está por pronunciarse.'\]
 
@@ -268,7 +268,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 [^598]: 253:3 La recensión del Kâ<i>n</i>va, el Ya<i>g</i>ur-veda Negro y el Â<i>s</i>v. <i>S</i>. dicen no, 'nosotros'.
 
-[^599]: 254:1 Véase [p. 247](Book_1_1_8#p247), nota [^581]. El significado original de los términos <i>s</i>am yos, tal como aparecen en el Rig-veda, es traducido con acierto por el profesor Max Müller (Traducción del Rig-veda, I, p. 182) como «salud y riqueza». En el ceremonial sacrificial se ha llegado a atribuir un significado más profundo a esta fórmula de bendición, para la cual es difícil encontrar un equivalente exacto. El <i>s</i>amyuvâka completo, tal como se presenta aquí, forma parte de un khila del último libro del <i>Ri</i>k-Sa<i>m</i>hitâ; cf. Edición de Max Müller, vol. VI, p. 32; A. Weber, Ind. Stud. IV, p. 431. La versión Ya<i>g</i>us Negra de la leyenda sobre <i>S</i>amyu Bârhaspatya (Taitt. S. II, 6, 10) es bastante diferente de la nuestra; ambas fueron inventadas para explicar <i>s</i>am yos.
+[^599]: 254:1 Véase [p. 247](../Book_1_1_8#p247), nota [^581]. El significado original de los términos <i>s</i>am yos, tal como aparecen en el Rig-veda, es traducido con acierto por el profesor Max Müller (Traducción del Rig-veda, I, p. 182) como «salud y riqueza». En el ceremonial sacrificial se ha llegado a atribuir un significado más profundo a esta fórmula de bendición, para la cual es difícil encontrar un equivalente exacto. El <i>s</i>amyuvâka completo, tal como se presenta aquí, forma parte de un khila del último libro del <i>Ri</i>k-Sa<i>m</i>hitâ; cf. Edición de Max Müller, vol. VI, p. 32; A. Weber, Ind. Stud. IV, p. 431. La versión Ya<i>g</i>us Negra de la leyenda sobre <i>S</i>amyu Bârhaspatya (Taitt. S. II, 6, 10) es bastante diferente de la nuestra; ambas fueron inventadas para explicar <i>s</i>am yos.
 
 [^600]: 255:1 Esta fórmula aparece casi idénticamente en el Rig-veda VI, 74, 1; VII, 54, 1; (IX, 69, 7.) Cf. Max Müller, Traducción del Rig-veda, I, p. 180, donde se llama la atención sobre una frase algo similar en las oraciones úmbricas de las tablas eugubianas.
 
@@ -314,7 +314,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 [^621]: 264:3 Mahîdhara interpreta: 'Que Indra, junto con los Âdityas, los Vasus, los Maruts y el Vi<i>s</i>ve Devâ<i>h</i>, unja a los barhis completamente con el ghee parecido al havis', etc.
 
-[^622]: 265:1 Véase [p. 9](Book_1_1_1#p9), nota [1](Book_1_1_1#fn94).
+[^622]: 265:1 Véase [p. 9](../Book_1_1_1#p9), nota [1](../Book_1_1_1#fn94).
 
 [^623]: 265:2 O, Pra<i>g</i>âpati . . ., véase I, 1, 1, 13, con nota.
 
@@ -340,7 +340,7 @@ Cuando ha obtenido una porción entre ellos, entonces (el Hotri) invoca una bend
 
 [^634]: 271:3 Los rayos celestiales de luz son considerados como las vacas celestiales. Naigh. I, 5; Nir. II, 6.
 
-[^635]: 272:1 Tras ejecutar el movimiento pradakshi<i>n</i>a, debe repetirlo en dirección opuesta, de acuerdo con la regla general (Katy. I, 8, 24). Lo mismo se aplica al párrafo 20. Sobre la circunvalación en el sentido del sol, con y sin fuego, véase la nota [p. 37](Book_1_1_2#p37), la nota [p. 45](Book_1_1_2#p45); también Martin, Western Isles, págs. 16-20, 85, 97, 116-119, 241, 277; Forbes Leslie, Early Races of Scotland, índice, sv. deisiol.
+[^635]: 272:1 Tras ejecutar el movimiento pradakshi<i>n</i>a, debe repetirlo en dirección opuesta, de acuerdo con la regla general (Katy. I, 8, 24). Lo mismo se aplica al párrafo 20. Sobre la circunvalación en el sentido del sol, con y sin fuego, véase la nota [p. 37](../Book_1_1_2#p37), la nota [p. 45](../Book_1_1_2#p45); también Martin, Western Isles, págs. 16-20, 85, 97, 116-119, 241, 277; Forbes Leslie, Early Races of Scotland, índice, sv. deisiol.
 
 [^636]: 273:1 El texto Mâdhyandina del Vâ<i>g</i>. S. no da esta fórmula. El texto Kâ<i>n</i>va del Sa<i>m</i>hitâ dice lo siguiente (edición de Weber, pág. 59): «¡Tejido eres, una red eres: tejeme a lo largo (? extiende mi vida) en este sacrificio, en esta acción sagrada, en esta comida, en este mundo!». «Que mi hijo continúe tejiendo (continúe) esta obra, ¡esta varonil acción mía!». Así también Kâty. III, 8, 25. Sin embargo, el texto Kâ<i>n</i>va del Brâhma<i>n</i>a solo menciona la fórmula dada arriba. Según Laugâkshi, nombra a su hijo favorito; Según Sâṅkhâyana, su hijo mayor, o todos los hijos que tenga. Véase comentario sobre Kâty. IV, 12, II.
 

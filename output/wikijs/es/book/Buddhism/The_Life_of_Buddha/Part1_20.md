@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p96">[<sup><small>pág. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 
 Al atardecer, el ejército del Maligno había huido. Nada perturbó la meditación del héroe, y en la primera vigilia de la noche, llegó al conocimiento de todo lo ocurrido en existencias anteriores. En la segunda vigilia, conoció el estado actual de todos los seres. En la tercera, comprendió la cadena de causas y efectos.
@@ -57,7 +57,7 @@ Doce veces tembló la tierra; el mundo era como una gran flor. Los dioses cantar
 
 Ha venido, el que trae la luz al mundo; ha venido, el que protege al mundo. Cegado por tanto tiempo, el ojo del mundo se ha abierto, y la luz lo deslumbra.
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Oh, conquistador, darás a todos los seres aquello que anhelan. Guiados por la sublime luz de la ley, todas las criaturas alcanzarán las orillas de la liberación. Tú sostienes la lámpara; ¡ve ahora y disipa la oscuridad!
 

@@ -67,7 +67,7 @@ Barbour, CE, 134
 
 Barnes, HE, 65, 102, 220
 
-Barth, Karl, 51 <span id="p300">[<sup><small>pág. 300</small></sup>]</span>
+Barth, Karl, 51 <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 Barthianismo, 46
 
@@ -83,7 +83,7 @@ Creencia, dificultades de, 270-1; poder de, 250
 
 Bell, W. Cosby, 15, 195 Bergson, H., 103, 109-10, 210, 235, 292
 
-Bett, Henry, 167 “Más allá”, la moraleja, 246
+Bett, Henry, 167 «Más allá», la moraleja, 246
 
 Carpeta, RM, 226
 
@@ -683,7 +683,7 @@ Myers, PWH, 27-8
 
 Misticismo, 152
 
-El hombre “natural”, 117; órdenes naturales y morales, 211
+El hombre «natural», 117; órdenes naturales y morales, 211
 
 Naturalismo, 63 y siguientes, 81; y el mal, 127; y el teísmo, 67
 
@@ -721,13 +721,13 @@ Religión no teísta, 215 y siguientes.
 
 No teístas. 12, 26
 
-“Notas” de religión, 254
+«Notas» de religión, 254
 
 Obediencia, 99, 208
 
 Referencia objetiva, 250ff.
 
-Occam, Guillermo de, 189: La “navaja” de Occam, 195
+Occam, Guillermo de, 189: La «navaja» de Occam, 195
 
 Ocasionalismo, 194, 236
 
@@ -861,7 +861,7 @@ Racionalidad del universo, 31
 
 Cuervo, CE, 15, 45, 256
 
-Realismo, 177, 183, 189, 273, 280; “crítico”, 258
+Realismo, 177, 183, 189, 273, 280; «crítico», 258
 
 Realidad, elementos de, 272ff.; estructura de, 284; y/valores, 201ff.; variedades de, 23ff.
 
@@ -1285,7 +1285,7 @@ _La idea de Dios a la luz de la filosofía reciente_, _La_, AS Pringle-Pattison.
 
 _La idea de Dios en la filosofía de Agustín_, _La_, WP Tolley, 70, 296 La idea de lo Santo, _La_, R. Otto, trad. inglesa, por JW Harvey, 262, 264
 
-<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 _Inmanencia de Dios_, _La_, BP Bowne, 166
 
@@ -1435,7 +1435,7 @@ _Religión_, ES Ames, 168, 226 La religión como culminación del hombre, RM Bin
 
 _La religión llega a la mayoría de edad_, RW Sellars, 69, 166, 193, 262
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 _La religión en ciernes_, AN Whitehead, 104, 298
 

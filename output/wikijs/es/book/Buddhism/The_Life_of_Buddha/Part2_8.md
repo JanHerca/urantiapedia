@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>pág. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 
 Dos jóvenes brahmanes, Sariputra y Maudgalyayana, vivían por aquel entonces en la ciudad de Rajagriha. Eran íntimos amigos y ambos discípulos del ermitaño Sanjaya. Se habían hecho esta promesa: «El primero que uno de nosotros logre la liberación de la muerte se lo dirá inmediatamente al otro».
@@ -45,23 +45,23 @@ Pero luego pensó:
 
 Este no es el momento adecuado para interrogarlo. Está pidiendo limosna; no debo molestarlo. Lo seguiré, y cuando esté satisfecho con las ofrendas que ha recibido, me acercaré y hablaré con él.
 
-<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 El venerable Asvajit dejó de pedir limosna. Entonces, Sariputra se acercó a él y lo saludó amistosamente. Asvajit correspondió al saludo de Sariputra.
 
-“Amigo”, dijo Shariputra, “tu rostro es sereno, tu mirada clara y radiante. ¿Quién te convenció de renunciar al mundo? ¿Quién es tu amo? ¿Qué ley obedeces?”
+«Amigo», dijo Shariputra, «tu rostro es sereno, tu mirada clara y radiante. ¿Quién te convenció de renunciar al mundo? ¿Quién es tu amo? ¿Qué ley obedeces?»
 
-“Amigo”, respondió Asvajit, “ese gran monje, el hijo de los Sakyas, es mi maestro”.
+«Amigo», respondió Asvajit, «ese gran monje, el hijo de los Sakyas, es mi maestro».
 
-“¿Qué dice tu maestro, amigo? ¿Qué enseña?”
+«¿Qué dice tu maestro, amigo? ¿Qué enseña?»
 
-“Amigo, hace poco que dejé este mundo; hace poco que conozco la ley; no puedo explicarla con mucho detalle, pero sí puedo darte brevemente su espíritu.”
+«Amigo, hace poco que dejé este mundo; hace poco que conozco la ley; no puedo explicarla con mucho detalle, pero sí puedo darte brevemente su espíritu.»
 
 —Hazlo, amigo —exclamó Sariputra—. Di poco o mucho, como quieras; pero dame el espíritu de la ley. Para mí, solo importa el espíritu.
 
 El venerable Asvajit pronunció esta frase:
 
-“El Perfecto enseña la causa, el Perfecto enseña los fines”.
+«El Perfecto enseña la causa, el Perfecto enseña los fines».
 
 Sariputra se regocijó con estas palabras. Fue como si la verdad le hubiera sido revelada. «Todo lo que nace tiene un fin», pensó. Agradeció a Asvajit y, lleno de esperanza, fue a buscar a Maudgalyayana.
 
@@ -79,7 +79,7 @@ Sanjaya seguía insistiendo; de repente, sangre caliente brotó de su boca. Los 
 
 Ellos se fueron y fueron hacia el Buda.
 
-“Aquí”, dijo el Maestro al verlos acercarse, “aquí están los dos hombres que serán los primeros entre mis discípulos”.
+«Aquí», dijo el Maestro al verlos acercarse, «aquí están los dos hombres que serán los primeros entre mis discípulos».
 
 Y con alegría les dio la bienvenida a la comunidad.
 

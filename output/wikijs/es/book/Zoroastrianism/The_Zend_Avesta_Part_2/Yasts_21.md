@@ -1,6 +1,6 @@
 ---
 title: "XXI. Fragmento de Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Estos dos Yasts o fragmentos de Yast son conocidos entre los parsis como el Hâdhôkht Nask, aunque su contexto no se corresponde con ninguna parte de la descripción de dicho Nask que aparece en el Dîn-kart (West, Textos Pahlavi, I, 224, nota 8). Haug y West han editado una traducción pahlavi de estos Yasts (El Libro de Ardâ Vîrâf, pág. 269 y siguientes).
 
@@ -104,10 +104,10 @@ Yast XXI es un elogio de la oración Ashem Vohû, cuyo valor aumenta cada vez m�
 
 [^1392]: 311:1 Asha: el Ashem Vohû.
 
-[^1393]: 312:1 Cien veces la fórmula: 'Sé propiciación (khshnaothra) para N. . . ., el santo y maestro de la santidad' (cf. [p. 1](Preliminar#p1), nota [2](Preliminar#fn3)).
+[^1393]: 312:1 Cien veces la fórmula: 'Sé propiciación (khshnaothra) para N. . . ., el santo y maestro de la santidad' (cf. [p. 1](../Preliminar#p1), nota [2](../Preliminar#fn3)).
 
 [^1394]: 312:2 Comer o beber (ver Vendîdâd, Introd. IV, 33).
 
-[^1395]: 313:1 Véase [p. 123](Yasts_10#p123), nota [5](Yasts_10#fn575).
+[^1395]: 313:1 Véase [p. 123](../Yasts_10#p123), nota [5](../Yasts_10#fn575).
 
 [^1396]: 313:2 En una conversión, o en la recitación de las oraciones penitenciales.

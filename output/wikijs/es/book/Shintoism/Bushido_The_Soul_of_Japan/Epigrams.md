@@ -52,7 +52,7 @@ Hay, si se me permite decirlo, tres espíritus poderosos que, de tiempo en tiemp
 &nbsp;&nbsp;&nbsp;&nbsp;HALLAM,
 &nbsp;&nbsp;&nbsp;&nbsp;_Europa en la Edad Media_.
 
-“La caballerosidad es en sí misma la poesía de la vida”.
+«La caballerosidad es en sí misma la poesía de la vida».
 
 &nbsp;&nbsp;&nbsp;&nbsp;SCHLEGEL,
 &nbsp;&nbsp;&nbsp;&nbsp;Filosofía de la Historia.

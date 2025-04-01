@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 5. Las contraventanas de los puestos móviles [^409] no pueden quitarse durante la festividad, según Beth Shammai; pero Beth Hillel permite no solo esto, sino también volver a colocarlas. Beth Shammai dice: «El mortero de madera grande no puede moverse para usarlo como bloque para cortar carne»; pero Beth Hillel lo permite. Beth Shammai enseña: «Que es ilegal colocar una piel para ser pisoteada como preparación para su curtido, o levantarla del suelo, a menos que haya sobre ella la cantidad mínima de carne del tamaño de una aceituna»; pero Beth Hillel lo permite. Beth Shammai enseña: «Que es ilegal llevar a un lugar público durante la festividad un niño, un loolab, una rama de palma, etc., o un rollo de la ley»; pero Beth Hillel lo permite.
 
-<span id="p146">[<sup><small>pág. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 § 6. Beth Shammai considera ilegal llevar al sacerdote durante la festividad חלה u otros regalos [pertenecientes a los sacerdotes], ya sea que se hubieran apartado para tal fin ese día o el anterior; pero Beth Hillel lo permite. Beth Shammai alegó, para respaldar su decisión, la similitud de expresión en ambos, y dijo que חלה y otros derechos sacerdotales se llaman _dones_ [מתנות_], debidos a los sacerdotes: תרומה, u ofrenda elevada, también es uno de estos regalos; ahora bien, así como no se puede llevar ofrenda elevada al sacerdote durante la festividad, también es ilegal llevarle cualquier otro regalo sacerdotal ese día. Pero Beth Hillel responde: «Lo que se afirma de la ofrenda elevada no puede aplicarse a los otros dones, [^410] porque aquello no se puede incurrir en la fiesta, pero los otros dones sí».
 

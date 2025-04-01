@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p215">[<sup><small>pág. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ## I
 
@@ -64,7 +64,7 @@ Pero, en consecuencia, ¿quién acusaría a los científicos de carecer de convi
 
 ¿Cuándo aprenderán las iglesias que la intolerancia, ya sea personal o eclesiástica, es una prueba de debilidad? «Los confiados pueden permitirse la calma y la amabilidad; solo los temerosos deben difamar y excluir».
 
-<span id="p226">[<sup><small>pág. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 ## IV
 

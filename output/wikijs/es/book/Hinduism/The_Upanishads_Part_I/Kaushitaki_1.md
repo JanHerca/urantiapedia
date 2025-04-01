@@ -32,11 +32,11 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p269">[<sup><small>pág. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 KAUSHITAKI-UPANISHAD.
 
@@ -44,11 +44,11 @@ PRIMER ADHYÂYA.
 
 1\. K ITRA Gâṅgyâyani [^694], en verdad, deseando realizar un sacrificio, eligió a Âru<i>n</i>i (Uddâlaka [^695], como su sacerdote principal). Pero Âru<i>n</i>i envió a su hijo, Svetaketu, y le dijo: «Realiza el sacrificio por él». Cuando Svetaketu [^696] llegó, K Itra le preguntó: «Hijo de Gautama [^697], ¿existe algún lugar oculto en el mundo donde puedas ubicarme, o es al revés, y me ubicarás en el mundo al que ese otro camino conduce [^698]?».
 
-<span id="p272">[<sup><small>pág. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Él respondió: «No lo sé. Pero déjame preguntarle al maestro». Habiéndose acercado a su padre, le preguntó: «Kitra me ha preguntado así; ¿qué debo responder?».
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Âru<i>n</i>i dijo: «Yo tampoco sé esto. Solo después de haber aprendido la parte correcta del Veda en la propia morada de <i>K</i>itra, obtendremos lo que otros nos dan (conocimiento). Ven, nos iremos los dos».
 
@@ -60,7 +60,7 @@ Dicho esto, tomó leña en la mano (como un discípulo) y se acercó a Kâṅgy�
 
 4\. Entonces, quinientas Apsaras se acercan a él: cien con guirnaldas, cien con ungüentos, cien con perfumes, cien con ropas y cien con frutas [^713] en sus manos. Lo adornan con un adorno digno de Brahman, y así, adornado con el adorno de Brahman, el conocedor de Brahman avanza hacia Brahman (neut.). [^714] Llega al lago Âra y lo cruza con la mente, mientras que quienes llegan sin conocer la verdad [^715] se ahogan. Llega a los momentos llamados Yesh<i>t</i>iha, y huyen de él.
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Llega al río Vi<i>g</i>arâ y lo cruza solo con la mente, y allí se deshace de sus buenas y malas acciones. Sus seres queridos obtienen el bien, sus seres no queridos el mal que ha cometido. Y como un hombre que conduce un carro puede mirar las dos ruedas (sin ser tocado por ellas), así mirará el día y la noche, así las buenas y las malas acciones, y todos los pares (todos los elementos correlativos, como la luz y la oscuridad, el calor y el frío, etc.). Liberado del bien y del mal, él, el conocedor de Brahman (neut.), avanza hacia Brahman.
 
@@ -68,13 +68,13 @@ Llega al río Vi<i>g</i>arâ y lo cruza solo con la mente, y allí se deshace de
 
 6\. «Soy (como) una estación, y el hijo de las estaciones, surgido del vientre del espacio infinito, de la luz (del luminoso Brahman). La luz, el origen del año, que es el pasado, que es el presente, que es todas las cosas vivas y todos los elementos, es el Ser [^719]. Tú eres el Ser. Lo que eres, eso soy U»
 
-Brahman le pregunta: “¿Quién soy yo?”. Él responderá: “Lo que es, lo verdadero” (Sat-tyam).
+Brahman le pregunta: «¿Quién soy yo?». Él responderá: «Lo que es, lo verdadero» (Sat-tyam).
 
 Brahman pregunta: "¿Qué es la verdad?". Le responde: "¿Qué es diferente de los dioses y de los sentidos (prâ<i>n</i>a) que es Sat, pero los dioses y los sentidos son Tyam? Por lo tanto, con ese nombre Sattya (verdad) se llama a todo lo que existe. Todo esto eres tú."
 
 7\. Esto también lo declara un verso: «Este gran Rishi, cuyo vientre es el Yagus, la cabeza el Sâman, la forma el Rik, debe ser conocido como imperecedero, como Brahman».
 
-Brahman le dice: “¿Cómo obtienes mis nombres masculinos?”. Él debe responder: “Por el aliento (prâ<i>n</i>a<i>h</i>)”.
+Brahman le dice: «¿Cómo obtienes mis nombres masculinos?». Él debe responder: «Por el aliento (prâ<i>n</i>a<i>h</i>)».
 
 Brahman pregunta: "¿Cómo se llaman mis mujeres?". Él debería responder: "Con la palabra (vâ<i>k</i>)".
 
@@ -82,7 +82,7 @@ Brahman pregunta: "¿Cómo se llaman mis neutros?". Él debería responder: "Med
 
 ¿Cómo los olores? Por la nariz. ¿Cómo las formas? Por la vista. ¿Cómo los sonidos? Por el oído. ¿Cómo los sabores de la comida? Por la lengua. ¿Cómo las acciones? Por las manos. ¿Cómo los placeres y el dolor? Por el cuerpo. ¿Cómo la alegría, el deleite y la descendencia? Por el órgano. ¿Cómo los viajes? Por los pies. ¿Cómo los pensamientos y lo que se ha de conocer y desear? Solo mediante el conocimiento (pra<i>g</i>ñâ)
 
-Brahman le dice: “En verdad, el agua es éste mi mundo [^720], todo el mundo Brahman, y es tuyo”.
+Brahman le dice: «En verdad, el agua es éste mi mundo [^720], todo el mundo Brahman, y es tuyo».
 
 Cualquier victoria, cualquier poder que pertenezca a Brahman, esa victoria y ese poder los obtiene quien sabe esto, sí, quien sabe esto [^721].
 

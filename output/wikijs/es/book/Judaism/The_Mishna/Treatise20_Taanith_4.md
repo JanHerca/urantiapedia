@@ -78,7 +78,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^546]: 176:1 Véase nuestra séptima nota, [p. 172](Tratado12_Sabbath_23#p172), y la siguiente sección de esta Mishná.
+[^546]: 176:1 Véase nuestra séptima nota, [p. 172](../Tratado12_Sabbath_23#p172), y la siguiente sección de esta Mishná.
 
 [^547]: 176:2 La redacción y la colocación de las oraciones en esta sección de la Mishná son tan confusas que resultan contradictorias e ininteligibles sin mayor interpolación y alteración. Su verdadero sentido parece ser el siguiente: «En tres períodos del año, que son los días de ayuno, los ayunos de los hombres de pie y el Día de la Expiación, los sacerdotes levantarán las manos tres veces en cada oración: la de la mañana, la de la tarde y la de clausura, y en una de estas [es decir, el Día de la Expiación, en el que se reza la מוסף, u oración adicional] cuatro veces».
 

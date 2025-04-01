@@ -36,7 +36,7 @@ En un libro como este, donde se traduce por primera vez de un idioma poco conoci
 
 Aunque no ha sido posible reproducir el ritmo de los versos, espero que se haya logrado un efecto similar manteniendo en cada historia una métrica donde el pali solo tiene una, y cambiándola donde cambia; y se ha observado una regla bastante consistente: dar versos largos por largos y cortos por cortos, considerando dos versos cortos como equivalentes a uno largo. Sin embargo, en diferentes historias, la misma métrica a menudo se ha traducido de forma diferente por conveniencia.
 
-En busca de paralelismos, he revisado todos los libros pali hasta donde se imprimieron; pero no he tenido tiempo de leerlos con atención, y muchos se me han escapado. Por lo tanto, las notas no deben considerarse exhaustivas. He anotado otras ilustraciones donde las he encontrado, y espero que a los estudiosos de cuentos populares les interese una variante inédita que he podido proporcionar (página [110](207#p110)).
+En busca de paralelismos, he revisado todos los libros pali hasta donde se imprimieron; pero no he tenido tiempo de leerlos con atención, y muchos se me han escapado. Por lo tanto, las notas no deben considerarse exhaustivas. He anotado otras ilustraciones donde las he encontrado, y espero que a los estudiosos de cuentos populares les interese una variante inédita que he podido proporcionar (página [110](../207#p110)).
 
 <span id="pviii">[<sup><small>pág. viii</small></sup>]</span>
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p187">[<sup><small>pág. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 CUARTO ADHYÂYA.
 
@@ -54,7 +54,7 @@ CUARTO ADHYÂYA.
 
 8\. A continuación viene el verso de Sûdadohas. Sûdadohas es aliento, y por ello une todas las articulaciones con el aliento.
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -76,7 +76,7 @@ CUARTO ADHYÂYA.
 
 10\. Él (el pájaro y el himno) se sostiene por dos décadas que son Virâ<i>g</i>. El hombre (el sacrificador) se sostiene por los dos Dvipadâs, el vigésimo primero y el vigésimo segundo. Lo que forma al pájaro sirve para la consecución de todos los deseos; lo que forma al hombre, sirve para su felicidad, gloria, alimento adecuado y honor.
 
-11\. A continuación viene un verso de Sûdadohas, luego un Dhayyâ, y luego otro verso de Sûdadohas. El Sûdadohas es un hombre, la Dhayyâ una mujer; por lo tanto, recita el Dhayyâ como si ambos Sûdadohas lo abrazaran. Por lo tanto, la semilla de ambos, al efluir, alcanza la unidad, y esto solo con respecto a la <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> mujer. Por lo tanto, el nacimiento ocurre en y desde la mujer. Por lo tanto, recita ese Dhayyâ en ese lugar [1](Aranyaka_1_4#fn473).
+11\. A continuación viene un verso de Sûdadohas, luego un Dhayyâ, y luego otro verso de Sûdadohas. El Sûdadohas es un hombre, la Dhayyâ una mujer; por lo tanto, recita el Dhayyâ como si ambos Sûdadohas lo abrazaran. Por lo tanto, la semilla de ambos, al efluir, alcanza la unidad, y esto solo con respecto a la <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> mujer. Por lo tanto, el nacimiento ocurre en y desde la mujer. Por lo tanto, recita ese Dhayyâ en ese lugar [1](../Aranyaka_1_4#fn473).
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 

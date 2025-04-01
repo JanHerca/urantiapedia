@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 En ese período, en esa era vivió el Arhat <i>Ri</i>shabha, el Ko<i>s</i>alian [^659], cuatro momentos importantes de cuya vida sucedieron cuando la luna estaba en conjunción con el asterismo Uttarâshâ<i>dh</i>â; el quinto, cuando en conjunción con Abhi<i>g</i>it: (204) en Uttarâshâ<i>dh</i>â descendió del cielo, etc. (todo hasta) en Abhi<i>g</i>it obtuvo la liberación final. (205)
 
@@ -50,7 +50,7 @@ El Arhat Rishabha, el Kosaliano, astuto, con las aspiraciones de un hombre intel
 
 El Arhat Rishabha, el Kosaliano, descuidó su cuerpo durante mil años (véanse los §§ 117-120, infra), meditó sobre sí mismo durante mil años. Entonces, en el cuarto mes de invierno, la séptima quincena, la quincena oscura de Phâlguna, en su undécimo día, al amanecer, cuando la luna estaba en conjunción con el asterismo Ashâdhâ, a las afueras de Purimatâla, en el parque llamado Sakat amukha, bajo el excelente árbol Nyagrodha, Rishabha, tras ayunar tres días y medio sin beber agua y estar en profunda meditación, alcanzó el infinito (véase el § 120, infra), el conocimiento e intuición más elevados llamados Kevala. (véase § 121, hasta el momento). (212)
 
-<span id="p284">[<sup><small>pág. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 El Arhat Rishabha, el Kosaliano, tenía ochenta y cuatro Ganas y ochenta y cuatro Ganadharas. (213)
 

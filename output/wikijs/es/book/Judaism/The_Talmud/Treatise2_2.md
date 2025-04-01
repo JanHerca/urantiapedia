@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 1\. "¿Cuánto tiempo se puede arar un campo blanco [^42] en vísperas del año sabático?" "Hasta que cese la productividad; mientras se suele arar para plantar pepinos y calabazas", dijo R. Simon, "has puesto la ley en manos de todos. Pero se puede arar un campo de trigo hasta la Pascua, y un campo de árboles hasta Pentecostés".
 

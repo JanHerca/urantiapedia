@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 CUARTO ADHYÂYA.
 
@@ -70,7 +70,7 @@ El corazón estalló. Del corazón surgió la mente, y de la mente, los kandrama
 
 El ombligo estalló. Del ombligo procedió el Apâna (la respiración descendente) [^592], y del Apâna, la muerte.
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 El órgano generativo brotó. Del órgano provino la semilla, y de la semilla, el agua. (4)
 
@@ -116,7 +116,7 @@ Intentó captarlo mediante la respiración descendente (la respiración que ayud
 
 3\. Así, es Vâyu (el que obtiene [^601]) quien se apropia del alimento, y Vâyu es en verdad Annayu (quien da vida o vive de la comida). (10)
 
-4\. Pensó: “¿Cómo puede ser todo esto sin mí?”
+4\. Pensó: «¿Cómo puede ser todo esto sin mí?»
 
 5\. Y entonces pensó: '¿Por dónde llegaré allí [^602]?'
 

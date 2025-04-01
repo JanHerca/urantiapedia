@@ -1,6 +1,6 @@
 ---
 title: "Yasna LXVIII. Al Ahuriano y las Aguas"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p321">[<sup><small>pág. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 ## YASNA LXVIII (SP. LXVII). AL AHURIANO, Y A LAS AGUAS.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 10\. Si alguien os ofrece sacrificios, ¡oh buenas aguas, las Ahurianas de Ahura!, con el mejor y más apropiado Zaothras ofrecido piadosamente, (11) a ese hombre le otorgan esplendor y gloria, con salud y vigor corporal y prominencia de forma; sí, a él le otorgan posesiones que conllevan abundante gloria, un descendiente legítimo, una vida larga y duradera, y (al Cielo al final), la mejor vida de los santos, resplandeciente, gloriosa. 12. Y a mí también me lo dan ahora, a quien ofrezco este Yasna como sacerdote [^1347].
 
-<span id="p323">[<sup><small>pág. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 (Respuesta [^1348].) Y a nosotros, Mazdayasnians, que también ofrecemos sacrificio, concédenos (tanto el deseo como el conocimiento del camino correcto [^1349]), a nosotros, colegas y discípulos, Aêthrapaitis y Aêthryas, hombres y mujeres, así como niños y doncellas del campo, (13) que solo pensamos en el bien, para vencer la opresión y la malicia en las incursiones del invasor, y frente a los enemigos que odian. Concédenos tanto el deseo [^1350] como el conocimiento del camino más recto, el más recto por la Rectitud, y del (Cielo) la mejor vida de los Santos, resplandeciente, gloriosa. Así como el Ahû es excelente, así también lo es el Ratu (quien gobierna) del Orden Recto, creador de la bondad mental y de las acciones de la vida realizadas para Mazda. Y el reino es para Ahura, quien puede ofrecer sustento a los pobres. 14. (Habla el Zaotar): Imploro con mi bendición una morada segura, una morada feliz y duradera para los habitantes de esta aldea de donde provienen estos Zaothras (que ofrezco). Y ruego con mi bendición por una morada segura, tranquila y feliz, y una larga permanencia para cada aldea Mazdayasniana, y por socorro incluso en mis necesidades, por socorro con salutaciones de salvación, y por uno con alabanzas, ¡oh Fuego! [^1351] ¡y por ti, oh Ahuriano de Ahura!, pido el más completo Yast.
 

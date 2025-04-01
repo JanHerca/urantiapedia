@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Quien sirve a un gobernante en armonía con el Tao no someterá al Imperio por la fuerza de las armas. Tal proceder suele traer consecuencias.
 
@@ -46,7 +46,7 @@ Donde habita el príncipe, la débil mano izquierda es honrada. Pero quien usa a
 
 En las ocasiones felices, se favorece a la izquierda; en las tristes, a la derecha. El segundo al mando se ubica a la izquierda, el general en jefe a la derecha. Es decir, se colocan en el orden observado en los ritos funerarios. Y, de hecho, quien ha exterminado a una gran multitud de hombres debería llorarlos con lágrimas y lamentaciones. Es bueno que quienes salen victoriosos en la batalla sean colocados en el orden de los ritos funerarios.
 
-Un cierto comandante militar solía decir: “No me atrevo a hacer de anfitrión; prefiero hacer de invitado. [^6] No me atrevo a avanzar ni un centímetro; prefiero retroceder un paso”.
+Un cierto comandante militar solía decir: «No me atrevo a hacer de anfitrión; prefiero hacer de invitado. [^6] No me atrevo a avanzar ni un centímetro; prefiero retroceder un paso».
 
 No hay mayor calamidad que involucrarse a la ligera en la guerra. Involucrarse a la ligera en la guerra es arriesgarse a perder nuestro tesoro. [^7]
 
@@ -83,4 +83,4 @@ Cuando guerreros opuestos se unen en la batalla, el que tiene piedad vence.
 
 [^6]: 42:\* Según la etiqueta china, es el dueño de la casa quien debe insinuar, y su invitado imitarlo. Por lo tanto, «anfitrión» aquí se refiere a quien toma la iniciativa y comienza el ataque; «invitado», a quien actúa a la defensiva. El pasaje puede ser meramente figurativo, ilustrando la conducta de quienes practican el Tao.
 
-[^7]: 42:† _Es decir_, humanidad o gentileza, mencionadas anteriormente como una o “tres cosas preciosas”.
+[^7]: 42:† _Es decir_, humanidad o gentileza, mencionadas anteriormente como una o «tres cosas preciosas».

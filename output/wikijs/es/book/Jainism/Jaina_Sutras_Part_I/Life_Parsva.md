@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 En ese período, en esa era vivió el Arhat Pâr<i>s</i>va, el favorito del pueblo [^645], los cinco momentos más importantes de cuya vida sucedieron cuando la luna estaba en conjunción con el asterismo Vi<i>s</i>âkhâ: en Vi<i>s</i>âkhâ descendió (del cielo), y habiendo descendido de allí, entró en el vientre (de su madre); en Vi<i>s</i>âkhâ nació; en Vi<i>s</i>âkhâ, arrancándose el cabello, dejó la casa y entró en el estado de sin hogar; en Vi<i>s</i>âkhâ obtuvo el conocimiento e intuición más altos, llamados Kevala, que es infinito, supremo, sin obstáculos, sin impedimentos, completo y pleno; en Vi<i>s</i>âkhâ obtuvo la liberación final. (149)
 
@@ -48,7 +48,7 @@ El Arhat Pâr<i>s</i>va, el favorito del pueblo, inteligente, con aspiraciones d
 
 '¡Victoria, victoria a ti, alegrador del mundo!' (ver § 111, hasta) Así lanzaron el grito de victoria. (156) Antes de que el Arhat Pâr<i>s</i>va, el favorito del pueblo, hubiera adoptado la vida de un jefe de familia, etc. (ver § 112, hasta) las personas indigentes.
 
-<span id="p273">[<sup><small>pág. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 En el segundo mes de invierno, en la tercera quincena, la oscura quincena de Paushya, en su undécimo día, en plena noche, cabalgando en su palanquín llamado Vi<i>s</i>âlâ, seguido por una comitiva de dioses, hombres, asuras, etc. (Pâr<i>s</i>va), atravesó la ciudad de Benarés hasta el parque llamado A<i>s</i>ramapada, y se dirigió al excelente árbol A<i>s</i>oka. Allí, etc. (véase § 116, hasta) cinco puñados.
 
@@ -62,7 +62,7 @@ Durante el octogésimo cuarto día (fue en el primer mes de verano, en la primer
 
 El Arhat Pâr<i>s</i>va, el favorito del pueblo, tenía ocho Ga<i>n</i>as y ocho Ga<i>n</i>adharas (enumerados en un <i>S</i>loka):
 
-<span id="p274">[<sup><small>pág. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 <i>Subha y Âryaghosha, Vasish<i>th</i>a [^649] y Brahma<i>k</i>ârin, Saumya y <i>S</i>rîdhara, Vîrabhadra y Ya<i>s</i>as. (160)
 
@@ -72,7 +72,7 @@ El Arhat Pâr<i>s</i>va, el favorito del pueblo, instituyó dos épocas en su ca
 
 En ese período, en esa era, el Arhat Pâr<i>s</i>va, el favorito del pueblo, vivió treinta años como cabeza de familia, ochenta y tres días en un estado inferior a la perfección, algo menos de setenta años como Kevalin, setenta años completos como <i>S</i>rama<i>n</i>a, y cien años en total.
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Español Cuando su cuádruple Karman [^651] se agotó y en esta era Avasarpi<i>n</i>î había transcurrido la mayor parte del período Du<i>h</i>shamasushamâ, en el primer mes de la estación lluviosa, en la segunda quincena, la luz (quincena) de <i>S</i>râva<i>n</i>a, en su octavo día, en la primera parte del día cuando la luna estaba en conjunción con el asterismo Vi<i>s</i>âkhâ, (Pâr<i>s</i>va), después de ayunar un mes sin beber agua, en la cima del monte Sammeta, en compañía de ochenta y tres personas, extendiendo sus manos, murió, etc. (todo hasta) liberado de todos los dolores. (168) Desde el momento en que murió el Arhat Pâr<i>s</i>va, el favorito del pueblo, etc. (todo hasta) liberado de todos los dolores, han transcurrido doce siglos, y del siglo XIII este es el trigésimo año. (169)
 

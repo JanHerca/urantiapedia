@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p182">[<sup><small>pág. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 
 Cuando Siddhartha se retiró del mundo, el rey Suddhodana eligió a Nanda, otro de sus hijos, para sucederlo en el trono. Nanda se alegraba de pensar que algún día sería rey, y también se alegraba de su inminente matrimonio con la princesa Sundarika, la bella Sundarika, a quien amaba profundamente.
@@ -41,19 +41,19 @@ El Maestro temía por su hermano; temía que se desviara por el mal. Un día, fu
 
 He venido a ti, Nanda, porque sé que eres muy feliz, y quiero escuchar de tus propios labios el motivo de esta felicidad. Así que dime, Nanda; ábreme tu corazón.
 
-“Hermano”, respondió Nanda, “dudo que lo entiendas, porque una vez rechazaste mi poder soberano y abandonaste al amoroso Gopa”.
+«Hermano», respondió Nanda, «dudo que lo entiendas, porque una vez rechazaste mi poder soberano y abandonaste al amoroso Gopa».
 
-“¡Esperas ser rey algún día y por eso eres feliz, Nanda!”
+«¡Esperas ser rey algún día y por eso eres feliz, Nanda!»
 
 Sí. Y también estoy feliz porque amo a Sundarika, y porque Sundarika pronto será mi esposa.
 
 ¡Pobre hombre!, exclamó el Maestro. ¿Cómo puedes <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> ser feliz, tú que vives en la oscuridad? ¿Quieres ver la luz? Entonces, primero, deshazte de la felicidad: el miedo nace de la felicidad, del miedo y del sufrimiento. Quien ya no conoce la felicidad no teme ni sufre. Deshazte del amor: el miedo nace del amor, del miedo y del sufrimiento. Quien ya no conoce el amor no teme ni sufre. Si buscas la felicidad en el mundo, tus esfuerzos serán en vano, tu placer se convertirá en dolor; la muerte siempre está presente, lista para abalanzarse sobre los desafortunados y acallar su risa y su canción. El mundo no es más que llama y humo, y todo en el mundo sufre desde el nacimiento, la vejez y la muerte. Desde que comenzaste a vagar lastimosamente de una existencia a otra, has derramado más lágrimas que agua hay en los ríos o en los mares. Has lamentado y llorado al ver frustrados tus deseos, y Has llorado y te has lamentado cuando ocurrió aquello que temías. La muerte de una madre, la muerte de un padre, la muerte de un hermano, la muerte de una hermana, la muerte de un hijo, la muerte de una hija, ¡oh, cuántas veces, a lo largo de los siglos, no te han causado dolor? ¿Y cuántas veces no has perdido tu fortuna? Y cada vez que tuviste motivo de dolor, lloraste y lloraste y lloraste, ¡y derramaste más lágrimas que agua hay en los ríos o en los mares!
 
-<span id="p184">[<sup><small>pág. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Al principio, Nanda prestó poca atención a lo que decía el Buda, pero al empezar a escuchar, sus palabras lo conmovieron profundamente. El Maestro continuó:
 
-“Mira el mundo como una burbuja de espuma; deja que sea solo un sueño, y la muerte soberana te pasará de largo”.
+«Mira el mundo como una burbuja de espuma; deja que sea solo un sueño, y la muerte soberana te pasará de largo».
 
 Él se quedó en silencio.
 
@@ -69,13 +69,13 @@ De repente, al doblar la esquina, vio acercarse a una joven. Sonreía. Reconoci�
 
 Él no respondió. Ella se volvió hacia el Maestro. "¿Lo llevas contigo?"
 
-“Sí”, respondió el Maestro.
+«Sí», respondió el Maestro.
 
-<span id="p185">[<sup><small>pág. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
-“¿Pero volverá pronto?”
+«¿Pero volverá pronto?»
 
-Nanda quiso gritar: “¡Sí, volveré pronto, Sundarika!”. Pero tenía miedo, y sin decir palabra, con la mirada aún baja, se fue con el Maestro.
+Nanda quiso gritar: «¡Sí, volveré pronto, Sundarika!». Pero tenía miedo, y sin decir palabra, con la mirada aún baja, se fue con el Maestro.
 
 Entonces Sundarika supo que había perdido a Nanda y lloró.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 5, SECCIÓN 14.
 

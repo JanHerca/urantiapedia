@@ -54,7 +54,7 @@ Le encargó, diciendo: «Mañana y tarde presenta tus instrucciones para ayudar 
 
 Es la boca la que da pie a la vergüenza; son la cota de malla y el yelmo los que dan pie a la guerra. Las vestiduras superiores e inferiores (pues la recompensa no debe tomarse a la ligera) de sus pechos; antes de usar la lanza y el escudo, uno debe examinarse a sí mismo. Si Su Majestad es cauteloso con respecto a estas cosas y, creyendo esto, logra un uso inteligente de ellas, (su gobierno) será excelente en todo. El buen gobierno y el mal gobierno dependen de los diversos oficiales. Los cargos no deben otorgarse a hombres por ser favoritos, sino solo a hombres de capacidad. Las dignidades no deben otorgarse a hombres de malas prácticas, sino solo a hombres de valor.
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 La preocupación por lo mejor debe preceder tus acciones, las cuales también deben tomarse en el momento oportuno. Confiarse en la idea de ser bueno es la forma de perder esa bondad; envanecerse de la propia capacidad es la forma de perder el mérito que podría producir.
 

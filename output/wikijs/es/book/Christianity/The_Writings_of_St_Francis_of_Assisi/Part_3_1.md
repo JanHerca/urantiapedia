@@ -53,7 +53,7 @@ Los Padres Quaracchi han editado el texto de las Alabanzas según los manuscrito
 
 ## ALABANZAS. 
 
-Aquí comienzan las Alabanzas que compuso el muy bendito Padre Francisco; y las rezaba a todas las Horas del día y de la noche y antes del Oficio de la Bienaventurada Virgen María, comenzando así: “Padre nuestro, santísimo, que estás en el cielo”, etc., con “Gloria al Padre”. Luego se deben decir las Alabanzas, Santo, Santo, etc. [^533] 
+Aquí comienzan las Alabanzas que compuso el muy bendito Padre Francisco; y las rezaba a todas las Horas del día y de la noche y antes del Oficio de la Bienaventurada Virgen María, comenzando así: «Padre nuestro, santísimo, que estás en el cielo», etc., con «Gloria al Padre». Luego se deben decir las Alabanzas, Santo, Santo, etc. [^533] 
 
 _Padre nuestro_, santísimo, nuestro Creador, Redentor y Consolador. 
 
@@ -139,7 +139,7 @@ Dios Todopoderoso, santísimo, altísimo y supremo, sumo bien, todo bien, comple
 
 [^530]: 137:4 Véase Analekten, pág. 75.
 
-[^531]: 138:1 “También ordenó y ordenó que se observara estrictamente que cualquier fraile que, ya sea estando sin hacer nada o trabajando con los demás, pronunciara palabras ociosas, rezara un Padrenuestro, alabando a Dios al principio y al final de la oración; y si consciente de su falta se acusa a sí mismo, rezará el Padrenuestro y las Alabanzas del Señor por su propia alma. . . . Y si con testimonio confiable se demuestra que ha usado palabras ociosas, repetirá las Alabanzas del Señor al principio y al final en voz alta para que sea escuchado y entendido por los frailes circundantes”, etc. Más adelante leemos: “El Santísimo Padre siempre rezaba las Alabanzas del Señor él mismo, y con ardiente deseo enseñó e inculcó en los frailes que debían decirlas con cuidado y devoción”. Véase _Spec. Perf._ (ed. Sabatier), c. 82. He citado este pasaje de la traducción de Lady de la Warr, págs. 121-122. Véase también _Opuscules_, fasc. x, pág. 137, donde M. Sabatier, hablando de la relación del _Speculum_ con las Alabanzas, dice: “Les deux documents se correspondant, se corroborent et se garantissent l'un l'autre”. 
+[^531]: 138:1 «También ordenó y ordenó que se observara estrictamente que cualquier fraile que, ya sea estando sin hacer nada o trabajando con los demás, pronunciara palabras ociosas, rezara un Padrenuestro, alabando a Dios al principio y al final de la oración; y si consciente de su falta se acusa a sí mismo, rezará el Padrenuestro y las Alabanzas del Señor por su propia alma. . . . Y si con testimonio confiable se demuestra que ha usado palabras ociosas, repetirá las Alabanzas del Señor al principio y al final en voz alta para que sea escuchado y entendido por los frailes circundantes», etc. Más adelante leemos: «El Santísimo Padre siempre rezaba las Alabanzas del Señor él mismo, y con ardiente deseo enseñó e inculcó en los frailes que debían decirlas con cuidado y devoción». Véase _Spec. Perf._ (ed. Sabatier), c. 82. He citado este pasaje de la traducción de Lady de la Warr, págs. 121-122. Véase también _Opuscules_, fasc. x, pág. 137, donde M. Sabatier, hablando de la relación del _Speculum_ con las Alabanzas, dice: «Les deux documents se correspondant, se corroborent et se garantissent l'un l'autre». 
 
 [^532]: 138:2 Las _Conformities_, edición de 1510, dan el texto completo como obra de San Francisco. 
 

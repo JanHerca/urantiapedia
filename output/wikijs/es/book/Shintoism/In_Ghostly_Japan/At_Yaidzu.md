@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p225">[<sup><small>pág. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 ## I
 
@@ -57,31 +57,31 @@ Incluso en el momento de esta reflexión, comencé a dudar si estaba realmente s
 
 Al tocar de nuevo las piedras, me sobresalté al ver dos sombras blancas delante de mí; pero una voz amable, preguntando si el agua estaba fría, me tranquilizó. Era la voz de mi antiguo propietario, Otokichi el vendedor de pescado, que había venido a buscarme acompañado de su esposa.
 
-“Solo un agradable frescor”, respondí mientras me ponía la bata para ir a casa con ellos.
+«Solo un agradable frescor», respondí mientras me ponía la bata para ir a casa con ellos.
 
 —Ah —dijo la esposa—, ¡no es bueno salir allí la noche del Bon!
 
-“No fui muy lejos”, respondí; “sólo quería mirar las linternas”.
+«No fui muy lejos», respondí; «sólo quería mirar las linternas».
 
-“Incluso un Kappa se ahoga a veces”, protestó Otokichi. “Había un hombre de este
+«Incluso un Kappa se ahoga a veces», protestó Otokichi. “Había un hombre de este
 
 \[1. Este es un proverbio común: Kappa mo _oboré-shini_. El Kappa es un duende del agua, que ronda especialmente los ríos.\] <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>aldea que nadó siete _ri_ a casa, con mal tiempo, después de que su bote se rompiera. Pero después se ahogó.
 
 Siete _ri_ significan poco menos de dieciocho millas. Pregunté si alguno de los jóvenes que viven ahora en el asentamiento podría hacer lo mismo.
 
-“Probablemente algunos sí”, respondió el anciano. “Hay muchos nadadores fuertes. Todos nadan aquí, incluso los niños pequeños. Pero cuando los pescadores nadan así, es solo para salvar sus vidas”.
+«Probablemente algunos sí», respondió el anciano. «Hay muchos nadadores fuertes. Todos nadan aquí, incluso los niños pequeños. Pero cuando los pescadores nadan así, es solo para salvar sus vidas».
 
-“O hacer el amor”, añadió la esposa, “como la muchacha Hashima”.
+«O hacer el amor», añadió la esposa, «como la muchacha Hashima».
 
-“¿Quién?” pregunté.
+«¿Quién?» pregunté.
 
-“La hija de un pescador”, dijo Otokichi.
+«La hija de un pescador», dijo Otokichi.
 
 Tenía un amante en Ajiro, a varios ri de distancia; y solía nadar hasta él por la noche y regresar por la mañana. Él mantenía una luz encendida para guiarla. Pero una noche oscura, la luz se descuidó, o se apagó; ella se extravió y se ahogó... La historia es famosa en idzu.
 
 —"Entonces", me dije, "en el Lejano Oriente, es el pobre Hero quien nada. ¿Y cuál habría sido, en tales circunstancias, la opinión occidental sobre Leandro?"
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## III
 
@@ -89,7 +89,7 @@ Normalmente, alrededor de la época del Bon, el mar se pone agitado; y no me sor
 
 Era un oleaje largo y lento, masivo y formidable. A veces, justo antes de romper, una ola imponente se quebraba en toda su verde longitud con un tintineo como de cristal estremecido; luego caía y se aplanaba con un repiqueteo que sacudía la pared debajo de mí... Pensé en el gran general ruso muerto que hizo que su ejército se agitara como un mar, ola tras ola de acero, trueno tras trueno... Apenas había viento; pero debía de haber un tiempo salvaje en otra parte, y las olas rompían cada vez más. Su movimiento fascinaba. ¡Cuán indescriptiblemente complejo es ese movimiento, y a la vez cuán eternamente nuevo! ¿Quién podría describir con todo detalle ni siquiera cinco minutos de él? Ningún mortal vio jamás dos olas romper exactamente de la misma manera.
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Y probablemente ningún mortal haya visto jamás el oleaje del océano ni oído su estruendo sin sentirse serio. He observado que incluso los animales —caballos y vacas— se vuelven meditativos en presencia del mar: se quedan de pie, observando y escuchando como si la visión y el sonido de esa inmensidad les hicieran olvidar todo lo demás.
 
@@ -101,7 +101,7 @@ Pero la fantasía primitiva puede despertarse con mayor intensidad en la oscurid
 
 Largo rato permanecí despierto aquella noche, escuchando los truenos y el estruendo de la poderosa marea. Más profundo que estos claros estruendos y el embate de las olas más cercanas, se oía el bajo de las olas lejanas: un murmullo abismal e incesante que hacía temblar el edificio; un sonido que a la imaginación le parecía el pisoteo de una caballería infinita, la concentración de una artillería incalculable, una especie de ráfaga, desde el amanecer, de ejércitos tan vastos como el mundo.
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Entonces me encontré pensando en el vago terror con el que, de niño, había escuchado la voz del mar; y recordé que años después, en diferentes costas de diferentes partes del mundo, el sonido de las olas siempre había reavivado la emoción infantil. Ciertamente, esta emoción era milenios más antigua que yo: la herencia de innumerables terrores ancestrales. Pero pronto me convencí de que el miedo al mar por sí solo podía representar solo un elemento del inmenso asombro que despertaba su voz. Pues mientras escuchaba esa marea salvaje de la costa de Suruga, podía distinguir casi todos los sonidos de terror conocidos por el hombre: no solo los tremendos ruidos de una batalla, de descargas interminables, de cargas inconmensurables, sino el rugido de las bestias, el crepitar y silbar del fuego, el estruendo del terremoto, el estruendo de la ruina y, sobre todo esto, un clamor continuo como de gritos y gritos ahogados, las voces que se dice son las de los ahogados. ¡Un tumulto de horror supremo, que combinaba todos los ecos imaginables de furia, destrucción y desesperación!
 

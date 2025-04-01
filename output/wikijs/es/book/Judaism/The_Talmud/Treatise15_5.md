@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p276">[<sup><small>pág. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 1\. «Toda duda en la lepra es pureza, excepto esta que acabamos de mencionar, y otra más, ¿y qué es?» «Uno en quien había una mancha blanca tan grande como tres lentejas cuadradas, y el sacerdote la cubrió. Al cabo de siete días, era tan grande como un selah. [^596] Es dudoso que sea eso. Es dudoso que otra persona haya estado debajo. Es impuro.»
 

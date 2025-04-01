@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:58:58Z
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_1">
-          <span class="pr-2">Apéndice I. El rey Khing Käng, o “el clásico de la pureza”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice I. El rey Khing Käng, o «el clásico de la pureza»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 EL THAI-SHANG
 
@@ -106,7 +106,7 @@ Si alguien ha cometido actos malvados, pero luego cambia de actitud y se arrepie
         </td>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_2/Appendix_1">
-          <span class="pr-2">Apéndice I. El rey Khing Käng, o “el clásico de la pureza”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice I. El rey Khing Käng, o «el clásico de la pureza»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -166,7 +166,7 @@ Si alguien ha cometido actos malvados, pero luego cambia de actitud y se arrepie
 
 [^541]: 245:1 Estas sentencias son bastante débiles. No se menciona ninguna compensación para los robados. El ladrón es castigado con la muerte de otros o la pérdida de sus bienes.
 
-[^542]: 245:2 Una frase un tanto desconcertante. Julien lo expresa así: “Quienes matan a hombres inocentes se parecen a enemigos que intercambian sus armas y se matan entre sí”. y Watters:—'Aquellos que matan a otros injustamente son como hombres que intercambian armas y se matan entre sí.'
+[^542]: 245:2 Una frase un tanto desconcertante. Julien lo expresa así: «Quienes matan a hombres inocentes se parecen a enemigos que intercambian sus armas y se matan entre sí». y Watters:—'Aquellos que matan a otros injustamente son como hombres que intercambian armas y se matan entre sí.'
 
 [^543]: 245:3 Literalmente, 'comida remojada que se ha echado a perder por el goteo de agua'.
 

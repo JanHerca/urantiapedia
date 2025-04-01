@@ -66,7 +66,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v5_4_1_1515"><sup><small>5:4:1:1515.</small></sup></span> Entonces alza sus brazos, con (Vâ<i>g</i>. S. X, 16 [^186]), «¡De cuerpo dorado, vosotros dos señores, ascended como el sol: ¡montad al carro, oh Mitra y Varun, y desde allí contemplad a Aditi y Diti!». Mitra y Varun son, en verdad, los dos brazos, y el carro (asiento) es el hombre: por eso dice: «¡Montad al carro, oh Mitra y Varun!» —«¡desde allí contemplad a Aditi y Diti!». Con esto quiere decir: «Ved vuestra propia (propiedad) y la de los demás».
 
-<span id="v5_4_1_1616"><sup><small>5:4:1:1616.</small></sup></span> Que no levante (los brazos del rey) con esa, sino que los levante más bien diciendo: «Tú eres Mitra, tú eres Varu<i>n</i>a»; pues Mitra-Varu<i>n</i>a son los dos brazos, y por sus brazos el Râ<i>g</i>anya pertenece a Mitra y Varu<i>n</i>a: que levante, por tanto, sus brazos diciendo: «Tú eres Mitra, tú eres Varu<i>n</i>a». <span id="p94">[<sup><small>pág. 94</small></sup>]</span> 5:4:1:1717\. Y en cuanto a por qué lo unge (de pie) con los brazos extendidos; —esos brazos en verdad son el poder del Râ<i>g</i>anya, y el poder también es esa esencia reunida de las aguas con las que ahora lo unge: 'No sea que ese poder, la esencia reunida de las aguas, pese (paralice) este poder mío, los brazos', así piensa, y por lo tanto lo unge (de pie) con los brazos extendidos.
+<span id="v5_4_1_1616"><sup><small>5:4:1:1616.</small></sup></span> Que no levante (los brazos del rey) con esa, sino que los levante más bien diciendo: «Tú eres Mitra, tú eres Varu<i>n</i>a»; pues Mitra-Varu<i>n</i>a son los dos brazos, y por sus brazos el Râ<i>g</i>anya pertenece a Mitra y Varu<i>n</i>a: que levante, por tanto, sus brazos diciendo: «Tú eres Mitra, tú eres Varu<i>n</i>a». <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 5:4:1:1717\. Y en cuanto a por qué lo unge (de pie) con los brazos extendidos; —esos brazos en verdad son el poder del Râ<i>g</i>anya, y el poder también es esa esencia reunida de las aguas con las que ahora lo unge: 'No sea que ese poder, la esencia reunida de las aguas, pese (paralice) este poder mío, los brazos', así piensa, y por lo tanto lo unge (de pie) con los brazos extendidos.
 
 
 <span id="v5_4_2"><sup><small>5:4:2</small></sup></span>
@@ -89,7 +89,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v5_4_2_99"><sup><small>5:4:2:99.</small></sup></span> Luego regresa al fuego Gârhapatya, (su hijo) sujetándolo por detrás, y ofrece, con (Vâ<i>g</i>. S. X, 20), 'Oh Pra<i>g</i>âpati, ningún otro que tú haya abarcado todas estas formas: pues cualquier objeto que sacrifiquemos, ¡que nos corresponda! —¡Este es el padre de NN!' —a aquel que es el hijo, él lo hace el padre, y a aquel que es el padre, él lo hace el hijo [^192]: de este modo une el vigor de ambos. —'¡NN es el padre de este!' aquel que es el padre, él hace al padre, y aquel que es el hijo, él hace al hijo: después de unir el vigor de estos dos, lo vuelve a expresar de la manera adecuada: "¡Que seamos los señores de las riquezas, salve!" - ésta es la bendición de esa ceremonia, una bendición que con ello invoca.
 
-<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span> Y cualquier residuo que sobre, lo ofrece en el Âgnîdhrîya; pues ese residuo es redundante, y también lo es el Âgnîdhrîya. En el Gârhapatya se cocinan las oblaciones, y en el Âhavanîya se ofrecen, pero ese es redundante: así, pone lo redundante con lo redundante. Lo ofrece en la parte norte (del hogar), pues esa es la región de ese dios (Rudra): por lo tanto, lo ofrece en la parte norte <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>. Él ofrece: 'Oh Rudra, cualquiera que sea el nombre más alto y potente [1](Book_3_5_4#fn193), tuyo, en él eres una ofrenda, eres una ofrenda para el hogar, ¡salve!'
+<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span> Y cualquier residuo que sobre, lo ofrece en el Âgnîdhrîya; pues ese residuo es redundante, y también lo es el Âgnîdhrîya. En el Gârhapatya se cocinan las oblaciones, y en el Âhavanîya se ofrecen, pero ese es redundante: así, pone lo redundante con lo redundante. Lo ofrece en la parte norte (del hogar), pues esa es la región de ese dios (Rudra): por lo tanto, lo ofrece en la parte norte <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>. Él ofrece: 'Oh Rudra, cualquiera que sea el nombre más alto y potente [1](../Book_3_5_4#fn193), tuyo, en él eres una ofrenda, eres una ofrenda para el hogar, ¡salve!'
 
 
 <span id="v5_4_3"><sup><small>5:4:3</small></sup></span>
@@ -218,7 +218,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v5_4_5_33"><sup><small>5:4:5:33.</small></sup></span> Y como allí roba tras (anu-sam-sri) con esas deidades, de ahí el nombre Sam sri pah. Y como se consagra al décimo día, esta ceremonia se llama Das apeya [^223]. Y como cada vez que diez hombres roban tras cada copa, también se llama Das apeya.
 
-<span id="v5_4_5_44"><sup><small>5:4:5:44.</small></sup></span> Aquí ahora dicen: "Que se escabulla después de enumerar diez abuelos bebedores de Soma [^225]: es así que obtiene para sí mismo la bebida de Soma de este (Da<i>s</i>apeya), porque es una “bebida de diez”. Pero eso es una sobrecarga [^226], porque la gente (podrá <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>) obtener solo dos o tres abuelos bebedores de Soma: por lo tanto, que se escabulla después de enumerar esas mismas deidades [^227].
+<span id="v5_4_5_44"><sup><small>5:4:5:44.</small></sup></span> Aquí ahora dicen: "Que se escabulla después de enumerar diez abuelos bebedores de Soma [^225]: es así que obtiene para sí mismo la bebida de Soma de este (Da<i>s</i>apeya), porque es una «bebida de diez». Pero eso es una sobrecarga [^226], porque la gente (podrá <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>) obtener solo dos o tres abuelos bebedores de Soma: por lo tanto, que se escabulla después de enumerar esas mismas deidades [^227].
 
 <span id="v5_4_5_55"><sup><small>5:4:5:55.</small></sup></span> Porque, sin duda, fue por esas mismas deidades que Varu<i>n</i>a obtuvo la bebida de soma de esa (ceremonia de Consagración); y de la misma manera, este obtiene ahora la bebida de soma de esa (ceremonia): que se escabulla, por lo tanto, después de enumerar esas mismas deidades. Ahora bien, tan pronto como la oblación completa [^228] de esa ceremonia de Consagración llegue a su fin,—
 
@@ -286,13 +286,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^184]: 90:1 Lohâyasa, literalmente, 'metal rojo', aparentemente cobre, o una aleación de cobre y algún otro metal. El eunuco está sentado en el Sadas.
 
-[^185]: 91:1 Esto fue extendido frente al hogar del Maitrâvaru<i>n</i>a, ver [V, 3, 5, 3](Book_3_5_3#v5_3_5_3).
+[^185]: 91:1 Esto fue extendido frente al hogar del Maitrâvaru<i>n</i>a, ver [V, 3, 5, 3](../Book_3_5_3#v5_3_5_3).
 
 [^186]: 93:1 En <i>Ri</i>k S. V, 62, 8 el verso dice así:—Al resplandor del alba, al salir el sol, vosotros, oh Mitra y Varu<i>n</i>a, montad en vuestro carro de forma dorada y pilares de hierro; desde allí contemplad a Aditi y Diti (? el espacio ilimitado y lo limitado).
 
-[^187]: 94:1 Mientras que la fórmula precedente es usada por el sacerdote, la presente y las dos siguientes (cada una con las palabras '... yo te rocío; ¡guárdalo de los dardos!') son pronunciadas por las otras tres personas especificadas en [V, 3, 5, 12](Book_3_5_3#v5_3_5_12)\-[14](Book_3_5_3#v5_3_5_14), cada una rociando al rey con el agua en su respectivo recipiente.
+[^187]: 94:1 Mientras que la fórmula precedente es usada por el sacerdote, la presente y las dos siguientes (cada una con las palabras '... yo te rocío; ¡guárdalo de los dardos!') son pronunciadas por las otras tres personas especificadas en [V, 3, 5, 12](../Book_3_5_3#v5_3_5_12)\-[14](../Book_3_5_3#v5_3_5_14), cada una rociando al rey con el agua en su respectivo recipiente.
 
-[^188]: 94:2 Mahîdhara explica: “Oh Soma, protégelo, el Sacrificador, para que pueda vencer los misiles del enemigo”.
+[^188]: 94:2 Mahîdhara explica: «Oh Soma, protégelo, el Sacrificador, para que pueda vencer los misiles del enemigo».
 
 [^189]: 95:1 Ya sea en este momento o después de la partida de dados, el Hotri recita la leyenda de Sunahseph, según Ait. Br. VII, 13-18.—«El rey Hariskandra, de la raza de los Ikshvâku, al no tener hijos, hizo voto de que si tenía un hijo lo sacrificaría a Varuna. Nació un hijo, que recibió el nombre de Rohita, pero el padre pospuso, con diversos pretextos, el cumplimiento de su voto. Cuando finalmente decidió realizar el sacrificio, Rohita se negó a ser la víctima y se internó en el bosque, donde vivió seis años.» Entonces conoció a un brahmán pobre llamado Agîgarta, que tenía tres hijos, y Rohita le compró a Agîgarta, por cien vacas, al segundo hijo, llamado Sunahsepha, para que fuera su sustituto en el sacrificio. Varuna aprobó el sustituto, y el sacrificio estaba a punto de realizarse. El padre recibió otras cien vacas por atar a su hijo al poste sacrificial, y otras cien por aceptar sacrificarlo. Sunahsepha, sin embargo, se salvó recitando versos en honor a diferentes deidades, y fue recibido en la familia de Visvâmitra, uno de los sacerdotes oficiantes. Dowson, Dict. de Mitología Hindú.
 
@@ -306,7 +306,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^194]: 98:2 Ahora me inclino a pensar que algún significado como 'probablemente, quizás' (más precisamente, el alemán 'wohl'), encaja en todos los pasajes (en el Brâhma<i>n</i>as en todo caso) donde aparece <i>s</i>a<i>s</i>vat.
 
-[^195]: 98:3 Véase arriba, [V, 1, 4, 3](Book_3_5_1#v5_1_4_3) seq.
+[^195]: 98:3 Véase arriba, [V, 1, 4, 3](../Book_3_5_1#v5_1_4_3) seq.
 
 [^196]: 99:1 Pra<i>s</i>âst<i>ri</i>, 'el director', es también otro nombre para el sacerdote Maitrâvaru<i>n</i>a.
 
@@ -324,7 +324,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^203]: 102:1 ? O, significa vigor, Indra.
 
-[^204]: 103:1 O quizás, «en el mejor lugar (vara)». Véase [VI, 7, 3, 11](Book_3_6_7#v6_7_3_11).
+[^204]: 103:1 O quizás, «en el mejor lugar (vara)». Véase [VI, 7, 3, 11](../Book_3_6_7#v6_7_3_11).
 
 [^205]: 104:1 Según Taitt. Br. I, 7, 9, 6, se supone que el rey, al regresar al Vedi, ascendió al mundo celestial (suvargaloka), del cual el auriga debe ser excluido por este expediente.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^212]: 110:1 Es decir, aumentador de la prosperidad de sí mismo y de su pueblo.
 
-[^213]: 111:1 Véase [p. 60](Book_3_5_3#p60), nota \*[1](Book_3_5_3#fn129)\*.
+[^213]: 111:1 Véase [p. 60](../Book_3_5_3#p60), nota \*[1](../Book_3_5_3#fn129)\*.
 
 [^214]: 111:2 El sa<i>g</i>âta parecería ser uno de los propietarios campesinos o 'compartidores' que constituyen la 'hermandad' de la aldea gobernada por el jefe, y que a menudo pertenecen en realidad a la misma familia que este último (Gaugenosse, miembro del clan).
 
@@ -370,19 +370,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^226]: 114:5 Es decir, una exigencia excesiva, o bien, un peso o aplastamiento del sacrificador, haciéndole imposible realizar la ceremonia en absoluto.
 
-[^227]: 115:1 Es decir, después de pronunciar el mantra, Vâ<i>g</i>. S. X, 30. concordando en parte con el [párrafo 2](Book_3_5_4#v5_4_5_2) anterior, a saber, comenzando, 'Por Savi<i>tri</i>, el impulsor; por Sarasvatî, el habla,' . . . y terminando, 'por Vish<i>n</i>u, la décima deidad, impulsado me escabullo'.
+[^227]: 115:1 Es decir, después de pronunciar el mantra, Vâ<i>g</i>. S. X, 30. concordando en parte con el [párrafo 2](../Book_3_5_4#v5_4_5_2) anterior, a saber, comenzando, 'Por Savi<i>tri</i>, el impulsor; por Sarasvatî, el habla,' . . . y terminando, 'por Vish<i>n</i>u, la décima deidad, impulsado me escabullo'.
 
 [^228]: 115:2 Para el Udavasânîyâ ish<i>t</i>i, véase la parte ii, pág. 389.
 
 [^229]: 115:3 Las flores de loto presentadas en esta ocasión son de oro, según Sâya<i>n</i>a, u opcionalmente, blancas o doradas comunes, según Kâty. XV, 8, 5-6.
 
-[^230]: 116:1 Para el Upasad, u oblaciones preliminares de ghee a Agni, Soma y Vish<i>n</i>u, que se deben realizar dos veces al día durante (generalmente) los tres días anteriores a un sacrificio Soma ordinario, véase la parte ii, pág. 104. En el Da<i>s</i>apeya, las diez oblaciones Sa<i>m</i>s<i>ri</i>p toman, por así decirlo, el lugar de los Upasads ordinarios, realizándose estos últimos en los últimos tres días preliminares junto con, y para las mismas deidades que, las últimas tres oblaciones Sa<i>m</i>s<i>ri</i>p; o, según algunas autoridades, siendo sustituidas por la pág. 117. Parece haber también cierta diferencia de opinión en cuanto al momento exacto en que deben celebrarse las demás ceremonias preliminares (la procesión y entrada del rey Soma, la comida de los invitados, etc.); véase el [párrafo 15](Book_3_5_4#v5_4_5_15). Según Kâty. XV, 8,14, estas ceremonias deben celebrarse el séptimo día (que el comentarista, sin embargo, interpreta como el séptimo día de la quincena de luz de <i>K</i>aitra; las primeras siete oblaciones de Sa<i>m</i>s<i>ri</i>p, según él, se realizaron el día anterior). Sin embargo, los Kâ<i>n</i>vas realizan estas ofrendas en días distintos. Las autoridades de Taittirîya también parecen discrepar en cuanto a la relación exacta entre los Upasads y las tres últimas oblaciones de Sa<i>m</i>s<i>ri</i>p, pues las deidades de ambos son, según su esquema, solo parcialmente idénticas. Según Âpastamba (y Taitt. Br.), los primeros siete Sa<i>m</i>s<i>ri</i>ps se realizan en tantos días y, además, una Dîkshâ en el séptimo día. Luego, en los últimos tres días, los Samsirips y Upasads se combinan de esta manera: el Samsirips del octavo día se realiza antes, el noveno entre ellos y el décimo después de las dos Upasads diarias. Cada una de las diez oblaciones también requiere un conjunto especial de fuegos para su realización: el primero se coloca inmediatamente al norte del usado para la ceremonia del Abhishekanîya, el segundo inmediatamente al norte del primero, etc.; la última oblación del Samsirips se realiza en el cobertizo de fuego (sâlâ) del Dasapeya propiamente dicho. Kâty. XV, 8, 2-3; cf. Taitt. S., vol. ii, pág. 176.
+[^230]: 116:1 Para el Upasad, u oblaciones preliminares de ghee a Agni, Soma y Vish<i>n</i>u, que se deben realizar dos veces al día durante (generalmente) los tres días anteriores a un sacrificio Soma ordinario, véase la parte ii, pág. 104. En el Da<i>s</i>apeya, las diez oblaciones Sa<i>m</i>s<i>ri</i>p toman, por así decirlo, el lugar de los Upasads ordinarios, realizándose estos últimos en los últimos tres días preliminares junto con, y para las mismas deidades que, las últimas tres oblaciones Sa<i>m</i>s<i>ri</i>p; o, según algunas autoridades, siendo sustituidas por la pág. 117. Parece haber también cierta diferencia de opinión en cuanto al momento exacto en que deben celebrarse las demás ceremonias preliminares (la procesión y entrada del rey Soma, la comida de los invitados, etc.); véase el [párrafo 15](../Book_3_5_4#v5_4_5_15). Según Kâty. XV, 8,14, estas ceremonias deben celebrarse el séptimo día (que el comentarista, sin embargo, interpreta como el séptimo día de la quincena de luz de <i>K</i>aitra; las primeras siete oblaciones de Sa<i>m</i>s<i>ri</i>p, según él, se realizaron el día anterior). Sin embargo, los Kâ<i>n</i>vas realizan estas ofrendas en días distintos. Las autoridades de Taittirîya también parecen discrepar en cuanto a la relación exacta entre los Upasads y las tres últimas oblaciones de Sa<i>m</i>s<i>ri</i>p, pues las deidades de ambos son, según su esquema, solo parcialmente idénticas. Según Âpastamba (y Taitt. Br.), los primeros siete Sa<i>m</i>s<i>ri</i>ps se realizan en tantos días y, además, una Dîkshâ en el séptimo día. Luego, en los últimos tres días, los Samsirips y Upasads se combinan de esta manera: el Samsirips del octavo día se realiza antes, el noveno entre ellos y el décimo después de las dos Upasads diarias. Cada una de las diez oblaciones también requiere un conjunto especial de fuegos para su realización: el primero se coloca inmediatamente al norte del usado para la ceremonia del Abhishekanîya, el segundo inmediatamente al norte del primero, etc.; la última oblación del Samsirips se realiza en el cobertizo de fuego (sâlâ) del Dasapeya propiamente dicho. Kâty. XV, 8, 2-3; cf. Taitt. S., vol. ii, pág. 176.
 
 [^231]: 117:1 Es decir, al comienzo del Abhishe<i>k</i>anîya, o ceremonia de Consagración, cuando se compran suficientes plantas de Soma para que duren tanto para esa ceremonia como para la Da<i>s</i>apeya siguiente; mientras tanto, la porción destinada a esta última ceremonia se deposita en la casa del Brahman.
 
 [^232]: 118:1 Todos los cantos (stotra) del Da<i>s</i>apeya deben ser ejecutados en el modo de canto de diecisiete pasos, o Saptada<i>s</i>a-stoma; para un ejemplo de esto, véase la parte ii, pág. 315, nota 1.
 
-[^233]: 119:1 Véase [p. 8](Book_3_5_1#p8), nota \*[1](Book_3_5_1#fn39)\*.
+[^233]: 119:1 Véase [p. 8](../Book_3_5_1#p8), nota \*[1](../Book_3_5_1#fn39)\*.
 
 [^234]: 119:2 El texto tiene 'gam agnîdhe', es decir, 'un toro' o 'una vaca'. Así también Katy. XV. 8, 27. Sâya<i>n</i>a, sin embargo, se refiere a otra autoridad, —ana<i>d</i>vâham agnîdha iti sûtritam, . . . vahnir vâ ana<i>d</i>van iti hi taittirîyakam.
 

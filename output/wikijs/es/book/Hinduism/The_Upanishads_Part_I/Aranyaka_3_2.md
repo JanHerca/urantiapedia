@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 SEGUNDO ADHYÂYA [^652].
 
@@ -48,7 +48,7 @@ SEGUNDO ADHYÂYA [^652].
 
 5\. Quien conoce así este ser, que consiste en vista, oído, métrica, mente y habla, como si fuera un día, logra unión, semejanza o cercanía con los días, tiene hijos y ganado, y vive su edad adulta.
 
-<span id="p258">[<sup><small>pág. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -71,7 +71,7 @@ SEGUNDO ADHYÂYA [^652].
 9. Quien conoce este ser, que consiste en vista, oído, métrica, mente y habla, como sílabas, logra unión, semejanza o proximidad con las sílabas, tiene hijos y ganado, y vive su edad adulta.
 
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -83,7 +83,7 @@ SEGUNDO ADHYÂYA [^652].
 
 4\. Lo que llamamos la persona de los metros es este conjunto de letras (el Veda). Su esencia es la vocal a.
 
-5\. Lo que llamamos la persona del Veda es (la mente) mediante la cual conocemos los Vedas, el Rig-veda, el Yagur-veda y el Sama-veda. Su esencia es Brahman [^660](m.)
+5\. Lo que llamamos la persona del Veda es (la mente) mediante la cual conocemos los Vedas, el Rig-veda, el Yagur-veda y el Sama-veda. Su esencia es Brahman [^660](../m.)
 
 6\. Por lo tanto, que uno elija un sacerdote brahmán que esté lleno de Brahman (el Veda) y sea capaz de ver cualquier defecto en el sacrificio.
 
@@ -209,7 +209,7 @@ A continuación se presentan algunas reglas más sobre la lectura del Veda en ge
 
 19\. «Éste (el Veda así aprendido y estudiado) es el nombre de ese Gran Ser; y quien así conoce el nombre de ese Gran Ser, se convierte en Brahman, sí, se convierte en Brahman.»
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span> pág. 268
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span> pág. 268
 
 <figure class="table chapter-navigator">
   <table>

@@ -68,7 +68,7 @@ El monje debe buscar un alojamiento apartado, libre de mujeres y no frecuentado 
 
 Un monje casto debe evitar hablar con mujeres, lo cual deleita la mente y fomenta el amor y la pasión. (2)
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Un monje casto debe evitar siempre la compañía y la conversación frecuente con mujeres. (3)
 
@@ -130,9 +130,9 @@ Así lo digo.
 
 ## Notas al pie
 
-[^197]: 73:1 La palabra «aquí» se explica como «en esta religión de los Gainas». Véase [p. 8](Uttaradhyayana_1#p8), nota [5](Uttaradhyayana_2#fn74).
+[^197]: 73:1 La palabra «aquí» se explica como «en esta religión de los Gainas». Véase [p. 8](../Uttaradhyayana_1#p8), nota [5](../Uttaradhyayana_2#fn74).
 
-[^198]: 73:2 Sa<i>m</i>vara es la detención de los âsravas por medio de los Samitis y los Guptis, ver arriba, [p. 55](Uttaradhyayana_12#p55), nota [1](Uttaradhyayana_12#fn165).
+[^198]: 73:2 Sa<i>m</i>vara es la detención de los âsravas por medio de los Samitis y los Guptis, ver arriba, [p. 55](../Uttaradhyayana_12#p55), nota [1](../Uttaradhyayana_12#fn165).
 
 [^199]: 74:1 Literalmente, camas y asientos.
 

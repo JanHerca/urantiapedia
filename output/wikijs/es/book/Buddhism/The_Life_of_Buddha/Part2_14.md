@@ -32,20 +32,20 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 
 En ese momento, las mujeres del palacio vinieron a rendir homenaje al Maestro. Gopa, solo,
 
 Faltaba. El rey manifestó su sorpresa.
 
-“Le pedí que viniera con nosotros”, dijo Mahaprajapati. “‘No iré contigo’, respondió ella. ‘Quizás me falte virtud; quizá no merezca ver a mi esposo. Si no he hecho nada malo, él vendrá a mí por su propia voluntad, y entonces le mostraré el respeto que se merece’”.
+«Le pedí que viniera con nosotros», dijo Mahaprajapati. «‘No iré contigo’, respondió ella. ‘Quizás me falte virtud; quizá no merezca ver a mi esposo. Si no he hecho nada malo, él vendrá a mí por su propia voluntad, y entonces le mostraré el respeto que se merece’».
 
 El Maestro dejó su asiento y se dirigió a los aposentos de Gopa. Ella se había despojado de sus costosas vestiduras y sus suaves velos; había dejado a un lado sus brazaletes y collares; vestía una túnica rojiza, hecha de una tela tosca. Al verla así ataviada, sonrió de felicidad. Ella cayó a sus pies y lo adoró.
 
-“Mira”, dijo ella, “quería vestirme como tú; quería saber de tu vida para vivir como tú. Tú comes solo una vez al día, y yo solo como una vez al día. Dejaste de dormir en una cama; mira a tu alrededor: no verás ninguna cama, pues aquí está el banco donde duermo. Y de ahora en adelante <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> habré terminado con los dulces perfumes, y ya no me pondré flores en el pelo.”
+«Mira», dijo ella, «quería vestirme como tú; quería saber de tu vida para vivir como tú. Tú comes solo una vez al día, y yo solo como una vez al día. Dejaste de dormir en una cama; mira a tu alrededor: no verás ninguna cama, pues aquí está el banco donde duermo. Y de ahora en adelante <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> habré terminado con los dulces perfumes, y ya no me pondré flores en el pelo.»
 
-“Conocía tu gran virtud, Gopa”, respondió el Maestro. “No te ha fallado, y te alabo por ello. ¿Cuántas mujeres hay en este mundo que habrían tenido el valor de hacer lo que tú hiciste?”
+«Conocía tu gran virtud, Gopa», respondió el Maestro. «No te ha fallado, y te alabo por ello. ¿Cuántas mujeres hay en este mundo que habrían tenido el valor de hacer lo que tú hiciste?»
 
 Y sentándose, dijo estas palabras:
 

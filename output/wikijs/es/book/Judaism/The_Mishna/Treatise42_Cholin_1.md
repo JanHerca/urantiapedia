@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p325">[<sup><small>pág. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ### CAPÍTULO I.
 

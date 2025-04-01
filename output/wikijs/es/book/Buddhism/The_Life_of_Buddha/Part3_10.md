@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p253">[<sup><small>pág. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 
 El monje Devadatta poseía una naturaleza arrogante. Le impacientaba cualquier restricción. Aspiraba a suplantar al Buda, pero sabía que los monjes no se unirían a él en una revuelta abierta. Para ello necesitaba el apoyo de algún rey o príncipe.
@@ -47,7 +47,7 @@ Con estas palabras, Devadatta se ganó la confianza de Ajatasatru. Recibió much
 
 Maudgalyayana notó las frecuentes visitas de Devadatta al príncipe. Decidió advertir al Bendito.
 
-“Mi Señor”, comenzó, “Devadatta es muy amigo del Príncipe Ajatasatru”.
+«Mi Señor», comenzó, «Devadatta es muy amigo del Príncipe Ajatasatru».
 
 El Bendito lo interrumpió.
 
@@ -65,7 +65,7 @@ Devadatta se inclinó respetuosamente ante el Maestro, pero no pudo ocultar el f
 
 Entonces el Maestro mandó llamar al erudito Shariputra.
 
-“Sariputra”, dijo, “recorre la ciudad de Rajagriha y grita a viva voz: “¡Cuidado con Devadatta! Se ha desviado del camino de la rectitud. El Buda no es responsable de sus palabras ni de sus acciones; la ley ya no lo inspira, la comunidad ya no le interesa. De ahora en adelante, Devadatta solo habla por sí mismo.”
+«Sariputra», dijo, «recorre la ciudad de Rajagriha y grita a viva voz: “¡Cuidado con Devadatta! Se ha desviado del camino de la rectitud. El Buda no es responsable de sus palabras ni de sus acciones; la ley ya no lo inspira, la comunidad ya no le interesa. De ahora en adelante, Devadatta solo habla por sí mismo.»
 
 A Shariputra le afligía tener que cumplir una misión tan dolorosa; sin embargo, comprendió las razones del Maestro y recorrió la ciudad llorando la vergüenza de Devadatta. Los habitantes se detuvieron a escuchar, y algunos pensaron: «Los monjes envidian la amistad de Devadatta con el príncipe Ajatasatru». Pero otros dijeron: «Devadatta debe haber cometido una grave ofensa para que el Bendito lo denuncie públicamente».
 

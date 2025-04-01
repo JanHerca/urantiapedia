@@ -79,7 +79,7 @@ Ese hogar ermitaño y esa sombra tranquila,
 Soltó la cuerda de su poderoso arco y entonces
 Se acercó a los hombres santos.
 
-<span id="p230">[<sup><small>pág. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Con una aguda vista celestial dotada
 El jefe contempló a aquellos poderosos santos,
@@ -196,7 +196,7 @@ Mis labios beberán en la batalla.
 Habló: Y el desventurado hijo de Janak,
 Asustado por su discurso tan fiero y salvaje,
 
-<span id="p231">[<sup><small>pág. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Temblaba de terror, como un frágil
 El plátano joven tiembla bajo el viento.
@@ -323,7 +323,7 @@ Su poderosa lanza en el aire
 Del arco de Ráma volaron dos flechas.
 Y partió en dos aquella enorme lanza,
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Terrible como el levin llameante enviado
 Desde el firmamento nublado.
@@ -443,7 +443,7 @@ Ahora por tu favor soy libre.
 Del duro destino que Dios decretó,
 Y salvado, oh domador del enemigo,
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Por ti, al cielo volveremos otra vez.
 Una legua, oh Príncipe, más allá de este punto
@@ -508,7 +508,7 @@ Me alegré de verlo morir.
 Luego se extraviaron en el bosque sin límites,
 
 Como el gran sol y la luna mostrados
-Triunfante en el cielo. [1](Libro_3_10#fn410)
+Triunfante en el cielo. [1](../Libro_3_10#fn410)
 
 \* \* \* \* \*
 
@@ -561,7 +561,7 @@ Mientras Indra conversaba con el sabio.
 Entonces Ráma, cuando sus ojos asombrados
 Contempló al monarca de los cielos,
 
-<span id="p234">[<sup><small>pág. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 A Lakshman lo llamaron rápidamente y le mostraron
 El carro en el que viajaba el Señor Indra:
@@ -676,7 +676,7 @@ Quien alimenta la llama inextinguible, [^414] él se levantó:
 Más allá del asiento de los dioses pasó,
 Y la esfera de Brahmá finalmente fue conquistada.
 
-<span id="p235">[<sup><small>pág. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 El más noble de la raza dos veces nacida,
 Por las obras santas supremas en el lugar,
@@ -783,7 +783,7 @@ Espero el corazón de todos vosotros.
 Yo por mi propia causa guié
 Este poderoso bosque debe ser pisoteado,
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Y mientras cumpla el decreto de mi padre
 Vuestras vidas serán liberadas de los enemigos amenazantes.
@@ -897,7 +897,7 @@ Realizó cada rito habitual,
 Y buscó alojamiento para pasar la noche,
 Con Sítá y su hermano acostados
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Bajo la deliciosa sombra del bosque,
 El primer buen Sútíkshnu, cuando vio
@@ -1019,7 +1019,7 @@ Nunca fue encontrado, nunca será visto:
 El solo pensamiento, mi señor principesco,
 Se aborrece en lo secreto de tu alma.
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Porque tú siempre has sido el mismo
 Amante cariñoso de tu querida dama,
@@ -1133,7 +1133,7 @@ Ahora toma consejo con tu hermano,
 Reflexiona, haz tu elección con juicio,
 Y haz lo que te parezca mejor.'
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 
 

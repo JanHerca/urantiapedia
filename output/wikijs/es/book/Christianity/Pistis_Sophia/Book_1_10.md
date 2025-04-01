@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:53:4Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## EL PRIMER LIBRO DE PISTIS SOPHIA
 
@@ -108,7 +108,7 @@ Aconteció entonces que cuando los discípulos oyeron esta palabra, dijeron: «S
 
 Entonces Jesús atrajo hacia sí la gloria de su luz; y cuando esto sucedió, todos los discípulos cobraron valor, se acercaron a Jesús, se postraron todos juntos, lo adoraron, regocijándose con gran alegría, y le dijeron: «Rabí, ¿adónde has ido? ¿Cuál era tu ministerio para el que has ido? ¿O, mejor dicho, a qué se debieron todas estas confusiones y todos los terremotos que han ocurrido?».
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 <small>Él promete contarles todas las cosas.</small>
 
@@ -178,7 +178,7 @@ Ven a nosotros, pues todos nos acercamos a ti para revestirte con el Primer Mist
 
 Y en esta tercera vestidura, que acabamos de enviarte, se encuentra la gloria del nombre del misterio del Revelador, que es el Primer Mandamiento, y del misterio de las cinco Impresiones, y del misterio del gran Enviado del Inefable, que es la gran Luz, y del misterio de los cinco Guías, que son los cinco Ayudantes. Además, en esta vestidura se encuentra la gloria del nombre del misterio de todas las órdenes de las emanaciones del Tesoro de la Luz y de sus salvadores, y del misterio de las órdenes de las órdenes, que son los siete Amēns, las siete Voces, los cinco Árboles, los tres Amēns y el Salvador Gemelo, que es el Niño del Niño, y del misterio de los nueve guardianes de las tres puertas del Tesoro de la Luz. Allí se encuentra, además, toda la gloria del nombre de todos aquellos que están en la Derecha y de todos aquellos que están en el Medio. Y además, allí se encuentra toda la gloria del nombre del gran Invisible, **(19)** que es el gran Antepasado, y el misterio de los tres triples poderes y el misterio de toda su región y el misterio de todos sus invisibles y de todos aquellos que están en el decimotercer Aeón, y el nombre de los doce Aeones y de todos sus gobernantes y todos sus arcángeles y todos sus ángeles y de todos aquellos que están en los doce Aeones, y todo el misterio del nombre de todos aquellos que están en el Destino y en todos los cielos, y todo el misterio del nombre de todos aquellos que están en la esfera, y de sus firmamentos y de todos los que están en ellos, y de todas sus regiones.
 
-El día de “ven a nosotros”
+El día de «ven a nosotros»
 
 “He aquí, pues, que te hemos enviado esta vestidura, que nadie conocía desde el Primer Mandamiento <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> hacia abajo, pues la gloria de su luz estaba oculta en ella, y las esferas y todas las regiones desde el Primer Mandamiento hacia abajo \[no la han conocido\]. Date prisa, pues, vístete con esta vestidura y ven a nosotros. Pues nos acercamos a ti para revestirte, por mandato del Primer Misterio, con tus dos vestiduras \[otras\] que existieron para ti desde el principio con el Primer Misterio hasta que se complete el tiempo señalado por el Inefable. **(20)** Ven, pues, pronto a nosotros, para que te las pongamos, hasta que hayas cumplido el ministerio total de la perfección del Primer Misterio que ha sido señalado por el Inefable. Ven, pues, pronto a nosotros, para que podamos Te revestiré de ellas, según el mandato del Primer Misterio. Porque dentro de poco, muy poco, vendrás con nosotros y dejarás el mundo. Ven, pues, pronto, para que recibas toda tu gloria, que es la gloria del Primer Misterio.
 

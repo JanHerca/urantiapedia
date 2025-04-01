@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-<span id="p568">[<sup><small>pág. 568</small></sup>]</span>
+<span id="p568"><sup><small>[ p. 568 ]</small></sup></span>
 
 ## A.
 
@@ -114,7 +114,7 @@ Ayodhyá, 4, 6, 11, 12, 14, 19, 32, 33, 38, 49, 70, 72, 79, 81, 83, 84, 85, 88, 
 Ayomukh, 374 .
 Ayomukhi, 310 .
 
-<span id="p569">[<sup><small>pág. 569</small></sup>]</span>
+<span id="p569"><sup><small>[ p. 569 ]</small></sup></span>
 
 ## B.
 
@@ -266,7 +266,7 @@ Dharmavardhan, 179.
 
 Dhritarashtri, 246.
 
-<span id="p570">[<sup><small>pág. 570</small></sup>]</span>
+<span id="p570"><sup><small>[ p. 570 ]</small></sup></span>
 
 Dhṛṣṭāketu, 82.
 
@@ -418,7 +418,7 @@ Hástinapura, 176.
 
 Hastiprishtha, 179.
 
-<span id="p571">[<sup><small>pág. 571</small></sup>]</span>
+<span id="p571"><sup><small>[ p. 571 ]</small></sup></span>
 
 Havishyand, 68 años.
 
@@ -556,7 +556,7 @@ Levas 37, 38, 42, 283, 286,
 
 Camboya, 13, 66.
 
-<span id="p572">[<sup><small>pág. 572</small></sup>]</span>
+<span id="p572"><sup><small>[ p. 572 ]</small></sup></span>
 
 Camboya 66.
 
@@ -711,7 +711,7 @@ Palacio Público, 485.
 
 Libreta de vacaciones, 15,16,18,19, 21, 30.
 
-<span id="p573">[<sup><small>pág. 573</small></sup>]</span>
+<span id="p573"><sup><small>[ p. 573 ]</small></sup></span>
 
 ## M.
 
@@ -881,7 +881,7 @@ Mithilá, 9 note, 21, 45, 60, 61, 78, 81, 83, 84, 85.
 
 Mitra, 459.
 
-<span id="p574">[<sup><small>pág. 574</small></sup>]</span>
+<span id="p574"><sup><small>[ p. 574 ]</small></sup></span>
 
 Mlechchas, 66, 537, 550.
 
@@ -1043,7 +1043,7 @@ Trascendencia, 22.
 
 Prayag, 158, 159, 196.
 
-<span id="p575">[<sup><small>pág. 575</small></sup>]</span>
+<span id="p575"><sup><small>[ p. 575 ]</small></sup></span>
 
 Prithu, 81, 219.
 
@@ -1217,7 +1217,7 @@ S'ardúla, 441, 449, 450.
 
 S'ardulí, 246.
 
-<span id="p576">[<sup><small>pág. 576</small></sup>]</span>
+<span id="p576"><sup><small>[ p. 576 ]</small></sup></span>
 
 Sarju, 11, 20, 22, 36, 37, 38, 50, _passim_.
 
@@ -1403,7 +1403,7 @@ Sótano, 199.
 
 Sutíkshna, 9, 234, 236, 237, 240, 241.
 
-<span id="p577">[<sup><small>pág. 577</small></sup>]</span>
+<span id="p577"><sup><small>[ p. 577 ]</small></sup></span>
 
 Suva, 35, 44, 45, 146.
 
@@ -1578,7 +1578,7 @@ Vanayu, 13 años.
 
 Wang, 102.
 
-<span id="p578">[<sup><small>pág. 578</small></sup>]</span>
+<span id="p578"><sup><small>[ p. 578 ]</small></sup></span>
 
 Varadas, 550.
 
@@ -1748,7 +1748,7 @@ Yúpáksha, 420, 472.
 
 Yuvanás'va, 81, 219.
 
-<span id="p579">[<sup><small>pág. 579</small></sup>]</span>
+<span id="p579"><sup><small>[ p. 579 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

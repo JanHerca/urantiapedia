@@ -29,11 +29,11 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 
 
@@ -102,7 +102,7 @@ Los pasajes de la Pari<i>s</i>ish<i>s</i>a a los que aquí se hace referencia so
 
 'Ahora bien, si no se ha realizado un sacrificio de medio mes, uno u otro de ellos, entonces se debe ofrecer un plato de arroz—
 
-Con (las palabras), “¡A Agni Vai<i>s</i>vânara svâhâ! ¡A Agni Tantumat svâhâ!”
+Con (las palabras), «¡A Agni Vai<i>s</i>vânara svâhâ! ¡A Agni Tantumat svâhâ!»
 
 Hay, además, varios pasajes en los que el propio Nârâya<i>n</i>a menciona el quinto libro bajo la denominación de Pari<i>n</i>eshâdhyâya [^10]. Incluso si no tuviéramos la autoridad del Kârikâ y de Nârâya<i>n</i>a, el contenido del quinto libro por sí solo levantaría sospechas sobre su autenticidad. El tema que se suele tratar en los textos del G<i>n</i>hya concluye en los Adhyâyas I-IV; en el quinto libro encontramos diversas adiciones suplementarias a los puntos ya tratados; reglas que, sin duda, se habrían dado en su lugar correspondiente si el quinto libro hubiera sido compuesto al mismo tiempo y por el mismo autor que los libros anteriores [^11]. Además, encontramos diferentes oblaciones de prâya<i>nd</i>itta y una descripción de dos ceremonias que, hasta donde yo sé, no se mencionan en ningún otro G<i>n</i>hya-sûtra, pero que pertenecen a los ritos frecuentemente descritos en obras como Purâ<i>n</i>as, Pari<i>n</i>ish<i>n</i>as y textos Dharma posteriores: la consagración de estanques o pozos (cap. 2) y la consagración de jardines (cap. 3).
 

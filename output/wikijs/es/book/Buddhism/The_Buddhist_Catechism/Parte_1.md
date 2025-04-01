@@ -32,13 +32,13 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="pxvi">[<sup><small>pág. xvi</small></sup>]</span> <span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="pxvi">[<sup><small>pág. xvi</small></sup>]</span> <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 1\. _Pregunta_. ¿De qué religión [^0] eres?
 
 _Respuesta_. El budista.
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 2\. P. ¿Qué es el budismo?
 
@@ -70,7 +70,7 @@ A. Nació bajo la constelación de Visâ un martes de mayo del año 2478 (KY); s
 
 9\. P. ¿Era el Buda Dios?
 
-A. No. El Dharma del Buda no enseña ninguna encarnación “divina”.
+A. No. El Dharma del Buda no enseña ninguna encarnación «divina».
 
 10\. P. ¿Era un hombre?
 
@@ -80,7 +80,7 @@ A. Sí; pero el ser más sabio, más noble y más santo que se había desarrolla
 
 A. Sí; como se explicará más adelante.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 12\. P. ¿Su nombre era Buda?
 
@@ -108,7 +108,7 @@ A. En la India, a cien millas al noreste de la ciudad de Benarés y a unas cuare
 
 18\. P. ¿En qué río?
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 A. Los Rohinî, ahora llamados Kohana.
 
@@ -130,7 +130,7 @@ A, Alrededor de cada palacio había jardines con las flores más hermosas y frag
 
 23\. P. ¿Vivía solo?
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 A. No; a los dieciséis años se casó con la princesa Yasodharâ, hija del rey Suprabuddha. Muchas hermosas doncellas, expertas en danza y música, lo acompañaban constantemente para entretenerlo.
 
@@ -150,7 +150,7 @@ A. No. Lo dejó todo y se fue solo a la jungla.
 
 A. Descubrir la causa de nuestros sufrimientos y la manera de escapar de ellos.
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 23\. P. ¿No fue el egoísmo lo que le impulsó a hacer esto?
 
@@ -188,7 +188,7 @@ A. Las de un hombre muy anciano y destrozado por la edad, las de un hombre enfer
 
 A. No, su asistente, Channa, también los vio.
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 37\. P. ¿Por qué estas visiones, tan familiares para todos, le llevaron a ir a la jungla?
 
@@ -204,7 +204,7 @@ A. Sí; parece haber sentido por todos los seres una compasión y un amor tan fu
 
 40\. P. ¿Y cómo esperaba conocer la causa del dolor en la selva?
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 A. Alejándose de todo aquello que pudiera impedirle pensar profundamente en las causas del dolor y en la naturaleza del hombre.
 
@@ -224,7 +224,7 @@ A. Al río Anomâ, muy lejos de Kapilavastu.
 
 A. Saltó de su caballo, se cortó su hermoso cabello con su espada, se vistió con el vestido amarillo de un asceta y, dando sus adornos y su caballo a Channa, le ordenó que los llevara de regreso a su padre, el Rey.
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 45\. P. ¿Qué entonces?
 
@@ -274,7 +274,7 @@ A. Se sentó y meditó, concentrando su mente en los problemas más elevados de 
 
 A. Sí, durante todo ese período. Come y bebe cada vez menos, hasta que, según se dice, apenas comía más de un grano de arroz o de sésamo al día.
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 56\. P. ¿Esto le dio la sabiduría que anhelaba?
 
@@ -292,7 +292,7 @@ A. Le vino la idea de que el conocimiento jamás se alcanzaría con el simple ay
 
 A. Recibió comida de Sujâtâ, la hija de un noble, quien lo vio sentado al pie de un árbol nyagrodha (baniano). Se levantó, tomó su cuenco de limosnas, se bañó en el río Nêranjarâ, comió la comida y se fue a la jungla.
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 60\. P. ¿Qué hizo allí?
 
@@ -322,7 +322,7 @@ A. Sí, luchas poderosas y terribles. Tuvo que vencer en su cuerpo todos esos de
 
 A. Al principio se mostró reacio a enseñárselo al pueblo en general.
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 67\. P. ¿Por qué?
 
@@ -362,7 +362,7 @@ A. Reunió a los discípulos, les dio instrucciones completas y los envió en to
 
 76\. P. ¿Cuál era la esencia del asunto?
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 A. Que el camino de la emancipación consiste en llevar una vida santa y seguir las reglas establecidas, que se explicarán más adelante.
 
@@ -392,7 +392,7 @@ A. Sâriputra y Moggallâna, antiguos discípulos principales de Sanjaya, el asc
 
 83\. P. ¿Por qué se hicieron famosos?
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 A. Sâriputra por su profundo conocimiento (_Prajña_), Moggallâna por sus excepcionales poderes espirituales (_Iddhi_).
 
@@ -468,7 +468,7 @@ A. «Monjes», dijo, «les encargo esto: las partes y poderes del hombre deben d
 
 A. Su existencia está aparentemente tan claramente probada como la de cualquier otro personaje de la historia antigua.
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 102\. P. _¿Nombra algunas de las pruebas?_
 
@@ -486,9 +486,9 @@ A. (1) El testimonio de quienes lo conocieron personalmente.
 
 (7) Muchos de los discípulos del Buda, siendo Arahats y por lo tanto teniendo control sobre sus poderes vitales, deben haber vivido grandes edades, y no había nada que hubiera impedido que dos o tres de ellos, uno tras otro, cubrieran todo el período entre la muerte del Buda y el reinado de Asoka, y así le hubieran permitido a este último obtener de su contemporáneo toda atestación deseada acerca del hecho de la vida del Buda. [^7]
 
-(8) El “Mahâvansa”, la historia antigua mejor autenticada que conocemos, registra los acontecimientos de la historia cingalesa hasta el reinado del rey Vijaya, 543 a. C. (casi la época de Buda) y da la mayoría de los detalles de su vida, así como los del emperador Asoka y todos los demás soberanos relacionados con la historia budista.
+(8) El «Mahâvansa», la historia antigua mejor autenticada que conocemos, registra los acontecimientos de la historia cingalesa hasta el reinado del rey Vijaya, 543 a. C. (casi la época de Buda) y da la mayoría de los detalles de su vida, así como los del emperador Asoka y todos los demás soberanos relacionados con la historia budista.
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 105\. P. ¿Con qué nombres de respeto se llama al Buda?
 

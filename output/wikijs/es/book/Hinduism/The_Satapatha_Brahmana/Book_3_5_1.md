@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <span id="v5_1_1"><sup><small>5:1:1</small></sup></span>
 
@@ -110,7 +110,7 @@ QUINTO KÂ<i>N</i><i>D</i>A.
 
 <span id="v5_1_2_1717"><sup><small>5:1:2:1717.</small></sup></span> Ni el Adhvaryu sostiene la copa Soma más allá del eje hacia atrás, ni el Nesh<i>t</i><i>ri</i> la copa Surâ más allá del eje hacia adelante, pensando: '¡Para que no confundamos la luz y la oscuridad!'
 
-<span id="v5_1_2_1818"><sup><small>5:1:2:1818.</small></sup></span> El Adhvaryu sostiene la copa de Soma justo sobre el eje, y el Nesh<i>t</i><i>ri</i> la copa de Surâ justo debajo <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> del eje, con (VS IX, 4), «¡Unidos estáis: unidme con la felicidad!». Pensando, «Para que no digamos “mal”, los retiran de nuevo, con «¡Desunidos estáis: desúneme del mal!». Así como alguien podría arrancar una caña de un manojo de junco, así lo arrancan de todo mal: no hay en él tanto pecado como la punta de una brizna de hierba. Depositan las dos (tazas cada vez) sobre los montículos.
+<span id="v5_1_2_1818"><sup><small>5:1:2:1818.</small></sup></span> El Adhvaryu sostiene la copa de Soma justo sobre el eje, y el Nesh<i>t</i><i>ri</i> la copa de Surâ justo debajo <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> del eje, con (VS IX, 4), «¡Unidos estáis: unidme con la felicidad!». Pensando, «Para que no digamos «mal», los retiran de nuevo, con «¡Desunidos estáis: desúneme del mal!». Así como alguien podría arrancar una caña de un manojo de junco, así lo arrancan de todo mal: no hay en él tanto pecado como la punta de una brizna de hierba. Depositan las dos (tazas cada vez) sobre los montículos.
 
 <span id="v5_1_2_1919"><sup><small>5:1:2:1919.</small></sup></span> Acto seguido, el Adhvaryu extrae la Madhu-graha (copa de miel) en una vasija de oro y la deposita en medio de las Soma-grahas. Luego extrae el Ukthya y luego el Dhruva. ​​Y cuando, en el último canto (del banquete vespertino del prensado [^43]), ha vertido las Soma-grahas una a una en las copas de los sacerdotes oficiantes, estos hacen ofrendas y las beben. En el prensado del mediodía se habla de la copa de miel y de las copas de Sura: de ahí entonces [^44].
 
@@ -275,7 +275,7 @@ QUINTO KÂ<i>N</i><i>D</i>A.
 
 [^30]: 1:3 Véase II, 4, 2, 1. A ellos (los dioses) les dijo (Pra<i>g</i>âpati): '¡El sacrificio (será) vuestro alimento, la inmortalidad vuestro sustento (ûr<i>g</i>), y el sol vuestra luz!'
 
-[^31]: 1:4 En lugar del neutro idam—difícilmente aquí 'este universo' o 'vâ<i>g</i>apeyam', p. 2 sino más bien 'esta cosa, ello'—el texto Kâ<i>n</i>va dice ayam 'él', es decir, Pra<i>g</i>âpati, o el sacrificio (ya<i>g</i><i>ñ</i>a, masc.); cf. nota sobre [V, 1, 4, 15](Book_3_5_1#v5_1_4_15).
+[^31]: 1:4 En lugar del neutro idam—difícilmente aquí 'este universo' o 'vâ<i>g</i>apeyam', p. 2 sino más bien 'esta cosa, ello'—el texto Kâ<i>n</i>va dice ayam 'él', es decir, Pra<i>g</i>âpati, o el sacrificio (ya<i>g</i><i>ñ</i>a, masc.); cf. nota sobre [V, 1, 4, 15](../Book_3_5_1#v5_1_4_15).
 
 [^32]: 2:1 A falta de un conjunto de términos más sencillo y familiar para los derivados del verbo sû (animar) que se usa aquí, se mantienen generalmente los usados ​​en los volúmenes anteriores, aunque, como allí, con cierta reticencia. El simple «bendecir, bendición, etc.» podría a veces encajar perfectamente, aunque sin duda implica una idea completamente ajena al significado etimológico de este verbo, y no podría usarse, como en este caso, para referirse a la influencia animadora del sol. En ocasiones se ha elegido «acelerar», donde no se insiste en la conexión etimológica con Savitri; mientras que en otros pasajes «consagrar, consagración, etc.» probablemente se acerque más al significado del original. Cp. Delbrück, Altindische Syntax, p. 256.
 
@@ -301,7 +301,7 @@ QUINTO KÂ<i>N</i><i>D</i>A.
 
 [^43]: 11:1 El último canto (en la fiesta de la tarde) del sacrificio Vâ<i>g</i>apeya es el llamado Vâ<i>g</i>apeya-sâman, o B<i>ri</i>hat-stotra (Sâmav. II, 975-7), cantado, con la melodía B<i>ri</i>hat, en el Saptada<i>s</i>a-stoma; los tres versos se elevan, por repeticiones, al número de diecisiete.—'Cuando ha vertido... lo ofrecen': este es aparentemente un caso de la construcción absoluta del gerundio en '-ya', cf. Delbrück, Altindische Syntax, p. 108.
 
-[^44]: 11:2 Sobre estas copas o libaciones, véase [V, I, 5, 28](Book_3_5_1#v5_1_5_28).
+[^44]: 11:2 Sobre estas copas o libaciones, véase [V, I, 5, 28](../Book_3_5_1#v5_1_5_28).
 
 [^45]: 11:3 De las siete formas fundamentales (sa<i>m</i>sthâ) del sacrificio de Soma, cada forma superior o más compleja se obtiene mediante la adición de alguna o varias ceremonias adicionales a una de las formas más simples de sacrificio. En este párrafo, el autor repasa brevemente las formas inferiores del sacrificio de Soma, contenidas en el Vâ<i>g</i>apeya, pág. 12, con el fin de enumerar las víctimas que se sacrifican en su celebración; a saber: el Agnish<i>t</i>oma, con doce cantos y una víctima; el Ukthya, con quince stotras y dos víctimas; y el Sho<i>d</i>a<i>s</i>in, con dieciséis cantos y tres víctimas. Para más detalles, véase la parte ii, pág. 397, nota 2.
 
@@ -311,7 +311,7 @@ QUINTO KÂ<i>N</i><i>D</i>A.
 
 [^48]: 12:3 Sobre el importante lugar asignado a estas dos deidades en la disposición tradicional del Rigveda-sa<i>m</i>hitâ, véase la introducción a la parte i, pág. xvi.
 
-[^49]: 12:4 Ése es el Vâ<i>g</i>apeya-sâman, véase nota [1](Book_3_5_1#fn43), [p. 11](Book_3_5_1#p11).
+[^49]: 12:4 Ése es el Vâ<i>g</i>apeya-sâman, véase nota [1](../Book_3_5_1#fn43), [p. 11](../Book_3_5_1#p11).
 
 [^50]: 12:5 El autor alude aquí a otra forma de sacrificio Soma, no contenida en el Vâ<i>g</i>apeya, a saber, el Atirâtra, que se obtiene siguiendo el Sho<i>d</i>a<i>s</i>in (con sus dieciséis cantos) con el llamado râtri-paryâya<i>h</i>, o rondas nocturnas, que consisten en tres rondas de cuatro cantos cada una, o en total doce cantos. A estos les siguen, al amanecer, el Sandhi-stotra (o cantos crepusculares), que consiste en tres cantos. Aunque esta celebración nocturna no tiene lugar en la presente ocasión, siendo reemplazada por el Vâ<i>g</i>apeya-sâman, el autor reivindica para esta forma de sacrificio también los beneficios morales que le corresponderían al sacrificador por el Atirâtra, por la razón de que en ambas ocasiones se ofrece la misma víctima (un macho cabrío para Sarasvatî).
 
@@ -327,25 +327,25 @@ QUINTO KÂ<i>N</i><i>D</i>A.
 
 [^56]: 16:1 Sobre esta ceremonia con la que comienzan los ritos finales del ish<i>t</i>i, véase I, 8, 3, 1 seq.
 
-[^57]: 16:2 O, posiblemente, ¿qué sería entonces de él? El razonamiento del autor parece ser que, si el sacrificador ofreciera alguna de las oblaciones principales en un momento anterior de la celebración, anticiparía así los resultados que desea obtener de toda la celebración; o, por así decirlo, ya alcanzaría la meta para la cual también se destinan las oblaciones subsiguientes. Por la misma razón, la ofrenda del epiplón de la vaca estéril, antes e independientemente de los epiplones de las demás víctimas, fue desaprobada en el párrafo [6](Book_3_5_1#v5_1_3_6). El profesor Delbrück interpreta nuestro pasaje de forma bastante diferente en su Sintaxis Altindische, pág. 550:—Wenn er vorher damit vorginge, so wäre das so, als ob er, nach Betretung des Pfades, den er zu betreten beabsichtigt, wo? ware (Unglück geriethe de dh in): 'Si procediera con ello antes, sería como si, después de entrar en el camino que pretende emprender, ¿adónde estaría? (es decir, se metería en problemas).'
+[^57]: 16:2 O, posiblemente, ¿qué sería entonces de él? El razonamiento del autor parece ser que, si el sacrificador ofreciera alguna de las oblaciones principales en un momento anterior de la celebración, anticiparía así los resultados que desea obtener de toda la celebración; o, por así decirlo, ya alcanzaría la meta para la cual también se destinan las oblaciones subsiguientes. Por la misma razón, la ofrenda del epiplón de la vaca estéril, antes e independientemente de los epiplones de las demás víctimas, fue desaprobada en el párrafo [6](../Book_3_5_1#v5_1_3_6). El profesor Delbrück interpreta nuestro pasaje de forma bastante diferente en su Sintaxis Altindische, pág. 550:—Wenn er vorher damit vorginge, so wäre das so, als ob er, nach Betretung des Pfades, den er zu betreten beabsichtigt, wo? ware (Unglück geriethe de dh in): 'Si procediera con ello antes, sería como si, después de entrar en el camino que pretende emprender, ¿adónde estaría? (es decir, se metería en problemas).'
 
 [^58]: 17:1 En el original, 'pra<i>g</i>âpati<i>h</i>' es el predicado, no el sujeto, de la oración; pero consideraciones de construcción parecen hacer que el cambio sea deseable en inglés.
 
 [^59]: 18:1 El Adhvaryu lo baja del vâhana, o puesto del carro.
 
-[^60]: 18:2 Debe colocarse en la parte noreste del vedi, de modo que esté listo para comenzar la carrera hacia el norte a lo largo del espacio entre el <i>k</i>âtvâla (o pozo) y el utkara (montón de basura); los caballos están así cerca de donde el brahmán tendrá que montar una rueda de carreta colocada sobre el utkara ([V, 1, 5, 2](Book_3_5_1#v5_1_5_2)).
+[^60]: 18:2 Debe colocarse en la parte noreste del vedi, de modo que esté listo para comenzar la carrera hacia el norte a lo largo del espacio entre el <i>k</i>âtvâla (o pozo) y el utkara (montón de basura); los caballos están así cerca de donde el brahmán tendrá que montar una rueda de carreta colocada sobre el utkara ([V, 1, 5, 2](../Book_3_5_1#v5_1_5_2)).
 
 [^61]: 19:1 El profesor Weber (en su ensayo sobre los Nakshatras, II, 278; Abhandl. de la Academia de Berlín, 1861) toma este pasaje (—Taitt. S. 1, 7, 7, 2; Kâ<i>th</i>aka 13, 14; Maitr. S. I, 11, 1) para contener la primera alusión al sistema de Nakshatras, o mansiones lunares que marcan las estaciones diarias ocupadas por la luna (masc.) durante su circuito alrededor de los cielos.—En el ritual del Ya<i>g</i>us Negro (Taitt. S. 1, 7, 7, 2) p. 20 Esta fórmula dice así: 'O Vâyu, o Manu, o los Gandharvas, los veintisiete, enjaezaron el caballo primero, le dieron velocidad', lo cual Sâya<i>n</i>a, sin embargo, interpreta como 'Vâyu, y Manu, y los (veinticinco) Gandharvas, estos veintisiete, etc.'
 
-[^62]: 21:1 O, del líder, como aparecería de Sâya<i>n</i>a a Taitt. S. I, 7, 8 (p. 1024),—'Entre el caballo derecho y el izquierdo permite que se proyecten las flechas, y entre ellas pone el caballo llamado “sapti” (en el texto)' Sin embargo, aparentemente no se menciona un cuarto caballo en el ritual del Ya<i>g</i>us Negro.
+[^62]: 21:1 O, del líder, como aparecería de Sâya<i>n</i>a a Taitt. S. I, 7, 8 (p. 1024),—'Entre el caballo derecho y el izquierdo permite que se proyecten las flechas, y entre ellas pone el caballo llamado «sapti» (en el texto)' Sin embargo, aparentemente no se menciona un cuarto caballo en el ritual del Ya<i>g</i>us Negro.
 
-[^63]: 22:1 Es decir, Brihaspati; a menos que «lokam» deba sustituirse por «imam» («este mundo»), como podría parecer probable a partir del siguiente párrafo. Véase también [V. 1, 5, 27](Book_3_5_1#v5_1_5_27)\-[28](Book_3_5_1#v5_1_5_28).
+[^63]: 22:1 Es decir, Brihaspati; a menos que «lokam» deba sustituirse por «imam» («este mundo»), como podría parecer probable a partir del siguiente párrafo. Véase también [V. 1, 5, 27](../Book_3_5_1#v5_1_5_27)\-[28](../Book_3_5_1#v5_1_5_28).
 
 [^64]: 22:2 Según los ritualistas de Taittirîya, citados por Sâya<i>n</i>a (Taitt. S. I, 7, 8), tras ser montada por el brahmán, la rueda debe girar tres veces en el sentido del sol; el extremo (puntiagudo) del poste parece estar insertado en el ombligo de la rueda, horizontalmente sobre ella. La rueda giratoria se compara allí con el Va<i>g</i>ra, o rayo discoidal. Mientras la rueda gira sobre su eje, el brahmán canta el Sâman. Cf. también Lâ<i>t</i>y. <i>S</i>r. V, 12, 9 ss., según cuya autoridad, sin embargo, el brahmán (pág. 23) parecería simplemente apoyar los brazos en la rueda y girarla mientras canta.
 
 [^65]: 23:1 A saber, el 'vâ<i>g</i>inâ<i>m</i> sâman' (Tâ<i>n</i><i>d</i>y. Br. 18; 7, 12), Sâmav. I, 435 'àvir maryâ â vâ<i>g</i>am vâ<i>g</i>ino agman', etc. 'Los corceles ardientes han reunido temple ardiente, el impulso del dios Savit<i>ri</i>; ¡conquistad el cielo, oh corceles!' Lâ<i>t</i>y. <i>S</i>r. V, 12, 14. Este canto del Sâman tiene lugar mientras dura la carrera, permaneciendo el brahmán en la rueda de carreta colocada en un poste corto sobre (o cerca de) el utkara, o montón de escombros. —El autor anticipa en este párrafo y en los dos siguientes lo que debe hacer el brahmán al descender de la rueda una vez finalizada la carrera. La colocación de los tambores, a la que se hace referencia a continuación, también debe imaginarse como si tuviera lugar mientras el brahmán sube a la rueda.
 
-[^66]: 24:1 Además del carro del Sacrificador, dentro del vedi, se han preparado otros dieciséis, cada uno tirado por cuatro caballos, fuera del vedi, para la carrera hacia la rama udumbara, como meta y punto de inflexión. En los párrafos [10](Book_3_5_1#v5_1_5_10)\-[12](Book_3_5_1#v5_1_5_12), el autor anticipa nuevamente lo que debe hacerse con los tambores después de la carrera, precisamente para abordar ese aspecto del ceremonial en su conjunto.
+[^66]: 24:1 Además del carro del Sacrificador, dentro del vedi, se han preparado otros dieciséis, cada uno tirado por cuatro caballos, fuera del vedi, para la carrera hacia la rama udumbara, como meta y punto de inflexión. En los párrafos [10](../Book_3_5_1#v5_1_5_10)\-[12](../Book_3_5_1#v5_1_5_12), el autor anticipa nuevamente lo que debe hacerse con los tambores después de la carrera, precisamente para abordar ese aspecto del ceremonial en su conjunto.
 
 [^67]: 25:1 Es decir, después (o al mismo tiempo que) se colocan los tambores. Debe disparar hacia el norte a través del espacio entre el utkara y el kâtvâla. Al final del alcance de la decimoséptima flecha, planta una rama de udumbara en el suelo para que sirva de meta alrededor de la cual los carros deben girar en dirección al sol de regreso al lugar de los sacrificios.
 

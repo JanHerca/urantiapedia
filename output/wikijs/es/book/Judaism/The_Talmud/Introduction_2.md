@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Historia del Talmud—Otros escritos rabínicos—La Bereitha—Escuelas de Tiberíades y Babilonia—Luchas por la supremacía—Forma de Cherem.
 

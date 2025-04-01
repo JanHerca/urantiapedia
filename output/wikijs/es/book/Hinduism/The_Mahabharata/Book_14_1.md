@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:14Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 EL MAHABHARATA
 
@@ -56,7 +56,7 @@ Vaisampayana dijo: «Tras las palabras del inteligente rey Dhritarashtra Yudhish
 
 ## SECCIÓN III
 
-Vyasa dijo: «Oh, Yudhishthira, creo que tu sabiduría no es suficiente. Nadie actúa por su propia cuenta. Es Dios quien lo obliga a actuar, ya sea bueno o malo, oh, dador de honor. ¿Dónde, entonces, hay lugar para el arrepentimiento? Te consideras culpable de actos impíos. Por lo tanto, oh, Bharata, presta atención a la forma en que se puede eliminar el pecado. Oh, Yudhishthira, quienes cometen pecados siempre pueden liberarse de ellos mediante la penitencia, el sacrificio y las ofrendas. Oh, rey, oh, el más destacado de los hombres, los pecadores se purifican mediante el sacrificio, las austeridades y la caridad. Los celestiales de almas elevadas y los asuras realizan sacrificios para obtener méritos religiosos; por lo tanto, el sacrificio es de suma importancia. Es mediante los sacrificios que los celestiales de almas elevadas se han vuelto tan maravillosamente poderosos; y habiendo celebrado ritos, vencieron a los danavas». Tú, oh Yudhishthira, prepárate para el Rajasuya y el sacrificio del caballo, así como, oh Bharata, para el Sarvamedha y el Naramedha. [^1] Y entonces, como lo hizo Rama, hijo de Dasaratha, o como lo hizo Bharata, hijo de Dushmanta y Sakuntala, tu antepasado, el señor de la Tierra, el sumamente poderoso rey Bharata, celebra, conforme a la ordenanza, el sacrificio del caballo con dakshinas. Yudhishthira respondió: «Sin duda, el sacrificio del caballo purifica a los príncipes. Pero tengo un propósito que te conviene escuchar. Habiendo causado esta enorme carnicería de parientes, no puedo, oh el mejor de los regenerados, dispensar regalos ni siquiera en pequeña escala; no tengo riquezas para dar». Ni puedo pedir riquezas a estos jóvenes hijos de reyes, que se encuentran en una situación lamentable, con sus heridas aún verdes y sufriendo. ¿Cómo, oh, el primero de los dos veces nacidos, habiendo yo destruido la Tierra, puedo, abrumado por la pena, cobrar tributos para celebrar un sacrificio? Por culpa de Duryodhana, oh, el mejor de los ascetas, los reyes de la Tierra han sido destruidos, y nosotros hemos cosechado ignominia. Por la riqueza <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>, Duryodhana ha devastado la Tierra; y el tesoro de ese malvado hijo de Dhritarashtra está vacío. (En este sacrificio), la Tierra es la Dakshina; esta es la regla que se prescribe en primer lugar. La inversión habitual de esta regla, aunque sancionada, es observada por los eruditos como tales. Tampoco, oh, asceta, me gusta tener un sustituto (para este proceso). En este asunto, oh reverendo señor, te corresponde favorecerme con tu consejo. Tras estas palabras, el hijo de Pritha, Krishna Dwaipayana, reflexionando un momento, le dijo al justo rey: «Este tesoro, (ahora) agotado, se llenará. Oh, hijo de Pritha, en el monte Himavat (el Himalaya) hay oro que dejaron los brahmanes en el sacrificio del noble Marutta». [^2] Yudhishthira preguntó: «¿Cómo se acumuló tanto oro en ese sacrificio celebrado por Marutta? Y, oh, el más destacado de los oradores, ¿cuándo reinó?». Vyasa dijo: «Si,“Oh, hijo de Pritha, estás ansioso por escuchar acerca de ese rey surgido de la raza Karandhama, entonces escúchame mientras te cuento cuándo reinó ese monarca altamente poderoso, poseedor de inmensa riqueza”.
+Vyasa dijo: «Oh, Yudhishthira, creo que tu sabiduría no es suficiente. Nadie actúa por su propia cuenta. Es Dios quien lo obliga a actuar, ya sea bueno o malo, oh, dador de honor. ¿Dónde, entonces, hay lugar para el arrepentimiento? Te consideras culpable de actos impíos. Por lo tanto, oh, Bharata, presta atención a la forma en que se puede eliminar el pecado. Oh, Yudhishthira, quienes cometen pecados siempre pueden liberarse de ellos mediante la penitencia, el sacrificio y las ofrendas. Oh, rey, oh, el más destacado de los hombres, los pecadores se purifican mediante el sacrificio, las austeridades y la caridad. Los celestiales de almas elevadas y los asuras realizan sacrificios para obtener méritos religiosos; por lo tanto, el sacrificio es de suma importancia. Es mediante los sacrificios que los celestiales de almas elevadas se han vuelto tan maravillosamente poderosos; y habiendo celebrado ritos, vencieron a los danavas». Tú, oh Yudhishthira, prepárate para el Rajasuya y el sacrificio del caballo, así como, oh Bharata, para el Sarvamedha y el Naramedha. [^1] Y entonces, como lo hizo Rama, hijo de Dasaratha, o como lo hizo Bharata, hijo de Dushmanta y Sakuntala, tu antepasado, el señor de la Tierra, el sumamente poderoso rey Bharata, celebra, conforme a la ordenanza, el sacrificio del caballo con dakshinas. Yudhishthira respondió: «Sin duda, el sacrificio del caballo purifica a los príncipes. Pero tengo un propósito que te conviene escuchar. Habiendo causado esta enorme carnicería de parientes, no puedo, oh el mejor de los regenerados, dispensar regalos ni siquiera en pequeña escala; no tengo riquezas para dar». Ni puedo pedir riquezas a estos jóvenes hijos de reyes, que se encuentran en una situación lamentable, con sus heridas aún verdes y sufriendo. ¿Cómo, oh, el primero de los dos veces nacidos, habiendo yo destruido la Tierra, puedo, abrumado por la pena, cobrar tributos para celebrar un sacrificio? Por culpa de Duryodhana, oh, el mejor de los ascetas, los reyes de la Tierra han sido destruidos, y nosotros hemos cosechado ignominia. Por la riqueza <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>, Duryodhana ha devastado la Tierra; y el tesoro de ese malvado hijo de Dhritarashtra está vacío. (En este sacrificio), la Tierra es la Dakshina; esta es la regla que se prescribe en primer lugar. La inversión habitual de esta regla, aunque sancionada, es observada por los eruditos como tales. Tampoco, oh, asceta, me gusta tener un sustituto (para este proceso). En este asunto, oh reverendo señor, te corresponde favorecerme con tu consejo. Tras estas palabras, el hijo de Pritha, Krishna Dwaipayana, reflexionando un momento, le dijo al justo rey: «Este tesoro, (ahora) agotado, se llenará. Oh, hijo de Pritha, en el monte Himavat (el Himalaya) hay oro que dejaron los brahmanes en el sacrificio del noble Marutta». [^2] Yudhishthira preguntó: «¿Cómo se acumuló tanto oro en ese sacrificio celebrado por Marutta? Y, oh, el más destacado de los oradores, ¿cuándo reinó?». Vyasa dijo: «Si,«Oh, hijo de Pritha, estás ansioso por escuchar acerca de ese rey surgido de la raza Karandhama, entonces escúchame mientras te cuento cuándo reinó ese monarca altamente poderoso, poseedor de inmensa riqueza».
 
 
 
@@ -76,7 +76,7 @@ Vyasa entonces dijo: «Así como los numerosos descendientes de Prajapati Daksha
 Vaisampayana continuó: "Al escuchar estas palabras de Vrihaspati, Indra se curó de sus sentimientos envidiosos, y luego, tras alabarle, se dirigió a su mansión".
 
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## SECCIÓN VI
 
@@ -84,7 +84,7 @@ Vyasa dijo: «La antigua leyenda de Vrihaspati y el sabio Marutta se cita a este
 
 Vrihaspati dijo: «Oh, señor de la tierra, no deseo realizar tu sacrificio. He sido nombrado sacerdote por el Señor de los dioses (Indra) y le he prometido actuar como tal».
 
-Marutta dijo: “Tú eres nuestro sacerdote familiar hereditario, y por esta razón tengo un gran respeto por ti, y he adquirido el derecho de que me ayudes en los sacrificios, y por lo tanto es apropiado que oficies como sacerdote en mi sacrificio”.
+Marutta dijo: «Tú eres nuestro sacerdote familiar hereditario, y por esta razón tengo un gran respeto por ti, y he adquirido el derecho de que me ayudes en los sacrificios, y por lo tanto es apropiado que oficies como sacerdote en mi sacrificio».
 
 Vrihaspati dijo: «Oh, Marutta, habiendo ejercido como sacerdote de los Inmortales, ¿cómo puedo ejercerlo también con los mortales? Tanto si te vas como si te quedas, te digo que he dejado de ejercer como sacerdote para nadie más que los Inmortales. ¡Oh, tú, de brazos poderosos!, ahora no puedo ejercer como sacerdote tuyo. Y, según tu propio deseo, puedes designar como sacerdote a quienquiera que realice tu sacrificio».
 
@@ -98,7 +98,7 @@ Vyasa dijo: 'Después de lo dicho por ese rey, Narada, oh poderoso príncipe, le
 
 Narada dijo: «El virtuoso hijo de Angira, llamado Samvarta, recorre la tierra desnudo para asombro de todas las criaturas; tú, príncipe, ve con él. Si Vrihaspati no desea oficiar tu sacrificio, el poderoso Samvarta, si está complacido contigo, lo realizará».
 
-Marutta dijo: “Me siento como si estas palabras tuyas me infundieran nueva vida, oh Narada, pero, ¡oh, el mejor de los oradores!, dime dónde puedo encontrar a Samvarta, cómo puedo permanecer a su lado y cómo debo actuar para que no me abandone, porque no deseo vivir si también me rechaza”.
+Marutta dijo: «Me siento como si estas palabras tuyas me infundieran nueva vida, oh Narada, pero, ¡oh, el mejor de los oradores!, dime dónde puedo encontrar a Samvarta, cómo puedo permanecer a su lado y cómo debo actuar para que no me abandone, porque no deseo vivir si también me rechaza».
 
 Narada dijo: «Deseo ver a Maheswara, oh príncipe, vaga a su antojo por la ciudad de Varanasi, disfrazado de loco. Y al llegar a la puerta de esa ciudad, debes colocar un cadáver cerca de ella, y el hombre que se aleje al ver el cadáver, oh príncipe, reconoce que ese hombre es Samvarta, y conociéndolo, sigue sus pasos adondequiera que ese hombre poderoso decida ir, y al encontrarlo (al fin) en un lugar solitario, debes buscar su protección con las manos juntas en súplica. Y si te pregunta por la persona que te ha dado la información sobre sí mismo, dile que Narada te ha informado sobre Samvarta. Y si te pide que me sigas, debes decirle sin vacilar que he entrado en el fuego».
 
@@ -109,13 +109,13 @@ Vyasa dijo: «Tras haber dado su consentimiento a la propuesta de Narada, el sab
 
 Samvarta dijo: «¿Cómo has llegado a conocerme y quién te ha recomendado? Dime esto con sinceridad si deseas que te haga el bien. Y si dices la verdad, alcanzarás todos tus deseos; si mientes, te partiré la cabeza en mil pedazos».
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Marutta dijo: 'Narada me ha dicho, mientras vagaba por el camino, que tú eres el hijo de nuestro sacerdote familiar, y esta (información) ha inclinado mi mente (hacia ti), con exquisita satisfacción'.
 
 Samvarta dijo: «Me has dicho esto con toda la verdad. Él (Narada) sabe que soy un ejecutante de sacrificios. Ahora dime dónde vive Narada actualmente».
 
-Marutta dijo: “Ese príncipe de los santos celestiales (Narada), habiéndome dado esta información acerca de ti y encomendándome a tu cuidado, ha entrado en el fuego”.
+Marutta dijo: «Ese príncipe de los santos celestiales (Narada), habiéndome dado esta información acerca de ti y encomendándome a tu cuidado, ha entrado en el fuego».
 
 Vyasa dijo: «Al oír estas palabras del rey (Marutta), Samvarta se sintió sumamente complacido y dijo (dirigiéndose a Marutta): «Yo también soy perfectamente capaz de hacer todo eso». Entonces, ¡oh príncipe!, aquel brahmana, delirando como un lunático y regañando repetidamente a Marutta con palabras groseras, lo abordó de nuevo así: «Sufro de un trastorno cerebral y siempre actúo según los caprichos de mi mente. ¿Por qué te empeñas en que un sacerdote de tan singular disposición realice este sacrificio? Mi hermano es capaz de oficiar sacrificios, se ha unido a Vasava (Indra) y se dedica a realizar sus sacrificios; por lo tanto, haz que él realice tu sacrificio». Mi hermano mayor me ha arrebatado a la fuerza todos mis enseres, dioses místicos y clientes de sacrificios, dejándome solo este cuerpo físico. Oh, hijo de Avikshit, como merece mi respeto, no puedo oficiar tu sacrificio sin su permiso. Por lo tanto, primero debes ir a Vrihaspati y, con su permiso, puedes volver a mí si deseas realizar un sacrificio; solo entonces podré oficiarlo.
 
@@ -135,7 +135,7 @@ Samvarta dijo: «Hay un pico llamado Munjaban en las cimas del Himalaya, donde e
 
 ## SECCIÓN IX
 
-“Indra dijo: “¿Duermes en paz, oh Vrihaspati, y tus sirvientes son agradables a ti? ¿Buscas el bienestar de los dioses y los dioses, oh Brahmana, te protegen?”
+«Indra dijo: “¿Duermes en paz, oh Vrihaspati, y tus sirvientes son agradables a ti? ¿Buscas el bienestar de los dioses y los dioses, oh Brahmana, te protegen?»
 
 Vrihaspati dijo: «Duermo en paz en mi cama, oh Señor de los dioses, y mis sirvientes son de mi agrado. Siempre busco el bienestar de los dioses, y ellos me aprecian mucho».
 
@@ -143,31 +143,31 @@ Indra dijo: «¿De dónde viene entonces este dolor, mental o físico, y por qu�
 
 Vrihaspati dijo: «Oh, Indra, he oído que Marutta realizará un gran sacrificio en el que entregará exquisitos presentes (a los brahmanes) y que en su sacrificio Samvarta actuará como sacerdote oficiante, y por lo tanto deseo que no oficie como sacerdote en ese sacrificio».
 
-Indra dijo: “Tú, oh Brahmana, has alcanzado todo el objeto de tu deseo cuando te has convertido en el excelente sacerdote de los dioses, versado en todos los himnos sagrados y has superado la influencia de la muerte y la senilidad, ¿qué puede hacerte Samvarta ahora?”
+Indra dijo: «Tú, oh Brahmana, has alcanzado todo el objeto de tu deseo cuando te has convertido en el excelente sacerdote de los dioses, versado en todos los himnos sagrados y has superado la influencia de la muerte y la senilidad, ¿qué puede hacerte Samvarta ahora?»
 
-Vrihaspati dijo: “La prosperidad de un rival siempre es dolorosa para los sentimientos de uno, y por esta razón también, tú con tus dioses acompañantes persigues a los Asuras con sus hombres y parientes, y matas a los más prósperos entre ellos; por eso, oh Señor de los dioses, mi apariencia cambia al pensar que mi rival está prosperando, por lo tanto, oh Indra, tú, por todos los medios, refrena a Samvarta y al rey Marutta”.
+Vrihaspati dijo: «La prosperidad de un rival siempre es dolorosa para los sentimientos de uno, y por esta razón también, tú con tus dioses acompañantes persigues a los Asuras con sus hombres y parientes, y matas a los más prósperos entre ellos; por eso, oh Señor de los dioses, mi apariencia cambia al pensar que mi rival está prosperando, por lo tanto, oh Indra, tú, por todos los medios, refrena a Samvarta y al rey Marutta».
 
-Indra, volviéndose hacia Agni, dijo: “Oh Jataveda, siguiendo mis instrucciones, ve al rey Marutta para presentarle a Vrihaspati y dile que este Vrihaspati oficiará su sacrificio y lo hará inmortal”.
+Indra, volviéndose hacia Agni, dijo: «Oh Jataveda, siguiendo mis instrucciones, ve al rey Marutta para presentarle a Vrihaspati y dile que este Vrihaspati oficiará su sacrificio y lo hará inmortal».
 
-Agni dijo: “Pronto, oh adorable, iré allí como tu mensajero para presentar a Vrihaspati al rey Marutta; y para hacer que las palabras de Indra sean verdaderas y para mostrar respeto a Vrihaspati, Agni partió”.
+Agni dijo: «Pronto, oh adorable, iré allí como tu mensajero para presentar a Vrihaspati al rey Marutta; y para hacer que las palabras de Indra sean verdaderas y para mostrar respeto a Vrihaspati, Agni partió».
 
-Vyasa dijo: “Entonces el dios del fuego de alma elevada siguió su misión, devastando todos los bosques y árboles, como el poderoso viento, rugiendo y girando al azar al final de la temporada de invierno”.
+Vyasa dijo: «Entonces el dios del fuego de alma elevada siguió su misión, devastando todos los bosques y árboles, como el poderoso viento, rugiendo y girando al azar al final de la temporada de invierno».
 
 Marutta dijo: «¡Mira! Hoy encuentro al dios del fuego encarnado. Por eso, oh Muni, ofrécele un asiento y agua, una vaca y agua para lavarse los pies».
 
-Agni dijo: “Acepto tus ofrendas de agua, asiento y agua para lavar los pies, oh sin pecado, reconóceme como el mensajero de Indra, ven a ti, de acuerdo con sus instrucciones”.
+Agni dijo: «Acepto tus ofrendas de agua, asiento y agua para lavar los pies, oh sin pecado, reconóceme como el mensajero de Indra, ven a ti, de acuerdo con sus instrucciones».
 
 Marutta dijo: «Oh, Dios del Fuego, ¿es feliz el glorioso Señor de los Celestiales? ¿Está complacido con nosotros? ¿Le son leales los demás dioses? Ilumíname debidamente sobre todos estos puntos».
 
 Agni dijo: «Oh, señor de la tierra, Sakra es completamente feliz, está complacido contigo y desea liberarte de la senilidad, y todos los demás dioses le son leales. Tú, oh rey, escucha el mensaje del Señor de los Celestiales. Y el objetivo por el que me ha enviado es presentar a Vrihaspati a Marutta. Oh, príncipe, permite que este sacerdote (de los Celestiales) realice tu sacrificio y te conceda, a ti, que eres solo un mortal, alcanzar la inmortalidad».
 
-Marutta dijo: “Este Brahmana Samvarta, nacido dos veces, realizará mi sacrificio, y le ruego a Vrihaspati que, habiendo actuado como sacerdote de Mahendra (Indra), no le parezca bien ahora actuar como sacerdote de hombres mortales”.
+Marutta dijo: «Este Brahmana Samvarta, nacido dos veces, realizará mi sacrificio, y le ruego a Vrihaspati que, habiendo actuado como sacerdote de Mahendra (Indra), no le parezca bien ahora actuar como sacerdote de hombres mortales».
 
 Agni dijo: «Si este Vrihaspati oficia como tu sacerdote, entonces, por las bendiciones de Devaraja (Indra), alcanzarás la región más alta de la mansión celestial, y alcanzando fama, sin duda conquistarás la región celestial. Y, oh señor de los hombres, si Vrihaspati actúa como tu sacerdote, podrás conquistar todas las regiones habitadas por los hombres, las regiones celestiales, todas las regiones más altas creadas por Prajapati e incluso todo el reino de los dioses».
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
-Samvarta dijo: “Nunca debes volver a presentarle a Vrihaspati a Marutta; porque debes saber, oh Pavaka, (Agni), que si lo haces, perderé la paciencia y te quemaré con mis feroces ojos malvados”.
+Samvarta dijo: «Nunca debes volver a presentarle a Vrihaspati a Marutta; porque debes saber, oh Pavaka, (Agni), que si lo haces, perderé la paciencia y te quemaré con mis feroces ojos malvados».
 
 Vyasa dijo: "Entonces Agni, temiendo la destrucción por el fuego, y temblando como las hojas del árbol Aswattha (Ficus religiosa), regresó a los dioses, y el alma elevada Sakra, al ver a ese portador de oblaciones (Agni) en compañía de Vrihaspati, dijo lo siguiente:
 
@@ -175,13 +175,13 @@ Indra dijo: «Oh, Jataveda (Agni), ¿fuiste a presentarle Vrihaspati a Marutta s
 
 Agni dijo: «Marutta no aceptó tu mensaje y, cuando lo insté, estrechó las manos de Vrihaspati y repitió que Samvarta sería su sacerdote. Y también observó que no deseaba alcanzar las regiones mundanas ni las celestiales, ni las regiones más elevadas de Prajapati, y que si así lo deseaba, aceptaría las condiciones de Indra».
 
-Indra dijo: “Vuelve a ese rey y, al encontrarte con él, dile estas palabras mías, llenas de significado, y si no las obedece, lo golpearé con mi rayo”.
+Indra dijo: «Vuelve a ese rey y, al encontrarte con él, dile estas palabras mías, llenas de significado, y si no las obedece, lo golpearé con mi rayo».
 
 Agni dijo: «Que este rey de los Gandharvas venga como tu mensajero, oh Vasava, pues me da miedo ir yo mismo. Has de saber, oh Sakra, que Samvarta, muy indignado y acostumbrado a las prácticas ascéticas, me dijo estas palabras lleno de ira: «Te quemaré con mis feroces y malvados ojos si por cualquier motivo vuelves aquí a presentar a Vrihaspati al rey Marutta».
 
 Sakra dijo: «Oh, Jataveda, eres tú quien quema todo lo demás y nadie más puede reducirte a cenizas. El mundo entero teme entrar en contacto contigo. Oh, portador de oblaciones, estas palabras tuyas no merecen crédito».
 
-Agni dijo: “Tú, oh Sakra, has abarcado el dominio del cielo, la tierra y el firmamento con el poder de tus propios brazos, pero ¿cómo pudo así Vritra (el de antaño) arrebatarte la soberanía de las regiones celestiales?”
+Agni dijo: «Tú, oh Sakra, has abarcado el dominio del cielo, la tierra y el firmamento con el poder de tus propios brazos, pero ¿cómo pudo así Vritra (el de antaño) arrebatarte la soberanía de las regiones celestiales?»
 
 Indra dijo: «Puedo someter a mis enemigos e incluso reducir el tamaño de una montaña a un átomo, si así lo deseo. Pero, oh Vahnni, como no acepto la libación de Soma si me la ofrece un enemigo, y como no golpeo a los débiles con mi rayo, Vritra pareció triunfar sobre mí por un tiempo. Pero ¿quién entre los mortales puede vivir en paz creando una enemistad conmigo? He desterrado a los Kalakeyas a la tierra, he expulsado a los Danavas del cielo y he puesto fin a la existencia de Prahlada en el cielo. ¿Puede haber alguien que pueda vivir en paz provocando mi enemistad?»
 
@@ -192,7 +192,7 @@ Agni dijo: "¿Recuerdas, oh Mahendra, que en tiempos antiguos, cuando el sabio C
 
 Indra dijo: «Así es; el poder de los brahmanes es grande y no hay nadie más poderoso que ellos, pero jamás podré soportar con ecuanimidad el orgullo insolente del hijo de Avikshita, y por eso lo heriré con mi rayo. Por lo tanto, oh Dhritarashtra, sigue mis instrucciones y acude al rey Marutta acompañado de Samvarta, y dale este mensaje: «Oh príncipe, acepta a Vrihaspati como tu preceptor espiritual, pues de lo contrario, te heriré con mi terrible rayo».
 
-Vyasa dijo: “Entonces Dhritarashtra se dirigió a la corte de ese monarca y le entregó este mensaje de Vasava”.
+Vyasa dijo: «Entonces Dhritarashtra se dirigió a la corte de ese monarca y le entregó este mensaje de Vasava».
 
 Dhritarashtra dijo: «Oh, señor de los hombres, has de saber que soy Dhritarashtra, el Gandharva, y que vengo aquí para entregarte el mensaje de Indra. Tú, oh, león entre reyes, escucha las palabras que el noble señor de todos los mundos quiso decirte: aquel de incomprensibles logros (Indra) solo dijo esto: «Acepta a Vrihaspati como tu sacerdote oficiante para el sacrificio, o si no accedes a mi petición, te golpearé con mi terrible rayo».
 
@@ -200,17 +200,17 @@ Marutta dijo: «Tú, oh Purandara, los Viswadevas, los Vasus y los Aswins, todos
 
 El Gandharva dijo: «Oh, león entre los príncipes, escucha el terrible grito de guerra de Vasava que ruge en los cielos. Con seguridad y abiertamente, Mahendra te lanzará su rayo. Piensa, pues, en tu bien, pues este es el momento de hacerlo».
 
-Vyasa dijo: “Abordado así por Dhritarashtra, y oyendo el rugido aullante de Vasava, el rey comunicó esta noticia a Samvarta, firme en la devoción y el más elevado de todos los hombres virtuosos”.
+Vyasa dijo: «Abordado así por Dhritarashtra, y oyendo el rugido aullante de Vasava, el rey comunicó esta noticia a Samvarta, firme en la devoción y el más elevado de todos los hombres virtuosos».
 
 Marutta dijo: «En verdad, esta nube de lluvia que flota en el aire indica que Indra debe estar cerca en este momento; por lo tanto, ¡oh, príncipe de los Brahmanes!, busco refugio en ti. ¡Oh, el mejor de los Brahmanes!, aparta de mi mente este temor a Indra. El Portador del Rayo viene abarcando las diez direcciones del espacio con su terrible y sobrehumana refulgencia, y mis asistentes en esta asamblea sacrificial están aterrados.»
 
 Samvarta dijo: «Oh, león entre reyes, tu miedo a Sakra pronto se disipará, y pronto eliminaré este terrible dolor mediante mi magia (conjuro); mantén la calma y no temas ser dominado por la India. No tienes nada que temer del dios de los cien sacrificios. Usaré mis hechizos de contención, oh rey, y las armas de todos los dioses no te servirán de nada. Que los relámpagos brillen en todas las direcciones del espacio, y que los vientos que entran en las nubes derramen aguaceros sobre los bosques, y que las aguas inunden los cielos, y que los destellos de los relámpagos que se vean no te servirán de nada. No tienes nada que temer, deja que Vasava derrame la lluvia y lance su terrible rayo donde quiera, flotando entre las masas de agua (nubes) para tu destrucción, pues el dios Vahnni (Agni) te protegerá en todo sentido y te hará alcanzar todos los objetos de tu deseo».
 
-Marutta dijo: “Este espantoso estallido del rayo junto con el aullido de los vientos, parecen terribles a mis oídos y mi corazón se aflige una y otra vez, oh Brahmana, y mi paz mental se ha ido en este momento”.
+Marutta dijo: «Este espantoso estallido del rayo junto con el aullido de los vientos, parecen terribles a mis oídos y mi corazón se aflige una y otra vez, oh Brahmana, y mi paz mental se ha ido en este momento».
 
 Samvarta dijo: «Oh, rey, la hazaña que este terrible rayo ha atormentado tu mente te abandonará pronto. Yo disiparé el trueno con la ayuda de los vientos, y apartando todo temor de tu mente, acepta mi bendición según tu deseo, y yo la cumpliré».
 
-Marutta dijo: “Deseo, oh Brahmana, que Indra venga de repente en persona a este sacrificio y acepte la oblación que se le ofrece, y que todos los demás dioses también vengan y tomen sus propias partes de las ofrendas y acepten las libaciones de Soma que se les ofrecen”.
+Marutta dijo: «Deseo, oh Brahmana, que Indra venga de repente en persona a este sacrificio y acepte la oblación que se le ofrece, y que todos los demás dioses también vengan y tomen sus propias partes de las ofrendas y acepten las libaciones de Soma que se les ofrecen».
 
 Samvarta dijo: «Con el poder de mis encantamientos, he atraído a Indra en persona a este sacrificio. ¡Oh, monarca! Mira, Indra viene con sus caballos, adorado por los demás dioses, presuroso a este sacrificio».
 
@@ -218,17 +218,17 @@ Entonces, el señor de los Devas, acompañado por los demás dioses y montado en
 
 Samvarta dijo: "Bienvenido a ti, oh Indra, por tu presencia aquí, oh erudito, este sacrificio se ha hecho grandioso. Oh asesino de Vala y Vritra, bebe de nuevo este jugo de Soma producido por mí hoy".
 
-<span id="p16">[<sup><small>pág. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Marutta dijo: «Mírame con bondad. Me inclino ante ti, oh Indra. Con tu presencia, mi sacrificio se ha perfeccionado y mi vida ha sido bendecida con buenos resultados. Oh Surendra, este excelente brahmana, el hermano menor de Vrihaspati, está ocupado en la realización de mis sacrificios».
 
 Indra dijo: «Conozco a tu sacerdote, este asceta de gran energía, el hermano menor de Vrihaspati, por cuya invitación he venido a este sacrificio. Estoy, oh monarca, muy complacido contigo y mi resentimiento contra ti ha sido destruido».
 
-Samvarta dijo: “Si, oh príncipe de los Devas, estás complacido con nosotros, da tú mismo todas las instrucciones para este sacrificio, y, oh Surendra, ordena tú mismo las porciones sacrificiales (para los dioses), para que, oh dios, todo el mundo sepa que ha sido realizado por ti”.
+Samvarta dijo: «Si, oh príncipe de los Devas, estás complacido con nosotros, da tú mismo todas las instrucciones para este sacrificio, y, oh Surendra, ordena tú mismo las porciones sacrificiales (para los dioses), para que, oh dios, todo el mundo sepa que ha sido realizado por ti».
 
 Vyasa dijo: «Ante el hijo de Angira, Sakra en persona ordenó a todos los dioses erigir el salón de la asamblea y mil habitaciones magníficas y bien amuebladas, de aspecto majestuoso, y completar rápidamente la escalera, maciza y duradera, para el ascenso de los Gandharvas y las Apsaras, y amueblar la parte del terreno de sacrificio reservada para la danza de las Apsaras, semejante al palacio de Indra en el cielo. ¡Oh, rey!, con estas instrucciones, los renombrados moradores del cielo cumplieron con prontitud las órdenes de Sakra. Y entonces, ¡oh, rey!, Indra, complacido y adorado, dijo así al rey Marutta: «Oh, príncipe, al asociarte contigo en este sacrificio, tus antepasados ​​que te precedieron, así como los demás dioses, se han sentido sumamente complacidos y han aceptado las ofrendas que ofreciste». Y ahora, oh rey, que el más destacado de los seres regenerados ofrezca en el altar del sacrificio un toro rojo, perteneciente al dios del Fuego, y un toro azul sagrado y debidamente consagrado, de piel jaspeada, perteneciente a los Viswedevas. Entonces, oh rey, la ceremonia del sacrificio cobró esplendor, en la que los propios dioses recogieron los alimentos, y Sakra, el señor de los dioses, dueño de caballos y adorado por los brahmanes, se convirtió en asistente del sacrificio. Y entonces, el noble Samvarta, ascendiendo al altar, radiante como la segunda encarnación del fuego abrasador, dirigiéndose en voz alta a los dioses con complacencia, ofreció oblaciones de mantequilla clarificada al fuego con el conjuro de los himnos sagrados. Y entonces, el verdugo de Vala bebió primero el jugo de soma, y ​​luego la asamblea de los demás dioses bebió soma. Y entonces, felices y con el permiso del rey, regresaron a casa, complacidos y encantados. Entonces ese monarca, el exterminador de sus enemigos, con un corazón regocijado, colocó montones de oro en diversos lugares y, al distribuir la inmensa riqueza entre los brahmanes, lucía glorioso como Kuvera, el dios de la riqueza. Y con un corazón alegre, el rey llenó su tesoro con diversos tipos de riqueza y, con el permiso de su preceptor espiritual, regresó (a su reino) y continuó gobernando todo el reino, extendiéndose hasta las orillas del mar. Tan virtuoso en este mundo fue ese rey, gracias a cuyo sacrificio se recolectó tan enorme cantidad de oro, y ahora, oh príncipe, debes recolectar ese oro y, adorando a los dioses con los debidos ritos, realiza este sacrificio.
 
-Vaisampayana continuó: “Entonces, el príncipe Pandava Yudhishthira se deleitó <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> al escuchar estas palabras del hijo de Satyavati (Vyasa), y deseoso de realizar su sacrificio con esas riquezas, mantuvo repetidas consultas con sus ministros”.
+Vaisampayana continuó: «Entonces, el príncipe Pandava Yudhishthira se deleitó <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> al escuchar estas palabras del hijo de Satyavati (Vyasa), y deseoso de realizar su sacrificio con esas riquezas, mantuvo repetidas consultas con sus ministros».
 
 
 ## SECCIÓN XI

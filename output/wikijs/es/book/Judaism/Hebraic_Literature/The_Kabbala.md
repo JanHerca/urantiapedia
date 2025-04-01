@@ -34,9 +34,9 @@ dateCreated: 2025-2-7T10:42:11Z
 
 «Las palabras de los sabios y sus dichos oscuros» (Prov. 1:6).
 
-<span id="p266">[<sup><small>pág. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 ## NOTA INTRODUCTORIA
 
@@ -50,7 +50,7 @@ Esto enseña el secreto del sentido místico de las Escrituras y las trece regla
 
 1\. «Gematría». Esta regla depende del valor numérico de cada letra del alfabeto. Su aplicación en la solución de un punto controvertido suele ser tan absurda como ingeniosa. Para aclarar aún más el tema, supongamos que se asigna un valor numérico estándar a cada letra del alfabeto inglés. _A_ tiene el valor de 1, _B_ 2, _C_ 3, _D_ 4, _E_ 5, _F_ 6, _G_ 7, _H_ 8, _I_ 9, _J_ 10, _K_ 20, _L_ 30, _M_ 40, _N_ 50, _O_ 60, _P_ 70, _Q_ 80, _R_ 90, _S_ 100, _T_ 200, _U_ 300, _V_ 400, _W_ 500, _X_ 1000, _Y_ 10.000, _Z_ 100.000. Y ahora supongamos un punto en disputa para ilustrar cómo se resuelve por Gematría. Supongamos que el tema de discusión es la superioridad comparativa de los idiomas hebreo e inglés, y Hugo y Baruch son los disputantes. El primero, siendo hebreo, sostiene que el hebreo es superior al inglés,
 
-<span id="p268">[<sup><small>pág. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 «Porque», dice él, «el valor numérico de las letras que forman la palabra hebreo es 610; mientras que el valor numérico de inglés es solo 209». Este último, siendo inglés, sostiene, por supuesto, exactamente la opinión contraria y argumenta lo siguiente: «Todo el mundo erudito debe admitir que el inglés es una lengua viva, pero no así el hebreo; y como está escrito (Eclesiastés ix. 4) que 'Un perro vivo es mejor que un león muerto', sostengo, por tanto, que el inglés es superior al hebreo». La disputa se remitió a una autoridad de Oxford para su decisión, y un erudito doctor la resolvió mediante:
 
@@ -76,9 +76,9 @@ La «Verdadera Cábala» se compone de misterios teóricos y prácticos.
 
 2\. La Cábala práctica es una rama de la teórica y trata del uso práctico de los nombres misteriosos de Dios y de los ángeles. Mediante la correcta pronunciación del Shem-ham-mephorash, es decir, el nombre inefable de Jehová, o los nombres de ciertos ángeles, o mediante la simple repetición de ciertos textos de las Escrituras, se realizaron y aún se realizan milagros y prodigios en el mundo judío.
 
-<span id="p270">[<sup><small>pág. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 ## LA KÁBALA
 
@@ -304,7 +304,7 @@ Es necesario prestar atención a los pies cuando el adorador repite "¡Santo! ¡
 
 _Ibídem._
 
-<span id="p282">[<sup><small>pág. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Cualquiera que visite una sinagoga puede observar la observancia de esta práctica. En las sinagogas jasidim, se prefiere saltar a levantar los talones.
 
@@ -377,7 +377,7 @@ Ehlaij Ehijla Ehjial Ehialj Ehjail
 
 etcétera.
 
-<span id="p287">[<sup><small>pág. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 El último día del mes se llama "El Pequeño Día de la Expiación", y es apropiado y apropiado hacer penitencia en ese día. El primer día del mes es un acto piadoso preparar un plato extra para la cena en honor a este día. Dios ha otorgado el primero del mes (como festividad) más a las mujeres que a los hombres, porque las tres festividades anuales se celebran según los tres patriarcas: Abraham, Isaac y Jacob, y porque los doce meses se celebran según las doce tribus; y como las tribus pecaron en el asunto del becerro de oro, y las mujeres no estuvieron dispuestas a renunciar a sus aretes de oro para ese propósito idólatra, por lo tanto, merecieron que Dios les diera como recompensa los primeros días de los doce meses, según el número de las tribus.
 
@@ -393,7 +393,7 @@ Debe meditar en las iniciales de los cuatro epítetos divinos que forman «Jacob
 
 ¡Que nos acompañen un buen augurio y buena suerte a nosotros y a todo Israel! Amén.
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

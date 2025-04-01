@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 3. Se puede romper un barril para comer higos secos; siempre que no se haga con la intención de preparar el barril para su uso posterior. No se debe perforar el tapón del barril; tal es el dictamen de R. Jehudah; pero los sabios lo permiten. [Según otra versión, R. José lo permite]. No se debe derramar un barril [perforar un costado]; y, si se derrama, no se debe encerar, ya que así se alisa. R. Jehudah dijo: «Un caso similar se presentó una vez ante R. Jochanan, ben Sachai, en Arob, cuando comentó: «Dudo que no debí haber infligido una ofrenda por el pecado al acusado»».
 
-<span id="p67">[<sup><small>pág. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 § 4. Pueden guardar víveres cocinados en una cueva para conservarlos; también pueden poner agua buena en una vasija en agua no potable para mantenerla fresca; asimismo, pueden poner agua fría en una vasija en agua caliente para calentarla. Quien haya caído su ropa al agua durante el camino puede continuar con ella sin vacilar. En cuanto llegue al patio exterior de la ciudad o aldea, puede extender su ropa al sol, pero no delante del pueblo públicamente.
 

@@ -1,6 +1,6 @@
 ---
 title: "Sirozah II"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -44,7 +44,7 @@ Sacrificamos a Vohu-Manô, el Amesha-Spe<i>n</i>ta; sacrificamos a la Paz, cuyo 
 
 Sacrificamos a Asha-Vahi<i>s</i>ta, la más bella, la Amesha-Spe<i>n</i>ta; sacrificamos al muy deseado Airyaman; sacrificamos al instrumento hecho por Mazda; sacrificamos al buen Saoka, con ojos de amor, hecho por Mazda y santo.
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## 4\. Shahrevar.
 
@@ -104,7 +104,7 @@ Sacrificamos a la Luna que guarda en ella la semilla del Toro. Sacrificamos al A
 
 Sacrificamos a Ti<i>s</i>trya, la estrella brillante y gloriosa; sacrificamos al poderoso Satavaêsa, hecho por Mazda, que empuja las aguas hacia adelante; sacrificamos a todas las estrellas que tienen en ellas la semilla de las aguas; sacrificamos a todas las estrellas que tienen en ellas la semilla de la tierra; sacrificamos a todas las estrellas que tienen en ellas las semillas de las plantas; sacrificamos a la estrella Vana<i>n</i><i>t</i>, hecha por Mazda; sacrificamos a esas estrellas que son siete en número, las Haptôiri<i>n</i>gas, hechas por Mazda, gloriosas y sanadoras; para oponernos a los Yâtus y Pairikas.
 
-<span id="p17">[<sup><small>pág. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## 14\. Buenos días.
 
@@ -134,7 +134,7 @@ Ofrecemos sacrificios a los buenos, fuertes y benéficos Fravashis de los santos
 
 Sacrificamos a la Fuerza bien formada y alta; sacrificamos a Verethraghna, hecha por Ahura; sacrificamos al Ascendente aplastante.
 
-<span id="p18">[<sup><small>pág. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## 21\. Ram.
 

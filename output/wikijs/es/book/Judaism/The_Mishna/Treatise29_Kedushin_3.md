@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. R. Meir dice: «Todo contrato que no prevea el caso negativo, como el celebrado entre las tribus de Gad y Rubén y las demás tribus de Israel, es nulo, pues allí se dice [Núm. 32:29, 30]: «Y Moisés les dijo: Si los hijos de Gad y Rubén cruzan el Jordán con vosotros», etc.; y también: «Pero si no cruzan armados con vosotros», etc.». R. Hanina ben Gamaliel dice: «En esa ocasión, era necesario mencionarlo [1119], pues de no ser por esa adición, podría suponerse que, en caso de incumplimiento de la condición, no recibirían posesión alguna en la tierra de Canaán». [1120]
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 § 5. Si un hombre, después de haberse comprometido con una mujer, dice: «Pensé que era hija de un sacerdote, y ahora resulta que es hija de un levita»; o: «Que era pobre, y la encontré rica», o lo contrario: el compromiso es válido, porque el engaño no procedió de ella. Cuando un hombre pagano le dice a una mujer israelita: «Estarás comprometida conmigo cuando me haya convertido al judaísmo»; o a una pagana: «Cuando te hayas convertido al judaísmo»; o en el caso de esclavos: «Después»; o a una esclava: «Después de que seas manumitida»; o a una mujer casada: «Después de la muerte de tu esposo»; o «Después de la muerte de tu hermana»; o, «Cuando te liberes de tu cuñado por la Jalitzá», todos estos compromisos son nulos. Además, si un hombre le dice a otro: «Si tu esposa da a luz una niña, será desposada conmigo». Pero si dicha esposa estaba en una etapa avanzada de embarazo, de modo que este hecho es claramente perceptible, y dio a luz una niña, el compromiso es válido. [^1121]
 

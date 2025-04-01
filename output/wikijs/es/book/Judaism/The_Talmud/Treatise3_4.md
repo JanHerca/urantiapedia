@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 1\. "¿Con qué se pueden cubrir (las ollas para conservar el calor)?" "¿Y con qué no se pueden cubrir?" "No se pueden cubrir con restos de aceite, ni estiércol, ni sal, ni cal, ni arena fresca ni seca, ni paja, ni pieles de uva, ni lana, ni hierbas cuando estén frescas, pero sí se pueden cubrir con ellas cuando estén secas. Se pueden cubrir con prendas de vestir, frutas, con alas de paloma, con aserrín de carpintero y con estopa de lino fino". El rabino Judah prohíbe el lino fino, pero permite el lino grueso.
 

@@ -32,15 +32,15 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## PRIMERA PARTE
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/00200.jpg)
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Serena y magnífica era esta ciudad donde antaño residió el gran ermitaño Kapila. Parecía construida a partir de algún fragmento del cielo: las murallas eran como nubes de luz, y las casas y jardines irradiaban un esplendor divino. Piedras preciosas brillaban por doquier. Tras sus puertas, la oscuridad era tan desconocida como la pobreza. De noche, cuando los rayos plateados de la luna acariciaban cada torre, la ciudad parecía un estanque de nenúfares; de día, cuando las terrazas se bañaban con un sol dorado, la ciudad era como un río de lotos.
 

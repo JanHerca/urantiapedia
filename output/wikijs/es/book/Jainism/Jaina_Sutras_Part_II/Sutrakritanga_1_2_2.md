@@ -58,7 +58,7 @@ Uno debe conocer (y renunciar) al gran apego (al mundo), al respeto y a los hono
 
 Un monje debe realizar posturas (como Kâyôtsarga, etc.) solo en su asiento, y solo en su lecho debe meditar; sobresaliendo en la realización de austeridades, siendo cuidadoso en sus palabras y moderado en sus pensamientos. (12)
 
-<span id="p255">[<sup><small>pág. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Un asceta no cierra la puerta de una casa desierta (en la que se aloja), ni la abre; cuando se le pregunta, no devuelve una respuesta (grosera); no corta la hierba, ni la esparce (en el suelo como lecho). (13)
 
@@ -76,7 +76,7 @@ Cuando un monje discute y usa un lenguaje muy malo, sufrirá una gran pérdida e
 
 El que se abstiene del agua fría [^743], que no planea (ni emprende) nada, y ha cesado incluso de las acciones más pequeñas, que no come comida del plato de un padre de familia, posee una conducta correcta, etc. (20)
 
-<span id="p256">[<sup><small>pág. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 Aunque la vida no puede prolongarse, como dice el dicho [^744], aun así, los necios pecan imprudentemente; un necio está, por así decirlo, repleto de pecados. Considerando esto, un sabio no es vanidoso. (21)
 
@@ -92,7 +92,7 @@ Aquellos que siguen la Ley que ha sido proclamada por <i>G</i><i>ñ</i>ât<i>ri<
 
 No prestes atención a los placeres seductores, esfuérzate por librarte del engaño. Quienes no se dejan dominar por los placeres perversos saben que la meditación es su deber [^748]. (27)
 
-<span id="p257">[<sup><small>pág. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Un monje no debe contar historias, ni hacer preguntas vanas, ni chismear [^749]. Pero, conociendo la Ley suprema, debe cumplir con sus deberes religiosos y no considerar nada como propio. (28)
 

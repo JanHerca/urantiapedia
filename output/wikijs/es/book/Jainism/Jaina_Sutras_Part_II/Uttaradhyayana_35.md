@@ -36,7 +36,7 @@ TRIGÉSIMA QUINTA CONFERENCIA. EL MONJE SIN CASA.
 
 Aprended de mí, con espíritu atento, el camino mostrado por los sabios [^576], que conduce al monje que lo sigue hasta el fin de toda miseria. (1)
 
-<span id="p204">[<sup><small>pág. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Al abandonar la vida en una casa y adoptar la Pravra<i>g</i>yâ, un sabio debe conocer y renunciar a aquellos apegos que se apoderan de los hombres. (2)
 
@@ -112,6 +112,6 @@ Así lo digo.
 
 [^581]: 204:2 Parakadā = parakṛiṭa, explicado como parair âtmârtham kṛiṭa.
 
-[^582]: 205:1 <i>Sukla dhyâna, ver nota [1](Uttaradhyayana_34#fn568), [p. 200](Uttaradhyayana_34#p200).
+[^582]: 205:1 <i>Sukla dhyâna, ver nota [1](../Uttaradhyayana_34#fn568), [p. 200](../Uttaradhyayana_34#p200).
 
 [^583]: 206:1 Por la destrucción del vîryântarâya.

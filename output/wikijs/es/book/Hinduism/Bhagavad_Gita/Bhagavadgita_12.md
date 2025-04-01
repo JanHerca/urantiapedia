@@ -66,7 +66,7 @@ Aquellos que, siendo constantemente devotos y poseedores de la fe más alta, me 
 
 ## Notas al pie
 
-[^403]: 99:1 Literalmente, «entrado en»; significa emancipación definitiva. Véase [p. 128](Bhagavadgita_18#p128).
+[^403]: 99:1 Literalmente, «entrado en»; significa emancipación definitiva. Véase [p. 128](../Bhagavadgita_18#p128).
 
 [^404]: 100:1 Observar pasivamente lo que ocurre en la Tierra; inamovible = sin cambio; constante = eterno.
 
@@ -76,7 +76,7 @@ Aquellos que, siendo constantemente devotos y poseedores de la fe más alta, me 
 
 [^407]: 100:4 Literalmente, 'deseo'.
 
-[^408]: 100:5 Cf. [pag. 78](Bhagavadgita_8#p78) supra.
+[^408]: 100:5 Cf. [pag. 78](../Bhagavadgita_8#p78) supra.
 
 [^409]: 100:6 Realizar acciones, pero dedicándolas a mí.
 

@@ -951,7 +951,7 @@ Con hogares apropiados para cada uno asignados,
 Con los campeones de Ráma feroces y fuertes 
 La tierra se extendió, 
 Alta como las colinas y las nubes, una multitud 
-Con cuerpos vastos y temibles. [1](Book_1_20#fn123) 
+Con cuerpos vastos y temibles. [1](../Book_1_20#fn123) 
 
 \* \* \* \* \* 
 
@@ -1104,7 +1104,7 @@ diera a luz a su hijo prometido.
 El glorioso sabio prosiguió su camino 
 hasta que vio de cerca a 
 la dulce Champá, la bella ciudad de Lomapád, 
-coronada con la frondosa corona de sus Champacs [1](Libro_1_20#fn125). 
+coronada con la frondosa corona de sus Champacs [1](../Libro_1_20#fn125). 
 Tan pronto como supo que el santo se acercaba, 
 el rey, para rendirle el honor debido, 
 salió a recibirlo con un grupo 
@@ -1309,7 +1309,7 @@ Pero entre esos jóvenes de alta ascendencia,
 con una luz señorial preeminente. 
 Como la luna llena sin nubes, brillaba 
 Ráma, el modelo amado del mundo. 
-Él era quien mejor guiaba al elefante. [1b](Libro_1_20#fn136) 
+Él era quien mejor guiaba al elefante. [1b](../Libro_1_20#fn136) 
 Impulsa el veloz carro, cabalga el corcel; 
 maestro en la habilidad del arquero, 
 feliz de cumplir la voluntad de su padre. 
@@ -1409,7 +1409,7 @@ y los sentaron por grado,
 cada uno, de rango y dignidad. 
 La alegría llenó el pecho del noble príncipe 
 , quien así habló al invitado de honor: 
-'Como amrit [1b](Book_1_30#fn140) encontrado por un mortal, 
+'Como amrit [1b](../Book_1_30#fn140) encontrado por un mortal, 
 como la lluvia sobre la tierra sedienta, 
 como a un hombre sin heredero un hijo 
 nacido de su amada, 
@@ -1522,7 +1522,7 @@ deleitosas para la mente y el oído.
   El Vis'vajit, o el que todo lo conquista, es una subdivisión similar. 
   Áyus es un servicio que forma parte del sacrificio Abhiplava. 
   El Aptoryám es la séptima o última parte del Jyotishtoma, para cuya ejecución no es esencialmente necesario, sino un sacrificio voluntario instituido para la consecución de un deseo específico. El significado literal de la palabra estaría en conformidad con el Praudhamanoramá, un sacrificio que procura la consecución del objeto deseado. DICCIONARIO DE GOLDSTÜCKER. 
-  El Ukthya es una ligera modificación del sacrificio Agnishtoma. El sustantivo que se le debe añadir es kratu. También es un sacrificio de Soma, y ​​uno de los siete Sansthas o partes componentes del Jyotishtoma. Su nombre indica su naturaleza. Porque _Ukthya_ significa “lo que se refiere al Uktha”, que es un nombre más antiguo para Shástra, es decir, la recitación de uno de los sacerdotes Hotri en el momento de las libaciones de Soma. Por lo tanto, este sacrificio es solo una especie de suplemento al Agnishtoma.' HAUG. 
+  El Ukthya es una ligera modificación del sacrificio Agnishtoma. El sustantivo que se le debe añadir es kratu. También es un sacrificio de Soma, y ​​uno de los siete Sansthas o partes componentes del Jyotishtoma. Su nombre indica su naturaleza. Porque _Ukthya_ significa «lo que se refiere al Uktha», que es un nombre más antiguo para Shástra, es decir, la recitación de uno de los sacerdotes Hotri en el momento de las libaciones de Soma. Por lo tanto, este sacrificio es solo una especie de suplemento al Agnishtoma.' HAUG. 
 
 [^103]: 24:1b 'En la India se requerían cuatro clases de sacerdotes en los sacrificios más solemnes. 1. Los sacerdotes oficiantes, los trabajadores manuales y los acólitos, que principalmente tenían que preparar el terreno del sacrificio, vestir el altar, inmolar a las víctimas y derramar las libaciones. 2. Los coristas, que cantan los himnos sagrados. 3. Los recitadores o lectores, que repiten ciertos himnos. 4. Los supervisores u obispos, que vigilan y supervisan los procedimientos de los demás sacerdotes, deben estar familiarizados con todos los Vedas. Las fórmulas y versos que debe recitar la primera clase se encuentran en el Yajur-veda-sanhitá. Los himnos que debe cantar la segunda clase se encuentran en el Sama-veda-sanhitá. Se dice que el Atharva-veda está dirigido al brahmán o supervisor, quien debe supervisar los procedimientos del sacrificio y remediar cualquier error que pueda ocurrir. Los himnos que debe recitar la tercera clase se encuentran en el Rigveds, 'Fichas de un taller alemán'. 
 

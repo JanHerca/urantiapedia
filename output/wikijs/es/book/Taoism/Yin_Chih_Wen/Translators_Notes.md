@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:15Z
   </table>
 </figure>
 
-<span id="p39">[<sup><small>pág. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 <a id="xref_1"></a>
 
@@ -44,11 +44,11 @@ dateCreated: 2025-2-12T12:59:15Z
 
 <a id="xref_3"></a>
 
-3\. Omitimos aquí algunas líneas que, para el lector angloparlante, no familiarizado con las costumbres chinas, parecerían interrumpir el contexto. En la primera frase del texto chino, «Señor Escritura Gloria» alude a varias historias morales, bien conocidas entre los chinos, como ejemplos de recompensas a la virtud. Hemos eliminado las líneas omitidas del Comentario Chino, donde están impresas con el mismo tipo que nuestra traducción del texto de Yin Chih Wen, para que sean fácilmente reconocibles. Por lo que sabemos, los pasajes podrían ser una adición posterior que se ha colado en el texto, pero incluso entonces, por supuesto, deben ser más antiguos que los comentarios correspondientes en los que se narran las historias a las que se alude. Para más detalles, véase el Comentario Chino 3-6, titulado “Un buen juez”, [CC4](Notes_of_the_Chinese_Commentator#xref_CC4) “La humanidad recompensada”, [CC5](Notes_of_the_Chinese_Commentator#xref_CC5) “Salvando muchas vidas” y “La serpiente de dos cabezas”. [CC6](Notes_of_the_Chinese_Commentator#xref_CC6)
+3\. Omitimos aquí algunas líneas que, para el lector angloparlante, no familiarizado con las costumbres chinas, parecerían interrumpir el contexto. En la primera frase del texto chino, «Señor Escritura Gloria» alude a varias historias morales, bien conocidas entre los chinos, como ejemplos de recompensas a la virtud. Hemos eliminado las líneas omitidas del Comentario Chino, donde están impresas con el mismo tipo que nuestra traducción del texto de Yin Chih Wen, para que sean fácilmente reconocibles. Por lo que sabemos, los pasajes podrían ser una adición posterior que se ha colado en el texto, pero incluso entonces, por supuesto, deben ser más antiguos que los comentarios correspondientes en los que se narran las historias a las que se alude. Para más detalles, véase el Comentario Chino 3-6, titulado «Un buen juez», [CC4](../Notes_of_the_Chinese_Commentator#xref_CC4) «La humanidad recompensada», [CC5](../Notes_of_the_Chinese_Commentator#xref_CC5) «Salvando muchas vidas» y «La serpiente de dos cabezas». [CC6](../Notes_of_the_Chinese_Commentator#xref_CC6)
 
 <a id="xref_4"></a>
 
-4\. “La dicha de la felicidad” es un término budista y su original sánscrito es probablemente _punyakshetra_.
+4\. «La dicha de la felicidad» es un término budista y su original sánscrito es probablemente _punyakshetra_.
 
 <a id="xref_5"></a>
 
@@ -58,7 +58,7 @@ El comentarista interpreta el término _fang pien_ en un sentido popular y lo in
 
 <a id="xref_6"></a>
 
-6\. “Criaturas” debe entenderse en el sentido más amplio, pues se refiere a todos los objetos que nos rodean.
+6\. «Criaturas» debe entenderse en el sentido más amplio, pues se refiere a todos los objetos que nos rodean.
 
 <a id="xref_7"></a>
 
@@ -121,13 +121,13 @@ El comentarista interpreta el término _fang pien_ en un sentido popular y lo in
 21\. Este es uno de los preceptos más nobles dados por el Buda. (El Dhammapada, verso 183). En pali dice:
 
 “Sabba pâpassa akaranam,
-“Kusalassa upasampadâ”.
+«Kusalassa upasampadâ».
 
 Niao Che, un recluso budista que vivió en Hang Chou alrededor del año 800 d. C., declara: «Hasta un niño de tres años puede decir esto, pero incluso a un hombre canoso le resulta difícil practicarlo». Cf. también Salmos XXXIV, 14 y XXXVII, 27.
 
 <a id="xref_22"></a>
 
-22\. “La palabra china _shen_ significa dios o cualquier ser espiritual, y según el contexto aquí se traduciría mejor como “ángel”.
+22\. «La palabra china _shen_ significa dios o cualquier ser espiritual, y según el contexto aquí se traduciría mejor como “ángel».
 
 
 <figure class="table chapter-navigator">

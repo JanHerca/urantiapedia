@@ -8,7 +8,42 @@ editor: markdown
 dateCreated: 2025-2-12T12:54:39Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-shinto"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Basil Hall Chamberlain (tr.)</text>		<text style="font-size:4px" x="61" y="125">1919</text>		<text style="font-size:9px" x="61" y="60">El Kojiki</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Una traducción del “Ko-ji-ki”</span><br>O<br>«REGISTROS DE ASUNTOS ANTIGUOS».(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)<br><span class="text-h5">por BASIL HALL CHAMBERLAIN.</span><br>[Leído ante la Sociedad Asiática del Japón el 12 de abril, el 10 de mayo y el 21 de junio de 1882.]<br>[Reimpreso en mayo de 1919.]<br><br>[1919]<br><br>Escaneado en www.sacred-texts.com, julio de 2000-junio de 2005, por JB Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Shintoism/The_Kojiki/ama.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-shinto">«Ko-ji-ki»
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Basil Hall Chamberlain (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1919</text>
+		<text style="font-size:9px" x="61" y="60">El Kojiki</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Una traducción del “Ko-ji-ki”</span><br>
+O<br>
+«REGISTROS DE ASUNTOS ANTIGUOS».
+(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)<br>
+<span class="text-h5">por BASIL HALL CHAMBERLAIN.</span><br>
+[Leído ante la Sociedad Asiática del Japón el 12 de abril, el 10 de mayo y el 21 de junio de 1882.]<br>
+[Reimpreso en mayo de 1919.]<br>
+<br>
+[1919]<br>
+<br>
+Escaneado en www.sacred-texts.com, julio de 2000-junio de 2005, por JB Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Shintoism/The_Kojiki/ama.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Índice
 
 - Introducción

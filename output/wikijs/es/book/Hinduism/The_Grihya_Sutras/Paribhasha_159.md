@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p360">[<sup><small>pág. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 <span id="an151"></span>
 

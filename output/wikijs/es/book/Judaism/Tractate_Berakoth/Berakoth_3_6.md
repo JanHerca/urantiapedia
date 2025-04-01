@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **M**.VI. 1. ¿Cuál es la forma de la bendición sobre los frutos? [^274] Sobre los frutos de los árboles se dice: «Tú que creas el fruto del árbol»; con la excepción del vino, pues sobre el vino se dice: «Tú que creas el fruto de la vid». Sobre los frutos de la tierra se dice: «Tú que creas el fruto de la tierra»; con la excepción de un trozo de pan, pues sobre un trozo de pan se dice: «Tú que sacas el pan de la tierra». Sobre las verduras se dice: «Tú
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 **M**.que creas el fruto de la tierra.« R. Judah solía decir: “Tú que creas diferentes tipos de hierbas».
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 4\. Si un hombre tiene delante muchas clases de frutas, R. Judah dice: Si entre ellas hay una de las siete clases, dice la bendición sobre ella. [^281]
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 **M**.\[el párrafo continúa\] Pero la Mayoría dice: Él dice la Bendición sobre cualquiera de ellos que le plazca.
 
@@ -62,9 +62,9 @@ T. IV. 1. Que nadie pruebe nada sin pronunciar una bendición, pues se dice: «D
 
 5\. Si ha visto higos y ha dicho: «Bendito sea Quien ha creado estos higos; ¡qué hermosos son!», esta es su bendición. R. José dice: Todo aquel que cambia la fórmula que la Mayoría formó en una bendición no ha cumplido con su obligación. R. Judah dice: Si algo se altera de su estado natural, y luego se modifica la bendición, se ha cumplido con su obligación. [^292]
 
-6\. Quien mastica granos de trigo dice la bendición sobre ellos: «Que creas diferentes tipos de semillas». Si los ha horneado o hervido, cuando los granos permanecen visibles, dice la bendición sobre ellos: «Que sacas el pan de la tierra», [^293] y (después de la comida) dice tres bendiciones sobre ellos. [^294] Si los granos no permanecen visibles, dice la bendición sobre ellos: «Que creas diferentes <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> tipos de alimentos», y dice una bendición después de ellos. [1](Berakoth_3_6#fn_295)
+6\. Quien mastica granos de trigo dice la bendición sobre ellos: «Que creas diferentes tipos de semillas». Si los ha horneado o hervido, cuando los granos permanecen visibles, dice la bendición sobre ellos: «Que sacas el pan de la tierra», [^293] y (después de la comida) dice tres bendiciones sobre ellos. [^294] Si los granos no permanecen visibles, dice la bendición sobre ellos: «Que creas diferentes <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> tipos de alimentos», y dice una bendición después de ellos. [1](../Berakoth_3_6#fn_295)
 
-7\. Quien mastica arroz [2](Berakoth_3_6#fn_296) dice la bendición sobre él: «que creas diferentes tipos de semillas». Si lo ha horneado o hervido, mientras los granos permanezcan distinguidos, dice la bendición sobre ellos: «que creas diferentes tipos de alimentos», y no dice ninguna bendición después. Este es el principio general: en el caso de todo lo que comienza con (la bendición) «que sacas el pan», se dicen tres bendiciones después.
+7\. Quien mastica arroz [2](../Berakoth_3_6#fn_296) dice la bendición sobre él: «que creas diferentes tipos de semillas». Si lo ha horneado o hervido, mientras los granos permanezcan distinguidos, dice la bendición sobre ellos: «que creas diferentes tipos de alimentos», y no dice ninguna bendición después. Este es el principio general: en el caso de todo lo que comienza con (la bendición) «que sacas el pan», se dicen tres bendiciones después.
 
 <a id="m1"></a>
 
@@ -72,7 +72,7 @@ T. IV. 1. Que nadie pruebe nada sin pronunciar una bendición, pues se dice: «D
 
 **M**.VI. 5. Si alguien ha dicho la bendición sobre el vino que se sirve antes de la comida, deja libre el vino que se sirve después. [^297] Si ha dicho la bendición sobre los entremeses que se sirven antes de la comida, deja libre el entremés que se sirve después. Si ha dicho la bendición sobre el pan, deja libre el entremés; si lo hace sobre los entremeses [^298], no deja libre el pan. La escuela de Shammai dice: ni nada que se cueza en la olla. [^299]
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -102,7 +102,7 @@ El orden para mezclar la copa: ¿cómo se organiza? A mitad de la comida, comien
 
 7\. Dos se esperan mutuamente en un plato; [^314] pero tres no esperan. [^315] El que reza la bendición extiende la mano primero para tomar la comida. Si desea ceder el honor a su maestro o a alguien mayor, se le permite hacerlo.
 
-<span id="p51">[<sup><small>pág. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 **T**.
 
@@ -118,7 +118,7 @@ Rabán Simeón ben Gamaliel dice: Los trozos de pan son una gran señal para los
 
 15\. Decimos [^319] la bendición sobre el maíz más selecto. ¿Cómo? En el caso de una hogaza entera de harina de Lesbia [^320] y una hogaza entera de
 
-<span id="p52">[<sup><small>pág. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 **T**.
 
@@ -128,7 +128,7 @@ Ahora bien, hay un incidente en la vida de Rabán Gamaliel y algunos ancianos, q
 
 R. Judah dice en nombre de Rabban Gamaliel: En el caso de todo lo que es uno de los siete
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 **T**.
 
@@ -148,7 +148,7 @@ Pero ¿por qué Judá merecía el reino? Por su humildad. Pues se dice: «Ahora 
 
 21\. En el caso de los obreros que recogen higos, dátiles o aceitunas, aunque se interrumpan repetidamente para comer (algo de lo que recogen), no es necesario que recen la bendición en orden irregular, y al regresar, no es necesario que recen la <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> bendición como al principio. Si se retiran, es necesario que recen la bendición en orden irregular, y al regresar, es necesario que recen la bendición como al principio.
 
-VI. 8. Si uno ha comido higos, uvas y granadas, dice tres bendiciones [1](Berakoth_3_6#fn_351) sobre ellos. [2](Berakoth_3_6#fn_352) Esta es la opinión de Rabán Gamaliel. Pero la mayoría dice: Una bendición, que es el resumen de tres. R. Aqiba dice: incluso si come potaje de verduras, dice tres bendiciones sobre él. Y quien bebe agua para saciar su sed dice [la bendición]: «Porque todo llegó a existir por Su palabra». [3](Berakoth_3_6#fn_353) R. Tarfón dice: «Tú, que creas las almas y sus necesidades». [4](Berakoth_3_6#fn_354)
+VI. 8. Si uno ha comido higos, uvas y granadas, dice tres bendiciones [1](../Berakoth_3_6#fn_351) sobre ellos. [2](../Berakoth_3_6#fn_352) Esta es la opinión de Rabán Gamaliel. Pero la mayoría dice: Una bendición, que es el resumen de tres. R. Aqiba dice: incluso si come potaje de verduras, dice tres bendiciones sobre él. Y quien bebe agua para saciar su sed dice [la bendición]: «Porque todo llegó a existir por Su palabra». [3](../Berakoth_3_6#fn_353) R. Tarfón dice: «Tú, que creas las almas y sus necesidades». [4](../Berakoth_3_6#fn_354)
 
 <a id="m3"></a>
 
@@ -210,7 +210,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^281]: 44:6 _una maldición_. Por corrupción, como en el caso del vinagre (del vino), la fruta caída, el queso, o por ser símbolos de destrucción, como en el caso de las langostas (Joel 21-11).
 
-[^282]: 44:7 _es decir_ la Bendición que corresponde a cualquiera de las siete especies (ver [p. 57](Berakoth_3_6#p57)) que elija.
+[^282]: 44:7 _es decir_ la Bendición que corresponde a cualquiera de las siete especies (ver [p. 57](../Berakoth_3_6#p57)) que elija.
 
 [^283]: 45:1 Sal. 241.
 
@@ -222,13 +222,13 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^287]: 45:5 _salmuera_ (_encurtido_). Se usa la palabra latina _muries_. Para la bendición, deben tratarse como licores, no como frutas.
 
-[^288]: 45:6 _el fruto del árbol_. El vino puro no solía beberse; por lo tanto, no debía tener la misma bendición que el vino mezclado con agua. Cf. [p. 64](Berakoth_3_7#p64).
+[^288]: 45:6 _el fruto del árbol_. El vino puro no solía beberse; por lo tanto, no debía tener la misma bendición que el vino mezclado con agua. Cf. [p. 64](../Berakoth_3_7#p64).
 
 [^289]: 45:7 _son todos uno_. Porque ambos son de la vid.
 
 [^290]: 46:1 No verbalmente en SA, y así con la mayoría de las bendiciones en esta sección.
 
-[^291]: 46:2 _las semillas_. Alimento, aparte del pan, preparado a partir de cualquiera de «las cinco especies de grano» (trigo, cebada, centeno, avena y espelta) (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](Berakoth_3_6#p53).
+[^291]: 46:2 _las semillas_. Alimento, aparte del pan, preparado a partir de cualquiera de «las cinco especies de grano» (trigo, cebada, centeno, avena y espelta) (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](../Berakoth_3_6#p53).
 
 [^292]: 46:3 _esta es su bendición_. No es necesario repetir la fórmula habitual de SA, pág. 278.
 
@@ -240,7 +240,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^296]: 47:1 Cf. M. VI. 8.
 
-[^297]: 47:2 _arroz_. No es de las «siete» clases (véase [p. 53](Berakoth_3_6#p53)), ni de las cinco semillas (véase [p. 46](Berakoth_3_6#p46)).
+[^297]: 47:2 _arroz_. No es de las «siete» clases (véase [p. 53](../Berakoth_3_6#p53)), ni de las cinco semillas (véase [p. 46](../Berakoth_3_6#p46)).
 
 [^298]: 47:3 _deja... ir libre_. Literalmente, "exime el vino que se sirve después de la comida", y así siempre en esta frase. La presente regulación se refiere únicamente a los sábados y días festivos, en los cuales, al recitar la bendición sobre el vino antes de la comida, se pretende beber vino también después de la comida (Bartenora).
 
@@ -254,7 +254,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^303]: 48:3 _para sí mismo_. Puede que las bocas de los demás no estén vacías, y no puedan decir Amén con seguridad. También puede que no estén prestando atención. La respuesta se atribuye a Ben Zoma en _T_. IV. 12.
 
-[^304]: 48:4 _Especias puestas sobre las brasas_. Para endulzar la habitación después de la comida, o en honor a los invitados (Krauss, i, 238, 690; iii. 63). Cf. _infra_, [p. 68](Berakoth_3_8#p68).
+[^304]: 48:4 _Especias puestas sobre las brasas_. Para endulzar la habitación después de la comida, o en honor a los invitados (Krauss, i, 238, 690; iii. 63). Cf. _infra_, [p. 68](../Berakoth_3_8#p68).
 
 [^305]: 48:5 _después de la fiesta_. Cuando ya se habrá dicho la bendición de clausura.
 
@@ -276,7 +276,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^314]: 50:4 _debajo de él_. Las personas se reclinaban sobre su lado izquierdo para tener la mano derecha libre. Por lo tanto, "debajo" significa a la derecha, "arriba" a la izquierda. En Juan 1323, 25, San Juan mismo estaba a la derecha de nuestro Señor, y quizás San Pedro a su izquierda.
 
-[^315]: 50:5 _Dos esperan_. Presumiblemente porque, al ser menos de tres, no pueden formar una compañía religiosa (véase infra, págs. [59](Berakoth_3_6#p59), [62](Berakoth_3_7#p62), [63](Berakoth_3_7#p63)) y cada uno es igual al otro.
+[^315]: 50:5 _Dos esperan_. Presumiblemente porque, al ser menos de tres, no pueden formar una compañía religiosa (véase infra, págs. [59](../Berakoth_3_6#p59), [62](../Berakoth_3_7#p62), [63](../Berakoth_3_7#p63)) y cada uno es igual al otro.
 
 [^316]: 50:6 _tres no esperan_. Forman una compañía y tienen un líder, que se ayuda a sí mismo primero.
 
@@ -346,7 +346,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^349]: 56:2 _acompañar a la novia a casa_. Este acto era tan meritorio que a veces se interrumpía el estudio de la Torá para hacerlo. Véase Krauss, ii. 39.
 
-[^350]: 56:3 _en orden irregular_. (_lmiphrea'_.) Porque debe decirse realmente después de toda la comida, y (si se dice), de hecho va seguida de una nueva bendición, como al principio. La presencia de un anciano o un enfermo prolonga la comida hasta que los demás regresan. En _M_. II. 4 (3) se refiere a recitar las porciones del Shemá en orden irregular (_supra_, [p. 16](Berakoth_1_2#p16)).
+[^350]: 56:3 _en orden irregular_. (_lmiphrea'_.) Porque debe decirse realmente después de toda la comida, y (si se dice), de hecho va seguida de una nueva bendición, como al principio. La presencia de un anciano o un enfermo prolonga la comida hasta que los demás regresan. En _M_. II. 4 (3) se refiere a recitar las porciones del Shemá en orden irregular (_supra_, [p. 16](../Berakoth_1_2#p16)).
 
 [^351]: 56:4 _comiendo_. Solo, sin invitados.
 
@@ -358,7 +358,7 @@ Le dijo: «Si es así, no nos detengamos. Quizás ustedes dos decidan la Regla e
 
 [^355]: 57:4 _Ibíd_.
 
-[^356]: 57:5 _la tarde_ (_ha minchah_), _es decir_ alrededor de las 3.30 pm _Vide supra_, [p. 28](Berakoth_1_3#p28).
+[^356]: 57:5 _la tarde_ (_ha minchah_), _es decir_ alrededor de las 3.30 pm _Vide supra_, [p. 28](../Berakoth_1_3#p28).
 
 [^357]: 58:1 _y llegó el día santo_. Literalmente, «y el barro se volvió santo sobre ellos», es decir, comenzó el sabbat, pues llegó la oscuridad.
 

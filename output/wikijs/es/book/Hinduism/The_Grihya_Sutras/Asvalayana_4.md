@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 ## ADHYÂYA IV, KANDIKÂ
 
@@ -130,7 +130,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p240">[<sup><small>pág. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 3.
 
@@ -387,7 +387,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 24\. [^634]. La comida (se junta) con la comida.
 
-25\. [^635]. Se dice: “Lo que se da y se ofrece, eso trae prosperidad”.
+25\. [^635]. Se dice: «Lo que se da y se ofrece, eso trae prosperidad».
 
 26\. [^636]. Cuando vea que están saciados, debe recitar (los versos) que contienen la palabra ma dh u, y (el verso), 'Han comido, han disfrutado' (Rig-veda I, 82, 2).
 

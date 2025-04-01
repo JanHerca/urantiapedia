@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ### BIBLIOGRAFÍA.
 
@@ -56,7 +56,7 @@ Padre. Francisco Bartolomé, OFM: _Tractatus de Indulgencee S. María de la Porc
 
 Padre. Bartolomé de Pisa, OFM: _Sobre la conformidad de la vida del beato Francisco con la vida del Santo Padre Jesucristo_. Milán, 1510. [^627]
 
-<span id="p190">[<sup><small>pág. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Padre. Bernardo de Bessa, OFM: _Libro de Alabanzas al Beato Francisco_. En _Anal. Franc._, t. III.
 
@@ -72,7 +72,7 @@ San Buenaventura: _Dos leyendas de la vida de San Francisco_. Quaracchi, 1898. (
 
 _Franciscano Bullary_. Ed. FF Hyacinth Sbaralea y Conrad Eubel, OMConv. 1759 y 1898.
 
-Montgomery Carmichael: _La bendición de San Francisco_. Livorno, 1900. "El origen de la Regla de San Francisco", en _Dublin Review_, Vol. CXXXIV, 1904, pág. 357-3 “Los escritos de San Francisco”, en el _Month_, enero de 1904, pág. CIII, págs. 156-1 Véase también _Sacrum Commercium_.
+Montgomery Carmichael: _La bendición de San Francisco_. Livorno, 1900. "El origen de la Regla de San Francisco", en _Dublin Review_, Vol. CXXXIV, 1904, pág. 357-3 «Los escritos de San Francisco», en el _Month_, enero de 1904, pág. CIII, págs. 156-1 Véase también _Sacrum Commercium_.
 
 Padre. Tomás de Celano, OFM: _Vida primera de San Francisco_. Ed. Suyskens, SJ, en _Acta SS_, octubre, II.
 
@@ -80,7 +80,7 @@ _Segunda vida de San Francisco_. Ed. Amón. Roma, 1880.
 
 _Tractatus de Miraculis_. Ed. Van Ortroy, SJ, en _Anal. Bol._, t. XVIII, 1899.
 
-<span id="p191">[<sup><small>pág. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 _Vida de Santa Clara_. Ed. Sedulio, OFM Amberes, 1613.
 
@@ -100,9 +100,9 @@ P. Thomas Eccleston, OFM: _De Adventu Fratrum Minorum in Angliam_ en _Anal. Fran
 
 Padre. Edouard d'Alençon, OMCap.: [^628] _Epístola de San Francisco al Ministro General en su forma auténtica_. Roma, 1899. _La bendición de San Francisco_. París, 1896. Véase también _Sacrum Commercium_.
 
-P. Ehrle, SJ: “Los manuscritos históricos de San Francisco en Asís” en el _Archivo de_ <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> _Literatura e historia de la Iglesia de la Edad Media_, t. Yo, págs. 484 y siguientes. “Controversias sobre los inicios de la Orden Minorita” en _Journal for Catholic Theology_, t. XI, págs. 725 y siguientes.
+P. Ehrle, SJ: «Los manuscritos históricos de San Francisco en Asís» en el _Archivo de_ <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> _Literatura e historia de la Iglesia de la Edad Media_, t. Yo, págs. 484 y siguientes. «Controversias sobre los inicios de la Orden Minorita» en _Journal for Catholic Theology_, t. XI, págs. 725 y siguientes.
 
-Monseñor. Faloci-Pulignani: “Tres autógrafos de San Francisco” en _Misc. Francescana_, vol. VI, págs. 33 y siguientes, y “La caligrafía de San Francisco”, _l.c._, t. VII, págs. 67 ss.
+Monseñor. Faloci-Pulignani: «Tres autógrafos de San Francisco» en _Misc. Francescana_, vol. VI, págs. 33 y siguientes, y «La caligrafía de San Francisco», _l.c._, t. VII, págs. 67 ss.
 
 _Floretum S. Francisci Assisiensis_. Ed. Sabatier. París, 1902. Una versión italiana satisfactoria de las _Fioretti_ es la de Barbere, Florencia, 1902. Una excelente traducción al inglés, _Las pequeñas flores de San Juan_. Francis_, es publicado por Kegan Paul,
 
@@ -118,11 +118,11 @@ P. Jordani y Jano, OFM: _Chronica_, en _Anal. Franc._, t. I.
 
 León de Kerval: _Dos vidas de San Antonio de Padua_. París, 1904.
 
-Padre. Leonard Lemmens, OFM: “Los comienzos de la Orden de las Clarisas” en _Römische Quartalschrift_, t. XVI, págs. 93 y sigs. _Scripta Fratris Leonis_, Quaracchi, 1901. Véase también _Speculum Perfectionis_.
+Padre. Leonard Lemmens, OFM: «Los comienzos de la Orden de las Clarisas» en _Römische Quartalschrift_, t. XVI, págs. 93 y sigs. _Scripta Fratris Leonis_, Quaracchi, 1901. Véase también _Speculum Perfectionis_.
 
 Abad León Le Monnier: _Historia de San Francisco_
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 _d'Assise_. (Traducción al inglés de un terciario franciscano. Kegan Paul, 1894.)
 
@@ -168,7 +168,7 @@ _Los Tres Compañeros, Leyenda de San Francisco de Asís_. Ed. Faloci. Foligno, 
 
 Padre. Ubald d'Alençon, OMCap.: _Los opúsculos de S. François d'Assise_. París, 1905.
 
-<span id="p195">[<sup><small>pág. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Padre. Van Ortroy, SJ Por su artículo sobre los _Opuscula_ de San Juan Bautista. Francisco, véase _Bollandian Analecta_, t. xxiv, fasc. iii (1905), pág. 411 ss.
 

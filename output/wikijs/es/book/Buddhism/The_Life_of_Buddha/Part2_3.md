@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>pág. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 
 El Bendito se preguntaba quién era digno de ser el primero en escuchar la palabra de salvación. "¿Dónde hay un hombre de virtud, inteligencia y energía a quien pueda enseñar la ley?", se preguntaba. "Su corazón debe estar libre de odio, su mente debe estar tranquila, y no debe guardarse el conocimiento para sí mismo como si fuera un oscuro secreto".
@@ -43,7 +43,7 @@ Es una gran lástima que Rudraka, hijo de Rama, muriera sin haber escuchado la l
 
 Pensó en Arata Kalama. Recordó su inteligencia lúcida y su vida virtuosa, y decidió <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> que Arata Kalama estaría encantado de propagar el conocimiento. Y esta pregunta surgió en su mente: "¿Dónde está Arata Kalama ahora?". Entonces supo que Arata Kalama llevaba muerto tres días, y dijo:
 
-“Arata Kalama murió sin escuchar la ley; grande es la pérdida de Arata Kalama”.
+«Arata Kalama murió sin escuchar la ley; grande es la pérdida de Arata Kalama».
 
 Volvió a pensar y recordó a los cinco discípulos de Rudraka que una vez se le habían unido. Eran virtuosos; eran enérgicos; sin duda comprenderían la ley. El Bendito sabía, gracias a su inteligencia, que los cinco discípulos de Rudraka vivían en el Parque de los Ciervos de Benarés. Así que partió hacia Bernarés.
 
@@ -53,21 +53,21 @@ En el Monte Gaya se encontró con un monje llamado Upaka. Al ver al Bendito, Upa
 
 —No tuve amo —respondió el Bendito—. No hay nadie como yo. Solo yo soy sabio, sereno e incorruptible.
 
-“¡Qué gran maestro debes ser!”, dijo Upaka. “Sí, soy el único maestro en este mundo; mi
+«¡Qué gran maestro debes ser!», dijo Upaka. “Sí, soy el único maestro en este mundo; mi
 
-“No se puede encontrar nada igual en la tierra ni en el cielo”. “¿A dónde vas?”, preguntó Upaka.
+«No se puede encontrar nada igual en la tierra ni en el cielo». «¿A dónde vas?», preguntó Upaka.
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 «Voy a Benarés», dijo el Bendito, «y allí encenderé la lámpara que traerá luz al mundo, una luz que deslumbrará incluso a los ciegos. Voy a Benarés, y allí tocaré los tambores que despertarán a la humanidad, tambores que sonarán incluso en los oídos de los sordos. Voy a Benarés, y allí enseñaré la ley».
 
 Continuó su camino y llegó a la orilla del Ganges. El río estaba crecido, y el Bendito buscó un barquero que lo ayudara a cruzar. Encontró uno y le dijo:
 
-“Amigo, ¿me llevarás al otro lado del río?”
+«Amigo, ¿me llevarás al otro lado del río?»
 
-“Por supuesto”, respondió el barquero, “pero primero págueme el viaje”.
+«Por supuesto», respondió el barquero, «pero primero págueme el viaje».
 
-“No tengo dinero”, dijo el Bendito.
+«No tengo dinero», dijo el Bendito.
 
 Y voló por los aires hacia la orilla opuesta.
 

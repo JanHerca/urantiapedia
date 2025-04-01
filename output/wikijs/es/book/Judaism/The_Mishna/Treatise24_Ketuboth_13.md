@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. \[En el caso de\] un hombre que fue más allá de los mares, y \[durante su ausencia\] pierde el camino \[que conduce a\] su campo, [^967] Admón sostuvo: «Puede tomar un atajo para llegar hasta él»; pero los sabios sostienen: «Debe comprar un camino, aunque le cueste cien maneh, ya que de lo contrario debe volar por el aire [^968] \[para llegar a su campo\]».
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 § 8. En el caso de un hombre que presentó una fianza, mientras que el demandado presentó una escritura de compraventa con fecha posterior a la fianza, mediante la cual el demandante le cedió un campo, Admón comentó: «Él [el demandado] puede alegar: 'Si yo hubiera estado en deuda contigo, te correspondía a ti recuperar lo que te correspondía al venderme tu campo'». [969] Pero los sabios dicen: «Este [el] demandante era un hombre prudente; le vendió la tierra para que pudiera embargarla como garantía de su deuda». [970]
 

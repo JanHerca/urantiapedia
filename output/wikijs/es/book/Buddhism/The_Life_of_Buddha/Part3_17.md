@@ -32,12 +32,12 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p282">[<sup><small>pág. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 
 El Maestro y sus discípulos se detuvieron en Pava, en el jardín de Cunda, el herrero. Cunda llegó y rindió homenaje al Maestro, y le dijo:
 
-“Señor mío, hágame el honor de comer en mi casa mañana”.
+«Señor mío, hágame el honor de comer en mi casa mañana».
 
 El Maestro aceptó. Al día siguiente, Cunda preparó cerdo y otras delicias para sus invitados. Llegaron y tomaron asiento. Al ver el cerdo, el Maestro lo señaló y dijo:
 
@@ -45,17 +45,17 @@ El Maestro aceptó. Al día siguiente, Cunda preparó cerdo y otras delicias par
 
 Cuando hubo comido, dijo:
 
-“Entierren en lo profundo de la tierra lo que he dejado intacto; sólo el Buda puede comer de esa carne”.
+«Entierren en lo profundo de la tierra lo que he dejado intacto; sólo el Buda puede comer de esa carne».
 
 Luego se fue. Los discípulos lo siguieron.
 
 Habían recorrido poca distancia de Pava cuando el Maestro empezó a sentirse cansado y enfermo. Ananda se afligió y maldijo a Cunda, el herrero, por haberle ofrecido al Maestro esa comida fatal.
 
-“Ananda”, dijo el Maestro, “no te enfades con Cunda, el herrero. Le esperan grandes recompensas por la comida que me dio. De todas las comidas que he tenido, dos son las más dignas de elogio: la que me sirvió Sujata y la que me sirvió Cunda, el herrero”.
+«Ananda», dijo el Maestro, «no te enfades con Cunda, el herrero. Le esperan grandes recompensas por la comida que me dio. De todas las comidas que he tenido, dos son las más dignas de elogio: la que me sirvió Sujata y la que me sirvió Cunda, el herrero».
 
 Superó su cansancio y pronto llegó a la orilla del Kakutstha. El río era tranquilo y puro. El Maestro se bañó en sus cristalinas aguas. Después del baño, bebió y se dirigió a un bosque de mangos. Allí, le dijo al monje Cundaka:
 
-“Dobla mi manto en cuatro, para que pueda acostarme y descansar.”
+«Dobla mi manto en cuatro, para que pueda acostarme y descansar.»
 
 Cundaka obedeció alegremente. Rápidamente dobló la capa en cuatro y la extendió en el suelo. El Maestro se acostó y Cundaka se sentó a su lado.
 

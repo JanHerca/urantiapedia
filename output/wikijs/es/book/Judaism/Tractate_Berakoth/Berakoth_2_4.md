@@ -46,7 +46,7 @@ III. 1. Así como se dio una ley fija [^177] para recitar el Shemá, la Mayoría
 
 Todo aquel cuya mente encuentra placer en lo que hace [^185], es una buena señal para él; si su mente no encuentra placer en lo que hace, es una mala señal para él.
 
-<span id="p30">[<sup><small>pág. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -82,11 +82,11 @@ Todo aquel cuya mente encuentra placer en lo que hace [^185], es una buena seña
 
 **M**.IV. 6. Si uno está sentado en un barco o en una balsa, [^199] que dirija su intención hacia el Santísimo Santuario.
 
-<span id="p33">[<sup><small>pág. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 B.
 
-**T**. III. 19. Si un hombre se despierta temprano para salir de viaje, toma una trompeta [1](Berakoth_2_4#fn_200) y la toca, un Lulab [2](Berakoth_2_4#fn_201) y lo agita, un rollo del Libro de Ester [3](Berakoth_2_4#fn_202) y lee en él, y reza (el Dieciocho). Luego, cuando llega la hora de recitar el Shemá, lo recita. [4](Berakoth_2_4#fn_203) Si se despierta temprano para sentarse en una carreta o en un barco, reza (el Dieciocho). Luego, cuando llega la hora de recitar el Shemá, lo recita.
+**T**. III. 19. Si un hombre se despierta temprano para salir de viaje, toma una trompeta [1](../Berakoth_2_4#fn_200) y la toca, un Lulab [2](../Berakoth_2_4#fn_201) y lo agita, un rollo del Libro de Ester [3](../Berakoth_2_4#fn_202) y lee en él, y reza (el Dieciocho). Luego, cuando llega la hora de recitar el Shemá, lo recita. [4](../Berakoth_2_4#fn_203) Si se despierta temprano para sentarse en una carreta o en un barco, reza (el Dieciocho). Luego, cuando llega la hora de recitar el Shemá, lo recita.
 
 <a id="m7"></a>
 
@@ -102,9 +102,9 @@ Y en los Servicios Adicionales reza siete [^212] \[Bendiciones\] y dice \[la sec
 
 12\. En el sábado, en las festividades y en el Día de la Expiación, se rezan siete oraciones, y en el centro se dice la sección especial para la santificación del día. [^214]
 
-13\. El caso de la festividad de Año Nuevo, que cae en sabbat. La escuela de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai dice: Se rezan diez [1](Berakoth_2_5#fn_215) Bendiciones, y se dice una para el sabbat en sí, otra para la festividad en sí, y se comienza con la del sabbat. Pero la escuela de Hillel dice: Se rezan nueve [2](Berakoth_2_5#fn_216) Bendiciones.
+13\. El caso de la festividad de Año Nuevo, que cae en sabbat. La escuela de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai dice: Se rezan diez [1](../Berakoth_2_5#fn_215) Bendiciones, y se dice una para el sabbat en sí, otra para la festividad en sí, y se comienza con la del sabbat. Pero la escuela de Hillel dice: Se rezan nueve [2](../Berakoth_2_5#fn_216) Bendiciones.
 
-El caso de una festividad que cae en sabbat. La escuela de Shammai dice: reza ocho bendiciones, una para el sabbat en sí, otra para la festividad en sí, y comienza con la del sabbat. Pero la escuela de Hillel dice: reza siete, comenzando con la del sabbat y terminando con la del sabbat, y reza la sección especial para la santificación del día en el centro. R. Nathan dice: también lo concluye con: «Bendito seas Tú que santificas el sabbat, a Israel y las festividades». [3](Berakoth_2_5#fn_217)
+El caso de una festividad que cae en sabbat. La escuela de Shammai dice: reza ocho bendiciones, una para el sabbat en sí, otra para la festividad en sí, y comienza con la del sabbat. Pero la escuela de Hillel dice: reza siete, comenzando con la del sabbat y terminando con la del sabbat, y reza la sección especial para la santificación del día en el centro. R. Nathan dice: también lo concluye con: «Bendito seas Tú que santificas el sabbat, a Israel y las festividades». [3](../Berakoth_2_5#fn_217)
 
 <figure class="table chapter-navigator">
   <table>
@@ -150,7 +150,7 @@ El caso de una festividad que cae en sabbat. La escuela de Shammai dice: reza oc
 
 [^181]: 29:3 _la hora undécima_ menos _cuarto_. 4.45 pm ver mishna, nota.
 
-[^182]: 29:4 _Eleazar bar Jose_. Eleazar, hijo de José el Galileo ([p. 55](Berakoth_3_6#p55)), maestro de la mishná de la tercera generación, c. 130-160 d. C.
+[^182]: 29:4 _Eleazar bar Jose_. Eleazar, hijo de José el Galileo ([p. 55](../Berakoth_3_6#p55)), maestro de la mishná de la tercera generación, c. 130-160 d. C.
 
 [^183]: 29:5 _el cierre de las puertas_. Presumiblemente, las puertas del Templo se cerraban al anochecer.
 
@@ -160,7 +160,7 @@ El caso de una festividad que cae en sabbat. La escuela de Shammai dice: reza oc
 
 [^186]: 29:8 _lo que hace_. Lit.: «lo que es suyo», pero la referencia parece no referirse a sus posesiones, sino a sus ocupaciones y acciones.
 
-[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. Uno de la primera generación de maestros de la Mishná, c. 90 d. C., maestro de R. Ismael ([p. 6](Berakoth_1_1#p6)). Es el presunto autor del _Sepher ha Bahir_ cabalístico.
+[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. Uno de la primera generación de maestros de la Mishná, c. 90 d. C., maestro de R. Ismael ([p. 6](../Berakoth_1_1#p6)). Es el presunto autor del _Sepher ha Bahir_ cabalístico.
 
 [^188]: 30:2 _la Escuela_. Literalmente, el Beth ha Midrash, el aula de conferencias.
 
@@ -176,7 +176,7 @@ El resumen más antiguo de las Dieciocho Bendiciones parece ser el Habinenu (SA,
 
 [^193]: 30:7 _R. Joshua_. B. tiene a R. Aqiba. Pero esto puede deberse a la similitud de los dichos atribuidos a este último en _T_. III. 3. «R. Joshua» en la Mishná es R. Joshua ben Chananiah, un maestro de la Mishná de la segunda generación, c. 90-130 d. C. «Dije: No me importa si mi suerte es como la de Joshua ben Chananja: después de la última destrucción, se ganaba la vida haciendo agujas, pero en su juventud había sido cantor en las gradas del Templo y tenía un recuerdo de lo que fue, antes de que la gloria se desvaneciera» («George Eliot», _Daniel Deronda_, e. XL., 1876, iii. 179).
 
-[^194]: 31:1 _fluyente_. Cf. M. v. 5. [p. 41](Berakoth_2_5#p41). T. iii. 3. [p. 29](Berakoth_2_4#p29).
+[^194]: 31:1 _fluyente_. Cf. M. v. 5. [p. 41](../Berakoth_2_5#p41). T. iii. 3. [p. 29](../Berakoth_2_4#p29).
 
 [^195]: 31:2 _el resumen de los Dieciocho_. Si recuerda los Dieciocho sin dificultad, que los rece en su totalidad.
 
@@ -192,7 +192,7 @@ El resumen más antiguo de las Dieciocho Bendiciones parece ser el Habinenu (SA,
 
 [^201]: 33:1 _toma una trompeta_. es decir, el día de Año Nuevo; ver Lev. 2324; Núm. 291 (Oesterley y Box, p. 411).
 
-[^202]: 33:2 _a Lulab_. Una rama de palma atada con mirto y sauce al frente de Tab. (Enciclopedia Judía: viii. 205). Infra, [p. 80](Berakoth_3_9#p80).
+[^202]: 33:2 _a Lulab_. Una rama de palma atada con mirto y sauce al frente de Tab. (Enciclopedia Judía: viii. 205). Infra, [p. 80](../Berakoth_3_9#p80).
 
 [^203]: 33:3 _un rollo del Libro de Ester_. En Purim, Ester. 932. (Oesterley y Box, págs. 407 y ss.)
 

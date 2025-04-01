@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:1:28Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>pág. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Dhri tarashtra dijo
 

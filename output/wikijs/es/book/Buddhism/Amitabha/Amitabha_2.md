@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 El novicio Charaka vivía en paz con sus hermanos, y su superior, el venerable Subhûti, se enorgullecía de su erudito discípulo, pues era paciente, dócil, modesto, serio e inteligente, y demostró todas estas buenas cualidades con un progreso excepcionalmente rápido. Aprendió los Sutras a la perfección y pronto los superó. Tenía una voz sonora, y era un placer oírlo recitar las fórmulas sagradas o cantar los versos que proclamaban la gloriosa doctrina del Bendito. Aparentemente, la Hermandad había hecho una buena adquisición; pero si el venerable Subhûti hubiera podido mirar dentro del corazón de Charaka, habría contemplado un estado de cosas diferente, pues el alma del novicio estaba llena de impaciencia, insatisfacción y excitación. La vida de un monje era muy diferente de lo que <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> había esperado, y sus más preciadas esperanzas no se cumplieron.
 
@@ -52,14 +52,14 @@ Charaka había aprendido muchos hermosos sentimientos de boca de su maestro; alg
 
 Pero a veces se sobresaltaba y le costaba comprender el sentido. Quería paz, no tranquilidad; quería el Nirvana, su dicha y su plenitud, no la extinción. Y, sin embargo, a veces parecía como si se esperara de él la completa extinción de su actividad:
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 “Sólo si como un gong roto
  No emites sonido alguno:
  Entonces has alcanzado el Nirvana,
  Y has encontrado el fin de la lucha."[6](/es/book/Buddhism/Amitabha/Amitabha_16#an_6)
 
-Sin embargo, Charaka se dijo a sí mismo: “Solo el ruido estridente debe ser suprimido, no el trabajo; solo la mala intención, no la vida misma; la cizaña, no el trigo”. Porque está dicho:
+Sin embargo, Charaka se dijo a sí mismo: «Solo el ruido estridente debe ser suprimido, no el trabajo; solo la mala intención, no la vida misma; la cizaña, no el trigo». Porque está dicho:
 
 “Lo que se debe hacer, hacedlo,
  Ni dejes pasar el día:

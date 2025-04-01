@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 LIBRO VII.
 
@@ -46,7 +46,7 @@ Ying Tî Wang [^308], o 'El curso normal para gobernantes y reyes [^308]'.
 
 3\. Thien Kän [^318], caminando hacia el sur del (monte) Yin [^319], llegó a las cercanías del agua Liâo.
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Español Allí, encontrándose con el hombre cuyo nombre no se conoce [^320], le hizo una pregunta, diciendo: 'Me permito preguntar qué se debe hacer [^321] para (continuar) el gobierno del mundo'. El hombre sin nombre dijo: 'Vete; eres un rudo fronterizo. ¿Por qué me haces una pregunta para la cual no estás preparado [^322]? Simplemente haría el papel del Creador de (todas) las cosas [^323]. Cuando me canse, montaría en el pájaro de la luz y el aire vacío, iría más allá de los seis puntos cardinales y vagaría por la región de la nada, para morar en el desierto del espacio desierto. ¿Qué método tienes, además, para el gobierno del mundo que (de este modo) agitas mi mente?' (Thien Kän), sin embargo, volvió a hacer la pregunta, y el hombre sin nombre dijo: 'Deja que tu mente encuentre su goce en la pura simplicidad; fúndete con el éter (primario) en la ociosa indiferencia; 'Deja que todas las cosas sigan su curso natural y no admitas ninguna consideración personal o egoísta: haz esto y el mundo será gobernado.'
 
@@ -98,21 +98,21 @@ Después de esto, Lieh-dze consideró que aún no había empezado a aprender (la
 
 ## Notas al pie
 
-[^344]: 259:1 Véase págs. [136](Introducción de Kwang_dze#p136)\-[138](Introducción de Kwang_dze#p138).
+[^344]: 259:1 Véase págs. [136](../Introducción de Kwang_dze#p136)\-[138](../Introducción de Kwang_dze#p138).
 
-[^346]: 259:2 Véase pág. 190, nota [5](Kwang_dze_Book_2#fn113).
+[^346]: 259:2 Véase pág. 190, nota [5](../Kwang_dze_Book_2#fn113).
 
 [^347]: 259:3 Un antiguo taoísta, de la época de Shun. Así, Hwang-fû Mî, quien añade que Shun le sirvió como amo cuando tenía ocho años. Supongo que el nombre indica que su ropa era de juncos.
 
-[^348]: 259:4 Shun. Véase pág. 245, nota [3](Kwang_dze_Book_6#fn266).
+[^348]: 259:4 Shun. Véase pág. 245, nota [3](../Kwang_dze_Book_6#fn266).
 
 [^349]: 259:5 Un antiguo soberano, anterior, sin duda, a Fû-hsî; pero no se sabe nada de él.
 
 [^350]: 259:6 No creía que su ser, como hombre, fuera superior a las criaturas inferiores. Shun, al gobernar, empleaba su conocimiento adquirido; Thâi aún no había empezado a hacerlo.
 
-[^351]: 260:1 Véase pág. 170, nota [2](Kwang_dze_Book_1#fn57).
+[^351]: 260:1 Véase pág. 170, nota [2](../Kwang_dze_Book_1#fn57).
 
-[^352]: 260:2 Véase pág. 170, nota [3](Kwang_dze_Book_1#fn58).
+[^352]: 260:2 Véase pág. 170, nota [3](../Kwang_dze_Book_1#fn58).
 
 [^353]: 260:3 Un nombre;—'un digno', se dice.
 
@@ -152,7 +152,7 @@ Después de esto, Lieh-dze consideró que aún no había empezado a aprender (la
 
 [^371]: 266:2 = la naturaleza celestial o autodeterminante.
 
-[^372]: 266:3 Quizás “dios” sería una mejor traducción.
+[^372]: 266:3 Quizás «dios» sería una mejor traducción.
 
 [^373]: 266:4 Significado 'Descuidado'.
 

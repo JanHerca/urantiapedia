@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>pág. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 
 Gopa se había despertado en plena noche. Una extraña inquietud la invadió. Llamó a su amado, el príncipe Siddhartha, pero no hubo respuesta. Se levantó. Corrió por los pasillos del palacio; no lo encontraba por ninguna parte. Se asustó. Sus doncellas dormían. Un grito escapó de sus labios:
@@ -43,7 +43,7 @@ Las doncellas despertaron. Registraron cada habitación. Ya no había ninguna du
 
 Una vez me dijo que se iría, muy lejos, ¡él, el rey de los hombres! Pero nunca pensé que la cruel despedida llegaría tan pronto. ¡Oh, dónde estás, mi bienamada? ¿Dónde estás? No puedo olvidarte, yo, que estoy desamparada, tan desamparada! ¿Dónde estás? ¿Dónde estás? ¡Eres tan hermosa! Tu belleza no tiene rival entre los hombres. Tus ojos brillan. ¡Eres buena y amada, mi bienamada! ¿No eras feliz? ¡Oh, querida, amada mía, adónde te has ido?
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Sus compañeros intentaron en vano consolarla.
 
@@ -53,7 +53,7 @@ Mahaprajapati se enteró por una de sus doncellas de la huida de Siddhartha. Fue
 
 El rey Suddhodana oyó el lamento. Preguntó el motivo. Un sirviente fue a preguntar y regresó con esta respuesta:
 
-“Mi señor, el príncipe no se encuentra en ningún lugar del palacio”.
+«Mi señor, el príncipe no se encuentra en ningún lugar del palacio».
 
 —Cerrad las puertas de la ciudad —gritó el rey—, y buscad a mi hijo por las calles, por los jardines, por las casas.
 
@@ -61,15 +61,15 @@ Le obedecieron, pero el príncipe no estaba por ningún lado. El rey se derrumb�
 
 —¡Mi hijo, mi único hijo! —sollozó, y se desmayó. Pronto lo despertaron y ordenó:
 
-“¡Que envíen jinetes a todas partes y me traigan a mi hijo!”
+«¡Que envíen jinetes a todas partes y me traigan a mi hijo!»
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Mientras tanto, Chandaka y el caballo Kanthaka regresaban lentamente de la ermita. Al acercarse a la ciudad, ambos agacharon la cabeza, abatidos. Unos jinetes los vieron.
 
 ¡Es Chandaka! ¡Es Kanthaka! —gritaron, y galoparon sus caballos—. Vieron que Chandaka llevaba las joyas del príncipe. Preguntaron con ansiedad:
 
-“¿Fue asesinado el príncipe?”
+«¿Fue asesinado el príncipe?»
 
 —No, no —respondió Chandaka rápidamente—. Me confió sus joyas para que se las devolviera a su familia. Se ha puesto la túnica de un ermitaño y se ha adentrado en un bosque donde habitan unos hombres santos.
 
@@ -83,7 +83,7 @@ Chandaka siguió a los jinetes hasta el palacio. El rey lo mandó llamar de inme
 
 El escudero le contó lo que había hecho el príncipe. El rey se afligió, pero no pudo evitar admirar la grandeza de su hijo.
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Gopa y Mahaprajapati entraron; se habían enterado del regreso de Chandaka. Lo interrogaron y se enteraron de la gran determinación de Siddhartha.
 

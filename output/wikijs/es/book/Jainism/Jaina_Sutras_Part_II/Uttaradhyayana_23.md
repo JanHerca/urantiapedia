@@ -54,7 +54,7 @@ El joven <i>S</i>rama<i>n</i>a Kê<i>s</i>i y el famoso Gautama, ambos vivían a
 
 Los alumnos de ambos, que se controlaban, que practicaban austeridades, que poseían virtudes y que protegían su Ser, hicieron la siguiente reflexión: (10)
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 '¿Es nuestra Ley la correcta, o es la otra Ley [^315] la correcta? ¿Son correctas nuestra conducta y nuestras doctrinas, o las otras? (eso)
 
@@ -86,9 +86,9 @@ Entonces, a estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: «L
 
 “Los primeros [^319] santos eran sencillos pero lentos de entendimiento, los últimos santos prevaricadores y lentos de entendimiento, aquellos entre los dos simples y sabios; por lo tanto hay dos formas de la Ley [^320]. (26)
 
-<span id="p123">[<sup><small>pág. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
-“Los primeros apenas podían entender los preceptos de la Ley, y los últimos apenas podían observarlos, pero los que estaban entre ellos los comprendían y observaban fácilmente.” (27)
+«Los primeros apenas podían entender los preceptos de la Ley, y los últimos apenas podían observarlos, pero los que estaban entre ellos los comprendían y observaban fácilmente.» (27)
 
 «Bueno, Gautama, tú posees sabiduría, has destruido mi duda; pero tengo otra duda que debes explicarme, Gautama. (28)
 
@@ -100,13 +100,13 @@ A estas palabras de Kê<i>s</i>i Gautama respondió lo siguiente: «Decidiendo e
 
 Las diversas características externas (de los hombres religiosos) se han introducido para que la gente pueda reconocerlos como tales; la razón de las marcas características es su utilidad para la vida religiosa y su carácter distintivo. (32)
 
-“Ahora bien, la opinión (de los Tîrthakaras) es que el conocimiento, la fe y la conducta correcta son las verdaderas causas de la liberación final (y no las marcas externas).” (33)
+«Ahora bien, la opinión (de los Tîrthakaras) es que el conocimiento, la fe y la conducta correcta son las verdaderas causas de la liberación final (y no las marcas externas).» (33)
 
 «Bueno, Gautama, tú posees sabiduría, has destruido mi duda; pero tengo otra duda, que debes explicarme, Gautama. (34)
 
 «Gautama, estás en medio de muchos <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> miles (de enemigos) que te atacan; ¿cómo los has vencido [^321]? (35)
 
-“Al vencer a uno, cinco son vencidos; al vencer a cinco, diez son vencidos; por esta victoria décuple, venzo a todos los enemigos.” (36)
+«Al vencer a uno, cinco son vencidos; al vencer a cinco, diez son vencidos; por esta victoria décuple, venzo a todos los enemigos.» (36)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿A quién llamas enemigo?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (37)
 
@@ -116,27 +116,27 @@ El yo es el único enemigo invencible, (junto con las cuatro) pasiones cardinale
 
 «Vemos a muchos seres en este mundo que están atados por grilletes; ¿cómo te has librado de tus grilletes y te has liberado, oh sabio?» (40)
 
-“Habiendo cortado todas mis ataduras y habiéndolas destruido por los medios correctos, me he librado de mis ataduras y soy libre, oh sabio.” (41)
+«Habiendo cortado todas mis ataduras y habiéndolas destruido por los medios correctos, me he librado de mis ataduras y soy libre, oh sabio.» (41)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿A qué llamas grilletes?» <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (42)
 
-“El amor, el odio, etc., son grilletes pesados, el apego es peligroso; habiéndolos destruido regularmente, vivo de acuerdo con las reglas de conducta.” (43)
+«El amor, el odio, etc., son grilletes pesados, el apego es peligroso; habiéndolos destruido regularmente, vivo de acuerdo con las reglas de conducta.» (43)
 
 'Bueno, Gautama, etc. (como en el verso 28). (44)
 
 «Oh Gautama, en lo más profundo del corazón crece una planta que da frutos venenosos; ¿cómo la has arrancado?» (45)
 
-“He podado completamente esa planta y la he arrancado por completo con sus raíces; así me he librado del fruto venenoso.” (46)
+«He podado completamente esa planta y la he arrancado por completo con sus raíces; así me he librado del fruto venenoso.» (46)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama esa planta?». A estas palabras, Kê<i>s</i>i Gautama respondió lo siguiente: (47)
 
-“El amor a la existencia es esa planta terrible que da frutos terribles; habiéndola arrancado regularmente, vivo placenteramente.” (48)
+«El amor a la existencia es esa planta terrible que da frutos terribles; habiéndola arrancado regularmente, vivo placenteramente.» (48)
 
 'Bueno, Gautama, etc. (como en el verso 28). (49)
 
 «Gautama, se está desatando un fuego terrible que quema [^323] a los seres encarnados; ¿cómo lo has apagado?» (50)
 
-“Tomando agua, agua excelente, del río que produce la gran nube, la vierto siempre sobre mi cuerpo; así rociada el fuego no me quema.” (51)
+«Tomando agua, agua excelente, del río que produce la gran nube, la vierto siempre sobre mi cuerpo; así rociada el fuego no me quema.» (51)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo llamas al fuego?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (52)
 
@@ -146,49 +146,49 @@ Las pasiones son el fuego; el conocimiento, la vida virtuosa y las penitencias s
 
 «¡El caballo rebelde, terrible y malo en el que estás sentado corre por todas partes, Gautama! ¿Cómo es que no se escapa contigo?» (55)
 
-“Lo gobierno bien en su curso con la brida del conocimiento; no se extravía conmigo, se mantiene en el camino correcto.” (56)
+«Lo gobierno bien en su curso con la brida del conocimiento; no se extravía conmigo, se mantiene en el camino correcto.» (56)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama este caballo?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (57)
 
-“La mente es ese caballo rebelde, terrible y malo; la gobierno mediante la disciplina de la Ley (para que se convierta en un corcel Kambô<i>g</i>a bien) entrenado [^324].” (58)
+«La mente es ese caballo rebelde, terrible y malo; la gobierno mediante la disciplina de la Ley (para que se convierta en un corcel Kambô<i>g</i>a bien) entrenado [^324].» (58)
 
 'Bueno, Gautama, etc. (como en el verso 28). (59)
 
 «Hay muchos caminos malos en este mundo que llevan a los hombres por mal camino; ¿cómo evitas, Gautama, extraviarte mientras estás en el camino?» (60)
 
-“Todos son conocidos por mí, aquellos que están en el camino correcto y aquellos que han elegido un camino equivocado; por lo tanto, no me extravío, ¡oh sabio!” (61)
+«Todos son conocidos por mí, aquellos que están en el camino correcto y aquellos que han elegido un camino equivocado; por lo tanto, no me extravío, ¡oh sabio!» (61)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo llamas al camino?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (62)
 
-“Los heterodoxos y los herejes han elegido un camino equivocado; el camino correcto es el que enseñan las <i>Ginas</i>; es el camino más excelente.” (63)
+«Los heterodoxos y los herejes han elegido un camino equivocado; el camino correcto es el que enseñan las <i>Ginas</i>; es el camino más excelente.» (63)
 
 'Bueno, Gautama, etc. (como en el verso 28). (64)
 
 ¿Hay un refugio, un lugar seguro para los seres arrastrados por la gran inundación? ¿Conoces la isla, oh Gautama? (65)
 
-<span id="p127">[<sup><small>pág. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
-“Hay una gran isla en medio del agua, que no es inundada por la gran inundación de agua.” (66)
+«Hay una gran isla en medio del agua, que no es inundada por la gran inundación de agua.» (66)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama esta isla?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (67)
 
-“El diluvio es la vejez y la muerte, que arrastran a los seres vivos; la Ley es la isla, la tierra firme, el refugio, el amparo más excelente.” (68)
+«El diluvio es la vejez y la muerte, que arrastran a los seres vivos; la Ley es la isla, la tierra firme, el refugio, el amparo más excelente.» (68)
 
 'Bueno, Gautama, etc. (como en el verso 28). (69)
 
 «En el océano con sus muchas corrientes flota un barco; ¿cómo podrás, Gautama, llegar a bordo de él a la orilla opuesta?» (70)
 
-“Un barco que hace agua no llegará a la otra orilla; pero un barco que no hace agua, sí la alcanzará.” (71)
+«Un barco que hace agua no llegará a la otra orilla; pero un barco que no hace agua, sí la alcanzará.» (71)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama este barco?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (72)
 
-“El cuerpo es el barco, la vida es el marinero y el Círculo de Nacimientos es el océano que recorren los grandes sabios.” (73)
+«El cuerpo es el barco, la vida es el marinero y el Círculo de Nacimientos es el océano que recorren los grandes sabios.» (73)
 
 'Bueno, Gautama, etc. (como en el verso 28). (74)
 
 «En esta terrible y oscura penumbra viven muchos seres; ¿quién traerá luz a todo el mundo de los seres vivos?» (75)
 
-“Ha salido el sol inmaculado que ilumina el mundo entero; él traerá luz al mundo entero de los seres vivos.” (76)
+«Ha salido el sol inmaculado que ilumina el mundo entero; él traerá luz al mundo entero de los seres vivos.» (76)
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama este sol?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (77)
 
@@ -196,9 +196,9 @@ Ha resucitado quien puso fin al Círculo de Nacimientos, la omnisciente Gina, la
 
 'Bueno, Gautama, etc. (como en el verso 28). (79)
 
-“¿Conoces, oh sabio, un lugar seguro, feliz y tranquilo para los seres vivos que sufren dolores [^325] en el cuerpo y la mente?” (80)
+«¿Conoces, oh sabio, un lugar seguro, feliz y tranquilo para los seres vivos que sufren dolores [^325] en el cuerpo y la mente?» (80)
 
-“Hay un lugar seguro a la vista de todos, pero de difícil acceso, donde no hay vejez ni muerte, ni dolor ni enfermedad.” (81)
+«Hay un lugar seguro a la vista de todos, pero de difícil acceso, donde no hay vejez ni muerte, ni dolor ni enfermedad.» (81)
 
 Kê<i>s</i>i le preguntó a Gautama: "¿Cómo se llama este lugar?". A estas palabras, Kê<i>s</i>i Gautama respondió lo siguiente: (82)
 
@@ -212,7 +212,7 @@ Después de que su duda fue resuelta, Kê<i>s</i>i, de enorme santidad, inclinó
 
 Y en el agradable (parque Tinduka) adoptó sinceramente la Ley de los cinco votos, que fue proclamada por el primer Tîrthakara, de acuerdo con la enseñanza del último Tîrthakara. (87)
 
-<span id="p129">[<sup><small>pág. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 En esa reunión de Kê<i>s</i>i y Gautama, el conocimiento y la conducta virtuosa fueron llevados para siempre a la eminencia, y se resolvieron temas de la mayor importancia. (88)
 

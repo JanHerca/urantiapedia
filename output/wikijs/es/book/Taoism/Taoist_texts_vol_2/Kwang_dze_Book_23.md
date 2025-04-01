@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>pág. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 LIBRO XXIII.
 
@@ -60,7 +60,7 @@ Käng-sang respondió: «Acérquense, hijitos míos. Si una bestia capaz de sost
 
 8\. Donde todo está ajustado para mantener el cuerpo; donde se mantiene una previsión contra peligros imprevistos para mantener la vida mental; donde se cultiva una reverencia interior que se exhibe (en toda relación) con los demás; donde se hace esto, y aun así todos los males llegan, provienen del Cielo, y no de las personas mismas. No serán suficientes para confundir la virtud establecida (del carácter), ni para ser admitidos en la Torre de la Inteligencia. Esa Torre tiene su Guardián, que actúa inconscientemente, y cuyo cuidado no será efectivo si existe un propósito consciente en ello [^182]. Si alguien que no posee esta sinceridad plena en sí mismo realiza alguna demostración externa, cada demostración será incorrecta. La cosa entrará en él y no lo soltará. Entonces, con cada nueva demostración, el fracaso será aún mayor. Si hace lo que no es bueno a la luz del día, los hombres tendrán la oportunidad de castigarlo; Si lo hace en la oscuridad y en secreto, los espíritus [^183] le infligirán el castigo. Que un hombre comprenda esto: su relación con los hombres y los espíritus, y entonces hará lo bueno en su propia soledad.
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Aquel cuya regla de vida reside en sí mismo no actúa por amor a un nombre. Aquel cuya regla está fuera de sí mismo tiene su voluntad puesta en la adquisición extensiva. Aquel que no actúa por amor a un nombre irradia luz incluso en su conducta ordinaria; aquel cuya voluntad está puesta en la adquisición extensiva no es más que un traficante. Los hombres ven cómo se mantiene de puntillas, mientras cree que está superando a los demás. Las cosas entran (y se apoderan de) quien (intenta) familiarizarse exhaustivamente (con ellas), mientras que cuando uno es indiferente a ellas, no encuentran acomodo en su persona. ¿Y cómo pueden otros hombres encontrar tal acomodo? Pero cuando uno niega acomodo a los hombres, no hay nadie que sienta apego por él. En esta condición, está aislado de los demás hombres. No hay arma más letal que la voluntad [^184]; incluso Mû-yê [^185] era inferior a ella. No hay ladrón más grande que el Yin y el Yang, del cual nada puede escapar de todo lo que hay entre el cielo y la tierra. Pero no son el Yin y el Yang los que juegan al ladrón, sino la mente la que los hace actuar así.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>pág. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 1\. Los Sabios establecieron una regla importante: «En el año sabático, todo lo que comen los hombres y los animales, así como cualquier tipo de tinte, y todo lo que no pueda permanecer en la tierra, se rigen por las leyes del año sabático, y por su valor. Deben ser declarados propiedad privada, y su precio debe ser declarado propiedad privada». [^65] «¿Y cuáles son estas cosas?» «Las hojas de la cebolleta engañosa, las hojas de menta, achicoria, berros, puerro y leguminosa». [^66] «¿Y qué comen los animales?» Espinos y cardos, y una especie de tinte, brotes de índigo y rubia. A ellos se les aplican las leyes del año sabático, y a su precio se les aplican las leyes del año sabático. Deben ser exonerados de ser propiedad privada, y su precio debe ser exonerado de ser propiedad privada.
 

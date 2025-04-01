@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span> pág. 71 pág. 72 pág. 73
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span> pág. 71 pág. 72 pág. 73
 
 B<i>RI</i>HADÂRA<i>N</i>YAKA-UPANISHAD.
 
@@ -67,7 +67,7 @@ En verdad, quien lo conoce así, conoce al Asvamedha. Entonces, dejando libre al
 
 En verdad, el sol resplandeciente es el sacrificio Asvamedha, y su cuerpo es el año; Agni es el fuego sacrificial (arka), y estos mundos son sus cuerpos. Estos dos son el fuego sacrificial y el sacrificio Asvamedha, y son, a su vez, una sola deidad: la Muerte. Quien conoce esto vence otra muerte; la muerte no lo alcanza, la muerte es su Ser, y se convierte en una de esas deidades.
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## TERCER BRAHMA<i>N</i>A [^265].
 
@@ -142,7 +142,7 @@ Cuando dice: «Condúceme de la muerte a la inmortalidad», no hay allí nada, p
 28\. A continuación vienen los demás Stotras, con los cuales el sacerdote puede obtener alimento cantándolos. Por lo tanto, que el sacrificador, mientras se cantan estos Stotras, pida una bendición, cualquier deseo que desee. Un sacerdote Udgât<i>ri</i> que conoce esto obtiene, cantando, cualquier deseo que desee, ya sea para sí mismo o para el sacrificador. Este conocimiento, en verdad, se llama el conquistador de los mundos. Quien así conoce este Sâman [^279], no teme ser admitido en los mundos [^280].
 
 
-<span id="p85">[<sup><small>pág. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## CUARTO BRAHMA<i>N</i>A [^281].
 
@@ -199,7 +199,7 @@ Ahora bien, si un hombre parte de esta vida sin haber visto su verdadera vida fu
 
 Hizo tres para sí mismo, y uno se lo dio a los animales. En él reposa todo, lo que respira y lo que no. (2)
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ¿Por qué, entonces, no perecen estos, aunque siempre son comidos? Quien conoce a este ser imperecedero, come con la cara. (3)
 
@@ -211,19 +211,19 @@ Cuando se dice que «a los animales les dio uno», se refiere a la leche. Pues e
 
 Y cuando se dice (en otro Brahma) que quien sacrifica con leche durante un año entero [^298] vence a la muerte, que no piense así. No, el mismo día en que sacrifica, ese mismo día vence a la muerte; pues quien sabe esto ofrece a los dioses todo el alimento (es decir, la leche).
 
-Cuando se dice: “¿Por qué no perecen éstos, aunque siempre son comidos?”, respondemos: En verdad, la Persona es lo imperecedero y produce ese alimento una y otra vez [^299].
+Cuando se dice: «¿Por qué no perecen éstos, aunque siempre son comidos?», respondemos: En verdad, la Persona es lo imperecedero y produce ese alimento una y otra vez [^299].
 
 Cuando se dice: 'Quien conoce a este imperecedero, yo entonces, en verdad, la Persona es el imperecedero, pues él produce este alimento mediante el pensamiento repetido, y todo lo que no trabaja por sus obras, eso perece.
 
-Cuando se dice que “él come la comida con la cara”, entonces cara significa la boca, él come con la boca.
+Cuando se dice que «él come la comida con la cara», entonces cara significa la boca, él come con la boca.
 
-Cuando se dice que “él llega hasta los Devas y vive de la fuerza”, eso se entiende como una alabanza.
+Cuando se dice que «él llega hasta los Devas y vive de la fuerza», eso se entiende como una alabanza.
 
 3\. Cuando se dice que «se hizo tres», significa que se hizo la mente, el habla y el aliento. Como se dice: «Mi mente estaba en otra parte, no vi; mi mente estaba en otra parte, no oí», es evidente que el hombre ve con la mente y oye con la mente [^300]. Deseo, representación, duda, fe, falta de fe, memoria [^301], olvido, vergüenza, reflexión, miedo, todo esto es mente. Por lo tanto, incluso si a un hombre le tocan la espalda, lo sabe a través de la mente.
 
 Cualquier sonido que exista es habla. El habla, en efecto, está destinada a un fin u objeto; no es nada en sí misma.
 
-<span id="p94">[<sup><small>pág. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 La inhalación, la inhalación, la exhalación, la inhalación, todo lo que respira es solo aliento (prâ<i>n</i>a). En verdad, ese Ser consiste en ello; ese Ser consiste en palabra, mente y aliento.
 
@@ -267,7 +267,7 @@ Cuando un padre que sabe esto parte de este mundo, entra en su hijo junto con su
 
 Cualquier pena que sufran estas criaturas, es una sola [^309] (y por lo tanto desaparece). Solo el bien se acerca a él; en verdad, el mal no se acerca a los Devas.
 
-21\. A continuación sigue la consideración de las observancias [^310] (actos). Pra<i>g</i>âpati creó las acciones (sentidos activos). Una vez creadas, lucharon entre sí. La voz sostuvo: «Hablaré»; el ojo sostuvo: «Veré»; el oído sostuvo: «Oiré»; y así también las demás acciones, cada una según su propio acto. La muerte, convertida en cansancio, las tomó y las atrapó. Habiéndolas agarrado, la muerte las retuvo (de su obrar). Por lo tanto, el habla se cansa, la vista se cansa, el oído se cansa. Pero la muerte no se apoderó del aliento central. Entonces los demás intentaron conocerlo, y <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> dijeron: «En verdad, él es el mejor de nosotros, aquel que, moviéndose o no, no se cansa ni perece. Bien, que todos adoptemos su forma». Entonces todos asumieron su forma, y ​​por eso se les llama, en su honor, “alientos” (espíritus).
+21\. A continuación sigue la consideración de las observancias [^310] (actos). Pra<i>g</i>âpati creó las acciones (sentidos activos). Una vez creadas, lucharon entre sí. La voz sostuvo: «Hablaré»; el ojo sostuvo: «Veré»; el oído sostuvo: «Oiré»; y así también las demás acciones, cada una según su propio acto. La muerte, convertida en cansancio, las tomó y las atrapó. Habiéndolas agarrado, la muerte las retuvo (de su obrar). Por lo tanto, el habla se cansa, la vista se cansa, el oído se cansa. Pero la muerte no se apoderó del aliento central. Entonces los demás intentaron conocerlo, y <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> dijeron: «En verdad, él es el mejor de nosotros, aquel que, moviéndose o no, no se cansa ni perece. Bien, que todos adoptemos su forma». Entonces todos asumieron su forma, y ​​por eso se les llama, en su honor, «alientos» (espíritus).
 
 En cualquier familia donde haya un hombre que sepa esto, la llaman por su nombre. Y quien se pelea con alguien que sabe esto, se marchita y finalmente muere. Hasta aquí en cuanto al cuerpo.
 
@@ -284,7 +284,7 @@ Si Agni (el fuego) se mantuvo, yo quemaré; si Âditya (el sol) se mantuvo, yo c
 Por lo tanto, que cada hombre realice una sola observancia: inhale y exhale, para que la malvada muerte no lo alcance. Y cuando la realice, que intente terminarla. Así alcanzará la unión y la unidad con esa deidad (con prāna).
 
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ## SEXTO BRAHMA<i>N</i>A [^312].
 

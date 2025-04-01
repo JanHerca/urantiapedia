@@ -137,7 +137,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v8_5_4"><sup><small>8:5:4</small></sup></span>
 
-<span id="p95">[<sup><small>pág. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 ## CUARTO BRAHMANA.
 
@@ -191,9 +191,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^169]: 83:1 Para detalles respecto a estos, también llamados <i>Kh</i>andasyâ<i>h</i>, véase [VIII, 5, 2, 1](Book_4_8_5#v8_5_2_1), seq.
+[^169]: 83:1 Para detalles respecto a estos, también llamados <i>Kh</i>andasyâ<i>h</i>, véase [VIII, 5, 2, 1](../Book_4_8_5#v8_5_2_1), seq.
 
-[^170]: 84:1 Los primeros cuatro de los cinco Asapatnâs se disponen cerca de los cuatro extremos de las espinas (en orden este, oeste, sur, norte); su ubicación exacta es el segundo espacio a la izquierda de la espina (mirando hacia ellos desde el centro), es decir, dejando un espacio de un pie (¿o medio?) entre ellos y la espina respectiva. Su posición, por lo tanto, es la misma que la de los Â<i>s</i>vinîs en la segunda capa (véase [p. 31](Book_4_8_2#p31), nota [1](Book_4_8_2#fn85)), excepto que estos se colocaron en la hilera de Reta<i>h</i>si<i>k</i> en lugar de en los extremos de las espinas. Las marcas de línea de estos cuatro ladrillos corren paralelas a las espinas respectivas. La quinta Asapatnâ se coloca así al norte de la del sur, dejando un espacio de un codo (aproximadamente un pie y medio) entre ellas. Estas dos últimas Asapatnâ son ladrillos de tamaño completo (un pie cuadrado), y no de la mitad, como los dos Â<i>s</i>vinîs del sur. Además, mientras que la Asapatnâ del sur tiene sus líneas paralelas a la cruz contigua (de sur a norte), la quinta Asapatnâ las tiene de oeste a este (y de sur a norte).
+[^170]: 84:1 Los primeros cuatro de los cinco Asapatnâs se disponen cerca de los cuatro extremos de las espinas (en orden este, oeste, sur, norte); su ubicación exacta es el segundo espacio a la izquierda de la espina (mirando hacia ellos desde el centro), es decir, dejando un espacio de un pie (¿o medio?) entre ellos y la espina respectiva. Su posición, por lo tanto, es la misma que la de los Â<i>s</i>vinîs en la segunda capa (véase [p. 31](../Book_4_8_2#p31), nota [1](../Book_4_8_2#fn85)), excepto que estos se colocaron en la hilera de Reta<i>h</i>si<i>k</i> en lugar de en los extremos de las espinas. Las marcas de línea de estos cuatro ladrillos corren paralelas a las espinas respectivas. La quinta Asapatnâ se coloca así al norte de la del sur, dejando un espacio de un codo (aproximadamente un pie y medio) entre ellas. Estas dos últimas Asapatnâ son ladrillos de tamaño completo (un pie cuadrado), y no de la mitad, como los dos Â<i>s</i>vinîs del sur. Además, mientras que la Asapatnâ del sur tiene sus líneas paralelas a la cruz contigua (de sur a norte), la quinta Asapatnâ las tiene de oeste a este (y de sur a norte).
 
 [^171]: 86:1 Es decir, en sentido transversal, o marcado en dirección opuesta al ladrillo Asapatnâ cercano, es decir, al colocado al este del extremo sur de la espina transversal, que (como todos los ladrillos colocados entre el hombro y el muslo) tiene sus marcas de línea que van de sur a norte. El quinto Asapatnâ, situado inmediatamente al norte del sur, tiene sus marcas de línea paralelas, no (como cabría esperar) a la espina transversal, sino a la espina más alejada.
 

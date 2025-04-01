@@ -58,7 +58,7 @@ Y a través del bosque de Bhárunda, se extendió
 Al norte de Víramatsya, aceleró.
 Buscó al hijo de Kalinda, que llena
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 El alma de alegría, ceñida de colinas,
 Llegamos al Yamuná y, tras pasar,
@@ -183,7 +183,7 @@ Y todo allí, con el ceño fruncido,
 Siéntate en el suelo sin alegría y rápido.
 Sus hermosas guirnaldas secas y muertas,
 
-<span id="p180">[<sup><small>pág. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 Sus patios sin barrer, cubiertos de polvo,
 Los templos de los dioses hoy en día
@@ -313,7 +313,7 @@ De un lado a otro, todavía sin consuelo,
 Y entonces, con amargo dolor oprimido,
 Su madre con estas palabras se dirigió:
 
-<span id="p181">[<sup><small>pág. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 "Esta gozosa esperanza alimentó mi pecho
 Cuando salí corriendo de los salones de mi abuelo...
@@ -442,7 +442,7 @@ La suerte de sus hermanos, el destino de su padre,
 Así le dijo Bharat a su madre:
 Con ardiente dolor inquieto:
 
-<span id="p182">[<sup><small>pág. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 «¡Ay! ¿De qué sirve ahora reinar,
 ¿Abatido por el dolor y casi asesinado?
@@ -566,7 +566,7 @@ Mi madre, pero también mi peor enemiga.
 Mi trono nunca será bendecido por tus ojos,
 La malvada asesina de tu marido.
 
-<span id="p183">[<sup><small>pág. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 No eres hijo de As'vapati,
 Ese rey justo, muy sabio y apacible,
@@ -692,7 +692,7 @@ Y Lakshman, al destierro.
 Así, el noble Bharat, en medio de la multitud,
 Alzó la voz y clamó en voz alta.
 
-<span id="p184">[<sup><small>pág. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Cuando Kaus'alyá lo oyó, levantó la cabeza.
 Y rápidamente a Sumitrá le dijo:
@@ -814,7 +814,7 @@ Pero hoy perdemos todas las esperanzas de felicidad,
 Que engañe a los pobres y débiles.
 Quien mira a Él y busca consuelo,
 
-<span id="p185">[<sup><small>pág. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Traiciona a los suplicantes que se quejan,
 Y hacer que la esperanza sea vana.
@@ -827,7 +827,7 @@ Tonto, en alegrías prohibidas intenta,
 Su pecado quien arroja veneno mortal
 Echar a perder el agua mientras fluye,
 Puso sobre el miserable su carga de terror
-¿Quién dio su consentimiento cuando Rama huyó? [1](Libro_2_80#fn351)
+¿Quién dio su consentimiento cuando Rama huyó? [1](../Libro_2_80#fn351)
 
 Así con sus palabras desengañaba
 El corazón atribulado de Kaus'alyá, que se afligía
@@ -936,14 +936,14 @@ Los fuegos sagrados que cuidaron a continuación,
 Y murmuró en voz baja cada texto fúnebre;
 Y cantores sacerdotales que ensayan
 
-<span id="p186">[<sup><small>pág. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
-Los S'aman [1](Libro_2_80#fn352) cantaron su verso sagrado.
+Los S'aman [1](../Libro_2_80#fn352) cantaron su verso sagrado.
 Salieron de la ciudad en literas,
 O carros, muchas damas reales,
 Y honró así el lugar del funeral,
 Con viejos seguidores a su alrededor.
-Con escalones en orden inverso doblados, [2](Libro_2_80#fn353)
+Con escalones en orden inverso doblados, [2](../Libro_2_80#fn353)
 Los sacerdotes en triste procesión fueron
 Alrededor de la pira ardiente del monarca
 Quien bien había cuidado cada fuego sagrado:
@@ -1059,13 +1059,13 @@ Levantó a Bharat llorando sobre sus pies,
 Y así habló con consejo conveniente:
 'Doce días, mi señor, han pasado.
 
-<span id="p187">[<sup><small>pág. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Desde que las llamas consumieron la arcilla de tu padre:
 No esperes más: como mandan las reglas,
 Reúne los huesos que aún puedan quedar.
 Siempre se encuentran tres pares constantes
-Para rodear a todas las criaturas mortales: [1](Libro_2_80#fn354)
+Para rodear a todas las criaturas mortales: [1](../Libro_2_80#fn354)
 Entonces no te lamentes así, oh Príncipe, porque nadie
 Su estrecha compañía puede evitarlo.
 Sumantra le ordenó a S'atrughna que se levantara,
@@ -1074,7 +1074,7 @@ Y experto en la verdad, enseñó a su oyente
 Cómo todas las cosas son y llegan a ser nada,
 Cuando cada héroe se levantó del suelo,
 Un león señor de los hombres, renombrado,
-Se mostró como la bandera de Indra, [2](Libro_2_80#fn355) sobre la cual
+Se mostró como la bandera de Indra, [2](../Libro_2_80#fn355) sobre la cual
 Han caído fuertes lluvias y han brillado soles.
 Se secaron los ojos rojos y llorosos,
 Y suavemente dieron sus tristes respuestas:
@@ -1171,11 +1171,11 @@ Odiaría al matricida impío:
 Y si conociera tu espada vengativa
 Habían asesinado incluso a esta doncella jorobada,
 Nunca más, tenlo por seguro, lo haría.
-“Dime una palabra amistosa a ti o a mí”.
+«Dime una palabra amistosa a ti o a mí».
 Cuando S'atrughna escuchó el discurso de Bharat
 Calmó la rabia que agitaba su pecho,
 
-<span id="p188">[<sup><small>pág. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Liberándose de su terrible restricción
 El desgraciado, tembloroso, se desmayó de terror.
@@ -1257,7 +1257,7 @@ Gobernar la tierra con poder real.
 Su discurso glorioso, sus gritos de favor
 Hizo que su orgulloso pecho se hinchara:
 Y de los nobles ojos del príncipe
-Las lágrimas de éxtasis cayeron. [1](Libro_2_80#fn356)
+Las lágrimas de éxtasis cayeron. [1](../Libro_2_80#fn356)
 
 
 
@@ -1292,7 +1292,7 @@ Los árboles altos fueron criados por manos ocupadas.
 Cualquiera que fuera la línea de camino que tomaron,
 Utilizaron el hacha, el gancho y el cuchillo.
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Otros, con toda su fuerza aplicada,
 Deja a un lado las plantas y arbustos vigorosos,

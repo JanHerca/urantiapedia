@@ -60,7 +60,7 @@ El honor es mi bolsa de limosna, y pronunciar el Nombre es mi limosna.
 Padre, Gorakh está despierto.
 Gorakh es Quien levantó la tierra y la formó sin demora;
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Quien encerró el agua, el aliento y la vida _en el cuerpo_, e _hizo_ las grandes luces de la luna y del sol;
 Quien nos dio la tierra como morada, pero cuyos muchos favores hemos olvidado.
@@ -86,7 +86,7 @@ Vigila tu corazón, y serás un hombre verdaderamente erudito;
 Abandone los placeres, la comodidad, la maledicencia, la ansiedad mental y la vejación;
 Atesora la bondad en tu corazón y renuncia a los designios de la infidelidad;
 Apaga el fuego de la lujuria en tu corazón, y así te sentirás fresco.
-Dice Nanak: “Así pues, practica el ayuno y tu fe será perfecta”.[^1]
+Dice Nanak: «Así pues, practica el ayuno y tu fe será perfecta».[^1]
 
 Cuando el Gurú terminó, el Qazi dijo: «¡Bien hecho! Hoy he visto por primera vez a un verdadero santo de Dios». El Qazi fue entonces a informar al sumo sacerdote de la llegada del darwesh Nanak. El sumo sacerdote fue a verlo, le estrechó la mano y se sentó a su lado. Dio gracias a Dios por la llegada de Nanak.
 
@@ -107,7 +107,7 @@ El sumo sacerdote preguntó entonces cómo los hombres podían alcanzar a Dios. 
 
 Una sola súplica hago ante Ti; presta tu oído, oh Creador.
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 Oh Dios, tú eres grande y misericordioso; tú eres el sustentador sin mancha.
 El mundo es una morada perecedera; oh corazón mío, conoce esto como la verdad.
@@ -127,7 +127,7 @@ Por muy alto que salte el hombre, siempre volverá a caer al suelo.
 Aunque un pájaro vuele, no puede competir en resistencia con el torrente y el viento, que se mueven por voluntad de Dios.
 ¿Cuán grande llamaré a Dios? ¿A quién acudiré para preguntar acerca de Él?
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 Él es el más grande de los grandes, y grande es su mundo, del cual los hombres parten en su orgullo.[^1]
 He consultado los cuatro Veds, pero estos escritos no encuentran los límites de Dios.

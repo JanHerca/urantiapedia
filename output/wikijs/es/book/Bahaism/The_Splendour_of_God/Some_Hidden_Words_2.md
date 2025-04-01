@@ -50,7 +50,7 @@ Vuelve tu mirada hacia ti mismo, para que me encuentres de pie dentro de ti, Pod
 
 Si buscas a otro además de Mí, sí, si buscas en el universo eternamente, aun así, tu búsqueda será en vano.
 
-<span id="p98">[<sup><small>pág. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ¡Oh, Hijo de la Visión Suprema! ¡He puesto en ti un espíritu mío para que seas mi amante! ¿Por qué me has abandonado y has buscado amar a otra?
 

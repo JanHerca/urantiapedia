@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:59:3Z
 
 Sun Tzŭ ha ejercido una poderosa fascinación sobre las mentes de algunos de los hombres más grandes de China. Entre los generales famosos que se sabe que estudiaron sus páginas con entusiasmo pueden mencionarse # Han Hsin (_m_. 196 a. C.), [^115] # Fêng I (_m_. 34 d. C.), [^116] # Lü Mêng (_m_. 219), [^117] y # Yo Fei (1103-1141). [^118] La opinión de Ts'ao Kung, quien disputa con Han Hsin el lugar más alto en los anales militares chinos, ya ha sido registrada. [^119] Aún más notable, en cierto modo, es el testimonio de hombres puramente literarios, como # Su Hsün (el padre de Su Tung-p'o), quien escribió varios ensayos sobre temas militares, todos los cuales deben su principal inspiración a Sun Tzŭ. El siguiente breve pasaje suyo se conserva en el _Yü Hai_: [^120]—<span id="pxliii">[<sup><small>p. xliii</small></sup>]</span> La afirmación de Sun Wu de que en la guerra no se puede asegurar la victoria [^121] es muy diferente de lo que nos cuentan otros libros. [^122] Wu Ch'i era un hombre de la misma calaña que Sun Wu: ambos escribieron libros sobre la guerra, y se les relaciona en el lenguaje popular como "Sun y Wu". Pero las observaciones de Wu Ch'i sobre la guerra son menos contundentes, sus reglas son más toscas y crudas, y no hay la misma unidad de plan que en la obra de Sun Tzŭ, donde el estilo es conciso, pero el significado se expresa con claridad. [^123]
 
-El capítulo 17 contiene el siguiente extracto de “Juicios imparciales en el jardín de la literatura” de Chêng Hou:
+El capítulo 17 contiene el siguiente extracto de «Juicios imparciales en el jardín de la literatura» de Chêng Hou:
 
 Los 13 capítulos de Sun Tzŭ no solo son la base del entrenamiento militar, sino que también exigen la máxima atención de eruditos y hombres de letras. Sus dichos son concisos pero elegantes, sencillos pero profundos, perspicaces y eminentemente prácticos. Obras como el _Lun Yü_, el _I Ching_ y el gran Comentario [^124], así como los escritos de Mencio, Hsün K'uang y Yang Chu, están por debajo del nivel de Sun Tzŭ. [^125]
 
@@ -68,7 +68,7 @@ Al comentar esto, Chu Hsi admite plenamente la primera parte de la crítica, aun
 
 ## Notas al pie
 
-[^115]: xlii:2 _Ver_ [p. 144](11#p144).
+[^115]: xlii:2 _Ver_ [p. 144](../11#p144).
 
 [^116]: xlii:3 _Hou Han Shu_, cap. 17 _inicio del anuncio_.
 

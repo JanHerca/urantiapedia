@@ -124,7 +124,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v7_2_2_2121"><sup><small>7:2:2:2121.</small></sup></span> Habiendo logrado el objetivo por el cual unce a esos bueyes, ahora los desuelta, con (Vâ<i>g</i>. S. XII, 73), "¡Desunced, bueyes inviolables!", pues inviolables [^631] son ​​en verdad con los dioses; "¡Oh, dios que caminas hacia adelante!", pues con ellos realiza la obra divina; "Hemos llegado al fin de esta penumbra"; penumbra sin duda significa hambre: así, "hemos llegado al fin de esta hambruna"; "¡Hemos alcanzado la luz!", pues quien alcanza a los dioses, el sacrificio, alcanza la luz. Entonces los suelta hacia el noreste; el significado de esto ya se ha explicado [^632]. Él se los da al Adhvaryu, pues es él quien hace el trabajo con ellos: que se los asigne en el momento de (la presentación de) los Dakshi<i>n</i>âs.
 
 
-<span id="p332">[<sup><small>pág. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 <span id="v7_2_3"><sup><small>7:2:3</small></sup></span>
 
@@ -237,7 +237,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^610]: 320:1 O (de Pra<i>g</i>âpati), el ser de Agni, o su cuerpo.
 
-[^611]: 321:1 O probablemente, un lugar estéril, véase [p. 43](Book_3_5_2#p43), nota [2](Book_3_5_2#fn101).
+[^611]: 321:1 O probablemente, un lugar estéril, véase [p. 43](../Book_3_5_2#p43), nota [2](../Book_3_5_2#fn101).
 
 [^612]: 321:2 Es decir, mientras él permanece al norte del lugar, y mirando hacia el sur, los coloca en dirección de norte a sur.
 
@@ -257,7 +257,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^620]: 325:5 Parte i, pág. 59 y siguientes.
 
-[^621]: 325:6 Véase parte i, pág. 55. Sin embargo, debe tenerse presente que el pasaje aquí mencionado se refiere a la construcción del Vedi de un ishti ordinario, mientras que en el presente caso se trata de un Mahâvedi, tal como se prescribe para los sacrificios de Soma (cf. parte ii, págs. 111 y siguientes, donde, sin embargo, solo se mencionan algunos puntos distintivos). El plano del Mahâvedi, que se presenta al final de la parte ii, muestra en el extremo oriental un montículo cuadrado, el llamado uttara-vedi, o altar superior, sobre el cual se mantiene el fuego de ofrenda, o Âhavanîya. Sobre un montículo de tierra similar, pero elevado en el centro del sitio cuadrado (ver [VII, 3, 1, 27](Book_3_7_3#v7_3_1_27)), el Agni<i>k</i>ayana requiere la construcción de un gran altar de fuego de ladrillo, cuya preparación del sitio se explica en el siguiente párrafo.
+[^621]: 325:6 Véase parte i, pág. 55. Sin embargo, debe tenerse presente que el pasaje aquí mencionado se refiere a la construcción del Vedi de un ishti ordinario, mientras que en el presente caso se trata de un Mahâvedi, tal como se prescribe para los sacrificios de Soma (cf. parte ii, págs. 111 y siguientes, donde, sin embargo, solo se mencionan algunos puntos distintivos). El plano del Mahâvedi, que se presenta al final de la parte ii, muestra en el extremo oriental un montículo cuadrado, el llamado uttara-vedi, o altar superior, sobre el cual se mantiene el fuego de ofrenda, o Âhavanîya. Sobre un montículo de tierra similar, pero elevado en el centro del sitio cuadrado (ver [VII, 3, 1, 27](../Book_3_7_3#v7_3_1_27)), el Agni<i>k</i>ayana requiere la construcción de un gran altar de fuego de ladrillo, cuya preparación del sitio se explica en el siguiente párrafo.
 
 [^622]: 326:1 Eso es 'sa + irâ', con bebida o comida.
 
@@ -283,13 +283,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^633]: 331:1 Véase la parte ii, pág. 216, nota 2, donde se usaba 'aghnyâ' para referirse a las vacas.
 
-[^634]: 331:2 Véase [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22). El arado se deja a un lado en el utkara (montón de basura).
+[^634]: 331:2 Véase [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22). El arado se deja a un lado en el utkara (montón de basura).
 
 [^635]: 332:1 El autor alude aquí a la leyenda dada en I, 1, 3, 4-5: Viritra yacía envolviendo todo el espacio que se extiende entre el cielo y la tierra, y por ello se le llama Viritra. Indra lo mató. Muerto, fluyó hediondo en todas direcciones hacia el agua; pues en todas direcciones se encuentra el océano. Ahora bien, parte del agua lo asqueaba, subía cada vez más alto y lo desbordaba: de ahí surgieron estas hierbas kussa; son, en efecto, el agua que no estaba putrefacta; pero con la otra agua, algo de materia se mezcló cuando el Viritra pútrido fluyó en ella.
 
-[^636]: 332:2 Véase [p. 200](Book_3_6_3#p200), nota [3](Book_3_6_3#fn413).
+[^636]: 332:2 Véase [p. 200](../Book_3_6_3#p200), nota [3](../Book_3_6_3#fn413).
 
-[^637]: 333:1 Véase [VI, 1, 1, 1](Book_3_6_1#v6_1_1_1).
+[^637]: 333:1 Véase [VI, 1, 1, 1](../Book_3_6_1#v6_1_1_1).
 
 [^638]: 333:2 Literalmente, una parte al frente, en primer lugar, es decir, una parte preferente o un anticipo. Al acentuarse por separado, «purastât» no forma aquí un compuesto con «bhâga», aunque sí lo hace en «purastâdbhâga», el que comparte el anticipo. Cf. Taitt. S. V, 6, 4, 2.
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^641]: 336:1 Estas son tres jarras adicionales llenas vertidas sobre todo el Agnikshetra, o sitio del altar.
 
-[^642]: 337:1 Véase [p. 200](Book_3_6_3#p200), nota [3](Book_3_6_3#fn413).
+[^642]: 337:1 Véase [p. 200](../Book_3_6_3#p200), nota [3](../Book_3_6_3#fn413).
 
 [^643]: 338:1 La siembra de la semilla se hace a la manera del riego del sitio, es decir, de manera de terminar la siembra de cada cuatro surcos con la finalización de la recitación de tres versos (Vâ<i>g</i>. S. XII, 75-86); después de lo cual la semilla restante se esparce sobre todo el sitio con tres versos adicionales (87-89).
 

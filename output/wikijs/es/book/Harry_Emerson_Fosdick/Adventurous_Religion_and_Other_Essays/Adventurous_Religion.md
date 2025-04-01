@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## I
 
@@ -66,7 +66,7 @@ Los primeros seguidores de Jesús fueron llamados discípulos, aprendices; y un 
 
 Los primeros discípulos comenzaron así, viviendo bajo la guía de Jesús, y posteriormente elaboraron una teoría basada en su experiencia. A menudo, abordamos el asunto desde el punto de vista opuesto. Instamos a los hombres a creer en alguna interpretación ortodoxa de Jesús, insistiendo en que solo al sostener esta filosofía sobre Jesús se encuentra la salvación o la fuerza motivadora para la vida cristiana. Ese enfoque es psicológicamente falso. Pide a los hombres primero que acepten una fórmula en lugar de convocarlos a emprender una vida. Ha conducido a una irrealidad e hipocresía sin fin. Es responsable de que multitudes de personas sostengan una teoría y supongan erróneamente que así han alcanzado una vida plena. Ha surgido incluso en algunos que insisten en que toda bondad infundada surge de la adhesión a su teoría y depende de ella, mientras que cualquiera puede ver que mucha gente que sostiene otra teoría en conjunto, o puede ser ninguna en absoluto, tiene más dulzura y luz en su carácter, más altruismo, integridad, utilidad y cristianismo esencial que el que los teóricos estrictos han rozado en sus márgenes.
 
-Como alguien que sostiene una alta interpretación de Jesús y comprende con simpatía lo que los Padres de Nicea querían decir cuando alzaron su grito victorioso de que “el verdadero Dios de Dios verdadero” ha venido a nosotros en él, me gustaría escuchar a más predicadores cristianos dirigirse a los jóvenes de hoy más o menos como sigue:
+Como alguien que sostiene una alta interpretación de Jesús y comprende con simpatía lo que los Padres de Nicea querían decir cuando alzaron su grito victorioso de que «el verdadero Dios de Dios verdadero» ha venido a nosotros en él, me gustaría escuchar a más predicadores cristianos dirigirse a los jóvenes de hoy más o menos como sigue:
 
 Queremos que seas genuinamente cristiano. Pero, como precedente, no se nos ocurriría exigirte que creas, ni siquiera acerca de Cristo, lo que nosotros creemos. Lo que vemos en Cristo no es la cuestión. La cuestión es: ¿qué ves tú en Cristo? Seguramente, no querrás decir que no ves nada que cuestione tu conciencia, reprende tu vida, ¡evoca tu devoción! ¿Comenzarás con eso, lo seguirás hasta donde te lleve y luego continuarás si ves más? No interpongas objeciones basadas en tu incredulidad en esta o aquella teoría teológica. Nadie te está pidiendo ahora que las creas. Empieza donde estás y sigue lo que ves. El cristianismo es una aventura. Al igual que la amistad, es susceptible de formulación intelectual, pero principalmente es un experimento de vida que debe probarse. Si el Maestro mismo te viera percibiendo en él, no más de lo que percibes, sino deseando aventurarte a seguirlo y aplicar sus principios a la vida, te animaría como el sol, diciéndote: «Empieza donde estás».
 

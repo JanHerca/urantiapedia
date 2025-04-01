@@ -1,6 +1,6 @@
 ---
 title: "Capítulo IV. El origen de la religión Avesta"
-description: "El Zend Avesta, Parte I: “Vendîdâd” (SBE 4)"
+description: "El Zend Avesta, Parte I: «Vendîdâd» (SBE 4)"
 published: true
 date: 2025-2-12T13:0:30Z
 tags: Zoroastrianism, book

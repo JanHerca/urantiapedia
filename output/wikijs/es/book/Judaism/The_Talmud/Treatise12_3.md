@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 1\. Akabia, hijo de Mahallalel, dijo: «Reflexiona sobre tres cosas, y no serás llevado a cometer pecado: considera de dónde vienes y adónde vas; y ante quién rendirás cuentas en el futuro. ¿De dónde vienes? De una gota fétida. ¿Y adónde vas? A un lugar de polvo, gusanos y reptiles; y ante quién rendirás cuentas en el futuro? Ante el Rey, Rey de reyes, y el Santo, bendito sea».
 

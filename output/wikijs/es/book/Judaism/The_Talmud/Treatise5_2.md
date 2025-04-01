@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>pág. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 1\. Al principio, todo aquel que quería purificar el altar lo hacía. Cuando eran muchos, corrieron y subieron la cuesta, y cada uno que en el centro superaba a su compañero por cuatro codos, lo ganaba. Si dos eran iguales, el presidente les decía: «Levanten los dedos». [^198] «¿Y qué es eso?» «Levantaron uno o dos dedos, pero nadie levantó el pulgar en el Santuario».
 

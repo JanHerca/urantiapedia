@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p133">[<sup><small>pág. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## ADHYÂYA V, KHANDA 1.
 
@@ -82,7 +82,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. Sacrificará con (las fórmulas), «¡A <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Vish<i>n</i>u svâhâ! ¡A Indra y Agni svâhâ! ¡A Vi<i>n</i>karman svâhâ!» (y con los versos), «A quienes los hombres» (Rig-veda III, 8, 6 y siguientes), verso por verso.
 
-4\. Recita sobre (el jardín): “¡Oh árbol con tus cien ramas!” (Rig-veda III, 8, 11).
+4\. Recita sobre (el jardín): «¡Oh árbol con tus cien ramas!» (Rig-veda III, 8, 11).
 
 5\. El precio del sacrificio es oro.
 
@@ -237,7 +237,7 @@ Aquí termina el quinto Adhyâya.
 
 ## Notas al pie
 
-[^297]: 133:1 1, 1. La ceremonia de Samâroha<i>n</i>a, por la cual se suspenden los deberes hacia el fuego sagrado, al hacer que el fuego 'entre' en el cuerpo del sacrificador, o en los dos Ara<i>n</i>is, o en otro trozo de madera, ya se menciona en varios pasajes de los textos Brâhma<i>n</i>a; comp. las citas dadas por el profesor Weber, Indische Studien, IX, 3r 1. Comp. además Â<i>n</i>valâyana-<i>S</i>rauta-sûtra III 10; Sâṅkhâyana-<i>S</i>raut. II, 17. El Samâroha<i>n</i>a en el propio cuerpo del sacrificador se hace calentando las manos en el fuego sagrado; véase Â<i>n</i>v., loc. cit., Sûtra 6. En el Sâṅkhâyana-<i>S</i>rauta-sûtra la regla correspondiente, que por supuesto se refiere al Âhitâgni, dice así: «Si realiza el Samâroha<i>n</i>a, calienta sus manos en el fuego Gârhapatya y luego toca su Prâ<i>n</i>as con las palabras: “Ven, entra en mi Prâ<i>n</i>as”». Sobre los otros dos casos, véanse los Sûtras 3 y 4. Los Sûtras 2, 3 y 5 están tomados palabra por palabra del <i>S</i>rauta-sûtra.
+[^297]: 133:1 1, 1. La ceremonia de Samâroha<i>n</i>a, por la cual se suspenden los deberes hacia el fuego sagrado, al hacer que el fuego 'entre' en el cuerpo del sacrificador, o en los dos Ara<i>n</i>is, o en otro trozo de madera, ya se menciona en varios pasajes de los textos Brâhma<i>n</i>a; comp. las citas dadas por el profesor Weber, Indische Studien, IX, 3r 1. Comp. además Â<i>n</i>valâyana-<i>S</i>rauta-sûtra III 10; Sâṅkhâyana-<i>S</i>raut. II, 17. El Samâroha<i>n</i>a en el propio cuerpo del sacrificador se hace calentando las manos en el fuego sagrado; véase Â<i>n</i>v., loc. cit., Sûtra 6. En el Sâṅkhâyana-<i>S</i>rauta-sûtra la regla correspondiente, que por supuesto se refiere al Âhitâgni, dice así: «Si realiza el Samâroha<i>n</i>a, calienta sus manos en el fuego Gârhapatya y luego toca su Prâ<i>n</i>as con las palabras: «Ven, entra en mi Prâ<i>n</i>as»». Sobre los otros dos casos, véanse los Sûtras 3 y 4. Los Sûtras 2, 3 y 5 están tomados palabra por palabra del <i>S</i>rauta-sûtra.
 
 [^298]: 133:2 Este Sutra se refiere únicamente al caso en que él hace que el fuego entre en sí mismo.
 

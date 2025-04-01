@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:24Z
   </table>
 </figure>
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 El zoroastrismo es una religión muy comentada por algunos entusiastas eruditos orientales, y menos comprendida por el público en general. De los millones de creyentes de esta fe en épocas pasadas, ahora queda un puñado de devotos, conocidos como los parsis. Por lo tanto, me he atrevido a presentar a mis lectores un breve esbozo de las enseñanzas de este divino profeta. Espero que quienes desconocen la fe encuentren en ella material para la iluminación filosófica, y que los propios zoroastrianos sean objeto de investigaciones más profundas y amplias en la incalculable riqueza de la sublim teología y la filosofía, ahora consultada en los monumentales tomos de los antiguos escritos del Avesta.
 

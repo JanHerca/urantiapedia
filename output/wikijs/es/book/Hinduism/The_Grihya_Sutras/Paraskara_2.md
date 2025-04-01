@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p301">[<sup><small>pág. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## KÂ_N__D_A II, KA<i>ND</i>IKÂ 1.
 
@@ -522,7 +522,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 2. Que vayan al borde del agua y hagan ofrendas de agua a los dioses, a los metros, a los Vedas, a los Rishis, a los antiguos maestros, a los Gandharvas, a los demás maestros, al año con sus divisiones y a sus propios antepasados ​​y maestros.
 
-3\. Después de haber recitado rápidamente el Sâvitrî cuatro veces, deben decir: “Hemos terminado”.
+3\. Después de haber recitado rápidamente el Sâvitrî cuatro veces, deben decir: «Hemos terminado».
 
 4\. [^833]. Interrupción (del estudio) y (continuación de la) enseñanza como se indicó anteriormente.
 
@@ -531,7 +531,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 
 
-<span id="p326">[<sup><small>pág. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 ## KANDIK 13.
 
@@ -643,7 +643,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 8\. [^853]. Porque el <i>S</i>ruti dice: 'Éstos son sus nombres'.
 
-9\. [^854]. Murmura: “A Indra el divino” (Vâ_g_. Sa<i>m</i>h. XVII, 86).
+9\. [^854]. Murmura: «A Indra el divino» (Vâ_g_. Sa<i>m</i>h. XVII, 86).
 
 10\. Luego (sigue) la alimentación de los Brâhma<i>n</i>as.
 
@@ -924,7 +924,7 @@ Fin del segundo Kâ<i>nd</i>a.
 
 [^848]: 331:25 Asa<i>m</i>syûtâ_h_. comp. Böhtlingk-Roth s_v_. sa_m_\-sîv.
 
-[^849]: 331:2 15, 2. Tras estas oblaciones Â<i>g</i>ya sigue la oblación principal de todo el sacrificio, la oblación de arroz con leche a Indra. En uno de los manuscritos del profesor Stenzler hay un sutra especial insertado después del sutra 2: «De los alimentos cocidos hace una oblación con (la fórmula), “A Indra svâhâ”». Sin embargo, no creo que sea correcto incluir este sutra en el texto, ya que los demás manuscritos no lo respaldan, y los comentaristas no lo encontraron en el texto que leyeron.
+[^849]: 331:2 15, 2. Tras estas oblaciones Â<i>g</i>ya sigue la oblación principal de todo el sacrificio, la oblación de arroz con leche a Indra. En uno de los manuscritos del profesor Stenzler hay un sutra especial insertado después del sutra 2: «De los alimentos cocidos hace una oblación con (la fórmula), «A Indra svâhâ»». Sin embargo, no creo que sea correcto incluir este sutra en el texto, ya que los demás manuscritos no lo respaldan, y los comentaristas no lo encontraron en el texto que leyeron.
 
 [^850]: 331:3 La traducción del profesor Stenzler, «Die Maruts essen kein Opfer», me parece poco exacta. Preferiría decir «Die Maruts essen Nicht-Opfer». Este pasaje, tomado de <i>S</i>atapatha Brâhma<i>n</i>a IV, 5, 2, 16, se cita para apoyar la regla de que se debe hacer una ofrenda balinesa a los Maruts; pues en el lenguaje técnico, el término ahuta se aplica a las ofrendas balinesas (<i>S</i>âṅkhâyana-G<i>n</i>hya I, 10, 7, hutoऽgnihotrahomena, ahuto balikarma<i>n</i>â).
 

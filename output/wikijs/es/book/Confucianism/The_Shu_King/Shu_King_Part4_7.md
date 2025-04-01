@@ -38,7 +38,7 @@ El reinado de Pan-kăng se extendió desde 1401 a. C. hasta 1374, y es notable p
 
 El contenido se centra en el traslado de la capital del norte del río Ho a Yin, al sur. El rey consideró necesario el traslado, pero tuvo que enfrentarse a la renuencia del pueblo a adoptar tal medida y a la oposición de las grandes familias. La primera sección relata cómo se esforzó por reivindicar la medida y contiene dos discursos, uno dirigido al pueblo y otro a las altas esferas, respectivamente, con el fin de obtener su cordial cooperación. La segunda sección nos presenta el traslado en curso, pero persisten las insatisfacciones, que el rey se esfuerza por disipar mediante una larga y ferviente defensa de su plan. La tercera sección comienza con el traslado realizado. La nueva ciudad ha sido fundada y su plan está trazado. El rey hace un nuevo llamamiento al pueblo y a los jefes para que olviden sus arrebatos y se unan a él en la construcción de un gran destino para la dinastía en la nueva capital.
 
-<span id="p104">[<sup><small>pág. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## Sección 1.
 
@@ -52,7 +52,7 @@ Cuando la red tiene su hilo, hay orden y no confusión; y cuando el labrador tra
 
 Les he anunciado las dificultades (del movimiento previsto), estando empeñado en ello, como un arquero (cuyo único pensamiento es acertar). No desprecien a los ancianos y experimentados, ni menosprecien a los indefensos y jóvenes. Procuren que todos permanezcan mucho tiempo en esta (nueva ciudad), que será su morada; esfuércense y dediquen sus fuerzas (a impulsar la mudanza), y escuchen los planes de mí, el Único. No haré distinción entre hombres por su parentesco más lejano o más cercano; el criminal (en este asunto) morirá, y el que obra el bien verá su virtud distinguida. La prosperidad del país (debe) provenir de todos ustedes. Si no prospera, debe provenir de mí, el Único hombre, por haber errado en la aplicación del castigo. Asegúrense, todos ustedes, de dar a conocer este anuncio. De ahora en adelante, atiendan respetuosamente sus asuntos; ajusten regularmente (las funciones de) sus cargos; Someted vuestras lenguas a la ley, para que no os sobrevenga el castigo, y de nada os sirva el arrepentimiento.
 
-<span id="p108">[<sup><small>pág. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 ## Sección 2.
 
@@ -68,7 +68,7 @@ No se preocupan por un día lejano, ni piensan en la calamidad que les sobrevend
 
 ¡Vayan! Conserven y prosigan con sus vidas. Ahora los trasladaré (a la nueva capital) y allí estableceré a sus familias para siempre.
 
-<span id="p111">[<sup><small>pág. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## Sección 3.
 

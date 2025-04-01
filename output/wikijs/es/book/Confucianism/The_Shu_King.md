@@ -268,7 +268,7 @@ Revisado en julio de 2005<br>
 		- [Capítulo IX. El gobierno de los sabios](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c9)
 		- [Capítulo X. Descripción ordenada de los actos de piedad filial](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c10)
 		- [Capítulo XI. La piedad filial en relación con los cinco castigos](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c11)
-		- [Capítulo XII. Ampliación de la “Regla de conducta universal”](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c12)
+		- [Capítulo XII. Ampliación de la «Regla de conducta universal»](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c12)
 		- [Capítulo XIII. Ampliación de 'La Virtud Perfecta'](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c13)
 		- [Capítulo XIV. Ampliación de 'Haciendo famoso nuestro nombre'](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c14)
 		- [Capítulo XV. La piedad filial en relación con la reprensión y la amonestación](/es/book/Confucianism/The_Shu_King/Hsiao_King_Content#c15)

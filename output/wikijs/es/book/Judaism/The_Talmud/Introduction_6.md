@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p40">[<sup><small>pág. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Los rabinos han establecido trece reglas para la interpretación del Talmud. Estas reglas conforman su sistema lógico. Son las siguientes:
 
@@ -58,7 +58,7 @@ Los rabinos han establecido trece reglas para la interpretación del Talmud. Est
 
 (11.) _Cuando hay una excepción a una regla general para establecer un nuevo asunto, el nuevo asunto no puede volver a ser incluido bajo la regla general, a menos que se mencione en el_
 
-<span id="p43">[<sup><small>pág. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 _texto_. Se ofrece un ejemplo del consumo de las cosas sagradas (Levítico 22:10-13). El sacerdote, cualquier alma comprada con su dinero y el nacido en su casa pueden comer de ellas. Esta es la regla general. Si la hija del sacerdote se casa con un extraño, no puede comer de ellas. Esta es la excepción. Esta excepción habría subsistido si hubiera continuado casada con un extraño, o hubiera tenido un hijo, o no hubiera regresado a la casa de su padre. Por lo tanto, se establece una nueva ley que establece que, en caso de que no se cumpla ninguna de estas condiciones, podrá volver a comer de las cosas sagradas.
 

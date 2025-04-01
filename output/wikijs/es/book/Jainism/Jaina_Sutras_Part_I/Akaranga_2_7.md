@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 LECCIÓN SÉPTIMA, LLAMADA REGULACIÓN DE LA POSESIÓN [^438].
 
@@ -48,7 +48,7 @@ Habiendo obtenido posesión de algún lugar (en la sala de un viajero, etc.), un
 
 Al obtener un lugar en la casa de un viajero, etc., un mendigo podía pedirle al dueño de casa o a sus hijos una aguja, un pippalaka [^442], un despalillador o un pelador de uñas. No debía dárselo ni prestárselo a nadie; pero, <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>, tras haber hecho aquello para lo que necesitaba uno de los artículos mencionados, debía ir con ese artículo allí (donde se encontraba el dueño de casa, etc.) y, extendiendo las manos o colocándolo en el suelo, debía, tras considerarlo, decir: "¡Aquí está! ¡Aquí está!". Pero no debía ponerlo con su propia mano en la mano del dueño de casa. (5)
 
-Español Un monje o una monja no debe tomar posesión de nada [1](Akaranga_2_7#fn443) en el suelo desnudo, en suelo húmedo, donde haya huevos, etc.; ni sobre pilares o un lugar similar por encima del suelo (II, 2, 1, § 7); ni en una pared, etc.; ni en el tronco de un árbol, etc.; ni donde esté el jefe de familia o el fuego o el agua, o las mujeres o los niños o el ganado, y donde no sea adecuado para un hombre sabio entrar o salir, etc., ni para meditar sobre la ley; ni donde tengan que pasar por la morada del jefe de familia o hacia donde no haya camino, y donde no sea adecuado, etc.; ni donde el jefe de familia o su esposa, etc., se intimiden o regañen entre sí, etc. (véase II, 2, 1, § 9, y 3, § 7); ni donde se frotan o ungen el cuerpo unos a otros con aceite o ghee o mantequilla o grasa; ni donde se bañan, etc.; ni donde andan desnudos, etc. (todo como en II, 2, 3, §§ 7-12).
+Español Un monje o una monja no debe tomar posesión de nada [1](../Akaranga_2_7#fn443) en el suelo desnudo, en suelo húmedo, donde haya huevos, etc.; ni sobre pilares o un lugar similar por encima del suelo (II, 2, 1, § 7); ni en una pared, etc.; ni en el tronco de un árbol, etc.; ni donde esté el jefe de familia o el fuego o el agua, o las mujeres o los niños o el ganado, y donde no sea adecuado para un hombre sabio entrar o salir, etc., ni para meditar sobre la ley; ni donde tengan que pasar por la morada del jefe de familia o hacia donde no haya camino, y donde no sea adecuado, etc.; ni donde el jefe de familia o su esposa, etc., se intimiden o regañen entre sí, etc. (véase II, 2, 1, § 9, y 3, § 7); ni donde se frotan o ungen el cuerpo unos a otros con aceite o ghee o mantequilla o grasa; ni donde se bañan, etc.; ni donde andan desnudos, etc. (todo como en II, 2, 3, §§ 7-12).
 
 Éste es todo el deber, etc.
 
@@ -87,7 +87,7 @@ Esta es la segunda regla. (9)
 
 Ahora sigue la tercera regla:
 
-Un monje decide: “Pediré posesión de una morada, etc., para beneficio de otros mendigos, y habiendo tomado posesión de ella para beneficio de ellos, no la usaré”.
+Un monje decide: «Pediré posesión de una morada, etc., para beneficio de otros mendigos, y habiendo tomado posesión de ella para beneficio de ellos, no la usaré».
 
 Esta es la tercera regla. (10)
 
@@ -99,7 +99,7 @@ Esta es la cuarta regla. (11)
 
 Ahora sigue la quinta regla:
 
-Un monje decide: “Pediré la posesión de una vivienda para mí mismo, no para dos, tres, cuatro o cinco personas”.
+Un monje decide: «Pediré la posesión de una vivienda para mí mismo, no para dos, tres, cuatro o cinco personas».
 
 Esta es la quinta regla. (12)
 
@@ -117,7 +117,7 @@ Esta es la séptima regla.
 
 Quien haya adoptado una de estas siete reglas, no debe decir, etc. (todo como en II, 1, 11, § 12). (14)
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 He escuchado la siguiente explicación del venerable (Mahâvîra): Los Sthaviras, los venerables, han declarado que el dominio [^448] es quíntuple:
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T14:32:0Z
 
 ## I
 
-<span id="p15">[<sup><small>pág. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Un crítico perspicaz y entusiasta, científico él mismo, recientemente se apoderó violentamente del nuevo libro del profesor J. Arthur Thomson, Ciencia y Religión. Lo que le molestaba no era tanto que el biólogo de Aberdeen dejara la puerta abierta a la posibilidad de una fe religiosa inteligente; le irritaba que el profesor Thomson en particular, o cualquier otra persona en general, deseara la fe religiosa y perdiera tiempo en ella. Había superado la discusión sobre la credibilidad de la religión y era escéptico sobre su conveniencia. ¿Por qué, se preguntaba, alguien querría creer en Dios?
 
@@ -54,7 +54,7 @@ Esta íntima relación entre una religión sana y una vida plena puede verse en 
 
 Hoy en día, la duda crítica, y a veces fulminante, recae no sobre la necesidad de este procedimiento, sino sobre su idoneidad. Los eugenistas saben que el problema humano es finalmente insoluble a menos que empecemos a abordarlo antes de que el entorno haya tenido la oportunidad de influir en el individuo en su totalidad. Somos lo que somos, dicen, más por nuestra herencia interior que por nuestro entorno exterior.
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 A este equilibrio de la balanza contra el peso excesivo de los ambientalistas, el hombre de perspicacia espiritual también debe aportar su contribución. La restauración del enfoque interno para el control de la vida se ha convertido hoy en día en Estados Unidos en una cuestión pública de primera magnitud. Los legalistas la han convertido en tal. También, y a menudo con una exageración desmesurada, han abordado la vida desde fuera. El más simple principiante empieza a comprender que el esfuerzo por hacer que la gente sea buena mediante la ley se está llevando a extremos ridículos. Durante más de una generación, nuestras legislaturas han actuado bajo la aparente suposición de que las fuentes de la rectitud en la comunidad no son internas, sino gubernamentales, ni espirituales, sino externas, y esta suposición está dando malos resultados.
 
@@ -77,7 +77,7 @@ En su mayoría, las congregaciones modernas cantan esas palabras del siglo XVIII
 
 Sin embargo, a pesar de nuestra modernidad, y de la evidente necesidad de otros marcos de pensamiento y modos de expresión para articular genuinamente nuestras experiencias y aspiraciones espirituales, no debemos suponer que, con la modernidad, hayamos eludido la necesidad de un enfoque introspectivo al problema de la vida. Si nos disgustan los himnos del siglo XVIII, podemos encontrar sustitutos del siglo XX, como en el Renacimiento de Edna St. Vincent Millay:
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 > El mundo se destaca a ambos lados
 > No más ancho que el corazón;
@@ -106,7 +106,7 @@ La religión, en su máxima expresión, ha proporcionado —y ahora puede propor
 
 Decirles a los hombres que son colocaciones accidentales de átomos físicos; que lo que consideran espíritu en ellos es un producto químico-mecánico tan importante como la fosforescencia en el mar, y esencialmente igual de transitorio; que son el resultado pasivo de la herencia y el entorno, y que están tan mecánicamente determinados por ellos como una locomotora por la presión del vapor y sus rieles; que no tienen fuente espiritual, ni significado espiritual perdurable, ni destino espiritual, ni control sobre su propio carácter o desarrollo —eso es pura irreligión y no solo no puede resolver el problema del que hemos estado hablando, sino que si fuera lógico (como afortunadamente rara vez lo es) ni siquiera lo intentaría. Dejaría el asunto, sin remedio, a la decisión de la acción ciega de las fuerzas físicas que se supone controlan automáticamente el universo y a nosotros dentro de él.
 
-A cada paso que un hombre se aleja de su profunda irreligión hacia el interés, la preocupación seria y el esfuerzo práctico por abordar el problema de la autonomía moral, se acerca mucho más a la religión. Si aborda el problema con seriedad, se encuentra así en el centro de la religión. Ya descubre en la vida humana valores espirituales que desea conservar, cuyo embellecimiento y purificación le preocupa seriamente, sin cuyo desarrollo y dominio efectivo no ve esperanza para la sociedad. Ya piensa en el significado central de la vida, no en términos del mundo externo, sino del mundo interno, con sus posibilidades de bondad, verdad y belleza. Eso en sí mismo es, en cierta medida, religioso. Y si, como algunos de nosotros estamos seguros, no sólo podemos inteligentemente, sino inteligentemente debemos ir más allá para encontrar en este mundo interior del espíritu la revelación de la Realidad de la que somos y a la que podemos encontrar libertad en servir, no podemos recorrer mucho tiempo este camino de acercamiento interior a la vida antes de encontrarnos “no lejos del reino de Dios”.
+A cada paso que un hombre se aleja de su profunda irreligión hacia el interés, la preocupación seria y el esfuerzo práctico por abordar el problema de la autonomía moral, se acerca mucho más a la religión. Si aborda el problema con seriedad, se encuentra así en el centro de la religión. Ya descubre en la vida humana valores espirituales que desea conservar, cuyo embellecimiento y purificación le preocupa seriamente, sin cuyo desarrollo y dominio efectivo no ve esperanza para la sociedad. Ya piensa en el significado central de la vida, no en términos del mundo externo, sino del mundo interno, con sus posibilidades de bondad, verdad y belleza. Eso en sí mismo es, en cierta medida, religioso. Y si, como algunos de nosotros estamos seguros, no sólo podemos inteligentemente, sino inteligentemente debemos ir más allá para encontrar en este mundo interior del espíritu la revelación de la Realidad de la que somos y a la que podemos encontrar libertad en servir, no podemos recorrer mucho tiempo este camino de acercamiento interior a la vida antes de encontrarnos «no lejos del reino de Dios».
 
 Llegar a la vida a través de una religión meramente heredada es un proceso agotador para la mayoría de las personas reflexivas. Pero llegar a la religión a través de la vida, y con un profundo deseo interior de vivirla bien, es un proceso lleno de infinitas promesas. Tan pronto como uno emprende ese camino, se encuentra <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> en el camino por el que siempre han transitado los videntes y profetas del espíritu y, sobre todo, puede distinguir claramente allí las huellas del Hijo del Hombre.
 

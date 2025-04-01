@@ -159,7 +159,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v6_7_3_1616"><sup><small>6:7:3:1616.</small></sup></span> Con tres (versos) él permanece adorando;—tres en número son estos mundos, y triple es Agni: tan grande como es Agni, tan grande como es su medida, con tanto con ello lo compensa, y con tanto con ello lo apacigua hacia estos mundos.
 
 
-<span id="p283">[<sup><small>pág. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 <span id="v6_7_4"><sup><small>6:7:4</small></sup></span>
 
@@ -221,7 +221,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^505]: 265:1 Es decir, el Ukhya Agni, o fuego en la sartén, que el sacrificador tendrá que llevar consigo durante su tiempo de iniciación; y que, además, aquí se toma como el cuerpo divino del sacrificador ([VI, 6, 4. 5](Book_3_6_6#v6_6_4_5)).
+[^505]: 265:1 Es decir, el Ukhya Agni, o fuego en la sartén, que el sacrificador tendrá que llevar consigo durante su tiempo de iniciación; y que, además, aquí se toma como el cuerpo divino del sacrificador ([VI, 6, 4. 5](../Book_3_6_6#v6_6_4_5)).
 
 [^506]: 265:2 Véase I, 3, 5, 12: doce meses del año, cinco estaciones y tres mundos: esto suma veinte; y el que arde allá es el vigésimo primero. Véase también Ait. Br. IV, is, donde el sol se identifica con el Ekavi<i>m</i><i>s</i>a o día Vishuvat, el día central del año, en el que los dioses elevaron el sol a los cielos.
 
@@ -241,11 +241,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^514]: 271:1 Es decir, de la sartén que contiene el fuego.
 
-[^515]: 271:2 Sâya<i>n</i>a (sobre [VII, 2, 1, 15](Book_3_7_2#v7_2_1_15)) las explica como dos bolas de paja. La comparación en [26](Book_3_6_7#v6_7_1_26) más bien apunta a que eran esteras redondas.
+[^515]: 271:2 Sâya<i>n</i>a (sobre [VII, 2, 1, 15](../Book_3_7_2#v7_2_1_15)) las explica como dos bolas de paja. La comparación en [26](../Book_3_6_7#v6_7_1_26) más bien apunta a que eran esteras redondas.
 
-[^516]: 271:3 Así, Sâya<i>n</i>a. Si, por otro lado, se refiere a Agni, esto podría interpretarse como una ilusión del culto regular al fuego en los crepúsculos de la mañana y la tarde (cf. [VI, 7, 2, 3](Book_3_6_7#v6_7_2_3)).
+[^516]: 271:3 Así, Sâya<i>n</i>a. Si, por otro lado, se refiere a Agni, esto podría interpretarse como una ilusión del culto regular al fuego en los crepúsculos de la mañana y la tarde (cf. [VI, 7, 2, 3](../Book_3_6_7#v6_7_2_3)).
 
-[^517]: 272:1 El autor ahora procede a dar más detalles sobre los detalles ceremoniales tratados en el capítulo precedente ([VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) seq.).
+[^517]: 272:1 El autor ahora procede a dar más detalles sobre los detalles ceremoniales tratados en el capítulo precedente ([VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) seq.).
 
 [^518]: 272:2 Literalmente, 'visto' o que parece (como).'
 
@@ -265,23 +265,23 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^526]: 275:2 Samuhya samuhya purîsha<i>m</i> tenaiva kevalena <i>k</i>iyata iti samuhyapurîsha<i>h</i>, Sây.
 
-[^527]: 275:3 Como en el caso del trozo de arcilla, [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^527]: 275:3 Como en el caso del trozo de arcilla, [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
-[^528]: 275:4 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^528]: 275:4 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^529]: 275:5 O los pasos de Vish<i>n</i>u, como el término, por una razón especial, fue traducido en [V, 4, 2, 6](Book_3_5_4#v5_4_2_6).
+[^529]: 275:5 O los pasos de Vish<i>n</i>u, como el término, por una razón especial, fue traducido en [V, 4, 2, 6](../Book_3_5_4#v5_4_2_6).
 
-[^530]: 277:1 A saber, por el Agni que ahora se sostiene, y de quien se dice que Par<i>g</i>anya es otra forma, en [VI, 1, 3, 15](Book_3_6_1#v6_1_3_15). Probablemente sea el humo que se eleva del brasero lo que sugiere la idea de Júpiter pluvio emitiendo sus destellos de luz desde la nube oscura.
+[^530]: 277:1 A saber, por el Agni que ahora se sostiene, y de quien se dice que Par<i>g</i>anya es otra forma, en [VI, 1, 3, 15](../Book_3_6_1#v6_1_3_15). Probablemente sea el humo que se eleva del brasero lo que sugiere la idea de Júpiter pluvio emitiendo sus destellos de luz desde la nube oscura.
 
 [^531]: 277:2 Literalmente, ungir (? ya sea pulir o impregnar).
 
 [^532]: 278:1 Literalmente, si eso fuera tanto solamente (es decir, si el fuego siempre se mantuviera allí).
 
-[^533]: 279:1 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^533]: 279:1 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^534]: 280:1 [VI, 7, 2, 9](Book_3_6_7#v6_7_2_9).
+[^534]: 280:1 [VI, 7, 2, 9](../Book_3_6_7#v6_7_2_9).
 
-[^535]: 280:2 [VI, 7, 3, 1](Book_3_6_7#v6_7_3_1).
+[^535]: 280:2 [VI, 7, 3, 1](../Book_3_6_7#v6_7_3_1).
 
 [^536]: 281:1 Es más bien un verso trish<i>t</i>ubh.
 
@@ -291,9 +291,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^539]: 283:2 Este es un significado algo dudoso de 'dâkshâya<i>n</i>a-hasta'. Los sinónimos (si son correctos), hira<i>n</i>yapâ<i>n</i>i y hira<i>n</i>yahasta, siempre se refieren a Savitri, el sol.
 
-[^540]: 283:3 Véase [VI, 7, 2, 5](Book_3_6_7#v6_7_2_5)\-[6](Book_3_6_7#v6_7_2_6).
+[^540]: 283:3 Véase [VI, 7, 2, 5](../Book_3_6_7#v6_7_2_5)\-[6](../Book_3_6_7#v6_7_2_6).
 
-[^541]: 283:4 ? O, como segundo; véase arriba, [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^541]: 283:4 ? O, como segundo; véase arriba, [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^542]: 284:1 La interpretación del texto que el autor prefiere aquí es muy dudosa. Probablemente deba interpretarse como «la tercera vez (él, Agni, nació) en las aguas, él, el de mente varonil (o, amigable con los hombres). Al encenderlo, el imperecedero (Agni), el atento (¿o piadoso?) lo alaba», o quizás como «Mientras lo enciende, el considerado lo alaba incesantemente». Un punto que favorece la interpretación del autor es que, en el versículo 3, «n<i>ri</i>ma<i>n</i>aas» ciertamente no se refiere a Agni, sino a quien lo engendró.
 
@@ -302,7 +302,7 @@ dateCreated: 2025-1-15T22:56:28Z
   2\. El que eleva las glorias, el sustentador de las riquezas, el inspirador de los pensamientos, el guardián del Soma; el excelente hijo del poder, brilla como rey en las aguas, encendido antes del amanecer.
   3\. Un faro para todo lo que existe, el niño del mundo llenó las dos esferas incluso al nacer; incluso la dura roca quebró al ir allí cuando los cinco pueblos adoraron a Agni.
   4\. Un ávido purificador, un sabio mensajero, el inmortal Agni ha sido establecido entre los mortales; parpadeando (?) emite el humo rojo, esforzándose con su llama brillante por alcanzar el cielo.
-  5\. Con aspecto de disco dorado, etc. (véase [VI, 7, 2](Book_3_6_7#v6_7_2)).
+  5\. Con aspecto de disco dorado, etc. (véase [VI, 7, 2](../Book_3_6_7#v6_7_2)).
   6\. Quienquiera que te prepare hoy un pastel horneado con ghee, ¡oh divino Agni de llama auspiciosa!, llévalo hacia la dicha, hacia la gloria asignada por Dios, ¡oh el más joven!
   7\. ¡Que participe de los cánticos de triunfo, que participe de cada himno que se canta! Que sea amado por Surya, amado por Agni; que prevalezca con el ser viviente y con los que han de nacer.
   8\. Quienes te adoran día a día, oh Agni, obtienen todos los beneficios deseables; deseando ardientemente riquezas, han abierto contigo el establo lleno de vacas.

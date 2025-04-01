@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:51Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 279\. P. _En cuanto al número de sus seguidores, ¿cómo se compara el budismo en esta fecha con las otras religiones principales?_
@@ -49,7 +49,7 @@ A. La historia no registra ninguna de esas crueldades y crímenes como cometidos
 
 282\. P. ¿Cuál es, entonces, el secreto de su maravillosa difusión?
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 A. No puede ser otra cosa que su excelencia intrínseca: su base evidente de verdad, su sublime enseñanza moral y su suficiencia para todas las necesidades humanas.
 
@@ -115,7 +115,7 @@ A. ¡Oh, sí! Todo está registrado en el Mahâvansa, por los guardianes de los 
 
 298\. P. ¿Existe todavía alguna prueba visible de la misión de Sanghamitta?
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 A. Sí: ella trajo consigo a Ceilán una rama del mismo árbol Bodhi bajo el cual se sentó el Buda cuando se iluminó, y todavía está creciendo.
 
@@ -153,7 +153,7 @@ A. Ya en el siglo II o III a. C. se dice que cinco monjes de Dharmâshoka (en el
 
 307\. P. ¿De dónde y cuándo llegó a Corea?
 
-<span id="p90">[<sup><small>pág. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 A. De China, en el año 372 d.C.
 
@@ -193,7 +193,7 @@ A. Quemaron, derribaron o destruyeron de alguna otra manera nuestros vihâras, m
 
 A. No. Muchos bhikkhus huyeron a través de las fronteras, hacia el Tíbet y otros lugares seguros de refugio, llevándose sus libros consigo.
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 317\. P. ¿Se han descubierto recientemente rastros de estos libros?
 

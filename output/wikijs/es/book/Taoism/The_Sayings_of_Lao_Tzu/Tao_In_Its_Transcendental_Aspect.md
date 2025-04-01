@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:59:9Z
         </td>
         <td>
         <a href="/es/book/Taoism/The_Sayings_of_Lao_Tzu/Tao_As_A_Moral_Principle">
-          <span class="pr-2">El Tao como principio moral o “virtud”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Tao como principio moral o «virtud»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>pág. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 El Tao que puede expresarse con palabras no es el Tao eterno; el nombre que puede pronunciarse no es su nombre eterno. Sin nombre, es el Principio del Cielo y la Tierra; con nombre, es la Madre de todas las cosas. Solo quien está eternamente libre de las pasiones terrenales puede comprender su esencia espiritual; quien está siempre obstruido por las pasiones no puede ver más que su forma externa. Estas dos cosas, lo espiritual y lo material, aunque las llamemos con nombres diferentes, en su origen son una y la misma. Esta identidad es un misterio, el misterio de los misterios. Es la puerta de toda espiritualidad.
 
 ¡Qué insondable es el Tao! Parece ser el progenitor ancestral de todas las cosas. ¡Qué puro y claro es el Tao! Parecería ser eterno. No sé de quién es descendiente. Parece haber sido anterior a cualquier Poder Soberano. [^1]
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 El Tao escapa al sentido de la vista, por lo que se le llama incoloro. Escapa al sentido del oído, por lo que se le llama insonoro. Escapa al sentido del tacto, por lo que se le llama incorpóreo. Estas tres cualidades son inaprehensibles, y por lo tanto, pueden fusionarse en una unidad.
 
@@ -64,7 +64,7 @@ El Gran Tao es omnipresente. Puede estar a la derecha y a la izquierda. Todas la
 
 El mundo entero acudirá a quien posee la poderosa forma del Tao. Vendrán y no sufrirán daño, sino que hallarán descanso, paz y tranquilidad.
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Con música y exquisiteces podemos entretener al visitante que pasa. Pero si abrimos la boca para hablar del Tao, lo encuentra insípido y soso.
 
@@ -119,7 +119,7 @@ Las cosas se fortalecen y luego decaen. Esto es lo contrario del Tao. Lo que es 
         </td>
         <td>
         <a href="/es/book/Taoism/The_Sayings_of_Lao_Tzu/Tao_As_A_Moral_Principle">
-          <span class="pr-2">El Tao como principio moral o “virtud”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Tao como principio moral o «virtud»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

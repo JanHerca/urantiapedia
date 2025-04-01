@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>pág. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## EL LIBRO DEL GRAN MUERTE. MAHÁ-PARINIBBÁNA-SUTTA. CAPÍTULO IV.
 
@@ -77,7 +77,7 @@ Allí el Bendito se dirigió a los hermanos y dijo: «Os enseñaré, oh hermanos
 
 9\. Hermanos, un hermano puede decir: «En tal y tal morada hay una compañía de hermanos con sus ancianos y líderes. De boca de esa compañía he oído, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> cara a cara lo he recibido. Esta es la verdad, esta es la ley, esta es la enseñanza del Maestro». La palabra pronunciada por ese hermano, hermanos, no debe ser recibida con elogio ni tratada con desprecio. Sin elogio ni desprecio, cada palabra y sílaba debe ser cuidadosamente comprendida, y luego comparada con la escritura y con las reglas de la orden. Si al compararlas no armonizan con la escritura ni se ajustan a las reglas de la orden, entonces pueden llegar a la conclusión: «En verdad, esta no es la palabra del Bendito, y ha sido mal entendida por esa compañía de hermanos». Por lo tanto, hermanos, deberían rechazarlo. Pero si concuerdan con las Escrituras y se ajustan a las reglas de la orden, entonces podrán llegar a la conclusión: «En verdad, esta es la palabra del Bendito, y ha sido bien captada por ese grupo de hermanos». Esto, hermanos, deberían recibirlo como la segunda Gran Referencia.
 
-10\. Hermanos, un hermano puede decir: “En tal y tal morada residen muchos élderes de la orden, muy instruidos, que mantienen la fe tal como la transmite la tradición, versados ​​en las verdades, versados ​​en las normas de la orden, versados ​​en los resúmenes de las doctrinas y la ley. De boca de esos élderes he oído, de boca de ellos lo he recibido. Esta es la verdad, esta es la ley, esta es la enseñanza del Maestro”. La palabra pronunciada por ese hermano, hermanos, no debe ser recibida con elogio ni tratada con desprecio. Sin elogio ni desprecio, cada palabra y sílaba debe ser cuidadosamente comprendida, y luego puesta al lado de la Escritura y comparada con las reglas de la orden. Si al compararlas así no concuerdan con las Escrituras ni se ajustan a las reglas de la orden, entonces podrían llegar a la conclusión: «En verdad, esta no es la palabra del Bendito, y ha sido mal entendida por esos ancianos». Por lo tanto, hermanos, deberían rechazarla. Pero si concuerdan con las Escrituras y se ajustan a las reglas de la orden, entonces podrían llegar a la conclusión: «En verdad, esta es la palabra del Bendito, y ha sido bien entendida por esos ancianos». Esto, hermanos, deberían recibirlo como la tercera Gran Referencia.
+10\. Hermanos, un hermano puede decir: «En tal y tal morada residen muchos élderes de la orden, muy instruidos, que mantienen la fe tal como la transmite la tradición, versados ​​en las verdades, versados ​​en las normas de la orden, versados ​​en los resúmenes de las doctrinas y la ley. De boca de esos élderes he oído, de boca de ellos lo he recibido. Esta es la verdad, esta es la ley, esta es la enseñanza del Maestro». La palabra pronunciada por ese hermano, hermanos, no debe ser recibida con elogio ni tratada con desprecio. Sin elogio ni desprecio, cada palabra y sílaba debe ser cuidadosamente comprendida, y luego puesta al lado de la Escritura y comparada con las reglas de la orden. Si al compararlas así no concuerdan con las Escrituras ni se ajustan a las reglas de la orden, entonces podrían llegar a la conclusión: «En verdad, esta no es la palabra del Bendito, y ha sido mal entendida por esos ancianos». Por lo tanto, hermanos, deberían rechazarla. Pero si concuerdan con las Escrituras y se ajustan a las reglas de la orden, entonces podrían llegar a la conclusión: «En verdad, esta es la palabra del Bendito, y ha sido bien entendida por esos ancianos». Esto, hermanos, deberían recibirlo como la tercera Gran Referencia.
 
 11\. Hermanos, un hermano podría decir: «En tal y tal morada vive un hermano, profundamente instruido, que mantiene la fe tal como la transmite la tradición, versado en las verdades, versado en las normas de la orden, versado en los resúmenes de las doctrinas y la ley. De la boca de ese anciano lo he oído, de su boca lo he recibido. Esta es la verdad, esta es la ley, esta es la enseñanza del Maestro». La palabra pronunciada por ese hermano, hermanos, no debe ser recibida con elogio ni tratada con desprecio. Sin elogio ni desprecio, cada palabra y sílaba debe ser cuidadosamente comprendida, y luego comparada con las Escrituras y con las reglas de la orden. Si al compararlas no armonizan con las Escrituras ni se ajustan a las reglas de la orden, entonces pueden llegar a la conclusión: «En verdad, esta no es la palabra del Bendito, y ese hermano la ha entendido mal». Por lo tanto, hermanos, deberían rechazarlo. Pero si concuerdan con la Escritura <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> y se ajustan a las reglas de la orden, entonces podrán llegar a la conclusión: «En verdad, esta es la palabra del Bendito, y ese hermano la ha comprendido bien». Hermanos, deberían recibir esto como la cuarta Gran Referencia.
 
@@ -99,7 +99,7 @@ Y allí, en Pâvâ, el Bendito se quedó en el bosque de mangos de Kunda, quien 
 
 14\. Entonces <i>Kunda</i>, el artesano, oyó que el Bendito había llegado a Pâvâ y que se alojaba allí en su bosque de mangos.
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Y <i>Kunda</i>, el artesano, se acercó al Bendito y, tras saludarlo, se sentó respetuosamente a un lado. Y cuando estuvo sentado, el Bendito lo instruyó, lo animó, lo incitó y lo alegró con un discurso religioso.
 
@@ -113,7 +113,7 @@ Y el Bendito manifestó con el silencio su consentimiento.
 
 18\. Y el Bendito se vistió temprano por la mañana, y tomando su cuenco, fue con los hermanos a la morada de <i>Kunda</i>, el artesano. Al llegar, se sentó en el asiento preparado para él. Y una vez sentado, se dirigió a <i>Kunda</i>, el artesano, y dijo: «En cuanto a la carne de jabalí seca que has preparado, sírvemela, <i>Kunda</i>; y en cuanto a los demás alimentos, el arroz dulce y los pasteles, sírvelos a los hermanos».
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 —¡Así sea, Señor! —asintió Kunda, el artesano, al Bendito. Y le sirvió la carne seca de jabalí que había preparado; mientras que el resto de la comida, el arroz dulce y los pasteles, se los sirvió a los miembros de la orden.
 
@@ -127,7 +127,7 @@ Y el Bendito manifestó con el silencio su consentimiento.
 
 22\. Y el Bendito se dirigió al venerable Ânanda y le dijo: «Ven, Ânanda, sigamos hacia Kusinârâ».
 
-<span id="p73">[<sup><small>pág. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 «¡Así es, Señor!», dijo el venerable Ânanda, en señal de asentimiento, al Bendito.
 
@@ -159,7 +159,7 @@ Ahora me dirigiré a Kusinârâ[^7].'
 
 30. «¡Así sea, Señor!», asintió el venerable Ânanda al Bendito; y tomando un cuenco, bajó al arroyo. ¡Y he aquí! El arroyo, que, agitado por las ruedas, acababa de volverse poco profundo y fluía turbio y sucio, había empezado, cuando el venerable Ânanda llegó, a fluir claro, brillante y libre de toda turbidez.
 
-<span id="p75">[<sup><small>pág. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 31\. Entonces Ânanda pensó: «¡Qué maravilloso, qué maravilloso es el gran poder del Tathagata! Pues este arroyuelo que, agitado por las ruedas, se había vuelto poco profundo y fluía turbio y pestilente, ahora, al llegar a él, fluye claro, brillante y libre de toda turbidez».
 
@@ -205,7 +205,7 @@ Así que tú, Señor, aunque estabas consciente y despierto, no viste ni oíste 
 
 39\. 'En cierta ocasión, Pukkusa, yo vivía en Âtumâ, en la era[^10]. En ese momento, la lluvia empezó a caer con fuerza, a salpicar, a relampaguear y a retumbar, y dos campesinos, hermanos, y cuatro bueyes murieron. Entonces, Pukkusa, una gran multitud salió de Âtumâ y se dirigió al lugar donde yacían muertos los dos campesinos, hermanos, y los cuatro bueyes.
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 40\. 'En ese momento, Pukkusa, yo había salido de la era y caminaba de un lado a otro, pensando, a la entrada. Y un hombre, Pukkusa, de entre aquella gran multitud, se acercó al lugar donde yo estaba; y al acercarse, me saludó y se sentó respetuosamente a un lado.
 
@@ -215,7 +215,7 @@ Así que tú, Señor, aunque estabas consciente y despierto, no viste ni oíste 
 
 Pero justo ahora, la lluvia empezó a caer con fuerza y ​​a salpicar, los relámpagos a destellar y los truenos a retumbar; y dos hermanos campesinos murieron, y cuatro bueyes. Por eso se ha reunido esta gran multitud. Pero, Señor, ¿dónde estabas?
 
-“Yo, señor, he estado aquí todo el tiempo”.
+«Yo, señor, he estado aquí todo el tiempo».
 
 «Pero, Señor, ¿lo viste?»
 
@@ -233,19 +233,19 @@ Pero justo ahora, la lluvia empezó a caer con fuerza y ​​a salpicar, los re
 
 «Así es, señor.»
 
-“Así que tú, Señor, estando consciente y despierto, no viste ni oíste el sonido de la lluvia cuando caía con fuerza y ​​salpicaba, y los relámpagos fulguraban y los truenos caían con estrépito.”
+«Así que tú, Señor, estando consciente y despierto, no viste ni oíste el sonido de la lluvia cuando caía con fuerza y ​​salpicaba, y los relámpagos fulguraban y los truenos caían con estrépito.»
 
 «Así es, señor.»
 
 42\. 'Entonces, Pukkusa, a ese hombre se le ocurrió la idea:
 
-<span id="p79">[<sup><small>pág. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
-“¡Qué maravilloso es que quienes han salido de este mundo pasen su tiempo en un estado mental tan sereno! De modo que un hombre consciente y despierto no ve ni oye el sonido de la lluvia que cae, los relámpagos destellan y los truenos se estrellan”. Y tras expresar su profunda fe en mí, se despidió con las habituales demostraciones de respeto.
+«¡Qué maravilloso es que quienes han salido de este mundo pasen su tiempo en un estado mental tan sereno! De modo que un hombre consciente y despierto no ve ni oye el sonido de la lluvia que cae, los relámpagos destellan y los truenos se estrellan». Y tras expresar su profunda fe en mí, se despidió con las habituales demostraciones de respeto.
 
 43\. Y tras estas palabras, Pukkusa, el joven Mallian, se dirigió al Bendito con estas palabras: «Ahora, Señor, en cuanto a la fe que tuve en Â<i>l</i>âra Kâlâma, la desprendo como un viento impetuoso y la arrastro como un arroyo impetuoso. ¡Excelentes, Señor, son las palabras de tu boca, excelsas! Como si un hombre levantara lo caído, o revelara lo oculto, o señalara el camino correcto al extraviado, o trajera una lámpara a la oscuridad, para que quienes tienen ojos puedan ver las formas externas, así, Señor, la verdad me ha sido revelada, en muchas figuras, por el Bendito. Y yo, yo mismo, Señor, me refugio en el Bendito, en la Verdad y en la Hermandad.» ¡Que el Bendito me acepte como discípulo, como verdadero creyente, desde este día en adelante, mientras dure la vida![^11]!'
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 44\. Entonces Pukkusa, el joven Mallian, se dirigió a un hombre y le dijo: «Te ruego, buen hombre, que me traigas un par de túnicas de tela de oro, bruñidas y listas para usar».
 
@@ -286,7 +286,7 @@ Entonces el Maestro se puso ellos
 
 —¡Así sea, Señor! —asintió el venerable Kundaka al Bendito. Y dobló una túnica en cuatro y la extendió.
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 55\. Y el Bendito se recostó sobre su lado derecho, con un pie apoyado en el otro; y, tranquilo y sereno, meditó sobre la idea de levantarse de nuevo a su debido tiempo. Y el venerable Kundaka se sentó allí, frente al Bendito.
 
@@ -307,7 +307,7 @@ Y allí, frente a él, <i>K</i>unda tomó asiento.
 
 ---
 
-57\. Y el Bendito se dirigió al venerable Ânanda y dijo: «Puede suceder, Ânanda, que alguien provoque remordimiento en <i>K</i>unda el herrero, diciendo: “Esto es un mal para ti, <i>K</i>unda, y una pérdida para ti, pues cuando el Tathagata hubo consumido su última comida de tu provisión, murió”. Cualquier remordimiento de ese tipo, Ânanda, en <i>K</i>unda el herrero debería ser controlado diciendo: «Esto es bueno para ti, <i>K</i>unda, y una ganancia para ti, ya que cuando <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> el Tathagata hubo comido su última comida de tu provisión, murió. De la misma boca del Bendito, <i>K</i>unda, he oído, de su propia boca he recibido este dicho: “Estas dos ofrendas de comida son de igual fruto, de igual beneficio, y de mucho mayor fruto y mucho mayor beneficio que cualquier otra, ¿y cuáles son las dos? La ofrenda de comida que, cuando un Tathagata ha comido, alcanza la visión suprema y perfecta; y la ofrenda de comida que, cuando un Tathagata ha comido, desaparece por esa muerte total en la que no queda nada en absoluto—estas dos ofrendas de Los alimentos son de igual fruto y de igual beneficio, y de mucho mayor fruto y beneficio que cualquier otro. Kunda, el herrero, ha acumulado un karma que redunda en longevidad, buen linaje, buena fortuna, buena fama, herencia celestial y poder soberano. De esta manera, Ânanda, debería frenarse cualquier remordimiento en Kunda, el herrero.
+57\. Y el Bendito se dirigió al venerable Ânanda y dijo: «Puede suceder, Ânanda, que alguien provoque remordimiento en <i>K</i>unda el herrero, diciendo: «Esto es un mal para ti, <i>K</i>unda, y una pérdida para ti, pues cuando el Tathagata hubo consumido su última comida de tu provisión, murió». Cualquier remordimiento de ese tipo, Ânanda, en <i>K</i>unda el herrero debería ser controlado diciendo: «Esto es bueno para ti, <i>K</i>unda, y una ganancia para ti, ya que cuando <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> el Tathagata hubo comido su última comida de tu provisión, murió. De la misma boca del Bendito, <i>K</i>unda, he oído, de su propia boca he recibido este dicho: “Estas dos ofrendas de comida son de igual fruto, de igual beneficio, y de mucho mayor fruto y mucho mayor beneficio que cualquier otra, ¿y cuáles son las dos? La ofrenda de comida que, cuando un Tathagata ha comido, alcanza la visión suprema y perfecta; y la ofrenda de comida que, cuando un Tathagata ha comido, desaparece por esa muerte total en la que no queda nada en absoluto—estas dos ofrendas de Los alimentos son de igual fruto y de igual beneficio, y de mucho mayor fruto y beneficio que cualquier otro. Kunda, el herrero, ha acumulado un karma que redunda en longevidad, buen linaje, buena fortuna, buena fama, herencia celestial y poder soberano. De esta manera, Ânanda, debería frenarse cualquier remordimiento en Kunda, el herrero.
 
 58\. Entonces el Bendito, al percibir la situación, pronunció, incluso en ese momento, este himno de júbilo:
 

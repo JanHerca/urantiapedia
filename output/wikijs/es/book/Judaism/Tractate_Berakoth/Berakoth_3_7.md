@@ -70,13 +70,13 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **M**.VII. 4 (3). ¿Cómo se formula la invitación? [^384] Si hay tres personas, dicen: «Bendigámoslo». [^385] Si hay tres además del orador, dice: «Bendito sea». [^386] Si hay diez, dice: «Bendigamos a nuestro Dios». Si hay diez además del orador, dice: «Bendito sea». Da igual que sean diez o diez miríadas. [^387]
 
-5 (3 _cont_.). En el caso de cien, dice: «Bendigamos al SEÑOR nuestro Dios». En el caso de cien, además del que habla, dice: «Bendito sea». En el caso de mil, dicen: «Bendigamos al SEÑOR nuestro Dios, el Dios de Israel, el Dios de los ejércitos». [1](Berakoth_3_7#fn_388)
+5 (3 _cont_.). En el caso de cien, dice: «Bendigamos al SEÑOR nuestro Dios». En el caso de cien, además del que habla, dice: «Bendito sea». En el caso de mil, dicen: «Bendigamos al SEÑOR nuestro Dios, el Dios de Israel, el Dios de los ejércitos». [1](../Berakoth_3_7#fn_388)
 
-En el caso de una multitud, además del orador, dice: «Bendito sea Él». Según las palabras de su bendición [2](Berakoth_3_7#fn_389), así responden después de él: «Bendito sea el Señor nuestro Dios, el Dios de Israel, el Dios de los ejércitos, que mora entre los querubines por la comida que hemos comido».
+En el caso de una multitud, además del orador, dice: «Bendito sea Él». Según las palabras de su bendición [2](../Berakoth_3_7#fn_389), así responden después de él: «Bendito sea el Señor nuestro Dios, el Dios de Israel, el Dios de los ejércitos, que mora entre los querubines por la comida que hemos comido».
 
-R. José, el galileo, dice: Según el número de la congregación se organiza la bendición, pues está dicho: «Por congregaciones bendecid a Dios el Señor, de la fuente de Israel». [3](Berakoth_3_7#fn_390)
+R. José, el galileo, dice: Según el número de la congregación se organiza la bendición, pues está dicho: «Por congregaciones bendecid a Dios el Señor, de la fuente de Israel». [3](../Berakoth_3_7#fn_390)
 
-6 (3 _cont_.). R. Aqiba dice: ¿Cómo lo encontramos en la sinagoga? [4](Berakoth_3_7#fn_391) Es lo mismo, sean muchos o pocos; dicen: «Bendecid al Señor». R. Ismael dice: «Bendecid al Señor, que es bendito». [5](Berakoth_3_7#fn_392)
+6 (3 _cont_.). R. Aqiba dice: ¿Cómo lo encontramos en la sinagoga? [4](../Berakoth_3_7#fn_391) Es lo mismo, sean muchos o pocos; dicen: «Bendecid al Señor». R. Ismael dice: «Bendecid al Señor, que es bendito». [5](../Berakoth_3_7#fn_392)
 
 <a id="m7"></a>
 
@@ -120,7 +120,7 @@ No dicen la bendición sobre el vino hasta que se le añade agua. Esta es la opi
 
 ## Notas al pie
 
-[^365]: 59:1 _dar una invitación_. Uno de los presentes debe invitar a los otros dos a unirse a él en una bendición al final de la comida. SA, pág. 279, con la nota de Abrahams; _vide supra_, [pág. 50](Berakoth_3_6#p50).
+[^365]: 59:1 _dar una invitación_. Uno de los presentes debe invitar a los otros dos a unirse a él en una bendición al final de la comida. SA, pág. 279, con la nota de Abrahams; _vide supra_, [pág. 50](../Berakoth_3_6#p50).
 
 [^366]: 59:2 _Dmai_. Literalmente, «sospecha» o «habla». Frutos sobre los que se sospecha si han sido diezmados o no. El tercer tratado de la Mishná trata este tema y se le llama así. Para el deber de diezmar, véase Levítico 2730.
 
@@ -142,7 +142,7 @@ No dicen la bendición sobre el vino hasta que se le añade agua. Esta es la opi
 
 [^375]: 60:3 _hasta que le den permiso_. Porque su presencia no es necesaria.
 
-[^376]: 60:4 Cfr. _METRO_. III. 3 (_supra_, [p. 23](Berakoth_1_3#p23)).
+[^376]: 60:4 Cfr. _METRO_. III. 3 (_supra_, [p. 23](../Berakoth_1_3#p23)).
 
 [^377]: 60:5 sacerdotes de nacimiento ilegítimo (_chālālim_), _p. ej._ hijos de un sacerdote que se había casado con una viuda.
 
@@ -174,14 +174,14 @@ No dicen la bendición sobre el vino hasta que se le añade agua. Esta es la opi
 
 [^391]: 63:3 Sal. 6826.
 
-[^392]: 63:4 _en la sinagoga_. Donde la gente va y viene, de modo que no se sabe su número, a diferencia de una comida privada, donde se celebra. Aqiba implica que la práctica en la sinagoga debería guiar la práctica en otros lugares. Cf. [p. 69](Berakoth_3_8#p69).
+[^392]: 63:4 _en la sinagoga_. Donde la gente va y viene, de modo que no se sabe su número, a diferencia de una comida privada, donde se celebra. Aqiba implica que la práctica en la sinagoga debería guiar la práctica en otros lugares. Cf. [p. 69](../Berakoth_3_8#p69).
 
 [^393]: 63:5 La _Halaka_ (Regla) sigue a R. Ismael (Bartenora).
 
-[^394]: 63:6 _separar_. En dos o más divisiones, para rezar la bendición después de la comida. Porque tres es el número mínimo para una reunión religiosa. Por lo tanto, cuatro o cinco no pueden dividirse. Cf. [p. 50](Berakoth_3_6#p50).
+[^394]: 63:6 _separar_. En dos o más divisiones, para rezar la bendición después de la comida. Porque tres es el número mínimo para una reunión religiosa. Por lo tanto, cuatro o cinco no pueden dividirse. Cf. [p. 50](../Berakoth_3_6#p50).
 
 [^395]: 64:1 _diez_. Porque diez también es una compañía. Por lo tanto, los números del once al diecinueve no se pueden dividir.
 
 [^396]: 64:2 _de la invitación_. Por haber dicho ya la bendición para sí mismo.
 
-[^397]: 64:3 _R. Eliezer_. Su razón fue que hasta que se mezclaba agua con el vino existía la duda de si se bebía (cf. [p. 45](Berakoth_3_6#p45)). La mayoría asume que sí. El hecho de que nuestro Señor pronunciara una bendición sobre el vino en la Última Cena (Mc 14:23; Mt 26:27; Lc 22:17; y aparentemente 1 Cor 11:23-25) no prueba que ya se hubiera mezclado con agua, si Él seguía la opinión de la mayoría.
+[^397]: 64:3 _R. Eliezer_. Su razón fue que hasta que se mezclaba agua con el vino existía la duda de si se bebía (cf. [p. 45](../Berakoth_3_6#p45)). La mayoría asume que sí. El hecho de que nuestro Señor pronunciara una bendición sobre el vino en la Última Cena (Mc 14:23; Mt 26:27; Lc 22:17; y aparentemente 1 Cor 11:23-25) no prueba que ya se hubiera mezclado con agua, si Él seguía la opinión de la mayoría.

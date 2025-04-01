@@ -1,6 +1,6 @@
 ---
 title: "I. Khôrshêd Nyâyis"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 <span id="p374">[<sup><small>pág. 347p374</small></sup>]</span>
 
-<span id="p348">[<sup><small>pág. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
-<span id="p349">[<sup><small>pág. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Un Nyâyi<i>s</i> es propiamente una oración de súplica, a diferencia del Sitâyi<i>s</i>, una oración de alabanza. Es un término que se aplica particularmente a cinco oraciones dirigidas al Sol, a Mitra, a la Luna, a las Aguas y al Fuego. Todo laico mayor de ocho años está obligado a recitar el Nyâyi<i>s</i>: lo recita de pie y ceñido con su Kôstî.
 
@@ -56,7 +56,7 @@ Los primeros cuatro Nyâyi<i>s</i> deben ser recitados especialmente en los día
 
 1\. \[^1500]!\]
 
-<span id="p350">[<sup><small>pág. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 ¡Salve a ti, oh Ahura Mazda, en el triple camino [^1501]! ¡Salve a ti antes que a todas las demás criaturas!
 
@@ -92,7 +92,7 @@ Recito la 'Alabanza de la Santidad [^1503]:'
 
 ¡Salud a Gaya [^1506]!
 
-<span id="p351">[<sup><small>pág. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 ¡Salve al Fravashi del santo Spitama Zarathustra!
 
@@ -120,7 +120,7 @@ Sacrificamos a Tistrya, brillante y gloriosa.
 
 Sacrificamos a la estrella Vana<i>n</i><i>t</i> [^1512], hecha por Mazda.
 
-<span id="p352">[<sup><small>pág. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Sacrificamos a Tistrya, la estrella brillante y gloriosa.
 
@@ -156,7 +156,7 @@ Nos sacrificamos al Sol brillante, inmortal, resplandeciente y de caballo veloz.
 
 10\. Me confieso adorador de Mazda, seguidor de Zaratustra . . . .
 
-<span id="p353">[<sup><small>pág. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Hacia el Sol brillante, inmortal, resplandeciente y de veloz caballo;
 
@@ -206,7 +206,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1573]: 350:3 El Ashem Vohû.
 
-[^1574]: 350:4 Véase [p. 22](Yasts_1#p22).
+[^1574]: 350:4 Véase [p. 22](../Yasts_1#p22).
 
 [^1575]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
 
@@ -234,4 +234,4 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 [^1588]: 353:2 Ríos considerados como esposas de Ahura (cf. Ormazd et Ahriman, § 32).
 
-[^1589]: 353:3 De Yasna LXVIII, 10 (LXVII, 30); cf. [pag. 34](Yasts_1#p34).
+[^1589]: 353:3 De Yasna LXVIII, 10 (LXVII, 30); cf. [pag. 34](../Yasts_1#p34).

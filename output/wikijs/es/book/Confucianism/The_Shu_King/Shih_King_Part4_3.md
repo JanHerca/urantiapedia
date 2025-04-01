@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>pág. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 <a id="o0"></a>
 
@@ -52,7 +52,7 @@ Todos los críticos chinos dan esta interpretación de la pieza. <i>K</i>wang <i
 
 ¡Oh, sol, oh, luna, que naces del este! Aquí está este hombre, de palabras virtuosas, pero en realidad no buenas. ¿Cómo podrá tranquilizar su mente? ¿Permitiría entonces que me olvidaran?
 
-<span id="p434">[<sup><small>pág. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 ¡Oh sol, oh luna, que surgen del este! ¡Oh padre, oh madre! No hay secuela de su alimentación. ¿Cómo podría él tranquilizar su mente? ¿Me respondería entonces contra toda razón?
 

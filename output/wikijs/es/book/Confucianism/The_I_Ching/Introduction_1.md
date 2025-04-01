@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:1Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## INTRODUCCIÓN. CAPÍTULO I
 
@@ -137,7 +137,7 @@ Cuando el mismo escritor que habla así de los eruditos nativos continúa dicien
 [^4]: 2:2:3 Libros del período Han anterior; Historia de la literatura, págs. 1, 2.
 
 [^5]: 4:4:1 Véase el <i>K</i>âu Kwan (o Lî), Libro XXIV, parr. 3, 4 y 27. Biot (Le Tcheou Lî, vol. ii, págs. 70, 71) traduce los dos primeros párrafos así: 'Il (Le Grand Augure) est préposé aux trois métodos pour les changements (des lignes divinatoires). La première est appelée Liaison des montagnes (Lien-shan); la seconde, Retour et Conservation (Kwei-žhang); la troisième, Changements des <i>K</i>âu. Pour toutes il ya huit lignes symboliques sacrées, et soixante-quatre combinaisons de ces lignes.'
-  Algunos nos dicen que por Lien-shan se entendía Fû-hsî, y por Kwei-žhang Hwang Tî; otros, que el primero era el Yî de la dinastía Hsiâ, y el segundo el de Shang o Yin. Un tercer grupo sostiene que Lien-shan era una designación de Shăn Năng, entre Fû-hsî y Hwang Tî. Yo mismo diría, como muchos críticos chinos, que Lien-shan era una disposición de los símbolos lineales en la que la primera figura era el actual hexagrama 52, Kăn ![](image/book/Confucianism/The_I_Ching/hex100100.jpg) que consiste en el trigrama que representa las montañas duplicadas; Y que Kwei-žhang era una disposición cuya primera figura era el actual segundo hexagrama, Khwăn ![](image/book/Confucianism/The_I_Ching/hex000000.jpg), que consiste en el trigrama que representa la tierra duplicada, en referencia a la desaparición y la protección de las plantas en el seno de la tierra durante el invierno. Sin embargo, todo esto es solo una conjetura.
+  Algunos nos dicen que por Lien-shan se entendía Fû-hsî, y por Kwei-žhang Hwang Tî; otros, que el primero era el Yî de la dinastía Hsiâ, y el segundo el de Shang o Yin. Un tercer grupo sostiene que Lien-shan era una designación de Shăn Năng, entre Fû-hsî y Hwang Tî. Yo mismo diría, como muchos críticos chinos, que Lien-shan era una disposición de los símbolos lineales en la que la primera figura era el actual hexagrama 52, Kăn ![](../image/book/Confucianism/The_I_Ching/hex100100.jpg) que consiste en el trigrama que representa las montañas duplicadas; Y que Kwei-žhang era una disposición cuya primera figura era el actual segundo hexagrama, Khwăn ![](../image/book/Confucianism/The_I_Ching/hex000000.jpg), que consiste en el trigrama que representa la tierra duplicada, en referencia a la desaparición y la protección de las plantas en el seno de la tierra durante el invierno. Sin embargo, todo esto es solo una conjetura.
 
 [^6]: 5:5:1 Véase en el Žo Khwan, bajo el año 22 del duque <i>K</i>wang (672 a. C.); el año 1 de Min (1661); y en su año 2 (660); dos veces en el año 15 de Hsî (645); su año 25 (635); el año 12 de Hsüan, (597); el año 16 de <i>Kh</i>ăng (575); el año 9 de Hsiang (564); su año 25 (548); el año 5 de <i>Kh</i>âo (537); su año 7 (535); su año 12 (530); y el año 9 de Âi (486).
 

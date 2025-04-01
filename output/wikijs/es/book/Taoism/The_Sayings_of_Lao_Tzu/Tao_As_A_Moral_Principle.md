@@ -1,5 +1,5 @@
 ---
-title: "El Tao como principio moral o “virtud”"
+title: "El Tao como principio moral o «virtud»"
 description: "Los dichos de Lao Tzu"
 published: true
 date: 2025-2-12T12:59:9Z
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:59:9Z
   </table>
 </figure>
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 La bondad suprema es como el agua, pues es excelente para beneficiar a todas las cosas y no se esfuerza. Ocupa el lugar más bajo, el cual los hombres aborrecen. Y, por lo tanto, es cercana al Tao.
 
@@ -42,7 +42,7 @@ Aquellos que siguen el Camino no desean el exceso; y así, sin exceso, están pa
 
 Todas las cosas por igual hacen su trabajo, y luego las vemos desaparecer. Cuando alcanzan su florecimiento, cada una regresa a su origen. Regresar a su origen significa descanso o cumplimiento del destino. Esta reversión es una ley eterna. Conocer esa ley es estar iluminado. Desconocerla es miseria y calamidad. Quien conoce la ley eterna es liberal. Siendo liberal, es justo. Siendo justo, es majestuoso. Siendo majestuoso, es semejante al Cielo. Siendo semejante al Cielo, posee el Tao. Poseído por el Tao, perdura para siempre. Aunque su cuerpo perezca, no sufre daño alguno.
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Quien actúa conforme al Tao, se une a él. Quien recorre el camino de la Virtud se une a ella. Quien sigue el camino del Vicio se une a él. Quien es uno con el Tao, el Tao también se alegra de recibirlo. Quien es uno con la Virtud, la Virtud también se alegra de recibirlo. Quien es uno con el Vicio, el Vicio también se alegra de recibirlo.
 
@@ -124,6 +124,6 @@ Quien intenta gobernar un reino con sagacidad es su despojo; pero quien no gobie
 
 ## Notas al pie
 
-[^2]: 25:\* Han Fei Tzŭ explica el pasaje señalando que “La Virtud es el logro del Tao; la Caridad es la gloria de la Virtud; el Deber es la traducción en acción de la Caridad; y la Ceremonia es la parte ornamental del Deber”.
+[^2]: 25:\* Han Fei Tzŭ explica el pasaje señalando que «La Virtud es el logro del Tao; la Caridad es la gloria de la Virtud; el Deber es la traducción en acción de la Caridad; y la Ceremonia es la parte ornamental del Deber».
 
 [^3]: 29:\* Literalmente, «posee la parte izquierda del acuerdo». Antiguamente, los términos de un contrato se inscribían en una placa de madera, con el débito u obligaciones a la izquierda y el haber o cuotas a la derecha; luego se dividía en dos, y cada parte contratante conservaba su propia mitad hasta que se exigía su cumplimiento, momento en el que se comprobaba la validez de la reclamación encajando las dos mitades.

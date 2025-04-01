@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p221">[<sup><small>pág. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## <i>K</i>ETOKHILA-SUTTA. INTRODUCCIÓN
 

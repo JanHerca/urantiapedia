@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 LIBRO SEGUNDO [^977].
 
@@ -60,7 +60,7 @@ Les he contado, oh longevos <i>Srama<i>n</i>as, un símil [^980]; deben comprend
 
 Oh, longevos <i>S</i>rama<i>n</i>as [^982], es decir [^983] el mundo, hablé del estanque del loto. Es decir, Karman, hablé del agua. Es decir, placeres y diversiones, hablé del lodo. Es decir, la gente en general, hablé de esos muchos lotos blancos, los mejores de Nymphaeas. Es decir, el rey, hablé del gran loto blanco, el mejor de Nymphaeas. Es decir, los maestros heréticos, hablé de esos cuatro hombres. Es decir, la Ley, hablé del monje. Es decir, la iglesia [^984], hablé de la orilla. Es decir, la predicación de la Ley, hablé de la voz (del monje). Es decir, Nirvâ<i>n</i>a, hablé del vuelo (del loto). Es decir, oh longevos <i>S</i>rama<i>n</i>as, dije este (símil). (12)
 
-<span id="p339">[<sup><small>pág. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 Aquí, en Oriente, Occidente, Norte y Sur, muchos hombres han nacido según sus méritos como habitantes de este mundo: algunos como Âryas, otros como no Âryas, algunos en familias nobles, otros en familias humildes, algunos como hombres grandes, otros como hombres pequeños, algunos de complexión hermosa, otros de complexión fea, algunos como hombres apuestos, otros como hombres feos. Y de estos hombres, un hombre es rey, quien es fuerte como las grandes montañas Himavat, Malaya, Mandara y Mahêndra (etc., hasta el final), quien gobierna su reino, en el que se han reprimido todos los disturbios y motines [^985].
 
@@ -70,7 +70,7 @@ Y entre estos hombres, uno [987] está lleno de fe. En verdad, los <i>Srama<i>n<
 
 Hacia arriba, desde la planta de los pies, hacia abajo, <span id="p340"><sup><small>[ p. 340 ]</small></sup></span>, desde la punta del cabello, en la superficie de la piel se encuentra el Alma [^988], o lo que es lo mismo, el Atman. El alma vive por completo; cuando este cuerpo muere, no vive. Dura lo que dura el cuerpo, no sobrevive a su destrucción. Con él termina la vida. Otros hombres se lo llevan para quemarlo. Cuando el fuego lo consume, solo quedan huesos color paloma, y ​​los cuatro porteadores regresan con el coche fúnebre a su aldea. Por lo tanto, no hay ni existe alma distinta del cuerpo. Quienes creen que no hay ni existe alma alguna, dicen la verdad. Quienes sostienen que el alma es algo distinto del cuerpo no pueden discernir si el alma (en cuanto separada del cuerpo) es larga o pequeña, globular, circular, triangular, cuadrada, sexagonal, octogonal o larga, negra, azul, roja, amarilla o blanca, de olor dulce o desagradable, amarga, picante, astringente, ácida o dulce, dura, blanda, pesada, ligera, fría, caliente, lisa o áspera. Por lo tanto, quienes creen que no hay ni existe alma, dicen la verdad. Quienes sostienen que el alma es algo distinto del cuerpo no ven las siguientes objeciones: (11)
 
-"Como un hombre saca una espada de la vaina y te la muestra (diciendo): “Amigo, esta es la espada y esa es la vaina”, así nadie puede sacar (el alma del cuerpo) y mostrarla (diciendo): “Amigo, esta es el alma y ese es el cuerpo”. Como un hombre saca una fibra de un tallo de hierba Mu<i>ñ</i><i>g</i>a y te la muestra (diciendo): “Amigo, este es el tallo y esa es la fibra”; o saca un hueso de la carne, o la <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> semilla de Âmalaka [^989] de la palma de su mano, o una partícula de mantequilla fresca de leche coagulada, y te muestra ambas cosas por separado [^990]; O como se prensa aceite de la semilla de Atasî [^991] y se muestra el aceite y la torta por separado, o como se prensa el jugo de la caña de azúcar y se muestra el jugo y la melaza [^992] por separado, así nadie puede mostrarte el alma y el cuerpo por separado. Lo mismo ocurre cuando se bate fuego de madera de Ara<i>n</i>i. Quienes creen que no hay ni existe alma, dicen la verdad. Quienes dicen que el alma es diferente del cuerpo, se equivocan. (16)
+"Como un hombre saca una espada de la vaina y te la muestra (diciendo): «Amigo, esta es la espada y esa es la vaina», así nadie puede sacar (el alma del cuerpo) y mostrarla (diciendo): «Amigo, esta es el alma y ese es el cuerpo». Como un hombre saca una fibra de un tallo de hierba Mu<i>ñ</i><i>g</i>a y te la muestra (diciendo): «Amigo, este es el tallo y esa es la fibra»; o saca un hueso de la carne, o la <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> semilla de Âmalaka [^989] de la palma de su mano, o una partícula de mantequilla fresca de leche coagulada, y te muestra ambas cosas por separado [^990]; O como se prensa aceite de la semilla de Atasî [^991] y se muestra el aceite y la torta por separado, o como se prensa el jugo de la caña de azúcar y se muestra el jugo y la melaza [^992] por separado, así nadie puede mostrarte el alma y el cuerpo por separado. Lo mismo ocurre cuando se bate fuego de madera de Ara<i>n</i>i. Quienes creen que no hay ni existe alma, dicen la verdad. Quienes dicen que el alma es diferente del cuerpo, se equivocan. (16)
 
 Este asesino dice: «¡Matad, cavad, descuartizad, quemad, cocinad, cortad o destrozad, destruid! La vida termina aquí; no hay más allá».
 
@@ -78,7 +78,7 @@ Estos (Nâstikas) no pueden informarte [^993] sobre los siguientes puntos: si un
 
 Así, algunos hombres desvergonzados, al hacerse monjes, propagan una Ley propia. Y otros la creen, depositan su fe en ella, la adoptan, (diciendo:) «Bien, dices la verdad, ¡oh Brahmana!, (o ¡oh Saramana!) Te ofreceremos comida, bebida, especias y dulces, con una túnica, un cuenco o una escoba».
 
-<span id="p342">[<sup><small>pág. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Algunos han sido inducidos a honrarlos, otros han hecho que (sus prosélitos) los honren. (18)
 
@@ -102,7 +102,7 @@ Así pues, he tratado del segundo hombre (que cree que) todo consiste en los cin
 
 Ahora trataré del tercer hombre (que cree que) el Ser [^997] es la causa de todo.
 
-<span id="p344">[<sup><small>pág. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 Aquí en Oriente, (&c., véanse §§ 12, 13, todos hasta) enseñan bien esta religión. (25)
 
@@ -138,19 +138,19 @@ Aquí en Oriente, (&c., véanse §§ 12, 13, todos hasta) enseñan bien esta rel
 
 Hay dos tipos de hombres. Uno admite la acción, otro no. Ambos, el que admite la acción y el que no, son iguales; su caso es el mismo, porque están impulsados ​​por la misma fuerza [^999]. (30)
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-'Un hombre ignorante piensa en la causa de la siguiente manera: “Cuando sufro, me aflijo, me culpo, me debilito [^1000], estoy afligido o sufro un gran dolor, yo lo he causado; o cuando otro hombre sufre, etc., él lo ha causado”. Así, un hombre ignorante piensa que él mismo o otro hombre son la causa de lo que él o el otro hombre experimenta. (31)
+'Un hombre ignorante piensa en la causa de la siguiente manera: «Cuando sufro, me aflijo, me culpo, me debilito [^1000], estoy afligido o sufro un gran dolor, yo lo he causado; o cuando otro hombre sufre, etc., él lo ha causado». Así, un hombre ignorante piensa que él mismo o otro hombre son la causa de lo que él o el otro hombre experimenta. (31)
 
-'El hombre sabio piensa en la causa de la siguiente manera: “Cuando yo sufro, etc., no lo causé; y cuando otro hombre sufre, etc., no lo causó [^1001]”.
+'El hombre sabio piensa en la causa de la siguiente manera: «Cuando yo sufro, etc., no lo causé; y cuando otro hombre sufre, etc., no lo causó [^1001]».
 
-Un hombre sabio piensa así [^1002] sobre la causa de lo que él mismo o otro hombre experimenta. Digo esto: “Los seres móviles o inmóviles en los cuatro puntos cardinales (es decir, por voluntad del Destino) llegan a tener un cuerpo, a sufrir las vicisitudes de la vida, a perderlo, a alcanzar algún estado de existencia, a experimentar placer y dolor [^1003].”
+Un hombre sabio piensa así [^1002] sobre la causa de lo que él mismo o otro hombre experimenta. Digo esto: «Los seres móviles o inmóviles en los cuatro puntos cardinales (es decir, por voluntad del Destino) llegan a tener un cuerpo, a sufrir las vicisitudes de la vida, a perderlo, a alcanzar algún estado de existencia, a experimentar placer y dolor [^1003].»
 
 Estos (herejes) no pueden informarle, al mantener tales opiniones (etc., como en § 17, hasta el final). (32)
 
 Estos hombres sin valor mantienen tales opiniones y creen en ellas hasta el punto de no poder volver (etc., como en el § 19 hasta) a las diversiones.
 
-<span id="p347">[<sup><small>pág. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 He tratado del cuarto hombre, que cree que el Destino es la causa de todo. (33)
 
@@ -166,7 +166,7 @@ Aquí, en esta vida, los placeres y las diversiones no pueden ayudar ni salvar. 
 
 Hay cosas más íntimamente relacionadas conmigo, a saber: mi madre, mi padre, mi hermano, mi hermana, mi esposa, mis hijos, mis nietos, mis nueras, mis sirvientes, mis amigos, mis parientes, mis compañeros y mis conocidos. Estos parientes me pertenecen, y yo les pertenezco. Un hombre sabio, antes, debería pensar: «Aquí, sí, podría sobrevenirme alguna enfermedad dolorosa» (etc., todo como en el § 37 hasta el final, pero sustituyendo «placeres» por «relaciones»). (39)
 
-<span id="p349">[<sup><small>pág. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 O alguna enfermedad dolorosa, indeseada, (etc., en definitiva) nada agradable, pudiera sobrevenir a mis queridos parientes. Tomaré sobre mí esta dolorosa enfermedad, etc., para que no sufran, (en definitiva) padezcan un gran dolor. Los libraré de esta dolorosa enfermedad. Pero este deseo suyo aún no se ha cumplido. Porque nadie puede cargar con el dolor de otro; nadie puede experimentar lo que otro ha hecho [^1007]. (40)
 
@@ -180,7 +180,7 @@ Aquí, en efecto, los jefes de familia son asesinos (de seres) y adquirentes de 
 
 Aquí, de hecho, los jefes de familia son asesinos (de seres) y adquirentes de propiedades, y lo mismo ocurre con algunos <i>Srama<i>n</i>as y Brâhma<i>n</i>as. Pero yo no soy asesino (de seres) ni adquirente de propiedades. Confiando en [^1010] los jefes de familia y en tales <i>Srama<i>n</i>as y Brâhma<i>n</i>as que son asesinos (de seres) y adquirentes de propiedades, llevaremos una vida de castidad. (Sin embargo, debería separarse de ellos). (El alumno pregunta): ¿Cuál es la razón de ello? (El maestro responde): Como antes (de su ordenación eran asesinos de seres), así (lo serán) después, y viceversa. Es evidente que (los jefes de familia) no se abstienen (de los pecados) ni se esfuerzan (en el control); y (como monjes) recaerán en los mismos (malos hábitos). (45)
 
-<span id="p351">[<sup><small>pág. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Los jefes de familia y los <i>srama<i>n</i>as y brâhma<i>n</i>as, que son asesinos (de seres) y acaparadores de bienes, cometen pecados tanto por amor como por odio. Pero un monje que toma esto en consideración, no debe llevar una vida sujeta ni al amor ni al odio. (46)
 
@@ -198,7 +198,7 @@ No mata seres muebles ni inmóviles, ni los hace matar por otra persona, ni cons
 
 No adquiere objetos de placer sensibles o insensibles, ni los hace adquirir por otra persona, ni consiente que otro los adquiera. De esta manera, (etc., todo como arriba). (53)
 
-<span id="p353">[<sup><small>pág. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 No realiza acciones derivadas de causas pecaminosas [^1014], ni las hace realizar otra persona, ni consiente que otro las realice. De esta manera (etc., todo como arriba). (54)
 
@@ -262,7 +262,7 @@ Así lo digo.
 
 [^992]: 339:1 Este es uno de los var<i>n</i>aka o descripciones típicas que son tan frecuentes en los libros canónicos. El texto completo se encuentra en el Aupapâtika Sûtra, ed. Leumann, § II, pág. 26 y sig. De los muchos significados que puede tener la palabra var<i>n</i>aka, «obra maestra» parece ser el que debe entenderse aquí. Muchos var<i>n</i>akas están compuestos, al menos en parte, en una métrica curiosa que he llamado Hipermetron (véase Indische Studien, vol. XVII, págs. 389 y sig.).
 
-[^994]: 339:2 Respecto de los Ugras y los Bhôgas, compare la nota [2](Uttaradhyayana_15#fn190) en [p. 71](Uttaradhyayana_15#p71).
+[^994]: 339:2 Respecto de los Ugras y los Bhôgas, compare la nota [2](../Uttaradhyayana_15#fn190) en [p. 71](../Uttaradhyayana_15#p71).
 
 [^995]: 339:3 Al parecer se refiere al rey.
 
@@ -324,7 +324,7 @@ Así lo digo.
 
 [^1024]: 353:3 Al parecer se refiere al jefe de familia.
 
-[^1025]: 353:4 Udgama, utpâdanâ, êsha<i>n</i>â. Véase más arriba, [p. 131](Uttaradhyayana_24#p131), nota [7](Uttaradhyayana_24#fn337).
+[^1025]: 353:4 Udgama, utpâdanâ, êsha<i>n</i>â. Véase más arriba, [p. 131](../Uttaradhyayana_24#p131), nota [7](../Uttaradhyayana_24#fn337).
 
 [^1026]: 353:5 Sastrâtîtam.
 
@@ -334,7 +334,7 @@ Así lo digo.
 
 [^1029]: 353:8 Vaishikam.
 
-[^1030]: 354:1 Samudânikam, es decir, como las abejas recogen miel de muchas flores. Cf. [p. 80](Uttaradhyayana_17#p80), nota [1](Uttaradhyayana_17#fn207).
+[^1030]: 354:1 Samudânikam, es decir, como las abejas recogen miel de muchas flores. Cf. [p. 80](../Uttaradhyayana_17#p80), nota [1](../Uttaradhyayana_17#fn207).
 
 [^1031]: 354:2 Compárese Â<i>k</i>ârâṅga Sûtra I, 7, 4, I, parte i, pág. 68, nota 3.
 

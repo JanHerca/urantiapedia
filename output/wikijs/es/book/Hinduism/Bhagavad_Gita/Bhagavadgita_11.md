@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:1:28Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>pág. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Ar<i>g</i>una dijo:
 
@@ -70,7 +70,7 @@ Sang<i>gaya</i> dijo:
 
 Habiendo hablado así a Ar<i>g</i>una, Vâsudeva nuevamente mostró su propia forma, y ​​el hombre de alma elevada, volviendo a su forma apacible, consoló a aquel que había estado asustado.
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Ar<i>g</i>una dijo:
 
@@ -78,7 +78,7 @@ Ar<i>g</i>una dijo:
 
 La Deidad dijo:
 
-Incluso los dioses siempre desean ver esta forma mía, que es difícil de vislumbrar, y que tú has visto. No puedo ser visto, como tú me has visto, ni por medio de los Vedas, ni por penitencia, ni por ofrenda, ni siquiera por sacrificio. Pero, ¡oh Ar<i>g</i>una!, mediante la devoción exclusiva a mí, en esta forma puedo ser verdaderamente conocido, visto y asimilado [1](Bhagavadgita_12#fn402) con, ¡oh terror de tus enemigos! Aquel que realiza actos para propiciarme, para quien soy el objeto supremo, quien es mi devoto, quien está libre de apego y no tiene enemistad con ningún ser, ese, ¡oh hijo de Pâ<i>nd</i>u!, viene a mí.
+Incluso los dioses siempre desean ver esta forma mía, que es difícil de vislumbrar, y que tú has visto. No puedo ser visto, como tú me has visto, ni por medio de los Vedas, ni por penitencia, ni por ofrenda, ni siquiera por sacrificio. Pero, ¡oh Ar<i>g</i>una!, mediante la devoción exclusiva a mí, en esta forma puedo ser verdaderamente conocido, visto y asimilado [1](../Bhagavadgita_12#fn402) con, ¡oh terror de tus enemigos! Aquel que realiza actos para propiciarme, para quien soy el objeto supremo, quien es mi devoto, quien está libre de apego y no tiene enemistad con ningún ser, ese, ¡oh hijo de Pâ<i>nd</i>u!, viene a mí.
 
 <figure class="table chapter-navigator">
   <table>
@@ -108,7 +108,7 @@ Incluso los dioses siempre desean ver esta forma mía, que es difícil de vislum
 
 [^388]: 92:1 Madhusûdana entiende por poder la capacidad de hacerse pequeño o grande, de obtener lo que se desea, etc.; los llamados ocho Bhûtis.
 
-[^389]: 93:1 Cf. [p. 90](Bhagavadgita_10#p90) supra. Sankara lo explica como «que lo impregna todo». La expresión aparece en el Nrisimha-tâpinî-upanishad, p. 50, donde se dice: «Como, sin órganos, ve, oye, va, recibe de todos lados y lo impregna todo, por lo tanto, tiene rostros por todas partes».
+[^389]: 93:1 Cf. [p. 90](../Bhagavadgita_10#p90) supra. Sankara lo explica como «que lo impregna todo». La expresión aparece en el Nrisimha-tâpinî-upanishad, p. 50, donde se dice: «Como, sin órganos, ve, oye, va, recibe de todos lados y lo impregna todo, por lo tanto, tiene rostros por todas partes».
 
 [^390]: 93:2 Dioses, manes, hombres, etcétera.
 
@@ -124,11 +124,11 @@ Incluso los dioses siempre desean ver esta forma mía, que es difícil de vislum
 
 [^396]: 96:2 Ar<i>g</i>una, a quien Indra le dio esta corona.—Madhusûdana.
 
-[^397]: 96:3 Los comentaristas interpretan esto como lo perceptible, lo no percibido y el principio superior. Cf. [p. 84](Bhagavadgita_9#p84) supra, y también pp. [103](Bhagavadgita_13#p103), [113](Bhagavadgita_15#p113) infra y notas allí.
+[^397]: 96:3 Los comentaristas interpretan esto como lo perceptible, lo no percibido y el principio superior. Cf. [p. 84](../Bhagavadgita_9#p84) supra, y también pp. [103](../Bhagavadgita_13#p103), [113](../Bhagavadgita_15#p113) infra y notas allí.
 
 [^398]: 97:1 Véase [p. 94](#p94) supra. Aquí los comentaristas dicen que las palabras significan «aquello en que se sitúa el universo en el tiempo del diluvio».
 
-[^399]: 97:2 El profesor Tiele menciona al bisabuelo como nombre del Creador entre los kafires (Historia de la Religión, pág. 18). Cf. [pág. 83](Bhagavadgita_9#p83) supra.
+[^399]: 97:2 El profesor Tiele menciona al bisabuelo como nombre del Creador entre los kafires (Historia de la Religión, pág. 18). Cf. [pág. 83](../Bhagavadgita_9#p83) supra.
 
 [^400]: 97:3 Es decir, de quien es imposible determinar si es tal o cual. Cf. [p. 94](#p94) supra.
 

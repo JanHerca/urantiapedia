@@ -1,6 +1,6 @@
 ---
 title: "Los Gâhs"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p376">[<sup><small>pág. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
-<span id="p378">[<sup><small>pág. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
-<span id="p379">[<sup><small>pág. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 ## LOS GHS.
 
@@ -96,7 +96,7 @@ Bendigo el sacrificio, el homenaje, la fuerza y ​​la rapidez de Asha Vahi<i>
 
 Y sacrificamos al hombre santo más prolífico en buenos pensamientos, palabras y obras, sabio en la piedad, sencillo en el pecado, por cuyas acciones los asentamientos avanzan en el orden sagrado, para la adoración y homenaje del Zarathustrôtema, el señor. Y sacrificamos al Zarathustrôtema, el santo señor del orden ritual. 10. Y sacrificamos a los buenos, heroicos y generosos Fravashis de los santos, y a las mujeres que tienen muchos hijos, y a la Prosperidad que perdura durante todo el año, y a la Fuerza bien formada y majestuosa. Y sacrificamos al Golpe de la Victoria, otorgado por Ahura, y a la Ascensión aplastante que asegura. 11, 12. (Véase Gâh I, 9, 10.) 13. (El Ahuna-vairya, etc.)
 
-<span id="p387">[<sup><small>pág. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 <a id="5"></a>
 

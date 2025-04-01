@@ -36,19 +36,19 @@ En la colina boscosa detrás de la casa, Robert y yo buscamos anillos de hadas. 
 
 No encontramos ningún círculo de hadas; pero encontramos una gran cantidad de piñas en la hierba alta... Le cuento a Robert la vieja historia galesa del hombre que se durmió, sin darse cuenta, dentro de un círculo de hadas, y desapareció durante siete años, y nunca más comió ni habló después de que sus amigos lo liberaron del encantamiento.
 
-“No comen nada más que puntas de agujas, ¿sabes?”, dice Robert.
+«No comen nada más que puntas de agujas, ¿sabes?», dice Robert.
 
-“¿Quién?” pregunto.
+«¿Quién?» pregunto.
 
-“Duendes”, responde Robert.
+«Duendes», responde Robert.
 
 Esta revelación me deja mudo de asombro y admiración... Pero de repente Robert exclama:
 
-“¡Ahí viene un Harper! ¡Viene a la casa!”
+«¡Ahí viene un Harper! ¡Viene a la casa!»
 
 Y bajamos corriendo la colina para escuchar al arpista... ¡Pero qué arpista! No como los canosos juglares de los libros ilustrados. Un vagabundo moreno, robusto y desaliñado, con ojos negros y audaces bajo unas cejas negras y fruncidas. Más parecido a un albañil que a un bardo, ¡y su ropa es de pana!
 
-“¿Me pregunto si cantará en galés?”, murmura Robert.
+«¿Me pregunto si cantará en galés?», murmura Robert.
 
 Me siento demasiado decepcionado para hacer comentarios. El arpista posa su arpa —un instrumento enorme— en nuestra puerta, hace sonar el timbre con un movimiento de sus dedos mugrientos, se aclara la garganta con una especie de gruñido furioso y comienza: —Créanme, si todos esos encantadores jóvenes encantos, que contemplo con tanto cariño hoy...
 
@@ -60,7 +60,7 @@ Subimos de nuevo a los pinos y allí nos agachamos sobre la hierba bañada por e
 
 "¿Qué haremos si sube aquí?", jadeo, con repentino terror ante la soledad de nuestra situación.
 
-“Oh, no se atrevería”, responde Robert, “no a la luz del día, ¿sabes?”
+«Oh, no se atrevería», responde Robert, «no a la luz del día, ¿sabes?»
 
 Ayer mismo, cerca del pueblo de Takata, vi una flor que los japoneses llaman casi igual que nosotros: Himawari, «La que gira hacia el sol»; y durante cuarenta años, la voz de aquella arpista errante me resonó de nuevo, como el girasol que se vuelve hacia su dios al ponerse, con la misma mirada que le dirigió al amanecer. Volví a ver las sombras salpicadas de sol en aquella lejana colina galesa; y Robert estuvo de nuevo a mi lado por un instante, con su rostro de niña y sus rizos dorados. Buscábamos anillos de hadas... Pero todo lo que existía del verdadero Robert debió de haber sufrido hace mucho tiempo una transformación radical en algo rico y extraño... Nadie tiene amor más grande que este, que un hombre dé su vida por su amigo...
 

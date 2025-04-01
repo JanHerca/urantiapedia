@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. Si una marga, al pasar por su viña, ha dejado caer accidentalmente semillas, o si estas se han mezclado con el estiércol o el agua, o si el viento las ha arrastrado hacia atrás, hacia la viña, y han brotado, no es ilegal; pero si el viento las ha arrastrado hacia adelante, dice R. Akiva: «Si las semillas han brotado, debe arar la tierra; si han brotado en espigas de maíz, debe arrancar el grano de las espigas; pero si el maíz está maduro, debe quemarse».
 
-§ 8. Si un hombre permite que haya espinos en su viña, dice R. Eleazar, "ha consagrado su viña y ha hecho ilícito su producto": pero los sabios dicen que no; ya que la viña queda sujeta a la prohibición solamente, aunque por medio de las semillas o hierbas que se acostumbra a cultivar en una viña; אִרוּם [1](Treatise4_Kilaim_6#fn55) קִיסוּם [2](Treatise4_Kilaim_6#fn56) y el lirio real, y, en general, todo tipo de hierbas del campo no son kilaim en una viña; el cáñamo, según R. Tarfón, no es kilaim; pero los sabios sostienen que así es; ‏קִינרם‎ [3](Tratado4_Kilaim_6#fn57) es kilaim en una viña.
+§ 8. Si un hombre permite que haya espinos en su viña, dice R. Eleazar, "ha consagrado su viña y ha hecho ilícito su producto": pero los sabios dicen que no; ya que la viña queda sujeta a la prohibición solamente, aunque por medio de las semillas o hierbas que se acostumbra a cultivar en una viña; אִרוּם [1](../Treatise4_Kilaim_6#fn55) קִיסוּם [2](../Treatise4_Kilaim_6#fn56) y el lirio real, y, en general, todo tipo de hierbas del campo no son kilaim en una viña; el cáñamo, según R. Tarfón, no es kilaim; pero los sabios sostienen que así es; ‏קִינרם‎ [3](../Tratado4_Kilaim_6#fn57) es kilaim en una viña.
 
 <figure class="table chapter-navigator">
   <table>

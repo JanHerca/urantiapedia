@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Como representantes de esa cualidad general de la experiencia moral que permanece prácticamente inafectada por modificaciones sociales de cualquier tipo, los dichos proverbiales de un pueblo siempre deben poseer un interés psicológico especial para los pensadores. En este tipo de folclore, la literatura oral y escrita de Japón es tan rica que requeriría un libro extenso para ejemplificarla. No se podría hacer justicia al tema en su conjunto en un solo ensayo. Sin embargo, para ciertas clases de proverbios y frases proverbiales, se puede hacer algo incluso en unas pocas páginas; y los dichos relacionados con el budismo, ya sea por alusión o derivación, conforman una clase que me parece particularmente digna de estudio. Por consiguiente, con la ayuda de un amigo japonés, he seleccionado y traducido la siguiente serie de ejemplos, eligiendo los más sencillos y similares siempre que ha sido posible, y ordenando los originales alfabéticamente para facilitar su consulta. Por supuesto, la selección no es representativa del todo, pero servirá para ilustrar ciertos efectos de la enseñanza budista sobre el pensamiento y el habla populares.
 
@@ -72,7 +72,7 @@ Hay que salir al exterior para escuchar la doctrina budista o el sonido de la ll
 
 De la relación con el karma surge incluso la propia naturaleza divina.\[5\]
 
-\[1. Literalmente, “diez mil cosas”.
+\[1. Literalmente, «diez mil cosas».
 
 2\. Las únicas diferencias reales de condición son las diferencias en el conocimiento de la verdad más alta.
 
@@ -80,7 +80,7 @@ De la relación con el karma surge incluso la propia naturaleza divina.\[5\]
 
 4\. Aquí se alude a la condición del _shukké_ (sacerdote): literalmente, «el que ha abandonado su hogar». El proverbio sugiere que quienes siguen viviendo en el mundo de las locuras y los deseos no pueden alcanzar las verdades superiores del budismo.
 
-5\. Existe karma tanto bueno como malo. La felicidad que disfrutamos no es menos consecuencia de los actos y pensamientos de vidas anteriores que cualquier desgracia que nos sobrevenga {nota al pie pág. 170}. Todo buen pensamiento y acción contribuye a la evolución de la naturaleza búdica en cada uno de nosotros. Otro proverbio \[n.° 10\], —En naki shujô wa doshi gatashi_, ilustra aún más el significado de este.\] <span id="p170">[<sup><small>pág. 170</small></sup>]</span>. —Enkô ga tsuki wo toran to suru ga gotoshi_.
+5\. Existe karma tanto bueno como malo. La felicidad que disfrutamos no es menos consecuencia de los actos y pensamientos de vidas anteriores que cualquier desgracia que nos sobrevenga {nota al pie pág. 170}. Todo buen pensamiento y acción contribuye a la evolución de la naturaleza búdica en cada uno de nosotros. Otro proverbio \[n.° 10\], —En naki shujô wa doshi gatashi_, ilustra aún más el significado de este.\] <span id="p170"><sup><small>[ p. 170 ]</small></sup></span>. —Enkô ga tsuki wo toran to suru ga gotoshi_.
 
 Como monos intentando capturar el reflejo de la luna en el agua.\[1\]
 
@@ -110,13 +110,13 @@ La vida futura es lo más importante.\[3\]
 
 Como un montón de ciegos palpando un gran elefante.\[4\]
 
-\[1. Literalmente: “Incluso los gaki son una multitud (o 'población')”. Este es un dicho popular que se usa de diversas maneras. El significado común es que, por muy pobres o miserables que sean los individuos que componen una multitud, colectivamente representan una fuerza respetable. Jocosamente, el dicho se usa a veces para referirse a una multitud de personas desdichadas o con aspecto cansado, a veces a un grupo de jóvenes débiles que desean hacer una demostración, a veces a una compañía de soldados de aspecto miserable. Entre las clases más bajas del pueblo no es raro llamar "gaki" a una persona deforme o codiciosa.
+\[1. Literalmente: «Incluso los gaki son una multitud (o 'población')». Este es un dicho popular que se usa de diversas maneras. El significado común es que, por muy pobres o miserables que sean los individuos que componen una multitud, colectivamente representan una fuerza respetable. Jocosamente, el dicho se usa a veces para referirse a una multitud de personas desdichadas o con aspecto cansado, a veces a un grupo de jóvenes débiles que desean hacer una demostración, a veces a una compañía de soldados de aspecto miserable. Entre las clases más bajas del pueblo no es raro llamar "gaki" a una persona deforme o codiciosa.
 
 2 Algunas autoridades afirman que aquellos _prêtas_ que sufren especialmente de sed, como consecuencia de faltas cometidas en vidas anteriores, son incapaces de ver el agua. Este proverbio se usa para referirse a personas demasiado estúpidas o viciosas para percibir una verdad moral.
 
 3\. La gente común suele usar la curiosa expresión «gosho-daiji» como equivalente a «extremadamente importante».
 
-4\. Se dice de quienes critican ignorantemente las doctrinas del budismo (nota al pie pág. 172). El proverbio alude a una célebre fábula de los Avadânas, sobre varios ciegos que intentaron determinar la forma de un elefante palpando al animal. Uno, palpando la pata, declaró que el elefante era como un árbol; otro, palpando solo la trompa, declaró que el elefante era como una serpiente; un tercero, que solo palpó el costado, dijo que el elefante era como una pared; un cuarto, agarrándose la cola, dijo que el elefante era como una cuerda, etc.\] <span id="p172">[<sup><small>pág. 172</small></sup>]</span>6.—_Gwai-men nyo-Bosatsu; nai shin nyo-Yasha._
+4\. Se dice de quienes critican ignorantemente las doctrinas del budismo (nota al pie pág. 172). El proverbio alude a una célebre fábula de los Avadânas, sobre varios ciegos que intentaron determinar la forma de un elefante palpando al animal. Uno, palpando la pata, declaró que el elefante era como un árbol; otro, palpando solo la trompa, declaró que el elefante era como una serpiente; un tercero, que solo palpó el costado, dijo que el elefante era como una pared; un cuarto, agarrándose la cola, dijo que el elefante era como una cuerda, etc.\] <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>6.—_Gwai-men nyo-Bosatsu; nai shin nyo-Yasha._
 
 En el aspecto exterior un Bodhisattva; en lo más profundo de su corazón un demonio.\[1\]
 
@@ -160,13 +160,13 @@ Rezando a Buda uno va al infierno.\[3\]
 
 Hacer un Buda sin ponerle el alma.\[4\]
 
-1. Aunque las pasiones puedan ser superadas temporalmente, sus causas persisten. Un proverbio de significado similar es _Bonnô no inu oëdomo sarazu_: “Aunque se aleje, el Perro de la Lujuria no puede evitar que regrese”.
+1. Aunque las pasiones puedan ser superadas temporalmente, sus causas persisten. Un proverbio de significado similar es _Bonnô no inu oëdomo sarazu_: «Aunque se aleje, el Perro de la Lujuria no puede evitar que regrese».
 
-2\. Esta es una versión corta y popular del proverbio más largo, _Hotoké no kao mo sando nazuréba, hara wo tatsu_: “Acaricia incluso la cara de un Buda tres veces, y su ira se despertará”.
+2\. Esta es una versión corta y popular del proverbio más largo, _Hotoké no kao mo sando nazuréba, hara wo tatsu_: «Acaricia incluso la cara de un Buda tres veces, y su ira se despertará».
 
-3\. El dicho popular, _Oni no Nembutsu_, “—la oración de un diablo”, tiene un significado similar.
+3\. El dicho popular, _Oni no Nembutsu_, «—la oración de un diablo», tiene un significado similar.
 
-4\. Es decir, hacer una imagen del Buda sin dotarla de alma. Este proverbio se usa en referencia a la {nota a pie de página pág. 174} conducta de quienes se comprometen a realizar algún trabajo y dejan la parte más esencial sin terminar. Contiene una alusión a la curiosa ceremonia llamada _Kai-gen_, o "Apertura de los Ojos". Este _Kai-gen_ es una especie de consagración, en virtud de la cual se supone que una imagen recién hecha se anima con la presencia real de la divinidad representada.\] <span id="p174">[<sup><small>pág. 174</small></sup>]</span>6.—_Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
+4\. Es decir, hacer una imagen del Buda sin dotarla de alma. Este proverbio se usa en referencia a la {nota a pie de página pág. 174} conducta de quienes se comprometen a realizar algún trabajo y dejan la parte más esencial sin terminar. Contiene una alusión a la curiosa ceremonia llamada _Kai-gen_, o "Apertura de los Ojos". Este _Kai-gen_ es una especie de consagración, en virtud de la cual se supone que una imagen recién hecha se anima con la presencia real de la divinidad representada.\] <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>6.—_Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
 
 Incluso \[la experiencia de\] una sola sombra o un solo fluir de agua, está \[hecha por\] las relaciones kármicas de una vida anterior.\[1\]
 
@@ -182,7 +182,7 @@ Un niño del karma.\[3\]
 
 2\. De la obra budista Dai-chi-dô-ron. El lector encontrará un proverbio similar en los Suttas budistas de Rhys-David (Libros sagrados de Oriente), pág. 173, junto con una parábola muy curiosa, citada en una nota a pie de página, que un comentarista indio explica.
 
-3\. Un dicho común entre las clases bajas para referirse a un niño desafortunado o lisiado. Aquí, la palabra _ingwa_ se usa especialmente en sentido retributivo. Suele significar karma negativo; _kwabô_ es el término usado para hablar del karma meritorio {nota al pie pág. 175} y sus consecuencias. Mientras que a un niño desafortunado se le llama "hijo de _ingwa_", a una persona muy afortunada se le llama "kwabô-mono_", es decir, un ejemplo de _kwabô_.\] <span id="p175">[<sup><small>pág. 175</small></sup>]</span>9.—_Ingwa wa, kuruma no wa_._
+3\. Un dicho común entre las clases bajas para referirse a un niño desafortunado o lisiado. Aquí, la palabra _ingwa_ se usa especialmente en sentido retributivo. Suele significar karma negativo; _kwabô_ es el término usado para hablar del karma meritorio {nota al pie pág. 175} y sus consecuencias. Mientras que a un niño desafortunado se le llama "hijo de _ingwa_", a una persona muy afortunada se le llama "kwabô-mono_", es decir, un ejemplo de _kwabô_.\] <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>9.—_Ingwa wa, kuruma no wa_._
 
 La causa y el efecto son como una rueda.\[1\]
 
@@ -204,7 +204,7 @@ Incluso un gusano de una pulgada de largo tiene un alma de media pulgada de larg
 
 3\. O, «como la llama de una lámpara expuesta al viento». Una expresión frecuente en la literatura budista es «el Viento de la Muerte».
 
-4\. Literalmente, “tiene un alma de cinco bu”, siendo cinco _bu_ equivalentes a la mitad de la pulgada japonesa. El budismo prohíbe toda toma {nota a pie de página pág. 176} de vida y clasifica como _seres vivos_ (_Ujô_) todas las formas con sensibilidad. Sin embargo, el proverbio —como implica el uso de la palabra “alma” (_tamashii_)— refleja la creencia popular más que la filosofía budista. Significa que cualquier vida, por pequeña o insignificante que sea, merece misericordia.\] <span id="p176">[<sup><small>pág. 176</small></sup>]</span>3.—_Iwashi_\[1\] _no atama mo shinjin kara._
+4\. Literalmente, «tiene un alma de cinco bu», siendo cinco _bu_ equivalentes a la mitad de la pulgada japonesa. El budismo prohíbe toda toma {nota a pie de página pág. 176} de vida y clasifica como _seres vivos_ (_Ujô_) todas las formas con sensibilidad. Sin embargo, el proverbio —como implica el uso de la palabra «alma» (_tamashii_)— refleja la creencia popular más que la filosofía budista. Significa que cualquier vida, por pequeña o insignificante que sea, merece misericordia.\] <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>3.—_Iwashi_\[1\] _no atama mo shinjin kara._
 
 Incluso la cabeza de un _iwashi_, en virtud de la fe, \[tendrá poder para salvar o sanar\].
 
@@ -246,13 +246,13 @@ El dinero brilla incluso más que Amida.\[4\]
 
 3\. Refiriéndose a la doctrina de causa y efecto. Compárese con el verso 2 del Dhammapada.
 
-4\. Amitâbha, el Buda de la Luz Inconmensurable. Su imagen en los templos suele estar dorada de pies a cabeza. Existen muchos otros proverbios irónicos sobre el poder de la riqueza, como _Jigoku no sata mo kané shidai_: “Incluso los Juicios del Infierno pueden verse influenciados por el dinero”.
+4\. Amitâbha, el Buda de la Luz Inconmensurable. Su imagen en los templos suele estar dorada de pies a cabeza. Existen muchos otros proverbios irónicos sobre el poder de la riqueza, como _Jigoku no sata mo kané shidai_: «Incluso los Juicios del Infierno pueden verse influenciados por el dinero».
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 ![Jizô](/image/book/Shintoism/En_el_Japón_Fantasmal/17800.jpg)
 
-<span id="p179">[<sup><small>pág. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 ![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>1.—_Karu-toki no Jizô-gao; Nasu-toki no Emma-gao._
 
@@ -278,7 +278,7 @@ El cuerpo sólo es torturado por el demonio del corazón.\[3\]
 
 2\. Los rumores nunca son confiables.
 
-3\. O “mente”. Es decir, solo sufrimos las consecuencias de nuestras propias faltas. —El demonio torturador en el infierno budista le dice a su víctima: —¡No me culpes! —Solo soy la creación de tus propias acciones y pensamientos: ¡me creaste para esto! —Compárese con el n.° 36.\] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
+3\. O «mente». Es decir, solo sufrimos las consecuencias de nuestras propias faltas. —El demonio torturador en el infierno budista le dice a su víctima: —¡No me culpes! —Solo soy la creación de tus propias acciones y pensamientos: ¡me creaste para esto! —Compárese con el n.° 36.\] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
 
 Sé el maestro de tu corazón: no permitas que tu corazón se convierta en tu maestro.
 
@@ -312,7 +312,7 @@ Un niño es un grillete para los Tres Estados de Existencia.\[2\]
 
 La boca es la puerta principal de toda desgracia.\[3\]
 
-\[1. Este verso-proverbio se cita en la obra budista _Wôjô Yôshû_, con el siguiente comentario:—“¿Quién sabe si el animal en el campo, o el pájaro en el bosque de la montaña, no ha sido su padre o su madre en algún estado anterior de existencia?”—El _hototogisu_ es una especie de cuco.
+\[1. Este verso-proverbio se cita en la obra budista _Wôjô Yôshû_, con el siguiente comentario:—«¿Quién sabe si el animal en el campo, o el pájaro en el bosque de la montaña, no ha sido su padre o su madre en algún estado anterior de existencia?»—El _hototogisu_ es una especie de cuco.
 
 2\. Es decir, el amor de los padres por sus hijos puede obstaculizar su progreso espiritual, no solo en este mundo, sino en todos sus estados futuros de existencia, al igual que un _kubikasé_, o cangue japonés, impide los movimientos de la persona sobre la que recae. El afecto paternal, siendo el más fuerte de los apegos terrenales, es particularmente propenso a inducir a quienes lo esclavizan a cometer actos ilícitos con la esperanza de beneficiar a su descendencia. El término _Sangai_ aquí significa los tres mundos del Deseo, la Forma y la Sin Forma, todos los estados de existencia inferiores al Nirvana. Pero la palabra a veces se usa para significar el Pasado, el Presente y el Futuro.
 
@@ -342,7 +342,7 @@ El ciego no teme a la serpiente.\[5\]
 
 3\. Kanrô, el dulce rocío del Cielo, o _amrita_. Todo lo bueno llega a quien espera.
 
-4 Literalmente, “en el camino de Meidô”. El _Meidô_ es el Hades japonés, el oscuro inframundo al que deben viajar todos los muertos.
+4 Literalmente, «en el camino de Meidô». El _Meidô_ es el Hades japonés, el oscuro inframundo al que deben viajar todos los muertos.
 
 5 Los ignorantes y los viciosos, al no comprender la ley de causa y efecto, no temen los resultados seguros de su necedad.\] <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>7.—_Mitsuréba, kakuru._
 
@@ -358,7 +358,7 @@ El Viento de la Impermanencia no elige un tiempo.\[3\]
 
 \[1. Apenas la luna crece, comienza a menguar. Así que el auge de la prosperidad es también el comienzo del declive de la fortuna.
 
-2\. _Kozô_ significa “acólito”, así como “chico de tienda”, “recado” o “aprendiz”; pero en este caso se refiere a un niño empleado en una tienda situada cerca o delante de la puerta de un templo budista. Al escuchar constantemente el sutra cantado en el templo, el niño aprende a repetir las palabras. Un proverbio de significado similar es _Kangaku-In no suzumé wa, Môgyû wo sayézuru_: “Los gorriones de Kangaku-In [una antigua sede del aprendizaje] cantan el Môgyû”, un texto chino que antiguamente se enseñaba a los jóvenes estudiantes. La enseñanza de ambos proverbios se expresa excelentemente en un tercero: _Narau yori wa naréro_: “En lugar de estudiar [un arte], acostúmbrate a él”, es decir, “mantente constantemente en contacto con él”. La observación y la práctica son incluso mejores que el estudio.
+2\. _Kozô_ significa «acólito», así como «chico de tienda», «recado» o «aprendiz»; pero en este caso se refiere a un niño empleado en una tienda situada cerca o delante de la puerta de un templo budista. Al escuchar constantemente el sutra cantado en el templo, el niño aprende a repetir las palabras. Un proverbio de significado similar es _Kangaku-In no suzumé wa, Môgyû wo sayézuru_: «Los gorriones de Kangaku-In [una antigua sede del aprendizaje] cantan el Môgyû», un texto chino que antiguamente se enseñaba a los jóvenes estudiantes. La enseñanza de ambos proverbios se expresa excelentemente en un tercero: _Narau yori wa naréro_: «En lugar de estudiar [un arte], acostúmbrate a él», es decir, «mantente constantemente en contacto con él». La observación y la práctica son incluso mejores que el estudio.
 
 3\. La muerte y el cambio no se ajustan a las expectativas humanas.\] <span id="p185"><sup><small>[ p. 185 ]</small></sup></span>0.—_Neko mo Busshô ari._
 
@@ -386,7 +386,7 @@ No es fácil nacer entre los hombres y tener la \[_buena fortuna de escuchar la 
 
 3\. La enseñanza de la doctrina budista debe adaptarse siempre a la inteligencia de la persona a la que se instruye. Existe otro proverbio similar: Ki ni yorité, hô wo toké: «Según el entendimiento de la persona a la que se instruye, predica la Ley».
 
-4 El budismo popular enseña que nacer en el mundo de la humanidad (nota a pie de página, pág. 186), y especialmente entre un pueblo que profesa el budismo, es un gran privilegio. Por miserable que sea la existencia humana, es al menos un estado en el que se puede obtener cierto conocimiento de la verdad divina; mientras que los seres en otras condiciones de vida inferiores son relativamente incapaces de progresar espiritualmente.\] <span id="p186">[<sup><small>pág. 186</small></sup>]</span>5.—_Oni mo jiu-hachi._
+4 El budismo popular enseña que nacer en el mundo de la humanidad (nota a pie de página, pág. 186), y especialmente entre un pueblo que profesa el budismo, es un gran privilegio. Por miserable que sea la existencia humana, es al menos un estado en el que se puede obtener cierto conocimiento de la verdad divina; mientras que los seres en otras condiciones de vida inferiores son relativamente incapaces de progresar espiritualmente.\] <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>5.—_Oni mo jiu-hachi._
 
 Incluso un diablo es bonito a los dieciocho años.\[1\]
 
@@ -398,7 +398,7 @@ Incluso un demonio, cuando te acostumbras a verlo, puede resultar un conocido ag
 
 Un garrote de hierro para un demonio.\[2\]
 
-1. Existen muchos dichos y proverbios curiosos sobre el oni, o diablo budista, como _Oni no mé ni mo namida_, “lágrimas incluso en los ojos del diablo”; _Oni no kakuran_, “cólera del diablo” (dicho de la enfermedad inesperada de alguna persona muy fuerte y sana), etc. La clase de demonios llamados Oni, pertenece propiamente a los infiernos budistas, donde actúan como torturadores y carceleros. No deben confundirse con _Ma, Yasha, Kijin_ y otras clases de espíritus malignos. En el arte budista se los representa como seres de enorme fuerza, con cabezas de toro y de caballo. Los demonios con cabeza de toro se llaman _Go-zu_; los con cabeza de caballo, _Mé-zu_.
+1. Existen muchos dichos y proverbios curiosos sobre el oni, o diablo budista, como _Oni no mé ni mo namida_, «lágrimas incluso en los ojos del diablo»; _Oni no kakuran_, «cólera del diablo» (dicho de la enfermedad inesperada de alguna persona muy fuerte y sana), etc. La clase de demonios llamados Oni, pertenece propiamente a los infiernos budistas, donde actúan como torturadores y carceleros. No deben confundirse con _Ma, Yasha, Kijin_ y otras clases de espíritus malignos. En el arte budista se los representa como seres de enorme fuerza, con cabezas de toro y de caballo. Los demonios con cabeza de toro se llaman _Go-zu_; los con cabeza de caballo, _Mé-zu_.
 
 2\. Significa que el gran poder solo debe otorgarse a los fuertes.\] <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>8.—_Oni no nyôbo ni hijin._
 
@@ -424,7 +424,7 @@ La flor caída nunca regresa a la rama.\[3\]
 
 2\. Se dice de los padres de niños lisiados o deformes. Pero la idea popular aquí expresada no concuerda del todo con las enseñanzas del budismo superior.
 
-3\. Lo hecho nunca se puede deshacer: el pasado no se puede recuperar.—Este proverbio es una abreviatura del texto budista más extenso: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu_: “La flor caída nunca regresa a la rama; el espejo roto nunca vuelve a reflejarse”\] <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>3.—_Raku wa ku no tané; ku wa raku no tané_.
+3\. Lo hecho nunca se puede deshacer: el pasado no se puede recuperar.—Este proverbio es una abreviatura del texto budista más extenso: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu_: «La flor caída nunca regresa a la rama; el espejo roto nunca vuelve a reflejarse»\] <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>3.—_Raku wa ku no tané; ku wa raku no tané_.
 
 El placer es la semilla del dolor; el dolor es la semilla del placer.
 
@@ -462,7 +462,7 @@ Predicando a Sâkyamuni.
 
 Para llegar a ser abad hay que empezar como novicio.
 
-\[1. _Kugai_ (lit.: “mundo amargo”) es un término que se utiliza a menudo para describir la vida de una prostituta.
+\[1. _Kugai_ (lit.: «mundo amargo») es un término que se utiliza a menudo para describir la vida de una prostituta.
 
 2. Monjû Bosatsu [Bodhisattva Mañdjus'ri] figura en el budismo japonés como una divinidad especial de sabiduría. El proverbio significa que tres cabezas piensan mejor que una. Un dicho con significado similar es Hiza to mo dankô: «Consulta incluso con tu propia rodilla»; es decir, no desprecies ningún consejo, por humilde que sea su origen. <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>2.—Shindaréba, koso ikitaré.
 
@@ -480,7 +480,7 @@ No hay milagro en la verdadera doctrina.\[2\]
 
 Un poco de sabiduría es un obstáculo en el camino hacia la Budeidad.\[3\]
 
-1. Nunca oigo este singular proverbio sin recordar una frase del famoso ensayo de Huxley, _Sobre las bases físicas de la vida_: “El protoplasma vivo no solo muere finalmente y se disuelve en sus constituyentes minerales e inertes, sino que siempre está muriendo y, por extraña que suene la paradoja, _no podría vivir a menos que muriera_”.
+1. Nunca oigo este singular proverbio sin recordar una frase del famoso ensayo de Huxley, _Sobre las bases físicas de la vida_: «El protoplasma vivo no solo muere finalmente y se disuelve en sus constituyentes minerales e inertes, sino que siempre está muriendo y, por extraña que suene la paradoja, _no podría vivir a menos que muriera_».
 
 2\. Nada puede suceder sino como resultado de una ley eterna e irrevocable.
 
@@ -508,7 +508,7 @@ Así los insectos del verano vuelan hacia la llama.\[3\]
 
 El Buda de arcilla jugando con el agua.\[4\]
 
-\[1. O, “el Mar del Dolor de la Vida y la Muerte”.
+\[1. O, «el Mar del Dolor de la Vida y la Muerte».
 
 2\. _Ma_ (sánscrito, _Mârakâyikas_) es el nombre que se da a una clase particular de espíritus que tientan a los hombres al mal. Sin embargo, en el folclore japonés, los _Ma_ desempeñan un papel muy similar al que desempeñan los duendes y las hadas en la superstición popular occidental.
 
@@ -542,7 +542,7 @@ Mis antepasados ​​familiares fueron todos excelentes Budas.\[3\]
 
 2\. Es decir, un ardid piadoso para efectuar la conversión. Tal ardid está justificado especialmente por la famosa parábola del tercer capítulo del _Saddharma Pundarîka_.
 
-8 Significa que uno venera sobre todo a los _hotoké_ —los espíritus de los muertos considerados budas— en su santuario doméstico. Existe un juego irónico con la palabra _hotoké_, que puede significar simplemente una persona muerta o un buda. Quizás la esencia de este proverbio se pueda explicar mejor con la ayuda de otro: _Nigéta sakana ni_ {nota al pie pág. 193} _chisai wa nai; shinda kodomo ni warui ko wa nai_ —“El pez que escapó nunca fue pequeño; el niño que murió nunca fue malo.”] <span id="p193">[<sup><small>pág. 193</small></sup>]</span>8.—_Yuki no haté wa, Neban._
+8 Significa que uno venera sobre todo a los _hotoké_ —los espíritus de los muertos considerados budas— en su santuario doméstico. Existe un juego irónico con la palabra _hotoké_, que puede significar simplemente una persona muerta o un buda. Quizás la esencia de este proverbio se pueda explicar mejor con la ayuda de otro: _Nigéta sakana ni_ {nota al pie pág. 193} _chisai wa nai; shinda kodomo ni warui ko wa nai_ —«El pez que escapó nunca fue pequeño; el niño que murió nunca fue malo.»] <span id="p193"><sup><small>[ p. 193 ]</small></sup></span>8.—_Yuki no haté wa, Neban._
 
 El fin de la nieve es el Nirvana.\[1\]
 

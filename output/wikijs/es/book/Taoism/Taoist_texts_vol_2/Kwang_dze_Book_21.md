@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 LIBRO XXI.
 
@@ -52,7 +52,7 @@ Kung-nî vio al hombre, pero no le dirigió la palabra. Dze-lû dijo: «Señor, 
 
 Kung-nî dijo: «Pero debes intentar investigar el asunto. De todas las causas de dolor, ninguna es tan grande como la muerte de la mente; la muerte del cuerpo humano es la siguiente. El sol sale por el este y se pone por el extremo oeste; todas las cosas tienen su posición determinada por estos dos puntos. Todos los que tienen ojos y pies esperan a este sol y luego proceden a hacer lo que tienen que hacer. Cuando este sale, aparecen en sus lugares; cuando se pone, desaparecen. Es así con todas las cosas. Tienen lo que esperan y, a su llegada, mueren; tienen lo que esperan y, de nuevo, viven. Una vez que recibo mi forma así completa, permanezco inmutable, esperando la consumación de mi curso».
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Me muevo como impulsado por las cosas, día y noche sin cesar, y no sé cuándo llegaré a mi fin. Claramente, aquí soy una estructura completa, e incluso quien (cree que) sabe lo que está designado no puede determinarlo de antemano. De esta manera, sigo adelante a diario, pero todo el día te comunico mis puntos de vista; y ahora, estando hombro con hombro, no logras (comprenderme); ¿no es motivo de lamentación? Eres capaz, en cierta medida, de exponer lo que yo expongo con mayor claridad; pero eso ya pasó, y lo buscas, como si aún existiera, como si buscaras un caballo en el lugar ahora vacío donde antes se exhibía para la venta. Has olvidado por completo mi servicio hacia ti, y yo he olvidado por completo cómo te serví. Pero, sin embargo, ¿por qué consideras esto tan malo? Lo que olvidas no es más que mi antiguo yo; lo que no se puede olvidar permanece conmigo.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-18T17:53:4Z
 
 ## CAPÍTULO 21
 
-Y aconteció que cuando Jesús terminó de decir estas palabras, María continuó de nuevo y dijo: “Señor mío, ¿acaso los horóscopos y los consultores no declararán de ahora en adelante a los hombres lo que les sucederá?”
+Y aconteció que cuando Jesús terminó de decir estas palabras, María continuó de nuevo y dijo: «Señor mío, ¿acaso los horóscopos y los consultores no declararán de ahora en adelante a los hombres lo que les sucederá?»
 
 Y Jesús respondió y le dijo a María: «Si los horóscopos encuentran el Destino y la esfera girada hacia la izquierda, según su primera extensión, sus palabras se cumplirán y dirán lo que ha de suceder. Pero si encuentran el Destino o la esfera girada hacia la derecha, están obligados a no decir nada verdadero, pues he cambiado sus influencias, sus cuadrados, sus triángulos y sus octógonos; ya que sus influencias desde el principio giraban continuamente hacia la izquierda, sus cuadrados, sus triángulos y sus octógonos. Pero ahora los he hecho pasar seis meses girados hacia la izquierda y seis meses hacia la derecha. Quien entonces encuentre su <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> cálculo desde el momento en que los cambié, estableciéndolos para que pasaran seis meses mirando hacia su izquierda y seis meses mirando hacia su derecha, quien entonces los observe de esta manera, **(31)** conocerá su Influye con seguridad y declarará todo lo que harán. De igual manera, si los consultantes invocan los nombres de los gobernantes y los encuentran mirando hacia la izquierda, les dirán con exactitud todo lo que pregunten a sus decanos. Por el contrario, si los consultantes invocan sus nombres cuando miran hacia la derecha, no les prestarán atención, porque están mirando en una forma diferente a la que Yew les había dado; ya que sus nombres son diferentes cuando miran hacia la izquierda y otros cuando miran hacia la derecha. Y si los invocan cuando miran hacia la derecha, no les dirán la verdad, sino que los confundirán y los amenazarán con amenazas. Español Aquellos, pues, que no conocen su camino, cuando están girados hacia la derecha, y sus triángulos y sus cuadrados y todas sus figuras, no encontrarán nada verdadero, sino que estarán confundidos en una gran confusión y se hallarán en un gran engaño, porque ahora he cambiado las obras que efectuaban antes en sus cuadrados, cuando estaban girados hacia la izquierda, y en sus triángulos y en sus octógonos, en los que estaban ocupados continuamente girados hacia la izquierda; y les he hecho pasar seis meses formando todas sus configuraciones giradas hacia la derecha, para que estén confundidos en toda su gama. **(32)** Y además <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> Les he hecho pasar seis meses girados hacia la izquierda y realizando las obras de sus influencias y todas sus configuraciones, para que los gobernantes que están en los eones y en sus esferas y en sus cielos y en todas sus regiones, queden confundidos en la confusión y engañados en el engaño, para que no entiendan sus propios caminos.
 
@@ -42,9 +42,9 @@ Y Jesús respondió y le dijo a María: «Si los horóscopos encuentran el Desti
 
 <small>Felipe interroga a Jesús.</small>
 
-Aconteció entonces que cuando Jesús hubo terminado de decir estas palabras, mientras Felipe estaba sentado y escribía todas las palabras que Jesús habló, después sucedió que Felipe se adelantó, se postró y adoró los pies de Jesús, diciendo: “Señor y Salvador mío, concédeme autoridad para discursar ante ti y para interrogarte sobre esta palabra, antes de que nos hables acerca de las regiones adonde fuiste a causa de tu ministerio”.
+Aconteció entonces que cuando Jesús hubo terminado de decir estas palabras, mientras Felipe estaba sentado y escribía todas las palabras que Jesús habló, después sucedió que Felipe se adelantó, se postró y adoró los pies de Jesús, diciendo: «Señor y Salvador mío, concédeme autoridad para discursar ante ti y para interrogarte sobre esta palabra, antes de que nos hables acerca de las regiones adonde fuiste a causa de tu ministerio».
 
-Y el compasivo Salvador respondió y dijo a Felipe: “Se te da autoridad para presentar la palabra que quieras”.
+Y el compasivo Salvador respondió y dijo a Felipe: «Se te da autoridad para presentar la palabra que quieras».
 
 Felipe respondió y dijo a Jesús: «Señor mío, ¿por qué misterio has alterado el vínculo de los gobernantes, sus eones, su Destino, su esfera y todas sus regiones, y los has confundido en su camino y engañado en su curso? ¿Les has hecho esto para la salvación del mundo o no?»
 
@@ -58,11 +58,11 @@ Y Jesús respondió y dijo a Felipe y a todos los discípulos a la vez: «He **(
 
 <small>María lo interroga de nuevo.</small>
 
-Español Aconteció entonces, cuando Jesús terminó de decir estas palabras a sus discípulos, que María, la bella en su discurso y la bendita, se adelantó, cayó a los pies de Jesús y dijo: “Señor mío, permíteme que hable delante de ti, y **(34)** no te enojes conmigo, si a menudo te doy problemas al preguntarte”.
+Español Aconteció entonces, cuando Jesús terminó de decir estas palabras a sus discípulos, que María, la bella en su discurso y la bendita, se adelantó, cayó a los pies de Jesús y dijo: «Señor mío, permíteme que hable delante de ti, y **(34)** no te enojes conmigo, si a menudo te doy problemas al preguntarte».
 
-El Salvador, lleno de compasión, respondió y dijo a María: “Di la palabra que quieras, y yo te la revelaré con toda claridad”.
+El Salvador, lleno de compasión, respondió y dijo a María: «Di la palabra que quieras, y yo te la revelaré con toda claridad».
 
-María respondió y dijo a Jesús: “Señor mío, ¿de qué manera se habrán demorado aquí afuera las almas y de qué manera serán purificadas rápidamente?”
+María respondió y dijo a Jesús: «Señor mío, ¿de qué manera se habrán demorado aquí afuera las almas y de qué manera serán purificadas rápidamente?»
 
 ## CAPÍTULO 25
 
@@ -106,7 +106,7 @@ Aconteció entonces que cuando Jesús terminó de decir estas palabras a sus dis
 
 ## CAPÍTULO 28
 
-<span id="p32">[<sup><small>pág. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 <small>Los poderes adoran la vestidura de luz.</small>
 
@@ -124,13 +124,13 @@ Jesús entra en el decimotercer Aeón y encuentra a Pistis Sophia. Sucedió ento
 
 Sofía y sus poderes congéneres contemplan la luz. Sucedió entonces que, cuando Pistis Sofía me vio brillar con intensidad y sin medida para la luz que me rodeaba, se sintió muy agitada y contempló la luz de mi vestidura. Vio el misterio de su nombre en mi vestidura y toda la gloria de su misterio, pues anteriormente se encontraba en la región de la altura, en el decimotercer eón, pero solía cantar alabanzas a la luz superior, que había visto en el velo del Tesoro de la Luz.
 
-“Sucedió entonces, cuando ella persistió en cantar alabanzas a la luz superior, que todos los gobernantes que están con los dos grandes poderes triples, y su invisible que está emparejada con ella, y las otras veintidós emanaciones invisibles miraron fijamente [a la luz], —en cuanto Pistis Sophia y su pareja, ellos y las otras veintidós emanaciones conforman veinticuatro emanaciones, que el gran Antepasado invisible y los dos grandes poderes triples han emanado.”
+«Sucedió entonces, cuando ella persistió en cantar alabanzas a la luz superior, que todos los gobernantes que están con los dos grandes poderes triples, y su invisible que está emparejada con ella, y las otras veintidós emanaciones invisibles miraron fijamente [a la luz], —en cuanto Pistis Sophia y su pareja, ellos y las otras veintidós emanaciones conforman veinticuatro emanaciones, que el gran Antepasado invisible y los dos grandes poderes triples han emanado.»
 
 ## CAPÍTULO 30
 
 <small>María desea escuchar la historia de Sofía.</small>
 
-Sucedió entonces que, cuando Jesús dijo esto a sus discípulos, María se adelantó y dijo: «Señor mío, te oí decir antes: “Pistis Sophia es en sí misma una de las veinticuatro emanaciones, ¿cómo es que no está en su región?” (44) Pero has dicho: “La encontré por debajo del decimotercer eón”».
+Sucedió entonces que, cuando Jesús dijo esto a sus discípulos, María se adelantó y dijo: «Señor mío, te oí decir antes: «Pistis Sophia es en sí misma una de las veinticuatro emanaciones, ¿cómo es que no está en su región?» (44) Pero has dicho: «La encontré por debajo del decimotercer eón»».
 
 ### \[LA HISTORIA DE PISTIS SOPHIA\]
 

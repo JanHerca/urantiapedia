@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:52:26Z
 
 Los asuntos registrados en este Libro están todos relacionados, de forma más o menos cercana, con Lo, la nueva capital, cuyos preparativos para la construcción se relatan al comienzo del Libro anterior. Según el resumen del contenido dado por el comentarista Ȝhâi <i>Kh</i>ăn, «Habiendo tomado las disposiciones para la construcción, el duque de <i>K</i>âu</i> envió un mensajero para informar al rey del resultado de sus adivinaciones. El historiador registró esto como el Anuncio sobre Lo, y al mismo tiempo relató un diálogo entre el rey y su ministro, y cómo el rey encargó al duque que permaneciera en Lo y dirigiera el gobierno de la ciudad». Pasando por alto el párrafo inicial, que he repetido aquí del noveno Libro, Ȝhâi divide el resto en siete capítulos. El cap. 1 contiene el mensaje del duque sobre sus adivinaciones; y el siguiente da la respuesta del rey. El capítulo 3 se ocupa de las instrucciones al rey sobre las medidas que debía tomar al establecerse en Lo. En el capítulo 4, el rey encomienda al duque que permanezca en Lo y se encargue de su gobierno. En el capítulo 5, el duque responde y acepta el encargo, deteniéndose en los deberes que tanto el rey como él mismo tendrían que desempeñar. El capítulo 6 relata la acción del duque en relación con un mensaje y un obsequio del rey destinados a su especial honor. En el capítulo 7, el historiador escribe sobre los sacrificios ofrecidos por el rey en Lo y una proclama que emitió, y relata cuánto tiempo el duque continuó en su gobierno; muestra cómo el duque comenzó la ciudad y la completó, y cómo el rey Khăng, tras ofrecer los sacrificios e inaugurar el gobierno, regresó a Hâo, y, después de todo, no estableció su capital en Lo.
 
-<span id="p189">[<sup><small>pág. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Muchos críticos insisten mucho en la falta de orden histórico en el Libro, y suponen que se han perdido partes y que otras han sido transpuestas; pero el Libro puede explicarse sin recurrir a una suposición tan violenta.
 
@@ -56,7 +56,7 @@ Pero tu virtud, oh duque, brilla con fuerza por todas partes, y se manifiesta ac
 
 Dijo el rey: «Grande ha sido, oh duque, tu mérito al ayudarme y guiarme; que así siga siendo siempre».
 
-<span id="p193">[<sup><small>pág. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 El rey dijo: «Oh, duque, deja que yo, el pequeño, regrese a mi soberanía en Kâu, y te encargo, oh, duque, que te quedes aquí. Se ha establecido el orden en las cuatro partes del reino, pero las ceremonias que deben celebrarse (mediante la observancia general) aún no se han establecido, y no puedo dar por concluido tu servicio. Comienza a gran escala lo que se debe hacer permaneciendo aquí, dando ejemplo a mis oficiales y preservando en gran medida al pueblo que Wân y Wû recibieron; con tu buen gobierno serás una ayuda para todo el reino».
 
@@ -64,7 +64,7 @@ El rey dijo: «Quédate, oh duque. Yo iré sin duda. Tus servicios son devotamen
 
 5\. El duque de Kâu se inclinó con las manos en la cabeza y la cabeza en el suelo, diciendo: «Me has encomendado, oh rey, venir aquí. Asumo (el encargo) y protegeré al pueblo que tu eminente abuelo y tu glorioso y meritorio padre, el rey Wû, recibieron por decreto (del Cielo). Aumentaré la reverencia que te profeso. (Pero), hijo mío, ven (con frecuencia) e inspecciona este asentamiento. Rinde gran honor a los (antiguos) estatutos y a los hombres buenos y sabios de Yin. Un buen gobierno (aquí) te convertirá (sin duda) en el nuevo soberano del reino y en un ejemplo de respeto (real) para todos tus sucesores de Kâu».
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 (El duque) procedió a decir: 'A partir de este momento, por el gobierno administrado en este lugar central, todos los estados serán conducidos al reposo; y ésta será la culminación de tu mérito, oh rey.
 

@@ -88,7 +88,7 @@ Del gran Cielo viene la injusticia, y nuestro rey no tiene reposo. Sin embargo, 
 
 Yo, <i>K</i>iâ-fû, he compuesto este poema para revelar los desórdenes del rey. Si tan solo cambiaras de opinión, las innumerables regiones se nutrirían.
 
-<span id="p354">[<sup><small>pág. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -108,7 +108,7 @@ Mira el campo áspero y pedregoso; en él crece exuberante el grano que brota. P
 
 LAMENTACIÓN DE UN OFICIAL POR LOS PRODIGIOS CELESTIALES Y TERRESTRES, ESPECIALMENTE UN ECLIPSE DE SOL, QUE PREDICABAN LA RUINA DE KÂU. EXPONE LO QUE CONSIDERABA LAS VERDADERAS CAUSAS DE LA MISERIA REGRESANTE, QUE DE NINGUNA MANERA DE SER ATRIBUIDA AL CIELO.
 
-En la Introducción, [p. 296](Shih_King_Intro_4#p296), se llama la atención sobre la fecha del eclipse solar mencionado en esta pieza.
+En la Introducción, [p. 296](../Shih_King_Intro_4#p296), se llama la atención sobre la fecha del eclipse solar mencionado en esta pieza.
 
 En la conjunción (del sol y la luna) del décimo mes, el primer día de la luna, que era hsin-mâo, el sol se eclipsó, algo de muy mal agüero. Antes, la luna se hacía pequeña, y ahora el sol se ha hecho pequeño. De ahora en adelante, la gente de abajo estará en una situación muy deplorable.
 
@@ -122,7 +122,7 @@ Este Hwang-fû no reconoce que actúa fuera de lugar. Pero ¿por qué nos llama 
 
 Hwang-fû es muy sabio; construyó una gran ciudad para sí mismo en Hsiang. Eligió a tres hombres como ministros, todos ellos acaudalados. No pudo dejar a un solo ministro que pudiera proteger a nuestro rey. También seleccionó a quienes tenían carros y caballos para que fueran a residir en Hsiang [^421].
 
-<span id="p357">[<sup><small>pág. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Me he esforzado por cumplir con mi servicio, y no me atrevo a dar cuenta de mis esfuerzos. Sin delito ni ofensa de ningún tipo, las bocas calumniadoras me critican. Pero las calamidades de los pueblos inferiores no descienden del Cielo. Multitud de palabras (bonitas) y odio a escondidas; la persecución ferviente y enérgica de esto proviene de los hombres.
 
@@ -136,7 +136,7 @@ EL ESCRITOR DE ESTA OBRA LAMENTA EL ESTADO MISERABLE DEL REINO, EL CURSO INCORRI
 
 Cielo grande y extenso, ¿cómo es que has mermado tu bondad, enviando muerte y hambre, destruyendo todo el reino? Cielo compasivo, ataviado de terrores, ¿cómo es que no tienes previsión ni cuidado? Y mucho menos a los criminales: ellos han sufrido por su culpa. Pero quienes no tienen delito están indiscriminadamente envueltos en la ruina.
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 ¿Cómo es posible, oh gran Cielo, que el rey no escuche las palabras más justas? Es como un hombre que se extravía, sin saber adónde irá. Todos ustedes, oficiales, que cada uno cumpla con sus deberes. ¿Cómo es que no se respetan mutuamente? No respetan al Cielo.
 

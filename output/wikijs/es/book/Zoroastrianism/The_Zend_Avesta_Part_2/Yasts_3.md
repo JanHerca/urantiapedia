@@ -1,6 +1,6 @@
 ---
 title: "III. Ardibehist Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>pág. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 [^214]
 
@@ -50,7 +50,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 Me confieso adorador de Mazda, seguidor de Zaratustra, alguien que odia a los Daêvas y obedece las leyes de Ahura; para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el santo y maestro de la santidad [^220] . . . .
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 A Asha-Vahi<i>s</i>sta, la más bella; al muy deseado Airyaman, hecho por Mazda, y al buen Saoka, con ojos de amor, hecho por Mazda y santo [^221];
 
@@ -90,7 +90,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 14\. 'Él exclamó, hizo Angra Mainyu: "¡Ay de mí! Aquí está el dios Asha-Vahi<i>s</i>sta, que castigará a la más grave de todas las enfermedades, que afligirá a la más grave de todas las enfermedades;
 
-<span id="p46">[<sup><small>pág. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 "Él herirá con la más mortífera de todas las muertes, afligirá con la más mortífera de todas las muertes;
 
@@ -122,13 +122,13 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 16\. ' "Él herirá las palabras más mentirosas de la falsedad, afligirá las palabras más mentirosas de la falsedad;
 
-<span id="p47">[<sup><small>pág. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 "Él herirá al <i>G</i>ahi, adicto al Yâtu, afligirá al <i>G</i>ahi, adicto al Yâtu;
 
 "Él herirá al <i>G</i>ahi, que hace a uno languidecer, afligirá al <i>G</i>ahi, que hace a uno languidecer;
 
-“Herirá al viento que sopla del norte, afligirá al viento que sopla del norte.”
+«Herirá al viento que sopla del norte, afligirá al viento que sopla del norte.»
 
 17\. [^237]. «La Droga perecerá, la Droga perecerá; la Droga se precipitará, la Droga se desvanecerá. Perecerás en las regiones del Norte, para nunca más entregar a la muerte el mundo viviente del espíritu santo». [^238].
 
@@ -138,7 +138,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 19\. 'Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-<span id="p48">[<sup><small>pág. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 'Bendigo el sacrificio y la oración y la fuerza y ​​el vigor de Asha-Vahi<i>s</i>sta, la más bella; del muy deseado Airyaman, hecho por Mazda; y del buen Saoka, con ojos de amor, hecho por Mazda y santo [^246].
 
@@ -245,6 +245,6 @@ Sacrificamos al buen Saoka, con ojos de amor, hechos por Mazda y sagrados.
 
 [^259]: 48:1 Cf. Siroza I, 2.
 
-[^260]: 48:2 Como arriba, [p. 22](Yasts_1#p22).
+[^260]: 48:2 Como arriba, [p. 22](../Yasts_1#p22).
 
 [^261]: 48:3 ¿Quién ofrecerá un sacrificio a Asha-Vahi<i>s</i>ta?; cf. Yt. I, 33 y notas.

@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 ## Sobre ciertos puntos del Dieciocho.
 
-25\. Las dieciocho bendiciones que la mayoría ha ordenado corresponden a las dieciocho veces que se menciona al Señor en el Salmo que comienza con «Dad al Señor, hijos de los poderosos». [^269] Se combina la bendición sobre el Mínimo [^270] con la de los fariseos [1](Berakoth_3_6#fn_271), la de los prosélitos con la de los ancianos [2](Berakoth_3_6#fn_272) y la de David con la de Jerusalén [3](Berakoth_3_6#fn_273). Si los hombres han dicho cada una de estas por sí mismos, su obligación está cumplida. [^271]
+25\. Las dieciocho bendiciones que la mayoría ha ordenado corresponden a las dieciocho veces que se menciona al Señor en el Salmo que comienza con «Dad al Señor, hijos de los poderosos». [^269] Se combina la bendición sobre el Mínimo [^270] con la de los fariseos [1](../Berakoth_3_6#fn_271), la de los prosélitos con la de los ancianos [2](../Berakoth_3_6#fn_272) y la de David con la de Jerusalén [3](../Berakoth_3_6#fn_273). Si los hombres han dicho cada una de estas por sí mismos, su obligación está cumplida. [^271]
 
 
 <figure class="table chapter-navigator">
@@ -75,7 +75,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 [^268]: 41:6 _fluido_. Cf. _M_. IV. 3 (p. 31).
 
-[^269]: 42:1 _como tres oraciones_. En la casa, por parte de los visitantes después del funeral. SA, págs. 323 y siguientes. Cf. _supra_, [pág. 21](Berakoth_1_2#p21).
+[^269]: 42:1 _como tres oraciones_. En la casa, por parte de los visitantes después del funeral. SA, págs. 323 y siguientes. Cf. _supra_, [pág. 21](../Berakoth_1_2#p21).
 
 [^270]: 42:2 Sal. 29.
 

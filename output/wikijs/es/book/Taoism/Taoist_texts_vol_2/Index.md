@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p325">[<sup><small>pág. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 
 Â-ho Kan (antiguo taoísta), Parte ii, página 67.
@@ -128,7 +128,7 @@ Hsiâo-po (nombre del duque Hwan de Khi), ii,
 
 Hsieh Tâo-häng (ministro y erudito de la dinastía Sui), ii, 311, 312.
 
-<span id="p326">[<sup><small>pág. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Hsien-khih (Música de Hwang-Tî), i, 348; ii, 8, 218.
 
@@ -364,7 +364,7 @@ Kî Hsing-dze (un criador de gallos de pelea), ii, 20.
 
 Kî Kän (el maestro taoísta), ii, 129.
 
-<span id="p328">[<sup><small>pág. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Ki Kheh (oficial de Lu), i, 318.
 
@@ -484,7 +484,7 @@ Khieh Khâu (= polemista vehemente), i, 312.
 
 Khieh-yü (el loco de Khû), i, 170, 221,
 
-<span id="p329">[<sup><small>pág. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Khien-lung, el catálogo de, ii, 255, 256.
 
@@ -590,7 +590,7 @@ Liû An, iq Hwâl-nan Dze (el escritor), i, 5, 6, 7, 51, 86, 101, 102, 106, 107,
 
 Liû-hsiâ Kî (Hermano del ladrón Kih) ii, 166, 167, 175.
 
-<span id="p330">[<sup><small>pág. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Liû Hsiang (oficial y escritor Han), i, 97, 100, 107; ii, 132.
 
@@ -782,7 +782,7 @@ Shan Küan (digno, en favor del cual Shun deseaba dimitir), ii, 183.
 
 Shän-khiû (nombre de una altura), i, 260.
 
-<span id="p332">[<sup><small>pág. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Shän Ming (nombre de la perspicacia), i, 247.
 
@@ -906,7 +906,7 @@ Tâo, (el Tâo), passim; significado del nombre, i, 12, 15. El Gran Tâo, i, 61,
 
 Tao Kih (el ladrón Kih). Ver Kih.
 
-<span id="p333">[<sup><small>pág. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Tâo Khiû (¡Confucio!), ii, 172.
 
@@ -1134,7 +1134,7 @@ Wu-Yu (=Sr. No-existencia), ii, 70.
 
 Wu Yun (iq Wu Dze-hsü), ii, 131, 174.
 
-<span id="p335">[<sup><small>pág. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Wylie, Sr. A., i, 9, 39; ii, 257, 265, et al.
 
@@ -1232,7 +1232,7 @@ Yung-khäng Shih (un ministro de Hwang-Tî), ii, 118.
 
 Zäh-kung Shih (un maestro de la época de Confucio), i, 260.
 
-<span id="p336">[<sup><small>pág. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Zäh Kung King (el llamado Tratado), ii, 269-272.
 

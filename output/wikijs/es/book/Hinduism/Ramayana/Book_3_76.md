@@ -121,7 +121,7 @@ Llevaba una forma que trascendía el pensamiento,
 Y a través de la extensión del triple mundo
 Mi fama de poderío y valor se desvaneció.
 
-<span id="p313">[<sup><small>pág. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Apenas podían el sol y la luna en lo alto,
 Sakra escaso, con belleza de rayo vie.
@@ -244,7 +244,7 @@ Ahora, con sus cansados ​​corceles, el sol
 A través de los cielos occidentales ha recorrido su curso,
 En lo profundo de un pozo mi cuerpo yacía
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Y quémalo de la manera acostumbrada.
 Cuando en la tumba sea colocado mi cadáver,
@@ -364,7 +364,7 @@ Nada en el mundo es oscuro ni tenue,
 Dondequiera que brille el poderoso Dios del Día
 Resplandeciente con mil rayos.
 
-<span id="p315">[<sup><small>pág. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Él sobre la altura rocosa y la colina,
 A través de una cueva sombría, junto al lago y el arroyo,
@@ -483,7 +483,7 @@ Su crecimiento es siempre fresco y joven.
 Allí S'avarí todavía mora,
 ¿Quién sirvió a cada anacoreta desaparecido?
 
-<span id="p316">[<sup><small>pág. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Bajo la sombra de las ramas sagradas
 Esa antigua devota cumple sus votos.
@@ -603,7 +603,7 @@ Que te contentes con comida escasa
 Has dominado hace mucho tiempo todo toque de ira;
 Que todos tus votos sean bien mantenidos;
 
-<span id="p317">[<sup><small>pág. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Si bien la paz mental se obtiene con seguridad:
 Esa reverencia de los santos que enseñaron
@@ -726,7 +726,7 @@ Por poder y fuerza preeminente
 Y él le habló a Lakshman meditando
 Los pensamientos que en su seno despertaron:
 
-<span id="p318">[<sup><small>pág. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 'Mis ojos han visto esta maravillosa casa
 De aquellos grandes santos con almas sometidas,

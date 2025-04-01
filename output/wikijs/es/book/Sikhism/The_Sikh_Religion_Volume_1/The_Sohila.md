@@ -55,7 +55,7 @@ En el cual se alaba al Creador[^2] que redundará en tu gloria.
 Como hay un solo sol y muchas estaciones,
 En el que hay wisas, chasas, gharis, pahars, días lunares y semanales, y meses;
 
-<span id="p259">[<sup><small>pág. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Así pues, oh Nanak, sólo hay un Dios, aunque Sus formas son muchas.
 
@@ -82,7 +82,7 @@ Postrarse ante él es un acto eminentemente religioso.
 El infiel no conoce el sabor de la esencia de Dios; lleva la espina del orgullo en su corazón.
 Cuanto más se mueve, más le pica y más dolor siente: su cabeza sentirá la maza de la muerte.
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Los santos de Dios están absorbidos en el nombre de Dios y han destruido el dolor y el miedo a la transmigración.
 Han encontrado a Dios, el Ser imperecedero, y gran honor les corresponde en los continentes de la tierra y en el universo.
@@ -101,7 +101,7 @@ Encontrarás un hogar con consuelo y paz en el propio palacio de Dios, y no regr
 Oh Dios, escudriñador de corazones, ordenado por Dios,[^3] cumple los deseos de mi corazón.
 El esclavo Nanak anhela la felicidad de ser convertido en el polvo de los pies de los santos.
 
-<span id="p261">[<sup><small>pág. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

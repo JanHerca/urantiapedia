@@ -1,6 +1,6 @@
 ---
 title: "Yasna XLIII"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## EL GÂTHA(Â) U<i>S</i>TAVAITI(Î).
 
@@ -46,7 +46,7 @@ Se refiere íntimamente al monarca, a su propia familia, los Spitâmas, y a los 
 
 El capítulo LIII parece pertenecer a un período de madurez, pero no necesariamente a uno de edad avanzada. Celebra el matrimonio de la hija de Zaratustra, pero las doncellas se casaban jóvenes. Con la excepción de Y. LIII, diría que la presencia de una pieza en este o aquel Gâtha tiene poco o nada que ver con determinar la cuestión de su antigüedad relativa.
 
-<span id="p93">[<sup><small>pág. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 ## YASNA XLIII. SE ANUNCIA LA SALVACIÓN COMO UNIVERSAL PARA LOS CREYENTES. REFLEXIONES DE ZARATUSTRA SOBRE LA SUBLIMIDAD Y LA ABUNDANCIA DE AHURA.
 
@@ -70,7 +70,7 @@ Pero ¿era Zaratustra el único cantor sagrado o era sólo el centro de un grupo
 
 9\. De nuevo, su conciencia y su voluntad obediente, como el ángel de la Deidad, lo interrogan; y esta vez le ofrece el principal objeto de su deseo: el conocimiento religioso. Menciona el Fuego sagrado, con su ofrenda correspondiente, como tema de su primera indagación.
 
-10\. Y suplica a Ahura que le responda y le favorezca, pues invoca una dote tan completa, que va de la mano con la verdadera Piedad y sin ningún interés egoísta en su oración. Luego, con una profundidad que confieso parece sospechosa, pide a Mazda que presente sus peticiones por él, recordando Y. XXVIII, 11, donde suplica a Ahura que colme su deseo con lo que no es él, el orador, sino con lo que Él, Ahura, sabe que son los dones de la Buena Mente. O, con una mejora conjetural (?) del texto, pide a Ahura que le pregunte para que sea realmente interrogado, diciendo por así decirlo: «Examíname y conóceme». Pero al mantener la otra lectura como superior, y al no necesitar texto conjeturado, podemos ver su pensamiento adicional: «Haznos nuestras preguntas, y entonces nunca fallaremos; Entonces no seremos hombres sin deseos (anaêsha), rechazados por las vacas que gimen como campeones inertes (Y. XXIX, 9), sino que seremos en verdad Tus gobernantes, “expresando nuestro poderoso deseo”. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> Como el isha-khshathra, a quien ella buscaba (Y. XXIX, 9), nuestro deseo obrará nuestra voluntad; estará de acuerdo con la voluntad de Dios.'
+10\. Y suplica a Ahura que le responda y le favorezca, pues invoca una dote tan completa, que va de la mano con la verdadera Piedad y sin ningún interés egoísta en su oración. Luego, con una profundidad que confieso parece sospechosa, pide a Mazda que presente sus peticiones por él, recordando Y. XXVIII, 11, donde suplica a Ahura que colme su deseo con lo que no es él, el orador, sino con lo que Él, Ahura, sabe que son los dones de la Buena Mente. O, con una mejora conjetural (?) del texto, pide a Ahura que le pregunte para que sea realmente interrogado, diciendo por así decirlo: «Examíname y conóceme». Pero al mantener la otra lectura como superior, y al no necesitar texto conjeturado, podemos ver su pensamiento adicional: «Haznos nuestras preguntas, y entonces nunca fallaremos; Entonces no seremos hombres sin deseos (anaêsha), rechazados por las vacas que gimen como campeones inertes (Y. XXIX, 9), sino que seremos en verdad Tus gobernantes, «expresando nuestro poderoso deseo». <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> Como el isha-khshathra, a quien ella buscaba (Y. XXIX, 9), nuestro deseo obrará nuestra voluntad; estará de acuerdo con la voluntad de Dios.'
 
 11\. Sin embargo, no ignora todo lo que le espera al aceptar este llamado. Adora la generosidad y la majestad de Ahura mientras graba en su alma la importancia de esta conferencia, y ello a pesar de todo, porque su voluntad, al ser obedecida en acciones, traerá sufrimientos terrenales.
 

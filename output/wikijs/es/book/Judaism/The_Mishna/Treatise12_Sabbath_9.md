@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. R. Akivah dice: “¿De dónde se infiere que llevar un ídolo contamina, como la menstruación? Del texto: «Los desecharás como un paño menstrual: le dirás al ídolo: ¡Quítate de aquí!». [^121] Así como llevar un paño menstrual contamina, también lo hace llevar un ídolo.
 
-<span id="p50">[<sup><small>pág. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 § 2. ¿De dónde se infiere que un barco está limpio? Del texto: «El camino de un barco en medio del mar». [^122] ¿De dónde se infiere que en un huerto de seis palmos cuadrados se pueden sembrar cinco tipos diferentes de semillas; es decir, cuatro en las cuatro esquinas del huerto y el quinto en el centro? [^123] Del texto: «Porque así como la tierra produce su renuevo, el huerto hace brotar sus semillas». [^124] El texto no dice, ‏זַרְעָהּ‎ \[su semilla, en singular, como si fuera de una sola clase\], sino ‏זְרוּעֶיהָ‎, \[sus semillas de varias clases\].
 

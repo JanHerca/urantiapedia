@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 SEGUNDO ADHYÂYA [^313].
 
@@ -58,7 +58,7 @@ SEGUNDO ADHYÂYA [^313].
 
 11\. Gârgya dijo: «Adoro como Brahman a la persona que está en el espacio». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de esto. Lo adoro, en verdad, como el segundo que nunca nos abandona».
 
-<span id="p103">[<sup><small>pág. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Quien así le adora, se hace dueño de un segundo, su partido no se separa de él,
 
@@ -98,7 +98,7 @@ Hay una copa con la boca abajo y el fondo arriba. En ella se ha depositado una g
 4\. Estos dos (los oídos) son los Rishis Gautama y Bharadvâ<i>g</i>a; el derecho Gautama, el izquierdo Bharadvâ<i>g</i>a. Estos dos (los ojos) son los Rishis Vi<i>s</i>vâmitra y <i>G</i>amadagni; el derecho Vi<i>s</i>vâmitra, el izquierdo Gamadagni. Estos dos (las fosas nasales) son los Rishis Vasish<i>th</i>a y Ka<i>s</i>yapa; el derecho Vasish<i>th</i>a, el izquierdo Ka<i>s</i>yapa. La lengua es Atri, pues con ella se come, y Atri está destinado a Atti, el comer. El que sabe esto se convierte en comedor de todo, y todo se convierte en su comida.
 
 
-<span id="p107">[<sup><small>pág. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## TERCER BRAHMA<i>N</i>A [^337].
 
@@ -123,7 +123,7 @@ A continuación sigue la enseñanza (de Brahman) con ¡No, no! [^339], pues no h
 
 2\. Maitreyî dijo: 'Mi Señor, si toda esta tierra, llena de riquezas, me perteneciera, dime, ¿sería inmortal gracias a ella [^343]?'
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 —No —respondió Yâ<i>g</i>_ñ_avalkya—; tu vida será como la de los ricos. Pero no hay esperanza de inmortalidad en la riqueza.
 
@@ -145,7 +145,7 @@ A continuación sigue la enseñanza (de Brahman) con ¡No, no! [^339], pues no h
 
 'En verdad, los mundos no son queridos para que ames los mundos, sino para que ames al Ser, por eso los mundos son queridos.
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 'En verdad, los Devas no son queridos para que puedas amar a los Devas, sino para que puedas amar al Ser, por lo tanto, los Devas son queridos [^347].
 
@@ -173,7 +173,7 @@ A continuación sigue la enseñanza (de Brahman) con ¡No, no! [^339], pues no h
 
 Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea desconcertante. Esto es suficiente, oh amado, para la sabiduría [^358].
 
-«Pues cuando existe, por así decirlo, dualidad, entonces uno ve al otro, uno huele al otro, uno oye al otro [^359], uno saluda al otro [^360], uno percibe al otro [^361], uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría oler a otro [^362], cómo podría ver a otro [^363], cómo podría oír a otro [^364], cómo podría saludar a otro [^366], cómo podría percibir a otro [^367], cómo podría conocer a otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ¿Cómo, oh amado, podría conocerse (a sí mismo), al Conocedor [1](Brihadaranyaka_2#fn368)?»
+«Pues cuando existe, por así decirlo, dualidad, entonces uno ve al otro, uno huele al otro, uno oye al otro [^359], uno saluda al otro [^360], uno percibe al otro [^361], uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría oler a otro [^362], cómo podría ver a otro [^363], cómo podría oír a otro [^364], cómo podría saludar a otro [^366], cómo podría percibir a otro [^367], cómo podría conocer a otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ¿Cómo, oh amado, podría conocerse (a sí mismo), al Conocedor [1](../Brihadaranyaka_2#fn368)?»
 
 
 ## QUINTO BRAHMA<i>N</i>A [^369].
@@ -225,7 +225,7 @@ Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea de
 Este (Âtman) es los caballos, este (Âtman) es la decena y los miles, múltiples e infinitos. Este es el Brahman, sin causa ni efecto, sin nada interior ni exterior; este Ser es Brahman, omnipresente y omnisciente. Esta es la enseñanza (de los Upanishads).
 
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ## SEXTO BRAHMANA.
 

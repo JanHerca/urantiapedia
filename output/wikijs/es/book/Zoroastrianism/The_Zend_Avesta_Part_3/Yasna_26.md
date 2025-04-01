@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXVI. Los Fravashis; Sacrificio y Alabanzas a Ellos"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>pág. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 ## YASNA XXVI. LOS FRAVASHIS; SACRIFICIO Y ALABANZA A ELLOS.
 

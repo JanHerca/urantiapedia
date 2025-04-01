@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 1\. Durante todo el tiempo que esté permitido comer levadura, se puede alimentar con ella a animales salvajes y aves, y venderla a un extraño. Se les permite disfrutarla en todos los sentidos. Transcurrido ese tiempo, se prohíbe su consumo, y no se debe usar para calentar un horno ni una estufa. Rabí Judah dijo: «No hay forma de deshacerse de la levadura sino quemándola». Pero los Sabios dicen: «También se puede pulverizarla y esparcirla al viento, o arrojarla al mar».
 

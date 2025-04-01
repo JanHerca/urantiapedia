@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXX"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## YASNA XXX. LA DOCTRINA DEL DUALISMO.
 
@@ -48,7 +48,7 @@ En la siguiente frase se les personifica como pareja, cada uno independiente en 
 
 Y el infierno es descrito no como una escena de crueldad infligida a los inocentes e ignorantes, sino como "la peor vida", y el cielo es igualmente alejado de un paraíso supersticioso; es decir, como el "mejor estado mental".
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Esta es la auténtica creación zaratustriana. Es innegablemente abstracta, muy, y en la misma medida en que carece de color y mito, se hacen visibles sus profundidades. Su relato también es muy limitado. Pero nunca debe olvidarse que su existencia es la probable prueba de que existieron muchos más himnos similares. En lugar de un solo himno cantado como este, Y. XXX, probablemente hubo muchos. Las dos fuerzas o seres originales, aunque claramente separados, se unen; pero no pierden su distinción. Su diferencia permanece tan clara como su unión. 5. No se fusionan irreconociblemente; pues habiendo creado los dos principios, cada uno elige su propio reino. Ahura elige el orden recto de la religión, y con él a los piadosos de todos los tiempos. El espíritu maligno elige a los malvados.
 

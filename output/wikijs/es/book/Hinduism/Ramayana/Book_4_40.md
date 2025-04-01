@@ -129,7 +129,7 @@ Los jefes Vánar avanzaron; y todos
 Sobre la llanura en números hechos,(?)
 Guerreros impetuosos se pusieron en formación.
 
-<span id="p363">[<sup><small>pág. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Los ojos de Lakshman se enrojecieron al ver esto.
 Su pecho exhalaba suspiros tumultuosos,
@@ -199,7 +199,7 @@ Sosteniendo su poderosa arma, se mantiene de pie.
 Su mensaje es el auriga
 Eso acerca al ansioso enviado,
 Impulsado por su audaz intención,
-Y por el poder de Ráma envió. [1](Libro_4_40#fn636)
+Y por el poder de Ráma envió. [1](../Libro_4_40#fn636)
 Los Vánars reunidos vieron y huyeron,
 Y lanzaron en alta voz su grito de terror.
 Hijo de la reina Tárá, Angad corrió
@@ -239,7 +239,7 @@ Con el trabajo ligero se gana la amistad.
 Pero se mantuvo con el trabajo más severo.
 Y la duda es fuerte y la fe es débil,
 
-<span id="p364">[<sup><small>pág. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Y la amistad muere cuando los traidores hablan.
 Por eso mi pecho atribulado está frío
@@ -347,7 +347,7 @@ Sus ramas con frutos dorados, que hacían
 Con hojas y flores de deliciosa sombra.
 Vio una banda de Vánars esperando,
 
-<span id="p365">[<sup><small>pág. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Blandiendo sus armas, en la puerta
 Donde los portales dorados brillaron entre
@@ -470,7 +470,7 @@ Sé que la gracia debe ser devuelta.
 Pero aún así sé que, pase lo que pase,
 Ese amor conquistador es señor de todo;
 
-<span id="p366">[<sup><small>pág. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Sepa dónde estaban los pensamientos de Sugríva, poseídos
 Por una pasión absorbente, descanso.
@@ -581,7 +581,7 @@ Como los rayos, no te fijas,
 ¿Quién puede, absorto en la dicha sensual,
 Despierta tu promesa de tu mente.
 
-<span id="p367">[<sup><small>pág. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 
 
@@ -641,7 +641,7 @@ Y feliz reunión de Ráma
 A Sitá, rival en deleite
 
 De la Luna triunfante cuando él
-Se reúne con su querida Rohiní. [1b](Libro_4_40#fn643)
+Se reúne con su querida Rohiní. [1b](../Libro_4_40#fn643)
 Diez millones de millones de demonios custodian
 Las puertas de Lanká están firmemente cerradas.
 Toda esperanza hasta que ese ejército sea asesinado,
@@ -693,7 +693,7 @@ Pero Rama vino a rescatarme,
 Y me devolvió mi poder y mi fama.
 Oh Lakshman, di, cuyo corazón agradecido
 
-<span id="p368">[<sup><small>pág. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Podría alimentar la esperanza de pagar en parte,
 Por el servicio de una vida, la escritura
@@ -797,7 +797,7 @@ O poderosas nubes que velan los cielos,
 Y avanzando rápidamente en su camino
 'Traed todas nuestras legiones en formación.'
 
-<span id="p369">[<sup><small>pág. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Cesó: el hijo de Váyu [^647] oyó,
 Sumiso a la palabra de su soberano;
@@ -908,7 +908,7 @@ La frente del monarca se abanicaba,
 Y concha y tambor y canción y grito
 La voz sonó a su alrededor cuando el rey se desmayó.
 
-<span id="p370">[<sup><small>pág. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Alrededor del monarca iba una multitud.
 De los guerreros Vánar valientes y fuertes,
@@ -972,7 +972,7 @@ De los dioses, [^651] cambian de forma según sea necesario.
 Cada uno con sus legiones en formación,
 ¡Oh Príncipe! Hacia aquí se dirigen,
 Vienen: y decenas de millones se hinchan
-A números que ninguna lengua puede expresar. [1b](Libro_4_40#fn652)
+A números que ninguna lengua puede expresar. [1b](../Libro_4_40#fn652)
 Por ti se unirán sus ejércitos
 Con jefes, los pares de Mahendra en poder.
 De Meru y de la cadena de Vindhya
@@ -1011,7 +1011,7 @@ Cuando mate a mi enemigo demonio,
 Como conquistando a Indra en su ira
 Mató al altivo padre de la reina Paulomi. [^654]
 
-<span id="p371">[<sup><small>pág. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Cesó: densas nubes de polvo se elevaron
 A cada cuarto del cielo:
@@ -1066,7 +1066,7 @@ Con miríadas enjambres presionando hacia adelante
 Fiel al deseo de su señor Sugriva;
 Y el principesco Ruman, querido por la fama,
 Lideró a millones a quienes ningún ejército pudo domar,
-Todos estos y muchos otros jefes además [1b](Libro_4_40#fn660)
+Todos estos y muchos otros jefes además [1b](../Libro_4_40#fn660)
 Avanzó ferozmente con orgullo guerrero.
 Cubrieron toda la llanura y aún
 Avanzó a paso firme sobre el bosque y la colina.
@@ -1096,7 +1096,7 @@ A donde quieran, estos ejércitos lideran.
 Feroz y terrible a la vista.
 Como Daityas o la tripulación del Dánav [^661],
 
-<span id="p372">[<sup><small>pág. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Famoso en todas las tierras por las almas en llamas
 Con pensamientos elevados, nunca se cansan,
@@ -1176,7 +1176,7 @@ Contra las rocas ásperas se estrellan las olas:
 Un océano como una nube negra,
 Cuya multitud de monstruosas serpientes se agolpa;
 
-<span id="p373">[<sup><small>pág. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Un océano que se levanta con un rugido
 Golpear sobre una orilla de hierro.
@@ -1255,7 +1255,7 @@ Y con su segundo ligeramente presionado
 El pico más alto de la cresta de Meru.
 Cuando al norte de Jambudwíp [^686] el sol
 
-<span id="p374">[<sup><small>pág. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Una parte de su recorrido ya ha transcurrido.
 Y cuelga sobre esta altura de la montaña,
@@ -1362,7 +1362,7 @@ El que más allá del mes se quede
 
 [^654]: 370:3b Putoma, un demonio, era el suegro de Indra, quien lo destruyó para evitar una imprecación. Paulomit es un patronímico que designa a Sachi, hija de Puloma.
 
-[^655]: 371:1 “Observe la variedad de colores que el poema atribuye a todos estos habitantes de las diferentes regiones montañosas, algunos blancos, otros amarillos, etc. Tales colores diferentes eran quizás características peculiares y distintivas de esas diversas razas”. GORRESSIO.
+[^655]: 371:1 «Observe la variedad de colores que el poema atribuye a todos estos habitantes de las diferentes regiones montañosas, algunos blancos, otros amarillos, etc. Tales colores diferentes eran quizás características peculiares y distintivas de esas diversas razas». GORRESSIO.
 
 [^656]: 371:2 Sushen.
 
@@ -1410,14 +1410,14 @@ El que más allá del mes se quede
 
 [^678]: 373:3 Vis´vakarmá, el Muleiher del cielo indio.
 
-[^679]: 373:4 “Los terribles demonios llamados Mandehas intentan devorar al sol: porque Brahmá denunció esta maldición sobre ellos, que sin el poder de perecer morirían cada día (y revivirían por la noche) y por lo tanto ocurre una feroz competencia (diariamente) entre ellos y el sol”.
+[^679]: 373:4 «Los terribles demonios llamados Mandehas intentan devorar al sol: porque Brahmá denunció esta maldición sobre ellos, que sin el poder de perecer morirían cada día (y revivirían por la noche) y por lo tanto ocurre una feroz competencia (diariamente) entre ellos y el sol».
   Vishnu Purana de WILSON. Vol.II. pag. 250.
 
 [^680]: 373:5 Se dice en el Vishnu Purána que es una cresta que se proyecta desde la base de Meru hacia el norte.
 
 [^681]: 373:6 Los kinnars son centauros invertidos, seres con cabeza de equino y cuerpo humano.
 
-[^682]: 373:7 Los Yakshas son semidioses que asisten a “Ruyera”\* el dios de la riqueza.
+[^682]: 373:7 Los Yakshas son semidioses que asisten a «Ruyera»\* el dios de la riqueza.
 
 [^683]: 373:1b Aurva era uno de los descendientes de Bhrigu. De su ira surgió una llama que amenazó con destruir el mundo si Aurva no la hubiera arrojado al océano, donde permaneció oculta, y con la cara de un caballo. La leyenda se cuenta en el Mahábharat. I. 6\*3\*02.
 
@@ -1429,7 +1429,7 @@ El que más allá del mes se quede
 
 [^687]: 374:1 Los vaikhánases son una raza de santos ermitaños que se dice surgieron de las uñas de Prajápati.
 
-[^688]: 374:2 “La esposa de Eratu, Samnnti, engendró a los sesenta mil Válakhilyas, sabios pigmeos, no más grandes que la articulación de un pulgar, castos, piadosos, resplandecientes como los rayos del Sol” _Vishnu Purána_ de WlLSOK.
+[^688]: 374:2 «La esposa de Eratu, Samnnti, engendró a los sesenta mil Válakhilyas, sabios pigmeos, no más grandes que la articulación de un pulgar, castos, piadosos, resplandecientes como los rayos del Sol» _Vishnu Purána_ de WlLSOK.
 
 [^689]: 374:3 El continente en el que se encuentra Sudarsan o Meru, es decir, Jambudwip.
 

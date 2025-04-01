@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p69">[<sup><small>pág. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## PRAP_TH_AKA III, K_N__D_IK 1.
 
@@ -107,7 +107,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 2.
 
@@ -127,7 +127,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. 'Las madres, en verdad, dicen a sus hijos cuando los amamantan:
 
-9\. “¡Conviértanse en hombres, mis pequeños hijos, que se esfuerzan por lograr el <i>S</i>akvarî-vrata!”
+9\. «¡Conviértanse en hombres, mis pequeños hijos, que se esfuerzan por lograr el <i>S</i>akvarî-vrata!»
 
 10\. [^267] Durante (el Vrata preparatorio para el estudio de) estos (es decir, los versos Mahânâmnî), tocar agua en el momento de cada Savana (está prescrito).
 
@@ -316,7 +316,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ### KÂ_N__D_IKÂ 4.
 
@@ -761,7 +761,7 @@ Fin del tercer Prapâ<i>th</i>aka.
 
 [^259]: 69:1 1, 1. Después de la descripción del Upanayana regular, siguen en los capítulos 1 y 2 las afirmaciones sobre los Vratas especiales que el estudiante védico debe experimentar, o más bien, que puede experimentar, durante su etapa estudiantil. Compárense las afirmaciones correspondientes sobre los Vratas de los <i>Ri</i>gvedins, <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 11 y 12. Los seguidores del Sâma-veda relacionaron la ceremonia del Godâna, o corte de la barba (comp. <i>S</i>âṅkhâyana I, 28, 19; Pâraskara II, 1, 7 seq.; Â<i>ri</i>valâyana I, 18) con su sistema de Vratas. El sometimiento al Godânavrata permitió al estudiante estudiar el Pûrvâr<i>ri</i>ika del Sâma-veda. En el comentario sobre Gobhila III, 1, 28 encontramos las siguientes declaraciones con respecto a este Vrata así como a los otros Vratas mencionados en Sûtra 28: 'Se ha declarado que el Upanayana-vrata se refiere al estudio del Sâvitrî (compárense las notas de Bloomfield sobre G<i>ri</i>hya-sa<i>ri</i>graha II, 42. 43); el Godâna-vrata, al estudio de las colecciones de versos consagrados a los dioses Agni, Indra y Soma Pavamâna (este es el Pûrvâr<i>ri</i>ika del Sâma-veda); el Vrâtika-vrata, al estudio del Âra<i>ri</i>yaka, con exclusión de las secciones <i>S</i>ukriya; el Âditya-vrata, al estudio de las secciones <i>S</i>ukriya; el Aupanishada-vrata, al estudio del Upanishad-Brâhma<i>ri</i>a; el _G<i>ri</i>th_asâmika-vrata, al estudio de los Â<i>ri</i>yadohas.' Los Vratas estaban conectados con una repetición de la ceremonia Upanayana (Sûtras 10 seq.) de la manera indicada en mi nota sobre <i>S</i>âṅkhâyana II, 12, 1.—Khâdira-G<i>ri</i>hya II, 5, 1 seq.
 
-[^260]: 69:2 Comp. <i>S</i>âṅkhâyana I, 28, 19, 'El Godânakarman es idéntico al _K<i>û</i>d_âkarman'. Pâraskara II, 1, 7, En la ceremonia del Ke<i>û</i>ânta dice: “Cabello y barba” (en lugar de “cabello”, como en el _K<i>û</i>d<i>û</i>n_a).
+[^260]: 69:2 Comp. <i>S</i>âṅkhâyana I, 28, 19, 'El Godânakarman es idéntico al _K<i>û</i>d_âkarman'. Pâraskara II, 1, 7, En la ceremonia del Ke<i>û</i>ânta dice: «Cabello y barba» (en lugar de «cabello», como en el _K<i>û</i>d<i>û</i>n_a).
 
 [^261]: 70:3 En el _K<i>û</i>d<i>û</i>n_a el niño se sienta en el regazo de la madre y otros realizan los ritos para él.
 
@@ -887,7 +887,7 @@ Fin del tercer Prapâ<i>th</i>aka.
 
 [^322]: 91:17 Comp. abajo, IV, 5, 3.
 
-[^323]: 91:20 G<i>ri</i>hya-sa<i>ri</i>graha I, 114: 'Donde se usa la expresión técnica, “El descanso según el rito de los Sthâlîpâkas”, debe, después de haber sacrificado los dos Â<i>ri</i>yabhâgas, verter (Â<i>ri</i>ya) en el Sru<i>k</i> y cortar (los Avadânas con el Sru<i>k</i>).' Comp. Gobhila I, 8, 3 seq.
+[^323]: 91:20 G<i>ri</i>hya-sa<i>ri</i>graha I, 114: 'Donde se usa la expresión técnica, «El descanso según el rito de los Sthâlîpâkas», debe, después de haber sacrificado los dos Â<i>ri</i>yabhâgas, verter (Â<i>ri</i>ya) en el Sru<i>k</i> y cortar (los Avadânas con el Sru<i>k</i>).' Comp. Gobhila I, 8, 3 seq.
 
 [^324]: 92:23 El sacrificio es el prescrito en los Sutras 18. 19, el cual, al igual que la ofrenda de Balis, debe repetirse diariamente.
 

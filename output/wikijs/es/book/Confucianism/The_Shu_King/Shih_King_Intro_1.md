@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ## EL REY SHIH O EL LIBRO DE POESÍA.
 
@@ -56,7 +56,7 @@ La colección completa está dividida en cuatro partes, llamadas Kwo Făng, Hsi�
 
 El Kwo Făng, en quince libros, contiene 160 fragmentos, casi todos breves, que describen las costumbres y los acontecimientos en varios estados feudales de Kâu. El título ha sido traducido por «Las costumbres de los diferentes estados», «Les Mœurs des Royaumes» y, lo que prefiero, por «Lessons from the States».
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 El Hsiâo Yâ, o Yâ Menor, en ocho libros, contiene setenta y cuatro piezas y los títulos de otras seis, cantadas en las reuniones de los príncipes feudales y en sus apariciones en la corte real. Se produjeron en el territorio real y describen las costumbres y formas de gobierno en reinados sucesivos. Es difícil encontrar una palabra inglesa que represente adecuadamente el Yâ chino tal como se usa aquí. En su traducción latina del Shih, p. Lacharme tradujo Hsiâo Yâ por «Quod rectum est, sed inferiore ordine», añadiendo en una nota: «Siâo Yâ, latín Parvum Rectum, quia in hac Parte mores describuntur, recti illi quidem, qui tamen nonnihil a recto deflectunt». Pero las costumbres descritas no son menos correctas o incorrectas, según el caso, que las de los estados en la primera parte o las del reino en la siguiente. Prefiero llamar a esta Parte 'Odas Menores del Reino', sin intentar traducir el término Yâ.
 

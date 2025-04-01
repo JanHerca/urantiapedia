@@ -1,6 +1,6 @@
 ---
 title: "XVI. Dîn Yast"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Dîn (Daêna) preside el día 24 del mes (Sîrôzah 24) y le da su nombre; se la invoca en compañía de <i>K</i>ista, y de hecho, este Ya<i>s</i>t, aunque lleva el nombre de Daêna, está consagrado a Kista (§§ 2, 7). Sin embargo, estos dos Genios están estrechamente relacionados en su naturaleza, ya que Daêna es la personificación de la Ley o Religión Zoroástrica, y Kista es el conocimiento religioso, el conocimiento de lo que conduce a la dicha (far<i>g</i>ânak, nirvâ<i>n</i>a<i>g</i><i>ñ</i>âna; lo mismo que <i>K</i>isti).
 
@@ -82,7 +82,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 10\. Que el muy justo <i>K</i>ista</i>, creado por Mazda y santo, le otorgaría la agilidad de pies, la atención auditiva, la fuerza de brazos, la salud y la robustez de todo el cuerpo, y la vista de un caballo macho, que, en la oscuridad de la noche, bajo la lluvia, la nieve, el granizo o el aguanieve, desde nueve distritos a lo lejos, puede percibir el pelo de un caballo mezclado con la tierra y saber si proviene de la cabeza o de la cola [^1144].
 
-<span id="p267">[<sup><small>pág. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 

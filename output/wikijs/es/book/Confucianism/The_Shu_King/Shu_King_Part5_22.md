@@ -48,13 +48,13 @@ El día Ting-mâo (dos días después de la muerte del rey), ordenó que se regi
 
 Los rescatadores [^264] colocaron las mamparas [^265], ornamentadas con figuras de hachas, y las tiendas. Entre la ventana (y la puerta), orientada al sur, colocaron la estera triple de finas tablillas de bambú, con su borde rayado de seda blanca y negra, y el banco habitual adornado con gemas de diferentes colores. En el espacio lateral oeste, orientado al este, colocaron la estera triple de junco, con su borde jaspeado, y el banco habitual adornado con hermosas conchas. En el espacio lateral este, orientado al oeste, colocaron la estera triple de fina hierba, con su borde de seda pintada, y el banco habitual tallado y adornado con gemas. Frente a la cámara lateral oeste, orientada al sur, colocaron la estera triple de fino bambú, con su borde oscuro mixto, y el banco habitual lacado [^266].
 
-<span id="p239">[<sup><small>pág. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 También expusieron los cinco pares de gemas (o jade) y los objetos preciosos de exhibición. Estaban el cuchillo rojo, las grandes lecciones, el gran símbolo redondo y convexo de jade y las mazas redondeadas y puntiagudas, todos en el espacio lateral del oeste; la gran pieza de jade, las piezas aportadas por las tribus salvajes del este, la piedra celestial sonora y el río Plan, todos en el espacio lateral del este; los trajes de danza de Yin, el gran caparazón de tortuga y el gran tambor, todos en el apartamento occidental; la lanza de Tûi, el arco de Ho y las flechas de bambú de Khui, todos en el apartamento oriental [^267].
 
 El carruaje principal se encontraba junto a la escalinata de los invitados, mirando al sur; el siguiente, junto a la escalinata oriental (o de los anfitriones), mirando al sur. El carruaje delantero se situaba frente al vestíbulo izquierdo, y el siguiente frente al vestíbulo derecho [^268].
 
-<span id="p240">[<sup><small>pág. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Dos hombres con gorras de cuero marrón y alabardas triangulares se encontraban en la entrada de los aposentos privados. Cuatro hombres con gorras de piel de ciervo moteada, empuñando lanzas con las hojas vueltas hacia arriba desde la base, se encontraban de pie, uno a cada lado de las escaleras, al este y al oeste, y cerca de la plataforma del salón. Un hombre con una gran gorra de oficial y un hacha en la mano se encontraba en el salón, cerca de las escaleras, en el extremo este. Un hombre con una gran gorra de oficial y un hacha de un modelo diferente se encontraba en el salón, cerca de las escaleras, en el extremo oeste. Un hombre con una gran gorra de oficial y una lanza se encontraba al frente y al este del salón, cerca de las escaleras. Un hombre con una gran gorra de oficial y una lanza de un modelo diferente se encontraba en el lugar correspondiente al oeste. Un hombre con una gran gorra de oficial y un arma puntiaguda se encontraba junto a las escaleras, en el lado norte del salón.
 
@@ -62,7 +62,7 @@ El rey, con una cofia de lino y una falda de diversos dibujos, ascendió por la 
 
 El rey hizo dos reverencias, se levantó y respondió: «Soy completamente insignificante, solo un niño, ¿cómo podría gobernar los cuatro puntos cardinales del reino con la correspondiente reverencia ante la imponente majestad del Cielo?». Entonces recibió la copa y la tapadera. Tres veces avanzó lenta y reverentemente con una copa de licor al este del ataúd; tres veces ofreció sacrificios al espíritu de su padre; y tres veces dejó la copa. El Ministro de Religión dijo: «Se acepta».
 
-<span id="p242">[<sup><small>pág. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 El Gran Guardián recibió la copa, bajó los escalones y se lavó las manos [272]. Luego tomó otra copa, la colocó sobre una media maza que portaba y repitió el sacrificio [273]. Después, entregó la copa a uno de los asistentes del Ministro de Religión y rindió homenaje. El rey correspondió a la reverencia. El Gran Guardián tomó otra copa y derramó los licores en sacrificio. Después, probó los licores, regresó a su lugar, entregó la copa al asistente y rindió homenaje. El rey correspondió a la reverencia. El Gran Guardián descendió del salón, tras lo cual se retiraron los diversos objetos del sacrificio, y todos los príncipes salieron a la puerta del templo [274] y esperaron.
 

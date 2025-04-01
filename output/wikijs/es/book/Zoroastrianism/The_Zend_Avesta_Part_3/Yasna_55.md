@@ -1,6 +1,6 @@
 ---
 title: "Yasna LV. El culto de los Gâthas como concluido, y el del Staota Yêsnya como comienzo"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 ## YASNA LV (SP. LIV). LA ADORACIÓN DE LOS GÂTHAS COMO CONCLUIDA, Y LA DE LA STAOTA YÊSNYA COMO COMIENZO.
 

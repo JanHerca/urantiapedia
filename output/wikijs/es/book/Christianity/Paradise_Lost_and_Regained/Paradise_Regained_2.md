@@ -182,7 +182,7 @@ Engañaos para persuadiros demasiado.
 De como triunfar aquí. Convoco a todos
 Más bien, estar preparado con la mano
 O un consejo que me ayude, no sea que yo, que antes
-“No creía que nadie me igualara, y ahora soy superado”.
+«No creía que nadie me igualara, y ahora soy superado».
 
 Así habló la antigua Serpiente, dudando, y de todo
 Con clamor se les aseguró la máxima ayuda.
@@ -359,15 +359,15 @@ Llovió del cielo maná; y aquel profeta valiente,
 Natural de Tebes, vagando por aquí, fue alimentado
 Dos veces por una voz invitándolo a comer.
 De ti durante estos cuarenta días nadie ha hecho caso,
-“Cuarenta y más, en verdad, están abandonados aquí.”
+«Cuarenta y más, en verdad, están abandonados aquí.»
 
 A lo cual Jesús respondió: "¿Qué concluyes de esto?
 Todos ellos tenían necesidad; yo, como ves, no tengo ninguna.”
 
-“¿Cómo, pues, tienes hambre?” respondió Satanás.
+«¿Cómo, pues, tienes hambre?» respondió Satanás.
 “Dime, si ahora te sirvieran comida,
 ¿No comerías? "Después, como me gusta,
-“El dador”, respondió Jesús, “¿por qué debería eso?”
+«El dador», respondió Jesús, «¿por qué debería eso?»
 "¿Cuál es la causa de tu negativa?" dijo el sutil Demonio.
 “¿No tienes derecho a todas las cosas creadas?
 No te debo todas las criaturas por derecho propio
@@ -481,7 +481,7 @@ Consigue riquezas primero, consigue riquezas y acumula tesoros.
 No es difícil, si me escuchas.
 Las riquezas son mías, la fortuna está en mi mano;
 Aquellos a quienes favorezco prosperan en la riqueza,
-“Mientras tanto, la virtud, el valor y la sabiduría, faltan.”
+«Mientras tanto, la virtud, el valor y la sabiduría, faltan.»
 
 A lo cual Jesús respondió con paciencia:
 “Sin embargo, la riqueza sin estos tres es impotente.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 1\. El hijo de Zoma dijo: «¿Quién es sabio? Quien está dispuesto a recibir instrucción de todos los hombres, como se dice: “Que de todos mis maestros». [^484] ¿Quién es poderoso? Quien domina su malvada imaginación, como se dice: «Quien es lento para la ira es mejor que el poderoso, y quien domina su espíritu que quien conquista una ciudad». [^485] ¿Quién es rico? Quien se regocija en su suerte, como se dice: «Porque comerás del trabajo de tus manos, feliz serás y te irá bien»; [^486] feliz serás en este mundo y te irá bien en el venidero. ¿Quién es honorable? Quien honra a la humanidad, como se dice: «A quienes me honran, yo los honraré, y a quienes me desprecian, los tendré en poco». [^487]
 

@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Si un hombre, tras sembrar su campo, cambia de opinión y decide plantar, no debe decir: «Primero sembraré y luego araré mi campo», sino que debe arar primero y luego plantar. Si, tras sembrar su campo, cambia de opinión y decide sembrar, no debe decir: «Primero sembraré y luego arrancaré lo que he plantado», sino que primero debe arrancarlo y luego sembrarlo. Pero, si lo desea, puede cortar los tallos de las plantas hasta una distancia de [menos de] un palmo del suelo; luego siembra y, por último, arranca lo que ha plantado.
 
-<span id="p17">[<sup><small>pág. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 § 5. Si su campo ha sido sembrado con alcaravea o לוף, [^46] no debe sembrar nada sobre ellas, ya que estas dos especies no maduran hasta después de tres años. [^47] Si brotan brotes de isatis [^48] entre el maíz, o si han brotado diversas clases de semillas en la tierra de un granero, o si brota foenum græcum [^49] de diversas clases, no está obligado a desherbarlas; pero si ha comenzado a desherbar o talar alguna, está obligado a destruirlas todas excepto una sola especie.
 

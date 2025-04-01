@@ -1,6 +1,6 @@
 ---
 title: "Yasna LXIX"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T13:0:42Z
 (Véase Y. XLVI, 3; Y. L, 6-11.)
 
 
-<span id="p325">[<sup><small>pág. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ## YASNA LXIX (SP. LXVIII).
 

@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:58:51Z
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_11">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XI: Zâi Yû, o «Dejar ser y ejercer la tolerancia»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 LIBRO XII.
 
@@ -58,7 +58,7 @@ El hombre de cualidades regias se mantiene desocupado en su camino, y le avergü
 
 5\. El maestro de Yâo fue Hsü Yû [^436]; de Hsü Yû, Nieh Khüeh [^436]; de Nieh Khüeh, Wang Î [^436]; de Wang Î, Pheî-î [^436]. Yâo le preguntó a Hsü Yû, diciendo: '¿Es Nieh Khüeh apto para ser el correlato del Cielo [^437]? (Si crees que lo es), me valdré de los servicios de Wang Î para obligarlo (a tomar mi lugar)'. Hsü Yû respondió: '¡Tal medida sería arriesgada y llena de peligros para el reino! El carácter de Nieh Khüeh es este; él es agudo, perspicaz, astuto y conocedor, listo para responder, afilado en la réplica y apresurado; Sus dones naturales superan a los de otros hombres, pero mediante sus cualidades humanas busca obtener el don celestial; ejercita su discernimiento para suprimir sus errores, pero desconoce la fuente de la que surgen. ¡Conviértalo en el correlato del Cielo! Empleará las cualidades humanas, de modo que no se preste atención al don celestial. Además, asignará diferentes funciones a las distintas partes de la misma persona [^438].
 
-<span id="p313">[<sup><small>pág. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Además, se honraría el conocimiento, y sus planes se materializarían con la rapidez del fuego. Además, sería esclavo de todo lo que iniciara. Además, se sentiría avergonzado por las cosas. Además, buscaría por todas partes la respuesta de las cosas (a sus medidas). Además, respondería a la opinión de la multitud sobre lo que era correcto. Además, cambiaría a medida que las cosas cambiaran, y no tendría ningún principio de constancia. ¿Cómo puede un hombre así ser digno de ser correlato del Cielo? Sin embargo, como existen las ramas menores de una familia y el antepasado común de todas sus ramas, podría ser el padre de una rama, pero no el padre de los padres de todas las ramas [^439]. Tal gobierno (como él conduciría) conduciría al desorden. Sería una calamidad para alguien en la posición de ministro, y la ruina si estuviera en la posición de soberano.
 
@@ -98,7 +98,7 @@ Quien conoce su estupidez no es muy estúpido; quien sabe que está bajo un enga
 
 La música grandiosa no penetra los oídos de los aldeanos; pero si escuchan «El Sauce Rompiendo» o «Las Flores Brillantes [^467]», estallarán en carcajadas. Así, las palabras elevadas no permanecen en la mente de la multitud, y las palabras perfectas no se escuchan, porque predominan las palabras vulgares. Con dos instrumentos de barro, la música de una campana se confundirá, y no se obtendrá el placer que proporcionaría. Actualmente, el mundo entero está bajo un engaño, y aunque desee ir en cierta dirección, ¿cómo puedo lograrlo? Sabiendo que no puedo hacerlo, si intentara abrirme paso a la fuerza, eso sería otro engaño. Por lo tanto, mi mejor opción es abandonar mi propósito y no perseguirlo más. Si no lo persigo, ¿con quién compartiré mi dolor [^468]?
 
-<span id="p328">[<sup><small>pág. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Si un hombre feo [^469] tiene un hijo a medianoche, se apresura con una luz a verlo. Lo hace con mucho entusiasmo, solo por temor a que se parezca a él.
 
@@ -116,7 +116,7 @@ Pero los caminos que han seguido no son lo que yo llamo el camino correcto. Lo q
       <tr>
         <td>
         <a href="/es/book/Taoism/Taoist_texts_vol_1/Kwang_dze_Book_11">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libro XI: Zâi Yû, o «Dejar ser y ejercer la tolerancia»</span>
         </a>
         </td>
         <td>
@@ -136,7 +136,7 @@ Pero los caminos que han seguido no son lo que yo llamo el camino correcto. Lo q
 
 ## Notas al pie
 
-[^462]: 307:1 Ver págs. [143](Kwang_dze_Intro#p143), [144](Kwang_dze_Intro#p144).
+[^462]: 307:1 Ver págs. [143](../Kwang_dze_Intro#p143), [144](../Kwang_dze_Intro#p144).
 
 [^463]: 307:2 Lo que implica que ese gobernante, 'el Hijo del Cielo', es sólo uno.
 

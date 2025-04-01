@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 
 Mientras tanto, los malvados ermitaños, cuya impostura el Buda había expuesto, eran tratados con desprecio por la población, y cada día su deseo de venganza se intensificaba más. Se habían establecido cerca del parque de Jeta y día y noche espiaban al Buda y a sus discípulos. Pero todo fue en vano; no vieron nada que les diera la más mínima excusa para difamar a la comunidad.
@@ -43,9 +43,9 @@ Llevamos mucho tiempo observando la conducta de estos monjes. Su virtud es inneg
 
 Los ermitaños enviaron un mensaje a Sinca. Ella acudió. "¿Por qué me mandaron llamar?", preguntó.
 
-“¿Conoces al monje de Kapilavastu, a quien se adora como Buda?”
+«¿Conoces al monje de Kapilavastu, a quien se adora como Buda?»
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 —No, pero conozco su gran fama. Me han hablado de los muchos prodigios que ha realizado.
 

@@ -153,7 +153,7 @@ Plotino nos ha dicho en un hermoso pasaje que un
 
 La incapacidad de describir a los no iniciados el amor secreto del místico por lo Incognoscible es el tema de un exquisito poema del poeta indio Tagore:
 
-«Me jactaba entre los hombres de haberte conocido. Ven tu imagen en todas mis obras. Vienen y me preguntan quién es él. No sé cómo responderles. Digo: “De hecho, no lo puedo decir». Me culpan y se van con desprecio. Y tú te sientas allí sonriendo. Puse mis historias sobre ti en canciones duraderas. El secreto brota de mi corazón. Vienen y me preguntan: «Dime todo lo que quieres decir». No sé cómo responderles. Digo: «Ah, quién sabe lo que quieren decir». Sonríen y se van con total desprecio. Y tú te sientas allí sonriendo”. [^4]
+«Me jactaba entre los hombres de haberte conocido. Ven tu imagen en todas mis obras. Vienen y me preguntan quién es él. No sé cómo responderles. Digo: «De hecho, no lo puedo decir». Me culpan y se van con desprecio. Y tú te sientas allí sonriendo. Puse mis historias sobre ti en canciones duraderas. El secreto brota de mi corazón. Vienen y me preguntan: «Dime todo lo que quieres decir». No sé cómo responderles. Digo: «Ah, quién sabe lo que quieren decir». Sonríen y se van con total desprecio. Y tú te sientas allí sonriendo». [^4]
 
 <span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 

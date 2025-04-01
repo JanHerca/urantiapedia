@@ -38,15 +38,15 @@ En el jardín de Akinosuke había un gran y antiguo cedro, bajo el cual solía d
 
 Le pareció que, mientras yacía en su jardín, vio una procesión, como la comitiva de un gran daimyo que descendía una colina cercana, y se levantó para contemplarla. Resultó ser una procesión grandiosa, más imponente que cualquier otra que hubiera visto antes; y avanzaba hacia su morada. Observó a la cabeza a varios jóvenes ricamente vestidos, que tiraban de un gran carruaje palaciego lacado, o gosho-guruma, adornado con brillante seda azul. Al llegar a poca distancia de la casa, la procesión se detuvo; y un hombre ricamente vestido, evidentemente una persona de rango, se adelantó, se acercó a Akinosuke, le hizo una profunda reverencia y luego dijo:
 
-Honorable Señor, tiene ante usted a un kerai \[vasallo\] del Kokuo de Tokoyo. <a id="note_1"></a> [1](Notes#note_9_1) Mi señor, el Rey, me ordena saludarlo en su augusto nombre y ponerme a su entera disposición. También me encarga informarle que desea con augusta atención su presencia en palacio. Por lo tanto, tenga a bien subir de inmediato a este honorable carruaje que ha enviado para su traslado.
+Honorable Señor, tiene ante usted a un kerai \[vasallo\] del Kokuo de Tokoyo. <a id="note_1"></a> [1](../Notes#note_9_1) Mi señor, el Rey, me ordena saludarlo en su augusto nombre y ponerme a su entera disposición. También me encarga informarle que desea con augusta atención su presencia en palacio. Por lo tanto, tenga a bien subir de inmediato a este honorable carruaje que ha enviado para su traslado.
 
 Al oír estas palabras, Akinosuke quiso dar una respuesta adecuada; pero estaba demasiado asombrado y avergonzado para hablar; y en ese mismo instante, su voluntad pareció desvanecerse, de modo que solo pudo hacer lo que el kerai le ordenó. Subió al carruaje; el kerai se sentó a su lado e hizo una señal; los tiradores, agarrando las cuerdas de seda, giraron el gran vehículo hacia el sur; y el viaje comenzó.
 
 En poco tiempo, para asombro de Akinosuke, el carruaje se detuvo frente a una enorme puerta de dos pisos (romon), de estilo chino, que nunca antes había visto. Allí, el kerai desmontó, diciendo: «Voy a anunciar la honorable llegada», y desapareció. Tras una breve espera, Akinosuke vio a dos hombres de aspecto noble, vestidos con túnicas de seda púrpura y gorros altos que indicaban un alto rango, salir de la puerta. Estos, tras saludarlo respetuosamente, lo ayudaron a descender del carruaje y lo condujeron a través de la gran puerta y a través de un vasto jardín, hasta la entrada de un palacio cuya fachada parecía extenderse kilómetros de oeste a este. Akinosuke fue entonces conducido a una sala de recepción de tamaño y esplendor asombrosos. Sus guías lo condujeron al lugar de honor y se sentaron respetuosamente aparte; mientras las doncellas, ataviadas con trajes de ceremonia, le sirvieron refrigerios. Cuando Akinosuke hubo compartido los refrigerios, los dos asistentes vestidos de púrpura se inclinaron ante él y se dirigieron a él con las siguientes palabras (cada uno hablando alternativamente, de acuerdo con la etiqueta de las cortes):
 
-Es nuestro honorable deber informarle... sobre el motivo de su citación... Nuestro señor, el Rey, desea con agrado que se convierta en su yerno;... y es su deseo y mandato que se case hoy mismo... con la Princesa Augusta, su hija soltera... Pronto lo conduciremos a la cámara de audiencias... donde Su Augusta lo espera para recibirlo... Pero será necesario que primero lo invistamos... con las vestiduras apropiadas para la ceremonia. <a id="note_2"></a> [2](Notes#note_9_2)
+Es nuestro honorable deber informarle... sobre el motivo de su citación... Nuestro señor, el Rey, desea con agrado que se convierta en su yerno;... y es su deseo y mandato que se case hoy mismo... con la Princesa Augusta, su hija soltera... Pronto lo conduciremos a la cámara de audiencias... donde Su Augusta lo espera para recibirlo... Pero será necesario que primero lo invistamos... con las vestiduras apropiadas para la ceremonia. <a id="note_2"></a> [2](../Notes#note_9_2)
 
-Tras estas palabras, los asistentes se levantaron juntos y se dirigieron a una alcoba que contenía un gran cofre lacado en oro. Abrieron el cofre y extrajeron diversas corzas y cinturones de rica tela, y un kamuri, o tocado real. Con estos, ataviaron a Akinosuke como correspondía a un novio principesco; y luego fue conducido a la sala de audiencias, donde vio al Kokuo de Tokoyo sentado en la daiza, <a id="note_3"></a> [3](Notes#note_9_3) con un alto gorro negro de ceremonia y túnicas de seda amarilla. Frente a la daiza, a izquierda y derecha, una multitud de dignatarios estaban sentados en fila, inmóviles y espléndidos como imágenes en un templo; y Akinosuke, avanzando hacia ellos, saludó al rey con la triple postración de costumbre. El rey lo saludó con palabras amables y luego dijo:
+Tras estas palabras, los asistentes se levantaron juntos y se dirigieron a una alcoba que contenía un gran cofre lacado en oro. Abrieron el cofre y extrajeron diversas corzas y cinturones de rica tela, y un kamuri, o tocado real. Con estos, ataviaron a Akinosuke como correspondía a un novio principesco; y luego fue conducido a la sala de audiencias, donde vio al Kokuo de Tokoyo sentado en la daiza, <a id="note_3"></a> [3](../Notes#note_9_3) con un alto gorro negro de ceremonia y túnicas de seda amarilla. Frente a la daiza, a izquierda y derecha, una multitud de dignatarios estaban sentados en fila, inmóviles y espléndidos como imágenes en un templo; y Akinosuke, avanzando hacia ellos, saludó al rey con la triple postración de costumbre. El rey lo saludó con palabras amables y luego dijo:
 
 Ya se te ha informado del motivo de tu citación. Hemos decidido que serás el esposo adoptivo de nuestra única hija; y ahora se celebrará la ceremonia nupcial.
 
@@ -74,7 +74,7 @@ Al recibir esta orden, Akinosuke se preparó sumisamente para su partida. Una ve
 
 Por un momento quedó estupefacto y aturdido. Pero vio a sus dos amigos aún sentados cerca de él, bebiendo y charlando alegremente. Los miró desconcertado y exclamó:
 
-“¡Qué extraño!”
+«¡Qué extraño!»
 
 —Akinosuke debió estar soñando —exclamó uno de ellos riendo—. ¿Qué viste, Akinosuke, que te pareció extraño?
 
@@ -84,9 +84,9 @@ Un goshi dijo:
 
 Sí, viste cosas extrañas. Nosotros también vimos algo extraño mientras dormías. Una pequeña mariposa amarilla revoloteó sobre tu cara un momento; y la observamos. Luego se posó en el suelo junto a ti, cerca del árbol; y casi en cuanto se posó allí, una hormiga enorme salió de un agujero, la atrapó y la arrastró hacia el agujero. Justo antes de que despertaras, vimos a esa misma mariposa salir del agujero de nuevo y revolotear sobre tu cara como antes. Y luego desapareció de repente; no sabemos adónde fue.
 
-“Quizás era el alma de Akinosuke”, dijo el otro goshi; “ciertamente pensé que la vi volar hacia su boca... Pero, incluso si esa mariposa era el alma de Akinosuke, el hecho no explicaría su sueño”.
+«Quizás era el alma de Akinosuke», dijo el otro goshi; «ciertamente pensé que la vi volar hacia su boca... Pero, incluso si esa mariposa era el alma de Akinosuke, el hecho no explicaría su sueño».
 
-“Las hormigas podrían explicarlo”, respondió el primero en hablar. “Las hormigas son seres extraños, posiblemente duendes... En fin, hay un gran hormiguero debajo de ese cedro.”
+«Las hormigas podrían explicarlo», respondió el primero en hablar. «Las hormigas son seres extraños, posiblemente duendes... En fin, hay un gran hormiguero debajo de ese cedro.»
 
 —¡Veamos! —gritó Akinosuke, muy conmovido por la sugerencia. Y fue a buscar una pala.
 

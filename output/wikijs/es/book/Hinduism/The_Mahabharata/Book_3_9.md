@@ -79,4 +79,4 @@ Tras pronunciar estas palabras agradables, sinceras y cordiales, Satyabhama dese
 
 ## Notas al pie
 
-[^81]: 474:1 La palabra en el texto es “Agrahara”, que, como explica Nilakantha, significa aquí, “Aquello que primero se toma de un montón después de la dedicación de una porción a los “Viswadevas”. Lo que Draupadi quiere decir es que ella siempre se encargó de alimentar a esos Brahmanas con comida “primero” tomada de las reservas, sin, de hecho, haber tomado nada de allí del uso de nadie más.
+[^81]: 474:1 La palabra en el texto es «Agrahara», que, como explica Nilakantha, significa aquí, «Aquello que primero se toma de un montón después de la dedicación de una porción a los “Viswadevas». Lo que Draupadi quiere decir es que ella siempre se encargó de alimentar a esos Brahmanas con comida «primero» tomada de las reservas, sin, de hecho, haber tomado nada de allí del uso de nadie más.

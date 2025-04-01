@@ -129,7 +129,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v7_4_1_4545"><sup><small>7:4:1:4545.</small></sup></span> En cuanto a esto, dicen: «Que no le haga armas a este hombre (de oro) [^694], para que no sea redundante; pues estas dos cucharas son (en lugar de) sus brazos». Que, sin embargo, le haga armas, pues esas dos cucharas son (simplemente) a la manera de los dos brazos. Además, esos dos (brazos de Agni) son alas; y cualesquiera que sean las formas, los estomas, los p<i>ri</i>sh<i>th</i>as, las medidas que aplique a ese altar de fuego, esa será la perfección, ese será el crecimiento de esos dos: que, por lo tanto, le haga armas a ese hombre (de oro).
 
 
-<span id="p377">[<sup><small>pág. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 <span id="v7_4_2"><sup><small>7:4:2</small></sup></span>
 
@@ -209,7 +209,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v7_4_2_3838"><sup><small>7:4:2:3838.</small></sup></span> Aquí dicen: «Si el Vi<i>s</i>va<i>g</i>yotis (ladrillo) es la progenie, y el Ashâ<i>dh</i>â el habla, ¿por qué intercala las dos estacionales?». Pues bien, como las estacionales son el año, separa el habla de la progenie según el año, y por lo tanto, los niños hablan al cumplir un año.
 
-<span id="v7_4_2_3939"><sup><small>7:4:2:3939.</small></sup></span> \[Establece el Ashâ<i>dh</i>â, con Vâ<i>g</i>. S. XIII, 26\] «Tú eres Ashâ<i>dh</i>â, el conquistador», pues así los dioses conquistaron a los asuras. «¡Conquista a los enemigos! ¡Conquista al hostil!», como dice el texto, así también el significado: «Tienes mil energías: ¡acelerame!». Mil significa <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> todas: así, «Tienes todas las energías, ¡acelerame!». Cuando lo ha “asentado”, pronuncia sobre él el Sûdadohas: el significado de esto ha sido explicado.
+<span id="v7_4_2_3939"><sup><small>7:4:2:3939.</small></sup></span> \[Establece el Ashâ<i>dh</i>â, con Vâ<i>g</i>. S. XIII, 26\] «Tú eres Ashâ<i>dh</i>â, el conquistador», pues así los dioses conquistaron a los asuras. «¡Conquista a los enemigos! ¡Conquista al hostil!», como dice el texto, así también el significado: «Tienes mil energías: ¡acelerame!». Mil significa <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> todas: así, «Tienes todas las energías, ¡acelerame!». Cuando lo ha «asentado», pronuncia sobre él el Sûdadohas: el significado de esto ha sido explicado.
 
 <span id="v7_4_2_4040"><sup><small>7:4:2:4040.</small></sup></span> Ahora dicen: "¿Por qué se colocan esos otros ladrillos delante del que está perforado naturalmente?". Que diga: "Hay dos matrices (lugares de nacimiento): una es el vientre de los dioses, la otra el vientre de los hombres: los dioses tienen su lugar de nacimiento en el este, y los hombres en el oeste; y al colocar esos (ladrillos) delante, hace que el Sacrificador nazca del vientre de los dioses".
 
@@ -243,9 +243,9 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^681]: 363:2 ? O, en que (o porque, yena) las aguas fluyen, es decir, el fluir de las aguas (lluvia, etc.) es una manifestación de la verdad eterna.
 
-[^682]: 364:1 Véase [p. 301](Book_3_7_1#p301), nota [3](Book_3_7_1#fn563).
+[^682]: 364:1 Véase [p. 301](../Book_3_7_1#p301), nota [3](../Book_3_7_1#fn563).
 
-[^683]: 364:2 Es decir, el que el Sacrificador llevaba alrededor del cuello durante el período de iniciación. Véase [VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) ss.
+[^683]: 364:2 Es decir, el que el Sacrificador llevaba alrededor del cuello durante el período de iniciación. Véase [VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) ss.
 
 [^684]: 366:1 'Sîmata<i>h</i>' parecería significar más bien 'desde la línea fronteriza', pero el autor aquí toma 'sîman' en el sentido de (sîmanta) 'línea del cabello, raya del cabello, coronilla de la cabeza (Scheitel).'
 
@@ -253,13 +253,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^686]: 366:3 Generalmente es con Indra con quien se relaciona el metro Trish<i>t</i>ubh (véase parte i, introducción, pág. xviii; <i>S</i>at. Br. IX, 4, 3, 7 (cf. VIII, 5, 1, 10)), siendo el Trish<i>t</i>ubh también el emblema de la nobleza (III, 4, 1, 10).
 
-[^687]: 366:4 Véase [p. 301](Book_3_7_1#p301), nota [3](Book_3_7_1#fn563).
+[^687]: 366:4 Véase [p. 301](../Book_3_7_1#p301), nota [3](../Book_3_7_1#fn563).
 
 [^688]: 367:1 El profesor Weber, Ind. Stud. XIII, pág. 249, toma 'uttânam' en el sentido de 'estar de pie, erguido', con su cara hacia el este; pero esto seguramente debe ser un error.
 
 [^689]: 367:2 Es decir, tanto la placa de oro (el sol), que fue colocada con el lado en relieve o frontal hacia abajo, como el hombre de oro.
 
-[^690]: 368:1 Cf. [VI, 7, 1, 11](Book_3_6_7#v6_7_1_11), donde se dice que la parte inmortal del aire vital del hombre fluye hacia afuera mediante respiraciones ascendentes. Cf. [p. 359](Book_3_7_3#p359), n. [1](Book_3_7_3#fn673).
+[^690]: 368:1 Cf. [VI, 7, 1, 11](../Book_3_6_7#v6_7_1_11), donde se dice que la parte inmortal del aire vital del hombre fluye hacia afuera mediante respiraciones ascendentes. Cf. [p. 359](../Book_3_7_3#p359), n. [1](../Book_3_7_3#fn673).
 
 [^691]: ​​369:1 Es decir, canta el Kitra-sâman, Sâma-v. I, 169 (Vâ<i>g</i>. S. XXVII, 39), '¿Con qué favor estará con nosotros el brillante, el amigo cada vez mayor; con qué ejército más poderoso?'
 
@@ -287,19 +287,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^699]: 378:1 La base del Agni con forma de pájaro incluye las partes sobre las que se apoya o se sienta, a saber, las patas y la parte trasera del cuerpo. Sâya<i>n</i>a, por otro lado, la interpreta como el pu<i>m</i>liṅga, lo cual parece muy improbable.
 
-[^700]: 378:2 Véase [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^700]: 378:2 Véase [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
-[^701]: 379:1 Véase [p. 155](Book_3_6_1#p155), nota [8](Book_3_6_1#fn316).
+[^701]: 379:1 Véase [p. 155](../Book_3_6_1#p155), nota [8](../Book_3_6_1#fn316).
 
-[^702]: 379:2. Es decir, añadiendo la fórmula: “¡Por ​​esa deidad, semejante a Angiras, permanece firme!”
+[^702]: 379:2. Es decir, añadiendo la fórmula: «¡Por ​​esa deidad, semejante a Angiras, permanece firme!»
 
-[^703]: 379:3 Véase [p. 301](Book_3_7_1#p301), nota [3](Book_3_7_1#fn563).
+[^703]: 379:3 Véase [p. 301](../Book_3_7_1#p301), nota [3](../Book_3_7_1#fn563).
 
 [^704]: 379:4 Es decir, ¿Cómo podrá él (el sacrificador) ascender al cielo, cuando ese ladrillo está sobre él?
 
-[^705]: 379:5 Véase [p. 187](Book_3_6_2#p187), nota [3](Book_3_6_2#fn384).
+[^705]: 379:5 Véase [p. 187](../Book_3_6_2#p187), nota [3](../Book_3_6_2#fn384).
 
-[^706]: 380:1 Véase [VI, 2, 3, 2](Book_3_6_2#v6_2_3_2).
+[^706]: 380:1 Véase [VI, 2, 3, 2](../Book_3_6_2#v6_2_3_2).
 
 [^707]: 381:1 La raíz debe reposar sobre el ladrillo del cual (en representación de la tierra) se supone que brotó; las puntas luego se extenderán a lo largo del suelo.
 
@@ -313,13 +313,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^712]: 384:2 Los dos ladrillos Reta<i>h</i>si<i>k</i> se colocan inmediatamente delante (al este) del Dviya<i>g</i>us, uno a cada lado de la 'columna vertebral', que coincide así con su línea de separación.
 
-[^713]: 384:3 Véase [VI, 5, 3, 3](Book_3_6_5#v6_5_3_3).
+[^713]: 384:3 Véase [VI, 5, 3, 3](../Book_3_6_5#v6_5_3_3).
 
-[^714]: 384:4 Como en el caso de los Svayamât<i>ri</i><i>n</i><i>n</i>âs (ladrillos perforados naturalmente, véanse las pp. [155](Book_3_6_1#p155), nota [8](Book_3_6_1#fn316); [187](Book_3_6_2#p187), nota [2](Book_3_6_2#fn383)), así también hay tres Vi<i>s</i>va<i>g</i>yotis o ladrillos 'totalmente de luz', colocados en la primera, tercera y quinta capa p. 385 del altar, y que representan la luz (o deidad gobernante) del mundo respectivo representado por el svayamât<i>ri</i><i>n</i><i>n</i>â de la misma capa.
+[^714]: 384:4 Como en el caso de los Svayamât<i>ri</i><i>n</i><i>n</i>âs (ladrillos perforados naturalmente, véanse las pp. [155](../Book_3_6_1#p155), nota [8](../Book_3_6_1#fn316); [187](../Book_3_6_2#p187), nota [2](../Book_3_6_2#fn383)), así también hay tres Vi<i>s</i>va<i>g</i>yotis o ladrillos 'totalmente de luz', colocados en la primera, tercera y quinta capa p. 385 del altar, y que representan la luz (o deidad gobernante) del mundo respectivo representado por el svayamât<i>ri</i><i>n</i><i>n</i>â de la misma capa.
 
 [^715]: 385:1 En realidad el ladrillo Vi<i>s</i>va<i>g</i>yotis no se coloca entre los dos Reta<i>h</i>si<i>k</i>, sino delante de la línea que los separa entre sí.
 
-[^716]: 385:2 Él vio el primer ladrillo perforado naturalmente, que, como ladrillo central de la primera capa, representa este último, así como el más bajo de los tres mundos: la tierra. Véase [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^716]: 385:2 Él vio el primer ladrillo perforado naturalmente, que, como ladrillo central de la primera capa, representa este último, así como el más bajo de los tres mundos: la tierra. Véase [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
 [^717]: 385:3 Es decir, añadiendo: '¡Por esa deidad, semejante a Angiras, permanece firme!'
 
@@ -327,8 +327,8 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^719]: 386:2 Es decir, su fundación.
 
-[^720]: 387:1 Véase [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1)\-[2](Book_3_6_5#v6_5_3_2).
+[^720]: 387:1 Véase [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1)\-[2](../Book_3_6_5#v6_5_3_2).
 
 [^721]: 387:2 Es decir, mediante amenazas, vituperios, etc., digamos.
 
-[^722]: 388:1 Véase [VII, 5, 2, 40](Book_3_7_5#v7_5_2_40) seq.
+[^722]: 388:1 Véase [VII, 5, 2, 40](../Book_3_7_5#v7_5_2_40) seq.

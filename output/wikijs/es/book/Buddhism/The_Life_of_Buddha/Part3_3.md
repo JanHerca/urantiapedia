@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p222">[<sup><small>pág. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 
 Al cabo de tres meses, el Maestro descendió a la tierra y tomó el camino a Cravasti. Al acercarse al parque de Jeta, se encontró con una joven. Era la sirvienta de un adinerado habitante de la ciudad que por casualidad trabajaba en el campo ese día. Le llevaba un tazón de arroz para comer. Al ver al Buda, sintió una extraña felicidad.
@@ -45,9 +45,9 @@ Este arroz... La comida de mi amo... Ningún amo puede reducir a la esclavitud a
 
 Le entregó el cuenco al Buda. Este lo aceptó y continuó su camino hacia el parque de Jeta. La joven, con los ojos brillantes de felicidad, fue a buscar a su amo.
 
-<span id="p223">[<sup><small>pág. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
-“¿Dónde está mi arroz?” preguntó tan pronto como la vio.
+«¿Dónde está mi arroz?» preguntó tan pronto como la vio.
 
 Se lo di al Buda como limosna. Castígame si quieres, no lloraré; estoy demasiado feliz por lo que he hecho.
 
@@ -57,7 +57,7 @@ No la castigó. Inclinó la cabeza y dijo:
 
 La joven hizo una profunda reverencia.
 
-“Con tu permiso entonces”, dijo ella, “iré al parque de Jeta y le pediré al Bendito que me instruya en la ley”.
+«Con tu permiso entonces», dijo ella, «iré al parque de Jeta y le pediré al Bendito que me instruya en la ley».
 
 "Ve", dijo el hombre.
 
@@ -65,7 +65,7 @@ Fue al parque de Jeta, se sentó a los pies del Buda y se convirtió en una de l
 
 Entre quienes buscaban la instrucción del Bendito al mismo tiempo que esta joven esclava se encontraba Suprabha, hija de un ciudadano prominente de Cravasti. Suprabha era muy hermosa. Verla era enamorarse de ella, y todos los jóvenes distinguidos de la ciudad la cortejaban. Esto preocupaba mucho a su padre. "¿A quién la daré en matrimonio?", se preguntaba repetidamente; "quienes rechacen se convertirán en mis acérrimos enemigos".
 
-<span id="p224">[<sup><small>pág. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Y durante horas permanecía sumido en sus pensamientos.
 
@@ -77,7 +77,7 @@ Pareces estar preocupado, querido padre. ¿Cuál es el motivo?
 
 —Tienes miedo de elegir entre mis pretendientes —dijo Suprabha—. ¡Pobres hombres! ¡Si supieran lo que pienso! ¡No te preocupes, padre! Diles que se reúnan y, según la antigua costumbre, iré entre ellos y yo mismo elegiré un esposo entre ellos.
 
-“Haré lo que desees, hija.”
+«Haré lo que desees, hija.»
 
 El padre de Suprabha fue a ver al rey Prasenajit y recibió permiso para que un heraldo proclamara por toda la ciudad:
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>pág. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 TERCERA LECCIÓN, LLAMADA CALOR Y FRÍO.
 
@@ -44,11 +44,11 @@ Pero un hombre siempre sumido en la oscuridad, sujeto a la vejez y la muerte, de
 
 Conociendo la miseria que resulta de la acción,
 El engañado y descuidado vuelve a la vida; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Sin hacer caso de los sonidos ni los colores, erguido,
-Evitando Mâra uno se libera de la muerte [1](Akaranga_1_3#fn156).
+Evitando Mâra uno se libera de la muerte [1](../Akaranga_1_3#fn156).
 
-Absteniéndose cuidadosamente de los placeres y abandonando las malas acciones, es un héroe que se protege a sí mismo, arraigado en el conocimiento [2](Akaranga_1_3#fn157). (3) Quien conoce la violencia ejercida en beneficio de objetos especiales, conoce lo que está libre de violencia [3](Akaranga_1_3#fn158); quien conoce lo que está libre de violencia, conoce la violencia ejercida en beneficio de objetos especiales. Para quien carece de karman, no hay apelativo [4](Akaranga_1_3#fn159). La condición de los seres vivos surge del karman.
+Absteniéndose cuidadosamente de los placeres y abandonando las malas acciones, es un héroe que se protege a sí mismo, arraigado en el conocimiento [2](../Akaranga_1_3#fn157). (3) Quien conoce la violencia ejercida en beneficio de objetos especiales, conoce lo que está libre de violencia [3](../Akaranga_1_3#fn158); quien conoce lo que está libre de violencia, conoce la violencia ejercida en beneficio de objetos especiales. Para quien carece de karman, no hay apelativo [4](../Akaranga_1_3#fn159). La condición de los seres vivos surge del karman.
 
-Al examinar el karman y su raíz, es decir, la muerte [5](Akaranga_1_3#fn160), examinándolo y adoptando su contrario [6](Akaranga_1_3#fn161), no se ve desde ambos extremos [7](Akaranga_1_3#fn162). Sabiendo esto, un hombre sabio que conoce el mundo y ha desechado la idea del mundo, debe vencer con prudencia los obstáculos a la rectitud [8](Akaranga_1_3#fn163). Así digo. (4)
+Al examinar el karman y su raíz, es decir, la muerte [5](../Akaranga_1_3#fn160), examinándolo y adoptando su contrario [6](../Akaranga_1_3#fn161), no se ve desde ambos extremos [7](../Akaranga_1_3#fn162). Sabiendo esto, un hombre sabio que conoce el mundo y ha desechado la idea del mundo, debe vencer con prudencia los obstáculos a la rectitud [8](../Akaranga_1_3#fn163). Así digo. (4)
 
 
 
@@ -127,7 +127,7 @@ El que conoce [^182] la ira, conoce el orgullo; el que conoce el orgullo, conoce
 
 Por lo tanto, un hombre sabio debe evitar la ira, el orgullo, el engaño, la codicia, el amor, el odio, el engaño, la concepción, el nacimiento, la muerte, el infierno, la existencia animal y el dolor.
 
-<span id="p35">[<sup><small>pág. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Esta es la doctrina del Vidente, quien no daña a los seres vivos y ha puesto fin (a las acciones y al sa<i>m</i>sâra). Prevenir la propensión al pecado destruye las acciones pasadas. ¿Hay alguna debilidad mundana en el Vidente? No existe ninguna, no la hay. Así lo digo. (4)
 
@@ -177,7 +177,7 @@ Fin de la Tercera Lección, llamada Caliente y Frío.
 
 [^160]: 29:4 Como hombre, dios, ser infernal, joven, viejo, etc.
 
-[^161]: 29:5 Véase [p. 28](Akaranga_1_2#p28), nota [4](Akaranga_1_2#fn155).
+[^161]: 29:5 Véase [p. 28](../Akaranga_1_2#p28), nota [4](../Akaranga_1_2#fn155).
 
 [^162]: 29:6 Literalmente, el lado izquierdo (savyam); se pretende controlar.
 

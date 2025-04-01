@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>pág. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 ## ADHYÂYA VI, KHANDA 1.
 
@@ -73,7 +73,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. La extracción de agua debe hacerse antes del amanecer, <span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
-5 [^326]. Y la entrada en el círculo con este verso: “La que huele a ungüento” (Rig-veda X, 146, 6).
+5 [^326]. Y la entrada en el círculo con este verso: «La que huele a ungüento» (Rig-veda X, 146, 6).
 
 6\. [^327]. El círculo debe tener su entrada al este o al norte; debe ser (elogiado como) excelente entre el pueblo, no demasiado espacioso, no demasiado estrecho.
 
@@ -115,7 +115,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11\. Ahora la expiación.
 
-12\. [^333]. La sílaba OM, el Mahâvyâh<i>ri</i>tis, el Sâvitrî, ​​el Rathantara, el B<i>ri</i>hat, el Vâmadevya; Brihat y Rathantara con repetición y formación de Kakubh. <span id="p145">[<sup><small>pág. 145</small></sup>]</span>
+12\. [^333]. La sílaba OM, el Mahâvyâh<i>ri</i>tis, el Sâvitrî, ​​el Rathantara, el B<i>ri</i>hat, el Vâmadevya; Brihat y Rathantara con repetición y formación de Kakubh. <span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 13 [^334]. Estas (palabras y versículos sagrados) se hacen (así) alcanzar (el número de) diez.
 
@@ -229,9 +229,9 @@ Fin del <i>S</i>âṅkhâyana-G<i>ri</i>hya.
 
 ## Notas al pie
 
-[^320]: 141:1 1, 1 seqq. Comp. las observaciones generales sobre este sexto libro en la Introducción, [p. 11](Sankhayana_Intro#p11).
+[^320]: 141:1 1, 1 seqq. Comp. las observaciones generales sobre este sexto libro en la Introducción, [p. 11](../Sankhayana_Intro#p11).
 
-Para los nombres en la invocación inicial, comp. arriba, 1V, 10; sobre los Vratas y el estudio de las diferentes secciones de Âra<i>n</i>yaka tratadas principalmente en este libro, véase arriba, II, 11, 12, y la Introducción, [p. 8](Sankhayana_Intro#p8).
+Para los nombres en la invocación inicial, comp. arriba, 1V, 10; sobre los Vratas y el estudio de las diferentes secciones de Âra<i>n</i>yaka tratadas principalmente en este libro, véase arriba, II, 11, 12, y la Introducción, [p. 8](../Sankhayana_Intro#p8).
 
 [^321]: 141:2 Comp. II, 11, 6.
 
@@ -275,7 +275,7 @@ Para los nombres en la invocación inicial, comp. arriba, 1V, 10; sobre los Vrat
 
 [^341]: 147:11-12 11, 12. Nârâya<i>n</i>a tiene la siguiente nota: 'El mal que está adherido a su cuerpo, como la suciedad, lo alejan, es decir, lo eliminan por medio de la recitación (de los textos sagrados), y luego realizan la expiación permanente que se ha declarado arriba, que comienza con la sílaba Om y con las Mahâvyâh<i>n</i>tis' (véase cap. 3, 12).
 
-[^342]: 147:1 5, 1. Nârâya<i>n</i>a dice que dadhe se suministra a este Mantra desde el Sûtra precedente, y así, de hecho, el Mantra se da en la recensión de Aitareya. La traducción de abhinihita<i>m</i> trir hitam es meramente tentativa; véase la nota de Nârâya<i>n</i>a, p. 165, de la edición alemana. Quizás abhinihita<i>m</i> debería tomarse en su sentido gramatical, y el Sûtra debería traducirse como “Eso (me pongo) en mí mismo (âtmani)”; con estas palabras (se miran) a sí mismos, pronunciando (la palabra âtmani) con Abhinidhâna, repetido tres veces (?). Sobre abhinidhâna, comp. Edición del profesor Max Müller del Rig-veda Prâti<i>n</i>âkhya, págs. cxvii seqq.
+[^342]: 147:1 5, 1. Nârâya<i>n</i>a dice que dadhe se suministra a este Mantra desde el Sûtra precedente, y así, de hecho, el Mantra se da en la recensión de Aitareya. La traducción de abhinihita<i>m</i> trir hitam es meramente tentativa; véase la nota de Nârâya<i>n</i>a, p. 165, de la edición alemana. Quizás abhinihita<i>m</i> debería tomarse en su sentido gramatical, y el Sûtra debería traducirse como «Eso (me pongo) en mí mismo (âtmani)»; con estas palabras (se miran) a sí mismos, pronunciando (la palabra âtmani) con Abhinidhâna, repetido tres veces (?). Sobre abhinidhâna, comp. Edición del profesor Max Müller del Rig-veda Prâti<i>n</i>âkhya, págs. cxvii seqq.
 
 [^343]: 148:2 6, 2. Nârâya<i>n</i>a explica vyâvartamânâ_h<i>n</i>h_.
 

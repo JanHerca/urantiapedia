@@ -38,7 +38,7 @@ Su ojo interior se abrirá y podrá tener una comunión estrecha con su Amado.
 
 Abrirá el portal de la verdad y la devoción y cerrará las puertas de la superficialidad.
 
-En este estado se someterá al Decreto Divino, verá la guerra como paz, encontrará los significados de la vida en la muerte, percibirá los misterios del “otro mundo” en las regiones de la creación… con los ojos externos e internos; y, con un corazón espiritual, contemplará la Sabiduría Eterna en las infinitas manifestaciones de Dios.
+En este estado se someterá al Decreto Divino, verá la guerra como paz, encontrará los significados de la vida en la muerte, percibirá los misterios del «otro mundo» en las regiones de la creación… con los ojos externos e internos; y, con un corazón espiritual, contemplará la Sabiduría Eterna en las infinitas manifestaciones de Dios.
 
 En un océano verá una gota, y en una gota detectará los misterios de un océano.
 
@@ -46,7 +46,7 @@ En un océano verá una gota, y en una gota detectará los misterios de un océa
 
 En este valle, gracias a la visión absoluta, el viajero no ve en la creación de Dios ninguna diferencia ni contradicción; y a cada instante dirá: «No puedes ver, en la creación del Misericordioso, ninguna diferencia. ¡Vuelve la vista para ver si ves alguna imperfección!» (Corán).
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Verá justicia en la injusticia y presenciará gracia en la justicia; encontrará muchos conocimientos ocultos en la ignorancia.
 
@@ -56,7 +56,7 @@ Si experimenta alguna opresión, la soportará con paciencia, y si ve alguna ira
 
 La gente del valle que se extiende más allá de este ve el principio y el fin como uno solo; no, más bien, no ven ningún principio ni ningún fin; "sin principio, sin fin..."
 
-Como se dice: “La realización perfecta de la Unidad Divina es despojarla de todos los atributos…”
+Como se dice: «La realización perfecta de la Unidad Divina es despojarla de todos los atributos…»
 
 EspañolPor eso, en relación a esto, Khaji Abd-'Allah ha establecido un punto sutil y consumado en su interpretación del verso 'Dirígenos al camino recto' (Corán), y es este: 'Indícanos el camino recto, es decir, bendícenos con Amor, tu Esencia; para que, liberándonos de toda consideración por nosotros mismos y por todo lo demás excepto Tú, podamos estar completamente cautivados por Ti, de modo que no conozcamos a nadie más que a Ti, no veamos nada más que a Ti, no pensemos en nada fuera de Ti.' (Khaji Abd-'Allah fue, añade Ali Kuli Khan, un alto líder sufí místico de la casa de Ansar en la Edad Media del Islam. Su tumba está situada en Herat. 'Ansar' significa literalmente 'ayudantes'; de ahí el término <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> para denominar a aquellas personas de Medina que fueron las primeras en creer en Mahoma.)
 

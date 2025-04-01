@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 
 El Maestro abandonó el parque de Jeta. Se detuvo en las ciudades y pueblos para predicar la ley, y muchos adoptaron la verdadera fe.
@@ -41,13 +41,13 @@ Un día, un anciano y su esposa invitaron al Maestro a comer con ellos.
 
 —Mi Señor —dijo el anciano—, hace tiempo que anhelamos escuchar su palabra. Nos sentimos felices ahora que conocemos las verdades sagradas, y entre sus amigos no encontrará a nadie más devoto que nosotros.
 
-“No me sorprende”, respondió el Buda, “porque tú y yo fuimos parientes cercanos en nuestras existencias anteriores”.
+«No me sorprende», respondió el Buda, «porque tú y yo fuimos parientes cercanos en nuestras existencias anteriores».
 
-“Maestro”, dijo la mujer, “mi esposo y yo hemos vivido juntos desde nuestra juventud; ya somos ancianos. La vida nos ha tratado con bondad. Nunca nos ha separado la más mínima disputa. Nos seguimos amando como antaño, y el ocaso de nuestras vidas es tan dulce como el amanecer. Que nos conceda, mi Señor, amarnos en nuestra próxima existencia como nos hemos amado en esta vida”.
+«Maestro», dijo la mujer, «mi esposo y yo hemos vivido juntos desde nuestra juventud; ya somos ancianos. La vida nos ha tratado con bondad. Nunca nos ha separado la más mínima disputa. Nos seguimos amando como antaño, y el ocaso de nuestras vidas es tan dulce como el amanecer. Que nos conceda, mi Señor, amarnos en nuestra próxima existencia como nos hemos amado en esta vida».
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
-“Se te concederá”, dijo el Maestro; “¡los dioses te han protegido!”
+«Se te concederá», dijo el Maestro; «¡los dioses te han protegido!»
 
 Continuó su camino. Vio a una anciana sacando agua de un pozo junto al camino. Se acercó a ella.
 
@@ -55,7 +55,7 @@ Continuó su camino. Vio a una anciana sacando agua de un pozo junto al camino. 
 
 La anciana lo miró fijamente. Estaba profundamente conmovida. Empezó a llorar. Quería abrazar al Maestro, pero tenía miedo. Las lágrimas le corrían por las mejillas.
 
-“Abrázame”, dijo el Maestro.
+«Abrázame», dijo el Maestro.
 
 La anciana corrió a sus brazos y murmuró:
 
@@ -65,7 +65,7 @@ Continuó su camino. Llegó a un vasto bosque donde vivía una manada de búfalo
 
 Los guardianes vieron al Bendito caminando silenciosamente y gritaron:
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 —Ten cuidado, viajero. No te acerques. Hay un búfalo feroz aquí.
 

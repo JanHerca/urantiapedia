@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-Véase la nota preliminar en [p. 433](Shih_King_Part4_3#p433).
+Véase la nota preliminar en [p. 433](../Shih_King_Part4_3#p433).
 
 <a id="o1"></a>
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>pág. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 ## VI. EL OFICINO DE LA PASIÓN.
 
@@ -62,7 +62,7 @@ _Salmo_.
 
 Salmo 55: 9. Oh Dios, te he declarado mi vida; Has puesto mis lágrimas delante de tus ojos.
 
-<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Salmo 40:8. Todos mis enemigos maquinaron males contra mí.
 
@@ -98,7 +98,7 @@ Salmo 87: 3. Llegue mi oración delante de ti; Inclina tu oído a mi petición.
 
 Sal. 68: 19. Atiende a mi alma, y ​​líbrala; Sálvame de mis enemigos.
 
-<span id="p158">[<sup><small>pág. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Salmo 21:10. Porque tú eres el que me sacaste del vientre, Mi esperanza desde los pechos de mi madre;
 
@@ -120,7 +120,7 @@ Tú eres mi Padre santísimo, mi Rey y mi Dios.
 
 Sal. 37: 23. Atiende a mi socorro, oh Jehová, Dios de mi salvación.
 
-<span id="p159">[<sup><small>pág. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 EN SU MEJOR MOMENTO.
 
@@ -146,7 +146,7 @@ Salmo 56:8. Mi corazón está dispuesto, oh Dios, mi corazón está dispuesto; C
 Sal. 56: 9. Levántate, oh gloria mía; levántate salterio y arpa;
 Me levantaré temprano.
 
-<span id="p160">[<sup><small>pág. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Salmo 56:10. Yo te alabaré entre los pueblos, oh Jehová,; Te cantaré salmos entre las naciones;
 
@@ -194,7 +194,7 @@ Salmo 141:4. Cuando mi espíritu me desfallecía, tú conocías mis caminos. En 
 
 Salmo 141:5. Miré a mi diestra y observé, y no había nadie que me conociera. Me ha faltado la huida, y no hay nadie que se preocupe por mi alma.
 
-<span id="p162">[<sup><small>pág. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Salmo 68:8. Porque por amor de ti he sufrido afrenta; vergüenza ha cubierto mi rostro.
 
@@ -216,7 +216,7 @@ Tú eres mi Padre santísimo, mi Rey y mi Dios.
 
 Sal. 37: 23. Atiende a mi socorro, oh Jehová, Dios de mi salvación.
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 EN NINGUNOS.
 
@@ -247,7 +247,7 @@ Sal. 68: 22. Y me pusieron hiel por comida, Y en mi sed me dieron a beber vinagr
 
 Sal. 21:16. Y me has puesto en el polvo de la muerte;
 
-<span id="p164">[<sup><small>pág. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Sal. 68: 27. y han añadido al dolor de mis heridas.
 Dormí y me levanté; y mi Padre santísimo me recibió con gloria.
@@ -271,7 +271,7 @@ _Salmo_.
 
 Salmo 46: 2. Batid palmas, naciones todas; aclamad a Dios con voz de júbilo.
 
-<span id="p165">[<sup><small>pág. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Sal. 46: 3. Porque Jehová es alto y terrible; Rey grande sobre toda la tierra.
 Porque el santísimo Padre del cielo, nuestro Rey, antes de los siglos envió a su amado Hijo desde lo alto:
@@ -296,7 +296,7 @@ Sal. 95: 9. Conmuevase toda la tierra a su presencia;
 
 Sal. 95: 10. Decid entre los gentiles: "El Señor ha reinado".
 
-<span id="p166">[<sup><small>pág. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 **Se recita hasta este lugar diariamente desde el Viernes Santo hasta la fiesta de la Ascensión. Sin embargo, en la fiesta de la Ascensión, se añaden estos versículos:**
 
@@ -306,7 +306,7 @@ Salmo 56: 12. Sé exaltado sobre los cielos, oh Dios, Y sobre toda la tierra tu 
 
 Sal. 95: 13. Y sabemos que viene; porque vendrá a juzgar con justicia.
 
-**Y note que desde la Ascensión hasta el Advenimiento del Señor este Salmo se dice diariamente de la misma manera, a saber: “Oh batid palmas”, con los versículos anteriores, “Gloria al Padre” diciéndose donde termina el Salmo, a saber, “porque Él vendrá a juzgar con justicia”.**
+**Y note que desde la Ascensión hasta el Advenimiento del Señor este Salmo se dice diariamente de la misma manera, a saber: «Oh batid palmas», con los versículos anteriores, «Gloria al Padre» diciéndose donde termina el Salmo, a saber, «porque Él vendrá a juzgar con justicia».**
 
 **Nótese que los Salmos precedentes se dicen desde el Viernes Santo hasta el Domingo de Pascua: se dicen de la misma manera desde la octava de Pentecostés hasta el Advenimiento del Señor y desde la octava de Epifanía hasta el Jueves Santo, [^578] excepto los domingos y las fiestas principales, en los que no se dicen: en los demás días, sin embargo, se dicen diariamente.**
 
@@ -320,7 +320,7 @@ Sal. 69: 2. Oh Dios, _etc._. (Sal. 69), _como en el Salterio_.
 
 **Se reza diariamente en Completas hasta la octava de Pentecostés**.
 
-<span id="p167">[<sup><small>pág. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 DOMINGO DE PASCUA EN MAITINES.
 
@@ -348,7 +348,7 @@ Salmo 95: 7. Oh familias de las naciones, traed al Señor, dad al Señor gloria 
 
 Sal. 95: 8. Dad al Señor gloria a su nombre.
 
-<span id="p168">[<sup><small>pág. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 **Se recita hasta este lugar diariamente desde el Domingo de Pascua hasta la festividad de la Ascensión en todas las Horas, excepto en Vísperas, Completas y Prima. En la noche de la Ascensión se añaden estos versos:**
 
@@ -368,7 +368,7 @@ _Ant_. Santa María.
 
 Salmo. Ten misericordia de mí, etc.—como arriba, pág. [159](#p159).
 
-<span id="p169">[<sup><small>pág. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 A LAS TERCERAS, SEXTAS Y NONAS.
 
@@ -434,7 +434,7 @@ _Salmo_.
 
 Sal. 19: 2. Que el Señor te oiga en el día de la tribulación; que el Nombre del Dios de Jacob te guarde; que Él te salve.
 
-<span id="p171">[<sup><small>pág. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Sal. 19: 3. te envíe ayuda desde el santuario, y te defienda desde Sión;
 
@@ -466,7 +466,7 @@ _Salmo_.
 
 Salmo 70: 1. En ti, oh Señor, he esperado; no sea yo confundido jamás.
 
-<span id="p172">[<sup><small>pág. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 Sal. 70: 2. Líbrame en tu justicia, y rescátame; Inclina a mí tu oído, y sálvame.
 
@@ -494,7 +494,7 @@ _Ant_. Santa María.
 
 _Salmo_. Batid palmas... _como arriba, p_. [164](#p164).
 
-<span id="p173">[<sup><small>pág. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 **Aquí comienzan otros salmos que también dispuso nuestro beatísimo Padre Francisco, los cuales han de decirse en lugar de los anteriores salmos de la Pasión del Señor desde el Adviento del Señor hasta la víspera de Navidad, y no más**.
 
@@ -527,7 +527,7 @@ Tu diestra, oh Señor, ha matado al enemigo;
 
 Sal. 68: 33. Vedlo el pobre, y alégrate; buscad a Dios, y vivirá vuestra alma.
 
-<span id="p174">[<sup><small>pág. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Sal. 68: 35. Alábenle los cielos y la tierra, El mar y todo lo que en él se mueve.
 
@@ -566,9 +566,9 @@ _Ant_. Santa María.
 
 _Salmo_. Batid palmas, etc.—_como arriba, p_. [164](#p164).
 
-**También note que no se dice todo el Salmo sino hasta el versículo, “Conmuévase toda la tierra”; entienda**
+**También note que no se dice todo el Salmo sino hasta el versículo, «Conmuévase toda la tierra»; entienda**
 
-<span id="p175">[<sup><small>pág. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 **Sin embargo, debe decirse el verso completo «Traed vuestros cuerpos». Al final de este verso se dice «Gloria al Padre». Y así se dice diariamente en las Vísperas desde Adviento hasta la Nochebuena.**
 
@@ -594,7 +594,7 @@ Salmo 41: 9. De día mandó Jehová su misericordia, Y cántico a él en la noch
 Sal. 117: 24. Este es el día que hizo Jehová: regocijémonos y alegrémonos en él.
 Porque el Niño amado y santísimo nos ha sido dado y nos ha nacido junto al camino.
 
-<span id="p176">[<sup><small>pág. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Lucas 2:7. Y se acostó en un pesebre, porque no tenía lugar en el mesón.
 
@@ -614,7 +614,7 @@ Sal. 95:8. Den gloria a su Nombre. Traigan sus cuerpos, carguen con su santa cru
 
 **Y note que este Salmo se dice desde Navidad hasta la octava de Epifanía en todas las Horas**.
 
-![](img/17600.jpg)
+![](../img/17600.jpg)
 
 
 
@@ -652,12 +652,12 @@ Sal. 95:8. Den gloria a su Nombre. Traigan sus cuerpos, carguen con su santa cru
 
 [^573]: 155:2 Consulte _Spec. Perf._ (ed. Sabatier), pág. cxcvi.
 
-[^574]: 155:3 Véase _Opúsculos_, t. I, p. 55. Este manuscrito contiene solo la primera parte del Oficio; termina con las palabras “El Señor ha reinado”.
+[^574]: 155:3 Véase _Opúsculos_, t. I, p. 55. Este manuscrito contiene solo la primera parte del Oficio; termina con las palabras «El Señor ha reinado».
 
 [^575]: 155:4 Véase arriba, págs. 3-4. Wadding enumera otros manuscritos que contienen el Oficio. Véase también Analekten de Boehmer.
 
-[^576]: 155:5 Véase arriba, [p. 139](Part_3_1#p139).
+[^576]: 155:5 Véase arriba, [p. 139](../Part_3_1#p139).
 
-[^577]: 155:6 Véase arriba, [p. 141](Part_3_1#p141).
+[^577]: 155:6 Véase arriba, [p. 141](../Part_3_1#p141).
 
-[^578]: 166:1 El Códice Oxford aquí dice “hasta el Domingo de Pascua”.
+[^578]: 166:1 El Códice Oxford aquí dice «hasta el Domingo de Pascua».

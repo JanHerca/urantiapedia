@@ -58,7 +58,7 @@ Cuando se dice que se compra Soma por una cabra, oro, etc., que se vuelve a comp
 
 La planta Soma, que se supone se compra a los bárbaros del norte, se describe botánicamente en un extracto Âyur-védico, citado en el Dhûrtasvâmi-bhâshya<i>t</i>îkâ (MS. EIH 531, p. 3b), como
 
-<span id="p330">[<sup><small>pág. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 _s<i>yâmâlâmlâ </i>k<i>yâmâlâmlâ </i>n<i>yâmâlâmlâ </i>k<i>yâmâlâmlâ </i>m_salâ, _s<i>yâmâlâmlâ </i>kh<i>yâmâlâmlâ </i>g_anam. 'La enredadera llamada Soma es oscura, agria, sin hojas, lechosa, carnosa en la superficie, produce flema y vómitos, alimento para cabras.'
 

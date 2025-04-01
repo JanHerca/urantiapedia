@@ -72,7 +72,7 @@ Aunque pueda poseer los cinco órganos de los sentidos, aun así es una rara opo
 
 Aunque haya sido instruido en la Ley correcta, aun así es una rara oportunidad de creer en ella; porque muchas personas son herejes: Gautama, etc. (19)
 
-<span id="p44">[<sup><small>pág. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Aunque uno crea en la Ley, rara vez la practicará; porque la gente está absorta en los placeres; Gautama, etc. (20)
 
@@ -96,7 +96,7 @@ Abandona tu riqueza y a tu esposa; has entrado en el estado de los sin hogar; no
 
 Deja a tus amigos y parientes, la gran fortuna que has amasado; no los desees una segunda vez; Gautama, etc. (30)
 
-<span id="p45">[<sup><small>pág. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Ya no hay <i>G</i>ina [^146], pero hay un guía muy estimado que muestra el camino; ahora que estás en el camino correcto, Gautama, ¡ten cuidado todo el tiempo! (31)
 

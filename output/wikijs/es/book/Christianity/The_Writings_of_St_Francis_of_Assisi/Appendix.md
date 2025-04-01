@@ -32,18 +32,18 @@ dateCreated: 2025-1-18T17:54:27Z
   </table>
 </figure>
 
-<span id="p177">[<sup><small>pág. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 APÉNDICE
 ========
 
-<span id="p178">[<sup><small>pág. 178</small></sup>]</span> pág. 179
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span> pág. 179
 
 ### APÉNDICE.
 
 ### ALGUNOS ESCRITOS PERDIDOS, DUDOSOS Y ESPURIOSOS.
 
-![](img/17900.jpg)
+![](../img/17900.jpg)
 
 Sin duda, habríamos esperado que cada fragmento de los escritos de San Francisco se hubiera conservado con esmero a lo largo de los siglos. Pero al considerar las condiciones en las que se compusieron algunos de ellos y las vicisitudes por las que pasaron posteriormente, no debe sorprendernos que no hayan llegado todos hasta nosotros. Al contrario. Pues si creemos a escritores como Ubertino da Casale, hacia finales del siglo XIII se hicieron serios intentos en ciertos sectores para suprimir por completo parte de los escritos del santo. [^579] Sea como fuere, es cierto que varios de estos preciosos documentos desaparecieron con el paso del tiempo. Entre estos tesoros perdidos debemos incluir la primitiva Regla de los Frailes, en la forma aprobada por Inocencio III en 1209. [^580] De nuevo, solo parecen haber sobrevivido dos fragmentos de los numerosos escritos que, como ya se ha mencionado, San Francisco dirigió a las Damas Pobres de la Iglesia de San Francisco. <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> Damián. [^581] Es prácticamente imposible determinar si alguno de estos fragmentos se identifica con una carta escrita por San Francisco para consolar a las Clarisas, de la que leemos en el _Speculum_ y las _Conformidades_. [^582] Celano habla [^583] de una carta a San Antonio de Padua, aparentemente diferente de la que conocemos, y de otras al Cardenal Ugolino. [^584] Así también, Eccleston [^585] habla de cartas escritas a los hermanos en Francia y en Bolonia. [^586]
 
@@ -59,7 +59,7 @@ Al final de su edición de los Opuscula, Wadding recopiló varias «Oraciones de
 
 En algunas colecciones de manuscritos y catálogos de bibliotecas se pueden encontrar ciertas obras atribuidas a San Francisco que son obviamente espurias. Por ejemplo, la _Epistola B. Francisci ad Fr. Bernardum_, presente en al menos dos códices del siglo XV, [^617] no es otra cosa que la carta de San Buenaventura _continens XXV memoralia_. [^618]
 
-Sbaralea [^619] menciona copias de un libro de los “Dichos” de San Francisco en Asís y Ferrara, [^620] pero una búsqueda cuidadosa no ha revelado ningún rastro de ellas. También menciona un manuscrito (B. 31) en la Biblioteca Valliceliana de Roma en el que “los dichos de San Francisco se encuentran con la Regla”, [^621] pero este códice también falta. En esta biblioteca, sin embargo, hay un códice (B. 82, fol. 141 r) que contiene un “Sermón pronunciado por San Francisco al final de su vida”. [^622] La <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> cantidad de citas patrísticas que contiene esta obra es suficiente por sí sola para demostrar su falsedad.
+Sbaralea [^619] menciona copias de un libro de los «Dichos» de San Francisco en Asís y Ferrara, [^620] pero una búsqueda cuidadosa no ha revelado ningún rastro de ellas. También menciona un manuscrito (B. 31) en la Biblioteca Valliceliana de Roma en el que «los dichos de San Francisco se encuentran con la Regla», [^621] pero este códice también falta. En esta biblioteca, sin embargo, hay un códice (B. 82, fol. 141 r) que contiene un «Sermón pronunciado por San Francisco al final de su vida». [^622] La <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> cantidad de citas patrísticas que contiene esta obra es suficiente por sí sola para demostrar su falsedad.
 
 Las Colaciones Francisci cum fratribus, catalogadas entre los manuscritos latinos de la Biblioteca Real de Múnich [^623] como parte de un manuscrito del siglo XV de dicha biblioteca (cod. 11354), son una selección de los Dicta del Beato Hermano Gil, como se desprende del Incipit del prólogo y del texto de la primera colación. [^624] Su atribución a San Francisco es, por lo tanto, un error del catálogo. Las Verba S. Francisci de Paupertate, mencionadas en el mismo catálogo que las contenidas en el Cod. 5998, fol. 189, son un extracto del Capítulo VI de la Segunda Regla de los Frailes Menores. [^625]
 

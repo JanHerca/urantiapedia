@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p204">[<sup><small>pág. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 8, SECCIÓN 27.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^642] Los dos versos que comienzan con 'Vâstoshpati!' (Taitt. Sa<i>m</i>h. III, 4, 10, 1).
 
-<span id="p206">[<sup><small>pág. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ¡Vâstoshpati! Sé nuestro promotor; haz que nuestra riqueza aumente en vacas y caballos, oh Indu (es decir, Soma). Que vivamos libres de decadencia en tu amistad; concédenos tu favor, como un padre a sus hijos. ¡Svâhâ!
 

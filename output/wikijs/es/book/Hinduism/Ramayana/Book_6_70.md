@@ -118,7 +118,7 @@ Que se coloquen tropas cerca de cada puerta,
 Y, armados con fragmentos de la roca
 Y árboles, cada carril y bloque de callejón.
 
-<span id="p475">[<sup><small>pág. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 Así habló Rama: el jefe obedeció,
 Y rápidamente los Vánares se pusieron en formación,
@@ -232,7 +232,7 @@ Con sangre derramada y Lakshman a su lado,
 Y derriba al gran Hanúmán.
 El saqueador de nuestra gloriosa ciudad.' [^990]
 
-<span id="p476">[<sup><small>pág. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 
 
@@ -347,12 +347,12 @@ Quien gobierna el cielo lo pisa con orgullo.
 Detrás de él iba una multitud poderosa.
 De guerreros gigantes altos y fuertes,
 
-<span id="p477">[<sup><small>pág. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
 Sobre elefantes de razas más nobles.
 Con carros, con camellos y con corceles:
 Y, armado con lanza, hacha y espada
-Estaban dispuestos a luchar por su señor. [1](Libro_6_70#fn993)
+Estaban dispuestos a luchar por su señor. [1](../Libro_6_70#fn993)
 
 
 
@@ -455,7 +455,7 @@ Llovió rápidamente sobre la cabeza de Kumbhakrna.
 ¿De quién fue la lanza que detuvo cada proyectil más letal?
 Y cayó inofensivo sobre la llanura.
 
-<span id="p478">[<sup><small>pág. 478</small></sup>]</span>
+<span id="p478"><sup><small>[ p. 478 ]</small></sup></span>
 
 Entonces, con sus ojos furiosos encendidos,
 El gigante se abalanzó sobre el enemigo,
@@ -555,7 +555,7 @@ Su ojo nublado confesó su miedo;
 Sin embargo, a la cabeza de Sugríva envió
 Un pico desde la cima de la montaña de Lanká.
 
-<span id="p479">[<sup><small>pág. 479</small></sup>]</span>
+<span id="p479"><sup><small>[ p. 479 ]</small></sup></span>
 
 La masa que se precipitaba no pudo contenerse:
 Sugriva cayó y quedó inconsciente.
@@ -673,7 +673,7 @@ Y con tu carne saciaré mi hambre.
 Él cesó y Ráma, impertérrito,
 Sobre su cuerda estaban colocadas aquellas flechas
 
-<span id="p480">[<sup><small>pág. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 Que atravesó los majestuosos árboles de Sál,
 Y Báli, rey de los Vánars, mató.
@@ -783,7 +783,7 @@ Mi necio corazón era demasiado atrevido:
 Llevé a mi sabio consejero hasta allí,
 Y cosecharé los frutos de mi ofensa.
 
-<span id="p481">[<sup><small>pág. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 
 
@@ -893,7 +893,7 @@ Pero bien, su club, Devántak, jugó.
 Y apartó cada roca y cada árbol.
 Ni siquiera entonces, por tres enemigos tan asaltados,
 
-<span id="p482">[<sup><small>pág. 482</small></sup>]</span>
+<span id="p482"><sup><small>[ p. 482 ]</small></sup></span>
 
 El corazón de Angad se hundió o se acobardó.
 Él mató a la poderosa bestia que llevaba

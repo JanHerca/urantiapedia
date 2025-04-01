@@ -1,5 +1,5 @@
 ---
-title: "Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”."
+title: "Libro XIX. Tâ Shäng, o «La comprensión plena de la vida»."
 description: "Textos taoístas, vol. 2; Chuang-tzu parte II"
 published: true
 date: 2025-2-12T12:58:58Z
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:58Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 LIBRO XIX.
 
@@ -76,7 +76,7 @@ Kung-nî dijo: «Un hombre no debe retirarse ni ocultarse; no debe avanzar ni ex
 
 14\. Había un tal Sun Hsiû [^50] que fue a la puerta de Dze-pien Khing-dze y le dijo con una extraña inquietud: «Cuando vivía en mi aldea, nadie me hacía caso, pero todos decían que no cultivaba (mis campos); en tiempos de conflicto y ataque, nadie me hacía caso, pero todos decían que no tenía valor. Pero si no cultivaba mis campos, en realidad se debía a que nunca tuve un buen año; y si no serví a nuestro gobernante, se debía a que no se me presentó la oportunidad adecuada para hacerlo. Los aldeanos me han enviado a ocuparme de mis asuntos, y los registradores del distrito me han expulsado; ¿cuál es mi delito? ¡Oh, cielos! ¿Cómo es que he tenido semejante destino?»
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Pien-dze [^51] le dijo: «¿No has oído cómo se cuida el hombre perfecto? Olvida que tiene hígado y bilis. No se preocupa por sus oídos ni por sus ojos. Parece perdido y sin rumbo entre el polvo y la suciedad del mundo, y se siente a gusto en sus ocupaciones, sin que lo perturben los negocios. Podría describirse como alguien que actúa sin depender de lo que hace, como alguien superior sin usar su superioridad para ejercer control alguno. Pero ahora quieres exhibir tu sabiduría para asombrar a los ignorantes; quieres cultivar tu persona para hacer más evidente la inferioridad de los demás; buscas brillar como si llevaras el sol y la luna en tus manos. Que eres completo en tu cuerpo y posees sus nueve aberturas; que no has sufrido ninguna calamidad en medio de tu vida, como sordera, ceguera o cojera, y que aún puedes ocupar tu lugar como hombre entre los demás; en todo esto eres afortunado». ¿Qué tiempo tienes para murmurar contra el Cielo? ¡Vete, señor!
 

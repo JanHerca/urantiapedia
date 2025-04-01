@@ -288,7 +288,7 @@ Me gustan las cosas que me gustan, el resto a varios lugares.
 Partió, y entre ellos se extendió el Aire,
 Y la Tierra, en equilibrio sobre sí misma, colgaba sobre su centro.
 
-“¡Hágase la luz!” dijo Dios; y al instante la luz
+«¡Hágase la luz!» dijo Dios; y al instante la luz
 Etéreo, lo primero, quintaesencia pura,
 Surgido de lo profundo y de su Oriente natal
 Comenzó el viaje a través de la penumbra aérea,
@@ -693,7 +693,7 @@ Cómo empezó este mundo y la faz de las cosas,
 ¿Y qué antes de tu memoria se hizo?
 Desde el principio, esa posteridad,
 Informado por ti, podría saberlo. Si buscas otra cosa
-“Algo que no sobrepase la medida humana, digamos.”
+«Algo que no sobrepase la medida humana, digamos.»
 
 <figure class="table chapter-navigator">
   <table>

@@ -219,7 +219,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^483]: 246:1 O más bien, demasiados, más (de los que se requieren en uno de los sacrificios Soma normales),—âdhvarikebhyo bahutarâni, Sây.
 
-[^484]: 246:2 Es decir, como se desprende de Sâya<i>n</i>a, de aquellas ceremonias que tienen oblaciones supernumerarias o adicionales a las normales relacionadas con ellas. Esta discusión parece introducirse aquí debido a la oblación adicional (la del vaisvânara) ofrecida en la ceremonia de iniciación. Como oblación «adicional» o especial en el Vâ<i>g</i>apeya, Sâya<i>n</i>a se refiere a la papilla de arroz silvestre ([V, 1, 4, 12](Book_3_5_1#v5_1_4_12)); Mientras que en el Râ<i>g</i>asûya se dice que el de Anumati ([V, 2, 3, 4](Book_3_5_2#v5_2_3_4)) pertenece a la misma categoría.
+[^484]: 246:2 Es decir, como se desprende de Sâya<i>n</i>a, de aquellas ceremonias que tienen oblaciones supernumerarias o adicionales a las normales relacionadas con ellas. Esta discusión parece introducirse aquí debido a la oblación adicional (la del vaisvânara) ofrecida en la ceremonia de iniciación. Como oblación «adicional» o especial en el Vâ<i>g</i>apeya, Sâya<i>n</i>a se refiere a la papilla de arroz silvestre ([V, 1, 4, 12](../Book_3_5_1#v5_1_4_12)); Mientras que en el Râ<i>g</i>asûya se dice que el de Anumati ([V, 2, 3, 4](../Book_3_5_2#v5_2_3_4)) pertenece a la misma categoría.
 
 [^485]: 247:1 Estas y las ofrendas subsiguientes forman parte de la Dîkshâ, o ceremonia de iniciación, para el sacrificio de Soma que se realizará tras la finalización del altar de fuego. Esta ceremonia de iniciación comienza el día de luna nueva, una semana después de la preparación del ukhâ, o brasero. Parte integral del primer día de esta ceremonia es encender el fuego en el ukhâ —el Ukhya Agni—, que sirve para alimentar los altares de ladrillo construidos al finalizar el período de iniciación. La Dîkshâ se realiza, por regla general, diariamente durante un año, durante el cual el fuego debe mantenerse encendido en el ukhâ y ser transportado por el sacrificador durante un tiempo cada día. Mientras que el pastel de Agni-Vish<i>n</i>u aquí mencionado es la ofrenda de pastel ordinaria prescrita para el Dîkshâ del sacrificio Soma normal (ver III, 1, 3, 1), el pastel Vai<i>s</i>vânara es peculiar del Agni<i>k</i>ayana.
 
@@ -227,19 +227,19 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^487]: 249:2 A saber, las cinco libaciones Audgrabhana del sacrificio ordinario de Soma, ofrecidas de la manera allí descrita. Véase la parte ii, pág. 20, nota.
 
-[^488]: 249:3 Aunque Agni, o el altar del fuego, se llama comúnmente el de cinco capas (pa<i>ñ</i><i>k</i>a<i>k</i>itika), que consiste como lo hace en cinco capas completas de ladrillos, en la parte superior de estos hay una pequeña pila adicional de dos capas, la inferior (puna<i>s</i><i>k</i>iti) en la forma del hogar Gârhapatya ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.), y la superior, que consiste en dos ladrillos, en la que finalmente se coloca el fuego. Véase [p. 188](Book_3_6_2#p188), nota [4](Book_3_6_2#fn389). Por eso a Agni también se le llama “sapta<i>k</i>itika”.
+[^488]: 249:3 Aunque Agni, o el altar del fuego, se llama comúnmente el de cinco capas (pa<i>ñ</i><i>k</i>a<i>k</i>itika), que consiste como lo hace en cinco capas completas de ladrillos, en la parte superior de estos hay una pequeña pila adicional de dos capas, la inferior (puna<i>s</i><i>k</i>iti) en la forma del hogar Gârhapatya ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.), y la superior, que consiste en dos ladrillos, en la que finalmente se coloca el fuego. Véase [p. 188](../Book_3_6_2#p188), nota [4](../Book_3_6_2#fn389). Por eso a Agni también se le llama «sapta<i>k</i>itika».
 
 [^489]: 250:1 A saber, las siete libaciones especiales Audgrabha<i>n</i>a del Agni<i>k</i>ayana.
 
 [^490]: 252:1 Es decir, debajo de la capa de mu<i>ñ</i><i>g</i>a. Tanto el junco como el cáñamo deben triturarse y reducirse a polvo antes de esparcirlos en el brasero.
 
-[^491]: 254:1 Véase [p. 249](Book_3_6_6#p249), nota [3](Book_3_6_6#fn486).
+[^491]: 254:1 Véase [p. 249](../Book_3_6_6#p249), nota [3](../Book_3_6_6#fn486).
 
-[^492]: 254:2 El fuego que finalmente se colocará en el nuevo hogar Gârhapatya ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.) —desde donde se debe encender el Âhavanîya en el gran altar de fuego— se debe producir en el ukhâ, o sartén, como si estuviera en su matriz; pero el material (hierba y cáñamo) que ya se ha puesto en la sartén, solo se debe encender con el resplandor del fuego en el que se ha colocado la sartén, sin que se apliquen brasas encendidas al combustible dentro de la sartén.
+[^492]: 254:2 El fuego que finalmente se colocará en el nuevo hogar Gârhapatya ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.) —desde donde se debe encender el Âhavanîya en el gran altar de fuego— se debe producir en el ukhâ, o sartén, como si estuviera en su matriz; pero el material (hierba y cáñamo) que ya se ha puesto en la sartén, solo se debe encender con el resplandor del fuego en el que se ha colocado la sartén, sin que se apliquen brasas encendidas al combustible dentro de la sartén.
 
-[^493]: 255:1 El dativo «ahi<i>m</i>sâyai» pertenece, sin duda, a la primera oración del párrafo («está empapado en ghee»), ya que las cláusulas intermedias se insertan para su explicación. Para una construcción similar, véase arriba, [p. 198](Book_3_6_3#p198), nota [2](Book_3_6_3#fn407).
+[^493]: 255:1 El dativo «ahi<i>m</i>sâyai» pertenece, sin duda, a la primera oración del párrafo («está empapado en ghee»), ya que las cláusulas intermedias se insertan para su explicación. Para una construcción similar, véase arriba, [p. 198](../Book_3_6_3#p198), nota [2](../Book_3_6_3#fn407).
 
-[^494]: 255:2 Véase [VI, 7, 2, 1](Book_3_6_7#v6_7_2_1).
+[^494]: 255:2 Véase [VI, 7, 2, 1](../Book_3_6_7#v6_7_2_1).
 
 [^495]: 255:3 El orden invertido de las palabras «<i>s</i>a<i>n</i>â <i>g</i>arâyu» es peculiar. Parece haberse recurrido a él con el fin de mantener unidos los dos pares de temas, «mu<i>ñ</i><i>g</i>â<i>h</i>\-<i>s</i>a<i>n</i>â<i>h</i>» y «<i>g</i>arâyu-ulbam».
 
@@ -247,16 +247,16 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^497]: 260:1 O bien, su poder espiritual y político, su sacerdocio y nobleza.
 
-[^498]: 261:1 Véase [VI, 7, 4, 1](Book_3_6_7#v6_7_4_1) seq.
+[^498]: 261:1 Véase [VI, 7, 4, 1](../Book_3_6_7#v6_7_4_1) seq.
 
 [^499]: 261:2 O bien, libera el habla en él.
 
-[^500]: 261:3 Véase arriba, [VI, 6, 3, 8](Book_3_6_6#v6_6_3_8).
+[^500]: 261:3 Véase arriba, [VI, 6, 3, 8](../Book_3_6_6#v6_6_3_8).
 
 [^501]: 261:4 Lit. 'convertido en libación para él'.
 
-[^502]: 263:1 Véase [VI, 5, 2, 22](Book_3_6_5#v6_5_2_22).
+[^502]: 263:1 Véase [VI, 5, 2, 22](../Book_3_6_5#v6_5_2_22).
 
-[^503]: 263:2 Véase [VI, 5, 3, 7](Book_3_6_5#v6_5_3_7).
+[^503]: 263:2 Véase [VI, 5, 3, 7](../Book_3_6_5#v6_5_3_7).
 
-[^504]: 264:1 Véase [VI, 6, 1, 3](Book_3_6_6#v6_6_1_3) seq.
+[^504]: 264:1 Véase [VI, 6, 1, 3](../Book_3_6_6#v6_6_1_3) seq.

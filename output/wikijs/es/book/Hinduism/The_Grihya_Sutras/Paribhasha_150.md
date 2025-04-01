@@ -327,7 +327,7 @@ Un Brâhma<i>n</i>a siempre debe ofrecer el Agnihotra al principio o al final de
 
 Estos sacrificios Pâkaya<i>g</i><i>g</i>as, Havirya<i>g</i><i>g</i>as o ish<i>g</i>is y Soma son enumerados por Gautama [^800], de la siguiente manera:
 
-<span id="p358">[<sup><small>pág. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Siete | Siete | Siete
 --- | --- | ---

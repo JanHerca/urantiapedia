@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 1\. No entraré aquí en el tema de la cronología de China más allá de lo necesario para demostrar que no existe ninguna dificultad cronológica para aceptar que los documentos del Shû, que acabo de especificar, poseen la antigüedad que se les atribuye.
 

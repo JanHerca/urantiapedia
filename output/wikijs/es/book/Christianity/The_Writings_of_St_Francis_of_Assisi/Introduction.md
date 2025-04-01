@@ -43,11 +43,11 @@ Decir que los escritos de San Francisco reflejan su personalidad y su espíritu 
 
 Por importante que sea el aspecto doctrinal de los escritos de San Francisco para quienes deseen comprender su vida —ya que «el impulso de la acción se encuentra en la creencia, y la conducta, en última instancia, descansa en la convicción»—, resulta ajeno al objeto del presente volumen. Me interesa aquí el aspecto literario e histórico de estos escritos. Baste decir que la doctrina de San Francisco, [^5] que recibió, por así decirlo, el divino _Imprimatur_ en las alturas de La Verna dos años antes de su muerte, [^6] no es más ni menos que una paráfrasis del Sermón de la Montaña. En ningún otro lugar se puede encontrar una literalidad más simple en el seguimiento de la «pobreza, humildad y santo Evangelio del Señor Jesús» que en los escritos de San Francisco, y cualquier intento de interpretar en ellos las doctrinas peculiares del abad Joaquín de Flora, los Humillados, los Pobres <span id="pxii">[<sup><small>p. xii</small></sup>]</span> de Lyon, o de cualquiera de sus seguidores anónimos, es tan injusto como injustificable. Huelga añadir que los escritos de San Francisco no contienen ningún mensaje nuevo. De hecho, la frecuencia con la que San Francisco insiste oportuna y despreocupadamente en ciertos aspectos muy antiguos y familiares de las verdades eternas, no es improbable que canse al lector promedio que no se detiene a leer entre líneas. Esta tendencia a repetirse, habitual en San Francisco, no necesariamente indica escasez de ideas. Al contrario. Su naturaleza sencilla e infantil se aferró a tres o cuatro ideas principales «tomadas de las palabras del Señor», que le parecían suficientes, y las incorporó en sus escritos una y otra vez, adaptándolas a las necesidades de los diferentes grupos a los que se dirigía, tal como él las entendía. Si recordamos entonces las circunstancias en las que San Francisco escribió y la condición de aquellos a quienes sus escritos estaban destinados inicialmente, lejos de aburrirnos, podemos aprender algo de cada nueva repetición.
 
-Porque San Francisco amaba a Jesús y su Pasión Eucarística con ardor, entusiasmo, casi desesperación —para usar los adjetivos de Bossuet—, su compasión se extendía a toda criatura que sufría o se regocijaba. Sus escritos son elocuentes testimonios de esta solicitud de largo alcance y abarcadora. Podría decirse que abarcan toda la gama. Testigo es la suave nota tocada en la carta al Hermano León y el <span id="pxiii">[<sup><small>p. xiii</small></sup>]</span> tono profundamente masculino en el que se presenta el Testamento. En general, sin embargo, sus escritos se clasifican naturalmente en tres categorías: [^7] aquellos, como las Reglas, que representan a San Francisco como legislador; aquellos, como la Carta a un Ministro, que nos muestran a San Francisco como un padre espiritual; y aquellos, como las Alabanzas y Salutaciones, en los que vemos a San Francisco como lo vio su primer biógrafo: “no tanto un hombre que ora como la oración misma”. [^8]
+Porque San Francisco amaba a Jesús y su Pasión Eucarística con ardor, entusiasmo, casi desesperación —para usar los adjetivos de Bossuet—, su compasión se extendía a toda criatura que sufría o se regocijaba. Sus escritos son elocuentes testimonios de esta solicitud de largo alcance y abarcadora. Podría decirse que abarcan toda la gama. Testigo es la suave nota tocada en la carta al Hermano León y el <span id="pxiii">[<sup><small>p. xiii</small></sup>]</span> tono profundamente masculino en el que se presenta el Testamento. En general, sin embargo, sus escritos se clasifican naturalmente en tres categorías: [^7] aquellos, como las Reglas, que representan a San Francisco como legislador; aquellos, como la Carta a un Ministro, que nos muestran a San Francisco como un padre espiritual; y aquellos, como las Alabanzas y Salutaciones, en los que vemos a San Francisco como lo vio su primer biógrafo: «no tanto un hombre que ora como la oración misma». [^8]
 
 Creo que fue Matthew Arnold quien primero presentó a San Francisco a los lectores ingleses como un tipo literario [^9], un tipo tan distintivo y formal como el autor de la Divina Comedia. Pero por muy auténtico poeta que fuera —y sin San Francisco no habría Dante—, es cierto que el Poverello no era en ningún sentido un hombre de letras. Estaba demasiado poco familiarizado con las leyes de la composición como para avanzar mucho en esa dirección. Sus primeros años fueron una mala preparación para el estudio, y siempre permaneció relativamente ajeno a la erudición eclesiástica y clásica de su tiempo, aunque probablemente su cultura era más amplia de lo que podríamos concluir de sus repetidas declaraciones de ignorancia y los comentarios despectivos de algunos de sus primeros biógrafos. A través de su madre, parece haber adquirido cierta familiaridad con el francés. [^10] Recibió instrucción elemental en lectura y escritura de los sacerdotes de San Giorgio, quienes también le enseñaron suficiente latín para que pudiera escribirlo años después, de alguna manera, [^11] y comprender el ritual de la Iglesia y sus himnos, que solía cantar en el camino. Pero al considerar la formación literaria de San Francisco, debemos considerar en gran medida la educación que recibió en la escuela de los trovadores, quienes a finales del siglo XII buscaban el refinamiento en Italia. [^12] La imaginería de los chansons de gestes parece haber ejercido una influencia perdurable en la vida y los escritos de San Francisco, como lo demuestra su propio relato de la Dama Pobreza, que más tarde inspiró la pluma de Dante y el pincel de Giotto. Testigos también son sus frecuentes alusiones a los Caballeros de la Mesa Redonda; Su deseo de que sus frailes se convirtieran en «los juglares del Señor», y su hábito de cortesía se extendía incluso a la Hermana Muerte. [^13] Por otro lado, San Francisco era, cuanto menos, original. Sus escritos abundan no solo en alegorías y personificaciones, sino también en conceptos pintorescos y <span id="pxv">[<sup><small>p. xv</small></sup>]</span> deducciones ingenuas. Su argumento final es a menudo un texto de la Sagrada Escritura, que utiliza con una familiaridad y libertad del todo notables. De hecho, hay partes de sus escritos en las que el entretejido de frases bíblicas es tan intrincado que casi desafía cualquier intento de indicarlas por referencias, tanto más cuanto que el lenguaje bíblico adoptado por San Francisco no siempre se toma de la Biblia, sino a menudo de la Liturgia, el Misal y el Breviario. [^14] Por lo demás, como dice Celano, «dejó los adornos vacíos, los métodos indirectos de hablar y todo lo perteneciente a la pompa y al ostentación a quienes están dispuestos a perecer; por su parte, no se preocupó por la corteza, sino por la médula; no por la cáscara, sino por la nuez; no por lo múltiple, sino por el único bien soberano». [^15]
 
-A juzgar por los dos solitarios fragmentos autógrafos suyos que nos han llegado, [^16] San Francisco no era en absoluto un escritor hábil. Sea como fuere, San Buenaventura claramente da a entender que tenía un secretario, [^17] a quien <span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> le dictaba notas, y afirma, junto con Celano, que el santo firmaba los documentos que requerían su firma con el “signo _thau_”, o _T_ mayúscula. [^18] Si la práctica de San Francisco de firmar de esta manera tiene alguna relación con la visión del Hermano Pacífico de la _T_ mayúscula, [^19] es una cuestión de conjetura y de poca importancia. Lo cierto es que San Francisco escribió poco. Los escritos más característicos que se conservan son muy breves, de estilo extremadamente sencillo y sin rastro alguno de pedantería. Si algunas de las piezas más extensas parecen mostrar la maestría de una mano más hábil que la de San Francisco, _idiota et simplex_, no debemos por ello dudar de su autenticidad. Sea cual sea la ayuda que haya recibido de César de Espira o de otro para pulir y embellecer algunas de sus composiciones posteriores, nadie que examine estos escritos con atención puede dudar de que sean obra del mismísimo gran santo.
+A juzgar por los dos solitarios fragmentos autógrafos suyos que nos han llegado, [^16] San Francisco no era en absoluto un escritor hábil. Sea como fuere, San Buenaventura claramente da a entender que tenía un secretario, [^17] a quien <span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> le dictaba notas, y afirma, junto con Celano, que el santo firmaba los documentos que requerían su firma con el «signo _thau_», o _T_ mayúscula. [^18] Si la práctica de San Francisco de firmar de esta manera tiene alguna relación con la visión del Hermano Pacífico de la _T_ mayúscula, [^19] es una cuestión de conjetura y de poca importancia. Lo cierto es que San Francisco escribió poco. Los escritos más característicos que se conservan son muy breves, de estilo extremadamente sencillo y sin rastro alguno de pedantería. Si algunas de las piezas más extensas parecen mostrar la maestría de una mano más hábil que la de San Francisco, _idiota et simplex_, no debemos por ello dudar de su autenticidad. Sea cual sea la ayuda que haya recibido de César de Espira o de otro para pulir y embellecer algunas de sus composiciones posteriores, nadie que examine estos escritos con atención puede dudar de que sean obra del mismísimo gran santo.
 
 Desde un punto de vista literario, quizás el fragmento más cuidadosamente compuesto de los escritos de San Francisco que nos ha llegado sea la representación realista de la muerte del avaro en la carta "A todos los fieles". Sin embargo, más interesante para el estudioso es el "Cántico del Sol", no solo como ejemplo de la sencilla y espontánea rima dialectal umbría que San Francisco enseñó a sus seguidores poetas a sustituir por la versificación artificial <span id="pxvii">[<sup><small>p. xvii</small></sup>]</span> de los poetas cortesanos latinos y provenzales, sino también por la luz que arroja sobre el método literario de San Francisco, si es que se le puede llamar método. Su estilo fragmentario de componer según le dictaba el espíritu se manifiesta también en una obra muy diferente, la Primera Regla, como lo demuestran las modificaciones y adiciones que sufrió esta extraña legislación durante los catorce años de vigencia. [^20] La práctica de San Francisco de volver a sus escritos antiguos, retocándolos y remodelándolos, trabajándolos e insertando partes de ellos en los nuevos, ayuda mucho a explicar las dificultades que de otro modo surgirían de la semejanza entre sus diferentes composiciones.
 
@@ -65,7 +65,7 @@ El primer lugar entre estas colecciones corresponde al manuscrito número 338, a
 
 ![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/_01800.jpg)
 
-PÁGINA DEL MANUSCRITO DE ASÍS 338 QUE CONTIENE LA CONCLUSIÓN DE LA “SALUTACIÓN DE LAS VIRTUDES” Y EL COMIENZO DEL “CÁNTICO DEL SOL”. (Véase página [xviii](#pxviii). <span id="pxix">[<sup><small>p. xix</small></sup>]</span> el Sacro Convento, pero ahora en la biblioteca municipal de Asís. Los críticos que han estudiado este códice temprano no están de acuerdo en cuanto a su edad. [^23] Pero data al menos de principios del siglo XIV. Incluye once de las diecinueve obras aquí traducidas. Están contenidas en tres libros de pergamino en el siguiente orden: fol. 12-16, La Segunda Regla de los Frailes Menores; [^24] fol. 16-18, El Testamento; [^25] fol. 18-23, Admoniciones; [^26] fol. 23-28, La Carta a todos los fieles; [^27] fol. 28-31, La Carta al Capítulo General; [^28] fol. 31-32, Instrucción a los clérigos sobre la Sagrada Eucaristía; [^29] fol. 32, Saludo a las Virtudes; [^30] fol. 33, El Cántico del Sol; [^31] fol. 34, Paráfrasis del Padrenuestro; [^32] fol. 34-43, El Oficio de la Pasión; [^33] y fol. 43, El Reglamento para las Ermitas. [^34]
+PÁGINA DEL MANUSCRITO DE ASÍS 338 QUE CONTIENE LA CONCLUSIÓN DE LA «SALUTACIÓN DE LAS VIRTUDES» Y EL COMIENZO DEL «CÁNTICO DEL SOL». (Véase página [xviii](#pxviii). <span id="pxix">[<sup><small>p. xix</small></sup>]</span> el Sacro Convento, pero ahora en la biblioteca municipal de Asís. Los críticos que han estudiado este códice temprano no están de acuerdo en cuanto a su edad. [^23] Pero data al menos de principios del siglo XIV. Incluye once de las diecinueve obras aquí traducidas. Están contenidas en tres libros de pergamino en el siguiente orden: fol. 12-16, La Segunda Regla de los Frailes Menores; [^24] fol. 16-18, El Testamento; [^25] fol. 18-23, Admoniciones; [^26] fol. 23-28, La Carta a todos los fieles; [^27] fol. 28-31, La Carta al Capítulo General; [^28] fol. 31-32, Instrucción a los clérigos sobre la Sagrada Eucaristía; [^29] fol. 32, Saludo a las Virtudes; [^30] fol. 33, El Cántico del Sol; [^31] fol. 34, Paráfrasis del Padrenuestro; [^32] fol. 34-43, El Oficio de la Pasión; [^33] y fol. 43, El Reglamento para las Ermitas. [^34]
 
 La misma colección, ya sea total o parcialmente, se encuentra en la conocida compilación del siglo XIV de _materia seráfica_, conocida como _Fac secundum exemplar_ por las palabras iniciales de su prólogo, y que puede encontrarse en el <span id="pxx">[<sup><small>p. xx</small></sup>]</span> Manuscrito Vaticano 4354, el Manuscrito de Berlín 196, el Manuscrito de Lemberg 131, [^35] y el Manuscrito de Liegnitz 12. [^36] Los Manuscritos de Mazarino 989 y 1743, [^37] así como el Manuscrito de Düsseldorf 132, [^38] también pueden considerarse pertenecientes a esta familia de códices que presentan los escritos de San Francisco prácticamente en el mismo número y orden que Mariano de Florencia adopta en su _Crónica_, compuesta alrededor de 1500. [^39]
 
@@ -81,7 +81,7 @@ A principios del siglo XVI se publicaron dos compilaciones distintas, cada una c
 
 El honor de haber realizado el primer intento serio de recopilar todos los escritos de San Francisco corresponde al renombrado Analista de la Orden, el Padre Luke Wadding. [^52] Su célebre edición de los Opuscula [^53] se distribuye en tres partes: la Parte I contiene las Cartas, las Oraciones y el Testamento; la Parte II, las Reglas; y la Parte III, las Conferencias Monásticas, el Oficio de la Pasión y los Cánticos, seguidos de los Apotegmas, Coloquios, Profecías, Parábolas, Ejemplos, Bendiciones, etc.
 
-La edición de Wadding de los Opuscula difiere principalmente de todas las colecciones anteriores en que, mientras que esta última contenía solo aquellas piezas que, tanto en materia como en forma, eran obra de San Francisco, Wadding consideró justificado incluir entre los escritos de San Francisco muchos dictámenes del santo que se encuentran en las Leyendas tempranas. Por ejemplo, San Buenaventura [^54] relata sobre San Francisco: «Non enim securum _esse putabat_ earum formarum introrsus haurire imagines». <span id="pxxiv">[<sup><small>p. xxiv</small></sup>]</span> Wadding, en su sexta Conferencia, al cambiar _putabat_ por _puto_, presenta este pasaje como la _ipsissima verba_ de San Francisco. Nuevamente, en la decimoséptima Conferencia, cambia por completo la forma de lo que San Buenaventura relata en otro lugar [^55] sobre San Francisco cuando sustituye “Officium praedicationis Patri misericordiarum omni sacrificio _est_ Acceptius” por “Istius Miserationis officium Patri misericordiarum omni _firmabat_ Acceptius”.
+La edición de Wadding de los Opuscula difiere principalmente de todas las colecciones anteriores en que, mientras que esta última contenía solo aquellas piezas que, tanto en materia como en forma, eran obra de San Francisco, Wadding consideró justificado incluir entre los escritos de San Francisco muchos dictámenes del santo que se encuentran en las Leyendas tempranas. Por ejemplo, San Buenaventura [^54] relata sobre San Francisco: «Non enim securum _esse putabat_ earum formarum introrsus haurire imagines». <span id="pxxiv">[<sup><small>p. xxiv</small></sup>]</span> Wadding, en su sexta Conferencia, al cambiar _putabat_ por _puto_, presenta este pasaje como la _ipsissima verba_ de San Francisco. Nuevamente, en la decimoséptima Conferencia, cambia por completo la forma de lo que San Buenaventura relata en otro lugar [^55] sobre San Francisco cuando sustituye «Officium praedicationis Patri misericordiarum omni sacrificio _est_ Acceptius» por «Istius Miserationis officium Patri misericordiarum omni _firmabat_ Acceptius».
 
 Así, en la edición de Wadding, junto a los escritos indiscutibles de San Francisco, encontramos extractos dudosos, incluso espurios, de diferentes fuentes atribuidas al Seráfico Padre. Siempre será lamentable que Wadding, en lugar de seguir los manuscritos más antiguos que tenía a mano, se contentara con transcribir las partes incompletas y a menudo interpoladas que encontró en compilaciones de segunda mano, como la de Marcos de Lisboa. Desde nuestro punto de vista, su obra está viciada por una investigación imperfecta y una crítica poco fiable. Pero si Wadding fue más profuso que prudente al atribuir fragmentos franciscanos al Fundador, cabe recordar que escribió en una época en la que incluso las mentes más eminentes se preocupaban poco por la exactitud literaria. Pues lo que ahora glorificamos como «crítica científica» aún no se había puesto de moda. Por lo tanto, los fallos de la edición de Wadding de los Opuscula se deben principalmente a la <span id="pxxv">[<sup><small>p. xxv</small></sup>]</span> su tiempo; y considerando las dificultades que debía superar, el resultado de su labor fue muy loable. Y si nunca hubiera emprendido la tarea de recopilar los escritos de San Francisco, cualquier intento nuestro con ese fin sería sin duda más arduo, y quizás no tan fructífero.
 
@@ -149,7 +149,7 @@ Fiesta de Santa Inés de Asís, 1905.
 
 [^4]: x:1 Ver _Folletos_. Ed. Quaracchi, pág. seis.
 
-[^5]: xi:1 Véase sobre este tema el largo estudio del cardenal Gabriel de Treio, dado por Wadding en los _Opuscula_. El título completo es: “Gabriel, Divinas Miserias de SRE Tituli S. Pancratii Presbítero Cardenal de Tres, en la Misa Epístola a R. Admodum P. Lucam Wadingum”. El texto en esencia lo da el P. Apollinaris, OFM, en su _Doctrina espiritual de S. Francisco_ (París, 1878). Véase también la _Bibliotheca Veterum Patrum_ (Colonia, 1618), que se encuentra entre las mejores de San Pedro. Francisco uno de los Padres.
+[^5]: xi:1 Véase sobre este tema el largo estudio del cardenal Gabriel de Treio, dado por Wadding en los _Opuscula_. El título completo es: «Gabriel, Divinas Miserias de SRE Tituli S. Pancratii Presbítero Cardenal de Tres, en la Misa Epístola a R. Admodum P. Lucam Wadingum». El texto en esencia lo da el P. Apollinaris, OFM, en su _Doctrina espiritual de S. Francisco_ (París, 1878). Véase también la _Bibliotheca Veterum Patrum_ (Colonia, 1618), que se encuentra entre las mejores de San Pedro. Francisco uno de los Padres.
 
 [^6]: xi:2
 
@@ -160,15 +160,15 @@ _Paraíso_, XI-114.
 
 [^7]: xiii:1 Véase Boehmer, _Analects_, pág. xlv.
 
-[^8]: xiii:2 “No tanto orar como ser hecho oración.” 2 Cel. 3, 51.
+[^8]: xiii:2 «No tanto orar como ser hecho oración.» 2 Cel. 3, 51.
 
 [^9]: xiii:3 Véase su capítulo sobre el «Sentimiento religioso pagano y medieval» en los _Ensayos sobre la crítica_. Tercera edición, Macmillan, 1875, págs. 243-248.
 
 [^10]: xiv:1 Véase _Leg. III Soc._, 10.
 
-[^11]: xiv:2 Eccleston habla de su “falso latín”. Véase más abajo, [p. 132](Part_2_6#p132).
+[^11]: xiv:2 Eccleston habla de su «falso latín». Véase más abajo, [p. 132](../Part_2_6#p132).
 
-[^12]: xiv:3 Algunos de los más grandes trovadores de Provenza residían entonces en Italia. Sobre sus viajes e influencia allí, véase Fauriel, _Histoire de la poésie Provençale_, t. II, y tres artículos del mismo autor en la “Bibliothèque de l'École des Chartes”, t. III y IV. Fragmentos de sus poemas los aporta Monaci: _Testi antichi provenzali_ (Roma, 1889).
+[^12]: xiv:3 Algunos de los más grandes trovadores de Provenza residían entonces en Italia. Sobre sus viajes e influencia allí, véase Fauriel, _Histoire de la poésie Provençale_, t. II, y tres artículos del mismo autor en la «Bibliothèque de l'École des Chartes», t. III y IV. Fragmentos de sus poemas los aporta Monaci: _Testi antichi provenzali_ (Roma, 1889).
 
 [^13]: xiv:4 Véase Görres: _El Santo Francisco de Asís, un trovador (Ratisboa, 1879).
 
@@ -176,15 +176,15 @@ _Paraíso_, XI-114.
 
 [^15]: xv:2 1 Cel. 1.
 
-[^16]: xv:3 Véase más abajo, [p. 130](Part_2_6#p130).
+[^16]: xv:3 Véase más abajo, [p. 130](../Part_2_6#p130).
 
 [^17]: xv:4 M. Sabatier (_Vie de S. François_, p. 5) sugiere que el hermano León puede haber actuado en esta capacidad, e invoca la autoridad de Bernardo de Besse para probarlo.
 
-[^18]: xvi:1 Para el testimonio de San Buenaventura y Celano, véase más abajo, [p. 147](Part_3_4#p147).
+[^18]: xvi:1 Para el testimonio de San Buenaventura y Celano, véase más abajo, [p. 147](../Part_3_4#p147).
 
 [^19]: xvi:2 Véase Tratado. Sobre los milagros, _Anal. Tornillo. xviii, pág. 115.
 
-[^20]: xvii:1 Véase más abajo, [p. 27](Part_1_4#p27).
+[^20]: xvii:1 Véase más abajo, [p. 27](../Part_1_4#p27).
 
 [^21]: xviii:1 Véase Lemmens: Sobre los dos tipos de vida de SP Francisco en _Doct. Hormiga. Franc._, P. II, pág. 9; y de Kerval: Les Sources de l'histoire de S. François en _Bulletino Critico_, fasc. Yo, pág. 3.
 
@@ -192,27 +192,27 @@ _Paraíso_, XI-114.
 
 [^23]: xix:1 Véase Ehrle, SJ: Las escrituras históricas del monasterio de San Francisco en Asís en _Archiv für Litteratur_, etc., t. Yo, pág.484; Monseñor. Faloci Pulignani en _Miscelánea. Francescana_, t. VI, pág. 46; M. Sabatier: _Vida de S. François_, I, p. 370; y el Profesor Alessandri: _Inventario de los manuscritos de la biblioteca de la conv. de San Francisco de Asís_, p. 57.
 
-[^24]: xix:2 Véase página [64](Part_1_4#p64).
+[^24]: xix:2 Véase página [64](../Part_1_4#p64).
 
-[^25]: xix:3 Véase página [81](Part_1_6#p81).
+[^25]: xix:3 Véase página [81](../Part_1_6#p81).
 
-[^26]: xix:4 Véase la página [5](Part_1_1#p5).
+[^26]: xix:4 Véase la página [5](../Part_1_1#p5).
 
-[^27]: xix:5 Véase página [98](Part_2_1#p98).
+[^27]: xix:5 Véase página [98](../Part_2_1#p98).
 
-[^28]: xix:6 Véase la página [111](Part_2_2#p111).
+[^28]: xix:6 Véase la página [111](../Part_2_2#p111).
 
-[^29]: xix:7 Véase página [23](Part_1_3#p23).
+[^29]: xix:7 Véase página [23](../Part_1_3#p23).
 
-[^30]: xix:8 Véase la página [20](Part_1_2#p20).
+[^30]: xix:8 Véase la página [20](../Part_1_2#p20).
 
-[^31]: xix:9 Véase página [152](Part_3_5#p152).
+[^31]: xix:9 Véase página [152](../Part_3_5#p152).
 
-[^32]: xix:10 Véase la página [139](Part_3_1#p139).
+[^32]: xix:10 Véase la página [139](../Part_3_1#p139).
 
-[^33]: xix:11 Véase la página [155](Part_3_6#p155).
+[^33]: xix:11 Véase la página [155](../Part_3_6#p155).
 
-[^34]: xix:12 Véase página [89](Part_1_7#p89).
+[^34]: xix:12 Véase página [89](../Part_1_7#p89).
 
 [^35]: xx:1 Véase _Speculum Perfectionis_ (ed. Sabatier), pág. clxxvi, para la descripción de estos tres manuscritos.
 
@@ -224,7 +224,7 @@ _Paraíso_, XI-114.
 
 [^39]: xx:5 La _Crónica_ de Mariano, tan frecuentemente citada por Wadding, se ha perdido. Constaba de cinco grandes volúmenes en folio. En el primero de ellos, presenta el catálogo de los escritos de San Francisco antes mencionado, que se reproduce en la edición de Quaracchi después de Wadding. No he considerado necesario traducirla aquí. Sobre Mariano y sus obras, véase Sabatier: Bartholi, pág. 137.
 
-[^40]: xx:6 En este MS. véase Minocchi: “La leyenda de los tres amigos”, pág. 13; También sus “Nuevos Estudios” en el _Archiv. Ital._, t. XXIV, pág. 266; véase también Sabatier: Bartholomew, p. cxxxv.
+[^40]: xx:6 En este MS. véase Minocchi: «La leyenda de los tres amigos», pág. 13; También sus «Nuevos Estudios» en el _Archiv. Ital._, t. XXIV, pág. 266; véase también Sabatier: Bartholomew, p. cxxxv.
 
 [^41]: xx:7 Sobre este manuscrito, véase Lemmens: _Doct. Ant. Franc._, P. III, P. 52.
 
@@ -234,9 +234,9 @@ _Paraíso_, XI-114.
 
 [^44]: xxi:2 Mis referencias a las _Conformidades_ son a la edición de Milán de 1510. La edición publicada en 1590, especialmente en la parte histórica, está mutilada y corrompida en casi cada página, como puedo atestiguar personalmente después de una comparación de ella con varias versiones antiguas de manuscritos.
 
-[^45]: xxi:3 Véase más abajo, [p. 121](Part_2_3#p121).
+[^45]: xxi:3 Véase más abajo, [p. 121](../Part_2_3#p121).
 
-[^46]: xxi:4 Véase más abajo, [p. 118](Part_2_2#p118).
+[^46]: xxi:4 Véase más abajo, [p. 118](../Part_2_2#p118).
 
 [^47]: xxii:1 Se imprimió en Venecia «expensis domini Jordani de Dinslaken per Simonem de Lucre» en 1504, y en Metz «per Jasparem Hochffeder» en 1509. Ambas ediciones son idénticas. Fue republicada por Spoelberch en Amberes en 1620.
 
@@ -272,7 +272,7 @@ _Paraíso_, XI-114.
 
 [^63]: xxv:8 _Obras completas de la BPS Francisco de Asís según la colección del P. Wadingo_. Ternel, 1902.
 
-[^64]: xxvi:1 “Opuscula Sancti Patris Francisci Assisiensis sec. Códices manuscritos emendata y denuo edita a PP. Collegii S. Bonaventurae. Ad Claras Aquas (Quaracchi), 1904.”
+[^64]: xxvi:1 «Opuscula Sancti Patris Francisci Assisiensis sec. Códices manuscritos emendata y denuo edita a PP. Collegii S. Bonaventurae. Ad Claras Aquas (Quaracchi), 1904.»
 
 [^65]: xxviii:1 H. Boehmer: Analectas sobre la historia de Francisco de Asís. Opuscula de San Francisco_. Tubinga y Leipzig, 1904.
 
@@ -284,7 +284,7 @@ _Paraíso_, XI-114.
 
 [^69]: xxix:2 Examen de algunas obras recientes sobre los Opúsculos de San Francisco, en _Opuscules_, fasc. INCÓGNITA.
 
-[^70]: xxix:3 “Los escritos de San Francisco”, por Montgomery Carmichael, en el _Month_, enero de 1904.
+[^70]: xxix:3 «Los escritos de San Francisco», por Montgomery Carmichael, en el _Month_, enero de 1904.
 
 [^71]: xxix:4 Véase _Las palabras de San Francisco_, por Anne Macdonell, pág. 7, Londres, 1904.
 

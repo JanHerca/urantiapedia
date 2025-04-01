@@ -57,7 +57,7 @@ En un escrito se dice: «Antiguamente, cuando la tierra era joven, flotaba como 
 
 En un escrito se dice: «Cuando el Cielo y la Tierra se encontraban en un estado de caos, primero existió una deidad, cuyo nombre era Umashi-ashi-kabi-hiko-ji no Mikoto. Después, estaba Kuni-soko-tachi no Mikoto».
 
-En un escrito se dice: “Cuando el Cielo y la Tierra comenzaron, se produjeron deidades juntas, cuyos nombres fueron, primero, Kuni-no-toko-tachi no Mikoto, y luego Kuni no satsuchi no Mikoto”. Se afirma además: “Los nombres de los dioses que se produjeron en la Llanura del Alto Cielo fueron Ama no mi-naka-nushi no Mikoto, luego Taka-mi-musubi no Mikoto, luego Kami-mi-musubi no Mikoto”.
+En un escrito se dice: «Cuando el Cielo y la Tierra comenzaron, se produjeron deidades juntas, cuyos nombres fueron, primero, Kuni-no-toko-tachi no Mikoto, y luego Kuni no satsuchi no Mikoto». Se afirma además: «Los nombres de los dioses que se produjeron en la Llanura del Alto Cielo fueron Ama no mi-naka-nushi no Mikoto, luego Taka-mi-musubi no Mikoto, luego Kami-mi-musubi no Mikoto».
 
 En un escrito se dice: «Antes de que se crearan el Cielo y la Tierra, existía algo comparable a una nube que flotaba sobre el mar. No tenía un punto de anclaje para su raíz. En medio de esto, se generó algo que se asemejaba a un retoño de junco cuando se origina en el barro. Este se transformó inmediatamente en forma humana y se llamó Kuni no toko-tachi no Mikoto».
 
@@ -83,7 +83,7 @@ Con quien dormí
 
 En las islas de los patos salvajes —
 
-“Los pájaros del horizonte.”
+«Los pájaros del horizonte.»
 
 Después de esto, cuando Tovo-tama-hime supo lo buen chico que era su hijo, se conmovió profundamente y deseó regresar y criarlo ella misma. Pero no pudo hacerlo correctamente, así que envió a su hermana menor, Tama-yori-hime, para que lo criara. Cuando Toyotama-hime envió a Tama-yori-hime, ella ofreció (a Hoho-demi no Mikoto) el siguiente verso como respuesta:
 
@@ -95,7 +95,7 @@ De joyas rojas,
 
 Pero los que lleva mi señor...
 
-“Son ellos los que son admirables.”
+«Son ellos los que son admirables.»
 
 Estas dos estrofas, una enviada y otra en respuesta, son lo que se denomina age-uta.
 
@@ -235,7 +235,7 @@ Ese Yemishi
 
 Es un partido para cien hombres
 
-“Ellos ni siquiera se resisten.”
+«Ellos ni siquiera se resisten.»
 
 La práctica según la cual en la actualidad los Kume cantan esto y luego se ríen fuerte tuvo este origen.
 
@@ -275,7 +275,7 @@ Vosotros, guardianes de los cormoranes
 
 (Aves de la isla),
 
-“Venid ahora en nuestra ayuda.”
+«Venid ahora en nuestra ayuda.»
 
 Finalmente cruzó Sumi-zaka con las tropas más fuertes y, rodeándolos por la retaguardia, los atacó por dos lados y los puso en fuga, matando a sus jefes Shiki el Viejo y los demás.
 

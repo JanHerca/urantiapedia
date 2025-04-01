@@ -46,9 +46,9 @@ Así que la gente de aquella casa supo que el nacimiento debía de haber sido en
 
 Esos sirvientes encontraron a la madre de Riki y le contaron lo sucedido; ella se alegró muchísimo, pues la casa Nanigashi es muy rica y famosa. Pero los sirvientes dijeron que la familia de Nanigashi-Sama estaba muy enfadada por la palabra "Baka" en la mano del niño. "¿Y dónde está enterrado tu Riki?", preguntaron los sirvientes. "Está enterrado en el cementerio de Zendoji", les dijo ella. "Por favor, dennos un poco de la arcilla de su tumba", pidieron.
 
-Así que fue con ellos al templo Zendoji y les mostró la tumba de Riki. Se llevaron un poco de arcilla de la tumba, envuelta en un furoshiki. <a id="note_1"></a> [1](Notes#note_10_1)... Le dieron a la madre de Riki algo de dinero: diez yenes. (4)
+Así que fue con ellos al templo Zendoji y les mostró la tumba de Riki. Se llevaron un poco de arcilla de la tumba, envuelta en un furoshiki. <a id="note_1"></a> [1](../Notes#note_10_1)... Le dieron a la madre de Riki algo de dinero: diez yenes. (4)
 
-“¿Pero qué querían con esa arcilla?” pregunté.
+«¿Pero qué querían con esa arcilla?» pregunté.
 
 —Bueno —respondió el anciano—, sabes que no conviene dejar que el niño crezca con ese nombre en la mano. Y no hay otra manera de borrar las marcas que aparecen así en el cuerpo de un niño: hay que frotar la piel con arcilla de la tumba del cuerpo del nacimiento anterior...
 

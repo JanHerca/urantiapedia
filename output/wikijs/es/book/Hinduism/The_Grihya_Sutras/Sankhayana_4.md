@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p106">[<sup><small>pág. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## ADHYÂYA IV, KHANDA 1.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 5\. [^238]. No se lleva a cabo ninguna invitación, ni la puesta
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 (de comida) al fuego, ni los devas vi<i>s</i>ve (participan en esta ceremonia). '¿Disfrutados?' —así se les debe preguntar si están saciados. 'Que se acerque (a los padres)', en lugar de 'imperecedero'.
 
@@ -304,7 +304,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## KHANDA 8.
 
@@ -516,7 +516,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 2\. Sacrifica tres veces con las manos juntas, llenas de agua, en las aguas, con las palabras: «¡Adoración al Mar, hijo del junco! ¡Adoración a Varuna, señor de la rectitud! ¡Adoración a todos los ríos!».
 
-3\. Murmurando: “Que Vi<i>s</i>vakarman, el padre de todos ellos, disfrute de la comida ofrecida”.
+3\. Murmurando: «Que Vi<i>s</i>vakarman, el padre de todos ellos, disfrute de la comida ofrecida».
 
 4\. Contra la corriente para las que fluyen (aguas); hacia arriba en el aire para las que están estancadas.
 
@@ -574,7 +574,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 
 
-<span id="p130">[<sup><small>pág. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## KHANDA 16.
 
@@ -617,7 +617,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 4\. Lo rocía (con agua) con (el verso), 'Del mar la ola' (Rig-veda IV, 58, 1),
 
-5\. Y extiende una capa (de paja) con (el verso), “Sé suave, oh tierra” (Rig-veda I, 22, 15).
+5\. Y extiende una capa (de paja) con (el verso), «Sé suave, oh tierra» (Rig-veda I, 22, 15).
 
 6\. Luego se acuestan de lado, el mayor a la derecha—
 
@@ -679,7 +679,7 @@ Aquí termina el Cuarto Adhyâya.
 
 La forma principal de <i>S</i>râddha</i> es la que se trata en el capítulo 1, que se designa en otros textos (véase, por ejemplo, Â<i>ri</i>valâyana-G<i>ri</i>hya IV, 7, 1) como pârva<i>ri</i>a <i>s</i>râddha. Sin embargo, además del parvan de la luna nueva, existen otros momentos que también se consideran admisibles para la realización de este <i>S</i>râddha mensual; véase Gautama XV, 2 y siguientes; Âpastamba II, 16, etc.; y comp. Sobre los <i>S</i>râddhas en general, véanse los pasajes citados por el profesor Jolly, Das Dharma-sûtra des Vish<i>ri</i>u (Sitzung der Bair. Akademie, phil. Classe, 7 de junio de 1879), págs. 46 y siguientes; Max Müller, «India, ¿qué nos puede enseñar?», págs. 234 y siguientes, 374 y siguientes.
 
-[^232]: 106:2 «“Como los padres” significa: invita al brâhma<i>n</i>as más joven, de mediana edad y mayor a sentarse en el lugar del padre, el abuelo y el bisabuelo» (Nârâya<i>n</i>a). Nârâya<i>n</i>a menciona una explicación similar de pit<i>n</i>vat en Â<i>n</i>valâyana-G<i>n</i>hya p. 107 IV, 7, 2. Mi traducción alemana de este sutra debería modificarse en consecuencia.
+[^232]: 106:2 ««Como los padres» significa: invita al brâhma<i>n</i>as más joven, de mediana edad y mayor a sentarse en el lugar del padre, el abuelo y el bisabuelo» (Nârâya<i>n</i>a). Nârâya<i>n</i>a menciona una explicación similar de pit<i>n</i>vat en Â<i>n</i>valâyana-G<i>n</i>hya p. 107 IV, 7, 2. Mi traducción alemana de este sutra debería modificarse en consecuencia.
 
 Además de los Brâhma<i>n</i>as mencionados en este Sûtra, quienes representan a los padres, según todos los comentarios, otros Brâhma<i>n</i>as tuvieron que ser invitados como representantes de los devâs Vi<i>n</i>vos. Nârâya<i>n</i>a da declaraciones detalladas sobre el número de pait<i>n</i>ka y de los Brâhma<i>n</i>as daivika que debían ser invitados, y aunque a primera vista un lector europeo se inclinaría más bien a dudar de si en la ceremonia de la <i>S</i>râddha, como el autor del texto pretendía describirla, algún Brâhma<i>n</i>as tenía que estar presente excepto los pait<i>n</i>kas, el Sûtra 2, 5 muestra que los comentaristas están en lo cierto en sus declaraciones respecto a ambas categorías de Brâhma<i>n</i>as.
 
@@ -785,7 +785,7 @@ Además de los Brâhma<i>n</i>as mencionados en este Sûtra, quienes representan
 
 [^282]: 124:19 Râtre_h<i> pûrvaprahare râtre</i>h<i> pûrvaprahare râtre</i>s_<i> pûrvaprahare râtre</i>imaprahare <i>k</i>a. Nârâya<i> pûrvaprahare râtre</i>a.
 
-[^283]: 125:5 12, 5. Nârâya<i>n</i>a: 'En cuanto a cómo debe realizarse ese saludo respetuoso (abhivâdana), dice... con su mano derecha toca el pie derecho del Â<i>n</i>ârya u otra persona (a quien saluda), y con su mano izquierda el pie izquierdo (comp. Manu II, 72) (y dice): “¡Soy NN (amuka<i>n</i>arman) del Gotra NN, señor! ¡Ofrezco mi respetuoso saludo!”'
+[^283]: 125:5 12, 5. Nârâya<i>n</i>a: 'En cuanto a cómo debe realizarse ese saludo respetuoso (abhivâdana), dice... con su mano derecha toca el pie derecho del Â<i>n</i>ârya u otra persona (a quien saluda), y con su mano izquierda el pie izquierdo (comp. Manu II, 72) (y dice): «¡Soy NN (amuka<i>n</i>arman) del Gotra NN, señor! ¡Ofrezco mi respetuoso saludo!»'
 
 [^284]: 125:6 'El Â<i>n</i>ârya u otra persona toma las manos de la persona que saluda', etc. Nârâya<i>n</i>a.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:39:52Z
   </table>
 </figure>
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 
 El príncipe envejeció, y llegó el momento de estudiar con el maestro que instruyó a los jóvenes sakyas en el arte de la escritura. Este maestro se llamaba Visvamitra.
@@ -49,7 +49,7 @@ Visvamitra no respondió; estaba mudo de asombro. Finalmente, respondió:
 
 Veo, mi señor, que no hay nada que pueda enseñarle. De las escrituras que mencionó, algunas solo las conozco por su nombre, y otras ni siquiera las conozco por su nombre. Soy yo quien debería sentarme a sus pies y aprender. No, mi señor, no hay nada que pueda enseñarle.
 
-<span id="p25">[<sup><small>pág. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Él sonrió y el príncipe le devolvió la mirada cariñosa.
 
@@ -65,15 +65,15 @@ Cinco ermitaños itinerantes pasaron cerca del prado. Vieron al príncipe medita
 
 Pero oyeron una voz que les decía:
 
-“¡El esplendor de los dioses palidecería ante el esplendor de este Sakya que se sienta bajo el árbol y reflexiona sobre verdades majestuosas!”
+«¡El esplendor de los dioses palidecería ante el esplendor de este Sakya que se sienta bajo el árbol y reflexiona sobre verdades majestuosas!»
 
 Entonces todos exclamaron:
 
-“En verdad, quien se sienta y medita bajo el árbol lleva las marcas de la omnipotencia; ¡sin duda se convertirá en el Buda!”
+«En verdad, quien se sienta y medita bajo el árbol lleva las marcas de la omnipotencia; ¡sin duda se convertirá en el Buda!»
 
 Entonces cantaron sus alabanzas, y el primero dijo: «A un mundo consumido por un fuego maligno, él ha venido como un lago. Su ley refrescará al mundo».
 
-<span id="p26">[<sup><small>pág. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 El segundo dijo: «A un mundo oscurecido por la ignorancia, él ha venido como una antorcha. Su ley traerá luz al mundo».
 
@@ -91,7 +91,7 @@ El sirviente corrió de regreso al palacio del rey.
 
 «Señor mío», gritó, «he visto a su hijo; está meditando bajo un árbol cuya sombra no se ha movido, mientras que las sombras de todos los demás árboles se han movido y alargado».
 
-<span id="p27">[<sup><small>pág. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Suddhodana salió del palacio y siguió al sirviente hasta donde estaba sentado su hijo. Llorando de alegría, se dijo a sí mismo:
 
@@ -99,7 +99,7 @@ Es tan hermoso como el fuego en la cima de una montaña. Me deslumbra. Será la 
 
 El rey y su sirviente no se atrevieron a moverse ni a hablar. Pero unos niños pasaron tirando de un pequeño carro tras ellos. Hacían mucho ruido. El sirviente les dijo en voz baja:
 
-“No debes hacer ruido.”
+«No debes hacer ruido.»
 
 ¿Por qué?, preguntaron los niños.
 
@@ -107,7 +107,7 @@ El rey y su sirviente no se atrevieron a moverse ni a hablar. Pero unos niños p
 
 Pero el príncipe despertó de sus meditaciones. Se levantó y, acercándose a su padre, le dijo:
 
-“Debemos dejar de trabajar en el campo, padre; debemos buscar las grandes verdades”.
+«Debemos dejar de trabajar en el campo, padre; debemos buscar las grandes verdades».
 
 Y regresó a Kapilavastu.
 

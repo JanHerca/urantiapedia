@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>pág. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 1\. Aquel cuyo difunto yace ante él está exento de recitar el Shemá, de la oración y de las filacterias. [^22] Quienes llevan el féretro, quienes los ayudan, quienes ayudan al socorro, quienes van delante del féretro y quienes lo siguen, y quienes son requeridos para el féretro, están exentos de recitar el Shemá. Pero quienes no son requeridos para el féretro están obligados a recitarlo. Ambos están exentos de la oración.
 

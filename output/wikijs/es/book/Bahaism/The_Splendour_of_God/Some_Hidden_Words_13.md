@@ -36,7 +36,7 @@ En la riqueza se esconde el miedo y el peligro. Observa, y reflexiona sobre lo q
 
 ¡Oh, gente del mundo! Os exhorto a que asumáis lo que os permitirá alcanzar vuestra posición. Aférrate a la virtud de Dios y aferraos a la justicia.
 
-<span id="p117">[<sup><small>pág. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 En verdad, digo que la lengua es para mencionar lo bueno; no la contaminen con malas palabras. Dios les ha perdonado lo del pasado; de ahora en adelante, todos deben hablar lo que corresponde; eviten la execración, la injuria y lo que ofende al hombre. La posición del hombre es elevada.
 
@@ -54,7 +54,7 @@ Es responsabilidad de todos ayudar a aquellas almas que son la aurora de la auto
 
 ¡Oh, siervos! No permitan que las causas del orden sean causa de confusión, ni que la razón de la unión sea motivo de disputa. Esta exaltada Palabra es como agua para extinguir el fuego del odio y la animosidad, que se deposita en todas las mentes y corazones.
 
-<span id="p119">[<sup><small>pág. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Los diferentes credos alcanzarán la Luz de la verdadera Unión mediante la simple Palabra. Ciertamente, Él dice la Verdad y guía en el Sendero; y Él es el Poderoso, el Poderoso y el Maravilloso.
 

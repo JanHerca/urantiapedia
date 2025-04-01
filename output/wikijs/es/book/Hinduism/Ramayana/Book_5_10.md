@@ -32,9 +32,9 @@ dateCreated: 2025-1-15T22:55:59Z
   </table>
 </figure>
 
-<span id="p394">[<sup><small>pág. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
-[1](Libro_5_10#fn789)
+[1](../Libro_5_10#fn789)
 
 
 
@@ -126,7 +126,7 @@ Brillaba como cien soles,
 Y cresta y peñasco de oro bruñido
 Destelló en la inundación que rodaba a su alrededor,\*
 
-<span id="p395">[<sup><small>pág. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Los Vánar pensaron que la montaña se elevaba
 Una barrera hostil para interponerse,
@@ -226,7 +226,7 @@ Alojado a la sombra de las ramas de Dandak.
 De allí robó Ravan, rey de los gigantes.
 Sita, la alegría del alma de Rama.
 
-<span id="p396">[<sup><small>pág. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 Por orden elevada de Ráma a ella
 Voy como mensajero voluntario;
@@ -313,7 +313,7 @@ Desgarró y rasgó la forma del demonio,
 Y, del cadáver destrozado liberado,
 Salió de nuevo con la velocidad del pensamiento. [^803]
 
-<span id="p397">[<sup><small>pág. 397</small></sup>]</span>
+<span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 
 Así con su habilidad mató al demonio,
 Luego creció hasta alcanzar su estatura habitual.
@@ -424,10 +424,10 @@ Y encontrarla en algún lugar solitario,
 Cuando el sol brillante había abandonado los cielos
 El Vánar empequeñeció su poderoso tamaño,
 
-<span id="p398">[<sup><small>pág. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Y, restringido en los límites más estrechos,
-El tamaño de un gato se conserva. [1](Libro_5_10#fn808)
+El tamaño de un gato se conserva. [1](../Libro_5_10#fn808)
 Entonces, cuando la suave luz de la luna se extendió,
 Dentro de los muros de la ciudad corrió.
 
@@ -534,7 +534,7 @@ Con arco, maza y espada reluciente;
 Demonios de todas las formas y todos los colores,
 Algunos eran feroces y repugnantes, otros eran agradables a la vista.
 
-<span id="p399">[<sup><small>pág. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 Vio las horripilantes legiones esperar
 En estricta vigilancia en la puerta de Rávan,
@@ -573,8 +573,8 @@ De casa en casa vagaban los Vánar,
 Y aún así sus miradas asombradas se inclinaron
 Sobre la terraza, la cúpula y la almena:
 Luego, con paso ligero y rápido,
-Visitó la casa de Prahasta [1b](Libro_5_10#fn811),
-Y el patio de Kumbhakarna [2b](Libro_5_10#fn812) donde
+Visitó la casa de Prahasta [1b](../Libro_5_10#fn811),
+Y el patio de Kumbhakarna [2b](../Libro_5_10#fn812) donde
 Un montón de nubes se elevaba en el aire;
 Y, vagando por la colina, exploró
 El jardín de cada señor Rákshas.
@@ -586,7 +586,7 @@ Y demonios guerreros de todo color,
 Un séquito extraño y temible.
 Hay elefantes en muchas filas,
 El terror del enemigo herido.
-Enorme Airávat, [3b](Libro_5_10#fn813) hábilmente entrenado
+Enorme Airávat, [3b](../Libro_5_10#fn813) hábilmente entrenado
 En los campos de batalla, estaban preparados y encadenados.
 Se colocaron literas justas en el suelo.
 Adornado con gemas y red dorada.
@@ -595,7 +595,7 @@ Había allí cenadores verdes y salas de cine,
 Y cámaras hechas para un suave deleite.
 En todas las alturas ondeaban anchas pancartas.
 Y desde el tejado como la colina de Mandar
-El grito del pavo real era fuerte y estridente. [4b](Libro_5_10#fn814)
+El grito del pavo real era fuerte y estridente. [4b](../Libro_5_10#fn814)
 
 
 
@@ -606,7 +606,7 @@ Sobre las gemas y el oro que a su alrededor brillaban,
 Y muchas ventanas enrejadas brillaban
 Con turcos y con lazulita.
 
-<span id="p400">[<sup><small>pág. 400</small></sup>]</span>
+<span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 Pasó por el pórtico y las antesalas.
 Cada uno más rico y más bello que el anterior;
@@ -633,7 +633,7 @@ Brillaban hermosos lagos donde flotaban los lirios,
 Y lotos con flores y capullos
 Brillaba en el seno del diluvio.
 Allí brillaban gemas que destellaban a lo lejos.
-La maravilla del coche llamado Flor [1](Libro_5_10#fn815),
+La maravilla del coche llamado Flor [1](../Libro_5_10#fn815),
 En medio de maravillosas moradas aún se confiesa
 Supremo y más noble que el resto.
 Allí, con maravilloso arte, se diseñó
@@ -646,7 +646,7 @@ Y elefantes con la más diestra habilidad
 Se quedó esculpido por un riachuelo plateado,
 Cada uno lleva en su tronco una corona.
 De lirios del diluvio de abajo.
-Allí Lakshmi, [2](Libro_5_10#fn816) la reina celestial de la belleza,
+Allí Lakshmi, [2](../Libro_5_10#fn816) la reina celestial de la belleza,
 Realizado por la habilidad del artista, fue visto
 Junto a una piscina cubierta de flores para pararse
 Sosteniendo un loto en su mano.
@@ -660,7 +660,7 @@ De piedras preciosas y oro bruñido;
 
 El hijo del Dios del Viento tampoco pudo retirarse.
 Su mirada absorta por lo que vio,
-Por el autoproclamado Vis'vakarmá [1b](Libro_5_10#fn817)
+Por el autoproclamado Vis'vakarmá [1b](../Libro_5_10#fn817)
 La obra más noble que su mano había enmarcado.
 Elevado en el aire brillaba
 Brillante como el camino diurno del sol.
@@ -671,7 +671,7 @@ Con gemas incrustadas con esmerado cuidado.
 No hay piedras preciosas que adornen tan ricamente
 Los carros en los que viajan los dioses,
 Premio del poder irresistible
-Que surgió del rito del dolor y la penitencia, [2b](Libro_5_10#fn818)
+Que surgió del rito del dolor y la penitencia, [2b](../Libro_5_10#fn818)
 Obediente a la voluntad del amo
 Se movió sobre bosques y colinas imponentes,
 Una maravilla gloriosa bien diseñada.
@@ -679,7 +679,7 @@ Por la mente artística de Vis'vakarmá,
 Adornado con todos los dispositivos hermosos
 Esto adorna los autos del Paraíso.
 Movimientos rápidos como el maestro eligió
-Voló por el aire o se hundió o se elevó, [3b](Libro_5_10#fn819)
+Voló por el aire o se hundió o se elevó, [3b](../Libro_5_10#fn819)
 Y en su celeridad dejó atrás
 La furia del viento impetuoso:
 Conoce la mansión de los buenos y los grandes,
@@ -708,7 +708,7 @@ Y muchas princesas de rostro hermoso
 A quien el brazo de Rávan ​​había arrancado
 De los reyes vencidos yacía el sueño.
 
-<span id="p401">[<sup><small>pág. 401</small></sup>]</span>
+<span id="p401"><sup><small>[ p. 401 ]</small></sup></span>
 
 Allí, en lo alto, hay arcos enjoyados
 Un cobertizo de brillo en constante cambio
@@ -826,7 +826,7 @@ El monarca de los gigantes yacía,
 Perfumado con el precioso aroma del sándalo.
 Y alegre con adornos dorados.
 
-<span id="p402">[<sup><small>pág. 402</small></sup>]</span>
+<span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 
 Sus ojos ardientes se cerraron durante el sueño,
 El rey reposaba con ropas resplandecientes.
@@ -845,7 +845,7 @@ La bandera de Indra en el aire.
 Cicatrices de Airávat impresionadas
 Se mostró rojo sobre su peludo pecho.
 Y sobre sus hombros se exhibieron
-Las marcas que había dejado el rayo. [1](Libro_5_20#fn821)
+Las marcas que había dejado el rayo. [1](../Libro_5_20#fn821)
 Las esposas del rey gigante
 Alrededor de su señor dormían,
 Y, alegre con aretes brillantes, brillaba
@@ -905,13 +905,13 @@ La reina Maithil seguramente debe serlo.
 
 [^796]: 395:4 _Parvata_ significa montaña y, en los Vedas, nube. Por ello, en la mitología posterior, la montaña sustituyó a las nubes como blanco de los ataques de Indra, el dios del Sol. El rey emplumado es Garuda.
 
-[^797]: 395:1b “Los hijos de Surasa eran mil serpientes poderosas de múltiples cabezas, que atravesaban el cielo”. WILSON'S _Vishnu Purana_, Vol.II. pág.73.
+[^797]: 395:1b «Los hijos de Surasa eran mil serpientes poderosas de múltiples cabezas, que atravesaban el cielo». WILSON'S _Vishnu Purana_, Vol.II. pág.73.
 
 [^798]: 396:1 Quiere decir, dice el Comentarista, que continúes tu viaje si puedes.
 
 [^799]: 396:2 Si a los espíritus de Milton se les concede el poder de autoextensión y compresión infinitas, lo mismo debe concederse a los seres sobrenaturales de Válmíki. Dado el poder de Milton, el resultado en Válmíki es perfectamente consistente.
 
-[^800]: 396:3 “Daksha es hijo de Brahmá y uno de los Prajápatis o progenitores divinos. Tuvo sesenta hijas, veintisiete de las cuales, casadas con Kas'yapa, engendraron, según una de las cosmogonías indias, seres mundanos. ¿Acaso el epíteto «Descendiente de Daksha», dado a Surasá, significa que ella es una de esas hijas? Creo que no. Este epíteto es quizás una denominación común a todos los seres creados, por haber surgido de Daksha.” GORRESIO.
+[^800]: 396:3 «Daksha es hijo de Brahmá y uno de los Prajápatis o progenitores divinos. Tuvo sesenta hijas, veintisiete de las cuales, casadas con Kas'yapa, engendraron, según una de las cosmogonías indias, seres mundanos. ¿Acaso el epíteto «Descendiente de Daksha», dado a Surasá, significa que ella es una de esas hijas? Creo que no. Este epíteto es quizás una denominación común a todos los seres creados, por haber surgido de Daksha.» GORRESIO.
 
 [^801]: 396:1b Sinhiká es la madre de Ráhu, la cabeza del dragón o nodo ascendente, el agente principal de los eclipses.
 

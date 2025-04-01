@@ -54,7 +54,7 @@ No te conformes con la belleza que es mortal, descartando la Belleza Eterna, y n
 
 Sin embargo, tras obtenerlos, estabas tan velado por ti mismo que tus ojos no contemplaron la Belleza del Amado, ni tu mano alcanzó el borde del manto del Amigo. Maravíllate de esto, oh poseedores de perspicacia.
 
-<span id="p109">[<sup><small>pág. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ¡Oh, Amigo mío de palabra! ¡Reflexiona un poco! ¿Has oído hablar alguna vez del amado y el extraño que conviven en el mismo corazón? Por lo tanto, despide al extraño, para que el Amado pueda entrar en su hogar.
 
@@ -68,7 +68,7 @@ Andad por el camino de la complacencia del Amigo. Su complacencia está siempre 
 
 No habéis respirado ni un aliento desinteresado, ni ha surgido una brisa de abnegación del jardín de vuestros corazones.
 
-<span id="p110">[<sup><small>pág. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Habéis arrojado a los vientos los misericordiosos consejos del Amado, los habéis borrado de la tabla de vuestras mentes y os habéis convertido en animales bajos que se alimentan en los pastos de la lujuria y el deseo.
 

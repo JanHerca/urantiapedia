@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p248">[<sup><small>pág. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 <span id="v4_1_1"><sup><small>4:1:1</small></sup></span>
 
@@ -192,7 +192,7 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 <span id="v4_1_3_1818"><sup><small>4:1:3:1818.</small></sup></span> Ahora extrae (el graha) de esa (corriente de Soma) [^644], con (Vâ<i>g</i>. S. VII, 7; Rig-veda VII, 92, I): «¡Acércate a nosotros, oh Vâyu, bebiendo <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> el (Soma) puro! ¡Tuyos son mil corceles, oh dador de todos los dones! ¡A ti se te ha ofrecido el jugo reconfortante del que tú, oh Dios, tomas el primer sorbo! ¡A ti, por Vâyu!»
 
-<span id="v4_1_3_1919"><sup><small>4:1:3:1919.</small></sup></span> Y, tras retirar (la copa), la vuelve a llenar [1](Book_2_4_1#fn645), con (Vâ<i>g</i>. S. VII, 8; Rig veda I, 2, 4), '¡Oh, Indra y Vâyu, aquí está el jugo de Soma: venid aquí por la bebida refrescante, las gotas os anhelan! —¡Eres tomado con un soporte [2](Book_2_4_1#fn646)! —¡Tú para Vâyu, para Indra y Vâyu! —con 'Este es tu vientre [3](Book_2_4_1#fn647): ¡tú para los estrechamente unidos!' deposita (la copa). En cuanto a por qué dice: “Tú para los estrechamente unidos”, –el que es Vâyu, es Indra; y el que es Indra, es Vâyu–, por eso dice: “Éste es tu vientre: ¡tú para los estrechamente unidos!”.
+<span id="v4_1_3_1919"><sup><small>4:1:3:1919.</small></sup></span> Y, tras retirar (la copa), la vuelve a llenar [1](../Book_2_4_1#fn645), con (Vâ<i>g</i>. S. VII, 8; Rig veda I, 2, 4), '¡Oh, Indra y Vâyu, aquí está el jugo de Soma: venid aquí por la bebida refrescante, las gotas os anhelan! —¡Eres tomado con un soporte [2](../Book_2_4_1#fn646)! —¡Tú para Vâyu, para Indra y Vâyu! —con 'Este es tu vientre [3](../Book_2_4_1#fn647): ¡tú para los estrechamente unidos!' deposita (la copa). En cuanto a por qué dice: «Tú para los estrechamente unidos», –el que es Vâyu, es Indra; y el que es Indra, es Vâyu–, por eso dice: «Éste es tu vientre: ¡tú para los estrechamente unidos!».
 
 
 <span id="v4_1_4"><sup><small>4:1:4</small></sup></span>
@@ -217,7 +217,7 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 <span id="v4_1_4_99"><sup><small>4:1:4:99.</small></sup></span> A esto dicen: "¡Seguro que no quería matar!". Así pues, ¿qué leche hay en esta mezcla que pertenece a Mitra, pero el soma pertenece a Varuna? Por eso se mezcla con leche.
 
-<span id="v4_1_4_1010"><sup><small>4:1:4:1010.</small></sup></span> Lo mezcla con (Vâ<i>g</i>. S. VII, 10; Rig-veda IV, 42, 10), 'Que nos deleitemos en la riqueza que hemos adquirido, los dioses en la ofrenda, las vacas en el pasto! esa infalible vaca lechera, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> ¡Oh Mitra y Varu<i>n</i>a, concédannos día a día!' —con 'Este es tu vientre: ¡a ti por la verdad y la vida [^651]!' lo deposita. Ahora bien, en cuanto a por qué dice: “Tú por la verdad y la vida” —la verdad es Mitra [^652], puesto que Mitra es el Brahman, y la verdad es el Brahman (sacerdocio o escritura sagrada); y la vida es Varu<i>n</i>a, puesto que Varu<i>n</i>a es el año, y la vida es el año—, por eso dice: “Este es tu vientre: ¡tú por la verdad y la vida!”.
+<span id="v4_1_4_1010"><sup><small>4:1:4:1010.</small></sup></span> Lo mezcla con (Vâ<i>g</i>. S. VII, 10; Rig-veda IV, 42, 10), 'Que nos deleitemos en la riqueza que hemos adquirido, los dioses en la ofrenda, las vacas en el pasto! esa infalible vaca lechera, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> ¡Oh Mitra y Varu<i>n</i>a, concédannos día a día!' —con 'Este es tu vientre: ¡a ti por la verdad y la vida [^651]!' lo deposita. Ahora bien, en cuanto a por qué dice: «Tú por la verdad y la vida» —la verdad es Mitra [^652], puesto que Mitra es el Brahman, y la verdad es el Brahman (sacerdocio o escritura sagrada); y la vida es Varu<i>n</i>a, puesto que Varu<i>n</i>a es el año, y la vida es el año—, por eso dice: «Este es tu vientre: ¡tú por la verdad y la vida!».
 
 
 <span id="v4_1_5"><sup><small>4:1:5</small></sup></span>
@@ -240,7 +240,7 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 <span id="v4_1_5_99"><sup><small>4:1:5:99.</small></sup></span> Dijeron: «¡Sukanyâ, qué hombre tan decrépito y fantasmal es ese con quien yaces! ¡Ven y síguenos!». Ella respondió: «¡A quien mi padre me ha dado, no lo abandonaré mientras viva!». Pero el Rishi lo sabía.
 
-<span id="v4_1_5_1010"><sup><small>4:1:5:1010.</small></sup></span> Él dijo: «Sukanyâ, ¿qué te han dicho esos dos?». Ella se lo contó todo; y, después de contárselo, él dijo: «Si te vuelven a hablar así, diles: “¡Pero seguro que no son del todo completas ni del todo perfectas, y aun así se burlan de mi esposo!”. Y si te dicen: “¿En qué aspecto somos incompletos, en qué aspecto imperfectos?”, diles: “¡No, rejuvenezcan a mi esposo y se lo diré!”». Volvieron a verla y le dijeron lo mismo.
+<span id="v4_1_5_1010"><sup><small>4:1:5:1010.</small></sup></span> Él dijo: «Sukanyâ, ¿qué te han dicho esos dos?». Ella se lo contó todo; y, después de contárselo, él dijo: «Si te vuelven a hablar así, diles: «¡Pero seguro que no son del todo completas ni del todo perfectas, y aun así se burlan de mi esposo!». Y si te dicen: «¿En qué aspecto somos incompletos, en qué aspecto imperfectos?», diles: «¡No, rejuvenezcan a mi esposo y se lo diré!»». Volvieron a verla y le dijeron lo mismo.
 
 <span id="v4_1_5_1111"><sup><small>4:1:5:1111.</small></sup></span> Ella dijo: «¡Pero seguro que no sois del todo completos ni del todo perfectos, y aun así os burláis de mi marido!». Dijeron: «¿En qué sentido somos incompletos, en qué sentido imperfectos?». Ella respondió: «¡No, rejuveneced a mi marido y os lo diré!». <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 4:1:5:1212\. Dijeron: «¡Llévenlo a aquel estanque [^660] y nacerá con la edad que desee!». Ella lo llevó a aquel estanque, y nació con la edad que deseaba.
 
@@ -286,15 +286,15 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 [^602]: 248:1 Es decir, el hombre sacrificatorio, o el sacrificio personificado en Soma y el sacrificador.
 
-[^603]: 248:2 Lit. «la planta de Soma», de ahí el sacrificio (de Soma) mismo, o Pra<i>g</i>âpati. Véase [IV, 6, 1, 1](Book_2_4_6#v4_6_1_1) ss.
+[^603]: 248:2 Lit. «la planta de Soma», de ahí el sacrificio (de Soma) mismo, o Pra<i>g</i>âpati. Véase [IV, 6, 1, 1](../Book_2_4_6#v4_6_1_1) ss.
 
-[^604]: 248:3 Bahishpavitrât, lit. de (un recipiente o Soma) con el colador fuera (lejos de él). Si bien no se usa un colador adecuado para el Upâ<i>m</i><i>s</i>u-graha, el jugo de Soma se vierte a través de plantas de Soma (véase [p. 244](Book_2_3_9#p244), nota [2](Book_2_3_9#fn596)); durante el gran prensado, se pasa a través de un paño de colado con flecos (da<i>s</i>âpavitra) extendido sobre el Dro<i>n</i>akala<i>s</i>a (el mayor de los tres canales de Soma, junto con el Âdhavanîya y el Pûtabh<i>ri</i>t). Véase [IV, 1, 2, 3](Book_2_4_1#v4_1_2_3).
+[^604]: 248:3 Bahishpavitrât, lit. de (un recipiente o Soma) con el colador fuera (lejos de él). Si bien no se usa un colador adecuado para el Upâ<i>m</i><i>s</i>u-graha, el jugo de Soma se vierte a través de plantas de Soma (véase [p. 244](../Book_2_3_9#p244), nota [2](../Book_2_3_9#fn596)); durante el gran prensado, se pasa a través de un paño de colado con flecos (da<i>s</i>âpavitra) extendido sobre el Dro<i>n</i>akala<i>s</i>a (el mayor de los tres canales de Soma, junto con el Âdhavanîya y el Pûtabh<i>ri</i>t). Véase [IV, 1, 2, 3](../Book_2_4_1#v4_1_2_3).
 
-[^605]: 249:1 Es decir, dado que el Upâ<i>m</i><i>s</i>u-graha se obtiene mediante tres rondas de prensado, y cada una de las tres Savanas (prensados, fiestas de Soma) consta de tres rondas de prensado de tres rondas cada una. Véase [p. 256](#p256), nota [1](Book_2_4_1#fn619).
+[^605]: 249:1 Es decir, dado que el Upâ<i>m</i><i>s</i>u-graha se obtiene mediante tres rondas de prensado, y cada una de las tres Savanas (prensados, fiestas de Soma) consta de tres rondas de prensado de tres rondas cada una. Véase [p. 256](#p256), nota [1](../Book_2_4_1#fn619).
 
 [^606]: 249:2 Cf. Taitt. S. VI, 4, 5, donde esta teoría (despojada de su forma legendaria) se atribuye a Aru<i>n</i>a Aupave<i>s</i>i.
 
-[^607]: 250:1 Sâya<i>n</i>a, sobre Taitt. S. I, 4, 2, lo interpreta: «Habiéndote purificado por el rayo del sol (mientras crecías en el bosque), ¡ahora te purificas para los dioses mediante las ramitas del toro!». Cf., sin embargo, Taitt. S. VI, 4, 5, «gabhastinâ hy enam pavayati», donde «gabhasti» parecería tomarse en el sentido de «mano» (la bifurcada). Véase [p. 244](Book_2_3_9#p244), nota [2](Book_2_3_9#fn596).
+[^607]: 250:1 Sâya<i>n</i>a, sobre Taitt. S. I, 4, 2, lo interpreta: «Habiéndote purificado por el rayo del sol (mientras crecías en el bosque), ¡ahora te purificas para los dioses mediante las ramitas del toro!». Cf., sin embargo, Taitt. S. VI, 4, 5, «gabhastinâ hy enam pavayati», donde «gabhasti» parecería tomarse en el sentido de «mano» (la bifurcada). Véase [p. 244](../Book_2_3_9#p244), nota [2](../Book_2_3_9#fn596).
 
 [^608]: 251:1 El texto de Kâ<i>n</i>va agrega, 'mientras que quienquiera que sea asesinado se vuelve putrefacto.'
 
@@ -302,13 +302,13 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 [^610]: 252:2 Con los Taittirîyas el orden de proceder es algo diferente: El Adhvaryu vierte el Soma a través de las plantas de Soma en la copa Upâ<i>m</i><i>s</i>u después de cada vuelta de prensado, con, '¡Hazte puro para Vâ<i>k</i>aspati, oh corcel!' —'¡El toro purificado por la mano con las plantas del toro!' —'Tú, un dios, eres un purificador de los dioses cuya parte eres: ¡tú, para ellos!' respectivamente. Luego toma la copa del Pratiprasthât<i>ri</i> con, 'Tú te has hecho a ti mismo' la mira con, 'Endulza nuestras bebidas'; y la limpia hacia arriba con, '¡Tú para todos los poderes, divinos y terrenales!' Luego se eleva con, '¡Que la mente te alcance!' camina hacia el Âhavanîya con, 'Me muevo p. 253 a lo largo del amplio aire', y ofrece, mientras el sacrificador lo sostiene por detrás, con: '¡Salve! ¡Oh bien nacido, para Sûrya!'
 
-[^611]: 253:1 Véase [III, 1, 3, 13](Book_2_3_1#v3_1_3_13).
+[^611]: 253:1 Véase [III, 1, 3, 13](../Book_2_3_1#v3_1_3_13).
 
 [^612]: 253:2 'Porque esta libación es la exhalación, y la exhalación es él que sopla allá (el viento); y él, en verdad, es hecho por sí mismo, engendrado (<i>g</i>âta) de sí mismo, ya que no hay otro hacedor ni engendrador de él.' Texto del Kâ<i>n</i>va.
 
 [^613]: 253:3 Quizás deberíamos traducir el pasaje como «de todos los poderes, divinos y terrenales», pues nace por sí mismo de todas las criaturas. Pero cf. Taitt. S. VI, 4, 5: «Con ello exhala tanto en los dioses como en los hombres».
 
-[^614]: 253:4 Mientras que, en su fuerza de 'subsecuente', avara aquí se refiere al primer Svâhâ, pronunciado por el Adhvaryu ([par. 19](Book_2_4_1#v4_1_1_19)); también tiene aquí el significado de 'inferior', y, desarrollado a partir de esto, el de 'precedente' (en cuyo significado aparece en el <i>Ri</i>kprâti<i>s</i>âkhya). Por lo tanto, es completamente imposible traducir adecuadamente este juego de palabras con las palabras avara, 'subsecuente, inferior, precedente', y para, 'superior, posterior'.
+[^614]: 253:4 Mientras que, en su fuerza de 'subsecuente', avara aquí se refiere al primer Svâhâ, pronunciado por el Adhvaryu ([par. 19](../Book_2_4_1#v4_1_1_19)); también tiene aquí el significado de 'inferior', y, desarrollado a partir de esto, el de 'precedente' (en cuyo significado aparece en el <i>Ri</i>kprâti<i>s</i>âkhya). Por lo tanto, es completamente imposible traducir adecuadamente este juego de palabras con las palabras avara, 'subsecuente, inferior, precedente', y para, 'superior, posterior'.
 
 [^615]: 254:1 Es decir, viene después de Svâhâ en la fórmula.
 
@@ -322,39 +322,39 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 [^620]: 255:2 Según los Sûtras del Ya<i>g</i>us Negro (cf. Sâya<i>n</i>a sobre Taitt. S. I, 4, 2, p. 598), la copa Upâ<i>m</i><i>s</i>u está 'depositada' en el sureste y la copa Antaryâma en la esquina noreste del p. 256 khara o montículo; la piedra Upâ<i>m</i><i>s</i>u-savana está colocada entre ellas. Antes de depositar el recipiente, el Adhvaryu vierte algo del residuo del jugo de Soma de la copa Upâ<i>m</i><i>s</i>u en el Âgraya<i>n</i>asthâlî, y habiendo puesto una ramita grande de Soma en él para el prensado de la tarde (? el Adâbhya graha, cf. Sây. sobre Taitt. S. I, 603), lo deposita en el montículo.
 
-[^621]: 256:1 El «Gran Prensado» (mahâbhishava), del cual se obtienen el Antaryâma y las libaciones subsiguientes, es realizado por los cuatro sacerdotes, a saber, el Adhvaryu y sus tres asistentes, Pratiprasthât<i>ri</i>, Nesh<i>t</i><i>ri</i> y Unnet<i>ri</i>. Cada uno recibe una porción igual de plantas de Soma y una de las cuatro piedras de prensado restantes que le fueron asignadas. Las ceremonias mencionadas en [III, 9, 4, 1](Book_2_3_9#v3_9_4_1) y siguientes se repiten en la presente ocasión, y cada sacerdote se ata una pieza de oro a su dedo anular. El prensado se realiza en tres rondas de tres vueltas cada una, con el número de golpes individuales de las varias vueltas p. 257, sin embargo, no está limitado, como en el caso del prensado del Upâ<i>m</i><i>s</i>u. Solo antes del primer turno de cada ronda se vierte agua de Nigrâbhyâ sobre las plantas. Después de cada turno, las plantas dispersas se juntan en un montón. Al final de cada turno (de tres turnos), se toca el Soma (o se «fortalece»); tras lo cual, los tallos completamente prensados ​​se arrojan a la copa del Hot<i>ri</i> y se pronuncia la fórmula de Nigrâbha ([III, 9, 4, 21](Book_2_3_9#v3_9_4_21)). Los tallos que todavía están jugosos se 'reúnen' (ver [III, 9, 4, 19](Book_2_3_9#v3_9_4_19)) en el llamado sambhara<i>n</i>î y se vierten en el canal Âdhavanîya, y después de haber sido removidos allí por el Unnet<i>ri</i>, se sacan, se prensan y se arrojan sobre la piel, cuando se repite el mismo proceso. Al completarse la tercera ronda, los Udgât<i>ri</i>s traen hacia adelante el Dro<i>n</i>akala<i>s</i>a (desde detrás del eje del carro del sur) (para los mantras que usan, véase Tâ<i>n</i><i>d</i>ya Br. I, 2, 6-7) y lo colocan sobre las cuatro piedras cubiertas con las cáscaras de Soma prensadas, mientras que la tela tensora se extiende sobre ella, con la franja hacia el norte. Español La copa del Hot<i>ri</i> (sostenida por el sacrificador y que contiene el agua Nigrâbhyâ restante) luego de haber sido llenada por el Unnet<i>ri</i> con el jugo de Soma en el abrevadero Âdhavanîya, el sacrificador lo vierte en un chorro continuo desde la copa del Hot<i>ri</i> sobre el paño de filtro, extendido sobre el Dro<i>n</i>akala<i>s</i>a por los cantores (Udgât<i>ri</i>s), murmurando un mantra (Tâ<i>n</i><i>d</i>ya Br. I, 2, 9) todo el tiempo. De este arroyo se toman las primeras ocho libaciones (al mediodía, se presionan las primeras cinco), sosteniendo las copas respectivas debajo. Las libaciones o copas restantes se extraen del jugo de soma colado (o 'puro', 'sukra') en el Dro<i>n</i>akala<i>s</i>a, o del Âgraya<i>n</i>asthâlî o del Pûtabh<i>ri</i>t. Sâya<i>n</i>a en Ait. Br. II,22, 1 parece excluir el Antaryâma graha de la «gran presión»: antaryâmagrahahomâd ûrdhvam mahâbhishava<i>m</i> k<i>ri</i>tvâ. También en II, 21, 1 menciona el Dadhi graha, el A<i>m</i><i>s</i>u graha y el Adâbhya graha (véase [p. 255](Book_2_4_1#p255), n. [2](Book_2_4_1#fn618)) como intermedios entre la ceremonia de Aponaptrîya y la obtención del Upâ<i>m</i><i>s</i>u graha.
+[^621]: 256:1 El «Gran Prensado» (mahâbhishava), del cual se obtienen el Antaryâma y las libaciones subsiguientes, es realizado por los cuatro sacerdotes, a saber, el Adhvaryu y sus tres asistentes, Pratiprasthât<i>ri</i>, Nesh<i>t</i><i>ri</i> y Unnet<i>ri</i>. Cada uno recibe una porción igual de plantas de Soma y una de las cuatro piedras de prensado restantes que le fueron asignadas. Las ceremonias mencionadas en [III, 9, 4, 1](../Book_2_3_9#v3_9_4_1) y siguientes se repiten en la presente ocasión, y cada sacerdote se ata una pieza de oro a su dedo anular. El prensado se realiza en tres rondas de tres vueltas cada una, con el número de golpes individuales de las varias vueltas p. 257, sin embargo, no está limitado, como en el caso del prensado del Upâ<i>m</i><i>s</i>u. Solo antes del primer turno de cada ronda se vierte agua de Nigrâbhyâ sobre las plantas. Después de cada turno, las plantas dispersas se juntan en un montón. Al final de cada turno (de tres turnos), se toca el Soma (o se «fortalece»); tras lo cual, los tallos completamente prensados ​​se arrojan a la copa del Hot<i>ri</i> y se pronuncia la fórmula de Nigrâbha ([III, 9, 4, 21](../Book_2_3_9#v3_9_4_21)). Los tallos que todavía están jugosos se 'reúnen' (ver [III, 9, 4, 19](../Book_2_3_9#v3_9_4_19)) en el llamado sambhara<i>n</i>î y se vierten en el canal Âdhavanîya, y después de haber sido removidos allí por el Unnet<i>ri</i>, se sacan, se prensan y se arrojan sobre la piel, cuando se repite el mismo proceso. Al completarse la tercera ronda, los Udgât<i>ri</i>s traen hacia adelante el Dro<i>n</i>akala<i>s</i>a (desde detrás del eje del carro del sur) (para los mantras que usan, véase Tâ<i>n</i><i>d</i>ya Br. I, 2, 6-7) y lo colocan sobre las cuatro piedras cubiertas con las cáscaras de Soma prensadas, mientras que la tela tensora se extiende sobre ella, con la franja hacia el norte. Español La copa del Hot<i>ri</i> (sostenida por el sacrificador y que contiene el agua Nigrâbhyâ restante) luego de haber sido llenada por el Unnet<i>ri</i> con el jugo de Soma en el abrevadero Âdhavanîya, el sacrificador lo vierte en un chorro continuo desde la copa del Hot<i>ri</i> sobre el paño de filtro, extendido sobre el Dro<i>n</i>akala<i>s</i>a por los cantores (Udgât<i>ri</i>s), murmurando un mantra (Tâ<i>n</i><i>d</i>ya Br. I, 2, 9) todo el tiempo. De este arroyo se toman las primeras ocho libaciones (al mediodía, se presionan las primeras cinco), sosteniendo las copas respectivas debajo. Las libaciones o copas restantes se extraen del jugo de soma colado (o 'puro', 'sukra') en el Dro<i>n</i>akala<i>s</i>a, o del Âgraya<i>n</i>asthâlî o del Pûtabh<i>ri</i>t. Sâya<i>n</i>a en Ait. Br. II,22, 1 parece excluir el Antaryâma graha de la «gran presión»: antaryâmagrahahomâd ûrdhvam mahâbhishava<i>m</i> k<i>ri</i>tvâ. También en II, 21, 1 menciona el Dadhi graha, el A<i>m</i><i>s</i>u graha y el Adâbhya graha (véase [p. 255](../Book_2_4_1#p255), n. [2](../Book_2_4_1#fn618)) como intermedios entre la ceremonia de Aponaptrîya y la obtención del Upâ<i>m</i><i>s</i>u graha.
 
-[^622]: 258:1 Anta<i>h</i>pavitrât, lit. del recipiente o corriente de soma que contiene el colador; el paño colador se extiende sobre el Dro<i>n</i>akala<i>s</i>a, en el que se vierte el jugo de soma exprimido. El Diccionario de San Petersburgo le asigna el significado de «el soma dentro del recipiente filtrante» (véase [IV, 1, 1, 3](Book_2_4_1#v4_1_1_3)). Quizás signifique «de aquello que contiene un colador», es decir, del flujo vertido del que se toma la libación, y que está separado del Dro<i>n</i>akala<i>s</i>a por el paño colador.
+[^622]: 258:1 Anta<i>h</i>pavitrât, lit. del recipiente o corriente de soma que contiene el colador; el paño colador se extiende sobre el Dro<i>n</i>akala<i>s</i>a, en el que se vierte el jugo de soma exprimido. El Diccionario de San Petersburgo le asigna el significado de «el soma dentro del recipiente filtrante» (véase [IV, 1, 1, 3](../Book_2_4_1#v4_1_1_3)). Quizás signifique «de aquello que contiene un colador», es decir, del flujo vertido del que se toma la libación, y que está separado del Dro<i>n</i>akala<i>s</i>a por el paño colador.
 
-[^623]: 259:1 El término Upayâma, lit. 'fundamento, sustrato', refiriéndose apropiadamente a 'aquello que se mantiene debajo' mientras se toma la libación, es decir, la copa del respectivo graha (y por lo tanto también identificado con la tierra, como el sustrato de todo, cf. Sây. sobre Taitt. S. I, 4, 3), ha llegado a aplicarse de igual manera a la fórmula 'upayâmag<i>ri</i>hîto 'si', es decir, 'eres tomado con (o sobre) un soporte', que se repite en esas libaciones antes de las fórmulas murmuradas mientras se extraen hacia los respectivos recipientes o copas (véase [par. 15](Book_2_4_1#v4_1_2_15)). Haug, Transl. Ait. Br. pág. 118 nota, hace la siguiente distinción entre el graha (copa) y el pâtra (vasija) de la libación Antaryâma (y Upâ<i>m</i><i>s</i>u): «El pâtra es una vasija similar a una gran jarra de madera con una pequeña cavidad en la parte superior, en la que se llena el jugo de Soma. El graha es una pequeña taza, como un platillo, hecha de tierra, que se coloca sobre la cavidad de la vasija de Soma para cubrir el jugo «precioso». Su fondo se sumerge primero en agua y se coloca una hoja de oro debajo. Hay tantos grahas como pâtras; van juntos como la taza y el platillo, y se consideran inseparables. Sin embargo, la palabra graha se toma a menudo en el sentido de conjunto, significando tanto graha como pâtra». Dudo, sin embargo, que esta distinción concuerde con las antiguas autoridades. Las vasijas o copas graha se describen con forma de mortero. Para otras peculiaridades, véase [IV, I, 5, 19](Book_2_4_1#v4_1_5_19). En algunas libaciones se utiliza tanto una pâtra (copa) como un sthâlî (cuenco).
+[^623]: 259:1 El término Upayâma, lit. 'fundamento, sustrato', refiriéndose apropiadamente a 'aquello que se mantiene debajo' mientras se toma la libación, es decir, la copa del respectivo graha (y por lo tanto también identificado con la tierra, como el sustrato de todo, cf. Sây. sobre Taitt. S. I, 4, 3), ha llegado a aplicarse de igual manera a la fórmula 'upayâmag<i>ri</i>hîto 'si', es decir, 'eres tomado con (o sobre) un soporte', que se repite en esas libaciones antes de las fórmulas murmuradas mientras se extraen hacia los respectivos recipientes o copas (véase [par. 15](../Book_2_4_1#v4_1_2_15)). Haug, Transl. Ait. Br. pág. 118 nota, hace la siguiente distinción entre el graha (copa) y el pâtra (vasija) de la libación Antaryâma (y Upâ<i>m</i><i>s</i>u): «El pâtra es una vasija similar a una gran jarra de madera con una pequeña cavidad en la parte superior, en la que se llena el jugo de Soma. El graha es una pequeña taza, como un platillo, hecha de tierra, que se coloca sobre la cavidad de la vasija de Soma para cubrir el jugo «precioso». Su fondo se sumerge primero en agua y se coloca una hoja de oro debajo. Hay tantos grahas como pâtras; van juntos como la taza y el platillo, y se consideran inseparables. Sin embargo, la palabra graha se toma a menudo en el sentido de conjunto, significando tanto graha como pâtra». Dudo, sin embargo, que esta distinción concuerde con las antiguas autoridades. Las vasijas o copas graha se describen con forma de mortero. Para otras peculiaridades, véase [IV, I, 5, 19](../Book_2_4_1#v4_1_5_19). En algunas libaciones se utiliza tanto una pâtra (copa) como un sthâlî (cuenco).
 
-[^624]: 259:2 Véase [III, 2, 3, 1](Book_2_3_2#v3_2_3_1) seq.
+[^624]: 259:2 Véase [III, 2, 3, 1](../Book_2_3_2#v3_2_3_1) seq.
 
 [^625]: 260:1 Lit. forma el soporte o base. La frase también podría traducirse como «esta tierra sin duda es un upayâma (soporte), pues da alimento». Aparentemente, quiere decir que, como los dioses están arriba, el alimento que se les ofrece requiere algún soporte, algo que lo sostenga para que los dioses puedan alcanzarlo.
 
-[^626]: 260:2 Esto se refiere a la fórmula «Este es tu vientre», con la que la mayoría de las libaciones, tras ser extraídas, se depositan en su lugar correspondiente en el khara hasta que se utilizan para la ofrenda. Véase [IV, 1, 3, 19](Book_2_4_1#v4_1_3_19).
+[^626]: 260:2 Esto se refiere a la fórmula «Este es tu vientre», con la que la mayoría de las libaciones, tras ser extraídas, se depositan en su lugar correspondiente en el khara hasta que se utilizan para la ofrenda. Véase [IV, 1, 3, 19](../Book_2_4_1#v4_1_3_19).
 
 [^627]: 261:1 'Si ofreciera ambos después del amanecer, solo habría día, y no noche; y si ofreciera ambos antes del amanecer, solo habría noche, y no día.' Texto del Kâ<i>n</i>va.
 
 [^628]: 261:2 Tasmâd y ida<i>m</i> ṛatrau tamasi sati nir<i>g</i><i>ñ</i>ayata iva ki<i>m</i><i>k</i>id iva. Texto de Kâ<i>n</i>va.
 
-[^629]: 261:3 Es decir, del flujo de Soma vertido desde la copa del Hotri sobre el paño filtrante. Véase [p. 256](Book_2_4_1#p256), nota [^619].
+[^629]: 261:3 Es decir, del flujo de Soma vertido desde la copa del Hotri sobre el paño filtrante. Véase [p. 256](../Book_2_4_1#p256), nota [^619].
 
-[^630]: 261:4 Véase el [párrafo 6](Book_2_4_1#v4_1_2_6), con nota.
+[^630]: 261:4 Véase el [párrafo 6](../Book_2_4_1#v4_1_2_6), con nota.
 
 [^631]: 262:1 Mahîdhara ofrece la interpretación alternativa: «A través de ti coloco el día y la noche entre (Soma y los enemigos)», que es también la interpretación de Sâya<i>n</i>a en Taitt. S. I, 4, 3; como aparentemente la del propio Taitt. S., VI, 4, 6.
 
-[^632]: 262:2 Véase [IV, 1, 1, 17](Book_2_4_1#v4_1_1_17)\-[18](Book_2_4_1#v4_1_1_18).
+[^632]: 262:2 Véase [IV, 1, 1, 17](../Book_2_4_1#v4_1_1_17)\-[18](../Book_2_4_1#v4_1_1_18).
 
-[^633]: 263:1 Esto no parece referirse a los Taittirîyas, ya que ellos prescriben el mismo orden de procedimiento para el Antaryâma que para el Upâ<i>m</i><i>s</i>u ([p. 252](Book_2_4_1#p252), nota [2](Book_2_4_1#fn608)); cf. Sâya<i>n</i>a sobre Taitt. S. I, p. 603. Véase, sin embargo, Maitrây. Sa<i>m</i>h. I, 3, 4-5.
+[^633]: 263:1 Esto no parece referirse a los Taittirîyas, ya que ellos prescriben el mismo orden de procedimiento para el Antaryâma que para el Upâ<i>m</i><i>s</i>u ([p. 252](../Book_2_4_1#p252), nota [2](../Book_2_4_1#fn608)); cf. Sâya<i>n</i>a sobre Taitt. S. I, p. 603. Véase, sin embargo, Maitrây. Sa<i>m</i>h. I, 3, 4-5.
 
 [^634]: 263:2 «Apîd (vai)» parece tener un significado muy similar («quizás») al del posterior «api nâma». Cf. I, 9, 1, 19.
 
 [^635]: 263:3 Ofrece todo el Soma en la copa Antaryâma, sin dejar nada, ni verter ningún jugo en el Âgraya<i>n</i>asthâlî.
 
-[^636]: 264:1 Según el texto de Kâ<i>n</i>va, debe colocar la copa de Antaryâma en la esquina sureste (dakshi<i>n</i>ârdhe) del khara (véase [p. 255](Book_2_4_1#p255), n. [2](Book_2_4_1#fn618)); mientras que, según Kâty. IX, 2, I, tanto el Upâ<i>m</i><i>s</i>u como Antaryâma deben colocarse en la esquina noreste, el primero al sur del segundo. Esta disposición, sin embargo, difícilmente concordaría con [IV, I, 1, 27](Book_2_4_1#v4_1_1_27)\-[28](Book_2_4_1#v4_1_1_28). La piedra Upâ<i>m</i><i>s</i>u-savana, sin duda, debe estar entre las dos copas, con su cara hacia el Upâ<i>m</i><i>s</i>u.
+[^636]: 264:1 Según el texto de Kâ<i>n</i>va, debe colocar la copa de Antaryâma en la esquina sureste (dakshi<i>n</i>ârdhe) del khara (véase [p. 255](../Book_2_4_1#p255), n. [2](../Book_2_4_1#fn618)); mientras que, según Kâty. IX, 2, I, tanto el Upâ<i>m</i><i>s</i>u como Antaryâma deben colocarse en la esquina noreste, el primero al sur del segundo. Esta disposición, sin embargo, difícilmente concordaría con [IV, I, 1, 27](../Book_2_4_1#v4_1_1_27)\-[28](../Book_2_4_1#v4_1_1_28). La piedra Upâ<i>m</i><i>s</i>u-savana, sin duda, debe estar entre las dos copas, con su cara hacia el Upâ<i>m</i><i>s</i>u.
 
-[^637]: 265:1 Es decir, al cuerpo de Ya<i>g</i><i>ñ</i>a (madhyadeha, Sây.) a diferencia de sus extremidades. El Petersb. Dict. toma adhyâtmam en el sentido de 'con respecto al yo (o persona)'. Véase [IV, 1, 4, 1](Book_2_4_1#v4_1_4_1), con nota; [IV, 2, 2, 1](Book_2_4_2#v4_2_2_1) ss.
+[^637]: 265:1 Es decir, al cuerpo de Ya<i>g</i><i>ñ</i>a (madhyadeha, Sây.) a diferencia de sus extremidades. El Petersb. Dict. toma adhyâtmam en el sentido de 'con respecto al yo (o persona)'. Véase [IV, 1, 4, 1](../Book_2_4_1#v4_1_4_1), con nota; [IV, 2, 2, 1](../Book_2_4_2#v4_2_2_1) ss.
 
 [^638]: 265:2 En I, 6, 2, 3; II, 2, 3, 9, sustituí erróneamente un verbo de movimiento (p. 266) con la partícula ed, siguiendo la interpretación original del Petersb. Dict. y Weber's Ind. Stud. IX, 249. Ahora adopto la explicación posterior presentada en el «Nachträge». El profesor Whitney, Amer. Journ. of Phil., III, p. 399, aparentemente se basa en la misma fuente.
 
@@ -366,31 +366,31 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 [^642]: 267:1 Es decir, para inhalar la mayor cantidad posible del fuerte olor del Soma (?).
 
-[^643]: 267:2 Véase [p. 158](Book_2_3_6#p158), nota [1](Book_2_3_6#fn418).
+[^643]: 267:2 Véase [p. 158](../Book_2_3_6#p158), nota [1](../Book_2_3_6#fn418).
 
 [^644]: 267:3 O, articuladamente, distintamente (niruktam).
 
 [^645]: 268:1 Puroru<i>k</i> (lit. 'que brilla antes') es la designación de las fórmulas que preceden al Upayâma, 'Eres tomado con un soporte, etc.'
 
-[^646]: 268:2 Véase [p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619).
+[^646]: 268:2 Véase [p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619).
 
-[^647]: 269:1 Cuando la copa está medio llena, la retira por un momento de la corriente de Soma que fluye de la copa del Hotri hacia el abrevadero del Dro<i>n</i>akala<i>s</i>a; tras lo cual la vuelve a sumergir para llenarla por completo. Para la forma de esta copa, véase [IV, I, 5, 19](Book_2_4_1#v4_1_5_19).
+[^647]: 269:1 Cuando la copa está medio llena, la retira por un momento de la corriente de Soma que fluye de la copa del Hotri hacia el abrevadero del Dro<i>n</i>akala<i>s</i>a; tras lo cual la vuelve a sumergir para llenarla por completo. Para la forma de esta copa, véase [IV, I, 5, 19](../Book_2_4_1#v4_1_5_19).
 
-[^648]: 269:2 Véase [IV, 1, 2, 6](Book_2_4_1#v4_1_2_6), con nota.
+[^648]: 269:2 Véase [IV, 1, 2, 6](../Book_2_4_1#v4_1_2_6), con nota.
 
-[^649]: 269:3 Véase [IV, 1, 2, 9](Book_2_4_1#v4_1_2_9) con nota.
+[^649]: 269:3 Véase [IV, 1, 2, 9](../Book_2_4_1#v4_1_2_9) con nota.
 
-[^650]: 269:4 El texto de Kâ<i>n</i>va añade, tad asyaitâv âtmana<i>h</i>, 'y estos dos son de su ser', lo que parece querer explicar el adhyâtmam precedente, 'perteneciente a su ser'. Véase [IV, 1, 3, 1](Book_2_4_1#v4_1_3_1), con nota.
+[^650]: 269:4 El texto de Kâ<i>n</i>va añade, tad asyaitâv âtmana<i>h</i>, 'y estos dos son de su ser', lo que parece querer explicar el adhyâtmam precedente, 'perteneciente a su ser'. Véase [IV, 1, 3, 1](../Book_2_4_1#v4_1_3_1), con nota.
 
-[^651]: 271:1 Véase [p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619). Para la forma de esta copa, véase [IV, 1, 5, 19](Book_2_4_1#v4_1_5_19).
+[^651]: 271:1 Véase [p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619). Para la forma de esta copa, véase [IV, 1, 5, 19](../Book_2_4_1#v4_1_5_19).
 
-[^652]: 271:2 Véase [IV, 1, 2, 6](Book_2_4_1#v4_1_2_6), y nota.
+[^652]: 271:2 Véase [IV, 1, 2, 6](../Book_2_4_1#v4_1_2_6), y nota.
 
 [^653]: 272:1 Éste es un análisis falso de <i>ri</i>tâyu, 'justo, santo'.
 
 [^654]: 272:2 El texto dice «Brahman», lo cual debe ser erróneo. La recensión de Kâ<i>n</i>va dice, correctamente, «mitro vâ <i>ri</i>tam, brahma hi mitro, brahma hy <i>ri</i>tam».
 
-[^655]: 272:3 El A<i>s</i>vina graha no se toma en este momento, sino más tarde, tras la oblación de las gotas y el canto del stotra Bahishpavamâna; véase [IV, 2, 5, 12](Book_2_4_2#v4_2_5_12). Las razones para insertarlo aquí se dan en los párrafos [15](Book_2_4_1#v4_1_5_15)\-[16](Book_2_4_1#v4_1_5_16).
+[^655]: 272:3 El A<i>s</i>vina graha no se toma en este momento, sino más tarde, tras la oblación de las gotas y el canto del stotra Bahishpavamâna; véase [IV, 2, 5, 12](../Book_2_4_2#v4_2_5_12). Las razones para insertarlo aquí se dan en los párrafos [15](../Book_2_4_1#v4_1_5_15)\-[16](../Book_2_4_1#v4_1_5_16).
 
 [^656]: 272:4 Lit. «lo bebe mientras lo gira», según el modismo sánscrito habitual. La copa Â<i>s</i>vina tiene tres bocas, de las cuales se bebe el soma por turnos. Véase Haug, Trad. Ait. Br., pág. 132.
 
@@ -404,21 +404,21 @@ CUARTO KÂ<i>N</i><i>D</i>A.
 
 [^661]: 274:2 Es decir, 'rompió su campamento y partió con su tribu' (así 'payuyu<i>g</i>e grâma<i>h</i>, recensión de Kâ<i>n</i>va).
 
-[^662]: 275:1 O, según el Diccionario de Petersburgo, «Arrójalo a aquel estanque». En el texto de Kâ<i>n</i>va no se menciona ningún estanque (hrada), sino simplemente agua a la que el <i>Ri</i>shi es llevado por su esposa. Adjunto la traducción del profesor Whitney del pasaje correspondiente de la versión <i>G</i>aiminîya Br.: Ellos (los A<i>s</i>vins) le dijeron: «Sabio, haznos partícipes del Soma, señor». «Muy bien», dijo él; «hazme rejuvenecer de nuevo». Lo llevaron al <i>s</i>ai<i>s</i>ava de Sarasvatī. Él dijo: «Muchacha, todos saldremos con el mismo aspecto; ¿me reconoces entonces por esta señal?». Todos salieron con el mismo aspecto, con esa forma que es la más hermosa de las formas. Ella, al reconocerlo… “Este es mi esposo”. Le dijeron: “Sabio, hemos cumplido para ti ese deseo que era tu anhelo; has rejuvenecido; ahora instrúyenos de tal manera que podamos ser partícipes del Soma”.
+[^662]: 275:1 O, según el Diccionario de Petersburgo, «Arrójalo a aquel estanque». En el texto de Kâ<i>n</i>va no se menciona ningún estanque (hrada), sino simplemente agua a la que el <i>Ri</i>shi es llevado por su esposa. Adjunto la traducción del profesor Whitney del pasaje correspondiente de la versión <i>G</i>aiminîya Br.: Ellos (los A<i>s</i>vins) le dijeron: «Sabio, haznos partícipes del Soma, señor». «Muy bien», dijo él; «hazme rejuvenecer de nuevo». Lo llevaron al <i>s</i>ai<i>s</i>ava de Sarasvatī. Él dijo: «Muchacha, todos saldremos con el mismo aspecto; ¿me reconoces entonces por esta señal?». Todos salieron con el mismo aspecto, con esa forma que es la más hermosa de las formas. Ella, al reconocerlo… «Este es mi esposo». Le dijeron: «Sabio, hemos cumplido para ti ese deseo que era tu anhelo; has rejuvenecido; ahora instrúyenos de tal manera que podamos ser partícipes del Soma».
 
 Entonces Kyavana el Bhārgavan, rejuvenecido, fue ante Karyāta el Mānavan y realizó su sacrificio en el lugar oriental. Le dio mil; con ellos sacrificó. Así, Kyavana el Bhārgavan, tras haber alabado a este sāman (el kyāvana), rejuvenecido, se casó con una joven y ofreció mil sacrificios, etc.
 
 [^663]: 276:1 Ciertos versos que deben cantarse durante el día. Según Benfey (Ind. Stud. III, pág. 228), también llamado mahâdivâkîrtya, consta de once versos (no incluidos en el Sama-veda), el primero de los cuales se llama «<i>s</i>iras (cabeza)», el segundo «grîvâ<i>h</i> (cuello), etc. El término también se aplica al Sama-veda II, 803-5 (Rig-veda X, 170,1-3) en el Uhyagâna II, 12. La referencia en el texto parece ser a <i>S</i>at. Br. XIV, 1, 1, 8 y ss. Véase, sin embargo, Weber, Ind. Streifen, I, pág. 15, nota 4. El manuscrito Kâ<i>n</i>va. léase 'divâkîrteshu'.
 
-[^664]: 276:2 Cabría esperar el doble «dvidevatyau», ya que, además del Â<i>s</i>vina graha, solo hay dos grahas dvidevatya (pertenecientes a dos dioses), a saber, el Aindra-vâyava y el Maitrâ-varu<i>n</i>a. Véase [p. 266](Book_2_4_1#p266), nota [3](Book_2_4_1#fn639).
+[^664]: 276:2 Cabría esperar el doble «dvidevatyau», ya que, además del Â<i>s</i>vina graha, solo hay dos grahas dvidevatya (pertenecientes a dos dioses), a saber, el Aindra-vâyava y el Maitrâ-varu<i>n</i>a. Véase [p. 266](../Book_2_4_1#p266), nota [3](../Book_2_4_1#fn639).
 
 [^665]: 276:3 O, en su forma visible (pratyaksham).
 
 [^666]: 276:4 Véase Muir, OST v, pág. 234. La identificación de los Asvins con el cielo y la tierra puede haber sido sugerida por Rig-veda VI, 70, 5, pág. 277, donde se invoca al cielo y a la tierra para mezclar la dulce bebida, tal como es el caso de los Asvins en el verso con el que se realiza su libación.
 
-[^667]: 277:1 Véase [p. 256](Book_2_4_1#p256), nota [1](Book_2_4_1#fn619).
+[^667]: 277:1 Véase [p. 256](../Book_2_4_1#p256), nota [1](../Book_2_4_1#fn619).
 
-[^668]: 277:2 Véase [IV, 1, 2, 6](Book_2_4_1#v4_1_2_6), y nota.
+[^668]: 277:2 Véase [IV, 1, 2, 6](../Book_2_4_1#v4_1_2_6), y nota.
 
 [^669]: 277:3 El verdadero significado de este epíteto (mâdhvî) es incierto.
 

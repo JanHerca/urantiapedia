@@ -136,7 +136,7 @@ Quien impulsó el alto y poderoso cielo al movimiento, la Estrella de antaño, y
 <p id="v2"><sup><small>2</small></sup> Con mi propio corazón me refiero a la cuestión de cómo Varuṇa y yo podemos unirnos.
 ¿Qué regalo mío aceptará sin enojarse? ¿Cuándo podré mirarlo con calma y encontrarlo misericordioso?
 <p id="v3"><sup><small>3</small></sup> Deseoso de saber que éste es mi pecado, pregunto a los demás: busco a los sabios, oh Varuṇa, y les pregunto.
-Esta misma respuesta me la dieron incluso los sabios: “Seguramente este Varuṇa está enojado contigo”.
+Esta misma respuesta me la dieron incluso los sabios: «Seguramente este Varuṇa está enojado contigo».
 <p id="v4"><sup><small>4</small></sup> ¿Cuál ha sido, Varuna, mi principal transgresión, para que mates al amigo que canta tus alabanzas?
 Dime, Señor inconquistable, y pronto, sin pecado, me acercaré a ti con mi homenaje.
 <p id="v5"><sup><small>5</small></sup> Líbranos de los pecados cometidos por nuestros padres, de aquellos en los que nosotros mismos hemos ofendido.

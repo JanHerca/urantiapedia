@@ -82,7 +82,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 <span id="v5_2_1_2323"><sup><small>5:2:1:2323.</small></sup></span> Está hecho de madera de udumbara (el árbol de udumbara es el sustento, es decir, el alimento) para que él obtenga su sustento, alimento; por lo tanto, está hecho de madera de udumbara. Lo colocaron frente al Havirdhâna (cobertizo para carretas), detrás del Âhavanîya (fuego).
 
-<span id="v5_2_1_2424"><sup><small>5:2:1:2424.</small></sup></span> Luego extiende la piel de cabra sobre ella; pues en verdad, el macho cabrío no es otro que Pra<i>g</i>âpati, pues ellas, las cabras, son claramente Pra<i>g</i>âpati (el señor de la generación o criaturas); por lo que, al reproducirse tres veces al año, producen dos o tres [^84]: así, él (el Sacrificador) se convierte en Pra<i>g</i>âpati mismo; por eso extiende la piel de cabra sobre ella. <span id="p36">[<sup><small>pág. 36</small></sup>]</span> 5:2:1:2525\. Lo difunde con: "¡Esta es tu realeza!", con lo cual le otorga poder real. Luego lo hace sentarse con: "¡Tú eres el gobernante, el señor gobernante!", con lo cual lo convierte en gobernante, gobernando a sus súbditos. "¡Eres firme y constante!", con lo cual lo hace firme y constante en este mundo; "¡Tú por la labranza! ¡Tú por la paz de vivir! ¡Tú por la riqueza! ¡Tú por el ahorro!", con lo cual quiere decir: "(Aquí me siento) por el bienestar (del pueblo)".
+<span id="v5_2_1_2424"><sup><small>5:2:1:2424.</small></sup></span> Luego extiende la piel de cabra sobre ella; pues en verdad, el macho cabrío no es otro que Pra<i>g</i>âpati, pues ellas, las cabras, son claramente Pra<i>g</i>âpati (el señor de la generación o criaturas); por lo que, al reproducirse tres veces al año, producen dos o tres [^84]: así, él (el Sacrificador) se convierte en Pra<i>g</i>âpati mismo; por eso extiende la piel de cabra sobre ella. <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> 5:2:1:2525\. Lo difunde con: "¡Esta es tu realeza!", con lo cual le otorga poder real. Luego lo hace sentarse con: "¡Tú eres el gobernante, el señor gobernante!", con lo cual lo convierte en gobernante, gobernando a sus súbditos. "¡Eres firme y constante!", con lo cual lo hace firme y constante en este mundo; "¡Tú por la labranza! ¡Tú por la paz de vivir! ¡Tú por la riqueza! ¡Tú por el ahorro!", con lo cual quiere decir: "(Aquí me siento) por el bienestar (del pueblo)".
 
 
 <span id="v5_2_2"><sup><small>5:2:2</small></sup></span>
@@ -130,7 +130,7 @@ dateCreated: 2025-1-15T22:56:28Z
 <span id="v5_2_2_2121"><sup><small>5:2:2:2121.</small></sup></span> Pone el Idâ en (el plato). Tras invocar el Idâ, él, tras tocar agua, extrae la copa de Mahendra. Tras extraer la copa de Mahendra, prepara el Stotra (P<i>ri</i>sh<i>th</i>a-). Lo insta (al Sacrificador) a que avance hacia el canto: desciende (del trono); asiste al canto (stotra), asiste a la recitación (<i>s</i>astra).
 
 
-<span id="p42">[<sup><small>pág. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 <span id="v5_2_3"><sup><small>5:2:3</small></sup></span>
 
@@ -278,7 +278,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^76]: 31:2 Según una leyenda dada en III, 1, 2, 13 seq., el hombre tenía originalmente una piel (peluda), o cuero; pero los dioses, habiéndolo desollado, pusieron su piel sobre la vaca.
 
-[^77]: 31:3 En el ceremonial del Ya<i>g</i>us Negro (Taitt. Br. I. 3, 7, 1) el mismo sacrificador tiene que ponerse una prenda 'târpya', para lo cual véase la nota en [V, 2, 5, 20](Book_3_5_3#v5_3_5_20) (sic).
+[^77]: 31:3 En el ceremonial del Ya<i>g</i>us Negro (Taitt. Br. I. 3, 7, 1) el mismo sacrificador tiene que ponerse una prenda 'târpya', para lo cual véase la nota en [V, 2, 5, 20](../Book_3_5_3#v5_3_5_20) (sic).
 
 [^78]: 32:1 Es decir, porque su asiento ordinario está en la parte trasera, o en el extremo oeste, del altar.
 
@@ -288,7 +288,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^81]: 34:2 O bien, «Espero que no me despedace». Para esta construcción —que corresponde exactamente al alemán «dass (o, wenn) er mich nur nicht aufreisst!» (cf. también el uso coloquial del francés «pourvu» —«pourvu qu'il ne me déchire pas!»)—, véase la parte ii, pág. 31, nota 1.
 
-[^82]: 34:3 El B<i>ri</i>haspatisava lo realiza un Brâhma<i>n</i>a con vistas a obtener el cargo de Purohita (capellán real o sacerdote familiar). Para la regla del Â<i>s</i>valâyana, que la equipara con el sacrificio Râ<i>g</i>asûya de un rey, véase [p. 4](Book_3_5_1#p4), nota [1](Book_3_5_1#fn33).
+[^82]: 34:3 El B<i>ri</i>haspatisava lo realiza un Brâhma<i>n</i>a con vistas a obtener el cargo de Purohita (capellán real o sacerdote familiar). Para la regla del Â<i>s</i>valâyana, que la equipara con el sacrificio Râ<i>g</i>asûya de un rey, véase [p. 4](../Book_3_5_1#p4), nota [1](../Book_3_5_1#fn33).
 
 [^83]: 35:1 Se supone que el sacrificador hizo esto mediante el acto simbólico de levantar su cabeza por encima del poste del sacrificio; ver el párrafo 14 arriba.
 
@@ -298,11 +298,11 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^86]: 36:2 Recoge (sambharati), o le provee de alimento; esta ceremonia corresponde a la de equipar o abastecer el fuego sagrado con los llamados sambharas, en el Agny-âdhâna; ver II, 1, 1, 1 seq.; parte i, pág. 276, nota 1.
 
-[^87]: 37:1 O «de Pra<i>g</i>âpati»; o quizás, «seguramente no toda la comida de Pra<i>g</i>âpati es apropiada». La recensión Kâ<i>n</i>va dice así: [VI, 2, 3, 3](Book_3_6_2#v6_2_3_3). Primero trae agua, luego leche, y luego, según se le ocurran, otros tipos de comida. «Que traiga esos diecisiete tipos de comida», dicen, «pues Pra<i>g</i>âpati es diecisiete veces mayor». Sin embargo (tadu) que traiga cualquier tipo de comida que se le ocurra o pueda conseguir. 4. De este alimento que ha reunido, que reserve (uddharet) un alimento: que lo abandone (tad udbruvîta) y no lo coma mientras viva (yâva<i>g</i> <i>g</i>îvet). Por esa misma cantidad (o, incluso mientras, tâvad api vai prâ<i>g</i>apate<i>h</i> sarvam annam anavaruddham) no se apropia todo el alimento de Pra<i>g</i>âpati; ¿y quién es el hombre (comparado) para apropiarse de todo el alimento? Así no llega al fin, así vive mucho: ese alimento queda aquí para su descendencia (o pueblo).
+[^87]: 37:1 O «de Pra<i>g</i>âpati»; o quizás, «seguramente no toda la comida de Pra<i>g</i>âpati es apropiada». La recensión Kâ<i>n</i>va dice así: [VI, 2, 3, 3](../Book_3_6_2#v6_2_3_3). Primero trae agua, luego leche, y luego, según se le ocurran, otros tipos de comida. «Que traiga esos diecisiete tipos de comida», dicen, «pues Pra<i>g</i>âpati es diecisiete veces mayor». Sin embargo (tadu) que traiga cualquier tipo de comida que se le ocurra o pueda conseguir. 4. De este alimento que ha reunido, que reserve (uddharet) un alimento: que lo abandone (tad udbruvîta) y no lo coma mientras viva (yâva<i>g</i> <i>g</i>îvet). Por esa misma cantidad (o, incluso mientras, tâvad api vai prâ<i>g</i>apate<i>h</i> sarvam annam anavaruddham) no se apropia todo el alimento de Pra<i>g</i>âpati; ¿y quién es el hombre (comparado) para apropiarse de todo el alimento? Así no llega al fin, así vive mucho: ese alimento queda aquí para su descendencia (o pueblo).
 
 [^88]: 37:2 Sâya<i>n</i>a explica 'tasya udbruvîta' por medio de,—uno debe proclamarlo, diciendo en voz alta 'tal y tal alimento no ha sido traído;'—na sambh<i>ri</i>tam ity u<i>k</i><i>k</i>ais tannâma brûyât.
 
-[^89]: 37:3 Es decir, oblaciones calculadas para promover o avivar (pra-su) la fuerza (alimento,—vâ<i>g</i>a) por sus oraciones, las primeras tres de las cuales comienzan con 'vâ<i>g</i>asya . . . prasava<i>h</i>'. Véase [p. 2](Book_3_5_1#p2), nota [1](Book_3_5_1#fn32). En el ritual del Ya<i>g</i>us Negro estas oblaciones se llaman 'Annahomâ<i>h</i>' u oblaciones de alimento. Taitt. Br. I, 3, 8, 1. Sin embargo, los Sûtras parecen utilizar también el término 'Vâ<i>g</i>aprasavanîya' (o Vâ<i>g</i>aprasavîya).
+[^89]: 37:3 Es decir, oblaciones calculadas para promover o avivar (pra-su) la fuerza (alimento,—vâ<i>g</i>a) por sus oraciones, las primeras tres de las cuales comienzan con 'vâ<i>g</i>asya . . . prasava<i>h</i>'. Véase [p. 2](../Book_3_5_1#p2), nota [1](../Book_3_5_1#fn32). En el ritual del Ya<i>g</i>us Negro estas oblaciones se llaman 'Annahomâ<i>h</i>' u oblaciones de alimento. Taitt. Br. I, 3, 8, 1. Sin embargo, los Sûtras parecen utilizar también el término 'Vâ<i>g</i>aprasavanîya' (o Vâ<i>g</i>aprasavîya).
 
 [^90]: 38:1 Rig-veda X, 141, 3 dice: —Invocamos con nuestras voces al Rey Soma, a Agni, a los Âdityas, etc.
 
@@ -316,13 +316,13 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^95]: 41:1 Véase I, 8, 1, 18 y siguientes.
 
-[^96]: 41:2 Es decir, el P<i>ri</i>sh<i>th</i>a-stotra (el primero o del Hot<i>ri</i>), para el cual véase arriba, [p. 15](Book_3_5_1#p15), nota [1](Book_3_5_1#fn55); parte ii, p. 339, nota 2. Su canto es seguido por el Nishkevalya-<i>s</i>astra, recitado por el Hot<i>ri</i>.
+[^96]: 41:2 Es decir, el P<i>ri</i>sh<i>th</i>a-stotra (el primero o del Hot<i>ri</i>), para el cual véase arriba, [p. 15](../Book_3_5_1#p15), nota [1](../Book_3_5_1#fn55); parte ii, p. 339, nota 2. Su canto es seguido por el Nishkevalya-<i>s</i>astra, recitado por el Hot<i>ri</i>.
 
 [^97]: 41:3 Es decir, según Sâya<i>n</i>a, hacen que el Svish<i>t</i>ak<i>ri</i>t y el levantamiento del sacrificador del asiento del trono tengan lugar después de la pronunciación de las fórmulas 'u<i>g</i><i>g</i>iti', la extracción de la copa de Mâhendra y la realización del Stotra y el Sastra.
 
 [^98]: 42:1 Sobre el pûr<i>n</i>âhuti, o libación de una cucharada de ghee, véase la parte i, pág. 302, nota. Según Kâty. <i>S</i>r. XV, 1, 4 seq. Â<i>s</i>v. <i>S</i>r. IX, 3, 2, y otras autoridades, esta ofrenda completa está precedida por el Pavitra (ceremonia purificatoria), un sacrificio de Soma con cuatro dikshâs o días de iniciación (? comenzando el primer día de la quincena brillante de Phâlguna), que sirve como la ofrenda de apertura ordinaria (anvârambha<i>n</i>îyesh<i>t</i>i). No cabe duda de que formaba parte del ceremonial en el momento de la composición del Brâhma<i>n</i>a (cf. Pa<i>ñ</i><i>k</i>av. Br. 18, 8. 1), pero como se trata de un Agnish<i>t</i>oma ordinario, el autor no tenía motivos para referirse a él.
 
-[^99]: 42:2 Es decir, la aprobación o favor de las deidades, personificadas. Según Yâ<i>g</i><i>ñ</i>ika Deva (a Kâty. <i>S</i>r. XV, 1, 8), las ceremonias que ahora comienzan comenzarían el día 10 de la mitad brillante de Phalgunî: la ceremonia del quinto día a partir de este día, es decir, la primera de las cuatro ofrendas estacionales, que debe realizarse en la luna llena de ese mes; véase [p. 47](#p47), nota [1](Book_3_5_2#fn109).
+[^99]: 42:2 Es decir, la aprobación o favor de las deidades, personificadas. Según Yâ<i>g</i><i>ñ</i>ika Deva (a Kâty. <i>S</i>r. XV, 1, 8), las ceremonias que ahora comienzan comenzarían el día 10 de la mitad brillante de Phalgunî: la ceremonia del quinto día a partir de este día, es decir, la primera de las cuatro ofrendas estacionales, que debe realizarse en la luna llena de ese mes; véase [p. 47](#p47), nota [1](../Book_3_5_2#fn109).
 
 [^100]: 43:1 Las autoridades del Yagus Negro preparan con ello un pastel en un kapâla. Taitt. S. I, 8, 1.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^108]: 46:3 Para los cuatro <i>K</i>âturmâsya (enumerados en el capítulo siguiente), véase la parte i, pág. 383 y siguientes.
 
-[^109]: 47:1 Esta, la primera de las ofrendas estacionales, debe realizarse en la luna llena de Phalgunî, seguida de las otras tres con intervalos de cuatro meses cada una. Durante estos intervalos, los sacrificios quincenales ordinarios deben realizarse día tras día, de modo que el sacrificio de luna llena y el de luna nueva se realicen en días alternos, o bien el primero en cada día de las quincenas brillantes, y el segundo en cada día de las quincenas oscuras. Así, según Â<i>s</i>v. Sr. IX, 3, 6; mientras que Kâty. XV, 1, 18 solo permite este último modo. La ofrenda estacional final, o <i>S</i>unâsîrya, que ordinariamente se realiza doce meses después del Vai<i>s</i>vadeva, o en la luna llena de Phâlguna, en la presente ocasión se realizará justo un año después del sacrificio de apertura, o Pavitra ([p. 42](Book_3_5_2#p42), nota [1](Book_3_5_2#fn98)), es decir, el primer día de la quincena brillante de Phâlguna, siendo seguido inmediatamente por el Pa<i>ñ</i><i>k</i>avâtîya.
+[^109]: 47:1 Esta, la primera de las ofrendas estacionales, debe realizarse en la luna llena de Phalgunî, seguida de las otras tres con intervalos de cuatro meses cada una. Durante estos intervalos, los sacrificios quincenales ordinarios deben realizarse día tras día, de modo que el sacrificio de luna llena y el de luna nueva se realicen en días alternos, o bien el primero en cada día de las quincenas brillantes, y el segundo en cada día de las quincenas oscuras. Así, según Â<i>s</i>v. Sr. IX, 3, 6; mientras que Kâty. XV, 1, 18 solo permite este último modo. La ofrenda estacional final, o <i>S</i>unâsîrya, que ordinariamente se realiza doce meses después del Vai<i>s</i>vadeva, o en la luna llena de Phâlguna, en la presente ocasión se realizará justo un año después del sacrificio de apertura, o Pavitra ([p. 42](../Book_3_5_2#p42), nota [1](../Book_3_5_2#fn98)), es decir, el primer día de la quincena brillante de Phâlguna, siendo seguido inmediatamente por el Pa<i>ñ</i><i>k</i>avâtîya.
 
 [^110]: 47:2 Véase parte i, pág. 391 y siguientes.
 
@@ -360,7 +360,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^117]: 51:1 Sobre el epíteto de Rudra vâstavya, véase I, 7, 3, 1, 8.
 
-[^118]: 52:1 Rudra gobierna sobre las bestias (III, 6; 2, 20), por lo que también se le llama el señor de las bestias (pa<i>s</i>ûnâm pati, I, 7, 3, 8; Pa<i>s</i>upati [V, 3, 3, 7](Book_3_5_3#v5_3_3_7)). Pûshan, el genio del ahorro y la prosperidad, también es considerado (como el griego Pan) como el protector del ganado: véase [V, 2, 5, 8](Book_3_5_2#v5_2_5_8).
+[^118]: 52:1 Rudra gobierna sobre las bestias (III, 6; 2, 20), por lo que también se le llama el señor de las bestias (pa<i>s</i>ûnâm pati, I, 7, 3, 8; Pa<i>s</i>upati [V, 3, 3, 7](../Book_3_5_3#v5_3_3_7)). Pûshan, el genio del ahorro y la prosperidad, también es considerado (como el griego Pan) como el protector del ganado: véase [V, 2, 5, 8](../Book_3_5_2#v5_2_5_8).
 
 [^119]: 53:1 Véase la parte ii, pág. 248.
 

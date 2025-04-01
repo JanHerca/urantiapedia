@@ -49,7 +49,7 @@ Estas aventuras desesperadas buscan,
 —No pude —exclamó Sugríva—,
 Sobre el rey gigante para mirar,
 
-<span id="p458">[<sup><small>pág. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 Ni desafío a la lucha mortal
 El demonio que te robó a tu esposa.
@@ -172,7 +172,7 @@ Entonces, golpeando con un golpe terrible,
 Rompió una torreta del tejado,
 Como cuando el levin ardiente envió
 
-<span id="p459">[<sup><small>pág. 459</small></sup>]</span>
+<span id="p459"><sup><small>[ p. 459 ]</small></sup></span>
 
 Por Indra desde las nubes se ha rentado
 La orgullosa cima del Señor de las Nieves,
@@ -293,7 +293,7 @@ Sobre Angad, el que reprime a sus enemigos.
 Pero Angad se alejó de su enemigo.
 La maza asesina que portaba el guerrero,
 
-<span id="p460">[<sup><small>pág. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 Y sus corceles rodaron entre el polvo,
 Su chofer y su coche de oro.
@@ -314,7 +314,7 @@ Y dispararon sus flechas a la cabeza y al pecho;
 Pero, cuando se agotó la lluvia de hierro,
 Lanzó cuatro flechas de su arco,
 Y cada misil, hábilmente disparado;
-Del tronco se desprendió una cabeza gigante. [1](Libro_6_50#fn961)
+Del tronco se desprendió una cabeza gigante. [1](../Libro_6_50#fn961)
 
 
 
@@ -355,7 +355,7 @@ Se levantó el polvo cegador de los prados
 Arado por los carros y los corceles pisoteadores,
 Y donde los guerreros cayeron el diluvio
 Era oscuro y terrible con sangre.
-Seis gigantes [1b](Libro_6_50#fn962) destacaron a Ráma,
+Seis gigantes [1b](../Libro_6_50#fn962) destacaron a Ráma,
 Y lo cargó con un grito furioso.
 Fuerte como el rugido del mar
 Cuando todos los vientos soplan libremente.
@@ -372,7 +372,7 @@ Como brilla en las noches de otoño un valle
 ¿Qué luciérnagas, brillando en la penumbra,
 Con luz momentánea iluminada.
 
-Pero Indrajit, cuando el hijo de Báli [2b](Libro_6_50#fn963)
+Pero Indrajit, cuando el hijo de Báli [2b](../Libro_6_50#fn963)
 La victoria sobre el enemigo había sido ganada.
 Vio con un ojo encendido por la furia
 Sus corceles destrozados y su cochero mueren;
@@ -393,7 +393,7 @@ Y los hijos de Raghu fueron los primeros en sentir
 La tempestad de su acero alado.
 Entonces, cuando sus flechas no lograron matar,
 Los príncipes que todavía lo desafiaron,
-Los ató con la soga de la serpiente, [3b](Libro_6_50#fn964)
+Los ató con la soga de la serpiente, [3b](../Libro_6_50#fn964)
 El vínculo mágico que nadie puede perder.
 
 
@@ -403,7 +403,7 @@ El vínculo mágico que nadie puede perder.
 Valiente Ráma, ardiendo aún por saber
 La posición de su astuto enemigo,
 
-<span id="p461">[<sup><small>pág. 461</small></sup>]</span>
+<span id="p461"><sup><small>[ p. 461 ]</small></sup></span>
 
 Entregó a diez jefes, entre los mejores
 De todo el ejército, su alto mandato.
@@ -531,7 +531,7 @@ Pronto la pareja en trance revivirá,
 Y de nuestros corazones aleja todo dolor.
 Aunque yazca postrado en la tierra,
 
-<span id="p462">[<sup><small>pág. 462</small></sup>]</span>
+<span id="p462"><sup><small>[ p. 462 ]</small></sup></span>
 
 No creas que la muerte de Rama está cerca;
 No creas que Lakshmí olvidará
@@ -651,7 +651,7 @@ Tú, oh mi señor y vida, estás muerto.
 El vidente adulador de antaño
 Mi dulce sonrisa de niña alabaría,
 
-<span id="p463">[<sup><small>pág. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 Y juro que el agua bendita se derramó
 Por las manos de Bráhman sobre mi cabeza
@@ -768,7 +768,7 @@ Los líderes de la tripulación gigante.
 Atravesado por flechas, por torrentes de sangre roja.
 Yaces en tu humilde lecho:
 
-<span id="p464">[<sup><small>pág. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 Así se hunde para descansar, una vez hecho su viaje,
 En medio de los rayos de luz carmesí del sol.
@@ -895,7 +895,7 @@ Relámpagos rojos destellaban desde los bancos de nubes.
 Las montañas temblaron, las olas salvajes se levantaron,
 Y herido con golpes irresistibles
 
-<span id="p465">[<sup><small>pág. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 Cayó desarraigado cada árbol majestuoso
 Que bordeaba el margen del mar.

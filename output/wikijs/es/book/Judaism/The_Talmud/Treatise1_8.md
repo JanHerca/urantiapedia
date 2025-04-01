@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 7\. «¿Si uno ha comido, se ha olvidado y no ha bendecido?» La escuela de Shamai dice: «Debe regresar a su lugar y bendecir». Pero la escuela de Hillel dice: «Puede bendecir en el lugar donde se acuerde». «¿Cuánto tiempo se debe bendecir?»: «Hasta que el alimento en el estómago sea digerido».
 
-8\. «¿Si llega vino a la compañía, y solo hay una copa?» La escuela de Shamai dice que «se debe bendecir el vino y luego la comida». Pero la escuela de Hillel dice que «se debe bendecir la comida y luego el vino». Se debe responder «Amén» cuando un israelita bendice; pero no se debe responder «Amén» cuando un samaritano bendice, hasta que se haya escuchado toda la bendición [1](Tratado1_9#fn31).
+8\. «¿Si llega vino a la compañía, y solo hay una copa?» La escuela de Shamai dice que «se debe bendecir el vino y luego la comida». Pero la escuela de Hillel dice que «se debe bendecir la comida y luego el vino». Se debe responder «Amén» cuando un israelita bendice; pero no se debe responder «Amén» cuando un samaritano bendice, hasta que se haya escuchado toda la bendición [1](../Tratado1_9#fn31).
 
 <figure class="table chapter-navigator">
   <table>

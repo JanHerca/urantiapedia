@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T23:1:28Z
 
 Sobre esto también relatan una antigua historia que muestra la naturaleza de la institución del <i>Kâturhotra</i> [^1321]. Ahora se enseña su correcta ejecución en su totalidad. ¡Escúchame, oh buena mujer! Expón este maravilloso misterio. El instrumento, la acción, el agente y la emancipación [^1322], estos, en verdad, ¡oh tú de corazón puro!, son los cuatro Hot<i>ri</i> que envuelven este universo. Escucha también la asignación exhaustiva de causas [^1323]. La nariz, la lengua, el ojo, la piel y el oído como el quinto, la mente y el entendimiento, estos siete deben entenderse como las causas del conocimiento de las cualidades [^1324]. Olfato, sabor, color, sonido y tacto, como el quinto, objeto de la operación mental y objeto del entendimiento [^1325], estos siete son causas de la acción. Quien huele, quien come, quien ve, quien habla y quien oye, como el quinto, quien piensa y quien comprende, estos siete deben entenderse como las causas de los agentes [^1326]. Estos [^1327], al poseer cualidades [^1328], disfrutan de sus propias cualidades, agradables y desagradables. Y yo estoy aquí desprovisto de cualidades. Así, estos siete son las causas de la emancipación [^1329]. Y entre los eruditos que comprenden (todo), las cualidades [^1330] que están en la posición de las deidades, cada una en su propio lugar, siempre disfrutan de la ofrenda según las reglas prescritas. Para quien no es erudito, al comer diversos alimentos, la sensación de que esto o aquello es mío se adhiere. Y al cocinar para sí mismo, se arruina por esa sensación [^1331]. Comer lo que no debe comerse y beber bebidas embriagantes también lo destruye. Destruye la comida, y al destruirla, es destruido a cambio. El erudito, siendo él mismo un gobernante, destruyendo esta comida, la vuelve a producir [^1332]. Y ni siquiera el más insignificante obstáculo [^1333] surge de esa comida. Todo lo que la mente piensa [^1334], todo lo que se dice, todo lo que el oído oye, todo lo que el ojo ve, todo lo que el tacto toca y todo lo que la nariz huele, absorbiendo todas estas ofrendas de todos lados, junto con esos seis sentidos que, junto con la mente, son [^1335], mi fuego [^1336] de altas cualidades [^1337] brilla morando en el cuerpo. Mi sacrificio de concentración mental está en progreso, cuya ejecución produce el fuego [^1338] del conocimiento; <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> el Stotra en el cual está el viento vital ascendente; el <i>S</i>astra,El viento vital descendente; y que es muy beneficioso debido al abandono de todo [^1339]; el sacerdote Brahman, en quien, es el consejero en toda acción [^1340]; el sacerdote Hot<i>ri</i>, el ser; el sacerdote Adhvaryu, (el ser) cuyo himno de alabanza [^1341] es la ofrenda; el Sastra del Pra<i>s</i>âst<i>ri</i>, la verdad; y el Dakshi<i>n</i>â, la emancipación final. Sobre esto, también, los versos _Rik_ son recitados por los hombres que entienden a Nârâya<i>n</i>a [^1342]\, el dios Nârâya<i>n</i>a a quien antiguamente ofrecían animales [^1343] (ofrendas). En ese Sâman se cantan himnos [^1344], de los cuales se da una ilustración [^1345].
 
-<span id="p281">[<sup><small>pág. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 ¡Oh modesto! Comprende que Dios Nârâya<i>n</i>a, que es el ser de todo.
 
@@ -72,7 +72,7 @@ Sobre esto también relatan una antigua historia que muestra la naturaleza de la
 
 [^1326]: 277:4 Cf. Aitareya-brâhma (Haug), págs. 132, 133.
 
-[^1327]: 278:1 Cf. en cuanto a las tres primeras, Gîtâ, [p. 123](Bhagavadgita_18#p123). Son las cuatro categorías, a una u otra de las cuales puede atribuirse todo lo que existe en el mundo.
+[^1327]: 278:1 Cf. en cuanto a las tres primeras, Gîtâ, [p. 123](../Bhagavadgita_18#p123). Son las cuatro categorías, a una u otra de las cuales puede atribuirse todo lo que existe en el mundo.
 
 [^1328]: 278:2 Los textos aquí difieren. La interpretación de Ar<i>g</i>una Mi<i>s</i>ra significa «la subyugación de estos Hotris». La lectura que sigue en el texto parece estar respaldada en cierta medida por la continuación. Pero el pasaje en general no es muy claro.
 
@@ -88,23 +88,23 @@ Sobre esto también relatan una antigua historia que muestra la naturaleza de la
 
 [^1334]: 278:8 Es de estos siete de los cuales el ser debe emanciparse. debe significar el ser, no el Brâhma<i>n</i>a que habla.
 
-[^1335]: 279:1 Es decir, supongo que son los sentidos. Cf. Gîtâ, [p. 50](Bhagavadgita_2#p50). Los eruditos no creen que su yo tenga nada que ver con ellos. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1335]: 279:1 Es decir, supongo que son los sentidos. Cf. Gîtâ, [p. 50](../Bhagavadgita_2#p50). Los eruditos no creen que su yo tenga nada que ver con ellos. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).
 
-[^1336]: 279:2 Cf. Bhagavad Gita, [pág. 53](Bhagavad-gita_3#p53); Manu III, 118.
+[^1336]: 279:2 Cf. Bhagavad Gita, [pág. 53](../Bhagavad-gita_3#p53); Manu III, 118.
 
-[^1337]: 279:3 Su conocimiento le otorga este poder. No es destruido por la comida como el otro hombre. Nîlaka<i>nth</i>a compara B<i>nth</i>hadâra<i>n</i>yaka, pág. 884. Véase también [pág. 260](Anugita_5#p260), nota [1](Anugita_5#fn1239) supra.
+[^1337]: 279:3 Su conocimiento le otorga este poder. No es destruido por la comida como el otro hombre. Nîlaka<i>nth</i>a compara B<i>nth</i>hadâra<i>n</i>yaka, pág. 884. Véase también [pág. 260](../Anugita_5#p260), nota [1](../Anugita_5#fn1239) supra.
 
 [^1338]: 279:4 Es decir, el daño debido a la destrucción de la vida necesaria para obtener alimento, dice Nîlaka<i>nth</i>a citando B<i>nth</i>hadâra<i>n</i>yaka, pág. 913.
 
 [^1339]: 279:5 Esto también incluye la operación del entendimiento. Nîlaka<i>nth</i>a dice que este verso explica el significado de la palabra «comida» aquí.
 
-[^1340]: 279:6 Para la frase cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1340]: 279:6 Para la frase cf. Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
-[^1341]: 279:7 Es decir, yo mismo, Ar<i>g</i>una Mi<i>s</i>ra. Véase [p. 259](Anugita_5#p259), nota [3](Anugita_5#fn1235) supra.
+[^1341]: 279:7 Es decir, yo mismo, Ar<i>g</i>una Mi<i>s</i>ra. Véase [p. 259](../Anugita_5#p259), nota [3](../Anugita_5#fn1235) supra.
 
 [^1342]: 279:8 Como los objetos de los sentidos, etc., son todos absorbidos por él.
 
-[^1343]: 279:9 Se le llama «fuego», pues quema toda acción. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62).
+[^1343]: 279:9 Se le llama «fuego», pues quema toda acción. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62).
 
 [^1344]: 280:1 El comentario de Ar<i>g</i>una Mi<i>s</i>ra no es inteligible aquí, por lo que sigo a Nîlaka<i>nth</i>a, pero con timidez.
 

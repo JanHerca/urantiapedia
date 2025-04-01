@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:57:51Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>pág. 228</small></sup>]</span> pág. 229 pág. 230 pág. 231
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span> pág. 229 pág. 230 pág. 231
 
 <i>S</i>VETÂ<i>S</i>VATARA-UPANISHAD.
 

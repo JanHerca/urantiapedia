@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:58:51Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 INTRODUCCIÓN.
 
@@ -84,6 +84,6 @@ Estos principios deben aprenderse del tratado de Lâo-dze y de los escritos de K
 
 ## Notas al pie
 
-[^0]: 2:1 El sexto capítulo del tratado de Lao, el que trata sobre 'el Espíritu del Valle', se menciona en Lieh-dze (I, 1b), como proveniente de Hwang Tî, de donde el comentarista Tû Tâo-kien (alrededor del 1300 d. C.) aprovecha la ocasión para decir: 'De lo cual sabemos que Lâo-dze solía citar en su tratado pasajes de registros anteriores, como cuando se refiere a las observaciones de “algún sabio”, de “algún antiguo”, de “los hacedores de sentencias” y de “algún escritor sobre la guerra”. En todos estos casos, claramente está introduciendo las palabras de sabios anteriores. El caso es como el de Confucio cuando dijo: “Soy un transmisor y no un hacedor”, etc.' Encontrado en Ziâo Hung, en loc.
+[^0]: 2:1 El sexto capítulo del tratado de Lao, el que trata sobre 'el Espíritu del Valle', se menciona en Lieh-dze (I, 1b), como proveniente de Hwang Tî, de donde el comentarista Tû Tâo-kien (alrededor del 1300 d. C.) aprovecha la ocasión para decir: 'De lo cual sabemos que Lâo-dze solía citar en su tratado pasajes de registros anteriores, como cuando se refiere a las observaciones de «algún sabio», de «algún antiguo», de «los hacedores de sentencias» y de «algún escritor sobre la guerra». En todos estos casos, claramente está introduciendo las palabras de sabios anteriores. El caso es como el de Confucio cuando dijo: «Soy un transmisor y no un hacedor», etc.' Encontrado en Ziâo Hung, en loc.
 
 [^1]: 3:1 Véase en los Libros IX, X y XII.

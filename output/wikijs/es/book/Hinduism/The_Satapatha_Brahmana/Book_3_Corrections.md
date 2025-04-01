@@ -32,27 +32,27 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
-<span id="p418">[<sup><small>pág. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 Todas las erratas de Eggeling que se especifican aquí se han corregido en el texto electrónico mediante el archivo de erratas enlazado. Están marcadas como \*(Eggeling)\* en el archivo de erratas. —JBH
 
-Introducción, página [xii](Book_3_Introduction#pxii), línea 33. Leer,—el día anterior al día de Soma, la ofrenda animal a Agni-Soma es de hecho una característica constante de los procedimientos de ese día en cada sacrificio de Soma; mientras que la matanza de la víctima especial, o víctimas, del sacrificio respectivo tiene lugar durante el servicio de la mañana, etc.
+Introducción, página [xii](../Book_3_Introduction#pxii), línea 33. Leer,—el día anterior al día de Soma, la ofrenda animal a Agni-Soma es de hecho una característica constante de los procedimientos de ese día en cada sacrificio de Soma; mientras que la matanza de la víctima especial, o víctimas, del sacrificio respectivo tiene lugar durante el servicio de la mañana, etc.
 
-P. [5](Book_3_5_1#p5), última línea del texto. Lea, por lo tanto.
+P. [5](../Book_3_5_1#p5), última línea del texto. Lea, por lo tanto.
 
-P. [6](Book_3_5_1#p6), nota [2](Book_3_5_1#fn37), l. 3. P<i>ri</i>sh<i>th</i>ya sha<i>d</i>aha, véase Introducción, [p. xxi](Book_3_Introduction#pxxi).
+P. [6](../Book_3_5_1#p6), nota [2](../Book_3_5_1#fn37), l. 3. P<i>ri</i>sh<i>th</i>ya sha<i>d</i>aha, véase Introducción, [p. xxi](../Book_3_Introduction#pxxi).
 
-P. [8](Book_3_5_1#p8), última línea de notas \*([1](Book_3_5_1#fn39))\*. En lugar de «II, 665» léase «II, 663, en una melodía diferente».
+P. [8](../Book_3_5_1#p8), última línea de notas \*([1](../Book_3_5_1#fn39))\*. En lugar de «II, 665» léase «II, 663, en una melodía diferente».
 
-P. [9](Book_3_5_1#p9), l. 5 de notas \*([1](Book_3_5_1#fn40))\*. Leer,—II, 720-22.
+P. [9](../Book_3_5_1#p9), l. 5 de notas \*([1](../Book_3_5_1#fn40))\*. Leer,—II, 720-22.
 
-P. [34](Book_3_5_2#p34), l. 21. Leer: Consagración de B<i>ri</i>haspati.
+P. [34](../Book_3_5_2#p34), l. 21. Leer: Consagración de B<i>ri</i>haspati.
 
-P. [41](Book_3_5_2#p41), l. 14. En lugar de 'ofrenda' léase 'descendencia'.
+P. [41](../Book_3_5_2#p41), l. 14. En lugar de 'ofrenda' léase 'descendencia'.
 
-P. [104](Book_3_5_4#p104), l. 2. En lugar de 'verdad' léase 'ley'; (cf. [VI, 7, 3, 11](Book_3_6_7#v6_7_3_11).)
+P. [104](../Book_3_5_4#p104), l. 2. En lugar de 'verdad' léase 'ley'; (cf. [VI, 7, 3, 11](../Book_3_6_7#v6_7_3_11).)
 
-P. [146](Book_3_6_1#p146), l. 23. En lugar de 'llegar a ser' léase 'se convirtió'.
+P. [146](../Book_3_6_1#p146), l. 23. En lugar de 'llegar a ser' léase 'se convirtió'.
 
 <figure class="table chapter-navigator">
   <table>

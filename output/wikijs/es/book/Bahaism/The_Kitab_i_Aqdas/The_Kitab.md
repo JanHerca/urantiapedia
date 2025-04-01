@@ -54,7 +54,7 @@ Aquellos a quienes Dios ha dotado de discernimiento reconocerán fácilmente que
 
 4
 
-Di: De Mis leyes se puede oler el dulce aroma de Mi vestimenta, y con su ayuda los estandartes de la Victoria se plantarán en las cimas más altas. La Lengua de Mi poder ha dirigido, desde el cielo de Mi gloria omnipotente, a Mi creación estas palabras: “Observad Mis mandamientos, por amor a Mi belleza”. Feliz el amante que ha inhalado la fragancia divina de su Bienamado de estas palabras, cargadas con el perfume de una gracia que ninguna lengua puede describir. ¡Por Mi vida! Aquel que ha bebido el vino selecto de la justicia de las manos de Mi generoso favor girará alrededor de Mis mandamientos que brillan sobre la Aurora de Mi creación.
+Di: De Mis leyes se puede oler el dulce aroma de Mi vestimenta, y con su ayuda los estandartes de la Victoria se plantarán en las cimas más altas. La Lengua de Mi poder ha dirigido, desde el cielo de Mi gloria omnipotente, a Mi creación estas palabras: «Observad Mis mandamientos, por amor a Mi belleza». Feliz el amante que ha inhalado la fragancia divina de su Bienamado de estas palabras, cargadas con el perfume de una gracia que ninguna lengua puede describir. ¡Por Mi vida! Aquel que ha bebido el vino selecto de la justicia de las manos de Mi generoso favor girará alrededor de Mis mandamientos que brillan sobre la Aurora de Mi creación.
 
 5
 
@@ -78,11 +78,11 @@ El pelo no invalida vuestra oración, ni tampoco nada de lo que el espíritu se 
 
 10
 
-Os hemos ordenado que oréis y ayunéis desde el principio de vuestra madurez; esto ha sido ordenado por Dios, vuestro Señor y el Señor de vuestros antepasados. Ha dispensado de esto a los que están débiles por enfermedad o edad, como un beneficio de Su Presencia, y Él es el Perdonador, el Generoso. Dios os ha concedido permiso para postraros sobre cualquier superficie que esté limpia, pues hemos suprimido a este respecto la limitación que había sido establecida en el Libro; Dios, en verdad, tiene conocimiento de aquello de lo que vosotros no sabéis nada. Que aquel que no encuentre agua para la ablución repita cinco veces las palabras “En el Nombre de Dios, el Más Puro, el Más Puro”, y luego proceda a sus devociones. Tal es el mandato del Señor de todos los mundos. En las regiones donde los días y las noches se hacen largos, que los tiempos de oración se midan con relojes y otros instrumentos que marquen el paso de las horas. Él, en verdad, es el Expositor, el Sabio.
+Os hemos ordenado que oréis y ayunéis desde el principio de vuestra madurez; esto ha sido ordenado por Dios, vuestro Señor y el Señor de vuestros antepasados. Ha dispensado de esto a los que están débiles por enfermedad o edad, como un beneficio de Su Presencia, y Él es el Perdonador, el Generoso. Dios os ha concedido permiso para postraros sobre cualquier superficie que esté limpia, pues hemos suprimido a este respecto la limitación que había sido establecida en el Libro; Dios, en verdad, tiene conocimiento de aquello de lo que vosotros no sabéis nada. Que aquel que no encuentre agua para la ablución repita cinco veces las palabras «En el Nombre de Dios, el Más Puro, el Más Puro», y luego proceda a sus devociones. Tal es el mandato del Señor de todos los mundos. En las regiones donde los días y las noches se hacen largos, que los tiempos de oración se midan con relojes y otros instrumentos que marquen el paso de las horas. Él, en verdad, es el Expositor, el Sabio.
 
 11
 
-Os hemos dispensado de la obligación de realizar la Oración de los Signos. Cuando aparezcan acontecimientos terribles de la naturaleza, recordad el poder y la majestad de vuestro Señor, Aquel que todo lo oye y todo lo ve, y decid: “El dominio es de Dios, el Señor de lo visible y lo invisible, el Señor de la creación”.
+Os hemos dispensado de la obligación de realizar la Oración de los Signos. Cuando aparezcan acontecimientos terribles de la naturaleza, recordad el poder y la majestad de vuestro Señor, Aquel que todo lo oye y todo lo ve, y decid: «El dominio es de Dios, el Señor de lo visible y lo invisible, el Señor de la creación».
 
 12
 
@@ -90,11 +90,11 @@ Se ha ordenado que la oración obligatoria la realice cada uno de vosotros indiv
 
 13
 
-Dios ha dispensado a las mujeres que están en sus clases de la oración obligatoria y del ayuno. Que, en cambio, después de realizar sus abluciones, den gracias a Dios, repitiendo noventa y cinco veces entre el mediodía de un día y el siguiente: “Glorificado sea Dios, el Señor del Esplendor y la Belleza”. Así ha sido decretado en el Libro, si sois de los que comprenden.
+Dios ha dispensado a las mujeres que están en sus clases de la oración obligatoria y del ayuno. Que, en cambio, después de realizar sus abluciones, den gracias a Dios, repitiendo noventa y cinco veces entre el mediodía de un día y el siguiente: «Glorificado sea Dios, el Señor del Esplendor y la Belleza». Así ha sido decretado en el Libro, si sois de los que comprenden.
 
 14
 
-Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad, hombres y mujeres por igual, una sola postración en lugar de cada Oración Obligatoria no dicha, y mientras os postráis decid: “Glorificado sea Dios, el Señor de Poder y Majestad, de Gracia y Munificencia”. Quien no pueda hacer esto, que diga solamente: “Glorificado sea Dios”; esto le bastará con seguridad. Él es, en verdad, el Dios que todo lo satisface, el que siempre permanece, el que perdona, el compasivo. Al terminar vuestras postraciones, sentaos con las piernas cruzadas, hombres y mujeres por igual, y repetid dieciocho veces: “Glorificado sea Dios, el Señor de los reinos de la tierra y del cielo”. Así el Señor deja claros los caminos de la verdad y la guía, caminos que conducen a un solo camino, que es este Camino Recto. Dad gracias a Dios por este favor tan misericordioso; ofrecedle alabanzas por esta munificencia que ha abarcado los cielos y la tierra; ensalzadle por esta misericordia que ha invadido toda la creación.
+Cuando viajéis, si os detenéis y descansáis en algún lugar seguro, realizad, hombres y mujeres por igual, una sola postración en lugar de cada Oración Obligatoria no dicha, y mientras os postráis decid: «Glorificado sea Dios, el Señor de Poder y Majestad, de Gracia y Munificencia». Quien no pueda hacer esto, que diga solamente: «Glorificado sea Dios»; esto le bastará con seguridad. Él es, en verdad, el Dios que todo lo satisface, el que siempre permanece, el que perdona, el compasivo. Al terminar vuestras postraciones, sentaos con las piernas cruzadas, hombres y mujeres por igual, y repetid dieciocho veces: «Glorificado sea Dios, el Señor de los reinos de la tierra y del cielo». Así el Señor deja claros los caminos de la verdad y la guía, caminos que conducen a un solo camino, que es este Camino Recto. Dad gracias a Dios por este favor tan misericordioso; ofrecedle alabanzas por esta munificencia que ha abarcado los cielos y la tierra; ensalzadle por esta misericordia que ha invadido toda la creación.
 
 15
 
@@ -112,7 +112,7 @@ Di: Dios ha hecho de Mi amor oculto la clave del Tesoro; ¡ojalá pudierais perc
 
 18
 
-Se ha ordenado que todo creyente en Dios, el Señor del Juicio, se lave las manos y la cara todos los días, se siente y, volviéndose hacia Dios, repita “Allah-u-Abha” noventa y cinco veces. Tal fue el decreto del Creador de los Cielos cuando, con majestad y poder, se estableció en los tronos de Sus Nombres. Realizad también las abluciones para la oración obligatoria; éste es el mandato de Dios, el Incomparable, el Infinito.
+Se ha ordenado que todo creyente en Dios, el Señor del Juicio, se lave las manos y la cara todos los días, se siente y, volviéndose hacia Dios, repita «Allah-u-Abha» noventa y cinco veces. Tal fue el decreto del Creador de los Cielos cuando, con majestad y poder, se estableció en los tronos de Sus Nombres. Realizad también las abluciones para la oración obligatoria; éste es el mandato de Dios, el Incomparable, el Infinito.
 
 19
 
@@ -236,7 +236,7 @@ Quien desee hacer uso de vasos de plata y oro, tiene libertad de hacerlo. Tened 
 
 47
 
-Aquel que es el punto de amanecer de la Causa de Dios no tiene ningún compañero en la Más Grande Infalibilidad. Él es Quien, en el reino de la creación, es la Manifestación de “Él hace todo lo que quiere”. Dios ha reservado esta distinción para Su propio Ser, y ha ordenado que nadie participe en una posición tan sublime y trascendente. Éste es el Decreto de Dios, oculto hasta ahora dentro del velo del misterio impenetrable. Lo hemos revelado en esta Revelación, y con ello hemos rasgado los velos de aquellos que no han sabido reconocer lo que el Libro de Dios exponía y que eran contados entre los negligentes.
+Aquel que es el punto de amanecer de la Causa de Dios no tiene ningún compañero en la Más Grande Infalibilidad. Él es Quien, en el reino de la creación, es la Manifestación de «Él hace todo lo que quiere». Dios ha reservado esta distinción para Su propio Ser, y ha ordenado que nadie participe en una posición tan sublime y trascendente. Éste es el Decreto de Dios, oculto hasta ahora dentro del velo del misterio impenetrable. Lo hemos revelado en esta Revelación, y con ello hemos rasgado los velos de aquellos que no han sabido reconocer lo que el Libro de Dios exponía y que eran contados entre los negligentes.
 
 48
 
@@ -354,7 +354,7 @@ Dios ha decretado, en señal de Su misericordia hacia Sus criaturas, que el seme
 
 75
 
-Dios, como un favor de Su presencia, ha abolido el concepto de “impureza”, por el cual diversas cosas y pueblos han sido considerados impuros. Él, sin duda, es el Perdonador, el Más Generoso. En verdad, todas las cosas creadas fueron sumergidas en el mar de la purificación cuando, en ese primer día de Ridván, derramamos sobre toda la creación los esplendores de Nuestros Nombres más excelentes y Nuestros Atributos más exaltados. Esto, en verdad, es una muestra de Mi amorosa providencia, que ha abarcado todos los mundos. Asociaos, pues, con los seguidores de todas las religiones y proclamad la Causa de vuestro Señor, el Más Compasivo; ésta es la verdadera corona de las obras, si sois de los que entienden.
+Dios, como un favor de Su presencia, ha abolido el concepto de «impureza», por el cual diversas cosas y pueblos han sido considerados impuros. Él, sin duda, es el Perdonador, el Más Generoso. En verdad, todas las cosas creadas fueron sumergidas en el mar de la purificación cuando, en ese primer día de Ridván, derramamos sobre toda la creación los esplendores de Nuestros Nombres más excelentes y Nuestros Atributos más exaltados. Esto, en verdad, es una muestra de Mi amorosa providencia, que ha abarcado todos los mundos. Asociaos, pues, con los seguidores de todas las religiones y proclamad la Causa de vuestro Señor, el Más Compasivo; ésta es la verdadera corona de las obras, si sois de los que entienden.
 
 76
 
@@ -400,7 +400,7 @@ Os vemos regocijándoos por lo que habéis acumulado para los demás y apartánd
 
 86
 
-Di: ¡Oh Rey de Berlín! Escucha la Voz que llama desde este Templo manifiesto: “En verdad, no hay otro Dios sino Yo, el Eterno, el Inigualable, el Anciano de Días”. Ten cuidado de que el orgullo no te impida reconocer la Aurora de la Revelación Divina, de que los deseos mundanos no te alejen, como por un velo, del Señor del Trono de arriba y de la tierra de abajo. Así te aconseja la Pluma del Altísimo. Él, en verdad, es el Más Misericordioso, el Todo Generoso. ¿Recuerdas a aquel (Napoleón III) cuyo poder trascendió tu poder, y cuya posición superó tu posición? ¿Dónde está? ¿Adónde se han ido las cosas que poseía? Ten cuidado y no seas de los que están profundamente dormidos. Él fue quien arrojó la Tabla de Dios detrás de él cuando le hicimos saber lo que las huestes de la tiranía Nos habían hecho sufrir. Por tanto, la desgracia le asaltó por todos lados y se convirtió en polvo con gran pérdida. Piensa profundamente, oh Rey, en él y en aquellos que, como tú, han conquistado ciudades y gobernado a los hombres. El Todomisericordioso los hizo descender de sus palacios a sus tumbas. Ten cuidado, sé de aquellos que reflexionan.
+Di: ¡Oh Rey de Berlín! Escucha la Voz que llama desde este Templo manifiesto: «En verdad, no hay otro Dios sino Yo, el Eterno, el Inigualable, el Anciano de Días». Ten cuidado de que el orgullo no te impida reconocer la Aurora de la Revelación Divina, de que los deseos mundanos no te alejen, como por un velo, del Señor del Trono de arriba y de la tierra de abajo. Así te aconseja la Pluma del Altísimo. Él, en verdad, es el Más Misericordioso, el Todo Generoso. ¿Recuerdas a aquel (Napoleón III) cuyo poder trascendió tu poder, y cuya posición superó tu posición? ¿Dónde está? ¿Adónde se han ido las cosas que poseía? Ten cuidado y no seas de los que están profundamente dormidos. Él fue quien arrojó la Tabla de Dios detrás de él cuando le hicimos saber lo que las huestes de la tiranía Nos habían hecho sufrir. Por tanto, la desgracia le asaltó por todos lados y se convirtió en polvo con gran pérdida. Piensa profundamente, oh Rey, en él y en aquellos que, como tú, han conquistado ciudades y gobernado a los hombres. El Todomisericordioso los hizo descender de sus palacios a sus tumbas. Ten cuidado, sé de aquellos que reflexionan.
 
 87
 
@@ -408,9 +408,9 @@ No os hemos pedido nada. Os exhortamos, en verdad, por Dios, y seremos pacientes
 
 88
 
-Escuchad, oh gobernantes de América y presidentes de las repúblicas que allí habitan, lo que la paloma gorjea en la rama de la eternidad: “No hay otro Dios sino Yo, el que perdura, el indulgente, el generoso”. Adornad el templo del dominio con el ornamento de la justicia y del temor de Dios, y su cabeza con la corona del recuerdo de vuestro Señor, el Creador de los cielos.
+Escuchad, oh gobernantes de América y presidentes de las repúblicas que allí habitan, lo que la paloma gorjea en la rama de la eternidad: «No hay otro Dios sino Yo, el que perdura, el indulgente, el generoso». Adornad el templo del dominio con el ornamento de la justicia y del temor de Dios, y su cabeza con la corona del recuerdo de vuestro Señor, el Creador de los cielos.
 
-Así os aconseja Aquel que es la Aurora de los Nombres, tal como lo ordenó Aquel que es el Omnisciente, el Omnisciente. El Prometido ha aparecido en esta gloriosa Estación, en la que todos los seres, tanto visibles como invisibles, se han regocijado. Aprovechad el Día de Dios. En verdad, encontraros con Él es mejor para vosotros que todo aquello sobre lo que brilla el sol, si tan solo lo supieseis. ¡Oh concurso de gobernantes! Prestad atención a lo que ha sido elevado desde la Aurora de la Grandeza: “En verdad, no hay otro Dios sino Yo, el Señor de la Expresión, el Omnisciente”. Atad a los quebrantados con las manos de la justicia, y aplastad al opresor que florece con la vara de los mandamientos de vuestro Señor, el Ordenador, el Omnisciente.
+Así os aconseja Aquel que es la Aurora de los Nombres, tal como lo ordenó Aquel que es el Omnisciente, el Omnisciente. El Prometido ha aparecido en esta gloriosa Estación, en la que todos los seres, tanto visibles como invisibles, se han regocijado. Aprovechad el Día de Dios. En verdad, encontraros con Él es mejor para vosotros que todo aquello sobre lo que brilla el sol, si tan solo lo supieseis. ¡Oh concurso de gobernantes! Prestad atención a lo que ha sido elevado desde la Aurora de la Grandeza: «En verdad, no hay otro Dios sino Yo, el Señor de la Expresión, el Omnisciente». Atad a los quebrantados con las manos de la justicia, y aplastad al opresor que florece con la vara de los mandamientos de vuestro Señor, el Ordenador, el Omnisciente.
 
 89
 
@@ -426,7 +426,7 @@ Que nada te aflija, oh Tierra de Ta, pues Dios te ha elegido para ser la fuente 
 
 92
 
-Alégrate con gran alegría, porque Dios te ha hecho, Teherán, “la Aurora de Su luz”, puesto que en ti nació la Manifestación de Su Gloria. Alégrate por este nombre que te ha sido conferido, un nombre a través del cual el Sol de la gracia ha derramado su esplendor, a través del cual tanto la tierra como el cielo han sido iluminados.
+Alégrate con gran alegría, porque Dios te ha hecho, Teherán, «la Aurora de Su luz», puesto que en ti nació la Manifestación de Su Gloria. Alégrate por este nombre que te ha sido conferido, un nombre a través del cual el Sol de la gracia ha derramado su esplendor, a través del cual tanto la tierra como el cielo han sido iluminados.
 
 93
 
@@ -582,7 +582,7 @@ El Señor ha decretado que los muertos sean enterrados en ataúdes hechos de cri
 
 129
 
-La inscripción en estos anillos debe decir, para los hombres: “A Dios pertenece todo lo que está en los cielos y en la tierra y todo lo que está entre ellos, y Él, en verdad, tiene conocimiento de todas las cosas”; y para las mujeres: “A Dios pertenece el dominio de los cielos y la tierra y todo lo que está entre ellos, y Él, en verdad, es poderoso sobre todas las cosas”. Estos son los versos que fueron revelados anteriormente, pero he aquí que el Punto del Bayan ahora llama, exclamando: “¡Oh, el Más Amado de los mundos! Revela en su lugar palabras tales que hagan volar la fragancia de Tus favores graciosos sobre toda la humanidad. Hemos anunciado a todos que una sola palabra Tuya supera todo lo que ha sido enviado en el Bayan. Tú, en verdad, tienes poder para hacer lo que Te agrada. ¡No prives a Tus siervos de las bondades desbordantes del océano de Tu misericordia! Tú, en verdad, eres Aquel Cuya gracia es infinita”. He aquí que hemos escuchado Su llamado y ahora cumplimos Su deseo. Él, en verdad, es el Más Amado, el Respondedor de las oraciones. Si el siguiente verso, que en este momento ha sido enviado por Dios, se grabase en los anillos de entierro tanto de hombres como de mujeres, sería mejor para ellos; Nosotros, con certeza, somos el Ordenador Supremo: “Salí de Dios y vuelvo a Él, desprendido de todo excepto de Él, aferrándome a Su Nombre, el Misericordioso, el Compasivo”. Así es como el Señor escoge a quien Él desea para recibir un favor de Su presencia. Él es, en verdad, el Dios de fuerza y ​​poder.
+La inscripción en estos anillos debe decir, para los hombres: «A Dios pertenece todo lo que está en los cielos y en la tierra y todo lo que está entre ellos, y Él, en verdad, tiene conocimiento de todas las cosas»; y para las mujeres: «A Dios pertenece el dominio de los cielos y la tierra y todo lo que está entre ellos, y Él, en verdad, es poderoso sobre todas las cosas». Estos son los versos que fueron revelados anteriormente, pero he aquí que el Punto del Bayan ahora llama, exclamando: «¡Oh, el Más Amado de los mundos! Revela en su lugar palabras tales que hagan volar la fragancia de Tus favores graciosos sobre toda la humanidad. Hemos anunciado a todos que una sola palabra Tuya supera todo lo que ha sido enviado en el Bayan. Tú, en verdad, tienes poder para hacer lo que Te agrada. ¡No prives a Tus siervos de las bondades desbordantes del océano de Tu misericordia! Tú, en verdad, eres Aquel Cuya gracia es infinita». He aquí que hemos escuchado Su llamado y ahora cumplimos Su deseo. Él, en verdad, es el Más Amado, el Respondedor de las oraciones. Si el siguiente verso, que en este momento ha sido enviado por Dios, se grabase en los anillos de entierro tanto de hombres como de mujeres, sería mejor para ellos; Nosotros, con certeza, somos el Ordenador Supremo: «Salí de Dios y vuelvo a Él, desprendido de todo excepto de Él, aferrándome a Su Nombre, el Misericordioso, el Compasivo». Así es como el Señor escoge a quien Él desea para recibir un favor de Su presencia. Él es, en verdad, el Dios de fuerza y ​​poder.
 
 130
 
@@ -596,7 +596,7 @@ Dios ha eliminado las restricciones a los viajes que se habían impuesto en el B
 
 132
 
-¡Oh pueblos del mundo! Escuchad el llamado de Aquel que es el Señor de los Nombres, que os proclama desde Su morada en la Más Grande Prisión: “En verdad, no hay más Dios que Yo, el Poderoso, el Poderoso, el que Todo lo Subyuga, el Más Exaltado, el Omnisciente, el Sabio”. En verdad, no hay más Dios que Él, el Gobernante Omnipotente de los mundos. Si fuera Su Voluntad, Él, con una sola palabra procedente de Su presencia, se apoderaría de toda la humanidad. Tened cuidado de no dudar en aceptar esta Causa, una Causa ante la cual se han inclinado el Concurso de lo Alto y los moradores de las Ciudades de los Nombres. Temed a Dios y no seáis de aquellos que están excluidos como por un velo. Quemad los velos con el fuego de Mi amor y disipad las nieblas de las vanas imaginaciones mediante el poder de este Nombre a través del cual hemos subyugado a toda la creación.
+¡Oh pueblos del mundo! Escuchad el llamado de Aquel que es el Señor de los Nombres, que os proclama desde Su morada en la Más Grande Prisión: «En verdad, no hay más Dios que Yo, el Poderoso, el Poderoso, el que Todo lo Subyuga, el Más Exaltado, el Omnisciente, el Sabio». En verdad, no hay más Dios que Él, el Gobernante Omnipotente de los mundos. Si fuera Su Voluntad, Él, con una sola palabra procedente de Su presencia, se apoderaría de toda la humanidad. Tened cuidado de no dudar en aceptar esta Causa, una Causa ante la cual se han inclinado el Concurso de lo Alto y los moradores de las Ciudades de los Nombres. Temed a Dios y no seáis de aquellos que están excluidos como por un velo. Quemad los velos con el fuego de Mi amor y disipad las nieblas de las vanas imaginaciones mediante el poder de este Nombre a través del cual hemos subyugado a toda la creación.
 
 133
 
@@ -604,11 +604,11 @@ Elevad y exaltad las dos Casas en los Dos Lugares Sagrados y los demás sitios e
 
 134
 
-Estad alerta, no sea que las preocupaciones y afanes de este mundo os impidan observar lo que os ha sido ordenado por Aquel que es el Poderoso, el Fiel. Sed la encarnación de tal firmeza en medio de la humanidad que no seáis apartados de Dios por las dudas de aquellos que no creyeron en Él cuando se manifestó, investido de una poderosa soberanía. Prestad atención, no sea que nada de lo que ha sido registrado en el Libro os impida escuchar a este, el Libro Viviente, que proclama la verdad: “En verdad, no hay más Dios que Yo, el Más Excelente, el Alabado”. Mirad con el ojo de la equidad a Aquel que ha descendido del cielo de la voluntad y el poder Divinos, y no seáis de aquellos que actúan injustamente.
+Estad alerta, no sea que las preocupaciones y afanes de este mundo os impidan observar lo que os ha sido ordenado por Aquel que es el Poderoso, el Fiel. Sed la encarnación de tal firmeza en medio de la humanidad que no seáis apartados de Dios por las dudas de aquellos que no creyeron en Él cuando se manifestó, investido de una poderosa soberanía. Prestad atención, no sea que nada de lo que ha sido registrado en el Libro os impida escuchar a este, el Libro Viviente, que proclama la verdad: «En verdad, no hay más Dios que Yo, el Más Excelente, el Alabado». Mirad con el ojo de la equidad a Aquel que ha descendido del cielo de la voluntad y el poder Divinos, y no seáis de aquellos que actúan injustamente.
 
 135
 
-Recordad, pues, estas palabras que han brotado, en homenaje a esta Revelación, de la Pluma de Aquel que fue Mi Heraldo, y considerad lo que las manos de los opresores han obrado a lo largo de Mis días. En verdad, se cuentan entre los perdidos. Él dijo: “Si alcanzáis la presencia de Aquel a Quien haremos manifiesto, rogad a Dios, en Su generosidad, que os conceda que se digne sentarse en vuestros lechos, pues ese acto en sí mismo os conferiría un honor incomparable y sobrepasaría todas las expectativas. Si Él bebiera un vaso de agua en vuestros hogares, esto sería de mayor importancia para vosotros que ofrecer a cada alma, más aún, a cada cosa creada, el agua de su propia vida. Sabed esto, oh vosotros Mis siervos”.
+Recordad, pues, estas palabras que han brotado, en homenaje a esta Revelación, de la Pluma de Aquel que fue Mi Heraldo, y considerad lo que las manos de los opresores han obrado a lo largo de Mis días. En verdad, se cuentan entre los perdidos. Él dijo: «Si alcanzáis la presencia de Aquel a Quien haremos manifiesto, rogad a Dios, en Su generosidad, que os conceda que se digne sentarse en vuestros lechos, pues ese acto en sí mismo os conferiría un honor incomparable y sobrepasaría todas las expectativas. Si Él bebiera un vaso de agua en vuestros hogares, esto sería de mayor importancia para vosotros que ofrecer a cada alma, más aún, a cada cosa creada, el agua de su propia vida. Sabed esto, oh vosotros Mis siervos».
 
 136
 
@@ -616,7 +616,7 @@ Tales son las palabras con las que Mi Precursor ha ensalzado Mi Ser, si pudierai
 
 137
 
-¡Oh, pueblo del Bayán! Temed al Misericordioso y considerad lo que ha revelado en otro pasaje. Dijo: “La Alquimia es en verdad Aquel a quien Dios hará manifiesto; siempre que se mueve, se mueve, hasta que se detenga”. Así lo estableció el Ordenador Supremo cuando quiso hacer mención de esta Más Grande Belleza. Meditad sobre esto, oh pueblo, y no seáis de los que vagan extraviados en el desierto del error. Si Lo rechazáis por orden de vuestras vanas fantasías, ¿dónde está entonces la Alquimia a la que os volveréis, oh asamblea de los negligentes? Meditad sobre este versículo y juzgad con equidad ante Dios, para que tal vez podáis recoger las perlas de los misterios del océano que se agita en Mi Nombre, el Todo Glorioso, el Altísimo.
+¡Oh, pueblo del Bayán! Temed al Misericordioso y considerad lo que ha revelado en otro pasaje. Dijo: «La Alquimia es en verdad Aquel a quien Dios hará manifiesto; siempre que se mueve, se mueve, hasta que se detenga». Así lo estableció el Ordenador Supremo cuando quiso hacer mención de esta Más Grande Belleza. Meditad sobre esto, oh pueblo, y no seáis de los que vagan extraviados en el desierto del error. Si Lo rechazáis por orden de vuestras vanas fantasías, ¿dónde está entonces la Alquimia a la que os volveréis, oh asamblea de los negligentes? Meditad sobre este versículo y juzgad con equidad ante Dios, para que tal vez podáis recoger las perlas de los misterios del océano que se agita en Mi Nombre, el Todo Glorioso, el Altísimo.
 
 138
 
@@ -624,7 +624,7 @@ Que nadie, en este Día, se aferre a nada que no sea lo que ha sido manifestado 
 
 139
 
-Y ahora considerad lo que se ha revelado en otro pasaje, para que tal vez abandonéis vuestros propios conceptos y volváis vuestros rostros hacia Dios, el Señor del ser. Él ha dicho: “Es ilícito contraer matrimonio salvo con un creyente en el Bayan. Si sólo uno de los contrayentes abraza esta Causa, sus posesiones serán ilícitas para el otro, hasta que éste se haya convertido. Esta ley, sin embargo, el Báb, sólo entrará en vigor después de la exaltación de la Causa de Aquel a Quien manifestaremos en verdad, o de lo que ya se ha manifestado en justicia. Antes de esto, sois libres de contraer matrimonio como deseéis, para que tal vez por este medio podáis exaltar la Causa de Dios”. Así ha cantado el ruiseñor con dulce melodía sobre la rama celestial, en alabanza de su Señor, el Todomisericordioso. Bienaventurados los que escuchan.
+Y ahora considerad lo que se ha revelado en otro pasaje, para que tal vez abandonéis vuestros propios conceptos y volváis vuestros rostros hacia Dios, el Señor del ser. Él ha dicho: «Es ilícito contraer matrimonio salvo con un creyente en el Bayan. Si sólo uno de los contrayentes abraza esta Causa, sus posesiones serán ilícitas para el otro, hasta que éste se haya convertido. Esta ley, sin embargo, el Báb, sólo entrará en vigor después de la exaltación de la Causa de Aquel a Quien manifestaremos en verdad, o de lo que ya se ha manifestado en justicia. Antes de esto, sois libres de contraer matrimonio como deseéis, para que tal vez por este medio podáis exaltar la Causa de Dios». Así ha cantado el ruiseñor con dulce melodía sobre la rama celestial, en alabanza de su Señor, el Todomisericordioso. Bienaventurados los que escuchan.
 
 140
 
@@ -702,9 +702,9 @@ Cuando seáis invitados a un banquete o a una ocasión festiva, responded con al
 
 157
 
-He aquí que el “misterio de la Gran Inversión en el Signo del Soberano” se ha manifestado ahora. Bienaventurado aquel a quien Dios ha ayudado a reconocer a los “Seis” levantados en virtud de este “Alif Recto”; él, en verdad, es de aquellos cuya fe es verdadera. Cuántos de los aparentemente piadosos se han alejado, y cuántos de los descarriados se han acercado, exclamando:
+He aquí que el «misterio de la Gran Inversión en el Signo del Soberano» se ha manifestado ahora. Bienaventurado aquel a quien Dios ha ayudado a reconocer a los «Seis» levantados en virtud de este «Alif Recto»; él, en verdad, es de aquellos cuya fe es verdadera. Cuántos de los aparentemente piadosos se han alejado, y cuántos de los descarriados se han acercado, exclamando:
 
-“¡Toda la alabanza sea para Ti, oh Tú, el Deseo de los mundos!” En verdad, está en la mano de Dios dar lo que Él quiere a quien Él quiere, y negar lo que Él quiere a quien Él quiere. Él conoce los secretos internos de los corazones y el significado oculto en el guiño de un burlón. A cuántas encarnaciones de la negligencia que vinieron a Nosotros con pureza de corazón hemos establecido en el trono de Nuestra aceptación; y a cuántos exponentes de la sabiduría hemos enviado al fuego con toda justicia. En verdad, Nosotros somos los que debemos juzgar. Él es la manifestación de “Dios hace lo que quiere”, y habita en el trono de “Él ordena lo que quiere”.
+«¡Toda la alabanza sea para Ti, oh Tú, el Deseo de los mundos!» En verdad, está en la mano de Dios dar lo que Él quiere a quien Él quiere, y negar lo que Él quiere a quien Él quiere. Él conoce los secretos internos de los corazones y el significado oculto en el guiño de un burlón. A cuántas encarnaciones de la negligencia que vinieron a Nosotros con pureza de corazón hemos establecido en el trono de Nuestra aceptación; y a cuántos exponentes de la sabiduría hemos enviado al fuego con toda justicia. En verdad, Nosotros somos los que debemos juzgar. Él es la manifestación de «Dios hace lo que quiere», y habita en el trono de «Él ordena lo que quiere».
 
 158
 
@@ -720,7 +720,7 @@ Promoved el desarrollo de las ciudades de Dios y de Sus países, y glorifícalo 
 
 161
 
-Bendito el hombre que ha reconocido su fe en Dios y en Sus signos, y ha reconocido que “no se le preguntará por Sus acciones”. Dios ha hecho de este reconocimiento el ornamento de toda creencia y su fundamento mismo. De él debe depender la aceptación de toda buena acción. Fijad vuestra mirada en él, para que tal vez los susurros de los rebeldes no os hagan resbalar.
+Bendito el hombre que ha reconocido su fe en Dios y en Sus signos, y ha reconocido que «no se le preguntará por Sus acciones». Dios ha hecho de este reconocimiento el ornamento de toda creencia y su fundamento mismo. De él debe depender la aceptación de toda buena acción. Fijad vuestra mirada en él, para que tal vez los susurros de los rebeldes no os hagan resbalar.
 
 162
 
@@ -730,7 +730,7 @@ Quien dude, aunque sea por menos de un momento, debe ser considerado un transgre
 
 163.
 
-Quien no haya reconocido esta verdad sublime y fundamental y no haya logrado alcanzar esta posición tan exaltada, los vientos de la duda lo agitarán y los dichos de los infieles distraerán su alma. Quien haya reconocido este principio estará dotado de la más perfecta constancia. Todo el honor a esta posición gloriosa, cuyo recuerdo adorna cada Tabla exaltada. Tal es la enseñanza que Dios os otorga, una enseñanza que os liberará de toda clase de dudas y perplejidades y os permitirá alcanzar la salvación tanto en este mundo como en el próximo. Él, en verdad, es el Siempre Perdonador, el Más Generoso. Él es Quien ha enviado a los Mensajeros y ha hecho descender los Libros para proclamar: “No hay otro Dios sino Yo, el Todopoderoso, el Omnisciente”.
+Quien no haya reconocido esta verdad sublime y fundamental y no haya logrado alcanzar esta posición tan exaltada, los vientos de la duda lo agitarán y los dichos de los infieles distraerán su alma. Quien haya reconocido este principio estará dotado de la más perfecta constancia. Todo el honor a esta posición gloriosa, cuyo recuerdo adorna cada Tabla exaltada. Tal es la enseñanza que Dios os otorga, una enseñanza que os liberará de toda clase de dudas y perplejidades y os permitirá alcanzar la salvación tanto en este mundo como en el próximo. Él, en verdad, es el Siempre Perdonador, el Más Generoso. Él es Quien ha enviado a los Mensajeros y ha hecho descender los Libros para proclamar: «No hay otro Dios sino Yo, el Todopoderoso, el Omnisciente».
 
 164
 
@@ -748,11 +748,11 @@ Aunque se dedicaba día y noche a establecer lo que él consideraba las leyes y 
 
 167
 
-¡Cuidado que ningún nombre os aleje de Aquel que es el Dueño de todos los nombres, o ninguna palabra os excluya de este Recuerdo de Dios, esta Fuente de Sabiduría entre vosotros! Volveos a Dios y buscad Su protección, ¡oh concurso de teólogos!, y no hagáis de vosotros mismos un velo entre Yo y Mis criaturas. Así os amonesta vuestro Señor y os ordena que seáis justos, para que vuestras obras no se conviertan en nada y vosotros mismos os olvidéis de vuestra situación. ¿Acaso aquel que niega esta Causa podrá vindicar la verdad de alguna causa en toda la creación? ¡No, por Aquel que es el Formador del universo! Sin embargo, los hombres están envueltos en un velo palpable. Di: Por esta Causa ha amanecido el sol del testimonio, y la lumbrera de la prueba ha derramado su resplandor sobre todos los que habitan en la tierra. Temed a Dios, oh hombres de discernimiento, y no seáis de los que no creen en Mí. Tened cuidado de que la palabra “Profeta” no os impida conocer este Gran Anuncio, ni que ninguna referencia a la “Vicegerencia” os impida conocer la soberanía de Aquel que es el Vicegerente de Dios, que eclipsa a todos los mundos. Todo nombre ha sido creado por Su Palabra, y toda causa depende de Su irresistible, Su poderosa y maravillosa Causa. Di: Éste es el Día de Dios, el Día en el que nada será mencionado excepto Su propio Ser, el Protector omnipotente de todos los mundos. Ésta es la Causa que ha hecho temblar todas vuestras supersticiones e ídolos.
+¡Cuidado que ningún nombre os aleje de Aquel que es el Dueño de todos los nombres, o ninguna palabra os excluya de este Recuerdo de Dios, esta Fuente de Sabiduría entre vosotros! Volveos a Dios y buscad Su protección, ¡oh concurso de teólogos!, y no hagáis de vosotros mismos un velo entre Yo y Mis criaturas. Así os amonesta vuestro Señor y os ordena que seáis justos, para que vuestras obras no se conviertan en nada y vosotros mismos os olvidéis de vuestra situación. ¿Acaso aquel que niega esta Causa podrá vindicar la verdad de alguna causa en toda la creación? ¡No, por Aquel que es el Formador del universo! Sin embargo, los hombres están envueltos en un velo palpable. Di: Por esta Causa ha amanecido el sol del testimonio, y la lumbrera de la prueba ha derramado su resplandor sobre todos los que habitan en la tierra. Temed a Dios, oh hombres de discernimiento, y no seáis de los que no creen en Mí. Tened cuidado de que la palabra «Profeta» no os impida conocer este Gran Anuncio, ni que ninguna referencia a la «Vicegerencia» os impida conocer la soberanía de Aquel que es el Vicegerente de Dios, que eclipsa a todos los mundos. Todo nombre ha sido creado por Su Palabra, y toda causa depende de Su irresistible, Su poderosa y maravillosa Causa. Di: Éste es el Día de Dios, el Día en el que nada será mencionado excepto Su propio Ser, el Protector omnipotente de todos los mundos. Ésta es la Causa que ha hecho temblar todas vuestras supersticiones e ídolos.
 
 168
 
-En verdad, vemos entre vosotros a quien se aferra al Libro de Dios y cita en él pruebas y argumentos con los que repudiar a su Señor, de la misma manera que los seguidores de todas las demás religiones buscaron razones en sus Libros Sagrados para refutar a Aquel que es Quien ayuda en el peligro, Quien subsiste por Sí mismo. Di: Dios, el Verdadero, es Mi testigo de que ni las Escrituras del mundo ni todos los libros y escritos existentes os servirán de nada en este Día sin éste, el Libro Viviente, Quien proclama en el corazón mismo de la creación: “En verdad, no hay otro Dios sino Yo, el Omnisciente, el Sabio”.
+En verdad, vemos entre vosotros a quien se aferra al Libro de Dios y cita en él pruebas y argumentos con los que repudiar a su Señor, de la misma manera que los seguidores de todas las demás religiones buscaron razones en sus Libros Sagrados para refutar a Aquel que es Quien ayuda en el peligro, Quien subsiste por Sí mismo. Di: Dios, el Verdadero, es Mi testigo de que ni las Escrituras del mundo ni todos los libros y escritos existentes os servirán de nada en este Día sin éste, el Libro Viviente, Quien proclama en el corazón mismo de la creación: «En verdad, no hay otro Dios sino Yo, el Omnisciente, el Sabio».
 
 169
 
@@ -788,7 +788,7 @@ Felices sois vosotros, oh vosotros los eruditos en Baha. ¡Por el Señor! Vosotr
 
 177
 
-¡Tened cuidado de no disputar ociosamente acerca del Todopoderoso y Su Causa, pues he aquí que Él ha aparecido entre vosotros investido de una Revelación tan grande como para abarcar todas las cosas, ya sean del pasado o del futuro! Si tuviéramos que abordar Nuestro tema hablando en el lenguaje de los moradores del Reino, diríamos: “En verdad, Dios creó esa Escuela antes de crear el cielo y la tierra, y Nosotros entramos en ella antes de que las letras B y E se unieran y se unieran”. Tal es el lenguaje de Nuestros siervos en Nuestro Reino; considerad lo que pronunciaría la lengua de los moradores de Nuestro exaltado Dominio, pues les hemos enseñado Nuestro conocimiento y les hemos revelado todo lo que había estado oculto en la sabiduría de Dios. ¡Imaginad entonces lo que pronunciaría la Lengua del Poder y la Grandeza en Su Morada Todo Gloriosa!
+¡Tened cuidado de no disputar ociosamente acerca del Todopoderoso y Su Causa, pues he aquí que Él ha aparecido entre vosotros investido de una Revelación tan grande como para abarcar todas las cosas, ya sean del pasado o del futuro! Si tuviéramos que abordar Nuestro tema hablando en el lenguaje de los moradores del Reino, diríamos: «En verdad, Dios creó esa Escuela antes de crear el cielo y la tierra, y Nosotros entramos en ella antes de que las letras B y E se unieran y se unieran». Tal es el lenguaje de Nuestros siervos en Nuestro Reino; considerad lo que pronunciaría la lengua de los moradores de Nuestro exaltado Dominio, pues les hemos enseñado Nuestro conocimiento y les hemos revelado todo lo que había estado oculto en la sabiduría de Dios. ¡Imaginad entonces lo que pronunciaría la Lengua del Poder y la Grandeza en Su Morada Todo Gloriosa!
 
 178
 

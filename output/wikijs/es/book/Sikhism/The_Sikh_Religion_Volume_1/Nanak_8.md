@@ -49,7 +49,7 @@ El Señor es un árbol que da fruto y cuyo nombre es ambrosía.
 Los que de él han participado están saciados; yo soy un sacrificio para ellos.
 ¿Por qué no te apareces a mí, oh Señor, pues estás con todos?
 
-<span id="p97">[<sup><small>pág. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ¿Cómo se calmará mi sed cuando haya una pantalla entre el Tanque[^1] y yo?
 Nanak es tu comerciante; Tú, oh Señor, eres su capital.
@@ -92,7 +92,7 @@ Kalu volvió a decir: «Hijo mío, dime por qué te ofendes. Si lo deseas, te bu
 Aquel que creó el mundo vela por él y asigna a sus criaturas sus diversos deberes.
 Tus dones, oh Señor, son como luz para la mente, y como la luna y las lámparas para el cuerpo.
 
-<span id="p99">[<sup><small>pág. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Tus dones son como la luna y las lámparas para el cuerpo, con las que se disipa el dolor de la oscuridad.
 La procesión nupcial de atributos que acompaña al Novio que ha elegido a su novia, parece hermosa.
@@ -114,7 +114,7 @@ Si Él lo olvida, ve y quéjate ante Él; pero ¿por qué habría de olvidarlo e
 Él oye, ve y da sus dones sin pedir ni orar por ellos.
 El Dador, el Organizador del mundo da Sus dones, Nanak, y Él es verdadero.
 
-<span id="p100">[<sup><small>pág. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Cuando Él mismo actúa, ¿a quién debemos quejarnos? Nadie más actúa.
 
@@ -133,7 +133,7 @@ Por el buen destino los hombres encuentran a Dios y disfrutan de placeres inclus
 en esta vida.
 Por mal destino aquellos que se encuentran se separan, oh Nanak, pero aún así se reencuentran _por el favor de Dios_.[^3]
 
-<span id="p101">[<sup><small>pág. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Kalu, al ver sus argumentos infructuosos, apeló a su hijo para defender su salud y seguridad, y le señaló lo indiferente que había sido. La siguiente fue la respuesta del Gurú:
 

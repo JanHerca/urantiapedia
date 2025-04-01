@@ -38,7 +38,7 @@ Gosala.
 
 Escucha, Ârdraka [^1194], lo que Mahâvîra ha hecho. Al principio vagaba como un solo monje; pero ahora se ha rodeado de muchos monjes y les enseña la Ley extensamente a todos. (1)
 
-<span id="p410">[<sup><small>pág. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 El hombre inconstante ha optado por este modo de vida [^1195]: presentarse entre la multitud, rodeado de monjes, y enseñar sus doctrinas para beneficio de mucha gente. Por lo tanto, su vida anterior y su vida presente no son iguales. (2)
 
@@ -52,9 +52,9 @@ Su vida pasada, presente y futura concuerdan entre sí; pues en realidad siempre
 
 “No es pecado enseñar la Ley, si (quien la enseña) es paciente y resignado, domina sus sentidos, evita las malas palabras y usa palabras virtuosas. (5)
 
-“Aquel que (enseña) los grandes votos (de los monjes) y los cinco votos menores (de los laicos [^1197]), los cinco Âsravas y la interrupción de los Âsravas, y el control, quien evita el Karman en esta bendita vida de <i>S</i>rama<i>n</i>as, a ése lo llamo un <i>S</i>rama<i>n</i>a.” (6)
+«Aquel que (enseña) los grandes votos (de los monjes) y los cinco votos menores (de los laicos [^1197]), los cinco Âsravas y la interrupción de los Âsravas, y el control, quien evita el Karman en esta bendita vida de <i>S</i>rama<i>n</i>as, a ése lo llamo un <i>S</i>rama<i>n</i>a.» (6)
 
-<span id="p411">[<sup><small>pág. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Gosala.
 
@@ -66,7 +66,7 @@ Ardraka.
 
 “Si quienes comen semillas, usan agua (fría) y tienen relaciones sexuales con mujeres son admitidos como <i>Srama<i>n</i>as, entonces los jefes de familia también son <i>Srama<i>n</i>as; porque hacen las mismas cosas [^1198]. (9)
 
-“Los monjes que comen semillas y usan agua fría, que piden limosna como medio de vida, aunque abandonen a sus parientes, nacerán una y otra vez, y no pondrán fin a la existencia mundana”. (10)
+«Los monjes que comen semillas y usan agua fría, que piden limosna como medio de vida, aunque abandonen a sus parientes, nacerán una y otra vez, y no pondrán fin a la existencia mundana». (10)
 
 Gosala.
 
@@ -80,7 +80,7 @@ Los <i>sramanas</i> y los brahmanes se culpan mutuamente cuando enseñan sus doc
 
 No menospreciamos a nadie por sus cualidades personales; sino que damos a conocer el camino señalado en nuestro credo. Hombres dignos y buenos me han enseñado el camino supremo y correcto. (13)
 
-“Si un hombre bien controlado, temeroso de dañar a cualquier ser vivo, movible o inamovible, arriba, abajo o en la tierra, condena (las malas acciones), no culpa en absoluto (a nadie) en este mundo”. (14)
+«Si un hombre bien controlado, temeroso de dañar a cualquier ser vivo, movible o inamovible, arriba, abajo o en la tierra, condena (las malas acciones), no culpa en absoluto (a nadie) en este mundo». (14)
 
 Gosala.
 
@@ -92,9 +92,9 @@ Ardraka.
 
 “No hace nada sin un propósito ni sin consideración, ni por orden del rey ni por temor a nadie, responde preguntas o no (según las circunstancias); pero responde a personas dignas con un propósito definido (en su mente) [^1199]. (17)
 
-<span id="p413">[<sup><small>pág. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
-“Él, el hombre sabio, enseña imparcialmente (la Ley) ya sea que vaya (a sus alumnos) o no; porque los hombres indignos han caído de la verdadera fe, no va a los lugares (frecuentados por ellos).” (18)
+«Él, el hombre sabio, enseña imparcialmente (la Ley) ya sea que vaya (a sus alumnos) o no; porque los hombres indignos han caído de la verdadera fe, no va a los lugares (frecuentados por ellos).» (18)
 
 Gosala.
 
@@ -122,7 +122,7 @@ Un budista [^1202].
 
 "Si alguien clava un espetón en un hombre o en un bebé, confundiéndolo con un fragmento del granero, lo pone al fuego y lo asa, esa será una comida digna de que los budas desayunen. (28)
 
-“Aquellos que siempre alimentan a dos mil monjes dignos, adquieren gran mérito [^1205] y se convierten en dioses poderosos en Arûpa (dhâtu) [^1206].” (29)
+«Aquellos que siempre alimentan a dos mil monjes dignos, adquieren gran mérito [^1205] y se convierten en dioses poderosos en Arûpa (dhâtu) [^1206].» (29)
 
 Ardraka.
 
@@ -134,7 +134,7 @@ Es imposible confundir (un fragmento del granero) con un hombre; solo un hombre 
 
 No uses palabras que hagan el mal; pues son incompatibles con la virtud. Ningún monje ordenado debe decir palabras vacías [^1207]. (33)
 
-<span id="p416">[<sup><small>pág. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 ¡Oh! Has explorado este tema; has examinado a fondo las consecuencias de los actos [^1208] de los seres vivos; tu fama alcanza los océanos orientales y occidentales; ves el universo como si estuviera en la palma de tu mano. (34)
 
@@ -152,7 +152,7 @@ Todos los que comen tales alimentos cometen pecados por ignorancia; pero los sab
 
 Se abstienen de malas acciones, temerosos de dañar a los seres vivos, y no dañan a ninguna criatura; por lo tanto, no consumen tales alimentos. Esta es una máxima de los monjes de nuestro credo. (41)
 
-<span id="p417">[<sup><small>pág. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 Habiendo alcanzado esta perfección [^1213] en la Ley de los Nirgranthas y manteniéndose firme en ella, uno debe vivir sin engaño [^1214]. El sabio despierto, dotado de todas las virtudes, obtuvo así gran fama. (42)
 
@@ -164,13 +164,13 @@ Ardraka.
 
 “Quien siempre alimenta a dos mil gatos sagrados [^1216] (es decir, Brâhma<i>n</i>as), tendrá que soportar grandes dolores en el infierno, estando rodeado de (bestias) hambrientas. (44)
 
-“Quien desprecia la Ley que ordena la compasión y alaba la Ley que permite la matanza, y alimenta a un solo hombre sin principios, incluso si es un rey, irá a la oscuridad [^1217], y no a los dioses.” (45)
+«Quien desprecia la Ley que ordena la compasión y alaba la Ley que permite la matanza, y alimenta a un solo hombre sin principios, incluso si es un rey, irá a la oscuridad [^1217], y no a los dioses.» (45)
 
 El Vedantino [^1218].
 
 'Ambos seguimos (en gran medida la misma) Ley; nos mantuvimos firmes en ella y lo haremos en el tiempo venidero; (creemos que) la virtud consiste en la buena conducta y que el conocimiento (es necesario para la liberación); y con respecto al Círculo de Nacimientos no hay diferencia entre nosotros. (46)
 
-<span id="p418">[<sup><small>pág. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 «(Pero suponemos) un Alma invisible, grande, eterna, imperecedera e indestructible, que supera a todos los demás seres en todos los aspectos, como la luna supera a las estrellas.» (47)
 
@@ -188,7 +188,7 @@ Hacia Hastitapasa [^1220].
 
 «Todos los años matamos un gran elefante con una flecha y vivimos de él para salvar la vida de otros animales». (52)
 
-<span id="p419">[<sup><small>pág. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 Ardraka.
 

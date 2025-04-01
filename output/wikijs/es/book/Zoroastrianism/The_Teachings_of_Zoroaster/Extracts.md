@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T13:0:24Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>pág. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-<span id="p57">[<sup><small>pág. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 ## PUREZA
 
@@ -54,9 +54,9 @@ dateCreated: 2025-2-12T13:0:24Z
 
 2\. "La felicidad, la felicidad es para él:
 
-3\. “Es decir, al más puro en pureza.”
+3\. «Es decir, al más puro en pureza.»
 
-<span id="p58">[<sup><small>pág. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## LA LEY DE AHURA-MAZDA
 
@@ -66,13 +66,13 @@ dateCreated: 2025-2-12T13:0:24Z
 
 . . . .
 
-“Que todas tus acciones sean buenas de ahora en adelante... La expiación completa de tu pecado se efectúa mediante la ley de Mazda.”
+«Que todas tus acciones sean buenas de ahora en adelante... La expiación completa de tu pecado se efectúa mediante la ley de Mazda.»
 
 ## MANDAMIENTOS PARA EL CUERPO Y EL ALMA
 
 [^28]
 
-El sabio preguntó al Espíritu de Sabiduría así: “¿Cómo es posible buscar el mantenimiento y la prosperidad del cuerpo sin dañar el alma, y ​​la preservación del alma sin dañar el cuerpo?”
+El sabio preguntó al Espíritu de Sabiduría así: «¿Cómo es posible buscar el mantenimiento y la prosperidad del cuerpo sin dañar el alma, y ​​la preservación del alma sin dañar el cuerpo?»
 
 El Espíritu de Sabiduría respondió así: «Considera a quien es inferior a ti como a un igual, y a un igual como a un superior, y a uno mayor que él como a un jefe, y a un jefe como a un gobernante. Y entre los gobernantes hay que ser aquiescente, obediente y veraz; y entre los acusadores hay que ser sumiso, apacible y bondadosamente considerado.»
 
@@ -110,7 +110,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 “No deberías volverte presuntuoso por ninguna felicidad del mundo; porque la felicidad del mundo es como una (voz) que llega en un día lluvioso, a la que uno no protege con ninguna colina,
 
-<span id="p61">[<sup><small>pág. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 “No debes volverte presuntuoso por tener muchos tesoros y riquezas, porque al final es necesario que lo dejes todo.
 
@@ -118,7 +118,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 “No debes volverte presuntuoso por tener grandes conexiones y raza; porque al final tu confianza está puesta en tus propias acciones.
 
-“No debes volverte presuntuoso a lo largo de la vida, porque la muerte te alcanza al final, y lo perecedero cae a la tierra.”
+«No debes volverte presuntuoso a lo largo de la vida, porque la muerte te alcanza al final, y lo perecedero cae a la tierra.»
 
 ## EL DESTINO DEL ALMA
 
@@ -128,9 +128,9 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 2\. Entonces Ahura-Mazda respondió: «Se sienta junto a su cabeza, recitando el Gâthâ Ustavaiti, implorando felicidad para sí misma: «Que la felicidad sea para quien contribuye a la felicidad de todos. Que Ahura-Mazda cree, gobernando según su voluntad». En esta noche, el alma experimenta tanta alegría como la que posee todo el mundo viviente.
 
-3\. “¿Dónde mora el alma durante la segunda noche?” <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 4\. Entonces Ahura-Mazda respondió: “Cerca de su cabeza se asienta”, etc. (como en el verso 2).
+3\. «¿Dónde mora el alma durante la segunda noche?» <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 4\. Entonces Ahura-Mazda respondió: «Cerca de su cabeza se asienta», etc. (como en el verso 2).
 
-5\. “¿Dónde permanece su alma durante la tercera noche?”
+5\. «¿Dónde permanece su alma durante la tercera noche?»
 
 6\. Entonces Ahura-Mazda respondió: «Cerca de su cabeza se asienta», etc. (como en el versículo 2).
 
@@ -148,7 +148,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 14\. "'Has hecho lo agradable aún más agradable para mí, lo bello aún más bello, lo deseable aún más deseable, que sentado en un lugar alto, sentado en un lugar aún más alto, en estos Paraísos Humata, Hûkhta, Hvarsta (Paraísos) . . . .
 
-15\. “'El alma del hombre puro da el primer paso y llega a Humata (el Paraíso); el alma del hombre puro da el segundo paso y llega a Hûkhta (el Paraíso); da el tercer paso y llega a Hvarsta (el Paraíso); el alma del hombre puro da el cuarto paso y llega a las Luces Eternas.'”
+15\. «'El alma del hombre puro da el primer paso y llega a Humata (el Paraíso); el alma del hombre puro da el segundo paso y llega a Hûkhta (el Paraíso); da el tercer paso y llega a Hvarsta (el Paraíso); el alma del hombre puro da el cuarto paso y llega a las Luces Eternas.'»
 
 . . . .
 
@@ -160,7 +160,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 . . . .
 
-33\. “El cuarto paso lleva el alma del malvado y llega a las tinieblas sin principio.”
+33\. «El cuarto paso lleva el alma del malvado y llega a las tinieblas sin principio.»
 
 ## LA RENDICIÓN DE CUENTAS DEL ALMA
 
@@ -230,9 +230,9 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 “Un cantor de himnos del Amĕsha-çpĕntas, un alabador del Amĕsha-çpĕntas.
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
-“A Ahura-Mazda, el bueno, dotado de buena sabiduría, le ofrezco todo el bien”.
+«A Ahura-Mazda, el bueno, dotado de buena sabiduría, le ofrezco todo el bien».
 
 ## ORACIÓN DE KEM NÂ MAZDA
 
@@ -240,7 +240,7 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 ¿A quién has puesto para protegerme, oh Mazda, mientras el odio del demonio me atenaza? ¿A quién sino a tu Atar y a tu Vohumanô (Ángeles a cargo del Cielo), por cuya obra el mundo sagrado perdura?
 
-“¡Revélame las reglas de tu ley!”
+«¡Revélame las reglas de tu ley!»
 
 ## ORACIÓN DEL VERETHREM
 
@@ -258,7 +258,7 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 “Y aquel que en este mundo material, ¡oh Spitama Zaratustra!, recite y pronuncie [^37] esos nombres míos, ya sea de día o de noche;
 
-<span id="p71">[<sup><small>pág. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 “El que las pronuncie, cuando se levante o cuando se acueste; . . . cuando se ate el cinto sagrado o cuando se desate el cinto sagrado; cuando salga de su morada, o cuando salga de su ciudad, o cuando salga de su país y llegue a otro país;
 
@@ -266,7 +266,7 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 . . . .
 
-“Pero esos nombres vendrán para protegerlo de la Droga invisible, del malhechor y de ese demonio que es toda muerte, Angro Mainyus.”
+«Pero esos nombres vendrán para protegerlo de la Droga invisible, del malhechor y de ese demonio que es toda muerte, Angro Mainyus.»
 
 ## DIOS COMO EL REY, LA VIDA, EL GALARDONADOR
 
@@ -276,7 +276,7 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 “¡Y a Tu buen reino, oh Ahura-Mazda!, que podamos alcanzarlo para siempre, y que Tú seas un buen Rey sobre nosotros; y que cada hombre, y cada mujer, permanezcan así, oh Tú, el más benéfico de los seres, y para ambos mundos!
 
-<span id="p72">[<sup><small>pág. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 . . . .
 
@@ -317,7 +317,7 @@ Países y tierras creados por Ahura-Mazda. | Males correspondientes colocados al
 15\. País de los Siete Ríos. | 15\. Calor excesivo.
 16\. La tierra junto a las inundaciones del Rangha. | 16\. Heladas excesivas.
 
-“Todavía hay otras tierras y países, hermosos y profundos, deseables, brillantes y prósperos”.
+«Todavía hay otras tierras y países, hermosos y profundos, deseables, brillantes y prósperos».
 
 ## ADVERTENCIA DE DIOS A YIMA SOBRE EL INVIERNO Y EL DILUVIO
 
@@ -337,15 +337,15 @@ Allí harás fluir las aguas en un lecho de un _hâthra_ [^42] de largo; allí e
 
 Allí llevarás... hombres y mujeres, de las especies más grandes, mejores y más selectas de esta tierra; allí llevarás... toda clase de ganado, de las especies más grandes, mejores y más selectas de esta tierra. Allí llevarás las semillas de toda clase de fruta, las más nutritivas y de aroma más dulce. Todos esos... llevarás dos de cada especie, para que se mantengan allí inagotables, mientras esos hombres permanezcan en el vara.
 
-“No habrá allí jorobados, ni encorvados; ni impotentes, ni lunáticos, ni pobreza, ni mentiras, ni mezquindad, ni celos, ni dientes cariados, ni leprosos que deban ser confinados, ni ninguna de las marcas con las que Angro Mainyus estampa los cuerpos de los mortales.”
+«No habrá allí jorobados, ni encorvados; ni impotentes, ni lunáticos, ni pobreza, ni mentiras, ni mezquindad, ni celos, ni dientes cariados, ni leprosos que deban ser confinados, ni ninguna de las marcas con las que Angro Mainyus estampa los cuerpos de los mortales.»
 
-Entonces Yima dijo para sí: “¿Cómo podré lograr hacer ese vara que Ahura-Mazda me ha ordenado hacer?”
+Entonces Yima dijo para sí: «¿Cómo podré lograr hacer ese vara que Ahura-Mazda me ha ordenado hacer?»
 
 Y Ahura-Mazda le dijo a Yima: "...
 
-<span id="p76">[<sup><small>pág. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
-“Aplasta la tierra con el pie y luego amásala con tus manos...”
+«Aplasta la tierra con el pie y luego amásala con tus manos...»
 
 ## BENDICIONES DE CULTIVAR LA TIERRA
 
@@ -361,7 +361,7 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 . . . .
 
-“Quien cultiva la tierra, ... no da con bondad y piedad a uno de los fieles, caerá en la oscuridad... abajo <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> al mundo de la aflicción, al reino lúgubre, abajo a la casa del infierno.”
+«Quien cultiva la tierra, ... no da con bondad y piedad a uno de los fieles, caerá en la oscuridad... abajo <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> al mundo de la aflicción, al reino lúgubre, abajo a la casa del infierno.»
 
 ## FELICIDAD DE LA TIERRA
 
@@ -373,7 +373,7 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 “Es el lugar donde uno de los fieles cultiva más maíz, hierba y fruta; . . . donde riega la tierra que está seca o seca la tierra que está demasiado húmeda.
 
-“Es el lugar donde hay mayor aumento de rebaños y manadas.”
+«Es el lugar donde hay mayor aumento de rebaños y manadas.»
 
 ## DOLOR DE LA TIERRA
 
@@ -385,11 +385,11 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 . . . .
 
-<span id="p78">[<sup><small>pág. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 “Es el lugar donde la esposa y los hijos de uno de los fieles… son conducidos por el camino del cautiverio (el camino seco y polvoriento) y alzan una voz de lamentación.
 
-“Desdichada es la tierra que durante mucho tiempo ha permanecido sin sembrar la semilla del sembrador y necesita un buen labrador, como una doncella bien formada que hace tiempo no ha tenido hijos y necesita un buen marido”.
+«Desdichada es la tierra que durante mucho tiempo ha permanecido sin sembrar la semilla del sembrador y necesita un buen labrador, como una doncella bien formada que hace tiempo no ha tenido hijos y necesita un buen marido».
 
 . . . .
 
@@ -397,7 +397,7 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 [^46]
 
-“...Durante un año permanecerá en barbecho la tierra donde han muerto perros u hombres.”
+«...Durante un año permanecerá en barbecho la tierra donde han muerto perros u hombres.»
 
 ## PURIFICACIÓN DEL AGUA CONTAMINADA POR UN CADÁVER
 
@@ -413,7 +413,7 @@ Ahura-Mazda respondió: «Quitándose los zapatos, quitándose la ropa, ¡con va
 
 “Mientras el cadáver no sea sacado del agua, esa agua permanecerá impura y no será apta para beber.
 
-“Después de sacar el cadáver y de que el arroyo ha corrido tres veces, [^48] el agua está limpia...”
+«Después de sacar el cadáver y de que el arroyo ha corrido tres veces, [^48] el agua está limpia...»
 
 ## EDUCACIÓN RELIGIOSA
 
@@ -421,13 +421,13 @@ Ahura-Mazda respondió: «Quitándose los zapatos, quitándose la ropa, ¡con va
 
 Aprenderá durante la primera y la última parte del día, durante la primera y la última parte de la noche, para que su mente crezca en conocimiento y se fortalezca en santidad. Así se sentará, dando gracias y orando a Dios y a sus ángeles para que crezca en conocimiento. Descansará durante la mitad del día, durante la mitad de la noche, y así continuará hasta que pueda decir todas las palabras que dijo el anterior Athrapaitis [^50]».
 
-<span id="p80">[<sup><small>pág. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## RECOMPENSA PARA LOS PIADOSOS
 
 [^51]
 
-Zaratustra le preguntó a Ahura-Mazda: “¡Oh tú, que todo lo sabes, Ahura-Mazda! ¿Debo exhortar al hombre piadoso, a la mujer piadosa, al malvado adorador de Daêva que vive en pecado, a que abandonen de una vez la tierra hecha por Ahura, a que abandonen el agua que corre, el maíz que crece y todo el resto de sus riquezas?”
+Zaratustra le preguntó a Ahura-Mazda: «¡Oh tú, que todo lo sabes, Ahura-Mazda! ¿Debo exhortar al hombre piadoso, a la mujer piadosa, al malvado adorador de Daêva que vive en pecado, a que abandonen de una vez la tierra hecha por Ahura, a que abandonen el agua que corre, el maíz que crece y todo el resto de sus riquezas?»
 
 Ahura-Mazda respondió: «Deberías, oh santo Zaratustra».
 
@@ -441,7 +441,7 @@ Entonces, el demonio llamado Vîzaresha se lleva encadenadas las almas de los ma
 
 Vohumanô (Guardián del Cielo) se levanta de su trono dorado. Vohumanô exclama: «¿Cómo has llegado hasta nosotros, Santo, desde aquel mundo decadente a este mundo incorruptible?».
 
-“Con alegría, las almas de los justos pasan al trono dorado de Ahura-Mazda, al trono dorado de los Ameshaspentas, [^53] a Garodemana. [^54]”
+«Con alegría, las almas de los justos pasan al trono dorado de Ahura-Mazda, al trono dorado de los Ameshaspentas, [^53] a Garodemana. [^54]»
 
 ## PERDÓN DEL PECADO
 
@@ -449,7 +449,7 @@ Vohumanô (Guardián del Cielo) se levanta de su trono dorado. Vohumanô exclama
 
 ¡La ley de Mazda, en verdad, oh Spitama Zaratustra!, libera a quien la confiesa de las ataduras de su pecado; libera el pecado de abuso de confianza; libera el pecado de asesinar a un fiel; libera el pecado de enterrar un cadáver; libera el pecado de actos sin expiación; libera las penas más severas del pecado; libera cualquier pecado que pueda cometerse.
 
-<span id="p82">[<sup><small>pág. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ## LA TENTACIÓN
 
@@ -459,13 +459,13 @@ Así respondió Zaratustra a Angro Mainyus (el Espíritu Maligno): «¡Oh, malhe
 
 De nuevo le dijo el astuto, Angro Mainyus: «¡No destruyas a mis criaturas, oh santo Zaratustra! Renuncia a la buena ley de los adoradores de Mazda, y obtendrás una bendición como la que obtuvo Zohak, el asesino, gobernante de las naciones».
 
-Así le respondió Spitama Zaratustra: “¡No! ¡Jamás renunciaré a la buena ley de los adoradores de Mazda, aunque mi cuerpo, mi vida y mi alma estallen!”
+Así le respondió Spitama Zaratustra: «¡No! ¡Jamás renunciaré a la buena ley de los adoradores de Mazda, aunque mi cuerpo, mi vida y mi alma estallen!»
 
-De nuevo le dijo el astuto... Angro Mainyus: “¿Con la palabra de quién atacarás, con la palabra de quién repelerás, con el arma de quién las buenas criaturas atacarán y repelerán mi creación?”...
+De nuevo le dijo el astuto... Angro Mainyus: «¿Con la palabra de quién atacarás, con la palabra de quién repelerás, con el arma de quién las buenas criaturas atacarán y repelerán mi creación?»...
 
 “...Las palabras enseñadas por Mazda, ¡son mis... mejores armas! Con esta palabra atacaré, con esta palabra repeleré... ¡Oh, malhechor, Angro Mainyus! A mí me la dio Spenta Mainyus (Buen Espíritu); me la dio en el tiempo infinito; a mí me la dieron los Ameshaspentas (Arcángeles), el que todo lo gobierna, el que todo lo benefactor.
 
-<span id="p83">[<sup><small>pág. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Zaratustra cantó en voz alta la (oración de) AHUNA VAIRYA.
 
@@ -481,7 +481,7 @@ Reunámonos a la cabeza de Arezûra (la Puerta del Infierno). Porque él... naci
 
 ¡Oh, malvado Angro Mainyus, te alejas del fuego, del agua, de la tierra, de la vaca, del árbol, del hombre fiel y de la mujer fiel... de todo lo bueno creado por Mazda, la descendencia del principio sagrado!
 
-<span id="p84">[<sup><small>pág. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## EN PRÉSTAMO
 
@@ -493,7 +493,7 @@ Quien no devuelve (algo prestado) cuando se le pide, roba la cosa; roba al hombr
 
 [^60]
 
-“Ahura-Mazda, en verdad, no nos permite desperdiciar nada de valor que podamos tener, ni siquiera el peso de un hilo de Asperena, ni siquiera lo que una criada deja caer mientras hila.”
+«Ahura-Mazda, en verdad, no nos permite desperdiciar nada de valor que podamos tener, ni siquiera el peso de un hilo de Asperena, ni siquiera lo que una criada deja caer mientras hila.»
 
 ## TEMPLANZA
 
@@ -513,7 +513,7 @@ Provoca el recuerdo de cosas olvidadas, y la bondad se instala en la mente. Asim
 
 Y en quien bebe vino con moderación, él mismo, su esposa, sus hijos, sus amigos y parientes se sienten afligidos e infelices, y <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> el superintendente de los problemas y el enemigo se alegran. Los seres sagrados tampoco se complacen con él; y la infamia se apodera de su cuerpo, e incluso la maldad de su alma.
 
-“Y aun quien da vino con autorización a alguien, y con ello se embriaga con él, es igualmente culpable de todo pecado que ese borracho cometa debido a esa embriaguez.” [^62]
+«Y aun quien da vino con autorización a alguien, y con ello se embriaga con él, es igualmente culpable de todo pecado que ese borracho cometa debido a esa embriaguez.» [^62]
 
 ## VISITA DE LAS ALMAS A LA TIERRA
 
@@ -523,7 +523,7 @@ Adoramos a los buenos, fuertes y benéficos Fravashis [^64] de los fieles, que v
 
 ¿Quién nos alabará? ¿Quién nos ofrecerá un sacrificio? ¿Quién meditará sobre nosotros? ¿Quién nos bendecirá? ¿Quién nos recibirá con comida y ropa en la mano y con una oración digna de dicha? ¿De cuál de nosotros se tomará el nombre para la invocación? ¿De cuál de ustedes adorará su alma con un sacrificio? ¿A quién se le dará nuestro don, para que tenga alimento inagotable por los siglos de los siglos? Y al hombre que les ofrece un sacrificio, con comida y ropa en la mano, con una oración digna de dicha, el temible [^66] Fravashis de los fieles, satisfecho, ileso e impasible, bendice así:
 
-<span id="p87">[<sup><small>pág. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ¡Que haya en esta casa rebaños de animales y hombres! ¡Que haya un caballo veloz y un carro sólido! ¡Que haya un hombre que sepa alabar a Dios y gobernar en una asamblea, que nos ofrezca sacrificios con carne y ropa en la mano, y con una oración digna de dicha!
 
@@ -539,7 +539,7 @@ Y elijo la Piedad, la generosa y la buena, ¡que sea mía! Y por lo tanto, conde
 
 “Jamás podré ser una fuente de desperdicio, jamás una fuente de marchitamiento para las aldeas Mazdayasnian, ni por amor al cuerpo ni por amor a la vida.
 
-<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 “Abjuro del refugio y liderazgo de los Daêvas, malvados como son; sí, completamente desprovistos de bien y vacíos de virtud, engañosos en su maldad, de todos los seres los más parecidos al Demonio de la Mentira, las más repugnantes de las cosas existentes y las más desprovistas de bien.
 
@@ -569,7 +569,7 @@ Sí, alabo de inmediato la Fe de Mazda, la Fe que no titubea en su expresión, l
 
 . . . .
 
-“Este Patet celestial será un muro de bronce firme... que mantendrá la puerta del Infierno firmemente atadas, y el camino al Paraíso abierto, el camino a ese lugar mejor: al brillante Garothman que posee toda la majestad, para que nuestra alma y las almas de los puros en el Puente Chinvat, el grande, puedan cruzarlo libres de problemas y <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> fácilmente, y que el puro Srosh, [^71] el victorioso, amigo, protector, supervisor, sea el protector y el guardián de mi alma...”.
+«Este Patet celestial será un muro de bronce firme... que mantendrá la puerta del Infierno firmemente atadas, y el camino al Paraíso abierto, el camino a ese lugar mejor: al brillante Garothman que posee toda la majestad, para que nuestra alma y las almas de los puros en el Puente Chinvat, el grande, puedan cruzarlo libres de problemas y <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> fácilmente, y que el puro Srosh, [^71] el victorioso, amigo, protector, supervisor, sea el protector y el guardián de mi alma...».
 
 ## SERVICIO DE MATRIMONIO
 
@@ -587,7 +587,7 @@ En el nombre y la amistad de Ahura-Mazda. ¡Brilla siempre! ¡Aumenta! ¡Sé vic
 
 “Que Ahura-Mazda (Dios) te envíe regalos, Bahman, [^73] pensar con el alma; Ardibihist, buen habla; Sharevar, buen trabajo; Çependarmat, sabiduría; Khordat, dulzura y prosperidad; Amertat, fecundidad!
 
-“Que te suceda lo que es mejor que el bien, y que no te suceda lo que es peor que el mal...”
+«Que te suceda lo que es mejor que el bien, y que no te suceda lo que es peor que el mal...»
 
 ## LA VISIÓN DE ARDÂ-VIRÂF
 
@@ -631,7 +631,7 @@ Y vi el infierno más oscuro, pernicioso, aterrador, terrible, muy doloroso, da�
 
 . . . .
 
-“Sin esfuerzo nada se puede lograr”, dijo Serosh Izad; “el pobre jornalero es digno de su salario, y quienes realizan buenas obras tendrán su recompensa en la vida eterna, según sus diversos méritos”. Continuó: «La vida del hombre es efímera, y le sobrevienen muchos problemas y ansiedades; y un hombre, tras cincuenta años de prosperidad y felicidad, puede verse, por algún accidente imprevisto, reducido a la enfermedad y la pobreza. Muchos son probados con este criterio, y pocos son hallados dignos. Sufrir un día de dolor, tras cincuenta años de placer, es demasiado para ellos, y se quejan con amargura de espíritu al Creador de todo bien por su injusticia y crueldad, sin recordar el bien que han disfrutado durante tanto tiempo ni recordar la eternidad del castigo reservado para los malvados. Por tanto, ¡oh Ardâ-Vîrâf!, sigue los caminos de la rectitud y enseña a otros a hacerlo también. Recuerda que tu cuerpo volverá al polvo, pero tu alma, si es rica en buenas obras, ascenderá a la inmortalidad y disfrutará de la felicidad que... Ya lo he presenciado. Cuida menos de tu cuerpo y más de tu alma; los dolores y molestias del cuerpo se curan fácilmente, pero ¿quién puede atender las enfermedades del alma? Cuando emprenden un viaje al mundo inferior, se proveen, llevan dinero, ropa, provisiones y están preparados para todas las exigencias del camino, pero ¿qué se proveen para el último viaje del alma del mundo inferior al superior, y de quién es la amistad que los asiste en el camino? Escucha, ¡oh Ardâ-Vîrâf!, y te describiré las provisiones necesarias para el viaje a la vida eterna.
+«Sin esfuerzo nada se puede lograr», dijo Serosh Izad; «el pobre jornalero es digno de su salario, y quienes realizan buenas obras tendrán su recompensa en la vida eterna, según sus diversos méritos». Continuó: «La vida del hombre es efímera, y le sobrevienen muchos problemas y ansiedades; y un hombre, tras cincuenta años de prosperidad y felicidad, puede verse, por algún accidente imprevisto, reducido a la enfermedad y la pobreza. Muchos son probados con este criterio, y pocos son hallados dignos. Sufrir un día de dolor, tras cincuenta años de placer, es demasiado para ellos, y se quejan con amargura de espíritu al Creador de todo bien por su injusticia y crueldad, sin recordar el bien que han disfrutado durante tanto tiempo ni recordar la eternidad del castigo reservado para los malvados. Por tanto, ¡oh Ardâ-Vîrâf!, sigue los caminos de la rectitud y enseña a otros a hacerlo también. Recuerda que tu cuerpo volverá al polvo, pero tu alma, si es rica en buenas obras, ascenderá a la inmortalidad y disfrutará de la felicidad que... Ya lo he presenciado. Cuida menos de tu cuerpo y más de tu alma; los dolores y molestias del cuerpo se curan fácilmente, pero ¿quién puede atender las enfermedades del alma? Cuando emprenden un viaje al mundo inferior, se proveen, llevan dinero, ropa, provisiones y están preparados para todas las exigencias del camino, pero ¿qué se proveen para el último viaje del alma del mundo inferior al superior, y de quién es la amistad que los asiste en el camino? Escucha, ¡oh Ardâ-Vîrâf!, y te describiré las provisiones necesarias para el viaje a la vida eterna.
 
 En primer lugar, el amigo que te asistirá es Dios; pero para alcanzar su amistad debes andar por sus caminos y depositar en Él la más firme confianza. Las provisiones deben ser la fe, la esperanza y el recuerdo de tus buenas obras. El cuerpo, ¡oh, Aida-Viral!, puede compararse con un caballo, y el alma con su jinete, y las provisiones necesarias para el sustento de ambos son las buenas acciones; pero así como con un jinete débil el caballo está mal manejado, así con un caballo débil el jinete está mal acomodado. Se debe procurar que ambos se mantengan en orden; así, en un sentido espiritual, el alma y el cuerpo deben mantenerse en orden mediante una sucesión de buenas acciones. Incluso en el mundo, la multitud se burlaría de un hombre que cuidara más de su caballo que de sí mismo; por esta razón, un hombre debe cuidar más de su alma que de su cuerpo. Dios, oh ¡Ardâ-Vîrâf! sólo exige dos cosas de los hijos de los hombres: la primera, que no pequen; la segunda, que sean agradecidos por las muchas bendiciones que Él les otorga continuamente.
 
@@ -711,7 +711,7 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^33]: 69:\* Traducción de Spiegel y Bleeck.
 
-[^34]: 70:\* “Los libros sagrados de Oriente” de Max Müller.
+[^34]: 70:\* «Los libros sagrados de Oriente» de Max Müller.
 
 [^35]: 70:† Ibíd.
 
@@ -721,7 +721,7 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^38]: 71:\* Libros Sagrados de Oriente. Traducción del Dr. L. H. Mills.
 
-[^39]: 72:\* “Los libros sagrados de Oriente” de Max Müller.
+[^39]: 72:\* «Los libros sagrados de Oriente» de Max Müller.
 
 [^40]: 74:\* Libros Sagrados de Oriente.
 
@@ -745,7 +745,7 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^50]: 79:‡ Un sacerdote docente.
 
-[^51]: 80:\* “Los libros sagrados de Oriente” de Max Müller.
+[^51]: 80:\* «Los libros sagrados de Oriente» de Max Müller.
 
 [^52]: 80:† Dios de la Luz.
 
@@ -753,13 +753,13 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^54]: 81:† Cielo más alto.
 
-[^55]: 81:‡ “Los libros sagrados de Oriente” de Max Müller.
+[^55]: 81:‡ «Los libros sagrados de Oriente» de Max Müller.
 
-[^56]: 82:\* “Los libros sagrados de Oriente” de Max Müller.
+[^56]: 82:\* «Los libros sagrados de Oriente» de Max Müller.
 
 [^57]: 82:† Véase _Notas_.
 
-[^58]: 83:\* “Los libros sagrados de Oriente” de Max Müller.
+[^58]: 83:\* «Los libros sagrados de Oriente» de Max Müller.
 
 [^59]: 84:\* Libros Sagrados de Oriente.
 
@@ -791,7 +791,7 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^73]: 92:\* _Ver_ Ameshaspends, página 41.
 
-[^74]: 92:† “Ardâ-Virâf” del Dr. Haug y el Dr. West; Revelaciones de JA Pope sobre Ardâ-Virâf”.
+[^74]: 92:† «Ardâ-Virâf» del Dr. Haug y el Dr. West; Revelaciones de JA Pope sobre Ardâ-Virâf”.
 
 [^75]: 93:\* Sumos sacerdotes.
 
@@ -809,4 +809,4 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 [^82]: 101:\* Libros Sagrados de Oriente. Traducido por el Dr. L. H. Mills.
 
-[^83]: 102:\* “Los libros sagrados de Oriente” de Max Müller.
+[^83]: 102:\* «Los libros sagrados de Oriente» de Max Müller.

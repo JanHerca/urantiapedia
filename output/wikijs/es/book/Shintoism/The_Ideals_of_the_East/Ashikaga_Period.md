@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:54:31Z
   </table>
 </figure>
 
-<span id="p163">[<sup><small>pág. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 1400-1600 d. C.
 
@@ -42,7 +42,7 @@ La conquista de la Materia por el Espíritu ha sido siempre el propósito del af
 
 Oriente ha tenido su propia forma de ese período llamado _Simbólico_, o mejor aún, quizás _Formalista_, cuando la materia, o la ley de la forma material, domina lo espiritual en el arte. Los egipcios y asirios buscaban mediante inmensas piedras expresar grandeza, como el artesano indio, mediante sus innumerables repeticiones, expresar la infinitud en sus creaciones. De igual manera, la mentalidad china de las dinastías Shu y Hang buscaba efectos sublimes en sus largos muros y en las líneas intrincadamente sutiles que producían en bronce. El primer período del arte japonés, desde su nacimiento hasta el comienzo de la era Nara, aunque imbuido del ideal más puro del primer desarrollo del budismo en el norte, aún se enmarca en este grupo, al hacer de la forma y la belleza formalista la base de la excelencia artística.
 
-<span id="p165">[<sup><small>pág. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 A continuación viene el llamado período clásico, en el que se busca la belleza como la unión del espíritu y la materia. A este impulso se dedica la filosofía panteísta griega en todas sus fases, y las obras del Partenón, con las piedras inmortales de Fidias y Praxíteles, son su expresión más pura. Esta fase se manifiesta también en Oriente como la segunda escuela del budismo nórdico.
 

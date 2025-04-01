@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 5. R. Meir dice: «Los sacerdotes realizan la primera inspección de la plaga de lepra para aliviar al paciente, pero no para restringirlo». Pero los sabios deciden que ni aliviar ni restringir, en ningún caso se debe realizar dicha inspección durante el Moed. [^623] R. Meir añade: «Un hombre puede recoger los huesos de su padre y su madre durante el Moed para enterrarlos, porque le da satisfacción». Pero R. José dice: «Es un dolor que le aflige». No se debe incitar a otros a llorar a sus muertos, ni celebrar un funeral durante los treinta días previos a la festividad.
 
-<span id="p194">[<sup><small>pág. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 § 6. No se deben cavar tumbas ni bóvedas funerarias en el Moed, pero se pueden preparar tumbas \[ampliar\] previamente excavadas en el Moed, y también hacer un lavadero durante el Moed, y un ataúd en el mismo patio donde yace el cadáver. \[Esto, sin embargo\] R. Jehudah lo prohíbe, a menos que las tablas hayan sido \[previamente\] provistas.
 

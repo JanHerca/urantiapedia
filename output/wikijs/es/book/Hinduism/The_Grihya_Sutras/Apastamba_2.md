@@ -73,7 +73,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 
 
-<span id="p260">[<sup><small>pág. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## PATALA 2, SECCIÓN 5.
 
@@ -156,7 +156,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. Cuando aparecen las estrellas, él sale de la casa con ella en dirección este o norte, y le muestra la estrella polar y Arundhatî con los dos versos siguientes (M. I, 9, 6-7), según las características de esos versos.
 
-<span id="p264">[<sup><small>pág. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -190,7 +190,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 [^736]: 260:3 Véase más abajo, IV, 10, 9.
 
-[^737]: 260:6 'La acción de sacrificar pertenece al novio; las manos de la esposa representan el recipiente del sacrificio.' Haradatta.—'Es el novio quien sacrifica el grano con el verso, “Esta esposa.”' Sudar<i>s</i>anârya.
+[^737]: 260:6 'La acción de sacrificar pertenece al novio; las manos de la esposa representan el recipiente del sacrificio.' Haradatta.—'Es el novio quien sacrifica el grano con el verso, «Esta esposa.»' Sudar<i>s</i>anârya.
 
 [^738]: 260:7 Véase arriba, Sutra 3.
 

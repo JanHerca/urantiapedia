@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 ## KÂ_N__D_A III, KA<i>ND</i>IKÂ 1.
 
@@ -64,7 +64,7 @@ Del bien nos habéis guiado a lo mejor, ¡dioses! Que por vosotros, el alimento,
 
 «La noche a la que los hombres acogen como a una vaca que llega a ellos, (la noche) que es la consorte del año, que esa (noche) nos sea auspiciosa. ¡Svâhâ!»
 
-<span id="p339">[<sup><small>pág. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 La noche, imagen del año, que veneramos. Que llegue a la vejez, impartiendo fuerza a mi descendencia. ¡Svâhâ!
 
@@ -170,7 +170,7 @@ Rico en caballos y vacas, rico en deleites, para gran felicidad. A ti puede llor
 
 'A ti vaya el niño pequeño, a ti el ternero con sus compañeros, a ti la copa de Parisrut, a ti vayan con ollas de cuajada.
 
-<span id="p346">[<sup><small>pág. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 «La consorte de la Paz, la grande, bellamente ataviada, concédenos, oh bendita, riqueza y poder viril, que sea rico en caballos y vacas, lleno de savia como la hoja de un árbol. Que nuestra riqueza aumente aquí, revistiéndose de prosperidad». Con estos cuatro mantras, se acerca a los cuatro postes.
 
@@ -226,7 +226,7 @@ Rico en caballos y vacas, rico en deleites, para gran felicidad. A ti puede llor
 
 17\. Luego hacia el norte: 'Que el insomne ​​y el que no duerme me protejan del norte.
 
-<span id="p349">[<sup><small>pág. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 'La Luna es la que no duerme; el Viento es el que no duerme; a ellos me dirijo; a ellos sea la adoración; que me protejan del norte.'
 
@@ -446,7 +446,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 52\. [^933]. Algunos (hacen ofrendas de Pi<i>nd</i>a a una persona fallecida) por separado durante un año (antes de admitirlo en una parte de la Pit<i>n</i>ya<i>nd</i>a común).
 
-53\. [^934]. Pero hay una regla: “No puede haber un cuarto Pi<i>nd</i>a”, pues esto se afirma en el <i>S</i>ruti.
+53\. [^934]. Pero hay una regla: «No puede haber un cuarto Pi<i>nd</i>a», pues esto se afirma en el <i>S</i>ruti.
 
 54\. [^935]. Todos los días le dará comida (es decir, a la persona fallecida), y si era un Brâhma<i>n</i>a, un recipiente con agua.
 
@@ -454,7 +454,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 
 
-<span id="p360">[<sup><small>pág. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 ## KANDIK 11.
 

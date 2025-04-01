@@ -1295,7 +1295,7 @@ Y sables hostiles brillan allí,
 Para guardar las trenzas de la feria.
 
 &nbsp;&nbsp;Ven, Selim, vamos a perforar el bosque,
-Mientras la noche se hace amiga, para buscar mi amor. <span id="p156">[<sup><small>p. 156  </small></sup>]</span>
+Mientras la noche se hace amiga, para buscar mi amor. <span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 Las nubes de fragancia, a medida que se elevan,
 Se marcará el lugar donde se encuentra Abla.
 Alrededor de su tienda mis enemigos celosos,
@@ -1325,7 +1325,7 @@ Que calma cada cuidado y cura cada herida,
 A medida que el cuenco vivificante gira.
 
 &nbsp;&nbsp;Entre esos valles mis pies ansiosos
-Seguiré el rastro de mi querido retiro de Abla; <span id="p157">[<sup><small>p. 157  </small></sup>]</span>
+Seguiré el rastro de mi querido retiro de Abla; <span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 Un vendaval de salud puede flotar allí,
 Para darme un poco de consuelo. cuidado.
 No temo al amor—bendigo el dardo
@@ -1355,7 +1355,7 @@ La recompensa del honor que debemos ganar;
 A la llamada del honor, el camello se apresura
 A través de tierras salvajes sin caminos y lúgubres yermos,
 Hasta que en la gloriosa carrera ella encuentra
-Los corceles más veloces se quedaron atrás: <span id="p158">[<sup><small>p. 158  </small></sup>]</span>
+Los corceles más veloces se quedaron atrás: <span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 Por trabajos como estos solo, él llora,
 Los jóvenes aventureros ascienden a la grandeza:
 Si la indolencia hinchada fuera fama,
@@ -1386,7 +1386,7 @@ Lo detesto, ahora las horas retroceden,
 Y vuela yo con los pies invertidos.
 
 &nbsp;&nbsp;Mi alma, libre de toda mancha,
-Puede alardear con valentía de su pureza; <span id="p159">[<sup><small>p. 159  </small></sup>]</span>
+Puede alardear con valentía de su pureza; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 Pero ah, qué agudo, por brillante que sea
 El sable brilla a la vista,
 Su esplendor se ha perdido, su pulimento es vano,
@@ -1417,7 +1417,7 @@ Y plantar una daga en el corazón.
 Él sólo es apto para la lucha
 Que llena los caminos bulliciosos de la vida,
 Quien, mientras camina por los escenarios llenos de gente,
-Sobre ningún pecho afín se apoya. <span id="p160">[<sup><small>p. 160  </small></sup>]</span>
+Sobre ningún pecho afín se apoya. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 Demasiado tiempo mi tonto corazón había considerado
 La humanidad tan virtuosa como parecía;
 El hechizo se rompió, sus faltas están al descubierto,
@@ -1447,7 +1447,7 @@ Cuando podemos tragar del frasco
 ¿Cuáles son las necesidades de los mortales? ¿Pregunta?
 
 Los reinos del contentamiento no son invadidos por temores,
-No hay preocupaciones que molesten, ninguna tristeza sombree; <span id="p161">[<sup><small>p. 161  </small></sup>]</span>
+No hay preocupaciones que molesten, ninguna tristeza sombree; <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 Allí, colocados seguros, en paz descansamos,
 Ni nada exige hacernos bendecidos.
 Mientras que Placer's gay fantástico cenador,

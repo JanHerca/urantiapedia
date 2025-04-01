@@ -62,25 +62,25 @@ Las cualidades no pueden explicarse de forma totalmente distinta (entre sí). La
 
 ## Notas al pie
 
-[^1599]: 328:1 Cf. El Bhagavad Gita, entre otros, [p. 104](Bhagavad-gita_13#p104).
+[^1599]: 328:1 Cf. El Bhagavad Gita, entre otros, [p. 104](../Bhagavad-gita_13#p104).
 
-[^1600]: 328:2 Cf. [pag. 318](Anugita_21#p318) supra.
+[^1600]: 328:2 Cf. [pag. 318](../Anugita_21#p318) supra.
 
-[^1601]: 328:3 Así dice Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a sobre esto: «Por mucho que aumente la bondad, la oscuridad la retiene, y así existe una relación continua entre lo que retiene y lo que es retenido entre las tres cualidades; por lo tanto, son iguales. Así también, al aumentar la pasión, retiene la bondad y la oscuridad. Parece ser que las cualidades dominan todo en este mundo y existen juntas, aunque con distinta intensidad» (Gîtâ, [p. 73](Bhagavadgita_6#p73)).
+[^1601]: 328:3 Así dice Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a sobre esto: «Por mucho que aumente la bondad, la oscuridad la retiene, y así existe una relación continua entre lo que retiene y lo que es retenido entre las tres cualidades; por lo tanto, son iguales. Así también, al aumentar la pasión, retiene la bondad y la oscuridad. Parece ser que las cualidades dominan todo en este mundo y existen juntas, aunque con distinta intensidad» (Gîtâ, [p. 73](../Bhagavadgita_6#p73)).
 
 [^1602]: 328:4 Es decir, espontáneamente, Ar<i>g</i>una Mi<i>s</i>ra. Cf. <i>S</i>ânti Parvan (Moksha), cap. 194, est. 35.
 
 [^1603]: 328:5 Es en las especies inferiores donde predomina la oscuridad.
 
-[^1604]: 329:1 Es decir, la especie humana, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1604]: 329:1 Es decir, la especie humana, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109).
 
-[^1605]: 329:2 Véase Gîtâ, [p. 109](Bhagavadgita_14#p109), también [p. 327](Anugita_23#p327) supra. En su Sânkhyatattvakaumudî, Vâ<i>k</i>aspati Mi<i>s</i>ra aplica el epíteto a los yoguis (véase p. 13 de la edición de Târânâth y la nota del editor correspondiente).
+[^1605]: 329:2 Véase Gîtâ, [p. 109](../Bhagavadgita_14#p109), también [p. 327](../Anugita_23#p327) supra. En su Sânkhyatattvakaumudî, Vâ<i>k</i>aspati Mi<i>s</i>ra aplica el epíteto a los yoguis (véase p. 13 de la edición de Târânâth y la nota del editor correspondiente).
 
-[^1606]: 329:3 Cf. Bhagavad Gita, [pág. 108](Bhagavad-gita_14#p108).
+[^1606]: 329:3 Cf. Bhagavad Gita, [pág. 108](../Bhagavad-gita_14#p108).
 
-[^1607]: 329:4 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109). Las modificaciones de los sentidos que constituyen la percepción por ellos son una operación de la cualidad de la bondad. Este parece ser el significado del texto; al respecto, cf. Tattvakaumudi, p. 14 (edición de Târânâth).
+[^1607]: 329:4 Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109). Las modificaciones de los sentidos que constituyen la percepción por ellos son una operación de la cualidad de la bondad. Este parece ser el significado del texto; al respecto, cf. Tattvakaumudi, p. 14 (edición de Târânâth).
 
-[^1608]: 329:5 Véase Gîtâ, [p. 109](Bhagavadgita_14#p109); las palabras son casi idénticas.
+[^1608]: 329:5 Véase Gîtâ, [p. 109](../Bhagavadgita_14#p109); las palabras son casi idénticas.
 
 [^1609]: 329:6 Cf. Sânti Parvan (Moksha), cap. 188, est. 15. Aquí se omite el Vai<i>s</i>ya.
 
@@ -90,13 +90,13 @@ Las cualidades no pueden explicarse de forma totalmente distinta (entre sí). La
 
 [^1612]: 330:2 Es decir, los días de conjunción u oposición de la luna.
 
-[^1613]: 330:3 Entiendo que esto significa que en las 'entidades inamovibles' coexisten las tres cualidades; el nacimiento en las especies inferiores es un efecto de la oscuridad; las cualidades variables, a saber, el calor, etc., como dice Ar<i>g</i>una Mi<i>s</i>ra, son las propiedades de la pasión; y las propiedades oleaginosas entre ellas pertenecen a la bondad, como, dice Ar<i>g</i>una Mi<i>s</i>ra, son fuentes de placer (cf. Gîtâ, [p. 118](Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a dice: 'Como las entidades inamovibles son muy poco inteligentes, la oscuridad está muy desarrollada entre ellas', pero esto último, como interpretación de tiryagbhâvagata, me parece igualmente injustificado e inapropiado aquí.
+[^1613]: 330:3 Entiendo que esto significa que en las 'entidades inamovibles' coexisten las tres cualidades; el nacimiento en las especies inferiores es un efecto de la oscuridad; las cualidades variables, a saber, el calor, etc., como dice Ar<i>g</i>una Mi<i>s</i>ra, son las propiedades de la pasión; y las propiedades oleaginosas entre ellas pertenecen a la bondad, como, dice Ar<i>g</i>una Mi<i>s</i>ra, son fuentes de placer (cf. Gîtâ, [p. 118](../Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a dice: 'Como las entidades inamovibles son muy poco inteligentes, la oscuridad está muy desarrollada entre ellas', pero esto último, como interpretación de tiryagbhâvagata, me parece igualmente injustificado e inapropiado aquí.
 
 [^1614]: 330:4 ¿Se refiere esto al período entre el final de un y el comienzo de otro yuga o era? Ese es el único sentido ejusdem generis con las palabras que lo preceden que se me ocurre; sin embargo, el salto de años a yuga-sandhis es largo.
 
-[^1615]: 330:5 Cf. Gîtâ, [p. 120](Bhagavadgita_17#p120). Con referencia, al menos, a algunos de los aspectos aquí enumerados, la división sería bastante fantasiosa.
+[^1615]: 330:5 Cf. Gîtâ, [p. 120](../Bhagavadgita_17#p120). Con referencia, al menos, a algunos de los aspectos aquí enumerados, la división sería bastante fantasiosa.
 
-[^1616]: 331:1 Véanse estos tres mencionados en <i>Kh</i>ândogya, págs. 340-359. En cuanto a las ramas del conocimiento, cf. Gîtâ, [pág. 84](Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra dice: «Triplemente los Vedas».
+[^1616]: 331:1 Véanse estos tres mencionados en <i>Kh</i>ândogya, págs. 340-359. En cuanto a las ramas del conocimiento, cf. Gîtâ, [pág. 84](../Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra dice: «Triplemente los Vedas».
 
 [^1617]: 331:2 El universo se desarrolló a partir de Prakriti, que es simplemente las tres «cualidades en equilibrio». Cf. Sânkhya-sûtra I, 61.
 

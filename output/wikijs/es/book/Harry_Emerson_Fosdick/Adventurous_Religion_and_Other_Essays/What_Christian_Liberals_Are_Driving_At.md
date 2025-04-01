@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T14:32:0Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>pág. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 ## I
 
@@ -40,7 +40,7 @@ Es difícil escribir sobre este tema porque el liberalismo religioso suele ser v
 
 Ciertamente, no puedo reivindicar el derecho a hablar en nombre de todos los liberales cristianos. Hay muchos tipos diferentes, desde radicales audaces que no creen en gran cosa, hasta hombres de convicciones sólidas, tolerantes con las diferencias y abiertos a las nuevas verdades. Pero hay un grupo grande y creciente en nuestras iglesias por el que intentaré hablar.
 
-<span id="p233">[<sup><small>pág. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Permítanme proponer, para empezar, tres pruebas que permiten reconocer al tipo de liberal que intentaré representar. En primer lugar, ha adquirido nuevas actitudes y formas de pensar no simplemente como resultado de una aventura intelectual, sino a través de la profundización de su vida espiritual. Es liberal porque es más religioso, no porque lo sea menos. Su alma en desarrollo, apretada por viejas restricciones, ha buscado aire para respirar.
 
@@ -60,13 +60,13 @@ _ Cuántas cosas, por ejemplo, descreen sobre la oración. 'Se inventan una hist
 
 Pero cuando observo una actitud hacia la oración que se centra principalmente en ideas desacreditadas y descreídas, me impaciento. ¿Qué creemos sobre la oración? «Quien se levanta de rodillas siendo mejor, su oración es respondida». ¿Sabemos lo que eso significa? En el ajetreo de nuestra vida turbulenta, ¿conocemos el secreto de la oración que nos permite tener un nuevo control de nosotros mismos, ver una nueva perspectiva sobre nuestro trabajo y dejar que la influencia sanadora del Espíritu restaure nuestras almas? ¿Estamos experimentando esas victorias de la fe sobre nosotros mismos y nuestras circunstancias que siempre acompañan a una religión vital y de oración? Lo que no creemos sobre la oración probablemente no nos lleve a ninguna parte; lo que sí creemos firmemente puede llevarnos muy lejos.
 
-<span id="p237">[<sup><small>pág. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Este principio es válido en todos los aspectos de la religión. No podemos vivir de negaciones y rechazos. La vida es demasiado compleja, demasiado arriesgada, demasiado llena de misterio; las penas son demasiado profundas; las tentaciones nos asaltan con demasiada furia; y el futuro es demasiado incierto. Vivimos únicamente de nuestras convicciones, y de los maestros religiosos, en particular, necesitamos, sobre todo, escuchar lo que realmente creen.
 
 Por lo tanto, cuando pienso en un liberal eficaz y útil, pienso en un hombre como George MacDonald. Algunos lo conocemos por sus poemas, otros por sus sermones, y más aún por sus novelas, como Robert Falconer. Fue ministro congregacional en una pequeña parroquia de Inglaterra a mediados del siglo XIX, presentando el cristianismo en términos modernos. Un día, sus diáconos acudieron a él para informarle que les era imposible seguir pagando su salario y que, en consecuencia, tendría que irse. Inocentemente, se ofreció a quedarse y mantenerse escribiendo y enseñando. Su esposa, sin embargo, pronto tuvo una intuición femenina. «George», dijo, «no es que la gente de aquí sea demasiado pobre para pagarnos. No quieren...
 
-<span id="p238">[<sup><small>pág. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Así que George MacDonald, desplazado de su primer y único pastorado, fue a Manchester y luego a Londres, predicó en un salón y se convirtió en una gran inspiración para multitudes de cristianos. William Burnet Wright cuenta sobre un servicio dominical al que asistió. MacDonald leyó el capítulo once de la Epístola a los Hebreos sobre los héroes de la fe y comenzó su sermón con un marcado acento escocés: «Hemos oído hablar de estos hombres de fe. No voy a decirles qué es la fe; hay muchos clérigos que pueden hacerlo. Voy a intentar ayudarlos a creer». Luego, durante una hora y cuarto, derramó su alma sobre esa congregación hechizada hasta que nadie podría haber salido del salón sin estar seguro de que hay grandes objetivos por los que vivir, grandes convicciones por las que vivir, grandes creencias que sustentan la vida y grandes esperanzas por delante.
 
@@ -86,7 +86,7 @@ Si este problema fuera meramente intelectual, los liberales no se lo tomarían t
 
 ¿Es una herejía peligrosa aceptar formas modernas de pensamiento en la religión? La situación es al revés. Nuestros hijos asisten a escuelas y universidades donde los métodos científicos de pensamiento se dan por sentados, donde subyacen en todos los estudios y están involucrados en todos los resultados; y el golpe más devastador que se puede asestar a la fe de nuestros jóvenes es obligarlos a elegir entre el pensamiento científico y el Evangelio.
 
-<span id="p243">[<sup><small>pág. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 A menudo se culpa a las universidades de perturbar la seguridad religiosa de nuestros jóvenes. Quien las conozca no se sentirá tentado a liberarlas por completo de esa carga. Pero al tratar con jóvenes con problemas religiosos, a menudo hay que atribuir su inquietud no tanto a las universidades como a las iglesias cristianas y las escuelas dominicales, a las instituciones religiosas que enseñaron a estos jóvenes desde el principio que el Evangelio cristiano está indisolublemente ligado a la visión precientífica del mundo presente en las Escrituras o los credos; que el Evangelio del Señor Jesús depende de la creación por decreto o de la credibilidad histórica de antiguas narraciones milagrosas; que el Dios del Evangelio, como el Dios de los primeros documentos hebreos, es un hombre magnificado que podía pasearse por el jardín al fresco del día o descender del cielo para confundir el habla de los hombres, para que no construyeran una torre lo suficientemente alta como para alcanzar su hogar.
 

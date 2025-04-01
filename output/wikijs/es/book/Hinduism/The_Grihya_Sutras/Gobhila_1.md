@@ -32,9 +32,9 @@ dateCreated: 2025-1-15T23:3:27Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA I, KÂ_N__D_IKÂ 1.
 
@@ -514,7 +514,7 @@ Este Bali se llama â-sasya, porque se ofrece hasta que madure la siguiente cose
 
 
 
-<span id="p38">[<sup><small>pág. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 

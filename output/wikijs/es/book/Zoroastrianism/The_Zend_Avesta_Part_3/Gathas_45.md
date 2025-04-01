@@ -1,6 +1,6 @@
 ---
 title: "Yasna XLV"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p122">[<sup><small>pág. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## YASNA XLV. LA DOCTRINA DEL DUALISMO. HOMENAJE A AHURA.
 
@@ -56,7 +56,7 @@ El ardiente profeta, por tanto, declara la ruptura total entre el bien y el mal,
 
 9. Y desea con mayor fervor rendir homenaje a Ahura, pues Él se acerca a él con el Poder de Su divina Autoridad en la prosperidad y en la adversidad, bendiciendo tanto a hombres como a rebaños mientras se multiplican bajo la influencia de la Piedad. 10. Como las alabanzas eran las más grandes, así busca magnificar al Señor en los Yasnas de Âramaiti, siendo Ahura reconocido por Su propósito inmutable, pues Él otorgará la eternidad en Su santo Reino, cuando este se haya consolidado. 11. Sí, buscaría magnificar a Aquel que desprecia a los Daêvas y a su grupo, tanto como ellos, a su vez, profesan menospreciarlo a Él y a Su reino religioso, en contraste con el profeta de Ahura, quien lo honró en la santa Perspicacia, la Daêna del Saoshya<i>n</i>t. Y se declara que este Saoshya<i>n</i>t es el maestro controlador de cada adorador fiel, y él, o el fiel venerador del vilipendiado Ahura, es también nuestro amigo, hermano, es más, como Ahura mismo (verso 4), nuestro mismo Padre en la Fe.
 
-<span id="p125">[<sup><small>pág. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Traducción.
 

@@ -1,5 +1,5 @@
 ---
-title: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+title: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 description: 
 published: true
 date: 2025-2-12T13:0:42Z
@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-12T13:0:42Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1887</text>		<text style="font-size:9px" x="61" y="60">El Avesta Zend</text>		<text style="font-size:9px" x="61" y="70">Parte III</text>		<text style="font-size:9px" x="61" y="80">El Yasna, Visparad,</text>		<text style="font-size:9px" x="61" y="90">Adiós, Dios...</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">EL ZEND-AVESTA</span><br>PARTE III<br><span class="text-h3">El Yasna, Visparad, Âfrînagân, Gâhs</span><br>y<span class="text-h3">Fragmentos varios</span><br>TRADUCIDO POR<br><span class="text-h5">Molinos LH</span><br>Libros Sagrados de Oriente, Volumen 31.<br>Imprenta de la Universidad de Oxford<br>[1887]<br>Escaneado y corregido en sacred-texts.com, enero-mayo de 2001, por John Bruno Hare. Formateado y corregido en enero-febrero de 2007. Este texto es de dominio público en los EE. UU. porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución en todas las copias.<br><br></p><br>_Y sacrificamos a las luces del alba que irradian su luz, y a los caballos más veloces que barren la tierra séptuple...._ —Gâh Ushahin, ([p. 387](/es/book/Zoroastrianism/The_Zend_Avesta_Part_3/The_Gahs#5)).Esta es la tercera parte de los Libros Sagrados del Oriente Zend Avesta, traducidos por L. H. Mills, quien asumió la tarea después de James Darmesteter, el traductor de las dos primeras partes. Incluye material litúrgico, parte del cual se ha mantenido casi completamente inalterado desde el período más temprano del zoroastrismo, y todavía se usa hoy en día. De gran interés son algunas de las formulaciones más antiguas del dualismo, que más tarde se convirtió en un concepto central de otras religiones de Oriente Medio, incluido el judaísmo y, más tarde, el cristianismo. Además, los textos de esta parte del Avesta no están tan alejados del hinduismo de la era védica y, como tal, representan un vínculo entre las grandes religiones posteriores de Oriente y Occidente.
+<div class="urantiapedia-book-front urantiapedia-book-zoroaster">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1880-1887</text>
+		<text style="font-size:9px" x="61" y="60">El Avesta Zend</text>
+		<text style="font-size:9px" x="61" y="70">Parte III</text>
+		<text style="font-size:9px" x="61" y="80">El Yasna, Visparad,</text>
+		<text style="font-size:9px" x="61" y="90">Adiós, Dios...</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">EL ZEND-AVESTA</span><br>
+PARTE III<br>
+<span class="text-h3">El Yasna, Visparad, Âfrînagân, Gâhs</span><br>
+y
+<span class="text-h3">Fragmentos varios</span><br>
+TRADUCIDO POR<br>
+<span class="text-h5">Molinos LH</span><br>
+Libros Sagrados de Oriente, Volumen 31.<br>
+Imprenta de la Universidad de Oxford<br>
+[1887]<br>
+Escaneado y corregido en sacred-texts.com, enero-mayo de 2001, por John Bruno Hare. Formateado y corregido en enero-febrero de 2007. Este texto es de dominio público en los EE. UU. porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución en todas las copias.<br>
+<br>
+</p>
+
+<br>
+
+_Y sacrificamos a las luces del alba que irradian su luz, y a los caballos más veloces que barren la tierra séptuple...._ —Gâh Ushahin, ([p. 387](/es/book/Zoroastrianism/The_Zend_Avesta_Part_3/The_Gahs#5)).
+
+Esta es la tercera parte de los Libros Sagrados del Oriente Zend Avesta, traducidos por L. H. Mills, quien asumió la tarea después de James Darmesteter, el traductor de las dos primeras partes. Incluye material litúrgico, parte del cual se ha mantenido casi completamente inalterado desde el período más temprano del zoroastrismo, y todavía se usa hoy en día. De gran interés son algunas de las formulaciones más antiguas del dualismo, que más tarde se convirtió en un concepto central de otras religiones de Oriente Medio, incluido el judaísmo y, más tarde, el cristianismo. Además, los textos de esta parte del Avesta no están tan alejados del hinduismo de la era védica y, como tal, representan un vínculo entre las grandes religiones posteriores de Oriente y Occidente.
+
+
 ## Índice
 
 - [Contenido](/es/book/Zoroastrianism/The_Zend_Avesta_Part_3/Contents)

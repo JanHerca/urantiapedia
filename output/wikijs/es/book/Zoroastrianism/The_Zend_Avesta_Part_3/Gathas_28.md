@@ -1,6 +1,6 @@
 ---
 title: "Yasna XXVIII"
-description: "El Zend Avesta, Parte III: “El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios” (SBE 31)"
+description: "El Zend Avesta, Parte III: «El Yasna, el Visparad, el Âfrînagân, los Gâhs y fragmentos varios» (SBE 31)"
 published: true
 date: 2025-2-12T13:0:42Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## YASNA XXVIII. ORACIONES PRINCIPALMENTE POR GRACIA Y POR LAS PALABRAS DE LA REVELACIÓN.
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 12\. Tras añadir, verso tras verso, algunos detalles para intensificar el fervor de su petición, lo resume todo en una expresión final, tan notable por su seriedad como por su profundidad, y ruega a Ahura, como alguien consagrado para siempre a la defensa del Orden Recto y la Buena Mente (cuyas sagradas influencias previó con precisión que perdurarían por siglos), que le diga, con su propia «voz de espíritu», para que pueda declararlas a las masas expectantes, las leyes que impregnan el universo moral y según las cuales surgió. Pues, según estos principios sagrados, y solo así, podría promulgar un sistema que rescatara a la sociedad de sus imperfecciones y al santo iraní de sus sufrimientos. Ahura, quien, cabe destacar, es el único al que se dirige este verso culminante, escucha y responde mediante una revelación de estos principios eternos, y esta respuesta se encuentra en el capítulo XXX. Mediante una comprensión profunda de ese documento tan importante, sostengo que podemos ver cómo cumplió su propósito según lo indican las capacidades y necesidades de aquellos a quienes fue dirigido, y cómo al discriminar la verdad de la falsedad ayudó a la defensa de Asha y a la fundación de la verdadera Benevolencia.
 
-<span id="p17">[<sup><small>pág. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Traducción.
 

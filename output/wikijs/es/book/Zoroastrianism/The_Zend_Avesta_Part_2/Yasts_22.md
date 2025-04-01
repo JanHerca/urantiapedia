@@ -1,6 +1,6 @@
 ---
 title: "Yast XXII"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Este Ya<i>s</i>t describe el destino que aguarda al alma de los justos (§§ 1-18) y al alma de los malvados (§§ 19-37) tras la muerte. Pasan las tres primeras noches (los sadis o sidôs; cf. Commentaire du Vendîdâd, XIII, 55) entre los mayores goces o sufrimientos; luego, su propia conciencia los recibe en la forma de una hermosa doncella celestial (o una anciana diabólica [^1330]), y son conducidos en cuatro etapas hacia el cielo o hacia el infierno, a través de los tres paraísos del Buen Pensamiento, la Buena Palabra y la Buena Obra, o los tres infiernos del Mal Pensamiento, la Mala Palabra y la Mala Obra: allí son alabados y glorificados por Ahura, o reprendidos e insultados por Angra Mainyu, y alimentados con ambrosía o veneno.
 
@@ -50,11 +50,11 @@ Ahura Mazda respondió:
 
 2\. 'Se sienta cerca de la cabecera, cantando el U<i>s</i>tavaiti Gâtha [^1331] y proclamando felicidad: "¡Feliz es él, feliz el hombre, quienquiera que sea, a quien Ahura Mazda le concede el pleno cumplimiento de sus deseos!". Esa noche, su alma saborea [^1332] tanto placer como todo el mundo viviente puede saborear. <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 3\. —'¿Dónde mora su alma la segunda noche?
 
-4\. Ahura Mazda respondió: «Se sienta cerca de la cabeza, cantando el Ustavaiti Gâtha y proclamando felicidad: “¡Feliz aquel, feliz el hombre, quienquiera que sea, a quien Ahura Mazda concede el pleno cumplimiento de sus deseos!”. Esa noche, su alma saborea tanto placer como todo el mundo viviente puede saborear».
+4\. Ahura Mazda respondió: «Se sienta cerca de la cabeza, cantando el Ustavaiti Gâtha y proclamando felicidad: «¡Feliz aquel, feliz el hombre, quienquiera que sea, a quien Ahura Mazda concede el pleno cumplimiento de sus deseos!». Esa noche, su alma saborea tanto placer como todo el mundo viviente puede saborear».
 
 5\. —'¿En la tercera noche dónde mora su alma?
 
-6\. Ahura Mazda respondió: «Se sienta cerca de la cabeza, cantando el Ustavaiti Gâtha y proclamando felicidad: “¡Feliz aquel, feliz el hombre, quienquiera que sea, a quien Ahura Mazda concede el pleno cumplimiento de sus deseos!”. Esa noche, su alma saborea tanto placer como todo el mundo viviente puede saborear».
+6\. Ahura Mazda respondió: «Se sienta cerca de la cabeza, cantando el Ustavaiti Gâtha y proclamando felicidad: «¡Feliz aquel, feliz el hombre, quienquiera que sea, a quien Ahura Mazda concede el pleno cumplimiento de sus deseos!». Esa noche, su alma saborea tanto placer como todo el mundo viviente puede saborear».
 
 7\. Al final [^1333] de la tercera noche, cuando aparece el alba, al alma del fiel le parece como si la hubieran traído entre plantas y aromas: parece como si soplara un viento de la región del sur, de las regiones del sur, un viento dulcemente perfumado, más dulcemente perfumado que cualquier otro viento del mundo.
 
@@ -94,7 +94,7 @@ Ahura Mazda respondió:
 
 20\. Ahura Mazda respondió: 'Se precipita y se sienta cerca del cráneo, cantando el Kima [^1344] Gâtha, ¡oh santo Zaratustra!
 
-“¿A qué tierra me dirigiré, oh Ahura Mazda? ¿A quién iré con mis oraciones?”
+«¿A qué tierra me dirigiré, oh Ahura Mazda? ¿A quién iré con mis oraciones?»
 
 «Esa noche su alma prueba tanto sufrimiento como todo el mundo viviente puede probar.»
 
@@ -201,7 +201,7 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 [^1411]: 318:2 El Gâtha del lamento, que comienza con la palabra Kãm (Kãm nemê zãm: '¿A qué tierra me volveré?'); Yasna XLVI (XLV).
 
 [^1412]: 319:1 Aquí se debe proporcionar un desarrollo similar al de los §§ 9-14: en el Ardâ Vîrâf y el Minokhired, el alma del malvado se encuentra con una horrible anciana, que es su propia conciencia: 'Y en ese viento vio su propia religión y sus obras, como una mujer libertina, desnuda, decaída, boquiabierta, con las piernas arqueadas, las caderas enjutas e ilimitadamente manchada, de modo que esa mancha se unía a la mancha, como las criaturas nocivas más horribles (khrafstar), más sucias y más apestosas' (cf. § 9).
-  Entonces aquella alma malvada habló así: “¿Quién eres tú? Nunca vi entre las criaturas de Aûharmazd y Akharman nada más feo, ni más inmundo, ni más apestoso” (cf. § 10).
+  Entonces aquella alma malvada habló así: «¿Quién eres tú? Nunca vi entre las criaturas de Aûharmazd y Akharman nada más feo, ni más inmundo, ni más apestoso» (cf. § 10).
   
   Ella le habló así: «¡Soy tus malas acciones, oh joven de malos pensamientos, de malas palabras, de malas acciones, de mala religión! Es por tu voluntad y tus acciones que soy horrible y vil, inicua y enferma, podrida y maloliente, desdichada y afligida, como te parece (cf. §§ 11-12).»
   
@@ -217,7 +217,7 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
 [^1415]: 321:3 Uno de los primeros discípulos de Zoroastro; cf. Yt. XIII, 96.
 
-[^1416]: 321:4 Cf. [p. 33](Yasts_1#p33), nota [2](Yasts_1#fn173).
+[^1416]: 321:4 Cf. [p. 33](../Yasts_1#p33), nota [2](../Yasts_1#fn173).
 
 [^1418]: 322:1 § 38 = Yt. I, 31.
 
@@ -247,5 +247,5 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 [^1425]: 322:8 'El que tiene el conocimiento hecho', o 'El que tiene el conocimiento de lo que está hecho' (kartak dânishn); su otro nombre Parôdar<i>s</i> es 'El que prevé'.
 
 [^1426]: 322:9 Aquí nuevamente se omite un gran pasaje: sólo puede obtenerse parcialmente de la traducción Pahlavi; las palabras entre paréntesis se refieren a textos Zend que se han perdido para nosotros:
-  Entonces bate sus alas y alza la voz, diciendo: “¡Levántense, hombres! [y también mujeres, adultos, niños, etc.... Pónganse bien el cinturón y la camisa, lávense las manos, ciñan el cinturón, vayan a alimentar al ganado y reciten en voz alta los cinco sagrados Gâthas de Spitama Zarathustra.”]
+  Entonces bate sus alas y alza la voz, diciendo: «¡Levántense, hombres! [y también mujeres, adultos, niños, etc.... Pónganse bien el cinturón y la camisa, lávense las manos, ciñan el cinturón, vayan a alimentar al ganado y reciten en voz alta los cinco sagrados Gâthas de Spitama Zarathustra.»]
   «Aquí el perverso Bûshyãsta...» (véase el texto). La traducción pahlavi dice: «Nunca te preocupes por las tres cosas excelentes: buenos pensamientos, buenas palabras y buenas obras» (cf. Vend. XVIII, 25).

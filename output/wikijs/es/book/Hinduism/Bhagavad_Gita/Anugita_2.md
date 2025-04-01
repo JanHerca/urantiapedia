@@ -44,7 +44,7 @@ El Brâhma<i>n</i>a dijo:
 
 Así se dirigió, ¡oh descendiente de Vrishni!, ese Siddha respondió a estas preguntas en orden. Escúchame relatar lo que dijo.
 
-<span id="p236">[<sup><small>pág. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 El Siddha dijo:
 
@@ -80,7 +80,7 @@ Español Cuando esas acciones, productivas de larga vida y fama [^1070], que un 
 
 [^1072]: 235:2 Sic en MSS.
 
-[^1073]: 235:3 Cfr. en cuanto a deshacerse de la naturaleza, Gîtâ, págs. [75](Bhagavadgita_7#p75)\-[106](Bhagavadgita_13#p106). En cuanto al cuerpo producido por la naturaleza, cf. ibídem. [pag. 112](Bhagavadgita_15#p112), y págs. [317](Anugita_20#p317)\-[318](Anugita_21#p318) infra.
+[^1073]: 235:3 Cfr. en cuanto a deshacerse de la naturaleza, Gîtâ, págs. [75](../Bhagavadgita_7#p75)\-[106](../Bhagavadgita_13#p106). En cuanto al cuerpo producido por la naturaleza, cf. ibídem. [pag. 112](../Bhagavadgita_15#p112), y págs. [317](../Anugita_20#p317)\-[318](../Anugita_21#p318) infra.
 
 [^1074]: 235:4 Es decir, el Brahman, dice Nîlaka<i>nth</i>a.
 
@@ -90,7 +90,7 @@ Español Cuando esas acciones, productivas de larga vida y fama [^1070], que un 
 
 [^1077]: 236:3 Ar<i>g</i>una Mi<i>s</i>ra traduce el original, sattva, por svabhâva.
 
-[^1078]: 236:4 Cf. para todo esto, Gîtâ, págs. [62](Bhagavadgita_4#p62), [69](Bhagavadgita_6#p69), [118](Bhagavadgita_17#p118), pasajes que, sin embargo, se presentan desde una perspectiva ligeramente diferente. Véase también Khândogya, pág. 526.
+[^1078]: 236:4 Cf. para todo esto, Gîtâ, págs. [62](../Bhagavadgita_4#p62), [69](../Bhagavadgita_6#p69), [118](../Bhagavadgita_17#p118), pasajes que, sin embargo, se presentan desde una perspectiva ligeramente diferente. Véase también Khândogya, pág. 526.
 
 [^1079]: 236:5 Una interpretación diversa excluye la carne. Pero cf. Âpastamba I, 1, 2, 23; Gautama II, 13.
 
@@ -126,7 +126,7 @@ Español Cuando esas acciones, productivas de larga vida y fama [^1070], que un 
 
 [^1095]: 238:7 Los sentidos. Cf. <i>S</i>vetâ<i>s</i>vatara, pág. 288.
 
-[^1096]: 238:8 Véase y cf. [p. 262](Anugita_6#p262) infra.
+[^1096]: 238:8 Véase y cf. [p. 262](../Anugita_6#p262) infra.
 
 [^1097]: 238:9 Esto, dice Ar<i>g</i>una Mi<i>s</i>ra, responde a la posible pregunta de por qué este «viento cortante» no actúa con los vientos vitales. La respuesta es que tal acción requiere la presencia del alma, que Ar<i>g</i>una Mi<i>s</i>ra dice que aquí significa «mente». En cuanto a la producción a partir del alimento, cf. <i>Kh</i>ândogya, pág. 421 y ss., y Taittirîya Âra<i>n</i>yaka, pág. 893.
 
@@ -142,19 +142,19 @@ Español Cuando esas acciones, productivas de larga vida y fama [^1070], que un 
 
 [^1103]: 239:5 Cfr. B<i>ri</i>hadâra<i>ri</i>aka, pág. 843.
 
-[^1104]: 239:6 Véase Aitareya-upanishad, pág. 222, y el comentario de Sankara allí. El nacimiento es la salida del útero al mundo. Cf. también Gîtâ, [pág. 112](Bhagavadgita_15#p112).
+[^1104]: 239:6 Véase Aitareya-upanishad, pág. 222, y el comentario de Sankara allí. El nacimiento es la salida del útero al mundo. Cf. también Gîtâ, [pág. 112](../Bhagavadgita_15#p112).
 
 [^1105]: 239:7 Como se afirma más adelante, a saber, este mundo, el otro mundo y la matriz. Con esto compárese <i>Kh</i>ândogya, pág. 359.
 
 [^1106]: 239:8 Cf. nuestro Bhart<i>ri</i>hari (serie Bombay), Notas (Nîti<i>s</i>ataka), pág. 27.
 
-[^1107]: 240:1 Cf. sobre este lugar y los inferiores, 'Gîtâ, [p. 109](Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
+[^1107]: 240:1 Cf. sobre este lugar y los inferiores, 'Gîtâ, [p. 109](../Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
 
 [^1108]: 240:2 Las lecturas aquí son muy insatisfactorias. El significado de la lectura impresa adoptada anteriormente parecería ser «decisión sobre qué acciones deben realizarse», etc.
 
-[^1109]: 240:3 Cfr. Gîtâ, [p. 81](Bhagavadgita_8#p81), y Sanatsu<i>g</i>âtîya, [p. 158](Sanatsugatiya_2#p158).
+[^1109]: 240:3 Cfr. Gîtâ, [p. 81](../Bhagavadgita_8#p81), y Sanatsu<i>g</i>âtîya, [p. 158](../Sanatsugatiya_2#p158).
 
-[^1110]: 240:4 Cfr. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^1110]: 240:4 Cfr. Gîtâ, [p. 84](../Bhagavadgita_9#p84).
 
 [^1111]: 240:5 Ar<i>g</i>una Mi<i>s</i>ra dice: 'En el cielo = en el próximo mundo, bajo = inferior(?), alto = el cielo, y medio = el espacio bajo los cielos (antariksha).' Para los tres grados de disfrute en el cielo, véase Yogavâsish<i>th</i>a I, 35 seq.
 

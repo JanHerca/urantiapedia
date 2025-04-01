@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>pág. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## XIII. TRATADO DE ERUBIN, O, LA COMBINACIÓN DE LUGARES Y DE LÍMITES.
 

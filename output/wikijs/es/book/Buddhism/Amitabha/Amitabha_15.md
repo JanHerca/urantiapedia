@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p115">[<sup><small>pág. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Charaka recuperó poco a poco, y con cierta dificultad, el equilibrio mental que su amigo Kanishka parecía poseer con naturalidad. Se desahogó con el santo anciano y llegó a la convicción de que no estaba hecho para ser monje y que, según su disposición, sus deberes en la vida residían en otros ámbitos.
 
@@ -40,7 +40,7 @@ Mientras tanto, el rey Kanishka había enviado un mensajero a Matura, su cancill
 
 La princesa Kamalavatî llegó, y cuando se anunció su compromiso con Charaka, los felices acontecimientos de nuestra historia alcanzaron su clímax. Açvaghosha solemnizó las nupcias de ambas parejas, Kanishka con Bhadraçrî y Charaka con Kamalavatî; y les leyó del Dhammapada la famosa estrofa:
 
-<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 “Dulce en el mundo es la paternidad,
  Y la maternidad es dulce;
@@ -60,14 +60,14 @@ Cuando sus amigos lo elogiaron, respondió: «Mi ciencia es solo un comienzo y l
 
 Pero más grande que las mayores proezas de la invención será la aplicación de la máxima del Señor Buda de la bondad amorosa en todos los ámbitos de las relaciones humanas: en la vida familiar, en la política, en el trabajo y en los asuntos sociales, en nuestro trato con amigos y enemigos, con los animales, e incluso con los degenerados y criminales. La iluminación de nuestras almas es lo más importante. Por lo tanto, alabamos al Tathagata por encima de todo.
 
-<span id="p118">[<sup><small>pág. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 “Brilla intensamente el sol en su esplendor durante el día.
  Y el resplandor de la luna brilla por la noche,
  Brilla intensamente el héroe en formación de batalla,
  Y el sabio en su pensamiento brilla intensamente.
  Pero de día y de noche, ninguno tan glorioso y brillante.
- “Como el Señor Buda, la fuente de toda luz espiritual”.
+ «Como el Señor Buda, la fuente de toda luz espiritual».
 
 <figure class="table chapter-navigator">
   <table>

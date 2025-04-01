@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:57:49Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>pág. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 SEGUNDA CONFERENCIA [^727], LLAMADA LA DESTRUCCIÓN DEL KARMAN.
 
@@ -44,7 +44,7 @@ CAPÍTULO PRIMERO.
 
 Mira, jóvenes y viejos, incluso niños en el vientre de su madre mueren. Como un halcón atrapa una codorniz, así (la vida) terminará cuando su tiempo se agote [^728]. (2)
 
-<span id="p250">[<sup><small>pág. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Un hombre puede sufrir por sus padres; no alcanzará fácilmente la felicidad después de esta vida. Un hombre piadoso debe considerar estas causas de peligro y dejar de actuar. (3)
 
@@ -62,7 +62,7 @@ Mira, aquellos (herejes) que buscan el conocimiento de la verdad, pero que no cr
 
 El que anda desnudo y flaco, el que come sólo una vez al mes, si está lleno de engaño, nacerá un número infinito de veces. (9)
 
-<span id="p251">[<sup><small>pág. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 ¡Hombre, cesa de pecar! Porque la vida de los hombres llegará a su fin [^731]. Los hombres ahogados (en la lujuria, por así decirlo) y adictos al placer, por falta de control, serán engañados [^732]. (10)
 
@@ -82,7 +82,7 @@ Por mucho que hagan para conmover su compasión, por mucho que lloren por su hij
 
 Aunque le tienten con placeres, y aunque le aten y le lleven a casa, si no le importa la vida (mundana), no le cautivarán ni le harán volver a la vida doméstica. (18)
 
-Su padre y su madre, sus hijos y su esposa que lo reclaman, le amonestarán: “Mira, tú eres nuestro sostén; no te preocupes por el otro mundo para sustentarnos”. (19)
+Su padre y su madre, sus hijos y su esposa que lo reclaman, le amonestarán: «Mira, tú eres nuestro sostén; no te preocupes por el otro mundo para sustentarnos». (19)
 
 Algunas personas se apegan (tontamente) a otras, y por ello se dejan engañar; los injustos les hacen adoptar la injusticia, y ellos se regocijan en su maldad. (20)
 

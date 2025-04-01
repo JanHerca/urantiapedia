@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T22:38:39Z
   </table>
 </figure>
 
-<span id="p22">[<sup><small>pág. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Había un sacerdote en Benarés, un hombre de casta brahmán, versado en toda la sabiduría de los Vedas; no era un sacerdote común, sino un honesto buscador de la verdad. Anhelaba la paz interior y ansiaba alcanzar el Nirvana; sin embargo, no podía comprender cómo era posible en la carne alcanzar la tranquilidad perfecta, pues la vida es inquieta y en ninguno de los cuatro estados de agregación se puede encontrar la calma que es la condición del estado de dicha. Así pues, este sacerdote pensó: «Antes de poder progresar, debo resolver la cuestión: ¿dónde cesan por completo los cuatro estados de agregación: el estado sólido, el estado acuoso, el estado ígneo y el estado de aire?».
 
@@ -40,7 +40,7 @@ Tras preparar su mente, el sacerdote entró en un trance en el que se le reveló
 
 Cuando los cuatro grandes reyes hubieron hablado así, el sacerdote visitó a los dioses de los cielos superiores y se acercó a su gobernante, Ishvara. Les formuló la misma pregunta y recibió la misma respuesta. Ishvara, el Señor, le aconsejó que fuera a Yâma. «Él es poderoso y está a cargo de las almas de los muertos. Es versado en problemas profundos, recónditos, abstrusos y ocultos. Ve a Yâma; él quizá sepa dónde cesan por completo los cuatro estados de agregación».
 
-<span id="p24">[<sup><small>pág. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 El sacerdote siguió el consejo de Ishvara y fue a ver a Yâma, pero el resultado fue el mismo. Yâma envió al sacerdote a los dioses satisfechos, cuyo gobernante principal es el Gran Satisfecho. «Son los dioses que se complacen con todo lo que existe. Son los dioses de la serenidad y la satisfacción. Si alguien puede responder a tu pregunta, podrá decirte dónde cesan por completo los cuatro estados de agregación».
 
@@ -60,7 +60,7 @@ Por segunda vez, el sacerdote hizo su pregunta, y el gran Brahma le dio la misma
 
 Habiendo escuchado pacientemente a Brahma, el sacerdote repitió su pregunta por tercera vez, y añadió: 'No te pregunto, amigo mío, ¿eres Brahma, el gran Brahma, el Ser Supremo, la Perfección Total, el Perceptor Total, el Padre Total, y cualesquiera títulos y logros que puedas tener además; pero esto, amigo mío, es lo que te pregunto: '¿Dónde cesan por completo los cuatro estados de agregación, el estado sólido, el estado acuoso, el estado ígneo y el estado de aire?'
 
-“El gran Brahma permaneció impasible y respondió por tercera vez, diciendo: “Yo, oh sacerdote, soy Brahma, el gran Brahma, el Ser Supremo, la Total Perfección, el Omniperceptor”, enumerando nuevamente todos los títulos que se le aplicaban.
+«El gran Brahma permaneció impasible y respondió por tercera vez, diciendo: “Yo, oh sacerdote, soy Brahma, el gran Brahma, el Ser Supremo, la Total Perfección, el Omniperceptor», enumerando nuevamente todos los títulos que se le aplicaban.
 
 “Entonces el sacerdote se levantó y dijo: '¿Eres realmente un ser vivo o un autómata que no puede hacer nada más que repetir una serie de palabras?'
 
@@ -88,7 +88,7 @@ Tras estas palabras, el Bendito respondió: «Hace mucho tiempo, oh sacerdote, u
  Desaparecen todo lo mío y lo tuyo,
  Bueno, malo, largo, corto, grueso y fino.
  Allí también cesarán el nombre y la forma,
- “Encontrar en la nada la liberación.”
+ «Encontrar en la nada la liberación.»
 
 Entonces el sacerdote comprendió que el mundo material es inquieto y permanece inquieto, pero la paz del corazón es una condición mental que debe adquirirse mediante la autodisciplina, la sabiduría y la devoción. Los dioses no pueden ayudar; ni siquiera el propio Brahma, el Gran Brahma, el Ser Supremo, el Señor y Creador. El sacrificio es inútil, y la oración y la adoración de nada sirven. Pero si deseamos alcanzar el estado supremo de dicha, que es el Nirvana, debemos seguir <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> al Bendito, el Maestro de dioses y hombres; y como él, debemos, con nuestro propio esfuerzo, convertirnos en lámparas para nosotros mismos y caminar con determinación por el noble óctuple sendero.
 

@@ -1,6 +1,6 @@
 ---
 title: "Sirozah I"
-description: "El Zend Avesta, Parte II: “Los Sîrôzahs, Yasts y Nyâyis” (SBE 23)"
+description: "El Zend Avesta, Parte II: «Los Sîrôzahs, Yasts y Nyâyis» (SBE 23)"
 published: true
 date: 2025-2-12T13:0:36Z
 tags: Zoroastrianism, book
@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:36Z
 
 A Ahura Mazda, brillante y gloriosa [^5], y a los Amesha-Spe<i>ñ</i>tas [^6].
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## 2\. Bahman.
 
@@ -46,7 +46,7 @@ A Vohu-Manô [^7]; a la Paz [^8], cuyo aliento es amigable [^9], y que es más p
 
 A Asha-Vahi<i>s</i>ta, la más bella [^12]; al muy deseado Airyaman, hecho por Mazda [^13]; al instrumento hecho por Mazda [^14]; y al buen Saoka [^15], con ojos de amor [^16], hecho por Mazda y santo.
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ## 4\. Shahrevar.
 
@@ -66,7 +66,7 @@ A Ameretâ<i>t</i> [^21], el señor; a la gordura y a los rebaños; a la abundan
 
 (En el gâh Rapithwin): a Asha-Vahi<i>s</i>ta y a Âtar [^26], el hijo de Ahura Mazda [^27]
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 (En el gâh Uzîren): a Apãm Napâ<i>t</i> [^28], el señor alto, y al agua hecha por Mazda [^29].
 
@@ -78,7 +78,7 @@ A Ameretâ<i>t</i> [^21], el señor; a la gordura y a los rebaños; a la abundan
 
 Al Creador Ahura Mazda, brillante y glorioso, y a los Amesha-Spe<i>n</i>tas.
 
-<span id="p7">[<sup><small>pág. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## 9\. Âdar.
 
@@ -86,7 +86,7 @@ A Âtar, el hijo de Ahura Mazda; a la Gloria y al Bienestar, hechos por Mazda; a
 
 A Âtar, hijo de Ahura Mazda; al rey Husravah [^41]; al lago de Husravah [^42]; al monte Âsnava<i>n</i><i>t</i> [^43], hecho por Mazda; al lago <i>K</i>aê<i>k</i>asta [^44], hecho por Mazda; a la Gloria de los Kavis, hecho por Mazda [^45].
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 A Âtar, el hijo de Ahura Mazda; al Monte Raêva<i>n</i><i>t</i> [^46], hecho por Mazda; a la Gloria de los Kavis, hecho por Mazda [^47].
 
@@ -106,7 +106,7 @@ Al Sol inmortal, brillante y de veloz caballo [^52].
 
 A la Luna que guarda en sí la semilla del Toro [^53]; al Toro único creado [^54]; al Toro de muchas especies [^55].
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 ## 13\. Tiro.
 
@@ -156,7 +156,7 @@ Al Creador, Ahura Mazda, brillante y glorioso; a los Amesha-Spe<i>n</i>tas.
 
 A la muy justa <i>K</i>ista [^72], hecha por Mazda y santa; a la buena Ley [^72] de los adoradores de Mazda.
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 ## 25\. Ard.
 

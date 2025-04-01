@@ -32,17 +32,17 @@ dateCreated: 2025-2-5T22:38:45Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>pág. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 ## EL GRAN REY DE LA GLORIA. MAHÂ-SUDASSANA-SUTTA. CAPÍTULO II.
 
 1\. 'Entonces, Ânanda, le ocurrió este pensamiento al Gran Rey de la Gloria:
 
-““¿De qué carácter previo, ahora, puede ser éste el fruto, de qué carácter previo el resultado, para que ahora yo sea tan poderoso y tan grande?”
+«“¿De qué carácter previo, ahora, puede ser éste el fruto, de qué carácter previo el resultado, para que ahora yo sea tan poderoso y tan grande?»
 
 2\. 'Y entonces, Ânanda, al Gran Rey de la Gloria se le ocurrió este pensamiento:
 
-“De tres cualidades es éste el fruto, de tres cualidades el resultado, que ahora soy tan poderoso y tan grande, es decir, de entrega, de autoconquista y de autocontrol[^1].”
+«De tres cualidades es éste el fruto, de tres cualidades el resultado, que ahora soy tan poderoso y tan grande, es decir, de entrega, de autoconquista y de autocontrol[^1].»
 
 ---
 
@@ -58,13 +58,13 @@ dateCreated: 2025-2-5T22:38:45Z
 
 "Hasta ahora sólo, oh pensamientos de mala voluntad,
 
-“¡Hasta aquí solamente, oh pensamientos de odio!”
+«¡Hasta aquí solamente, oh pensamientos de odio!»
 
 4\. 'Y cuando Ânanda, el Gran Rey de la Gloria, entró en la cámara del Gran Complejo, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> y se sentó en el lecho de oro, habiendo desechado toda pasión y toda injusticia, entró y permaneció en el Primer <i>Gh</i>âna, un estado de alegría y tranquilidad, nacido del aislamiento, lleno de reflexión, lleno de investigación.
 
 5\. 'Al suprimir la reflexión y la investigación, entró y permaneció en el Segundo <i>Gh</i>âna, un estado de alegría y tranquilidad, nacido de la serenidad, sin reflexión, sin investigación, un estado de elevación de la mente, de calma interna.
 
-6\. 'Por la ausencia del anhelo de alegría, permaneció indiferente, consciente, dueño de sí mismo, experimentando en su cuerpo esa tranquilidad que los nobles anuncian, diciendo: “El hombre indiferente y dueño de sí mismo está bien a gusto”, y así entró y permaneció en el Tercer <i>Gh</i>âna.
+6\. 'Por la ausencia del anhelo de alegría, permaneció indiferente, consciente, dueño de sí mismo, experimentando en su cuerpo esa tranquilidad que los nobles anuncian, diciendo: «El hombre indiferente y dueño de sí mismo está bien a gusto», y así entró y permaneció en el Tercer <i>Gh</i>âna.
 
 7\. 'Al dejar atrás la comodidad, al dejar atrás el dolor, al morir tanto la alegría como la tristeza, entró y permaneció en el Cuarto <i>Gh</i>âna, un estado de autodominio purificado y ecuanimidad, sin comodidad y sin dolor[^2].
 
@@ -78,7 +78,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 11\. 'Y dejó que su mente impregnara una cuarta parte del mundo con pensamientos de Ecuanimidad[^3]; y así la segunda, y así la tercera, y así la cuarta. Y así, continuó impregnando el mundo entero, arriba, abajo, alrededor y en todas partes, con un corazón de Ecuanimidad, de gran alcance, engrandecido e inconmensurablemente, libre del más mínimo rastro de ira o mala voluntad.
 
-<span id="p274">[<sup><small>pág. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 12\. 'El Gran Rey de la Gloria, Ânanda, tenía ochenta y cuatro mil ciudades, la principal de las cuales era la ciudad real de Kusâvatî:
 
@@ -88,17 +88,17 @@ dateCreated: 2025-2-5T22:38:45Z
 
 'Ochenta y cuatro mil divanes de oro, plata, marfil y madera de sándalo, cubiertos con alfombras de pelo largo, telas bordadas con flores y magníficas pieles de antílope; cubiertos con altos doseles y provistos en ambos extremos de cojines de color púrpura:
 
-'Ochenta y cuatro mil elefantes estatales, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales el rey de los elefantes, llamado “los Cambios de la Luna”, era el jefe:
+'Ochenta y cuatro mil elefantes estatales, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales el rey de los elefantes, llamado «los Cambios de la Luna», era el jefe:
 
-'Ochenta y cuatro mil caballos de estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales “Nube de Trueno”, el rey de los caballos, era el jefe:
+'Ochenta y cuatro mil caballos de estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales «Nube de Trueno», el rey de los caballos, era el jefe:
 
-'Ochenta y cuatro mil carros, cubiertos de pieles de leones, tigres y panteras, de los cuales el carro llamado “la Bandera de la Victoria” era el principal:
+'Ochenta y cuatro mil carros, cubiertos de pieles de leones, tigres y panteras, de los cuales el carro llamado «la Bandera de la Victoria» era el principal:
 
 'Cuatro ochenta mil gemas, de las cuales la Gema Maravillosa era la principal:
 
 'Ochenta y cuatro mil esposas, de las cuales la Reina de la Gloria era la principal:
 
-<span id="p275">[<sup><small>pág. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 'Cuatro ochenta mil soldados, de los cuales el Mayordomo Admirable era el jefe:
 
@@ -130,21 +130,21 @@ dateCreated: 2025-2-5T22:38:45Z
 
 17\. 'Ahora bien, Ânanda, después del transcurso de muchos años, de muchos cientos de años, de muchos miles de años, a la Reina de la Gloria[^5] se le ocurrió este pensamiento:
 
-“Hace mucho que no contemplo al Gran Rey de la Gloria. Supongamos, ahora, que fuera a visitarlo.”
+«Hace mucho que no contemplo al Gran Rey de la Gloria. Supongamos, ahora, que fuera a visitarlo.»
 
 18\. 'Entonces, Ânanda, la Reina de la Gloria, dijo a las mujeres del harén:
 
-“Levántense, arreglen sus cabellos y vístanse con ropa limpia. Hace mucho que no contemplamos al Gran Rey de la Gloria. ¡Vamos a visitarlo!”
+«Levántense, arreglen sus cabellos y vístanse con ropa limpia. Hace mucho que no contemplamos al Gran Rey de la Gloria. ¡Vamos a visitarlo!»
 
-19\. “¡Así sea, Señora!”, dijeron las mujeres del harén, Ânanda, en señal de asentimiento a la Reina de la Gloria. Se peinaron, se vistieron con ropas limpias y se acercaron a la Reina de la Gloria.
+19\. «¡Así sea, Señora!», dijeron las mujeres del harén, Ânanda, en señal de asentimiento a la Reina de la Gloria. Se peinaron, se vistieron con ropas limpias y se acercaron a la Reina de la Gloria.
 
 20\. 'Entonces, Ânanda, la Reina de la Gloria, le dijo al Gran Consejero:
 
 «¡Oh, Gran Consejero! Forma el cuádruple ejército. Hace mucho que no veo al Gran Rey de la Gloria. Voy a visitarlo».
 
-<span id="p277">[<sup><small>pág. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
-21\. “¡Así sea, oh Reina!”, dijo el Gran Consejero, Ânanda, en señal de asentimiento a la Reina de la Gloria. Y dispuso el cuádruple ejército, e hizo que se anunciara el hecho a la Reina de la Gloria con estas palabras:
+21\. «¡Así sea, oh Reina!», dijo el Gran Consejero, Ânanda, en señal de asentimiento a la Reina de la Gloria. Y dispuso el cuádruple ejército, e hizo que se anunciara el hecho a la Reina de la Gloria con estas palabras:
 
 «El cuádruple ejército, oh Reina, está dispuesto para ti. Haz ahora lo que te parezca oportuno».
 
@@ -156,13 +156,13 @@ dateCreated: 2025-2-5T22:38:45Z
 
 24\. Y al salir de la cámara del Gran Complejo, vio a la Reina de la Gloria de pie, apoyada contra el lateral de la puerta. Y al verla, le dijo a la Reina de la Gloria:
 
-“¡Detente ahí, oh Reina! ¡No entres!”
+«¡Detente ahí, oh Reina! ¡No entres!»
 
 ---
 
 25\. 'Entonces el Gran Rey de la Gloria, Ânanda, le dijo a uno de sus asistentes:
 
-“¡Levántate, buen hombre! Saca el lecho dorado de la cámara del Gran Complejo y prepáralo bajo ese palmeral que es todo de oro.”
+«¡Levántate, buen hombre! Saca el lecho dorado de la cámara del Gran Complejo y prepáralo bajo ese palmeral que es todo de oro.»
 
 26\. «¡Así sea, Señor!», dijo el hombre, asintiendo, al Gran Rey de la Gloria. Y sacó el lecho dorado de la cámara del Gran Complejo y lo preparó bajo aquel palmeral, todo de oro. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
@@ -210,7 +210,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 «Por mucho tiempo me has hablado, oh Reina, con palabras agradables, muy deseables y dulces. Sin embargo, ahora, en esta última ocasión, me hablas con palabras desagradables, desagradables, indeseables».
 
-31\. “¿Cómo entonces, oh Rey, debo dirigirme a ti?”
+31\. «¿Cómo entonces, oh Rey, debo dirigirme a ti?»
 
 «Así, oh Reina, deberías dirigirte a mí: —La naturaleza de todas las cosas cercanas y queridas para nosotros, oh Rey, es tal que debemos abandonarlas, separarnos de ellas, separarnos de ellas[^7]. No mueras, oh Rey, con anhelo en tu corazón. Triste es la muerte de quien anhela, indigna es la muerte de quien anhela[^8]. Tuyas, oh Rey, son estas <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> nuestras y ochenta mil ciudades, la principal de las cuales es la ciudad real de Kusâvatî. ¡Abandona el deseo por ellas! ¡No anheles la vida!
 
@@ -226,7 +226,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 «Tuyos, oh Rey, son estos ochenta y cuatro mil carros, cubiertos de pieles de leones, tigres y panteras, de los cuales el carro llamado 'la Bandera de la Victoria' es el principal. ¡Deja de desearlos! ¡No anheles la vida!
 
-<span id="p282">[<sup><small>pág. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 «Tuyas son, oh Rey, estas ochenta y cuatro mil gemas, de las cuales la Gema Maravillosa es la principal. ¡Deja de desearlas! ¡No anheles la vida!
 
@@ -296,11 +296,11 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 'Míos eran los ochenta y cuatro mil divanes, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> de oro, plata, marfil y madera de sándalo, cubiertos con alfombras de pelo largo, telas bordadas con flores y magníficas pieles de antílope; cubiertos con altos doseles y provistos en ambos extremos de cojines de color púrpura.
 
-'Míos eran los ochenta y cuatro mil elefantes del estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales el rey de los elefantes, llamado “el Cambio de la Luna”, era el jefe.
+'Míos eran los ochenta y cuatro mil elefantes del estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales el rey de los elefantes, llamado «el Cambio de la Luna», era el jefe.
 
-'Míos eran los ochenta y cuatro mil caballos del estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales “Nube de Trueno”, el rey de los caballos, era el jefe.
+'Míos eran los ochenta y cuatro mil caballos del estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales «Nube de Trueno», el rey de los caballos, era el jefe.
 
-'Míos eran los ochenta y cuatro mil carros cubiertos de pieles de leones, de tigres y de panteras, de los cuales el carro llamado “la Bandera de la Victoria” era el principal.
+'Míos eran los ochenta y cuatro mil carros cubiertos de pieles de leones, de tigres y de panteras, de los cuales el carro llamado «la Bandera de la Victoria» era el principal.
 
 'Mías eran las ochenta y cuatro mil gemas, de las cuales la Gema Maravillosa era la principal.
 
@@ -318,7 +318,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 ---
 
-<span id="p287">[<sup><small>pág. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 38\. 'De esas ochenta y cuatro mil ciudades, Ânanda, una era aquella en la que yo vivía en aquel tiempo, a saber, la ciudad real de Kusâvatî.
 
@@ -328,17 +328,17 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 De esos cuatro ochenta mil divanes también, Ânanda, uno era el diván que yo solía ocupar en aquel tiempo, a saber, uno de oro, o uno de plata, o uno de marfil, o uno de madera de sándalo.
 
-'De esos cuatro ochenta mil elefantes estatales también, Ânanda, uno era el elefante que yo solía montar en ese momento, es decir, el rey de los elefantes, “el Cambio de la Luna”.
+'De esos cuatro ochenta mil elefantes estatales también, Ânanda, uno era el elefante que yo solía montar en ese momento, es decir, el rey de los elefantes, «el Cambio de la Luna».
 
-'De esos cuatro ochenta mil caballos también, Ânanda, uno era el caballo que yo solía montar en aquel tiempo, es decir, el rey de los caballos, “la Nube de Trueno”.
+'De esos cuatro ochenta mil caballos también, Ânanda, uno era el caballo que yo solía montar en aquel tiempo, es decir, el rey de los caballos, «la Nube de Trueno».
 
-'De esos cuatro ochenta mil carros también, Ânanda, uno era el carro en el que yo solía viajar en aquel tiempo, es decir, el carro llamado “la Bandera de la Victoria”.
+'De esos cuatro ochenta mil carros también, Ânanda, uno era el carro en el que yo solía viajar en aquel tiempo, es decir, el carro llamado «la Bandera de la Victoria».
 
 'De esas ochenta y cuatro mil esposas también, Ânanda, una era la esposa que, en ese momento, solía atenderme, es decir, una dama de noble cuna o una Velâmikânî.
 
 'De esas ochenta y cuatro mil miríadas de trajes también, Ânanda, uno era el traje que yo vestía en ese momento, es decir, uno de textura delicada, de lino, o algodón, o seda, o lana.
 
-<span id="p288">[<sup><small>pág. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 'De esos cuatro ochenta mil platos también, Ânanda, uno era aquel plato del cual, en ese momento, comí una medida de arroz y el curry adecuado para ello.
 
@@ -352,7 +352,7 @@ De esos cuatro ochenta mil divanes también, Ânanda, uno era el diván que yo s
 
 41\. 'Pero no veo ningún lugar, Ânanda, en el mundo de los hombres y los dioses, ni en el mundo de Mâra, ni en el mundo de Brahma, no, ni entre la raza de los Sama<i>n</i>as o los Brâhmanes, de los dioses o de los hombres, donde el Tathâgata por octava vez deje de lado su cuerpo[^10].'
 
-<span id="p289">[<sup><small>pág. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 42\. Así habló el Bendito; y cuando el Feliz hubo hablado así, el Maestro volvió a decir:
 
@@ -365,7 +365,7 @@ Se producen, se disuelven de nuevo:
 
 Fin del Mahâ-Sudassana Sutta.
 
-<span id="p293">[<sup><small>pág. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -232,15 +232,15 @@ dateCreated: 2025-1-15T22:56:28Z
 
 ## Notas al pie
 
-[^394]: 190:1 Es decir, el ladrillo 'invencible', siendo el primer ladrillo que se hace, y que es hecho por la propia esposa principal del sacrificador (mahishî). Véase VI, 5, 3, seq.—Sâya<i>n</i>a comentarios,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat; Puraiva lokâpavarga kala (? kâle o kâlât) sri shtâm satîm. Aunque en el relato cosmogónico, [VI, 1, 1, 13](Book_3_6_1#v6_1_1_13) ss., se dice que la tierra consta de nueve elementos diferentes, el ladrillo «invencible» se identifica comúnmente con la tierra. Véase [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1). Para las composiciones (óctuples) de la arcilla utilizada para el brasero y los ladrillos, véase [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1) ss.
+[^394]: 190:1 Es decir, el ladrillo 'invencible', siendo el primer ladrillo que se hace, y que es hecho por la propia esposa principal del sacrificador (mahishî). Véase VI, 5, 3, seq.—Sâya<i>n</i>a comentarios,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat; Puraiva lokâpavarga kala (? kâle o kâlât) sri shtâm satîm. Aunque en el relato cosmogónico, [VI, 1, 1, 13](../Book_3_6_1#v6_1_1_13) ss., se dice que la tierra consta de nueve elementos diferentes, el ladrillo «invencible» se identifica comúnmente con la tierra. Véase [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1). Para las composiciones (óctuples) de la arcilla utilizada para el brasero y los ladrillos, véase [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1) ss.
 
 [^395]: 191:1 Es decir, la cuchara de ofrenda se llena con ocho inmersiones con la cuchara de inmersión.
 
 [^396]: 191:2 Es decir, por medio de sus elementos constituyentes; —p<i>ri</i>thivîm ûrdhvâ<i>m</i> rûpair m<i>ri</i>dâdibhir udgamayati, Sây.
 
-[^397]: 192:1 Véase [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^397]: 192:1 Véase [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^398]: 192:2 [VI, 1, 1, 10](Book_3_6_1#v6_1_1_10).—La construcción del texto es un tanto peculiar,—lo que el autor quiere decir parece ser,—la triple ciencia (el Veda) con la que Pra<i>g</i>âpati entró en las aguas es la misma que las oraciones que ahora se ofrecen.
+[^398]: 192:2 [VI, 1, 1, 10](../Book_3_6_1#v6_1_1_10).—La construcción del texto es un tanto peculiar,—lo que el autor quiere decir parece ser,—la triple ciencia (el Veda) con la que Pra<i>g</i>âpati entró en las aguas es la misma que las oraciones que ahora se ofrecen.
 
 [^399]: 194:1 Véase III, 5, 3, 12, donde se explica que 'b<i>ri</i>hat vipa<i>s</i><i>k</i>it' (en la misma fórmula) se refiere al sacrificio.
 
@@ -262,7 +262,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^408]: 198:3 Esta cláusula final con 'vai' proporciona la razón por la cual Agni entró en el útero, a saber, porque de lo contrario no podría nacer; así como la cláusula precedente con 'vai' (el útero no daña al niño) proporciona la razón por la cual se utiliza la hierba de caña; mientras que las cláusulas precedentes explican cómo la caña llega a ser el útero de donde surgió Agni.
 
-[^409]: 199:1 Véase [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^409]: 199:1 Véase [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^410]: 199:2 Dakshi<i>n</i>ato vai v<i>ri</i>shâ yoshâm upa<i>s</i>ete;—compárese: uttarato hi strî pumâ<i>m</i>sam upa<i>s</i>ete, I, 1, 1, 20; II, 5, 2, 17.
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^412]: 200:2 Si el samādhi-samātra no es el resultado del samādhi-samātratā, el samādhi-samātratā será el resultado del samādhi-samātratā. . . Yukata, digamos.
 
-[^413]: 200:3 Según Sâya<i>n</i>a se indica la punta de la lengua (como [VII, 2, 3, 3](Book_3_7_2#v7_2_3_3); [2, 4, 14](Book_3_7_2#v7_2_4_14), 'vâ<i>k</i>' significa 'boca'); pero quizás se refiere aquí a un lenguaje más bien áspero y vituperante dirigido a otra persona.
+[^413]: 200:3 Según Sâya<i>n</i>a se indica la punta de la lengua (como [VII, 2, 3, 3](../Book_3_7_2#v7_2_3_3); [2, 4, 14](../Book_3_7_2#v7_2_4_14), 'vâ<i>k</i>' significa 'boca'); pero quizás se refiere aquí a un lenguaje más bien áspero y vituperante dirigido a otra persona.
 
 [^414]: 200:4 Sâya<i>n</i>a identifica el habla divina con el Sa<i>m</i>sk<i>ri</i>t, y el habla humana con los Apabhra<i>m</i><i>s</i>as, o dialectos bajos (? mânusha<i>m</i> <i>k</i>âpâtro<i>s</i>am, MS.).
 
@@ -294,7 +294,7 @@ dateCreated: 2025-1-15T22:56:28Z
 
 [^424]: 208:3 Es decir, le levanta la cabeza (?); 'la despierta, la sacude', San Pedro. Dic.—Sâya<i>n</i>a, por otro lado, de acuerdo con Kâty. XVI, 2, 18, interpreta 'unm<i>ri</i><i>s</i>ati' como 'sostiene su mano sobre su lomo', —p<i>ri</i>sh<i>th</i>asyopari pâ<i>n</i>i<i>m</i> dhârayati.
 
-[^425]: 209:1 Para la construcción, véase el [párrafo 6](Book_3_6_3#v6_3_3_6), [p. 205](Book_3_6_3#p205), nota \*[1](Book_3_6_3#fn419)\*.
+[^425]: 209:1 Para la construcción, véase el [párrafo 6](../Book_3_6_3#v6_3_3_6), [p. 205](../Book_3_6_3#p205), nota \*[1](../Book_3_6_3#fn419)\*.
 
 [^426]: 209:2 Literalmente, bajarse a.
 

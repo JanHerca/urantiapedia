@@ -63,7 +63,7 @@ Esta página tiene una selección de los escritos de Martín Lutero.
 - Sermones
 	- [Sermones — Enemigos de la Cruz de Cristo](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_1)
 	- [Sermones — Cristo Nuestro Gran Sumo Sacerdote](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_2)
-	- [Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3)
+	- [Sermones — El doble uso de la ley y el evangelio: «letra» y «espíritu»](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3)
 	- [Sermones — Del oficio de predicar](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_4)
 	- [Sermones — La parábola del sembrador](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_5)
 	- [Sermones — Los santos sufrimientos de Cristo](/es/book/Christianity/Writings_of_Martin_Luther/Sermons_6)

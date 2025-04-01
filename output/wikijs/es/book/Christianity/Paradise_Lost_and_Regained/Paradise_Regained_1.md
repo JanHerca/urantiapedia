@@ -119,7 +119,7 @@ Fuera del agua, el cielo sobre las nubes.
 Abre sus puertas de cristal; de ahí en adelante sobre su cabeza
 Un descenso perfecto de paloma (lo que sea que signifique);
 Y desde el Cielo oí la voz soberana,
-“Éste es mi Hijo amado; en él tengo complacencia.”
+«Éste es mi Hijo amado; en él tengo complacencia.»
 Su madre, entonces, es mortal, pero su Padre
 El que obtenga la monarquía del Cielo;
 ¿Y qué no hará para adelantar a su Hijo?
@@ -139,7 +139,7 @@ La triste expedición para descubrirlo
 Y arruinar a Adán, y la hazaña realizada
 Con éxito: un viaje más tranquilo ahora
 Me llevará; y el camino se encontrará próspero una vez
-“Induce mejor la esperanza de un éxito similar”.
+«Induce mejor la esperanza de un éxito similar».
 
 Terminó, y sus palabras dejaron huella.
 Para gran asombro de la tripulación infernal,
@@ -379,10 +379,10 @@ A la ciudad o al pueblo cerca (lo más cerca está lejos),
 ¿Dónde oímos algo y tenemos curiosidad por oírlo?
 Lo nuevo sucede; la fama también nos descubre”.
 
-A quien el Hijo de Dios:—“¿Quién me trajo aquí?”
+A quien el Hijo de Dios:—«¿Quién me trajo aquí?»
 Me traerá aquí; no busco otro guía”.
 
-“Por milagro puede ser”, respondió el pretendiente;
+«Por milagro puede ser», respondió el pretendiente;
 "No veo otra manera, porque estamos aquí
 Vive de raíces y troncos duros, para resistir la sed.
 Más que el camello, y para beber ir lejos—
@@ -512,7 +512,7 @@ Dios ahora ha enviado su Oráculo viviente.
 Al mundo para enseñar su voluntad final,
 Y envía su Espíritu de Verdad a morar de ahora en adelante.
 En los corazones piadosos, un oráculo interior
-“A toda verdad que los hombres deben conocer.”
+«A toda verdad que los hombres deben conocer.»
 
 Así habló nuestro Salvador; pero el sutil Demonio,
 Aunque interiormente estaba herido por la ira y el desdén,

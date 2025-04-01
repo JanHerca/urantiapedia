@@ -32,11 +32,11 @@ dateCreated: 2025-2-7T10:40:56Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>pág. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 **M**.I. 1. ¿A qué hora se empieza a recitar [^5] el Shemá [^6] al anochecer? [^7] A la hora en que los sacerdotes entran (al recinto del Templo) para comer su porción [^8] y pueden recitarla hasta el final de la primera vigilia. [^9] Esta es la opinión de R. Eliezer. [^10] Pero la mayoría [^11] dice: hasta la medianoche.
 
-<span id="p2">[<sup><small>pág. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 **M**.Rabban Gamaliel [^12] dice: hasta que ascienda el primer signo gris del alba. [^13]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 Así pues, el deber de quemar los trozos de grasa y las extremidades de los sacrificios, y comer los corderos pascuales, [^16] dura hasta la primera señal del alba, y así, el deber de consumir todo lo que se come en un día dura hasta la primera señal del alba. Si es así, ¿por qué la Mayoría dijo [del Shemá] hasta la medianoche? Únicamente para alejar a los hombres de la transgresión.
 
-<span id="p3">[<sup><small>pág. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 **T**.
 
@@ -58,7 +58,7 @@ El Rabino [^20] dice: Hay cuatro vigilias [^21] en la noche. Una _'Onah_ es la v
 
 R. Nathan [^22] dice: Hay tres vigilias en la noche, pues está dicho: «_al principio de la vigilia intermedia_,» [^23] y cada «intermedia» tiene una después de ella y una antes.
 
-<span id="p4">[<sup><small>pág. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <a id="m4"></a>
 
@@ -70,11 +70,11 @@ R. Joshua [^26] dice: Hasta el fin de la hora tercia, [^27] pues tal es la costu
 
 **T**. I. 2. ¿A qué hora se empieza a recitar el Shemá por la mañana? Otros [^31] dicen: Cuando hay suficiente luz para reconocer al compañero [^32] a una distancia de cuatro codos. Su recitación legal es al amanecer, para que se pueda unir la Gueullah [^33] a la Tefilah [^34] y así rezar la Tefilah durante el día.
 
-<span id="p5">[<sup><small>pág. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 **T**.
 
-R. Judah [1](Berakoth_1_1#fn_35) dijo: Una vez caminaba detrás de R. _T_. Aqiba [2](Berakoth_1_1#fn_36) y de R. Eleazar ben Azariah [3](Berakoth_1_1#fn_37) y llegó la hora de recitar el Shemá. Supuse que lo descuidarían por estar ocupados con los requerimientos de la congregación. Recité y dije mi porción de la Mishná, y después de esto, comenzaron, y el sol ya se veía sobre las cimas de las montañas.
+R. Judah [1](../Berakoth_1_1#fn_35) dijo: Una vez caminaba detrás de R. _T_. Aqiba [2](../Berakoth_1_1#fn_36) y de R. Eleazar ben Azariah [3](../Berakoth_1_1#fn_37) y llegó la hora de recitar el Shemá. Supuse que lo descuidarían por estar ocupados con los requerimientos de la congregación. Recité y dije mi porción de la Mishná, y después de esto, comenzaron, y el sol ya se veía sobre las cimas de las montañas.
 
 <a id="m5"></a>
 
@@ -82,13 +82,13 @@ R. Judah [1](Berakoth_1_1#fn_35) dijo: Una vez caminaba detrás de R. _T_. Aqiba
 
 **M**.I. 5 (3): La Escuela de Shammai [^38] dice: Por la noche todos deben girarse de lado, [^39] y así recitar, y por la mañana ponerse de pie, porque está dicho: «_y cuando te acuestes, y cuando te levantes_.» [^40] Pero la Escuela de Hillel dice: Cada uno recita según su propia manera, porque está dicho: "_y cuando_
 
-<span id="p6">[<sup><small>pág. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 **M**._va por el camino_.« [^41] Si es así, ¿por qué se dice: “y cuando te acuestas y cuando te levantas?» Esto se refiere al tiempo en que los hombres tienen el hábito (lit. modo) de acostarse, y al tiempo en que tienen el hábito de estar de pie.
 
 6\. (3 _cont_.). R. Tarfón [^42] dijo: Estaba de viaje y me puse de lado para recitar según la escuela de Shammai, y me puse en peligro por culpa de unos ladrones. Le dijeron: «Mereciste ser culpable de tu propia vida por haber transgredido las palabras de la escuela de Hillel».
 
-**T**. I. 4. Se cuenta un incidente de R. Ismael [^43] y R. Eleazar ben Azarías: estaban descansando en un lugar, y R. Ismael se había acostado de lado y R. Eleazar ben Azarías estaba erguido. Cuando llegó la hora de recitar el Shemá, R. Ismael estaba erguido y R. Eleazar ben Azarías estaba de lado. R. Ismael le preguntó: «¿Qué es esto, Eleazar?». Él le respondió: «Hermano Ismael, le preguntaron a un hombre: «¿Por qué una barba tan fina?». Él respondió: «Para los barberos». [^44] Así que <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> yo, que estaba erguido, me acomodé, y tú, que estabas de lado, te incorporaste. Él [es decir, R. Ismael] le dijo: Tú te pusiste de lado para cumplir [la Ley] según la opinión de la Escuela de Shammai, y yo me puse de pie para cumplirla según la opinión de la Escuela de Hillel. [1](Berakoth_1_1#fn_45) Según otro relato, para que los discípulos no vieran [lo que hacemos], y establecieran una regla fija según tu opinión.
+**T**. I. 4. Se cuenta un incidente de R. Ismael [^43] y R. Eleazar ben Azarías: estaban descansando en un lugar, y R. Ismael se había acostado de lado y R. Eleazar ben Azarías estaba erguido. Cuando llegó la hora de recitar el Shemá, R. Ismael estaba erguido y R. Eleazar ben Azarías estaba de lado. R. Ismael le preguntó: «¿Qué es esto, Eleazar?». Él le respondió: «Hermano Ismael, le preguntaron a un hombre: «¿Por qué una barba tan fina?». Él respondió: «Para los barberos». [^44] Así que <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> yo, que estaba erguido, me acomodé, y tú, que estabas de lado, te incorporaste. Él [es decir, R. Ismael] le dijo: Tú te pusiste de lado para cumplir [la Ley] según la opinión de la Escuela de Shammai, y yo me puse de pie para cumplirla según la opinión de la Escuela de Hillel. [1](../Berakoth_1_1#fn_45) Según otro relato, para que los discípulos no vieran [lo que hacemos], y establecieran una regla fija según tu opinión.
 
 <a id="m7"></a>
 
@@ -98,7 +98,7 @@ R. Judah [1](Berakoth_1_1#fn_35) dijo: Una vez caminaba detrás de R. _T_. Aqiba
 
 En un lugar donde se pide usar la forma larga no está permitido usar la corta, y donde
 
-<span id="p8">[<sup><small>pág. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 **M**. Se usa la forma corta, no se permite usar la larga. Donde se les ha ordenado a los hombres que sellen [^52], no se permite no sellar, y donde no se sella, no se permite sellar.
 
@@ -110,7 +110,7 @@ Las siguientes son las bendiciones que se dicen en forma larga: la bendición en
 
 7\. Las siguientes son las bendiciones que uno
 
-<span id="p9">[<sup><small>pág. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 **T**.
 
@@ -120,7 +120,7 @@ No se sella con «Bendito» cuando se pronuncia una bendición sobre frutas y de
 
 9\. Las siguientes son las bendiciones en las que uno se inclina hacia adelante: la primera bendición, [^60] al principio y al final; y en la _Modim_, [^61] al principio y al final. Y a quien se inclina hacia adelante en cada bendición, se le debe advertir que no debe hacerlo. No respondemos junto con quien pronuncia la bendición. [^62] \[Pero\] R. Judah solía responder junto con quien pronunciaba la bendición: «Santo, santo, santo es el SEÑOR de los ejércitos, toda la tierra está llena de su gloria_», y «Bendita sea la gloria del SEÑOR desde su lugar_». [^63] Todas estas palabras R. Judah solía decir junto con quien pronunciaba la bendición.
 
-<span id="p10">[<sup><small>pág. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -130,7 +130,7 @@ No se sella con «Bendito» cuando se pronuncia una bendición sobre frutas y de
 
 **T**. I. 10. Mencionamos la Salida de Egipto por las noches. R. Eleazar ben Azarías dijo: «Mira, yo tenía unos setenta años, y no tenía el mérito de oír que la Salida de Egipto se recitara por las noches hasta que Ben Zoma lo explicó, diciendo: «Para que recuerdes el día de tu salida de la tierra de Egipto todos los días de tu vida»». [^70]
 
-<span id="p11">[<sup><small>pág. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 **T**.
 
@@ -138,7 +138,7 @@ No se sella con «Bendito» cuando se pronuncia una bendición sobre frutas y de
 
 11\. De igual manera, leemos: «No os acordéis de las cosas pasadas, ni consideréis las cosas antiguas». [^75] «No os acordéis de las cosas pasadas»: este es el yugo de los reinos paganos. «Ni consideréis las cosas antiguas»: este es el yugo de Egipto. «He aquí, haré algo nuevo; ahora saldrá a la luz; ¿no lo conoceréis?» [^76]: este es el
 
-<span id="p12">[<sup><small>pág. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 **T**.
 
@@ -150,7 +150,7 @@ Guerra con Gog. [^77] Podemos hablar en parábolas y preguntar: ¿A qué se comp
 
 14\. Aunque después llamó a Abraham Abram, [^84] esto no fue en reproche sino en alabanza;
 
-<span id="p13">[<sup><small>pág. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 **T**.
 
@@ -158,7 +158,7 @@ Guerra con Gog. [^77] Podemos hablar en parábolas y preguntar: ¿A qué se comp
 
 15\. Semejante a esto es: «En Salem también está su tabernáculo, y su morada en Sión». [^86] Sin embargo, ¿con qué propósito le devuelve la Escritura (a Jerusalén) su antiguo nombre? [^87] He aquí, dice: «Porque esta ciudad ha sido para mí motivo de mi ira y de mi furia». [^88] ¿Acaso ahora mismo se la menciona con ira y furia? Se nos dice expresamente: «El monte que Dios ha deseado para su morada». [^89] He aquí, se la menciona con deseo y anhelo. Él nos enseñaría que su desolación la ha expiado. [^90] ¿De dónde aprendemos que la Shekinah no regresa al centro de su [Jerusalén] hasta que se convierte en un «monte»? Se nos dice expresamente: «En Salem también está su tabernáculo, y su morada en Sión», y encontramos que cuando se llamaba Salem, se le llamaba «montaña». Esto significa que la Shekinah no regresa a su centro hasta que se convierte en «montaña». Porque se dice: «Y Abraham»
 
-<span id="p14">[<sup><small>pág. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 **T**.
 
@@ -219,13 +219,13 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^16]: 2:5 _Y el comer de los corderos pascuales_, omitido en B.
 
-[^17]: 3:1 _R. Meir_. Ver [pág. 25](Berakoth_1_3#p25).
+[^17]: 3:1 _R. Meir_. Ver [pág. 25](../Berakoth_1_3#p25).
 
 [^18]: 3:2 Nehemías 421 (15).
 
 [^19]: 3:3 R. Simeón ben Eleazar, c. 160-200.
 
-[^20]: 3:4 _Rabino_. R. Judah el Príncipe, hijo de R. Simeón ben Gamaliel II, nació el día de la muerte de R. Aqiba —pues «sale el sol, se pone el sol»—, es decir, el año 135 d. C., en Usha, Galilea. Vivió y enseñó allí y en sus alrededores. Es el compilador reconocido de nuestra Mishná actual (véase Introducción, [p. ix](Introducción_1#pix)). Se desconoce la fecha de su muerte; algunos críticos la sitúan en el año 193 d. C., otros casi en el año 220 d. C.
+[^20]: 3:4 _Rabino_. R. Judah el Príncipe, hijo de R. Simeón ben Gamaliel II, nació el día de la muerte de R. Aqiba —pues «sale el sol, se pone el sol»—, es decir, el año 135 d. C., en Usha, Galilea. Vivió y enseñó allí y en sus alrededores. Es el compilador reconocido de nuestra Mishná actual (véase Introducción, [p. ix](../Introducción_1#pix)). Se desconoce la fecha de su muerte; algunos críticos la sitúan en el año 193 d. C., otros casi en el año 220 d. C.
 
 [^21]: 3:5 _cuatro vigilias_. Aceptó el sistema romano y, al parecer, la división del día en veinticuatro horas.
 
@@ -239,7 +239,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^26]: 4:3 _R. Josué_. RJ ben Jananías, c. 90-130 d.C.
 
-[^27]: 4:4 _la hora tercera_. c. 9 am Véase nota, [p. 28](Berakoth_1_3#p28).
+[^27]: 4:4 _la hora tercera_. c. 9 am Véase nota, [p. 28](../Berakoth_1_3#p28).
 
 [^28]: 4:5 _hijos de reyes_. _es decir_ personas que no están obligadas a levantarse temprano.
 
@@ -271,7 +271,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^42]: 6:2 _R. Tarfón_. Había asistido al servicio del Templo en su juventud, pero floreció en el primer cuarto del siglo II d. C. A veces se le identifica con el Trifón del _Diálogo_ de Justino, pero, dejando de lado la cuestión de la fecha (pues Trifón no da la impresión de ser un anciano en absoluto), de forma bastante absurda, pues este último muestra muy poco conocimiento de la casuística judía.
 
-[^43]: 6:3 _R. Ismael ben Eliseo_ fue contemporáneo de R. Aqiba y discípulo de R. Nechuniah ben ha-Qanah (véase [p. 30](Berakoth_2_4#p30)). Vivió en la frontera de Edom, y sus principios hermenéuticos diferían de los de R. Aqiba, pues enseñaba que las palabras de las Escrituras debían interpretarse según el uso general del lenguaje humano. Su influencia se aprecia especialmente en el _Mekilta_ (el midrash sobre el Éxodo) y en el _Siphre_ (sobre Números y Deuteronomio).
+[^43]: 6:3 _R. Ismael ben Eliseo_ fue contemporáneo de R. Aqiba y discípulo de R. Nechuniah ben ha-Qanah (véase [p. 30](../Berakoth_2_4#p30)). Vivió en la frontera de Edom, y sus principios hermenéuticos diferían de los de R. Aqiba, pues enseñaba que las palabras de las Escrituras debían interpretarse según el uso general del lenguaje humano. Su influencia se aprecia especialmente en el _Mekilta_ (el midrash sobre el Éxodo) y en el _Siphre_ (sobre Números y Deuteronomio).
 
 [^44]: 6:4 _barberos_. La narración también se encuentra en el _Siphre_ sobre Deuteronomio 67 (ed. Friedmann, pág. 74b), y en el _Yalqut_ sobre el mismo pasaje, pág. 7 (§ 842). El significado de las palabras de Eleazar parece ser: Tus elogios a mi barba significan que es apta para los barberos y debe ser cortada. Yo, al acostarme, demostré mi acuerdo contigo, pero luego te pusiste de pie para demostrar que no aceptabas mi aprobación. Es un caso en el que el elogio produce lo contrario.
 
@@ -279,7 +279,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^46]: 7:2 El primero es _Yotser' Ôr_, con adiciones (Staerk, pp. 4 _sq_., SA, 37-39), el segundo, _'Ahabah rabbah_ (Staerk, p. 6; SA, pp. 39 _sq_.)
 
-[^47]: 7:3 Esto comienza con _'Emeth wyatzîb_, e incluye la _Ge'ullah_, vide supra [p. 4](Berakoth_1_1#p4).
+[^47]: 7:3 Esto comienza con _'Emeth wyatzîb_, e incluye la _Ge'ullah_, vide supra [p. 4](../Berakoth_1_1#p4).
 
 [^48]: 7:4 La cláusula en \[\[ \]\], que se encuentra en C, es claramente un error.
 
@@ -287,7 +287,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^50]: 7:6 El primero comienza con _'Emeth we-'emunah_, e incluye la _Ge'ullah_ (Staerk; p. 8; SA, pp. 98. _sq_.); el segundo comienza con _Hashkibenu_, y es una oración para pedir protección durante la noche (Staerk, p. 9; SA, pp. 99. _sq_.).
 
-[^51]: 7:7 _una en la forma larga y otra en la breve_. El significado no está claro, pues hoy en día las dos oraciones tienen una extensión similar. Quizás antiguamente la primera en cada caso era la más larga. O quizás se permitió usar un resumen (véase la nota [p. 30](Berakoth_2_4#p30)) en una u otra de las dos oraciones.
+[^51]: 7:7 _una en la forma larga y otra en la breve_. El significado no está claro, pues hoy en día las dos oraciones tienen una extensión similar. Quizás antiguamente la primera en cada caso era la más larga. O quizás se permitió usar un resumen (véase la nota [p. 30](../Berakoth_2_4#p30)) en una u otra de las dos oraciones.
 
 [^52]: 8:1 _sello_. _es decir_ con un resumen de la Bendición que sigue, comenzando con «Bendito».
 
@@ -297,11 +297,11 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^55]: 8:4 _no se permite sellar_. Hasta aquí, la sección es una cita de nuestra Mishná, pero la siguiente oración no está allí.
 
-[^56]: 8:5 _doblar_. Compárese lo que se dice de Aqiba en _T_. III. 5 ([p. 88](Berakoth_3_9#p88)).
+[^56]: 8:5 _doblar_. Compárese lo que se dice de Aqiba en _T_. III. 5 ([p. 88](../Berakoth_3_9#p88)).
 
-[^57]: 8:6 _la invitación_. Véase _M_. vii. 1. (_infra_, [p. 59](Berakoth_3_6#p59)).
+[^57]: 8:6 _la invitación_. Véase _M_. vii. 1. (_infra_, [p. 59](../Berakoth_3_6#p59)).
 
-[^58]: 9:1 _R. José el Galileo_. Perteneciente al grupo más joven de la segunda generación de maestros de la Mishná (c. 110-130), debe distinguirse cuidadosamente de R. José (ben Chalaphta). Fue el padre de R. Eleazar bar José ([p. 29](Berakoth_2_4#p29)).
+[^58]: 9:1 _R. José el Galileo_. Perteneciente al grupo más joven de la segunda generación de maestros de la Mishná (c. 110-130), debe distinguirse cuidadosamente de R. José (ben Chalaphta). Fue el padre de R. Eleazar bar José ([p. 29](../Berakoth_2_4#p29)).
 
 [^59]: 9:2 _excepto la Bendición que está unida a la recitación del Shma'_, _es decir_ _'Emeth wyatzib_ por la mañana (SA, p. 42), y _'Emeth we-'emunah_ por la tarde (SA, p. 98).
 
@@ -309,11 +309,11 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^61]: 9:4 _los Modim_. El 17 o 18 del _Dieciocho_ (SA, p. 51).
 
-[^62]: 9:5 _no respondemos juntos_, etc. Véase _T_. III. 26, V. 21 (_infra_, [p. 73](Berakoth_3_8#p73)).
+[^62]: 9:5 _no respondemos juntos_, etc. Véase _T_. III. 26, V. 21 (_infra_, [p. 73](../Berakoth_3_8#p73)).
 
 [^63]: 9:6 Isaías 63; Ezequiel 312, ambos en la tercera Bendición.
 
-[^64]: 10:1 _la salida de Egipto_, mencionada brevemente en la tercera parte bíblica del Shma' (Núm. 1541) y ampliada en la _Ge'ullah_ (_supra_, [p. 4](Berakoth_1_1#p4)).
+[^64]: 10:1 _la salida de Egipto_, mencionada brevemente en la tercera parte bíblica del Shma' (Núm. 1541) y ampliada en la _Ge'ullah_ (_supra_, [p. 4](../Berakoth_1_1#p4)).
 
 [^65]: 10:2 _R. Lázaro_. Así C. Una abreviatura de Eleazar. Cf. Lázaro.
 
@@ -321,7 +321,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^67]: 10:4 Deuteronomio 163.
 
-[^68]: 10:5 Porque «todo» no puede ser superfluo. Debe añadir algo a la idea de «los días de tu vida». Ben Zoma coincidió con R. Aqiba en cuanto al valor de cada letra (véase [p. 5](Berakoth_1_1#p5)).
+[^68]: 10:5 Porque «todo» no puede ser superfluo. Debe añadir algo a la idea de «los días de tu vida». Ben Zoma coincidió con R. Aqiba en cuanto al valor de cada letra (véase [p. 5](../Berakoth_1_1#p5)).
 
 [^69]: 10:6 Véase _T_. sobre toda esta mishna.
 
@@ -331,7 +331,7 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^72]: 11:2 Jer. 237, 8.
 
-[^73]: 11:3 La metáfora es la de una comida (ver [p. 47](Berakoth_3_6#p47)). Observe el sentido común de la Mayoría.
+[^73]: 11:3 La metáfora es la de una comida (ver [p. 47](../Berakoth_3_6#p47)). Observe el sentido común de la Mayoría.
 
 [^74]: 11:4 Génesis 3510.
 
@@ -365,13 +365,13 @@ II. 1. Quien recita el Shemá [^93] debe mencionar la «Salida de Egipto» en «
 
 [^89]: 13:5 Sal. 6818.
 
-[^90]: 13:6 _una expiación por ella_. La idea de que las aflicciones expían puede estar presente incluso en Isaías 402 y, en cualquier caso, es sumamente común en libros judíos posteriores. Así, especialmente en lo que respecta a la muerte, véase _infra_, [p. 84](Berakoth_3_9#p84).
+[^90]: 13:6 _una expiación por ella_. La idea de que las aflicciones expían puede estar presente incluso en Isaías 402 y, en cualquier caso, es sumamente común en libros judíos posteriores. Así, especialmente en lo que respecta a la muerte, véase _infra_, [p. 84](../Berakoth_3_9#p84).
 
 [^91]: 14:1 Gén. 2214. Pero la Tosephta juega con las consonantes, haciendo caso omiso de la interpretación tradicional.
 
 [^92]: 14:2 Sal. 1377. Los edomitas convirtieron a Jerusalén una vez más en una mera montaña, y así, sin darse cuenta, aseguraron su bendición adicional.
 
-[^93]: 14:3 El autor está hablando de la recitación de la mañana, _cf_. [p. 4](Berakoth_1_1#p4).
+[^93]: 14:3 El autor está hablando de la recitación de la mañana, _cf_. [p. 4](../Berakoth_1_1#p4).
 
 [^94]: 14:4 La sección que recuerda el Éxodo (Núm. 1537-41) es seguida por la oración «Verdadero y seguro» (_'Emeth wyatzib_). SA, pág. 42.
 
