@@ -78,32 +78,35 @@ In this case, all tasks are performed through this website. It is necessary to l
 
 For more information on the phases of the project, see [Phases of Urantiapedia](/en/help/phases).
 
-### Phase I: The Urantia Book, the Bible, and the Index of Terms
+### Phase I: The Urantia Book and the Bible
 
 Once we have the initial input in the correct folders, following the steps in the manual indicated above, for each language, during Phase I, the steps to take are:
 1. Translation of the *Paramony* from English to the target language. See [Paramony Translation](/en/help/github_paramony).
-2. Translation and revision of the *Index of Terms* from English to the target language. See [Translation and revision of the Index of Terms](/en/help/github_topicindex).
-3. Obtaining a translation of The Bible in the target language. See [Getting the Bible](/en/help/github_bible).
-4. Converting *The Urantia Book* from HTML to JSON without footnotes. See [Conversion to JSON](/en/help/github_book_json).
-5. Adding footnotes to *The Urantia Book* in JSON. See [Adding Footnotes](/help/github_footnotes).
-6. Converting *Term Index* from TXT to Wiki.js. See [Term Index Convert](/help/github_topicindex_to_wiki).
-7. Converting *The Urantia Book* from JSON with footnotes to Wiki.js including references to the terms. See [Urantia Book Convert](/help/github_book_to_wiki).
-8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. See [The Bible Convert](/help/github_bible_to_wiki).
-9. Uploading changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). See [Bulk Upload Content to Urantiapedia](/en/help/github_upload).
+2. Obtaining a translation of The Bible in the target language. See [Getting the Bible](/en/help/github_bible).
+3. Converting *The Urantia Book* from HTML to JSON without footnotes. See [Conversion to JSON](/en/help/github_book_json).
+4. Adding footnotes to *The Urantia Book* in JSON. See [Adding Footnotes](/help/github_footnotes).
+5. Converting *The Urantia Book* from JSON with footnotes to Wiki.js including references to the terms. See [Urantia Book Convert](/help/github_book_to_wiki).
+6. Converting *The Bible* from LaTeX to Wiki.js with footnotes. See [The Bible Convert](/help/github_bible_to_wiki).
+7. Uploading changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). See [Bulk Upload Content to Urantiapedia](/en/help/github_upload).
 
-Currently all tasks except task 2 have been completed for 25 languages.
+### Phase II: Newspaper Library, Book Library and Encyclopedia
 
-### Phase II: Books, Articles, Study Aids, Diagrams, and Indexes
+1. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
+2. Obtain the articles. See [Get Articles](/en/help/github_articles_markdown).
+3. Create a catalog of study aids.
+4. Get previous study aids. See [Get Study Aids]( /en/help/github_studyaids_markdown).
+5. Creating a catalog of books on all religions. See [Source Books Catalog](/en/help/github_religious_books_catalog).
+6. Obtain the above books. See [Get Source Books](/en/help/github_religious_books_markdown).
+7. Creating a catalog of books supposedly used by revelators. See [Creating catalog](/en/help/github_sourcebooks_catalog)
+8. Getting books supposedly used by revelators. See [Getting books](/en/help/github_sourcebooks_markdown)
+9. Translation and revision of the *Encyclopedia* from English to the target language. See [Translation and revision of the Encyclopedia](/en/help/github_topicindex).
+10. Converting *Encyclopedia* from TXT to Wiki.js. See [Encyclopedia Convert](/help/github_topicindex_to_wiki).
 
-1. Create a catalog of books that are considered sources for *The Urantia Book* or contain interesting parallels. See [Source Books Catalog](/en/help/github_sourcebooks_catalog).
-2. Obtain the above books. See [Get Source Books](/en/help/github_sourcebooks_markdown).
-3. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
-4. Obtain the articles. See [Get Articles](/en/help/github_articles_markdown).
-5. Create a catalog of study aids.
-6. Get previous study aids. See [Get Study Aids]( /en/help/github_studyaids_markdown).
-7. Create a diagram catalog. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
-8. Get previous diagrams in HTML imagemap format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).
-9. Create the project's image catalog. See [Image Catalog](/en/help/github_images_catalog).
+### Phase IV: Map Library and Media Library
+
+1. Create a diagram catalog. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
+2. Get previous diagrams in HTML imagemap format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).
+3. Create the project's image catalog. See [Image Catalog](/en/help/github_images_catalog).
 
 ![](/image/help/formats.png)
 

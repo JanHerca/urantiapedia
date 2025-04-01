@@ -78,32 +78,36 @@ En este caso todas las tareas se realizan a través de esta web. Es necesario in
 
 Sobre las fases del proyecto consulta [Fases de la Urantiapedia](/es/help/phases).
 
-### Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
+### Fase I: El Libro de Urantia y la Biblia
 
 Una vez tenemos el _input_ inicial en las carpetas correctas, siguiendo los pasos del manual indicado antes, para cada idioma, durante la fase I, los pasos a dar son:
 1. Traducción del *Paramony* del inglés al idioma de destino. Consulta [Traducción del Paramony](/es/help/github_paramony).
-2. Traducción y revisión del *Índice de términos* del inglés al idioma de destino. Consulta [Traducción y revisión del Índice de términos](/es/help/github_topicindex).
-3. Obtención de una traducción de La Biblia en el idioma de destino. Consulta [Obtener la Biblia](/es/help/github_bible).
-4. Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie. Consulta [Conversión a JSON](/es/help/github_book_json).
-5. Adición de notas al pie a *El Libro de Urantia* en JSON. Consulta [Adición de notas al pie](/es/help/github_footnotes).
-6. Conversión del *Índice de términos* de TXT a Wiki.js. Consulta [Conversión del Índice de Términos](/es/help/github_topicindex_to_wiki).
-7. Conversión de *El Libro de Urantia* de JSON con notas al pie a Wiki.js incluyendo referencias a los términos. Consulta [Conversión de El Libro de Urantia](/es/help/github_book_to_wiki).
-8. Conversión de *La Biblia* de LaTeX a Wiki.js con notas al pie. Consulta [Conversión de La Biblia](/es/help/github_bible_to_wiki).
-9. Subir cambios a [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Consulta [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
+2. Obtención de una traducción de La Biblia en el idioma de destino. Consulta [Obtener la Biblia](/es/help/github_bible).
+3. Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie. Consulta [Conversión a JSON](/es/help/github_book_json).
+4. Adición de notas al pie a *El Libro de Urantia* en JSON. Consulta [Adición de notas al pie](/es/help/github_footnotes).
+5. Conversión de *El Libro de Urantia* de JSON con notas al pie a Wiki.js incluyendo referencias a los términos. Consulta [Conversión de El Libro de Urantia](/es/help/github_book_to_wiki).
+6. Conversión de *La Biblia* de LaTeX a Wiki.js con notas al pie. Consulta [Conversión de La Biblia](/es/help/github_bible_to_wiki).
+7. Subir cambios a [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Consulta [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
-Actualmente todas las tareas excepto la 2 han sido completadas para 25 idiomas.
+### Fase II: Hemeroteca, Biblioteca y Enciclopedia
 
-### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
+1. Crear un catálogo de artículos escritos por lectores. Consulta [Catálogo de artículos](/es/help/github_articles_catalog).
+2. Obtener los artículos. Consulta [Obtener artículos](/es/help/github_articles_markdown).
+3. Crear un catálogo de ayudas de estudio. Consulta [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
+4. Obtener las ayudas de estudio anteriores. Consulta [Obtener ayudas de estudio](/es/help/github_studyaids_markdown).
+5. Creación de un catálogo de libros de todas las religiones. Ver [Catálogo de libros](/es/help/github_sourcebooks_catalog)
+6. Obtener libros de todas las religiones. Ver [Obtener libros](/es/help/github_sourcebooks_markdown)
+7. Crear un catálogo de libros que se consideran fuentes de *El Libro de Urantia* o contienen paralelos interesantes. Consulta [Catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
+8. Obtener los libros anteriores. Consulta [Obtener libros «fuente»](/es/help/github_sourcebooks_markdown).
+9. Traducción y revisión de la *Enciclopedia* del inglés al idioma de destino. Consulta [Traducción y revisión de la Enciclopedia](/es/help/github_topicindex).
+10. Conversión de la *Enciclopedia* de TXT a Wiki.js. Consulta [Conversión de la Enciclopedia](/es/help/github_topicindex_to_wiki).
 
-1. Crear un catálogo de libros que se consideran fuentes de *El Libro de Urantia* o contienen paralelos interesantes. Consulta [Catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
-2. Obtener los libros anteriores. Consulta [Obtener libros «fuente»](/es/help/github_sourcebooks_markdown).
-3. Crear un catálogo de artículos escritos por lectores. Consulta [Catálogo de artículos](/es/help/github_articles_catalog).
-4. Obtener los artículos. Consulta [Obtener artículos](/es/help/github_articles_markdown).
-5. Crear un catálogo de ayudas de estudio. Consulta [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
-6. Obtener las ayudas de estudio anteriores. Consulta [Obtener ayudas de estudio](/es/help/github_studyaids_markdown).
-7. Crear un catálogo de diagramas. Consulta [Catálogo de diagramas](/es/help/github_diagrams_catalog).
-8. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_svg).
-9. Crear el catálogo de imágenes del proyecto. Consulta [Catálogo de imágenes](/es/help/github_images_catalog).
+
+### Fase IV: Cartoteca y Mediateca
+
+1. Crear un catálogo de diagramas. Consulta [Catálogo de diagramas](/es/help/github_diagrams_catalog).
+2. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_svg).
+3. Crear el catálogo de imágenes del proyecto. Consulta [Catálogo de imágenes](/es/help/github_images_catalog).
 
 ![](/image/help/formats.png)
 
