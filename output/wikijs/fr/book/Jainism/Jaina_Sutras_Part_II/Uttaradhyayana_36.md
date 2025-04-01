@@ -576,7 +576,7 @@ Le Gñâtri(putra) éclairé et libéré a ainsi délivré trente-six conférenc
 
 [^591]: 209:1 Le sens de ce verset est qu'une chose, en ce qui concerne sa cause matérielle, a toujours existé et existera toujours sous une forme ou une autre, mais que la chose individuelle dans sa forme actuelle n'a qu'une existence limitée.
 
-[^592] : 209 : 2 Asa<i>m</i>khakâlam. Voir ci-dessus, [p. 42](Uttaradhyayana_10#p42), note [2](Uttaradhyayana_10#fn142).
+[^592] : 209 : 2 Asa<i>m</i>khakâlam. Voir ci-dessus, [p. 42](../Uttaradhyayana_10#p42), note [2](../Uttaradhyayana_10#fn142).
 
 [^593]: 209:3 Antaram; l'intervalle entre le moment où la chose est retirée de sa scène propre et celui où elle y revient (Ava<i>k</i>ûri et Dîpikâ).
 
@@ -680,7 +680,7 @@ Le Gñâtri(putra) éclairé et libéré a ainsi délivré trente-six conférenc
 
 [^643]: 223:1 Sammûr<i>kh</i>ima. Ils grandissent en assimilant les matériaux de leur environnement. Selon une seconde explication, leur organe interne ne se développe pas complètement.
 
-[^644] : 223:2 Voir page [16](Uttaradhyayana_3#p16), note [1](Uttaradhyayana_3#fn88).
+[^644] : 223:2 Voir page [16](../Uttaradhyayana_3#p16), note [1](../Uttaradhyayana_3#fn88).
 
 [^645]: 223:3 C'est, selon l'Avakûri, la signification de puhuttam pirithaktvam.
 
@@ -724,7 +724,7 @@ Le Gñâtri(putra) éclairé et libéré a ainsi délivré trente-six conférenc
 
 [^665]: 230:1 Vigaî-ni<i>g</i><i>g</i>ûha<i>n</i>a. Le sens est qu'à la fin de ses jeûnes, un moine doit manger de l'â<i>k</i>âmla, du nirvik<i>ri</i>tika, etc. Dans l'Ava<i>k</i>ûri, un verset du Ni<i>s</i>îtha<i>k</i>ûrni est cité, qui donne la même règle pour les quatre années suivantes.
 
-[^667]: 230:2 Âyâma = â<i>k</i>âmla. Est-ce la même chose que l'âyâmaga = â<i>k</i>âmaka mentionné XV, 13 ? Voir ci-dessus, [p. 72](Uttaradhyayana_15#p72), note [2](Uttaradhyayana_15#fn192).
+[^667]: 230:2 Âyâma = â<i>k</i>âmla. Est-ce la même chose que l'âyâmaga = â<i>k</i>âmaka mentionné XV, 13 ? Voir ci-dessus, [p. 72](../Uttaradhyayana_15#p72), note [2](../Uttaradhyayana_15#fn192).
 
 [^668]: 230:3 Kô<i>d</i>îsahiyam âyamam = kô<i>t</i>isahitam â<i>k</i>âmlam. Les commentateurs donnent deux explications à cette expression : (1) Après avoir jeûné un jour, on doit prendre l'â<i>k</i>âmla le lendemain ; (2) on doit continuer à s'abstenir d'â<i>k</i>âmla le deuxième jour.
 

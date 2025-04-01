@@ -1032,7 +1032,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">“Aunt Naomi” (Gertrude Landa)</text>
+							<text style="font-size:5px" x="61" y="22">« Aunt Naomi » (Gertrude Landa)</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">Contes et</text>
 							<text style="font-size:9px" x="61" y="70">légendes juives</text>
@@ -1041,7 +1041,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Contes et légendes juives</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">“Aunt Naomi” (Gertrude Landa)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">« Aunt Naomi » (Gertrude Landa)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

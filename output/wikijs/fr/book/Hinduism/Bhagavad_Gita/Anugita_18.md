@@ -70,13 +70,13 @@ Le Brâhma<i>n</i>a dit :
 
 [^1465]: 306:2 C'est-à-dire le Veda, dit Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1466]: 306:3 C'est-à-dire dit Ar<i>g</i>una Mi<i>s</i>ra, qui conduit au siège d'où il n'y a pas de retour. Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1466]: 306:3 C'est-à-dire dit Ar<i>g</i>una Mi<i>s</i>ra, qui conduit au siège d'où il n'y a pas de retour. Cf. Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
 [^1467]: 306:4 La roue est le yoga, dit Ar<i>g</i>una Mi<i>s</i>ra. L'expression est remarquable, car elle désigne l'enseignement du Bouddha. Voir à ce sujet Davids' Buddhism, p. 45.
 
-[^1468]: 306:5 L'homme qui a atteint l'émancipation finale a obtenu ce qui inclut les bénéfices découlant de la vie d'un Brâhmane, etc. (voir [p. 191](Sanatsugatiya_6#p191) supra). Par conséquent, dit-il, le doute de la p. 307, sur lequel se fonde votre question quant au monde dans lequel vous irez en vous unissant à moi, est erroné. Voir [p. 256](Anugita_5#p256) supra.
+[^1468]: 306:5 L'homme qui a atteint l'émancipation finale a obtenu ce qui inclut les bénéfices découlant de la vie d'un Brâhmane, etc. (voir [p. 191](../Sanatsugatiya_6#p191) supra). Par conséquent, dit-il, le doute de la p. 307, sur lequel se fonde votre question quant au monde dans lequel vous irez en vous unissant à moi, est erroné. Voir [p. 256](../Anugita_5#p256) supra.
 
-[^1469]: 307:1 Il parle ici sur la base de l'identité essentielle de toute chose. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62).
+[^1469]: 307:1 Il parle ici sur la base de l'identité essentielle de toute chose. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62).
 
 [^1470]: 307:2 L'expression ici est maladroite ; le sens est qu'il préfère la connaissance à la souveraineté, si l'alternative lui est offerte.
 

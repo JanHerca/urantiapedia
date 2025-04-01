@@ -248,14 +248,14 @@ Ce qui est arrivé autrefois,
 Une histoire secrète qui, longtemps réprimée,
 Reste prisonnier seulement dans ma poitrine.
 Un jour, un jour que je n’oublierai jamais.
-Fair Punjikasthalá [1](Book_6_20#fn932) J'ai rencontré,
+Fair Punjikasthalá [1](../Book_6_20#fn932) J'ai rencontré,
 Quand, rayonnant comme une flamme de feu,
 Elle chercha le palais du Sire.
 Dans l'emprise avide de la passion, j'ai déchiré
 De ses doux membres les robes qu'elle portait,
 Et insouciant de ses prières et de ses cris
 Serré contre ma poitrine le prix vaincu.
-Comme Nalini [2](Book_6_20#fn933) avec un sol taché.
+Comme Nalini [2](../Book_6_20#fn933) avec un sol taché.
 Elle gagna le manoir du Sire,
 Et les pleurs ont fait connaître l'outrage
 À Brahma sur son trône céleste.
@@ -843,7 +843,7 @@ Que le fils de Raghu se présente sous une forme suppliante
 Suppliez la puissante mer de vous prêter
 Son secours et cette cause nous sont favorables.
 Ses canaux, comme l’ont dit les sages,
-Par les fils de Sagar ont été creusés autrefois, [1b](Book_6_20#fn942)
+Par les fils de Sagar ont été creusés autrefois, [1b](../Book_6_20#fn942)
 L'Océan, qui a de hautes pensées, ne méprisera pas non plus
 Un prince de la lignée de Sagar est né.
 Il cessa ; le conseil prudent gagna

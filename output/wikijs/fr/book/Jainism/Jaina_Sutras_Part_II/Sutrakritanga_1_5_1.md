@@ -140,6 +140,6 @@ Ainsi je dis.
 
 [^837]: 281:3 Ou bien, ils les rôtissent avec un feu brûlant.
 
-[^838] : 281 : 4 Voir Uttarâdhyayana XIX, 69 ff., ci-dessus [p. 96](Uttaradhyayana_19#p96).
+[^838] : 281 : 4 Voir Uttarâdhyayana XIX, 69 ff., ci-dessus [p. 96](../Uttaradhyayana_19#p96).
 
 [^839]: 282:1 Comparer la note sur le verset 12. Les mêmes lignes reviennent dans le chapitre suivant, verset 13. Le commentateur donne la même explication ici qu'ici.

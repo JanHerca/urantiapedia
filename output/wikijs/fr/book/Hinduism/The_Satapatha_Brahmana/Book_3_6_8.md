@@ -119,9 +119,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^546]: 289:2 Voir I, 1, 2, 5.
 
-[^547]: 289:3 Sâya<i>n</i>a fait référence à Vâ<i>g</i>. S. XII, 31, 'vers le haut, que les Tous-Dieux te portent...' ([paragraphe 9](Book_3_6_8#v6_8_1_9)) ci-dessous, comme un passage pertinent.
+[^547]: 289:3 Sâya<i>n</i>a fait référence à Vâ<i>g</i>. S. XII, 31, 'vers le haut, que les Tous-Dieux te portent...' ([paragraphe 9](../Book_3_6_8#v6_8_1_9)) ci-dessous, comme un passage pertinent.
 
-[^548]: 291:1 Voir ci-dessus, [VI, 7, 3, 2](Book_3_6_7#v6_7_3_2).
+[^548]: 291:1 Voir ci-dessus, [VI, 7, 3, 2](../Book_3_6_7#v6_7_3_2).
 
 [^549]: 292:1 Mahîdhara, conformément à Nigh. III, 18 (prêtre), explique « bharata » comme celui qui apporte des offrandes (blear) ; et, avec Sâya<i>n</i>a, identifie le Bharata avec le Sacrificateur.
 
@@ -129,10 +129,10 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^551]: 294:1 'Pra-sad' (= pra-âp, Mahîdhara) semble ici avoir réellement le sens de p. 295 'abhiprasad' ou 'anuprasad', car l'accusatif peut difficilement être pris avec 'âsada<i>h</i>.'
 
-[^552]: 295:1 Voir [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^552]: 295:1 Voir [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
-[^553]: 296:1 À savoir les quatre points cardinaux, les quatre points intermédiaires de la boussole et la région supérieure. À cela, le paragraphe [12](Book_3_6_8#v6_8_2_12) ajoute, comme dixième, la région inférieure.
+[^553]: 296:1 À savoir les quatre points cardinaux, les quatre points intermédiaires de la boussole et la région supérieure. À cela, le paragraphe [12](../Book_3_6_8#v6_8_2_12) ajoute, comme dixième, la région inférieure.
 
-[^554]: 296:2 [VI, 6, 4, 10](Book_3_6_6#v6_6_4_10) seq.
+[^554]: 296:2 [VI, 6, 4, 10](../Book_3_6_6#v6_6_4_10) seq.
 
 [^555]: 297:1 C'est-à-dire celui qui brille largement ou qui règne largement.

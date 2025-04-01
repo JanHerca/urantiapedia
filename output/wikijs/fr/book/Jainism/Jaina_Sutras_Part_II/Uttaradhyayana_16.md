@@ -128,9 +128,9 @@ Ainsi je dis.
 
 ## Notes de bas de page
 
-[^197]: 73:1 Le mot « ici » est expliqué comme signifiant « dans cette religion des <i>G</i>ainas ». Voir [p. 8](Uttaradhyayana_1#p8), note [5](Uttaradhyayana_2#fn74).
+[^197]: 73:1 Le mot « ici » est expliqué comme signifiant « dans cette religion des <i>G</i>ainas ». Voir [p. 8](../Uttaradhyayana_1#p8), note [5](../Uttaradhyayana_2#fn74).
 
-[^198]: 73:2 Sa<i>m</i>vara est l'arrêt des âsravas au moyen des Samitis et des Guptis, voir ci-dessus, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^198]: 73:2 Sa<i>m</i>vara est l'arrêt des âsravas au moyen des Samitis et des Guptis, voir ci-dessus, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).
 
 [^199]: 74:1 Littéralement, lits et sièges.
 

@@ -62,7 +62,7 @@ Une autre forme qui apparaît fréquemment dans la collection est le _Kitat_ ou 
 Tu as rendu belle ta pensée du destin, quand les jours étaient beaux,
 &nbsp;&nbsp;Et tu ne craignais pas les maux à venir qu'ils t'apporteraient ;
 Les nuits étaient calmes et sûres pour toi ; tu étais trompé par elles,
-&nbsp;&nbsp;Car dans la paix de la nuit naissent bien des choses troublantes. <span id="p368">[<sup><small>p. 368  </small></sup>]</span>
+&nbsp;&nbsp;Car dans la paix de la nuit naissent bien des choses troublantes. <span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 Voici, dans le ciel, de nombreuses étoiles, personne ne peut raconter leur histoire ;
 Mais pour le soleil et la lune seuls, une éclipse apporte l'obscurité.
 La terre porte de nombreuses herbes agréables, de nombreuses plantes et de nombreux arbres ;
@@ -115,7 +115,7 @@ Ce n’est pas avec lui que la peur lâche devrait demeurer.
 Le Muweshih ou Ballade est une autre forme qui se rencontre dans les Mille et Une Nuits. C'est peut-être la forme de vers la langue la plus compliquée, et on dit qu'elle a été inventée par les poètes musulmans d'Espagne, peu après la conquête, et qu'elle a été adoptée par leurs frères d'Égypte et de Syrie. Elle consiste en une succession de strophes de trois lignes, dans la première desquelles les six hémistiches se terminent par la même rime. Dans la deuxième strophe et les suivantes, la première ligne et le premier hémistiche de la deuxième ligne prennent une nouvelle rime ; mais le deuxième hémistiche de la deuxième ligne reprend la rime de la première strophe, et est suivi par la troisième ligne de cette dernière, qui sert de refrain à chaque strophe du poème, qui est souvent d'une longueur considérable. Voici un échantillon de cette forme élégante :
 
 Ô Censeur de l'Amour ! toi qui es brillant comme le jour,
-Chanceux, vêtu de joie comme les arbres en mai ! <span id="p370">[<sup><small>p. 370  </small></sup>]</span>
+Chanceux, vêtu de joie comme les arbres en mai ! <span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 Si le destin avec sa main cruelle devait t'essayer,
 &nbsp;&nbsp; Alors tu goûteras sa coupe amère et tu diras :
 &nbsp;&nbsp; Hélas pour l'Amour, et dans toute sa panoplie !

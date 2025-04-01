@@ -132,6 +132,6 @@ Ainsi je dis.
 
 [^965]: 327:3 Vibhagyavâda. Les sept modes d'affirmation, ou saptabhaṅgînaya, sont visés par l'expression du texte. Voir Bhandarkar, Rapport, 1883-84, p. 95.
 
-[^966]: 327:4 Voir ci-dessus, [p. 304](Sutrakritanga_1_9#p304), note [4](Sutrakritanga_1_9#fn900). Les premier et quatrième types de discours sont ici visés.
+[^966]: 327:4 Voir ci-dessus, [p. 304](../Sutrakritanga_1_9#p304), note [4](../Sutrakritanga_1_9#fn900). Les premier et quatrième types de discours sont ici visés.
 
 [^967] : 328 : 1 Samâhi = samâdhi.

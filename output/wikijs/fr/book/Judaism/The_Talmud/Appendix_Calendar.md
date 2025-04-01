@@ -130,7 +130,7 @@ Le dernier sabbat de ce mois est appelé la « portion des sicles ». Des partie
 
 14 et 15. Fête de Pourim pour la destruction d'Haman.
 
-( ) Veaddar ou l'Adar supplémentaire — le mois intercalé pour faire correspondre les années lunaire et solaire. (Voir _note_ \[[1](Treatise10_1#fn363)\], page [176](Treatise10_1#p176)). En l'an 1877, selon la chronologie juive, l'année AM 5638 a commencé le premier jour de Tishri.
+( ) Veaddar ou l'Adar supplémentaire — le mois intercalé pour faire correspondre les années lunaire et solaire. (Voir _note_ \[[1](../Treatise10_1#fn363)\], page [176](../Treatise10_1#p176)). En l'an 1877, selon la chronologie juive, l'année AM 5638 a commencé le premier jour de Tishri.
 
 <figure class="table chapter-navigator">
   <table>

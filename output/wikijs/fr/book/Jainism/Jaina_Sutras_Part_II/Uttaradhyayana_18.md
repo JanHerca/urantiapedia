@@ -216,7 +216,7 @@ Ainsi je dis.
 
 [^229]: 87:1 Le roi Da<i>s</i>âr<i>n</i>abhadra était un contemporain de Mahâvîra.
 
-[^230]: 87:2 Ce sont les quatre Pratyêkabuddhas ; voir [p. 35](Uttaradhyayana_8#p35), note [2](Uttaradhyayana_9#fn130).
+[^230]: 87:2 Ce sont les quatre Pratyêkabuddhas ; voir [p. 35](../Uttaradhyayana_8#p35), note [2](../Uttaradhyayana_9#fn130).
 
 [^231]: 87:3 L'histoire d'Udâya<i>n</i>a (ou peut-être d'Uddâyana) se trouve dans mes Ausgewählte Erzählungen in Mâhârâsh<i>t</i>rî, p. 28 et suivantes. Il était contemporain de Mahâvîra.
 

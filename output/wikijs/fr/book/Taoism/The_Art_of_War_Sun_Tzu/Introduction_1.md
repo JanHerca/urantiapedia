@@ -231,7 +231,7 @@ Si ces déductions sont à peu près correctes, il y a une certaine ironie dans 
 
 [^37]: xix:2 Voir _T'u Shu_, ch. 442, #.
 
-[^38]: xix:3 Un extrait se trouve sur [p. xlv](Introduction_5#pxlv).
+[^38]: xix:3 Un extrait se trouve sur [p. xlv](../Introduction_5#pxlv).
 
 [^39]: xix:4 #.
 
@@ -255,7 +255,7 @@ Si ces déductions sont à peu près correctes, il y a une certaine ironie dans 
 
 [^49]: xxi:2 Voir _Tso Chuan_, #, I. 3 _ad fin_. et XI. 3 _ad init_. Il ne mérite guère d'être mis au même niveau que les assassins.
 
-[^50]: xxi:3 Voir pp. [66](7#p66), [128](11#p128).
+[^50]: xxi:3 Voir pp. [66](../7#p66), [128](../11#p128).
 
 [^51]: xxi:4 Voir _Tso Chuan_, #, XXX. 5.
 
@@ -267,7 +267,7 @@ Si ces déductions sont à peu près correctes, il y a une certaine ironie dans 
 
 [^55]: xxi:8 Le noyau de cette œuvre est probablement authentique, bien que d'importants ajouts aient été effectués ultérieurement. Kuan Chung est mort en 645 av. J.-C.
 
-[^56]: xxi:9 Voir _infra_, [p. l](Introduction_6#pl).
+[^56]: xxi:9 Voir _infra_, [p. l](../Introduction_6#pl).
 
 [^57]: xxi:10 Je ne sais pas de quel ouvrage il s'agit, à moins qu'il ne s'agisse du dernier chapitre du #. Cependant, la raison pour laquelle ce chapitre devrait être choisi n'est pas claire.
 
@@ -279,11 +279,11 @@ Si ces déductions sont à peu près correctes, il y a une certaine ironie dans 
 
 [^61]: xxii:4 Au 3e siècle avant J.-C.
 
-[^62]: xxii:5 Ssŭ-ma Jang-chü, dont le nom de famille était # T'ien, vécut dans la seconde moitié du VIe siècle av. J.-C. et aurait également écrit un ouvrage sur la guerre. Voir _Shih Chi_, ch. 64, et _infra_, [p. l](Introduction_6#pl).
+[^62]: xxii:5 Ssŭ-ma Jang-chü, dont le nom de famille était # T'ien, vécut dans la seconde moitié du VIe siècle av. J.-C. et aurait également écrit un ouvrage sur la guerre. Voir _Shih Chi_, ch. 64, et _infra_, [p. l](../Introduction_6#pl).
 
 [^63]: xxii:6 #.
 
-[^64]: xxii:7 Voir la fin du passage cité du _Shih Chi_ à la [p. xii](#pxii).
+[^64]: xxii:7 Voir la fin du passage cité du _Shih Chi_ à la [p. xii](../#pxii).
 
 [^65]: xxiii:1 Dans le #, un catalogue classé de sa bibliothèque familiale.
 

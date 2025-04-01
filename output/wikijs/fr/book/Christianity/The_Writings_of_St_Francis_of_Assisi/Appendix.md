@@ -43,9 +43,9 @@ APPENDICE
 
 ### QUELQUES ÉCRITS PERDUS, DOUTEUX ET FAUX.
 
-![](img/17900.jpg)
+![](../img/17900.jpg)
 
-On aurait sans doute dû s'attendre à ce que chaque fragment des écrits de saint François ait été préservé avec soin à travers les âges. Mais si l'on considère les conditions dans lesquelles certains d'entre eux ont été composés et les vicissitudes qu'ils ont traversées par la suite, il n'y a pas lieu de s'étonner qu'ils ne nous soient pas tous parvenus. Au contraire. Car, si l'on en croit des auteurs comme Ubertin da Casale, de sérieuses tentatives furent faites dans certains milieux vers la fin du XIIIe siècle pour supprimer totalement une partie des écrits du saint. [^579] Quoi qu'il en soit, il est certain que plusieurs de ces précieux documents ont disparu au fil du temps. Parmi ces trésors perdus, il faut compter la Règle primitive des Frères sous la forme approuvée par Innocent III en 1209. [^580] De plus, seuls deux fragments semblent avoir survécu des « nombreux écrits » que, comme on l'a déjà mentionné, saint François adressa aux Pauvres Dames de Saint-François. <span id="p180">[<sup><small>p. 180] Damien. [^581] Il est quasiment impossible de déterminer si l'un ou l'autre de ces fragments peut être identifié à une lettre écrite par saint François pour consoler les Clarisses, dont nous lisons l'histoire dans le Speculum et les Conformités. [^582] Celano parle [^583] d'une lettre à saint Antoine de Padoue, apparemment différente de celle que nous connaissons, et d'autres au cardinal Ugolin. [^584] De même, Eccleston [^585] parle de lettres écrites aux frères en France et à Bologne. [^586]
+On aurait sans doute dû s'attendre à ce que chaque fragment des écrits de saint François ait été préservé avec soin à travers les âges. Mais si l'on considère les conditions dans lesquelles certains d'entre eux ont été composés et les vicissitudes qu'ils ont traversées par la suite, il n'y a pas lieu de s'étonner qu'ils ne nous soient pas tous parvenus. Au contraire. Car, si l'on en croit des auteurs comme Ubertin da Casale, de sérieuses tentatives furent faites dans certains milieux vers la fin du XIIIe siècle pour supprimer totalement une partie des écrits du saint. [^579] Quoi qu'il en soit, il est certain que plusieurs de ces précieux documents ont disparu au fil du temps. Parmi ces trésors perdus, il faut compter la Règle primitive des Frères sous la forme approuvée par Innocent III en 1209. [^580] De plus, seuls deux fragments semblent avoir survécu des « nombreux écrits » que, comme on l'a déjà mentionné, saint François adressa aux Pauvres Dames de Saint-François. <span id="p180"><sup><small>[ p. 180 ]</small></sup>]</span> Damien. [^581] Il est quasiment impossible de déterminer si l'un ou l'autre de ces fragments peut être identifié à une lettre écrite par saint François pour consoler les Clarisses, dont nous lisons l'histoire dans le Speculum et les Conformités. [^582] Celano parle [^583] d'une lettre à saint Antoine de Padoue, apparemment différente de celle que nous connaissons, et d'autres au cardinal Ugolin. [^584] De même, Eccleston [^585] parle de lettres écrites aux frères en France et à Bologne. [^586]
 
 Quant à la fameuse lettre de saint François à saint Antoine, lui confiant la charge d'enseigner la théologie, les opinions sont assez diverses. Elle est donnée pour la première fois dans le Liber Miraculorum [^587] et aussi dans le Chron. XXIV Generalium [^588]. M. Sabatier, qui fut, je crois, le premier à mettre en doute l'authenticité de cette lettre [^589] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>, semble maintenant moins enclin à la rejeter. [^590] Le professeur Goetz [^591] s'est prononcé pour, et le professeur Boehmer [^592] contre. En excluant cette lettre de leur édition des Opuscula, les éditeurs de Quaracchi n'entendaient nullement nier que saint François ait écrit à frère Antonio [^593], mais ils n'ont pas pu déterminer laquelle des trois versions de cette lettre actuellement en circulation pouvait être la véritable. Puisque l'affaire est en instance [^594], pour ainsi dire, je pense, avec M. Carmichael, que cette lettre pourrait figurer parmi les « œuvres douteuses » de saint François [^595].
 
@@ -97,11 +97,11 @@ En attendant, je termine ce volume en souhaitant à ses lecteurs leur pleine par
 
 [^579] : 179 : 1 « Et toto conatu fuerunt solliciti annulare scripta beati patris nostri Francisci, in quibus sua intentio de observantia regulae declaratur. » — Voir Archiv., III, pp. 168-169.
 
-[^580]: 179:2 Voir ci-dessus, [p. 26](Part_1_4#p26).
+[^580]: 179:2 Voir ci-dessus, [p. 26](../Part_1_4#p26).
 
 [^581]: 180:1 Il ne faut pas désespérer d'en trouver d'autres ; les archives des Clares ont pour la plupart échappé à la spoliation.
 
-[^582]: 180:2 Voir _Spec. Perf._ (éd. Sabatier), c. 108, et éd. Lemmens, c. 18. Voir aussi les _Conformités_ (I, fol. 185), et ci-dessus, [p. 75](Part_1_5#p75).
+[^582]: 180:2 Voir _Spec. Perf._ (éd. Sabatier), c. 108, et éd. Lemmens, c. 18. Voir aussi les _Conformités_ (I, fol. 185), et ci-dessus, [p. 75](../Part_1_5#p75).
 
 [^583] : 180 : 3 Voir 2 Cél. 3, 99.
 
@@ -159,7 +159,7 @@ En attendant, je termine ce volume en souhaitant à ses lecteurs leur pleine par
 
 [^610] : 184 : 2 Voir ses _Les Origines de l'ordo de Poenitentia ;_ voir aussi la Revue Thomiste, pp. 295-314.
 
-[^611]: 184:3 _Quellen_, etc., XXII, 362. Mais voir ci-dessus, [p. 89](Part_1_7#p89), n. [1](Part_1_7#fn_360) aussi.
+[^611]: 184:3 _Quellen_, etc., XXII, 362. Mais voir ci-dessus, [p. 89](../Part_1_7#p89), n. [1](../Part_1_7#fn_360) aussi.
 
 [^612] : 184 : 4 « Codiculus quidam vestustus MS. Italico idiomati exaratus mihi à Fano Piceni urbe, ad Metaurum amnem extructa, transmissus. Voir Ouate, _Opusc._, p. 285.
 

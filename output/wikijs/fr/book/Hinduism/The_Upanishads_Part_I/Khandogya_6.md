@@ -215,7 +215,7 @@ Apprends-moi la véritable nature du sommeil (svapna). Lorsqu'un homme dort ici,
 
 <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
-## DOUZIÈME KHA<i>N</i><i>D</i>A [1](Khandogya_6#fn291).
+## DOUZIÈME KHA<i>N</i><i>D</i>A [1](../Khandogya_6#fn291).
 
 1\. « Apportez-moi de là un fruit de l’arbre Nyagrodha. »
 
@@ -308,7 +308,7 @@ Alors le père dit : « Ici aussi, dans ce corps, en vérité, tu ne perçois pa
 
 ## SEIZIÈME KHA<i>N</i><i>D</i>A [^299].
 
-1\. « Mon enfant, ils amènent ici un homme qu'ils ont pris par la main, et ils disent : “Il a pris quelque chose, il a commis un vol.” » (Quand <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> il nie, ils disent) : « Chauffez la hache pour lui. » S'il a commis le vol, alors il se fait passer pour ce qu'il n'est pas. Alors l'homme menteur, ayant couvert son vrai Soi par un mensonge, saisit la hache chauffée – il est brûlé et il est tué.
+1\. « Mon enfant, ils amènent ici un homme qu'ils ont pris par la main, et ils disent : « Il a pris quelque chose, il a commis un vol. » » (Quand <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> il nie, ils disent) : « Chauffez la hache pour lui. » S'il a commis le vol, alors il se fait passer pour ce qu'il n'est pas. Alors l'homme menteur, ayant couvert son vrai Soi par un mensonge, saisit la hache chauffée – il est brûlé et il est tué.
 
 2. « Mais s'il n'a pas commis de vol, il se fait lui-même ce qu'il est. » Alors, l'homme sincère, ayant recouvert son être véritable par la vérité, saisit la hachette chauffée ; il n'est pas brûlé et il est délivré.
 

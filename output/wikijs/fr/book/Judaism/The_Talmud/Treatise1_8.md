@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 7\. « Si quelqu'un a mangé, puis oublié, et n'a pas béni ? » L'école de Shammaï dit : « Il doit retourner à son lieu et bénir. » Mais l'école de Hillel dit : « Il peut bénir là où il se souvient. » « Combien de temps faut-il bénir ? » « Jusqu'à ce que la nourriture dans son estomac soit digérée. »
 
-8\. « Si du vin est servi à la compagnie, et qu'il n'y ait qu'une seule coupe ? » L'école de Shammaï dit qu'il faut bénir le vin, puis la nourriture. Mais l'école de Hillel dit qu'il faut bénir la nourriture, puis le vin. On doit répondre « Amen » lorsqu'un Israélite bénit ; mais on ne doit pas répondre « Amen » lorsqu'un Samaritain bénit, avant que la bénédiction entière [1](Treatise1_9#fn31) soit entendue.
+8\. « Si du vin est servi à la compagnie, et qu'il n'y ait qu'une seule coupe ? » L'école de Shammaï dit qu'il faut bénir le vin, puis la nourriture. Mais l'école de Hillel dit qu'il faut bénir la nourriture, puis le vin. On doit répondre « Amen » lorsqu'un Israélite bénit ; mais on ne doit pas répondre « Amen » lorsqu'un Samaritain bénit, avant que la bénédiction entière [1](../Treatise1_9#fn31) soit entendue.
 
 <figure class="table chapter-navigator">
   <table>

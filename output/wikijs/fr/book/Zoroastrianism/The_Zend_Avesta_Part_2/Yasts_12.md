@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 Rashnu Razi<i>s</i>ta, « le plus vrai Vrai », est le Génie de la Vérité : il est l'un des trois juges des défunts, avec Mithra et Sraosha : il tient la balance dans laquelle les actes des hommes sont pesés après leur mort : « il ne fait aucune balance injuste..., ni pour les pieux ni pour les méchants, ni pour les seigneurs ni pour les dirigeants ; il ne variera pas d'un cheveu, et il ne montre aucune faveur [^777]. » Il est un rejeton soit de Mithra, le Dieu de Vérité et le vengeur des mensonges, soit d'Ahura Mazda lui-même, le seigneur omniscient (§ 2 seq.).
 
-Ce Ya<i>s</i>t semble être un appel lancé à Rashnu pour qu'il vienne assister à l'accomplissement du var nîrang ou épreuve (voir [p. 170](#p170), note [^787]), dont Rashnu, en tant que Génie de la Vérité, était le témoin naturel et l'arbitre (cf. Vend. IV, 54-55 \[154-156\]). Comme un dieu de Vérité doit tout savoir et être présent partout, il est appelé de n'importe quelle partie du monde où il se trouve réellement. Ceci entraîne une énumération de toutes les parties du monde, depuis cette terre (§§ 9-22) jusqu'au plus haut des cieux (§ 37), en passant par l'Albôrz (§§ 23-26), la région des étoiles (§§ 26-32), la région de la lune (§ 33) et la région du soleil (§ 34 ; cf. [p. 73](Yasts_5#p73), note [2](Yasts_5#fn359)).
+Ce Ya<i>s</i>t semble être un appel lancé à Rashnu pour qu'il vienne assister à l'accomplissement du var nîrang ou épreuve (voir [p. 170](#p170), note [^787]), dont Rashnu, en tant que Génie de la Vérité, était le témoin naturel et l'arbitre (cf. Vend. IV, 54-55 \[154-156\]). Comme un dieu de Vérité doit tout savoir et être présent partout, il est appelé de n'importe quelle partie du monde où il se trouve réellement. Ceci entraîne une énumération de toutes les parties du monde, depuis cette terre (§§ 9-22) jusqu'au plus haut des cieux (§ 37), en passant par l'Albôrz (§§ 23-26), la région des étoiles (§§ 26-32), la région de la lune (§ 33) et la région du soleil (§ 34 ; cf. [p. 73](../Yasts_5#p73), note [2](../Yasts_5#fn359)).
 
 Ce Ya<i>s</i>t est récité les jours de Rashn, Murdâd, Âshtâd et Zemyâd (les 18, 7, 26 et 28 du mois).
 
@@ -266,7 +266,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^818]: 169:6 Littéralement, la graisse.
 
-[^819]: 170:1 Voir [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^819]: 170:1 Voir [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^820]: 170:2 Voir Vend. XXII, 3.
 
@@ -284,7 +284,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^832]: 172:1 Voir Yt. X, 15, note 5.
 
-[^833]: 172:2 Voir [p. 54](Yasts_5#p54), note [6](Yasts_5#fn279).
+[^833]: 172:2 Voir [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
 
 [^834]: 173:1 Le Saêna, dans la mythologie ultérieure le Sînamrû ou Sîmûrgh ; son « lieu de repos est sur l'arbre qui est Ja<i>d</i>\-bêsh (opposé au mal) de toutes les graines ; et chaque fois qu'il s'élève dans les airs, mille brindilles jaillissent de cet arbre ; et lorsqu'il se pose, il brise les mille brindilles, et il en répand les graines. Et l'oiseau Chañmrôsh se tient éternellement dans ce voisinage ; et son œuvre est celle-ci, qu'il recueille cette graine qui se répand de l'arbre de toutes les graines, qui est Ja<i>d</i>\-bêsh, et la transporte là où Tishtar saisit l'eau, afin que Tishtar puisse saisir l'eau avec cette graine de toutes sortes, et puisse la faire pleuvoir sur le monde avec la pluie » (Minokhirad LXII, 37 ; tr. Ouest).
 
@@ -308,7 +308,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^846]: 176:2 À l'exclusion des planètes qui appartiennent à Ahriman (Minokhirad VIII, 19 ; Bund. III, 25 ; V, 1).
 
-[^847]: 176:3 Voir ci-dessus, [p. 8](Sirozahs_1#p8), note [8](Sirozahs_1#fn53).
+[^847]: 176:3 Voir ci-dessus, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53).
 
 [^848]: 177:1 Le ciel le plus élevé, la demeure d'Ormazd.
 

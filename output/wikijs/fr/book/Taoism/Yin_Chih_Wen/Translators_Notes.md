@@ -44,7 +44,7 @@ dateCreated: 2025-2-12T22:33:52Z
 
 <a id="xref_3"></a>
 
-3\. Nous omettons ici quelques lignes qui, pour le lecteur anglophone peu familier avec les coutumes chinoises, pourraient sembler interrompre le contexte. Dans la phrase d'ouverture du texte chinois, « Gloire du Seigneur aux Écritures » fait allusion à plusieurs histoires morales, bien connues des Chinois, comme exemples de récompenses de la vertu. Nous avons supprimé les lignes omises du commentaire chinois, où elles sont imprimées dans la même typographie que notre traduction du texte de Yin Chih Wen, afin de les rendre facilement reconnaissables. À notre connaissance, ces passages pourraient être un ajout ultérieur qui s'est glissé dans le texte, mais même dans ce cas, ils doivent bien sûr être plus anciens que les commentaires qui leur sont associés et qui relatent les histoires évoquées. Pour plus de détails, voir le commentaire chinois 3-6, intitulé « Un bon juge », [CC4](Notes_of_the_Chinese_Commentator#xref_CC4) « L'humanité récompensée », [CC5](Notes_of_the_Chinese_Commentator#xref_CC5) « Sauver de nombreuses vies » et « Le serpent à deux têtes ». [CC6](Notes_of_the_Chinese_Commentator#xref_CC6)
+3\. Nous omettons ici quelques lignes qui, pour le lecteur anglophone peu familier avec les coutumes chinoises, pourraient sembler interrompre le contexte. Dans la phrase d'ouverture du texte chinois, « Gloire du Seigneur aux Écritures » fait allusion à plusieurs histoires morales, bien connues des Chinois, comme exemples de récompenses de la vertu. Nous avons supprimé les lignes omises du commentaire chinois, où elles sont imprimées dans la même typographie que notre traduction du texte de Yin Chih Wen, afin de les rendre facilement reconnaissables. À notre connaissance, ces passages pourraient être un ajout ultérieur qui s'est glissé dans le texte, mais même dans ce cas, ils doivent bien sûr être plus anciens que les commentaires qui leur sont associés et qui relatent les histoires évoquées. Pour plus de détails, voir le commentaire chinois 3-6, intitulé « Un bon juge », [CC4](../Notes_of_the_Chinese_Commentator#xref_CC4) « L'humanité récompensée », [CC5](../Notes_of_the_Chinese_Commentator#xref_CC5) « Sauver de nombreuses vies » et « Le serpent à deux têtes ». [CC6](../Notes_of_the_Chinese_Commentator#xref_CC6)
 
 <a id="xref_4"></a>
 
@@ -102,7 +102,7 @@ Le commentateur interprète le terme _fang pien_ dans un sens populaire et le pr
 
 <a id="xref_17"></a>
 
-17\. Un sage taoïste dit, selon le commentateur : « J’ai trois livres canoniques, qui ne comptent au total que six caractères. Le livre à un caractère s’intitule : “Douceur” ; le livre à deux caractères : “Bienveillance” ; et le livre à trois caractères : “Fais ton devoir”. Ces trois livres sacrés ne se trouvent pas dans le Grand Tripitaka (recueil de littérature bouddhique), mais dans votre propre cœur. »
+17\. Un sage taoïste dit, selon le commentateur : « J’ai trois livres canoniques, qui ne comptent au total que six caractères. Le livre à un caractère s’intitule : « Douceur » ; le livre à deux caractères : « Bienveillance » ; et le livre à trois caractères : « Fais ton devoir ». Ces trois livres sacrés ne se trouvent pas dans le Grand Tripitaka (recueil de littérature bouddhique), mais dans votre propre cœur. »
 
 <a id="xref_18"></a>
 

@@ -80,4 +80,4 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^143]: 56:2 ‏ביברין‎, du latin _vivarium_ ; une sorte de tanière ou d'enclos dans lequel les animaux sauvages étaient gardés.
 
-[^144]: 56:3 Voir notre note [1](Treatise4_Kilaim_7#fn58), [p. 27](Treatise4_Kilaim_9#p27).
+[^144]: 56:3 Voir notre note [1](../Treatise4_Kilaim_7#fn58), [p. 27](../Treatise4_Kilaim_9#p27).

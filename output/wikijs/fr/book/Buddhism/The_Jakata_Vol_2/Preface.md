@@ -36,7 +36,7 @@ Dans un livre comme celui-ci, où une traduction est réalisée pour la premièr
 
 Bien qu'il n'ait pas été possible de reproduire le rythme des vers, j'espère néanmoins obtenir un effet similaire en conservant dans chaque histoire un mètre là où le pâli n'en a qu'un, et en le modifiant là où il change. Une règle assez constante a été observée : remplacer les vers longs par des vers longs et les vers courts par des vers courts, deux vers courts étant considérés comme équivalents à un vers long. Mais dans différentes histoires, le même mètre a souvent été traduit différemment par commodité.
 
-Pour établir des parallèles, j'ai parcouru tous les livres pāli publiés, mais je n'ai pas eu le temps de les lire attentivement, et beaucoup ont dû m'échapper. Les notes ne doivent donc pas être considérées comme exhaustives. D'autres illustrations ont été notées lorsque j'en ai trouvé, et j'espère que les étudiants en contes populaires seront intéressés par une variante inédite que j'ai pu proposer (page [110](207#p110)).
+Pour établir des parallèles, j'ai parcouru tous les livres pāli publiés, mais je n'ai pas eu le temps de les lire attentivement, et beaucoup ont dû m'échapper. Les notes ne doivent donc pas être considérées comme exhaustives. D'autres illustrations ont été notées lorsque j'en ai trouvé, et j'espère que les étudiants en contes populaires seront intéressés par une variante inédite que j'ai pu proposer (page [110](../207#p110)).
 
 <span id="pviii">[<sup><small>p. viii</small></sup>]</span>
 

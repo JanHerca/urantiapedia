@@ -1287,9 +1287,9 @@ De tous ceux qui séparent les doux cheveux noirs,
 Son amour, sa vie, possédaient tout
 Du cœur et de l'âme de son jeune héros :
 « Assurez-vous que le destin de la dame récompense
-Un puissant vœu des jours anciens, [1b](Book_2_20#fn283)
+Un puissant vœu des jours anciens, [1b](../Book_2_20#fn283)
 Car elle est bénie par l'amour de Rama
-Comme avec la Lune, douce Rohiní.' [2b](Book_2_20#fn284)
+Comme avec la Lune, douce Rohiní.' [2b](../Book_2_20#fn284)
 
 Telles étaient les paroles de sorcellerie qui venaient
 Des lèvres de nombreuses dames sans pareilles
@@ -1374,7 +1374,7 @@ Je regardais dans la rue,
 Et son retour avec des yeux avides
 Attendus aux portes,
 Quant à sa chère lune qui se lève
-Le Roi des Rivières [1](Book_2_20#fn285) attend.
+Le Roi des Rivières [1](../Book_2_20#fn285) attend.
 
 
 

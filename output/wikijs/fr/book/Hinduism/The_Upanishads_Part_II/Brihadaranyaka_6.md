@@ -196,7 +196,7 @@ Que personne ne dise cela [^619] à personne, sauf à un fils ou à un élève [
 
 13\. Quatre choses sont faites du bois de l'arbre Udumbara : la louche sacrificielle (sruva), la coupe (<i>k</i>amasa), le combustible et les deux bâtons de barattage.
 
-Français Il y a dix sortes de graines villageoises (cultivées), à savoir le riz et l'orge (brîhiyavâs), le sésame et les haricots rouges (tilamâshâs), le millet et les graines de panic (a<i>n</i>upriyaṅgavas), le blé (godhûmâs), les lentilles (masûrâs), les légumineuses (khalvâs) et les vesces (khalakulâs [^621]). Après les avoir moulues, il les saupoudre de lait caillé (dadhi), de miel et de ghee, puis offre (les portions appropriées) de beurre clarifié [1](Brihadaranyaka_6#fn622) (â<i>g</i>ya).
+Français Il y a dix sortes de graines villageoises (cultivées), à savoir le riz et l'orge (brîhiyavâs), le sésame et les haricots rouges (tilamâshâs), le millet et les graines de panic (a<i>n</i>upriyaṅgavas), le blé (godhûmâs), les lentilles (masûrâs), les légumineuses (khalvâs) et les vesces (khalakulâs [^621]). Après les avoir moulues, il les saupoudre de lait caillé (dadhi), de miel et de ghee, puis offre (les portions appropriées) de beurre clarifié [1](../Brihadaranyaka_6#fn622) (â<i>g</i>ya).
 
 
 ## QUATRIÈME BRÂHMA<i>N</i> [^623].
@@ -221,7 +221,9 @@ Elle est la meilleure des femmes dont les vêtements sont purs [^633]. Qu'il s'a
 
 9\. Mon frère et moi sommes ceux qui ont reçu mes bénédictions, mes sœurs, mes frères...
 
-10\. Je vous prie de m'aider à vous élever et à vous élever [^641], et de m'élever ... <span id="p218">[<sup><small>p. 218 11\. C'est pourquoi je t'ai apporté le garbham de mon père et...
+10\. Je vous prie de m'aider à vous élever et à vous élever [^641], et de m'élever ... <span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
+
+11\. C'est pourquoi je t'ai apporté le garbham de mon père et...
 
 12\. Maintenant, si la femme d'un homme a un amant et que le mari le déteste, qu'il (selon la règle) [^643] place du feu près d'un pot non cuit, étale une couche de flèches dans l'ordre inverse [^644], oigne ces trois pointes de flèches [^645] avec du beurre dans l'ordre inverse, et sacrifie en disant : « Tu as sacrifié dans mon feu, je t'enlève ton souffle de haut en bas, je suis ici [^646]. »
 
@@ -504,7 +506,7 @@ Ah, celui qui naît fils d'un Brahman qui sait cela atteint le plus haut sommet 
 27\. Mândûkâyâniputra de Mândûkîputra,
 28\. Mâ<i>n</i><i>d</i>ûkîputra de <i>S</i>â<i>n</i><i>d</i>ilîputra,
 29\. <i>S</i>â<i>n</i><i>d</i>ilîputra de Râthîtarîputra,
-30 [^695]. Rāthītarīputra de Bhālukīputra, <span id="p226">[<sup><small>p. 226] 31\. Bhâlukîputra de Krau_ñ_<i>k</i>ikîputrau,
+30 [^695]. Rāthītarīputra de Bhālukīputra, <span id="p226"><sup><small>[ p. 226 ]</small></sup>]</span> 31\. Bhâlukîputra de Krau_ñ_<i>k</i>ikîputrau,
 32\. Krau_ñ_<i>k</i>ikîputrau de Vai<i>t</i><i>t</i>abhatîputra [^696],
 33\. Vai<i>t</i><i>t</i>abhatîputra de Kâr<i>s</i>akeyîputra [^697],
 34\. Kârsakeyiputra de Prâkînayogiputra,

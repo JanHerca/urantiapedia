@@ -502,7 +502,7 @@ Fin de la première conférence, intitulée La mendicité de la nourriture.
 
 [^373] : 110 : 5 Pistia Stratiotes.
 
-[^374]: 111:1 Pour la signification de ce terme fréquemment utilisé, voir la note [5](Akaranga_1_8#fn307) sur [p. 81](Akaranga_1_8#p81), et la note [1](Akaranga_2_1#fn329) sur [p. 94](Akaranga_2_1#p94).
+[^374]: 111:1 Pour la signification de ce terme fréquemment utilisé, voir la note [5](../Akaranga_1_8#fn307) sur [p. 81](../Akaranga_1_8#p81), et la note [1](../Akaranga_2_1#fn329) sur [p. 94](../Akaranga_2_1#p94).
 
 [^375]: 114:1 Ils sont détaillés dans l'original : a<i>m</i>taru<i>k</i><i>kh</i>uya<i>m</i>, un morceau entre deux nœuds ; u<i>k</i><i>kh</i>uga<i>m</i><i>d</i>iya<i>m</i>, un morceau contenant un nœud ; u<i>k</i><i>kh</i>u<i>k</i>oyagam (?), u<i>k</i><i>kh</i>umeraga<i>m</i>, sommet d'une tige ; u<i>k</i><i>kh</i>usâlaga<i>m</i>, longue feuille ; u<i>k</i><i>kh</i>u<i>d</i>âlaga<i>m</i>, fragment de feuille.
 

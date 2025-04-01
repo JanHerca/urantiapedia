@@ -83,9 +83,9 @@ Puisse mon corps être capable, ma langue douce, puisse-je entendre beaucoup ave
 
 Elle (<i>S</i>rî, le bonheur) rapproche et répand,
 
-2\. Et se fabrique sans délai des vêtements, des vaches, de la nourriture et des boissons en tout temps ; apporte donc ce <i>S</i>rî (bonheur) ici, à moi, la laineuse, avec <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> son bétail [1](Taittiriyaka_1#fn203) ! Svâhâ [2](Taittiriyaka_1#fn204) ! Puissent les étudiants brahmaniques venir à moi, Svâhâ ! Puissent-ils venir de tous côtés, Svâhâ ! Puissent-ils venir à moi, Svâhâ ! Puissent-ils pratiquer la retenue, Svâhâ ! Puissent-ils jouir de la paix, Svâhâ !
+2\. Et se fabrique sans délai des vêtements, des vaches, de la nourriture et des boissons en tout temps ; apporte donc ce <i>S</i>rî (bonheur) ici, à moi, la laineuse, avec <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> son bétail [1](../Taittiriyaka_1#fn203) ! Svâhâ [2](../Taittiriyaka_1#fn204) ! Puissent les étudiants brahmaniques venir à moi, Svâhâ ! Puissent-ils venir de tous côtés, Svâhâ ! Puissent-ils venir à moi, Svâhâ ! Puissent-ils pratiquer la retenue, Svâhâ ! Puissent-ils jouir de la paix, Svâhâ !
 
-3\. Puissé-je être une gloire parmi les hommes, Svâhâ ! Puissé-je être meilleur que le plus riche, Svâhâ ! Puissé-je entrer en toi, ô trésor (Om), Svâhâ ! Toi, ô trésor [3](Taittiriyaka_1#fn205), entre en moi, Svâhâ ! En toi, composé de mille branches, en toi, ô trésor, je suis purifié, Svâhâ ! Comme l'eau coule vers le bas, comme les mois deviennent l'année, ainsi, ô conservateur du monde, puissent les étudiants de Brahman venir toujours à moi de tous côtés, Svâhâ !
+3\. Puissé-je être une gloire parmi les hommes, Svâhâ ! Puissé-je être meilleur que le plus riche, Svâhâ ! Puissé-je entrer en toi, ô trésor (Om), Svâhâ ! Toi, ô trésor [3](../Taittiriyaka_1#fn205), entre en moi, Svâhâ ! En toi, composé de mille branches, en toi, ô trésor, je suis purifié, Svâhâ ! Comme l'eau coule vers le bas, comme les mois deviennent l'année, ainsi, ô conservateur du monde, puissent les étudiants de Brahman venir toujours à moi de tous côtés, Svâhâ !
 
 (1) Tu es un refuge ! Éclaire-moi ! Prends possession de moi !
 

@@ -98,7 +98,7 @@ Parmi les vestiges architecturaux, le sanctuaire lui-même est un exemple typiqu
 
 Les dates qui divisent l'histoire japonaise ayant été quelque peu généralisées aux fins du présent aperçu, il est jugé bon de fournir le bref résumé suivant sous une forme plus précise pour référence.
 
-_La période Asuka_.—Elle a duré de l'introduction du [bouddhisme](errata.htm#0) en 552 jusqu'à l'accession au trône de l'empereur Tenji, en 667 après J.-C. Cette époque au Japon est fortement influencée par la grande vigueur du bouddhisme en Chine, sous la dynastie Tâng.
+_La période Asuka_.—Elle a duré de l'introduction du [bouddhisme](../errata.htm#0) en 552 jusqu'à l'accession au trône de l'empereur Tenji, en 667 après J.-C. Cette époque au Japon est fortement influencée par la grande vigueur du bouddhisme en Chine, sous la dynastie Tâng.
 
 _La période Fujiwara_. — De l'accession au trône de l'empereur Seiwa en 898, à la chute de la famille Taira en 1186 après J.-C. Cette époque est caractérisée par un développement purement national de l'art et de la philosophie bouddhistes, sous l'aristocratie Fujiwara.
 

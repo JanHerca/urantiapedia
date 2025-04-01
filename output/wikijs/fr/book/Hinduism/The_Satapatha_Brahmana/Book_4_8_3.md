@@ -189,7 +189,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 ## Notes de bas de page
 
-[^98]: 41:4 Pour la connexion de ces divinités avec la troisième couche et l'air, voir aussi VI, 2, 3, 3. Vi<i>s</i>vakarman est également la divinité par laquelle la brique Vi<i>s</i>va<i>g</i>yotis, représentant Vâyu (le vent), le régent du monde aérien, est établie ; voir [VIII, 3, 2, 3](Book_4_8_3#v8_3_2_3).
+[^98]: 41:4 Pour la connexion de ces divinités avec la troisième couche et l'air, voir aussi VI, 2, 3, 3. Vi<i>s</i>vakarman est également la divinité par laquelle la brique Vi<i>s</i>va<i>g</i>yotis, représentant Vâyu (le vent), le régent du monde aérien, est établie ; voir [VIII, 3, 2, 3](../Book_4_8_3#v8_3_2_3).
 
 [^99]: 42:1 Voir partie iii, p. 155, note 8.
 
@@ -197,17 +197,17 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^101]: 43:2 Viz. Vâ<i>g</i>. S. XII, 55 (<i>Ri</i>g-veda S. VIII, 69, 3), 'À sa naissance, les laitières tachetées comme des puits mélangent le Soma, les clans des dieux dans les trois sphères des cieux.' Voir partie iii, p. 307, note 2.
 
-[^102]: 43:3 [VIII, 7, 4, 1](Book_4_8_7#v8_7_4_1) seq.
+[^102]: 43:3 [VIII, 7, 4, 1](../Book_4_8_7#v8_7_4_1) seq.
 
-[^103]: 43:4 Les cinq Di<i>s</i>yâs sont placés sur les épines dans les quatre directions à la rangée reta<i>h</i>si<i>k</i>, juste au-dessus de l'endroit où les cinq briques Vai<i>s</i>vadevî ont été placées dans la deuxième couche (voir le croquis, [p. 24](Book_4_8_2#p24)). Entre elles et la brique centrale (naturellement perforée), il y a donc un espace vide d'un pied carré, et les deux Di<i>s</i>yâs du sud sont des demi-briques situées au nord et au sud l'une de l'autre.
+[^103]: 43:4 Les cinq Di<i>s</i>yâs sont placés sur les épines dans les quatre directions à la rangée reta<i>h</i>si<i>k</i>, juste au-dessus de l'endroit où les cinq briques Vai<i>s</i>vadevî ont été placées dans la deuxième couche (voir le croquis, [p. 24](../Book_4_8_2#p24)). Entre elles et la brique centrale (naturellement perforée), il y a donc un espace vide d'un pied carré, et les deux Di<i>s</i>yâs du sud sont des demi-briques situées au nord et au sud l'une de l'autre.
 
 [^104]: 44:1 Voir VI, 2, 3, 4. La deuxième brique naturellement perforée représente le monde aérien auquel Vâyu, le vent, est le plus étroitement associé.
 
 [^105]: 44:2 C'est-à-dire qu'il les déposa sur l'emplacement de l'autel, avant que la première couche ne soit commencée, à savoir le bouquet de darbha au centre du « corps » de l'autel, là où les deux épines (anûka) se croisent (VII, 2, 3, 1 seqq.) ; et les briques de terre (logesh<i>t</i>akâ) aux quatre extrémités des deux épines (VII, 3, 1, 23 seqq.), c'est-à-dire au milieu de chacun des quatre côtés du carré dont le « corps » est constitué.
 
-[^106]: 44:3 L'interprétation symbolique ici semble quelque peu confuse, dans la mesure où les Di<i>s</i>yâs, qui sont maintenant apparemment identifiés au soleil, viennent d'être présentés comme représentant les régions. En VI, 7, 1, 17, le soleil était représenté comme le point central de l'univers auquel ces trois mondes sont reliés au moyen des quartiers (comme par les cordes d'une balance). Les briques, d'autre part, étaient en effet, en VII, 3, I, 13, identifiées aux régions (quartiers) ; et la touffe d'herbe, étant déposée au centre, pourrait être considérée comme marquant la cinquième région, celle qui s'étend vers le haut à partir d'ici. Cf. [IX, 5, 1, 36](Book_4_9_5#v9_5_1_36).
+[^106]: 44:3 L'interprétation symbolique ici semble quelque peu confuse, dans la mesure où les Di<i>s</i>yâs, qui sont maintenant apparemment identifiés au soleil, viennent d'être présentés comme représentant les régions. En VI, 7, 1, 17, le soleil était représenté comme le point central de l'univers auquel ces trois mondes sont reliés au moyen des quartiers (comme par les cordes d'une balance). Les briques, d'autre part, étaient en effet, en VII, 3, I, 13, identifiées aux régions (quartiers) ; et la touffe d'herbe, étant déposée au centre, pourrait être considérée comme marquant la cinquième région, celle qui s'étend vers le haut à partir d'ici. Cf. [IX, 5, 1, 36](../Book_4_9_5#v9_5_1_36).
 
-[^107]: 44:4 La feuille de lotus est placée au centre de l'autel lorsque la première couche est sur le point d'être posée. Voir [VII, 4, 1, 7](Book_4_8_4#v8_4_1_7) seqq., où p. 45 elle est expliquée comme représentant la fondation de l'autel du feu, ou plutôt, le ventre d'où naît Agni.
+[^107]: 44:4 La feuille de lotus est placée au centre de l'autel lorsque la première couche est sur le point d'être posée. Voir [VII, 4, 1, 7](../Book_4_8_4#v8_4_1_7) seqq., où p. 45 elle est expliquée comme représentant la fondation de l'autel du feu, ou plutôt, le ventre d'où naît Agni.
 
 [^108]: 45:1 C'est-à-dire non séparé de celui-ci par d'autres briques spéciales ; bien que l'espace entier d'une brique soit laissé entre le Di<i>s</i>yâs et la brique centrale. Peut-être, cependant, « anantarhita » signifie-t-il ici « immédiatement après ».
 
@@ -215,7 +215,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^110]: 45:3 Uttara semble ici et ailleurs avoir une double signification, à savoir celle de suivant, et supérieure, ou gauche, dans la mesure où en regardant vers ces briques depuis le centre de l'autel, elles sont placées à gauche de la section particulière des anûkas.
 
-[^111]: 45:4 Voir [p. 26](Book_4_8_2#p26), note [3](Book_4_8_2#fn81).
+[^111]: 45:4 Voir [p. 26](../Book_4_8_2#p26), note [3](../Book_4_8_2#fn81).
 
 [^112]: 45:5 Les mètres sont généralement représentés comme du bétail.
 
@@ -225,7 +225,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^115]: 47:2 Bien que, à proprement parler, le Vi<i>s</i>va<i>g</i>yotis ne soit proche que d'un seul des Di<i>s</i>yâs, à savoir celui de l'est, on peut en tout cas dire qu'il se trouve près de la chaîne des Di<i>s</i>yâs. Ici aussi, le sens « immédiatement après, non séparé d'eux par le temps » conviendrait encore mieux.
 
-[^116]: 47:3 Voir [VIII, 3, 1, 4](Book_4_8_3#v8_3_1_4) avec note.
+[^116]: 47:3 Voir [VIII, 3, 1, 4](../Book_4_8_3#v8_3_1_4) avec note.
 
 [^117]: 48:1
   ![LA PARTIE CENTRALE DE LA TROISIÈME COUCHE.](/image/book/Hinduism/The_Satapatha_Brahmana/04800.jpg)
@@ -250,10 +250,10 @@ Ces deux <i>Ri</i>tavyâs</i> sont placées à côté (à l'est) des Vi<i>s</i>v
 
 [^126]: 57:2 Les formules utilisées avec ces briques, Vâ<i>g</i>. S. XIV, 11-16, constituent le premier anuvâka des textes relatifs à la troisième couche (XIV, II-22).
 
-[^127]: 57:3 Soit dix Prânabhrits, voir [VIII, 3, 2, 14](Book_4_8_3#v8_3_2_14).
+[^127]: 57:3 Soit dix Prânabhrits, voir [VIII, 3, 2, 14](../Book_4_8_3#v8_3_2_14).
 
-[^128]: 58:1 Alors que, pour poser les Lokamp<i>ri</i><i>n</i>âs des première et deuxième couches, il a commencé respectivement par les coins sud-est et sud-ouest, dans la troisième couche, il commence par la hanche gauche (ou coin nord-ouest) de l'autel, remplissant les espaces disponibles en deux tours, dans le sens du soleil. Cf. [p. 22](Book_4_8_1#p22), note [1](Book_4_8_2#fn73) ; et [p. 41](Book_4_8_2#p41), note [1](Book_4_8_2#fn94).
+[^128]: 58:1 Alors que, pour poser les Lokamp<i>ri</i><i>n</i>âs des première et deuxième couches, il a commencé respectivement par les coins sud-est et sud-ouest, dans la troisième couche, il commence par la hanche gauche (ou coin nord-ouest) de l'autel, remplissant les espaces disponibles en deux tours, dans le sens du soleil. Cf. [p. 22](../Book_4_8_1#p22), note [1](../Book_4_8_2#fn73) ; et [p. 41](../Book_4_8_2#p41), note [1](../Book_4_8_2#fn94).
 
-[^129]: 58:2 Voir [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^129]: 58:2 Voir [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^130]: 58:3 Voir [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^130]: 58:3 Voir [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

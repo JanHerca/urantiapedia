@@ -402,7 +402,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1267]: 286:1 Siroza I, 28.
 
-[^1268]: 287:1 Le même que le Hara Berezaiti, le Albôrz ultérieur ; voir [p. 58](Yasts_5#p58), note [3](Yasts_5#fn296).
+[^1268]: 287:1 Le même que le Hara Berezaiti, le Albôrz ultérieur ; voir [p. 58](../Yasts_5#p58), note [3](../Yasts_5#fn296).
 
 [^1269]: 287:2 La mer Caspienne.
 
@@ -410,9 +410,9 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1271]: 287:4 Selon les Bundahi<i>s</i>, Manusha est un autre nom du mont Zeredhô (XII, 2). C'est la montagne sur laquelle Mânû<i>s</i><i>k</i>îhar est né (ibid. 10).
 
-[^1272]: 287:5 'La montagne qui donne la compréhension, qui préserve la compréhension', le mont Ô<i>s</i>dâ<i>s</i>târ plus tardif ; voir [p. 33](Yasts_1#p33), note [1](Yasts_1#fn172).
+[^1272]: 287:5 'La montagne qui donne la compréhension, qui préserve la compréhension', le mont Ô<i>s</i>dâ<i>s</i>târ plus tardif ; voir [p. 33](../Yasts_1#p33), note [1](../Yasts_1#fn172).
 
-[^1273]: 287:6 Voir [p. 65](Yasts_5#p65), note [2](Yasts_5#fn319).
+[^1273]: 287:6 Voir [p. 65](../Yasts_5#p65), note [2](../Yasts_5#fn319).
 
 [^1274]: 287:7 Le mont Arzûr « est un sommet à la porte de l'enfer » (Bundahi<i>s</i> XII, 8 ; cf. Vend. III, 7 (23) ; XIX, 140).
 
@@ -426,11 +426,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1279]: 288:3 ? Kãsô-tafedhra ; peut-être le nom d'une montagne ; Mont Kãsô-tafedhra Vafra.
 
-[^1280]: 288:4 Voir [p. 67](Yasts_5#p67), note [4](Yasts_5#fn335).
+[^1280]: 288:4 Voir [p. 67](../Yasts_5#p67), note [4](../Yasts_5#fn335).
 
 [^1281]: 288:5 'Si<i>k</i>idâv, une montagne parmi celles qui sont dans le Kangde<i>z</i>' (Bund. XII, 2, tr. Ouest).
 
-[^1282]: 288:6 Voir [p. 7](Sirozahs_1#p7), note [5](Sirozahs_1#fn43).
+[^1282]: 288:6 Voir [p. 7](../Sirozahs_1#p7), note [5](../Sirozahs_1#fn43).
 
 [^1283]: 288:7 Le mont Siyâk-ômand (« la montagne noire ») et le mont Vafar-ômand (« la montagne enneigée ») de Bundahi<i>s</i> XII, 22, qui seraient sortis de la crête d'Apârsên et s'étendraient vers la Chine.
 
@@ -440,13 +440,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1286]: 289:3 La montagne Kôîrâs à Îrân-Vê<i>g</i> (Bund. XII, 25).
 
-[^1287]: 289:4 Cf. Yt. XV, 7, et [p. 58](Yasts_5#p58), note [2](Yasts_5#fn295).
+[^1287]: 289:4 Cf. Yt. XV, 7, et [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
 
-[^1288]: 289:5 Voir [p. 8](Sirozahs_1#p8), notes [1](Sirozahs_1#fn46) et [2](Sirozahs_1#fn47).
+[^1288]: 289:5 Voir [p. 8](../Sirozahs_1#p8), notes [1](../Sirozahs_1#fn46) et [2](../Sirozahs_1#fn47).
 
 [^1289]: 289:6 'Les autres montagnes sont sorties d'Albûr<i>z</i>, au nombre de 2244' (Bund. XII, 2).
 
-[^1291]: 289:7 Voir les notes de Yt. III, 17 ([p. 47](Yasts_3#p47)).
+[^1291]: 289:7 Voir les notes de Yt. III, 17 ([p. 47](../Yasts_3#p47)).
 
 [^1292] : 290 : 1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
 
@@ -458,7 +458,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1296] : 291 : 1 §§ 19-20 = §§ 11-12.
 
-[^1297]: 291:2 Les Saoshya<i>n</i><i>t</i>s ; voir [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^1297]: 291:2 Les Saoshya<i>n</i><i>t</i>s ; voir [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^1298] : 291 : 3 §§ 23-24 = §§ 19-20.
 
@@ -482,13 +482,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1308]: 294:1 A<i>z</i>i Dahâka et ses disciples.
 
-[^1309]: 294:2 La Gloire est décrite comme s'éloignant trois fois, car elle est triple, selon qu'elle appartient au roi considéré comme prêtre, guerrier ou cultivateur. Par ce triple caractère, elle est identique à Âdar Frobâ, Âdar Gushasp et Âdar Bûrzîn Mihr ([p. 7](Sirozahs_1#p7), notes).
+[^1309]: 294:2 La Gloire est décrite comme s'éloignant trois fois, car elle est triple, selon qu'elle appartient au roi considéré comme prêtre, guerrier ou cultivateur. Par ce triple caractère, elle est identique à Âdar Frobâ, Âdar Gushasp et Âdar Bûrzîn Mihr ([p. 7](../Sirozahs_1#p7), notes).
 
 [^1310]: 294:3 Un corbeau, une des incarnations du Génie de la Victoire (Yt. XIV, 18-21 ; cf. ibid. § 35).
 
 [^1311]: 294:4 Cf. Yt. V, 34.
 
-[^1312]: 295:1 Voir V, 37 (pp. [62](Yasts_5#p62)\-[63](Yasts_5#p63), et notes) ; XIII, 136 ; XV, 27.
+[^1312]: 295:1 Voir V, 37 (pp. [62](../Yasts_5#p62)\-[63](../Yasts_5#p63), et notes) ; XIII, 136 ; XV, 27.
 
 [^1313]: 295:2 Cf. Yasna IX, II (34-39). Ce récit appartient au cycle répandu de l'île-baleine (baleine dont le dos est pris par les marins pour une île ; ils y accostent, y font cuire leur nourriture, et le monstre, réveillé par la chaleur, s'envole et les emporte : voir Les Mille et Une Nuits, Soixante et onzième Nuit ; Babâ Bathrâ, 5).
 
@@ -513,7 +513,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
   Se hérisser le menton et promettre à l'homme,
   Apollon lui adressa ses traits.' (Pape.)
 
-[^1324]: 297:2 La Gloire sacerdotale ; voir [p. 11](Sirozahs_1#p11), note [6](Sirozahs_1#fn78), cf. § 53.
+[^1324]: 297:2 La Gloire sacerdotale ; voir [p. 11](../Sirozahs_1#p11), note [6](../Sirozahs_1#fn78), cf. § 53.
 
 [^1323]: 297:3 Lorsqu'il fut parti de Yima.
 
@@ -525,7 +525,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1329]: 298:2 Douteux.
 
-[^1330]: 299:1 Apãm Napâ<i>t</i>; voir [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^1330]: 299:1 Apãm Napâ<i>t</i>; voir [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^1331]: 299:2 Une allusion aux anciens mythes sur l'origine ignée de la vie (Ormazd et Ahriman, § 78).
 
@@ -561,7 +561,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1347]: 302:3 Le Helmend (Étymandres ; cf. Vend. I, 14).
 
-[^1348]: 302:4 Le siège du <i>H</i><i>v</i>arenô; voir [p. 33](Yasts_1#p33), note [1](Yasts_1#fn172), [p. 287](#p287), note [^1210], et Introduction à Yt. XVIII.
+[^1348]: 302:4 Le siège du <i>H</i><i>v</i>arenô; voir [p. 33](../Yasts_1#p33), note [1](../Yasts_1#fn172), [p. 287](#p287), note [^1210], et Introduction à Yt. XVIII.
 
 [^1349]: 302:5 L'eau des rivières dans lesquelles se trouve la Gloire, et au milieu desquelles le Kavi a été nourri.
 
@@ -569,7 +569,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1352]: 303:1 Douteux.
 
-[^1353]: 303:2 Voir [p. 182](Yasts_13#p182), note [2](Yasts_13#fn817).
+[^1353]: 303:2 Voir [p. 182](../Yasts_13#p182), note [2](../Yasts_13#fn817).
 
 [^1354]: 303:3 Voir Yt. XIII, § 132.
 
@@ -579,7 +579,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1357]: 304:2 Keresavazda, le Karsîvaz de Firdausi, le frère d'Afrâsyâb et le meurtrier de Syâvarshâna : il fut mis à mort par Husravah en compagnie de son frère (Études Iraniennes, II, 227).
 
-[^1358]: 304:3 Voir [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545).
+[^1358]: 304:3 Voir [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545).
 
 [^1359]: 305:1 Voir Vend. XX, 10.
 
@@ -599,13 +599,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1367]: 306:1 §§ 85-86 = Yt. XIII, 99-100.
 
-[^1368]: 306:2 Ou « avec sa lance poussée vers l'avant » ; voir [p. 205](Yasts_13#p205), note [1](Yasts_13#fn924).
+[^1368]: 306:2 Ou « avec sa lance poussée vers l'avant » ; voir [p. 205](../Yasts_13#p205), note [1](../Yasts_13#fn924).
 
 [^1369]: 306:3 Cf. Yt. V, 109.
 
 [^1370] : 306 : 4 §§ 89-90 = §§ 11-12.
 
-[^1371]: 306:5 Voir [p. 117](Yasts_9#p117), note [6](Yasts_9#fn555).
+[^1371]: 306:5 Voir [p. 117](../Yasts_9#p117), note [6](../Yasts_9#fn555).
 
 [^1372]: 307:1 Saoshya<i>n</i><i>t</i>; cf. Yt. XIII, 129.
 
@@ -617,7 +617,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1376]: 307:5 Ou « le démon ».
 
-[^1377]: 307:6 Ce vers est en contradiction avec ce que nous savons de la légende de Frangrasyan, à moins que le texte ne soit corrompu et que le nom de Frangrasyan ait été introduit ici par erreur (pour Keresâspa ?). Pourtant, il peut faire allusion à des aspects plus brillants, inconnus de nous, du héros touranien : le Taureau (g<i>a</i>u<i>s</i>) pourrait être son frère Aghraêratha, l'Homme-Taureau (Gôpatishâh) ; voir [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545).
+[^1377]: 307:6 Ce vers est en contradiction avec ce que nous savons de la légende de Frangrasyan, à moins que le texte ne soit corrompu et que le nom de Frangrasyan ait été introduit ici par erreur (pour Keresâspa ?). Pourtant, il peut faire allusion à des aspects plus brillants, inconnus de nous, du héros touranien : le Taureau (g<i>a</i>u<i>s</i>) pourrait être son frère Aghraêratha, l'Homme-Taureau (Gôpatishâh) ; voir [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545).
 
 [^1378]: 307:7 Voir § 77.
 
@@ -629,7 +629,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1382]: 308:4 Un nom du Drogue.
 
-[^1383]: 308:5 Voir [p. 220](Yasts_13#p220), note [1](Yasts_13#fn981).
+[^1383]: 308:5 Voir [p. 220](../Yasts_13#p220), note [1](../Yasts_13#fn981).
 
 [^1384]: 308:6 Voir [p. 297](#p297), note [^1261].
 

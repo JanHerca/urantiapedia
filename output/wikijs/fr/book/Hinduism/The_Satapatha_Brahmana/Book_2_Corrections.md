@@ -62,7 +62,7 @@ P. 210, note 1. Lire deux fois : « <i>s</i>astra » au lieu de « <i>s</i>âstr
 
 P. 221, l. 4 seq. Au lieu de « Avant que les Rakshas (viennent) », le dict. de BR interprète, peut-être à juste titre, « En sécurité des Rakshas ».
 
-P. 263, par. 27. — Ces mêmes divinités . . .; pour une traduction améliorée, cf. [IV, 4, 4, 5](Book_2_4_4#v4_4_4_5)\-[6](Book_2_4_4#v4_4_4_6).
+P. 263, par. 27. — Ces mêmes divinités . . .; pour une traduction améliorée, cf. [IV, 4, 4, 5](../Book_2_4_4#v4_4_4_5)\-[6](../Book_2_4_4#v4_4_4_6).
 
 P. 308, l. 21. Au lieu de « et en pressant », lire « à savoir, en pressant ».
 

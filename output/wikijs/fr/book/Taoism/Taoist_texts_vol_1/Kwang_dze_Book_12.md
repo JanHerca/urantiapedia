@@ -134,7 +134,7 @@ Mais les voies qu'ils ont choisies ne sont pas ce que j'appelle la bonne voie. C
 
 ## Notes de bas de page
 
-[^462] : 307:1 Voir pp. [143](Kwang_dze_Intro#p143), [144](Kwang_dze_Intro#p144).
+[^462] : 307:1 Voir pp. [143](../Kwang_dze_Intro#p143), [144](../Kwang_dze_Intro#p144).
 
 [^463]: 307:2 Impliquant que ce dirigeant, « le Fils du Ciel », n'est qu'un seul.
 

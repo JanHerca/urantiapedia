@@ -628,7 +628,7 @@ Vous entendez parfois des tons doux et moyens
 Le carillon des bracelets de cheville, des bagues et des zones.
 Vous entendez la chanson et le son de la musique,
 Et un parfum céleste souffle autour,
-Là brûlent dûment les triples feux [1](Book_4_20#fn578)
+Là brûlent dûment les triples feux [1](../Book_4_20#fn578)
 Où monte la fumée en flèches ondulantes,
 Et, dans une couronne de dun, pend au-dessus
 Les grands arbres, comme une colombe qui couve.
@@ -743,7 +743,7 @@ Sous le règne d'un monarque ignoble.
 Le cerf, dans une confusion sauvage, s'enfuit
 Comme des chevaux tournés vers l'avant-garde de la bataille.
 Les oiseaux tombèrent, comme des dieux qui tombent
-Quand les mérites échouent, [1](Book_4_20#fn579), à cet appel redoutable.
+Quand les mérites échouent, [1](../Book_4_20#fn579), à cet appel redoutable.
 Si férocement, enhardi pour la mêlée,
 La progéniture du Seigneur du Jour
 Il poussa un cri furieux aussi fort
@@ -964,7 +964,7 @@ Bali, à moitié vaincu, coula et chancela,
 Comme coule un navire avec sa cargaison
 Soutenu par un poids écrasant.
 
-Rapide comme le vol le plus rapide de Suparna [1](Book_4_20#fn583)
+Rapide comme le vol le plus rapide de Suparna [1](../Book_4_20#fn583)
 Avec une force terrible, ils se précipitèrent pour combattre :
 Ainsi le soleil et la lune là-haut
 Rencontre avec une bataille dans le ciel.
@@ -987,7 +987,7 @@ Et il posa sa flèche sur l'arc.
 Comme un globe, l'arc qu'il tirait
 La flèche s'est envolée de la corde
 Comme le formidable disque du destin lancé
-Par Yama [2](Book_4_20#fn584) pour mettre fin au monde.
+Par Yama [2](../Book_4_20#fn584) pour mettre fin au monde.
 Le vacarme est si fort que chaque oiseau
 Les clans de la corde de l'arc ont entendu avec terreur,
 Et le cerf effrayé s'enfuit sauvagement
@@ -1001,7 +1001,7 @@ Il a percé la poitrine de Báli et a tremblé.
 Frappé par la flèche qui a si bien volé
 Le puissant Vánar chancela et tomba,
 Comme le drapeau d'Indra vers la terre, ils tirent
-Quand la belle lune d'As'víní est pleine [3](Book_4_20#fn585)
+Quand la belle lune d'As'víní est pleine [3](../Book_4_20#fn585)
 
 
 
@@ -1220,8 +1220,8 @@ Oui, elle aurait été plongée dans les profondeurs de l'enfer,
 Ou submergé par la houle de l'océan,
 J'aurais suivi ses traces
 Et ramena la dame sauvée,
-Comme Hayagríva [1](Book_4_20#fn595) une fois libérée
-De l'enfer le blanc As'vatarí. [2](Book_4_20#fn596)
+Comme Hayagríva [1](../Book_4_20#fn595) une fois libérée
+De l'enfer le blanc As'vatarí. [2](../Book_4_20#fn596)
 Que lorsque mon esprit prend son envol
 Le règne de Sugríva est juste et équitable.
 Mais c'est très injuste, ô Roi, que je
@@ -1229,7 +1229,7 @@ Tué par ta main traîtresse, devrait gîter,
 Sois tranquille, mon cœur : cet état terrestre
 Est sombrement gouverné par le destin souverain.
 Le royaume est perdu et gagné : défiez
-Tes questionneurs avec une réponse appropriée.' [3](Book_4_20#fn597)
+Tes questionneurs avec une réponse appropriée.' [3](../Book_4_20#fn597)
 
 
 

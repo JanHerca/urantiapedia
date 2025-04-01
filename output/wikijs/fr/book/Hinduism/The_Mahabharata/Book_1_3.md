@@ -70,7 +70,7 @@ Sauti dit : « Ô Brahmane, ayant entendu ces paroles du dieu du feu, le Rakshas
 
 Bhrigu vit son enfant Chyavana et sa belle mère. Le Rishi, furieux, lui demanda : « Par qui as-tu été révélée à ce Rakshasa qui avait décidé de t'enlever ? Ô toi au sourire agréable, le Rakshasa ne pouvait te reconnaître comme ma ruse. Dis-moi donc qui a dit cela au Rakshasa, afin que je puisse le maudire par ma colère. » Et Pauloma répondit : « Ô toi qui possèdes les six attributs ! J'ai été identifiée au Rakshasa par Agni (le dieu du feu). Et il (le Rakshasa) m'a emportée, qui a crié comme le Kurari (balbuzard pêcheur femelle). Et ce n'est que par la splendeur ardente de ton fils que j'ai été sauvée, car le Rakshasa (voyant cet enfant) m'a lâchée et, tombant à terre, il a été réduit en cendres. »
 
-Sauti poursuivit : « Bhrigu, en entendant ce récit de Pauloma, entra dans une fureur extrême. Et, dans son emportement, le Rishi maudit Agni en disant : “Tu mangeras de tout.” »
+Sauti poursuivit : « Bhrigu, en entendant ce récit de Pauloma, entra dans une fureur extrême. Et, dans son emportement, le Rishi maudit Agni en disant : « Tu mangeras de tout. » »
 
 Ainsi se termine la sixième section intitulée « la malédiction d’Agni » dans l’Adi Parva.
 

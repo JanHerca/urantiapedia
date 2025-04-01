@@ -281,7 +281,7 @@ Beaucoup moins révélé aux autres hommes.
 Ces bras pour lui, quand il oscillait sur la terre,
 Le puissant Kris'ás'va, satisfait, a transmis.
 Ils sont vraiment les fils de Kris'ás'va,
-Né de la belle graine de Daksha, [1](Book_1_30#fn145)
+Né de la belle graine de Daksha, [1](../Book_1_30#fn145)
 Hérauts de la conquête, forts et audacieux,
 Brillant, d'apparence multiple.
 Jayá et Vijayá, les plus beaux,
@@ -456,7 +456,7 @@ Et brûlé tous les membres.
 Depuis la terrible rage du grand Dieu
 Détruit sa forme et son corps,
 Káma à chaque âge successif
-A porté le nom d'Ananga [1](Book_1_30#fn156).
+A porté le nom d'Ananga [1](../Book_1_30#fn156).
 Alors, là où sa belle forme s'est décomposée,
 Ce terrain est de style Anga :
 Cette ombre lui était autrefois sacrée,
@@ -856,7 +856,7 @@ Et comme il l'avait ordonné, il passa cette nuit-là
 Dans la forêt sauvage de Tádaká, content.
 Et le bosquet brillait ce jour heureux,
 Libéré de la malédiction qui pesait sur lui,
-Comme Chaitraratha [1](Book_1_30#fn163) juste et gai.
+Comme Chaitraratha [1](../Book_1_30#fn163) juste et gai.
 
 
 

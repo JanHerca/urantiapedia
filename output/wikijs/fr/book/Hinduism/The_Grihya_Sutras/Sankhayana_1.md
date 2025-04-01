@@ -986,7 +986,7 @@ En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqu
 
 [^53]: 26:24-25 24, 25. Râma<i>k</i>andra : 'Il verse de l'eau dans le Sruva et le purifie également, comme il l'avait fait avec l'Â<i>k</i>ya (Sûtra 21) . . . . Il verse ensuite une petite partie de cette eau sur l'eau Pra<i>k</i>îtâ (voir ci-dessus, Sûtra 8), et avec le reste, qui est appelé l'eau Proksha<i>k</i>î, il asperge la nourriture sacrificielle, le combustible et les Barhis.'
 
-[^54]: 26:1 9, 1. 'Lorsqu'aucune règle spéciale n'est énoncée, le Sruva doit être compris comme le récipient (pour l'offrande). Ainsi, la règle, “Le _G<i>uhû est le récipient” (<i>S</i>rauta-sûtra III, 19, 5) est abolie (car le G<i>uhû est le récipient” (</i>rites hya).' Nârâya<i>uhû est le récipient” (</i>a.
+[^54]: 26:1 9, 1. 'Lorsqu'aucune règle spéciale n'est énoncée, le Sruva doit être compris comme le récipient (pour l'offrande). Ainsi, la règle, « Le _G<i>uhû est le récipient » (<i>S</i>rauta-sûtra III, 19, 5) est abolie (car le G<i>uhû est le récipient” (</i>rites hya).' Nârâya<i>uhû est le récipient” (</i>a.
 
 [^55]: 26:3 La manière de tenir le Sruva dans lequel se trouve l'Â<i>g</i>ya est décrite par Kâtyâyana, <i>S</i>raut. I, 10, 6 seq., note de Stenzler sur Pâraskara I, 1, 4.
 
@@ -1008,7 +1008,7 @@ En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqu
 
 [^64]: 30:1 10, 1. 'Comme dans le rituel Srauta le sacrifice de la pleine et de la nouvelle lune constitue la norme pour les isht_is, le rituel parauta le sacrifice de la pleine et de la nouvelle lune constitue la norme pour l'ishubandha, etc., ainsi le rituel pratirauta le sacrifice de la pleine et de la nouvelle lune constitue la norme pour l'ishrut-kalpa est la norme pour le rituel vikrauta le sacrifice de la pleine et de la nouvelle lune constitue la norme pour les ishtis du rituel Smârta, tels que le gâtakarman (chap. 24), etc.' Le rituel Nârâyarauta le sacrifice de la pleine et de la nouvelle lune constitue la norme pour l'isha.
 
-[^65]: 30:3 'C'est la norme des sacrifices prescrits dans les règles : “L'animal (offert) au maître est sacré pour Agni ; pour un prêtre officiant, pour B<i>ri</i>haspati, etc..”' Nârâya<i>ri</i>a. Ceci fait référence au sacrifice d'animaux qui fait partie de la cérémonie d'Arghya ; voir II, 15, 4 ss.
+[^65]: 30:3 'C'est la norme des sacrifices prescrits dans les règles : « L'animal (offert) au maître est sacré pour Agni ; pour un prêtre officiant, pour B<i>ri</i>haspati, etc.. »' Nârâya<i>ri</i>a. Ceci fait référence au sacrifice d'animaux qui fait partie de la cérémonie d'Arghya ; voir II, 15, 4 ss.
 
 [^66]: 30:4 _K<i>arû</i>n<i>arû</i>m<i>arû</i>g_<i>arû</i>ânâ_m<i>arû</i>k_a. Nârâya<i>arû</i>a.
 
@@ -1107,7 +1107,7 @@ Français Sur ku<i>s</i>aka<i>s</i><i>s</i>aka Nârâya<i>s</i>a dit : ku<i>s</i
 
 [^111]: 52:7 Le premier Mantra est corrompu ; dans l'Â<i>valâyana-</i>valâyana-<i>S</i>rauta-sûtra (II, 10, 4) son texte est ainsi : âyush _t<i>valâyana-</i>s<i>valâyana-</i>n<i>valâyana-</i>h_, etc. Comp. Atharva-veda VII, 53, 6.
 
-[^112]: 52:11 'Les mots “chaque mois” (Sûtra 10) conservent leur valeur p. 53 (ici aussi). Ainsi, le sûtikâgni doit être conservé pendant un an. Après l'écoulement de cette année, il faut sacrifier chaque mois sur le feu domestique aussi longtemps que dure sa vie. Comme il est dit “dans le feu domestique”, le sûtikâgni ne doit pas être conservé plus longtemps.' Nârâya<i>n</i>a.
+[^112]: 52:11 'Les mots « chaque mois » (Sûtra 10) conservent leur valeur p. 53 (ici aussi). Ainsi, le sûtikâgni doit être conservé pendant un an. Après l'écoulement de cette année, il faut sacrifier chaque mois sur le feu domestique aussi longtemps que dure sa vie. Comme il est dit « dans le feu domestique », le sûtikâgni ne doit pas être conservé plus longtemps.' Nârâya<i>n</i>a.
 
 [^113]: 53:1 26, 1. Ce chapitre ne se trouve pas dans le Sâmbavya-Grihya, et Nârâyaria le désigne expressément comme kshepaka kharia. C'est une sorte d'appendice aux Sûtras 25, 5. 6 ; un sacrifice y ayant été prescrit à trois Nakshatras et à leurs divinités présidantes, une énumération des Nakshatras et des divinités est donnée ici. Comparer, sur des listes similaires, le deuxième article de Weber sur les Nakshatras suivants (Abhandlungen der Berliner Akademie der Wissenschaften, 1861), pp. 289, 315, 367 et suivantes.
 

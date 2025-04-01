@@ -273,7 +273,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v2_3_4_4040"><sup><small>2:3:4:4040.</small></sup></span> Ensuite, un verset à Agni (Vâ<i>g</i>. S. III, 36), par lequel il se confie finalement à Agni pour sa protection : « Que ton char inaccessible, avec lequel tu protèges les adorateurs, nous encercle de tous côtés ! » Les adorateurs, sans aucun doute, sont <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> les sacrificateurs ; et quel char inattaquable il (Agni) possède, avec lequel il protège les sacrificateurs. Il veut donc dire par là : « quel char inattaquable tu possèdes, avec lequel tu protèges les sacrificateurs, avec lequel tu nous gardes de tous côtés. » Il marmonne ce (verset) trois fois.
 
-<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span> Il prononce alors le nom de son fils [1](Book_1_2_4#fn787) : « Que ce fils (NN) poursuive cette action virile que j'ai accomplie ! » S'il n'a pas de fils, qu'il insère son propre nom.
+<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span> Il prononce alors le nom de son fils [1](../Book_1_2_4#fn787) : « Que ce fils (NN) poursuive cette action virile que j'ai accomplie ! » S'il n'a pas de fils, qu'il insère son propre nom.
 
 <figure class="table chapter-navigator">
   <table>
@@ -313,7 +313,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^749]: 331:1 Selon Kâty. IV, 14, 5, l'Adhvaryu illumine le lait avec une paille enflammée ; y verse de l'eau avec la sruva ou cuillère à tremper ; puis l'illumine une fois de plus ; et soulève le pot trois fois de suite, le posant chaque fois plus au nord du feu. Ensuite, il réchauffe les deux cuillères ; et les essuie avec sa main ; et après les avoir réchauffées une fois de plus, il dit au sacrificateur : « Je verse ! » Ce dernier, debout, répond : « Om, verse ! »
 
-[^750]: 331:2 Pour l'Agnihotra-hava<i>n</i>î, ou cuillère d'offrande (sru<i>k</i>), utilisée lors des libations du matin et du soir, et fabriquée en bois de Vikankata (Flacourtia Sapida), voir [p. 67](Book_1_1_2#p67), note [2](Book_1_1_3#fn207). Dans le cas de ceux qui font cinq coupes du havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](Book_1_1_7#p192) note), il prend cinq sruva-fuls. Kâty. IV, 14, 10, Comm.
+[^750]: 331:2 Pour l'Agnihotra-hava<i>n</i>î, ou cuillère d'offrande (sru<i>k</i>), utilisée lors des libations du matin et du soir, et fabriquée en bois de Vikankata (Flacourtia Sapida), voir [p. 67](../Book_1_1_2#p67), note [2](../Book_1_1_3#fn207). Dans le cas de ceux qui font cinq coupes du havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](../Book_1_1_7#p192) note), il prend cinq sruva-fuls. Kâty. IV, 14, 10, Comm.
 
 [^751]: 331:3 C'est-à-dire par les quatre trayons du pis. Comm.
 
@@ -359,7 +359,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^772]: 338:5 Ici, Yama est apparemment pris comme (le dieu de) la mort et de la destruction, causées, comme le suggère le professeur Weber, par les expéditions guerrières de Na<i>d</i>a, roi de Nishadha, dans le sud.
 
-[^773]: 339:1 C'est-à-dire le feu sur lequel est cuit le plat de riz Anvâhârya, le Dakshi<i>n</i>a des prêtres lors du sacrifice de la nouvelle lune et de la pleine lune. Voir I, 2, 3, 5 ; [p. 49](Book_1_1_2#p49), note [1](Book_1_1_2#fn173).
+[^773]: 339:1 C'est-à-dire le feu sur lequel est cuit le plat de riz Anvâhârya, le Dakshi<i>n</i>a des prêtres lors du sacrifice de la nouvelle lune et de la pleine lune. Voir I, 2, 3, 5 ; [p. 49](../Book_1_1_2#p49), note [1](../Book_1_1_2#fn173).
 
 [^774]: 342:1 Ity âbilam âsa, c'est-à-dire « il y a eu une (ruée générale) vers un trou » (ou peut-être « vers la sortie »).
 
@@ -393,4 +393,4 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^789]: 354:1 Doshâvastar, « l'illuminateur du crépuscule » ; ou peut-être, comme le propose le professeur Ludwig, « Nous nous approchons de toi, jour après jour, au crépuscule et à l'aube (le soir et le matin), avec la prière. »
 
-[^790]: 356:1 Ou, la Sâvitrî, ​​c'est-à-dire la prière sacrée à Savi<i>ri</i>, le soleil, également appelé Gâyatrî, Rig-veda III, 62, à. Cf. [p. 344](Book_1_2_3#p344), note [1](Book_1_2_3#fn772).
+[^790]: 356:1 Ou, la Sâvitrî, ​​c'est-à-dire la prière sacrée à Savi<i>ri</i>, le soleil, également appelé Gâyatrî, Rig-veda III, 62, à. Cf. [p. 344](../Book_1_2_3#p344), note [1](../Book_1_2_3#fn772).

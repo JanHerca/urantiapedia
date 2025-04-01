@@ -70,13 +70,13 @@ Français L'exemplaire que j'ai utilisé appartient à une réédition datée de
 
 ## Notes de bas de page
 
-[^79]: xxx:1 Voir _supra_, [p. xx](Introduction_1#pxx).
+[^79]: xxx:1 Voir _supra_, [p. xx](../Introduction_1#pxx).
 
 [^80]: xxxi:1 #.
 
 [^81]: xxxi:2 Voir #.
 
-[^82]: xxxi:3 Mentionné à [p. xvii](Introduction_1#pxvii), note [3](Introduction_1#fn_31).
+[^82]: xxxi:3 Mentionné à [p. xvii](../Introduction_1#pxvii), note [3](../Introduction_1#fn_31).
 
 [^83]: xxxi:4 _Loc. cit._: #.
 

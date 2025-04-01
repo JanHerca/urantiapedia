@@ -96,8 +96,8 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^1222]: 337:10 La règle sur laquelle reposent tous les règlements de cette Mishna est qu'il n'y a jamais de placenta sans fœtus.
 
-[^1223]: 338:11 Voir Note 2, [p. 333](Treatise14_Pesachim_8#p333) de ce Traité.
+[^1223]: 338:11 Voir Note 2, [p. 333](../Treatise14_Pesachim_8#p333) de ce Traité.
 
-[^1224]: 338:12 Pour la raison indiquée Note 10, page [335](Treatise14_Pesachim_8#p335); et tout jeune animal né d'un animal qui a été consacré pour le sacrifice, devient également consacré.
+[^1224]: 338:12 Pour la raison indiquée Note 10, page [335](../Treatise14_Pesachim_8#p335); et tout jeune animal né d'un animal qui a été consacré pour le sacrifice, devient également consacré.
 
 [^1225]: 338:13 Telles étaient les pratiques superstitieuses des païens, qui s'imaginaient que par ces moyens ils pourraient prévenir les avortements parmi leur bétail.

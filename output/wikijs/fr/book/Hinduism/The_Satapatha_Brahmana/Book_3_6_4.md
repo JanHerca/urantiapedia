@@ -81,7 +81,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v6_4_2_99"><sup><small>6:4:2:99.</small></sup></span> \[Vâ<i>g</i>. S. XI, 37; <i>Ri</i>k S. I, 36, 9\] 'Assieds-toi, tu es grand' — il fait maintenant s'établir la semence infusée, d'où s'établit la semence infusée dans l'utérus ; — 'brûle-toi, le meilleur réjouisseur des dieux !' — c'est-à-dire, 'brille, le meilleur réjouisseur des dieux ; envoie, ô Agni, digne participant de l'offrande, ta fumée voyante et rougeoyante !' car lorsqu'il (Agni) est allumé, il envoie sa fumée voyante, — la voyante, car elle, pour ainsi dire, se montre.
 
-<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span> Ces (versets) totalisent six, — six saisons sont une année, et Agni est l'année : aussi grande qu'est Agni, aussi grande que soit sa mesure, aussi grande devient-elle. Et ce qui devient comme l'année, devient comme le B<i>ri</i>hatî ; car l'année est le B<i>ri</i>hatî, — douze pleines lunes, douze huitièmes jours [1](Book_3_6_4#fn443) (de la quinzaine de lune décroissante), douze nouvelles lunes, ce qui fait trente-six, et le B<i>ri</i>hatî se compose de trente-six syllabes. Il la prend (la motte d'argile) du côté droit (sud) au côté gauche (nord) (du trou), car du côté droit la graine est infusée dans l'utérus ; et ce (trou) est maintenant son utérus (celui d'Agni). Il la prend là sans s'arrêter, afin de ne pas arrêter la graine.
+<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span> Ces (versets) totalisent six, — six saisons sont une année, et Agni est l'année : aussi grande qu'est Agni, aussi grande que soit sa mesure, aussi grande devient-elle. Et ce qui devient comme l'année, devient comme le B<i>ri</i>hatî ; car l'année est le B<i>ri</i>hatî, — douze pleines lunes, douze huitièmes jours [1](../Book_3_6_4#fn443) (de la quinzaine de lune décroissante), douze nouvelles lunes, ce qui fait trente-six, et le B<i>ri</i>hatî se compose de trente-six syllabes. Il la prend (la motte d'argile) du côté droit (sud) au côté gauche (nord) (du trou), car du côté droit la graine est infusée dans l'utérus ; et ce (trou) est maintenant son utérus (celui d'Agni). Il la prend là sans s'arrêter, afin de ne pas arrêter la graine.
 
 
 <span id="v4_4_3"><sup><small>4:4:3</small></sup></span>
@@ -187,13 +187,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^438]: 215:1 Concernant la peau de l'antilope noire, considérée comme un symbole du culte et de la civilisation brahmaniques, voir partie i, p. 23, note 2. Quant aux cheveux blancs et noirs représentant les versets des hymnes (<i>ri</i><i>k</i>) et les airs (sâman), et ceux de couleur indécise les formules Ya<i>g</i>us, voir I, 1, 4, 2.
 
-[^439]: 215:2 C'est-à-dire parce que de la parole les eaux ont été produites ([VI, 1, 1, 9](Book_3_6_1#v6_1_1_9)) et d'elles la feuille de lotus a jailli. Sây.
+[^439]: 215:2 C'est-à-dire parce que de la parole les eaux ont été produites ([VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9)) et d'elles la feuille de lotus a jailli. Sây.
 
-[^440]: 216:1 Voir [p. 201](Book_3_6_3#p201), note [1](Book_3_6_3#fn415).
+[^440]: 216:1 Voir [p. 201](../Book_3_6_3#p201), note [1](../Book_3_6_3#fn415).
 
-[^441]: 217:1 Voir [p. 201](Book_3_6_3#p201), note [1](Book_3_6_3#fn415).
+[^441]: 217:1 Voir [p. 201](../Book_3_6_3#p201), note [1](../Book_3_6_3#fn415).
 
-[^442]: 217:2 ? Ou, de chaque prêtre (vi<i>s</i>vasya vâghata<i>h</i>). Rien ne permet de montrer comment l'auteur de cette partie du Brâhma<i>n</i>a interprète 'vâghat'. Cf. [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).—Le professeur Ludwig (<i>Ri</i>k S. VI, 16, 13) traduit 'de la tête du prêtre Vi<i>s</i>va'. Mahîdhara propose plusieurs interprétations, selon lesquelles 'vâghata<i>h</i>' peut être pris comme nom. pluriel, le verbe étant à nouveau fourni au pluriel, « les prêtres t'ont produit à partir de la tête de l'univers », ou « les prêtres de l'univers (ou tous les prêtres) t'ont produit », ou « vâghata<i>h</i> » peut être un singulier ablatif, comme « mûrdhna<i>h</i> », qualifiant « pushkarât », du lotus, la tête, le chef (ou, le démarreur, vâhakât) de l'univers.
+[^442]: 217:2 ? Ou, de chaque prêtre (vi<i>s</i>vasya vâghata<i>h</i>). Rien ne permet de montrer comment l'auteur de cette partie du Brâhma<i>n</i>a interprète 'vâghat'. Cf. [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).—Le professeur Ludwig (<i>Ri</i>k S. VI, 16, 13) traduit 'de la tête du prêtre Vi<i>s</i>va'. Mahîdhara propose plusieurs interprétations, selon lesquelles 'vâghata<i>h</i>' peut être pris comme nom. pluriel, le verbe étant à nouveau fourni au pluriel, « les prêtres t'ont produit à partir de la tête de l'univers », ou « les prêtres de l'univers (ou tous les prêtres) t'ont produit », ou « vâghata<i>h</i> » peut être un singulier ablatif, comme « mûrdhna<i>h</i> », qualifiant « pushkarât », du lotus, la tête, le chef (ou, le démarreur, vâhakât) de l'univers.
 
 [^443]: 219:1 Ainsi, l'auteur interprète évidemment 'vídâna<i>h</i>', au lieu de 'se trouvant', 'étant trouvé', comme c'est son vrai sens.
 
@@ -203,7 +203,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^446]: 221:2 Avec son doigt « sans nom » (ou petit), il pousse un peu de terre meuble dans le trou, d'abord des côtés avant (est) et arrière (ouest), puis des côtés droit (sud) et gauche (nord). Ainsi, selon Kâty. XVI, 3, 4, le mouvement solaire est p. 222 obtenu par la main se déplaçant de l'est (le long du sud) vers l'ouest, puis du sud (le long de l'ouest) vers le nord.
 
-[^447]: 222:1 Voir [VI, 3 1, 27](Book_3_6_3#v6_3_1_27).
+[^447]: 222:1 Voir [VI, 3 1, 27](../Book_3_6_3#v6_3_1_27).
 
 [^448]: 222:2 Voir <i>Ri</i>k S. VIII, 23, 5, différant considérablement.
 
@@ -211,20 +211,20 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^451]: 223:2 Ou, un gagnant—gagne.
 
-[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. Voir [p. 217](Book_3_6_4#p217), note [2](Book_3_6_4#fn441).
+[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. Voir [p. 217](../Book_3_6_4#p217), note [2](../Book_3_6_4#fn441).
 
-[^453]: 223:4 Voir [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^453]: 223:4 Voir [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
 [^454]: 224:1 Pour la cérémonie d'« équipement » d'Agni, voir partie i, p. 276, note 1.
 
-[^455]: 224:2 C'est-à-dire que le feu peut être tiré du bois sec. Voir aussi I, 6, 4, 5, où il est dit que Soma, fréquemment identifié à Agni (voir [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1)), descend sur terre à la nouvelle lune et pénètre dans les eaux et les plantes afin d'en renaître.
+[^455]: 224:2 C'est-à-dire que le feu peut être tiré du bois sec. Voir aussi I, 6, 4, 5, où il est dit que Soma, fréquemment identifié à Agni (voir [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1)), descend sur terre à la nouvelle lune et pénètre dans les eaux et les plantes afin d'en renaître.
 
-[^456]: 225:1 Littéralement, le porteur d'Agni de ce qui convient au bétail, ou peut-être, sois-tu, pour Agni, le porteur de (lui-même) favorable au bétail ; — 'pa<i>s</i>avya' étant ici comme ailleurs utilisé (voir [p. 201](Book_3_6_3#p201), note \*[1](Book_3_6_3#fn415)\*) pour expliquer 'purîsha', ce qui remplit le moule ou le sol utilisé comme mortier pour les couches de briques, dans la construction de l'autel du feu.
+[^456]: 225:1 Littéralement, le porteur d'Agni de ce qui convient au bétail, ou peut-être, sois-tu, pour Agni, le porteur de (lui-même) favorable au bétail ; — 'pa<i>s</i>avya' étant ici comme ailleurs utilisé (voir [p. 201](../Book_3_6_3#p201), note \*[1](../Book_3_6_3#fn415)\*) pour expliquer 'purîsha', ce qui remplit le moule ou le sol utilisé comme mortier pour les couches de briques, dans la construction de l'autel du feu.
 
 [^457]: 225:2 En raison de sa comparaison avec le cheval, Sây. L'auteur fait probablement allusion à l'air abattu et sans énergie de l'âne, comparé à celui du cheval. Le mot « <i>s</i>u<i>k</i> » pourrait cependant aussi être pris au sens de « ferveur, feu ».
 
-[^458]: 227:1 Voir [VI, 3, 2, 6](Book_3_6_3#v6_3_2_6) seq.
+[^458]: 227:1 Voir [VI, 3, 2, 6](../Book_3_6_3#v6_3_2_6) seq.
 
-[^459]: 228:1 Voir [VII, 1, 1, 9](Book_3_7_1#v7_1_1_9).
+[^459]: 228:1 Voir [VII, 1, 1, 9](../Book_3_7_1#v7_1_1_9).
 
 [^460]: 228:2 La motte d'argile est déposée sur un monticule surélevé (ou peut-être plutôt sur un morceau de terrain découpé, uddhata), dans un hangar fermé (avec une porte du côté est) au nord de l'Âhavanîya.

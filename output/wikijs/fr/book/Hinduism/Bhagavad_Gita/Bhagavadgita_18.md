@@ -88,23 +88,23 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^529]: 122:4 Comme se baigner à midi en été.
 
-[^530]: 122:5 Cf. [p. 53](Bhagavadgita_3#p53) supra.
+[^530]: 122:5 Cf. [p. 53](../Bhagavadgita_3#p53) supra.
 
 [^531]: 123:1 L'original est sannyâsi, mais <i>S</i>rîdhara a probablement raison de le prendre comme désignant quelqu'un qui a le commandement de « l'abandon ». <i>S</i>ankara et Madhusûdana, cependant, prennent le mot dans son sens ordinaire d'« ascète ». Ce qui suit explique, dit <i>S</i>rîdhara, pourquoi « le fruit n'échoit pas aux renonçants ».
 
 [^532]: 123:2 <i>S</i>ankara et Madhusûdana disent que cela signifie Vedânta-<i>s</i>âstra. <i>S</i>rîdhara suggère également l'alternative Sânkhya-sâstra. Substratum = le corps, dans lequel le désir, l'aversion, etc. se manifestent ; agent = celui qui se croit égoïstement l'auteur des actions ; organes = sens de la perception, de l'action, etc. ; mouvements = des souffles vitaux dans le corps ; divinités = les divinités qui président à l'œil et aux autres sens (à ce sujet, cf. Aitareya-upanishad, p. 45 ; Prasna, pp. 216, 217 ; Mundaka, p. 314 ; Aitareya-âranyaka. pp. 88-270 : et les conférences Hibbert de Max Müller, p. 204, note).
 
-[^533]: 123:3 Cf. [p. 106](Bhagavadgita_13#p106).
+[^533]: 123:3 Cf. [p. 106](../Bhagavadgita_13#p106).
 
 [^534]: 123:4 Égoïsme = le sentiment qu'il est l'auteur de l'action ; souillure = le sentiment que le fruit de l'action doit lui revenir.
 
-[^535]: 123:5 Cf. [p. 45](Bhagavadgita_2#p45), et Dhammapada, strophe 294.
+[^535]: 123:5 Cf. [p. 45](../Bhagavadgita_2#p45), et Dhammapada, strophe 294.
 
 [^536]: 123:6 Connaissance, c'est-à-dire que quelque chose est un moyen pour obtenir ce qui est désiré ; l'objet est le moyen ; le connaisseur est celui qui possède cette connaissance. Lorsque ces deux éléments coexistent, nous avons une action. L'instrument = les sens, etc.
 
 [^537]: 124:1 Le système de Kapila.
 
-[^538]: 124:2 Cf. [p. 104](Bhagavadgita_13#p104).
+[^538]: 124:2 Cf. [p. 104](../Bhagavadgita_13#p104).
 
 [^539]: 124:3 Cf. Ka<i>th</i>opanishad, p. 129.
 
@@ -120,7 +120,7 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^545]: 125:2 La nature de la faculté de comprendre ; et le courage est la fermeté de cette faculté.
 
-[^546]: 125:3 Voir [p. 115](Bhagavadgita_16#p115). <i>Sankara</i> prend ces termes pour signifier les « chemins » de l'action et de la connaissance, et Nîlaka<i>nth</i>a prend l'expression suivante pour signifier ce qui est constant et ce qui ne l'est pas : nitya, anitya.
+[^546]: 125:3 Voir [p. 115](../Bhagavadgita_16#p115). <i>Sankara</i> prend ces termes pour signifier les « chemins » de l'action et de la connaissance, et Nîlaka<i>nth</i>a prend l'expression suivante pour signifier ce qui est constant et ce qui ne l'est pas : nitya, anitya.
 
 [^547]: 125:4 Coexistant toujours avec l'abstraction mentale et la soutenant.
 
@@ -130,11 +130,11 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^550]: 126:1 Pas immédiatement, comme dans le cas des plaisirs sensuels.
 
-[^551]: 126:2 Cf. [p. 51](Bhagavadgita_2#p51). L'original a également été rendu par « tranquillité de son propre esprit ».
+[^551]: 126:2 Cf. [p. 51](../Bhagavadgita_2#p51). L'original a également été rendu par « tranquillité de son propre esprit ».
 
-[^552]: 126:3 Cf. [p. 59](Bhagavadgita_4#p59).
+[^552]: 126:3 Cf. [p. 59](../Bhagavadgita_4#p59).
 
-[^553]: 126:4 C'est-à-dire résultant du contrôle de l'esprit, la pureté est ici à la fois externe et interne. Voir [p. 119](Bhagavadgita_17#p119).
+[^553]: 126:4 C'est-à-dire résultant du contrôle de l'esprit, la pureté est ici à la fois externe et interne. Voir [p. 119](../Bhagavadgita_17#p119).
 
 [^554]: 127:1 C'est-à-dire au combat, semble dire Nîlaka<i>nth</i>a. <i>S</i>ankara dit que cela signifie une ressource prête à l'emploi chaque fois que l'occasion se présente.
 
@@ -142,19 +142,19 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^556]: 127:3 Admissibilité au chemin de la connaissance.
 
-[^557]: 127:4 Cf. [p. 56](Bhagavadgita_3#p56).
+[^557]: 127:4 Cf. [p. 56](../Bhagavadgita_3#p56).
 
-[^558]: 127:5 Cf. [p. 121](Bhagavadgita_17#p121) ; le mal semble être la qualité d'« enchaîner » l'âme.
+[^558]: 127:5 Cf. [p. 121](../Bhagavadgita_17#p121) ; le mal semble être la qualité d'« enchaîner » l'âme.
 
-[^559]: 127:6 <i>S</i>rîdhara compare [p. 65](Bhagavadgita_5#p65) (V. 13) et distingue cela de [p. 64](Bhagavadgita_5#p64) (V, 8 seq.) <i>S</i>ankara dit que la perfection dont il est ici question est l'émancipation, et qu'elle est obtenue par la vraie connaissance.
+[^559]: 127:6 <i>S</i>rîdhara compare [p. 65](../Bhagavadgita_5#p65) (V. 13) et distingue cela de [p. 64](../Bhagavadgita_5#p64) (V, 8 seq.) <i>S</i>ankara dit que la perfection dont il est ici question est l'émancipation, et qu'elle est obtenue par la vraie connaissance.
 
 [^560]: 128:1 L'abstraction est la méditation concentrée et exclusive, <i>S</i>ankara. Les autres commentateurs prennent le dhyânayoga pour une simple méditation, comme il en est question au chapitre VI, dit Nîlaka<i>nth</i>a.
 
-[^561]: 128:2 Voir [p. 52](Bhagavadgita_2#p52).
+[^561]: 128:2 Voir [p. 52](../Bhagavadgita_2#p52).
 
 [^562]: 128:3 C'est-à-dire comprendre son identité avec le Brahman.
 
-[^563]: 128:4 Cf. [p. 55](Bhagavadgita_3#p55).
+[^563]: 128:4 Cf. [p. 55](../Bhagavadgita_3#p55).
 
 [^564]: 128:5 Fierté du savoir et de l'intelligence, ou de la piété. Voir [p. 124](#p124), note .
 
@@ -162,7 +162,7 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^566]: 129:1 <i>S</i>vetâ<i>s</i>vatara-upanishad, pp. 333-345; Ka<i>th</i>opanishad, p. 157.
 
-[^567]: 129:2 Cf. [p. 114](Bhagavadgita_15#p114); par la pensée, la parole et l'action.
+[^567]: 129:2 Cf. [p. 114](../Bhagavadgita_15#p114); par la pensée, la parole et l'action.
 
 [^568]: 129:3 De caste ou d'ordre, comme Agnihotra et ainsi de suite.
 
@@ -172,13 +172,13 @@ Ainsi ai-je entendu ce dialogue entre Vâsudeva et le fils magnanime de P<i>ri</
 
 [^571]: 129:6 C'est-à-dire de Dieu et un précepteur. Cf. dernière strophe de <i>S</i>vetâ<i>s</i>vataropanishad.
 
-[^572]: 129:7 Cf. [p. 62](Bhagavadgita_4#p62). <i>Sankara</i> dit que tous ces éléments doivent coexister pour donner l'éligibilité.
+[^572]: 129:7 Cf. [p. 62](../Bhagavadgita_4#p62). <i>Sankara</i> dit que tous ces éléments doivent coexister pour donner l'éligibilité.
 
 [^573]: 129:8 C'est-à-dire la croyance qu'en le diffusant, il me sert. Cf. Ka<i>th</i>opanishad, p. 120.
 
-[^574]: 130:1 Quel est le meilleur des sacrifices ; voir [p. 62](Bhagavadgita_4#p62).
+[^574]: 130:1 Quel est le meilleur des sacrifices ; voir [p. 62](../Bhagavadgita_4#p62).
 
-[^575]: 130:2 Cf. [p. 72](Bhagavadgita_6#p72).
+[^575]: 130:2 Cf. [p. 72](../Bhagavadgita_6#p72).
 
 [^576]: 130:3 C'est-à-dire comprendre ma véritable essence, ce que je suis, etc.
 

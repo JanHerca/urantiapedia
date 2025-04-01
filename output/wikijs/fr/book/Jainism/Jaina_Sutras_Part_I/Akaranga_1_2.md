@@ -254,7 +254,7 @@ Fin de la deuxième conférence, intitulée La conquête du monde.
 
 [^146]: 25:2 Ala<i>m</i> bâlassa sa<i>m</i>ge<i>n</i>a, un pâda de <i>s</i>loka ; suivi des mots de la note [^142], [p. 24](#p24), il forme l'hémistiche du verset 3 de la deuxième leçon du chapitre suivant.
 
-[^147]: 26:1 Voir [p. 17](Akaranga_1_2#p17), notez [1](Akaranga_1_2#fn115).
+[^147]: 26:1 Voir [p. 17](../Akaranga_1_2#p17), notez [1](../Akaranga_1_2#fn115).
 
 [^148]: 26:2 Ces mots forment apparemment un <i>s</i>loka, bien que le troisième pâda soit trop court d'une syllabe ; mais cette faute peut facilement être corrigée en insérant <i>k</i>a : pa<i>m</i>ta<i>m</i> lûha<i>m</i> <i>k</i>a sevanti. Les commentateurs traitent le passage comme de la prose.
 

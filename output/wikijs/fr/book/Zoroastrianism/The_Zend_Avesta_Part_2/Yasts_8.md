@@ -304,17 +304,17 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^482] : 93 : 5 Nama ; voir Études Iraniennes, II, 124.
 
-[^483]: 93:6 Cf. [p. 47](Yasts_3#p47).
+[^483]: 93:6 Cf. [p. 47](../Yasts_3#p47).
 
 [^484]: 94:1 Puissamment.
 
-[^485]: 94:2 Ou, 'par qui la beauté des eaux vient de Bereza, et leur semence d'Apãm Napâ<i>t</i>.' Bereza, le haut, le grand, une épithète d'Apãm Napâ<i>t</i>, est devenu l'un de ses noms (Ized Bôr<i>g</i> ; cf. § 34) ; pour Apãm Napâ<i>t</i>, voir ci-dessus, [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^485]: 94:2 Ou, 'par qui la beauté des eaux vient de Bereza, et leur semence d'Apãm Napâ<i>t</i>.' Bereza, le haut, le grand, une épithète d'Apãm Napâ<i>t</i>, est devenu l'un de ses noms (Ized Bôr<i>g</i> ; cf. § 34) ; pour Apãm Napâ<i>t</i>, voir ci-dessus, [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^486]: 94:3 Paiti<i>s</i>mare<i>n</i>ti; cf. Yt. V, 123.
 
 [^487]: 94:4 Ou mieux, « dans leur regard ».
 
-[^488]: 94:5 Voir ci-dessus, [p. 54](Yasts_5#p54), note [6](Yasts_5#fn279).
+[^488]: 94:5 Voir ci-dessus, [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
 
 [^489]: 95:1 Mainivas<i>a</i><i>u</i> = mainyu-as<i>a</i><i>u</i> (signifiant jeu de mots mînôî <i>g</i>îvâkîh, svargasthânam, Yasna LVII, 27 \[LVI, 11, 3\]).
 
@@ -324,7 +324,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^492]: 95:4 Douteux. Il est fait allusion aux étoiles filantes. M. Geiger remarque qu'un essaim d'étoiles filantes tombe chaque année juste au moment où Tistrya, dans le climat européen, est censé être le plus actif, le 10 août.
 
-[^493]: 96:1 Voir ci-dessus, [p. 66](Yasts_5#p66), note [3](Yasts_5#fn323).
+[^493]: 96:1 Voir ci-dessus, [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
 [^494]: 96:2 On dit que Satavaêsa est le chef des étoiles occidentales (à lire étoiles du sud, Bund. II, 7), et qu'il a sous sa protection les mers du quart sud (ibid. XIII, 12) ; la mer de Satavaêsa est le golfe Persique.
 
@@ -380,7 +380,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^520]: 102:2 Haoma ouvre la voie aux eaux du ciel, étant l'élément principal du sacrifice (cf. § 24). Pour la même raison, les Bundahi comptent Vohu-Manô, « Bon Esprit », parmi les coopérateurs de Tistrya.
 
-[^521]: 102:3 Voir [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^521]: 102:3 Voir [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^522]: 102:4 Ou mieux, « assis dans les eaux » ; voir Yt. XIX, 56 seq. et Yt. XIII, 65.
 
@@ -396,7 +396,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^528]: 104:1 Voir Yt. XVII.
 
-[^529]: 104:2 Voir ci-dessus, [p. 11](Sirozahs_1#p11), note [5](Sirozahs_1#fn77).
+[^529]: 104:2 Voir ci-dessus, [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
 
 [^530]: 104:3 Douteux. Le mont <i>H</i><i>v</i>anva<i>n</i><i>t</i>, étant situé dans la mer Vouru-Kasha (comme il ressort de Ti<i>s</i>trya voyageant vers cette mer, § 38), semble être le même que le mont Aûsindôm (§ 32).
 
@@ -408,7 +408,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^534]: 105:3 Dans les Bundahi<i>s</i>, c'est surtout le chef des étoiles orientales ; mais le Minokhired l'appelle la première étoile (XLIX, 5 ; cf. ci-dessus, § 12).
 
-[^535]: 105:4 Voir ci-dessus, [p. 38](Yasts_2#p38), note [3](Yasts_2#fn199).
+[^535]: 105:4 Voir ci-dessus, [p. 38](../Yasts_2#p38), note [3](../Yasts_2#fn199).
 
 [^536]: 106:1 Voir Yt. X, 82, note.
 

@@ -58,7 +58,7 @@ Que dit la déesse de la parole à cette occasion, autrefois, lorsque, bien qu'e
 
 Le Brâhma<i>n</i>a dit :
 
-Français La (parole) qui est produite dans le corps par <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> le moyen du Prâ<i>n</i>a [1](Anugita_7#fn1274), et qui passe ensuite dans l'Apâna, puis s'assimilant à l'Udâna quitte le corps [2](Anugita_7#fn1275), et avec le Vyâna enveloppe tous les quartiers [3](Anugita_7#fn1276), puis (finalement) demeure dans le Samâna [4](Anugita_7#fn1277). Ainsi parlait autrefois la parole. De là vient que l'esprit se distingue par son immobilité, et la déesse par sa mobilité [5](Anugita_7#fn1278).
+Français La (parole) qui est produite dans le corps par <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> le moyen du Prâ<i>n</i>a [1](../Anugita_7#fn1274), et qui passe ensuite dans l'Apâna, puis s'assimilant à l'Udâna quitte le corps [2](../Anugita_7#fn1275), et avec le Vyâna enveloppe tous les quartiers [3](../Anugita_7#fn1276), puis (finalement) demeure dans le Samâna [4](../Anugita_7#fn1277). Ainsi parlait autrefois la parole. De là vient que l'esprit se distingue par son immobilité, et la déesse par sa mobilité [5](../Anugita_7#fn1278).
 
 <figure class="table chapter-navigator">
   <table>
@@ -90,11 +90,11 @@ Français La (parole) qui est produite dans le corps par <span id="p266"><sup><s
 
 [^1253]: 261:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 459. La lecture dans l'édition imprimée de Bombay est ici défectueuse.
 
-[^1254]: 261:3 Voir [p. 337](Anugita_27#p337) seq., où tout ceci est expliqué plus en détail. Et cf. la doctrine bouddhique analogue énoncée dans Lalita Vistara (traduction du Dr R. Mitra), p. 11.
+[^1254]: 261:3 Voir [p. 337](../Anugita_27#p337) seq., où tout ceci est expliqué plus en détail. Et cf. la doctrine bouddhique analogue énoncée dans Lalita Vistara (traduction du Dr R. Mitra), p. 11.
 
-[^1255]: 261:4 Voir Taittirîya-âra<i>n</i>yaka loc. cit., et cf. Gîtâ, [p. 61](Bhagavadgita_4#p61). 'La richesse' désigne probablement le Dakshi<i>n</i>â à donner aux prêtres, qui est mentionné dans Gîtâ, [p. 119](Bhagavadgita_17#p119).
+[^1255]: 261:4 Voir Taittirîya-âra<i>n</i>yaka loc. cit., et cf. Gîtâ, [p. 61](../Bhagavadgita_4#p61). 'La richesse' désigne probablement le Dakshi<i>n</i>â à donner aux prêtres, qui est mentionné dans Gîtâ, [p. 119](../Bhagavadgita_17#p119).
 
-[^1256]: 261:5 Les « prêtres » étant ici les sens, la connaissance leur reviendrait, à ce sujet cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1256]: 261:5 Les « prêtres » étant ici les sens, la connaissance leur reviendrait, à ce sujet cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
 [^1257]: 261:6 Voir note [^1249].
 
@@ -102,7 +102,7 @@ Français La (parole) qui est produite dans le corps par <span id="p266"><sup><s
 
 [^1259]: 262:2 Ar<i>g</i>una Mi<i>s</i>ra dit qu'il s'agit d'une comparaison implicite, l'esprit est un soutien du corps comme l'est le « connaisseur » ou le soi.
 
-[^1260]: 262:3 Ar<i>g</i>una Mi<i>s</i>ra dit que cela signifie « l'esprit ». Je pense qu'il vaut mieux le prendre ici comme le soi (voir [p. 238](Anugita_2#p238) supra), auquel l'« esprit » et « l'autre », mentionnés plus loin, seraient subordonnés ; l'« autre », Ar<i>g</i>una Mi<i>s</i>ra le traduit par le « groupe des sens ». Les sens sont comparés à des feux dans la Gîtâ, [p. 61](Bhagavadgita_4#p61). Le passage de Taittirîya-âranyaka cité ci-dessus ne fait référence qu'aux feux de Gârhapatya et d'Âhavanîya. Le texte et l'explication de ce passage par Nîlaka<i>ntha</i> ne sont pas, à mon avis, aussi satisfaisants que ceux d'Ar<i>una</i> Mi<i>s</i>ra.
+[^1260]: 262:3 Ar<i>g</i>una Mi<i>s</i>ra dit que cela signifie « l'esprit ». Je pense qu'il vaut mieux le prendre ici comme le soi (voir [p. 238](../Anugita_2#p238) supra), auquel l'« esprit » et « l'autre », mentionnés plus loin, seraient subordonnés ; l'« autre », Ar<i>g</i>una Mi<i>s</i>ra le traduit par le « groupe des sens ». Les sens sont comparés à des feux dans la Gîtâ, [p. 61](../Bhagavadgita_4#p61). Le passage de Taittirîya-âranyaka cité ci-dessus ne fait référence qu'aux feux de Gârhapatya et d'Âhavanîya. Le texte et l'explication de ce passage par Nîlaka<i>ntha</i> ne sont pas, à mon avis, aussi satisfaisants que ceux d'Ar<i>una</i> Mi<i>s</i>ra.
 
 [^1261]: 262:4 Dans le Taittirîya-brâhmana et l'Âra<i>n</i>yaka loc. cit., l'équivalent du mot original pour « seigneur de la parole » apparaît ici, à savoir Vâkpati pour Vâ<i>k</i>aspati ici ; mais celui-ci est décrit comme le prêtre Hot<i>ri</i>, et la parole elle-même comme le Vedî ou autel. Le commentateur interprète ici « seigneur de la parole » comme le vent qui provoque l'activité vocale et réside dans la gorge, le palais, etc. Quant à l'esprit et la parole, voir aussi <i>Kh</i>ândogya, pp. 285-441, et les commentaires de <i>S</i>ankara. Le sens de ce passage, cependant, n'est pas du tout clair à mon avis. Les mantras Dasahotri du Taittirîya sont présentés comme les mantras de l'Ishātī, ou sacrifice, accompli par Pragāpati pour la création. Il est donc possible que le sens ici soit que la parole que l'élève doit apprendre, comme indiqué plus loin – à savoir les Védas – ait d'abord été produite à partir de cet Ishātī (cf. Kullūka sur Manu I, 21). Mais pour comprendre cette parole, l'esprit est nécessaire ; c'est pourquoi il est dit de lever les yeux vers l'esprit. L'épouse du Brāhma, cependant, semble comprendre la parole comme une parole ordinaire, d'où sa question.
 
@@ -114,7 +114,7 @@ Français La (parole) qui est produite dans le corps par <span id="p266"><sup><s
 
 [^1265]: 263:4 C'est-à-dire que la parole transmet des informations sur tous les sujets, Ar<i>g</i>una Mi<i>s</i>ra ; p. 264, car le moyen d'acquérir le fruit désiré, visible ou invisible, s'apprend par la parole, Nîlaka<i>nth</i>a. Cf. à ce sujet, B<i>nth</i>hadâra<i>n</i>yaka-upanishad, pp. 50 et suivantes et 261.
 
-[^1266]: 264:1 C'est-à-dire que Nîlaka<i>nth</i>a dit : « Le Brâhman<i>nom</i>ment esprit », faisant apparemment allusion à [p. 310](Anugita_19#p310) infra. Mais la lecture de certains manuscrits, à savoir Brahman pour le Brâhman<i>nom</i>, semble préférable, compte tenu de ce qui suit. Apparemment, le propre discours du Brâhman<i>nom</i> devrait commencer à « Le discours de la déesse » plus loin.
+[^1266]: 264:1 C'est-à-dire que Nîlaka<i>nth</i>a dit : « Le Brâhman<i>nom</i>ment esprit », faisant apparemment allusion à [p. 310](../Anugita_19#p310) infra. Mais la lecture de certains manuscrits, à savoir Brahman pour le Brâhman<i>nom</i>, semble préférable, compte tenu de ce qui suit. Apparemment, le propre discours du Brâhman<i>nom</i> devrait commencer à « Le discours de la déesse » plus loin.
 
 [^1267]: 264:2 Nîlaka<i>nth</i>a dit, immobile = être compris par les sens externes ; mobile = non perceptible par les sens, comme le ciel, etc., qui n'est pas tout à fait intelligible. A<i>g</i>una Mi<i>s</i>ra dit, l'esprit immobile est celui de l'enseignant, qui est fixe, car il n'a rien à apprendre ou à acquérir, tandis que celui de l'élève est mobile car il acquiert de nouvelles impressions et connaissances.
 
@@ -124,7 +124,7 @@ Français La (parole) qui est produite dans le corps par <span id="p266"><sup><s
 
 [^1270]: 264:5 C'est-à-dire, dit Ar<i>g</i>una Mi<i>s</i>ra, les mots ne sortiront pas avec le vent vital Prâ<i>n</i>a et ne transmettront aucun sens à l'auditeur, mais seront absorbés dans le vent vital Apâna, et ne seront pas du tout articulés comme parole. Cf. Kaushîtaki, p. 41 ; Ka<i>th</i>a, p. 184 (avec gloses) ; et <i>Kh</i>ândogya, p. 42.
 
-[^1271]: 264:6 C'est-à-dire, je présume, qu'il dépendait des deux vents de vie mentionnés. Cf. [p. 353](Anugita_29#p353) infra. Pour ce sens du mot « entre », voir [p. 258](Anugita_5#p258) supra, et <i>Kh</i>ândogya-upanishad, p. 623.
+[^1271]: 264:6 C'est-à-dire, je présume, qu'il dépendait des deux vents de vie mentionnés. Cf. [p. 353](../Anugita_29#p353) infra. Pour ce sens du mot « entre », voir [p. 258](../Anugita_5#p258) supra, et <i>Kh</i>ândogya-upanishad, p. 623.
 
 [^1272]: 265:1 Et non avec le Prâ<i>n</i>a, de manière à être articulé. Cf. [p. 264](#p264).
 

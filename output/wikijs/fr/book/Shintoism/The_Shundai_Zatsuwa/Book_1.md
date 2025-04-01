@@ -283,7 +283,7 @@ Mais de nos jours, les jeunes gens ne recherchent que le plaisir. Ignorant leurs
 
 [^4]: Les expressions d'humilité sont conventionnelles. Kyusō avait la plus grande influence et les plus grands honneurs accordés par les Tokugawa à un érudit. Il était admis en présence immédiate du shogun et était consulté sur les affaires de l'État.
 
-[^5] : Le Sō, [pp. 4-5](Introduction#p4) ci-dessus. La philosophie du Tei-Shu, [p. 5](Introduction#p5) ci-dessus.
+[^5] : Le Sō, [pp. 4-5](../Introduction#p4) ci-dessus. La philosophie du Tei-Shu, [p. 5](../Introduction#p5) ci-dessus.
 
 [^6] : Un enseignement qui régit sa propre vie.
 
@@ -295,9 +295,9 @@ Mais de nos jours, les jeunes gens ne recherchent que le plaisir. Ignorant leurs
 
 [^9]: La dynastie des Gen (Yuen) était mongole (1280-1368 apr. J.-C.), et fut remplacée par celle des Min (Mings) (1368-1644). « L'Empire du Milieu », vol. II, pp. 175-179.
 
-[^10]: Le texte ici contient une liste d'érudits chinois dont les noms sont omis dans la traduction conformément à ce qui est dit aux [pp. 26-27](Introduction#p26) ci-dessus. Du Sō, Shinseizan, Gikakuzan, du Gen, Kiyorozai Kosoro, du Min, Sek-kei-ken, Ko-kei-sai.
+[^10]: Le texte ici contient une liste d'érudits chinois dont les noms sont omis dans la traduction conformément à ce qui est dit aux [pp. 26-27](../Introduction#p26) ci-dessus. Du Sō, Shinseizan, Gikakuzan, du Gen, Kiyorozai Kosoro, du Min, Sek-kei-ken, Ko-kei-sai.
 
-[^11] : Ōyōmei, [p. 10](Introduction#p10) ci-dessus. Son « intuitionnisme » est le ###. Voir Mencius, Livre VII., Partie 1. Chap. XV., 1. [p. 44](#fn36) note ci-dessous.
+[^11] : Ōyōmei, [p. 10](../Introduction#p10) ci-dessus. Son « intuitionnisme » est le ###. Voir Mencius, Livre VII., Partie 1. Chap. XV., 1. [p. 44](#fn36) note ci-dessous.
 
 [^12]: La secte zen du bouddhisme, la secte contemplative qui prétend n'utiliser aucun livre.
 
@@ -321,7 +321,7 @@ Mais de nos jours, les jeunes gens ne recherchent que le plaisir. Ignorant leurs
 
 [^22]: Si par « sage » l'auteur entend Confucius, alors le Grand Savoir n'est pas celui d'un Sage, mais est accepté comme contenant son enseignement. Classiques chinois, vol. I. Prolégomènes, p. 26-27. Dans les sections consacrées à la littérature, l'auteur montre une certaine familiarité avec les résultats, au moins de la critique, mais il ne l'applique pas aux classiques, acceptant sans critique tout ce que la tradition lui attribue comme écrit de Confucius.
 
-[^23]: Pour l'École de l'Étude Ancienne, voir la « Note » de M. Haga et mon « Commentaire » ci-dessous. La « Vertu des Illustrations » est une expression de l'École Ōyōmei, [p. 13](Introduction#p13), ci-dessus.
+[^23]: Pour l'École de l'Étude Ancienne, voir la « Note » de M. Haga et mon « Commentaire » ci-dessous. La « Vertu des Illustrations » est une expression de l'École Ōyōmei, [p. 13](../Introduction#p13), ci-dessus.
 
 [^24]: Mencius, Livre III : Pt. II., Chapitre IX. La citation n'est pas verbale.
 

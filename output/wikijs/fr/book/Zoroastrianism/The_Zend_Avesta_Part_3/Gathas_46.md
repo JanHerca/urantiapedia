@@ -196,7 +196,7 @@ Traduction.
 
 [^633]: 139:3 Ashavanem s'applique à Ahura, et ne peut pas si bien signifier « juste » ici. « Saint » est le terme le plus approprié dans ce contexte, tandis que spetem est nécessairement exclu de cette signification par son occurrence avec ashavanem en connexion immédiate.
 
-[^634]: 139:4 Notez que le mot tashâ apparaît ici sans aucune mention de blessure dans la connexion (voir note [6](Gathas_29#fn44) à la page [6](Gathas_29#p6)).
+[^634]: 139:4 Notez que le mot tashâ apparaît ici sans aucune mention de blessure dans la connexion (voir note [6](../Gathas_29#fn44) à la page [6](../Gathas_29#p6)).
 
 [^635]: 139:5 Je suis ici rappelé au Pahlavi par certains qui le nomment rarement. J'avais traduit par « ces mots m'incitent (au devoir) par Ton Bon Esprit » ; si souvent dans le Véda. Le traducteur pahlavi, comme ses successeurs, scandalisé par les formes difficiles, a également anticipé ses successeurs (comme souvent ailleurs) en se libérant de la difficulté. Il a fait ce qui est exactement équivalent à ce qui est pratiqué aujourd'hui par les érudits (parfois trop souvent). Il a traduit le texte comme s'il avait changé de ce qu'il ne pouvait pas comprendre à ce qu'il pouvait comprendre, adhérant cependant aux bonnes racines, que je suis maintenant. Il savait que ishenti mâ ne signifiait pas « je cherche », mais il ne pouvait pas croire les mots qui lui étaient présentés.
 

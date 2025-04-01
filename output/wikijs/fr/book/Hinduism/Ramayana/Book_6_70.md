@@ -352,7 +352,7 @@ De guerriers géants, grands et forts,
 Sur les éléphants des races les plus nobles.
 Avec des voitures, avec des chameaux et avec des chevaux :
 Et, armé de lance, de hache et d'épée
-Nous sommes prêts à nous battre pour leur seigneur. [1](Book_6_70#fn993)
+Nous sommes prêts à nous battre pour leur seigneur. [1](../Book_6_70#fn993)
 
 
 

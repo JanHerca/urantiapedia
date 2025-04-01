@@ -827,7 +827,7 @@ Quelle volonté a permis le bannissement.
 Son péché qui jette un poison mortel
 Pour gâcher l'eau qui coule,
 Impose au misérable son fardeau de terreur
-Qui a donné son consentement lorsque Rama s'est enfui. [1](Book_2_80#fn351)
+Qui a donné son consentement lorsque Rama s'est enfui. [1](../Book_2_80#fn351)
 
 Ainsi, avec ses paroles, il a détrompé
 Le cœur troublé de Kaus'alyá, qui était en deuil
@@ -938,12 +938,12 @@ Et les chanteurs sacerdotaux qui répètent
 
 <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
-Les S'aman [1](Book_2_80#fn352) ont chanté leurs vers sacrés.
+Les S'aman [1](../Book_2_80#fn352) ont chanté leurs vers sacrés.
 De la ville sont venus en litière,
 Ou des chars, bien des dames royales,
 Et ainsi honoré le lieu des funérailles,
 Avec des disciples âgés autour.
-Avec des marches courbées dans l'ordre inverse, [2](Book_2_80#fn353)
+Avec des marches courbées dans l'ordre inverse, [2](../Book_2_80#fn353)
 Les prêtres sont partis en procession triste
 Autour du bûcher du monarque
 Qui avait bien nourri chaque feu sacré :
@@ -1065,7 +1065,7 @@ Depuis que les flammes ont consumé l'argile de ton père :
 Ne tardez plus : comme le prévoient les règles,
 Rassemblez les os qui pourraient encore rester.
 Trois paires constantes sont toujours trouvées
-Pour encercler toutes les créatures mortelles : [1](Book_2_80#fn354)
+Pour encercler toutes les créatures mortelles : [1](../Book_2_80#fn354)
 Alors ne pleure pas ainsi, ô Prince, car personne ne
 Leur étroite compagnie peut être évitée.
 Sumantra ordonna à S'atrughna de se lever,
@@ -1074,7 +1074,7 @@ Et habile dans la vérité, son auditeur enseignait
 Comment toutes choses sont et deviennent anéanties,
 Quand chaque héros s'est levé du sol,
 Un lion seigneur des hommes, renommé,
-Il se montra comme le drapeau d'Indra, [2](Book_2_80#fn355) sur lequel
+Il se montra comme le drapeau d'Indra, [2](../Book_2_80#fn355) sur lequel
 Des pluies torrentielles se sont abattues et le soleil a brillé.
 Ils essuyèrent leurs yeux rouges et pleurants,
 Et ils répondirent doucement et tristement :
@@ -1257,7 +1257,7 @@ Qui désire encore la main de ton aîné
 Leurs discours glorieux, leurs cris de faveur
 Fait gonfler sa fière poitrine :
 Et des nobles yeux du prince
-Les larmes de ravissement coulèrent. [1](Book_2_80#fn356)
+Les larmes de ravissement coulèrent. [1](../Book_2_80#fn356)
 
 
 

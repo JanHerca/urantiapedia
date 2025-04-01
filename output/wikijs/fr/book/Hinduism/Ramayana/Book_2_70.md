@@ -1195,7 +1195,7 @@ Ils sont venus de nuit et ont descendu la voiture.
 Pour plaire à leur maître et pour les protéger
 La race royale, le droit lignager,
 Les envoyés, épuisés par une chevauchée acharnée,
-Je suis arrivé dans cette belle ville de nuit. [1b](Book_2_70#fn347)
+Je suis arrivé dans cette belle ville de nuit. [1b](../Book_2_70#fn347)
 
 
 

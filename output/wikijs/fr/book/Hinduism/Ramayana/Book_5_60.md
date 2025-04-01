@@ -275,7 +275,7 @@ Périr dans les flammes consumées.
 Si moi, quand la colère me rendait fou.
 Ont causé la mort de l'enfant de Janak,
 La flamme allumée mettra fin à mon malheur,
-Ou les feux profonds qui brûlent en dessous, [1](Book_5_60#fn895)
+Ou les feux profonds qui brûlent en dessous, [1](../Book_5_60#fn895)
 Ou mon cadavre abandonné sera
 De la nourriture pour les monstres de la mer.
 Comment puis-je rencontrer Sugríva ? comment
@@ -285,7 +285,7 @@ La noble œuvre à laquelle nous avons travaillé ?
 Ou a-t-elle sa propre vertu brillante versée
 Son influence gardienne autour de sa tête ?
 Elle vit intacte, la dame sans pareille ;
-La flamme n'a aucune fureur pour la flamme. [2](Book_5_60#fn896)
+La flamme n'a aucune fureur pour la flamme. [2](../Book_5_60#fn896)
 Le feu lui-même ne consentirait jamais
 Pour nuire à une reine si excellente,
 La fidèle épouse de Ráma à l'âme élevée,
@@ -412,7 +412,7 @@ Nos espoirs, nos vies et tout ce que nous devons.
 
 Que ni le travail ni la peur ne pourraient détourner,
 La dame restaurera ton acte,
-Et le cœur de Rama ne souffrira plus,' [1](Book_5_66#fn899)
+Et le cœur de Rama ne souffrira plus,' [1](../Book_5_66#fn899)
 
 <figure class="table chapter-navigator">
   <table>

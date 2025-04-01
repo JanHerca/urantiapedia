@@ -50,7 +50,7 @@ Quelle est la fin de celui, ô K<i>ri</i>sh<i>n</i>a ! qui n'atteint pas la cons
 
 La Déité dit :
 
-Ô fils de P<i>ri</i>thâ ! ni dans ce monde ni dans l'autre, il n'y a de ruine pour lui ; car, ô cher ami ! aucun de ceux qui accomplissent de bonnes actions ne connaît une fin malheureuse. Celui qui est déchu de la dévotion atteint les mondes de ceux qui accomplissent des actes méritoires, y demeure de nombreuses années, et naît ensuite dans une famille d'hommes saints et illustres [^266]. Ou il naît même dans une famille de dévots talentueux ; car une telle naissance dans ce monde est plus difficile à obtenir. Là, il entre en contact avec la connaissance qui lui appartenait dans son ancien corps, et alors de nouveau, ô descendant de Kuru ! il travaille à la perfection [^267]. Car même réticent [^268], il est entraîné par le <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> même pratique antérieure, et bien qu'il ne souhaite qu'apprendre la dévotion, il s'élève au-dessus des (fruits de l'action énoncés dans la) parole divine. Mais le dévot travaillant avec de grands efforts [1](Bhagavadgita_7#fn269), et purifié de ses péchés, atteint la perfection après de nombreuses naissances, et atteint alors le but suprême. Le dévot est estimé plus haut que ceux qui accomplissent des pénitences, plus haut même que les hommes de connaissance, et le dévot est plus haut que les hommes d'action ; c'est pourquoi, ô Ar<i>g</i>una ! deviens un dévot. Et même parmi tous les dévots, celui qui, étant plein de foi, m'adore, avec son être le plus intimement tourné vers moi, est estimé par moi comme le plus dévoué.
+Ô fils de P<i>ri</i>thâ ! ni dans ce monde ni dans l'autre, il n'y a de ruine pour lui ; car, ô cher ami ! aucun de ceux qui accomplissent de bonnes actions ne connaît une fin malheureuse. Celui qui est déchu de la dévotion atteint les mondes de ceux qui accomplissent des actes méritoires, y demeure de nombreuses années, et naît ensuite dans une famille d'hommes saints et illustres [^266]. Ou il naît même dans une famille de dévots talentueux ; car une telle naissance dans ce monde est plus difficile à obtenir. Là, il entre en contact avec la connaissance qui lui appartenait dans son ancien corps, et alors de nouveau, ô descendant de Kuru ! il travaille à la perfection [^267]. Car même réticent [^268], il est entraîné par le <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> même pratique antérieure, et bien qu'il ne souhaite qu'apprendre la dévotion, il s'élève au-dessus des (fruits de l'action énoncés dans la) parole divine. Mais le dévot travaillant avec de grands efforts [1](../Bhagavadgita_7#fn269), et purifié de ses péchés, atteint la perfection après de nombreuses naissances, et atteint alors le but suprême. Le dévot est estimé plus haut que ceux qui accomplissent des pénitences, plus haut même que les hommes de connaissance, et le dévot est plus haut que les hommes d'action ; c'est pourquoi, ô Ar<i>g</i>una ! deviens un dévot. Et même parmi tous les dévots, celui qui, étant plein de foi, m'adore, avec son être le plus intimement tourné vers moi, est estimé par moi comme le plus dévoué.
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,13 +78,13 @@ La Déité dit :
 
 ## Notes de bas de page
 
-[^233]: 67:1 Cf. ci-dessous, [p. 18](Bhagavadgita_Intro#p18).
+[^233]: 67:1 Cf. ci-dessous, [p. 18](../Bhagavadgita_Intro#p18).
 
 [^234]: 67:2 p. 57 et Ka<i>th</i>opanishad, p. 157.
 
 [^235]: 67:3 Qui sont nécessaires aux rites religieux ordinaires.
 
-[^236]: 67:4 Qui sont la cause des désirs ; voir supra, [p. 50](Bhagavadgita_2#p50).
+[^236]: 67:4 Qui sont la cause des désirs ; voir supra, [p. 50](../Bhagavadgita_2#p50).
 
 [^237]: 67:5 Abandon des actions distrayantes ; signifie scil. pour parfaire la connaissance, dit <i>S</i>rîdhara.
 
@@ -94,7 +94,7 @@ La Déité dit :
 
 [^240]: 68:2 Cela signifie restreindre les sens par l'esprit. Voir Maitrî-upanishad, p. 180.
 
-[^241]: 68:3 Supra, [p. 57](Bhagavadgita_3#p57).
+[^241]: 68:3 Supra, [p. 57](../Bhagavadgita_3#p57).
 
 [^242]: 68:4 Par l'une quelconque des vexations du monde.
 
@@ -118,7 +118,7 @@ La Déité dit :
 
 [^252]: 70:1 Cf. Sutta Nipāta, p. 62.
 
-[^253]: 70:2 Cf. ci-dessus, [p. 53](Bhagavadgita_3#p53).
+[^253]: 70:2 Cf. ci-dessus, [p. 53](../Bhagavadgita_3#p53).
 
 [^254]: 70:3 C'est-à-dire cesser de penser aux objets des sens. Cf. supra, [p. 69](#p69).
 
@@ -134,7 +134,7 @@ La Déité dit :
 
 [^260]: 71:3 Cf. Îsopanishad, p. 13.
 
-[^261]: 71:4 « Même en abandonnant toute action », dit <i>S</i>rîdhara ; et cf. infra, [p. 105](Bhagavadgita_13#p105).
+[^261]: 71:4 « Même en abandonnant toute action », dit <i>S</i>rîdhara ; et cf. infra, [p. 105](../Bhagavadgita_13#p105).
 
 [^262]: 71:5 Qui croit que le plaisir et la douleur sont autant aimés ou détestés par les autres que par lui-même, et se met en fait à la place des autres.
 
@@ -150,4 +150,4 @@ La Déité dit :
 
 [^268]: 72:4 C'est-à-dire l'émancipation finale.
 
-[^269]: 72:5 'Comme Ar<i>g</i>una lui-même', dit Madhusûdana, 'reçoit l'instruction dans la connaissance, bien qu'il vienne sur le champ de bataille sans aucun objectif de ce genre ; c'est pourquoi il a été dit auparavant : « rien n'est ici avorté. » Voir [p. 47](Bhagavadgita_2#p47).
+[^269]: 72:5 'Comme Ar<i>g</i>una lui-même', dit Madhusûdana, 'reçoit l'instruction dans la connaissance, bien qu'il vienne sur le champ de bataille sans aucun objectif de ce genre ; c'est pourquoi il a été dit auparavant : « rien n'est ici avorté. » Voir [p. 47](../Bhagavadgita_2#p47).

@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T22:26:12Z
 
 Traité des Hexagrammes pris pêle-mêle, selon l'opposition ou la diversité de leur sens.
 
-Ce dernier appendice est brièvement évoqué dans le dernier paragraphe de l'introduction, [p. 55](Introduction_3#p55). Il y est indiqué qu'il est en rimes, et je me suis efforcé de lui donner une forme similaire dans la version suivante. Cependant, les rimes et la longueur des vers dans l'original sont très irrégulières, et il m'a été impossible de reproduire cette irrégularité en anglais.
+Ce dernier appendice est brièvement évoqué dans le dernier paragraphe de l'introduction, [p. 55](../Introduction_3#p55). Il y est indiqué qu'il est en rimes, et je me suis efforcé de lui donner une forme similaire dans la version suivante. Cependant, les rimes et la longueur des vers dans l'original sont très irrégulières, et il m'a été impossible de reproduire cette irrégularité en anglais.
 
 1, 2. Force en <i>Kh</i>ien, faiblesse en Khwăn nous trouvons.
 

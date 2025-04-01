@@ -130,6 +130,6 @@ Ainsi je dis.
 
 [^889]: 299:2 Voir Uttarâdhyayana, cinquième leçon.
 
-[^890]: 299:3 <i>S</i>îlâṅka cite et commente quatre lectures différentes du premier vers de ce verset, dont le dernier est rendu ci-dessus car il s'agit du textus receptus de la Dîpikâ. (1) S'abstenir même de tout orgueil minime et de toute tromperie, etc. (2) « Grand » pour « même petit ». (3) J'ai entendu dire par certains : Ceci est la valeur de l'homme vertueux, cela, etc. Après ce verset, <i>S</i>îlâṅka en cite un autre qui, dit-il, ne se trouve pas dans les manuscrits du texte, mais la p. 300 se trouve dans la <i>T</i>îkâ. Il s'agit cependant du verset identique I, 3, 4, 20, voir ci-dessus, [p. 271](Sutrakritanga_1_3_4#p271), qui apparaît à nouveau I, 11, 11.
+[^890]: 299:3 <i>S</i>îlâṅka cite et commente quatre lectures différentes du premier vers de ce verset, dont le dernier est rendu ci-dessus car il s'agit du textus receptus de la Dîpikâ. (1) S'abstenir même de tout orgueil minime et de toute tromperie, etc. (2) « Grand » pour « même petit ». (3) J'ai entendu dire par certains : Ceci est la valeur de l'homme vertueux, cela, etc. Après ce verset, <i>S</i>îlâṅka en cite un autre qui, dit-il, ne se trouve pas dans les manuscrits du texte, mais la p. 300 se trouve dans la <i>T</i>îkâ. Il s'agit cependant du verset identique I, 3, 4, 20, voir ci-dessus, [p. 271](../Sutrakritanga_1_3_4#p271), qui apparaît à nouveau I, 11, 11.
 
 [^891]: 300:1 Comparez Matthieu vi. i-6.

@@ -127,7 +127,7 @@ Or, ce monde de Brahman appartient à ceux qui trouvent les lacs Ara et <i>N</i>
 
 <span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
-Et tandis que son esprit défaille, il se dirige vers le soleil. Car le soleil est la porte du monde (de Brahman). Ceux qui savent y entrent ; ceux qui ne savent pas en sont exclus. Il y a ce verset [1](Khandogya_8#fn340) : « Le cœur possède cent et une artères ; l’une d’elles pénètre le sommet de la tête ; en remontant par elle, l’homme atteint l’immortel ; les autres servent à partir dans des directions différentes, oui, dans des directions différentes [2](Khandogya_8#fn341). »
+Et tandis que son esprit défaille, il se dirige vers le soleil. Car le soleil est la porte du monde (de Brahman). Ceux qui savent y entrent ; ceux qui ne savent pas en sont exclus. Il y a ce verset [1](../Khandogya_8#fn340) : « Le cœur possède cent et une artères ; l’une d’elles pénètre le sommet de la tête ; en remontant par elle, l’homme atteint l’immortel ; les autres servent à partir dans des directions différentes, oui, dans des directions différentes [2](../Khandogya_8#fn341). »
 
 ## SEPTIÈME KHA<i>N</i><i>D</i>A [^342].
 

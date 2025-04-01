@@ -199,7 +199,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v7_2_4_2525"><sup><small>7:2:4:2525.</small></sup></span> Il verse quinze jarres d'eau, et il sème quinze vers, ce qui fait trente, le Virâ<i>g</i> (mètre) se compose de trente syllabes, et le Virâ<i>g</i> (le lointain, ou le lointain régnant) est toute la nourriture : toute la nourriture qu'il met ainsi en lui.
 
-<span id="v7_2_4_2626"><sup><small>7:2:4:2626.</small></sup></span> \[Il sème, avec Vâ<i>g</i>. S. XII, 75 seq.; <i>Ri</i>k S. X, 97\] 'Les herbes ont poussé pour la première fois trois âges avant les dieux [^642],' — les dieux sont sans doute les saisons, <span id="p340">[<sup><small>p. 340] et d'elles ces (herbes) qui poussaient trois fois, au printemps, pendant la saison des pluies et en automne ; — « des brunes je réfléchirai », — la brune, sans aucun doute, est Soma, et les herbes sont apparentées à Soma, et le Purusha (Pra<i>g</i>âpati) est apparenté aux herbes [^643] ; — « les cent pouvoirs », — dans la mesure où il vit ici cent (années), et a cent mérites, et cent énergies, il y a en lui ces cent pouvoirs ; — « et sept », — il parle ainsi de ces sept airs vitaux dans la tête.
+<span id="v7_2_4_2626"><sup><small>7:2:4:2626.</small></sup></span> \[Il sème, avec Vâ<i>g</i>. S. XII, 75 seq.; <i>Ri</i>k S. X, 97\] 'Les herbes ont poussé pour la première fois trois âges avant les dieux [^642],' — les dieux sont sans doute les saisons, <span id="p340"><sup><small>[ p. 340 ]</small></sup>]</span> et d'elles ces (herbes) qui poussaient trois fois, au printemps, pendant la saison des pluies et en automne ; — « des brunes je réfléchirai », — la brune, sans aucun doute, est Soma, et les herbes sont apparentées à Soma, et le Purusha (Pra<i>g</i>âpati) est apparenté aux herbes [^643] ; — « les cent pouvoirs », — dans la mesure où il vit ici cent (années), et a cent mérites, et cent énergies, il y a en lui ces cent pouvoirs ; — « et sept », — il parle ainsi de ces sept airs vitaux dans la tête.
 
 <span id="v7_2_4_2727"><sup><small>7:2:4:2727.</small></sup></span> « À toi, ô Mère, il y a cent pouvoirs, et à toi mille pousses », — dans la mesure où (les plantes) ici poussent au centuple, et au milleuple ; — « Vous aux cent vertus, libérez de la maladie celui-ci qui est à moi ! » c'est-à-dire celui que je guéris maintenant.
 
@@ -238,7 +238,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^610]: 320:1 Ou (Pra<i>g</i>âpati), le soi d'Agni, ou le corps.
 
-[^611]: 321:1 Ou probablement, un endroit stérile, voir [p. 43](Book_3_5_2#p43), note [2](Book_3_5_2#fn101).
+[^611]: 321:1 Ou probablement, un endroit stérile, voir [p. 43](../Book_3_5_2#p43), note [2](../Book_3_5_2#fn101).
 
 [^612]: 321:2 C'est-à-dire, tandis que lui-même reste au nord du lieu et fait face au sud, il les pose dans la direction du nord au sud.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^620]: 325:5 Partie i, p. 59 seq.
 
-[^621]: 325:6 Voir partie i, p. 55. Il faut cependant garder à l'esprit que le passage auquel il est fait référence ici se rapporte à la construction du Vedi d'un ish<i>t</i>i ordinaire, alors que dans le cas présent nous avons affaire à un Mahâvedi, tel que prescrit pour les sacrifices de Soma (cf. partie ii, p. 111 seq., où, cependant, seuls quelques points distinctifs sont mentionnés). Le plan du Mahâvedi, donné à la fin de la partie ii, montre à l'extrémité est un monticule carré, le soi-disant uttara-vedi, ou autel supérieur, sur lequel l'Âhavanîya, ou feu d'offrande, est entretenu. Sur un monticule de terre semblable, mais élevé au centre du site carré (voir [VII, 3, 1, 27](Book_3_7_3#v7_3_1_27)), l'Agni<i>k</i>ayana exige l'érection du grand autel du feu en briques, dont la préparation du site est expliquée dans le paragraphe suivant.
+[^621]: 325:6 Voir partie i, p. 55. Il faut cependant garder à l'esprit que le passage auquel il est fait référence ici se rapporte à la construction du Vedi d'un ish<i>t</i>i ordinaire, alors que dans le cas présent nous avons affaire à un Mahâvedi, tel que prescrit pour les sacrifices de Soma (cf. partie ii, p. 111 seq., où, cependant, seuls quelques points distinctifs sont mentionnés). Le plan du Mahâvedi, donné à la fin de la partie ii, montre à l'extrémité est un monticule carré, le soi-disant uttara-vedi, ou autel supérieur, sur lequel l'Âhavanîya, ou feu d'offrande, est entretenu. Sur un monticule de terre semblable, mais élevé au centre du site carré (voir [VII, 3, 1, 27](../Book_3_7_3#v7_3_1_27)), l'Agni<i>k</i>ayana exige l'érection du grand autel du feu en briques, dont la préparation du site est expliquée dans le paragraphe suivant.
 
 [^622]: 326:1 C'est 'sa + irâ', avec boisson ou nourriture.
 
@@ -284,13 +284,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^633]: 331:1 Voir la partie ii, p. 216, note 2, où 'aghnyâ' était utilisé pour les vaches.
 
-[^634]: 331:2 Voir [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22). La charrue est mise de côté sur l'utkara (tas d'ordures).
+[^634]: 331:2 Voir [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22). La charrue est mise de côté sur l'utkara (tas d'ordures).
 
 [^635]: 332:1 L'auteur fait ici allusion à la légende donnée en I, 1, 3, 4-5, — V<i>ri</i>tra enveloppait tout cet espace qui s'étend entre le ciel et la terre, et parce qu'il enveloppait (v<i>ri</i>) tout cela, il est appelé V<i>ri</i>tra. Indra le tua. Une fois tué, il coula puant dans toutes les directions vers l'eau ; car dans toutes les directions s'étend l'océan. Or, une partie de l'eau le dégoûta, elle monta de plus en plus haut et coula par-dessus : de là (surgirent) ces herbes ku<i>s</i>a, — elles sont en effet l'eau qui n'était pas putréfiée ; mais avec l'autre eau une certaine (matière) s'est en effet mêlée lorsque le V<i>ri</i>tra putride s'y est écoulé.
 
-[^636]: 332:2 Voir [p. 200](Book_3_6_3#p200), note [3](Book_3_6_3#fn413).
+[^636]: 332:2 Voir [p. 200](../Book_3_6_3#p200), note [3](../Book_3_6_3#fn413).
 
-[^637]: 333:1 Voir [VI, 1, 1, 1](Book_3_6_1#v6_1_1_1).
+[^637]: 333:1 Voir [VI, 1, 1, 1](../Book_3_6_1#v6_1_1_1).
 
 [^638]: 333:2 Littéralement, une part en avant, en premier lieu, c'est-à-dire une part préférentielle, ou un avant-goût. Étant accentué séparément, « purastât » ici, cependant, ne forme pas de composé avec « bhâga », contrairement à « purastâdbhâga », qui partage en avant. Cf. Taitt. S. V, 6, 4, 2.
 
@@ -300,7 +300,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^641]: 336:1 Ce sont trois jarres supplémentaires versées sur tout l'Agnikshetra, ou site de l'autel.
 
-[^642]: 337:1 Voir [p. 200](Book_3_6_3#p200), note [3](Book_3_6_3#fn413).
+[^642]: 337:1 Voir [p. 200](../Book_3_6_3#p200), note [3](../Book_3_6_3#fn413).
 
 [^643]: 338:1 Le semis de la graine est fait de la même manière que l'arrosage du site, c'est-à-dire de manière à terminer le semis de chaque quatre sillons en murmurant trois versets (Vâ<i>g</i>. S. XII, 75-86) ; après quoi la graine restante est dispersée sur tout le site avec trois versets supplémentaires (87-89).
 

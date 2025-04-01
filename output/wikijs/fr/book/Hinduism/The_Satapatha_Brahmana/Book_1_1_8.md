@@ -266,7 +266,7 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^515]: 219:1 I<i>d</i>ayâ <i>k</i>arati a le double sens de « vit avec I<i>d</i>â (la femme) » et « pratique des rites sacrificiels avec la cérémonie i<i>d</i>â ».
 
-[^516]: 219:2 Voir [p. 16](Book_1_1_1#p16), note [1](Book_1_1_1#fn106).
+[^516]: 219:2 Voir [p. 16](../Book_1_1_1#p16), note [1](../Book_1_1_1#fn106).
 
 [^517]: 219:3 L'expression technique utilisée pour cette quintuple découpe de l'i<i>d</i>â est sam-ava-do, « couper complètement (ou ensemble) », ou, selon le Dict. de Saint-Pétersbourg, « diviser et rassembler les p. 220 morceaux ». Les cinq découpes de l'i<i>d</i>â consistent en l'upastara<i>n</i>a, ou sous-couche de beurre dans l'i<i>d</i>âpâtrî ; en deux découpes de chacun des havis (ou plats de nourriture sacrificielle) de leurs parties sud et centrale respectivement ; et de deux égouttures (ou arrosages, abhighâra<i>n</i>a) de beurre, comme dans le cas du svish<i>t</i>ak<i>ri</i>t (voir Kâty. III, 4, 6, et note sur I, 7, 3, 20). Selon certaines autorités, l'i<i>d</i>â ne comprend que quatre égouttures (cf. Hillebrandt, Neu- et Vollm. p. 122).
 
@@ -274,7 +274,7 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^520]: 220:2 Un geste indique ici les deux articulations médianes (ou, selon Harisvâmin, les maillons intermédiaires) de l'index droit du Hot<i>ri</i>, à savoir d'abord l'articulation inférieure, puis (par. 15) l'articulation supérieure ; sur quoi le Hot<i>ri</i> applique les articulations respectives sur ses lèvres et les enduit de beurre, cf. Â<i>s</i>v. <i>S</i>. I, 7, 1 ; Kâty. III, 4, 9 ; Hillebrandt, op. cit., p. 124. Dans <i>S</i>at. Br. XII, 2, 4, 5, l'index est appelé annâditamâ, ou le doigt « qui mange la plupart des aliments » ; cf. Weber, Prati<i>g</i><i>ñ</i>âsûtra, p. 97.
 
-[^521]: 221:1 Enâm hotari <i>s</i>rayati, littéralement 'il le fait entrer, demeurer dans le Hot<i>ri</i>.' L'auteur, cependant, ici, comme dans I, 6, 4, 7, confond le verbe <i>s</i>ri avec <i>s</i>râ, 'cuire'. La raison de cela, voir [p. 177](Book_1_1_6#p177), note [4](Book_1_1_6#fn408).
+[^521]: 221:1 Enâm hotari <i>s</i>rayati, littéralement 'il le fait entrer, demeurer dans le Hot<i>ri</i>.' L'auteur, cependant, ici, comme dans I, 6, 4, 7, confond le verbe <i>s</i>ri avec <i>s</i>râ, 'cuire'. La raison de cela, voir [p. 177](../Book_1_1_6#p177), note [4](../Book_1_1_6#fn408).
 
 [^522]: 221:2 Ceci, selon Â<i>s</i>v. <i>S</i>r. I, 7, 3, et comm., s'effectue de la manière suivante : le Hot<i>ri</i> prend l'i<i>d</i>â avec ses mains jointes (a<i>ñ</i><i>g</i>ali) et le place dans sa main gauche ; sur quoi l'Adhvaryu coupe l'avantare<i>d</i>â (coupe quintuple) de l'i<i>d</i>â dans la main droite du Hot<i>ri</i>, dont les doigts pointent vers le nord ; les cinq coupes consistent apparemment en la « sous-couche » de beurre, deux morceaux coupés de l'i<i>d</i>â, et des coulures de beurre dessus. Cf. Hillebrandt, op. cit., p. 125.
 
@@ -284,7 +284,7 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^525]: 222:2 À savoir le Hot<i>ri</i>, en tant que représentant des prêtres officiants. Schol.
 
-[^526]: 222:3 Sur les rathantara et b<i>ri</i>hat sâmans, voir [p. 196](Book_1_1_7#p196), note [2](Book_1_1_7#fn446). Le vâmadevya sâman est Sâma-veda II, 32-34 : kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, « de quelle faveur nous assistera-t-il, l'ami merveilleux et toujours réjouissant », etc. Cf. Haug, Ait. Br. II, 246.
+[^526]: 222:3 Sur les rathantara et b<i>ri</i>hat sâmans, voir [p. 196](../Book_1_1_7#p196), note [2](../Book_1_1_7#fn446). Le vâmadevya sâman est Sâma-veda II, 32-34 : kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, « de quelle faveur nous assistera-t-il, l'ami merveilleux et toujours réjouissant », etc. Cf. Haug, Ait. Br. II, 246.
 
 [^527]: 222:4 Pour upahûtâ gâva<i>h</i>, le Taitt. lit upahûtâ dhenu<i>h</i>, 'ici est appelée la vache.' Â<i>s</i>val. <i>S</i>r. a upahûtâ gâva<i>h</i> sahâ<i>s</i>ira<i>h</i>\—upahûtâ dhenu<i>h</i> saha<i>ri</i>shabhâ. Ici et après les appels suivants, nous devons apparemment fournir les formules inverses, 'Que les vaches et le taureau nous appellent ensemble', etc., comme dans Taitt. Br., elles étant également omises dans Taitt. S. II, 6, 7.
 
@@ -350,7 +350,7 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^558]: 237:1 Dans Taitt. Br. III, 3, 9, une explication symbolique différente est donnée de la séparation des cuillères : il y est dit qu'en déplaçant le <i>g</i>uhû vers l'est, il chasse les ennemis qui sont nés ; et en déplaçant l'upabh<i>ri</i>t vers l'ouest, il chasse ceux qui naîtront plus tard ; et le sacrificateur se tient alors fermement établi dans ce monde.
 
-[^559]: 237:2 Voir [p. 162](Book_1_1_6#p162), note [3](Book_1_1_6#fn378).
+[^559]: 237:2 Voir [p. 162](../Book_1_1_6#p162), note [3](../Book_1_1_6#fn378).
 
 [^560]: 238:1 Ce passage est d'une importance considérable, car il montre que l'interdiction des mariages mixtes entre proches parents, — si rigoureusement appliquée plus tard, et déjà formulée dans des passages tels que Âpast. Dharm. II, 5, 15, 16, « On ne doit pas donner sa fille à un homme appartenant au même gotra. Ni à un parent (à six degrés près) du côté maternel (ou paternel). » Gobh. III, 4, 3-5, « On doit prendre pour épouse une personne qui n'est pas du même gotra, ou qui n'est pas sapi<i>n</i><i>d </i>a à sa mère », — n'était pas encore fermement établie à l'époque de notre auteur. Harisvâmin remarque à propos de notre texte que les Kânvas autorisent les mariages mixtes dans de tels cas à partir de la troisième génération (le texte Kânvas du <i>S</i>at. Br. dit : « Dans le troisième homme nous nous unissons, dans le quatrième homme nous nous unissons ») et les Saurâshâras à partir de la quatrième génération ; et que les Dâkshinâtyas autorisent le mariage avec les filles du frère de la mère, p. 239 et avec les fils de la sœur du père. Voir Weber, Ind. Stud. X, p. 75 ; Max Müller, History of Ancient Sanskrit Literature, p. 387 ; Bühler, Sacred Laws of the Âryas, I, p. 126.
 
@@ -380,13 +380,13 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^573]: 243:2 C'est-à-dire qu'il s'assure que le sacrificateur a réellement obtenu le but pour lequel le sacrifice a été entrepris, à savoir le droit d'aller au monde céleste après sa mort.
 
-[^574]: 244:1 Il se touche près du cœur, ou, selon Vaidyanâtha, il touche ses yeux. Après cela, il doit, comme d'habitude, toucher l'eau lustrale. Voir [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84).
+[^574]: 244:1 Il se touche près du cœur, ou, selon Vaidyanâtha, il touche ses yeux. Après cela, il doit, comme d'habitude, toucher l'eau lustrale. Voir [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84).
 
 [^575]: 244:2 Ici commence le <i>s</i>a<i>m</i>yuvâka ; voir [p. 241](#p241), note [^565].
 
 [^576]: 244:3 'Svagâ´ daívyâ hôt<i>ri</i>bhya<i>h</i>.' La forme daivyâ semble s'être fixée avant hot<i>ri</i>, en raison de son utilisation fréquente, en particulier dans les hymnes Âprî, comme nom. acc. duel daívyâ hótârâ ; et dans l'invocation de l'I<i>d</i>â, comme nom. pluriel daívyâ hótâra<i>h</i>.
 
-[^577]: 245:1 Ici commence l'offrande des restes (sa<i>m</i>srava) de beurre ; voir [p. 236](Book_1_1_8#p236), note [^553].
+[^577]: 245:1 Ici commence l'offrande des restes (sa<i>m</i>srava) de beurre ; voir [p. 236](../Book_1_1_8#p236), note [^553].
 
 [^578]: 245:2 Voir par. 14 ci-dessus.
 
@@ -394,10 +394,10 @@ Français : <span id="v1_8_3_1919"><sup><small>1:8:3:1919.</small></sup></span> 
 
 [^580]: 246:1 Paridheyâ<i>h</i>, littéralement « vous qui devez être étendus » ; selon Mahîdhara = paridhibhavâ<i>h</i>. Le texte du Kâ<i>n</i>va mentionne paridhaya<i>h</i>, « bâtons d'enceinte ». Le Ya<i>g</i>us Noir (Taitt. S. I, 1, 13, 2) mentionne plutôt « barhishada<i>h</i> (assis sur les Barhis) ».
 
-[^581]: 246:2 La signification originelle de cet appel sacrificiel, comme celle du vasha<i>t</i> apparemment allié, vausha<i>t</i>, semble être : « Puisse-t-il (Agni) la porter (l'oblation à la divinité) ! » Cf. [p. 88](Book_1_1_3#p88), note [2](Book_1_1_3#fn254).
+[^581]: 246:2 La signification originelle de cet appel sacrificiel, comme celle du vasha<i>t</i> apparemment allié, vausha<i>t</i>, semble être : « Puisse-t-il (Agni) la porter (l'oblation à la divinité) ! » Cf. [p. 88](../Book_1_1_3#p88), note [2](../Book_1_1_3#fn254).
 
 [^582]: 246:3 Voir I, 1, 2, 8.
 
-[^583]: 246:4 Ceci semble faire référence au moment où il prépare les cuillères pour leur usage sacré. Il les essuie ensuite avec de l'herbe sacrificielle ; autrement dit, il frotte les chevaux avant de commencer son voyage vers le monde des dieux. Voir [p. 68](Book_1_1_3#p68), note [1](Book_1_1_3#fn208).
+[^583]: 246:4 Ceci semble faire référence au moment où il prépare les cuillères pour leur usage sacré. Il les essuie ensuite avec de l'herbe sacrificielle ; autrement dit, il frotte les chevaux avant de commencer son voyage vers le monde des dieux. Voir [p. 68](../Book_1_1_3#p68), note [1](../Book_1_1_3#fn208).
 
 [^584]: 247:1 J'adopte l'interprétation de Harisvâmin, qui traduit avâr<i>kh</i>et par adha<i>h</i> patet. Le Dict. de Saint-Pétersbourg propose apparemment : « il les dételerait, comme il dételerait un cheval (ou un attelage). » Selon Harisvâmin, l'auteur conteste ici le point de vue des Karakas (<i>k</i>araka<i>s</i>ruti), qui enseignaient apparemment que le dételage (symbolique) des cuillères devait suivre leur pose sur le joug ; tandis que notre auteur maintient que le dételage devrait précéder la pose.

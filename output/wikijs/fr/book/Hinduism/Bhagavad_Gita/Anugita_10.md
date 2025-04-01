@@ -72,7 +72,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1326]: 277:4 Cf. Aitareya-brâhma<i>n</i>a (Haug), pp. 132, 133.
 
-[^1327]: 278:1 Cf. quant aux trois premières Gîtâ, [p. 123](Bhagavadgita_18#p123). Ce sont les quatre catégories, à l'une ou l'autre desquelles tout dans le monde peut être rapporté.
+[^1327]: 278:1 Cf. quant aux trois premières Gîtâ, [p. 123](../Bhagavadgita_18#p123). Ce sont les quatre catégories, à l'une ou l'autre desquelles tout dans le monde peut être rapporté.
 
 [^1328]: 278:2 Les textes diffèrent ici. Il interprète la lecture d'Arguna Misra comme signifiant « la soumission de ces Hotris ». La lecture suivie dans le texte semble dans une certaine mesure corroborée par la suite. Mais le passage dans son ensemble n'est pas très clair.
 
@@ -88,23 +88,23 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1334]: 278:8 C'est de ces sept dont le soi doit être émancipé. doit signifier le soi, et non le Brâhma<i>n</i>a qui parle.
 
-[^1335]: 279:1 C'est-à-dire, je présume, les sens. Cf. Gîtâ, [p. 50](Bhagavadgita_2#p50). Les érudits ne supposent pas que leur moi ait quoi que ce soit à voir avec eux. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1335]: 279:1 C'est-à-dire, je présume, les sens. Cf. Gîtâ, [p. 50](../Bhagavadgita_2#p50). Les érudits ne supposent pas que leur moi ait quoi que ce soit à voir avec eux. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).
 
-[^1336]: 279:2 Cf. Gîtâ, [p. 53](Bhagavadgita_3#p53) ; Manu III, 118.
+[^1336]: 279:2 Cf. Gîtâ, [p. 53](../Bhagavadgita_3#p53) ; Manu III, 118.
 
-[^1337]: 279:3 Sa connaissance lui donne ce pouvoir. Il n'est pas « détruit » par la nourriture comme l'autre homme. Nîlaka<i>nth</i>a compare B<i>nth</i>hadâra<i>n</i>yaka, p. 884. Voir aussi [p. 260](Anugita_5#p260), note [1](Anugita_5#fn1239) supra.
+[^1337]: 279:3 Sa connaissance lui donne ce pouvoir. Il n'est pas « détruit » par la nourriture comme l'autre homme. Nîlaka<i>nth</i>a compare B<i>nth</i>hadâra<i>n</i>yaka, p. 884. Voir aussi [p. 260](../Anugita_5#p260), note [1](../Anugita_5#fn1239) supra.
 
 [^1338]: 279:4 C'est-à-dire le mal dû à la destruction de la vie nécessaire à l'obtention de nourriture, dit Nîlaka<i>nth</i>a citant B<i>nth</i>hadâra<i>n</i>yaka, p. 913.
 
 [^1339]: 279:5 Ceci inclut également l'opération de la compréhension. Nîlaka<i>nth</i>a dit que ce verset explique ce que le mot « nourriture » signifie ici.
 
-[^1340]: 279:6 Pour la phrase, cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1340]: 279:6 Pour la phrase, cf. Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
-[^1341]: 279:7 C'est-à-dire moi-même, Ar<i>g</i>una Mi<i>s</i>ra. Voir [p. 259](Anugita_5#p259), note [3](Anugita_5#fn1235) supra.
+[^1341]: 279:7 C'est-à-dire moi-même, Ar<i>g</i>una Mi<i>s</i>ra. Voir [p. 259](../Anugita_5#p259), note [3](../Anugita_5#fn1235) supra.
 
 [^1342]: 279:8 Comme les objets des sens, etc. sont tous absorbés en lui.
 
-[^1343]: 279:9 On l'appelle « feu », car il brûle toute action. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62).
+[^1343]: 279:9 On l'appelle « feu », car il brûle toute action. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62).
 
 [^1344]: 280:1 Le commentaire d'Ar<i>g</i>una Mi<i>s</i>ra n'est pas intelligible ici, donc je suis Nîlaka<i>nth</i>a, mais avec hésitation.
 

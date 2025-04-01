@@ -111,7 +111,7 @@ Vidura dit : « Les trois objectifs, ô roi (profit, plaisir et salut), trouvent
 
 Dhritarashtra dit : « Ces paroles, ô Vidura, que tu as prononcées devant cette assemblée, à propos des Pandavas et de moi-même, sont pour leur bien, mais pas pour le nôtre. Mon esprit ne les approuve pas. Comment as-tu pu te fixer sur tout cela maintenant ? Après avoir parlé au nom des Pandavas, je constate que tu n'es pas amical envers moi. Comment puis-je abandonner mon fils pour les fils de Pandu ? Ce sont sans doute mes fils, mais Duryodhana est né de mon corps. Qui donc, parlant avec impartialité, me conseillera jamais de renoncer à mon propre corps pour le bien des autres ? Ô Vidura, tout ce que tu dis est tortueux, bien que je t'estime beaucoup. Reste ou pars, comme tu veux. Même si elle est accommodée, une volonté impure abandonne son mari. »
 
-« Vaisampayana dit : Ô roi, en disant cela, Dhritarashtra se leva brusquement et se rendit dans les appartements intérieurs. Et Vidura, disant : “Cette race est condamnée”, s’en alla chez les fils de Pritha. »
+« Vaisampayana dit : Ô roi, en disant cela, Dhritarashtra se leva brusquement et se rendit dans les appartements intérieurs. Et Vidura, disant : « Cette race est condamnée », s’en alla chez les fils de Pritha. »
 
 ## SECTION V
 
@@ -188,7 +188,7 @@ Lorsque le Muni eut ainsi parlé, le roi Dhritarashtra commença à apaiser le s
 
 « Vaisampayana dit : « Désireux de s'assurer de la puissance de Bhima, le plus grand des rois, le père de Duryodhana, demanda alors à Maitreya : « Comment Kirmira a-t-il été tué par Bhima ? »
 
-Maitreya dit : “Je ne te parlerai plus, ô roi, car mes paroles ne sont pas prises en considération par ton fils. Après mon départ, Vidura te racontera tout !” Et sur ces mots, Maitreya s'en alla vers son lieu d'origine. Duryodhana sortit également, bouleversé par la nouvelle de la mort de Kirmira (des mains de Bhima).
+Maitreya dit : « Je ne te parlerai plus, ô roi, car mes paroles ne sont pas prises en considération par ton fils. Après mon départ, Vidura te racontera tout ! » Et sur ces mots, Maitreya s'en alla vers son lieu d'origine. Duryodhana sortit également, bouleversé par la nouvelle de la mort de Kirmira (des mains de Bhima).
 
 <figure class="table chapter-navigator">
   <table>

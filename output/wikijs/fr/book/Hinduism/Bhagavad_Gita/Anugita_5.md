@@ -62,9 +62,9 @@ dateCreated: 2025-1-16T20:0:42Z
 
 ## Notes de bas de page
 
-[^1217]: 256:1 C'est-à-dire les questions à [p. 252](Anugita_4#p252), Nîlaka<i>nth</i>a ; plus probablement, peut-être, la « doctrine » mentionnée à [p. 254](Anugita_4#p254) est ce à quoi il est fait allusion.
+[^1217]: 256:1 C'est-à-dire les questions à [p. 252](../Anugita_4#p252), Nîlaka<i>nth</i>a ; plus probablement, peut-être, la « doctrine » mentionnée à [p. 254](../Anugita_4#p254) est ce à quoi il est fait allusion.
 
-[^1218]: 256:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57) et note.
+[^1218]: 256:2 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57) et note.
 
 [^1219]: 256:3 Nîlaka<i>nth</i>a dit que cela signifie « l'ignorance que la femme n'a pas d'autre soutien ». A<i>g</i>una Mi<i>s</i>ra interprète kînâ<i>s</i>a comme signifiant « indigent » au lieu de « dur ».
 
@@ -72,7 +72,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1221]: 256:5 Je suis Ar<i>g</i>una Mi<i>s</i>ra ; l'original signifie littéralement « restreindre ».
 
-[^1222]: 257:1 Cf. Gita, pp. [52](Bhagavadgita_2#p52), [53](Bhagavadgita_3#p53); voir aussi, quant à la liberté d’action, Gita, [p. 127](Bhagavadgita_18#p127).
+[^1222]: 257:1 Cf. Gita, pp. [52](../Bhagavadgita_2#p52), [53](../Bhagavadgita_3#p53); voir aussi, quant à la liberté d’action, Gita, [p. 127](../Bhagavadgita_18#p127).
 
 [^1223]: 257:2 C'est-à-dire pensée, parole et acte. Dans le texte, j'ai conservé une traduction plus littérale.
 
@@ -80,19 +80,19 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1225]: 257:4 Cf. entre autres, Kumara-sambhava II, 46.
 
-[^1226]: 257:5 C'est-à-dire qu'il dit Ar<i>g</i>una Mi<i>s</i>ra, le lieu sûr, à l'intérieur du corps ; et dit Nîlaka<i>nth</i>a, le siège appelé Avimukta, entre le nez et les sourcils ; à ce sujet, cf. Gîtâ, [p. 67](Bhagavadgita_5#p67). Dans le Kenopanishad (p. 220), le mot âyatana est utilisé pour signifier un moyen d'atteindre le Brahman.
+[^1226]: 257:5 C'est-à-dire qu'il dit Ar<i>g</i>una Mi<i>s</i>ra, le lieu sûr, à l'intérieur du corps ; et dit Nîlaka<i>nth</i>a, le siège appelé Avimukta, entre le nez et les sourcils ; à ce sujet, cf. Gîtâ, [p. 67](../Bhagavadgita_5#p67). Dans le Kenopanishad (p. 220), le mot âyatana est utilisé pour signifier un moyen d'atteindre le Brahman.
 
-[^1227]: 257:6 La lune et le feu constituent l'univers, dit Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113). Nîlakan<i>th</i>a interprète cela de manière plus mystique comme se référant aux artères I<i>d</i>â et Pingalâ.
+[^1227]: 257:6 La lune et le feu constituent l'univers, dit Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 113](../Bhagavadgita_15#p113). Nîlakan<i>th</i>a interprète cela de manière plus mystique comme se référant aux artères I<i>d</i>â et Pingalâ.
 
 [^1228]: 257:7 Ainsi Nîlaka<i>nth</i>a, mais il le prend pour « vâyu » ou vent, comme principe distinct. Le sens n'est nullement clair. Mais la lune, étant la divinité de l'esprit, peut aussi, peut-être, être décrite comme elle l'est ici, pour cette raison.
 
 [^1229]: 257:8 Ceci est l'interprétation d'Ar<i>g</i>una Mi<i>s</i>ra du locatif original.
 
-[^1230]: 258:1 Cf. note [4](Anugita_4#fn1159), [p. 247](Anugita_4#p247) supra, et [p. 253](Anugita_4#p253).
+[^1230]: 258:1 Cf. note [4](../Anugita_4#fn1159), [p. 247](../Anugita_4#p247) supra, et [p. 253](../Anugita_4#p253).
 
 [^1231]: 258:2 A<i>g</i>una Mi<i>s</i>ra dit que cela signifie les cinq grands éléments, les onze organes (actif et perceptif, et l'esprit), le vent de vie et l'âme individuelle.
 
-[^1232]: 258:3 Le Prânâ se trouve au nez, l'Apâna aux bras, le Samâna au nombril, le Vyâna imprègne tout le corps et l'Udâna à toutes les articulations ; cf. Yoga-sûtra III, 38 seq. Nîlakanthâ explique que cela explique comment l'« étendue » (c'est-à-dire, dit-il, les opérations de la création, etc.) « procède » du Brahman. Voir sur les vents vitaux : Banthhadâranthaka, p. 667 ; Khândogya, pp. 42-188 ; Sânkhyatattvakaumudî, p. 96 ; Vedânta Paribhâshâ, p. 45 ; [p. 271](Anugita_8#p271) infra.
+[^1232]: 258:3 Le Prânâ se trouve au nez, l'Apâna aux bras, le Samâna au nombril, le Vyâna imprègne tout le corps et l'Udâna à toutes les articulations ; cf. Yoga-sûtra III, 38 seq. Nîlakanthâ explique que cela explique comment l'« étendue » (c'est-à-dire, dit-il, les opérations de la création, etc.) « procède » du Brahman. Voir sur les vents vitaux : Banthhadâranthaka, p. 667 ; Khândogya, pp. 42-188 ; Sânkhyatattvakaumudî, p. 96 ; Vedânta Paribhâshâ, p. 45 ; [p. 271](../Anugita_8#p271) infra.
 
 [^1233]: 258:4 Le soi, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a dit, le Prâ<i>n</i>a accompagné de l'Apâna.
 
@@ -100,7 +100,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1235]: 258:6 Nîlaka<i>nth</i>a dérive le mot ainsi, utkarshe<i>n</i>a ânayati.
 
-[^1236]: 258:7 C'est-à-dire la subjugation des vents de vie comme indiqué dans la Gîtâ, [p. 61](Bhagavadgita_4#p61).
+[^1236]: 258:7 C'est-à-dire la subjugation des vents de vie comme indiqué dans la Gîtâ, [p. 61](../Bhagavadgita_4#p61).
 
 [^1237]: 258:8 Le sens du passage dans son ensemble n'est pas très clair, et les commentateurs n'apportent que peu d'aide. Le sens semble être le suivant : le cours de la vie terrestre est dû aux opérations des vents vitaux qui sont attachés au soi et conduisent à ses manifestations en tant qu'âmes individuelles. Parmi ceux-ci, le Samâna et le Vyâna sont contrôlés et tenus en échec par le Prânâ et l'Apâna, dans lesquels le premier est absorbé par le sommeil. Les deux derniers sont contrôlés et tenus en échec par l'Udâna, qui contrôle ainsi tout. Et le contrôle de celui-ci, qui est le contrôle des cinq, et que l'on appelle autrement pénitence, détruit le cours de la vie terrestre et conduit au soi suprême.
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1248]: 260:5 Ce principe, à savoir le Brahman.
 
-[^1249]: 260:6 C'est l'opération de l'esprit, voir Gîtâ, [p. 57](Bhagavadgita_3#p57) note.
+[^1249]: 260:6 C'est l'opération de l'esprit, voir Gîtâ, [p. 57](../Bhagavadgita_3#p57) note.
 
 [^1250]: 260:7 Le Brahman, Ar<i>g</i>una Mi<i>s</i>ra. Ou peut-être la « production septuple ».
 

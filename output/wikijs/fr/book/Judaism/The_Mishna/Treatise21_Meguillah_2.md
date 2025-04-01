@@ -81,7 +81,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^587]: 184:2 Qui a lu le 14 Adar.
 
-[^588]: 184:3 Qui a lu le 15. Pour la signification juridique de villes ouvertes et de villes anciennement fortifiées, voir notre 3e note, page [180](Treatise13_Erubin_Intro#p180).
+[^588]: 184:3 Qui a lu le 15. Pour la signification juridique de villes ouvertes et de villes anciennement fortifiées, voir notre 3e note, page [180](../Treatise13_Erubin_Intro#p180).
 
 [^589]: 185:4 Ceci est expliqué dans le Traité Niddah.
 

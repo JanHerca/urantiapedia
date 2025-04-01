@@ -106,7 +106,7 @@ On dit qu'il a transcendé les qualités, ô fils de Pându ! celui qui n'est pa
 
 [^458]: 109:4 C'est-à-dire ce qui a été appelé Kshetragña auparavant, le principe superviseur à l'intérieur de soi.
 
-[^459]: 109:5 Les corps sont des développements des qualités, disent les commentateurs, ce qui n'est pas incompatible avec l'explication des qualités donnée ci-dessus. Quant aux qualités transcendantes, cf. [p. 48](Bhagavadgita_2#p48) supra.
+[^459]: 109:5 Les corps sont des développements des qualités, disent les commentateurs, ce qui n'est pas incompatible avec l'explication des qualités donnée ci-dessus. Quant aux qualités transcendantes, cf. [p. 48](../Bhagavadgita_2#p48) supra.
 
 [^460]: 109:6 Cf. quant à ce qui suit ce qui est dit au chapitre II à propos de « celui dont l'esprit est stable ».
 
@@ -116,10 +116,10 @@ On dit qu'il a transcendé les qualités, ô fils de Pându ! celui qui n'est pa
 
 [^463]: 110:3 C'est-à-dire de sa détermination à rechercher la vérité, par les plaisirs ou les peines du monde.
 
-[^464]: 110:4 Cf. [p. 55](Bhagavadgita_3#p55) supra.
+[^464]: 110:4 Cf. [p. 55](../Bhagavadgita_3#p55) supra.
 
 [^465]: 110:5 Intentionné uniquement sur soi-même.
 
-[^466]: 110:6 Pour le passage entier, cf. [p. 101](Bhagavadgita_12#p101) supra.
+[^466]: 110:6 Pour le passage entier, cf. [p. 101](../Bhagavadgita_12#p101) supra.
 
 [^467]: 110:7 Nîlaka<i>nth</i>a interprète cela comme signifiant « l'objet ultime des Védas ». Je suis ici K<i>nth</i>sh<i>n</i>a. <i>S</i>rîdhara suggère ce parallèle : comme la lumière incarnée est le soleil, ainsi le Brahman incarné est identique à Vâsudeva.

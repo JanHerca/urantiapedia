@@ -112,7 +112,7 @@ Le Livre comprend sept Livres : le deuxième, quinze ; et le troisième, onze. �
 
 Le titre général des œuvres de Kwang-dze.
 
-Français le duché de Song, né dans ce qu'on appelait alors le district de Mäng, et appartenant à l'État ou royaume de Liang ou Wei. En grandissant, il occupa un poste officiel dans la ville de Zhî-yüan, dont l'emplacement n'est pas facile à déterminer avec certitude. En 742 apr. J.-C., le nom de son lieu de naissance fut changé (mais seulement pour un temps) en Nan-hwa, et un ordre impérial fut émis selon lequel Kwang-Sze serait désormais appelé « Le Vrai Homme de Nan-hwa », et son Livre, « Le Vrai Livre de Nan-hwa [1](Introduction_4#fn8). » Être « un Vrai Homme » est la plus haute réalisation taoïste d'un homme, et notre auteur ainsi canonisé communique sa gloire à son Livre.
+Français le duché de Song, né dans ce qu'on appelait alors le district de Mäng, et appartenant à l'État ou royaume de Liang ou Wei. En grandissant, il occupa un poste officiel dans la ville de Zhî-yüan, dont l'emplacement n'est pas facile à déterminer avec certitude. En 742 apr. J.-C., le nom de son lieu de naissance fut changé (mais seulement pour un temps) en Nan-hwa, et un ordre impérial fut émis selon lequel Kwang-Sze serait désormais appelé « Le Vrai Homme de Nan-hwa », et son Livre, « Le Vrai Livre de Nan-hwa [1](../Introduction_4#fn8). » Être « un Vrai Homme » est la plus haute réalisation taoïste d'un homme, et notre auteur ainsi canonisé communique sa gloire à son Livre.
 
 <figure class="table chapter-navigator">
   <table>

@@ -206,7 +206,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1573]: 350:3 L'Ashem Vohu.
 
-[^1574]: 350:4 Voir [p. 22](Yasts_1#p22).
+[^1574]: 350:4 Voir [p. 22](../Yasts_1#p22).
 
 [^1575]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
 
@@ -234,4 +234,4 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1588]: 353:2 Rivières considérées comme les épouses d'Ahura (cf. Ormazd et Ahriman, § 32).
 
-[^1589]: 353:3 De Yasna LXVIII, 10 (LXVII, 30) ; cf. [p. 34](Yasts_1#p34).
+[^1589]: 353:3 De Yasna LXVIII, 10 (LXVII, 30) ; cf. [p. 34](../Yasts_1#p34).

@@ -700,13 +700,13 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^586] : 121:3 Va<i>n</i>ta, 'assistance, c'est-à-dire faire du <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi fait une collecte pour les pauvres (Études Iraniennes, II, 155).
 
-[^587]: 121:4 Comme [p. 30](Yasts_1#p30).
+[^587]: 121:4 Comme [p. 30](../Yasts_1#p30).
 
 [^588] : 121:5 Perethu-vaêdhayana : sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
 
 [^589]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem : ce mot, assez étrangement, est généralement traduit par « celui qui a les bras les plus forts » (balish<i>th</i>abhu<i>g</i>am) ; <i>g</i>agâuru est traduit de la même manière.
 
-[^590]: 122:1 Voir [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^590]: 122:1 Voir [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^591]: 122:2 Cf. Yt. V, 53; X, 94.
 
@@ -760,7 +760,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^619] : 128:2 Vend. XVIII, 51 \[III\].
 
-[^620]: 128:3 Voir ci-dessus, [p. 26](Yasts_1#p26), note [2](Yasts_1#fn120). §§ 30-34 = §§ 56-59.
+[^620]: 128:3 Voir ci-dessus, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
 
 [^621]: 128:4 Douteux (lecture arena<i>t</i>\-<i>g</i>aêsha?).
 
@@ -820,7 +820,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^651] : 136:1 Cf. Yt. VIII, 38.
 
-[^652]: 136:2 Voir ci-dessus, [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^652]: 136:2 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^653]: 136:3 Mithra lui-même (?).
 
@@ -836,7 +836,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^659]: 136:9 Douteux.
 
-[^660]: 136:10 Voir ci-dessus, [p. 95](Yasts_8#p95), note [1](Yasts_8#fn468).
+[^660]: 136:10 Voir ci-dessus, [p. 95](../Yasts_8#p95), note [1](../Yasts_8#fn468).
 
 [^661]: 136:11 Voir Vend. Introd. IV, 23.
 
@@ -927,9 +927,9 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^703]: 146:5 Qui n'a pas un rayon de lumière céleste : ici, l'homme de peu de foi.
 
-[^704]: 147:1 Voir ci-dessus, [p. 4](Sirozahs_1#p4), n. [5](Sirozahs_1#fn11).
+[^704]: 147:1 Voir ci-dessus, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
 
-[^705] : 147 : 2 Âsna : Sansk. su<i>s</i>îla ([p. 34](Yasts_1#p34), n. [4](Yasts_1#fn181)).
+[^705] : 147 : 2 Âsna : Sansk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
 
 [^706]: 147:3 Celui qui t'offre un bon sacrifice ; cf. § 108.
 
@@ -993,7 +993,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^739]: 153:1 Voir Yt. XVI.
 
-[^741]: 153:2 Voir ci-dessus, [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^741]: 153:2 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^742]: 153:3 Cf. Yt. X, 70.
 
@@ -1001,7 +1001,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^744]: 153:5 Le Génie du Feu.
 
-[^745]: 153:6 Voir [p. 95](Yasts_8#p95), note [1](Yasts_8#fn468).
+[^745]: 153:6 Voir [p. 95](../Yasts_8#p95), note [1](../Yasts_8#fn468).
 
 [^746]: 153:7 Un point d'or.
 

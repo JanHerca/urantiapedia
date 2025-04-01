@@ -676,7 +676,7 @@ Pour filtrer chaque anachorète confiant,
 Et tu défendras ta nouvelle demeure
 Les ermites qui dépendent de toi.
 Maintenant là-bas, Prince, dirige tes yeux
-Là où surgissent les denses bois de Madhúka [1](Book_3_20#fn442) :
+Là où surgissent les denses bois de Madhúka [1](../Book_3_20#fn442) :
 Percer leur ombre sombre, et sortir
 Tournez-vous vers un figuier au nord :
 Puis en avant vers un pré en pente
@@ -1176,8 +1176,8 @@ Avec Lakshman toujours à ses côtés,
 Et la douce dame Maithil.
 Ainsi Rudra brille dans les mondes adorés,
 Dans une gloire sans tache,
-Lorsque Nandi [1](Book_3_20#fn455) se tient aux côtés de son seigneur,
-Et l'enfant du roi Himálaya. [2](Book_3_20#fn456)
+Lorsque Nandi [1](../Book_3_20#fn455) se tient aux côtés de son seigneur,
+Et l'enfant du roi Himálaya. [2](../Book_3_20#fn456)
 
 
 
@@ -1496,10 +1496,10 @@ Et mènent des vies de sainte vertu :
 Avec des sens ordonnés et sans tache,
 Ils sont stylisés Ráma et Lakshman.
 
-Ils sont beaux comme le Roi des Ménestrels [1b](Book_3_20#fn460),
+Ils sont beaux comme le Roi des Ménestrels [1b](../Book_3_20#fn460),
 Et marqué des signes d'une domination royale.
 Je ne sais pas si les héros tracent
-Leur lignée vient des Dieux ou de la race Dánav [2b](Book_3_20#fn461).
+Leur lignée vient des Dieux ou de la race Dánav [2b](../Book_3_20#fn461).
 Là, par ces yeux émerveillés entre
 Les nobles jeunes gens virent une dame,
 Belle, épanouie, jeune, avec une taille délicate,

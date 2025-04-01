@@ -288,7 +288,7 @@ Le ciel envoie son filet de crime : des insectes dévoreurs qui fatiguent et emb
 
 [^596]: 421:1 Équivalent à l'extinction de la dynastie.
 
-[^597]: 421:2 Le roi avait sacrifié à tous les premiers seigneurs de Kâu. « Les nombreux ducs » peuvent comprendre les rois Thâi et Kî. Il avait également sacrifié à leurs ministres. Comparez ce que Pan-kăng dit dans le Shû, [p. 109](Shu_King_Part4_7#p109), à propos de ses prédécesseurs et de leurs ministres. Certains prennent « les nombreux ducs et les ministres » de tous les princes d'État qui s'étaient signalés par des services rendus au peuple et au royaume.
+[^597]: 421:2 Le roi avait sacrifié à tous les premiers seigneurs de Kâu. « Les nombreux ducs » peuvent comprendre les rois Thâi et Kî. Il avait également sacrifié à leurs ministres. Comparez ce que Pan-kăng dit dans le Shû, [p. 109](../Shu_King_Part4_7#p109), à propos de ses prédécesseurs et de leurs ministres. Certains prennent « les nombreux ducs et les ministres » de tous les princes d'État qui s'étaient signalés par des services rendus au peuple et au royaume.
 
 [^598]: 421:3 Le roi pouvait difficilement espérer que son père, l'oppresseur Lî, lui apporterait une aide dans son état d'esprit ; mais il suffit de trouver dans ses paroles l'expression d'un sentiment naturel. C'est probablement la considération du caractère de Lî qui a conduit certains critiques à comprendre par « parents » et « ancêtres » les mêmes individus, à savoir les rois Wăn et Wû, « les ancêtres » de Hsüan, et qui avaient véritablement été « les parents » du peuple.
 
@@ -298,9 +298,9 @@ Le ciel envoie son filet de crime : des insectes dévoreurs qui fatiguent et emb
 
 [^601]: 422:2 C'était le sacrifice frontalier offert à Dieu, lorsque Hâu-_k_î lui était associé. Certains critiques ajoutent un sacrifice au premier mois d'hiver, pour une bénédiction sur l'année suivante, offert aux « honorés du ciel » : le soleil, la lune et les constellations zodiacales.
 
-[^602]: 422:3 Voir note 2 sur [p. 371](Shih_King_Part2_4#p371).
+[^602]: 422:3 Voir note 2 sur [p. 371](../Shih_King_Part2_4#p371).
 
-[^603]: 422:4 Voir note 1 sur [p. 356](Shih_King_Part2_2#p356).
+[^603]: 422:4 Voir note 1 sur [p. 356](../Shih_King_Part2_2#p356).
 
 [^604]: 423:1 Shăn était un petit marquisat, faisant partie de l'actuel département de Nan-yang, Ho-nan. Fû, également appelé Lü, était un autre petit territoire, non loin de Shan. Les princes de tous deux étaient des <i>K</i>iang, descendants du ministre en chef de Yâo, appelé dans le premier Livre du Shû, « les Quatre Montagnes ». D'autres États furent gouvernés par ses descendants, en particulier le grand État de <i>Kh</i>î. Lorsqu'il est dit ici qu'un esprit fut envoyé des grandes montagnes et produisit (les princes de) Fû et Shăn, nous avons probablement une tradition légendaire concernant la naissance du ministre de Yâo, qui était courante parmi tous ses descendants ; et avec laquelle nous pouvons comparer les légendes qui nous sont parvenues sur les naissances surnaturelles des ancêtres des fondateurs des maisons de Shang et de <i>K</i>âu. Le caractère « montagnes » de la page 424, aux lignes 1 et 3, est le même que celui qui apparaît dans le titre du ministre de Yâo. Concernant l'affirmation selon laquelle les montagnes envoient un esprit, Hwang Hsün, critique de la dynastie Song, affirme qu'il s'agit simplement d'une personnification du poète, pour montrer à quel point le Ciel avait l'intention de ranimer la fortune de Kâu, et que nous n'avons pas à nous soucier de l'existence d'un tel esprit !
 
@@ -314,11 +314,11 @@ Le ciel envoie son filet de crime : des insectes dévoreurs qui fatiguent et emb
 
 [^609]: 425:2 Le lien entre ces quatre lignes et celles qui les précèdent est le suivant : si le Ciel produit tous les hommes dotés de la bonne nature décrite ici, il en produit parfois d'autres dotés de vertus et de pouvoirs à un degré suréminent. Le cas du roi Hsüan en fut l'occasion, et c'est pour marquer son appréciation et son aide qu'il créa le roi Shan-fû.
 
-[^610]: 425:3 Il s'agissait d'un sacrifice spécial au début d'un voyage ou d'une expédition. Voir note 2 à la [p. 399](Shih_King_Part3_2#p399).
+[^610]: 425:3 Il s'agissait d'un sacrifice spécial au début d'un voyage ou d'une expédition. Voir note 2 à la [p. 399](../Shih_King_Part3_2#p399).
 
-[^611]: 427:1 Voir note 2 sur [p. 386](Shih_King_Part3_1#p386).
+[^611]: 427:1 Voir note 2 sur [p. 386](../Shih_King_Part3_1#p386).
 
-[^612]: 427:2 La coupe et les spiritueux étaient utilisés par le comte lors des sacrifices dans son temple ancestral. Comparez le cadeau similaire du roi <i>Kh</i>ăng au duc de <i>K</i>âu, dans le Shû, [p. 194](Shu_King_Part5_13#p194). Des cadeaux plus substantiels sont immédiatement spécifiés.
+[^612]: 427:2 La coupe et les spiritueux étaient utilisés par le comte lors des sacrifices dans son temple ancestral. Comparez le cadeau similaire du roi <i>Kh</i>ăng au duc de <i>K</i>âu, dans le Shû, [p. 194](../Shu_King_Part5_13#p194). Des cadeaux plus substantiels sont immédiatement spécifiés.
 
 [^613]: 427:3 « L'Accompli » est censé être le roi Wăn (= « le roi Accompli »). Il fut le fondateur de la dynastie Kâu. Le royaume lui était d'abord venu par décret et don du Ciel. Il était donc du devoir de ses successeurs, lorsqu'ils accordaient des territoires à des officiers méritants, de les lui annoncer à Khî-_k_âu, l'ancien territoire de la famille, et d'obtenir, en quelque sorte, son autorisation pour ce qu'ils faisaient.
 

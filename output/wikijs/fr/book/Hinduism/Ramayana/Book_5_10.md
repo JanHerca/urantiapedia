@@ -34,7 +34,7 @@ dateCreated: 2025-1-16T20:1:34Z
 
 <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
-[1](Book_5_10#fn789)
+[1](../Book_5_10#fn789)
 
 
 
@@ -427,7 +427,7 @@ Le Vánar éclipsait sa taille imposante,
 <span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Et, dans les limites les plus étroites restreintes,
-La taille d'un chat conservée. [1](Book_5_10#fn808)
+La taille d'un chat conservée. [1](../Book_5_10#fn808)
 Puis, lorsque la douce lumière de la lune s'est répandue,
 Il s'est précipité à l'intérieur des murs de la ville.
 
@@ -573,8 +573,8 @@ De maison en maison, les Vánar s'égaraient,
 Et ses regards étonnés se penchaient toujours
 Sur la terrasse, le dôme et le créneau :
 Puis, d'un pas léger et rapide
-Il a visité la maison de Prahasta [1b](Book_5_10#fn811),
-Et la cour de Kumbhakarna [2b](Book_5_10#fn812) où
+Il a visité la maison de Prahasta [1b](../Book_5_10#fn811),
+Et la cour de Kumbhakarna [2b](../Book_5_10#fn812) où
 Un amas nuageux s'élevait haut dans l'air ;
 Et, errant sur la colline, exploré
 Le jardin de chaque seigneur Rákshas.
@@ -586,7 +586,7 @@ Et des guerriers démons de toutes les couleurs,
 Une suite étrange et effrayante.
 Il y a des éléphants dans de nombreuses rangées,
 La terreur de l'ennemi frappé.
-L'énorme Airávat, [3b](Book_5_10#fn813) habilement dressé
+L'énorme Airávat, [3b](../Book_5_10#fn813) habilement dressé
 Sur les champs de bataille, ils se tenaient prêts, enchaînés.
 Des litières équitables ont été disposées sur le sol
 Orné de pierres précieuses et d'un filet doré.
@@ -595,7 +595,7 @@ Il y avait là des tonnelles vertes et des salles de cinéma,
 Et des chambres faites pour un doux plaisir.
 De larges bannières flottaient sur toutes les hauteurs.
 Et du toit comme la colline de Mandar
-Le cri du paon était fort et strident. [4b](Book_5_10#fn814)
+Le cri du paon était fort et strident. [4b](../Book_5_10#fn814)
 
 
 
@@ -633,7 +633,7 @@ De beaux lacs brillaient où poussaient des nénuphars,
 Et des lotus avec des fleurs et des bourgeons
 Brilla au sein du déluge.
 Il y avait des pierres précieuses qui brillaient au loin
-La merveille de la voiture nommée Fleur [1](Book_5_10#fn815),
+La merveille de la voiture nommée Fleur [1](../Book_5_10#fn815),
 Au milieu des demeures merveilleuses encore confessées
 Suprême et plus noble que les autres.
 Là-dessus, avec un art merveilleux conçu
@@ -646,7 +646,7 @@ Et les éléphants avec la plus grande habileté
 Se tenait sculpté près d'un ruisseau d'argent,
 Chacun portant sur son tronc une couronne
 Des lys du déluge en dessous.
-Il y a Lakshmi, [2](Book_5_10#fn816) la reine céleste de la beauté,
+Il y a Lakshmi, [2](../Book_5_10#fn816) la reine céleste de la beauté,
 Réalisé par l'habileté de l'artiste, il a été vu
 À côté d'une piscine fleurie pour se tenir debout
 Tenant un lotus dans sa main.
@@ -660,7 +660,7 @@ De pierres précieuses et d’or bruni ;
 
 Le fils du Dieu du Vent ne pouvait pas non plus se retirer
 Son regard ravi par la vue qu'il vit,
-Par Vis'vakarmá [1b](Book_5_10#fn817) autoproclamé
+Par Vis'vakarmá [1b](../Book_5_10#fn817) autoproclamé
 L'œuvre la plus noble que sa main ait jamais réalisée.
 Élevé dans l'air, il brillait
 Brillant comme la route diurne du soleil.
@@ -671,7 +671,7 @@ Avec des pierres précieuses incrustées avec un soin somptueux.
 Aucune pierre précieuse n'orne si richement
 Les chars dans lesquels les dieux sont transportés,
 Prix ​​de la puissance irrésistible
-Cela est né de la douleur et du rite de pénitence, [2b](Book_5_10#fn818)
+Cela est né de la douleur et du rite de pénitence, [2b](../Book_5_10#fn818)
 Obéissant à la volonté du maître
 Il se déplaçait sur les bois et les collines imposantes,
 Une merveille glorieuse bien conçue
@@ -679,7 +679,7 @@ Par l'esprit d'artiste de Vis'vakarmá,
 Orné de tous les beaux appareils
 Cela décore les voitures du Paradis.
 Se déplaçant rapidement comme le maître l'a choisi
-Il a volé dans les airs ou a coulé ou s'est élevé, [3b](Book_5_10#fn819)
+Il a volé dans les airs ou a coulé ou s'est élevé, [3b](../Book_5_10#fn819)
 Et dans sa fugacité laissé derrière
 La fureur du vent impétueux :
 Rencontrez le manoir pour les bons et les grands,
@@ -845,7 +845,7 @@ Le drapeau d'Indra haut dans les airs.
 Les cicatrices d'Airávat sont impressionnées
 Il montrait du rouge sur sa poitrine hirsute.
 Et sur ses épaules étaient exposés
-Les coups de foudre. [1](Book_5_20#fn821)
+Les coups de foudre. [1](../Book_5_20#fn821)
 Les épouses du roi géant
 Autour de leur seigneur dormaient,
 Et, gai avec des boucles d'oreilles étincelantes, brillait

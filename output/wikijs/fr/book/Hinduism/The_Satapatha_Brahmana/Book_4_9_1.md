@@ -263,7 +263,7 @@ IX. 47. Chasseur, seigneur de la plante (Soma) ! fendoir bleu-rouge ! N'effraie 
 
 [^262]: 156:2 C'est-à-dire ce par quoi la divinité est propitiée ou apaisée.
 
-[^263]: 156:3 Une étymologie fantaisiste de <i>S</i>ata-rudriya, comme s'il s'agissait de <i>s</i>ânta (propitié) + rudriya, au lieu de « ce qui se rapporte à cent Rudras » ; cf. [paragraphe 7](Book_4_9_1#v9_1_1_7).
+[^263]: 156:3 Une étymologie fantaisiste de <i>S</i>ata-rudriya, comme s'il s'agissait de <i>s</i>ânta (propitié) + rudriya, au lieu de « ce qui se rapporte à cent Rudras » ; cf. [paragraphe 7](../Book_4_9_1#v9_1_1_7).
 
 [^264]: 157:1 C'est-à-dire que la feuille est utilisée à la place de la cuillère d'offrande ordinaire. Tout en faisant des oblations continuelles sur l'une des trois pierres de cette feuille, tenue dans sa main droite, le prêtre tient un morceau de bois d'arka dans sa main gauche. Mahîdh. sur Vâ<i>g</i>. S. XVI, 1.
 
@@ -283,9 +283,9 @@ IX. 47. Chasseur, seigneur de la plante (Soma) ! fendoir bleu-rouge ! N'effraie 
 
 [^272]: 160 : 4 Pra<i>g</i>âyâ yad dhanam asti, Dites.
 
-[^273]: 160:5 Voir [paragraphe 28](Book_4_9_1#v9_1_1_28).
+[^273]: 160:5 Voir [paragraphe 28](../Book_4_9_1#v9_1_1_28).
 
-[^274]: 161:1 Le calcul ici, comme si souvent en ce qui concerne les mètres, est plutôt vague. Anuvâka I, composé de seize versets, est considéré comme équivalant aux quatre-vingts premières formules ; anuvâkas II et III, composés de dix ka<i>n</i><i>d</i>ikâs (chacun étant calculé comme étant composé de huit mantras), constituent les quatre-vingts secondes ; anuvâkas IV et V forment à nouveau les quatre-vingts troisièmes ; anuvâkas VI-VIII (sauf les quatre dernières formules, voir [parag. 22](Book_4_9_1#v9_1_1_22)), les quatre-vingts quatrièmes ; et de là aux formules « déliées », c'est-à-dire de l'intérieur de XVI, 46 à 53, les quatre-vingts cinquièmes. À la fin de chaque quatre-vingts formules, il doit prononcer un Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
+[^274]: 161:1 Le calcul ici, comme si souvent en ce qui concerne les mètres, est plutôt vague. Anuvâka I, composé de seize versets, est considéré comme équivalant aux quatre-vingts premières formules ; anuvâkas II et III, composés de dix ka<i>n</i><i>d</i>ikâs (chacun étant calculé comme étant composé de huit mantras), constituent les quatre-vingts secondes ; anuvâkas IV et V forment à nouveau les quatre-vingts troisièmes ; anuvâkas VI-VIII (sauf les quatre dernières formules, voir [parag. 22](../Book_4_9_1#v9_1_1_22)), les quatre-vingts quatrièmes ; et de là aux formules « déliées », c'est-à-dire de l'intérieur de XVI, 46 à 53, les quatre-vingts cinquièmes. À la fin de chaque quatre-vingts formules, il doit prononcer un Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
 
 [^275]: 161:2 Un jeu étymologique sur le mot « a<i>s</i>îti », comme s'il dérivait de a<i>s</i>, manger.
 
@@ -295,33 +295,33 @@ IX. 47. Chasseur, seigneur de la plante (Soma) ! fendoir bleu-rouge ! N'effraie 
 
 [^278]: 163:1 Viz. Vâ<i>g</i>. S. XVI, 54-63 : « Quels milliers innombrables de Rudras il y a sur terre, nous débandons leurs arcs à mille lieues. — Les Bhavas qui sont dans cette grande mer, dans l'air, nous débandons leurs arcs à mille lieues. » Ainsi chaque formule se termine par le refrain « débander ».
 
-[^279]: 164:1 Vâ<i>g</i>. S. XVI, 64-66. En faisant ces trois oblations aux Rudras dans le ciel, dans l'air et sur la terre respectivement, la procédure est inverse de celle décrite dans les [paragraphes 11](Book_4_9_1#v9_1_1_11)\-[13](Book_4_9_1#v9_1_1_13), à savoir d'abord sur la pierre de clôture qui atteint sa bouche, puis sur celle qui atteint son nombril, et enfin sur celle qui atteint son genou.
+[^279]: 164:1 Vâ<i>g</i>. S. XVI, 64-66. En faisant ces trois oblations aux Rudras dans le ciel, dans l'air et sur la terre respectivement, la procédure est inverse de celle décrite dans les [paragraphes 11](../Book_4_9_1#v9_1_1_11)\-[13](../Book_4_9_1#v9_1_1_13), à savoir d'abord sur la pierre de clôture qui atteint sa bouche, puis sur celle qui atteint son nombril, et enfin sur celle qui atteint son genou.
 
-[^280]: 165:1 Ces mots, ainsi que les mots espacés dans le paragraphe suivant, sont ajoutés à chacune des trois formules dans [paragraphes 35](Book_4_9_1#v9_1_1_35)\-[37](Book_4_9_1#v9_1_1_37).
+[^280]: 165:1 Ces mots, ainsi que les mots espacés dans le paragraphe suivant, sont ajoutés à chacune des trois formules dans [paragraphes 35](../Book_4_9_1#v9_1_1_35)\-[37](../Book_4_9_1#v9_1_1_37).
 
 [^281]: 165:2 La jonction du creux des mains, en plaçant les extrémités des doigts ensemble, est un signe de révérence.
 
 [^282]: 166:1 Parmi les objets numérotés six, les saisons apparaissent généralement, par exemple VI, 7, 1, 16.
 
-[^283]: 166:2 Voir [paragraphe 4](Book_4_9_1#v9_1_1_4). Selon Kâty. <i>S</i>rautas. 18, 1, 6, les deux ustensiles d'offrande (la feuille d'arka et le bâton d'arka) sont jetés dans la fosse.
+[^283]: 166:2 Voir [paragraphe 4](../Book_4_9_1#v9_1_1_4). Selon Kâty. <i>S</i>rautas. 18, 1, 6, les deux ustensiles d'offrande (la feuille d'arka et le bâton d'arka) sont jetés dans la fosse.
 
 [^284]: 167:1 Comme le souligne le professeur Weber, 'Die vedischen Nachrichten von den Nakshatra', p. 298, ce passage fait référence à une période d'intercalation de six ans, puisque, en comptant 360 jours dans l'année, le reste s'accumule en six ans jusqu'à un mois intercalaire de trente-cinq jours (ou trente-six selon Sat. Br. X, 5, 4, 5) ; et en conséquence, dans Vâ<i>g</i>. S. XXX, 15, et Taitt. Âr. IV, 19, 1, les noms des six années d'une telle période d'intercalation sont mentionnés ; tandis qu'une période de cinq ans et les noms des années respectives sont plus fréquemment mentionnés.
 
 [^285]: 167:2 Soit vingt doigts et orteils, les bras supérieurs et inférieurs, les cuisses et les jarrets, et les mains.
 
-[^286]: 168:1 Pour le mahad uktham, ou Grande Litanie, récité le jour du Mahâvrata, voir [p. 110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202). Selon Sâya<i>n</i>a, cependant, cela ne se réfère pas au Mahad uktham, ou Grande Litanie, lui-même, mais à son Stotra, le Mahâvrata-sâman (cf. note sur [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)), par le chant duquel il est précédé, et qui, comme la Grande Litanie elle-même, est représenté comme étant composé des différentes parties du corps en forme d'oiseau d'Agni-Pra<i>g</i>âpati. Or, la partie du chant correspondant au tronc du dieu (âtman) est la seule partie de ce Stotra chantée sous la forme du Pañkavimsastoma, ou hymne à vingt-cinq vers, qui est en effet le Stoma caractéristique du jour du Mahâvrata, tous les autres Stotras de ce rite étant chantés sous cette forme. Je doute cependant que ce ne soit pas plutôt la partie d'ouverture de la Grande Litanie elle-même, représentant le tronc, qui soit ici mentionnée, et qui, en effet, se compose de vingt-cinq vers ; cf. F. Max Müller, Upanishads, I, p. 183. De plus, il faut toujours garder à l'esprit que la disposition particulière de la Grande Litanie dont disposaient les auteurs du Brâhma<i>n</i>a pouvait différer à certains égards de celle que nous connaissons.
+[^286]: 168:1 Pour le mahad uktham, ou Grande Litanie, récité le jour du Mahâvrata, voir [p. 110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202). Selon Sâya<i>n</i>a, cependant, cela ne se réfère pas au Mahad uktham, ou Grande Litanie, lui-même, mais à son Stotra, le Mahâvrata-sâman (cf. note sur [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)), par le chant duquel il est précédé, et qui, comme la Grande Litanie elle-même, est représenté comme étant composé des différentes parties du corps en forme d'oiseau d'Agni-Pra<i>g</i>âpati. Or, la partie du chant correspondant au tronc du dieu (âtman) est la seule partie de ce Stotra chantée sous la forme du Pañkavimsastoma, ou hymne à vingt-cinq vers, qui est en effet le Stoma caractéristique du jour du Mahâvrata, tous les autres Stotras de ce rite étant chantés sous cette forme. Je doute cependant que ce ne soit pas plutôt la partie d'ouverture de la Grande Litanie elle-même, représentant le tronc, qui soit ici mentionnée, et qui, en effet, se compose de vingt-cinq vers ; cf. F. Max Müller, Upanishads, I, p. 183. De plus, il faut toujours garder à l'esprit que la disposition particulière de la Grande Litanie dont disposaient les auteurs du Brâhma<i>n</i>a pouvait différer à certains égards de celle que nous connaissons.
 
-[^287]: 168:2 Voir [p. 112](Book_4_8_6#p112), note [1](Book_4_8_6#fn204).
+[^287]: 168:2 Voir [p. 112](../Book_4_8_6#p112), note [1](../Book_4_8_6#fn204).
 
 [^288]: 168:3 C'est-à-dire le corps avec ses vingt-quatre membres, à savoir les deux bras, les deux jambes et les vingt doigts et orteils.
 
-[^289]: 168:4 Selon Sâya<i>n</i>a, il est ici fait référence au Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, chanté après le Mahad uktham. Voir [p. 111](Book_4_8_6#p111), note [1](Book_4_8_6#fn203). Sâya<i>n</i>a considère qu'il s'agit des formules en prose à la fin du Sastra, qui, dit-il, représentent l'esprit (buddhi) de Pra<i>g</i>âpati.
+[^289]: 168:4 Selon Sâya<i>n</i>a, il est ici fait référence au Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, chanté après le Mahad uktham. Voir [p. 111](../Book_4_8_6#p111), note [1](../Book_4_8_6#fn203). Sâya<i>n</i>a considère qu'il s'agit des formules en prose à la fin du Sastra, qui, dit-il, représentent l'esprit (buddhi) de Pra<i>g</i>âpati.
 
 [^290]: 169:1 Ou plutôt, il verse de l'eau dessus (l'autel).
 
 [^291]: 169:2 C'est- à-dire, à partir du point le plus bas (ou le plus en arrière) où l'aile droite p. 170 rejoint le corps de l'autel. Re place une pierre, à partir de laquelle il commence l'aspersion de l'autel.
 
-[^292]: 170:1 Voir [IX, I, 1, 33](Book_4_9_1#v9_1_1_33).
+[^292]: 170:1 Voir [IX, I, 1, 33](../Book_4_9_1#v9_1_1_33).
 
 [^293]: 171:1 La chaleur brûlante du feu et toutes les souffrances physiques et mentales.
 
@@ -335,7 +335,7 @@ IX. 47. Chasseur, seigneur de la plante (Soma) ! fendoir bleu-rouge ! N'effraie 
 
 [^298]: 174 : 2 Voir VI, 1, 1, 1-5.
 
-[^299]: 175:1 Ainsi, ou essence (ra<i>s</i>a), selon Sâya<i>n</i>a ; cf. [X, 6, 5, 1](Book_4_10_6#v10_6_5_1). Le mot « ka » a cependant aussi le sens de « joie ».
+[^299]: 175:1 Ainsi, ou essence (ra<i>s</i>a), selon Sâya<i>n</i>a ; cf. [X, 6, 5, 1](../Book_4_10_6#v10_6_5_1). Le mot « ka » a cependant aussi le sens de « joie ».
 
 [^300]: 176:1 C'est-à-dire « la chaleur » qui est considérée comme la propriété principale de l'humeur bilieuse.
 
@@ -349,10 +349,10 @@ IX. 47. Chasseur, seigneur de la plante (Soma) ! fendoir bleu-rouge ! N'effraie 
 
 [^308]: 180:1 Le Pra<i>g</i>âpati-h<i>ri</i>daya, ou Pra<i>g</i>âpater h<i>ri</i>dayam, tel que figuré pour le chant, est donné, Sâma-v. Calc. éd. vol. ii, p. 499. Il se compose des mots, imâ<i>h</i> pra<i>g</i>â<i>h</i> pra<i>g</i>âpate(r) h<i>ri</i>dayam pra<i>g</i>ârûpam a<i>g</i>î<i>g</i>ane, avec des stobhas et des modulations insérés. Il est suivi d'une forme plus simple, qui est peut-être celle utilisée dans le cas présent.
 
-[^309]: 180:2 C'est-à-dire à l'endroit où l'aile droite rejoint le corps de l'autel. Selon d'autres autorités, l'hymne Sâ<i>yaita</i> doit également être chanté près de l'aisselle gauche (ou, selon Sâ<i>n</i><i>d</i>ilya, à l'endroit où l'Adhvaryu monte sur l'autel). Pour d'autres variantes, voir Weber, Ind. Stud. XIII, p. 276. Je ne pense pas que le rituel du Ya<i>g</i>us Blanc, en omettant l'aisselle gauche, présente une lacune ou une incohérence, puisque l'aisselle droite est marquée, non pas pour un parallélisme corporel, mais pour la simple raison qu'elle est censée indiquer la position du cœur. Alors que tous les autres endroits où sont chantés les hymnes sont des parties essentielles de l'oiseau Agni, l'aisselle n'est pas une partie essentielle, mais indique simplement l'organe central du corps. Lâ<i>t</i>y. I, 5, 11 seqq. fournit les instructions suivantes, impliquant apparemment un ordre de procédure quelque peu différent de celui suivi dans notre texte : Il passe par le sud et, debout (à l'est de l'autel), le visage tourné vers l'ouest, il chante le Gâyatra à la tête. En revenant, il chante le Rathantara à l'aile droite. En faisant le tour par derrière, il chante le B<i>ri</i>hat à l'aile gauche. En revenant, et debout derrière la queue, le visage tourné vers l'est, il chante le Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. Il chante le Vâmadevya à droite, et le Pra<i>g</i>âpati-h<i>ri</i>daya à gauche, sous l'aisselle. Viennent ensuite les différents points de vue exprimés par les différents maîtres. — À propos de cette cérémonie, par laquelle on rend hommage aux différentes parties du corps d'Agni-Pra<i>g</i>âpati, comparez la cérémonie similaire, mais plus élaborée, du Parimâda<i>h</i> au Mahâvrata, [X, 1, 2, 9](Book_4_10_1#v10_1_2_9) avec note.
+[^309]: 180:2 C'est-à-dire à l'endroit où l'aile droite rejoint le corps de l'autel. Selon d'autres autorités, l'hymne Sâ<i>yaita</i> doit également être chanté près de l'aisselle gauche (ou, selon Sâ<i>n</i><i>d</i>ilya, à l'endroit où l'Adhvaryu monte sur l'autel). Pour d'autres variantes, voir Weber, Ind. Stud. XIII, p. 276. Je ne pense pas que le rituel du Ya<i>g</i>us Blanc, en omettant l'aisselle gauche, présente une lacune ou une incohérence, puisque l'aisselle droite est marquée, non pas pour un parallélisme corporel, mais pour la simple raison qu'elle est censée indiquer la position du cœur. Alors que tous les autres endroits où sont chantés les hymnes sont des parties essentielles de l'oiseau Agni, l'aisselle n'est pas une partie essentielle, mais indique simplement l'organe central du corps. Lâ<i>t</i>y. I, 5, 11 seqq. fournit les instructions suivantes, impliquant apparemment un ordre de procédure quelque peu différent de celui suivi dans notre texte : Il passe par le sud et, debout (à l'est de l'autel), le visage tourné vers l'ouest, il chante le Gâyatra à la tête. En revenant, il chante le Rathantara à l'aile droite. En faisant le tour par derrière, il chante le B<i>ri</i>hat à l'aile gauche. En revenant, et debout derrière la queue, le visage tourné vers l'est, il chante le Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. Il chante le Vâmadevya à droite, et le Pra<i>g</i>âpati-h<i>ri</i>daya à gauche, sous l'aisselle. Viennent ensuite les différents points de vue exprimés par les différents maîtres. — À propos de cette cérémonie, par laquelle on rend hommage aux différentes parties du corps d'Agni-Pra<i>g</i>âpati, comparez la cérémonie similaire, mais plus élaborée, du Parimâda<i>h</i> au Mahâvrata, [X, 1, 2, 9](../Book_4_10_1#v10_1_2_9) avec note.
 
 [^310]: 181:1 C'est-à-dire en prenant les oreillettes comme parties du cœur.
 
-[^311]: 181:2 Selon Lâ<i>t</i>y. I, 5, 1 seq., c'est le Prastot<i>ri</i> qui chante ces sâmans. Un conflit de compétence similaire est mentionné à cet égard non seulement à propos des sâmans détachés (cf. Kâty. IV, 9, 6-9), mais même à propos de représentations solennelles telles que le chant du Mahâvrata-sâman (cf. note sur [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)).
+[^311]: 181:2 Selon Lâ<i>t</i>y. I, 5, 1 seq., c'est le Prastot<i>ri</i> qui chante ces sâmans. Un conflit de compétence similaire est mentionné à cet égard non seulement à propos des sâmans détachés (cf. Kâty. IV, 9, 6-9), mais même à propos de représentations solennelles telles que le chant du Mahâvrata-sâman (cf. note sur [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)).
 
 [^312]: 181:3 Vi-<i>k</i>ita, dans ce sens, semble être un ἅπαξ λεγόμενον. Sâya<i>n</i>a semble avoir lu vi<i>g</i>ita (parâbhûta, vaincu) à la place.

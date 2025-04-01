@@ -513,7 +513,7 @@ Les dieux qui parcourent l'ombre de la forêt.
 Car dans la colère furieuse qui brillait
 Dans son âme, le héros a montré
 Comme S'iva quand sa colère est forte
-Arrêt du rite sacrificiel de Daksha. [1b](Book_3_30#fn467)
+Arrêt du rite sacrificiel de Daksha. [1b](../Book_3_30#fn467)
 Comme un grand nuage à l'aube du jour
 Quand le soleil se lève pour la première fois,
 Et sur la masse sombre, chaque rayon
@@ -677,7 +677,7 @@ De tous côtés, salué avec véhémence,
 Ceint par les ennemis qui grouillaient autour,
 Il poussa un cri puissant dont le son
 Frappé de terreur. Sur l'équipage géant
-Sa grande flèche Gándharva [1](Book_3_30#fn469) vola.
+Sa grande flèche Gándharva [1](../Book_3_30#fn469) vola.
 Mille flèches mortelles ont plu
 De l'arc en orbite, le héros s'est tendu,
 Jusqu'à l'est et l'ouest et le sud et le nord
@@ -854,7 +854,7 @@ Par le fils de Raghu furent renversés,
 Un homme, à pied, et tout seul.
 De tous ceux qui se sont rencontrés en ce jour féroce,
 Khara, grand chef, a survécu à la mêlée,
-Le monstre à triple tête, [1](Book_3_30#fn471)
+Le monstre à triple tête, [1](../Book_3_30#fn471)
 Et le fils de Raghu, l'ennemi redouté.
 Les autres guerriers démons, tous
 Habile et courageux et fort et grand,

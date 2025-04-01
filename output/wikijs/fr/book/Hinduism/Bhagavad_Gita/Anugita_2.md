@@ -80,7 +80,7 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1072]: 235:2 Sic dans les MSS.
 
-[^1073]: 235:3 Cf. quant à se débarrasser de la nature, Gîtâ, pp. [75](Bhagavadgita_7#p75)\-[106](Bhagavadgita_13#p106). Quant au corps produit de la nature, cf. ibid. [p. 112](Bhagavadgita_15#p112), et pp. [317](Anugita_20#p317)\-[318](Anugita_21#p318) infra.
+[^1073]: 235:3 Cf. quant à se débarrasser de la nature, Gîtâ, pp. [75](../Bhagavadgita_7#p75)\-[106](../Bhagavadgita_13#p106). Quant au corps produit de la nature, cf. ibid. [p. 112](../Bhagavadgita_15#p112), et pp. [317](../Anugita_20#p317)\-[318](../Anugita_21#p318) infra.
 
 [^1074]: 235:4 C'est-à-dire le Brahman, dit Nîlaka<i>nth</i>a.
 
@@ -90,7 +90,7 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1077]: 236:3 A<i>g</i>una Mi<i>s</i>ra rend l'original, sattva, par svabhâva.
 
-[^1078]: 236:4 Cf. pour tout cela, Gîtâ, pp. [62](Bhagavadgita_4#p62), [69](Bhagavadgita_6#p69), [118](Bhagavadgita_17#p118), passages qui, cependant, sont d'un point de vue légèrement différent. Voir aussi Khândogya, p. 526.
+[^1078]: 236:4 Cf. pour tout cela, Gîtâ, pp. [62](../Bhagavadgita_4#p62), [69](../Bhagavadgita_6#p69), [118](../Bhagavadgita_17#p118), passages qui, cependant, sont d'un point de vue légèrement différent. Voir aussi Khândogya, p. 526.
 
 [^1079]: 236:5 Une autre lecture exclut ici la viande. Mais cf. Âpastamba I, 1, 2, 23 ; Gautama II, 13.
 
@@ -126,7 +126,7 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1095]: 238:7 Les sens. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 288.
 
-[^1096]: 238:8 Voir et cf. [p. 262](Anugita_6#p262) infra.
+[^1096]: 238:8 Voir et cf. [p. 262](../Anugita_6#p262) infra.
 
 [^1097]: 238:9 Ceci, dit Ar<i>g</i>una Mi<i>s</i>ra, est une réponse à la question possible de savoir pourquoi ce « vent vif » n'agit pas avec les vents de la vie. La réponse est qu'un tel fonctionnement requiert la présence de l'âme, ce qui, selon Ar<i>g</i>una Mi<i>s</i>ra, signifie ici « esprit ». Quant à la production à partir de la nourriture, cf. <i>Kh</i>ândogya, p. 421 et suivantes, et Taittirîya Âra<i>n</i>yaka, p. 893.
 
@@ -142,19 +142,19 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1103]: 239:5 Cf. B<i>ri</i>hadâra<i>ri</i>aka, p. 843.
 
-[^1104]: 239:6 Voir Aitareya-upanishad, p. 222, et le commentaire de Sankara. Venir à la naissance, c'est sortir du ventre maternel pour entrer dans le monde. Cf. aussi Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1104]: 239:6 Voir Aitareya-upanishad, p. 222, et le commentaire de Sankara. Venir à la naissance, c'est sortir du ventre maternel pour entrer dans le monde. Cf. aussi Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
 [^1105]: 239:7 Comme indiqué plus loin, à savoir ce monde, l'autre monde et l'utérus. À comparer avec ceci : <i>Khândogya</i>, p. 359.
 
 [^1106]: 239:8 Cf. notre Bhart<i>ri</i>hari (série Bombay), Notes (Nîti<i>s</i>ataka), p. 27.
 
-[^1107]: 240:1 Cf. sur ce lieu et les lieux inférieurs, 'Gîtâ, [p. 109](Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
+[^1107]: 240:1 Cf. sur ce lieu et les lieux inférieurs, 'Gîtâ, [p. 109](../Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
 
 [^1108]: 240:2 Les lectures ici sont très insatisfaisantes. Le sens de la lecture imprimée adoptée ci-dessus semble être : « décision quant aux actions à accomplir », etc.
 
-[^1109]: 240:3 Cf. Gîtâ, [p. 81](Bhagavadgita_8#p81), et Sanatsu<i>g</i>âtîya, [p. 158](Sanatsugatiya_2#p158).
+[^1109]: 240:3 Cf. Gîtâ, [p. 81](../Bhagavadgita_8#p81), et Sanatsu<i>g</i>âtîya, [p. 158](../Sanatsugatiya_2#p158).
 
-[^1110]: 240:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^1110]: 240:4 Cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84).
 
 [^1111]: 240:5 A<i>g</i>una Mi<i>s</i>ra dit : « Au ciel = dans l'autre monde, bas = inférieur (?), haut = ciel, et moyen = l'espace sous les cieux (antariksha). » Pour les trois degrés de jouissance au ciel, voir Yogavâsish<i>th</i>a I, 35 seq.
 

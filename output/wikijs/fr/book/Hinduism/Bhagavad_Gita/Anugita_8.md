@@ -76,7 +76,7 @@ Alors le Vyâna s'éteignit et se mit à nouveau en mouvement. Et le Prâna, l'A
 
 Le Brâhma<i>n</i>a dit :
 
-Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient assemblés : Vous êtes tous les plus grands, et non les plus grands [^1304]. Vous possédez tous <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> les qualités des autres [1](Anugita_9#fn1305). Tous sont les plus grands dans leurs propres sphères, et tous se soutiennent mutuellement. Il y en a un immobile [2](Anugita_9#fn1306) (vent de vie). Il y en a d'autres qui se déplacent, (qui sont) cinq, en raison de (leurs) qualités spécifiques. Mon propre moi n'est qu'un [3](Anugita_9#fn1307), (mais) accumulé sous de nombreuses (formes). Étant amicaux les uns avec les autres, et vous faisant plaisir les uns aux autres, partez heureux. Que le bien soit avec vous ! Soutenez-vous les uns les autres.
+Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient assemblés : Vous êtes tous les plus grands, et non les plus grands [^1304]. Vous possédez tous <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> les qualités des autres [1](../Anugita_9#fn1305). Tous sont les plus grands dans leurs propres sphères, et tous se soutiennent mutuellement. Il y en a un immobile [2](../Anugita_9#fn1306) (vent de vie). Il y en a d'autres qui se déplacent, (qui sont) cinq, en raison de (leurs) qualités spécifiques. Mon propre moi n'est qu'un [3](../Anugita_9#fn1307), (mais) accumulé sous de nombreuses (formes). Étant amicaux les uns avec les autres, et vous faisant plaisir les uns aux autres, partez heureux. Que le bien soit avec vous ! Soutenez-vous les uns les autres.
 
 <figure class="table chapter-navigator">
   <table>
@@ -104,7 +104,7 @@ Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient 
 
 ## Notes de bas de page
 
-[^1296]: 270:1 Les sens sont ici les portes de la maison, comme ils le sont parmi les portes de la ville à Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1296]: 270:1 Les sens sont ici les portes de la maison, comme ils le sont parmi les portes de la ville à Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1297]: 270:2 En raison du manque de nourriture, etc. Cf. Maitrî, ​​p. 112, et <i>Kh</i>ândogya. p. 422.
 
@@ -116,7 +116,7 @@ Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient 
 
 [^1301]: 271:1 Ar<i>g</i>una Mi<i>s</i>ra dit : « Le vent allant vers le Prâ<i>n</i>a, et étant obstrué dans sa progression ascendante par le Prâ<i>n</i>a, va vers l'Apâna, puis, incapable de monter ou de descendre, pénètre dans les passages ou nâ<i>d</i>îs du corps et devient Vyâna. De même, Udâna, par la collision des deux, produit un son dans la gorge et dépend du Prâ<i>n</i>a et de l'Apâna ; de même, le Samâna résidant dans le nombril et allumant le feu gastrique dépend également de ces deux-là. » Le sens semble être qu'un seul vent vital est distribué en différents endroits et reçoit différents noms, comme indiqué, dans l'ordre mentionné. Voir Maitrî, ​​p. 28.
 
-[^1302]: 271:2 Une visite similaire de la part des Prânâ (qui, cependant, ne sont pas seulement les vents de vie, mais le vent de vie Prânâ et les organes actifs) à Pragâpati est mentionnée dans Birihadâranyaka-upanishad, p. 1016, et Khândogya, p. 297. Cf. aussi Prasna, p. 178 ; Birihadâranyaka, p. 317 ; et Kaushîtaki, p. 63. Voir aussi, en général, concernant les vents de vie et leurs fonctions, Birihadâranyaka, p. 280, et le commentaire de Sankara ; Yoga-sûtras III, 38, et commentaire ; note de Cowell dans Maitrî, ​​p. 247 ; Sânti Parvan (Moksha Dharma), chap. 184, st. 24-25 ; chap. 185, st. 1 seq. ; et [p. 258](Anugita_5#p258) supra.
+[^1302]: 271:2 Une visite similaire de la part des Prânâ (qui, cependant, ne sont pas seulement les vents de vie, mais le vent de vie Prânâ et les organes actifs) à Pragâpati est mentionnée dans Birihadâranyaka-upanishad, p. 1016, et Khândogya, p. 297. Cf. aussi Prasna, p. 178 ; Birihadâranyaka, p. 317 ; et Kaushîtaki, p. 63. Voir aussi, en général, concernant les vents de vie et leurs fonctions, Birihadâranyaka, p. 280, et le commentaire de Sankara ; Yoga-sûtras III, 38, et commentaire ; note de Cowell dans Maitrî, ​​p. 247 ; Sânti Parvan (Moksha Dharma), chap. 184, st. 24-25 ; chap. 185, st. 1 seq. ; et [p. 258](../Anugita_5#p258) supra.
 
 [^1303]: 272:1 Ar<i>g</i>una Mi<i>s</i>ra dit, Vyâna et Apâna aussi en vertu des deux « et » qui apparaissent dans l'original ; et ainsi dans d'autres endroits aussi.
 

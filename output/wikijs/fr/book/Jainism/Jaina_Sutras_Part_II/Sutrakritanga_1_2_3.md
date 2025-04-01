@@ -116,7 +116,7 @@ Ainsi je dis.
 
 [^764]: 258:4 Pour rendre kâmî.
 
-[^765]: 259:1 Comparer [p. 256](Sutrakritanga_1_2_2#p256), note [1](Sutrakritanga_1_2_2#fn744).
+[^765]: 259:1 Comparer [p. 256](../Sutrakritanga_1_2_2#p256), note [1](../Sutrakritanga_1_2_2#fn744).
 
 [^766]: 259:2 Ânupûrvyâ.
 

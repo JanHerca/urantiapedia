@@ -404,7 +404,7 @@ Ou quand elle entend le sort de son chéri
 La reine mourra inconsolable.
 Ainsi Angad fit ses adieux aux chefs :
 Puis il jeta ses membres sur le sol
-Là où l'herbe sacrée Darbha [1](Book_4_60#fn762) était étendue,
+Là où l'herbe sacrée Darbha [1](../Book_4_60#fn762) était étendue,
 Et j'ai pleuré comme si tout espoir s'était enfui.
 Les paroles émouvantes d'Augad ont attiré
 Sur les joues âgées, la rosée pitoyable.
@@ -650,12 +650,12 @@ Jusqu'au sixième, les cygnes gais s'élèvent,
 
 <span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
-Là où vole le royal Vainateya [1](Book_4_60#fn772).
+Là où vole le royal Vainateya [1](../Book_4_60#fn772).
 Nous aussi, ô chefs de race vautour,
 Notre ligne de Vinatá peut remonter,
 Condamnés, parce que nous avons commis un acte
 De la honte, de la chair et du sang à nourrir.
-Mais tous les pouvoirs merveilleux de Suparna [2](Book_4_60#fn773)
+Mais tous les pouvoirs merveilleux de Suparna [2](../Book_4_60#fn773)
 Et la longueur de notre vue la plus perçante est la nôtre,
 Que nous sommes à cent lieues de là
 À travers les champs d'air, nous apercevons notre proie.
@@ -666,7 +666,7 @@ Cette barrière des profondeurs saumâtres.
 Trouvez la dame Videhan là-bas,
 Et joyeux pour la réparation de votre maison.
 Moi aussi, ô Vánars. à côté
-De la maison de Varun [3](Book_4_60#fn774) l'océan, guide,
+De la maison de Varun [3](../Book_4_60#fn774) l'océan, guide,
 Où les libations dues doivent être payées
 À l'ombre de mon grand frère.
 
@@ -706,7 +706,7 @@ Il a regardé mon œil vorace,
 J'ai entendu ma plainte et j'ai répondu :
 
 'Porté sur des ailes rapides avant le lever du jour
-Je me tenais à la hauteur de Mahendra [1b](Book_4_60#fn775),
+Je me tenais à la hauteur de Mahendra [1b](../Book_4_60#fn775),
 Et, loin en dessous, la mer que je voyais
 Et des oiseaux en multitude innombrable.
 Devant mes yeux un géant volait
@@ -802,7 +802,7 @@ Les ailes rapides qui fendent l'air ?
 J'ai connu autrefois deux frères vautours :
 Ils pourraient revêtir chaque forme à volonté.
 Ceux de la race des vautours étaient rois,
-Et vola avec les ailes de Mátaris'va [1](Book_4_70#fn776).
+Et vola avec les ailes de Mátaris'va [1](../Book_4_70#fn776).
 Sous forme humaine, ils aimaient saluer
 Leur ami ermite, et serre ses pieds,
 Le plus jeune était Jatáyus,

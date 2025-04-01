@@ -132,7 +132,7 @@ Ainsi je dis.
 
 [^1195]: 406:1 <i>S</i>âstâra<i>h</i>, enseignants, ici ceux qui atteignent la perfection. Cela signifie que le monde deviendrait vide si tous les êtres atteignaient la perfection. Il ne faut pas soutenir cela, ni l'opinion contraire, selon laquelle certains êtres sont qualifiés pour le Nirvânâ et d'autres non.
 
-[^1196]: 406:2 Ahâkammân, voir [p. 131](Uttaradhyayana_24#p131), note [7](Uttaradhyayana_24#fn337).
+[^1196]: 406:2 Ahâkammân, voir [p. 131](../Uttaradhyayana_24#p131), note [7](../Uttaradhyayana_24#fn337).
 
 [^1197]: 406:3 Les <i>G</i>ainas supposent que chaque individu possède cinq corps : (1) audârika, ou le corps que l'on voit ; (2) kârma<i>n</i>a, réceptacle du Karman, il est composé de particules de Karman ; (3) tai<i>g</i>asa, un corps composé de particules de feu, il provoque la digestion ; (4) âhâraka, un corps subtil de l'âme, avec lequel il se rend dans des lieux lointains (par exemple lorsqu'un <i>k</i>aturda<i>s</i>apûrvin se rend au Kêvalin pour dissiper un doute) ; (5) vaikriya, un corps subtil qui peut être changé à volonté. Tous ces « corps », sauf le premier, sont ce que l'on appelle dans le langage courant des esprits ou des âmes. Nous avons ici une contrepartie hindoue de la croyance en la pluralité des âmes partagée p. 407 par de nombreuses nations anciennes et modernes. Comparez les versets suivants cités dans Tylor, Origin of Culture, chapitre XI :
 

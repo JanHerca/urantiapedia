@@ -83,7 +83,7 @@ Je te le dis : Oui, mon fils, et en tant que mère ; car dans ces paroles et ces
 
 [^518]: 131:1 Voir, par exemple, le texte parallèle latin et italien donné par le Père Bernardo da Fivizzano, OMCap., dans son édition des Oposculi (Florence, 1880), qui se lit comme suit : « _F. Frère Léo François, salutations et paix_.”
 
-[^519]: 131:2 “Ce pluriel montre bien que Frère Léon avait parlé au nom d’un groupe.”—Sabatier: _Vie de S. François_, p. 301.
+[^519]: 131:2 « Ce pluriel montre bien que Frère Léon avait parlé au nom d’un groupe. »—Sabatier: _Vie de S. François_, p. 301.
 
 [^520]: 131:3 Lorsqu'il faisait écrire des lettres en guise de salutation ou d'avertissement, il ne permettait pas qu'une lettre ou une syllabe p. 132 y soit effacée, bien qu'elles fussent souvent superflues ou mal placées. (Voir 1 Cel. 82.)
 

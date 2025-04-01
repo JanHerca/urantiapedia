@@ -204,7 +204,7 @@ Il sait quand c'est le bon moment pour lui de venir rendre visite au Tathâgata,
 
 ---
 
-45\. « Va maintenant, Ânanda, et entre à Kusinârâ, et informe les Mallas de Kusinârâ, en disant : « Ce jour-là, ô Vâse<i>tth</i>as, à la dernière veille de la nuit, aura lieu la disparition définitive du Tathâgata. Sois favorable à cet égard, ô Vâse<i>tth</i>as, sois favorable. Ne te donne plus l’occasion de te reprocher à l’avenir, en disant : “C’est dans notre propre village qu’a eu lieu la mort de notre Tathâgata, et nous n’avons pas saisi l’occasion de lui rendre visite à ses dernières heures.” »
+45\. « Va maintenant, Ânanda, et entre à Kusinârâ, et informe les Mallas de Kusinârâ, en disant : « Ce jour-là, ô Vâse<i>tth</i>as, à la dernière veille de la nuit, aura lieu la disparition définitive du Tathâgata. Sois favorable à cet égard, ô Vâse<i>tth</i>as, sois favorable. Ne te donne plus l’occasion de te reprocher à l’avenir, en disant : « C’est dans notre propre village qu’a eu lieu la mort de notre Tathâgata, et nous n’avons pas saisi l’occasion de lui rendre visite à ses dernières heures. » »
 
 « De même, Seigneur », dit le vénérable Ananda en signe d'assentiment au Béni du Ciel ; et il se revêtit d'une robe, et prenant son bol[^23], entra dans Kusinârâ, accompagné d'un autre membre de l'ordre.
 
@@ -212,7 +212,7 @@ Il sait quand c'est le bon moment pour lui de venir rendre visite au Tathâgata,
 
 46\. Or, à cette époque, les Mallas de Kusinârâ étaient réunis dans la salle du conseil pour une affaire publique[^24].
 
-Le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinârâ. Arrivé sur place, il les informa en disant : « Aujourd’hui, ô Vâse<i>tth</i>as, à la dernière veille de la nuit, aura lieu la disparition définitive du Tathâgata. Sois favorable à cet égard, ô Vâse<i>tth</i>as, sois favorable. Ne vous donnez plus aucune raison de vous reprocher à l’avenir, en disant : “C’est dans notre propre village qu’a eu lieu la mort de notre Tathâgata, et nous n’avons pas saisi l’occasion de lui rendre visite à ses dernières heures.” »
+Le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinârâ. Arrivé sur place, il les informa en disant : « Aujourd’hui, ô Vâse<i>tth</i>as, à la dernière veille de la nuit, aura lieu la disparition définitive du Tathâgata. Sois favorable à cet égard, ô Vâse<i>tth</i>as, sois favorable. Ne vous donnez plus aucune raison de vous reprocher à l’avenir, en disant : « C’est dans notre propre village qu’a eu lieu la mort de notre Tathâgata, et nous n’avons pas saisi l’occasion de lui rendre visite à ses dernières heures. » »
 
 47\. Lorsqu'ils entendirent ces paroles du vénérable Ananda, les Mallas, leurs jeunes hommes, leurs jeunes filles et leurs épouses, furent attristés, tristes et profondément affligés. Certains d'entre eux pleurèrent, ébouriffèrent leurs cheveux, étendirent les bras et pleurèrent, tombèrent prosternés au sol et se roulèrent d'angoisse à cette pensée : « Trop tôt mourra le Bienheureux ! Trop tôt s'éteindra le Bienheureux ! Bientôt la Lumière du monde s'éteindra ! »
 
@@ -234,7 +234,7 @@ Le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinârâ
 
 54\. Alors le mendiant Subhadda se rendit au Bosquet Sâla des Mallas, à l'Upavattana de Kusinârâ, à l'endroit où se trouvait le vénérable Ânanda.
 
-55\. Et lorsqu'il fut arrivé là, il dit au vénérable Ânanda : « Ainsi ai-je entendu de mes compagnons mendiants, âgés et avancés en âge, maîtres et disciples, dire : “Parfois, et très rarement, les Tathâgatas, les Bouddhas Arahat, apparaissent dans le monde.” Pourtant, ce jour-là, à la dernière veille de la nuit, la disparition définitive du Sama<i>n</i>a Gotama aura lieu. Un certain sentiment d'incertitude a maintenant surgi dans mon esprit ; et j'ai cette foi dans le Sama<i>n</i>a Gotama, qu'il est, me semble-t-il, capable de présenter la vérité de telle sorte que je puisse me débarrasser de ce sentiment d'incertitude. Oh, si seulement moi, Ânanda, j'étais autorisé à voir le Sama<i>n</i>a Gotama ! »
+55\. Et lorsqu'il fut arrivé là, il dit au vénérable Ânanda : « Ainsi ai-je entendu de mes compagnons mendiants, âgés et avancés en âge, maîtres et disciples, dire : « Parfois, et très rarement, les Tathâgatas, les Bouddhas Arahat, apparaissent dans le monde. » Pourtant, ce jour-là, à la dernière veille de la nuit, la disparition définitive du Sama<i>n</i>a Gotama aura lieu. Un certain sentiment d'incertitude a maintenant surgi dans mon esprit ; et j'ai cette foi dans le Sama<i>n</i>a Gotama, qu'il est, me semble-t-il, capable de présenter la vérité de telle sorte que je puisse me débarrasser de ce sentiment d'incertitude. Oh, si seulement moi, Ânanda, j'étais autorisé à voir le Sama<i>n</i>a Gotama ! »
 
 56\. Et après avoir ainsi parlé, le vénérable Ânanda dit au mendiant Subhadda : « Assez ! ami Subhadda. Ne trouble pas le Tathâgata. Le Béni du Ciel est las. »
 

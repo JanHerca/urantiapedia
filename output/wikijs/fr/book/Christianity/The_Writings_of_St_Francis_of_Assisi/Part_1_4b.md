@@ -120,7 +120,7 @@ De plus, j'enjoins aux ministres, par obéissance, de demander au Seigneur Pape 
 
 [^290]: 65:1 Voir Matthieu 19: 21.
 
-[^291]: 66:1 Voir ci-dessus, page [34](Part_1_4#p34), note [2](Part_1_4#fn_177).
+[^291]: 66:1 Voir ci-dessus, page [34](../Part_1_4#p34), note [2](../Part_1_4#fn_177).
 
 [^292]: 66:2 Luc 9: 62.
 

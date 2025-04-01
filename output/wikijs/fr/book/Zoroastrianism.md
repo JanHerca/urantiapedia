@@ -44,7 +44,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie I: “Vendîdâd” (SBE 4)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie I: « Vendîdâd » (SBE 4)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter et L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_1" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -71,7 +71,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie II: “Le Sîrôzahs, Yasts et Nyâyis” (SBE 23)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie II: « Le Sîrôzahs, Yasts et Nyâyis » (SBE 23)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter et L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -98,7 +98,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie III: “Le Yasna, Visparad, Âfrînagân, Gâhs et Fragments divers” (SBE 31)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Zend Avesta, Partie III: « Le Yasna, Visparad, Âfrînagân, Gâhs et Fragments divers » (SBE 31)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter et L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">

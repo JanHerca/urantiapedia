@@ -172,9 +172,9 @@ Août 1880.
 
 ## Notes de bas de page
 
-[^1] : Traduit ci-dessous, [pp. 112-135](Maha_Parinibbana_6#p112).
+[^1] : Traduit ci-dessous, [pp. 112-135](../Maha_Parinibbana_6#p112).
 
-[^2]: C'est une erreur. Le Subhadda en question est une personne bien différente du dernier converti. Voir ma note ci-dessous, [p. 127](Maha_Parinibbana_6#p127).
+[^2]: C'est une erreur. Le Subhadda en question est une personne bien différente du dernier converti. Voir ma note ci-dessous, [p. 127](../Maha_Parinibbana_6#p127).
 
 [^3] : Pages 67, 68 dans l'édition de Childers.
 

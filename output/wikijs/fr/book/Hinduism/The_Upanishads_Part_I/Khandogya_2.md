@@ -293,7 +293,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 [^132]: 25:1 Le prânâ s'explique par le ghrânâ, l'odorat ; il est possible que le ghrânâ ait été la lecture originale. Quoi qu'il en soit, il ne peut s'agir ici du mukhya prânâ, car il est clairement représenté comme le sens le plus bas.
 
-[^133]: 26:1 Ce sont encore les stobhâksharas, ou syllabes musicales utilisées dans l'interprétation des hymnes Sâman ; voir [p. 22](Introduction#p22).
+[^133]: 26:1 Ce sont encore les stobhâksharas, ou syllabes musicales utilisées dans l'interprétation des hymnes Sâman ; voir [p. 22](../Introduction#p22).
 
 [^134]: 26:2 Cf. <i>Kh</i>. Up. II, 2, 2. Comm.
 

@@ -165,4 +165,4 @@ Rosadi (Giovanni) : Le Procès de Jésus. Florence, 1904.
 
 [^12]: xv:2 Il est reconnu que certaines législations n'avaient qu'un intérêt théorique ; voir _T_. xiv. 1, xi. 6 a.
 
-[^13]: xvi:1 Pour la manière dont la règle d'interprétation _gezera shawa_ (voir [p. 72](2_3#p72), n. [6](2_3#fn_237)) a été utilisée pour déterminer quelle mort devrait être appliquée aux criminels lorsque les Écritures n'ordonnent pas la méthode particulière, voir _Jewish Encyclopedia_, art. « Peine capitale ». Si cette règle ne s'applique pas, le criminel doit mourir par la peine non biblique de strangulation. Voir. [p. 95](3_3#p95), n. [3](3_3#fn_292).
+[^13]: xvi:1 Pour la manière dont la règle d'interprétation _gezera shawa_ (voir [p. 72](../2_3#p72), n. [6](../2_3#fn_237)) a été utilisée pour déterminer quelle mort devrait être appliquée aux criminels lorsque les Écritures n'ordonnent pas la méthode particulière, voir _Jewish Encyclopedia_, art. « Peine capitale ». Si cette règle ne s'applique pas, le criminel doit mourir par la peine non biblique de strangulation. Voir. [p. 95](../3_3#p95), n. [3](../3_3#fn_292).

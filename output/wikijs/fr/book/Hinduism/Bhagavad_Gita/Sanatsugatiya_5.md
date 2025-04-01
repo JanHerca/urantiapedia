@@ -70,7 +70,7 @@ Celui dont les pensées sont fixées sur les plaisirs, partial [^865], orgueille
 
 [^864]: 180:9 Cf. le célèbre passage du Taittirîya, p. 123 : et aussi Mundaka, p. 289.
 
-[^865]: 180:10 Les explications des commentateurs ne sont pas tout à fait claires quant au mot ahnâ, « sous forme de lumière ». Le sens est probablement : L'univers dépend du Brahman, et est, pour ainsi dire, la lumière du Brahman. <i>Sankara</i> compare les passages mentionnés dans la Gîtâ, [p. 112](Bhagavadgita_15#p112), note .
+[^865]: 180:10 Les explications des commentateurs ne sont pas tout à fait claires quant au mot ahnâ, « sous forme de lumière ». Le sens est probablement : L'univers dépend du Brahman, et est, pour ainsi dire, la lumière du Brahman. <i>Sankara</i> compare les passages mentionnés dans la Gîtâ, [p. 112](../Bhagavadgita_15#p112), note .
 
 [^866]: 180:11 « Pas par l'action », dit <i>S</i>ankara.
 
@@ -84,11 +84,11 @@ Celui dont les pensées sont fixées sur les plaisirs, partial [^865], orgueille
 
 [^871]: 182:2 Une copie du commentaire de Sankara considère cela comme celui qui pense que le non-soi est le soi. J'adopte cependant l'autre sens, en accord avec celui d'atimânî, qui est la lecture de certaines copies au lieu d'abhimânî.
 
-[^872]: 182:3 Nîlaka<i>nth</i>a lit durbala et ne l'explique pas. Voir [p. 167](Sanatsugatiya_3#p167).
+[^872]: 182:3 Nîlaka<i>nth</i>a lit durbala et ne l'explique pas. Voir [p. 167](../Sanatsugatiya_3#p167).
 
 [^873]: 182:4 Un commentateur dit que cela signifie qu'il ne devrait pas être supposé avoir encouru le démérite d'avoir un quelconque attachement à ce monde. Nîlaka<i>nth</i>a dit qu'il abandonne tout dans la poursuite d'une seule de ces observances.
 
-[^874]: 182:5 Voir [p. 168](Sanatsugatiya_3#p168).
+[^874]: 182:5 Voir [p. 168](../Sanatsugatiya_3#p168).
 
 [^875]: 182:6 C'est-à-dire le but à atteindre. Le commentaire considère que Brahman désigne les Védas, et l'ensemble de la phrase désigne ceux qui se consacrent à l'accomplissement des actions énoncées dans les Védas.
 
@@ -108,7 +108,7 @@ Celui dont les pensées sont fixées sur les plaisirs, partial [^865], orgueille
 
 [^883]: 184:2 Pour un ami.
 
-[^884]: 184:3 Voir Gita, [p. 120](Bhagavadgita_17#p120).
+[^884]: 184:3 Voir Gita, [p. 120](../Bhagavadgita_17#p120).
 
 [^885]: 184:4 Les commentateurs prennent cela pour signifier les objets des sens, et ils interprètent « éléments » auparavant comme signifiant les sens.
 
@@ -118,7 +118,7 @@ Celui dont les pensées sont fixées sur les plaisirs, partial [^865], orgueille
 
 [^888]: 184:7 C'est-à-dire vers les mondes supérieurs ; cela ne conduit pas à l'émancipation ici.
 
-[^889]: 184:8 Cf. Mundaka, p. 277. Je dois avouer que je ne comprends pas bien ce passage, ni son explication telle qu'elle est donnée dans les commentaires. Je ne vois pas bien ce que la pénitence mentionnée ici a à voir avec le sacrifice, et pourtant les commentateurs semblent interpréter les mots « puisque les sacrifices », etc., avec ce qui les précède, et non avec ce qui suit. Cependant, en les intégrant à ce qui suit, il est difficile d'expliquer le mot « puisque ». Pour autant que je puisse comprendre le passage, j'en comprends le sens comme suit : l'auteur ayant dit que la pénitence accomplie pour un motif particulier ne conduit pas à l'émancipation finale, il souligne ensuite que toute « action » ou tout « sacrifice » est dû à une compréhension imparfaite de la vérité (cf. [p. 171](Sanatsugatiya_3#p171) supra), étant principalement dû à un motif particulier. Il poursuit en montrant les différentes classes de sacrifice, et souligne finalement que celui qui est libre de désirs est supérieur à celui qui est mû par les désirs. Le mot original pour « malentendu » est avabodha, qui signifie communément « appréhension », mais Sankara lui donne finalement le sens de moha ou « illusion ». Le mot original pour « vérité » est rendu par Nîlaka<i>nd</i>a par « imaginations ». Nîlaka<i>nd</i>a dit que le sacrifice par l'esprit est le plus élevé ; celui par la parole, à savoir Brahmaya<i>g</i>ña, <i>G</i>apa, etc., est moyen ; et celui par l'action, à savoir avec du beurre clarifié et d'autres offrandes, est de la classe la plus basse. « Perfectionné par les fantaisies » = celui dont les fantaisies sont toujours satisfaites « par une connaissance », dit Nîlaka<i>nd</i>a, « du Brahma comme possédant des qualités. »
+[^889]: 184:8 Cf. Mundaka, p. 277. Je dois avouer que je ne comprends pas bien ce passage, ni son explication telle qu'elle est donnée dans les commentaires. Je ne vois pas bien ce que la pénitence mentionnée ici a à voir avec le sacrifice, et pourtant les commentateurs semblent interpréter les mots « puisque les sacrifices », etc., avec ce qui les précède, et non avec ce qui suit. Cependant, en les intégrant à ce qui suit, il est difficile d'expliquer le mot « puisque ». Pour autant que je puisse comprendre le passage, j'en comprends le sens comme suit : l'auteur ayant dit que la pénitence accomplie pour un motif particulier ne conduit pas à l'émancipation finale, il souligne ensuite que toute « action » ou tout « sacrifice » est dû à une compréhension imparfaite de la vérité (cf. [p. 171](../Sanatsugatiya_3#p171) supra), étant principalement dû à un motif particulier. Il poursuit en montrant les différentes classes de sacrifice, et souligne finalement que celui qui est libre de désirs est supérieur à celui qui est mû par les désirs. Le mot original pour « malentendu » est avabodha, qui signifie communément « appréhension », mais Sankara lui donne finalement le sens de moha ou « illusion ». Le mot original pour « vérité » est rendu par Nîlaka<i>nd</i>a par « imaginations ». Nîlaka<i>nd</i>a dit que le sacrifice par l'esprit est le plus élevé ; celui par la parole, à savoir Brahmaya<i>g</i>ña, <i>G</i>apa, etc., est moyen ; et celui par l'action, à savoir avec du beurre clarifié et d'autres offrandes, est de la classe la plus basse. « Perfectionné par les fantaisies » = celui dont les fantaisies sont toujours satisfaites « par une connaissance », dit Nîlaka<i>nd</i>a, « du Brahma comme possédant des qualités. »
 
 [^890]: 185:1 Ceci aussi est loin d'être clair. Devrait-on dire « et un Brâhmane plus particulièrement » ? On pourrait interpréter cela comme se référant à celui qui connaît le Brahman comme dépourvu de qualités, comme le pense Nîlakanth. Mais sa construction n'est pas tout à fait claire.
 
@@ -132,8 +132,8 @@ Celui dont les pensées sont fixées sur les plaisirs, partial [^865], orgueille
 
 [^895]: 185:6 Car il doit subir une migration d'une vie à une autre en conséquence de l'action. Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 856 ; Mu<i>ri</i>aka. p. 278.
 
-[^896]: 185:7 Cf. Gita, [p. 70](Bhagavadgita_6#p70).
+[^896]: 185:7 Cf. Gita, [p. 70](../Bhagavadgita_6#p70).
 
-[^897]: 185:8 Ibid. pp. [101](Bhagavadgita_12#p101)\-[110](Bhagavadgita_14#p110).
+[^897]: 185:8 Ibid. pp. [101](../Bhagavadgita_12#p101)\-[110](../Bhagavadgita_14#p110).
 
 [^898]: 185:9 C'est-à-dire le yoga ou concentration de l'esprit décrit ici. Cette strophe, comme beaucoup d'autres dans ce chapitre, apparaît au chapitre III avec de légères variations.

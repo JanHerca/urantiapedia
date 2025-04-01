@@ -68,7 +68,7 @@ Puisque certains pratiquent la piété [^671] dans ce monde, et que d’autres p
 
 Sanatsu<i>g</i>âta a dit :
 
-Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréhension détruit toujours les deux par le moyen de la connaissance ; c'est établi [^673]. De même, dans l'autre cas [^674], le (soi) incarné obtient du mérite ; et à un tel, le péché (aussi) s'ajoute ; c'est également établi [^673]. En quittant (ce monde), il jouit par ses actions des deux (sortes de) fruits, qui ne sont pas durables [^675] — des actions (qui sont) pures, et (celles qui sont) pécheresses. L'homme doué de compréhension rejette le péché par la piété en ce (monde), car sachez que sa piété est plus puissante [^676]. Ces Brâhmanes, chez qui il y a émulation [^677] pour (leur) piété, comme il y en a pour (leur) force chez les hommes forts, après avoir quitté ce monde, deviennent glorieux au ciel [^678]. Et <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> pour ceux en qui il n'y a pas d'émulation dans (leur) piété, cette (piété) est un moyen (d'acquérir) la connaissance [^679]. Un tel Brâhma<i>n</i>, libéré de ce (monde), va au ciel qui est libéré de la triple source de douleur [^680]. Ceux qui comprennent les Védas qualifient sa conduite de bonne. (Mais) les personnes qui lui sont étroitement liées [^681], ainsi que les étrangers, ne lui accordent pas beaucoup d'importance. Partout où il peut croire que la nourriture et la boisson pour un Brâhma<i>n</i>a existent en abondance, comme l'eau sur l'herbe en automne, il vivra là sans être vexé [^682]. (Pour lui) seule est bonne cette personne, et aucune autre (comme compagnon), qui ne fait rien d'excessif et qui cause peur et préjudice à un homme taciturne [^683]. Et sa nourriture est agréable au bon, qui ne vexe pas l'homme taciturne et qui ne détruit pas les biens d'un Brâhma<i>n</i>a [^684]. Un Brâhma<i>n</i>a devrait considérer que, vivant au milieu de ses proches, ses actions devraient toujours être inconnues [^685] ; et il ne devrait pas <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> penser [^686] (à leur sujet). Que devrait penser un Brâhma<i>n</i>a de son moi intérieur, qui est vide de symboles [^687], immobile, pur et libre de toute paire d'opposés, de cette manière [^688] ? Quel péché ne commet pas ce voleur qui dérobe son propre moi [^689], qui considère son moi comme une chose, alors qu'il en est une autre. Le Brâhmane clairvoyant, qui connaît le Brahman, ne se lasse pas [^690], il ne reçoit rien [^691] ; il est honoré, libre de tout trouble [^692] et sage, mais agit comme s'il n'était pas sage [^693]. Comme les chiens mangent ce qu'ils vomissent, ainsi, jouissant de leur propre courage [^694], mangent ce qu'ils vomissent, toujours au péril de leur vie. Ces êtres deux fois nés, qui ne sont pas <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> premiers [^695] en matière de richesse humaine, mais qui sont premiers dans les Védas [^696], sont invincibles,ne doit pas être ébranlé [^697] ; il faut les comprendre comme des formes du Brahman. Quiconque peut en ce (monde) connaître tous les dieux [^698] — dispensateurs de faveurs — n'est pas égal à un Brahmane, (ni même) à celui [^699] pour lequel il se dépense. L'homme qui ne fait aucun effort [^700] et est respecté ne se croit pas respecté [^701], et ne s'irrite pas non plus du manque de respect. Celui qui est respecté [^702] devrait penser que c'est une opération naturelle des gens, comme le fait d'ouvrir ou de fermer les paupières, que les érudits le respectent en ce monde. Celui qui n'est pas respecté devrait penser que les gens égarés qui ne comprennent pas la piété et qui sont dépourvus de (connaissance) du monde et des Sâstras, ne respecteront jamais celui qui est digne de respect. Le respect et la taciturnité [^703], en vérité, ne cohabitent jamais ; car ce monde est (le domaine) du respect, le suivant de la taciturnité, comme on le comprend [^704]. Car la richesse terrestre réside dans la <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> sphère du respect [1](Sanatsugatiya_3#fn705), et cela aussi est un obstacle [2](Sanatsugatiya_3#fn706). Tandis que la richesse brahmique [3](Sanatsugatiya_3#fn707), ô Kshatriya ! est difficile à atteindre pour quiconque est dépourvu de connaissance. Les voies (qui y conduisent) sont énoncées par les bons de diverses descriptions et difficiles à atteindre : la vérité, la droiture, la modestie [4](Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.la modestie [4](Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.la modestie [4](Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.
+Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréhension détruit toujours les deux par le moyen de la connaissance ; c'est établi [^673]. De même, dans l'autre cas [^674], le (soi) incarné obtient du mérite ; et à un tel, le péché (aussi) s'ajoute ; c'est également établi [^673]. En quittant (ce monde), il jouit par ses actions des deux (sortes de) fruits, qui ne sont pas durables [^675] — des actions (qui sont) pures, et (celles qui sont) pécheresses. L'homme doué de compréhension rejette le péché par la piété en ce (monde), car sachez que sa piété est plus puissante [^676]. Ces Brâhmanes, chez qui il y a émulation [^677] pour (leur) piété, comme il y en a pour (leur) force chez les hommes forts, après avoir quitté ce monde, deviennent glorieux au ciel [^678]. Et <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> pour ceux en qui il n'y a pas d'émulation dans (leur) piété, cette (piété) est un moyen (d'acquérir) la connaissance [^679]. Un tel Brâhma<i>n</i>, libéré de ce (monde), va au ciel qui est libéré de la triple source de douleur [^680]. Ceux qui comprennent les Védas qualifient sa conduite de bonne. (Mais) les personnes qui lui sont étroitement liées [^681], ainsi que les étrangers, ne lui accordent pas beaucoup d'importance. Partout où il peut croire que la nourriture et la boisson pour un Brâhma<i>n</i>a existent en abondance, comme l'eau sur l'herbe en automne, il vivra là sans être vexé [^682]. (Pour lui) seule est bonne cette personne, et aucune autre (comme compagnon), qui ne fait rien d'excessif et qui cause peur et préjudice à un homme taciturne [^683]. Et sa nourriture est agréable au bon, qui ne vexe pas l'homme taciturne et qui ne détruit pas les biens d'un Brâhma<i>n</i>a [^684]. Un Brâhma<i>n</i>a devrait considérer que, vivant au milieu de ses proches, ses actions devraient toujours être inconnues [^685] ; et il ne devrait pas <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> penser [^686] (à leur sujet). Que devrait penser un Brâhma<i>n</i>a de son moi intérieur, qui est vide de symboles [^687], immobile, pur et libre de toute paire d'opposés, de cette manière [^688] ? Quel péché ne commet pas ce voleur qui dérobe son propre moi [^689], qui considère son moi comme une chose, alors qu'il en est une autre. Le Brâhmane clairvoyant, qui connaît le Brahman, ne se lasse pas [^690], il ne reçoit rien [^691] ; il est honoré, libre de tout trouble [^692] et sage, mais agit comme s'il n'était pas sage [^693]. Comme les chiens mangent ce qu'ils vomissent, ainsi, jouissant de leur propre courage [^694], mangent ce qu'ils vomissent, toujours au péril de leur vie. Ces êtres deux fois nés, qui ne sont pas <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> premiers [^695] en matière de richesse humaine, mais qui sont premiers dans les Védas [^696], sont invincibles,ne doit pas être ébranlé [^697] ; il faut les comprendre comme des formes du Brahman. Quiconque peut en ce (monde) connaître tous les dieux [^698] — dispensateurs de faveurs — n'est pas égal à un Brahmane, (ni même) à celui [^699] pour lequel il se dépense. L'homme qui ne fait aucun effort [^700] et est respecté ne se croit pas respecté [^701], et ne s'irrite pas non plus du manque de respect. Celui qui est respecté [^702] devrait penser que c'est une opération naturelle des gens, comme le fait d'ouvrir ou de fermer les paupières, que les érudits le respectent en ce monde. Celui qui n'est pas respecté devrait penser que les gens égarés qui ne comprennent pas la piété et qui sont dépourvus de (connaissance) du monde et des Sâstras, ne respecteront jamais celui qui est digne de respect. Le respect et la taciturnité [^703], en vérité, ne cohabitent jamais ; car ce monde est (le domaine) du respect, le suivant de la taciturnité, comme on le comprend [^704]. Car la richesse terrestre réside dans la <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> sphère du respect [1](../Sanatsugatiya_3#fn705), et cela aussi est un obstacle [2](../Sanatsugatiya_3#fn706). Tandis que la richesse brahmique [3](../Sanatsugatiya_3#fn707), ô Kshatriya ! est difficile à atteindre pour quiconque est dépourvu de connaissance. Les voies (qui y conduisent) sont énoncées par les bons de diverses descriptions et difficiles à atteindre : la vérité, la droiture, la modestie [4](../Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.la modestie [4](../Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.la modestie [4](../Sanatsugatiya_3#fn708), la retenue (des sens), la pureté, la connaissance, qui sont les six obstacles (sur le chemin) du respect et de l'illusion.
 
 <figure class="table chapter-navigator">
   <table>
@@ -100,7 +100,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^615]: 151:2 Littéralement « respecté ». Nîlaka<i>nth</i>a dit que cela signifie réjoui, car Dh<i>nth</i>tarâsh<i>t</i>ra pensait que, malgré sa trahison, il était en sécurité, car Sanatsu<i>g</i>âta avait enseigné que la mort n'avait pas d'existence.
 
-[^616]: 151:3 C'est-à-dire libre de la présence des gens ignorants et vulgaires. Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68) supra.
+[^616]: 151:3 C'est-à-dire libre de la présence des gens ignorants et vulgaires. Cf. Gîtâ, [p. 68](../Bhagavadgita_6#p68) supra.
 
 [^617]: 151:4 C'est-à-dire la connaissance concernant le Soi suprême.
 
@@ -110,7 +110,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^620]: 151:7 La construction est imparfaite, mais le sens est clair : votre point de vue de la page 152 est-il correct, ou le point de vue impliqué dans la pratique des dieux et des démons ?
 
-[^621]: 152:1 Voir Gîtâ, [p. 69](Bhagavadgita_6#p69) supra ; Ka<i>th</i>opanishad, p. 102 ; Pra<i>s</i>na, p. 162. Quant à la peur de la mort chez les dieux, voir <i>Kh</i>ândogya, p. 50 ; et N<i>th</i>si<i>m</i>ha Tâpinî, p. 32 ; et quant aux dieux et aux démons pratiquant la vie des Brahma<i>k</i>ârins, voir <i>Kh</i>ândogya, p. 571 ; et cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
+[^621]: 152:1 Voir Gîtâ, [p. 69](../Bhagavadgita_6#p69) supra ; Ka<i>th</i>opanishad, p. 102 ; Pra<i>s</i>na, p. 162. Quant à la peur de la mort chez les dieux, voir <i>Kh</i>ândogya, p. 50 ; et N<i>th</i>si<i>m</i>ha Tâpinî, p. 32 ; et quant aux dieux et aux démons pratiquant la vie des Brahma<i>k</i>ârins, voir <i>Kh</i>ândogya, p. 571 ; et cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
 
 [^622]: 152:2 C'est-à-dire l'action prescrite dans les Védas.
 
@@ -128,15 +128,15 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^629]: 153:3 Nous avons ici les développements, les formes variées, de la mort ou de l'insouciance.
 
-[^630]: 153:4 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57). C'est-à-dire les voies contraires aux <i>S</i>rutis et aux <i>S</i>m<i>ri</i>tis.
+[^630]: 153:4 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57). C'est-à-dire les voies contraires aux <i>S</i>rutis et aux <i>S</i>m<i>ri</i>tis.
 
 [^631]: 153:5 Concentration de l'esprit sur le soi ou Brahman.
 
 [^632]: 153:6 C'est-à-dire l'égoïsme dont nous avons parlé précédemment.
 
-[^633]: 153:7 C'est-à-dire à ce monde mortel. Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84), et B<i>ri</i>hadâra<i>n</i>yaka, pp. 855, 856. Là = du monde suivant. <i>S</i>ankara dit : « ayant vécu là-bas. »
+[^633]: 153:7 C'est-à-dire à ce monde mortel. Cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84), et B<i>ri</i>hadâra<i>n</i>yaka, pp. 855, 856. Là = du monde suivant. <i>S</i>ankara dit : « ayant vécu là-bas. »
 
-[^634]: 153:8 C'est-à-dire les sens. Cf. Gîtâ, [p. 123](Bhagavadgita_18#p123), et entre autres Î<i>s</i>opanishad, p. 10.
+[^634]: 153:8 C'est-à-dire les sens. Cf. Gîtâ, [p. 123](../Bhagavadgita_18#p123), et entre autres Î<i>s</i>opanishad, p. 10.
 
 [^635]: 153:9 Cf. Ka<i>th</i>a, p. 129, et B<i>th</i>hadâra<i>n</i>yaka, p. 889.
 
@@ -152,13 +152,13 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^641]: 154:5 À travers diverses vies. La naissance et la mort sont certaines pour lui.
 
-[^642]: 154:6 C'est-à-dire provoque l'oubli de sa véritable nature, <i>S</i>ankara. Cf. toute la chaîne de cause à effet dans la Gîtâ, [p. 50](Bhagavadgita_2#p50) supra.
+[^642]: 154:6 C'est-à-dire provoque l'oubli de sa véritable nature, <i>S</i>ankara. Cf. toute la chaîne de cause à effet dans la Gîtâ, [p. 50](../Bhagavadgita_2#p50) supra.
 
 [^643]: 154:7 C'est-à-dire la réflexion, le désir, la colère, etc. Quant aux « enfants », cf. Ka<i>th</i>a, pp. 96 et 123, où bâla est opposé à dhîra, comme ici. Le « bon sens » aide à résister aux tentations des objets du monde.
 
 [^644]: 154:8 Détruit = abandonne ; méditer, juste avant cela, est rendu par <i>S</i>ankara pour signifier « penser aux objets comme transitoires, impurs », etc.
 
-[^645]: 154:9 <i>Sankara</i> cite à ce sujet une strophe d'auteur inconnu, qui dit : « L'homme instruit et intelligent qui connaît le soi et détruit par discrimination tous les objets des sens, est considéré comme la mort de la mort. » Voir aussi [p. 178](Sanatsugatiya_4#p178) infra.
+[^645]: 154:9 <i>Sankara</i> cite à ce sujet une strophe d'auteur inconnu, qui dit : « L'homme instruit et intelligent qui connaît le soi et détruit par discrimination tous les objets des sens, est considéré comme la mort de la mort. » Voir aussi [p. 178](../Sanatsugatiya_4#p178) infra.
 
 [^646]: 155:1 À ce propos, Nîlaka<i>nth</i>a cite ces lignes : « L'antilope, l'éléphant, le papillon, l'abeille et le poisson – ces cinq-là sont détruits par les cinq », c'est-à-dire les cinq objets des sens, du son, etc. Voir <i>S</i>ânti Parvan (Moksha Dharma), chap. 174, st. 45.
 
@@ -174,7 +174,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^652]: 155:7 Cf. Taittirīya-upanishad, p. 102.
 
-[^653]: 155:8 Comme étant ruineux pour soi-même. Sankara compare la Gîtâ, [p. 68](Bhagavadgita_6#p68). Cf. aussi Taittirîya-upanishad, p. 103, et voir B<i>ri</i>hadâra<i>n</i>yaka, p. 61.
+[^653]: 155:8 Comme étant ruineux pour soi-même. Sankara compare la Gîtâ, [p. 68](../Bhagavadgita_6#p68). Cf. aussi Taittirîya-upanishad, p. 103, et voir B<i>ri</i>hadâra<i>n</i>yaka, p. 61.
 
 [^654]: 155:9 C'est-à-dire l'insouciance et ses développements tels qu'ils sont énoncés.
 
@@ -190,7 +190,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^660]: 156:4 C'est-à-dire l'homme de connaissance.
 
-[^661]: 156:5 C'est-à-dire dans la sphère de l'action. Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48).
+[^661]: 156:5 C'est-à-dire dans la sphère de l'action. Cf. Gîtâ, [p. 48](../Bhagavadgita_2#p48).
 
 [^662]: 156:6 Connaître le soi suprême est identique à devenir le soi suprême, Mundaka, p. 323.
 
@@ -224,17 +224,17 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^678]: 158:4 De l'homme dépourvu de connaissance.
 
-[^680]: 158:5 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76), et B<i>ri</i>hadâra<i>n</i>yaka, p. 636.
+[^680]: 158:5 Cf. Gîtâ, [p. 76](../Bhagavadgita_7#p76), et B<i>ri</i>hadâra<i>n</i>yaka, p. 636.
 
-[^681]: 158:6 Voir [p. 164](Sanatsugatiya_3#p164), note [9](Sanatsugatiya_3#fn726) infra.
+[^681]: 158:6 Voir [p. 164](../Sanatsugatiya_3#p164), note [9](../Sanatsugatiya_3#fn726) infra.
 
 [^682]: 158:7 Le sentiment de sa propre supériorité sur les autres en matière de piété.
 
-[^683]: 158:8 « Sous la forme de Nakshatras », dit Sankara, ce qui n'est pas tout à fait intelligible. Voir Khândogya, p. 258, et Anugîtâ infra, [p. 240](Anugita_2#p240).
+[^683]: 158:8 « Sous la forme de Nakshatras », dit Sankara, ce qui n'est pas tout à fait intelligible. Voir Khândogya, p. 258, et Anugîtâ infra, [p. 240](../Anugita_2#p240).
 
-[^684]: 159:1 Selon la théorie védantique, les actes de piété purifient l'homme intérieur et constituent ainsi un tremplin vers la connaissance. Voir Introduction, [p. 147](Sanatsugatiya_Intro#p147) supra. Cf. Gîtâ, [p. 122](Bhagavadgita_18#p122) ; et B<i>ri</i>hadâra<i>n</i>yaka, p. 899.
+[^684]: 159:1 Selon la théorie védantique, les actes de piété purifient l'homme intérieur et constituent ainsi un tremplin vers la connaissance. Voir Introduction, [p. 147](../Sanatsugatiya_Intro#p147) supra. Cf. Gîtâ, [p. 122](../Bhagavadgita_18#p122) ; et B<i>ri</i>hadâra<i>n</i>yaka, p. 899.
 
-[^685]: 159:2 C'est-à-dire physique, mental, et tel qu'il est causé par une action surhumaine. Telle est l'explication de Sankara. Elle est quelque peu tirée par les cheveux, mais je n'en trouve pas de meilleure. Cf. Gîtâ, [p. 49](Bhagavadgita_2#p49). Voir aussi B<i>ri</i>hadâra<i>n</i>yaka, p. 876, et le commentaire de Sankara avec la glose d'Ânandagiri.
+[^685]: 159:2 C'est-à-dire physique, mental, et tel qu'il est causé par une action surhumaine. Telle est l'explication de Sankara. Elle est quelque peu tirée par les cheveux, mais je n'en trouve pas de meilleure. Cf. Gîtâ, [p. 49](../Bhagavadgita_2#p49). Voir aussi B<i>ri</i>hadâra<i>n</i>yaka, p. 876, et le commentaire de Sankara avec la glose d'Ânandagiri.
 
 [^686]: 159:3 Par exemple, femme, enfants, etc.
 
@@ -242,13 +242,13 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^688]: 159:5 Excès, par exemple trop d'obséquiosité envers un « homme taciturne », en raison de sa sainteté, etc. Homme taciturne = ascète. Injure = manque de respect, etc. Peut-être la protestation contre la mondanité est-elle ici poussée à l'extrême. <i>Sankara</i> cite Manu comme parallèle : « Un Brâhma<i>n</i>a devrait avoir peur du respect (mondain) comme du poison. »
 
-[^689]: 159:6 Par exemple, l'herbe Kusa, la peau de cerf, etc., mentionnées dans la Gîtâ, [p. 68](Bhagavadgita_6#p68).
+[^689]: 159:6 Par exemple, l'herbe Kusa, la peau de cerf, etc., mentionnées dans la Gîtâ, [p. 68](../Bhagavadgita_6#p68).
 
 [^690]: 159:7 Autrement dit, il ne doit pas exhiber ses actions. Sankara compare Vasishtha à un texte védique. Voir aussi la citation dans Taitt. Âran. p. 902.
 
-[^691]: ​​160:1 Cf. Gîtâ, [p. 103](Bhagavadgita_13#p103). <i>Sankara</i> suggère une explication alternative de cette strophe, qui signifierait que celui qui accomplit les opérations des sens devrait néanmoins se consacrer au principe inconnu, et ne pas considérer les sens comme étant le soi.
+[^691]: ​​160:1 Cf. Gîtâ, [p. 103](../Bhagavadgita_13#p103). <i>Sankara</i> suggère une explication alternative de cette strophe, qui signifierait que celui qui accomplit les opérations des sens devrait néanmoins se consacrer au principe inconnu, et ne pas considérer les sens comme étant le soi.
 
-[^692]: 160:2 C'est-à-dire au-delà de la portée de l'inférence ; « subtil », dit Sankara. Cf. Svetâsvatara, p. 364 ; Birihadânanyaka, p. 855 ; Maitrî, ​​p. 182 ; et Karia, p. 149, où Sankara suggère un sens quelque peu différent. Quant à immobile, cf. Îsa, p. 10, et Gîtâ, [p. 104](Bhagavadgita_13#p104). Sankara le rend par « vide d'activité » ; et pur, il le paraphrase par « libre de l'ignorance et d'autres souillures ».
+[^692]: 160:2 C'est-à-dire au-delà de la portée de l'inférence ; « subtil », dit Sankara. Cf. Svetâsvatara, p. 364 ; Birihadânanyaka, p. 855 ; Maitrî, ​​p. 182 ; et Karia, p. 149, où Sankara suggère un sens quelque peu différent. Quant à immobile, cf. Îsa, p. 10, et Gîtâ, [p. 104](../Bhagavadgita_13#p104). Sankara le rend par « vide d'activité » ; et pur, il le paraphrase par « libre de l'ignorance et d'autres souillures ».
 
 [^693]: 160:3 Il est difficile de dire à quoi « de cette manière » se réfère. Sankara le rend par « comme possédant des qualités appartenant aux deux types de corps ». Selon le sens suggéré par Sankara de la strophe précédente (voir note [^686]), cela ferait référence à la confusion des sens avec le soi.
 
@@ -256,7 +256,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^695]: 160:5 C'est-à-dire par les troubles de la vie mondaine.
 
-[^696]: 160:6 Cf. 'sans biens' dans Gîtâ, [p. 128](Bhagavadgita_18#p128).
+[^696]: 160:6 Cf. 'sans biens' dans Gîtâ, [p. 128](../Bhagavadgita_18#p128).
 
 [^697]: 160:7 Colère et autres obstacles à la concentration de l'esprit.
 
@@ -272,7 +272,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^703]: 161:4 C'est-à-dire que je peux leur sacrifier, <i>S</i>ankara.
 
-[^704]: 161:5 Même la divinité à laquelle le sacrifice est offert n'est pas égale à celui qui connaît le Brahman. Cf. Taittirîya, p. 23, et. Anugîtâ, [p. 250](Anugita_4#p250).
+[^704]: 161:5 Même la divinité à laquelle le sacrifice est offert n'est pas égale à celui qui connaît le Brahman. Cf. Taittirîya, p. 23, et. Anugîtâ, [p. 250](../Anugita_4#p250).
 
 [^705]: 161:6 C'est-à-dire celui qui est « taciturne » et qui ne fait pas étalage de sa grandeur.
 
@@ -282,4 +282,4 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^708]: 161:9 C'est-à-dire la restriction de tous les sens, et pas seulement de la parole. Pour le contraste, comparer celui entre sreya et preya dans Katha, p. 92.
 
-[^709]: 161:10 C'est-à-dire par tous les hommes doués de compréhension. La traduction de Sankara est différente : « Le suivant, connu sous le nom de Tad, est pour la taciturnité. » Il cite à cet effet la Gîtâ, [p. 120](Bhagavadgita_17#p120).
+[^709]: 161:10 C'est-à-dire par tous les hommes doués de compréhension. La traduction de Sankara est différente : « Le suivant, connu sous le nom de Tad, est pour la taciturnité. » Il cite à cet effet la Gîtâ, [p. 120](../Bhagavadgita_17#p120).

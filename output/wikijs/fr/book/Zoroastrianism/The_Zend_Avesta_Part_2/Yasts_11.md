@@ -251,7 +251,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^772] : 160:5 Douteux (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
-[^773]: 160:6 Voir [p. 23](Yasts_1#p23).
+[^773]: 160:6 Voir [p. 23](../Yasts_1#p23).
 
 [^774]: 160:7 Ou, « est le meilleur de tous les ennemis des démons au combat. »
 
@@ -285,7 +285,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^789]: 162:7 Cf. Yt. I, 19.
 
-[^790]: 163:1 Cf. ci-dessus, [p. 145](Yasts_10#p145), note [1](Yasts_10#fn669).
+[^790]: 163:1 Cf. ci-dessus, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
 
 [^791]: 163:2 En enfer.
 

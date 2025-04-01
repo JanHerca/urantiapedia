@@ -26,6 +26,8 @@ dateCreated: 2025-2-12T22:33:9Z
   </table>
 </figure>
 
+<a id="c1"></a>
+
 ## 1
 
 <p style="text-align:center;">
@@ -47,6 +49,8 @@ se déroule, il reçoit différents noms. Ensemble, nous les appelons<br>
 Le Mystère. Là où le Mystère est le plus profond se trouve la porte de tout ce qui
 est subtil et merveilleux.<br>
 </p>
+
+<a id="c2"></a>
 
 ## 2
 
@@ -77,6 +81,8 @@ Le travail est fait, mais personne ne peut le voir ;<br>
 C'est ce qui fait que le pouvoir ne cesse pas d'être.<br>
 </p>
 
+<a id="c3"></a>
+
 ## 3
 
 <p style="text-align:center;">
@@ -96,6 +102,8 @@ de présumer d'agir (en conséquence). Lorsqu'il y a cette abstinence de<br>
 l'action, le bon ordre est universel.<br>
 </p>
 
+<a id="c4"></a>
+
 ## 4
 
 <p style="text-align:center;">
@@ -112,6 +120,8 @@ c'est comme si ça allait continuer comme ça !<br>
 Je ne sais pas à qui appartient ce fils. Il semblerait que ce soit déjà arrivé.
 Dieu.<br>
 </p>
+
+<a id="c5"></a>
 
 ## 5
 
@@ -130,6 +140,8 @@ Nous voyons que trop de paroles conduisent à un épuisement rapide ;<br>
 Gardez votre être intérieur et gardez-le libre.<br>
 </p>
 
+<a id="c6"></a>
+
 ## 6
 
 <p style="text-align:center;">
@@ -140,6 +152,8 @@ On l'appelle la racine d'où sont nés le ciel et la terre.<br>
 Son pouvoir demeure long et ininterrompu,<br>
 Utilisé en douceur et sans douleur.<br>
 </p>
+
+<a id="c7"></a>
 
 ## 7
 
@@ -154,6 +168,8 @@ la première place; il traite sa personne comme si elle lui était étrangère,<
 et pourtant cette personne est préservée. N'est-ce pas parce qu'elle n'a pas<br>
 des fins personnelles et privées, que par conséquent de telles fins sont réalisées ?<br>
 </p>
+
+<a id="c8"></a>
 
 ## 8
 
@@ -173,6 +189,8 @@ Et quand (celui qui a la plus haute excellence) ne se dispute pas (à propos de<
 sa position basse), personne ne lui trouve à redire.<br>
 </p>
 
+<a id="c9"></a>
+
 ## 9
 
 <p style="text-align:center;">
@@ -185,6 +203,8 @@ En sécurité. Quand la richesse et les honneurs mènent à l'arrogance, cela en
 sur lui-même. Lorsque le travail est terminé et que le nom devient<br>
 distingué, se retirer dans l'obscurité est la voie du Ciel.<br>
 </p>
+
+<a id="c10"></a>
 
 ## 10
 
@@ -208,6 +228,8 @@ il s'en vante ; il préside à tous, et pourtant ne les contrôle pas.
 C'est ce qu'on appelle « la qualité mystérieuse » (du Tao).<br>
 </p>
 
+<a id="c11"></a>
+
 ## 11
 
 <p style="text-align:center;">
@@ -219,6 +241,8 @@ pour former un appartement ; mais c'est sur l'espace vide (à l'intérieur), que
 L'usage dépend. Par conséquent, ce qui a une existence (positive) sert à<br>
 adaptation rentable, et ce qui n'a pas cela pour utilité (réelle).<br>
 </p>
+
+<a id="c12"></a>
 
 ## 12
 
@@ -234,6 +258,8 @@ C'est pourquoi le sage cherche à satisfaire (le désir de) son ventre, et<br>
 pas le désir insatiable des yeux. Il éloigne de lui le<br>
 ce dernier, et préfère rechercher le premier.<br>
 </p>
+
+<a id="c13"></a>
 
 ## 13
 
@@ -260,6 +286,8 @@ l'administrer avec l'amour qu'il porte à sa propre personne peut être<br>
 qui lui est confié.<br>
 </p>
 
+<a id="c14"></a>
+
 ## 14
 
 <p style="text-align:center;">
@@ -281,6 +309,8 @@ C'est de retour. Quand nous pourrons nous emparer du Tao ancien pour diriger les
 d'aujourd'hui, et sont capables de le connaître comme il était autrefois dans le<br>
 au début, c'est ce qu'on appelle (dérouler) l'indice du Tao.<br>
 </p>
+
+<a id="c15"></a>
 
 ## 15
 
@@ -306,6 +336,8 @@ eux-mêmes). C'est parce qu'ils ne sont pas imbus d'eux-mêmes que<br>
 ils peuvent se permettre de paraître usés et de ne pas paraître neufs et complets.<br>
 </p>
 
+<a id="c16"></a>
+
 ## 16
 
 <p style="text-align:center;">
@@ -329,6 +361,8 @@ Au ciel, il possède le Tao. Possédant le Tao, il dure longtemps ;<br>
 et jusqu'à la fin de sa vie corporelle, il est exempt de tout danger de décomposition.<br>
 </p>
 
+<a id="c17"></a>
+
 ## 17
 
 <p style="text-align:center;">
@@ -344,6 +378,8 @@ Leur travail a été accompli et leurs entreprises ont été couronnées de succ
 les gens ont tous dit : « Nous sommes comme nous sommes, par nous-mêmes ! »<br>
 </p>
 
+<a id="c18"></a>
+
 ## 18
 
 <p style="text-align:center;">
@@ -355,6 +391,8 @@ Lorsque l'harmonie ne régnait plus entre les six parentés,<br>
 les fils filiaux ont trouvé leur manifestation ; lorsque les États et les clans sont tombés<br>
 dans le désordre, des ministres loyaux sont apparus.<br>
 </p>
+
+<a id="c19"></a>
 
 ## 19
 
@@ -372,6 +410,8 @@ Et ils ont fait de ces noms leur manque de valeur pour voiler;<br>
 Mais des vues simples et des cours clairs et vrais<br>
 Je voudrais éviter les fins égoïstes et de nombreuses convoitises.
 </p>
+
+<a id="c20"></a>
 
 ## 20
 
@@ -402,6 +442,8 @@ Moi seul, je parais stupide et incapable, comme un frontalier grossier. (Ainsi) 
 Je suis différent des autres hommes, mais j'apprécie la mère qui allaite (le Tao).<br>
 </p>
 
+<a id="c21"></a>
+
 ## 21
 
 <p style="text-align:center;">
@@ -426,6 +468,8 @@ Comment sais-je qu'il en est ainsi de toutes les beautés des choses existantes 
 ceci (la nature du Tao).<br>
 </p>
 
+<a id="c22"></a>
+
 ## 22
 
 <p style="text-align:center;">
@@ -444,6 +488,8 @@ c'est pourquoi personne au monde ne peut lutter avec lui.
 Ce dicton des anciens selon lequel « le partiel devient complet » était<br>
 ce n'est pas une parole vaine : tout accomplissement réel est compris sous elle.<br>
 </p>
+
+<a id="c23"></a>
 
 ## 23
 
@@ -468,6 +514,8 @@ dans leur échec, ils ont aussi le bonheur d'atteindre (le Tao).<br>
 la foi (en lui) s'ensuit (de la part des autres).<br>
 </p>
 
+<a id="c24"></a>
+
 ## 24
 
 <p style="text-align:center;">
@@ -479,6 +527,8 @@ Le vaniteux n'a aucune supériorité. De telles conditions, considérées<br>
 du point de vue du Tao, ils sont comme des restes de nourriture ou une tumeur<br>
 sur le corps, ce que tout le monde déteste. De là ceux qui poursuivent cette voie.
 du Tao ne les adoptent pas et ne les autorisent pas.</p>
+
+<a id="c25"></a>
 
 ## 25
 
@@ -504,6 +554,8 @@ Le Ciel ; le Ciel tire sa loi du Tao. La loi du Tao est sa<br>
 étant ce qu'il est.<br>
 </p>
 
+<a id="c26"></a>
+
 ## 26
 
 <p style="text-align:center;">
@@ -517,6 +569,8 @@ Comment le seigneur d'une myriade de chars pourrait-il se comporter avec légèr
 devant le royaume ? S'il agit à la légère, il a perdu sa racine (de<br>
 gravité) ; s'il procède à un mouvement actif, il perdra son trône.<br>
 </p>
+
+<a id="c27"></a>
 
 ## 27
 
@@ -538,6 +592,8 @@ son maître, et l'autre ne se réjouit pas de son aide, un<br>
 (L'observateur), bien qu'intelligent, pourrait se tromper lourdement à leur sujet. C'est<br>
 appelé « Le plus haut degré de mystère. »<br>
 </p>
+
+<a id="c28"></a>
 
 ## 28
 
@@ -569,6 +625,8 @@ Les officiers (du gouvernement) ; et dans ses plus grands règlements, il emploi
 pas de mesures violentes.<br>
 </p>
 
+<a id="c29"></a>
+
 ## 29
 
 <p style="text-align:center;">
@@ -587,6 +645,8 @@ Le magasin en ruine se moque de notre labeur.<br>
 Ainsi, le sage met de côté les efforts excessifs, l'extravagance et la facilité.
 indulgence.<br>
 </p>
+
+<a id="c30"></a>
 
 ## 30
 
@@ -609,6 +669,8 @@ Quand les choses ont atteint leur forte maturité, elles deviennent vieilles.
 On peut dire que cela n'est pas conforme au Tao : et ce qui n'est pas<br>
 conformément à cela, cela prend bientôt fin.<br>
 </p>
+
+<a id="c31"></a>
 
 ## 31
 
@@ -635,6 +697,8 @@ devrait pleurer pour eux avec la plus amère douleur ; et le vainqueur dans<br>
 la bataille a sa place (à juste titre) selon ces rites.<br>
 </p>
 
+<a id="c32"></a>
+
 ## 32
 
 <p style="text-align:center;">
@@ -657,6 +721,8 @@ La relation du Tao avec le monde entier est comme celle du grand<br>
 des rivières et des mers aux ruisseaux des vallées.<br>
 </p>
 
+<a id="c33"></a>
+
 ## 33
 
 <p style="text-align:center;">
@@ -668,6 +734,8 @@ continue d'agir avec énergie a une volonté (ferme).<br>
 Celui qui ne faillit pas aux exigences de sa position, continue<br>
 long; celui qui meurt et pourtant ne périt pas, a la longévité.<br>
 </p>
+
+<a id="c34"></a>
 
 ## 34
 
@@ -689,6 +757,8 @@ réalisations. C'est en ne se faisant pas grand qu'il peut<br>
 les accomplir.<br>
 </p>
 
+<a id="c35"></a>
+
 ## 35
 
 <p style="text-align:center;">
@@ -701,6 +771,8 @@ Mais bien que le Tao tel qu'il sort de la bouche, semble insipide et a<br>
 sans saveur, même si cela ne semble pas valoir la peine d'être regardé ou écouté,<br>
 son utilisation est inépuisable.<br>
 </p>
+
+<a id="c36"></a>
 
 ## 36
 
@@ -717,6 +789,8 @@ Le doux surmonte le dur, et le faible surmonte le fort.
 Il ne faut pas pêcher les poissons dans les profondeurs ; il faut des instruments pour<br>
 les profits d'un État ne devraient pas être montrés au peuple.
 </p>
+
+<a id="c37"></a>
 
 ## 37
 
@@ -735,6 +809,8 @@ Est libre de tout objectif extérieur.<br>
 Sans désir, au repos et immobile,<br>
 Tout se passe bien selon leur volonté.
 </p>
+
+<a id="c38"></a>
 
 ## 38
 
@@ -773,6 +849,8 @@ ce qui est fragile demeure avec le fruit et non avec la fleur. C'est
 ainsi il rejette l'un et choisit l'autre.<br>
 </p>
 
+<a id="c39"></a>
+
 ## 39
 
 <p style="text-align:center;">
@@ -808,6 +886,8 @@ répondre aux extrémités d'une voiture. Ils ne souhaitent pas se montrer.
 pierre (ordinaire).<br>
 </p>
 
+<a id="c40"></a>
+
 ## 40
 
 <p style="text-align:center;">
@@ -819,6 +899,8 @@ Des actes puissants de Tao.<br>
 Toutes choses sous le ciel sont issues de Lui en tant qu'existantes (et nommées) ;<br>
 cette existence est née de cela comme inexistante (et non nommée).<br>
 </p>
+
+<a id="c41"></a>
 
 ## 41
 
@@ -850,6 +932,8 @@ habile à transmettre (à toutes choses ce dont elles ont besoin) et à les rend
 complet.<br>
 </p>
 
+<a id="c42"></a>
+
 ## 42
 
 <p style="text-align:center;">
@@ -870,6 +954,8 @@ Ne mourez pas de mort naturelle. Je ferai de cela la base de mon<br>
 enseignement.<br>
 </p>
 
+<a id="c43"></a>
+
 ## 43
 
 <p style="text-align:center;">
@@ -881,6 +967,8 @@ Il n'y a pas de faille. Je comprends ainsi l'avantage de ne rien faire.
 Il y en a peu dans le monde qui parviennent à l'enseignement sans<br>
 les mots et l'avantage découlant de la non-action.<br>
 </p>
+
+<a id="c44"></a>
 
 ## 44
 
@@ -907,6 +995,8 @@ Sans danger<br>
 Longue vie à lui.<br>
 </p>
 
+<a id="c45"></a>
+
 ## 45
 
 <p style="text-align:center;">
@@ -922,6 +1012,8 @@ L'action constante surmonte le froid ; l'immobilité surmonte la chaleur. Puret�
 et le silence donnent la loi correcte à tous sous le ciel.<br>
 </p>
 
+<a id="c46"></a>
+
 ## 46
 
 <p style="text-align:center;">
@@ -935,6 +1027,8 @@ Le désir d'obtenir. Par conséquent, la suffisance du contentement est<br>
 une suffisance durable et immuable.<br>
 </p>
 
+<a id="c47"></a>
+
 ## 47
 
 <p style="text-align:center;">
@@ -947,6 +1041,8 @@ C'est pourquoi les sages ont acquis leur connaissance sans voyager ; ils ont don
 leurs (bons) noms aux choses sans les voir ; et accompli<br>
 leurs fins sans aucune raison de le faire.<br>
 </p>
+
+<a id="c48"></a>
 
 ## 48
 
@@ -964,6 +1060,8 @@ aucun problème (à cet égard). Si quelqu'un se donne du mal (à cet égard), i
 n'est pas égal à obtenir pour lui-même tout ce qui est sous le ciel.
 </p>
 
+<a id="c49"></a>
+
 ## 49
 
 <p style="text-align:center;">
@@ -980,6 +1078,8 @@ Le sage a dans le monde une apparence d'indécision, et garde<br>
 son esprit dans un état d'indifférence à tout. Les gens gardent tous leurs
 yeux et oreilles dirigés vers lui, et il les traite tous comme siens<br>
 enfants.</p>
+
+<a id="c50"></a>
 
 ## 50
 
@@ -1002,6 +1102,8 @@ ni l'arme un lieu où exprimer sa puissance. Et pour quelle raison ?<br>
 Car il n'y a pas en lui de lieu de mort.<br>
 </p>
 
+<a id="c51"></a>
+
 ## 51
 
 <p style="text-align:center;">
@@ -1023,6 +1125,8 @@ les accompagne dans leurs processus et ne se vante pas de ses capacités dans<br
 ce faisant, il les amène à maturité et n'exerce aucun contrôle sur<br>
 eux;—c'est ce qu'on appelle son opération mystérieuse.<br>
 </p>
+
+<a id="c52"></a>
 
 ## 52
 
@@ -1050,6 +1154,8 @@ Que son corps éloigne toute maladie,
 Et cache l'immuable à la vue des hommes.
 </p>
 
+<a id="c53"></a>
+
 ## 53
 
 <p style="text-align:center;">
@@ -1067,6 +1173,8 @@ ceinture, se faire plaisir en mangeant et en buvant, et avoir un<br>
 surabondance de biens et de richesses ; — ces (princes) peuvent être appelés<br>
 Des voleurs et des vantards. C'est certainement contraire au Tao !
 </p>
+
+<a id="c54"></a>
 
 ## 54
 
@@ -1097,6 +1205,8 @@ Comment puis-je savoir que cet effet est sûr de se maintenir ainsi sous le<br>
 Ciel ? Par cette méthode d'observation.<br>
 </p>
 
+<a id="c55"></a>
+
 ## 55
 
 <p style="text-align:center;">
@@ -1122,6 +1232,8 @@ Quand les choses sont devenues fortes, elles deviennent alors vieilles, ce qui p
 bientôt fini.<br>
 </p>
 
+<a id="c56"></a>
+
 ## 56
 
 <p style="text-align:center;">
@@ -1138,6 +1250,8 @@ se mettre en accord avec l'obscurité (des autres). C'est ce qu'on appelle<br>
 au-delà de toute considération de profit ou de préjudice ; de noblesse ou<br>
 méchanceté : — il est l’homme le plus noble sous le ciel.<br>
 </p>
+
+<a id="c57"></a>
 
 ## 57
 
@@ -1162,6 +1276,8 @@ ne manifestera aucune ambition, et le peuple parviendra par lui-même à<br>
 la simplicité primitive.'<br>
 </p>
 
+<a id="c58"></a>
+
 ## 58
 
 <p style="text-align:center;">
@@ -1184,6 +1300,8 @@ Il est franc, mais ne se permet aucune licence ; il est brillant,<br>
 mais n'éblouit pas.<br>
 </p>
 
+<a id="c59"></a>
+
 ## 59
 
 <p style="text-align:center;">
@@ -1205,6 +1323,8 @@ profond et ses tiges florales fermes : c'est ainsi que l'on s'assure que ses<br>
 la vie durable sera vue longtemps.<br>
 </p>
 
+<a id="c60"></a>
+
 ## 60
 
 <p style="text-align:center;">
@@ -1219,6 +1339,8 @@ et le sage au pouvoir ne leur fait pas de mal.<br>
 Lorsque ces deux éléments ne s'influencent pas mutuellement de manière néfaste, leur bien<br>
 les influences convergent dans la vertu (du Tao).<br>
 </p>
+
+<a id="c61"></a>
 
 ## 61
 
@@ -1241,6 +1363,8 @@ un petit État ne souhaite qu'être reçu par l'autre et le servir.
 Chacun obtient ce qu'il désire, mais le grand État doit apprendre à s'abaisser<br>
 elle-même.<br>
 </p>
+
+<a id="c62"></a>
 
 ## 62
 
@@ -1266,6 +1390,8 @@ parce qu'on pouvait l'obtenir en le cherchant, et le coupable pouvait s'échappe
 sous le ciel, considérez-le comme la chose la plus précieuse.<br>
 </p>
 
+<a id="c63"></a>
+
 ## 63
 
 <p style="text-align:center;">
@@ -1287,6 +1413,8 @@ penser continuellement que les choses sont faciles les rendra forcément diffici
 C'est pourquoi le sage voit la difficulté même dans ce qui semble facile, et ainsi<br>
 n'a jamais eu de difficultés.<br>
 </p>
+
+<a id="c64"></a>
 
 ## 64
 
@@ -1317,6 +1445,8 @@ Ainsi, il aide au développement naturel de toutes choses, et n'ose pas<br>
 agir (avec un but inavoué qui lui est propre).<br>
 </p>
 
+<a id="c65"></a>
+
 ## 65
 
 <p style="text-align:center;">
@@ -1334,6 +1464,8 @@ L'excellence mystérieuse (d'un gouverneur). Profond et d'une grande portée est
 une telle excellence mystérieuse, montrant en effet son possesseur comme opposé<br>
 aux autres, mais en les conduisant à une grande conformité à lui.<br>
 </p>
+
+<a id="c66"></a>
 
 ## 66
 
@@ -1353,6 +1485,8 @@ C'est pourquoi tous ceux qui sont dans le monde se plaisent à l'exalter, et ne 
 lui. Parce qu'il ne s'efforce pas, personne ne trouve la possibilité de s'efforcer.
 avec lui.<br>
 </p>
+
+<a id="c67"></a>
 
 ## 67
 
@@ -1378,6 +1512,8 @@ maintenir son terrain. Le ciel sauvera son possesseur, par son (très)<br>
 la douceur le protégeant.<br>
 </p>
 
+<a id="c68"></a>
+
 ## 68
 
 <p style="text-align:center;">
@@ -1398,6 +1534,8 @@ Ainsi nous disons : « Comme le ciel est sa fin,<br>
 Aucun sage de l'ancien temps n'était plus brillant.
 </p>
 
+<a id="c69"></a>
+
 ## 69
 
 <p style="text-align:center;">
@@ -1415,6 +1553,8 @@ que lorsque les armes opposées sont (effectivement) croisées, celui qui déplo
 (la situation) triomphe.<br>
 </p>
 
+<a id="c70"></a>
+
 ## 70
 
 <p style="text-align:center;">
@@ -1431,6 +1571,8 @@ prisé. C'est ainsi que le sage porte (un pauvre vêtement de) cilice,<br>
 tandis qu'il porte son sceau de jade dans son sein.<br>
 </p>
 
+<a id="c71"></a>
+
 ## 71
 
 <p style="text-align:center;">
@@ -1442,6 +1584,8 @@ La maladie nous en préserve. Le sage n'est pas atteint de cette maladie.
 Il connaît la douleur qui en serait inséparable, et donc il<br>
 ne l'a pas.<br>
 </p>
+
+<a id="c72"></a>
 
 ## 72
 
@@ -1460,6 +1604,8 @@ parade (ses connaissances) ; aime, mais ne semble pas lui accorder de valeur<br>
 sur lui-même. Et ainsi, il écarte cette dernière alternative et fait<br>
 choix du premier.<br>
 </p>
+
+<a id="c73"></a>
 
 ## 73
 
@@ -1483,6 +1629,8 @@ Les mailles du filet du Ciel sont larges, éloignées les unes des autres, mais 
 rien n'échappe.<br>
 </p>
 
+<a id="c74"></a>
+
 ## 74
 
 <p style="text-align:center;">
@@ -1496,6 +1644,8 @@ infligerait la mort dans la chambre de celui qui préside ainsi, peut-être<br>
 On le décrit comme un tailleur de bois plutôt qu'un excellent charpentier. C'est rarement le cas.
 que celui qui entreprend la taille, au lieu du grand charpentier,<br>
 ne se coupe pas les mains !</p>
+
+<a id="c75"></a>
 
 ## 75
 
@@ -1515,6 +1665,8 @@ vivre complètement hors de vue est mieux que d'accorder une grande valeur à<br
 ça.<br>
 </p>
 
+<a id="c76"></a>
+
 ## 76
 
 <p style="text-align:center;">
@@ -1532,6 +1684,8 @@ conquérir; et un arbre qui est fort remplira les bras tendus,<br>
 C'est pourquoi le lieu de ce qui est ferme et fort est en bas, et cela<br>
 de ce qui est doux et faible est au-dessus.<br>
 </p>
+
+<a id="c77"></a>
 
 ## 77
 
@@ -1554,6 +1708,8 @@ son; il réalise son mérite et ne s'y repose pas (avec arrogance) :—il<br>
 ne souhaite pas afficher sa supériorité.<br>
 </p>
 
+<a id="c78"></a>
+
 ## 78
 
 <p style="text-align:center;">
@@ -1574,6 +1730,8 @@ Ils s'accordent tous au nom du Roi.
 Les mots qui sont strictement vrais semblent paradoxaux.<br>
 </p>
 
+<a id="c79"></a>
+
 ## 79
 
 <p style="text-align:center;">
@@ -1592,6 +1750,8 @@ conditions qui lui sont favorables.<br>
 Dans la Voie du Ciel, il n'y a pas de partialité dans l'amour ; il est toujours<br>
 du côté de l'homme bon.<br>
 </p>
+
+<a id="c80"></a>
 
 ## 80
 
@@ -1618,6 +1778,8 @@ des oiseaux et des chiens devraient être entendus tout le chemin depuis là jus
 ferait que les gens n'auraient plus de vie jusqu'à la vieillesse, voire jusqu'à la mort.
 rapports sexuels avec elle.<br>
 </p>
+
+<a id="c81"></a>
 
 ## 81
 

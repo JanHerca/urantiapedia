@@ -66,7 +66,7 @@ Chu Hsi, commentant cela, admet pleinement la première partie de la critique, m
 
 ## Notes de bas de page
 
-[^115] : xlii:2 _Voir_ [p. 144](11#p144).
+[^115] : xlii:2 _Voir_ [p. 144](../11#p144).
 
 [^116] : xlii:3 _Hou Han Shu_, ch. 17 _ad init_.
 

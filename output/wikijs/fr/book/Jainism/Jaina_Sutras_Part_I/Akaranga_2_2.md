@@ -264,7 +264,7 @@ Fin de la deuxième conférence, intitulée « Quémander un canapé ».
 
 [^388]: 127:1 <i>S</i>ântig<i>ri</i>ha.
 
-[^389] : 127:2 Voir la note [5](Akaranga_1_8#fn307) sur [p. 81](Akaranga_1_8#p81).
+[^389] : 127:2 Voir la note [5](../Akaranga_1_8#fn307) sur [p. 81](../Akaranga_1_8#p81).
 
 [^390]: 128:1 Il y a cinq sortes de Srama<i>n</i>as énumérés dans l'hémistiche suivant, qui apparaît non seulement dans le commentaire de Sîlâṅka, mais aussi dans celui du Sthânâṅga Sûtra, comme me l'informe le Dr Leumann : Nigga<i>m</i>tha, Sakka, Tâvasa, Gerua, Â<i>g</i>îva pa<i>m</i>k</i>ahâ sama<i>n</i>â, Nirgranthas, Sâkyas, Tâpasas, Gairikas, Â<i>g</i>îvakas.
 

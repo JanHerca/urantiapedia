@@ -96,21 +96,21 @@ Après cela, Lieh-dze considéra qu'il n'avait pas encore commencé à apprendre
 
 ## Notes de bas de page
 
-[^344] : 259:1 Voir pp. [136](Kwang_dze_Intro#p136)\-[138](Kwang_dze_Intro#p138).
+[^344] : 259:1 Voir pp. [136](../Kwang_dze_Intro#p136)\-[138](../Kwang_dze_Intro#p138).
 
-[^346]: 259:2 Voir p. 190, note [5](Kwang_dze_Book_2#fn113).
+[^346]: 259:2 Voir p. 190, note [5](../Kwang_dze_Book_2#fn113).
 
 [^347]: 259:3 Un ancien taoïste, du temps de Shun. Ainsi, Hwang-fû Mî, qui ajoute que Shun lui servit de maître lorsqu'il avait huit ans. Je suppose que le nom indique que ses vêtements étaient faits de jonc.
 
-[^348]: 259:4 Shun. Voir p. 245, note [3](Kwang_dze_Book_6#fn266).
+[^348]: 259:4 Shun. Voir p. 245, note [3](../Kwang_dze_Book_6#fn266).
 
 [^349]: 259:5 Un ancien souverain, antérieur, sans doute, à Fû-hsî ; mais on ne sait rien de lui.
 
 [^350]: 259:6 Il ne pensait pas que son être, en tant qu'homme, soit supérieur aux créatures inférieures. Shun, en gouvernant, utilisait ses connaissances acquises ; Thâi n'avait pas commencé à le faire.
 
-[^351]: 260:1 Voir p. 170, note [2](Kwang_dze_Book_1#fn57).
+[^351]: 260:1 Voir p. 170, note [2](../Kwang_dze_Book_1#fn57).
 
-[^352]: 260:2 Voir p. 170, note [3](Kwang_dze_Book_1#fn58).
+[^352]: 260:2 Voir p. 170, note [3](../Kwang_dze_Book_1#fn58).
 
 [^353]: 260:3 Un nom ; « un digne », dit-on.
 

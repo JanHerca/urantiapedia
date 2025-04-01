@@ -52,7 +52,7 @@ Ceci enseigne le secret du sens mystique de l'Écriture, et les treize règles p
 
 <span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
-« Parce que », dit-il, « la valeur numérique des lettres qui forment le mot hébreu est de 610 ; tandis que celle du mot anglais n’est que de 209. » Ce dernier, étant anglais, soutient, bien sûr, l’opinion exactement contraire et argumente ainsi : « Tous les savants doivent admettre que l’anglais est une langue vivante, mais pas l’hébreu ; et comme il est écrit (Eccles. ix. 4) qu’“un chien vivant vaut mieux qu’un lion mort”, je maintiens donc que l’anglais est supérieur à l’hébreu. » Le litige fut soumis à une autorité d’Oxford, et un certain savant docteur le trancha ainsi :
+« Parce que », dit-il, « la valeur numérique des lettres qui forment le mot hébreu est de 610 ; tandis que celle du mot anglais n’est que de 209. » Ce dernier, étant anglais, soutient, bien sûr, l’opinion exactement contraire et argumente ainsi : « Tous les savants doivent admettre que l’anglais est une langue vivante, mais pas l’hébreu ; et comme il est écrit (Eccles. ix. 4) qu’« un chien vivant vaut mieux qu’un lion mort », je maintiens donc que l’anglais est supérieur à l’hébreu. » Le litige fut soumis à une autorité d’Oxford, et un certain savant docteur le trancha ainsi :
 
 2\. « Notricon ». Cela consiste à former une phrase décisive composée de mots dont les lettres initiales se trouvent dans un mot donné ; par exemple, en hébreu : « Le raisonnement d'Hugo surpasse celui de Baruch dans tous les sens. » en anglais : « L'anglais n'est pas une bonne langue, il est à peine harmonieux » ; mais en hébreu : « Saint, élégant, brillant, résonnant, suscitant des merveilles ! » C'est un bon exemple de la façon d'accéder au sens secret d'un mot par la règle du « Notricon », et nous allons maintenant l'expliquer.
 
@@ -154,7 +154,7 @@ L’âme d’un calomniateur est transmigrée dans une pierre silencieuse.
 
 _Emeh Hamelech_, fol. 153, col. 2.
 
-Rabbi Isaac Louria passait un jour devant la grande académie de Rabbi Yohanan à Tibériade. Il montra à ses disciples une pierre dans le mur et dit : « Dans cette pierre se trouve une âme transmigrée, et elle implore que je prie pour elle. Et c’est là le sens mystique de (Hab. ii. 11) : “La pierre criera hors du mur.” »
+Rabbi Isaac Louria passait un jour devant la grande académie de Rabbi Yohanan à Tibériade. Il montra à ses disciples une pierre dans le mur et dit : « Dans cette pierre se trouve une âme transmigrée, et elle implore que je prie pour elle. Et c’est là le sens mystique de (Hab. ii. 11) : « La pierre criera hors du mur. » »
 
 _Ibid._, fol. 11, col. 2.
 

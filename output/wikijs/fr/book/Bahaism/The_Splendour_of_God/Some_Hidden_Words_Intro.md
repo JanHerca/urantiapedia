@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T10:15:31Z
 
 <span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
-[1](Quelques_Mots_Cachés_1#fn7)
+[1](../Quelques_Mots_Cachés_1#fn7)
 
 Il est la Gloire du Très Glorieux !
 

@@ -1295,7 +1295,7 @@ Et les sabres hostiles brillent là,
 Pour garder les tresses de la belle.
 
 &nbsp;&nbsp;Viens, Selim, perçons le bosquet,
-Pendant que la nuit se lie d'amitié, pour chercher mon amour. <span id="p156">[<sup><small>p. 156  </small></sup>]</span>
+Pendant que la nuit se lie d'amitié, pour chercher mon amour. <span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 Les nuages de parfum, à mesure qu'ils s'élèvent,
 Marquera l'endroit où Abla repose.
 Autour de sa tente mes ennemis jaloux,
@@ -1325,7 +1325,7 @@ Qui berce chaque souci et guérit chaque blessure,
 Alors que le bol vivifiant tourne.
 
 &nbsp;&nbsp;Au milieu de ces vallées, mes pieds avides
-Je tracerai la chère retraite de mon Abla ; <span id="p157">[<sup><small>p. 157  </small></sup>]</span>
+Je tracerai la chère retraite de mon Abla ; <span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 Un vent de santé peut planer là,
 Pour apporter un peu de réconfort à mes soucis.
 Je ne crains pas l'Amour, je bénis la fléchette
@@ -1355,7 +1355,7 @@ Nous devons gagner la récompense de l'honneur ;
 À l'appel de l'honneur, le chameau se hâte
 À travers des étendues sauvages sans sentiers et des déserts lugubres,
 Jusqu'à ce que dans la course glorieuse elle trouve
-Les coursiers les plus rapides laissés derrière : <span id="p158">[<sup><small>p. 158  </small></sup>]</span>
+Les coursiers les plus rapides laissés derrière : <span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 Par des efforts comme ceux-là seuls, il crie,
 Les jeunes aventureux s'élèvent vers la grandeur :
 Si l'indolence gonflée était la gloire,
@@ -1386,7 +1386,7 @@ Je le déteste, maintenant les heures reculent,
 Et vole-moi avec les pieds retournés.
 
 &nbsp;&nbsp;Mon âme, libre de toute ternissure,
-Peut vanter hardiment sa pureté ; <span id="p159">[<sup><small>p. 159  </small></sup>]</span>
+Peut vanter hardiment sa pureté ; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 Mais ah, comme c'est vif, aussi brillant soit-il
 Le sabre scintille à la vue,
 Sa splendeur est perdue, son poli est vain,
@@ -1417,7 +1417,7 @@ Et planter un poignard dans le cœur.
 Il n'est apte qu'à la lutte
 Qui remplit les chemins tumultueux de la vie,
 Qui, alors qu'il arpente les scènes bondées,
-Sur aucun sein de parenté ne s'appuie. <span id="p160">[<sup><small>p. 160  </small></sup>]</span>
+Sur aucun sein de parenté ne s'appuie. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 Trop longtemps mon cœur insensé avait jugé
 L'humanité aussi vertueuse qu'elle paraissait ;
 Le charme est rompu, leurs défauts sont nus,
@@ -1447,7 +1447,7 @@ Quand nous pourrons avaler à la fiole
 Quels sont les désirs des mortels ?
 
 &nbsp;&nbsp;Les royaumes du contentement ne sont envahis par aucune peur,
-Aucun souci n'ennuie, aucun chagrin n'ombre ; <span id="p161">[<sup><small>p. 161  </small></sup>]</span>
+Aucun souci n'ennuie, aucun chagrin n'ombre ; <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 Là, placés en sécurité, en paix nous reposons,
 Rien ne nous demande de nous rendre heureux.
 Tandis que le fantastique écrin gai du Plaisir,

@@ -1098,7 +1098,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^866]: 184:3 Voir ci-dessus, [p. 180](#p180), note [^810].
 
-[^867]: 184:4 Voir ci-dessus, [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^867]: 184:4 Voir ci-dessus, [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^868]: 185:1 Cf. § 1.
 
@@ -1146,7 +1146,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^892]: 189:6 Hvîra; see Études Iraniennes, II, 183.
 
-[^893]: 189:7 Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^893]: 189:7 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^894]: 189:8 Douteux (communique).
 
@@ -1170,7 +1170,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^904]: 191:3 Cf. Yt. X, 9.
 
-[^905]: 191:4 Voir ci-dessus, [p. 12](Sirozahs_1#p12), note [12](Sirozahs_1#fn93).
+[^905]: 191:4 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [12](../Sirozahs_1#fn93).
 
 [^906]: 192:1 Le sixième et dernier Gâhambâr (voir Âfrîgân Gâhambâr), ou les dix derniers jours de l'année (du 10 au 20 mars), comprenant les cinq derniers jours du dernier mois, Sapendârmad, et les cinq jours complémentaires. Ces dix derniers jours devaient être consacrés à des actes de charité, à des banquets religieux (<i>g</i>a<i>s</i>an) et à des cérémonies en mémoire des morts. C'était aussi à l'approche du printemps que les Romains et les Athéniens offraient des sacrifices annuels aux morts ; les Romains en février « qui tunc extremus anni mensis erat » (Cicéron, De Legibus, II, 21), les Athéniens le troisième jour de la fête d'Anthesterion (du même mois). Les âmes des morts étaient censées participer à la nouvelle vie qui commençait alors à circuler dans la nature, elle aussi morte pendant les longs mois d'hiver.
 
@@ -1198,7 +1198,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^918]: 194:2 Pour garder le Hôm blanc là-bas des êtres maléfiques qui tentent de le détruire (Minokhirad LXII, 28).
 
-[^919]: 194:3 Voir ci-dessus, [p. 97](Yasts_8#p97), note [4](Yasts_8#fn479).
+[^919]: 194:3 Voir ci-dessus, [p. 97](../Yasts_8#p97), note [4](../Yasts_8#fn479).
 
 [^920]: 195:1 Keresâspa dort dans la plaine de Pê<i>s</i>yânsâi ; « la gloire (lointaine) du ciel se tient au-dessus de lui afin que, lorsque A<i>z</i>-i-Dahâk sera libéré, il puisse se lever et le tuer ; et une myriade d'esprits gardiens des justes sont pour lui une protection » (Bundahi<i>s</i> XXIX, 8 ; tr. Ouest).
 
@@ -1216,7 +1216,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^927]: 197:3 Asna = azan (?).
 
-[^928]: 197:4 Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^928]: 197:4 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^929]: 197:5 Cf. Yt. XIII, 10.
 
@@ -1280,7 +1280,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^959]: 203:1 Maidhyô-m<i>a</i>ungha était la cousine et la première disciple de Zarathu<i>s</i>tra ; le père de Zarathu<i>s</i>tra, Pourushaspa, et Ârâsti étaient frères (Bund. XXXII, 3) ; cf. Yasna LI \[L\], 19.
 
-[^960]: 203:2 Cf. [p. 33](Yasts_1#p33), note [2](Yasts_1#fn173); Yt. XXII, 37.
+[^960]: 203:2 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173); Yt. XXII, 37.
 
 [^961]: 203:3 Un autre Par<i>s</i>a<i>t</i>-g<i>a</i>u<i>s</i> est mentionné § 126.
 
@@ -1344,7 +1344,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^993]: 209:4 Cf. Yt. XIII, 99.
 
-[^995]: 210:1 Amru et <i>K</i>amru sont apparemment les deux oiseaux mythiques mentionnés ci-dessus sous les noms de Sîn-amru (le faucon Amru) et <i>K</i>ãmrô<i>s</i> ([p. 173](Yasts_12#p173), note [1](Yasts_12#fn795)).
+[^995]: 210:1 Amru et <i>K</i>amru sont apparemment les deux oiseaux mythiques mentionnés ci-dessus sous les noms de Sîn-amru (le faucon Amru) et <i>K</i>ãmrô<i>s</i> ([p. 173](../Yasts_12#p173), note [1](../Yasts_12#fn795)).
 
 [^997]: 210:2 M. West compare Ashâvanghu, le fils de Biva<i>n</i>dangha, et <i>G</i>arôdanghu, le fils de Pairi<i>s</i>tîra, avec les deux grands prêtres des Karshvares d'Arezahi et de Savahi, dont les noms sont, dans les Bundahi<i>s</i> p. 211, Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i>a<i>n</i>d<i>k</i>ân et Hoazarôdathhri-ê Parê<i>s</i>tyarô (Bund. XXIX, 1, notes 4 et 5).
 
@@ -1418,13 +1418,13 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^1038]: 221:1 Il supprimera à la fois le pouvoir destructeur des hommes du Druga (idolâtres et autres) et les erreurs des Mazdayasniens (?).
 
-[^1039]: 221:2 Voir ci-dessus, [p. 25](Yasts_1#p25), note [4](Yasts_1#fn117).
+[^1039]: 221:2 Voir ci-dessus, [p. 25](../Yasts_1#p25), note [4](../Yasts_1#fn117).
 
 [^1040]: 221:3 Vouru-vãthwa; cf. Études Iraniennes, II, 182.
 
 [^1041]: 221:4 Comme il a rendu les eaux et les arbres immortels, le bétail et les hommes immortels.
 
-[^1042]: 221:5 Voir ci-dessus, [p. 61](Yasts_5#p61), note [1](Yasts_5#fn305).
+[^1042]: 221:5 Voir ci-dessus, [p. 61](../Yasts_5#p61), note [1](../Yasts_5#fn305).
 
 [^1043]: 221:6 En tant qu'inventeur de la médecine ; voir Vend. XX, Introd.
 
@@ -1434,7 +1434,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^1046]: 221:9 Appelé dans le Shah Nâmah Zab, fils de Tahmâsp, qui semble avoir été un fils de Nodar (Bund. XXXI, 23).
 
-[^1047]: 222:1 Voir ci-dessus, [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545) (Yt. IX, 18).
+[^1047]: 222:1 Voir ci-dessus, [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545) (Yt. IX, 18).
 
 [^1048]: 222:2 Airyu, le plus jeune des trois fils de Thraêtaona (seep. 61, note i), fut tué par ses frères et vengé par son fils Manu<i>s</i>\-<i>k</i>ithra, qui succéda à Thraêtaona.
 
@@ -1444,11 +1444,11 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^1054]: 222:5 Usadhan, Arshan, Pisanah et Byârshan étaient les quatre fils d'Aipivanghu ; On les appelle en Firdausi Kai Kaus, Kai Arish, Kai Pashîn et Kai Armin. Kai Kaus est arrivé seul sur le trône.
 
-[^1056]: 222:6 Syâvakhsh et Khosrav ; voir ci-dessus, [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1056]: 222:6 Syâvakhsh et Khosrav ; voir ci-dessus, [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1057]: 222:7 Devenir possédé par la Force, la Victoire, etc., comme l'a fait Husravah.
 
-[^1058]: 223:1 Comme Frangrasyan ; cf. [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1058]: 223:1 Comme Frangrasyan ; cf. [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1059]: 223:2 Voir Yt. V, 37; XV, 27; XIX, 38.
 

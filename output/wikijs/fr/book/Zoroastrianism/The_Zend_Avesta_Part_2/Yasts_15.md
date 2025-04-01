@@ -386,21 +386,21 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1161]: 250:2 Fraspâ<i>t</i>, persan ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25000.jpg).
 
-[^1162]: 250:3 Cf. [p. 169](Yasts_12#p169), note [5](Yasts_12#fn783).
+[^1162]: 250:3 Cf. [p. 169](../Yasts_12#p169), note [5](../Yasts_12#fn783).
 
-[^1163]: 250:4 Voir [p. 10](Sirozahs_1#p10), note [4](Sirozahs_1#fn69).
+[^1163]: 250:4 Voir [p. 10](../Sirozahs_1#p10), note [4](../Sirozahs_1#fn69).
 
 [^1164]: 250:5 Comme Vayu, l'atmosphère, est le lieu où se déroule le conflit des deux principes, une partie de lui appartient à l'Esprit Malin (voir Vend. Introd. IV, 17).
 
 [^1165]: 251:1 Le reste comme dans la clause 1.
 
-[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](Yasts_5#p58), note [2](Yasts_5#fn295).
+[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
 
 [^1167]: 251:3 Cf. Yt. V, 21-23.
 
 [^1168]: 251:4 Introduit du § 4 dans cette clause et toutes les clauses similaires, à l'exception de celle relative à A<i>z</i>i Dahâka (§ 21).
 
-[^1169]: 252:1 Takhma Urupa (dans la légende ultérieure, Tahmûrâf) était le frère de Yima. Il régna trente ans et chevaucha Ahriman, transformé en cheval. Mais finalement, sa femme, trompée par Ahriman, lui révéla le secret du pouvoir de son mari, et Tahmûrâf fut englouti par son cheval. Mais Yima parvint à reprendre le corps de son frère du corps d'Ahriman et recouvra ainsi les arts et la civilisation qui avaient disparu avec Tahmûrâf (voir Minokhired XXVII, 32 ; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 s. ; Ormazd et Ahriman, § 137 s. ; cf. ci-dessus, [p. 60](Yasts_5#p60), note [1](Yasts_5#fn302)).
+[^1169]: 252:1 Takhma Urupa (dans la légende ultérieure, Tahmûrâf) était le frère de Yima. Il régna trente ans et chevaucha Ahriman, transformé en cheval. Mais finalement, sa femme, trompée par Ahriman, lui révéla le secret du pouvoir de son mari, et Tahmûrâf fut englouti par son cheval. Mais Yima parvint à reprendre le corps de son frère du corps d'Ahriman et recouvra ainsi les arts et la civilisation qui avaient disparu avec Tahmûrâf (voir Minokhired XXVII, 32 ; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 s. ; Ormazd et Ahriman, § 137 s. ; cf. ci-dessus, [p. 60](../Yasts_5#p60), note [1](../Yasts_5#fn302)).
 
 [^1170] : 252:2 Azinava<i>n</i><i>t</i> ou zaênahva<i>n</i><i>t</i> : il a conservé cette épithète dans la tradition ultérieure : Zînavend, 'quod cognomen virum significat armis sonde instructum' (Hamza Ispahensis, p. 20, tr. Gottwaldt).
 
@@ -436,7 +436,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1186]: 257:2 Voir Yt. IX, 26.
 
-[^1187]: 257:3 Voir [p. 77](Yasts_5#p77), note [1](Yasts_5#fn381).
+[^1187]: 257:3 Voir [p. 77](../Yasts_5#p77), note [1](../Yasts_5#fn381).
 
 [^1188]: 258:1 On peut se demander si l'allusion ici est à une légende de mariage en masse, suivant le mariage de Hutaosa avec Vî<i>s</i>tâspa, ou si l'aoriste est utilisé avec un sens indicatif : « C'est à lui que viennent les servantes qui n'ont connu aucun homme... Elles lui demandent une faveur, en disant... » Cf. Yt. XVI, 17.
 

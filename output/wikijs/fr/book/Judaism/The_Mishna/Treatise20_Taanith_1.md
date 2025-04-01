@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^517]: 168:2 C'est-à-dire en termes exprès, tels que : « Accorde que la pluie tombe », etc., mais seulement mentionnés en quelque sorte de manière incidente.
 
-[^518]: 168:3 À savoir, celui qui lit le ‏מוסף‎ \[Service supplémentaire\]. Voir notre note de croche page [165](Treatise12_Sabbath_19#p165), Traité de Roch Hachana.
+[^518]: 168:3 À savoir, celui qui lit le ‏מוסף‎ \[Service supplémentaire\]. Voir notre note de croche page [165](../Treatise12_Sabbath_19#p165), Traité de Roch Hachana.
 
 [^519]: 168 : 4 Autrement dit, commencez à dire dans les prières, ‏משיב הרוח ומוריד הגשם‎, " Faisant souffler le vent et descendre la pluie. "
 

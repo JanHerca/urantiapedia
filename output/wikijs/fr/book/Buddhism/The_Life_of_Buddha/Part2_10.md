@@ -69,7 +69,7 @@ Le Maître sourit à Udayin et demanda :
 
 « Pourquoi m’encourages-tu à voyager, Udayin ? »
 
-« Votre père, le roi [Suddhodana](errata.htm#0), serait heureux de vous voir, Maître. »
+« Votre père, le roi [Suddhodana](../errata.htm#0), serait heureux de vous voir, Maître. »
 
 Le Bouddha réfléchit un instant, puis il dit : « J’irai à Kapilavastu ; j’irai voir mon père. »
 

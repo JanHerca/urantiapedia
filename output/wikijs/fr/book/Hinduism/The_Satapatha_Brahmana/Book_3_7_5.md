@@ -261,9 +261,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 ## Notes de bas de page
 
-[^723]: 389:1 Voir [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^723]: 389:1 Voir [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
-[^724]: 390:1 C'est-à-dire que chaque texte védique est identique à la divinité à laquelle il s'adresse. Cf. [VI, 5, 1, 2](Book_3_6_5#v6_5_1_2).
+[^724]: 390:1 C'est-à-dire que chaque texte védique est identique à la divinité à laquelle il s'adresse. Cf. [VI, 5, 1, 2](../Book_3_6_5#v6_5_1_2).
 
 [^725]: 391:1 Alors que les briques mesurent généralement un pâda ou un pied carré, la coudée mesure environ deux pieds.
 
@@ -273,27 +273,27 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^728]: 393:1 Le mortier et le pilon doivent être placés aussi loin au nord de la brique centrale (naturellement perforée), que les deux reta<i>h</i>si<i>k</i> se trouvent devant elle (vers l'est). Cette distance est déterminée au moyen d'une corde tendue en travers des briques posées jusqu'ici (depuis le Svayamât<i>ri</i><i>n</i><i>n</i>â jusqu'à l'Ashâ<i>dh</i>â), et de nœuds faits dans la corde au centre des briques respectives.
 
-[^729]: 394:1 Je ne vois pas à quoi d'autre on pourrait se référer ici que le ciel et la terre (cf. [VII, 4, 2, 22](Book_3_7_4#v7_4_2_22)), bien que dans ce cas on pourrait plutôt s'attendre à 'imau (lokau)' au lieu de 'ime'. Il est possible, cependant, que la terre et l'atmosphère soient visées.
+[^729]: 394:1 Je ne vois pas à quoi d'autre on pourrait se référer ici que le ciel et la terre (cf. [VII, 4, 2, 22](../Book_3_7_4#v7_4_2_22)), bien que dans ce cas on pourrait plutôt s'attendre à 'imau (lokau)' au lieu de 'ime'. Il est possible, cependant, que la terre et l'atmosphère soient visées.
 
 [^730]: 396:1 Le mortier, selon les commentaires de Katy., est en partie creusé dans le sol, avec la partie ouverte vers le haut ; le pilon étant alors placé à droite (au sud) de celui-ci.
 
 [^731]: 397:1 C'est-à-dire, selon Sâya<i>n</i>a, parce qu'ils naissent du germe au centre du fruit.
 
-[^732]: 397:2 ? Ou, de celui-ci (le poêle à feu). Il existe une certaine incertitude concernant cet élément du cérémonial. La règle de Kâtyâyana (XVII, 5, 4) – « Après avoir placé l'Ukhâ (poêle) sur le mortier, pilé le reste d'argile et l'avoir jeté devant, avec le texte « Dhruvâ asi », (de) l'Ukhâ » – est évidemment intentionnellement vague. Mahîdhara (sur Vâ<i>g</i>. S. XIII, 34) en donne l'interprétation suivante : « Après avoir d'abord placé silencieusement l'Ukhâ sur le mortier, puis pilé le reste d'argile et l'avoir jeté par terre devant l'Ukhâ, qu'il place l'Ukhâ dessus avec deux formules. » Selon cela, l'Ukhâ ne serait placé que temporairement sur le mortier, sa place propre et permanente (loka) étant sur l'argile pulvérisée devant (à l'est) du mortier. Le texte du Brâhma<i>n</i>a, tel qu'il est, ne peut cependant pas être interprété de manière à correspondre à l'interprétation de Mahîdhara. Cela nécessiterait une lecture telle que : athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. Voir, cependant, le paragraphe [38](Book_3_7_5#v7_5_1_38) ci-dessous, qui s'applique évidemment à la position permanente du pan.
+[^732]: 397:2 ? Ou, de celui-ci (le poêle à feu). Il existe une certaine incertitude concernant cet élément du cérémonial. La règle de Kâtyâyana (XVII, 5, 4) – « Après avoir placé l'Ukhâ (poêle) sur le mortier, pilé le reste d'argile et l'avoir jeté devant, avec le texte « Dhruvâ asi », (de) l'Ukhâ » – est évidemment intentionnellement vague. Mahîdhara (sur Vâ<i>g</i>. S. XIII, 34) en donne l'interprétation suivante : « Après avoir d'abord placé silencieusement l'Ukhâ sur le mortier, puis pilé le reste d'argile et l'avoir jeté par terre devant l'Ukhâ, qu'il place l'Ukhâ dessus avec deux formules. » Selon cela, l'Ukhâ ne serait placé que temporairement sur le mortier, sa place propre et permanente (loka) étant sur l'argile pulvérisée devant (à l'est) du mortier. Le texte du Brâhma<i>n</i>a, tel qu'il est, ne peut cependant pas être interprété de manière à correspondre à l'interprétation de Mahîdhara. Cela nécessiterait une lecture telle que : athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. Voir, cependant, le paragraphe [38](../Book_3_7_5#v7_5_1_38) ci-dessous, qui s'applique évidemment à la position permanente du pan.
 
-[^733]: 397:3 Pour le génitif 'asya' (c'est-à-dire lokasya) avec 'antarita' — au lieu de p. 398 de l'ablatif le plus courant — voir [VI, 2, 2, 38](Book_3_6_2#v6_2_2_38), 'prâ<i>n</i>asya tad antariyât.
+[^733]: 397:3 Pour le génitif 'asya' (c'est-à-dire lokasya) avec 'antarita' — au lieu de p. 398 de l'ablatif le plus courant — voir [VI, 2, 2, 38](../Book_3_6_2#v6_2_2_38), 'prâ<i>n</i>asya tad antariyât.
 
-[^734]: 398:1 [VII. 4, 2, 5](Book_3_7_4#v7_4_2_5).
+[^734]: 398:1 [VII. 4, 2, 5](../Book_3_7_4#v7_4_2_5).
 
-[^735]: 398:2 Voir [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41).
+[^735]: 398:2 Voir [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41).
 
 [^736]: 399:1 Le verbe 'abhi-k<i>ri</i>' est ici pris dans le sens de 'vi-k<i>ri</i>' (il lui donne forme) ; et dans ce sens je le prendrais maintenant à II, 3 ; I, 4, 'il façonne (donne forme humaine à) cet embryon', au lieu de 'il profite à cet embryon'. Le dictionnaire de Saint-Pétersbourg propose le sens de 'faire quelque chose en référence à (ou, pour le bénéfice de).' Le sens allemand correct semblerait plutôt être 'bearbeiten'. La préposition 'abhi' est probablement utilisée ici en référence à l''abhi-<i>g</i>uhoti'.
 
-[^737]: 399:2 Voir [p. 269](Book_3_6_7#p269), note [3](Book_3_6_7#fn510).
+[^737]: 399:2 Voir [p. 269](../Book_3_6_7#p269), note [3](../Book_3_6_7#fn510).
 
 [^738]: 400:1 ? C'est-à-dire en remplissant les espaces vacants de l'autel de gauche à droite.
 
-[^739]: 401:1 Voir [VI, 1, 1, 4](Book_3_6_1#v6_1_1_4); [2, 1, 7](Book_3_6_2#v6_2_1_7).
+[^739]: 401:1 Voir [VI, 1, 1, 4](../Book_3_6_1#v6_1_1_4); [2, 1, 7](../Book_3_6_2#v6_2_1_7).
 
 [^740]: 401:2 C'est-à-dire par la tête, selon Sâya<i>n</i>a.
 
@@ -301,41 +301,41 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^742]: 402:2 C'est-à-dire avant de mettre les têtes dans le brasier.
 
-[^743]: 403:1 Soit un bouc, comme animal sacrifié soit à Pra<i>g</i>âpati, soit à (Vâyu) Niyutvat ; voir pp. [178](Book_3_6_2#p178), [184](Book_3_6_2#p184).
+[^743]: 403:1 Soit un bouc, comme animal sacrifié soit à Pra<i>g</i>âpati, soit à (Vâyu) Niyutvat ; voir pp. [178](../Book_3_6_2#p178), [184](../Book_3_6_2#p184).
 
-[^744]: 403:2 Voir [VI, 2, 2, 15](Book_3_6_2#v6_2_2_15).
+[^744]: 403:2 Voir [VI, 2, 2, 15](../Book_3_6_2#v6_2_2_15).
 
 [^745]: 404:1 Seule la première des deux formules contient cependant le mot « vi<i>s</i>va », tout.
 
-[^746]: 404:2 La casserole était partiellement remplie de sable et de lait, voir [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41), [44](Book_3_7_1#v7_1_1_44).
+[^746]: 404:2 La casserole était partiellement remplie de sable et de lait, voir [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41), [44](../Book_3_7_1#v7_1_1_44).
 
 [^747]: 405:1 'Pratimâ' est peut-être pris ici par l'exégète dogmatique dans le sens de 'ressemblance, contrepartie' ; dans ce cas, il faudrait traduire 'la contrepartie de mille, celle qui a toutes les formes'.
 
-[^748]: 406:1 Voir [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^748]: 406:1 Voir [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
 [^749]: 406:2 Ou, « ils s'occupent de celui (Agni, l'autel du feu) qui tend vers l'avant (l'est) » ; dans la mesure où l'autel est construit sous la forme d'un oiseau volant vers l'est.
 
 [^750]: 406:3 Ou ne faites pas de mal à la vache, l'Aditi au large pouvoir (ou au large rayonnement) !
 
-[^751]: 406:4 Après les deux prémisses (avec 'vai'), l'inférence semble ici être introduite sans aucune particule. De même, au paragraphe [24](Book_3_7_5#v7_5_2_24) ; tandis qu'au paragraphe [19](Book_3_7_5#v7_5_2_19) la particule 'u' est utilisée pour remplir cette fonction. Cf. cependant [VII, 4, 2, 1](Book_3_7_4#v7_4_2_1), où une troisième proposition parallèle (qui aurait logiquement pu être l'inférence) est introduite par 'u vai'.
+[^751]: 406:4 Après les deux prémisses (avec 'vai'), l'inférence semble ici être introduite sans aucune particule. De même, au paragraphe [24](../Book_3_7_5#v7_5_2_24) ; tandis qu'au paragraphe [19](../Book_3_7_5#v7_5_2_19) la particule 'u' est utilisée pour remplir cette fonction. Cf. cependant [VII, 4, 2, 1](../Book_3_7_4#v7_4_2_1), où une troisième proposition parallèle (qui aurait logiquement pu être l'inférence) est introduite par 'u vai'.
 
 [^752]: 406:5 Sâya<i>n</i>a se réfère à la légende de Taitt. S. II, I, 2, 2, à laquelle il est ici fait allusion : Svarbhânu, l'Âsura, frappa le soleil de ténèbres. Les dieux cherchèrent une expiation pour cela (ténèbres) : la première obscurité qu'ils dissipèrent devint une brebis noire, la seconde une rouge, la troisième une blanche ; et ce qu'ils coupèrent de la surface de l'os (?) devint une brebis stérile, etc.
 
 [^753]: 407:1 À savoir, dans la mesure où le feu qui devait être finalement déposé sur l'autel du feu a été pris du feu originel (de la porte de la salle).
 
-[^754]: 407:2 Voir [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^754]: 407:2 Voir [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^755]: 407:3 C'est-à-dire Pra<i>g</i>âpati, le seigneur de la procréation ; voir [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) seq.
+[^755]: 407:3 C'est-à-dire Pra<i>g</i>âpati, le seigneur de la procréation ; voir [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) seq.
 
 [^756]: 408:1 C'est-à-dire, l'ayant rapidement murmuré.
 
 [^757]: 408:2 C'est-à-dire (moyen de) délivrance ou de suppression, un terme appliqué aux cinq mantras suivants.
 
-[^758]: 408:3 Littéralement leur chaleur brûlante (<i>s</i>u<i>k</i>); cf. [par. 32](Book_3_7_5#v7_5_2_32) seq.
+[^758]: 408:3 Littéralement leur chaleur brûlante (<i>s</i>u<i>k</i>); cf. [par. 32](../Book_3_7_5#v7_5_2_32) seq.
 
 [^759]: 409:1 Le Sacrificateur construit l'autel du feu dans le but de s'assurer une place au ciel.
 
-[^760]: 409:2 On peut se demander ce que l'on entend ici par ce terme, à moins qu'il ne s'agisse d'un singe ou d'une tête humaine contrefaite ; cf. [p. 197](Book_3_6_3#p197), note [4](Book_3_6_3#fn405).
+[^760]: 409:2 On peut se demander ce que l'on entend ici par ce terme, à moins qu'il ne s'agisse d'un singe ou d'une tête humaine contrefaite ; cf. [p. 197](../Book_3_6_3#p197), note [4](../Book_3_6_3#fn405).
 
 [^761]: 410:1 Cette paraphrase ne précise pas clairement comment l'auteur construit et interprète cette partie de la formule ; en particulier dans quel sens il prend « nishîda ».
 
@@ -343,10 +343,10 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^763]: 411:1 C'est-à-dire que sa laine sert de couverture à l'homme et à la bête.
 
-[^764]: 412:1 'A<i>g</i>a', bouc, est ici encore pris au sens de 'a-<i>g</i>a', non-né. Quant aux dieux issus de Vâ<i>k</i>, voir [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) seq.
+[^764]: 412:1 'A<i>g</i>a', bouc, est ici encore pris au sens de 'a-<i>g</i>a', non-né. Quant aux dieux issus de Vâ<i>k</i>, voir [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) seq.
 
 [^765]: 412:2 Un animal fabuleux à huit pattes.
 
-[^766]: 414:1 Voir [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22); [5, 1, 4](Book_3_6_5#v6_5_1_4).
+[^766]: 414:1 Voir [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22); [5, 1, 4](../Book_3_6_5#v6_5_1_4).
 
 [^767]: 417:1 Les quatre séries de briques sont placées au milieu des quatre côtés du « corps » carré du site de l'autel, ou aux extrémités des deux épines qui se croisent.

@@ -227,7 +227,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^354]: 208:1 Ou plutôt à voix basse, le nom de la divinité étant prononcé à voix basse tandis que l'oblation est versée dans le feu ; voir VI, 6, 1, 11. Aucune formule spéciale n'est cependant utilisée dans l'une ou l'autre de ces occasions.
 
-[^355]: 209:1 Voir [VIII, 1, 1, 2](Book_4_8_1#v8_1_1_2). Voir aussi VI, 5, 3, 11, où la traduction doit être modifiée en conséquence.
+[^355]: 209:1 Voir [VIII, 1, 1, 2](../Book_4_8_1#v8_1_1_2). Voir aussi VI, 5, 3, 11, où la traduction doit être modifiée en conséquence.
 
 [^356]: 209:2 Pour la cuisson des gâteaux, le Vai<i>s</i>vânara est placé au centre du feu, et les deux premiers gâteaux Mâruta sont placés au nord et au sud de celui-ci, puis la paire de gâteaux suivante derrière le premier, mais plus près l'un de l'autre, et derrière ceux-ci la troisième paire, encore plus près l'un de l'autre, et enfin le dernier gâteau formant, pour ainsi dire, le sommet d'une phalange de gâteaux Mâruta (ou divinités du vent) protégeant (celle d') Agni Vai<i>s</i>vânara. Pour offrir les gâteaux, une méthode similaire doit être suivie ; sauf que la première paire de gâteaux Mâruta peut être offerte, non pas dans le feu lui-même, mais sur le gâteau Vai<i>s</i>vânara préalablement aplati et posé sur le feu. Bien que le Kâtîya-sûtra (XVIII, 4, 23) admette cette alternative (bien que peu explicite), notre passage semble l'exiger comme seule possibilité. Les gâteaux de Vai<i>s</i>vânara et de Mâruta sont tous deux offerts entiers.
 
@@ -239,7 +239,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^360]: 213:2 Ainsi, selon Kâty. XVIII, 5, 1 (l'Adhvaryu, selon Weber, Ind. Stud. XIII, p. 283).
 
-[^361]: 213:3 Il semblerait plutôt qu'il s'agisse d'un « courant ou d'une pluie de richesses » ; cf. [paragraphe 4](Book_4_9_3#v9_3_2_4).
+[^361]: 213:3 Il semblerait plutôt qu'il s'agisse d'un « courant ou d'une pluie de richesses » ; cf. [paragraphe 4](../Book_4_9_3#v9_3_2_4).
 
 [^362]: 213:4 C'est-à-dire la cérémonie de consécration, au cours de laquelle le roi est aspergé d'eau sacrée, ou, pour ainsi dire, oint. Le « Vasor dhârâ », ou « pluie de richesses », consistant en une série ininterrompue de libations à Agni (par lesquelles tous les pouvoirs du dieu doivent être assurés au Sacrificateur), est conçu comme l'équivalent de cette cérémonie de consécration d'Agni comme roi ; et, en fait, comme une sorte de cérémonie de consécration supérieure pour le Sacrificateur (royal) lui-même, plus puissante que le Râ<i>g</i>asûya et le Vâ<i>g</i>apeya. On remarque donc ici la même tendance qu'ailleurs à exalter l'efficacité de l'Agni<i>k</i>ayana, et à lui faire prendre la place de l'ensemble du cérémonial sacrificiel ordinaire.
 
@@ -269,23 +269,23 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^375]: 218:2 Les deux formules relatives à ces deux séries de libations (XVIII, 26 ; 27) contiennent respectivement cinq et quatre paires d'attelages de bovins d'âges différents, commençant par « tryavi et tryavî », « un taureau de dix-huit mois et une vache de dix-huit mois » ; et se terminant par « un bœuf et une vache laitière ».
 
-[^376]: 219:1 Cet ensemble de treize libations (XVIII, 28) est offert aux mois Vâ<i>g</i>a, Prasava, etc., considérés ici apparemment comme des manifestations d'Agni (l'année). Chaque nom est suivi de « svâhâ » (salut !) ; et la dernière de ces formules dédicatoires est suivie de la formule de bénédiction spéciale, mentionnée au [paragraphe 10](Book_4_9_3#v9_3_3_10).
+[^376]: 219:1 Cet ensemble de treize libations (XVIII, 28) est offert aux mois Vâ<i>g</i>a, Prasava, etc., considérés ici apparemment comme des manifestations d'Agni (l'année). Chaque nom est suivi de « svâhâ » (salut !) ; et la dernière de ces formules dédicatoires est suivie de la formule de bénédiction spéciale, mentionnée au [paragraphe 10](../Book_4_9_3#v9_3_3_10).
 
-[^377]: 220:1 Cette dernière série de douze (? seize) libations est appelée ainsi (kalpa), car, dans les formules utilisées avec elles (Vâ<i>g</i>. S. XVIII, 29), le verbe 'k<i>li</i>p (prospérer, être juste et convenable)' est répété à chaque fois. À la fin de ces douze formules, le prêtre murmure la bénédiction finale donnée dans son intégralité au [paragraphe 14](Book_4_9_3#v9_3_3_14).
+[^377]: 220:1 Cette dernière série de douze (? seize) libations est appelée ainsi (kalpa), car, dans les formules utilisées avec elles (Vâ<i>g</i>. S. XVIII, 29), le verbe 'k<i>li</i>p (prospérer, être juste et convenable)' est répété à chaque fois. À la fin de ces douze formules, le prêtre murmure la bénédiction finale donnée dans son intégralité au [paragraphe 14](../Book_4_9_3#v9_3_3_14).
 
-[^378]: 222:1 Voir [p. 167](Book_4_9_1#p167), note [1](Book_4_9_1#fn283).
+[^378]: 222:1 Voir [p. 167](../Book_4_9_1#p167), note [1](../Book_4_9_1#fn283).
 
-[^379]: 222:2 À savoir les différentes formes, ou pouvoirs, d'Agni, auxquels les 401 libations sont offertes. Voir [IX, 1, 1, 43](Book_4_9_1#v9_1_1_43), où les mêmes calculs sont appliqués au <i>S</i>atarudriya.
+[^379]: 222:2 À savoir les différentes formes, ou pouvoirs, d'Agni, auxquels les 401 libations sont offertes. Voir [IX, 1, 1, 43](../Book_4_9_1#v9_1_1_43), où les mêmes calculs sont appliqués au <i>S</i>atarudriya.
 
-[^380]: 222:3 Voir [p. 114](Book_4_8_6#p114), note [1](Book_4_8_6#fn207).
+[^380]: 222:3 Voir [p. 114](../Book_4_8_6#p114), note [1](../Book_4_8_6#fn207).
 
 [^381]: 222:4 Paksha, aile, signifie également demi-mois, quinzaine, dont il y en a vingt-quatre dans l'année.
 
-[^382]: 222:5 Voir [p. 168](Book_4_9_1#p168), note [3](Book_4_9_1#fn287).
+[^382]: 222:5 Voir [p. 168](../Book_4_9_1#p168), note [3](../Book_4_9_1#fn287).
 
 [^383]: 222:6 Apparemment en plus des doigts et des orteils (? des singes).
 
-[^384]: 223:1 Voir pp. [110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202); [112](Book_4_8_6#p112), n. [1](Book_4_8_6#fn204); [113](Book_4_8_6#p113), n. [1](Book_4_8_6#fn206).
+[^384]: 223:1 Voir pp. [110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202); [112](../Book_4_8_6#p112), n. [1](../Book_4_8_6#fn204); [113](../Book_4_8_6#p113), n. [1](../Book_4_8_6#fn206).
 
 [^385]: 223:2 C'est-à-dire, des oblations capables de promouvoir ou de vivifier la force (ou la nourriture, — vâ<i>g</i>a) ; voir partie iii, p. 37 (où lire Vâ<i>g</i>aprasavîya). Alors que les formules des sept premières de ces oblations sont les mêmes que celles utilisées pour celles du Vâ<i>g</i>apeya (voir V, 2, 2, 5-11), les formules des sept dernières de ces oblations sont Vâ<i>g</i>. S. XVIII, 30-36 (pour la première, étant la même que IX, 5, voir VI, 1, 4, 4).
 

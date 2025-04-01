@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-[3b](Book_1_10#fn5)
+[3b](../Book_1_10#fn5)
 
 ## CHANT I : NÁRAD.
 
@@ -206,7 +206,7 @@ Bharat, son fils, refusa de régner,
 Bien que pressé par tout le train des deux fois nés [^28].
 Il se rendit dans les bois pour rencontrer
 Son frère tomba à ses pieds,
-Et s'écria : « Ta [revendication](errata.htm#0) tous les hommes l'admettent :
+Et s'écria : « Ta [revendication](../errata.htm#0) tous les hommes l'admettent :
 « Viens, sois notre seigneur et notre roi. »
 Mais Rama a noblement choisi d'être
 Observateur du décret de son père.
@@ -568,7 +568,7 @@ Chacun de ses actes d'aujourd'hui s'est manifesté,
 Sa vie secrète n'a été révélée à personne :
 Comment Lakshman, comment les géants se sont battus ;
 Avec une grande entreprise et une pensée cachée :
-Et tout ce qui arriva à l'enfant de Janak [1b](Book_1_10#fn48)
+Et tout ce qui arriva à l'enfant de Janak [1b](../Book_1_10#fn48)
 Là où tout le monde pouvait voir, là où personne ne pouvait dire,
 Tout cela sera vraiment
 Révélée à toi, ô le meilleur des saints.
@@ -579,7 +579,7 @@ Le conte divin en vers charmants.
 Tant que dans cette terre solidement établie
 Les ruisseaux couleront, les montagnes se dresseront,
 Adieu à travers le monde, soyez-en sûrs,
-Le grand Rámáyan perdurera. [2b](Book_1_10#fn49)
+Le grand Rámáyan perdurera. [2b](../Book_1_10#fn49)
 Alors que l'ancienne souche du Rámáyan
 Restera glorieux sur la terre,
 Tu t'élèveras vers des sphères plus élevées
@@ -980,7 +980,7 @@ Et des chariots pour la traction et des voitures pour la vitesse.
 Avec des envoyés envoyés par des rois lointains,
 Et les marchands avec leurs objets précieux,
 Avec des bannières qui jouent sur ses toits,
-Et des armes qui tuent cent personnes ; [1b](Book_1_10#fn67)
+Et des armes qui tuent cent personnes ; [1b](../Book_1_10#fn67)
 Tous les engins de guerre conçus par l'homme,
 Et toutes les classes d'artisans.
 Une ville riche au-delà de toute comparaison
@@ -994,7 +994,7 @@ Le tintement de l'arc de l'archer ;
 Avec des bandes de héros divins qualifiés
 Dans chaque arme de guerre, remplie,
 Et gardé par les guerriers de l'ennemi,
-Alors que les Nágas gardent leur maison en contrebas. [2b](Book_1_10#fn68)
+Alors que les Nágas gardent leur maison en contrebas. [2b](../Book_1_10#fn68)
 Il y a toujours eu des brahmanes plus sages
 La flamme de l'adoration nourrit,
 Et versé dans toutes les traditions des Védas,
@@ -1111,15 +1111,15 @@ Ils rivalisaient bien avec la renommée mondiale
 De la grande souche dont ils sont issus,
 De Váman, vaste de taille,
 De la glorieuse lignée de Mahápadma,
-À toi, Aujan, et à toi, Airávat. [1](Book_1_10#fn75)
+À toi, Aujan, et à toi, Airávat. [1](../Book_1_10#fn75)
 Les défenseurs des cieux.
 Avec ceux inscrits en classe quadruple,
 Qui surpassent tous leurs puissants parents,
 Que les hommes appellent Matangas,
 Et Mrigas tacheté de noir et de blanc,
 Et les Bhadras d'une puissance infatigable,
-Et les Mandras sont difficiles à apprivoiser. [2](Book_1_10#fn76)
-Ainsi, digne du nom qu'elle portait, [3](Book_1_10#fn77)
+Et les Mandras sont difficiles à apprivoiser. [2](../Book_1_10#fn76)
+Ainsi, digne du nom qu'elle portait, [3](../Book_1_10#fn77)
 Ayodhyá pour une ligue ou plus
 Jette une gloire éclatante autour de toi,
 Où Das'aratha sage et grand
@@ -1774,7 +1774,7 @@ Honoré comme le roi d'amour et de louanges
 Et brillait avec elle dans une lumière glorieuse,
 Doux S'ántá, pour son ministre,
 En tant que fils de Brahmá, Vas'ishtha, il
-Qui a épousé Sainte Arundhati. [1](Book_1_20#fn83)
+Qui a épousé Sainte Arundhati. [1](../Book_1_20#fn83)
 
 <figure class="table chapter-navigator">
   <table>

@@ -243,9 +243,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^681]: 363:2 ? Ou, en ce que (ou parce que, yena) les eaux coulent, c'est-à-dire que l'écoulement des eaux (pluie, etc.) est une manifestation de la vérité éternelle.
 
-[^682]: 364:1 Voir [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^682]: 364:1 Voir [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
-[^683]: 364:2 À savoir, celui que le Sacrificateur portait autour du cou pendant la période d'initiation. Voir [VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) seq.
+[^683]: 364:2 À savoir, celui que le Sacrificateur portait autour du cou pendant la période d'initiation. Voir [VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) seq.
 
 [^684]: 366:1 'Sîmata<i>h</i>' semblerait plutôt signifier 'à partir de la ligne de démarcation', mais l'auteur prend ici 'sîman' dans le sens de (sîmanta) 'ligne des cheveux, raie des cheveux, couronne de la tête (Scheitel).'
 
@@ -253,13 +253,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^686]: 366:3 C'est généralement à Indra que le mètre du Trish<i>t</i>ubh est rattaché — voir partie i, introduction, p. xviii ; <i>S</i>at. Br. IX, 4, 3, 7 (cf. VIII, 5, 1, 10) — le Trish<i>t</i>ubh étant aussi l'emblème de la noblesse (III, 4, 1, 10).
 
-[^687]: 366:4 Voir [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^687]: 366:4 Voir [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^688]: 367:1 Le professeur Weber, Ind. Stud. XIII, p. 249, prend « uttânam » dans le sens de « debout », avec son visage tourné vers l'est ; mais cela doit sûrement être une erreur.
 
 [^689]: 367:2 À savoir à la fois la plaque d'or (le soleil), qui a été posée avec le côté en relief ou le côté avant vers le bas, et l'homme en or.
 
-[^690]: 368:1 Cf. [VI, 7, 1, 11](Book_3_6_7#v6_7_1_11), où il est dit que la partie immortelle de l'air vital de l'homme s'échappe par des respirations ascendantes. Cf. [p. 359](Book_3_7_3#p359), n. [1](Book_3_7_3#fn673).
+[^690]: 368:1 Cf. [VI, 7, 1, 11](../Book_3_6_7#v6_7_1_11), où il est dit que la partie immortelle de l'air vital de l'homme s'échappe par des respirations ascendantes. Cf. [p. 359](../Book_3_7_3#p359), n. [1](../Book_3_7_3#fn673).
 
 [^691]: ​​369:1 C'est-à-dire qu'il chante le Kitra-sâman, Sâma-v. I, 169 (Vâ<i>g</i>. S. XXVII, 39), « Avec quelle faveur le brillant, l'ami toujours grandissant, sera-t-il avec nous ; avec quelle armée la plus puissante ? »
 
@@ -287,19 +287,19 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^699]: 378:1 La base (pratish<i>th</i>â') de l'Agni en forme d'oiseau comprend les parties sur lesquelles l'oiseau se tient debout ou assis, à savoir les pieds et l'arrière du corps. Sâya<i>n</i>a, d'autre part, l'interprète comme signifiant le « pu<i>m</i>liṅga », ce qui semble très improbable.
 
-[^700]: 378:2 Voir [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^700]: 378:2 Voir [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
-[^701]: 379:1 Voir [p. 155](Book_3_6_1#p155), note [8](Book_3_6_1#fn316).
+[^701]: 379:1 Voir [p. 155](../Book_3_6_1#p155), note [8](../Book_3_6_1#fn316).
 
 [^702]: 379:2. C'est-à-dire, en ajoutant la formule : « Par cette divinité, semblable à Angiras, repose-toi fermement ! »
 
-[^703]: 379:3 Voir [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^703]: 379:3 Voir [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^704]: 379:4 C'est-à-dire, Comment pourra-t-il (le Sacrificateur) s'élever vers le ciel, alors que cette brique repose sur lui ?
 
-[^705]: 379:5 Voir [p. 187](Book_3_6_2#p187), note [3](Book_3_6_2#fn384).
+[^705]: 379:5 Voir [p. 187](../Book_3_6_2#p187), note [3](../Book_3_6_2#fn384).
 
-[^706]: 380:1 Voir [VI, 2, 3, 2](Book_3_6_2#v6_2_3_2).
+[^706]: 380:1 Voir [VI, 2, 3, 2](../Book_3_6_2#v6_2_3_2).
 
 [^707]: 381:1 La racine doit reposer sur la brique d'où (comme représentant la terre) elle est censée avoir jailli ; les sommets s'étalant alors sur le sol.
 
@@ -313,13 +313,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^712]: 384:2 Les deux briques Reta<i>h</i>si<i>k</i> sont posées immédiatement devant (à l'est) celle de Dviya<i>g</i>us, une de chaque côté de la « colonne vertébrale », qui coïncide ainsi avec leur ligne de séparation.
 
-[^713]: 384:3 Voir [VI, 5, 3, 3](Book_3_6_5#v6_5_3_3).
+[^713]: 384:3 Voir [VI, 5, 3, 3](../Book_3_6_5#v6_5_3_3).
 
-[^714]: 384:4 Comme dans le cas des Svayamât<i>ri</i><i>n</i><i>n</i>âs (briques naturellement perforées, voir pp. [155](Book_3_6_1#p155), note [8](Book_3_6_1#fn316) ; [187](Book_3_6_2#p187), note [2](Book_3_6_2#fn383)), il y a donc trois Vi<i>s</i>va<i>g</i>yotis ou briques « toute lumière », placées dans les première, troisième et cinquième couches p. 385 de l'autel, et représentant la lumière (ou la divinité dirigeante) du monde respectif représenté par les svayamât<i>ri</i><i>n</i><i>n</i>â de la même couche.
+[^714]: 384:4 Comme dans le cas des Svayamât<i>ri</i><i>n</i><i>n</i>âs (briques naturellement perforées, voir pp. [155](../Book_3_6_1#p155), note [8](../Book_3_6_1#fn316) ; [187](../Book_3_6_2#p187), note [2](../Book_3_6_2#fn383)), il y a donc trois Vi<i>s</i>va<i>g</i>yotis ou briques « toute lumière », placées dans les première, troisième et cinquième couches p. 385 de l'autel, et représentant la lumière (ou la divinité dirigeante) du monde respectif représenté par les svayamât<i>ri</i><i>n</i><i>n</i>â de la même couche.
 
 [^715]: 385:1 En réalité la brique Vi<i>s</i>va<i>g</i>yotis n'est pas placée entre les deux Reta<i>h</i>si<i>k</i>, mais devant la ligne les séparant l'un de l'autre.
 
-[^716]: 385:2 Il « vit » la première brique naturellement perforée, qui, en tant que brique centrale de la première couche, représente ce dernier, ainsi que le plus bas des trois mondes, la terre. Voir [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^716]: 385:2 Il « vit » la première brique naturellement perforée, qui, en tant que brique centrale de la première couche, représente ce dernier, ainsi que le plus bas des trois mondes, la terre. Voir [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
 [^717]: 385:3 C'est-à-dire en ajoutant : « Par cette divinité, semblable à Angiras, repose-toi fermement ! »
 
@@ -327,8 +327,8 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^719]: 386:2 C'est-à-dire son fondement.
 
-[^720]: 387:1 Voir [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1)\-[2](Book_3_6_5#v6_5_3_2).
+[^720]: 387:1 Voir [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1)\-[2](../Book_3_6_5#v6_5_3_2).
 
 [^721]: 387:2 À savoir par des menaces, des vitupérations, etc., Sây.
 
-[^722]: 388:1 Voir [VII, 5, 2, 40](Book_3_7_5#v7_5_2_40) seq.
+[^722]: 388:1 Voir [VII, 5, 2, 40](../Book_3_7_5#v7_5_2_40) seq.

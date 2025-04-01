@@ -88,7 +88,7 @@ On dit souvent : « La plupart des hommes considèrent le gain comme la chose la
 
 ## Notes de bas de page
 
-[^599] : 363:1 Voir pp. [146](Kwang_dze_Intro#p146), [147](Kwang_dze_Intro#p147).
+[^599] : 363:1 Voir pp. [146](../Kwang_dze_Intro#p146), [147](../Kwang_dze_Intro#p147).
 
 [^600] : 363:2 Tout comme Shän-thû Tî. Voir au Livre VI, par. 3.
 

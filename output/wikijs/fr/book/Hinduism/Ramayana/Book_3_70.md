@@ -784,7 +784,7 @@ Ses yeux devinrent rouges, ses lèvres féroces gonflèrent.
 Il dessina son manteau d'écorce autour de sa silhouette
 Et enroula à nouveau ses tresses d'ermite.
 Comme Rudra lorsqu'il aspirait à tuer
-Le démon Tripur [1](Book_3_70#fn510) dans la mêlée.
+Le démon Tripur [1](../Book_3_70#fn510) dans la mêlée.
 Ainsi le héros avait l'air courageux et sage,
 La fureur jaillissait de ses yeux.
 Alors Rama, vainqueur de l'ennemi,

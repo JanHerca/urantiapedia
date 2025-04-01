@@ -115,7 +115,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v2_2_2_1919"><sup><small>2:2:2:1919.</small></sup></span> Or, l'assistance (ou l'adoration) à ce feu consacré (agnyâdheya) signifie (dire) la vérité. Quiconque dit la vérité agit comme s'il aspergeait ce feu allumé de ghee ; car de cette façon il l'allume ; et son énergie vitale augmente toujours davantage, et de jour en jour il s'améliore. Et quiconque ment agit comme s'il aspergeait ce feu allumé d'eau ; car de cette façon il l'affaiblit ; et son énergie vitale diminue toujours davantage, et de jour en jour il devient plus méchant. Qu'il ne dise donc que la vérité.
 
-<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span> Les parents dirent alors à Aru<i>n</i>a Aupave<i>s</i>i : « Tu es avancé en âge ; établis les deux feux ! » Il répondit : « Ne parle pas ainsi ! Sois réservé [1](Book_1_2_2#fn706) ; car celui qui a établi les feux ne doit pas mentir ; qu'il ne parle pas du tout, mais qu'il ne mente pas. L'adoration, par-dessus tout, est la véracité. »
+<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span> Les parents dirent alors à Aru<i>n</i>a Aupave<i>s</i>i : « Tu es avancé en âge ; établis les deux feux ! » Il répondit : « Ne parle pas ainsi ! Sois réservé [1](../Book_1_2_2#fn706) ; car celui qui a établi les feux ne doit pas mentir ; qu'il ne parle pas du tout, mais qu'il ne mente pas. L'adoration, par-dessus tout, est la véracité. »
 
 
 <span id="v2_2_3"><sup><small>2:2:3</small></sup></span>
@@ -261,7 +261,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^701]: 307:2 Pra<i>k</i>yavata iva vâ esho 'smâl lokât . . . imân hi lokân samârohann eti. Le texte du Kânva dit : « Car celui qui emporte ces oblations quitte pour ainsi dire ce monde des hommes pour le monde des dieux, puisqu'il s'élève pour ainsi dire (ûrdhva iva hi samârohann eti). » Cf. paragraphes 14-16.
 
-[^702]: 307:3 Pour ces (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, ou prières d'invitation et d'offrande au Svish<i>t</i>ak<i>ri</i>t, voir [p. 164](Book_1_1_6#p164), note [2](Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
+[^702]: 307:3 Pour ces (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, ou prières d'invitation et d'offrande au Svish<i>t</i>ak<i>ri</i>t, voir [p. 164](../Book_1_1_6#p164), note [2](../Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
 
 [^703]: 308:1 Selon la recension de Kânva, l'anuvâkyâ et le yâgyâ, dans ce cas, devraient être constitués des versets contenant le mot mûrdhan (« tête »), à savoir Vâg. S. XIII, 14, 15 ; cf. <i>Sat. Br. I, 6, 2, 12.
 
@@ -273,7 +273,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^707]: 311:1 'Pra tv evâsurebhyo bravâmeti.'—'Hantâsurebhya<i>h</i> pratiprabravâmeti', texte Kâ<i>n</i>va. ? 'Parlons-les !'
 
-[^708]: 311:2 Voir [p. 297](Book_1_2_1#p297), note [4](Book_1_2_1#fn684).
+[^708]: 311:2 Voir [p. 297](../Book_1_2_1#p297), note [4](../Book_1_2_1#fn684).
 
 [^709]: 312:1 Ce paragraphe est quelque peu obscur. La recension de Kânva contient plutôt les paragraphes suivants, plus explicites : — À ce propos, certains sont inquiets (âgas), craignant que « ce feu-là ne s'éteigne » (anvagan). Mais qu'ils n'y prêtent pas attention, car, assurément, ce feu qui est en eux, établi au plus profond de leur âme, ne s'éteint pas. « La voiture pourrait passer (vyayâsît), la charrette pourrait passer ; elle (ou quelqu'un) pourrait s'interposer entre (moi et le feu) ! » Voilà une autre source d'inquiétude pour certains ; mais qu'ils n'y prêtent pas attention non plus ; car, assurément, la voiture ne passe pas, la charrette ne passe pas ce feu qui est en eux, établi au plus profond de leur âme. Cf. XII, 4, 1, 2-3.
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^720]: 317:3 La paṅkti se compose de cinq pâdas octosyllabiques. Les anuvâkyâ et yâ<i>g</i>yâ de l'offrande principale sont Rig-veda IV, 10, 2 et 4 ; ceux du svish<i>t</i>ak<i>ri</i>t, ib., versets 4 et 1. — Â<i>s</i>v. II, 8, 14.
 
-[^721]: 317:4 Les prières d'offrande de toutes les libations et offrandes à cet ish<i>t</i>i doivent donc contenir le nom d'Agni. À chacune des offrandes préalables et postérieures, une forme casuelle différente d'agni est ajoutée après les objets respectifs de ces offrandes, — ainsi, '. . . samidho agne p. 318 'gna â<i>g</i>yasya vyantu,' 'tanûnapâd agnim agna . . .,' 'i<i>d</i>o agninâgne . . .,' etc. Voir par. 19; aussi [p. 148](Book_1_1_5#p148), n. [2](Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 ss. Les deux portions de beurre offertes respectivement à Agni ou à Soma (cf. I, 6, 1, 20 ss.) sont dans ce cas offertes à Agni ; les anuvâkyâs, selon Â<i>s</i>v. II, 8, 7, étant respectivement Rig-veda VIII, 44, I et VI, 16, 16. Voir cependant les paragraphes 21 ss.
+[^721]: 317:4 Les prières d'offrande de toutes les libations et offrandes à cet ish<i>t</i>i doivent donc contenir le nom d'Agni. À chacune des offrandes préalables et postérieures, une forme casuelle différente d'agni est ajoutée après les objets respectifs de ces offrandes, — ainsi, '. . . samidho agne p. 318 'gna â<i>g</i>yasya vyantu,' 'tanûnapâd agnim agna . . .,' 'i<i>d</i>o agninâgne . . .,' etc. Voir par. 19; aussi [p. 148](../Book_1_1_5#p148), n. [2](../Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 ss. Les deux portions de beurre offertes respectivement à Agni ou à Soma (cf. I, 6, 1, 20 ss.) sont dans ce cas offertes à Agni ; les anuvâkyâs, selon Â<i>s</i>v. II, 8, 7, étant respectivement Rig-veda VIII, 44, I et VI, 16, 16. Voir cependant les paragraphes 21 ss.
 
 [^722]: 318:1 C'est-à-dire que l'Adhvaryu appelle, Õ <i>s</i>râvaya, 'fais qu'il (ou quelqu'un) entende !' et l'Âgnîdhra répond par Astu <i>s</i>rausha<i>t</i>, 'oui, puisse-t-il (ou quelqu'un) entendre !'
 
@@ -339,7 +339,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^740]: 322:3 Voir II, 1, 1, 5.
 
-[^741]: 325:1 La sruva, ou cuillère à tremper, et la louche Agnihotra, par exemple, sont faites de ce bois ; voir [p. 331](Book_1_2_3#p331), note [2](Book_1_2_3#fn746).
+[^741]: 325:1 La sruva, ou cuillère à tremper, et la louche Agnihotra, par exemple, sont faites de ce bois ; voir [p. 331](../Book_1_2_3#p331), note [2](../Book_1_2_3#fn746).
 
 [^742]: 325:2 Sur 'hiṅ' comme élément essentiel dans la récitation des chants Sâma, voir I, 4, 1, 1 seq.
 

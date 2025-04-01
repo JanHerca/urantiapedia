@@ -210,11 +210,11 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^54]: 15:2 'Indra tua V<i>ri</i>tra, son globe oculaire tomba, il devint un collyre.' Taitt. S. VI, 1, 1, 5.
 
-[^55]: 15:3 Le professeur Delbrück, SF III, 27, le prend ainsi : « Il effleure l'œil avec le bout d'un roseau, car le roseau est un éclair capable de repousser le mal. » Mais, si « virakshastâyai » appartenait à ce qui précède, il devrait probablement être interprété avec « <i>s</i>areshikayâ 'nakti », la proposition avec « vai », donnant la raison, étant insérée entre parenthèses ; tandis que, dans une traduction idiomatique, il devrait être placé à la fin : Il oint les yeux avec une tige de roseau afin de chasser les mauvais esprits, le roseau étant un éclair. Ce datif abstrait de but est très courant ; il est généralement interprété avec ce qui précède, comme, par exemple, I, 1, 4, 1 ; 3, 2, 8 ; 5, 3, 8 ; 15; [III, 1, 2, 13](Book_2_3_1#v3_1_2_13); [19](Book_2_3_1#v3_1_2_19); ; et, avec une proposition entre parenthèses avec 'vai' intermédiaire, [III, 2, 1, 13](Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](Book_2_4_5#v4_5_7_7). Non moins courante est la construction analogue avec une proposition avec 'ned' p. 16 (« de peur qu'un tel événement ne se produise ») au lieu du datif de l'abstrait, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](Book_2_4_5#v4_5_9_3).
+[^55]: 15:3 Le professeur Delbrück, SF III, 27, le prend ainsi : « Il effleure l'œil avec le bout d'un roseau, car le roseau est un éclair capable de repousser le mal. » Mais, si « virakshastâyai » appartenait à ce qui précède, il devrait probablement être interprété avec « <i>s</i>areshikayâ 'nakti », la proposition avec « vai », donnant la raison, étant insérée entre parenthèses ; tandis que, dans une traduction idiomatique, il devrait être placé à la fin : Il oint les yeux avec une tige de roseau afin de chasser les mauvais esprits, le roseau étant un éclair. Ce datif abstrait de but est très courant ; il est généralement interprété avec ce qui précède, comme, par exemple, I, 1, 4, 1 ; 3, 2, 8 ; 5, 3, 8 ; 15; [III, 1, 2, 13](../Book_2_3_1#v3_1_2_13); [19](../Book_2_3_1#v3_1_2_19); ; et, avec une proposition entre parenthèses avec 'vai' intermédiaire, [III, 2, 1, 13](../Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](../Book_2_4_5#v4_5_7_7). Non moins courante est la construction analogue avec une proposition avec 'ned' p. 16 (« de peur qu'un tel événement ne se produise ») au lieu du datif de l'abstrait, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](../Book_2_4_5#v4_5_9_3).
 
-[^56]: 16:1 Je prends maintenant ce passage différemment de mon interprétation de I, 1, 2, 4 (« et, afin que cet homme puisse se déplacer dans l'air, sans racines et sans entraves dans les deux directions »). Voir aussi [IV, 1, 1, 20](Book_2_4_1#v4_1_1_20).
+[^56]: 16:1 Je prends maintenant ce passage différemment de mon interprétation de I, 1, 2, 4 (« et, afin que cet homme puisse se déplacer dans l'air, sans racines et sans entraves dans les deux directions »). Voir aussi [IV, 1, 1, 20](../Book_2_4_1#v4_1_1_20).
 
-[^57]: 16 : 2 'Tad uttaram evaitad uttarâvat karoti ;' 'uttarấm évaaitad úttaram karoti', avis Kâ<i>n</i>va. Cf. [p. 2](Book_2_3_1#p2), note [1](Book_2_3_1#fn24).
+[^57]: 16 : 2 'Tad uttaram evaitad uttarâvat karoti ;' 'uttarấm évaaitad úttaram karoti', avis Kâ<i>n</i>va. Cf. [p. 2](../Book_2_3_1#p2), note [1](../Book_2_3_1#fn24).
 
 [^58]: 17:1 Voir partie i, p. 19, note 2.
 
@@ -224,11 +224,11 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^61]: 17:4 Les Kânvas lisent : ayam vâva vâkpatir yo 'yam pavate, tad enam esha punâti, « le seigneur de la parole est sans aucun doute ce souffleur (purificateur, le vent) : c'est donc lui qui le purifie. »
 
-[^62]: 18:1 Voir [p. 8](Book_2_3_1#p8), note [3](Book_2_3_1#fn34).
+[^62]: 18:1 Voir [p. 8](../Book_2_3_1#p8), note [3](../Book_2_3_1#fn34).
 
 [^63]: 18:2 Je prends ya<i>g</i><i>ñ</i>iyâsa<i>h</i> comme acc. pl. fém., comme le fait Mahîdh. Peut-être faudrait-il le traduire par « pour les prières propres au sacrifice », ce qui garantit que chaque prêtre utilise ses propres prières pendant le sacrifice.
 
-[^64]: 18:3 Pour la signification symbolique de la fermeture des mains, voir [III, 2, 1, 6](Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
+[^64]: 18:3 Pour la signification symbolique de la fermeture des mains, voir [III, 2, 1, 6](../Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
 
 [^65]: 19:1 C'est-à-dire, 'svâhâ' dans chaque formule. Le Sa<i>m</i>hitâ a deux fois 'svâhâ' dans la dernière formule (svâhâ vâtâd ârabhe svâhâ), à laquelle cela pourrait se référer, mais aucune des deux recension du Brâhma<i>n</i>a ne mentionne le 'svâhâ' final.
 
@@ -287,9 +287,9 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 <span id="v3_1_4_2121"><sup><small>3:1:4:2121.</small></sup></span> Il offre cette libation avec un verset anush<i>t</i>ubh, car l'anush<i>t</i>ubh est parole, et le sacrifice est parole ; de sorte qu'il obtient ainsi le véritable sacrifice.
 
-<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span> À ce propos, ils disent : « Qu'il n'offre que celui-ci : car quel que soit l'objet que les autres lui offrent, il y gagne même par celui-ci. » Et, en effet [^74], s'il n'offrait que celui-ci, il offrirait une offrande complète ; et le plein signifie tout : il gagne donc tout par cela (l'oblation). Et en remplissant la cuillère à tremper (sruva), il remplit la cuillère à offrande (<i>g</i>uhû), et cette dernière, il l'offre complète. Ceci, cependant, n'est qu'une simple déclaration (des opinions d'autrui) [1](Book_2_3_2#fn75), mais les (cinq) libations sont toutes offertes.
+<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span> À ce propos, ils disent : « Qu'il n'offre que celui-ci : car quel que soit l'objet que les autres lui offrent, il y gagne même par celui-ci. » Et, en effet [^74], s'il n'offrait que celui-ci, il offrirait une offrande complète ; et le plein signifie tout : il gagne donc tout par cela (l'oblation). Et en remplissant la cuillère à tremper (sruva), il remplit la cuillère à offrande (<i>g</i>uhû), et cette dernière, il l'offre complète. Ceci, cependant, n'est qu'une simple déclaration (des opinions d'autrui) [1](../Book_2_3_2#fn75), mais les (cinq) libations sont toutes offertes.
 
-<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span> Il offre celui-ci avec un vers anush<i>t</i>ubh. Étant un vers anush<i>t</i>ubh, il se compose de trente et une syllabes. Or, il y a dix doigts, dix orteils, dix airs vitaux, et le trente et unième est le corps dans lequel ces airs vitaux sont contenus ; car cela constitue l'homme, et le sacrifice est un homme, le sacrifice est de la même proportion qu'un homme [2](Book_2_3_2#fn76). Ainsi, quelle que soit l'étendue du sacrifice, quelle que soit sa mesure, dans cette mesure il en prend possession au moyen de cela (libation), lorsqu'il l'offre avec un vers anush<i>t</i>ubh de trente et une syllabes.
+<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span> Il offre celui-ci avec un vers anush<i>t</i>ubh. Étant un vers anush<i>t</i>ubh, il se compose de trente et une syllabes. Or, il y a dix doigts, dix orteils, dix airs vitaux, et le trente et unième est le corps dans lequel ces airs vitaux sont contenus ; car cela constitue l'homme, et le sacrifice est un homme, le sacrifice est de la même proportion qu'un homme [2](../Book_2_3_2#fn76). Ainsi, quelle que soit l'étendue du sacrifice, quelle que soit sa mesure, dans cette mesure il en prend possession au moyen de cela (libation), lorsqu'il l'offre avec un vers anush<i>t</i>ubh de trente et une syllabes.
 
 <figure class="table chapter-navigator">
   <table>
@@ -319,7 +319,7 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^23]: 1:1 Abhi-<i>s</i>î, 'se trouver ou s'élever au-dessus', avec Sây. Le Dr Lindner prend bhûme<i>h</i> comme abl., et traduit par 'où ne repose que la terre'. Le Kâ<i>n</i>va rec. a bhûme<i>h</i> (gén.) de même dans la clause précédente 'tad yad eva varshish<i>th</i>am bhûmes tad eva devaya<i>g</i>ana<i>m</i> syâd yatrânyad bhûmer nâbhi<i>s</i>ayîteto vai devâ, etc.' Les dieux sont évidemment montés au ciel depuis le point le plus élevé de la terre, et il appartient donc au sacrifiant de choisir le lieu le plus élevé disponible. Voir Kâty. VII, 1, 11 scholl.; Lâ<i>t</i>y. S. I, 1, 17, 'na <i>k</i>âsya sthalataram (lieu supérieur) adûre syât.'
 
-[^24]: 2:1 Ou 'subséquent' ; un jeu de mots sur le mot 'uttara', qui a les significations 'supérieur (supérieur), plus tard et gauche (nord).' Le Dr Lindner le prend dans le sens de 'du nord'. Il est possible qu'uttara fasse également référence aux autels du Soma (uttara vedi et uttara-vedi) qui seront préparés plus tard (voir [III, 5, 1, 1](Book_2_3_5#v3_5_1_1) seq.) sur la partie orientale du terrain sacrificiel.
+[^24]: 2:1 Ou 'subséquent' ; un jeu de mots sur le mot 'uttara', qui a les significations 'supérieur (supérieur), plus tard et gauche (nord).' Le Dr Lindner le prend dans le sens de 'du nord'. Il est possible qu'uttara fasse également référence aux autels du Soma (uttara vedi et uttara-vedi) qui seront préparés plus tard (voir [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1) seq.) sur la partie orientale du terrain sacrificiel.
 
 [^25]: 2:2 Le texte de Kânva dit : « En conséquence, Yâgñavalkya parla : « Vârshña avait l’intention de sacrifier (ayakshyata). Nous sommes donc allés (ayama !) chercher un lieu de culte. » Celui que l’on appelle Sâtyayagñi dit : « En vérité, cette terre entière est divine : il y a un lieu de culte partout où l’on y sacrifie, après l’avoir entouré d’un yagñus. » Et c’est bien ce qu’il pensait, mais les prêtres officiants constituent sans aucun doute le lieu (véritable) (moyen) de culte : là où des prêtres sages accomplissent le sacrifice en bonne et due forme, là seulement aucun échec n’a lieu. Cela (autre définition) n’est pas la caractéristique du lieu de culte. (Sans iti final.)
 
@@ -327,7 +327,7 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^27]: 3:2 Prâ<i>k</i>îna-va<i>m</i><i>s</i>a (prâg-va<i>m</i><i>s</i>a, K.). Les 'va<i>m</i><i>s</i>as' sont les poutres horizontales soutenues par les quatre poteaux d'angle. En premier lieu, deux traverses sont fixées sur les poteaux d'angle, pour servir de linteaux aux portes est et ouest. En travers d'elles sont ensuite posées des traverses, allant d'ouest en est, sur lesquelles des nattes sont étalées en guise de toit ou de plafond. Français Le terme 'prâ<i>k</i>îna-va<i>m</i><i>s</i>a' désigne ces poutres supérieures (upari-va<i>m</i><i>s</i>a), et plus particulièrement la poutre centrale (p<i>ri</i>sh<i>th</i>a-va<i>m</i><i>s</i>a ou madhyavala) dont les extrémités reposent au milieu des linteaux des portes est et ouest ; cf. Sâya<i>n</i>a sur Taitt. S. I, 2, 1 (vol. i, pp. 279, 286) ; Kâty. VII, I, 20 scholl. À l'intérieur du Prâ<i>k</i>îna-va<i>m</i><i>s</i>a se trouve le feu Âhavanîya immédiatement face à la porte est ; le feu Gârhapatya face à la porte ouest ; entre les deux, l'autel ; et au sud de ce dernier, le Dakshi<i>n</i>âgni. Le hangar (vimita) doit être érigé à l'arrière (ouest) du terrain sacrificiel, après que les racines ont été déterrées. Il est décrit comme une structure carrée de dix (ou douze) coudées, légèrement plus haute à l'avant qu'à l'arrière ; avec des portes de chaque côté (sauf, facultativement, au nord). Le <i>s</i>âlâ, ou salle, doit mesurer vingt coudées sur dix. Kâty. VII, 1, 19-24 comm.
 
-[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. Les mêmes particules apparaissent [III, 2, 1, 11](Book_2_3_2#v3_2_1_11). Le texte de Kâ<i>n</i>va dit : « de peur qu'il ne gèle en hiver, qu'il ne pleuve à verse pendant la saison des pluies et qu'il n'y ait une chaleur brûlante en été. »
+[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. Les mêmes particules apparaissent [III, 2, 1, 11](../Book_2_3_2#v3_2_1_11). Le texte de Kâ<i>n</i>va dit : « de peur qu'il ne gèle en hiver, qu'il ne pleuve à verse pendant la saison des pluies et qu'il n'y ait une chaleur brûlante en été. »
 
 [^29]: 5:1 Le rite décrit dans les paragraphes suivants est appelé apsudîkshâ, ou « consécration dans l'eau ».
 
@@ -339,7 +339,7 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^33]: 8:2 La recension de Kânva a la meilleure lecture : « Car ils le purifient désormais lorsqu'il se baigne. » Selon Taitt. S. VI, 1, 1, 3, il sirote également (a<i>s</i>nâti) de l'eau en vue d'une purification interne.
 
-[^34]: 8:3 Littéralement « car ce qui est purifié (yad pûyate) avec du ghee est bien purifié. » L'imparfait est plutôt étrange. Voir aussi [III, 1, 3, 22](Book_2_3_1#v3_1_3_22). Les Kânvas lisent : « Car ce qui est purifié (yad pûyate) avec du ghee est bien purifié. »
+[^34]: 8:3 Littéralement « car ce qui est purifié (yad pûyate) avec du ghee est bien purifié. » L'imparfait est plutôt étrange. Voir aussi [III, 1, 3, 22](../Book_2_3_1#v3_1_3_22). Les Kânvas lisent : « Car ce qui est purifié (yad pûyate) avec du ghee est bien purifié. »
 
 [^35]: 8:4 Prâṅ ivodaṅ = uttarapûrvârdham, Kâty. VII, 2, 15, c'est-à-dire « vers le nord avec un léger virage vers l'est ». Le Dr Lindner prend « udaṅ » p. 9 comme étant destiné à expliquer la préposition « ud ». Ceci, cependant, ne rend pas compte du « iva ».
 
@@ -351,9 +351,9 @@ C'est la règle de conduite des consacrés dans un tel cas.
 
 [^39]: 10:3 C'est-à-dire, si ce n'est pas un vêtement neuf, ce doit être un vêtement qui n'a pas été lavé par un blanchisseur (avec du mautra, etc.), mais porté quotidiennement après le bain.
 
-[^40]: 10:4 Ou, forme extérieure, tanu. Son sens se rapproche parfois beaucoup de celui de « peau », que lui attribuent les lexicographes. Cf. [III, 2, 2, 20](Book_2_3_2#v3_2_2_20) ; [4, 3, 9](Book_2_3_4#v3_4_3_9).
+[^40]: 10:4 Ou, forme extérieure, tanu. Son sens se rapproche parfois beaucoup de celui de « peau », que lui attribuent les lexicographes. Cf. [III, 2, 2, 20](../Book_2_3_2#v3_2_2_20) ; [4, 3, 9](../Book_2_3_4#v3_4_3_9).
 
-[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](Book_2_3_3#v3_3_3_3). La rec. Kânva a 'yad anyeshâ<i>m</i> vayasâ<i>m</i> vîrya<i>m</i> yad anyeshâm pa<i>s</i>ûnâm'.
+[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](../Book_2_3_3#v3_3_3_3). La rec. Kânva a 'yad anyeshâ<i>m</i> vayasâ<i>m</i> vîrya<i>m</i> yad anyeshâm pa<i>s</i>ûnâm'.
 
 [^42]: 11:2 Une traduction différente de ce passage est proposée par le professeur Delbrück (Synt. Forsch. III, p. 25) ; mais le texte de Kânva (sâ tam hesvaro 'dbhutam abhiganitor gâyâyâ vâ garbham niravadhîd yad yeti tad u hovâka) montre que nous devons ici, comme souvent, remplacer îsvarah par l'infinitif dans tos. Le Kânva yad vâ (« ou quelque chose de ce genre ») semblerait également indiquer que nous devrions traduire : (comme à propos de l'un d'eux) il y a de mauvaises nouvelles : « il a commis un péché tel (iti) que celui de provoquer un avortement. »
 

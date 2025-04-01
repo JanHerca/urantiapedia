@@ -1561,7 +1561,7 @@ Vouloir rentrer à la maison est vain.
 Avec un membre défaillant et un air affaissé
 Il entendit leurs sages conseils :
 Toujours sur leur fils le roi et la reine
-Gardèrent leurs regards persistants. [1](Book_2_50#fn314)
+Gardèrent leurs regards persistants. [1](../Book_2_50#fn314)
 
 <figure class="table chapter-navigator">
   <table>

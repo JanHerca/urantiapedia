@@ -58,7 +58,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 15\. Et dans ce Zaothra avec ce Baresman je désire approcher la Bénédiction, pieuse et bonne, et l'homme pieux et saint qui la prononce, et la puissante et redoutable Malédiction des sages, le Yazad.
 
-16\. Et dans ce Zaothra avec ce Baresman je désire approcher ces eaux avec mes louanges, et ces terres et ces plantes, et ces lieux, districts, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> et pâturages, et ces habitations avec leurs sources d'eau [1](Yasna_3#fn925), et ce souverain de la terre, qui est Ahura Mazda.
+16\. Et dans ce Zaothra avec ce Baresman je désire approcher ces eaux avec mes louanges, et ces terres et ces plantes, et ces lieux, districts, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> et pâturages, et ces habitations avec leurs sources d'eau [1](../Yasna_3#fn925), et ce souverain de la terre, qui est Ahura Mazda.
 
 17\. Et dans ce Zaothra avec ce Baresman, je désire approcher tous les plus grands seigneurs avec mes louanges, les seigneurs du jour et les seigneurs du mois, ceux des années et des saisons, et les bons, héroïques et généreux Fravashis des saints.
 

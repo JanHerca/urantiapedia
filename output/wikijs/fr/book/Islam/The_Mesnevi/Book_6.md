@@ -498,7 +498,7 @@ Cela t'apprendra de nombreuses leçons et pourra améliorer ta moralité.
 
 [^179]: m101:3 Coran ii. 111, et sept autres endroits.
 
-[^180]: m102:1 “_César_” est le Rory, l’Empereur, le Qaysari-Rūm. Il n’y a pas d’autre Qaysar.
+[^180]: m102:1 « _César_ » est le Rory, l’Empereur, le Qaysari-Rūm. Il n’y a pas d’autre Qaysar.
 
 [^181]: m102:2 Écrire ce nom Omar est incorrect.
 

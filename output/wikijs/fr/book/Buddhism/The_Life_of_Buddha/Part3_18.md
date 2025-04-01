@@ -50,7 +50,7 @@ La nuit tomba. Les habitants de Kusinagara avaient entendu dire que le Maître �
 
 La nuit était belle. Ananda était assis à côté du Maître. Le Maître dit :
 
-« Peut-être, Ananda, penseras-tu : “Nous n’avons plus de Maître.” Mais ne pense pas ainsi. La loi demeure, la loi que je t’ai enseignée ; qu’elle te guide, Ananda, lorsque je ne serai plus avec toi. »
+« Peut-être, Ananda, penseras-tu : « Nous n’avons plus de Maître. » Mais ne pense pas ainsi. La loi demeure, la loi que je t’ai enseignée ; qu’elle te guide, Ananda, lorsque je ne serai plus avec toi. »
 
 Il a répété :
 

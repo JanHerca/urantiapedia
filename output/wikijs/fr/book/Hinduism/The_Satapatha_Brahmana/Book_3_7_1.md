@@ -206,7 +206,7 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^560]: 300:1 Sâya<i>n</i>a, sur Taitt. S. IV, 2, 4, prend 'sa<i>m</i><i>g</i><i>ñ</i>ânam' dans le sens de 'connaissance, reconnaissance' ; l'expliquant par le fait que le bétail reconnaît par son odorat les endroits de sol salin et les lèche.
 
-[^561]: 300:2 Ou, pour empêcher (le feu) de brûler sur (ou à travers le sable, et de nuire au sol salin ou à l'amnios). Pour la construction, voir [p. 198](Book_3_6_3#p198), note [2](Book_3_6_3#fn407).
+[^561]: 300:2 Ou, pour empêcher (le feu) de brûler sur (ou à travers le sable, et de nuire au sol salin ou à l'amnios). Pour la construction, voir [p. 198](../Book_3_6_3#p198), note [2](../Book_3_6_3#fn407).
 
 [^562]: 300:3 Cette notion est apparemment basée sur la supposée connexion étymologique de '<i>s</i>ikatâ', sable, avec la racine 'si<i>k</i>.
 
@@ -214,13 +214,13 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^564]: 301:2 ? C'est-à-dire, en creusant dans chaque pierre, le cercle constitué au total de vingt et une pierres.
 
-[^565]: 301:3 Les deux cérémonies ici mentionnées, à savoir le 'sâdana' (établir, fixer, stabiliser, à savoir au moyen de la formule, XII, 53, 'avec l'aide de cette divinité repose-toi stable, comme Aṅgiras', voir [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30)) et le murmure du verset Sûdadohas (Vâ<i>g</i>. S. XII, 55, pour lequel p. 302 voir note \*[^575]\* au [paragraphe 31](Book_3_7_1#v7_1_1_31)), sont les rites dits 'nécessaires', car ils doivent en règle générale être exécutés sur chaque brique (spéciale), lorsqu'elle a été posée lors de la construction de l'autel du feu.
+[^565]: 301:3 Les deux cérémonies ici mentionnées, à savoir le 'sâdana' (établir, fixer, stabiliser, à savoir au moyen de la formule, XII, 53, 'avec l'aide de cette divinité repose-toi stable, comme Aṅgiras', voir [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30)) et le murmure du verset Sûdadohas (Vâ<i>g</i>. S. XII, 55, pour lequel p. 302 voir note \*[^575]\* au [paragraphe 31](../Book_3_7_1#v7_1_1_31)), sont les rites dits 'nécessaires', car ils doivent en règle générale être exécutés sur chaque brique (spéciale), lorsqu'elle a été posée lors de la construction de l'autel du feu.
 
-[^566]: 302:1 À savoir les soi-disant « lokamp<i>ri</i><i>n</i>â » (ou briques remplissant l'espace), pour lesquelles voir [p. 153](Book_3_6_1#p153), note \*[1](Book_3_6_1#fn306)\*.
+[^566]: 302:1 À savoir les soi-disant « lokamp<i>ri</i><i>n</i>â » (ou briques remplissant l'espace), pour lesquelles voir [p. 153](../Book_3_6_1#p153), note \*[1](../Book_3_6_1#fn306)\*.
 
 [^567]: 303:1 C'est-à-dire, avec les lignes qui les marquent allant d'ouest en est. Tandis que ces quatre briques sont oblongues, mesurant deux pieds sur un, les quatre placées derrière et devant elles mesurent chacune un pied carré, de même que celles placées dans les coins du tas carré, sauf l'angle sud-est, où doivent être placées deux briques mesurant un pied sur un demi-pied chacune.
 
-[^568]: 303:2 Voir [VI, 1, 1, 3](Book_3_6_1#v6_1_1_3)\-[6](Book_3_6_1#v6_1_1_6).
+[^568]: 303:2 Voir [VI, 1, 1, 3](../Book_3_6_1#v6_1_1_3)\-[6](../Book_3_6_1#v6_1_1_6).
 
 [^569]: 303:3 Ou « là-bas », c'est-à-dire comme le grand autel du feu, qui sera bientôt construit, et qui doit finalement recevoir le feu Âhavanîya, pris du Gârhapatya.
 
@@ -236,7 +236,7 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^575]: 306:1 Elles sont jointes les unes aux autres, selon Sâya<i>n</i>a, mais cela peut difficilement être le sens voulu, car les pierres se trouvent également à proximité les unes des autres à l'extrémité inférieure (ouest).
 
-[^576]: 307:1 Cette partie commune des deux formules forme la formule dite de « fixation » (ou « établissement ») (sâdana) ; Kâty. Sr. XVI, 7, 14 ; cf. [VI, 1, 2, 28](Book_3_6_1#v6_1_2_28), et [p. 301](#p301), note [^563]. « Semblable à Aṅgiras » signifie apparemment « comme (tu l'as fait) dans le cas de, ou avec, Aṅgiras. »
+[^576]: 307:1 Cette partie commune des deux formules forme la formule dite de « fixation » (ou « établissement ») (sâdana) ; Kâty. Sr. XVI, 7, 14 ; cf. [VI, 1, 2, 28](../Book_3_6_1#v6_1_2_28), et [p. 301](#p301), note [^563]. « Semblable à Aṅgiras » signifie apparemment « comme (tu l'as fait) dans le cas de, ou avec, Aṅgiras. »
 
 [^577]: 307:2 Vâ<i>g</i>. S. XII, 55; <i>Ri</i>k S. VIII, 69, 3. « À sa naissance, les laitières tachetées, semblables à des puits, mélangent le Soma (breuvage), les clans des dieux dans les trois sphères des cieux. » Ce verset difficile a été traduit différemment par différents traducteurs. Le Brâhma<i>n</i>a lui-même en donne une interprétation très différente, sans doute assez fantaisiste, aux versets VIII, 7, 3, 21.
 
@@ -244,7 +244,7 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^579]: 307:4 Ou, 'ainsi (il va, ou, Agni, comme un oiseau, vole) vers les dieux.'
 
-[^580]: 307:5 Voir [VI, 1, 1, 15](Book_3_6_1#v6_1_1_15).
+[^580]: 307:5 Voir [VI, 1, 1, 15](../Book_3_6_1#v6_1_1_15).
 
 [^581]: 308:1 VIII, 7, 2, 1 seq.
 
@@ -260,25 +260,25 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^587]: 309:3 Voir partie ii, p. 116, note 3, 'La terre extraite de la fosse étant utilisée pour la construction du maître-autel, les deux sont de même taille ou étendue cubique.'
 
-[^588]: 309:4 Voir [VI, 3, 3, 26](Book_3_6_3#v6_3_3_26).
+[^588]: 309:4 Voir [VI, 3, 3, 26](../Book_3_6_3#v6_3_3_26).
 
 [^589]: 309:5 Ou plutôt, c'est un cercle correspondant en superficie à un carré d'une brasse ; ce qui donne un diamètre dépassant légèrement en longueur une brasse (c'est-à-dire l'espace entre les extrémités des doigts du milieu lorsque les bras sont étendus). La mesure est (du moins théoriquement) relative, étant adaptée à la taille du Sacrificateur ; mais en pratique, la brasse (vyâma, ou purusha, homme) peut être considérée comme étant d'environ 6 pieds, le vyâma étant égal à 4 aratnis (coudées) de 2 prâde<i>s</i>as (envergures d'environ 18 pouces chacune). Cela permet un carré central de 4 pieds, et environ 1 pied (en réalité un peu moins) pour chacune des deux bissectrices des segments.
 
 [^590]: 310:1 C'est-à-dire qu'il verse le feu de la poêle (ukhyâgni) sur le Gârhapatya (foyer).
 
-[^591]: 310:2 'Purîshya' semble ici avoir le sens de 'riche, abondant'. Voir [p. 201](Book_3_6_3#p201), note \*[1](Book_3_6_3#fn415)\*.
+[^591]: 310:2 'Purîshya' semble ici avoir le sens de 'riche, abondant'. Voir [p. 201](../Book_3_6_3#p201), note \*[1](../Book_3_6_3#fn415)\*.
 
 [^592]: 310:3 'Ukhâ', le pan, est féminin et représente l'utérus d'où naît Agni.
 
-[^593]: 311:1 [VI, 3, 1, 30](Book_3_6_3#v6_3_1_30).
+[^593]: 311:1 [VI, 3, 1, 30](../Book_3_6_3#v6_3_1_30).
 
-[^594]: 311:2 Voir [VII, 5, 2, 14](Book_3_7_5#v7_5_2_14).
+[^594]: 311:2 Voir [VII, 5, 2, 14](../Book_3_7_5#v7_5_2_14).
 
 [^595]: 312:1 Littéralement, tombé en morceaux, c'est-à-dire brisé en morceaux, ou disjoint (« ouvert », Delbrück, Synt. F. V, p. 385).
 
 [^596]: 314:1 Ou, à n'importe quel moment de cette (année) à partir de maintenant, il ne devrait pas le faire.
 
-[^597]: 314:2 Il est très douteux que cette seconde clause de l'oratio directa soit réellement destinée à appartenir à l'argumentation de Vâmakakshâya<i>n</i>a, ou si elle est celle de l'auteur lui-même, auquel cas elle doit être prise avec ce qui suit. « De peur qu'il ne soit... en morceaux, il le restaure (d'abord), etc. » C'est-à-dire qu'il ne doit pas le placer (Pra<i>g</i>âpati) en position verticale, jusqu'à ce qu'il soit complètement restauré. La forme particulière du participe qualifiant Pra<i>g</i>âpati (vi<i>kh</i>idyamâna) pourrait sembler favoriser la première alternative ; voir cependant, [paragraphe 23](Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, 'après que les deux fins ont été perfectionnées.'
+[^597]: 314:2 Il est très douteux que cette seconde clause de l'oratio directa soit réellement destinée à appartenir à l'argumentation de Vâmakakshâya<i>n</i>a, ou si elle est celle de l'auteur lui-même, auquel cas elle doit être prise avec ce qui suit. « De peur qu'il ne soit... en morceaux, il le restaure (d'abord), etc. » C'est-à-dire qu'il ne doit pas le placer (Pra<i>g</i>âpati) en position verticale, jusqu'à ce qu'il soit complètement restauré. La forme particulière du participe qualifiant Pra<i>g</i>âpati (vi<i>kh</i>idyamâna) pourrait sembler favoriser la première alternative ; voir cependant, [paragraphe 23](../Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, 'après que les deux fins ont été perfectionnées.'
 
 [^598]: 314:3 Dans ce paragraphe et les suivants, la position ordinaire du sujet et du prédicat semble souvent inversée : dans le cas présent, on s'attendrait à ce que l'air soit pour lui l'espace entre les deux feux.
 
@@ -294,11 +294,11 @@ SEPTIÈME KÂ<i>N</i><i>D</i>A.
 
 [^604]: 316:2 C'est-à-dire que ces trente-deux éléments forment, pour ainsi dire, un verset Anush<i>t</i>ubh composé de trente-deux syllabes.
 
-[^605]: 316:3 Voir [VII, 2, 1, 1](Book_3_7_2#v7_2_1_1) seq.
+[^605]: 316:3 Voir [VII, 2, 1, 1](../Book_3_7_2#v7_2_1_1) seq.
 
-[^606]: 316:4 Je ne vois pas quelles autres formules peuvent être envisagées ici, si ce n'est celles adressées aux pierres englobantes, concluant par la formule sâdana, ou « d'affaissement », à savoir Vâ<i>g</i>. S. XII, 53 ; voir ci-dessus, [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30) ; bien que celles-ci ne donnent pas exactement trente-deux syllabes, mais trente-quatre (voir cependant [paragraphe 22](Book_3_7_1#v7_1_2_22)). Nos manuscrits disponibles du commentaire sont malheureusement défectueux à cet endroit. — Sur la manipulation artificielle consistant à constituer des mètres imaginaires par le simple nombre de syllabes, indépendamment de leur valeur prosodique réelle, voir le professeur Weber, Ind. Stud., VIII, p. 23 seq.
+[^606]: 316:4 Je ne vois pas quelles autres formules peuvent être envisagées ici, si ce n'est celles adressées aux pierres englobantes, concluant par la formule sâdana, ou « d'affaissement », à savoir Vâ<i>g</i>. S. XII, 53 ; voir ci-dessus, [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30) ; bien que celles-ci ne donnent pas exactement trente-deux syllabes, mais trente-quatre (voir cependant [paragraphe 22](../Book_3_7_1#v7_1_2_22)). Nos manuscrits disponibles du commentaire sont malheureusement défectueux à cet endroit. — Sur la manipulation artificielle consistant à constituer des mètres imaginaires par le simple nombre de syllabes, indépendamment de leur valeur prosodique réelle, voir le professeur Weber, Ind. Stud., VIII, p. 23 seq.
 
-[^607]: 317:1 Ou, les foyers Dhish<i>n</i>ya (voir [paragraphe 23](Book_3_7_1#v7_1_2_23)), qui sont plus correctement situés entre le Gârhapatya et les foyers de l'Âhavanîya. Voir le plan du terrain sacrificiel dans la partie ii ; où, cependant, l'Âhavanîya du Prâ<i>k</i>înava<i>m</i><i>s</i>a (salle), ou le soi-disant <i>s</i>âlâdvârya (feu de la porte de la salle), représenterait le Gârhapatya pour l'Âhavanîya du Mahâvedi.
+[^607]: 317:1 Ou, les foyers Dhish<i>n</i>ya (voir [paragraphe 23](../Book_3_7_1#v7_1_2_23)), qui sont plus correctement situés entre le Gârhapatya et les foyers de l'Âhavanîya. Voir le plan du terrain sacrificiel dans la partie ii ; où, cependant, l'Âhavanîya du Prâ<i>k</i>înava<i>m</i><i>s</i>a (salle), ou le soi-disant <i>s</i>âlâdvârya (feu de la porte de la salle), représenterait le Gârhapatya pour l'Âhavanîya du Mahâvedi.
 
 [^608]: 318:1 La même latitude dans le calcul du nombre de syllabes constituant un mètre est concédée, Ait. Br. I, 6.
 

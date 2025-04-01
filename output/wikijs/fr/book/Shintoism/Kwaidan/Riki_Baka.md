@@ -46,7 +46,7 @@ Les habitants de cette maison savaient donc que la naissance avait dû avoir lie
 
 Ces serviteurs trouvèrent la mère de Riki et lui racontèrent ce qui s'était passé. Elle en fut extrêmement heureuse, car la maison Nanigashi est très riche et célèbre. Mais les serviteurs dirent que la famille de Nanigashi-Sama était très en colère à cause du mot « Baka » sur la main de l'enfant. « Et où est enterré votre Riki ? » demandèrent les serviteurs. « Il est enterré au cimetière de Zendoji », leur dit-elle. « Veuillez nous donner un peu de l'argile de sa tombe », demandèrent-ils.
 
-« Elle les accompagna donc au temple Zendoji et leur montra la tombe de Riki. Ils emportèrent un peu d'argile funéraire, enveloppée dans un furoshiki <a id="note_1"></a> [1](Notes#note_10_1).... Ils donnèrent de l'argent à la mère de Riki, dix yens. »... (4)
+« Elle les accompagna donc au temple Zendoji et leur montra la tombe de Riki. Ils emportèrent un peu d'argile funéraire, enveloppée dans un furoshiki <a id="note_1"></a> [1](../Notes#note_10_1).... Ils donnèrent de l'argent à la mère de Riki, dix yens. »... (4)
 
 « Mais que voulaient-ils faire avec cette argile ? » demandai-je.
 

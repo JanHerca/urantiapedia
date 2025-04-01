@@ -94,7 +94,7 @@ Le jour du sabbat, on peut porter un œuf de sauterelle comme charme contre les 
 
 _Shabbat_, fol. 67, col. 1.
 
-Pour la cécité nocturne, qu'un homme prenne une corde de crin et en attache une extrémité à sa jambe et l'autre à celle d'un chien. Puis, que des enfants fassent claquer un tesson de poterie derrière lui et crient : “Vieil homme ! Chien ! Fou ! Coq !” Qu'il ramasse sept morceaux de viande dans sept maisons (différentes) ; qu'il les dépose sur la barre transversale du seuil, puis qu'il les mange sur les dépotoirs de la ville ; après cela, qu'il défasse la corde de crin et dise : “Cécité d'un tel, fils de Mme Une telle, quitte un tel, fils de Mme Une telle, et sois brossé dans la pupille de l'œil du chien.” (Citation tirée de « The Fragment », du révérend W.H. Lowe de Cambridge.)
+Pour la cécité nocturne, qu'un homme prenne une corde de crin et en attache une extrémité à sa jambe et l'autre à celle d'un chien. Puis, que des enfants fassent claquer un tesson de poterie derrière lui et crient : « Vieil homme ! Chien ! Fou ! Coq ! » Qu'il ramasse sept morceaux de viande dans sept maisons (différentes) ; qu'il les dépose sur la barre transversale du seuil, puis qu'il les mange sur les dépotoirs de la ville ; après cela, qu'il défasse la corde de crin et dise : « Cécité d'un tel, fils de Mme Une telle, quitte un tel, fils de Mme Une telle, et sois brossé dans la pupille de l'œil du chien. » (Citation tirée de « The Fragment », du révérend W.H. Lowe de Cambridge.)
 
 _Gittin_, fol. 69, col. 1.
 

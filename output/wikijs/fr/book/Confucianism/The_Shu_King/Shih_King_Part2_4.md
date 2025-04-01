@@ -52,7 +52,7 @@ Ah ! Messieurs, ne comptez pas sur un repos éternel. Accomplissez tranquillemen
 
 SERVICES SACRIFICIELS ET FESTIFS DANS LE TEMPLE ANCESTRAL ; ET LEUR LIEN AVEC L'ATTENTION À L'ÉLEVAGE.
 
-Voir les remarques sur les Services du Temple Ancestral, pp. [300](Shih_King_Part1_Intro#p300), 301.
+Voir les remarques sur les Services du Temple Ancestral, pp. [300](../Shih_King_Part1_Intro#p300), 301.
 
 Le tribulus poussait épais (sur le sol), mais ils ont arraché ses buissons épineux. Pourquoi ont-ils fait cela autrefois ? Pour que nous puissions planter notre millet et notre millet sacrificiel ; pour que notre millet soit abondant, et notre millet sacrificiel luxuriant. Lorsque nos greniers sont pleins, et que nos meules se comptent par dizaines de myriades, nous procédons à la fabrication d'esprits et de céréales préparées, pour les offrandes et les sacrifices. Nous faisons asseoir les représentants des morts et les exhortons à manger [^437] : cherchant ainsi à accroître notre bonheur radieux.
 

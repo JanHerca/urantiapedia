@@ -87,7 +87,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^596]: 187:6 Des Aphtoroth; qui, dans d'autres occasions, doivent être liés au sujet de la première section lue, mais pendant les semaines mentionnées, le sujet de l'Aphtorah est celui de la dernière section ou des sections supplémentaires.
 
-[^597]: 187:7 Ce qui _autrefois_ pouvait arriver le jour du sabbat : comparez notre Note 5, [p. 181](Treatise13_Erubin_Intro#p181).
+[^597]: 187:7 Ce qui _autrefois_ pouvait arriver le jour du sabbat : comparez notre Note 5, [p. 181](../Treatise13_Erubin_Intro#p181).
 
 [^598]: 187 : 8 Voir le traité Taanith.
 

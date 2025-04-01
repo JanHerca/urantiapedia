@@ -68,4 +68,4 @@ Je tiens à remercier ici le Dr Winternitz, à qui nous devons une excellente é
 
 ## Notes de bas de page
 
-[^711]: 249 : 1 Voir ci-dessus, pp. [3](Gobhila_Intro#p3) seq.
+[^711]: 249 : 1 Voir ci-dessus, pp. [3](../Gobhila_Intro#p3) seq.

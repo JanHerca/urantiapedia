@@ -82,9 +82,9 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^154]: 52:3 L'état d'identification de soi-même avec le Brahman, qui résulte d'une connaissance correcte du Brahman.
 
-[^155]: 52 : 4 Infra, [p. 66](Bhagavadgita_5#p66).
+[^155]: 52 : 4 Infra, [p. 66](../Bhagavadgita_5#p66).
 
-[^156]: 52 : 5 Supra, [p. 47](Bhagavadgita_2#p47).
+[^156]: 52 : 5 Supra, [p. 47](../Bhagavadgita_2#p47).
 
 [^157]: 52:6 C'est-à-dire, selon <i>S</i>ankara, l'identification de soi-même avec Brahman.
 
@@ -98,7 +98,7 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^162]: 53:3 Au moyen d'un véritable discernement, en préservant les sens de l'attachement aux objets du monde, qui conduisent au péché et au mal.
 
-[^163]: 53:4 Cf. infra, pp. [60](Bhagavadgita_4#p60), [61](Bhagavadgita_4#p61). Il est probable que les « sacrifices » mentionnés dans ce passage doivent être considérés comme étant les mêmes que ceux mentionnés dans l'injonction du Créateur mentionnée dans ce passage.
+[^163]: 53:4 Cf. infra, pp. [60](../Bhagavadgita_4#p60), [61](../Bhagavadgita_4#p61). Il est probable que les « sacrifices » mentionnés dans ce passage doivent être considérés comme étant les mêmes que ceux mentionnés dans l'injonction du Créateur mentionnée dans ce passage.
 
 [^164]: 53:5 Cf. Maitrî-upanishad, p. 143
 
@@ -110,9 +110,9 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^168]: 54:4 <i>S</i>rîdhara dit qu'il est ici demandé à Ar<i>g</i>una d'accomplir une action, car la liberté de celle-ci n'est réservée qu'à l'homme de la vraie connaissance, ce qu'Ar<i>g</i>una n'est pas encore.
 
-[^169]: 54:5 C'est-à-dire l'émancipation finale ; cf. [p. 59](Bhagavadgita_4#p59) infra, et Î<i>s</i>opanishad, p. 6.
+[^169]: 54:5 C'est-à-dire l'émancipation finale ; cf. [p. 59](../Bhagavadgita_4#p59) infra, et Î<i>s</i>opanishad, p. 6.
 
-[^170]: 55:1 Le principe actif est la nature, l'agrégat des trois qualités ; l'âme n'est que le spectateur ; cf. inter alia, [p. 104](Bhagavadgita_13#p104) infra.
+[^170]: 55:1 Le principe actif est la nature, l'agrégat des trois qualités ; l'âme n'est que le spectateur ; cf. inter alia, [p. 104](../Bhagavadgita_13#p104) infra.
 
 [^171]: 55:2 Scil. la différence de l'âme par rapport à l'ensemble des qualités, à savoir le corps, les sens, etc., et par rapport aux actions dont elles sont les auteurs.
 
@@ -128,9 +128,9 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^177]: 56:4 Cf. Sutta Nipâta, p. 101, quant aux « goûts et aux dégoûts ».
 
-[^178]: 57:1 Vidéo [p. 50](Bhagavadgita_2#p50) supra.
+[^178]: 57:1 Vidéo [p. 50](../Bhagavadgita_2#p50) supra.
 
-[^179]: 57:2 C'est-à-dire la connaissance, mentionnée dans la phrase suivante, pour laquelle les constructions [p. 71](Bhagavadgita_6#p71) et [p. 98](Bhagavadgita_11#p98) peuvent être comparées.
+[^179]: 57:2 C'est-à-dire la connaissance, mentionnée dans la phrase suivante, pour laquelle les constructions [p. 71](../Bhagavadgita_6#p71) et [p. 98](../Bhagavadgita_11#p98) peuvent être comparées.
 
 [^180]: 57:3 Qui devient plus puissant à mesure qu'il est nourri.
 
@@ -138,6 +138,6 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^182]: 57:5 La connaissance vient des livres ou des enseignants, l'expérience est le résultat de la perception personnelle.
 
-[^183]: 57:6 Ka<i>th</i>opanishad, p. 114; et voir aussi pp. [148](Sanatsugatiya_Intro#p148), [149](Sanatsugatiya_1#p149).
+[^183]: 57:6 Ka<i>th</i>opanishad, p. 114; et voir aussi pp. [148](../Sanatsugatiya_Intro#p148), [149](../Sanatsugatiya_1#p149).
 
 [^184]: 57:7 C'est-à-dire l'Être suprême, comme dans le Ka<i>th</i>opanishad.

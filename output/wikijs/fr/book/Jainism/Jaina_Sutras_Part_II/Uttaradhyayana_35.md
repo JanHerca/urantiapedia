@@ -110,6 +110,6 @@ Ainsi je dis.
 
 [^581] : 204:2 Paraka<i>d</i>a = parak<i>ri</i>ta, expliqué parair âtmârtha<i>m</i> k<i>ri</i>ta.
 
-[^582] : 205:1 <i>S</i>ukla dhyâna, voir note [1](Uttaradhyayana_34#fn568), [p. 200](Uttaradhyayana_34#p200).
+[^582] : 205:1 <i>S</i>ukla dhyâna, voir note [1](../Uttaradhyayana_34#fn568), [p. 200](../Uttaradhyayana_34#p200).
 
 [^583]: 206:1 Par la destruction du vîryântarâya.

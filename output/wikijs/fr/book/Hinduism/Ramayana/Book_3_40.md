@@ -375,7 +375,7 @@ Des couronnes célestes ornaient sa poitrine.
 Il était assis dans une forme de terreur, comme
 Destruction des mondes qu'il frappe.
 Elle le vit à sa place d'honneur,
-La joie de la course du vieux Pulastya [1](Book_3_40#fn488),
+La joie de la course du vieux Pulastya [1](../Book_3_40#fn488),
 Entouré d'un conseiller et d'un pair,
 Rávan, la peur mortelle de l'ennemi,
 Et la terreur se lisait dans ses traits,

@@ -47,9 +47,9 @@ P. 109, note 3. Ajouter, — Cf. aussi Hillebrandt, 'Varu<i>n</i>a et Mitra', p.
 
 P. 130, par. 9, ll. 2, 3. Lisez : « Que la pensée divine te protège, non la pensée de l'homme ! »
 
-P. 136, par. 6, l. 2. Sous lui : Harisvâmin explique « anu » par « anvâbhakta », « participant après lui », cf. [XIII, 5, 4, 24](Book_5_13_5#v13_5_4_24).
+P. 136, par. 6, l. 2. Sous lui : Harisvâmin explique « anu » par « anvâbhakta », « participant après lui », cf. [XIII, 5, 4, 24](../Book_5_13_5#v13_5_4_24).
 
-P. 149, note 1. Le commentaire prend « p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite » dans le sens de « établi sur le p<i>ri</i>sh<i>th</i>ya », dans la mesure où, dans la première moitié de l'année, il commence chaque mois par l'Abhiplava et termine par le P<i>ri</i>sh<i>th</i>ya, qui est le plus fort (balavattara, cf. [XII, 2, 2, 16](Book_5_12_2#v12_2_2_16)), et donc « âtmapratish<i>th</i>ita ».
+P. 149, note 1. Le commentaire prend « p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite » dans le sens de « établi sur le p<i>ri</i>sh<i>th</i>ya », dans la mesure où, dans la première moitié de l'année, il commence chaque mois par l'Abhiplava et termine par le P<i>ri</i>sh<i>th</i>ya, qui est le plus fort (balavattara, cf. [XII, 2, 2, 16](../Book_5_12_2#v12_2_2_16)), et donc « âtmapratish<i>th</i>ita ».
 
 P. 155, note 2. Le manuscrit du commentaire est corrompu : âṅ-pûrvasyâkriyate satari<i>n</i>âdaya<i>h</i> <i>s</i>a<i>h</i> bhadrâgamam va<i>k</i><i>kh</i>asthâne evâdhikshipayati na prade<i>s</i>ântara âvartata ity artha<i>h</i>.
 

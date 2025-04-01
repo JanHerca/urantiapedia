@@ -934,7 +934,7 @@ Durant les temps terribles qui suivirent la chute de la Ville Sainte, Anne et se
 
 Selon leur âge, ils étaient amenés devant le tyran conquérant et sommés de lui rendre hommage ainsi qu'à ses dieux.
 
-« Dieu m'en garde », s'exclama l'aîné, « de m'incliner devant ton image. Nos commandements nous disent : “Je suis l'Éternel, ton Dieu” ; je ne m'inclinerai devant aucun autre. »
+« Dieu m'en garde », s'exclama l'aîné, « de m'incliner devant ton image. Nos commandements nous disent : « Je suis l'Éternel, ton Dieu » ; je ne m'inclinerai devant aucun autre. »
 
 Il fut immédiatement conduit à l'exécution, et la même demande fut adressée à son frère, le deuxième fils.
 
@@ -978,7 +978,7 @@ Le tyran parlait toujours avec douceur et avec des mots gentils.
 
 « Où et quel est ton Dieu ? » demanda l'oppresseur. « Y a-t-il un Dieu au monde ? »
 
-« Peut-il y avoir un monde sans Créateur ? » répondit le jeune homme. « On dit de tes dieux : “Ils ont une bouche, mais ne parlent pas.” » De notre Dieu, le Psalmiste dit : “Par la parole du Seigneur, les cieux ont été faits.” Tes dieux ont “des yeux, mais ne voient pas”, mais “les yeux du Seigneur parcourent toute la terre !” Tes dieux ont “des oreilles, mais n’entendent pas”, mais de notre Dieu il est écrit : “Le Seigneur a écouté et entendu.” De tes dieux on dit : “Ils ont un nez, mais ne sentent pas”, tandis que notre Dieu “a senti la douce odeur”. “Tes dieux ont des mains, mais ne touchent pas”, tandis que notre Dieu dit : “Ma main a aussi fondé la terre.” De tes dieux il est écrit : « Ils ont des pieds mais ne marchent pas », tandis que Zacharie nous dit de notre Dieu : « Ses pieds se poseront ce jour-là sur le mont des Oliviers. »
+« Peut-il y avoir un monde sans Créateur ? » répondit le jeune homme. « On dit de tes dieux : « Ils ont une bouche, mais ne parlent pas. » » De notre Dieu, le Psalmiste dit : « Par la parole du Seigneur, les cieux ont été faits. » Tes dieux ont « des yeux, mais ne voient pas », mais « les yeux du Seigneur parcourent toute la terre ! » Tes dieux ont « des oreilles, mais n’entendent pas », mais de notre Dieu il est écrit : « Le Seigneur a écouté et entendu. » De tes dieux on dit : « Ils ont un nez, mais ne sentent pas », tandis que notre Dieu « a senti la douce odeur ». « Tes dieux ont des mains, mais ne touchent pas », tandis que notre Dieu dit : « Ma main a aussi fondé la terre. » De tes dieux il est écrit : « Ils ont des pieds mais ne marchent pas », tandis que Zacharie nous dit de notre Dieu : « Ses pieds se poseront ce jour-là sur le mont des Oliviers. »
 
 Alors le cruel dit :
 

@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 ## LE LIVRE DE LA GRANDE DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE VI.
 
-1\. Le Bienheureux s'adressa alors au vénérable Ananda et dit : « Il se peut, Ananda, que certains d'entre vous pensent : “La parole du Maître est terminée, nous n'avons plus d'enseignant !” Mais ce n'est pas ainsi, Ananda, que vous devriez le considérer. Les vérités et les règles de l'ordre que j'ai exposées et établies pour vous tous, qu'elles soient, après mon départ, votre enseignant. »
+1\. Le Bienheureux s'adressa alors au vénérable Ananda et dit : « Il se peut, Ananda, que certains d'entre vous pensent : « La parole du Maître est terminée, nous n'avons plus d'enseignant ! » Mais ce n'est pas ainsi, Ananda, que vous devriez le considérer. Les vérités et les règles de l'ordre que j'ai exposées et établies pour vous tous, qu'elles soient, après mon départ, votre enseignant. »
 
 ---
 
@@ -58,11 +58,11 @@ dateCreated: 2025-2-6T11:21:5Z
 
 ---
 
-5\. Le Bienheureux s'adressa alors aux frères et dit : « Il se peut, frères, qu'un frère ait des doutes ou des appréhensions quant au Bouddha, à la vérité, au chemin ou à la voie. Interrogez-vous, frères, librement. Ne vous reprochez pas ensuite la pensée suivante : “Notre maître était face à face avec nous, et nous n'avons pas pu nous résoudre à interroger le Bienheureux lorsque nous étions face à face avec lui.” »
+5\. Le Bienheureux s'adressa alors aux frères et dit : « Il se peut, frères, qu'un frère ait des doutes ou des appréhensions quant au Bouddha, à la vérité, au chemin ou à la voie. Interrogez-vous, frères, librement. Ne vous reprochez pas ensuite la pensée suivante : « Notre maître était face à face avec nous, et nous n'avons pas pu nous résoudre à interroger le Bienheureux lorsque nous étions face à face avec lui. » »
 
 Et quand il eut ainsi parlé, les frères se turent.
 
-6\. Et de nouveau, pour la deuxième et la troisième fois, le Bienheureux s'adressa aux frères et dit : « Il se peut, frères, qu'un frère ait des doutes ou des appréhensions quant au Bouddha, à la vérité, au chemin ou à la voie. Interrogez-vous, frères, librement. Ne vous reprochez pas ensuite la pensée : “Notre maître était face à face avec nous, et nous n'avons pas pu nous résoudre à interroger le Bienheureux lorsque nous étions face à face avec lui.” »
+6\. Et de nouveau, pour la deuxième et la troisième fois, le Bienheureux s'adressa aux frères et dit : « Il se peut, frères, qu'un frère ait des doutes ou des appréhensions quant au Bouddha, à la vérité, au chemin ou à la voie. Interrogez-vous, frères, librement. Ne vous reprochez pas ensuite la pensée : « Notre maître était face à face avec nous, et nous n'avons pas pu nous résoudre à interroger le Bienheureux lorsque nous étions face à face avec lui. » »
 
 Et même la troisième fois, les frères restèrent silencieux.
 
@@ -231,7 +231,7 @@ Mais ceux des frères libérés des passions (les Arahats) supportaient leur cha
 
 40\. Or, à ce moment-là, un frère nommé Subhadda, qui avait été reçu dans l'ordre dans sa vieillesse, était assis là en leur compagnie[^15].
 
-Et Subhadda le vieux s'adressa aux frères et dit : « Assez, frères ! Ne pleurez pas et ne vous lamentez pas ! Nous sommes bien débarrassés du grand Samana. Nous étions agacés qu'on nous dise : “Cela vous convient, cela ne vous convient pas.” Mais maintenant, nous pourrons faire ce que nous voulons ; et ce que nous n'aimons pas, nous ne le ferons pas ! »
+Et Subhadda le vieux s'adressa aux frères et dit : « Assez, frères ! Ne pleurez pas et ne vous lamentez pas ! Nous sommes bien débarrassés du grand Samana. Nous étions agacés qu'on nous dise : « Cela vous convient, cela ne vous convient pas. » Mais maintenant, nous pourrons faire ce que nous voulons ; et ce que nous n'aimons pas, nous ne le ferons pas ! »
 
 <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 

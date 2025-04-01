@@ -96,6 +96,6 @@ Quant à la reclassification des autres lettres attribuées à saint François p
 
 [^371]: 93:3 Voir _Actus B. Francisci_, etc., éd. Sabatier, p. 63. M. Sabatier attribue la paternité de cette compilation (qui contient, comme on le sait maintenant, entre autres choses, le texte latin original du traditionnel _Fioretti_) à Fra Ugolino di Monte Giorgio, et estime sa date entre 1280 et 1320. C'est cependant par Thomas de Celano que nous savons que saint p. 94François a écrit une lettre à Dame Giacoma (Voir _Tr. de Miraculis in Anal. Bolland._, t. xviii). Voir aussi _Spec. Perf._ (éd. Sabatier), c. XII, pour référence à cette lettre. Le récit de Celano rend le texte de la lettre donné dans l'Actus très douteux. Le fait que l'expression « saint L'utilisation de « Marie des Anges » pour désigner la Portioncule suffit à elle seule à contredire son authenticité. Ni saint François ni ses compagnons n'ont jamais employé ce terme ; ils disaient invariablement « Sainte Marie de la Portioncule ». Tout document contenant la première expression témoigne donc d'une origine au XIVe siècle au plus tôt. Voir Frère Jacqueline : Recherches historiques, par le père Édouard d'Alençon, Paris, 1899.
 
-[^372]: 94:1 Voir ci-dessus, pp. [23](Part_1_3#p23), [77](Part_1_5#p77), [78](Part_1_5#p78).
+[^372]: 94:1 Voir ci-dessus, pp. [23](../Part_1_3#p23), [77](../Part_1_5#p77), [78](../Part_1_5#p78).
 
 [^373]: 95:1 La lettre que Wadding a traduite de l'espagnol, sous ce titre et numérotée XIV, semble avoir été une version incomplète de la lettre ici donnée dans son intégralité.

@@ -82,7 +82,7 @@ Afin que cette écriture soit mieux observée, garde-la avec toi jusqu'à la Pen
 
 ## Notes de bas de page
 
-[^482]: 119:1 Il se réfère aux « chapitres qui parlent du péché mortel » qui ne se trouvent que dans la Première Règle (voir pp. [37](Part_1_4#p37), [47](Part_1_4#p47), [53](Part_1_4#p53)), et parle de changements proposés dans la Règle qui n'auraient pas pu, comme il est clair, être faits après novembre 1223. En particulier, le sujet du dixième chapitre de la nouvelle Règle discuté dans le Chapitre tenu à Portioncule, le 11 juin de cette année (voir _Spec. Perf._, éd. Sabatier, c. t), est mentionné comme n'étant pas encore définitivement réglé.
+[^482]: 119:1 Il se réfère aux « chapitres qui parlent du péché mortel » qui ne se trouvent que dans la Première Règle (voir pp. [37](../Part_1_4#p37), [47](../Part_1_4#p47), [53](../Part_1_4#p53)), et parle de changements proposés dans la Règle qui n'auraient pas pu, comme il est clair, être faits après novembre 1223. En particulier, le sujet du dixième chapitre de la nouvelle Règle discuté dans le Chapitre tenu à Portioncule, le 11 juin de cette année (voir _Spec. Perf._, éd. Sabatier, c. t), est mentionné comme n'étant pas encore définitivement réglé.
 
 [^483]: 119:2 Voir _Quellen_, etc. t. XXII, p. 547.
 
@@ -116,12 +116,12 @@ Afin que cette écriture soit mieux observée, garde-la avec toi jusqu'à la Pen
 
 [^498]: 123:1 Le manuscrit napolitain pour « apparaît » dit « péchés ».
 
-[^499]: 123:2 Chap. V, XIII et XX de la première Règle. (Voir ci-dessus, pp. [37](Part_1_4#p37), [47](Part_1_4#p47) et [53](Part_1_4#p53).)
+[^499]: 123:2 Chap. V, XIII et XX de la première Règle. (Voir ci-dessus, pp. [37](../Part_1_4#p37), [47](../Part_1_4#p47) et [53](../Part_1_4#p53).)
 
 [^500]: 123:3 Voir Matthieu 9: 12.
 
 [^501]: 123:4 Cod. O. se lit : « un autre ».
 
-[^502]: 124:1 Au chap. XX de la Première Règle (voir ci-dessus, [p. 53](Part_1_4#p53)). Le passage entre parenthèses est la partie omise par Wadding et ceux qui l'ont suivi.
+[^502]: 124:1 Au chap. XX de la Première Règle (voir ci-dessus, [p. 53](../Part_1_4#p53)). Le passage entre parenthèses est la partie omise par Wadding et ceux qui l'ont suivi.
 
 [^503]: 124:2 Voir Jean 8: 11.

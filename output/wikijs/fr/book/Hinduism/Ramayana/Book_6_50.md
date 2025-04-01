@@ -314,7 +314,7 @@ Et ils lancèrent leurs flèches à la tête et à la poitrine ;
 Mais, lorsque la pluie de fer fut terminée,
 Il lança quatre flèches de son arc,
 Et chaque missile, habilement lancé ;
-Une tête géante a été détachée du tronc. [1](Book_6_50#fn961)
+Une tête géante a été détachée du tronc. [1](../Book_6_50#fn961)
 
 
 
@@ -355,7 +355,7 @@ La poussière aveuglante s'éleva des prairies
 Labouré par les voitures et les chevaux piétinants,
 Et là où les guerriers sont tombés, le déluge
 C'était sombre et terrible avec du sang.
-Six géants [1b](Book_6_50#fn962) ont distingué Ráma,
+Six géants [1b](../Book_6_50#fn962) ont distingué Ráma,
 Et le chargea avec un cri furieux
 Fort comme le rugissement de la mer
 Quand chaque vent fait rage librement.
@@ -372,7 +372,7 @@ Comme brille dans les nuits d'automne un vallon
 Quelles lucioles, filant à travers l'obscurité,
 Avec une lumière momentanée illuminée.
 
-Mais Indrajit, lorsque le fils de Báli [2b](Book_6_50#fn963)
+Mais Indrajit, lorsque le fils de Báli [2b](../Book_6_50#fn963)
 La victoire sur l'ennemi avait été remportée.
 J'ai vu avec un œil enflammé de fureur
 Ses montures mutilées et son conducteur meurent ;
@@ -393,7 +393,7 @@ Et les fils de Raghu furent les premiers à ressentir
 La tempête de son acier ailé.
 Puis, lorsque ses flèches n'ont pas réussi à tuer
 Les princes qui le défiaient encore,
-Il les lia avec le nœud coulant du serpent, [3b](Book_6_50#fn964)
+Il les lia avec le nœud coulant du serpent, [3b](../Book_6_50#fn964)
 Le lien magique que personne ne peut perdre.
 
 

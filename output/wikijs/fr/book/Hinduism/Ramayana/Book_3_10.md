@@ -508,7 +508,7 @@ Je me suis réjoui de le voir mourir.
 Puis ils s'égarèrent dans la forêt sans limites,
 
 Comme le grand soleil et la lune affichés
-Triomphant dans le ciel. [1](Book_3_10#fn410)
+Triomphant dans le ciel. [1](../Book_3_10#fn410)
 
 \* \* \* \* \*
 

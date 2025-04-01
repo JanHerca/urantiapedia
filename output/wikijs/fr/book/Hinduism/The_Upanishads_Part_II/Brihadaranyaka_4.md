@@ -326,9 +326,9 @@ Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons e
 
 Alors Yâ<i>g</i>_ñ_avalkya eut peur que le roi, devenu plein de compréhension, ne le chasse de toutes ses positions [^504].
 
-34\. Et Yâ<i>g</i>_ñ_avalkya dit : « Cette personne, s'étant amusée dans cet état de sommeil (rêve), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> s'étant déplacée et ayant vu à la fois le bien et le mal, se hâte de revenir comme elle est venue, à l'endroit d'où elle est partie, à l'état de veille [1](Brihadaranyaka_4#fn505).
+34\. Et Yâ<i>g</i>_ñ_avalkya dit : « Cette personne, s'étant amusée dans cet état de sommeil (rêve), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> s'étant déplacée et ayant vu à la fois le bien et le mal, se hâte de revenir comme elle est venue, à l'endroit d'où elle est partie, à l'état de veille [1](../Brihadaranyaka_4#fn505).
 
-35\. « Maintenant, comme un chariot lourdement chargé avance en gémissant, ainsi ce Soi corporel, monté par le Soi intelligent, avance en gémissant, alors qu'un homme est sur le point d'expirer [2](Brihadaranyaka_4#fn506). »
+35\. « Maintenant, comme un chariot lourdement chargé avance en gémissant, ainsi ce Soi corporel, monté par le Soi intelligent, avance en gémissant, alors qu'un homme est sur le point d'expirer [2](../Brihadaranyaka_4#fn506). »
 
 36\. « Et lorsque (le corps) s'affaiblit à cause de la vieillesse, ou devient faible à cause de la maladie, à ce moment-là, cette personne, après s'être séparée de ses membres, comme un Amra (mangue), ou un Udumbara (figue), ou un fruit de Pippala est séparé de la tige, se hâte de revenir comme il est venu, à l'endroit d'où il a commencé, à (une nouvelle) vie.
 
@@ -466,7 +466,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 Mais il répondit : « Ô Maîtreyî, je ne dis rien qui soit déconcertant. En vérité, bien-aimé, ce Soi est impérissable et d'une nature indestructible.
 
-15\. Car lorsqu'il y a comme dualité, alors l'un voit l'autre, l'un sent l'autre, l'un goûte l'autre, l'un salue l'autre, l'un entend l'autre, l'un perçoit l'autre, l'un touche l'autre, l'un connaît l'autre ; mais lorsque le Soi seul est tout cela, comment pourrait-il voir l'autre, comment pourrait-il sentir l'autre, comment pourrait-il goûter l'autre, comment pourrait-il saluer l'autre, comment pourrait-il entendre l'autre, comment pourrait-il toucher l'autre, comment pourrait-il connaître l'autre ? Comment pourrait-il connaître Celui par qui il connaît tout cela ? Ce Soi doit être décrit par Non, non [1](Brihadaranyaka_4#fn544) ! Il est incompréhensible, car il ne peut être compris ; il est impérissable, car il ne peut périr ; il est libre, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. Comment, ô bien-aimé, pourrait-il connaître le Connaisseur ? Ainsi, ô Maître, tu as été instruit. « Jusqu'où va l'immortalité. » Ayant dit cela, Yâ<i>g</i>_ñ_avalkya s'en alla (dans la forêt).
+15\. Car lorsqu'il y a comme dualité, alors l'un voit l'autre, l'un sent l'autre, l'un goûte l'autre, l'un salue l'autre, l'un entend l'autre, l'un perçoit l'autre, l'un touche l'autre, l'un connaît l'autre ; mais lorsque le Soi seul est tout cela, comment pourrait-il voir l'autre, comment pourrait-il sentir l'autre, comment pourrait-il goûter l'autre, comment pourrait-il saluer l'autre, comment pourrait-il entendre l'autre, comment pourrait-il toucher l'autre, comment pourrait-il connaître l'autre ? Comment pourrait-il connaître Celui par qui il connaît tout cela ? Ce Soi doit être décrit par Non, non [1](../Brihadaranyaka_4#fn544) ! Il est incompréhensible, car il ne peut être compris ; il est impérissable, car il ne peut périr ; il est libre, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. Comment, ô bien-aimé, pourrait-il connaître le Connaisseur ? Ainsi, ô Maître, tu as été instruit. « Jusqu'où va l'immortalité. » Ayant dit cela, Yâ<i>g</i>_ñ_avalkya s'en alla (dans la forêt).
 
 
 ## SIXIÈME BRÂHMA<i>N</i>A.

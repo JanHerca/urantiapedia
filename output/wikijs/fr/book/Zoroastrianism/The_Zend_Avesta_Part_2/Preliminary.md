@@ -93,7 +93,7 @@ Cependant, tous les Ya<i>s</i>t ne sont pas consacrés à l'Ized dont ils porten
 
 L'ordre systématique si apparent dans la Sîrôzah imprègne dans une large mesure le reste de la liturgie : l'énumération des Izeds dans Yasna XVII, 12-4a (XVI, 3-6) suit exactement l'ordre de la Sîrôzah, sauf qu'elle ne donne que le premier nom de chaque formule ; et la question peut être posée de savoir si ce passage de la Yasna est tiré de la Sîrôzah, ou si la Sîrôzah est développée à partir de la Yasna.
 
-L'idée même de la Sîrôzah, c'est-à-dire l'attribution de chacun des trente jours du mois à certains dieux, semble avoir été empruntée aux Sémites : les tablettes retrouvées dans la bibliothèque d'Assurbanipal contiennent une Sîrôzah assyrienne, c'est-à-dire une liste complète des dieux assyriens qui président aux trente jours du mois [1](Sirozahs_1#fn4).
+L'idée même de la Sîrôzah, c'est-à-dire l'attribution de chacun des trente jours du mois à certains dieux, semble avoir été empruntée aux Sémites : les tablettes retrouvées dans la bibliothèque d'Assurbanipal contiennent une Sîrôzah assyrienne, c'est-à-dire une liste complète des dieux assyriens qui président aux trente jours du mois [1](../Sirozahs_1#fn4).
 
 
 <figure class="table chapter-navigator">

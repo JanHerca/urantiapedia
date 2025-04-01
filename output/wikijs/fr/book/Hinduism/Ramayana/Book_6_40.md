@@ -598,7 +598,7 @@ Il a placé le guerrier Indrajit,
 Son fils, la joie et la vantardise du géant,
 Entouré d'une armée de Rákshas :
 Et la puissante Sarah s'est précipitée
-Avec Suka pour protéger le nord. [1b](Book_6_40#fn955)
+Avec Suka pour protéger le nord. [1b](../Book_6_40#fn955)
 « Je le ferai moi-même », s’écria le monarque,
 « Soyez présent du côté nord. »
 Ces ordres pour la défense des murs
@@ -651,7 +651,7 @@ Maniez des masses, des épées et des lances, et tenez-vous debout.
 
 Tous ceux-ci sont des chefs que Rávan ​​a choisis
 Comme le plus puissant pour résister à ses ennemis ;
-Et chacun une armée innombrable [1](Book_6_40#fn957) mène
+Et chacun une armée innombrable [1](../Book_6_40#fn957) mène
 Avec des éléphants, des voitures et des chevaux.
 Alors Ráma, tandis que son esprit brûlait
 Pour la bataille, des mots comme ceux-ci sont revenus :
@@ -840,7 +840,7 @@ Ainsi avec leurs branches entrelacées,
 Qui, cramoisi des fleurs du printemps,
 D'un côté à l'autre, les brises se balancent,
 Dans une lutte furieuse, vous pouvez voir
-Le Kins'uk et l'arbre Seemal. [1](Book_6_50#fn958)
+Le Kins'uk et l'arbre Seemal. [1](../Book_6_50#fn958)
 Ils se sont battus avec les poings et les mains, pareillement
 Prêt à parer et à frapper.
 Longtemps le combat douteux, mené

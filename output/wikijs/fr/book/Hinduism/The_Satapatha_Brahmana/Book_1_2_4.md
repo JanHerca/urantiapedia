@@ -239,7 +239,7 @@ L'accomplissement du sacrifice de la Dâkshâya<i>n</i>a n'était tenu pour obli
 
 [^791]: 357:1 Voir I, 9, 3, 21
 
-[^792]: 357:2 Pour cette forme plus courte d'adoration des feux, voir [p. 349](Book_1_2_3#p349), note [2](Book_1_2_3#fn781).
+[^792]: 357:2 Pour cette forme plus courte d'adoration des feux, voir [p. 349](../Book_1_2_3#p349), note [2](../Book_1_2_3#fn781).
 
 [^793]: 357:3 C'est-à-dire un voyage qui l'obligera à passer la nuit au-delà des limites du village.
 
@@ -315,7 +315,7 @@ L'accomplissement du sacrifice de la Dâkshâya<i>n</i>a n'était tenu pour obli
 
 [^829]: 371:2 Ou bien, il peut le faire. Kâty. IV, 6, 7 laisse le choix entre le grain nouveau et le grain ancien.
 
-[^830]: 372:1 Il s'agit d'une oblation « à voix basse », les prières d'invitation et d'offrande (à l'exception des prières finales « Vausha<i>t</i> » et « Om ») étant prononcées à voix basse. Voir [p. 171](Book_1_1_6#p171), note [1](Book_1_1_6#fn395) ; [p. 192](Book_1_1_7#p192), note [1](Book_1_1_7#fn439).
+[^830]: 372:1 Il s'agit d'une oblation « à voix basse », les prières d'invitation et d'offrande (à l'exception des prières finales « Vausha<i>t</i> » et « Om ») étant prononcées à voix basse. Voir [p. 171](../Book_1_1_6#p171), note [1](../Book_1_1_6#fn395) ; [p. 192](../Book_1_1_7#p192), note [1](../Book_1_1_7#fn439).
 
 [^831]: 372:2 Le texte Kânva dit : « La raison pour laquelle il est constitué d'un seul kapâla est que cette terre est un kapâla, et qu'elle n'est qu'une. »
 

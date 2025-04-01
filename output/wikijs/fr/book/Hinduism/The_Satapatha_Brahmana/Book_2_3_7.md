@@ -217,11 +217,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^440]: 168:1 De la partie de l'arbre coupée du poteau sacrificiel, on fait une pièce supérieure ou un anneau de tête (<i>k</i>ashâla) d'environ huit ou neuf pouces de haut, à huit coins (comme le poteau sacrificiel) ; plus étroite au milieu comme un mortier, et creusée de manière à permettre sa fixation sur le poteau.
 
-[^441]: 168:2 Voir [III, 6, 1, 7](Book_2_3_6#v3_6_1_7) seq.
+[^441]: 168:2 Voir [III, 6, 1, 7](../Book_2_3_6#v3_6_1_7) seq.
 
-[^442]: 168:3 Pour la construction, voir [p. 15](Book_2_3_1#p15), note [3](Book_2_3_1#fn55).
+[^442]: 168:3 Pour la construction, voir [p. 15](../Book_2_3_1#p15), note [3](../Book_2_3_1#fn55).
 
-[^443]: 169:1 Voir [III, 6, 4, 11](Book_2_3_6#v3_6_4_11).
+[^443]: 169:1 Voir [III, 6, 4, 11](../Book_2_3_6#v3_6_4_11).
 
 [^444]: 169:2 Les Unnetri sont les prêtres qui doivent tirer le Soma.
 
@@ -229,11 +229,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^446]: 170:2 Pippala fait particulièrement référence à la baie ou au fruit du Ficus Religiosa.
 
-[^447]: 171:1 Les mêmes formules sont utilisées à cette occasion qu'à [III, 6, 1, 17](Book_2_3_6#v3_6_1_17)\-[18](Book_2_3_6#v3_6_1_18).
+[^447]: 171:1 Les mêmes formules sont utilisées à cette occasion qu'à [III, 6, 1, 17](../Book_2_3_6#v3_6_1_17)\-[18](../Book_2_3_6#v3_6_1_18).
 
 [^448]: 172:1 Selon le texte Kânva, il doit être suspendu autour du nîvídaghne, « au niveau du vêtement inférieur » (nâbhidaghne, Taitt. S. VI, 3, 4, 5). Selon Kâty. VI, 3, 1, la ceinture est précédée d'un appel au Hotri pour qu'il récite au poste en cours d'onction ; mais aucune des deux recension ne le mentionne.
 
-[^449]: 173:1 Lorsqu'au lieu d'un seul bouc pour Agni, onze victimes sont sacrifiées, elles sont soit attachées chacune à un poteau, soit toutes à un seul et même poteau. Voir [III, 9, 1, 4](Book_2_3_9#v3_9_1_4) seq. Le fragment auquel il est fait allusion est l'un de ceux obtenus en dégrossissant le poteau et en le rendant octogonal.
+[^449]: 173:1 Lorsqu'au lieu d'un seul bouc pour Agni, onze victimes sont sacrifiées, elles sont soit attachées chacune à un poteau, soit toutes à un seul et même poteau. Voir [III, 9, 1, 4](../Book_2_3_9#v3_9_1_4) seq. Le fragment auquel il est fait allusion est l'un de ceux obtenus en dégrossissant le poteau et en le rendant octogonal.
 
 [^450]: 174:1 Sur les « sâdhyas », voir Weber, Ind. Stud. IX, p. 6, note 2.
 
@@ -241,7 +241,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^452]: 175:2 Voir Réf. Fr. II, 3.
 
-[^453]: 175:3 L'offrande des copeaux n'a lieu qu'à la fin des offrandes ultérieures (voir note de [III, 8, 5, 6](Book_2_3_8#v3_8_5_6)). Il est quelque peu étrange qu'elle soit anticipée à cet endroit, à la fois dans cette recension et dans celle de Kânva.
+[^453]: 175:3 L'offrande des copeaux n'a lieu qu'à la fin des offrandes ultérieures (voir note de [III, 8, 5, 6](../Book_2_3_8#v3_8_5_6)). Il est quelque peu étrange qu'elle soit anticipée à cet endroit, à la fois dans cette recension et dans celle de Kânva.
 
 [^454]: 176:1 Aucune explication satisfaisante de « prakubratâ » ne me vient à l'esprit. Il semble dériver de « kubra », auquel les dictionnaires attribuent les significations de « trou pour le feu sacrificiel » et de « fil » (outre celles de « forêt », « boucle d'oreille » et « charrette »). U<i>n</i>âd. II, 28, fait dériver ce terme de la racine « kub », qui signifie couvrir, abriter. Pour la fondation sûre (ou la prolongation) de la fête du Soma de demain. Le texte du Kâ<i>n</i>va, quant à lui, dit : « Certains, maintenant, augmentent tous les enjeux de l'upavasatha (la veille de la fête du Soma) afin d'accélérer (?prakudratâyai) le travail, pensant : « Nous allons rapidement mettre fin au sacrifice. »
 

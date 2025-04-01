@@ -76,7 +76,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 ## Notes de bas de page
 
-[^546]: 176:1 Voir notre septième note, [p. 172](Treatise12_Sabbath_23#p172), et la section suivante de cette Mishna.
+[^546]: 176:1 Voir notre septième note, [p. 172](../Treatise12_Sabbath_23#p172), et la section suivante de cette Mishna.
 
 [^547]: 176:2 La formulation et la collocation des phrases dans cette section de la Mishna sont si obscures qu'elles paraissent contradictoires et inintelligibles, sans beaucoup d'interpolation ni de modification de la collocation des phrases. Voici son véritable sens : « À trois périodes de l'année, qui sont les jours de jeûne, les jeûnes des hommes debout et le jour des expiations, les prêtres lèveront les mains trois fois pour chaque prière, à savoir le matin, l'après-midi et la prière de clôture, et à l'une de ces occasions [à savoir le jour des expiations, où l'on récite la ‏מוסף‎, ou prière supplémentaire] quatre fois. »
 

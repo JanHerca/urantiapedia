@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^886]: 261:1 Comme par l'acte des fiançailles, et aussi par le rite du mariage, le mari acquiert un droit absolu et exclusif de posséder et de jouir de la personne de la femme, il s'ensuit que par le même acte il acquiert un droit égal sur ses biens, qui en fait ne sont qu'un appendice de sa personne.
 
-[^887]: 262:2 Voir Note 1, [p. 260](Traité 14_Pesachim_2#p260).
+[^887]: 262:2 Voir Note 1, [p. 260](../Traité 14_Pesachim_2#p260).
 
 [^888]: 262:3 Établit une règle de procédure différente dans des cas différents.
 

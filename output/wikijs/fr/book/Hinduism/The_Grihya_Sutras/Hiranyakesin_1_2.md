@@ -255,7 +255,7 @@ Fin du deuxième Pa<i>t</i>ala.
 
 [^501]: 150:2 2 seq. Comp. Gobhila II, 20, 21 seq.; Pâraskara II, 2, 6; <i>S</i>âṅkhâyana II, 2, 4, etc.
 
-[^502]: 150:5 Mât<i>ri</i>datta, 'Comme il est dit ci-dessous, “il prononce ses deux noms” (Sûtra 6), l'étudiant devrait ici aussi prononcer ses deux noms, par exemple, “Je suis Devadatta, Kârttika.”'
+[^502]: 150:5 Mât<i>ri</i>datta, 'Comme il est dit ci-dessous, « il prononce ses deux noms » (Sûtra 6), l'étudiant devrait ici aussi prononcer ses deux noms, par exemple, « Je suis Devadatta, Kârttika. »'
 
 [^503]: 150:6 'Son nom commun (vyâvahârika) et son nom Nakshatra.' Mât<i>ri</i>datta.
 

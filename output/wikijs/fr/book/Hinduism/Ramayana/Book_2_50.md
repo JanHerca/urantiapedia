@@ -71,14 +71,14 @@ Et les éléphants jetaient leur nourriture de côté.
 
 <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
-Tris'anku, [1](Book_2_50#fn315) Jupiter avait l'air effrayé,
+Tris'anku, [1](../Book_2_50#fn315) Jupiter avait l'air effrayé,
 Et Mercure et Mars le rouge,
 Dans une opposition terrible rencontrée,
 La gloire de la lune assaillit.
 Les étoiles lunaires ont retenu leur lumière,
 Les planètes n'étaient plus brillantes,
 Mais les météores avec leur éclat horrible,
-Et le terrible Vis'ákhás [2](Book_2_50#fn316) illumina l'air.
+Et le terrible Vis'ákhás [2](../Book_2_50#fn316) illumina l'air.
 Alors que l'océan troublé se soulève et s'agite
 Quand la tempête sauvage du Destin balaie les vagues,
 Ainsi tout Ayodhyá chancela et se courba

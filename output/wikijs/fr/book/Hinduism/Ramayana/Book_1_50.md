@@ -116,12 +116,12 @@ Autour de lui, ils marchaient d'un pas solennel,
 Et l'honora de salutations aimables,
 Puis, toujours vers le bas, ils creusèrent leur chemin.
 Ils ont gagné la région entre l'est et le nord
-Dont la renommée est toujours proclamée, [1b](Book_1_50#fn189)
+Dont la renommée est toujours proclamée, [1b](../Book_1_50#fn189)
 Et poussé par une tempête de rage,
 Ils creusèrent la terre et maintinrent leur cap.
 Alors tous les princes, à l'âme altière,
 D'une vigueur merveilleuse, fort et audacieux,
-J'ai vu Vásudeva [2b](Book_1_50#fn190) debout là
+J'ai vu Vásudeva [2b](../Book_1_50#fn190) debout là
 Il aimait porter la forme de Kapil,
 Et près du Dieu éternel
 Le chargeur victime a coupé le gazon.
@@ -132,7 +132,7 @@ En criant à haute voix, Lève-toi, méchant ! Lève-toi !
 « En avant ! En avant ! » s'écria le grand Kapil,
 Son sein était gonflé par la marée de la passion ;
 Alors, par sa puissance, cette fière armée
-Tout était réduit en cendres. [3b](Book_1_50#fn191)
+Tout était réduit en cendres. [3b](../Book_1_50#fn191)
 
 
 
@@ -224,7 +224,7 @@ Reviens, et prends avec toi le coursier ;
 Ainsi réussira le rite de ton grand-père.
 
 Prince Ans'umán le fort et le courageux
-Suivit le rede Suparna [1b](Book_1_50#fn193) donné.
+Suivit le rede Suparna [1b](../Book_1_50#fn193) donné.
 Le glorieux héros prit le cheval,
 Et il retourna rapidement chez lui.
 Il se dirigea droit vers le roi inquiet,
@@ -338,7 +338,7 @@ Sa réponse fut faite avec des mots doux et gentils.
 Bhagirath de la puissante voiture !
 La lignée d'Ikshváku est bénie en toi,
 Et il sera fait comme tu le demandes.
-Gangá, dont les vagues coulent dans Swarga [1b](Book_1_50#fn196),
+Gangá, dont les vagues coulent dans Swarga [1b](../Book_1_50#fn196),
 C'est la fille du Seigneur des Neiges.
 Win S'iva que son aide lui soit prêtée
 Pour la retenir dans sa descente,
@@ -348,7 +348,7 @@ Et personne ne peut supporter son poids à part Lui,
 La divinité brandissant le Trident.
 Ainsi, ayant dit cela, le Seigneur suprême
 Il s'adressa au courant céleste ;
-Et puis avec les Dieux et les Maruts [2b](Book_1_50#fn197) est allé
+Et puis avec les Dieux et les Maruts [2b](../Book_1_50#fn197) est allé
 Au ciel au-dessus du firmament.
 
 
@@ -769,7 +769,7 @@ Un lotus dans sa main parfaite,
 Et tendrement, du lotus jailli,
 Vishnu, porteur de lotus, s'accrochait.
 Ses dieux d'en haut et ses hommes d'en bas
-Comme le savent la Reine de Beauté et la Fortune. [1b](Book_1_50#fn210)
+Comme le savent la Reine de Beauté et la Fortune. [1b](../Book_1_50#fn210)
 Dieux, Titans et le train des ménestrels
 Le principal problème était toujours agité et travaillé.
 Enfin, le prix si follement recherché,
@@ -792,7 +792,7 @@ Oui, Vishnu, Dieu omniprésent,
 Sous ses pieds marchaient les Titans
 La race d'Aditi, les fils de la lumière,
 a tué la progéniture de Diti dans un combat cruel.
-Puis, détruisant la ville [2b](Book_1_50#fn211), Indra gagna
+Puis, détruisant la ville [2b](../Book_1_50#fn211), Indra gagna
 Son empire, et dans la gloire régnait
 Sur les trois mondes avec barde et sage
 Se réjouissant de son héritage.
@@ -857,7 +857,7 @@ Et tu verras un nouveau frère.
 Pour ton bien, je l'élèverai noblement,
 Et son âme sera nourrie du désir de la guerre ;
 Alors, libre de tout souci et de tout chagrin,
-« Il verra les mondes s'incliner devant lui. » [1](Book_1_50#fn212)
+« Il verra les mondes s'incliner devant lui. » [1](../Book_1_50#fn212)
 
 
 
@@ -1061,7 +1061,7 @@ Et rends le pécheur à nouveau pur.
 L'honneur qui lui est dû, à lui, ton invité,
 Purifiera ta poitrine chétive et errante,
 Restaure-toi à mes côtés dans la félicité,
-Et redonne ta forme originelle.' [1](Book_1_50#fn218)
+Et redonne ta forme originelle.' [1](../Book_1_50#fn218)
 
 Ainsi, il dit à sa femme coupable :
 Alors le saint Gautam s'enfuit au loin.

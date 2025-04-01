@@ -87,7 +87,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 1\. La volonté [^304] (saṅkalpa) est meilleure que l'esprit. Car lorsqu'un homme veut, il pense mentalement, puis il émet une parole, et il l'émet dans un nom. Dans un nom sont contenus les hymnes sacrés, dans les hymnes sacrés tous les sacrifices.
 
-2\. 'Tout cela donc (en commençant par l'esprit et <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> se terminant par le sacrifice) se centre dans la volonté, consiste en volonté, demeure dans la volonté. Le ciel et la terre ont voulu, l'air et l'éther ont voulu, l'eau et le feu ont voulu. Par la volonté du ciel et de la terre, etc., la pluie veut ; par la volonté de la pluie, la nourriture veut ; par la volonté de la nourriture, les airs vitaux veulent ; par la volonté des airs vitaux, les hymnes sacrés veulent ; par la volonté des hymnes sacrés, les sacrifices veulent ; par la volonté des sacrifices, le monde (en récompense) veut ; par la volonté du monde, tout veut [1](Khandogya_7#fn305). Ceci est la volonté. Méditez sur la volonté.
+2\. 'Tout cela donc (en commençant par l'esprit et <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> se terminant par le sacrifice) se centre dans la volonté, consiste en volonté, demeure dans la volonté. Le ciel et la terre ont voulu, l'air et l'éther ont voulu, l'eau et le feu ont voulu. Par la volonté du ciel et de la terre, etc., la pluie veut ; par la volonté de la pluie, la nourriture veut ; par la volonté de la nourriture, les airs vitaux veulent ; par la volonté des airs vitaux, les hymnes sacrés veulent ; par la volonté des hymnes sacrés, les sacrifices veulent ; par la volonté des sacrifices, le monde (en récompense) veut ; par la volonté du monde, tout veut [1](../Khandogya_7#fn305). Ceci est la volonté. Méditez sur la volonté.
 
 3\. « Celui qui médite sur la volonté en tant que Brahman, étant lui-même en sécurité, ferme et sans détresse, obtient les mondes sûrs, fermes et sans détresse qu'il a voulus ; il est, pour ainsi dire, seigneur et maître aussi loin que la volonté atteint — celui qui médite sur la volonté en tant que Brahman. »
 
@@ -245,7 +245,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 4\. « L'esprit est donc tout cela. Celui qui voit cela, perçoit cela et comprend cela, devient un ativâdin [^316]. Si les gens disent à un tel homme : Tu es un ativâdin, il peut répondre : Je suis un ativâdin ; il n'a pas besoin de le nier. »
 
 
-## SEIZIÈME KHANDA [1](Khandogya_7#fn317).
+## SEIZIÈME KHANDA [1](../Khandogya_7#fn317).
 
 1\. « Mais en réalité, c'est un ativâdin qui déclare que l'Être suprême est le Vrai (Satya, τὸ ὄντως ὄν). »
 
@@ -258,7 +258,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 
 ## DIX-SEPTIÈME KHA<i>N</i><i>D</i>A.
 
-1\. « Quand on comprend le Vrai, on le déclare. Celui qui ne le comprend pas ne déclare pas le Vrai [2](Khandogya_7#fn318). Seul celui qui le comprend déclare le Vrai. Cette compréhension, cependant, nous devons désirer la comprendre. »
+1\. « Quand on comprend le Vrai, on le déclare. Celui qui ne le comprend pas ne déclare pas le Vrai [2](../Khandogya_7#fn318). Seul celui qui le comprend déclare le Vrai. Cette compréhension, cependant, nous devons désirer la comprendre. »
 
 « Monsieur, je désire le comprendre. »
 
@@ -303,7 +303,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 
 ## VINGT-TROISIÈME KHA<i>N</i><i>D</i>A.
 
-1\. « L'Infini (bhûman) [1](Khandogya_7#fn320) est félicité. Il n'y a de félicité dans rien de fini. Seule l'infinité est félicité. Cette infinité, cependant, nous devons désirer la comprendre. »
+1\. « L'Infini (bhûman) [1](../Khandogya_7#fn320) est félicité. Il n'y a de félicité dans rien de fini. Seule l'infinité est félicité. Cette infinité, cependant, nous devons désirer la comprendre. »
 
 « Monsieur, je désire le comprendre. »
 
@@ -313,7 +313,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 
 « Monsieur, en quoi repose l'Infini ? »
 
-« Dans sa propre grandeur — ou même pas dans sa grandeur [2](Khandogya_7#fn321). »
+« Dans sa propre grandeur — ou même pas dans sa grandeur [2](../Khandogya_7#fn321). »
 
 2. « Dans le monde, on appelle grandeur les vaches et les chevaux, les éléphants et l'or, les esclaves, les épouses, les champs et les maisons. Je ne veux pas dire cela », dit-il ainsi ; « car dans ce cas, un être (le possesseur) repose sur quelque chose d'autre (mais l'Infini ne peut reposer sur quelque chose d'autre que lui-même). »
 

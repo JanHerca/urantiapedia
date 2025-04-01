@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T22:26:32Z
 
 ## LE ROI SHIH. I. ODES DU TEMPLE ET DE L'AUTEL.
 
-Il a été déclaré dans l'introduction, [p. 278](Shih_King_Intro_1#p278), que les poèmes de la quatrième partie du Shih sont les seuls qui sont prétendument religieux ; et il y en a même certains, comme on le verra, qui n'ont guère de prétention, pour des raisons internes, à être considérés comme tels.
+Il a été déclaré dans l'introduction, [p. 278](../Shih_King_Intro_1#p278), que les poèmes de la quatrième partie du Shih sont les seuls qui sont prétendument religieux ; et il y en a même certains, comme on le verra, qui n'ont guère de prétention, pour des raisons internes, à être considérés comme tels.
 
 Je commence par eux mes sélections du Shih pour les Livres sacrés des religions d'Orient. Je les citerai tous, à l'exception des deux premières Odes de Louange à Lû, dont je trouverai la raison lorsque j'aborderai cette section de la partie.
 

@@ -72,7 +72,7 @@ Salut, [^136] reine sagesse ! Que le Seigneur te sauve avec ta sœur la sainte e
 
 [^130]: 20:1 « C'est pourquoi », écrit-il de saint François, « dans les louanges des vertus qu'il a composées, il dit : « Salut ! reine sagesse, que Dieu te garde avec ta sœur la pure et sainte simplicité. » Voir _2 Cel_. 3, 119, pour cet _Incipit_.
 
-[^131]: 20:2 Voir page [3](Part_1_1#p3).
+[^131]: 20:2 Voir page [3](../Part_1_1#p3).
 
 [^132]: 20:3 Dans le texte des _Conformités_ (qui concorde en grande partie avec celui du manuscrit d'Ognissanti), la Salutation est précédée du n° 27 des Admonitions et commence par les mots « Il n'y a absolument aucun homme », etc.
 

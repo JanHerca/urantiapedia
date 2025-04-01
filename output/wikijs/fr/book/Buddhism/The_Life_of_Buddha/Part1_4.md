@@ -43,7 +43,7 @@ Le roi lui témoigna les politesses que la coutume lui prescrivait et s'adressa 
 
 L'ermite, les yeux brillants de joie, prononça gravement ces paroles :
 
-« Cela t'est arrivé, ô roi noble, généreux et hospitalier, parce que tu aimes le devoir et que tu es toujours bienveillant envers les sages et les riches. Cela t'est arrivé parce que tes ancêtres, bien que riches en terres <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> et en or, étaient surtout riches en vertu. Sache la raison de ma venue, ô roi, et réjouis-toi. J'ai entendu une voix divine dans les airs qui disait : “Un fils est né au roi des Sakyas, un fils qui aura la vraie connaissance.” J'ai entendu ces paroles, et je suis venu, et mes yeux contempleront désormais la gloire des Sakyas.” »
+« Cela t'est arrivé, ô roi noble, généreux et hospitalier, parce que tu aimes le devoir et que tu es toujours bienveillant envers les sages et les riches. Cela t'est arrivé parce que tes ancêtres, bien que riches en terres <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> et en or, étaient surtout riches en vertu. Sache la raison de ma venue, ô roi, et réjouis-toi. J'ai entendu une voix divine dans les airs qui disait : « Un fils est né au roi des Sakyas, un fils qui aura la vraie connaissance. » J'ai entendu ces paroles, et je suis venu, et mes yeux contempleront désormais la gloire des Sakyas.” »
 
 Submergé de joie, le roi alla chercher l'enfant. Le prenant du sein de sa nourrice, il le montra à la vieille Asita.
 

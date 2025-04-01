@@ -654,8 +654,8 @@ Ps. 95: 8. Apportez au Seigneur la gloire de son nom. Apportez vos propres corps
 
 [^575]: 155:4 Voir ci-dessus, p. 3-4. D'autres manuscrits contenant l'Office sont énumérés par Wadding. Voir aussi les _Analekten_ de Boehmer.
 
-[^576]: 155:5 Voir ci-dessus, [p. 139](Part_3_1#p139).
+[^576]: 155:5 Voir ci-dessus, [p. 139](../Part_3_1#p139).
 
-[^577]: 155:6 Voir ci-dessus, [p. 141](Part_3_1#p141).
+[^577]: 155:6 Voir ci-dessus, [p. 141](../Part_3_1#p141).
 
 [^578]: 166:1 Le Codex d’Oxford dit ici « jusqu’au dimanche de Pâques ».

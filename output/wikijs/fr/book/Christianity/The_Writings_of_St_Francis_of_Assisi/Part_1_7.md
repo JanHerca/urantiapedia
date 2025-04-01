@@ -78,7 +78,7 @@ Et ils ne doivent permettre à personne [^366] d'entrer dans le cloître où ils
 
 [^355]: 87:2 Voir _Floretum S. Francisci_, éd. Sabatier, cap. 16, p. 60. Ce chapitre, qui est l'un des plus intéressants au point de vue critique, représente saint François consultant sainte Claire et frère Sylvestre au sujet de son doute.
 
-[^356]: 87:3 Voir Première Règle, chap. vii (ci-dessus, [p. 40](Part_1_4#p40)); également _Speculum Perf._, éd. Sabatier, pp. 25-26.
+[^356]: 87:3 Voir Première Règle, chap. vii (ci-dessus, [p. 40](../Part_1_4#p40)); également _Speculum Perf._, éd. Sabatier, pp. 25-26.
 
 [^357]: 87:4 Comme le décrit avec beaucoup de poésie l'auteur du Sacrum Commercium. « Montrez-moi votre cloître », demande Dame Pauvreté aux frères. Et ceux-ci, la conduisant au sommet d'une colline, lui montrèrent le vaste monde en disant : « Ceci est notre cloître, ô Dame Pauvreté. » (Voir Dame Pauvreté, de M. Carmichael, p. 128.)
 

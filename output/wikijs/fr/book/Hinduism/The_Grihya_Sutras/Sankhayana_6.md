@@ -229,9 +229,9 @@ Fin du <i>S</i>âṅkhâyana-G<i>ri</i>hya.
 
 ## Notes de bas de page
 
-[^320]: 141:1 1, 1 seqq. Comp. les remarques générales sur ce sixième livre dans l'Introduction, [p. 11](Sankhayana_Intro#p11).
+[^320]: 141:1 1, 1 seqq. Comp. les remarques générales sur ce sixième livre dans l'Introduction, [p. 11](../Sankhayana_Intro#p11).
 
-Pour les noms dans l'invocation d'ouverture, voir ci-dessus, 1V, 10 ; sur les Vratas et l'étude des différentes sections d'Âra<i>n</i>yaka principalement traitées dans ce livre, voir ci-dessus, II, 11. 12, et l'Introduction, [p. 8](Sankhayana_Intro#p8).
+Pour les noms dans l'invocation d'ouverture, voir ci-dessus, 1V, 10 ; sur les Vratas et l'étude des différentes sections d'Âra<i>n</i>yaka principalement traitées dans ce livre, voir ci-dessus, II, 11. 12, et l'Introduction, [p. 8](../Sankhayana_Intro#p8).
 
 [^321]: 141:2 Comp. II, 11, 6.
 

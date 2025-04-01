@@ -221,7 +221,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 ## Notes de bas de page
 
-[^505]: 265:1 C'est-à-dire l'Ukhya Agni, ou le feu dans la poêle, que le Sacrificateur devra porter pendant son temps d'initiation ; et qui, de plus, est ici considéré comme étant le corps divin du Sacrificateur ([VI, 6, 4. 5](Book_3_6_6#v6_6_4_5)).
+[^505]: 265:1 C'est-à-dire l'Ukhya Agni, ou le feu dans la poêle, que le Sacrificateur devra porter pendant son temps d'initiation ; et qui, de plus, est ici considéré comme étant le corps divin du Sacrificateur ([VI, 6, 4. 5](../Book_3_6_6#v6_6_4_5)).
 
 [^506]: 265:2 Voir I, 3, 5, 12, — douze mois de l'année, cinq saisons et trois mondes : cela fait vingt ; et celui qui brûle là-bas est le vingt et unième. Voir aussi Ait. Br. IV, où le soleil est identifié avec le jour Ekavi<i>m</i><i>s</i>a ou Vishuvat, le jour central de l'année, par lequel les dieux ont élevé le soleil jusqu'aux cieux.
 
@@ -241,11 +241,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^514]: 271:1 C'est-à-dire de la casserole contenant le feu.
 
-[^515]: 271:2 Sâya<i>n</i>a (sur [VII, 2, 1, 15](Book_3_7_2#v7_2_1_15)) les explique comme deux boules de paille. La comparaison dans [26](Book_3_6_7#v6_7_1_26) indique plutôt qu'il s'agit de nattes rondes.
+[^515]: 271:2 Sâya<i>n</i>a (sur [VII, 2, 1, 15](../Book_3_7_2#v7_2_1_15)) les explique comme deux boules de paille. La comparaison dans [26](../Book_3_6_7#v6_7_1_26) indique plutôt qu'il s'agit de nattes rondes.
 
-[^516]: 271:3 Ainsi Sâya<i>n</i>a. Si, d'un autre côté, il s'agit d'Agni, cela pourrait être interprété comme une illusion par rapport au culte régulier du feu aux crépuscules du matin et du soir (cf. [VI, 7, 2, 3](Book_3_6_7#v6_7_2_3)).
+[^516]: 271:3 Ainsi Sâya<i>n</i>a. Si, d'un autre côté, il s'agit d'Agni, cela pourrait être interprété comme une illusion par rapport au culte régulier du feu aux crépuscules du matin et du soir (cf. [VI, 7, 2, 3](../Book_3_6_7#v6_7_2_3)).
 
-[^517]: 272:1 L'auteur donne maintenant des détails supplémentaires concernant les détails cérémoniels traités dans le chapitre précédent ([VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) seq.).
+[^517]: 272:1 L'auteur donne maintenant des détails supplémentaires concernant les détails cérémoniels traités dans le chapitre précédent ([VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) seq.).
 
 [^518]: 272:2 Littéralement, « vu » ou apparaissant (comme).
 
@@ -265,23 +265,23 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^526]: 275:2 Samuhya samuhya purîsha<i>m</i> tenaiva kevalena <i>k</i>iyata iti samuhyapurîsha<i>h</i>, Sây.
 
-[^527]: 275:3 Comme dans le cas du morceau d'argile, [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^527]: 275:3 Comme dans le cas du morceau d'argile, [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
-[^528]: 275:4 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^528]: 275:4 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^529]: 275:5 Ou les étapes de Vishnu, comme le terme, pour une raison particulière, a été traduit à [V, 4, 2, 6](Book_3_5_4#v5_4_2_6).
+[^529]: 275:5 Ou les étapes de Vishnu, comme le terme, pour une raison particulière, a été traduit à [V, 4, 2, 6](../Book_3_5_4#v5_4_2_6).
 
-[^530]: 277:1 C'est-à-dire par l'Agni qui est maintenant retenu, et dont Par<i>g</i>anya est censé être une autre forme, en [VI, 1, 3, 15](Book_3_6_1#v6_1_3_15). C'est probablement la fumée s'élevant du brasier qui suggère l'idée du Jupiter pluvius envoyant ses éclairs de lumière depuis le nuage sombre.
+[^530]: 277:1 C'est-à-dire par l'Agni qui est maintenant retenu, et dont Par<i>g</i>anya est censé être une autre forme, en [VI, 1, 3, 15](../Book_3_6_1#v6_1_3_15). C'est probablement la fumée s'élevant du brasier qui suggère l'idée du Jupiter pluvius envoyant ses éclairs de lumière depuis le nuage sombre.
 
 [^531]: 277:2 Littéralement, onction (? soit fourbissant, soit imprégnant).
 
 [^532]: 278:1 Littéralement, si cela devait être seulement cela (c'est-à-dire si le feu devait toujours être maintenu là-haut).
 
-[^533]: 279:1 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^533]: 279:1 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^534]: 280:1 [VI, 7, 2, 9](Book_3_6_7#v6_7_2_9).
+[^534]: 280:1 [VI, 7, 2, 9](../Book_3_6_7#v6_7_2_9).
 
-[^535]: 280:2 [VI, 7, 3, 1](Book_3_6_7#v6_7_3_1).
+[^535]: 280:2 [VI, 7, 3, 1](../Book_3_6_7#v6_7_3_1).
 
 [^536]: 281:1 C'est plutôt un verset trish<i>t</i>ubh.
 
@@ -291,9 +291,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^539]: 283:2 Il s'agit d'une signification quelque peu douteuse de « dâkshâya<i>n</i>a-hasta ». Les synonymes (s'ils sont corrects), hira<i>n</i>yapâ<i>n</i>i et hira<i>n</i>yahasta, font toujours référence à Savi<i>ri</i>, le soleil.
 
-[^540]: 283:3 Voir [VI, 7, 2, 5](Book_3_6_7#v6_7_2_5)\-[6](Book_3_6_7#v6_7_2_6).
+[^540]: 283:3 Voir [VI, 7, 2, 5](../Book_3_6_7#v6_7_2_5)\-[6](../Book_3_6_7#v6_7_2_6).
 
-[^541]: 283:4 ? Ou, en second lieu ; voir ci-dessus, [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^541]: 283:4 ? Ou, en second lieu ; voir ci-dessus, [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^542]: 284:1 La construction du texte ici privilégiée par l'auteur est très douteuse. Il faut probablement l'interpréter ainsi : « la troisième fois (lui, Agni, naquit) dans les eaux, lui, l'esprit viril (ou, ami des hommes). L'allumant, l'impérissable (Agni), l'attentif (? ou pieux) le loue », ou peut-être : « Tout en l'allumant, l'homme prévenant le loue sans cesse. » Un point qui favorise la construction de l'auteur est que, au verset 3, « n<i>ri</i>ma<i>n</i>aas » ne se réfère certainement pas à Agni, mais à celui qui l'a engendré.
 
@@ -302,7 +302,7 @@ dateCreated: 2025-1-16T20:3:37Z
   2\. L'élevant des gloires, le défenseur des richesses, l'inspirateur des pensées, le gardien du Soma ; l'excellent fils du pouvoir, brille comme un roi dans les eaux, allumé avant l'aube.
   3\. Un phare pour tout ce qui est, l'enfant du monde a rempli les deux sphères dès sa naissance ; il a même brisé le rocher dur en allant là-bas lorsque les cinq peuples ont adoré Agni.
   4\. Purificateur avide, messager sage, l'immortel Agni a été établi parmi les mortels ; vacillant (?), il envoie la fumée rouge, s'efforçant avec sa flamme brillante d'atteindre le ciel.
-  5\. Ressemblant à un disque d'or, etc. (voir [VI, 7, 2](Book_3_6_7#v6_7_2)).
+  5\. Ressemblant à un disque d'or, etc. (voir [VI, 7, 2](../Book_3_6_7#v6_7_2)).
   6\. Quiconque prépare pour toi aujourd'hui un gâteau cuit au ghee, ô divin Agni de flamme propice, conduis-le vers la félicité, vers la gloire attribuée par Dieu, ô le plus jeune !
   7\. Fais-le participer aux chants de triomphe, fais-le participer à chaque hymne chanté ! Qu'il soit cher à Sûrya, cher à Agni ; qu'il triomphe auprès des vivants et auprès de ceux qui doivent naître !
   8\. Ceux qui t'adorent jour après jour, ô Agni, obtiennent tous les bienfaits désirables ; désirant ardemment la richesse, ils ont ouvert avec toi l'étable remplie de vaches !

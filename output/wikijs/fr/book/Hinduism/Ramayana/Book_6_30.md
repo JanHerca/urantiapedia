@@ -870,7 +870,7 @@ Reine Fortune, aimée des dieux et des rois,
 Il doit cette chaîne à la grâce de Rama,
 Et Tárá et sa place royale.
 En lui, connais le grand Sugríva,
-Que Rama a sauvé de son ennemi. [1](Book_6_30#fn952)
+Que Rama a sauvé de son ennemi. [1](../Book_6_30#fn952)
 
 
 
@@ -992,7 +992,7 @@ Et, grouillant, l'échelle du rempart,
 Maintenant, ô mon Roi, rends-toi à sa compagne,
 Ou bien armez-vous de l'épée et du bouclier.
 Ce choix t'est laissé : choisis entre
-Ta sécurité et celle de la reine Maithil. [1](Book_6_40#fn953)
+Ta sécurité et celle de la reine Maithil. [1](../Book_6_40#fn953)
 
 <figure class="table chapter-navigator">
   <table>

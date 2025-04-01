@@ -156,7 +156,7 @@ Fin du Troisième Pa<i>t</i>ala.
 
 ## Notes de bas de page
 
-[^542]: 162:4 9, 4. Comp. I, 1, 3, 4; <i>Ri</i>g-veda I, 94, 1. « Lorsque les mots sont utilisés, “Il met du bois sur le feu” (agnim upasamâdhâya), il doit préparer le sol en le soulevant, etc., doit porter le feu à cet endroit, doit y mettre du bois, puis il doit sacrifier dans le feu. Lorsque ces mots ne sont pas utilisés, il doit (seulement) semer de l'herbe autour du feu qui est (déjà) établi à sa place, et doit ainsi accomplir le sacrifice. » Mât<i>ri</i>datta.
+[^542]: 162:4 9, 4. Comp. I, 1, 3, 4; <i>Ri</i>g-veda I, 94, 1. « Lorsque les mots sont utilisés, « Il met du bois sur le feu » (agnim upasamâdhâya), il doit préparer le sol en le soulevant, etc., doit porter le feu à cet endroit, doit y mettre du bois, puis il doit sacrifier dans le feu. Lorsque ces mots ne sont pas utilisés, il doit (seulement) semer de l'herbe autour du feu qui est (déjà) établi à sa place, et doit ainsi accomplir le sacrifice. » Mât<i>ri</i>datta.
 
 [^543]: 162:6 Sâṅkhâyana I, 28, 9.
 

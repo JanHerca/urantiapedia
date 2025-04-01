@@ -243,6 +243,6 @@ Nous sacrifions au bon Saoka, avec des yeux d'amour, faits par Mazda et saints.
 
 [^259]: 48:1 Cf. Sîrôzah I, 2.
 
-[^260]: 48:2 Comme ci-dessus, [p. 22](Yasts_1#p22).
+[^260]: 48:2 Comme ci-dessus, [p. 22](../Yasts_1#p22).
 
 [^261]: 48:3 Qui offrira un sacrifice à Asha-Vahisa ; cf. Yt. I, 33 et notes.

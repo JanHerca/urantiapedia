@@ -189,7 +189,7 @@ Oh ! oui, le roi <i>Kh</i>ăng [^355] S'approcha avec éclat [^355]. Conduisez v
 
 CÉLÉBRANT LES REPRÉSENTANTS DES ANCIENNES DYNASTIES, VENUS À LA COUR POUR ASSISTER À UN SACRIFICE DANS LE TEMPLE ANCESTRAL.
 
-Cette pièce a peut-être été utilisée lorsque le roi congédiait ses invités de marque au temple ancestral. Voir la note introductive de cette partie, p. [300](Shih_King_Part1_Intro#p300), 301.
+Cette pièce a peut-être été utilisée lorsque le roi congédiait ses invités de marque au temple ancestral. Voir la note introductive de cette partie, p. [300](../Shih_King_Part1_Intro#p300), 301.
 
 Une volée d'aigrettes vole, autour du marais là-bas à l'ouest [^358]. Mes visiteurs sont venus, avec une allure (élégante) comme ces oiseaux.
 
@@ -391,7 +391,7 @@ Ces cent maisons étant pleines, les femmes et les enfants ont un sentiment de r
 
 UNE ODE APPROPRIÉE AUX PRÉPARATIFS ET AU DÉROULEMENT D'UN FÊTE APRÈS UN SACRIFICE.
 
-La préface et les éditeurs du Yung-_kh_ăng Shih indiquent que l'œuvre fait référence au divertissement offert, le lendemain d'un <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, dans le temple ancestral, aux personnificateurs des morts, décrit à la [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî le nie et soutient simplement qu'il s'agit du festin qui suit un sacrifice, sans préciser davantage lequel. L'ancien point de vue est probablement le plus correct.
+La préface et les éditeurs du Yung-_kh_ăng Shih indiquent que l'œuvre fait référence au divertissement offert, le lendemain d'un <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, dans le temple ancestral, aux personnificateurs des morts, décrit à la [p. 301](../Shih_King_Part1_Intro#p301). <i>K</i>û Hsî le nie et soutient simplement qu'il s'agit du festin qui suit un sacrifice, sans préciser davantage lequel. L'ancien point de vue est probablement le plus correct.
 
 Dans ses robes de soie, propres et brillantes, avec sa casquette sur la tête, l'air si respectueux, il va du hall au pied de l'escalier, et (puis) ​​des moutons aux bœufs [^369]. (Il inspecte) les trépieds, grands et petits, et le gobelet courbé en corne de rhinocéros [^370]. Les bons esprits sont doux, (mais) il n'y a pas de bruit, pas d'insolence : un auspice (ceci) de grande longévité.
 
@@ -487,7 +487,7 @@ Oh ! Kâu est grand maintenant. Nous gravissons les hautes collines, celles qui 
 
 [^370]: 322:2 Pour la culture du sol, les parcelles des familles individuelles étaient séparées par un petit fossé ; dix parcelles, par un plus grand ; cent, par ce que nous pouvons appeler un ruisseau ; mille, par un petit ruisseau ; et dix mille, par une rivière. L'espace occupé par 10 000 familles formait un carré d'un peu plus de trente-deux lî. Nous pouvons supposer que cet espace était désigné par le nombre rond de trente lî dans le texte. Ainsi au moins <i>K</i>ăng Khang-_kh_ăng l'a expliqué.
 
-[^371]: 322:3 Ces deux lignes rendent le texte allusif. Voir l'introduction, [p. 279](Shih_King_Intro_1#p279).
+[^371]: 322:3 Ces deux lignes rendent le texte allusif. Voir l'introduction, [p. 279](../Shih_King_Intro_1#p279).
 
 [^372]: 323:1 Les musiciens aveugles de la cour de Kâu étaient nombreux. La cécité des yeux était censée rendre les oreilles plus perçantes et favoriser la voix. Dans le Livre Officiel de Kâu, III, i, par. 22, l'énumération de la p. 234 de ces musiciens aveugles donne 2 directeurs de premier rang et 4 de second ; 40 interprètes de premier degré, 100 de second et 160 de troisième ; avec 300 assistants qui étaient doués de la vue. Mais il est difficile de ne pas être quelque peu incrédule face à cette grande collection de musiciens aveugles de la cour de Kâu.
 
@@ -497,7 +497,7 @@ Oh ! Kâu est grand maintenant. Nous gravissons les hautes collines, celles qui 
 
 [^375]: 326:1 Lors des sacrifices aux ancêtres, les tablettes spirituelles des épouses étaient placées avec celles de leurs maris dans leurs sanctuaires, de sorte que tous deux partageaient les honneurs du service. Il en est de même aujourd'hui dans le temple ancestral impérial de Pékin. La « mère accomplie » serait ici Thâi Sze, souvent célébrée dans les pièces du premier livre de la première partie, et ailleurs.
 
-[^376]: 326:2 Parmi les usages des services du temple ancestral, spécifiés par Confucius et cités à la [p. 302](Shih_King_Part1_Intro#p302), figurait la distinction de l'ordre de descendance dans la Maison royale. Selon les règles établies à cet effet, les caractères utilisés ici nous permettent de déterminer le sujet de cette lignée comme étant le roi Wû, par opposition à son père Wan.
+[^376]: 326:2 Parmi les usages des services du temple ancestral, spécifiés par Confucius et cités à la [p. 302](../Shih_King_Part1_Intro#p302), figurait la distinction de l'ordre de descendance dans la Maison royale. Selon les règles établies à cet effet, les caractères utilisés ici nous permettent de déterminer le sujet de cette lignée comme étant le roi Wû, par opposition à son père Wan.
 
 [^377]: 327:1 Ces quatre vers expriment simplement le souhait du roi de détourner son visiteur du plaisir que sa présence lui procurait. Comparez le langage similaire de la deuxième ode de la quatrième décennie de la deuxième partie.
 

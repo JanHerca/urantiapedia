@@ -122,7 +122,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 2\. 'Il n'est pas à la hauteur de la dispute ; il se retire et reste caché, s'en retirant furtivement' — pour lui, de sa position inférieure, lutter avec (le plus fort) d'en haut, serait (inviter) la calamité, comme s'il la portait de sa main. 
 
-3\. 'Il se limite au soutien qui lui est assigné <span id="p275">[<sup><small>p. 275] à celui d'autrefois : « (ainsi) en suivant ceux qui sont au-dessus de lui, il aura bonne fortune. 
+3\. 'Il se limite au soutien qui lui est assigné <span id="p275"><sup><small>[ p. 275 ]</small></sup>]</span> à celui d'autrefois : « (ainsi) en suivant ceux qui sont au-dessus de lui, il aura bonne fortune. 
 
 4\. « Il retourne à (l'étude des) ordonnances du Ciel, change (son désir de lutter), et se repose en étant ferme et correct : » — il ne manque pas (de faire ce qui est juste). 
 
@@ -1195,7 +1195,7 @@ Il lui serait avantageux d'avoir la <span id="p339"><sup><small>[ p. 339 ]</smal
   Paragraphe 5. La maladie ne devrait pas toucher celui qui est parfaitement sincère. Si elle survient, il doit en référer à une volonté inexplicable du Ciel. Comme cela a affligé, cela guérira. 
   Paragraphe 6. « Lorsqu'une chose est terminée, ce qui est requis, c'est la soumission et l'acquiescement, et non de nouvelles tentatives d'action. »
 
-[^215]: 300:XXVI J'ai cité, dans l'Introduction, [p. 37](Introduction_3#p37), la remarque de <i>K</i>û Hsî sur le Grand Symbolisme ici. <i>Kh</i>ăng-žze dit : — 'Le ciel est la plus grande de toutes les choses, et sa présence au milieu d'une montagne nous donne l'idée d'une très grande accumulation. Et si grand est p. 301 le travail de l'homme supérieur pour apprendre, acquérir et se souvenir, pour accumuler sa vertu.' 
+[^215]: 300:XXVI J'ai cité, dans l'Introduction, [p. 37](../Introduction_3#p37), la remarque de <i>K</i>û Hsî sur le Grand Symbolisme ici. <i>Kh</i>ăng-žze dit : — 'Le ciel est la plus grande de toutes les choses, et sa présence au milieu d'une montagne nous donne l'idée d'une très grande accumulation. Et si grand est p. 301 le travail de l'homme supérieur pour apprendre, acquérir et se souvenir, pour accumuler sa vertu.' 
   Paragraphe 1. La 'calamité' est celle de l'opposition ou de la répression par le sujet de la ligne 4. 
   Paragraphe 3. Lorsque l'action de l'hexagramme a atteint la ligne 6, son travail est terminé. Le sujet de 6 n'exercera plus de répression, mais se joindra à celui de 3, l'aidant à progresser. 
   Paragraphe 4. Le sujet de la ligne 4 a en effet lieu de se réjouir. Sans recourir à la punition pour les crimes commis, par précaution les anticipant, sans aucun trouble, il a réprimé le mal. La « joie » fait place au paragraphe 5 à la « félicitation », le peuple étant tout intéressé par l'action du dirigeant. 

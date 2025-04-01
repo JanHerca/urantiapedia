@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 6\. Un os suffisant pour faire une cuillère, dit Rabbi Judah, « suffisant pour faire le couvercle d'une clé » ; du verre suffisant pour gratter le dessus d'une navette ; un morceau de terre ou une pierre suffisant pour être lancé sur un oiseau ; dit Rabbi Eliezer, « suffisant pour être lancé sur une bête ».
 
-7\. « Un tesson ? » « Suffisant pour être placé entre deux poutres », selon les mots de Rabbi Judah ; Rabbi Meier dit : « Suffisant pour emporter du feu » ; Rabbi José dit : « Suffisant pour contenir le quart d'une bûche. » Rabbi Meier dit : « Bien qu'il n'y ait aucune preuve visible de ce fait, il y a une indication, comme il est dit : « On ne trouvera pas, en l'éclatant, un tesson pour prendre du feu dans le foyer. » [^120] Rabbi José lui dit : « Voilà la preuve visible : “ou pour prendre de l'eau du puits.” » [^120]
+7\. « Un tesson ? » « Suffisant pour être placé entre deux poutres », selon les mots de Rabbi Judah ; Rabbi Meier dit : « Suffisant pour emporter du feu » ; Rabbi José dit : « Suffisant pour contenir le quart d'une bûche. » Rabbi Meier dit : « Bien qu'il n'y ait aucune preuve visible de ce fait, il y a une indication, comme il est dit : « On ne trouvera pas, en l'éclatant, un tesson pour prendre du feu dans le foyer. » [^120] Rabbi José lui dit : « Voilà la preuve visible : « ou pour prendre de l'eau du puits. » » [^120]
 
 _Les deux tiers restants de ce traité ne sont pas traduits, car ils sont dénués d'intérêt et, dans certaines parties, impropres à la publication_.
 

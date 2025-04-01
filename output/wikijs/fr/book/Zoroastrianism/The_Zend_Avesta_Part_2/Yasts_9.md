@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 Gô<i>s</i>, « la vache », κατ᾽ ἐξοχήν, est une personnification du règne animal qu'elle entretient et protège. On l'appelle aussi Drvâspa et Go<i>s</i>ûrûn : Drvâspa signifie « celle qui garde les chevaux en bonne santé » et n'est rien d'autre qu'une épithète de Gô<i>s</i> : Gô<i>s</i>ûrûn (du Zend G<i>e</i>u<i>s</i> urvan) signifie « l'Âme du Taureau » (le Taureau primordial). Bien qu'urvan soit un nom masculin en Zend, Gô<i>s</i>ûrûn est considérée comme un ange féminin, car ce nom n'est qu'un substitut de Gô<i>s</i>.
 
-Gô<i>s</i> est l'ange du 14e jour (Sîrôzah I, 14), et son Ya<i>s</i>t est récité pendant le Gâh U<i>s</i>ahin, les jours de Gô<i>s</i>, Bahman, Mâh et Râm (les mêmes jours que ceux où le Mâh Ya<i>s</i>t est récité ; voir ci-dessus, [p. 88](Yasts_7#p88)).
+Gô<i>s</i> est l'ange du 14e jour (Sîrôzah I, 14), et son Ya<i>s</i>t est récité pendant le Gâh U<i>s</i>ahin, les jours de Gô<i>s</i>, Bahman, Mâh et Râm (les mêmes jours que ceux où le Mâh Ya<i>s</i>t est récité ; voir ci-dessus, [p. 88](../Yasts_7#p88)).
 
 Gôs est à peine décrite dans ce Yast (§§ 1-2) ; la plus grande partie de celui-ci est consacrée aux diverses prières qui lui sont adressées par les héros iraniens, Haoshyangha (§ 3), Yima (§ 8), Thraêtaona (§ 13), Haoma (§ 17), Husravah (§ 21), Zarathustra et Vîstâspa. Ses adorateurs et leurs prières sont les mêmes que dans le cas d'Ashi Vanguhi (voir Yt. XVII).
 
@@ -204,13 +204,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^552]: 111:2 Douteux.
 
-[^553]: 111:3 Cf. [p. 58](Yasts_5#p58), note [1](Yasts_5#fn294).
+[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
 
-[^554]: 111:4 Cf. [59](Yasts_5#p59), note [2](Yasts_5#fn298).
+[^554]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
 
 [^555]: 111:5 En enfer.
 
-[^556]: 112:1 Comme ci-dessus, [p. 30](Yasts_1#p30).
+[^556]: 112:1 Comme ci-dessus, [p. 30](../Yasts_1#p30).
 
 [^557] : 112 : 2 § 7 = §§ 1-2.
 
@@ -222,13 +222,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destruction des démons, étant l'un des principaux effets du sacrifice, est attribuée à Haoma comme l'élément le plus puissant du sacrifice. Dans le Shâh Nâmah, le dieu Haoma a été transformé en ermite qui, vivant près de la grotte où Afrâsyâb s'était réfugié (voir ci-dessus, Yt. V, 41), entend ses lamentations, le prend par surprise, le lie et le livre aux mains de Khosrav (Études Iraniennes, II, 227).
 
-[^563]: 114:3 Voir [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^563]: 114:3 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^564]: 114:4 Voir ci-dessus, [p. 66](Yasts_5#p66), note [2](Yasts_5#fn322).
+[^564]: 114:4 Voir ci-dessus, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
 
-[^565]: 114:5 Voir [p. 66](Yasts_5#p66), note [3](Yasts_5#fn323).
+[^565]: 114:5 Voir [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
-[^566]: 114:6 Voir [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^566]: 114:6 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^567]: 114:7 Douteux (narava, par opposition à nara). Aghraêratha (Aghrêrath) était un frère d'Afrâsyâb ; c'était un homme juste, et Afrâsyâb le tua pour avoir sauvé le roi iranien Mino<i>k</i>ihr avec son armée, alors qu'il était captif dans les montagnes de Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Pourtant, il vit toujours comme un immortel au pays de Saukavastân, sous le nom de Gôpatshâh (le roi des taureaux) ; « des pieds jusqu'au milieu du corps, c'est un taureau, et du milieu du corps jusqu'au sommet, c'est un homme ; « Il reste toujours au bord de la mer, et accomplit toujours le culte de Dieu, et verse toujours de l'eau bénite dans la mer » (Minokhired LXII, 31 seq., tr. Ouest ; Bund. XXIX, 5) ; selon Bund. XXXI, 20, Aghrêrath n'était pas Gôpatshâh, il était son père. Cf. Yt. XIX, 93.
 
@@ -244,7 +244,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^573]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
 
-[^574]: 117:3 Voir ci-dessus, [p. 79](Yasts_5#p79), note [4](Yasts_5#fn392).
+[^574]: 117:3 Voir ci-dessus, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
 
 [^577]: 117:4 Une fois appelé.
 

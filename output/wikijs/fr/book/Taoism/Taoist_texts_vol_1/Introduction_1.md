@@ -84,6 +84,6 @@ Ces principes doivent être tirés du traité de Lâo-dze et des écrits de Kwan
 
 ## Notes de bas de page
 
-[^0]: 2:1 Le sixième chapitre du traité de Lao, celui sur « l'Esprit de la Vallée », est mentionné dans Lieh-dze (I, 1b), comme étant de Hwang Tî, d'où le commentateur Tû Tâo-kien (vers A, D. 1300) prend l'occasion de dire : « D'où nous savons que Lâo-dze avait l'habitude de citer dans son traité des passages de documents antérieurs, comme lorsqu'il se réfère aux remarques de “quelque sage”, de “quelque ancien”, de “faiseurs de phrases” et de “quelque écrivain sur la guerre”. Dans tous ces cas, il introduit clairement les paroles de sages antérieurs. Le cas est comme celui de Confucius lorsqu'il a dit : “Je suis un transmetteur et non un créateur”, etc. » Trouvé dans Ziâo Hung, loc.
+[^0]: 2:1 Le sixième chapitre du traité de Lao, celui sur « l'Esprit de la Vallée », est mentionné dans Lieh-dze (I, 1b), comme étant de Hwang Tî, d'où le commentateur Tû Tâo-kien (vers A, D. 1300) prend l'occasion de dire : « D'où nous savons que Lâo-dze avait l'habitude de citer dans son traité des passages de documents antérieurs, comme lorsqu'il se réfère aux remarques de « quelque sage », de « quelque ancien », de « faiseurs de phrases » et de « quelque écrivain sur la guerre ». Dans tous ces cas, il introduit clairement les paroles de sages antérieurs. Le cas est comme celui de Confucius lorsqu'il a dit : « Je suis un transmetteur et non un créateur », etc. » Trouvé dans Ziâo Hung, loc.
 
 [^1]: 3:1 Voir dans les livres IX, X et XII.

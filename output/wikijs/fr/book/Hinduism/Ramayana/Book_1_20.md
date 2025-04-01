@@ -951,7 +951,7 @@ Avec des maisons appropriées attribuées à chacun,
 Avec les champions de Ráma féroces et forts
 La terre était recouverte,
 Haute comme les collines et les nuages, une foule
-Avec des corps vastes et redoutables. [1](Book_1_20#fn123)
+Avec des corps vastes et redoutables. [1](../Book_1_20#fn123)
 
 \* \* \* \* \*
 
@@ -1104,7 +1104,7 @@ Son fils promis devrait porter.
 Le glorieux sage a poursuivi son chemin
 Jusqu'à ce qu'il voie de près devant ses yeux
 Douce Champá, la belle ville de Lomapád,
-Couronnée de la couronne feuillue de ses Champacs [1](Book_1_20#fn125).
+Couronnée de la couronne feuillue de ses Champacs [1](../Book_1_20#fn125).
 Dès qu'il sut l'approche du saint,
 Le roi, pour lui rendre l’honneur qui lui est dû,
 Je suis allé à sa rencontre avec une bande
@@ -1309,7 +1309,7 @@ Mais au milieu de ces jeunes de haute lignée,
 Avec une lumière seigneuriale prééminente.
 Comme la pleine lune sans nuages, elle brillait
 Ráma, le cher modèle du monde.
-Il était le meilleur guide que l'éléphant pouvait faire. [1b](Book_1_20#fn136)
+Il était le meilleur guide que l'éléphant pouvait faire. [1b](../Book_1_20#fn136)
 Exhortez la voiture de flotte, le chargeur de trajet ;
 Il est un maître dans l'art de tirer à l'arc,
 Heureux de faire la volonté de son père.
@@ -1409,7 +1409,7 @@ Et les rassasier au degré approprié,
 Chacun, de rang et de dignité.
 La joie emplit la poitrine du noble prince
 Qui s'adressa ainsi à l'invité d'honneur :
-« Comme amrit [1b](Book_1_30#fn140) par un mortel trouvé,
+« Comme amrit [1b](../Book_1_30#fn140) par un mortel trouvé,
 Comme la pluie sur le sol assoiffé,
 Comme pour un homme sans héritier, un fils
 Né de sa précieuse,

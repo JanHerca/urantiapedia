@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
-1\. « Quel est l'ordre des jours de jeûne ? » « On tire l'arche contenant les rouleaux de la Loi sur la place publique de la ville, on met de la cendre brûlée sur le dessus de l'arche, sur la tête du prince et sur celle du président du tribunal, et chacun prend et met de la cendre sur sa tête. » Le plus âgé d'entre eux leur dit des paroles touchantes : « Frères, il n'est pas dit des Ninivites : “Dieu vit leurs sacs et leur jeûne” [^318], mais : “Dieu vit leurs œuvres, et qu'ils se détournèrent de leur mauvaise voie.”” Et dans la tradition (du prophète), il dit [^319] : “Déchirez vos cœurs et non vos vêtements, et revenez au Seigneur votre Dieu.” »
+1\. « Quel est l'ordre des jours de jeûne ? » « On tire l'arche contenant les rouleaux de la Loi sur la place publique de la ville, on met de la cendre brûlée sur le dessus de l'arche, sur la tête du prince et sur celle du président du tribunal, et chacun prend et met de la cendre sur sa tête. » Le plus âgé d'entre eux leur dit des paroles touchantes : « Frères, il n'est pas dit des Ninivites : « Dieu vit leurs sacs et leur jeûne » [^318], mais : « Dieu vit leurs œuvres, et qu'ils se détournèrent de leur mauvaise voie. »” Et dans la tradition (du prophète), il dit [^319] : « Déchirez vos cœurs et non vos vêtements, et revenez au Seigneur votre Dieu. » »
 
 2\. Lorsqu'ils furent debout en prière, ils placèrent devant l'arche un homme âgé et plein d'expérience, qui avait des enfants et une maison sans tache, afin que son cœur ne soit pas distrait dans la prière, et il dit devant eux vingt-quatre bénédictions, les dix-huit habituelles pour chaque jour, et il y ajouta six autres.
 

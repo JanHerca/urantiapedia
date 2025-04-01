@@ -94,6 +94,6 @@ Les Pitri ont dit :
 
 [^1430]: 295:4 Comme les Kshatriyas étaient nécessaires à la protection du peuple, les Brâhmanes les engendraient sur des femmes Kshatriyas. Voir Muir, Sanskrit Texts, vol. ii, p. 451 et suiv. Et comme ils étaient issus de ces connexions anormales, ils sont décrits comme « parents des Kshatriyas ». Cf. <i>Kh</i>ândogya, p. 317 ; B<i>ri</i>hadâra<i>n</i>yaka, p. 1037 et ses commentaires. Quant à l'héroïsme, voir Muir, Sanskrit Texts, vol. iv, p. 302 note.
 
-[^1431]: 295:5 Cf. Gîtâ, [p. 40](Bhagavadgita_1#p40), note [1](Bhagavadgita_1#fn97).
+[^1431]: 295:5 Cf. Gîtâ, [p. 40](../Bhagavadgita_1#p40), note [1](../Bhagavadgita_1#fn97).
 
 [^1432]: 295:6 Voir pour l'histoire complète, Muir, Sanskrit Texts, vol. i, p. 442.

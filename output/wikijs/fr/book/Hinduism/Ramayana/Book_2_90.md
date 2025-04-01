@@ -91,7 +91,7 @@ Les nobles enfants du roi, [^357]
 
 <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
-Yudhājit [1](Book_2_90#fn358) et Sumantra, tous
+Yudhājit [1](../Book_2_90#fn358) et Sumantra, tous
 L'appel du véridique et du vertueux,
 Il termina : bientôt un bruit puissant
 Un tumulte grandissant s'éleva autour de nous,
@@ -100,7 +100,7 @@ Avec voiture, éléphant et cheval,
 Le peuple tout entier acclame joyeusement
 Il a accueilli le prince Bharat à son arrivée :
 Même s'ils aimaient saluer leur roi,
-Ou comme les dieux Seigneur Indra [2](Book_2_90#fn359) se rencontrent.
+Ou comme les dieux Seigneur Indra [2](../Book_2_90#fn359) se rencontrent.
 La vaste assemblée brillait comme une belle
 Avec le visage royal de Bharat
 Comme Das'aratha lui-même était là
@@ -334,7 +334,7 @@ La vaste procession a parcouru un long chemin,
 <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Et est venu là où les vagues du Gange en contrebas
-La ville de Sringavera [1](Book_2_90#fn361) coule.
+La ville de Sringavera [1](../Book_2_90#fn361) coule.
 Là, avec ses amis et ses proches,
 Dwellt Guha, le cher allié de Rama,
 Gardien héroïque de la terre
@@ -705,7 +705,7 @@ Lakshman s'abstint également de nourriture,
 
 Et sirota l'eau qui restait :
 Puis, les lèvres tendues, pieusement posées,
-Les trois [1](Book_2_90#fn362) ont payé leur culte du soir.
+Les trois [1](../Book_2_90#fn362) ont payé leur culte du soir.
 Alors Lakshman, avec un soin infatigable
 J'ai apporté des tas d'herbe sacrée, et là
 De ses propres mains, il s'est rapidement répandu,

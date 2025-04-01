@@ -212,7 +212,7 @@ Ainsi je dis.
 
 [^272]: 103:2 Phi<i>t</i><i>t</i>ai = bhra<i>s</i>yati, Grammaire Prâk<i>ri</i>t de Hêma<i>k</i>andra, iv, 177.
 
-[^273]: 104:1 Voir ci-dessus, [p. 94](Uttaradhyayana_19#p94).
+[^273]: 104:1 Voir ci-dessus, [p. 94](../Uttaradhyayana_19#p94).
 
 [^274]: 104:2 Les versets 38 à 53 sont apparemment un ajout ultérieur car (1) le sujet traité n'est pas lié à celui de la partie précédente, et (2) ils sont composés dans un mètre différent.
 
@@ -226,4 +226,4 @@ Ainsi je dis.
 
 [^279] : 105:5 Kuhê<i>d</i>avig<i>g</i>â.
 
-[^280]: 106:1 Nirâsava = nirâsrava. Pour les âsravas, voir [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^280]: 106:1 Nirâsava = nirâsrava. Pour les âsravas, voir [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).

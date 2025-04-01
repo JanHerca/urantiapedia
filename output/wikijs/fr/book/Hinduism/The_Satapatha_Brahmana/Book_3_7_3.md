@@ -187,27 +187,27 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^647]: 342:1 C'est-à-dire, en accomplissant les divers rites du sacrifice du Soma, p. 343 et en faisant en même temps tout ce qui est nécessaire pour la construction de l'autel du feu, sur lequel l'offrande du Soma elle-même doit finalement être exécutée.
 
-[^648]: 343:1 À savoir, en consacrant le site de l'Âhavanîya, ainsi que celui de l'autel de Gârhapatya (voir [VII, 1, 1, 1](Book_3_7_1#v7_1_1_1)).
+[^648]: 343:1 À savoir, en consacrant le site de l'Âhavanîya, ainsi que celui de l'autel de Gârhapatya (voir [VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1)).
 
-[^649]: 344:1 [VII, 1, 1, 14](Book_3_7_1#v7_1_1_14).
+[^649]: 344:1 [VII, 1, 1, 14](../Book_3_7_1#v7_1_1_14).
 
-[^650]: 344:2 Voir les paragraphes [45](Book_3_7_3#v7_3_1_45), [46](Book_3_7_3#v7_3_1_46).
+[^650]: 344:2 Voir les paragraphes [45](../Book_3_7_3#v7_3_1_45), [46](../Book_3_7_3#v7_3_1_46).
 
 [^651]: 345:1 Il place une motte de terre à chaque extrémité des deux « épines », c'est-à-dire au milieu de chacun des quatre côtés du carré constituant le « corps » de l'emplacement de l'autel.
 
 [^652]: 345:2 Ou, lorsqu'ils l'assemblèrent (en construisant l'autel du feu).
 
-[^653]: 346:1 À savoir, lorsque ces mondes furent plongés dans l'eau, voir [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^653]: 346:1 À savoir, lorsque ces mondes furent plongés dans l'eau, voir [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
 [^654]: 347:1 C'est-à-dire depuis un endroit vers le nord-ouest à partir du milieu du côté ouest du corps de l'autel.
 
 [^655]: 347:2 Mahîdhara prend ici « âdam » comme l'imparfait régulier de « ad », j'ai mangé.
 
-[^656]: 348:1 Voir [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^656]: 348:1 Voir [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
-[^657]: 348:2 Voir [p. 153](Book_3_6_1#p153), note [1](Book_3_6_1#fn306).
+[^657]: 348:2 Voir [p. 153](../Book_3_6_1#p153), note [1](../Book_3_6_1#fn306).
 
-[^658]: 349:1 Voir [p. 325](Book_3_7_2#p325), note [6](Book_3_7_2#fn619).
+[^658]: 349:1 Voir [p. 325](../Book_3_7_2#p325), note [6](../Book_3_7_2#fn619).
 
 [^659]: 349:2 C'est-à-dire qu'il jette d'abord du sable sur l'Uttara-vedi, puis en recouvre tout le corps de l'autel, de manière à le mettre au même niveau que l'Uttara-vedi.
 
@@ -217,11 +217,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^662]: 352:2 Sikatâ<i>h</i>, sable, est pluriel, car il est constitué d'une multiplicité de grains de sable.
 
-[^663]: 353:1 Il s'agit d'un calcul quelque peu approximatif. En fait, les sept mètres principaux, à savoir Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contiennent ensemble 252 syllabes. L'hymne récité en dispersant le sable, en revanche, se compose d'un Vish<i>t</i>ârapaṅkti (40), de trois Satob<i>ri</i>hatîs (3 × 40), des Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40) et d'un Trish<i>t</i>ubh (44), soit un total de 244 syllabes. Sur des cas similaires de manque de précision dans le calcul des syllabes des mètres, voir [p. 318](Book_3_7_1#p318), note [1](Book_3_7_1#fn606).
+[^663]: 353:1 Il s'agit d'un calcul quelque peu approximatif. En fait, les sept mètres principaux, à savoir Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contiennent ensemble 252 syllabes. L'hymne récité en dispersant le sable, en revanche, se compose d'un Vish<i>t</i>ârapaṅkti (40), de trois Satob<i>ri</i>hatîs (3 × 40), des Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40) et d'un Trish<i>t</i>ubh (44), soit un total de 244 syllabes. Sur des cas similaires de manque de précision dans le calcul des syllabes des mètres, voir [p. 318](../Book_3_7_1#p318), note [1](../Book_3_7_1#fn606).
 
-[^664]: 353:2 C'est-à-dire qu'il émane du corps (paragraphe [28](Book_3_7_3#v7_3_1_28)), et le corps est constitué de vingt-cinq parties : le tronc, les quatre membres et vingt doigts et orteils. Cf. [VI, 2, 1, 23](Book_3_6_2#v6_2_1_23), où, cependant, le tronc n'est pas pris en compte.
+[^664]: 353:2 C'est-à-dire qu'il émane du corps (paragraphe [28](../Book_3_7_3#v7_3_1_28)), et le corps est constitué de vingt-cinq parties : le tronc, les quatre membres et vingt doigts et orteils. Cf. [VI, 2, 1, 23](../Book_3_6_2#v6_2_1_23), où, cependant, le tronc n'est pas pris en compte.
 
-[^665]: 354:1 Voir [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^665]: 354:1 Voir [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^666]: 355:1 Sâya<i>n</i>a remarque : — La haute gloire, dans le ciel, de Soma poussant sous la forme d'une plante grimpante est dite être la lune : dans ce monde céleste, cette lune en effet, lorsqu'elle est ivre (par les dieux) sous la forme (?) d'ambroisie, fait que Soma soit célébré.
 
@@ -237,9 +237,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^672]: 357:1 Les serviteurs de l'Adhvaryu prennent la peau de bœuf avec les briques posées dessus pour la première couche.
 
-[^673]: 358:1 Voir [VII, 1, 1, 25](Book_3_7_1#v7_1_1_25).
+[^673]: 358:1 Voir [VII, 1, 1, 25](../Book_3_7_1#v7_1_1_25).
 
-[^674]: 358:2 Voir [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^674]: 358:2 Voir [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
 [^675]: 359:1 Selon Sâya<i>n</i>a, c'est par ses rayons (identifiés aux airs vitaux des êtres vivants) que le soleil embrasse (ou se met en contact avec) les créatures (et les anime) ; de sorte que chacun sent qu'il est 'labdhâtmaka', ou qu'il a obtenu 'un soi', ou la vie et l'être.
 

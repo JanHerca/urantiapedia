@@ -66,7 +66,7 @@ Puis à une servante, la plus jeune, elle murmura :
 Croisons sur son chemin qu'il ait besoin de nous observer ;
 Fais-lui signe, ma sœur, avec pudeur.
 « J'ai donné des signaux, mais il n'a pas fait attention, »
-Répondit la demoiselle, et se hâta de venir à ma rencontre. <span id="p359">[<sup><small>p. 359  </small></sup>]</span>
+Répondit la demoiselle, et se hâta de venir à ma rencontre. <span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 Ah cette nuit au val des dunes de sable !
 Ah l'aube où en silence nous nous séparâmes !
 Celui que le matin peut réveiller à ses baisers
@@ -78,7 +78,7 @@ Bois à la coupe des bienheureux du ciel !
 
 Tard et tôt, l'amour entre nous, messager oisif, était parti,
 Jusqu'à ce que son embuscade fatale soit tendue dans la vallée de Khedab :
-Là nous nous sommes rencontrés ; ni signe, ni signe, nous n'avions besoin que d'un regard, pas plus ; <span id="p360">[<sup><small>p. 360  </small></sup>]</span>
+Là nous nous sommes rencontrés ; ni signe, ni signe, nous n'avions besoin que d'un regard, pas plus ; <span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 Tout mon cœur et toute sa passion se reflétaient dans son cœur, je le vis;
 Et j'ai dit : « C'est frais le soir ; les maisons avec jardin ne sont pas loin ;
 Pourquoi restons-nous assis, fatigués, sur des bêtes fatiguées ?

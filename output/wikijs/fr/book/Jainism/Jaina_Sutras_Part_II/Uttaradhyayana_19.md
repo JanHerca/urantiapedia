@@ -300,7 +300,7 @@ Ainsi je dis.
 
 [^256]: 97:1 Miga = m<i>ri</i>ga, littéralement « antilope » ; mais ici, comme souvent, le mot a apparemment le sens plus général d'« animal sauvage ».
 
-[^257] : 98 : 1 Voir les notes [2](Uttaradhyayana_12#fn159) et [3](Uttaradhyayana_12#fn160) sur [p. 50](Uttaradhyayana_12#p50).
+[^257] : 98 : 1 Voir les notes [2](../Uttaradhyayana_12#fn159) et [3](../Uttaradhyayana_12#fn160) sur [p. 50](../Uttaradhyayana_12#p50).
 
 [^258] : 98:2 Gârava = gaurava ou garva. Dîpikâ : <i>ri</i>ddhigârava-rasagârava-sâtâgârava iti garvatrayarahita<i>h</i>.
 
@@ -308,4 +308,4 @@ Ainsi je dis.
 
 [^260]: 99:1 Vâsî<i>k</i>anda<i>n</i>akappô. L'auteur de l'Ava<i>k</i>ûri explique cette expression ainsi : il n'aimait pas plus un homme qui s'oint de sandale qu'un maçon. Apparemment, il donne à vâsa le sens de « demeure » ; mais je pense que la juxtaposition de <i>k</i>andana appelle un mot désignant une substance malodorante, peut-être des ordures.
 
-[^261]: 99:2 Littéralement « porte ». Le sens du vers sera pleinement rendu et la comparaison sera au moins partiellement préservée par la traduction moins littérale suivante : il ferma la porte, pour ainsi dire, aux influences maléfiques. Pour l'âsrava, voir ci-dessus, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^261]: 99:2 Littéralement « porte ». Le sens du vers sera pleinement rendu et la comparaison sera au moins partiellement préservée par la traduction moins littérale suivante : il ferma la porte, pour ainsi dire, aux influences maléfiques. Pour l'âsrava, voir ci-dessus, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).

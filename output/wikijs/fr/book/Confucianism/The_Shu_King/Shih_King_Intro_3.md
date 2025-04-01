@@ -102,4 +102,4 @@ Dans l’ensemble, les preuves données ci-dessus sont aussi complètes qu’on 
 
 ## Notes de bas de page
 
-[^323]: 285:1 Tous, en fait, à l'exception des six pièces de la deuxième partie, dont nous ne connaissons que les titres. Kû Hsî et d'autres soutiennent que le texte de ces pièces avait été perdu avant l'époque de Confucius. Il se peut cependant qu'il ait été perdu après la mort du sage ; voir note [p. 283](Shih_King_Intro_2#p283).
+[^323]: 285:1 Tous, en fait, à l'exception des six pièces de la deuxième partie, dont nous ne connaissons que les titres. Kû Hsî et d'autres soutiennent que le texte de ces pièces avait été perdu avant l'époque de Confucius. Il se peut cependant qu'il ait été perdu après la mort du sage ; voir note [p. 283](../Shih_King_Intro_2#p283).

@@ -248,9 +248,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^239]: 122:1 Ou plutôt, cette direction vers le haut.
 
-[^240]: 122:2 C'est-à-dire la région de la lumière, du soleil. Voir [V, 3, 1, 2](Book_3_5_3#v5_3_1_2) avec note.
+[^240]: 122:2 C'est-à-dire la région de la lumière, du soleil. Voir [V, 3, 1, 2](../Book_3_5_3#v5_3_1_2) avec note.
 
-[^241]: 123:1 La signification de ce composé est inconnue. Sâya<i>n</i>a l'explique comme signifiant « celui qui ne bouge pas d'un endroit, celui qui reste toujours au même endroit ». D'où l'hypothèse du dictionnaire de Saint-Pétersbourg : « Celui dont le troupeau (ou l'enclos à bétail, vra<i>g</i>a, vrâ<i>g</i>a) est stationnaire. » De même, le professeur Weber, dans le Dictionnaire de Böhtlingk. Voir cependant la lecture Kâ<i>n</i>va ci-dessus, [p. 50](Book_3_5_2#p50), note [1](Book_3_5_2#fn115), selon laquelle le mot semblerait désigner une personne atteinte d'une certaine maladie (choléra ou dysenterie). L'offrande « Pa<i>ñ</i><i>k</i>abila » peut être effectuée comme un ish<i>t</i>i spécial, indépendamment du Râ<i>g</i>asûya.
+[^241]: 123:1 La signification de ce composé est inconnue. Sâya<i>n</i>a l'explique comme signifiant « celui qui ne bouge pas d'un endroit, celui qui reste toujours au même endroit ». D'où l'hypothèse du dictionnaire de Saint-Pétersbourg : « Celui dont le troupeau (ou l'enclos à bétail, vra<i>g</i>a, vrâ<i>g</i>a) est stationnaire. » De même, le professeur Weber, dans le Dictionnaire de Böhtlingk. Voir cependant la lecture Kâ<i>n</i>va ci-dessus, [p. 50](../Book_3_5_2#p50), note [1](../Book_3_5_2#fn115), selon laquelle le mot semblerait désigner une personne atteinte d'une certaine maladie (choléra ou dysenterie). L'offrande « Pa<i>ñ</i><i>k</i>abila » peut être effectuée comme un ish<i>t</i>i spécial, indépendamment du Râ<i>g</i>asûya.
 
 [^242]: 123:2 'Mais qui (sait) vivra un an ?' Taitt. Br. I, 8, 4. 3.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^244]: 124:1 C'est-à-dire que les six premières oblations doivent être combinées et accomplies ensemble comme une seule offrande, sans changer la couverture d'herbe sacrificielle sur l'autel.
 
-[^245]: 124:2 Sâya<i>n</i>a fournit « rois » et se réfère à Taitt. Br. I, 8, 4, 1, où l'on dit que les Kurupa<i>ñ</i><i>k</i>âla (rois) sortent pendant la saison de la rosée (lors d'un raid dans le pays oriental) et reviennent avec leur butin à la fin de la saison chaude. Voir [paragraphe 5](Book_3_5_5#v5_5_2_5).
+[^245]: 124:2 Sâya<i>n</i>a fournit « rois » et se réfère à Taitt. Br. I, 8, 4, 1, où l'on dit que les Kurupa<i>ñ</i><i>k</i>âla (rois) sortent pendant la saison de la rosée (lors d'un raid dans le pays oriental) et reviennent avec leur butin à la fin de la saison chaude. Voir [paragraphe 5](../Book_3_5_5#v5_5_2_5).
 
 [^246]: 125:1 Dans le cérémonial Taittirîya, ce sacrifice animal précède le « prayu<i>g</i>â<i>m</i> havî<i>m</i>shi » ; lui-même succédé en premier lieu par le « sâtyadûtânâ<i>m</i> havî<i>m</i>shi ».
 
@@ -322,12 +322,12 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^276]: 141:1 Apparemment le fils d'A<i>g</i>âta<i>s</i>atru, roi de Kâ<i>s</i>î, qui est mentionné comme ayant été très compétent en théologie spéculative, et jaloux, à cet égard, du roi <i>G</i>anaka de Videha.
 
-[^277]: 141:2 Selon Sâya<i>n</i>a, ces '<i>s</i>atamânas' sont semblables à la plaque ronde portée par le roi lors de la cérémonie de consécration ; voir [p. 104](Book_3_5_4#p104), note [2](Book_3_5_4#fn206). Ces plaques (comme les 'rukmas' en général, [VI, 7, 1, 2](Book_3_6_7#v6_7_1_2) seq.) étaient apparemment utilisées uniquement comme ornement, et non comme pièces de monnaie.
+[^277]: 141:2 Selon Sâya<i>n</i>a, ces '<i>s</i>atamânas' sont semblables à la plaque ronde portée par le roi lors de la cérémonie de consécration ; voir [p. 104](../Book_3_5_4#p104), note [2](../Book_3_5_4#fn206). Ces plaques (comme les 'rukmas' en général, [VI, 7, 1, 2](../Book_3_6_7#v6_7_1_2) seq.) étaient apparemment utilisées uniquement comme ornement, et non comme pièces de monnaie.
 
 [^278]: 141:3 Sâya<i>n</i>a explique que cela signifie que l'or n'est pas utilisé pour la consommation réelle, mais seulement indirectement, comme pour les récipients sur lesquels la nourriture est servie, ou dans le trafic, comme moyen de troc ; l'or ne perdant ainsi jamais son apparence, sa « gloire ». Voir II, 2, 1, 5, « C'est pourquoi on ne se purifie pas avec lui (?), ni on ne fait rien d'autre avec lui. »
 
 [^279]: 142:1 Ou bien, les gens étendent les vêtements (soit en les tissant, soit en les enfilant). « Étaler le sacrifice » est le terme habituel pour la pratique cérémonielle consistant à étendre le feu sacrificiel du Gârhapatya (ou feu domestique) sur les deux autres foyers, et donc pour l'accomplissement du sacrifice en général.
 
-[^280]: 142:2 Voir [p. 119](Book_3_5_4#p119), note [2](Book_3_5_4#fn234).
+[^280]: 142:2 Voir [p. 119](../Book_3_5_4#p119), note [2](../Book_3_5_4#fn234).
 
 [^281]: 142:3 C'est-à-dire en prenant en compte les veaux des trois vaches laitières : et en comptant éventuellement le don à l'Âgnîdhra.

@@ -83,7 +83,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v3_3_2_55"><sup><small>3:3:2:55.</small></sup></span> Maintenant, en premier lieu, ils choisissent le roi (Soma). Une cruche d'eau est placée près de lui, et un brahmane s'assoit à côté de lui [^175]. Là, ils (les prêtres et le sacrificateur) se dirigent maintenant vers l'est.
 
-<span id="v3_3_2_66"><sup><small>3:3:2:66.</small></sup></span> Pendant qu'ils s'y rendent, il (l'Adhvaryu) fait <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> (le sacrificateur) dire le texte (Vâ<i>g</i>. S. IV, 24) : « Dis, pour moi, à Soma : “Ceci est ta gâyatrî-part (bhâga) [^176] !” Dis, pour moi, à Soma : “Ceci est ta trish<i>t</i>ubh-part !” Dis, pour moi, à Soma : “Ceci est ta gâyatî-part !” Dis pour moi à Soma : « Obtiens la souveraineté suprême des noms de mètres ! » Or, lorsqu'il (le roi Soma) est acheté, il est acheté pour une (destination [^177]) — pour la souveraineté des mètres, pour la souveraineté suprême des mètres ; et lorsqu'ils le pressent, ils le tuent : c'est alors qu'il lui dit : « C'est pour la souveraineté des mètres, pour la souveraineté suprême des mètres que je t'achète, non pour te tuer. » S'étant rendu là, il s'assied (derrière le Soma) le visage tourné vers l'est.
+<span id="v3_3_2_66"><sup><small>3:3:2:66.</small></sup></span> Pendant qu'ils s'y rendent, il (l'Adhvaryu) fait <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> (le sacrificateur) dire le texte (Vâ<i>g</i>. S. IV, 24) : « Dis, pour moi, à Soma : « Ceci est ta gâyatrî-part (bhâga) [^176] ! » Dis, pour moi, à Soma : « Ceci est ta trish<i>t</i>ubh-part ! » Dis, pour moi, à Soma : « Ceci est ta gâyatî-part ! » Dis pour moi à Soma : « Obtiens la souveraineté suprême des noms de mètres ! » Or, lorsqu'il (le roi Soma) est acheté, il est acheté pour une (destination [^177]) — pour la souveraineté des mètres, pour la souveraineté suprême des mètres ; et lorsqu'ils le pressent, ils le tuent : c'est alors qu'il lui dit : « C'est pour la souveraineté des mètres, pour la souveraineté suprême des mètres que je t'achète, non pour te tuer. » S'étant rendu là, il s'assied (derrière le Soma) le visage tourné vers l'est.
 
 <span id="v3_3_2_77"><sup><small>3:3:2:77.</small></sup></span> Il touche (les plantes Soma) avec : « Tu es à nous », — ainsi il (Soma), maintenant qu'il est venu (en tant qu'invité), devient comme l'un des siens (du sacrificateur) : pour cette raison il dit : « Tu es à nous » ; — « Ton pur (jus) est bon pour la boisson », car il en tirera en effet la « boisson pure [^178]. » « Que les cueilleurs te cueillent ! » dit-il par souci d'exhaustivité.
 
@@ -277,13 +277,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^175]: 64:1 Je ne pense pas que 'asya' puisse se référer au sacrificateur, en opposition à 'etasya' (Soma) ; ce dernier ne peut pas non plus être interprété avec la proposition relative suivante 'sa yo . . .' Le texte de Kânva dit : Tad yad eva <i>s</i>obhanatama<i>m</i> tat somopanahana<i>m</i> syâd, vâso by asyaitad bhavati ; sa yo haita<i>k</i> <i>kh</i>obhanatama<i>m</i> kurute, <i>s</i>obhate haiva sa<i>h</i>, etc.
 
-[^176]: 64:2 Le Pratiprasthât<i>ri</i>, en premier lieu, prend les plantes de Soma (au vendeur) et les place sur une peau de bœuf, teinte en rouge et étalée sur le sol à l'endroit (à l'est de la salle) où les « trous de sondage » seront creusés (voir [III, 5, 4, 1](Book_2_3_5#v3_5_4_1) seq.). Le vendeur du Soma, qui doit être soit de la tribu Kutsa, soit un <i>S</i>ûdra, cueille alors le Soma, brisant les plantes aux articulations. Une jarre remplie d'eau est placée devant le Soma, et un Brâhmane (ou l'assistant du Brahmane, à savoir le Brâhma<i>n</i>â_kh<i>a</i>m_sin) s'assoit à droite ou au sud du Soma. Kâty. VII, 6, 1-6.
+[^176]: 64:2 Le Pratiprasthât<i>ri</i>, en premier lieu, prend les plantes de Soma (au vendeur) et les place sur une peau de bœuf, teinte en rouge et étalée sur le sol à l'endroit (à l'est de la salle) où les « trous de sondage » seront creusés (voir [III, 5, 4, 1](../Book_2_3_5#v3_5_4_1) seq.). Le vendeur du Soma, qui doit être soit de la tribu Kutsa, soit un <i>S</i>ûdra, cueille alors le Soma, brisant les plantes aux articulations. Une jarre remplie d'eau est placée devant le Soma, et un Brâhmane (ou l'assistant du Brahmane, à savoir le Brâhma<i>n</i>â_kh<i>a</i>m_sin) s'assoit à droite ou au sud du Soma. Kâty. VII, 6, 1-6.
 
-[^177]: 65:1 Les trois parties se réfèrent aux trois Savanas, où les mètres respectifs sont utilisés. Voir [IV, 3, 2, 7](Book_2_4_3#v4_3_2_7) seq.
+[^177]: 65:1 Les trois parties se réfèrent aux trois Savanas, où les mètres respectifs sont utilisés. Voir [IV, 3, 2, 7](../Book_2_4_3#v4_3_2_7) seq.
 
-[^178]: 65:2 Bhâgam semble avoir été perdu ici, car un jeu de mots sur ce mot semble être prévu, qui pourrait peut-être être reproduit par tirage au sort. Il est donné à la fois dans le texte de Kânva et dans [III, 4, 1, 7](Book_2_3_4#v3_4_1_7).
+[^178]: 65:2 Bhâgam semble avoir été perdu ici, car un jeu de mots sur ce mot semble être prévu, qui pourrait peut-être être reproduit par tirage au sort. Il est donné à la fois dans le texte de Kânva et dans [III, 4, 1, 7](../Book_2_3_4#v3_4_1_7).
 
-[^179]: 65:3 Pour le <i>S</i>ukra-graha, voir [IV, 2, 1, 1](Book_2_4_2#v4_2_1_1) seq.
+[^179]: 65:3 Pour le <i>S</i>ukra-graha, voir [IV, 2, 1, 1](../Book_2_4_2#v4_2_1_1) seq.
 
 [^180]: 66:1 Ati<i>kh</i>andas (« sur-mètre ») est le nom générique des mètres qui comptent plus de quarante-huit syllabes : il est donc censé inclure tous les autres mètres qui en comportent moins. Voir VIII, 6, 2, 23, où le terme est expliqué par atti-<i>kh</i>andâ<i>h</i> (mangeur de mètres).
 
@@ -315,15 +315,15 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^194]: 72:3 'Pour ces mêmes Gandharvas, les surveillants des Gardiens de Soma, ils sont (censés) à la place de ces (? tertres de foyers), car tels sont leurs noms : c'est à eux qu'il attribue ainsi ces (objets constituant le prix d'achat), et ainsi il devient sans dette envers eux.' Texte Kânva. Voir aussi partie i, p. 183, note 2.
 
-[^195]: 73:1 Voir [III, 2, 1, 16](Book_2_3_2#v3_2_1_16). Sa femme fait de même.
+[^195]: 73:1 Voir [III, 2, 1, 16](../Book_2_3_2#v3_2_1_16). Sa femme fait de même.
 
-[^196]: 73:2 Selon un passage antérieur ([III, 1, 3, 28](Book_2_3_1#v3_1_3_28)), le sacrificateur est censé rester à l'état embryonnaire jusqu'à la pression du Soma. La recension de Kânva dit : 'Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;' où 'a<i>g</i>î<i>g</i>anat' semble signifier 'il a engendré'. Je ne suis pas tout à fait certain que Soma lui-même soit réellement impliqué. Voir [III, 3, 4, 6](Book_2_3_3#v3_3_4_6).
+[^196]: 73:2 Selon un passage antérieur ([III, 1, 3, 28](../Book_2_3_1#v3_1_3_28)), le sacrificateur est censé rester à l'état embryonnaire jusqu'à la pression du Soma. La recension de Kânva dit : 'Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;' où 'a<i>g</i>î<i>g</i>anat' semble signifier 'il a engendré'. Je ne suis pas tout à fait certain que Soma lui-même soit réellement impliqué. Voir [III, 3, 4, 6](../Book_2_3_3#v3_3_4_6).
 
 [^197]: 74:1 Comparez le verset légèrement différent, Rig-veda VI, 51, 16.
 
 [^198]: 74:2 Le sacrificateur porte le paquet de Soma sur sa main posée sur sa tête.
 
-[^199]: 74:3 Soit le vase d'eau mentionné [III, 1, 2, 2](Book_2_3_1#v3_1_2_2).
+[^199]: 74:3 Soit le vase d'eau mentionné [III, 1, 2, 2](../Book_2_3_1#v3_1_2_2).
 
 [^200]: 75:1 Le chariot est placé au sud du lieu où a eu lieu l'achat du Soma, les brancards orientés vers l'est, équipé de tous les accessoires et attelé à deux bœufs. La peau d'antilope est étalée, le côté poilu vers le haut, et la partie du cou vers l'est.
 
@@ -335,7 +335,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^204]: 77:1 'Dans les eaux (apsu),' Rig-veda.
 
-[^205]: 77:2 Voir [III, 2, 1, 1](Book_2_3_2#v3_2_1_1) seq.
+[^205]: 77:2 Voir [III, 2, 1, 1](../Book_2_3_2#v3_2_1_1) seq.
 
 [^206]: 77:3 Il l'attachera à un bâton fixé au timon du chariot près du joug. Kâty. VII, 9, 9.
 
@@ -365,9 +365,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^219]: 82:3 Le texte de Kâ<i>n</i>va indique également que cette dernière partie de la formule a été conçue par Âru<i>n</i>i, mais rien n'est dit quant au caractère facultatif de son utilisation.
 
-[^220]: 82:4 Pour les variations de cette partie finale de la Subrahma<i>n</i>yâ dans différentes écoles, voir Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; également notes à [III, 9, 3, 10](Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Transl. Ait. Br. p. 383.
+[^220]: 82:4 Pour les variations de cette partie finale de la Subrahma<i>n</i>yâ dans différentes écoles, voir Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; également notes à [III, 9, 3, 10](../Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Transl. Ait. Br. p. 383.
 
-[^221]: 82:5 Voir [III, 1, 3, 1](Book_2_3_1#v3_1_3_1) seq.
+[^221]: 82:5 Voir [III, 1, 3, 1](../Book_2_3_1#v3_1_3_1) seq.
 
 [^222]: 83:1 'Par cette victime, il se rachète lui-même, la victime, et avec ce moi racheté, désormais sien, il se sacrifie.' Kânva rec.
 

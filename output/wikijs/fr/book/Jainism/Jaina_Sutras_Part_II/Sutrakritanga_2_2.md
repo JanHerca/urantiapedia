@@ -340,7 +340,7 @@ Ainsi je dis.
 
 [^1046]: 359:2 Ils sont spécialisés dans le texte comme <i>S</i>yâmaka<i>m</i> tri<i>n</i>a<i>m</i>, mukundaka vrîhiûsita et kâlêsuka. Seuls les deux premiers sont mentionnés dans nos dictionnaires.
 
-[^1047]: 359:3 Dans le Dipikâ, le verset memorialis suivant est cité, dans lequel les noms des lieux mentionnés dans le texte sont définis : grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || On verra que la signification de ces termes donnés dans ce verset diffère de celle donnée dans les notes [3](Uttaradhyayana_30#fn473)\-[11](Uttaradhyayana_30#fn481), [p. 176](Uttaradhyayana_30#p176).
+[^1047]: 359:3 Dans le Dipikâ, le verset memorialis suivant est cité, dans lequel les noms des lieux mentionnés dans le texte sont définis : grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || On verra que la signification de ces termes donnés dans ce verset diffère de celle donnée dans les notes [3](../Uttaradhyayana_30#fn473)\-[11](../Uttaradhyayana_30#fn481), [p. 176](../Uttaradhyayana_30#p176).
 
 [^1048]: 360:1 Le même passage se trouve dans Kalpa Sûtra, Vies des Ginas, § 92, partie i, p. 249.
 
@@ -358,7 +358,7 @@ Ainsi je dis.
 
 [^1055]: 362:4 Pa<i>k</i><i>k</i>âyâti, pratyâyâti. Dîpikâ: avi<i>s</i>vâsyatayâ pratyâyâti prakhyâti<i>m</i> yâti.
 
-[^1056]: 363:1 Concernant la division quadruple de la parole, voir ci-dessus, [p. 335](Sutrakritanga_2_1#p335), et la partie i, p. 150, note 2.
+[^1056]: 363:1 Concernant la division quadruple de la parole, voir ci-dessus, [p. 335](../Sutrakritanga_2_1#p335), et la partie i, p. 150, note 2.
 
 [^1057]: 363:2 Le sens est que les Brahmanes déclarent que tuer un Brahmane est un crime capital, mais tuer un Sûdra est un crime véniel.
 

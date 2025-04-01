@@ -108,7 +108,7 @@ Regardez le champ accidenté et pierreux ; — les céréales y poussent abondam
 
 LA LAMENTATION D'UN OFFICIER SUR LES PRODIGES CÉLESTES ET TERRESTRES, NOTAMMENT UNE ÉCLIPSE DE SOLEIL, QUI PRÉSENTAIENT LA RUINE DE <i>K</i>ÂU. IL EXPOSE CE QU'IL CONSIDÉRAIT COMME LES VRAIES CAUSES DE LA MISÈRE RÉGISSANTE, QUI NE DOIT EN AUCUN CAS ÊTRE IMPUTÉE AU CIEL.
 
-L'attention est attirée dans l'introduction, [p. 296](Shih_King_Intro_4#p296), sur la date de l'éclipse solaire mentionnée dans cet article.
+L'attention est attirée dans l'introduction, [p. 296](../Shih_King_Intro_4#p296), sur la date de l'éclipse solaire mentionnée dans cet article.
 
 À la conjonction (du soleil et de la lune) du dixième mois, le premier jour de la lune, qui était hsin-mâo, le soleil fut éclipsé, chose de très mauvais augure. Auparavant, la lune était petite, et maintenant le soleil est petit. Désormais, les gens du peuple seront dans une situation très déplorable.
 

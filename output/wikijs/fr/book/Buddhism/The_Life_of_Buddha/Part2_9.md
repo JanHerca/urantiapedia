@@ -57,7 +57,7 @@ Le Maître se fit bientôt de nombreux ennemis parmi les habitants de la ville. 
 
 Les disciples ne répondirent pas. Mais ils sentaient la colère du peuple grandir, et ils rapportèrent au Maître les mauvaises paroles qu'ils avaient entendues.
 
-« Ne vous laissez pas troubler, ô disciples », répondit le Bouddha. « Ils cesseront bientôt. À ceux qui vous harcèlent et vous insultent, adressez-vous avec douceur et douceur. Dites-leur : “C’est parce qu’ils connaissent la vérité, la vraie vérité, que les héros convainquent, que les parfaits se convertissent. Qui ose offenser le Bouddha, le Saint qui convertit par le pouvoir de la vérité ?” Alors ils se tairont, et dans quelques jours, lorsque vous déambulerez dans la ville, vous ne rencontrerez que respect et louanges.”
+« Ne vous laissez pas troubler, ô disciples », répondit le Bouddha. « Ils cesseront bientôt. À ceux qui vous harcèlent et vous insultent, adressez-vous avec douceur et douceur. Dites-leur : « C’est parce qu’ils connaissent la vérité, la vraie vérité, que les héros convainquent, que les parfaits se convertissent. Qui ose offenser le Bouddha, le Saint qui convertit par le pouvoir de la vérité ? » Alors ils se tairont, et dans quelques jours, lorsque vous déambulerez dans la ville, vous ne rencontrerez que respect et louanges.”
 
 Tout se passa comme le Bouddha l'avait annoncé. Les voix maléfiques furent réduites au silence et chacun à Rajagriha honora les disciples du Maître.
 

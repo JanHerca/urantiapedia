@@ -624,7 +624,7 @@ Fin du Premier Kâ<i>nd</i>a.
 
 [^669]: 271:4 La nourriture _k<i>âtushprâ</i>s_ya est préparée, au moment de l'installation des feux de <i>S</i>rauta, pour les quatre principaux prêtres officiants des sacrifices de <i>S</i>rauta. Comp. <i>S</i>atapatha Brâhma<i>âtushprâ</i>a II, 1, 4. Les règles correspondantes du Kâtyâyana concernant l'Âdhâna des feux de <i>S</i>rauta se trouvent aux versets IV, 7, 15 et 16.
 
-[^670]: 271:5 Comp. les remarques sur ce Sûtra, dans l'Introduction, pp. [265](Paraskara_Intro#p265) seq.
+[^670]: 271:5 Comp. les remarques sur ce Sûtra, dans l'Introduction, pp. [265](../Paraskara_Intro#p265) seq.
 
 [^671]: 271:6 <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6, 1: 'Il y a cinq grands sacrifices qui sont de grands Sattras, à savoir le sacrifice aux êtres vivants, le sacrifice aux hommes, le sacrifice aux Mânes, le sacrifice aux dieux, le Brahmaya<i>nd</i>a.' Comme les cérémonies de G<i>n</i>hya sont incluses ici dans la catégorie des mahâya<i>nd</i>âs ou grands sacrifices, elles requièrent, selon les maîtres dont l'opinion est exprimée dans le Sûtra 5, une forme d'Agnyâdhâna (mise en place du feu sacré) analogue à l'Agnyâdhâna du rituel de Srauta, et contenant, comme cet Âdhâna, l'acte de l'Ara<i>n</i>ipradâna ou remise des bois d'allumage (Sûtra 5).
 

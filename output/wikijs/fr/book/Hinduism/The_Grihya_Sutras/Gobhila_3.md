@@ -887,7 +887,7 @@ Fin du Troisième Prapâ<i>th</i>aka.
 
 [^322]: 91:17 Comp. ci-dessous, IV, 5, 3.
 
-[^323]: 91:20 G<i>ri</i>hya-sa<i>ri</i>graha I, 114: 'Lorsque l'expression technique est utilisée, “Le repos selon le rite des Sthâlîpâkas”, il devrait, après avoir sacrifié les deux Â<i>ri</i>yabhâgas, verser (Â<i>ri</i>ya) dans le Sru<i>k</i> et couper (les Avadânas avec le Sru<i>k</i>).' Comp. Gobhila I, 8, 3 seq.
+[^323]: 91:20 G<i>ri</i>hya-sa<i>ri</i>graha I, 114: 'Lorsque l'expression technique est utilisée, « Le repos selon le rite des Sthâlîpâkas », il devrait, après avoir sacrifié les deux Â<i>ri</i>yabhâgas, verser (Â<i>ri</i>ya) dans le Sru<i>k</i> et couper (les Avadânas avec le Sru<i>k</i>).' Comp. Gobhila I, 8, 3 seq.
 
 [^324]: 92:23 Le sacrifice est celui prescrit dans les Sûtras 18. 19, qui doit, ainsi que l'offrande de Balis, être répété quotidiennement.
 

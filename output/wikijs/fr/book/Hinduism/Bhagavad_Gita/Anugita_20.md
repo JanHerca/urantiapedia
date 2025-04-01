@@ -58,7 +58,7 @@ De la vérité sont nées les entités mobiles et immobiles. Elles vivent de pé
 
 <span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
-(toutes) les entités [1](Anugita_21#fn1516). Je vais maintenant énoncer avec précision et raison tous les éléments qui résident en parties dans tous les objets. Le grand soi [2](Anugita_21#fn1517), l'invisible [3](Anugita_21#fn1518) de même, et de même aussi l'égoïsme, les dix sens et l'unique [4](Anugita_21#fn1519) (sens), et les cinq grands éléments, et les caractéristiques spécifiques des cinq éléments [5](Anugita_21#fn1520), telle est la création éternelle. Le nombre des éléments est célébré comme étant vingt-quatre plus un. Et l'homme doué qui comprend la production et la dissolution de (tous) les éléments, lui, de tous les êtres, ne vient jamais par illusion. Celui qui comprend avec précision les éléments, l'ensemble des qualités [6](Anugita_21#fn1521), et aussi toutes les divinités [7](Anugita_21#fn1522), rejetant le péché et se débarrassant de tous les liens, atteint tous les mondes sans tache.
+(toutes) les entités [1](../Anugita_21#fn1516). Je vais maintenant énoncer avec précision et raison tous les éléments qui résident en parties dans tous les objets. Le grand soi [2](../Anugita_21#fn1517), l'invisible [3](../Anugita_21#fn1518) de même, et de même aussi l'égoïsme, les dix sens et l'unique [4](../Anugita_21#fn1519) (sens), et les cinq grands éléments, et les caractéristiques spécifiques des cinq éléments [5](../Anugita_21#fn1520), telle est la création éternelle. Le nombre des éléments est célébré comme étant vingt-quatre plus un. Et l'homme doué qui comprend la production et la dissolution de (tous) les éléments, lui, de tous les êtres, ne vient jamais par illusion. Celui qui comprend avec précision les éléments, l'ensemble des qualités [6](../Anugita_21#fn1521), et aussi toutes les divinités [7](../Anugita_21#fn1522), rejetant le péché et se débarrassant de tous les liens, atteint tous les mondes sans tache.
 
 <figure class="table chapter-navigator">
   <table>
@@ -88,15 +88,15 @@ De la vérité sont nées les entités mobiles et immobiles. Elles vivent de pé
 
 [^1487]: 310:1 C'est-à-dire après l'identification du soi individuel avec le soi universel, lorsque l'individu cesse d'être perçu comme tel. Cf. <i>S</i>ânti Parvan (Moksha), chap. 187, st. 23.
 
-[^1488]: 310:2 Ce qui est au-delà de Kshetra<i>g</i>as = le soi suprême absolu. Cf. Gîtâ, [p. 206](Anugita_Intro#p206).
+[^1488]: 310:2 Ce qui est au-delà de Kshetra<i>g</i>as = le soi suprême absolu. Cf. Gîtâ, [p. 206](../Anugita_Intro#p206).
 
 [^1489]: 310:3 La substance de ce discours, dit Ar<i>g</i>una Mi<i>s</i>ra, est que l'esprit et la compréhension consacrés au suprême conduisent à l'émancipation finale.
 
-[^1490]: 310:4 Voir [p. 296](Anugita_14#p296) supra. Le dernier chapitre conclut ce que certains manuscrits appellent la Brahma Gîtâ, ou Brâhma<i>n</i>a Gîtâ, contenue dans l'Anugîtâ Parvan. Voir à ce sujet notre Introduction, où ce point est approfondi.
+[^1490]: 310:4 Voir [p. 296](../Anugita_14#p296) supra. Le dernier chapitre conclut ce que certains manuscrits appellent la Brahma Gîtâ, ou Brâhma<i>n</i>a Gîtâ, contenue dans l'Anugîtâ Parvan. Voir à ce sujet notre Introduction, où ce point est approfondi.
 
 [^1491]: 311:1 Comparez les questions au début du <i>S</i>vetâ<i>s</i>vatara-upanishad.
 
-[^1492]: 311:2 Une expression similaire à celle du Sanatsu<i>g</i>âtîya, [p. 149](Sanatsugatiya_1#p149), et ailleurs.
+[^1492]: 311:2 Une expression similaire à celle du Sanatsu<i>g</i>âtîya, [p. 149](../Sanatsugatiya_1#p149), et ailleurs.
 
 [^1493]: 312:1 Il n’est pas facile d’expliquer le changement ici du singulier au pluriel.
 
@@ -110,17 +110,17 @@ De la vérité sont nées les entités mobiles et immobiles. Elles vivent de pé
 
 [^1498]: 312:6 Nîlaka<i>nth</i>a compare <i>Kh</i>ândogya, pp. 523-553.
 
-[^1499]: 312:7 C'est-à-dire de K<i</i>i</i>t et de <i>G</i>a<i>d</i>a, dit Nîlaka<i>nth</i>a ; de Brahman et de ses manifestations, comme il est fait allusion, entre autres, aux pp. [105](Bhagavadgita_13#p105), [106](Bhagavadgita_13#p106), [191](Sanatsugatiya_6#p191) supra.
+[^1499]: 312:7 C'est-à-dire de K<i</i>i</i>t et de <i>G</i>a<i>d</i>a, dit Nîlaka<i>nth</i>a ; de Brahman et de ses manifestations, comme il est fait allusion, entre autres, aux pp. [105](../Bhagavadgita_13#p105), [106](../Bhagavadgita_13#p106), [191](../Sanatsugatiya_6#p191) supra.
 
-[^1500]: 313:1 C'est-à-dire que la variété n'existe que dans ce monde, mais que l'unité de toute chose est la vraie proposition. Cf. inter alia Gîtâ, [p. 104](Bhagavadgita_13#p104).
+[^1500]: 313:1 C'est-à-dire que la variété n'existe que dans ce monde, mais que l'unité de toute chose est la vraie proposition. Cf. inter alia Gîtâ, [p. 104](../Bhagavadgita_13#p104).
 
-[^1501]: 313:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 858, et Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1501]: 313:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 858, et Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1502]: 313:3 C'est-à-dire la Prak<i>ri</i>ti des Sânkhyas.
 
 [^1503]: 313:4 Les grands éléments sont les cinq tanmâtras de la terre, de l'eau, du feu, de l'air et de l'espace, qui produisent ensuite ce que nous avons appelé les éléments grossiers dans le texte, à savoir la terre, etc. que nous percevons.
 
-[^1504]: 313:5 L'arbre symbolise la vie terrestre. Cf. pp. [111](Bhagavadgita_15#p111)\-[189](Sanatsugatiya_6#p189) supra. Les feuilles et les fleurs, dit Ar<i>g</i>una Mi<i>s</i>ra, représentent la volition et l'action ; et Nîlaka<i>nth</i>a semble être d'accord. L'arbre est dit éternel, car la vie terrestre est censée n'avoir pas eu de commencement. Cf. Sârîraka Bhâshya, p. 494, « germer de la graine », cette traduction est rendue nécessaire par le fait que Brahman est décrit comme la graine. Cf. Mundaka, p. 288 ; <i>S</i>vetâ<i>s</i>vatara, p. 362 ; Ka<i>nth</i>a, pp. 143, 144.
+[^1504]: 313:5 L'arbre symbolise la vie terrestre. Cf. pp. [111](../Bhagavadgita_15#p111)\-[189](../Sanatsugatiya_6#p189) supra. Les feuilles et les fleurs, dit Ar<i>g</i>una Mi<i>s</i>ra, représentent la volition et l'action ; et Nîlaka<i>nth</i>a semble être d'accord. L'arbre est dit éternel, car la vie terrestre est censée n'avoir pas eu de commencement. Cf. Sârîraka Bhâshya, p. 494, « germer de la graine », cette traduction est rendue nécessaire par le fait que Brahman est décrit comme la graine. Cf. Mundaka, p. 288 ; <i>S</i>vetâ<i>s</i>vatara, p. 362 ; Ka<i>nth</i>a, pp. 143, 144.
 
 [^1505]: 314:1 C'est-à-dire le moyen d'y parvenir, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -128,7 +128,7 @@ De la vérité sont nées les entités mobiles et immobiles. Elles vivent de pé
 
 [^1507]: 314:3 Il explique comment la doctrine appartient aux temps anciens.
 
-[^1508]: 314:4 C'est-à-dire les chemins de l'action, Nîlaka<i>nth</i>a. Voir Sanatsu<i>g</i>âtîya, [p. 165](Sanatsugatiya_3#p165).
+[^1508]: 314:4 C'est-à-dire les chemins de l'action, Nîlaka<i>nth</i>a. Voir Sanatsu<i>g</i>âtîya, [p. 165](../Sanatsugatiya_3#p165).
 
 [^1509]: 314:5 À savoir, le Pit<i>ri</i>yâna et le Devayâna (Ar<i>g</i>una Mi<i>s</i>ra), à propos desquels voir <i>Kh</i>ândogya, p. 341, Kaushîtaki, p. 13, et B<i>ri</i>hadâra<i>n</i>yaka, p. 1034.
 
@@ -136,15 +136,15 @@ De la vérité sont nées les entités mobiles et immobiles. Elles vivent de pé
 
 [^1511]: 314:7 Ainsi Nîlaka<i>nth</i>a. Ne pourrait-il pas être « selon la tradition reçue » ?
 
-[^1512]: 315:1 C'est-à-dire par action, Nîlaka<i>nth</i>a. Cf. Mu<i>nth</i>aka, p. 280, et voir [p. 166](Sanatsugatiya_3#p166) supra, note .
+[^1512]: 315:1 C'est-à-dire par action, Nîlaka<i>nth</i>a. Cf. Mu<i>nth</i>aka, p. 280, et voir [p. 166](../Sanatsugatiya_3#p166) supra, note .
 
-[^1513]: 315:2 Autrement dit, ils restent séparés du Brahman, engagés dans l'action. Ceci répond à certaines questions posées par l'élève au précepteur. Quant à la « vérité », voir [p. 162](Sanatsugatiya_2#p162), note [2](Sanatsugatiya_3#fn706) supra.
+[^1513]: 315:2 Autrement dit, ils restent séparés du Brahman, engagés dans l'action. Ceci répond à certaines questions posées par l'élève au précepteur. Quant à la « vérité », voir [p. 162](../Sanatsugatiya_2#p162), note [2](../Sanatsugatiya_3#fn706) supra.
 
-[^1514]: 315:3 C'est-à-dire Î<i>s</i>vara, ou dieu ; pénitence = piété ; Pra<i>g</i>âpati = l'âme individuelle, Nîlaka<i>nth</i>a. Brahman = 'cela' (mais comment 'cela' est-il 'joint aux qualités' ?) ; Pra<i>g</i>âpati = Brahman, A<i>g</i>una Mi<i>s</i>ra. Ils s'accordent sur la pénitence et les entités (qu'ils prennent pour les éléments grossiers) et les créatures. Brahman et Pra<i>g</i>âpati = Virâ<i>g</i> et Hira<i>n</i>yagarbha (?), [p. 186](Sanatsugatiya_6#p186) supra. Cf. Sânti Parvan (Moksha), chap. 190, st. 1.
+[^1514]: 315:3 C'est-à-dire Î<i>s</i>vara, ou dieu ; pénitence = piété ; Pra<i>g</i>âpati = l'âme individuelle, Nîlaka<i>nth</i>a. Brahman = 'cela' (mais comment 'cela' est-il 'joint aux qualités' ?) ; Pra<i>g</i>âpati = Brahman, A<i>g</i>una Mi<i>s</i>ra. Ils s'accordent sur la pénitence et les entités (qu'ils prennent pour les éléments grossiers) et les créatures. Brahman et Pra<i>g</i>âpati = Virâ<i>g</i> et Hira<i>n</i>yagarbha (?), [p. 186](../Sanatsugatiya_6#p186) supra. Cf. Sânti Parvan (Moksha), chap. 190, st. 1.
 
 [^1515]: 315:4 C'est-à-dire qui ne commettent aucun manquement à la piété par crainte les uns des autres, Nîlaka<i>nth</i>a.
 
-[^1516]: 315:5 Cf. Gita, [p. 86](Bhagavadgita_9#p86).
+[^1516]: 315:5 Cf. Gita, [p. 86](../Bhagavadgita_9#p86).
 
 [^1517]: 316:1 C'est-à-dire celui de l'ascète, qui se consacre spécialement à l'acquisition de la connaissance sur la relation du soi suprême et du soi individuel (Adhyâtma).
 

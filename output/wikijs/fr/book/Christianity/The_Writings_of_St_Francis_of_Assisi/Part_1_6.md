@@ -106,7 +106,7 @@ Et quiconque observera ces choses [^351] sera comblé au ciel de la bénédictio
 
 [^329] : 80 : 2 Voir _Documenta Antiqua Franciscana_, P. II, p. 60.
 
-[^330]: 80:3 Voir page [3](Part_1_1#p3).
+[^330]: 80:3 Voir page [3](../Part_1_1#p3).
 
 [^331]: 81:1 Le texte du Testament donné par M. Sabatier dans son édition du _Speculum Perf._ est celui de ce manuscrit d'Assise.
 

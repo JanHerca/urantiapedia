@@ -224,7 +224,7 @@ SIXIÈME KÂ<i>N</i><i>D</i>A.
 
 [^283]: 143:2 Dans l'original, « le non-existant » est le sujet de la proposition, et non le prédicat comme le suggère la traduction. Une transposition similaire semble souvent recommandée en anglais, par souci d'emphase et pour d'autres raisons. La traduction de Muir : « Les Rishis disent qu'au commencement existait le non-être » est une erreur.
 
-[^284]: 143:3 Le nominatif est ici frappant et vivant, cf. [paragraphe 11](Book_3_6_1#v6_1_1_11) ci-dessous. Dans les passages correspondants des livres précédents, l'accusatif aurait été utilisé ici ; par exemple, II, 1, 2, 4, saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate ; de même, III, 1, 2, 3.
+[^284]: 143:3 Le nominatif est ici frappant et vivant, cf. [paragraphe 11](../Book_3_6_1#v6_1_1_11) ci-dessous. Dans les passages correspondants des livres précédents, l'accusatif aurait été utilisé ici ; par exemple, II, 1, 2, 4, saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate ; de même, III, 1, 2, 3.
 
 [^285]: 144:1 C'est-à-dire des êtres vivants ou des âmes, des individualités qui, dans leur forme combinée, sont ici imaginées comme prenant la forme d'un oiseau. Le terme « mâles » employé par Muir est difficilement recommandable.
 
@@ -236,7 +236,7 @@ SIXIÈME KÂ<i>N</i><i>D</i>A.
 
 [^289]: 146:1 Muir interprète cela différemment : « De plus, comme le Véda a d'abord été créé à partir de ce Mâle, il a donc été créé par sa bouche. » Cette traduction, cependant, ne tient pas compte de la particule « hi ».
 
-[^290]: 146:2 Pour la construction, voir ci-dessus, [paragraphe 2](Book_3_6_1#v6_1_1_2), avec la note \*[^284]\*.
+[^290]: 146:2 Pour la construction, voir ci-dessus, [paragraphe 2](../Book_3_6_1#v6_1_1_2), avec la note \*[^284]\*.
 
 [^291]: 146:3 Littéralement, qui s'est écoulé ensemble. Il est expliqué comme le liquide embryonnaire dans l'amnios, ou membrane la plus interne enveloppant le fœtus.
 
@@ -254,7 +254,7 @@ SIXIÈME KÂ<i>N</i><i>D</i>A.
 
 [^298]: 149:2 Une autre classe de divinités (de la tempête), ici associée à Vâyu, le vent, le gardien de la région aérienne.
 
-[^299]: 149:3 Cette classe de divinités (de lumière) est ici associée au Soleil, qui est en effet appelé l'Âditya dans les paragraphes [4](Book_3_6_1#v6_1_2_4) et [10](Book_3_6_1#v6_1_2_10) (au lieu de Sûrya).
+[^299]: 149:3 Cette classe de divinités (de lumière) est ici associée au Soleil, qui est en effet appelé l'Âditya dans les paragraphes [4](../Book_3_6_1#v6_1_2_4) et [10](../Book_3_6_1#v6_1_2_10) (au lieu de Sûrya).
 
 [^300]: 150:1 Le professeur Weber (Ind. Stud. XIII, p. 268) a attiré l'attention sur la divergence entre ce passage et III, 4, 2, 1, où les Vi<i>s</i>ve Devâ<i>h</i> (avec B<i>ri</i>haspati) se voient refuser le privilège de former une classe spéciale de divinités, ce qui est l'un des nombreux points de différence, doctrinaux aussi bien que linguistiques, entre les livres 1 à 5 et 6 à 10.
 
@@ -262,7 +262,7 @@ SIXIÈME KÂ<i>N</i><i>D</i>A.
 
 [^302]: 150:3 Littéralement, il tomba en morceaux, devint disloqué. Ainsi, lorsque les dieux « restaurèrent » Pra<i>g</i>âpati (le seigneur de la génération, identifié au sacrifice et à Agni, le feu), le verbe utilisé est <i>s</i>a<i>m</i>sk<i>ri</i> ; « rassembler » ; et cette assemblage, ou restauration, de Pra<i>g</i>âpati est symboliquement identifiée à la construction de l'autel du feu.
 
-[^303]: 151:1 Upa-dhâ. Les paragraphes [14](Book_3_6_1#v6_1_2_14) et [15](Book_3_6_1#v6_1_2_15) impliquent un double sens du mot hita, le participe passé de dhâ, mettre, à savoir mettre, placer, ou approprié, bénéfique.
+[^303]: 151:1 Upa-dhâ. Les paragraphes [14](../Book_3_6_1#v6_1_2_14) et [15](../Book_3_6_1#v6_1_2_15) impliquent un double sens du mot hita, le participe passé de dhâ, mettre, à savoir mettre, placer, ou approprié, bénéfique.
 
 [^304]: 151:2 Ou, 'je mettrai', etc., upa-dhâ, le verbe utilisé pour la pose de briques dans la construction de l'autel. Cf. II, 1, 2, 15.
 
@@ -270,31 +270,31 @@ SIXIÈME KÂ<i>N</i><i>D</i>A.
 
 [^306]: 153:1 Contrairement aux briques ya<i>g</i>ushmatî (de prière), qui portent des noms spéciaux et ont des formules spéciales qui leur sont attachées ; lokam-p<i>ri</i><i>n</i>â (celles qui remplissent l'espace) est le terme technique pour les briques qui n'ont pas de prières spéciales qui leur appartiennent, mais qui sont empilées avec une formule commune (Vâ<i>g</i>. S. XII, 54 ; Sat. Br. VIII, 7, 2, 1 seq.), commençant par 'lokam p<i>ri</i><i>n</i>a <i>kh</i>idram p<i>ri</i>na', 'remplis l'espace, comble le vide !'
 
-[^307]: 154:1 Voici la formule (Vâ<i>g</i>. S. XII, 53) avec laquelle on effectue ce qu'on appelle le « sâdanam » ou « tassement » des briques. Voir [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30).
+[^307]: 154:1 Voici la formule (Vâ<i>g</i>. S. XII, 53) avec laquelle on effectue ce qu'on appelle le « sâdanam » ou « tassement » des briques. Voir [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30).
 
-[^308]: 154:2 C'est-à-dire la première brique que forme elle-même l'épouse du Sacrificateur, et qui est appelée Ashâ<i>dh</i>â. Voir [VI, 3, 1, 1](Book_3_6_3#v6_3_1_1); [5, 3, 1](Book_3_6_5#v6_5_3_1).
+[^308]: 154:2 C'est-à-dire la première brique que forme elle-même l'épouse du Sacrificateur, et qui est appelée Ashâ<i>dh</i>â. Voir [VI, 3, 1, 1](../Book_3_6_3#v6_3_1_1); [5, 3, 1](../Book_3_6_5#v6_5_3_1).
 
 [^309]: 155:1 C'est-à-dire au moyen de briques d'argile et de terre meuble placée entre les couches.
 
 [^310]: 155:2 Sâya<i>n</i>a se réfère ici seulement au fait que le sacrifice (ya<i>g</i><i>ñ</i>a) est appelé « pâṅkta », « le quintuple ».
 
-[^311]: 155:3 Voir [VII, 5, 2, 1](Book_3_7_5#v7_5_2_1) seq.
+[^311]: 155:3 Voir [VII, 5, 2, 1](../Book_3_7_5#v7_5_2_1) seq.
 
-[^312]: 155:4 Voir [VII, 4, 1, 15](Book_3_7_4#v7_4_1_15) seq.
+[^312]: 155:4 Voir [VII, 4, 1, 15](../Book_3_7_4#v7_4_1_15) seq.
 
-[^313]: 155:5 Voir [VII, 4, 1, 32](Book_3_7_4#v7_4_1_32) seq.
+[^313]: 155:5 Voir [VII, 4, 1, 32](../Book_3_7_4#v7_4_1_32) seq.
 
-[^314]: 155:6 Voir [VII, 5, 1, 12](Book_3_7_5#v7_5_1_12) seq.
+[^314]: 155:6 Voir [VII, 5, 1, 12](../Book_3_7_5#v7_5_1_12) seq.
 
-[^315]: 155:7 Voir [VII, 5, 1, 1](Book_3_7_5#v7_5_1_1) seq.
+[^315]: 155:7 Voir [VII, 5, 1, 1](../Book_3_7_5#v7_5_1_1) seq.
 
-[^316]: 155:8 Apparemment une sorte de pierre poreuse. Trois de ces pierres perforées ou « briques » sont utilisées dans la construction de l'autel du feu ; à savoir : l'une est posée sur l'homme d'or au centre de la couche inférieure (un sâman relatif à bhûs, la terre, étant prononcé p. 156 dessus en le touchant) ; la deuxième au centre de la troisième couche ; et la troisième est posée au centre de la cinquième couche terminée. Elles sont censées représenter les trois mondes, les trous étant destinés à offrir au Sacrificateur (représenté par l'homme d'or) un passage vers les régions les plus élevées. Voir [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1) seq.
+[^316]: 155:8 Apparemment une sorte de pierre poreuse. Trois de ces pierres perforées ou « briques » sont utilisées dans la construction de l'autel du feu ; à savoir : l'une est posée sur l'homme d'or au centre de la couche inférieure (un sâman relatif à bhûs, la terre, étant prononcé p. 156 dessus en le touchant) ; la deuxième au centre de la troisième couche ; et la troisième est posée au centre de la cinquième couche terminée. Elles sont censées représenter les trois mondes, les trous étant destinés à offrir au Sacrificateur (représenté par l'homme d'or) un passage vers les régions les plus élevées. Voir [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1) seq.
 
 [^317]: 156:1 Il n'est pas tout à fait clair si l'auteur se livre à des plaisanteries étymologiques (go—gû). Le manuscrit de Bombay de Sâya<i>n</i>a se lit comme suit : —imâ<i>m</i>stallokân ga<i>k</i><i>kh</i>atîti kavana(?gavana)karmasâdhana<i>m</i> go<i>s</i>abda<i>m</i> dar<i>s</i>ayati.
 
-[^318]: 157:1 Voir [VI, 1, 1, 2](Book_3_6_1#v6_1_1_2) seq., où les sept airs vitaux sont représentés comme prenant la forme d'un oiseau — le Purusha Pra<i>g</i>âpati.
+[^318]: 157:1 Voir [VI, 1, 1, 2](../Book_3_6_1#v6_1_1_2) seq., où les sept airs vitaux sont représentés comme prenant la forme d'un oiseau — le Purusha Pra<i>g</i>âpati.
 
-[^319]: 157:2 Voir les paragraphes [7](Book_3_6_1#v6_1_2_7)\-[11](Book_3_6_1#v6_1_2_11).
+[^319]: 157:2 Voir les paragraphes [7](../Book_3_6_1#v6_1_2_7)\-[11](../Book_3_6_1#v6_1_2_11).
 
 [^320]: 158:1 Il veut dire qu'il laissera cela être complété dans l'énumération des créations ultérieures.
 

@@ -232,15 +232,15 @@ dateCreated: 2025-1-16T20:3:37Z
 
 ## Notes de bas de page
 
-[^394]: 190:1 C'est-à-dire la brique « invincible », étant la première brique qui est fabriquée, et celle-ci par la principale épouse du Sacrificateur (mahishî) elle-même. Voir VI, 5, 3, suiv.—Sâya<i>n</i>a remarques,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat ; puraiva lokâpavarga kala (? kâle ou kâlât) s<i>ri</i>sh<i>t</i>â<i>m</i> satîm. Bien que dans le récit cosmogonique, [VI, 1, 1, 13](Book_3_6_1#v6_1_1_13) seq., la terre soit plutôt décrite comme composée de neuf éléments différents, la brique « invincible » est communément identifiée à la terre. Voir [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1). Pour les compositions (octuples) de l'argile utilisée pour le foyer et les briques, voir [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1) seq.
+[^394]: 190:1 C'est-à-dire la brique « invincible », étant la première brique qui est fabriquée, et celle-ci par la principale épouse du Sacrificateur (mahishî) elle-même. Voir VI, 5, 3, suiv.—Sâya<i>n</i>a remarques,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat ; puraiva lokâpavarga kala (? kâle ou kâlât) s<i>ri</i>sh<i>t</i>â<i>m</i> satîm. Bien que dans le récit cosmogonique, [VI, 1, 1, 13](../Book_3_6_1#v6_1_1_13) seq., la terre soit plutôt décrite comme composée de neuf éléments différents, la brique « invincible » est communément identifiée à la terre. Voir [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1). Pour les compositions (octuples) de l'argile utilisée pour le foyer et les briques, voir [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1) seq.
 
 [^395]: 191:1 C'est-à-dire que la cuillère d'offrande est remplie de huit trempages avec la cuillère à tremper.
 
 [^396]: 191:2 C'est-à-dire, au moyen de ses éléments constitutifs ; — p<i>ri</i>thivîm ûrdhvâ<i>m</i> rûpair m<i>ri</i>dâdibhir udgamayati, Sây.
 
-[^397]: 192:1 Voir [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^397]: 192:1 Voir [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^398]: 192:2 [VI, 1, 1, 10](Book_3_6_1#v6_1_1_10).—La construction du texte est quelque peu particulière,—ce que l'auteur veut dire semble être,—la triple science (le Veda) avec laquelle Pra<i>g</i>âpati est entré dans les eaux est la même que les prières maintenant offertes.
+[^398]: 192:2 [VI, 1, 1, 10](../Book_3_6_1#v6_1_1_10).—La construction du texte est quelque peu particulière,—ce que l'auteur veut dire semble être,—la triple science (le Veda) avec laquelle Pra<i>g</i>âpati est entré dans les eaux est la même que les prières maintenant offertes.
 
 [^399]: 194:1 Voir III, 5, 3, 12, où 'b<i>ri</i>hat vipa<i>s</i><i>k</i>it' (dans la même formule) est expliqué comme faisant référence au sacrifice.
 
@@ -262,7 +262,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^408]: 198:3 Cette clause finale avec 'vai' fournit la raison pour laquelle Agni est entré dans l'utérus, à savoir parce qu'autrement il ne pourrait pas naître ; tout comme la clause précédente avec 'vai' (l'utérus ne nuit pas à l'enfant) fournit la raison pour laquelle le roseau est utilisé ; tandis que les clauses précédentes expliquent comment le roseau devient l'utérus d'où Agni est né.
 
-[^409]: 199:1 Voir [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^409]: 199:1 Voir [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^410]: 199:2 Dakshi<i>n</i>ato vai v<i>ri</i>shâ yoshâm upa<i>s</i>ete;—comparer : uttarato hi strî pumâ<i>m</i>sam upa<i>s</i>ete, I, 1, 1, 20 ; II, 5, 2, 17.
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^412]: 200:2 Prâde<i>s</i>amâtra<i>m</i> hîda<i>m</i> mukham abhi vâg vadati, mukham abhi var<i>n</i>âtmikâ vâg vadati vâktâstis (?) tasyâ<i>s</i> <i>k</i>a prâde<i>s</i>amâtratvam adhyâtmâvadhâritam atoऽtrâpi prâde<i>s</i>amâtrâ . . . yuktâ, Dites.
 
-[^413]: 200:3 Selon Sâya<i>n</i>a, le bout de la langue est indiqué (comme [VII, 2, 3, 3](Book_3_7_2#v7_2_3_3); [2, 4, 14](Book_3_7_2#v7_2_4_14), 'vâ<i>k</i>' signifie 'bouche'); mais peut-être s'agit-il plutôt d'un discours acerbe et vitupérateur adressé à une autre personne qui est visé ici.
+[^413]: 200:3 Selon Sâya<i>n</i>a, le bout de la langue est indiqué (comme [VII, 2, 3, 3](../Book_3_7_2#v7_2_3_3); [2, 4, 14](../Book_3_7_2#v7_2_4_14), 'vâ<i>k</i>' signifie 'bouche'); mais peut-être s'agit-il plutôt d'un discours acerbe et vitupérateur adressé à une autre personne qui est visé ici.
 
 [^414]: 200:4 Sâya<i>n</i>a identifie la parole divine avec le Sa<i>m</i>sk<i>ri</i>t, et la parole humaine avec les Apabhramsas, ou dialectes inférieurs (? mânusha<i>m</i> <i>k</i>âpâtro<i>s</i>am, MS.).
 
@@ -294,7 +294,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^424]: 208:3 C'est-à-dire qu'il lui tire la tête (?) ; « il la réveille, la secoue », St. Petersb. Dict. — Sâya<i>n</i>a, d'autre part, conformément à Kâty. XVI, 2, 18, interprète « unm<i>ri</i><i>s</i>ati » par « il tient sa main sur son dos », — p<i>ri</i>sh<i>th</i>asyopari pâ<i>n</i>i<i>m</i> dhârayati.
 
-[^425]: 209:1 Pour la construction, voir au [paragraphe 6](Book_3_6_3#v6_3_3_6), [p. 205](Book_3_6_3#p205), note \*[1](Book_3_6_3#fn419)\*.
+[^425]: 209:1 Pour la construction, voir au [paragraphe 6](../Book_3_6_3#v6_3_3_6), [p. 205](../Book_3_6_3#p205), note \*[1](../Book_3_6_3#fn419)\*.
 
 [^426]: 209:2 Littéralement, faire un pas vers.
 

@@ -706,7 +706,7 @@ Et dans ma fortune la plus grande part.
 Sois à toi, fils de Sumitrá, pour savoir
 Les joies du pouvoir royal qui en découlent.
 Ma vie elle-même, le siège du monarque,
-Pour l'amour de toi, tes pensées me sont douces. [1](Book_2_10#fn268)
+Pour l'amour de toi, tes pensées me sont douces. [1](../Book_2_10#fn268)
 
 Ainsi Rama dit à son frère :
 Il inclina la tête devant ses deux mères,
@@ -1628,7 +1628,7 @@ Mes meilleurs craignent les nations du Sud,
 Les Angas et les Vaugas entendent.
 Et en tant que seigneur suprême, je règne
 Sur Magadh et la plaine de Matsyas,
-Kos'al et le vaste domaine de Kási : [1](Book_2_20#fn273)
+Kos'al et le vaste domaine de Kási : [1](../Book_2_20#fn273)
 Tout riche en trésors de la mine.
 Dans le maïs doré, les moutons, les chèvres et les vaches.
 Choisis ce que tu veux. Kaikeyi, donc :

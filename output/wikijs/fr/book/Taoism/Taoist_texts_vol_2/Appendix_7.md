@@ -237,7 +237,7 @@ Et nous avons ainsi fait notre proclamation durable au ciel et à la terre.
 
 [^627]: 317:1 Il s’agissait bien sûr de Lâo-dze.
 
-[^628]: 317:2 Voir ci-dessus, [p. 313](#p313), par. 4.
+[^628]: 317:2 Voir ci-dessus, [p. 313](../#p313), par. 4.
 
 [^631]: 317:3 Dans le Tâo Teh King, p. 50, par. 2, et p. 52, par. 1. La lecture de la ligne 7 est différente dans mes deux autorités dans l'une ![](/image/book/Taoism/Taoist_texts_vol_2/31700.jpg), dans l'autre ![](/image/book/Taoism/Taoist_texts_vol_2/31701.jpg) je suppose que la lecture correcte devrait être ![](/image/book/Taoism/Taoist_texts_vol_2/31702.jpg) et j'ai donné ce que je pense être le sens.
 
@@ -255,7 +255,7 @@ Et nous avons ainsi fait notre proclamation durable au ciel et à la terre.
 
 [^641]: 318:4 Cette ligne et les trois précédentes ne sont pas un peu sombres.
 
-[^642]: 319:1 « Le (sage) sous le Pilier » doit être Lâo-dze. Voir ci-dessus dans la notice introductive, [p. 313](#p313).
+[^642]: 319:1 « Le (sage) sous le Pilier » doit être Lâo-dze. Voir ci-dessus dans la notice introductive, [p. 313](../#p313).
 
 [^643]: 319:2 Voir la note sur la signification de l'épithète ![](/image/book/Taoism/Taoist_texts_vol_2/31900.jpg) vol. xxxix, p. 40.
 

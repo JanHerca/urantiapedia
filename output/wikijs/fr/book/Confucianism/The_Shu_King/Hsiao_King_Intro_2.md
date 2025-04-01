@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T22:26:32Z
 
 LA RÉCUPÉRATION DU ROI HSIÂO SOUS LA DYNASTIE HAN, ET SA PRÉSERVATION JUSQU'À LA PUBLICATION DU COMMENTAIRE DE L'EMPEREUR THANG HSÜAN ZUNG.
 
-1\. Le Roi Hsiâo souffrit, comme tous les autres livres confucéens, à l'exception du Yî, des incendies de Khin. Sa guérison ultérieure fut très semblable à celle du Shû, décrite aux pp. [7](Shu_King_Intro_1#p7), 8. Nous possédons dans chaque cas une copie plus courte et une copie plus longue, un texte moderne et un texte ancien.
+1\. Le Roi Hsiâo souffrit, comme tous les autres livres confucéens, à l'exception du Yî, des incendies de Khin. Sa guérison ultérieure fut très semblable à celle du Shû, décrite aux pp. [7](../Shu_King_Intro_1#p7), 8. Nous possédons dans chaque cas une copie plus courte et une copie plus longue, un texte moderne et un texte ancien.
 
 Récupération du roi Hsiâo.
 
@@ -64,7 +64,7 @@ Les copies cataloguées par Hin ont été réalisées après l'examen et la rév
 
 De Khung An-kwo à l'empereur Hsüan Ȝung.
 
-2\. J'ai dit plus haut ([p. 450](Hsiao_King_Intro_1#p450)) que pour le texte du classique, c'est-à-dire le texte moderne, tel que nous le possédons aujourd'hui, nous sommes redevables aux travaux de l'empereur Hsüan Ȝung de la dynastie Thang. <i>K</i>û Î-tsun, de la période <i>Khien-lung</i> (1736-1795), dans son ouvrage sur les classiques et les écrits qui s'y rapportent, a cité les titres de quatre-vingt-six ouvrages différents sur notre classique, parus entre Khung An-kwo et Hsüan ZȜung. Pas un seul de ces ouvrages ne subsiste aujourd'hui ; mais leur énumération montre que les érudits les plus éminents, au cours des siècles qui ont suivi, ont exercé leurs compétences sur le traité et se sont surveillés les uns les autres pour la préservation du texte. De plus, plusieurs de ces œuvres ont perduré sous la dynastie Thang, puis sous celle des Song. Le catalogue de la bibliothèque Sui contient les titres de dix-neuf d'entre elles.
+2\. J'ai dit plus haut ([p. 450](../Hsiao_King_Intro_1#p450)) que pour le texte du classique, c'est-à-dire le texte moderne, tel que nous le possédons aujourd'hui, nous sommes redevables aux travaux de l'empereur Hsüan Ȝung de la dynastie Thang. <i>K</i>û Î-tsun, de la période <i>Khien-lung</i> (1736-1795), dans son ouvrage sur les classiques et les écrits qui s'y rapportent, a cité les titres de quatre-vingt-six ouvrages différents sur notre classique, parus entre Khung An-kwo et Hsüan ZȜung. Pas un seul de ces ouvrages ne subsiste aujourd'hui ; mais leur énumération montre que les érudits les plus éminents, au cours des siècles qui ont suivi, ont exercé leurs compétences sur le traité et se sont surveillés les uns les autres pour la préservation du texte. De plus, plusieurs de ces œuvres ont perduré sous la dynastie Thang, puis sous celle des Song. Le catalogue de la bibliothèque Sui contient les titres de dix-neuf d'entre elles.
 
 L'œuvre de Hsüan Ȝung.
 

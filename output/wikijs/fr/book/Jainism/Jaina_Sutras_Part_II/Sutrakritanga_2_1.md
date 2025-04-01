@@ -260,7 +260,7 @@ Ainsi je dis.
 
 [^992]: 339:1 Il s'agit d'une des var<i>n</i>aka ou descriptions typiques si fréquentes dans les livres canoniques. Le texte intégral est donné dans l'Aupapâtika Sûtra, éd. Leumann, § II, p. 26 et suivantes. Parmi les nombreuses significations que peut avoir le mot var<i>n</i>aka, celui de « chef-d'œuvre » semble être celui dans lequel il faut le prendre ici. De nombreuses var<i>n</i>akas sont, au moins en partie, composées dans un mètre curieux que j'ai nommé Hypermetron, voir Indische Studien, vol. xvii, pp. 389 et suivantes.
 
-[^994] : 339 :2 Concernant les Ugras et les Bhôgas, comparer la note [2](Uttaradhyayana_15#fn190) sur [p. 71](Uttaradhyayana_15#p71).
+[^994] : 339 :2 Concernant les Ugras et les Bhôgas, comparer la note [2](../Uttaradhyayana_15#fn190) sur [p. 71](../Uttaradhyayana_15#p71).
 
 [^995]: 339:3 Apparemment, il s'agit du roi.
 
@@ -322,7 +322,7 @@ Ainsi je dis.
 
 [^1024]: 353:3 Apparemment, c'est le chef de famille qui est visé.
 
-[^1025] : 353 : 4 Udgama, utpâdanâ, êsha<i>n</i>â. Voir ci-dessus, [p. 131](Uttaradhyayana_24#p131), note [7](Uttaradhyayana_24#fn337).
+[^1025] : 353 : 4 Udgama, utpâdanâ, êsha<i>n</i>â. Voir ci-dessus, [p. 131](../Uttaradhyayana_24#p131), note [7](../Uttaradhyayana_24#fn337).
 
 [^1026]: 353:5 <i>Sa</i>strâtîtam.
 
@@ -332,7 +332,7 @@ Ainsi je dis.
 
 [^1029]: 353:8 Vaishikam.
 
-[^1030]: 354:1 Samudânikam, c'est-à-dire comme les abeilles récoltent le miel de nombreuses fleurs. Cf. [p. 80](Uttaradhyayana_17#p80), note [1](Uttaradhyayana_17#fn207).
+[^1030]: 354:1 Samudânikam, c'est-à-dire comme les abeilles récoltent le miel de nombreuses fleurs. Cf. [p. 80](../Uttaradhyayana_17#p80), note [1](../Uttaradhyayana_17#fn207).
 
 [^1031]: 354:2 Comparer Â<i>k</i>ârâṅga Sûtra I, 7, 4, I, partie i, p. 68, note 3.
 

@@ -249,11 +249,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^230]: 127:2 Sur les trois briques de Vi<i>s</i>va<i>g</i>yotis, placées dans les mêmes couches, comme représentant respectivement les dieux Agni, Vâyu et Âditya, voir VI, 3, 3, 16 ; 5, 3, 3.
 
-[^231]: 128:1 Ou, Mais ces (briques) sont aussi (ou signifient) une puissance génératrice, cf. [paragraphe 1](Book_4_8_7#v8_7_1_1).
+[^231]: 128:1 Ou, Mais ces (briques) sont aussi (ou signifient) une puissance génératrice, cf. [paragraphe 1](../Book_4_8_7#v8_7_1_1).
 
 [^232]: 128:2 Autrement dit, il ne doit pas les déplacer de leur place, mais placer chaque paire suivante exactement sur celles posées précédemment. En fait, cependant, ces deux briques (si nous déterminons leur emplacement par simple calcul) sembleraient, dans la cinquième couche, se trouver à un demi-pied plus loin du point central que les <i>Ri</i>tavyâs</i> des autres couches. Ceci est dû au fait que, tandis que, dans les couches où un Svayamât<i>ri</i><i>n</i><i>n</i>â se trouve au milieu, seule la moitié de ces briques centrales se trouve du côté est du point central, dans la couche actuelle, la partie orientale du Gârhapatya (occupant la partie centrale de la couche) est constituée de briques de taille normale. Cet écart d'un demi-pied a probablement été compensé par un espace laissé, qui a ensuite été comblé avec de la terre ; à moins, en effet, que les Svayamât<i>ri</i><i>n</i><i>n</i>âs, en tant que pierres apparemment naturelles, ne soient autorisées à dépasser quelque peu la taille ordinaire des briques.
 
-[^233]: 131:1 Pour ce verset, voir la partie iii, p. 307, note 2 ; pour sa signification symbolique (comme le souffle, ou l'air vital) VII, 1, 1, 15 ; 26. Voir aussi [VIII, 7, 3, 21](Book_4_8_7#v8_7_3_21), où le verset lui-même est expliqué.
+[^233]: 131:1 Pour ce verset, voir la partie iii, p. 307, note 2 ; pour sa signification symbolique (comme le souffle, ou l'air vital) VII, 1, 1, 15 ; 26. Voir aussi [VIII, 7, 3, 21](../Book_4_8_7#v8_7_3_21), où le verset lui-même est expliqué.
 
 [^234]: 131:2 En déposant les Lokamp<i>ri</i><i>n</i>âs de la cinquième couche, il commence, comme pour la première couche, par l'épaule droite, ou l'angle sud-est de l'autel, mais de telle sorte que dans ce cas le premier « remplisseur d'espace » est déposé, non pas à l'angle, mais une coudée à l'ouest de celui-ci. À partir de cet endroit, il remplit les espaces disponibles, en deux tours, en se déplaçant dans le sens du soleil.
 
@@ -261,7 +261,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^236]: 132:2 À VI, 1, 2, 25, Tâ<i>n</i><i>d</i>ya a été amené à soutenir que les Ya<i>g</i>ushmatîs, ou briques posées avec des formules spéciales, étaient la noblesse, et que les Lokamp<i>ri</i><i>n</i>âs, posées avec une seule et même formule, étaient les paysans, et comme le noble (ou chef) avait besoin d'un clan nombreux pour sa subsistance, il devrait y avoir moins de briques du premier type que ne l'était la pratique établie. Cette opinion a cependant été rejetée par l'auteur du Brâhma<i>n</i>a, et ici, en opposition à cette opinion, la Lokamp<i>ri</i><i>n</i>â est identifiée à la noblesse, et la Ya<i>g</i>ushmatîs au clan.
 
-[^237]: 132:3 La formule commune utilisée avec ces briques, et d'où elles tirent leur nom — commençant par « Lokam p<i>ri</i><i>n</i>a », « Remplissez l'espace ! » voir [parag. 6](Book_4_8_7#v8_7_2_6)\ — est prononcée une seule fois après chaque dizaine de briques, et après toutes les briques impaires à la fin.
+[^237]: 132:3 La formule commune utilisée avec ces briques, et d'où elles tirent leur nom — commençant par « Lokam p<i>ri</i><i>n</i>a », « Remplissez l'espace ! » voir [parag. 6](../Book_4_8_7#v8_7_2_6)\ — est prononcée une seule fois après chaque dizaine de briques, et après toutes les briques impaires à la fin.
 
 [^238]: 133:1 Dans la traduction de VII, 5, 2, 14 (partie iii, p. 404), le passage « ayant pris possession de l'homme par la force », qui était basé sur une lecture erronée (voir Weber, Berl. Cat. II, p. 69), devrait se lire ainsi : « ayant doté l'homme de façon prééminente de pouvoir » (ou, peut-être, « l'ayant placé au-dessus (des autres) en matière de pouvoir », St. Petersb. Dict.)
 
@@ -269,7 +269,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^240]: 135:1 C'est-à-dire quelqu'un qui n'est pas correctement construit.
 
-[^241]: 136:1 Il semblerait que ce soit le Vikar<i>n</i>î (voir [VIII, 7, 3, 9](Book_4_8_7#v8_7_3_9) seqq.) qui, cependant, comme le Svayamât<i>ri</i><i>n</i><i>n</i>â central, ne doit être posé qu'après que la couche a été nivelée.
+[^241]: 136:1 Il semblerait que ce soit le Vikar<i>n</i>î (voir [VIII, 7, 3, 9](../Book_4_8_7#v8_7_3_9) seqq.) qui, cependant, comme le Svayamât<i>ri</i><i>n</i><i>n</i>â central, ne doit être posé qu'après que la couche a été nivelée.
 
 [^242]: 136:2 Vis. à l'extrémité est de la « colonne vertébrale ».
 
@@ -279,7 +279,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^245]: 137:3 Ou, peut-être, les enfoncer.
 
-[^246]: 138:1 Âvapana a aussi le sens de « jeter, insertion », qui est également compris ici, tandis que plus loin dans ce paragraphe (« l'air est l'âvapanam de tous les êtres ») il peut difficilement avoir ce sens (? quelque chose d'injecté). Cf. [IX, 4, 2, 27](Book_4_9_4#v9_4_2_27).
+[^246]: 138:1 Âvapana a aussi le sens de « jeter, insertion », qui est également compris ici, tandis que plus loin dans ce paragraphe (« l'air est l'âvapanam de tous les êtres ») il peut difficilement avoir ce sens (? quelque chose d'injecté). Cf. [IX, 4, 2, 27](../Book_4_9_4#v9_4_2_27).
 
 [^247]: 139:1 Ou, avec cela (avec de la terre meuble).
 

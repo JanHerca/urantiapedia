@@ -86,7 +86,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v3_6_1_2727"><sup><small>3:6:1:2727.</small></sup></span> Or, un jour, les dieux, alors qu'ils accomplissaient un sacrifice, craignirent une attaque des Asura-Rakshas. Les Asura-Rakshas les attaquèrent par le sud, les chassèrent des Sadas et renversèrent leurs foyers (dhish<i>n</i>ya) qui se trouvaient dans les Sadas.
 
-<span id="v3_6_1_2828"><sup><small>3:6:1:2828.</small></sup></span> Car, en effet, tous ces (foyers) ont autrefois brûlé aussi fort que cet Âhavanîya, le Gârhapatya et l'Âgnîdhrîya ; mais depuis ce temps où ils (les Asuras) les ont renversés, ils ne brûlent plus. Ils les ont forcés (les dieux) à retourner à l'Âgnîdhra (feu) et leur ont même pris la moitié de l'Âgnîdhra. De là, les Tous-Dieux ont obtenu l'immortalité [^388], d'où il (le feu d'Âgnîdhra) est sacré pour les Tous-Dieux. <span id="p148">[<sup><small>p. 148] 3:6:1:2929\. Les dieux les rallumassent, comme on allumerait le feu là où on va. C'est pourquoi on les rallume à chaque fête du Soma. C'est pourquoi les devoirs de l'Agnîdh doivent être accomplis par celui qui est accompli. Or, celui qui est connu et instruit dans la tradition sacrée [^389] est véritablement accompli : c'est pourquoi ils apportent d'abord à l'Agnîdh sa Dakshi<i>n</i>â [^390], car c'est de là (du feu de l'Agnîdh) que les dieux ont acquis l'immortalité. Et si la faiblesse venait à frapper l'un de ceux qui sont consacrés, que (l'Adhvaryu) dise : « Conduisez-le à l'Âgnîdhra ! » — pensant : « S'il est indemne, il n'y rencontrera pas d'affliction [^391]. » Et parce que les Tous-Dieux ont obtenu l'immortalité à partir de là, c'est pourquoi il est sacré pour les Tous-Dieux.
+<span id="v3_6_1_2828"><sup><small>3:6:1:2828.</small></sup></span> Car, en effet, tous ces (foyers) ont autrefois brûlé aussi fort que cet Âhavanîya, le Gârhapatya et l'Âgnîdhrîya ; mais depuis ce temps où ils (les Asuras) les ont renversés, ils ne brûlent plus. Ils les ont forcés (les dieux) à retourner à l'Âgnîdhra (feu) et leur ont même pris la moitié de l'Âgnîdhra. De là, les Tous-Dieux ont obtenu l'immortalité [^388], d'où il (le feu d'Âgnîdhra) est sacré pour les Tous-Dieux. <span id="p148"><sup><small>[ p. 148 ]</small></sup>]</span> 3:6:1:2929\. Les dieux les rallumassent, comme on allumerait le feu là où on va. C'est pourquoi on les rallume à chaque fête du Soma. C'est pourquoi les devoirs de l'Agnîdh doivent être accomplis par celui qui est accompli. Or, celui qui est connu et instruit dans la tradition sacrée [^389] est véritablement accompli : c'est pourquoi ils apportent d'abord à l'Agnîdh sa Dakshi<i>n</i>â [^390], car c'est de là (du feu de l'Agnîdh) que les dieux ont acquis l'immortalité. Et si la faiblesse venait à frapper l'un de ceux qui sont consacrés, que (l'Adhvaryu) dise : « Conduisez-le à l'Âgnîdhra ! » — pensant : « S'il est indemne, il n'y rencontrera pas d'affliction [^391]. » Et parce que les Tous-Dieux ont obtenu l'immortalité à partir de là, c'est pourquoi il est sacré pour les Tous-Dieux.
 
 
 <span id="v3_6_2"><sup><small>3:6:2</small></sup></span>
@@ -275,15 +275,15 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 ## Notes de bas de page
 
-[^380]: 140:3 Le Sadas est un hangar ou une tente, orienté vers l'est avec son côté long, qui doit mesurer dix-huit (ou vingt et un, ou vingt-quatre, ou, selon le <i>S</i>ulva-sûtra, vingt-sept) coudées, la largeur par p. 141 six coudées (ou dix, ou la moitié de celle du côté long). Le poteau udumbara, selon certains, doit se tenir exactement au centre du hangar ; ou, selon d'autres, à égale distance des côtés (longs) est et ouest ; la « colonne vertébrale » (cf. [p. 112](Book_2_3_5#p112), note [2](Book_2_3_5#fn294)) divisant dans ce cas le bâtiment en deux parties égales, une au nord et une au sud. Au milieu, le hangar doit être à la hauteur du sacrificateur, et de là, le plafond doit s'incliner vers les extrémités où il doit atteindre le nombril du sacrificateur. Selon le Yagü Noir, l'érection des Sadas précède le creusement des Uparavas, décrits dans le Brâhmaṇa précédent. Taitt. S. VI, 2, 10, 11.
+[^380]: 140:3 Le Sadas est un hangar ou une tente, orienté vers l'est avec son côté long, qui doit mesurer dix-huit (ou vingt et un, ou vingt-quatre, ou, selon le <i>S</i>ulva-sûtra, vingt-sept) coudées, la largeur par p. 141 six coudées (ou dix, ou la moitié de celle du côté long). Le poteau udumbara, selon certains, doit se tenir exactement au centre du hangar ; ou, selon d'autres, à égale distance des côtés (longs) est et ouest ; la « colonne vertébrale » (cf. [p. 112](../Book_2_3_5#p112), note [2](../Book_2_3_5#fn294)) divisant dans ce cas le bâtiment en deux parties égales, une au nord et une au sud. Au milieu, le hangar doit être à la hauteur du sacrificateur, et de là, le plafond doit s'incliner vers les extrémités où il doit atteindre le nombril du sacrificateur. Selon le Yagü Noir, l'érection des Sadas précède le creusement des Uparavas, décrits dans le Brâhmaṇa précédent. Taitt. S. VI, 2, 10, 11.
 
-[^381]: 141:1 Les anta<i>h</i>pâta, voir [III, 5, I, 1](Book_2_3_5#v3_5_1_1).
+[^381]: 141:1 Les anta<i>h</i>pâta, voir [III, 5, I, 1](../Book_2_3_5#v3_5_1_1).
 
 [^382]: 142:1 C'est la partie qui doit se tenir au-dessus du sol qui doit être de la taille du sacrificateur.
 
 [^383]: 143:1 Svâru<i>h</i>, « cultivé naturellement », Taitt. S. VI, 2, 10, 4.
 
-[^384]: 144:1 Voir [III, 5, 2, 11](Book_2_3_5#v3_5_2_11) avec note. Le texte de Kâ<i>n</i>va dit : bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
+[^384]: 144:1 Voir [III, 5, 2, 11](../Book_2_3_5#v3_5_2_11) avec note. Le texte de Kâ<i>n</i>va dit : bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
 
 [^385]: 145:1 Le poteau doit être fourchu au sommet, et entre les souches (formant pour ainsi dire ses oreilles) il doit placer un morceau d'or et y verser le ghee ; lorsque le ghee atteint le sol, il doit prononcer le « Svâhâ ! » final conformément à la pratique du homas ; l'or représentant, pour ainsi dire, le feu sacrificiel. Sâya<i>n</i>a sur Taitt. S. I, 3, I ; Kâty. VIII, 5, 37 seq.
 
@@ -291,7 +291,7 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^387]: 146:1 C'est-à-dire avec des claies ou des nattes d'herbe verticales, fixées aux montants de la porte au moyen d'une corde.
 
-[^388]: 146:2 Voir [III, 5, 3, 25](Book_2_3_5#v3_5_3_25).
+[^388]: 146:2 Voir [III, 5, 3, 25](../Book_2_3_5#v3_5_3_25).
 
 [^389]: 147:1 Au nord du clog (apalamba) des charrettes, Kâ<i>n</i>va rec.
 
@@ -299,7 +299,7 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^391]: 148:1 Ou, comme le dit Sâya<i>n</i>a, « celui qui est connu (comme bien conduit) et un répétiteur (lecteur) du Veda. »
 
-[^392]: 148:2 Voir [IV, 3, 4, 19](Book_2_4_3#v4_3_4_19) seq.
+[^392]: 148:2 Voir [IV, 3, 4, 19](../Book_2_4_3#v4_3_4_19) seq.
 
 [^393]: 148:3 Ou, « ce (feu) ne souffrira pas de mal » (ârti<i>m</i> na labheta, Sâya<i>n</i>a).
 
@@ -307,7 +307,7 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^395]: 149:1 C'est-à-dire les parties du corps correspondant les unes aux autres, comme les bras, les reins, etc.
 
-[^396]: 149 :2 Voir [III, 2, 4, 1](Book_2_3_2#v3_2_4_1) seq. ; Oldenberg, Zeitsch. d. Allemand. Morg. Ges. XXXVII, p. 67 suiv.; Weber, haras indien. VIII, p. 31.
+[^396]: 149 :2 Voir [III, 2, 4, 1](../Book_2_3_2#v3_2_4_1) seq. ; Oldenberg, Zeitsch. d. Allemand. Morg. Ges. XXXVII, p. 67 suiv.; Weber, haras indien. VIII, p. 31.
 
 [^397]: 149:3 Dans Taitt. S. VI, 1, 6 ; Kâ<i>th</i>. XXIII, 10, supar<i>n</i>î, 'le bien-ailé', est identifié au ciel.
 
@@ -321,9 +321,9 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^402]: 151:1 Sâya<i>n</i>a le prend dans le sens de « elle a avalé (khâd) », mais je serais enclin à le rapporter au même verbe « khid » (? khad) que « âkhidat » qui le suit immédiatement. Le Sûtra VI, 1, 52 de Pâ<i>n</i>ini pourrait-il faire référence à ce passage ? \[Kâ<i>s</i>. V., édition de Bénarès <i>k</i>ikhâda ; MS. Indian Office <i>k</i>akhâda.\] Le texte de Kâ<i>n</i>va a la même lecture : â<i>k</i>akhâda-âkhidat.
 
-[^403]: 152:1 Voir [III, 3, 3, 11](Book_2_3_3#v3_3_3_11).
+[^403]: 152:1 Voir [III, 3, 3, 11](../Book_2_3_3#v3_3_3_11).
 
-[^404]: 152:2 Pour ces oblations versées sur des bottes de copeaux et d'herbe en feu tenues au-dessus des différents foyers, voir [IV, 4, 2, 7](Book_2_4_4#v4_4_2_7).
+[^404]: 152:2 Pour ces oblations versées sur des bottes de copeaux et d'herbe en feu tenues au-dessus des différents foyers, voir [IV, 4, 2, 7](../Book_2_4_4#v4_4_2_7).
 
 [^405]: 152:3 Yad vâ uparyupari somam bibhrata<i>h</i> sa<i>m</i><i>k</i>arishyanti, Kâ<i>n</i>va rec. (? tenant le Soma tout près au-dessus des dhish<i>n</i>yas). Ce passage p. 153 fait apparemment référence aux <i>K</i>amasa-Adhvaryus ou échansons, qui à l'époque des Savanas tiennent leurs coupes remplies de Soma, qui, après libations sur le feu, est bu par les prêtres.
 
@@ -341,11 +341,11 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^412]: 155:2 Ou, correspond à (anu).
 
-[^413]: 155:3 C'est-à-dire un parent du sacrificateur, demeurant avec lui. Cf. aussi [p. 40](Book_2_3_2#p40), note [1](Book_2_3_2#fn111).
+[^413]: 155:3 C'est-à-dire un parent du sacrificateur, demeurant avec lui. Cf. aussi [p. 40](../Book_2_3_2#p40), note [1](../Book_2_3_2#fn111).
 
 [^414]: 156:1 À savoir sur l'Âhavanîya du Prâ<i>k</i>înava<i>m</i><i>s</i>a (salle) servant maintenant de Gârhapatya, et généralement appelé <i>s</i>âlâdvârya, c'est-à-dire celui près de la porte de la salle (avant ou est).
 
-[^415]: 156:2 Voir [p. 121](Book_2_3_5#p121), note [2](Book_2_3_5#fn322).
+[^415]: 156:2 Voir [p. 121](../Book_2_3_5#p121), note [2](../Book_2_3_5#fn322).
 
 [^416]: 156:3 P<i>ri</i>shad-â<i>g</i>ya (littéralement beurre tacheté) est du beurre clarifié mélangé à du lait aigre.
 
@@ -357,23 +357,23 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^420]: 158:1 Les « Vâyavya » sont des coupes en bois en forme de mortier. Il semble qu'elles incluent ici toutes les coupes Soma, voir IV, 1, 3, 7-10 ; Kâty, VIII, 7, 5.
 
-[^421]: 158:2 Voir [III, 4, 1, 17](Book_2_3_4#v3_4_1_17)\-[18](Book_2_3_4#v3_4_1_18).
+[^421]: 158:2 Voir [III, 4, 1, 17](../Book_2_3_4#v3_4_1_17)\-[18](../Book_2_3_4#v3_4_1_18).
 
-[^422]: 158:3 À savoir, lors de l'offrande des invités, voir [p. 103](Book_2_3_4#p103), note [3](Book_2_3_4#fn269). Il était lié aux trois objets mentionnés immédiatement avant.
+[^422]: 158:3 À savoir, lors de l'offrande des invités, voir [p. 103](../Book_2_3_4#p103), note [3](../Book_2_3_4#fn269). Il était lié aux trois objets mentionnés immédiatement avant.
 
 [^423]: 158:4 Les vapâ<i>s</i>rapa<i>n</i>î sont des bâtons de bois de kârshmarya.
 
-[^424]: 158:5 Pour ces objets, voir [p. 90](Book_2_3_4#p90), note [5](Book_2_3_4#fn241).
+[^424]: 158:5 Pour ces objets, voir [p. 90](../Book_2_3_4#p90), note [5](../Book_2_3_4#fn241).
 
-[^425]: 158:6 'Ainsi ce sacrifice monte vers le monde céleste, et, le sacrifice étant le sacrificateur, le sacrificateur y va ainsi', texte Kânva. Voir [III, 6, 1, 28](Book_2_3_6#v3_6_1_28), où il est dit que les dieux ont atteint l'immortalité grâce à l'Âgnîdhrîya.
+[^425]: 158:6 'Ainsi ce sacrifice monte vers le monde céleste, et, le sacrifice étant le sacrificateur, le sacrificateur y va ainsi', texte Kânva. Voir [III, 6, 1, 28](../Book_2_3_6#v3_6_1_28), où il est dit que les dieux ont atteint l'immortalité grâce à l'Âgnîdhrîya.
 
 [^426]: 159:1 Également les deux tissus filtrants à franges (da<i>s</i>âpavitre), selon la rec. Kâ<i>n</i>va.
 
-[^427]: 160:1 'Il dépose ensuite le Prastara sur le monticule ([p. 140](Book_2_3_5#p140), note [2](Book_2_3_5#fn377)), y dépose le <i>g</i>uhû et l'upabh<i>ri</i>t et le p<i>ri</i>shadâ<i>g</i>ya ; et après avoir touché les matériaux sacrificiels et touché l'eau, il prend le roi et entre (dans le hangar à charrettes),' etc. Kâ<i>n</i>va rec.
+[^427]: 160:1 'Il dépose ensuite le Prastara sur le monticule ([p. 140](../Book_2_3_5#p140), note [2](../Book_2_3_5#fn377)), y dépose le <i>g</i>uhû et l'upabh<i>ri</i>t et le p<i>ri</i>shadâ<i>g</i>ya ; et après avoir touché les matériaux sacrificiels et touché l'eau, il prend le roi et entre (dans le hangar à charrettes),' etc. Kâ<i>n</i>va rec.
 
-[^428]: 161:1 Voir [III, 3, 4, 21](Book_2_3_3#v3_3_4_21).
+[^428]: 161:1 Voir [III, 3, 4, 21](../Book_2_3_3#v3_3_4_21).
 
-[^429]: 161:2 Ainsi (iti), c'est-à-dire avec les modifications suivantes de la formule correspondante, utilisée lors de la « consécration intermédiaire », [III, 4, 3, 9](Book_2_3_4#v3_4_3_9). Peut-être « iti » signifie-t-il « ainsi », c'est-à-dire tout en gardant les doigts tournés vers l'intérieur ; ou peut-il signifier « en tant que tel » (en tant qu'homme libre).
+[^429]: 161:2 Ainsi (iti), c'est-à-dire avec les modifications suivantes de la formule correspondante, utilisée lors de la « consécration intermédiaire », [III, 4, 3, 9](../Book_2_3_4#v3_4_3_9). Peut-être « iti » signifie-t-il « ainsi », c'est-à-dire tout en gardant les doigts tournés vers l'intérieur ; ou peut-il signifier « en tant que tel » (en tant qu'homme libre).
 
 [^430]: 162 : 1 Sur le sacrifice animal, cp. Thèse du Dr J. Schwab, « Das altindische Thieropfer », 1882.
 
@@ -383,7 +383,7 @@ Elle l'enleva alors alors qu'il était sous la garde de l'Akhâvâka, c'est pour
 
 [^433]: 164:1 C'est-à-dire qu'il le place ou le tient contre l'endroit où il s'apprête à frapper l'arbre, afin de couper d'abord l'herbe.
 
-[^434]: 164:2 Pour la destination de ce fragment d'écorce, voir [III, 7, 1, 8](Book_2_3_7#v3_7_1_8).
+[^434]: 164:2 Pour la destination de ce fragment d'écorce, voir [III, 7, 1, 8](../Book_2_3_7#v3_7_1_8).
 
 [^435]: 164:3 Autrement dit, il ne doit pas couper l'arbre trop haut du sol, afin que l'essieu du chariot puisse facilement passer par-dessus la souche restante sans la toucher. Le texte du Kânva dit : 'tam anakshastambhe v<i>ri</i><i>s</i><i>k</i>ed uta hy enam anasâ vakshyanto bhavanty uto svarga<i>m</i> hâsya loka<i>m</i> yate (sic) 'kshastambha<i>h</i> syât tasmâd anakshastambhe v<i>ri</i><i>s</i><i>k</i>et.' Rien n'est dit nulle part que le yûpa soit transporté sur un chariot jusqu'au lieu du sacrifice, si tant est que cette affirmation se réfère au yûpa. Le commentaire de Sâya<i>n</i>a est ici très corrompu, mais il semble interpréter le passage dans le sens où certaines personnes pourraient transporter le pieu sur le chariot (pakshe anasâ yûpa<i>m</i> nayeyu<i>h</i>) et que dans ce cas le chariot serait obstrué.
 

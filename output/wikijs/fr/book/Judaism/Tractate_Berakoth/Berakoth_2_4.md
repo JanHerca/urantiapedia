@@ -86,7 +86,7 @@ Quiconque trouve du plaisir dans ce qu'il fait est un bon signe pour lui ; si so
 
 B.
 
-**T**. III. 19. Si un homme se lève tôt pour partir en voyage, voici, il prend une trompette [1](Berakoth_2_4#fn_200) et en souffle, un Lulab [2](Berakoth_2_4#fn_201) et l'agite, un rouleau du Livre d'Esther [3](Berakoth_2_4#fn_202) et y lit, et prie (les Dix-huit). Puis, quand arrive le moment de réciter le Shma', voici, il le récite. [4](Berakoth_2_4#fn_203) S'il se lève tôt pour s'asseoir dans un chariot ou dans un bateau, voici, il prie (les Dix-huit). Puis, quand arrive le moment de réciter le Shma', voici, il le récite.
+**T**. III. 19. Si un homme se lève tôt pour partir en voyage, voici, il prend une trompette [1](../Berakoth_2_4#fn_200) et en souffle, un Lulab [2](../Berakoth_2_4#fn_201) et l'agite, un rouleau du Livre d'Esther [3](../Berakoth_2_4#fn_202) et y lit, et prie (les Dix-huit). Puis, quand arrive le moment de réciter le Shma', voici, il le récite. [4](../Berakoth_2_4#fn_203) S'il se lève tôt pour s'asseoir dans un chariot ou dans un bateau, voici, il prie (les Dix-huit). Puis, quand arrive le moment de réciter le Shma', voici, il le récite.
 
 <a id="m7"></a>
 
@@ -102,9 +102,9 @@ Et dans les services supplémentaires, il prie sept [^212] \[Bénédictions\] et
 
 12\. Le jour du sabbat, des fêtes et du Jour des Expiations, on prie sept prières et on dit \[la section spéciale pour\] la sanctification du jour au milieu. [^214]
 
-13\. Le cas de la fête du Nouvel An, qui tombe un sabbat. L'école de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammaï dit : On prie dix [1](Berakoth_2_5#fn_215) \[Bénédictions\], et on dit celle-ci pour le sabbat seul, puis celle-là pour la fête seule, et on commence par celle du sabbat. Mais l'école de Hillel dit : on prie neuf [2](Berakoth_2_5#fn_216) \[Bénédictions\].
+13\. Le cas de la fête du Nouvel An, qui tombe un sabbat. L'école de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammaï dit : On prie dix [1](../Berakoth_2_5#fn_215) \[Bénédictions\], et on dit celle-ci pour le sabbat seul, puis celle-là pour la fête seule, et on commence par celle du sabbat. Mais l'école de Hillel dit : on prie neuf [2](../Berakoth_2_5#fn_216) \[Bénédictions\].
 
-Le cas d'une fête qui tombe un sabbat. L'école de Shammaï dit : il prie huit bénédictions, la première pour le sabbat et la seconde pour la fête, et il commence par celle du sabbat. Mais l'école de Hillel dit : il prie sept bénédictions, la première pour le sabbat et la seconde pour le sabbat, et il dit la section spéciale pour la sanctification du jour au milieu. R. Nathan dit : il conclut également par : « Béni sois-tu, toi qui sanctifies le sabbat, Israël et les fêtes. » [3](Berakoth_2_5#fn_217)
+Le cas d'une fête qui tombe un sabbat. L'école de Shammaï dit : il prie huit bénédictions, la première pour le sabbat et la seconde pour la fête, et il commence par celle du sabbat. Mais l'école de Hillel dit : il prie sept bénédictions, la première pour le sabbat et la seconde pour le sabbat, et il dit la section spéciale pour la sanctification du jour au milieu. R. Nathan dit : il conclut également par : « Béni sois-tu, toi qui sanctifies le sabbat, Israël et les fêtes. » [3](../Berakoth_2_5#fn_217)
 
 <figure class="table chapter-navigator">
   <table>
@@ -150,7 +150,7 @@ Le cas d'une fête qui tombe un sabbat. L'école de Shammaï dit : il prie huit 
 
 [^181]: 29:3 _la onzième heure_ moins _un quart_. 16h45 voir mishna, note.
 
-[^182]: 29:4 _Éléazar bar José_. Éléazar, fils de José le Galiléen ([p. 55](Berakoth_3_6#p55)), maître de Mishna de la troisième génération, vers 130-160 apr. J.-C.
+[^182]: 29:4 _Éléazar bar José_. Éléazar, fils de José le Galiléen ([p. 55](../Berakoth_3_6#p55)), maître de Mishna de la troisième génération, vers 130-160 apr. J.-C.
 
 [^183]: 29:5 _la fermeture des portes_. On suppose que les portes du Temple étaient fermées au crépuscule.
 
@@ -160,7 +160,7 @@ Le cas d'une fête qui tombe un sabbat. L'école de Shammaï dit : il prie huit 
 
 [^186]: 29:8 _ce qu'il fait_. Litt. : « ce qui est à lui », mais la référence ne semble pas concerner ses possessions, mais ses occupations et ses actions.
 
-[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. Membre de la première génération d'enseignants de la Mishna, vers 90 apr. J.-C., il fut l'enseignant de Rabbi Ismaël ([p. 6](Berakoth_1_1#p6)). Il est l'auteur réputé du _Sepher ha Bahir_ cabalistique.
+[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. Membre de la première génération d'enseignants de la Mishna, vers 90 apr. J.-C., il fut l'enseignant de Rabbi Ismaël ([p. 6](../Berakoth_1_1#p6)). Il est l'auteur réputé du _Sepher ha Bahir_ cabalistique.
 
 [^188]: 30:2 _l'École_. Littéralement, le Beth ha Midrash, la salle de cours.
 
@@ -176,7 +176,7 @@ Le plus ancien « abrégé » des Dix-huit bénédictions semble être le Habine
 
 [^193]: 30:7 _R. Joshua_. B. a R. Aqiba. Mais cela peut être dû à la similitude des paroles attribuées à ce dernier dans _T_. III. 3. « R. Joshua » dans la Mishna est R. Joshua ben Chananiah, un enseignant de mishna de la deuxième génération, c. 90-130 apr. J.-C. « J'ai dit, je me fiche p. 31 si mon sort est comme celui de Joshua ben Chananja : après la dernière destruction, il gagnait son pain en fabriquant des aiguilles, mais dans sa jeunesse, il avait été chanteur sur les marches du Temple, et avait un souvenir de ce qui était, avant que la gloire ne s'en aille » (« George Eliot », _Daniel Deronda_, e. XL., 1876, iii. 179).
 
-[^194]: 31:1 _fluent_. Cf. M. v. 5. [p. 41](Berakoth_2_5#p41). T. iii. 3. [p. 29](Berakoth_2_4#p29).
+[^194]: 31:1 _fluent_. Cf. M. v. 5. [p. 41](../Berakoth_2_5#p41). T. iii. 3. [p. 29](../Berakoth_2_4#p29).
 
 [^195]: 31:2 _le résumé des Dix-huit_. S'il se souvient des Dix-huit sans difficulté, qu'il les prie en entier.
 
@@ -192,7 +192,7 @@ Le plus ancien « abrégé » des Dix-huit bénédictions semble être le Habine
 
 [^201]: 33:1 _il prend une trompette_. c'est-à-dire le jour de l'An ; voir Lév. 2324 ; Nomb. 291 (Oesterley et Box, p. 411).
 
-[^202]: 33:2 _a Lulab_. Une branche de palmier liée avec du myrte et du saule à la F. du Tab. (_Jew. Enc._: viii. 205). Infra, [p. 80](Berakoth_3_9#p80).
+[^202]: 33:2 _a Lulab_. Une branche de palmier liée avec du myrte et du saule à la F. du Tab. (_Jew. Enc._: viii. 205). Infra, [p. 80](../Berakoth_3_9#p80).
 
 [^203]: 33:3 _un rouleau du Livre d'Esther_. À Pourim, Esther. 932. (Oesterley et Box, pp. 407 _sq_.)
 

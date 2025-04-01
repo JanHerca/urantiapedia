@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
-**M**.qui crées les fruits de la terre.“ R. Judah avait l’habitude de dire : ”Toi qui crées différentes sortes d’herbes.”
+**M**.qui crées les fruits de la terre.«  R. Judah avait l’habitude de dire :  »Toi qui crées différentes sortes d’herbes.”
 
 2\. Si quelqu'un a prononcé la bénédiction sur les fruits des arbres : « Toi qui crées les fruits de la terre » [^275], il a rempli son obligation. Quant aux fruits de la terre, « Toi qui crées les fruits des arbres », il ne l'a pas accomplie. [^276] Et s'il a prononcé la bénédiction sur tous : « Par la parole de qui toutes choses existent », il l'a accomplie. [^277]
 
@@ -62,9 +62,9 @@ T. IV. 1. Que nul ne goûte à quoi que ce soit avant d'avoir prononcé une bén
 
 5\. S'il a vu des figues et a dit : « Béni soit Celui qui a créé ces figues ! Qu'elles sont belles ! » — c'est leur Bénédiction. Rabbi José dit : Quiconque modifie la formule de la Majorité dans une Bénédiction n'a pas rempli son obligation. Rabbi Judah dit : Si une chose est modifiée par rapport à son état naturel, et que l'on modifie ensuite la Bénédiction, on a rempli son obligation. [^292]
 
-6\. Celui qui mâche des grains de blé prononce la bénédiction sur eux : « Qui crées différentes sortes de semences ». S’il les a cuits ou bouillis, lorsque les grains restent distincts, il prononce la bénédiction sur eux : « Qui tires le pain de la terre », [^293] et (après le repas) il prononce trois bénédictions sur eux. [^294] Si les grains ne restent pas distincts, il prononce la bénédiction sur eux : « Qui crées différentes sortes d’aliments », et il prononce une seule bénédiction après eux. [1](Berakoth_3_6#fn_295)
+6\. Celui qui mâche des grains de blé prononce la bénédiction sur eux : « Qui crées différentes sortes de semences ». S’il les a cuits ou bouillis, lorsque les grains restent distincts, il prononce la bénédiction sur eux : « Qui tires le pain de la terre », [^293] et (après le repas) il prononce trois bénédictions sur eux. [^294] Si les grains ne restent pas distincts, il prononce la bénédiction sur eux : « Qui crées différentes sortes d’aliments », et il prononce une seule bénédiction après eux. [1](../Berakoth_3_6#fn_295)
 
-7\. Celui qui mâche du riz [2](Berakoth_3_6#fn_296) prononce la bénédiction sur lui : « Qui crée différentes sortes de graines ». S’il l’a cuit ou bouilli, tant que les grains restent distincts, il prononce la bénédiction sur eux : « Qui crée différentes sortes d’aliments », et ne prononce aucune bénédiction après. C’est le principe général : pour tout ce qui commence par « Qui fait sortir le pain », on prononce trois bénédictions après.
+7\. Celui qui mâche du riz [2](../Berakoth_3_6#fn_296) prononce la bénédiction sur lui : « Qui crée différentes sortes de graines ». S’il l’a cuit ou bouilli, tant que les grains restent distincts, il prononce la bénédiction sur eux : « Qui crée différentes sortes d’aliments », et ne prononce aucune bénédiction après. C’est le principe général : pour tout ce qui commence par « Qui fait sortir le pain », on prononce trois bénédictions après.
 
 <a id="m1"></a>
 
@@ -148,7 +148,7 @@ Mais pourquoi Juda méritait-il le royaume ? À cause de son humilité. Car il e
 
 21\. Dans le cas des ouvriers qui cueillent des figues, coupent des dattes ou cueillent des olives, bien qu'ils en cassent et en mangent à plusieurs reprises (une partie de ce qu'ils cueillent), il n'est pas nécessaire qu'ils récitent la bénédiction dans un ordre irrégulier, et à leur retour, il n'est pas nécessaire qu'ils récitent la bénédiction comme au début. S'ils se retirent, il est nécessaire qu'ils récitent la bénédiction dans un ordre irrégulier, et à leur retour, il est nécessaire qu'ils récitent la bénédiction comme au début.
 
-VI. 8. Si quelqu'un a mangé des figues, du raisin et des grenades, il récite trois bénédictions [1](Berakoth_3_6#fn_351) sur eux. [2](Berakoth_3_6#fn_352) C'est l'avis de Rabban Gamaliel. Mais la majorité dit : une seule bénédiction, qui en résume trois. Rabbi Aqiba dit : même s'il mange un potage de légumes, il récite trois bénédictions sur lui. Et celui qui boit de l'eau pour étancher sa soif dit la bénédiction : « Car tout est venu à l'existence par sa parole. » [3](Berakoth_3_6#fn_353) Rabbi Tarphon dit : « Toi qui crées les âmes et leurs besoins. » [4](Berakoth_3_6#fn_354)
+VI. 8. Si quelqu'un a mangé des figues, du raisin et des grenades, il récite trois bénédictions [1](../Berakoth_3_6#fn_351) sur eux. [2](../Berakoth_3_6#fn_352) C'est l'avis de Rabban Gamaliel. Mais la majorité dit : une seule bénédiction, qui en résume trois. Rabbi Aqiba dit : même s'il mange un potage de légumes, il récite trois bénédictions sur lui. Et celui qui boit de l'eau pour étancher sa soif dit la bénédiction : « Car tout est venu à l'existence par sa parole. » [3](../Berakoth_3_6#fn_353) Rabbi Tarphon dit : « Toi qui crées les âmes et leurs besoins. » [4](../Berakoth_3_6#fn_354)
 
 <a id="m3"></a>
 
@@ -206,11 +206,11 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^279]: 44:4 _sauterelles_. Matthieu 34.
 
-[^280]: 44:5 _existent_. Certains manuscrits (pas B.) ajoutent : « sur le lait, sur le fromage et sur les œufs, “par la parole de qui”, etc. »
+[^280]: 44:5 _existent_. Certains manuscrits (pas B.) ajoutent : « sur le lait, sur le fromage et sur les œufs, « par la parole de qui », etc. »
 
 [^281]: 44:6 _une malédiction_. À cause de la corruption comme dans le cas du vinaigre (de vin), des fruits tombés, du fromage, ou en étant des symboles de destruction comme dans le cas des sauterelles (Joël 21-11).
 
-[^282]: 44:7 _c'est-à-dire_ la Bénédiction qui correspond à l'une des sept sortes (voir [p. 57](Berakoth_3_6#p57)) qu'il choisit.
+[^282]: 44:7 _c'est-à-dire_ la Bénédiction qui correspond à l'une des sept sortes (voir [p. 57](../Berakoth_3_6#p57)) qu'il choisit.
 
 [^283]: 45:1 Ps. 241.
 
@@ -222,13 +222,13 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^287]: 45:5 _saumure_ (_cornichon_). Le mot latin _muries_ est utilisé. Pour la bénédiction, ils doivent être traités comme des liqueurs, et non comme des fruits.
 
-[^288]: 45:6 _le fruit de l'arbre_. Le vin pur n'était généralement pas bu ; il ne devait donc pas avoir la même bénédiction que le vin mélangé à de l'eau. Cf. [p. 64](Berakoth_3_7#p64).
+[^288]: 45:6 _le fruit de l'arbre_. Le vin pur n'était généralement pas bu ; il ne devait donc pas avoir la même bénédiction que le vin mélangé à de l'eau. Cf. [p. 64](../Berakoth_3_7#p64).
 
 [^289]: 45:7 _sont tous un_. Parce que tous deux sont issus de la vigne.
 
 [^290]: 46:1 Pas verbalement dans SA, et donc avec la plupart des bénédictions de cette section.
 
-[^291]: 46:2 _les graines_. Nourriture, autre que le pain, préparée à partir de l'une des « cinq espèces de céréales » (blé, orge, seigle, avoine et épeautre (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](Berakoth_3_6#p53).
+[^291]: 46:2 _les graines_. Nourriture, autre que le pain, préparée à partir de l'une des « cinq espèces de céréales » (blé, orge, seigle, avoine et épeautre (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](../Berakoth_3_6#p53).
 
 [^292]: 46:3 _c'est sa Bénédiction_. Il est inutile de répéter la formule habituelle de SA, p. 278.
 
@@ -240,7 +240,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^296]: 47:1 Cf. M. VI. 8.
 
-[^297]: 47:2 _riz_. Pas une des « sept » espèces (voir [p. 53](Berakoth_3_6#p53)), ni des cinq graines (voir [p. 46](Berakoth_3_6#p46)).
+[^297]: 47:2 _riz_. Pas une des « sept » espèces (voir [p. 53](../Berakoth_3_6#p53)), ni des cinq graines (voir [p. 46](../Berakoth_3_6#p46)).
 
 [^298]: 47:3 _laisse… aller libre_. Littéralement « il exempte le vin qui suit le repas », et ainsi de suite dans cette phrase. La présente règle ne concerne que les sabbats et les jours de fête, où un homme, lorsqu'il dit la bénédiction sur le vin avant le repas, a l'intention de prendre du vin également après le repas (Bartenora).
 
@@ -254,7 +254,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^303]: 48:3 _pour lui-même_. La bouche des autres n'est peut-être pas vide, et ils ne peuvent pas dire Amen en toute sécurité. Il se peut aussi qu'ils ne soient pas attentifs. La réponse est attribuée à Ben Zoma dans _T_. IV. 12.
 
-[^304]: 48:4 _épices mises sur les braises_. Pour adoucir la pièce après le repas, ou en l'honneur des invités (Krauss, i, 238, 690 ; iii. 63). Cf. _infra_, [p. 68](Berakoth_3_8#p68).
+[^304]: 48:4 _épices mises sur les braises_. Pour adoucir la pièce après le repas, ou en l'honneur des invités (Krauss, i, 238, 690 ; iii. 63). Cf. _infra_, [p. 68](../Berakoth_3_8#p68).
 
 [^305]: 48:5 _après la fête_. Lorsque la bénédiction finale aura déjà été dite.
 
@@ -276,7 +276,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^314]: 50:4 _au-dessous de lui_. Les personnes étaient inclinées sur le côté gauche afin que leur main droite soit libre. « En-dessous » signifie donc à droite, « au-dessus » à gauche. Dans Jean 1323, 25, saint Jean lui-même était à la droite de Notre Seigneur, et peut-être saint Pierre à sa gauche.
 
-[^315]: 50:5 _Deux attendent_. Sans doute parce qu'étant moins de trois, ils ne peuvent former une communauté religieuse (voir infra, pp. [59](Berakoth_3_6#p59), [62](Berakoth_3_7#p62), [63](Berakoth_3_7#p63)) et chacun est égal à l'autre.
+[^315]: 50:5 _Deux attendent_. Sans doute parce qu'étant moins de trois, ils ne peuvent former une communauté religieuse (voir infra, pp. [59](../Berakoth_3_6#p59), [62](../Berakoth_3_7#p62), [63](../Berakoth_3_7#p63)) et chacun est égal à l'autre.
 
 [^316]: 50:6 _trois n'attendent pas_. Ils forment une compagnie et ont un chef, qui s'aide lui-même en premier.
 
@@ -346,7 +346,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^349]: 56:2 _raccompagner une mariée chez elle_. C'était un acte si méritoire que l'étude de la Torah pouvait être interrompue pour le faire. Voir Krauss, ii. 39.
 
-[^350]: 56:3 _dans un ordre irrégulier_. (_lmiphrea'_.) Parce qu'il devrait être dit après le repas complet, et (s'il est dit), il est en fait suivi d'une nouvelle bénédiction comme au début. La présence d'un vieillard ou d'un malade prolonge le repas jusqu'au retour des autres. Dans _M_. II. 4 (3), il est question de réciter les portions du Shma' dans un ordre irrégulier (_supra_, [p. 16](Berakoth_1_2#p16)).
+[^350]: 56:3 _dans un ordre irrégulier_. (_lmiphrea'_.) Parce qu'il devrait être dit après le repas complet, et (s'il est dit), il est en fait suivi d'une nouvelle bénédiction comme au début. La présence d'un vieillard ou d'un malade prolonge le repas jusqu'au retour des autres. Dans _M_. II. 4 (3), il est question de réciter les portions du Shma' dans un ordre irrégulier (_supra_, [p. 16](../Berakoth_1_2#p16)).
 
 [^351]: 56:4 _manger_. Seul, sans invités.
 
@@ -358,7 +358,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 [^355]: 57:4 _Ibid_.
 
-[^356]: 57:5 _l'après-midi_ (_ha minchah_), _soit._ vers 15h30 _Vide supra_, [p. 28](Berakoth_1_3#p28).
+[^356]: 57:5 _l'après-midi_ (_ha minchah_), _soit._ vers 15h30 _Vide supra_, [p. 28](../Berakoth_1_3#p28).
 
 [^357]: 58:1 _et le jour saint approcha_. Littéralement, « et l'argile devint sainte sur eux », _c'est-à-dire_ que le sabbat commença, car les ténèbres vinrent.
 

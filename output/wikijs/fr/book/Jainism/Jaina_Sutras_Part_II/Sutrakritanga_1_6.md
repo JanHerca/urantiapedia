@@ -128,7 +128,7 @@ Ainsi je dis.
 
 [^854]: 287:2 <i>K</i>akkhupahê <i>th</i>iyassa = <i>k</i>akshu<i>h</i>pathê sthitasya, littéralement, 'qui se tenait (ou se tient) sur le chemin des yeux'. Nous ne sommes guère en droit de déduire de cette phrase que l'auteur avait réellement vu Mahâvîra comme la tradition voudrait nous le faire croire.
 
-[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Concernant les cinq étapes ou sortes de connaissance, voir ci-dessus, [p. 352](Sutrakritanga_2_1#p352). La connaissance Kêvala est visée.
+[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Concernant les cinq étapes ou sortes de connaissance, voir ci-dessus, [p. 352](../Sutrakritanga_2_1#p352). La connaissance Kêvala est visée.
 
 [^856]: 288:1 Pour rendre anâyu<i>h</i>.
 
@@ -146,7 +146,7 @@ Ainsi je dis.
 
 [^863]: 289:3 Ceci est le dhyâna <i>s</i>ukla. Comme <i>s</i>ukla, que je traduis par « pur », signifie à l'origine « blanc », la comparaison avec la lune est naturelle dans l'original.
 
-[^864]: 290:1 Ils appartiennent aux Bhavanapatis, voir ci-dessus, [p. 225](Uttaradhyayana_36#p225).
+[^864]: 290:1 Ils appartiennent aux Bhavanapatis, voir ci-dessus, [p. 225](../Uttaradhyayana_36#p225).
 
 [^865]: 290:2 Le commentateur dit que Vê<i>n</i>udêva est un autre nom de Garu<i>d</i>a. Vê<i>n</i>u signifie peut-être ve<i>n</i>hu = vish<i>n</i>u ; mais je ne sais pas si Garu<i>d</i>a a jamais été directement identifié à Vish<i>n</i>u.
 

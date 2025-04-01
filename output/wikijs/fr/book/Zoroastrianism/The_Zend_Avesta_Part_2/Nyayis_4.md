@@ -98,7 +98,7 @@ Soyez propitiatoire [^1529] . . . .
 
 [^1602]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
 
-[^1603]: 356:4 Voir ci-dessus, [p. 152](Yasts_10#p152), note [1](Yasts_10#fn698).
+[^1603]: 356:4 Voir ci-dessus, [p. 152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
 [^1604]: 357:1 La prière Yathâ ahû vairyô.
 

@@ -39,7 +39,7 @@ Le gourou et Mardana reprirent leur voyage. On raconte qu'ils se dirigèrent ver
 Tu es la tablette, _ô Seigneur_, Tu es la plume, et Tu es aussi l'écriture.
 Parle du seul _Dieu_ ; Ô Nanak, pourquoi devrait-il y en avoir un second ?[^1]
 
-Cheikh Kamal s'en alla et, après s'être incliné, s'assit près d'eux et demanda que le couplet soit répété. Ce fut fait, et il l'apprit par cœur. Il prit ensuite le bois qu'il avait ramassé et rentra chez lui. Il raconta son aventure à son maître et lui répéta le couplet. Cheikh Brahm fut ravi que le gourou soit de nouveau venu dans son pays et il s'empressa de lui souhaiter la bienvenue. Après des salutations mutuelles, le gourou remercia Dieu de lui avoir permis de revoir Cheikh Brahm. Après une conversation amicale, le gourou demanda au gourou d'expliquer le couplet. « Nanak, tu dis : “Il n'y a qu'un seul Dieu ; pourquoi en aurait-il un second ?” » Je dis :
+Cheikh Kamal s'en alla et, après s'être incliné, s'assit près d'eux et demanda que le couplet soit répété. Ce fut fait, et il l'apprit par cœur. Il prit ensuite le bois qu'il avait ramassé et rentra chez lui. Il raconta son aventure à son maître et lui répéta le couplet. Cheikh Brahm fut ravi que le gourou soit de nouveau venu dans son pays et il s'empressa de lui souhaiter la bienvenue. Après des salutations mutuelles, le gourou remercia Dieu de lui avoir permis de revoir Cheikh Brahm. Après une conversation amicale, le gourou demanda au gourou d'expliquer le couplet. « Nanak, tu dis : « Il n'y a qu'un seul Dieu ; pourquoi en aurait-il un second ? » » Je dis :
 
 « Il y a un seul Seigneur et deux voies ;
 Lequel dois-je adopter et lequel rejeter ?

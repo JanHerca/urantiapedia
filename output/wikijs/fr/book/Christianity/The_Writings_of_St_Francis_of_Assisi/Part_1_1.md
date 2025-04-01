@@ -332,4 +332,4 @@ Heureux le serviteur qui accumule dans le ciel [^128] les bonnes choses que le S
 
 [^128]: 19:2 Voir Matthieu 6: 20.
 
-[^129]: 19:3 Saint François disait souvent à ses frères : « Lorsqu'un serviteur de Dieu reçoit une inspiration divine dans la prière, il doit dire : “Cette consolation, Seigneur, vous l'avez envoyée du ciel à moi, pécheur très indigne, et je la remets à vos soins, car je sais que je ne serais qu'un voleur de votre trésor.” Et lorsqu'il revient à la prière, il doit se comporter comme un petit et un pécheur, comme s'il n'avait reçu aucune grâce nouvelle de Dieu.” — Saint Bonaventure, _Leg. Maj._, X, 4.
+[^129]: 19:3 Saint François disait souvent à ses frères : « Lorsqu'un serviteur de Dieu reçoit une inspiration divine dans la prière, il doit dire : « Cette consolation, Seigneur, vous l'avez envoyée du ciel à moi, pécheur très indigne, et je la remets à vos soins, car je sais que je ne serais qu'un voleur de votre trésor. » Et lorsqu'il revient à la prière, il doit se comporter comme un petit et un pécheur, comme s'il n'avait reçu aucune grâce nouvelle de Dieu.” — Saint Bonaventure, _Leg. Maj._, X, 4.

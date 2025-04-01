@@ -44,7 +44,7 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 <span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
-(élément) eau, et le sentiment du toucher est l'air, le hideux support de la boue [^1682] est la terre, et de même le son est l'espace ; qui est imprégné de maladie et de chagrin ; qui est entouré des cinq courants [^1683] ; qui est composé des cinq éléments ; qui a neuf passages [^1684] et deux divinités [^1685] ; qui est plein de passion ; impropre à la vue [^1686] ; composé de trois qualités et de trois éléments constitutifs [^1687] ; satisfait des contacts [^1688] ; et plein d'illusion [^1689] ; ce même (corps), qui est difficile à déplacer dans ce monde mortel, et qui repose sur la réelle (entité) [^1690], est la roue même du temps qui tourne dans ce monde [^1691]. C'est un grand océan, effrayant et insondable, et est nommé [^1692] illusion. Le monde, avec les immortels, devrait le rejeter, le restreindre, <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> et le contenir [^1693]. Le désir, la colère, la peur, l'avarice, la trahison et le mensonge aussi, (tout cela), dont il est difficile de se débarrasser, les bons s'en débarrassent par la maîtrise des sens [^1694]. Et celui qui, dans ce monde, a vaincu les trois qualités et les cinq éléments constitutifs [^1695], obtient le plus haut [^1696] — le siège infini dans le ciel. En traversant le fleuve dont les cinq sens sont les rives élevées, l'agitation de l'esprit [^1697] les eaux puissantes et l'illusion le réservoir [^1698], on devrait vaincre à la fois le désir et la colère. Libéré de tous les péchés, il perçoit alors ce principe suprême, concentrant l'esprit dans l'esprit [^1699] et voyant le soi dans le soi [^1700]. Comprenant toute chose, il voit le soi avec le soi dans toutes les entités comme un [^1701], et aussi comme divers, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> changeant de temps à autre [1](Anugita_28#fn1702). Il peut toujours percevoir des corps (nombreux) comme cent lumières provenant d'une seule lumière. Il est en vérité Vishnu, Mitra, Varuna, Agni et Pragâpati. Il est le soutien et le créateur. Il est le seigneur dont les visages s'étendent dans toutes les directions [2](Anugita_28#fn1703). (En lui) le grand soi — le cœur de tous les êtres — resplendit. Lui, toutes les compagnies de Brâhma<i>n</i>as, et aussi les dieux, et les démons, et les Yakshas, ​​et les Pisâ<i>k</i>as, et les Pit<i>ri</i>s, et les oiseaux, et les bandes de Rakshases, et les bandes de Bhûtas [3](Anugita_28#fn1704), et aussi tous les grands sages, le louent sans cesse.
+(élément) eau, et le sentiment du toucher est l'air, le hideux support de la boue [^1682] est la terre, et de même le son est l'espace ; qui est imprégné de maladie et de chagrin ; qui est entouré des cinq courants [^1683] ; qui est composé des cinq éléments ; qui a neuf passages [^1684] et deux divinités [^1685] ; qui est plein de passion ; impropre à la vue [^1686] ; composé de trois qualités et de trois éléments constitutifs [^1687] ; satisfait des contacts [^1688] ; et plein d'illusion [^1689] ; ce même (corps), qui est difficile à déplacer dans ce monde mortel, et qui repose sur la réelle (entité) [^1690], est la roue même du temps qui tourne dans ce monde [^1691]. C'est un grand océan, effrayant et insondable, et est nommé [^1692] illusion. Le monde, avec les immortels, devrait le rejeter, le restreindre, <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> et le contenir [^1693]. Le désir, la colère, la peur, l'avarice, la trahison et le mensonge aussi, (tout cela), dont il est difficile de se débarrasser, les bons s'en débarrassent par la maîtrise des sens [^1694]. Et celui qui, dans ce monde, a vaincu les trois qualités et les cinq éléments constitutifs [^1695], obtient le plus haut [^1696] — le siège infini dans le ciel. En traversant le fleuve dont les cinq sens sont les rives élevées, l'agitation de l'esprit [^1697] les eaux puissantes et l'illusion le réservoir [^1698], on devrait vaincre à la fois le désir et la colère. Libéré de tous les péchés, il perçoit alors ce principe suprême, concentrant l'esprit dans l'esprit [^1699] et voyant le soi dans le soi [^1700]. Comprenant toute chose, il voit le soi avec le soi dans toutes les entités comme un [^1701], et aussi comme divers, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> changeant de temps à autre [1](../Anugita_28#fn1702). Il peut toujours percevoir des corps (nombreux) comme cent lumières provenant d'une seule lumière. Il est en vérité Vishnu, Mitra, Varuna, Agni et Pragâpati. Il est le soutien et le créateur. Il est le seigneur dont les visages s'étendent dans toutes les directions [2](../Anugita_28#fn1703). (En lui) le grand soi — le cœur de tous les êtres — resplendit. Lui, toutes les compagnies de Brâhma<i>n</i>as, et aussi les dieux, et les démons, et les Yakshas, ​​et les Pisâ<i>k</i>as, et les Pit<i>ri</i>s, et les oiseaux, et les bandes de Rakshases, et les bandes de Bhûtas [3](../Anugita_28#fn1704), et aussi tous les grands sages, le louent sans cesse.
 
 <figure class="table chapter-navigator">
   <table>
@@ -74,9 +74,9 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1638]: 335:1 Le contact des objets des sens avec les sens est la source de l'illusion.
 
-[^1639]: 335:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107), et notez [1](Bhagavadgita_14#fn444) ici.
+[^1639]: 335:2 Cf. Gîtâ, [p. 107](../Bhagavadgita_14#p107), et notez [1](../Bhagavadgita_14#fn444) ici.
 
-[^1640]: 335:3 Cf. Sânkhya-sûtra I, 121, et [p. 387](Anugita_36#p387) infra.
+[^1640]: 335:3 Cf. Sânkhya-sûtra I, 121, et [p. 387](../Anugita_36#p387) infra.
 
 [^1641]: 335:4 C'est-à-dire la connaissance de la vérité, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -104,19 +104,19 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1653]: 337:3 Cf. Lalita Vistara (traduit par le Dr R. Mitra), p. 11.
 
-[^1654]: 337:4 Les phrases ci-dessus montrent les entités sous les trois aspects différents mentionnés, qui se correspondent les uns aux autres ; l'oreille est le sens, celui qui est connecté au soi ; le son est l'objet de ce sens, en tant que connecté au monde extérieur ; et les quartiers, Dik, sont les déités qui président aux sens ; à ce sujet, cf. Sânkhya-sâra, p. 17, et Vedânta Paribhâshâ, p. 45, qui montrent quelques divergences. Les distinctions d'Adhyâtma, etc. se trouvent dans les Upanishads ; cf. entre autres, <i>Kh</i>ândogya, p. 227, et cf. Gîtâ, [p. 77](Bhagavadgita_7#p77).
+[^1654]: 337:4 Les phrases ci-dessus montrent les entités sous les trois aspects différents mentionnés, qui se correspondent les uns aux autres ; l'oreille est le sens, celui qui est connecté au soi ; le son est l'objet de ce sens, en tant que connecté au monde extérieur ; et les quartiers, Dik, sont les déités qui président aux sens ; à ce sujet, cf. Sânkhya-sâra, p. 17, et Vedânta Paribhâshâ, p. 45, qui montrent quelques divergences. Les distinctions d'Adhyâtma, etc. se trouvent dans les Upanishads ; cf. entre autres, <i>Kh</i>ândogya, p. 227, et cf. Gîtâ, [p. 77](../Bhagavadgita_7#p77).
 
 [^1655]: 338:1 Quant au mot original, cf. inter alia, <i>S</i>vetâ<i>s</i>vatara, pp. 197-202.
 
-[^1656]: 338:2 Cela désigne probablement les cinq sens qui ne peuvent percevoir que lorsqu'ils sont associés à l'esprit. Voir [p. 268](Anugita_7#p268) supra.
+[^1656]: 338:2 Cela désigne probablement les cinq sens qui ne peuvent percevoir que lorsqu'ils sont associés à l'esprit. Voir [p. 268](../Anugita_7#p268) supra.
 
 [^1657]: 338:3 L'entendement est appelé le conducteur de char dans Ka<i>th</i>a, p. 111.
 
 [^1658]: 339:1 Cf. <i>Kh</i>ândogya, pp. 404-406, et gloses ; Aitareya, p. 243 ; Vedânta Paribhâshâ, p. 47 ; Sânkhya-sûtra V, 111 ; Manu. I, 43 ; note de Max Müller à la p. 94 de son <i>Kh</i>ândogya dans cette série.
 
-[^1659]: 339:2 Ainsi Nîlaka<i>nth</i>a, mais il ajoute aussi que cela signifie naître en tant que Brâhma<i>n</i>a, ce qui semble être tout à fait faux. Le « moyen d'acquérir Brahman » d'Araguna Mi<i>s</i>ra est correct. Voir [p. 369](Anugita_32#p369) infra.
+[^1659]: 339:2 Ainsi Nîlaka<i>nth</i>a, mais il ajoute aussi que cela signifie naître en tant que Brâhma<i>n</i>a, ce qui semble être tout à fait faux. Le « moyen d'acquérir Brahman » d'Araguna Mi<i>s</i>ra est correct. Voir [p. 369](../Anugita_32#p369) infra.
 
-[^1660]: 339:3 C'est-à-dire, je présume, « connaissance ». <i>Sankara</i> a ainsi interprété le mot dans Mu<i>nd</i>aka, p. 270, et Ka<i>nd</i>a, p. 127, et ailleurs ; et voir Sanatsu<i>g</i>âtîya, [p. 166](Sanatsugatiya_3#p166) supra.
+[^1660]: 339:3 C'est-à-dire, je présume, « connaissance ». <i>Sankara</i> a ainsi interprété le mot dans Mu<i>nd</i>aka, p. 270, et Ka<i>nd</i>a, p. 127, et ailleurs ; et voir Sanatsu<i>g</i>âtîya, [p. 166](../Sanatsugatiya_3#p166) supra.
 
 [^1661]: 339:4 Une autre lecture est « de deux sortes ». Mais je préfère celle-ci, car trois sortes sont mentionnées plus loin.
 
@@ -138,11 +138,11 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1670]: 341:6 Tels que la méditation ou upâsana, et prâ<i>n</i>âyama ou la retenue des vents de la vie respectivement, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1671]: 341:7 Cf. [p. 310](Anugita_19#p310) ci-dessus.
+[^1671]: 341:7 Cf. [p. 310](../Anugita_19#p310) ci-dessus.
 
 [^1672]: 341:8 C'est-à-dire que la bravoure, l'apprentissage, etc. sont considérés comme n'étant pas des mérites, car ils provoquent de l'orgueil, etc., Nîlaka<i>nth</i>a.
 
-[^1673]: 341:9 C'est-à-dire dans la solitude, Nîlaka<i>nth</i>a ; se consacrant uniquement à soi, Ar<i>g</i>una Mi<i>s</i>ra. Cf. aussi [p. 284](Anugita_11#p284) supra, note [4](Anugita_12#fn1364).
+[^1673]: 341:9 C'est-à-dire dans la solitude, Nîlaka<i>nth</i>a ; se consacrant uniquement à soi, Ar<i>g</i>una Mi<i>s</i>ra. Cf. aussi [p. 284](../Anugita_11#p284) supra, note [4](../Anugita_12#fn1364).
 
 [^1674]: 341:10 Ou, dit Nîlaka<i>nth</i>a, libre de toute croyance aux distinctions.
 
@@ -150,19 +150,19 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1676]: 341:12 C'est-à-dire tous rassemblés, je présume.
 
-[^1677]: 342:1 Cf. Gîtâ, pp. [50](Bhagavadgita_2#p50), [51](Bhagavadgita_2#p51), et <i>S</i>ânti Parvan (Moksha Dharma) I, 51, où la phrase est exactement la même qu'ici.
+[^1677]: 342:1 Cf. Gîtâ, pp. [50](../Bhagavadgita_2#p50), [51](../Bhagavadgita_2#p51), et <i>S</i>ânti Parvan (Moksha Dharma) I, 51, où la phrase est exactement la même qu'ici.
 
-[^1678]: 342:2 C'est-à-dire de tous les liens, je suppose. Voir [p. 292](Anugita_13#p292) supra.
+[^1678]: 342:2 C'est-à-dire de tous les liens, je suppose. Voir [p. 292](../Anugita_13#p292) supra.
 
-[^1679]: 342 : 3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
+[^1679]: 342 : 3 Cf. Gîtâ, [p. 51](../Bhagavadgita_2#p51).
 
-[^1680]: 342:4 Cf. Gîtâ, [p. 110](Bhagavadgita_14#p110).
+[^1680]: 342:4 Cf. Gîtâ, [p. 110](../Bhagavadgita_14#p110).
 
-[^1681]: 342:5 Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68).
+[^1681]: 342:5 Cf. Gîtâ, [p. 68](../Bhagavadgita_6#p68).
 
-[^1682]: 342:6 C'est-à-dire l'expérience, Nîlaka<i>nth</i>a. Cela signifie la perception directe des relations entre le soi suprême et le soi individuel, Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
+[^1682]: 342:6 C'est-à-dire l'expérience, Nîlaka<i>nth</i>a. Cela signifie la perception directe des relations entre le soi suprême et le soi individuel, Cf. Gîtâ, [p. 111](../Bhagavadgita_15#p111).
 
-[^1683]: 342:7 Par opposition aux forêts. Voir Sanatsu<i>g</i>âtîya, [p. 159](Sanatsugatiya_2#p159), note 9.
+[^1683]: 342:7 Par opposition aux forêts. Voir Sanatsu<i>g</i>âtîya, [p. 159](../Sanatsugatiya_2#p159), note 9.
 
 [^1684]: 342:8 Cela doit signifier ici le soi suprême, apparemment.
 
@@ -176,15 +176,15 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1689]: 343:1 C'est-à-dire la chair, les os, etc., Nîlaka<i>nth</i>a ; le mucus dans le nez, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1690]: 343:2 C'est-à-dire les sens. Cf. [p. 238](Anugita_2#p238) supra, note [7](Anugita_2#fn1090).
+[^1690]: 343:2 C'est-à-dire les sens. Cf. [p. 238](../Anugita_2#p238) supra, note [7](../Anugita_2#fn1090).
 
-[^1691]: 343 : 3 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1691]: 343 : 3 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
-[^1692]: 343:4 Voir Sanatsu<i>g</i>âtîya, [p. 187](6#p187) supra.
+[^1692]: 343:4 Voir Sanatsu<i>g</i>âtîya, [p. 187](../6#p187) supra.
 
-[^1693]: 343:5 Comme étant impur, Nîlaka<i>nth</i>a ; comme les corps des Kâ<i>nth</i>âlas, etc., lorsqu'ils sont vus, sont générateurs de péché, Ar<i>g</i>una Mi<i>s</i>ra. Voir [p. 155](Sanatsugatiya_2#p155) supra.
+[^1693]: 343:5 Comme étant impur, Nîlaka<i>nth</i>a ; comme les corps des Kâ<i>nth</i>âlas, etc., lorsqu'ils sont vus, sont générateurs de péché, Ar<i>g</i>una Mi<i>s</i>ra. Voir [p. 155](../Sanatsugatiya_2#p155) supra.
 
-[^1694]: 343:6 À savoir vâta, pitta, <i>s</i>leshma, ou vent, bile et flegme. Les dhâtus sont parfois décrits comme étant au nombre de sept. Voir Yoga-sûtras, p. 192 ; Taitt. Âr. p. 874, commentaire, et [p. 246](Anugita_4#p246) supra. Voir aussi, cependant, <i>S</i>vetâ<i>s</i>vatara, commentaire, p. 287.
+[^1694]: 343:6 À savoir vâta, pitta, <i>s</i>leshma, ou vent, bile et flegme. Les dhâtus sont parfois décrits comme étant au nombre de sept. Voir Yoga-sûtras, p. 192 ; Taitt. Âr. p. 874, commentaire, et [p. 246](../Anugita_4#p246) supra. Voir aussi, cependant, <i>S</i>vetâ<i>s</i>vatara, commentaire, p. 287.
 
 [^1695]: 343:7 Qui n'est réjoui que par le contact avec la nourriture et ainsi de suite, pas autrement, Nîlaka<i>nth</i>a.
 
@@ -192,24 +192,24 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1697]: 343:9 C'est-à-dire le soi, Ar<i>g</i>una Mi<i>s</i>ra ; la compréhension, Nîlaka<i>nth</i>a difficile à déplacer = difficile à ajuster si attaqué par la maladie, etc., Nîlaka<i>nth</i>a.
 
-[^1698]: 343:10 C'est à cause de ce corps que le soi devient limité par le temps, Ar<i>g</i>una Mi<i>s</i>ra. Je ne suis pas la glose de Nîlaka<i>ntha</i>a. Cf. [p. 187](Sanatsugatiya_6#p187) supra, et [p. 355](Anugita_29#p355) infra.
+[^1698]: 343:10 C'est à cause de ce corps que le soi devient limité par le temps, Ar<i>g</i>una Mi<i>s</i>ra. Je ne suis pas la glose de Nîlaka<i>ntha</i>a. Cf. [p. 187](../Sanatsugatiya_6#p187) supra, et [p. 355](../Anugita_29#p355) infra.
 
 [^1699]: 343:11 C'est-à-dire, Caractérisé par l'illusion, Ar<i>g</i>una Mi<i>s</i>ra.
 
 [^1700]: 344:1 Je ne suis pas sûr du sens ici. Ar<i>g</i>una Mi<i>s</i>ra dit (lisant vi<i>s</i>riget, « envoyer », au lieu de vikshipet, « mettre de côté ») « envoyer à la création, restreindre à la dissolution et retenir à l'émancipation finale ». Le commentaire lit rodhayet, que nous avons adopté ci-dessus. Le texte dans la même copie, cependant, est bodhayet. Ar<i>g</i>una Mi<i>s</i>ra ajoute, pour autant que je puisse le déduire d'une copie incorrecte : « Comme dans cette vie, tout est accompli par ces actions » (à savoir, je suppose, le rejet, etc.). Nîlaka<i>nth</i>a dit : « Cette même chose est la cause de la création, de la destruction et de la connaissance », lisant bodhayet.
 
-[^1701]: 344:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57).
+[^1701]: 344:2 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57).
 
 [^1702]: 344:3 C'est-à-dire les cinq grands éléments, comme indiqué dans le Dictionnaire de Williams, citant Yâgñavalkya III, 145. Voir Sânti Parvan (Moksha), chap. 182, st. 16 ; chap. 184, st. 1.
 
 [^1703]: 344:4 C'est-à-dire le siège du Brahman, Nîlaka<i>nth</i>a.
 
-[^1704]: 344:5 Voir Gîtâ, [p. 66](Bhagavadgita_5#p66), où le mot est le même, à savoir vega.
+[^1704]: 344:5 Voir Gîtâ, [p. 66](../Bhagavadgita_5#p66), où le mot est le même, à savoir vega.
 
 [^1705]: 344:6 D'où sort le fleuve. Cf. pour la figure entière, <i>S</i>ânti Parvan (Moksha), chap. 251, st. 12.
 
-[^1706]: 344:7 L'esprit = le cœur semblable au lotus, Nîlaka<i>nth</i>a. Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79). Se concentrer = se retirer des objets extérieurs, etc.
+[^1706]: 344:7 L'esprit = le cœur semblable au lotus, Nîlaka<i>nth</i>a. Cf. Gîtâ, [p. 79](../Bhagavadgita_8#p79). Se concentrer = se retirer des objets extérieurs, etc.
 
-[^1707]: 344:8 C'est-à-dire dans le corps, Nîlaka<i>nth</i>a. Voir [p. 248](Anugita_4#p248).
+[^1707]: 344:8 C'est-à-dire dans le corps, Nîlaka<i>nth</i>a. Voir [p. 248](../Anugita_4#p248).
 
-[^1708]: 344:9 Cf. Gîtâ, [p. 83](Bhagavadgita_9#p83), et note [4](Bhagavadgita_9#fn323) ici. Nîlaka<i>nth</i>a dit : « comme un, c'est-à-dire par la perception directe de l'unité de l'individuel et du suprême, et comme divers, c'est-à-dire dans la forme qui comprend tout. »
+[^1708]: 344:9 Cf. Gîtâ, [p. 83](../Bhagavadgita_9#p83), et note [4](../Bhagavadgita_9#fn323) ici. Nîlaka<i>nth</i>a dit : « comme un, c'est-à-dire par la perception directe de l'unité de l'individuel et du suprême, et comme divers, c'est-à-dire dans la forme qui comprend tout. »

@@ -52,7 +52,7 @@ Il est sans symboles [^1474], et aussi sans qualités ; rien n'existe qui soit s
 
 La Déité dit :
 
-Alors l'esprit de l'épouse du Brâhma<i>n</i>a, après la destruction du Kshetra<i>g</i>ña [1](Anugita_20#fn1482), se tourna vers ce qui est au-delà de (tous) les Kshetra<i>g</i>ñas au moyen d'une connaissance du Kshetra [2](Anugita_20#fn1483).
+Alors l'esprit de l'épouse du Brâhma<i>n</i>a, après la destruction du Kshetra<i>g</i>ña [1](../Anugita_20#fn1482), se tourna vers ce qui est au-delà de (tous) les Kshetra<i>g</i>ñas au moyen d'une connaissance du Kshetra [2](../Anugita_20#fn1483).
 
 Ar<i>g</i>una a dit :
 
@@ -60,7 +60,7 @@ Où est donc, ô K<i>ri</i>sh<i>n</i>a ! l'épouse de ce Brâhmane, et où est c
 
 La Déité dit :
 
-Sache que mon esprit est celui du Brâhmane, et que ma compréhension est celle de l'épouse du Brâhmane. Et celui, ô Dhanañgaya !, que l'on a appelé le Kshetragña, c'est moi-même [3](Anugita_20#fn1484).
+Sache que mon esprit est celui du Brâhmane, et que ma compréhension est celle de l'épouse du Brâhmane. Et celui, ô Dhanañgaya !, que l'on a appelé le Kshetragña, c'est moi-même [3](../Anugita_20#fn1484).
 
 <figure class="table chapter-navigator">
   <table>
@@ -94,7 +94,7 @@ Sache que mon esprit est celui du Brâhmane, et que ma compréhension est celle 
 
 [^1478]: 308:3 C'est-à-dire le Brahman, dit Ar<i>g</i>una Mi<i>s</i>ra, dont le Kshetra<i>g</i>a n'est qu'un symbole. Pour une définition du Kshetra<i>g</i>a, voir <i>S</i>ânti Parvan (Moksha), chap. 187, st. 23.
 
-[^1479]: 309:1 Voir Sanatsu<i>g</i>âtîya, [p. 160](Sanatsugatiya_2#p160).
+[^1479]: 309:1 Voir Sanatsu<i>g</i>âtîya, [p. 160](../Sanatsugatiya_2#p160).
 
 [^1480]: 309:2 C'est-à-dire ce qui est requis comme préliminaire à l'acquisition de la connaissance, et qui est donc nécessaire à l'émancipation finale.
 

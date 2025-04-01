@@ -150,7 +150,7 @@ Ainsi je dis.
 
 [^895]: 301:4 Vera = vaira.
 
-[^896]: 301:5 Ce verset revient dans Uttarâdhyayana VI, 3 ; ci-dessus, [p. 25](Uttaradhyayana_6#p25).
+[^896]: 301:5 Ce verset revient dans Uttarâdhyayana VI, 3 ; ci-dessus, [p. 25](../Uttaradhyayana_6#p25).
 
 [^897]: 302:1 Pôya<i>g</i>arâû = pôta<i>g</i>arâyu, c'est-à-dire né vivant (comme les éléphants, etc.) et né avec le chorion (comme les vaches, etc.)
 
@@ -160,7 +160,7 @@ Ainsi je dis.
 
 [^900] : 302:4 Tha<i>n</i><i>d</i>illa, c'est-à-dire krôdha.
 
-[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, c'est-à-dire mâna. Ces quatre passions sont nommées ici d'après la manière dont elles sont censées agir sur l'âme. Des noms similaires ont été utilisés précédemment, [p. 248](Sutrakritanga_1_1_4#p248), notes [3](Sutrakritanga_1_1_4#fn723)\-[6](Sutrakritanga_1_1_4#fn726).
+[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, c'est-à-dire mâna. Ces quatre passions sont nommées ici d'après la manière dont elles sont censées agir sur l'âme. Des noms similaires ont été utilisés précédemment, [p. 248](../Sutrakritanga_1_1_4#p248), notes [3](../Sutrakritanga_1_1_4#fn723)\-[6](../Sutrakritanga_1_1_4#fn726).
 
 [^902]: 302:6 Il y a de la peur.
 

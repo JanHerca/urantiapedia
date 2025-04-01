@@ -66,19 +66,19 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 ## Notes de bas de page
 
-[^1778]: 355:1 Cf. Gîtâ, [p. 45](Bhagavadgita_2#p45).
+[^1778]: 355:1 Cf. Gîtâ, [p. 45](../Bhagavadgita_2#p45).
 
 [^1779]: 355:2 Tout cela est action, dont le fruit est périssable ; le fruit de la connaissance, au contraire, est éternel.
 
-[^1780]: 355:3 Littéralement, le temps ; il semble cependant représenter les vicissitudes de la vie mondaine. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 283. Le corps est appelé « roue du temps » à la [p. 53](Bhagavadgita_3#p53) supra, mais Ar<i>g</i>una Mi<i>s</i>ra y dit « c'est la roue qui provoque la rotation de la roue du temps ».
+[^1780]: 355:3 Littéralement, le temps ; il semble cependant représenter les vicissitudes de la vie mondaine. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 283. Le corps est appelé « roue du temps » à la [p. 53](../Bhagavadgita_3#p53) supra, mais Ar<i>g</i>una Mi<i>s</i>ra y dit « c'est la roue qui provoque la rotation de la roue du temps ».
 
 [^1781]: 355:4 La cause de ses grandes dimensions est Ar<i>g</i>una Mi<i>s</i>ra ; le pilier de soutien est Nîlaka<i>nth</i>a. Je préfère la première, et j'en déduis que la vie mondaine est coextensive aux opérations ou « imaginations » de l'esprit.
 
 [^1782]: 355:5 Ce qui est en dehors des éléments, les manifestations physiques de Prak<i>ri</i>ti, est au-delà du domaine de la vie mondaine.
 
-[^1783]: 355:6 La possession d'un « chez-soi » équivaut à une habitation au cœur de la vie mondaine. D'où l'idée de « sans-abri » dans la Gîtâ, pp. [101](Bhagavadgita_12#p101)-[103](Bhagavadgita_13#p103).
+[^1783]: 355:6 La possession d'un « chez-soi » équivaut à une habitation au cœur de la vie mondaine. D'où l'idée de « sans-abri » dans la Gîtâ, pp. [101](../Bhagavadgita_12#p101)-[103](../Bhagavadgita_13#p103).
 
-[^1784]: 356:1 Cela signifie, je suppose, que la vie terrestre est conditionnée, pour ainsi dire, par l'espace et le temps. Voir [p. 343](Anugita_27#p343) supra.
+[^1784]: 356:1 Cela signifie, je suppose, que la vie terrestre est conditionnée, pour ainsi dire, par l'espace et le temps. Voir [p. 343](../Anugita_27#p343) supra.
 
 [^1785]: 356:2 C'est-à-dire la cause de la rotation, Nîlaka<i>nth</i>a.
 
@@ -106,25 +106,25 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 [^1797]: 357:5 Nîlaka<i>nth</i>a lit 'vi<i>k</i>itra', qu'il traduit par diversifié, comme étant composé des trois qualités, l'ignorance étant la même chose que Prak<i>nth</i>ti, ce qui est probablement un meilleur sens que celui que l'on peut obtenir à partir de la lecture d'Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1798]: 357:6 Qui se meut par attachement aux plaisirs éternels, etc., Nîlaka<i>nth</i>a. Voir [p. 300](Anugita_15#p300) supra.
+[^1798]: 357:6 Qui se meut par attachement aux plaisirs éternels, etc., Nîlaka<i>nth</i>a. Voir [p. 300](../Anugita_15#p300) supra.
 
 [^1799]: 357:7 C'est-à-dire que le monde entier s'est développé à partir de Prakriti — une expression courante.
 
 [^1800]: 357:8 C'est le sens forcé de Nîlaka<i>ntha</i>a. Mais le texte ici est douteux. Le sens est peut-être « où la production et la dissolution se poursuivent sans contrôle ».
 
-[^1801]: 357:9 Voir [p. 344](Anugita_27#p344) note. Pour le dernier mot, la variante ici est sthâpayet, rendre stable ou arrêter.
+[^1801]: 357:9 Voir [p. 344](../Anugita_27#p344) note. Pour le dernier mot, la variante ici est sthâpayet, rendre stable ou arrêter.
 
 [^1802]: 358:1 C'est-à-dire les causes de la révolution et de l'arrêt, Nîlaka<i>nth</i>a.
 
-[^1803]: 358:2 Impressions d'actions antérieures, d'illusions, etc. Et voir [p. 247](Anugita_4#p247) supra.
+[^1803]: 358:2 Impressions d'actions antérieures, d'illusions, etc. Et voir [p. 247](../Anugita_4#p247) supra.
 
 [^1804]: 358:3 C'est-à-dire le Samnyâsin.
 
-[^1805]: 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](Bhagavadgita_16#p117).
+[^1805]: 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](../Bhagavadgita_16#p117).
 
 [^1806]: 358:5 « Telle est la renommée éternelle », littéralement.
 
-[^1807]: 358:6 C'est-à-dire sur qui les rites védiques ou Samskâras sont dûment accomplis. Voir Gîtâ, [p. 122](Bhagavadgita_18#p122).
+[^1807]: 358:6 C'est-à-dire sur qui les rites védiques ou Samskâras sont dûment accomplis. Voir Gîtâ, [p. 122](../Bhagavadgita_18#p122).
 
 [^1808]: 358:7 C'est-à-dire l'une des trois castes supérieures.
 
@@ -134,9 +134,9 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 [^1811]: 358:10 Vide Williams' Dictionary, sv mahâya<i>g</i>ña; Â<i>s</i>valâyana G<i>ri</i>hya III, 1, 3; Manu II, 69; IV, 21.
 
-[^1812]: 358:11 Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62) ; un invité doit toujours être nourri, et à moins qu'il ne soit satisfait, l'hôte ne doit pas manger. Cf. <i>S</i>ânti Parvan (Moksha), chap. 192, st. 15 ; Manu III, 106 ; Âpastamba II, 3, 7, 3.
+[^1812]: 358:11 Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62) ; un invité doit toujours être nourri, et à moins qu'il ne soit satisfait, l'hôte ne doit pas manger. Cf. <i>S</i>ânti Parvan (Moksha), chap. 192, st. 15 ; Manu III, 106 ; Âpastamba II, 3, 7, 3.
 
-[^1813]: 359:1 Le même mot que dans la Gîtâ, [p. 114](Bhagavadgita_15#p114), y est rendu par « activité vaine ».
+[^1813]: 359:1 Le même mot que dans la Gîtâ, [p. 114](../Bhagavadgita_15#p114), y est rendu par « activité vaine ».
 
 [^1814]: 359:2 Cf. Âpastamba II, 1, 1, 2 seq.
 

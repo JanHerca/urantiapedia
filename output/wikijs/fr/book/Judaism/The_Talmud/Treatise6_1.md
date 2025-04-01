@@ -56,7 +56,7 @@ Taille et couverture des tabernacles — Ce qui constitue un tabernacle — Exem
 
 6\. « Ils pourront le recouvrir de lattes. » Paroles de Rabbi Judah ; mais Rabbi Meier l'interdit. « Si quelqu'un met une planche de quatre mains de large dessus ? » « C'est permis, à condition de ne pas dormir dessous. »
 
-7\. « Des chevrons sur lesquels il n'y a pas de plafond ? » R. Judah dit : « L'école de Shammaï dit : “qu'il les desserre et enlève celle du milieu sur trois.” » Mais l'école de Hillel dit : “Il peut soit les desserrer, soit enlever celle du milieu sur trois.” » R. Meier dit : « Il doit enlever celle du milieu sur trois, mais il n'est pas nécessaire de les desserrer. »
+7\. « Des chevrons sur lesquels il n'y a pas de plafond ? » R. Judah dit : « L'école de Shammaï dit : « qu'il les desserre et enlève celle du milieu sur trois. » » Mais l'école de Hillel dit : « Il peut soit les desserrer, soit enlever celle du milieu sur trois. » » R. Meier dit : « Il doit enlever celle du milieu sur trois, mais il n'est pas nécessaire de les desserrer. »
 
 8\. « Si quelqu'un couvre sa cabane de broches ou de planches ? » « Si les espaces intermédiaires sont égaux, c'est permis. » « Si quelqu'un empile des gerbes pour faire une cabane ? » « Ce n'est pas une cabane. »
 

@@ -192,7 +192,7 @@ Confucius (après cela) ne sortit plus jusqu'à ce qu'au bout de trois mois, il 
 
 [^584]: 355:1 C'est-à-dire que le sage ne le déposera pas là où il restera caché ; — comparer Analectes XVI, vi.
 
-[^585]: 356:1 Voir la même expression utilisée dans le Livre VI, par. 11, employée par Confucius pour lui-même. En comparant les deux passages ensemble, je dois douter de l'exactitude de ma note ici ([2](Kwang_dze_Book_6#fn290), p. 252), selon laquelle « Ciel » est utilisé dans le sens confucéen de Tî, ou Dieu. Les hommes ici poursuivaient et peinaient après les plaisirs du monde, plutôt que les satisfactions tranquilles du Tâo.
+[^585]: 356:1 Voir la même expression utilisée dans le Livre VI, par. 11, employée par Confucius pour lui-même. En comparant les deux passages ensemble, je dois douter de l'exactitude de ma note ici ([2](../Kwang_dze_Book_6#fn290), p. 252), selon laquelle « Ciel » est utilisé dans le sens confucéen de Tî, ou Dieu. Les hommes ici poursuivaient et peinaient après les plaisirs du monde, plutôt que les satisfactions tranquilles du Tâo.
 
 [^586]: 357:1 Voir Livre XXIII, par. 9. La phrase = ![](/image/book/Taoism/Taoist_texts_vol_1/35700.jpg).
 

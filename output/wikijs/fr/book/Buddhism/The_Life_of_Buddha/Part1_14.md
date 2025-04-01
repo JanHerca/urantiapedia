@@ -75,7 +75,7 @@ Pendant ce temps, Chandaka et le cheval Kanthaka revenaient lentement de l'ermit
 
 « Pensez-vous, dirent les cavaliers, que si nous allions le trouver, nous pourrions le persuader de revenir avec nous ? »
 
-Vos paroles seraient vaines. Il est obstiné. Il a dit : “Je ne retournerai pas à Kapilavastu avant d'avoir vaincu la vieillesse et la mort.” Et ce qu'il a dit, il le fera.”
+Vos paroles seraient vaines. Il est obstiné. Il a dit : « Je ne retournerai pas à Kapilavastu avant d'avoir vaincu la vieillesse et la mort. » Et ce qu'il a dit, il le fera.”
 
 Chandaka suivit les cavaliers jusqu'au palais. Le roi le convoqua aussitôt.
 

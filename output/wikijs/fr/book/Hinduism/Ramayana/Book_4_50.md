@@ -158,7 +158,7 @@ Mais, même s'ils tentent vos yeux désireux,
 Évitez de les toucher et soyez sage.
 Pour Rohitas, un groupe gardien
 Autour d'eux se tiennent de féroces Gandharvas,
-À qui obéissent cinq brillants seigneurs souverains [1](Book_4_50#fn714),
+À qui obéissent cinq brillants seigneurs souverains [1](../Book_4_50#fn714),
 Dans la gloire comme le Dieu du jour.
 Ici, par de bonnes actions, on gagne une maison.
 Avec des formes comme le feu, la lune, le soleil.
@@ -167,7 +167,7 @@ Habitez les confins de la terre.
 Reste là ; au-delà, sombre et lugubre,
 Se trouve la sphère des esprits disparus,
 Et, ceint de ténèbres, loin du bonheur,
-C'est la triste métropole de Yama. [2](Book_4_50#fn715)
+C'est la triste métropole de Yama. [2](../Book_4_50#fn715)
 Jusqu'ici, mes seigneurs, sur terre et sur mer
 Votre destin est simple et libre.
 Au-delà de tes pas tu ne peux pas te fixer,
@@ -274,8 +274,8 @@ Un palais glorieux brille là,
 Et tout autour, de doux oiseaux chantent
 Là où fleurissent les arbres gais :
 
-La demeure de Varun [1b](Book_4_50#fn732) seigneur à l'âme élevée,
-Poignet ceint de son cordon mortel. [2b](Book_4_50#fn733)
+La demeure de Varun [1b](../Book_4_50#fn732) seigneur à l'âme élevée,
+Poignet ceint de son cordon mortel. [2b](../Book_4_50#fn733)
 Avec dix hautes tiges, un palmier entre
 On voit la colline de Meru et Asta :
 De la base jaillit de l'argent pur,
@@ -284,7 +284,7 @@ Cherchez Rávanthe dame près du ruisseau,
 Dans un vallon sans chemin, dans un coin feuillu
 Sur la crête de Meru vit un ermite
 Lumineux de la lumière que donne la pénitence :
-Sávarni [3b](Book_4_50#fn734) est son nom, célèbre
+Sávarni [3b](../Book_4_50#fn734) est son nom, célèbre
 En tant qu'égal de Brahma, couronné de gloire.
 Là, s'inclinant avec révérence, ils parlent
 Et demande-lui la dame que tu cherches.
@@ -386,17 +386,17 @@ De fleurs et de feuilles comme des flammes de feu.
 Toutes leurs douces vies passent sans soucis
 Dans une félicité et une joie sans fin,
 Tandis que les jeunes filles parées de perles rient ou chantent
-Sur la musique des cordes argentées. [1b](Book_4_50#fn743)
+Sur la musique des cordes argentées. [1b](../Book_4_50#fn743)
 Continuez toujours votre voyage en avant,
 Et repose-toi près des profondeurs du nord,
 Là où jaillissant des hautes vagues
-Le mont Somagiri [2b](Book_4_50#fn744) cherche le ciel,
+Le mont Somagiri [2b](../Book_4_50#fn744) cherche le ciel,
 Et s'illumine d'une lueur perpétuelle
 Le royaume sans soleil qui se trouve en dessous.
 Là, présent à travers toute l'étendue de la vie,
 Habite le Seigneur Brahma prééminent,
 Et autour du grand Dieu, manifeste
-Dans Rudra [3b](Book_4_50#fn745) se forment les grands sages qui se reposent.
+Dans Rudra [3b](../Book_4_50#fn745) se forment les grands sages qui se reposent.
 Alors ne te retourne plus, ô Vánarsrch,
 Ne tentez pas le rivage sans soleil et sans limites.
 
@@ -528,13 +528,13 @@ Et regarda Asta, [^748] où le soleil
 Il coule quand il court son parcours quotidien
 Puis de cette colline la plus noble je me suis enfui
 Et se précipita vers le pays du nord,
-J'ai vu Himavant [1](Book_4_50#fn749) et Meru'Meru'sp,
+J'ai vu Himavant [1](../Book_4_50#fn749) et Meru'Meru'sp,
 Et se tenait près de l'abîme du nord.
 Mais lorsque, opprimé par la puissance de Báli,
 Même dans ces étendues sauvages, je ne pouvais pas me reposer,
 Hanuman arriva sage et courageux,
 Et ainsi son prudent conseil donna :
-« Je t'ai dit comment Matanga [2](Book_4_50#fn750) a maudit
+« Je t'ai dit comment Matanga [2](../Book_4_50#fn750) a maudit
 Ton tyran, que sa tête éclate
 En morceaux, il faudrait oser envahir
 L'enceinte de cette ombre tranquille.
@@ -590,7 +590,7 @@ Eh bien, nous avons cherché avec peine et douleur,
 Et nous avons tué des créatures monstrueuses
 Mais l'esprit le plus noble d'Hanuman
 La dame Maithil trouvera encore ;
-Pour son quart du ciel [1b](Book_4_50#fn751)
+Pour son quart du ciel [1b](../Book_4_50#fn751)
 On a vu le démon voleur s'enfuir,
 
 
@@ -649,7 +649,7 @@ La recherche minutieuse, le travail et la douleur.
 Ils pouvaient à peine serpenter à travers un bosquet sombre,
 Les lianes étaient si épaisses et entrelacées.
 Là, alors qu'ils luttaient à travers le bois
-Devant leurs yeux se tenait un Asur [1](Book_4_50#fn752).
+Devant leurs yeux se tenait un Asur [1](../Book_4_50#fn752).
 Haut comme une colline imposante, sa fierté
 Les dieux eux-mêmes dans le ciel ont défié.
 Quand leurs regards se posèrent sur le démon
@@ -777,7 +777,7 @@ Et des rayons de miel et des abeilles dorées.
 Alors que le Vánarser dessinait,
 Une sainte femme s'est présentée à leur vue.
 Autour de sa forme était dûment attaché
-Un vêtement en peau de cerf noir. [1](Book_4_60#fn753)
+Un vêtement en peau de cerf noir. [1](../Book_4_60#fn753)
 Pure votare, elle brillait de lumière
 D'un zèle fervent et d'un rite saint.
 Puis Hanumanre le reste

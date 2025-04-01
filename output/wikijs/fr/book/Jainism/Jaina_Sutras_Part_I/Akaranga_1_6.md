@@ -195,7 +195,7 @@ Fin de la sixième leçon, appelée le Nettoyage.
 
 [^255]: 60:1 Ou ceux qui rompent leurs vœux.
 
-[^256] : 60:2 Oya, voir note [2](Akaranga_1_5#fn228), [p. 52](Akaranga_1_5#p52).
+[^256] : 60:2 Oya, voir note [2](../Akaranga_1_5#fn228), [p. 52](../Akaranga_1_5#p52).
 
 [^257] : 60:3 Veyavî = védavid.
 

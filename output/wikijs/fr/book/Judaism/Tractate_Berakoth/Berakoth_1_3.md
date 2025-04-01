@@ -134,15 +134,15 @@ Mais Bacher (Ag. der Tanis, I, 8) explique ce passage comme le simple développe
 
 [^146]: 22:3 _pour terminer_. _c'est-à-dire_ « toute section entière du Shma' » (De Sola et Raphall).
 
-[^147]: 22:4 _la ligne_ \[_des personnes en deuil_\]. Après l'inhumation, « il est de coutume que le peuple se place sur deux rangs parallèles, tandis que les personnes en deuil passent entre eux, et qu'il dise : “Que Dieu vous console, ainsi que tous ceux qui pleurent Sion et Jérusalem” » (Encyclopédie juive, v. 530).
+[^147]: 22:4 _la ligne_ \[_des personnes en deuil_\]. Après l'inhumation, « il est de coutume que le peuple se place sur deux rangs parallèles, tandis que les personnes en deuil passent entre eux, et qu'il dise : « Que Dieu vous console, ainsi que tous ceux qui pleurent Sion et Jérusalem » » (Encyclopédie juive, v. 530).
 
-[^148]: 23:1 _la bénédiction après les repas_. Mais ils ne sont pas « invités à dire la bénédiction ». _M_. VII. 3 (2) (_infra_, [p. 60](Berakoth_3_7#p60)).
+[^148]: 23:1 _la bénédiction après les repas_. Mais ils ne sont pas « invités à dire la bénédiction ». _M_. VII. 3 (2) (_infra_, [p. 60](../Berakoth_3_7#p60)).
 
 [^149]: 23:2 Lév. 1516.
 
 [^150]: 23:3 _pas avant_. Cela a été ordonné uniquement par les Rabbins, et non par la Loi.
 
-[^151]: 23:4 _eux_. Le Shma' et le repas (_vide supra_, [p. 19](Berakoth_1_2#p19)).
+[^151]: 23:4 _eux_. Le Shma' et le repas (_vide supra_, [p. 19](../Berakoth_1_2#p19)).
 
 [^152]: 24:1 Lév. 1516.
 
@@ -184,4 +184,4 @@ Mais Bacher (Ag. der Tanis, I, 8) explique ce passage comme le simple développe
 
 [^171]: 27:4 Hillel l'Ancien. Le Hillel suivant était tellement cadet (Patriarche 330-365 apr. J.-C.) que l'épithète peut difficilement être utilisée à des fins de comparaison. Il s'agit plutôt d'un titre honorifique et de suprématie en matière d'érudition et de sagesse. Dans le Siphra (Kdoshim III. 7) sur Lév. 1932, nous trouvons : « Rabbi José le Galiléen dit que l'Ancien (ZaKêN) ne signifie rien d'autre que « Celui qui a acquis la sagesse » (Zeh shKaNah chokmah), car il est dit : « L'Éternel m'a acquis (KNani) comme le commencement de sa voie » (Prov. 822). Il n'est d'ailleurs jamais appelé « Rabbi Hillel », sauf, semble-t-il, dans le chapitre C d'Aboth II. 5. »
 
-[^172]: 28:1 Ecclésiaste 34, 5. Remarquez que les mots cités ne sont pas consécutifs. Ce passage peut signifier que chaque devoir a son heure, et il est ostentatoire de se laisser surprendre par l'heure de réciter le Shma' alors que nous n'y sommes pas préparés. Ainsi, notre Seigneur exhorte les hommes à ne pas prier debout aux coins des rues (Mt 65). Cf. l'avertissement à la fin de _M_. II. 8 ([p. 21](Berakoth_1_2#p21)).
+[^172]: 28:1 Ecclésiaste 34, 5. Remarquez que les mots cités ne sont pas consécutifs. Ce passage peut signifier que chaque devoir a son heure, et il est ostentatoire de se laisser surprendre par l'heure de réciter le Shma' alors que nous n'y sommes pas préparés. Ainsi, notre Seigneur exhorte les hommes à ne pas prier debout aux coins des rues (Mt 65). Cf. l'avertissement à la fin de _M_. II. 8 ([p. 21](../Berakoth_1_2#p21)).

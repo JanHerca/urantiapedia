@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 1\. « Comment les hommes rôtissent-ils la Pâque ? » « Ils apportent un bâton de grenade et l'enfoncent dans sa bouche jusqu'à sa queue. Ils y mettent les pattes et les intestins. » Les paroles de Rabbi José, le Galiléen. Rabbi Akiba a dit : « C'est une sorte de cuisson à l'eau bouillante, c'est pourquoi ils les suspendent à l'extérieur. »
 
-2\. Il est interdit de rôtir la Pâque à la broche ou sur un gril. Rabbi Zaduk a dit : « Rabban Gamaliel dit à Zabi, son serviteur : “Va nous rôtir la Pâque sur le gril.” » « Si elle touche la paroi du four ? » « Cette partie doit être pelée. » « Si sa sauce tombe sur la paroi du four et y retourne ? » « Cette partie doit être retirée. » « Si la sauce tombe sur la farine ? » « Cette partie doit être retirée » (et brûlée).
+2\. Il est interdit de rôtir la Pâque à la broche ou sur un gril. Rabbi Zaduk a dit : « Rabban Gamaliel dit à Zabi, son serviteur : « Va nous rôtir la Pâque sur le gril. » » « Si elle touche la paroi du four ? » « Cette partie doit être pelée. » « Si sa sauce tombe sur la paroi du four et y retourne ? » « Cette partie doit être retirée. » « Si la sauce tombe sur la farine ? » « Cette partie doit être retirée » (et brûlée).
 
 3\. « Si on l'a oint (arrosé) de l'huile de l'offrande élevée ? » « Si c'est une troupe de prêtres, ils pourront le manger. » « Si c'est une troupe d'Israélites ? » « Si c'est cru, ils pourront le laver. » « Mais s'il est rôti ? » « Ils devront l'éplucher. » « Si c'était oint de l'huile de la seconde dîme ? » « Sa valeur en argent ne sera pas facturée aux membres de la troupe, car ils ne peuvent pas racheter [^159] la seconde dîme à Jérusalem. »
 

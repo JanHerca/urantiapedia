@@ -124,7 +124,7 @@ Ainsi je dis.
 
 [^504]: 181:7 Les commentaires m'apprennent deux autres de ces six kâra<i>n</i>as : vêdana et vaiyâv<i>ri</i>tya. Je ne peux pas dire lesquels sont les trois restants.
 
-[^505]: 181:8 Ils sont énumérés dans la note [^497] sur XXX, 25, [p. 178](Uttaradhyayana_30#p178).
+[^505]: 181:8 Ils sont énumérés dans la note [^497] sur XXX, 25, [p. 178](../Uttaradhyayana_30#p178).
 
 [^507]: 182:1 À savoir la caste, la famille, la beauté, etc. ; voir Sûtrak<i>ri</i>t. II, 2, 17.
 
@@ -142,7 +142,7 @@ Ainsi je dis.
 
 [^514]: 183:1 <i>S</i>abala, car ils « varient » la conduite. Les actions visées sont le fait de s'asseoir sur un siège non essuyé, etc.
 
-[^515] : 183 : 2 Parîsaha, voir ci-dessus, [p. 9](Uttaradhyayana_2#p9) et suiv.
+[^515] : 183 : 2 Parîsaha, voir ci-dessus, [p. 9](../Uttaradhyayana_2#p9) et suiv.
 
 [^516]: 183:3 Rûpa. Les vingt-quatre dieux sont : dix Bhavanapatis, huit Vyantaras, cinq Gyôtishkas, un Vaimânika ; ou les 24 prophètes.
 

@@ -74,7 +74,7 @@ Les ducs et tous les autres, ayant entendu cet ordre, s'inclinèrent les uns dev
 
 ## Notes de bas de page
 
-[^286]: 243:1 Voir la note sur ces ministres, [p. 235](Shu_King_Part5_22#p235).
+[^286]: 243:1 Voir la note sur ces ministres, [p. 235](../Shu_King_Part5_22#p235).
 
 [^287]: 243:2 Ces présents s'ajoutaient aux équipes de chevaux exposées dans la cour : soieries et productions plus légères de leurs différents territoires.
 

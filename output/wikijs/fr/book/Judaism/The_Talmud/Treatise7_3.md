@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. « Le Sanhédrin et tout Israël virent (la nouvelle lune) ; les témoins furent interrogés, mais la nuit tomba avant qu'ils puissent dire : “Sanctifié” ? » « Le mois est intercalaire. » « Seul le Sanhédrin l'a vu ? » « Deux membres doivent se lever et témoigner devant eux, et ils diront : “Sanctifié, sanctifié.” » « Trois membres du Sanhédrin l'ont vu ? » « Deux d'entre eux doivent se lever, et leurs assesseurs doivent s'asseoir avec le membre unique, et devant eux ils témoigneront et diront : “Sanctifié, sanctifié”, car un individu ne peut être digne de confiance par lui-même. »
+1\. « Le Sanhédrin et tout Israël virent (la nouvelle lune) ; les témoins furent interrogés, mais la nuit tomba avant qu'ils puissent dire : « Sanctifié » ? » « Le mois est intercalaire. » « Seul le Sanhédrin l'a vu ? » « Deux membres doivent se lever et témoigner devant eux, et ils diront : « Sanctifié, sanctifié. » » « Trois membres du Sanhédrin l'ont vu ? » « Deux d'entre eux doivent se lever, et leurs assesseurs doivent s'asseoir avec le membre unique, et devant eux ils témoigneront et diront : « Sanctifié, sanctifié », car un individu ne peut être digne de confiance par lui-même. »
 
 2\. Tous les cornets sont autorisés, sauf les cornes de génisse, [^297] car il est écrit corne. [^298] Rabbi José a dit : « Ne dit-on pas que tous les cornets sont corne ? Car il est dit : « Quand ils sonneront longuement avec la corne de bélier. » [^299]
 

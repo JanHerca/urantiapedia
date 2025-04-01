@@ -180,7 +180,7 @@ Ainsi je dis.
 
 [^1160]: 392:4 Ceci doit être détaillé de la même manière que pour les arbres et les plantes grimpantes.
 
-[^1161] : 393 : 1 Comparez la note [1](Uttaradhyayana_36#fn648), [p. 225](Uttaradhyayana_36#p225).
+[^1161] : 393 : 1 Comparez la note [1](../Uttaradhyayana_36#fn648), [p. 225](../Uttaradhyayana_36#p225).
 
 [^1162]: 393:2 Les deux sont indiqués dans le texte par bî<i>g</i>a. Selon <i>S</i>îlâṅka, un mâle sera produit si le sperme est en excès ; une femelle, si le sang est en excès ; un neutre, si les deux sont également équilibrés.
 
@@ -204,7 +204,7 @@ Ainsi je dis.
 
 [^1172]: 395:3 Il peut s'agir de <i>k</i>atushpâdika, quadrupède ; mais alors le mot doit être pris dans un sens restreint, peut-être, petits quadrupèdes.
 
-[^1173]: 395:4 Voir Uttarâdhyayana XXXVI, 187 ; ci-dessus, [p. 224](Uttaradhyayana_36#p224). Les deux derniers types de pakshins désignent-ils les scarabées et les papillons ?
+[^1173]: 395:4 Voir Uttarâdhyayana XXXVI, 187 ; ci-dessus, [p. 224](../Uttaradhyayana_36#p224). Les deux derniers types de pakshins désignent-ils les scarabées et les papillons ?
 
 [^1174]: 395:5 A<i>n</i>usûya = anusûta ou anusyûta.
 

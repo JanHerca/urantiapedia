@@ -76,4 +76,4 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> indique une migration du zoroastrisme, venant de l'Ouest (?).
 
-[^1226]: 291:4 Pour Yasna XLIII-LI, voir ci-dessus, pp. [98](Histoire_43#p98)\-[187](Histoire_51#p187).
+[^1226]: 291:4 Pour Yasna XLIII-LI, voir ci-dessus, pp. [98](../Histoire_43#p98)\-[187](../Histoire_51#p187).

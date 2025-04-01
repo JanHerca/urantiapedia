@@ -56,9 +56,9 @@ CINQUIÈME PRAPÂTHAKA [^226].
 
 11\. L'esprit s'en alla, et après avoir été absent pendant un an, il revint et dit : « Comment avez-vous pu vivre sans moi ? » Ils répondirent : « Comme des enfants dont l'esprit n'est pas encore formé, mais qui respirent par le souffle, parlent par la langue, voient par l'œil, entendent par l'oreille. Ainsi avons-nous vécu. » Alors l'esprit revint.
 
-12\. Le souffle, sur le point de partir, déchirait les autres sens, comme un cheval, prêt à partir, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> pourrait arracher les piquets auxquels il est attaché [1](Khandogya_5#fn228). Ils vinrent à lui et dirent : « Seigneur, sois-toi (notre seigneur) ; tu es le meilleur d'entre nous. Ne nous quitte pas ! »
+12\. Le souffle, sur le point de partir, déchirait les autres sens, comme un cheval, prêt à partir, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> pourrait arracher les piquets auxquels il est attaché [1](../Khandogya_5#fn228). Ils vinrent à lui et dirent : « Seigneur, sois-toi (notre seigneur) ; tu es le meilleur d'entre nous. Ne nous quitte pas ! »
 
-13\. Alors la langue lui dit : « Si je suis le plus riche, tu es le plus riche. » L'œil lui dit : « Si je suis le repos ferme, tu es le repos ferme [2](Khandogya_5#fn229). »
+13\. Alors la langue lui dit : « Si je suis le plus riche, tu es le plus riche. » L'œil lui dit : « Si je suis le repos ferme, tu es le repos ferme [2](../Khandogya_5#fn229). »
 
 14\. L'oreille lui dit : « Si je suis le succès, tu es le succès. » L'esprit lui dit : « Si je suis la maison, tu es la maison. »
 

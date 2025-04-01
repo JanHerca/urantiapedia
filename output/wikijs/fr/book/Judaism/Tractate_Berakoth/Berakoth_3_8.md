@@ -221,15 +221,15 @@ V. 21. Si un païen prononce la bénédiction au nom (de l'emprunt), on répond 
 
 [^416]: 68:4 _sur la tête du serviteur_t. Pour ne pas le gaspiller.
 
-[^417]: 68:5 _épices_. Comme la coutume de brûler des épices à la fin des repas (_M_. VI. 6, _supra_, [p. 48](Berakoth_3_6#p48)) « était interrompue le jour du sabbat, l'apport d'épices fut associé à la fin du sabbat » (Abrahams on SA, p. 216).
+[^417]: 68:5 _épices_. Comme la coutume de brûler des épices à la fin des repas (_M_. VI. 6, _supra_, [p. 48](../Berakoth_3_6#p48)) « était interrompue le jour du sabbat, l'apport d'épices fut associé à la fin du sabbat » (Abrahams on SA, p. 216).
 
-[^418]: 68 : 6 _Habdalah_, [p. 39](Berakoth_2_5#p39).
+[^418]: 68 : 6 _Habdalah_, [p. 39](../Berakoth_2_5#p39).
 
 [^419]: 69:1 _pour une fête_. Lorsqu'un sabbat précède immédiatement une fête.
 
 [^420]: 69:2 _Habdaloth_. Le pluriel peut faire référence à la vanité dans les Bénédictions, ou dans les citations des Écritures, ou à l'énumération de diverses « distinctions ».
 
-[^421]: 69:3 _Chacun . . pour soi_. Peut-être parce qu'ils vont et viennent continuellement. Cf. _supra_, [p. 63](Berakoth_3_7#p63).
+[^421]: 69:3 _Chacun . . pour soi_. Peut-être parce qu'ils vont et viennent continuellement. Cf. _supra_, [p. 63](../Berakoth_3_7#p63).
 
 [^422]: 70:1 _la lampe_. Le mot ainsi traduit ici et dans la clause suivante est _ma'ôr_ (Gen. 116), dans la mishna précédente, _nêr_. Mais dans _T_, _ma'ôr_ est utilisé à la place de _nêr_.
 
@@ -269,7 +269,7 @@ V. 21. Si un païen prononce la bénédiction au nom (de l'emprunt), on répond 
 
 [^440]: 73:1 Voir _T_.
 
-[^441]: 73:2 Voir [p. 9](Berakoth_1_1#p9).
+[^441]: 73:2 Voir [p. 9](../Berakoth_1_1#p9).
 
 [^442]: 73:3 Un prosélyte païen a appris la forme juive ordinaire. Mais un Samaritain peut dire quelque chose d'hérétique.
 

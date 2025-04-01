@@ -76,7 +76,7 @@ De plus, en employant le crochet et la ligne, le compas et l'équerre pour donne
 
 ## Notes de bas de page
 
-[^376] : 268:1 Voir pp. [138](Kwang_dze_Intro#p138), [139](Kwang_dze_Intro#p139).
+[^376] : 268:1 Voir pp. [138](../Kwang_dze_Intro#p138), [139](../Kwang_dze_Intro#p139).
 
 [^377]: 268:2 « Sortez de la nature », mais « nature » doit être pris ici comme dans la traduction. Le caractère n'est pas Tâo.
 

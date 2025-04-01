@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-1\. « Comment bénissons-nous pour les fruits ? » « Pour les fruits des arbres, dites : “Qui crée le fruit des bois ?”, excepté le vin. Pour le vin, dites : “Qui crée le fruit de la vigne ?” Pour les fruits de la terre, dites : “Qui crée le fruit de la terre ?”, excepté le morceau. Pour le morceau, dites : “Qui fait sortir le pain de la terre ?” Pour les légumes, dites : “Qui crée le fruit de la terre ?” R. Judah dit : “Qui crée toutes sortes d’herbes.” »
+1\. « Comment bénissons-nous pour les fruits ? » « Pour les fruits des arbres, dites : « Qui crée le fruit des bois ? », excepté le vin. Pour le vin, dites : « Qui crée le fruit de la vigne ? » Pour les fruits de la terre, dites : « Qui crée le fruit de la terre ? », excepté le morceau. Pour le morceau, dites : « Qui fait sortir le pain de la terre ? » Pour les légumes, dites : « Qui crée le fruit de la terre ? » R. Judah dit : « Qui crée toutes sortes d’herbes. » »
 
 2\. Celui qui bénit les fruits de l'arbre (ainsi) : « Qui crée les fruits de la terre ? » « Il est libre. » Et pour les fruits de la terre (dit) : « Qui crée les fruits des bois ? » « Il n'est pas libre. » Mais, en général, si l'on dit : « (Qui crée) tout ? » « Il est libre. »
 

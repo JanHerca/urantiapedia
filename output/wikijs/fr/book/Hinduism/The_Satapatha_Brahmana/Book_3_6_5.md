@@ -201,13 +201,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^462]: 230:1 Le triplet entier se déroule ainsi : « Vous êtes rafraîchissantes, ô eaux ; conduisez-nous à la force, pour voir une grande joie ! Quelle que soit votre sève la plus bénigne, partageons-la, comme des mères aimantes ! — Pour vous, nous irons volontiers à celui vers la demeure duquel vous nous poussez, ô eaux, et nous vivifiez. »
 
-[^463]: 230:2 Voir [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^463]: 230:2 Voir [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
 [^464]: 230 : 3 [VI, 1, 1, 13] (Book_3_6_1#v6_1_1_13).
 
 [^465]: 230:4 C'est-à-dire que les poils du bétail sont la caractéristique la plus évidente de leur apparence extérieure.
 
-[^466]: 232:1 Voir [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6)\-[7](Book_3_6_1#v6_1_2_7).
+[^466]: 232:1 Voir [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6)\-[7](../Book_3_6_1#v6_1_2_7).
 
 [^467]: 235:1 Vishnu est identique à Agni, dans la mesure où tous deux sont le sacrifice.
 
@@ -219,17 +219,17 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^471]: 238 : 1 [VI, 6, 4, 8] (Book_3_6_6#v6_6_4_8).
 
-[^472]: 239:1 Voir [VI, 1, 1, 14](Book_3_6_1#v6_1_1_14).
+[^472]: 239:1 Voir [VI, 1, 1, 14](../Book_3_6_1#v6_1_1_14).
 
-[^473]: 239:2 À savoir ceux du ciel, de l'air et de la terre. Voir [VI, 1, 2, 10](Book_3_6_1#v6_1_2_10).
+[^473]: 239:2 À savoir ceux du ciel, de l'air et de la terre. Voir [VI, 1, 2, 10](../Book_3_6_1#v6_1_2_10).
 
-[^474]: 240:1 C'est-à-dire, au cas où le brasier se briserait. Voir [VI, 6, 4, 8](Book_3_6_6#v6_6_4_8) seq.
+[^474]: 240:1 C'est-à-dire, au cas où le brasier se briserait. Voir [VI, 6, 4, 8](../Book_3_6_6#v6_6_4_8) seq.
 
 [^475]: 241:1 ? Ou, divisé en groupes de sept chacun, comme, par exemple, la Mante, voir II, 5, 1, 13.
 
 [^476]: 241:2 Comp. le Germe. 'seine sieben Sachen (ou Siebensachen) packen', pour préparer ses pièges.
 
-[^477]: 241:3 On pourrait prendre 'athainam asyâ<i>m</i> khanati' pour signifier, 'il creuse maintenant pour lui (Agni) dans la terre', ou 'le creuse dans la terre'. Cf. [VI, 4, 1, 1](Book_3_6_4#v6_4_1_1), 'athainam ata<i>h</i> khanati'. Sâya<i>n</i>a, cependant (conformément à la formule du [paragraphe 3](Book_3_6_5#v6_5_4_3)), fournit 'ava<i>t</i>am', 'un trou'.
+[^477]: 241:3 On pourrait prendre 'athainam asyâ<i>m</i> khanati' pour signifier, 'il creuse maintenant pour lui (Agni) dans la terre', ou 'le creuse dans la terre'. Cf. [VI, 4, 1, 1](../Book_3_6_4#v6_4_1_1), 'athainam ata<i>h</i> khanati'. Sâya<i>n</i>a, cependant (conformément à la formule du [paragraphe 3](../Book_3_6_5#v6_5_4_3)), fournit 'ava<i>t</i>am', 'un trou'.
 
 [^478]: 242:1 Sarvâbhyo digbhya enam ava<i>t</i>a<i>m</i> khanati ta<i>m</i> <i>k</i>a sarvâsu dikshu nâsh<i>t</i>râ na hi<i>m</i>santi, Sây.
 

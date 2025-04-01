@@ -558,7 +558,7 @@ Il s'est brisé en fragments sous le choc.
 Sugríva, se levant sous le coup,
 Il leva sa main énorme et frappa son ennemi.
 Et dans la poussière gisait le géant
-Haletant dans le sang, son âme s'enfuit. [1](Book_6_100#fn1010)
+Haletant dans le sang, son âme s'enfuit. [1](../Book_6_100#fn1010)
 
 <figure class="table chapter-navigator">
   <table>

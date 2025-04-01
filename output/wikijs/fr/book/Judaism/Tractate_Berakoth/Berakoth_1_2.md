@@ -49,7 +49,7 @@ _M_. II. 1. Si quelqu'un lit [^97] \[le Shma'\] dans la Loi et que le moment est
 
 <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
-**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](Berakoth_1_2#fn_106) a dit : Pourquoi le Shma' précède-t-il « Et il arrivera, si vous écoutez » ? Pour qu'un homme puisse accepter d'abord le joug du royaume des cieux [2](Berakoth_1_2#fn_107), puis accepter ensuite le joug des commandements. \[De même\] « Et il arrivera, si vous écoutez » précède « Et l'Éternel dit », car « Et il arrivera, si vous écoutez » s'applique de jour comme de nuit, mais « Et l'Éternel dit » ne s'applique que de jour. [3](Berakoth_1_2#fn_108)
+**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](../Berakoth_1_2#fn_106) a dit : Pourquoi le Shma' précède-t-il « Et il arrivera, si vous écoutez » ? Pour qu'un homme puisse accepter d'abord le joug du royaume des cieux [2](../Berakoth_1_2#fn_107), puis accepter ensuite le joug des commandements. \[De même\] « Et il arrivera, si vous écoutez » précède « Et l'Éternel dit », car « Et il arrivera, si vous écoutez » s'applique de jour comme de nuit, mais « Et l'Éternel dit » ne s'applique que de jour. [3](../Berakoth_1_2#fn_108)
 
 <a id="m4"></a>
 
@@ -153,15 +153,15 @@ II. 8 (7 suite). Lorsque son esclave Tabi mourut, il accepta ses condoléances. 
 
 [^107]: 16:2 _le royaume des cieux_. La souveraineté de Dieu révélée à son peuple. C'est aussi le sens premier de « le royaume des cieux » dans l'Évangile selon saint Matthieu.
 
-[^108]: 16:3 Il s'agit des « franges » (_tsitsith_), qui ne sont pas portées la nuit. Nombres 1539 dit « afin que vous puissiez les regarder ». Voir Abrahams sur SA, p. 97. _Vide infra_, [p. 80](Berakoth_3_9#p80).
+[^108]: 16:3 Il s'agit des « franges » (_tsitsith_), qui ne sont pas portées la nuit. Nombres 1539 dit « afin que vous puissiez les regarder ». Voir Abrahams sur SA, p. 97. _Vide infra_, [p. 80](../Berakoth_3_9#p80).
 
 [^109]: 16:4 _R. José_. Ce nom, sans ajout, fait référence à R. José ben Chalaphta, maroquinier à Sepphoris et enseignant de la Mishna de la troisième génération, vers 130-260 apr. J.-C.
 
-[^110]: 16:5 _dans un ordre irrégulier_. Voir [p. 56](Berakoth_3_6#p56).
+[^110]: 16:5 _dans un ordre irrégulier_. Voir [p. 56](../Berakoth_3_6#p56).
 
 [^111]: 17:1 _le Hallel_. Pssss. 113-118. SA, p. 219.
 
-[^112]: 17:2 _la Prière_. Les _Dix-huit Bénédictions_ (_vide supra_, [p. 5](Berakoth_1_1#p5)).
+[^112]: 17:2 _la Prière_. Les _Dix-huit Bénédictions_ (_vide supra_, [p. 5](../Berakoth_1_1#p5)).
 
 [^113]: 17:3 _le Rouleau_. Le Livre d'Esther. Chacun de ces trois livres est composé de plusieurs sections.
 
@@ -189,11 +189,11 @@ II. 8 (7 suite). Lorsque son esclave Tabi mourut, il accepta ses condoléances. 
 
 [^125]: 19:3 _les Bénédictions avant et après_. SA, pp. 39-42.
 
-[^126]: 19:4 _avant... après_. Littéralement « avant eux » et « après eux », _c'est-à-dire_ le Shma' et le repas (_vide infra_, [p. 23](Berakoth_1_3#p23)).
+[^126]: 19:4 _avant... après_. Littéralement « avant eux » et « après eux », _c'est-à-dire_ le Shma' et le repas (_vide infra_, [p. 23](../Berakoth_1_3#p23)).
 
 [^127]: 19:5 _trois fois_. _c'est-à-dire_ matin, après-midi et soir. Le _shel_ dans le texte de Zuckermandel semble être une erreur d'impression.
 
-[^128]: 19:6 _qu'ils descendent devant l'Arche_. Cf. _M_. V. 3 : « celui qui passe devant l'Arche ». L'une ou l'autre expression était à l'origine utilisée pour désigner le chef de la Tephillah, car il s'avançait devant l'Arche contenant les rouleaux de la Loi. Mais le terme est resté en vigueur lorsqu'il avait pris place là bien avant la Tephillah. « Descendez », car l'Arche était parfois plus basse que le corps de la synagogue, peut-être pour enseigner l'humilité. Voir Elbogen, p. 497 ; SA, p. 42 (p. lvi.). Cf. _infra_, [p. 40](Berakoth_2_5#p40).
+[^128]: 19:6 _qu'ils descendent devant l'Arche_. Cf. _M_. V. 3 : « celui qui passe devant l'Arche ». L'une ou l'autre expression était à l'origine utilisée pour désigner le chef de la Tephillah, car il s'avançait devant l'Arche contenant les rouleaux de la Loi. Mais le terme est resté en vigueur lorsqu'il avait pris place là bien avant la Tephillah. « Descendez », car l'Arche était parfois plus basse que le corps de la synagogue, peut-être pour enseigner l'humilité. Voir Elbogen, p. 497 ; SA, p. 42 (p. lvi.). Cf. _infra_, [p. 40](../Berakoth_2_5#p40).
 
 [^129]: 19:7 Mais il doit dire le Shma' le matin.
 
@@ -213,8 +213,8 @@ II. 8 (7 suite). Lorsque son esclave Tabi mourut, il accepta ses condoléances. 
 
 [^137]: 21:2 malade.
 
-[^138]: 21:3 _condoléances_. Dans la formule formelle des prières pour les personnes en deuil par ceux qui leur rendaient visite pendant la semaine de deuil. Pour des exemples de telles prières utilisées aujourd'hui, voir SA, p. 324. R. Eliezer refusa d'accepter de telles condoléances de la part de ses disciples et affirma que seules les mêmes phrases devaient être utilisées pour la mort d'un bœuf : « Dieu te pardonne ta perte », mais d'autres rabbins autorisèrent que des paroles plus longues soient prononcées lorsque l'esclave, homme ou femme, était pieux (Gemara TB 18b). Cf. _infra_. [p. 42](Berakoth_2_5#p42).
+[^138]: 21:3 _condoléances_. Dans la formule formelle des prières pour les personnes en deuil par ceux qui leur rendaient visite pendant la semaine de deuil. Pour des exemples de telles prières utilisées aujourd'hui, voir SA, p. 324. R. Eliezer refusa d'accepter de telles condoléances de la part de ses disciples et affirma que seules les mêmes phrases devaient être utilisées pour la mort d'un bœuf : « Dieu te pardonne ta perte », mais d'autres rabbins autorisèrent que des paroles plus longues soient prononcées lorsque l'esclave, homme ou femme, était pieux (Gemara TB 18b). Cf. _infra_. [p. 42](../Berakoth_2_5#p42).
 
 [^139]: 21:4 _Rabban Siméon ben Gamaliel_. Fils de Gamaliel II., a prospéré vers 130-160 après J.-C., le père de R. Juda le Prince, qui était le compilateur de la Mishna.
 
-[^140]: 21:5 Un avertissement contre la vanité et l'orgueil, qui mènent à l'hypocrisie. Tout le monde ne peut pas imiter Rabbi Gamaliel sans risque (voir _M_. 6(5), [p. 19](Berakoth_1_2#p19)).
+[^140]: 21:5 Un avertissement contre la vanité et l'orgueil, qui mènent à l'hypocrisie. Tout le monde ne peut pas imiter Rabbi Gamaliel sans risque (voir _M_. 6(5), [p. 19](../Berakoth_1_2#p19)).

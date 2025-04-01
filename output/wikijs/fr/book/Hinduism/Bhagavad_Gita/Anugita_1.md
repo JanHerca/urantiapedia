@@ -56,7 +56,7 @@ Le Brahman dit :
 
 Le Siddha dit :
 
-Mortels, ô cher ami [^1053] ! Par leurs actions mixtes, ou méritoires et pures, ils atteignent ce monde comme but, ou la résidence dans le monde des dieux [^1054]. Nulle part il n'y a de bonheur éternel ; nulle part de résidence éternelle [^1055]. Maintes et maintes fois, il y a chute d'une position élevée obtenue avec difficulté. Vaincu par la luxure et la colère, et égaré par le désir, je suis tombé dans des états inconfortables et pénibles, à cause de mes péchés. Encore et encore la mort, et encore et encore la naissance [^1056]. J'ai mangé de nombreux aliments, tété divers, vu diverses mères et divers pères ; et, ô sans péché ! j'ai vu d'étranges plaisirs et misères. Fréquemment, j'ai souffert de la séparation d'avec ceux que j'aimais, de la compagnie de ceux que je n'aimais pas. La perte de richesses m'est également arrivée, après que je les ai acquises avec difficulté ; j'ai subi des ignominies pleines d'affliction de la part des princes et de mes proches ; des souffrances excessivement poignantes, mentales et physiques. J'ai également subi d'effroyables indignités, des morts et des captivités violentes ; je suis tombé en enfer et j'ai subi des tourments dans la maison de Yama [^1057]. J'ai aussi beaucoup souffert de la vieillesse, de maladies continuelles et de nombreux malheurs découlant des paires d'opposés [^1058]. Puis, un jour, étant très affligé par la misère, j'ai abandonné toute la vie terrestre, par indifférence (aux objets terrestres), me réfugiant dans le principe informe [^1059]. Ayant appris ce chemin en ce monde, je m'y suis exercé, et ainsi, par la faveur du Soi [^1060], j'ai acquis cette perfection [^1061]. Je ne reviendrai plus ici [^1062] ; j'examine les mondes et les heureuses migrations [^1063] de (mon) Soi, depuis la création des êtres jusqu'à (mon atteinte) de la perfection. Ainsi, ô le meilleur des deux fois nés ! ai-je atteint cette perfection suprême. D'ici, je vais au prochain [^1064] (monde), et de là encore au (monde) supérieur – le siège imperceptible du Brahman. N'en doute pas, ô terreur de tes ennemis [^1065] ! Je ne reviendrai pas en ce monde mortel. Je suis satisfait de toi, ô toi à la grande intelligence ! Dis, que puis-je faire pour toi ? Le temps est venu pour ce que tu désirais en venant à moi. Je sais pourquoi tu es venu à moi. Mais je vais bientôt partir, c'est pourquoi je vous ai donné <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> ce conseil. Je suis extrêmement satisfait, ô intelligent ! de votre bonne conduite. Posez vos questions sans inquiétude, je vous dirai tout ce que vous désirez. J'estime hautement votre intelligence et la respecte grandement, dans la mesure où vous m'avez fait connaître [1](Anugita_2#fn1066) ; car, ô Kâ<i>s</i>yapa ! vous êtes un homme talentueux.
+Mortels, ô cher ami [^1053] ! Par leurs actions mixtes, ou méritoires et pures, ils atteignent ce monde comme but, ou la résidence dans le monde des dieux [^1054]. Nulle part il n'y a de bonheur éternel ; nulle part de résidence éternelle [^1055]. Maintes et maintes fois, il y a chute d'une position élevée obtenue avec difficulté. Vaincu par la luxure et la colère, et égaré par le désir, je suis tombé dans des états inconfortables et pénibles, à cause de mes péchés. Encore et encore la mort, et encore et encore la naissance [^1056]. J'ai mangé de nombreux aliments, tété divers, vu diverses mères et divers pères ; et, ô sans péché ! j'ai vu d'étranges plaisirs et misères. Fréquemment, j'ai souffert de la séparation d'avec ceux que j'aimais, de la compagnie de ceux que je n'aimais pas. La perte de richesses m'est également arrivée, après que je les ai acquises avec difficulté ; j'ai subi des ignominies pleines d'affliction de la part des princes et de mes proches ; des souffrances excessivement poignantes, mentales et physiques. J'ai également subi d'effroyables indignités, des morts et des captivités violentes ; je suis tombé en enfer et j'ai subi des tourments dans la maison de Yama [^1057]. J'ai aussi beaucoup souffert de la vieillesse, de maladies continuelles et de nombreux malheurs découlant des paires d'opposés [^1058]. Puis, un jour, étant très affligé par la misère, j'ai abandonné toute la vie terrestre, par indifférence (aux objets terrestres), me réfugiant dans le principe informe [^1059]. Ayant appris ce chemin en ce monde, je m'y suis exercé, et ainsi, par la faveur du Soi [^1060], j'ai acquis cette perfection [^1061]. Je ne reviendrai plus ici [^1062] ; j'examine les mondes et les heureuses migrations [^1063] de (mon) Soi, depuis la création des êtres jusqu'à (mon atteinte) de la perfection. Ainsi, ô le meilleur des deux fois nés ! ai-je atteint cette perfection suprême. D'ici, je vais au prochain [^1064] (monde), et de là encore au (monde) supérieur – le siège imperceptible du Brahman. N'en doute pas, ô terreur de tes ennemis [^1065] ! Je ne reviendrai pas en ce monde mortel. Je suis satisfait de toi, ô toi à la grande intelligence ! Dis, que puis-je faire pour toi ? Le temps est venu pour ce que tu désirais en venant à moi. Je sais pourquoi tu es venu à moi. Mais je vais bientôt partir, c'est pourquoi je vous ai donné <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> ce conseil. Je suis extrêmement satisfait, ô intelligent ! de votre bonne conduite. Posez vos questions sans inquiétude, je vous dirai tout ce que vous désirez. J'estime hautement votre intelligence et la respecte grandement, dans la mesure où vous m'avez fait connaître [1](../Anugita_2#fn1066) ; car, ô Kâ<i>s</i>yapa ! vous êtes un homme talentueux.
 
 <figure class="table chapter-navigator">
   <table>
@@ -100,33 +100,33 @@ Mortels, ô cher ami [^1053] ! Par leurs actions mixtes, ou méritoires et pures
 
 [^1039]: 230:4 Quant au pluriel, voir <i>S</i>ankara sur Mu<i>nd</i>aka, p. 320. 
 
-[^1040]: 230:5 Cf. Gîtâ, [p. 78](Bhagavadgita_8#p78). Pour « compréhension » ici, nous pourrions peut-être substituer « atteindre ». Le mot original signifie à la fois compréhension et atteinte. 
+[^1040]: 230:5 Cf. Gîtâ, [p. 78](../Bhagavadgita_8#p78). Pour « compréhension » ici, nous pourrions peut-être substituer « atteindre ». Le mot original signifie à la fois compréhension et atteinte. 
 
-[^1041]: 230:6 Cf. Gîtâ, [p. 182](Sanatsugatiya_5#p182). 
+[^1041]: 230:6 Cf. Gîtâ, [p. 182](../Sanatsugatiya_5#p182). 
 
 [^1042]: 231:1 Cela semble signifier non pas le Brahman Suprême, mais le Créateur. 
 
-[^1043]: 231:2 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161), 'ne pas être ébranlé.' 
+[^1043]: 231:2 Cf. Sanatsu<i>g</i>âtîya, [p. 161](../Sanatsugatiya_2#p161), 'ne pas être ébranlé.' 
 
-[^1044]: 231:3 Je suppose que cela signifie selon les formes appropriées dans le cas d'un être tel que celui en question. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62), et notez-le ici. 
+[^1044]: 231:3 Je suppose que cela signifie selon les formes appropriées dans le cas d'un être tel que celui en question. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62), et notez-le ici. 
 
-[^1045]: 231:4 Ce n'est pas facile à comprendre. Peut-être l'allusion est-elle à la doctrine de la Gîtâ, pp. [54](Bhagavadgita_3#p54), [55](Bhagavadgita_3#p55). 
+[^1045]: 231:4 Ce n'est pas facile à comprendre. Peut-être l'allusion est-elle à la doctrine de la Gîtâ, pp. [54](../Bhagavadgita_3#p54), [55](../Bhagavadgita_3#p55). 
 
 [^1046]: 231:5 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 447. 
 
 [^1047]: 231:6 C'est-à-dire tous les actes de piété prescrits.
 
-[^1048]: 231:7 Quant à la connaissance et à l'expérience, cf. Gîtâ, [p. 57](Bhagavadgita_3#p57) ; et quant à l'aller et au retour, cf. ibid. [p. 84](Bhagavadgita_9#p84). 
+[^1048]: 231:7 Quant à la connaissance et à l'expérience, cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57) ; et quant à l'aller et au retour, cf. ibid. [p. 84](../Bhagavadgita_9#p84). 
 
-[^1049]: 231:8 C'est-à-dire comme indiqué, par exemple, dans Gîtâ, [p. 79](Bhagavadgita_8#p79), B<i>ri</i>hadâra<i>ri</i>aka, p. 613.
+[^1049]: 231:8 C'est-à-dire comme indiqué, par exemple, dans Gîtâ, [p. 79](../Bhagavadgita_8#p79), B<i>ri</i>hadâra<i>ri</i>aka, p. 613.
 
-[^1050]: 232:1 Cf. infra, [p. 245](Anugita_3#p245). 
+[^1050]: 232:1 Cf. infra, [p. 245](../Anugita_3#p245). 
 
-[^1051]: 232:2 Cf. Gîtâ, pp. [48](Bhagavadgita_2#p48), [103](Bhagavadgita_13#p103). 
+[^1051]: 232:2 Cf. Gîtâ, pp. [48](../Bhagavadgita_2#p48), [103](../Bhagavadgita_13#p103). 
 
 [^1052]: 232 : 3 Cf. Gîtâ, passim. 
 
-[^1053]: 232:4 Cf. Sanatsugâtîya, [p. 162](Sanatsugatiya_2#p162). 
+[^1053]: 232:4 Cf. Sanatsugâtîya, [p. 162](../Sanatsugatiya_2#p162). 
 
 [^1054]: 232 : 5 C.-à-d. se déplacer pour ne pas être vu de tout le monde. 
 
@@ -134,29 +134,29 @@ Mortels, ô cher ami [^1053] ! Par leurs actions mixtes, ou méritoires et pures
 
 [^1056]: 232:7 C'est-à-dire que comme Kâ<i>s</i>yapa possédait la connaissance védique et se comportait comme il devait se comporter en sa qualité d'élève, il était naturel que l'autre soit content. [^1057 
 
-]: 232:8 Voir [p. 176](Sanatsugatiya_4#p176) seq. supra. 
+]: 232:8 Voir [p. 176](../Sanatsugatiya_4#p176) seq. supra. 
 
-[^1058]: 233:1 Le même mot que dans la Gîtâ, [p. 72](Bhagavadgita_6#p72). 
+[^1058]: 233:1 Le même mot que dans la Gîtâ, [p. 72](../Bhagavadgita_6#p72). 
 
-[^1059]: 233:2 Cf. <i>Kh</i>ândogya-upanishad, pp. 356-359, et Gîtâ, [p. 84](Bhagavadgita_9#p84). 
+[^1059]: 233:2 Cf. <i>Kh</i>ândogya-upanishad, pp. 356-359, et Gîtâ, [p. 84](../Bhagavadgita_9#p84). 
 
-[^1060]: 233:3 Voir Gîtâ, [p. 76](Bhagavadgita_7#p76), et cf. Ka<i>th</i>a, p. 90. 
+[^1060]: 233:3 Voir Gîtâ, [p. 76](../Bhagavadgita_7#p76), et cf. Ka<i>th</i>a, p. 90. 
 
 [^1061]: 233:4 Pour l'intégralité de ce passage, cf; Maitrî-upanishad, p. 8. 
 
 [^1062]: 233:5 Voir Manu VI, 61. 
 
-[^1063]: 233:6 Voir Gîtâ, [p. 48](Bhagavadgita_2#p48). 
+[^1063]: 233:6 Voir Gîtâ, [p. 48](../Bhagavadgita_2#p48). 
 
 [^1064]: 234:1 Prendre refuge, dit Nîlakan<i>nth</i>a, dans la croyance que je suis identique au Brahman, ce qui doit être compris au moyen de la contemplation profonde appelée Asampra<i>g</i>ñâta Samâdhi. 
 
-[^1065]: 234:2 C'est-à-dire, dit Nîlakan<i>th</i>a, le mental, et il cite Maitrî, ​​p. 179. Cf. Ka<i>th</i>a, p. 108. La traduction à [p. 192](Sanatsugatiya_6#p192) supra conviendra également (par le fait que le soi devienne placide). Cette placidité est définie dans <i>S</i>ânti Parvan (Moksha Dharma) CCXLVII, 11, avec lequel cf. Gîtâ, [p. 69](Bhagavadgita_6#p69). Voir Gîtâ, [p. 51](Bhagavadgita_2#p51). 
+[^1065]: 234:2 C'est-à-dire, dit Nîlakan<i>th</i>a, le mental, et il cite Maitrî, ​​p. 179. Cf. Ka<i>th</i>a, p. 108. La traduction à [p. 192](../Sanatsugatiya_6#p192) supra conviendra également (par le fait que le soi devienne placide). Cette placidité est définie dans <i>S</i>ânti Parvan (Moksha Dharma) CCXLVII, 11, avec lequel cf. Gîtâ, [p. 69](../Bhagavadgita_6#p69). Voir Gîtâ, [p. 51](../Bhagavadgita_2#p51). 
 
 [^1066]: 234:3 Comme décrit ci-dessus. 
 
 [^1067]: 234:4 Cf. <i>Kh</i>ândogya, p. 628; voir aussi ibid. p. 282. 
 
-[^1068]: 234:5 Il les appelle heureux parce qu'ils ont fini heureux, je présume. « Survoler les mondes » Nîlaka<i>nth</i>a considère comme un indice d'omniscience. Cf. Sanatsu<i>g</i>âtîya, [p. 174](Sanatsugatiya_3#p174). Voir aussi Yoga-sûtras III, 25, et son commentaire. 
+[^1068]: 234:5 Il les appelle heureux parce qu'ils ont fini heureux, je présume. « Survoler les mondes » Nîlaka<i>nth</i>a considère comme un indice d'omniscience. Cf. Sanatsu<i>g</i>âtîya, [p. 174](../Sanatsugatiya_3#p174). Voir aussi Yoga-sûtras III, 25, et son commentaire. 
 
 [^1069]: 234:6 C'est-à-dire le monde de Brahman, ou le Satyaloka ; et l'étape suivante est l'assimilation dans le Brahman. 
 

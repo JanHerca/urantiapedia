@@ -171,9 +171,9 @@ Rudra aux cheveux noirs ! Héros ! À chaque combat, abats mon adversaire, comme
 
 « Sois vaincu, sois conquis, quand tu parles. Enfonce-toi sous terre, quand tu parles, frappé par moi irrésistiblement (?) avec le marteau de... (?). C'est vrai ce que je dis. Tombe, inférieur à moi, NN ! »
 
-7\. [7](Hiranyakesin_1_5#fn588) Il touche la salle de réunion (dans laquelle se déroule le concours) et murmure : « La déesse bénie aux bras d'or, dont les yeux ne sont pas faibles, qui est parée d'ornements, assise au milieu des dieux, a parlé pour mon bien. Svâhâ ! »
+7\. [7](../Hiranyakesin_1_5#fn588) Il touche la salle de réunion (dans laquelle se déroule le concours) et murmure : « La déesse bénie aux bras d'or, dont les yeux ne sont pas faibles, qui est parée d'ornements, assise au milieu des dieux, a parlé pour mon bien. Svâhâ ! »
 
-8\. [8](Hiranyakesin_1_5#fn589) 'Pour moi ont les hauts et les bas, pour moi a cette vaste terre, pour moi Agni et Indra ont accompli mon but divin' - avec (ce vers) il regarde l'assemblée, et murmure (il) tourné vers (l'assemblée).
+8\. [8](../Hiranyakesin_1_5#fn589) 'Pour moi ont les hauts et les bas, pour moi a cette vaste terre, pour moi Agni et Indra ont accompli mon but divin' - avec (ce vers) il regarde l'assemblée, et murmure (il) tourné vers (l'assemblée).
 
 Fin du Quatrième Pa<i>t</i>ala.
 

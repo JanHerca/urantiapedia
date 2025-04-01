@@ -342,7 +342,7 @@ Pour conclure cette partie du sujet, il peut être utile, à des fins de compara
 
 [^45] : li:46 Voir l'histoire du prince Karu, qui est probablement historique, dans Sectes. CXLI _et suiv._
 
-[^46]: lii:47 La coutume d'utiliser des noms de famille a certainement été empruntée à la Chine, bien que les Japonais ne soient pas allés, comme les Coréens, jusqu'à adopter les noms de famille réellement utilisés dans ce pays. Les « noms gentils » ont peut-être surgi plus naturellement, bien qu'ils présentent eux aussi des traces d'influence chinoise. Les plus fréquemment rencontrés sont _Agata-nushi_, _Ason_, _Atahe_, _Kimi_, _Miyatsuko_, _Murazhi_, _Omi_, _Sukune_ et _Wake_. Voir ci-dessus, pp. [xv](kj002.htm#pxv)\-xvi.
+[^46]: lii:47 La coutume d'utiliser des noms de famille a certainement été empruntée à la Chine, bien que les Japonais ne soient pas allés, comme les Coréens, jusqu'à adopter les noms de famille réellement utilisés dans ce pays. Les « noms gentils » ont peut-être surgi plus naturellement, bien qu'ils présentent eux aussi des traces d'influence chinoise. Les plus fréquemment rencontrés sont _Agata-nushi_, _Ason_, _Atahe_, _Kimi_, _Miyatsuko_, _Murazhi_, _Omi_, _Sukune_ et _Wake_. Voir ci-dessus, pp. [xv](../kj002.htm#pxv)\-xvi.
 
 [^47]: liii:48 Voir Sect. XXV (le deuxième chant de cette section).
 

@@ -233,17 +233,17 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^134]: 60:3 Ces dix-huit briques, représentant les Stomas, ou formes d'hymnes, sont disposées dans l'ordre suivant. À chaque extrémité de la colonne vertébrale (allant d'ouest en est), une brique, de la taille de la jambe (du genou à la cheville), est placée, avec ses lignes allant d'ouest en est ; la brique orientale étant placée au nord, et la brique occidentale au sud de la colonne vertébrale. Ensuite, une brique ordinaire, d'un pied carré, est placée p. 61 à l'extrémité sud de la « colonne vertébrale transversale », de manière à reposer sur la colonne vertébrale (bien que pas exactement au milieu en apparence, mais de sorte que seul un quart de la brique repose sur un côté de la colonne vertébrale) avec ses lignes allant du sud au nord ; et une seconde brique de même taille est placée au nord, mais de manière à laisser tout l'espace d'une autre brique de ce type entre elle et le bord nord de l'autel. Derrière (à l'ouest) de la brique avant, quatorze briques d'un demi-pied sont ensuite posées, en rangée du nord au sud, sept de chaque côté de la colonne vertébrale.
 
-[^135]: 61:1 Les formules des quatre premières de ces briques (stoma) ne sont pas données ici (dans les paragraphes [9](Book_4_8_4#v8_4_1_9)\-[12](Book_4_8_4#v8_4_1_12)) dans l'ordre dans lequel les briques sont réellement posées, à savoir EWSN, mais dans l'ordre ESNW ; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. Pour une explication symbolique de ce changement d'ordre, voir [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) seq.
+[^135]: 61:1 Les formules des quatre premières de ces briques (stoma) ne sont pas données ici (dans les paragraphes [9](../Book_4_8_4#v8_4_1_9)\-[12](../Book_4_8_4#v8_4_1_12)) dans l'ordre dans lequel les briques sont réellement posées, à savoir EWSN, mais dans l'ordre ESNW ; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. Pour une explication symbolique de ce changement d'ordre, voir [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) seq.
 
 [^136]: 61:2 Ou peut-être « celui qui est en colère ». L'auteur du Brâhma<i>n</i>a, cependant, relie évidemment « bhânta » à la racine « bhâ », briller.
 
-[^137]: 66:1 Pour plus de détails sur le <i>K</i>atush<i>t</i>oma, voir la note sur [XIII, 1, 3, 4](Book_4_8_1#v8_1_3_4).
+[^137]: 66:1 Pour plus de détails sur le <i>K</i>atush<i>t</i>oma, voir la note sur [XIII, 1, 3, 4](../Book_4_8_1#v8_1_3_4).
 
 [^138]: 66:2 Les dix S<i>ri</i>ta<i>h</i> sont placés en étroite connexion avec l'ensemble précédent ; à savoir, aux extrémités avant et arrière de l'épine dorsale, deux p. 67 briques, de taille exactement correspondante à celles qui s'y trouvent déjà, sont placées respectivement au sud et au nord de celles-ci. De même, deux briques, d'un pied carré, sont placées sur la « tranversale de l'épine dorsale », immédiatement au nord des deux briques de stomates qui s'y trouvent. Les six briques restantes sont ensuite placées derrière la rangée de quatorze « stomates » dans la partie avant de l'autel, trois de chaque côté de l'épine dorsale.
 
 [^139]: 67:1 Ou, de ce mal, la mort.
 
-[^140]: 67:2 Dans le cas des quatre premiers S<i>ri</i>ta<i>h</i>, comme dans celui des Stomas correspondants (voir p. 6r, note r), tandis que les briques elles-mêmes sont posées dans l'ordre EWNS, l'ordre dans lequel les formules sont données dans les paragraphes 3-6, est celui de ENSW—Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. Pour une explication symbolique de ce changement d'ordre, voir [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) seq.
+[^140]: 67:2 Dans le cas des quatre premiers S<i>ri</i>ta<i>h</i>, comme dans celui des Stomas correspondants (voir p. 6r, note r), tandis que les briques elles-mêmes sont posées dans l'ordre EWNS, l'ordre dans lequel les formules sont données dans les paragraphes 3-6, est celui de ENSW—Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. Pour une explication symbolique de ce changement d'ordre, voir [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) seq.
 
 [^141]: 69:1 Il s'agit clairement d'une étymologie fantaisiste. Si « yava » et « ayava », au sens de quinzaines claires et sombres, sont vraiment des termes authentiques, il est plus probable qu'ils dérivent de yu, « éloigner », la moitié brillante de la lune étant considérée comme capable d'éloigner les mauvais esprits, et la moitié sombre comme l'inverse.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^146]: 76:1 C'est-à-dire qu'il les fait passer en son propre pouvoir, les fait siens.
 
-[^147]: 77:1 C'est-à-dire lors de la pose de ces briques. Pour l'ordre suivi lors de la pose des briques, voir aussi [p. 67](Book_4_8_4#p67), note [2](Book_4_8_4#fn139).
+[^147]: 77:1 C'est-à-dire lors de la pose de ces briques. Pour l'ordre suivi lors de la pose des briques, voir aussi [p. 67](../Book_4_8_4#p67), note [2](../Book_4_8_4#fn139).
 
 [^148]: 78:1 Le texte sanskrit, comme d'habitude, fait de notre proposition gérondive la proposition principale : « parce qu'il les pose en les changeant. »
 
@@ -282,22 +282,22 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^158]: 81:4 À savoir, comme un excès de dents pointues (incisives) — yasya mukhalaksha<i>n</i>a<i>m</i> dakshi<i>n</i>ada<i>m</i>sh<i>t</i>râtirekâdi bhavati ; comm.
 
-[^159]: 81:5 Voir [VIII, 4, 1, 3](Book_4_8_4#v8_4_1_3).
+[^159]: 81:5 Voir [VIII, 4, 1, 3](../Book_4_8_4#v8_4_1_3).
 
-[^160]: 81:6 Voir [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4).
+[^160]: 81:6 Voir [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4).
 
-[^161]: 81:7 Voir [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^161]: 81:7 Voir [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
-[^162]: 81:8 Voir [VIII, 4, 1, 8](Book_4_8_4#v8_4_1_8).
+[^162]: 81:8 Voir [VIII, 4, 1, 8](../Book_4_8_4#v8_4_1_8).
 
-[^163]: 81:9 Voir [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4) seq.
+[^163]: 81:9 Voir [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4) seq.
 
-[^164]: 82:1 Voir [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^164]: 82:1 Voir [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
 [^165]: 82:2 Ou, au sens (symbolique). La lecture littérale de la clause est : « Par ce moyen, cette couche de son être devient dotée d'une ascendance et d'une parenté (ou sens mystique). »
 
-[^166]: 82:3 C'est-à-dire dans l'angle nord-est, ou sur l'épaule gauche, d'où, en deux tours, les espaces disponibles de l'autel sont remplis. En posant les Lokamp<i>ri</i><i>n</i>âs des trois premières couches, il a commencé respectivement par les angles sud-est, sud-ouest et nord-ouest. Cf. [p. 22](Book_4_8_1#p22), note [1](Book_4_8_2#fn73) ; [p. 41](Book_4_8_2#p41), note [1](Book_4_8_2#fn94) ; [p. 58](Book_4_8_3#p58), note [1](Book_4_8_3#fn127).
+[^166]: 82:3 C'est-à-dire dans l'angle nord-est, ou sur l'épaule gauche, d'où, en deux tours, les espaces disponibles de l'autel sont remplis. En posant les Lokamp<i>ri</i><i>n</i>âs des trois premières couches, il a commencé respectivement par les angles sud-est, sud-ouest et nord-ouest. Cf. [p. 22](../Book_4_8_1#p22), note [1](../Book_4_8_2#fn73) ; [p. 41](../Book_4_8_2#p41), note [1](../Book_4_8_2#fn94) ; [p. 58](../Book_4_8_3#p58), note [1](../Book_4_8_3#fn127).
 
-[^167]: 82:4 Voir [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^167]: 82:4 Voir [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^168]: 82:5 Voir [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^168]: 82:5 Voir [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

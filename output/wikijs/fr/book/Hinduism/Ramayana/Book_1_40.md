@@ -785,7 +785,7 @@ La race et le nom doivent être défendus,
 L'hôte doit être célèbre, fort et audacieux.
 Qui aura lequel ? Alors Kes'inî
 La mère d'un héritier serait.
-Sumati, sœur du roi [1](Book_1_40#fn181)
+Sumati, sœur du roi [1](../Book_1_40#fn181)
 De tous les oiseaux qui volent,
 À cet illustre brahmane s'adressa
 Afin qu'elle puisse supporter la multitude
@@ -798,7 +798,7 @@ Il a sollicité son propre siège impérial.
 Le temps passa. L'aînée des épouses mit au monde
 Un fils appelé Asamanj, l'héritier.
 Alors Sumati, le plus jeune, donna
-Naissance d'une gourde, [2](Book_1_40#fn182) Ô héros courageux,
+Naissance d'une gourde, [2](../Book_1_40#fn182) Ô héros courageux,
 Dont l'écorce, une fois éclatée et fendue en deux,
 J'ai donné soixante mille bébés à voir.
 Les infirmières ont disposé tout cela avec soin.
@@ -910,7 +910,7 @@ Ils ont creusé, dans la colère que rien ne pouvait arrêter,
 À travers soixante mille lieues de leur chemin,
 Fend la terre avec une force incomparable
 Ils finirent par atteindre l'enfer lui-même.
-Ainsi, ils ont creusé et cherché Jambudvip [1](Book_1_50#fn184)
+Ainsi, ils ont creusé et cherché Jambudvip [1](../Book_1_50#fn184)
 Avec toutes ses collines et ses montagnes escarpées.
 Alors une grande peur commença à trembler
 Le cœur de Dieu, barde, démon et serpent,

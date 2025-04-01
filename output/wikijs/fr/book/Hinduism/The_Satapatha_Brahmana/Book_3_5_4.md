@@ -89,7 +89,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v5_4_2_99"><sup><small>5:4:2:99.</small></sup></span> Il retourne ensuite au feu de Gârhapatya, (son fils) le tenant par derrière, et offre, avec (Vâ<i>g</i>. S. X, 20), 'Ô Pra<i>g</i>âpati, nul autre que toi n'a englobé toutes ces formes : car quel que soit l'objet que nous sacrifions, qu'il nous revienne ! — Celui-ci est le père de NN !' — celui qui est le fils, il fait le père, et celui qui est le père, il fait le fils [^192] : il lie ainsi ensemble la vigueur des deux. — 'NN est le père de celui-ci !' celui qui est père, il fait père, et celui qui est fils, il fait fils : après avoir uni la vigueur de ces deux, il le reformule de la manière qui convient : « Puissions-nous être les maîtres des richesses, salut ! » — c'est la bénédiction de cette cérémonie, bénédiction qu'il invoque par là.
 
-<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span> Et tout résidu qui reste, il l'offre dans l'Âgnîdhrîya ; car ce résidu est superflu, et l'Âgnîdhrîya aussi est superflue. Dans le Gârhapatya ils cuisent les oblations, et dans l'Âhavanîya ils offrent, mais celui-là est superflu : ainsi il met le superflu au superflu. Il l'offre sur la partie nord (du foyer), car c'est la région de ce dieu (Rudra) : c'est pourquoi il l'offre sur la partie nord <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>. Il offre ainsi : « Ô Rudra, quel que soit le nom puissant [1](Book_3_5_4#fn193), le plus élevé qui soit à toi, tu es en cela une offrande, tu es une offrande pour la maison, salut ! »
+<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span> Et tout résidu qui reste, il l'offre dans l'Âgnîdhrîya ; car ce résidu est superflu, et l'Âgnîdhrîya aussi est superflue. Dans le Gârhapatya ils cuisent les oblations, et dans l'Âhavanîya ils offrent, mais celui-là est superflu : ainsi il met le superflu au superflu. Il l'offre sur la partie nord (du foyer), car c'est la région de ce dieu (Rudra) : c'est pourquoi il l'offre sur la partie nord <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>. Il offre ainsi : « Ô Rudra, quel que soit le nom puissant [1](../Book_3_5_4#fn193), le plus élevé qui soit à toi, tu es en cela une offrande, tu es une offrande pour la maison, salut ! »
 
 
 <span id="v5_4_3"><sup><small>5:4:3</small></sup></span>
@@ -286,11 +286,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^184]: 90:1 Lohâyasa, littéralement, « métal rouge », apparemment soit du cuivre, soit un alliage de cuivre et d'un autre métal, — L'eunuque est assis dans le Sadas.
 
-[^185]: 91:1 Ceci était étalé devant le foyer du Maitrâvaru<i>n</i>a, voir [V, 3, 5, 3](Book_3_5_3#v5_3_5_3).
+[^185]: 91:1 Ceci était étalé devant le foyer du Maitrâvaru<i>n</i>a, voir [V, 3, 5, 3](../Book_3_5_3#v5_3_5_3).
 
 [^186]: 93:1 Dans <i>Ri</i>k S. V, 62, 8, le verset se présente comme suit : — À la lueur de l'aube, au lever du soleil, vous, ô Mitra et Varu<i>n</i>a, montez sur votre char aux piliers de fer et aux formes dorées ; de là, vous contemplez Aditi et Diti (? l'espace illimité et le délimité).
 
-[^187]: 94:1 Tandis que la formule précédente est utilisée par le prêtre, la présente et les deux suivantes (chacune avec les mots '. . . Je t'asperge ; garde-le des dards !') sont prononcées par les trois autres personnes spécifiées dans [V, 3, 5, 12](Book_3_5_3#v5_3_5_12)\-[14](Book_3_5_3#v5_3_5_14), chacune aspergeant le roi avec l'eau dans son récipient respectif.
+[^187]: 94:1 Tandis que la formule précédente est utilisée par le prêtre, la présente et les deux suivantes (chacune avec les mots '. . . Je t'asperge ; garde-le des dards !') sont prononcées par les trois autres personnes spécifiées dans [V, 3, 5, 12](../Book_3_5_3#v5_3_5_12)\-[14](../Book_3_5_3#v5_3_5_14), chacune aspergeant le roi avec l'eau dans son récipient respectif.
 
 [^188]: 94:2 Mahîdhara explique : « Ô Soma, protège-le, le Sacrificateur, en surmontant les projectiles de l'ennemi. »
 
@@ -306,7 +306,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^194]: 98:2 Je suis maintenant enclin à penser qu'un sens tel que « probablement, peut-être » (plus précisément, l'allemand « wohl ») convient à tous les passages (dans le Brâhma<i>n</i>as en tout cas) où <i>s</i>a<i>s</i>vat apparaît.
 
-[^195]: 98:3 Voir ci-dessus, [V, 1, 4, 3](Book_3_5_1#v5_1_4_3) seq.
+[^195]: 98:3 Voir ci-dessus, [V, 1, 4, 3](../Book_3_5_1#v5_1_4_3) seq.
 
 [^196]: 99:1 Pra<i>s</i>âst<i>ri</i>, « le directeur », est également un autre nom pour le prêtre Maitrâvaru<i>n</i>a.
 
@@ -324,7 +324,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^203]: 102:1 ? Ou, signifie vigueur, Indra.
 
-[^204]: 103:1 Ou peut-être, « au meilleur endroit (vara). » Voir [VI, 7, 3, 11](Book_3_6_7#v6_7_3_11).
+[^204]: 103:1 Ou peut-être, « au meilleur endroit (vara). » Voir [VI, 7, 3, 11](../Book_3_6_7#v6_7_3_11).
 
 [^205]: 104:1 Selon Taitt. Br. I, 7, 9, 6, le roi, en revenant au Vedi, est supposé être monté au monde céleste (suvargaloka), d'où le cocher doit être exclu par cet expédient.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^212]: 110:1 C'est-à-dire, celui qui augmente sa prospérité et celle de son peuple.
 
-[^213]: 111:1 Voir [p. 60](Book_3_5_3#p60), note \*[1](Book_3_5_3#fn129)\*.
+[^213]: 111:1 Voir [p. 60](../Book_3_5_3#p60), note \*[1](../Book_3_5_3#fn129)\*.
 
 [^214]: 111:2 Le sa<i>g</i>âta semble être l'un des propriétaires paysans ou « partageurs » constituant la « confrérie » villageoise dirigée par le chef, et appartenant souvent en réalité à la même famille que ce dernier (Gaugenosse, membre du clan).
 
@@ -370,19 +370,19 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^226]: 114:5 C'est-à-dire une demande excessive, ou un alourdissement, ou un écrasement du Sacrificateur, le rendant impossible d'accomplir la cérémonie.
 
-[^227]: 115:1 C'est-à-dire, après avoir prononcé le mantra, Vâ<i>g</i>. S. X, 30. en accord partiel avec [paragraphe 2](Book_3_5_4#v5_4_5_2) ci-dessus, à savoir commençant par « Par Savi<i>ri</i>, l'impulseur ; par Sarasvatî, la parole », . . . et se terminant par « par Vish<i>n</i>u, la dixième divinité, poussé je me faufile. »
+[^227]: 115:1 C'est-à-dire, après avoir prononcé le mantra, Vâ<i>g</i>. S. X, 30. en accord partiel avec [paragraphe 2](../Book_3_5_4#v5_4_5_2) ci-dessus, à savoir commençant par « Par Savi<i>ri</i>, l'impulseur ; par Sarasvatî, la parole », . . . et se terminant par « par Vish<i>n</i>u, la dixième divinité, poussé je me faufile. »
 
 [^228]: 115:2 Pour les Udavasânîyâ ish<i>t</i>i, voir partie ii, p. 389.
 
 [^229]: 115:3 Les fleurs de lotus présentées à cette occasion sont des fleurs d'or, selon Sâya<i>n</i>a, ou éventuellement des fleurs blanches ou d'or ordinaires, selon Kâty. XV, 8, 5-6.
 
-[^230]: 116:1 Pour l'Upasad, ou oblations préliminaires de ghee à Agni, Soma et Vish<i>n</i>u, à effectuer deux fois par jour pendant (habituellement) trois jours précédant un sacrifice ordinaire de Soma, voir la partie ii, p. 104. Au Da<i>s</i>apeya, les dix oblations de Sa<i>m</i>s<i>ri</i>p prennent en quelque sorte la place des Upasads ordinaires, ces dernières étant effectuées les trois derniers jours préliminaires en même temps que les trois dernières oblations de Sa<i>m</i>s<i>ri</i>p et aux mêmes divinités que celles-ci ; ou, selon certaines autorités, la p. 117 leur étant substituée. Français Il semble également y avoir une certaine divergence d'opinion quant au moment exact où les autres cérémonies préliminaires — la procession et l'entrée du roi Soma, le repas des invités, etc. — doivent avoir lieu, voir [paragraphe 15](Book_3_5_4#v5_4_5_15). — Selon Kâty. XV, 8,14, ces cérémonies doivent avoir lieu le septième jour (que le commentateur, cependant, prend pour signifier le septième jour de la quinzaine légère de <i>K</i>aitra ; les sept premières oblations de Sa<i>m</i>s<i>ri</i>p étant, selon lui, effectuées la veille). Les Kânvas, cependant, accomplissent ces offrandes à des jours différents. Les autorités de Taittirîya semblent également être en désaccord quant à la relation exacte entre les Upasads et les trois dernières oblations de Samsari, les divinités des deux n'étant, selon leur schéma, que partiellement identiques. Selon Âpastamba (et Taitt. Br.), les sept premiers Samsari sont accomplis sur un certain nombre de jours et, de plus, un Dîkshâ le septième jour. Français Ensuite, les trois derniers jours, les Sa<i>m</i>s<i>ri</i>ps et les Upasads sont combinés de cette manière, que le Sa<i>m</i>s<i>ri</i>p du huitième jour est effectué avant, le neuvième entre, et le dixième après les deux exécutions quotidiennes d'Upasad. Chacune des dix oblations nécessite également un ensemble spécial de feux pour son exécution, le premier étant installé immédiatement au nord de celui utilisé pour la cérémonie d'Abhishekanîya, le second immédiatement au nord du premier, etc. ; la dernière oblation de Sa<i>m</i>s<i>ri</i>p étant effectuée dans le hangar à feu (<i>s</i>âlâ) du Dasapeya proprement dit. Kâty. XV, 8, 2-3 ; cf. Taitt. S., vol. ii, p. 176.
+[^230]: 116:1 Pour l'Upasad, ou oblations préliminaires de ghee à Agni, Soma et Vish<i>n</i>u, à effectuer deux fois par jour pendant (habituellement) trois jours précédant un sacrifice ordinaire de Soma, voir la partie ii, p. 104. Au Da<i>s</i>apeya, les dix oblations de Sa<i>m</i>s<i>ri</i>p prennent en quelque sorte la place des Upasads ordinaires, ces dernières étant effectuées les trois derniers jours préliminaires en même temps que les trois dernières oblations de Sa<i>m</i>s<i>ri</i>p et aux mêmes divinités que celles-ci ; ou, selon certaines autorités, la p. 117 leur étant substituée. Français Il semble également y avoir une certaine divergence d'opinion quant au moment exact où les autres cérémonies préliminaires — la procession et l'entrée du roi Soma, le repas des invités, etc. — doivent avoir lieu, voir [paragraphe 15](../Book_3_5_4#v5_4_5_15). — Selon Kâty. XV, 8,14, ces cérémonies doivent avoir lieu le septième jour (que le commentateur, cependant, prend pour signifier le septième jour de la quinzaine légère de <i>K</i>aitra ; les sept premières oblations de Sa<i>m</i>s<i>ri</i>p étant, selon lui, effectuées la veille). Les Kânvas, cependant, accomplissent ces offrandes à des jours différents. Les autorités de Taittirîya semblent également être en désaccord quant à la relation exacte entre les Upasads et les trois dernières oblations de Samsari, les divinités des deux n'étant, selon leur schéma, que partiellement identiques. Selon Âpastamba (et Taitt. Br.), les sept premiers Samsari sont accomplis sur un certain nombre de jours et, de plus, un Dîkshâ le septième jour. Français Ensuite, les trois derniers jours, les Sa<i>m</i>s<i>ri</i>ps et les Upasads sont combinés de cette manière, que le Sa<i>m</i>s<i>ri</i>p du huitième jour est effectué avant, le neuvième entre, et le dixième après les deux exécutions quotidiennes d'Upasad. Chacune des dix oblations nécessite également un ensemble spécial de feux pour son exécution, le premier étant installé immédiatement au nord de celui utilisé pour la cérémonie d'Abhishekanîya, le second immédiatement au nord du premier, etc. ; la dernière oblation de Sa<i>m</i>s<i>ri</i>p étant effectuée dans le hangar à feu (<i>s</i>âlâ) du Dasapeya proprement dit. Kâty. XV, 8, 2-3 ; cf. Taitt. S., vol. ii, p. 176.
 
 [^231]: 117:1 À savoir, au début de l'Abhishe<i>k</i>anîya, ou cérémonie de consécration, lorsque les plantes de Soma sont achetées en quantité suffisante pour durer à la fois pour cette cérémonie et pour le Da<i>s</i>apeya qui suit ; la portion destinée à cette dernière cérémonie étant entre-temps déposée dans la maison du Brahman.
 
 [^232]: 118:1 Tous les chants (stotra) du Dasapeya doivent être exécutés selon le mode de chant en dix-sept parties, ou Saptadasa-stoma ; pour un exemple, voir la partie ii, p. 315, note 1.
 
-[^233]: 119:1 Voir [p. 8](Book_3_5_1#p8), note \*[1](Book_3_5_1#fn39)\*.
+[^233]: 119:1 Voir [p. 8](../Book_3_5_1#p8), note \*[1](../Book_3_5_1#fn39)\*.
 
 [^234]: 119:2 Le texte contient « gam agnîdhe », c'est-à-dire soit « un taureau », soit « une vache ». De même, Katy. XV. 8, 27. Sâya<i>n</i>a, cependant, se réfère à une autre autorité, — an<i>d</i>vâham agnîdha iti sûtritam, . . . vahnir vâ ana<i>d</i>van iti hi taittirîyakam.
 

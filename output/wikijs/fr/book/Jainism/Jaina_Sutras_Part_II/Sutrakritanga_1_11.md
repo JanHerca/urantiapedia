@@ -136,11 +136,11 @@ Ainsi je dis.
 
 [^919]: 310:2 Voir note sur IX, 1.
 
-[^920]: 311:1 La même comparaison apparaît également dans I, 3, 4, 18, ci-dessus [p. 271](Sutrakritanga_1_3_4#p271).
+[^920]: 311:1 La même comparaison apparaît également dans I, 3, 4, 18, ci-dessus [p. 271](../Sutrakritanga_1_3_4#p271).
 
-[^921]: 311:2 Le même verset apparaît ci-dessus, I, 1, 4, 10, [p. 247](Sutrakritanga_1_1_4#p247).
+[^921]: 311:2 Le même verset apparaît ci-dessus, I, 1, 4, 10, [p. 247](../Sutrakritanga_1_1_4#p247).
 
-[^922]: 311:3 Nous avons eu le même verset ci-dessus, I, 3, 4, 20, [p. 271](Sutrakritanga_1_3_4#p271).
+[^922]: 311:3 Nous avons eu le même verset ci-dessus, I, 3, 4, 20, [p. 271](../Sutrakritanga_1_3_4#p271).
 
 [^923]: 312:1 C'est le sens de l'expression pûtikarma na sêvêta.
 
@@ -152,7 +152,7 @@ Ainsi je dis.
 
 [^927]: 313:2 Les commentateurs relient sâhu comme adjectif à dîvam, et fournissent Tîrthakara, etc. comme sujet.
 
-[^928] : 313:3 Voir ci-dessus, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^928] : 313:3 Voir ci-dessus, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).
 
 [^929]: 313:4 Samâdhi.
 

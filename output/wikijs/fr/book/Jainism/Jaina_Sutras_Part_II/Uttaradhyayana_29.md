@@ -352,7 +352,7 @@ Ainsi je dis.
 
 [^425]: 162:2 Atyâsâtana.
 
-[^426] : 162:3 Nidâna, cf. [p. 60](Uttaradhyayana_13#p60), n. [2](Uttaradhyayana_13#fn173).
+[^426] : 162:3 Nidâna, cf. [p. 60](../Uttaradhyayana_13#p60), n. [2](../Uttaradhyayana_13#fn173).
 
 [^427]: 162:4 C'est le sens des mots itthîvêya napu<i>m</i>sagavêya<i>m</i> p. 163 = strîvêda, napu<i>m</i>sakavêda, comme l'expliquent les commentateurs de XXXII, 102.
 
@@ -368,7 +368,7 @@ Ainsi je dis.
 
 [^433]: 164:2 Antakriyâ, expliqué par mukti.
 
-[^434]: 164:3 Les Kalpas et les Vimânas sont les cieux des dieux Vaimânika, voir ci-dessous, [p. 226](Uttaradhyayana_36#p226).
+[^434]: 164:3 Les Kalpas et les Vimânas sont les cieux des dieux Vaimânika, voir ci-dessous, [p. 226](../Uttaradhyayana_36#p226).
 
 [^436]: 164:4 Par chemin, on entend les moyens d'acquérir la bonne connaissance, et par récompense du chemin, la bonne connaissance. La récompense d'une bonne conduite est mukti.
 
@@ -376,7 +376,7 @@ Ainsi je dis.
 
 [^438]: 165:1 Selon les commentaires, par Tîrtha on entend les Ganadharas.
 
-[^439]: 165:2 Concernant les huit sortes de Karman, voir XXXIII, 2 et 3, [p. 192](Uttaradhyayana_32#p192). Âyushka est le Karman qui détermine la durée de vie. Une explication quelque peu différente de ce Karman est donnée par Bhandarkar, loc. cit., p. 97, note.
+[^439]: 165:2 Concernant les huit sortes de Karman, voir XXXIII, 2 et 3, [p. 192](../Uttaradhyayana_32#p192). Âyushka est le Karman qui détermine la durée de vie. Une explication quelque peu différente de ce Karman est donnée par Bhandarkar, loc. cit., p. 97, note.
 
 [^440]: 165:3 Le passage en question est un ajout à certains manuscrits, comme nous l'indiquent les commentateurs. Il semble que le sens soit que le Karman, qui était attaché à de nombreuses parties de l'âme, est restreint à un nombre plus restreint d'endroits par l'influence de la pureté induite sur l'âme par la méditation.
 
@@ -394,7 +394,7 @@ Ainsi je dis.
 
 [^447]: 168:2 Sadbhâva pratyâkhyâna. Le Dîpikâ donne l'explication suivante : il fait le renoncement de telle manière qu'il n'a pas besoin de le faire une seconde fois.
 
-[^448]: 168:3 Vêdanîya est ce Karman qui produit des effets qui doivent être éprouvés, comme le plaisir ou la douleur ; âyushka est le Karman qui détermine la durée de la vie ; nâman et gôtra font qu'il nait comme tel ou tel individu dans telle ou telle famille ; voir Trente-troisième Leçon, versets 2 et 3, [p. 192](Uttaradhyayana_32#p192) f.
+[^448]: 168:3 Vêdanîya est ce Karman qui produit des effets qui doivent être éprouvés, comme le plaisir ou la douleur ; âyushka est le Karman qui détermine la durée de la vie ; nâman et gôtra font qu'il nait comme tel ou tel individu dans telle ou telle famille ; voir Trente-troisième Leçon, versets 2 et 3, [p. 192](../Uttaradhyayana_32#p192) f.
 
 [^449] : 168 : 4 Expliqué : sthavirakalpasâdhuvêshadhâritvam.
 
@@ -402,7 +402,7 @@ Ainsi je dis.
 
 [^451]: 169:1 Gupti.
 
-[^452] : 170:1 Pour Sa<i>m</i>vara et Âsrava, voir ci-dessus, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165), et [p. 73](Uttaradhyayana_15#p73), note [2](Uttaradhyayana_16#fn197).
+[^452] : 170:1 Pour Sa<i>m</i>vara et Âsrava, voir ci-dessus, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165), et [p. 73](../Uttaradhyayana_15#p73), note [2](../Uttaradhyayana_16#fn197).
 
 [^453]: 170:2 Voir ci-dessus, § 41.
 
@@ -418,7 +418,7 @@ Ainsi je dis.
 
 [^459]: 172:2 Voici les obstacles aux cinq sortes de connaissance : mati, <i>s</i>ruta, avadhi, mana<i>h</i>paryâya, kêvala.
 
-[^460]: 172:3 Ce sont : les obstacles au kakshurdar, à l'akshurdar, à l'avadhidar et au kêvaladar, ainsi que les cinq sortes de sommeil (nidrâ). Concernant Antarâya, voir [p. 193](Uttaradhyayana_33#p193).
+[^460]: 172:3 Ce sont : les obstacles au kakshurdar, à l'akshurdar, à l'avadhidar et au kêvaladar, ainsi que les cinq sortes de sommeil (nidrâ). Concernant Antarâya, voir [p. 193](../Uttaradhyayana_33#p193).
 
 [^461]: 172:4 Sayôgin, c'est-à-dire alors qu'il n'a pas encore atteint le quatorzième gu<i>n</i>asthâna, l'état d'un Kêvalin.
 

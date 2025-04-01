@@ -68,9 +68,9 @@ Ainsi, un homme ne devrait pas quitter son compagnon immédiatement après une c
 
 **T**. III. 9. S'il n'a pas fait mention de la puissance des pluies dans la Bénédiction de la Résurrection des morts, et n'a pas demandé les pluies dans la Bénédiction des années, il doit être renvoyé.
 
-S'il n'a pas dit la Habdalah à « Toi qui donnes gracieusement la connaissance », il la dit sur la <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> coupe. [1](Berakoth_2_5#fn_256) S'il ne l'a pas dit \[là\], il doit être renvoyé.
+S'il n'a pas dit la Habdalah à « Toi qui donnes gracieusement la connaissance », il la dit sur la <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> coupe. [1](../Berakoth_2_5#fn_256) S'il ne l'a pas dit \[là\], il doit être renvoyé.
 
-R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action de grâces pour la terre [2](Berakoth_2_5#fn_257) doit être renvoyé.
+R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action de grâces pour la terre [2](../Berakoth_2_5#fn_257) doit être renvoyé.
 
 <a id="m3"></a>
 
@@ -80,7 +80,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
-**M**.4\. Celui [1](Berakoth_2_5#fn_262) qui passe devant l'Arche ne doit pas répondre « Amen » après les prêtres [2](Berakoth_2_5#fn_263) \[de peur d'être\] distrait. S'il n'y a pas de prêtre, il ne doit pas lever les mains \[pour bénir\]. Mais s'il est sûr qu'en levant les mains [3](Berakoth_2_5#fn_264) \[pour bénir\] il pourra retourner à sa prière, il lui est permis de le faire.
+**M**.4\. Celui [1](../Berakoth_2_5#fn_262) qui passe devant l'Arche ne doit pas répondre « Amen » après les prêtres [2](../Berakoth_2_5#fn_263) \[de peur d'être\] distrait. S'il n'y a pas de prêtre, il ne doit pas lever les mains \[pour bénir\]. Mais s'il est sûr qu'en levant les mains [3](../Berakoth_2_5#fn_264) \[pour bénir\] il pourra retourner à sa prière, il lui est permis de le faire.
 
 ### Sur les erreurs (suite). La connaissance de R. Chanina de l'effet de ses prières.
 
@@ -123,11 +123,11 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 [^218]: 35:3 SA, p. 238.
 
-[^219]: 35:4 _stand_. c'est-à-dire dire les Dix-huit (_cf_. pp. [4](Berakoth_1_1#p4) _sq_.).
+[^219]: 35:4 _stand_. c'est-à-dire dire les Dix-huit (_cf_. pp. [4](../Berakoth_1_1#p4) _sq_.).
 
 [^220]: 35:5 _avec solennité_. L'expression est littéralement « avec lourdeur de tête », c'est-à-dire en la courbant, mais l'expression est probablement ici purement métaphorique, par opposition à « légèreté de tête », c'est-à-dire irrévérence, _cf_. _T_. III. 21 ([p. 38](#p38)). Elle n'est pas très éloignée de l'expression « les pauvres en esprit » (Matt. 53).
 
-[^221]: 35:6 _Dieu_. Litt. : le Lieu ([p. 29](Berakoth_2_4#p29)). B a « leur Père qui est aux cieux ».
+[^221]: 35:6 _Dieu_. Litt. : le Lieu ([p. 29](../Berakoth_2_4#p29)). B a « leur Père qui est aux cieux ».
 
 [^222]: 35:7 _le Roi_. Un Israélite, car il faut répondre à un roi païen, par crainte des conséquences (Bartenora).
 
@@ -145,7 +145,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 [^229]: 36:7 La section montre le sérieux avec lequel le grand enseignant a prié.
 
-[^230]: 36:8 Dan. 610. Les phrases dans le cas de Daniel, Anne, David, Salomon sont littéralement « dans Daniel », etc., et sont peut-être du même type que sur [p. 79](Berakoth_3_9#p79).
+[^230]: 36:8 Dan. 610. Les phrases dans le cas de Daniel, Anne, David, Salomon sont littéralement « dans Daniel », etc., et sont peut-être du même type que sur [p. 79](../Berakoth_3_9#p79).
 
 [^231]: 37:1 1 Sam. 113.
 
@@ -155,7 +155,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 [^234]: 37:4 Ps. 331.
 
-[^235]: 37:5 « Vrai et sûr » (_'Emeth wyatzib_), _cf_. [p. 7](Berakoth_1_1#p7).
+[^235]: 37:5 « Vrai et sûr » (_'Emeth wyatzib_), _cf_. [p. 7](../Berakoth_1_1#p7).
 
 [^236]: 37:6 Après la Prière (_Tephillah_), des variations sérieuses peuvent commencer, à l'exclusion des variations mineures dans la _Tephillah_ elle-même.
 
@@ -197,7 +197,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 [^255]: 39:8 _connaissance_. La quatrième Bénédiction (SA, p. 46).
 
-[^256]: 39 : 9 _la Hoda'ah_, [p. 34](Berakoth_2_4#p34) remarque.
+[^256]: 39 : 9 _la Hoda'ah_, [p. 34](../Berakoth_2_4#p34) remarque.
 
 [^257]: 40:1 _la coupe_. À la fin du sabbat, SA, p. 216.
 
@@ -207,9 +207,9 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 [^260]: 40:4 _Pour le bien, etc_. Cela semble nier que le mal soit permis par Dieu aussi bien que le bien.
 
-[^261]: 40:5 _Nous louons, nous louons_. Deux fois. Le locuteur peut faire référence à plus d'un principe divin (_cf_. la mishna suivante et _M_. IX. 8 (5), [p. 87](Berakoth_3_9#p87), et l'argument courant en faveur de la Trinité tiré du triple emploi du mot « Saint » dans Isa. vi. 3).
+[^261]: 40:5 _Nous louons, nous louons_. Deux fois. Le locuteur peut faire référence à plus d'un principe divin (_cf_. la mishna suivante et _M_. IX. 8 (5), [p. 87](../Berakoth_3_9#p87), et l'argument courant en faveur de la Trinité tiré du triple emploi du mot « Saint » dans Isa. vi. 3).
 
-[^262]: 40:6 _lui passe devant l'Arche_. [p. 19](Berakoth_1_2#p19) note. Il était correct que celui qui était invité à conduire la Tephillah déclinât la première fois, mais céda à une deuxième et une troisième invitation (Gemara _T_. B. 34a).
+[^262]: 40:6 _lui passe devant l'Arche_. [p. 19](../Berakoth_1_2#p19) note. Il était correct que celui qui était invité à conduire la Tephillah déclinât la première fois, mais céda à une deuxième et une troisième invitation (Gemara _T_. B. 34a).
 
 [^263]: 41:1 B préfixes: «Celui qui dit: Que les bons disent la bénédiction, voilà que cela sent l'hérésie (_minûth_)», comme suggérant la division des membres en dignes et indignes. Mais cela ne semble avoir aucun lien avec le christianisme.
 

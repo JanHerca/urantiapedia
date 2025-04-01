@@ -158,7 +158,7 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 [^1430]: 324:4 Voir Yt. XXIII, 2 ; il n'est pas clair si la déclaration d'Anquetil à cet effet (Zend-Avesta II, 623) repose sur une tradition indépendante ou seulement sur le texte de notre Ya<i>s</i>t.
 
-[^1431]: 324:5 Voir ci-dessus, [p. 70](Yasts_5#p70), note [1](Yasts_5#fn344).
+[^1431]: 324:5 Voir ci-dessus, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344).
 
 [^1432]: 325:1 Par exemple, §§ 28, 30, 31, 39, etc.
 
@@ -178,7 +178,7 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 [^1440]: 326:6 Voir Yt. XV, 28.
 
-[^1441]: 326:7 Voir [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1441]: 326:7 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1442]: 326:8 Un membre de la famille Âthwya, dont Thraêtaona était membre. Tous portaient des noms qui montrent qu'ils étaient riches en bétail : Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. (« celui qui possède beaucoup de bœufs, des bœufs utiles, le bœuf brun, etc. », Bundahi<i>s</i>, tr. West, XXXI, 7, note 8).
 

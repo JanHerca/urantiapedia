@@ -114,7 +114,7 @@ Ainsi je dis.
 
 [^281]: 108:1 Pour rendre nîtikôvida.
 
-[^282]: 108:2 Pour Dôgundaga, voir ci-dessus, [p. 88](Uttaradhyayana_18#p88), note [2](Uttaradhyayana_19#fn235).
+[^282]: 108:2 Pour Dôgundaga, voir ci-dessus, [p. 88](../Uttaradhyayana_18#p88), note [2](../Uttaradhyayana_19#fn235).
 
 [^283]: 109:1 Saggantha = sagrantha, qui est évidemment l'opposé de nirgrantha. Les commentateurs corrigent sa<i>m</i>ga<i>m</i>tha en sa<i>m</i>ga<i>m</i> <i>k</i>a. La lecture originale se trouve dans le manuscrit. BA contient sa<i>m</i>ga<i>m</i>tha, tout comme C. à l'origine, mais il corrige le tha en <i>k</i>a. Selon les commentateurs, nous devrions traduire : abandonner l'attachement au monde qui cause une grande détresse, une grande illusion, le noir (Lê<i>s</i>yâ) et des dangers, il faut, etc.
 

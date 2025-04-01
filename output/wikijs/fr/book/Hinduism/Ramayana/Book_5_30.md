@@ -154,7 +154,7 @@ Les ordres qu'il prononça avec férocité :
 « Veillez à bien la garder et à l'apprivoiser,
 Comme une créature sauvage, la dame têtue,
 Jusqu'à ce que son boulet hautain soit plié
-Par un mélange de menaces et de flatteries.' [1b](Book_5_30#fn842)
+Par un mélange de menaces et de flatteries.' [1b](../Book_5_30#fn842)
 Les monstres entendirent : il s'éloigna à grands pas,
 Et passa dans la demeure de sa reine.
 
@@ -286,8 +286,8 @@ Elle s'est allongée, a pleuré et a gémi
 Dans la nuance la plus triste du chagrin,
 Et, fou de chagrin, consterné par la peur,
 Sur Ráma et son frère appelés :
-« Ô chère Kaus'alyá, [1](Book_5_30#fn847) entends-moi crier !
-Douce Reine Sumitrá [2](Book_5_30#fn848), écoute mon soupir !
+« Ô chère Kaus'alyá, [1](../Book_5_30#fn847) entends-moi crier !
+Douce Reine Sumitrá [2](../Book_5_30#fn848), écoute mon soupir !
 C'est la vérité que disent les sages :
 La mort ne vient pas pour soulager le désespoir.
 Il est vain pour une femme ou pour un homme de prier ;
@@ -403,10 +403,10 @@ Elle a jeté le monarque de notre race,
 Il se redressa, il dansa et rit,
 Avec des lèvres assoiffées, il but l'huile,
 Puis avec des yeux fous et une bouche qui coule
-Nous avons filé en char vers le sud. [1](Book_5_30#fn849)
+Nous avons filé en char vers le sud. [1](../Book_5_30#fn849)
 Puis, faisant couler de l'huile de chaque membre,
 Ses fils les princes le suivirent,
-Et Kumbhakarna, [2](Book_5_30#fn850) rasé et tondu,
+Et Kumbhakarna, [2](../Book_5_30#fn850) rasé et tondu,
 J'étais en route vers le sud sur un chameau.
 Alors la royale Lanka chancela et tomba
 Avec porte, tour et citadelle,

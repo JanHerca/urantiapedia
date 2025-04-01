@@ -79,9 +79,9 @@ C'est pourquoi, après avoir compté sept semaines durant le temps de maturation
 
 Le premier jour, les Israélites furent rachetés de l'esclavage et de la superstition ; le cinquantième jour, une loi leur fut donnée pour les guider tout au long de leur vie ; c'est pourquoi il leur fut commandé de compter ces jours et de s'en souvenir.
 
-La légende raconte que les enfants d'Ismaël furent invités à accepter la loi. « Que contient-elle ? » demandèrent-ils. « Tu ne voleras point », fut la réponse. « Comment pouvons-nous l'accepter », répondirent-ils, « alors que notre ancêtre fut béni : “Ta main sera sur tout homme” ? »
+La légende raconte que les enfants d'Ismaël furent invités à accepter la loi. « Que contient-elle ? » demandèrent-ils. « Tu ne voleras point », fut la réponse. « Comment pouvons-nous l'accepter », répondirent-ils, « alors que notre ancêtre fut béni : « Ta main sera sur tout homme » ? »
 
-On demanda aux enfants d'Ésaü d'accepter la loi, et ils demandèrent également : « Que contient-elle ? » « Tu ne tueras point », fut la réponse. « Nous ne pouvons donc pas l'accepter », dirent-ils, « car voici ce que notre père Isaac nous a béni : “Tu vivras par l'épée.” »
+On demanda aux enfants d'Ésaü d'accepter la loi, et ils demandèrent également : « Que contient-elle ? » « Tu ne tueras point », fut la réponse. « Nous ne pouvons donc pas l'accepter », dirent-ils, « car voici ce que notre père Isaac nous a béni : « Tu vivras par l'épée. » »
 
 Lorsqu’on demanda à Israël d’accepter la loi, le peuple répondit : « Nous la ferons et nous obéirons. »
 
@@ -115,11 +115,11 @@ Le rabbin Nathan a dit que l’homme est jugé à tout moment.
 
 Ainsi enseignait Rabbi Akiba. « Pourquoi la loi ordonne-t-elle d'apporter une gerbe d'orge à Pessah ? Parce que Pessah est la saison de la moisson des céréales. Le Seigneur dit : « Offrez pour moi une gerbe d'orge à Pessah, afin que je bénisse les céréales qui sont dans le champ. »
 
-Pourquoi la Bible dit-elle : “Apportez deux pains de blé nouveau à la Pentecôte ?” Parce qu’à la Pentecôte, le fruit mûrit et Dieu dit : “Offrez pour moi deux pains de blé nouveau, afin que je bénisse le fruit qui est sur les arbres.”
+Pourquoi la Bible dit-elle : « Apportez deux pains de blé nouveau à la Pentecôte ? » Parce qu’à la Pentecôte, le fruit mûrit et Dieu dit : « Offrez pour moi deux pains de blé nouveau, afin que je bénisse le fruit qui est sur les arbres. »
 
 <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
-Pourquoi nous a-t-on commandé d'apporter une libation d'eau dans le Temple lors de la fête des Tabernacles ? Parce que c'est alors la saison des pluies, et l'Éternel dit : “Apportez-moi une libation d'eau, afin que je bénisse la pluie de l'année.”
+Pourquoi nous a-t-on commandé d'apporter une libation d'eau dans le Temple lors de la fête des Tabernacles ? Parce que c'est alors la saison des pluies, et l'Éternel dit : « Apportez-moi une libation d'eau, afin que je bénisse la pluie de l'année. »
 
 Pourquoi fabriquent-ils la trompette dont ils sonnent avec une corne de bélier ? Pour que le Seigneur se souvienne du bélier sacrifié à la place d’Isaac, et qu’il fasse valoir les mérites des patriarches en faveur de leurs descendants, comme il est écrit dans le Décalogue : « Je fais miséricorde à mille générations à ceux qui m’aiment et qui gardent mes commandements. »
 
@@ -191,15 +191,15 @@ Quatrièmement, celui qui se repent lorsque son péché lui est signalé et qu'i
 
 Cinquièmement, de ceux qui se repentent lorsque les difficultés les frappent. Combien cela est-il plus noble que la nature humaine ! Prenons l’exemple de Jephté : « Ne m’avez-vous pas haï… et pourquoi êtes-vous venus à moi maintenant que vous êtes dans la détresse ? » Mais l’infinie miséricorde de notre Dieu accepte même un tel repentir, comme il est écrit : « Lorsque tu seras dans la tribulation, et que toutes ces choses t’atteindront… alors tu retourneras à l’Éternel, ton Dieu. » C’est sur ce principe que se fonde le proverbe des pères : « Le repentir et les bonnes actions forment un bouclier contre le châtiment. »
 
-Sixièmement, la repentance liée à l'âge. Même lorsque l'homme vieillit et s'affaiblit, s'il se repent sincèrement, son expiation sera reçue. Comme le dit le Psalmiste : « Tu fais revenir l'homme à la contrition, et tu dis : “Revenez, enfants des hommes.” » Autrement dit, l'homme peut revenir à tout moment et à tout âge. « Revenez, enfants des hommes. »
+Sixièmement, la repentance liée à l'âge. Même lorsque l'homme vieillit et s'affaiblit, s'il se repent sincèrement, son expiation sera reçue. Comme le dit le Psalmiste : « Tu fais revenir l'homme à la contrition, et tu dis : « Revenez, enfants des hommes. » » Autrement dit, l'homme peut revenir à tout moment et à tout âge. « Revenez, enfants des hommes. »
 
-Les rabbins disent : « Bien qu'un homme ait été juste dans sa jeunesse et sa vigueur, s'il se rebelle contre la volonté de Dieu dans sa vieillesse, le mérite de sa bonté passée lui sera perdu, comme il est écrit : “Lorsqu'un juste se détourne de sa justice, commet le mal et en meurt, c'est à cause du mal qu'il a commis qu'il doit mourir.” Mais un homme qui a été méchant dans sa jeunesse et qui éprouve une véritable tristesse et une véritable pénitence dans sa vieillesse ne sera plus qualifié de “méchant”. Mais ce n'est pas une pénitence gracieuse lorsqu'elle est si longtemps différée.”
+Les rabbins disent : « Bien qu'un homme ait été juste dans sa jeunesse et sa vigueur, s'il se rebelle contre la volonté de Dieu dans sa vieillesse, le mérite de sa bonté passée lui sera perdu, comme il est écrit : « Lorsqu'un juste se détourne de sa justice, commet le mal et en meurt, c'est à cause du mal qu'il a commis qu'il doit mourir. » Mais un homme qui a été méchant dans sa jeunesse et qui éprouve une véritable tristesse et une véritable pénitence dans sa vieillesse ne sera plus qualifié de « méchant ». Mais ce n'est pas une pénitence gracieuse lorsqu'elle est si longtemps différée.”
 
 Septièmement, le dernier degré de pénitence. Celui qui se rebelle contre son Créateur toute sa vie et ne se tourne vers lui que lorsque la main de la mort s'abat sur lui.
 
 Les rabbins disent : si une personne est malade et que l’heure de son décès approche, ceux qui sont à son chevet doivent lui dire : « Confesse tes péchés à ton Créateur. »
 
-Ceux qui sont proches de la mort devraient confesser leurs fautes. Le malade est comme celui qui comparaît devant un tribunal. Ce dernier peut avoir des avocats pour le défendre ou plaider sa cause, mais les seuls défenseurs du premier doivent être la pénitence et les bonnes actions. Comme il est écrit dans le livre de Job : « S’il y a maintenant autour de lui un seul ange pour le défendre, un entre mille, pour proclamer à l’homme sa droiture, alors il lui fait grâce et dit : “Délivre-le de la fosse ; j’ai trouvé une expiation.” »
+Ceux qui sont proches de la mort devraient confesser leurs fautes. Le malade est comme celui qui comparaît devant un tribunal. Ce dernier peut avoir des avocats pour le défendre ou plaider sa cause, mais les seuls défenseurs du premier doivent être la pénitence et les bonnes actions. Comme il est écrit dans le livre de Job : « S’il y a maintenant autour de lui un seul ange pour le défendre, un entre mille, pour proclamer à l’homme sa droiture, alors il lui fait grâce et dit : « Délivre-le de la fosse ; j’ai trouvé une expiation. » »
 
 Nous avons donc sept degrés de pénitence, et quiconque les néglige tous devra souffrir dans le monde à venir. Accomplissez donc vos devoirs ; repentez-vous aussi longtemps que vous le pouvez. Comme disent les rabbins : « Repentez-vous dans l’antichambre, afin de pouvoir entrer dans la salle d’apparat. »
 
@@ -385,7 +385,7 @@ Par exemple, un père qui aime son fils et désire qu'il améliore sa conduite d
 
 Un certain apostat a dit un jour au rabbin Saphra :
 
-Il est écrit : “Parce que je vous connais plus que toutes les nations de la terre, je punirai vos iniquités.” Comment cela ? Si quelqu’un possède un cheval sauvage, est-il probable qu’il place son ami le plus cher dessus, de peur d’être renversé et blessé ?
+Il est écrit : « Parce que je vous connais plus que toutes les nations de la terre, je punirai vos iniquités. » Comment cela ? Si quelqu’un possède un cheval sauvage, est-il probable qu’il place son ami le plus cher dessus, de peur d’être renversé et blessé ?
 
 Rabbi Saphra répondit :
 

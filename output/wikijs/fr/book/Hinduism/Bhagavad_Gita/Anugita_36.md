@@ -88,9 +88,9 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2005]: 385:4 Cf. Ka<i>th</i>a, pp. 114, 115, 149, et le commentaire de Sankarâ<i>k</i>ârya, pour une explication de l'ensemble du passage. Voir aussi Sânkya-sâra, p. 16, concernant ce que l'on appelle ici le soi et la compréhension.
 
-[^2006]: 385:5 Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64), où les mots sont identiques.
+[^2006]: 385:5 Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64), où les mots sont identiques.
 
-[^2007]: 385:6 Les éléments sont perçus ou non par les sens sous la direction de l'esprit ; absorber = détruire ; faire naître = produire, Nîlaka<i>nth</i>a. Voir [p. 268](Anugita_7#p268) supra, et <i>S</i>ânti Parvan (Moksha), chap. 240, st. 12.
+[^2007]: 385:6 Les éléments sont perçus ou non par les sens sous la direction de l'esprit ; absorber = détruire ; faire naître = produire, Nîlaka<i>nth</i>a. Voir [p. 268](../Anugita_7#p268) supra, et <i>S</i>ânti Parvan (Moksha), chap. 240, st. 12.
 
 [^2008]: 386:1 Le mot est le même que chez Maitrî, ​​p. 41, dont il faut voir le commentaire.
 
@@ -106,19 +106,19 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2014]: 386:7 Ou cela peut signifier, parmi tous les hommes.
 
-[^2015]: 386:8 Voir [p. 164](Sanatsugatiya_3#p164) supra, note [2](Sanatsugatiya_3#fn719) ; et [p. 295](Anugita_14#p295), note [4](Anugita_14#fn1425).
+[^2015]: 386:8 Voir [p. 164](../Sanatsugatiya_3#p164) supra, note [2](../Sanatsugatiya_3#fn719) ; et [p. 295](../Anugita_14#p295), note [4](../Anugita_14#fn1425).
 
 [^2016]: 386:9 C'est-à-dire qu'il inclut tous les Sa<i>m</i>sâra, tous les éléments reconnus par la philosophie Sânkhya, sauf l'Être ou Purusha.
 
-[^2017]: 387:1 Cf. [p. 371](Anugita_32#p371) ci-dessus.
+[^2017]: 387:1 Cf. [p. 371](../Anugita_32#p371) ci-dessus.
 
-[^2018]: 387:2 Une autre lecture signifie « ils sont dissous dans les eaux ». Quant à l'ordre, cf. Vedânta Paribhâshâ, p. 48, et [p. 335](Anugita_27#p335) supra.
+[^2018]: 387:2 Une autre lecture signifie « ils sont dissous dans les eaux ». Quant à l'ordre, cf. Vedânta Paribhâshâ, p. 48, et [p. 335](../Anugita_27#p335) supra.
 
-[^2019]: 387:3 Je considère qu'il s'agit des éléments grossiers dont on peut dire que les choses mobiles et immobiles sont faites, si l'on peut employer une expression non idéaliste dans la philosophie Sânkhya. Ensuite, les éléments dont il est question sont les éléments subtils ou tanmâtras. Cf. les références dans la note [^2010]. Concernant les développements, voir [p. 382](Anugita_35#p382), note [4](Anugita_35#fn1983).
+[^2019]: 387:3 Je considère qu'il s'agit des éléments grossiers dont on peut dire que les choses mobiles et immobiles sont faites, si l'on peut employer une expression non idéaliste dans la philosophie Sânkhya. Ensuite, les éléments dont il est question sont les éléments subtils ou tanmâtras. Cf. les références dans la note [^2010]. Concernant les développements, voir [p. 382](../Anugita_35#p382), note [4](../Anugita_35#fn1983).
 
 [^2020]: 387:4 À savoir objet grossier, élément grossier, élément subtil.
 
-[^2021]: 387:5 L'original est svabhâva, qu'Araguna Miṣra rend par Prakṣriṣi. Nîlakaṣriṣa et Araguna Miṣra prennent tous deux le mot « actions » pour signifier sacrifices, etc., et « cause » pour le premier par Brahman ; le second par tanmâtras ou éléments subtils, et ajoute : « le sens n'est pas seulement par sacrifice ou tanmâtras. » Nîlakaṣriṣa dit : « Les dieux, etc., sont produits par la nature, comme les dieux, etc., vus en rêve. » Le sens semble être qu'il existe des énergies dans la nature qui font évoluer ces formes d'être. Cf. aussi Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^2021]: 387:5 L'original est svabhâva, qu'Araguna Miṣra rend par Prakṣriṣi. Nîlakaṣriṣa et Araguna Miṣra prennent tous deux le mot « actions » pour signifier sacrifices, etc., et « cause » pour le premier par Brahman ; le second par tanmâtras ou éléments subtils, et ajoute : « le sens n'est pas seulement par sacrifice ou tanmâtras. » Nîlakaṣriṣa dit : « Les dieux, etc., sont produits par la nature, comme les dieux, etc., vus en rêve. » Le sens semble être qu'il existe des énergies dans la nature qui font évoluer ces formes d'être. Cf. aussi Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^2022]: 387:6 Je suppose que cela signifie que les patriarches (Marîki et d'autres, dit Nîlaka<i>nth</i>a) sont également nés encore et encore, c'est-à-dire dans des kalpas différents, je suppose, par nature seulement.
 
@@ -126,15 +126,15 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2024]: 388:2 C'est-à-dire les éléments grossiers, je suppose ; les autres sont les tanmâtras.
 
-[^2025]: 388:3 C'est-à-dire la méditation qui constitue la véritable connaissance, Ar<i>g</i>una Mi<i>s</i>ra. Mais voir Gîtâ, [p. 87](Bhagavadgita_10#p87), note [1](Bhagavadgita_10#fn346), et Sânkhya-sûtra.
+[^2025]: 388:3 C'est-à-dire la méditation qui constitue la véritable connaissance, Ar<i>g</i>una Mi<i>s</i>ra. Mais voir Gîtâ, [p. 87](../Bhagavadgita_10#p87), note [1](../Bhagavadgita_10#fn346), et Sânkhya-sûtra.
 
 [^2026]: 388:4 C'est-à-dire par l'esprit, à propos duquel cf. Taittirîya, p. 89 ; Ka<i>th</i>a, p. 164. A<i>g</i>una Mi<i>s</i>ra dit : « Cette déviation apparente des modes ordinaires de cause à effet n'est pas tout à fait sans parallèle, c'est pourquoi il ajoute ceci pour le montrer. »
 
 [^2027]: 388:5 Littéralement, « les dieux », mais le sens semble être celui donné dans le texte, comme le dit Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^2028]: 388:6 Il s'agit simplement de la concentration de l'esprit et des sens sur un seul objet, Nîlaka<i>nth</i>a. Voir [p. 166](Sanatsugatiya_3#p166), note [1](Sanatsugatiya_3#fn737) supra.
+[^2028]: 388:6 Il s'agit simplement de la concentration de l'esprit et des sens sur un seul objet, Nîlaka<i>nth</i>a. Voir [p. 166](../Sanatsugatiya_3#p166), note [1](../Sanatsugatiya_3#fn737) supra.
 
-[^2029]: 388:7 Voir [p. 174](Sanatsugatiya_3#p174) supra.
+[^2029]: 388:7 Voir [p. 174](../Sanatsugatiya_3#p174) supra.
 
 [^2030]: 388:8 Littéralement, « sont accomplis », ce qui semble signifier qu'ils sont acquis de manière à être pratiquement à notre disposition lorsque cela est nécessaire.
 
@@ -146,27 +146,27 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2034]: 389:2 Ou, peut-être, du bétail. L'original est pas<i>s</i>u.
 
-[^2035]: 389:3 Voir [p. 160](Sanatsugatiya_2#p160) supra, et cf. [p. 178](Sanatsugatiya_4#p178).
+[^2035]: 389:3 Voir [p. 160](../Sanatsugatiya_2#p160) supra, et cf. [p. 178](../Sanatsugatiya_4#p178).
 
 [^2036]: 389:4 C'est-à-dire Ka<i>s</i>yapa, comme dieux, etc. Cela semble être l'interprétation d'Ar<i>g</i>una Mi<i>s</i>ra. Cette condition est inférieure à celle décrite dans la phrase suivante.
 
-[^2037]: 389:5 Voir [p. 162](Sanatsugatiya_2#p162), note [1](Sanatsugatiya_3#fn705).
+[^2037]: 389:5 Voir [p. 162](../Sanatsugatiya_2#p162), note [1](../Sanatsugatiya_3#fn705).
 
 [^2038]: 389:6 La traduction de Nîlaka<i>nth</i>a est « ce par quoi le bonheur (mondain) est p. 390 accru ». Il compare B<i>nth</i>hadâra<i>n</i>yaka, p. 816. Voir aussi Taittirîya, p. 112.
 
-[^2039]: 390:1 Voir Gîtâ, [p. 128](Bhagavadgita_18#p128), note [1](Bhagavadgita_18#fn557), où dhyâna et yoga sont pris séparément. Ici, le composé est au singulier. La lecture de Nîlaka<i>nth</i>a est différente.
+[^2039]: 390:1 Voir Gîtâ, [p. 128](../Bhagavadgita_18#p128), note [1](../Bhagavadgita_18#fn557), où dhyâna et yoga sont pris séparément. Ici, le composé est au singulier. La lecture de Nîlaka<i>nth</i>a est différente.
 
-[^2040]: 390:2 Le sens ici n'est pas tout à fait clair. Il semble cependant que ce soit le cas. Les acquisitions mentionnées dans la phrase précédente transportent ceux qui les acquièrent dans un monde temporaire d'où ils reviennent ensuite ; mais lorsqu'ils se débarrassent des qualités, ils obtiennent l'émancipation finale. Quant à l'inperçu, cf. entre autres la Gîtâ, [p. 112](Bhagavadgita_15#p112), note [2](Bhagavadgita_15#fn470).
+[^2040]: 390:2 Le sens ici n'est pas tout à fait clair. Il semble cependant que ce soit le cas. Les acquisitions mentionnées dans la phrase précédente transportent ceux qui les acquièrent dans un monde temporaire d'où ils reviennent ensuite ; mais lorsqu'ils se débarrassent des qualités, ils obtiennent l'émancipation finale. Quant à l'inperçu, cf. entre autres la Gîtâ, [p. 112](../Bhagavadgita_15#p112), note [2](../Bhagavadgita_15#fn470).
 
-[^2041]: 390:3 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111), et note [2](Bhagavadgita_15#fn468). Cela semble aborder la question du point de vue opposé.
+[^2041]: 390:3 Cf. Gîtâ, [p. 111](../Bhagavadgita_15#p111), et note [2](../Bhagavadgita_15#fn468). Cela semble aborder la question du point de vue opposé.
 
 [^2042]: 390:4 Ainsi, Ar<i>g</i>una Mi<i>s</i>ra. Dans Gîtâ XVI, 16, <i>k</i>itta désigne l'opération elle-même. Cela fera également l'affaire ici.
 
-[^2043]: 390:5 Cf. Gîtâ, [p. 78](Bhagavadgita_8#p78) ; Maitrî, ​​p. 178 ; Pra<i>s</i>na, p. 194 ; et les citations de Sânkhya-sâra, p. 3.
+[^2043]: 390:5 Cf. Gîtâ, [p. 78](../Bhagavadgita_8#p78) ; Maitrî, ​​p. 178 ; Pra<i>s</i>na, p. 194 ; et les citations de Sânkhya-sâra, p. 3.
 
 [^2044]: 390:6 Cette expression a déjà été utilisée ; elle désigne tous les développements qui constituent la vie terrestre. Voir Sânkhya-sâra, p. 5.
 
-[^2045]: 390:7 Voir [p. 371](Anugita_32#p371) ci-dessus.
+[^2045]: 390:7 Voir [p. 371](../Anugita_32#p371) ci-dessus.
 
 [^2046]: 391:1 Voir <i>S</i>ânti Parvan (Râ<i>g</i>adharma) XIII, 4. Cf. Maitrî, ​​p. 180 Cela signifie les deux et trois syllabes de 'mama' et 'na mama', mine et not mine. Cf. B<i>ri</i>hadâra<i>n</i>yaka p. 970, et <i>Kh</i>ândogya, p. 118, et p. 548, pour une conception similaire.
 
@@ -178,21 +178,21 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2050]: 391:5 C'est-à-dire montre.
 
-[^2051]: 391:6 Cf. Gîtâ, [p. 118](Bhagavadgita_17#p118) ; <i>S</i>ânti Parvan, ch. 242, st. 15.
+[^2051]: 391:6 Cf. Gîtâ, [p. 118](../Bhagavadgita_17#p118) ; <i>S</i>ânti Parvan, ch. 242, st. 15.
 
-[^2054]: 391:7 Voir [p. 367](Anugita_31#p367) supra, note [6](Anugita_31#fn1875) ; et cf. Ka<i>th</i>a, p. 155, 156.
+[^2054]: 391:7 Voir [p. 367](../Anugita_31#p367) supra, note [6](../Anugita_31#fn1875) ; et cf. Ka<i>th</i>a, p. 155, 156.
 
 [^2053]: 391:8 C'est-à-dire qui reste indifférent, cf. Î<i>s</i>a, p. 10. Apûrvam (auquel il n'y a rien de antérieur), A<i>g</i>una Mi<i>s</i>ra rend par 'pas familièrement connu', et Nîlaka<i>nth</i>a par 'pas compris par aucun autre moyen de connaissance'. Voir aussi B<i>nth</i>hadâra<i>n</i>yaka, p. 502, et <i>S</i>ankara à ce sujet.
 
-[^2055]: 391:9 Ce n'est pas très clair, mais je suppose que le sens est le même que celui de « invincible » à [p. 161](Sanatsugatiya_2#p161), et voir [p. 231](Anugita_1#p231).
+[^2055]: 391:9 Ce n'est pas très clair, mais je suppose que le sens est le même que celui de « invincible » à [p. 161](../Sanatsugatiya_2#p161), et voir [p. 231](../Anugita_1#p231).
 
 [^2056]: 391:10 C'est-à-dire les moyens mentionnés plus loin, dit Nîlaka<i>nth</i>a.
 
-[^2057]: 392:1 Impressions provenant de causes externes. Cf. entre autres Sânkhya-sûtra III, 83 ; voir aussi pp. [247](Anugita_4#p247)\-[358](Anugita_30#p358) supra et les notes qui y figurent.
+[^2057]: 392:1 Impressions provenant de causes externes. Cf. entre autres Sânkhya-sûtra III, 83 ; voir aussi pp. [247](../Anugita_4#p247)\-[358](../Anugita_30#p358) supra et les notes qui y figurent.
 
-[^2058]: 392:2 C'est-à-dire restreindre l'esprit dans le cœur semblable au lotus, Nîlaka<i>nth</i>a. Cf. à ce sujet, pp. [248](Anugita_4#p248), [372](Anugita_32#p372) entre autres.
+[^2058]: 392:2 C'est-à-dire restreindre l'esprit dans le cœur semblable au lotus, Nîlaka<i>nth</i>a. Cf. à ce sujet, pp. [248](../Anugita_4#p248), [372](../Anugita_32#p372) entre autres.
 
-[^2059]: 392:3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51). Voir aussi Maitrî-upanishad, p. 176, et Mundaka, p. 314.
+[^2059]: 392:3 Cf. Gîtâ, [p. 51](../Bhagavadgita_2#p51). Voir aussi Maitrî-upanishad, p. 176, et Mundaka, p. 314.
 
 [^2060]: 392:4 A<i>g</i>una Mi<i>s</i>ra dit : « La nature de la tranquillité est la suivante : dans cet état, vous percevez tout comme irréel, comme ce qui est vu dans un rêve. » Nîlaka<i>nth</i>a dit : « La nature de la tranquillité est la suivante : dans cet état, le soi demeure sans attachement au corps ni à aucun objet extérieur, mais travaille en lui-même comme dans un rêve. » Mais voir à ce sujet Ka<i>nth</i>a, p. 147.
 
@@ -200,15 +200,15 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2062]: 392:6 Autrement dit, dit Nîlaka<i>nth</i>a, ils voient tous les objets du monde passés et futurs. Ar<i>g</i>una Mi<i>s</i>ra : « Ils voient les actions accomplies pour une certaine richesse, etc. » Je ne suis satisfait d'aucun de ces deux sens. Celui d'Ar<i>g</i>una Mi<i>s</i>ra est d'ailleurs basé sur une interprétation différente de celle adoptée dans le texte, à savoir Parimâ<i>n</i>a<i>g</i>âh, au lieu de Pari<i>n</i>âma<i>g</i>âh. Je pense que « pari<i>n</i>âma » est le développement qui, selon la philosophie Sânkhya, produit l'univers, et les mouvements sont les actions que ce développement – ​​à savoir, ici, l'activité de l'égoïsme et ses produits – occasionne. Cf. comme dans une certaine mesure soutenant cela, Sânkhya-sâra, p. 16.
 
-[^2063]: 392:7 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
+[^2063]: 392:7 Voir entre autres Gîtâ, pp. [68](../Bhagavadgita_6#p68)\-[70](../Bhagavadgita_6#p70).
 
-[^2064]: 393 : 1 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
+[^2064]: 393 : 1 Voir entre autres Gîtâ, pp. [68](../Bhagavadgita_6#p68)\-[70](../Bhagavadgita_6#p70).
 
 [^2065]: 393:2 C'est-à-dire, je présume, Bhûr et les autres. Mais voir aussi Khândogya, pp. 212, 541, 620, et B<i>ri</i>hadâra<i>n</i>yaka, pp. 302, 608.
 
-[^2066]: 393:3 Voir [p. 285](Anugita_12#p285) supra, et cf. inter alia <i>Kh</i>ândogya, p. 550.
+[^2066]: 393:3 Voir [p. 285](../Anugita_12#p285) supra, et cf. inter alia <i>Kh</i>ândogya, p. 550.
 
-[^2067]: 393:4 e. Moi, le Kshetragña, je suis le précepteur, et l'esprit est ce qui doit être enseigné. Ceci montre que l'instructeur doit être soi-même, Nîlaka<i>nth</i>a. Ar<i>g</i>una Mi<i>s</i>ra dit : « Je suis le précepteur, l'esprit est l'élève. » Cela signifie que quiconque n'a pas acquis la connaissance est traité ici comme un élève ; aucun autre élève particulier n'est visé. » Cf. aussi [p. 310](Anugita_19#p310), supra.
+[^2067]: 393:4 e. Moi, le Kshetragña, je suis le précepteur, et l'esprit est ce qui doit être enseigné. Ceci montre que l'instructeur doit être soi-même, Nîlaka<i>nth</i>a. Ar<i>g</i>una Mi<i>s</i>ra dit : « Je suis le précepteur, l'esprit est l'élève. » Cela signifie que quiconque n'a pas acquis la connaissance est traité ici comme un élève ; aucun autre élève particulier n'est visé. » Cf. aussi [p. 310](../Anugita_19#p310), supra.
 
 [^2068]: 394:1 Nîlaka<i>nth</i>a interprète les mots sans rien ajouter, ainsi « sois consacré à yama niyama », etc. Yama &c. sont les huit conditions requises pour le Yoga ou la concentration de l'esprit telles qu'enseignées par Patañ<i>g</i>ali.
 
@@ -218,4 +218,4 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2071]: 394:4 C'est un nom d'Ar<i>g</i>una.
 
-[^2072]: 394:5 C'est-à-dire Hastinâpur, la capitale des Pândavas. Ils se trouvaient, lorsque le dialogue eut lieu, à Indraprastha. Voir [p. 229](Anugita_1#p229) supra.
+[^2072]: 394:5 C'est-à-dire Hastinâpur, la capitale des Pândavas. Ils se trouvaient, lorsque le dialogue eut lieu, à Indraprastha. Voir [p. 229](../Anugita_1#p229) supra.

@@ -299,7 +299,7 @@ Le sacrificateur acquiesça.
 
 8\. Alors le Pratihart<i>ri</i> s'approcha de lui et dit : « Seigneur, tu m'as dit : « Pratihart<i>ri</i>, si tu vas le chanter sans connaître la divinité appartenant au pratihâra, ta tête tombera » — Quelle est donc cette divinité ? »
 
-9\. Il dit : « La nourriture (anna). Car tous ces êtres <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> vivent lorsqu'ils mangent. C'est la divinité appartenant au pratihâra. Si, sans connaître cette divinité, tu avais chanté tes hymnes, ta tête serait tombée, après que je t'aie averti [1](Khandogya_1#fn113). »
+9\. Il dit : « La nourriture (anna). Car tous ces êtres <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> vivent lorsqu'ils mangent. C'est la divinité appartenant au pratihâra. Si, sans connaître cette divinité, tu avais chanté tes hymnes, ta tête serait tombée, après que je t'aie averti [1](../Khandogya_1#fn113). »
 
 ## DOUZIÈME KHA<i>N</i><i>D</i>A.
 

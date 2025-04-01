@@ -209,8 +209,8 @@ Là j'entrerai, et à travers
 L'ombre emmêlée renouvelle ma recherche.
 Gloire à l'armée céleste,
 Le Soleil et la Lune qui éclairent le ciel,
-Le train des Vasus [1](Book_5_20#fn822) et des Maruts [2](Book_5_20#fn823),
-Ádityas [3](Book_5_20#fn824) et les As'vins [4](Book_5_20#fn825) deux.
+Le train des Vasus [1](../Book_5_20#fn822) et des Maruts [2](../Book_5_20#fn823),
+Ádityas [3](../Book_5_20#fn824) et les As'vins [4](../Book_5_20#fn825) deux.
 Puissé-je donc remporter le succès et apporter
 La dame revient triomphante,
 
@@ -236,7 +236,7 @@ Partout où un paon effrayé volait,
 Les branches aux couleurs gaies tombent
 Leur pluie fleurie sur sa tête
 Qui s'accrochait autour du Vánar jusqu'à
-Il semblait être une colline couverte de fleurs, [1](Book_5_20#fn826)
+Il semblait être une colline couverte de fleurs, [1](../Book_5_20#fn826)
 La terre, sur le beau sein de laquelle reposait
 Les fleurs qui tombaient de chaque bouquet,
 Était glorieuse comme une belle servante
@@ -439,9 +439,9 @@ Avec une huile parfumée, une douce lumière se répand. [^830]
 Lui, tandis que la flamme du désir féroce
 Brûlé dans ses yeux comme un feu allumé,
 Il semblait que l’Amour s’incarnait dans son orgueil,
-Son arc et ses flèches mis de côté. [1](Book_5_20#fn831)
+Son arc et ses flèches mis de côté. [1](../Book_5_20#fn831)
 Sa robe, sans tache ni défaut
-Comme l'Amrit écumant de la mer, [2](Book_5_20#fn832)
+Comme l'Amrit écumant de la mer, [2](../Book_5_20#fn832)
 Suspendu dans de nombreux plis desserrés
 Orné de fleurs et brillant d'or.
 Le Vánar vu de sa station,
@@ -540,7 +540,7 @@ Et à tes pieds repose mon royaume.
 Je vais conquérir la vaste et riche terre,
 Et ne laissez aucune ville invaincue, aucune ;
 Faites ensuite une offrande de tout cela.
-À Janak, [1](Book_5_30#fn835) cher, pour ton amour.
+À Janak, [1](../Book_5_30#fn835) cher, pour ton amour.
 Dans le monde entier, je ne vois aucun pouvoir
 Que ce soit Dieu ou l'homme, je peux lutter avec lui.
 Autrefois, les Dieux et les Asurs se sont installés
@@ -560,7 +560,7 @@ Ses yeux ne se poseront jamais sur toi.
 Pourrait-il, ce puissant monarque, qui
 Il s'appelait Hiranyakas'ipu.
 Celui qui portait le vêtement d'or pourrait-il
-Reconquérir la gloire des griffes d'Indra ? [2](Book_5_30#fn836)
+Reconquérir la gloire des griffes d'Indra ? [2](../Book_5_30#fn836)
 Ô dame au beau sourire,
 Dont les yeux séduisent le cœur le plus sévère,
 Dans toute ta beauté rayonnante habillée

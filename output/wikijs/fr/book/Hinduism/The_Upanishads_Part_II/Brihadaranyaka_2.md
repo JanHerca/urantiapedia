@@ -173,7 +173,7 @@ Vient ensuite l'enseignement (de Brahman) par Non, non [^339] ! car il n'y a rie
 
 Mais Yâgñavalkya répondit : « Ô Maitreyî, je ne dis rien qui soit déroutant. Cela suffit, ô bien-aimé, pour la sagesse [^358]. »
 
-« Car lorsqu'il y a comme une dualité, alors l'un voit l'autre, l'un sent l'autre, l'un entend l'autre [^359], l'un salue l'autre [^360], l'un perçoit l'autre [^361], l'un connaît l'autre ; mais lorsque le Soi seul est tout cela, comment pourrait-il sentir l'autre [^362], comment pourrait-il voir [^363] un autre [^364], comment pourrait-il entendre [^365] un autre, comment devrait-il saluer [^366] un autre, comment devrait-il percevoir un autre [^367], comment pourrait-il connaître l'autre ? Comment pourrait-il connaître Celui par qui il connaît tout cela ? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> Comment, ô bien-aimé, pourrait-il se connaître, le Connaisseur [1](Brihadaranyaka_2#fn368) ? »
+« Car lorsqu'il y a comme une dualité, alors l'un voit l'autre, l'un sent l'autre, l'un entend l'autre [^359], l'un salue l'autre [^360], l'un perçoit l'autre [^361], l'un connaît l'autre ; mais lorsque le Soi seul est tout cela, comment pourrait-il sentir l'autre [^362], comment pourrait-il voir [^363] un autre [^364], comment pourrait-il entendre [^365] un autre, comment devrait-il saluer [^366] un autre, comment devrait-il percevoir un autre [^367], comment pourrait-il connaître l'autre ? Comment pourrait-il connaître Celui par qui il connaît tout cela ? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> Comment, ô bien-aimé, pourrait-il se connaître, le Connaisseur [1](../Brihadaranyaka_2#fn368) ? »
 
 
 ## CINQUIÈME BRÂHMA<i>N</i> [^369].

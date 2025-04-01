@@ -66,7 +66,7 @@ Ceux qui, constamment dévoués et animés de la plus haute foi, m'adorent avec 
 
 ## Notes de bas de page
 
-[^403]: 99:1 Littéralement, « entré dans » ; cela signifie émancipation finale. Voir [p. 128](Bhagavadgita_18#p128).
+[^403]: 99:1 Littéralement, « entré dans » ; cela signifie émancipation finale. Voir [p. 128](../Bhagavadgita_18#p128).
 
 [^404]: 100:1 Regarder passivement ce qui se passe sur terre ; immobile = immuable ; constant = éternel.
 
@@ -76,7 +76,7 @@ Ceux qui, constamment dévoués et animés de la plus haute foi, m'adorent avec 
 
 [^407]: 100:4 Littéralement, « souhaiter ».
 
-[^408]: 100:5 Cf. [p. 78](Bhagavadgita_8#p78) supra.
+[^408]: 100:5 Cf. [p. 78](../Bhagavadgita_8#p78) supra.
 
 [^409]: 100:6 Accomplir des actions, mais me les dédier.
 

@@ -118,4 +118,4 @@ Ainsi je dis.
 
 [^1192]: 403:1 Si le passage était imprimé intégralement, les contradictions les plus flagrantes sauteraient aux yeux du lecteur. La raison en est non pas que le passage ne puisse être traduit correctement, mais que les auteurs des Sûtras utilisent toujours des phrases toutes faites, que toutes les parties conviennent ou non au cas d'espèce. On peut parfois éviter des absurdités flagrantes en choisissant une traduction légèrement différente de celle donnée ailleurs dans le livre ; c'est ce que je fais dans la dernière phrase de ce paragraphe. Mais ce n'est qu'un pis-aller.
 
-[^1193]: 404:1 J'abrége ici le texte qui est identique à II, 1, 48 et suiv., [p. 351](Sutrakritanga_2_1#p351).
+[^1193]: 404:1 J'abrége ici le texte qui est identique à II, 1, 48 et suiv., [p. 351](../Sutrakritanga_2_1#p351).

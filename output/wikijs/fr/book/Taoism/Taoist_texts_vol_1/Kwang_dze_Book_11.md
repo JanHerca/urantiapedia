@@ -104,7 +104,7 @@ Qu'appelle-t-on le Tâo [^420] ? Il y a le Tâo, ou Voie du Ciel ; et il y a le 
 
 ## Notes de bas de page
 
-[^429] : 291:1 Voir pp. [142](Kwang_dze_Intro#p142), [143](Kwang_dze_Intro#p143).
+[^429] : 291:1 Voir pp. [142](../Kwang_dze_Intro#p142), [143](../Kwang_dze_Intro#p143).
 
 [^430]: 292:1 J'ajoute le « c'est comme si », à l'instar du critique Lû Shû-kih, qui introduit ici un ![](/image/book/Taoism/Taoist_texts_vol_1/29200.jpg) dans son commentaire ( ![](/image/book/Taoism/Taoist_texts_vol_1/29201.jpg)). Ce que le texte semble énoncer comme un fait n'est qu'une illustration. Comparez les paragraphes conclusifs de toutes les Sections et Parties du quatrième Livre du Lî Kî.
 
@@ -150,7 +150,7 @@ Qu'appelle-t-on le Tâo [^420] ? Il y a le Tâo, ou Voie du Ciel ; et il y a le 
 
 [^452]: 301:1 Probablement le yin, le yang, le vent, la pluie, l'obscurité et la lumière ; voir Mayers, p. 323.
 
-[^453]: 301:2 Voir introduction, pp. [17](Introduction_3#p17), [18](Introduction_3#p18).
+[^453]: 301:2 Voir introduction, pp. [17](../Introduction_3#p17), [18](../Introduction_3#p18).
 
 [^454]: 301:3 Comparer dans le livre XXIII, par. x.
 

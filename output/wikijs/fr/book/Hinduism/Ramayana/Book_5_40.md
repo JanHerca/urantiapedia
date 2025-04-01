@@ -219,7 +219,7 @@ Et donna la réponse tant recherchée :
 « Brillant comme le soleil qui illumine le ciel
 Aussi chère que la Lune à tous les yeux.
 Il répand des bénédictions sur la terre
-Comme des primes de la main de Vais'ravan [1](Book_5_40#fn863).
+Comme des primes de la main de Vais'ravan [1](../Book_5_40#fn863).
 Comme Vishnu, fort et insoumis,
 Inégalé en puissance et en force.
 Sage, véridique comme le Seigneur de la Parole,
@@ -297,7 +297,7 @@ Lay Báli mort, l'ennemi de Sugríva.
 Puis, par ordre de notre Seigneur
 Le Vánar abrite chaque terre explorée.
 Nous avons atteint la côte : j'ai traversé la mer
-Et j'ai finalement trouvé mon chemin vers toi.' [1b](Book_5_40#fn864)
+Et j'ai finalement trouvé mon chemin vers toi.' [1b](../Book_5_40#fn864)
 
 
 
@@ -431,7 +431,7 @@ Là où le fils de Raghu attend toujours.
 « Comment peux-tu m’emmener d’ici ? » s’écria-t-elle,
 « Le chemin est long, la mer est large.
 Porter mon poids serait
-Une tâche trop dure pour quelqu'un comme toi.' [1](Book_5_40#fn872)
+Une tâche trop dure pour quelqu'un comme toi.' [1](../Book_5_40#fn872)
 Swift se leva devant ses yeux surpris
 Le Vánar dans sa taille native,
 Comme la colline de Mandar ou la hauteur de Meru,

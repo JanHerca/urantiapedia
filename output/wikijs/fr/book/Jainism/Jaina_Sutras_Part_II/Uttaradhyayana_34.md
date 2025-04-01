@@ -230,7 +230,7 @@ Ainsi je dis.
 
 [^575]: 201:2 La conséquence de cette affirmation semble être qu'à l'expiration de la Lê<i>s</i>yâ, une nouvelle est produite. Les commentateurs, cependant, ne sont pas explicites sur ce point.
 
-[^576]: 201:3 Concernant les années précédentes, voir ci-dessus, [p. 16](Uttaradhyayana_3#p16), note [1](Uttaradhyayana_3#fn88).
+[^576]: 201:3 Concernant les années précédentes, voir ci-dessus, [p. 16](../Uttaradhyayana_3#p16), note [1](../Uttaradhyayana_3#fn88).
 
 [^577]: 202:1 Ce verset semble fixer la durée du Lê<i>s</i>yâ dans le cas des dieux communs, tandis que le suivant s'applique aux Bhavanapatis, etc.
 

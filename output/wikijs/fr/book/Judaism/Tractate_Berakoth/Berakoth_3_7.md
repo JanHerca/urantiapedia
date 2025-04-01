@@ -70,13 +70,13 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **M**.VII. 4 (3). Comment l'invitation est-elle formulée ? [^384] S'il y a trois personnes, on dit : « Bénissons. » [^385] S'il y en a trois en plus de celui qui parle, il dit : « Béni soit-il. » [^386] S'il y en a dix, il dit : « Bénissons notre Dieu. » S'il y en a dix en plus de celui qui parle, il dit : « Béni soit-il. » Peu importe qu'il y ait dix ou dix myriades. [^387]
 
-5 (3 _suite_.). Dans le cas de cent, il dit : « Bénissons l’Éternel, notre Dieu. » Dans le cas de cent, en plus de celui qui parle, il dit : « Béni soit-il. » Dans le cas de mille, ils disent : « Bénissons l’Éternel, notre Dieu, le Dieu d’Israël, le Dieu des armées. » [1](Berakoth_3_7#fn_388)
+5 (3 _suite_.). Dans le cas de cent, il dit : « Bénissons l’Éternel, notre Dieu. » Dans le cas de cent, en plus de celui qui parle, il dit : « Béni soit-il. » Dans le cas de mille, ils disent : « Bénissons l’Éternel, notre Dieu, le Dieu d’Israël, le Dieu des armées. » [1](../Berakoth_3_7#fn_388)
 
-Dans le cas d'une myriade de personnes en plus de l'orateur, il dit : « Béni soit-il. » Selon la formulation de sa bénédiction [2](Berakoth_3_7#fn_389), ils répondent également après lui : « Béni soit l'Éternel, notre Dieu, le Dieu d'Israël, le Dieu des armées, qui siège entre les chérubins pour le repas que nous avons mangé. »
+Dans le cas d'une myriade de personnes en plus de l'orateur, il dit : « Béni soit-il. » Selon la formulation de sa bénédiction [2](../Berakoth_3_7#fn_389), ils répondent également après lui : « Béni soit l'Éternel, notre Dieu, le Dieu d'Israël, le Dieu des armées, qui siège entre les chérubins pour le repas que nous avons mangé. »
 
-R. José, le Galiléen, dit : Selon le nombre de l'assemblée, ils formulent la bénédiction, car il est dit : « Par les assemblées, bénissez Dieu le Seigneur, depuis la source d'Israël. » [3](Berakoth_3_7#fn_390)
+R. José, le Galiléen, dit : Selon le nombre de l'assemblée, ils formulent la bénédiction, car il est dit : « Par les assemblées, bénissez Dieu le Seigneur, depuis la source d'Israël. » [3](../Berakoth_3_7#fn_390)
 
-6 (3 _suite_.). R. Aqiba dit : Comment le trouvons-nous dans la synagogue ? [4](Berakoth_3_7#fn_391) Qu'il y en ait beaucoup ou peu, c'est tout un ; ils disent : « Bénissez l'Éternel. » R. Ismaël dit : « Bénissez l'Éternel, qui est béni. » [5](Berakoth_3_7#fn_392)
+6 (3 _suite_.). R. Aqiba dit : Comment le trouvons-nous dans la synagogue ? [4](../Berakoth_3_7#fn_391) Qu'il y en ait beaucoup ou peu, c'est tout un ; ils disent : « Bénissez l'Éternel. » R. Ismaël dit : « Bénissez l'Éternel, qui est béni. » [5](../Berakoth_3_7#fn_392)
 
 <a id="m7"></a>
 
@@ -120,7 +120,7 @@ On ne dit pas la bénédiction sur le vin avant d'y avoir mis de l'eau. C'est l'
 
 ## Notes de bas de page
 
-[^365]: 59:1 _donner une invitation_. L'un des présents doit inviter les deux autres à se joindre à lui pour une bénédiction à la fin du repas. SA, p. 279, avec la note d'Abrahams ; _vide supra_, [p. 50](Berakoth_3_6#p50).
+[^365]: 59:1 _donner une invitation_. L'un des présents doit inviter les deux autres à se joindre à lui pour une bénédiction à la fin du repas. SA, p. 279, avec la note d'Abrahams ; _vide supra_, [p. 50](../Berakoth_3_6#p50).
 
 [^366]: 59:2 _Dmai_. Littéralement, « soupçon » ou « discussion ». Fruits dont on soupçonne qu'ils ont été dîmés ou non. Le troisième traité de la Mishna traite de ce sujet et porte ce titre. Pour l'obligation de la dîme, voir Lév. 2730.
 
@@ -142,7 +142,7 @@ On ne dit pas la bénédiction sur le vin avant d'y avoir mis de l'eau. C'est l'
 
 [^375]: 60:3 _jusqu'à ce qu'ils lui en donnent la permission_. Car sa présence n'est pas nécessaire.
 
-[^376]: 60:4 Cf. _M_. III. 3 (_supra_, [p. 23](Berakoth_1_3#p23)).
+[^376]: 60:4 Cf. _M_. III. 3 (_supra_, [p. 23](../Berakoth_1_3#p23)).
 
 [^377]: 60:5 prêtres de naissance illégitime (_chālālim_), _par exemple_ les fils d'un prêtre qui avait épousé une veuve.
 
@@ -174,14 +174,14 @@ On ne dit pas la bénédiction sur le vin avant d'y avoir mis de l'eau. C'est l'
 
 [^391]: 63:3 Ps. 6826.
 
-[^392]: 63:4 _dans la synagogue_. Là où les gens vont et viennent, de sorte que leur nombre n'est pas connu, contrairement à un repas privé, où il a lieu. Aqiba implique que la pratique à la synagogue devrait guider celle ailleurs. Cf. [p. 69](Berakoth_3_8#p69).
+[^392]: 63:4 _dans la synagogue_. Là où les gens vont et viennent, de sorte que leur nombre n'est pas connu, contrairement à un repas privé, où il a lieu. Aqiba implique que la pratique à la synagogue devrait guider celle ailleurs. Cf. [p. 69](../Berakoth_3_8#p69).
 
 [^393]: 63:5 La _Halaka_ (Règle) suit R. Ishmael (Bartenora).
 
-[^394]: 63:6 _séparer_. En deux ou plusieurs divisions, pour dire le bénédicité après le repas. Car trois est le nombre le plus petit pour une compagnie religieuse. Par conséquent, quatre ou cinq ne peuvent être divisés. Cf. [p. 50](Berakoth_3_6#p50).
+[^394]: 63:6 _séparer_. En deux ou plusieurs divisions, pour dire le bénédicité après le repas. Car trois est le nombre le plus petit pour une compagnie religieuse. Par conséquent, quatre ou cinq ne peuvent être divisés. Cf. [p. 50](../Berakoth_3_6#p50).
 
 [^395]: 64:1 _dix_. Car dix est aussi une compagnie. C'est pourquoi les nombres de onze à dix-neuf ne peuvent pas être divisés.
 
 [^396]: 64:2 _de l'invitation_. En ayant déjà dit la bénédiction pour lui-même.
 
-[^397]: 64:3 _R. Éliézer_. Sa raison était que tant que l'eau n'était pas mélangée au vin, il subsistait un doute quant à sa consommation (cf. [p. 45](Berakoth_3_6#p45)). La majorité suppose que oui. Le fait que notre Seigneur ait prononcé une bénédiction sur le vin lors de la Dernière Cène (Marc 1423 ; Matthieu 2627 ; Luc 2217 ; et apparemment 1 Corinthiens 1123-1125) ne prouve pas que de l'eau y ait déjà été mélangée, s'il suivait l'opinion de la majorité.
+[^397]: 64:3 _R. Éliézer_. Sa raison était que tant que l'eau n'était pas mélangée au vin, il subsistait un doute quant à sa consommation (cf. [p. 45](../Berakoth_3_6#p45)). La majorité suppose que oui. Le fait que notre Seigneur ait prononcé une bénédiction sur le vin lors de la Dernière Cène (Marc 1423 ; Matthieu 2627 ; Luc 2217 ; et apparemment 1 Corinthiens 1123-1125) ne prouve pas que de l'eau y ait déjà été mélangée, s'il suivait l'opinion de la majorité.

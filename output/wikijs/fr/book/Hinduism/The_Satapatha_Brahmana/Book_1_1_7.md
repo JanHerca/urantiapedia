@@ -265,7 +265,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^424]: 183:2 Gâyatryai vâ somasya vâ='à la fois de G. et de S.', Sâya<i>n</i>a. Apâd astâ, 'un tireur sans pieds', est une lecture douteuse et peut-être une ancienne corruption ; Sâya<i>n</i>a lit apâdhastâ (? adhastât) ; cf. Weber, diverses lectures, p. 133. Le manuscrit Kâ<i>n</i>va dit : 'devebhyas tasyâ âharantyâ avâdastâbhyâyatya par<i>n</i>a<i>m</i> pra<i>k</i>i<i>kh</i>eda'. Selon le Rig-veda IV, 27, 3, c'est l'archer K<i>ri</i><i>s</i>ânu qui frappa le faucon alors qu'il emportait le Soma du ciel, et en fit tomber une plume. Sur l'ensemble du mythe, voir A. Kuhn, Herabkunft des Feuers and des Göttertranks, p. 137 seq. Cf. Taitt. S. III, 5, 7, 1 ; Taitt. Br. I, 1, 3, 10, « Soma était au troisième ciel à partir d'ici ; Gâyatrî le ramena ; une de ses plumes fut coupée, elle devint un arbre par<i>n</i>a (palâ<i>s</i>a). » De même, Taitt. Br. I, 2, 1, 6 ; voir aussi <i>S</i>at. Br. I, 8, 2, 10.
 
-[^425]: 184 : 1 'Somasya nyaktam', voir [p. 167](Book_1_1_6#p167), note [2](Book_1_1_6#fn388).
+[^425]: 184 : 1 'Somasya nyaktam', voir [p. 167](../Book_1_1_6#p167), note [2](../Book_1_1_6#fn388).
 
 [^426]: 184:2 Cet acte, ainsi que celui consistant à laisser les veaux rejoindre les vaches, précède bien sûr l'éloignement des veaux. Ces cérémonies ont lieu la veille de la nouvelle lune, après l'agnyanvâdhâna. Selon Kâty, le sacrificateur fait vœu d'abstinence après la coupe de la branche. Cependant, avant ces rites, il faut effectuer le Pi<i>n</i><i>d</i>a-pit<i>ri</i>ya<i>g</i><i>ñ</i>a, ou oblation de pi<i>n</i><i>d</i>as (boulettes, raviolis) obséquieux aux ancêtres décédés ; voir à ce sujet II, 4, 2, 1 ss.
 
@@ -275,7 +275,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^429]: 185:1 C'est-à-dire à l'occasion de la prise du riz pour les oblations dans la charrette, voir I, 1, 2, 17-19.
 
-[^430]: 185:2 Voir [p. 19](Book_1_1_1#p19), note [1](Book_1_1_1#fn110). Selon Karka, cela a lieu avant la dissimulation de la branche, Scholl. sur Kâty. IV, 2, 15. Selon Kâty. IV, 2, 12, 13, l'upavesha (voir I, 2, 1, 3) est coupé à cette jonction — avec le texte, 'Tu es accomplissant (vesha)' — de la partie inférieure de la branche de palâ<i>s</i>a sur la partie restante p. 186 de laquelle il fixe ensuite la passoire. Lorsque l'oblation sânnâyya n'est pas faite (et par conséquent aucune branche de palâ<i>s</i>a n'est utilisée), l'upavesha est fait de bois de vara<i>n</i>a.
+[^430]: 185:2 Voir [p. 19](../Book_1_1_1#p19), note [1](../Book_1_1_1#fn110). Selon Karka, cela a lieu avant la dissimulation de la branche, Scholl. sur Kâty. IV, 2, 15. Selon Kâty. IV, 2, 12, 13, l'upavesha (voir I, 2, 1, 3) est coupé à cette jonction — avec le texte, 'Tu es accomplissant (vesha)' — de la partie inférieure de la branche de palâ<i>s</i>a sur la partie restante p. 186 de laquelle il fixe ensuite la passoire. Lorsque l'oblation sânnâyya n'est pas faite (et par conséquent aucune branche de palâ<i>s</i>a n'est utilisée), l'upavesha est fait de bois de vara<i>n</i>a.
 
 [^431]: 186:1 Le trayeur peut être n'importe qui sauf un Sûdra, Taitt. Br. III, 2, 3, 9 ; Kâty. IV, 2, 22 ; Âpast. I, 12, 25.
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^434]: 187:2 La direction de l'ouest vers l'est est la principale dans tous les arrangements sacrificiels : c'est pourquoi celle du sud vers le nord est celle qui se trouve à travers la première.
 
-[^435]: 188:1 C'est-à-dire, lorsque le lait a été versé à travers la passoire comme précédemment. L'école Taittirîya donne aux trois vaches des noms mystiques (ou épithètes) : Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (qui embrasse tout) et Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3 ; Taitt. Br. III, 2, 3, 7. Dans ce dernier passage, ces noms sont, comme ici, identifiés respectivement à la terre, à l'atmosphère et aux cieux. Le trayeur, en répondant à l'Adhvaryu, appelle apparemment les vaches par leurs noms ordinaires. Cf. [p. 178](Book_1_1_6#p178), note [4](Book_1_1_6#fn412).
+[^435]: 188:1 C'est-à-dire, lorsque le lait a été versé à travers la passoire comme précédemment. L'école Taittirîya donne aux trois vaches des noms mystiques (ou épithètes) : Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (qui embrasse tout) et Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3 ; Taitt. Br. III, 2, 3, 7. Dans ce dernier passage, ces noms sont, comme ici, identifiés respectivement à la terre, à l'atmosphère et aux cieux. Le trayeur, en répondant à l'Adhvaryu, appelle apparemment les vaches par leurs noms ordinaires. Cf. [p. 178](../Book_1_1_6#p178), note [4](../Book_1_1_6#fn412).
 
 [^436]: 189:1 Selon Taitt. S. I, 1, 3, Kâty. IV, 2, 32, etc., il prononce, ce faisant, le texte : « Unissez-vous, vous qui suivez la loi éternelle, vous qui agitez (avec la vague, Katy.), vous les plus doux, — [remplissant le lait de miel, Kâty. ], — vous les délicieux, pour l'obtention de la richesse ! »
 
@@ -299,13 +299,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^441]: 191:1 Le mot est en réalité dérivé de ava-dâ (do), « couper ». Le Taitt. Br. donne la même explication étymologique fantaisiste du terme qu'ici.
 
-[^442]: 192:1 Les quatre « morceaux » qui composent chaque oblation de gâteau de riz sont faits de la manière suivante : premièrement, du beurre clarifié, « découpé » ou tiré du beurre dans la cuillère dhruvâ au moyen du sruva (cuillère à tremper) et versé dans le <i>g</i>uhû (ceci est appelé l'upastara<i>n</i>a ou sous-couche de beurre) ; deuxièmement et troisièmement, deux morceaux de la taille d'une articulation du pouce, découpés au centre et à l'avant du gâteau de riz et posés sur ce beurre ; et quatrièmement, du beurre clarifié versé sur ces morceaux de gâteau (le nom technique de cet arrosage de beurre étant abhighâra<i>n</i>a). La famille des <i>G</i>amadagnis, qui est mentionnée comme faisant toujours cinq coupes (Kâty. I, 9, 3-4), prend trois morceaux de gâteau au lieu de deux, à savoir un morceau supplémentaire de la partie arrière (ou ouest) du gâteau. Yâ<i>g</i><i>ñ</i>ika Deva sur Kâty. cite un distique de certains Sm<i>ri</i>ti, dans lequel les Vatsas, les Vidas et les Ârsh<i>t</i>ishe<i>n</i>as sont mentionnés à côté des <i>G</i>amadagnis, comme pa<i>ñ</i><i>k</i>âvattina<i>h</i> ou faisant cinq coupes. Français À l'Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (offrande à voix basse), qui est effectuée entre l'oblation du gâteau à Agni et celle à Agni-Soma à la pleine lune, et entre l'oblation du gâteau à Agni et celle à Indra-Agni (ou le sânnâyya, ou oblation de lait aigre-doux, à Indra) à la nouvelle lune, et qui est entièrement constituée de beurre, les quatre coupes sont effectuées de la même manière que celle décrite p. 193 page [174](Book_1_1_6#p174) note. À la sânnâyya, deux (ou trois) sruva-fuls de lait aigre-doux remplacent les deux (ou trois) morceaux de gâteau.
+[^442]: 192:1 Les quatre « morceaux » qui composent chaque oblation de gâteau de riz sont faits de la manière suivante : premièrement, du beurre clarifié, « découpé » ou tiré du beurre dans la cuillère dhruvâ au moyen du sruva (cuillère à tremper) et versé dans le <i>g</i>uhû (ceci est appelé l'upastara<i>n</i>a ou sous-couche de beurre) ; deuxièmement et troisièmement, deux morceaux de la taille d'une articulation du pouce, découpés au centre et à l'avant du gâteau de riz et posés sur ce beurre ; et quatrièmement, du beurre clarifié versé sur ces morceaux de gâteau (le nom technique de cet arrosage de beurre étant abhighâra<i>n</i>a). La famille des <i>G</i>amadagnis, qui est mentionnée comme faisant toujours cinq coupes (Kâty. I, 9, 3-4), prend trois morceaux de gâteau au lieu de deux, à savoir un morceau supplémentaire de la partie arrière (ou ouest) du gâteau. Yâ<i>g</i><i>ñ</i>ika Deva sur Kâty. cite un distique de certains Sm<i>ri</i>ti, dans lequel les Vatsas, les Vidas et les Ârsh<i>t</i>ishe<i>n</i>as sont mentionnés à côté des <i>G</i>amadagnis, comme pa<i>ñ</i><i>k</i>âvattina<i>h</i> ou faisant cinq coupes. Français À l'Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (offrande à voix basse), qui est effectuée entre l'oblation du gâteau à Agni et celle à Agni-Soma à la pleine lune, et entre l'oblation du gâteau à Agni et celle à Indra-Agni (ou le sânnâyya, ou oblation de lait aigre-doux, à Indra) à la nouvelle lune, et qui est entièrement constituée de beurre, les quatre coupes sont effectuées de la même manière que celle décrite p. 193 page [174](../Book_1_1_6#p174) note. À la sânnâyya, deux (ou trois) sruva-fuls de lait aigre-doux remplacent les deux (ou trois) morceaux de gâteau.
 
-[^443]: 193:1 Voir page [26](Book_1_1_1#p26), note [1](Book_1_1_1#fn125). Les parties des gâteaux ou du sânnâyya, dont on a fait des découpes, il les arrose, une fois, de beurre pris avec le sruva du beurrier ; et chaque fois que du beurre est versé avec le sruva du dhruvâ dans le <i>g</i>uhû</i>, le premier est réapprovisionné à partir du beurrier.
+[^443]: 193:1 Voir page [26](../Book_1_1_1#p26), note [1](../Book_1_1_1#fn125). Les parties des gâteaux ou du sânnâyya, dont on a fait des découpes, il les arrose, une fois, de beurre pris avec le sruva du beurrier ; et chaque fois que du beurre est versé avec le sruva du dhruvâ dans le <i>g</i>uhû</i>, le premier est réapprovisionné à partir du beurrier.
 
 [^444]: 193:2 Tayor mithunam asti vasha<i>t</i>kâra eva, 'pour ces deux-là, l'appel vasha<i>t</i> est le complément dans la formation d'une paire.' Sur le vasha<i>t</i> (vausha<i>t</i>) et les deux autres formules, voir la note sur I, 5, 2, 16.
 
-[^445]: 194:1 Les formalités habituelles, qui ont été détaillées auparavant (voir page [174](Book_1_1_6#p174) note), doivent, bien entendu, être accomplies à chaque oblation.
+[^445]: 194:1 Les formalités habituelles, qui ont été détaillées auparavant (voir page [174](../Book_1_1_6#p174) note), doivent, bien entendu, être accomplies à chaque oblation.
 
 [^446]: 195:1 Dans ce passage, la formule invitatoire (anuvâkyâ ou puro'nuvâkyâ), qui est dans le mètre gâyatrî, est identifiée au ciel, et la formule d'offrande (yâ<i>g</i>yâ), qui est dans le mètre trish<i>t</i>ubh, à la terre. D'autre part, le gâyatrî est aussi la terre (cf. I, 4, I, 34), et le trish<i>t</i>ubh le ciel ; de sorte que, selon ce mode de raisonnement, il y a non seulement un lien intime entre les deux mètres, mais une identité réelle. Français Le verset gâyatrî, utilisé comme formule d'invitation, à l'occasion de l'offrande du gâteau de riz à Agni, est Rig-veda VIII, 4.4, 16 \[agnir mûrdhâ diva<i>h</i> kakut, 'Agni, la tête et le sommet du ciel', etc.\]; avec celui à Agni et Soma, lors du sacrifice de la pleine lune, Rig-veda I, 93, 3 \[agnîshomau savedasau, sahûtî vanatam gira<i>h</i>, 'Ô Agni et Soma, de même richesse et de même invocation, acceptez ce chant !', etc.\]; et à Indra et Agni, à la nouvelle lune, Rig-veda VII, 94, 7 \[indrâgnî avasâ gatam, 'Ô Indra et Agni, venez à nous avec faveur I' &c.\] ou avec l'offrande de lait (facultative) (sânnâyyam), à la nouvelle lune, Rig-veda I, 8, 1 \[endra sânasi<i>m</i> rayim, ici, ô Indra, apporte un trésor abondant !!' &c.\], si à Indra ; ou Rig-veda VIII, 6, 1 \[mahâṅ indro ya o<i>g</i>asâ par<i>g</i>anyo v<i>ri</i>sh<i>t</i>imâṅ iva, 'le Grand Indra, qui en puissance est égal au nuage d'orage pluvieux', &c.\], si à Mahendra.
 
@@ -325,7 +325,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^454]: 198:1 À savoir les formules d'invitation et d'offrande.
 
-[^455]: 198:2 L'appel sacrificiel vausha<i>t</i> (pour vasha<i>t</i>, aoriste irrégulier de vah, 'porter', cf. [p. 88](Book_1_1_3#p88), note [2](Book_1_1_3#fn254)) est ici expliqué de manière fantaisiste comme composé de vauk, pour vâk, 'parole', + sha<i>t</i>, 'six'.
+[^455]: 198:2 L'appel sacrificiel vausha<i>t</i> (pour vasha<i>t</i>, aoriste irrégulier de vah, 'porter', cf. [p. 88](../Book_1_1_3#p88), note [2](../Book_1_1_3#fn254)) est ici expliqué de manière fantaisiste comme composé de vauk, pour vâk, 'parole', + sha<i>t</i>, 'six'.
 
 [^456]: 198:3 Pra<i>g</i>âpati, ou Seigneur des Créatures, est ici, comme souvent (cf. I, 2, 5, 13), pris comme représentant l'année, ou le Temps.
 
@@ -349,7 +349,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^466]: 203:1 Ou, recours, demeure, dhâman.
 
-[^467]: 203:2 C'est-à-dire au 'devatânâm âvahanam', cf. I, 4, 2, 17; [p. 118](Book_1_1_4#p118), n. [1](Book_1_1_4#fn307).
+[^467]: 203:2 C'est-à-dire au 'devatânâm âvahanam', cf. I, 4, 2, 17; [p. 118](../Book_1_1_4#p118), n. [1](../Book_1_1_4#fn307).
 
 [^468]: 203:3 'Âya<i>g</i>atâm e<i>g</i>yâ isha<i>h</i>.' Mahîdhara, sur Vâ<i>g</i>. S. XXI, 47, l'interprète ainsi : 'Puissent ces (isha<i>h</i>) (créatures) désireuses, aptes au sacrifice, sacrifier correctement !' De même peut-être Sâya<i>n</i>a sur notre passage.
 
@@ -401,7 +401,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^492]: 211:3 L'utilisation cohérente de dérivations d'une seule et même racine (pra-su) dans ce passage et d'autres similaires est, bien sûr, tout aussi artificielle en sanskrit que doit l'être toute imitation de celle-ci en anglais.
 
-[^493]: 211:4 Il prévient ainsi les effets néfastes de l'acte lié à Rudra, « le dieu terrible » ; voir [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84). De plus, l'idâ avec lequel il procède maintenant représente le bétail, il le protège ainsi du rudriya, cf. ci-dessus I, 7, 3, 21.
+[^493]: 211:4 Il prévient ainsi les effets néfastes de l'acte lié à Rudra, « le dieu terrible » ; voir [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84). De plus, l'idâ avec lequel il procède maintenant représente le bétail, il le protège ainsi du rudriya, cf. ci-dessus I, 7, 3, 21.
 
 [^494]: 211:5 Voir I, 8, 1, 12, 13.
 
@@ -409,7 +409,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^496]: 212:2 Le texte n'indique pas qu'il soit fait ici référence à deux pratiques différentes. La recension de Kânva, cependant, ajoute ici : « mais qu'il ne fasse pas cela », ce qui est évidemment compris également dans notre texte.
 
-[^497]: 212:3 C'est-à-dire dans le prâsitraharanâ, ou poêle, destiné à recevoir la part du Brahman. La partie creuse du récipient doit avoir la forme d'un miroir (à main), c'est-à-dire un bol rond, ou celle d'un kamasa ou cruche, c'est-à-dire un bol carré ([p. 7](Book_1_1_1#p7), note [1](Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. Sur la sous-couche de beurre, voir I, 7, 2, 8.
+[^497]: 212:3 C'est-à-dire dans le prâsitraharanâ, ou poêle, destiné à recevoir la part du Brahman. La partie creuse du récipient doit avoir la forme d'un miroir (à main), c'est-à-dire un bol rond, ou celle d'un kamasa ou cruche, c'est-à-dire un bol carré ([p. 7](../Book_1_1_1#p7), note [1](../Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. Sur la sous-couche de beurre, voir I, 7, 2, 8.
 
 [^498]: 212:4 'Tiryag evaina<i>m</i> nirmimîte.' Je doute que la p. 213 enam (omise dans le texte de Kânva) fasse réellement référence au dard de Rudra. Cf. par. 9.
 

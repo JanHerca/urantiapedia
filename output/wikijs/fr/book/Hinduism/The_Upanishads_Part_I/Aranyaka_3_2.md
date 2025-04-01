@@ -83,7 +83,7 @@ DEUXIÈME ADHYÂYA [^652].
 
 4\. Ce que nous appelons la personne des mètres est cet ensemble de lettres (le Véda). Son essence est la voyelle a.
 
-5\. Ce que nous appelons la personne du Véda est (l'esprit) par lequel nous connaissons les Védas, le Rig-Véda, le Yagur-Véda et le Sama-Véda. Son essence est Brahman [^660](m.)
+5\. Ce que nous appelons la personne du Véda est (l'esprit) par lequel nous connaissons les Védas, le Rig-Véda, le Yagur-Véda et le Sama-Véda. Son essence est Brahman [^660](../m.)
 
 6\. Par conséquent, qu'on choisisse un prêtre Brahman qui soit plein de Brahman (le Veda) et qui soit capable de voir tout défaut dans le sacrifice.
 

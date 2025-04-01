@@ -230,7 +230,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^313]: 182:1 Ou, 'Hommage à ton feu brûlant (consumant) !' comme Mahîdhara prend 'harase <i>s</i>o<i>k</i>ishe', et peut-être aussi le Brâhma<i>n</i>a, bien que 'etai<i>h</i>, utilisé en référence aux armes d'Agni, semble plutôt indiquer une pluralité d'entre elles.
 
-[^314]: 182:2 Voir VII, 2, 3, 4; [VIII, 6, 3, 15](Book_4_8_6#v8_6_3_15).
+[^314]: 182:2 Voir VII, 2, 3, 4; [VIII, 6, 3, 15](../Book_4_8_6#v8_6_3_15).
 
 [^315]: 182:3 Voir III, 5, 2, 9-11 ; la libation de ghee offerte ici sur l'uttara-vedi est préparatoire à l'avancée du feu vers le maître-autel.
 
@@ -270,13 +270,13 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^335]: 195:3 ? Ou, atteindre _ce_ lieu ; Sâya<i>n</i>a, dans le premier cas, le prend comme signifiant « aussi loin que ce lieu » (de l'au-delà du soleil jusqu'au bout de l'air) ; mais dans le second cas, il le prend comme se référant à l'endroit particulier sur le terrain sacrificiel près duquel cette partie du cérémonial est exécutée, à savoir le bûcher de l'Âgnîdhra (comme représentant l'air), au sud duquel l'Adhvaryu dépose une pierre bigarrée près de la « colonne vertébrale ».
 
-[^336]: 196:1 C'est-à-dire là où le hangar et le foyer de l'Âgnîdhra devront ensuite être érigés (voir [IX, 4, 3, 5](Book_4_9_4#v9_4_3_5)\-[6](Book_4_9_4#v9_4_3_6)) sur le bord nord du Vedi, à mi-chemin entre les foyers de Gârhapatya et d'Âhavanîya.
+[^336]: 196:1 C'est-à-dire là où le hangar et le foyer de l'Âgnîdhra devront ensuite être érigés (voir [IX, 4, 3, 5](../Book_4_9_4#v9_4_3_5)\-[6](../Book_4_9_4#v9_4_3_6)) sur le bord nord du Vedi, à mi-chemin entre les foyers de Gârhapatya et d'Âhavanîya.
 
 [^337]: 197:1 Ainsi, Mahîdhara prend ici le sens de « pûrva », et semble aussi être l'auteur du Brâhma<i>n</i>a ; le père oriental étant l'Âhavanîya, et donc le ciel. Dans la formule, il semblerait plutôt signifier « ancien », « ancien ».
 
-[^338]: 197:2 Voir [VIII, 7, 3, 7](Book_4_8_7#v8_7_3_7).
+[^338]: 197:2 Voir [VIII, 7, 3, 7](../Book_4_8_7#v8_7_3_7).
 
-[^339]: 198:1 C'est-à-dire que le tison maintenant porté vers le grand autel du feu, où il doit désormais servir d'Âhavanîya, provient du feu de Gârhapatya, lui-même identique à l'Ukhya Agni, ou feu porté par le Sacrificateur dans l'Ukhâ, ou pan, durant sa période d'initiation. Voir [p. 191](Book_4_9_2#p191), note [^323].
+[^339]: 198:1 C'est-à-dire que le tison maintenant porté vers le grand autel du feu, où il doit désormais servir d'Âhavanîya, provient du feu de Gârhapatya, lui-même identique à l'Ukhya Agni, ou feu porté par le Sacrificateur dans l'Ukhâ, ou pan, durant sa période d'initiation. Voir [p. 191](../Book_4_9_2#p191), note [^323].
 
 [^340]: 199:1 Mahîdhara prend 'puro'gni' dans le sens de prédécesseur (puras agre aṅgati ga<i>k</i><i>kh</i>ati).
 
@@ -286,9 +286,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^343]: 201:1 Voir. VI, 7, 2, 2.
 
-[^344]: 201:2 Voir [IX, 2, 1, 1](Book_4_9_2#v9_2_1_1).
+[^344]: 201:2 Voir [IX, 2, 1, 1](../Book_4_9_2#v9_2_1_1).
 
-[^345]: 201:3 Voir [IX, 1, 1, 6](Book_4_9_1#v9_1_1_6).
+[^345]: 201:3 Voir [IX, 1, 1, 6](../Book_4_9_1#v9_1_1_6).
 
 [^346]: 201:4 ? Ou bien, cela (le tison) est en effet de la nourriture (vâ<i>g</i>a). Mahîdhara interprète cette partie de la formule ainsi : C'est à toi que nous donnons de la nourriture (vâ<i>g</i>âya pour vâ<i>g</i>am).
 

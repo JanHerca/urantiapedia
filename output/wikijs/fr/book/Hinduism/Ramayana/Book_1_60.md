@@ -134,7 +134,7 @@ Certains se nourrissent d’eau, d’autres d’air,
 Quelques-uns sur les feuilles qui se sont fanées là.
 Les racines et les fruits sauvages étaient la nourriture des autres ;
 Toute rage était contenue, chaque sens maîtrisé,
-Là, Bálakhilyas [1](Book_1_60#fn220) alla et revint,
+Là, Bálakhilyas [1](../Book_1_60#fn220) alla et revint,
 Tantôt la prière s'exhalait, tantôt la flamme s'alimentait :
 Ceux-ci, et les bandes ascétiques à côté,
 La douce retraite embellie.
@@ -449,7 +449,7 @@ Je suis tombé comme brûlé par une flamme dévorante.
 Le monarque, célèbre dans le monde entier
 De nouveau ses armes redoutables lancées,
 
-Cela a fait de Kámbojas, [1b](Book_1_60#fn227) Barbares, [2b](Book_1_60#fn228) tous,
+Cela a fait de Kámbojas, [1b](../Book_1_60#fn227) Barbares, [2b](../Book_1_60#fn228) tous,
 Avec Yavans, troublé, fuis et tombe.
 
 

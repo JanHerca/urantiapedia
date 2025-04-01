@@ -46,17 +46,17 @@ PREMIER ADHYÂYA.
 
 3\. Cet air n'est pas considéré [^622] comme indépendant [^623], donc je ne suis pas d'accord avec son fils (de Mandûka).
 
-4\. En vérité, les deux sont identiques, c'est pourquoi l'air est considéré comme indépendant, ainsi que le dit Âgastya. Car c'est la même chose, qu'on dise air ou éther [1](Aranyaka_3_1#fn624).
+4\. En vérité, les deux sont identiques, c'est pourquoi l'air est considéré comme indépendant, ainsi que le dit Âgastya. Car c'est la même chose, qu'on dise air ou éther [1](../Aranyaka_3_1#fn624).
 
 5\. Jusqu'ici en référence aux divinités (mythologiquement) ; maintenant en référence au corps (physiologiquement) :
 
-6\. La première moitié est la parole, la seconde moitié est l'esprit, leur union est le souffle (prâ<i>n</i>a), ainsi dit <i>S</i>ûravîra [2](Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
+6\. La première moitié est la parole, la seconde moitié est l'esprit, leur union est le souffle (prâ<i>n</i>a), ainsi dit <i>S</i>ûravîra [2](../Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
 
-7\. Mais son fils aîné dit : La première moitié est l'esprit, la seconde la parole. Car nous concevons d'abord avec l'esprit, en effet [3](Aranyaka_3_1#fn626), puis nous prononçons avec la parole. Par conséquent, la première moitié est en effet l'esprit, la seconde la parole, mais leur union est en réalité le souffle.
+7\. Mais son fils aîné dit : La première moitié est l'esprit, la seconde la parole. Car nous concevons d'abord avec l'esprit, en effet [3](../Aranyaka_3_1#fn626), puis nous prononçons avec la parole. Par conséquent, la première moitié est en effet l'esprit, la seconde la parole, mais leur union est en réalité le souffle.
 
-8\. En vérité, il en est de même pour le père (Mâ<i>n</i><i>d</i>ukeya) et le fils [4](Aranyaka_3_1#fn627).
+8\. En vérité, il en est de même pour le père (Mâ<i>n</i><i>d</i>ukeya) et le fils [4](../Aranyaka_3_1#fn627).
 
-9\. Cette (méditation telle que décrite ici), jointe [5](Aranyaka_3_1#fn628) à l'esprit, à la parole et au souffle, est (comme) un char tiré par deux chevaux et un cheval entre eux (prash<i>t</i>ivâhana).
+9\. Cette (méditation telle que décrite ici), jointe [5](../Aranyaka_3_1#fn628) à l'esprit, à la parole et au souffle, est (comme) un char tiré par deux chevaux et un cheval entre eux (prash<i>t</i>ivâhana).
 
 10\. Et celui qui connaît ainsi cette union s'unit à sa descendance, à son bétail, à sa renommée, à la gloire de son visage et au monde de Svarga. Il vit pleinement sa vie.
 
@@ -130,7 +130,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 3\. Celui qui connaît ainsi cette Sa<i>m</i>hitâ (union) s'unit à sa descendance, à son bétail, à sa renommée, à la gloire de son visage et au monde de Svarga. Il vit pleinement sa vie.
 
-4\. Or, Hrasva Mâ<i>n</i><i>d</i>ûkeya dit : « Nous, récitants de Nirbhuga, disons : “Oui, la première moitié est la première syllabe, et la seconde moitié la deuxième syllabe, mais le Sa<i>m</i>hitâ est l’espace entre la première et la deuxième moitié dans la mesure où par lui on fait sortir l’union (sandhi), et l’on sait ce qui est l’accent et ce qui ne l’est pas [^645], et l’on distingue ce qui est le mora et ce qui ne l’est pas.” »
+4\. Or, Hrasva Mâ<i>n</i><i>d</i>ûkeya dit : « Nous, récitants de Nirbhuga, disons : « Oui, la première moitié est la première syllabe, et la seconde moitié la deuxième syllabe, mais le Sa<i>m</i>hitâ est l’espace entre la première et la deuxième moitié dans la mesure où par lui on fait sortir l’union (sandhi), et l’on sait ce qui est l’accent et ce qui ne l’est pas [^645], et l’on distingue ce qui est le mora et ce qui ne l’est pas. » »
 
 5\. Celui qui connaît ainsi cette Sa<i>m</i>hitâ (union) s'unit à sa descendance, à son bétail, à sa renommée, à la gloire de son visage et au monde de Svarga. Il vit pleinement sa vie.
 

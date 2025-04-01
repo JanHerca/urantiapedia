@@ -50,7 +50,7 @@ CINQUIÈME ADHYÂYA.
 
 6\. Vient ensuite le verset Sûdadohas. Sûdadohas est en vérité souffle. Il joint les articulations ; avec le souffle.
 
-7\. Après avoir récité ce verset douze fois, il <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> l'interrompt là. Ces prâ<i>n</i>as sont en vérité douze fois : sept dans la tête, deux sur la poitrine, trois en dessous. Dans ces douze endroits les prâ<i>n</i>as sont contenus, là ils sont parfaits. C'est pourquoi il l'interrompt là [1](Aranyaka_1_5#fn480).
+7\. Après avoir récité ce verset douze fois, il <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> l'interrompt là. Ces prâ<i>n</i>as sont en vérité douze fois : sept dans la tête, deux sur la poitrine, trois en dessous. Dans ces douze endroits les prâ<i>n</i>as sont contenus, là ils sont parfaits. C'est pourquoi il l'interrompt là [1](../Aranyaka_1_5#fn480).
 
 8\. L'hymne indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forme les deux cuisses (de l'oiseau) appartenant à Indra et à Agni, les deux supports aux os larges.
 

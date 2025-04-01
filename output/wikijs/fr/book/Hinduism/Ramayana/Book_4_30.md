@@ -65,7 +65,7 @@ Chaque seigneur Vánar avec toute sa suite,
 Chaque garde forestier de ce domaine sauvage,
 Et Angad ici, ton chéri, vois
 Un gouverneur et un ami en toi.
-Ces deux [1b](Book_4_30#fn604) dont le cœur souffre de chagrin
+Ces deux [1b](../Book_4_30#fn604) dont le cœur souffre de chagrin
 Les rites funéraires doivent être entrepris,
 Et Angad par les soins de sa mère
 Soyez roi, héritier légitime de son père.
@@ -361,7 +361,7 @@ Le sacrifice d'un combat mortel.
 Où l'arbre de Ráma s'est accéléré
 A fourni le lieu de déversement d'eau,
 Comment t'es-tu baigné à la fin
-Sans que ta femme puisse t'apporter son aide ? [1](Book_4_30#fn610)
+Sans que ta femme puisse t'apporter son aide ? [1](../Book_4_30#fn610)
 Pourquoi mes yeux ne voient-ils plus
 Ta brillante chaîne d'or bien-aimée,
 Qui, satisfait de toi, le Roi des Immortels
@@ -1052,7 +1052,7 @@ Et demeure dans son palais libéré
 
 De tout souci de besoin pressant
 La lune est pleine, féroce et forte
-L'impétueux Sarjú [1b](Book_4_30#fn629) rugit
+L'impétueux Sarjú [1b](../Book_4_30#fn629) rugit
 Comme si la foule d'Ayodhyá s'était épuisée
 Pour saluer leur roi avec un cri retentissant.
 En ce doux moment de facilité et de repos
@@ -1082,7 +1082,7 @@ Mon secours, ou nier la dette
 Je connais son cœur généreux, et donc
 Attendez le moment avec confiance
 Quand il montrera son zèle amical,
-Et les ruisseaux coulent à nouveau sans turbulence. [2b](Book_4_30#fn630)
+Et les ruisseaux coulent à nouveau sans turbulence. [2b](../Book_4_30#fn630)
 
 
 
@@ -1191,7 +1191,7 @@ L'impérial Vanar lui a donné sa volonté :
 'Va, Nila, vers les armées lointaines
 Qui gardent en armes leurs différents postes,
 Et toutes les armées qui protègent
-Les quartiers, [1](Book_4_30#fn632) avec leurs chefs, se rassemblent.
+Les quartiers, [1](../Book_4_30#fn632) avec leurs chefs, se rassemblent.
 À tous les luminaires placés
 Dans les régions intermédiaires, hâtez-vous,
 Et demandez à chaque capitaine de se lever et de diriger

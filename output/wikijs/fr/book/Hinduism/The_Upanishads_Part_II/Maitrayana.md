@@ -99,7 +99,7 @@ Ils demandèrent : « Lequel est-ce ? » Et il leur répondit :
 
 <span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
-La soif intérieure, l'affection, la passion, la convoitise, la méchanceté, l'amour, la haine, la tromperie [1](Maitrayana#fn1002), la jalousie, l'agitation vaine, l'inconstance [2](Maitrayana#fn1003), l'instabilité, l'émulation, la cupidité, la condescendance envers les amis, l'orgueil familial, l'aversion pour les objets désagréables, la dévotion aux objets agréables, les chuchotements [3](Maitrayana#fn1004), la prodigalité, tels sont les résultats de la qualité de la passion (ra<i>g</i>as).
+La soif intérieure, l'affection, la passion, la convoitise, la méchanceté, l'amour, la haine, la tromperie [1](../Maitrayana#fn1002), la jalousie, l'agitation vaine, l'inconstance [2](../Maitrayana#fn1003), l'instabilité, l'émulation, la cupidité, la condescendance envers les amis, l'orgueil familial, l'aversion pour les objets désagréables, la dévotion aux objets agréables, les chuchotements [3](../Maitrayana#fn1004), la prodigalité, tels sont les résultats de la qualité de la passion (ra<i>g</i>as).
 
 Par elles il est rempli, par elles il est vaincu, et donc ce Soi élémentaire assume de multiples formes, oui, de multiples formes.
 

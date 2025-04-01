@@ -240,11 +240,11 @@ Lorsqu'il a obtenu une part parmi eux, alors (le Hotri) invoque une bénédictio
 
 ## Notes de bas de page
 
-[^585]: 247:2 L'auteur procède maintenant à donner en détail les formules à réciter par le Hot<i>ri</i> lors des cérémonies traitées dans le Brâhma<i>n</i>a précédent (voir [p. 236](Book_1_1_8#p236), note [2](Book_1_1_8#fn553)) ; par. 1-23 traitant du sûktavâka ; par. 24-29 du <i>s</i>amyuvâka.
+[^585]: 247:2 L'auteur procède maintenant à donner en détail les formules à réciter par le Hot<i>ri</i> lors des cérémonies traitées dans le Brâhma<i>n</i>a précédent (voir [p. 236](../Book_1_1_8#p236), note [2](../Book_1_1_8#fn553)) ; par. 1-23 traitant du sûktavâka ; par. 24-29 du <i>s</i>amyuvâka.
 
 [^586]: 248:1 Sûktaiva tad âha, que le commentateur paraphrase par sûktâṅy âha. Il s'agit apparemment d'une explication du terme sûktavaka. Le mot sûkta a ici exceptionnellement l'accent sur l'avant-dernier.
 
-[^587]: 248:2 Voir [p. 240](Book_1_1_8#p240), note [2](Book_1_1_8#fn561). Les formules sont données par Taitt. Br. III, 5, 10 ; Â<i>s</i>v. <i>S</i>. I, 9, 1.
+[^587]: 248:2 Voir [p. 240](../Book_1_1_8#p240), note [2](../Book_1_1_8#fn561). Les formules sont données par Taitt. Br. III, 5, 10 ; Â<i>s</i>v. <i>S</i>. I, 9, 1.
 
 [^588]: 249:1 'Sûktavâkam uta namovâkam.' Notre auteur semble renvoyer ces termes aux versets Rik et aux formules Yagüs utilisées pendant le sacrifice. Sâyana, sur Taitt. S. II, 6, 9, prend 'namovâka' dans un sens plus restreint, à savoir comme se référant à la formule 'namo devebhya'. Le Yagur-vela Noir et Âsv. ajoutent tous deux 'ridhyâsma sûkto', qui doit probablement être pris dans le sens de 'Puissions-nous accomplir ce qui est exprimé dans les sûktas'. \[Sâya<i>n</i>a, 'Puissions-nous réussir avec le sûkta qui reste à prononcer.'\]
 
@@ -268,7 +268,7 @@ Lorsqu'il a obtenu une part parmi eux, alors (le Hotri) invoque une bénédictio
 
 [^598]: 253:3 La recension Kânva, le Black Yagur-veda et Âsv. <i>S</i>. lisent non, « nous ».
 
-[^599]: 254:1 Voir [p. 247](Book_1_1_8#p247), note [^581]. Le sens originel des termes <i>s</i>am yos, tels qu'ils apparaissent dans le Rig-veda, est heureusement rendu par le professeur Max Müller (Traduction du Rig-veda, I, p. 182) par « santé et richesse ». Dans le cérémonial sacrificiel, une signification plus profonde a été attachée à cette formule de bénédiction, pour laquelle il est difficile de trouver un équivalent exact. L'intégralité du <i>s</i>amyuvâka, tel qu'il est donné ici, fait partie d'un khila du dernier livre du <i>Ri</i>k-Sa<i>m</i>hitâ ; cf. édition de Max Müller, vol. VI, p. 32 ; A. Weber, Ind. Stud. IV, p. 431. La version des Yagüs Noirs de la légende concernant Samyu Bârhaspatya (Taitt. S. II, 6, 10) est très différente de la nôtre ; elles ont toutes deux été inventées pour expliquer Samyos.
+[^599]: 254:1 Voir [p. 247](../Book_1_1_8#p247), note [^581]. Le sens originel des termes <i>s</i>am yos, tels qu'ils apparaissent dans le Rig-veda, est heureusement rendu par le professeur Max Müller (Traduction du Rig-veda, I, p. 182) par « santé et richesse ». Dans le cérémonial sacrificiel, une signification plus profonde a été attachée à cette formule de bénédiction, pour laquelle il est difficile de trouver un équivalent exact. L'intégralité du <i>s</i>amyuvâka, tel qu'il est donné ici, fait partie d'un khila du dernier livre du <i>Ri</i>k-Sa<i>m</i>hitâ ; cf. édition de Max Müller, vol. VI, p. 32 ; A. Weber, Ind. Stud. IV, p. 431. La version des Yagüs Noirs de la légende concernant Samyu Bârhaspatya (Taitt. S. II, 6, 10) est très différente de la nôtre ; elles ont toutes deux été inventées pour expliquer Samyos.
 
 [^600]: 255:1 Cette formule apparaît presque identiquement dans le Rig-veda VI, 74, 1; VII, 54, 1; (IX, 69, 7.) Cf. Max Müller, Traduction du Rig-veda, I, p. 180, où l'attention est attirée sur une phrase quelque peu similaire dans les prières ombriques des tables eugubiennes.
 
@@ -314,7 +314,7 @@ Lorsqu'il a obtenu une part parmi eux, alors (le Hotri) invoque une bénédictio
 
 [^621]: 264:3 Mahîdhara interprète : « Puisse Indra, avec les Âdityas, les Vasus, les Maruts et le Vi<i>s</i>ve Devâ<i>h</i>, oindre soigneusement les barhis avec le ghee semblable au havis », etc.
 
-[^622]: 265:1 Voir [p. 9](Book_1_1_1#p9), note [1](Book_1_1_1#fn94).
+[^622]: 265:1 Voir [p. 9](../Book_1_1_1#p9), note [1](../Book_1_1_1#fn94).
 
 [^623]: 265:2 Ou, Pra<i>g</i>âpati . . ., voir I, 1, 1, 13, avec note.
 
@@ -340,7 +340,7 @@ Lorsqu'il a obtenu une part parmi eux, alors (le Hotri) invoque une bénédictio
 
 [^634]: 271:3 Les rayons de lumière célestes sont considérés comme les vaches célestes. Naigh. I, 5; Nir. II, 6.
 
-[^635]: 272:1 Lorsqu'il a exécuté le mouvement pradakshi<i>n</i>a, il doit répéter le mouvement dans la direction opposée, conformément à la règle générale, Katy. I, 8, 24. La même chose s'applique au par. 20. Sur la circumambulation dans le sens du soleil, avec et sans feu, voir [p. 37](Book_1_1_2#p37) note, [p. 45](Book_1_1_2#p45) note ; également Martin, Western Isles, pp. 16-20, 85, 97, 116-119, 241, 277 ; Forbes Leslie, Early Races of Scotland, index, sv deisiol.
+[^635]: 272:1 Lorsqu'il a exécuté le mouvement pradakshi<i>n</i>a, il doit répéter le mouvement dans la direction opposée, conformément à la règle générale, Katy. I, 8, 24. La même chose s'applique au par. 20. Sur la circumambulation dans le sens du soleil, avec et sans feu, voir [p. 37](../Book_1_1_2#p37) note, [p. 45](../Book_1_1_2#p45) note ; également Martin, Western Isles, pp. 16-20, 85, 97, 116-119, 241, 277 ; Forbes Leslie, Early Races of Scotland, index, sv deisiol.
 
 [^636]: 273:1 Le texte Mâdhyandina du Vâ<i>g</i>. S. ne donne pas cette formule. Le texte Kâ<i>n</i>va du Sa<i>m</i>hitâ dit ceci (édition de Weber, p. 59) : « Tu es tissé, tu es une toile : tisse-moi (? prolonge ma vie) par ce sacrifice, par cet acte sacré, par cette nourriture, par ce monde ! » « Puisse mon fils tisser (continuer) cette œuvre, cet acte viril qui est le mien ! » Ainsi en est-il également de Kâty. III, 8, 25. Le texte Kâ<i>n</i>va du Brâhma<i>n</i>a, cependant, ne mentionne que la formule donnée ci-dessus. Selon Laugâkshi, il nomme son fils préféré ; selon Sâṅkhâyana, son fils aîné, ou autant de fils qu'il a. Voir comm. sur Kâty. IV, 12, II.
 

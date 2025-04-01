@@ -340,7 +340,7 @@ Fin du Premier Pa<i>t</i>ala.
 
 [^487]: 146:12 'Il accomplit un culte avec ce Mantra, portant le cordon sacrificiel sur son épaule droite, aux Mânes. Selon d'autres, il vénère Agni. Mais cela serait en contradiction avec les paroles (du Mantra).' Mât<i>ri</i>datta.
 
-[^488]: 146:13 Taittirîya. Sa<i>m</i>hitâ III, 4, 7. « À lui » (tasmai) est masculin, « à eux » (tâbhya<i>h</i>) féminin. Le sens de ces mots sera mieux expliqué par une traduction de la première section des formules du Râshmrabh<i>m</i>t : « Le champion de la vérité, celui dont la loi est la vérité, Agni est le Gandharva. Ses Apsaras sont les herbes ; “sève” est leur nom. Puisse-t-il protéger ce pouvoir de sainteté et ce pouvoir temporel. Puissent-ils protéger ce pouvoir de sainteté et ce pouvoir temporel. À lui svâhâ ! À eux svâhâ ! »
+[^488]: 146:13 Taittirîya. Sa<i>m</i>hitâ III, 4, 7. « À lui » (tasmai) est masculin, « à eux » (tâbhya<i>h</i>) féminin. Le sens de ces mots sera mieux expliqué par une traduction de la première section des formules du Râshmrabh<i>m</i>t : « Le champion de la vérité, celui dont la loi est la vérité, Agni est le Gandharva. Ses Apsaras sont les herbes ; « sève » est leur nom. Puisse-t-il protéger ce pouvoir de sainteté et ce pouvoir temporel. Puissent-ils protéger ce pouvoir de sainteté et ce pouvoir temporel. À lui svâhâ ! À eux svâhâ ! »
 
 [^489]: 146:14 Voir ci-dessus, section 2, § 13.
 

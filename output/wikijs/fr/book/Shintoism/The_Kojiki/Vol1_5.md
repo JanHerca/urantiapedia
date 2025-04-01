@@ -108,7 +108,7 @@ Là-dessus, les deux Divinités tinrent conseil et dirent : « Les enfants que n
 
 ## Notes de bas de page
 
-[^125]: 15:1 p. 15 Pour cette traduction du mot japonais _kami_, voir Introduction, pp. [xvii](kj003.htm#pxvii)\-xviii.
+[^125]: 15:1 p. 15 Pour cette traduction du mot japonais _kami_, voir Introduction, pp. [xvii](../kj003.htm#pxvii)\-xviii.
 
 [^126]: 15:2 Littéralement, « ce qui est devenu » ( ![](/image/book/Shintoism/The_Kojiki/01500.jpg)). Ce « devenir » est défini de manière concise par Motowori comme « la naissance de ce qui n'existait pas auparavant ».
 
@@ -124,7 +124,7 @@ Là-dessus, les deux Divinités tinrent conseil et dirent : « Les enfants que n
 
 [^132]: 15:8 Ici et ailleurs, le caractère ![](/image/book/Shintoism/The_Kojiki/01600.jpg), proprement « pays » (_regio_), est utilisé là où « terre » (_tellus_) convient mieux. Apparemment, dans l'ancienne langue, le mot _kuni_ (écrit ![](/image/book/Shintoism/The_Kojiki/01601.jpg)), qui est maintenant restreint à son ancien sens, était utilisé de manière ambiguë, un peu comme notre mot « terre ».
 
-[^133]: 15:9 _Umashi-ashi-kabi-hiko-ji-no-kami._ Pour _hiko_ ici et ailleurs rendu par « prince », voir Introduction [p. xvi](kj002.htm#pxvi) ; _ji_ est rendu par « aîné » conformément à l'opinion exprimée par Motowori et Hirata, qui disent qu'il s'agit d'une « désignation honorifique des hommes identique à _ji_ qui signifie vieil homme ».
+[^133]: 15:9 _Umashi-ashi-kabi-hiko-ji-no-kami._ Pour _hiko_ ici et ailleurs rendu par « prince », voir Introduction [p. xvi](../kj002.htm#pxvi) ; _ji_ est rendu par « aîné » conformément à l'opinion exprimée par Motowori et Hirata, qui disent qu'il s'agit d'une « désignation honorifique des hommes identique à _ji_ qui signifie vieil homme ».
 
 [^134]: 15:10 Ou, la Déité Éternellement Debout au Ciel, _Ame-no-toko-tachi-no-kami_. La traduction du nom donné ici suit le sens naturel des caractères qui le composent et est approuvée par Tanigaha Shisai. Motowori et Hirata prennent _toko_ pour _soko_, « en bas », et interprètent en conséquence ; mais ce n'est probablement qu'un exemple parmi tant d'autres où les philologues japonais se laissent entraîner par l'audace de leurs spéculations étymologiques à identifier des mots radicalement distincts.
 

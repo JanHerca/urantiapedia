@@ -47,9 +47,9 @@ Om (est) l'éther, (est) Brahman [^552]. « Il y a l'ancien éther (l'invisible)
 
 1\. Les trois descendants de Pragâpati, dieux, hommes et Asuras (esprits maléfiques), demeurèrent en tant que Brahmakârins (étudiants) auprès de leur père Pragâpati. Après avoir terminé leur apprentissage, les dieux dirent : « Dites-nous quelque chose, Seigneur. » Il leur dit la syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit « Dâmyata », « Soyez soumis. » « Oui », dit-il, « vous avez compris. »
 
-2\. Alors les hommes lui dirent : « Dites-nous quelque chose, <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Monsieur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : “Datta”, “Donne.” » « Oui », dit-il, « vous avez compris. »
+2\. Alors les hommes lui dirent : « Dites-nous quelque chose, <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Monsieur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : « Datta », « Donne. » » « Oui », dit-il, « vous avez compris. »
 
-3\. Alors les Asuras lui dirent : « Dites-nous quelque chose, Seigneur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : “Dayadham”, “Soyez miséricordieux.” » « Oui », dit-il, « vous avez compris. »
+3\. Alors les Asuras lui dirent : « Dites-nous quelque chose, Seigneur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : « Dayadham », « Soyez miséricordieux. » » « Oui », dit-il, « vous avez compris. »
 
 La voix divine du tonnerre répète la même chose : Da Da Da, c'est-à-dire : Soumets-toi, Donne, Sois miséricordieux. Que cette triade soit donc enseignée : Soumets-toi, Donne et Miséricorde.
 

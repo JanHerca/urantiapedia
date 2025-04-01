@@ -182,7 +182,7 @@ Zarathoustra [^81].
 
 [^54]: 8:1 Un ou plusieurs versets peuvent être tombés ici.
 
-[^55]: 8:2 Je ne peux me persuader d'accepter la comparaison presque universellement acceptée entre Mazd<i>a</i>u et medhâ. Voir note à la [p. 104](Gathas_43#p104).
+[^55]: 8:2 Je ne peux me persuader d'accepter la comparaison presque universellement acceptée entre Mazd<i>a</i>u et medhâ. Voir note à la [p. 104](../Gathas_43#p104).
 
 [^56]: 8:3 Ou : « Il a fait par Daêvas ? » Si tel était le cas, une souveraineté absolue et non qualifiée serait indiquée. Voir la dernière ligne.
 

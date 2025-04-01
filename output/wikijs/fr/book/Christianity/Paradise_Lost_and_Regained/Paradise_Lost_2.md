@@ -783,7 +783,7 @@ Had not the snaky Sorceress, that sat
 Fast by Hell-gate and kept the fatal key,
 Risen, and with hideous outcry rushed between.
 
-“O father, what intends thy hand,” she cried,
+« O father, what intends thy hand, » she cried,
 “Against thy only son? What fury, O son,
 Possesses thee to bend that mortal dart
 Against thy father's head? And know'st for whom?

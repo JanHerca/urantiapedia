@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-[1b](Book_6_10#fn905)
+[1b](../Book_6_10#fn905)
 
 
 ## CHANT I. : LE DISCOURS DE RAMA.
@@ -45,9 +45,9 @@ Il répondit amicalement :
 « Voici une tâche formidable accomplie.
 Qui n'a jamais eu de cœur mais a été conçu.
 Qui d'autre peut surgir de l'autre côté de la mer,
-Sauver Váyu [2b](Book_6_10#fn906) et le Roi à Plumes ? [3b](Book_6_10#fn907)
+Sauver Váyu [2b](../Book_6_10#fn906) et le Roi à Plumes ? [3b](../Book_6_10#fn907)
 Qui, franchissez les portails forts et hauts.
-Que défient les Nágas, [4b](Book_6_10#fn908) Dieux et démons,
+Que défient les Nágas, [4b](../Book_6_10#fn908) Dieux et démons,
 Là où les hôtes de Rávan ​​maintiennent leur station,
 Et traverser les profondeurs sans être blessé ?
 Par un tel acte, le fils du Dieu du Vent
@@ -164,7 +164,7 @@ Ils ont comblé les douves qui entourent la ville,
 Les piliers et les portails renversés,
 Et la majestueuse Lanká gâtée et brûlée,
 Cependant, nous, les Vánars, nous frayons un chemin
-Sur le large siège de l'empire de Varun [1](Book_6_10#fn909),
+Sur le large siège de l'empire de Varun [1](../Book_6_10#fn909),
 Soyez sûr que la ville de l'ennemi
 Est voué à un renversement soudain,
 Mais pourquoi une armée aussi vaste ?
@@ -370,7 +370,7 @@ Puis, depuis le rivage, les capitaines regardèrent
 Sur les vagues que les brises soulevaient
 
 À la fureur, alors qu'ils se précipitaient dans l'écume
-Sur le royaume de Várun, la demeure des Asurs : [1b](Book_6_10#fn919)
+Sur le royaume de Várun, la demeure des Asurs : [1b](../Book_6_10#fn919)
 La mer qui riait avec de l'écume et dansait
 Avec des vagues sur lesquelles les rayons du soleil scintillaient :
 Où, quand la lumière a commencé à s'estomper,

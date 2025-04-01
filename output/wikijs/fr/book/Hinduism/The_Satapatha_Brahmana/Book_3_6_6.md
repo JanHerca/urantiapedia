@@ -219,7 +219,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^483]: 246:1 Ou plutôt, trop, plus (que ce qui est requis lors d'un des sacrifices normaux du Soma), — ​​âdhvarikebhyo bahutarâni, Sây.
 
-[^484]: 246:2 Il s'agit, comme le suggère Sâya<i>n</i>a, de cérémonies comportant des oblations surnuméraires, ou supplémentaires, aux oblations normales qui leur sont associées. Cette discussion semble être introduite ici en raison de l'oblation supplémentaire (celle à Vai<i>s</i>vânara) offerte lors de la cérémonie d'initiation. En tant qu'oblation « supplémentaire » ou spéciale au Vâ<i>g</i>apeya, Sâya<i>n</i>a fait référence à la bouillie de riz sauvage ([V, 1, 4, 12](Book_3_5_1#v5_1_4_12)) ; tandis qu'au Râ<i>g</i>asûya, celle à Anumati ([V, 2, 3, 4](Book_3_5_2#v5_2_3_4)) est censée appartenir à la même catégorie.
+[^484]: 246:2 Il s'agit, comme le suggère Sâya<i>n</i>a, de cérémonies comportant des oblations surnuméraires, ou supplémentaires, aux oblations normales qui leur sont associées. Cette discussion semble être introduite ici en raison de l'oblation supplémentaire (celle à Vai<i>s</i>vânara) offerte lors de la cérémonie d'initiation. En tant qu'oblation « supplémentaire » ou spéciale au Vâ<i>g</i>apeya, Sâya<i>n</i>a fait référence à la bouillie de riz sauvage ([V, 1, 4, 12](../Book_3_5_1#v5_1_4_12)) ; tandis qu'au Râ<i>g</i>asûya, celle à Anumati ([V, 2, 3, 4](../Book_3_5_2#v5_2_3_4)) est censée appartenir à la même catégorie.
 
 [^485]: 247:1 Ces offrandes et les suivantes font partie de la Dîkshâ, ou cérémonie d'initiation, pour le sacrifice du Soma à accomplir après l'achèvement de l'autel du feu. Cette cérémonie d'initiation commence le jour de la nouvelle lune, une semaine après la préparation de l'ukhâ, ou poêle à feu. Une partie intégrante (du premier jour de) cette cérémonie est l'allumage d'un feu dans l'ukhâ – l'« Ukhya Agni » – qui sert finalement à alimenter les autels en briques construits à l'achèvement de la période d'initiation. La Dîkshâ doit, en règle générale, être accomplie quotidiennement pendant un an, période durant laquelle le feu doit être entretenu dans l'ukhâ et transporté par le Sacrificateur pendant un certain temps chaque jour. tandis que le gâteau à Agni-Vish<i>n</i>u mentionné ici est l'offrande de gâteau ordinaire prescrite pour la Dîkshâ du sacrifice normal du Soma (voir III, 1, 3, 1), le gâteau Vai<i>s</i>vânara est particulier à l'Agni<i>k</i>ayana.
 
@@ -227,19 +227,19 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^487]: 249:2 Soit les cinq libations Audgrabha<i>n</i>a du sacrifice ordinaire du Soma, offertes de la manière décrite ici. Voir partie 2, p. 20, note.
 
-[^488]: 249:3 Bien qu'Agni, ou l'autel du feu, soit communément appelé celui à cinq couches (pa<i>ñ</i><i>k</i>a<i>k</i>itika), constitué de cinq p. 250 couches complètes de briques, au-dessus de celles-ci se trouve un petit empilement supplémentaire de deux couches, la couche inférieure (puna<i>s</i><i>k</i>iti) sous la forme du foyer de Gârhapatya ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.), et la couche supérieure, constituée de deux briques, sur lesquelles le feu est finalement posé. Voir [p. 188](Book_3_6_2#p188), note [4](Book_3_6_2#fn389). C'est pourquoi Agni est également appelé « sapta<i>k</i>itika ».
+[^488]: 249:3 Bien qu'Agni, ou l'autel du feu, soit communément appelé celui à cinq couches (pa<i>ñ</i><i>k</i>a<i>k</i>itika), constitué de cinq p. 250 couches complètes de briques, au-dessus de celles-ci se trouve un petit empilement supplémentaire de deux couches, la couche inférieure (puna<i>s</i><i>k</i>iti) sous la forme du foyer de Gârhapatya ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.), et la couche supérieure, constituée de deux briques, sur lesquelles le feu est finalement posé. Voir [p. 188](../Book_3_6_2#p188), note [4](../Book_3_6_2#fn389). C'est pourquoi Agni est également appelé « sapta<i>k</i>itika ».
 
 [^489]: 250:1 À savoir les sept libations spéciales Audgrabha<i>n</i>a de l'Agni<i>k</i>ayana.
 
 [^490]: 252:1 C'est-à-dire sous la couche de mu<i>ñ</i><i>g</i>a. Le roseau et le chanvre doivent être écrasés et réduits en poudre avant d'être jetés dans le brasier.
 
-[^491]: 254:1 Voir [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^491]: 254:1 Voir [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
-[^492]: 254:2 Le feu qui doit être placé en dernier lieu sur le nouveau foyer de Gârhapatya ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.) — d'où l'Âhavanîya sur le grand autel du feu doit être allumé — doit être produit dans l'ukhâ, ou poêle, pour ainsi dire dans son ventre ; mais la matière (herbe et chanvre) qui a déjà été mise dans la poêle, ne doit être allumée que par la flamme du feu sur lequel la poêle a été placée, sans qu'aucun charbon ardent ne soit appliqué au combustible à l'intérieur de la poêle.
+[^492]: 254:2 Le feu qui doit être placé en dernier lieu sur le nouveau foyer de Gârhapatya ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.) — d'où l'Âhavanîya sur le grand autel du feu doit être allumé — doit être produit dans l'ukhâ, ou poêle, pour ainsi dire dans son ventre ; mais la matière (herbe et chanvre) qui a déjà été mise dans la poêle, ne doit être allumée que par la flamme du feu sur lequel la poêle a été placée, sans qu'aucun charbon ardent ne soit appliqué au combustible à l'intérieur de la poêle.
 
-[^493]: 255:1 Le datif « ahi<i>m</i>sâyai » appartient sans doute à la première phrase du paragraphe (« il est trempé dans du ghee »), les propositions intermédiaires étant insérées à titre d'explication. Pour une construction similaire, voir ci-dessus, [p. 198](Book_3_6_3#p198), note [2](Book_3_6_3#fn407).
+[^493]: 255:1 Le datif « ahi<i>m</i>sâyai » appartient sans doute à la première phrase du paragraphe (« il est trempé dans du ghee »), les propositions intermédiaires étant insérées à titre d'explication. Pour une construction similaire, voir ci-dessus, [p. 198](../Book_3_6_3#p198), note [2](../Book_3_6_3#fn407).
 
-[^494]: 255:2 Voir [VI, 7, 2, 1](Book_3_6_7#v6_7_2_1).
+[^494]: 255:2 Voir [VI, 7, 2, 1](../Book_3_6_7#v6_7_2_1).
 
 [^495]: 255:3 L'ordre inversé des mots « <i>s</i>a<i>n</i>â <i>g</i>arâyu » est particulier. Il semble avoir été utilisé pour conserver ensemble les deux paires de sujets, « mu<i>ñ</i><i>g</i>â<i>h</i>\-<i>s</i>a<i>n</i>â<i>h</i> » et « <i>g</i>arâyu-ulbam ».
 
@@ -247,16 +247,16 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^497]: 260:1 Ou, son pouvoir spirituel et politique, son sacerdoce et sa noblesse.
 
-[^498]: 261:1 Voir [VI, 7, 4, 1](Book_3_6_7#v6_7_4_1) seq.
+[^498]: 261:1 Voir [VI, 7, 4, 1](../Book_3_6_7#v6_7_4_1) seq.
 
 [^499]: 261:2 Ou, libère la parole en lui.
 
-[^500]: 261:3 Voir ci-dessus, [VI, 6, 3, 8](Book_3_6_6#v6_6_3_8).
+[^500]: 261:3 Voir ci-dessus, [VI, 6, 3, 8](../Book_3_6_6#v6_6_3_8).
 
 [^501]: 261:4 Litt. 'fait en libation pour lui.'
 
-[^502]: 263:1 Voir [VI, 5, 2, 22](Book_3_6_5#v6_5_2_22).
+[^502]: 263:1 Voir [VI, 5, 2, 22](../Book_3_6_5#v6_5_2_22).
 
-[^503]: 263:2 Voir [VI, 5, 3, 7](Book_3_6_5#v6_5_3_7).
+[^503]: 263:2 Voir [VI, 5, 3, 7](../Book_3_6_5#v6_5_3_7).
 
-[^504]: 264:1 Voir [VI, 6, 1, 3](Book_3_6_6#v6_6_1_3) seq.
+[^504]: 264:1 Voir [VI, 6, 1, 3](../Book_3_6_6#v6_6_1_3) seq.

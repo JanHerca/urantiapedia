@@ -277,7 +277,7 @@ A. _Iddhî vidha_. Celui qui possède cela peut, en manipulant les forces de la 
 
 R. Non ; il les a expressément déconseillés, car ils tendent à semer la confusion dans l'esprit de ceux qui ne connaissent pas les principes impliqués. Ils incitent également leurs possesseurs à les montrer simplement pour satisfaire une curiosité oisive et leur propre vanité. De plus, des phénomènes similaires peuvent être démontrés par des magiciens et des sorciers experts en Laukika, ou la forme la plus basse de la science de l'Iddhî. Toute fausse prétention des moines à un accomplissement surnaturel compte parmi les péchés impardonnables (Tevijga Sutta).
 
-381\. Q. _Vous avez parlé d'un « déva » apparu au Prince [Siddhârtha](errata.htm#5) sous diverses formes ; que croient les bouddhistes concernant les races d'êtres élémentaires invisibles ayant des relations avec l'humanité ?_
+381\. Q. _Vous avez parlé d'un « déva » apparu au Prince [Siddhârtha](../errata.htm#5) sous diverses formes ; que croient les bouddhistes concernant les races d'êtres élémentaires invisibles ayant des relations avec l'humanité ?_
 
 A. Ils croient qu'il existe des êtres qui habitent des mondes ou des sphères qui leur sont propres. La doctrine bouddhiste est que, par son développement intérieur et sa conquête de sa nature inférieure, l'Arhat devient <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> supérieur même au plus redoutable des dévas, et peut soumettre et contrôler les ordres inférieurs.
 

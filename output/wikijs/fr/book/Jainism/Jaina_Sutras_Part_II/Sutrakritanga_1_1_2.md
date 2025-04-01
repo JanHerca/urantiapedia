@@ -146,7 +146,7 @@ Ainsi je dis.
 
 [^703]: 242:2 Il y a un jeu de mots entre viussanti et viussiyâ, dans la dernière ligne de ce verset viussanti est un verbe dénominatif de viusa = vidvân, et est traduit par vidvân ivâ <i>k</i>arati. Viussiya = vi + ut + <i>s</i>rita.
 
-[^704]: 242:3 Voir ci-dessus, [p. 83](Uttaradhyayana_18#p83). <i>S</i>îlâṅka définit ici les Kriyâvâdins comme des hommes qui soutiennent que le principal moyen d'atteindre Môksha est le <i>k</i>aityakarma, la construction de sanctuaires.
+[^704]: 242:3 Voir ci-dessus, [p. 83](../Uttaradhyayana_18#p83). <i>S</i>îlâṅka définit ici les Kriyâvâdins comme des hommes qui soutiennent que le principal moyen d'atteindre Môksha est le <i>k</i>aityakarma, la construction de sanctuaires.
 
 [^705]: 242:4 Il faut que l'on tue intentionnellement un être vivant pour que le Karman s'exerce sur l'âme. Si l'une des conditions essentielles qui constituent la culpabilité du meurtre (hi<i>m</i>sâ), p. 243, fait défaut, le Karman se produit néanmoins ; cependant, il ne s'empare pas fermement de l'âme, mais la « touche ». C'est bien sûr l'opinion des Kriyâvâdins.
 

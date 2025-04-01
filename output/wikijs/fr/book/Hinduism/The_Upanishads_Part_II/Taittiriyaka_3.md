@@ -90,13 +90,13 @@ Il a fait pénitence. Ayant fait pénitence…
 
 Il a perçu que la félicité est Brahman, car de la félicité naissent ces êtres ; par la félicité, lorsqu'ils naissent, ils vivent ; dans la félicité ils entrent à leur mort.
 
-Telle est la connaissance de Bh<i>ri</i>gu et Varu<i>n</i>a [1](Taittiriyaka_3#fn237), exaltés au plus haut des cieux (dans le cœur). Celui qui connaît cela devient exalté, devient riche en nourriture et capable de manger sainement, devient grand par sa descendance, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
+Telle est la connaissance de Bh<i>ri</i>gu et Varu<i>n</i>a [1](../Taittiriyaka_3#fn237), exaltés au plus haut des cieux (dans le cœur). Celui qui connaît cela devient exalté, devient riche en nourriture et capable de manger sainement, devient grand par sa descendance, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
 
 ## SEPTIÈME ANUVÂKA.
 
 Qu'il n'abuse jamais de la nourriture, c'est la règle.
 
-Le souffle est nourriture [2](Taittiriyaka_3#fn238), le corps mange la nourriture. Le corps repose sur le souffle, le souffle repose sur le corps. Telle est la nourriture qui repose sur la nourriture. Celui qui connaît cette nourriture qui repose sur la nourriture [3](Taittiriyaka_3#fn239), demeure exalté, devient riche en nourriture et capable de manger (en bonne santé), devient grand par sa progéniture, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
+Le souffle est nourriture [2](../Taittiriyaka_3#fn238), le corps mange la nourriture. Le corps repose sur le souffle, le souffle repose sur le corps. Telle est la nourriture qui repose sur la nourriture. Celui qui connaît cette nourriture qui repose sur la nourriture [3](../Taittiriyaka_3#fn239), demeure exalté, devient riche en nourriture et capable de manger (en bonne santé), devient grand par sa progéniture, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
 
 ## HUITIÈME ANUVÂKA.
 

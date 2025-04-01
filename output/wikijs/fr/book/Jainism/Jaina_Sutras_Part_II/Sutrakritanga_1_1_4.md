@@ -112,4 +112,4 @@ Ainsi je dis.
 
 [^729]: 248:5 Nombre = maya.
 
-[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Comparer les expressions similaires dans I, 1, 2, 12, ci-dessus, [p. 241](Sutrakritanga_1_1_2#p241), notes 1-4, et I, 2, 2, 29, ci-dessous, [p. 257](Sutrakritanga_1_2_2#p257).
+[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Comparer les expressions similaires dans I, 1, 2, 12, ci-dessus, [p. 241](../Sutrakritanga_1_1_2#p241), notes 1-4, et I, 2, 2, 29, ci-dessous, [p. 257](../Sutrakritanga_1_2_2#p257).

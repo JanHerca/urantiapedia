@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 6\. Lorsqu'un Israélite tuait, et qu'un prêtre recueillait le sang, il le donnait à son compagnon, et son compagnon à son compagnon ; il prenait le sang plein et rendait le sang vide. Le prêtre le plus proche de l'autel le versait aussitôt devant les fondements de l'autel.
 
-7\. La première troupe sortit, la deuxième entra ; la deuxième sortit, la troisième entra. Tel était le procédé de la première, tel était le procédé de la deuxième et de la troisième. Ils lurent la louange. [^152] Lorsqu'ils eurent terminé, ils la répétèrent, et après l'avoir répétée, ils la lurent une troisième fois, bien qu'ils ne l'aient pas achevée trois fois en leur temps. Rabbi Judah dit : « Pendant le temps de la troisième troupe, ils n'arrivèrent pas à dire : “J'aime l'Éternel, car il a entendu”, car le peuple était peu nombreux. »
+7\. La première troupe sortit, la deuxième entra ; la deuxième sortit, la troisième entra. Tel était le procédé de la première, tel était le procédé de la deuxième et de la troisième. Ils lurent la louange. [^152] Lorsqu'ils eurent terminé, ils la répétèrent, et après l'avoir répétée, ils la lurent une troisième fois, bien qu'ils ne l'aient pas achevée trois fois en leur temps. Rabbi Judah dit : « Pendant le temps de la troisième troupe, ils n'arrivèrent pas à dire : « J'aime l'Éternel, car il a entendu », car le peuple était peu nombreux. »
 
 8\. Comme en temps ordinaire, le sabbat se déroulait de la même manière, sauf que les prêtres nettoyaient le parvis, [^153] contrairement à la volonté des Sages. Rabbi Judah a dit : « Une coupe fut remplie de sang mêlé, [^154] et versée aussitôt sur l’autel » ; mais les Sages « ne l’admirent pas ».
 

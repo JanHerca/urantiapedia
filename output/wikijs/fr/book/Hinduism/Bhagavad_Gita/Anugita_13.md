@@ -34,7 +34,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 Le Brâhma<i>n</i>a dit :
 
-Je ne sens pas les odeurs, je ne perçois aucun goût, je ne vois aucune couleur, et je ne touche pas, et je n'entends pas non plus divers sons, et je n'entretiens même aucune imagination [^1391]. La nature désire les objets qui sont aimés ; la nature hait tous les (objets) haïssables [^1392]. Le désir et la haine naissent de la nature [^1393]comme les vents de vie ascendants et <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> descendants, après avoir atteint les corps des créatures vivantes. En dehors d'eux, et comme l'entité constante qui les sous-tend, je vois le soi individuel dans le corps. Demeurant en ce (soi), je ne suis en aucune façon attaché [^1394] (à quoi que ce soit) par le désir, la colère, la vieillesse ou la mort. Ne désirant aucun objet de désir, ne haïssant aucun mal, il n'y a aucune souillure sur ma nature [^1395], comme il n'y a aucune souillure d'une goutte d'eau sur les lotus [^1396]. Ce sont des choses inconstantes appartenant à ce principe constant qui observe les différentes natures. Bien que des actions soient accomplies, le filet des plaisirs ne s'y attache pas, comme le filet des rayons du soleil ne s'attache pas au ciel [^1397]. À ce sujet [^1398] également, ils racontent une histoire ancienne, (sous la forme) d'un dialogue entre un prêtre Adhvaryu et un ascète. Comprends cela, ô glorieux ! Voyant un animal se faire asperger [^1399] lors d'une cérémonie sacrificielle, un ascète assis (là) s'adressa à l'Adhvaryu, censurant (l'acte) comme une destruction de vie. L'Adhvaryu <span id="p290">[<sup><small>p. 290] lui répondit : « Ce bouc ne sera pas détruit. Cette créature obtiendra le bien-être, puisque le texte védique l’affirme. Car ce qui est terrestre en lui ira à la terre ; tout ce qui est produit de l’eau en lui entrera dans l’eau. Son œil entrera dans le soleil, son oreille dans les quartiers, et ses vents de vie dans le ciel [^1400]. Il n’y a aucune offense de ma part, adhérant (comme je le fais) aux Écritures [^1401]. »
+Je ne sens pas les odeurs, je ne perçois aucun goût, je ne vois aucune couleur, et je ne touche pas, et je n'entends pas non plus divers sons, et je n'entretiens même aucune imagination [^1391]. La nature désire les objets qui sont aimés ; la nature hait tous les (objets) haïssables [^1392]. Le désir et la haine naissent de la nature [^1393]comme les vents de vie ascendants et <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> descendants, après avoir atteint les corps des créatures vivantes. En dehors d'eux, et comme l'entité constante qui les sous-tend, je vois le soi individuel dans le corps. Demeurant en ce (soi), je ne suis en aucune façon attaché [^1394] (à quoi que ce soit) par le désir, la colère, la vieillesse ou la mort. Ne désirant aucun objet de désir, ne haïssant aucun mal, il n'y a aucune souillure sur ma nature [^1395], comme il n'y a aucune souillure d'une goutte d'eau sur les lotus [^1396]. Ce sont des choses inconstantes appartenant à ce principe constant qui observe les différentes natures. Bien que des actions soient accomplies, le filet des plaisirs ne s'y attache pas, comme le filet des rayons du soleil ne s'attache pas au ciel [^1397]. À ce sujet [^1398] également, ils racontent une histoire ancienne, (sous la forme) d'un dialogue entre un prêtre Adhvaryu et un ascète. Comprends cela, ô glorieux ! Voyant un animal se faire asperger [^1399] lors d'une cérémonie sacrificielle, un ascète assis (là) s'adressa à l'Adhvaryu, censurant (l'acte) comme une destruction de vie. L'Adhvaryu <span id="p290"><sup><small>[ p. 290 ]</small></sup>]</span> lui répondit : « Ce bouc ne sera pas détruit. Cette créature obtiendra le bien-être, puisque le texte védique l’affirme. Car ce qui est terrestre en lui ira à la terre ; tout ce qui est produit de l’eau en lui entrera dans l’eau. Son œil entrera dans le soleil, son oreille dans les quartiers, et ses vents de vie dans le ciel [^1400]. Il n’y a aucune offense de ma part, adhérant (comme je le fais) aux Écritures [^1401]. »
 
 L'ascète dit :
 
@@ -52,7 +52,7 @@ L'indestructible et le destructible, telle est la double manifestation du soi. P
 
 L'Adhvaryu a dit :
 
-Ô le meilleur des hommes talentueux ! On ne devrait en ce monde vivre qu'en compagnie d'hommes de bien [1](Anugita_14#fn1417). Car après avoir entendu votre opinion, mon esprit est éclairé. Ô vénérable monsieur ! Je m'approche de vous, convaincu que vous êtes le Seigneur ; et je vous dis : Ô deux fois né ! Il n'y a aucun péché en moi, accomplissant comme je l'ai fait les rites accomplis par d'autres [2](Anugita_14#fn1418).
+Ô le meilleur des hommes talentueux ! On ne devrait en ce monde vivre qu'en compagnie d'hommes de bien [1](../Anugita_14#fn1417). Car après avoir entendu votre opinion, mon esprit est éclairé. Ô vénérable monsieur ! Je m'approche de vous, convaincu que vous êtes le Seigneur ; et je vous dis : Ô deux fois né ! Il n'y a aucun péché en moi, accomplissant comme je l'ai fait les rites accomplis par d'autres [2](../Anugita_14#fn1418).
 
 Le Brâhma<i>n</i>a dit :
 
@@ -90,27 +90,27 @@ Après cette explication, l'ascète garda le silence, et l'Adhvaryu procéda lui
 
 [^1394]: 288:3 La connaissance est Brahman, qui est décrit ici comme une forêt, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1395]: 288:4 Cf. Gita, [p. 70](Bhagavadgita_6#p70).
+[^1395]: 288:4 Cf. Gita, [p. 70](../Bhagavadgita_6#p70).
 
 [^1396]: 288:5 C'est le nom des opérations de l'esprit.
 
-[^1397]: 288:6 Le sens est similaire à celui de la Gîtâ, [p. 55](Bhagavadgita_3#p55). Le soi n'a rien à voir avec ces sentiments ; les qualités traitent des qualités.
+[^1397]: 288:6 Le sens est similaire à celui de la Gîtâ, [p. 55](../Bhagavadgita_3#p55). Le soi n'a rien à voir avec ces sentiments ; les qualités traitent des qualités.
 
-[^1398]: 288:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65). Le sens de la nature ici, comme dans la Gîtâ, est en substance le résultat de toute action antérieure à laquelle le soi a été associé, résultat qui, bien sûr, existe en lien non pas avec le soi, mais avec les développements de la nature, sous la forme du corps, p. 289 des sens, etc. La comparaison semble signifier que les sentiments de désir, etc. sont, comme les vents de la vie, sans lien avec le soi, bien qu'associés à lui, et sont tous deux des manifestations de la nature.
+[^1398]: 288:7 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65). Le sens de la nature ici, comme dans la Gîtâ, est en substance le résultat de toute action antérieure à laquelle le soi a été associé, résultat qui, bien sûr, existe en lien non pas avec le soi, mais avec les développements de la nature, sous la forme du corps, p. 289 des sens, etc. La comparaison semble signifier que les sentiments de désir, etc. sont, comme les vents de la vie, sans lien avec le soi, bien qu'associés à lui, et sont tous deux des manifestations de la nature.
 
 [^1399]: 289:1 Nîlaka<i>nth</i>a compare B<i>nth</i>hadâra<i>n</i>yaka, p. 770. A<i>g</i>una Mi<i>s</i>ra a une lecture différente, signifiant « susceptible (d'être subjugué). »
 
-[^1400]: 289:2 Le pluriel, qui figure dans l'original, est inhabituel. Les différents aspects du « résultat » énoncé dans [p. 288](Anugita_12#p288), note [^1393], considérés séparément, sont décrits comme des « natures », comme les feuilles d'un lotus, qui, dans leur ensemble, forment un lotus.
+[^1400]: 289:2 Le pluriel, qui figure dans l'original, est inhabituel. Les différents aspects du « résultat » énoncé dans [p. 288](../Anugita_12#p288), note [^1393], considérés séparément, sont décrits comme des « natures », comme les feuilles d'un lotus, qui, dans leur ensemble, forment un lotus.
 
-[^1401]: 289:3 Lalita Vistara, p. 2, et [p. 64](Bhagavadgita_5#p64) supra.
+[^1401]: 289:3 Lalita Vistara, p. 2, et [p. 64](../Bhagavadgita_5#p64) supra.
 
-[^1402]: 289:4 La figure semble être quelque peu semblable à celle de la Gîtâ, [p. 82](Bhagavadgita_9#p82), à propos de l'atmosphère et de l'espace, ce dernier restant intact par le premier. Considérant diverses natures, c'est-à-dire distinctes du soi.
+[^1402]: 289:4 La figure semble être quelque peu semblable à celle de la Gîtâ, [p. 82](../Bhagavadgita_9#p82), à propos de l'atmosphère et de l'espace, ce dernier restant intact par le premier. Considérant diverses natures, c'est-à-dire distinctes du soi.
 
 [^1403]: 289:5 Soit le reste intact.
 
 [^1404]: 289:6 C'est-à-dire avec de l'eau, en préparation de son offrande pour le sacrifice.
 
-[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 542, et [p. 337](Anugita_27#p337) ci-dessous.
+[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 542, et [p. 337](../Anugita_27#p337) ci-dessous.
 
 [^1406]: 290:2 Cf. <i>Kh</i>ândogya-upanishad, p. 627, et aussi <i>S</i>ârîraka Bhâshya sur Sûtra III, 1, 25, p. 774.
 
@@ -122,7 +122,7 @@ Après cette explication, l'ascète garda le silence, et l'Adhvaryu procéda lui
 
 [^1410]: 291:1 Ce n'est pas très clair, mais le sens semble être que l'abattage est commis pour le plaisir du sacrificateur ; le sacrificateur n'a besoin que de combustible, et l'animal abattu est ensuite utilisé à cette fin.
 
-[^1411]: 291:2 Cf. <i>Kh</i>ândogya, p. 627, et note suivante ; et Gîtâ, entre autres, [p. 114](Bhagavadgita_15#p114), et [p. 348](Anugita_28#p348) infra.
+[^1411]: 291:2 Cf. <i>Kh</i>ândogya, p. 627, et note suivante ; et Gîtâ, entre autres, [p. 114](../Bhagavadgita_15#p114), et [p. 348](../Anugita_28#p348) infra.
 
 [^1412]: 291:3 Voir Sânkhyatattvaktumudi, p. 7.
 
@@ -132,9 +132,9 @@ Après cette explication, l'ascète garda le silence, et l'Adhvaryu procéda lui
 
 [^1415]: 291:6 C'est-à-dire le support du corps, dit Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra l'interprète autrement, « la vraie nature du Sat, le soi ». Nîlaka<i>nth</i>a traduit l'original par sadrûpam sans autre explication. Cet indestructible semble correspondre à celui mentionné dans la Gîtâ, [p. 113](Bhagavadgita_15#p113), qui doit être considéré en relation avec la Gîtâ, pp. [73](Bhagavadgita_6#p73), [74](Bhagavadgita_7#p74). La note de la page précédente n'est peut-être pas tout à fait exprimée avec précision, car le mot « cause matérielle » véhicule des associations inadmissibles. Peut-être « principe sous-jacent » serait-il une approche plus proche de l'idée correcte. L'existant sera donc ce qui existe réellement, car il est indestructible.
+[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra l'interprète autrement, « la vraie nature du Sat, le soi ». Nîlaka<i>nth</i>a traduit l'original par sadrûpam sans autre explication. Cet indestructible semble correspondre à celui mentionné dans la Gîtâ, [p. 113](../Bhagavadgita_15#p113), qui doit être considéré en relation avec la Gîtâ, pp. [73](../Bhagavadgita_6#p73), [74](../Bhagavadgita_7#p74). La note de la page précédente n'est peut-être pas tout à fait exprimée avec précision, car le mot « cause matérielle » véhicule des associations inadmissibles. Peut-être « principe sous-jacent » serait-il une approche plus proche de l'idée correcte. L'existant sera donc ce qui existe réellement, car il est indestructible.
 
-[^1417]: 292:2 Cf. Gita, [p. 77](Bhagavadgita_7#p77).
+[^1417]: 292:2 Cf. Gita, [p. 77](../Bhagavadgita_7#p77).
 
 [^1418]: 292:3 Voir <i>S</i>ânti Parvan (Moksha), ch. 240, st. 31.
 
@@ -142,4 +142,4 @@ Après cette explication, l'ascète garda le silence, et l'Adhvaryu procéda lui
 
 [^1420]: 292:5 Libéré scil. de la piété ou de l'impiété, etc., — Ar<i>g</i>una Mi<i>s</i>ra, qui dit « Soi » dans la phrase précédente signifie esprit.
 
-[^1421]: 292:6 Car, dit Ar<i>g</i>una Mi<i>s</i>ra, selon l'autorité même qui dit qu'il y a péché dans le massacre, tout péché est détruit par la connaissance. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1421]: 292:6 Car, dit Ar<i>g</i>una Mi<i>s</i>ra, selon l'autorité même qui dit qu'il y a péché dans le massacre, tout péché est détruit par la connaissance. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).

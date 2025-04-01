@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
-Ce Ya<i>s</i>t devrait suivre immédiatement le Tîr Ya<i>s</i>t, car il dérive de la même formule de Sîrôzah ; celle dans laquelle Ti<i>s</i>trya est invoqué avec Vana<i>n</i><i>t</i> et Haptôiri<i>n</i>ga (Sîrôzah, § 13). Il s'agit d'un simple supplément à ce Ya<i>s</i>t. Sur Vana<i>n</i><i>t</i>, voir [p. 97](Yasts_8#p97), note [6](Yasts_8#fn481).
+Ce Ya<i>s</i>t devrait suivre immédiatement le Tîr Ya<i>s</i>t, car il dérive de la même formule de Sîrôzah ; celle dans laquelle Ti<i>s</i>trya est invoqué avec Vana<i>n</i><i>t</i> et Haptôiri<i>n</i>ga (Sîrôzah, § 13). Il s'agit d'un simple supplément à ce Ya<i>s</i>t. Sur Vana<i>n</i><i>t</i>, voir [p. 97](../Yasts_8#p97), note [6](../Yasts_8#fn481).
 
 ---
 
@@ -90,7 +90,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1388]: 310:1 Voir [p. 13](Sirozahs_1#p13), note [2](Sirozahs_1#fn96).
+[^1388]: 310:1 Voir [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
 
 [^1389]: 310:2 Les reptiles et autres créatures ahrimaniennes (Vendîdâd, Introd. V, 11) qui sont détruits par la pluie (Bund. VII, 7).
 

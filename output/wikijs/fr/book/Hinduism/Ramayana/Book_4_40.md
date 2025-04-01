@@ -199,7 +199,7 @@ Tenant son arme puissante, il se tient debout.
 Son message est le conducteur du char
 Cela rapproche l'envoyé impatient,
 Poussé en avant par son intention audacieuse,
-Et envoyé par ordre de Rama. [1](Book_4_40#fn636)
+Et envoyé par ordre de Rama. [1](../Book_4_40#fn636)
 Les Vánars rassemblés virent et s'enfuirent,
 Et ils poussèrent haut leur cri de terreur.
 Fils de la reine Tárá, Angad courut
@@ -641,7 +641,7 @@ Et heureuse réunion de Ráma
 À Sitá, rivale de joie
 
 De la Lune triomphante quand il
-Il rejoint sa chérie Rohiní. [1b](Book_4_40#fn643)
+Il rejoint sa chérie Rohiní. [1b](../Book_4_40#fn643)
 Dix millions de millions de démons gardent
 Les portes de Lanká sont fermement fermées.
 Tout espoir jusqu'à ce que cette armée soit tuée,
@@ -972,7 +972,7 @@ Des dieux, [^651] ils changent de forme selon les besoins.
 Chacun avec ses légions en ordre de bataille,
 Ici, ô Prince, ils se dirigent,
 Ils arrivent : et des dizaines de millions grossissent
-Aux nombres qu'aucune langue ne peut dire. [1b](Book_4_40#fn652)
+Aux nombres qu'aucune langue ne peut dire. [1b](../Book_4_40#fn652)
 Pour toi leurs armées s'uniront
 Avec les chefs, les pairs de Mahendra en puissance.
 De Meru et de la chaîne de Vindhya
@@ -1066,7 +1066,7 @@ Avec des myriades grouillantes pressées vers l'avant
 Fidèle à la promesse de son seigneur Sugríva ;
 Et le princier roumain, cher à la renommée,
 A conduit des millions de personnes qu'aucun hôte ne pouvait dompter,
-Tous ceux-ci et bien d'autres chefs encore [1b](Book_4_40#fn660)
+Tous ceux-ci et bien d'autres chefs encore [1b](../Book_4_40#fn660)
 Il s'avança avec acharnement et fierté guerrière.
 Ils couvraient toute la plaine, et pourtant
 Nous avons avancé à travers les bois et les collines.

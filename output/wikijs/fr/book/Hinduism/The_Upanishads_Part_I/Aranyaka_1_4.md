@@ -76,7 +76,7 @@ QUATRIÈME ADHYÂYA.
 
 10\. Il (l'oiseau et l'hymne) est soutenu par deux dizaines qui sont Virâ<i>g</i>. L'homme (le sacrificateur) est soutenu par les deux Dvipadâs, le vingt et unième et le vingt-deuxième. Ce qui forme l'oiseau sert à la réalisation de tous les désirs ; ce qui forme l'homme sert à son bonheur, à sa gloire, à sa nourriture et à son honneur.
 
-11\. Vient ensuite un verset Sûdadohas, puis un Dhayyâ, puis un autre verset Sûdadohas. Le Sûdadohas est un homme, la Dhayyâ une femme ; il récite donc le Dhayyâ tel qu'il est embrassé de part et d'autre par le Sûdadohas. C'est pourquoi la semence des deux, lorsqu'elle est répandue, atteint l'unité, et cela uniquement pour la femme. C'est pourquoi la naissance a lieu dans et à partir de la femme. C'est pourquoi il récite ce Dhayyâ à cet endroit [1](Aranyaka_1_4#fn473).
+11\. Vient ensuite un verset Sûdadohas, puis un Dhayyâ, puis un autre verset Sûdadohas. Le Sûdadohas est un homme, la Dhayyâ une femme ; il récite donc le Dhayyâ tel qu'il est embrassé de part et d'autre par le Sûdadohas. C'est pourquoi la semence des deux, lorsqu'elle est répandue, atteint l'unité, et cela uniquement pour la femme. C'est pourquoi la naissance a lieu dans et à partir de la femme. C'est pourquoi il récite ce Dhayyâ à cet endroit [1](../Aranyaka_1_4#fn473).
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 

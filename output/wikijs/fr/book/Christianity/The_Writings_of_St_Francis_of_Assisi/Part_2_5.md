@@ -80,7 +80,7 @@ Et à tous mes frères gardiens qui recevront ce document, qu'ils le copient, le
 
 ## Notes de bas de page
 
-[^512] : 127:1 Cod. 225, mentionné ci-dessus ([p. 110](Part_2_2#p110)). Voir Bartholi de Sabatier, p. 135.
+[^512] : 127:1 Cod. 225, mentionné ci-dessus ([p. 110](../Part_2_2#p110)). Voir Bartholi de Sabatier, p. 135.
 
 [^513]: 127:2 Apparemment une allusion aux mystères de l'Eucharistie.
 

@@ -44,11 +44,11 @@ Mais un homme toujours dans l'ignorance, sujet à la vieillesse et à la mort, n
 
 Connaissant la misère qui résulte de l’action,
 L'égaré et l'insouciant revient à la vie ; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Sans tenir compte des sons et des couleurs, debout,
-En évitant Mâra, on est libéré de la mort [1](Akaranga_1_3#fn156).
+En évitant Mâra, on est libéré de la mort [1](../Akaranga_1_3#fn156).
 
-S'abstenant soigneusement des plaisirs et cessant les mauvaises actions, il est un héros, se protégeant lui-même, qui est fondé sur la connaissance [2](Akaranga_1_3#fn157). (3) Celui qui connaît la violence exercée pour des objets particuliers, sait ce qui est exempt de violence [3](Akaranga_1_3#fn158) ; celui qui connaît ce qui est exempt de violence, connaît la violence exercée pour des objets particuliers. Pour celui qui est sans karman, il n'y a pas d'appellation [4](Akaranga_1_3#fn159). La condition des êtres vivants découle du karman.
+S'abstenant soigneusement des plaisirs et cessant les mauvaises actions, il est un héros, se protégeant lui-même, qui est fondé sur la connaissance [2](../Akaranga_1_3#fn157). (3) Celui qui connaît la violence exercée pour des objets particuliers, sait ce qui est exempt de violence [3](../Akaranga_1_3#fn158) ; celui qui connaît ce qui est exempt de violence, connaît la violence exercée pour des objets particuliers. Pour celui qui est sans karman, il n'y a pas d'appellation [4](../Akaranga_1_3#fn159). La condition des êtres vivants découle du karman.
 
-En examinant le karman et sa racine, c'est-à-dire en le tuant [5](Akaranga_1_3#fn160), en l'examinant et en adoptant son contraire [6](Akaranga_1_3#fn161), on ne le perçoit pas sous les deux angles [7](Akaranga_1_3#fn162). Sachant cela, un homme sage qui connaît le monde et a rejeté l'idée du monde devrait vaincre prudemment les obstacles à la droiture [8](Akaranga_1_3#fn163). Ainsi dis-je. (4)
+En examinant le karman et sa racine, c'est-à-dire en le tuant [5](../Akaranga_1_3#fn160), en l'examinant et en adoptant son contraire [6](../Akaranga_1_3#fn161), on ne le perçoit pas sous les deux angles [7](../Akaranga_1_3#fn162). Sachant cela, un homme sage qui connaît le monde et a rejeté l'idée du monde devrait vaincre prudemment les obstacles à la droiture [8](../Akaranga_1_3#fn163). Ainsi dis-je. (4)
 
 
 
@@ -175,7 +175,7 @@ Fin de la troisième conférence, intitulée Chaud et froid.
 
 [^160]: 29:4 En tant qu'homme, dieu, être de l'enfer, jeune, vieux, etc.
 
-[^161] : 29:5 Voir [p. 28](Akaranga_1_2#p28), note [4](Akaranga_1_2#fn155).
+[^161] : 29:5 Voir [p. 28](../Akaranga_1_2#p28), note [4](../Akaranga_1_2#fn155).
 
 [^162]: 29:6 Littéralement, le côté gauche (savyam) ; le contrôle est prévu.
 

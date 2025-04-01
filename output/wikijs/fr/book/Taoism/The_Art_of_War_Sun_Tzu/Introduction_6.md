@@ -129,7 +129,7 @@ A ceux-ci, il faut bien sûr ajouter le grand Catalogue de la Bibliothèque Imp�
 
 [^159]: l:2 #.
 
-[^160]: l:3 Voir [p. 174](13#p174). On trouvera plus de détails sur T'ai Kung dans le _Shih Chi_, ch. 32 _ad init_. Outre la tradition qui fait de lui un ancien ministre de Chou Hsin, on y trouve deux autres récits de lui, selon lesquels il semble avoir été élevé d'une humble position privée par Wên Wang.
+[^160]: l:3 Voir [p. 174](../13#p174). On trouvera plus de détails sur T'ai Kung dans le _Shih Chi_, ch. 32 _ad init_. Outre la tradition qui fait de lui un ancien ministre de Chou Hsin, on y trouve deux autres récits de lui, selon lesquels il semble avoir été élevé d'une humble position privée par Wên Wang.
 
 [^161]: li:1 #.
 

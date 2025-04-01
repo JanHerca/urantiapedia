@@ -304,9 +304,9 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1460]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) appartient au § 2 (W.).
 
-[^1461]: 328:6 Voir [p. 326](Yasts_23#p326), note [8](Yasts_23#fn1374).
+[^1461]: 328:6 Voir [p. 326](../Yasts_23#p326), note [8](../Yasts_23#fn1374).
 
-[^1462]: 328:7 Voir [p. 326](Yasts_23#p326), note [9](Yasts_23#fn1375).
+[^1462]: 328:7 Voir [p. 326](../Yasts_23#p326), note [9](../Yasts_23#fn1375).
 
 [^1463]: 328:8 Immortalité (cf. Yt. XXIII, 7). W. a ashem merezô = moralement pathétique, amer (Pahl.).
 
@@ -344,7 +344,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1480]: 330:7 Voir Vend. Introd. IV, 30.
 
-[^1481]: 330:8 Voir [p. 11](Sirozahs_1#p11), note [5](Sirozahs_1#fn77).
+[^1481]: 330:8 Voir [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
 
 [^1482]: 330:9 Parents.
 
@@ -400,7 +400,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1508]: 335:4 L'âme du juste.
 
-[^1509]: 335:5 Voir page [152](Yasts_10#p152), note [1](Yasts_10#fn698).
+[^1509]: 335:5 Voir page [152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
 [^1510]: 335:6 Le Pahlavi a « la voie de Zarathustra » (lâ Zartûhstîg râs yakhsûnît).
 

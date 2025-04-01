@@ -382,7 +382,7 @@ Nous vénérons Râma Hvâstra et Vayu, dont l'œuvre est d'une puissance supér
 
 [^146]: 30:1 De Yasna XLIV, 16; cf. Vendîdad VIII, 20.
 
-[^147]: 30:2 Voir Sîrôzah I, 9, [p. 7](Sirozahs_1#p7), note [2](Sirozahs_1#fn40).
+[^147]: 30:2 Voir Sîrôzah I, 9, [p. 7](../Sirozahs_1#p7), note [2](../Sirozahs_1#fn40).
 
 [^148]: 30:3 Iran Végétarien; voir Vendidad, p. 3.
 

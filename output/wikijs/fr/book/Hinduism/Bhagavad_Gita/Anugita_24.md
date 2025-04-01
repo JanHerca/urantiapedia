@@ -62,25 +62,25 @@ Les qualités ne peuvent être expliquées de manière totalement distincte. La 
 
 ## Notes de bas de page
 
-[^1599]: 328 : 1 Cf. Gîtâ entre autres, [p. 104](Bhagavadgita_13#p104).
+[^1599]: 328 : 1 Cf. Gîtâ entre autres, [p. 104](../Bhagavadgita_13#p104).
 
-[^1600]: 328:2 Cf. [p. 318](Anugita_21#p318) ci-dessus.
+[^1600]: 328:2 Cf. [p. 318](../Anugita_21#p318) ci-dessus.
 
-[^1601]: 328:3 Ainsi, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a dit à ce sujet : « Aussi grande que soit la bonté, elle est toujours tenue en joue par l'obscurité, et ainsi il y a une relation continuelle entre ce qui freine et ce qui est freiné entre les trois qualités ; elles sont donc semblables. De même, la passion, étant accrue, maintient la bonté et l'obscurité en joue. Le sentiment semble être que les qualités dominent tout en ce monde et existent ensemble, bien que leur force varie » (Gîtâ, [p. 73](Bhagavadgita_6#p73)).
+[^1601]: 328:3 Ainsi, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a dit à ce sujet : « Aussi grande que soit la bonté, elle est toujours tenue en joue par l'obscurité, et ainsi il y a une relation continuelle entre ce qui freine et ce qui est freiné entre les trois qualités ; elles sont donc semblables. De même, la passion, étant accrue, maintient la bonté et l'obscurité en joue. Le sentiment semble être que les qualités dominent tout en ce monde et existent ensemble, bien que leur force varie » (Gîtâ, [p. 73](../Bhagavadgita_6#p73)).
 
 [^1602]: 328:4 C'est-à-dire spontanément, Ar<i>g</i>una Mi<i>s</i>ra. Cf. <i>S</i>ânti Parvan (Moksha), chap. 194, st. 35.
 
 [^1603]: 328:5 C'est dans les espèces inférieures que l'obscurité prédomine.
 
-[^1604]: 329:1 C'est-à-dire l'espèce humaine, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1604]: 329:1 C'est-à-dire l'espèce humaine, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109).
 
-[^1605]: 329:2 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109), et également [p. 327](Anugita_23#p327) supra. Dans son Sânkhyatattvakaumudî, Vâkâspati Miṭsra applique cette épithète aux yogis (voir p. 13 de l'édition de Târânâth, et la note de l'éditeur).
+[^1605]: 329:2 Voir Gîtâ, [p. 109](../Bhagavadgita_14#p109), et également [p. 327](../Anugita_23#p327) supra. Dans son Sânkhyatattvakaumudî, Vâkâspati Miṭsra applique cette épithète aux yogis (voir p. 13 de l'édition de Târânâth, et la note de l'éditeur).
 
-[^1606]: 329 : 3 Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1606]: 329 : 3 Cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
-[^1607]: 329:4 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109). Les modifications des sens constituant la perception par eux sont une opération de la qualité de bonté. Tel semble être le sens du texte ; à ce sujet, cf. Tattvakaumudi, p. 14 (édition de Târânâth).
+[^1607]: 329:4 Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109). Les modifications des sens constituant la perception par eux sont une opération de la qualité de bonté. Tel semble être le sens du texte ; à ce sujet, cf. Tattvakaumudi, p. 14 (édition de Târânâth).
 
-[^1608]: 329:5 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109) ; les mots sont presque identiques.
+[^1608]: 329:5 Voir Gîtâ, [p. 109](../Bhagavadgita_14#p109) ; les mots sont presque identiques.
 
 [^1609]: 329:6 Cf. Sânti Parvan (Moksha), chap. 188, st. 15. Le Vai<i>s</i>ya est omis ici.
 
@@ -90,13 +90,13 @@ Les qualités ne peuvent être expliquées de manière totalement distincte. La 
 
 [^1612]: 330:2 C'est-à-dire les jours de conjonction ou d'opposition de la lune.
 
-[^1613]: 330:3 Je comprends cela comme signifiant que dans les « entités immobiles », les trois qualités coexistent ; la naissance dans les espèces inférieures est un effet de l'obscurité ; les qualités variables, à savoir la chaleur, etc., comme le dit Ar<i>g</i>una Mi<i>s</i>ra, sont les propriétés de la passion ; et les propriétés oléagineuses parmi elles appartiennent à la bonté, car, dit Ar<i>g</i>una Mi<i>s</i>ra, elles sont sources de plaisir (cf. Gîtâ, [p. 118](Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a dit : « Les entités immobiles étant très inintelligentes, l'obscurité est très développée parmi elles », mais cette dernière interprétation, en tant qu'interprétation de tiryagbhâvagata, me paraît à la fois injustifiée et inappropriée ici.
+[^1613]: 330:3 Je comprends cela comme signifiant que dans les « entités immobiles », les trois qualités coexistent ; la naissance dans les espèces inférieures est un effet de l'obscurité ; les qualités variables, à savoir la chaleur, etc., comme le dit Ar<i>g</i>una Mi<i>s</i>ra, sont les propriétés de la passion ; et les propriétés oléagineuses parmi elles appartiennent à la bonté, car, dit Ar<i>g</i>una Mi<i>s</i>ra, elles sont sources de plaisir (cf. Gîtâ, [p. 118](../Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a dit : « Les entités immobiles étant très inintelligentes, l'obscurité est très développée parmi elles », mais cette dernière interprétation, en tant qu'interprétation de tiryagbhâvagata, me paraît à la fois injustifiée et inappropriée ici.
 
 [^1614]: 330:4 Cela désigne-t-il la période entre la fin d'un yuga ou d'un âge et le début d'un autre ? C'est le seul sens ejusdem generis auquel je puisse penser, avec les mots qui le précèdent ; pourtant, le saut entre les années et les yuga-sandhis est long.
 
-[^1615]: 330:5 Cf. Gîtâ, [p. 120](Bhagavadgita_17#p120). En ce qui concerne au moins certaines des choses énumérées ici, cette division serait plutôt fantaisiste.
+[^1615]: 330:5 Cf. Gîtâ, [p. 120](../Bhagavadgita_17#p120). En ce qui concerne au moins certaines des choses énumérées ici, cette division serait plutôt fantaisiste.
 
-[^1616]: 331:1 voir ces trois mentionnés dans <i>Kh</i>ândogya, pp. 340-359. Quant aux domaines de la connaissance, cf. Gîtâ, [p. 84](Bhagavadgita_9#p84) ; Ar<i>g</i>una Mi<i>s</i>ra dit : « les Védas triples. »
+[^1616]: 331:1 voir ces trois mentionnés dans <i>Kh</i>ândogya, pp. 340-359. Quant aux domaines de la connaissance, cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84) ; Ar<i>g</i>una Mi<i>s</i>ra dit : « les Védas triples. »
 
 [^1617]: 331:2 L'univers est entièrement développé à partir de la Prakriti, qui n'est que les trois « qualités en équilibre ». Cf. Sânkhya-sûtra I, 61.
 

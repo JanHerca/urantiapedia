@@ -268,7 +268,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^226]: 86:1 C'est la pratique reconnue par les Taittirîyas (TS VI, 2, 1, 1), au motif que, si l'on dételait les deux bœufs, on interromprait le sacrifice ; et si l'on les laissait tous les deux dételés, ce serait comme si l'on réservait un accueil hospitalier à quelqu'un qui n'est pas encore arrivé.
 
-[^227]: 86:2 C'est-à-dire en touchant l'Adhvaryu pendant qu'il sort la nourriture sacrificielle. Voir [p. 79](Book_2_3_3#p79), note [3](Book_2_3_3#fn210).
+[^227]: 86:2 C'est-à-dire en touchant l'Adhvaryu pendant qu'il sort la nourriture sacrificielle. Voir [p. 79](../Book_2_3_3#p79), note [3](../Book_2_3_3#fn210).
 
 [^228]: 87:1 Pour la formule ordinaire avec laquelle le matériel d'offrande est retiré lors d'un ish<i>t</i>i, 'À l'impulsion du divin Savi<i>ri</i>, je te prends avec les bras des A<i>s</i>vins, avec les mains de Pûshan, toi qui me plais bien—!' voir I, 1, 2, 17.
 
@@ -282,7 +282,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^233]: 88:3 La syllabe finale des prières récitées en offrande est prolongée et nasalisée, un « a » final devenant ô<i>m</i>, — cet étirement de la syllabe est appelé pr<i>n</i>ava.
 
-[^234]: 89:1 Parce que le mètre Gâyatrî est lié au prâta<i>h</i>savana ou pressage matinal. Voir [IV, 2, 5, 20](Book_2_4_2#v4_2_5_20) seq.; Ait. Br. III, 27 seq.
+[^234]: 89:1 Parce que le mètre Gâyatrî est lié au prâta<i>h</i>savana ou pressage matinal. Voir [IV, 2, 5, 20](../Book_2_4_2#v4_2_5_20) seq.; Ait. Br. III, 27 seq.
 
 [^235]: 89:2 Voir I, 3, 3, 19-20, où sont énumérés les types de bois approuvés pour les paridhis d'un ish<i>t</i>i.
 
@@ -300,7 +300,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^242]: 90:5 L'adhimanthana <i>s</i>akala est un éclat de bois utilisé pour le bâton de barattage inférieur (adharâra<i>n</i>i), dans lequel le bâton de barattage supérieur est percé pour reposer dessus. Il est déposé sur l'herbe de l'autel (barhis) du sud au nord. Selon Sâya<i>n</i>a, c'est un éclat obtenu en taillant grossièrement le pieu sacrificiel.
 
-[^243]: 91:1 Dans ce sens, 'v<i>ri</i>sha<i>n</i>au' est pris par Mahîdhara (sektârau, de v<i>ri</i>shan), Sâya<i>n</i>a, et apparemment aussi par notre auteur. Peut-être signifie-t-il 'testicules' (v<i>ri</i>sha<i>n</i>a) dans le texte. Voir [III, 6, 3, 10](Book_2_3_6#v3_6_3_10) ; et partie i, p. 389, note 3.
+[^243]: 91:1 Dans ce sens, 'v<i>ri</i>sha<i>n</i>au' est pris par Mahîdhara (sektârau, de v<i>ri</i>shan), Sâya<i>n</i>a, et apparemment aussi par notre auteur. Peut-être signifie-t-il 'testicules' (v<i>ri</i>sha<i>n</i>a) dans le texte. Voir [III, 6, 3, 10](../Book_2_3_6#v3_6_3_10) ; et partie i, p. 389, note 3.
 
 [^244]: 91:2 Le mythe de Purûravas et d'Urva<i>s</i>î est donné en détail XI, 5, 1, I-17. Comparer aussi Max Müller, Chips, vol. ii, p. 202 seq. ; A. Kuhn, Herabkunft des Feuers, p. 78 seq.
 
@@ -326,7 +326,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^255]: 96:1 Selon Ait. Br. I, 24 les dieux déposèrent leurs formes dans la maison du roi Varu<i>n</i>a.
 
-[^256]: 97:1 C'est-à-dire lors d'une Sattra ou séance sacrificielle, où tous les prêtres officiants sont consacrés et « sacrificateurs » ; le Ya<i>g</i>amâna proprement dit étant appelé G<i>ri</i>hapati (maître de maison). Voir [IV, 6, 8, 1](Book_2_4_6#v4_6_8_1) seq.
+[^256]: 97:1 C'est-à-dire lors d'une Sattra ou séance sacrificielle, où tous les prêtres officiants sont consacrés et « sacrificateurs » ; le Ya<i>g</i>amâna proprement dit étant appelé G<i>ri</i>hapati (maître de maison). Voir [IV, 6, 8, 1](../Book_2_4_6#v4_6_8_1) seq.
 
 [^257]: 97:2 L'Avântaradîkshâ s'étend jusqu'à la fin du sixième Brâhma<i>n</i>a.
 
@@ -338,7 +338,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^261]: 99:1 L'épouse du sacrificateur accomplit silencieusement sur et près du feu de Gârhapatya les mêmes cérémonies que son mari.
 
-[^262]: 99:2 Tanu, voir [p. 10](Book_2_3_1#p10), note [4](Book_2_3_1#fn40).
+[^262]: 99:2 Tanu, voir [p. 10](../Book_2_3_1#p10), note [4](../Book_2_3_1#fn40).
 
 [^263]: 100:1 Sur le 'âpyâyana' (â-pyai, 'gonfler ; faire gonfler', renforcer, devenir fort, augmenter, remplir), voir partie i, p. 178, note 2. Selon Âpastamba et d'autres autorités, ils attachent un morceau d'or à leur doigt sans nom (en or) et touchent le Soma avec leurs mains humides.
 
@@ -346,7 +346,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^265]: 101:2 C'est-à-dire, comme les saisons font pousser la plante Soma.
 
-[^266]: 102:1 Ekadhana-vid; la signification de « ekadhana » (apparemment « un prix » ou « une partie du butin ou des biens ») dans ce mot composé n'est pas claire. L'auteur du Brâhma<i>n</i>a semble le prendre dans son sens technique, à savoir les cruches ekadhana dans lesquelles l'eau ekadhanâ, utilisée pour se mélanger au jus de Soma, est conservée, voir [III, 9, 3](Book_2_3_9#v3_9_3) ; [16](Book_2_3_9#v3_9_3_16) ; [27](Book_2_3_9#v3_9_3_27) ; [34](Book_2_3_9#v3_9_3_34). Selon Haug, Trad. Ait. Br. p. 114 notes, elles sont ainsi appelées parce que l'Adhvaryu jette une tige de Soma (eka-dhana) dans chaque pichet pour le consacrer.
+[^266]: 102:1 Ekadhana-vid; la signification de « ekadhana » (apparemment « un prix » ou « une partie du butin ou des biens ») dans ce mot composé n'est pas claire. L'auteur du Brâhma<i>n</i>a semble le prendre dans son sens technique, à savoir les cruches ekadhana dans lesquelles l'eau ekadhanâ, utilisée pour se mélanger au jus de Soma, est conservée, voir [III, 9, 3](../Book_2_3_9#v3_9_3) ; [16](../Book_2_3_9#v3_9_3_16) ; [27](../Book_2_3_9#v3_9_3_27) ; [34](../Book_2_3_9#v3_9_3_34). Selon Haug, Trad. Ait. Br. p. 114 notes, elles sont ainsi appelées parce que l'Adhvaryu jette une tige de Soma (eka-dhana) dans chaque pichet pour le consacrer.
 
 [^267]: 102:2 Cet anticlimax est plutôt curieux. Le texte du Kânva dit : da<i>s</i>a da<i>s</i>a vâ ha smaisha ekaiko '<i>m</i><i>s</i>ur devân pratîndrâyaikadhanân âpyâyayanti (!) <i>s</i>ata<i>m</i> <i>s</i>atam vâ tasmâd âhaikadhanavida iti.
 
@@ -388,10 +388,10 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^286]: 108:2 ? La douille ; comparer Ait. Br. I, 25, 'Les dieux ont construit cette flèche, les Upasads : Agni était sa pointe (? anîka, hampe, Haug), Soma son dard (<i>s</i>alya, acier, H.), Vish<i>n</i>u son hampe (te<i>g</i>anam, pointe, H.), et Varu<i>n</i>a ses plumes (par<i>n</i>a) . . . . Car la flèche se compose de trois parties, anîka, <i>s</i>alya et te<i>g</i>ana . . . . Car la flèche se compose de deux parties, <i>s</i>alya et te<i>g</i>ana.' Ici, <i>s</i>alya semble être la tête barbelée (avec la pointe, anîka), et te<i>g</i>ana la hampe ou le roseau de la flèche.
 
-[^287]: 109:1 À la fin de chaque exécution des offrandes d'Upasad, après l'onction du prastara (voir I, 8, 3, 11-14) et avant de prendre les bâtons d'enceinte (ib. 22), une offrande de homa (ou <i>g</i>uhoti) (partie i, p. 263, note 2), appelée Upasad-homa, doit être effectuée avec la cuillère à tremper ; le sacrificateur tient Adhvaryu par derrière, tandis que le ghee est versé dans le feu. Une fois son exécution terminée, les Upasads sont terminées par une répétition de la cérémonie avec le prastara (qui n'est pas brûlé) décrit ci-dessus, [III, 4, 3, 22](Book_2_3_4#v3_4_3_22), et les cérémonies mineures de conclusion (I, 8, 3, 23 seq.; 9, 2, 19 seq.); après quoi la litanie Subrahma<i>n</i>yâ ([III, 3, 4, 17](Book_2_3_3#v3_3_4_17)) est récitée.
+[^287]: 109:1 À la fin de chaque exécution des offrandes d'Upasad, après l'onction du prastara (voir I, 8, 3, 11-14) et avant de prendre les bâtons d'enceinte (ib. 22), une offrande de homa (ou <i>g</i>uhoti) (partie i, p. 263, note 2), appelée Upasad-homa, doit être effectuée avec la cuillère à tremper ; le sacrificateur tient Adhvaryu par derrière, tandis que le ghee est versé dans le feu. Une fois son exécution terminée, les Upasads sont terminées par une répétition de la cérémonie avec le prastara (qui n'est pas brûlé) décrit ci-dessus, [III, 4, 3, 22](../Book_2_3_4#v3_4_3_22), et les cérémonies mineures de conclusion (I, 8, 3, 23 seq.; 9, 2, 19 seq.); après quoi la litanie Subrahma<i>n</i>yâ ([III, 3, 4, 17](../Book_2_3_3#v3_3_4_17)) est récitée.
 
-[^288]: 110:1 Tandis que le Hot<i>ri</i>, comme nous l'avons vu ([parag. 2](Book_2_3_4#v3_4_4_2), ci-dessus), utilise les mêmes deux versets deux fois en une journée, à savoir un pour l'anuvâkyâ le matin et pour le yâ<i>g</i>yâ l'après-midi ; et l'autre pour le yâ<i>g</i>yâ le matin et pour l'anuvâkyâ le soir, l'Adhvaryu doit utiliser les trois formules mentionnées ici respectivement lors des trois jours d'Upasad, à la fois lors des représentations du matin et de l'après-midi.
+[^288]: 110:1 Tandis que le Hot<i>ri</i>, comme nous l'avons vu ([parag. 2](../Book_2_3_4#v3_4_4_2), ci-dessus), utilise les mêmes deux versets deux fois en une journée, à savoir un pour l'anuvâkyâ le matin et pour le yâ<i>g</i>yâ l'après-midi ; et l'autre pour le yâ<i>g</i>yâ le matin et pour l'anuvâkyâ le soir, l'Adhvaryu doit utiliser les trois formules mentionnées ici respectivement lors des trois jours d'Upasad, à la fois lors des représentations du matin et de l'après-midi.
 
 [^289]: 110:2 Il s'agit de la vratadughâ, ou vache qui fournit son lait rapide. Le lait ainsi obtenu doit être sa seule nourriture pendant les jours d'Upasad.
 
-[^290]: 111:1 La comparaison est apparemment tirée de la flèche, qui perce d'autant plus profondément qu'elle est plus pointue ; cf. [parag. 14](Book_2_3_4#v3_4_4_14), ci-dessus ; Ait. Br. I, 25. Également Taitt. S. VI, 2, 3, 5, où un aiguillon (âra ?) est comparé.
+[^290]: 111:1 La comparaison est apparemment tirée de la flèche, qui perce d'autant plus profondément qu'elle est plus pointue ; cf. [parag. 14](../Book_2_3_4#v3_4_4_14), ci-dessus ; Ait. Br. I, 25. Également Taitt. S. VI, 2, 3, 5, où un aiguillon (âra ?) est comparé.

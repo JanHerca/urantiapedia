@@ -122,7 +122,7 @@ Et ceux qui se tiennent là disent : « Comme tu l’as fait entrer dans l’all
 
 ## Sur la prière à l’entrée et à la sortie d’une ville.
 
-**M**.IX. 6 (4). Celui qui entre dans une ville fait deux prières : une à l’entrée et une à la sortie. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] dit : Quatre, deux à l’entrée et deux à la sortie. Et l’une loue <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> ce qui est passé et appelle à l’avenir. [^504]
+**M**.IX. 6 (4). Celui qui entre dans une ville fait deux prières : une à l’entrée et une à la sortie. [4](../Berakoth_3_9#fn_502) Ben Azzai [^503] dit : Quatre, deux à l’entrée et deux à la sortie. Et l’une loue <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> ce qui est passé et appelle à l’avenir. [^504]
 
 **T**.
 
@@ -152,11 +152,11 @@ Le résultat fut qu'il salit la chemise et _T_. provoqua son maître. [^515]
 
 <span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
-**M**.chaussures, [1](Berakoth_3_9#fn_521) et avec sa bourse, et avec la poussière sur ses pieds. [2](Berakoth_3_9#fn_522) Il ne devrait pas non plus prendre de raccourci, [3](Berakoth_3_9#fn_523) et encore moins cracher là. Que dire du port de chaussures ? Car c'est une question de respect ; il est interdit d'entrer avec. Et cracher ? Car cela relève du mépris. C'est la règle. [4](Berakoth_3_9#fn_524)
+**M**.chaussures, [1](../Berakoth_3_9#fn_521) et avec sa bourse, et avec la poussière sur ses pieds. [2](../Berakoth_3_9#fn_522) Il ne devrait pas non plus prendre de raccourci, [3](../Berakoth_3_9#fn_523) et encore moins cracher là. Que dire du port de chaussures ? Car c'est une question de respect ; il est interdit d'entrer avec. Et cracher ? Car cela relève du mépris. C'est la règle. [4](../Berakoth_3_9#fn_524)
 
 **T**.
 
-**T**. VII. 19. Un homme ne peut entrer dans le Temple avec de l'argent enveloppé dans son tissu de lin, [5](Berakoth_3_9#fn_525) ou avec de la poussière sur ses pieds, ou avec sa bourse attachée à lui à l'extérieur de son vêtement. Car il est dit : « _Garde tes pieds quand tu vas à la maison de Dieu_. » [6](Berakoth_3_9#fn_526) R. José, fils de R. Judah, dit : Voici, Il dit : « _Car personne ne peut entrer dans la porte du roi vêtu d'un sac_. » [7](Berakoth_3_9#fn_527) Que d'arguments, du plus petit au plus grand, y a-t-il dans ce cas ! Et ainsi cracher (est interdit) par le même argument. Car comme pour une chaussure, à propos de laquelle il n'y a pas de mépris habituel, la Loi dit : [8](Berakoth_3_9#fn_528) N'entre pas — avec une chaussure, combien moins avec des crachats pour lesquels il y a un mépris habituel.
+**T**. VII. 19. Un homme ne peut entrer dans le Temple avec de l'argent enveloppé dans son tissu de lin, [5](../Berakoth_3_9#fn_525) ou avec de la poussière sur ses pieds, ou avec sa bourse attachée à lui à l'extérieur de son vêtement. Car il est dit : « _Garde tes pieds quand tu vas à la maison de Dieu_. » [6](../Berakoth_3_9#fn_526) R. José, fils de R. Judah, dit : Voici, Il dit : « _Car personne ne peut entrer dans la porte du roi vêtu d'un sac_. » [7](../Berakoth_3_9#fn_527) Que d'arguments, du plus petit au plus grand, y a-t-il dans ce cas ! Et ainsi cracher (est interdit) par le même argument. Car comme pour une chaussure, à propos de laquelle il n'y a pas de mépris habituel, la Loi dit : [8](../Berakoth_3_9#fn_528) N'entre pas — avec une chaussure, combien moins avec des crachats pour lesquels il y a un mépris habituel.
 
 <a id="m8b"></a>
 
@@ -222,7 +222,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^458]: 76:4 _à intervalles_. Cf. _T_. VII. 6 (p. 78). À intervalles de trente jours (Bartenora), excluant ainsi les personnes qui vivent sur la côte.
 
-[^459]: 76:5 _La bénédiction dans l'invitation_. Voir [p. 59](Berakoth_3_6#p59).
+[^459]: 76:5 _La bénédiction dans l'invitation_. Voir [p. 59](../Berakoth_3_6#p59).
 
 [^460]: 76:6 Deut. 810.
 
@@ -256,7 +256,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^471]: 78:4 dit : « qui nous a donné la vie, nous a établis et nous a permis d'atteindre ce temps. » — Un service pour la consécration d'une maison est donné dans SA, p. 300-303, mais la formule citée ici se trouve à la p. ccxix. Abrahams, dans sa note, dit qu'il est « prescrit pour être utilisé lors de la jouissance d'une nouvelle possession ou d'un nouveau plaisir pour la première fois ».
 
-[^472]: 78:5 _le résumé_. Voir _M_. IV. 3 note ([p. 30](Berakoth_2_4#p30)).
+[^472]: 78:5 _le résumé_. Voir _M_. IV. 3 note ([p. 30](../Berakoth_2_4#p30)).
 
 [^473]: 78:6 _pour le bien . . . pour le mal_, SA, p. 292.
 
@@ -280,7 +280,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^483]: 79:8 _R. Dosethai bar Jannai_. Dans la quatrième génération d'enseignants de la Mishna, vers 160-200 apr. J.-C.
 
-[^484]: 79:9 dans \[le passage concernant\] Isaac. Cf. Marc 1226 « dans \[le lieu concernant\] le Buisson » ; et peut-être Rom. 112 « dans Élie ». _Vide supra_, [p. 36](Berakoth_2_5#p36).
+[^484]: 79:9 dans \[le passage concernant\] Isaac. Cf. Marc 1226 « dans \[le lieu concernant\] le Buisson » ; et peut-être Rom. 112 « dans Élie ». _Vide supra_, [p. 36](../Berakoth_2_5#p36).
 
 [^485]: 79:10 Verbalement dans Gen. 2624, mais essentiellement dans les vv. 3, _sq_., ce qui facilite la citation immédiate du v. 12. Mais de toute façon, « il n'y a ni avant ni après dans la Loi » (TB _Pesachim_, 6b).
 
@@ -294,11 +294,11 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^490]: 80:4 _qui nous a permis d'atteindre cette saison_. Ce sont les derniers mots de la méditation donnée dans SA, p. 232, qui comprend également la prière suivante.
 
-[^491]: 80:5 _un Lulab_. _Vide supra_, [p. 33](Berakoth_2_4#p33).
+[^491]: 80:5 _un Lulab_. _Vide supra_, [p. 33](../Berakoth_2_4#p33).
 
-[^492]: 80:6 _Tsitsith_. _Vide supra_, [p. 16](Berakoth_1_2#p16).
+[^492]: 80:6 _Tsitsith_. _Vide supra_, [p. 16](../Berakoth_1_2#p16).
 
-[^493]: 81:1 _Tephillin_, ou Phylactères. _Vide supra_, [p. 17](Berakoth_1_2#p17).
+[^493]: 81:1 _Tephillin_, ou Phylactères. _Vide supra_, [p. 17](../Berakoth_1_2#p17).
 
 [^494]: 81:2 _les pose_. _c'est-à-dire_ les lie à la tête ou au bras.
 
@@ -316,7 +316,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^501]: 82:2 Le texte commun ajoute des bénédictions à utiliser lors de la circoncision des prosélytes et des esclaves, tirées de _T_. B. Sabb. 137b.
 
-[^502]: 82:3 _Contributions_. Voir [p. 59](Berakoth_3_6#p59).
+[^502]: 82:3 _Contributions_. Voir [p. 59](../Berakoth_3_6#p59).
 
 [^503]: 82:4 Les prières sont données en _T_.
 
@@ -330,7 +330,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^508]: 83:4 _m'arriver_ (_ye'ra' bî_). Jastrow (p. 1382b) traduit le passage parallèle de la Guemara, _T_. B. 60a, « afin qu'aucun mal ou péché ne puisse m'arriver », mais la référence immédiate à la mort semble exclure cela.
 
-[^509]: 84:1 _que ma mort soit une expiation_, cf. _supra_, [p. 13](Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8 : « La mort et le Jour des Expiations font l'expiation, avec la repentance. »
+[^509]: 84:1 _que ma mort soit une expiation_, cf. _supra_, [p. 13](../Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8 : « La mort et le Jour des Expiations font l'expiation, avec la repentance. »
 
 [^510]: 84:2 _tout comme cela, dans l'avenir à venir_. _c'est-à-dire_ le feu de la Géhenne.
 
@@ -376,7 +376,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^531]: 87:1 « _de toujours_. » C lit _hāyu_ _min ha'ôlām_, littéralement, « étaient de toujours » ou « du monde ». Mais B a _hāyu_ _'omrīm 'ad ha'ôlām_, « tous ceux qui scellaient les Bénédictions qui étaient dans le Temple avaient l'habitude de dire 'pour toujours'. » Probablement, cependant, T. VII. 21 a raison de lire seulement _'ad_, « à », au lieu de _min_, « de ».
 
-[^532]: 87:2 _les hérétiques_ (_ha Minim_). Ici, clairement pas les chrétiens hébreux, car ceux-ci n'ont jamais nié l'existence de l'au-delà. Cf. pp. [40](Berakoth_2_5#p40) _sq_., [42](Berakoth_2_5#p42).
+[^532]: 87:2 _les hérétiques_ (_ha Minim_). Ici, clairement pas les chrétiens hébreux, car ceux-ci n'ont jamais nié l'existence de l'au-delà. Cf. pp. [40](../Berakoth_2_5#p40) _sq_., [42](../Berakoth_2_5#p42).
 
 [^533]: 87:3 _depuis toujours_. Littéralement, « du monde entier jusqu'au monde entier ». Pourtant, dans Néhémie 95, on trouve cette parole concernant le Second Temple : « Lève-toi, bénis l'Éternel, ton Dieu, de toujours à toujours. » Pour d'autres références, voir Dalman, _Worte_, pp. 123 et suivantes (ET p. 151).
 
@@ -412,7 +412,7 @@ Rabbi Meir disait : « Il n'y a pas un seul homme en Israël qui n'accomplisse c
 
 [^549]: 89:3 Juges 612. De nouveau, la vérité centrale de la Loi est implicite.
 
-[^550]: 89:4 Hillel l'Ancien, voir [p. 27](Berakoth_1_3#p27) note.
+[^550]: 89:4 Hillel l'Ancien, voir [p. 27](../Berakoth_1_3#p27) note.
 
 [^551]: 89:5 Quand les hommes viennent pour écouter, enseigne-les.
 

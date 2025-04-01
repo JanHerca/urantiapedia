@@ -273,11 +273,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^475]: 263:4 Les quatre logesh<i>t</i>akâs (mottes de terre), placées aux extrémités des deux « épines », représentent les quatre quartiers, marquant comme ils le font le centre des côtés est, sud, ouest et nord de l'emplacement de l'autel, semé de graines de toutes sortes ; voir VII, 3, I, 13 seq. Le bouquet d'herbe Darbha, placé au centre, représenterait ainsi la cinquième région, à savoir celle du dessus.
 
-[^476]: 263:5 Bien que les Prânabhrits soient censés représenter, non pas les régions, mais les (canaux des) airs vitaux, ils sont placés en rangées le long des diagonales du corps carré de l'autel, marquant ainsi, pour ainsi dire, les régions intermédiaires ; tandis que le cinquième ensemble est placé en cercle autour du centre. Voir [VIII, 1, 1, 1](Book_4_8_1#v8_1_1_1) seq.
+[^476]: 263:5 Bien que les Prânabhrits soient censés représenter, non pas les régions, mais les (canaux des) airs vitaux, ils sont placés en rangées le long des diagonales du corps carré de l'autel, marquant ainsi, pour ainsi dire, les régions intermédiaires ; tandis que le cinquième ensemble est placé en cercle autour du centre. Voir [VIII, 1, 1, 1](../Book_4_8_1#v8_1_1_1) seq.
 
 [^477]: 263:6 Les briques de ces couches sont toutes censées être marquées par leur position pour se rapporter aux régions ou aux quartiers.
 
-[^478]: 264:1 Pour les Asapatnâs, posés près des extrémités des épines, pour chasser le mal dans les quatre quartiers, voir [VIII, 5, 1, 1](Book_4_8_5#v8_5_1_1) ; pour les deux autres types de briques, expressément identifiées aux régions, voir [VIII, 6, 1, 1](Book_4_8_6#v8_6_1_1) seq.
+[^478]: 264:1 Pour les Asapatnâs, posés près des extrémités des épines, pour chasser le mal dans les quatre quartiers, voir [VIII, 5, 1, 1](../Book_4_8_5#v8_5_1_1) ; pour les deux autres types de briques, expressément identifiées aux régions, voir [VIII, 6, 1, 1](../Book_4_8_6#v8_6_1_1) seq.
 
 [^479]: 264:2 C'est-à-dire que l'autel était si plein de régions qu'elles s'échappaient par le haut.
 
@@ -285,11 +285,11 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^481]: 265:1 Il s'agit d'une querelle étymologique utilisée pour expliquer l'oblation à Pra<i>g</i>âpati comme l'une des oblations des déesses (devikâ).
 
-[^482]: 265:2 Voir [p. 248](Book_4_9_4#p248), note [1](Book_4_9_4#fn426).
+[^482]: 265:2 Voir [p. 248](../Book_4_9_4#p248), note [1](../Book_4_9_4#fn426).
 
-[^483]: 265:3 Voir ibid., note [2](Book_4_9_4#fn427).
+[^483]: 265:3 Voir ibid., note [2](../Book_4_9_4#fn427).
 
-[^484]: 265:4 C'est-à-dire, pour ces cinq oblations qui sont insérées entre les oblations principales et le Svish<i>t</i>ak<i>ri</i>t du Pa<i>s</i>upuro<i>d</i>â<i>s</i>a ; comme ci-dessus, [IX, 4, 3, 12](Book_4_9_4#v9_4_3_12) seq.
+[^484]: 265:4 C'est-à-dire, pour ces cinq oblations qui sont insérées entre les oblations principales et le Svish<i>t</i>ak<i>ri</i>t du Pa<i>s</i>upuro<i>d</i>â<i>s</i>a ; comme ci-dessus, [IX, 4, 3, 12](../Book_4_9_4#v9_4_3_12) seq.
 
 [^485]: 265:5 Pour cette cérémonie expiatoire, appelée le <i>S</i>ûlâvabh<i>ri</i>tha (bain de crachat), p. 266 et marquant la conclusion d'un sacrifice animal ordinaire (nirû<i>dh</i>a) — n'appartenant pas au sacrifice du Soma — ainsi que de l'offrande d'une vache stérile, voir partie ii, p. 215.
 
@@ -307,7 +307,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^492]: 267:5 « Ô dieux, honorez-le (le Sacrificateur) ! » Mahîdhara ; mais peut-être les Rishis sont-ils adressés dans cette deuxième ligne. Mahîdhara prend « atra » (« ici ») avec « parame vyoman » — « dans ce ciel le plus élevé ».
 
-[^493]: 268:1 Voir [VIII, 6, 3, 23](Book_4_8_6#v8_6_3_23), [24](Book_4_8_6#v8_6_3_24).
+[^493]: 268:1 Voir [VIII, 6, 3, 23](../Book_4_8_6#v8_6_3_23), [24](../Book_4_8_6#v8_6_3_24).
 
 [^494]: 268:2 Le sens du verset est cependant loin d'être certain. Ce qui précède est l'interprétation de Mahîdhara, sauf qu'il prend « yâ<i>h</i> » pour « et quels (autres) ruisseaux il y a ». Cela pourrait cependant aussi signifier : « Quels ruisseaux de miel et de ghee qui sont les nôtres ne tarissent jamais nulle part, Agni Vai<i>s</i>vakarma<i>n</i>a les déposera au ciel auprès des dieux ! » – auquel cas il faudrait prier pour la juste récompense du sacrifice.
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^510]: 273:1 C'est-à-dire qu'il doit avoir été porté pendant au moins six mois ; et les embryons de moins de six mois ne peuvent pas vivre.
 
-[^511]: 273:2 Ceci est dû au fait que le Mahad uktham comprend plus de quatre-vingts versets ; voir [IX, 3, 3, 19](Book_4_9_3#v9_3_3_19). On pourrait être tenté d'inclure cette phrase entière dans la citation précédente.
+[^511]: 273:2 Ceci est dû au fait que le Mahad uktham comprend plus de quatre-vingts versets ; voir [IX, 3, 3, 19](../Book_4_9_3#v9_3_3_19). On pourrait être tenté d'inclure cette phrase entière dans la citation précédente.
 
 [^512]: 273:3 C'est-à-dire déjà trop atténué, en étant rendu aussi grand qu'un enfant d'un an (?).
 
@@ -353,7 +353,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^516]: 275:2 Soit le premier des sept versets (<i>Ri</i>g-veda III, 37, 1).
 
-[^517]: 275:3 Selon Kâty. <i>S</i>r. XVII, 7, 1, cette cérémonie doit avoir lieu à la fin de chaque couche, après qu'elle ait été recouverte de terre meuble ; cf. [paragraphe 11](Book_4_9_5#v9_5_2_11).
+[^517]: 275:3 Selon Kâty. <i>S</i>r. XVII, 7, 1, cette cérémonie doit avoir lieu à la fin de chaque couche, après qu'elle ait été recouverte de terre meuble ; cf. [paragraphe 11](../Book_4_9_5#v9_5_2_11).
 
 [^518]: 276:1 Pour le verset complet, voir IV, 6, 4, 4.
 
@@ -365,8 +365,8 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^522]: 278:1 À savoir Indra et Agni, ayant chacun quatre versets qui leur sont adressés.
 
-[^523]: 278:2 Voir [p. 282](Book_4_10_1#p282), note [5](Book_4_10_1#fn525).
+[^523]: 278:2 Voir [p. 282](../Book_4_10_1#p282), note [5](../Book_4_10_1#fn525).
 
-[^524]: 278:3 Voir [p. 110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202); [p. 111](Book_4_8_6#p111), note [1](Book_4_8_6#fn203).
+[^524]: 278:3 Voir [p. 110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202); [p. 111](../Book_4_8_6#p111), note [1](../Book_4_8_6#fn203).
 
 [^525]: 279:1 C'est-à-dire les textes védiques.

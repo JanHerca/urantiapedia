@@ -1124,7 +1124,7 @@ Parce que sa rivale a mélangé le fléau
 
 Pour rendre sa conception vaine,
 Et les fruits non mûrs à détruire,
-Sagar [1](Book_1_77#fn249) elle appelait son garçon chéri.
+Sagar [1](../Book_1_77#fn249) elle appelait son garçon chéri.
 Sagar Asamanj était l'héritier :
 Le brillant Ans'umán, son épouse, est nu.
 Le fils d'Ans'umán, célèbre Dilipa,
@@ -1134,7 +1134,7 @@ De lui est né Raghu, craint par ses ennemis,
 De lui est né le hardi Purushádak,
 Héros féroce du moule gigantesque :
 Le nom de Kalmáshapáda qu'il portait,
-Parce que ses pieds étaient tachés. [2](Book_1_77#fn250)
+Parce que ses pieds étaient tachés. [2](../Book_1_77#fn250)
 De lui est venu S'ankan, et de lui
 Sudars'an, beau de visage et de membres.
 De la belle Sudars'an est venu

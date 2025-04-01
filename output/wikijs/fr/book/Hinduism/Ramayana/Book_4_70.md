@@ -114,7 +114,7 @@ Un prince bon et vaillant, son héritier,
 Que le cher nom de Ráma porte.
 Avec son courageux frère Lakshman, il
 Un exilé dans les bois sera,
-Où Rávan, qu'aucun Dieu ne peut tuer, [1](Book_4_70#fn779)
+Où Rávan, qu'aucun Dieu ne peut tuer, [1](../Book_4_70#fn779)
 Enlèvera sa femme chérie,
 En vain le captif sera courtisé
 Avec de l’amour offert et de la nourriture délicate,
@@ -185,7 +185,7 @@ Soyez fort dans la plus sûre confiance.
 Il sauta rapidement du rocher pour essayer
 Ses ailes dans son ciel natal.
 Ses paroles ont-elles apaisé les doutes des chefs ?
-Et chaque cœur rempli de courage. [1b](Book_4_70#fn780)
+Et chaque cœur rempli de courage. [1b](../Book_4_70#fn780)
 
 
 
@@ -440,7 +440,7 @@ Ta puissance et ta force incomparables se manifestent
 Lève-toi, ô prince, notre second roi,
 Et sur le déluge de l'océan, le printemps.
 Ainsi l'exploit glorieux rivalisera
-Avec celui qui a traversé la terre et le ciel.' [1](Book_4_70#fn786)
+Avec celui qui a traversé la terre et le ciel.' [1](../Book_4_70#fn786)
 
 Il parla : le jeune chef entendit,
 Son âme s'agita dans un effort vigoureux,

@@ -155,7 +155,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v2_6_2_1818"><sup><small>2:6:2:1818.</small></sup></span> Ils tournent alors à droite et retournent (à l'uttaravedi) sans se retourner. De retour là-bas, ils touchent de l'eau ; car ils ont accompli une cérémonie relative à Rudra [^993], et l'eau est (un moyen de) purification : avec l'eau, ce (moyen de) purification, ils se purifient en conséquence.
 
-<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span> Là-dessus, il se rase les cheveux et la barbe, et prend le feu (de l'uttaravedi), car ce n'est qu'après avoir changé de place (sur le terrain sacrificiel ordinaire) qu'il accomplit le sacrifice (de la pleine lune) sur ce feu, car il ne convient pas qu'il accomplisse l'<span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra sur l'uttaravedi : c'est pour cette raison qu'il change de place. Après être allé à la maison et avoir « éteint » les feux [1](Book_1_2_6#fn994), il accomplit l'offrande de la pleine lune. Les offrandes saisonnières sont sans aucun doute des sacrifices détachés ; tandis que l'offrande de la pleine lune est un sacrifice régulier et établi : il s'établit donc finalement au moyen de ce sacrifice régulier, et change donc de place (vers le terrain sacrificiel ordinaire).
+<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span> Là-dessus, il se rase les cheveux et la barbe, et prend le feu (de l'uttaravedi), car ce n'est qu'après avoir changé de place (sur le terrain sacrificiel ordinaire) qu'il accomplit le sacrifice (de la pleine lune) sur ce feu, car il ne convient pas qu'il accomplisse l'<span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra sur l'uttaravedi : c'est pour cette raison qu'il change de place. Après être allé à la maison et avoir « éteint » les feux [1](../Book_1_2_6#fn994), il accomplit l'offrande de la pleine lune. Les offrandes saisonnières sont sans aucun doute des sacrifices détachés ; tandis que l'offrande de la pleine lune est un sacrifice régulier et établi : il s'établit donc finalement au moyen de ce sacrifice régulier, et change donc de place (vers le terrain sacrificiel ordinaire).
 
 
 <span id="v2_6_3"><sup><small>2:6:3</small></sup></span>
@@ -259,9 +259,9 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^949]: 422:1 Pas trois fois, comme lors d'un ish<i>t</i>i ordinaire ; voir I, 1, 4, 23.
 
-[^950]: 422:2 Non pas vers l'est, comme au Dar<i>s</i>apûr<i>n</i>amâsa ; cf. [p. 38](Book_1_1_2#p38), note [3](Book_1_1_2#fn153). Lors des offrandes aux Mânes, le sud, en règle générale, remplace l'est, l'ouest celle du sud, etc.
+[^950]: 422:2 Non pas vers l'est, comme au Dar<i>s</i>apûr<i>n</i>amâsa ; cf. [p. 38](../Book_1_1_2#p38), note [3](../Book_1_1_2#fn153). Lors des offrandes aux Mânes, le sud, en règle générale, remplace l'est, l'ouest celle du sud, etc.
 
-[^951]: 422:3 À la fin de la cérémonie de l'Âptya (cf. I, 2, 2, 18-3, 5), il érige au sud du feu (ordinaire) du Dakshi<i>n</i>a un hangar (quadrangulaire) (voir plus loin, paragraphe 20) avec une porte au nord. À l'intérieur, il prépare un autel quadrangulaire (de même taille qu'au Dar<i>s</i>apûr<i>n</i>amâsa ; cf. I, 2, 5, 14) dont les angles sont orientés vers les quartiers intermédiaires, au centre duquel il construit le (nouveau) foyer du Dakshi<i>n</i>âgni. \[D'après Taitt. Br. I, 6, 8, 5-6. Aucun creusement n'est effectué lors de la préparation de l'autel (qui doit être carré) au Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] Lorsque le feu du Dakshi<i>n</i>a est transféré au nouveau foyer, l'eau du Pra<i>n</i>îtâ (voir [p. 9](Book_1_1_1#p9), note) est transportée après lui, suivie du Brahman et du Sacrificateur, et placée à l'est (et non au nord) du foyer. La pose du feu est précédée de la quintuple lustration habituelle du foyer (voir [p. 2](Book_1_1_1#p2)).
+[^951]: 422:3 À la fin de la cérémonie de l'Âptya (cf. I, 2, 2, 18-3, 5), il érige au sud du feu (ordinaire) du Dakshi<i>n</i>a un hangar (quadrangulaire) (voir plus loin, paragraphe 20) avec une porte au nord. À l'intérieur, il prépare un autel quadrangulaire (de même taille qu'au Dar<i>s</i>apûr<i>n</i>amâsa ; cf. I, 2, 5, 14) dont les angles sont orientés vers les quartiers intermédiaires, au centre duquel il construit le (nouveau) foyer du Dakshi<i>n</i>âgni. \[D'après Taitt. Br. I, 6, 8, 5-6. Aucun creusement n'est effectué lors de la préparation de l'autel (qui doit être carré) au Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] Lorsque le feu du Dakshi<i>n</i>a est transféré au nouveau foyer, l'eau du Pra<i>n</i>îtâ (voir [p. 9](../Book_1_1_1#p9), note) est transportée après lui, suivie du Brahman et du Sacrificateur, et placée à l'est (et non au nord) du foyer. La pose du feu est précédée de la quintuple lustration habituelle du foyer (voir [p. 2](../Book_1_1_1#p2)).
 
 [^952]: 423:1 Au lieu de vers le nord, comme cela se fait à l'ish<i>t</i>i normal ; voir I, 2, 4, 12 seq.
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^969]: 427:5 Voir I, 5, 3, 1 seq.
 
-[^970]: 428:1 Lors du sacrifice aux Mânes, l'Âgnîdhra, lorsqu'il prononce sa réponse, se tient au sud de l'Adhvaryu. Voir [p. 132](Book_1_1_5#p132), note. La première syllabe de 'svadhâ' est prolongée. Selon la comm. sur Kâty. V, 9, 12, les formules d'offrande commencent également par 'Yẽ svadhâmahe', au lieu de 'Yẽ ya<i>g</i>âmahe' (voir I, 5, 2, 16 et note).
+[^970]: 428:1 Lors du sacrifice aux Mânes, l'Âgnîdhra, lorsqu'il prononce sa réponse, se tient au sud de l'Adhvaryu. Voir [p. 132](../Book_1_1_5#p132), note. La première syllabe de 'svadhâ' est prolongée. Selon la comm. sur Kâty. V, 9, 12, les formules d'offrande commencent également par 'Yẽ svadhâmahe', au lieu de 'Yẽ ya<i>g</i>âmahe' (voir I, 5, 2, 16 et note).
 
 [^971]: 428:2 Je ne vois pas vraiment la pertinence de la raison invoquée ici, à moins que l'auteur ne veuille dire qu'une fois (par le premier acte de la p. 429) les pères sont partis, et que par un second acte ils reviennent ici. Selon Â<i>s</i>val. II, 19, 22, les deux prières invitatoires au Pitara<i>h</i> Somavanta<i>h</i> sont Rig-v. X, 15, 1 ; IX, 96, 11 ; au Soma Pit<i>ri</i>mat, Rig-v. I, 91, 1 ; 20 ; au Pitaro Barhishada<i>h</i>, Rig-v. X, 15, 4 ; 3 ; au Pitaro 'gnishvâttâ<i>h</i>, Rig-v. X, 15, 11 ; 13; \[à Yama X, 14, 4; 5.\]—Les prières d'offrande étant respectivement, Rig-v. X, 15, 5; VIII, 48, 13; X, 15, 2; X, 15, 14; \[X, 14, 1.\]
 
@@ -323,9 +323,9 @@ Un peu différent des Ya<i>g</i>us Noirs ; à savoir. Soma Pit<i>ri</i>mat, anuv
 
 [^980]: 435:1 Le texte de Kânva dit : « La raison pour laquelle il se déplace trois fois autour, en se répandant de gauche à droite, est que, après avoir suivi ces trois ancêtres, il les quitte et retourne dans ce monde, le sien. » Voir II, 6, I, 15.
 
-[^981]: 435:2 Sur le nîvi, ou extrémité non tissée du pagne (hindi dhotî, mahr. dhotar), qui devait être passé en dessous et replié derrière, au début de la présente cérémonie, voir [p. 368](Book_1_2_4#p368), note [2](Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
+[^981]: 435:2 Sur le nîvi, ou extrémité non tissée du pagne (hindi dhotî, mahr. dhotar), qui devait être passé en dessous et replié derrière, au début de la présente cérémonie, voir [p. 368](../Book_1_2_4#p368), note [2](../Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
 
-[^982]: 435:3 Pour les six formules utilisées à cette fin, voir [p. 368](Book_1_2_4#p368), note [2](Book_1_2_4#fn819).
+[^982]: 435:3 Pour les six formules utilisées à cette fin, voir [p. 368](../Book_1_2_4#p368), note [2](../Book_1_2_4#fn819).
 
 [^983]: 436:1 Voir I, 8, 3, 1 seq.
 
@@ -343,7 +343,7 @@ Un peu différent des Ya<i>g</i>us Noirs ; à savoir. Soma Pit<i>ri</i>mat, anuv
 
 [^990]: 440:2 Dans Taitt. Br. I, 6, 10, 4, cette sœur de Rudra est identifiée à l'automne, par lequel le dieu a coutume de tuer (c'est-à-dire au moyen du catarrhe, de la fièvre, etc., Sây.). Voir aussi Weber, Ind. Stud. I, 183 ; Muir, Original Sanskrit Texts, vol. iv. p. 321.
 
-[^991]: 440:3 'Âkhûtkara'; 'âkhukarîsha', texte Kânva. Il s'agit peut-être d'un trou de souris, ou de la terre rejetée par une souris. Voir [p. 278](Book_1_2_1#p278), note [3](Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2 : 'NN est ta victime', disant ainsi, qu'il désigne celui qu'il (le Sacrificateur) hait ; par là il lui livre (Rudra) celui qu'il hait. S'il ne hait personne, qu'il dise : 'la taupe (la souris) est ta victime'.
+[^991]: 440:3 'Âkhûtkara'; 'âkhukarîsha', texte Kânva. Il s'agit peut-être d'un trou de souris, ou de la terre rejetée par une souris. Voir [p. 278](../Book_1_2_1#p278), note [3](../Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2 : 'NN est ta victime', disant ainsi, qu'il désigne celui qu'il (le Sacrificateur) hait ; par là il lui livre (Rudra) celui qu'il hait. S'il ne hait personne, qu'il dise : 'la taupe (la souris) est ta victime'.
 
 [^992]: 440:4 'Ainsi, il ne fait que prendre la taupe comme victime et la met dans sa bouche', texte Kânva.
 
@@ -355,7 +355,7 @@ Un peu différent des Ya<i>g</i>us Noirs ; à savoir. Soma Pit<i>ri</i>mat, anuv
 
 [^996]: 443:2 Selon Kâty. V, 10, 22, il murmure le mot « vêtu de peau » tout en stabilisant les deux paniers.
 
-[^997]: 443:3 Voir [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84).
+[^997]: 443:3 Voir [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84).
 
 [^998]: 444:1 Voir II, 5, 2, 48.
 
@@ -379,7 +379,7 @@ Un peu différent des Ya<i>g</i>us Noirs ; à savoir. Soma Pit<i>ri</i>mat, anuv
 
 [^1008]: 449:1 Anika (? 'avant-garde'), cf. V, 3, 1, 1 « J'ai apporté l'art de l'art » : II, 5, 3, 2.
 
-[^1009]: 450:1 Voir [p. 448](Book_1_2_6#p448), note [1](Book_1_2_6#fn1003).
+[^1009]: 450:1 Voir [p. 448](../Book_1_2_6#p448), note [1](../Book_1_2_6#fn1003).
 
 [^1010]: 451:1 Le texte Kânva ajoute : Et lorsqu'il accomplit le Sunâsîrîya, alors il devient Vâyu, et atteint l'union avec Vâyu et la coexistence dans son monde.
 

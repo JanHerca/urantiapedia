@@ -68,7 +68,7 @@ Eh bien, ô le meilleur des Kauravas ! Je vais t'exposer mes propres émanations
 
 ## Notes de bas de page
 
-[^342]: 86:1 Cf. [p. 79](Bhagavadgita_8#p79) supra.
+[^342]: 86:1 Cf. [p. 79](../Bhagavadgita_8#p79) supra.
 
 [^343]: 86:2 Comme se référant à l'âme suprême.
 
@@ -88,7 +88,7 @@ Eh bien, ô le meilleur des Kauravas ! Je vais t'exposer mes propres émanations
 
 [^351]: 88:1 Il étant impossible de vous connaître pleinement, à quelle manifestation particulière de vous devrions-nous recourir pour nos méditations ?
 
-[^352]: 88:2 P. [129](Bhagavadgita_18#p129) infra.
+[^352]: 88:2 P. [129](../Bhagavadgita_18#p129) infra.
 
 [^353]: 88:3 'Âditya est utilisé dans le Veda principalement comme épithète générale pour un certain nombre de divinités solaires.' Max Müller, Hibbert Lectures, p. 264.
 
@@ -108,7 +108,7 @@ Eh bien, ô le meilleur des Kauravas ! Je vais t'exposer mes propres émanations
 
 [^361]: 89:1 Cf. Sutta Nipāta, p. 121.
 
-[^362]: 89:2 Voir [p. 79](Bhagavadgita_8#p79) supra.
+[^362]: 89:2 Voir [p. 79](../Bhagavadgita_8#p79) supra.
 
 [^363]: 89:3 <i>Gapa</i> est la méditation silencieuse. Madhusûdana dit qu'elle est supérieure car elle n'implique pas l'abattage d'un animal, etc.
 
@@ -120,7 +120,7 @@ Eh bien, ô le meilleur des Kauravas ! Je vais t'exposer mes propres émanations
 
 [^367]: 89:7 Cf. Sutta Nipāta, p. 121.
 
-[^368]: 89:8 C'est-à-dire pas la simple passion charnelle. Cf. [p. 74](Bhagavadgita_7#p74) supra.
+[^368]: 89:8 C'est-à-dire pas la simple passion charnelle. Cf. [p. 74](../Bhagavadgita_7#p74) supra.
 
 [^369]: 89:9 Les Nâgas sont sans poison, dit <i>S</i>rîdhara. Varuna est le dieu de la mer.
 
@@ -132,7 +132,7 @@ Eh bien, ô le meilleur des Kauravas ! Je vais t'exposer mes propres émanations
 
 [^373]: 90:2 « Ceux qui ont la capacité de mouvement », dit Râmânu<i>g</i>a.
 
-[^374]: 90:3 Le héros de l'épopée hindoue, Râmâyana, traduit en vers par M. RTH [Griffith](errata.htm#0).
+[^374]: 90:3 Le héros de l'épopée hindoue, Râmâyana, traduit en vers par M. RTH [Griffith](../errata.htm#0).
 
 [^375]: 90:4 Le dauphin.
 

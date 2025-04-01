@@ -29,7 +29,9 @@ dateCreated: 2024-11-18T23:1:26Z
   </table>
 </figure>
 
-<span id="p60">[<sup><small>p. 60 p. 61</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
+
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Page [1](./Text#p1). Laila, Majnún.—tous types bien connus d'amants orientaux. Shírín et ses prétendants figurent dans la Sec. XX.
 
@@ -135,7 +137,7 @@ Page [36](./Text#p36). Il le jeta, etc. — Une histoire raconte que Khusrau ava
 
 Page [36](./Text#p36). Volonté déchargée. — Il l'hypnotise ! — Voir aussi plus loin sur ce pouvoir de la volonté dans les sections XXIII. et XXVI.
 
-Page [38](./Text#p38). Le Minion.—“Shah” et “Sháhid” (Maîtresse)—une sorte de jeu de mots dont les poètes persans sont friands.
+Page [38](./Text#p38). Le Minion.—« Shah » et « Sháhid » (Maîtresse)—une sorte de jeu de mots dont les poètes persans sont friands.
 
 Page [41](./Text#p41). Angoisse.—
 

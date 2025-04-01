@@ -72,7 +72,7 @@ Quelle (forme de) piété est considérée comme la plus digne d'être accomplie
 
 [^1950]: 375:4 C'est le point de vue de ceux qui soutiennent la théorie du Pari<i>n</i>âma, ou développement, dit Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1951]: 375:5 'Être un' = la connaissance doit être toute d'une seule description, 'distinct' = la connaissance doit avoir diverses entités pour objets distincts (c'est le point de vue des détenteurs du Vi<i>g</i>ñânavâda, dit Ar<i>g</i>una Mi<i>s</i>ra) ; multiple = que les sois sont innombrables. Les mots ici sont presque identiques à ceux de la Gîtâ, [p. 83](Bhagavadgita_9#p83), voir note [4](Bhagavadgita_9#fn323) ici.
+[^1951]: 375:5 'Être un' = la connaissance doit être toute d'une seule description, 'distinct' = la connaissance doit avoir diverses entités pour objets distincts (c'est le point de vue des détenteurs du Vi<i>g</i>ñânavâda, dit Ar<i>g</i>una Mi<i>s</i>ra) ; multiple = que les sois sont innombrables. Les mots ici sont presque identiques à ceux de la Gîtâ, [p. 83](../Bhagavadgita_9#p83), voir note [4](../Bhagavadgita_9#fn323) ici.
 
 [^1952]: 375:6 C'est-à-dire aider dans l'action, Ar<i>g</i>una Mi<i>s</i>ra.
 

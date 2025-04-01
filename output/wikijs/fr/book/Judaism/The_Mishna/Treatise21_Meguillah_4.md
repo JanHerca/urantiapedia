@@ -96,7 +96,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 [^610]: 190:10 Ceci est rendu selon le commentaire de Maïmonide ; mais ce passage est expliqué de diverses manières.
 
-[^611]: 190:11 Voir Note [^600], page [188](Treatise13_Erubin_2#p188).
+[^611]: 190:11 Voir Note [^600], page [188](../Treatise13_Erubin_2#p188).
 
 [^612]: 190:12 Il est interdit de regarder les prêtres pendant qu'ils prononcent la bénédiction ‏ברכת כהנים‎.
 

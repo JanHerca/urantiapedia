@@ -60,7 +60,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 <span id="v3_5_1_1212"><sup><small>3:5:1:1212.</small></sup></span> Ce haut autel (Uttaravedi [^295]) est le nez du sacrifice ; parce qu'ils le jettent de manière à être plus haut que l'autel, c'est pourquoi il est appelé « haut autel ».
 
-<span id="v3_5_1_1313"><sup><small>3:5:1:1313.</small></sup></span> Au commencement, il y avait ici deux sortes d'êtres : les Âdityas et les Aṅgiras. Les Aṅgiras furent les premiers à préparer un sacrifice, et après l'avoir préparé, ils dirent à Agni : « Annonce aux Âdityas notre fête du Soma de demain, en disant : “Prenez part à notre sacrifice !” »
+<span id="v3_5_1_1313"><sup><small>3:5:1:1313.</small></sup></span> Au commencement, il y avait ici deux sortes d'êtres : les Âdityas et les Aṅgiras. Les Aṅgiras furent les premiers à préparer un sacrifice, et après l'avoir préparé, ils dirent à Agni : « Annonce aux Âdityas notre fête du Soma de demain, en disant : « Prenez part à notre sacrifice ! » »
 
 <span id="v3_5_1_1414"><sup><small>3:5:1:1414.</small></sup></span> Les Âdityas se dirent : « Trouvez-vous comment les Angiras nous serviront, et non pas nous les Angiras ! »
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^291]: 111:2 La préparation des autels spéciaux — à savoir le grand autel du Soma (mahâ-vedi, ou saumikî-vedi) et le « maître autel » (uttara-vedi) sur le premier — a lieu l'avant-dernier jour de l'Upasad, après la représentation matinale des Upasads.
 
-[^292]: 111:3 Ce poteau se trouve au milieu de la porte est de la salle ou Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, juste devant le feu Âhavanîya. Voir [p. 3](Book_2_3_1#p3), note [2](Book_2_3_1#fn27).
+[^292]: 111:3 Ce poteau se trouve au milieu de la porte est de la salle ou Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, juste devant le feu Âhavanîya. Voir [p. 3](../Book_2_3_1#p3), note [2](../Book_2_3_1#fn27).
 
 [^293]: 111:4 Anta<i>h</i>pâta, lit. 'situé à l'intérieur ou entre', car il se trouve p. 112 entre le (nouvel) autel et les feux et l'autel du Prâ<i>k</i>îna-va<i>m</i><i>s</i>a. Voir III, 5, 2, 2.
 
@@ -309,7 +309,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^303]: 115:2 Âdadânâ <i>k</i>a<i>k</i>âra = <i>g</i>ighatsayâ samîpastha<i>m</i> sarva<i>m</i> svîkurvatî, Sây.
 
-[^304]: 115:3 Voir [III](Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](Book_2_3_5#v3_5_2_11).
+[^304]: 115:3 Voir [III](../Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](../Book_2_3_5#v3_5_2_11).
 
 [^305]: 116:1 C'est-à-dire que la fosse (<i>k</i>âtvâla) d'où est prélevée la terre pour le maître-autel est mesurée avec la cheville, et le maître-autel avec le joug. Sâya<i>n</i>a semble le prendre différemment : Yatra yasmin de<i>s</i>e yugena haranti yato yasmât tatra <i>s</i>amyayâpi haranti.
 
@@ -337,7 +337,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^318]: 119:2 Il prend avec la bêche tout ce qui est nécessaire pour faire le maître-autel de la taille convenable.
 
-[^319]: 119:3 Cette affirmation semble avoir grandement intrigué les ritualistes ultérieurs, comme le montrent Kâty. V, 3, 32-35 et les commentaires qui s'y rapportent. La règle 32 stipule, conformément au [paragraphe 26](Book_2_3_5#v3_5_1_26) ci-dessus, que l'Adhvaryu doit construire le maître-autel de la taille de l'axe du joug et de la fosse, soit environ deux pieds carrés. La règle suivante laisse ensuite le choix entre quatre autres mesures : il peut le faire soit d'un tiers de la surface du grand autel, soit d'une taille illimitée, soit de la taille du joug (86 aṅgulas = environ 1,50 m à 1,60 m) ou de dix pieds du sacrificateur. Cette dernière mesure est expliquée de manière assez ingénieuse par Harisvâmin, comme signifiant que le maître-autel doit former p. 120 un rectangle de trois pieds sur un pied, alors qu'en comptant le nombre de côtés des trois carrés ainsi obtenus, on obtient dix côtés d'un pied chacun. Cependant, la répétition de « dasa » dans notre texte – qui ne peut signifier que « dix pieds de chaque côté » – ne favorise pas cette explication. Les deux dernières alternatives, selon les règles 34-35, ne s'appliquent qu'au sacrifice du Soma, car sinon l'autel (comme dans le cas de l'« autel du nord » au Kâturmâsya, cf. partie i, p. 392) ne serait pas assez grand pour contenir un « maître-autel » de cette taille.
+[^319]: 119:3 Cette affirmation semble avoir grandement intrigué les ritualistes ultérieurs, comme le montrent Kâty. V, 3, 32-35 et les commentaires qui s'y rapportent. La règle 32 stipule, conformément au [paragraphe 26](../Book_2_3_5#v3_5_1_26) ci-dessus, que l'Adhvaryu doit construire le maître-autel de la taille de l'axe du joug et de la fosse, soit environ deux pieds carrés. La règle suivante laisse ensuite le choix entre quatre autres mesures : il peut le faire soit d'un tiers de la surface du grand autel, soit d'une taille illimitée, soit de la taille du joug (86 aṅgulas = environ 1,50 m à 1,60 m) ou de dix pieds du sacrificateur. Cette dernière mesure est expliquée de manière assez ingénieuse par Harisvâmin, comme signifiant que le maître-autel doit former p. 120 un rectangle de trois pieds sur un pied, alors qu'en comptant le nombre de côtés des trois carrés ainsi obtenus, on obtient dix côtés d'un pied chacun. Cependant, la répétition de « dasa » dans notre texte – qui ne peut signifier que « dix pieds de chaque côté » – ne favorise pas cette explication. Les deux dernières alternatives, selon les règles 34-35, ne s'appliquent qu'au sacrifice du Soma, car sinon l'autel (comme dans le cas de l'« autel du nord » au Kâturmâsya, cf. partie i, p. 392) ne serait pas assez grand pour contenir un « maître-autel » de cette taille.
 
 [^320]: 120:1 Le texte Kânva veut qu'il soit fait à l'arrière (<i>g</i>aghanena).
 
@@ -347,21 +347,21 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^323]: 121:1 Le transfert du feu de l'Âhavanîya vers le maître-autel a lieu le matin du dernier jour d'Upasad (c'est-à-dire le jour précédant le jour de la pression, et appelé upavasatha, ou jour de préparation). Il est précédé par la double exécution ou la combinaison des offrandes d'Upasad (dont l'une a eu lieu l'après-midi des deux jours précédents).
 
-[^324]: 121:2 On met du gravier dans un bac pour que le bois brûlant repose dessus, lorsqu'il doit être transféré de l'Âhavanîya au nouvel autel. Français Les Taittirîyas mélangent au gravier un quart de la poussière de l'empreinte de la vache Soma ([III, 3, 1, 6](Book_2_3_3#v3_3_1_6)), les trois autres parties étant utilisées respectivement pour oindre l'essieu du chariot Soma ([III, 5, 3, 13](Book_2_3_5#v3_5_3_13)), pour la sous-couche du feu Âgnîdhra ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)), et pour disperser derrière le Gârhapatya ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)\-[7](Book_2_3_6#v3_6_3_7)).
+[^324]: 121:2 On met du gravier dans un bac pour que le bois brûlant repose dessus, lorsqu'il doit être transféré de l'Âhavanîya au nouvel autel. Français Les Taittirîyas mélangent au gravier un quart de la poussière de l'empreinte de la vache Soma ([III, 3, 1, 6](../Book_2_3_3#v3_3_1_6)), les trois autres parties étant utilisées respectivement pour oindre l'essieu du chariot Soma ([III, 5, 3, 13](../Book_2_3_5#v3_5_3_13)), pour la sous-couche du feu Âgnîdhra ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)), et pour disperser derrière le Gârhapatya ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)\-[7](../Book_2_3_6#v3_6_3_7)).
 
 [^325]: 121:3 Littéralement, ils soulèvent la sous-couche en dessous (le bois brûlant).
 
 [^326]: 121:4 Pour les huit versets (ou douze, le premier et le dernier étant récités trois fois chacun) que le Hot<i>ri</i> doit répéter tandis que le feu est porté vers l'est et déposé sur le maître-autel, voir Ait. Br. I, 28 ; Â<i>s</i>v. Sr. II, 17. Pour les devoirs du Brahman, voir Kâty. XI, 1, 9.
 
-[^327]: 122:1 Voir [III, 5, 1, 1](Book_2_3_5#v3_5_1_1).
+[^327]: 122:1 Voir [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1).
 
 [^328]: 122:2 L'Âhavanîya ou feu d'offrande étant maintenant transféré au nouvel autel, l'ancien foyer de l'Âhavanîya est désormais utilisé comme Gârhapatya ; et une ligne est tracée de celui-ci jusqu'à l'anta<i>h</i>pâta, marquant le milieu du côté ouest du grand autel.
 
 [^329]: 122:3 En « conduisant vers l'avant » le feu, ils avancent le long du côté nord du grand autel.
 
-[^330]: 122:4 Indraghoshá, peut-être « le nom de l'Inde » ; Mahîdhara et Sâya<i>n</i>a le prennent pour « celui dont on parle comme Indra » (c'est-à-dire appelé Indra), ce qui, cependant, nécessiterait l'accent « índraghosha ». Peut-être que « le bruit d'Indra » signifie Agni, le feu rugissant : pour Agni et les Vasus, voir [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^330]: 122:4 Indraghoshá, peut-être « le nom de l'Inde » ; Mahîdhara et Sâya<i>n</i>a le prennent pour « celui dont on parle comme Indra » (c'est-à-dire appelé Indra), ce qui, cependant, nécessiterait l'accent « índraghosha ». Peut-être que « le bruit d'Indra » signifie Agni, le feu rugissant : pour Agni et les Vasus, voir [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
-[^331]: 122:5 Pra<i>k</i>etas, ici Varu<i>n</i>a selon Mahîdhara et Sâya<i>n</i>a. Cf. [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^331]: 122:5 Pra<i>k</i>etas, ici Varu<i>n</i>a selon Mahîdhara et Sâya<i>n</i>a. Cf. [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
 [^332]: 123:1 'Mano<i>g</i>avas' est considéré par Mahîdhara et Sâya<i>n</i>a comme faisant référence à Yama.
 
@@ -371,7 +371,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^335]: 124:2 Le sud-est est sacré pour Agni, le nord-ouest pour Vâyu.
 
-[^336]: 124:3 Parce que les Âdityas l'ont amenée comme Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](Book_2_3_5#v3_5_1_18).
+[^336]: 124:3 Parce que les Âdityas l'ont amenée comme Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](../Book_2_3_5#v3_5_1_18).
 
 [^337]: 124:4 Mais à cause de l'absence d'un pronom démonstratif avec â<i>s</i>î<i>h</i>, on voudrait prendre le passage ainsi : « Abondante, en vérité, est cette prière pour la bénédiction parmi les textes sacrificiels : il prie ainsi pour le sacerdoce et la noblesse. » Cf. I, 2, 1, 7.
 
@@ -379,39 +379,39 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^339]: 125:2 Le texte de Kânva en fait ses os.
 
-[^340]: 126:1 Ordinairement, la disposition des paridhis a lieu immédiatement avant que le feu soit allumé pour l'offrande ; mais comme l'offrande suivante ne doit pas être retirée avant un certain temps, le feu serait sans protection s'il devait le laisser sans les bâtons qui l'entourent. Sâya<i>n</i>a prend 'dûre' dans le sens de 'dans un long temps', comme ci-dessus ; mais il pourrait être pris de l'espace 'lointain', lorsque le passage se réfère à l'offrande sur le point d'être effectuée sur l'ancien Âhavanîya ([III, 5, 3, 10](Book_2_3_5#v3_5_3_10) seq.) ; et il peut être remarqué en référence à ce point, que, selon Kâty. VIII, 3, 30, ce feu ne devient le Gârhapatya qu'immédiatement après cette offrande.
+[^340]: 126:1 Ordinairement, la disposition des paridhis a lieu immédiatement avant que le feu soit allumé pour l'offrande ; mais comme l'offrande suivante ne doit pas être retirée avant un certain temps, le feu serait sans protection s'il devait le laisser sans les bâtons qui l'entourent. Sâya<i>n</i>a prend 'dûre' dans le sens de 'dans un long temps', comme ci-dessus ; mais il pourrait être pris de l'espace 'lointain', lorsque le passage se réfère à l'offrande sur le point d'être effectuée sur l'ancien Âhavanîya ([III, 5, 3, 10](../Book_2_3_5#v3_5_3_10) seq.) ; et il peut être remarqué en référence à ce point, que, selon Kâty. VIII, 3, 30, ce feu ne devient le Gârhapatya qu'immédiatement après cette offrande.
 
 [^341]: 126:2 Yâvat-tâvat semble plutôt signifier ici « de proportions correspondantes (ou relativement identiques) » à celles d'un homme, c'est-à-dire en tant que sacrificateur respectif. « Sa vai tâyamâno yâvân eva purushas tâvân vidhîyate, purushasyaiva vidhâm anu. » Kânva rec.
 
 [^342]: 126:3 Soma lui-même est Vish<i>n</i>u.
 
-[^343]: 126:4 Voir [III, 6, 1, 23](Book_2_3_6#v3_6_1_23); [2, 21](Book_2_3_6#v3_6_2_21).
+[^343]: 126:4 Voir [III, 6, 1, 23](../Book_2_3_6#v3_6_1_23); [2, 21](../Book_2_3_6#v3_6_2_21).
 
-[^344]: 127:1 Voir [III, 6, 2, 21](Book_2_3_6#v3_6_2_21).
+[^344]: 127:1 Voir [III, 6, 2, 21](../Book_2_3_6#v3_6_2_21).
 
 [^345]: 127:2 C'est-à-dire les (anciens) feux Âhavanîya et Gârhapatya du Prâ<i>k</i>îna-va<i>m</i><i>s</i>a.
 
-[^346]: 127:3 Le chariot du sud (et le plus grand) est sous la responsabilité de l'Adhvaryu et celui du nord sous celle de son assistant, le Pratiprasthât<i>ri</i>. Chacun conduit alors son chariot vers l'ouest, le long des côtés sud et nord respectivement ; et lorsqu'ils sont en face de la salle (<i>s</i>âla), ils font tourner les chariots de gauche à droite ; sur quoi ils retournent à l'autel et les placent dessus avec les tiges vers l'est, près de l'anta<i>h</i>pâta (cheville 'intermédiaire', voir [III, 5, 1, 1](Book_2_3_5#v3_5_1_1)), au sud et au nord de la 'colonne vertébrale' (cf. [p. 112](Book_2_3_5#p112), note [2](Book_2_3_5#fn294)), chacun à une distance d'une coudée de cette dernière.
+[^346]: 127:3 Le chariot du sud (et le plus grand) est sous la responsabilité de l'Adhvaryu et celui du nord sous celle de son assistant, le Pratiprasthât<i>ri</i>. Chacun conduit alors son chariot vers l'ouest, le long des côtés sud et nord respectivement ; et lorsqu'ils sont en face de la salle (<i>s</i>âla), ils font tourner les chariots de gauche à droite ; sur quoi ils retournent à l'autel et les placent dessus avec les tiges vers l'est, près de l'anta<i>h</i>pâta (cheville 'intermédiaire', voir [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1)), au sud et au nord de la 'colonne vertébrale' (cf. [p. 112](../Book_2_3_5#p112), note [2](../Book_2_3_5#fn294)), chacun à une distance d'une coudée de cette dernière.
 
-[^347]: 127:4 Pour faire incliner le hangar vers le nord, cf. [III, 1, 1, 2](Book_2_3_1#v3_1_1_2).
+[^347]: 127:4 Pour faire incliner le hangar vers le nord, cf. [III, 1, 1, 2](../Book_2_3_1#v3_1_1_2).
 
 [^348]: 128:1 Je ne sais pas si les dispositions mentionnées dans ce paragraphe se réfèrent d'abord aux charrettes, et doivent ensuite être répétées après la construction du hangar, ou si, comme je le pense, certaines d'entre elles se réfèrent uniquement au hangar. Même à l'époque des Kâty. Sûtras, il semble y avoir eu une certaine confusion à cet égard, et les règles VIII, 4, 7-12 (10-15, dans l'édition) ont été entièrement mal comprises par le commentateur. Il est cependant certain que les charrettes étaient recouvertes de nattes, avant d'être déplacées de l'arrière vers l'avant de l'autel. Quant au hangar, il semble avoir été construit de la manière suivante. Devant et derrière les charrettes, des poutres sont enfoncées dans le sol, six de chaque côté, selon Sâya<i>n</i>a sur TS I, 2, 13 ; les deux du milieu, une coudée au nord et au sud de l'« épine dorsale » respectivement, formant une porte de chaque côté (Kâty. VIII, 4, 24 scholl.). Sur ces deux rangées de poutres sont posées d'autres poutres, allant du sud au nord, et formant, pour ainsi dire, les linteaux des portes ; et sur elles reposent les tirants (d'ouest en est). Cette charpente doit former un carré de neuf (ou dix) coudées. Sur les tirants, trois nattes de roseau (<i>k</i>adis) — mesurant neuf (ou dix) coudées sur trois (3½) — sont étalées, du sud au nord ; d'abord celle du milieu, puis les deux autres, derrière et devant elle. Des claies verticales (ou nattes de roseau) sont ensuite tendues entre les poteaux d'angle respectifs, de manière à former les côtés sud et nord du hangar ; et sont « cousues » aux poteaux d'angle. Entre les sommets des deux montants de la porte d'entrée, une bande ou une guirlande de touffes de roseaux tressées (ou, selon Haug, un bouquet d'herbe Darbha, composé de tiges sèches et vertes) est accrochée, pour représenter soit un filet ou une couronne portée sur le front (?), soit comme une guirlande de porte.
 
-[^349]: 128:2 Cette remarque semblerait impliquer qu'il n'y a que deux nattes (cf. parags. [23](Book_2_3_5#v3_5_3_23), [24](Book_2_3_5#v3_5_3_24)), mais peut-être est-elle simplement destinée à montrer que deux nattes sont réparties derrière et devant la première natte (c'est-à-dire du sud au nord, et non d'ouest en est) ; et non pas qu'il n'y a que deux nattes.
+[^349]: 128:2 Cette remarque semblerait impliquer qu'il n'y a que deux nattes (cf. parags. [23](../Book_2_3_5#v3_5_3_23), [24](../Book_2_3_5#v3_5_3_24)), mais peut-être est-elle simplement destinée à montrer que deux nattes sont réparties derrière et devant la première natte (c'est-à-dire du sud au nord, et non d'ouest en est) ; et non pas qu'il n'y a que deux nattes.
 
 [^350]: 128:3 Si le paragraphe précédent se réfère (au moins en partie) au hangar, p. 129, alors l'atha signifie ici « Maintenant, en premier lieu », introduisant ainsi des détails préliminaires à ce qui vient d'être énoncé.
 
-[^351]: 129:1 Voir [III, 2, 4, 16](Book_2_3_2#v3_2_4_16). Je réfère maintenant 'etayâ' à 'vâ<i>k</i>am', comme le fait Sâya<i>n</i>a, — yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. Il explique 'prakâmodya' par 'mlai<i>k</i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am', langage barbare et mondain.
+[^351]: 129:1 Voir [III, 2, 4, 16](../Book_2_3_2#v3_2_4_16). Je réfère maintenant 'etayâ' à 'vâ<i>k</i>am', comme le fait Sâya<i>n</i>a, — yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. Il explique 'prakâmodya' par 'mlai<i>k</i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am', langage barbare et mondain.
 
 [^352]: 129:2 Vipa<i>s</i><i>k</i>it, probablement « penseur d'hymnes ». Le sens que notre auteur a attribué à ce mot reste incertain. Mahîdhara l'explique par sarva<i>g</i><i>ñ</i>a, « omniscient ». Sâya<i>n</i>a, sur Taitt. S. I, 2, 13, fait référence à « viprasya b<i>ri</i>hato vipa<i>s</i><i>k</i>itah » pour désigner le sacrificateur.
 
-[^353]: 130:1 C'est-à-dire les goupilles de fer enfoncées dans l'essieu, autour desquelles tournent les moyeux des roues. Voir aussi [p. 121](Book_2_3_5#p121), note [2](Book_2_3_5#fn322).
+[^353]: 130:1 C'est-à-dire les goupilles de fer enfoncées dans l'essieu, autour desquelles tournent les moyeux des roues. Voir aussi [p. 121](../Book_2_3_5#p121), note [2](../Book_2_3_5#fn322).
 
 [^354]: 130:2 Ils la font entrer dans la salle par la porte sud et faire le tour par l'arrière de la (vieille) cheminée de Gârhapatya jusqu'aux traces de roues du côté nord où le Pratiprasthât<i>ri</i> est sur le point d'offrir.
 
 [^355]: 130:3 Les rayons du soleil sont apparemment comparés à des cordes avec lesquelles il maintient la terre droite et ferme.
 
-[^356]: 131:1 En récitant son hymne de huit versets (portés, comme d'habitude, à douze par la répétition du premier et du dernier verset), le Hotri doit suivre les charrettes de manière à avoir la trace nord de la charrette sud entre ses pieds. Cf. [p. 79](Book_2_3_3#p79), note [1](Book_2_3_3#fn208). Pour les versets récités par lui, voir Ait. Br. I, 29 ; Â<i>s</i>v. <i>S</i>r. IV, 9.
+[^356]: 131:1 En récitant son hymne de huit versets (portés, comme d'habitude, à douze par la répétition du premier et du dernier verset), le Hotri doit suivre les charrettes de manière à avoir la trace nord de la charrette sud entre ses pieds. Cf. [p. 79](../Book_2_3_3#p79), note [1](../Book_2_3_3#fn208). Pour les versets récités par lui, voir Ait. Br. I, 29 ; Â<i>s</i>v. <i>S</i>r. IV, 9.
 
 [^357]: 131:2 Ou, « ne faiblis pas ! »
 
@@ -427,7 +427,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^363]: 133:2 Voir [p. 128](#p128), note [^346].
 
-[^364]: 133:3 Apparemment, il s'agit de l'os pariétal ; ou peut-être de l'os frontal. Le texte de Kânva dit : « Il touche ensuite cette natte de roseau, ou p. 134 cadre de canne, au-dessus, avec “Que Vishnu…” car c'est pour lui (Vishnu, le hangar) ce qu'est cet os du crâne ici-haut. Et quand il dit “ils demeurent dessus”, c'est parce qu'ils reposent sur les autres os du crâne \[? adhi hy etad anyeshu kapâleshu kshiyanti!\]. Alors, les deux natte de roseau qui se trouvent sur les deux chariots, elles sont en effet pour lui ce que sont les deux os du crâne ici de chaque côté. Et cette natte de roseau, ou cadre de canne, qu'il place là-bas derrière (ou derrière celui-là), c'est pour lui ce qu'est l'os du crâne derrière. »
+[^364]: 133:3 Apparemment, il s'agit de l'os pariétal ; ou peut-être de l'os frontal. Le texte de Kânva dit : « Il touche ensuite cette natte de roseau, ou p. 134 cadre de canne, au-dessus, avec « Que Vishnu… » car c'est pour lui (Vishnu, le hangar) ce qu'est cet os du crâne ici-haut. Et quand il dit « ils demeurent dessus », c'est parce qu'ils reposent sur les autres os du crâne \[? adhi hy etad anyeshu kapâleshu kshiyanti!\]. Alors, les deux natte de roseau qui se trouvent sur les deux chariots, elles sont en effet pour lui ce que sont les deux os du crâne ici de chaque côté. Et cette natte de roseau, ou cadre de canne, qu'il place là-bas derrière (ou derrière celui-là), c'est pour lui ce qu'est l'os du crâne derrière. »
 
 [^365]: 134:1 Syû, expliqué par Sâya<i>n</i>a comme « fil, cordon », par Mahîdhara comme « aiguille ».
 
@@ -453,7 +453,7 @@ dateCreated: 2025-1-16T20:3:37Z
 
 [^376]: 139:2 Cp. I, 3, 3, 7 seq.
 
-[^377]: 139:3 Ou, les cheveux de l'homme sacrificiel ; voir [III, 5, 3, 1](Book_2_3_5#v3_5_3_1) seq.
+[^377]: 139:3 Ou, les cheveux de l'homme sacrificiel ; voir [III, 5, 3, 1](../Book_2_3_5#v3_5_3_1) seq.
 
 [^378]: 140:1 Les planches de pressage mesurent une coudée de long et sont un peu plus larges à l'arrière qu'à l'avant. Elles sont placées l'une au sud de l'autre et de manière à être proches l'une de l'autre derrière (sambaddhânte, Kânva rec.), soit à deux pouces d'intervalle. L'espace entre elles est comblé avec de la terre.
 

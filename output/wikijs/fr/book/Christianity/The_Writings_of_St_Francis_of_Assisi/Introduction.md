@@ -164,7 +164,7 @@ _Paradiso_, XI-114.
 
 [^10]: xiv:1 Voir _Leg. III Soc._, 10.
 
-[^11]: xiv:2 Eccleston parle de son « faux latin ». Voir ci-dessous, [p. 132](Part_2_6#p132).
+[^11]: xiv:2 Eccleston parle de son « faux latin ». Voir ci-dessous, [p. 132](../Part_2_6#p132).
 
 [^12]: xiv:3 Quelques-uns des plus grands troubadours de Provence séjournaient alors en Italie. Sur leurs voyages et leur influence dans ce pays, voir Fauriel, _Histoire de la poésie provençale_, t. II, et trois articles du même auteur dans la « Bibliothèque de l'École des Chartes », t. III et IV. Des fragments de leurs poèmes sont donnés par Monaci : _Testi antichi provenzali_ (Rome, 1889).
 
@@ -174,15 +174,15 @@ _Paradiso_, XI-114.
 
 [^15]: xv:2 1 Cél. 1.
 
-[^16]: xv:3 Voir ci-dessous, [p. 130](Part_2_6#p130).
+[^16]: xv:3 Voir ci-dessous, [p. 130](../Part_2_6#p130).
 
 [^17]: xv:4 M. Sabatier (_Vie de S. François_, p. 5) suggère que frère Léon a pu agir en cette qualité, et invoque l'autorité de Bernard de Besse pour le prouver.
 
-[^18]: xvi:1 Pour le témoignage de saint Bonaventure et de Celano, voir ci-dessous, [p. 147](Part_3_4#p147).
+[^18]: xvi:1 Pour le témoignage de saint Bonaventure et de Celano, voir ci-dessous, [p. 147](../Part_3_4#p147).
 
 [^19] : xvi : 2 Voir Tract. de Miraculis., _Anal. Boulon. XVIII, p. 115.
 
-[^20]: xvii:1 Voir ci-dessous, [p. 27](Part_1_4#p27).
+[^20]: xvii:1 Voir ci-dessous, [p. 27](../Part_1_4#p27).
 
 [^21] : xviii:1 Voir Lemmens : De duobus generibus vitarum SP Francisci dans _Doct. Fourmi. Franc._, P. II, p. 9 ; et de Kerval : Les Sources de l'histoire de S. François dans _Bullettino Critico_, fasc. Moi, p. 3.
 
@@ -190,27 +190,27 @@ _Paradiso_, XI-114.
 
 [^23] : xix:1 Voir Ehrle, SJ : Die historischen Handschriften des Klosters San Francesco in Assisi dans _Archiv für Litteratur_, etc., t. I, p.484 ; Mgr. Faloci Pulignani dans le _Miscell. Francescana_, t. VI, p. 46 ; M. Sabatier : _Vie de S. François_, I, p. 370 ; et Professeur Alessandri : _Inventario dei manoscritti della biblioteca del conv. de S. Francesco di Assisi_, p. 57.
 
-[^24]: xix:2 Voir page [64](Part_1_4#p64).
+[^24]: xix:2 Voir page [64](../Part_1_4#p64).
 
-[^25]: xix:3 Voir page [81](Part_1_6#p81).
+[^25]: xix:3 Voir page [81](../Part_1_6#p81).
 
-[^26]: xix:4 Voir page [5](Part_1_1#p5).
+[^26]: xix:4 Voir page [5](../Part_1_1#p5).
 
-[^27]: xix:5 Voir page [98](Part_2_1#p98).
+[^27]: xix:5 Voir page [98](../Part_2_1#p98).
 
-[^28]: xix:6 Voir page [111](Part_2_2#p111).
+[^28]: xix:6 Voir page [111](../Part_2_2#p111).
 
-[^29]: xix:7 Voir page [23](Part_1_3#p23).
+[^29]: xix:7 Voir page [23](../Part_1_3#p23).
 
-[^30]: xix:8 Voir page [20](Part_1_2#p20).
+[^30]: xix:8 Voir page [20](../Part_1_2#p20).
 
-[^31]: xix:9 Voir page [152](Part_3_5#p152).
+[^31]: xix:9 Voir page [152](../Part_3_5#p152).
 
-[^32]: xix:10 Voir page [139](Part_3_1#p139).
+[^32]: xix:10 Voir page [139](../Part_3_1#p139).
 
-[^33]: xix:11 Voir page [155](Part_3_6#p155).
+[^33]: xix:11 Voir page [155](../Part_3_6#p155).
 
-[^34]: xix:12 Voir page [89](Part_1_7#p89).
+[^34]: xix:12 Voir page [89](../Part_1_7#p89).
 
 [^35] : xx:1 Voir _Speculum Perfectionis_ (éd. Sabatier), p. clxxvi, pour la description de ces trois MSS.
 
@@ -232,9 +232,9 @@ _Paradiso_, XI-114.
 
 [^44]: xxi:2 Mes références aux _Conformités_ se rapportent à l'édition de Milan de 1510. L'édition publiée en 1590, en particulier dans la partie historique, est mutilée et corrompue à presque chaque page, comme je peux personnellement en témoigner après une comparaison avec plusieurs anciennes versions manuscrites.
 
-[^45]: xxi:3 Voir ci-dessous, [p. 121](Part_2_3#p121).
+[^45]: xxi:3 Voir ci-dessous, [p. 121](../Part_2_3#p121).
 
-[^46]: xxi:4 Voir ci-dessous, [p. 118](Part_2_2#p118).
+[^46]: xxi:4 Voir ci-dessous, [p. 118](../Part_2_2#p118).
 
 [^47]: xxii:1 Il fut imprimé à Venise « expensis domini Jordani de Dinslaken per Simonem de Lucre » en 1504, et à Metz « per Jasparem Hochffeder » en 1509. Ces deux éditions sont identiques. Il fut réédité par Spoelberch à Anvers en 1620.
 

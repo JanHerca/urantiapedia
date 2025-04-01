@@ -44,7 +44,7 @@ Celui qui connaît le Brahman atteint le plus haut (Brahman). À ce sujet, le ve
 
 « Celui qui connaît Brahman, qui est (c'est-à-dire cause, non effet), qui est conscient, qui est sans fin, comme caché dans la profondeur (du cœur), dans l'éther le plus élevé, il jouit de toutes les bénédictions, en un avec le Brahman omniscient. »
 
-De ce Soi [^213] (Brahman) jaillit l'éther (âkâ<i>s</i>a, ce par quoi nous entendons) ; de l'éther l'air (ce par quoi nous entendons et ressentons) ; de l'air le feu (ce par quoi nous entendons, ressentons et voyons) ; du feu l'eau (ce par quoi nous entendons, sentons, voyons et goûtons) ; de l'eau la terre (ce par quoi nous entendons, sentons, voyons, goûtons et sentons). De la terre les herbes, des herbes la nourriture, de la nourriture la graine, de la graine l'homme. L'homme est ainsi constitué de l'essence de la nourriture. Ceci est sa tête, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> ceci son bras droit, ceci son bras gauche, ceci son tronc (Âtman), ceci le siège (le support) [1](Taittiriyaka_2#fn214).
+De ce Soi [^213] (Brahman) jaillit l'éther (âkâ<i>s</i>a, ce par quoi nous entendons) ; de l'éther l'air (ce par quoi nous entendons et ressentons) ; de l'air le feu (ce par quoi nous entendons, ressentons et voyons) ; du feu l'eau (ce par quoi nous entendons, sentons, voyons et goûtons) ; de l'eau la terre (ce par quoi nous entendons, sentons, voyons, goûtons et sentons). De la terre les herbes, des herbes la nourriture, de la nourriture la graine, de la graine l'homme. L'homme est ainsi constitué de l'essence de la nourriture. Ceci est sa tête, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> ceci son bras droit, ceci son bras gauche, ceci son tronc (Âtman), ceci le siège (le support) [1](../Taittiriyaka_2#fn214).
 
 Il y a également le <i>S</i>loka suivant à ce sujet :
 
@@ -106,7 +106,7 @@ Viennent ensuite les questions de l'élève :
 
 <span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
-La réponse est : Il souhaita : « Puissé-je être multiple [1](Taittiriyaka_2#fn219), puissé-je croître. » Il médita sur lui-même (comme un homme faisant pénitence). Après avoir ainsi médité, il envoya (créa) tout, quoi qu'il y ait. Ayant envoyé, il y entra. Ayant pénétré, il devint sat (ce qui est manifeste) et tyat (ce qui n'est pas manifeste), défini et indéfini, soutenu et non soutenu, (doté de) connaissance et sans connaissance (comme des pierres), réel et irréel [2](Taittiriyaka_2#fn220). Le Sattya (vrai) devint tout cela, et c'est pourquoi les sages l'appellent (le Brahman) Sat-tya (le vrai).
+La réponse est : Il souhaita : « Puissé-je être multiple [1](../Taittiriyaka_2#fn219), puissé-je croître. » Il médita sur lui-même (comme un homme faisant pénitence). Après avoir ainsi médité, il envoya (créa) tout, quoi qu'il y ait. Ayant envoyé, il y entra. Ayant pénétré, il devint sat (ce qui est manifeste) et tyat (ce qui n'est pas manifeste), défini et indéfini, soutenu et non soutenu, (doté de) connaissance et sans connaissance (comme des pierres), réel et irréel [2](../Taittiriyaka_2#fn220). Le Sattya (vrai) devint tout cela, et c'est pourquoi les sages l'appellent (le Brahman) Sat-tya (le vrai).
 
 À ce sujet, il y a aussi ce <i>S</i>loka :
 

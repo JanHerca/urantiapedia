@@ -66,37 +66,37 @@ Alors ces Brâhmanes, qui étaient les meilleurs des sages, ayant de nouveau ép
 
 ## Notes de bas de page
 
-[^1926]: 372 : 1 Voir [p. 351](Anugita_28#p351) ci-dessus.
+[^1926]: 372 : 1 Voir [p. 351](../Anugita_28#p351) ci-dessus.
 
-[^1927]: 372 : 2 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1927]: 372 : 2 Voir Gîtâ, [p. 109](../Bhagavadgita_14#p109).
 
-[^1928]: 372:3 Quant aux deux premières clauses, voir pp. [284](Anugita_11#p284)-[371](Anugita_32#p371) supra ; les deux dernières sont considérées par Ar<i>g</i>una Mi<i>s</i>ra comme représentant respectivement les doctrines Sânkhya et Yoga.
+[^1928]: 372:3 Quant aux deux premières clauses, voir pp. [284](../Anugita_11#p284)-[371](../Anugita_32#p371) supra ; les deux dernières sont considérées par Ar<i>g</i>una Mi<i>s</i>ra comme représentant respectivement les doctrines Sânkhya et Yoga.
 
 [^1929]: 372:4 Je suppose que cela désigne tous les maîtres. Mais Nîlaka<i>nth</i>a l'interprète comme désignant les Sânkhyas, et il considère les mots précédents comme indiquant deux points de vue fondés sur les textes de la Sruti, à savoir : le premier, que le monde est un développement du Brahman, et l'autre, que le Brahman ne subit ni développement ni changement. Il interprète Anâmaya comme signifiant immuable, et Brahmamaya comme développé à partir du Brahman.
 
-[^1930]: 372 : 5 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [78](Bhagavadgita_8#p78).
+[^1930]: 372 : 5 Cf. Gîtâ, pp. [77](../Bhagavadgita_7#p77), [78](../Bhagavadgita_8#p78).
 
-[^1931]: 372:6 Celui qui voit le suprême comme la seule entité réelle, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a considère que cela signifie celui qui s'identifie à tout. Voir Gîtâ, [p. 65](Bhagavadgita_5#p65), et la note [4](Bhagavadgita_3#fn172) ici.
+[^1931]: 372:6 Celui qui voit le suprême comme la seule entité réelle, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a considère que cela signifie celui qui s'identifie à tout. Voir Gîtâ, [p. 65](../Bhagavadgita_5#p65), et la note [4](../Bhagavadgita_3#fn172) ici.
 
-[^1932]: 372 : 7 Voir [p. 344](Anugita_27#p344) ci-dessus.
+[^1932]: 372 : 7 Voir [p. 344](../Anugita_27#p344) ci-dessus.
 
 [^1933]: 372:8 C'est-à-dire le but à atteindre.
 
-[^1934]: 372:9 « Tranquillité » — l'original peut aussi être rendu par « faveur », p. 373, à ce propos cf. [p. 234](Anugita_1#p234) supra, mais plus loin apparaît l'expression « avoir un soi tranquille », où ce dernier sens n'est pas tout à fait approprié. Voir Gîtâ, [p. 51](Bhagavadgita_2#p51), et Yoga-sûtra I, 33.
+[^1934]: 372:9 « Tranquillité » — l'original peut aussi être rendu par « faveur », p. 373, à ce propos cf. [p. 234](../Anugita_1#p234) supra, mais plus loin apparaît l'expression « avoir un soi tranquille », où ce dernier sens n'est pas tout à fait approprié. Voir Gîtâ, [p. 51](../Bhagavadgita_2#p51), et Yoga-sûtra I, 33.
 
-[^1935]: 373:1 C'est-à-dire les modes spécifiques qui sont mentionnés pour contrôler les vents de la vie, par exemple dans la Gîtâ, [p. 61](Bhagavadgita_4#p61), ou le Yoga-sûtra II, 49 seq.
+[^1935]: 373:1 C'est-à-dire les modes spécifiques qui sont mentionnés pour contrôler les vents de la vie, par exemple dans la Gîtâ, [p. 61](../Bhagavadgita_4#p61), ou le Yoga-sûtra II, 49 seq.
 
 [^1936]: 373:2 Nîlaka<i>nth</i>a propose deux interprétations de ceci. Il dit que les dix sont les huit mentionnés dans le Yoga-sûtra II, 29, plus tarka et vairâgya (à ce sujet, voir Yoga-sûtra I, 15 et 17). Pour constituer les douze, il substitue aux deux derniers les quatre nommés dans le Yoga-sûtra I, 33. Il suggère également que « dix ou douze » pourrait signifier vingt-deux, qu'il compose ainsi. Les cinq modes de yama (Yoga-sûtra II, 30), cinq de niyama (ibid. 32), les six restants dans le Yoga-sûtra II, 29, les quatre dans le Yoga-sûtra I, 33, et tarka et vairâgya comme précédemment.
 
-[^1937]: 373:3 Les vingt-quatre sont les éléments selon le système Sânkhya. Voir Sânkhya-sâra, p. 11, et [p. 368](Anugita_31#p368) supra. Ce qui est au-delà d'eux est Purusha.
+[^1937]: 373:3 Les vingt-quatre sont les éléments selon le système Sânkhya. Voir Sânkhya-sâra, p. 11, et [p. 368](../Anugita_31#p368) supra. Ce qui est au-delà d'eux est Purusha.
 
-[^1938]: 373:4 L'inperçu, il faut le noter, est composé des trois qualités ; la prédominance de la bonté indique l'illumination ou la connaissance. Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1938]: 373:4 L'inperçu, il faut le noter, est composé des trois qualités ; la prédominance de la bonté indique l'illumination ou la connaissance. Cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
 [^1939]: 373:5 Le terme moyen dans l'inférence étant, dit Ar<i>g</i>una Mi<i>s</i>ra, l'effet éclairant de la qualité en question.
 
-[^1940]: 373 : 6 Cf. [p. 167](Sanatsugatiya_3#p167) supra.
+[^1940]: 373 : 6 Cf. [p. 167](../Sanatsugatiya_3#p167) supra.
 
-[^1941]: 373:7 L'original est tyâga, qu'Ar<i>g</i>una Mi<i>s</i>ra rend par « abandon de tous biens » ; renoncement, scil. au fruit. Cf. Gîtâ, [p. 121](Bhagavadgita_17#p121), et [p. 114](Bhagavadgita_15#p114).
+[^1941]: 373:7 L'original est tyâga, qu'Ar<i>g</i>una Mi<i>s</i>ra rend par « abandon de tous biens » ; renoncement, scil. au fruit. Cf. Gîtâ, [p. 121](../Bhagavadgita_17#p121), et [p. 114](../Bhagavadgita_15#p114).
 
 [^1942]: 374:1 Ici, dit Nîlaka<i>nth</i>a, l'auteur indique une objection à la proposition énoncée juste avant. Mais le passage n'est pas clair.
 

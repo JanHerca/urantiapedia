@@ -74,7 +74,7 @@ Le potier dit : « Je sais bien travailler l'argile. » Et on se mit à la model
 
 ## Notes de bas de page
 
-[^398] : 276:1 Voir pp. [140](Kwang_dze_Intro#p140), [141](Kwang_dze_Intro#p141).
+[^398] : 276:1 Voir pp. [140](../Kwang_dze_Intro#p140), [141](../Kwang_dze_Intro#p141).
 
 [^399]: 276:2 Littéralement, « tours vertueuses » ; mais ![](/image/book/Taoism/Taoist_texts_vol_1/27600.jpg) est appliqué de manière très variée, et il existe d'autres interprétations. Comparez le nom de ling thâi, donné par le peuple à la tour construite par le roi Wän ; Shih, III, i, 8.
 

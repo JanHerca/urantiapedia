@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ‘May Agni Gârhapatya protect this woman. May he lead her offspring to old age. With fertile womb may she be the mother of living children. May she experience delight in her sons. Svâhâ!
 
-‘May no noise that comes from thee, arise in the house by night. May the (she-goblins called) the weeping ones take their abode in another (woman) <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> than thee. Mayst thou not be beaten at thy breast by (the she-goblin) Vike<i>s</i>î (“the rough-haired one”). May thy husband live, and mayst thou shine in thy husband's world, beholding thy genial offspring! Svâhâ!
+‘May no noise that comes from thee, arise in the house by night. May the (she-goblins called) the weeping ones take their abode in another (woman) <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> than thee. Mayst thou not be beaten at thy breast by (the she-goblin) Vike<i>s</i>î (« the rough-haired one »). May thy husband live, and mayst thou shine in thy husband's world, beholding thy genial offspring! Svâhâ!
 
 ‘May Heaven protect thy back, Vâyu thy thighs, and the two A<i>s</i>vins thy breast. May Savit<i>ri</i> protect thy suckling sons. Until the garment is put on (thy sons?), may B<i>s</i>haspati guard (them?), and the Vi<i>s</i>ve devâs afterwards. Svâhâ!
 
@@ -99,7 +99,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^616] After he has made her sit down in her proper place (see Sûtra 5 of the preceding section), and has sprinkled Â<i>g</i>ya into her joined hands, he twice pours fried grain into them, with (the verse), ‘This grain I pour (into thy hands): may it bring prosperity to me, and may it unite thee (with me). May this Agni grant us that.’ <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
-4\. After he has sprinkled (Â<i>g</i>ya) over (the grain in her hands), he sacrifices (the grain) with her joined hands (which he seizes), with (the verse), ‘This woman, strewing grain into the fire, prays thus, “May my husband live long; may my relations be prosperous. Svâhâ!”’
+4\. After he has sprinkled (Â<i>g</i>ya) over (the grain in her hands), he sacrifices (the grain) with her joined hands (which he seizes), with (the verse), ‘This woman, strewing grain into the fire, prays thus, « May my husband live long; may my relations be prosperous. Svâhâ! »’
 
 5\. [^617] Having made her rise with (the verse which she recites), ‘Up! with life’ (Taitt. Sa<i>m</i>h. I, 2, 8, 1), and having circumambulated the fire (with her) so that their right sides are turned towards it, with (the verse), ‘May we find our way with thee through all hostile powers, as through streams of water’—he pours fried grain (into her hands, and sacrifices them), as before.
 

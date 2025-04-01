@@ -217,7 +217,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
 
 [^1415]: 321:3 L'un des premiers disciples de Zoroastre ; cf. Yt. XIII, 96.
 
-[^1416]: 321:4 Cf. [p. 33](Yasts_1#p33), note [2](Yasts_1#fn173).
+[^1416]: 321:4 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173).
 
 [^1418]: 322:1 § 38 = Yt. I, 31.
 

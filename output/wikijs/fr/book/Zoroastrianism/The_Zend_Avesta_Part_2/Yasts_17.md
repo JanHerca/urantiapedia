@@ -246,7 +246,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 [^1216]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
 
-[^1217]: 271:1 Les alliés de Saoshya<i>n</i><i>t</i>, qui doivent participer activement à la restauration du monde à la vie éternelle (frashô-kereti). Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769). Ashi leur donne « l'intelligence de la vie » (frasha khratu), grâce à laquelle ils pourront accomplir leur tâche.
+[^1217]: 271:1 Les alliés de Saoshya<i>n</i><i>t</i>, qui doivent participer activement à la restauration du monde à la vie éternelle (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi leur donne « l'intelligence de la vie » (frasha khratu), grâce à laquelle ils pourront accomplir leur tâche.
 
 [^1218]: 271:2 Cf. Yt. V, 10.
 
@@ -310,7 +310,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 [^1248]: 280:3 Elle refuse les offrandes de tous les êtres stériles.
 
-[^1249]: 280:4 Cf. Yt. V, 98. Les clauses suivantes font allusion à un mythe d'Ashi Vanguhi lié au conflit entre les Touraniens et les Naotaras (soit Tusa et Vistauru ; cf. [p. 71](Yasts_5#p71), note [7](Yasts_5#fn352), ou plus probablement Vî<i>s</i>tâspa lui-même, à qui se réfèrent le chapitre précédent p. 281 \[§§ 48-52\] et l'avant-dernière clause du Ya<i>s</i>t). Elle essaya de fuir à la manière pratiquée par Ulysse dans la caverne du Cyclope ; les deux groupes poursuivaient l'animal qui la portait, bien qu'ils ne sachent pas ce qu'il portait, jusqu'à ce que des enfants la découvrent.
+[^1249]: 280:4 Cf. Yt. V, 98. Les clauses suivantes font allusion à un mythe d'Ashi Vanguhi lié au conflit entre les Touraniens et les Naotaras (soit Tusa et Vistauru ; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), ou plus probablement Vî<i>s</i>tâspa lui-même, à qui se réfèrent le chapitre précédent p. 281 \[§§ 48-52\] et l'avant-dernière clause du Ya<i>s</i>t). Elle essaya de fuir à la manière pratiquée par Ulysse dans la caverne du Cyclope ; les deux groupes poursuivaient l'animal qui la portait, bien qu'ils ne sachent pas ce qu'il portait, jusqu'à ce que des enfants la découvrent.
 
 [^1250]: 282:1 Cf. §§ 49 seq.
 

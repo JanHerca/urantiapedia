@@ -171,7 +171,7 @@ Ni Shushi ni Ōyōmei ne possèdent une compréhension solide de la notion de pe
 
 ## L'ORIGINE DU MAL.
 
-Car tout mal est désordre. La confusion est l'essence du mal. À proprement parler, il n'existe pas d'autre mal. « Rien n'est mauvais par nature, mais tout est bon, avec toutefois une distinction de rang. » Lorsque cette distinction de rang est préservée, tous sont bons. Mais cette bonté idéale est rarement réalisée. « Les dieux sont l'activité du Ciel et de la Terre, la puissance excellente de l'In et du Yō, et de la véritable “loi”. […] Mais lorsque les dieux viennent au monde, il y a à la fois le bien et le mal. Car bien que l'action des cinq éléments au cours des quatre saisons ne soit […] d'aucun mal, alors que cet “esprit” est dispersé dans l'univers et confus, surgissent des vents, une chaleur, un froid et des tempêtes inattendus. »[^43] Il en est de même pour l'homme et tout ce qui lui appartient. En tant que partie de la nature, il est bon lui aussi, bon à l’origine, mais comme sa « nature est individualisée, le bien et le mal apparaissent »[^44]. Qu’il se mette en harmonie avec la vraie nature, et surtout qu’il obéisse d’un cœur inébranlable, et tout ira bien.
+Car tout mal est désordre. La confusion est l'essence du mal. À proprement parler, il n'existe pas d'autre mal. « Rien n'est mauvais par nature, mais tout est bon, avec toutefois une distinction de rang. » Lorsque cette distinction de rang est préservée, tous sont bons. Mais cette bonté idéale est rarement réalisée. « Les dieux sont l'activité du Ciel et de la Terre, la puissance excellente de l'In et du Yō, et de la véritable « loi ». […] Mais lorsque les dieux viennent au monde, il y a à la fois le bien et le mal. Car bien que l'action des cinq éléments au cours des quatre saisons ne soit […] d'aucun mal, alors que cet « esprit » est dispersé dans l'univers et confus, surgissent des vents, une chaleur, un froid et des tempêtes inattendus. »[^43] Il en est de même pour l'homme et tout ce qui lui appartient. En tant que partie de la nature, il est bon lui aussi, bon à l’origine, mais comme sa « nature est individualisée, le bien et le mal apparaissent »[^44]. Qu’il se mette en harmonie avec la vraie nature, et surtout qu’il obéisse d’un cœur inébranlable, et tout ira bien.
 
 De même, avec l'État, le crime est une « confusion ». L'ordre ancien a été perdu et le mal apparaît. « Autrefois, le Sage était sur le trône ; l'Homme Supérieur était le suivant en autorité et tous ceux qui gouvernaient étaient sages, les stupides occupant leur position naturelle en dessous des autres. Ainsi, de la plus haute à la plus basse sagesse déterminait le rang, et il n'y avait pas de mal. La seule distinction était entre supérieur et inférieur. »[^45] <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Et le Sage gouvernait en ne faisant « rien ». Il suffisait qu'il soit revêtu d'une robe, intronisé, les bras croisés. Ce n'est pas par de vains efforts et des luttes que l'empire ou l'individu peuvent être gouvernés. C'est en ne faisant rien, en laissant la nature faire ce qu'elle veut, que l'on atteint l'excellence divine.
 
@@ -272,11 +272,11 @@ Les souvenirs sacrés du passé, les trésors de la philosophie et de la religio
 
 [^21]: Pneuma « est la totalité de toute existence ; de lui procède l'univers entier, visible, pour ensuite se résoudre à nouveau en lui. . . . De lui se sépare d'abord le feu élémentaire, et celui-ci se condense à nouveau en air ; une étape supplémentaire dans le chemin descendant dérive de l'eau et de la terre de la solidification de l'air. . . . Des éléments, la substance unique est transformée en la multitude de choses individuelles. » Enc. Brit., art. Stoïciens. Comparer pp. 46-47 ci-dessous.
 
-[^22]: Pour un exemple du processus de cette « réification du concept », voir [p. 47](Book_1#p47) ci-dessous.
+[^22]: Pour un exemple du processus de cette « réification du concept », voir [p. 47](../Book_1#p47) ci-dessous.
 
-[^23]: Cette méthode prétend s’appuyer sur une phrase de Confucius : « la distinction des choses ». Voir [p. 43 note](Book_1#fn34), ci-dessous.
+[^23]: Cette méthode prétend s’appuyer sur une phrase de Confucius : « la distinction des choses ». Voir [p. 43 note](../Book_1#fn34), ci-dessous.
 
-[^24]: [P. 72](Livre_2#p72) ci-dessous.
+[^24]: [P. 72](../Livre_2#p72) ci-dessous.
 
 [^25]: Le système d'Ōyōmei peut être étudié dans le ###, Den-shu-roku, le Zen-sho et le Zen-shu, ###.
 
@@ -298,7 +298,7 @@ Les souvenirs sacrés du passé, les trésors de la philosophie et de la religio
 
 [^32] : Okina Mondō, Vol. III., p. 10-12.
 
-[^33] : Okina Mondō, Vol. III., pp. 12-14. Comparer [pp. 61](Book_1#p61) ci-dessous.
+[^33] : Okina Mondō, Vol. III., pp. 12-14. Comparer [pp. 61](../Book_1#p61) ci-dessous.
 
 [^34] : Okina Mondō, Vol. IV., p. 1-13.
 
@@ -310,25 +310,25 @@ Les souvenirs sacrés du passé, les trésors de la philosophie et de la religio
 
 [^38]: On retrouve bien sûr des exemples similaires dans l’histoire chinoise.
 
-[^39]: [Pp. 41, 42](Livre_1#p41) ci-dessous.
+[^39]: [Pp. 41, 42](../Livre_1#p41) ci-dessous.
 
 [^40]: De nombreuses traductions des sermons de cette école ont été publiées, parmi les plus anciennes, dans « Tales of Old Japan » d'AB Mitford, pp. 288-326. Les sermons intitulés Kyuō Dōwa et Shingaku Michi no Hanashi sont les plus connus. Outre ceux-ci, on trouve notamment : Shō-ō Michi no Hanashi, Dōni-ō Dō-wa, Shingaku-kyoyu-roku et Zoku-zoku Kyuō Dōwa.
 
-[^41]: [P. 50](Livre_1#p50) ci-dessous.
+[^41]: [P. 50](../Livre_1#p50) ci-dessous.
 
 [^42] : L'Okina Mondō, Vol. V. pp. 17-18.
 
-[^43]: [P. 55](Livre_1#p55) ci-dessous.
+[^43]: [P. 55](../Livre_1#p55) ci-dessous.
 
-[^44]: [P. 55](Livre_1#p55) ci-dessous.
+[^44]: [P. 55](../Livre_1#p55) ci-dessous.
 
 [^45]: L'Okina Mondō, Vol. II., p. 31.
 
-[^46]: [P. 60](Livre_1#p60) ci-dessous. Comparez une certaine phase du mysticisme chrétien : « Oh, n’être rien, rien » ; « Un vase brisé et vide » ; « Vidé, afin qu’Il ​​puisse me remplir » ; « Brisé, afin que, sans entrave, Sa vie puisse couler à travers moi. »
+[^46]: [P. 60](../Livre_1#p60) ci-dessous. Comparez une certaine phase du mysticisme chrétien : « Oh, n’être rien, rien » ; « Un vase brisé et vide » ; « Vidé, afin qu’Il ​​puisse me remplir » ; « Brisé, afin que, sans entrave, Sa vie puisse couler à travers moi. »
 
 [^47] : L'Okina Mondō, Vol. Vp. 26.
 
-[^48]: [P. 40](Livre_1#p40) ci-dessous.
+[^48]: [P. 40](../Livre_1#p40) ci-dessous.
 
 [^49]: Le culte des ancêtres demeure une incohérence difficile à expliquer dans la philosophie de Shushi. Il enseigne (dans le Gorui ###) qu'à la mort nous sommes comme la flamme : elle monte et disparaît, mais nous ne pouvons pas dire qu'elle a cessé d'être. C'est la loi que l'esprit de l'homme (ki ###) se dissout à la mort, s'évanouit dans les airs ; mais il y a des exceptions. Lorsque les hommes meurent naturellement, et pour ainsi dire volontairement, l'esprit se dissout ainsi, mais lorsqu'ils meurent violemment, avec de fortes protestations, l'esprit reste un temps rassemblé et peut revenir se manifester p. 24 et faire du mal. Un homme tué par sa femme adultère lui apparut comme ruineux, car sa haine maintenait son esprit uni jusqu'à ce que la vengeance soit exécutée. Mais de telles exceptions ne sont que temporaires ; finalement, tous reviennent également à l'esprit primitif. Shushi sauve ainsi sa philosophie et son orthodoxie.
 

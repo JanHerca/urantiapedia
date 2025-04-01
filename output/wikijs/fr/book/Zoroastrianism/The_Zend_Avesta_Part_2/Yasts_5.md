@@ -520,7 +520,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 [^300]: 55:3 Cf. §§ 11, 124.
 
-[^301]: 56:1 Comme ci-dessus, [p. 30](Yasts_1#p30); le § 9 est répété à la fin de chaque chapitre.
+[^301]: 56:1 Comme ci-dessus, [p. 30](../Yasts_1#p30); le § 9 est répété à la fin de chaque chapitre.
 
 [^302]: 56:2 § 10 = § 2.
 
@@ -530,7 +530,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 [^305]: 57:1 Comme ci-dessus, § 10.
 
-[^306]: 57:2 Cf. [p. 26](Yasts_1#p26), note [2](Yasts_1#fn120).
+[^306]: 57:2 Cf. [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
 
 [^307]: 57:3 Douteux ; cf. Yt. VIII, 47.
 
@@ -542,7 +542,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 [^311]: 57:7 Cf. Yt. III, 18.
 
-[^312]: 58:1 Haoshyangha fut le premier roi de la dynastie des Paradhâta (Pêshdâdyan) (cf. ci-dessus, [p. 7](Sirozahs_1#p7), note [2](Sirozahs_1#fn40), et Bundahi<i>s</i> XXXI, 1). Il est relaté dans le Shâh Nâmah de Firdausi qu'il était le petit-fils de Gayomarth, le premier homme et roi, et le fils de Syâmak ; que son père ayant été tué par le Dîv noir, il le rencontra à la tête d'une armée de lions, de tigres, d'oiseaux et de Paris, et le détruisit ; il succéda alors à son grand-père et régna en maître sur les sept Keshvars de la terre.
+[^312]: 58:1 Haoshyangha fut le premier roi de la dynastie des Paradhâta (Pêshdâdyan) (cf. ci-dessus, [p. 7](../Sirozahs_1#p7), note [2](../Sirozahs_1#fn40), et Bundahi<i>s</i> XXXI, 1). Il est relaté dans le Shâh Nâmah de Firdausi qu'il était le petit-fils de Gayomarth, le premier homme et roi, et le fils de Syâmak ; que son père ayant été tué par le Dîv noir, il le rencontra à la tête d'une armée de lions, de tigres, d'oiseaux et de Paris, et le détruisit ; il succéda alors à son grand-père et régna en maître sur les sept Keshvars de la terre.
 
 [^313]: 58:2 Douteux : upabda = upabanda, comme thribda (Yt. VIII, 55) = thribanda ; il ressort de Yt. XV, 7 que le lieu visé ici est le Taêra qui est dit dans le Bundahi<i>s</i> (V, 7) comme étant entouré par l'Albôrz (le Hara).
 
@@ -654,7 +654,7 @@ Dans la mythologie védique, Gandharva est le gardien du Soma. Il est décrit ta
 
 [^366]: 71:2 Cf. Yt. XIII, 113.
 
-[^367]: 71:3 Cf. ci-dessus, [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^367]: 71:3 Cf. ci-dessus, [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^368]: 71:4 Une tribu touranienne, Yt. XIII, 37-38.
 

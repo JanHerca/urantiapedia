@@ -108,7 +108,7 @@ Lorsque Rabbi Johanan était malade, ses élèves lui rendirent visite et lui de
 
 « Je serais bien content », répondit le sage, « si tes actions prouvaient que tu le craignais autant. Avant de faire le mal, assure-toi d'abord qu'aucun œil humain ne te voie ; montre la même crainte de Dieu, qui voit partout et tout, à tout moment. »
 
-Abba dit que nous pouvons manifester notre crainte de Dieu dans nos relations les uns avec les autres. « Parlez à chacun avec douceur et gentillesse », dit-il, « en essayant d'apaiser la colère, en recherchant la paix et en la poursuivant avec vos frères et avec le monde entier, et vous gagnerez ainsi cette “faveur et cette bonne intelligence aux yeux de Dieu et des hommes”, que Salomon chérissait tant. »
+Abba dit que nous pouvons manifester notre crainte de Dieu dans nos relations les uns avec les autres. « Parlez à chacun avec douceur et gentillesse », dit-il, « en essayant d'apaiser la colère, en recherchant la paix et en la poursuivant avec vos frères et avec le monde entier, et vous gagnerez ainsi cette « faveur et cette bonne intelligence aux yeux de Dieu et des hommes », que Salomon chérissait tant. »
 
 Rabbi Jochanan avait entendu Rabbi Simon, fils de Jochay, illustrer par une parabole ce passage d’Isaïe qui se lit comme suit : « Moi, l’Éternel, j’aime la droiture, mais je hais la rapine (transformée) en holocauste. »
 
@@ -120,7 +120,7 @@ Très étonnés, ses serviteurs lui adressèrent la parole : « Sire ! tout ce q
 
 <span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
-Rabbi Eleazer a dit : « Celui qui est guidé par la droiture et la justice dans toutes ses actions peut être considéré à juste titre comme ayant imité Dieu dans sa bienfaisance illimitée. Car de Lui (béni soit Son nom) nous lisons : “Il aime la droiture et la justice” ; autrement dit, “La terre est remplie de la bonté de Dieu.” » Pouvons-nous penser qu’une telle démarche est facile ? Non ! La vertu de bienfaisance ne s’acquiert qu’au prix de grands efforts. Sera-t-il difficile, cependant, à celui qui a constamment la crainte de Dieu devant les yeux d’acquérir cet attribut ? Non ; il l’atteindra facilement, celui dont chaque acte est accompli dans la crainte du Seigneur.
+Rabbi Eleazer a dit : « Celui qui est guidé par la droiture et la justice dans toutes ses actions peut être considéré à juste titre comme ayant imité Dieu dans sa bienfaisance illimitée. Car de Lui (béni soit Son nom) nous lisons : « Il aime la droiture et la justice » ; autrement dit, « La terre est remplie de la bonté de Dieu. » » Pouvons-nous penser qu’une telle démarche est facile ? Non ! La vertu de bienfaisance ne s’acquiert qu’au prix de grands efforts. Sera-t-il difficile, cependant, à celui qui a constamment la crainte de Dieu devant les yeux d’acquérir cet attribut ? Non ; il l’atteindra facilement, celui dont chaque acte est accompli dans la crainte du Seigneur.
 
 « Une couronne de grâce, c'est une chevelure blanche ; c'est sur le chemin de la justice qu'on la trouve. »
 
@@ -142,7 +142,7 @@ Rabbi Zera disait que le mérite d'avoir atteint un âge avancé était dû, dan
 
 « L'homme a trois amis », dirent les rabbins. « Dieu, son père et sa mère. Qui honore ses parents honore Dieu. »
 
-Rabbi Judah a dit : « Les voies de l'homme sont connues et révélées. Une mère cajole son enfant par ses paroles douces et ses manières douces, gagnant ainsi honneur et affection ; c'est pourquoi la Bible dit : “Honore ton père” avant “honore ta mère”. Mais concernant la crainte, puisque le père est le précepteur de l'enfant, lui enseignant la loi, la Bible dit : “Tout homme craindra sa mère” avant le mot “père”. »
+Rabbi Judah a dit : « Les voies de l'homme sont connues et révélées. Une mère cajole son enfant par ses paroles douces et ses manières douces, gagnant ainsi honneur et affection ; c'est pourquoi la Bible dit : « Honore ton père » avant « honore ta mère ». Mais concernant la crainte, puisque le père est le précepteur de l'enfant, lui enseignant la loi, la Bible dit : « Tout homme craindra sa mère » avant le mot « père ». »
 
 On a demandé un jour au rabbin Ulah : « Dans quelle mesure cet honneur dû aux parents devrait-il être étendu ? »
 
@@ -200,7 +200,7 @@ Rabbi Chonan, de Zepora, a dit : « L'étude de la loi peut être comparée à u
 
 Dans Proverbes 24:7, nous trouvons cette phrase : « La sagesse est trop élevée pour l’insensé. »
 
-Rabbi Johanan illustre ce verset par une pomme suspendue au plafond. L'insensé dit : “Je ne peux pas atteindre le fruit, il est trop haut” ; mais le sage répond : “On peut facilement l'obtenir en posant un pied sur l'autre jusqu'à ce que ton bras soit à sa portée.” L'insensé dit : “Seul un sage peut étudier la loi dans son intégralité”, mais le sage répond : “Il ne t'incombe pas de l'acquérir dans son intégralité.”
+Rabbi Johanan illustre ce verset par une pomme suspendue au plafond. L'insensé dit : « Je ne peux pas atteindre le fruit, il est trop haut » ; mais le sage répond : « On peut facilement l'obtenir en posant un pied sur l'autre jusqu'à ce que ton bras soit à sa portée. » L'insensé dit : « Seul un sage peut étudier la loi dans son intégralité », mais le sage répond : « Il ne t'incombe pas de l'acquérir dans son intégralité. »
 
 Rabbi Levi illustre cela par une parabole.
 
@@ -262,7 +262,7 @@ Rabbi Jochanan, fils de Broka, et Rabbi Eléazar, fils de Kismah, rendirent visi
 
 « Les paroles des sages sont comme des aiguillons, et les paroles des hommes des assemblées sont comme des clous plantés, données par un seul berger. »
 
-« Pourquoi la loi de Dieu est-elle comparée à un aiguillon ? » dit-il. « Parce que l'aiguillon permet au bœuf de tracer un sillon droit, et que ce sillon droit produit une abondance de bonne nourriture pour la vie de l'homme. De même, la loi de Dieu garde le cœur de l'homme droit, afin qu'il produise une bonne nourriture pour la vie éternelle. Mais de peur que tu ne dises : “L'aiguillon est mobile, la loi doit donc l'être aussi”, il est aussi écrit : “comme des clous”, et de même : “des clous plantés”, de peur que tu ne prétendes que les clous enfoncés dans le bois diminuent à chaque coup, et que, par conséquent, par cette comparaison, la loi de Dieu serait elle aussi susceptible de diminuer. Non ; comme un clou planté ou planté, comme un arbre est planté pour porter du fruit et se multiplier.
+« Pourquoi la loi de Dieu est-elle comparée à un aiguillon ? » dit-il. « Parce que l'aiguillon permet au bœuf de tracer un sillon droit, et que ce sillon droit produit une abondance de bonne nourriture pour la vie de l'homme. De même, la loi de Dieu garde le cœur de l'homme droit, afin qu'il produise une bonne nourriture pour la vie éternelle. Mais de peur que tu ne dises : « L'aiguillon est mobile, la loi doit donc l'être aussi », il est aussi écrit : « comme des clous », et de même : « des clous plantés », de peur que tu ne prétendes que les clous enfoncés dans le bois diminuent à chaque coup, et que, par conséquent, par cette comparaison, la loi de Dieu serait elle aussi susceptible de diminuer. Non ; comme un clou planté ou planté, comme un arbre est planté pour porter du fruit et se multiplier.
 
 « Les hommes des assemblées sont ceux qui se rassemblent en grand nombre pour étudier la loi. Fréquemment, des controverses surgissent parmi eux, et tu pourrais dire : « Avec tant d'opinions divergentes, comment puis-je me résoudre à étudier la loi ? » Ta réponse est écrite dans les paroles d'un seul berger. D'un seul Dieu sont issues toutes les lois. C'est pourquoi, tends tes oreilles comme un tamis, et incline ton cœur à accepter toutes ces paroles. »
 
@@ -292,7 +292,7 @@ Un élève demanda un jour à son professeur : « Qu'est-ce que la vraie sagesse
 
 « Méfie-toi de la vanité et de l’orgueil du savoir ; apprends à dire : « Je ne sais pas. »
 
-Si un homme se consacre à l'étude et acquiert une grande éducation, pour le plus grand plaisir de ses professeurs, tout en restant modeste dans ses conversations avec des personnes moins intelligentes, honnête dans ses relations, sincère dans ses actions quotidiennes, on dit : « Heureux le père qui lui a permis d'étudier la loi de Dieu ; heureux les maîtres qui l'ont instruit dans les voies de la vérité ! Que ses voies sont belles ! Que ses actes sont méritoires ! La Bible dit d'un tel homme : “Il m'a dit : Tu es mon serviteur ; ô Israël, par toi je suis glorifié.” »
+Si un homme se consacre à l'étude et acquiert une grande éducation, pour le plus grand plaisir de ses professeurs, tout en restant modeste dans ses conversations avec des personnes moins intelligentes, honnête dans ses relations, sincère dans ses actions quotidiennes, on dit : « Heureux le père qui lui a permis d'étudier la loi de Dieu ; heureux les maîtres qui l'ont instruit dans les voies de la vérité ! Que ses voies sont belles ! Que ses actes sont méritoires ! La Bible dit d'un tel homme : « Il m'a dit : Tu es mon serviteur ; ô Israël, par toi je suis glorifié. » »
 
 Mais lorsqu'un homme se consacre à l'étude et devient instruit, tout en étant dédaigneux envers ceux qui sont moins instruits que lui et en manquant de rigueur dans ses rapports avec ses semblables, alors les gens disent de lui : « Malheur au père qui lui a permis d'étudier la loi de Dieu ! Malheur à ceux qui l'ont instruit ! Que sa conduite est répréhensible ! Que ses voies sont répugnantes ! C'est d'un tel homme que la Bible dit : « Et le peuple de l'Éternel s'en alla de son pays. »
 
@@ -354,7 +354,7 @@ Rabbi Chelboh a dit : « Nous ne devons pas nous précipiter lorsque nous quitto
 
 « Ceci, dit Abayyeh, concerne le fait de quitter un lieu de culte ; mais nous devons certainement nous hâter d’y aller, comme il est écrit : « Sachons et hâtons-nous de servir le Seigneur. »
 
-Rabbi Zabid a dit : « Quand je voyais les rabbins se précipiter à une conférence pour obtenir de bonnes places, je me disais : “Ils violent le Chabbat.” » Cependant, lorsque j’entendais Rabbi Tarphon dire : “Il faut toujours se hâter d’accomplir un commandement, même le Chabbat”, <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> comme il est écrit : “Ils suivront le Seigneur quand il rugira comme un lion”, je me dépêchais également pour être présent tôt. »
+Rabbi Zabid a dit : « Quand je voyais les rabbins se précipiter à une conférence pour obtenir de bonnes places, je me disais : « Ils violent le Chabbat. » » Cependant, lorsque j’entendais Rabbi Tarphon dire : « Il faut toujours se hâter d’accomplir un commandement, même le Chabbat », <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> comme il est écrit : « Ils suivront le Seigneur quand il rugira comme un lion », je me dépêchais également pour être présent tôt. »
 
 Le lieu où nous pouvons le mieux prier Dieu est sa maison, comme il est écrit :
 
@@ -362,7 +362,7 @@ Le lieu où nous pouvons le mieux prier Dieu est sa maison, comme il est écrit 
 
 Rabin, fils d'Ada, dit : « D'où vient la tradition selon laquelle lorsque dix hommes prient dans la maison de Dieu, la Présence Divine repose parmi eux ?
 
-Il est écrit : “Dieu se tient dans l’assemblée des puissants.” Qu’une assemblée, ou congrégation, ne compte pas moins de dix personnes, nous l’apprend la parole de Dieu à Moïse concernant les espions envoyés pour explorer le pays de Canaan. “Jusqu’à quand”, dit-il, “fera-t-on preuve d’indulgence envers cette congrégation perverse ?” Or, les espions étaient au nombre de douze ; mais Josué et Caleb étant loyaux et fidèles, il n’en resta que dix pour former la “congrégation perverse”.
+Il est écrit : « Dieu se tient dans l’assemblée des puissants. » Qu’une assemblée, ou congrégation, ne compte pas moins de dix personnes, nous l’apprend la parole de Dieu à Moïse concernant les espions envoyés pour explorer le pays de Canaan. « Jusqu’à quand », dit-il, « fera-t-on preuve d’indulgence envers cette congrégation perverse ? » Or, les espions étaient au nombre de douze ; mais Josué et Caleb étant loyaux et fidèles, il n’en resta que dix pour former la « congrégation perverse ».
 
 « D’où vient la tradition selon laquelle, même lorsque quelqu’un étudie la loi, la Présence Divine repose avec lui ? »
 
@@ -402,7 +402,7 @@ Rabbi Simon ben Jochai a dit : « Les demandes de trois personnes ont été exau
 
 ---
 
-Rabbi Jochanan a dit au nom de Rabbi Joseh : « À ceux qui prennent plaisir au sabbat, Dieu donnera un héritage sans fin. Comme il est écrit : “Alors tu trouveras tes délices en l’Éternel”, etc. “Et je te ferai jouir de l’héritage de Jacob, ton père.” Non pas comme il avait été promis à Abraham : “Lève-toi et parcours le pays dans sa longueur et sa largeur.” Non pas comme il avait été promis à Isaac : “Je te donnerai tout ce que contient ce pays” ; mais comme il avait été promis à Jacob : “Et tu t’étendras à l’ouest et au nord, au nord et au sud.” »
+Rabbi Jochanan a dit au nom de Rabbi Joseh : « À ceux qui prennent plaisir au sabbat, Dieu donnera un héritage sans fin. Comme il est écrit : « Alors tu trouveras tes délices en l’Éternel », etc. « Et je te ferai jouir de l’héritage de Jacob, ton père. » Non pas comme il avait été promis à Abraham : « Lève-toi et parcours le pays dans sa longueur et sa largeur. » Non pas comme il avait été promis à Isaac : « Je te donnerai tout ce que contient ce pays » ; mais comme il avait été promis à Jacob : « Et tu t’étendras à l’ouest et au nord, au nord et au sud. » »
 
 Rabbi Jehudah dit que si les Israélites avaient strictement observé le premier sabbat, après que l'ordre de sanctifier le septième jour eut été donné, ils auraient été épargnés par la captivité ; comme il est écrit : « Et il arriva, le septième jour, que quelques-uns du peuple sortirent pour ramasser (la manne), mais ils ne trouvèrent rien. » Et dans le chapitre suivant, nous lisons : « Alors Amalek vint, et combattit avec Israël à Rephidim. »
 
@@ -410,11 +410,11 @@ Rabbi Jehudah dit que si les Israélites avaient strictement observé le premier
 
 Joseph, un Juif qui respectait le sabbat, avait un voisin très riche, fervent partisan de l'astrologie. Un astrologue professionnel lui annonça que sa fortune reviendrait à Joseph. Il vendit donc ses biens et acheta avec le produit de la vente un gros diamant qu'il cousit dans son turban, en disant : « Joseph ne pourra jamais obtenir cela. » Or, un jour, alors qu'il se tenait sur le pont d'un navire sur lequel il traversait la mer, un vent violent se leva et emporta le turban de sa tête. Un poisson avala le diamant. Pris et vendu au marché, Joseph l'acheta pour garnir sa table la veille du sabbat. Bien sûr, en l'ouvrant, il découvrit le diamant.
 
-On demanda à Rabbi Ismaël, fils de Josué : « Comment les riches du pays d'Israël sont-ils devenus si riches ? » Il répondit : « Ils donnaient leurs dîmes au temps convenable, comme il est écrit : “Tu donneras la dîme, afin de devenir riche.” » « Mais », répondit son interlocuteur, « les dîmes n'étaient données aux Lévites que tant que le temple sacré existait. Quel mérite possédaient-ils lorsqu'ils résidaient à Babel, pour y devenir riches aussi ? » « Parce que », répondit le Rabbi, « ils honoraient la Sainte Loi en l'expliquant. » « Mais dans d'autres pays, où ils n'expliquaient pas la Loi, comment méritaient-ils la richesse ? » « En honorant le sabbat », fut la réponse.
+On demanda à Rabbi Ismaël, fils de Josué : « Comment les riches du pays d'Israël sont-ils devenus si riches ? » Il répondit : « Ils donnaient leurs dîmes au temps convenable, comme il est écrit : « Tu donneras la dîme, afin de devenir riche. » » « Mais », répondit son interlocuteur, « les dîmes n'étaient données aux Lévites que tant que le temple sacré existait. Quel mérite possédaient-ils lorsqu'ils résidaient à Babel, pour y devenir riches aussi ? » « Parce que », répondit le Rabbi, « ils honoraient la Sainte Loi en l'expliquant. » « Mais dans d'autres pays, où ils n'expliquaient pas la Loi, comment méritaient-ils la richesse ? » « En honorant le sabbat », fut la réponse.
 
 <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
-Rabbi Achiya, fils d'Abah, raconta : « J'ai séjourné un jour à Ludik et j'ai été reçu par un homme riche le jour du sabbat. La table était dressée avec un repas somptueux, et les plats étaient en argent et en or. Avant de bénir le repas, le maître de maison dit : “À l'Éternel appartient la terre et tout ce qu'elle contient.” Après la bénédiction, il ajouta : “Les cieux sont les cieux de l'Éternel, mais il a donné la terre aux enfants des hommes.” Je dis à mon hôte : “J'espère que vous m'excuserez, mon cher monsieur, si je me permets de vous demander comment vous avez mérité cette prospérité.” Il répondit : “J'étais autrefois boucher et je sélectionnais toujours le meilleur bétail pour le sabbat, afin que le peuple puisse avoir la meilleure viande ce jour-là. C'est à cela, j'en suis convaincu, que je dois ma prospérité.” « J’ai répondu : « Béni soit le Seigneur de t’avoir donné tout cela. »
+Rabbi Achiya, fils d'Abah, raconta : « J'ai séjourné un jour à Ludik et j'ai été reçu par un homme riche le jour du sabbat. La table était dressée avec un repas somptueux, et les plats étaient en argent et en or. Avant de bénir le repas, le maître de maison dit : « À l'Éternel appartient la terre et tout ce qu'elle contient. » Après la bénédiction, il ajouta : « Les cieux sont les cieux de l'Éternel, mais il a donné la terre aux enfants des hommes. » Je dis à mon hôte : « J'espère que vous m'excuserez, mon cher monsieur, si je me permets de vous demander comment vous avez mérité cette prospérité. » Il répondit : « J'étais autrefois boucher et je sélectionnais toujours le meilleur bétail pour le sabbat, afin que le peuple puisse avoir la meilleure viande ce jour-là. C'est à cela, j'en suis convaincu, que je dois ma prospérité. » « J’ai répondu : « Béni soit le Seigneur de t’avoir donné tout cela. »
 
 Le gouverneur Turnusrupis demanda un jour au rabbin Akiba : « Quel est ce jour que vous appelez le sabbat plus que tout autre jour ? » Le rabbin répondit : « Qu'es-tu plus que toute autre personne ? » « Je suis supérieur aux autres », répondit-il, « car l'empereur m'a nommé gouverneur sur eux. »
 
@@ -444,7 +444,7 @@ Quand les ennuis et le chagrin deviennent la part d’Israël, et que les cœurs
 
 Quand des difficultés frappent la congrégation, il n'est pas juste pour un homme de dire : « Je vais rentrer chez moi, je mangerai et boirai, et tout ira bien pour moi. » C'est d'un tel homme que parle le livre saint, en disant : « Et voici, il y a de la joie et de l'allégresse ; on tue des bœufs et on tue des moutons ; on mange de la viande et on boit du vin. Mangeons et buvons, car demain nous mourrons. » Et cela m'a été révélé <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> par le Seigneur des Armées : certainement l'iniquité ne vous sera pas pardonnée avant votre mort. »
 
-Notre maître, Moïse, prenait toujours sa part des difficultés de la congrégation, comme il est écrit : « Ils prirent une pierre et la mirent sous lui. » N'auraient-ils pas pu lui donner une chaise ou un coussin ? Mais il dit alors : « Puisque les Israélites sont en difficulté (pendant la guerre contre Amalek), voici, je porterai ma part avec eux, car celui qui porte sa part du fardeau vivra pour savourer l'heure de la consolation. Malheur à celui qui pense : “Ah ! je négligerai mon devoir ! Qui peut savoir si j'assume ma part ou non ?” Même les pierres de sa maison, oui, les branches des arbres, témoigneront contre lui, comme il est écrit : “Car les pierres crieront du haut de la muraille, et les branches des arbres témoigneront.” »
+Notre maître, Moïse, prenait toujours sa part des difficultés de la congrégation, comme il est écrit : « Ils prirent une pierre et la mirent sous lui. » N'auraient-ils pas pu lui donner une chaise ou un coussin ? Mais il dit alors : « Puisque les Israélites sont en difficulté (pendant la guerre contre Amalek), voici, je porterai ma part avec eux, car celui qui porte sa part du fardeau vivra pour savourer l'heure de la consolation. Malheur à celui qui pense : « Ah ! je négligerai mon devoir ! Qui peut savoir si j'assume ma part ou non ? » Même les pierres de sa maison, oui, les branches des arbres, témoigneront contre lui, comme il est écrit : « Car les pierres crieront du haut de la muraille, et les branches des arbres témoigneront. » »
 
 ---
 
@@ -520,7 +520,7 @@ Un jour, alors que Rabbi Gamliel, Rabbi Éléazar, fils d'Azaria, Rabbi Juda et 
 
 « Parce que la Bible nous dit qu'un étranger (qui ne descend pas d'Aaron) qui s'approche du lieu très saint sera mis à mort, et maintenant, voici que les renards en font une demeure. Pourquoi ne pleurerions-nous pas ? »
 
-« Vous pleurez », répondit Akiba, « pour la raison même qui réjouit mon cœur. N'est-il pas écrit : “Et vous, témoins fidèles, Urie, le prêtre, et Zacharie, fils de Barachiahou, rendez-moi témoignage ?” Or, qu'a Urie à voir avec Zacharie ? Urie a vécu à l'époque du premier Temple, et Zacharie à l'époque du second. Ne savez-vous pas que la prophétie d'Urie est comparée à celle de Zacharie. Dans la prophétie d'Urie, nous lisons : “C'est pourquoi, à cause de vous, Sion sera labourée comme un champ, et Jérusalem sera une désolation, et la montagne de Sion sera comme une forêt” ; et dans Zacharie, nous lisons : “Ils s'assiéront, les vieillards et les femmes, dans les rues de Jérusalem.”” Avant que la prophétie d’Urie ne s’accomplisse, j’aurais pu douter de la véracité des paroles réconfortantes de Zacharie ; mais maintenant qu’elle s’est accomplie, je suis assuré que les promesses faites à Zacharie se réaliseront également, c’est pourquoi je suis heureux.
+« Vous pleurez », répondit Akiba, « pour la raison même qui réjouit mon cœur. N'est-il pas écrit : « Et vous, témoins fidèles, Urie, le prêtre, et Zacharie, fils de Barachiahou, rendez-moi témoignage ? » Or, qu'a Urie à voir avec Zacharie ? Urie a vécu à l'époque du premier Temple, et Zacharie à l'époque du second. Ne savez-vous pas que la prophétie d'Urie est comparée à celle de Zacharie. Dans la prophétie d'Urie, nous lisons : « C'est pourquoi, à cause de vous, Sion sera labourée comme un champ, et Jérusalem sera une désolation, et la montagne de Sion sera comme une forêt » ; et dans Zacharie, nous lisons : « Ils s'assiéront, les vieillards et les femmes, dans les rues de Jérusalem. »” Avant que la prophétie d’Urie ne s’accomplisse, j’aurais pu douter de la véracité des paroles réconfortantes de Zacharie ; mais maintenant qu’elle s’est accomplie, je suis assuré que les promesses faites à Zacharie se réaliseront également, c’est pourquoi je suis heureux.
 
 « Tes paroles nous réconfortent, Akiba », répondirent ses compagnons. « Que Dieu nous apporte toujours son réconfort. »
 
@@ -606,7 +606,7 @@ Lorsque Rabbi Akiba fut conduit à l’exécution, c’était juste au moment de
 
 Les tortionnaires déchiraient sa chair avec des cartes pointues, mais il répétait toujours : « Le Seigneur est un. »
 
-« J'ai toujours dit, continua-t-il, que “de toute ton âme” signifiait même si la vie t'était demandée, et je me demandais si je serais un jour capable de l'observer. Aujourd'hui, je le fais : “Le Seigneur est un.” »
+« J'ai toujours dit, continua-t-il, que « de toute ton âme » signifiait même si la vie t'était demandée, et je me demandais si je serais un jour capable de l'observer. Aujourd'hui, je le fais : « Le Seigneur est un. » »
 
 C'est sur ces mots qu'il mourut.
 
@@ -632,9 +632,9 @@ Ce dernier le salua et lui demanda :
 
 « Mais ton maître, Akiba, n'a pas dit cela », répliqua Élisée. « Il a dit que le Seigneur avait béni les derniers jours de Job en lui accordant un double repentir et de bonnes actions. »
 
-« Comment », demanda Rabbi Meir, « expliquerais-tu le verset : “Mieux vaut la fin d’une chose que son commencement.” Si un homme achète des marchandises dans sa jeunesse et subit des pertes, est-il probable qu’il récupère ses biens dans la vieillesse ? Ou, si quelqu’un étudie la loi divine dans sa jeunesse et l’oublie, est-il probable qu’elle lui revienne à la mémoire dans ses derniers jours ? »
+« Comment », demanda Rabbi Meir, « expliquerais-tu le verset : « Mieux vaut la fin d’une chose que son commencement. » Si un homme achète des marchandises dans sa jeunesse et subit des pertes, est-il probable qu’il récupère ses biens dans la vieillesse ? Ou, si quelqu’un étudie la loi divine dans sa jeunesse et l’oublie, est-il probable qu’elle lui revienne à la mémoire dans ses derniers jours ? »
 
-« Ton maître, Akiba, n'a pas dit cela », répondit Élisée ; « il a expliqué le verset : “Meilleure est la fin d'une chose quand le début était bon.” » Ma propre vie prouve la justesse de cette explication. Le jour où je fus admis dans l'alliance d'Abraham, mon père organisa un grand festin. Certains de ses visiteurs chantèrent, d'autres dansèrent, mais les rabbins conversèrent sur la sagesse de Dieu et ses lois. Cela plut à mon père, Abuyah, et il dit : “Quand mon fils grandira, vous l'enseignerez et il deviendra comme vous.” Il ne m'a pas fait étudier pour l'amour de Dieu, mais seulement pour rendre son nom célèbre à travers moi. C'est pourquoi, dans mes derniers jours, je suis devenu méchant et apostat ; et maintenant, retourne chez toi.”
+« Ton maître, Akiba, n'a pas dit cela », répondit Élisée ; « il a expliqué le verset : « Meilleure est la fin d'une chose quand le début était bon. » » Ma propre vie prouve la justesse de cette explication. Le jour où je fus admis dans l'alliance d'Abraham, mon père organisa un grand festin. Certains de ses visiteurs chantèrent, d'autres dansèrent, mais les rabbins conversèrent sur la sagesse de Dieu et ses lois. Cela plut à mon père, Abuyah, et il dit : « Quand mon fils grandira, vous l'enseignerez et il deviendra comme vous. » Il ne m'a pas fait étudier pour l'amour de Dieu, mais seulement pour rendre son nom célèbre à travers moi. C'est pourquoi, dans mes derniers jours, je suis devenu méchant et apostat ; et maintenant, retourne chez toi.”
 
 « Et pourquoi ? »
 
@@ -664,7 +664,7 @@ Durant la terrible période de persécution religieuse, le rabbin Juda, dont la 
 
 « Quoi ! s’écria Élisée, reviens ! Et pourrait-il recevoir ma pénitence, la pénitence d’un apostat qui s’est ainsi rebellé contre Lui ? »
 
-« N'est-il pas écrit, dit Meir : “Tu amènes l'homme à la contrition ?” Peu importe à quel point l'âme de l'homme est brisée, il peut toujours se tourner vers son Dieu et trouver le soulagement. »
+« N'est-il pas écrit, dit Meir : « Tu amènes l'homme à la contrition ? » Peu importe à quel point l'âme de l'homme est brisée, il peut toujours se tourner vers son Dieu et trouver le soulagement. »
 
 Élisée écouta ces paroles, pleura amèrement et mourut. Peu d'années après sa mort, ses filles vinrent , accablées de pauvreté, demander de l'aide aux universités. « Souvenez-vous, dirent-elles, du mérite de l'érudition de notre père, et non de sa conduite. »
 
@@ -726,7 +726,7 @@ Un païen dit au rabbin Josué : « Tu crois que Dieu connaît l’avenir ? »
 
 « Oui », répondit le rabbin.
 
-« Alors », demanda l'interrogateur, « pourquoi est-il écrit : “Le Seigneur a dit : Je détruirai tout ce que j'ai fait, car je me repens de l'avoir fait” ? Le Seigneur n'avait-il pas prévu que l'homme se corrompra ? »
+« Alors », demanda l'interrogateur, « pourquoi est-il écrit : « Le Seigneur a dit : Je détruirai tout ce que j'ai fait, car je me repens de l'avoir fait » ? Le Seigneur n'avait-il pas prévu que l'homme se corrompra ? »
 
 Rabbi Josué dit alors : « As-tu des enfants ? »
 
@@ -798,7 +798,7 @@ Rabbi Nahman dîna avec son maître, Rabbi Yitzhak, et en partant après le repa
 
 « Il en est de même pour toi, mon élève. Comment te bénirai-je ? Tu es parfait dans la loi, éminent dans le pays, respecté et doté de moyens. Que Dieu fasse que toute ta descendance soit aussi bonne que toi. »
 
-Un homme sage, disent les rabbins, était Gebiah ben Pesisah. Lorsque les enfants de Canaan accusèrent les Israélites de voler leur terre, en disant : « Le pays de Canaan est à nous, comme il est écrit : “Le pays de Canaan et ses limites appartiennent aux Cananéens” », et qu’ils exigèrent restitution, Gebiah proposa de plaider la cause devant le souverain.
+Un homme sage, disent les rabbins, était Gebiah ben Pesisah. Lorsque les enfants de Canaan accusèrent les Israélites de voler leur terre, en disant : « Le pays de Canaan est à nous, comme il est écrit : « Le pays de Canaan et ses limites appartiennent aux Cananéens » », et qu’ils exigèrent restitution, Gebiah proposa de plaider la cause devant le souverain.
 
 Gebiah dit aux Africains : « Vous apportez votre preuve dans le Pentateuque, et par le Pentateuque je la réfuterai. Maudit soit Canaan ! Il sera l'esclave des esclaves de ses frères. » À qui appartient la propriété d'un esclave ? À son maître. Même si la terre vous appartenait, par votre servitude elle est devenue celle d'Israël. »
 
@@ -816,7 +816,7 @@ Alors les enfants d'Ismaël et de Ketura vinrent devant Alexandre de Mukdon, en 
 
 De nouveau, Guébia apparaît comme conseiller des sages.
 
-« D'après le Pentateuque, qui est votre preuve, je vous confondrai », dit-il. « N'est-il pas écrit : “Abraham donna tout ce qu'il possédait à Isaac, mais aux fils de ses concubines, Abraham fit des présents ?” Celui qui donne son héritage à ses enfants de son vivant n'a pas l'intention de le leur restituer après sa mort. Abraham laissa tout ce qu'il possédait à Isaac ; à ses autres enfants, il fit des présents et les renvoya. »
+« D'après le Pentateuque, qui est votre preuve, je vous confondrai », dit-il. « N'est-il pas écrit : « Abraham donna tout ce qu'il possédait à Isaac, mais aux fils de ses concubines, Abraham fit des présents ? » Celui qui donne son héritage à ses enfants de son vivant n'a pas l'intention de le leur restituer après sa mort. Abraham laissa tout ce qu'il possédait à Isaac ; à ses autres enfants, il fit des présents et les renvoya. »
 
 <span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 

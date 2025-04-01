@@ -184,7 +184,7 @@ De tous ses chefs, le plus puissant.
 
 ## CHANT XLIII. : LA RUINE DU TEMPLE.
 
-Le fils du Dieu du Vent, un temple [1b](Book_5_50#fn880) à l'échelle
+Le fils du Dieu du Vent, un temple [1b](../Book_5_50#fn880) à l'échelle
 Qui, par sa fureur non assaillie,
 Haute comme la colline de Meru, se dressait
 Au milieu des ruines du bois ;
@@ -274,7 +274,7 @@ Là, écrasé sur l'herbe piétinée
 Il gisait comme une masse insignifiante,
 L'œil de l'ennemi ne pouvait plus voir
 Sa tête, sa poitrine, son bras ou son genou.
-Et un arc, un char, des chevaux [1](Book_5_50#fn882) et un magasin
+Et un arc, un char, des chevaux [1](../Book_5_50#fn882) et un magasin
 De scintillements ; on ne voyait plus de traits.
 Quand il apprit la mort de Jambumah,
 Le cœur du roi Ravan fut rempli de rage.
@@ -311,7 +311,7 @@ Les chars précipités de ses ennemis,
 Le puissant Vánar ne se laisse pas décourager
 Au milieu de ses ennemis archers jouaient,
 Comme le vent gambade dans les hauteurs
-Des nuages ​​armés d'arcs [1b](Book_5_50#fn883) qui remplissent le ciel,
+Des nuages ​​armés d'arcs [1b](../Book_5_50#fn883) qui remplissent le ciel,
 Il poussa un puissant rugissement et un cri
 Cette peur s'abattit sur toute l'armée,
 Et puis, son âme de guerrier s'embrasa
@@ -490,7 +490,7 @@ Et des liens de chanvre et d'écorce furent jetés
 Ils ont tiré les cordes autour des pieds et des poignets ;
 Ils l'ont battu à coups de mains et de poings.
 Et ils le traînèrent tandis qu'ils tiraient sur la corde
-Avec des cris de triomphe pour leur seigneur. [1](Book_5_50#fn886)
+Avec des cris de triomphe pour leur seigneur. [1](../Book_5_50#fn886)
 
 ## CHANSON XLIX. : RAVAN.
 
@@ -521,7 +521,7 @@ Derrière le monarque se tenaient les meilleurs
 De belles femmes gaiement vêtues.
 Et chacun de ses maîtres géants éventait,
 Ou agitait un chourie dans sa main.
-Quatre nobles courtisans [1b](Book_5_50#fn888) sages et bons
+Quatre nobles courtisans [1b](../Book_5_50#fn888) sages et bons
 En conseil, près du monarque se tenait,
 Comme les quatre océans se dressent toujours
 À propos de la terre entourée par la mer.
@@ -590,7 +590,7 @@ Pas de démon, pas de Dieu céleste
 Ces herbes peuvent se lier à l'aide d'un lien ou d'une chaîne.
 Le Sire Éternel lui-même d'autrefois
 J'ai accordé le bienfait qui me rend audacieux,
-Libéré du puits magique de Brahmá [1](Book_5_60#fn891)
+Libéré du puits magique de Brahmá [1](../Book_5_60#fn891)
 Je savais que le pouvoir du ravisseur avait cessé,
 Les liens imaginaires que je supportais librement,
 Et c'est ainsi que le roi a regardé.

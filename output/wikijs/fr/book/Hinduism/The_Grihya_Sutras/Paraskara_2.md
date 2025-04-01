@@ -924,7 +924,7 @@ Fin du deuxième Kâ<i>nd</i>a.
 
 [^848]: 331:25 Asamsyûtâ_h_. Comp. Böhtlingk-Roth s_v_. sa_m_\-siv.
 
-[^849]: 331:2 15, 2. Après ces oblations Â<i>g</i>ya suit l'oblation principale de tout le sacrifice, l'oblation de riz au lait à Indra. Dans l'un des manuscrits du professeur Stenzler, il y a un Sûtra spécial inséré après le Sûtra 2, « De la nourriture cuite, il fait une oblation avec (la formule) “À Indra svâhâ.” » Je ne pense cependant pas qu'il soit juste d'admettre ce Sûtra dans le texte, car les autres manuscrits ne le soutiennent pas, et les commentateurs ne l'ont pas trouvé dans le texte qu'ils ont lu.
+[^849]: 331:2 15, 2. Après ces oblations Â<i>g</i>ya suit l'oblation principale de tout le sacrifice, l'oblation de riz au lait à Indra. Dans l'un des manuscrits du professeur Stenzler, il y a un Sûtra spécial inséré après le Sûtra 2, « De la nourriture cuite, il fait une oblation avec (la formule) « À Indra svâhâ. » » Je ne pense cependant pas qu'il soit juste d'admettre ce Sûtra dans le texte, car les autres manuscrits ne le soutiennent pas, et les commentateurs ne l'ont pas trouvé dans le texte qu'ils ont lu.
 
 [^850]: 331:3 La traduction du professeur Stenzler, « Die Maruts essen kein Opfer », ne me semble pas tout à fait exacte. Je préférerais dire « Die Maruts essen Nicht-Opfer ». Ce passage, tiré de <i>S</i>atapatha Brâhma<i>n</i>a IV, 5, 2, 16, est cité comme appuyant la règle selon laquelle une offrande Bali doit être faite aux Maruts ; car dans le langage technique, le terme ahuta est appliqué aux offrandes Bali (<i>S</i>âṅkhâyana-G<i>n</i>hya I, 10, 7, hutoऽgnihotrahomena, ahuto balikarma<i>n</i>â).
 

@@ -110,7 +110,7 @@ La question de savoir si ces compositions elles-mêmes pourraient sembler montre
 
 [^9]: xix:1 Ibid. p. xxxii.
 
-[^10]: xix:2 Voir [X, 2, 3, 17](Book_4_10_2#v10_2_3_17)\-[18](Book_4_10_2#v10_2_3_18); [2, 4, 1](Book_4_10_2#v10_2_4_1) seqq.; [4, 3, 5](Book_4_10_4#v10_4_3_5)\-[8](Book_4_10_4#v10_4_3_8).
+[^10]: xix:2 Voir [X, 2, 3, 17](../Book_4_10_2#v10_2_3_17)\-[18](../Book_4_10_2#v10_2_3_18); [2, 4, 1](../Book_4_10_2#v10_2_4_1) seqq.; [4, 3, 5](../Book_4_10_4#v10_4_3_5)\-[8](../Book_4_10_4#v10_4_3_8).
 
 [^11]: xix:3 VI, 5, 2, I seq.; VII, I, 2, 7-9.
 
@@ -122,7 +122,7 @@ La question de savoir si ces compositions elles-mêmes pourraient sembler montre
 
 [^15]: xx : 4 VI, 7, 4, 4 ; VII, 1, I, 22-23.
 
-[^16]: xxi:1 Voir, par exemple, [VIII, 1, 4, 3.](Book_4_8_1#v8_1_4_3)
+[^16]: xxi:1 Voir, par exemple, [VIII, 1, 4, 3.](../Book_4_8_1#v8_1_4_3)
 
 [^17]: xxi:2 V, 1, I, 2.
 
@@ -130,7 +130,7 @@ La question de savoir si ces compositions elles-mêmes pourraient sembler montre
 
 [^19]: xxi:4 sam. Frère. VI, 6, 3, 7.
 
-[^20]: xxi:5 Voir, par exemple, VI, 2, 2, 16 ; [X, 4, 2, 1](Book_4_10_4#v10_4_2_1).
+[^20]: xxi:5 Voir, par exemple, VI, 2, 2, 16 ; [X, 4, 2, 1](../Book_4_10_4#v10_4_2_1).
 
 [^21]: xxi:6 IV, I, 2, 25.
 
@@ -140,11 +140,11 @@ La question de savoir si ces compositions elles-mêmes pourraient sembler montre
 
 [^24]: xxii : 1 VI, 1, 2, 20 ; 3, 1, 55.
 
-[^25]: xxii:2 [X, 5, 2, 1](Book_4_10_5#v10_5_2_1) seqq.
+[^25]: xxii:2 [X, 5, 2, 1](../Book_4_10_5#v10_5_2_1) seqq.
 
 [^26]: xxiii:1 VII, 4, 1,1.
 
-[^27]: xxiv:1 Ils prennent part, cependant, à des cérémonies telles que l'hommage rendu à l'autel du Feu achevé au moyen des Parimâds ; cf. [p. 288](Book_4_10_1#p288), note [2](Book_4_10_1#fn534) de ce volume.
+[^27]: xxiv:1 Ils prennent part, cependant, à des cérémonies telles que l'hommage rendu à l'autel du Feu achevé au moyen des Parimâds ; cf. [p. 288](../Book_4_10_1#p288), note [2](../Book_4_10_1#fn534) de ce volume.
 
 [^28]: xxv:1 Notre Brâhma<i>n</i>a, X, 2, 5, 16, dit que, si un homme ne peut pas presser Soma pendant un an, il devrait accomplir le Vi<i>s</i>va<i>g</i>it Atirâtra avec tous les P<i>ri</i>sh<i>th</i>as, et lors de cette exécution, il devrait donner tous ses biens. Cependant, ce n'étaient sans doute en aucun cas les seules alternatives.
 
@@ -152,8 +152,8 @@ La question de savoir si ces compositions elles-mêmes pourraient sembler montre
 
 [^30]: xxv:3 C'est-à-dire en tant que Sacrificateurs. Des personnes d'autres castes prenaient bien sûr part aux cérémonies de cette journée. Dans les différents récits de ces cérémonies, aucune cérémonie alternative ne semble être mentionnée au cas où les Sacrificateurs eux-mêmes appartiendraient à des castes différentes.
 
-[^31]: xxvi:1 Voir, par exemple, Sat. Br. VI, 6, 3, 12-15, où des instructions sont données quant à certaines alternatives d'exécution lors de la cérémonie d'initiation dans le cas où le Sacrificateur est soit un Kshatriya, soit un Purohita, soit toute autre personne. Les cérémonies liées à la consécration du Sacrificateur ([IX, 3, 4, 1](Book_4_9_3#v9_3_4_1) seqq.) désignent principalement un roi.
+[^31]: xxvi:1 Voir, par exemple, Sat. Br. VI, 6, 3, 12-15, où des instructions sont données quant à certaines alternatives d'exécution lors de la cérémonie d'initiation dans le cas où le Sacrificateur est soit un Kshatriya, soit un Purohita, soit toute autre personne. Les cérémonies liées à la consécration du Sacrificateur ([IX, 3, 4, 1](../Book_4_9_3#v9_3_4_1) seqq.) désignent principalement un roi.
 
-[^32]: xxvi:2 Voir [p. 282](Book_4_10_1#p282), note [5](Book_4_10_1#fn525) du présent volume.
+[^32]: xxvi:2 Voir [p. 282](../Book_4_10_1#p282), note [5](../Book_4_10_1#fn525) du présent volume.
 
-[^33]: xxvi:3 Voir les notes aux pp. [110](Book_4_8_6#p110)\-[113](Book_4_8_6#p113) de ce volume.
+[^33]: xxvi:3 Voir les notes aux pp. [110](../Book_4_8_6#p110)\-[113](../Book_4_8_6#p113) de ce volume.

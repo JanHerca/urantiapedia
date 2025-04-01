@@ -58,7 +58,7 @@ Veux-tu, ô Vidura ! parler pour moi à l'ancien Sanâtana, afin qu'il y ait une
 
 Vai<i>s</i>ampâyana [^608] a dit :
 
-(Alors) Vidura médita sur ce sage dont les vœux sont louables [^609]. Et lui aussi, ô descendant de Bharata ! connaissant une telle méditation, fit son apparition. Et lui aussi [^610] le reçut avec les cérémonies prescrites dans les ordonnances. Après qu'il se fut confortablement assis et se fut reposé, Vidura lui parla alors : « Vénérable monsieur ! Il y a un doute dans l'esprit de Dh<i>ri</i>tarâsh<i>t</i>ra, que je ne peux pas expliquer. Auriez-vous la permission de le lui expliquer. » En l'entendant (expliqué), ce seigneur des hommes peut traverser toute misère, afin que le gain et la perte [1](Sanatsugatiya_2#fn611), (ce qui est) agréable et (ce qui est) odieux, la vieillesse et la mort, la peur et la vindicte, la faim et la soif, la frénésie et la grandeur mondaine, le dégoût et aussi la paresse, le désir et la colère, la ruine et la prospérité, ne le troublent pas.
+(Alors) Vidura médita sur ce sage dont les vœux sont louables [^609]. Et lui aussi, ô descendant de Bharata ! connaissant une telle méditation, fit son apparition. Et lui aussi [^610] le reçut avec les cérémonies prescrites dans les ordonnances. Après qu'il se fut confortablement assis et se fut reposé, Vidura lui parla alors : « Vénérable monsieur ! Il y a un doute dans l'esprit de Dh<i>ri</i>tarâsh<i>t</i>ra, que je ne peux pas expliquer. Auriez-vous la permission de le lui expliquer. » En l'entendant (expliqué), ce seigneur des hommes peut traverser toute misère, afin que le gain et la perte [1](../Sanatsugatiya_2#fn611), (ce qui est) agréable et (ce qui est) odieux, la vieillesse et la mort, la peur et la vindicte, la faim et la soif, la frénésie et la grandeur mondaine, le dégoût et aussi la paresse, le désir et la colère, la ruine et la prospérité, ne le troublent pas.
 
 <figure class="table chapter-navigator">
   <table>
@@ -86,7 +86,7 @@ Vai<i>s</i>ampâyana [^608] a dit :
 
 ## Notes de bas de page
 
-[^608]: 149:1 Ainsi Nîlaka<i>nth</i>a. <i>S</i>ankara dit que Sanatsu<i>g</i>âta est Sanatkumâra, et il paraphrase les parties composantes du nom par « né de Brahman ». Pour Sanâtana, voir B<i>nth</i>hadâra<i>nth</i>aka, p. 506, et note [1](Sanatsugatiya_Intro#fn593), [p. 141](Sanatsugatiya_Intro#p141) supra.
+[^608]: 149:1 Ainsi Nîlaka<i>nth</i>a. <i>S</i>ankara dit que Sanatsu<i>g</i>âta est Sanatkumâra, et il paraphrase les parties composantes du nom par « né de Brahman ». Pour Sanâtana, voir B<i>nth</i>hadâra<i>nth</i>aka, p. 506, et note [1](../Sanatsugatiya_Intro#fn593), [p. 141](../Sanatsugatiya_Intro#p141) supra.
 
 [^609]: 149:2 C'est-à-dire relatif aux sujets qui peuvent être librement discutés par tous, et à ceux qui ne le peuvent pas. Nîlaka<i>nth</i>a adopte une lecture différente, qu'il interprète comme signifiant « doctrines exotériques et ésotériques », par exemple la maîtrise de soi, etc., et l'acquisition de pouvoirs mystiques, etc., respectivement. L'expression « doutes de l'esprit » apparaît cependant plus loin.
 
@@ -94,6 +94,6 @@ Vai<i>s</i>ampâyana [^608] a dit :
 
 [^611]: 150:2 Vai<i>s</i>ampâyana est le narrateur de la grande histoire dont des morceaux comme celui-ci font partie.
 
-[^612]: 150:3 La lecture est parfois différente, de manière à signifier « de vœux rigides », comme dans la Gîtâ, [p. 61](Bhagavadgita_4#p61) supra.
+[^612]: 150:3 La lecture est parfois différente, de manière à signifier « de vœux rigides », comme dans la Gîtâ, [p. 61](../Bhagavadgita_4#p61) supra.
 
 [^613]: 150:4 Les pronoms ici sont trop nombreux. « il » fait-il ici référence à Dh<i>ri</i>tarâsh<i>t</i>ra ? Vidura semble plus probable, bien que sa mention expresse dans la phrase suivante puisse être interprétée comme une indication contraire.

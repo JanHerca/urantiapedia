@@ -44,12 +44,12 @@ Ni sentir ses pieds atteindre le chemin du bonheur
 Quand la gloire de Rama est chantée par le saint !
 
 Le ruisseau Rámáyan quitte sa source sacrée
-Le monde entier, libéré du péché et de la souillure. [1b](Book_1_10#fn3)
+Le monde entier, libéré du péché et de la souillure. [1b](../Book_1_10#fn3)
 Le Prince des Ermites est la monture parentale,
 Le seigneur Ráma est la mer chérie.
 
 Gloire à celui dont la renommée est toujours brillante !
-Gloire à lui, le saint fils de Prachetas [2b](Book_1_10#fn4) !
+Gloire à lui, le saint fils de Prachetas [2b](../Book_1_10#fn4) !
 Dont les lèvres pures s'imprègnent d'un plaisir toujours nouveau
 La mer de nectar des actes accomplis par Ráma.
 

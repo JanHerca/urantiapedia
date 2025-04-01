@@ -30,7 +30,7 @@ dateCreated: 2025-1-16T23:39:57Z
 
 ## PLANCHE I
 
-{face à [page 48](1#p48)}
+{face à [page 48](../1#p48)}
 
 <figure id="Figure_pl01" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl01.jpg">
@@ -44,37 +44,37 @@ Monolithe calcaire de Pasargades, en Perse, sculpté en bas-relief représentant
 
 ## PLANCHE II
 
-{face à [page 64](1#p64)}
+{face à [page 64](../1#p64)}
 
 <figure id="Figure_pl02" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl02.jpg">
 </figure>
 
-Cylindre en terre cuite portant l'inscription de la prise de Babylone par **Cyrus** (![cunéiforme](/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl02c.jpg) KU-RA-<sup>ash</sup>) Roi de Perse, 538 av. J.-C. Il restaura dans leurs sanctuaires d'origine à travers le pays les images des dieux qu'un ancien roi Nabonide avait rassemblées à Babylone et donna aux Juifs la permission de reconstruire leur temple. (British Museum n° 90920.). (_Voir_ [page 190](5#pl02).)
+Cylindre en terre cuite portant l'inscription de la prise de Babylone par **Cyrus** (![cunéiforme](/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl02c.jpg) KU-RA-<sup>ash</sup>) Roi de Perse, 538 av. J.-C. Il restaura dans leurs sanctuaires d'origine à travers le pays les images des dieux qu'un ancien roi Nabonide avait rassemblées à Babylone et donna aux Juifs la permission de reconstruire leur temple. (British Museum n° 90920.). (_Voir_ [page 190](../5#pl02).)
 
 <span id="plate03"></span>
 
 ## PLANCHE III
 
-{face à [page 80](1#p80)}
+{face à [page 80](../1#p80)}
 
 <figure id="Figure_pl03" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl03.jpg">
 </figure>
 
-Vue générale de la ziggourat et des fouilles à « Ur des Chaldéens ». (_Voir_ [page 275](9#pl03).)
+Vue générale de la ziggourat et des fouilles à « Ur des Chaldéens ». (_Voir_ [page 275](../9#pl03).)
 
 <span id="plate04"></span>
 
 ## PLANCHE IV
 
-{face à [page 96](2#p96)}
+{face à [page 96](../2#p96)}
 
 <figure id="Figure_pl04-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl04-1.jpg">
 </figure>
 
-Cône inscrit d'Ur-Nammu qui a été inséré dans le joint vertical d'un de ses bâtiments. (_Voir_ [page 276](9#p276).)
+Cône inscrit d'Ur-Nammu qui a été inséré dans le joint vertical d'un de ses bâtiments. (_Voir_ [page 276](../9#p276).)
 
 <figure id="Figure_pl04-2" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl04-2.jpg">
@@ -86,31 +86,31 @@ Porte voûtée dans le mur nord-est du sanctuaire d'E-Dublal-maḫ. De l'époque
 
 ## PLANCHE V
 
-{face à [page 112](3#p112)}
+{face à [page 112](../3#p112)}
 
 <figure id="Figure_pl05" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl05.jpg">
 </figure>
 
-Les ruines de la grande salle de justice (E-Dubal-maḫ) à « Ur des Chaldéens », vues depuis l'angle sud. (_Voir_ [page 277](9#pl05).)
+Les ruines de la grande salle de justice (E-Dubal-maḫ) à « Ur des Chaldéens », vues depuis l'angle sud. (_Voir_ [page 277](../9#pl05).)
 
 <span id="plate06"></span>
 
 ## PLANCHE VI
 
-{face à [page 128](3#p128)}
+{face à [page 128](../3#p128)}
 
 <figure id="Figure_pl06" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl06.jpg">
 </figure>
 
-L'E-Dubal-maḫ, ou Salle de Justice, à « Ur des Chaldéens » telle qu'elle était incorporée dans l'E-Gig-Par de Nabonide ; le côté nord-est. (_Voir_ [page 277](9#pl06).)
+L'E-Dubal-maḫ, ou Salle de Justice, à « Ur des Chaldéens » telle qu'elle était incorporée dans l'E-Gig-Par de Nabonide ; le côté nord-est. (_Voir_ [page 277](../9#pl06).)
 
 <span id="plate07"></span>
 
 ## PLANCHE VII
 
-{face à [page 144](4#p144)}
+{face à [page 144](../4#p144)}
 
 <figure id="Figure_pl07-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl07-1.jpg">
@@ -120,17 +120,17 @@ L'E-Dubal-maḫ, ou Salle de Justice, à « Ur des Chaldéens » telle qu'elle �
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl07-2.jpg">
 </figure>
 
-1\. (Première image) Poids d'un canard en pierre de Shulgi, roi d'Ur, vers 2200 <small>av. J.-C.</small> (_Voir_ [page 285](9#p285).)
+1\. (Première image) Poids d'un canard en pierre de Shulgi, roi d'Ur, vers 2200 <small>av. J.-C.</small> (_Voir_ [page 285](../9#p285).)
 
-2\. (Deuxième image à gauche) Sabot en bronze d'un pivot de porte et sa douille en pierre portant l'inscription du nom d'Ur-Nammu, vers 2600 <small>av. J.-C.</small> (_Voir_ [page 279](9#p279).)
+2\. (Deuxième image à gauche) Sabot en bronze d'un pivot de porte et sa douille en pierre portant l'inscription du nom d'Ur-Nammu, vers 2600 <small>av. J.-C.</small> (_Voir_ [page 279](../9#p279).)
 
-3\. (Deuxième image à droite) Fragment de pierre dure avec une inscription d'Ur-Nammu. (_Voir_ [page 279](9#p279).)
+3\. (Deuxième image à droite) Fragment de pierre dure avec une inscription d'Ur-Nammu. (_Voir_ [page 279](../9#p279).)
 
 <span id="plate08"></span>
 
 ## PLANCHE VIII
 
-{face à [page 160](4#p160)}
+{face à [page 160](../4#p160)}
 
 <figure id="Figure_pl08-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl08-1.jpg">
@@ -138,31 +138,31 @@ L'E-Dubal-maḫ, ou Salle de Justice, à « Ur des Chaldéens » telle qu'elle �
 
 
 Socle de porte de Sin-balatsu-ixbi vers 650 <small>av. J.-C.</small> (_Voir_
-[page 277](9#p277).)
+[page 277](../9#p277).)
 
 <figure id="Figure_pl08-2" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl08-2.jpg">
 </figure>
 
-Socle de porte de Bur-Sin (environ 2200 av. J.-C.), enregistrant la dédicace d'un temple à Nannar. (_Voir_ [page 279](9#p279).)
+Socle de porte de Bur-Sin (environ 2200 av. J.-C.), enregistrant la dédicace d'un temple à Nannar. (_Voir_ [page 279](../9#p279).)
 
 <span id="plate09"></span>
 
 ## PLANCHE IX
 
-{face à [page 176](5#p176)}
+{face à [page 176](../5#p176)}
 
 <figure id="Figure_pl09" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl09.jpg">
 </figure>
 
-Cuisine dans le Gig-Pak-Ku à « Ur des Chaldéens », montrant le réservoir, le mur, l'anneau de corde et la cheminée. (_Voir_ [page 280](9#pl09).)
+Cuisine dans le Gig-Pak-Ku à « Ur des Chaldéens », montrant le réservoir, le mur, l'anneau de corde et la cheminée. (_Voir_ [page 280](../9#pl09).)
 
 <span id="plate10"></span>
 
 ## PLAQUE X
 
-{face à [page 192](6#p192)}
+{face à [page 192](../6#p192)}
 
 <figure id="Figure_pl10-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl10-1.jpg">
@@ -183,13 +183,13 @@ Statue en diorite de Bau, déesse de la fertilité. Elle est assise sur un trôn
 
 ## PLANCHE XI
 
-{face à [page 208](6#p208)}
+{face à [page 208](../6#p208)}
 
 <figure id="Figure_pl11-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl11-1.jpg">
 </figure>
 
-Une stèle de la IIIe dynastie provenant de l'E-Gig-Par à « Ur des Chladees ». (_Voir_ [page 280](9#p280).)
+Une stèle de la IIIe dynastie provenant de l'E-Gig-Par à « Ur des Chladees ». (_Voir_ [page 280](../9#p280).)
 
 <figure id="Figure_pl11-2" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl11-2.jpg">
@@ -202,7 +202,7 @@ Le roi Ur-Nammu faisant une offrande à Nannar et Nin-Gal. Tiré de la grande st
 
 ## PLANCHE XII
 
-{face à [page 224](6#p224)}
+{face à [page 224](../6#p224)}
 
 <figure id="Figure_pl12" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl12.jpg">
@@ -215,27 +215,27 @@ Une rue de maisons privées a été récemment fouillée dans la ville d'« Ur e
 
 ## PLANCHE XIII
 
-{face à [page 240](6#p240)}
+{face à [page 240](../6#p240)}
 
 <figure id="Figure_pl13-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl13-1.jpg">
 </figure>
 
-1\. (en haut) Plaque de calcaire avec des reliefs représentant le roi et ses fils versant une libation à Nannar, le dieu de la Lune. (_Voir_ [page 278](9#pl13-1).)  
+1\. (en haut) Plaque de calcaire avec des reliefs représentant le roi et ses fils versant une libation à Nannar, le dieu de la Lune. (_Voir_ [page 278](../9#pl13-1).)  
 
-2\. (en bas) Un prêtre verse une libation devant un sanctuaire. Derrière lui se trouvent la grande prêtresse et des hommes portant des offrandes. (_Voir_ [page 278](9#p278).)
+2\. (en bas) Un prêtre verse une libation devant un sanctuaire. Derrière lui se trouvent la grande prêtresse et des hommes portant des offrandes. (_Voir_ [page 278](../9#p278).)
 
 <figure id="Figure_pl13-2" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl13-2.jpg">
 </figure>
 
-Béliers d'albâtre provenant d'un trône. (_Voir_ [page 278](9#p278).)
+Béliers d'albâtre provenant d'un trône. (_Voir_ [page 278](../9#p278).)
 
 <span id="plate14"></span>
 
 ## PLANCHE XIV
 
-{face à [page 256](8#p256)}
+{face à [page 256](../8#p256)}
 
 <figure id="Figure_pl14-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl14-1.jpg">
@@ -247,13 +247,13 @@ Couvercle d'une boîte de toilette en ivoire portant une inscription phénicienn
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl14-2.jpg">
 </figure>
 
-Dague en or, avec un manche en lapis-lazuli bleu foncé parsemé d'or ; le fourreau dans lequel il a été trouvé est également en or. (_Voir_ [page 289](9#p289).)
+Dague en or, avec un manche en lapis-lazuli bleu foncé parsemé d'or ; le fourreau dans lequel il a été trouvé est également en or. (_Voir_ [page 289](../9#p289).)
 
 <span id="plate16"></span>
 
 ## PLANCHE XV
 
-{face à [page 272](8#p272)}
+{face à [page 272](../8#p272)}
 
 <figure id="Figure_pl15-1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl15-1.jpg">
@@ -271,7 +271,7 @@ Dague en or, avec un manche en lapis-lazuli bleu foncé parsemé d'or ; le fourr
 <img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl15-3.jpg">
 </figure>
 
-3\. Plaque de coquillage de la Ière dynastie d'Ur. (_Voir_ [page 288](9#p288).)
+3\. Plaque de coquillage de la Ière dynastie d'Ur. (_Voir_ [page 288](../9#p288).)
 
 Plaques de coquillages incisés provenant d'« Ur des Chaldéens ».
 

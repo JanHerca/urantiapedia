@@ -152,7 +152,7 @@ Ainsi je dis.
 
 [^466]: 174:1 Karmôpâdânahêtavas, ce par quoi l'âme devient affectée par Karman.
 
-[^467] : 174:2 Agârava = agaurava; mais il est expliqué ici, exempt de garva, cf. [p. 98](Uttaradhyayana_19#p98), note [2](Uttaradhyayana_19#fn257).
+[^467] : 174:2 Agârava = agaurava; mais il est expliqué ici, exempt de garva, cf. [p. 98](../Uttaradhyayana_19#p98), note [2](../Uttaradhyayana_19#fn257).
 
 [^468]: 174:3 Littéralement krores, c'est-à-dire dix millions.
 

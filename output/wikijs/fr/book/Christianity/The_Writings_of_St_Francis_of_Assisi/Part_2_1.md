@@ -112,7 +112,7 @@ Au nom du Père, du Fils et du Saint-Esprit. Ainsi soit-il. [^435] À tous ceux 
 
 ## Notes de bas de page
 
-[^374]: 96:1 Comparez par exemple le passage de la [p. 101](#p101), commençant par « Aimons donc Dieu », etc., avec le chapitre XXII de la Première Règle ([p. 53](Part_1_4#p53)) ; et la prière du Christ donnée à la [p. 105](#p105), avec la conclusion du même chapitre ([p. 59](Part_1_4#p59)).
+[^374]: 96:1 Comparez par exemple le passage de la [p. 101](#p101), commençant par « Aimons donc Dieu », etc., avec le chapitre XXII de la Première Règle ([p. 53](../Part_1_4#p53)) ; et la prière du Christ donnée à la [p. 105](#p105), avec la conclusion du même chapitre ([p. 59](../Part_1_4#p59)).
 
 [^375]: 96:2 Voir Le Monnier, _l.c._, p. 202, et Knox Little, _l.c._, p. 164. Wadding, _Annales_, ad. an. 1213, place la rédaction de cette lettre deux ou trois ans plus tôt, ce qui paraît moins probable.
 

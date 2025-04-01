@@ -80,7 +80,7 @@ Comment puis-je savoir qu'il en est ainsi ? La connaissance démontrée dans la 
 
 ## Notes de bas de page
 
-[^406] : 281:1 Voir pp. [141](Kwang_dze_Intro#p141), [142](Kwang_dze_Intro#p142).
+[^406] : 281:1 Voir pp. [141](../Kwang_dze_Intro#p141), [142](../Kwang_dze_Intro#p142).
 
 [^407]: 282:1 Le sens est clair ; mais introduire les différents termes géographiques compliquerait la traduction. La conclusion ![](/image/book/Taoism/Taoist_texts_vol_1/28200.jpg) est déroutante.
 
@@ -108,19 +108,19 @@ Comment puis-je savoir qu'il en est ainsi ? La connaissance démontrée dans la 
 
 [^419]: 286:1 Voir le Tâo Teh King, ch. 36. L'usage que notre auteur en fait éclaire sa signification.
 
-[^420]: 286:2 Note [1](Kwang_dze_Book_2#fn98), p. 186.
+[^420]: 286:2 Note [1](../Kwang_dze_Book_2#fn98), p. 186.
 
-[^421]: 286:3 Note [2](Kwang_dze_Book_8#fn343), p. 269.
+[^421]: 286:3 Note [2](../Kwang_dze_Book_8#fn343), p. 269.
 
 [^422]: 286:4 Un habile fabricant de flèches de l'époque de Yâo, le Kung-kung du Shû, II, i, 21 ; V, xxii, 19.
 
 [^423]: 287:1 Le Roi Tâo Teh, ch. 45.
 
-[^424] : 287:2 Remarque [6](Kwang_dze_Book_8#fn347), p. 269.
+[^424] : 287:2 Remarque [6](../Kwang_dze_Book_8#fn347), p. 269.
 
-[^425]: 287:3 Note [7](Kwang_dze_Book_8#fn348), p. 269.
+[^425]: 287:3 Note [7](../Kwang_dze_Book_8#fn348), p. 269.
 
-[^426]: 287:4 Note [5](Kwang_dze_Book_7#fn324), p. 261.
+[^426]: 287:4 Note [5](../Kwang_dze_Book_7#fn324), p. 261.
 
 [^427]: 287:5 Des douze noms mentionnés ici, le lecteur est probablement familier avec ceux de Fû-hsî et de Shan-näng, le premier et le deuxième des Tî dans la chronologie. Hsien-yüan est un autre nom pour Hwang-Tî, le troisième d'entre eux. Kû-yung était, peut-être, un ministre de Hwang-Tî. Ho-hsü est déjà apparu dans le Livre IV. Des sept autres, cinq figurent parmi les quinze souverains placés dans le « Compendium p. 288 de l'Histoire » entre Fû-hsî et Shän-näng. Les deux autres peuvent être trouvés, je suppose, dans le Lû Shih de Lo Pî.
 

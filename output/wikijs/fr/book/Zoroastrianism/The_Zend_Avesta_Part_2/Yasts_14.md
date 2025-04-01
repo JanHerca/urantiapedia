@@ -528,6 +528,6 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1155]: 247:1 De Yasna X, 20 (62), où, au lieu des mots, 'dans le bœuf est notre force (amem), dans le bœuf est notre besoin', le texte a, 'dans le bœuf est son besoin, dans le bœuf est notre besoin', ce qui signifie, 'quand nous lui donnons son besoin (eau et herbe), il nous donne notre besoin (lait et veaux)' (trad. Pahl.).
 
-[^1156]: 248:1 Voir [p. 120](Yasts_10#p120), note [2](Yasts_10#fn558).
+[^1156]: 248:1 Voir [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558).
 
 [^1157]: 248:2 Qui offrira un sacrifice à Verethraghna.

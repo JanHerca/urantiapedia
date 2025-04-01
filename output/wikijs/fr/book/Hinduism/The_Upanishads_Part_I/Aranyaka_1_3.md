@@ -149,7 +149,7 @@ In nada<i>m</i> va odatînâm (Ap. VIII, 69, 2), les odati [^444] sont les eaux 
 
 6\. Il tend un Trish<i>t</i>ubh et un Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh est l'homme, Anush<i>t</i>ubh l'épouse, et ils forment un couple. C'est pourquoi un homme, après avoir trouvé une épouse, se considère comme un homme plus parfait.
 
-7\. Ces versets, en se répétant les trois premières fois, deviennent vingt-cinq. Le tronc est le vingt-cinquième, et Pra<i>g</i>âpati est le vingt-cinquième [^446]. Il y a dix doigts à ses mains, dix orteils à ses pieds, deux jambes, deux bras, et le tronc est le vingt-cinquième. Il orne ce tronc comme le vingt-cinquième. Or, ce jour est composé de vingt-cinq, et l'hymne Stoma de ce jour est composé de vingt-cinq : il devient le même <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> par le même. Par conséquent, les deux, le jour et l'hymne, sont vingt-cinq [1](Aranyaka_3_1#fn447).
+7\. Ces versets, en se répétant les trois premières fois, deviennent vingt-cinq. Le tronc est le vingt-cinquième, et Pra<i>g</i>âpati est le vingt-cinquième [^446]. Il y a dix doigts à ses mains, dix orteils à ses pieds, deux jambes, deux bras, et le tronc est le vingt-cinquième. Il orne ce tronc comme le vingt-cinquième. Or, ce jour est composé de vingt-cinq, et l'hymne Stoma de ce jour est composé de vingt-cinq : il devient le même <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> par le même. Par conséquent, les deux, le jour et l'hymne, sont vingt-cinq [1](../Aranyaka_3_1#fn447).
 
 
 ## SIXIÈME KHA<i>N</i><i>D</i>A.

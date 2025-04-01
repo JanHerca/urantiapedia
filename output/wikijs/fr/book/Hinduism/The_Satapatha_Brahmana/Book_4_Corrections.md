@@ -92,7 +92,7 @@ P. 379, l. 10. Lisez : le souffle sert à tout ici.
 
 „ l. 20. Pour ce Sâman, basé sur le mot 'bhûs', voir partie iv, p. 145, note 1.
 
-P. 404, l. 15. Lisez : — Ayant doté l'homme de pouvoir de manière prééminente, il l'établit. Cf. [VIII, 7, 2, 3](Book_4_8_7#v8_7_2_3).
+P. 404, l. 15. Lisez : — Ayant doté l'homme de pouvoir de manière prééminente, il l'établit. Cf. [VIII, 7, 2, 3](../Book_4_8_7#v8_7_2_3).
 
 P. 415, l. 4. Lire,—XIII, 53.
 

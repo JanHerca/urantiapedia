@@ -156,7 +156,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 [^1617]: 359:3 Upasayêni : ce qui est ajouté pour entretenir le feu une fois allumé (traduction pers.).
 
-[^1618]: 359:4 Le gaoshô-srûta khratu et le âsna khratu (voir [p. 7](Sirozahs_1#p7). note [1](Sirozahs_1#fn39)).
+[^1618]: 359:4 Le gaoshô-srûta khratu et le âsna khratu (voir [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
 
 [^1619]: 360:1 Yâ mek afra<i>a</i>ungh<i>a</i>u angha<i>t</i>: mì me abhût ayogyatâ (traduction sanskrite).
 
@@ -176,4 +176,4 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 [^1628]: 361:3 De Yasna XXXIV, 4.
 
-[^1629]: 361:4 'Dans le var nîrang' (Pahl. Comm.), c'est-à-dire dans l'épreuve du feu ; voir ci-dessus, [p. 170](Yasts_12#p170), note [3](Yasts_12#fn787).
+[^1629]: 361:4 'Dans le var nîrang' (Pahl. Comm.), c'est-à-dire dans l'épreuve du feu ; voir ci-dessus, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).

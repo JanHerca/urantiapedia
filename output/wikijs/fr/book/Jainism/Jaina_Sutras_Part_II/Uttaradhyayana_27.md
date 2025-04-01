@@ -108,7 +108,7 @@ Ainsi je dis.
 
 [^391]: 150:4 <i>Kh</i>imâla = <i>g</i>âra, voir Hêma<i>k</i>andra, Dê<i>s</i>î Kôsha 3, 27. C'est un terme grossier, que je remplace par un autre, bien que probablement le langage de nos cochers puisse nous fournir une traduction plus idiomatique.
 
-[^392] : 150:5 Gârava, cf. [p. 98](Uttaradhyayana_19#p98), note [2](Uttaradhyayana_19#fn257).
+[^392] : 150:5 Gârava, cf. [p. 98](../Uttaradhyayana_19#p98), note [2](../Uttaradhyayana_19#fn257).
 
 [^393]: 151:1 Le mètre de ce verset semble avoir été à l'origine Âryâ, mais on a tenté de le changer en Anush<i>t</i>ubh. On rencontre ici la forme intéressante a<i>n</i>usâsammî (lire a<i>n</i>usasammi) = anu<i>s</i>âsmi.
 

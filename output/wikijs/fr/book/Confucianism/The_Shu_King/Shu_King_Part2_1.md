@@ -124,7 +124,7 @@ Tous les trois ans, il y avait un examen des mérites, et après trois examens, 
 
 [^38]: 39:3 Les princes des différents États, dont le chef officiel était le président des Quatre Montagnes, tous « bergers d'hommes ».
 
-[^39]: 39:4 Thâi-ȝung est le mont Thâi dans le Shan-tung. Voir la note sur le Président des Quatre Montagnes, [p. 35](Shu_King_Part1_1#p35).
+[^39]: 39:4 Thâi-ȝung est le mont Thâi dans le Shan-tung. Voir la note sur le Président des Quatre Montagnes, [p. 35](../Shu_King_Part1_1#p35).
 
 [^41]: 40:1 Voir note sur le Président des Quatre Montagnes, p. 35.
 

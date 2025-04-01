@@ -86,7 +86,7 @@ Ce qu'on appelait autrefois « l'Atteindre le But » ne signifiait pas l'obtenti
 
 ## Notes de bas de page
 
-[^609] : 368:1 Voir pp. [147](Kwang_dze_Intro#p147), [148](Kwang_dze_Intro#p148).
+[^609] : 368:1 Voir pp. [147](../Kwang_dze_Intro#p147), [148](../Kwang_dze_Intro#p148).
 
 [^610]: 368:2 « Vulgaire » doit signifier « commun », et « l'érudition vulgaire » est l'enseignement populaire à l'époque de notre auteur, qu'il considérait comme contraire aux principes du taoïsme, dont il était un adepte. Les critiques chinois disent que « vulgaire » est ici utilisé comme l'opposé de « vrai ».
 

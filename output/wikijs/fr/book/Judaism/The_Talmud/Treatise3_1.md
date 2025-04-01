@@ -62,7 +62,7 @@ Déménagements — Travaux à éviter — Discussion entre les écoles de Shamm
 
 10\. « Ils ne doivent pas frire de viande, d'oignons et d'œufs, à moins qu'ils ne soient suffisamment frits pendant qu'il fait encore jour. Ils ne doivent pas mettre de pain au four au crépuscule, ni de gâteau sur des braises, à moins que sa face ne soit suffisamment croustillante pendant qu'il fait encore jour. » Rabbi Eliezer a dit : « que son dessous soit suffisamment croustillant. »
 
-11\. « Ils pourront suspendre l'offrande pascale [1](Treatise3_2#fn93) dans un four au crépuscule. » Et ils pourront prendre une lumière au tas de bois dans la maison où l'on brûle. [2](Treatise3_2#fn94) Et dans les faubourgs « lorsque le feu aura suffisamment éclairé la plus grande partie ». Rabbi Judah dit : « des braises, même minimes » (allumées avant le sabbat).
+11\. « Ils pourront suspendre l'offrande pascale [1](../Treatise3_2#fn93) dans un four au crépuscule. » Et ils pourront prendre une lumière au tas de bois dans la maison où l'on brûle. [2](../Treatise3_2#fn94) Et dans les faubourgs « lorsque le feu aura suffisamment éclairé la plus grande partie ». Rabbi Judah dit : « des braises, même minimes » (allumées avant le sabbat).
 
 
 

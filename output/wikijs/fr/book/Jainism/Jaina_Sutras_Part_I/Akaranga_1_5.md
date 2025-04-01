@@ -97,11 +97,11 @@ Celui dont l'esprit est toujours vacillant n'atteint pas la contemplation abstra
 
 Tout ce qu'un homme fidèle et bienveillant, en entrant dans l'ordre, a cru vrai, peut lui paraître vrai par la suite ; ce qu'il a cru vrai, peut lui paraître faux par la suite ; ce qu'il a cru faux, peut lui paraître vrai par la suite ; ce qu'il a cru faux, peut lui paraître vrai par la suite. Ce qu'il pense vrai, peut, à la réflexion, lui paraître vrai, que ce soit vrai ou faux. Ce qu'il pense faux, peut, à la réflexion, lui paraître faux, que ce soit vrai ou faux. Mais celui qui réfléchit devrait dire à celui qui ne réfléchit pas : « Considérez cela comme vrai. » Ainsi, la connexion (c'est-à-dire la continuité des péchés) est rompue. (3)
 
-Considérez ceci comme la voie du zélé, qui se tient debout (en obéissance au guide spirituel). Sur ce point, ne vous montrez pas stupide [1](Akaranga_1_5#fn219) !
+Considérez ceci comme la voie du zélé, qui se tient debout (en obéissance au guide spirituel). Sur ce point, ne vous montrez pas stupide [1](../Akaranga_1_5#fn219) !
 
-Tel est ton sort, tel est celui que tu veux tuer. Tel est ton sort, tel est celui que tu veux tyranniser. Tel est ton sort, tel est celui que tu veux tourmenter. De même, celui que tu veux punir et chasser. L'homme juste, qui vit selon ces sentiments, ne tue ni ne fait tuer d'autres êtres vivants. Il ne devrait pas s'infliger intentionnellement le même châtiment [2](Akaranga_1_5#fn220). (4)
+Tel est ton sort, tel est celui que tu veux tuer. Tel est ton sort, tel est celui que tu veux tyranniser. Tel est ton sort, tel est celui que tu veux tourmenter. De même, celui que tu veux punir et chasser. L'homme juste, qui vit selon ces sentiments, ne tue ni ne fait tuer d'autres êtres vivants. Il ne devrait pas s'infliger intentionnellement le même châtiment [2](../Akaranga_1_5#fn220). (4)
 
-Le Soi est celui qui connaît (ou expérimente), et celui qui connaît est le Soi. Ce par quoi l'on connaît, c'est le Soi. Par rapport à cela (connaître), il (le Soi) est établi [3](Akaranga_1_5#fn221). Tel est celui qui maintient la juste doctrine du Soi. Ce sujet a été parfaitement expliqué. Ainsi dis-je. (5)
+Le Soi est celui qui connaît (ou expérimente), et celui qui connaît est le Soi. Ce par quoi l'on connaît, c'est le Soi. Par rapport à cela (connaître), il (le Soi) est établi [3](../Akaranga_1_5#fn221). Tel est celui qui maintient la juste doctrine du Soi. Ce sujet a été parfaitement expliqué. Ainsi dis-je. (5)
 
 
 

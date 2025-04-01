@@ -110,7 +110,7 @@ Par le nom du Créateur Auharmazd et par le bon présage de la bonne création, 
 
 40\. Jamasp Baetash dit : « J'aurais préféré ne pas être né de ma mère, ou que si j'étais né, par chance, je sois mort bien avant, ou que j'aie eu un accident et sois tombé à la mer, afin que Votre Majesté ne m'ait pas posé cette question. Mais puisque vous me l'avez posée, je n'aime pas pouvoir dire autre chose que la vérité. »
 
-41\. « Si Votre Majesté le veut, votre poignard peut me prendre la vie. Alors, prête serment au nom de la gloire d'Auharmazd, de la religion mazdayasnienne et de la vie de ton frère Zarir. Frotte trois fois pour Dravasp ton épée tranchante et brillante et ta flèche faite de la mâchoire, et dis : “Je ne te frapperai pas, je ne te tuerai pas, je ne te forcerai pas à te défendre avec un bouclier, afin que tu puisses annoncer l'issue de la bataille de Vishtasp.” »
+41\. « Si Votre Majesté le veut, votre poignard peut me prendre la vie. Alors, prête serment au nom de la gloire d'Auharmazd, de la religion mazdayasnienne et de la vie de ton frère Zarir. Frotte trois fois pour Dravasp ton épée tranchante et brillante et ta flèche faite de la mâchoire, et dis : « Je ne te frapperai pas, je ne te tuerai pas, je ne te forcerai pas à te défendre avec un bouclier, afin que tu puisses annoncer l'issue de la bataille de Vishtasp. » »
 
 42\. Alors le roi Vishtasp dit : « Je jure par le nom de la gloire d'Auharmazd, de la religion Mazdayasnienne et par la vie de mon frère Zarir, que je ne te frapperai pas, que je ne te tuerai pas et que je ne te mettrai pas en position de te défendre avec un bouclier. »
 
@@ -162,7 +162,7 @@ Par le nom du Créateur Auharmazd et par le bon présage de la bonne création, 
 
 66\. Jamasp Baetash dit : « Cent trente et une myriades de Khyaonas viendront d'abord, et une fois qu'ils seront arrivés, personne ne reviendra vivant, sauf Arjasp, le roi des Khyaonas.
 
-67\. « Le héros Spendadad l'attrapera aussi. Il lui coupera une main, une jambe et une oreille, il brûlera son œil unique au feu, et il le renverra dans son pays sur un âne dont la queue aura été coupée, en disant : “Va raconter à tes compatriotes ce que tu as vu de ma main.” »
+67\. « Le héros Spendadad l'attrapera aussi. Il lui coupera une main, une jambe et une oreille, il brûlera son œil unique au feu, et il le renverra dans son pays sur un âne dont la queue aura été coupée, en disant : « Va raconter à tes compatriotes ce que tu as vu de ma main. » »
 
 68\. Alors le roi Kae Vishtasp dit : « Bien que mes fils, mes frères et mes chefs de famille, moi qui suis le roi Kae Vishtasp, et ceux de Hutosh, qui est comme une sœur pour moi et qui est mon épouse, et de qui environ trente fils et filles me sont nés, doivent être tués, je n'abandonnerai pas cette sainte religion mazdayasnienne, puisque je l'ai reçue d'Auharmazd. »
 
@@ -190,7 +190,7 @@ Par le nom du Créateur Auharmazd et par le bon présage de la bonne création, 
 
 80\. Alors le roi Vishtasp dit : « Tu n'y vas pas parce que tu es encore un enfant, et tu ne sais pas agir avec prudence à la guerre, et tes doigts ne sont pas frottés par des flèches.
 
-81\. « Peut-être que les Khyaonas viendraient vous tuer, car ils ont aussi tué Zarir. Alors, les Khyaonas s'attribueraient le mérite de deux noms : “Nous avons tué Zarir, le commandant en chef de l'Iran, et nous avons tué son fils Bastur.” »
+81\. « Peut-être que les Khyaonas viendraient vous tuer, car ils ont aussi tué Zarir. Alors, les Khyaonas s'attribueraient le mérite de deux noms : « Nous avons tué Zarir, le commandant en chef de l'Iran, et nous avons tué son fils Bastur. » »
 
 82\. Plus tard, Bastur dit secrètement au maître du cheval : « Vishtasp a ordonné : « Donnez à Bastur le cheval sur lequel Zarir était assis, quand il était enfant. »
 

@@ -114,7 +114,7 @@ Hsiang Liang enseignait l'art de la guerre à son neveu Chi [^151]. Chi en avait
 
 [^139] : xlvii:9 _Ibid._ XII. 5 ; _Chia Yü_, ch. 1 _ad fin_.
 
-[^140]: xlviii:1 Je n'ai pas réussi à retracer cette expression. Voir la note [2](Introduction_4#fn_122) à la [p. xliii](Introduction_4#pxliii).
+[^140]: xlviii:1 Je n'ai pas réussi à retracer cette expression. Voir la note [2](../Introduction_4#fn_122) à la [p. xliii](../Introduction_4#pxliii).
 
 [^141]: xlviii:2 Voir _supra_.
 
@@ -126,7 +126,7 @@ Hsiang Liang enseignait l'art de la guerre à son neveu Chi [^151]. Chi en avait
 
 [^146]: xlviii:6 Préface à Sun Tzŭ : #.
 
-[^147]: xlviii:7 Voir [p. 166](13#p166).
+[^147]: xlviii:7 Voir [p. 166](../13#p166).
 
 [^148]: xlix:1 Il s'agit d'une allusion plutôt obscure à _Tso Chuan_, #, XXXI. 4, où Tzŭ-ch'an dit : # « Si vous avez un morceau de beau brocart, vous n'emploierez pas un simple apprenti pour le confectionner. »
 
@@ -138,9 +138,9 @@ Hsiang Liang enseignait l'art de la guerre à son neveu Chi [^151]. Chi en avait
 
 [^152]: xlix:5 Mieux connu sous le nom de Hsiang # Yü \[BC 233–202\].
 
-[^153]: xlix:6 Le troisième parmi les # (ou #) énumérés à la [p. 141](11#p141). Pour l'incident mentionné, voir _Tso Chuan_, #, XXII. 4.
+[^153]: xlix:6 Le troisième parmi les # (ou #) énumérés à la [p. 141](../11#p141). Pour l'incident mentionné, voir _Tso Chuan_, #, XXII. 4.
 
-[^154]: xlix:7 Voir _supra_, [p. xvi](Introduction_1#pxvi), note [4](Introduction_1#fn_25).
+[^154]: xlix:7 Voir _supra_, [p. xvi](../Introduction_1#pxvi), note [4](../Introduction_1#fn_25).
 
 [^155] : xlix:8 _Shih Chi_, ch. 47, f. 7_r_°.
 

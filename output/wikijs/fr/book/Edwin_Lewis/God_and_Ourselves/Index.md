@@ -83,7 +83,7 @@ Belief, difficulties of, 270-1; power of, 250
 
 Bell, W. Cosby, 15, 195 Bergson, H., 103, 109-10, 210, 235, 292
 
-Bett, Henry, 167 “Beyond,” the moral, 246
+Bett, Henry, 167 « Beyond, » the moral, 246
 
 Binder, R. M., 226
 
@@ -683,7 +683,7 @@ Myers, P. W. H., 27-8
 
 Mysticism, 152
 
-“Natural” man, 117; natural and moral orders, 211
+« Natural » man, 117; natural and moral orders, 211
 
 Naturalism, 63ff., 81; and evil, 127; and theism, 67
 
@@ -721,13 +721,13 @@ Nontheistic religion, 215ff.
 
 Nontheists. 12, 26
 
-“Notes” of religion, 254
+« Notes » of religion, 254
 
 Obedience, 99, 208
 
 Objective reference, 250ff.
 
-Occam, William of, 189: Occam's “razor,” 195
+Occam, William of, 189: Occam's « razor, » 195
 
 Occasionalism, 194, 236
 
@@ -861,7 +861,7 @@ Rationality of universe, 31
 
 Raven, C. E., 15, 45, 256
 
-Realism, 177, 183, 189, 273, 280; “critical,” 258
+Realism, 177, 183, 189, 273, 280; « critical, » 258
 
 Reality, elements of. 272ff.; structure of, 284; and/values, 201ff.; varieties of, 23ff .
 
