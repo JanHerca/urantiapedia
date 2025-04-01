@@ -50,7 +50,7 @@ FIFTH ADHYÂYA.
 
 6\. Next comes the Sûdadohas verse. Sûdadohas verily is breath. He joins the joints; with breath.
 
-7\. After having recited that verse twelve times he <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> leaves it off there. These prâ<i>n</i>as are verily twelvefold, seven in the head, two on the breast, three below. In these twelve places the prâ<i>n</i>as are contained, there they are perfect. Therefore he leaves it off there [1](Aranyaka_1_5#fn480).
+7\. After having recited that verse twelve times he <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> leaves it off there. These prâ<i>n</i>as are verily twelvefold, seven in the head, two on the breast, three below. In these twelve places the prâ<i>n</i>as are contained, there they are perfect. Therefore he leaves it off there [1](../Aranyaka_1_5#fn480).
 
 8\. The hymn indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forms the two thighs (of the bird) belonging to Indra and Agni, the two supports with broad bones.
 

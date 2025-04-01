@@ -148,7 +148,7 @@ Thus I say.
 
 [^703]: 242:2 There is a play on the words viussanti and viussiyâ, in the last line of this verse viussanti is a denominative verb from viusa = vidvân, and is translated vidvân ivâ <i>k</i>arati. Viussiya = vi + ut + <i>s</i>rita.
 
-[^704]: 242:3 See above, [p. 83](Uttaradhyayana_18#p83). <i>S</i>îlâṅka defines the Kriyâvâdins here as men who contend that the principal means of reaching Môksha is <i>k</i>aityakarma, the construction of sanctuaries.
+[^704]: 242:3 See above, [p. 83](../Uttaradhyayana_18#p83). <i>S</i>îlâṅka defines the Kriyâvâdins here as men who contend that the principal means of reaching Môksha is <i>k</i>aityakarma, the construction of sanctuaries.
 
 [^705]: 242:4 An intentional killing of a living being must actually take place in order to induce the Karman on the soul. If one of the essential conditions which constitute the guilt of slaughter (hi<i>m</i>sâ), p. 243 is wanting the Karman is still produced; however, it does not take a firm hold of the soul, but merely ‘touches’ it. This is of course the opinion of the Kriyâvâdins.
 

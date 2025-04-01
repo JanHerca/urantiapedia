@@ -114,7 +114,7 @@ Kung-sun Lung gaped on the speaker, and could not shut his mouth, and his tongue
 
 ## Footnotes
 
-[^621]: 374:1 See pp. [148](Kwang_dze_Intro#p148), [149](Kwang_dze_Intro#p149).
+[^621]: 374:1 See pp. [148](../Kwang_dze_Intro#p148), [149](../Kwang_dze_Intro#p149).
 
 [^622]: 374:2 ![](/image/book/Taoism/Taoist_texts_vol_1/37400.jpg) here perhaps means ‘turbid.’ It has nothing to do with the river King.
 

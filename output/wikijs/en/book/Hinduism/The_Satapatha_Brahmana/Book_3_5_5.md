@@ -251,9 +251,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^239]: 122:1 Or rather, that upward direction.
 
-[^240]: 122:2 That is, the region of light, of the sun. See [V, 3, 1, 2](Book_3_5_3#v5_3_1_2) with note.
+[^240]: 122:2 That is, the region of light, of the sun. See [V, 3, 1, 2](../Book_3_5_3#v5_3_1_2) with note.
 
-[^241]: 123:1 The meaning of this compound is unknown. Sâya<i>n</i>a explains it as meaning ‘one who does not move from one spot, one who always remains in one and the same place.’ Hence the St. Petersburg dictionary conjectures: ‘One whose herd (or cattle-pen, vra<i>g</i>a, vrâ<i>g</i>a) is stationary.’ Similarly, Prof. Weber, in Böhtlingk's Dictionary. See, however, the Kâ<i>n</i>va reading above, [p. 50](Book_3_5_2#p50), note [1](Book_3_5_2#fn115), according to which the word would seem to mean one afflicted with a certain malady (? cholera or dysentery). The ‘Pa<i>ñ</i><i>k</i>abila’ offering may be performed as a special ish<i>t</i>i, independently of the Râ<i>g</i>asûya.
+[^241]: 123:1 The meaning of this compound is unknown. Sâya<i>n</i>a explains it as meaning ‘one who does not move from one spot, one who always remains in one and the same place.’ Hence the St. Petersburg dictionary conjectures: ‘One whose herd (or cattle-pen, vra<i>g</i>a, vrâ<i>g</i>a) is stationary.’ Similarly, Prof. Weber, in Böhtlingk's Dictionary. See, however, the Kâ<i>n</i>va reading above, [p. 50](../Book_3_5_2#p50), note [1](../Book_3_5_2#fn115), according to which the word would seem to mean one afflicted with a certain malady (? cholera or dysentery). The ‘Pa<i>ñ</i><i>k</i>abila’ offering may be performed as a special ish<i>t</i>i, independently of the Râ<i>g</i>asûya.
 
 [^242]: 123:2 ‘But who (knows if he) will live a year?’ Taitt. Br. I, 8, 4. 3.
 
@@ -261,7 +261,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^244]: 124:1 That is to say, the first six oblations are to be combined and performed together as a single offering, without changing the covering of sacrificial grass on the altar.
 
-[^245]: 124:2 Sâya<i>n</i>a supplies ‘kings,’ and refers to Taitt. Br. I, 8, 4, 1, where the Kurupa<i>ñ</i><i>k</i>âla (kings) are said to issue forth in the dewy season (on a raid over the eastern country), and to return with their booty at the end of the hot season. See [paragraph 5](Book_3_5_5#v5_5_2_5).
+[^245]: 124:2 Sâya<i>n</i>a supplies ‘kings,’ and refers to Taitt. Br. I, 8, 4, 1, where the Kurupa<i>ñ</i><i>k</i>âla (kings) are said to issue forth in the dewy season (on a raid over the eastern country), and to return with their booty at the end of the hot season. See [paragraph 5](../Book_3_5_5#v5_5_2_5).
 
 [^246]: 125:1 In the Taittirîya ceremonial this animal sacrifice precedes the ‘prayu<i>g</i>â<i>m</i> havî<i>m</i>shi;’ being itself succeeded in the first place by the ‘sâtyadûtânâ<i>m</i> havî<i>m</i>shi.’
 
@@ -325,12 +325,12 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^276]: 141:1 Apparently the son of A<i>g</i>âta<i>s</i>atru, king of Kâ<i>s</i>î, who is mentioned as having been very proficient in speculative theology, and jealous, in this respect, of king <i>G</i>anaka of Videha.
 
-[^277]: 141:2 According to Sâya<i>n</i>a, these ‘<i>s</i>atamânas’ are similar to the round plate worn by the king during the Consecration-ceremony; see [p. 104](Book_3_5_4#p104), note [2](Book_3_5_4#fn206). These plates (as the ‘rukmas’ generally, [VI, 7, 1, 2](Book_3_6_7#v6_7_1_2) seq.) were apparently used for ornament only, not as coins.
+[^277]: 141:2 According to Sâya<i>n</i>a, these ‘<i>s</i>atamânas’ are similar to the round plate worn by the king during the Consecration-ceremony; see [p. 104](../Book_3_5_4#p104), note [2](../Book_3_5_4#fn206). These plates (as the ‘rukmas’ generally, [VI, 7, 1, 2](../Book_3_6_7#v6_7_1_2) seq.) were apparently used for ornament only, not as coins.
 
 [^278]: 141:3 Sâya<i>n</i>a explains this to mean that gold is not used for actual consumption, but only indirectly, as for vessels on which food is served, or in traffic, as a medium of barter;—the gold thus never losing its appearance, its ‘glory.’ See II, 2, 1, 5, ‘Hence also one does not cleanse oneself with it (?), nor does one do anything else with it.’
 
 [^279]: 142:1 Or, people spread the clothes (either in weaving them, or in putting them on). ‘To spread the sacrifice’ is the regular term for the ceremonial practice of spreading the sacrificial fire from the Gârhapatya (or household fire) over the other two hearths, and thus for the performance of the sacrifice generally.
 
-[^280]: 142:2 See [p. 119](Book_3_5_4#p119), note [2](Book_3_5_4#fn234).
+[^280]: 142:2 See [p. 119](../Book_3_5_4#p119), note [2](../Book_3_5_4#fn234).
 
 [^281]: 142:3 That is, taking the calves of the three milch cows into account: and optionally counting the gift to the Âgnîdhra.

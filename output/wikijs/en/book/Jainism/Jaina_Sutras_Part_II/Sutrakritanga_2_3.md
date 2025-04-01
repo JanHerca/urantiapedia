@@ -182,7 +182,7 @@ Thus I say.
 
 [^1160]: 392:4 This is to be detailed in the same way as with trees and creepers.
 
-[^1161]: 393:1 Compare note [1](Uttaradhyayana_36#fn648), [p. 225](Uttaradhyayana_36#p225).
+[^1161]: 393:1 Compare note [1](../Uttaradhyayana_36#fn648), [p. 225](../Uttaradhyayana_36#p225).
 
 [^1162]: 393:2 Both are indicated in the text by bî<i>g</i>a. According to <i>S</i>îlâṅka, a male will be produced if the semen is in excess; a female, if the blood; a neuter, if they are equally balanced.
 
@@ -206,7 +206,7 @@ Thus I say.
 
 [^1172]: 395:3 This may be <i>k</i>atushpâdika, quadruped; but then the word must be taken in a restricted sense, perhaps, small quadrupeds.
 
-[^1173]: 395:4 See Uttarâdhyayana XXXVI, 187; above, [p. 224](Uttaradhyayana_36#p224). Perhaps beetles and butterflies are intended by the two last kinds of pakshins?
+[^1173]: 395:4 See Uttarâdhyayana XXXVI, 187; above, [p. 224](../Uttaradhyayana_36#p224). Perhaps beetles and butterflies are intended by the two last kinds of pakshins?
 
 [^1174]: 395:5 A<i>n</i>usûya = anusûta or anusyûta.
 

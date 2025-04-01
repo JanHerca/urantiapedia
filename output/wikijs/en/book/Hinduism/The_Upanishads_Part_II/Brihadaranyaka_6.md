@@ -196,7 +196,7 @@ Let no one tell this [^619] to any one, except to a son or to a pupil [^620].
 
 13\. Four things are made of the wood of the Udumbara tree, the sacrificial ladle (sruva), the cup (<i>k</i>amasa), the fuel, and the two churning sticks.
 
-There are ten kinds of village (cultivated) seeds, viz. rice and barley (brîhiyavâs), sesamum and kidney-beans (tilamâshâs), millet and panic seed (a<i>n</i>upriyaṅgavas), wheat (godhûmâs), lentils (masûrâs), pulse (khalvâs), and vetches (khalakulâs [^621]) . After having <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> ground these he sprinkles them with curds (dadhi), honey, and ghee, and then offers (the proper portions) of clarified butter [1](Brihadaranyaka_6#fn622) (â<i>g</i>ya).
+There are ten kinds of village (cultivated) seeds, viz. rice and barley (brîhiyavâs), sesamum and kidney-beans (tilamâshâs), millet and panic seed (a<i>n</i>upriyaṅgavas), wheat (godhûmâs), lentils (masûrâs), pulse (khalvâs), and vetches (khalakulâs [^621]) . After having <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> ground these he sprinkles them with curds (dadhi), honey, and ghee, and then offers (the proper portions) of clarified butter [1](../Brihadaranyaka_6#fn622) (â<i>g</i>ya).
 
 
 ## FOURTH BRÂHMA<i>N</i>A [^623].

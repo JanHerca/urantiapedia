@@ -234,7 +234,7 @@ If these inferences are approximately correct, there is a certain irony in the f
 
 [^37]: xix:2 See _T‘u Shu_, ch. 442, #.
 
-[^38]: xix:3 An extract will be found on [p. xlv](Introduction_5#pxlv).
+[^38]: xix:3 An extract will be found on [p. xlv](../Introduction_5#pxlv).
 
 [^39]: xix:4 #.
 
@@ -258,7 +258,7 @@ If these inferences are approximately correct, there is a certain irony in the f
 
 [^49]: xxi:2 See _Tso Chuan_, #, I. 3 _ad fin_. and XI. 3 _ad init_. He hardly deserves to be bracketed with assassins.
 
-[^50]: xxi:3 See pp. [66](7#p66), [128](11#p128).
+[^50]: xxi:3 See pp. [66](../7#p66), [128](../11#p128).
 
 [^51]: xxi:4 See _Tso Chuan_, #, XXX. 5.
 
@@ -270,7 +270,7 @@ If these inferences are approximately correct, there is a certain irony in the f
 
 [^55]: xxi:8 The nucleus of this work is probably genuine, though large additions have been made by later hands. Kuan Chung died in 645 B.C.
 
-[^56]: xxi:9 See _infra_, [p. l](Introduction_6#pl).
+[^56]: xxi:9 See _infra_, [p. l](../Introduction_6#pl).
 
 [^57]: xxi:10 I do not know what work this is, unless it be the last chapter of the #. Why that chapter should be singled out, however, is not clear.
 
@@ -282,11 +282,11 @@ If these inferences are approximately correct, there is a certain irony in the f
 
 [^61]: xxii:4 In the 3rd century B.C.
 
-[^62]: xxii:5 Ssŭ-ma Jang-chü, whose family name was # T‘ien, lived in the latter half of the 6th century B.C., and is also believed to have written a work on war. See _Shih Chi_, ch. 64, and _infra_, [p. l](Introduction_6#pl).
+[^62]: xxii:5 Ssŭ-ma Jang-chü, whose family name was # T‘ien, lived in the latter half of the 6th century B.C., and is also believed to have written a work on war. See _Shih Chi_, ch. 64, and _infra_, [p. l](../Introduction_6#pl).
 
 [^63]: xxii:6 #.
 
-[^64]: xxii:7 See the end of the passage quoted from the _Shih Chi_ on [p. xii](#pxii).
+[^64]: xxii:7 See the end of the passage quoted from the _Shih Chi_ on [p. xii](../#pxii).
 
 [^65]: xxiii:1 In the #, a classified catalogue of his family library.
 

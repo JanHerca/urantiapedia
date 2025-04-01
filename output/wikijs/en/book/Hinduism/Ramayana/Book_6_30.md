@@ -874,7 +874,7 @@ To him her chosen favourite clings.
 That chain he owes to Ráma's grace,
 And Tárá and his kingly place.
 In him the great Sugríva know,
-Whom Ráma rescued from his foe.' [1](Book_6_30#fn952)
+Whom Ráma rescued from his foe.' [1](../Book_6_30#fn952)
 
 
 
@@ -996,7 +996,7 @@ And, swarming on, the rampart scale,
 Now, O my King, his consort yield,
 Or arm thee with the sword and shield.
 This choice is left thee: choose between
-Thy safety and the Maithil queen. [1](Book_6_40#fn953)
+Thy safety and the Maithil queen. [1](../Book_6_40#fn953)
 
 <figure class="table chapter-navigator">
   <table>

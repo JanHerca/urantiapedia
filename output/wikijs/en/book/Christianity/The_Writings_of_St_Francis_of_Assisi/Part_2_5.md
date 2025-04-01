@@ -83,7 +83,7 @@ And to whomsoever of my brothers, custodes, this writing shall come, let them co
 
 ## Footnotes
 
-[^512]: 127:1 Cod. 225, mentioned above ([p. 110](Part_2_2#p110)). See Sabatier's Bartholi, p. 135.
+[^512]: 127:1 Cod. 225, mentioned above ([p. 110](../Part_2_2#p110)). See Sabatier's Bartholi, p. 135.
 
 [^513]: 127:2 Seemingly an allusion to the mysteries of the Eucharist.
 

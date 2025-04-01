@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 Rashnu Razi<i>s</i>ta, ‘the truest True,’ is the Genius of Truth: he is one of the three judges of the departed, with Mithra and Sraosha: he holds the balance in which the deeds of men are weighed after their death: 'he makes no unjust balance . . . ., neither for the pious nor yet the wicked, neither for lords nor yet rulers; as much as a hair's breadth he will not vary, and he shows no favour [^777].' He is an offshoot either of Mithra, the God of Truth and the avenger of lies, or of Ahura Mazda himself, the all-knowing lord (§ 2 seq.).
 
-This Ya<i>s</i>t seems to be an appeal made to Rashnu to come and attend the performance of the var nîrang or ordeal (see [p. 170](#p170), note [^787]), of which Rashnu, as the Genius of Truth, was the natural witness and arbiter (cf. Vend. IV, 54-55 \[154-156\]). As a god of Truth must know everything and be present everywhere, he is called from whatever part of the world he may actually be in. This brings about an enumeration of all the parts of the world, from this earth (§§ 9-22) to the highest heaven (§ 37), passing through the Albôrz (§§ 23-26), the star region (§§ 26-32), the moon region (§ 33), and the sun region (§ 34; cf. [p. 73](Yasts_5#p73), note [2](Yasts_5#fn359)).
+This Ya<i>s</i>t seems to be an appeal made to Rashnu to come and attend the performance of the var nîrang or ordeal (see [p. 170](#p170), note [^787]), of which Rashnu, as the Genius of Truth, was the natural witness and arbiter (cf. Vend. IV, 54-55 \[154-156\]). As a god of Truth must know everything and be present everywhere, he is called from whatever part of the world he may actually be in. This brings about an enumeration of all the parts of the world, from this earth (§§ 9-22) to the highest heaven (§ 37), passing through the Albôrz (§§ 23-26), the star region (§§ 26-32), the moon region (§ 33), and the sun region (§ 34; cf. [p. 73](../Yasts_5#p73), note [2](../Yasts_5#fn359)).
 
 This Ya<i>s</i>t is recited on the days of Rashn, Murdâd, Âshtâd, and Zemyâd (the 18th, 7th, 26th, and 28th of the month).
 
@@ -268,7 +268,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^818]: 169:6 Literally, the fat.
 
-[^819]: 170:1 See [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^819]: 170:1 See [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^820]: 170:2 See Vend. XXII, 3.
 
@@ -286,7 +286,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^832]: 172:1 See Yt. X, 15, note 5.
 
-[^833]: 172:2 See [p. 54](Yasts_5#p54), note [6](Yasts_5#fn279).
+[^833]: 172:2 See [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
 
 [^834]: 173:1 The Saêna, in later mythology the Sînamrû or Sîmûrgh; his ‘resting-place is on the tree which is Ja<i>d</i>\-bêsh (opposed to harm) of all seeds; and always when he rises aloft, a thousand twigs will shoot forth from that tree; and when he alights, he will break off the thousand twigs, and he sheds their seed therefrom. And the bird Chañmrôsh for ever sits in that vicinity; and his work is this, that he collects that seed which sheds from the tree of all seeds, which is Ja<i>d</i>\-bêsh, and conveys it there where Tishtar seizes the water, so that Tishtar may seize the water with that seed of all kinds, and may rain it on the world with the rain’ (Minokhirad LXII, 37; tr. West).
 
@@ -310,7 +310,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^846]: 176:2 Excluding the planets which belong to Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
 
-[^847]: 176:3 See above, [p. 8](Sirozahs_1#p8), note [8](Sirozahs_1#fn53).
+[^847]: 176:3 See above, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53).
 
 [^848]: 177:1 The highest heaven, the abode of Ormazd.
 

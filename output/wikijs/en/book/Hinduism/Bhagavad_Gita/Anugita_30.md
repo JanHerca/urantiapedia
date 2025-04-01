@@ -68,19 +68,19 @@ Brâhmana householder, who is of rigid vows, who is thus devoted, discharging al
 
 ## Footnotes
 
-[^1778]: 355:1 Cf. Gîtâ, [p. 45](Bhagavadgita_2#p45).
+[^1778]: 355:1 Cf. Gîtâ, [p. 45](../Bhagavadgita_2#p45).
 
 [^1779]: 355:2 All this is action, the fruit of which is perishable; the fruit of knowledge, on the other hand, is everlasting.
 
-[^1780]: 355:3 Literally, time; it seems, however, to stand for the vicissitudes of worldly life. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 283. The body is called ‘wheel of time’ at [p. 53](Bhagavadgita_3#p53) supra, but Ar<i>g</i>una Mi<i>s</i>ra there says ‘it is the wheel which causes the rotation of the wheel of time.’
+[^1780]: 355:3 Literally, time; it seems, however, to stand for the vicissitudes of worldly life. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 283. The body is called ‘wheel of time’ at [p. 53](../Bhagavadgita_3#p53) supra, but Ar<i>g</i>una Mi<i>s</i>ra there says ‘it is the wheel which causes the rotation of the wheel of time.’
 
 [^1781]: 355:4 The cause of its being large in dimensions, Ar<i>g</i>una Mi<i>s</i>ra; the supporting pillar, Nîlaka<i>nth</i>a. I prefer the former, and take the sense to be that worldly life is co-extensive with the operations or ‘fancies’ of the mind.
 
 [^1782]: 355:5 What is outside the elements, the physical manifestations of Prak<i>ri</i>ti, is beyond the domain of worldly life.
 
-[^1783]: 355:6 The possession of ‘home’ is equivalent to a dwelling in the midst of worldly life. Hence the idea of homelessness at inter alia Gîtâ, pp. [101](Bhagavadgita_12#p101)\-[103](Bhagavadgita_13#p103).
+[^1783]: 355:6 The possession of ‘home’ is equivalent to a dwelling in the midst of worldly life. Hence the idea of homelessness at inter alia Gîtâ, pp. [101](../Bhagavadgita_12#p101)\-[103](../Bhagavadgita_13#p103).
 
-[^1784]: 356:1 This means, I presume, that worldly life is conditioned, so to say, by space and time. See [p. 343](Anugita_27#p343) supra.
+[^1784]: 356:1 This means, I presume, that worldly life is conditioned, so to say, by space and time. See [p. 343](../Anugita_27#p343) supra.
 
 [^1785]: 356:2 I. e. the cause of the rotation, Nîlaka<i>nth</i>a.
 
@@ -108,25 +108,25 @@ Brâhmana householder, who is of rigid vows, who is thus devoted, discharging al
 
 [^1797]: 357:5 Nîlaka<i>nth</i>a reads ‘vi<i>k</i>itra,’ which he renders to mean diversified, as being made up of the three qualities, ignorance there being the same thing as Prak<i>nth</i>ti, which is probably a better sense altogether than that obtainable from Ar<i>g</i>una Mi<i>s</i>ra's reading.
 
-[^1798]: 357:6 Which moves by attachment to eternal pleasures, &c., Nîlaka<i>nth</i>a. See [p. 300](Anugita_15#p300) supra.
+[^1798]: 357:6 Which moves by attachment to eternal pleasures, &c., Nîlaka<i>nth</i>a. See [p. 300](../Anugita_15#p300) supra.
 
 [^1799]: 357:7 I. e. all the world developed from Prakriti—a common phrase.
 
 [^1800]: 357:8 This is Nîlaka<i>nth</i>a's forced meaning. But the text here is doubtful. Perhaps the sense is ‘in which production and dissolution are going on unchecked.’
 
-[^1801]: 357:9 See [p. 344](Anugita_27#p344) note. For the last word, the variant here is sthâpayet, make steady or stop.
+[^1801]: 357:9 See [p. 344](../Anugita_27#p344) note. For the last word, the variant here is sthâpayet, make steady or stop.
 
 [^1802]: 358:1 I. e. the causes of the revolution and stoppage, Nîlaka<i>nth</i>a.
 
-[^1803]: 358:2 Impressions of previous actions, delusions, &c. And see [p. 247](Anugita_4#p247) supra.
+[^1803]: 358:2 Impressions of previous actions, delusions, &c. And see [p. 247](../Anugita_4#p247) supra.
 
 [^1804]: 358:3 I. e. the Samnyâsin.
 
-[^1805]: 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](Bhagavadgita_16#p117).
+[^1805]: 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](../Bhagavadgita_16#p117).
 
 [^1806]: 358:5 ‘Such is the eternal fame,’ literally.
 
-[^1807]: 358:6 I. e. on whom the Vedic rites or Sa<i>m</i>skâras are duly performed. And see Gîtâ, [p. 122](Bhagavadgita_18#p122).
+[^1807]: 358:6 I. e. on whom the Vedic rites or Sa<i>m</i>skâras are duly performed. And see Gîtâ, [p. 122](../Bhagavadgita_18#p122).
 
 [^1808]: 358:7 I. e. one of the three higher castes.
 
@@ -136,9 +136,9 @@ Brâhmana householder, who is of rigid vows, who is thus devoted, discharging al
 
 [^1811]: 358:10 Vide Williams' Dictionary, s.v. mahâya<i>g</i>ña; Â<i>s</i>valâyana G<i>ri</i>hya III, 1, 3; Manu II, 69; IV, 21.
 
-[^1812]: 358:11 Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62); a guest must always be fed, and unless he is satisfied the host must not eat. Cf. <i>S</i>ânti Parvan (Moksha), chap. 192, st. 15; Manu III, 106; Âpastamba II, 3, 7, 3.
+[^1812]: 358:11 Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62); a guest must always be fed, and unless he is satisfied the host must not eat. Cf. <i>S</i>ânti Parvan (Moksha), chap. 192, st. 15; Manu III, 106; Âpastamba II, 3, 7, 3.
 
-[^1813]: 359:1 The same word as at Gîtâ, [p. 114](Bhagavadgita_15#p114), there rendered ‘vain activity.’
+[^1813]: 359:1 The same word as at Gîtâ, [p. 114](../Bhagavadgita_15#p114), there rendered ‘vain activity.’
 
 [^1814]: 359:2 Cf. Âpastamba II, 1, 1, 2 seq.
 

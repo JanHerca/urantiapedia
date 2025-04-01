@@ -388,21 +388,21 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1161]: 250:2 Fraspâ<i>t</i>, Persian ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25000.jpg).
 
-[^1162]: 250:3 Cf. [p. 169](Yasts_12#p169), note [5](Yasts_12#fn783).
+[^1162]: 250:3 Cf. [p. 169](../Yasts_12#p169), note [5](../Yasts_12#fn783).
 
-[^1163]: 250:4 See [p. 10](Sirozahs_1#p10), note [4](Sirozahs_1#fn69).
+[^1163]: 250:4 See [p. 10](../Sirozahs_1#p10), note [4](../Sirozahs_1#fn69).
 
 [^1164]: 250:5 As Vayu, the atmosphere, is the place in which the conflict of the two principles takes place, one part of him belongs to the Evil Spirit (see Vend. Introd. IV, 17).
 
 [^1165]: 251:1 The rest as in clause 1.
 
-[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](Yasts_5#p58), note [2](Yasts_5#fn295).
+[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
 
 [^1167]: 251:3 Cf. Yt. V, 21-23.
 
 [^1168]: 251:4 Introduced from § 4 into this and all similar clauses, except the one relating to A<i>z</i>i Dahâka (§ 21).
 
-[^1169]: 252:1 Takhma Urupa (in later legend Tahmûrâf) was a brother to Yima. He reigned for thirty years and rode Ahriman, turned into a horse. But at last his wife, deceived by Ahriman, revealed to him the secret of her husband's power, and Tahmûrâf was swallowed up by his horse. But Yima managed to take back his brother's body from the body of Ahriman and recovered thereby the arts and civilisation which had disappeared along with Tahmûrâf (see Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. above, [p. 60](Yasts_5#p60), note [1](Yasts_5#fn302)).
+[^1169]: 252:1 Takhma Urupa (in later legend Tahmûrâf) was a brother to Yima. He reigned for thirty years and rode Ahriman, turned into a horse. But at last his wife, deceived by Ahriman, revealed to him the secret of her husband's power, and Tahmûrâf was swallowed up by his horse. But Yima managed to take back his brother's body from the body of Ahriman and recovered thereby the arts and civilisation which had disappeared along with Tahmûrâf (see Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. above, [p. 60](../Yasts_5#p60), note [1](../Yasts_5#fn302)).
 
 [^1170]: 252:2 Azinava<i>n</i><i>t</i> or zaênahva<i>n</i><i>t</i>: he kept that epithet in later tradition: Zînavend, ‘quod cognomen virum significat armis probe instructum’ (Hamza Ispahensis, p. 20, tr. Gottwaldt).
 
@@ -438,7 +438,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1186]: 257:2 See Yt. IX, 26.
 
-[^1187]: 257:3 See [p. 77](Yasts_5#p77), note [1](Yasts_5#fn381).
+[^1187]: 257:3 See [p. 77](../Yasts_5#p77), note [1](../Yasts_5#fn381).
 
 [^1188]: 258:1 It may be doubted whether the allusion here is to a legend of marriage en masse, following the marriage of Hutaosa with Vî<i>s</i>tâspa, or whether the aorist is used with an indicative meaning: ‘To him do the maids who have known no man . . . . They beg of him a boon, saying . . . .’ Cf. Yt. XVI, 17.
 

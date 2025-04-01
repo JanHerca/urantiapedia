@@ -83,7 +83,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v5_3_2_77"><sup><small>5:3:2:77.</small></sup></span>  They divide the rice-grains into two parts: the smaller and broken ones belong to B<i>ri</i>haspati, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> and the larger and unbroken ones to Mitra. For Mitra injures no one, nor does any one injure Mitra; neither a ku<i>s</i>a stalk nor a thorn pricks him, nor has he any scar; for Mitra is every one's friend (mitram).
 
-<span id="v5_3_2_88"><sup><small>5:3:2:88.</small></sup></span>  He then puts the pap for B<i>ri</i>haspati on (the fire), covers it with the vessel for Mitra's (pap), pours the butter (into the latter), and throws in the (larger) rice-grains. It is cooked merely by the hot steam [1](Book_3_5_3#fn143); for what is cooked by fire belongs to Varu<i>n</i>a, and what is cooked by hot steam belongs to Mitra: therefore it is cooked by hot steam. Making cuttings from both these sacrificial dishes, he says, ‘Pronounce the invitatory prayer to Mitra and B<i>ri</i>haspati!’ Having called for the <i>S</i>rausha<i>t</i>, he says, ‘Pronounce the offering-prayer to Mitra and B<i>ri</i>haspati!’ and offers as the Vasha<i>t</i> is uttered.
+<span id="v5_3_2_88"><sup><small>5:3:2:88.</small></sup></span>  He then puts the pap for B<i>ri</i>haspati on (the fire), covers it with the vessel for Mitra's (pap), pours the butter (into the latter), and throws in the (larger) rice-grains. It is cooked merely by the hot steam [1](../Book_3_5_3#fn143); for what is cooked by fire belongs to Varu<i>n</i>a, and what is cooked by hot steam belongs to Mitra: therefore it is cooked by hot steam. Making cuttings from both these sacrificial dishes, he says, ‘Pronounce the invitatory prayer to Mitra and B<i>ri</i>haspati!’ Having called for the <i>S</i>rausha<i>t</i>, he says, ‘Pronounce the offering-prayer to Mitra and B<i>ri</i>haspati!’ and offers as the Vasha<i>t</i> is uttered.
 
 
 <span id="v5_3_3"><sup><small>5:3:3</small></sup></span>
@@ -315,7 +315,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^128]: 59:1 Whence the back of that upper region is white, or bright.
 
-[^129]: 60:1 The exact function of this officer is not clearly defined. Though the term is also used of an ordinary village headman (Patel, Adhikârin, Adigar), this could hardly apply here. Sâya<i>n</i>a, on one passage, indeed explains the term by ‘Grâma<i>m</i> nayati,’ but elsewhere he explains it by ‘Grâmâ<i>n</i>â<i>m</i> netâ;’ and some such meaning it may perhaps have here,—the head of communal administration, either for a district (like one of Manu's lords of a hundred, or a p. 61 thousand villages), or for the whole country. If, however, the headman of a single village be intended (as the coupling of the office with the Maruts might lead one to suppose), he would probably be a hereditary territorial proprietor residing near the place where the inauguration ceremony takes place. Cf. [V, 4, 4, 18](Book_3_5_4#v5_4_4_18); and Zimmer. Altindisches Leben, p. 171.
+[^129]: 60:1 The exact function of this officer is not clearly defined. Though the term is also used of an ordinary village headman (Patel, Adhikârin, Adigar), this could hardly apply here. Sâya<i>n</i>a, on one passage, indeed explains the term by ‘Grâma<i>m</i> nayati,’ but elsewhere he explains it by ‘Grâmâ<i>n</i>â<i>m</i> netâ;’ and some such meaning it may perhaps have here,—the head of communal administration, either for a district (like one of Manu's lords of a hundred, or a p. 61 thousand villages), or for the whole country. If, however, the headman of a single village be intended (as the coupling of the office with the Maruts might lead one to suppose), he would probably be a hereditary territorial proprietor residing near the place where the inauguration ceremony takes place. Cf. [V, 4, 4, 18](../Book_3_5_4#v5_4_4_18); and Zimmer. Altindisches Leben, p. 171.
 
 [^130]: 62:1 Savyash<i>th</i>ri (otherwise savyesh<i>th</i><i>ri</i>, savyesh<i>th</i>a;—savyastha, Kâ<i>n</i>va rec.) is explained by the commentaries as a synonym of sârathi, charioteer (with which it is compounded in savyesh<i>th</i>asârathî, Taitt. Br. I, 7, 9, 1, where Sâya<i>n</i>a makes them the two charioteers standing on the left and right side of the warrior), but it seems more probable that the former terms refer to the warrior (παραβάτης) himself (as savyash<i>th</i>â, Atharva-veda VIII, 8, 23, undoubtedly does), who stands on the left side of the driver (sârathi, ἡνίοχος); the Change of meaning being perhaps due to caste scruples about so close an association between the Kshatriya warrior and his <i>S</i>ûdra servant, as is implied in this and other passages. (Cf. V, 3, 2, 2 with note.)—On Taitt. S. I, 8, 9, Sâya<i>n</i>a explains sa<i>m</i>grahît<i>ri</i> as the treasurer (dhanasa<i>m</i>grahakartâ ko<i>s</i>âdhyaksha<i>h</i>), but on I, 8, 16 optionally as treasurer or charioteer; while the Sûta is I, 8, 9 identified by him with the charioteer (sârathi). It is more probable, however, that at the time of the Brâhma<i>n</i>a the Sûta occupied much the same position as that assigned to him in the epics, viz. that of court-bard and chronicler. The connection of the sa<i>m</i>grahît<i>ri</i> with the A<i>s</i>vins can also scarcely be said to favour the interpretation of the term proposed by Sâya<i>n</i>a (who, moreover, is himself compelled, on Taitt. S. I, 8, 15; Taitt. Br. I, 7, 10, 6, to take it in the sense of charioteer).
 
@@ -324,7 +324,7 @@ dateCreated: 2025-1-14T23:38:14Z
 δαιτρὸς δὲ κρειῶ πίνακας παρέθηκεν ἀείρας
 παντοίων, παρὰ δέ σφι τίθει χρύσεια κύπελλα
 
-[^132]: 63:2 See [V, 2, 5, 8](Book_3_5_2#v5_2_5_8).
+[^132]: 63:2 See [V, 2, 5, 8](../Book_3_5_2#v5_2_5_8).
 
 [^133]: 63:3 ‘The thrower, or keeper, of the dice,’ according to Sâya<i>n</i>a. At V, 4, 4, 6 the verb â-vap is used of the throwing the dice into the hand of the player; and it is perhaps that function of the keeper of the dice which is meant to be expressed by the term (‘der Zuwerfer der Würfel’).
 
@@ -348,11 +348,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^143]: 68:1 That is, by the steam rising from the B<i>ri</i>haspati pap in the bottom vessel.
 
-[^144]: 68:2 The Abhishe<i>k</i>anîya (or Abhisheka, literally ‘the sprinkling’), the Consecration ceremony (corresponding to the Anointment of modern times), requires for its performance five days, viz. one dîkshâ (initiation ceremony), three upasads, and one sutyâ or Soma-day, the particular form of Soma-sacrifice being the Ukthya (part ii, p. 325, note 2). The Dîkshâ is performed immediately after the expiration of the dark fortnight following the full-moon of Phalgunî, that is to say, on the first day of <i>K</i>aitra (about the middle of March).—According to Katy. XV, 3, 47 both the Abhishe<i>k</i>anîya and Da<i>s</i>apeya require special offering-places, the latter being north of the former. Cf. note on [V, 4, 5, 13](Book_3_5_4#v5_4_5_13).—As regards p. 69 the chants (stotra) of the Consecration ceremony, the Pavamâna-stotras are chanted in the thirty-twofold, the Â<i>g</i>ya-stotras in the fifteenfold, the P<i>ri</i>sh<i>th</i>a-stotras in the seventeenfold, and the Agnish<i>t</i>oma-sâman and Uktha-stotras in the twenty-onefold mode of chanting (stoma). Pa<i>ñ</i><i>k</i>. Br, 18, 10, 9. The Bahishpavamâna is specially constructed so as to consist of the following parts,—Sâma-veda II, 978-80; further six so-called sambhâryâ verses further II, 125-27; II, 4-6; II, 431-3; II, 128-30; II, 555-59; II, 7-9; II, 981-83; see Pa<i>ñ</i><i>k</i>. Br. 18, 8, 7 seq.—The Taittirîya ritual (Taitt. Br. I, 8, 7 seq.), on the other hand, prescribes for the Pavamâna-stotras, the thirty-four-versed stoma, commencing the Bahishpavamâna by II, 920; II, 431, &c.
+[^144]: 68:2 The Abhishe<i>k</i>anîya (or Abhisheka, literally ‘the sprinkling’), the Consecration ceremony (corresponding to the Anointment of modern times), requires for its performance five days, viz. one dîkshâ (initiation ceremony), three upasads, and one sutyâ or Soma-day, the particular form of Soma-sacrifice being the Ukthya (part ii, p. 325, note 2). The Dîkshâ is performed immediately after the expiration of the dark fortnight following the full-moon of Phalgunî, that is to say, on the first day of <i>K</i>aitra (about the middle of March).—According to Katy. XV, 3, 47 both the Abhishe<i>k</i>anîya and Da<i>s</i>apeya require special offering-places, the latter being north of the former. Cf. note on [V, 4, 5, 13](../Book_3_5_4#v5_4_5_13).—As regards p. 69 the chants (stotra) of the Consecration ceremony, the Pavamâna-stotras are chanted in the thirty-twofold, the Â<i>g</i>ya-stotras in the fifteenfold, the P<i>ri</i>sh<i>th</i>a-stotras in the seventeenfold, and the Agnish<i>t</i>oma-sâman and Uktha-stotras in the twenty-onefold mode of chanting (stoma). Pa<i>ñ</i><i>k</i>. Br, 18, 10, 9. The Bahishpavamâna is specially constructed so as to consist of the following parts,—Sâma-veda II, 978-80; further six so-called sambhâryâ verses further II, 125-27; II, 4-6; II, 431-3; II, 128-30; II, 555-59; II, 7-9; II, 981-83; see Pa<i>ñ</i><i>k</i>. Br. 18, 8, 7 seq.—The Taittirîya ritual (Taitt. Br. I, 8, 7 seq.), on the other hand, prescribes for the Pavamâna-stotras, the thirty-four-versed stoma, commencing the Bahishpavamâna by II, 920; II, 431, &c.
 
 [^145]: 69:1 This is the ordinary Pa<i>s</i>u-purodâ<i>s</i>a, or cake of animal (offering). See part ii, p. 199, note 2 (where read Agni and Soma. instead of Indra and Agni).
 
-[^146]: 69:2 That is, according to Sâya<i>n</i>a, rice which has sprung up again and ripens very rapidly. Taitt. S. I, 8, 10 has ‘â<i>s</i>u’ instead, for which see [next paragraph](Book_3_5_3#v5_3_3_4).
+[^146]: 69:2 That is, according to Sâya<i>n</i>a, rice which has sprung up again and ripens very rapidly. Taitt. S. I, 8, 10 has ‘â<i>s</i>u’ instead, for which see [next paragraph](../Book_3_5_3#v5_3_3_4).
 
 [^147]: 69:3 Or, consecrated (sû).
 
@@ -370,9 +370,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^154]: 72:1 Here the name of the people, e. g. ‘O ye Kurus, O ye Pa<i>ñ</i><i>k</i>âlas!’ is inserted. The Taitt. S. reads, ‘O ye Bharatâ<i>h</i>.’
 
-[^155]: 72:2 That is to say, the oblations to the ‘Divine Quickeners,’ which were inserted between the chief oblation of the (Agnîshomîya) pa<i>s</i>upurodâ<i>s</i>a and the Svish<i>t</i>ak<i>ri</i>t of it; see above, [parag. 10](Book_3_5_3#v5_3_3_10).
+[^155]: 72:2 That is to say, the oblations to the ‘Divine Quickeners,’ which were inserted between the chief oblation of the (Agnîshomîya) pa<i>s</i>upurodâ<i>s</i>a and the Svish<i>t</i>ak<i>ri</i>t of it; see above, [parag. 10](../Book_3_5_3#v5_3_3_10).
 
-[^161]: 81:1 Viz. before the ‘waters’ deposited there, according to [V, 3, 4, 28](Book_3_5_3#v5_3_4_28).
+[^161]: 81:1 Viz. before the ‘waters’ deposited there, according to [V, 3, 4, 28](../Book_3_5_3#v5_3_4_28).
 
 [^162]: 83:1 Viz. because three of the recipients of these libations—A<i>m</i><i>s</i>a, Bhaga and Aryaman—belong to the deities called Âdityas, or sons of Aditi.
 
@@ -380,7 +380,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^164]: 83:3 That is, by its pendant branches. It is well known that the ficus indica, or banyan-tree, as it is ordinarily called, has the habit of bending its branches down to the ground, which then strike root and develop new secondary trunks, so that a single tree may in course of time form a large grove. Hence the name here used for the tree (nyag-rodha, the downward-growing one). ‘A family tends to multiply families around it, till it becomes the centre of a tribe, just as the banyan tends to surround itself with a forest of its own offspring.’ Maclennan, Primitive Marriage, p. 269.
 
-[^165]: 84:1 See above, [p. 34](Book_3_5_2#p34), note [1](Book_3_5_2#fn80). The Maruts are constantly identified with the Vi<i>s</i>, or people (peasants, &c.) generally, whilst Indra is taken as the divine representative of the ruling class (the king and nobleman).
+[^165]: 84:1 See above, [p. 34](../Book_3_5_2#p34), note [1](../Book_3_5_2#fn80). The Maruts are constantly identified with the Vi<i>s</i>, or people (peasants, &c.) generally, whilst Indra is taken as the divine representative of the ruling class (the king and nobleman).
 
 [^166]: 84:2 See I, 1, 3, 1 (part i, p. 19).
 
@@ -414,6 +414,6 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^181]: 88:4 Or perhaps,—whilst (he is) moving forward,—whilst moving backward,—whilst moving sideways.
 
-[^182]: 89:1 For a sham fight with arrows forming part of the ceremony in the Black Ya<i>g</i>us ritual, see [p. 100](Book_3_5_4#p100). note [1](Book_3_5_4#fn199).
+[^182]: 89:1 For a sham fight with arrows forming part of the ceremony in the Black Ya<i>g</i>us ritual, see [p. 100](../Book_3_5_4#p100). note [1](../Book_3_5_4#fn199).
 
 [^183]: 89:2 That is, as would seem, the formulas of information (or perhaps of announcement, introduction); the first of these formulas beginning with âvis (in sight), the others with the participle âvitta, i.e. ‘obtained, present;’ Sâya<i>n</i>a and Mahîdhara, however, taking it in the sense of ‘informed,’—a meaning which, indeed, the word may perhaps have been intended to convey in these formulas.

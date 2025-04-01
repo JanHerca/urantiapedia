@@ -256,7 +256,7 @@ End of the Second Lecture, called Conquest of the World.
 
 [^146]: 25:2 Ala<i>m</i> bâlassa sa<i>m</i>ge<i>n</i>a, a pâda of <i>s</i>loka; followed by the words in note [^142], [p. 24](#p24), it forms the hemistich of verse 3 in the Second Lesson of the next Chapter.
 
-[^147]: 26:1 See [p. 17](Akaranga_1_2#p17), note [1](Akaranga_1_2#fn115).
+[^147]: 26:1 See [p. 17](../Akaranga_1_2#p17), note [1](../Akaranga_1_2#fn115).
 
 [^148]: 26:2 These words apparently form a <i>s</i>loka, though the third pâda is too short by one syllable; but this fault can easily be corrected by inserting <i>k</i>a: pa<i>m</i>ta<i>m</i> lûha<i>m</i> <i>k</i>a sevanti. The commentators treat the passage as prose.
 

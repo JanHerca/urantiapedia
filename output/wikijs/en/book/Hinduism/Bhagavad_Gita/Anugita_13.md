@@ -52,7 +52,7 @@ The indestructible and the destructible, such is the double manifestation of the
 
 The Adhvaryu said:
 
-O best of talented men! one should in this (world) <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> dwell in company of good men only [1](Anugita_14#fn1417). For having heard your opinion, my mind is enlightened. O venerable sir! I approach you, in the belief (that you are) the Lord; and I say (to you), O twice-born one! there is no fault (attaching) to me, performing (as I have done) the rites performed by others [2](Anugita_14#fn1418).
+O best of talented men! one should in this (world) <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> dwell in company of good men only [1](../Anugita_14#fn1417). For having heard your opinion, my mind is enlightened. O venerable sir! I approach you, in the belief (that you are) the Lord; and I say (to you), O twice-born one! there is no fault (attaching) to me, performing (as I have done) the rites performed by others [2](../Anugita_14#fn1418).
 
 The Brâhma<i>n</i>a said:
 
@@ -92,27 +92,27 @@ With this explanation, the ascetic thereafter remained silent, and the Adhvaryu 
 
 [^1394]: 288:3 Knowledge is Brahman, which is described as a forest here, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1395]: 288:4 Cf. Gîtâ, [p. 70](Bhagavadgita_6#p70).
+[^1395]: 288:4 Cf. Gîtâ, [p. 70](../Bhagavadgita_6#p70).
 
 [^1396]: 288:5 This is the name for the operations of the mind.
 
-[^1397]: 288:6 The sense is similar to that at Gîtâ, [p. 55](Bhagavadgita_3#p55). The self has nothing to do with these feelings; the qualities deal with the qualities.
+[^1397]: 288:6 The sense is similar to that at Gîtâ, [p. 55](../Bhagavadgita_3#p55). The self has nothing to do with these feelings; the qualities deal with the qualities.
 
-[^1398]: 288:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65). The meaning of nature here, as in the Gîtâ, is in substance the result of all previous action with which the self has been associated, which result, of course, exists connected not with the self, but with the developments of nature, in the form of body, p. 289 senses, &c. The comparison appears to mean that the feelings of desire &c. are, like the life—winds, unconnected with the self, though associated with it, and are both alike manifestations of nature.
+[^1398]: 288:7 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65). The meaning of nature here, as in the Gîtâ, is in substance the result of all previous action with which the self has been associated, which result, of course, exists connected not with the self, but with the developments of nature, in the form of body, p. 289 senses, &c. The comparison appears to mean that the feelings of desire &c. are, like the life—winds, unconnected with the self, though associated with it, and are both alike manifestations of nature.
 
 [^1399]: 289:1 Nîlaka<i>nth</i>a compares B<i>nth</i>hadâra<i>n</i>yaka, p. 770. Ar<i>g</i>una Mi<i>s</i>ra has a different reading, meaning ‘liable (to be subjugated).’
 
-[^1400]: 289:2 The plural. which is in the original, is unusual. The various aspects of the ‘result’ stated in [p. 288](Anugita_12#p288), note [^1393], being looked at separately, are described as ‘natures,’ like the leaves of a lotus, which in their ensemble make one lotus.
+[^1400]: 289:2 The plural. which is in the original, is unusual. The various aspects of the ‘result’ stated in [p. 288](../Anugita_12#p288), note [^1393], being looked at separately, are described as ‘natures,’ like the leaves of a lotus, which in their ensemble make one lotus.
 
-[^1401]: 289:3 Lalita Vistara, p. 2, and [p. 64](Bhagavadgita_5#p64) supra.
+[^1401]: 289:3 Lalita Vistara, p. 2, and [p. 64](../Bhagavadgita_5#p64) supra.
 
-[^1402]: 289:4 The figure seems to be somewhat like that at Gîtâ, [p. 82](Bhagavadgita_9#p82), about the atmosphere and space, which latter remains untainted by the former. Looking on various natures, i. e. as distinct from the self.
+[^1402]: 289:4 The figure seems to be somewhat like that at Gîtâ, [p. 82](../Bhagavadgita_9#p82), about the atmosphere and space, which latter remains untainted by the former. Looking on various natures, i. e. as distinct from the self.
 
 [^1403]: 289:5 Viz. the remaining untainted.
 
 [^1404]: 289:6 I. e. with water, preparatory to its being offered up for the sacrifice.
 
-[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 542, and [p. 337](Anugita_27#p337) below.
+[^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 542, and [p. 337](../Anugita_27#p337) below.
 
 [^1406]: 290:2 Cf. <i>Kh</i>ândogya-upanishad, p. 627, and also <i>S</i>ârîraka Bhâshya on Sûtra III, 1, 25, p. 774.
 
@@ -124,7 +124,7 @@ With this explanation, the ascetic thereafter remained silent, and the Adhvaryu 
 
 [^1410]: 291:1 This is not very clear, but the meaning seems to be that the slaughter is committed for the enjoyment of the sacrificer; the sacrificer only requires fuel, and the slaughtered animal is then used for that purpose.
 
-[^1411]: 291:2 Cf. <i>Kh</i>ândogya, p. 627, and next note; and Gîtâ, inter alia, [p. 114](Bhagavadgita_15#p114), and [p. 348](Anugita_28#p348) infra.
+[^1411]: 291:2 Cf. <i>Kh</i>ândogya, p. 627, and next note; and Gîtâ, inter alia, [p. 114](../Bhagavadgita_15#p114), and [p. 348](../Anugita_28#p348) infra.
 
 [^1412]: 291:3 See Sânkhyatattvaktumudi, p. 7.
 
@@ -134,9 +134,9 @@ With this explanation, the ascetic thereafter remained silent, and the Adhvaryu 
 
 [^1415]: 291:6 I. e. the support of the body, says Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra takes it otherwise, ‘the true nature of the Sat, the self.’ Nîlaka<i>nth</i>a renders the original by sadrûpam without further explanation. This indestructible seems to correspond to that mentioned at Gîtâ, [p. 113](Bhagavadgita_15#p113), which should be considered in connection with Gîtâ, pp. [73](Bhagavadgita_6#p73), [74](Bhagavadgita_7#p74). The note at the former page is, perhaps, not quite accurately expressed, as the word ‘material cause’ conveys some inadmissible associations. Perhaps ‘underlying principle’ might be a nearer approach to the correct idea. The existent will thus be that which really exists, as it is indestructible.
+[^1416]: 292:1 Ar<i>g</i>una Mi<i>s</i>ra takes it otherwise, ‘the true nature of the Sat, the self.’ Nîlaka<i>nth</i>a renders the original by sadrûpam without further explanation. This indestructible seems to correspond to that mentioned at Gîtâ, [p. 113](../Bhagavadgita_15#p113), which should be considered in connection with Gîtâ, pp. [73](../Bhagavadgita_6#p73), [74](../Bhagavadgita_7#p74). The note at the former page is, perhaps, not quite accurately expressed, as the word ‘material cause’ conveys some inadmissible associations. Perhaps ‘underlying principle’ might be a nearer approach to the correct idea. The existent will thus be that which really exists, as it is indestructible.
 
-[^1417]: 292:2 Cf. Gîtâ, [p. 77](Bhagavadgita_7#p77).
+[^1417]: 292:2 Cf. Gîtâ, [p. 77](../Bhagavadgita_7#p77).
 
 [^1418]: 292:3 See <i>S</i>ânti Parvan (Moksha), ch. 240, st. 31.
 
@@ -144,4 +144,4 @@ With this explanation, the ascetic thereafter remained silent, and the Adhvaryu 
 
 [^1420]: 292:5 Released scil. from piety or impiety, &c.,—Ar<i>g</i>una Mi<i>s</i>ra, who says ‘Self’ in the phrase preceding means mind.
 
-[^1421]: 292:6 Because, says Ar<i>g</i>una Mi<i>s</i>ra, according to the very authority which says there is sin in slaughter, all sin is destroyed by knowledge. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1421]: 292:6 Because, says Ar<i>g</i>una Mi<i>s</i>ra, according to the very authority which says there is sin in slaughter, all sin is destroyed by knowledge. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).

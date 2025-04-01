@@ -76,7 +76,7 @@ The (first) potter said, ‘I know well how to deal with clay;’ and (men proce
 
 ## Footnotes
 
-[^398]: 276:1 See pp. [140](Kwang_dze_Intro#p140), [141](Kwang_dze_Intro#p141).
+[^398]: 276:1 See pp. [140](../Kwang_dze_Intro#p140), [141](../Kwang_dze_Intro#p141).
 
 [^399]: 276:2 Literally, ‘righteous towers;’ but ![](/image/book/Taoism/Taoist_texts_vol_1/27600.jpg) is very variously applied, and there are other readings. Compare the name of ling thâi, given by the people to the tower built by king Wän; Shih, III, i, 8.
 

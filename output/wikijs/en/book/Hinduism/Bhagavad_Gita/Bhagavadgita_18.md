@@ -90,23 +90,23 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^529]: 122:4 Such as bathing at midday in summer.
 
-[^530]: 122:5 Cf. [p. 53](Bhagavadgita_3#p53) supra.
+[^530]: 122:5 Cf. [p. 53](../Bhagavadgita_3#p53) supra.
 
 [^531]: 123:1 The original is sannyâsi, but <i>S</i>rîdhara is probably right in taking it to mean one who has command of ‘abandonment.’ <i>S</i>ankara and Madhusûdana, however, take the word in its ordinary sense of ‘ascetic.’ What follows explains, says <i>S</i>rîdhara, why ‘the fruit does not accrue to renouncers.’
 
 [^532]: 123:2 <i>S</i>ankara and Madhusûdana say this means Vedânta-<i>s</i>âstra. <i>S</i>rîdhara suggests also the alternative Sânkhya-sâstra. Substratum =the body, in which desire, aversion, &c. are manifested; agent = one who egoistically thinks himself the doer of actions; organs = senses of perception, action, &c.; movements = of the vital breaths in the body; deities = the deities which preside over the eye and other senses (as to this cf. Aitareya-upanishad, p. 45; Pra<i>s</i>na, pp. 216, 217; Mu<i>nd</i>aka, p. 314; Aitareya-âra<i>n</i>yaka. pp. 88-270: and Max Müller's Hibbert Lectures, p. 204, note).
 
-[^533]: 123:3 Cf. [p. 106](Bhagavadgita_13#p106).
+[^533]: 123:3 Cf. [p. 106](../Bhagavadgita_13#p106).
 
 [^534]: 123:4 Egoism = the feeling that he is the doer of the action; taint = the feeling that the fruit of the action must accrue to him.
 
-[^535]: 123:5 Cf. [p. 45](Bhagavadgita_2#p45), and Dhammapada, stanza 294.
+[^535]: 123:5 Cf. [p. 45](../Bhagavadgita_2#p45), and Dhammapada, stanza 294.
 
 [^536]: 123:6 Knowledge, i.e. that something is a means to what is desired; object is the means; the knower is he who has this knowledge. When these-co-exist we have action. The instrument = senses, &c.
 
 [^537]: 124:1 The system of Kapila.
 
-[^538]: 124:2 Cf. [p. 104](Bhagavadgita_13#p104).
+[^538]: 124:2 Cf. [p. 104](../Bhagavadgita_13#p104).
 
 [^539]: 124:3 Cf. Ka<i>th</i>opanishad, p. 129.
 
@@ -122,7 +122,7 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^545]: 125:2 The nature of the faculty of understanding; and courage is the firmness of that faculty.
 
-[^546]: 125:3 See [p. 115](Bhagavadgita_16#p115). <i>S</i>ankara takes these to mean the ‘paths’ of action and knowledge, and Nîlaka<i>nth</i>a takes the next expression to mean that which is constant and that which is not constant—nitya, anitya.
+[^546]: 125:3 See [p. 115](../Bhagavadgita_16#p115). <i>S</i>ankara takes these to mean the ‘paths’ of action and knowledge, and Nîlaka<i>nth</i>a takes the next expression to mean that which is constant and that which is not constant—nitya, anitya.
 
 [^547]: 125:4 Always co-existing with mental abstraction and supporting it.
 
@@ -132,11 +132,11 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^550]: 126:1 Not at once, as in the case of sensuous pleasures.
 
-[^551]: 126:2 Cf. [p. 51](Bhagavadgita_2#p51). The original has also been rendered by 'tranquillity of one's own mind.’
+[^551]: 126:2 Cf. [p. 51](../Bhagavadgita_2#p51). The original has also been rendered by 'tranquillity of one's own mind.’
 
-[^552]: 126:3 Cf. [p. 59](Bhagavadgita_4#p59).
+[^552]: 126:3 Cf. [p. 59](../Bhagavadgita_4#p59).
 
-[^553]: 126:4 I. e. resulting from control of the mind, purity here is both external and internal. And see [p. 119](Bhagavadgita_17#p119).
+[^553]: 126:4 I. e. resulting from control of the mind, purity here is both external and internal. And see [p. 119](../Bhagavadgita_17#p119).
 
 [^554]: 127:1 I. e. in battle, Nîlaka<i>nth</i>a seems to say. <i>S</i>ankara says it means ready resource whenever occasion arises.
 
@@ -144,19 +144,19 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^556]: 127:3 Eligibility for the path of knowledge.
 
-[^557]: 127:4 Cf. [p. 56](Bhagavadgita_3#p56).
+[^557]: 127:4 Cf. [p. 56](../Bhagavadgita_3#p56).
 
-[^558]: 127:5 Cf. [p. 121](Bhagavadgita_17#p121); the evil appears to be the quality of ‘fettering’ the soul.
+[^558]: 127:5 Cf. [p. 121](../Bhagavadgita_17#p121); the evil appears to be the quality of ‘fettering’ the soul.
 
-[^559]: 127:6 <i>S</i>rîdhara compares [p. 65](Bhagavadgita_5#p65) (V. 13) and distinguishes this from [p. 64](Bhagavadgita_5#p64) (V, 8 seq.) <i>S</i>ankara says the perfection here spoken of is emancipation, and it is obtained by true knowledge.
+[^559]: 127:6 <i>S</i>rîdhara compares [p. 65](../Bhagavadgita_5#p65) (V. 13) and distinguishes this from [p. 64](../Bhagavadgita_5#p64) (V, 8 seq.) <i>S</i>ankara says the perfection here spoken of is emancipation, and it is obtained by true knowledge.
 
 [^560]: 128:1 Abstraction is concentrated and exclusive meditation, <i>S</i>ankara. The other commentators take dhyânayoga as meditation simply,—as treated of in chapter VI, says Nîlaka<i>nth</i>a.
 
-[^561]: 128:2 See [p. 52](Bhagavadgita_2#p52).
+[^561]: 128:2 See [p. 52](../Bhagavadgita_2#p52).
 
 [^562]: 128:3 I. e. comprehending his identity with the Brahman.
 
-[^563]: 128:4 Cf. [p. 55](Bhagavadgita_3#p55).
+[^563]: 128:4 Cf. [p. 55](../Bhagavadgita_3#p55).
 
 [^564]: 128:5 Pride of learning and cleverness, or of piety. See [p. 124](#p124), note .
 
@@ -164,7 +164,7 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^566]: 129:1 <i>S</i>vetâ<i>s</i>vatara-upanishad, pp. 333-345; Ka<i>th</i>opanishad, p. 157.
 
-[^567]: 129:2 Cf. [p. 114](Bhagavadgita_15#p114); by thought, word, and deed.
+[^567]: 129:2 Cf. [p. 114](../Bhagavadgita_15#p114); by thought, word, and deed.
 
 [^568]: 129:3 Of caste or order, such as Agnihotra and so forth.
 
@@ -174,13 +174,13 @@ Thus did I hear this dialogue between Vâsudeva and the high-minded son of P<i>r
 
 [^571]: 129:6 I. e. of God and a preceptor. Cf. last stanza of <i>S</i>vetâ<i>s</i>vataropanishad.
 
-[^572]: 129:7 Cf. [p. 62](Bhagavadgita_4#p62). <i>S</i>ankara says all these elements must co-exist to give eligibility.
+[^572]: 129:7 Cf. [p. 62](../Bhagavadgita_4#p62). <i>S</i>ankara says all these elements must co-exist to give eligibility.
 
 [^573]: 129:8 I. e. belief that in disseminating it, he is serving me. Cf. Ka<i>th</i>opanishad, p. 120.
 
-[^574]: 130:1 Which is the best of sacrifices; see [p. 62](Bhagavadgita_4#p62).
+[^574]: 130:1 Which is the best of sacrifices; see [p. 62](../Bhagavadgita_4#p62).
 
-[^575]: 130:2 Cf. [p. 72](Bhagavadgita_6#p72).
+[^575]: 130:2 Cf. [p. 72](../Bhagavadgita_6#p72).
 
 [^576]: 130:3 I. e. understand my real essence, what I am, &c.
 

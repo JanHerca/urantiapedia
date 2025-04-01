@@ -252,7 +252,7 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^772]: 160:5 Doubtful (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
-[^773]: 160:6 See [p. 23](Yasts_1#p23).
+[^773]: 160:6 See [p. 23](../Yasts_1#p23).
 
 [^774]: 160:7 Or, ‘is the best of all fiend-smiters in battle.’
 
@@ -286,7 +286,7 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^789]: 162:7 Cf. Yt. I, 19.
 
-[^790]: 163:1 Cf. above, [p. 145](Yasts_10#p145), note [1](Yasts_10#fn669).
+[^790]: 163:1 Cf. above, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
 
 [^791]: 163:2 To hell.
 

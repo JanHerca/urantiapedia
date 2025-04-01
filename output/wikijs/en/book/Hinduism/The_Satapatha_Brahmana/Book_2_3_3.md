@@ -281,13 +281,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^175]: 64:1 I do not think ‘asya’ could refer to the sacrificer, in opposition to ‘etasya’ (Soma); nor can the latter be construed with the following relative clause ‘sa yo . . .’ The Kâ<i>n</i>va text reads, Tad yad eva <i>s</i>obhanatama<i>m</i> tat somopanahana<i>m</i> syâd, vâso by asyaitad bhavati; sa yo haita<i>k</i> <i>kh</i>obhanatama<i>m</i> kurute, <i>s</i>obhate haiva sa<i>h</i>, &c.
 
-[^176]: 64:2 The Pratiprasthât<i>ri</i>, in the first place, takes the Soma-plants (from the seller) and puts them on an ox-hide, dyed red and spread on the ground at the place (in the east of the hall) where the ‘sounding-holes’ will be dug (see [III, 5, 4, 1](Book_2_3_5#v3_5_4_1) seq.). The seller of the Soma, who is to be either of the Kutsa tribe or a <i>S</i>ûdra, then picks the Soma, breaking the plants at the joints. A jar filled with water is placed in front of the Soma, and a Brâhman (or the assistant of the Brahman, viz. the Brâhma<i>n</i>â_kh<i>a</i>m_sin) sits down by the (right or south) side of the Soma. Kâty. VII, 6, 1-6.
+[^176]: 64:2 The Pratiprasthât<i>ri</i>, in the first place, takes the Soma-plants (from the seller) and puts them on an ox-hide, dyed red and spread on the ground at the place (in the east of the hall) where the ‘sounding-holes’ will be dug (see [III, 5, 4, 1](../Book_2_3_5#v3_5_4_1) seq.). The seller of the Soma, who is to be either of the Kutsa tribe or a <i>S</i>ûdra, then picks the Soma, breaking the plants at the joints. A jar filled with water is placed in front of the Soma, and a Brâhman (or the assistant of the Brahman, viz. the Brâhma<i>n</i>â_kh<i>a</i>m_sin) sits down by the (right or south) side of the Soma. Kâty. VII, 6, 1-6.
 
-[^177]: 65:1 The three parts refer to the three Savanas, at which the respective metres are used. See [IV, 3, 2, 7](Book_2_4_3#v4_3_2_7) seq.
+[^177]: 65:1 The three parts refer to the three Savanas, at which the respective metres are used. See [IV, 3, 2, 7](../Book_2_4_3#v4_3_2_7) seq.
 
-[^178]: 65:2 Bhâgam appears to have been lost here, since a play on that word seems to be intended, which might perhaps be reproduced by lot.' It is given both at the Kâ<i>n</i>va text and at [III, 4, 1, 7](Book_2_3_4#v3_4_1_7).
+[^178]: 65:2 Bhâgam appears to have been lost here, since a play on that word seems to be intended, which might perhaps be reproduced by lot.' It is given both at the Kâ<i>n</i>va text and at [III, 4, 1, 7](../Book_2_3_4#v3_4_1_7).
 
-[^179]: 65:3 For the <i>S</i>ukra-graha, see [IV, 2, 1, 1](Book_2_4_2#v4_2_1_1) seq.
+[^179]: 65:3 For the <i>S</i>ukra-graha, see [IV, 2, 1, 1](../Book_2_4_2#v4_2_1_1) seq.
 
 [^180]: 66:1 Ati<i>kh</i>andas (‘over-metre’) is the generic name for the metres which number more than forty-eight syllables: hence it is said to include all the other metres which consist of fewer syllables. See VIII, 6, 2, 23, where the term is explained by atti-<i>kh</i>andâ<i>h</i> (metre-eater).’
 
@@ -319,15 +319,15 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^194]: 72:3 ‘For those same Gandharvas, the overseers of the Guardians of Soma, they are (meant) in lieu of those (? hearth-mounds), for those are their names: it is to them that he thereby assigns those (objects constituting the purchase-price), and thus he becomes debtless towards them.’ Kâ<i>n</i>va text. See also part i, p. 183, note 2.
 
-[^195]: 73:1 See [III, 2, 1, 16](Book_2_3_2#v3_2_1_16). His wife does the same.
+[^195]: 73:1 See [III, 2, 1, 16](../Book_2_3_2#v3_2_1_16). His wife does the same.
 
-[^196]: 73:2 According to a former passage ([III, 1, 3, 28](Book_2_3_1#v3_1_3_28)), the sacrificer is supposed to remain in the embryonic state till the pressing of the Soma. The Kâ<i>n</i>va recension reads, ‘Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;’ where ‘a<i>g</i>î<i>g</i>anat’ seems to mean ‘he has begotten.’ I am not quite certain whether Soma himself is really implied. See [III, 3, 4, 6](Book_2_3_3#v3_3_4_6).
+[^196]: 73:2 According to a former passage ([III, 1, 3, 28](../Book_2_3_1#v3_1_3_28)), the sacrificer is supposed to remain in the embryonic state till the pressing of the Soma. The Kâ<i>n</i>va recension reads, ‘Sa etam ya<i>g</i><i>ñ</i>am a<i>g</i>î<i>g</i>anat sa esha garbho bhavaty â sutyâyâ<i>h</i>;’ where ‘a<i>g</i>î<i>g</i>anat’ seems to mean ‘he has begotten.’ I am not quite certain whether Soma himself is really implied. See [III, 3, 4, 6](../Book_2_3_3#v3_3_4_6).
 
 [^197]: 74:1 Compare the slightly different verse, Rig-veda VI, 51, 16.
 
 [^198]: 74:2 The sacrificer carries the bundle of Soma on his hand resting on his head.
 
-[^199]: 74:3 Viz. the vessel of water mentioned [III, 1, 2, 2](Book_2_3_1#v3_1_2_2).
+[^199]: 74:3 Viz. the vessel of water mentioned [III, 1, 2, 2](../Book_2_3_1#v3_1_2_2).
 
 [^200]: 75:1 The cart stands south of the place where the purchase of Soma took place, with the shafts towards the east, fitted with all the appliances, and yoked with a pair of oxen. The antelope skin is spread with the hairy side upwards, and the neck part towards the east.
 
@@ -339,7 +339,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^204]: 77:1 ‘Into the waters (apsu),’ Rig-veda.
 
-[^205]: 77:2 See [III, 2, 1, 1](Book_2_3_2#v3_2_1_1) seq.
+[^205]: 77:2 See [III, 2, 1, 1](../Book_2_3_2#v3_2_1_1) seq.
 
 [^206]: 77:3 He is to fasten it to a staff fixed to the pole of the cart near the yoke. Kâty. VII, 9, 9.
 
@@ -349,7 +349,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^209]: 79:1 Apâlamba, a piece of wood fastened to the back part of the cart to prevent its running backwards when going up-hill; or, according to others, a rope used for retarding the progress of the cart in going down-hill. Kâty. VII, 9, 15 comm. The cart stands with the oxen towards the east; it is then wheeled round towards the right to the west and driven to the hall, in front of which it is turned towards the north; the Soma being then taken down. See Ait. Br. I, 14.
 
-[^210]: 79:2 The duties of the Hot<i>ri</i>, while the Soma-cart is driven to the hall, are set forth Â<i>s</i>v. <i>S</i>rautas. IV, 4: He stands three feet behind the cart between the two wheel tracks, and throws thrice dust towards the south with the fore-part of his foot without moving the heel, with the formula, ‘Thou art wise, thou art intelligent, thou upholding all things: drive away the danger arising from men!’ Thereupon, after uttering the sound ‘Him,’ he recites eight verses, or, the first and last being recited thrice each, in all twelve verses. Cf. Ait. Br. I, 13. He first remains standing in the same place and recites thrice the first verse. Then in following the cart he recites the five following verses. The cart having now stopped, he walks round it on its right (south) side, and while looking on the Soma follows it while it is placed on the throne. He then touches it and completes his recitation by the last two verses. The first of these two verses is the same which the sacrificer is to mutter (with the Adhvaryu) while Soma is carried into the hall, and which is given in [paragraph 30](Book_2_3_3#v3_3_4_30).
+[^210]: 79:2 The duties of the Hot<i>ri</i>, while the Soma-cart is driven to the hall, are set forth Â<i>s</i>v. <i>S</i>rautas. IV, 4: He stands three feet behind the cart between the two wheel tracks, and throws thrice dust towards the south with the fore-part of his foot without moving the heel, with the formula, ‘Thou art wise, thou art intelligent, thou upholding all things: drive away the danger arising from men!’ Thereupon, after uttering the sound ‘Him,’ he recites eight verses, or, the first and last being recited thrice each, in all twelve verses. Cf. Ait. Br. I, 13. He first remains standing in the same place and recites thrice the first verse. Then in following the cart he recites the five following verses. The cart having now stopped, he walks round it on its right (south) side, and while looking on the Soma follows it while it is placed on the throne. He then touches it and completes his recitation by the last two verses. The first of these two verses is the same which the sacrificer is to mutter (with the Adhvaryu) while Soma is carried into the hall, and which is given in [paragraph 30](../Book_2_3_3#v3_3_4_30).
 
 [^211]: 79:3 While the Soma is driven to the hall, the sacrificer has to hold on to it from behind.
 
@@ -369,9 +369,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^219]: 82:3 The Kâ<i>n</i>va text also states that this last portion of the formula was devised by Âru<i>n</i>i, but nothing is said as to its use being optional.
 
-[^220]: 82:4 For variations of this concluding part of the Subrahma<i>n</i>yâ in different schools, see Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; also notes to [III, 9, 3, 10](Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Transl. Ait. Br. p. 383.
+[^220]: 82:4 For variations of this concluding part of the Subrahma<i>n</i>yâ in different schools, see Lâ<i>t</i>y. <i>S</i>r. I, 3, 3 seq.; also notes to [III, 9, 3, 10](../Book_2_3_9#v3_9_3_10); IV, 9, 6, 25 (?); Haug, Transl. Ait. Br. p. 383.
 
-[^221]: 82:5 See [III, 1, 3, 1](Book_2_3_1#v3_1_3_1) seq.
+[^221]: 82:5 See [III, 1, 3, 1](../Book_2_3_1#v3_1_3_1) seq.
 
 [^222]: 83:1 ‘By this victim he redeems himself, the victim, and with that redeemed self, now his own, he sacrifices.’ Kâ<i>n</i>va rec.
 

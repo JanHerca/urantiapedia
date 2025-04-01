@@ -120,9 +120,9 @@ As dowry of each royal spouse,
 Due offerings to the spirits pay,
 And solemnize the wedding-day.
 The moon tonight, O royal Sage,
-In Maghá's [1](Book_1_77#fn252) House takes harbourage;
+In Maghá's [1](../Book_1_77#fn252) House takes harbourage;
 On the third night his rays benign
-In second Phálguni [2](Book_1_77#fn253) will shine:
+In second Phálguni [2](../Book_1_77#fn253) will shine:
 Be that the day, with prosperous fate,
 The nuptial rites to celebrate.’
 

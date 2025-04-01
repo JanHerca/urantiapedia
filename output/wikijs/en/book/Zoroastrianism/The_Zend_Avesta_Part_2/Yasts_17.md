@@ -248,7 +248,7 @@ Ashem Vohû: Holiness is the best of all good .
 
 [^1216]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
 
-[^1217]: 271:1 The allies of Saoshya<i>n</i><i>t</i>, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
+[^1217]: 271:1 The allies of Saoshya<i>n</i><i>t</i>, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
 
 [^1218]: 271:2 Cf. Yt. V, 10.
 
@@ -312,7 +312,7 @@ Ashem Vohû: Holiness is the best of all good .
 
 [^1248]: 280:3 She refuses the offerings of all barren beings.
 
-[^1249]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](Yasts_5#p71), note [7](Yasts_5#fn352), or more likely Vî<i>s</i>tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya<i>s</i>t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
+[^1249]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), or more likely Vî<i>s</i>tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya<i>s</i>t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
 
 [^1250]: 282:1 Cf. §§ 49 seq.
 

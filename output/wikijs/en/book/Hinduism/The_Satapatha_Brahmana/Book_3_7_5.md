@@ -265,9 +265,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^723]: 389:1 See [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^723]: 389:1 See [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
-[^724]: 390:1 That is to say, each Vedic text is identical with the deity to which it is addressed. Cf. [VI, 5, 1, 2](Book_3_6_5#v6_5_1_2).
+[^724]: 390:1 That is to say, each Vedic text is identical with the deity to which it is addressed. Cf. [VI, 5, 1, 2](../Book_3_6_5#v6_5_1_2).
 
 [^725]: 391:1 While the bricks generally measure a pâda or foot square, the cubit measures about two feet.
 
@@ -277,27 +277,27 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^728]: 393:1 The mortar and pestle are to be placed as far north of the central (naturally-perforated) brick, as the two reta<i>h</i>si<i>k</i> lie in front (towards the east) of it. This distance is ascertained by means of a cord stretched across the bricks hitherto laid down (from the Svayamât<i>ri</i><i>n</i><i>n</i>â to the Ashâ<i>dh</i>â), and knots made in the cord over the centre of the respective bricks.
 
-[^729]: 394:1 I do not see what else could here be referred to than the heaven and the earth (cf. [VII, 4, 2, 22](Book_3_7_4#v7_4_2_22)), though in that case one might rather expect ‘imau (lokau)’ instead of ‘ime.’ Possibly, however, the earth and atmosphere may be intended.
+[^729]: 394:1 I do not see what else could here be referred to than the heaven and the earth (cf. [VII, 4, 2, 22](../Book_3_7_4#v7_4_2_22)), though in that case one might rather expect ‘imau (lokau)’ instead of ‘ime.’ Possibly, however, the earth and atmosphere may be intended.
 
 [^730]: 396:1 The mortar, according to the commentaries to Katy., is partly dug into the ground, with the open part upwards; the pestle being then placed to the right (south) of it.
 
 [^731]: 397:1 Viz., according to Sâya<i>n</i>a, because they spring from the germ in the centre of the fruit.
 
-[^732]: 397:2 ? Or, of it (the fire-pan). There is some uncertainty regarding this item of the ceremonial. Kâtyâyana's rule (XVII, 5, 4)—‘Having placed the Ukhâ (pan) on the mortar, pounded the remainder of clay, and thrown it down in front, with the text “Dhruvâ asi,” (of) the Ukhâ’—is evidently intentionally vague. Mahîdhara (on Vâ<i>g</i>. S. XIII, 34) gives the following interpretation of it,—‘Having first silently placed the Ukhâ on the mortar, then pounded the remaining clay, and thrown it down on the ground in front of the Ukhâ, let him place the Ukhâ thereon with two formulas.’ According to this, the Ukhâ would only temporarily be placed on the mortar, its proper and permanent place (loka) being on the powdered clay in front (to the east) of the mortar. The text of the Brâhma<i>n</i>a, as it stands, however, cannot possibly be construed so as to accord with Mahîdhara's interpretation. This would require some such reading as,—athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. See, however, paragraph [38](Book_3_7_5#v7_5_1_38) below, which evidently applies to the permanent position of the pan.
+[^732]: 397:2 ? Or, of it (the fire-pan). There is some uncertainty regarding this item of the ceremonial. Kâtyâyana's rule (XVII, 5, 4)—‘Having placed the Ukhâ (pan) on the mortar, pounded the remainder of clay, and thrown it down in front, with the text “Dhruvâ asi,” (of) the Ukhâ’—is evidently intentionally vague. Mahîdhara (on Vâ<i>g</i>. S. XIII, 34) gives the following interpretation of it,—‘Having first silently placed the Ukhâ on the mortar, then pounded the remaining clay, and thrown it down on the ground in front of the Ukhâ, let him place the Ukhâ thereon with two formulas.’ According to this, the Ukhâ would only temporarily be placed on the mortar, its proper and permanent place (loka) being on the powdered clay in front (to the east) of the mortar. The text of the Brâhma<i>n</i>a, as it stands, however, cannot possibly be construed so as to accord with Mahîdhara's interpretation. This would require some such reading as,—athopa<i>s</i>ayâm pish<i>t</i>vâ, purastâd ukhâyâ upanivapya lokabhâ<i>g</i>am ukhâm karoti. See, however, paragraph [38](../Book_3_7_5#v7_5_1_38) below, which evidently applies to the permanent position of the pan.
 
-[^733]: 397:3 For the genitive ‘asya’ (viz. lokasya) with ‘antarita’—instead p. 398 of the more usual ablative—see [VI, 2, 2, 38](Book_3_6_2#v6_2_2_38), ‘prâ<i>n</i>asya tad antariyât.’
+[^733]: 397:3 For the genitive ‘asya’ (viz. lokasya) with ‘antarita’—instead p. 398 of the more usual ablative—see [VI, 2, 2, 38](../Book_3_6_2#v6_2_2_38), ‘prâ<i>n</i>asya tad antariyât.’
 
-[^734]: 398:1 [VII. 4, 2, 5](Book_3_7_4#v7_4_2_5).
+[^734]: 398:1 [VII. 4, 2, 5](../Book_3_7_4#v7_4_2_5).
 
-[^735]: 398:2 See [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41).
+[^735]: 398:2 See [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41).
 
 [^736]: 399:1 The verb ‘abhi-k<i>ri</i>’ is here taken in the sense of ‘vi-k<i>ri</i>’ (he gives form to it); and in that sense I would now take it at II, 3; I, 4, ‘he fashions (gives human shape to) that embryo,’ instead of ‘he benefits that embryo.’ The St. Petersburg dictionary proposes the meaning, ‘to do something with reference to (or, for the benefit of).’ The proper German meaning would rather seem to be ‘bearbeiten.’ The preposition ‘abhi’ is probably used here with reference to the ‘abhi-<i>g</i>uhoti.’
 
-[^737]: 399:2 See [p. 269](Book_3_6_7#p269), note [3](Book_3_6_7#fn510).
+[^737]: 399:2 See [p. 269](../Book_3_6_7#p269), note [3](../Book_3_6_7#fn510).
 
 [^738]: 400:1 ? Viz. by filling up the vacant spaces of the altar from left to right.
 
-[^739]: 401:1 See [VI, 1, 1, 4](Book_3_6_1#v6_1_1_4); [2, 1, 7](Book_3_6_2#v6_2_1_7).
+[^739]: 401:1 See [VI, 1, 1, 4](../Book_3_6_1#v6_1_1_4); [2, 1, 7](../Book_3_6_2#v6_2_1_7).
 
 [^740]: 401:2 That is, by the head, according to Sâya<i>n</i>a.
 
@@ -305,41 +305,41 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^742]: 402:2 That is, before putting the heads in the fire-pan.
 
-[^743]: 403:1 Viz. a he-goat, as the animal sacrifice to either Pra<i>g</i>âpati, or (Vâyu) Niyutvat; see pp. [178](Book_3_6_2#p178), [184](Book_3_6_2#p184).
+[^743]: 403:1 Viz. a he-goat, as the animal sacrifice to either Pra<i>g</i>âpati, or (Vâyu) Niyutvat; see pp. [178](../Book_3_6_2#p178), [184](../Book_3_6_2#p184).
 
-[^744]: 403:2 See [VI, 2, 2, 15](Book_3_6_2#v6_2_2_15).
+[^744]: 403:2 See [VI, 2, 2, 15](../Book_3_6_2#v6_2_2_15).
 
 [^745]: 404:1 Only the first of the two formulas, however, contains the word ‘vi<i>s</i>va,’ all.
 
-[^746]: 404:2 The pan was partly filled with sand and milk, see [VII, 1, 1, 41](Book_3_7_1#v7_1_1_41), [44](Book_3_7_1#v7_1_1_44).
+[^746]: 404:2 The pan was partly filled with sand and milk, see [VII, 1, 1, 41](../Book_3_7_1#v7_1_1_41), [44](../Book_3_7_1#v7_1_1_44).
 
 [^747]: 405:1 ‘Pratimâ’ is perhaps taken here by the dogmatic expositor in the sense of ‘likeness, counterpart;’ in which case one would have to translate, ‘the counterpart of a thousand, the all-shaped one.’
 
-[^748]: 406:1 See [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^748]: 406:1 See [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
 [^749]: 406:2 Or, ‘they attend upon him (Agni, the fire-altar) who tends towards the front (east);’ inasmuch as the altar is built in the shape of a bird flying eastwards.
 
 [^750]: 406:3 Or, harm not the cow, the wide-ruling (or wide-shining) Aditi!
 
-[^751]: 406:4 After the two premises (with ‘vai’) the inference seems here to be introduced without any particle. Similarly in paragraph [24](Book_3_7_5#v7_5_2_24); while in paragraph [19](Book_3_7_5#v7_5_2_19) the particle ‘u’ is used to perform that office. Cf. however [VII, 4, 2, 1](Book_3_7_4#v7_4_2_1), where a third parallel clause (which logically might have been the inference) is introduced by ‘u vai.’
+[^751]: 406:4 After the two premises (with ‘vai’) the inference seems here to be introduced without any particle. Similarly in paragraph [24](../Book_3_7_5#v7_5_2_24); while in paragraph [19](../Book_3_7_5#v7_5_2_19) the particle ‘u’ is used to perform that office. Cf. however [VII, 4, 2, 1](../Book_3_7_4#v7_4_2_1), where a third parallel clause (which logically might have been the inference) is introduced by ‘u vai.’
 
 [^752]: 406:5 Sâya<i>n</i>a refers to the legend in Taitt. S. II, I, 2, 2, here alluded to:—Svarbhânu, the Âsura, struck the sun with darkness. The gods sought an expiation for that (darkness): the first darkness of his which they dispelled became a black ewe, the second a red one, the third a white one; and what they cut off from the surface of the bone (?) that became a barren sheep, &c.
 
 [^753]: 407:1 Viz. inasmuch as the fire to be ultimately deposited on the fire-altar was taken from the original (hall-door) fire.
 
-[^754]: 407:2 See [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^754]: 407:2 See [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^755]: 407:3 That is, Pra<i>g</i>âpati, the lord of procreation; see [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) seq.
+[^755]: 407:3 That is, Pra<i>g</i>âpati, the lord of procreation; see [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) seq.
 
 [^756]: 408:1 That is, having rapidly muttered it.
 
 [^757]: 408:2 That is, (means of) deliverance or removal, a term applied to the next five mantras.
 
-[^758]: 408:3 Lit. their burning heat (<i>s</i>u<i>k</i>); cf. [par. 32](Book_3_7_5#v7_5_2_32) seq.
+[^758]: 408:3 Lit. their burning heat (<i>s</i>u<i>k</i>); cf. [par. 32](../Book_3_7_5#v7_5_2_32) seq.
 
 [^759]: 409:1 The Sacrificer builds the fire-altar with a view to his securing for himself a place in heaven.
 
-[^760]: 409:2 It is doubtful what is meant here by this term, unless it be a monkey, or a counterfeit human head; cf. [p. 197](Book_3_6_3#p197), note [4](Book_3_6_3#fn405).
+[^760]: 409:2 It is doubtful what is meant here by this term, unless it be a monkey, or a counterfeit human head; cf. [p. 197](../Book_3_6_3#p197), note [4](../Book_3_6_3#fn405).
 
 [^761]: 410:1 This paraphrase does not make it clear how the author construes and interprets this part of the formula; especially in what sense he takes ‘nishîda.’
 
@@ -347,10 +347,10 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^763]: 411:1 Viz. inasmuch as its wool serves as a cover for man and beast.
 
-[^764]: 412:1 ‘A<i>g</i>a,’ he-goat, is here again taken in the sense of ‘a-<i>g</i>a,’ unborn. As to the gods having sprung from Vâ<i>k</i>, see [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6) seq.
+[^764]: 412:1 ‘A<i>g</i>a,’ he-goat, is here again taken in the sense of ‘a-<i>g</i>a,’ unborn. As to the gods having sprung from Vâ<i>k</i>, see [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6) seq.
 
 [^765]: 412:2 A fabulous animal with eight legs.
 
-[^766]: 414:1 See [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22); [5, 1, 4](Book_3_6_5#v6_5_1_4).
+[^766]: 414:1 See [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22); [5, 1, 4](../Book_3_6_5#v6_5_1_4).
 
 [^767]: 417:1 The four sets of bricks are placed in the middle of the four sides of the square ‘body’ of the altar-site, or at the ends of the two spines' intersecting each other.

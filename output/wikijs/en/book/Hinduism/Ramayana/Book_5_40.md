@@ -223,7 +223,7 @@ And gave the answer fondly sought:
 ‘Bright as the sun that lights the sky
 Dear as the Moon to every eye.
 He scatters blessings o'er the land
-Like bounties from Vais'ravan's  [1](Book_5_40#fn863) hand.
+Like bounties from Vais'ravan's  [1](../Book_5_40#fn863) hand.
 Like Vishnu strong and unsubdued,
 Unmatched in might and fortitude.
 Wise, truthful as the Lord of Speech,
@@ -301,7 +301,7 @@ Laid Báli dead, Sugríva's foe.
 Then by commandment of our lord
 The Vánar hosts each land explored.
 We reached the coast: I crossed the sea
-And found my way at length to thee.'  [1b](Book_5_40#fn864)
+And found my way at length to thee.'  [1b](../Book_5_40#fn864)
 
 
 
@@ -435,7 +435,7 @@ Where Raghu's son is waiting still.’
 &nbsp;&nbsp;&nbsp;&nbsp;‘How canst thou bear me hence?’ she cried,
 ‘The way is long, the sea is wide.
 To bear my very weight would be
-A task too hard for one like thee.' [1](Book_5_40#fn872)
+A task too hard for one like thee.' [1](../Book_5_40#fn872)
 &nbsp;&nbsp;&nbsp;&nbsp;Swift rose before her startled eyes
 The Vánar in his native size,
 Like Mandar's hill or Meru's height,

@@ -98,7 +98,7 @@ Of the architectural remains the shrine itself is a typical example, and the Gol
 
 The dates which divide Japanese history having been somewhat generalised for the purposes of the present sketch, it is thought well to supply the following brief summary in more accurate form for use in reference.
 
-_The Asuka Period_.—Lasted from the introduction of [Buddhism](errata.htm#0) in 552 to the accession of the Emperor Tenji, 667 A.D. This era in Japan is much influenced by the great vigour of Buddhism in China, under the Tâng dynasty.
+_The Asuka Period_.—Lasted from the introduction of [Buddhism](../errata.htm#0) in 552 to the accession of the Emperor Tenji, 667 A.D. This era in Japan is much influenced by the great vigour of Buddhism in China, under the Tâng dynasty.
 
 _The Fujiwara Period_.—From the accession of the Emperor Seiwa in 898, to the fall of the Taira family in 1186 A.D. This age is characterised by a purely national development of Buddhist art and philosophy, under the Fujiwara aristocracy.
 

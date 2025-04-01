@@ -82,7 +82,7 @@ Fomalhaut | 18 | 16 | 30 | 134 | 54.0 | 19 | 15 | 43 | 133 | 57.8 | 20 | 58 | 57
 
 <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
-[![Chart of the Principal Stars, chiefly Zodiacal, for the Epoch B.C. 2300](tn/03000.jpg)
+[![Chart of the Principal Stars, chiefly Zodiacal, for the Epoch B.C. 2300](../tn/03000.jpg)
 Click to enlarge](/image/book/Confucianism/The_Shu_King/03000.jpg)
 Chart of the Principal Stars, chiefly Zodiacal, for the Epoch B.C. 2300
 

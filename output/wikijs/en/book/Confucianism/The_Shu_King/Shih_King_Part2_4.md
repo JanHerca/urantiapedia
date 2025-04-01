@@ -52,7 +52,7 @@ Ah! ye gentlemen, Do not reckon on your repose being permanent. Quietly fulfil t
 
 SACRIFICIAL AND FESTAL SERVICES IN THE ANCESTRAL TEMPLE; AND THEIR CONNEXION WITH ATTENTION TO HUSBANDRY.
 
-See the remarks on the Services of the Ancestral Temple, pp. [300](Shih_King_Part1_Intro#p300), 301.
+See the remarks on the Services of the Ancestral Temple, pp. [300](../Shih_King_Part1_Intro#p300), 301.
 
 Thick grew the tribulus (on the ground), But they cleared away its thorny bushes. Why did they this of old? That we might plant our millet and sacrificial millet; That our millet might be abundant, And our sacrificial millet luxuriant. When our barns are full, And our stacks can be counted by tens of myriads, We proceed to make spirits and prepared grain, For offerings and sacrifice. We seat the representatives of the dead, and urge them to eat [^437]:—Thus seeking to increase our bright happiness.
 

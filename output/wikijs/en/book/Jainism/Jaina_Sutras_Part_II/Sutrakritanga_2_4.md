@@ -120,4 +120,4 @@ Thus I say.
 
 [^1192]: 403:1 If the passage were printed in full, the most glaring contradictions would stare the reader in the face. The cause hereof is not that the passage cannot correctly be rendered, but that the authors of the Sûtras always make use of set phrases whether all parts of them suit the case in hand or not. Sometimes we can avoid downright nonsense by selecting a somewhat different rendering from what was given in another part of the book; and so I do in the last sentence of this paragraph. But this is only a makeshift.
 
-[^1193]: 404:1 I here abridge the text which is identical with II, 1, 48 ff., [p. 351](Sutrakritanga_2_1#p351).
+[^1193]: 404:1 I here abridge the text which is identical with II, 1, 48 ff., [p. 351](../Sutrakritanga_2_1#p351).

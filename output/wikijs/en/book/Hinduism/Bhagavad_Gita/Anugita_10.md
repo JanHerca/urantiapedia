@@ -74,7 +74,7 @@ O modest one! understand that god Nârâya<i>n</i>a, who is the self of everythi
 
 [^1326]: 277:4 Cf. Aitareya-brâhma<i>n</i>a (Haug), pp. 132, 133.
 
-[^1327]: 278:1 Cf. as to the three first, Gîtâ, [p. 123](Bhagavadgita_18#p123). They are the four categories, to one or other of which everything in the world may be referred.
+[^1327]: 278:1 Cf. as to the three first, Gîtâ, [p. 123](../Bhagavadgita_18#p123). They are the four categories, to one or other of which everything in the world may be referred.
 
 [^1328]: 278:2 The texts here differ. Ar<i>g</i>una Mi<i>s</i>ra's reading he interprets to mean ‘the subjugation of these Hotris.’ The reading followed in the text seems to some extent to be supported by the sequel. But the passage altogether is not very clear.
 
@@ -90,23 +90,23 @@ O modest one! understand that god Nârâya<i>n</i>a, who is the self of everythi
 
 [^1334]: 278:8 It is these seven from which the self is to be emancipated. must mean the self, not the Brâhma<i>n</i>a who speaks.
 
-[^1335]: 279:1 I. e., I presume, the senses. Cf. Gîtâ, [p. 50](Bhagavadgita_2#p50). The learned do. not suppose their self to have aught to do with them. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1335]: 279:1 I. e., I presume, the senses. Cf. Gîtâ, [p. 50](../Bhagavadgita_2#p50). The learned do. not suppose their self to have aught to do with them. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).
 
-[^1336]: 279:2 Cf. Gîtâ, [p. 53](Bhagavadgita_3#p53); Manu III, 118.
+[^1336]: 279:2 Cf. Gîtâ, [p. 53](../Bhagavadgita_3#p53); Manu III, 118.
 
-[^1337]: 279:3 His knowledge gives him this power. He is not ‘destroyed’ by the food as the other man is. Nîlaka<i>nth</i>a compares B<i>nth</i>hadâra<i>n</i>yaka, p. 884. See too [p. 260](Anugita_5#p260), note [1](Anugita_5#fn1239) supra.
+[^1337]: 279:3 His knowledge gives him this power. He is not ‘destroyed’ by the food as the other man is. Nîlaka<i>nth</i>a compares B<i>nth</i>hadâra<i>n</i>yaka, p. 884. See too [p. 260](../Anugita_5#p260), note [1](../Anugita_5#fn1239) supra.
 
 [^1338]: 279:4 I. e. mischief owing to the destruction of life necessary for getting food, says Nîlaka<i>nth</i>a quoting B<i>nth</i>hadâra<i>n</i>yaka, p. 913.
 
 [^1339]: 279:5 This includes the operation of the understanding also. Nîlaka<i>nth</i>a says this verse explains what the word ‘food’ means here.
 
-[^1340]: 279:6 For the phrase cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1340]: 279:6 For the phrase cf. Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
-[^1341]: 279:7 That is to say, my self, Ar<i>g</i>una Mi<i>s</i>ra. See [p. 259](Anugita_5#p259), note [3](Anugita_5#fn1235) supra.
+[^1341]: 279:7 That is to say, my self, Ar<i>g</i>una Mi<i>s</i>ra. See [p. 259](../Anugita_5#p259), note [3](../Anugita_5#fn1235) supra.
 
 [^1342]: 279:8 As the objects of sense &c. are all absorbed into it.
 
-[^1343]: 279:9 It is called ‘fire,’ as it burns up all action. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62).
+[^1343]: 279:9 It is called ‘fire,’ as it burns up all action. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62).
 
 [^1344]: 280:1 Ar<i>g</i>una Mi<i>s</i>ra's commentary is not intelligible here, so I follow Nîlaka<i>nth</i>a, but diffidently.
 

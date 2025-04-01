@@ -118,7 +118,7 @@ Thus I say.
 
 [^955]: 321:1 A_gh<i>a</i>ñ_<i>gh</i>apatta. _Gh<i>a</i>ñ_<i>gh</i>â (tempest) = mâyâ.
 
-[^956]: 321:2 Concerning the Ugras, see above, [p. 71](Uttaradhyayana_15#p71), note [2](Uttaradhyayana_15#fn190).
+[^956]: 321:2 Concerning the Ugras, see above, [p. 71](../Uttaradhyayana_15#p71), note [2](../Uttaradhyayana_15#fn190).
 
 [^957]: 321:3 Le<i>k</i><i>kh</i>ai. According to the <i>G</i>ainas the Li<i>k</i><i>kh</i>avi and Mallakis were the chiefs of Kâ<i>s</i>i and Kô<i>s</i>ala. They seem to have succeeded the Aikshvâkas, who ruled there in the times of the Râmâya<i>n</i>a. The Li<i>k</i><i>kh</i>avis became a powerful race, who held the supreme power in Eastern India during many centuries after the beginning of our era.
 

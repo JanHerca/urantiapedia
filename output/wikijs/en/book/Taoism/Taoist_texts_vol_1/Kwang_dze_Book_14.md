@@ -194,7 +194,7 @@ Confucius (after this) did not go out, till at the end of three months he went a
 
 [^584]: 355:1 That is, the sage will not deposit it, where it will lie hidden;—compare Analects XVI, vi.
 
-[^585]: 356:1 See the same expression used in Book VI, par. 11, used by Confucius of himself. Comparing the two passages together, I must doubt the correctness of my note there ( [2](Kwang_dze_Book_6#fn290), p. 252), that ‘Heaven’ is used in the Confucian sense of Tî, or God. The men here pursued and toiled after the pleasures of the world, rather than the quiet satisfactions of the Tâo.
+[^585]: 356:1 See the same expression used in Book VI, par. 11, used by Confucius of himself. Comparing the two passages together, I must doubt the correctness of my note there ( [2](../Kwang_dze_Book_6#fn290), p. 252), that ‘Heaven’ is used in the Confucian sense of Tî, or God. The men here pursued and toiled after the pleasures of the world, rather than the quiet satisfactions of the Tâo.
 
 [^586]: 357:1 See Book XXIII, par. 9. The phrase = ![](/image/book/Taoism/Taoist_texts_vol_1/35700.jpg).
 

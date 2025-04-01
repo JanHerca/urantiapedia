@@ -82,4 +82,4 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^143]: 56:2 ‏ביברין‎, from the Latin _vivarium;_ a kind of den or inclosure, in which wild animals were kept.
 
-[^144]: 56:3 Vide our note [1](Treatise4_Kilaim_7#fn58), [p. 27](Treatise4_Kilaim_9#p27).
+[^144]: 56:3 Vide our note [1](../Treatise4_Kilaim_7#fn58), [p. 27](../Treatise4_Kilaim_9#p27).

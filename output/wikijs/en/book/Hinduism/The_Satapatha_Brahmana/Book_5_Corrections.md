@@ -49,9 +49,9 @@ P. 109, note 3. Add,—Cf. also Hillebrandt, ‘Varu<i>n</i>a and Mitra,’ p. 6
 
 P. 130, par. 9, ll. 2, 3. Read,.—'The divine thought protect thee, not man's thought!’
 
-P. 136, par. 6, l. 2. Under him:—Harisvâmin explains ‘anu’ by ‘anvâbhakta,’ ‘participating after him,’ cf. [XIII, 5, 4, 24](Book_5_13_5#v13_5_4_24).
+P. 136, par. 6, l. 2. Under him:—Harisvâmin explains ‘anu’ by ‘anvâbhakta,’ ‘participating after him,’ cf. [XIII, 5, 4, 24](../Book_5_13_5#v13_5_4_24).
 
-P. 149, note 1. The commentary takes ‘p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite’ in the sense of ‘established on the p<i>ri</i>sh<i>th</i>ya,’—inasmuch as, in the first half of the year, he begins each month with the Abhiplava, and ends with the P<i>ri</i>sh<i>th</i>ya, which is the stronger (balavattara, cf. [XII, 2, 2, 16](Book_5_12_2#v12_2_2_16)), and therefore ‘âtmapratish<i>th</i>ita.’
+P. 149, note 1. The commentary takes ‘p<i>ri</i>sh<i>th</i>yapratish<i>th</i>ite’ in the sense of ‘established on the p<i>ri</i>sh<i>th</i>ya,’—inasmuch as, in the first half of the year, he begins each month with the Abhiplava, and ends with the P<i>ri</i>sh<i>th</i>ya, which is the stronger (balavattara, cf. [XII, 2, 2, 16](../Book_5_12_2#v12_2_2_16)), and therefore ‘âtmapratish<i>th</i>ita.’
 
 P. 155, note 2. The MS. of the commentary is corrupt—âṅ-pûrvasyâkriyate satari<i>n</i>âdaya<i>h</i> <i>s</i>a<i>h</i> bhadrâgamam va<i>k</i><i>kh</i>asthâne evâdhikshipayati na prade<i>s</i>ântara âvartata ity artha<i>h</i>.
 

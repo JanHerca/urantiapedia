@@ -136,7 +136,7 @@ But the courses they have hit on are not what I call the proper course. What the
 
 ## Footnotes
 
-[^462]: 307:1 See pp. [143](Kwang_dze_Intro#p143), [144](Kwang_dze_Intro#p144).
+[^462]: 307:1 See pp. [143](../Kwang_dze_Intro#p143), [144](../Kwang_dze_Intro#p144).
 
 [^463]: 307:2 Implying that that ruler, ‘the Son of Heaven,’ is only one.
 

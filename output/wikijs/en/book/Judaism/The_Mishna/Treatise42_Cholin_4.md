@@ -98,8 +98,8 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^1222]: 337:10 The rule on which all the regulations of this Mishna turn is, that there is never a placenta without a fœtus.
 
-[^1223]: 338:11 See Note 2, [p. 333](Treatise14_Pesachim_8#p333) of this Treatise.
+[^1223]: 338:11 See Note 2, [p. 333](../Treatise14_Pesachim_8#p333) of this Treatise.
 
-[^1224]: 338:12 For the reason stated Note 10, page [335](Treatise14_Pesachim_8#p335); and any young animal born from one which was consecrated for sacrifice, becomes also consecrated.
+[^1224]: 338:12 For the reason stated Note 10, page [335](../Treatise14_Pesachim_8#p335); and any young animal born from one which was consecrated for sacrifice, becomes also consecrated.
 
 [^1225]: 338:13 These were the superstitious practices of the heathens, who fancied that by those means they could prevent abortions among their cattle.

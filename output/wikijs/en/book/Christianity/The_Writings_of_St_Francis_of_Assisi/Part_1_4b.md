@@ -123,7 +123,7 @@ Moreover, I enjoin on the ministers, by obedience, that they ask of the Lord Pop
 
 [^290]: 65:1 See Matt. 19: 21.
 
-[^291]: 66:1 See above, page [34](Part_1_4#p34), note [2](Part_1_4#fn_177).
+[^291]: 66:1 See above, page [34](../Part_1_4#p34), note [2](../Part_1_4#fn_177).
 
 [^292]: 66:2 Luke 9: 62.
 

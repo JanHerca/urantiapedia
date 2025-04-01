@@ -75,14 +75,14 @@ And elephants flung their food aside.
 
 <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
-Tris'anku,  [1](Book_2_50#fn315) Jupiter looked dread,
+Tris'anku,  [1](../Book_2_50#fn315) Jupiter looked dread,
 And Mercury and Mars the red,
 In direful opposition met,
 The glory of the moon beset.
 The lunar stars withheld their light,
 The planets were no longer bright,
 But meteors with their horrid glare,
-And dire Vis'ákhás  [2](Book_2_50#fn316) lit the air.
+And dire Vis'ákhás  [2](../Book_2_50#fn316) lit the air.
 As troubled Ocean heaves and raves
 When Doom's wild tempest sweeps the waves,
 Thus all Ayodhyá reeled and bent

@@ -44,12 +44,12 @@ Nor feel his feet the path of bliss attain
 &nbsp;&nbsp;&nbsp;&nbsp;When Ráma's glory by the saint is sung!
 
 The stream Rámáyan leaves its sacred fount
-&nbsp;&nbsp;&nbsp;&nbsp;The whole wide world from sin and stain to free. [1b](Book_1_10#fn3)
+&nbsp;&nbsp;&nbsp;&nbsp;The whole wide world from sin and stain to free. [1b](../Book_1_10#fn3)
 The Prince of Hermits is the parent mount,
 &nbsp;&nbsp;&nbsp;&nbsp;The lordly Ráma is the darling sea.
 
 Glory to him whose fame is ever bright!
-&nbsp;&nbsp;&nbsp;&nbsp;Glory to him, Prachetas'  [2b](Book_1_10#fn4) holy son!
+&nbsp;&nbsp;&nbsp;&nbsp;Glory to him, Prachetas'  [2b](../Book_1_10#fn4) holy son!
 Whose pure lips quaff with ever new delight
 &nbsp;&nbsp;&nbsp;&nbsp;The nectar-sea of deeds by Ráma done.
 

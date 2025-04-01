@@ -138,7 +138,7 @@ Some fed on water, some on air,
 Some on the leaves that withered there.
 Roots and wild fruit were others' food;
 All rage was checked, each sense subdued,
-There Bálakhilyas  [1](Book_1_60#fn220) went and came,
+There Bálakhilyas  [1](../Book_1_60#fn220) went and came,
 Now breathed the prayer, now fed the flame:
 These, and ascetic bands beside,
 The sweet retirement beautified.
@@ -453,7 +453,7 @@ Fell as if burnt with ravening flame.
 The monarch, famous through the world
 Again his fearful weapons hurled,
 
-That made Kámbojas, [1b](Book_1_60#fn227) Barbars, [2b](Book_1_60#fn228) all,
+That made Kámbojas, [1b](../Book_1_60#fn227) Barbars, [2b](../Book_1_60#fn228) all,
 With Yavans, troubled, flee and fall.
 
 

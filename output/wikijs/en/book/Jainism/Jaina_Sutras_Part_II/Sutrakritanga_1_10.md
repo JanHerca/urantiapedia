@@ -118,9 +118,9 @@ Thus I say.
 
 [^912]: 306:3 Lâ<i>dh</i>e.
 
-[^913]: 307:1 Ahâga<i>d</i>a = yathâk<i>ri</i>ta; cf. [p. 131](Uttaradhyayana_24#p131), note [7](Uttaradhyayana_24#fn337), 1.
+[^913]: 307:1 Ahâga<i>d</i>a = yathâk<i>ri</i>ta; cf. [p. 131](../Uttaradhyayana_24#p131), note [7](../Uttaradhyayana_24#fn337), 1.
 
-[^914]: 308:1 This is, according to <i>S</i>îlâṅka, the meaning of the words arai<i>m</i> rai<i>m</i> vâ, see, however, above, [p. 111](Uttaradhyayana_21#p111), note [1](Uttaradhyayana_21#fn287).
+[^914]: 308:1 This is, according to <i>S</i>îlâṅka, the meaning of the words arai<i>m</i> rai<i>m</i> vâ, see, however, above, [p. 111](../Uttaradhyayana_21#p111), note [1](../Uttaradhyayana_21#fn287).
 
 [^915]: 308:2 See Uttarâdhyayana, Lecture XXXIV.
 

@@ -155,7 +155,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v2_6_2_1818"><sup><small>2:6:2:1818.</small></sup></span>  They then turn to the right about, and return (to the uttaravedi) without looking back. Having returned thither, they touch water; for they have been performing a ceremony relating to Rudra [^993], and water is (a means of) purification: with water, that (means of) purification, they accordingly purify themselves.
 
-<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span>  Thereupon he shaves his hair and beard, and takes up the fire (of the uttaravedi),—for only after changing his place (to the ordinary sacrificial ground) he performs the (Full-moon) sacrifice on that fire, since it is not proper that he should perform the <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra on the uttaravedi: for this reason he changes his place. Having gone to the house, and ‘churned out’ the fires [1](Book_1_2_6#fn994), he performs the Full-moon offering. The Seasonal offerings, doubtless, are detached sacrifices; whereas the Full-moon offering is a regular, established sacrifice: hence he finally establishes himself by means of that regular sacrifice, and therefore changes his place (to the ordinary sacrificial ground).
+<span id="v2_6_2_1919"><sup><small>2:6:2:1919.</small></sup></span>  Thereupon he shaves his hair and beard, and takes up the fire (of the uttaravedi),—for only after changing his place (to the ordinary sacrificial ground) he performs the (Full-moon) sacrifice on that fire, since it is not proper that he should perform the <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> Agnihotra on the uttaravedi: for this reason he changes his place. Having gone to the house, and ‘churned out’ the fires [1](../Book_1_2_6#fn994), he performs the Full-moon offering. The Seasonal offerings, doubtless, are detached sacrifices; whereas the Full-moon offering is a regular, established sacrifice: hence he finally establishes himself by means of that regular sacrifice, and therefore changes his place (to the ordinary sacrificial ground).
 
 
 <span id="v2_6_3"><sup><small>2:6:3</small></sup></span>
@@ -261,9 +261,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^949]: 422:1 Not thrice, as at an ordinary ish<i>t</i>i; see I, 1, 4, 23.
 
-[^950]: 422:2 Not towards the east, as at the Dar<i>s</i>apûr<i>n</i>amâsa; cf. [p. 38](Book_1_1_2#p38), note [3](Book_1_1_2#fn153). At offerings to the Manes the south, as a rule, takes the place of the east, the west that of the south, &c.
+[^950]: 422:2 Not towards the east, as at the Dar<i>s</i>apûr<i>n</i>amâsa; cf. [p. 38](../Book_1_1_2#p38), note [3](../Book_1_1_2#fn153). At offerings to the Manes the south, as a rule, takes the place of the east, the west that of the south, &c.
 
-[^951]: 422:3 At the conclusion of the Âptya ceremony (cf. I, 2, 2, 18-3, 5) he erects south of the (ordinary) Dakshi<i>n</i>a-fire a (quadrangular) shed (see further on, paragraph 20) with a door on the north side. Inside it he prepares a quadrangular altar (of the same size as at the Dar<i>s</i>apûr<i>n</i>amâsa; cf. I, 2, 5, 14) with the corners towards the intermediate quarters, in the centre of which he makes the (new) Dakshi<i>n</i>âgni hearth. \[According to Taitt. Br. I, 6, 8, 5-6 no digging takes place in preparing the altar (which is to be square) at the Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] When the Dakshi<i>n</i>a-fire is transferred to the new fire-place, the Pra<i>n</i>îtâ-water (see [p. 9](Book_1_1_1#p9), note) is carried after it, followed by the Brahman and Sacrificer, and placed east (not north) of the hearth. The laying down of the fire is preceded by the usual fivefold lustration of the hearth (see [p. 2](Book_1_1_1#p2)).
+[^951]: 422:3 At the conclusion of the Âptya ceremony (cf. I, 2, 2, 18-3, 5) he erects south of the (ordinary) Dakshi<i>n</i>a-fire a (quadrangular) shed (see further on, paragraph 20) with a door on the north side. Inside it he prepares a quadrangular altar (of the same size as at the Dar<i>s</i>apûr<i>n</i>amâsa; cf. I, 2, 5, 14) with the corners towards the intermediate quarters, in the centre of which he makes the (new) Dakshi<i>n</i>âgni hearth. \[According to Taitt. Br. I, 6, 8, 5-6 no digging takes place in preparing the altar (which is to be square) at the Pit<i>ri</i>ya<i>g</i><i>ñ</i>a.\] When the Dakshi<i>n</i>a-fire is transferred to the new fire-place, the Pra<i>n</i>îtâ-water (see [p. 9](../Book_1_1_1#p9), note) is carried after it, followed by the Brahman and Sacrificer, and placed east (not north) of the hearth. The laying down of the fire is preceded by the usual fivefold lustration of the hearth (see [p. 2](../Book_1_1_1#p2)).
 
 [^952]: 423:1 Instead of northwards, as is done at the normal ish<i>t</i>i; see I, 2, 4, 12 seq.
 
@@ -301,7 +301,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^969]: 427:5 See I, 5, 3, 1 seq.
 
-[^970]: 428:1 At the sacrifice to the Manes, the Âgnîdhra, when uttering his response, stands south of the Adhvaryu. See [p. 132](Book_1_1_5#p132), note. The first syllable of ‘svadhâ’ is protracted. According to the comm. on Kâty. V, 9, 12, the offering formulas also begin with ‘Yẽ svadhâmahe,’ instead of ‘Yẽ ya<i>g</i>âmahe’ (see I, 5, 2, 16 and note).
+[^970]: 428:1 At the sacrifice to the Manes, the Âgnîdhra, when uttering his response, stands south of the Adhvaryu. See [p. 132](../Book_1_1_5#p132), note. The first syllable of ‘svadhâ’ is protracted. According to the comm. on Kâty. V, 9, 12, the offering formulas also begin with ‘Yẽ svadhâmahe,’ instead of ‘Yẽ ya<i>g</i>âmahe’ (see I, 5, 2, 16 and note).
 
 [^971]: 428:2 I do not quite see the pertinency of the reason here alleged, unless it be that the author means to say that once (by the first p. 429 act) the fathers have departed, and by a second act they return hither. According to Â<i>s</i>val. II, 19, 22, the two invitatory prayers to the Pitara<i>h</i> Somavanta<i>h</i> are Rig-v. X, 15, 1; IX, 96, 11; to Soma Pit<i>ri</i>mat, Rig-v. I, 91, 1; 20; to the Pitaro Barhishada<i>h</i>, Rig-v. X, 15, 4; 3; to the Pitaro ’gnishvâttâ<i>h</i>, Rig-v. X, 15, 11; 13; \[to Yama X, 14, 4; 5.\]—The offering-prayers being respectively, Rig-v. X, 15, 5; VIII, 48, 13; X, 15, 2; X, 15, 14; \[X, 14, 1.\]
 
@@ -325,9 +325,9 @@ Somewhat different the Black Ya<i>g</i>us; viz. Soma Pit<i>ri</i>mat, anuvâkyâ
 
 [^980]: 435:1 The Kâ<i>n</i>va text has, ‘The reason why he moves thrice round, sprinkling from left to right, is that, after going after those three ancestors of his, he thereby leaves them, and returns to this, his own, world.’ See II, 6, I, 15.
 
-[^981]: 435:2 On the nîvi, or unwoven end of the waist-cloth (Hindi dhotî, Mahr. dhotar), which had to be passed under and tucked up behind, at the beginning of the present ceremony, see [p. 368](Book_1_2_4#p368), note [2](Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
+[^981]: 435:2 On the nîvi, or unwoven end of the waist-cloth (Hindi dhotî, Mahr. dhotar), which had to be passed under and tucked up behind, at the beginning of the present ceremony, see [p. 368](../Book_1_2_4#p368), note [2](../Book_1_2_4#fn819). Cf. Âpast. Dharmas. I, 2, 6, 19.
 
-[^982]: 435:3 For the six formulas used for this purpose, see [p. 368](Book_1_2_4#p368), note [2](Book_1_2_4#fn819).
+[^982]: 435:3 For the six formulas used for this purpose, see [p. 368](../Book_1_2_4#p368), note [2](../Book_1_2_4#fn819).
 
 [^983]: 436:1 See I, 8, 3, 1 seq.
 
@@ -345,7 +345,7 @@ Somewhat different the Black Ya<i>g</i>us; viz. Soma Pit<i>ri</i>mat, anuvâkyâ
 
 [^990]: 440:2 In Taitt. Br. I, 6, 10, 4, this sister of Rudra is identified with the autumn, wherewith the god is wont to kill (viz. by means of catarrh, fever, &c., Sây.). See also Weber, Ind. Stud. I, 183; Muir, Original Sanskrit Texts, vol. iv. p. 321.
 
-[^991]: 440:3 ‘Âkhûtkara;’ ‘âkhukarîsha,’ Kâ<i>n</i>va text. Possibly a mouse-hole, or the earth thrown up by a mouse, is meant. See [p. 278](Book_1_2_1#p278), note [3](Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2: ‘N.N. is thy victim,’ thus saying, let him indicate the one he (the Sacrificer) hates; thereby he delivers over to him (Rudra) the one he hates. If he hate no one, let him say, ‘the mole (mouse) is thy victim.’
+[^991]: 440:3 ‘Âkhûtkara;’ ‘âkhukarîsha,’ Kâ<i>n</i>va text. Possibly a mouse-hole, or the earth thrown up by a mouse, is meant. See [p. 278](../Book_1_2_1#p278), note [3](../Book_1_2_1#fn641). Cf. Taitt. Br. I, 6,10, 2: ‘N.N. is thy victim,’ thus saying, let him indicate the one he (the Sacrificer) hates; thereby he delivers over to him (Rudra) the one he hates. If he hate no one, let him say, ‘the mole (mouse) is thy victim.’
 
 [^992]: 440:4 ‘Thus he makes over to him only the mole as victim, and puts it into his mouth,’ Kâ<i>n</i>va text.
 
@@ -357,7 +357,7 @@ Somewhat different the Black Ya<i>g</i>us; viz. Soma Pit<i>ri</i>mat, anuvâkyâ
 
 [^996]: 443:2 According to Kâty. V, 10, 22, he mutters the word ‘skin-clad’ while steadying the two baskets.
 
-[^997]: 443:3 See [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84).
+[^997]: 443:3 See [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84).
 
 [^998]: 444:1 See II, 5, 2, 48.
 
@@ -381,7 +381,7 @@ Somewhat different the Black Ya<i>g</i>us; viz. Soma Pit<i>ri</i>mat, anuvâkyâ
 
 [^1008]: 449:1 Anîka (? ‘van-guard’), cf. V, 3, 1, 1 ‘senâyâ<i>h</i> senânîr anîkam:’ II, 5, 3, 2.
 
-[^1009]: 450:1 See [p. 448](Book_1_2_6#p448), note [1](Book_1_2_6#fn1003).
+[^1009]: 450:1 See [p. 448](../Book_1_2_6#p448), note [1](../Book_1_2_6#fn1003).
 
 [^1010]: 451:1 The Kâ<i>n</i>va text adds: And when he performs the <i>S</i>unâsîrîya, then he becomes Vâyu, and attains to union with Vâyu and to co-existence in his world.
 

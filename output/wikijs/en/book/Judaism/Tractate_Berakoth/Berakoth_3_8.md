@@ -221,15 +221,15 @@ V. 21. In the case of a heathen who says the Benediction in the Name (of the Loa
 
 [^416]: 68:4 _on the head of the attendan_t. So as not to waste it.
 
-[^417]: 68:5 _spices_. As the custom of burning spices at the close of meals (_M_. VI. 6, _supra_, [p. 48](Berakoth_3_6#p48)) “was intermitted on the sabbath, the bringing in of spices became associated with the end of the sabbath” (Abrahams on SA, p. 216).
+[^417]: 68:5 _spices_. As the custom of burning spices at the close of meals (_M_. VI. 6, _supra_, [p. 48](../Berakoth_3_6#p48)) “was intermitted on the sabbath, the bringing in of spices became associated with the end of the sabbath” (Abrahams on SA, p. 216).
 
-[^418]: 68:6 _Habdalah_, [p. 39](Berakoth_2_5#p39).
+[^418]: 68:6 _Habdalah_, [p. 39](../Berakoth_2_5#p39).
 
 [^419]: 69:1 _for a festival_. When a sabbath immediately precedes a festival.
 
 [^420]: 69:2 _Habdaloth_. The plural may refer to vanity in the Benedictions, or in the citations from Scripture, or to the enumeration of various “distinctions.”
 
-[^421]: 69:3 _Each . . for himself_. Perhaps because they are continually coming and going. Cf. _supra_, [p. 63](Berakoth_3_7#p63).
+[^421]: 69:3 _Each . . for himself_. Perhaps because they are continually coming and going. Cf. _supra_, [p. 63](../Berakoth_3_7#p63).
 
 [^422]: 70:1 _the lamp_. The word so translated here and in the following clause is _ma’ôr_ (Gen. 116), in the preceding mishna, _nêr_. But in _T_. _ma’ôr_ is used instead of _nêr_.
 
@@ -269,7 +269,7 @@ V. 21. In the case of a heathen who says the Benediction in the Name (of the Loa
 
 [^440]: 73:1 See _T_.
 
-[^441]: 73:2 See [p. 9](Berakoth_1_1#p9).
+[^441]: 73:2 See [p. 9](../Berakoth_1_1#p9).
 
 [^442]: 73:3 A heathen proselyte has learned the ordinary Jewish form. But a Samaritan may say something heretical.
 

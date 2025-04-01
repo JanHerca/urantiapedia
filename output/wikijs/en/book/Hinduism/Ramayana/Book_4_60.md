@@ -408,7 +408,7 @@ Or when she hears her darling's fate
 The queen will die disconsolate.’
 &nbsp;&nbsp;&nbsp;&nbsp;Thus Angad bade the chiefs adieu:
 Then on the ground his limbs he threw
-Where sacred Darbha  [1](Book_4_60#fn762) grass was spread,
+Where sacred Darbha  [1](../Book_4_60#fn762) grass was spread,
 And wept as every hope had fled.
 The moving words of Augad drew
 Down aged cheeks the piteous dew.
@@ -654,12 +654,12 @@ Up to the sixth the gay swans rise,
 
 <span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
-Where royal Vainateya  [1](Book_4_60#fn772) flies.
+Where royal Vainateya  [1](../Book_4_60#fn772) flies.
 We too, O chiefs, of vulture race,
 Our line from Vinatá may trace,
 Condemned, because we wrought a deed
 Of shame, on flesh and blood to feed.
-But all Suparna's  [2](Book_4_60#fn773) wondrous powers
+But all Suparna's  [2](../Book_4_60#fn773) wondrous powers
 And length of keenest sight are ours,
 That we a hundred leagues away
 Through fields of air descry our prey.
@@ -670,7 +670,7 @@ This barrier of the briny deep.
 Find the Videhan lady there,
 And joyous to your home repair.
 Me too, O Vánars. to the side
-Of Varun's  [3](Book_4_60#fn774) home the ocean, guide,
+Of Varun's  [3](../Book_4_60#fn774) home the ocean, guide,
 Where due libations shall be paid
 To my great-hearted brother's shade.’
 
@@ -710,7 +710,7 @@ He looked upon my ravenous eye,
 Heard my complaint and made reply:
 
 &nbsp;&nbsp;&nbsp;&nbsp;'Borne on swift wings ere day was light
-I stood upon Mahendra's  [1b](Book_4_60#fn775) height,
+I stood upon Mahendra's  [1b](../Book_4_60#fn775) height,
 And, far below, the sea I viewed
 And birds in countless multitude.
 Before mine eyes a giant flew
@@ -806,7 +806,7 @@ The rapid wings that cleft the air?
 Two vulture brothers once I knew:
 Each form at will could they endue.
 They of the vulture race were kings,
-And flew with Mátaris'va's  [1](Book_4_70#fn776) wings.
+And flew with Mátaris'va's  [1](../Book_4_70#fn776) wings.
 In human shape they loved to greet
 Their hermit friend, and clasp his feet,
 The younger was Jatáyus, thou

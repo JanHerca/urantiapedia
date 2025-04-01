@@ -123,9 +123,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^546]: 289:2 See I, 1, 2, 5.
 
-[^547]: 289:3 Sâya<i>n</i>a refers to Vâ<i>g</i>. S. XII, 31, ‘upwards may the All-gods bear thee . . .’ ([paragraph 9](Book_3_6_8#v6_8_1_9)) below, as a passage in point.
+[^547]: 289:3 Sâya<i>n</i>a refers to Vâ<i>g</i>. S. XII, 31, ‘upwards may the All-gods bear thee . . .’ ([paragraph 9](../Book_3_6_8#v6_8_1_9)) below, as a passage in point.
 
-[^548]: 291:1 See above, [VI, 7, 3, 2](Book_3_6_7#v6_7_3_2).
+[^548]: 291:1 See above, [VI, 7, 3, 2](../Book_3_6_7#v6_7_3_2).
 
 [^549]: 292:1 Mahîdhara, in accordance with Nigh. III, 18 (priest), explains ‘bharata’ as the one who brings (blear) offerings; and, with Sâya<i>n</i>a, identifies the Bharata with the Sacrificer.
 
@@ -133,10 +133,10 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^551]: 294:1 ‘Pra-sad’ (= pra-âp, Mahîdhara) seems here really to have the p. 295 meaning of ‘abhiprasad’ or ‘anuprasad,’ as the accusative can scarcely be taken along with ‘âsada<i>h</i>.’
 
-[^552]: 295:1 See [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^552]: 295:1 See [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
-[^553]: 296:1 Viz. the four cardinal points, and the four intermediate points, of the compass, and the upper region. To these paragraph [12](Book_3_6_8#v6_8_2_12) adds, as a tenth, the lower region.
+[^553]: 296:1 Viz. the four cardinal points, and the four intermediate points, of the compass, and the upper region. To these paragraph [12](../Book_3_6_8#v6_8_2_12) adds, as a tenth, the lower region.
 
-[^554]: 296:2 [VI, 6, 4, 10](Book_3_6_6#v6_6_4_10) seq.
+[^554]: 296:2 [VI, 6, 4, 10](../Book_3_6_6#v6_6_4_10) seq.
 
 [^555]: 297:1 That is, the wide-shining, or wide-ruling one.

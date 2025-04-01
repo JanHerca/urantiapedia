@@ -134,7 +134,7 @@ Thus I say.
 
 [^1195]: 406:1 <i>S</i>âstâra<i>h</i>, teachers, here those who reach perfection. The meaning is that the world would become empty if all beings should reach perfection. This should not he maintained, nor the opposite opinion, that some beings are qualified for Nirvâ<i>n</i>a and others not.
 
-[^1196]: 406:2 Ahâkammâ<i>n</i>i, see [p. 131](Uttaradhyayana_24#p131), note [7](Uttaradhyayana_24#fn337).
+[^1196]: 406:2 Ahâkammâ<i>n</i>i, see [p. 131](../Uttaradhyayana_24#p131), note [7](../Uttaradhyayana_24#fn337).
 
 [^1197]: 406:3 The <i>G</i>ainas assume that each individual possesses five bodies: (1) audârika, or the body that is seen; (2) kârma<i>n</i>a, receptacle of Karman, it is composed of Karman particles; (3) tai<i>g</i>asa, a body composed of particles of fire, it causes digestion; (4) âhâraka, a subtile body of the soul, with which he goes to distant places (e.g. when a <i>k</i>aturda<i>s</i>apûrvin goes to the Kêvalin to clear up some doubt); (5) vaikriya, a subtile body which can be changed at will. All these ‘bodies,’ except the first, are what in common language are called spirits or souls. We have here a Hindu counterpart of the belief in the plurality of souls shared p. 407 by many ancient and modern nations. Compare the following verses quoted in Tylor, Origin of Culture, Chapter XI:
 

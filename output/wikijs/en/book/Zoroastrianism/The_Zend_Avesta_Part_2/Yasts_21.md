@@ -106,10 +106,10 @@ What is the only word in which is contained the glorification of all good things
 
 [^1392]: 311:1 Asha: the Ashem Vohû.
 
-[^1393]: 312:1 A hundred times the formula: ‘Be propitiation (khshnaothra) unto N. . . ., the holy and master of holiness’ (cf. [p. 1](Preliminary#p1), note [2](Preliminary#fn3)).
+[^1393]: 312:1 A hundred times the formula: ‘Be propitiation (khshnaothra) unto N. . . ., the holy and master of holiness’ (cf. [p. 1](../Preliminary#p1), note [2](../Preliminary#fn3)).
 
 [^1394]: 312:2 Eating or drinking (see Vendîdâd, Introd. IV, 33).
 
-[^1395]: 313:1 See [p. 123](Yasts_10#p123), note [5](Yasts_10#fn575).
+[^1395]: 313:1 See [p. 123](../Yasts_10#p123), note [5](../Yasts_10#fn575).
 
 [^1396]: 313:2 In a conversion, or in the recital of the penitential prayers.

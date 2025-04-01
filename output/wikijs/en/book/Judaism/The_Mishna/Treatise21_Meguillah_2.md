@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^587]: 184:2 Who read on the 14th of Adar.
 
-[^588]: 184:3 Who read on the 15th. For the legal meaning of open and of anciently walled towns, see our 3rd note, page [180](Treatise13_Erubin_Intro#p180).
+[^588]: 184:3 Who read on the 15th. For the legal meaning of open and of anciently walled towns, see our 3rd note, page [180](../Treatise13_Erubin_Intro#p180).
 
 [^589]: 185:4 This is explained in Treatise Niddah.
 

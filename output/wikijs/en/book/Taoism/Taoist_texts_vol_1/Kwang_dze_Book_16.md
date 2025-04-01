@@ -88,7 +88,7 @@ What was anciently called ‘the Attainment of the Aim’ did not mean the getti
 
 ## Footnotes
 
-[^609]: 368:1 See pp. [147](Kwang_dze_Intro#p147), [148](Kwang_dze_Intro#p148).
+[^609]: 368:1 See pp. [147](../Kwang_dze_Intro#p147), [148](../Kwang_dze_Intro#p148).
 
 [^610]: 368:2 ‘Vulgar’ must mean ‘common,’ and ‘the vulgar learning’ is the teaching popular in the time of our author, and which he regarded as contrary to the principles of Tâoism, of which he was an adherent. The Chinese critics say that ‘vulgar’ here is used as the opposite of ‘true.’
 

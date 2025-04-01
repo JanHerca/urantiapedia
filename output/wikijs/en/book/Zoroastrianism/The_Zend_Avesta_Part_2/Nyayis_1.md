@@ -211,7 +211,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1573]: 350:3 The Ashem Vohû.
 
-[^1574]: 350:4 See [p. 22](Yasts_1#p22).
+[^1574]: 350:4 See [p. 22](../Yasts_1#p22).
 
 [^1575]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
 
@@ -239,4 +239,4 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1588]: 353:2 Rivers considered as Ahura's wives (cf. Ormazd et Ahriman, § 32).
 
-[^1589]: 353:3 From Yasna LXVIII, 10 (LXVII, 30); cf. [p. 34](Yasts_1#p34).
+[^1589]: 353:3 From Yasna LXVIII, 10 (LXVII, 30); cf. [p. 34](../Yasts_1#p34).

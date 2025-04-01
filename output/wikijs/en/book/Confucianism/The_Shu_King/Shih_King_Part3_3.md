@@ -288,7 +288,7 @@ Heaven sends down its net of crime;—Devouring insects, who weary and confuse m
 
 [^596]: 421:1 Equivalent to the extinction of the dynasty.
 
-[^597]: 421:2 The king had sacrificed to all the early lords of <i>K</i>âu. ‘The many dukes’ may comprehend kings Thâi and <i>K</i>î. He had also sacrificed to their ministers. Compare what Pan-kăng says in the Shû, [p. 109](Shu_King_Part4_7#p109), about his predecessors and their ministers. Some take ‘the many dukes, and the ministers,’ of all princes of states who had signalised themselves by services to the people and kingdom.
+[^597]: 421:2 The king had sacrificed to all the early lords of <i>K</i>âu. ‘The many dukes’ may comprehend kings Thâi and <i>K</i>î. He had also sacrificed to their ministers. Compare what Pan-kăng says in the Shû, [p. 109](../Shu_King_Part4_7#p109), about his predecessors and their ministers. Some take ‘the many dukes, and the ministers,’ of all princes of states who had signalised themselves by services to the people and kingdom.
 
 [^598]: 421:3 The king could hardly hope that his father, the oppressive Lî, would in his spirit-state give him any aid; but we need only find in his words the expression of natural feeling. Probably it was the consideration of the character of Lî which has made some critics understand by ‘parents’ and ‘ancestors’ the same individuals, namely, kings Wăn and Wû, ‘the ancestors’ of Hsüan, and who had truly been ‘the parents’ of the people.
 
@@ -298,9 +298,9 @@ Heaven sends down its net of crime;—Devouring insects, who weary and confuse m
 
 [^601]: 422:2 This was the border sacrifice to God, when Hâu-_k_î was associated with him. Some critics add a sacrifice in the first month of winter, for a blessing on the ensuing year, offered to ‘the honoured ones of heaven,’—the sun, moon, and zodiacal constellations.
 
-[^602]: 422:3 See note 2 on [p. 371](Shih_King_Part2_4#p371).
+[^602]: 422:3 See note 2 on [p. 371](../Shih_King_Part2_4#p371).
 
-[^603]: 422:4 See note 1 on [p. 356](Shih_King_Part2_2#p356).
+[^603]: 422:4 See note 1 on [p. 356](../Shih_King_Part2_2#p356).
 
 [^604]: 423:1 Shăn was a small marquisate, a part of what is the present department of Nan-yang, Ho-nan. Fû, which was also called Lü, was another small territory, not far from Shan. The princes of both were <i>K</i>iangs, descended from the chief minister of Yâo, called in the first Book of the Shû, ‘the Four Mountains.’ Other states were ruled by his descendants, particularly the great state of <i>Kh</i>î. When it is said here that a spirit was sent down from the great mountains, and produced the birth of (the princes of) Fû and Shăn, we have, probably, a legendary tradition concerning the birth of Yâo's minister, which was current among all his descendants; and with which we may compare the legends that have come under our notice about the supernatural births of the ancestors of the founders of the Houses of Shang and <i>K</i>âu. The character for p. 424 ‘mountains’ in lines 1 and 3 is the same that occurs in the title of Yâo's minister. On the statement about the mountains sending 'down a spirit, Hwang Hsün, a critic of the Sung dynasty, says that it is merely a personification of the poet, to show how high Heaven had a mind to revive the fortunes of <i>K</i>âu, and that we need not trouble ourselves about whether there was such a spirit or not!
 
@@ -314,11 +314,11 @@ Heaven sends down its net of crime;—Devouring insects, who weary and confuse m
 
 [^609]: 425:2 The connexion between these four lines and those that precede is this:—that while Heaven produces all men with the good nature there described, on occasions it produces others with virtue and powers in a super-eminent degree. Such an occasion was presented by the case of king Hsüan, and therefore, to mark its appreciation of him, and for his help,, it now produced <i>K</i>ung Shan-fû.
 
-[^610]: 425:3 This was a special sacrifice at the commencement of a journey, or of an expedition. See note 2 on [p. 399](Shih_King_Part3_2#p399).
+[^610]: 425:3 This was a special sacrifice at the commencement of a journey, or of an expedition. See note 2 on [p. 399](../Shih_King_Part3_2#p399).
 
-[^611]: 427:1 See note 2 on [p. 386](Shih_King_Part3_1#p386).
+[^611]: 427:1 See note 2 on [p. 386](../Shih_King_Part3_1#p386).
 
-[^612]: 427:2 The cup and the spirits would be used by the earl when sacrificing in his ancestral temple. Compare the similar gift from king <i>Kh</i>ăng to the duke of <i>K</i>âu, in the Shû, [p. 194](Shu_King_Part5_13#p194). More substantial gifts are immediately specified.
+[^612]: 427:2 The cup and the spirits would be used by the earl when sacrificing in his ancestral temple. Compare the similar gift from king <i>Kh</i>ăng to the duke of <i>K</i>âu, in the Shû, [p. 194](../Shu_King_Part5_13#p194). More substantial gifts are immediately specified.
 
 [^613]: 427:3 ‘The Accomplished one’ is understood to be king Wăn (= ‘the Accomplished king’). He was the founder of the <i>K</i>âu dynasty. To him the kingdom had first come by the appointment and gift of Heaven. It was the duty therefore of his successors, in making grants of territory to meritorious officers, to announce them to him in <i>Kh</i>î-_k_âu, the old territory of the family, and obtain, as it were, his leave for what they were doing.
 

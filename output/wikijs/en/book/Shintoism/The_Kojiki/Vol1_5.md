@@ -110,7 +110,7 @@ Hereupon the two Deities took counsel, saying: “The children to whom we have n
 
 ## Footnotes
 
-[^125]: 15:1 p. 15 For this rendering of the Japanese word _kami_ see Introduction, pp. [xvii](kj003.htm#pxvii)\-xviii.
+[^125]: 15:1 p. 15 For this rendering of the Japanese word _kami_ see Introduction, pp. [xvii](../kj003.htm#pxvii)\-xviii.
 
 [^126]: 15:2 Literally, “that became” ( ![](/image/book/Shintoism/The_Kojiki/01500.jpg)). Such “becoming” is concisely defined by Motowori as “the birth of that which did not exist before.”
 
@@ -126,7 +126,7 @@ Hereupon the two Deities took counsel, saying: “The children to whom we have n
 
 [^132]: 15:8 Here and elsewhere the character ![](/image/book/Shintoism/The_Kojiki/01600.jpg), properly “country” (_regio_), is used where “earth” (_tellus_) better suits the sense. Apparently in the old language the word _kuni_ (written ![](/image/book/Shintoism/The_Kojiki/01601.jpg)), which is now restricted to the former meaning, was used ambiguously somewhat like our word “land.”
 
-[^133]: 15:9 _Umashi-ashi-kabi-hiko-ji-no-kami._ For _hiko_ here and elsewhere rendered “prince” see Introduction [p. xvi](kj002.htm#pxvi); _ji_ is rendered “elder” in accordance with the opinion expressed by Motowori and Hirata, who say that it is “an Honorific designation of males identical with the _ji_ meaning old man.”
+[^133]: 15:9 _Umashi-ashi-kabi-hiko-ji-no-kami._ For _hiko_ here and elsewhere rendered “prince” see Introduction [p. xvi](../kj002.htm#pxvi); _ji_ is rendered “elder” in accordance with the opinion expressed by Motowori and Hirata, who say that it is “an Honorific designation of males identical with the _ji_ meaning old man.”
 
 [^134]: 15:10 Or, the Deity-Standing-Eternally-in-Heaven, _Ame-no-toko-tachi-no-kami_. The translation of the name here given follows the natural meaning of the characters composing it, and has the sanction of Tanigaha Shisai. Motowori and Hirata take _toko_ to stand for _soko_, “bottom,” and interpret accordingly; but this is probably but one of the many instances in which the Japanese philologists allow themselves to be led by the boldness of their etymological speculations into identifying words radically distinct.
 

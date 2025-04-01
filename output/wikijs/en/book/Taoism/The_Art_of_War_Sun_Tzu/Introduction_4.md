@@ -69,7 +69,7 @@ Chu Hsi, commenting on this, fully admits the first part of the criticism, altho
 
 ## Footnotes
 
-[^115]: xlii:2 _See_ [p. 144](11#p144).
+[^115]: xlii:2 _See_ [p. 144](../11#p144).
 
 [^116]: xlii:3 _Hou Han Shu_, ch. 17 _ad init_.
 

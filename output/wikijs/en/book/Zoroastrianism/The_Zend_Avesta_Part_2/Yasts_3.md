@@ -245,6 +245,6 @@ We sacrifice unto the good Saoka, with eyes of love, made by Mazda and holy.’
 
 [^259]: 48:1 Cf. Sîrôzah I, 2.
 
-[^260]: 48:2 As above, [p. 22](Yasts_1#p22).
+[^260]: 48:2 As above, [p. 22](../Yasts_1#p22).
 
 [^261]: 48:3 Who shall offer a sacrifice to Asha-Vahi<i>s</i>ta; cf. Yt. I, 33 and notes.

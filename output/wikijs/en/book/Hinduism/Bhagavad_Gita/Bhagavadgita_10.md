@@ -70,7 +70,7 @@ Well then, O best of Kauravas! I will state to you my own divine emanations; but
 
 ## Footnotes
 
-[^342]: 86:1 Cf. [p. 79](Bhagavadgita_8#p79) supra.
+[^342]: 86:1 Cf. [p. 79](../Bhagavadgita_8#p79) supra.
 
 [^343]: 86:2 As referring to the supreme soul.
 
@@ -90,7 +90,7 @@ Well then, O best of Kauravas! I will state to you my own divine emanations; but
 
 [^351]: 88:1 To know you fully being impossible, what special manifestation of you should we resort to for our meditations?
 
-[^352]: 88:2 P. [129](Bhagavadgita_18#p129) infra.
+[^352]: 88:2 P. [129](../Bhagavadgita_18#p129) infra.
 
 [^353]: 88:3 ‘Âditya is used in the Veda chiefly as a general epithet for a number of solar deities.’ Max Müller, Hibbert Lectures, p. 264.
 
@@ -110,7 +110,7 @@ Well then, O best of Kauravas! I will state to you my own divine emanations; but
 
 [^361]: 89:1 Cf. Sutta Nipâta, p. 121.
 
-[^362]: 89:2 Vide [p. 79](Bhagavadgita_8#p79) supra.
+[^362]: 89:2 Vide [p. 79](../Bhagavadgita_8#p79) supra.
 
 [^363]: 89:3 <i>G</i>apa is the silent meditation. Madhusûdana says it is superior owing to its not involving the slaughter of any animal, &c.
 
@@ -122,7 +122,7 @@ Well then, O best of Kauravas! I will state to you my own divine emanations; but
 
 [^367]: 89:7 Cf. Sutta Nipâta, p. 121.
 
-[^368]: 89:8 I. e. not the merely carnal passion. Cf. [p. 74](Bhagavadgita_7#p74) supra.
+[^368]: 89:8 I. e. not the merely carnal passion. Cf. [p. 74](../Bhagavadgita_7#p74) supra.
 
 [^369]: 89:9 Nâgas are without poison, says <i>S</i>rîdhara. Varuna is the sea-god.
 
@@ -134,7 +134,7 @@ Well then, O best of Kauravas! I will state to you my own divine emanations; but
 
 [^373]: 90:2 ‘Those who have the capacity of motion,’ says Râmânu<i>g</i>a.
 
-[^374]: 90:3 The hero of the Hindu epos, Râmâyana, translated into verse by Mr. R. T. H. [Griffith](errata.htm#0).
+[^374]: 90:3 The hero of the Hindu epos, Râmâyana, translated into verse by Mr. R. T. H. [Griffith](../errata.htm#0).
 
 [^375]: 90:4 The dolphin.
 

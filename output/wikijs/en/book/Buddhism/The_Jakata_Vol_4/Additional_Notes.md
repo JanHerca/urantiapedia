@@ -38,19 +38,19 @@ dateCreated: 2025-2-5T20:17:1Z
 
 ## VOLUME II.
 
-[9](441#p9) No. 154, line 3. Fick _(Sociale Gliederung zu Buddha's Zeit)_ would render _seṇibandham_ a “guild quarrel.”
+[9](../441#p9) No. 154, line 3. Fick _(Sociale Gliederung zu Buddha's Zeit)_ would render _seṇibandham_ a “guild quarrel.”
 
-[12](442#p12) At a sneeze, a Hindu in the N. W. Provinces will still say, “May you live a hundred years.” _North Indian Notes and Queries,_ iv. 388.
+[12](../442#p12) At a sneeze, a Hindu in the N. W. Provinces will still say, “May you live a hundred years.” _North Indian Notes and Queries,_ iv. 388.
 
-[104](466#p104) For the first stanza compare Dhammapada, p. 146.
+[104](../466#p104) For the first stanza compare Dhammapada, p. 146.
 
-[167](483#p167) For the second and third stanzas compare Dhammapada, p. 149.
+[167](../483#p167) For the second and third stanzas compare Dhammapada, p. 149.
 
-[207](490#p207) A Russian variant of the Gāmaṇicaṇḍa Birth is given in Prof. S. Oldenburg's Review of volume I. of the present translation: (Журналъ Министерства Народнаго Просвѣщенія) 1896, pp. 47 foll.
+[207](../490#p207) A Russian variant of the Gāmaṇicaṇḍa Birth is given in Prof. S. Oldenburg's Review of volume I. of the present translation: (Журналъ Министерства Народнаго Просвѣщенія) 1896, pp. 47 foll.
 
-[251](499#p251) I have to thank Fick (_Soc. Glied._ p. 87 note) for a correction of the list of righteous persons, which should run thus; “…younger brother (who was) viceroy, brahmin family priest, courtier-charioteer, treasurer, noble master of the granaries, porter, slave-girl courtesan.”
+[251](../499#p251) I have to thank Fick (_Soc. Glied._ p. 87 note) for a correction of the list of righteous persons, which should run thus; “…younger brother (who was) viceroy, brahmin family priest, courtier-charioteer, treasurer, noble master of the granaries, porter, slave-girl courtesan.”
 
-[257](500#p257) Fick explains the _rajjugāhakaamacco_ as a kind of royal surveyor for tax purposes, which suits the context.
+[257](../500#p257) Fick explains the _rajjugāhakaamacco_ as a kind of royal surveyor for tax purposes, which suits the context.
 
 The _rajju_ will be his chain, symbol of office (_Soc. Glied._ 7 note).
 

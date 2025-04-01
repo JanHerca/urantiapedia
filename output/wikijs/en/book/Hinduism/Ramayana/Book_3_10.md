@@ -508,7 +508,7 @@ And freedom from the peril won,
 Then in the boundless wood they strayed,
 
 Like the great sun and moon displayed
-&nbsp;&nbsp;&nbsp;&nbsp;Triumphant in the sky. [1](Book_3_10#fn410)
+&nbsp;&nbsp;&nbsp;&nbsp;Triumphant in the sky. [1](../Book_3_10#fn410)
 
 &nbsp;&nbsp;&nbsp;&nbsp;\* \* \* \* \*
 

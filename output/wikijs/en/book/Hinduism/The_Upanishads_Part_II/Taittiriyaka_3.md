@@ -90,13 +90,13 @@ He performed penance. Having performed penance—
 
 He perceived that bliss is Brahman, for from bliss these beings are born; by bliss, when born, they live; into bliss they enter at their death.
 
-This is the knowledge of Bh<i>ri</i>gu and Varu<i>n</i>a [1](Taittiriyaka_3#fn237), exalted in the highest heaven (in the heart). He who knows this becomes exalted, becomes rich in food, and able to eat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
+This is the knowledge of Bh<i>ri</i>gu and Varu<i>n</i>a [1](../Taittiriyaka_3#fn237), exalted in the highest heaven (in the heart). He who knows this becomes exalted, becomes rich in food, and able to eat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
 
 ## SEVENTH ANUVÂKA.
 
 Let him never abuse food, that is the rule.
 
-Breath is food [2](Taittiriyaka_3#fn238), the body eats the food. The body rests on breath, breath rests on the body. This is the food resting on food. He who knows this food resting on food [3](Taittiriyaka_3#fn239), rests exalted, becomes rich in food, and able to cat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
+Breath is food [2](../Taittiriyaka_3#fn238), the body eats the food. The body rests on breath, breath rests on the body. This is the food resting on food. He who knows this food resting on food [3](../Taittiriyaka_3#fn239), rests exalted, becomes rich in food, and able to cat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
 
 ## EIGHTH ANUVÂKA.
 

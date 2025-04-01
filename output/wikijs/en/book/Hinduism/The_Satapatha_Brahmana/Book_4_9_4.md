@@ -162,7 +162,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v9_4_3_1414"><sup><small>9:4:3:1414.</small></sup></span>  There are eight (such deities),—the Gâyatrî consists of eight syllables, and Agni is of Gâyatra nature: as great as Agni is, as great as is his measure, by so much food he thus gratifies him.
 
-<span id="v9_4_3_1515"><sup><small>9:4:3:1515.</small></sup></span>  As to this they say,—He ought not to offer (any of) these oblations, lest he should do what is excessive. Let him nevertheless offer them; for these oblations are offered for (the obtainment of special) wishes, and in wishes there is nothing excessive. And whatsoever oblation he offers after the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a (the cake-offering connected with the animal sacrifice), that is placed inside the animal victim itself as its sacrificial sap [^425]. He offers both kinds (of oblations), those of the Soma-sacrifice and those of the fire-altar (or Agni<i>k</i>ayana), first those of the <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> Soma-sacrifice, and afterwards those of the fire-altar the purport of this has been explained. In a loud voice [^426] the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a offering (is performed), in a low voice these (additional oblations), for they are an ish<i>t</i>i [^427]. With the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a he (the Adhvaryu) says, ‘Recite!—Urge!’ and with these (oblations), ‘Recite!—Worship [^428]’ for they are an ish<i>t</i>i. There is the same Svish<i>t</i>ak<i>ri</i>t and the same i<i>d</i>â [^429] (for these oblations). The (Devasû) deities have received offering, and the Svish<i>t</i>ak<i>ri</i>t (of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a) has not yet been attended to [^430],— <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 9:4:3:1616\. He then touches it (the fire-altar) with (the formula of) the preliminary consecration (Vâ<i>g</i>. S. IX, 39. 40), ‘May Savit<i>ri</i> quicken thee for (powers of) quickening [1](Book_4_9_4#fn431)! . . . This (man), O ye (people), is your king; Soma is the king of us Brâhma<i>n</i>as!’—he thereby excludes the Brâhma<i>n</i>as (from the power of the king) and makes them such as are not to be fed upon (by the king).
+<span id="v9_4_3_1515"><sup><small>9:4:3:1515.</small></sup></span>  As to this they say,—He ought not to offer (any of) these oblations, lest he should do what is excessive. Let him nevertheless offer them; for these oblations are offered for (the obtainment of special) wishes, and in wishes there is nothing excessive. And whatsoever oblation he offers after the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a (the cake-offering connected with the animal sacrifice), that is placed inside the animal victim itself as its sacrificial sap [^425]. He offers both kinds (of oblations), those of the Soma-sacrifice and those of the fire-altar (or Agni<i>k</i>ayana), first those of the <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> Soma-sacrifice, and afterwards those of the fire-altar the purport of this has been explained. In a loud voice [^426] the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a offering (is performed), in a low voice these (additional oblations), for they are an ish<i>t</i>i [^427]. With the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a he (the Adhvaryu) says, ‘Recite!—Urge!’ and with these (oblations), ‘Recite!—Worship [^428]’ for they are an ish<i>t</i>i. There is the same Svish<i>t</i>ak<i>ri</i>t and the same i<i>d</i>â [^429] (for these oblations). The (Devasû) deities have received offering, and the Svish<i>t</i>ak<i>ri</i>t (of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a) has not yet been attended to [^430],— <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 9:4:3:1616\. He then touches it (the fire-altar) with (the formula of) the preliminary consecration (Vâ<i>g</i>. S. IX, 39. 40), ‘May Savit<i>ri</i> quicken thee for (powers of) quickening [1](../Book_4_9_4#fn431)! . . . This (man), O ye (people), is your king; Soma is the king of us Brâhma<i>n</i>as!’—he thereby excludes the Brâhma<i>n</i>as (from the power of the king) and makes them such as are not to be fed upon (by the king).
 
 
 ## FOURTH BRÂHMA<i>N</i>A.
@@ -231,7 +231,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^395]: 230:1 This is apparently intended as an etymological explanation of the two names; Apsaras being taken as derived from ‘apsas,’ in the sense of ‘beauty.’ Cf. Weber, Ind. Stud. XIII, p. 135, note 3.
 
-[^396]: 230:2 Or, perhaps, ‘he places the male above (the female) in respect of power;’ see [p. 133](Book_4_8_7#p133), note [1](Book_4_8_7#fn237).
+[^396]: 230:2 Or, perhaps, ‘he places the male above (the female) in respect of power;’ see [p. 133](../Book_4_8_7#p133), note [1](../Book_4_8_7#fn237).
 
 [^397]: 231:1 In accordance with the preceding paragraph, that part of the formula which relates to the male deity, viz. ‘The law-upholding, law-abiding Agni is the Gandharva—may he protect this our priesthood and nobility: to him Svâhâ! Vâ<i>t</i>!’ is to be uttered first, and the first oblation to be offered at the call ‘Vâ<i>t</i>,’ i.e. Vasha<i>t</i>, ‘may he (Agni) carry it (to the gods)!’ Then that part relating to the female deities is uttered, after which the second oblation is offered. In the same way the other five formulas are to be treated. See Mahîdhara's remarks on the present formula.
 
@@ -241,7 +241,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^400]: 232:2 The real meaning of bhu<i>g</i>yu in this passage is very doubtful; while it usually means ‘flexible,’ the St. Petersburg Dictionary here tentatively assigns to it the meaning ‘adder.’ Whether the author of the Brâhma<i>n</i>a really connects it with ‘bhu<i>g</i> (bhunakti),’ ‘to enjoy, benefit’ (instead of with ‘bhu<i>g</i>,’ ‘to bend’); or whether the explanation is merely meant as an etymological play of words, is not clear. Mahîdhara indeed derives it from the former root, in the sense of ‘to protect.’ The order of the words ‘ya<i>g</i><i>ñ</i>o vai bhu<i>g</i>yu<i>h</i>’ would properly require to be rendered by—The ‘bhu<i>g</i>yu’ doubtless is the sacrifice.
 
-[^401]: 233:1 The construction of the text (occurring again at [IX, 4, 4, 8](Book_4_9_4#v9_4_4_8)) is rather irregular.
+[^401]: 233:1 The construction of the text (occurring again at [IX, 4, 4, 8](../Book_4_9_4#v9_4_4_8)) is rather irregular.
 
 [^402]: 234:1 The body (or ‘nest,’ seat-part) of the chariot is shifted sunwise round the fire on the great altar, so that the fore-part keeps over the fire where the Adhvaryu's assistant holds it, and in each of the four directions, as well as in the centre of the fire, the Adhvaryu offers a libation of ghee, whilst facing the chariot-head. According to a comment on the respective rules (Kâty. XVIII, 5, 17-20) alluded to by Prof. Weber (Ind. Stud. XIII, p. 286), the fore-part of the chariot would, however, seem to be taken off the seat-part; the latter being carried round the fire as the oblations are made.
 
@@ -261,19 +261,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^411]: 239:1 That is, the joining together of the fire and the horse-sacrifice.
 
-[^412]: 240:1 Or, location, proper place; cf. [p. 138](Book_4_8_7#p138), note [1](Book_4_8_7#fn245).
+[^412]: 240:1 Or, location, proper place; cf. [p. 138](../Book_4_8_7#p138), note [1](../Book_4_8_7#fn245).
 
 [^413]: 241:1 A Soma-sacrifice being about to be performed on the newly erected fire-altar, now properly consecrated, all the necessary preparatory business and ceremonial enjoined for such a sacrifice have now to be gone through in the way detailed in part ii of this translation. The author here only alludes to those points in the Soma-ritual in regard to which the present performance offers any special feature either additional to, or modificatory of, the ordinary ceremonial. The construction of the Dhish<i>n</i>yas, or fire-hearths of the different priests (for which see part ii, p. 148, note 4), is one of these points.
 
-[^414]: 242:1 See [p. 132](Book_4_8_7#p132), note [2](Book_4_8_7#fn235).
+[^414]: 242:1 See [p. 132](../Book_4_8_7#p132), note [2](../Book_4_8_7#fn235).
 
 [^415]: 242:2 There are eight dhish<i>n</i>ya-hearths at the Soma-sacrifice, two of which, the Âgnîdhrîya and Mâr<i>g</i>âlîya, were raised north and south of the cart-shed (havirdhâna), whilst the others (viz. those of the Hot<i>ri</i>, &c.) were raised inside the Sadas along its eastern side. They were merely mounds of earth covered with sand, whilst the additional hearths (of the fire-altar) now to be erected are partly built of bricks.
 
 [^416]: 243:1 See VII, 1, 1, 21 seq., where the way in which the bricks of the Gârhapatya hearth are laid down is described in detail.
 
-[^417]: 243:2 When Agni was led forwards from the Gârhapatya to be installed on his newly built altar, as the Âhavanîya or offering fire, a variegated stone, meant to represent the sun, was deposited near the place (on the northern edge of the Vedi) where the Âgnîdhra shed and hearth would afterwards have to be erected; see [IX, 2, 3, 14](Book_4_9_2#v9_2_3_14)\-[19](Book_4_9_2#v9_2_3_19).
+[^417]: 243:2 When Agni was led forwards from the Gârhapatya to be installed on his newly built altar, as the Âhavanîya or offering fire, a variegated stone, meant to represent the sun, was deposited near the place (on the northern edge of the Vedi) where the Âgnîdhra shed and hearth would afterwards have to be erected; see [IX, 2, 3, 14](../Book_4_9_2#v9_2_3_14)\-[19](../Book_4_9_2#v9_2_3_19).
 
-[^418]: 243:3 That is, including the central one, the outlet of which is the navel; cf. [VIII, 1, 3, 10](Book_4_8_1#v8_1_3_10).
+[^418]: 243:3 That is, including the central one, the outlet of which is the navel; cf. [VIII, 1, 3, 10](../Book_4_8_1#v8_1_3_10).
 
 [^419]: 243:4 The numbers of bricks and enclosing-stones are the same as for the Gârhapatya hearth, for which (with their symbolic meaning) see VII, I, I, 32-35.
 
@@ -285,11 +285,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^423]: 244:4 Viz. inasmuch as the fire-altar and the Âhavanîya fire on it, as p. 245 well as the dug-in circle of enclosing-stones, are identified with the ruling power; whilst the dhish<i>n</i>yas as well as the circles of stones lying loosely around them represent the clan.
 
-[^424]: 245:1 This is not clear to me: whilst there are 395 such bricks with special formulas in the five layers of the great altar, it is enclosed by only 261 pari<i>s</i>rits; see [p. 158](Book_4_9_1#p158), note [1](Book_4_9_1#fn264). Besides there are no ‘ya<i>g</i>ushmatî’ bricks in these hearths, but only ‘lokamp<i>ri</i><i>n</i>âs’; one would therefore expect ‘ish<i>t</i>akâs’ (bricks) for ‘ya<i>g</i>ushmatyas’ the first time (cf. comm. on Kâty. <i>S</i>r. XVIII, 7, 13). The Hot<i>ri</i>'s hearth contains twenty-one bricks, the Brâhma<i>n</i>â<i>k</i>_kh<i>a</i>m_sin's eleven, the Mâr<i>g</i>âlîya six, and the others eight bricks; and in each case the common formula, ‘Lokam p<i>ri</i><i>n</i>a, &c,’ (see [VIII, 7, 2, 6](Book_4_8_7#v8_7_2_6)), is pronounced once after every ten bricks, and after any odd bricks remaining over at the end. Cf. Kâty. <i>S</i>r. XVIII, 6, 8 seq.
+[^424]: 245:1 This is not clear to me: whilst there are 395 such bricks with special formulas in the five layers of the great altar, it is enclosed by only 261 pari<i>s</i>rits; see [p. 158](../Book_4_9_1#p158), note [1](../Book_4_9_1#fn264). Besides there are no ‘ya<i>g</i>ushmatî’ bricks in these hearths, but only ‘lokamp<i>ri</i><i>n</i>âs’; one would therefore expect ‘ish<i>t</i>akâs’ (bricks) for ‘ya<i>g</i>ushmatyas’ the first time (cf. comm. on Kâty. <i>S</i>r. XVIII, 7, 13). The Hot<i>ri</i>'s hearth contains twenty-one bricks, the Brâhma<i>n</i>â<i>k</i>_kh<i>a</i>m_sin's eleven, the Mâr<i>g</i>âlîya six, and the others eight bricks; and in each case the common formula, ‘Lokam p<i>ri</i><i>n</i>a, &c,’ (see [VIII, 7, 2, 6](../Book_4_8_7#v8_7_2_6)), is pronounced once after every ten bricks, and after any odd bricks remaining over at the end. Cf. Kâty. <i>S</i>r. XVIII, 6, 8 seq.
 
-[^425]: 245:2 See [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^425]: 245:2 See [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.
 
-[^426]: 245:3 He does not use any such formula as that used in covering each layer of the great altar with earth; see [VIII, 7, 3, 7](Book_4_8_7#v8_7_3_7).
+[^426]: 245:3 He does not use any such formula as that used in covering each layer of the great altar with earth; see [VIII, 7, 3, 7](../Book_4_8_7#v8_7_3_7).
 
 [^427]: 245:4 See part ii, p. 199, note 2 (where the reference at the end should be to IV, 2, 5, 22).
 
@@ -311,7 +311,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^436]: 248:4 For the Svish<i>t</i>ak<i>ri</i>t, or oblation to Agni, ‘the maker of good offering,’ offered after the chief oblations, see I, 7, 3, 1 seq.; for the i<i>d</i>â-oblation (and invocation of I<i>d</i>â), I, 8, 1, 1 seq.
 
-[^437]: 248:5 The tentative meaning assigned to ‘asamavahitam,’ ‘not in immediate connection with (the Svish<i>t</i>ak<i>ri</i>t),’ can scarcely be right. The clause seems simply to mean that the (pûrvâbhisheka) touching p. 249 of the altar is to take place, as in the case of the (preliminary) consecration at the Râ<i>g</i>asûya, immediately after the oblations to the Divine Quickeners, and before the Svish<i>t</i>ak<i>ri</i>t oblation of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a has been performed. See V, 3, 3, 50, where a somewhat similar expression is used. One might have some doubt as to whether, both here and at the Râ<i>g</i>asûya, there is any Svish<i>t</i>ak<i>ri</i>t at all to these Devasû-havî<i>m</i>shi, or whether the statement, ‘There is the same svish<i>t</i>ak<i>ri</i>t and the same i<i>d</i>â,’ applies not to them merely, but to them and the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a. If this latter alternative were the correct one, we should, however, expect that something had been said on this point in connection with the Devasû oblations of the Râ<i>g</i>asûya; and moreover the nature of the two oblations seems too different for such a partial identification, requiring as they do different ‘praishas,’ or calls, in the Svish<i>t</i>ak<i>ri</i>t (viz. ‘ya<i>g</i>a’ the one, and ‘preshya’ the other); see also [IX, 5, 1, 40](Book_4_9_5#v9_5_1_40), and note [^428], [p. 248](#p248); also Kâty. <i>S</i>r. V, II, 23-24.
+[^437]: 248:5 The tentative meaning assigned to ‘asamavahitam,’ ‘not in immediate connection with (the Svish<i>t</i>ak<i>ri</i>t),’ can scarcely be right. The clause seems simply to mean that the (pûrvâbhisheka) touching p. 249 of the altar is to take place, as in the case of the (preliminary) consecration at the Râ<i>g</i>asûya, immediately after the oblations to the Divine Quickeners, and before the Svish<i>t</i>ak<i>ri</i>t oblation of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a has been performed. See V, 3, 3, 50, where a somewhat similar expression is used. One might have some doubt as to whether, both here and at the Râ<i>g</i>asûya, there is any Svish<i>t</i>ak<i>ri</i>t at all to these Devasû-havî<i>m</i>shi, or whether the statement, ‘There is the same svish<i>t</i>ak<i>ri</i>t and the same i<i>d</i>â,’ applies not to them merely, but to them and the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a. If this latter alternative were the correct one, we should, however, expect that something had been said on this point in connection with the Devasû oblations of the Râ<i>g</i>asûya; and moreover the nature of the two oblations seems too different for such a partial identification, requiring as they do different ‘praishas,’ or calls, in the Svish<i>t</i>ak<i>ri</i>t (viz. ‘ya<i>g</i>a’ the one, and ‘preshya’ the other); see also [IX, 5, 1, 40](../Book_4_9_5#v9_5_1_40), and note [^428], [p. 248](#p248); also Kâty. <i>S</i>r. V, II, 23-24.
 
 [^438]: 249:1 For the complete formulas, see V, 3, 3, 11, 12.
 
@@ -331,9 +331,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^446]: 251:2 This refers to the libations made from the several cups (grahas), the contents of which are afterwards consumed by the priests (and Sacrificer); cf. part ii, p. 316, note 1.
 
-[^447]: 251:3 For the same irregular construction, see [IX, 4, 1, 13](Book_4_9_4#v9_4_1_13).
+[^447]: 251:3 For the same irregular construction, see [IX, 4, 1, 13](../Book_4_9_4#v9_4_1_13).
 
-[^448]: 252:1 See [IX, 3, 4, 12](Book_4_9_3#v9_3_4_12).
+[^448]: 252:1 See [IX, 3, 4, 12](../Book_4_9_3#v9_3_4_12).
 
 [^449]: 252:2 The Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya (or Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>îya) stotra is the last and characteristic chant of the Agnish<i>t</i>oma mode of Soma-sacrifice, whence it is more properly called Agnish<i>t</i>oma-sâman; the Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya, properly speaking, being the verses, Sâma-v. II, 53, 54, chanted to a particular tune, and generally (though not always) used for the closing chant of the Agnish<i>t</i>oma.
 

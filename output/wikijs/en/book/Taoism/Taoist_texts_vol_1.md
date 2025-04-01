@@ -8,7 +8,35 @@ editor: markdown
 dateCreated: 2025-2-12T12:13:16Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-tao"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</text>		<text style="font-size:4px" x="61" y="125">1891</text>		<text style="font-size:9px" x="61" y="60">Taoists Texts,</text>		<text style="font-size:9px" x="61" y="70">Part I (SBE 39)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Texts of Taoism</span><br><span class="text-h5">Translated by James Legge</span><br>in two parts Part I<br>The Tâo Teh King (Tâo Te Ching) of Lâo Dze (Lao Tsu)<br>The Writings of Kwang-dze (Chuang-tse) (Books I-XVII)<br>The Sacred Books of the East<br>translated by various Oriental scholars and edited by<br>F. Max Müller<br>Vol. XXXIX<br>Oxford University Press<br>[1891]<br>Scanned at sacred-texts 3/2001. J.B. Hare, redactor. Reformatted July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-tao">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1891</text>
+		<text style="font-size:9px" x="61" y="60">Taoists Texts,</text>
+		<text style="font-size:9px" x="61" y="70">Part I (SBE 39)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Texts of Taoism</span><br>
+<span class="text-h5">Translated by James Legge</span><br>
+in two parts Part I<br>
+The Tâo Teh King (Tâo Te Ching) of Lâo Dze (Lao Tsu)<br>
+The Writings of Kwang-dze (Chuang-tse) (Books I-XVII)<br>
+The Sacred Books of the East<br>
+translated by various Oriental scholars and edited by<br>
+F. Max Müller<br>
+Vol. XXXIX<br>
+Oxford University Press<br>
+[1891]<br>
+Scanned at sacred-texts 3/2001. J.B. Hare, redactor. Reformatted July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br>
+</p>
+
+
 ## Index
 
 - [Contents](/en/book/Taoism/Taoist_texts_vol_1/Contents)

@@ -58,7 +58,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 15\. And in this Zaothra with this Baresman I desire to approach the Blessing, pious and good, and the pious and holy man who utters it, and the mighty and redoubted Curse of the wise, the Yazad.
 
-16\. And in this Zaothra with this Baresman I desire to approach these waters with my praise, and these lands and plants, and these places, districts, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> and pastures, and these dwellings with their springs of water [1](Yasna_3#fn925), and this land-ruler, who is Ahura Mazda.
+16\. And in this Zaothra with this Baresman I desire to approach these waters with my praise, and these lands and plants, and these places, districts, <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> and pastures, and these dwellings with their springs of water [1](../Yasna_3#fn925), and this land-ruler, who is Ahura Mazda.
 
 17\. And in this Zaothra with this Baresman I desire to approach all the greatest lords with my praise, the day-lords, and the month-lords, those of the years, and of the seasons, and the good, heroic, bountiful Fravashis of the saints.
 

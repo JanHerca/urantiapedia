@@ -78,7 +78,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ## Footnotes
 
-[^546]: 176:1 See our seventh note, [p. 172](Treatise12_Sabbath_23#p172), and the following section of this Mishna.
+[^546]: 176:1 See our seventh note, [p. 172](../Treatise12_Sabbath_23#p172), and the following section of this Mishna.
 
 [^547]: 176:2 The wording and collocation of sentences in this section of the Mishna is so obscure as to appear contradictory and unintelligible, without much interpolation and alteration of the collocation of the sentences. The following appears to be its true sense:—“At three periods of the year, which are the fast-days, the fasts of the standing men, and on the day of atonement, the priests shall raise their hands thrice in each prayer, viz. in the morning, afternoon, and closing prayer, and in one of these \[viz. the day of atonement, on which the ‏מוסף‎, or additional prayer is said\] _four_ times.”
 

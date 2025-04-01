@@ -130,9 +130,9 @@ Thus I say.
 
 ## Footnotes
 
-[^197]: 73:1 The word ‘here’ is explained as meaning ‘in this religion of the <i>G</i>ainas.’ See [p. 8](Uttaradhyayana_1#p8), note [5](Uttaradhyayana_2#fn74).
+[^197]: 73:1 The word ‘here’ is explained as meaning ‘in this religion of the <i>G</i>ainas.’ See [p. 8](../Uttaradhyayana_1#p8), note [5](../Uttaradhyayana_2#fn74).
 
-[^198]: 73:2 Sa<i>m</i>vara is the stopping of the âsravas by means of the Samitis and Guptis, see above, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^198]: 73:2 Sa<i>m</i>vara is the stopping of the âsravas by means of the Samitis and Guptis, see above, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).
 
 [^199]: 74:1 Literally, beds and seats.
 

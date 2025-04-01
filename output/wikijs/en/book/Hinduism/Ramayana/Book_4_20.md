@@ -632,7 +632,7 @@ You hear at times mid dulcet tones
 The chime of anklets, rings, and zones.
 You hear the song and music sound,
 And heavenly fragrance breathes around,
-There duly burn the triple fires [1](Book_4_20#fn578)
+There duly burn the triple fires [1](../Book_4_20#fn578)
 Where mounts the smoke in curling spires,
 And, in a dun wreath, hangs above
 The tall trees, like a brooding dove.
@@ -747,7 +747,7 @@ In some ignoble monarch's reign.
 The deer in wild confusion ran
 Like horses turned in battle's van.
 Down fell the birds, like Gods who fall
-When merits fail, [1](Book_4_20#fn579), at that dread call.
+When merits fail, [1](../Book_4_20#fn579), at that dread call.
 So fiercely, boldened for the fray,
 The offspring of the Lord of Day
 Sent forth his furious shout as loud
@@ -968,7 +968,7 @@ Half vanquished Báli sank and reeled,
 As sinks a vessel with her freight
 Borne down by overwhelming weight.
 
-Swift as Suparna's  [1](Book_4_20#fn583) swiftest flight
+Swift as Suparna's  [1](../Book_4_20#fn583) swiftest flight
 In awful strength they rushed to fight:
 So might the sun and moon on high
 Encountering battle in the sky.
@@ -991,7 +991,7 @@ And laid his arrow on the bow.
 As to an orb the bow he drew
 Forth from the string the arrow flew
 Like Fate's tremendous discus hurled
-By Yama  [2](Book_4_20#fn584) forth to end the world.
+By Yama  [2](../Book_4_20#fn584) forth to end the world.
 So loud the din that every bird
 The bow-string's clans with terror heard,
 And wildly fled the affrighted deer
@@ -1005,7 +1005,7 @@ Pierced Báli's breast, and quivered there.
 Struck by the shaft that flew so well
 The mighty Vánar reeled and fell,
 As earthward Indra's flag they pull
-When As'víní's fair moon is full  [3](Book_4_20#fn585)
+When As'víní's fair moon is full  [3](../Book_4_20#fn585)
 
 
 
@@ -1224,8 +1224,8 @@ Yea, were she sunk in deepest hell,
 Or whelmed beneath the ocean's swell,
 I would have followed on her track
 And brought the rescued lady back,
-As Hayagríva [1](Book_4_20#fn595) once set free
-From hell the white As'vatarí. [2](Book_4_20#fn596)
+As Hayagríva [1](../Book_4_20#fn595) once set free
+From hell the white As'vatarí. [2](../Book_4_20#fn596)
 That when my spirit wings its flight
 Sugríva reign, is just and right.
 But most unjust, O King, that I,
@@ -1233,7 +1233,7 @@ Slain by thy treacherous hand, should lie,
 Be still, my heart: this earthly state
 Is darkly ruled by sovereign Fate.
 The realm is lost and won: defy
-Thy questioners with apt reply.' [3](Book_4_20#fn597)
+Thy questioners with apt reply.' [3](../Book_4_20#fn597)
 
 
 

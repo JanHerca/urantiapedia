@@ -83,9 +83,9 @@ May my body be able, my tongue sweet, may I hear much with my ears! Thou (Om) ar
 
 She (<i>S</i>rî, happiness) brings near and spreads,
 
-2\. And makes, without delay, garments for herself, cows, food, and drink at all times; therefore bring that <i>S</i>rî (happiness) hither to me, the woolly, with <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> her cattle [1](Taittiriyaka_1#fn203)! Svâhâ [2](Taittiriyaka_1#fn204)! May the Brahman-students come to me, Svâhâ! May they come from all sides, Svâhâ! May they come forth to me, Svâhâ! May they practise restraint, Svâhâ! May they enjoy peace, Svâhâ!
+2\. And makes, without delay, garments for herself, cows, food, and drink at all times; therefore bring that <i>S</i>rî (happiness) hither to me, the woolly, with <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> her cattle [1](../Taittiriyaka_1#fn203)! Svâhâ [2](../Taittiriyaka_1#fn204)! May the Brahman-students come to me, Svâhâ! May they come from all sides, Svâhâ! May they come forth to me, Svâhâ! May they practise restraint, Svâhâ! May they enjoy peace, Svâhâ!
 
-3\. May I be a glory among men, Svâhâ! May I be better than the richest, Svâhâ! May I enter into thee, O treasure (Om), Svâhâ! Thou, O treasure [3](Taittiriyaka_1#fn205), enter into me, Svâhâ! In thee, consisting of a thousand branches, in thee, O treasure, I am cleansed, Svâhâ! As water runs downward, as the months go to the year, so, O preserver of the world, may Brahman-students always come to me from all sides, Svâhâ!
+3\. May I be a glory among men, Svâhâ! May I be better than the richest, Svâhâ! May I enter into thee, O treasure (Om), Svâhâ! Thou, O treasure [3](../Taittiriyaka_1#fn205), enter into me, Svâhâ! In thee, consisting of a thousand branches, in thee, O treasure, I am cleansed, Svâhâ! As water runs downward, as the months go to the year, so, O preserver of the world, may Brahman-students always come to me from all sides, Svâhâ!
 
 (1) Thou art a refuge! Enlighten me! Take possession of me!
 

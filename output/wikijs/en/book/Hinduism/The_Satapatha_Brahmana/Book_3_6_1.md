@@ -227,7 +227,7 @@ SIXTH KÂ<i>N</i><i>D</i>A.
 
 [^283]: 143:2 In the original, ‘the non-existent’ is the subject of the clause, not the predicate as would appear from the translation. A similar transposition seems often advisable in English, for the sake of emphasis, and on other grounds. Muir's rendering, ‘The Rishis say that in the beginning there was non-existence,’ is a mistake.
 
-[^284]: 143:3 The nominative here is striking, and vivid, cf. [paragraph 11](Book_3_6_1#v6_1_1_11) below. In corresponding passages of the preceding books, the accusative would stand here; e<i>g</i>. II, 1, 2, 4, saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate; similarly III, 1, 2, 3.
+[^284]: 143:3 The nominative here is striking, and vivid, cf. [paragraph 11](../Book_3_6_1#v6_1_1_11) below. In corresponding passages of the preceding books, the accusative would stand here; e<i>g</i>. II, 1, 2, 4, saptarshîn u ha sma vai purarkshâ ity â<i>k</i>akshate; similarly III, 1, 2, 3.
 
 [^285]: 144:1 That is, living beings or souls, individualities, which, in their combined form, are here imagined to take the shape of a bird. Muir's rendering, ‘males,’ can scarcely commend itself.
 
@@ -239,7 +239,7 @@ SIXTH KÂ<i>N</i><i>D</i>A.
 
 [^289]: 146:1 Muir takes this differently,—Further, (as) the Veda was first created from that Male, therefore it was created his mouth. This translation, however, takes no account of the particle ‘hi.’
 
-[^290]: 146:2 For the construction, see above, [paragraph 2](Book_3_6_1#v6_1_1_2), with note \*[^284]\*.
+[^290]: 146:2 For the construction, see above, [paragraph 2](../Book_3_6_1#v6_1_1_2), with note \*[^284]\*.
 
 [^291]: 146:3 Literally, which had flowed together. It is explained as the embryonic liquid in the amnion, or innermost membrane enveloping the foetus.
 
@@ -257,7 +257,7 @@ SIXTH KÂ<i>N</i><i>D</i>A.
 
 [^298]: 149:2 Another class of (storm) deities, here associated with Vâyu, the wind, the guardian of the air-region.
 
-[^299]: 149:3 This class of deities (of light) are here associated with the p. 150 Sun, who indeed is called the Âditya in paragraphs [4](Book_3_6_1#v6_1_2_4) and [10](Book_3_6_1#v6_1_2_10) (instead of Sûrya).
+[^299]: 149:3 This class of deities (of light) are here associated with the p. 150 Sun, who indeed is called the Âditya in paragraphs [4](../Book_3_6_1#v6_1_2_4) and [10](../Book_3_6_1#v6_1_2_10) (instead of Sûrya).
 
 [^300]: 150:1 Professor Weber (Ind. Stud. XIII, p. 268) has drawn attention to the discrepancy between this passage and III, 4, 2, 1, where the Vi<i>s</i>ve Devâ<i>h</i> (with B<i>ri</i>haspati) are denied the privilege of forming a special class of deities,—this being one of many points of difference, doctrinal as well as linguistic, between Books 1-5 and 6-10.
 
@@ -265,7 +265,7 @@ SIXTH KÂ<i>N</i><i>D</i>A.
 
 [^302]: 150:3 Literally, he fell asunder, or to pieces, became disjointed. Hence, when the gods ‘restored’ Pra<i>g</i>âpati (the lord of generation, identified with the sacrifice, and with Agni, the fire), the verb used is <i>s</i>a<i>m</i>sk<i>ri</i>; ‘to put together;’ and this putting together, or restoration, of Pra<i>g</i>âpati is symbolically identified with the building up of the fire-altar.
 
-[^303]: 151:1 Upa-dhâ. Paragraphs [14](Book_3_6_1#v6_1_2_14) and [15](Book_3_6_1#v6_1_2_15) involve a double meaning of the word hita, the past participle of dhâ, to put,—viz. put, set, or suitable, beneficial.
+[^303]: 151:1 Upa-dhâ. Paragraphs [14](../Book_3_6_1#v6_1_2_14) and [15](../Book_3_6_1#v6_1_2_15) involve a double meaning of the word hita, the past participle of dhâ, to put,—viz. put, set, or suitable, beneficial.
 
 [^304]: 151:2 Or, ‘I shall put on,’ &c., upa-dhâ, the verb used of the putting on of bricks in building up the altar. Cf. II, 1, 2, 15.
 
@@ -273,31 +273,31 @@ SIXTH KÂ<i>N</i><i>D</i>A.
 
 [^306]: 153:1 In contradistinction to the ya<i>g</i>ushmatî (prayerful) bricks, which bear special names, and have special formulas attached to them; lokam-p<i>ri</i><i>n</i>â (space-filling ones) is the technical term for those bricks which have no special prayers belonging to them, but are piled up with a common formula (Vâ<i>g</i>. S. XII, 54; Sat. Br. VIII, 7, 2, 1 seq.), beginning ‘lokam p<i>ri</i><i>n</i>a <i>kh</i>idram p<i>ri</i>na,’ ‘fill the space, fill the gap!’
 
-[^307]: 154:1 This is the formula (Vâ<i>g</i>. S. XII, 53) with which the so-called ‘sâdanam’ or ‘settling’ of the bricks is performed. See [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30).
+[^307]: 154:1 This is the formula (Vâ<i>g</i>. S. XII, 53) with which the so-called ‘sâdanam’ or ‘settling’ of the bricks is performed. See [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30).
 
-[^308]: 154:2 That is, the first brick which the wife of the Sacrificer herself forms, and which is called Ashâ<i>dh</i>â. See [VI, 3, 1, 1](Book_3_6_3#v6_3_1_1); [5, 3, 1](Book_3_6_5#v6_5_3_1).
+[^308]: 154:2 That is, the first brick which the wife of the Sacrificer herself forms, and which is called Ashâ<i>dh</i>â. See [VI, 3, 1, 1](../Book_3_6_3#v6_3_1_1); [5, 3, 1](../Book_3_6_5#v6_5_3_1).
 
 [^309]: 155:1 Viz. by means of the clay bricks, and the loose soil put between the layers.
 
 [^310]: 155:2 Sâya<i>n</i>a only refers here to the fact that the sacrifice (ya<i>g</i><i>ñ</i>a) is called ‘pâṅkta,’ ‘the fivefold.’
 
-[^311]: 155:3 See [VII, 5, 2, 1](Book_3_7_5#v7_5_2_1) seq.
+[^311]: 155:3 See [VII, 5, 2, 1](../Book_3_7_5#v7_5_2_1) seq.
 
-[^312]: 155:4 See [VII, 4, 1, 15](Book_3_7_4#v7_4_1_15) seq.
+[^312]: 155:4 See [VII, 4, 1, 15](../Book_3_7_4#v7_4_1_15) seq.
 
-[^313]: 155:5 See [VII, 4, 1, 32](Book_3_7_4#v7_4_1_32) seq.
+[^313]: 155:5 See [VII, 4, 1, 32](../Book_3_7_4#v7_4_1_32) seq.
 
-[^314]: 155:6 See [VII, 5, 1, 12](Book_3_7_5#v7_5_1_12) seq.
+[^314]: 155:6 See [VII, 5, 1, 12](../Book_3_7_5#v7_5_1_12) seq.
 
-[^315]: 155:7 See [VII, 5, 1, 1](Book_3_7_5#v7_5_1_1) seq.
+[^315]: 155:7 See [VII, 5, 1, 1](../Book_3_7_5#v7_5_1_1) seq.
 
-[^316]: 155:8 Apparently some kind of porous stone. Three such perforated stones or ‘bricks’ are used in the construction of the fire-altar; viz. one which is laid on the gold man in the centre of the bottom layer (a sâman relating to bhûs, the earth, being pronounced p. 156 on it while touching it); the second in the centre of the third layer; and the third one being laid upon the centre of the completed fifth layer. They are meant to represent the three worlds, the holes being intended to afford to the Sacrificer (represented by the gold man) a passage to the highest regions. See [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1) seq.
+[^316]: 155:8 Apparently some kind of porous stone. Three such perforated stones or ‘bricks’ are used in the construction of the fire-altar; viz. one which is laid on the gold man in the centre of the bottom layer (a sâman relating to bhûs, the earth, being pronounced p. 156 on it while touching it); the second in the centre of the third layer; and the third one being laid upon the centre of the completed fifth layer. They are meant to represent the three worlds, the holes being intended to afford to the Sacrificer (represented by the gold man) a passage to the highest regions. See [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1) seq.
 
 [^317]: 156:1 It is not quite clear whether the author indulges in etymological trifling (go—gû). The Bombay MS. of Sâya<i>n</i>a reads,—imâ<i>m</i>stallokân ga<i>k</i><i>kh</i>atîti kavana(?gavana)karmasâdhana<i>m</i> go<i>s</i>abda<i>m</i> dar<i>s</i>ayati.
 
-[^318]: 157:1 See [VI, 1, 1, 2](Book_3_6_1#v6_1_1_2) seq., where the seven vital airs are represented as assuming the form of a bird—the Purusha Pra<i>g</i>âpati.
+[^318]: 157:1 See [VI, 1, 1, 2](../Book_3_6_1#v6_1_1_2) seq., where the seven vital airs are represented as assuming the form of a bird—the Purusha Pra<i>g</i>âpati.
 
-[^319]: 157:2 See paragraphs [7](Book_3_6_1#v6_1_2_7)\-[11](Book_3_6_1#v6_1_2_11).
+[^319]: 157:2 See paragraphs [7](../Book_3_6_1#v6_1_2_7)\-[11](../Book_3_6_1#v6_1_2_11).
 
 [^320]: 158:1 He means to say that he will leave this to be supplied in the enumeration of the subsequent creations.
 

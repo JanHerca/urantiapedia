@@ -108,7 +108,7 @@ He is said to have transcended the qualities, O son of Pându! who is not averse
 
 [^458]: 109:4 I. e. what has been called Kshetragña before, the supervising principle within one.
 
-[^459]: 109:5 Bodies are developments of the qualities, say the commentators, which is not incompatible with the explanation of qualities given above. As to transcending qualities, cf. [p. 48](Bhagavadgita_2#p48) supra.
+[^459]: 109:5 Bodies are developments of the qualities, say the commentators, which is not incompatible with the explanation of qualities given above. As to transcending qualities, cf. [p. 48](../Bhagavadgita_2#p48) supra.
 
 [^460]: 109:6 Cf. as to what follows what is said in chapter II about ‘one whose mind is steady.’
 
@@ -118,10 +118,10 @@ He is said to have transcended the qualities, O son of Pându! who is not averse
 
 [^463]: 110:3 I. e. from his determination to pursue truth, by worldly pleasures or pains.
 
-[^464]: 110:4 Cf. [p. 55](Bhagavadgita_3#p55) supra.
+[^464]: 110:4 Cf. [p. 55](../Bhagavadgita_3#p55) supra.
 
 [^465]: 110:5 Intent on the self only.
 
-[^466]: 110:6 For the whole passage, cf. [p. 101](Bhagavadgita_12#p101) supra.
+[^466]: 110:6 For the whole passage, cf. [p. 101](../Bhagavadgita_12#p101) supra.
 
 [^467]: 110:7 Nîlaka<i>nth</i>a interprets this to mean ‘the ultimate object of the Vedas.’ I here K<i>nth</i>sh<i>n</i>a. <i>S</i>rîdhara suggests this parallel, as light embodied is the sun, so is the Brahman embodied identical with Vâsudeva.

@@ -158,7 +158,7 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 [^1430]: 324:4 See Yt. XXIII, 2; whether Anquetil's statement to that effect (Zend-Avesta II, 623) rests on independent tradition or only on the text of our Ya<i>s</i>t is not clear.
 
-[^1431]: 324:5 See above, [p. 70](Yasts_5#p70), note [1](Yasts_5#fn344).
+[^1431]: 324:5 See above, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344).
 
 [^1432]: 325:1 For instance, §§ 28, 30, 31, 39, &c.
 
@@ -178,7 +178,7 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 [^1440]: 326:6 See Yt. XV, 28.
 
-[^1441]: 326:7 See [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1441]: 326:7 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1442]: 326:8 One belonging to the Âthwya family, of which Thraêtaona was a member. All of them bore names that show them to have been rich in cattle: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, &c. (‘one with abundant oxen, with useful oxen, with the brown ox, &c.,’ Bundahi<i>s</i>, tr. West, XXXI, 7, note 8).
 

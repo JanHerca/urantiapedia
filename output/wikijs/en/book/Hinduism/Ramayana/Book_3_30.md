@@ -517,7 +517,7 @@ The Gods who roam the forest shade.
 For in the furious wrath that glowed
 Within his soul the hero showed
 Like S'iva when his angry might
-Stayed Daksha's sacrificial rite. [1b](Book_3_30#fn467)
+Stayed Daksha's sacrificial rite. [1b](../Book_3_30#fn467)
 Like some great cloud at dawn of day
 &nbsp;&nbsp;&nbsp;&nbsp;When first the sun upsprings,
 And o'er the gloomy mass each ray
@@ -681,7 +681,7 @@ From every quarter fiercely hailed,
 Girt by the foes who swarmed around,
 He raised a mighty shout whose sound
 Struck terror. On the giant crew
-His great Gándharva [1](Book_3_30#fn469) arrow flew.
+His great Gándharva [1](../Book_3_30#fn469) arrow flew.
 A thousand mortal shafts were rained
 From the orbed bow the hero strained,
 Till east and west and south and north
@@ -858,7 +858,7 @@ By Raghu's son were overthrown,
 A man, on foot, and all alone.
 Of all who met on that fierce day,
 Khara, great chief, survived the fray,
-The monster of the triple head, [1](Book_3_30#fn471)
+The monster of the triple head, [1](../Book_3_30#fn471)
 And Raghu's son, the foeman'a dread.
 The other demon warriors, all
 Skilful and brave and strong and tall,

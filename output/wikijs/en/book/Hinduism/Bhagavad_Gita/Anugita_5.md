@@ -64,9 +64,9 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 ## Footnotes
 
-[^1217]: 256:1 I. e. the questions at [p. 252](Anugita_4#p252), Nîlaka<i>nth</i>a; more probably, perhaps, the ‘doctrine’ mentioned at [p. 254](Anugita_4#p254) is what is alluded to.
+[^1217]: 256:1 I. e. the questions at [p. 252](../Anugita_4#p252), Nîlaka<i>nth</i>a; more probably, perhaps, the ‘doctrine’ mentioned at [p. 254](../Anugita_4#p254) is what is alluded to.
 
-[^1218]: 256:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57) and note.
+[^1218]: 256:2 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57) and note.
 
 [^1219]: 256:3 Nîlaka<i>nth</i>a says this means ‘ignorance that the wife has no other support.’ Ar<i>g</i>una Mi<i>s</i>ra interprets kînâ<i>s</i>a to mean ‘indigent’ instead of ‘harsh.’
 
@@ -74,7 +74,7 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1221]: 256:5 I follow Ar<i>g</i>una Mi<i>s</i>ra; the original literally means ‘restrain.’
 
-[^1222]: 257:1 Cf. Gîtâ, pp. [52](Bhagavadgita_2#p52), [53](Bhagavadgita_3#p53); see also, as to freedom from action, Gîtâ, [p. 127](Bhagavadgita_18#p127).
+[^1222]: 257:1 Cf. Gîtâ, pp. [52](../Bhagavadgita_2#p52), [53](../Bhagavadgita_3#p53); see also, as to freedom from action, Gîtâ, [p. 127](../Bhagavadgita_18#p127).
 
 [^1223]: 257:2 I. e. thought, word, and deed. I have in the text kept to a more literal rendering.
 
@@ -82,19 +82,19 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1225]: 257:4 Cf. inter alia Kumâra-sambhava II, 46.
 
-[^1226]: 257:5 I. e. says Ar<i>g</i>una Mi<i>s</i>ra, the safe place, within the body; and says Nîlaka<i>nth</i>a, the seat called Avimukta, between the nose and the brows; as to which cf. Gîtâ, [p. 67](Bhagavadgita_5#p67). In the Kenopanishad (p. 220) the word âyatana is used to signify a means to the attainment of the Brahman.
+[^1226]: 257:5 I. e. says Ar<i>g</i>una Mi<i>s</i>ra, the safe place, within the body; and says Nîlaka<i>nth</i>a, the seat called Avimukta, between the nose and the brows; as to which cf. Gîtâ, [p. 67](../Bhagavadgita_5#p67). In the Kenopanishad (p. 220) the word âyatana is used to signify a means to the attainment of the Brahman.
 
-[^1227]: 257:6 The moon and fire constitute the universe, says Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113). Nîlakan<i>th</i>a interprets this more mystically as referring to the I<i>d</i>â and Pingalâ arteries.
+[^1227]: 257:6 The moon and fire constitute the universe, says Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 113](../Bhagavadgita_15#p113). Nîlakan<i>th</i>a interprets this more mystically as referring to the I<i>d</i>â and Pingalâ arteries.
 
 [^1228]: 257:7 So Nîlaka<i>nth</i>a, but he takes it to stand for ‘vâyu’ or wind, as a distinct principle. The sense is by no means clear. But the moon being the deity of the mind also may, perhaps, be described as she is here, on that account.
 
 [^1229]: 257:8 This is Ar<i>g</i>una Mi<i>s</i>ra's interpretation of the original locative.
 
-[^1230]: 258:1 Cf. note [4](Anugita_4#fn1159), [p. 247](Anugita_4#p247) supra, and [p. 253](Anugita_4#p253).
+[^1230]: 258:1 Cf. note [4](../Anugita_4#fn1159), [p. 247](../Anugita_4#p247) supra, and [p. 253](../Anugita_4#p253).
 
 [^1231]: 258:2 Ar<i>g</i>una Mi<i>s</i>ra says this means the five great elements, the eleven organs (active and perceptive, and the mind), the life-wind, and the individual soul.
 
-[^1232]: 258:3 The Prâ<i>n</i>a is at the nose, the Apâna at the arms, the Samâna at the navel, the Vyâna pervades the whole body, and the Udâna is at all the joints; cf. Yoga-sûtra III, 38 seq. Nîlaka<i>nth</i>a says this explains how the ‘expanse’ (meaning, he says, the operations of the creation, &c.) ‘proceeds’ from the Brahman. See on the life-winds, B<i>nth</i>hadâra<i>nth</i>aka, p. 667; <i>Kh</i>ândogya, pp. 42-188; Sânkhyatattvakaumudî, p. 96; Vedânta Paribhâshâ, p. 45; [p. 271](Anugita_8#p271) infra.
+[^1232]: 258:3 The Prâ<i>n</i>a is at the nose, the Apâna at the arms, the Samâna at the navel, the Vyâna pervades the whole body, and the Udâna is at all the joints; cf. Yoga-sûtra III, 38 seq. Nîlaka<i>nth</i>a says this explains how the ‘expanse’ (meaning, he says, the operations of the creation, &c.) ‘proceeds’ from the Brahman. See on the life-winds, B<i>nth</i>hadâra<i>nth</i>aka, p. 667; <i>Kh</i>ândogya, pp. 42-188; Sânkhyatattvakaumudî, p. 96; Vedânta Paribhâshâ, p. 45; [p. 271](../Anugita_8#p271) infra.
 
 [^1233]: 258:4 The self, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says, the Prâ<i>n</i>a accompanied by the Apâna.’
 
@@ -102,7 +102,7 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1235]: 258:6 Nîlaka<i>nth</i>a derives the word thus, utkarshe<i>n</i>a ânayati.
 
-[^1236]: 258:7 I. e. the subjugation of the life-winds as indicated at Gîtâ, [p. 61](Bhagavadgita_4#p61).
+[^1236]: 258:7 I. e. the subjugation of the life-winds as indicated at Gîtâ, [p. 61](../Bhagavadgita_4#p61).
 
 [^1237]: 258:8 The meaning of the passage as a whole is not very clear, and the commentators afford but little help. The sense appears to be this: The course of worldly life is due to the operations of the life-winds which are attached to the self and lead to its manifestations as individual souls. Of these, the Samâna and Vyâna are p. 259 controlled and held under check by the Prâ<i>n</i>a and Apâna, into which latter the former are absorbed in sleep. The latter two are held in check and controlled by the Udâna, which thus controls all. And the control of this, which is the control of all the five, and which is otherwise called penance, destroys the course of worldly life, and leads to the supreme self.
 
@@ -128,7 +128,7 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1248]: 260:5 That principle—viz. the Brahman.
 
-[^1249]: 260:6 This is the operation of the mind, see Gîtâ, [p. 57](Bhagavadgita_3#p57) note.
+[^1249]: 260:6 This is the operation of the mind, see Gîtâ, [p. 57](../Bhagavadgita_3#p57) note.
 
 [^1250]: 260:7 The Brahman, Ar<i>g</i>una Mi<i>s</i>ra. Or it may be the ‘sevenfold production.’
 

@@ -138,7 +138,7 @@ Perhaps I have dwelt here too long on the interpretation of a few words which ar
 
 [^660]: 268:1 Agneh pa<i>s</i><i>s</i>âd ya<i>s</i>amâno dakshi<i>s</i>ata_h<i>s</i>k<i>s</i>s_ati. ara<i>s</i>ipradâna_m<i>s</i>m_. âh<i>s</i>tasyâgner eva sa<i>s</i>skârah.
 
-[^661]: 268:2 On this name of <i>S</i>âṅkhâyana, see my Introduction to the translation of the <i>S</i>âṅkhâyana-G<i>ri</i>hya, above, [p. 3](Sankhayana_Intro#p3).
+[^661]: 268:2 On this name of <i>S</i>âṅkhâyana, see my Introduction to the translation of the <i>S</i>âṅkhâyana-G<i>ri</i>hya, above, [p. 3](../Sankhayana_Intro#p3).
 
 [^662]: 268:3
   Atrâra<i>n</i>ipradâna_m<i>n</i>h<i>n</i>k_it,

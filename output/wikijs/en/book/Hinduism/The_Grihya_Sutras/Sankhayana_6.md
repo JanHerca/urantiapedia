@@ -233,9 +233,9 @@ End of the <i>S</i>âṅkhâyana-G<i>ri</i>hya.
 
 ## Footnotes
 
-[^320]: 141:1 1, 1 seqq. Comp. the general remarks on this sixth book in the Introduction, [p. 11](Sankhayana_Intro#p11).
+[^320]: 141:1 1, 1 seqq. Comp. the general remarks on this sixth book in the Introduction, [p. 11](../Sankhayana_Intro#p11).
 
-For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and the study of the different Âra<i>n</i>yaka sections chiefly treated of in this book, see above, II, 11. 12, and the Introduction, [p. 8](Sankhayana_Intro#p8).
+For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and the study of the different Âra<i>n</i>yaka sections chiefly treated of in this book, see above, II, 11. 12, and the Introduction, [p. 8](../Sankhayana_Intro#p8).
 
 [^321]: 141:2 Comp. II, 11, 6.
 

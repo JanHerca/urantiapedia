@@ -115,7 +115,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v2_2_2_1919"><sup><small>2:2:2:1919.</small></sup></span>  Now, attendance on (or, the worship of) that consecrated fire (agnyâdheya) means (speaking) the truth. Whosoever speaks the truth, acts as if he sprinkled that lighted fire with ghee; for even so does he enkindle it: and ever the more increases his own vital energy, and day by day does he become better. And whosoever speaks the untruth, acts as <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> if he sprinkled that lighted fire with water; for even so does he enfeeble it: and ever the less becomes his own vital energy, and day by day does he become more wicked. Let him, therefore, speak nothing but the truth.
 
-<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span>  Now the kinsmen spake unto Aru<i>n</i>a Aupave<i>s</i>i, ‘Thou art advanced in years: establish thou the two fires!’ He replied, ‘Speak ye not thus! be thou a restrainer of speech [1](Book_1_2_2#fn706); for he who has established the fires must not speak an untruth: let him rather not speak at all, but let him not speak an untruth. Worship, above all, is truthfulness.’
+<span id="v2_2_2_2020"><sup><small>2:2:2:2020.</small></sup></span>  Now the kinsmen spake unto Aru<i>n</i>a Aupave<i>s</i>i, ‘Thou art advanced in years: establish thou the two fires!’ He replied, ‘Speak ye not thus! be thou a restrainer of speech [1](../Book_1_2_2#fn706); for he who has established the fires must not speak an untruth: let him rather not speak at all, but let him not speak an untruth. Worship, above all, is truthfulness.’
 
 
 <span id="v2_2_3"><sup><small>2:2:3</small></sup></span>
@@ -261,7 +261,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^701]: 307:2 Pra<i>k</i>yavata iva vâ esho ’smâl lokât . . . imân hi lokân samârohann eti. The Kâ<i>n</i>va text has: ‘For he who takes out these oblations makes his self, as it were, depart from this world of men for the world of the gods, since he, as it were, moves rising upwards (ûrdhva iva hi samârohann eti).’ Cf. paragraphs 14-16.
 
-[^702]: 307:3 For these (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, or invitatory and offering prayers at the Svish<i>t</i>ak<i>ri</i>t, see [p. 164](Book_1_1_6#p164), note [2](Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
+[^702]: 307:3 For these (virâ<i>g</i>) sa<i>m</i>yâ<i>g</i>ye, or invitatory and offering prayers at the Svish<i>t</i>ak<i>ri</i>t, see [p. 164](../Book_1_1_6#p164), note [2](../Book_1_1_6#fn381).—Â<i>s</i>v. <i>S</i>r. II, 1, 29.
 
 [^703]: 308:1 According to the Kâ<i>n</i>va recension, the anuvâkyâ and yâ<i>g</i>yâ, in that case, should consist of the verses containing the word mûrdhan (‘head’), viz. Vâ<i>g</i>. S. XIII, 14, 15; cf. <i>S</i>at. Br. I, 6, 2, 12.
 
@@ -273,7 +273,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^707]: 311:1 ‘Pra tv evâsurebhyo bravâmeti.’—‘Hantâsurebhya<i>h</i> pratiprabravâmeti,’ Kâ<i>n</i>va text. ? ‘Let us talk them out of it!’
 
-[^708]: 311:2 See [p. 297](Book_1_2_1#p297), note [4](Book_1_2_1#fn684).
+[^708]: 311:2 See [p. 297](../Book_1_2_1#p297), note [4](../Book_1_2_1#fn684).
 
 [^709]: 312:1 This paragraph is somewhat obscure. The Kâ<i>n</i>va recension has the following more explicit paragraphs instead:—As to this, there is a source of anxiety (âgas) to some, fearing that ‘it (that fire) might go out (anvagan).’ But let him not heed this, for, assuredly, that fire of his, which has been established in his innermost soul, does not go out. ‘The carriage might pass through (vyayâsît), the cart might pass through;—it (or some one) may come between (me and the fire)!’ such is another source of anxiety to some; but let him not heed this either; for, assuredly, the carriage does not pass through, the cart does not pass through that fire of his which has been established in his innermost soul. Cf. XII, 4, 1, 2-3.
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^720]: 317:3 The paṅkti consists of five octosyllabic pâdas. The anuvâkyâ and yâ<i>g</i>yâ at the chief offering are Rig-veda IV, 10, 2 and 4; those of the svish<i>t</i>ak<i>ri</i>t, ib., verses 4 and 1.—Â<i>s</i>v. II, 8, 14.
 
-[^721]: 317:4 The offering prayers of all libations and offerings at this ish<i>t</i>i must therefore contain Agni's name. At each of the fore-offerings and after-offerings a different case-form of agni is added after the respective objects of those offerings,—thus, ‘. . . samidho agne p. 318 ’gna â<i>g</i>yasya vyantu,’ ‘tanûnapâd agnim agna . . .,’ ‘i<i>d</i>o agninâgne . . .,’ &c. See par. 19; also [p. 148](Book_1_1_5#p148), n. [2](Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 seq. The two butter-portions otherwise offered to Agni or Soma respectively (cf. I, 6, 1, 20 seq.) are in this case offered to Agni; the anuvâkyâs, according to Â<i>s</i>v. II, 8, 7, being Rig-veda VIII, 44, I, and VI, 16, 16 respectively. See, however, paragraphs 21 seq.
+[^721]: 317:4 The offering prayers of all libations and offerings at this ish<i>t</i>i must therefore contain Agni's name. At each of the fore-offerings and after-offerings a different case-form of agni is added after the respective objects of those offerings,—thus, ‘. . . samidho agne p. 318 ’gna â<i>g</i>yasya vyantu,’ ‘tanûnapâd agnim agna . . .,’ ‘i<i>d</i>o agninâgne . . .,’ &c. See par. 19; also [p. 148](../Book_1_1_5#p148), n. [2](../Book_1_1_5#fn360); I, 5, 4, 1 seq.; I, 8, 2, 1 seq. The two butter-portions otherwise offered to Agni or Soma respectively (cf. I, 6, 1, 20 seq.) are in this case offered to Agni; the anuvâkyâs, according to Â<i>s</i>v. II, 8, 7, being Rig-veda VIII, 44, I, and VI, 16, 16 respectively. See, however, paragraphs 21 seq.
 
 [^722]: 318:1 Viz. the Adhvaryu calls, Õ <i>s</i>râvaya, ‘cause (him or one) to hear!’ and the Âgnîdhra responds by Astu <i>s</i>rausha<i>t</i>, ‘yea, may he (or one) hear!’
 
@@ -339,7 +339,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^740]: 322:3 See II, 1, 1, 5.
 
-[^741]: 325:1 The sruva, or dipping-spoon, and the Agnihotra ladle, for instance, are made of this wood; see [p. 331](Book_1_2_3#p331), note [2](Book_1_2_3#fn746).
+[^741]: 325:1 The sruva, or dipping-spoon, and the Agnihotra ladle, for instance, are made of this wood; see [p. 331](../Book_1_2_3#p331), note [2](../Book_1_2_3#fn746).
 
 [^742]: 325:2 On ‘hiṅ’ as an essential element in the recitation of Sâma-chants, see I, 4, 1, 1 seq.
 

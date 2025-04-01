@@ -96,4 +96,4 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1189]: 281:4 Or, ‘the best.’
 
-[^1190]: 281:5 The YêNhê hâtãm follows. For Y. XXVIII-XXXIV, see the Gâtha Ahunavaiti above, pp. [2](Gathas_Introduction#p2)\-[194](Gathas_53#p194).
+[^1190]: 281:5 The YêNhê hâtãm follows. For Y. XXVIII-XXXIV, see the Gâtha Ahunavaiti above, pp. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).

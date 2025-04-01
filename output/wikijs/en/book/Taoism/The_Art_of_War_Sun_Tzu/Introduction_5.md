@@ -117,7 +117,7 @@ Hsiang Liang used to instruct his nephew Chi [^151] in the art of war. Chi got a
 
 [^139]: xlvii:9 _Ibid._ XII. 5; _Chia Yü_, ch. 1 _ad fin_.
 
-[^140]: xlviii:1 I have failed to trace this utterance. See note [2](Introduction_4#fn_122) on [p. xliii](Introduction_4#pxliii).
+[^140]: xlviii:1 I have failed to trace this utterance. See note [2](../Introduction_4#fn_122) on [p. xliii](../Introduction_4#pxliii).
 
 [^141]: xlviii:2 See _supra_.
 
@@ -129,7 +129,7 @@ Hsiang Liang used to instruct his nephew Chi [^151] in the art of war. Chi got a
 
 [^146]: xlviii:6 Preface to Sun Tzŭ: #.
 
-[^147]: xlviii:7 See [p. 166](13#p166).
+[^147]: xlviii:7 See [p. 166](../13#p166).
 
 [^148]: xlix:1 This is a rather obscure allusion to _Tso Chuan_, #, XXXI. 4, where Tzŭ-ch‘an says: # “If you have a piece of beautiful brocade, you will nor employ a mere learner to make it up.”
 
@@ -141,9 +141,9 @@ Hsiang Liang used to instruct his nephew Chi [^151] in the art of war. Chi got a
 
 [^152]: xlix:5 Better known as Hsiang # Yü \[B.C. 233–202\].
 
-[^153]: xlix:6 The third among the # (or #) enumerated on [p. 141](11#p141). For the incident referred to, see _Tso Chuan_, #, XXII. 4.
+[^153]: xlix:6 The third among the # (or #) enumerated on [p. 141](../11#p141). For the incident referred to, see _Tso Chuan_, #, XXII. 4.
 
-[^154]: xlix:7 See _supra_, [p. xvi](Introduction_1#pxvi), note [4](Introduction_1#fn_25).
+[^154]: xlix:7 See _supra_, [p. xvi](../Introduction_1#pxvi), note [4](../Introduction_1#fn_25).
 
 [^155]: xlix:8 _Shih Chi_, ch. 47, f. 7 _r_°.
 

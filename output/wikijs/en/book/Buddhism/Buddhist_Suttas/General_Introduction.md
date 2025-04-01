@@ -172,9 +172,9 @@ BRICK COURT, TEMPLE,
 
 ## Footnotes
 
-[^1]: Translated below, [pp. 112-135](Maha_Parinibbana_6#p112).
+[^1]: Translated below, [pp. 112-135](../Maha_Parinibbana_6#p112).
 
-[^2]: This is a mistake. The Subhadda referred to is quite a different person from the last convert. See my note below, [p. 127](Maha_Parinibbana_6#p127).
+[^2]: This is a mistake. The Subhadda referred to is quite a different person from the last convert. See my note below, [p. 127](../Maha_Parinibbana_6#p127).
 
 [^3]: Pages 67, 68 in the edition of Childers.
 

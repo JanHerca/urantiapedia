@@ -85,7 +85,7 @@ In order that this writing may be able to be better observed, have it by thee un
 
 ## Footnotes
 
-[^482]: 119:1 It refers to “the chapters which speak of mortal sin” which are only found in the First Rule (see pp. [37](Part_1_4#p37), [47](Part_1_4#p47), [53](Part_1_4#p53)), and speaks of proposed changes in the Rule which could not, as is clear, have been made after November, 1223. In particular the subject of the tenth chapter of the new Rule discussed in the Chapter held at Portiuncula, June 11th of that year (see _Spec. Perf._, ed. Sabatier, c. t), is mentioned as not yet definitely settled.
+[^482]: 119:1 It refers to “the chapters which speak of mortal sin” which are only found in the First Rule (see pp. [37](../Part_1_4#p37), [47](../Part_1_4#p47), [53](../Part_1_4#p53)), and speaks of proposed changes in the Rule which could not, as is clear, have been made after November, 1223. In particular the subject of the tenth chapter of the new Rule discussed in the Chapter held at Portiuncula, June 11th of that year (see _Spec. Perf._, ed. Sabatier, c. t), is mentioned as not yet definitely settled.
 
 [^483]: 119:2 See _Quellen_, etc t. XXII, p. 547.
 
@@ -119,12 +119,12 @@ In order that this writing may be able to be better observed, have it by thee un
 
 [^498]: 123:1 The Neapolitan MS. for “appears” reads “sins.”
 
-[^499]: 123:2 Chaps. V, XIII, and XX of the first Rule. (See above, pp. [37](Part_1_4#p37), [47](Part_1_4#p47), and [53](Part_1_4#p53).)
+[^499]: 123:2 Chaps. V, XIII, and XX of the first Rule. (See above, pp. [37](../Part_1_4#p37), [47](../Part_1_4#p47), and [53](../Part_1_4#p53).)
 
 [^500]: 123:3 See Matt. 9: 12.
 
 [^501]: 123:4 Cod. O. reads: “another.”
 
-[^502]: 124:1 In chap. XX of the First Rule (see above, [p. 53](Part_1_4#p53)). The passage enclosed in brackets is the part omitted by Wadding and those who have followed him.
+[^502]: 124:1 In chap. XX of the First Rule (see above, [p. 53](../Part_1_4#p53)). The passage enclosed in brackets is the part omitted by Wadding and those who have followed him.
 
 [^503]: 124:2 See John 8: 11.

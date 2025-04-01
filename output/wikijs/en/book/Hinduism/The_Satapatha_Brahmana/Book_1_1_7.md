@@ -267,7 +267,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^424]: 183:2 Gâyatryai vâ somasya vâ=‘both of G. and of S.,’ Sâya<i>n</i>a. Apâd astâ, ‘a footless shooter,’ is a doubtful reading and perhaps an old corruption; Sâya<i>n</i>a reads apâdhastâ (? adhastât); cf. Weber, various readings, p. 133. The Kâ<i>n</i>va MS. reads, ‘devebhyas tasyâ âharantyâ avâdastâbhyâyatya par<i>n</i>a<i>m</i> pra<i>k</i>i<i>kh</i>eda.’ According to Rig-veda IV, 27, 3, it was the archer K<i>ri</i><i>s</i>ânu, who hit the falcon when it was carrying off the Soma from heaven, and brought down one of its feathers. On the whole myth, see A. Kuhn, Herabkunft des Feuers and des Göttertranks, p. 137 seq. Cf. Taitt. S. III, 5, 7, 1; Taitt. Br. I, 1, 3, 10, ‘Soma was in the third heaven from here; Gâyatrî fetched him away; one of his feathers was cut off, it became a par<i>n</i>a (palâ<i>s</i>a) tree.’ Similarly Taitt. Br. I, 2, 1, 6; see also <i>S</i>at. Br. I, 8, 2, 10.
 
-[^425]: 184:1 ‘Somasya nyaktam,’ see [p. 167](Book_1_1_6#p167), note [2](Book_1_1_6#fn388).
+[^425]: 184:1 ‘Somasya nyaktam,’ see [p. 167](../Book_1_1_6#p167), note [2](../Book_1_1_6#fn388).
 
 [^426]: 184:2 This act as well as that of letting the calves join the cows, of course, precedes the driving away of the calves. These proceedings take place on the day before the new moon, after the agnyanvâdhâna. According to Kâty., the sacrificer enters on the vow of abstinence, after the branch has been cut. Previously to these rites, however, the so-called Pi<i>n</i><i>d</i>a-pit<i>ri</i>ya<i>g</i><i>ñ</i>a, or oblation of obsequial pi<i>n</i><i>d</i>as (balls, dumplings) to the deceased ancestors, has to be performed; for which see II, 4, 2, 1 seq.
 
@@ -277,7 +277,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^429]: 185:1 Viz. on the occasion of his taking from the cart the rice for the oblations, see I, 1, 2, 17-19.
 
-[^430]: 185:2 See [p. 19](Book_1_1_1#p19), note [1](Book_1_1_1#fn110). According to Karka this takes place before the hiding of the branch, Scholl. on Kâty. IV, 2, 15. According to Kâty. IV, 2, 12, 13, the upavesha (see I, 2, 1, 3) is cut at this juncture—with the text, ‘Accomplishing (vesha) art thou’—from the bottom part of the palâ<i>s</i>a branch on the remaining part p. 186 of which he thereupon fixes the strainer. When the sânnâyya oblation is not made (and consequently no palâ<i>s</i>a branch is used), the upavesha is made of vara<i>n</i>a wood.
+[^430]: 185:2 See [p. 19](../Book_1_1_1#p19), note [1](../Book_1_1_1#fn110). According to Karka this takes place before the hiding of the branch, Scholl. on Kâty. IV, 2, 15. According to Kâty. IV, 2, 12, 13, the upavesha (see I, 2, 1, 3) is cut at this juncture—with the text, ‘Accomplishing (vesha) art thou’—from the bottom part of the palâ<i>s</i>a branch on the remaining part p. 186 of which he thereupon fixes the strainer. When the sânnâyya oblation is not made (and consequently no palâ<i>s</i>a branch is used), the upavesha is made of vara<i>n</i>a wood.
 
 [^431]: 186:1 The milker may be anybody except a Sûdra, Taitt. Br. III, 2, 3, 9; Kâty. IV, 2, 22; Âpast. I, 12, 25.
 
@@ -287,7 +287,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^434]: 187:2 The direction from west to east is the chief one in all sacrificial arrangements: hence that from south to north is the one that lies across the former.
 
-[^435]: 188:1 That is, when the milk has been poured through the strainer as before. The Taittirîya school make the mystic names (or epithets) of the three cows Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (all-embracing), and Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3; Taitt. Br. III, 2, 3, 7. In the latter passage these names are, as here, identified with the earth, atmosphere, and heavens respectively. The milker, in replying to the Adhvaryu, apparently calls the cows by their ordinary names. Cf. [p. 178](Book_1_1_6#p178), note [4](Book_1_1_6#fn412).
+[^435]: 188:1 That is, when the milk has been poured through the strainer as before. The Taittirîya school make the mystic names (or epithets) of the three cows Vi<i>s</i>vâyu, Vi<i>s</i>vavya<i>k</i>as (all-embracing), and Vi<i>s</i>vakarman, cf. Taitt. S. I, 1, 3; Taitt. Br. III, 2, 3, 7. In the latter passage these names are, as here, identified with the earth, atmosphere, and heavens respectively. The milker, in replying to the Adhvaryu, apparently calls the cows by their ordinary names. Cf. [p. 178](../Book_1_1_6#p178), note [4](../Book_1_1_6#fn412).
 
 [^436]: 189:1 According to Taitt. S. I, 1, 3, Kâty. IV, 2, 32, &c., he, whilst doing so, pronounces the text, ‘Unite, ye that follow the eternal law, ye waving ones (with the wave, Katy.), ye sweetest,—\[filling the milk with honey, Kâty.\],—ye delightful ones, for the obtainment of wealth!’
 
@@ -301,13 +301,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^441]: 191:1 The word is really derived from ava-dâ (do), ‘to cut off.’ The Taitt. Br. gives the same fanciful etymological explanation of the term as here.
 
-[^442]: 192:1 The four ‘cuttings’ of which each oblation of rice-cake consists are made in the following way: first, some clarified butter, ‘cut out’ or drawn from the butter in the dhruvâ-spoon by means of the sruva (dipping-spoon) and poured into the <i>g</i>uhû (this is called the upastara<i>n</i>a or under-layer of butter); second and third, two pieces of the size of a thumb's joint, cut out from the centre and the fore-part of the rice-cake and laid on that butter; and fourth, some clarified butter poured on these pieces of cake (the technical name of this basting of butter being abhighâra<i>n</i>a). The family of the <i>G</i>amadagnis, which is mentioned as always making five cuttings (Kâty. I, 9, 3-4), take three pieces of cake instead of two, viz. an additional one from the back (or west) part of the cake. Yâ<i>g</i><i>ñ</i>ika Deva on Kâty. quotes a couplet from some Sm<i>ri</i>ti, in which the Vatsas, the Vidas, and the Ârsh<i>t</i>ishe<i>n</i>as are mentioned beside the <i>G</i>amadagnis, as pa<i>ñ</i><i>k</i>âvattina<i>h</i> or making five cuttings. At the Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (low-voiced offering),—which is performed between the cake-oblation to Agni and that to Agni-Soma at the full moon, and between the cake-oblation to Agni and that to Indra-Agni (or the sânnâyya, or oblation of sweet and sour milk, to Indra) at the new moon, and which consists entirely of butter,—the four cuttings are effected in the same way as described p. 193 page [174](Book_1_1_6#p174) note. At the sânnâyya, two (or three) sruva-fuls of both the sweet and the sour milk take the place of the two (or three) pieces of cake.
+[^442]: 192:1 The four ‘cuttings’ of which each oblation of rice-cake consists are made in the following way: first, some clarified butter, ‘cut out’ or drawn from the butter in the dhruvâ-spoon by means of the sruva (dipping-spoon) and poured into the <i>g</i>uhû (this is called the upastara<i>n</i>a or under-layer of butter); second and third, two pieces of the size of a thumb's joint, cut out from the centre and the fore-part of the rice-cake and laid on that butter; and fourth, some clarified butter poured on these pieces of cake (the technical name of this basting of butter being abhighâra<i>n</i>a). The family of the <i>G</i>amadagnis, which is mentioned as always making five cuttings (Kâty. I, 9, 3-4), take three pieces of cake instead of two, viz. an additional one from the back (or west) part of the cake. Yâ<i>g</i><i>ñ</i>ika Deva on Kâty. quotes a couplet from some Sm<i>ri</i>ti, in which the Vatsas, the Vidas, and the Ârsh<i>t</i>ishe<i>n</i>as are mentioned beside the <i>G</i>amadagnis, as pa<i>ñ</i><i>k</i>âvattina<i>h</i> or making five cuttings. At the Upâ<i>m</i><i>s</i>uyâ<i>g</i>a (low-voiced offering),—which is performed between the cake-oblation to Agni and that to Agni-Soma at the full moon, and between the cake-oblation to Agni and that to Indra-Agni (or the sânnâyya, or oblation of sweet and sour milk, to Indra) at the new moon, and which consists entirely of butter,—the four cuttings are effected in the same way as described p. 193 page [174](../Book_1_1_6#p174) note. At the sânnâyya, two (or three) sruva-fuls of both the sweet and the sour milk take the place of the two (or three) pieces of cake.
 
-[^443]: 193:1 See page [26](Book_1_1_1#p26), note [1](Book_1_1_1#fn125). The parts of the cakes or the sânnâyya, from which cuttings have been made, he bastes, each once, with butter taken with the sruva from the butter-pot; and whenever butter is ladled with the sruva from the dhruvâ into the <i>g</i>uhû, the former is replenished from the butter-pot.
+[^443]: 193:1 See page [26](../Book_1_1_1#p26), note [1](../Book_1_1_1#fn125). The parts of the cakes or the sânnâyya, from which cuttings have been made, he bastes, each once, with butter taken with the sruva from the butter-pot; and whenever butter is ladled with the sruva from the dhruvâ into the <i>g</i>uhû, the former is replenished from the butter-pot.
 
 [^444]: 193:2 Tayor mithunam asti vasha<i>t</i>kâra eva, ‘to these two the vasha<i>t</i>\-call is the complement in forming a pair.’ On the vasha<i>t</i> (vausha<i>t</i>) and the other two formulas, see note on I, 5, 2, 16.
 
-[^445]: 194:1 The usual formalities, which have been detailed before (see page [174](Book_1_1_6#p174) note), have, of course, to be gone through at each oblation.
+[^445]: 194:1 The usual formalities, which have been detailed before (see page [174](../Book_1_1_6#p174) note), have, of course, to be gone through at each oblation.
 
 [^446]: 195:1 In this passage the invitatory formula (anuvâkyâ or puro'nuvâkyâ), which is in the gâyatrî metre, is identified with the sky, and the offering-formula (yâ<i>g</i>yâ), which is in the trish<i>t</i>ubh metre, with the earth. On the other hand, the gâyatrî also is the earth (cf. I, 4, I, 34), and the trish<i>t</i>ubh the sky; so that, according to this mode of reasoning, there is not only an intimate connection between the two metres, but actual identity. The gâyatrî verse, used as invitatory formula, on the occasion of the rice-cake offering to Agni, is Rig-veda VIII, 4.4, 16 \[agnir mûrdhâ diva<i>h</i> kakut, ‘Agni, the head and summit of the sky,’ &c.\]; with that to Agni and Soma, at the full-moon sacrifice, Rig-veda I, 93, 3 \[agnîshomau savedasau, sahûtî vanatam gira<i>h</i>, ‘O Agni and Soma, of self-same wealth and invocation, accept this song!’ &c.\]; and to Indra and Agni, at the new moon, Rig-veda VII, 94, 7 \[indrâgnî avasâ gatam, ‘O Indra and Agni, come to us with favour I’ &c.\] or with the (optional) milk-offering (sânnâyyam), at the new moon, Rig-veda I, 8, 1 \[endra sânasi<i>m</i> rayim, hither, O Indra, bring abundant treasure!!' &c.\], if to Indra; or Rig-veda VIII, 6, 1 \[mahâṅ indro ya o<i>g</i>asâ par<i>g</i>anyo v<i>ri</i>sh<i>t</i>imâṅ iva, ‘the Great Indra, who in might is equal to the rainy thunder-cloud,’ &c.\], if to Mahendra.
 
@@ -327,7 +327,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^454]: 198:1 Viz. the invitatory and offering-formulas.
 
-[^455]: 198:2 The sacrificial call vausha<i>t</i> (for vasha<i>t</i>, irregular aorist of vah, ‘to bear,’ cf. [p. 88](Book_1_1_3#p88), note [2](Book_1_1_3#fn254)) is here fancifully explained as composed of vauk, for vâk, ‘speech,’ + sha<i>t</i>, ‘six.’
+[^455]: 198:2 The sacrificial call vausha<i>t</i> (for vasha<i>t</i>, irregular aorist of vah, ‘to bear,’ cf. [p. 88](../Book_1_1_3#p88), note [2](../Book_1_1_3#fn254)) is here fancifully explained as composed of vauk, for vâk, ‘speech,’ + sha<i>t</i>, ‘six.’
 
 [^456]: 198:3 Pra<i>g</i>âpati, or Lord of Creatures, is here, as often (cf. I, 2, 5, 13), taken as representing the year, or Time.
 
@@ -351,7 +351,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^466]: 203:1 Or, resort, abode, dhâman.
 
-[^467]: 203:2 Viz. at the ‘devatânâm âvahanam,’ cf. I, 4, 2, 17; [p. 118](Book_1_1_4#p118), n. [1](Book_1_1_4#fn307).
+[^467]: 203:2 Viz. at the ‘devatânâm âvahanam,’ cf. I, 4, 2, 17; [p. 118](../Book_1_1_4#p118), n. [1](../Book_1_1_4#fn307).
 
 [^468]: 203:3 ‘Âya<i>g</i>atâm e<i>g</i>yâ isha<i>h</i>.’ Mahîdhara, on Vâ<i>g</i>. S. XXI, 47, interprets it thus: ‘May these (isha<i>h</i>) desirous (creatures), fit for sacrifice, sacrifice properly!’ Similarly perhaps Sâya<i>n</i>a on our passage.
 
@@ -403,7 +403,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^492]: 211:3 The consistent use of derivations from one and the same root (pra-su) in this and similar passages is, of course, quite as artificial in Sanskrit as must be any imitation of it in English.
 
-[^493]: 211:4 He thereby averts the evil effects of the act which is connected with Rudra, ‘the terrible god;’ see [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84). Besides, the i<i>d</i>â with which he now proceeds representing the cattle, he thereby guards the cattle from the rudriya, cf. above I, 7, 3, 21.
+[^493]: 211:4 He thereby averts the evil effects of the act which is connected with Rudra, ‘the terrible god;’ see [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84). Besides, the i<i>d</i>â with which he now proceeds representing the cattle, he thereby guards the cattle from the rudriya, cf. above I, 7, 3, 21.
 
 [^494]: 211:5 See I, 8, 1, 12, 13.
 
@@ -411,7 +411,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^496]: 212:2 There is no indication in the text of two different practices being here referred to. The Kâ<i>n</i>va recension, however, puts in here, ‘but let him not do so,’ which is evidently understood in our text also.
 
-[^497]: 212:3 Viz. in the prâ<i>s</i>itrahara<i>n</i>a, or pan which is to receive the Brahman's portion. The hollow part of the vessel is to be either of the shape of a (hand-)mirror, i.e. with a round bowl, or of that of a <i>k</i>amasa or jug, i.e. with a square bowl ([p. 7](Book_1_1_1#p7), note [1](Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. On the underlayer' of butter, see I, 7, 2, 8.
+[^497]: 212:3 Viz. in the prâ<i>s</i>itrahara<i>n</i>a, or pan which is to receive the Brahman's portion. The hollow part of the vessel is to be either of the shape of a (hand-)mirror, i.e. with a round bowl, or of that of a <i>k</i>amasa or jug, i.e. with a square bowl ([p. 7](../Book_1_1_1#p7), note [1](../Book_1_1_1#fn90)). Kâty. I, 3, 40, 42. On the underlayer' of butter, see I, 7, 2, 8.
 
 [^498]: 212:4 ‘Tiryag evaina<i>m</i> nirmimîte.’ I am in doubt as to whether p. 213 enam (which is omitted in the Kâ<i>n</i>va text) really refers to Rudra's dart. Cf. par. 9.
 

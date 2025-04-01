@@ -130,7 +130,7 @@ The last Sabbath in this month is called the “Portion of Shekels.” Such Port
 
 14 and 15. Feast of Purim for the destruction of Haman.
 
-(       ) Veaddar or the additional Adar—the month intercalated to make the lunar and solar years correspond. (See _note_ \[[1](Treatise10_1#fn363)\], page [176](Treatise10_1#p176)). In the present year, A.D. 1877, according to Jewish Chronology, the year A.M. 5638 began on the first day of Tishri.
+(       ) Veaddar or the additional Adar—the month intercalated to make the lunar and solar years correspond. (See _note_ \[[1](../Treatise10_1#fn363)\], page [176](../Treatise10_1#p176)). In the present year, A.D. 1877, according to Jewish Chronology, the year A.M. 5638 began on the first day of Tishri.
 
 <figure class="table chapter-navigator">
   <table>

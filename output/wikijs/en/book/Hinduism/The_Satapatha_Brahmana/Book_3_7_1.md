@@ -209,7 +209,7 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^560]: 300:1 Sâya<i>n</i>a, on Taitt. S. IV, 2, 4, takes ‘sa<i>m</i><i>g</i><i>ñ</i>ânam’ in the sense of ‘knowledge, recognition;’ explaining it from the fact that cattle by their smell recognise the places of saline soil and lick them.
 
-[^561]: 300:2 Or, to keep (the fire) from burning over (or through the sand, and injuring the saline soil or amnion). For the construction, see [p. 198](Book_3_6_3#p198), note [2](Book_3_6_3#fn407).
+[^561]: 300:2 Or, to keep (the fire) from burning over (or through the sand, and injuring the saline soil or amnion). For the construction, see [p. 198](../Book_3_6_3#p198), note [2](../Book_3_6_3#fn407).
 
 [^562]: 300:3 This notion is apparently based on the supposed etymological connection of ‘<i>s</i>ikatâ,’ sand, with the root ‘si<i>k</i>.’
 
@@ -217,13 +217,13 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^564]: 301:2 ? That is, by digging in each stone, the circle consisting of altogether twenty-one stones.
 
-[^565]: 301:3 The two ceremonies here referred to, viz. the ‘sâdana’ (settling, setting, steadying, viz. by means of the formula, XII, 53, ‘with the help of that deity lie thou steady, like Aṅgiras,’ see [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30)) and the muttering of the Sûdadohas verse (Vâ<i>g</i>. S. XII, 55, for which p. 302 see note \*[^575]\* to [paragraph 31](Book_3_7_1#v7_1_1_31)), are the so-called ‘necessary’ rites, because they have as a rule to be performed on each (special) brick, when it has been laid down in building up the fire-altar.
+[^565]: 301:3 The two ceremonies here referred to, viz. the ‘sâdana’ (settling, setting, steadying, viz. by means of the formula, XII, 53, ‘with the help of that deity lie thou steady, like Aṅgiras,’ see [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30)) and the muttering of the Sûdadohas verse (Vâ<i>g</i>. S. XII, 55, for which p. 302 see note \*[^575]\* to [paragraph 31](../Book_3_7_1#v7_1_1_31)), are the so-called ‘necessary’ rites, because they have as a rule to be performed on each (special) brick, when it has been laid down in building up the fire-altar.
 
-[^566]: 302:1 Viz. the so-called ‘lokamp<i>ri</i><i>n</i>â’ (or space-filling bricks), for which see [p. 153](Book_3_6_1#p153), note \*[1](Book_3_6_1#fn306)\*.
+[^566]: 302:1 Viz. the so-called ‘lokamp<i>ri</i><i>n</i>â’ (or space-filling bricks), for which see [p. 153](../Book_3_6_1#p153), note \*[1](../Book_3_6_1#fn306)\*.
 
 [^567]: 303:1 That is, with the lines by which they are marked running from west to east. Whilst these four bricks are oblong ones, measuring two feet by one, the four placed at the back and in front of them measure each a foot square, as do also those placed in the corners of the square pile, except the south-east corner, where two bricks are to be placed measuring one foot by half a foot each.
 
-[^568]: 303:2 See [VI, 1, 1, 3](Book_3_6_1#v6_1_1_3)\-[6](Book_3_6_1#v6_1_1_6).
+[^568]: 303:2 See [VI, 1, 1, 3](../Book_3_6_1#v6_1_1_3)\-[6](../Book_3_6_1#v6_1_1_6).
 
 [^569]: 303:3 Or ‘yonder,’ that is, as the great fire-altar, soon to be built, which is ultimately to receive the Âhavanîya fire, taken from the Gârhapatya.
 
@@ -239,7 +239,7 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^575]: 306:1 They are joined to each other, according to Sâya<i>n</i>a, but this can hardly be the meaning intended, as the stones lie close to each other also at the lower (western) end.
 
-[^576]: 307:1 This common portion of the two formulas forms the so-called ‘settling’ (or ‘setting’) formula (sâdana); Kâty. Sr. XVI, 7, 14; cf. [VI, 1, 2, 28](Book_3_6_1#v6_1_2_28), and [p. 301](#p301), note [^563]. Aṅgiras-like' apparently means, ‘as (thou didst) in the case of, or with, Aṅgiras.’
+[^576]: 307:1 This common portion of the two formulas forms the so-called ‘settling’ (or ‘setting’) formula (sâdana); Kâty. Sr. XVI, 7, 14; cf. [VI, 1, 2, 28](../Book_3_6_1#v6_1_2_28), and [p. 301](#p301), note [^563]. Aṅgiras-like' apparently means, ‘as (thou didst) in the case of, or with, Aṅgiras.’
 
 [^577]: 307:2 Vâ<i>g</i>. S. XII, 55; <i>Ri</i>k S. VIII, 69, 3. ‘At his birth the well-like milking, speckled ones mix the Soma (draught), the clans of the gods in the three spheres of the heavens.’ This difficult verse has been differently translated by different translators. The Brâhma<i>n</i>a itself also gives a very different, doubtless quite fanciful, interpretation of it at VIII, 7, 3, 21.
 
@@ -247,7 +247,7 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^579]: 307:4 Or, ‘thus (it goes,—or, Agni, as a bird, flies) to the gods.’
 
-[^580]: 307:5 See [VI, 1, 1, 15](Book_3_6_1#v6_1_1_15).
+[^580]: 307:5 See [VI, 1, 1, 15](../Book_3_6_1#v6_1_1_15).
 
 [^581]: 308:1 VIII, 7, 2, 1 seq.
 
@@ -263,25 +263,25 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^587]: 309:3 See part ii, p. 116, note 3, ‘The earth taken from the pit being used for constructing the high altar, both are of the same size or cubic extent.’
 
-[^588]: 309:4 See [VI, 3, 3, 26](Book_3_6_3#v6_3_3_26).
+[^588]: 309:4 See [VI, 3, 3, 26](../Book_3_6_3#v6_3_3_26).
 
 [^589]: 309:5 Or rather, it is a circle corresponding in area to a square of one fathom; which gives a diameter somewhat exceeding in length a fathom (that is, the space between the tips of the middle fingers when the arms are extended). The measurement is (at least theoretically) a relative one, being adapted to the Sacrificer's size; but practically the fathom (vyâma, or purusha, man) may be taken to be of about 6 feet, the vyâma being equal to 4 aratnis (cubits) of 2 prâde<i>s</i>as (spans of some 18 inches each). This allows for a central square of 4 feet, and about 1 foot (in reality somewhat less) for each of the two bisectors of the segments.
 
 [^590]: 310:1 That is, he pours the fire of the pan (ukhyâgni) on the Gârhapatya (hearth).
 
-[^591]: 310:2 ‘Purîshya’ seems here to have the sense of ‘rich, plentiful.’ See [p. 201](Book_3_6_3#p201), note \*[1](Book_3_6_3#fn415)\*.
+[^591]: 310:2 ‘Purîshya’ seems here to have the sense of ‘rich, plentiful.’ See [p. 201](../Book_3_6_3#p201), note \*[1](../Book_3_6_3#fn415)\*.
 
 [^592]: 310:3 ‘Ukhâ,’ the pan, is feminine, and represents the womb from which Agni is born.
 
-[^593]: 311:1 [VI, 3, 1, 30](Book_3_6_3#v6_3_1_30).
+[^593]: 311:1 [VI, 3, 1, 30](../Book_3_6_3#v6_3_1_30).
 
-[^594]: 311:2 See [VII, 5, 2, 14](Book_3_7_5#v7_5_2_14).
+[^594]: 311:2 See [VII, 5, 2, 14](../Book_3_7_5#v7_5_2_14).
 
 [^595]: 312:1 Literally, fallen asunder, i.e. broken to pieces, or disjointed (‘opened,’ Delbrück, Synt. F. V, p. 385).
 
 [^596]: 314:1 Or, in whatever part of this (year) from henceforward he should not do so.
 
-[^597]: 314:2 It is very doubtful whether. this second clause of the oratio directa is really meant to belong to Vâmakakshâya<i>n</i>a's argument, or whether it is the author's own, in which case it has to be taken with what follows. ‘Lest he should . . . pieces, he (first) restores him,’ &c. That is, he is not to place him (Pra<i>g</i>âpati) in an upright position, until he has been completely restored. The particular form of the participle qualifying Pra<i>g</i>âpati (vi<i>kh</i>idyamâna) might seem to favour the former alternative; see, however, [paragraph 23](Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, ‘after the two ends have been perfected.’
+[^597]: 314:2 It is very doubtful whether. this second clause of the oratio directa is really meant to belong to Vâmakakshâya<i>n</i>a's argument, or whether it is the author's own, in which case it has to be taken with what follows. ‘Lest he should . . . pieces, he (first) restores him,’ &c. That is, he is not to place him (Pra<i>g</i>âpati) in an upright position, until he has been completely restored. The particular form of the participle qualifying Pra<i>g</i>âpati (vi<i>kh</i>idyamâna) might seem to favour the former alternative; see, however, [paragraph 23](../Book_3_7_1#v7_1_2_23), antayo<i>h</i> sa<i>m</i>skriyamâ<i>n</i>ayor, ‘after the two ends have been perfected.’
 
 [^598]: 314:3 In this and the following paragraphs the ordinary position of subject and predicate seems often reversed: in the present case one would expect—that air is to him the space between the two fires.
 
@@ -297,11 +297,11 @@ SEVENTH KÂ<i>N</i><i>D</i>A.
 
 [^604]: 316:2 That is to say, these thirty-two items form, as it were, an Anush<i>t</i>ubh verse consisting of thirty-two syllables.
 
-[^605]: 316:3 See [VII, 2, 1, 1](Book_3_7_2#v7_2_1_1) seq.
+[^605]: 316:3 See [VII, 2, 1, 1](../Book_3_7_2#v7_2_1_1) seq.
 
-[^606]: 316:4 I do not see what other formulas can be intended here except those addressed to the enclosing stones, concluding with the sâdana,' or ‘settling’ formula, viz. Vâ<i>g</i>. S. XII, 53; see above, [VII, 1, 1, 30](Book_3_7_1#v7_1_1_30); though these do not exactly yield thirty-two syllables, but thirty-four (see, however, [paragraph 22](Book_3_7_1#v7_1_2_22)). Our available MSS. of the commentary are unfortunately defective at this place.—On the artificial manipulation of making up imaginary metres by the mere number of syllables, irrespective of their real prosodic value, see Professor Weber, Ind. Stud., VIII, p. 23 seq.
+[^606]: 316:4 I do not see what other formulas can be intended here except those addressed to the enclosing stones, concluding with the sâdana,' or ‘settling’ formula, viz. Vâ<i>g</i>. S. XII, 53; see above, [VII, 1, 1, 30](../Book_3_7_1#v7_1_1_30); though these do not exactly yield thirty-two syllables, but thirty-four (see, however, [paragraph 22](../Book_3_7_1#v7_1_2_22)). Our available MSS. of the commentary are unfortunately defective at this place.—On the artificial manipulation of making up imaginary metres by the mere number of syllables, irrespective of their real prosodic value, see Professor Weber, Ind. Stud., VIII, p. 23 seq.
 
-[^607]: 317:1 Or, the Dhish<i>n</i>ya hearths (see [paragraph 23](Book_3_7_1#v7_1_2_23)), which are more properly situated between the Gârhapatya and the Âhavanîya fireplaces. See the plan of the sacrificial ground in part ii; where, however, the Âhavanîya of the Prâ<i>k</i>înava<i>m</i><i>s</i>a (hall), or the so-called <i>s</i>âlâdvârya (hall-door fire), would represent the Gârhapatya for the Âhavanîya of the Mahâvedi.
+[^607]: 317:1 Or, the Dhish<i>n</i>ya hearths (see [paragraph 23](../Book_3_7_1#v7_1_2_23)), which are more properly situated between the Gârhapatya and the Âhavanîya fireplaces. See the plan of the sacrificial ground in part ii; where, however, the Âhavanîya of the Prâ<i>k</i>înava<i>m</i><i>s</i>a (hall), or the so-called <i>s</i>âlâdvârya (hall-door fire), would represent the Gârhapatya for the Âhavanîya of the Mahâvedi.
 
 [^608]: 318:1 The same latitude in the computation of the number of syllables constituting a metre is conceded, Ait. Br. I, 6.
 

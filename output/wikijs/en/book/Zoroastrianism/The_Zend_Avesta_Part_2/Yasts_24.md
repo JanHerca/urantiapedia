@@ -306,9 +306,9 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1460]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) belongs to § 2 (W.).
 
-[^1461]: 328:6 See [p. 326](Yasts_23#p326), note [8](Yasts_23#fn1374).
+[^1461]: 328:6 See [p. 326](../Yasts_23#p326), note [8](../Yasts_23#fn1374).
 
-[^1462]: 328:7 See [p. 326](Yasts_23#p326), note [9](Yasts_23#fn1375).
+[^1462]: 328:7 See [p. 326](../Yasts_23#p326), note [9](../Yasts_23#fn1375).
 
 [^1463]: 328:8 Immortality (cf. Yt. XXIII, 7). W. has ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
 
@@ -346,7 +346,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1480]: 330:7 See Vend. Introd. IV, 30.
 
-[^1481]: 330:8 See [p. 11](Sirozahs_1#p11), note [5](Sirozahs_1#fn77).
+[^1481]: 330:8 See [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
 
 [^1482]: 330:9 Pâre<i>n</i>di.
 
@@ -402,7 +402,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1508]: 335:4 The soul of the righteous.
 
-[^1509]: 335:5 See page [152](Yasts_10#p152), note [1](Yasts_10#fn698).
+[^1509]: 335:5 See page [152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
 [^1510]: 335:6 The Pahlavi has, ‘the way of Zarathu<i>s</i>tra’ (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
 

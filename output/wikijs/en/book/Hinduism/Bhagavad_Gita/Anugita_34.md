@@ -75,7 +75,7 @@ Which (form of) piety is deemed to be the most worthy of being performed? We obs
 
 [^1950]: 375:4 This is the view of those who hold the theory of Pari<i>n</i>âma, or development, says Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1951]: 375:5 ‘To be one’ = knowledge to be all of one description, ‘distinct’ = knowledge having various entities for its distinct objects (this is the view of the holders of the Vi<i>g</i>ñânavâda, says Ar<i>g</i>una Mi<i>s</i>ra); manifold = that the selfs are numberless. The words here are nearly identical with those at Gîtâ, [p. 83](Bhagavadgita_9#p83), see note [4](Bhagavadgita_9#fn323) there.
+[^1951]: 375:5 ‘To be one’ = knowledge to be all of one description, ‘distinct’ = knowledge having various entities for its distinct objects (this is the view of the holders of the Vi<i>g</i>ñânavâda, says Ar<i>g</i>una Mi<i>s</i>ra); manifold = that the selfs are numberless. The words here are nearly identical with those at Gîtâ, [p. 83](../Bhagavadgita_9#p83), see note [4](../Bhagavadgita_9#fn323) there.
 
 [^1952]: 375:6 I. e. help in action, Ar<i>g</i>una Mi<i>s</i>ra.
 

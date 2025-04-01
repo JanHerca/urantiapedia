@@ -26,6 +26,8 @@ dateCreated: 2025-2-12T12:11:22Z
   </table>
 </figure>
 
+<a id="c1"></a>
+
 ## 1
 
 <p style="text-align:center;">
@@ -47,6 +49,8 @@ takes place, it receives the different names. Together we call them<br>
 the Mystery. Where the Mystery is the deepest is the gate of all that<br>
 is subtle and wonderful.<br>
 </p>
+
+<a id="c2"></a>
 
 ## 2
 
@@ -77,6 +81,8 @@ The work is done, but how no one can see;<br>
 ‘Tis this that makes the power not cease to be.<br>
 </p>
 
+<a id="c3"></a>
+
 ## 3
 
 <p style="text-align:center;">
@@ -96,6 +102,8 @@ from presuming to act (on it). When there is this abstinence from<br>
 action, good order is universal.<br>
 </p>
 
+<a id="c4"></a>
+
 ## 4
 
 <p style="text-align:center;">
@@ -112,6 +120,8 @@ is, as if it would ever so continue!<br>
 I do not know whose son it is. It might appear to have been before<br>
 God.<br>
 </p>
+
+<a id="c5"></a>
 
 ## 5
 
@@ -130,6 +140,8 @@ Much speech to swift exhaustion lead we see;<br>
 Your inner being guard, and keep it free.<br>
 </p>
 
+<a id="c6"></a>
+
 ## 6
 
 <p style="text-align:center;">
@@ -140,6 +152,8 @@ Is called the root from which grew heaven and earth.<br>
 Long and unbroken does its power remain,<br>
 Used gently, and without the touch of pain.<br>
 </p>
+
+<a id="c7"></a>
 
 ## 7
 
@@ -154,6 +168,8 @@ the foremost place; he treats his person as if it were foreign to him,<br>
 and yet that person is preserved. Is it not because he has no<br>
 personal and private ends, that therefore such ends are realised?<br>
 </p>
+
+<a id="c8"></a>
 
 ## 8
 
@@ -173,6 +189,8 @@ And when (one with the highest excellence) does not wrangle (about<br>
 his low position), no one finds fault with him.<br>
 </p>
 
+<a id="c9"></a>
+
 ## 9
 
 <p style="text-align:center;">
@@ -185,6 +203,8 @@ safe. When wealth and honours lead to arrogancy, this brings its evil<br>
 on itself. When the work is done, and one's name is becoming<br>
 distinguished, to withdraw into obscurity is the way of Heaven.<br>
 </p>
+
+<a id="c10"></a>
 
 ## 10
 
@@ -208,6 +228,8 @@ boast of it; it presides over all, and yet does not control them.<br>
 This is what is called ‘The mysterious Quality’ (of the Tao).<br>
 </p>
 
+<a id="c11"></a>
+
 ## 11
 
 <p style="text-align:center;">
@@ -219,6 +241,8 @@ to form an apartment; but it is on the empty space (within), that its<br>
 use depends. Therefore, what has a (positive) existence serves for<br>
 profitable adaptation, and what has not that for (actual) usefulness.<br>
 </p>
+
+<a id="c12"></a>
 
 ## 12
 
@@ -234,6 +258,8 @@ Therefore the sage seeks to satisfy (the craving of) the belly, and<br>
 not the (insatiable longing of the) eyes. He puts from him the<br>
 latter, and prefers to seek the former.<br>
 </p>
+
+<a id="c13"></a>
 
 ## 13
 
@@ -260,6 +286,8 @@ administer it with the love which he bears to his own person may be<br>
 entrusted with it.<br>
 </p>
 
+<a id="c14"></a>
+
 ## 14
 
 <p style="text-align:center;">
@@ -281,6 +309,8 @@ its Back. When we can lay hold of the Tao of old to direct the things<br>
 of the present day, and are able to know it as it was of old in the<br>
 beginning, this is called (unwinding) the clue of Tao.<br>
 </p>
+
+<a id="c15"></a>
 
 ## 15
 
@@ -306,6 +336,8 @@ themselves). It is through their not being full of themselves that<br>
 they can afford to seem worn and not appear new and complete.<br>
 </p>
 
+<a id="c16"></a>
+
 ## 16
 
 <p style="text-align:center;">
@@ -329,6 +361,8 @@ heaven he possesses the Tao. Possessed of the Tao, he endures long;<br>
 and to the end of his bodily life, is exempt from all danger of decay.<br>
 </p>
 
+<a id="c17"></a>
+
 ## 17
 
 <p style="text-align:center;">
@@ -344,6 +378,8 @@ Their work was done and their undertakings were successful, while the<br>
 people all said, ‘We are as we are, of ourselves!’<br>
 </p>
 
+<a id="c18"></a>
+
 ## 18
 
 <p style="text-align:center;">
@@ -355,6 +391,8 @@ When harmony no longer prevailed throughout the six kinships,<br>
 filial sons found their manifestation; when the states and clans fell<br>
 into disorder, loyal ministers appeared.<br>
 </p>
+
+<a id="c19"></a>
 
 ## 19
 
@@ -372,6 +410,8 @@ And made these names their want of worth to veil;<br>
 But simple views, and courses plain and true<br>
 Would selfish ends and many lusts eschew.<br>
 </p>
+
+<a id="c20"></a>
 
 ## 20
 
@@ -402,6 +442,8 @@ I alone seem dull and incapable, like a rude borderer. (Thus) I alone<br>
 am different from other men, but I value the nursing-mother (the Tao).<br>
 </p>
 
+<a id="c21"></a>
+
 ## 21
 
 <p style="text-align:center;">
@@ -426,6 +468,8 @@ How know I that it is so with all the beauties of existing things? By<br>
 this (nature of the Tao).<br>
 </p>
 
+<a id="c22"></a>
+
 ## 22
 
 <p style="text-align:center;">
@@ -444,6 +488,8 @@ therefore no one in the world is able to strive with him.<br>
 That saying of the ancients that ‘the partial becomes complete’ was<br>
 not vainly spoken:—all real completion is comprehended under it.<br>
 </p>
+
+<a id="c23"></a>
 
 ## 23
 
@@ -468,6 +514,8 @@ in their failure have also the happiness of attaining (to the Tao).<br>
 faith (in him) ensues (on the part of the others).<br>
 </p>
 
+<a id="c24"></a>
+
 ## 24
 
 <p style="text-align:center;">
@@ -479,6 +527,8 @@ conceited has no superiority allowed to him. Such conditions, viewed<br>
 from the standpoint of the Tao, are like remnants of food, or a tumour<br>
 on the body, which all dislike. Hence those who pursue (the course)<br>
 of the Tao do not adopt and allow them.</p>
+
+<a id="c25"></a>
 
 ## 25
 
@@ -504,6 +554,8 @@ Heaven; Heaven takes its law from the Tao. The law of the Tao is its<br>
 being what it is.<br>
 </p>
 
+<a id="c26"></a>
+
 ## 26
 
 <p style="text-align:center;">
@@ -517,6 +569,8 @@ them. How should the lord of a myriad chariots carry himself lightly<br>
 before the kingdom? If he do act lightly, he has lost his root (of<br>
 gravity); if he proceed to active movement, he will lose his throne.<br>
 </p>
+
+<a id="c27"></a>
 
 ## 27
 
@@ -538,6 +592,8 @@ his master, and the other did not rejoice in his helper, an<br>
 (observer), though intelligent, might greatly err about them. This is<br>
 called ‘The utmost degree of mystery.’<br>
 </p>
+
+<a id="c28"></a>
 
 ## 28
 
@@ -569,6 +625,8 @@ Officers (of government); and in his greatest regulations he employs<br>
 no violent measures.<br>
 </p>
 
+<a id="c29"></a>
+
 ## 29
 
 <p style="text-align:center;">
@@ -587,6 +645,8 @@ The store in ruins mocks our toil.<br>
 Hence the sage puts away excessive effort, extravagance, and easy<br>
 indulgence.<br>
 </p>
+
+<a id="c30"></a>
 
 ## 30
 
@@ -609,6 +669,8 @@ When things have attained their strong maturity they become old.<br>
 This may be said to be not in accordance with the Tao: and what is not<br>
 in accordance with it soon comes to an end.<br>
 </p>
+
+<a id="c31"></a>
 
 ## 31
 
@@ -635,6 +697,8 @@ should weep for them with the bitterest grief; and the victor in<br>
 battle has his place (rightly) according to those rites.<br>
 </p>
 
+<a id="c32"></a>
+
 ## 32
 
 <p style="text-align:center;">
@@ -657,6 +721,8 @@ The relation of the Tao to all the world is like that of the great<br>
 rivers and seas to the streams from the valleys.<br>
 </p>
 
+<a id="c33"></a>
+
 ## 33
 
 <p style="text-align:center;">
@@ -668,6 +734,8 @@ goes on acting with energy has a (firm) will.<br>
 He who does not fail in the requirements of his position, continues<br>
 long; he who dies and yet does not perish, has longevity.<br>
 </p>
+
+<a id="c34"></a>
 
 ## 34
 
@@ -689,6 +757,8 @@ achievements. It is through his not making himself great that he can<br>
 accomplish them.<br>
 </p>
 
+<a id="c35"></a>
+
 ## 35
 
 <p style="text-align:center;">
@@ -701,6 +771,8 @@ But though the Tao as it comes from the mouth, seems insipid and has<br>
 no flavour, though it seems not worth being looked at or listened to,<br>
 the use of it is inexhaustible.<br>
 </p>
+
+<a id="c36"></a>
 
 ## 36
 
@@ -717,6 +789,8 @@ The soft overcomes the hard; and the weak the strong.<br>
 Fishes should not be taken from the deep; instruments for the<br>
 profit of a state should not be shown to the people.<br>
 </p>
+
+<a id="c37"></a>
 
 ## 37
 
@@ -735,6 +809,8 @@ Is free from all external aim.<br>
 With no desire, at rest and still,<br>
 All things go right as of their will.<br>
 </p>
+
+<a id="c38"></a>
 
 ## 38
 
@@ -773,6 +849,8 @@ what is flimsy; dwells with the fruit and not with the flower. It is<br>
 thus that he puts away the one and makes choice of the other.<br>
 </p>
 
+<a id="c39"></a>
+
 ## 39
 
 <p style="text-align:center;">
@@ -808,6 +886,8 @@ elegant-looking as jade, but (prefer) to be coarse-looking as an<br>
 (ordinary) stone.<br>
 </p>
 
+<a id="c40"></a>
+
 ## 40
 
 <p style="text-align:center;">
@@ -819,6 +899,8 @@ Of Tao's mighty deeds.<br>
 All things under heaven sprang from It as existing (and named);<br>
 that existence sprang from It as non-existent (and not named).<br>
 </p>
+
+<a id="c41"></a>
 
 ## 41
 
@@ -850,6 +932,8 @@ skilful at imparting (to all things what they need) and making them<br>
 complete.<br>
 </p>
 
+<a id="c42"></a>
+
 ## 42
 
 <p style="text-align:center;">
@@ -870,6 +954,8 @@ do not die their natural death. I will make this the basis of my<br>
 teaching.<br>
 </p>
 
+<a id="c43"></a>
+
 ## 43
 
 <p style="text-align:center;">
@@ -881,6 +967,8 @@ is no crevice. I know hereby what advantage belongs to doing nothing<br>
 There are few in the world who attain to the teaching without<br>
 words, and the advantage arising from non-action.<br>
 </p>
+
+<a id="c44"></a>
 
 ## 44
 
@@ -907,6 +995,8 @@ From danger free<br>
 Long live shall he.<br>
 </p>
 
+<a id="c45"></a>
+
 ## 45
 
 <p style="text-align:center;">
@@ -922,6 +1012,8 @@ Constant action overcomes cold; being still overcomes heat. Purity<br>
 and stillness give the correct law to all under heaven.<br>
 </p>
 
+<a id="c46"></a>
+
 ## 46
 
 <p style="text-align:center;">
@@ -935,6 +1027,8 @@ the wish to be getting. Therefore the sufficiency of contentment is<br>
 an enduring and unchanging sufficiency.<br>
 </p>
 
+<a id="c47"></a>
+
 ## 47
 
 <p style="text-align:center;">
@@ -947,6 +1041,8 @@ Therefore the sages got their knowledge without travelling; gave<br>
 their (right) names to things without seeing them; and accomplished<br>
 their ends without any purpose of doing so.<br>
 </p>
+
+<a id="c48"></a>
 
 ## 48
 
@@ -964,6 +1060,8 @@ no trouble (with that end). If one take trouble (with that end), he<br>
 is not equal to getting as his own all under heaven.<br>
 </p>
 
+<a id="c49"></a>
+
 ## 49
 
 <p style="text-align:center;">
@@ -980,6 +1078,8 @@ The sage has in the world an appearance of indecision, and keeps<br>
 his mind in a state of indifference to all. The people all keep their<br>
 eyes and ears directed to him, and he deals with them all as his<br>
 children.</p>
+
+<a id="c50"></a>
 
 ## 50
 
@@ -1002,6 +1102,8 @@ nor the weapon a place to admit its point. And for what reason?<br>
 Because there is in him no place of death.<br>
 </p>
 
+<a id="c51"></a>
+
 ## 51
 
 <p style="text-align:center;">
@@ -1023,6 +1125,8 @@ carries them through their processes and does not vaunt its ability in<br>
 doing so; it brings them to maturity and exercises no control over<br>
 them;—this is called its mysterious operation.<br>
 </p>
+
+<a id="c52"></a>
 
 ## 52
 
@@ -1050,6 +1154,8 @@ Will from his body ward all blight,<br>
 And hides the unchanging from men's sight.<br>
 </p>
 
+<a id="c53"></a>
+
 ## 53
 
 <p style="text-align:center;">
@@ -1067,6 +1173,8 @@ girdle, pamper themselves in eating and drinking, and have a<br>
 superabundance of property and wealth;—such (princes) may be called<br>
 robbers and boasters. This is contrary to the Tao surely!<br>
 </p>
+
+<a id="c54"></a>
 
 ## 54
 
@@ -1097,6 +1205,8 @@ How do I know that this effect is sure to hold thus all under the<br>
 sky? By this (method of observation).<br>
 </p>
 
+<a id="c55"></a>
+
 ## 55
 
 <p style="text-align:center;">
@@ -1122,6 +1232,8 @@ be said to be contrary to the Tao. Whatever is contrary to the Tao<br>
 soon ends.<br>
 </p>
 
+<a id="c56"></a>
+
 ## 56
 
 <p style="text-align:center;">
@@ -1138,6 +1250,8 @@ himself into agreement with the obscurity (of others). This is called<br>
 beyond all consideration of profit or injury; of nobility or<br>
 meanness:—he is the noblest man under heaven.<br>
 </p>
+
+<a id="c57"></a>
 
 ## 57
 
@@ -1162,6 +1276,8 @@ will manifest no ambition, and the people will of themselves attain to<br>
 the primitive simplicity.’<br>
 </p>
 
+<a id="c58"></a>
+
 ## 58
 
 <p style="text-align:center;">
@@ -1184,6 +1300,8 @@ He is straightforward, but allows himself no license; he is bright,<br>
 but does not dazzle.<br>
 </p>
 
+<a id="c59"></a>
+
 ## 59
 
 <p style="text-align:center;">
@@ -1205,6 +1323,8 @@ deep and its flower stalks firm:—this is the way to secure that its<br>
 enduring life shall long be seen.<br>
 </p>
 
+<a id="c60"></a>
+
 ## 60
 
 <p style="text-align:center;">
@@ -1219,6 +1339,8 @@ neither does the ruling sage hurt them.<br>
 When these two do not injuriously affect each other, their good<br>
 influences converge in the virtue (of the Tao).<br>
 </p>
+
+<a id="c61"></a>
 
 ## 61
 
@@ -1241,6 +1363,8 @@ a small state only wishes to be received by, and to serve, the other.<br>
 Each gets what it desires, but the great state must learn to abase<br>
 itself.<br>
 </p>
+
+<a id="c62"></a>
 
 ## 62
 
@@ -1266,6 +1390,8 @@ because it could be got by seeking for it, and the guilty could escape<br>
 under heaven consider it the most valuable thing.<br>
 </p>
 
+<a id="c63"></a>
+
 ## 63
 
 <p style="text-align:center;">
@@ -1287,6 +1413,8 @@ continually thinking things easy is sure to find them difficult.<br>
 Therefore the sage sees difficulty even in what seems easy, and so<br>
 never has any difficulties.<br>
 </p>
+
+<a id="c64"></a>
 
 ## 64
 
@@ -1317,6 +1445,8 @@ Thus he helps the natural development of all things, and does not dare<br>
 to act (with an ulterior purpose of his own).<br>
 </p>
 
+<a id="c65"></a>
+
 ## 65
 
 <p style="text-align:center;">
@@ -1334,6 +1464,8 @@ the mysterious excellence (of a governor). Deep and far-reaching is<br>
 such mysterious excellence, showing indeed its possessor as opposite<br>
 to others, but leading them to a great conformity to him.<br>
 </p>
+
+<a id="c66"></a>
 
 ## 66
 
@@ -1353,6 +1485,8 @@ Therefore all in the world delight to exalt him and do not weary of<br>
 him. Because he does not strive, no one finds it possible to strive<br>
 with him.<br>
 </p>
+
+<a id="c67"></a>
 
 ## 67
 
@@ -1378,6 +1512,8 @@ maintain its ground. Heaven will save its possessor, by his (very)<br>
 gentleness protecting him.<br>
 </p>
 
+<a id="c68"></a>
+
 ## 68
 
 <p style="text-align:center;">
@@ -1398,6 +1534,8 @@ Thus we say, 'Like Heaven's his ends,<br>
 No sage of old more bright.’<br>
 </p>
 
+<a id="c69"></a>
+
 ## 69
 
 <p style="text-align:center;">
@@ -1415,6 +1553,8 @@ that when opposing weapons are (actually) crossed, he who deplores<br>
 (the situation) conquers.<br>
 </p>
 
+<a id="c70"></a>
+
 ## 70
 
 <p style="text-align:center;">
@@ -1431,6 +1571,8 @@ prized. It is thus that the sage wears (a poor garb of) hair cloth,<br>
 while he carries his (signet of) jade in his bosom.<br>
 </p>
 
+<a id="c71"></a>
+
 ## 71
 
 <p style="text-align:center;">
@@ -1442,6 +1584,8 @@ disease that we are preserved from it. The sage has not the disease.<br>
 He knows the pain that would be inseparable from it, and therefore he<br>
 does not have it.<br>
 </p>
+
+<a id="c72"></a>
 
 ## 72
 
@@ -1460,6 +1604,8 @@ parade (his knowledge); loves, but does not (appear to set a) value<br>
 on, himself. And thus he puts the latter alternative away and makes<br>
 choice of the former.<br>
 </p>
+
+<a id="c73"></a>
 
 ## 73
 
@@ -1483,6 +1629,8 @@ The meshes of the net of Heaven are large; far apart, but letting<br>
 nothing escape.<br>
 </p>
 
+<a id="c74"></a>
+
 ## 74
 
 <p style="text-align:center;">
@@ -1496,6 +1644,8 @@ would inflict death in the room of him who so presides over it may be<br>
 described as hewing wood instead of a great carpenter. Seldom is it<br>
 that he who undertakes the hewing, instead of the great carpenter,<br>
 does not cut his own hands!</p>
+
+<a id="c75"></a>
 
 ## 75
 
@@ -1515,6 +1665,8 @@ living altogether out of view is better than to set a high value on<br>
 it.<br>
 </p>
 
+<a id="c76"></a>
+
 ## 76
 
 <p style="text-align:center;">
@@ -1532,6 +1684,8 @@ conquer; and a tree which is strong will fill the out-stretched arms,<br>
 Therefore the place of what is firm and strong is below, and that<br>
 of what is soft and weak is above.<br>
 </p>
+
+<a id="c77"></a>
 
 ## 77
 
@@ -1554,6 +1708,8 @@ his; he achieves his merit and does not rest (arrogantly) in it:—he<br>
 does not wish to display his superiority.<br>
 </p>
 
+<a id="c78"></a>
+
 ## 78
 
 <p style="text-align:center;">
@@ -1574,6 +1730,8 @@ They all the name of King accord.’<br>
 Words that are strictly true seem to be paradoxical.<br>
 </p>
 
+<a id="c79"></a>
+
 ## 79
 
 <p style="text-align:center;">
@@ -1592,6 +1750,8 @@ conditions favourable to himself.<br>
 In the Way of Heaven, there is no partiality of love; it is always<br>
 on the side of the good man.<br>
 </p>
+
+<a id="c80"></a>
 
 ## 80
 
@@ -1618,6 +1778,8 @@ of the fowls and dogs should be heard all the way from it to us, but I<br>
 would make the people to old age, even to death, not have any<br>
 intercourse with it.<br>
 </p>
+
+<a id="c81"></a>
 
 ## 81
 

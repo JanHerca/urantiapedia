@@ -188,7 +188,7 @@ The Brâhma<i>n</i>as and Kalpa-sûtras treat of the so-called <i>S</i>rauta or 
 
 [^26]: xxiv:1 See R. Roth in Weber's Ind. Stud. I, 475 seq.; II, 111 seq.; Max Müller, History of Ancient Sanskrit Literature, p. 408 seq.
 
-[^27]: xxiv:2 See the present volume, [p. 183](Book_1_1_7#p183). Compare also Professor Aufrecht's remarks on the myth of Apâlâ, Ind. Stud. IV, p. 8.
+[^27]: xxiv:2 See the present volume, [p. 183](../Book_1_1_7#p183). Compare also Professor Aufrecht's remarks on the myth of Apâlâ, Ind. Stud. IV, p. 8.
 
 [^28]: xxiv:3 K. B. III, 25; cf. Weber, Ind. Stud. II, 353.
 
@@ -314,7 +314,7 @@ The Brâhma<i>n</i>as and Kalpa-sûtras treat of the so-called <i>S</i>rauta or 
 
 [^65]: xli:3 Ind. Stud. I, 187 seq.
 
-[^66]: xli:4 See the present volume, [p. 204](Book_1_1_7#p204), with note. It would have been safer to give the name as Videgha Mâthava, instead of Mâthava the Videgha.
+[^66]: xli:4 See the present volume, [p. 204](../Book_1_1_7#p204), with note. It would have been safer to give the name as Videgha Mâthava, instead of Mâthava the Videgha.
 
 [^67]: xli:5 See Ludwig, Rig-veda III, p. 205; Zimmer, Altindisches Leben, p. 103.
 

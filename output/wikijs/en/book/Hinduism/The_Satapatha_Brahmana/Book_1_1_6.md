@@ -74,7 +74,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ### THE TWO BUTTER-PORTIONS (Â<i>G</i>YABHÂGA) TO AGNI AND SOMA.
 
-<span id="v1_6_1_2020"><sup><small>1:6:1:2020.</small></sup></span>  Here now some say, ‘To what deity belong the butter-portions?’ Let him reply, ‘To Pra<i>g</i>âpati;’ <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> for, assuredly, Pra<i>g</i>âpati is undefined [1](Book_1_1_6#fn373) (mysterious); and undefined are the butter-portions, because they have the sacrificer for their deity; for the sacrificer is Pra<i>g</i>âpati at his own sacrifice, since it is by his order that the priests spread and produce it.
+<span id="v1_6_1_2020"><sup><small>1:6:1:2020.</small></sup></span>  Here now some say, ‘To what deity belong the butter-portions?’ Let him reply, ‘To Pra<i>g</i>âpati;’ <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> for, assuredly, Pra<i>g</i>âpati is undefined [1](../Book_1_1_6#fn373) (mysterious); and undefined are the butter-portions, because they have the sacrificer for their deity; for the sacrificer is Pra<i>g</i>âpati at his own sacrifice, since it is by his order that the priests spread and produce it.
 
 <span id="v1_6_1_2121"><sup><small>1:6:1:2121.</small></sup></span>  Having basted the havis with butter and made two cuttings from it, he pours some of the butter thereon: thus the oblation is offered combined with butter, and thereby indeed it is offered combined with the sacrificer; and for one who knows this,—whether he has a sacrifice performed for him while he is far away, or while he is near,—the sacrifice is performed in the same way as it would be performed if he were near; and he who knows this, even though he do much evil, is not shut out from the sacrifice.
 
@@ -103,7 +103,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v1_6_2_1111"><sup><small>1:6:2:1111.</small></sup></span>  Agni, assuredly, is the nearest of the gods: let him then have recourse to him whom he considers as the nearest of those to be approached, and therefore (let him announce the sacrifice) to Agni.
 
-<span id="v1_6_2_1212"><sup><small>1:6:2:1212.</small></sup></span>  If (beside the full-moon sacrifice) he perform an ish<i>t</i>i (with a view to the accomplishment of some <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> special desire) [1](Book_1_1_6#fn380), let him recite seventeen kindling verses; (and in that case) he utters the offering-prayer (yâ<i>g</i>yâ) in a low voice, for this is the characteristic form of an ish<i>t</i>i; the yâ<i>g</i>yâ and the anuvâkyâ should contain the word ‘head [2](Book_1_1_6#fn381);’ the two butter-portions should be offered to the V<i>ri</i>tra-slayer (Indra); and the two sa<i>m</i>yâ<i>g</i>yâs [3](Book_1_1_6#fn382) should be in the virâ<i>g</i> metre.
+<span id="v1_6_2_1212"><sup><small>1:6:2:1212.</small></sup></span>  If (beside the full-moon sacrifice) he perform an ish<i>t</i>i (with a view to the accomplishment of some <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> special desire) [1](../Book_1_1_6#fn380), let him recite seventeen kindling verses; (and in that case) he utters the offering-prayer (yâ<i>g</i>yâ) in a low voice, for this is the characteristic form of an ish<i>t</i>i; the yâ<i>g</i>yâ and the anuvâkyâ should contain the word ‘head [2](../Book_1_1_6#fn381);’ the two butter-portions should be offered to the V<i>ri</i>tra-slayer (Indra); and the two sa<i>m</i>yâ<i>g</i>yâs [3](../Book_1_1_6#fn382) should be in the virâ<i>g</i> metre.
 
 
 <span id="v1_6_3"><sup><small>1:6:3</small></sup></span>
@@ -265,7 +265,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^371]: 156:2 A<i>k</i>yuta, literally ‘not fallen,’ hence invariable, indispensable is an epithet frequently applied to Agni's sacrificial cake; cf. I, 4, 2, 16; I, 6, 2, 5.
 
-[^372]: 156:3 See [p. 148](Book_1_1_5#p148), note [2](Book_1_1_5#fn360).
+[^372]: 156:3 See [p. 148](../Book_1_1_5#p148), note [2](../Book_1_1_5#fn360).
 
 [^373]: 157:1 In the devatânâm âvahanam or invitation of the deities, the last formula, addressed to the butter-drinking deities, is supposed to refer to the fore- and after-offerings. Cf. I, 4, 2, 16-17.
 
@@ -313,7 +313,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^395]: 169:1 ‘Yatame vâ yatame vâ dve âpnoti.’ Sâya<i>n</i>a supplies vastunî, ‘objects.’ The Kâ<i>n</i>va recension, on the other hand, reads, ‘Yatame vâ yatame vâ dve devate âpnoti.’
 
-[^396]: 170:1 See [p. 80](Book_1_1_3#p80), note [2](Book_1_1_3#fn240). The objection here raised is, that the low-voiced offering, which is intermediate between the two above-mentioned oblations to Agni-Soma, is made to the same two deities.
+[^396]: 170:1 See [p. 80](../Book_1_1_3#p80), note [2](../Book_1_1_3#fn240). The objection here raised is, that the low-voiced offering, which is intermediate between the two above-mentioned oblations to Agni-Soma, is made to the same two deities.
 
 [^397]: 170:2 When the two butter-portions to Agni and Soma are offered, the Hot<i>ri</i> recites the verses Rig-veda VI, 16, 34 (Vâ<i>g</i>. S. 33, 9), and Rig-veda, I, 95, 5 (Vâ<i>g</i>. S. 19, 42) respectively, as anuvâkyâs, or invitatory prayers, each of which is followed by the yâ<i>g</i>yâ (offering-formula): ‘We who pronounce the offering-prayer to Agni (or Soma respectively),—may Agni (Soma) pleased (<i>g</i>ushâ<i>n</i>a<i>h</i>) accept of the butter-oblation! Vâusha<i>t</i>!’ At the low-voiced offering (upâ<i>m</i><i>s</i>uyâ<i>g</i>a) to Agni-Soma, on the other hand, he first utters (in a low voice) as anuvâkyâ the verse Rig-veda I, 93, 2, and thereupon as yâ<i>g</i>yâ Rig-veda I, 93, 6.
 
@@ -351,7 +351,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^414]: 178:3 By the admixture of milk the Soma-juice loses its brownish colour, and is therefore apparently considered to produce the same effect in those who drink the mixture.
 
-[^415]: 178:4 The preparation of the sânnâyya, as it is now practised by priests in Western India, is thus described by Haug (Ait. Br. II, p. 443): p. 179 ‘The Adhvaryu takes the milk from three cows called Gaṅgâ, Yamuna, and Sarasvatî, on the morning and evening, and gives it to the Âgnîdhra. Half the milk is first drawn from the udder of each of the three cows under the recital of mantras; then the same is done silently. The milk is taken from these cows on the evening of the new-moon day, and on the morning of the following day, the so-called Pratipad (the first day of the month). The milk drawn on the evening is made hot, and lime-juice poured over it to make it sour; whereupon it is hung up. The fresh milk of the following morning is then mixed with it, and both are sacrificed along with the Puro<i>d</i>â<i>s</i>a. Only he who has already performed the Agnish<i>t</i>oma is allowed to sacrifice the Sânnâyya at the Dar<i>s</i>apûr<i>n</i>ima ish<i>t</i>i. (Oral information.)’ In Vâ<i>g</i>. S. I, 4 (<i>S</i>at. Br. I, 7, 1, 17; Katy. IV, 2, 25, 26) the names of the three cows are given as Vi<i>s</i>vâyu, Vi<i>s</i>vakarman, and Vi<i>s</i>vadhâyus, unless these are intended merely for epithets or mystic names. Cf. [p. 188](Book_1_1_7#p188) note; Weber, Ind. Stud. IX, 232. Instead of the lime-juice, mentioned by Haug as used for rennet, Katy. IV, 2, 33 prescribes that the milk remaining from the Agnihotra of the preceding evening, and since become sour, should be used.
+[^415]: 178:4 The preparation of the sânnâyya, as it is now practised by priests in Western India, is thus described by Haug (Ait. Br. II, p. 443): p. 179 ‘The Adhvaryu takes the milk from three cows called Gaṅgâ, Yamuna, and Sarasvatî, on the morning and evening, and gives it to the Âgnîdhra. Half the milk is first drawn from the udder of each of the three cows under the recital of mantras; then the same is done silently. The milk is taken from these cows on the evening of the new-moon day, and on the morning of the following day, the so-called Pratipad (the first day of the month). The milk drawn on the evening is made hot, and lime-juice poured over it to make it sour; whereupon it is hung up. The fresh milk of the following morning is then mixed with it, and both are sacrificed along with the Puro<i>d</i>â<i>s</i>a. Only he who has already performed the Agnish<i>t</i>oma is allowed to sacrifice the Sânnâyya at the Dar<i>s</i>apûr<i>n</i>ima ish<i>t</i>i. (Oral information.)’ In Vâ<i>g</i>. S. I, 4 (<i>S</i>at. Br. I, 7, 1, 17; Katy. IV, 2, 25, 26) the names of the three cows are given as Vi<i>s</i>vâyu, Vi<i>s</i>vakarman, and Vi<i>s</i>vadhâyus, unless these are intended merely for epithets or mystic names. Cf. [p. 188](../Book_1_1_7#p188) note; Weber, Ind. Stud. IX, 232. Instead of the lime-juice, mentioned by Haug as used for rennet, Katy. IV, 2, 33 prescribes that the milk remaining from the Agnihotra of the preceding evening, and since become sour, should be used.
 
 [^416]: 179:1 Thus Taitt. S. II, 5, 5, 1.
 

@@ -241,7 +241,7 @@ The performance of the Dâkshâya<i>n</i>a sacrifice was held to be obligatory o
 
 [^791]: 357:1 See I, 9, 3, 21
 
-[^792]: 357:2 For this shorter form of worshipping the fires, see [p. 349](Book_1_2_3#p349), note [2](Book_1_2_3#fn781).
+[^792]: 357:2 For this shorter form of worshipping the fires, see [p. 349](../Book_1_2_3#p349), note [2](../Book_1_2_3#fn781).
 
 [^793]: 357:3 That is, a journey which will compel him to pass the night beyond the village boundary.
 
@@ -317,7 +317,7 @@ The performance of the Dâkshâya<i>n</i>a sacrifice was held to be obligatory o
 
 [^829]: 371:2 Or, he may do so. Kâty. IV, 6, 7 leaves the option between new and old grain.
 
-[^830]: 372:1 This is a ‘low-voiced’ oblation, the invitatory and offering prayers thereat (with the exception of the concluding ‘Vausha<i>t</i>’ and ‘Om’) being pronounced in a low tone. See [p. 171](Book_1_1_6#p171), note [1](Book_1_1_6#fn395); [p. 192](Book_1_1_7#p192), note [1](Book_1_1_7#fn439).
+[^830]: 372:1 This is a ‘low-voiced’ oblation, the invitatory and offering prayers thereat (with the exception of the concluding ‘Vausha<i>t</i>’ and ‘Om’) being pronounced in a low tone. See [p. 171](../Book_1_1_6#p171), note [1](../Book_1_1_6#fn395); [p. 192](../Book_1_1_7#p192), note [1](../Book_1_1_7#fn439).
 
 [^831]: 372:2 The Kâ<i>n</i>va text has: ‘The reason why it consists of one kapâla is that this earth is a kapâla, and that she is one only.’
 

@@ -138,11 +138,11 @@ Thus I say.
 
 [^919]: 310:2 See note on IX, 1.
 
-[^920]: 311:1 The same simile occurs also in I, 3, 4, 18, above [p. 271](Sutrakritanga_1_3_4#p271).
+[^920]: 311:1 The same simile occurs also in I, 3, 4, 18, above [p. 271](../Sutrakritanga_1_3_4#p271).
 
-[^921]: 311:2 The same verse occurred above, I, 1, 4, 10, [p. 247](Sutrakritanga_1_1_4#p247).
+[^921]: 311:2 The same verse occurred above, I, 1, 4, 10, [p. 247](../Sutrakritanga_1_1_4#p247).
 
-[^922]: 311:3 We have had the same verse above, I, 3, 4, 20, [p. 271](Sutrakritanga_1_3_4#p271).
+[^922]: 311:3 We have had the same verse above, I, 3, 4, 20, [p. 271](../Sutrakritanga_1_3_4#p271).
 
 [^923]: 312:1 This is the meaning of the phrase pûtikarma na sêvêta.
 
@@ -154,7 +154,7 @@ Thus I say.
 
 [^927]: 313:2 The commentators connect sâhu as adjective with dîvam, and supply Tîrthakara, &c. as subject.
 
-[^928]: 313:3 See above, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^928]: 313:3 See above, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).
 
 [^929]: 313:4 Samâdhi.
 

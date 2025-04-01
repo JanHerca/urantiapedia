@@ -247,9 +247,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^681]: 363:2 ? Or, in that (or because, yena) the waters flow,—that is to say, the flowing of the waters (rain, &c.) is a manifestation of eternal truth.
 
-[^682]: 364:1 See [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^682]: 364:1 See [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
-[^683]: 364:2 Viz., the one the Sacrificer wore round his neck during the initiation period. See [VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) seq.
+[^683]: 364:2 Viz., the one the Sacrificer wore round his neck during the initiation period. See [VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) seq.
 
 [^684]: 366:1 ‘Sîmata<i>h</i>’ would rather seem to mean ‘from the boundary line,’ but the author here takes ‘sîman’ in the sense of (sîmanta) ‘hair-line, parting of the hair, crown of the head (Scheitel).’
 
@@ -257,13 +257,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^686]: 366:3 It is usually with Indra that the Trish<i>t</i>ubh metre is connected—see part i, introduction, p. xviii; <i>S</i>at. Br. IX, 4, 3, 7 (cf. VIII, 5, 1, 10)—the Trish<i>t</i>ubh being also the emblem of the nobility (III, 4, 1, 10).
 
-[^687]: 366:4 See [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^687]: 366:4 See [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^688]: 367:1 Professor Weber, Ind. Stud. XIII, p. 249, takes ‘uttânam’ in the sense of ‘standing erect,’ with his face towards the east; but this surely must be a mistake.
 
 [^689]: 367:2 Viz. both the gold plate (the sun), which was laid down with the embossed or front side downwards, and the gold man.
 
-[^690]: 368:1 Cf. [VI, 7, 1, 11](Book_3_6_7#v6_7_1_11), where it is said that the immortal part of the vital air of man streams out by upward breathings. Cf. [p. 359](Book_3_7_3#p359), n. [1](Book_3_7_3#fn673).
+[^690]: 368:1 Cf. [VI, 7, 1, 11](../Book_3_6_7#v6_7_1_11), where it is said that the immortal part of the vital air of man streams out by upward breathings. Cf. [p. 359](../Book_3_7_3#p359), n. [1](../Book_3_7_3#fn673).
 
 [^691]: 369:1 That is, he sings the Kitra-sâman, Sâma-v. I, 169 (Vâ<i>g</i>. S. XXVII, 39), ‘With what favour will the bright one, the ever-growing friend, be with us; with what mightiest host?’
 
@@ -291,19 +291,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^699]: 378:1 The ‘pratish<i>th</i>â’ (basis) of the bird-shaped Agni includes the parts on which the bird stands or sits, viz. the feet, and the hind-part of the body. Sâya<i>n</i>a, on the other hand, takes it to mean the ‘pu<i>m</i>liṅga,’ which seems very improbable.
 
-[^700]: 378:2 See [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^700]: 378:2 See [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
-[^701]: 379:1 See [p. 155](Book_3_6_1#p155), note [8](Book_3_6_1#fn316).
+[^701]: 379:1 See [p. 155](../Book_3_6_1#p155), note [8](../Book_3_6_1#fn316).
 
 [^702]: 379:2. That is, by adding the formula, ‘By that deity, Aṅgiras-like, lie thou steady!’
 
-[^703]: 379:3 See [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^703]: 379:3 See [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^704]: 379:4 That is to say, How will he (the Sacrificer) be able to rise upwards to heaven, when that brick is lying on him?
 
-[^705]: 379:5 See [p. 187](Book_3_6_2#p187), note [3](Book_3_6_2#fn384).
+[^705]: 379:5 See [p. 187](../Book_3_6_2#p187), note [3](../Book_3_6_2#fn384).
 
-[^706]: 380:1 See [VI, 2, 3, 2](Book_3_6_2#v6_2_3_2).
+[^706]: 380:1 See [VI, 2, 3, 2](../Book_3_6_2#v6_2_3_2).
 
 [^707]: 381:1 The root is to lie on the brick from which (as representing the earth) it is supposed to have sprung; the tops then spreading along the ground.
 
@@ -317,13 +317,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^712]: 384:2 The two Reta<i>h</i>si<i>k</i> bricks are laid down immediately in front (east) of the Dviya<i>g</i>us one, one on each side of the ‘spine,’ which thus coincides with their line of separation.
 
-[^713]: 384:3 See [VI, 5, 3, 3](Book_3_6_5#v6_5_3_3).
+[^713]: 384:3 See [VI, 5, 3, 3](../Book_3_6_5#v6_5_3_3).
 
-[^714]: 384:4 As in the case of the Svayamât<i>ri</i><i>n</i><i>n</i>âs (naturally-perforated bricks, see pp. [155](Book_3_6_1#p155), note [8](Book_3_6_1#fn316); [187](Book_3_6_2#p187), note [2](Book_3_6_2#fn383)), so there are three Vi<i>s</i>va<i>g</i>yotis or ‘all-light’ bricks, placed in the first, third, and fifth layers p. 385 of the altar, and representing the light (or ruling deity) of the respective world represented by the svayamât<i>ri</i><i>n</i><i>n</i>â of the same layer.
+[^714]: 384:4 As in the case of the Svayamât<i>ri</i><i>n</i><i>n</i>âs (naturally-perforated bricks, see pp. [155](../Book_3_6_1#p155), note [8](../Book_3_6_1#fn316); [187](../Book_3_6_2#p187), note [2](../Book_3_6_2#fn383)), so there are three Vi<i>s</i>va<i>g</i>yotis or ‘all-light’ bricks, placed in the first, third, and fifth layers p. 385 of the altar, and representing the light (or ruling deity) of the respective world represented by the svayamât<i>ri</i><i>n</i><i>n</i>â of the same layer.
 
 [^715]: 385:1 In reality the Vi<i>s</i>va<i>g</i>yotis brick is not placed between the two Reta<i>h</i>si<i>k</i>, but in front of the line separating them from each other.
 
-[^716]: 385:2 He ‘saw’ the first naturally-perforated brick, which, as the central brick of the first layer, represents the latter, as well as the lowest of the three worlds, the earth. See [VI, 2, 3, 1](Book_3_6_2#v6_2_3_1).
+[^716]: 385:2 He ‘saw’ the first naturally-perforated brick, which, as the central brick of the first layer, represents the latter, as well as the lowest of the three worlds, the earth. See [VI, 2, 3, 1](../Book_3_6_2#v6_2_3_1).
 
 [^717]: 385:3 Viz. by adding, ‘by that deity, Aṅgiras-like, lie thou steady!’
 
@@ -331,8 +331,8 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^719]: 386:2 Viz. its foundation.
 
-[^720]: 387:1 See [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1)\-[2](Book_3_6_5#v6_5_3_2).
+[^720]: 387:1 See [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1)\-[2](../Book_3_6_5#v6_5_3_2).
 
 [^721]: 387:2 Viz. by threats, vituperation, &c., Sây.
 
-[^722]: 388:1 See [VII, 5, 2, 40](Book_3_7_5#v7_5_2_40) seq.
+[^722]: 388:1 See [VII, 5, 2, 40](../Book_3_7_5#v7_5_2_40) seq.

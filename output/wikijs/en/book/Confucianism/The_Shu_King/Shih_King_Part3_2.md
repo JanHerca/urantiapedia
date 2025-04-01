@@ -104,7 +104,7 @@ How is it attached? ‘There is given you a heroic wife. There is given you a he
 
 AN ODE APPROPRIATE TO THE FEAST GIVEN TO THE PERSONATORS OF THE DEPARTED, ON THE DAY AFTER THE SACRIFICE IN THE ANCESTRAL TEMPLE.
 
-This supplementary sacrifice on the day after the principal service in the temple appeared in the ninth Book of the fourth Part of the Shû; and of the feast after it to the personators of the dead I have spoken on [p. 301](Shih_King_Part1_Intro#p301).
+This supplementary sacrifice on the day after the principal service in the temple appeared in the ninth Book of the fourth Part of the Shû; and of the feast after it to the personators of the dead I have spoken on [p. 301](../Shih_King_Part1_Intro#p301).
 
 The wild-ducks and widgeons are on the <i>K</i>ing [^546]; <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> The personators of your ancestors feast and are happy. Your spirits are clear; Your viands are fragrant. The personators of your ancestors feast and drink;—Their happiness and dignity are made complete.
 

@@ -831,7 +831,7 @@ Whose will allowed the banishment.
 His sin who deadly poison throws
 To spoil the water as it flows,
 Lay on the wretch its burden dread
-Who gave consent when Rama fled.' [1](Book_2_80#fn351)
+Who gave consent when Rama fled.' [1](../Book_2_80#fn351)
 
 Thus with his words he undeceived
 Kaus'alyá's troubled heart, who grieved
@@ -942,12 +942,12 @@ And priestly singers who rehearse
 
 <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
-The S'aman  [1](Book_2_80#fn352) sang their holy verse.
+The S'aman  [1](../Book_2_80#fn352) sang their holy verse.
 Forth from the town in litters came,
 Or chariots, many a royal dame,
 And honoured so the funeral ground,
 With aged followers ringed around.
-With steps in inverse order bent,  [2](Book_2_80#fn353)
+With steps in inverse order bent,  [2](../Book_2_80#fn353)
 The priests in sad procession went
 Around the monarch's burning pyre
 Who well had nursed each sacred fire:
@@ -1069,7 +1069,7 @@ Since flames consumed thy father's clay:
 Delay no more: as rules ordain,
 Gather what bones may yet remain.
 Three constant pairs are ever found
-To hem all mortal creatures round:  [1](Book_2_80#fn354)
+To hem all mortal creatures round:  [1](../Book_2_80#fn354)
 Then mourn not thus, O Prince, for none
 Their close companionship may shun.’
 &nbsp;&nbsp;&nbsp;&nbsp;Sumantra bade S'atrughna rise,
@@ -1078,7 +1078,7 @@ And skilled in truth, his hearer taught
 How all things are and come to naught,
 When rose each hero from the ground,
 A lion lord of men, renowned,
-He showed like Indra's flag, [2](Book_2_80#fn355) whereon
+He showed like Indra's flag, [2](../Book_2_80#fn355) whereon
 Fierce rains have dashed and suns have shone.
 They wiped their red and weeping eyes,
 And gently made their sad replies:
@@ -1261,7 +1261,7 @@ To rule with kingly sway the land.’
 &nbsp;&nbsp;&nbsp;&nbsp;Their glorious speech, their favouring cries
 &nbsp;&nbsp;&nbsp;&nbsp;Made his proud bosom swell:
 &nbsp;&nbsp;&nbsp;&nbsp;And from the prince's noble eyes
-&nbsp;&nbsp;&nbsp;&nbsp;The tears of rapture fell.  [1](Book_2_80#fn356)
+&nbsp;&nbsp;&nbsp;&nbsp;The tears of rapture fell.  [1](../Book_2_80#fn356)
 
 
 

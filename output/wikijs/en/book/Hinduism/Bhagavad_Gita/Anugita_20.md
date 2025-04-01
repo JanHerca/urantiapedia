@@ -58,7 +58,7 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 <span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
-(all) entities [1](Anugita_21#fn1516). Now I shall state with accuracy and with reasons, all the elements which abide in parts in all objects. The great self [2](Anugita_21#fn1517), the unperceived [3](Anugita_21#fn1518) likewise, and likewise also egoism, the ten senses and the one [4](Anugita_21#fn1519) (sense), and the five great elements, and the specific characteristics of the five elements [5](Anugita_21#fn1520), such is the eternal creation. The number of the elements is celebrated as being twenty-four plus one. And the talented man who understands the production and dissolution of (all) elements, he, of all beings, never comes by delusion. He who accurately understand the elements, the whole of the qualities [6](Anugita_21#fn1521), and also all the deities [7](Anugita_21#fn1522), casting aside sin, and getting rid of all bonds, attains to all the spotless worlds.
+(all) entities [1](../Anugita_21#fn1516). Now I shall state with accuracy and with reasons, all the elements which abide in parts in all objects. The great self [2](../Anugita_21#fn1517), the unperceived [3](../Anugita_21#fn1518) likewise, and likewise also egoism, the ten senses and the one [4](../Anugita_21#fn1519) (sense), and the five great elements, and the specific characteristics of the five elements [5](../Anugita_21#fn1520), such is the eternal creation. The number of the elements is celebrated as being twenty-four plus one. And the talented man who understands the production and dissolution of (all) elements, he, of all beings, never comes by delusion. He who accurately understand the elements, the whole of the qualities [6](../Anugita_21#fn1521), and also all the deities [7](../Anugita_21#fn1522), casting aside sin, and getting rid of all bonds, attains to all the spotless worlds.
 
 
 
@@ -90,15 +90,15 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1487]: 310:1 I. e. after the identification of the individual self with the universal self, when the individual ceases to be perceived as such. Cf. <i>S</i>ânti Parvan (Moksha), chap. 187, st. 23.
 
-[^1488]: 310:2 That beyond Kshetra<i>g</i>ñas = the absolute supreme self. Cf. Gîtâ, [p. 206](Anugita_Intro#p206).
+[^1488]: 310:2 That beyond Kshetra<i>g</i>ñas = the absolute supreme self. Cf. Gîtâ, [p. 206](../Anugita_Intro#p206).
 
 [^1489]: 310:3 The substance of this speech, says Ar<i>g</i>una Mi<i>s</i>ra, is that the mind and understanding devoted to the supreme lead to final emancipation.
 
-[^1490]: 310:4 See [p. 296](Anugita_14#p296) supra. The last chapter closes what in some of the MSS. is called the Brahma Gîtâ, or Brâhma<i>n</i>a Gîtâ contained in the Anugîtâ Parvan. See further as to this our Introduction, where the point is further dwelt on.
+[^1490]: 310:4 See [p. 296](../Anugita_14#p296) supra. The last chapter closes what in some of the MSS. is called the Brahma Gîtâ, or Brâhma<i>n</i>a Gîtâ contained in the Anugîtâ Parvan. See further as to this our Introduction, where the point is further dwelt on.
 
 [^1491]: 311:1 Compare the questions at the beginning of the <i>S</i>vetâ<i>s</i>vatara-upanishad.
 
-[^1492]: 311:2 A similar expression to that in the Sanatsu<i>g</i>âtîya, [p. 149](Sanatsugatiya_1#p149), and elsewhere.
+[^1492]: 311:2 A similar expression to that in the Sanatsu<i>g</i>âtîya, [p. 149](../Sanatsugatiya_1#p149), and elsewhere.
 
 [^1493]: 312:1 It is not easy to account for the change here from the singular to the plural.
 
@@ -112,17 +112,17 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1498]: 312:6 Nîlaka<i>nth</i>a compares <i>Kh</i>ândogya, pp. 523-553.
 
-[^1499]: 312:7 I. e. of K<i>i</i>t and <i>G</i>a<i>d</i>a, says Nîlaka<i>nth</i>a; of Brahman and its manifestations, as alluded to, inter alia, at pp. [105](Bhagavadgita_13#p105), [106](Bhagavadgita_13#p106), [191](Sanatsugatiya_6#p191) supra.
+[^1499]: 312:7 I. e. of K<i>i</i>t and <i>G</i>a<i>d</i>a, says Nîlaka<i>nth</i>a; of Brahman and its manifestations, as alluded to, inter alia, at pp. [105](../Bhagavadgita_13#p105), [106](../Bhagavadgita_13#p106), [191](../Sanatsugatiya_6#p191) supra.
 
-[^1500]: 313:1 I. e. that variety is only in this world, but that the unity of everything is the true proposition. Cf. inter alia Gîtâ, [p. 104](Bhagavadgita_13#p104).
+[^1500]: 313:1 I. e. that variety is only in this world, but that the unity of everything is the true proposition. Cf. inter alia Gîtâ, [p. 104](../Bhagavadgita_13#p104).
 
-[^1501]: 313:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 858, and Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1501]: 313:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 858, and Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1502]: 313:3 I. e. the Prak<i>ri</i>ti of the Sânkhyas.
 
 [^1503]: 313:4 The great elements are the five tanmâtras of earth, water, fire, air, and space, which afterwards produce what we have called the gross elements in the text, namely, the earth &c. which we perceive.
 
-[^1504]: 313:5 The tree typifies worldly life. Cf. pp. [111](Bhagavadgita_15#p111)\-[189](Sanatsugatiya_6#p189) supra. The leaves and flowers, Ar<i>g</i>una Mi<i>s</i>ra says, stand for volition and action; and Nîlaka<i>nth</i>a seems to agree. The tree is called eternal, as worldly life is supposed to have had no beginning. Cf. Sârîraka Bhâshya, p. 494, ‘sprout from the seed,’ this rendering is necessitated by Brahman being described as the seed. Cf. Mundaka, p. 288; <i>S</i>vetâ<i>s</i>vatara, p. 362; Ka<i>nth</i>a, pp. 143, 144.
+[^1504]: 313:5 The tree typifies worldly life. Cf. pp. [111](../Bhagavadgita_15#p111)\-[189](../Sanatsugatiya_6#p189) supra. The leaves and flowers, Ar<i>g</i>una Mi<i>s</i>ra says, stand for volition and action; and Nîlaka<i>nth</i>a seems to agree. The tree is called eternal, as worldly life is supposed to have had no beginning. Cf. Sârîraka Bhâshya, p. 494, ‘sprout from the seed,’ this rendering is necessitated by Brahman being described as the seed. Cf. Mundaka, p. 288; <i>S</i>vetâ<i>s</i>vatara, p. 362; Ka<i>nth</i>a, pp. 143, 144.
 
 [^1505]: 314:1 I. e. the means of arriving at it, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -130,7 +130,7 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1507]: 314:3 He explains how the doctrine belongs to olden times.
 
-[^1508]: 314:4 I.e. paths of action, Nîlaka<i>nth</i>a. See Sanatsu<i>g</i>âtîya, [p. 165](Sanatsugatiya_3#p165).
+[^1508]: 314:4 I.e. paths of action, Nîlaka<i>nth</i>a. See Sanatsu<i>g</i>âtîya, [p. 165](../Sanatsugatiya_3#p165).
 
 [^1509]: 314:5 Namely, the Pit<i>ri</i>yâna and Devayâna (Ar<i>g</i>una Mi<i>s</i>ra), as to which see <i>Kh</i>ândogya, p. 341, Kaushîtaki, p. 13, and B<i>ri</i>hadâra<i>n</i>yaka, p. 1034.
 
@@ -138,15 +138,15 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1511]: 314:7 So Nîlaka<i>nth</i>a. May it not be ‘according to the received tradition?’
 
-[^1512]: 315:1 I. e. by action, Nîlaka<i>nth</i>a. Cf. Mu<i>nth</i>aka, p. 280, and see [p. 166](Sanatsugatiya_3#p166) supra, note .
+[^1512]: 315:1 I. e. by action, Nîlaka<i>nth</i>a. Cf. Mu<i>nth</i>aka, p. 280, and see [p. 166](../Sanatsugatiya_3#p166) supra, note .
 
-[^1513]: 315:2 I. e. they remain apart from the Brahman, being engaged in action. This answers some of the questions put by the pupil to the preceptor. As to ‘the truth,’ see [p. 162](Sanatsugatiya_2#p162), note [2](Sanatsugatiya_3#fn706) supra.
+[^1513]: 315:2 I. e. they remain apart from the Brahman, being engaged in action. This answers some of the questions put by the pupil to the preceptor. As to ‘the truth,’ see [p. 162](../Sanatsugatiya_2#p162), note [2](../Sanatsugatiya_3#fn706) supra.
 
-[^1514]: 315:3 I. e. Î<i>s</i>vara, or god; penance = piety; Pra<i>g</i>âpati = the individual soul, Nîlaka<i>nth</i>a. Brahman = ‘that’ (but how is ‘that’ ‘joined with qualities?’); Pra<i>g</i>âpati = Brahman, Ar<i>g</i>una Mi<i>s</i>ra. They agree about penance and entities (which they take to mean the gross elements) and creatures. Brahman and Pra<i>g</i>âpati = Virâ<i>g</i> and Hira<i>n</i>yagarbha (?), [p. 186](Sanatsugatiya_6#p186) supra. Cf. Sânti Parvan (Moksha), chap. 190, st. 1.
+[^1514]: 315:3 I. e. Î<i>s</i>vara, or god; penance = piety; Pra<i>g</i>âpati = the individual soul, Nîlaka<i>nth</i>a. Brahman = ‘that’ (but how is ‘that’ ‘joined with qualities?’); Pra<i>g</i>âpati = Brahman, Ar<i>g</i>una Mi<i>s</i>ra. They agree about penance and entities (which they take to mean the gross elements) and creatures. Brahman and Pra<i>g</i>âpati = Virâ<i>g</i> and Hira<i>n</i>yagarbha (?), [p. 186](../Sanatsugatiya_6#p186) supra. Cf. Sânti Parvan (Moksha), chap. 190, st. 1.
 
 [^1515]: 315:4 I. e. who commit no breach of piety through fear of one another, Nîlaka<i>nth</i>a.
 
-[^1516]: 315:5 Cf. Gîtâ, [p. 86](Bhagavadgita_9#p86).
+[^1516]: 315:5 Cf. Gîtâ, [p. 86](../Bhagavadgita_9#p86).
 
 [^1517]: 316:1 That is to say, that of the ascetic, who specially devotes himself to the acquisition of knowledge about the relation of the supreme and individual self (Adhyâtma).
 

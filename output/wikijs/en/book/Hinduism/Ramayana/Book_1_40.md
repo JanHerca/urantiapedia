@@ -789,7 +789,7 @@ One shall the race and name uphold,
 The host be famous, strong, and bold.
 Which will have which?' Then Kes'inî
 The mother of one heir would be.
-Sumati, sister of the king  [1](Book_1_40#fn181)
+Sumati, sister of the king  [1](../Book_1_40#fn181)
 Of all the birds that ply the wing,
 To that illustrious Bráhman sued
 That she might bear the multitude
@@ -802,7 +802,7 @@ Besought his own imperial seat.
 Time passed. The elder consort bare
 A son called Asamanj, the heir.
 Then Sumati, the younger, gave
-Birth to a gourd,  [2](Book_1_40#fn182) O hero brave,
+Birth to a gourd,  [2](../Book_1_40#fn182) O hero brave,
 Whose rind, when burst and cleft in two,
 Gave sixty thousand babes to view.
 All these with care the nurses laid
@@ -914,7 +914,7 @@ They dug, in ire that naught could stay,
 Through sixty thousand leagues their way,
 Cleaving the earth with matchless strength
 Till hell itself they reached at length.
-Thus digging searched they Jambudvip  [1](Book_1_50#fn184)
+Thus digging searched they Jambudvip  [1](../Book_1_50#fn184)
 With all its hills and mountains steep.
 Then a great fear began to shake
 The heart of God, bard, fiend, and snake,

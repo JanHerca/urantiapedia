@@ -91,7 +91,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v5_4_2_99"><sup><small>5:4:2:99.</small></sup></span>  He then returns to the Gârhapatya fire, (his son) holding on to him behind, and offers, with (Vâ<i>g</i>. S. X, 20), ‘O Pra<i>g</i>âpati, than thee none other hath encompassed all these forms: for whatsoever object we sacrifice, let that accrue unto us!—This one is the father of N.N.!’—him who is the son, he makes the father, and him who is the father, he makes the son [^192]: he thereby links together the vigour of both of them.—‘N.N. is the father of this one!’ him who is the father, he makes the father, and him who is the son, he makes the son: after linking together the vigour of these two, he puts it again in the proper way,—‘May we be the lords of riches, hail!’—this is the blessing of that ceremony a blessing he thereby invokes.
 
-<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span>  And any residue that is left over, he offers in the Âgnîdhrîya; for redundant is that residue, and redundant also is the Âgnîdhrîya,—in the Gârhapatya they cook the oblations, and in the Âhavanîya they offer, but that one is redundant: thus he puts the redundant to the redundant. He offers it on the north part (of the hearth), for that is the region of that god (Rudra): hence he offers it on the north <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> part. He offers with, ‘O Rudra, whatever potent [1](Book_3_5_4#fn193), highest name is thine, therein thou art an offering, thou art a home-offering, hail!’
+<span id="v5_4_2_1010"><sup><small>5:4:2:1010.</small></sup></span>  And any residue that is left over, he offers in the Âgnîdhrîya; for redundant is that residue, and redundant also is the Âgnîdhrîya,—in the Gârhapatya they cook the oblations, and in the Âhavanîya they offer, but that one is redundant: thus he puts the redundant to the redundant. He offers it on the north part (of the hearth), for that is the region of that god (Rudra): hence he offers it on the north <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> part. He offers with, ‘O Rudra, whatever potent [1](../Book_3_5_4#fn193), highest name is thine, therein thou art an offering, thou art a home-offering, hail!’
 
 
 <span id="v5_4_3"><sup><small>5:4:3</small></sup></span>
@@ -290,11 +290,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^184]: 90:1 Lohâyasa, literally, ‘red metal,’ apparently either copper, or an alloy of copper and some other metal,—The eunuch is sitting in the Sadas.
 
-[^185]: 91:1 This was spread out in front of the Maitrâvaru<i>n</i>a's hearth, see [V, 3, 5, 3](Book_3_5_3#v5_3_5_3).
+[^185]: 91:1 This was spread out in front of the Maitrâvaru<i>n</i>a's hearth, see [V, 3, 5, 3](../Book_3_5_3#v5_3_5_3).
 
 [^186]: 93:1 In <i>Ri</i>k S. V, 62, 8 the verse runs as follows:—At the glow of the dawn, at the rising of the sun, ye, O Mitra and Varu<i>n</i>a, mount your golden-formed, iron-pillared chariot; thence ye behold Aditi and Diti (? the boundless space and the bounded).
 
-[^187]: 94:1 While the preceding formula is used by the priest, the present and two succeeding ones (each with the words ‘. . . I sprinkle thee; guard him against darts!’) are pronounced by the other three persons specified in [V, 3, 5, 12](Book_3_5_3#v5_3_5_12)\-[14](Book_3_5_3#v5_3_5_14), each sprinkling the king with the water in his respective vessel.
+[^187]: 94:1 While the preceding formula is used by the priest, the present and two succeeding ones (each with the words ‘. . . I sprinkle thee; guard him against darts!’) are pronounced by the other three persons specified in [V, 3, 5, 12](../Book_3_5_3#v5_3_5_12)\-[14](../Book_3_5_3#v5_3_5_14), each sprinkling the king with the water in his respective vessel.
 
 [^188]: 94:2 Mahîdhara explains: 'O Soma, protect him, the Sacrificer, in overcoming the enemy's missiles.’
 
@@ -310,7 +310,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^194]: 98:2 I am now inclined to think that some such meaning as ‘probably, perhaps’ (more nearly, German ‘wohl’), fits all the passages (in the Brâhma<i>n</i>as at all events) where <i>s</i>a<i>s</i>vat occurs.
 
-[^195]: 98:3 See above, [V, 1, 4, 3](Book_3_5_1#v5_1_4_3) seq.
+[^195]: 98:3 See above, [V, 1, 4, 3](../Book_3_5_1#v5_1_4_3) seq.
 
 [^196]: 99:1 Pra<i>s</i>âst<i>ri</i>, ‘the director,’ is also another name for the Maitrâvaru<i>n</i>a priest.
 
@@ -328,7 +328,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^203]: 102:1 ? Or, means vigour, Indra.
 
-[^204]: 103:1 Or perhaps, ‘in the best place (vara).’ See [VI, 7, 3, 11](Book_3_6_7#v6_7_3_11).
+[^204]: 103:1 Or perhaps, ‘in the best place (vara).’ See [VI, 7, 3, 11](../Book_3_6_7#v6_7_3_11).
 
 [^205]: 104:1 According to Taitt. Br. I, 7, 9, 6, the king, on returning to the Vedi, is supposed to have ascended to the heavenly world (suvargaloka), from which the charioteer is to be excluded by this expedient.
 
@@ -346,7 +346,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^212]: 110:1 That is, increaser of the prosperity of himself and his people.
 
-[^213]: 111:1 See [p. 60](Book_3_5_3#p60), note \*[1](Book_3_5_3#fn129)\*.
+[^213]: 111:1 See [p. 60](../Book_3_5_3#p60), note \*[1](../Book_3_5_3#fn129)\*.
 
 [^214]: 111:2 The sa<i>g</i>âta would seem to be one of the peasant proprietors or ‘sharers’ constituting the village ‘brotherhood’ ruled over by the headman, and often actually belonging to the same family as the latter (Gaugenosse, clansman).
 
@@ -374,19 +374,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^226]: 114:5 That is, an excessive demand, or, a weighing down, or crushing of the Sacrificer, making it impossible for him to perform the ceremony at all.
 
-[^227]: 115:1 That is to say, after pronouncing the mantra, Vâ<i>g</i>. S. X, 30. agreeing partly with [paragraph 2](Book_3_5_4#v5_4_5_2) above, viz. beginning, ‘By Savit<i>ri</i>, the impeller; by Sarasvatî, speech,’ . . . and ending, ‘by Vish<i>n</i>u, the tenth deity, impelled I steal forth.’
+[^227]: 115:1 That is to say, after pronouncing the mantra, Vâ<i>g</i>. S. X, 30. agreeing partly with [paragraph 2](../Book_3_5_4#v5_4_5_2) above, viz. beginning, ‘By Savit<i>ri</i>, the impeller; by Sarasvatî, speech,’ . . . and ending, ‘by Vish<i>n</i>u, the tenth deity, impelled I steal forth.’
 
 [^228]: 115:2 For the Udavasânîyâ ish<i>t</i>i, see part ii, p. 389.
 
 [^229]: 115:3 The lotus-flowers presented on this occasion are gold ones, according to Sâya<i>n</i>a, or optionally ordinary white or gold ones, according to Kâty. XV, 8, 5-6.
 
-[^230]: 116:1 For the Upasad, or preliminary oblations of ghee to Agni, Soma, and Vish<i>n</i>u, to be performed twice daily for (usually) three days preceding an ordinary Soma-sacrifice, see part ii, p. 104. At the Da<i>s</i>apeya, the ten Sa<i>m</i>s<i>ri</i>p-oblations take as it were the place of the ordinary Upasads, the latter being performed on the last three preliminary days along with, and to the same deities as, the last three Sa<i>m</i>s<i>ri</i>p-oblations; or, according to some authorities, p. 117 being substituted for them. There seems also some difference of opinion as to the exact time when the other preliminary ceremonies—the procession and entrance of king Soma, the guest-meal, &c.—are to take place, see [paragraph 15](Book_3_5_4#v5_4_5_15).—According to Kâty. XV, 8,14, these ceremonies are to take place on the seventh day (which the commentator, however, takes to mean the seventh day of the light fortnight of <i>K</i>aitra; the first seven Sa<i>m</i>s<i>ri</i>p-oblations being, according to him, performed on the day before). The Kâ<i>n</i>vas, however, perform these offerings on separate days.—The Taittirîya authorities seem also to be at variance with each other as to the exact relation of the Upasads and the last three Sa<i>m</i>s<i>ri</i>p-oblations, the deities of the two being, according to their scheme, only partly identical. According to Âpastamba (and Taitt. Br.) the first seven Sa<i>m</i>s<i>ri</i>ps are performed on so many days and, moreover, one Dîkshâ on the seventh day. Then on the last three days the Sa<i>m</i>s<i>ri</i>ps and Upasads are combined in this way, that the eighth day's Sa<i>m</i>s<i>ri</i>p is performed previous to, the ninth between, the tenth after the two daily Upasad-performances.—Each of the ten oblations also requires a special set of fires for its performance, the first being laid down immediately north of the one used for the Abhishe<i>k</i>anîya ceremony, the second immediately north of the first, &c.; the last Sa<i>m</i>s<i>ri</i>p-oblation being performed in the fire-shed (<i>s</i>âlâ) of the Da<i>s</i>apeya proper. Kâty. XV, 8, 2-3; cf. Taitt. S., vol. ii, p. 176.
+[^230]: 116:1 For the Upasad, or preliminary oblations of ghee to Agni, Soma, and Vish<i>n</i>u, to be performed twice daily for (usually) three days preceding an ordinary Soma-sacrifice, see part ii, p. 104. At the Da<i>s</i>apeya, the ten Sa<i>m</i>s<i>ri</i>p-oblations take as it were the place of the ordinary Upasads, the latter being performed on the last three preliminary days along with, and to the same deities as, the last three Sa<i>m</i>s<i>ri</i>p-oblations; or, according to some authorities, p. 117 being substituted for them. There seems also some difference of opinion as to the exact time when the other preliminary ceremonies—the procession and entrance of king Soma, the guest-meal, &c.—are to take place, see [paragraph 15](../Book_3_5_4#v5_4_5_15).—According to Kâty. XV, 8,14, these ceremonies are to take place on the seventh day (which the commentator, however, takes to mean the seventh day of the light fortnight of <i>K</i>aitra; the first seven Sa<i>m</i>s<i>ri</i>p-oblations being, according to him, performed on the day before). The Kâ<i>n</i>vas, however, perform these offerings on separate days.—The Taittirîya authorities seem also to be at variance with each other as to the exact relation of the Upasads and the last three Sa<i>m</i>s<i>ri</i>p-oblations, the deities of the two being, according to their scheme, only partly identical. According to Âpastamba (and Taitt. Br.) the first seven Sa<i>m</i>s<i>ri</i>ps are performed on so many days and, moreover, one Dîkshâ on the seventh day. Then on the last three days the Sa<i>m</i>s<i>ri</i>ps and Upasads are combined in this way, that the eighth day's Sa<i>m</i>s<i>ri</i>p is performed previous to, the ninth between, the tenth after the two daily Upasad-performances.—Each of the ten oblations also requires a special set of fires for its performance, the first being laid down immediately north of the one used for the Abhishe<i>k</i>anîya ceremony, the second immediately north of the first, &c.; the last Sa<i>m</i>s<i>ri</i>p-oblation being performed in the fire-shed (<i>s</i>âlâ) of the Da<i>s</i>apeya proper. Kâty. XV, 8, 2-3; cf. Taitt. S., vol. ii, p. 176.
 
 [^231]: 117:1 Namely, at the beginning of the Abhishe<i>k</i>anîya, or Consecration-ceremony, when Soma-plants are purchased sufficient to last p. 118 for both that ceremony and the succeeding Da<i>s</i>apeya; the portion destined for the latter ceremony being meanwhile deposited in the Brahman's house.
 
 [^232]: 118:1 All the chants (stotra) of the Da<i>s</i>apeya are to be executed in the seventeenfold mode of chanting, or Saptada<i>s</i>a-stoma; for an example of which see part ii, p. 315, note 1.
 
-[^233]: 119:1 See [p. 8](Book_3_5_1#p8), note \*[1](Book_3_5_1#fn39)\*.
+[^233]: 119:1 See [p. 8](../Book_3_5_1#p8), note \*[1](../Book_3_5_1#fn39)\*.
 
 [^234]: 119:2 The text has ‘gam agnîdhe,’ i.e. either ‘a bull,’ or ‘a cow.’ So also Katy. XV. 8, 27. Sâya<i>n</i>a, however, refers to another authority,—ana<i>d</i>vâham agnîdha iti sûtritam, . . . vahnir vâ ana<i>d</i>van iti hi taittirîyakam.
 

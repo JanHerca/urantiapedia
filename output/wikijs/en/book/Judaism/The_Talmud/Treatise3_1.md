@@ -62,7 +62,7 @@ Removals—Work to be avoided—Discussion between the Schools of Shammai and Hi
 
 10\. “They must not fry flesh, onions, and eggs; except they be sufficiently fried while it is yet day. They must not put bread in the oven at dusk, nor a cake on coals, except its face be sufficiently crusted while it is yet day.” Rabbi Eliezer said, “that its under side be sufficiently crusted.”
 
-11\. “They may hang up the passover [1](Treatise3_2#fn93) offering in an oven at dusk.” And they may take a light from the wood pile in the house of burning. [2](Treatise3_2#fn94) And in the suburbs “when the fire has sufficiently lighted the greater part.” Rabbi Judah says, “from the coals however little” (kindled before the Sabbath).
+11\. “They may hang up the passover [1](../Treatise3_2#fn93) offering in an oven at dusk.” And they may take a light from the wood pile in the house of burning. [2](../Treatise3_2#fn94) And in the suburbs “when the fire has sufficiently lighted the greater part.” Rabbi Judah says, “from the coals however little” (kindled before the Sabbath).
 
 
 

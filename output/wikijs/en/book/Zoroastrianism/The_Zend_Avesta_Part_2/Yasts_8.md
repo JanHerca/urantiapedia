@@ -306,17 +306,17 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 [^482]: 93:5 Nãma; see Études Iraniennes, II, 124.
 
-[^483]: 93:6 Cf. [p. 47](Yasts_3#p47).
+[^483]: 93:6 Cf. [p. 47](../Yasts_3#p47).
 
 [^484]: 94:1 Powerfully.
 
-[^485]: 94:2 Or, ‘through whom the beauty of the waters comes from Bereza, and their seed from Apãm Napâ<i>t</i>.’ Bereza, the high, the tall, an epithet of Apãm Napâ<i>t</i>, became one of his names (Ized Bôr<i>g</i>; cf. § 34); for Apãm Napâ<i>t</i>, see above, [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^485]: 94:2 Or, ‘through whom the beauty of the waters comes from Bereza, and their seed from Apãm Napâ<i>t</i>.’ Bereza, the high, the tall, an epithet of Apãm Napâ<i>t</i>, became one of his names (Ized Bôr<i>g</i>; cf. § 34); for Apãm Napâ<i>t</i>, see above, [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^486]: 94:3 Paiti<i>s</i>mare<i>n</i>ti; cf. Yt. V, 123.
 
 [^487]: 94:4 Or better, ‘in their looking.’
 
-[^488]: 94:5 See above, [p. 54](Yasts_5#p54), note [6](Yasts_5#fn279).
+[^488]: 94:5 See above, [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
 
 [^489]: 95:1 Mainivas<i>a</i><i>u</i> = mainyu-as<i>a</i><i>u</i> (meaning pun mînôî <i>g</i>îvâkîh, svargasthânam, Yasna LVII, 27 \[LVI, 11, 3\]).
 
@@ -326,7 +326,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 [^492]: 95:4 Doubtful. Shooting stars are alluded to. Mr. Geiger remarks that there is a swarm of shooting stars falling every year just at the time when Ti<i>s</i>trya, in the European climate, is supposed to be most active, on the 10th of August.
 
-[^493]: 96:1 See above, [p. 66](Yasts_5#p66), note [3](Yasts_5#fn323).
+[^493]: 96:1 See above, [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
 [^494]: 96:2 Satavaêsa is said to be the leader of the western stars (to be read southern stars, Bund. II, 7), and has in its protection the seas of the southern quarter (ibid. XIII, 12); the Satavaêsa sea is the Persian gulf.
 
@@ -382,7 +382,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 [^520]: 102:2 Haoma opens the way for the waters from heaven, as being the foremost element in sacrifice (cf. § 24). For the same reason the Bundahi<i>s</i> numbers Vohu-Manô, ‘Good Mind,’ amongst the cooperators of Ti<i>s</i>trya.
 
-[^521]: 102:3 See [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^521]: 102:3 See [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^522]: 102:4 Or better, ‘seated in the waters;’ see Yt. XIX, 56 seq. and Yt. XIII, 65.
 
@@ -398,7 +398,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 [^528]: 104:1 See Yt. XVII.
 
-[^529]: 104:2 See above, [p. 11](Sirozahs_1#p11), note [5](Sirozahs_1#fn77).
+[^529]: 104:2 See above, [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
 
 [^530]: 104:3 Doubtful. Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i>, being situated in the sea Vouru-Kasha (as appears from Ti<i>s</i>trya travelling towards that sea, § 38), seems to be the same with Mount Aûsindôm (§ 32).
 
@@ -410,7 +410,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 [^534]: 105:3 In the Bundahi<i>s</i> it is especially the leader of the eastern stars; but the Minokhired calls it the first star (XLIX, 5; cf. above, § 12).
 
-[^535]: 105:4 See above, [p. 38](Yasts_2#p38), note [3](Yasts_2#fn199).
+[^535]: 105:4 See above, [p. 38](../Yasts_2#p38), note [3](../Yasts_2#fn199).
 
 [^536]: 106:1 See Yt. X, 82, note.
 

@@ -266,7 +266,7 @@ End of the Second Lecture, called Begging for a Couch.
 
 [^388]: 127:1 <i>S</i>ântig<i>ri</i>ha.
 
-[^389]: 127:2 See note [5](Akaranga_1_8#fn307) on [p. 81](Akaranga_1_8#p81).
+[^389]: 127:2 See note [5](../Akaranga_1_8#fn307) on [p. 81](../Akaranga_1_8#p81).
 
 [^390]: 128:1 There are five sorts of Srama<i>n</i>as enumerated in the following hemistich, which occurs not only in <i>S</i>îlâṅka's commentary, but also in that of the Sthânâṅga Sûtra, as Dr. Leumann informs me: Nigga<i>m</i>tha, Sakka, Tâvasa, Gerua, Â<i>g</i>îva pa<i>m</i><i>k</i>ahâ sama<i>n</i>â. Nirgranthas, <i>S</i>âkyas, Tâpasas, Gairikas, Â<i>g</i>îvakas.
 

@@ -680,7 +680,7 @@ To screen each trusting anchorite,
 And wilt from thy new home defend
 The hermits who on thee depend.
 Now yonder, Prince, direct thine eyes
-Where dense Madhúka  [1](Book_3_20#fn442) woods arise:
+Where dense Madhúka  [1](../Book_3_20#fn442) woods arise:
 Pierce their dark shade, and issuing forth
 Turn to a fig-tree on the north:
 Then onward up a sloping mead
@@ -1180,8 +1180,8 @@ With Lakshman ever by his side,
 &nbsp;&nbsp;&nbsp;&nbsp;And the sweet Maithil dame.
 So Rudra shines by worlds adored,
 &nbsp;&nbsp;&nbsp;&nbsp;In glory undefiled,
-When Nandi  [1](Book_3_20#fn455) stands beside his lord,
-And King Himálaya's child.  [2](Book_3_20#fn456)
+When Nandi  [1](../Book_3_20#fn455) stands beside his lord,
+And King Himálaya's child.  [2](../Book_3_20#fn456)
 
 
 
@@ -1500,10 +1500,10 @@ And lives of saintly virtue lead:
 With ordered senses undefiled,
 Ráma and Lakshman are they styled.
 
-Fair as the Minstrels' King  [1b](Book_3_20#fn460) are they,
+Fair as the Minstrels' King  [1b](../Book_3_20#fn460) are they,
 And stamped with signs of regal sway.
 I know not if the heroes trace
-Their line from Gods or Dánav [2b](Book_3_20#fn461) race.
+Their line from Gods or Dánav [2b](../Book_3_20#fn461) race.
 There by these wondering eyes between
 The noble youths a dame was seen,
 Fair, blooming, young, with dainty waist,

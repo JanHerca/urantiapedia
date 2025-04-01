@@ -272,7 +272,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^226]: 86:1 This is the practice recognised by the Taittirîyas (T. S. VI, 2, 1, 1), on the ground that, if one were to unyoke both oxen, he would interrupt the sacrifice; and if he were to leave them both unyoked, it would be as if a hospitable reception were given to one who has not actually arrived.
 
-[^227]: 86:2 That is, by touching the Adhvaryu while he takes out the sacrificial food. See [p. 79](Book_2_3_3#p79), note [3](Book_2_3_3#fn210).
+[^227]: 86:2 That is, by touching the Adhvaryu while he takes out the sacrificial food. See [p. 79](../Book_2_3_3#p79), note [3](../Book_2_3_3#fn210).
 
 [^228]: 87:1 For the ordinary formula with which material for offering is taken out at an ish<i>t</i>i, ‘At the impulse of the divine Savit<i>ri</i>, I take thee with the arms of the A<i>s</i>vins, with the hands of Pûshan, thee well-pleasing to—!’ see I, 1, 2, 17.
 
@@ -286,7 +286,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^233]: 88:3 The final syllable of the prayers recited in offering is protracted and nasalized, a final ‘a’ becoming ô<i>m</i>,—this drawing out of the syllable is called pra<i>n</i>ava.
 
-[^234]: 89:1 Because the Gâyatrî metre is connected with the prâta<i>h</i>savana or morning pressing. See [IV, 2, 5, 20](Book_2_4_2#v4_2_5_20) seq.; Ait. Br. III, 27 seq.
+[^234]: 89:1 Because the Gâyatrî metre is connected with the prâta<i>h</i>savana or morning pressing. See [IV, 2, 5, 20](../Book_2_4_2#v4_2_5_20) seq.; Ait. Br. III, 27 seq.
 
 [^235]: 89:2 See I, 3, 3, 19-20, where the approved kinds of wood for the paridhis at an ish<i>t</i>i are enumerated.
 
@@ -304,7 +304,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^242]: 90:5 The adhimanthana <i>s</i>akala is a chip of wood used for the lower churning-stick (adharâra<i>n</i>i), wherein the upper churning-stick is drilled, to rest upon. It is laid down on the altar-grass (barhis) from south to north. According to Sâya<i>n</i>a it is a chip obtained in rough-hewing the sacrificial stake.
 
-[^243]: 91:1 In this sense ‘v<i>ri</i>sha<i>n</i>au’ is taken by Mahîdhara (sektârau, from v<i>ri</i>shan), Sâya<i>n</i>a, and apparently also by our author. Perhaps it means ‘testicles’ (v<i>ri</i>sha<i>n</i>a) in the text. See [III, 6, 3, 10](Book_2_3_6#v3_6_3_10); and part i, p. 389, note 3.
+[^243]: 91:1 In this sense ‘v<i>ri</i>sha<i>n</i>au’ is taken by Mahîdhara (sektârau, from v<i>ri</i>shan), Sâya<i>n</i>a, and apparently also by our author. Perhaps it means ‘testicles’ (v<i>ri</i>sha<i>n</i>a) in the text. See [III, 6, 3, 10](../Book_2_3_6#v3_6_3_10); and part i, p. 389, note 3.
 
 [^244]: 91:2 The myth of Purûravas and Urva<i>s</i>î is given at length XI, 5, 1, I-17. Compare also Max Müller, Chips, vol. ii, p.202 seq.; A. Kuhn, Herabkunft des Feuers, p. 78 seq.
 
@@ -330,7 +330,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^255]: 96:1 According to Ait. Br. I, 24 the gods deposited their forms in the house of king Varu<i>n</i>a.
 
-[^256]: 97:1 That is, in a Sattra or sacrificial session, where all the officiating priests are consecrated and ‘sacrificers;’ the Ya<i>g</i>amâna proper being styled G<i>ri</i>hapati (master of the house). See [IV, 6, 8, 1](Book_2_4_6#v4_6_8_1) seq.
+[^256]: 97:1 That is, in a Sattra or sacrificial session, where all the officiating priests are consecrated and ‘sacrificers;’ the Ya<i>g</i>amâna proper being styled G<i>ri</i>hapati (master of the house). See [IV, 6, 8, 1](../Book_2_4_6#v4_6_8_1) seq.
 
 [^257]: 97:2 The Avântaradîkshâ extends to the end of the sixth Brâhma<i>n</i>a.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^261]: 99:1 The sacrificer's wife performs silently on and near the Gârhapatya fire the same ceremonies as her husband.
 
-[^262]: 99:2 Tanu, see [p. 10](Book_2_3_1#p10), note [4](Book_2_3_1#fn40).
+[^262]: 99:2 Tanu, see [p. 10](../Book_2_3_1#p10), note [4](../Book_2_3_1#fn40).
 
 [^263]: 100:1 On the ‘âpyâyana’ (â-pyai,‘to swell; make swell,’ to strengthen, become strong, increase, fill), see part i, p. 178, note 2. According to Âpastamba and other authorities, they tie a piece of gold to their nameless (gold) finger, and touch the Soma with their moist hands.
 
@@ -350,7 +350,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^265]: 101:2 That is, as the seasons make the Soma-plant grow.
 
-[^266]: 102:1 Ekadhana-vid; the meaning of ‘ekadhana’ (apparently ‘one prize’ or ‘one part of the booty or goods’) in this compound is not clear. The author of the Brâhma<i>n</i>a seems to take it in its technical sense, viz. the ekadhana pitchers in which the ekadhanâ water, used for mixing with the Soma juice, is kept, see [III, 9, 3](Book_2_3_9#v3_9_3); [16](Book_2_3_9#v3_9_3_16); [27](Book_2_3_9#v3_9_3_27); [34](Book_2_3_9#v3_9_3_34). According to Haug, Transl. Ait. Br. p. 114 notes, they are so called because the Adhvaryu throws one stalk of Soma (eka-dhana) into each pitcher to consecrate it.
+[^266]: 102:1 Ekadhana-vid; the meaning of ‘ekadhana’ (apparently ‘one prize’ or ‘one part of the booty or goods’) in this compound is not clear. The author of the Brâhma<i>n</i>a seems to take it in its technical sense, viz. the ekadhana pitchers in which the ekadhanâ water, used for mixing with the Soma juice, is kept, see [III, 9, 3](../Book_2_3_9#v3_9_3); [16](../Book_2_3_9#v3_9_3_16); [27](../Book_2_3_9#v3_9_3_27); [34](../Book_2_3_9#v3_9_3_34). According to Haug, Transl. Ait. Br. p. 114 notes, they are so called because the Adhvaryu throws one stalk of Soma (eka-dhana) into each pitcher to consecrate it.
 
 [^267]: 102:2 This anticlimax is rather curious. The Kâ<i>n</i>va text reads: da<i>s</i>a da<i>s</i>a vâ ha smaisha ekaiko ’<i>m</i><i>s</i>ur devân pratîndrâyaikadhanân âpyâyayanti (!) <i>s</i>ata<i>m</i> <i>s</i>atam vâ tasmâd âhaikadhanavida iti.
 
@@ -392,10 +392,10 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^286]: 108:2 ? The socket; compare Ait. Br. I, 25, ‘The gods constructed that arrow, the Upasads: Agni was its point (? anîka, shaft, Haug), Soma its barb (<i>s</i>alya, steel, H.), Vish<i>n</i>u its shaft (te<i>g</i>anam, point, H.), and Varu<i>n</i>a its feathers (par<i>n</i>a) . . . . For the arrow consists of three parts, anîka, <i>s</i>alya, and te<i>g</i>ana . . . . For the arrow consists of two parts, <i>s</i>alya and te<i>g</i>ana.’ Here <i>s</i>alya would seem to be the barbed head-piece (with the point, anîka), and te<i>g</i>ana the shaft or reed of the arrow.
 
-[^287]: 109:1 On the completion of each performance of the Upasad offerings, after the anointing of the prastara (see I, 8, 3, 11-14) and previously to taking up the enclosing-sticks (ib. 22), a homa (or <i>g</i>uhoti) offering (part i, p. 263, note 2), called Upasad-homa, has to be performed with the dipping-spoon; the sacrificer holding on to Adhvaryu from behind, while the ghee is poured into the fire. Its performance over, the Upasads are brought to an end by a repetition of the ceremony with the prastara (which is not burnt) described above, [III, 4, 3, 22](Book_2_3_4#v3_4_3_22), and the minor concluding ceremonies (I, 8, 3, 23 seq.; 9, 2, 19 seq.); whereupon the Subrahma<i>n</i>yâ litany ([III, 3, 4, 17](Book_2_3_3#v3_3_4_17)) is recited.
+[^287]: 109:1 On the completion of each performance of the Upasad offerings, after the anointing of the prastara (see I, 8, 3, 11-14) and previously to taking up the enclosing-sticks (ib. 22), a homa (or <i>g</i>uhoti) offering (part i, p. 263, note 2), called Upasad-homa, has to be performed with the dipping-spoon; the sacrificer holding on to Adhvaryu from behind, while the ghee is poured into the fire. Its performance over, the Upasads are brought to an end by a repetition of the ceremony with the prastara (which is not burnt) described above, [III, 4, 3, 22](../Book_2_3_4#v3_4_3_22), and the minor concluding ceremonies (I, 8, 3, 23 seq.; 9, 2, 19 seq.); whereupon the Subrahma<i>n</i>yâ litany ([III, 3, 4, 17](../Book_2_3_3#v3_3_4_17)) is recited.
 
-[^288]: 110:1 While the Hot<i>ri</i>, as we saw ([parag. 2](Book_2_3_4#v3_4_4_2), above), uses the same two verses twice in one day, viz. one for the anuvâkyâ in the morning and for the yâ<i>g</i>yâ in the afternoon; and the other for the yâ<i>g</i>yâ in the morning and for the anuvâkyâ in the evening,—the Adhvaryu is to use the three formulas here mentioned on the three Upasad days respectively, both at the morning and afternoon performances.
+[^288]: 110:1 While the Hot<i>ri</i>, as we saw ([parag. 2](../Book_2_3_4#v3_4_4_2), above), uses the same two verses twice in one day, viz. one for the anuvâkyâ in the morning and for the yâ<i>g</i>yâ in the afternoon; and the other for the yâ<i>g</i>yâ in the morning and for the anuvâkyâ in the evening,—the Adhvaryu is to use the three formulas here mentioned on the three Upasad days respectively, both at the morning and afternoon performances.
 
 [^289]: 110:2 Viz. of the vratadughâ, or cow supplying his fast-milk. The milk so obtained is to be his only food during the Upasad days.
 
-[^290]: 111:1 The simile is apparently taken from the arrow, which pierces the deeper the more pointed it is; cf. [parag. 14](Book_2_3_4#v3_4_4_14), above; Ait. Br. I, 25. Also Taitt. S. VI, 2, 3, 5, where a goad (âra?) is compared.
+[^290]: 111:1 The simile is apparently taken from the arrow, which pierces the deeper the more pointed it is; cf. [parag. 14](../Book_2_3_4#v3_4_4_14), above; Ait. Br. I, 25. Also Taitt. S. VI, 2, 3, 5, where a goad (âra?) is compared.

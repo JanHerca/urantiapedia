@@ -189,7 +189,7 @@ Oh! yes, king <i>Kh</i>ăng [^355] Brightly brought himself near [^355]. Lead yo
 
 CELEBRATING THE REPRESENTATIVES OF FORMER DYNASTIES, WHO HAD COME TO COURT TO ASSIST AT A SACRIFICE IN THE ANCESTRAL TEMPLE.
 
-This piece may have been used when the king was dismissing his distinguished guests in the ancestral temple. See the introductory note to this Part, pp. [300](Shih_King_Part1_Intro#p300), 301.
+This piece may have been used when the king was dismissing his distinguished guests in the ancestral temple. See the introductory note to this Part, pp. [300](../Shih_King_Part1_Intro#p300), 301.
 
 A flock of egrets is flying, About the marsh there in the west [^358]. My visitors came, With an (elegant) carriage like those birds.
 
@@ -391,7 +391,7 @@ Those hundred houses being full, The wives and children have a feeling of repose
 
 AN ODE APPROPRIATE TO THE PREPARATIONS AND PROGRESS OF A FEAST AFTER A SACRIFICE.
 
-The Preface and the editors of the Yung-_kh_ăng Shih say that the piece has reference to the entertainment given, the day after a <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, in the ancestral temple, to the personators of the dead, described on [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî denies this, and holds simply that it belongs to the feast after a sacrifice, without further specifying what sacrifice. The old view is probably the more correct.
+The Preface and the editors of the Yung-_kh_ăng Shih say that the piece has reference to the entertainment given, the day after a <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, in the ancestral temple, to the personators of the dead, described on [p. 301](../Shih_King_Part1_Intro#p301). <i>K</i>û Hsî denies this, and holds simply that it belongs to the feast after a sacrifice, without further specifying what sacrifice. The old view is probably the more correct.
 
 In his silken robes, clean and bright, With his cap on his head, looking so respectful, From the hall he goes to the foot of the stairs, And (then) from the sheep to the oxen [^369]. (He inspects) the tripods, large and small, And the curved goblet of rhinoceros horn [^370]. The good spirits are mild, (But) there is no noise, no insolence:—An auspice (this) of great longevity.
 
@@ -487,7 +487,7 @@ Oh! great now is Kâu. We ascend the high hills, Both those that are long and na
 
 [^370]: 322:2 For the cultivation of the ground, the allotments of single families were separated by a small ditch; ten allotments, by a larger; a hundred, by what we may call a brook; a thousand, by a small stream; and ten thousand, by a river. The space occupied by 10,000 families formed a square of a little more than thirty-two lî. We may suppose that this space was intended by the round number of thirty lî in the text. So at least <i>K</i>ăng Khang-_kh_ăng explained it.
 
-[^371]: 322:3 These two lines make the piece allusive. See the Introduction, [p. 279](Shih_King_Intro_1#p279).
+[^371]: 322:3 These two lines make the piece allusive. See the Introduction, [p. 279](../Shih_King_Intro_1#p279).
 
 [^372]: 323:1 The blind musicians at the court of <i>K</i>âu were numerous. The blindness of the eyes was supposed to make the ears more acute in hearing, and to be favourable to the powers of the voice. In the Official Book of <i>K</i>âu, III, i, par. 22, the enumeration of p. 234 these blind musicians gives 2 directors of the first rank, and 4 of the second; 40 performers of the first grade, 100 of the second, and 160 of the third; with 300 assistants who were possessed of vision. But it is difficult not to be somewhat incredulous as to this great collection of blind musicians about the court of <i>K</i>âu.
 
@@ -497,7 +497,7 @@ Oh! great now is Kâu. We ascend the high hills, Both those that are long and na
 
 [^375]: 326:1 At sacrifices to ancestors, the spirit tablets of wives were placed along with those of their husbands in their shrines, so that both shared in the honours of the service. So it is now in the imperial ancestral temple in Peking. The ‘accomplished mother’ here would be Thâi Sze, celebrated often in the pieces of the first Book of Part I, and elsewhere.
 
-[^376]: 326:2 Among the uses of the services of the ancestral temple, specified by Confucius and quoted on [p. 302](Shih_King_Part1_Intro#p302), was the distinguishing the order of descent in the royal House. According to the rules for that purpose, the characters here used enable us to determine the subject of this line as king Wû, in opposition to his father Wan.
+[^376]: 326:2 Among the uses of the services of the ancestral temple, specified by Confucius and quoted on [p. 302](../Shih_King_Part1_Intro#p302), was the distinguishing the order of descent in the royal House. According to the rules for that purpose, the characters here used enable us to determine the subject of this line as king Wû, in opposition to his father Wan.
 
 [^377]: 327:1 These four lines simply express the wish of the king, to detain his visitor, from the delight that his presence gave him. Compare the similar language in the second ode of the fourth decade of Part II.
 

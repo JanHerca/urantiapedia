@@ -106,4 +106,4 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^679]: 205:11 To others, not the self-accuser. There is, however, a contradiction in this latter part of the Mishna; for whether such a person committed the crime alone, or in conjunction with others, he is, doubtless, equally guilty; and, therefore, why should his evidence be received in the latter case \[and the woman allowed to marry\], and not in the former? It is, therefore, explained to mean, that he said, “I was with those who murdered him, but did not murder him myself.”
 
-[^680]: 205:12 See Note 1, page [7](Treatise1_Berachoth_1#p7).
+[^680]: 205:12 See Note 1, page [7](../Treatise1_Berachoth_1#p7).

@@ -578,7 +578,7 @@ The enlightened and liberated <i>G</i><i>ñ</i>ât<i>ri</i>(putra) has thus deli
 
 [^591]: 209:1 The meaning of this verse is that a thing, as far as its material cause is concerned, has always existed, and will ever exist under one form or other, but that the individual thing in its present form has but a limited existence.
 
-[^592]: 209:2 Asa<i>m</i>khakâlam. See above, [p. 42](Uttaradhyayana_10#p42), note [2](Uttaradhyayana_10#fn142).
+[^592]: 209:2 Asa<i>m</i>khakâlam. See above, [p. 42](../Uttaradhyayana_10#p42), note [2](../Uttaradhyayana_10#fn142).
 
 [^593]: 209:3 Antaram; the interval between the thing being removed from its proper scene and reaching it again (Ava<i>k</i>ûri and Dîpikâ).
 
@@ -682,7 +682,7 @@ The enlightened and liberated <i>G</i><i>ñ</i>ât<i>ri</i>(putra) has thus deli
 
 [^643]: 223:1 Sammûr<i>kh</i>ima. They grow by assimilating the materials in their surrounding. According to a second explanation, their internal organ does not fully develop.
 
-[^644]: 223:2 See page [16](Uttaradhyayana_3#p16), note [1](Uttaradhyayana_3#fn88).
+[^644]: 223:2 See page [16](../Uttaradhyayana_3#p16), note [1](../Uttaradhyayana_3#fn88).
 
 [^645]: 223:3 This is, according to the Ava<i>k</i>ûri, the meaning of puhutta<i>m</i> p<i>ri</i>thaktvam.
 
@@ -726,7 +726,7 @@ The enlightened and liberated <i>G</i><i>ñ</i>ât<i>ri</i>(putra) has thus deli
 
 [^665]: 230:1 Vigaî-ni<i>g</i><i>g</i>ûha<i>n</i>a. The meaning is that at the end of his fasts a monk should eat â<i>k</i>âmla, nirvik<i>ri</i>tika, &c. In the Ava<i>k</i>ûri a verse from the Ni<i>s</i>îtha<i>k</i>ûrni is quoted, which gives the same rule for the second four years.
 
-[^667]: 230:2 Âyâma = â<i>k</i>âmla. Is this the same thing as the âyâmaga = â<i>k</i>âmaka mentioned XV, 13? See above, [p. 72](Uttaradhyayana_15#p72), note [2](Uttaradhyayana_15#fn192).
+[^667]: 230:2 Âyâma = â<i>k</i>âmla. Is this the same thing as the âyâmaga = â<i>k</i>âmaka mentioned XV, 13? See above, [p. 72](../Uttaradhyayana_15#p72), note [2](../Uttaradhyayana_15#fn192).
 
 [^668]: 230:3 Kô<i>d</i>îsahiyam âyamam = kô<i>t</i>isahitam â<i>k</i>âmlam. The commentators give two explanations of this phrase: (1) Having fasted one day, one should take â<i>k</i>âmla on the next day; (2) one should on the second day continue to abstain from â<i>k</i>âmla.
 

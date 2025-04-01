@@ -99,7 +99,7 @@ They asked: ‘Which is it?’ And he answered them:
 
 <span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
-Inward thirst, fondness, passion, covetousness, unkindness, love, hatred, deceit [1](Maitrayana#fn1002), jealousy, vain restlessness, fickleness [2](Maitrayana#fn1003), unstableness, emulation, greed, patronising of friends, family pride, aversion to disagreeable objects, devotion to agreeable objects, whispering [3](Maitrayana#fn1004), prodigality, these are the results of the quality of passion (ra<i>g</i>as).
+Inward thirst, fondness, passion, covetousness, unkindness, love, hatred, deceit [1](../Maitrayana#fn1002), jealousy, vain restlessness, fickleness [2](../Maitrayana#fn1003), unstableness, emulation, greed, patronising of friends, family pride, aversion to disagreeable objects, devotion to agreeable objects, whispering [3](../Maitrayana#fn1004), prodigality, these are the results of the quality of passion (ra<i>g</i>as).
 
 By these he is filled, by these he is overcome, and therefore this elemental Self assumes manifold forms, yes, manifold forms.’
 

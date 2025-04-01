@@ -275,11 +275,11 @@ The sacred memories of the past, the treasures of philosophy and religion, the h
 
 [^21]: Pneuma “is the totality of all existence; out of it the whole, visible universe proceeds, hereafter to be resolved into it again. . . . Out of it separated first the elemental fire, and this again condenses into air; a further step in the downward path derives water and earth from the solidification of air. . . . From the elements the one substance is transformed into the multitude of individual things.” Enc. Brit., art. Stoics. Compare pp. 46-47 below.
 
-[^22]: For an example of the process of this “reification of the concept” see [p. 47](Book_1#p47) below.
+[^22]: For an example of the process of this “reification of the concept” see [p. 47](../Book_1#p47) below.
 
-[^23]: This method professes to rest upon a phrase of Confucius. “the distinction of things.” See [p. 43 note](Book_1#fn34), below.
+[^23]: This method professes to rest upon a phrase of Confucius. “the distinction of things.” See [p. 43 note](../Book_1#fn34), below.
 
-[^24]: [P. 72](Book_2#p72) below.
+[^24]: [P. 72](../Book_2#p72) below.
 
 [^25]: Ōyōmei's system may be studied in the ###, Den-shu-roku, the Zen-sho and Zen-shu, ###.
 
@@ -301,7 +301,7 @@ The sacred memories of the past, the treasures of philosophy and religion, the h
 
 [^32]: Okina Mondō, Vol. III., pp. 10-12.
 
-[^33]: Okina Mondō, Vol. III., pp. 12-14. Compare [pp. 61](Book_1#p61) below.
+[^33]: Okina Mondō, Vol. III., pp. 12-14. Compare [pp. 61](../Book_1#p61) below.
 
 [^34]: Okina Mondō, Vol. IV., pp. 1-13.
 
@@ -313,25 +313,25 @@ The sacred memories of the past, the treasures of philosophy and religion, the h
 
 [^38]: Similar instances are found, of course, in Chinese history.
 
-[^39]: [Pp. 41, 42](Book_1#p41) below.
+[^39]: [Pp. 41, 42](../Book_1#p41) below.
 
 [^40]: Numerous translations of the sermons of this school have been printed, among the earliest in A. B. Mitford's “Tales of Old Japan” pp. 288-326. The sermons called Kyuō Dōwa and Shingaku Michi no Hanashi are best known. Besides these there are among others;—Shō-ō Michi no Hanashi, Dōni-ō Dō-wa, Shingaku-kyoyu-roku, and Zoku-zoku Kyuō Dōwa.
 
-[^41]: [P. 50](Book_1#p50) below.
+[^41]: [P. 50](../Book_1#p50) below.
 
 [^42]: The Okina Mondō, Vol. V. pp. 17-18.
 
-[^43]: [P. 55](Book_1#p55) below.
+[^43]: [P. 55](../Book_1#p55) below.
 
-[^44]: [P. 55](Book_1#p55) below.
+[^44]: [P. 55](../Book_1#p55) below.
 
 [^45]: The Okina Mondō, Vol. II., p. 31.
 
-[^46]: [P. 60](Book_1#p60) below. Compare a certain phase of Christian mysticism:—“Oh to be nothing, nothing;” “A broken and empty vessel;” “Emptied, that He might fill me;” “Broken, that so unhindered, His life through me might flow.”
+[^46]: [P. 60](../Book_1#p60) below. Compare a certain phase of Christian mysticism:—“Oh to be nothing, nothing;” “A broken and empty vessel;” “Emptied, that He might fill me;” “Broken, that so unhindered, His life through me might flow.”
 
 [^47]: The Okina Mondō, Vol. V p. 26.
 
-[^48]: [P. 40](Book_1#p40) below.
+[^48]: [P. 40](../Book_1#p40) below.
 
 [^49]: The worship of ancestors remains an inconsistency difficult of explanation in Shushi's philosophy. He teaches (in the Gorui ###) that at death we are like the flame: it ascends and disappears yet we cannot say that it has ceased to be. It is the law that man's spirit (ki ###) dissolves at death, vanishes into thin air; but there are exceptions. When men naturally, and, so to speak, willingly die the spirit thus dissolves, but when they die violently, with strong protest, the spirit remains for a time collected and may return and show itself p. 24 and work harm. A man who was killed by his adulterous wife appeared to her undoing, for his hatred held his spirit together until vengeance was executed. But such exceptions are only for a time; finally all alike return to the primeval spirit. Shushi thus saves his philosophy and his orthodoxy.
 

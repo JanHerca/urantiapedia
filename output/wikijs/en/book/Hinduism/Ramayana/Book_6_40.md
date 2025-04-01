@@ -602,7 +602,7 @@ He placed the warrior Indrajit,
 His son, the giant's joy and boast,
 Surrounded by a Rákshas host:
 And mighty Sáran hastened forth
-With Suka to protect the north.  [1b](Book_6_40#fn955)
+With Suka to protect the north.  [1b](../Book_6_40#fn955)
 ‘I will myself,’ the monarch cried,
 ‘Be present on the northern side.’
 These orders for the walls' defence
@@ -655,7 +655,7 @@ Wield maces, swords and lances, stands.
 
 All these are chiefs whom Rávan chose
 As mightiest to resist his foes;
-And each a countless army  [1](Book_6_40#fn957) leads
+And each a countless army  [1](../Book_6_40#fn957) leads
 With elephants and cars and steeds.’
 &nbsp;&nbsp;&nbsp;&nbsp;Then Ráma, while his spirit burned
 For battle, words like these returned:
@@ -844,7 +844,7 @@ Thus with their branches interlaced,
 Which, crimson with the flowers of spring,
 From side to side the breezes swing,
 In furious wrestle you may see
-The Kins'uk and the Seemal tree.  [1](Book_6_50#fn958)
+The Kins'uk and the Seemal tree.  [1](../Book_6_50#fn958)
 They fought with fists and hands, alike
 Prepared to parry and to strike.
 Long time the doubtful combat, waged

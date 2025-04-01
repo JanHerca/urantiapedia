@@ -73,13 +73,13 @@ The copy which I have used belongs to a re-issue dated 1877. It is in 6 _pên_, 
 
 ## Footnotes
 
-[^79]: xxx:1 See _supra_, [p. xx](Introduction_1#pxx).
+[^79]: xxx:1 See _supra_, [p. xx](../Introduction_1#pxx).
 
 [^80]: xxxi:1 #.
 
 [^81]: xxxi:2 See #.
 
-[^82]: xxxi:3 Alluded to on [p. xvii](Introduction_1#pxvii), note [3](Introduction_1#fn_31).
+[^82]: xxxi:3 Alluded to on [p. xvii](../Introduction_1#pxvii), note [3](../Introduction_1#fn_31).
 
 [^83]: xxxi:4 _Loc. cit._: #.
 

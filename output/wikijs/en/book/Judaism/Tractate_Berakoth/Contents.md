@@ -37,18 +37,18 @@ dateCreated: 2025-2-7T10:38:9Z
 &nbsp; | PAGE
 --- | ---
 INTRODUCTION.
-1\. THE NATURE OF THE TRACTATE IN GENERAL | [vii](Introduction_1#pvii)
-2\. ITS RELATION TO THE TEACHING OF THE NEW TESTAMENT | [xi](Introduction_1#pxi)
-3\. THE RELATION OF THE MISHNA AND THE TOSEPHTA | [xiv](Introduction_2#pxiv)
-4\. THE AUTHORITIES FOR THE TEXT IN EACH CASE | [xvii](Introduction_4#pxvii)
-5\. BIBLIOGRAPHICAL | [xviii](Introduction_5#pxviii)
-6\. A SYNOPSIS OF THE CONTENTS OF THE TRACTATE IN BOTH MISHNA AND TOSEPHTA | [xx](Introduction_5#pxx)
-7\. AN INDEX TO THE TOSEPHTA AS ARRANGED IN THIS VOLUME | [xxv](Introduction_7#pxxv)
-TRANSLATION AND NOTES | [1](Berakoth_1_1#p1)
+1\. THE NATURE OF THE TRACTATE IN GENERAL | [vii](../Introduction_1#pvii)
+2\. ITS RELATION TO THE TEACHING OF THE NEW TESTAMENT | [xi](../Introduction_1#pxi)
+3\. THE RELATION OF THE MISHNA AND THE TOSEPHTA | [xiv](../Introduction_2#pxiv)
+4\. THE AUTHORITIES FOR THE TEXT IN EACH CASE | [xvii](../Introduction_4#pxvii)
+5\. BIBLIOGRAPHICAL | [xviii](../Introduction_5#pxviii)
+6\. A SYNOPSIS OF THE CONTENTS OF THE TRACTATE IN BOTH MISHNA AND TOSEPHTA | [xx](../Introduction_5#pxx)
+7\. AN INDEX TO THE TOSEPHTA AS ARRANGED IN THIS VOLUME | [xxv](../Introduction_7#pxxv)
+TRANSLATION AND NOTES | [1](../Berakoth_1_1#p1)
 INDICES. | 
-1\. THE NAMES OF RABBIS MENTIONED, WITH DATES | [91](Indices_1#p91)
-2\. GENERAL | [92](Indices_2#p92)
-3\. HOLY SCRIPTURE, AND OTHER EARLY LITERATURE | [94](Indices_3#p94)
+1\. THE NAMES OF RABBIS MENTIONED, WITH DATES | [91](../Indices_1#p91)
+2\. GENERAL | [92](../Indices_2#p92)
+3\. HOLY SCRIPTURE, AND OTHER EARLY LITERATURE | [94](../Indices_3#p94)
 
 <figure class="table chapter-navigator">
   <table>

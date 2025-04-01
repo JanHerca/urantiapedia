@@ -64,25 +64,25 @@ The qualities cannot be explained altogether distinctly (from one another). Pass
 
 ## Footnotes
 
-[^1599]: 328:1 Cf. Gîtâ inter alia, [p. 104](Bhagavadgita_13#p104).
+[^1599]: 328:1 Cf. Gîtâ inter alia, [p. 104](../Bhagavadgita_13#p104).
 
-[^1600]: 328:2 Cf. [p. 318](Anugita_21#p318) supra.
+[^1600]: 328:2 Cf. [p. 318](../Anugita_21#p318) supra.
 
-[^1601]: 328:3 So Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says on this, ‘However much goodness may be increased, it is still held in cheek by darkness, and thus there is the continual relation of that which checks and that which is checked between the three qualities; hence they are alike. So also passion being increased, holds goodness and darkness in cheek. The sense seems to be that the qualities dominate all in this world and exist together though varying in strength’ (Gîtâ, [p. 73](Bhagavadgita_6#p73)).
+[^1601]: 328:3 So Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says on this, ‘However much goodness may be increased, it is still held in cheek by darkness, and thus there is the continual relation of that which checks and that which is checked between the three qualities; hence they are alike. So also passion being increased, holds goodness and darkness in cheek. The sense seems to be that the qualities dominate all in this world and exist together though varying in strength’ (Gîtâ, [p. 73](../Bhagavadgita_6#p73)).
 
 [^1602]: 328:4 I. e. spontaneously, Ar<i>g</i>una Mi<i>s</i>ra. Cf. <i>S</i>ânti Parvan (Moksha), chap. 194, st. 35.
 
 [^1603]: 328:5 It is in the lower species that darkness is predominant.
 
-[^1604]: 329:1 I. e. the human species, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1604]: 329:1 I. e. the human species, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109).
 
-[^1605]: 329:2 See Gîtâ, [p. 109](Bhagavadgita_14#p109), also [p. 327](Anugita_23#p327) supra. In his Sânkhyatattvakaumudî, Vâ<i>k</i>aspati Mi<i>s</i>ra applies the epithet to Yogins (see p. 13 of Târânâth's edition, and the editor's note there)
+[^1605]: 329:2 See Gîtâ, [p. 109](../Bhagavadgita_14#p109), also [p. 327](../Anugita_23#p327) supra. In his Sânkhyatattvakaumudî, Vâ<i>k</i>aspati Mi<i>s</i>ra applies the epithet to Yogins (see p. 13 of Târânâth's edition, and the editor's note there)
 
-[^1606]: 329:3 Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1606]: 329:3 Cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
-[^1607]: 329:4 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109). The modifications of the senses constituting perception by them is an operation of the quality of goodness. This seems to be the meaning of the text; as to this, cf. Tattvakaumudi, p. 14 (Târânâth's edition).
+[^1607]: 329:4 Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109). The modifications of the senses constituting perception by them is an operation of the quality of goodness. This seems to be the meaning of the text; as to this, cf. Tattvakaumudi, p. 14 (Târânâth's edition).
 
-[^1608]: 329:5 See Gîtâ, [p. 109](Bhagavadgita_14#p109); the words are nearly identical.
+[^1608]: 329:5 See Gîtâ, [p. 109](../Bhagavadgita_14#p109); the words are nearly identical.
 
 [^1609]: 329:6 Cf. Sânti Parvan (Moksha), chap. 188, st. 15. The Vai<i>s</i>ya is omitted here.
 
@@ -92,13 +92,13 @@ The qualities cannot be explained altogether distinctly (from one another). Pass
 
 [^1612]: 330:2 I. e. the days of the moon's conjunction or opposition.
 
-[^1613]: 330:3 I understand this to mean that in the ‘immovable entities’ the three qualities co-exist; the birth in the lower species is an effect of darkness; the variable qualities, viz. the heat, &c., as Ar<i>g</i>una Mi<i>s</i>ra says, are the properties of passion; and the oleaginous properties among them appertain to goodness, as, says Ar<i>g</i>una Mi<i>s</i>ra, they are sources of pleasure (cf. Gîtâ, [p. 118](Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a says, ‘Immovable entities being very unintelligent, darkness is very much developed among them,’ but this last, as an interpretation of tiryagbhâvagata, appears to me to be alike unwarranted and inappropriate here.
+[^1613]: 330:3 I understand this to mean that in the ‘immovable entities’ the three qualities co-exist; the birth in the lower species is an effect of darkness; the variable qualities, viz. the heat, &c., as Ar<i>g</i>una Mi<i>s</i>ra says, are the properties of passion; and the oleaginous properties among them appertain to goodness, as, says Ar<i>g</i>una Mi<i>s</i>ra, they are sources of pleasure (cf. Gîtâ, [p. 118](../Bhagavadgita_17#p118)). Nîlaka<i>nth</i>a says, ‘Immovable entities being very unintelligent, darkness is very much developed among them,’ but this last, as an interpretation of tiryagbhâvagata, appears to me to be alike unwarranted and inappropriate here.
 
 [^1614]: 330:4 Does this mean the period about the close of one and beginning of another yuga or age? That is the only sense ejusdem generis with the words preceding it that I can think of;—yet the jump from years to yuga-sandhis is a long one.
 
-[^1615]: 330:5 Cf. Gîtâ, [p. 120](Bhagavadgita_17#p120). With reference to some, at least, of the things enumerated here, the division would be rather fanciful.
+[^1615]: 330:5 Cf. Gîtâ, [p. 120](../Bhagavadgita_17#p120). With reference to some, at least, of the things enumerated here, the division would be rather fanciful.
 
-[^1616]: 331:1 see these three mentioned at <i>Kh</i>ândogya, pp. 340-359. As to departments of knowledge, cf. Gîtâ, [p. 84](Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra reads, ‘threefold the Vedas.’
+[^1616]: 331:1 see these three mentioned at <i>Kh</i>ândogya, pp. 340-359. As to departments of knowledge, cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra reads, ‘threefold the Vedas.’
 
 [^1617]: 331:2 The universe is all developed from the Prakriti, which is merely the three ‘qualities in equilibrium.’ Cf. Sânkhya-sûtra I, 61.
 

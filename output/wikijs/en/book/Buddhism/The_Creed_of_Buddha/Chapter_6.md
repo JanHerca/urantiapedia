@@ -185,7 +185,7 @@ Link by link, the chain of proof has been forged which connects the inmost soul 
 
 ## Footnotes
 
-[^34]: 136:1 See pp. [77](cob06.htm#page_77), [78](cob06.htm#page_78).
+[^34]: 136:1 See pp. [77](../cob06.htm#page_77), [78](../cob06.htm#page_78).
 
 [^35]: 140:1 “Buddhism in Translation” (by H. S. Warren).
 

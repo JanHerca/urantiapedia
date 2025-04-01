@@ -171,9 +171,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘Be defeated, be conquered, when thou speakest. Sink down under the earth, when thou speakest, struck down by me irresistibly (?) with the hammer of . . . (?). That is true what I speak. Fall down, inferior to me, N.N.!’
 
-7\. [7](Hiranyakesin_1_5#fn588) He touches the assembly-hall (in which the contest is going on), and murmurs, ‘The golden-armed, blessed (goddess), whose eyes are not faint, who is decked with ornaments, seated in the midst of the gods, has spoken for my good. Svâhâ!’
+7\. [7](../Hiranyakesin_1_5#fn588) He touches the assembly-hall (in which the contest is going on), and murmurs, ‘The golden-armed, blessed (goddess), whose eyes are not faint, who is decked with ornaments, seated in the midst of the gods, has spoken for my good. Svâhâ!’
 
-8\. [8](Hiranyakesin_1_5#fn589) ‘For me have the high ones and the low ones, for me has this wide earth, for me have Agni and Indra accomplished my divine aim’—with (this verse) he looks at the assembly, and murmurs (it) turned towards (the assembly).
+8\. [8](../Hiranyakesin_1_5#fn589) ‘For me have the high ones and the low ones, for me has this wide earth, for me have Agni and Indra accomplished my divine aim’—with (this verse) he looks at the assembly, and murmurs (it) turned towards (the assembly).
 
 End of the Fourth Pa<i>t</i>ala.
 

@@ -277,11 +277,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^475]: 263:4 The four logesh<i>t</i>akâs (clods of earth), being placed at the ends of the two ‘spines,’ represent the four quarters, marking as they do the centre of the east, south, west, and north sides of the altar-site, sown with seeds of all kinds; see VII, 3, I, 13 seq. The bunch of Darbha grass, placed in the centre, would thus represent the fifth region, viz. the one above.
 
-[^476]: 263:5 Though the Prâ<i>n</i>abh<i>ri</i>ts are said to represent, not the regions, but the (channels of the) vital airs, they are placed in rows along the diagonals of the square body of the altar, thus marking, as it were, the intermediate regions; whilst the fifth set is placed in a circle round the centre. See [VIII, 1, 1, 1](Book_4_8_1#v8_1_1_1) seq.
+[^476]: 263:5 Though the Prâ<i>n</i>abh<i>ri</i>ts are said to represent, not the regions, but the (channels of the) vital airs, they are placed in rows along the diagonals of the square body of the altar, thus marking, as it were, the intermediate regions; whilst the fifth set is placed in a circle round the centre. See [VIII, 1, 1, 1](../Book_4_8_1#v8_1_1_1) seq.
 
 [^477]: 263:6 The bricks of these layers are all of them supposed to be marked by their position to relate to the regions or quarters.
 
-[^478]: 264:1 For the Asapatnâs, laid down near the ends of the spines, to drive off evil in all four quarters, see [VIII, 5, 1, 1](Book_4_8_5#v8_5_1_1); for the other two kinds of bricks, expressly identified with the regions, see [VIII, 6, 1, 1](Book_4_8_6#v8_6_1_1) seq.
+[^478]: 264:1 For the Asapatnâs, laid down near the ends of the spines, to drive off evil in all four quarters, see [VIII, 5, 1, 1](../Book_4_8_5#v8_5_1_1); for the other two kinds of bricks, expressly identified with the regions, see [VIII, 6, 1, 1](../Book_4_8_6#v8_6_1_1) seq.
 
 [^479]: 264:2 That is, the altar was so full of regions that they escaped at the top.
 
@@ -289,11 +289,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^481]: 265:1 This is an etymological quibble resorted to in order to account for the oblation to Pra<i>g</i>âpati as one of the oblations of the goddesses (devikâ).
 
-[^482]: 265:2 See [p. 248](Book_4_9_4#p248), note [1](Book_4_9_4#fn426).
+[^482]: 265:2 See [p. 248](../Book_4_9_4#p248), note [1](../Book_4_9_4#fn426).
 
-[^483]: 265:3 See ibid., note [2](Book_4_9_4#fn427).
+[^483]: 265:3 See ibid., note [2](../Book_4_9_4#fn427).
 
-[^484]: 265:4 That is, for these five oblations which are inserted between the chief oblations and the Svish<i>t</i>ak<i>ri</i>t of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a; as above, [IX, 4, 3, 12](Book_4_9_4#v9_4_3_12) seq.
+[^484]: 265:4 That is, for these five oblations which are inserted between the chief oblations and the Svish<i>t</i>ak<i>ri</i>t of the Pa<i>s</i>upuro<i>d</i>â<i>s</i>a; as above, [IX, 4, 3, 12](../Book_4_9_4#v9_4_3_12) seq.
 
 [^485]: 265:5 For this expiatory ceremony, called the <i>S</i>ûlâvabh<i>ri</i>tha (spit-bath), p. 266 and marking the conclusion of an ordinary (nirû<i>dh</i>a) animal sacrifice—not one belonging to the Soma-sacrifice—as well as of the offering of a sterile cow, see part ii, p. 215.
 
@@ -311,7 +311,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^492]: 267:5 ‘O gods, honour ye him (the Sacrificer)!’ Mahîdhara; but perhaps the <i>Ri</i>shis are addressed in this second line. Mahîdhara takes ‘atra’ (‘here’) along with ‘parame vyoman’—‘in this highest heaven.’
 
-[^493]: 268:1 See [VIII, 6, 3, 23](Book_4_8_6#v8_6_3_23), [24](Book_4_8_6#v8_6_3_24).
+[^493]: 268:1 See [VIII, 6, 3, 23](../Book_4_8_6#v8_6_3_23), [24](../Book_4_8_6#v8_6_3_24).
 
 [^494]: 268:2 The meaning of the verse is, however, far from certain. The above is Mahîdhara's interpretation, except that he takes ‘yâ<i>h</i>’ to mean ‘and what (other) streams there are.’ It might, however, also mean—‘What streams of honey and ghee of ours are never-failing anywhere—Agni Vai<i>s</i>vakarma<i>n</i>a shall deposit them in heaven with the gods!’—in which case due reward for sacrifice would be prayed for.
 
@@ -345,7 +345,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^510]: 273:1 That is to say, he must have been carried about for at least six months; and embryos less than six months old cannot live.
 
-[^511]: 273:2 This is so for the reason that the Mahad uktham consists of more than the eighties of verses; see [IX, 3, 3, 19](Book_4_9_3#v9_3_3_19). One might feel inclined to include this whole sentence in the preceding quotation.
+[^511]: 273:2 This is so for the reason that the Mahad uktham consists of more than the eighties of verses; see [IX, 3, 3, 19](../Book_4_9_3#v9_3_3_19). One might feel inclined to include this whole sentence in the preceding quotation.
 
 [^512]: 273:3 That is, already too much attenuated, by being made as large as one a year old (?).
 
@@ -357,7 +357,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^516]: 275:2 Viz. the first of the seven verses (<i>Ri</i>g-veda III, 37, 1).
 
-[^517]: 275:3 According to Kâty. <i>S</i>r. XVII, 7, 1, this ceremony should take place on the completion of each layer, after it has been covered with loose earth; cf. [paragraph 11](Book_4_9_5#v9_5_2_11).
+[^517]: 275:3 According to Kâty. <i>S</i>r. XVII, 7, 1, this ceremony should take place on the completion of each layer, after it has been covered with loose earth; cf. [paragraph 11](../Book_4_9_5#v9_5_2_11).
 
 [^518]: 276:1 For the complete verse, see IV, 6, 4, 4.
 
@@ -369,8 +369,8 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^522]: 278:1 Viz. Indra and Agni, having each four verses addressed to them.
 
-[^523]: 278:2 See [p. 282](Book_4_10_1#p282), note [5](Book_4_10_1#fn525).
+[^523]: 278:2 See [p. 282](../Book_4_10_1#p282), note [5](../Book_4_10_1#fn525).
 
-[^524]: 278:3 See [p. 110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202); [p. 111](Book_4_8_6#p111), note [1](Book_4_8_6#fn203).
+[^524]: 278:3 See [p. 110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202); [p. 111](../Book_4_8_6#p111), note [1](../Book_4_8_6#fn203).
 
 [^525]: 279:1 That is, the Vedic texts.

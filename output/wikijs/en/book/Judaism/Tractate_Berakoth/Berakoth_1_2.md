@@ -49,7 +49,7 @@ _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has 
 
 <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
-**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](Berakoth_1_2#fn_106) said Why does the Shma‘ precede “And it shall come to pass if ye hearken”? So that a man may accept the yoke of the kingdom of Heaven [2](Berakoth_1_2#fn_107) first, and afterwards accept the yoke of commandments. \[Similarly\] “And it shall come to pass, if ye hearken” precedes “And the LORD said,” because “And it shall come to pass, if ye hearken,” applies both by day and by night, but “And the LORD said” applies by day only. [3](Berakoth_1_2#fn_108)
+**M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](../Berakoth_1_2#fn_106) said Why does the Shma‘ precede “And it shall come to pass if ye hearken”? So that a man may accept the yoke of the kingdom of Heaven [2](../Berakoth_1_2#fn_107) first, and afterwards accept the yoke of commandments. \[Similarly\] “And it shall come to pass, if ye hearken” precedes “And the LORD said,” because “And it shall come to pass, if ye hearken,” applies both by day and by night, but “And the LORD said” applies by day only. [3](../Berakoth_1_2#fn_108)
 
 <a id="m4"></a>
 
@@ -153,15 +153,15 @@ II. 8 (7 _cont_.). And when his slave Tabi died he accepted condolence [^138] fo
 
 [^107]: 16:2 _the kingdom of heaven_. The Sovereignty of God as made known to His people. This is also the primary meaning of “the kingdom of Heaven” in the Gospel according to St. Matthew.
 
-[^108]: 16:3 The reference is to the “fringes” (_tsitsith_), which are not worn at night. Num. 1539 says “that ye may look upon it.” See Abrahams on SA, p. 97. _Vide infra_, [p. 80](Berakoth_3_9#p80).
+[^108]: 16:3 The reference is to the “fringes” (_tsitsith_), which are not worn at night. Num. 1539 says “that ye may look upon it.” See Abrahams on SA, p. 97. _Vide infra_, [p. 80](../Berakoth_3_9#p80).
 
 [^109]: 16:4 _R. Jose_. This name without any addition refers to R. Jose ben Chalaphta, a leather-worker in Sepphoris, and a mishna teacher of the third generation, c. 130-260 A.D.
 
-[^110]: 16:5 _in an irregular order_. See [p. 56](Berakoth_3_6#p56).
+[^110]: 16:5 _in an irregular order_. See [p. 56](../Berakoth_3_6#p56).
 
 [^111]: 17:1 _the Hallel_. Pss. 113-118. SA, p. 219.
 
-[^112]: 17:2 _the Prayer_. The _Eighteen Benedictions_ (_vide supra_, [p. 5](Berakoth_1_1#p5)).
+[^112]: 17:2 _the Prayer_. The _Eighteen Benedictions_ (_vide supra_, [p. 5](../Berakoth_1_1#p5)).
 
 [^113]: 17:3 _the Roll_. The Book of Esther. Each of these three is composed of more than one section.
 
@@ -189,11 +189,11 @@ II. 8 (7 _cont_.). And when his slave Tabi died he accepted condolence [^138] fo
 
 [^125]: 19:3 _the Benedictions before it and after it_. SA, pp. 39-42.
 
-[^126]: 19:4 _before . . . after_. Literally “before them” and “after them,” _i.e._ the Shma‘ and the meal (_vide infra_, [p. 23](Berakoth_1_3#p23)).
+[^126]: 19:4 _before . . . after_. Literally “before them” and “after them,” _i.e._ the Shma‘ and the meal (_vide infra_, [p. 23](../Berakoth_1_3#p23)).
 
 [^127]: 19:5 _three times_. _i.e._ morning, afternoon, and evening. The _shel_ in Zuckermandel's text seems to be a printer's error.
 
-[^128]: 19:6 _let them go down in front of the Ark_. Cf. _M_. V. 3: “him that passes before the Ark.” Either phrase was originally used of the leader in the Tephillah, because he stepped forward in front of the Ark containing the rolls of the Law. But the term remained on when he had taken his place there long before the Tephillah. “Go down,” because sometimes the Ark was lower than the body of the synagogue, perhaps in order to teach humility. See Elbogen, P. 497; SA, on p. 42 (p. lvi.). Cf. _infra_, [p. 40](Berakoth_2_5#p40).
+[^128]: 19:6 _let them go down in front of the Ark_. Cf. _M_. V. 3: “him that passes before the Ark.” Either phrase was originally used of the leader in the Tephillah, because he stepped forward in front of the Ark containing the rolls of the Law. But the term remained on when he had taken his place there long before the Tephillah. “Go down,” because sometimes the Ark was lower than the body of the synagogue, perhaps in order to teach humility. See Elbogen, P. 497; SA, on p. 42 (p. lvi.). Cf. _infra_, [p. 40](../Berakoth_2_5#p40).
 
 [^129]: 19:7 But he must say the Shma‘ in the morning.
 
@@ -213,8 +213,8 @@ II. 8 (7 _cont_.). And when his slave Tabi died he accepted condolence [^138] fo
 
 [^137]: 21:2 ἀσθενής.
 
-[^138]: 21:3 _condolence_. In the formal utterance of prayers for the mourners by those who visited them during the week of mourning. For examples of such prayers used to-day see SA, p. 324. R. Eliezer refused to accept such condolence from his disciples, and said that only the same phrases should be used as at the death of an ox, “God make up to thee thy loss,” but other Rabbis did permit more to be said when the male or female slave was pious (Gemara T.B. 18b). Cf. _infra_. [p. 42](Berakoth_2_5#p42).
+[^138]: 21:3 _condolence_. In the formal utterance of prayers for the mourners by those who visited them during the week of mourning. For examples of such prayers used to-day see SA, p. 324. R. Eliezer refused to accept such condolence from his disciples, and said that only the same phrases should be used as at the death of an ox, “God make up to thee thy loss,” but other Rabbis did permit more to be said when the male or female slave was pious (Gemara T.B. 18b). Cf. _infra_. [p. 42](../Berakoth_2_5#p42).
 
 [^139]: 21:4 _Rabban Simeon ben Gamaliel_. Son of Gamaliel II., flourished c. 130-160 A.D., the father of R. Judah the Prince, who was the compiler of the mishna.
 
-[^140]: 21:5 A warning against vanity and pride, which lead to hypocrisy. Not every one can safely imitate R. Gamaliel (see _M_. 6(5), [p. 19](Berakoth_1_2#p19)).
+[^140]: 21:5 A warning against vanity and pride, which lead to hypocrisy. Not every one can safely imitate R. Gamaliel (see _M_. 6(5), [p. 19](../Berakoth_1_2#p19)).

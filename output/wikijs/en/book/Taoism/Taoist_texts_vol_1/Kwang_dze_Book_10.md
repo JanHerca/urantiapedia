@@ -82,7 +82,7 @@ How do I know that the case is so? The knowledge shown in the (making of) bows, 
 
 ## Footnotes
 
-[^406]: 281:1 See pp. [141](Kwang_dze_Intro#p141), [142](Kwang_dze_Intro#p142).
+[^406]: 281:1 See pp. [141](../Kwang_dze_Intro#p141), [142](../Kwang_dze_Intro#p142).
 
 [^407]: 282:1 The meaning is plain; but to introduce the various geographical terms would make the translation cumbrous. The concluding ![](/image/book/Taoism/Taoist_texts_vol_1/28200.jpg) is perplexing.
 
@@ -110,19 +110,19 @@ How do I know that the case is so? The knowledge shown in the (making of) bows, 
 
 [^419]: 286:1 See the Tâo Teh King, ch. 36. Our author's use of it throws light on its meaning.
 
-[^420]: 286:2 Note  [1](Kwang_dze_Book_2#fn98), p. 186.
+[^420]: 286:2 Note  [1](../Kwang_dze_Book_2#fn98), p. 186.
 
-[^421]: 286:3 Note  [2](Kwang_dze_Book_8#fn343), p. 269.
+[^421]: 286:3 Note  [2](../Kwang_dze_Book_8#fn343), p. 269.
 
 [^422]: 286:4 A skilful maker of arrows of the time of Yâo,—the Kung-kung of the Shû, II, i, 21; V, xxii, 19.
 
 [^423]: 287:1 The Tâo Teh King, ch. 45.
 
-[^424]: 287:2 Note  [6](Kwang_dze_Book_8#fn347), p. 269.
+[^424]: 287:2 Note  [6](../Kwang_dze_Book_8#fn347), p. 269.
 
-[^425]: 287:3 Note  [7](Kwang_dze_Book_8#fn348), p. 269.
+[^425]: 287:3 Note  [7](../Kwang_dze_Book_8#fn348), p. 269.
 
-[^426]: 287:4 Note  [5](Kwang_dze_Book_7#fn324), p. 261.
+[^426]: 287:4 Note  [5](../Kwang_dze_Book_7#fn324), p. 261.
 
 [^427]: 287:5 Of the twelve names mentioned here the reader is probably familiar with those of Fû-hsî and Shan-näng, the first and second of the Tî in chronology. Hsien-yüan is another name for Hwang-Tî, the third of them. Kû-yung was, perhaps, a minister of Hwang-Tî. Ho-hsü has occurred before in Book IV. Of the other seven, five occur among the fifteen sovereigns placed in the ‘Compendium p. 288 of History’ between Fû-hsî and Shän-näng. The remaining two may be found, I suppose, in the Lû Shih of Lo Pî.
 

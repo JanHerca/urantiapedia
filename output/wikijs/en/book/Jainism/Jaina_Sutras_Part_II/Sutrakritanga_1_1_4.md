@@ -114,4 +114,4 @@ Thus I say.
 
 [^729]: 248:5 Nûma = mâyâ.
 
-[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Compare the similar expressions in I, 1, 2, 12, above, [p. 241](Sutrakritanga_1_1_2#p241), notes 1-4, and I, 2, 2, 29, below, [p. 257](Sutrakritanga_1_2_2#p257).
+[^730]: 248:6 Ma<i>g</i><i>gh</i>attha = madhyastha, lôbha. Compare the similar expressions in I, 1, 2, 12, above, [p. 241](../Sutrakritanga_1_1_2#p241), notes 1-4, and I, 2, 2, 29, below, [p. 257](../Sutrakritanga_1_2_2#p257).

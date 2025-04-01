@@ -122,7 +122,7 @@ And they that stand by say: “As Thou hast made him enter the covenant, so maye
 
 ## On Praying when Entering and when Leaving a Town.
 
-**M**.IX. 6 (4). He that enters into a town prays two prayers—one on his entrance, and one on his exit. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] says: Four, two on his entrance, and two on his exit. And one gives praise for <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> what is past, and calleth out for what is about to come. [^504]
+**M**.IX. 6 (4). He that enters into a town prays two prayers—one on his entrance, and one on his exit. [4](../Berakoth_3_9#fn_502) Ben Azzai [^503] says: Four, two on his entrance, and two on his exit. And one gives praise for <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> what is past, and calleth out for what is about to come. [^504]
 
 **T**.
 
@@ -152,11 +152,11 @@ The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
 <span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
-**M**.shoe(s), [1](Berakoth_3_9#fn_521) and with his purse, and with the dust on his feet. [2](Berakoth_3_9#fn_522) Nor should he make it a short cut, [3](Berakoth_3_9#fn_523) much less spit there. What of wearing shoes? For this is out of respect; it is forbidden to enter with them. And spitting? For this comes from contempt. It is the regulation. [4](Berakoth_3_9#fn_524)
+**M**.shoe(s), [1](../Berakoth_3_9#fn_521) and with his purse, and with the dust on his feet. [2](../Berakoth_3_9#fn_522) Nor should he make it a short cut, [3](../Berakoth_3_9#fn_523) much less spit there. What of wearing shoes? For this is out of respect; it is forbidden to enter with them. And spitting? For this comes from contempt. It is the regulation. [4](../Berakoth_3_9#fn_524)
 
 **T**.
 
-**T**. VII. 19. A man may not enter the Temple area with money tied up in his linen cloth, [5](Berakoth_3_9#fn_525) or with dust which is on his feet, or with his money-bag tied to him on the outside \[of his dress\]. For it is said: “_Keep thy feet when thou goest to the house of God_.” [6](Berakoth_3_9#fn_526) R. Jose, son of R. Judah, says: Behold, He says: “_For none might enter within the king's gate clothed with sackcloth_.” [7](Berakoth_3_9#fn_527) How many arguments from the less to the greater are there in this case! And so spitting (is forbidden) by the same argument. For as with a shoe, in connexion with which there is no customary contempt, the Law says: [8](Berakoth_3_9#fn_528) Do not enter in—with a shoe, how much less with spitting in which there is customary contempt.
+**T**. VII. 19. A man may not enter the Temple area with money tied up in his linen cloth, [5](../Berakoth_3_9#fn_525) or with dust which is on his feet, or with his money-bag tied to him on the outside \[of his dress\]. For it is said: “_Keep thy feet when thou goest to the house of God_.” [6](../Berakoth_3_9#fn_526) R. Jose, son of R. Judah, says: Behold, He says: “_For none might enter within the king's gate clothed with sackcloth_.” [7](../Berakoth_3_9#fn_527) How many arguments from the less to the greater are there in this case! And so spitting (is forbidden) by the same argument. For as with a shoe, in connexion with which there is no customary contempt, the Law says: [8](../Berakoth_3_9#fn_528) Do not enter in—with a shoe, how much less with spitting in which there is customary contempt.
 
 <a id="m8b"></a>
 
@@ -222,7 +222,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^458]: 76:4 _at intervals_. Cf. _T_. VII. 6 (p. 78). At intervals of thirty days (Bartenora), thus excluding persons who live on the coast.
 
-[^459]: 76:5 _The Benediction in the invitation_. See [p. 59](Berakoth_3_6#p59).
+[^459]: 76:5 _The Benediction in the invitation_. See [p. 59](../Berakoth_3_6#p59).
 
 [^460]: 76:6 Deut. 810.
 
@@ -256,7 +256,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^471]: 78:4 has, “who has given us life, and has established us, and has allowed us to reach this time.”—A service for the consecration of a house is given in SA, pp. 300-303, but the formula here quoted is on p. ccxix. Abrahams, in his note, says it is “prescribed for use on the enjoyment of a new possession or pleasure for the first time.”
 
-[^472]: 78:5 _the abstract_. See _M_. IV. 3 note ([p. 30](Berakoth_2_4#p30)).
+[^472]: 78:5 _the abstract_. See _M_. IV. 3 note ([p. 30](../Berakoth_2_4#p30)).
 
 [^473]: 78:6 _for good . . . for evil_, SA, p. 292.
 
@@ -280,7 +280,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^483]: 79:8 _R. Dosethai bar Jannai_. In the fourth generation of mishna-teachers, c. 160-200 A.D.
 
-[^484]: 79:9 in \[the passage about\] Isaac. Cf. Mark 1226 “in \[the place concerning\] the Bush;” and perhaps Rom. 112 “in Elijah.” _Vide supra_, [p. 36](Berakoth_2_5#p36).
+[^484]: 79:9 in \[the passage about\] Isaac. Cf. Mark 1226 “in \[the place concerning\] the Bush;” and perhaps Rom. 112 “in Elijah.” _Vide supra_, [p. 36](../Berakoth_2_5#p36).
 
 [^485]: 79:10 Verbally in Gen. 2624, but essentially in vv. 3, _sq_., which makes it easier for ver. 12 to be quoted immediately. But in any case “there is no before nor after in the Law” (T. B. _Pesachim_, 6b).
 
@@ -294,11 +294,11 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^490]: 80:4 _who enabled us to reach this season_. These are the closing words of the meditation given in SA, p. 232, which also includes the next prayer.
 
-[^491]: 80:5 _a Lulab_. _Vide supra_, [p. 33](Berakoth_2_4#p33).
+[^491]: 80:5 _a Lulab_. _Vide supra_, [p. 33](../Berakoth_2_4#p33).
 
-[^492]: 80:6 _Tsitsith_. _Vide supra_, [p. 16](Berakoth_1_2#p16).
+[^492]: 80:6 _Tsitsith_. _Vide supra_, [p. 16](../Berakoth_1_2#p16).
 
-[^493]: 81:1 _Tephillin_, or Phylacteries. _Vide supra_, [p. 17](Berakoth_1_2#p17).
+[^493]: 81:1 _Tephillin_, or Phylacteries. _Vide supra_, [p. 17](../Berakoth_1_2#p17).
 
 [^494]: 81:2 _lays them_. _i.e._ binds them on head or arm.
 
@@ -316,7 +316,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^501]: 82:2 The common text adds Benedictions to be used at the circumcision of proselytes and slaves, taken from _T_. B. Sabb. 137b.
 
-[^502]: 82:3 _Contributions_. See [p. 59](Berakoth_3_6#p59).
+[^502]: 82:3 _Contributions_. See [p. 59](../Berakoth_3_6#p59).
 
 [^503]: 82:4 The prayers are given in _T_.
 
@@ -330,7 +330,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^508]: 83:4 _happen to me_ (_ye’ra‘ bî_). Jastrow (p. 1382b) translates the parallel passage in the Gemara, _T_. B. 60a, “that no mischief or sin may occur through me,” but the immediate reference to death seems to preclude this.
 
-[^509]: 84:1 _let my death be an atonement_, cf. _supra_, [p. 13](Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8: “Death and the Day of Atonement make atonement, with repentance.”
+[^509]: 84:1 _let my death be an atonement_, cf. _supra_, [p. 13](../Berakoth_1_1#p13). Cf. _Yoma_ VIII. 8: “Death and the Day of Atonement make atonement, with repentance.”
 
 [^510]: 84:2 _all like it, in the future that is to come_. _i.e._ the fire of Gehenna.
 
@@ -376,7 +376,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^531]: 87:1 “_from ever_.” C reads _hāyu_ _min ha‘ôlām_, literally, “were from ever” or “from the world.” But B has _hāyu_ _’omrīm ‘ad ha‘ôlām_, “all they who sealed the Benedictions which were in the Temple used to say ‘for ever.’” Probably, however, T. VII. 21 is right in reading only _‘ad_, “to,” instead of _min_, “from.”
 
-[^532]: 87:2 _the Heretics_ (_ha Minim_). Here plainly not the Hebrew-Christians, for these never denied the existence of the next world. Cf. pp. [40](Berakoth_2_5#p40) _sq_., [42](Berakoth_2_5#p42).
+[^532]: 87:2 _the Heretics_ (_ha Minim_). Here plainly not the Hebrew-Christians, for these never denied the existence of the next world. Cf. pp. [40](../Berakoth_2_5#p40) _sq_., [42](../Berakoth_2_5#p42).
 
 [^533]: 87:3 _from ever to ever_. Literally, “from the world and even to the world.” Yet in Neh. 95 we find said in the Second Temple, “Arise, bless the LORD your God from ever to ever.” For other references see Dalman, _Worte_, pp. 123 _sq_. (E. T. p. 151).
 
@@ -412,7 +412,7 @@ R. Meir used to say: Thou hast no man in Israel who is not performing a hundred 
 
 [^549]: 89:3 Judges 612. Again the central truth of the Law is implied.
 
-[^550]: 89:4 Hillel the Elder, see [p. 27](Berakoth_1_3#p27) note.
+[^550]: 89:4 Hillel the Elder, see [p. 27](../Berakoth_1_3#p27) note.
 
 [^551]: 89:5 When men come in to listen, do thou teach.
 

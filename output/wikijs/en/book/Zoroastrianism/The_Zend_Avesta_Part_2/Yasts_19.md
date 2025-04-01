@@ -407,7 +407,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1267]: 286:1 Sîrôzah I, 28.
 
-[^1268]: 287:1 The same as the Hara Berezaiti, the later Albôrz; see [p. 58](Yasts_5#p58), note [3](Yasts_5#fn296).
+[^1268]: 287:1 The same as the Hara Berezaiti, the later Albôrz; see [p. 58](../Yasts_5#p58), note [3](../Yasts_5#fn296).
 
 [^1269]: 287:2 The Caspian sea.
 
@@ -415,9 +415,9 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1271]: 287:4 According to the Bundahi<i>s</i>, Manusha is another name of Mount Zeredhô (XII, 2). It is the mountain on which Mânû<i>s</i><i>k</i>îhar was born (ibid. 10).
 
-[^1272]: 287:5 ‘The mountain that gives understanding, that preserves understanding,’ the later Mount Ô<i>s</i>dâ<i>s</i>târ; see [p. 33](Yasts_1#p33), note [1](Yasts_1#fn172).
+[^1272]: 287:5 ‘The mountain that gives understanding, that preserves understanding,’ the later Mount Ô<i>s</i>dâ<i>s</i>târ; see [p. 33](../Yasts_1#p33), note [1](../Yasts_1#fn172).
 
-[^1273]: 287:6 See [p. 65](Yasts_5#p65), note [2](Yasts_5#fn319).
+[^1273]: 287:6 See [p. 65](../Yasts_5#p65), note [2](../Yasts_5#fn319).
 
 [^1274]: 287:7 Mount Arzûr ‘is a summit at the gate of hell’ (Bundahi<i>s</i> XII, 8; cf. Vend. III, 7 (23); XIX, 140).
 
@@ -431,11 +431,11 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1279]: 288:3 ? Kãsô-tafedhra; possibly the name of a mountain; Mount Kãsô-tafedhra Vafra.
 
-[^1280]: 288:4 See [p. 67](Yasts_5#p67), note [4](Yasts_5#fn335).
+[^1280]: 288:4 See [p. 67](../Yasts_5#p67), note [4](../Yasts_5#fn335).
 
 [^1281]: 288:5 ‘Si<i>k</i>idâv, a mountain among those which are in Kangde<i>z</i>’ (Bund. XII, 2, tr. West).
 
-[^1282]: 288:6 See [p. 7](Sirozahs_1#p7), note [5](Sirozahs_1#fn43).
+[^1282]: 288:6 See [p. 7](../Sirozahs_1#p7), note [5](../Sirozahs_1#fn43).
 
 [^1283]: 288:7 The Mount Siyâk-ômand (‘the black mountain’) and Mount Vafar-ômand (‘the snowy mountain’) of Bundahi<i>s</i> XII, 22, which are said to have grown out of the Apârsên ridge and to extend towards China.
 
@@ -445,13 +445,13 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1286]: 289:3 The Kôîrâs mountain in Îrân-Vê<i>g</i> (Bund. XII, 25).
 
-[^1287]: 289:4 Cf. Yt. XV, 7, and [p. 58](Yasts_5#p58), note [2](Yasts_5#fn295).
+[^1287]: 289:4 Cf. Yt. XV, 7, and [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
 
-[^1288]: 289:5 See [p. 8](Sirozahs_1#p8), notes [1](Sirozahs_1#fn46) and [2](Sirozahs_1#fn47).
+[^1288]: 289:5 See [p. 8](../Sirozahs_1#p8), notes [1](../Sirozahs_1#fn46) and [2](../Sirozahs_1#fn47).
 
 [^1289]: 289:6 ‘The other mountains have grown out of Albûr<i>z</i>, in number 2244 mountains’ (Bund. XII, 2).
 
-[^1291]: 289:7 See notes to Yt. III, 17 ([p. 47](Yasts_3#p47)).
+[^1291]: 289:7 See notes to Yt. III, 17 ([p. 47](../Yasts_3#p47)).
 
 [^1292]: 290:1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
 
@@ -463,7 +463,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1296]: 291:1 §§ 19-20 = §§ 11-12.
 
-[^1297]: 291:2 The Saoshya<i>n</i><i>t</i>s; see [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^1297]: 291:2 The Saoshya<i>n</i><i>t</i>s; see [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^1298]: 291:3 §§ 23-24 = §§ 19-20.
 
@@ -487,13 +487,13 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1308]: 294:1 A<i>z</i>i Dahâka and his followers.
 
-[^1309]: 294:2 The Glory is described as departing three times, because it is threefold, according as it belongs to the king considered as a priest, a warrior, or a husbandman. In that threefold character it is identical with Âdar Frobâ, Âdar Gushasp, and Âdar Bûrzîn Mihr ([p. 7](Sirozahs_1#p7), notes).
+[^1309]: 294:2 The Glory is described as departing three times, because it is threefold, according as it belongs to the king considered as a priest, a warrior, or a husbandman. In that threefold character it is identical with Âdar Frobâ, Âdar Gushasp, and Âdar Bûrzîn Mihr ([p. 7](../Sirozahs_1#p7), notes).
 
 [^1310]: 294:3 A raven, one of the incarnations of the Genius of Victory (Yt. XIV, 18-21; cf. ibid. § 35).
 
 [^1311]: 294:4 Cf. Yt. V, 34.
 
-[^1312]: 295:1 See V, 37 (pp. [62](Yasts_5#p62)\-[63](Yasts_5#p63), and notes); XIII, 136; XV, 27.
+[^1312]: 295:1 See V, 37 (pp. [62](../Yasts_5#p62)\-[63](../Yasts_5#p63), and notes); XIII, 136; XV, 27.
 
 [^1313]: 295:2 Cf. Yasna IX, II (34-39). This tale belongs to the widespread cyclus of the island-whale (a whale whose back is mistaken by sailors for an island; they land upon it, cook their food there, and the monster. awaked by the heat, flies off and carries them away: see Arabian Nights, Seventy-first Night; Babâ Bathrâ, 5).
 
@@ -518,7 +518,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
   &nbsp;&nbsp;&nbsp;&nbsp;To bristle on the chin, and promise man,
   &nbsp;&nbsp;&nbsp;&nbsp;His shafts Apollo aim’d.' (Pope.)
 
-[^1324]: 297:2 The sacerdotal Glory; see [p. 11](Sirozahs_1#p11), note [6](Sirozahs_1#fn78), cf. § 53.
+[^1324]: 297:2 The sacerdotal Glory; see [p. 11](../Sirozahs_1#p11), note [6](../Sirozahs_1#fn78), cf. § 53.
 
 [^1323]: 297:3 When it had departed from Yima.
 
@@ -530,7 +530,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1329]: 298:2 Doubtful.
 
-[^1330]: 299:1 Apãm Napâ<i>t</i>; see [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^1330]: 299:1 Apãm Napâ<i>t</i>; see [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^1331]: 299:2 An allusion to old myths on the igneous origin of life (Ormazd et Ahriman, § 78).
 
@@ -566,7 +566,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1347]: 302:3 The Helmend (Ἐτύμανδρος; cf. Vend. I, 14).
 
-[^1348]: 302:4 The seat of the <i>H</i><i>v</i>arenô; see [p. 33](Yasts_1#p33), note [1](Yasts_1#fn172), [p. 287](#p287), note [^1210], and Introduction to Yt. XVIII.
+[^1348]: 302:4 The seat of the <i>H</i><i>v</i>arenô; see [p. 33](../Yasts_1#p33), note [1](../Yasts_1#fn172), [p. 287](#p287), note [^1210], and Introduction to Yt. XVIII.
 
 [^1349]: 302:5 The water of the rivers in which the Glory lies, and in the midst of which the Kavi has been nourished.
 
@@ -574,7 +574,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1352]: 303:1 Doubtful.
 
-[^1353]: 303:2 See [p. 182](Yasts_13#p182), note [2](Yasts_13#fn817).
+[^1353]: 303:2 See [p. 182](../Yasts_13#p182), note [2](../Yasts_13#fn817).
 
 [^1354]: 303:3 See Yt. XIII, § 132.
 
@@ -584,7 +584,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1357]: 304:2 Keresavazda, the Karsîvaz of Firdausi, the brother of Afrâsyâb and the murderer of Syâvarshâna: he was put to death by Husravah in company with his brother (Études Iraniennes, II, 227).
 
-[^1358]: 304:3 See [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545).
+[^1358]: 304:3 See [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545).
 
 [^1359]: 305:1 See Vend. XX, 10.
 
@@ -604,13 +604,13 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1367]: 306:1 §§ 85-86 = Yt. XIII, 99-100.
 
-[^1368]: 306:2 Or ‘with his spear pushed forwards;’ see [p. 205](Yasts_13#p205), note [1](Yasts_13#fn924).
+[^1368]: 306:2 Or ‘with his spear pushed forwards;’ see [p. 205](../Yasts_13#p205), note [1](../Yasts_13#fn924).
 
 [^1369]: 306:3 Cf. Yt. V, 109.
 
 [^1370]: 306:4 §§ 89-90 = §§ 11-12.
 
-[^1371]: 306:5 See [p. 117](Yasts_9#p117), note [6](Yasts_9#fn555).
+[^1371]: 306:5 See [p. 117](../Yasts_9#p117), note [6](../Yasts_9#fn555).
 
 [^1372]: 307:1 Saoshya<i>n</i><i>t</i>; cf. Yt. XIII, 129.
 
@@ -622,7 +622,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1376]: 307:5 Or ‘the demon.’
 
-[^1377]: 307:6 This line is in contradiction with what we know of the Frangrasyan legend, unless the text is corrupt and the name of Frangrasyan has been introduced here by mistake (for Keresâspa?). Yet it may allude to brighter sides, unknown to us, of the Turanian hero: the Bull (g<i>a</i>u<i>s</i>) may be his brother Aghraêratha, the Bull-man (Gôpatishâh); see [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545).
+[^1377]: 307:6 This line is in contradiction with what we know of the Frangrasyan legend, unless the text is corrupt and the name of Frangrasyan has been introduced here by mistake (for Keresâspa?). Yet it may allude to brighter sides, unknown to us, of the Turanian hero: the Bull (g<i>a</i>u<i>s</i>) may be his brother Aghraêratha, the Bull-man (Gôpatishâh); see [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545).
 
 [^1378]: 307:7 See § 77.
 
@@ -634,7 +634,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1382]: 308:4 A name of the Dru<i>g</i>.
 
-[^1383]: 308:5 See [p. 220](Yasts_13#p220), note [1](Yasts_13#fn981).
+[^1383]: 308:5 See [p. 220](../Yasts_13#p220), note [1](../Yasts_13#fn981).
 
 [^1384]: 308:6 See [p. 297](#p297), note [^1261].
 

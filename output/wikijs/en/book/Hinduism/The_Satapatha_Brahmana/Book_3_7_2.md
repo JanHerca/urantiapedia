@@ -241,7 +241,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^610]: 320:1 Or (Pra<i>g</i>âpati's), Agni's self, or body.
 
-[^611]: 321:1 Or probably, a barren spot, see [p. 43](Book_3_5_2#p43), note [2](Book_3_5_2#fn101).
+[^611]: 321:1 Or probably, a barren spot, see [p. 43](../Book_3_5_2#p43), note [2](../Book_3_5_2#fn101).
 
 [^612]: 321:2 That is, whilst himself remaining north of the place, and facing the south, he puts them down in the direction from north to south.
 
@@ -261,7 +261,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^620]: 325:5 Part i, p. 59 seq.
 
-[^621]: 325:6 See part i, p. 55. It must, however, be borne in mind that the passage here referred to relates to the construction of the Vedi of an ordinary ish<i>t</i>i, whilst in the present instance we have to do with a Mahâvedi, as prescribed for Soma-sacrifices (cf. part ii, p. 111 seq., where, however, only a few distinctive points are adverted to). The plan of the Mahâvedi, given at the end of part ii, shows at the eastern end a square mound, the so-called uttara-vedi, or higher, upper altar, on which the Âhavanîya, or offering, fire is maintained. On a similar earth mound, but raised in the centre of the square site (see [VII, 3, 1, 27](Book_3_7_3#v7_3_1_27)), the Agni<i>k</i>ayana requires the erection of the large brick fire-altar, the preparation of the site of which is explained from the next paragraph.
+[^621]: 325:6 See part i, p. 55. It must, however, be borne in mind that the passage here referred to relates to the construction of the Vedi of an ordinary ish<i>t</i>i, whilst in the present instance we have to do with a Mahâvedi, as prescribed for Soma-sacrifices (cf. part ii, p. 111 seq., where, however, only a few distinctive points are adverted to). The plan of the Mahâvedi, given at the end of part ii, shows at the eastern end a square mound, the so-called uttara-vedi, or higher, upper altar, on which the Âhavanîya, or offering, fire is maintained. On a similar earth mound, but raised in the centre of the square site (see [VII, 3, 1, 27](../Book_3_7_3#v7_3_1_27)), the Agni<i>k</i>ayana requires the erection of the large brick fire-altar, the preparation of the site of which is explained from the next paragraph.
 
 [^622]: 326:1 That is ‘sa + irâ,’ with draught or food.
 
@@ -287,13 +287,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^633]: 331:1 See part ii, p. 216, note 2, where ‘aghnyâ’ was used of cows.
 
-[^634]: 331:2 See [VI, 4, 4, 22](Book_3_6_4#v6_4_4_22). The plough is put aside on the utkara (heap of rubbish).
+[^634]: 331:2 See [VI, 4, 4, 22](../Book_3_6_4#v6_4_4_22). The plough is put aside on the utkara (heap of rubbish).
 
 [^635]: 332:1 The author here alludes to the legend given at I, 1, 3, 4-5,—V<i>ri</i>tra lay enveloping all that space which extends between heaven and earth, and because he lay enveloping (v<i>ri</i>) all that, he is called V<i>ri</i>tra. Him Indra slew. Being slain, he flowed stinking in all directions towards the water; for in every direction lies the ocean. Now some of the water loathed him, it rose higher and higher and flowed over: hence (sprang) these ku<i>s</i>a grasses,—they are indeed the water which was not putrified; but with the other water some (matter) has indeed become mixed when the putrid V<i>ri</i>tra flowed into it.
 
-[^636]: 332:2 See [p. 200](Book_3_6_3#p200), note [3](Book_3_6_3#fn413).
+[^636]: 332:2 See [p. 200](../Book_3_6_3#p200), note [3](../Book_3_6_3#fn413).
 
-[^637]: 333:1 See [VI, 1, 1, 1](Book_3_6_1#v6_1_1_1).
+[^637]: 333:1 See [VI, 1, 1, 1](../Book_3_6_1#v6_1_1_1).
 
 [^638]: 333:2 Literally, a share in front, in the first place, i.e. a preferential share, or fore-taste. Being accented separately, ‘purastât’ here, however, forms no compound with ‘bhâga;’ though it does in ‘purastâdbhâga,’ fore-sharer. Cf. Taitt. S. V, 6, 4, 2.
 
@@ -303,7 +303,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^641]: 336:1 These are additional three jarfuls poured over the whole Agnikshetra, or site of the altar.
 
-[^642]: 337:1 See [p. 200](Book_3_6_3#p200), note [3](Book_3_6_3#fn413).
+[^642]: 337:1 See [p. 200](../Book_3_6_3#p200), note [3](../Book_3_6_3#fn413).
 
 [^643]: 338:1 The sowing of the seed is done after the manner of the watering of the site, viz. so as to finish the sowing of every four furrows with the completion of the muttering of three verses (Vâ<i>g</i>. S. XII, 75-86); whereupon the remaining seed is scattered over the whole site with additional three verses (87-89).
 

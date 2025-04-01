@@ -8,7 +8,35 @@ editor: markdown
 dateCreated: 2025-2-12T12:14:13Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-tao"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Chuang Tzu; por Jame Legge (tr.)</text>		<text style="font-size:4px" x="61" y="125">1891</text>		<text style="font-size:9px" x="61" y="60">Taoists Texts</text>		<text style="font-size:9px" x="61" y="70">Part II (SBE40)</text>	</g></svg></div><p style="text-align:center;">The Sacred Books of the East<br>translated by various Oriental scholars and edited by<br>F. Max Müller<br>Vol. XL<br><span class="text-h3">The Texts of Taoism</span><br><span class="text-h5">Translated by James Legge</span><br>in two parts Part II<br>The Writings of Kwang-dze (Chuang Tzu) (XVIII-XXXIII)<br>The T'ai Shang Tractate of Actions and Their Retributions<br>Appendices I-VIII<br>scanned at sacred-texts 3/2001. J.B. Hare, redactor. Reformatted July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-tao">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Chuang Tzu; por Jame Legge (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1891</text>
+		<text style="font-size:9px" x="61" y="60">Taoists Texts</text>
+		<text style="font-size:9px" x="61" y="70">Part II (SBE40)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The Sacred Books of the East<br>
+translated by various Oriental scholars and edited by<br>
+F. Max Müller<br>
+Vol. XL<br>
+<span class="text-h3">The Texts of Taoism</span><br>
+<span class="text-h5">Translated by James Legge</span><br>
+in two parts Part II<br>
+The Writings of Kwang-dze (Chuang Tzu) (XVIII-XXXIII)<br>
+The T'ai Shang Tractate of Actions and Their Retributions<br>
+Appendices I-VIII<br>
+scanned at sacred-texts 3/2001. J.B. Hare, redactor. Reformatted July 2003. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br>
+<br>
+</p>
+
+
 ## Index
 
 - [Contents](/en/book/Taoism/Taoist_texts_vol_2/Contents)

@@ -148,7 +148,7 @@ Thus I say.
 
 [^880]: 296:1 Âi = âdi.
 
-[^881]: 296:2 Cf. [p. 265](Sutrakritanga_1_3_2#p265), verse 16.
+[^881]: 296:2 Cf. [p. 265](../Sutrakritanga_1_3_2#p265), verse 16.
 
 [^882]: 296:3 Bhârassa <i>g</i>âyâ = bhârasya ( = sa<i>m</i>yamasya) yâtrâ.
 

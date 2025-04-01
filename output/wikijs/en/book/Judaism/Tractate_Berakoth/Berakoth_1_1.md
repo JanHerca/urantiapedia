@@ -74,7 +74,7 @@ R. Joshua [^26] says: Until \[the end of\] the third hour, [^27] for such is the
 
 **T**.
 
-R. Judah [1](Berakoth_1_1#fn_35) said: Once I was walking behind R. _T_. Aqiba [2](Berakoth_1_1#fn_36) and behind R. Eleazar ben Azariah, [3](Berakoth_1_1#fn_37) and the time of reciting the Shma‘ arrived. I supposed that they would neglect reciting it because they were occupied with the requirements of the congregation. I recited and said my mishna portion, and, after this, they began, and the sun was already visible over the tops of the mountains.
+R. Judah [1](../Berakoth_1_1#fn_35) said: Once I was walking behind R. _T_. Aqiba [2](../Berakoth_1_1#fn_36) and behind R. Eleazar ben Azariah, [3](../Berakoth_1_1#fn_37) and the time of reciting the Shma‘ arrived. I supposed that they would neglect reciting it because they were occupied with the requirements of the congregation. I recited and said my mishna portion, and, after this, they began, and the sun was already visible over the tops of the mountains.
 
 <a id="m5"></a>
 
@@ -88,7 +88,7 @@ R. Judah [1](Berakoth_1_1#fn_35) said: Once I was walking behind R. _T_. Aqiba [
 
 6\. (3 _cont_.). R. Tarphon [^42] said: I was on a journey and I turned on my side to recite in accordance with the School of Shammai, and I put myself in danger because of robbers. They said to him: Thou didst deserve to be guilty of thy own life because thou didst trangress the words of the School of Hillel.
 
-**T**. I. 4. An incident is told of R. Ishmael [^43] and R. Eleazar ben Azariah, that they were resting in a certain place, and R. Ishmael had turned on his side and R. Eleazar ben Azariah was upright. When the time of reciting the Shma‘ arrived, R. Ishmael was upright and R. Eleazar ben Azariah was turned on his side. R. Ishmael said to him: What is this, Eleazar? He said to him: Brother Ishmael, people asked a man, Why so fine a beard? He said to them, With a view to the barbers. [^44] So <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> I who was upright turned on my side, and thou who wast on thy side raised thyself upright. He \[_i.e._ R. Ishmael\] said to him: Thou didst turn on thy side to fulfil \[the Law\] according to the opinion of the School of Shammai, and I stood upright to fulfil \[it\] according to the opinion of the School of Hillel. [1](Berakoth_1_1#fn_45) According to another account, that the disciples should not see \[what we do\], and make a fixed rule according to thy opinion.
+**T**. I. 4. An incident is told of R. Ishmael [^43] and R. Eleazar ben Azariah, that they were resting in a certain place, and R. Ishmael had turned on his side and R. Eleazar ben Azariah was upright. When the time of reciting the Shma‘ arrived, R. Ishmael was upright and R. Eleazar ben Azariah was turned on his side. R. Ishmael said to him: What is this, Eleazar? He said to him: Brother Ishmael, people asked a man, Why so fine a beard? He said to them, With a view to the barbers. [^44] So <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> I who was upright turned on my side, and thou who wast on thy side raised thyself upright. He \[_i.e._ R. Ishmael\] said to him: Thou didst turn on thy side to fulfil \[the Law\] according to the opinion of the School of Shammai, and I stood upright to fulfil \[it\] according to the opinion of the School of Hillel. [1](../Berakoth_1_1#fn_45) According to another account, that the disciples should not see \[what we do\], and make a fixed rule according to thy opinion.
 
 <a id="m7"></a>
 
@@ -219,13 +219,13 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^16]: 2:5 _And the eating of the paschal lambs_, omitted in B.
 
-[^17]: 3:1 _R. Meir_. See [p. 25](Berakoth_1_3#p25).
+[^17]: 3:1 _R. Meir_. See [p. 25](../Berakoth_1_3#p25).
 
 [^18]: 3:2 Neh. 421 (15).
 
 [^19]: 3:3 R. Simeon ben Eleazar, c. 160-200.
 
-[^20]: 3:4 _Rabbi_. R. Judah the Prince, the Son of R. Simeon ben Gamaliel II., born on the day of R. Aqiba's death—for “the sun rises, the sun sets”—_i.e._ 135 A.D., at Usha in Galilee. He lived and taught there and in the neighbourhood. He is the accepted compiler of our present Mishna (see Introduction, [p. ix](Introduction_1#pix)). The date of his death is not known, some critics placing it as early as 193 A.D., others nearly as late as 220 A.D.
+[^20]: 3:4 _Rabbi_. R. Judah the Prince, the Son of R. Simeon ben Gamaliel II., born on the day of R. Aqiba's death—for “the sun rises, the sun sets”—_i.e._ 135 A.D., at Usha in Galilee. He lived and taught there and in the neighbourhood. He is the accepted compiler of our present Mishna (see Introduction, [p. ix](../Introduction_1#pix)). The date of his death is not known, some critics placing it as early as 193 A.D., others nearly as late as 220 A.D.
 
 [^21]: 3:5 _four watches_. He accepted the Roman system, and apparently the division of the day into twenty-four hours.
 
@@ -239,7 +239,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^26]: 4:3 _R. Joshua_. R. J. ben Chananiah, c. 90-130 A.D.
 
-[^27]: 4:4 _the third hour_. c. 9 a.m. See note, [p. 28](Berakoth_1_3#p28).
+[^27]: 4:4 _the third hour_. c. 9 a.m. See note, [p. 28](../Berakoth_1_3#p28).
 
 [^28]: 4:5 _kings’ sons_. _i.e._ persons who are not obliged to rise early.
 
@@ -271,7 +271,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^42]: 6:2 _R. Tarphon_. He had attended the Temple service in his youth, but flourished in the first quarter of the second century A.D. He is sometimes identified with the Trypho of Justin's _Dialogue_, but, apart from the question of date (for Trypho does not give the impression of being at all an old man), rather absurdly, for the latter shows very little acquaintance with Jewish casuistry.
 
-[^43]: 6:3 _R. Ishmael ben Elisha_ was a contemporary of R. Aqiba, and a pupil of R. Nechuniah ben ha-Qanah (see [p. 30](Berakoth_2_4#p30)). He lived on the border of Edom, and his hermeneutical principles differed from those of R. Aqiba, for he taught that the words of Scripture should be interpreted by the general usage of human speech. His influence may be seen especially in the _Mekilta_ (the midrash on Exodus), and in the _Siphre_ (on Numbers and Deuteronomy).
+[^43]: 6:3 _R. Ishmael ben Elisha_ was a contemporary of R. Aqiba, and a pupil of R. Nechuniah ben ha-Qanah (see [p. 30](../Berakoth_2_4#p30)). He lived on the border of Edom, and his hermeneutical principles differed from those of R. Aqiba, for he taught that the words of Scripture should be interpreted by the general usage of human speech. His influence may be seen especially in the _Mekilta_ (the midrash on Exodus), and in the _Siphre_ (on Numbers and Deuteronomy).
 
 [^44]: 6:4 _barbers_. The narrative is given also in the _Siphre_ on Deut. 67 (ed. Friedmann, P. 74b), and the _Yalqut_ on the same passage p. 7(§ 842). The meaning of Eleazar's words seems to be, Your praise of my beard means that it is fit for the barbers, and must he cut short. I, by lying down, showed my agreement with you, but you then stood upright to show you did not accept my approval. It is a case in which praise produces the opposite.
 
@@ -279,7 +279,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^46]: 7:2 The first is _Yotser’ Ôr_, with additions (Staerk, pp. 4 _sq_., SA, 37-39), the second, _’Ahabah rabbah_ (Staerk, p. 6; SA, pp. 39 _sq_.)
 
-[^47]: 7:3 This begins with _’Emeth wyatzîb_, and includes the _Ge’ullah_, vide supra [p. 4](Berakoth_1_1#p4).
+[^47]: 7:3 This begins with _’Emeth wyatzîb_, and includes the _Ge’ullah_, vide supra [p. 4](../Berakoth_1_1#p4).
 
 [^48]: 7:4 The clause in \[\[ \]\], found in C, is clearly an error.
 
@@ -287,7 +287,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^50]: 7:6 The first begins with _’Emeth we-’emunah_, and includes the _Ge’ullah_ (Staerk; p. 8; SA, pp. 98. _sq_.); the second begins with _Hashkibenu_, and is a prayer for protection during the night (Staerk, P. 9; SA, pp. 99. _sq_.).
 
-[^51]: 7:7 _one in the long and one in the short form_. The meaning is not clear, for to-day the two prayers are of much the same length. Perhaps formerly the first in each case was the longer. Or perhaps permission was given to use an abstract (see [p. 30](Berakoth_2_4#p30) note) in one, or in the other, of the two prayers.
+[^51]: 7:7 _one in the long and one in the short form_. The meaning is not clear, for to-day the two prayers are of much the same length. Perhaps formerly the first in each case was the longer. Or perhaps permission was given to use an abstract (see [p. 30](../Berakoth_2_4#p30) note) in one, or in the other, of the two prayers.
 
 [^52]: 8:1 _seal_. _i.e._ with a summary of the Benediction it follows, beginning with “Blessed.”
 
@@ -297,11 +297,11 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^55]: 8:4 _not permissible to seal_. So far the section is a quotation from our mishna, but the next sentence is not there.
 
-[^56]: 8:5 _to bend_. Compare what is said of Aqiba in _T_. III. 5 ([p. 88](Berakoth_3_9#p88)).
+[^56]: 8:5 _to bend_. Compare what is said of Aqiba in _T_. III. 5 ([p. 88](../Berakoth_3_9#p88)).
 
-[^57]: 8:6 _the invitation_. See _M_. vii. 1. (_infra_, [p. 59](Berakoth_3_6#p59)).
+[^57]: 8:6 _the invitation_. See _M_. vii. 1. (_infra_, [p. 59](../Berakoth_3_6#p59)).
 
-[^58]: 9:1 _R. Jose the Galilean_. In the younger group of the second generation of mishna-teachers (c. 110-130), to be carefully distinguished from R. Jose (ben Chalaphta). He was the father of R. Eleazar bar Jose ([p. 29](Berakoth_2_4#p29)).
+[^58]: 9:1 _R. Jose the Galilean_. In the younger group of the second generation of mishna-teachers (c. 110-130), to be carefully distinguished from R. Jose (ben Chalaphta). He was the father of R. Eleazar bar Jose ([p. 29](../Berakoth_2_4#p29)).
 
 [^59]: 9:2 _except the Benediction which is joined to the recitation of the Shma‘_. _i.e._ _’Emeth wyatzib_ in the morning (SA, p. 42), and _’Emeth we-'emunah_ in the evening (SA, p. 98).
 
@@ -309,11 +309,11 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^61]: 9:4 _the Modim_. The 17th or 18th of the _Eighteen_ (SA, p. 51).
 
-[^62]: 9:5 _we do not respond together_, etc. See _T_. III. 26, V. 21 (_infra_, [p. 73](Berakoth_3_8#p73)).
+[^62]: 9:5 _we do not respond together_, etc. See _T_. III. 26, V. 21 (_infra_, [p. 73](../Berakoth_3_8#p73)).
 
 [^63]: 9:6 Isa. 63; Ezek. 312, both in the third Benediction.
 
-[^64]: 10:1 _the going forth from Egypt_, mentioned briefly in the third Biblical part of the Shma‘ (Num. 1541) and enlarged upon in the _Ge’ullah_ (_supra_, [p. 4](Berakoth_1_1#p4)).
+[^64]: 10:1 _the going forth from Egypt_, mentioned briefly in the third Biblical part of the Shma‘ (Num. 1541) and enlarged upon in the _Ge’ullah_ (_supra_, [p. 4](../Berakoth_1_1#p4)).
 
 [^65]: 10:2 _R. Lazar_. So C. An abbreviation of Eleazar. Cf. Lazarus.
 
@@ -321,7 +321,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^67]: 10:4 Deut. 163.
 
-[^68]: 10:5 For “all” cannot be superfluous. It must add something to the thought of “the days of thy life.” Ben Zoma agreed with R. Aqiba as to the value of each letter (see [p. 5](Berakoth_1_1#p5)).
+[^68]: 10:5 For “all” cannot be superfluous. It must add something to the thought of “the days of thy life.” Ben Zoma agreed with R. Aqiba as to the value of each letter (see [p. 5](../Berakoth_1_1#p5)).
 
 [^69]: 10:6 See _T_. on all this mishna.
 
@@ -331,7 +331,7 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^72]: 11:2 Jer. 237, 8.
 
-[^73]: 11:3 The metaphor is that of a meal (see [p. 47](Berakoth_3_6#p47)). Observe the common sense of the Majority.
+[^73]: 11:3 The metaphor is that of a meal (see [p. 47](../Berakoth_3_6#p47)). Observe the common sense of the Majority.
 
 [^74]: 11:4 Gen. 3510.
 
@@ -365,13 +365,13 @@ II. 1. He who recites the Shma‘ [^93] must make mention of “the Going Forth 
 
 [^89]: 13:5 Ps. 6818.
 
-[^90]: 13:6 _an atonement for her_. The thought that afflictions atone may be present even in Isa. 402, and, in any case, is exceedingly common in later Jewish books. So especially of death, see _infra_, [p. 84](Berakoth_3_9#p84).
+[^90]: 13:6 _an atonement for her_. The thought that afflictions atone may be present even in Isa. 402, and, in any case, is exceedingly common in later Jewish books. So especially of death, see _infra_, [p. 84](../Berakoth_3_9#p84).
 
 [^91]: 14:1 Gen. 2214. But the Tosephta plays on the consonants, disregarding the traditional interpretation.
 
 [^92]: 14:2 Ps. 1377. The Edomites made Jerusalem once more a mere mountain, and thus unwittingly secured its further blessing.
 
-[^93]: 14:3 The author is speaking of the recitation in the morning, _cf_. [p. 4](Berakoth_1_1#p4).
+[^93]: 14:3 The author is speaking of the recitation in the morning, _cf_. [p. 4](../Berakoth_1_1#p4).
 
 [^94]: 14:4 The section recalling the Exodus (Num. 1537-41) is followed by the prayer “True and sure” (_’Emeth wyatzib_). SA, p. 42.
 

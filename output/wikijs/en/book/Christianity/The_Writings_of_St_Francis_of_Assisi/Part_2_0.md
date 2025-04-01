@@ -99,6 +99,6 @@ To these five letters, the Quaracchi editors have added the undoubtedly authenti
 
 [^371]: 93:3 See _Actus B. Francisci_, etc., ed. Sabatier, p. 63. M. Sabatier attributes the authorship of this compilation (which contains, as is now known, among other matters, the original Latin text of the traditional _Fioretti_) to Fra Ugolino di Monte Giorgio, and believes its date to be between 1280 and 1320. It is, however, from Thomas of Celano that we know St. p. 94Francis to have written a letter to the Lady Giacoma (See _Tr. de Miraculis in Anal. Bolland._, t. xviii). See also _Spec. Perf._ (ed. Sabatier), c. XII, for reference to this letter. The narrative of Celano renders the text of the letter given in the Actus very doubtful. The fact that the expression “St. Mary of the Angels” is used in it to designate the Portiuncula is in itself sufficient to militate against its authenticity. Neither St. Francis nor his companions ever employed this term; they invariably said “St. Mary of the Portiuncula.” Any document, therefore, containing the former expression bespeaks a fourteenth century origin at earliest. See _Frère Jacqueline: Recherches Historiques_, by Fr. Edouard d’Alencon, Paris, 1899.
 
-[^372]: 94:1 See above, pp. [23](Part_1_3#p23), [77](Part_1_5#p77), [78](Part_1_5#p78).
+[^372]: 94:1 See above, pp. [23](../Part_1_3#p23), [77](../Part_1_5#p77), [78](../Part_1_5#p78).
 
 [^373]: 95:1 The letter which Wadding translated from the Spanish, under this title and numbered XIV, appears to have been an incomplete version of the letter here given in full.

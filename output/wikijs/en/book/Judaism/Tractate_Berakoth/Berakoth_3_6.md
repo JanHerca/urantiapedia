@@ -62,9 +62,9 @@ T. IV. 1. Let not a man taste anything until he pronounces a Benediction, for it
 
 5\. If he has seen figs, and has said: “Blessed be He who has created these figs; how beautiful they are”—this is their Benediction. R. Jose says: Everyone who changes the formula which the Majority formed in a Benediction has not fulfilled his obligation. R. Judah says, If anything is changed from its natural condition, and one then makes a change in the Benediction of it, he has fulfilled his obligation. [^292]
 
-6\. He that cheweth \[grains of\] wheat says the Benediction over them, “that createst different kinds of seeds.” If he has baked them or boiled them, at the time when the grains remain \[distinct\], he says the Benediction over them: “Who bringest bread out from the earth,” [^293] and (after the meal) he says three Benedictions over them. [^294] If the grains do not remain \[distinct\] he says the Benediction over them: "who createst different <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> kinds of foods," and he says One Benediction after them. [1](Berakoth_3_6#fn_295)
+6\. He that cheweth \[grains of\] wheat says the Benediction over them, “that createst different kinds of seeds.” If he has baked them or boiled them, at the time when the grains remain \[distinct\], he says the Benediction over them: “Who bringest bread out from the earth,” [^293] and (after the meal) he says three Benedictions over them. [^294] If the grains do not remain \[distinct\] he says the Benediction over them: "who createst different <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> kinds of foods," and he says One Benediction after them. [1](../Berakoth_3_6#fn_295)
 
-7\. He that cheweth rice [2](Berakoth_3_6#fn_296) says the Benediction over it: “who createst different kinds of seeds.” If he has baked it, or boiled it, so long as the grains remain \[distinct\], he says the Benediction over them: “who createst different kinds of foods,” and does not say any Benediction after it at all. This is the general principle, that in the case of everything which begins with (the Benediction) “who bringest out bread,” one says three Benedictions after it.
+7\. He that cheweth rice [2](../Berakoth_3_6#fn_296) says the Benediction over it: “who createst different kinds of seeds.” If he has baked it, or boiled it, so long as the grains remain \[distinct\], he says the Benediction over them: “who createst different kinds of foods,” and does not say any Benediction after it at all. This is the general principle, that in the case of everything which begins with (the Benediction) “who bringest out bread,” one says three Benedictions after it.
 
 <a id="m1"></a>
 
@@ -148,7 +148,7 @@ But why did Judah deserve the kingdom? Because of his humility. For it is said: 
 
 21\. In the case of workmen who are picking figs, or cutting dates, or plucking olives, although they repeatedly break off and eat (some of what they pick), it is not necessary for them to say the Benediction in irregular order, and when they return it is not necessary for them to say the <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> Benediction as at the beginning. If they withdraw it is necessary to say the Benediction in irregular order, and when they return it is necessary for them to say the Benediction as at the beginning.
 
-VI. 8. If one has eaten figs, and grapes, and pomegranates, he says three Benedictions [1](Berakoth_3_6#fn_351) over them. [2](Berakoth_3_6#fn_352) This is the opinion of Rabban Gamaliel. But the Majority say: One Benediction \[which is\] the summary of three. R. Aqiba says: even if he eats vegetable _potage_ as his meal, he says three Benedictions over it. And he who drinks water to satisfy his thirst says \[the Benediction\], “For all came into existence by His word.” [3](Berakoth_3_6#fn_353) R. Tarphon says: \[He says\], “Thou that createst souls and their needs.” [4](Berakoth_3_6#fn_354)
+VI. 8. If one has eaten figs, and grapes, and pomegranates, he says three Benedictions [1](../Berakoth_3_6#fn_351) over them. [2](../Berakoth_3_6#fn_352) This is the opinion of Rabban Gamaliel. But the Majority say: One Benediction \[which is\] the summary of three. R. Aqiba says: even if he eats vegetable _potage_ as his meal, he says three Benedictions over it. And he who drinks water to satisfy his thirst says \[the Benediction\], “For all came into existence by His word.” [3](../Berakoth_3_6#fn_353) R. Tarphon says: \[He says\], “Thou that createst souls and their needs.” [4](../Berakoth_3_6#fn_354)
 
 <a id="m3"></a>
 
@@ -210,7 +210,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^281]: 44:6 _a curse_. Because of corruption as in the case of vinegar (from wine), fallen fruit, cheese, or by being symbols of destruction as in the case of locusts (Joel 21-11).
 
-[^282]: 44:7 _i.e._ the Benediction that corresponds to whichever of the seven kinds (see [p. 57](Berakoth_3_6#p57)) he chooses.
+[^282]: 44:7 _i.e._ the Benediction that corresponds to whichever of the seven kinds (see [p. 57](../Berakoth_3_6#p57)) he chooses.
 
 [^283]: 45:1 Ps. 241.
 
@@ -222,13 +222,13 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^287]: 45:5 _brine_ (_pickle_). The Latin word _muries_ is used. For the Benediction they must be treated as liquors, not as fruits.
 
-[^288]: 45:6 _the fruit of the tree_. Unmixed wine was usually not drunk, it must therefore not have the same Benediction as wine mixed with water. Cf. [p. 64](Berakoth_3_7#p64).
+[^288]: 45:6 _the fruit of the tree_. Unmixed wine was usually not drunk, it must therefore not have the same Benediction as wine mixed with water. Cf. [p. 64](../Berakoth_3_7#p64).
 
 [^289]: 45:7 _are all one_. Because both are from the vine.
 
 [^290]: 46:1 Not verbally in SA, and so with most of the Benedictions in this section.
 
-[^291]: 46:2 _the seeds_. Food, other than bread, prepared from any of “the five species of grain” (wheat, barley, rye, oats and spelt (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](Berakoth_3_6#p53).
+[^291]: 46:2 _the seeds_. Food, other than bread, prepared from any of “the five species of grain” (wheat, barley, rye, oats and spelt (_cf_. SA, p. 287). Cf. _infra_, pp. [47](#p47), [53](../Berakoth_3_6#p53).
 
 [^292]: 46:3 _this is its Benediction_. It is unnecessary to repeat the usual formula of SA, p. 278.
 
@@ -240,7 +240,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^296]: 47:1 Cf. M. VI. 8.
 
-[^297]: 47:2 _rice_. Not one of the “seven” kinds (see [p. 53](Berakoth_3_6#p53)), or the five seeds (see [p. 46](Berakoth_3_6#p46)).
+[^297]: 47:2 _rice_. Not one of the “seven” kinds (see [p. 53](../Berakoth_3_6#p53)), or the five seeds (see [p. 46](../Berakoth_3_6#p46)).
 
 [^298]: 47:3 _lets . . . go free_. Literally “he exempts the wine that is after the meal,” and so always in this phrase. The present regulation refers only to sabbaths and feast-days, on which a man intends when he says the Benediction over the wine before the meal to partake of wine also after the meal (Bartenora).
 
@@ -254,7 +254,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^303]: 48:3 _for himself_. The mouths of the others may not be empty, and they cannot say Amen with safety. Also they may not be paying attention. The answer is attributed to Ben Zoma in _T_. IV. 12.
 
-[^304]: 48:4 _spices put on the coals_. To sweeten the room after the meal, or in honour of the guests (Krauss, i, 238, 690; iii. 63). Cf. _infra_, [p. 68](Berakoth_3_8#p68).
+[^304]: 48:4 _spices put on the coals_. To sweeten the room after the meal, or in honour of the guests (Krauss, i, 238, 690; iii. 63). Cf. _infra_, [p. 68](../Berakoth_3_8#p68).
 
 [^305]: 48:5 _after the feast_. When the closing Benediction will have been already said.
 
@@ -276,7 +276,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^314]: 50:4 _below him_. Persons reclined on their left side that their right hands might be free. “Below” therefore means on the right, “above” on the left. In John 1323, 25, St. John himself was on the right of our Lord, and perhaps St. Peter on our Lord's left.
 
-[^315]: 50:5 _Two wait_. Presumably because being less than three they cannot form a religious company (vide infra, pp. [59](Berakoth_3_6#p59), [62](Berakoth_3_7#p62), [63](Berakoth_3_7#p63)) and each is equal to the other.
+[^315]: 50:5 _Two wait_. Presumably because being less than three they cannot form a religious company (vide infra, pp. [59](../Berakoth_3_6#p59), [62](../Berakoth_3_7#p62), [63](../Berakoth_3_7#p63)) and each is equal to the other.
 
 [^316]: 50:6 _three do not wait_. They do form a company and have a leader, who helps himself first.
 
@@ -346,7 +346,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^349]: 56:2 _to conduct a bride home_. This was so meritorious an act that the study of the Torah might be interrupted in order to do so. See Krauss, ii. 39.
 
-[^350]: 56:3 _in irregular order_. (_lmiphrea‘_.) Because it ought to be said really after the whole meal, and (if it is said), it is in fact followed by a fresh Benediction as at the beginning. The presence of an old or a sick man continues the one meal until the others return. In _M_. II. 4 (3) it refers to saying the portions of the Shma‘ in an irregular order (_supra_, [p. 16](Berakoth_1_2#p16)).
+[^350]: 56:3 _in irregular order_. (_lmiphrea‘_.) Because it ought to be said really after the whole meal, and (if it is said), it is in fact followed by a fresh Benediction as at the beginning. The presence of an old or a sick man continues the one meal until the others return. In _M_. II. 4 (3) it refers to saying the portions of the Shma‘ in an irregular order (_supra_, [p. 16](../Berakoth_1_2#p16)).
 
 [^351]: 56:4 _eating_. Alone, without guests.
 
@@ -358,7 +358,7 @@ He said to him: If so let us not leave off. Perhaps you \[two\] will decide the 
 
 [^355]: 57:4 _Ibid_.
 
-[^356]: 57:5 _the afternoon_ (_ha minchah_), _i.e._ about 3.30 p.m. _Vide supra_, [p. 28](Berakoth_1_3#p28).
+[^356]: 57:5 _the afternoon_ (_ha minchah_), _i.e._ about 3.30 p.m. _Vide supra_, [p. 28](../Berakoth_1_3#p28).
 
 [^357]: 58:1 _and the holy day drew on_. Literally, “and the clay became holy upon them,” _i.e._ the sabbath began, for darkness came on.
 

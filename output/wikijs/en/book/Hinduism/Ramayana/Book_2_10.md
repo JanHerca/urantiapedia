@@ -706,7 +706,7 @@ And in my fortune bearest part.
 Be thine, Sumitrá's son, to know
 The joys from regal power that flow.
 My life itself, the monarch's seat,
-For thy dear sake to me are sweet. [1](Book_2_10#fn268)
+For thy dear sake to me are sweet. [1](../Book_2_10#fn268)
 
 Thus Ráma to his brother said,
 To both his mothers' bowed his head,
@@ -1628,7 +1628,7 @@ My best the southern nations fear,
 The Angas and the Vaugas hear.
 And as lord paramount I reign
 O'er Magadh and the Matsyas' plain,
-Kos'al, and Kási's wide domain: [1](Book_2_20#fn273)
+Kos'al, and Kási's wide domain: [1](../Book_2_20#fn273)
 All rich in treasures of the mine.
 In golden corn, sheep, goats, and kine.
 Choose what thou wilt. Kaikeyi, thence:

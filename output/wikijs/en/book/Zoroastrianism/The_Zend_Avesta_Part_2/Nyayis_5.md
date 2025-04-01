@@ -158,7 +158,7 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 [^1617]: 359:3 Upasayêni: what is added to keep up the fire when lighted (Pers. transl.).
 
-[^1618]: 359:4 The gaoshô-srûta khratu and the âsna khratu (see [p. 7](Sirozahs_1#p7). note [1](Sirozahs_1#fn39)).
+[^1618]: 359:4 The gaoshô-srûta khratu and the âsna khratu (see [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
 
 [^1619]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (Sansk. trans.).
 
@@ -178,4 +178,4 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 [^1628]: 361:3 From Yasna XXXIV, 4.
 
-[^1629]: 361:4 ‘In the var nîrang’ (Pahl. Comm.), that is to say, in the fire ordeal; see above, [p. 170](Yasts_12#p170), note [3](Yasts_12#fn787).
+[^1629]: 361:4 ‘In the var nîrang’ (Pahl. Comm.), that is to say, in the fire ordeal; see above, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).

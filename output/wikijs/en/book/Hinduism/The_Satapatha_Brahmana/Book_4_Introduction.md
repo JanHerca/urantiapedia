@@ -114,7 +114,7 @@ The question as to whether these compositions themselves might seem to show any 
 
 [^9]: xix:1 Ibid. p. xxxii.
 
-[^10]: xix:2 See [X, 2, 3, 17](Book_4_10_2#v10_2_3_17)\-[18](Book_4_10_2#v10_2_3_18); [2, 4, 1](Book_4_10_2#v10_2_4_1) seqq.; [4, 3, 5](Book_4_10_4#v10_4_3_5)\-[8](Book_4_10_4#v10_4_3_8).
+[^10]: xix:2 See [X, 2, 3, 17](../Book_4_10_2#v10_2_3_17)\-[18](../Book_4_10_2#v10_2_3_18); [2, 4, 1](../Book_4_10_2#v10_2_4_1) seqq.; [4, 3, 5](../Book_4_10_4#v10_4_3_5)\-[8](../Book_4_10_4#v10_4_3_8).
 
 [^11]: xix:3 VI, 5, 2, I seq.; VII, I, 2, 7-9.
 
@@ -126,7 +126,7 @@ The question as to whether these compositions themselves might seem to show any 
 
 [^15]: xx:4 VI, 7, 4, 4; VII, 1, I, 22-23.
 
-[^16]: xxi:1 See, for instance, [VIII, 1, 4, 3.](Book_4_8_1#v8_1_4_3)
+[^16]: xxi:1 See, for instance, [VIII, 1, 4, 3.](../Book_4_8_1#v8_1_4_3)
 
 [^17]: xxi:2 V, 1, I, 2.
 
@@ -134,7 +134,7 @@ The question as to whether these compositions themselves might seem to show any 
 
 [^19]: xxi:4 Sat. Br. VI, 6, 3, 7.
 
-[^20]: xxi:5 See, for instance, VI, 2, 2, 16; [X, 4, 2, 1](Book_4_10_4#v10_4_2_1).
+[^20]: xxi:5 See, for instance, VI, 2, 2, 16; [X, 4, 2, 1](../Book_4_10_4#v10_4_2_1).
 
 [^21]: xxi:6 IV, I, 2, 25.
 
@@ -144,11 +144,11 @@ The question as to whether these compositions themselves might seem to show any 
 
 [^24]: xxii:1 VI, 1, 2, 20; 3, 1, 55.
 
-[^25]: xxii:2 [X, 5, 2, 1](Book_4_10_5#v10_5_2_1) seqq.
+[^25]: xxii:2 [X, 5, 2, 1](../Book_4_10_5#v10_5_2_1) seqq.
 
 [^26]: xxiii:1 VII, 4, 1,1.
 
-[^27]: xxiv:1 They take part, however, in such ceremonies as the doing homage to the completed Fire-altar by means of the Parimâds; cf. [p. 288](Book_4_10_1#p288), note [2](Book_4_10_1#fn534) of this volume.
+[^27]: xxiv:1 They take part, however, in such ceremonies as the doing homage to the completed Fire-altar by means of the Parimâds; cf. [p. 288](../Book_4_10_1#p288), note [2](../Book_4_10_1#fn534) of this volume.
 
 [^28]: xxv:1 Our Brâhma<i>n</i>a, X, 2, 5, 16, says that, if a man cannot press Soma for a year, he should perform the Vi<i>s</i>va<i>g</i>it Atirâtra with all the P<i>ri</i>sh<i>th</i>as, and at that performance he should give away all his property. These, however, were doubtless by no means the only alternatives.
 
@@ -156,8 +156,8 @@ The question as to whether these compositions themselves might seem to show any 
 
 [^30]: xxv:3 That is to say, as Sacrificers. Persons of other castes of course took part in the proceedings of this day. In the various accounts of these proceedings, no alternative ceremonies seem anywhere referred to in case the Sacrificers themselves belong to different castes.
 
-[^31]: xxvi:1 See, for instance, Sat. Br. VI, 6, 3, 12-15, where directions are given as to certain alternatives of performance at the initiation ceremony in case the Sacrificer is either a Kshatriya, or a Purohita, or any other person. The ceremonies connected with the consecration of the Sacrificer ([IX, 3, 4, 1](Book_4_9_3#v9_3_4_1) seqq.) point chiefly to a king.
+[^31]: xxvi:1 See, for instance, Sat. Br. VI, 6, 3, 12-15, where directions are given as to certain alternatives of performance at the initiation ceremony in case the Sacrificer is either a Kshatriya, or a Purohita, or any other person. The ceremonies connected with the consecration of the Sacrificer ([IX, 3, 4, 1](../Book_4_9_3#v9_3_4_1) seqq.) point chiefly to a king.
 
-[^32]: xxvi:2 See [p. 282](Book_4_10_1#p282), note [5](Book_4_10_1#fn525) of the present volume.
+[^32]: xxvi:2 See [p. 282](../Book_4_10_1#p282), note [5](../Book_4_10_1#fn525) of the present volume.
 
-[^33]: xxvi:3 See notes to pp. [110](Book_4_8_6#p110)\-[113](Book_4_8_6#p113) of this volume.
+[^33]: xxvi:3 See notes to pp. [110](../Book_4_8_6#p110)\-[113](../Book_4_8_6#p113) of this volume.

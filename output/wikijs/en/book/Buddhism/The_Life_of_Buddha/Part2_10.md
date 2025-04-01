@@ -69,7 +69,7 @@ The Master smiled at Udayin and asked:
 
 “Why do you urge me to travel, Udayin?”
 
-“Your father, King [Suddhodana](errata.htm#0), would be happy to see you, Master.”
+“Your father, King [Suddhodana](../errata.htm#0), would be happy to see you, Master.”
 
 The Buddha considered a moment, then he said: “I shall go to Kapilavastu; I shall go and see my father.”
 

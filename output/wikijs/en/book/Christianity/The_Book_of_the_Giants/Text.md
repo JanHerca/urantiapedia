@@ -416,7 +416,7 @@ p. 63
 
 [^5]: Cf. _Sb.P.A.W._, 1934, 27, and _BSOS_., VIII, 585.
 
-[^6]: Cf. M 171, 32 sqq. _’wṯ ’st ngwš’g ky ’w ’b_\[_w_\](_r_)\[_s_\] _m’nh’g ky hmyw zrgwng ‘štyd ’wš zmg ’wd t’b’n png ny ryzynd. ’w’gwn hwyc hwrw’n ngwš’g pd pzd ’wd wšyd’x pd xw’r ’wṯ dyjw’r, kd dwr ’c wjydg’n ’wṯ kd nzd ’w wjydg’n, hw pd wxybyy frhyft ’wd w’wryft ‘škbyd_, etc. "And some Hearers are like unto the juniper which is ever green, and whose leaves are shed neither in summer nor in winter. So also the pious Hearer, in times of persecution and of free exercise (lit. open-mindedness), in good and bad days, under the eyes of the Elect or out of their sight,—he is constant in his charity and faith." Although the word _’brws_ is incomplete in both passages, its restoration is practically a certainty.
+[^6]: Cf. M 171, 32 sqq. _’wṯ ’st ngwš’g ky ’w ’b_\[_w_\](../_r_)\[_s_\] _m’nh’g ky hmyw zrgwng ‘štyd ’wš zmg ’wd t’b’n png ny ryzynd. ’w’gwn hwyc hwrw’n ngwš’g pd pzd ’wd wšyd’x pd xw’r ’wṯ dyjw’r, kd dwr ’c wjydg’n ’wṯ kd nzd ’w wjydg’n, hw pd wxybyy frhyft ’wd w’wryft ‘škbyd_, etc. "And some Hearers are like unto the juniper which is ever green, and whose leaves are shed neither in summer nor in winter. So also the pious Hearer, in times of persecution and of free exercise (lit. open-mindedness), in good and bad days, under the eyes of the Elect or out of their sight,—he is constant in his charity and faith." Although the word _’brws_ is incomplete in both passages, its restoration is practically a certainty.
 
 [^7]: Possibly the parable of St. Mark, iv, 3 sqq.
 

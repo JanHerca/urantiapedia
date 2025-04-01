@@ -83,7 +83,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v6_4_2_99"><sup><small>6:4:2:99.</small></sup></span>  \[Vâ<i>g</i>. S. XI, 37; <i>Ri</i>k S. I, 36, 9\] ‘Seat thee, thou art great,’—he now causes the infused seed to establish itself, whence the seed infused into the womb establishes itself;—‘burn thou, best gladdener of the gods!’—that is, ‘shine thou, best gladdener of the gods; send forth, O Agni, worthy partaker of the offering, thy showy, ruddy smoke!’ for when he (Agni) is kindled, he sends forth his ruddy smoke,—the showy, for it, as it were, shows itself.
 
-<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span>  These (verses) amount to six,—six seasons are a year, and Agni is the year: as great as Agni is, as great as is his measure, so great does this become. And what comes to be like the year, comes to be like the B<i>ri</i>hatî; for the year is the B<i>ri</i>hatî,—twelve full moons, twelve eighth days [1](Book_3_6_4#fn443) (of the fortnight of waning moon), twelve new moons, that makes thirty-six, and the B<i>ri</i>hatî consists of thirty-six syllables. He takes it (the lump of clay) from the right (south) to the left (north) side (of the hole), for from the right side seed is infused into the womb; and this (hole) now is his (Agni's) womb. He takes it thither without stopping, so as not to stop the seed.
+<span id="v6_4_2_1010"><sup><small>6:4:2:1010.</small></sup></span>  These (verses) amount to six,—six seasons are a year, and Agni is the year: as great as Agni is, as great as is his measure, so great does this become. And what comes to be like the year, comes to be like the B<i>ri</i>hatî; for the year is the B<i>ri</i>hatî,—twelve full moons, twelve eighth days [1](../Book_3_6_4#fn443) (of the fortnight of waning moon), twelve new moons, that makes thirty-six, and the B<i>ri</i>hatî consists of thirty-six syllables. He takes it (the lump of clay) from the right (south) to the left (north) side (of the hole), for from the right side seed is infused into the womb; and this (hole) now is his (Agni's) womb. He takes it thither without stopping, so as not to stop the seed.
 
 
 <span id="v4_4_3"><sup><small>4:4:3</small></sup></span>
@@ -191,13 +191,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^438]: 215:1 Regarding the skin of the black antelope, considered as a symbol of Brâhmanical worship and civilisation, see part i, p. 23, note 2. As to the white and black hair of it representing the hymn-verses (<i>ri</i><i>k</i>) and tunes (sâman), and those of undecided colour the Ya<i>g</i>us-formulas, see I, 1, 4, 2.
 
-[^439]: 215:2 Viz. because from speech the waters were produced ([VI, 1, 1, 9](Book_3_6_1#v6_1_1_9)) and from them the lotus-leaf has sprung. Sây.
+[^439]: 215:2 Viz. because from speech the waters were produced ([VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9)) and from them the lotus-leaf has sprung. Sây.
 
-[^440]: 216:1 See [p. 201](Book_3_6_3#p201), note [1](Book_3_6_3#fn415).
+[^440]: 216:1 See [p. 201](../Book_3_6_3#p201), note [1](../Book_3_6_3#fn415).
 
-[^441]: 217:1 See [p. 201](Book_3_6_3#p201), note [1](Book_3_6_3#fn415).
+[^441]: 217:1 See [p. 201](../Book_3_6_3#p201), note [1](../Book_3_6_3#fn415).
 
-[^442]: 217:2 ? Or, of every priest (vi<i>s</i>vasya vâghata<i>h</i>). There is nothing to p. 218 show how the author of this part of the Brâhma<i>n</i>a interprets ‘vâghat.’ Cf. [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).—Professor Ludwig (<i>Ri</i>k S. VI, 16, 13) translates, ‘from the head of the priest Vi<i>s</i>va.’ Mahîdhara offers several interpretations, according to which ‘vâghata<i>h</i>’ may either be taken as nom. plur., the verb being again supplied in the plural,—‘the priests churned thee out from the head of the universe,’ or ‘the priests of the universe (or all priests) churned thee out,’—or ‘vâghata<i>h</i>’ may be ablative sing., like ‘mûrdhna<i>h</i>,’ qualifying ‘pushkarât,’—from the lotus, the head, the leader (or, starter, vâhakât) of the universe.
+[^442]: 217:2 ? Or, of every priest (vi<i>s</i>vasya vâghata<i>h</i>). There is nothing to p. 218 show how the author of this part of the Brâhma<i>n</i>a interprets ‘vâghat.’ Cf. [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).—Professor Ludwig (<i>Ri</i>k S. VI, 16, 13) translates, ‘from the head of the priest Vi<i>s</i>va.’ Mahîdhara offers several interpretations, according to which ‘vâghata<i>h</i>’ may either be taken as nom. plur., the verb being again supplied in the plural,—‘the priests churned thee out from the head of the universe,’ or ‘the priests of the universe (or all priests) churned thee out,’—or ‘vâghata<i>h</i>’ may be ablative sing., like ‘mûrdhna<i>h</i>,’ qualifying ‘pushkarât,’—from the lotus, the head, the leader (or, starter, vâhakât) of the universe.
 
 [^443]: 219:1 Thus the author evidently interprets ‘vídâna<i>h</i>,’ instead of being found,' ‘se trouvant,’ as is its real meaning.
 
@@ -207,7 +207,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^446]: 221:2 With his ‘nameless’ (or little) finger, he pushes some of the loose soil into the hole, first from the front (east) and back (west) . sides, and then from the right (south) and left (north) sides. Thus, according to Kâty. XVI, 3, 4, the sunwise movement is p. 222 obtained by the hand moving from east (along the south) to west, and then from south (along the west) to north.
 
-[^447]: 222:1 See [VI, 3 1, 27](Book_3_6_3#v6_3_1_27).
+[^447]: 222:1 See [VI, 3 1, 27](../Book_3_6_3#v6_3_1_27).
 
 [^448]: 222:2 See <i>Ri</i>k S. VIII, 23, 5, differing considerably.
 
@@ -215,20 +215,20 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^451]: 223:2 Or, a winner—wins.
 
-[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. See [p. 217](Book_3_6_4#p217), note [2](Book_3_6_4#fn441).
+[^452]: 223:3 A<i>ñ</i><i>g</i>ayo vâghata<i>h</i>. See [p. 217](../Book_3_6_4#p217), note [2](../Book_3_6_4#fn441).
 
-[^453]: 223:4 See [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^453]: 223:4 See [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
 [^454]: 224:1 For the ceremony of ‘equipping’ Agni, see part i, p. 276, note 1.
 
-[^455]: 224:2 Viz. inasmuch as fire may be elicited from dry wood. See also I, 6, 4, 5, where Soma, frequently identified with Agni (see [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1)), is said at new moon to come down to the earth, and enter the waters and plants in order to be born anew from them.
+[^455]: 224:2 Viz. inasmuch as fire may be elicited from dry wood. See also I, 6, 4, 5, where Soma, frequently identified with Agni (see [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1)), is said at new moon to come down to the earth, and enter the waters and plants in order to be born anew from them.
 
-[^456]: 225:1 Literally, Agni's bearer of what is suitable for the cattle, or perhaps, be thou, for Agni, the bearer of (himself) favourable to cattle;—‘pa<i>s</i>avya’ being here as elsewhere used (see [p. 201](Book_3_6_3#p201), note \*[1](Book_3_6_3#fn415)\*) to explain ‘purîsha,’ that which fills, the mould or soil used as mortar for the layers of bricks, in building up the fire-altar.
+[^456]: 225:1 Literally, Agni's bearer of what is suitable for the cattle, or perhaps, be thou, for Agni, the bearer of (himself) favourable to cattle;—‘pa<i>s</i>avya’ being here as elsewhere used (see [p. 201](../Book_3_6_3#p201), note \*[1](../Book_3_6_3#fn415)\*) to explain ‘purîsha,’ that which fills, the mould or soil used as mortar for the layers of bricks, in building up the fire-altar.
 
 [^457]: 225:2 On account of his being compared with the horse, Sây. The author probably alludes to the dejected, spiritless look of the ass, as p. 226 compared with that of the horse. The word ‘<i>s</i>u<i>k</i>’ might, however, perhaps also be taken in the sense of ‘fervour, fire.’
 
-[^458]: 227:1 See [VI, 3, 2, 6](Book_3_6_3#v6_3_2_6) seq.
+[^458]: 227:1 See [VI, 3, 2, 6](../Book_3_6_3#v6_3_2_6) seq.
 
-[^459]: 228:1 See [VII, 1, 1, 9](Book_3_7_1#v7_1_1_9).
+[^459]: 228:1 See [VII, 1, 1, 9](../Book_3_7_1#v7_1_1_9).
 
 [^460]: 228:2 The lump of clay is deposited on a raised mound (or perhaps rather on a cut-out piece of ground, uddhata), in an enclosed shed, (with a door on the east side) north of the Âhavanîya.

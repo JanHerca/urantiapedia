@@ -97,11 +97,11 @@ Meanwhile I conclude this volume by wishing its readers their full share in the 
 
 [^579]: 179:1 “Et toto conatu fuerunt solliciti annulare scripta beati patris nostri Francisci, in quibus sua intentio de observantia regulae declaratur.”—See Archiv., III, pp. 168-169.
 
-[^580]: 179:2 See above, [p. 26](Part_1_4#p26).
+[^580]: 179:2 See above, [p. 26](../Part_1_4#p26).
 
 [^581]: 180:1 We need not despair of finding others; the Clares’ archives have mostly escaped spoliation.
 
-[^582]: 180:2 See _Spec. Perf._ (ed. Sabatier), c. 108, and ed. Lemmens, c. 18. See also the _Conformities_ (I, fol. 185), and above, [p. 75](Part_1_5#p75).
+[^582]: 180:2 See _Spec. Perf._ (ed. Sabatier), c. 108, and ed. Lemmens, c. 18. See also the _Conformities_ (I, fol. 185), and above, [p. 75](../Part_1_5#p75).
 
 [^583]: 180:3 See 2 Cel. 3, 99.
 
@@ -159,7 +159,7 @@ Meanwhile I conclude this volume by wishing its readers their full share in the 
 
 [^610]: 184:2 See his _Les Origines de l’ordo de Poenitentia;_ see also the Révue Thomiste, pp. 295-314.
 
-[^611]: 184:3 _Quellen_, etc., XXII, 362. But see above, [p. 89](Part_1_7#p89), n. [1](Part_1_7#fn_360) also.
+[^611]: 184:3 _Quellen_, etc., XXII, 362. But see above, [p. 89](../Part_1_7#p89), n. [1](../Part_1_7#fn_360) also.
 
 [^612]: 184:4 “Codiculus quidam vestustus MS. Italico idiomati exaratus mihi à Fano Piceni urbe, ad Metaurum amnem extructa, transmissus.” See Wadding, _Opusc._, p. 285.
 

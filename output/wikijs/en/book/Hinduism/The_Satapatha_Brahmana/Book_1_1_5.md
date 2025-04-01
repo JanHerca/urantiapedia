@@ -249,13 +249,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^331]: 131:2 The Hot<i>ri</i>, on concluding the invitation of the gods, sits down with raised knees in the same place where he has been standing (see [p. 95](Book_1_1_3#p95), note [1](Book_1_1_3#fn263)), parts the sacrificial grass of the altar, and measures a span on the earth, with the text (Â<i>s</i>v. I, 3, 22), ‘Aditi is his mother, do not cut him off from the air. With the aid of p. 132 Agni, the god, the deity; with the threefold chant, with the râthantara-sâman, with the gâyatrî metre, with the agnish<i>t</i>oma sacrifice, with the vasha<i>t</i>\-call, the thunderbolt,—I here kill him who hates us, and whom we hate!’ The Adhvaryu having thereupon walked round the Hot<i>ri</i> from left to right, steps behind the utkara (heap of rubbish) with his face to the east and the fuel-band in his hand, and calls on (â<i>s</i>râvayati) the Âgnîdhra, with Õ <i>s</i>râvaya (or Õ<i>m</i> <i>s</i>râvaya, i.e. â <i>s</i>râvaya; or simply ‘<i>s</i>râvaya;’ cf. Sâya<i>n</i>a on Taitt. S. I, 6, 11). The Âgnîdhra (whilst standing north of the Adhvaryu, with his face to the south, and taking the wooden sword and the fuel-band from the Adhvaryu) responds (pratyâ<i>s</i>râvayati) by ‘astu <i>s</i>rausha<i>t</i>.’
+[^331]: 131:2 The Hot<i>ri</i>, on concluding the invitation of the gods, sits down with raised knees in the same place where he has been standing (see [p. 95](../Book_1_1_3#p95), note [1](../Book_1_1_3#fn263)), parts the sacrificial grass of the altar, and measures a span on the earth, with the text (Â<i>s</i>v. I, 3, 22), ‘Aditi is his mother, do not cut him off from the air. With the aid of p. 132 Agni, the god, the deity; with the threefold chant, with the râthantara-sâman, with the gâyatrî metre, with the agnish<i>t</i>oma sacrifice, with the vasha<i>t</i>\-call, the thunderbolt,—I here kill him who hates us, and whom we hate!’ The Adhvaryu having thereupon walked round the Hot<i>ri</i> from left to right, steps behind the utkara (heap of rubbish) with his face to the east and the fuel-band in his hand, and calls on (â<i>s</i>râvayati) the Âgnîdhra, with Õ <i>s</i>râvaya (or Õ<i>m</i> <i>s</i>râvaya, i.e. â <i>s</i>râvaya; or simply ‘<i>s</i>râvaya;’ cf. Sâya<i>n</i>a on Taitt. S. I, 6, 11). The Âgnîdhra (whilst standing north of the Adhvaryu, with his face to the south, and taking the wooden sword and the fuel-band from the Adhvaryu) responds (pratyâ<i>s</i>râvayati) by ‘astu <i>s</i>rausha<i>t</i>.’
 
-[^332]: 132:1 See [p. 127](Book_1_1_4#p127), note [1](Book_1_1_4#fn321).
+[^332]: 132:1 See [p. 127](../Book_1_1_4#p127), note [1](../Book_1_1_4#fn321).
 
 [^333]: 133:1 Thus our author. It should rather be ‘May (he) worship the gods, he the wise, the considerate one.’
 
-[^334]: 133:2 Cf. [p. 115](Book_1_1_4#p115), note [1](Book_1_1_4#fn303).
+[^334]: 133:2 Cf. [p. 115](../Book_1_1_4#p115), note [1](../Book_1_1_4#fn303).
 
 [^335]: 134:1 Except the beginning, these formulas are entirely different from those given by Â<i>s</i>v. <i>S</i>. I, 3, 23-24.
 
@@ -291,11 +291,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^351]: 142:1 See IV, 2, 5, 7-8.
 
-[^352]: 142:2 (1) O <i>s</i>râvaya (for â srâvaya), the Adhvaryu's call; (2) astu <i>s</i>rausha<i>t</i>, the Âgnîdhra's response; (3) (samidho) ya<i>g</i>a, the Adhvaryu's summons to the Hot<i>ri</i>; (4) ye ya<i>g</i>âmahe, the beginning of the Hot<i>ri</i>'s yâ<i>g</i>yâ, or offering-prayer (see [p. 135](Book_1_1_5#p135) note); (5) vausha<i>t</i>, concluding formula of the yâ<i>g</i>yâ.
+[^352]: 142:2 (1) O <i>s</i>râvaya (for â srâvaya), the Adhvaryu's call; (2) astu <i>s</i>rausha<i>t</i>, the Âgnîdhra's response; (3) (samidho) ya<i>g</i>a, the Adhvaryu's summons to the Hot<i>ri</i>; (4) ye ya<i>g</i>âmahe, the beginning of the Hot<i>ri</i>'s yâ<i>g</i>yâ, or offering-prayer (see [p. 135](../Book_1_1_5#p135) note); (5) vausha<i>t</i>, concluding formula of the yâ<i>g</i>yâ.
 
-[^354]: 143:1 For â<i>s</i>râvaya (cf. [p. 131](Book_1_1_4#p131), note [2](Book_1_1_5#fn329)), i.e. ‘bid (him, Agni, or them) hear!’ but the author here makes <i>s</i>râvaya the causative of <i>s</i>ru (sru), ‘to flow;’ hence â <i>s</i>râvaya, ‘make flow;’ and astu <i>s</i>rausha<i>t</i> \[properly ‘Yea, may he (or one) hear!’\] he makes ‘Yea, may it flow!’
+[^354]: 143:1 For â<i>s</i>râvaya (cf. [p. 131](../Book_1_1_4#p131), note [2](../Book_1_1_5#fn329)), i.e. ‘bid (him, Agni, or them) hear!’ but the author here makes <i>s</i>râvaya the causative of <i>s</i>ru (sru), ‘to flow;’ hence â <i>s</i>râvaya, ‘make flow;’ and astu <i>s</i>rausha<i>t</i> \[properly ‘Yea, may he (or one) hear!’\] he makes ‘Yea, may it flow!’
 
-[^355]: 143:2 A fanciful etymology of vasha<i>t</i> from root v<i>ri</i>sh, ‘to rain;’ for the true derivation of the word, see [p. 88](Book_1_1_3#p88), note [2](Book_1_1_3#fn254).
+[^355]: 143:2 A fanciful etymology of vasha<i>t</i> from root v<i>ri</i>sh, ‘to rain;’ for the true derivation of the word, see [p. 88](../Book_1_1_3#p88), note [2](../Book_1_1_3#fn254).
 
 [^356]: 143:3 I.e. an offering made with a view to the obtainment of some special wish (kâmyesh<i>t</i>i).
 
@@ -315,7 +315,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^364]: 149:1 In making the oblation, the Adhvaryu holds the <i>g</i>uhû over the upabh<i>ri</i>t and pours some of the butter from the <i>g</i>uhû over the spout of the upabh<i>ri</i>t into the fire. At the third prayâ<i>g</i>a he empties all the butter remaining in the <i>g</i>uhû into the fire, and thereupon, for the fourth oblation, replenishes the empty spoon with half the contents of the upabh<i>ri</i>t, after which he proceeds as before.
 
-[^365]: 151:1 Cf. [p. 118](Book_1_1_4#p118), note [3](Book_1_1_4#fn309). The words ‘Svâhâ Agnim’ &c. are preceded by ‘ye ya<i>g</i>âmahe,’ see before, [p. 148](#p148), note [^360].
+[^365]: 151:1 Cf. [p. 118](../Book_1_1_4#p118), note [3](../Book_1_1_4#fn309). The words ‘Svâhâ Agnim’ &c. are preceded by ‘ye ya<i>g</i>âmahe,’ see before, [p. 148](#p148), note [^360].
 
 [^366]: 151:2 After the Adhvaryu has performed the last fore-offering, he p. 152 steps back behind the altar and sitting down beside the dishes of sacrificial food, anoints, with the butter remaining in the <i>g</i>uhû, first the (butter in the) dhruvâ, then the several sacrificial dishes; and finally the (butter in the) upabh<i>ri</i>t. Kâty. III, 3, 9.
 

@@ -182,7 +182,7 @@ Thus I say.
 
 [^1247]: 425:1 The meaning is, that at some future time movable beings may have ceased to exist, since they are all born as immovable beings, and vice versâ. If the latter is the case, a layman, who abstains from killing animals, practically does injury to no being whatever; if the former is the case, he cannot transgress his vow even if he would.
 
-[^1248]: 425:2 The text has the Sanskrit word asmâkam, of which the commentator alleges that it was thus pronounced by all people in Magadha, compare note [2](Sutrakritanga_2_2#fn1035), [p. 358](Sutrakritanga_2_2#p358).
+[^1248]: 425:2 The text has the Sanskrit word asmâkam, of which the commentator alleges that it was thus pronounced by all people in Magadha, compare note [2](../Sutrakritanga_2_2#fn1035), [p. 358](../Sutrakritanga_2_2#p358).
 
 [^1249]: 426:1 Gautama.
 
@@ -206,6 +206,6 @@ Thus I say.
 
 [^1259]: 432:1 This clause comes always after the words ‘immovable beings’ down to § 34.
 
-[^1260]: 434:1 See above, [p. 121](Uttaradhyayana_23#p121), note [2](Uttaradhyayana_23#fn316). In this way the creed of Pâr<i>s</i>va is characterised in contradistinction to that of Mahâvîra.
+[^1260]: 434:1 See above, [p. 121](../Uttaradhyayana_23#p121), note [2](../Uttaradhyayana_23#fn316). In this way the creed of Pâr<i>s</i>va is characterised in contradistinction to that of Mahâvîra.
 
 [^1261]: 434:2 ‘Pratikrama<i>n</i>a is the expiation of sins . . . by means of Nindana Garha<i>n</i>a, Âlô<i>k</i>anâ, and other processes. Nindana is condemning the sinful act or repenting of it to oneself; Garha<i>n</i>a is doing the same before a Guru; and Âlô<i>k</i>anâ is making a confession of it to the Guru.’ Bhandarkar, Report, p. 9, note ‡.

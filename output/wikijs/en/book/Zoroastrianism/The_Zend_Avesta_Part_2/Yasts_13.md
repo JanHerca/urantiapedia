@@ -1100,7 +1100,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^866]: 184:3 See above, [p. 180](#p180), note [^810].
 
-[^867]: 184:4 See above, [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^867]: 184:4 See above, [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^868]: 185:1 Cf. § 1.
 
@@ -1148,7 +1148,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^892]: 189:6 Hvîra; see Études Iraniennes, II, 183.
 
-[^893]: 189:7 Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^893]: 189:7 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^894]: 189:8 Doubtful (asabana).
 
@@ -1172,7 +1172,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^904]: 191:3 Cf. Yt. X, 9.
 
-[^905]: 191:4 See above, [p. 12](Sirozahs_1#p12), note [12](Sirozahs_1#fn93).
+[^905]: 191:4 See above, [p. 12](../Sirozahs_1#p12), note [12](../Sirozahs_1#fn93).
 
 [^906]: 192:1 The sixth and last Gâhambâr (see Âfrîgân Gâhambâr), or the last ten days of the year (10th-20th March), including the last five days of the last month, Sapendârmad, and the five complementary days. These last ten days should be spent in deeds of charity, religious banquets (<i>g</i>a<i>s</i>an), and ceremonies in memory of the dead. It was also at the approach of the spring that the Romans and the Athenians used to offer annual sacrifices to the dead; the Romans in February ‘qui tunc extremus anni mensis erat’ (Cicero, De Legibus, II, 21), the Athenians on the third day of the Anthesterion feast (in the same month). The souls of the dead were supposed to partake of the new life then beginning to circulate through nature, that had also been dead during the long months of winter.
 
@@ -1200,7 +1200,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^918]: 194:2 To keep the white Hôm there from the evil beings that try to destroy it (Minokhirad LXII, 28).
 
-[^919]: 194:3 See above, [p. 97](Yasts_8#p97), note [4](Yasts_8#fn479).
+[^919]: 194:3 See above, [p. 97](../Yasts_8#p97), note [4](../Yasts_8#fn479).
 
 [^920]: 195:1 Keresâspa lies asleep in the plain of Pê<i>s</i>yânsâi; ‘the glory (far) of heaven stands over him for the purpose that, when A<i>z</i>\-i-Dahâk becomes unfettered, he may arise and slay him; and a myriad guardian spirits of the righteous are as a protection to him’ (Bundahi<i>s</i> XXIX, 8; tr. West).
 
@@ -1218,7 +1218,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^927]: 197:3 Âsna = âzana (?).
 
-[^928]: 197:4 Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769).
+[^928]: 197:4 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
 [^929]: 197:5 Cf. Yt. XIII, 10.
 
@@ -1282,7 +1282,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^959]: 203:1 Maidhyô-m<i>a</i>ungha was the cousin and first disciple of Zarathu<i>s</i>tra; Zarathu<i>s</i>tra's father, Pourushaspa, and Ârâsti were brothers (Bund. XXXII, 3); cf. Yasna LI \[L\], 19.
 
-[^960]: 203:2 Cf. [p. 33](Yasts_1#p33), note [2](Yasts_1#fn173); Yt. XXII, 37.
+[^960]: 203:2 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173); Yt. XXII, 37.
 
 [^961]: 203:3 Another Par<i>s</i>a<i>t</i>\-g<i>a</i>u<i>s</i> is mentioned § 126.
 
@@ -1346,7 +1346,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^993]: 209:4 Cf. Yt. XIII, 99.
 
-[^995]: 210:1 Amru and <i>K</i>amru are apparently the two mythical birds mentioned above under the names of Sîn-amru (the Amru-falcon) and <i>K</i>ãmrô<i>s</i> ([p. 173](Yasts_12#p173), note [1](Yasts_12#fn795)).
+[^995]: 210:1 Amru and <i>K</i>amru are apparently the two mythical birds mentioned above under the names of Sîn-amru (the Amru-falcon) and <i>K</i>ãmrô<i>s</i> ([p. 173](../Yasts_12#p173), note [1](../Yasts_12#fn795)).
 
 [^997]: 210:2 Mr. West compares Ashâvanghu, the son of Biva<i>n</i>dangha, and <i>G</i>arôdanghu, the son of Pairi<i>s</i>tîra, with the two high-priests of the Karshvares of Arezahi and Savahi, whose names are, in the p. 211 Bundahi<i>s</i>, Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i>a<i>n</i>d<i>k</i>ân and Hoazarôdathhri-ê Parê<i>s</i>tyarô (Bund. XXIX, 1, notes 4 and 5).
 
@@ -1420,13 +1420,13 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^1038]: 221:1 He will suppress both the destructive power of the men of the Dru<i>g</i> (idolaters and the like) and the errors of Mazdayasnians (?).
 
-[^1039]: 221:2 See above, [p. 25](Yasts_1#p25), note [4](Yasts_1#fn117).
+[^1039]: 221:2 See above, [p. 25](../Yasts_1#p25), note [4](../Yasts_1#fn117).
 
 [^1040]: 221:3 Vouru-vãthwa; cf. Études Iraniennes, II, 182.
 
 [^1041]: 221:4 As he made waters and trees undrying, cattle and men undying.
 
-[^1042]: 221:5 See above, [p. 61](Yasts_5#p61), note [1](Yasts_5#fn305).
+[^1042]: 221:5 See above, [p. 61](../Yasts_5#p61), note [1](../Yasts_5#fn305).
 
 [^1043]: 221:6 As the inventor of medicine; see Vend. XX, Introd.
 
@@ -1436,7 +1436,7 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^1046]: 221:9 Called in the Shah Nâmah Zab, son of Tahmâsp, who appears to have been a son of Nodar (Bund. XXXI, 23).
 
-[^1047]: 222:1 See above, [p. 114](Yasts_9#p114), note [7](Yasts_9#fn545) (Yt. IX, 18).
+[^1047]: 222:1 See above, [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545) (Yt. IX, 18).
 
 [^1048]: 222:2 Airyu, the youngest of the three sons of Thraêtaona (seep. 61, note i), was killed by his brothers and avenged by his son Manu<i>s</i>\-<i>k</i>ithra, who succeeded Thraêtaona.
 
@@ -1446,11 +1446,11 @@ Ashem Vohû.: Holiness is the best of all good. . . .
 
 [^1054]: 222:5 Usadhan, Arshan, Pisanah, and Byârshan were the four sons of Aipivanghu; they are called in Firdausi Kai Kaus, Kai Arish, Kai Pashîn, and Kai Armin. Kai Kaus alone came to the throne.
 
-[^1056]: 222:6 Syâvakhsh and Khosrav; see above, [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1056]: 222:6 Syâvakhsh and Khosrav; see above, [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1057]: 222:7 To become possessed of Strength, Victory, &c., as Husravah did.
 
-[^1058]: 223:1 Like Frangrasyan; cf. [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^1058]: 223:1 Like Frangrasyan; cf. [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^1059]: 223:2 See Yt. V, 37; XV, 27; XIX, 38.
 

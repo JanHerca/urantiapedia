@@ -225,7 +225,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^505]: 265:1 That is, the Ukhya Agni, or fire in the pan, which the Sacrificer will have to carry about during his time of initiation; and which, moreover, is here taken to, be the Sacrificer's divine body ([VI, 6, 4. 5](Book_3_6_6#v6_6_4_5)).
+[^505]: 265:1 That is, the Ukhya Agni, or fire in the pan, which the Sacrificer will have to carry about during his time of initiation; and which, moreover, is here taken to, be the Sacrificer's divine body ([VI, 6, 4. 5](../Book_3_6_6#v6_6_4_5)).
 
 [^506]: 265:2 See I, 3, 5, 12,—twelve months of the year, five seasons, and three worlds: this makes twenty; and he that burns yonder is the twenty-first. See also Ait. Br. IV, is, where the sun is identified with the Ekavi<i>m</i><i>s</i>a or Vishuvat day, the central day of the year, by which the gods raised the sun up to the heavens.
 
@@ -245,11 +245,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^514]: 271:1 That is, of the pan containing the fire.
 
-[^515]: 271:2 Sâya<i>n</i>a (on [VII, 2, 1, 15](Book_3_7_2#v7_2_1_15)) explains them as two balls of straw. The comparison in [26](Book_3_6_7#v6_7_1_26) rather points to their being round mats.
+[^515]: 271:2 Sâya<i>n</i>a (on [VII, 2, 1, 15](../Book_3_7_2#v7_2_1_15)) explains them as two balls of straw. The comparison in [26](../Book_3_6_7#v6_7_1_26) rather points to their being round mats.
 
-[^516]: 271:3 Thus Sâya<i>n</i>a. If, on the other hand, Agni be intended here, this might be taken as an illusion to the regular worship of the fire at the morning and evening twilights (cf. [VI, 7, 2, 3](Book_3_6_7#v6_7_2_3)).
+[^516]: 271:3 Thus Sâya<i>n</i>a. If, on the other hand, Agni be intended here, this might be taken as an illusion to the regular worship of the fire at the morning and evening twilights (cf. [VI, 7, 2, 3](../Book_3_6_7#v6_7_2_3)).
 
-[^517]: 272:1 The author now proceeds to give further particulars regarding the ceremonial details treated of in the preceding chapter ([VI, 7, 1, 1](Book_3_6_7#v6_7_1_1) seq.).
+[^517]: 272:1 The author now proceeds to give further particulars regarding the ceremonial details treated of in the preceding chapter ([VI, 7, 1, 1](../Book_3_6_7#v6_7_1_1) seq.).
 
 [^518]: 272:2 Literally, ‘seen’ or appearing (like).’
 
@@ -269,23 +269,23 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^526]: 275:2 Samuhya samuhya purîsha<i>m</i> tenaiva kevalena <i>k</i>iyata iti samuhyapurîsha<i>h</i>, Sây.
 
-[^527]: 275:3 As in the case of the lump of clay, [VI, 4, 3, 10](Book_3_6_4#v6_4_3_10).
+[^527]: 275:3 As in the case of the lump of clay, [VI, 4, 3, 10](../Book_3_6_4#v6_4_3_10).
 
-[^528]: 275:4 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^528]: 275:4 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^529]: 275:5 Or the Vish<i>n</i>u-steps, as the term, for a special reason, was translated at [V, 4, 2, 6](Book_3_5_4#v5_4_2_6).
+[^529]: 275:5 Or the Vish<i>n</i>u-steps, as the term, for a special reason, was translated at [V, 4, 2, 6](../Book_3_5_4#v5_4_2_6).
 
-[^530]: 277:1 Viz. by the Agni who is now being held up, and of whom Par<i>g</i>anya is said to be another form, at [VI, 1, 3, 15](Book_3_6_1#v6_1_3_15). It is probably the smoke rising from the fire-pan that suggests the idea of the Jupiter pluvius sending forth his flashes of light from the dark cloud.
+[^530]: 277:1 Viz. by the Agni who is now being held up, and of whom Par<i>g</i>anya is said to be another form, at [VI, 1, 3, 15](../Book_3_6_1#v6_1_3_15). It is probably the smoke rising from the fire-pan that suggests the idea of the Jupiter pluvius sending forth his flashes of light from the dark cloud.
 
 [^531]: 277:2 Literally, anointing (? either furbishing, or impregnating).
 
 [^532]: 278:1 Literally, were that to be so much only (i.e. were the fire always to be held up there).
 
-[^533]: 279:1 [VI, 7, 1, 8](Book_3_6_7#v6_7_1_8) seq.
+[^533]: 279:1 [VI, 7, 1, 8](../Book_3_6_7#v6_7_1_8) seq.
 
-[^534]: 280:1 [VI, 7, 2, 9](Book_3_6_7#v6_7_2_9).
+[^534]: 280:1 [VI, 7, 2, 9](../Book_3_6_7#v6_7_2_9).
 
-[^535]: 280:2 [VI, 7, 3, 1](Book_3_6_7#v6_7_3_1).
+[^535]: 280:2 [VI, 7, 3, 1](../Book_3_6_7#v6_7_3_1).
 
 [^536]: 281:1 It is rather a trish<i>t</i>ubh verse.
 
@@ -295,9 +295,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^539]: 283:2 This is a somewhat doubtful meaning of ‘dâkshâya<i>n</i>a-hasta.’ The synonyms (if correct), hira<i>n</i>yapâ<i>n</i>i and hira<i>n</i>yahasta, always refer to Savit<i>ri</i>, the sun.
 
-[^540]: 283:3 See [VI, 7, 2, 5](Book_3_6_7#v6_7_2_5)\-[6](Book_3_6_7#v6_7_2_6).
+[^540]: 283:3 See [VI, 7, 2, 5](../Book_3_6_7#v6_7_2_5)\-[6](../Book_3_6_7#v6_7_2_6).
 
-[^541]: 283:4 ? Or, as a second; see above, [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^541]: 283:4 ? Or, as a second; see above, [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^542]: 284:1 The construction of the text here favoured by the author is very doubtful. It has probably to be construed,—‘the third time (he, Agni, was born) in the waters, he, the manly-minded (or, friendly to men). Kindling him, the imperishable (Agni), the heedful (? or pious) one praises him,’—or perhaps, ‘While kindling him, the considerate one praises him unceasingly.’ A point which favours the author's construction is that, in verse 3, ‘n<i>ri</i>ma<i>n</i>aas’ certainly refers not to Agni, but to him who generated him.
 
@@ -306,7 +306,7 @@ dateCreated: 2025-1-14T23:38:14Z
   2\. The upraiser of glories, the upholder of riches, the inspirer of thoughts, the guardian of Soma; the excellent son of power, shines forth as king in the waters, kindled before the dawns.
   3\. A beacon unto all that is, the child of the world filled the two spheres even when born; even the hard rock he broke going thither when the five peoples worshipped Agni.
   4\. An eager cleanser, a wise messenger, the immortal Agni has been set up among the mortals; flickering (?) he sends forth the red smoke, striving with his bright flame to reach the sky.
-  5\. Looking like a golden disk, &c. (see [VI, 7, 2](Book_3_6_7#v6_7_2)).
+  5\. Looking like a golden disk, &c. (see [VI, 7, 2](../Book_3_6_7#v6_7_2)).
   6\. Whoso maketh for thee this day a ghee-baked cake, O divine Agni of auspicious flame, lead him onwards to bliss, unto god-allotted glory, O youngest!
   7\. Make him share in the songs of triumph, make him share in every hymn that is sung! Dear be he unto Sûrya, dear unto Agni; let him prevail with the living one and with them that are to be born!
   8\. They that worship thee day by day, O Agni, win all desirable boons; ardently wishing for wealth, they have opened with thee the stable filled with cows!

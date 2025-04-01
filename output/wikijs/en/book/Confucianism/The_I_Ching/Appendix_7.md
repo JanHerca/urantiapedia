@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:1:50Z
 
 Treatise on the Hexagrams taken promiscuously, according to the opposition or diversity of their meaning.
 
-This last of the Appendixes is touched on very briefly in the concluding paragraph of the Introduction, [p. 55](Introduction_3#p55). It is stated there to be in rhyme, and I have endeavoured to give a similar form to the following version of it. The rhymes and length of the lines in the original, however, are very irregular, and I found it impossible to reproduce that irregularity in English.
+This last of the Appendixes is touched on very briefly in the concluding paragraph of the Introduction, [p. 55](../Introduction_3#p55). It is stated there to be in rhyme, and I have endeavoured to give a similar form to the following version of it. The rhymes and length of the lines in the original, however, are very irregular, and I found it impossible to reproduce that irregularity in English.
 
 1, 2. Strength in <i>Kh</i>ien, weakness in Khwăn we find.
 

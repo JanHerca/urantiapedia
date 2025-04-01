@@ -203,7 +203,7 @@ Holding his mighty weapon, stands.
 His message is the charioteer
 That brings the eager envoy near,
 Urged onward by his bold intent,
-And by the hest of Ráma sent. [1](Book_4_40#fn636)
+And by the hest of Ráma sent. [1](../Book_4_40#fn636)
 The gathered Vánars saw and fled,
 And raised aloud their cry of dread.
 Son of Queen Tárá, Angad ran
@@ -645,7 +645,7 @@ And happy Ráma reunite
 To Sitá, rival in delight
 
 Of the triumphant Moon when he
-Rejoins his darling Rohiní.  [1b](Book_4_40#fn643)
+Rejoins his darling Rohiní.  [1b](../Book_4_40#fn643)
 Ten million million demons guard
 The gates of Lanká firmly barred.
 All hope until that host be slain,
@@ -976,7 +976,7 @@ Of Gods, [^651] they change their shapes at need.
 Each with his legions in array,
 Hither, O Prince, they make their way,
 They come: and tens of millions swell
-To numbers that no tongue may tell. [1b](Book_4_40#fn652)
+To numbers that no tongue may tell. [1b](../Book_4_40#fn652)
 For thee their armies will unite
 With chiefs, Mahendra's peers in might.
 From Meru and from Vindhya's chain
@@ -1070,7 +1070,7 @@ With swarming myriads onward pressed
 True to his lord Sugríva's hest;
 And princely Ruman, dear to fame,
 Led millions whom no hosts could tame,
-All these and many a chief beside [1b](Book_4_40#fn660)
+All these and many a chief beside [1b](../Book_4_40#fn660)
 Came onward fierce in warlike pride.
 They covered all the plain, and still
 Pressed forward over wood and hill.

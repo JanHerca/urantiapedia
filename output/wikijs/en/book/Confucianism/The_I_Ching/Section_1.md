@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:1:50Z
 
 ## THE <i>KH</i>IEN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111111.jpg)
 
 Explanation of the entire figure by king Wăn
 
@@ -66,7 +66,7 @@ Explanation of the separate lines by the duke of <i>K</i>âu.
 
 ## THE KHWĂN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000000.jpg)
 
 Khwăn (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
@@ -90,7 +90,7 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 ## THE <i>K</i>UN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex010001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex010001.jpg)
 
 <i>K</i>un (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 
@@ -112,7 +112,7 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 ## THE MĂNG HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100010.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100010.jpg)
 
 Măng (indicates that in the case which it presupposes) there will be progress and success. I do not (go and) seek the youthful and inexperienced, <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> but he comes and seeks me. When he shows (the sincerity that marks) the first recourse to divination, I instruct him. If he apply a second and third time, that is troublesome; and I do not instruct the troublesome. There will be advantage in being firm and correct.
 
@@ -136,7 +136,7 @@ Măng (indicates that in the case which it presupposes) there will be progress a
 
 ## THE HSÜ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex010111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex010111.jpg)
 
 Hsü intimates that, with the sincerity which is declared in it, there will be brilliant success. With firmness there will be good fortune; and it will be advantageous to cross the great stream.
 
@@ -164,7 +164,7 @@ If he receive them respectfully, there will be good fortune in the end.
 
 ## THE SUNG HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111010.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111010.jpg)
 
 Sung intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune, while, if he must prosecute the contention to the (bitter) end, there will be evil. It will be advantageous to see the great man; it will not be advantageous to cross the great stream.
 
@@ -188,7 +188,7 @@ S. The fifth NINE, undivided, shows its subject contending;—and with great goo
 
 ## THE SZE HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000010.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000010.jpg)
 
 Sze indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> and experience, there will be good fortune and no error.
 
@@ -212,7 +212,7 @@ Sze indicates how, in the case which it supposes, with firmness and correctness,
 
 ## THE PÎ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex010000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex010000.jpg)
 
 Pî indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
@@ -236,7 +236,7 @@ In the third SIX, divided, we see its subject seeking for union with such as oug
 
 ## THE HSIÂO <i>KH</i>Û HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex110111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex110111.jpg)
 
 Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
@@ -258,7 +258,7 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 ## THE LÎ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111011.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111011.jpg)
 
 (Lî suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 1\. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
@@ -280,7 +280,7 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 ## THE THÂI HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000111.jpg)
 
 In Thâi (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 
@@ -306,7 +306,7 @@ In Thâi (we see) the little gone and the great come. (It indicates that) there 
 
 ## THE PHÎ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111000.jpg)
 
 In Phî there is the want of good understanding between the (different classes of) men, and its indication is unfavourable to the firm and correct <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> course of the superior man. We see in it the great gone and the little come.
 
@@ -330,7 +330,7 @@ The third SIX, divided, shows its subject ashamed of the purpose folded (in his 
 
 ## THE THUNG <i>Z</i>ĂN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111101.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111101.jpg)
 
 Thung <i>Z</i>ăn (or ‘Union of men’) appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 
@@ -354,7 +354,7 @@ Thung <i>Z</i>ăn (or ‘Union of men’) appears here (as we find it) in the (r
 
 ## THE TÂ YÛ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex101111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex101111.jpg)
 
 Tâ Yû indicates that, (under the circumstances which it implies), there will be great progress and success.
 
@@ -378,7 +378,7 @@ Tâ Yû indicates that, (under the circumstances which it implies), there will b
 
 ## THE <i>KH</i>IEN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000100.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000100.jpg)
 
 <i>Kh</i>ien indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
@@ -401,7 +401,7 @@ Tâ Yû indicates that, (under the circumstances which it implies), there will b
 
 ## THE YÜ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex001000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex001000.jpg)
 
 Yü indicates that, (in the state which it implies), feudal princes may be set up, and the hosts put in motion, with advantage.
 
@@ -425,7 +425,7 @@ Yü indicates that, (in the state which it implies), feudal princes may be set u
 
 ## THE SUI HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex011001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex011001.jpg)
 
 Sui indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 
@@ -447,7 +447,7 @@ Sui indicates that (under its conditions) there will be great progress and succe
 
 ## THE KÛ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100110.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100110.jpg)
 
 Kû indicates great progress and success (to him who deals properly with the condition represented by it). There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 
@@ -471,7 +471,7 @@ Kû indicates great progress and success (to him who deals properly with the con
 
 ## THE LIN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000011.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000011.jpg)
 
 Lin (indicates that under the conditions supposed in it) there will be great progress and success, while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 
@@ -495,7 +495,7 @@ Lin (indicates that under the conditions supposed in it) there will be great pro
 
 ## THE KWÂN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex110000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex110000.jpg)
 
 Kwân shows (how he whom it represents should be like) the worshipper who has washed his hands, but not (yet) presented his offerings;—with sincerity <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> and an appearance of dignity (commanding reverent regard).
 
@@ -519,7 +519,7 @@ Kwân shows (how he whom it represents should be like) the worshipper who has wa
 
 ## THE SHIH HO HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex101001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex101001.jpg)
 
 Shih Ho indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 
@@ -541,7 +541,7 @@ Shih Ho indicates successful progress (in the condition of things which it suppo
 
 ## THE PÎ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100101.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100101.jpg)
 
 Pî indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead). <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> 1\. The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
@@ -564,7 +564,7 @@ Pî indicates that there should be free course (in what it denotes). There will 
 
 ## THE PO HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100000.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100000.jpg)
 
 Po indicates that (in the state which it symbolises) it will not be advantageous to make a movement in any direction whatever. <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> 1\. The first SIX, divided, shows one overturning the couch by injuring its legs. (The injury will go on to) the destruction of (all) firm correctness, and there will be evil.
 
@@ -586,7 +586,7 @@ Po indicates that (in the state which it symbolises) it will not be advantageous
 
 ## THE FÛ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex000001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex000001.jpg)
 
 Fû indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
 
@@ -611,7 +611,7 @@ Fû indicates that there will be free course and progress (in what it denotes). 
 
 ## THE WÛ WANG HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex111001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex111001.jpg)
 
 Wû Wang indicates great progress and success, while there will be advantage in being firm and <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 
@@ -635,7 +635,7 @@ Wû Wang indicates great progress and success, while there will be advantage in 
 
 ## THE TÂ KHÛ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100111.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100111.jpg)
 
 Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and correct. (If its subject do not seek to) enjoy his revenues in his own family (without taking service at court), there will be good fortune. It will be advantageous for him to cross the great stream.
 
@@ -660,7 +660,7 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 ## THE I HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex100001.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex100001.jpg)
 
 Î indicates that with firm correctness there will be good fortune (in what is denoted by it). We must look at what we are seeking to nourish, and by the exercise of our thoughts seek for the proper aliment.
 
@@ -682,7 +682,7 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 ## THE TÂ KWO HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex011110.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex011110.jpg)
 
 Tâ Kwo suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
@@ -706,7 +706,7 @@ Tâ Kwo suggests to us a beam that is weak. There will be advantage in moving (u
 
 ## THE KHAN HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex010010.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex010010.jpg)
 
 Khan, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 
@@ -730,7 +730,7 @@ Khan, here repeated, shows the possession of sincerity, through which the mind i
 
 ## THE LÎ HEXAGRAM
 
-![](image/book/Confucianism/The_I_Ching/hex101101.jpg)
+![](../image/book/Confucianism/The_I_Ching/hex101101.jpg)
 
 Lî indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success. <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 
@@ -774,7 +774,7 @@ Lî indicates that, (in regard to what it denotes), it will be advantageous to b
 
 [^60]: 58:I The Text under each hexagram consists of one paragraph by king Wăn, explaining the figure as a whole, and of six (in the case of hexagrams 1 and 2, of seven) paragraphs by the duke of <i>K</i>âu, explaining the individual lines. The explanatory notices introduced above to this effect will not be repeated. A double space will be used to mark off the portion of king Wăn from that of his son.
   Each hexagram consists of two of the trigrams of Fû-hsî, the lower being called ‘the inner,’ and the one above ‘the outer.’ The lines, however, are numbered from one to six, commencing with the lowest. To denote the number of it and of the sixth line, the terms for commencing' and ‘topmost’ are used. The intermediate lines are simply ‘second,’ ‘third,’ &c. As the lines must be either whole or divided, technically called strong and weak, yang and yin, this distinction is indicated by the application to them of the numbers nine and six. All whole lines are nine, all divided lines, six.
-  Two explanations have been proposed of this application of these numbers. The <i>Kh</i>ien trigram, it is said, contains 3 strokes ( ![](image/book/Confucianism/The_I_Ching/tri111.jpg)), and the <i>Kh</i>wăn 6 ( ![](image/book/Confucianism/The_I_Ching/tri000.jpg)). But the yang contains the yin in itself, and its representative number will be 3 + 6 = 9, while the yin, not containing the yang, will only have its own number or 6. This explanation, entirely arbitrary, is new deservedly abandoned. The other is based on the use of the ‘four Hsiang,’ or emblematic figures ( ![](image/book/Confucianism/The_I_Ching/dyad11.jpg) the great or old yang, ![](image/book/Confucianism/The_I_Ching/dyad01.jpg) the young yang, ![](image/book/Confucianism/The_I_Ching/dyad00.jpg) the old yin, and ![](image/book/Confucianism/The_I_Ching/dyad10.jpg) the young yin). To these are assigned (by what process is unimportant for our present purpose) the numbers 9, 8, 7, 6. They were ‘the old yang,’ represented by 9, and ‘the old yin,’ represented by 6, that, in the manipulation of the stalks to form new diagrams, determined the changes of figure; and so 9 and 6 came to be used as the p. 59 names of a yang line and a yin line respectively. This explanation is now universally acquiesced in. The nomenclature of first nine, nine two, &c., or first six, six two, &c., however, is merely a jargon; and I have preferred to use, instead of it, in the translation, in order to describe the lines, the names ‘undivided’ and ‘divided.’
+  Two explanations have been proposed of this application of these numbers. The <i>Kh</i>ien trigram, it is said, contains 3 strokes ( ![](../image/book/Confucianism/The_I_Ching/tri111.jpg)), and the <i>Kh</i>wăn 6 ( ![](../image/book/Confucianism/The_I_Ching/tri000.jpg)). But the yang contains the yin in itself, and its representative number will be 3 + 6 = 9, while the yin, not containing the yang, will only have its own number or 6. This explanation, entirely arbitrary, is new deservedly abandoned. The other is based on the use of the ‘four Hsiang,’ or emblematic figures ( ![](../image/book/Confucianism/The_I_Ching/dyad11.jpg) the great or old yang, ![](../image/book/Confucianism/The_I_Ching/dyad01.jpg) the young yang, ![](../image/book/Confucianism/The_I_Ching/dyad00.jpg) the old yin, and ![](../image/book/Confucianism/The_I_Ching/dyad10.jpg) the young yin). To these are assigned (by what process is unimportant for our present purpose) the numbers 9, 8, 7, 6. They were ‘the old yang,’ represented by 9, and ‘the old yin,’ represented by 6, that, in the manipulation of the stalks to form new diagrams, determined the changes of figure; and so 9 and 6 came to be used as the p. 59 names of a yang line and a yin line respectively. This explanation is now universally acquiesced in. The nomenclature of first nine, nine two, &c., or first six, six two, &c., however, is merely a jargon; and I have preferred to use, instead of it, in the translation, in order to describe the lines, the names ‘undivided’ and ‘divided.’
   I. Does king Wăn ascribe four attributes here to <i>Kh</i>ien, or only two? According to Appendix IV, always by Chinese writers assigned to Confucius, he assigns four, corresponding to the principles of benevolence, righteousness, propriety, and knowledge in man's nature. <i>K</i>û Hsî held that he assigned only two, and that we should translate, ‘greatly penetrating,’ and ‘requires to be correct and firm,’ two responses in divination. Up and down throughout the Text of the 64 hexagrams, we often find the characters thus coupled together. Both interpretations are possible. I have followed what is accepted as the view of Confucius. It would take pages to give a tithe of what has been written in justification of it, and to reconcile it with the other.
   ‘The dragon’ is the symbol employed by the duke of <i>K</i>âu to represent ‘the superior man’ and especially ‘the great man,’ exhibiting the virtues or attributes characteristic of heaven. The creature's. proper home is in the water, but it can disport itself on the land, and also fly and soar aloft. It has been from the earliest time the emblem with the Chinese of the highest dignity and wisdom, of sovereignty and sagehood, the combination of which constitutes ‘the great man.’ One emblem runs through the lines of many of the hexagrams as here.
   But the dragon appears in the sixth line as going beyond the proper limits. The ruling-sage has gone through all the sphere in which he is called on to display his attributes; it is time for him to relax. The line should not be always pulled tight; the bow should not be always kept drawn. The unchanging use p. 60 of force will give occasion for repentance. The moral meaning found in the line is that ‘the high shall be abased.’
@@ -854,7 +854,7 @@ Lî indicates that, (in regard to what it denotes), it will be advantageous to b
   Beneath the symbolism under line 5, lies the principle that the most excellent thing in ‘propriety’ is humility. And the subject of the line, which is strong and central, will not be lacking in this, but bear in mind that the higher he is exalted, the greater may be his fall.
   What is said on line 6 is good, but is only a truism. The whole course has been shown; if every step has been right and appropriate, the issue will be very good.
 
-[^70]: 82:XI The language of the Thwan has reference to the form of Thâi, with the three strong lines of <i>Kh</i>ien below, and the three weak lines of Khwăn above. The former are ‘the great,’ active and vigorous; the latter are ‘the small,’ inactive and submissive. But where have the former ‘come’ from, and whither are the latter gone?' In many editions of the Yî beneath the hexagram of Thâi here, there appears that of Kwei Mei, the 54th in order ( ![](image/book/Confucianism/The_I_Ching/hex001011.jpg)), which becomes Thâi, if the third and fourth lines exchange places. But in the notes on the Thwan, in the first Appendix, on hexagram 6, I have spoken of the doctrine of ‘changing figures,’ and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When king Wăn wrote these Thwan, he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The ‘gone’ and ‘come’ are merely equivalent to ‘below’ and ‘above,’ in the lower trigram or in the upper.
+[^70]: 82:XI The language of the Thwan has reference to the form of Thâi, with the three strong lines of <i>Kh</i>ien below, and the three weak lines of Khwăn above. The former are ‘the great,’ active and vigorous; the latter are ‘the small,’ inactive and submissive. But where have the former ‘come’ from, and whither are the latter gone?' In many editions of the Yî beneath the hexagram of Thâi here, there appears that of Kwei Mei, the 54th in order ( ![](../image/book/Confucianism/The_I_Ching/hex001011.jpg)), which becomes Thâi, if the third and fourth lines exchange places. But in the notes on the Thwan, in the first Appendix, on hexagram 6, I have spoken of the doctrine of ‘changing figures,’ and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When king Wăn wrote these Thwan, he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The ‘gone’ and ‘come’ are merely equivalent to ‘below’ and ‘above,’ in the lower trigram or in the upper.
   A course in which the motive forces are represented by the three strong, and the opposing by the three weak lines, must be progressive and successful. Thâi is called the hexagram of the first month of the year, the first month of the natural spring, when for six months, through the fostering sun and genial skies, the processes of growth will be going on.
   The symbolism of paragraph 1 is suggested by the three strong lines of <i>Kh</i>ien all together, and all possessed by the same instinct to advance. The movement of the first will be supported by that of the others, and be fortunate.
   The second line is strong, but in an even place. This is supposed to temper the strength of its subject; which is expressed by the first of his characteristics. But the even place is the central; and it is responded to by a proper correlate in the fifth line above. Hence come all the symbolism of the paragraph and the auspice of good fortune implied in it.
@@ -964,7 +964,7 @@ Tî-yî, the last sovereign but one of the Yin dynasty, reigned from B. C. 1191 
   With line 5 the symbolism changes. The subject of 5 is ‘lord of all the other weak lines,’ and their subjects are at his disposal. He and they are represented as fishes, following one another as if strung together. All fishes come under the category of yin. Then the symbolism changes again. The subject of 5, representing and controlling all the yin lines, is loyal to the subject of the yang sixth line. He is the rightful sovereign in his palace, and 5 leads all the others there to enjoy the sovereign's favours.
   We have still different symbolism under line 6. Its strong subject, notwithstanding the attempts against him, survives, and acquires fresh vigour. The people again cherish their sovereign, and the plotters have wrought to their own overthrow.
 
-[^83]: 108:XXIV Fû symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad. But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below p. 109 it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature,—Po is the hexagram of the ninth month, in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is Khwăn ![](image/book/Confucianism/The_I_Ching/hex000000.jpg); then follows our hexagram Fû, belonging to the eleventh month, in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the Yî to suggest the hope of a perfect society or kingdom that cannot be moved.
+[^83]: 108:XXIV Fû symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad. But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below p. 109 it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature,—Po is the hexagram of the ninth month, in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is Khwăn ![](../image/book/Confucianism/The_I_Ching/hex000000.jpg); then follows our hexagram Fû, belonging to the eleventh month, in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the Yî to suggest the hope of a perfect society or kingdom that cannot be moved.
   The strong bottom line is the first of <i>K</i>ăn, the trigram of movement, and the upper trigram is Khwăn, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and month to month.
   The sentence, ‘In seven days comes his return,’ occasions some perplexity. If the reader will refer to hexagrams 44, 33, 12, 20, 23, and 2, he will see that during the months denoted by those figures, the 5th, 6th, 7th, 8th, 9th, and 10th, the yin lines have gradually been prevailing over the yang, until in Khwăn (2) they have extruded them entirely from the lineal figure. Then comes our Fû, as a seventh figure, in which the yang line begins to reassert itself, and from which it goes on to extrude the yin lines in their turn. Explained therefore of the months of the year, we have to take a day for a month. And something analogous—we cannot say exactly what—must have place in society and the state.
   The concluding auspice or oracle to him who finds this Fû by divination is what we might expect.

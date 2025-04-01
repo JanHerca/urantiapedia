@@ -82,7 +82,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1072]: 235:2 Sic in MSS.
 
-[^1073]: 235:3 Cf. as to getting rid of nature, Gîtâ, pp. [75](Bhagavadgita_7#p75)\-[106](Bhagavadgita_13#p106). As to the body produced from nature, cf. ibid. [p. 112](Bhagavadgita_15#p112), and pp. [317](Anugita_20#p317)\-[318](Anugita_21#p318) infra.
+[^1073]: 235:3 Cf. as to getting rid of nature, Gîtâ, pp. [75](../Bhagavadgita_7#p75)\-[106](../Bhagavadgita_13#p106). As to the body produced from nature, cf. ibid. [p. 112](../Bhagavadgita_15#p112), and pp. [317](../Anugita_20#p317)\-[318](../Anugita_21#p318) infra.
 
 [^1074]: 235:4 I. e. the Brahman, says Nîlaka<i>nth</i>a.
 
@@ -92,7 +92,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1077]: 236:3 Ar<i>g</i>una Mi<i>s</i>ra renders the original, sattva, by svabhâva.
 
-[^1078]: 236:4 Cf. for all this, Gîtâ, pp. [62](Bhagavadgita_4#p62), [69](Bhagavadgita_6#p69), [118](Bhagavadgita_17#p118), which passages, however, are from a slightly different point of view. See also Khândogya, p. 526.
+[^1078]: 236:4 Cf. for all this, Gîtâ, pp. [62](../Bhagavadgita_4#p62), [69](../Bhagavadgita_6#p69), [118](../Bhagavadgita_17#p118), which passages, however, are from a slightly different point of view. See also Khândogya, p. 526.
 
 [^1079]: 236:5 A various reading here excludes meat. But cf. Âpastamba I, 1, 2, 23; Gautama II, 13.
 
@@ -128,7 +128,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1095]: 238:7 The senses. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 288.
 
-[^1096]: 238:8 See and cf. [p. 262](Anugita_6#p262) infra.
+[^1096]: 238:8 See and cf. [p. 262](../Anugita_6#p262) infra.
 
 [^1097]: 238:9 This, says Ar<i>g</i>una Mi<i>s</i>ra, is in answer to the possible question why this ‘sharp wind’ does not work with the life-winds. The answer is, that such working requires the presence of the soul, which Ar<i>g</i>una Mi<i>s</i>ra says here means ‘mind.’ As to production from food,' cf. <i>Kh</i>ândogya, p. 421 seq., and Taittirîya Âra<i>n</i>yaka, p. 893.
 
@@ -144,19 +144,19 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1103]: 239:5 Cf. B<i>ri</i>hadâra<i>ri</i>aka, p. 843.
 
-[^1104]: 239:6 See Aitareya-upanishad, p. 222, and <i>S</i>ankara's commentary there. The coming to the birth is the coming out of the womb into the world. Cf. also Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1104]: 239:6 See Aitareya-upanishad, p. 222, and <i>S</i>ankara's commentary there. The coming to the birth is the coming out of the womb into the world. Cf. also Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
 [^1105]: 239:7 As stated further on, viz. this world, the next world, and the womb. With this compare <i>Kh</i>ândogya, p. 359.
 
 [^1106]: 239:8 Cf. our Bhart<i>ri</i>hari (Bombay series), Notes (Nîti<i>s</i>ataka), p. 27.
 
-[^1107]: 240:1 Cf. on this and lower place,' Gîtâ, [p. 109](Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
+[^1107]: 240:1 Cf. on this and lower place,' Gîtâ, [p. 109](../Bhagavadgita_14#p109); Sânkhya Kârikâ, 44.
 
 [^1108]: 240:2 The readings here are most unsatisfactory. The meaning of the printed reading adopted above would seem to be, ‘decision as to what actions should be performed,’ &c.
 
-[^1109]: 240:3 Cf. Gîtâ, [p. 81](Bhagavadgita_8#p81), and Sanatsu<i>g</i>âtîya, [p. 158](Sanatsugatiya_2#p158).
+[^1109]: 240:3 Cf. Gîtâ, [p. 81](../Bhagavadgita_8#p81), and Sanatsu<i>g</i>âtîya, [p. 158](../Sanatsugatiya_2#p158).
 
-[^1110]: 240:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^1110]: 240:4 Cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84).
 
 [^1111]: 240:5 Ar<i>g</i>una Mi<i>s</i>ra says, ‘In heaven = in the next world, low = inferior(?), high = heaven, and middling = the space below the skies (antariksha).’ For the three degrees of enjoyment in heaven, see Yogavâsish<i>th</i>a I, 35 seq.
 

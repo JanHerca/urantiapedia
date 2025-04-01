@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^886]: 261:1 As by the act of betrothing, and also by the marriage-rite, the husband acquires an absolute and exclusive right to possess and enjoy the wife's person, it follows that by the same act he acquires an equal right to her property, which in fact is but an appendage to her person.
 
-[^887]: 262:2 Vide Note 1, [p. 260](Treatise14_Pesachim_2#p260).
+[^887]: 262:2 Vide Note 1, [p. 260](../Treatise14_Pesachim_2#p260).
 
 [^888]: 262:3 Establishes a different rule of proceeding in differing cases.
 

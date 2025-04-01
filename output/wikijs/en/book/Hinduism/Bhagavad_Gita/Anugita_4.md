@@ -72,73 +72,73 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1142]: 245:1 Ar<i>g</i>una Mi<i>s</i>ra says the strength of the impression in the former birth would give him this knowledge in the subsequent birth.
 
-[^1143]: 245:2 Cf. Sanatsu<i>g</i>âtîya, [p. 155](Sanatsugatiya_2#p155).
+[^1143]: 245:2 Cf. Sanatsu<i>g</i>âtîya, [p. 155](../Sanatsugatiya_2#p155).
 
-[^1144]: 245:3 Cf. inter alia [p. 256](Anugita_5#p256) infra.
+[^1144]: 245:3 Cf. inter alia [p. 256](../Anugita_5#p256) infra.
 
-[^1145]: 245:4 Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79).
+[^1145]: 245:4 Cf. Gîtâ, [p. 79](../Bhagavadgita_8#p79).
 
 [^1146]: 245:5 Otherwise called Prak<i>ri</i>ti, or nature.
 
-[^1147]: 245:6 Cf. Gîtâ, [p. 124](Bhagavadgita_18#p124).
+[^1147]: 245:6 Cf. Gîtâ, [p. 124](../Bhagavadgita_18#p124).
 
-[^1148]: 245:7 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
+[^1148]: 245:7 Cf. Gîtâ, [p. 111](../Bhagavadgita_15#p111).
 
-[^1149]: 245:8 We now begin, as Nîlaka<i>nth</i>a points out, the answer to the question put above by Kâ<i>s</i>yapa about the emancipation of the self. Placid, Ar<i>g</i>una Mi<i>s</i>ra renders to mean ‘silent, taciturn.’ See [p. 234](Anugita_1#p234) supra.
+[^1149]: 245:8 We now begin, as Nîlaka<i>nth</i>a points out, the answer to the question put above by Kâ<i>s</i>yapa about the emancipation of the self. Placid, Ar<i>g</i>una Mi<i>s</i>ra renders to mean ‘silent, taciturn.’ See [p. 234](../Anugita_1#p234) supra.
 
 [^1150]: 245:9 The path of knowledge, says Ar<i>g</i>una Mi<i>s</i>ra; the Brahman, says Nîlaka<i>nth</i>a. Abandoning each element = absorbing the gross into the subtle elements, and so forth, Nîlaka<i>nth</i>a,; abandoning each elementary mode of worship till one reaches that of contemplating the absolute Brahman, Ar<i>g</i>una Mi<i>s</i>ra.
 
 [^1151]: 246:1 This, in the terminology of the Vedânta, means keeping the mind from everything save ‘hearing’ &c. about the Brahman.
 
-[^1152]: 246:2 One who has his mind under his control. But see Gîtâ, [p. 63](Bhagavadgita_4#p63).
+[^1152]: 246:2 One who has his mind under his control. But see Gîtâ, [p. 63](../Bhagavadgita_4#p63).
 
-[^1153]: 246:3 Cf. Gîtâ, [p. 71](Bhagavadgita_6#p71).
+[^1153]: 246:3 Cf. Gîtâ, [p. 71](../Bhagavadgita_6#p71).
 
-[^1154]: 246:4 I. e. the desire to be honoured or respected, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161).
+[^1154]: 246:4 I. e. the desire to be honoured or respected, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Sanatsu<i>g</i>âtîya, [p. 161](../Sanatsugatiya_2#p161).
 
 [^1155]: 246:5 Who does not care when death comes.
 
-[^1156]: 246:6 Cf. [p. 51](Bhagavadgita_2#p51) supra.
+[^1156]: 246:6 Cf. [p. 51](../Bhagavadgita_2#p51) supra.
 
-[^1157]: 246:7 Cf. Gîtâ for all this, pp. [101](Bhagavadgita_12#p101), [103](Bhagavadgita_13#p103), [125](Bhagavadgita_18#p125), &c.
+[^1157]: 246:7 Cf. Gîtâ for all this, pp. [101](../Bhagavadgita_12#p101), [103](../Bhagavadgita_13#p103), [125](../Bhagavadgita_18#p125), &c.
 
 [^1158]: 246:8 Cf. Ka<i>th</i>a, p. 101.
 
-[^1159]: 246:9 Nîlaka<i>nth</i>a says this means the constituents of the body. Ar<i>g</i>una Mi<i>s</i>ra says, ‘Prâ<i>n</i>a or life-wind,’ &c. They are seven. See gloss on <i>Kh</i>ândogya-upanishad, p. 441, and [p. 343](Anugita_27#p343) infra.
+[^1159]: 246:9 Nîlaka<i>nth</i>a says this means the constituents of the body. Ar<i>g</i>una Mi<i>s</i>ra says, ‘Prâ<i>n</i>a or life-wind,’ &c. They are seven. See gloss on <i>Kh</i>ândogya-upanishad, p. 441, and [p. 343](../Anugita_27#p343) infra.
 
-[^1160]: 246:10 Because, says Ar<i>g</i>una Mi<i>s</i>ra, he has no desire. Nîlaka<i>nth</i>a says this means an ascetic, sannyâsin. See [p. 257](Anugita_5#p257) infra, note [1](Anugita_5#fn1217).
+[^1160]: 246:10 Because, says Ar<i>g</i>una Mi<i>s</i>ra, he has no desire. Nîlaka<i>nth</i>a says this means an ascetic, sannyâsin. See [p. 257](../Anugita_5#p257) infra, note [1](../Anugita_5#fn1217).
 
-[^1161]: 247:1 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111), where <i>S</i>ankara explains the name to mean ‘what will not remain even till to-morrow.’
+[^1161]: 247:1 Cf. Gîtâ, [p. 111](../Bhagavadgita_15#p111), where <i>S</i>ankara explains the name to mean ‘what will not remain even till to-morrow.’
 
-[^1162]: 247:2 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109), and other passages.
+[^1162]: 247:2 Cf. Gîtâ, [p. 109](../Bhagavadgita_14#p109), and other passages.
 
 [^1163]: 247:3 Ar<i>g</i>una Mi<i>s</i>ra has a different reading, which means ‘particularly observing the evils of (the three kinds of) misery.’
 
 [^1164]: 247:4 Cf. Ka<i>th</i>a, p. 119; Mu<i>th</i>aka, pp. 267; and Mândukya, p. 371.
 
-[^1165]: 247:5 Cf. Gîtâ, pp. [104](Bhagavadgita_13#p104), p. [105](Bhagavadgita_13#p105), and Ka<i>th</i>a, p. 112.
+[^1165]: 247:5 Cf. Gîtâ, pp. [104](../Bhagavadgita_13#p104), p. [105](../Bhagavadgita_13#p105), and Ka<i>th</i>a, p. 112.
 
 [^1166]: 247:6 Nîlakan<i>th</i>a says this refers to the gross elements, the next expression to the subtle ones, and being free from these two, he is ‘devoid of qualities,’ viz. the three qualities.
 
-[^1167]: 247:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1167]: 247:7 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1168]: 247:8 I. e. those which cause bodily and mental activity.
 
 [^1169]: 247:9 Cf. Maitrî, p. 178. The original is the famous word ‘Nirvâ<i>n</i>a.’
 
-[^1170]: 247:10 Scil. derived from false knowledge, says Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says all impressions from outside oneself which are destroyed by those produced from concentration of mind, &c. See [p. 391](Anugita_36#p391) infra.
+[^1170]: 247:10 Scil. derived from false knowledge, says Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says all impressions from outside oneself which are destroyed by those produced from concentration of mind, &c. See [p. 391](../Anugita_36#p391) infra.
 
-[^1171]: 247:11 I. e. all those operations by which the internal man is rendered pure and free from all taints; see below, [p. 248](#p248), where Nîlaka<i>nth</i>a renders it as 'the performance of one's duty which is called penance.' But see, too, pp. [74](Bhagavadgita_7#p74), [119](Bhagavadgita_17#p119), [166](Sanatsugatiya_3#p166) supra. The meaning seems to be that the p. 247 man in question lets his senses work, but does not permit himself to be in any way identified with their operations. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
+[^1171]: 247:11 I. e. all those operations by which the internal man is rendered pure and free from all taints; see below, [p. 248](#p248), where Nîlaka<i>nth</i>a renders it as 'the performance of one's duty which is called penance.' But see, too, pp. [74](../Bhagavadgita_7#p74), [119](../Bhagavadgita_17#p119), [166](../Sanatsugatiya_3#p166) supra. The meaning seems to be that the p. 247 man in question lets his senses work, but does not permit himself to be in any way identified with their operations. Cf. Gîtâ, [p. 64](../Bhagavadgita_5#p64).
 
-[^1172]: 248:1 Cf. the expressions at Gîtâ, [p. 45](Bhagavadgita_2#p45). ‘Unmoving,’ which occurs at Î<i>s</i>a, p. 10, is there explained by <i>S</i>ankara to mean ‘always the same.’ The same sense is given by Mahîdhara. Weber's <i>S</i>atapatha, p. 980.
+[^1172]: 248:1 Cf. the expressions at Gîtâ, [p. 45](../Bhagavadgita_2#p45). ‘Unmoving,’ which occurs at Î<i>s</i>a, p. 10, is there explained by <i>S</i>ankara to mean ‘always the same.’ The same sense is given by Mahîdhara. Weber's <i>S</i>atapatha, p. 980.
 
 [^1173]: 248:2 ‘Perfect’ would seem to mean here free from all bonds or taints, the absolute.
 
 [^1174]: 248:3 I. e. sources of knowledge, says Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1175]: 248:4 Cf. as to ‘directing the self within the self,’ Gîtâ, [p. 69](Bhagavadgita_6#p69). Nîlaka<i>nth</i>a says, ‘paths, means of mental restraint; the self, mind; in the self, in the body.’
+[^1175]: 248:4 Cf. as to ‘directing the self within the self,’ Gîtâ, [p. 69](../Bhagavadgita_6#p69). Nîlaka<i>nth</i>a says, ‘paths, means of mental restraint; the self, mind; in the self, in the body.’
 
-[^1176]: 248:5 See [p. 247](#p247), note [^1166]. Nîlaka<i>nth</i>a's note there referred to occurs on this passage. See also [p. 166](Sanatsugatiya_3#p166), note [1](Sanatsugatiya_3#fn737) supra.
+[^1176]: 248:5 See [p. 247](#p247), note [^1166]. Nîlaka<i>nth</i>a's note there referred to occurs on this passage. See also [p. 166](../Sanatsugatiya_3#p166), note [1](../Sanatsugatiya_3#fn737) supra.
 
 [^1177]: 248:6 It is not easy to say what this science is. Is it Patañ<i>g</i>ali's system that is meant? No details occur to enable one to identify the ‘science.’ But, probably, no system is alluded to.
 
@@ -146,21 +146,21 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1179]: 248:8 Nîlaka<i>nth</i>a has a very forced explanation of the original word, p. 249 which also occurs further on; he takes the meaning to be, ‘he who is habituated to that by which the One is attained, viz. meditation.’
 
-[^1180]: 249:1 The original is the same as at Gîtâ, [p. 63](Bhagavadgita_4#p63).
+[^1180]: 249:1 The original is the same as at Gîtâ, [p. 63](../Bhagavadgita_4#p63).
 
 [^1181]: 249:2 That is to say, one who has got the power of concentrating his mind as he pleases; and the words ‘always concentrating’ &c., just before, would mean ‘one who always exercises that power.’
 
 [^1182]: 249:3 I. e. having perceived the self in the state of concentration, he sees the whole universe to be the self in this state when the concentration has ceased, Nîlaka<i>nth</i>a. Ar<i>g</i>una Mi<i>s</i>ra says, ‘having perceived the self at the time of concentration, he recognises it as the same at the time of direct perception,’ meaning, apparently, the time of final emancipation.
 
-[^1183]: 249:4 I. e. the reality, which in this simile forms the substratum of what are called the fibres; the simile is in the Ka<i>th</i>a-upanishad; see, too, Sanatsu<i>g</i>âtîya, [p. 176](Sanatsugatiya_4#p176).
+[^1183]: 249:4 I. e. the reality, which in this simile forms the substratum of what are called the fibres; the simile is in the Ka<i>th</i>a-upanishad; see, too, Sanatsu<i>g</i>âtîya, [p. 176](../Sanatsugatiya_4#p176).
 
 [^1184]: 249:5 I. e. on the supreme self, as above explained.
 
-[^1185]: 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290; and B<i>ri</i>hadâranyaka, p. 218; <i>Kh</i>ândogya, p. 523; Aitareya, p. 26; Kaushîtaki, p. 126.
+[^1185]: 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](../Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290; and B<i>ri</i>hadâranyaka, p. 218; <i>Kh</i>ândogya, p. 523; Aitareya, p. 26; Kaushîtaki, p. 126.
 
 [^1186]: 250:1 I do not quite understand the original. The other reading, dehatvam for devatvam, is not more intelligible. But comparing the two, the meaning seems to be, that the divinity of the gods, i. e. their qualities and powers as gods, are within his reach, if he likes to have them.
 
-[^1187]: 250:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107).
+[^1187]: 250:2 Cf. Gîtâ, [p. 107](../Bhagavadgita_14#p107).
 
 [^1188]: 250:3 Affection is the feeling that a thing is one's own; attachment is the feeling of liking one has for a thing acquired with difficulty, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -168,11 +168,11 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1190]: 250:5 Cf. Yoga-sûtra Bhâshya, p. 208.
 
-[^1191]: 250:6 Cf. Gîtâ, [p. 70](Bhagavadgita_6#p70). Despondency is the feeling that one has not acquired ‘concentration’ after much practice, and that therefore the practice should be abandoned.
+[^1191]: 250:6 Cf. Gîtâ, [p. 70](../Bhagavadgita_6#p70). Despondency is the feeling that one has not acquired ‘concentration’ after much practice, and that therefore the practice should be abandoned.
 
 [^1192]: 250:7 The other reading here may be rendered, ‘Then forthwith Indra himself esteems him highly.’
 
-[^1193]: 251:1 This is all rather mystical. Nîlaka<i>nth</i>a takes ‘city’ to mean body,' and ‘habitation’ to mean the mûlâdhâra, or other similar mystic centre within the body, where, according to the Yoga philosophy, the soul is sometimes to be kept with the life-winds, &c. ‘Thinking of a quarter,’ &c., he explains to mean ‘meditating on the instruction he has received after studying the Upanishads.’ I do not understand the passage well. ‘City’ for ‘body’ is a familiar use of the word. Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65). The original word for habitation occurs at Aitareya-upanishad, p. 199, where <i>S</i>ankara explains it to mean ‘seat.’ Three ‘seats’ are there mentioned,—the organs of sight, &c.; the mind; and the Âkâ<i>s</i>a in the heart. There, too, the body is described as a ‘city,’ and Anandagiri explains habitation to mean ‘seat of amusement or sport.’ Here, however, the meaning seems to be that one should work for concentration in the manner indicated, viz. first fix the mind on the city where one dwells, then on the particular part of it oftenest seen before, them one's own habitation, then the various parts of one's body, and finally one's own heart and the Brahman within it. Thus gradually circumscribed in its operations, the mind is better fitted for the final concentration on the Brahman. As to external and internal operations, cf. note [^1163], [p. 247](#p247). The perfect one is the Brahman. Cf. Sanatsu<i>g</i>âtîya, [p. 171](Sanatsugatiya_3#p171). As to âvasatha, which we have rendered by ‘habitation,’ see also Mâ<i>nth</i>ukya, p. 340 . By B<i>nth</i>hadâra<i>n</i>yaka, p. 751; and the alternative sense suggested by <i>S</i>ankara on the Aitareya, loc. cit.
+[^1193]: 251:1 This is all rather mystical. Nîlaka<i>nth</i>a takes ‘city’ to mean body,' and ‘habitation’ to mean the mûlâdhâra, or other similar mystic centre within the body, where, according to the Yoga philosophy, the soul is sometimes to be kept with the life-winds, &c. ‘Thinking of a quarter,’ &c., he explains to mean ‘meditating on the instruction he has received after studying the Upanishads.’ I do not understand the passage well. ‘City’ for ‘body’ is a familiar use of the word. Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65). The original word for habitation occurs at Aitareya-upanishad, p. 199, where <i>S</i>ankara explains it to mean ‘seat.’ Three ‘seats’ are there mentioned,—the organs of sight, &c.; the mind; and the Âkâ<i>s</i>a in the heart. There, too, the body is described as a ‘city,’ and Anandagiri explains habitation to mean ‘seat of amusement or sport.’ Here, however, the meaning seems to be that one should work for concentration in the manner indicated, viz. first fix the mind on the city where one dwells, then on the particular part of it oftenest seen before, them one's own habitation, then the various parts of one's body, and finally one's own heart and the Brahman within it. Thus gradually circumscribed in its operations, the mind is better fitted for the final concentration on the Brahman. As to external and internal operations, cf. note [^1163], [p. 247](#p247). The perfect one is the Brahman. Cf. Sanatsu<i>g</i>âtîya, [p. 171](../Sanatsugatiya_3#p171). As to âvasatha, which we have rendered by ‘habitation,’ see also Mâ<i>nth</i>ukya, p. 340 . By B<i>nth</i>hadâra<i>n</i>yaka, p. 751; and the alternative sense suggested by <i>S</i>ankara on the Aitareya, loc. cit.
 
 [^1194]: 251:2 Cf. Maitrî-upanishad, p. 100.
 
@@ -186,13 +186,13 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1199]: 253:1 Nîlaka<i>nth</i>a says the original means household effects; Ar<i>g</i>una Mi<i>s</i>ra says wealth, and adds, the mind is fixed on it from fear of others finding it out.
 
-[^1200]: 253:2 Cf. Sanatsugâtîya, [p. 152](Sanatsugatiya_2#p152). Here, however, the sense is the ordinary one.
+[^1200]: 253:2 Cf. Sanatsugâtîya, [p. 152](../Sanatsugatiya_2#p152). Here, however, the sense is the ordinary one.
 
 [^1201]: 253:3 I. e. all nature, that from which the universe is developed.
 
 [^1202]: 253:4 Cf. Ka<i>th</i>a, pp. 117-130. See <i>S</i>ânti Parvan (Moksha) CCXL, 16.
 
-[^1203]: 253:5 Cf. Gîtâ, [p. 103](Bhagavadgita_13#p103). The stanza occurs often in the Bhârata. This, says Ar<i>g</i>una Mi<i>s</i>ra, answers the question ‘how the soul carries the body.’ The soul can do that as it is all-pervading.
+[^1203]: 253:5 Cf. Gîtâ, [p. 103](../Bhagavadgita_13#p103). The stanza occurs often in the Bhârata. This, says Ar<i>g</i>una Mi<i>s</i>ra, answers the question ‘how the soul carries the body.’ The soul can do that as it is all-pervading.
 
 [^1204]: 253:6 The individual soul, which has acquired true knowledge, perceives the self to be distinct from the body. See [p. 249](#p249) supra.
 
@@ -202,20 +202,20 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1207]: 254:1 Ar<i>g</i>una Mi<i>s</i>ra says, the only questions among those stated above, which are of use for final emancipation, have been here answered. The others should be looked for elsewhere.
 
-[^1208]: 254:2 The original words here are identical with those at Gîtâ, [p. 139](Sanatsugatiya_Intro#p139).
+[^1208]: 254:2 The original words here are identical with those at Gîtâ, [p. 139](../Sanatsugatiya_Intro#p139).
 
 [^1209]: 254:3 I adopt Nîlaka<i>nth</i>a's reading here. Ar<i>g</i>una Mi<i>s</i>ra reads ‘vi<i>g</i>agdhena,’ which he explains to mean ‘one who eats kinds of food incompatible with one another.’ A third reading is ‘k<i>nth</i>taghnena,’ ungrateful!
 
-[^1210]: 254:4 See Gîtâ [p. 84](Bhagavadgita_9#p84).
+[^1210]: 254:4 See Gîtâ [p. 84](../Bhagavadgita_9#p84).
 
 [^1211]: 255:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 234, where <i>S</i>ankara quotes the original stanza, but with a reading which means, ‘And the gods are not pleased at mortals rising above (them).’ That is a better reading.
 
-[^1212]: 255:2 See Gîtâ, pp. [85](Bhagavadgita_9#p85), [86](Bhagavadgita_9#p86), where the words are nearly identical with those in the text.
+[^1212]: 255:2 See Gîtâ, pp. [85](../Bhagavadgita_9#p85), [86](../Bhagavadgita_9#p86), where the words are nearly identical with those in the text.
 
-[^1213]: 255:3 This is not quite clear. Does ‘determination regarding misery,’ the original of which is du<i>h</i>khasya ka vinir<i>n</i>aya<i>h</i>, mean ‘conclusion of all misery?’ Comp. Gîtâ, [p. 79](Bhagavadgita_8#p79).
+[^1213]: 255:3 This is not quite clear. Does ‘determination regarding misery,’ the original of which is du<i>h</i>khasya ka vinir<i>n</i>aya<i>h</i>, mean ‘conclusion of all misery?’ Comp. Gîtâ, [p. 79](../Bhagavadgita_8#p79).
 
 [^1214]: 255:4 Ar<i>g</i>una Mi<i>s</i>ra says this means assiduous.
 
-[^1215]: 255:5 I. e. wealth and so forth, says Nîlaka<i>nth</i>a. Cf. ‘human wealth’ at Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161).
+[^1215]: 255:5 I. e. wealth and so forth, says Nîlaka<i>nth</i>a. Cf. ‘human wealth’ at Sanatsu<i>g</i>âtîya, [p. 161](../Sanatsugatiya_2#p161).
 
 [^1216]: 255:6 Cf. Maitrî-upanishad, p. 154. The copy of Ar<i>g</i>una Mi<i>s</i>ra's p. 256 commentary which I have used, says that the Anugîtâ ends here. But, as we have shown, there is a verse coming further on, which <i>S</i>ankarâkârya cites as from the Anugîtâ. In the printed copies of the Mahâbhârata the next chapter is called the Brâhma<i>n</i>agîtâ.

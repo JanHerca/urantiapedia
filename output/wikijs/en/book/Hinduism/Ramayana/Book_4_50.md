@@ -162,7 +162,7 @@ But, though they tempt your longing eyes,
 Avoid to touch them, and be wise.
 For Rohitas, a guardian band
 Of fierce Gandharvas, round them stand,
-Who five bright sovereign lords [1](Book_4_50#fn714) obey,
+Who five bright sovereign lords [1](../Book_4_50#fn714) obey,
 In glory like the God of Day.
 Here by good deeds a home is won.
 With shapes like fire, the moon, the sun.
@@ -171,7 +171,7 @@ Dwell on the confines of the earth.
 There stay; beyond it, dark and drear,
 Lies the departed spirits' sphere,
 And, girt with darkness, far from bliss,
-Is Yama's sad metropolis. [2](Book_4_50#fn715)
+Is Yama's sad metropolis. [2](../Book_4_50#fn715)
 So far, my lords, o'er land and sea
 Vour destined course is plain and free.
 Beyond your steps you may not set,
@@ -278,8 +278,8 @@ A glorious palace glitters there,
 And round about it sweet birds sing
 Where the gay trees are blossoming:
 
-The home of Varun  [1b](Book_4_50#fn732) high souled-lord,
-Wrist-girded with his deadly cord. [2b](Book_4_50#fn733)
+The home of Varun  [1b](../Book_4_50#fn732) high souled-lord,
+Wrist-girded with his deadly cord. [2b](../Book_4_50#fn733)
 With ten tall stems, a palm between
 Meru and Asta's hill is seen:
 Pure silver from the base it springs,
@@ -288,7 +288,7 @@ Seek Rávanthe dame by brook,
 In pathless glen, in leafy nook
 On Meru's crest a hermit lives
 Bright with the light that penance gives:
-Sávarni  [3b](Book_4_50#fn734) is he named, renowned
+Sávarni  [3b](../Book_4_50#fn734) is he named, renowned
 As Brahmá's peer, with glory crowned.
 There bowing down in reverence speak
 And ask him of the dame you seek.
@@ -390,17 +390,17 @@ Of flower and leaf like flames of fire.
 All there sweet lives untroubled spend
 In bliss and joy that know not end,
 While pearl-decked maidens laugh, or sing
-To music of the silvery string.  [1b](Book_4_50#fn743)
+To music of the silvery string.  [1b](../Book_4_50#fn743)
 Still on your forward journey keep,
 And rest you by the northern deep,
 Where springing from the billows high
-Mount Somagiri  [2b](Book_4_50#fn744) seeks the sky,
+Mount Somagiri  [2b](../Book_4_50#fn744) seeks the sky,
 And lightens with perpetual glow
 The sunless realm that lies below.
 There, present through all life's extent,
 Dwells Brahmá Lord preeminent,
 And round the great God, manifest
-In Rudra  [3b](Book_4_50#fn745) forms high sages rest.
+In Rudra  [3b](../Book_4_50#fn745) forms high sages rest.
 Then turn, O Vánarsrch no more,
 Nor tempt the sunless, boundless shore.’
 
@@ -532,13 +532,13 @@ And gazed on Asta,  [^748] where the sun
 Sinks when his daily course is run
 Then from that noblest hill I fled
 And to the northern country sped,
-Saw Himavánt [1](Book_4_50#fn749) and Meru'Meru'sp,
+Saw Himavánt [1](../Book_4_50#fn749) and Meru'Meru'sp,
 And stood beside the northern deep.
 But when, by Báli's might oppressed,
 E'en in those wilds I could not rest,
 Came Hanumánwise and brave,
 And thus his prudent counsel gave:
-‘I told thee how Matanga  [2](Book_4_50#fn750) cursed
+‘I told thee how Matanga  [2](../Book_4_50#fn750) cursed
 Thy tyrant, that his head should burst
 In pieces, should be dare invade
 The precincts of that tranquil shade.
@@ -594,7 +594,7 @@ Well have we searched with toil and pain,
 And monstrous creatures have we slain
 But Hanumánoblest mind
 The Maithil lady yet will find;
-For to his quarter of the sky  [1b](Book_4_50#fn751)
+For to his quarter of the sky  [1b](../Book_4_50#fn751)
 The robber fiend was seen to fly,’
 
 
@@ -653,7 +653,7 @@ The careful search, the toil and pain.
 Through one dark grove they scarce could wind,
 So thick were creepers intertwined.
 There as they struggled through the wood
-Before their eyes an Asur  [1](Book_4_50#fn752) stood.
+Before their eyes an Asur  [1](../Book_4_50#fn752) stood.
 High as a towering hill, his pride
 The very Gods in heaven defied.
 When on the fiend their glances fell
@@ -781,7 +781,7 @@ And honeycomb and golden bees.
 Then as the Vánarser drew,
 A holy woman met their view.
 Around her form was duly tied
-A garment of the blackdeer's hide. [1](Book_4_60#fn753)
+A garment of the blackdeer's hide. [1](../Book_4_60#fn753)
 Pure votaress she shone with light
 Of fervent zeal and holy rite.
 Then Hanumánre the rest

@@ -35,15 +35,15 @@ dateCreated: 2025-2-12T12:11:59Z
 
 <span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
-The Lord says: [CC1](Notes_of_the_Chinese_Commentator#xref_CC1)
+The Lord says: [CC1](../Notes_of_the_Chinese_Commentator#xref_CC1)
 
-For seventeen generations I have been incarnated [1](Translators_Notes#xref_1) as a high mandarin, and I have never oppressed my people nor maltreated my subordinates. I have helped them in misfortune; I have rescued them from poverty; I have taken compassion on their orphans; I have forgiven their transgressions; I have extensively practised secret virtue (_yin chih_  [2](Translators_Notes#xref_2)) which is attuned to heaven above. [CC2](Notes_of_the_Chinese_Commentator#xref_CC2) If you are able to keep your hearts as I have kept mine, Heaven will surely bestow upon you blessings. Therefore, these are the instructions I declare unto mankind: [3](Translators_Notes#xref_3)
+For seventeen generations I have been incarnated [1](../Translators_Notes#xref_1) as a high mandarin, and I have never oppressed my people nor maltreated my subordinates. I have helped them in misfortune; I have rescued them from poverty; I have taken compassion on their orphans; I have forgiven their transgressions; I have extensively practised secret virtue (_yin chih_  [2](../Translators_Notes#xref_2)) which is attuned to heaven above. [CC2](../Notes_of_the_Chinese_Commentator#xref_CC2) If you are able to keep your hearts as I have kept mine, Heaven will surely bestow upon you blessings. Therefore, these are the instructions I declare unto mankind: [3](../Translators_Notes#xref_3)
 
-He who wants to expand the field of happiness, [4](Translators_Notes#xref_4) let him lay the foundation of it on the bottom of his heart. [CC7](Notes_of_the_Chinese_Commentator#xref_CC7)
+He who wants to expand the field of happiness, [4](../Translators_Notes#xref_4) let him lay the foundation of it on the bottom of his heart. [CC7](../Notes_of_the_Chinese_Commentator#xref_CC7)
 
-Practise benevolence [5](Translators_Notes#xref_5) wherever you find an opportunity, and let your deeds of merit be unheeded (_yin_).
+Practise benevolence [5](../Translators_Notes#xref_5) wherever you find an opportunity, and let your deeds of merit be unheeded (_yin_).
 
-Benefit all creatures [6](Translators_Notes#xref_6); benefit the people. [CC8](Notes_of_the_Chinese_Commentator#xref_CC8)
+Benefit all creatures [6](../Translators_Notes#xref_6); benefit the people. [CC8](../Notes_of_the_Chinese_Commentator#xref_CC8)
 
 <span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
@@ -53,13 +53,13 @@ Be honest like Heaven in conducting your affairs.
 
 Compassionate and auspicious, the state government must be devoted to the salvation of the people.
 
-Let your heart be impartial [7](Translators_Notes#xref_7) and wide of range. [CC9](Notes_of_the_Chinese_Commentator#xref_CC9)
+Let your heart be impartial [7](../Translators_Notes#xref_7) and wide of range. [CC9](../Notes_of_the_Chinese_Commentator#xref_CC9)
 
-Fulfil the four obligations [8](Translators_Notes#xref_8); impartially observe the three doctrines. [9](Translators_Notes#xref_9)
+Fulfil the four obligations [8](../Translators_Notes#xref_8); impartially observe the three doctrines. [9](../Translators_Notes#xref_9)
 
-Be faithful and reverential to the ruler. Be filial and obedient to parents. [CC10](Notes_of_the_Chinese_Commentator#xref_CC10) Be congenial and friendly to brothers. Be sincere in your intercourse with friends. [10](Translators_Notes#xref_10)
+Be faithful and reverential to the ruler. Be filial and obedient to parents. [CC10](../Notes_of_the_Chinese_Commentator#xref_CC10) Be congenial and friendly to brothers. Be sincere in your intercourse with friends. [10](../Translators_Notes#xref_10)
 
-Let some worship the Truthful One, [11](Translators_Notes#xref_11) and revere the Northern Constellation, while others bow before the Buddha and recite sutras. [CC12](Notes_of_the_Chinese_Commentator#xref_CC12)
+Let some worship the Truthful One, [11](../Translators_Notes#xref_11) and revere the Northern Constellation, while others bow before the Buddha and recite sutras. [CC12](../Notes_of_the_Chinese_Commentator#xref_CC12)
 
 By discoursing on morality and righteousness, convert both the cunning and the dull. By preaching on the canonical books and histories, enlighten the ignorant and the benighted.
 
@@ -85,7 +85,7 @@ Let measures and scales be accurate; and be neither chary in selling nor exactin
 
 Treat your servants with generosity and consideration. Do not expect perfection nor be too strict in your demands.
 
-Publish and make known sutras [12](Translators_Notes#xref_12) and tracts. Build and repair temples and shrines.
+Publish and make known sutras [12](../Translators_Notes#xref_12) and tracts. Build and repair temples and shrines.
 
 Distribute medicine to alleviate the suffering of the sick. With tea or water relieve the distress of the thirsty.
 
@@ -93,19 +93,19 @@ Light lanterns in the night to illuminate where people walk. Keep boats on river
 
 <span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
-Buy captive animals and give them freedom. [13](Translators_Notes#xref_13) [CC13](Notes_of_the_Chinese_Commentator#xref_CC13)
+Buy captive animals and give them freedom. [13](../Translators_Notes#xref_13) [CC13](../Notes_of_the_Chinese_Commentator#xref_CC13)
 
-How commendable is abstinence [14](Translators_Notes#xref_14) that dispenses with the butcher!
+How commendable is abstinence [14](../Translators_Notes#xref_14) that dispenses with the butcher!
 
 While walking be mindful of worms and ants.
 
 Be cautious with fire and do not set mountain woods or forests ablaze.
 
-Do not go into the mountain to catch birds in nets, [15](Translators_Notes#xref_15) nor to the water to poison fishes and minnows.
+Do not go into the mountain to catch birds in nets, [15](../Translators_Notes#xref_15) nor to the water to poison fishes and minnows.
 
 Do not butcher the ox that plows thy field.
 
-Do not throw away paper that is written on. [16](Translators_Notes#xref_16)
+Do not throw away paper that is written on. [16](../Translators_Notes#xref_16)
 
 Do not scheme for others' property.
 
@@ -129,11 +129,11 @@ Never take advantage of your power, nor disgrace the good and law-abiding.
 
 Presume not, ye that are rich; nor deceive the needy and suffering.
 
-While attending to your duty, [17](Translators_Notes#xref_17) be humble and modest.
+While attending to your duty, [17](../Translators_Notes#xref_17) be humble and modest.
 
 Live in concord with your relatives and clansmen.
 
-Let go hatred [18](Translators_Notes#xref_18) and forgive malice.
+Let go hatred [18](../Translators_Notes#xref_18) and forgive malice.
 
 Those that are good, seek ye for friends; that will help you to practise virtue with body and soul. Those that are wicked, keep at a distance; it will prevent evil from approaching you.
 
@@ -157,13 +157,13 @@ Expound moral maxims to correct the people's faults.
 
 Supply the means to give instruction to people of talent.
 
-Let your work conform to Heaven's reason, [CC14](Notes_of_the_Chinese_Commentator#xref_CC14) and let your speech express humaneness.
+Let your work conform to Heaven's reason, [CC14](../Notes_of_the_Chinese_Commentator#xref_CC14) and let your speech express humaneness.
 
-Keep the ancient sages before your eyes even when at supper or while looking over the fence. [19](Translators_Notes#xref_19)
+Keep the ancient sages before your eyes even when at supper or while looking over the fence. [19](../Translators_Notes#xref_19)
 
-Be mindful when you are alone [14](Translators_Notes#xref_14) in the shadow of your coverlet. [20](Translators_Notes#xref_20)
+Be mindful when you are alone [14](../Translators_Notes#xref_14) in the shadow of your coverlet. [20](../Translators_Notes#xref_20)
 
-Anything evil refrain ye from doing; [CC14](Notes_of_the_Chinese_Commentator#xref_CC14) all good deeds do! [21](Translators_Notes#xref_21) So will you be released forever from the influence of evil stars, and always be encompassed by good guardian angels. [22](Translators_Notes#xref_22)
+Anything evil refrain ye from doing; [CC14](../Notes_of_the_Chinese_Commentator#xref_CC14) all good deeds do! [21](../Translators_Notes#xref_21) So will you be released forever from the influence of evil stars, and always be encompassed by good guardian angels. [22](../Translators_Notes#xref_22)
 
 Rewards may be immediate, and you will receive them in person, or rewards may be remote, and will devolve upon your posterity.
 

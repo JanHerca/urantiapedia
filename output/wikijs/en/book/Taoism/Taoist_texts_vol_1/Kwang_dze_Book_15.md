@@ -90,7 +90,7 @@ There is the vulgar saying, ‘The multitude of men consider gain to be the most
 
 ## Footnotes
 
-[^599]: 363:1 See pp. [146](Kwang_dze_Intro#p146), [147](Kwang_dze_Intro#p147).
+[^599]: 363:1 See pp. [146](../Kwang_dze_Intro#p146), [147](../Kwang_dze_Intro#p147).
 
 [^600]: 363:2 As did Shän-thû Tî. See in Book VI, par. 3.
 

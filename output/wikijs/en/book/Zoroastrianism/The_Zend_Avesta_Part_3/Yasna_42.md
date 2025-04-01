@@ -78,4 +78,4 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> points to a migration of Zoroastrianism, coming West (?).
 
-[^1226]: 291:4 For Yasna XLIII-LI, see above, pp. [98](Gathas_43#p98)\-[187](Gathas_51#p187).
+[^1226]: 291:4 For Yasna XLIII-LI, see above, pp. [98](../Gathas_43#p98)\-[187](../Gathas_51#p187).

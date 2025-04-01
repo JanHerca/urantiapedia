@@ -64,7 +64,7 @@ P. 210, note 1. Read twice,—‘<i>s</i>astra’ for ‘<i>s</i>âstra.’
 
 P. 221, l. 4 seq. Instead of,—‘Before the Rakshas (come),’ B. R.'s Dict. interprets, perhaps rightly, ‘Safely from the Rakshas.’
 
-P. 263, par. 27.—These same deities . . .; for an improved rendering, cf. [IV, 4, 4, 5](Book_2_4_4#v4_4_4_5)\-[6](Book_2_4_4#v4_4_4_6).
+P. 263, par. 27.—These same deities . . .; for an improved rendering, cf. [IV, 4, 4, 5](../Book_2_4_4#v4_4_4_5)\-[6](../Book_2_4_4#v4_4_4_6).
 
 P. 308, l. 21. For,—‘and in pressing,’ read ‘to wit, in pressing.’
 

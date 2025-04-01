@@ -69,7 +69,7 @@ Each Vánar lord with all his train,
 Each ranger of this wild domain,
 And Angad here, thy darling, see
 A governor and friend in thee.
-These twain [1b](Book_4_30#fn604) whose hearts with sorrow ache
+These twain [1b](../Book_4_30#fn604) whose hearts with sorrow ache
 The funeral rites shall undertake,
 And Angad by his mother's care
 Be king, his father's rightful heir.
@@ -365,7 +365,7 @@ The sacrifice of deadly fight.
 Wherein the shaft by Ráma sped
 Supplied the place of water shed,
 How hast thou bathed thee at the end
-Without thy wife her aid to lend?  [1](Book_4_30#fn610)
+Without thy wife her aid to lend?  [1](../Book_4_30#fn610)
 Why do mine eyes no more behold
 Thy bright beloved chain of gold,
 Which, pleased with thee, the Immortals' King
@@ -1056,7 +1056,7 @@ And dwells within his palace freed
 
 From every care of pressing need
 Full is the moon, and fierce and strong
-Impetuous Sarjú  [1b](Book_4_30#fn629) roars along
+Impetuous Sarjú  [1b](../Book_4_30#fn629) roars along
 As though Ayodhyá's crowds ran out
 To greet their king with echoing shout.
 In this sweet time of ease and rest
@@ -1086,7 +1086,7 @@ My succour, or deny the debt
 I know his generous heart, and hence
 Await the time with confidence
 When he his friendly zeal will show,
-And brooks again untroubled flow.'  [2b](Book_4_30#fn630)
+And brooks again untroubled flow.'  [2b](../Book_4_30#fn630)
 
 
 
@@ -1195,7 +1195,7 @@ His hest the imperial Vanar gave:
 &nbsp;&nbsp;&nbsp;&nbsp;'Go, Nila, to the distant hosts
 That keep in arms their several posts,
 And all the armies that protect
-The quarters,  [1](Book_4_30#fn632) with their chiefs, collect.
+The quarters,  [1](../Book_4_30#fn632) with their chiefs, collect.
 To all the luminaries placed
 In intermediate regions haste,
 And bid each captain rise and lead

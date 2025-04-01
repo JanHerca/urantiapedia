@@ -193,7 +193,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^98]: 41:4 For the connection of these deities with the third layer, and the p. 42 air, see also VI, 2, 3, 3. Vi<i>s</i>vakarman is likewise the deity by which the Vi<i>s</i>va<i>g</i>yotis-brick, representing Vâyu (the wind), the regent of the air-world, is settled; see [VIII, 3, 2, 3](Book_4_8_3#v8_3_2_3).
+[^98]: 41:4 For the connection of these deities with the third layer, and the p. 42 air, see also VI, 2, 3, 3. Vi<i>s</i>vakarman is likewise the deity by which the Vi<i>s</i>va<i>g</i>yotis-brick, representing Vâyu (the wind), the regent of the air-world, is settled; see [VIII, 3, 2, 3](../Book_4_8_3#v8_3_2_3).
 
 [^99]: 42:1 See part iii, p. 155, note 8.
 
@@ -201,17 +201,17 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^101]: 43:2 Viz. Vâ<i>g</i>. S. XII, 55 (<i>Ri</i>g-veda S. VIII, 69, 3), ‘At his birth the well-like milking, speckled ones mix the Soma, the clans of the gods in the three spheres of the heavens.’ See part iii, p. 307, note 2.
 
-[^102]: 43:3 [VIII, 7, 4, 1](Book_4_8_7#v8_7_4_1) seq.
+[^102]: 43:3 [VIII, 7, 4, 1](../Book_4_8_7#v8_7_4_1) seq.
 
-[^103]: 43:4 The five Di<i>s</i>yâs are placed on the spines in the four directions at the reta<i>h</i>si<i>k</i> range, just over where the five Vai<i>s</i>vadevî bricks were placed in the second layer (see the sketch, [p. 24](Book_4_8_2#p24)). Between them and the central (naturally-perforated) brick there is thus an p. 44 empty space a foot square, and the two southern Di<i>s</i>yâs are half-bricks lying north and south of each other.
+[^103]: 43:4 The five Di<i>s</i>yâs are placed on the spines in the four directions at the reta<i>h</i>si<i>k</i> range, just over where the five Vai<i>s</i>vadevî bricks were placed in the second layer (see the sketch, [p. 24](../Book_4_8_2#p24)). Between them and the central (naturally-perforated) brick there is thus an p. 44 empty space a foot square, and the two southern Di<i>s</i>yâs are half-bricks lying north and south of each other.
 
 [^104]: 44:1 See VI, 2, 3, 4. The second naturally-perforated brick represents the air-world with which Vâyu, the wind, is most closely associated.
 
 [^105]: 44:2 That is to say, he laid them down on the site of the altar, before the first layer was commenced, viz. the darbha-bunch in the centre of the ‘body’ of the altar, where the two spines (anûka) intersect each other (VII, 2, 3, 1 seqq.); and the clod-bricks (logesh<i>t</i>akâ) on the four ends of the two spines (VII, 3, 1, 23 seqq.), that is, in the middle of each of the four sides of the square of which the body' consists.
 
-[^106]: 44:3 The symbolic interpretation here seems somewhat confused, inasmuch as the Di<i>s</i>yâs, which are now apparently identified with the sun, have just been stated to represent the regions. At VI, 7, 1, 17 the sun was represented as the central point of the universe to which these three worlds are linked by means of the quarters (as by the strings of a scale). The clod-bricks, on the other hand, were indeed, in VII, 3, I, 13, identified with the regions (quarters); and the bunch of grass, being laid down in the centre, might be regarded as marking the fifth region, that upwards from here. Cf. [IX, 5, 1, 36](Book_4_9_5#v9_5_1_36).
+[^106]: 44:3 The symbolic interpretation here seems somewhat confused, inasmuch as the Di<i>s</i>yâs, which are now apparently identified with the sun, have just been stated to represent the regions. At VI, 7, 1, 17 the sun was represented as the central point of the universe to which these three worlds are linked by means of the quarters (as by the strings of a scale). The clod-bricks, on the other hand, were indeed, in VII, 3, I, 13, identified with the regions (quarters); and the bunch of grass, being laid down in the centre, might be regarded as marking the fifth region, that upwards from here. Cf. [IX, 5, 1, 36](../Book_4_9_5#v9_5_1_36).
 
-[^107]: 44:4 The lotus-leaf is placed in the centre of the altar when the first layer is about to be laid down. See [VII, 4, 1, 7](Book_4_8_4#v8_4_1_7) seqq., where p. 45 it is explained as representing the foundation of the fire-altar, or rather, the womb whence Agni is born.
+[^107]: 44:4 The lotus-leaf is placed in the centre of the altar when the first layer is about to be laid down. See [VII, 4, 1, 7](../Book_4_8_4#v8_4_1_7) seqq., where p. 45 it is explained as representing the foundation of the fire-altar, or rather, the womb whence Agni is born.
 
 [^108]: 45:1 That is, not separated therefrom by other special bricks; though the full space of one brick is left between the Di<i>s</i>yâs and the central brick. Perhaps, however, ‘anantarhita’ here means ‘immediately after.’
 
@@ -219,7 +219,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^110]: 45:3 Uttara seems here and elsewhere to have a double meaning, viz. that of subsequent, and upper, or left, inasmuch as looking towards these bricks from the centre of the altar, they are placed to the left of the particular section of the anûkas.
 
-[^111]: 45:4 See [p. 26](Book_4_8_2#p26), note [3](Book_4_8_2#fn81).
+[^111]: 45:4 See [p. 26](../Book_4_8_2#p26), note [3](../Book_4_8_2#fn81).
 
 [^112]: 45:5 The metres are commonly represented as cattle.
 
@@ -229,7 +229,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^115]: 47:2 Though, properly speaking, the Vi<i>s</i>va<i>g</i>yotis lies close to only one of the Di<i>s</i>yâs, viz. the eastern one, it may at any rate be said to lie close to the range of the Di<i>s</i>yâs. Here, too, the sense ‘immediately after, not separated from them in respect of time,’ would suit even better.
 
-[^116]: 47:3 See [VIII, 3, 1, 4](Book_4_8_3#v8_3_1_4) with note.
+[^116]: 47:3 See [VIII, 3, 1, 4](../Book_4_8_3#v8_3_1_4) with note.
 
 [^117]: 48:1
   ![THE CENTRAL PART OF THE THIRD LAYER.](/image/book/Hinduism/The_Satapatha_Brahmana/04800.jpg)
@@ -254,10 +254,10 @@ These two <i>Ri</i>tavyâs are placed beside (east of) the Vi<i>s</i>va<i>g</i>y
 
 [^126]: 57:2 The formulas used with these bricks, Vâ<i>g</i>. S. XIV, 11-16, constitute the first anuvâka of the texts relating to the third layer (XIV, II-22).
 
-[^127]: 57:3 Viz. ten Prâ<i>n</i>abh<i>ri</i>ts, see [VIII, 3, 2, 14](Book_4_8_3#v8_3_2_14).
+[^127]: 57:3 Viz. ten Prâ<i>n</i>abh<i>ri</i>ts, see [VIII, 3, 2, 14](../Book_4_8_3#v8_3_2_14).
 
-[^128]: 58:1 Whilst, in laying down the Lokamp<i>ri</i><i>n</i>âs of the first and second layers, he started from the south-east and south-west corners respectively, in the third layer he starts from the left hip (or north-west corner) of the altar, filling up the available spaces in two turns, in sunwise fashion. Cf. [p. 22](Book_4_8_1#p22), note [1](Book_4_8_2#fn73); and [p. 41](Book_4_8_2#p41), note [1](Book_4_8_2#fn94).
+[^128]: 58:1 Whilst, in laying down the Lokamp<i>ri</i><i>n</i>âs of the first and second layers, he started from the south-east and south-west corners respectively, in the third layer he starts from the left hip (or north-west corner) of the altar, filling up the available spaces in two turns, in sunwise fashion. Cf. [p. 22](../Book_4_8_1#p22), note [1](../Book_4_8_2#fn73); and [p. 41](../Book_4_8_2#p41), note [1](../Book_4_8_2#fn94).
 
-[^129]: 58:2 See [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^129]: 58:2 See [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^130]: 58:3 See [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^130]: 58:3 See [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

@@ -236,15 +236,15 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^394]: 190:1 That is, the ‘invincible’ brick, being the first brick which is made, and that by the Sacrificer's chief wife (mahishî) herself. See VI, 5, 3, seq.—Sâya<i>n</i>a remarks,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat; puraiva lokâpavarga kala (? kâle or kâlât) s<i>ri</i>sh<i>t</i>â<i>m</i> satîm. Though in the cosmogonic account, [VI, 1, 1, 13](Book_3_6_1#v6_1_1_13) seq., the earth is rather said to consist of nine different elements, the ‘invincible’ brick is commonly identified with the earth. See [VI, 5, 3, 1](Book_3_6_5#v6_5_3_1). For the (eightfold) compositions of the clay used for the fire-pan and bricks, see [VI, 5, 1, 1](Book_3_6_5#v6_5_1_1) seq.
+[^394]: 190:1 That is, the ‘invincible’ brick, being the first brick which is made, and that by the Sacrificer's chief wife (mahishî) herself. See VI, 5, 3, seq.—Sâya<i>n</i>a remarks,—tâm âhuti<i>m</i> hutvâ imâm p<i>ri</i>thivîm âdhîya<i>g</i><i>ñ</i>ikîm ash<i>t</i>adhâvihitâm m<i>ri</i>tsikatâbhi<i>h</i> p<i>ri</i>thivyavairiya<i>m</i> (? p<i>ri</i>thivyaṅgair imâm) ash<i>t</i>avihitâtmikâm ashâ<i>dh</i>âm ish<i>t</i>akâm p. 191 apa<i>s</i>yat; puraiva lokâpavarga kala (? kâle or kâlât) s<i>ri</i>sh<i>t</i>â<i>m</i> satîm. Though in the cosmogonic account, [VI, 1, 1, 13](../Book_3_6_1#v6_1_1_13) seq., the earth is rather said to consist of nine different elements, the ‘invincible’ brick is commonly identified with the earth. See [VI, 5, 3, 1](../Book_3_6_5#v6_5_3_1). For the (eightfold) compositions of the clay used for the fire-pan and bricks, see [VI, 5, 1, 1](../Book_3_6_5#v6_5_1_1) seq.
 
 [^395]: 191:1 That is to say, the offering-spoon is filled by eight dippings with the dipping-spoon.
 
 [^396]: 191:2 That is, by means of its constituent elements;—p<i>ri</i>thivîm ûrdhvâ<i>m</i> rûpair m<i>ri</i>dâdibhir udgamayati, Sây.
 
-[^397]: 192:1 See [VI, 1, 1, 9](Book_3_6_1#v6_1_1_9).
+[^397]: 192:1 See [VI, 1, 1, 9](../Book_3_6_1#v6_1_1_9).
 
-[^398]: 192:2 [VI, 1, 1, 10](Book_3_6_1#v6_1_1_10).—The construction of the text is somewhat peculiar,—what the author means to say seems to be,—the threefold science (the Veda) with which Pra<i>g</i>âpati entered the waters is the same as the prayers now offered up.
+[^398]: 192:2 [VI, 1, 1, 10](../Book_3_6_1#v6_1_1_10).—The construction of the text is somewhat peculiar,—what the author means to say seems to be,—the threefold science (the Veda) with which Pra<i>g</i>âpati entered the waters is the same as the prayers now offered up.
 
 [^399]: 194:1 See III, 5, 3, 12, where ‘b<i>ri</i>hat vipa<i>s</i><i>k</i>it’ (in the same formula) is explained as referring to the sacrifice.
 
@@ -266,7 +266,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^408]: 198:3 This final clause with ‘vai’ supplies the reason why Agni entered the womb, viz. because otherwise he could not be born;—just as the preceding clause with ‘vai’ (the womb does not injure the child) supplies the reason why reed grass is used; whilst the preceding clauses explain how the reed comes to be the womb whence Agni sprung.
 
-[^409]: 199:1 See [VI, 1, 1, 11](Book_3_6_1#v6_1_1_11).
+[^409]: 199:1 See [VI, 1, 1, 11](../Book_3_6_1#v6_1_1_11).
 
 [^410]: 199:2 Dakshi<i>n</i>ato vai v<i>ri</i>shâ yoshâm upa<i>s</i>ete;—compare: uttarato hi strî pumâ<i>m</i>sam upa<i>s</i>ete, I, 1, 1, 20; II, 5, 2, 17.
 
@@ -274,7 +274,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^412]: 200:2 Prâde<i>s</i>amâtra<i>m</i> hîda<i>m</i> mukham abhi vâg vadati, mukham abhi var<i>n</i>âtmikâ vâg vadati vâktâstis (?) tasyâ<i>s</i> <i>k</i>a prâde<i>s</i>amâtratvam adhyâtmâvadhâritam atoऽtrâpi prâde<i>s</i>amâtrâ . . . yuktâ, Sây.
 
-[^413]: 200:3 According to Sâya<i>n</i>a the tip of the tongue is indicated (as [VII, 2, 3, 3](Book_3_7_2#v7_2_3_3); [2, 4, 14](Book_3_7_2#v7_2_4_14), ‘vâ<i>k</i>’ means ‘mouth’); but perhaps it is rather sharp, vituperative speech addressed to another person that is intended here.
+[^413]: 200:3 According to Sâya<i>n</i>a the tip of the tongue is indicated (as [VII, 2, 3, 3](../Book_3_7_2#v7_2_3_3); [2, 4, 14](../Book_3_7_2#v7_2_4_14), ‘vâ<i>k</i>’ means ‘mouth’); but perhaps it is rather sharp, vituperative speech addressed to another person that is intended here.
 
 [^414]: 200:4 Sâya<i>n</i>a identifies the divine speech with Sa<i>m</i>sk<i>ri</i>t, and the human speech with the Apabhra<i>m</i><i>s</i>as, or low dialects (? mânusha<i>m</i> <i>k</i>âpâtro<i>s</i>am, MS.).
 
@@ -298,7 +298,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^424]: 208:3 That is, he pulls up its head (?); ‘he rouses it, shakes it up,’ St. Petersb. Dict.—Sâya<i>n</i>a, on the other hand, in accordance with Kâty. XVI, 2, 18, interprets ‘unm<i>ri</i><i>s</i>ati’ by ‘he holds his hand over its back,’—p<i>ri</i>sh<i>th</i>asyopari pâ<i>n</i>i<i>m</i> dhârayati.
 
-[^425]: 209:1 For the construction, see on [paragraph 6](Book_3_6_3#v6_3_3_6), [p. 205](Book_3_6_3#p205), note \*[1](Book_3_6_3#fn419)\*.
+[^425]: 209:1 For the construction, see on [paragraph 6](../Book_3_6_3#v6_3_3_6), [p. 205](../Book_3_6_3#p205), note \*[1](../Book_3_6_3#fn419)\*.
 
 [^426]: 209:2 Literally, to step off to.
 

@@ -188,7 +188,7 @@ Of all his chiefs the mightiest one.
 
 ## CANTO XLIII.: THE RUIN OF THE TEMPLE.
 
-The Wind-God's son a temple  [1b](Book_5_50#fn880) scaled
+The Wind-God's son a temple  [1b](../Book_5_50#fn880) scaled
 Which, by his fury unassailed,
 High as the hill of Meru, stood
 Amid the ruins of the wood;
@@ -278,7 +278,7 @@ There crushed upon the trampled grass
 He lay an undistinguished mass,
 The foeman's eye no more could see
 His head or chest or arm or knee.
-And bow and car and steeds [1](Book_5_50#fn882) and store
+And bow and car and steeds [1](../Book_5_50#fn882) and store
 Of glittering; shafts were seen no more.
 &nbsp;&nbsp;&nbsp;&nbsp;When Jambumah's death he heard,
 King Rávan's heart with rage was stirred
@@ -315,7 +315,7 @@ The rushing chariots of his foes,
 The mighty Vánar undismayed
 Amid his archer foemen played,
 As plays the frolic wind on high
-Mid bow-armed  [1b](Book_5_50#fn883) clouds that fill the sky,
+Mid bow-armed  [1b](../Book_5_50#fn883) clouds that fill the sky,
 He raised a mighty roar and yell
 That fear on all the army fell,
 And then, his warrior soul aglow
@@ -494,7 +494,7 @@ About his limbs to hold him fast.
 They drew the ropes round feet and wrists;
 They beat him with their hands and fists.
 And dragged him as they strained the cord
-With shouts of triumph to their lord.  [1](Book_5_50#fn886)
+With shouts of triumph to their lord.  [1](../Book_5_50#fn886)
 
 ## CANTO XLIX.: RÁVAN.
 
@@ -525,7 +525,7 @@ Behind the monarch stood the best
 Of beauteous women gaily dressed.
 And each her giant master fanned,
 Or waved a chourie in her hand.
-Four noble courtiers  [1b](Book_5_50#fn888) wise and good
+Four noble courtiers  [1b](../Book_5_50#fn888) wise and good
 In counsel, near the monarch stood,
 As the four oceans ever stand
 About the sea-encompassed land.
@@ -594,7 +594,7 @@ No fiend, no God of heavenly kind
 With bond or chain these herbs may bind.
 The Eternal Sire himself of old
 Vouchsafed the boon that makes me bold,
-From Brahmá's magic shaft released  [1](Book_5_60#fn891)
+From Brahmá's magic shaft released  [1](../Book_5_60#fn891)
 I knew the captor's power had ceased,
 The fancied bonds I freely brooked,
 And thus upon the king have looked.

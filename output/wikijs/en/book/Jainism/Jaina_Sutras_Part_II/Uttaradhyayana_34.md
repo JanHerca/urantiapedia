@@ -232,7 +232,7 @@ Thus I say.
 
 [^575]: 201:2 The consequence of this statement appears to be that at the expiration of the Lê<i>s</i>yâ a new one is produced. The commentators, however, are not explicit on this head.
 
-[^576]: 201:3 About the former years, see above, [p. 16](Uttaradhyayana_3#p16), note [1](Uttaradhyayana_3#fn88).
+[^576]: 201:3 About the former years, see above, [p. 16](../Uttaradhyayana_3#p16), note [1](../Uttaradhyayana_3#fn88).
 
 [^577]: 202:1 This verse seems to lay down the duration of the Lê<i>s</i>yâ in the case of common gods, while the next one applies to Bhavanapatis, &c.
 

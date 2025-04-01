@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 7\. “If one have eaten, and forgotten, and not blessed?” The school of Shammai say, “he must return to his place and bless.” But the school of Hillel say, “he may bless in the place where he recollects.” “How long is one obliged to bless?” “Until the food in his stomach be digested.”
 
-8\. “If wine came to the company, and there is but one goblet?” The school of Shammai say “that one must bless the wine and then bless the food.” But the school of Hillel say “that one must bless the food and then bless the wine. Men must answer ”Amen“ when an Israelite blesses; but they must not answer ”Amen" when a Samaritan blesses, until the whole [1](Treatise1_9#fn31) blessing be heard.
+8\. “If wine came to the company, and there is but one goblet?” The school of Shammai say “that one must bless the wine and then bless the food.” But the school of Hillel say “that one must bless the food and then bless the wine. Men must answer ”Amen“ when an Israelite blesses; but they must not answer ”Amen" when a Samaritan blesses, until the whole [1](../Treatise1_9#fn31) blessing be heard.
 
 <figure class="table chapter-navigator">
   <table>

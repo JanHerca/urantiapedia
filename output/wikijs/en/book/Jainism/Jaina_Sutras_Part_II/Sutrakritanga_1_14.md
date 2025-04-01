@@ -134,6 +134,6 @@ Thus I say.
 
 [^965]: 327:3 Vibha<i>g</i>yavâda. The saptabhaṅgînaya or seven modes of assertion are intended by the expression in the text. See Bhandarkar, Report, 1883-84, p. 95.
 
-[^966]: 327:4 See above, [p. 304](Sutrakritanga_1_9#p304), note [4](Sutrakritanga_1_9#fn900). The first and fourth kinds of speech are here intended.
+[^966]: 327:4 See above, [p. 304](../Sutrakritanga_1_9#p304), note [4](../Sutrakritanga_1_9#fn900). The first and fourth kinds of speech are here intended.
 
 [^967]: 328:1 Samâhi = samâdhi.

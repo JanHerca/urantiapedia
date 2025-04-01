@@ -213,8 +213,8 @@ There will I enter in, and through
 The tangled shade my search renew.
 Be glory to the host on high,
 The Sun and Moon who light the sky,
-The Vasus  [1](Book_5_20#fn822) and the Maruts'  [2](Book_5_20#fn823) train,
-Ádityas  [3](Book_5_20#fn824) and the As'vins  [4](Book_5_20#fn825) twain.
+The Vasus  [1](../Book_5_20#fn822) and the Maruts'  [2](../Book_5_20#fn823) train,
+Ádityas  [3](../Book_5_20#fn824) and the As'vins  [4](../Book_5_20#fn825) twain.
 So may I win success, and bring
 The lady back with triumphing,’
 
@@ -240,7 +240,7 @@ Where'er a startled peacock flew,
 The gaily coloured branches shed
 Their flowery rain upon his head
 That clung around the Vánar till
-He seemed a blossom-covered hill,  [1](Book_5_20#fn826)
+He seemed a blossom-covered hill,  [1](../Book_5_20#fn826)
 The earth, on whose fair bosom lay
 The flowers that fell from every spray,
 Was glorious as a lovely maid
@@ -443,9 +443,9 @@ With scented oil a soft light shed.  [^830]
 He, while the flame of fierce desire
 Burnt in his eyes like kindled fire,
 Seemed Love incarnate in his pride,
-His bow and arrows laid aside.  [1](Book_5_20#fn831)
+His bow and arrows laid aside.  [1](../Book_5_20#fn831)
 His robe, from spot and blemish free
-Like Amrit foamy from the sea,  [2](Book_5_20#fn832)
+Like Amrit foamy from the sea,  [2](../Book_5_20#fn832)
 Hung down in many a loosened fold
 Inwrought with flowers and bright with gold.
 The Vánar from his station viewed,
@@ -544,7 +544,7 @@ And at thy feet my kingdom lay.
 The broad rich earth will I o'errun,
 And leave no town unconquered, none;
 Then of the whole an offering make
-To Janak, [1](Book_5_30#fn835) dear, for thy sweet sake.
+To Janak, [1](../Book_5_30#fn835) dear, for thy sweet sake.
 In all the world no power I see
 Of God or man can strive with me.
 Of old the Gods and Asurs set
@@ -564,7 +564,7 @@ His eyes on thee shall ne'er be set.
 Could he, that mighty monarch, who
 Was named Hiranyakas'ipu.
 Could he who wore the garb of gold
-Win Glory back from Indra's hold?  [2](Book_5_30#fn836)
+Win Glory back from Indra's hold?  [2](../Book_5_30#fn836)
 O lady of the lovely smile,
 Whose eyes the sternest heart beguile,
 In all thy radiant beauty dressed

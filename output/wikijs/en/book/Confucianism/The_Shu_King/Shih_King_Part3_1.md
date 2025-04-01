@@ -90,7 +90,7 @@ The wilderness of Mû spread out extensive; Bright shone the chariots of sandal;
 
 SMALL BEGINNINGS AND SUBSEQUENT GROWTH OF THE HOUSE OF <i>K</i>ÂU IN <i>K</i>ÂU. ITS REMOVAL FROM PIN UNDER THAN-FÛ, WITH ITS FIRST SETTLEMENT IN <i>K</i>ÂU, WITH THE PLACE THEN GIVEN TO THE BUILDING OF THE ANCESTRAL TEMPLE, AND THE ALTAR TO THE SPIRITS OF THE LAND. CONSOLIDATION OF ITS FORTUNES BY KING WĂN.
 
-‘The ancient duke Than-fû’ was the grandfather of king Wăn, and was canonized by the duke of <i>K</i>âu as ‘king Thâi.’ As mentioned in a note on [p. 316](Shih_King_Part1_2#p316), he was the first of his family to settle in Kâu, removing there from Pin. the site of their earlier settlement, ‘the country about the <i>Kh</i>ü and the <i>Kh</i>î.’
+‘The ancient duke Than-fû’ was the grandfather of king Wăn, and was canonized by the duke of <i>K</i>âu as ‘king Thâi.’ As mentioned in a note on [p. 316](../Shih_King_Part1_2#p316), he was the first of his family to settle in Kâu, removing there from Pin. the site of their earlier settlement, ‘the country about the <i>Kh</i>ü and the <i>Kh</i>î.’
 
 In long trains ever increasing grow the gourds [^486]. When (our) people first sprang, From the country about the <i>Kh</i>ü and the <i>Kh</i>î [^487], The ancient duke <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> Than-fû Made for them kiln-like huts and caves, Ere they had yet any houses [^488].
 

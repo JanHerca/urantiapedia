@@ -90,21 +90,21 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^817]: 174:1 This again is not clear, and the discrepancies of the MSS. make it more perplexing. The meaning, I take to be, that a man may perceive all material things, such as the worlds, Bhûr, &c. (as the commentators put it), but to be really omniscient, you must have knowledge of the truth—the Brahman. See Sabhâ Parvan, chapter V, stanza 7. And see, too, B<i>ri</i>hadâra<i>n</i>yaka, p. 613.
 
-[^818]: 174:2 P. [p. 167](Sanatsugatiya_3#p167) supra.
+[^818]: 174:2 P. [p. 167](../Sanatsugatiya_3#p167) supra.
 
-[^819]: 174:3 Hearing the Vedântas—Upanishads,' &c,, says <i>S</i>ankara. See note supra, [p. 173](Sanatsugatiya_3#p173).
+[^819]: 174:3 Hearing the Vedântas—Upanishads,' &c,, says <i>S</i>ankara. See note supra, [p. 173](../Sanatsugatiya_3#p173).
 
 [^820]: 174:4 Does this mean referring to many aspects of the Brahman? <i>S</i>ankara merely says nânârûpâ. Nîlaka<i>nth</i>a takes it differently, and as meaning that in which everything is elucidated; ‘relating to the Brahman’ Nîlaka<i>nth</i>a takes to mean ‘leading to the Brahman,’ or ‘instrument for attaining to the Brahman.’
 
 [^821]: 175:1 In this material world, the highest knowledge is not to be got. Cf. Ka<i>th</i>a, p. 96.
 
-[^822]: 175:2 I. e. withdrawn from objects and fixed on the self only. Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79), and Maitrî, p. 179, where, however, we have h<i>ri</i>d for buddhi.
+[^822]: 175:2 I. e. withdrawn from objects and fixed on the self only. Cf. Gîtâ, [p. 79](../Bhagavadgita_8#p79), and Maitrî, p. 179, where, however, we have h<i>ri</i>d for buddhi.
 
 [^823]: 175:3 Viro<i>k</i>ana and Indra do so according to the <i>Kh</i>ândogya, p. 570 See also Mu<i>nd</i>aka, p. 311.
 
 [^824]: 175:4 The object of which is the primal Brahman.
 
-[^825]: 175:5 Cf. <i>Kh</i>ândogya, p. 534; and Gîtâ, pp. [78](Bhagavadgita_8#p78), [79](Bhagavadgita_8#p79), and the passage from the Ka<i>th</i>a there cited.
+[^825]: 175:5 Cf. <i>Kh</i>ândogya, p. 534; and Gîtâ, pp. [78](../Bhagavadgita_8#p78), [79](../Bhagavadgita_8#p79), and the passage from the Ka<i>th</i>a there cited.
 
 [^826]: 175:6 <i>Kh</i>ândogya, pp. 264-459.
 
@@ -116,7 +116,7 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^830]: 176:2 The supreme, 'which is described as ‘truth, knowledge,’ &c. In our ancient works the truth often means the real.
 
-[^831]: 176:3 The state of being absorbed in the Brahman. Cf. Gîtâ, [p. 52](Bhagavadgita_2#p52).
+[^831]: 176:3 The state of being absorbed in the Brahman. Cf. Gîtâ, [p. 52](../Bhagavadgita_2#p52).
 
 [^832]: 176:4 Cf. Ka<i>th</i>a, p. 158.
 
@@ -134,13 +134,13 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^839]: 177:2 See note on [p. 176](#p176).
 
-[^840]: 177:3 I keep the order of the original, though I do not translate quite literally; ‘thought and word’ should be literally mind and speech.' See, on the collocation, Gîtâ, [p. 123](Bhagavadgita_18#p123) inter alia.
+[^840]: 177:3 I keep the order of the original, though I do not translate quite literally; ‘thought and word’ should be literally mind and speech.' See, on the collocation, Gîtâ, [p. 123](../Bhagavadgita_18#p123) inter alia.
 
 [^841]: 177:4 Time = maturity of understanding which comes by time; energy = intellectual power; <i>S</i>âstras = consultation about <i>S</i>âstras with fellow-students—<i>S</i>ankara, who adds that the order is not material as stated, and quotes a stanza which may be thus rendered, 'The pupil receives a quarter from the preceptor, a quarter by his own talent; he receives a quarter by time; and a quarter through fellow-Brahma<i>k</i>ârins.
 
-[^842]: 177:5 The body being disregarded, these qualities are attributed to the self in this way. For the twelve, see [p. 167](Sanatsugatiya_3#p167); the others are abandonment, truthfulness, &c., [p. 169](Sanatsugatiya_3#p169).
+[^842]: 177:5 The body being disregarded, these qualities are attributed to the self in this way. For the twelve, see [p. 167](../Sanatsugatiya_3#p167); the others are abandonment, truthfulness, &c., [p. 169](../Sanatsugatiya_3#p169).
 
-[^843]: 178:1 To observe the duties referred to, <i>S</i>ankara. But see, too, [p. 167](Sanatsugatiya_3#p167), note .
+[^843]: 178:1 To observe the duties referred to, <i>S</i>ankara. But see, too, [p. 167](../Sanatsugatiya_3#p167), note .
 
 [^844]: 178:2 Obtains wealth, learning, and greatness,' says a commentator. For similar benefits, cf. <i>Kh</i>ândogya, p. 122.
 
@@ -148,13 +148,13 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^846]: 178:4 ‘Wealth,’ says Nîlaka<i>nth</i>a, as well as another commentator.
 
-[^847]: 178:5 Ignorance; cf. note at [p. 154](Sanatsugatiya_2#p154) supra. Nîlaka<i>nth</i>a reads ‘reaches’ instead of ‘crosses beyond,’ and interprets ‘bâlya’ to mean ‘freedom from affection, aversion,’ &c. Cf. B<i>nth</i>hadâra<i>n</i>yaka, p. 605. As to the divinity of divinities, cf. Taitt. Âra<i>n</i>. p. 886.
+[^847]: 178:5 Ignorance; cf. note at [p. 154](../Sanatsugatiya_2#p154) supra. Nîlaka<i>nth</i>a reads ‘reaches’ instead of ‘crosses beyond,’ and interprets ‘bâlya’ to mean ‘freedom from affection, aversion,’ &c. Cf. B<i>nth</i>hadâra<i>n</i>yaka, p. 605. As to the divinity of divinities, cf. Taitt. Âra<i>n</i>. p. 886.
 
-[^848]: 178:6 Nîlaka<i>nth</i>a reads ‘vanquishes death.’ The meaning is, he reaches final emancipation. Cf. [p. 154](Sanatsugatiya_2#p154) supra.
+[^848]: 178:6 Nîlaka<i>nth</i>a reads ‘vanquishes death.’ The meaning is, he reaches final emancipation. Cf. [p. 154](../Sanatsugatiya_2#p154) supra.
 
 [^849]: 179:1 Called <i>K</i>intâma<i>n</i>i. The effect of Brahma<i>k</i>arya is that those who practise it can get what they desire.
 
-[^850]: 179:2 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76); <i>Kh</i>ândogya, p. 538; Mu<i>nd</i>aka, p. 279.
+[^850]: 179:2 Cf. Gîtâ, [p. 76](../Bhagavadgita_7#p76); <i>Kh</i>ândogya, p. 538; Mu<i>nd</i>aka, p. 279.
 
 [^851]: 179:3 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 327.
 
@@ -166,16 +166,16 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^855]: 179:7 Here I do not render rûpa by colour, as before.
 
-[^856]: 180:1 See Muir, Sanskrit Texts, vol. i, p. 16; Tâ<i>nd</i>ya-brâhma<i>n</i>a, p. 838; Gîtâ, [p. 90](Bhagavadgita_10#p90); and Kaushîtaki, p. 21. B<i>nd</i>hadratha = Brihat-sâman (?).
+[^856]: 180:1 See Muir, Sanskrit Texts, vol. i, p. 16; Tâ<i>nd</i>ya-brâhma<i>n</i>a, p. 838; Gîtâ, [p. 90](../Bhagavadgita_10#p90); and Kaushîtaki, p. 21. B<i>nd</i>hadratha = Brihat-sâman (?).
 
-[^857]: 180:2 The twelve great vows—knowledge, &c., mentioned above, see [p. 167](Sanatsugatiya_3#p167). Nîlaka<i>nth</i>a takes Mahâvrata to refer to the sacrifice of that name. It is described in the Aitareya Âra<i>n</i>yaka.
+[^857]: 180:2 The twelve great vows—knowledge, &c., mentioned above, see [p. 167](../Sanatsugatiya_3#p167). Nîlaka<i>nth</i>a takes Mahâvrata to refer to the sacrifice of that name. It is described in the Aitareya Âra<i>n</i>yaka.
 
-[^858]: 180:3 See Gîtâ, [p. 78](Bhagavadgita_8#p78), note .
+[^858]: 180:3 See Gîtâ, [p. 78](../Bhagavadgita_8#p78), note .
 
-[^859]: 180:4 Cf. Gîtâ, [p. 82](Bhagavadgita_9#p82), and Îsopanishad, p. 12.
+[^859]: 180:4 Cf. Gîtâ, [p. 82](../Bhagavadgita_9#p82), and Îsopanishad, p. 12.
 
-[^860]: 180:5 See Gîtâ, [p. 78](Bhagavadgita_8#p78), note .
+[^860]: 180:5 See Gîtâ, [p. 78](../Bhagavadgita_8#p78), note .
 
-[^861]: 180:6 Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113); Ka<i>th</i>a p. 99.
+[^861]: 180:6 Cf. Gîtâ, [p. 113](../Bhagavadgita_15#p113); Ka<i>th</i>a p. 99.
 
 [^862]: 180:7 So Nîlaka<i>nth</i>a. The original word ordinarily means ‘worlds.’

@@ -318,7 +318,7 @@ And shot their shafts at head and breast;
 But, when the iron shower was spent,
 Four arrows from his bow he sent,
 And every missile, deftly sped;
-Cleft from the trunk a giant head.  [1](Book_6_50#fn961)
+Cleft from the trunk a giant head.  [1](../Book_6_50#fn961)
 
 
 
@@ -359,7 +359,7 @@ Uprose the blinding dust from meads
 Ploughed by the cars and trampling steeds,
 And where the warriors fell the flood
 Was dark and terrible with blood.
-Six giants  [1b](Book_6_50#fn962) singled Ráma out,
+Six giants  [1b](../Book_6_50#fn962) singled Ráma out,
 And charged him with a furious shout
 Loud as the roaring of the sea
 When every wind is raging free.
@@ -376,7 +376,7 @@ As shines in autumn nights a dell
 Which fireflies, flashing through the gloom,
 With momentary light illume.
 
-But Indrajit, when Báli's son  [2b](Book_6_50#fn963)
+But Indrajit, when Báli's son  [2b](../Book_6_50#fn963)
 The victory o'er the foe had won.
 Saw with a fury-kindled eye
 His mangled steeds and driver die;
@@ -397,7 +397,7 @@ And Raghu's sons were first to feel
 The tempest of his winged steel.
 Then when his arrows failed to kill
 The princes who defied him still,
-He bound them with the serpent noose,  [3b](Book_6_50#fn964)
+He bound them with the serpent noose,  [3b](../Book_6_50#fn964)
 The magic bond which none might loose.
 
 

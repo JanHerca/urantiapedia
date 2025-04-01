@@ -242,11 +242,11 @@ When he has obtained a share among them, then (the Hot<i>ri</i>) invokes a bless
 
 ## Footnotes
 
-[^585]: 247:2 The author now proceeds to give in detail the formulas to be recited by the Hot<i>ri</i> during the ceremonies treated in the preceding Brâhma<i>n</i>a (see [p. 236](Book_1_1_8#p236), note [2](Book_1_1_8#fn553)); pars. 1-23 treating of the sûktavâka; pars. 24-29 of the <i>s</i>amyuvâka.
+[^585]: 247:2 The author now proceeds to give in detail the formulas to be recited by the Hot<i>ri</i> during the ceremonies treated in the preceding Brâhma<i>n</i>a (see [p. 236](../Book_1_1_8#p236), note [2](../Book_1_1_8#fn553)); pars. 1-23 treating of the sûktavâka; pars. 24-29 of the <i>s</i>amyuvâka.
 
 [^586]: 248:1 Sûktaiva tad âha, which the commentator paraphrases by sûktâṅy âha. It is apparently intended as an explanation of the term sûktavaka. The word sûkta here has exceptionally the accent on the penultimate.
 
-[^587]: 248:2 See [p. 240](Book_1_1_8#p240), note [2](Book_1_1_8#fn561). The formulas are given Taitt. Br. III, 5, 10; Â<i>s</i>v. <i>S</i>. I, 9, 1.
+[^587]: 248:2 See [p. 240](../Book_1_1_8#p240), note [2](../Book_1_1_8#fn561). The formulas are given Taitt. Br. III, 5, 10; Â<i>s</i>v. <i>S</i>. I, 9, 1.
 
 [^588]: 249:1 ‘Sûktavâkam uta namovâkam.’ Our author seems to refer these terms to the <i>Ri</i>k-verses and the Ya<i>g</i>us-formulas used during the sacrifice. Sâya<i>n</i>a, on Taitt. S. II, 6, 9, takes ‘namovâka’ in a more restricted sense, viz. as referring to the formula ‘namo devebhya<i>h</i>.’ Both the Black Ya<i>g</i>ur-vela and Â<i>s</i>v. <i>S</i>. add ‘<i>ri</i>dhyâsma sûkto<i>k</i>yam,’ which has probably to be taken in the sense of ‘May we accomplish that which is expressed in the sûktas.’ \[Sâya<i>n</i>a, ‘May we succeed with the sûkta yet to be pronounced.’\]
 
@@ -270,7 +270,7 @@ When he has obtained a share among them, then (the Hot<i>ri</i>) invokes a bless
 
 [^598]: 253:3 The Kâ<i>n</i>va recension, the Black Ya<i>g</i>ur-veda, and Â<i>s</i>v. <i>S</i>. read no, ‘us.’
 
-[^599]: 254:1 See [p. 247](Book_1_1_8#p247), note [^581]. The original meaning of the terms <i>s</i>am yos, as they occur in the Rig-veda, is happily rendered by Professor Max Müller (Translation of the Rig-veda, I, p. 182) by ‘health and wealth.’ In the sacrificial ceremonial a deeper significance bas come to be attached to this benedictory formula, for which it is difficult to find an exact equivalent. The entire <i>s</i>amyuvâka, as here given, forms part of a khila to the last book of the <i>Ri</i>k-Sa<i>m</i>hitâ; cf. Max Müller's edition, vol. vi. p. 32; A. Weber, Ind. Stud. IV, p. 431. The Black Ya<i>g</i>us version of the legend regarding <i>S</i>amyu Bârhaspatya (Taitt. S. II, 6, 10) is quite different from ours; they were both invented to explain <i>s</i>am yos.
+[^599]: 254:1 See [p. 247](../Book_1_1_8#p247), note [^581]. The original meaning of the terms <i>s</i>am yos, as they occur in the Rig-veda, is happily rendered by Professor Max Müller (Translation of the Rig-veda, I, p. 182) by ‘health and wealth.’ In the sacrificial ceremonial a deeper significance bas come to be attached to this benedictory formula, for which it is difficult to find an exact equivalent. The entire <i>s</i>amyuvâka, as here given, forms part of a khila to the last book of the <i>Ri</i>k-Sa<i>m</i>hitâ; cf. Max Müller's edition, vol. vi. p. 32; A. Weber, Ind. Stud. IV, p. 431. The Black Ya<i>g</i>us version of the legend regarding <i>S</i>amyu Bârhaspatya (Taitt. S. II, 6, 10) is quite different from ours; they were both invented to explain <i>s</i>am yos.
 
 [^600]: 255:1 This formula occurs almost identically in Rig-veda VI, 74, 1; VII, 54, 1; (IX, 69, 7.) Cf. Max Müller, Translation of the Rig-veda, I, p. 180, where attention is drawn to a somewhat similar phrase in the Umbric prayers of the Eugubian tables.
 
@@ -316,7 +316,7 @@ When he has obtained a share among them, then (the Hot<i>ri</i>) invokes a bless
 
 [^621]: 264:3 Mahîdhara interprets, ‘May Indra—together with the Âdityas, the Vasus, the Maruts, and the Vi<i>s</i>ve Devâ<i>h</i>\—anoint the barhis thoroughly with the havis-like ghee,’ &c.
 
-[^622]: 265:1 See [p. 9](Book_1_1_1#p9), note [1](Book_1_1_1#fn94).
+[^622]: 265:1 See [p. 9](../Book_1_1_1#p9), note [1](../Book_1_1_1#fn94).
 
 [^623]: 265:2 Or, Pra<i>g</i>âpati . . ., see I, 1, 1, 13, with note.
 
@@ -342,7 +342,7 @@ When he has obtained a share among them, then (the Hot<i>ri</i>) invokes a bless
 
 [^634]: 271:3 The heavenly rays of light are regarded as the heavenly cows,. Naigh. I, 5; Nir. II, 6.
 
-[^635]: 272:1 When he has executed the pradakshi<i>n</i>a movement, he has to repeat the movement in the opposite direction, in accordance with the general rule, Katy. I, 8, 24. The same applies to par. 20. On the sun-wise circumambulation, with and without fire, see [p. 37](Book_1_1_2#p37) note, [p. 45](Book_1_1_2#p45) note; also Martin, Western Isles, pp. 16-20, 85, 97, 116-119, 241, 277; Forbes Leslie, Early Races of Scotland, index, s.v. deisiol.
+[^635]: 272:1 When he has executed the pradakshi<i>n</i>a movement, he has to repeat the movement in the opposite direction, in accordance with the general rule, Katy. I, 8, 24. The same applies to par. 20. On the sun-wise circumambulation, with and without fire, see [p. 37](../Book_1_1_2#p37) note, [p. 45](../Book_1_1_2#p45) note; also Martin, Western Isles, pp. 16-20, 85, 97, 116-119, 241, 277; Forbes Leslie, Early Races of Scotland, index, s.v. deisiol.
 
 [^636]: 273:1 The Mâdhyandina text of the Vâ<i>g</i>. S. does not give this formula. The Kâ<i>n</i>va text of the Sa<i>m</i>hitâ has the following (Weber's edition, p. 59), ‘Woven art thou, a web art thou: weave me along (? extend my life) at this sacrifice, at this holy deed, in this food, in this world!’ ‘May my son weave on (continue) this work, this manly deed of mine!’ Thus also Kâty. III, 8, 25. The Kâ<i>n</i>va text of the Brâhma<i>n</i>a, however, mentions only the formula given above. According to Laugâkshi he names his favourite son; according to <i>S</i>âṅkhâyana, his eldest son, or as many sons as he has. See comm. on Kâty. IV, 12, II.
 

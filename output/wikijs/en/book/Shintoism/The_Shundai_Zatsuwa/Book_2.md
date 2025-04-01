@@ -250,7 +250,7 @@ In my opinion the reform of evil customs, while a way roundabout and slow, is th
 
 [^8]: Analects, Book VII; XV.
 
-[^9]: See [p. 21](Introduction#p21) preceding.
+[^9]: See [p. 21](../Introduction#p21) preceding.
 
 [^10]: In Suikō's reign, A.D. 593-628, Buddhism was openly adopted by the court in Japan. In the reign of Mei, (Ming Ti) A.D. 58-76 it received the imperial sanction in China.
 
@@ -284,7 +284,7 @@ In my opinion the reform of evil customs, while a way roundabout and slow, is th
 
 [^25]: Mencius, Book II, Pt. I, Chap. II; 11-16.
 
-[^26]: The writings of Kantaishi, [p. 31 above, note](Book_1#fn14).
+[^26]: The writings of Kantaishi, [p. 31 above, note](../Book_1#fn14).
 
 [^27]: The Shin (Ts'in) dynasty reigned B.C. 255-209 and was followed by the Kan (Han) dynasty.
 

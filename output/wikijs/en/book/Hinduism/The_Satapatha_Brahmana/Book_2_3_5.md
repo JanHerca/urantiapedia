@@ -289,7 +289,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^291]: 111:2 The preparation of the special altars—viz. the large Soma altar (mahâ-vedi, or saumikî-vedi) and the ‘high altar’ (uttara-vedi) on the former—takes place on the last but one Upasad day, after the morning performance of the Upasads.
 
-[^292]: 111:3 This post stands in the middle of the east door of the hall or Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, just in front of the Âhavanîya-fire. See [p. 3](Book_2_3_1#p3), note [2](Book_2_3_1#fn27).
+[^292]: 111:3 This post stands in the middle of the east door of the hall or Prâ<i>k</i>îna-va<i>m</i><i>s</i>a, just in front of the Âhavanîya-fire. See [p. 3](../Book_2_3_1#p3), note [2](../Book_2_3_1#fn27).
 
 [^293]: 111:4 Anta<i>h</i>pâta, lit. ‘falling within or between,’ because it stands p. 112 between the (new) altar and the Prâ<i>k</i>îna-va<i>m</i><i>s</i>a fires and altar. See III, 5, 2, 2.
 
@@ -313,7 +313,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^303]: 115:2 Âdadânâ <i>k</i>a<i>k</i>âra = <i>g</i>ighatsayâ samîpastha<i>m</i> sarva<i>m</i> svîkurvatî, Sây.
 
-[^304]: 115:3 See [III](Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](Book_2_3_5#v3_5_2_11).
+[^304]: 115:3 See [III](../Book_2_3_5#v3_5_2_9), 5, 2, 9-[11](../Book_2_3_5#v3_5_2_11).
 
 [^305]: 116:1 That is to say, the pit (<i>k</i>âtvâla) whence the earth for the high altar is taken is measured with the yoke-pin, and the high altar with the yoke. Sâya<i>n</i>a seems to take it differently: Yatra yasmin de<i>s</i>e yugena haranti yato yasmât tatra <i>s</i>amyayâpi haranti.
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^318]: 119:2 He takes with the spade as much as is required to make the high altar of the proper size.
 
-[^319]: 119:3 This statement seems to have greatly puzzled the later ritualists, as Kâty. V, 3, 32-35 and the comments thereon show. In rule 32 it is laid down, in accordance with [paragraph 26](Book_2_3_5#v3_5_1_26) above, that the Adhvaryu is to make the high altar of the size of the yoke-pin and the pit, i.e. about two feet square. The next rule then leaves an option between four other measurements, viz. he may make it either one third of the area of the large altar, or of unlimited size, or of the size of the yoke (86 aṅgulas = c. 5-5½ feet) or of ten of the sacrificer's feet. This latter measurement is explained rather ingeniously by Harisvâmin, as meaning that the high altar is to form p. 120 an oblong of three feet by one foot, when, in counting the number of sides of the three squares thus obtained, we obtain ten sides of one foot each. However, the repetition of ‘da<i>s</i>a’ in our text—which can only mean ‘ten feet on each side’—does not favour this explanation, The last two alternatives, according to rules 34-35, only apply to the Soma-sacrifice, because otherwise the altar (as in the case of the ‘northern altar’ at the <i>K</i>âturmâsya, cf. part i, p. 392) would not be large enough to contain a ‘high altar’ of that size.
+[^319]: 119:3 This statement seems to have greatly puzzled the later ritualists, as Kâty. V, 3, 32-35 and the comments thereon show. In rule 32 it is laid down, in accordance with [paragraph 26](../Book_2_3_5#v3_5_1_26) above, that the Adhvaryu is to make the high altar of the size of the yoke-pin and the pit, i.e. about two feet square. The next rule then leaves an option between four other measurements, viz. he may make it either one third of the area of the large altar, or of unlimited size, or of the size of the yoke (86 aṅgulas = c. 5-5½ feet) or of ten of the sacrificer's feet. This latter measurement is explained rather ingeniously by Harisvâmin, as meaning that the high altar is to form p. 120 an oblong of three feet by one foot, when, in counting the number of sides of the three squares thus obtained, we obtain ten sides of one foot each. However, the repetition of ‘da<i>s</i>a’ in our text—which can only mean ‘ten feet on each side’—does not favour this explanation, The last two alternatives, according to rules 34-35, only apply to the Soma-sacrifice, because otherwise the altar (as in the case of the ‘northern altar’ at the <i>K</i>âturmâsya, cf. part i, p. 392) would not be large enough to contain a ‘high altar’ of that size.
 
 [^320]: 120:1 The Kâ<i>n</i>va text wants it to be made at the back (<i>g</i>aghanena).
 
@@ -351,21 +351,21 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^323]: 121:1 The transferring of the Âhavanîya fire to the high altar takes place in the forenoon of the last Upasad day (that is, on the day preceding the pressing day, and called upavasatha, or preparation day). It is preceded by the double or combined performance of the Upasad offerings (one of which took place in the afternoon on the two preceding days).
 
-[^324]: 121:2 Some gravel is put in a pan for the burning wood to lie upon, when it is to be transferred from the Âhavanîya to the new altar. The Taittirîyas mix with the gravel one-fourth part of the dust of the foot-print of the Soma-cow ([III, 3, 1, 6](Book_2_3_3#v3_3_1_6)), the other three parts being used respectively for anointing the axle of the Soma-cart ([III, 5, 3, 13](Book_2_3_5#v3_5_3_13)), for the underlayer of the Âgnîdhra fire ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)), and for scattering about behind the Gârhapatya ([III, 6, 3, 4](Book_2_3_6#v3_6_3_4)\-[7](Book_2_3_6#v3_6_3_7)).
+[^324]: 121:2 Some gravel is put in a pan for the burning wood to lie upon, when it is to be transferred from the Âhavanîya to the new altar. The Taittirîyas mix with the gravel one-fourth part of the dust of the foot-print of the Soma-cow ([III, 3, 1, 6](../Book_2_3_3#v3_3_1_6)), the other three parts being used respectively for anointing the axle of the Soma-cart ([III, 5, 3, 13](../Book_2_3_5#v3_5_3_13)), for the underlayer of the Âgnîdhra fire ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)), and for scattering about behind the Gârhapatya ([III, 6, 3, 4](../Book_2_3_6#v3_6_3_4)\-[7](../Book_2_3_6#v3_6_3_7)).
 
 [^325]: 121:3 Lit. they lift the underlayer underneath (the burning wood).
 
 [^326]: 121:4 For the eight verses (or twelve, the first and last being recited thrice each) which the Hot<i>ri</i> has to repeat while the fire is carried eastward and laid down on the high altar, see Ait. Br. I, 28; Â<i>s</i>v. Sr. II, 17. For the Brahman's duties, see Kâty. XI, 1, 9.
 
-[^327]: 122:1 See [III, 5, 1, 1](Book_2_3_5#v3_5_1_1).
+[^327]: 122:1 See [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1).
 
 [^328]: 122:2 The Âhavanîya or offering fire being now transferred to the new altar, the old Âhavanîya hearth is henceforward used as Gârhapatya; and a line is drawn from it up to the anta<i>h</i>pâta, marking the middle of the west side of the great altar.
 
 [^329]: 122:3 In ‘leading forwards’ the fire they proceed along the north side of the large altar.
 
-[^330]: 122:4 Indraghoshá, perhaps 'India's name;' Mahîdhara and Sâya<i>n</i>a take it as ‘he who is noised abroad as Indra’ (i.e. called Indra), which, however, would require the accent ‘índraghosha.’ Perhaps ‘the noise of Indra’ means Agni, the roaring fire: for Agni and the Vasus, see [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^330]: 122:4 Indraghoshá, perhaps 'India's name;' Mahîdhara and Sâya<i>n</i>a take it as ‘he who is noised abroad as Indra’ (i.e. called Indra), which, however, would require the accent ‘índraghosha.’ Perhaps ‘the noise of Indra’ means Agni, the roaring fire: for Agni and the Vasus, see [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
-[^331]: 122:5 Pra<i>k</i>etas, here Varu<i>n</i>a according to Mahîdhara and Sâya<i>n</i>a. Cf. [III, 4, 2, 1](Book_2_3_4#v3_4_2_1).
+[^331]: 122:5 Pra<i>k</i>etas, here Varu<i>n</i>a according to Mahîdhara and Sâya<i>n</i>a. Cf. [III, 4, 2, 1](../Book_2_3_4#v3_4_2_1).
 
 [^332]: 123:1 ‘Mano<i>g</i>avas’ is taken by Mahîdhara and Sâya<i>n</i>a as referring to Yama.
 
@@ -375,7 +375,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^335]: 124:2 The south-east is sacred to Agni, the north-west to Vâyu.
 
-[^336]: 124:3 Because the Âdityas brought her as a Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](Book_2_3_5#v3_5_1_18).
+[^336]: 124:3 Because the Âdityas brought her as a Dakshi<i>n</i>â, Kâ<i>n</i>va rec.; cf. [III, 5, 1, 18](../Book_2_3_5#v3_5_1_18).
 
 [^337]: 124:4 But for the lack of a demonstrative pronoun with â<i>s</i>î<i>h</i> one would like to take the passage thus: ‘Plenteous, forsooth, is this prayer for blessing among sacrificial texts: he thereby prays for the priesthood and the nobility.’ Cf. I, 2, 1, 7.
 
@@ -383,39 +383,39 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^339]: 125:2 The Kâ<i>n</i>va text makes it his bones.
 
-[^340]: 126:1 Ordinarily the laying round of the paridhis takes place immediately before the fire is kindled for the offering; but as the next offering is not to come off for some time, the fire would be without a protection, if he were to leave it without the enclosing-sticks. Sâya<i>n</i>a takes ‘dûre’ in the sense of ‘in a long time,’ as above; but it might be taken of space ‘far off,’ when the passage would refer to the offering about to be performed on the old Âhavanîya ([III, 5, 3, 10](Book_2_3_5#v3_5_3_10) seq.); and it may be noticed in reference to this point, that, according to Kâty. VIII, 3, 30, that fire does not become the Gârhapatya till immediately after that offering.
+[^340]: 126:1 Ordinarily the laying round of the paridhis takes place immediately before the fire is kindled for the offering; but as the next offering is not to come off for some time, the fire would be without a protection, if he were to leave it without the enclosing-sticks. Sâya<i>n</i>a takes ‘dûre’ in the sense of ‘in a long time,’ as above; but it might be taken of space ‘far off,’ when the passage would refer to the offering about to be performed on the old Âhavanîya ([III, 5, 3, 10](../Book_2_3_5#v3_5_3_10) seq.); and it may be noticed in reference to this point, that, according to Kâty. VIII, 3, 30, that fire does not become the Gârhapatya till immediately after that offering.
 
 [^341]: 126:2 Yâvat-tâvat would rather seem to mean here ‘of corresponding (or relatively the same) proportions’ as a man, viz. as the respective sacrificer. ‘Sa vai tâyamâno yâvân eva purushas tâvân vidhîyate, purushasyaiva vidhâm anu.’ Kâ<i>n</i>va rec.
 
 [^342]: 126:3 Soma himself is Vish<i>n</i>u.
 
-[^343]: 126:4 See [III, 6, 1, 23](Book_2_3_6#v3_6_1_23); [2, 21](Book_2_3_6#v3_6_2_21).
+[^343]: 126:4 See [III, 6, 1, 23](../Book_2_3_6#v3_6_1_23); [2, 21](../Book_2_3_6#v3_6_2_21).
 
-[^344]: 127:1 See [III, 6, 2, 21](Book_2_3_6#v3_6_2_21).
+[^344]: 127:1 See [III, 6, 2, 21](../Book_2_3_6#v3_6_2_21).
 
 [^345]: 127:2 That is, the (old) Âhavanîya and Gârhapatya fires of the Prâ<i>k</i>îna-va<i>m</i><i>s</i>a.
 
-[^346]: 127:3 The southern (and larger) cart is under the charge of the Adhvaryu and the northern one under that of his assistant, the Pratiprasthât<i>ri</i>. Each now drives his cart westward along the south and north sides respectively; and when they are opposite the hall (<i>s</i>âla), they make the carts turn round from left to right; whereupon they drive back to the altar, and place them thereon with the shafts towards the east, near the anta<i>h</i>pâta (‘intermediate’ peg, see [III, 5, 1, 1](Book_2_3_5#v3_5_1_1)), south and north of the ‘spine’ (cf. [p. 112](Book_2_3_5#p112), note [2](Book_2_3_5#fn294)), each at the distance of one cubit from the latter.
+[^346]: 127:3 The southern (and larger) cart is under the charge of the Adhvaryu and the northern one under that of his assistant, the Pratiprasthât<i>ri</i>. Each now drives his cart westward along the south and north sides respectively; and when they are opposite the hall (<i>s</i>âla), they make the carts turn round from left to right; whereupon they drive back to the altar, and place them thereon with the shafts towards the east, near the anta<i>h</i>pâta (‘intermediate’ peg, see [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1)), south and north of the ‘spine’ (cf. [p. 112](../Book_2_3_5#p112), note [2](../Book_2_3_5#fn294)), each at the distance of one cubit from the latter.
 
-[^347]: 127:4 In order to make the shed incline towards the north, cf. [III, 1, 1, 2](Book_2_3_1#v3_1_1_2).
+[^347]: 127:4 In order to make the shed incline towards the north, cf. [III, 1, 1, 2](../Book_2_3_1#v3_1_1_2).
 
 [^348]: 128:1 It is not clear to me whether the arrangements mentioned in this paragraph refer to the carts in the first place, and have then to be repeated after the shed has been erected, or whether, as I think, some of them refer to the shed only. Even at the time of the Kâty. Sûtras there seems to have been some confusion in this respect, and the rules VIII, 4, 7-12 (10-15, in edition) were entirely misunderstood by the commentator. It is, however, certain that the carts were covered with mats, previously to being shifted from the back to the front part of the altar. As regards the shed, it seems to have been constructed in the following way. In front of the carts, as well as behind them, beams are driven into the ground, six on each side, according to Sâya<i>n</i>a on T. S. I, 2, 13; the two middle ones, one cubit north and south of the ‘spine’ respectively, forming a gateway on each side (Kâty. VIII, 4, 24 scholl.). On these two rows of beams other beams are laid, running from south to north, and forming, as it were, the lintels of the gates; and thereon the tie-beams rest (west to east). This frame of timber is to form a square of nine (or ten) cubits. Over the tie-beams three mats of reed-grass(<i>k</i>adis)—measuring nine (or ten) cubits by three (3½)—are spread, from south to north; first the middle one and then the two others, behind and in front of it. Upright hurdles (or reed-mats) are then stretched between the respective corner-posts, so as to form the south and north sides of the shed; and are ‘sewn’ to the corner-posts. Between the tops of the two front door-posts a band or garland of plaited reed-tufts (or, according to Haug, a bunch of Darbha grass, consisting of dry and green stalks) is hung up, to represent either a fillet or wreath worn on the forehead (?), or as a door-garland.
 
-[^349]: 128:2 This remark would seem to imply that there are only two mats (cf. parags. [23](Book_2_3_5#v3_5_3_23), [24](Book_2_3_5#v3_5_3_24)), but perhaps it is merely intended to show that two mats are spread behind and in front of the first mat (i.e. from south to north, and not west to east); not that there are only two mats.
+[^349]: 128:2 This remark would seem to imply that there are only two mats (cf. parags. [23](../Book_2_3_5#v3_5_3_23), [24](../Book_2_3_5#v3_5_3_24)), but perhaps it is merely intended to show that two mats are spread behind and in front of the first mat (i.e. from south to north, and not west to east); not that there are only two mats.
 
 [^350]: 128:3 If the preceding paragraph refers (at least partly) to the shed, p. 129 then the atha here means ‘Now, in the first place,’ thereby introducing details preliminary to what has just been stated.
 
-[^351]: 129:1 See [III, 2, 4, 16](Book_2_3_2#v3_2_4_16). I now refer ‘etayâ’ to ‘vâ<i>k</i>am,’ as does Sâya<i>n</i>a,—yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. He explains ‘prakâmodya’ by ‘mlai<i>k</i><i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am,’ barbarous, worldly speech.
+[^351]: 129:1 See [III, 2, 4, 16](../Book_2_3_2#v3_2_4_16). I now refer ‘etayâ’ to ‘vâ<i>k</i>am,’ as does Sâya<i>n</i>a,—yadâ buddhir <i>g</i>âyate tadâ khalv etayâ vâ<i>k</i>â <i>g</i>u<i>g</i>yûshanti. He explains ‘prakâmodya’ by ‘mlai<i>k</i><i>kh</i>ika<i>m</i> laukikam bhâsha<i>n</i>am,’ barbarous, worldly speech.
 
 [^352]: 129:2 Vipa<i>s</i><i>k</i>it, probably ‘thinker of hymns.’ It remains doubtful what meaning our author assigned to the word. Mahîdhara explains it by sarva<i>g</i><i>ñ</i>a, ‘all-knowing.’ Sâya<i>n</i>a, on Taitt. S. I, 2, 13, refers ‘viprasya b<i>ri</i>hato vipa<i>s</i><i>k</i>itah’ to the sacrificer.
 
-[^353]: 130:1 That is, the iron pins driven into the axle, round which the naves of the wheels revolve. See also [p. 121](Book_2_3_5#p121), note [2](Book_2_3_5#fn322).
+[^353]: 130:1 That is, the iron pins driven into the axle, round which the naves of the wheels revolve. See also [p. 121](../Book_2_3_5#p121), note [2](../Book_2_3_5#fn322).
 
 [^354]: 130:2 They make her enter the hall by the south door and walk round by the back of the (old) Gârhapatya fire-place to the wheel-tracks on the north side where the Pratiprasthât<i>ri</i> is about to offer.
 
 [^355]: 130:3 The rays of the sun are apparently likened to ropes wherewith he keeps the earth straight and firm.
 
-[^356]: 131:1 While reciting his hymn of eight verses (brought up, as usual, to twelve by repetitions of the first and last verses) the Hot<i>ri</i> has to follow the carts so as to have the north wheel-track of the south cart between his feet. Cf. [p. 79](Book_2_3_3#p79), note [1](Book_2_3_3#fn208). For the verses recited by him, see Ait. Br. I, 29; Â<i>s</i>v. <i>S</i>r. IV, 9.
+[^356]: 131:1 While reciting his hymn of eight verses (brought up, as usual, to twelve by repetitions of the first and last verses) the Hot<i>ri</i> has to follow the carts so as to have the north wheel-track of the south cart between his feet. Cf. [p. 79](../Book_2_3_3#p79), note [1](../Book_2_3_3#fn208). For the verses recited by him, see Ait. Br. I, 29; Â<i>s</i>v. <i>S</i>r. IV, 9.
 
 [^357]: 131:2 Or, ‘falter not!’
 
@@ -457,7 +457,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^376]: 139:2 Cp. I, 3, 3, 7 seq.
 
-[^377]: 139:3 Or, the hair of the sacrificial man; see [III, 5, 3, 1](Book_2_3_5#v3_5_3_1) seq.
+[^377]: 139:3 Or, the hair of the sacrificial man; see [III, 5, 3, 1](../Book_2_3_5#v3_5_3_1) seq.
 
 [^378]: 140:1 The pressing-boards are a cubit long, and somewhat broader behind than in front. They are placed one south of the other, and so as to lie close together behind (sambaddhânte, Kâ<i>n</i>va rec.), or the space of two inches between them. The space between them is filled up with earth.
 

@@ -68,7 +68,7 @@ Since some practise piety [^671] in this world, and some likewise practise impie
 
 Sanatsu<i>g</i>âta said:
 
-Whichever [^672] he adheres to, the man of understanding always destroys both by means of knowledge; (that is) settled [^673]. Likewise, in the other case [^674], the embodied (self) obtains merit; and to such a one sin (also) accrues; (that too is) settled [^673]. Departing (from this world), he enjoys by his actions both (kinds of) fruit, which are not enduring [^675]\—of actions (which are) pure, and of (those which are) sinful. The man of understanding casts aside sin by piety in this (world), for know that his piety is more powerful [^676]. Those Brâhma<i>n</i>as, in whom there is emulation [^677] about (their) piety, as there is in strong men about (their) strength, after departing from this world, become glorious in heaven [^678]. And <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> to those in whom there is no emulation about (their) piety, that (piety) is a means of (acquiring) knowledge [^679]. Such Brâhma<i>n</i>as released from this (world), go to the heaven which is free from the threefold source of pain [^680]. People who understand the Vedas call his conduct good. (But) people closely connected [^681], as well as strangers, do not pay much regard to him. Wherever he may believe food and drink for a Brâhma<i>n</i>a to exist in abundance, like water on grass in the autumn, there would he live and not be vexed [^682]. (To him) only that person is good, and no other (as a companion), who does nothing in excess, and who occasions fear and injury to a taciturn man [^683]. And his food is acceptable to the good, who does not vex the self of a taciturn man, and who does not destroy the property of a Brâhma<i>n</i>a [^684]. A Brâhma<i>n</i>a should hold, that living in the midst of kinsmen, his actions should be always unknown [^685]; and he should not <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> think [^686] (about them). What Brâhma<i>n</i>a ought to think of the inner self, which is void of symbols [^687], immovable, pure, and free from all pairs of opposites, in this way [^688]? What sin is not committed by that thief, who steals away his own self [^689], who regards his self as one thing, when it is a different thing. The far-seeing Brâhma<i>n</i>a, who knows the Brahman, is not wearied [^690], he receives nothing [^691]; he is honoured, free from trouble [^692], and wise, but acts as if he was not wise [^693]. As dogs eat what is vomited, so do they, enjoying their own bravery [^694], eat what is vomited, always with disaster (to themselves). Those twice-born persons, who are not <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> first [^695] in respect of human wealth, but who are first in the Vedas [^696], are unconquerable, not to be shaken [^697]; they should be understood to be forms of the Brahman. Whosoever may in this (world) know all the gods [^698]\—-doers of favours—he is not equal to a Brâhma<i>n</i>a, (nor even) he, [^699] for whom he exerts himself. The man who makes no efforts [^700], and is respected, does not, being respected, think himself. respected [^701], nor does he become vexed in consequence of disrespect. One who is respected [^702] should think it to be a natural operation of people, like their opening or closing of the eyelids, that the learned respect him in this world. One who is not respected should think, that the deluded people who do not understand piety, and who are devoid of (knowledge of) the world and the Sâstras, will never respect one who is worthy of respect. Respect and taciturnity [^703], verily, never dwell together; for this world is (the field) for respect, the next for taciturnity, as is understood [^704]. For worldly wealth dwells in the <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> sphere of respect [1](Sanatsugatiya_3#fn705), and that, too, is an obstacle [2](Sanatsugatiya_3#fn706). While the Brahmic wealth [3](Sanatsugatiya_3#fn707), O Kshatriya! is difficult to be attained by any one devoid of knowledge. The ways (to it) are stated by the good to be of various descriptions, and difficult to reach—truth, straightforwardness, modesty [4](Sanatsugatiya_3#fn708), restraint (of senses), purity, knowledge, which are the six impediments (in the way) of respect and delusion.
+Whichever [^672] he adheres to, the man of understanding always destroys both by means of knowledge; (that is) settled [^673]. Likewise, in the other case [^674], the embodied (self) obtains merit; and to such a one sin (also) accrues; (that too is) settled [^673]. Departing (from this world), he enjoys by his actions both (kinds of) fruit, which are not enduring [^675]\—of actions (which are) pure, and of (those which are) sinful. The man of understanding casts aside sin by piety in this (world), for know that his piety is more powerful [^676]. Those Brâhma<i>n</i>as, in whom there is emulation [^677] about (their) piety, as there is in strong men about (their) strength, after departing from this world, become glorious in heaven [^678]. And <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> to those in whom there is no emulation about (their) piety, that (piety) is a means of (acquiring) knowledge [^679]. Such Brâhma<i>n</i>as released from this (world), go to the heaven which is free from the threefold source of pain [^680]. People who understand the Vedas call his conduct good. (But) people closely connected [^681], as well as strangers, do not pay much regard to him. Wherever he may believe food and drink for a Brâhma<i>n</i>a to exist in abundance, like water on grass in the autumn, there would he live and not be vexed [^682]. (To him) only that person is good, and no other (as a companion), who does nothing in excess, and who occasions fear and injury to a taciturn man [^683]. And his food is acceptable to the good, who does not vex the self of a taciturn man, and who does not destroy the property of a Brâhma<i>n</i>a [^684]. A Brâhma<i>n</i>a should hold, that living in the midst of kinsmen, his actions should be always unknown [^685]; and he should not <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> think [^686] (about them). What Brâhma<i>n</i>a ought to think of the inner self, which is void of symbols [^687], immovable, pure, and free from all pairs of opposites, in this way [^688]? What sin is not committed by that thief, who steals away his own self [^689], who regards his self as one thing, when it is a different thing. The far-seeing Brâhma<i>n</i>a, who knows the Brahman, is not wearied [^690], he receives nothing [^691]; he is honoured, free from trouble [^692], and wise, but acts as if he was not wise [^693]. As dogs eat what is vomited, so do they, enjoying their own bravery [^694], eat what is vomited, always with disaster (to themselves). Those twice-born persons, who are not <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> first [^695] in respect of human wealth, but who are first in the Vedas [^696], are unconquerable, not to be shaken [^697]; they should be understood to be forms of the Brahman. Whosoever may in this (world) know all the gods [^698]\—-doers of favours—he is not equal to a Brâhma<i>n</i>a, (nor even) he, [^699] for whom he exerts himself. The man who makes no efforts [^700], and is respected, does not, being respected, think himself. respected [^701], nor does he become vexed in consequence of disrespect. One who is respected [^702] should think it to be a natural operation of people, like their opening or closing of the eyelids, that the learned respect him in this world. One who is not respected should think, that the deluded people who do not understand piety, and who are devoid of (knowledge of) the world and the Sâstras, will never respect one who is worthy of respect. Respect and taciturnity [^703], verily, never dwell together; for this world is (the field) for respect, the next for taciturnity, as is understood [^704]. For worldly wealth dwells in the <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> sphere of respect [1](../Sanatsugatiya_3#fn705), and that, too, is an obstacle [2](../Sanatsugatiya_3#fn706). While the Brahmic wealth [3](../Sanatsugatiya_3#fn707), O Kshatriya! is difficult to be attained by any one devoid of knowledge. The ways (to it) are stated by the good to be of various descriptions, and difficult to reach—truth, straightforwardness, modesty [4](../Sanatsugatiya_3#fn708), restraint (of senses), purity, knowledge, which are the six impediments (in the way) of respect and delusion.
 
 
 
@@ -102,7 +102,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^615]: 151:2 Literally ‘respected.’ Nîlaka<i>nth</i>a says it means rejoiced over, for Dh<i>nth</i>tarâsh<i>t</i>ra thought, that, in spite of his treachery he was safe, as death was taught by Sanatsu<i>g</i>âta to have no existence.
 
-[^616]: 151:3 I. e. free from the presence of ignorant and vulgar people. Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68) supra.
+[^616]: 151:3 I. e. free from the presence of ignorant and vulgar people. Cf. Gîtâ, [p. 68](../Bhagavadgita_6#p68) supra.
 
 [^617]: 151:4 I. e. knowledge concerning the supreme Self.
 
@@ -112,7 +112,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^620]: 151:7 The construction is imperfect, but the sense is clear: is your p. 152 view correct, or the view involved in the practice of gods and demons?
 
-[^621]: 152:1 See Gîtâ, [p. 69](Bhagavadgita_6#p69) supra; Ka<i>th</i>opanishad, p. 102; Pra<i>s</i>na, p. 162. As to the gods being afraid of death, see <i>Kh</i>ândogya, p. 50; and N<i>th</i>si<i>m</i>ha Tâpinî, p. 32; and as to gods and demons practising the life of Brahma<i>k</i>ârins, see <i>Kh</i>ândogya, p. 571; and cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
+[^621]: 152:1 See Gîtâ, [p. 69](../Bhagavadgita_6#p69) supra; Ka<i>th</i>opanishad, p. 102; Pra<i>s</i>na, p. 162. As to the gods being afraid of death, see <i>Kh</i>ândogya, p. 50; and N<i>th</i>si<i>m</i>ha Tâpinî, p. 32; and as to gods and demons practising the life of Brahma<i>k</i>ârins, see <i>Kh</i>ândogya, p. 571; and cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
 
 [^622]: 152:2 I. e. action prescribed in the Vedas.
 
@@ -130,15 +130,15 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^629]: 153:3 Here we have the developments, the varying forms, of death or heedlessness.
 
-[^630]: 153:4 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57). I. e. paths contrary to <i>S</i>rutis and <i>S</i>m<i>ri</i>tis.
+[^630]: 153:4 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57). I. e. paths contrary to <i>S</i>rutis and <i>S</i>m<i>ri</i>tis.
 
 [^631]: 153:5 Concentration of mind on the self or Brahman.
 
 [^632]: 153:6 I. e. the egoism spoken of before.
 
-[^633]: 153:7 I. e. to this mortal world. Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84), and B<i>ri</i>hadâra<i>n</i>yaka, pp. 855, 856. There = from the next world. <i>S</i>ankara says, ‘having lived there.’
+[^633]: 153:7 I. e. to this mortal world. Cf. Gîtâ, [p. 84](../Bhagavadgita_9#p84), and B<i>ri</i>hadâra<i>n</i>yaka, pp. 855, 856. There = from the next world. <i>S</i>ankara says, ‘having lived there.’
 
-[^634]: 153:8 I.e. the senses. Cf. Gîtâ, [p. 123](Bhagavadgita_18#p123), and inter alia Î<i>s</i>opanishad, p. 10.
+[^634]: 153:8 I.e. the senses. Cf. Gîtâ, [p. 123](../Bhagavadgita_18#p123), and inter alia Î<i>s</i>opanishad, p. 10.
 
 [^635]: 153:9 Cf. Ka<i>th</i>a, p. 129, and B<i>th</i>hadâra<i>n</i>yaka, p. 889.
 
@@ -154,13 +154,13 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^641]: 154:5 Through various lives. Birth and death are certain for him.
 
-[^642]: 154:6 I. e. causes oblivion of his real nature, <i>S</i>ankara. Cf. the whole train of cause and effect at Gîtâ, [p. 50](Bhagavadgita_2#p50) supra.
+[^642]: 154:6 I. e. causes oblivion of his real nature, <i>S</i>ankara. Cf. the whole train of cause and effect at Gîtâ, [p. 50](../Bhagavadgita_2#p50) supra.
 
 [^643]: 154:7 I. e. the pondering, desire, wrath, &c. As to I children,' cf. Ka<i>th</i>a, pp. 96 and 123, where bâla is contrasted with dhîra, as here. The ‘good sense’ is of help in withstanding the temptations of worldly objects.
 
 [^644]: 154:8 Destroys = abandons; pondering, just before this, is rendered by <i>S</i>ankara to mean ‘thinking of the objects as transient, impure,’ &c.
 
-[^645]: 154:9 <i>S</i>ankara cites on this a stanza of unknown authorship, which says, ‘The learned and clever man who knows the self, and by discrimination destroys all objects of sense, is said to be the death of death.’ See too [p. 178](Sanatsugatiya_4#p178) infra.
+[^645]: 154:9 <i>S</i>ankara cites on this a stanza of unknown authorship, which says, ‘The learned and clever man who knows the self, and by discrimination destroys all objects of sense, is said to be the death of death.’ See too [p. 178](../Sanatsugatiya_4#p178) infra.
 
 [^646]: 155:1 On this Nîlaka<i>nth</i>a quotes these lines, ‘The antelope, elephant, butterfly, bee, and fish—these five are destroyed by the five,’ i. e. the five objects of sense, sound, &c. See <i>S</i>ânti Parvan (Moksha Dharma), chap. 174, st. 45.
 
@@ -176,7 +176,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^652]: 155:7 Cf. Taittirîya-upanishad, p. 102.
 
-[^653]: 155:8 As being ruinous to oneself. <i>S</i>ankara compares Gîtâ, [p. 68](Bhagavadgita_6#p68). Cf. also Taittirîya-upanishad, p. 103, and see B<i>ri</i>hadâra<i>n</i>yaka, p. 61.
+[^653]: 155:8 As being ruinous to oneself. <i>S</i>ankara compares Gîtâ, [p. 68](../Bhagavadgita_6#p68). Cf. also Taittirîya-upanishad, p. 103, and see B<i>ri</i>hadâra<i>n</i>yaka, p. 61.
 
 [^654]: 155:9 I. e. heedlessness and its developments as stated.
 
@@ -192,7 +192,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^660]: 156:4 I. e. the man of knowledge.
 
-[^661]: 156:5 I. e. into the sphere of action. Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48).
+[^661]: 156:5 I. e. into the sphere of action. Cf. Gîtâ, [p. 48](../Bhagavadgita_2#p48).
 
 [^662]: 156:6 Knowing the supreme self is identical with becoming the supreme self, Mu<i>nd</i>aka, p. 323.
 
@@ -226,17 +226,17 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^678]: 158:4 Of the man devoid of knowledge.
 
-[^680]: 158:5 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76), and B<i>ri</i>hadâra<i>n</i>yaka, p. 636.
+[^680]: 158:5 Cf. Gîtâ, [p. 76](../Bhagavadgita_7#p76), and B<i>ri</i>hadâra<i>n</i>yaka, p. 636.
 
-[^681]: 158:6 See [p. 164](Sanatsugatiya_3#p164), note [9](Sanatsugatiya_3#fn726) infra.
+[^681]: 158:6 See [p. 164](../Sanatsugatiya_3#p164), note [9](../Sanatsugatiya_3#fn726) infra.
 
 [^682]: 158:7 The feeling of one's own superiority over others in piety.
 
-[^683]: 158:8 In the shape of Nakshatras,' says <i>S</i>ankara, which is not quite intelligible. See <i>Kh</i>ândogya, p. 258, and Anugîtâ infra, [p. 240](Anugita_2#p240).
+[^683]: 158:8 In the shape of Nakshatras,' says <i>S</i>ankara, which is not quite intelligible. See <i>Kh</i>ândogya, p. 258, and Anugîtâ infra, [p. 240](../Anugita_2#p240).
 
-[^684]: 159:1 According to the Vedântic theory, the acts of piety purify the inner man, and are thus a stepping-stone to knowledge. See Introduction, [p. 147](Sanatsugatiya_Intro#p147) supra. Cf. Gîtâ, [p. 122](Bhagavadgita_18#p122); and B<i>ri</i>hadâra<i>n</i>yaka, p. 899.
+[^684]: 159:1 According to the Vedântic theory, the acts of piety purify the inner man, and are thus a stepping-stone to knowledge. See Introduction, [p. 147](../Sanatsugatiya_Intro#p147) supra. Cf. Gîtâ, [p. 122](../Bhagavadgita_18#p122); and B<i>ri</i>hadâra<i>n</i>yaka, p. 899.
 
-[^685]: 159:2 I. e. physical, mental, and such as is caused by superhuman agency. This is <i>S</i>ankara's explanation. It is somewhat far fetched, but I can find none better. Cf. Gîtâ, [p. 49](Bhagavadgita_2#p49). And see also B<i>ri</i>hadâra<i>n</i>yaka, p. 876, and the commentary of <i>S</i>ankara there with Ânandagiri's gloss.
+[^685]: 159:2 I. e. physical, mental, and such as is caused by superhuman agency. This is <i>S</i>ankara's explanation. It is somewhat far fetched, but I can find none better. Cf. Gîtâ, [p. 49](../Bhagavadgita_2#p49). And see also B<i>ri</i>hadâra<i>n</i>yaka, p. 876, and the commentary of <i>S</i>ankara there with Ânandagiri's gloss.
 
 [^686]: 159:3 E. g. wife, children, &c.
 
@@ -244,13 +244,13 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^688]: 159:5 Excess, e.g. too much obsequiousness towards a ‘taciturn man,’ owing to his holiness, &c. Taciturn man = ascetic. Injury = disrespect, &c. Perhaps the protest against worldliness is here carried to an extreme. <i>S</i>ankara cites Manu as a parallel, ‘A Brâhma<i>n</i>a should be afraid of (worldly) respect as of poison.’
 
-[^689]: 159:6 E.g. the Ku<i>s</i>a grass, deerskin, &c., mentioned at Gîtâ, [p. 68](Bhagavadgita_6#p68).
+[^689]: 159:6 E.g. the Ku<i>s</i>a grass, deerskin, &c., mentioned at Gîtâ, [p. 68](../Bhagavadgita_6#p68).
 
 [^690]: 159:7 I. e. he should not parade his actions. <i>S</i>ankara compares Vasish<i>th</i>a and a Vedic text. See, too, the quotation at Taitt. Âra<i>n</i>. p. 902.
 
-[^691]: 160:1 Cf. Gîtâ, [p. 103](Bhagavadgita_13#p103). <i>S</i>ankara suggests an alternative explanation of this stanza, which will make it mean that one performing the operations of the senses, should devote oneself nevertheless to the unknown principle, and not consider the senses to be the self.
+[^691]: 160:1 Cf. Gîtâ, [p. 103](../Bhagavadgita_13#p103). <i>S</i>ankara suggests an alternative explanation of this stanza, which will make it mean that one performing the operations of the senses, should devote oneself nevertheless to the unknown principle, and not consider the senses to be the self.
 
-[^692]: 160:2 I. e. beyond the reach of inference; ‘subtle,’ says <i>S</i>ankara. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 364; B<i>ri</i>hadâra<i>n</i>yaka, p. 855; Maitrî, p. 182; and Ka<i>ri</i>a, p. 149, where <i>S</i>ankara suggests a somewhat different meaning. As to immovable, cf. Î<i>s</i>a, p. 10, and Gîtâ, [p. 104](Bhagavadgita_13#p104). <i>S</i>ankara renders it by ‘void of activity;’ and pure he paraphrases by ‘free from ignorance and other taints.’
+[^692]: 160:2 I. e. beyond the reach of inference; ‘subtle,’ says <i>S</i>ankara. Cf. <i>S</i>vetâ<i>s</i>vatara, p. 364; B<i>ri</i>hadâra<i>n</i>yaka, p. 855; Maitrî, p. 182; and Ka<i>ri</i>a, p. 149, where <i>S</i>ankara suggests a somewhat different meaning. As to immovable, cf. Î<i>s</i>a, p. 10, and Gîtâ, [p. 104](../Bhagavadgita_13#p104). <i>S</i>ankara renders it by ‘void of activity;’ and pure he paraphrases by ‘free from ignorance and other taints.’
 
 [^693]: 160:3 It is difficult to say what ‘in this way’ refers to. <i>S</i>ankara renders it by ‘as possessing qualities appertaining to the two kinds of body.’ On <i>S</i>ankara's suggested meaning of the stanza preceding (see note [^686]), it would refer to the confusion of the senses with the self.
 
@@ -258,7 +258,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^695]: 160:5 I. e. by the troubles of worldly life.
 
-[^696]: 160:6 Cf. ‘without belongings’ at Gîtâ, [p. 128](Bhagavadgita_18#p128).
+[^696]: 160:6 Cf. ‘without belongings’ at Gîtâ, [p. 128](../Bhagavadgita_18#p128).
 
 [^697]: 160:7 Anger and other obstacles to concentration of mind.
 
@@ -274,7 +274,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^703]: 161:4 I. e. may sacrifice to them, <i>S</i>ankara.
 
-[^704]: 161:5 Not even the deity to whom the sacrifice is offered is equal to one who knows the Brahman. Cf. Taittirîya, p. 23, and. Anugîtâ, [p. 250](Anugita_4#p250).
+[^704]: 161:5 Not even the deity to whom the sacrifice is offered is equal to one who knows the Brahman. Cf. Taittirîya, p. 23, and. Anugîtâ, [p. 250](../Anugita_4#p250).
 
 [^705]: 161:6 I. e. one who is ‘taciturn’ and does not parade his greatness.
 
@@ -284,4 +284,4 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^708]: 161:9 I. e. restraint of all senses, not of speech only. For the contrast compare that between <i>s</i>reya and preya at Ka<i>th</i>a, p. 92.
 
-[^709]: 161:10 I. e. by all men of understanding. <i>S</i>ankara's rendering is different: ‘The next, which is known as Tad, is for taciturnity.’ He cites for this Gîtâ, [p. 120](Bhagavadgita_17#p120).
+[^709]: 161:10 I. e. by all men of understanding. <i>S</i>ankara's rendering is different: ‘The next, which is known as Tad, is for taciturnity.’ He cites for this Gîtâ, [p. 120](../Bhagavadgita_17#p120).

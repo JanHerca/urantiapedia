@@ -218,7 +218,7 @@ Thus I say.
 
 [^229]: 87:1 King Da<i>s</i>âr<i>n</i>abhadra was a contemporary of Mahâvîra.
 
-[^230]: 87:2 These are the four Pratyêkabuddhas; see [p. 35](Uttaradhyayana_8#p35), note [2](Uttaradhyayana_9#fn130).
+[^230]: 87:2 These are the four Pratyêkabuddhas; see [p. 35](../Uttaradhyayana_8#p35), note [2](../Uttaradhyayana_9#fn130).
 
 [^231]: 87:3 The story of Udâya<i>n</i>a (or perhaps Uddâyana) will be found in my Ausgewählte Erzählungen in Mâhârâsh<i>t</i>rî, p. 28 ff. He was contemporary with Mahâvîra.
 

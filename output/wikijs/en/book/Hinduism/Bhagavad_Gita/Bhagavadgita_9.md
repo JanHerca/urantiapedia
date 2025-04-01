@@ -36,7 +36,7 @@ Now I will speak to you, who are not given to carping, of that most mysterious k
 
 Constantly glorifying me, and exerting themselves [^322], firm in their vows [^323], and saluting me with reverence,
 
-they worship me, being always devoted. And others again, offering up the sacrifice of knowledge, worship me as one, as distinct, and as all-pervading in numerous forms [^324]. I am the Kratu [^325], I am the Ya<i>g</i>ña, I am the Svadhâ, I the product of the herbs. I am the sacred verse. I too am the sacrificial butter, and I the fire, I the offering [^326]. I am the father of this universe, the mother, the creator, the grandsire, the thing to be known, the means of sanctification, the syllable Om [^327], the _Rik_, Sâman, and Ya<i>g</i>us also; the goal, the sustainer, the lord, the supervisor, the <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> residence [^328], the asylum, the friend, the source, and that in which it merges, the support, the receptacle, and the inexhaustible seed. I cause heat and I send forth and stop showers. I am immortality and also death; and I, O Ar<i>g</i>una! am that which is and that which is not [^329]. Those who know the three (branches of) knowledge, who drink the Soma juice, whose sins are washed away, offer sacrifices and pray to me for a passage into heaven; and reaching the holy world of the lord of gods, they enjoy in the celestial regions the celestial pleasures of the gods. And having enjoyed that great heavenly world, they enter the mortal world when (their) merit is exhausted [^330]. Thus those who wish for objects of desire, and resort to the ordinances of the three (Vedas), obtain (as the fruit) going and coming. To those men who worship me, meditating on me and on no one else, and who are constantly devoted, I give new gifts and preserve what is acquired by them [^331]. Even those, O son of Kuntî! who being devotees of other divinities worship with faith, worship me only, (but) irregularly [^332]. For I am the enjoyer as well as the lord [^333] of all sacrifices. But they know me not truly, therefore do they fall [^334]. Those who make vows [^335] to the gods go to the gods; <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> those who make vows to the manes go to the manes, those who worship the Bhûtas go to the Bhûtas; and those likewise who worship me go to me. Whoever with devotion offers me leaf, flower, fruit, water, that, presented with devotion, I accept from him whose self is pure. Whatever you do, O son of Kuntî! whatever you eat, whatever sacrifice you make, whatever you give, whatever penance you perform, do that as offered to me [^336]. Thus will you be released from the bonds of action, the fruits of which are agreeable or disagreeable. And with your self possessed of (this) devotion, (this) renunciation [^337], you will be released (from the bonds of action) and will come to me. I am alike to all beings; to me none is hateful, none dear. But those who worship me with devotion (dwell) in me [^338], and I too in them. Even if a very ill-conducted man worships me, not worshipping any one else, he must certainly be deemed to be good, for he has well resolved [^339]. He soon becomes devout of heart, and obtains lasting tranquillity. (You may) affirm, O son of Kuntî! that my devotee is never ruined. For, O son of P<i>ri</i>thâ! even those who are of sinful birth [^340], women, Vai<i>s</i>yas; and <i>S</i>ûdras likewise, resorting to me, attain the supreme goal. What then (need <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> be said of) holy Brâhma<i>n</i>as and royal saints who are (my) devotees? Coming to this transient unhappy [1](Bhagavadgita_10#fn341) world, worship me. (Place your) mind on me, become my devotee, my worshipper; reverence me, and thus making me your highest goal, and devoting your self to abstraction, you will certainly come to me.
+they worship me, being always devoted. And others again, offering up the sacrifice of knowledge, worship me as one, as distinct, and as all-pervading in numerous forms [^324]. I am the Kratu [^325], I am the Ya<i>g</i>ña, I am the Svadhâ, I the product of the herbs. I am the sacred verse. I too am the sacrificial butter, and I the fire, I the offering [^326]. I am the father of this universe, the mother, the creator, the grandsire, the thing to be known, the means of sanctification, the syllable Om [^327], the _Rik_, Sâman, and Ya<i>g</i>us also; the goal, the sustainer, the lord, the supervisor, the <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> residence [^328], the asylum, the friend, the source, and that in which it merges, the support, the receptacle, and the inexhaustible seed. I cause heat and I send forth and stop showers. I am immortality and also death; and I, O Ar<i>g</i>una! am that which is and that which is not [^329]. Those who know the three (branches of) knowledge, who drink the Soma juice, whose sins are washed away, offer sacrifices and pray to me for a passage into heaven; and reaching the holy world of the lord of gods, they enjoy in the celestial regions the celestial pleasures of the gods. And having enjoyed that great heavenly world, they enter the mortal world when (their) merit is exhausted [^330]. Thus those who wish for objects of desire, and resort to the ordinances of the three (Vedas), obtain (as the fruit) going and coming. To those men who worship me, meditating on me and on no one else, and who are constantly devoted, I give new gifts and preserve what is acquired by them [^331]. Even those, O son of Kuntî! who being devotees of other divinities worship with faith, worship me only, (but) irregularly [^332]. For I am the enjoyer as well as the lord [^333] of all sacrifices. But they know me not truly, therefore do they fall [^334]. Those who make vows [^335] to the gods go to the gods; <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> those who make vows to the manes go to the manes, those who worship the Bhûtas go to the Bhûtas; and those likewise who worship me go to me. Whoever with devotion offers me leaf, flower, fruit, water, that, presented with devotion, I accept from him whose self is pure. Whatever you do, O son of Kuntî! whatever you eat, whatever sacrifice you make, whatever you give, whatever penance you perform, do that as offered to me [^336]. Thus will you be released from the bonds of action, the fruits of which are agreeable or disagreeable. And with your self possessed of (this) devotion, (this) renunciation [^337], you will be released (from the bonds of action) and will come to me. I am alike to all beings; to me none is hateful, none dear. But those who worship me with devotion (dwell) in me [^338], and I too in them. Even if a very ill-conducted man worships me, not worshipping any one else, he must certainly be deemed to be good, for he has well resolved [^339]. He soon becomes devout of heart, and obtains lasting tranquillity. (You may) affirm, O son of Kuntî! that my devotee is never ruined. For, O son of P<i>ri</i>thâ! even those who are of sinful birth [^340], women, Vai<i>s</i>yas; and <i>S</i>ûdras likewise, resorting to me, attain the supreme goal. What then (need <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> be said of) holy Brâhma<i>n</i>as and royal saints who are (my) devotees? Coming to this transient unhappy [1](../Bhagavadgita_10#fn341) world, worship me. (Place your) mind on me, become my devotee, my worshipper; reverence me, and thus making me your highest goal, and devoting your self to abstraction, you will certainly come to me.
 
 
 
@@ -76,13 +76,13 @@ they worship me, being always devoted. And others again, offering up the sacrifi
 
 [^314]: 82:1 I. e. by immediate consciousness, not mediately; ‘not opposed to the sacred law,’ i.e. like the <i>S</i>yena sacrifice for destroying a foe.
 
-[^315]: 82:2 Because he is untainted by anything. And therefore also the entities do not live in him, as said in the next sentence. See [p. 80](Bhagavadgita_8#p80) supra.
+[^315]: 82:2 Because he is untainted by anything. And therefore also the entities do not live in him, as said in the next sentence. See [p. 80](../Bhagavadgita_8#p80) supra.
 
 [^316]: 82:3 As space is untainted and unaffected by the air which remains in it, so am I by the entities.
 
-[^317]: 82:4 Supra, [p. 58](Bhagavadgita_3#p58). Nature = the unperceived principle.
+[^317]: 82:4 Supra, [p. 58](../Bhagavadgita_3#p58). Nature = the unperceived principle.
 
-[^318]: 82:5 Cf. [p. 80](Bhagavadgita_8#p80) supra.
+[^318]: 82:5 Cf. [p. 80](../Bhagavadgita_8#p80) supra.
 
 [^319]: 82:6 I am not affected by the differences in the conditions of these entities.
 
@@ -90,7 +90,7 @@ they worship me, being always devoted. And others again, offering up the sacrifi
 
 [^321]: 83:1 Hope, viz. that some other deity will give them what they want; acts, vain as not offered to the supreme; knowledge, vain as abounding in foolish doubts, &c.
 
-[^322]: 83:2 Cf. [p. 76](Bhagavadgita_7#p76) supra.
+[^322]: 83:2 Cf. [p. 76](../Bhagavadgita_7#p76) supra.
 
 [^323]: 83:3 For a knowledge of the supreme, or for the means of such knowledge.
 
@@ -100,9 +100,9 @@ they worship me, being always devoted. And others again, offering up the sacrifi
 
 [^326]: 83:6 Kratu is a Vedic sacrifice; Ya<i>g</i>ña, a sacrifice laid down in Sm<i>ri</i>tis. Svadhâ = offering to the manes; ‘product of the herbs’ = food prepared from vegetables, or medicine.
 
-[^327]: 83:7 Cf. [p. 61](Bhagavadgita_4#p61) supra.
+[^327]: 83:7 Cf. [p. 61](../Bhagavadgita_4#p61) supra.
 
-[^328]: 83:8 P. [9](Bhagavadgita_Intro#p9) supra.
+[^328]: 83:8 P. [9](../Bhagavadgita_Intro#p9) supra.
 
 [^329]: 84:1 I. e. the seat of enjoyment; receptacle = where things are preserved for future use, say the commentators.
 
@@ -114,13 +114,13 @@ they worship me, being always devoted. And others again, offering up the sacrifi
 
 [^333]: 84:5 Because in form they worship other divinities.
 
-[^334]: 84:6 Giver of the fruit. As to enjoyer, cf. [p. 67](Bhagavadgita_5#p67) supra.
+[^334]: 84:6 Giver of the fruit. As to enjoyer, cf. [p. 67](../Bhagavadgita_5#p67) supra.
 
 [^335]: 84:7 I. e. return to the mortal world.
 
-[^336]: 84:8 I. e. some regulation as to mode of worship. Cf. also [p. 76](Bhagavadgita_7#p76) supra.
+[^336]: 84:8 I. e. some regulation as to mode of worship. Cf. also [p. 76](../Bhagavadgita_7#p76) supra.
 
-[^337]: 85:1 Cf. [p. 55](Bhagavadgita_3#p55) supra, and other passages.
+[^337]: 85:1 Cf. [p. 55](../Bhagavadgita_3#p55) supra, and other passages.
 
 [^338]: 85:2 This mode of action is at once devotion and renunciation: the first, because one cares not for fruit; the second, because it is offered to the supreme.
 

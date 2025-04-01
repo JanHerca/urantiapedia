@@ -33,7 +33,7 @@ dateCreated: 2025-1-15T22:11:38Z
 </figure>
 
 
-[3b](Book_1_10#fn5)
+[3b](../Book_1_10#fn5)
 
 ## CANTO I: NÁRAD.
 
@@ -207,7 +207,7 @@ Bharat, his son, refused to reign,
 Though urged by all the twice-born  [^28] train.
 Forth to the woods he fared to meet
 Hia brother, fell before his feet,
-And cried, 'Thy [claim](errata.htm#0) all men allow:
+And cried, 'Thy [claim](../errata.htm#0) all men allow:
 O come, our lord and king be thou.’
 But Rama nobly chose to be
 Observant of his sire's decree.
@@ -569,7 +569,7 @@ His every act to day displayed,
 His secret life to none betrayed:
 How Lakshman, how the giants fought;
 With high emprise and hidden thought:
-And all that Janak's child  [1b](Book_1_10#fn48) befell
+And all that Janak's child  [1b](../Book_1_10#fn48) befell
 Where all could see, where none could tell,
 The whole of this shall truly be
 Made known, O best of saints, to thee.
@@ -580,7 +580,7 @@ The tale divine in charming verse.
 As long as in this firm-set land
 The streams shall flow, the mountains stand,
 So long throughout the world, be sure,
-The great Rámáyan shall endure. [2b](Book_1_10#fn49)
+The great Rámáyan shall endure. [2b](../Book_1_10#fn49)
 While the Rámáyan's ancient strain
 Shall glorious in the earth remain,
 To higher spheres shalt thou arise
@@ -981,7 +981,7 @@ And wains for draught and cars for speed.
 With envoys sent by distant kings,
 And merchants with their precious things,
 With banners o'er her roofs that play,
-And weapons that a hundred slay; [1b](Book_1_10#fn67)
+And weapons that a hundred slay; [1b](../Book_1_10#fn67)
 All warlike engines framed by man,
 And every class of artisan.
 A city rich beyond compare
@@ -995,7 +995,7 @@ The ringing of the archer's bow;
 With bands of godlike heroes skilled
 In every warlike weapon, filled,
 And kept by warriors from the foe,
-As Nágas guard their home below. [2b](Book_1_10#fn68)
+As Nágas guard their home below. [2b](../Book_1_10#fn68)
 There wisest Bráhmans evermore
 &nbsp;&nbsp;&nbsp;&nbsp;The flame of worship feed,
 And versed in all the Vedas' lore,
@@ -1112,15 +1112,15 @@ They rivalled well the world-spread fame
 Of the great stock from which they came,
 &nbsp;&nbsp;&nbsp;&nbsp;Of Váman, vast of size,
 Of Mahápadma's glorious line,
-Thine, Aujan, and, Airávat, thine. [1](Book_1_10#fn75)
+Thine, Aujan, and, Airávat, thine. [1](../Book_1_10#fn75)
 &nbsp;&nbsp;&nbsp;&nbsp;Upholders of the skies.
 With those, enrolled in fourfold class,
 Who all their mighty kin surpass,
 Whom men Matangas name,
 And Mrigas spotted black and white,
 And Bhadras of unwearied might,
-And Mandras hard to tame.  [2](Book_1_10#fn76)
-Thus, worthy of the name she bore, [3](Book_1_10#fn77)
+And Mandras hard to tame.  [2](../Book_1_10#fn76)
+Thus, worthy of the name she bore, [3](../Book_1_10#fn77)
 Ayodhyá for a league or more
 &nbsp;&nbsp;&nbsp;&nbsp;Cast a bright glory round,
 Where Das'aratha wise and great
@@ -1775,7 +1775,7 @@ Graced like the king with love and praise
 And shone in glorious light with her,
 Sweet S'ántá, for his minister,
 As Brahmá's son Vas'ishtha, he
-Who wedded Saint Arundhati. [1](Book_1_20#fn83)
+Who wedded Saint Arundhati. [1](../Book_1_20#fn83)
 
 
 

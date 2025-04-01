@@ -356,7 +356,7 @@ Of giant warriors tall and strong,
 On elephants of noblest breeds.
 With cars, with camels, and with steeds:
 And, armed with spear and axe and sword
-Were fain to battle for their lord.  [1](Book_6_70#fn993)
+Were fain to battle for their lord.  [1](../Book_6_70#fn993)
 
 
 

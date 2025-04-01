@@ -120,12 +120,12 @@ Round him they paced with solemn tread,
 And honoured him with greetings kind,
 Then downward yet their way they mined.
 They gained the tract 'twixt east and north
-Whose fame is ever blazoned forth, [1b](Book_1_50#fn189)
+Whose fame is ever blazoned forth, [1b](../Book_1_50#fn189)
 And by a storm of rage impelled,
 Digging through earth their course they held.
 &nbsp;&nbsp;&nbsp;&nbsp;Then all the princes, lofty-souled,
 Of wondrous vigour, strong and bold,
-Saw Vásudeva  [2b](Book_1_50#fn190) standing there
+Saw Vásudeva  [2b](../Book_1_50#fn190) standing there
 In Kapil's form he loved to wear,
 And near the everlasting God
 The victim charger cropped the sod.
@@ -136,7 +136,7 @@ Crying aloud, Stand, villain! stand!
 ‘Avaunt! avaunt!’ great Kapil cried,
 His bosom flusht with passion's tide;
 Then by his might that proud array
-All scorcht to heaps of ashes lay. [3b](Book_1_50#fn191)
+All scorcht to heaps of ashes lay. [3b](../Book_1_50#fn191)
 
 
 
@@ -228,7 +228,7 @@ Return, and with thee take the steed;
 So shall thy grandsire's rite succeed.’
 
 Prince Ans'umán the strong and brave
-Followed the rede Suparna  [1b](Book_1_50#fn193) gave.
+Followed the rede Suparna  [1b](../Book_1_50#fn193) gave.
 The glorious hero took the horse,
 And homeward quickly bent his course.
 Straight to the anxious king he hied,
@@ -342,7 +342,7 @@ In sweet kind words his answer made.
 Bhagirath of the mighty car!
 Ikshváku's line is blest in thee,
 And as thou prayest it shall be.
-Gangá, whose waves in Swarga  [1b](Book_1_50#fn196) flow,
+Gangá, whose waves in Swarga  [1b](../Book_1_50#fn196) flow,
 Is daughter of the Lord of Snow.
 Win S'iva that his aid be lent
 To hold her in her mid descent,
@@ -352,7 +352,7 @@ And none may hold her weight but He,
 The Trident wielding deity.’
 Thus having said, the Lord supreme
 Addressed him to the heavenly stream;
-And then with Gods and Maruts  [2b](Book_1_50#fn197) went
+And then with Gods and Maruts  [2b](../Book_1_50#fn197) went
 To heaven above the firmament.
 
 
@@ -773,7 +773,7 @@ A lotus in her perfect hand,
 And fondly, of the lotus-sprung,
 To lotus-bearing Vishnu clung.
 Her Gods above and men below
-As Beauty's Queen and Fortune know. [1b](Book_1_50#fn210)
+As Beauty's Queen and Fortune know. [1b](../Book_1_50#fn210)
 Gods, Titans, and the minstrel train
 Still churned and wrought the troubled main.
 At length the prize so madly sought,
@@ -796,7 +796,7 @@ Yea, Vishnu, all-pervading God,
 Beneath his feet the Titans trod
 Aditi's race, the sons of light,
 slew Diti's brood in cruel fight.
-Then town-destroying [2b](Book_1_50#fn211) Indra gained
+Then town-destroying [2b](../Book_1_50#fn211) Indra gained
 His empire, and in glory reigned
 O'er the three worlds with bard and sage
 Rejoicing in his heritage.
@@ -861,7 +861,7 @@ And a new brother thou shalt see.
 Him for thy sake I'll nobly breed,
 And lust of war his soul shall feed;
 Then free from care and sorrow thou
-Shalt see the worlds before him bow.' [1](Book_1_50#fn212)
+Shalt see the worlds before him bow.' [1](../Book_1_50#fn212)
 
 
 
@@ -1065,7 +1065,7 @@ And make the sinner pure again.
 Due honour paid to him, thy guest,
 Shall cleanse thy fond and erring breast,
 Thee to my side in bliss restore,
-And give thy proper shape once more.' [1](Book_1_50#fn218)
+And give thy proper shape once more.' [1](../Book_1_50#fn218)
 
 Thus to his guiltv wife he said,
 Then far the holy Gautam fled.

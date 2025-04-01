@@ -50,7 +50,7 @@ What is the end of him, O K<i>ri</i>sh<i>n</i>a! who does not attain the consumm
 
 The Deity said:
 
-O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; for, O dear friend! none who performs good (deeds) comes to an evil end. He who is fallen from devotion attains the worlds of those who perform meritorious acts, dwells (there) for many a year, and is afterwards born into a family of holy and illustrious [^266] men. Or he is even born into a family of talented devotees; for such a birth as that in this world is more difficult to obtain. There he comes into contact with the knowledge which belonged to him in his former body, and then again, O descendant of Kuru! he works for perfection [^267]. For even though reluctant [^268], he is led away by the <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> self-same former practice, and although he only wishes to learn devotion, he rises above the (fruits of action laid down in the) divine word. But the devotee working with great efforts [1](Bhagavadgita_7#fn269), and cleared of his sins, attains perfection after many births, and then reaches the supreme goal. The devotee is esteemed higher than the performers of penances, higher even than the men of knowledge, and the devotee is higher than the men of action; therefore, O Ar<i>g</i>una! become a devotee. And even among all devotees, he who, being full of faith, worships me, with his inmost self intent on me, is esteemed by me to be the most devoted.
+O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; for, O dear friend! none who performs good (deeds) comes to an evil end. He who is fallen from devotion attains the worlds of those who perform meritorious acts, dwells (there) for many a year, and is afterwards born into a family of holy and illustrious [^266] men. Or he is even born into a family of talented devotees; for such a birth as that in this world is more difficult to obtain. There he comes into contact with the knowledge which belonged to him in his former body, and then again, O descendant of Kuru! he works for perfection [^267]. For even though reluctant [^268], he is led away by the <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> self-same former practice, and although he only wishes to learn devotion, he rises above the (fruits of action laid down in the) divine word. But the devotee working with great efforts [1](../Bhagavadgita_7#fn269), and cleared of his sins, attains perfection after many births, and then reaches the supreme goal. The devotee is esteemed higher than the performers of penances, higher even than the men of knowledge, and the devotee is higher than the men of action; therefore, O Ar<i>g</i>una! become a devotee. And even among all devotees, he who, being full of faith, worships me, with his inmost self intent on me, is esteemed by me to be the most devoted.
 
 
 
@@ -80,13 +80,13 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 ## Footnotes
 
-[^233]: 67:1 Cf. infra, [p. 18](Bhagavadgita_Intro#p18).
+[^233]: 67:1 Cf. infra, [p. 18](../Bhagavadgita_Intro#p18).
 
 [^234]: 67:2 p. 57 and Ka<i>th</i>opanishad, p. 157.
 
 [^235]: 67:3 Which are required for ordinary religious rites.
 
-[^236]: 67:4 Which are the cause of desires; see supra, [p. 50](Bhagavadgita_2#p50).
+[^236]: 67:4 Which are the cause of desires; see supra, [p. 50](../Bhagavadgita_2#p50).
 
 [^237]: 67:5 Abandonment of distracting actions; means scil. to perfect knowledge, says <i>S</i>rîdhara.
 
@@ -96,7 +96,7 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 [^240]: 68:2 This means restraining senses by mind. See Maitrî-upanishad, p. 180.
 
-[^241]: 68:3 Supra, [p. 57](Bhagavadgita_3#p57).
+[^241]: 68:3 Supra, [p. 57](../Bhagavadgita_3#p57).
 
 [^242]: 68:4 By any of the vexations of the world.
 
@@ -120,7 +120,7 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 [^252]: 70:1 Cf. Sutta Nipâta, p. 62.
 
-[^253]: 70:2 Cf. supra, [p. 53](Bhagavadgita_3#p53).
+[^253]: 70:2 Cf. supra, [p. 53](../Bhagavadgita_3#p53).
 
 [^254]: 70:3 I. e. cease to think of objects of sense. Cf. supra, [p. 69](#p69).
 
@@ -136,7 +136,7 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 [^260]: 71:3 Cf. Îsopanishad, p. 13.
 
-[^261]: 71:4 ‘Even abandoning all action,’ says <i>S</i>rîdhara; and cf. infra, [p. 105](Bhagavadgita_13#p105).
+[^261]: 71:4 ‘Even abandoning all action,’ says <i>S</i>rîdhara; and cf. infra, [p. 105](../Bhagavadgita_13#p105).
 
 [^262]: 71:5 Who believes that pleasure and pain are as much liked or disliked by others as by himself, and puts himself in fact in the place of others.
 
@@ -152,4 +152,4 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 [^268]: 72:4 I. e. final emancipation.
 
-[^269]: 72:5 ‘As Ar<i>g</i>una himself,’ says Madhusûdana, ‘receives instruction in knowledge, though he comes to the battle-field without any such object; hence it was said before, “nothing is here abortive.”’ See [p. 47](Bhagavadgita_2#p47).
+[^269]: 72:5 ‘As Ar<i>g</i>una himself,’ says Madhusûdana, ‘receives instruction in knowledge, though he comes to the battle-field without any such object; hence it was said before, “nothing is here abortive.”’ See [p. 47](../Bhagavadgita_2#p47).

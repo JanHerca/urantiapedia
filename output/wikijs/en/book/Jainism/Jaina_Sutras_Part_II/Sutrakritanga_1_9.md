@@ -152,7 +152,7 @@ Thus I say.
 
 [^895]: 301:4 Vêra = vaira.
 
-[^896]: 301:5 This verse recurs in Uttarâdhyayana VI, 3; above, [p. 25](Uttaradhyayana_6#p25).
+[^896]: 301:5 This verse recurs in Uttarâdhyayana VI, 3; above, [p. 25](../Uttaradhyayana_6#p25).
 
 [^897]: 302:1 Pôya<i>g</i>arâû = pôta<i>g</i>arâyu, i.e. born alive (as elephants, &c.) and born together with the chorion (as cows, &c.)
 
@@ -162,7 +162,7 @@ Thus I say.
 
 [^900]: 302:4 Tha<i>n</i><i>d</i>illa, i.e. krôdha.
 
-[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, i.e. mâna. These four passions are named here from the way in which they are supposed to act upon the soul. Similar names occurred above, [p. 248](Sutrakritanga_1_1_4#p248), notes [3](Sutrakritanga_1_1_4#fn723)\-[6](Sutrakritanga_1_1_4#fn726).
+[^901]: 302:5 Ussaya<i>n</i>a = u<i>k</i><i>kh</i>raya, i.e. mâna. These four passions are named here from the way in which they are supposed to act upon the soul. Similar names occurred above, [p. 248](../Sutrakritanga_1_1_4#p248), notes [3](../Sutrakritanga_1_1_4#fn723)\-[6](../Sutrakritanga_1_1_4#fn726).
 
 [^902]: 302:6 Palimantha.
 

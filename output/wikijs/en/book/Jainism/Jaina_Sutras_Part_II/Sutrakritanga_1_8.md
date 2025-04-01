@@ -132,6 +132,6 @@ Thus I say.
 
 [^889]: 299:2 See Uttarâdhyayana, Fifth Lecture.
 
-[^890]: 299:3 <i>S</i>îlâṅka quotes and comments upon four different readings of the first line of this verse, the last of which is rendered above as it is the textus receptus of the Dîpikâ. (1) Abstaining from even small pride and from deceit, one, &c. (2) ‘Great’ for ‘even small.’ (3) I have heard from some men: This is the valour of the virtuous man, that, &c. After this verse <i>S</i>îlâṅka quotes another which, he says, is not found in MSS. of the text, but p. 300 is found in the <i>T</i>îkâ. It is, however, the identical verse I, 3, 4, 20, see above, [p. 271](Sutrakritanga_1_3_4#p271), which occurs again I, 11, 11.
+[^890]: 299:3 <i>S</i>îlâṅka quotes and comments upon four different readings of the first line of this verse, the last of which is rendered above as it is the textus receptus of the Dîpikâ. (1) Abstaining from even small pride and from deceit, one, &c. (2) ‘Great’ for ‘even small.’ (3) I have heard from some men: This is the valour of the virtuous man, that, &c. After this verse <i>S</i>îlâṅka quotes another which, he says, is not found in MSS. of the text, but p. 300 is found in the <i>T</i>îkâ. It is, however, the identical verse I, 3, 4, 20, see above, [p. 271](../Sutrakritanga_1_3_4#p271), which occurs again I, 11, 11.
 
 [^891]: 300:1 Compare Matthew vi. i-6.

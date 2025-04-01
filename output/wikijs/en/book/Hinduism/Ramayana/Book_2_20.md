@@ -1291,9 +1291,9 @@ Of all who part the soft dark hair,
 His love, his life, possessed the whole
 Of her young hero's heart and soul:—
 ‘Be sure the lady's fate repays
-Some mighty vow of ancient days,  [1b](Book_2_20#fn283)
+Some mighty vow of ancient days,  [1b](../Book_2_20#fn283)
 For blest with Ráma's love is she
-As, with the Moon's, sweet Rohiní.'  [2b](Book_2_20#fn284)
+As, with the Moon's, sweet Rohiní.'  [2b](../Book_2_20#fn284)
 
 Such were the witching words that came
 From lips of many a peerless dame
@@ -1378,7 +1378,7 @@ The multitude, elate with joy,
 And his return with eager eyes
 &nbsp;&nbsp;&nbsp;&nbsp;Expected at the gates,
 As for his darling moon to rise
-&nbsp;&nbsp;&nbsp;&nbsp;The King of Rivers  [1](Book_2_20#fn285) waits.
+&nbsp;&nbsp;&nbsp;&nbsp;The King of Rivers  [1](../Book_2_20#fn285) waits.
 
 
 

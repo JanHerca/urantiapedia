@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:2:15Z
 
 THE RECOVERY OF THE HSIÂO KING UNDER THE HAN DYNASTY, AND ITS PRESERVATION DOWN TO THE PUBLICATION OF THE COMMENTARY OF THE THANG EMPEROR HSÜAN ZUNG.
 
-1\. The Hsiâo King suffered, like all the other Confucian books except the Yî, from the fires of <i>Kh</i>in. Its subsequent recovery was very like that of the Shû, described on pp. [7](Shu_King_Intro_1#p7), 8. We have in each case a shorter and a longer copy, a modern text and an ancient text.
+1\. The Hsiâo King suffered, like all the other Confucian books except the Yî, from the fires of <i>Kh</i>in. Its subsequent recovery was very like that of the Shû, described on pp. [7](../Shu_King_Intro_1#p7), 8. We have in each case a shorter and a longer copy, a modern text and an ancient text.
 
 Recovery of the Hsiâo King.
 
@@ -64,7 +64,7 @@ The copies catalogued by Hin were made after the examination and revision of the
 
 From Khung An-kwo to the emperor Hsüan Ȝung.
 
-2\. I have said above ([p. 450](Hsiao_King_Intro_1#p450)) that for the text of the classic,—the modern text, that is,—as we now have it, we are indebted to the labours of the emperor Hsüan Ȝung of the Thang dynasty. <i>K</i>û Î-tsun, of the <i>Kh</i>ien-lung period (1736-1795), in his work on the classics and the writings on them, has adduced the titles of eighty-six different works on our classic, that appeared between Khung An-kwo and Hsüan ZȜung. Not a single one of all these now survives; but the enumeration of them shows that the most distinguished scholars during the intervening centuries exercised their powers on the treatise, and would keep a watch on one another in the preservation of the text. Moreover, several of the works continued through the Thang dynasty, and on into that of Sung. The Catalogue of the Sui Library contains the titles of nineteen in its list.
+2\. I have said above ([p. 450](../Hsiao_King_Intro_1#p450)) that for the text of the classic,—the modern text, that is,—as we now have it, we are indebted to the labours of the emperor Hsüan Ȝung of the Thang dynasty. <i>K</i>û Î-tsun, of the <i>Kh</i>ien-lung period (1736-1795), in his work on the classics and the writings on them, has adduced the titles of eighty-six different works on our classic, that appeared between Khung An-kwo and Hsüan ZȜung. Not a single one of all these now survives; but the enumeration of them shows that the most distinguished scholars during the intervening centuries exercised their powers on the treatise, and would keep a watch on one another in the preservation of the text. Moreover, several of the works continued through the Thang dynasty, and on into that of Sung. The Catalogue of the Sui Library contains the titles of nineteen in its list.
 
 Hsüan Ȝung's work.
 

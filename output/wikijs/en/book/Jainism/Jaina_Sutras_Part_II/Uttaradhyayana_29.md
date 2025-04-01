@@ -354,7 +354,7 @@ Thus I say.
 
 [^425]: 162:2 Atyâ<i>s</i>âtana.
 
-[^426]: 162:3 Nidâna, cf. [p. 60](Uttaradhyayana_13#p60), n. [2](Uttaradhyayana_13#fn173).
+[^426]: 162:3 Nidâna, cf. [p. 60](../Uttaradhyayana_13#p60), n. [2](../Uttaradhyayana_13#fn173).
 
 [^427]: 162:4 This is the meaning of the words itthîvêya napu<i>m</i>sagavêya<i>m</i> p. 163 = strîvêda, napu<i>m</i>sakavêda, as explained by the commentators on XXXII, 102.
 
@@ -370,7 +370,7 @@ Thus I say.
 
 [^433]: 164:2 Antakriyâ, explained by mukti.
 
-[^434]: 164:3 The Kalpas and the Vimânas are the heavens of the Vaimânika gods, see below, [p. 226](Uttaradhyayana_36#p226).
+[^434]: 164:3 The Kalpas and the Vimânas are the heavens of the Vaimânika gods, see below, [p. 226](../Uttaradhyayana_36#p226).
 
 [^436]: 164:4 By road is meant the means of acquiring right knowledge, and by the reward of the road, right knowledge. The reward of good conduct is mukti.
 
@@ -378,7 +378,7 @@ Thus I say.
 
 [^438]: 165:1 According to the commentaries, by Tîrtha are meant the Ga<i>n</i>adharas.
 
-[^439]: 165:2 Concerning the eight kinds of Karman, see XXXIII, 2 and 3, [p. 192](Uttaradhyayana_32#p192). Âyushka is that Karman which determines the length of time which one is to live. A somewhat different explanation of this Karman is given by Bhandarkar, loc. cit., p. 97, note.
+[^439]: 165:2 Concerning the eight kinds of Karman, see XXXIII, 2 and 3, [p. 192](../Uttaradhyayana_32#p192). Âyushka is that Karman which determines the length of time which one is to live. A somewhat different explanation of this Karman is given by Bhandarkar, loc. cit., p. 97, note.
 
 [^440]: 165:3 The passage in question is an addition in some MSS., as the commentators tell us. The meaning seems to be that the Karman which was attached to many parts of the soul is restricted to fewer places by the influence of the purity superinduced on the soul by pondering.
 
@@ -396,7 +396,7 @@ Thus I say.
 
 [^447]: 168:2 Sadbhâva pratyâkhyâna. The Dîpikâ gives the following explanation: he makes the renunciation in such a way that he need not make it a second time.
 
-[^448]: 168:3 Vêdanîya is that Karman which produces effects that must be experienced, as pleasure or pain; âyushka is the Karman that determines the length of life; nâman and gôtra cause him to be born as such or such an individual in this or that family; see Thirty-third Lecture, verses 2 and 3, [p. 192](Uttaradhyayana_32#p192) f.
+[^448]: 168:3 Vêdanîya is that Karman which produces effects that must be experienced, as pleasure or pain; âyushka is the Karman that determines the length of life; nâman and gôtra cause him to be born as such or such an individual in this or that family; see Thirty-third Lecture, verses 2 and 3, [p. 192](../Uttaradhyayana_32#p192) f.
 
 [^449]: 168:4 Explained: sthavirakalpasâdhuvêshadhâritvam.
 
@@ -404,7 +404,7 @@ Thus I say.
 
 [^451]: 169:1 Gupti.
 
-[^452]: 170:1 For Sa<i>m</i>vara and Âsrava, see above, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165), and [p. 73](Uttaradhyayana_15#p73), note [2](Uttaradhyayana_16#fn197).
+[^452]: 170:1 For Sa<i>m</i>vara and Âsrava, see above, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165), and [p. 73](../Uttaradhyayana_15#p73), note [2](../Uttaradhyayana_16#fn197).
 
 [^453]: 170:2 See above, § 41.
 
@@ -420,7 +420,7 @@ Thus I say.
 
 [^459]: 172:2 These are the obstacles to the five kinds of knowledge: mati, <i>s</i>ruta, avadhi, mana<i>h</i>paryâya, kêvala.
 
-[^460]: 172:3 They are: the obstacles to <i>k</i>akshurdar<i>s</i>ana, to a<i>k</i>akshurdar<i>s</i>ana, to avadhidar<i>s</i>ana, and to kêvaladar<i>s</i>ana, and five kinds of sleep (nidrâ). Concerning Antarâya, see [p. 193](Uttaradhyayana_33#p193).
+[^460]: 172:3 They are: the obstacles to <i>k</i>akshurdar<i>s</i>ana, to a<i>k</i>akshurdar<i>s</i>ana, to avadhidar<i>s</i>ana, and to kêvaladar<i>s</i>ana, and five kinds of sleep (nidrâ). Concerning Antarâya, see [p. 193](../Uttaradhyayana_33#p193).
 
 [^461]: 172:4 Sayôgin, i.e. while he has not yet reached the fourteenth gu<i>n</i>asthâna, the state of a Kêvalin.
 

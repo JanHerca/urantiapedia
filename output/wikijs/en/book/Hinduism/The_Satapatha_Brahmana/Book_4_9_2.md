@@ -234,7 +234,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^313]: 182:1 Or, ‘Homage be to thy burning (consuming) fire!’ as Mahîdhara takes ‘harase <i>s</i>o<i>k</i>ishe,’ and perhaps also the Brâhma<i>n</i>a, though ‘etai<i>h</i>,’ used in reference to Agni's weapons, would rather seem to indicate a plurality of them.
 
-[^314]: 182:2 See VII, 2, 3, 4; [VIII, 6, 3, 15](Book_4_8_6#v8_6_3_15).
+[^314]: 182:2 See VII, 2, 3, 4; [VIII, 6, 3, 15](../Book_4_8_6#v8_6_3_15).
 
 [^315]: 182:3 See III, 5, 2, 9-11; the libation of ghee there offered on the p. 183 uttara-vedi being preparatory to the leading forward of the fire to the high-altar.
 
@@ -274,13 +274,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^335]: 195:3 ? Or, reach _that_ place; Sâya<i>n</i>a, in the first instance, takes it to mean ‘as far as this place’ (from beyond the sun down to the end of the air); but in the second instance, he takes it as referring to the particular spot on the sacrificial ground near which this part of the ceremonial is performed, viz. the Âgnîdhra's fire-shed (as representing the air), south of which the Adhvaryu lays down a variegated stone close to the ‘spine.’
 
-[^336]: 196:1 That is, where the Âgnîdhra shed and hearth will afterwards have to be erected (see [IX, 4, 3, 5](Book_4_9_4#v9_4_3_5)\-[6](Book_4_9_4#v9_4_3_6)) on the northern edge of the Vedi, midway between the Gârhapatya and Âhavanîya fire-places.
+[^336]: 196:1 That is, where the Âgnîdhra shed and hearth will afterwards have to be erected (see [IX, 4, 3, 5](../Book_4_9_4#v9_4_3_5)\-[6](../Book_4_9_4#v9_4_3_6)) on the northern edge of the Vedi, midway between the Gârhapatya and Âhavanîya fire-places.
 
 [^337]: 197:1 Thus Mahîdhara here takes ‘pûrva,’ and apparently also the author of the Brâhma<i>n</i>a; the easterly father being the Âhavanîya, and hence the sky. In the formula it would rather seem to mean former, old.’
 
-[^338]: 197:2 See [VIII, 7, 3, 7](Book_4_8_7#v8_7_3_7).
+[^338]: 197:2 See [VIII, 7, 3, 7](../Book_4_8_7#v8_7_3_7).
 
-[^339]: 198:1 Viz. inasmuch as the firebrand now being carried forward to the great fire-altar, where it is henceforth to serve as Âhavanîya, was taken from the Gârhapatya fire, which itself is identical with the Ukhya Agni, or fire carried about by the Sacrificer in the Ukhâ, or pan, during his period of initiation. See [p. 191](Book_4_9_2#p191), note [^323].
+[^339]: 198:1 Viz. inasmuch as the firebrand now being carried forward to the great fire-altar, where it is henceforth to serve as Âhavanîya, was taken from the Gârhapatya fire, which itself is identical with the Ukhya Agni, or fire carried about by the Sacrificer in the Ukhâ, or pan, during his period of initiation. See [p. 191](../Book_4_9_2#p191), note [^323].
 
 [^340]: 199:1 Mahîdhara takes ‘puro’gni’ in the sense of fore-goer (puras agre aṅgati ga<i>k</i><i>kh</i>ati).
 
@@ -290,9 +290,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^343]: 201:1 Viz. VI, 7, 2, 2.
 
-[^344]: 201:2 See [IX, 2, 1, 1](Book_4_9_2#v9_2_1_1).
+[^344]: 201:2 See [IX, 2, 1, 1](../Book_4_9_2#v9_2_1_1).
 
-[^345]: 201:3 See [IX, 1, 1, 6](Book_4_9_1#v9_1_1_6).
+[^345]: 201:3 See [IX, 1, 1, 6](../Book_4_9_1#v9_1_1_6).
 
 [^346]: 201:4 ? Or, that (firebrand) is indeed food (vâ<i>g</i>a). Mahîdhara interprets this part of the formula thus: To thee do we give food (vâ<i>g</i>âya for vâ<i>g</i>am).
 

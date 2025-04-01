@@ -657,8 +657,8 @@ Ps. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear
 
 [^575]: 155:4 See above, p. 3-4. Other MSS. containing the Office are enumerated by Wadding. See also Boehmer's _Analekten_.
 
-[^576]: 155:5 See above, [p. 139](Part_3_1#p139).
+[^576]: 155:5 See above, [p. 139](../Part_3_1#p139).
 
-[^577]: 155:6 See above, [p. 141](Part_3_1#p141).
+[^577]: 155:6 See above, [p. 141](../Part_3_1#p141).
 
 [^578]: 166:1 The Oxford Codex here reads “until Easter Sunday.”

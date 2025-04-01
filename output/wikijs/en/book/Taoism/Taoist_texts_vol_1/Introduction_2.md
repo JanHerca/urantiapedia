@@ -112,7 +112,7 @@ comprises seven Books; the second, fifteen; and the third, eleven. ‘Inner’ m
 
 The general title of Kwang-dze's works.
 
-the duchy of Sung, born in what was then called the district of Mäng, and belonged to the state or kingdom of Liang or Wei. As he grew up, he filled some official post in the city of Zhî-yüan,—the site of which it is not easy to determine with certainty. In A.D. 742, the name of his birth-place was changed (but only for a time) to Nan-hwa, and an imperial order was issued that Kwang-Sze should thenceforth <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> be styled ‘The True Man of Nan-hwa,’ and his Book, ‘The True Book of Nan-hwa [1](Introduction_4#fn8).’ To be ‘a True Man’ is the highest Tâoistic achievement of a man, and our author thus canonised communicates his glory to his Book.
+the duchy of Sung, born in what was then called the district of Mäng, and belonged to the state or kingdom of Liang or Wei. As he grew up, he filled some official post in the city of Zhî-yüan,—the site of which it is not easy to determine with certainty. In A.D. 742, the name of his birth-place was changed (but only for a time) to Nan-hwa, and an imperial order was issued that Kwang-Sze should thenceforth <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> be styled ‘The True Man of Nan-hwa,’ and his Book, ‘The True Book of Nan-hwa [1](../Introduction_4#fn8).’ To be ‘a True Man’ is the highest Tâoistic achievement of a man, and our author thus canonised communicates his glory to his Book.
 
 
 

@@ -167,7 +167,7 @@ Che le sue membra due anni portarno.”
 
 [^10]: xiv:1 See _Leg. III Soc._, 10.
 
-[^11]: xiv:2 Eccleston speaks of his “false Latin.” See below, [p. 132](Part_2_6#p132).
+[^11]: xiv:2 Eccleston speaks of his “false Latin.” See below, [p. 132](../Part_2_6#p132).
 
 [^12]: xiv:3 Some of the greatest troubadours of Provence were then sojourning in Italy. On their journeys and influence there see Fauriel, _Histoire de la poésie Provençale_, t. II, and three articles by the same author in the “Bibliothèque de l’École des Chartes,” t. III and IV. Fragments of their poems are given by Monaci: _Testi antichi provenzali_ (Rome, 1889).
 
@@ -177,15 +177,15 @@ Che le sue membra due anni portarno.”
 
 [^15]: xv:2 1 Cel. 1.
 
-[^16]: xv:3 See below, [p. 130](Part_2_6#p130).
+[^16]: xv:3 See below, [p. 130](../Part_2_6#p130).
 
 [^17]: xv:4 M. Sabatier (_Vie de S. François_, p. 5) suggests that Brother Leo may have acted in this capacity, and invokes the authority of Bernard of Besse to prove it.
 
-[^18]: xvi:1 For the testimony of St. Bonaventure and Celano see below, [p. 147](Part_3_4#p147).
+[^18]: xvi:1 For the testimony of St. Bonaventure and Celano see below, [p. 147](../Part_3_4#p147).
 
 [^19]: xvi:2 See Tract. de Miraculis., _Anal. Bol._, t. xviii, p. 115.
 
-[^20]: xvii:1 See below, [p. 27](Part_1_4#p27).
+[^20]: xvii:1 See below, [p. 27](../Part_1_4#p27).
 
 [^21]: xviii:1 See Lemmens: De duobus generibus vitarum S. P. Francisci in _Doct. Ant. Franc._, P. II, p. 9; and de Kerval: Les Sources de l’histoire de S. François in _Bullettino Critico_, fasc. I, p. 3.
 
@@ -193,27 +193,27 @@ Che le sue membra due anni portarno.”
 
 [^23]: xix:1 See Ehrle, S.J.: Die historischen Handschriften des Klosters San Francesco in Assisi in _Archiv für Litteratur_, etc., t. I, p.484; Mgr. Faloci Pulignani in the _Miscell. Francescana_, t. VI, p. 46; M. Sabatier: _Vie de S. François_, I, p. 370; and Professor Alessandri: _Inventario dei manoscritti della biblioteca del conv. de S. Francesco di Assisi_, p. 57.
 
-[^24]: xix:2 See page [64](Part_1_4#p64).
+[^24]: xix:2 See page [64](../Part_1_4#p64).
 
-[^25]: xix:3 See page [81](Part_1_6#p81).
+[^25]: xix:3 See page [81](../Part_1_6#p81).
 
-[^26]: xix:4 See page [5](Part_1_1#p5).
+[^26]: xix:4 See page [5](../Part_1_1#p5).
 
-[^27]: xix:5 See page [98](Part_2_1#p98).
+[^27]: xix:5 See page [98](../Part_2_1#p98).
 
-[^28]: xix:6 See page [111](Part_2_2#p111).
+[^28]: xix:6 See page [111](../Part_2_2#p111).
 
-[^29]: xix:7 See page [23](Part_1_3#p23).
+[^29]: xix:7 See page [23](../Part_1_3#p23).
 
-[^30]: xix:8 See page [20](Part_1_2#p20).
+[^30]: xix:8 See page [20](../Part_1_2#p20).
 
-[^31]: xix:9 See page [152](Part_3_5#p152).
+[^31]: xix:9 See page [152](../Part_3_5#p152).
 
-[^32]: xix:10 See page [139](Part_3_1#p139).
+[^32]: xix:10 See page [139](../Part_3_1#p139).
 
-[^33]: xix:11 See page [155](Part_3_6#p155).
+[^33]: xix:11 See page [155](../Part_3_6#p155).
 
-[^34]: xix:12 See page [89](Part_1_7#p89).
+[^34]: xix:12 See page [89](../Part_1_7#p89).
 
 [^35]: xx:1 See _Speculum Perfectionis_ (ed. Sabatier), p. clxxvi, for description of these three MSS.
 
@@ -235,9 +235,9 @@ Che le sue membra due anni portarno.”
 
 [^44]: xxi:2 My references to the _Conformities_ are to the Milan edition of 1510. The edition published in 1590, especially in the historical part, is mutilated and corrupted at almost every page, as I can personally attest after a comparison of it with several old MS. versions.
 
-[^45]: xxi:3 See below, [p. 121](Part_2_3#p121).
+[^45]: xxi:3 See below, [p. 121](../Part_2_3#p121).
 
-[^46]: xxi:4 See below, [p. 118](Part_2_2#p118).
+[^46]: xxi:4 See below, [p. 118](../Part_2_2#p118).
 
 [^47]: xxii:1 It was printed at Venice “expensis domini Jordani de Dinslaken per Simonem de Lucre” in 1504, and at Metz “per Jasparem Hochffeder” in 1509. Both these editions are identical. It was republished by Spoelberch at Antwerp in 1620.
 

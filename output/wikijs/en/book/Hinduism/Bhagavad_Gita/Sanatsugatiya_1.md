@@ -58,7 +58,7 @@ Do you, O Vidura! speak to the ancient Sanâtana for me, so that there may be a 
 
 Vai<i>s</i>ampâyana [^608] said:
 
-(Then) Vidura meditated on that sage whose vows are laudable [^609]. And he, too, O descendant of Bharata! knowing of such meditation, made his appearance. And he [^610], too, received him with the ceremonies prescribed in the ordinances. After he had been comfortably seated, and had taken rest, Vidura then spoke to him: 'Venerable sir! there is some doubt in Dh<i>ri</i>tarâsh<i>t</i>ra's mind, which cannot <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> be explained by me. Do you be pleased to explain (it) to him. Hearing it (explained), this lord of men may cross beyond all misery, so that gain and loss [1](Sanatsugatiya_2#fn611), (what is) agreeable and (what is) odious, old age and death, fear and vindictiveness, hunger and thirst, frenzy and worldly greatness, disgust and also laziness, desire and wrath, ruin and prosperity, may not trouble him.’
+(Then) Vidura meditated on that sage whose vows are laudable [^609]. And he, too, O descendant of Bharata! knowing of such meditation, made his appearance. And he [^610], too, received him with the ceremonies prescribed in the ordinances. After he had been comfortably seated, and had taken rest, Vidura then spoke to him: 'Venerable sir! there is some doubt in Dh<i>ri</i>tarâsh<i>t</i>ra's mind, which cannot <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> be explained by me. Do you be pleased to explain (it) to him. Hearing it (explained), this lord of men may cross beyond all misery, so that gain and loss [1](../Sanatsugatiya_2#fn611), (what is) agreeable and (what is) odious, old age and death, fear and vindictiveness, hunger and thirst, frenzy and worldly greatness, disgust and also laziness, desire and wrath, ruin and prosperity, may not trouble him.’
 
 
 
@@ -88,7 +88,7 @@ Vai<i>s</i>ampâyana [^608] said:
 
 ## Footnotes
 
-[^608]: 149:1 So Nîlaka<i>nth</i>a. <i>S</i>ankara says Sanatsu<i>g</i>âta is Sanatkumâra, and the component parts of the name he paraphrases by ‘born from Brahman.’ For Sanâtana, see B<i>nth</i>hadâra<i>nth</i>aka, p. 506, and note [1](Sanatsugatiya_Intro#fn593), [p. 141](Sanatsugatiya_Intro#p141) supra.
+[^608]: 149:1 So Nîlaka<i>nth</i>a. <i>S</i>ankara says Sanatsu<i>g</i>âta is Sanatkumâra, and the component parts of the name he paraphrases by ‘born from Brahman.’ For Sanâtana, see B<i>nth</i>hadâra<i>nth</i>aka, p. 506, and note [1](../Sanatsugatiya_Intro#fn593), [p. 141](../Sanatsugatiya_Intro#p141) supra.
 
 [^609]: 149:2 I. e. relating to subjects which may be freely discussed by all, and those which may not. Nîlaka<i>nth</i>a adopts a different reading, which he interprets to mean ‘doctrines exoteric and esoteric,’ e. g. self-restraint, &c., and the acquisition of mystic power, &c., respectively. The expression ‘doubts of the mind’ occurs. however, further on.
 
@@ -96,6 +96,6 @@ Vai<i>s</i>ampâyana [^608] said:
 
 [^611]: 150:2 Vai<i>s</i>ampâyana is the narrator of the grand story of which pieces like the present form parts.
 
-[^612]: 150:3 The reading is sometimes different, so as to mean ‘of rigid vows,’ as at Gîtâ, [p. 61](Bhagavadgita_4#p61) supra.
+[^612]: 150:3 The reading is sometimes different, so as to mean ‘of rigid vows,’ as at Gîtâ, [p. 61](../Bhagavadgita_4#p61) supra.
 
 [^613]: 150:4 The pronouns here are too numerous. Does ‘he’ here refer to Dh<i>ri</i>tarâsh<i>t</i>ra? Vidura seems more likely, though the express mention of him in the next sentence might be treated as pointing the other way.

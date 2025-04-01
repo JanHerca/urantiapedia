@@ -58,7 +58,7 @@ What did the goddess of speech say on that occasion in days of old, when, though
 
 The Brâhma<i>n</i>a said:
 
-The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> means of the Prâ<i>n</i>a [1](Anugita_7#fn1274), and which then goes into the Apâna, and then becoming assimilated with the Udâna leaves the body [2](Anugita_7#fn1275), and with the Vyâna envelopes all the quarters [3](Anugita_7#fn1276), then (finally) dwells in the Samâna [4](Anugita_7#fn1277). So speech formerly spoke. Hence the mind is distinguished by reason of its being immovable, and the goddess distinguished by reason of her being movable [5](Anugita_7#fn1278).
+The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> means of the Prâ<i>n</i>a [1](../Anugita_7#fn1274), and which then goes into the Apâna, and then becoming assimilated with the Udâna leaves the body [2](../Anugita_7#fn1275), and with the Vyâna envelopes all the quarters [3](../Anugita_7#fn1276), then (finally) dwells in the Samâna [4](../Anugita_7#fn1277). So speech formerly spoke. Hence the mind is distinguished by reason of its being immovable, and the goddess distinguished by reason of her being movable [5](../Anugita_7#fn1278).
 
 
 
@@ -92,11 +92,11 @@ The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 2
 
 [^1253]: 261:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 459. The reading in the printed edition of Bombay is defective here.
 
-[^1254]: 261:3 See [p. 337](Anugita_27#p337) seq., where all this is more fully explained. And cf. the analogous Buddhistic doctrine stated at Lalita Vistara (Translation by Dr. R. Mitra), p. 11.
+[^1254]: 261:3 See [p. 337](../Anugita_27#p337) seq., where all this is more fully explained. And cf. the analogous Buddhistic doctrine stated at Lalita Vistara (Translation by Dr. R. Mitra), p. 11.
 
-[^1255]: 261:4 See Taittirîya-âra<i>n</i>yaka loc. cit., and cf. Gîtâ, [p. 61](Bhagavadgita_4#p61). ‘The wealth’ probably means the Dakshi<i>n</i>â to be given to the priests, which is mentioned at Gîtâ, [p. 119](Bhagavadgita_17#p119).
+[^1255]: 261:4 See Taittirîya-âra<i>n</i>yaka loc. cit., and cf. Gîtâ, [p. 61](../Bhagavadgita_4#p61). ‘The wealth’ probably means the Dakshi<i>n</i>â to be given to the priests, which is mentioned at Gîtâ, [p. 119](../Bhagavadgita_17#p119).
 
-[^1256]: 261:5 The ‘priests’ here being the senses, the knowledge would accrue to them, as to which cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1256]: 261:5 The ‘priests’ here being the senses, the knowledge would accrue to them, as to which cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
 [^1257]: 261:6 See note [^1249].
 
@@ -104,7 +104,7 @@ The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 2
 
 [^1259]: 262:2 Ar<i>g</i>una Mi<i>s</i>ra says this is an implied simile, the mind is an upholder of the body as the, ‘knower’ or self is.
 
-[^1260]: 262:3 Ar<i>g</i>una Mi<i>s</i>ra says this means ‘the mind.’ I think it better to take it here as the self (see [p. 238](Anugita_2#p238) supra), to which the ‘mind’ and the ‘other,’ mentioned further on, would be subordinate; the ‘other’ Ar<i>g</i>una Mi<i>s</i>ra renders by the ‘group of the senses.’ The senses are compared to fires at Gîtâ, [p. 61](Bhagavadgita_4#p61). The passage at Taittirîya-âranyaka above cited refers only to the Gârhapatya and Âhavanîya fires. Nîlaka<i>nth</i>a's text and explanation of this passage are, to my mind, not nearly so satisfactory as Ar<i>g</i>una Mi<i>s</i>ra's.
+[^1260]: 262:3 Ar<i>g</i>una Mi<i>s</i>ra says this means ‘the mind.’ I think it better to take it here as the self (see [p. 238](../Anugita_2#p238) supra), to which the ‘mind’ and the ‘other,’ mentioned further on, would be subordinate; the ‘other’ Ar<i>g</i>una Mi<i>s</i>ra renders by the ‘group of the senses.’ The senses are compared to fires at Gîtâ, [p. 61](../Bhagavadgita_4#p61). The passage at Taittirîya-âranyaka above cited refers only to the Gârhapatya and Âhavanîya fires. Nîlaka<i>nth</i>a's text and explanation of this passage are, to my mind, not nearly so satisfactory as Ar<i>g</i>una Mi<i>s</i>ra's.
 
 [^1261]: 262:4 In the Taittirîya-brâhmana and Âra<i>n</i>yaka loc. cit., the equivalent of the original word for ‘lord of speech’ here occurs, viz. Vâkpati for Vâ<i>k</i>aspati here; but that is there described as the Hot<i>ri</i> priest, and speech itself as the Vedî or altar. The commentator there interprets ‘lord of speech’ to mean the wind which causes vocal activity, and resides in the throat, palate, &c. As to mind and speech, see also <i>Kh</i>ândogya, pp. 285-441, and comments of <i>S</i>ankara there. The meaning of this passage, however, is not by any means clear to my mind. The Da<i>s</i>ahot<i>ri</i> mantras in the Taittirîya are stated to be the mantras of the Ish<i>t</i>i, or sacrifice, performed by Pra<i>g</i>âpati for creation. It is possible, then, that the meaning here is, that speech which is to be learnt by the pupil, as stated further on—namely, the Vedas—was first produced from that Ish<i>t</i>i (cf. Kullûka on Manu I, 21). But to understand that speech, mind is necessary; hence it is said to look up to the mind. The Brâhma<i>n</i>a's, wife, however, seems to understand speech as ordinary speech, hence her question.
 
@@ -116,7 +116,7 @@ The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 2
 
 [^1265]: 263:4 I. e. speech conveys information on all matters, Ar<i>g</i>una Mi<i>s</i>ra; p. 264 as the means of acquiring desired fruit, visible or invisible, is learnt by speech, Nîlaka<i>nth</i>a. Cf. as to all this, B<i>nth</i>hadâra<i>n</i>yaka-upanishad, pp. 50 seq. and 261.
 
-[^1266]: 264:1 I. e. Nîlaka<i>nth</i>a says, ‘the Brâhma<i>n</i>a named mind,’ alluding apparently to [p. 310](Anugita_19#p310) infra. But the reading of some of the MSS., viz. Brahman for the Brâhma<i>n</i>a, seems preferable, having regard to what follows. Apparently, the Brâhma<i>n</i>a's own speech should begin at ‘The goddess speech’ further on.
+[^1266]: 264:1 I. e. Nîlaka<i>nth</i>a says, ‘the Brâhma<i>n</i>a named mind,’ alluding apparently to [p. 310](../Anugita_19#p310) infra. But the reading of some of the MSS., viz. Brahman for the Brâhma<i>n</i>a, seems preferable, having regard to what follows. Apparently, the Brâhma<i>n</i>a's own speech should begin at ‘The goddess speech’ further on.
 
 [^1267]: 264:2 Nîlaka<i>nth</i>a says, immovable = to be understood by the external senses; movable = not perceptible by senses, such as heaven, &c., which is not quite intelligible. Ar<i>g</i>una Mi<i>s</i>ra says, the immovable mind is that of the teacher, which is fixed, as it has not to learn or acquire anything, while that of the pupil is movable as acquiring new impressions and knowledge.
 
@@ -126,7 +126,7 @@ The (speech) which is produced in the body by <span id="p266"><sup><small>[ p. 2
 
 [^1270]: 264:5 I. e., says Ar<i>g</i>una Mi<i>s</i>ra, the words will not come out with the Prâ<i>n</i>a life-wind and convey any sense to the hearer, but will be absorbed down into the Apâna life-wind, and not be articulated as speech at all. Cf. Kaushîtaki, p. 41; Ka<i>th</i>a, p. 184 (with glosses); and <i>Kh</i>ândogya, p. 42.
 
-[^1271]: 264:6 I. e., I presume, was dependent on the two life-winds named. Cf. [p. 353](Anugita_29#p353) infra. For this sense of the word ‘between,’ see [p. 258](Anugita_5#p258) supra, and <i>Kh</i>ândogya-upanishad, p. 623.
+[^1271]: 264:6 I. e., I presume, was dependent on the two life-winds named. Cf. [p. 353](../Anugita_29#p353) infra. For this sense of the word ‘between,’ see [p. 258](../Anugita_5#p258) supra, and <i>Kh</i>ândogya-upanishad, p. 623.
 
 [^1272]: 265:1 And not with the Prâ<i>n</i>a, so as to be articulated. Cf. [p. 264](#p264).
 

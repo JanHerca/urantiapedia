@@ -168,7 +168,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v1_3_3_1818"><sup><small>1:3:3:1818.</small></sup></span>  Here now some people take the sticks they lay around from the fire-wood; but let him not do so, for unsuitable for laying around are those which they take from the fire-wood, since the fire-wood is prepared for the purpose of being put upon (the fire); but what other (kind of sticks) they bring to him, called ‘enclosing-sticks (paridhis),’ they are indeed suitable for his purpose: let them therefore bring others.
 
-<span id="v1_3_3_1919"><sup><small>1:3:3:1919.</small></sup></span>  Indeed, they should be of Palâ<i>s</i>a wood <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> (Butea Frondosa); for the Palâ<i>s</i>a tree, doubtless, is the Brahman [1](Book_1_1_3#fn256), and Agni also is the Brahman: for this reason the Agnis should be of Palâ<i>s</i>a wood.
+<span id="v1_3_3_1919"><sup><small>1:3:3:1919.</small></sup></span>  Indeed, they should be of Palâ<i>s</i>a wood <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> (Butea Frondosa); for the Palâ<i>s</i>a tree, doubtless, is the Brahman [1](../Book_1_1_3#fn256), and Agni also is the Brahman: for this reason the Agnis should be of Palâ<i>s</i>a wood.
 
 <span id="v1_3_3_2020"><sup><small>1:3:3:2020.</small></sup></span>  Should he be unable to procure them of Palâ<i>s</i>a wood, they may be of Vikankata wood (Flacourtia Sapida); and if he be unable to procure any of Vikankata, they may be of Kârshmarya wood (Gmelina Arborea); and if he be unable to procure any of Kârshmarya wood, they may be of Vilva (Aegle Marmelos), or of Khadira (Acacia Catechu), or of Udumbara wood (Ficus Glomerata). These, doubtless, are the trees that are suitable for sacrificial purposes, and from these trees they (the enclosing-sticks) are therefore (taken).
 
@@ -276,7 +276,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 ## Footnotes
 
-[^207]: 67:2 Besides the Agnihotra-hava<i>n</i>î, or milk ladle used at the morning and evening oblations (see [p. 11](Book_1_1_1#p11), note [2](Book_1_1_1#fn97); and II, 3, I, 17), three different sru<i>k</i> or offering-spoons are used, viz. the <i>g</i>uhû, upabh<i>ri</i>t, and dhruvâ. They are made each of a different kind of wood, of an arm's length (or, according to others, a cubit long), with a bowl of the shape and size of the hand, and a hole cut through the bark and front side of the bowl and fitted with a spout some eight or nine inches long, and shaped like a goose's bill. The sruva or dipping-spoon, on the other hand, chiefly used for ladling the clarified p. 68 butter (or milk) from the butter vessel into the offering-spoons, is of khadira wood (Acacia Catechu), a cubit long, with a round bowl measuring a thumb's joint across, and without a spout. In our text the term sru<i>k</i> is used both in the general sense of ‘spoon’ and in the narrower one of ‘offering-spoon,’ as distinguished from the sruva or ‘dipping-spoon.’
+[^207]: 67:2 Besides the Agnihotra-hava<i>n</i>î, or milk ladle used at the morning and evening oblations (see [p. 11](../Book_1_1_1#p11), note [2](../Book_1_1_1#fn97); and II, 3, I, 17), three different sru<i>k</i> or offering-spoons are used, viz. the <i>g</i>uhû, upabh<i>ri</i>t, and dhruvâ. They are made each of a different kind of wood, of an arm's length (or, according to others, a cubit long), with a bowl of the shape and size of the hand, and a hole cut through the bark and front side of the bowl and fitted with a spout some eight or nine inches long, and shaped like a goose's bill. The sruva or dipping-spoon, on the other hand, chiefly used for ladling the clarified p. 68 butter (or milk) from the butter vessel into the offering-spoons, is of khadira wood (Acacia Catechu), a cubit long, with a round bowl measuring a thumb's joint across, and without a spout. In our text the term sru<i>k</i> is used both in the general sense of ‘spoon’ and in the narrower one of ‘offering-spoon,’ as distinguished from the sruva or ‘dipping-spoon.’
 
 [^208]: 68:1 The brushing of the spoons is here compared with the rinsing of vessels preparatory to their being used for serving up the food. At the same time, we shall see further on (I, 8, 3, 26-27) that the two principal offering-spoons, the <i>g</i>uhû and upabh<i>ri</i>t, are looked upon as yoke-fellows, they being the two horses that are supposed to convey the sacrifice (and consequently the sacrificer himself) to the world of the gods; hence this process of cleaning also corresponds to the rubbing down of the horses preparatory to the setting out of the sacrificer on his progress to the world of the gods.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^236]: 78:1 The sacrifice is the representation of the sacrificer himself; and hence its dimensions are to be those of a man, viz. the altar (vedi) on its western side is to measure a fathom, or space between the extreme ends of the outstretched arms (? of the sacrificer), which is supposed to be equal to the size of a man; see I, 2, 5, 14. Originally these measurements were no doubt relative to the size of the sacrificer; but it is doubtful whether this was still the case at the time of our author.
 
-[^237]: 78:2 For a description of these spoons, see [p. 67](Book_1_1_2#p67), note [2](Book_1_1_3#fn207). The <i>g</i>uhû is supposed to represent the right, and the upabh<i>ri</i>t the left arm, and the dhruvâ the trunk.
+[^237]: 78:2 For a description of these spoons, see [p. 67](../Book_1_1_2#p67), note [2](../Book_1_1_3#fn207). The <i>g</i>uhû is supposed to represent the right, and the upabh<i>ri</i>t the left arm, and the dhruvâ the trunk.
 
 [^238]: 79:1 He takes butter in the <i>g</i>uhû and upabh<i>ri</i>t by four or eight ladlings with the dipping-spoon. As we learn further on, the quantity taken in the <i>g</i>uhû, by ladling four times, should exceed that in the upabh<i>ri</i>t, although the latter requires eight ladlings. Cf. Katy. II, 7, 13.
 
@@ -380,7 +380,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^259]: 91:1 According to Sâya<i>n</i>a, the two sticks or pieces of wood are put on the fire in a manner similar to that in which the two âghâras or sprinklings of clarified butter are made (see I, 4, 4-5); viz. the first in the direction north-west to south-east, and the second from south-west to north-east.
 
-[^260]: 91:2 The gâyatrî is the first of the three principal metres, cf. [p. 80](Book_1_1_3#p80), note [3](Book_1_1_3#fn241). It consists of three octo-syllabic pâdas, of which Rig-veda I, 164, 25 says,—‘The gâyatra, they say, has three flames (or firebrands, samidh): therefore it excelled in grandeur and power.’
+[^260]: 91:2 The gâyatrî is the first of the three principal metres, cf. [p. 80](../Book_1_1_3#p80), note [3](../Book_1_1_3#fn241). It consists of three octo-syllabic pâdas, of which Rig-veda I, 164, 25 says,—‘The gâyatra, they say, has three flames (or firebrands, samidh): therefore it excelled in grandeur and power.’
 
 [^261]: 92:1 See I, 8, 2, 3.
 

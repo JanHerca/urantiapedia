@@ -86,7 +86,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^596]: 187:6 Of the Aphtoroth; which, on other occasions, must be connected with the subject of the first section read, but during the mentioned weeks, the subject of the Aphtorah is that of the last, or additional sections.
 
-[^597]: 187:7 Which _formerly_ might happen on the Sabbath: compare our Note 5, [p. 181](Treatise13_Erubin_Intro#p181).
+[^597]: 187:7 Which _formerly_ might happen on the Sabbath: compare our Note 5, [p. 181](../Treatise13_Erubin_Intro#p181).
 
 [^598]: 187:8 Vide Treatise Taanith.
 

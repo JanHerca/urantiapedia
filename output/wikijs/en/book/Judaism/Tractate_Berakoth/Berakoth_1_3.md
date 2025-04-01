@@ -136,13 +136,13 @@ But Bacher (_Ag. der Tanis_. I. 8) explains the passage as only the development 
 
 [^147]: 22:4 _the line_ \[_of mourners_\]. After the internment, “it is the custom for the people to stand in two parallel rows while the mourners pass between them, and to say, ‘May God console you together with all those who mourn for Zion and Jerusalem’” (Jewish Encyclopedia, v. 530).
 
-[^148]: 23:1 _the Benediction after meals_. But they are not “invited to say the Benediction.” _M_. VII. 3 (2) (_infra_, [p. 60](Berakoth_3_7#p60)).
+[^148]: 23:1 _the Benediction after meals_. But they are not “invited to say the Benediction.” _M_. VII. 3 (2) (_infra_, [p. 60](../Berakoth_3_7#p60)).
 
 [^149]: 23:2 Lev. 1516.
 
 [^150]: 23:3 _not before_. It was ordered only by the Rabbis, not by the Law.
 
-[^151]: 23:4 _them_. Both the Shma‘ and the meal (_vide supra_, [p. 19](Berakoth_1_2#p19)).
+[^151]: 23:4 _them_. Both the Shma‘ and the meal (_vide supra_, [p. 19](../Berakoth_1_2#p19)).
 
 [^152]: 24:1 Lev. 1516.
 
@@ -184,4 +184,4 @@ But Bacher (_Ag. der Tanis_. I. 8) explains the passage as only the development 
 
 [^171]: 27:4 _Hillel the Elder_. The next Hillel was so very much junior (Patriarch 330-365 A.D.) that the epithet can hardly be given for the purpose of comparison with him. It is rather a title of honour, and of supremacy in learning and wisdom. In the _Siphra_ (_Kdoshim_ III. 7) on Lev. 1932 we find: “R. Jose the Galilean says, Elder (_ZaKêN_) means nought else than \`He who has acquired wisdom' (_Zeh shKaNah chokmah_), for it is said ‘The LORD acquired me (KNani) as the beginning of His way’ (Prov. 822). He is, by the bye, never called ”Rabbi Hillel," except, as it seems, in C of _Aboth_ II. 5.
 
-[^172]: 28:1 Eccles. 34, 5. Observe that the words quoted are not consecutive. The passage may mean that each duty has its fitting time, and it is ostentatious to allow ourselves to be caught by the time for reciting the Shma‘ when we are not duly prepared for it. So our Lord urges men not to pray standing at the corners of the streets (Matt. 65). Cf. the warning at the end of _M_. II. 8 ([p. 21](Berakoth_1_2#p21)).
+[^172]: 28:1 Eccles. 34, 5. Observe that the words quoted are not consecutive. The passage may mean that each duty has its fitting time, and it is ostentatious to allow ourselves to be caught by the time for reciting the Shma‘ when we are not duly prepared for it. So our Lord urges men not to pray standing at the corners of the streets (Matt. 65). Cf. the warning at the end of _M_. II. 8 ([p. 21](../Berakoth_1_2#p21)).

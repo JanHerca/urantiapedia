@@ -242,7 +242,7 @@ And made our lasting proclamation thereby to heaven and earth.
 
 [^627]: 317:1 This of course was Lâo-dze.
 
-[^628]: 317:2 See above, [p. 313](#p313), par. 4.
+[^628]: 317:2 See above, [p. 313](../#p313), par. 4.
 
 [^631]: 317:3 In the Tâo Teh King, p. 50, par. 2, and p. 52, par. 1. The reading of line 7 is different in my two authorities in the one ![](/image/book/Taoism/Taoist_texts_vol_2/31700.jpg), in the other ![](/image/book/Taoism/Taoist_texts_vol_2/31701.jpg) suppose the correct reading should be ![](/image/book/Taoism/Taoist_texts_vol_2/31702.jpg) and have given what I think is the meaning.
 
@@ -260,7 +260,7 @@ And made our lasting proclamation thereby to heaven and earth.
 
 [^641]: 318:4 This and the three preceding lines are not a little dark.
 
-[^642]: 319:1 ‘The (sage) beneath the Pillar’ must be Lâo-dze. See above in the Introductory notice, [p. 313](#p313).
+[^642]: 319:1 ‘The (sage) beneath the Pillar’ must be Lâo-dze. See above in the Introductory notice, [p. 313](../#p313).
 
 [^643]: 319:2 See the note on the meaning of the epithet ![](/image/book/Taoism/Taoist_texts_vol_2/31900.jpg) vol. xxxix, p. 40.
 

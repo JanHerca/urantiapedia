@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ## Footnotes
 
-[^1081]: 303:1 See chap. V., note 2, page [290](Treatise14_Pesachim_4#p290) of this Treatise.
+[^1081]: 303:1 See chap. V., note 2, page [290](../Treatise14_Pesachim_4#p290) of this Treatise.
 
 [^1082]: 303:2 Namely, the last Get on the page, underneath of which the witnesses have signed.
 

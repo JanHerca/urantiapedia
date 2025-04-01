@@ -221,11 +221,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^440]: 168:1 Of the part of the tree cut off from the sacrificial stake, a top-piece or head-ring (<i>k</i>ashâla) is made some eight or nine inches high, eight-cornered (like the sacrificial stake); narrower in the middle like a mortar, and hollowed out so as to allow its being fixed on the stake.
 
-[^441]: 168:2 See [III, 6, 1, 7](Book_2_3_6#v3_6_1_7) seq.
+[^441]: 168:2 See [III, 6, 1, 7](../Book_2_3_6#v3_6_1_7) seq.
 
-[^442]: 168:3 For the construction, see [p. 15](Book_2_3_1#p15), note [3](Book_2_3_1#fn55).
+[^442]: 168:3 For the construction, see [p. 15](../Book_2_3_1#p15), note [3](../Book_2_3_1#fn55).
 
-[^443]: 169:1 See [III, 6, 4, 11](Book_2_3_6#v3_6_4_11).
+[^443]: 169:1 See [III, 6, 4, 11](../Book_2_3_6#v3_6_4_11).
 
 [^444]: 169:2 The Unnet<i>ri</i>s are the priests that have to draw the Soma.
 
@@ -233,11 +233,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^446]: 170:2 Pippala refers especially to the berry or fruit of the Ficus Religiosa.
 
-[^447]: 171:1 The same formulas are used on this occasion as at [III, 6, 1, 17](Book_2_3_6#v3_6_1_17)\-[18](Book_2_3_6#v3_6_1_18).
+[^447]: 171:1 The same formulas are used on this occasion as at [III, 6, 1, 17](../Book_2_3_6#v3_6_1_17)\-[18](../Book_2_3_6#v3_6_1_18).
 
 [^448]: 172:1 According to the Kâ<i>n</i>va text it is to be slung round nîvídaghne, ‘on a level with the nether garment’ (nâbhidaghne, Taitt. S. VI, 3, 4, 5). According to Kâty. VI, 3, 1, the girding is preceded by a call on the Hot<i>ri</i> to recite to the post being anointed; but neither recension mentions this.
 
-[^449]: 173:1 When, instead of a single he-goat to Agni, eleven victims are slaughtered, they are either bound to one stake each, or all to one and the same. See [III, 9, 1, 4](Book_2_3_9#v3_9_1_4) seq. The chip alluded to is one of those obtained in rough-hewing the stake and making it eight-cornered.
+[^449]: 173:1 When, instead of a single he-goat to Agni, eleven victims are slaughtered, they are either bound to one stake each, or all to one and the same. See [III, 9, 1, 4](../Book_2_3_9#v3_9_1_4) seq. The chip alluded to is one of those obtained in rough-hewing the stake and making it eight-cornered.
 
 [^450]: 174:1 On the ‘sâdhyas’ see Weber, Ind. Stud. IX, p. 6, note 2.
 
@@ -245,7 +245,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^452]: 175:2 See Ait. Br. II, 3.
 
-[^453]: 175:3 The offering of the chips does not take place till the end of the after-offerings (see note to [III, 8, 5, 6](Book_2_3_8#v3_8_5_6)). It is somewhat strange that it should be anticipated in this place, both in this and the Kâ<i>n</i>va recensions.
+[^453]: 175:3 The offering of the chips does not take place till the end of the after-offerings (see note to [III, 8, 5, 6](../Book_2_3_8#v3_8_5_6)). It is somewhat strange that it should be anticipated in this place, both in this and the Kâ<i>n</i>va recensions.
 
 [^454]: 176:1 No satisfactory explanation of ‘prakubratâ’ occurs to me. It seems to he derived from ‘kubra,’ to which the dictionaries assign the meanings ‘hole for sacrificial fire’ and ‘thread’ (besides those of ‘forest,’ ‘earring,’ and ‘cart’). U<i>n</i>âd. II, 28, derives this from a root ‘kub,’ to cover, shelter. ? For the safe foundation (or the protraction) of to-morrow's Soma feast. The Kâ<i>n</i>va text, on the other hand, reads: 'Some, now, raise all (the stakes) on the upavasatha (day before the Soma feast) for the sake of quickening (?prakudratâyai) the work, thinking, ‘we will quickly bring the sacrifice to a close.’
 

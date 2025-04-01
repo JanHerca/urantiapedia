@@ -33,7 +33,7 @@ dateCreated: 2025-1-15T22:11:38Z
 </figure>
 
 
-[1b](Book_6_10#fn905)
+[1b](../Book_6_10#fn905)
 
 
 ## CANTO I.: RÁMA'S SPEECH.
@@ -46,9 +46,9 @@ In friendly words he made reply:
 ‘Behold a mighty task achieved.
 Which never heart but his conceived.
 Who else across the sea can spring,
-Save Váyu [2b](Book_6_10#fn906) and the Feathered King? [3b](Book_6_10#fn907)
+Save Váyu [2b](../Book_6_10#fn906) and the Feathered King? [3b](../Book_6_10#fn907)
 Who, pass the portals strong and high.
-Which Nágas, [4b](Book_6_10#fn908) Gods, and fiends defy,
+Which Nágas, [4b](../Book_6_10#fn908) Gods, and fiends defy,
 Where Rávan's hosts their station keep,—
 And come uninjured o'er the deep?
 By such a deed the Wind-God's son
@@ -165,7 +165,7 @@ Filled up the moats that gird the town,
 The piers and portals overturned,
 And stately Lanká spoiled and burned,
 Howe'er we Vánars force our way
-O'er the wide seat of Varun's [1](Book_6_10#fn909) sway,
+O'er the wide seat of Varun's [1](../Book_6_10#fn909) sway,
 Be sure that city of the foe
 Is doomed to sudden overthrow,
 Nay, why so vast an army lead?
@@ -371,7 +371,7 @@ Then from the shore the captains gazed
 On billows which the breezes raised
 
 To fury, as they dashed in foam
-O'er Várun's realm, the Asurs' home: [1b](Book_6_10#fn919)
+O'er Várun's realm, the Asurs' home: [1b](../Book_6_10#fn919)
 The sea that laughed with foam, and danced
 With waves whereon the sunbeams glanced:
 Where, when the light began to fade,

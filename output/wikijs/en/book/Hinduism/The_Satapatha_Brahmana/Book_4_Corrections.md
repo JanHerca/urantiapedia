@@ -94,7 +94,7 @@ P. 379, l. 10. Read,—the breath serves everything here.
 
 &nbsp;&nbsp;&nbsp;&nbsp;„    l. 20. For this Sâman, based on the word ‘bhûs,’ see part iv, p. 145, note 1.
 
-P. 404, l. 15. Read,—having pre-eminently endowed the man with power, he sets him up. Cf. [VIII, 7, 2, 3](Book_4_8_7#v8_7_2_3).
+P. 404, l. 15. Read,—having pre-eminently endowed the man with power, he sets him up. Cf. [VIII, 7, 2, 3](../Book_4_8_7#v8_7_2_3).
 
 P. 415, l. 4. Read,—XIII, 53.
 

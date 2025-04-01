@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T22:11:38Z
 
 <span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
-[1](Book_4_10#fn523)
+[1](../Book_4_10#fn523)
 
 
 ## CANTO I.: RÁMA'S LAMENT.
@@ -551,7 +551,7 @@ Showed Raghu's son what duty claimed,
 &nbsp;&nbsp;&nbsp;&nbsp;And bade his heart be bold.
 Then as the brothers strode apace
 &nbsp;&nbsp;&nbsp;&nbsp;To Rishyamúka's height,
-The sovereign of the Vánar race [1](Book_4_10#fn537)
+The sovereign of the Vánar race [1](../Book_4_10#fn537)
 &nbsp;&nbsp;&nbsp;&nbsp;Was troubled at the sight.
 As on the lofty hill he strayed
 &nbsp;&nbsp;&nbsp;&nbsp;He saw the chiefs draw near:
@@ -565,7 +565,7 @@ When in their glorious might the best
 &nbsp;&nbsp;&nbsp;&nbsp;Of royal chiefs came nigh,
 The Vánars in their wild unrest
 &nbsp;&nbsp;&nbsp;&nbsp;Prepared to turn and fly.
-They sought the hermit's sacred home  [2](Book_4_10#fn538)
+They sought the hermit's sacred home  [2](../Book_4_10#fn538)
 &nbsp;&nbsp;&nbsp;&nbsp;For peace and bliss ordained,
 And there, where Vánars loved to roam.
 &nbsp;&nbsp;&nbsp;&nbsp;A sure asylum gained.
@@ -1114,9 +1114,9 @@ That ne'er again his deadly spite
 May rob me of mine ancient right,
 &nbsp;&nbsp;&nbsp;&nbsp;Or vex my soul with woe.’
 The league was struck, a league to bring
-To Sítá fiends, and Vánar king  [1b](Book_4_10#fn557)
+To Sítá fiends, and Vánar king  [1b](../Book_4_10#fn557)
 &nbsp;&nbsp;&nbsp;&nbsp;Apportioned bliss and bale.
-Through her left eye quick throbbings shot, [2b](Book_4_10#fn558)
+Through her left eye quick throbbings shot, [2b](../Book_4_10#fn558)
 Glad signs the lady doubted not,
 &nbsp;&nbsp;&nbsp;&nbsp;That told their hopeful tale.
 The bright left eye of Báli felt

@@ -130,7 +130,7 @@ Thus I say.
 
 [^854]: 287:2 <i>K</i>akkhupahê <i>th</i>iyassa = <i>k</i>akshu<i>h</i>pathê sthitasya, literally, ‘who stood (or stands) in the path of the eyes.’ We are scarcely entitled to infer from this phrase that the author had actually seen Mahâvîra as tradition would make us believe.
 
-[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Concerning the five stages or kinds of knowledge, see above, [p. 352](Sutrakritanga_2_1#p352). The Kêvala knowledge is intended.
+[^855]: 287:3 Abhibhûya-nâ<i>n</i>î. Concerning the five stages or kinds of knowledge, see above, [p. 352](../Sutrakritanga_2_1#p352). The Kêvala knowledge is intended.
 
 [^856]: 288:1 To render anâyu<i>h</i>.
 
@@ -148,7 +148,7 @@ Thus I say.
 
 [^863]: 289:3 This is the <i>s</i>ukla dhyâna. As <i>s</i>ukla, which I translate ‘pure,’ originally means white,' the comparison with the moon is natural in the original.
 
-[^864]: 290:1 They belong to the Bhavanapatis, see above, [p. 225](Uttaradhyayana_36#p225).
+[^864]: 290:1 They belong to the Bhavanapatis, see above, [p. 225](../Uttaradhyayana_36#p225).
 
 [^865]: 290:2 The commentator says that Vê<i>n</i>udêva is another name of Garu<i>d</i>a. Vê<i>n</i>u stands perhaps for ve<i>n</i>hu = vish<i>n</i>u; but I do not know that Garu<i>d</i>a ever was directly identified with Vish<i>n</i>u.
 

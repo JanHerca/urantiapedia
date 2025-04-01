@@ -173,7 +173,7 @@ Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing el
 
 But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewildering. This is enough, O beloved, for wisdom [^358].
 
-‘For when there is as it were duality, then one sees the other, one smells the other, one hears the other [^359], one salutes the other [^360], one perceives the other [^361], one knows the other; but when the Self only is all this, how should he smell another [^362], how should he see [^363] another [^364], how should he hear [^365] another, how should he salute [^366] another, how should he perceive another [^367], how should he know another? How should he know Him by whom he knows all this? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> How, O beloved, should he know (himself), the Knower [1](Brihadaranyaka_2#fn368)?’
+‘For when there is as it were duality, then one sees the other, one smells the other, one hears the other [^359], one salutes the other [^360], one perceives the other [^361], one knows the other; but when the Self only is all this, how should he smell another [^362], how should he see [^363] another [^364], how should he hear [^365] another, how should he salute [^366] another, how should he perceive another [^367], how should he know another? How should he know Him by whom he knows all this? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> How, O beloved, should he know (himself), the Knower [1](../Brihadaranyaka_2#fn368)?’
 
 
 ## FIFTH BRÂHMA<i>N</i>A [^369].

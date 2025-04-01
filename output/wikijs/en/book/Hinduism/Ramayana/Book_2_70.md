@@ -1199,7 +1199,7 @@ They came by night, and lighted down.
 To please their master, and to guard
 &nbsp;&nbsp;&nbsp;&nbsp;The royal race, the lineal right,
 &nbsp;&nbsp;&nbsp;&nbsp;The envoys, spent with riding hard,
-To that fair city came by night.  [1b](Book_2_70#fn347)
+To that fair city came by night.  [1b](../Book_2_70#fn347)
 
 
 

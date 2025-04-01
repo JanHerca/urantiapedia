@@ -44,7 +44,7 @@ He who knows the Brahman attains the highest (Brahman). On this the following ve
 
 ‘He who knows Brahman, which is (i.e. cause, not effect), which is conscious, which is without end, as hidden in the depth (of the heart), in the highest ether, he enjoys all blessings, at one with the omniscient Brahman.’
 
-From that Self [^213] (Brahman) sprang ether (âkâ<i>s</i>a, that through which we hear); from ether air (that through which we hear and feel); from air fire (that through which we hear, feel, and see); from fire water (that through which we hear, feel, see, and taste); from water earth (that through which we hear, feel, see, taste, and smell). From earth herbs, from herbs food, from food seed, from seed man. Man thus consists of the essence of food. This is his head, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> this his right arm, this his left arm, this his trunk (Âtman), this the seat (the support) [1](Taittiriyaka_2#fn214).
+From that Self [^213] (Brahman) sprang ether (âkâ<i>s</i>a, that through which we hear); from ether air (that through which we hear and feel); from air fire (that through which we hear, feel, and see); from fire water (that through which we hear, feel, see, and taste); from water earth (that through which we hear, feel, see, taste, and smell). From earth herbs, from herbs food, from food seed, from seed man. Man thus consists of the essence of food. This is his head, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> this his right arm, this his left arm, this his trunk (Âtman), this the seat (the support) [1](../Taittiriyaka_2#fn214).
 
 On this there is also the following <i>S</i>loka:
 
@@ -106,7 +106,7 @@ Thereupon follow the questions of the pupil:
 
 <span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
-The answer is: He wished, may I be many [1](Taittiriyaka_2#fn219), may I grow forth. He brooded over himself (like a man performing penance). After he had thus brooded, he sent forth (created) all, whatever there is. Having sent forth, he entered into it. Having entered it, he became sat (what is manifest) and tyat (what is not manifest), defined and undefined, supported and not supported, (endowed with) knowledge and without knowledge (as stones), real and unreal [2](Taittiriyaka_2#fn220). The Sattya (true) became all this whatsoever, and therefore the wise call it (the Brahman) Sat-tya (the true).
+The answer is: He wished, may I be many [1](../Taittiriyaka_2#fn219), may I grow forth. He brooded over himself (like a man performing penance). After he had thus brooded, he sent forth (created) all, whatever there is. Having sent forth, he entered into it. Having entered it, he became sat (what is manifest) and tyat (what is not manifest), defined and undefined, supported and not supported, (endowed with) knowledge and without knowledge (as stones), real and unreal [2](../Taittiriyaka_2#fn220). The Sattya (true) became all this whatsoever, and therefore the wise call it (the Brahman) Sat-tya (the true).
 
 On this there is also this <i>S</i>loka:
 

@@ -223,7 +223,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^483]: 246:1 Or rather, too many, more (than are required at one of the normal Soma-sacrifices),—âdhvarikebhyo bahutarâni, Sây.
 
-[^484]: 246:2 That is, as would seem from Sâya<i>n</i>a, of such ceremonies as have supernumerary, or additional, oblations to the normal ones connected with them. This discussion seems to be introduced here on account of the additional oblation (that to Vai<i>s</i>vânara) offered at the initiation ceremony. As an ‘additional’ or special, oblation at the Vâ<i>g</i>apeya, Sâya<i>n</i>a refers to the pap of wild rice ([V, 1, 4, 12](Book_3_5_1#v5_1_4_12)); whilst at the Râ<i>g</i>asûya the one to Anumati ([V, 2, 3, 4](Book_3_5_2#v5_2_3_4)) is said to belong to the same category.
+[^484]: 246:2 That is, as would seem from Sâya<i>n</i>a, of such ceremonies as have supernumerary, or additional, oblations to the normal ones connected with them. This discussion seems to be introduced here on account of the additional oblation (that to Vai<i>s</i>vânara) offered at the initiation ceremony. As an ‘additional’ or special, oblation at the Vâ<i>g</i>apeya, Sâya<i>n</i>a refers to the pap of wild rice ([V, 1, 4, 12](../Book_3_5_1#v5_1_4_12)); whilst at the Râ<i>g</i>asûya the one to Anumati ([V, 2, 3, 4](../Book_3_5_2#v5_2_3_4)) is said to belong to the same category.
 
 [^485]: 247:1 These and the subsequent offerings form part of the Dîkshâ, or initiation ceremony, for the Soma-sacrifice to be performed after the completion of the fire-altar. This initiation ceremony commences on the day of new moon, a week after the preparation of the ukhâ, or fire-pan. An integral part of (the first day of) this ceremony is the kindling of a fire in the ukhâ—the ‘Ukhya Agni’—which ultimately serves to supply the fires for the brick altars built on the completion of the period of initiation. The Dîkshâ is, as a rule, to be performed daily for a year, during which time the fire has to be kept up in the ukhâ, and carried about by the Sacrificer for a time each day. while the cake to Agni-Vish<i>n</i>u here mentioned is the ordinary cake-offering prescribed for the Dîkshâ of the normal Soma-sacrifice (see III, 1, 3, 1), the Vai<i>s</i>vânara cake is peculiar to the Agni<i>k</i>ayana.
 
@@ -231,19 +231,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^487]: 249:2 Viz. the five Audgrabha<i>n</i>a libations of the ordinary Soma-sacrifice offered in the manner there described. See part ii, p. 20, note.
 
-[^488]: 249:3 Though Agni, or the fire-altar, is commonly called the five-layered one (pa<i>ñ</i><i>k</i>a<i>k</i>itika), consisting as it does of five complete p. 250 layers of bricks, on the top of these there is a small additional pile of two layers, the lower one (puna<i>s</i><i>k</i>iti) in the form of the Gârhapatya hearth ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.), and the upper one, consisting of two bricks, on which the fire is ultimately laid down. See [p. 188](Book_3_6_2#p188), note [4](Book_3_6_2#fn389). Hence Agni is also called ‘sapta<i>k</i>itika.’
+[^488]: 249:3 Though Agni, or the fire-altar, is commonly called the five-layered one (pa<i>ñ</i><i>k</i>a<i>k</i>itika), consisting as it does of five complete p. 250 layers of bricks, on the top of these there is a small additional pile of two layers, the lower one (puna<i>s</i><i>k</i>iti) in the form of the Gârhapatya hearth ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.), and the upper one, consisting of two bricks, on which the fire is ultimately laid down. See [p. 188](../Book_3_6_2#p188), note [4](../Book_3_6_2#fn389). Hence Agni is also called ‘sapta<i>k</i>itika.’
 
 [^489]: 250:1 Viz. the seven special Audgrabha<i>n</i>a libations of the Agni<i>k</i>ayana.
 
 [^490]: 252:1 That is, underneath the layer of mu<i>ñ</i><i>g</i>a. Both the reed-grass and the hemp are to be crushed and reduced to the condition of powder previously to their being strewed into the fire-pan.
 
-[^491]: 254:1 See [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^491]: 254:1 See [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
-[^492]: 254:2 The fire ultimately to be placed on the new Gârhapatya hearth ([VII, 1, 1, 1](Book_3_7_1#v7_1_1_1) seq.)—whence the Âhavanîya on the great fire-altar has to be kindled—is to be produced in the ukhâ, or pan, as it were in its womb; but the material (grass and hemp) which has already been put in the pan, is only to be kindled by the blaze of the fire on which the pan has been placed, without any burning coals being applied to the fuel within the pan.
+[^492]: 254:2 The fire ultimately to be placed on the new Gârhapatya hearth ([VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1) seq.)—whence the Âhavanîya on the great fire-altar has to be kindled—is to be produced in the ukhâ, or pan, as it were in its womb; but the material (grass and hemp) which has already been put in the pan, is only to be kindled by the blaze of the fire on which the pan has been placed, without any burning coals being applied to the fuel within the pan.
 
-[^493]: 255:1 The dative ‘ahi<i>m</i>sâyai’ again doubtless belongs to the first sentence of the paragraph (‘it is soaked in ghee’), the intervening clauses being inserted for explanation. For a similar construction, see above, [p. 198](Book_3_6_3#p198), note [2](Book_3_6_3#fn407).
+[^493]: 255:1 The dative ‘ahi<i>m</i>sâyai’ again doubtless belongs to the first sentence of the paragraph (‘it is soaked in ghee’), the intervening clauses being inserted for explanation. For a similar construction, see above, [p. 198](../Book_3_6_3#p198), note [2](../Book_3_6_3#fn407).
 
-[^494]: 255:2 See [VI, 7, 2, 1](Book_3_6_7#v6_7_2_1).
+[^494]: 255:2 See [VI, 7, 2, 1](../Book_3_6_7#v6_7_2_1).
 
 [^495]: 255:3 The inverted order of the words ‘<i>s</i>a<i>n</i>â <i>g</i>arâyu’ is peculiar. It seems to have been resorted to with the view of keeping together the two pairs of subjects, ‘mu<i>ñ</i><i>g</i>â<i>h</i>\-<i>s</i>a<i>n</i>â<i>h</i>’ and ‘<i>g</i>arâyu-ulbam.’
 
@@ -251,16 +251,16 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^497]: 260:1 Or, his spiritual and political power, his priesthood and nobility.
 
-[^498]: 261:1 See [VI, 7, 4, 1](Book_3_6_7#v6_7_4_1) seq.
+[^498]: 261:1 See [VI, 7, 4, 1](../Book_3_6_7#v6_7_4_1) seq.
 
 [^499]: 261:2 Or, sets free the speech in him.
 
-[^500]: 261:3 See above, [VI, 6, 3, 8](Book_3_6_6#v6_6_3_8).
+[^500]: 261:3 See above, [VI, 6, 3, 8](../Book_3_6_6#v6_6_3_8).
 
 [^501]: 261:4 Lit. ‘made into a libation for him.’
 
-[^502]: 263:1 See [VI, 5, 2, 22](Book_3_6_5#v6_5_2_22).
+[^502]: 263:1 See [VI, 5, 2, 22](../Book_3_6_5#v6_5_2_22).
 
-[^503]: 263:2 See [VI, 5, 3, 7](Book_3_6_5#v6_5_3_7).
+[^503]: 263:2 See [VI, 5, 3, 7](../Book_3_6_5#v6_5_3_7).
 
-[^504]: 264:1 See [VI, 6, 1, 3](Book_3_6_6#v6_6_1_3) seq.
+[^504]: 264:1 See [VI, 6, 1, 3](../Book_3_6_6#v6_6_1_3) seq.

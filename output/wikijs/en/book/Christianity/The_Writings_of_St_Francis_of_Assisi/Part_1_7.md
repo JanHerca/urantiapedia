@@ -81,7 +81,7 @@ And they must not allow any [^366] person to enter into the cloister where they 
 
 [^355]: 87:2 See _Floretum S. Francisci_, ed. Sabatier, cap. 16, p. 60. This chapter, which is one of the most interesting from a critical point of view, represents St. Francis as consulting St. Clare and Brother Sylvester on the subject of his doubt.
 
-[^356]: 87:3 See First Rule, chap. vii (above, [p. 40](Part_1_4#p40)); also _Speculum Perf._, ed. Sabatier, pp. 25-26.
+[^356]: 87:3 See First Rule, chap. vii (above, [p. 40](../Part_1_4#p40)); also _Speculum Perf._, ed. Sabatier, pp. 25-26.
 
 [^357]: 87:4 As is most poetically described by the author of the _Sacrum Commercium_. Show me your cloister, asks the Lady Poverty of the friars. And they, leading her to the summit of a hill, showed her the wide world, saying: This is our cloister, O Lady Poverty. (See _The Lady Poverty_, by M. Carmichael, p. 128.)
 

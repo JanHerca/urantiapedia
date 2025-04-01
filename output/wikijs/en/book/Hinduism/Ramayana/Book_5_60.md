@@ -279,7 +279,7 @@ To perish in the flames consumed.
 If I, when anger drove me wild.
 Have caused the death of Janak's child,
 The kindled flame shall end my woe,
-Or the deep fires that burn below, [1](Book_5_60#fn895)
+Or the deep fires that burn below, [1](../Book_5_60#fn895)
 Or my forsaken corse shall be
 Food for the monsters of the sea.
 How can I meet Sugríva? how
@@ -289,7 +289,7 @@ The noble work in which we toiled?
 Or has her own bright virtue shed
 Its guardian influence round her head?
 She lives untouched,—the peerless dame;
-Flame has no fury for the flame. [2](Book_5_60#fn896)
+Flame has no fury for the flame. [2](../Book_5_60#fn896)
 The very fire would ne'er consent
 To harm a queen so excellent,—
 The high-souled Ráma's faithful wife,
@@ -416,7 +416,7 @@ O faithful heart in perils tried,
 
 Which toil nor fear could turn aside,
 Thy deed the lady will restore,
-And Ráma's heart will ache no more,'  [1](Book_5_66#fn899)
+And Ráma's heart will ache no more,'  [1](../Book_5_66#fn899)
 
 
 

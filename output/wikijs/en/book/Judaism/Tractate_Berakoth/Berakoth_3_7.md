@@ -70,13 +70,13 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **M**.VII. 4 (3). How is the invitation worded? [^384] In the case of three persons they say: “Let us bless.” [^385] If there are three besides the speaker, he says: “Blessed be He.” [^386] If there are ten he says: “Let us bless our God.” If there are ten besides the speaker he says: “Blessed be He.” It is all the same whether there be ten or ten myriads. [^387]
 
-5 (3 _cont_.). In the case of a hundred he says: “Let us bless the LORD our God.” In the case of a hundred besides the speaker he says: “Blessed be He.” In the case of a thousand they say: “Let <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> us bless the LORD our God, the God of Israel, the God of hosts.” [1](Berakoth_3_7#fn_388)
+5 (3 _cont_.). In the case of a hundred he says: “Let us bless the LORD our God.” In the case of a hundred besides the speaker he says: “Blessed be He.” In the case of a thousand they say: “Let <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> us bless the LORD our God, the God of Israel, the God of hosts.” [1](../Berakoth_3_7#fn_388)
 
-In the case of a myriad besides the speaker, he says: “Blessed be He.” According to the wording of his blessing [2](Berakoth_3_7#fn_389) so do they respond after him: “Blessed be the LORD our God, the God of Israel, the God of hosts, dwelling between the cherubim for the meal that we have eaten.”
+In the case of a myriad besides the speaker, he says: “Blessed be He.” According to the wording of his blessing [2](../Berakoth_3_7#fn_389) so do they respond after him: “Blessed be the LORD our God, the God of Israel, the God of hosts, dwelling between the cherubim for the meal that we have eaten.”
 
-R. Jose, the Galilean, says: According to the number of the congregation do they frame the Benediction, for it is said, “By congregations bless ye God the LORD, from the fountain of Israel.” [3](Berakoth_3_7#fn_390)
+R. Jose, the Galilean, says: According to the number of the congregation do they frame the Benediction, for it is said, “By congregations bless ye God the LORD, from the fountain of Israel.” [3](../Berakoth_3_7#fn_390)
 
-6 (3 _cont_.). R. Aqiba says: How do we find it in the synagogue? [4](Berakoth_3_7#fn_391) It is all one whether there be many or few; they say, Bless ye the LORD.“ R. Ishmael says: ”Bless ye the LORD who is blessed." [5](Berakoth_3_7#fn_392)
+6 (3 _cont_.). R. Aqiba says: How do we find it in the synagogue? [4](../Berakoth_3_7#fn_391) It is all one whether there be many or few; they say, Bless ye the LORD.“ R. Ishmael says: ”Bless ye the LORD who is blessed." [5](../Berakoth_3_7#fn_392)
 
 <a id="m7"></a>
 
@@ -120,7 +120,7 @@ They do not say the Benediction over the wine until one puts water into it. This
 
 ## Footnotes
 
-[^365]: 59:1 _to give an invitation_. One of those present must invite the other two to join with him in a Benediction at the end of a meal. SA, p. 279, with Abrahams' note; _vide supra_, [p. 50](Berakoth_3_6#p50).
+[^365]: 59:1 _to give an invitation_. One of those present must invite the other two to join with him in a Benediction at the end of a meal. SA, p. 279, with Abrahams' note; _vide supra_, [p. 50](../Berakoth_3_6#p50).
 
 [^366]: 59:2 _Dmai_. Literally, “suspicion” or “talk.” Fruits about which there is a suspicion whether they have been tithed or not. The third treatise of the Mishna deals with this subject, and is so called. For the duty of tithing see Lev. 2730.
 
@@ -142,7 +142,7 @@ They do not say the Benediction over the wine until one puts water into it. This
 
 [^375]: 60:3 _until they give him permission_. For his presence is not necessary.
 
-[^376]: 60:4 Cf. _M_. III. 3 (_supra_, [p. 23](Berakoth_1_3#p23)).
+[^376]: 60:4 Cf. _M_. III. 3 (_supra_, [p. 23](../Berakoth_1_3#p23)).
 
 [^377]: 60:5 priests of illegitimate birth (_chālālim_), _e.g._ sons of a priest who had married a widow.
 
@@ -174,14 +174,14 @@ They do not say the Benediction over the wine until one puts water into it. This
 
 [^391]: 63:3 Ps. 6826.
 
-[^392]: 63:4 _in the synagogue_. Where people are going and coming, so that their number is not known, in contrast to a private meal, where it is. Aqiba implies that the practice in the synagogue should guide that elsewhere. Cf. [p. 69](Berakoth_3_8#p69).
+[^392]: 63:4 _in the synagogue_. Where people are going and coming, so that their number is not known, in contrast to a private meal, where it is. Aqiba implies that the practice in the synagogue should guide that elsewhere. Cf. [p. 69](../Berakoth_3_8#p69).
 
 [^393]: 63:5 The _Halaka_ (Rule) follows R. Ishmael (Bartenora).
 
-[^394]: 63:6 _to separate_. Into two or more divisions, to say the Grace after the meal. For three is the lowest number for a religious company. Therefore four or five may not be divided. Cf. [p. 50](Berakoth_3_6#p50).
+[^394]: 63:6 _to separate_. Into two or more divisions, to say the Grace after the meal. For three is the lowest number for a religious company. Therefore four or five may not be divided. Cf. [p. 50](../Berakoth_3_6#p50).
 
 [^395]: 64:1 _ten_. For ten also is a company. Therefore also the numbers from eleven to nineteen may not be divided.
 
 [^396]: 64:2 _from the invitation_. By having already said the Benediction for himself.
 
-[^397]: 64:3 _R. Eliezer_. His reason was that until water was mixed with the wine there was some doubt whether it was drunk (cf. [p. 45](Berakoth_3_6#p45)). The Majority assume it would be. The fact that our Lord spoke a Benediction over the wine at the Last Supper (Mark 1423; Matt. 2627; Luke 2217; and apparently 1 Cor. 1123-25). This supplies no evidence that water had been already mixed with it, if He followed the opinion of the Majority.
+[^397]: 64:3 _R. Eliezer_. His reason was that until water was mixed with the wine there was some doubt whether it was drunk (cf. [p. 45](../Berakoth_3_6#p45)). The Majority assume it would be. The fact that our Lord spoke a Benediction over the wine at the Last Supper (Mark 1423; Matt. 2627; Luke 2217; and apparently 1 Cor. 1123-25). This supplies no evidence that water had been already mixed with it, if He followed the opinion of the Majority.

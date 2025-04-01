@@ -955,7 +955,7 @@ With proper homes to each assigned,
 With Ráma's champions fierce and strong
 &nbsp;&nbsp;&nbsp;&nbsp;The earth was overspread,
 High as the hills and clouds, a throng
-&nbsp;&nbsp;&nbsp;&nbsp;With bodies vast and dread. [1](Book_1_20#fn123)
+&nbsp;&nbsp;&nbsp;&nbsp;With bodies vast and dread. [1](../Book_1_20#fn123)
 
 &nbsp;&nbsp;&nbsp;&nbsp;\* \* \* \* \*
 
@@ -1108,7 +1108,7 @@ Upholder of his ancient fame,
 The glorious sage his way pursued
 Till close before his eyes he viewed
 Sweet Champá, Lomapád's fair town,
-Wreathed with her Champacs' [1](Book_1_20#fn125) leafy crown.
+Wreathed with her Champacs' [1](../Book_1_20#fn125) leafy crown.
 Soon as the saint's approach he knew,
 The king, to yield him honour due,
 Went forth to meet him with a band
@@ -1313,7 +1313,7 @@ But mid those youths of high descent,
 With lordly light preeminent.
 Like the full moon unclouded, shone
 Ráma, the world's dear paragon.
-He best the elephant could guide.  [1b](Book_1_20#fn136)
+He best the elephant could guide.  [1b](../Book_1_20#fn136)
 Urge the fleet car, the charger ride;
 A master he of bowman's skill,
 Joying to do his father's will.
@@ -1413,7 +1413,7 @@ And sate them down by due degree,
 Each one, of rank and dignity.
 Joy filled the noble prince's breast
 Who thus bespoke the honoured guest:
-‘As amrit  [1b](Book_1_30#fn140) by a mortal found,
+‘As amrit  [1b](../Book_1_30#fn140) by a mortal found,
 As rain upon the thirsty ground,
 As to an heirless man a son
 Born to him of his precious one,

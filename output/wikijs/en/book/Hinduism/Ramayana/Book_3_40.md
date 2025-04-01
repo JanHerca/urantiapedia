@@ -379,7 +379,7 @@ Celestial wreaths adorned his breast.
 He sat a shape of terror, like
 Destruction ere the worlds it strike.
 She saw him in his pride of place,
-The joy of old Pulastya's [1](Book_3_40#fn488) race,
+The joy of old Pulastya's [1](../Book_3_40#fn488) race,
 Begirt by counsellor and peer,
 Rávan, the foeman's mortal fear,
 And terror in her features shown,

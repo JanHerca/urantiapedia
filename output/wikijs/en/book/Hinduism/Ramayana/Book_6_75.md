@@ -562,7 +562,7 @@ It split in fragments at the shock.
 Sugríva, rising to the blow,
 Raised his huge hand and smote his foe.
 And in the dust the giant lay
-Gasping in blood his soul away.  [1](Book_6_100#fn1010)
+Gasping in blood his soul away.  [1](../Book_6_100#fn1010)
 
 <figure class="table chapter-navigator">
   <table>

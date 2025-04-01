@@ -95,7 +95,7 @@ The noble children of the king,  [^357]
 
 <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
-Yudhájit  [1](Book_2_90#fn358) and Sumantra, all
+Yudhájit  [1](../Book_2_90#fn358) and Sumantra, all
 The truthful and the virtuous call,’
 &nbsp;&nbsp;&nbsp;&nbsp;He ended: soon a mighty sound
 Of thickening tumult rose around,
@@ -104,7 +104,7 @@ With car, and elephant, and horse,
 The people all with glad acclaim
 Welcomed Prince Bharat as he came:
 E'en as they loved their king to greet,
-Or as the Gods Lord Indra  [2](Book_2_90#fn359) meet.
+Or as the Gods Lord Indra  [2](../Book_2_90#fn359) meet.
 &nbsp;&nbsp;&nbsp;&nbsp;The vast assembly shone as fair
 &nbsp;&nbsp;&nbsp;&nbsp;With Bharat's kingly face
 &nbsp;&nbsp;&nbsp;&nbsp;As Das'aratha's self were there
@@ -338,7 +338,7 @@ The vast procession travelled far,
 <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 And came where Gangá's waves below
-The town of Sringavera  [1](Book_2_90#fn361) flow.
+The town of Sringavera  [1](../Book_2_90#fn361) flow.
 There, with his friends and kinsmen nigh,
 Dwelt Guha, Ráma's dear ally,
 Heroic guardian of the land
@@ -709,7 +709,7 @@ So Lakshman too from food abstained,
 
 And sipped the water that remained:
 Then with ruled lips, devoutly staid,
-The three  [1](Book_2_90#fn362) their evening worship paid.
+The three  [1](../Book_2_90#fn362) their evening worship paid.
 Then Lakshman with unwearied care
 Brought heaps of sacred grass, and there
 With his own hands he quickly spread,

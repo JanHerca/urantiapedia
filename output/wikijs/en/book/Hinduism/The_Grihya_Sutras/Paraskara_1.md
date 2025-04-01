@@ -627,7 +627,7 @@ End of the First Kâ<i>nd</i>a.
 
 [^669]: 271:4 The _k<i>âtushprâ</i>s_ya food is prepared, at the time of the setting up of the <i>S</i>rauta fires, for the four chief officiating priests of the <i>S</i>rauta sacrifices. Comp. <i>S</i>atapatha Brâhma<i>âtushprâ</i>a II, 1, 4. Kâtyâyana's corresponding rules with regard to the Âdhâna of the <i>S</i>rauta fires are found at IV, 7, 15. 16.
 
-[^670]: 271:5 Comp. the remarks on this Sûtra, in the Introduction, pp. [265](Paraskara_Intro#p265) seq.
+[^670]: 271:5 Comp. the remarks on this Sûtra, in the Introduction, pp. [265](../Paraskara_Intro#p265) seq.
 
 [^671]: 271:6 <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6, 1: ‘There are five great sacrifices which are great Sattras, viz. the sacrifice to living beings, the sacrifice to men, the sacrifice to the Manes, the sacrifice to the gods, the Brahmaya<i>nd</i>a.’ As the G<i>n</i>hya ceremonies are included here under the category of mahâya<i>nd</i>âs or great sacrifices, they require, according to the teachers whose opinion is stated in Sûtra 5, a form of the Agnyâdhâna (setting up of the sacred fire) analogous to the Agnyâdhâna of the <i>S</i>rauta ritual, and containing, like that Âdhâna, the act of the Ara<i>n</i>ipradâna or handing over of the kindling woods (Sûtra 5).
 

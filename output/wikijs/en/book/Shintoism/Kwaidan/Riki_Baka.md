@@ -46,7 +46,7 @@ His name was Riki, signifying Strength; but the people called him Riki-the-Simpl
 
 “Those servants found the mother of Riki, and told her what had happened; and she was glad exceedingly—for that Nanigashi house is a very rich and famous house. But the servants said that the family of Nanigashi-Sama were very angry about the word ‘Baka’ on the child's hand. ‘And where is your Riki buried?’ the servants asked. ‘He is buried in the cemetery of Zendoji,’ she told them. ‘Please to give us some of the clay of his grave,’ they requested.
 
-“So she went with them to the temple Zendoji, and showed them Riki's grave; and they took some of the grave-clay away with them, wrapped up in a furoshiki <a id="note_1"></a> [1](Notes#note_10_1).... They gave Riki's mother some money,—ten yen.”... (4)
+“So she went with them to the temple Zendoji, and showed them Riki's grave; and they took some of the grave-clay away with them, wrapped up in a furoshiki <a id="note_1"></a> [1](../Notes#note_10_1).... They gave Riki's mother some money,—ten yen.”... (4)
 
 “But what did they want with that clay?” I inquired.
 

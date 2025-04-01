@@ -279,15 +279,15 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 ## Footnotes
 
-[^380]: 140:3 The Sadas is a shed or tent, facing the east with its long side, which is to measure eighteen (or twenty-one, or twenty-four, or, according to the <i>S</i>ulva-sûtra, twenty-seven) cubits, the breadth by p. 141 six cubits (or ten, or one half that of the long side). The udumbara post, according to some, is to stand exactly in the centre of the shed; or, according to others, at an equal distance from the (long) east and west sides; the ‘spine’ (cf. [p. 112](Book_2_3_5#p112), note [2](Book_2_3_5#fn294)) in that case dividing the building into two equal parts, a northern and a southern one. In the middle the shed is to be of the sacrificer's height, and from thence the ceiling is to slant towards the ends where it is to reach up to the sacrificer's navel. According to the Black Ya<i>g</i>us, the erection of the Sadas precedes the digging of the Uparavas, described in the preceding Brâhma<i>n</i>a. Taitt. S. VI, 2, 10, 11.
+[^380]: 140:3 The Sadas is a shed or tent, facing the east with its long side, which is to measure eighteen (or twenty-one, or twenty-four, or, according to the <i>S</i>ulva-sûtra, twenty-seven) cubits, the breadth by p. 141 six cubits (or ten, or one half that of the long side). The udumbara post, according to some, is to stand exactly in the centre of the shed; or, according to others, at an equal distance from the (long) east and west sides; the ‘spine’ (cf. [p. 112](../Book_2_3_5#p112), note [2](../Book_2_3_5#fn294)) in that case dividing the building into two equal parts, a northern and a southern one. In the middle the shed is to be of the sacrificer's height, and from thence the ceiling is to slant towards the ends where it is to reach up to the sacrificer's navel. According to the Black Ya<i>g</i>us, the erection of the Sadas precedes the digging of the Uparavas, described in the preceding Brâhma<i>n</i>a. Taitt. S. VI, 2, 10, 11.
 
-[^381]: 141:1 The anta<i>h</i>pâta, see [III, 5, I, 1](Book_2_3_5#v3_5_1_1).
+[^381]: 141:1 The anta<i>h</i>pâta, see [III, 5, I, 1](../Book_2_3_5#v3_5_1_1).
 
 [^382]: 142:1 It is the part which is to stand above ground that is to be of the sacrificer's size.
 
 [^383]: 143:1 Svâru<i>h</i>, ‘naturally grown,’ Taitt. S. VI, 2, 10, 4.
 
-[^384]: 144:1 See [III, 5, 2, 11](Book_2_3_5#v3_5_2_11) with note. The Kâ<i>n</i>va text has, bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
+[^384]: 144:1 See [III, 5, 2, 11](../Book_2_3_5#v3_5_2_11) with note. The Kâ<i>n</i>va text has, bahvî vâ â<i>s</i>îr ya<i>g</i>u<i>h</i>shu te asmâ ete â<i>s</i>ishâ vâ <i>s</i>âste yad brahma <i>k</i>a kshatra<i>m</i> <i>k</i>a.
 
 [^385]: 145:1 The post is to be furcate at the top, and between the branch-stumps (forming as it were its ears) he is to put a piece of gold and pour the ghee thereon; when the ghee reaches the ground, he is to pronounce the final ‘Svâhâ!’ in accordance with the practice at the homas; the gold representing, as it were, the sacrificial fire. Sâya<i>n</i>a on Taitt. S. I, 3, I; Kâty. VIII, 5, 37 seq.
 
@@ -295,7 +295,7 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^387]: 146:1 Viz. with hurdles, or upright grass-mats, fastened to the doorposts by means of cord.
 
-[^388]: 146:2 See [III, 5, 3, 25](Book_2_3_5#v3_5_3_25).
+[^388]: 146:2 See [III, 5, 3, 25](../Book_2_3_5#v3_5_3_25).
 
 [^389]: 147:1 North of the clog (apalamba) of the carts, Kâ<i>n</i>va rec.
 
@@ -303,7 +303,7 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^391]: 148:1 Or, as Sâya<i>n</i>a takes it, ‘he who is known (as well-conducted) and a repeater (reader) of the Veda.’
 
-[^392]: 148:2 See [IV, 3, 4, 19](Book_2_4_3#v4_3_4_19) seq.
+[^392]: 148:2 See [IV, 3, 4, 19](../Book_2_4_3#v4_3_4_19) seq.
 
 [^393]: 148:3 Or, ‘that (fire) will not suffer evil’ (ârti<i>m</i> na labheta, Sâya<i>n</i>a).
 
@@ -311,7 +311,7 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^395]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
 
-[^396]: 149:2 See [III, 2, 4, 1](Book_2_3_2#v3_2_4_1) seq.; Oldenberg, Zeitsch. d. Deutsch. Morg. Ges. XXXVII, p. 67 seq.; Weber, Ind. Stud. VIII, p. 31.
+[^396]: 149:2 See [III, 2, 4, 1](../Book_2_3_2#v3_2_4_1) seq.; Oldenberg, Zeitsch. d. Deutsch. Morg. Ges. XXXVII, p. 67 seq.; Weber, Ind. Stud. VIII, p. 31.
 
 [^397]: 149:3 In Taitt. S. VI, 1, 6; Kâ<i>th</i>. XXIII, 10, supar<i>n</i>î, ‘the well-winged,’ is identified with the sky.
 
@@ -325,9 +325,9 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^402]: 151:1 Sâya<i>n</i>a takes it in the sense of ‘she swallowed (khâd),’ but I should feel inclined to refer it to the same verb ‘khid’ (? khad) as ‘âkhidat’ coming immediately after it. Could Pâ<i>n</i>ini's Sûtra VI, 1, 52 refer to this passage? \[Kâ<i>s</i>. V., Benares edition <i>k</i>ikhâda; MS. Indian Office <i>k</i>akhâda.\] The Kâ<i>n</i>va text has the same reading: â<i>k</i>akhâda-âkhidat.
 
-[^403]: 152:1 See [III, 3, 3, 11](Book_2_3_3#v3_3_3_11).
+[^403]: 152:1 See [III, 3, 3, 11](../Book_2_3_3#v3_3_3_11).
 
-[^404]: 152:2 For these oblations poured upon burning bundles of chips and grass held over the several hearth-fires, see [IV, 4, 2, 7](Book_2_4_4#v4_4_2_7).
+[^404]: 152:2 For these oblations poured upon burning bundles of chips and grass held over the several hearth-fires, see [IV, 4, 2, 7](../Book_2_4_4#v4_4_2_7).
 
 [^405]: 152:3 Yad vâ uparyupari somam bibhrata<i>h</i> sa<i>m</i><i>k</i>arishyanti, Kâ<i>n</i>va rec. (? holding the Soma close above the dhish<i>n</i>yas). This passage p. 153 apparently refers to the <i>K</i>amasa-Adhvaryus or cup-bearers, who at the time of the Savanas hold up their cups filled with Soma, which, after libations have been made of it on the fire, is drunk by the priests.
 
@@ -345,11 +345,11 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^412]: 155:2 Or, corresponds to (anu).
 
-[^413]: 155:3 That is, a blood-relation of the sacrificer, dwelling together with him. Cf. also [p. 40](Book_2_3_2#p40), note [1](Book_2_3_2#fn111).
+[^413]: 155:3 That is, a blood-relation of the sacrificer, dwelling together with him. Cf. also [p. 40](../Book_2_3_2#p40), note [1](../Book_2_3_2#fn111).
 
 [^414]: 156:1 Viz. on the Âhavanîya of the Prâ<i>k</i>înava<i>m</i><i>s</i>a (hall) now serving as the Gârhapatya, and generally called <i>s</i>âlâdvârya, i.e. the one near the (front or eastern) hall-door.
 
-[^415]: 156:2 See [p. 121](Book_2_3_5#p121), note [2](Book_2_3_5#fn322).
+[^415]: 156:2 See [p. 121](../Book_2_3_5#p121), note [2](../Book_2_3_5#fn322).
 
 [^416]: 156:3 P<i>ri</i>shad-â<i>g</i>ya (lit. mottled butter) is clarified butter mixed with sour milk.
 
@@ -361,23 +361,23 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^420]: 158:1 The ‘Vâyavya’ are wooden cups shaped like a mortar. It seems here to include all the Soma-cups, see IV, 1, 3, 7-10; Kâty, VIII, 7, 5.
 
-[^421]: 158:2 See [III, 4, 1, 17](Book_2_3_4#v3_4_1_17)\-[18](Book_2_3_4#v3_4_1_18).
+[^421]: 158:2 See [III, 4, 1, 17](../Book_2_3_4#v3_4_1_17)\-[18](../Book_2_3_4#v3_4_1_18).
 
-[^422]: 158:3 Viz. at the guest-offering, see [p. 103](Book_2_3_4#p103), note [3](Book_2_3_4#fn269). It was tied up with the three objects mentioned immediately before.
+[^422]: 158:3 Viz. at the guest-offering, see [p. 103](../Book_2_3_4#p103), note [3](../Book_2_3_4#fn269). It was tied up with the three objects mentioned immediately before.
 
 [^423]: 158:4 The vapâ<i>s</i>rapa<i>n</i>î are sticks of kârshmarya wood.
 
-[^424]: 158:5 For these objects, see [p. 90](Book_2_3_4#p90), note [5](Book_2_3_4#fn241).
+[^424]: 158:5 For these objects, see [p. 90](../Book_2_3_4#p90), note [5](../Book_2_3_4#fn241).
 
-[^425]: 158:6 ‘Thus that sacrifice goes upwards to yonder heavenly world, and, the sacrifice being the sacrificer, the sacrificer thus goes thither,’ Kâ<i>n</i>va text. See [III, 6, 1, 28](Book_2_3_6#v3_6_1_28), where the gods are said to have attained immortality from the Âgnîdhrîya.
+[^425]: 158:6 ‘Thus that sacrifice goes upwards to yonder heavenly world, and, the sacrifice being the sacrificer, the sacrificer thus goes thither,’ Kâ<i>n</i>va text. See [III, 6, 1, 28](../Book_2_3_6#v3_6_1_28), where the gods are said to have attained immortality from the Âgnîdhrîya.
 
 [^426]: 159:1 Also the two fringed filtering-cloths (da<i>s</i>âpavitre), according to the Kâ<i>n</i>va rec.
 
-[^427]: 160:1 ‘He then deposits the Prastara on the mound ([p. 140](Book_2_3_5#p140), note [2](Book_2_3_5#fn377)), deposits there the <i>g</i>uhû and the upabh<i>ri</i>t and the p<i>ri</i>shadâ<i>g</i>ya; and having touched the sacrificial materials and touched water, he takes the king and enters (the cart-shed),’ &c. Kâ<i>n</i>va rec.
+[^427]: 160:1 ‘He then deposits the Prastara on the mound ([p. 140](../Book_2_3_5#p140), note [2](../Book_2_3_5#fn377)), deposits there the <i>g</i>uhû and the upabh<i>ri</i>t and the p<i>ri</i>shadâ<i>g</i>ya; and having touched the sacrificial materials and touched water, he takes the king and enters (the cart-shed),’ &c. Kâ<i>n</i>va rec.
 
-[^428]: 161:1 See [III, 3, 4, 21](Book_2_3_3#v3_3_4_21).
+[^428]: 161:1 See [III, 3, 4, 21](../Book_2_3_3#v3_3_4_21).
 
-[^429]: 161:2 Thus (iti), viz. with the following modifications of the corresponding formula, used at the ‘intermediary consecration,’ [III, 4, 3, 9](Book_2_3_4#v3_4_3_9). Perhaps ‘iti’ may mean ‘thus,’ i.e. while still keeping his fingers turned in; or, it may mean ‘as such’ (as a free man).
+[^429]: 161:2 Thus (iti), viz. with the following modifications of the corresponding formula, used at the ‘intermediary consecration,’ [III, 4, 3, 9](../Book_2_3_4#v3_4_3_9). Perhaps ‘iti’ may mean ‘thus,’ i.e. while still keeping his fingers turned in; or, it may mean ‘as such’ (as a free man).
 
 [^430]: 162:1 On the Animal Sacrifice, cp. Dr. J. Schwab's dissertation, ‘Das altindische Thieropfer,’ 1882.
 
@@ -387,7 +387,7 @@ She then carried him off while he was under the charge of the A<i>kh</i>âvâka,
 
 [^433]: 164:1 Viz. he places or holds it against where he is about to strike the tree, so as first to cut the grass.
 
-[^434]: 164:2 For the destination of this chip of the bark, see [III, 7, 1, 8](Book_2_3_7#v3_7_1_8).
+[^434]: 164:2 For the destination of this chip of the bark, see [III, 7, 1, 8](../Book_2_3_7#v3_7_1_8).
 
 [^435]: 164:3 That is to say, he is not to cut the tree too high from the ground, so that the axle of the cart might readily pass over the remaining stump without touching it. The Kâ<i>n</i>va text reads, ‘tam anakshastambhe v<i>ri</i><i>s</i><i>k</i>ed uta hy enam anasâ vakshyanto bhavanty uto svarga<i>m</i> hâsya loka<i>m</i> yate (sic) ’kshastambha<i>h</i> syât tasmâd anakshastambhe v<i>ri</i><i>s</i><i>k</i>et.’ Nothing is said anywhere about the yûpa being conveyed on a cart to the sacrificial ground, if, indeed, that statement refer to the yûpa at all. Sâya<i>n</i>a's comment is very corrupt here, but he seems to interpret the passage to the effect that some people might convey the stake on the cart (pakshe anasâ yûpa<i>m</i> nayeyu<i>h</i>) and that in that case the cart would be obstructed.
 

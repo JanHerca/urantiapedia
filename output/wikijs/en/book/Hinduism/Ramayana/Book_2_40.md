@@ -1565,7 +1565,7 @@ Wouldst see returning home is vain.’
 &nbsp;&nbsp;&nbsp;&nbsp;With failing limb and drooping mien
 &nbsp;&nbsp;&nbsp;&nbsp;He heard their counsel wise:
 &nbsp;&nbsp;&nbsp;&nbsp;Still on their son the king and queen
-&nbsp;&nbsp;&nbsp;&nbsp;Kept fast their lingering eyes.  [1](Book_2_50#fn314)
+&nbsp;&nbsp;&nbsp;&nbsp;Kept fast their lingering eyes.  [1](../Book_2_50#fn314)
 
 <figure class="table chapter-navigator">
   <table>

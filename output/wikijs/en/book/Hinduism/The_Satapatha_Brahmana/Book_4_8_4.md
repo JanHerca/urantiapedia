@@ -237,17 +237,17 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^134]: 60:3 These eighteen bricks, representing the Stomas, or hymn-forms, are laid down in the following order. At each end of the spine (running from west to east) one brick, of the size of the shank (from knee to ankle), is placed, with its line-marks running from west to east; the eastern one being placed north, and the western one south, of the spine. Thereupon an ordinary brick, a foot square, is placed p. 61 at the southern end of the ‘cross-spine,’ so as to lie on the spine (though not apparently exactly in the middle, but so that only one-fourth of the brick lies on one side of the spine) with its line-marks running from south to north; and a second brick of the same size is placed on the north, but so as to leave the full space of another such brick between it and the northern edge of the altar. Behind (west of) the front brick, fourteen half-foot bricks are then laid down, in a row from north to south, seven on each side of the spine.
 
-[^135]: 61:1 The formulas of the first four of these (stoma) bricks are not given here (in paragraphs [9](Book_4_8_4#v8_4_1_9)\-[12](Book_4_8_4#v8_4_1_12)) in the order in which the bricks are actually laid down, viz. E. W. S. N., but in the order E. S. N. W.; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. For a symbolic explanation of this change of order see [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) seq.
+[^135]: 61:1 The formulas of the first four of these (stoma) bricks are not given here (in paragraphs [9](../Book_4_8_4#v8_4_1_9)\-[12](../Book_4_8_4#v8_4_1_12)) in the order in which the bricks are actually laid down, viz. E. W. S. N., but in the order E. S. N. W.; cp. Kâtyây. <i>S</i>rautas. XVII, 10, 6-9. For a symbolic explanation of this change of order see [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) seq.
 
 [^136]: 61:2 Or, perhaps, ‘the angry one.’ The author of the Brâhma<i>n</i>a, however, evidently connects ‘bhânta’ with the root ‘bhâ,’ to shine.
 
-[^137]: 66:1 For particulars on the <i>K</i>atush<i>t</i>oma, see note on [XIII, 1, 3, 4](Book_4_8_1#v8_1_3_4).
+[^137]: 66:1 For particulars on the <i>K</i>atush<i>t</i>oma, see note on [XIII, 1, 3, 4](../Book_4_8_1#v8_1_3_4).
 
 [^138]: 66:2 The ten Sp<i>ri</i>ta<i>h</i> are placed in close connection with the preceding set;—viz. at the front and back ends of the spine, two p. 67 bricks, exactly corresponding in size to those already lying there, are placed south and north of these respectively. Similarly two bricks, a foot square, are placed on the ‘cross-spine’ immediately north of the two stoma-bricks lying there. The remaining six bricks are then placed behind the row of fourteen ‘stomas’ in the front part of the altar, three on each side of the spine.
 
 [^139]: 67:1 Or, from that evil, death.
 
-[^140]: 67:2 In the case of the first four Sp<i>ri</i>ta<i>h</i>, as in that of the corresponding Stomas (see p. 6r, note r), while the bricks themselves are laid down in the order E. W. N. S., the order in which the formulas are given in paragraphs 3-6, is that of E. N. S.W.—Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. For a symbolical explanation of this change of order, see [VIII, 4, 4, 1](Book_4_8_4#v8_4_4_1) seq.
+[^140]: 67:2 In the case of the first four Sp<i>ri</i>ta<i>h</i>, as in that of the corresponding Stomas (see p. 6r, note r), while the bricks themselves are laid down in the order E. W. N. S., the order in which the formulas are given in paragraphs 3-6, is that of E. N. S.W.—Cp. Kâty. <i>S</i>rautas. XVII, 10, 11-14. For a symbolical explanation of this change of order, see [VIII, 4, 4, 1](../Book_4_8_4#v8_4_4_1) seq.
 
 [^141]: 69:1 This is clearly a fanciful etymology. If ‘yava’ and ‘ayava,’ in the sense of the bright and dark fortnights, are really genuine terms, it is more likely that they are derived from yu, ‘to keep off,’—the bright half of the moon being looked upon as capable of averting evil spirits, and the dark half as the reverse of this.
 
@@ -262,7 +262,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^146]: 76:1 That is, he makes them pass into his own power, makes them his own.
 
-[^147]: 77:1 That is, in the laying down of these bricks. For the order followed in laying down the bricks, see also [p. 67](Book_4_8_4#p67), note [2](Book_4_8_4#fn139).
+[^147]: 77:1 That is, in the laying down of these bricks. For the order followed in laying down the bricks, see also [p. 67](../Book_4_8_4#p67), note [2](../Book_4_8_4#fn139).
 
 [^148]: 78:1 The Sanskrit text, as usual, makes our gerundial clause the principal clause: ‘because he lays them down in changing them.’
 
@@ -286,22 +286,22 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^158]: 81:4 Viz. such as an excess of sharp teeth (incisors)—yasya mukhalaksha<i>n</i>a<i>m</i> dakshi<i>n</i>ada<i>m</i>sh<i>t</i>râtirekâdi bhavati; comm.
 
-[^159]: 81:5 See [VIII, 4, 1, 3](Book_4_8_4#v8_4_1_3).
+[^159]: 81:5 See [VIII, 4, 1, 3](../Book_4_8_4#v8_4_1_3).
 
-[^160]: 81:6 See [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4).
+[^160]: 81:6 See [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4).
 
-[^161]: 81:7 See [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^161]: 81:7 See [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
-[^162]: 81:8 See [VIII, 4, 1, 8](Book_4_8_4#v8_4_1_8).
+[^162]: 81:8 See [VIII, 4, 1, 8](../Book_4_8_4#v8_4_1_8).
 
-[^163]: 81:9 See [VIII, 4, 1, 4](Book_4_8_4#v8_4_1_4) seq.
+[^163]: 81:9 See [VIII, 4, 1, 4](../Book_4_8_4#v8_4_1_4) seq.
 
-[^164]: 82:1 See [VIII, 4, 1, 5](Book_4_8_4#v8_4_1_5).
+[^164]: 82:1 See [VIII, 4, 1, 5](../Book_4_8_4#v8_4_1_5).
 
 [^165]: 82:2 Or, in the (symbolic) meaning. The literal reading of the clause is,—‘Thereby this layer of his becomes possessed of an ancestry and kinship (or mystic sense).’
 
-[^166]: 82:3 Viz. in the north-east corner, or on the left shoulder, whence, in two turns, the available spaces of the altar are filled up. In laying down the Lokamp<i>ri</i><i>n</i>âs of the first three layers he started from the south-east, the south-west, and the north-west corners respectively. Cf. [p. 22](Book_4_8_1#p22), note [1](Book_4_8_2#fn73); [p. 41](Book_4_8_2#p41), note [1](Book_4_8_2#fn94); [p. 58](Book_4_8_3#p58), note [1](Book_4_8_3#fn127).
+[^166]: 82:3 Viz. in the north-east corner, or on the left shoulder, whence, in two turns, the available spaces of the altar are filled up. In laying down the Lokamp<i>ri</i><i>n</i>âs of the first three layers he started from the south-east, the south-west, and the north-west corners respectively. Cf. [p. 22](../Book_4_8_1#p22), note [1](../Book_4_8_2#fn73); [p. 41](../Book_4_8_2#p41), note [1](../Book_4_8_2#fn94); [p. 58](../Book_4_8_3#p58), note [1](../Book_4_8_3#fn127).
 
-[^167]: 82:4 See [VIII, 7, 2, 4](Book_4_8_7#v8_7_2_4) seq.
+[^167]: 82:4 See [VIII, 7, 2, 4](../Book_4_8_7#v8_7_2_4) seq.
 
-[^168]: 82:5 See [VIII, 7, 3, 1](Book_4_8_7#v8_7_3_1) seq.
+[^168]: 82:5 See [VIII, 7, 3, 1](../Book_4_8_7#v8_7_3_1) seq.

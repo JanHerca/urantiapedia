@@ -231,7 +231,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^354]: 208:1 Or, rather, in a low voice, the name of the deity being pronounced in an undertone while the oblation is poured into the fire; see VI, 6, 1, 11. No special formula is, however, used on either occasion.
 
-[^355]: 209:1 See [VIII, 1, 1, 2](Book_4_8_1#v8_1_1_2). Also VI, 5, 3, 11, where the translation should be altered accordingly.
+[^355]: 209:1 See [VIII, 1, 1, 2](../Book_4_8_1#v8_1_1_2). Also VI, 5, 3, 11, where the translation should be altered accordingly.
 
 [^356]: 209:2 In baking the cakes, the Vai<i>s</i>vânara is placed on the centre of the fire, and the first two Mâruta cakes are placed north and south of it, then the following pair of cakes behind the first, but more closely together, and behind these the third pair, still more closely together, and finally the last cake forming, as it were, the apex of a phalanx of Mâruta cakes (or wind-deities) protecting (that of) Agni Vai<i>s</i>vânara. In offering the cakes a similar method is to be followed; except that the first pair of Mâruta cakes may be offered, not in the fire itself, but on the previously flattened out Vai<i>s</i>vânara cake lying on the fire. Whilst the Kâtîya-sûtra (XVIII, 4, 23) admits this as an alternative mode (though not very clearly expressed), our passage seems to require it as the only possible mode. Both the Vai<i>s</i>vânara and the Mâruta cakes are offered whole.
 
@@ -243,7 +243,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^360]: 213:2 Thus, according to Kâty. XVIII, 5, 1 (the Adhvaryu, according to Weber, Ind. Stud. XIII, p. 283).
 
-[^361]: 213:3 It would rather seem to mean ‘stream, or shower, of wealth;’ cf. [paragraph 4](Book_4_9_3#v9_3_2_4).
+[^361]: 213:3 It would rather seem to mean ‘stream, or shower, of wealth;’ cf. [paragraph 4](../Book_4_9_3#v9_3_2_4).
 
 [^362]: 213:4 That is, the consecration ceremony, in which the king is sprinkled' with sacred water, or, so to speak, anointed. The ‘Vasor dhârâ,’ or ‘shower of wealth,’ consisting of an uninterrupted series of 401 libations to Agni (through which all the powers of the god are to be secured to the Sacrificer), is intended as the p. 214 equivalent of that ceremony for the consecration of Agni as king; and, indeed, as a kind of superior consecration ceremony for the (royal) Sacrificer himself, more potent than the Râ<i>g</i>asûya and Vâ<i>g</i>apeya. There is thus to be noticed here the same tendency as elsewhere of exalting the efficacy of the Agni<i>k</i>ayana, and of making it take the place of the whole of the ordinary sacrificial ceremonial.
 
@@ -273,23 +273,23 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^375]: 218:2 The two formulas relating to these two sets of libations (XVIII, 26; 27) contain respectively five and four pairs of teams of cattle of different ages, beginning with ‘tryavi and tryavî,’ ‘an eighteen-months bull and an eighteen-months cow;’ and ending with ‘a bullock and a milch cow.’
 
-[^376]: 219:1 This set of thirteen libations (XVIII, 28) is offered to the months Vâ<i>g</i>a, Prasava, &c., here apparently considered as manifestations of Agni (the year). Each name is followed by ‘svâhâ (hail!);’ and the last of these dedicatory formulas is followed by the special benedictory formula, referred to in [paragraph 10](Book_4_9_3#v9_3_3_10).
+[^376]: 219:1 This set of thirteen libations (XVIII, 28) is offered to the months Vâ<i>g</i>a, Prasava, &c., here apparently considered as manifestations of Agni (the year). Each name is followed by ‘svâhâ (hail!);’ and the last of these dedicatory formulas is followed by the special benedictory formula, referred to in [paragraph 10](../Book_4_9_3#v9_3_3_10).
 
-[^377]: 220:1 This final set of twelve (? sixteen) libations is called thus (kalpa), because, in the formulas used with them (Vâ<i>g</i>. S. XVIII, 29), the verb ‘k<i>li</i>p (to prosper, to be right and proper)’ is repeated each time. At the conclusion of these twelve formulas the priest mutters the final benediction given in full in [paragraph 14](Book_4_9_3#v9_3_3_14).
+[^377]: 220:1 This final set of twelve (? sixteen) libations is called thus (kalpa), because, in the formulas used with them (Vâ<i>g</i>. S. XVIII, 29), the verb ‘k<i>li</i>p (to prosper, to be right and proper)’ is repeated each time. At the conclusion of these twelve formulas the priest mutters the final benediction given in full in [paragraph 14](../Book_4_9_3#v9_3_3_14).
 
-[^378]: 222:1 See [p. 167](Book_4_9_1#p167), note [1](Book_4_9_1#fn283).
+[^378]: 222:1 See [p. 167](../Book_4_9_1#p167), note [1](../Book_4_9_1#fn283).
 
-[^379]: 222:2 Viz. the different forms, or powers, of Agni, to which the 401 libations are offered. See [IX, 1, 1, 43](Book_4_9_1#v9_1_1_43), where the very same calculations are applied to the <i>S</i>atarudriya.
+[^379]: 222:2 Viz. the different forms, or powers, of Agni, to which the 401 libations are offered. See [IX, 1, 1, 43](../Book_4_9_1#v9_1_1_43), where the very same calculations are applied to the <i>S</i>atarudriya.
 
-[^380]: 222:3 See [p. 114](Book_4_8_6#p114), note [1](Book_4_8_6#fn207).
+[^380]: 222:3 See [p. 114](../Book_4_8_6#p114), note [1](../Book_4_8_6#fn207).
 
 [^381]: 222:4 Paksha, wing, also means half-month, fortnight, of which there are twenty-four in the year.
 
-[^382]: 222:5 See [p. 168](Book_4_9_1#p168), note [3](Book_4_9_1#fn287).
+[^382]: 222:5 See [p. 168](../Book_4_9_1#p168), note [3](../Book_4_9_1#fn287).
 
 [^383]: 222:6 Apparently in addition to the fingers and toes (? of monkeys).
 
-[^384]: 223:1 See pp. [110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202); [112](Book_4_8_6#p112), n. [1](Book_4_8_6#fn204); [113](Book_4_8_6#p113), n. [1](Book_4_8_6#fn206).
+[^384]: 223:1 See pp. [110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202); [112](../Book_4_8_6#p112), n. [1](../Book_4_8_6#fn204); [113](../Book_4_8_6#p113), n. [1](../Book_4_8_6#fn206).
 
 [^385]: 223:2 That is, oblations capable of promoting or quickening strength (or food,—vâ<i>g</i>a); see part iii, p. 37 (where read Vâ<i>g</i>aprasavîya). While the formulas of the first seven of these oblations are the same as those used for those of the Vâ<i>g</i>apeya (see V, 2, 2, 5-11), the formulas of the last seven of these oblations are Vâ<i>g</i>. S. XVIII, 30-36 (for the first of which, being the same as IX, 5, see VI, 1, 4, 4).
 

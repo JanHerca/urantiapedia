@@ -98,7 +98,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^610]: 190:10 This is rendered according to the commentary of Maimonides; but this passage is variously explained.
 
-[^611]: 190:11 See Note [^600], page [188](Treatise13_Erubin_2#p188).
+[^611]: 190:11 See Note [^600], page [188](../Treatise13_Erubin_2#p188).
 
 [^612]: 190:12 It is prohibited to look at the priests whilst saying the blessing ‏ברכת כהנים‎.
 

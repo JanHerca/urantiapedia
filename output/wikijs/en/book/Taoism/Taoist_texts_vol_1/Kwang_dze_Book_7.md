@@ -98,21 +98,21 @@ After this, Lieh-dze considered that he had not yet begun to learn (his master's
 
 ## Footnotes
 
-[^344]: 259:1 See pp. [136](Kwang_dze_Intro#p136)\-[138](Kwang_dze_Intro#p138).
+[^344]: 259:1 See pp. [136](../Kwang_dze_Intro#p136)\-[138](../Kwang_dze_Intro#p138).
 
-[^346]: 259:2 See p. 190, note [5](Kwang_dze_Book_2#fn113).
+[^346]: 259:2 See p. 190, note [5](../Kwang_dze_Book_2#fn113).
 
 [^347]: 259:3 An ancient Tâoist, of the time of Shun. So, Hwang-fû Mî, who adds that Shun served him as his master when he was eight years old. I suppose the name indicates that his clothes were made of rushes.
 
-[^348]: 259:4 Shun. See p. 245, note [3](Kwang_dze_Book_6#fn266).
+[^348]: 259:4 Shun. See p. 245, note [3](../Kwang_dze_Book_6#fn266).
 
 [^349]: 259:5 An ancient sovereign, earlier, no doubt, than Fû-hsî; but nothing is known of him.
 
 [^350]: 259:6 He thought nothing about his being, as a man, superior to the lower creatures. Shun in governing employed his acquired knowledge; Thâi had not begun to do so.
 
-[^351]: 260:1 See p. 170, note [2](Kwang_dze_Book_1#fn57).
+[^351]: 260:1 See p. 170, note [2](../Kwang_dze_Book_1#fn57).
 
-[^352]: 260:2 See p. 170, note [3](Kwang_dze_Book_1#fn58).
+[^352]: 260:2 See p. 170, note [3](../Kwang_dze_Book_1#fn58).
 
 [^353]: 260:3 A name;—‘a worthy,’ it is said.
 

@@ -86,7 +86,7 @@ Everyone whose own mind finds pleasure in what he does [^185]—it is a good sig
 
 B.
 
-**T**. III. 19. If a man wakes up early to go on a journey, behold, he takes a trumpet [1](Berakoth_2_4#fn_200) and blows it, a Lulab [2](Berakoth_2_4#fn_201) and shakes it, a roll of the Book of Esther [3](Berakoth_2_4#fn_202) and reads in it, and prays (the Eighteen). Then when the time of reciting the Shma‘ arrives, behold, he recites it. [4](Berakoth_2_4#fn_203) If he wakes up early to sit in a waggon or in a ship, behold, he prays (the Eighteen). Then when the time of reciting the Shma‘ arrives, behold, he recites it.
+**T**. III. 19. If a man wakes up early to go on a journey, behold, he takes a trumpet [1](../Berakoth_2_4#fn_200) and blows it, a Lulab [2](../Berakoth_2_4#fn_201) and shakes it, a roll of the Book of Esther [3](../Berakoth_2_4#fn_202) and reads in it, and prays (the Eighteen). Then when the time of reciting the Shma‘ arrives, behold, he recites it. [4](../Berakoth_2_4#fn_203) If he wakes up early to sit in a waggon or in a ship, behold, he prays (the Eighteen). Then when the time of reciting the Shma‘ arrives, behold, he recites it.
 
 <a id="m7"></a>
 
@@ -102,9 +102,9 @@ And in the Additional services he prays seven [^212] \[Benedictions\] and says \
 
 12\. On sabbath, and festival, and the Day of Atonement, one prays seven prayers, and says \[the special section for\] the sanctification of the day in the middle. [^214]
 
-13\. The case of the festival of New Year's Day, which falls upon a sabbath. The School of <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai say: One prays ten [1](Berakoth_2_5#fn_215) \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel says: he prays nine [2](Berakoth_2_5#fn_216) \[Benedictions\].
+13\. The case of the festival of New Year's Day, which falls upon a sabbath. The School of <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai say: One prays ten [1](../Berakoth_2_5#fn_215) \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel says: he prays nine [2](../Berakoth_2_5#fn_216) \[Benedictions\].
 
-The case of a festival which falls on a sabbath. The School of Shammai say: he prays eight \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel say: he prays seven, beginning with that for the sabbath, and ending with that for the sabbath, and he says \[the special section for\] the sanctification of the day in the middle. R. Nathan says: also he seals it with: “Blessed be Thou that sanctifiest the sabbath and Israel and the festival seasons.” [3](Berakoth_2_5#fn_217)
+The case of a festival which falls on a sabbath. The School of Shammai say: he prays eight \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel say: he prays seven, beginning with that for the sabbath, and ending with that for the sabbath, and he says \[the special section for\] the sanctification of the day in the middle. R. Nathan says: also he seals it with: “Blessed be Thou that sanctifiest the sabbath and Israel and the festival seasons.” [3](../Berakoth_2_5#fn_217)
 
 <figure class="table chapter-navigator">
   <table>
@@ -150,7 +150,7 @@ The case of a festival which falls on a sabbath. The School of Shammai say: he p
 
 [^181]: 29:3 _the eleventh hour_ minus _a quarter_. 4.45 p.m. see mishna, note.
 
-[^182]: 29:4 _Eleazar bar Jose_. Eleazar, son of Jose the Galilean ([p. 55](Berakoth_3_6#p55)), a mishna teacher of the third generation, c. 130-160 A.D.
+[^182]: 29:4 _Eleazar bar Jose_. Eleazar, son of Jose the Galilean ([p. 55](../Berakoth_3_6#p55)), a mishna teacher of the third generation, c. 130-160 A.D.
 
 [^183]: 29:5 _the closing of the gates_. Presumably the Temple gates were closed at dusk.
 
@@ -160,7 +160,7 @@ The case of a festival which falls on a sabbath. The School of Shammai say: he p
 
 [^186]: 29:8 _what he does_. Lit.: “what is his,” but the reference seems to be not to his possessions, but to his occupations and actions.
 
-[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. One of the first generation of mishna teachers, C. 90 A.D., the teacher of R. Ishmael ([p. 6](Berakoth_1_1#p6)). He is the reputed author of the Cabbalistic _Sepher ha Bahir_.
+[^187]: 30:1 _R. Nechuniah ben ha-Qanah_. One of the first generation of mishna teachers, C. 90 A.D., the teacher of R. Ishmael ([p. 6](../Berakoth_1_1#p6)). He is the reputed author of the Cabbalistic _Sepher ha Bahir_.
 
 [^188]: 30:2 _the School_. Literally, the Beth ha Midrash, the lecture room.
 
@@ -176,7 +176,7 @@ The oldest “abstract” of the Eighteen Benedictions seems to be the _Habinenu
 
 [^193]: 30:7 _R. Joshua_. B. has R. Aqiba. But this may be due to the similarity of the sayings ascribed to the latter in _T_. III. 3. “R. Joshua” in the Mishna is R. Joshua ben Chananiah, a mishna teacher of the second generation, c. 90-130 A.D. “I said, I care p. 31 not if my lot be as that of Joshua ben Chananja: after the last destruction he earned his bread by making needles, but in his youth he had been a singer on the steps of the Temple, and had a memory of what was, before the glory departed” (“George Eliot,” _Daniel Deronda_, e. XL., 1876, iii. 179).
 
-[^194]: 31:1 _fluent_. Cf. M. v. 5. [p. 41](Berakoth_2_5#p41). T. iii. 3. [p. 29](Berakoth_2_4#p29).
+[^194]: 31:1 _fluent_. Cf. M. v. 5. [p. 41](../Berakoth_2_5#p41). T. iii. 3. [p. 29](../Berakoth_2_4#p29).
 
 [^195]: 31:2 _the abstract of the Eighteen_. If he remember the Eighteen without difficulty, let him pray them in full.
 
@@ -192,7 +192,7 @@ The oldest “abstract” of the Eighteen Benedictions seems to be the _Habinenu
 
 [^201]: 33:1 _he takes a trumpet_. i.e. on New Year's Day; see Lev. 2324; Num. 291 (Oesterley and Box, p. 411).
 
-[^202]: 33:2 _a Lulab_. A palm-branch bound with myrtle and willow at the F. of Tab. (_Jew. Enc._: viii. 205). Infra, [p. 80](Berakoth_3_9#p80).
+[^202]: 33:2 _a Lulab_. A palm-branch bound with myrtle and willow at the F. of Tab. (_Jew. Enc._: viii. 205). Infra, [p. 80](../Berakoth_3_9#p80).
 
 [^203]: 33:3 _a roll of the Book of Esther_. At Purim, Esther. 932. (Oesterley and Box, pp. 407 _sq_.)
 

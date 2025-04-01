@@ -302,7 +302,7 @@ Thus I say.
 
 [^256]: 97:1 Miga = m<i>ri</i>ga, literally ‘antelope;’ but here as frequently the word has apparently the more general meaning ‘wild animal.’
 
-[^257]: 98:1 See notes [2](Uttaradhyayana_12#fn159) and [3](Uttaradhyayana_12#fn160) on [p. 50](Uttaradhyayana_12#p50).
+[^257]: 98:1 See notes [2](../Uttaradhyayana_12#fn159) and [3](../Uttaradhyayana_12#fn160) on [p. 50](../Uttaradhyayana_12#p50).
 
 [^258]: 98:2 Gârava = gaurava or garva. Dîpikâ: <i>ri</i>ddhigârava-rasagârava-sâtâgârava iti garvatrayarahita<i>h</i>.
 
@@ -310,4 +310,4 @@ Thus I say.
 
 [^260]: 99:1 Vâsî<i>k</i>anda<i>n</i>akappô. The author of the Ava<i>k</i>ûri explains this phrase thus: he did not like more a man who anoints himself with sandal than a mason. Apparently he gives to vâsa the meaning ‘dwelling;’ but I think that the juxtaposition of <i>k</i>andana calls for a word denoting a bad-smelling substance, perhaps ordure.’
 
-[^261]: 99:2 Literally ‘door.’ The meaning of the line will be fully rendered and the simile at least partially be preserved by the following less literal translation: he shut the door, as it were, to evil influences. For the âsrava, see above, [p. 55](Uttaradhyayana_12#p55), note [1](Uttaradhyayana_12#fn165).
+[^261]: 99:2 Literally ‘door.’ The meaning of the line will be fully rendered and the simile at least partially be preserved by the following less literal translation: he shut the door, as it were, to evil influences. For the âsrava, see above, [p. 55](../Uttaradhyayana_12#p55), note [1](../Uttaradhyayana_12#fn165).

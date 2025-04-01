@@ -83,7 +83,7 @@ SECOND ADHYÂYA [^652].
 
 4\. What we call the person of the metres is this collection of letters (the Veda). Its essence is the vowel a.
 
-5\. What we call the person of the Veda is (the mind) by which we know the Vedas, the <i>Ri</i>g-veda, Ya<i>g</i>ur-veda, and Sâma-veda. Its essence is Brahman [^660](m.)
+5\. What we call the person of the Veda is (the mind) by which we know the Vedas, the <i>Ri</i>g-veda, Ya<i>g</i>ur-veda, and Sâma-veda. Its essence is Brahman [^660](../m.)
 
 6\. Therefore let one chose a Brahman-priest who is full of Brahman (the Veda), and is able to see any flaw in the sacrifice.
 

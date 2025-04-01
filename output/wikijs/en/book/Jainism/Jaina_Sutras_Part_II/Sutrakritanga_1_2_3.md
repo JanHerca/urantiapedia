@@ -118,7 +118,7 @@ Thus I say.
 
 [^764]: 258:4 To render kâmî.
 
-[^765]: 259:1 Compare [p. 256](Sutrakritanga_1_2_2#p256), note [1](Sutrakritanga_1_2_2#fn744).
+[^765]: 259:1 Compare [p. 256](../Sutrakritanga_1_2_2#p256), note [1](../Sutrakritanga_1_2_2#fn744).
 
 [^766]: 259:2 Ânupûrvyâ.
 

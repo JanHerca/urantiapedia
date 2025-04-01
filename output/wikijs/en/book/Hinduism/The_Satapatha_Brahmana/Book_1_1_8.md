@@ -268,7 +268,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^515]: 219:1 I<i>d</i>ayâ <i>k</i>arati has the double meaning ‘lives with I<i>d</i>â (the woman)’ and ‘practices sacrificial rites with the i<i>d</i>â-ceremony.’
 
-[^516]: 219:2 See [p. 16](Book_1_1_1#p16), note [1](Book_1_1_1#fn106).
+[^516]: 219:2 See [p. 16](../Book_1_1_1#p16), note [1](../Book_1_1_1#fn106).
 
 [^517]: 219:3 The technical expression used for this fivefold cutting of the i<i>d</i>â is sam-ava-do, ‘to cut off completely (or together),’ or, according to the St. Petersb. Dict., ‘to divide and collect the p. 220 pieces.’ The five cuttings of the i<i>d</i>â consist of the upastara<i>n</i>a, or underlayer of butter in the i<i>d</i>âpâtrî; of two cuttings of each of the havis (or dishes of sacrificial food) from their southern and central parts respectively; and of two drippings (or bastings, abhighâra<i>n</i>a) of butter, as in the case of the svish<i>t</i>ak<i>ri</i>t (see Kâty. III, 4, 6, and note on I, 7, 3, 20). According to some authorities, the i<i>d</i>â consists of four cuttings only (cf. Hillebrandt, Neu- and Vollm. p. 122).
 
@@ -276,7 +276,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^520]: 220:2 A gesture here indicates the two middle joints (or, according to Harisvâmin, the intermediate links) of the Hot<i>ri</i>'s right fore-finger, viz. first the lower joint, and afterwards (par. 15) the upper joint; whereupon the Hot<i>ri</i> applies the respective joints to his lips and smears the butter on them, cf. Â<i>s</i>v. <i>S</i>. I, 7, 1; Kâty. III, 4, 9; Hillebrandt, op. cit., p. 124. In <i>S</i>at. Br. XII, 2, 4, 5 the fore-finger is called annâditamâ, or the finger ‘which eats most food;’ cf. Weber, Prati<i>g</i><i>ñ</i>âsûtra, p. 97.
 
-[^521]: 221:1 Enâm hotari <i>s</i>rayati, literally ‘he makes it enter into, remain in, the Hot<i>ri</i>.’ The author, however, here, as in I, 6, 4, 7, mixes up the verb <i>s</i>ri with <i>s</i>râ, ‘to cook.’ The reason for this see [p. 177](Book_1_1_6#p177), note [4](Book_1_1_6#fn408).
+[^521]: 221:1 Enâm hotari <i>s</i>rayati, literally ‘he makes it enter into, remain in, the Hot<i>ri</i>.’ The author, however, here, as in I, 6, 4, 7, mixes up the verb <i>s</i>ri with <i>s</i>râ, ‘to cook.’ The reason for this see [p. 177](../Book_1_1_6#p177), note [4](../Book_1_1_6#fn408).
 
 [^522]: 221:2 This, according to Â<i>s</i>v. <i>S</i>r. I, 7, 3, and comm., is effected in the following way: the Hot<i>ri</i> takes the i<i>d</i>â with his joined hands (a<i>ñ</i><i>g</i>ali) and makes it lie in his left hand; whereupon the Adhvaryu cuts the (fivefold cut) avântare<i>d</i>â from the i<i>d</i>â into the Hot<i>ri</i>'s right hand, the fingers of which point northwards; the five cuttings apparently consist of the ‘underlayer’ of butter, two pieces cut from the i<i>d</i>â, and drippings of butter on them. Cf. Hillebrandt, op. cit., p. 125.
 
@@ -286,7 +286,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^525]: 222:2 Viz. the Hot<i>ri</i>, as the representative of the officiating priests. Schol.
 
-[^526]: 222:3 On the rathantara and b<i>ri</i>hat sâmans, see [p. 196](Book_1_1_7#p196), note [2](Book_1_1_7#fn446). The vâmadevya sâman is Sâma-veda II, 32-34: kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, ‘with what favour will he assist us, the wonderful, ever-gladdening, friend,’ &c. Cf. Haug, Ait. Br. II, 246.
+[^526]: 222:3 On the rathantara and b<i>ri</i>hat sâmans, see [p. 196](../Book_1_1_7#p196), note [2](../Book_1_1_7#fn446). The vâmadevya sâman is Sâma-veda II, 32-34: kayâ na<i>s</i> <i>k</i>itra â bhuvad ûtî sadâv<i>ri</i>dha<i>h</i> sakhâ, ‘with what favour will he assist us, the wonderful, ever-gladdening, friend,’ &c. Cf. Haug, Ait. Br. II, 246.
 
 [^527]: 222:4 For upahûtâ gâva<i>h</i>, the Taitt. reads upahûtâ dhenu<i>h</i>, ‘called hither is the cow.’ Â<i>s</i>val. <i>S</i>r. has upahûtâ gâva<i>h</i> sahâ<i>s</i>ira<i>h</i>\—upahûtâ dhenu<i>h</i> saha<i>ri</i>shabhâ. Here and after the succeeding calls we have apparently to supply the inverse formulas, ‘May p. 223 the cows together with the bull call us,’ &c., as in Taitt. Br., they being likewise omitted in Taitt. S. II, 6, 7.
 
@@ -352,7 +352,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^558]: 237:1 In Taitt. Br. III, 3, 9 a different symbolical explanation is given of the separation of the spoons: it is said there that by shifting the <i>g</i>uhû eastwards, he drives away the enemies that have been born; and by shifting the upabh<i>ri</i>t towards the west, he drives away those that will be born hereafter; and the sacrificer then stands firmly established in this world.
 
-[^559]: 237:2 See [p. 162](Book_1_1_6#p162), note [3](Book_1_1_6#fn378).
+[^559]: 237:2 See [p. 162](../Book_1_1_6#p162), note [3](../Book_1_1_6#fn378).
 
 [^560]: 238:1 This passage is of considerable importance, as showing that the prohibition of intermarriage between near blood-relations,—so rigidly enforced in later times, and already formulated in passages such as Âpast. Dharm. II, 5, 15, 16, 'One must not give one's daughter to a man belonging to the same gotra. Nor to one related (within six degrees) on the mother's (or father's) side.' Gobh. III, 4, 3-5, 'One must take for one's wife one who is not of the same gotra, or one who is not sapi<i>n</i><i>d</i>a to one's mother,'—was not as yet firmly established in our author's time. Harisvâmin remarks on our text, that the Kâ<i>n</i>vas allow intermarriage in such cases from the third generation—(the Kâ<i>n</i>va text of the <i>S</i>at. Br. reads, ‘In the third man we unite, in the fourth man we unite’)—and the Saurâsh<i>t</i>ras from the fourth generation; and that the Dâkshi<i>n</i>âtyas allow marriage with daughters of the mother's brother, p. 239 and with sons of the father's sister. See Weber, Ind. Stud. X, p. 75; Max Müller, History of Ancient Sanskrit Literature, p. 387; Bühler, Sacred Laws of the Âryas, I, p. 126.
 
@@ -382,13 +382,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^573]: 243:2 That is to say, he makes sure that the sacrificer has really obtained the object for which the sacrifice was undertaken,—the right to go to the heavenly world after his death.
 
-[^574]: 244:1 He touches himself near the heart, or, according to Vaidyanâtha, he touches his eyes. After this he has, as usual, to touch the lustral water. See [p. 2](Book_1_1_1#p2), note [2](Book_1_1_1#fn84).
+[^574]: 244:1 He touches himself near the heart, or, according to Vaidyanâtha, he touches his eyes. After this he has, as usual, to touch the lustral water. See [p. 2](../Book_1_1_1#p2), note [2](../Book_1_1_1#fn84).
 
 [^575]: 244:2 Here begins the <i>s</i>a<i>m</i>yuvâka; see [p. 241](#p241), note [^565].
 
 [^576]: 244:3 ‘Svagâ´ daívyâ hôt<i>ri</i>bhya<i>h</i>.’ The form daivyâ seems to have become fixed before hot<i>ri</i>, in consequence of its frequent use, especially in the Âprî hymns, as nom. acc. dual daívyâ hótârâ; and in the invocation of the I<i>d</i>â, as nom. plur. daívyâ hótâra<i>h</i>.
 
-[^577]: 245:1 Here begins the offering of the remains (sa<i>m</i>srava) of butter; see [p. 236](Book_1_1_8#p236), note [^553].
+[^577]: 245:1 Here begins the offering of the remains (sa<i>m</i>srava) of butter; see [p. 236](../Book_1_1_8#p236), note [^553].
 
 [^578]: 245:2 See par. 14 above.
 
@@ -396,10 +396,10 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^580]: 246:1 Paridheyâ<i>h</i>, literally ‘ye who are to be laid around;’ according to Mahîdhara = paridhibhavâ<i>h</i>. The Kâ<i>n</i>va text has paridhaya<i>h</i>, ‘enclosing-sticks.’ The Black Ya<i>g</i>us (Taitt. S. I, 1, 13, 2) has ‘barhishada<i>h</i> (sitting on the Barhis)’ instead.
 
-[^581]: 246:2 The original meaning of this sacrificial call, as of the apparently allied vasha<i>t</i>, vausha<i>t</i>, appears to be, ‘May he (Agni) carry it (the oblation to the deity)!’ Cf. [p. 88](Book_1_1_3#p88), note [2](Book_1_1_3#fn254).
+[^581]: 246:2 The original meaning of this sacrificial call, as of the apparently allied vasha<i>t</i>, vausha<i>t</i>, appears to be, ‘May he (Agni) carry it (the oblation to the deity)!’ Cf. [p. 88](../Book_1_1_3#p88), note [2](../Book_1_1_3#fn254).
 
 [^582]: 246:3 See I, 1, 2, 8.
 
-[^583]: 246:4 This seems to refer to the time when he gets the spoons ready for their sacred use. He then wipes them with sacrificial grass; that is, he, as it were, rubs down the horses before starting on his journey to the world of the gods. See [p. 68](Book_1_1_3#p68), note [1](Book_1_1_3#fn208).
+[^583]: 246:4 This seems to refer to the time when he gets the spoons ready for their sacred use. He then wipes them with sacrificial grass; that is, he, as it were, rubs down the horses before starting on his journey to the world of the gods. See [p. 68](../Book_1_1_3#p68), note [1](../Book_1_1_3#fn208).
 
 [^584]: 247:1 I adopt the interpretation of Harisvâmin, who translates avâr<i>kh</i>et by adha<i>h</i> patet. The St. Petersb. Dict. apparently proposes, ‘he would unharness them, as he would unharness a horse (or team).’ According to Harisvâmin, the author here controverts the view of the Karakas (<i>k</i>araka<i>s</i>ruti), who apparently taught that the (symbolical) unharnessing of the spoons should succeed their being laid down on the yoke; while our author maintains that the unharnessing should precede the laying down.

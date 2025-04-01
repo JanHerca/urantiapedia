@@ -181,13 +181,13 @@ And when, having for argument's sake assumed the opposite of this, assumed that 
 
 [^27]: 109:1 To deny the Ego is to deny the Self, the Universal Self (or God) in Nature, and the individualized Self (or Soul) in Man.
 
-[^28]: 111:1 But see Chapter VII., [<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>](cob09.htm#page_197).
+[^28]: 111:1 But see Chapter VII., [<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>](../cob09.htm#page_197).
 
 [^29]: 114:1 “Lusting after happiness.” What a basely materialistic conception of happiness underlies this question-begging phrase!
 
 [^30]: 122:1 The italics are mine.
 
-[^31]: 124:1 I am understating my case. In one of the Milinda dialogues it is [expressly](errata.htm#2) stated that the relation between “the name and form which is to end at death” and “the name and form which is born into the next existence” is exactly parallel to that between a “young girl” and the same girl (as we should say) when “grown-up and marriageable.” For all practical purposes this is equivalent to saying that the relation is one of identity. (See “Buddhism in Translation,” pp. 236, 237.)
+[^31]: 124:1 I am understating my case. In one of the Milinda dialogues it is [expressly](../errata.htm#2) stated that the relation between “the name and form which is to end at death” and “the name and form which is born into the next existence” is exactly parallel to that between a “young girl” and the same girl (as we should say) when “grown-up and marriageable.” For all practical purposes this is equivalent to saying that the relation is one of identity. (See “Buddhism in Translation,” pp. 236, 237.)
 
 [^32]: 124:2 Dr Rhys Davids is justified from his own point of view in p. 125saying that “Man,” as Buddha conceives of him, “is never the same for two consecutive moments, and there is within him no abiding principle whatever.”
 

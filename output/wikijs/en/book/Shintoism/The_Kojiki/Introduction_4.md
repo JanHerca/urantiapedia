@@ -344,7 +344,7 @@ To conclude this portion of the subject, it may be useful for the sake of compar
 
 [^45]: li:46 See the story of Prince Karu, which is probably historical, in Sects. CXLI _et seq._
 
-[^46]: lii:47 The custom of using surnames was certainly borrowed from China, although the Japanese have not, like the Koreans, gone so far as to adopt the actual surnames in use in that country. The “gentile names” may have sprung up more naturally, though they too show traces of Chinese influence. Those most frequently met with are _Agata-nushi_, _Ason_, _Atahe_, _Kimi_, _Miyatsuko_, _Murazhi_, _Omi_, _Sukune_, and _Wake_. See above, pp. [xv](kj002.htm#pxv)\-xvi.
+[^46]: lii:47 The custom of using surnames was certainly borrowed from China, although the Japanese have not, like the Koreans, gone so far as to adopt the actual surnames in use in that country. The “gentile names” may have sprung up more naturally, though they too show traces of Chinese influence. Those most frequently met with are _Agata-nushi_, _Ason_, _Atahe_, _Kimi_, _Miyatsuko_, _Murazhi_, _Omi_, _Sukune_, and _Wake_. See above, pp. [xv](../kj002.htm#pxv)\-xvi.
 
 [^47]: liii:48 See Sect. XXV (the second Song in that Section).
 

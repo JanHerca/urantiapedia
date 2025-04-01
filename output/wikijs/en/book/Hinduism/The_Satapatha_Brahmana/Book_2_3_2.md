@@ -325,7 +325,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^86]: 30:1 The Mâdhyandinas tied the horn to the unwoven end (thrum, da<i>s</i>â) of the nether garment which was tucked through (par. 13) and then allowed to hang down in front. The Kâ<i>n</i>vas, on the other hand, tied it to the hem of the upper garment (uttarasi<i>k</i>e! Kâ<i>n</i>va text); cf. Kâty. VII, 3, 29 scholl.
 
-[^87]: 31:1 Yoshâ vâ iya<i>m</i> vâg yad ena<i>m</i> na yuvitâ. The St. Petersburg Dict. (s. v. yu) takes it differently, ‘That Vâ<i>k</i> is indeed a woman, since she does not wish to draw him towards herself (i.e. since she does not want him to come near her).’ Sâya<i>n</i>a, on the other hand, explains it elliptically, ‘Since she has not joined him (no confidence can be placed in her).’ The Kâ<i>n</i>va text reads: Ta u ha devâ bibhayâ<i>m</i> <i>k</i>akrur yoshâ vâ iyam iti yad vâ enam na yuvîteti. Perhaps in our passage also we should read ‘yuvîta’ (as proposed by Delbrück, Syntact. Forschungen III, p. 79), and translate, ‘Verily that Vâ<i>k</i> is a woman: (it is to be feared) that she will \[or, it is to be hoped that she will not\] allure him \[viz. so. that Ya<i>g</i><i>ñ</i>a also would fall to the share of the Asuras\];’ ‘Dass sie ihn nur nicht an sich fesselt!’ For similar elliptic constructions with yad and the optative, see paragraphs [26](Book_2_3_2#v3_2_1_26) and [27](Book_2_3_2#v3_2_1_27); and II, 2, 4, 3 \[‘Dass er mich nur nicht auffrisst!’\]; [IV, 3, 5, 3](Book_2_4_3#v4_3_5_3) (‘Dass uns nur die Rakshas nichts zu Leide thun!’); [IV, 6, 9, 1](Book_2_4_6#v4_6_9_1). One would expect an ‘iti’ here.
+[^87]: 31:1 Yoshâ vâ iya<i>m</i> vâg yad ena<i>m</i> na yuvitâ. The St. Petersburg Dict. (s. v. yu) takes it differently, ‘That Vâ<i>k</i> is indeed a woman, since she does not wish to draw him towards herself (i.e. since she does not want him to come near her).’ Sâya<i>n</i>a, on the other hand, explains it elliptically, ‘Since she has not joined him (no confidence can be placed in her).’ The Kâ<i>n</i>va text reads: Ta u ha devâ bibhayâ<i>m</i> <i>k</i>akrur yoshâ vâ iyam iti yad vâ enam na yuvîteti. Perhaps in our passage also we should read ‘yuvîta’ (as proposed by Delbrück, Syntact. Forschungen III, p. 79), and translate, ‘Verily that Vâ<i>k</i> is a woman: (it is to be feared) that she will \[or, it is to be hoped that she will not\] allure him \[viz. so. that Ya<i>g</i><i>ñ</i>a also would fall to the share of the Asuras\];’ ‘Dass sie ihn nur nicht an sich fesselt!’ For similar elliptic constructions with yad and the optative, see paragraphs [26](../Book_2_3_2#v3_2_1_26) and [27](../Book_2_3_2#v3_2_1_27); and II, 2, 4, 3 \[‘Dass er mich nur nicht auffrisst!’\]; [IV, 3, 5, 3](../Book_2_4_3#v4_3_5_3) (‘Dass uns nur die Rakshas nichts zu Leide thun!’); [IV, 6, 9, 1](../Book_2_4_6#v4_6_9_1). One would expect an ‘iti’ here.
 
 [^88]: 31:2 And therefore requiring no priests’ portion &c. to be taken from it.
 
@@ -343,7 +343,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^95]: 34:2 II, 1, 3, 25.
 
-[^96]: 34:3 Viz. in muttering the formulas mentioned above, [III, 2, 1, 5](Book_2_3_2#v3_2_1_5) seq.
+[^96]: 34:3 Viz. in muttering the formulas mentioned above, [III, 2, 1, 5](../Book_2_3_2#v3_2_1_5) seq.
 
 [^97]: 35:1 Or, puts it in himself, encloses it within himself.
 
@@ -355,7 +355,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^101]: 36:1 Professor Whitney (American Journal of Philology, III, p. 402) proposes to take yopaya here in the sense of ‘to set up an obstacle, to block or bar the way.’ He remarks, ‘How the setting up of a post should operate to “efface traces” cannot easily be made to appear.’ I am not aware that any one has supposed that it was by the ‘setting up’ of the post that the traces of the sacrifice were obliterated. From what follows—‘They collected the sacrifice ’—it seems to me pretty clear that our author at any rate connects ‘yopaya’ with the root yu, to mix, stir about, and hence to efface the traces by mixing with the ground, or by scattering about. This causative was evidently no longer a living form, but resorted to for etymological purposes.
 
-[^102]: 36:2 Or, perhaps, They collected the sacrifice in the same way as this (present) sacrifice has been collected. See, however, the corresponding passage [III, 2, 2, 29](Book_2_3_2#v3_2_2_29); [4, 3, 16](Book_2_3_4#v3_4_3_16). The Kâ<i>n</i>va text is clearer: Ta<i>m</i> yathâ yatharshayo ya<i>g</i><i>ñ</i>a<i>m</i> samabhara<i>m</i>s tathâya<i>m</i> ya<i>g</i><i>ñ</i>a<i>h</i> sambh<i>ri</i>to yatho vai tad <i>ri</i>shayo ya<i>g</i><i>ñ</i>am samabharann evam u vâ esha etad ya<i>g</i><i>ñ</i>a<i>m</i> sambharati yo dîkshate.
+[^102]: 36:2 Or, perhaps, They collected the sacrifice in the same way as this (present) sacrifice has been collected. See, however, the corresponding passage [III, 2, 2, 29](../Book_2_3_2#v3_2_2_29); [4, 3, 16](../Book_2_3_4#v3_4_3_16). The Kâ<i>n</i>va text is clearer: Ta<i>m</i> yathâ yatharshayo ya<i>g</i><i>ñ</i>a<i>m</i> samabhara<i>m</i>s tathâya<i>m</i> ya<i>g</i><i>ñ</i>a<i>h</i> sambh<i>ri</i>to yatho vai tad <i>ri</i>shayo ya<i>g</i><i>ñ</i>am samabharann evam u vâ esha etad ya<i>g</i><i>ñ</i>a<i>m</i> sambharati yo dîkshate.
 
 [^103]: 37:1 ‘After pointing out (some) stars \[nakshatrâ<i>n</i>i dar<i>s</i>ayitvâ\],’ Kâ<i>n</i>va recension. Cf. Taitt. S. VI, 1, 4, 4, ‘when the stars have risen, he breaks silence with “Prepare the fast-food!”’
 
@@ -373,9 +373,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^110]: 39:1 Manoyu<i>g</i> (?), ‘mind-yoked,’ i.e. having thoughts for their team.
 
-[^111]: 39:2 Cf. [paragraph 18](Book_2_3_2#v3_2_2_18).
+[^111]: 39:2 Cf. [paragraph 18](../Book_2_3_2#v3_2_2_18).
 
-[^112]: 40:1 Anvârabdha has here the usual sacrificial meaning of ‘taken hold of (from behind),’ with perhaps something of that of ‘taken (as medicine = einnehmen).’ Thus at the invocation of the I<i>d</i>â, the sacrificer has to touch (anv-ârabh) the i<i>d</i>â from behind, thereby keeping up his connection, and identifying himself, with the sacrifice. Cf. part i, p. 228, note 1; and [III, 2, 4, 15](Book_2_3_2#v3_2_4_15). Hence the author, making use of the term suggested by those he criticises, argues that as both kinds of material have already been used and therefore touched (anvârabdha) by him at the New and Full-moon Sacrifice (Sâya<i>n</i>a), they have therefore been taken possession of by him. It is possible, though scarcely likely, that the verb may have reference here to the anvârambha<i>n</i>îyâ ish<i>t</i>i,—or preliminary ceremony of the first performance of the New and Full-moon Sacrifice,—with which the present use of these cereals would, in that case, be identified, as that of the vrata-milk was with the Agnihotra (cf. [paragraph 7](Book_2_3_2#v3_2_2_7) above). The Kâ<i>n</i>va text has the verb â-rabh instead, yathâ havishârabdhena bhisha<i>g</i>yed ity evam etat.
+[^112]: 40:1 Anvârabdha has here the usual sacrificial meaning of ‘taken hold of (from behind),’ with perhaps something of that of ‘taken (as medicine = einnehmen).’ Thus at the invocation of the I<i>d</i>â, the sacrificer has to touch (anv-ârabh) the i<i>d</i>â from behind, thereby keeping up his connection, and identifying himself, with the sacrifice. Cf. part i, p. 228, note 1; and [III, 2, 4, 15](../Book_2_3_2#v3_2_4_15). Hence the author, making use of the term suggested by those he criticises, argues that as both kinds of material have already been used and therefore touched (anvârabdha) by him at the New and Full-moon Sacrifice (Sâya<i>n</i>a), they have therefore been taken possession of by him. It is possible, though scarcely likely, that the verb may have reference here to the anvârambha<i>n</i>îyâ ish<i>t</i>i,—or preliminary ceremony of the first performance of the New and Full-moon Sacrifice,—with which the present use of these cereals would, in that case, be identified, as that of the vrata-milk was with the Agnihotra (cf. [paragraph 7](../Book_2_3_2#v3_2_2_7) above). The Kâ<i>n</i>va text has the verb â-rabh instead, yathâ havishârabdhena bhisha<i>g</i>yed ity evam etat.
 
 [^113]: 40:2 That is to say, though the restoration might be due to the medicinal properties of some of those ingredients, it could be ascribed to the milk.
 
@@ -393,7 +393,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^120]: 43:1 No other fresh milk is to be added to that obtained by one milking of the vratadughâ (fast-milk) cow (Kâty. VII, 4, 29); but the preceding formula is to be muttered in order to obviate any evil consequences arising from a possible secret breach of this rule, on the part of him who hands the milk to the sacrificer. Dr. Lindner takes upotsi<i>k</i> in the sense of ‘to spill,’ but I find no authority for this rendering, which neither the prep. upa, nor abhi (in the equivalent abhyutsi<i>k</i>) would seem to admit of.
 
-[^121]: 43:2 See [p. 10](Book_2_3_1#p10), note [4](Book_2_3_1#fn40).
+[^121]: 43:2 See [p. 10](../Book_2_3_1#p10), note [4](../Book_2_3_1#fn40).
 
 [^122]: 43:3 ‘Ubhaya<i>m</i> vâ ata ety âpa<i>s</i> <i>k</i>a reta<i>s</i> <i>k</i>a; sa etad apa eva mu<i>ñ</i><i>k</i>ati na pra<i>g</i>âm.’
 
@@ -401,9 +401,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^124]: 46:1 Literally, ‘Falteringly (i.e. hesitatingly, cautiously) he speaks speech, not human effusive (speech).’
 
-[^125]: 47:1 Dhîkshate, apparently the desiderative of dih (Weber, in St. Petersb. Dict. s. v.) Cf. [III, 1, 3, 7](Book_2_3_1#v3_1_3_7) seq. The construction (especially the first hi) is rather peculiar. This paragraph apparently is to supply further proof why he should be cautious in his speech, and the words ‘sa vai dhîkshate’ have to be taken parenthetically: ‘He speaks his speech cautiously . . . .; for (anointing himself as he does) he anoints himself for speech, &c.’ The Kâ<i>n</i>va text offers less difficulty: Atha yad dhîkshito nâma vâ<i>k</i>e vâ esha etad dhîkshate, ya<i>g</i><i>ñ</i>âya hi dhîkshate, ya<i>g</i><i>ñ</i>o hi vâk, tasmâd dhîkshito nâma, dhîkshito ha vai nâmaitad yad dîkshita ity âhu<i>h</i>. Sâya<i>n</i>a's comment (MS.) is not very satisfactory: Vâ<i>k</i>a<i>m</i> ya<i>g</i><i>ñ</i>asâdhanatvena pra<i>s</i>a<i>m</i>sati; sa vai dhîkshita iti prasaṅgâd dhîkshita<i>s</i>abda<i>m</i> nirvakti dhîkshito ha vâ iti yasmâd dîkshita iti nâma tâd<i>ri</i><i>s</i>î dîkshâ vâk sâdhyeti vâk <i>s</i>ruti<i>h</i>.
+[^125]: 47:1 Dhîkshate, apparently the desiderative of dih (Weber, in St. Petersb. Dict. s. v.) Cf. [III, 1, 3, 7](../Book_2_3_1#v3_1_3_7) seq. The construction (especially the first hi) is rather peculiar. This paragraph apparently is to supply further proof why he should be cautious in his speech, and the words ‘sa vai dhîkshate’ have to be taken parenthetically: ‘He speaks his speech cautiously . . . .; for (anointing himself as he does) he anoints himself for speech, &c.’ The Kâ<i>n</i>va text offers less difficulty: Atha yad dhîkshito nâma vâ<i>k</i>e vâ esha etad dhîkshate, ya<i>g</i><i>ñ</i>âya hi dhîkshate, ya<i>g</i><i>ñ</i>o hi vâk, tasmâd dhîkshito nâma, dhîkshito ha vai nâmaitad yad dîkshita ity âhu<i>h</i>. Sâya<i>n</i>a's comment (MS.) is not very satisfactory: Vâ<i>k</i>a<i>m</i> ya<i>g</i><i>ñ</i>asâdhanatvena pra<i>s</i>a<i>m</i>sati; sa vai dhîkshita iti prasaṅgâd dhîkshita<i>s</i>abda<i>m</i> nirvakti dhîkshito ha vâ iti yasmâd dîkshita iti nâma tâd<i>ri</i><i>s</i>î dîkshâ vâk sâdhyeti vâk <i>s</i>ruti<i>h</i>.
 
-[^126]: 48:1 At [IV, 5, 1, 2](Book_2_4_5#v4_5_1_2), the name prâya<i>n</i>îya is derived from pra-i, to go forth, because by means of this offering they, as it were, go forth to buy the Soma. Similarly, udayanîya is explained as the offering he performs after coming out (ud-i) from the bath. In Ait. Br. I, 7, on the other hand, the name prâya<i>n</i>îya is explained as that by means of which sacrificers go forward (pra-i) to the heavenly world. In the Soma sacrifice, the Prâya<i>n</i>îyâ and Udayanîyâ may be said to correspond to the Fore-offerings and After-offerings (prayâ<i>g</i>a and anuyâ<i>g</i>a) of the New and Full-moon Sacrifice; though, of course, the Fore- and After-offerings form part of the prâya<i>n</i>îyâ and udayanîyâ, as ish<i>t</i>is. But they are peculiar in this respect, that offering is made at both to the very same deities, and that the invitatory prayers (anuvâkyâ) of the prâya<i>n</i>îyesh<i>t</i>i form the offering-prayers (yâ<i>g</i>yâ) of the udayanîyesh<i>t</i>i, and vice versâ. For these formulas, see Â<i>s</i>val. <i>S</i>rautas. IV, 3; Haug, Ait. Br. Transl. p. 16. The offering formula of the oblation to Aditi at the Prâya<i>n</i>îyâ (and invitatory formula at the Udayanîyâ), strange to say, is not a <i>Ri</i>k-verse, but one from the Atharvan (VII, 6, 2).
+[^126]: 48:1 At [IV, 5, 1, 2](../Book_2_4_5#v4_5_1_2), the name prâya<i>n</i>îya is derived from pra-i, to go forth, because by means of this offering they, as it were, go forth to buy the Soma. Similarly, udayanîya is explained as the offering he performs after coming out (ud-i) from the bath. In Ait. Br. I, 7, on the other hand, the name prâya<i>n</i>îya is explained as that by means of which sacrificers go forward (pra-i) to the heavenly world. In the Soma sacrifice, the Prâya<i>n</i>îyâ and Udayanîyâ may be said to correspond to the Fore-offerings and After-offerings (prayâ<i>g</i>a and anuyâ<i>g</i>a) of the New and Full-moon Sacrifice; though, of course, the Fore- and After-offerings form part of the prâya<i>n</i>îyâ and udayanîyâ, as ish<i>t</i>is. But they are peculiar in this respect, that offering is made at both to the very same deities, and that the invitatory prayers (anuvâkyâ) of the prâya<i>n</i>îyesh<i>t</i>i form the offering-prayers (yâ<i>g</i>yâ) of the udayanîyesh<i>t</i>i, and vice versâ. For these formulas, see Â<i>s</i>val. <i>S</i>rautas. IV, 3; Haug, Ait. Br. Transl. p. 16. The offering formula of the oblation to Aditi at the Prâya<i>n</i>îyâ (and invitatory formula at the Udayanîyâ), strange to say, is not a <i>Ri</i>k-verse, but one from the Atharvan (VII, 6, 2).
 
 [^127]: 49:1 I.e. ‘welfare on the road, or a happy journey,’ a genius of well-being and prosperity.
 
@@ -411,17 +411,17 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^129]: 50:2 That is, from the Gârhapatya to the Âhavanîya fire-place.
 
-[^130]: 51:1 See [III, 4, 1](Book_2_3_4#v3_4_1).
+[^130]: 51:1 See [III, 4, 1](../Book_2_3_4#v3_4_1).
 
-[^131]: 51:2 See [p. 48](#p48), note [^125]. For the Udayanîya, see [IV, 5, 1](Book_2_4_5#v4_5_1).
+[^131]: 51:2 See [p. 48](#p48), note [^125]. For the Udayanîya, see [IV, 5, 1](../Book_2_4_5#v4_5_1).
 
-[^132]: 51:3 Or, perhaps, ‘let him, if he chooses (kâmam) . . .;’ see Kâty. VII, 5, 16-19; cf. also note on [III, 2, 4, 14](Book_2_3_2#v3_2_4_14).
+[^132]: 51:3 Or, perhaps, ‘let him, if he chooses (kâmam) . . .;’ see Kâty. VII, 5, 16-19; cf. also note on [III, 2, 4, 14](../Book_2_3_2#v3_2_4_14).
 
 [^133]: 51:4 See I, 8, 3, 19; 9, 2, 29.
 
 [^134]: 52:1 For the <i>S</i>amyuvâka, see I, 9, 1, 24; for the Patnîsa<i>m</i>yâ<i>g</i>as, I, 9, 2: 1 seq.
 
-[^135]: 52:2 See [III, 6, 2, 2](Book_2_3_6#v3_6_2_2) seq.
+[^135]: 52:2 See [III, 6, 2, 2](../Book_2_3_6#v3_6_2_2) seq.
 
 [^136]: 53:1 ‘Yours (shall be) Soma, and ours Vâ<i>k</i>, wherewith you bought (Soma) from us.’ Kâ<i>n</i>va text.
 
@@ -431,7 +431,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^139]: 53:4 Literally, ‘that he may sacrifice with the arrived (guest) for his own arrival (? in the world of the gods).’
 
-[^140]: 54:1 Lit. ‘with Soma that has not come’ (to him as a guest), so that the guest-offering (âtithya, [III, 4, 1](Book_2_3_4#v3_4_1)) could not take place.
+[^140]: 54:1 Lit. ‘with Soma that has not come’ (to him as a guest), so that the guest-offering (âtithya, [III, 4, 1](../Book_2_3_4#v3_4_1)) could not take place.
 
 [^141]: 54:2 Because of this piece of gold, the offering here described is called Hira<i>n</i>yavatî-âhuti, or ‘offering with gold.’
 
@@ -443,7 +443,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^145]: 55:2 To whom we send you, K.
 
-[^146]: 55:3 The concluding ceremonies of the Prâya<i>n</i>îya (see [III, 2, 3, 23](Book_2_3_2#v3_2_3_23)) are now performed; the offering of the Barhis being optional, as the barhis may be used again for the Udayanîya (ib. 22). Katy VII, 6, 11 comm.
+[^146]: 55:3 The concluding ceremonies of the Prâya<i>n</i>îya (see [III, 2, 3, 23](../Book_2_3_2#v3_2_3_23)) are now performed; the offering of the Barhis being optional, as the barhis may be used again for the Udayanîya (ib. 22). Katy VII, 6, 11 comm.
 
 [^147]: 56:1 According to the Kâ<i>n</i>vas, the Adhvaryu's formula is,—Ihi, Ya<i>g</i>amâna, ‘Go, Sacrificer!’ In Kâty. VII, 6, 1 2 only the above formula is mentioned.
 
@@ -457,7 +457,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^152]: 56:6 The omission of ‘asi’ in the Brâhma<i>n</i>a is curious; the Kâ<i>n</i>va text has correctly ‘dakshi<i>n</i>âsi.’
 
-[^153]: 56:7 Dhiyâ-dhiyâ, or rather ‘by means of this their respective genius (in regard to speech).’ Dhî seems to mean ‘thought expressed by speech,’ hence often ‘prayer, hymn;’ cf. [III, 5, 3, 11](Book_2_3_5#v3_5_3_11).
+[^153]: 56:7 Dhiyâ-dhiyâ, or rather ‘by means of this their respective genius (in regard to speech).’ Dhî seems to mean ‘thought expressed by speech,’ hence often ‘prayer, hymn;’ cf. [III, 5, 3, 11](../Book_2_3_5#v3_5_3_11).
 
 [^154]: 56:8 Prakâmodya, rather either ‘fondness for talk’ or ‘effusive speech.’ It seems to refer to story-tellers (? amusing speech).
 

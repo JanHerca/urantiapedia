@@ -108,7 +108,7 @@ Thus I say.
 
 ## Footnotes
 
-[^791]: 268:3 Concerning Nami, see above, [p. 35](Uttaradhyayana_8#p35), note [2](Uttaradhyayana_9#fn130). Râmagupta may be another name of Râma. Instead of Târâga<i>n</i>a <i>S</i>îlâṅka writes Nârâya<i>n</i>a.
+[^791]: 268:3 Concerning Nami, see above, [p. 35](../Uttaradhyayana_8#p35), note [2](../Uttaradhyayana_9#fn130). Râmagupta may be another name of Râma. Instead of Târâga<i>n</i>a <i>S</i>îlâṅka writes Nârâya<i>n</i>a.
 
 [^792]: 269:1 Âsila is not known from other sources; perhaps Asita is meant, and Âsila Davila stands for Asita Dêvala. Concerning Dvîpâyana, the Pârâ<i>s</i>ara, compare Journal of the German Oriental Society, vol. 42, p. 495. But in the Aupapâtika Sûtra (ed. Leumann, § 76) Pârâ<i>s</i>ara and Dvîpâyana are two distinct persons.
 

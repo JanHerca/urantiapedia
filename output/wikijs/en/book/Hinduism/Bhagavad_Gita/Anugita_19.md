@@ -52,7 +52,7 @@ He is without symbols [^1474], and also without qualities; nothing exists that i
 
 The Deity said:
 
-Then the mind of the Brâhma<i>n</i>a's wife, after the <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destruction of the Kshetra<i>g</i>ña [1](Anugita_20#fn1482), turned to that which is beyond (all) Kshetra<i>g</i>ñas by means of a knowledge of the Kshetra [2](Anugita_20#fn1483).
+Then the mind of the Brâhma<i>n</i>a's wife, after the <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destruction of the Kshetra<i>g</i>ña [1](../Anugita_20#fn1482), turned to that which is beyond (all) Kshetra<i>g</i>ñas by means of a knowledge of the Kshetra [2](../Anugita_20#fn1483).
 
 Ar<i>g</i>una said:
 
@@ -60,7 +60,7 @@ Where, indeed, O K<i>ri</i>sh<i>n</i>a! is that Brâhma<i>n</i>a's wife, and whe
 
 The Deity said:
 
-Know my mind to be the Brâhma<i>n</i>a, and know my understanding to be the Brâhmana's wife. And he, O Dhanañ<i>g</i>aya! who has been spoken of as the Kshetra<i>g</i>ña, is I myself [3](Anugita_20#fn1484).
+Know my mind to be the Brâhma<i>n</i>a, and know my understanding to be the Brâhmana's wife. And he, O Dhanañ<i>g</i>aya! who has been spoken of as the Kshetra<i>g</i>ña, is I myself [3](../Anugita_20#fn1484).
 
 
 
@@ -96,7 +96,7 @@ Know my mind to be the Brâhma<i>n</i>a, and know my understanding to be the Br�
 
 [^1478]: 308:3 I. e. the Brahman, says Ar<i>g</i>una Mi<i>s</i>ra, of which the Kshetra<i>g</i>ña is only a symbol. For a definition of Kshetra<i>g</i>ña, see <i>S</i>ânti Parvan (Moksha), chap. 187, st. 23.
 
-[^1479]: 309:1 See Sanatsu<i>g</i>âtîya, [p. 160](Sanatsugatiya_2#p160).
+[^1479]: 309:1 See Sanatsu<i>g</i>âtîya, [p. 160](../Sanatsugatiya_2#p160).
 
 [^1480]: 309:2 Viz. that which is required as a preliminary to the acquisition of knowledge, and hence is necessary for final emancipation.
 

@@ -104,4 +104,4 @@ On the whole, the evidence given above is as full as could be desired in such a 
 
 ## Footnotes
 
-[^323]: 285:1 All, in fact, unless we except the six pieces of Part II, of which we have only the titles. It is contended by <i>K</i>û Hsî and others that the text of these had been lost before the time of Confucius. It may have been lost, however, after the sage's death; see note on [p. 283](Shih_King_Intro_2#p283).
+[^323]: 285:1 All, in fact, unless we except the six pieces of Part II, of which we have only the titles. It is contended by <i>K</i>û Hsî and others that the text of these had been lost before the time of Confucius. It may have been lost, however, after the sage's death; see note on [p. 283](../Shih_King_Intro_2#p283).

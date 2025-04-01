@@ -326,9 +326,9 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of understanding, should drive him from all his positions [^504].
 
-34\. And Yâ<i>g</i>_ñ_avalkya said: 'That (person), having enjoyed himself in that state of sleeping (dream), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> having moved about and seen both good and bad, hastens back again as he came, to the place from which he started, to the state of waking [1](Brihadaranyaka_4#fn505).
+34\. And Yâ<i>g</i>_ñ_avalkya said: 'That (person), having enjoyed himself in that state of sleeping (dream), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> having moved about and seen both good and bad, hastens back again as he came, to the place from which he started, to the state of waking [1](../Brihadaranyaka_4#fn505).
 
-35\. 'Now as a heavy-laden carriage moves along groaning, thus does this corporeal Self, mounted by the intelligent Self, move along groaning, when a man is thus going to expire [2](Brihadaranyaka_4#fn506).
+35\. 'Now as a heavy-laden carriage moves along groaning, thus does this corporeal Self, mounted by the intelligent Self, move along groaning, when a man is thus going to expire [2](../Brihadaranyaka_4#fn506).
 
 36\. 'And when (the body) grows weak through old age, or becomes weak through illness, at that time that person, after separating himself from his members, as an Amra (mango), or Udumbara (fig), or Pippala-fruit is separated from the stalk, hastens back again as be came, to the place from which he started, to (new) life.
 
@@ -466,7 +466,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 But he replied: 'O Maitreyî, I say nothing that is bewildering. Verily, beloved, that Self is imperishable, and of an indestructible nature.
 
-15\. ‘For when there is as it were duality, then one sees the other, one smells the other, one tastes the other, one salutes the other, one hears the other, one perceives the other, one touches the other, one knows the other; but when the Self only is all this, how should he see another, how should he smell another, how should he taste another, how should he salute another, how should he hear another, how should he touch another, how should he know another? How should he know Him by whom he knows all this? That Self is to be described by No, no [1](Brihadaranyaka_4#fn544)! He is incomprehensible, for he cannot be comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail. How, O beloved, should he know the Knower? Thus, O Maitreyî, thou hast been instructed. Thus far goes immortality.’ Having said so, Yâ<i>g</i>_ñ_avalkya went away (into the forest).
+15\. ‘For when there is as it were duality, then one sees the other, one smells the other, one tastes the other, one salutes the other, one hears the other, one perceives the other, one touches the other, one knows the other; but when the Self only is all this, how should he see another, how should he smell another, how should he taste another, how should he salute another, how should he hear another, how should he touch another, how should he know another? How should he know Him by whom he knows all this? That Self is to be described by No, no [1](../Brihadaranyaka_4#fn544)! He is incomprehensible, for he cannot be comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail. How, O beloved, should he know the Knower? Thus, O Maitreyî, thou hast been instructed. Thus far goes immortality.’ Having said so, Yâ<i>g</i>_ñ_avalkya went away (into the forest).
 
 
 ## SIXTH BRÂHMA<i>N</i>A.

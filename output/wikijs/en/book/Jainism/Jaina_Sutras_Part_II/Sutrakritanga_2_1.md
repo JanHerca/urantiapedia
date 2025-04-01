@@ -262,7 +262,7 @@ Thus I say.
 
 [^992]: 339:1 This is one of the var<i>n</i>aka or typical descriptions which are so frequent in the canonical books. The full text is given in the Aupapâtika Sûtra, ed. Leumann, § II, p. 26 f. Of the many meanings the word var<i>n</i>aka may have, ‘masterpiece’ seems the one in which it must be taken here. Many var<i>n</i>akas are, partly at least, composed in a curious metre which I have named Hypermetron, see Indische Studien, vol. xvii, pp. 389 ff.
 
-[^994]: 339:2 Concerning the Ugras and Bhôgas compare note [2](Uttaradhyayana_15#fn190) on [p. 71](Uttaradhyayana_15#p71).
+[^994]: 339:2 Concerning the Ugras and Bhôgas compare note [2](../Uttaradhyayana_15#fn190) on [p. 71](../Uttaradhyayana_15#p71).
 
 [^995]: 339:3 Apparently the king is meant.
 
@@ -324,7 +324,7 @@ Thus I say.
 
 [^1024]: 353:3 Apparently the householder is intended.
 
-[^1025]: 353:4 Udgama, utpâdanâ, êsha<i>n</i>â. See above, [p. 131](Uttaradhyayana_24#p131), note [7](Uttaradhyayana_24#fn337).
+[^1025]: 353:4 Udgama, utpâdanâ, êsha<i>n</i>â. See above, [p. 131](../Uttaradhyayana_24#p131), note [7](../Uttaradhyayana_24#fn337).
 
 [^1026]: 353:5 <i>S</i>astrâtîtam.
 
@@ -334,7 +334,7 @@ Thus I say.
 
 [^1029]: 353:8 Vaishikam.
 
-[^1030]: 354:1 Samudânikam, i.e. as bees collect honey from many flowers. Cf. [p. 80](Uttaradhyayana_17#p80), note [1](Uttaradhyayana_17#fn207).
+[^1030]: 354:1 Samudânikam, i.e. as bees collect honey from many flowers. Cf. [p. 80](../Uttaradhyayana_17#p80), note [1](../Uttaradhyayana_17#fn207).
 
 [^1031]: 354:2 Compare Â<i>k</i>ârâṅga Sûtra I, 7, 4, I, part i, p. 68, note 3.
 

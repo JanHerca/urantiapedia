@@ -530,6 +530,6 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1155]: 247:1 From Yasna X, 20 (62), where, instead of the words, ‘in the ox is our strength (amem), in the ox is our need,’ the text has, ‘in the ox is his need, in the ox is our need,’ meaning, ‘when we give him his need (water and grass), he gives us our need (milk and calves),’ (Pahl. tr.).
 
-[^1156]: 248:1 See [p. 120](Yasts_10#p120), note [2](Yasts_10#fn558).
+[^1156]: 248:1 See [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558).
 
 [^1157]: 248:2 Who shall offer a sacrifice to Verethraghna.

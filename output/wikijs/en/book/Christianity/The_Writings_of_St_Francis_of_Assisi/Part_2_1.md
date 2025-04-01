@@ -116,7 +116,7 @@ In the Name of the Father and of the Son and of the Holy Ghost. Amen. [^435] All
 
 ## Footnotes
 
-[^374]: 96:1 Compare for example the passage on [p. 101](#p101), beginning “Let us therefore love God,” etc., with Chapter XXII of the First Rule ([p. 53](Part_1_4#p53)); and the prayer of Christ given on [p. 105](#p105), with the conclusion of the same chapter ([p. 59](Part_1_4#p59)).
+[^374]: 96:1 Compare for example the passage on [p. 101](#p101), beginning “Let us therefore love God,” etc., with Chapter XXII of the First Rule ([p. 53](../Part_1_4#p53)); and the prayer of Christ given on [p. 105](#p105), with the conclusion of the same chapter ([p. 59](../Part_1_4#p59)).
 
 [^375]: 96:2 See Le Monnier, _l.c._, p. 202, and Knox Little, _l.c._, p. 164. Wadding, _Annales_, ad. an. 1213, places the writing of this letter two or three years earlier, which seems less probable.
 

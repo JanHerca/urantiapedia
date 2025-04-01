@@ -126,7 +126,7 @@ Thus I say.
 
 [^504]: 181:7 From the commentaries I learn two more of these six kâra<i>n</i>as: vêdana and vaiyâv<i>ri</i>tya. I cannot say which are the remaining three.
 
-[^505]: 181:8 They are enumerated in note  [^497] on XXX, 25, [p. 178](Uttaradhyayana_30#p178).
+[^505]: 181:8 They are enumerated in note  [^497] on XXX, 25, [p. 178](../Uttaradhyayana_30#p178).
 
 [^507]: 182:1 Viz. caste, family, beauty, &c.; see Sûtrak<i>ri</i>t. II, 2, 17.
 
@@ -144,7 +144,7 @@ Thus I say.
 
 [^514]: 183:1 <i>S</i>abala, because they ‘variegate’ the conduct. The actions meant are sitting on an unwiped seat, &c.
 
-[^515]: 183:2 Parîsaha, see above, [p. 9](Uttaradhyayana_2#p9) ff.
+[^515]: 183:2 Parîsaha, see above, [p. 9](../Uttaradhyayana_2#p9) ff.
 
 [^516]: 183:3 Rûpa. The twenty-four gods are: ten Bhavanapatis, eight Vyantaras, five <i>G</i>yôtishkas, one Vaimânika; or the 24 prophets.
 

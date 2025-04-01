@@ -72,13 +72,13 @@ O modest one! I do not move about in this world in the way which, according to y
 
 [^1465]: 306:2 I. e. Veda, says Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1466]: 306:3 I. e. says Ar<i>g</i>una Mi<i>s</i>ra, which leads to the seat from which there is no return. Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^1466]: 306:3 I. e. says Ar<i>g</i>una Mi<i>s</i>ra, which leads to the seat from which there is no return. Cf. Gîtâ, [p. 112](../Bhagavadgita_15#p112).
 
 [^1467]: 306:4 The wheel is the yoga, says Ar<i>g</i>una Mi<i>s</i>ra. The expression is noteworthy, as being that used of Buddha's teaching. See on that Davids' Buddhism, p. 45.
 
-[^1468]: 306:5 The man who has achieved final emancipation has got that, in which the benefits to be derived from the course of life of a Brâhma<i>n</i>a, &c., are included (see [p. 191](Sanatsugatiya_6#p191) supra). Hence, says he, the p. 307 doubt, on which your question is based as to what world you will go to by being joined to me, is wrong. See [p. 256](Anugita_5#p256) supra.
+[^1468]: 306:5 The man who has achieved final emancipation has got that, in which the benefits to be derived from the course of life of a Brâhma<i>n</i>a, &c., are included (see [p. 191](../Sanatsugatiya_6#p191) supra). Hence, says he, the p. 307 doubt, on which your question is based as to what world you will go to by being joined to me, is wrong. See [p. 256](../Anugita_5#p256) supra.
 
-[^1469]: 307:1 He is speaking here on the footing of the essential identity of everything. Cf. Gîtâ, [p. 62](Bhagavadgita_4#p62).
+[^1469]: 307:1 He is speaking here on the footing of the essential identity of everything. Cf. Gîtâ, [p. 62](../Bhagavadgita_4#p62).
 
 [^1470]: 307:2 The expression here is clumsy; the meaning is that he prefers knowledge to sovereignty, if the alternative is offered him.
 

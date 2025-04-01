@@ -140,4 +140,4 @@ Thus I say.
 
 [^951]: 319:1 Âsrava and sa<i>m</i>vara.
 
-[^952]: 319:2 It is evident that the <i>G</i>ainas considered themselves Kriyâvâdins. I had overlooked this passage when penning the note on [p. 83](Uttaradhyayana_18#p83).
+[^952]: 319:2 It is evident that the <i>G</i>ainas considered themselves Kriyâvâdins. I had overlooked this passage when penning the note on [p. 83](../Uttaradhyayana_18#p83).

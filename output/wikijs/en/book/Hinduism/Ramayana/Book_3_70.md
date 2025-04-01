@@ -788,7 +788,7 @@ Red grew his eyes, his fierce lips swelled.
 His bark coat round his form he drew
 And coiled his hermit braids anew.
 Like Rudra when he yearned to slay
-The demon Tripur  [1](Book_3_70#fn510) in the fray.
+The demon Tripur  [1](../Book_3_70#fn510) in the fray.
 So looked the hero brave and wise,
 The fury flashing from his eyes.
 Then Ráma, conqueror of the foe,

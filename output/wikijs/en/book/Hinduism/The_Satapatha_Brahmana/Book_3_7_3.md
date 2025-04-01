@@ -191,27 +191,27 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^647]: 342:1 That is, in performing the various rites of the Soma-sacrifice, p. 343 and at the same time doing all that is necessary for the building of the fire-altar, on which the Soma-offering itself is ultimately to be performed.
 
-[^648]: 343:1 Viz. in consecrating the site of the Âhavanîya, as well as that of the Gârhapatya altar (see [VII, 1, 1, 1](Book_3_7_1#v7_1_1_1)).
+[^648]: 343:1 Viz. in consecrating the site of the Âhavanîya, as well as that of the Gârhapatya altar (see [VII, 1, 1, 1](../Book_3_7_1#v7_1_1_1)).
 
-[^649]: 344:1 [VII, 1, 1, 14](Book_3_7_1#v7_1_1_14).
+[^649]: 344:1 [VII, 1, 1, 14](../Book_3_7_1#v7_1_1_14).
 
-[^650]: 344:2 See paragraphs [45](Book_3_7_3#v7_3_1_45), [46](Book_3_7_3#v7_3_1_46).
+[^650]: 344:2 See paragraphs [45](../Book_3_7_3#v7_3_1_45), [46](../Book_3_7_3#v7_3_1_46).
 
 [^651]: 345:1 He places a clod of earth on each end of the two ‘spines,’ that is to say, in the middle of each of the four sides of the square constituting the ‘body’ of the altar-site.
 
 [^652]: 345:2 Or, when they put him together (by building the fire-altar).
 
-[^653]: 346:1 Viz. when these worlds were plunged into the water, see [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^653]: 346:1 Viz. when these worlds were plunged into the water, see [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
 [^654]: 347:1 Viz. from some place towards north-west from the middle of the western side of the body of the altar.
 
 [^655]: 347:2 Mahîdhara takes ‘âdam’ here as the regular imperfect of ‘ad,’ I ate.
 
-[^656]: 348:1 See [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^656]: 348:1 See [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
-[^657]: 348:2 See [p. 153](Book_3_6_1#p153), note [1](Book_3_6_1#fn306).
+[^657]: 348:2 See [p. 153](../Book_3_6_1#p153), note [1](../Book_3_6_1#fn306).
 
-[^658]: 349:1 See [p. 325](Book_3_7_2#p325), note [6](Book_3_7_2#fn619).
+[^658]: 349:1 See [p. 325](../Book_3_7_2#p325), note [6](../Book_3_7_2#fn619).
 
 [^659]: 349:2 That is to say, he first throws down sand on the Uttara-vedi, and then covers with it the whole of the body of the altar, so as to make it even with the Uttara-vedi.
 
@@ -221,11 +221,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^662]: 352:2 Sikatâ<i>h</i>, sand, is plural, consisting as it does of a multiplicity of sand-grains.
 
-[^663]: 353:1 This is a somewhat loose calculation. As a matter of fact, the seven principal metres, viz. Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contain together 252 syllables. The hymn recited in scattering the sand, on the other hand, consists of one Vish<i>t</i>ârapaṅkti (40), three Satob<i>ri</i>hatîs (3 × 40), the Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40), and one Trish<i>t</i>ubh (44), or together of 244 syllables. On similar cases of looseness in computing the syllables of metres, see [p. 318](Book_3_7_1#p318), note [1](Book_3_7_1#fn606).
+[^663]: 353:1 This is a somewhat loose calculation. As a matter of fact, the seven principal metres, viz. Gâyatrî (24), Ush<i>n</i>ih (28), Anush<i>t</i>ubh (32), B<i>ri</i>hatî (36), Paṅkti (40), Trish<i>t</i>ubh (44), <i>G</i>agatî (48), contain together 252 syllables. The hymn recited in scattering the sand, on the other hand, consists of one Vish<i>t</i>ârapaṅkti (40), three Satob<i>ri</i>hatîs (3 × 40), the Uparish<i>t</i>â<i>g</i><i>g</i>yotis (? 40), and one Trish<i>t</i>ubh (44), or together of 244 syllables. On similar cases of looseness in computing the syllables of metres, see [p. 318](../Book_3_7_1#p318), note [1](../Book_3_7_1#fn606).
 
-[^664]: 353:2 Viz. inasmuch as it emanates from the body (paragraph [28](Book_3_7_3#v7_3_1_28)), and the body consists of twenty-five parts—the trunk, the four limbs, and twenty fingers and toes. Cf. [VI, 2, 1, 23](Book_3_6_2#v6_2_1_23), where, however, the trunk is not taken into account.
+[^664]: 353:2 Viz. inasmuch as it emanates from the body (paragraph [28](../Book_3_7_3#v7_3_1_28)), and the body consists of twenty-five parts—the trunk, the four limbs, and twenty fingers and toes. Cf. [VI, 2, 1, 23](../Book_3_6_2#v6_2_1_23), where, however, the trunk is not taken into account.
 
-[^665]: 354:1 See [p. 301](Book_3_7_1#p301), note [3](Book_3_7_1#fn563).
+[^665]: 354:1 See [p. 301](../Book_3_7_1#p301), note [3](../Book_3_7_1#fn563).
 
 [^666]: 355:1 Sâya<i>n</i>a remarks,—The high glory, in the heaven, of Soma growing in the form of a creeper is said to be the moon: in yonder heavenly world that moon indeed, when being drunk (by the gods) in the form (?) of ambrosia, causes him, Soma, to be celebrated.
 
@@ -241,9 +241,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^672]: 357:1 The Adhvaryu's attendants take up the ox-skin with the bricks for the first layer lying on it.
 
-[^673]: 358:1 See [VII, 1, 1, 25](Book_3_7_1#v7_1_1_25).
+[^673]: 358:1 See [VII, 1, 1, 25](../Book_3_7_1#v7_1_1_25).
 
-[^674]: 358:2 See [p. 249](Book_3_6_6#p249), note [3](Book_3_6_6#fn486).
+[^674]: 358:2 See [p. 249](../Book_3_6_6#p249), note [3](../Book_3_6_6#fn486).
 
 [^675]: 359:1 According to Sâya<i>n</i>a, it is by his rays (identified with the vital airs of living beings) that the sun kisses (or puts himself in contact with) the creatures (and animates them); so that every one feels that he is ‘labdhâtmaka,’ or has obtained ‘a self,’ or life and being.
 

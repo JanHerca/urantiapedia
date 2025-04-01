@@ -703,13 +703,13 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 [^586]: 121:3 Va<i>n</i>ta, ‘assistance, that is, making <i>g</i>âdangôi’ (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi is making a collection for the poor (Études Iraniennes, II, 155).
 
-[^587]: 121:4 As [p. 30](Yasts_1#p30).
+[^587]: 121:4 As [p. 30](../Yasts_1#p30).
 
 [^588]: 121:5 Perethu-vaêdhayana: sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
 
 [^589]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem: this word, strangely enough, is generally translated ‘who has most strong arms’ (balish<i>th</i>abhu<i>g</i>am); <i>g</i>agâuru is translated in the same way.
 
-[^590]: 122:1 See [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^590]: 122:1 See [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^591]: 122:2 Cf. Yt. V, 53; X, 94.
 
@@ -763,7 +763,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 [^619]: 128:2 Vend. XVIII, 51 \[III\].
 
-[^620]: 128:3 See above, [p. 26](Yasts_1#p26), note [2](Yasts_1#fn120). §§ 30-34 = §§ 56-59.
+[^620]: 128:3 See above, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
 
 [^621]: 128:4 Doubtful (reading arena<i>t</i>\-<i>g</i>aêsha?).
 
@@ -823,7 +823,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 [^651]: 136:1 Cf. Yt. VIII, 38.
 
-[^652]: 136:2 See above, [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^652]: 136:2 See above, [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^653]: 136:3 Mithra himself (?).
 
@@ -839,7 +839,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 [^659]: 136:9 Doubtful.
 
-[^660]: 136:10 See above, [p. 95](Yasts_8#p95), note [1](Yasts_8#fn468).
+[^660]: 136:10 See above, [p. 95](../Yasts_8#p95), note [1](../Yasts_8#fn468).
 
 [^661]: 136:11 See Vend. Introd. IV, 23.
 
@@ -930,9 +930,9 @@ Sicut et Cacus Vulcani filius ille.’
 
 [^703]: 146:5 Who has not a ray of the celestial light: here, the man of little faith.
 
-[^704]: 147:1 See above, [p. 4](Sirozahs_1#p4), n. [5](Sirozahs_1#fn11).
+[^704]: 147:1 See above, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
 
-[^705]: 147:2 Âsna: Sansk. su<i>s</i>îla ([p. 34](Yasts_1#p34), n. [4](Yasts_1#fn181)).
+[^705]: 147:2 Âsna: Sansk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
 
 [^706]: 147:3 He who offers thee a good sacrifice; cf. § 108.
 
@@ -996,7 +996,7 @@ Sicut et Cacus Vulcani filius ille.’
 
 [^739]: 153:1 See Yt. XVI.
 
-[^741]: 153:2 See above, [p. 12](Sirozahs_1#p12), note [13](Sirozahs_1#fn94).
+[^741]: 153:2 See above, [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
 [^742]: 153:3 Cf. Yt. X, 70.
 
@@ -1004,7 +1004,7 @@ Sicut et Cacus Vulcani filius ille.’
 
 [^744]: 153:5 The Genius of Fire.
 
-[^745]: 153:6 See [p. 95](Yasts_8#p95), note [1](Yasts_8#fn468).
+[^745]: 153:6 See [p. 95](../Yasts_8#p95), note [1](../Yasts_8#fn468).
 
 [^746]: 153:7 A golden point.
 

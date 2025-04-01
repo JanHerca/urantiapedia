@@ -197,7 +197,7 @@ End of the Sixth Lecture, called the Cleaning.
 
 [^255]: 60:1 Or breakers of vows.
 
-[^256]: 60:2 Oya, see note [2](Akaranga_1_5#fn228), [p. 52](Akaranga_1_5#p52).
+[^256]: 60:2 Oya, see note [2](../Akaranga_1_5#fn228), [p. 52](../Akaranga_1_5#p52).
 
 [^257]: 60:3 Veyavî = vedavid.
 

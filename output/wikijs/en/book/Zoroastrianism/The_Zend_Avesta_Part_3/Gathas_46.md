@@ -198,7 +198,7 @@ Translation.
 
 [^633]: 139:3 Ashavanem is applied to Ahura, and cannot so well mean ‘righteous’ here. ‘Holy’ is the more proper term in this connection, while spe<i>n</i>tem is necessarily excluded from that meaning by its occurrence with ashavanem in immediate connection.
 
-[^634]: 139:4 Notice that the word tashâ occurs here with no mention of wounding in the connection (see note [6](Gathas_29#fn44) on page [6](Gathas_29#p6)).
+[^634]: 139:4 Notice that the word tashâ occurs here with no mention of wounding in the connection (see note [6](../Gathas_29#fn44) on page [6](../Gathas_29#p6)).
 
 [^635]: 139:5 I am here recalled to the Pahlavi by some who rarely name it. I had rendered, ‘these words are inciting me (in duty) through Thy Good Mind;’ so ish often in the Veda. The Pahlavi translator, like his successors, scandalised at the difficult forms, also anticipated his successors (as elsewhere often) in getting free from the difficulty. He did what is exactly equivalent to what is now practised by scholars (sometimes too often). He rendered the text as if changed from what he could not understand to what he could understand, adhering to the right roots however, which I now follow. He knew that ishe<i>n</i>ti mâ did not mean, ‘I am seeking,’ but he could not credit the words before him.
 

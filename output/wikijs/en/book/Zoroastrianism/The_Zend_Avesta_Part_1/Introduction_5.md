@@ -205,7 +205,7 @@ November, 1879.
 
 [^245]: lxxxiii:3 The word Vendîdâd is a corruption of Vîdaêvô-dâtem (dâtem), ‘the anti-demoniac law.’ It is sometimes applied to the whole of the law (Vendîdâd Sâdah).
 
-[^246]: lxxxiii:4 See above, [p. xxxii](Introduction_3#pxxxii).
+[^246]: lxxxiii:4 See above, [p. xxxii](../Introduction_3#pxxxii).
 
 [^247]: lxxxiv:1 As an introduction to a code of laws on physicians; see Farg. VII, 36-44.
 
@@ -233,7 +233,7 @@ November, 1879.
 
 [^259]: lxxxvi:4 Saddar 78.
 
-[^260]: lxxxvii:1 In practice they are still less particular: 'the Sag-dîd may be performed by a shepherd's dog, by a house dog, by a Vohunazga dog (see Farg. XIII, 19, n.), or by a young dog (a dog four months old), Comm. ad Farg. VII, 2. As birds of prey are as fiend-smiting as the dog (see above, [p. lxxiii](Introduction_4#plxxiii), n. [4](Introduction_4#fn_216)), they are Nasu-smiters like him, and one may appeal to their services, when there is no dog at hand (see Farg. VII, 3, n. 5).
+[^260]: lxxxvii:1 In practice they are still less particular: 'the Sag-dîd may be performed by a shepherd's dog, by a house dog, by a Vohunazga dog (see Farg. XIII, 19, n.), or by a young dog (a dog four months old), Comm. ad Farg. VII, 2. As birds of prey are as fiend-smiting as the dog (see above, [p. lxxiii](../Introduction_4#plxxiii), n. [4](../Introduction_4#fn_216)), they are Nasu-smiters like him, and one may appeal to their services, when there is no dog at hand (see Farg. VII, 3, n. 5).
 
 [^261]: lxxxvii:2 Rig-veda X, 14, 10 seq.
 
@@ -265,13 +265,13 @@ November, 1879.
 
 [^275]: xc:8 King Balash (Josué le Stylite, traduction Martin, § xx). It seems as if there were a confusion between Balash and Kavât; at any rate, it shows that bathing smacked of heresy. Jews were forbidden to perform the legal ablutions (Fürst, Culturgeschichte der Juden, 9).
 
-[^276]: xc:9 See above, [p. lxxii](Introduction_4#plxxii).
+[^276]: xc:9 See above, [p. lxxii](../Introduction_4#plxxii).
 
 [^277]: xc:10 Farg. I, 13.
 
-[^278]: xci:1 From the reign of Cyrus (cf. above, [p. li](Introduction_3#pli)).
+[^278]: xci:1 From the reign of Cyrus (cf. above, [p. li](../Introduction_3#pli)).
 
-[^279]: xci:2 Cf. above, [p. xlv](Introduction_3#pxlv).
+[^279]: xci:2 Cf. above, [p. xlv](../Introduction_3#pxlv).
 
 [^280]: xci:3 Still the worship of the earth seems not to have so deeply penetrated the general religion as the worship of fire, The laws about the disposal of the dead were interpreted by many, it would seem, as intended only to secure the purity of water and fire, and they thought that they might be at peace with religion if they had taken care to bury the corpse, so that no part of it might be taken by animals to fire or water (Farg. III, 41, n, 7).
 
@@ -283,7 +283,7 @@ November, 1879.
 
 [^284]: xcii:1 Farg. V, 35 seq.
 
-[^285]: xcii:2 See above, [p. lxxiii](Introduction_4#plxxiii).
+[^285]: xcii:2 See above, [p. lxxiii](../Introduction_4#plxxiii).
 
 [^286]: xcii:3 See above, [p. xc](#pxc).
 
@@ -307,7 +307,7 @@ November, 1879.
 
 [^296]: xciii:5 Farg. VII, 44.
 
-[^297]: xciii:6 Ibid. [p. 96](8#p96), n. [1](8#fn_688).
+[^297]: xciii:6 Ibid. [p. 96](../8#p96), n. [1](../8#fn_688).
 
 [^298]: xciv:1 Herod. I, 138.
 
@@ -337,7 +337,7 @@ November, 1879.
 
 [^311]: xcv:7 Farg VIII, 33-34.
 
-[^312]: xcv:8 See [p. 34](4#p34), n. [3](4#fn_476).
+[^312]: xcv:8 See [p. 34](../4#p34), n. [3](../4#fn_476).
 
 [^313]: xcv:9 An istîr (στατήρ) is as much as four dirhems (δραχμή). The dirhem is estimated by modern tradition a little more than a rupee.
 
@@ -397,7 +397,7 @@ November, 1879.
 
 [^341]: c:6 Farg. VIII, 27.
 
-[^342]: c:7 See [p. 111](8#p111), n. [1](8#fn_721); Farg. XVIII, 64.
+[^342]: c:7 See [p. 111](../8#p111), n. [1](../8#fn_721); Farg. XVIII, 64.
 
 [^343]: ci:1 Our quotations refer to the text given in Spiegel's edition, but corrected after the London manuscript.
 

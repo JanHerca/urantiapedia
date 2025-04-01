@@ -212,11 +212,11 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^54]: 15:2 ‘Indra slew V<i>ri</i>tra, his eye-ball fell away, it became collyrium.’ Taitt. S. VI, 1, 1, 5.
 
-[^55]: 15:3 Professor Delbrück, S. F. III, 27, takes it thus, ‘He brushes the eye with the end of a reed, for the reed is a thunderbolt capable of repelling mischief.’ But, if ‘virakshastâyai’ belonged to what precedes, it would probably have to be construed with ‘<i>s</i>areshikayâ ’nakti,’ the clause with ‘vai,’ giving the reason, being inserted parenthetically; while, in an idiomatic rendering, it would have to be placed at the end: He anoints the eyes with a reed-stalk in order to chase away the evil spirits, the reed being a thunderbolt. This abstract dative of purpose is very common; it being generally construed with what precedes, as, for instance, I, 1, 4, 1; 3, 2, 8; 5, 3, 8; 15; [III, 1, 2, 13](Book_2_3_1#v3_1_2_13); [19](Book_2_3_1#v3_1_2_19); ; and, with a parenthetic clause with ‘vai’ intervening, [III, 2, 1, 13](Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](Book_2_4_5#v4_5_7_7). Not less common is the analogous construction with a clause with ‘ned’ p. 16 (‘lest such an event should happen’) instead of the dative of the abstract, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](Book_2_4_5#v4_5_9_3).
+[^55]: 15:3 Professor Delbrück, S. F. III, 27, takes it thus, ‘He brushes the eye with the end of a reed, for the reed is a thunderbolt capable of repelling mischief.’ But, if ‘virakshastâyai’ belonged to what precedes, it would probably have to be construed with ‘<i>s</i>areshikayâ ’nakti,’ the clause with ‘vai,’ giving the reason, being inserted parenthetically; while, in an idiomatic rendering, it would have to be placed at the end: He anoints the eyes with a reed-stalk in order to chase away the evil spirits, the reed being a thunderbolt. This abstract dative of purpose is very common; it being generally construed with what precedes, as, for instance, I, 1, 4, 1; 3, 2, 8; 5, 3, 8; 15; [III, 1, 2, 13](../Book_2_3_1#v3_1_2_13); [19](../Book_2_3_1#v3_1_2_19); ; and, with a parenthetic clause with ‘vai’ intervening, [III, 2, 1, 13](../Book_2_3_2#v3_2_1_13); [IV, 5, 7, 7](../Book_2_4_5#v4_5_7_7). Not less common is the analogous construction with a clause with ‘ned’ p. 16 (‘lest such an event should happen’) instead of the dative of the abstract, cf. I, 2, 1, 8; 9; [IV, 5, 9, 3](../Book_2_4_5#v4_5_9_3).
 
-[^56]: 16:1 I now take this passage differently from my interpretation of I, 1, 2, 4 (‘and, in order that this man may move about the air, rootless and unfettered in both directions’). See also [IV, 1, 1, 20](Book_2_4_1#v4_1_1_20).
+[^56]: 16:1 I now take this passage differently from my interpretation of I, 1, 2, 4 (‘and, in order that this man may move about the air, rootless and unfettered in both directions’). See also [IV, 1, 1, 20](../Book_2_4_1#v4_1_1_20).
 
-[^57]: 16:2 ‘Tad uttaram evaitad uttarâvat karoti;’ ‘uttarấm évaitad úttaram karoti,’ Kâ<i>n</i>va recension. Cf. [p. 2](Book_2_3_1#p2), note [1](Book_2_3_1#fn24).
+[^57]: 16:2 ‘Tad uttaram evaitad uttarâvat karoti;’ ‘uttarấm évaitad úttaram karoti,’ Kâ<i>n</i>va recension. Cf. [p. 2](../Book_2_3_1#p2), note [1](../Book_2_3_1#fn24).
 
 [^58]: 17:1 See part i, p. 19, note 2.
 
@@ -226,11 +226,11 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^61]: 17:4 The Kâ<i>n</i>vas read, aya<i>m</i> vâva vâkpatir yo ’yam pavate, tad enam esha punâti, ‘the lord of speech doubtless is that blower (purifier, the wind): hence it is he that purifies him.’
 
-[^62]: 18:1 See [p. 8](Book_2_3_1#p8), note [3](Book_2_3_1#fn34).
+[^62]: 18:1 See [p. 8](../Book_2_3_1#p8), note [3](../Book_2_3_1#fn34).
 
 [^63]: 18:2 I take ya<i>g</i><i>ñ</i>iyâsa<i>h</i> as acc. pl. fem., as does Mahîdh. Perhaps it ought to be translated ‘for prayers proper at the sacrifice,’ whereby he makes sure that each priest uses his own proper prayers during the sacrifice.
 
-[^64]: 18:3 For the symbolic meaning of the closing of the hands, see [III, 2, 1, 6](Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
+[^64]: 18:3 For the symbolic meaning of the closing of the hands, see [III, 2, 1, 6](../Book_2_3_2#v3_2_1_6); Ait. Br. I, 3, 20.
 
 [^65]: 19:1 That is, ‘svâhâ’ in each formula. The Sa<i>m</i>hitâ has twice ‘svâhâ’ in the last formula (svâhâ vâtâd ârabhe svâhâ), to which this might refer, but neither recension of the Brâhma<i>n</i>a mentions the final ‘svâhâ.’
 
@@ -289,9 +289,9 @@ This is the rule of conduct for the consecrated in such a case.
 
 <span id="v3_1_4_2121"><sup><small>3:1:4:2121.</small></sup></span>  He offers this libation with an anush<i>t</i>ubh verse, because the anush<i>t</i>ubh is speech, and the sacrifice is speech; so that he thereby obtains the real sacrifice.
 
-<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span>  As to this they say, ‘Let him offer only this one: for whatever object the others are offered, that object he gains even by this one.’ And, indeed [^74], if <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> he offers only this one, he would offer a full-offering; and the full means everything: hence he gains everything by this (oblation). And by filling the dipping-spoon (sruva), he fills the offering-spoon (<i>g</i>uhû), and the latter he offers full. This, however, is a mere statement (of others’ views) [1](Book_2_3_2#fn75), but all (five) libations are offered.
+<span id="v3_1_4_2222"><sup><small>3:1:4:2222.</small></sup></span>  As to this they say, ‘Let him offer only this one: for whatever object the others are offered, that object he gains even by this one.’ And, indeed [^74], if <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> he offers only this one, he would offer a full-offering; and the full means everything: hence he gains everything by this (oblation). And by filling the dipping-spoon (sruva), he fills the offering-spoon (<i>g</i>uhû), and the latter he offers full. This, however, is a mere statement (of others’ views) [1](../Book_2_3_2#fn75), but all (five) libations are offered.
 
-<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span>  He offers this one with an anush<i>t</i>ubh verse. Being an anush<i>t</i>ubh verse, it consists of thirty-one syllables. Now there are ten fingers, ten toes, ten vital airs, and the thirty-first is the body wherein those vital airs are contained; for this much constitutes man, and the sacrifice is a man, the sacrifice is of the same proportion as a man [2](Book_2_3_2#fn76). Thus, whatever the extent of the sacrifice, whatever its measure, to that extent he takes possession of it by means of this (libation), when he offers it with an anush<i>t</i>ubh verse of thirty-one syllables.
+<span id="v3_1_4_2323"><sup><small>3:1:4:2323.</small></sup></span>  He offers this one with an anush<i>t</i>ubh verse. Being an anush<i>t</i>ubh verse, it consists of thirty-one syllables. Now there are ten fingers, ten toes, ten vital airs, and the thirty-first is the body wherein those vital airs are contained; for this much constitutes man, and the sacrifice is a man, the sacrifice is of the same proportion as a man [2](../Book_2_3_2#fn76). Thus, whatever the extent of the sacrifice, whatever its measure, to that extent he takes possession of it by means of this (libation), when he offers it with an anush<i>t</i>ubh verse of thirty-one syllables.
 
 
 
@@ -323,7 +323,7 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^23]: 1:1 Abhi-<i>s</i>î, ‘to lie or rise above,’ with Sây. Dr. Lindner takes bhûme<i>h</i> as abl., and translates ‘whereon nothing but earth lies.’ The Kâ<i>n</i>va rec. has bhûme<i>h</i> (gen.) likewise in the preceding clause ‘tad yad eva varshish<i>th</i>am bhûmes tad eva devaya<i>g</i>ana<i>m</i> syâd yatrânyad bhûmer nâbhi<i>s</i>ayîteto vai devâ, &c.’ The gods evidently ascended to heaven from the highest spot of the earth, and so is the sacrificer to choose the highest available place. See Kâty. VII, 1, 11 scholl.; Lâ<i>t</i>y. S. I, 1, 17, ‘na <i>k</i>âsya sthalataram (higher place) adûre syât.’
 
-[^24]: 2:1 Or ‘subsequent;’ a play on the word ‘uttara,’ which has the meanings ‘upper (superior), later, and left (north).’ Dr. Lindner takes it in the sense of ‘from the north.’ Possibly uttara also refers to the Soma-altars (uttara vedi and uttara-vedi) to be prepared later on (see [III, 5, 1, 1](Book_2_3_5#v3_5_1_1) seq.) on the eastern part of the sacrificial ground.
+[^24]: 2:1 Or ‘subsequent;’ a play on the word ‘uttara,’ which has the meanings ‘upper (superior), later, and left (north).’ Dr. Lindner takes it in the sense of ‘from the north.’ Possibly uttara also refers to the Soma-altars (uttara vedi and uttara-vedi) to be prepared later on (see [III, 5, 1, 1](../Book_2_3_5#v3_5_1_1) seq.) on the eastern part of the sacrificial ground.
 
 [^25]: 2:2 The Kâ<i>n</i>va text reads,—Accordingly Yâ<i>g</i><i>ñ</i>avalkya spake, ‘Vârsh<i>n</i>a intended to sacrifice (ayakshyata). Thus we went (ayama!) to look for a place of worship.’ He who is known as Sâtyaya<i>g</i><i>ñ</i>i said, Verily, this whole earth is divine: a place of worship there is wheresoever one sacrifices on it, after enclosing it with a ya<i>g</i>us.' And thus indeed he thought, but the officiating priests doubtless constitute the (real) place (medium) of worship: where wise (priests) perform the sacrifice in due form, there alone no failure takes place. That (other definition) is not the characteristic of the place of worship. (Without final iti.)
 
@@ -331,7 +331,7 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^27]: 3:2 Prâ<i>k</i>îna-va<i>m</i><i>s</i>a (prâg-va<i>m</i><i>s</i>a, K.). The ‘va<i>m</i><i>s</i>as’ are the horizontal beams supported by the four corner-posts. In the first place two cross-beams are fastened on the corner-posts, to serve as the lintels of the eastern and western doors. Across them tie-beams are then laid, running from west to east, on which mats are spread by way of a roof or ceiling. The tern ‘prâ<i>k</i>îna-va<i>m</i><i>s</i>a’ refers to these upper beams (upari-va<i>m</i><i>s</i>a), and especially to the central beam (p<i>ri</i>sh<i>th</i>a-va<i>m</i><i>s</i>a or madhyavala) the ends of which rest on the middle of the lintels of the eastern and western doors; cf. Sâya<i>n</i>a on Taitt. S. I, 2, 1 (vol. i, pp. 279, 286); Kâty. VII, I, 20 scholl. Inside the Prâ<i>k</i>îna-va<i>m</i><i>s</i>a there is the Âhavanîya fire immediately facing the east door; the Gârhapatya fire facing the west door; between the two the altar; and south of the latter the Dakshi<i>n</i>âgni. The shed (vimita) is to be erected on the back (west) part of the sacrificial ground, after the roots have been dug up. It is described as a square structure of ten (or twelve) cubits, somewhat higher in front than at the back; with doors on each side (except, optionally, on the north). The <i>s</i>âlâ, or hall, is to measure twenty cubits by ten. Kâty. VII, 1, 19-24 comm.
 
-[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. The same particles occur [III, 2, 1, 11](Book_2_3_2#v3_2_1_11). The Kâ<i>n</i>va text has,—‘lest it should freeze in winter, lest it should pour in the rainy season, and lest there should be burning heat in summer.’
+[^28]: 4:1 (?) Iti nv eva varshâ<i>h</i>. The same particles occur [III, 2, 1, 11](../Book_2_3_2#v3_2_1_11). The Kâ<i>n</i>va text has,—‘lest it should freeze in winter, lest it should pour in the rainy season, and lest there should be burning heat in summer.’
 
 [^29]: 5:1 The rite described in the following paragraphs is called apsudîkshâ, or ‘consecration in water.’
 
@@ -343,7 +343,7 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^33]: 8:2 The Kâ<i>n</i>va recension has the better reading, ‘For they, indeed, now cleanse him when he bathes.’ According to Taitt. S. VI, 1, 1, 3, he also sips (a<i>s</i>nâti) some water with the view of internal purification.
 
-[^34]: 8:3 Lit. ‘for that indeed is well purified, whom they purified (i.e. when they purify anybody) with ghee.’ The imperfect is rather strange. See also [III, 1, 3, 22](Book_2_3_1#v3_1_3_22). The Kâ<i>n</i>vas read, ‘For that, indeed, is well purified what is purified (yad pûyate) with ghee.’
+[^34]: 8:3 Lit. ‘for that indeed is well purified, whom they purified (i.e. when they purify anybody) with ghee.’ The imperfect is rather strange. See also [III, 1, 3, 22](../Book_2_3_1#v3_1_3_22). The Kâ<i>n</i>vas read, ‘For that, indeed, is well purified what is purified (yad pûyate) with ghee.’
 
 [^35]: 8:4 Prâṅ ivodaṅ = uttarapûrvârdham, Kâty. VII, 2, 15, i.e. ‘towards the north with. a slight turn to the east.’ Dr. Lindner takes ‘udaṅ’ p. 9 as meant to explain the preposition ‘ud.’ This, however, does not account for the ‘iva.’
 
@@ -355,9 +355,9 @@ This is the rule of conduct for the consecrated in such a case.
 
 [^39]: 10:3 That is to say, if it be not a new garment, it should be one that has not been washed by a washerman (with mautra, &c.), but worn daily after bathing.
 
-[^40]: 10:4 Or, outward form, tanu. Its meaning sometimes comes very near to that of ‘skin,’ assigned to it by the lexicographers. Cf. [III, 2, 2, 20](Book_2_3_2#v3_2_2_20); [4, 3, 9](Book_2_3_4#v3_4_3_9).
+[^40]: 10:4 Or, outward form, tanu. Its meaning sometimes comes very near to that of ‘skin,’ assigned to it by the lexicographers. Cf. [III, 2, 2, 20](../Book_2_3_2#v3_2_2_20); [4, 3, 9](../Book_2_3_4#v3_4_3_9).
 
-[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](Book_2_3_3#v3_3_3_3). The Kâ<i>n</i>va rec. has ‘yad anyeshâ<i>m</i> vayasâ<i>m</i> vîrya<i>m</i> yad anyeshâm pa<i>s</i>ûnâm.’
+[^41]: 11:1 Vayasâm, cf. [III, 3, 3, 3](../Book_2_3_3#v3_3_3_3). The Kâ<i>n</i>va rec. has ‘yad anyeshâ<i>m</i> vayasâ<i>m</i> vîrya<i>m</i> yad anyeshâm pa<i>s</i>ûnâm.’
 
 [^42]: 11:2 A different translation of this passage is proposed by Professor Delbrück (Synt. Forsch. III, p. 25); but the Kâ<i>n</i>va text (sâ ta<i>m</i> he<i>s</i>varo ’dbhutam abhi<i>g</i>anitor <i>g</i>âyâyâ vâ garbha<i>m</i> niravadhîd yad yeti tad u hovâ<i>k</i>a) shows that we have here, as frequently, to supply î<i>s</i>vara<i>h</i> to the infinitive in tos. The Kâ<i>n</i>va yad vâ (‘or some such thing’) would also seem to indicate that we ought to translate:—(as of one of whom) there is evil report: ‘he has committed some such (iti) sin as the producing of abortion.’
 

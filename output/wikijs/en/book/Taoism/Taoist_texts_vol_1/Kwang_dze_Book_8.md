@@ -78,7 +78,7 @@ And moreover, in employing the hook and line, the compass and square, to give th
 
 ## Footnotes
 
-[^376]: 268:1 See pp. [138](Kwang_dze_Intro#p138), [139](Kwang_dze_Intro#p139).
+[^376]: 268:1 See pp. [138](../Kwang_dze_Intro#p138), [139](../Kwang_dze_Intro#p139).
 
 [^377]: 268:2 Come out from the nature,' but ‘nature’ must be taken here as in the translation. The character is not Tâo.
 

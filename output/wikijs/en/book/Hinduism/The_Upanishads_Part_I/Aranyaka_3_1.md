@@ -46,17 +46,17 @@ FIRST ADHYÂYA.
 
 3\. That air is not considered [^622] independent [^623], therefore I do not agree with his (Mandûka's) son.
 
-4\. Verily, the two are the same, therefore air is <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> considered independent, thus says Âgastya. For it is the same, whether they say air or ether [1](Aranyaka_3_1#fn624).
+4\. Verily, the two are the same, therefore air is <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> considered independent, thus says Âgastya. For it is the same, whether they say air or ether [1](../Aranyaka_3_1#fn624).
 
 5\. So far with reference to deities (mythologically); now with reference to the body (physiologically):
 
-6\. The former half is speech, the latter half is mind, their union breath (prâ<i>n</i>a), thus says <i>S</i>ûravîra [2](Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
+6\. The former half is speech, the latter half is mind, their union breath (prâ<i>n</i>a), thus says <i>S</i>ûravîra [2](../Aranyaka_3_1#fn625) Mâ<i>n</i><i>d</i>ukeya.
 
-7\. But his eldest son said: The former half is mind, the latter half speech. For we first conceive with the mind indeed [3](Aranyaka_3_1#fn626), and then we utter with speech. Therefore the former half is indeed mind, the latter half speech, but their union is really breath.
+7\. But his eldest son said: The former half is mind, the latter half speech. For we first conceive with the mind indeed [3](../Aranyaka_3_1#fn626), and then we utter with speech. Therefore the former half is indeed mind, the latter half speech, but their union is really breath.
 
-8\. Verily, it is the same with both, the father (Mâ<i>n</i><i>d</i>ukeya) and the son [4](Aranyaka_3_1#fn627).
+8\. Verily, it is the same with both, the father (Mâ<i>n</i><i>d</i>ukeya) and the son [4](../Aranyaka_3_1#fn627).
 
-9\. This (meditation as here described), joined [5](Aranyaka_3_1#fn628) with mind, speech, and breath, is (like) a chariot drawn by two horses and one horse between them (prash<i>t</i>ivâhana).
+9\. This (meditation as here described), joined [5](../Aranyaka_3_1#fn628) with mind, speech, and breath, is (like) a chariot drawn by two horses and one horse between them (prash<i>t</i>ivâhana).
 
 10\. And he who thus knows this union, becomes united with offspring, cattle, fame, glory of countenance, and the world of Svarga. He lives his full age.
 

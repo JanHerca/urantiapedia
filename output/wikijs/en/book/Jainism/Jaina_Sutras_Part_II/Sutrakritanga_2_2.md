@@ -342,7 +342,7 @@ Thus I say.
 
 [^1046]: 359:2 They are specialised in the text as <i>S</i>yâmaka<i>m</i> tri<i>n</i>a<i>m</i>, mukundaka vrîhiûsita, and kâlêsuka. Only the two first are mentioned in our dictionaries.
 
-[^1047]: 359:3 In the Dipikâ the following versus memorialis is quoted, in which the names of places mentioned in the text are defined: grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || It will be seen that the meaning of these terms given in this verse differs from that given in notes [3](Uttaradhyayana_30#fn473)\-[11](Uttaradhyayana_30#fn481), [p. 176](Uttaradhyayana_30#p176).
+[^1047]: 359:3 In the Dipikâ the following versus memorialis is quoted, in which the names of places mentioned in the text are defined: grâmô v<i>ri</i>tyâ v<i>ri</i>ta<i>h</i> syân nagaram uru<i>k</i>aturgôpurôdbhâsi<i>s</i>ôbham khê<i>t</i>a<i>m</i> nadyadrivêsh<i>t</i>a<i>m</i> pariv<i>ri</i>tam abhita<i>h</i> kharva<i>t</i>am parvatêna | grâmair yuktam ma<i>t</i>ambam dalitada<i>s</i>a<i>s</i>atai<i>h</i> (?) pattana<i>m</i> ratnayônir drô<i>n</i>âkhya<i>m</i> sindhuvêlâvalayitam atha sambâdhana<i>m</i> vâऽdri<i>s</i><i>ri</i>ṅge || It will be seen that the meaning of these terms given in this verse differs from that given in notes [3](../Uttaradhyayana_30#fn473)\-[11](../Uttaradhyayana_30#fn481), [p. 176](../Uttaradhyayana_30#p176).
 
 [^1048]: 360:1 The same passage occurs Kalpa Sûtra, Lives of the <i>G</i>inas, § 92, part i, p. 249.
 
@@ -360,7 +360,7 @@ Thus I say.
 
 [^1055]: 362:4 Pa<i>k</i><i>k</i>âyâti, pratyâyâti. Dîpikâ: avi<i>s</i>vâsyatayâ pratyâyâti prakhyâti<i>m</i> yâti.
 
-[^1056]: 363:1 Concerning the fourfold division of speech see above, [p. 335](Sutrakritanga_2_1#p335), and part i, p. 150, note 2.
+[^1056]: 363:1 Concerning the fourfold division of speech see above, [p. 335](../Sutrakritanga_2_1#p335), and part i, p. 150, note 2.
 
 [^1057]: 363:2 The meaning is that Brahmans declare it a capital crime to kill a Brahman, but a venial one to kill a Sûdra.
 

@@ -109,7 +109,7 @@ And whoever shall observe these things [^351] may he be filled in heaven with th
 
 [^329]: 80:2 See _Documenta Antiqua Franciscana_, P. II, p. 60.
 
-[^330]: 80:3 See page [3](Part_1_1#p3).
+[^330]: 80:3 See page [3](../Part_1_1#p3).
 
 [^331]: 81:1 The text of the Testament given by M. Sabatier in his edition of the _Speculum Perf._ is that of this Assisi MS.
 

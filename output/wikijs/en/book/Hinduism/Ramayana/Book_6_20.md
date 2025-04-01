@@ -252,14 +252,14 @@ What in the olden time befell,—
 A secret tale which, long supressed,
 Lies prisoned only in my breast.
 One day—a day I never forget—
-Fair Punjikasthalá  [1](Book_6_20#fn932) I met,
+Fair Punjikasthalá  [1](../Book_6_20#fn932) I met,
 When, radiant as a flame of fire,
 She sought the palace of the Sire.
 In passion's eager grasp I tore
 From her sweet limbs the robes she wore,
 And heedless of her prayers and cries
 Strained to my breast the vanquised prize.
-Like Nalini  [2](Book_6_20#fn933) with soil distained.
+Like Nalini  [2](../Book_6_20#fn933) with soil distained.
 The mansion of the Sire she gained,
 And weeping made the outrage known
 To Brahmá on his heavenly throne.
@@ -847,7 +847,7 @@ Let Raghu's son in suppliant guise
 Entreat the mighty Sea to lend
 His succour and this cause befriend.
 His channels, as the wise have told,
-By Sagar's sons were dug of old,  [1b](Book_6_20#fn942)
+By Sagar's sons were dug of old,  [1b](../Book_6_20#fn942)
 Nor will high-thoughted Ocean scorn
 A prince of Sagar's lineage born.’
 &nbsp;&nbsp;&nbsp;&nbsp;He ceased; the prudent counsel won

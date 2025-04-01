@@ -282,7 +282,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^76]: 31:2 According to a legend given at III, 1, 2, 13 seq., man had originally a (hairy) skin, or hide; but the gods having flayed him, put his skin on the cow.
 
-[^77]: 31:3 In the ceremonial of the Black Ya<i>g</i>us (Taitt. Br. I. 3, 7, 1) the Sacrificer himself has to put on a ‘târpya’ garment, for which see note on [V, 2, 5, 20](Book_3_5_3#v5_3_5_20) (sic).
+[^77]: 31:3 In the ceremonial of the Black Ya<i>g</i>us (Taitt. Br. I. 3, 7, 1) the Sacrificer himself has to put on a ‘târpya’ garment, for which see note on [V, 2, 5, 20](../Book_3_5_3#v5_3_5_20) (sic).
 
 [^78]: 32:1 Viz. because her ordinary seat is at the back, or west, end of the altar.
 
@@ -292,7 +292,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^81]: 34:2 Or, ‘I hope he will not rend me asunder.’ For this construction—exactly corresponding to the German ‘dass (or, wenn) er mich nur nicht aufreisst!’ (cf. also the colloquial use of the French ‘pourvu,’—‘pourvu qu’il ne me déchire pas!’)—see part ii, p. 31, note 1.
 
-[^82]: 34:3 The B<i>ri</i>haspatisava is performed by a Brâhma<i>n</i>a with a view to obtaining the office of Purohita (royal chaplain, or family priest). For Â<i>s</i>valâyana's rule, which places it on a level with the Râ<i>g</i>asûya sacrifice of a king, see [p. 4](Book_3_5_1#p4), note [1](Book_3_5_1#fn33).
+[^82]: 34:3 The B<i>ri</i>haspatisava is performed by a Brâhma<i>n</i>a with a view to obtaining the office of Purohita (royal chaplain, or family priest). For Â<i>s</i>valâyana's rule, which places it on a level with the Râ<i>g</i>asûya sacrifice of a king, see [p. 4](../Book_3_5_1#p4), note [1](../Book_3_5_1#fn33).
 
 [^83]: 35:1 The Sacrificer is supposed to have done so by the, symbolical act of raising his head above the sacrificial post; see paragraph 14 above.
 
@@ -302,11 +302,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^86]: 36:2 He collects (sambharati), or provides food for him; this ceremony corresponding to that of equipping or provisioning the sacred fire with the so-called sambharas, at the Agny-âdhâna; see II, 1, 1, 1 seq.; part i, p. 276, note 1.
 
-[^87]: 37:1 Or ‘from Pra<i>g</i>âpati;’ or perhaps, 'surely not all Pra<i>g</i>âpati's food is appropriated.‘ The Kâ<i>n</i>va recension reads thus, [VI, 2, 3, 3](Book_3_6_2#v6_2_3_3). He first brings water, then milk, then, as they occur to him (other) kinds of food. ‘Let him bring those seventeen kinds of food,’ they say, for Pra<i>g</i>âpati is seventeenfold.’ Nevertheless (tadu) let him bring whatever kinds of food he can either think of or obtain. 4. Of this his food that has been brought together, let him set aside (uddharet) one (particular kind of) food: let him forswear that (tad udbruvîta), and not eat of it as long as he lives (yâva<i>g</i> <i>g</i>îvet). By that much also (or, even so long, tâvad api vai prâ<i>g</i>apate<i>h</i> sarvam annam anavaruddham) all the food of Pra<i>g</i>âpati is not appropriated; and who is man (compared) to him, that he should appropriate to himself all food? Thus he does not go to the end, thus he lives long: that (food) is here left over for his offspring (or people).
+[^87]: 37:1 Or ‘from Pra<i>g</i>âpati;’ or perhaps, 'surely not all Pra<i>g</i>âpati's food is appropriated.‘ The Kâ<i>n</i>va recension reads thus, [VI, 2, 3, 3](../Book_3_6_2#v6_2_3_3). He first brings water, then milk, then, as they occur to him (other) kinds of food. ‘Let him bring those seventeen kinds of food,’ they say, for Pra<i>g</i>âpati is seventeenfold.’ Nevertheless (tadu) let him bring whatever kinds of food he can either think of or obtain. 4. Of this his food that has been brought together, let him set aside (uddharet) one (particular kind of) food: let him forswear that (tad udbruvîta), and not eat of it as long as he lives (yâva<i>g</i> <i>g</i>îvet). By that much also (or, even so long, tâvad api vai prâ<i>g</i>apate<i>h</i> sarvam annam anavaruddham) all the food of Pra<i>g</i>âpati is not appropriated; and who is man (compared) to him, that he should appropriate to himself all food? Thus he does not go to the end, thus he lives long: that (food) is here left over for his offspring (or people).
 
 [^88]: 37:2 Sâya<i>n</i>a explains ‘tasya udbruvîta’ by,—one ought to proclaim it, saying aloud ‘such and such food has not been brought;’—na sambh<i>ri</i>tam ity u<i>k</i><i>k</i>ais tannâma brûyât.
 
-[^89]: 37:3 That is, oblations calculated to promote or quicken (pra-su) the strength (food,—vâ<i>g</i>a) by their prayers, the first three of which begin with ‘vâ<i>g</i>asya . . . prasava<i>h</i>.’ See [p. 2](Book_3_5_1#p2), note [1](Book_3_5_1#fn32). In the Black Ya<i>g</i>us ritual these oblations are called ‘Annahomâ<i>h</i>’ or food-oblations. Taitt. Br. I, 3, 8, 1. The Sûtras seem, however, likewise to use the term ‘Vâ<i>g</i>aprasavanîya’ (or Vâ<i>g</i>aprasavîya).
+[^89]: 37:3 That is, oblations calculated to promote or quicken (pra-su) the strength (food,—vâ<i>g</i>a) by their prayers, the first three of which begin with ‘vâ<i>g</i>asya . . . prasava<i>h</i>.’ See [p. 2](../Book_3_5_1#p2), note [1](../Book_3_5_1#fn32). In the Black Ya<i>g</i>us ritual these oblations are called ‘Annahomâ<i>h</i>’ or food-oblations. Taitt. Br. I, 3, 8, 1. The Sûtras seem, however, likewise to use the term ‘Vâ<i>g</i>aprasavanîya’ (or Vâ<i>g</i>aprasavîya).
 
 [^90]: 38:1 Rig-veda X, 141, 3 reads,—King Soma, Agni we invoke with our voices, the Âdityas, &c.
 
@@ -320,13 +320,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^95]: 41:1 See I, 8, 1, 18 seq.
 
-[^96]: 41:2 That is, the (first or Hot<i>ri</i>'s) P<i>ri</i>sh<i>th</i>a-stotra, for which see above, [p. 15](Book_3_5_1#p15), note [1](Book_3_5_1#fn55); part ii, p. 339, note 2. Its chanting is followed by the Nishkevalya-<i>s</i>astra, recited by the Hot<i>ri</i>.
+[^96]: 41:2 That is, the (first or Hot<i>ri</i>'s) P<i>ri</i>sh<i>th</i>a-stotra, for which see above, [p. 15](../Book_3_5_1#p15), note [1](../Book_3_5_1#fn55); part ii, p. 339, note 2. Its chanting is followed by the Nishkevalya-<i>s</i>astra, recited by the Hot<i>ri</i>.
 
 [^97]: 41:3 That is to say, according to Sâya<i>n</i>a,—they make the Svish<i>t</i>ak<i>ri</i>t, and the rising of the Sacrificer from the throne-seat, take place after the pronunciation of the ‘u<i>g</i><i>g</i>iti’ formulas, the drawing of the Mâhendra cup, and the performance of the Stotra and <i>S</i>astra.
 
 [^98]: 42:1 On the pûr<i>n</i>âhuti, or libation of a spoonful of ghee, see part i, p. 302 note. According to Kâty. <i>S</i>r. XV, 1, 4 seq. Â<i>s</i>v. <i>S</i>r. IX, 3, 2, and other authorities, this full-offering is preceded by the Pavitra (purificatory ceremony), a Soma-sacrifice with four dikshâs or initiation days (? commencing on the first day of the bright fortnight of Phâlguna), serving as the ordinary opening offering (anvârambha<i>n</i>îyesh<i>t</i>i). That it formed part of the ceremonial .at the time of the composition of the Brâhma<i>n</i>a there can be little doubt (cf. Pa<i>ñ</i><i>k</i>av. Br. 18, 8. 1), but as it is an ordinary Agnish<i>t</i>oma, the author had no reason to refer to it.
 
-[^99]: 42:2 I. e. the approval or favour of the deities, personified,—According to Yâ<i>g</i><i>ñ</i>ika Deva (to Kâty. <i>S</i>r. XV, 1, 8), the ceremonies now beginning would commence on the 10th day of the bright half of Phalgunî: the fifth day's ceremony from this day, viz. the first of the four seasonal offerings, having to be performed on the Full-moon of that month; see [p. 47](#p47), note [1](Book_3_5_2#fn109).
+[^99]: 42:2 I. e. the approval or favour of the deities, personified,—According to Yâ<i>g</i><i>ñ</i>ika Deva (to Kâty. <i>S</i>r. XV, 1, 8), the ceremonies now beginning would commence on the 10th day of the bright half of Phalgunî: the fifth day's ceremony from this day, viz. the first of the four seasonal offerings, having to be performed on the Full-moon of that month; see [p. 47](#p47), note [1](../Book_3_5_2#fn109).
 
 [^100]: 43:1 The authorities of the Black Ya<i>g</i>us prepare therewith a cake on one kapâla. Taitt. S. I, 8, 1.
 
@@ -346,7 +346,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^108]: 46:3 For the four <i>K</i>âturmâsya (enumerated in the next chapter), see part i, p. 383 seq.
 
-[^109]: 47:1 This, the first of the Seasonal offerings, is to be performed on the full-moon of Phalgunî, the other three then following after intervals of four months each. During these intervals the ordinary Fortnightly sacrifices are to be performed from day to day in this way that either the Full-moon and New-moon sacrifice are performed on alternate days, or the former on each day of the bright fortnights, and the latter on each day of the dark fortnights. Thus, according to Â<i>s</i>v. Sr. IX, 3, 6; while Kâty. XV, 1, 18 allows only the latter mode. The final Seasonal offering, or <i>S</i>unâsîrya, which ordinarily is performed a twelvemonth after the Vai<i>s</i>vadeva, or on the full-moon of Phâlguna, is on the present occasion to be performed just a year after the opening sacrifice, or Pavitra ([p. 42](Book_3_5_2#p42), note [1](Book_3_5_2#fn98)), i.e. on the first day of the bright fortnight of Phâlguna, being immediately followed by the Pa<i>ñ</i><i>k</i>avâtîya.
+[^109]: 47:1 This, the first of the Seasonal offerings, is to be performed on the full-moon of Phalgunî, the other three then following after intervals of four months each. During these intervals the ordinary Fortnightly sacrifices are to be performed from day to day in this way that either the Full-moon and New-moon sacrifice are performed on alternate days, or the former on each day of the bright fortnights, and the latter on each day of the dark fortnights. Thus, according to Â<i>s</i>v. Sr. IX, 3, 6; while Kâty. XV, 1, 18 allows only the latter mode. The final Seasonal offering, or <i>S</i>unâsîrya, which ordinarily is performed a twelvemonth after the Vai<i>s</i>vadeva, or on the full-moon of Phâlguna, is on the present occasion to be performed just a year after the opening sacrifice, or Pavitra ([p. 42](../Book_3_5_2#p42), note [1](../Book_3_5_2#fn98)), i.e. on the first day of the bright fortnight of Phâlguna, being immediately followed by the Pa<i>ñ</i><i>k</i>avâtîya.
 
 [^110]: 47:2 See part i, p. 391 seq.
 
@@ -364,7 +364,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^117]: 51:1 On Rudra's epithet vâstavya, see I, 7, 3, 1, 8.
 
-[^118]: 52:1 Rudra rules over the beasts (III, 6; 2, 20), whence he is also called the lord of beasts (pa<i>s</i>ûnâm pati, I, 7, 3, 8; Pa<i>s</i>upati [V, 3, 3, 7](Book_3_5_3#v5_3_3_7)). Pûshan, the genius of thrift and prosperity, is also (like the Greek Pan) regarded as the protector of cattle: see [V, 2, 5, 8](Book_3_5_2#v5_2_5_8).
+[^118]: 52:1 Rudra rules over the beasts (III, 6; 2, 20), whence he is also called the lord of beasts (pa<i>s</i>ûnâm pati, I, 7, 3, 8; Pa<i>s</i>upati [V, 3, 3, 7](../Book_3_5_3#v5_3_3_7)). Pûshan, the genius of thrift and prosperity, is also (like the Greek Pan) regarded as the protector of cattle: see [V, 2, 5, 8](../Book_3_5_2#v5_2_5_8).
 
 [^119]: 53:1 See part ii, p. 248.
 

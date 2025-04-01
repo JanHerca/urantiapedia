@@ -108,7 +108,7 @@ Look at the rugged and stony field;—Luxuriantly rises in it the springing grai
 
 THE LAMENTATION OF AN OFFICER OVER THE PRODIGIES CELESTIAL AND TERRESTRIAL, ESPECIALLY AN ECLIPSE OF THE SUN, THAT WERE BETOKENING THE RUIN OF <i>K</i>ÂU. HE SETS FORTH WHAT HE CONSIDERED TO BE THE TRUE CAUSES OF THE PREVAILING MISERY, WHICH WAS BY NO MEANS TO BE CHARGED ON HEAVEN.
 
-Attention is called in the Introduction, [p. 296](Shih_King_Intro_4#p296), to the date of the solar eclipse mentioned in this piece.
+Attention is called in the Introduction, [p. 296](../Shih_King_Intro_4#p296), to the date of the solar eclipse mentioned in this piece.
 
 At the conjunction (of the sun and moon) in the tenth month, On the first day of the moon, which was hsin-mâo, The sun was eclipsed, A thing of very evil omen. Before, the moon became small, And now the sun became small. Henceforth the lower people Will be in a very deplorable case.
 

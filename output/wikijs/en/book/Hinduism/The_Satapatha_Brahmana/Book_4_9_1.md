@@ -267,7 +267,7 @@ IX. 47. Chaser, lord of the (Soma) plant! blue-red cleaver! fright and hurt not 
 
 [^262]: 156:2 That is, that whereby the deity is propitiated or appeased.
 
-[^263]: 156:3 A fanciful etymology of <i>S</i>ata-rudriya, as if it were <i>s</i>ânta (propitiated) + rudriya, instead of ‘that which relates to a hundred Rudras’; cf. [paragraph 7](Book_4_9_1#v9_1_1_7).
+[^263]: 156:3 A fanciful etymology of <i>S</i>ata-rudriya, as if it were <i>s</i>ânta (propitiated) + rudriya, instead of ‘that which relates to a hundred Rudras’; cf. [paragraph 7](../Book_4_9_1#v9_1_1_7).
 
 [^264]: 157:1 That is to say, the leaf is used in lieu of the ordinary offering-spoon. Whilst making continual oblations on one of the three stones from this leaf, held in his right hand, the priest holds a piece of arka wood in his left hand. Mahîdh. on Vâ<i>g</i>. S. XVI, 1.
 
@@ -287,9 +287,9 @@ IX. 47. Chaser, lord of the (Soma) plant! blue-red cleaver! fright and hurt not 
 
 [^272]: 160:4 Pra<i>g</i>âyâ yad dhanam asti, Sây.
 
-[^273]: 160:5 See [paragraph 28](Book_4_9_1#v9_1_1_28).
+[^273]: 160:5 See [paragraph 28](../Book_4_9_1#v9_1_1_28).
 
-[^274]: 161:1 The calculation here, as so often in regard to metres, is rather a loose one. Anuvâka I, consisting of sixteen verses, is taken as amounting to the first fourscore formulas; anuvâkas II and III, consisting of ten ka<i>n</i><i>d</i>ikâs (each of which is calculated to consist of eight mantras), constitute the second fourscore; anuvâkas IV and V again form the third fourscore; anuvâkas VI-VIII (save the last four formulas, see [parag. 22](Book_4_9_1#v9_1_1_22)), the fourth fourscore; and from there to the ‘unstringing’-formulas, that is, from within XVI, 46 to 53, the fifth fourscore. At the end of each eighty formulas he is to utter one Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
+[^274]: 161:1 The calculation here, as so often in regard to metres, is rather a loose one. Anuvâka I, consisting of sixteen verses, is taken as amounting to the first fourscore formulas; anuvâkas II and III, consisting of ten ka<i>n</i><i>d</i>ikâs (each of which is calculated to consist of eight mantras), constitute the second fourscore; anuvâkas IV and V again form the third fourscore; anuvâkas VI-VIII (save the last four formulas, see [parag. 22](../Book_4_9_1#v9_1_1_22)), the fourth fourscore; and from there to the ‘unstringing’-formulas, that is, from within XVI, 46 to 53, the fifth fourscore. At the end of each eighty formulas he is to utter one Svâhâ (sak<i>ri</i>t svâhâkâra<i>h</i>, Sây.).
 
 [^275]: 161:2 An etymological play on the word ‘a<i>s</i>îti,’ as if derived from a<i>s</i>, to eat.
 
@@ -299,33 +299,33 @@ IX. 47. Chaser, lord of the (Soma) plant! blue-red cleaver! fright and hurt not 
 
 [^278]: 163:1 Viz. Vâ<i>g</i>. S. XVI, 54-63: ‘What countless thousands of Rudras there are upon earth, their bows do we unstring at a thousand leagues.—The Bhavas that are in this great sea, in the air, their bow do we unstring at a thousand leagues.’ Thus each formula ends with the ‘unstringing’ refrain.
 
-[^279]: 164:1 Vâ<i>g</i>. S. XVI, 64-66. In making these three oblations to the Rudras in the sky, the air, and on earth respectively, the procedure is the reverse from that described in [paragraphs 11](Book_4_9_1#v9_1_1_11)\-[13](Book_4_9_1#v9_1_1_13), viz. first on the enclosing-stone which reaches up to his mouth, then on that reaching up to his navel, and lastly on that reaching up to his knee.
+[^279]: 164:1 Vâ<i>g</i>. S. XVI, 64-66. In making these three oblations to the Rudras in the sky, the air, and on earth respectively, the procedure is the reverse from that described in [paragraphs 11](../Book_4_9_1#v9_1_1_11)\-[13](../Book_4_9_1#v9_1_1_13), viz. first on the enclosing-stone which reaches up to his mouth, then on that reaching up to his navel, and lastly on that reaching up to his knee.
 
-[^280]: 165:1 These words, as well as the spaced words in the next paragraph, are added to each of the three formulas in [paragraphs 35](Book_4_9_1#v9_1_1_35)\-[37](Book_4_9_1#v9_1_1_37).
+[^280]: 165:1 These words, as well as the spaced words in the next paragraph, are added to each of the three formulas in [paragraphs 35](../Book_4_9_1#v9_1_1_35)\-[37](../Book_4_9_1#v9_1_1_37).
 
 [^281]: 165:2 The joining of the hollow of the hands, by placing the tips of the fingers together, is a sign of reverence.
 
 [^282]: 166:1 Of objects numbering six, the seasons commonly occur, e. g. VI, 7, 1, 16.
 
-[^283]: 166:2 See [paragraph 4](Book_4_9_1#v9_1_1_4). According to Kâty. <i>S</i>rautas. 18, 1, 6 both offering-utensils (the arka-leaf and the arka-stick) are thrown into the pit.
+[^283]: 166:2 See [paragraph 4](../Book_4_9_1#v9_1_1_4). According to Kâty. <i>S</i>rautas. 18, 1, 6 both offering-utensils (the arka-leaf and the arka-stick) are thrown into the pit.
 
 [^284]: 167:1 As Prof. Weber, ‘Die vedischen Nachrichten von den Nakshatra,’ p. 298, points out, this passage points to a six years’ period of intercalation, since, in counting 360 days in the year, the remainder accumulates in six years to an intercalary month of thirty-five days (or thirty-six according to Sat. Br. X, 5, 4, 5); and accordingly in Vâ<i>g</i>. S. XXX, 15, and Taitt. Âr. IV, 19, 1, the names of the six years of such a period of intercalation are mentioned; while a five years’ period and the names of the respective years are more frequently referred to.
 
 [^285]: 167:2 Viz. twenty fingers and toes, the upper and lower arms, the thighs and shanks, and the hands.
 
-[^286]: 168:1 For the mahad uktham, or Great Litany, recited on the Mahâvrata day, see [p. 110](Book_4_8_6#p110), note [3](Book_4_8_6#fn202). According to Sâya<i>n</i>a, however, this does not refer to the Mahad uktham, or Great Litany, itself, but to its Stotra, the Mahâvrata-sâman (cf. note on [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)), by the chanting of which it is preceded, and which, like the Great Litany itself, is represented as being composed of the different parts of Agni-Pra<i>g</i>âpati's bird-shaped body. Now, that part of the chant which corresponds to the god's trunk (âtman) is the only part of this Stotra which is chanted in the Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>astoma, or twenty-five-versed hymn-form, which, indeed, is the characteristic Stoma of the Mahâvrata day, all other Stotras of that rite being chanted in that form. It is, however, doubtful to me whether it is not rather the opening part of the Great Litany itself representing the trunk that is here referred to, and which, indeed, consists of twenty-five verses; cf. F. Max Müller, Upanishads, I, p. 183. Besides, it has always to be borne in mind that the particular arrangement of the Great Litany which the authors of the Brâhma<i>n</i>a had before them, may have differed in some respects from those known to us.
+[^286]: 168:1 For the mahad uktham, or Great Litany, recited on the Mahâvrata day, see [p. 110](../Book_4_8_6#p110), note [3](../Book_4_8_6#fn202). According to Sâya<i>n</i>a, however, this does not refer to the Mahad uktham, or Great Litany, itself, but to its Stotra, the Mahâvrata-sâman (cf. note on [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)), by the chanting of which it is preceded, and which, like the Great Litany itself, is represented as being composed of the different parts of Agni-Pra<i>g</i>âpati's bird-shaped body. Now, that part of the chant which corresponds to the god's trunk (âtman) is the only part of this Stotra which is chanted in the Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>astoma, or twenty-five-versed hymn-form, which, indeed, is the characteristic Stoma of the Mahâvrata day, all other Stotras of that rite being chanted in that form. It is, however, doubtful to me whether it is not rather the opening part of the Great Litany itself representing the trunk that is here referred to, and which, indeed, consists of twenty-five verses; cf. F. Max Müller, Upanishads, I, p. 183. Besides, it has always to be borne in mind that the particular arrangement of the Great Litany which the authors of the Brâhma<i>n</i>a had before them, may have differed in some respects from those known to us.
 
-[^287]: 168:2 See [p. 112](Book_4_8_6#p112), note [1](Book_4_8_6#fn204).
+[^287]: 168:2 See [p. 112](../Book_4_8_6#p112), note [1](../Book_4_8_6#fn204).
 
 [^288]: 168:3 That is, the body with its twenty-four limbs, viz. the two arms, two legs, and the twenty fingers and toes.
 
-[^289]: 168:4 According to Sâya<i>n</i>a, the Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, chanted after the Mahad uktham, is here referred to. See [p. 111](Book_4_8_6#p111), note [1](Book_4_8_6#fn203). Sâya<i>n</i>a takes it to refer to the prose-formulas at the end of the Sastra, which, he says, represent the mind (buddhi) of Pra<i>g</i>âpati.
+[^289]: 168:4 According to Sâya<i>n</i>a, the Pa<i>ñ</i><i>k</i>avi<i>m</i><i>s</i>a-stotra, chanted after the Mahad uktham, is here referred to. See [p. 111](../Book_4_8_6#p111), note [1](../Book_4_8_6#fn203). Sâya<i>n</i>a takes it to refer to the prose-formulas at the end of the Sastra, which, he says, represent the mind (buddhi) of Pra<i>g</i>âpati.
 
 [^290]: 169:1 Or rather, he pours water on it (the altar).
 
 [^291]: 169:2 That is, from the lower (or hindmost) point where the right p. 170 wing joins the body of the altar. Re there places a stone, from which he begins the sprinkling of the altar.
 
-[^292]: 170:1 See [IX, I, 1, 33](Book_4_9_1#v9_1_1_33).
+[^292]: 170:1 See [IX, I, 1, 33](../Book_4_9_1#v9_1_1_33).
 
 [^293]: 171:1 The burning heat of the fire, and all physical and mental suffering.
 
@@ -339,7 +339,7 @@ IX. 47. Chaser, lord of the (Soma) plant! blue-red cleaver! fright and hurt not 
 
 [^298]: 174:2 See VI, 1, 1, 1-5.
 
-[^299]: 175:1 Thus, or essence (ra<i>s</i>a), according to Sâya<i>n</i>a; cf. [X, 6, 5, 1](Book_4_10_6#v10_6_5_1). The word ‘ka’ has, however, also the meaning ‘joy.’
+[^299]: 175:1 Thus, or essence (ra<i>s</i>a), according to Sâya<i>n</i>a; cf. [X, 6, 5, 1](../Book_4_10_6#v10_6_5_1). The word ‘ka’ has, however, also the meaning ‘joy.’
 
 [^300]: 176:1 That is, ‘the heat’ which is considered the chief property of the bilious humour.
 
@@ -353,10 +353,10 @@ IX. 47. Chaser, lord of the (Soma) plant! blue-red cleaver! fright and hurt not 
 
 [^308]: 180:1 The Pra<i>g</i>âpati-h<i>ri</i>daya, or Pra<i>g</i>âpater h<i>ri</i>dayam, as figured for chanting, is given, Sâma-v. Calc. ed. vol. ii, p. 499. It consists of the words, imâ<i>h</i> pra<i>g</i>â<i>h</i> pra<i>g</i>âpate(r) h<i>ri</i>dayam pra<i>g</i>ârûpam a<i>g</i>î<i>g</i>ane, with inserted stobhas and modulations. It is followed by a simpler form, which is perhaps the one used on the present occasion.
 
-[^309]: 180:2 Viz. on the place where the right wing joins the body of the altar. According to other authorities, the <i>S</i>yaita hymn-tune is likewise to be sung near the left arm-pit (or, according to Sâ<i>n</i><i>d</i>ilya, at the place where the Adhvaryu mounts the altar). For other variations, see Weber, Ind. Stud. XIII, p. 276. I do not think that the ritual of the White Ya<i>g</i>us, in omitting the left arm-pit, shows any gap or inconsistency, since the right arm-pit is marked out, not for any bodily parallelism, but for the simple reason that it is supposed to indicate the position of the heart. Whilst all the other places on which hymns are sung are essential parts of the bird Agni, the arm-pit is not an essential part, but is merely indicative of the central organ of the body. Lâ<i>t</i>y. I, 5, 11 seqq. supplies the following directions, apparently implying a somewhat different order of procedure from that followed in our text: He passes along the south, and whilst standing (east of the altar) with his face towards the west, he sings the Gâyatra at the head. Returning, he sings the Rathantara at the right wing. Going round behind, he sings the B<i>ri</i>hat at the left wing. Going back, and standing behind the tail, with his face towards the east, he sings the Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. The Vâmadevya he sings at the right, and the Pra<i>g</i>âpati-h<i>ri</i>daya at the left, arm-pit. Then follow different views held by different teachers.—With this ceremony, by which homage is paid to the different parts of Agni-Pra<i>g</i>âpati's body, compare the similar, but more elaborate, ceremony of the Parimâda<i>h</i> at the Mahâvrata, [X, 1, 2, 9](Book_4_10_1#v10_1_2_9) with note.
+[^309]: 180:2 Viz. on the place where the right wing joins the body of the altar. According to other authorities, the <i>S</i>yaita hymn-tune is likewise to be sung near the left arm-pit (or, according to Sâ<i>n</i><i>d</i>ilya, at the place where the Adhvaryu mounts the altar). For other variations, see Weber, Ind. Stud. XIII, p. 276. I do not think that the ritual of the White Ya<i>g</i>us, in omitting the left arm-pit, shows any gap or inconsistency, since the right arm-pit is marked out, not for any bodily parallelism, but for the simple reason that it is supposed to indicate the position of the heart. Whilst all the other places on which hymns are sung are essential parts of the bird Agni, the arm-pit is not an essential part, but is merely indicative of the central organ of the body. Lâ<i>t</i>y. I, 5, 11 seqq. supplies the following directions, apparently implying a somewhat different order of procedure from that followed in our text: He passes along the south, and whilst standing (east of the altar) with his face towards the west, he sings the Gâyatra at the head. Returning, he sings the Rathantara at the right wing. Going round behind, he sings the B<i>ri</i>hat at the left wing. Going back, and standing behind the tail, with his face towards the east, he sings the Ya<i>g</i><i>ñ</i>âya<i>g</i><i>ñ</i>iya. The Vâmadevya he sings at the right, and the Pra<i>g</i>âpati-h<i>ri</i>daya at the left, arm-pit. Then follow different views held by different teachers.—With this ceremony, by which homage is paid to the different parts of Agni-Pra<i>g</i>âpati's body, compare the similar, but more elaborate, ceremony of the Parimâda<i>h</i> at the Mahâvrata, [X, 1, 2, 9](../Book_4_10_1#v10_1_2_9) with note.
 
 [^310]: 181:1 That is, by taking the auricles as parts of the heart.
 
-[^311]: 181:2 According to Lâ<i>t</i>y. I, 5, 1 seq., it is the Prastot<i>ri</i> who sings these sâmans. A similar conflict of competence in this respect is referred to not only in regard to detached sâmans (cf. Kâty. IV, 9, 6-9), but even in regard to such solemn performances as the chanting of the Mahâvrata-sâman (cf. note on [X, 1, 1, 5](Book_4_10_1#v10_1_1_5)).
+[^311]: 181:2 According to Lâ<i>t</i>y. I, 5, 1 seq., it is the Prastot<i>ri</i> who sings these sâmans. A similar conflict of competence in this respect is referred to not only in regard to detached sâmans (cf. Kâty. IV, 9, 6-9), but even in regard to such solemn performances as the chanting of the Mahâvrata-sâman (cf. note on [X, 1, 1, 5](../Book_4_10_1#v10_1_1_5)).
 
 [^312]: 181:3 Vi-<i>k</i>ita, in this sense, appears to be a ἅπαξ λεγόμενον. Sâya<i>n</i>a seems to have read vi<i>g</i>ita (parâbhûta, defeated) instead.

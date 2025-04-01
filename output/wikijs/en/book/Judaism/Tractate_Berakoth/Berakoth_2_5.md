@@ -68,9 +68,9 @@ And so a man should not take leave of his companion straightway from conversatio
 
 **T**. III. 9. If he has not made mention of the power of the rains in \[the Benediction of\] the Resurrection of the dead, and has not asked for the rains in the Benediction of the years, he must be turned back.
 
-If he has not said the Habdalah at “Thou that graciously givest knowledge,” he says it over the <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> cup. [1](Berakoth_2_5#fn_256) If he has not said it \[there\] he must be turned back.
+If he has not said the Habdalah at “Thou that graciously givest knowledge,” he says it over the <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> cup. [1](../Berakoth_2_5#fn_256) If he has not said it \[there\] he must be turned back.
 
-R. Jose said: Also he who has not made mention of \[the covenant\] in the thanksgiving for the land [2](Berakoth_2_5#fn_257) must be turned back.
+R. Jose said: Also he who has not made mention of \[the covenant\] in the thanksgiving for the land [2](../Berakoth_2_5#fn_257) must be turned back.
 
 <a id="m3"></a>
 
@@ -80,7 +80,7 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
-**M**.4\. He [1](Berakoth_2_5#fn_262) that passes before the Ark must not answer Amen after the priests [2](Berakoth_2_5#fn_263) \[for fear of\] distraction. If no priest is there he must not lift up his hands \[to bless\]. But if he has confidence that if he lifts up his hands [3](Berakoth_2_5#fn_264) \[to bless\] he can return to his prayer, he is permitted to do so.
+**M**.4\. He [1](../Berakoth_2_5#fn_262) that passes before the Ark must not answer Amen after the priests [2](../Berakoth_2_5#fn_263) \[for fear of\] distraction. If no priest is there he must not lift up his hands \[to bless\]. But if he has confidence that if he lifts up his hands [3](../Berakoth_2_5#fn_264) \[to bless\] he can return to his prayer, he is permitted to do so.
 
 ### On Mistakes (_continued_). R. Chanina's Knowledge of the Effect of His Prayers.
 
@@ -124,11 +124,11 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 [^218]: 35:3 SA, p. 238.
 
-[^219]: 35:4 _stand_. i.e. to say the Eighteen (_cf_. pp. [4](Berakoth_1_1#p4) _sq_.).
+[^219]: 35:4 _stand_. i.e. to say the Eighteen (_cf_. pp. [4](../Berakoth_1_1#p4) _sq_.).
 
 [^220]: 35:5 _with solemnity_. The phrase is literally “with heaviness of head,” _i.e._ with bending it down, but probably the expression is here solely metaphorical, in contrast to “lightness of head,” _i.e._ irreverence, _cf_. _T_. III. 21 ([p. 38](#p38)). It is not far removed from the phrase “the poor in spirit” (Matt 53).
 
-[^221]: 35:6 _God_. Lit.: the Place ([p. 29](Berakoth_2_4#p29)). B has “their Father who is in heaven.”
+[^221]: 35:6 _God_. Lit.: the Place ([p. 29](../Berakoth_2_4#p29)). B has “their Father who is in heaven.”
 
 [^222]: 35:7 _the King_. An Israelite, for to a heathen king one must answer, for fear of the consequences (Bartenora).
 
@@ -146,7 +146,7 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 [^229]: 36:7 The section shows the earnestness with which the great teacher prayed.
 
-[^230]: 36:8 Dan. 610. The phrases in the case of Daniel, Hannah, David, Solomon are literally “in Daniel,” etc., and possibly are of the same type as on [p. 79](Berakoth_3_9#p79).
+[^230]: 36:8 Dan. 610. The phrases in the case of Daniel, Hannah, David, Solomon are literally “in Daniel,” etc., and possibly are of the same type as on [p. 79](../Berakoth_3_9#p79).
 
 [^231]: 37:1 1 Sam. 113.
 
@@ -156,7 +156,7 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 [^234]: 37:4 Ps. 331.
 
-[^235]: 37:5 “True and sure” (_’Emeth wyatzib_), _cf_. [p. 7](Berakoth_1_1#p7).
+[^235]: 37:5 “True and sure” (_’Emeth wyatzib_), _cf_. [p. 7](../Berakoth_1_1#p7).
 
 [^236]: 37:6 After the Prayer (_Tephillah_) serious variations may begin, exclusive of minor variations in the _Tephillah_ itself.
 
@@ -198,7 +198,7 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 [^255]: 39:8 _knowledge_. The fourth Benediction (SA, p. 46).
 
-[^256]: 39:9 _the Hoda’ah_, [p. 34](Berakoth_2_4#p34) note.
+[^256]: 39:9 _the Hoda’ah_, [p. 34](../Berakoth_2_4#p34) note.
 
 [^257]: 40:1 _the cup_. At the end of the sabbath, SA, p. 216.
 
@@ -208,9 +208,9 @@ R. Jose said: Also he who has not made mention of \[the covenant\] in the thanks
 
 [^260]: 40:4 _For good, etc_. It seems to deny that evil is permitted by God as well as good.
 
-[^261]: 40:5 _We praise, we praise_. Twice over. The speaker may be referring to more than one divine principle (_cf_. the next mishna and _M_. IX. 8 (5), [p. 87](Berakoth_3_9#p87), and the common argument for the Trinity from the threefold use of “Holy” in Isa. vi. 3).
+[^261]: 40:5 _We praise, we praise_. Twice over. The speaker may be referring to more than one divine principle (_cf_. the next mishna and _M_. IX. 8 (5), [p. 87](../Berakoth_3_9#p87), and the common argument for the Trinity from the threefold use of “Holy” in Isa. vi. 3).
 
-[^262]: 40:6 _him passes before the Ark_. [p. 19](Berakoth_1_2#p19) note. It was correct for him who was invited to lead the Tephillah to decline the first time, but to yield to a second and third invitation (Gemara _T_. B. 34a).
+[^262]: 40:6 _him passes before the Ark_. [p. 19](../Berakoth_1_2#p19) note. It was correct for him who was invited to lead the Tephillah to decline the first time, but to yield to a second and third invitation (Gemara _T_. B. 34a).
 
 [^263]: 41:1 B prefixes: “He that says, Let the good say the Benediction, lo, this smacks of heresy (_minûth_),” as suggesting the division of members into worthy and unworthy. But it would not appear to have any connexion with Christianity.
 

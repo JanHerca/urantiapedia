@@ -126,7 +126,7 @@ Every three years there was an examination of merits, and after three examinatio
 
 [^38]: 39:3 The princes of the various states, whose official chief was the President of the Four Mountains, all ‘shepherds of men.’
 
-[^39]: 39:4 Thâi-ȝung is mount Thâi in Shan-tung. See note on the President of the Four Mountains, [p. 35](Shu_King_Part1_1#p35).
+[^39]: 39:4 Thâi-ȝung is mount Thâi in Shan-tung. See note on the President of the Four Mountains, [p. 35](../Shu_King_Part1_1#p35).
 
 [^41]: 40:1 See note on the President of the Four Mountains, p. 35.
 

@@ -44,11 +44,11 @@ But a man always benighted, subject to old age and death, does not know the law.
 
 Knowing the misery that results from action,
 The deluded and careless one returns to life; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Disregarding sounds and colours, upright,
-Avoiding Mâra one is liberated from death [1](Akaranga_1_3#fn156).
+Avoiding Mâra one is liberated from death [1](../Akaranga_1_3#fn156).
 
-Carefully abstaining from pleasures and ceasing from bad works he is a hero, guarding himself, who is grounded in knowledge [2](Akaranga_1_3#fn157). (3) He who knows the violence done for the sake of special objects, knows what is free from violence [3](Akaranga_1_3#fn158); he who knows what is free from violence, knows the violence done for special objects. For him who is without karman, there is no appellation [4](Akaranga_1_3#fn159). The condition of living beings arises from karman.
+Carefully abstaining from pleasures and ceasing from bad works he is a hero, guarding himself, who is grounded in knowledge [2](../Akaranga_1_3#fn157). (3) He who knows the violence done for the sake of special objects, knows what is free from violence [3](../Akaranga_1_3#fn158); he who knows what is free from violence, knows the violence done for special objects. For him who is without karman, there is no appellation [4](../Akaranga_1_3#fn159). The condition of living beings arises from karman.
 
-Examining karman and the root of karman, viz. killing [5](Akaranga_1_3#fn160), examining (it) and adopting its contrary [6](Akaranga_1_3#fn161), he is not seen by both ends [7](Akaranga_1_3#fn162). Knowing this, a wise man who knows the world and has cast off the idea of the world, should prudently conquer the obstructions to righteousness [8](Akaranga_1_3#fn163). Thus I say. (4)
+Examining karman and the root of karman, viz. killing [5](../Akaranga_1_3#fn160), examining (it) and adopting its contrary [6](../Akaranga_1_3#fn161), he is not seen by both ends [7](../Akaranga_1_3#fn162). Knowing this, a wise man who knows the world and has cast off the idea of the world, should prudently conquer the obstructions to righteousness [8](../Akaranga_1_3#fn163). Thus I say. (4)
 
 
 
@@ -177,7 +177,7 @@ End of the Third Lecture, called Hot and Cold.
 
 [^160]: 29:4 As man, god, hell-being, young, old, &c.
 
-[^161]: 29:5 See [p. 28](Akaranga_1_2#p28), note [4](Akaranga_1_2#fn155).
+[^161]: 29:5 See [p. 28](../Akaranga_1_2#p28), note [4](../Akaranga_1_2#fn155).
 
 [^162]: 29:6 Literally, the left side (savyam); control is intended.
 

@@ -273,7 +273,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v2_3_4_4040"><sup><small>2:3:4:4040.</small></sup></span>  Thereupon a verse to Agni (Vâ<i>g</i>. S. III, 36),—whereby he finally makes himself over to Agni for protection: ‘May thine unapproachable chariot, wherewith thou protectest the worshippers, encircle us on every side!’ The worshippers, doubtless, are <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> the sacrificers; and what unassailable chariot he (Agni) possesses, therewith he protects the sacrificers. Hence he thereby means to say, ‘what unassailable chariot thou possessest, wherewith thou protectest the sacrificers, therewith do thou guard us on every side.’ This (verse) he mutters thrice.
 
-<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span>  He then pronounces his son's name [1](Book_1_2_4#fn787): ‘May this son (N.N.) carry on this manly deed of mine!’ Should he have no son, let him insert his own name.
+<span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span>  He then pronounces his son's name [1](../Book_1_2_4#fn787): ‘May this son (N.N.) carry on this manly deed of mine!’ Should he have no son, let him insert his own name.
 
 
 
@@ -315,7 +315,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^749]: 331:1 According to Kâty. IV, 14, 5 the Adhvaryu illumines the milk with a burning straw; pours some water to it with the sruva or dipping-spoon; then illumines it once more; and lifts up the pot three several times, putting it down each time further north of the fire. Thereupon he warms the two spoons; and wipes them with his hand; and having warmed them once more, he says to the sacrificer, ‘I ladle!’ The latter, while standing, replies, ‘Om, ladle!’
 
-[^750]: 331:2 For the Agnihotra-hava<i>n</i>î, or offering-spoon (sru<i>k</i>), used at the morning and evening libation, and made of Vikankata wood (Flacourtia Sapida), see [p. 67](Book_1_1_2#p67), note [2](Book_1_1_3#fn207). In the case of those who make five cuttings from the havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](Book_1_1_7#p192) note) he takes five sruva-fuls. Kâty. IV, 14, 10, Comm.
+[^750]: 331:2 For the Agnihotra-hava<i>n</i>î, or offering-spoon (sru<i>k</i>), used at the morning and evening libation, and made of Vikankata wood (Flacourtia Sapida), see [p. 67](../Book_1_1_2#p67), note [2](../Book_1_1_3#fn207). In the case of those who make five cuttings from the havis (pa<i>ñ</i><i>k</i>âvattin, cf. [p. 192](../Book_1_1_7#p192) note) he takes five sruva-fuls. Kâty. IV, 14, 10, Comm.
 
 [^751]: 331:3 Viz. by the four teats of the udder. Comm.
 
@@ -361,7 +361,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^772]: 338:5 Here Yama is apparently taken as (the god of) death and destruction, caused, as Professor Weber suggests, by the warlike expeditions of Na<i>d</i>a, king of Nishadha, in the south.
 
-[^773]: 339:1 That is, the fire on which the Anvâhârya mess of rice, the priests' Dakshi<i>n</i>a at the new and full-moon sacrifice, is cooked. See I, 2, 3, 5; [p. 49](Book_1_1_2#p49), note [1](Book_1_1_2#fn173).
+[^773]: 339:1 That is, the fire on which the Anvâhârya mess of rice, the priests' Dakshi<i>n</i>a at the new and full-moon sacrifice, is cooked. See I, 2, 3, 5; [p. 49](../Book_1_1_2#p49), note [1](../Book_1_1_2#fn173).
 
 [^774]: 342:1 Ity âbilam âsa, i.e. ‘there was a (general rush) to a hole,’ (or perhaps ‘to the outlet.’)
 
@@ -395,4 +395,4 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^789]: 354:1 Doshâvastar, ‘the illuminer of the dusk;’ or perhaps, as Professor Ludwig proposes, ‘We approach thee, day by day, at dusk and dawn (in the evening and morning), with prayer.’
 
-[^790]: 356:1 Or, the Sâvitrî, that is, the sacred prayer to Savit<i>ri</i>, the sun, also called Gâyatrî, Rig-veda III, 62, to. Cf. [p. 344](Book_1_2_3#p344), note [1](Book_1_2_3#fn772).
+[^790]: 356:1 Or, the Sâvitrî, that is, the sacred prayer to Savit<i>ri</i>, the sun, also called Gâyatrî, Rig-veda III, 62, to. Cf. [p. 344](../Book_1_2_3#p344), note [1](../Book_1_2_3#fn772).

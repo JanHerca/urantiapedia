@@ -184,7 +184,7 @@ Zarathu<i>s</i>tra [^81].
 
 [^54]: 8:1 A verse or verses may here have fallen out.
 
-[^55]: 8:2 I cannot persuade myself to accept the nearly universally accepted comparison of Mazd<i>a</i>u and medhâ. See note on [p. 104](Gathas_43#p104).
+[^55]: 8:2 I cannot persuade myself to accept the nearly universally accepted comparison of Mazd<i>a</i>u and medhâ. See note on [p. 104](../Gathas_43#p104).
 
 [^56]: 8:3 Or, ‘He has done by Daêvas?’ If thus, absolute and not qualified sovereignty would be indicated. See the last line
 

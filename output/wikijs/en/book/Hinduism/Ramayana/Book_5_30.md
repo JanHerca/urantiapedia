@@ -158,7 +158,7 @@ The orders which he fiercely spake:
 ‘See that ye guard her well, and tame,
 Like some wild thing, the stubborn dame,
 Until her haughty boul be bent
-By mingled threat and blandishment.'  [1b](Book_5_30#fn842)
+By mingled threat and blandishment.'  [1b](../Book_5_30#fn842)
 &nbsp;&nbsp;&nbsp;&nbsp;The monsters heard: away he strode,
 And passed within his queens' abode.
 
@@ -290,8 +290,8 @@ She lay and wept and made her moan
 In sorrow's saddest undertone,
 And, wild with grief, with fear appalled,
 On Ráma and his brother called:
-‘O dear Kaus'alyá, [1](Book_5_30#fn847) hear me cry!
-Sweet Queen Sumitrá  [2](Book_5_30#fn848), list my sigh!
+‘O dear Kaus'alyá, [1](../Book_5_30#fn847) hear me cry!
+Sweet Queen Sumitrá  [2](../Book_5_30#fn848), list my sigh!
 True is the saw the wise declare:
 Death comes not to relieve despair.
 ‘Tis vain for dame or man to pray;
@@ -407,10 +407,10 @@ The monarch of our race she threw,
 He rose erect, he danced and laughed,
 With thirsty lips the oil he quaffed,
 Then with wild eyes and streaming mouth
-Sped on the chariot to the south.  [1](Book_5_30#fn849)
+Sped on the chariot to the south.  [1](../Book_5_30#fn849)
 Then, dropping oil from every limb,
 His sons the princes followed him,
-And Kumbhakarna,  [2](Book_5_30#fn850) shaved and shorn,
+And Kumbhakarna,  [2](../Book_5_30#fn850) shaved and shorn,
 Was southward on a camel borne.
 Then royal Lanká reeled and fell
 With gate and tower and citadel,

@@ -285,7 +285,7 @@ But now-a-days young men seek only pleasure. Careless of their duty to parent an
 
 [^4]: The expressions of humility are conventional. Kyusō had the highest influence and honours given by the Tokugawa to a scholar. He was admitted to the immediate presence of the Shōgun and was consulted on affairs of state.
 
-[^5]: The Sō, [pp. 4-5](Introduction#p4) above. The philosophy of Tei-Shu, [p. 5](Introduction#p5) above.
+[^5]: The Sō, [pp. 4-5](../Introduction#p4) above. The philosophy of Tei-Shu, [p. 5](../Introduction#p5) above.
 
 [^6]: A teaching that governs one's own life.
 
@@ -297,9 +297,9 @@ But now-a-days young men seek only pleasure. Careless of their duty to parent an
 
 [^9]: The Gen (Yuen) dynasty was Mongol, A.D. 1280-1368, and was succeeded by the Min (Mings), 1368-1644. “The Middle Kingdom,” Vol. II., pp. 175-179.
 
-[^10]: The text here has a list of Chinese scholars whose names are omitted in the translation in accordance with what is said on [pp. 26-27](Introduction#p26) above. Of the Sō, Shinseizan, Gikakuzan, of the Gen, Kiyorozai Kosoro, of the Min, Sek-kei-ken, Ko-kei-sai.
+[^10]: The text here has a list of Chinese scholars whose names are omitted in the translation in accordance with what is said on [pp. 26-27](../Introduction#p26) above. Of the Sō, Shinseizan, Gikakuzan, of the Gen, Kiyorozai Kosoro, of the Min, Sek-kei-ken, Ko-kei-sai.
 
-[^11]: Ōyōmei, [p. 10](Introduction#p10) above. His “intuitionalism” is the ###. See Mencius, Book VII., Part 1. Chap. XV., 1. [p. 44](#fn36) note below.
+[^11]: Ōyōmei, [p. 10](../Introduction#p10) above. His “intuitionalism” is the ###. See Mencius, Book VII., Part 1. Chap. XV., 1. [p. 44](#fn36) note below.
 
 [^12]: The Zen sect of Buddhism, the contemplative sect which professes to use no book.
 
@@ -323,7 +323,7 @@ But now-a-days young men seek only pleasure. Careless of their duty to parent an
 
 [^22]: If by a Sage the author means Confucius then the Great Learning is not by a Sage, but is accepted as containing his teaching. The Chinese Classics, Vol. I. Prolegomena pp. 26-27. The author in the sections devoted to literature shows some familiarity with the results at least of criticism, but he does not apply it to the classics, uncritically accepting everything as written by Confucius which tradition ascribed to him.
 
-[^23]: For the Ancient Learning School, see Mr. Haga's “Note” and my “Comment” below. The “Illustrations {sic} Virtue” is a phrase of the Ōyōmei School, [p. 13](Introduction#p13), above.
+[^23]: For the Ancient Learning School, see Mr. Haga's “Note” and my “Comment” below. The “Illustrations {sic} Virtue” is a phrase of the Ōyōmei School, [p. 13](../Introduction#p13), above.
 
 [^24]: Mencius, Book III: Pt. II., Chapter IX. The quotation is not verbal.
 

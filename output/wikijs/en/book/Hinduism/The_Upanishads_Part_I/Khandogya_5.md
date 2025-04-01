@@ -56,9 +56,9 @@ FIFTH PRAPÂTHAKA [^226].
 
 11\. The mind departed, and having been absent for a year, it came round and said: ‘How have you been able to live without me?’ They replied: ‘Like children whose mind is not yet formed, but breathing with the breath, speaking with the tongue, seeing with the eye, hearing with the ear. Thus we lived.’ Then the mind went back.
 
-12\. The breath, when on the point of departing, tore up the other senses, as a horse, going to start, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> might tear up the pegs to which he is tethered [1](Khandogya_5#fn228). They came to him and said: ‘Sir, be thou (our lord); thou art the best among us. Do not depart from us!’
+12\. The breath, when on the point of departing, tore up the other senses, as a horse, going to start, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> might tear up the pegs to which he is tethered [1](../Khandogya_5#fn228). They came to him and said: ‘Sir, be thou (our lord); thou art the best among us. Do not depart from us!’
 
-13\. Then the tongue said to him: ‘If I am the richest, thou art the richest.’ The eye said to him: ‘If I am the firm rest, thou art the firm rest [2](Khandogya_5#fn229).’
+13\. Then the tongue said to him: ‘If I am the richest, thou art the richest.’ The eye said to him: ‘If I am the firm rest, thou art the firm rest [2](../Khandogya_5#fn229).’
 
 14\. The ear said to him: ‘If I am success, thou art success.’ The mind said to him: ‘If I am the home, thou art the home.’
 

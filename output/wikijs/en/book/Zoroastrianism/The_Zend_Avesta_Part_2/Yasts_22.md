@@ -219,7 +219,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 [^1415]: 321:3 One of the first disciples of Zoroaster; cf. Yt. XIII, 96.
 
-[^1416]: 321:4 Cf. [p. 33](Yasts_1#p33), note [2](Yasts_1#fn173).
+[^1416]: 321:4 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173).
 
 [^1418]: 322:1 § 38 = Yt. I, 31.
 

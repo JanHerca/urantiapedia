@@ -78,7 +78,7 @@ O <i>G</i>anardana! seeing this mild, human form of yours, I am new in my right 
 
 The Deity said:
 
-Even the gods are always desiring to see this form of mine, which it is difficult to get a sight of, and which you have seen. I cannot be seen, as you have seen me, by (means of) the Vedas, not by penance, not by gift, nor yet by sacrifice. But, O Ar<i>g</i>una! by devotion to me exclusively, I can in this form be truly known, seen, and assimilated [1](Bhagavadgita_12#fn402) with, O terror of your foes! He who performs acts for (propitiating) me, to whom I am the highest (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he, O son of Pâ<i>nd</i>u! comes to me.
+Even the gods are always desiring to see this form of mine, which it is difficult to get a sight of, and which you have seen. I cannot be seen, as you have seen me, by (means of) the Vedas, not by penance, not by gift, nor yet by sacrifice. But, O Ar<i>g</i>una! by devotion to me exclusively, I can in this form be truly known, seen, and assimilated [1](../Bhagavadgita_12#fn402) with, O terror of your foes! He who performs acts for (propitiating) me, to whom I am the highest (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he, O son of Pâ<i>nd</i>u! comes to me.
 
 
 
@@ -110,7 +110,7 @@ Even the gods are always desiring to see this form of mine, which it is difficul
 
 [^388]: 92:1 Madhusûdana takes power to mean capacity of becoming small or great, of obtaining what is wanted, &c.; the so-called eight Bhûtis.
 
-[^389]: 93:1 Cf. [p. 90](Bhagavadgita_10#p90) supra. <i>S</i>ankara explains it as meaning ‘pervading everything.’ The expression occurs in the N<i>ri</i>simha-tâpinî-upanishad, p. 50, where it is said, ‘as, without organs, it sees, hears, goes, takes from all sides and pervades everything, therefore it has faces on all sides.’
+[^389]: 93:1 Cf. [p. 90](../Bhagavadgita_10#p90) supra. <i>S</i>ankara explains it as meaning ‘pervading everything.’ The expression occurs in the N<i>ri</i>simha-tâpinî-upanishad, p. 50, where it is said, ‘as, without organs, it sees, hears, goes, takes from all sides and pervades everything, therefore it has faces on all sides.’
 
 [^390]: 93:2 Gods, manes, men, and so forth.
 
@@ -126,11 +126,11 @@ Even the gods are always desiring to see this form of mine, which it is difficul
 
 [^396]: 96:2 Ar<i>g</i>una, who had this coronet given him by Indra.—Madhusûdana.
 
-[^397]: 96:3 The commentators interpret this to mean the perceptible, the unperceived, and the higher principle. Cf. [p. 84](Bhagavadgita_9#p84) supra, and also pp. [103](Bhagavadgita_13#p103), [113](Bhagavadgita_15#p113) infra and notes there.
+[^397]: 96:3 The commentators interpret this to mean the perceptible, the unperceived, and the higher principle. Cf. [p. 84](../Bhagavadgita_9#p84) supra, and also pp. [103](../Bhagavadgita_13#p103), [113](../Bhagavadgita_15#p113) infra and notes there.
 
 [^398]: 97:1 See [p. 94](#p94) supra. Here the commentators say the words mean ‘that in which the universe is placed at deluge-time.’
 
-[^399]: 97:2 Professor Tiele mentions great-grandfather as a name for the Creator among Kaffirs (History of Religion, p. 18). Cf. [p. 83](Bhagavadgita_9#p83) supra.
+[^399]: 97:2 Professor Tiele mentions great-grandfather as a name for the Creator among Kaffirs (History of Religion, p. 18). Cf. [p. 83](../Bhagavadgita_9#p83) supra.
 
 [^400]: 97:3 I. e. of whom it is impossible to ascertain whether he is such or such. Cf. [p. 94](#p94) supra.
 

@@ -68,37 +68,37 @@ Then those Brâhma<i>n</i>as, who were the best of sages, having again felt doub
 
 ## Footnotes
 
-[^1926]: 372:1 See [p. 351](Anugita_28#p351) supra.
+[^1926]: 372:1 See [p. 351](../Anugita_28#p351) supra.
 
-[^1927]: 372:2 See Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1927]: 372:2 See Gîtâ, [p. 109](../Bhagavadgita_14#p109).
 
-[^1928]: 372:3 As to the first two clauses comp. pp. [284](Anugita_11#p284)\-[371](Anugita_32#p371) supra; the last two are said by Ar<i>g</i>una Mi<i>s</i>ra to represent the Sânkhya and Yoga doctrines respectively.
+[^1928]: 372:3 As to the first two clauses comp. pp. [284](../Anugita_11#p284)\-[371](../Anugita_32#p371) supra; the last two are said by Ar<i>g</i>una Mi<i>s</i>ra to represent the Sânkhya and Yoga doctrines respectively.
 
 [^1929]: 372:4 I presume this means all teachers. But Nîlaka<i>nth</i>a takes it to mean the Sânkhyas, and he takes the preceding words as indicating two views based on <i>S</i>ruti texts, viz. the first, that the world is a development of the Brahman, and the other that the Brahman does not undergo any development or change. Anâmaya he takes to mean changeless, and Brahmamaya he takes to mean developed from the Brahman.
 
-[^1930]: 372:5 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [78](Bhagavadgita_8#p78).
+[^1930]: 372:5 Cf. Gîtâ, pp. [77](../Bhagavadgita_7#p77), [78](../Bhagavadgita_8#p78).
 
-[^1931]: 372:6 One who sees the supreme as the only real entity, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a takes it to mean one who identifies himself with everything. See Gîtâ, [p. 65](Bhagavadgita_5#p65), and note [4](Bhagavadgita_3#fn172) there.
+[^1931]: 372:6 One who sees the supreme as the only real entity, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a takes it to mean one who identifies himself with everything. See Gîtâ, [p. 65](../Bhagavadgita_5#p65), and note [4](../Bhagavadgita_3#fn172) there.
 
-[^1932]: 372:7 See [p. 344](Anugita_27#p344) supra.
+[^1932]: 372:7 See [p. 344](../Anugita_27#p344) supra.
 
 [^1933]: 372:8 I. e. the goal to be acquired.
 
-[^1934]: 372:9 ‘Tranquillity’—the original may also be rendered by ‘favour,’ p. 373 as to which cf. [p. 234](Anugita_1#p234) supra, but further on the phrase ‘having a tranquil self’ occurs, where the latter sense is not quite suitable. See Gîtâ, [p. 51](Bhagavadgita_2#p51), and Yoga-sûtra I, 33.
+[^1934]: 372:9 ‘Tranquillity’—the original may also be rendered by ‘favour,’ p. 373 as to which cf. [p. 234](../Anugita_1#p234) supra, but further on the phrase ‘having a tranquil self’ occurs, where the latter sense is not quite suitable. See Gîtâ, [p. 51](../Bhagavadgita_2#p51), and Yoga-sûtra I, 33.
 
-[^1935]: 373:1 I. e. the specific modes which are mentioned of control of life-winds, e. g. at Gîtâ, [p. 61](Bhagavadgita_4#p61), or Yoga-sûtra II, 49 seq.
+[^1935]: 373:1 I. e. the specific modes which are mentioned of control of life-winds, e. g. at Gîtâ, [p. 61](../Bhagavadgita_4#p61), or Yoga-sûtra II, 49 seq.
 
 [^1936]: 373:2 Nîlaka<i>nth</i>a proposes two interpretations of this. He says the ten are the eight mentioned in Yoga-sûtra II, 29, and in addition tarka and vairâgya (as to which see Yoga-sûtra I, 15 and 17). To make up the twelve he substitutes for the last two the four named at Yoga-sûtra I, 33. He also suggests that ‘ten or twelve’ may mean twenty-two, which he makes up thus. The five modes of yama (Yoga-sûtra II, 30), five of niyama (ibid. 32), the remaining six in Yoga-sûtra II, 29, the four in Yoga-sûtra I, 33, and tarka and vairâgya as before.
 
-[^1937]: 373:3 The twenty-four are the elements according to the Sânkhya system. See Sânkhya-sâra, p. 11, and [p. 368](Anugita_31#p368) supra. That which is beyond them is Purusha.
+[^1937]: 373:3 The twenty-four are the elements according to the Sânkhya system. See Sânkhya-sâra, p. 11, and [p. 368](../Anugita_31#p368) supra. That which is beyond them is Purusha.
 
-[^1938]: 373:4 The unperceived, it should be noted, is made up of the three qualities; the predominance of goodness indicates enlightenment or knowledge. Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1938]: 373:4 The unperceived, it should be noted, is made up of the three qualities; the predominance of goodness indicates enlightenment or knowledge. Cf. Gîtâ, [p. 108](../Bhagavadgita_14#p108).
 
 [^1939]: 373:5 The middle term in the inference being, says Ar<i>g</i>una Mi<i>s</i>ra, the enlightening effect of the quality in question.
 
-[^1940]: 373:6 Cf. [p. 167](Sanatsugatiya_3#p167) supra.
+[^1940]: 373:6 Cf. [p. 167](../Sanatsugatiya_3#p167) supra.
 
-[^1941]: 373:7 The original is tyâga, which Ar<i>g</i>una Mi<i>s</i>ra renders by ‘abandonment of all belongings;’ renunciation, scil. of fruit. Cf. Gîtâ, [p. 121](Bhagavadgita_17#p121), and [p. 114](Bhagavadgita_15#p114).
+[^1941]: 373:7 The original is tyâga, which Ar<i>g</i>una Mi<i>s</i>ra renders by ‘abandonment of all belongings;’ renunciation, scil. of fruit. Cf. Gîtâ, [p. 121](../Bhagavadgita_17#p121), and [p. 114](../Bhagavadgita_15#p114).
 
 [^1942]: 374:1 Here, says Nîlaka<i>nth</i>a, the author indicates an objection to the proposition stated just before. But the passage is not clear.
 

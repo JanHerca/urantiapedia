@@ -522,7 +522,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 [^300]: 55:3 Cf. §§ 11, 124.
 
-[^301]: 56:1 As above, [p. 30](Yasts_1#p30); § 9 is repeated at the end of every chapter.
+[^301]: 56:1 As above, [p. 30](../Yasts_1#p30); § 9 is repeated at the end of every chapter.
 
 [^302]: 56:2 § 10 = § 2.
 
@@ -532,7 +532,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 [^305]: 57:1 As above, § 10.
 
-[^306]: 57:2 Cf. [p. 26](Yasts_1#p26), note [2](Yasts_1#fn120).
+[^306]: 57:2 Cf. [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
 
 [^307]: 57:3 Doubtful; cf. Yt. VIII, 47.
 
@@ -544,7 +544,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 [^311]: 57:7 Cf. Yt. III, 18.
 
-[^312]: 58:1 Haoshyangha was the first king of the Paradhâta (Pêshdâdyan) dynasty (cf. above, [p. 7](Sirozahs_1#p7), note [2](Sirozahs_1#fn40), and Bundahi<i>s</i> XXXI, 1). It is related in Firdausi's Shâh Nâmah that he was the grandson of Gayomarth, the first man and king, and the son of Syâmak; that his father having been killed by the black Dîv, he encountered him at the head of an army of lions, tigers, birds, and Paris, and destroyed him; he then succeeded his grandfather, and reigned supreme over the seven Keshvars of the earth.
+[^312]: 58:1 Haoshyangha was the first king of the Paradhâta (Pêshdâdyan) dynasty (cf. above, [p. 7](../Sirozahs_1#p7), note [2](../Sirozahs_1#fn40), and Bundahi<i>s</i> XXXI, 1). It is related in Firdausi's Shâh Nâmah that he was the grandson of Gayomarth, the first man and king, and the son of Syâmak; that his father having been killed by the black Dîv, he encountered him at the head of an army of lions, tigers, birds, and Paris, and destroyed him; he then succeeded his grandfather, and reigned supreme over the seven Keshvars of the earth.
 
 [^313]: 58:2 Doubtful: upabda = upabanda, as thribda (Yt. VIII, 55) = thribanda; it appears from Yt. XV, 7 that the place meant here is the Taêra which is said in the Bundahi<i>s</i> (V, 7) to be surrounded by the Albôrz (the Hara).
 
@@ -656,7 +656,7 @@ In the Vedic mythology the Gandharva is the keeper of Soma, and is described now
 
 [^366]: 71:2 Cf. Yt. XIII, 113.
 
-[^367]: 71:3 Cf. above, [p. 6](Sirozahs_1#p6), note [1](Sirozahs_1#fn28).
+[^367]: 71:3 Cf. above, [p. 6](../Sirozahs_1#p6), note [1](../Sirozahs_1#fn28).
 
 [^368]: 71:4 A Turanian tribe, Yt. XIII, 37-38.
 

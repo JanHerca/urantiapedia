@@ -97,11 +97,11 @@ He whose mind is always wavering, does not reach abstract contemplation [^217]. 
 
 Whatever [^218] a faithful, well-disposed man, on entering the order, thought to be true, that may afterwards appear to him true; what he thought to be true, that may afterwards appear to him untrue; what he thought to be untrue, that may afterwards appear to him true; what he thought to be untrue, that may afterwards appear to him true. What he thinks to be true, that may, on consideration, appear to him true, whether it be true or untrue. What he thinks to be untrue, that may, on consideration, appear to him untrue, whether it be true or untrue. But he <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> who reflects should say unto him who does not reflect: Consider it to be true. Thus the connection (i.e. the continuity of sins) is broken. (3)
 
-Regard this as the course of the zealous one, who stands (in obedience to the spiritual guide). In this point do not show yourself a fool [1](Akaranga_1_5#fn219)!
+Regard this as the course of the zealous one, who stands (in obedience to the spiritual guide). In this point do not show yourself a fool [1](../Akaranga_1_5#fn219)!
 
-As it would be unto thee, so it is with him whom thou intendest to kill. As it would be unto thee, so it is with him whom thou intendest to tyrannise over. As it would be unto thee, so it is with him whom thou intendest to torment. I n the same way (it is with him) whom thou intendest to punish, and to drive away. The righteous man who lives up to these sentiments, does therefore neither kill nor cause others to kill (living beings). He should not intentionally cause the same punishment for himself [2](Akaranga_1_5#fn220). (4)
+As it would be unto thee, so it is with him whom thou intendest to kill. As it would be unto thee, so it is with him whom thou intendest to tyrannise over. As it would be unto thee, so it is with him whom thou intendest to torment. I n the same way (it is with him) whom thou intendest to punish, and to drive away. The righteous man who lives up to these sentiments, does therefore neither kill nor cause others to kill (living beings). He should not intentionally cause the same punishment for himself [2](../Akaranga_1_5#fn220). (4)
 
-The Self is the knower (or experiencer), and the knower is the Self. That through which one knows, is the Self. With regard to this (to know) it (the Self) is established [3](Akaranga_1_5#fn221). Such is he who maintains the right doctrine of Self. This subject has truly been explained. Thus I say. (5)
+The Self is the knower (or experiencer), and the knower is the Self. That through which one knows, is the Self. With regard to this (to know) it (the Self) is established [3](../Akaranga_1_5#fn221). Such is he who maintains the right doctrine of Self. This subject has truly been explained. Thus I say. (5)
 
 
 

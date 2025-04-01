@@ -106,7 +106,7 @@ What is it that we call the Tâo [^420]? There is the Tâo, or Way of Heaven; an
 
 ## Footnotes
 
-[^429]: 291:1 See pp. [142](Kwang_dze_Intro#p142), [143](Kwang_dze_Intro#p143).
+[^429]: 291:1 See pp. [142](../Kwang_dze_Intro#p142), [143](../Kwang_dze_Intro#p143).
 
 [^430]: 292:1 I supply the ‘it is as if,’ after the example of the critic Lû Shû-kih, who here introduces a ![](/image/book/Taoism/Taoist_texts_vol_1/29200.jpg) in his commentary ( ![](/image/book/Taoism/Taoist_texts_vol_1/29201.jpg)). What the text seems to state as a fact is only an illustration. Compare the concluding paragraphs in all the Sections and Parts of the fourth Book of the Lî Kî.
 
@@ -152,7 +152,7 @@ What is it that we call the Tâo [^420]? There is the Tâo, or Way of Heaven; an
 
 [^452]: 301:1 Probably, the yin, the yang, wind, rain, darkness, and light; see Mayers, p. 323.
 
-[^453]: 301:2 See introduction, pp. [17](Introduction_3#p17), [18](Introduction_3#p18).
+[^453]: 301:2 See introduction, pp. [17](../Introduction_3#p17), [18](../Introduction_3#p18).
 
 [^454]: 301:3 Compare in Book XXIII, par. x.
 

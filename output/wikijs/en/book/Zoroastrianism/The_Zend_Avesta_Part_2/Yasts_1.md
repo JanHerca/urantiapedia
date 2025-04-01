@@ -385,7 +385,7 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 [^146]: 30:1 From Yasna XLIV, 16; cf. Vendîdâd VIII, 20.
 
-[^147]: 30:2 See Sîrôzah I, 9, [p. 7](Sirozahs_1#p7), note [2](Sirozahs_1#fn40).
+[^147]: 30:2 See Sîrôzah I, 9, [p. 7](../Sirozahs_1#p7), note [2](../Sirozahs_1#fn40).
 
 [^148]: 30:3 Irân Vê<i>g</i>; see Vendîdâd, p. 3.
 

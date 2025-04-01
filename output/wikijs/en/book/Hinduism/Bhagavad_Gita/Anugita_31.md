@@ -72,7 +72,7 @@ Thus [^1813] duly studying to the best of his power, in the way above [^1814] st
 
 [^1823]: 360:4 Cf. Taittirîya, p. 129; <i>S</i>ânti Parvan (Moksha), chap. 192, st. 6.
 
-[^1824]: 360:5 Cf. Gîtâ, [p. 69](Bhagavadgita_6#p69). Ar<i>g</i>una Mi<i>s</i>ra says, ‘Having exercise by means of standing and sitting; the meaning is not sleeping except at the proper time.’
+[^1824]: 360:5 Cf. Gîtâ, [p. 69](../Bhagavadgita_6#p69). Ar<i>g</i>una Mi<i>s</i>ra says, ‘Having exercise by means of standing and sitting; the meaning is not sleeping except at the proper time.’
 
 [^1825]: 360:6 Cf. Manu II, 41 seq.
 
@@ -86,33 +86,33 @@ Thus [^1813] duly studying to the best of his power, in the way above [^1814] st
 
 [^1830]: 361:5 I. e. who is a mendicant ascetic.
 
-[^1831]: 361:6 Cf. [p. 173](Sanatsugatiya_3#p173) supra, note [9](Sanatsugatiya_3#fn810). Here he gives a. description of the third order of forester, as to which compare generally Manu VI.
+[^1831]: 361:6 Cf. [p. 173](../Sanatsugatiya_3#p173) supra, note [9](../Sanatsugatiya_3#fn810). Here he gives a. description of the third order of forester, as to which compare generally Manu VI.
 
 [^1832]: 361:7 First the jungle-products, then air, &c., Ar<i>g</i>una Mi<i>s</i>ra. The sense seems to be that the restrictions should become gradually harder. Cf. Manu VI, 24-31; Âpastamba II, 9, 22, 2 seq.; II, 9, 23, 2.
 
 [^1833]: 361:8 I. e. whatever restriction he put on himself when entering upon the particular mode of life.
 
-[^1834]: 361:9 Supra, [p. 358](Anugita_30#p358), and cf. Taittirîya, p. 38.
+[^1834]: 361:9 Supra, [p. 358](../Anugita_30#p358), and cf. Taittirîya, p. 38.
 
 [^1835]: 362:1 I. e. of others for obtaining more, and so forth. Ar<i>g</i>una Mi<i>s</i>ra's reading is different, and he renders it to mean, ‘one by whom the rule of life as a Brahma<i>k</i>ârin has not been violated.’
 
 [^1836]: 362:2 Ar<i>g</i>una Mi<i>s</i>ra's reading, ‘one who has cast away (all attachment to) the body.’ Compare as to hair and moustache, Manu VI, 6 seq.
 
-[^1837]: 362:3 See Gîtâ, [p. 127](Bhagavadgita_18#p127). Here the meaning is probably assiduous in the performance of duties, vows, and so forth.
+[^1837]: 362:3 See Gîtâ, [p. 127](../Bhagavadgita_18#p127). Here the meaning is probably assiduous in the performance of duties, vows, and so forth.
 
 [^1838]: 362:4 I. e. applies himself to his duties.
 
-[^1839]: 362:5 Ar<i>g</i>una Mi<i>s</i>ra says this means ânandâ<i>s</i>ramam, but there must be some bad copying here. I take the word as it stands to mean something like the ‘godlike endowments’ at Gîtâ, [p. 114](Bhagavadgita_15#p114).
+[^1839]: 362:5 Ar<i>g</i>una Mi<i>s</i>ra says this means ânandâ<i>s</i>ramam, but there must be some bad copying here. I take the word as it stands to mean something like the ‘godlike endowments’ at Gîtâ, [p. 114](../Bhagavadgita_15#p114).
 
-[^1840]: 362:6 See Gîtâ, pp. [54](Bhagavadgita_3#p54), [127](Bhagavadgita_18#p127). The meaning here is probably that of action without egoism. See Gîtâ, [p. 55](Bhagavadgita_3#p55).
+[^1840]: 362:6 See Gîtâ, pp. [54](../Bhagavadgita_3#p54), [127](../Bhagavadgita_18#p127). The meaning here is probably that of action without egoism. See Gîtâ, [p. 55](../Bhagavadgita_3#p55).
 
 [^1841]: 362:7 I. e. Ar<i>g</i>una Mi<i>s</i>ra says, ‘not at night.’ The readings are unsatisfactory. I read k<i>ri</i>tvâ vahnim, but diffidently. Is the allusion to the rule at Âpastamba II, 9, 2 1, 10? Cf. Gautama III, 2 7.
 
 [^1842]: 362:8 Cf. Kaushîtaki, p. 32.
 
-[^1843]: 362:9 I. e. to the giver. Cf. Gîtâ, [p. 120](Bhagavadgita_17#p120).
+[^1843]: 362:9 I. e. to the giver. Cf. Gîtâ, [p. 120](../Bhagavadgita_17#p120).
 
-[^1844]: 362:10 See Gîtâ, [p. 10](Bhagavadgita_Intro#p10).
+[^1844]: 362:10 See Gîtâ, [p. 10](../Bhagavadgita_Intro#p10).
 
 [^1845]: 362:11 Cf. Manu VI, 56; Gautama III, 15.
 
@@ -120,9 +120,9 @@ Thus [^1813] duly studying to the best of his power, in the way above [^1814] st
 
 [^1847]: 363:2 See Manu VI, 55. As to proper time further on, see last note.
 
-[^1848]: 363:3 Cf. Sanatsu<i>g</i>âtîya, pp. [45](Bhagavadgita_2#p45)\-[147](Sanatsugatiya_Intro#p147); ‘without respect’ at Gîtâ, [p. 120](Bhagavadgita_17#p120), means probably with disrespect, otherwise that passage and this would be somewhat inconsistent. See too Manu II, 162.
+[^1848]: 363:3 Cf. Sanatsu<i>g</i>âtîya, pp. [45](../Bhagavadgita_2#p45)\-[147](../Sanatsugatiya_Intro#p147); ‘without respect’ at Gîtâ, [p. 120](../Bhagavadgita_17#p120), means probably with disrespect, otherwise that passage and this would be somewhat inconsistent. See too Manu II, 162.
 
-[^1849]: 363:4 Cf. Manu II, 56; Gîtâ, [p. 118](Bhagavadgita_17#p118); and [p. 269](Anugita_7#p269) supra.
+[^1849]: 363:4 Cf. Manu II, 56; Gîtâ, [p. 118](../Bhagavadgita_17#p118); and [p. 269](../Anugita_7#p269) supra.
 
 [^1850]: 363:5 As that other may get nothing if they go together, Ar<i>g</i>una Mi<i>s</i>ra Cf. Manu VI, 51.
 
@@ -132,13 +132,13 @@ Thus [^1813] duly studying to the best of his power, in the way above [^1814] st
 
 [^1853]: 364:2 This seems to be very like the practice of the Gainas of the present day. And cf. Manu VI, 69.
 
-[^1854]: 364:3 Cf. Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[103](Bhagavadgita_13#p103).
+[^1854]: 364:3 Cf. Gîtâ, pp. [68](../Bhagavadgita_6#p68)\-[103](../Bhagavadgita_13#p103).
 
-[^1855]: 364:4 Cf. Gîtâ, [p. 114](Bhagavadgita_15#p114), and cf. also Sanatsu<i>g</i>âtîya, [p. 153](Sanatsugatiya_2#p153).
+[^1855]: 364:4 Cf. Gîtâ, [p. 114](../Bhagavadgita_15#p114), and cf. also Sanatsu<i>g</i>âtîya, [p. 153](../Sanatsugatiya_2#p153).
 
 [^1856]: 364:5 That is to say, obtained without violation of any binding obligation, or rule of the Sâstras.
 
-[^1857]: 364:6 Cf. Gîtâ, [p. 117](Bhagavadgita_16#p117).
+[^1857]: 364:6 Cf. Gîtâ, [p. 117](../Bhagavadgita_16#p117).
 
 [^1858]: 364:7 This is not very clear, and Ar<i>g</i>una Mi<i>s</i>ra's comments are not intelligible. The sense seems to be this, ‘He should not take more than is wanted, nor should he keep any accumulations from which to give to others, but should at once share with others all that is earned.’
 
@@ -146,80 +146,80 @@ Thus [^1813] duly studying to the best of his power, in the way above [^1814] st
 
 [^1860]: 365:2 I. e. apparently, taken possession of and preserved as one's own by anybody.
 
-[^1861]: 365:3 Ar<i>g</i>una Mi<i>s</i>ra renders this by ‘which lead to action.’ Is it not rather the ‘spontaneous earnings’ at Gîtâ, [p. 60](Bhagavadgita_4#p60)?
+[^1861]: 365:3 Ar<i>g</i>una Mi<i>s</i>ra renders this by ‘which lead to action.’ Is it not rather the ‘spontaneous earnings’ at Gîtâ, [p. 60](../Bhagavadgita_4#p60)?
 
 [^1862]: 365:4 Cf. Manu III, 64; Âpastamba I, 6, 18, 18; Gautama XVII, 7.
 
 [^1863]: 365:5 I. e. teach one who does not ask to be instructed. Cf. Manu II, 110.
 
-[^1864]: 365:6 Cf. Gîtâ, [p. 60](Bhagavadgita_4#p60); the original word, however, is not the same.
+[^1864]: 365:6 Cf. Gîtâ, [p. 60](../Bhagavadgita_4#p60); the original word, however, is not the same.
 
-[^1865]: 365:7 See [p. 360](Anugita_30#p360), note [^1815] supra; Manu II, 54-55; Gautama IX) 59. ‘Controversies;’ the original is nimitta, and the interpretation is what appears to be Ar<i>g</i>una Mi<i>s</i>ra's. It may also mean ‘omens.’ That this is the true sense appears from Manu VI, 50.
+[^1865]: 365:7 See [p. 360](../Anugita_30#p360), note [^1815] supra; Manu II, 54-55; Gautama IX) 59. ‘Controversies;’ the original is nimitta, and the interpretation is what appears to be Ar<i>g</i>una Mi<i>s</i>ra's. It may also mean ‘omens.’ That this is the true sense appears from Manu VI, 50.
 
-[^1866]: 365:8 Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48).
+[^1866]: 365:8 Cf. Gîtâ, [p. 48](../Bhagavadgita_2#p48).
 
 [^1867]: 365:9 Ar<i>g</i>una Mi<i>s</i>ra says, ‘e. g. I shall come to you to-morrow for alms,’ &c. Cf. Âpastamba I, 6, 19, 12.
 
-[^1868]: 365:10 The words are the same as at Gîtâ, [p. 54](Bhagavadgita_3#p54), keeping people (to p. 366 their duties),' but the sense seems to be different. The commentators say nothing on this.
+[^1868]: 365:10 The words are the same as at Gîtâ, [p. 54](../Bhagavadgita_3#p54), keeping people (to p. 366 their duties),' but the sense seems to be different. The commentators say nothing on this.
 
-[^1869]: 366:1 Cf. Gîtâ, [p. 101](Bhagavadgita_12#p101).
+[^1869]: 366:1 Cf. Gîtâ, [p. 101](../Bhagavadgita_12#p101).
 
-[^1870]: 366:2 I. e. one should not look to the future with any aspirations or expectations, and should not look back on the past with grief. Ar<i>g</i>una Mi<i>s</i>ra. See too [p. 170](Sanatsugatiya_3#p170), note [9](Sanatsugatiya_3#fn784) supra.
+[^1870]: 366:2 I. e. one should not look to the future with any aspirations or expectations, and should not look back on the past with grief. Ar<i>g</i>una Mi<i>s</i>ra. See too [p. 170](../Sanatsugatiya_3#p170), note [9](../Sanatsugatiya_3#fn784) supra.
 
 [^1871]: 366:3 I am not sure if this is a correct interpretation. But it does not seem likely that the other possible sense—literally ‘expecting time’—can be intended here.
 
 [^1872]: 366:4 This is obscure. Is the sense this, that one should not observe, or think, or speak badly or of the bad side of things?
 
-[^1873]: 366:5 Cf. [p. 342](Anugita_27#p342) supra, note [1](Anugita_27#fn1670).
+[^1873]: 366:5 Cf. [p. 342](../Anugita_27#p342) supra, note [1](../Anugita_27#fn1670).
 
 [^1874]: 366:6 Cf. Ka<i>th</i>a, p. 151.
 
-[^1875]: 366:7 See [p. 352](Anugita_28#p352) supra, note [1](Anugita_29#fn1749).
+[^1875]: 366:7 See [p. 352](../Anugita_28#p352) supra, note [1](../Anugita_29#fn1749).
 
-[^1876]: 366:8 Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48), where the original words are the same.
+[^1876]: 366:8 Cf. Gîtâ, [p. 48](../Bhagavadgita_2#p48), where the original words are the same.
 
-[^1877]: 367:1 Cf. Gîtâ, [p. 60](Bhagavadgita_4#p60).
+[^1877]: 367:1 Cf. Gîtâ, [p. 60](../Bhagavadgita_4#p60).
 
 [^1878]: 367:2 These are effects of Prak<i>ri</i>ti by which the Purusha is unaffected.
 
 [^1879]: 367:3 Literally, ‘pursued.’
 
-[^1880]: 367:4 This is obscure. Ar<i>g</i>una Mi<i>s</i>ra's text is nis<i>k</i>ityam. Does that mean ‘which should be accurately understood?’ The rendering in the text of Nîlaka<i>nth</i>a's reading may mean that the Brahman has no such thoughts (<i>k</i>intâ) as are referred to at Gîtâ, [p. 115](Bhagavadgita_16#p115).
+[^1880]: 367:4 This is obscure. Ar<i>g</i>una Mi<i>s</i>ra's text is nis<i>k</i>ityam. Does that mean ‘which should be accurately understood?’ The rendering in the text of Nîlaka<i>nth</i>a's reading may mean that the Brahman has no such thoughts (<i>k</i>intâ) as are referred to at Gîtâ, [p. 115](../Bhagavadgita_16#p115).
 
 [^1881]: 367:5 Does this mean the body?
 
 [^1882]: 367:6 I. e. are free from birth and death. Cf. Âpastamba I, 8, 22, 4.
 
-[^1883]: 367:7 This, again, is not quite clear. Probably the explanation is to be found in the passage at Gîtâ [p. 79](Bhagavadgita_8#p79).
+[^1883]: 367:7 This, again, is not quite clear. Probably the explanation is to be found in the passage at Gîtâ [p. 79](../Bhagavadgita_8#p79).
 
 [^1884]: 367:8 Nîlaka<i>nth</i>a's reading is ‘observances or vows.’
 
-[^1885]: 367:9 I. e. ‘not to be acquired by inference,’ Ar<i>g</i>una Mi<i>s</i>ra, [p. 35](Bhagavadgita_Intro#p35), supra.
+[^1885]: 367:9 I. e. ‘not to be acquired by inference,’ Ar<i>g</i>una Mi<i>s</i>ra, [p. 35](../Bhagavadgita_Intro#p35), supra.
 
-[^1886]: 367:10 See [p. 309](Anugita_19#p309) supra; ‘who is without symbols, and knows piety,’ according to Ar<i>g</i>una Mi<i>s</i>ra's reading.
+[^1886]: 367:10 See [p. 309](../Anugita_19#p309) supra; ‘who is without symbols, and knows piety,’ according to Ar<i>g</i>una Mi<i>s</i>ra's reading.
 
-[^1887]: 368:1 See [p. 159](Sanatsugatiya_2#p159) supra, note [7](Sanatsugatiya_2#fn685), and cf. Manu III, 109, which is the text referred to in note 5 there.
+[^1887]: 368:1 See [p. 159](../Sanatsugatiya_2#p159) supra, note [7](../Sanatsugatiya_2#fn685), and cf. Manu III, 109, which is the text referred to in note 5 there.
 
-[^1888]: 368:2 I. e. direct perception of the Brahman. See Gîtâ, [p. 57](Bhagavadgita_3#p57), note [5](Bhagavadgita_3#fn181).
+[^1888]: 368:2 I. e. direct perception of the Brahman. See Gîtâ, [p. 57](../Bhagavadgita_3#p57), note [5](../Bhagavadgita_3#fn181).
 
-[^1889]: 368:3 See [p. 160](Sanatsugatiya_2#p160) supra, note [8](Sanatsugatiya_2#fn693), and cf. also Manu II, 110.
+[^1889]: 368:3 See [p. 160](../Sanatsugatiya_2#p160) supra, note [8](../Sanatsugatiya_2#fn693), and cf. also Manu II, 110.
 
-[^1890]: 368:4 Ar<i>g</i>una Mi<i>s</i>ra compares Gîtâ, [p. 55](Bhagavadgita_3#p55), about ‘shaking convictions.’
+[^1890]: 368:4 Ar<i>g</i>una Mi<i>s</i>ra compares Gîtâ, [p. 55](../Bhagavadgita_3#p55), about ‘shaking convictions.’
 
-[^1891]: 368:5 Cf. pp. [159](Sanatsugatiya_2#p159)\-[161](Sanatsugatiya_2#p161) supra.
+[^1891]: 368:5 Cf. pp. [159](../Sanatsugatiya_2#p159)\-[161](../Sanatsugatiya_2#p161) supra.
 
 [^1892]: 368:6 This means, I presume, the good devoted to action and not to knowledge only.
 
 [^1893]: 368:7 These are the famous elements of the Sânkhyas; see Sûtra I, 61.
 
-[^1894]: 368:8 Cf. [p. 159](Sanatsugatiya_2#p159) and note [2](Sanatsugatiya_2#fn680).
+[^1894]: 368:8 Cf. [p. 159](../Sanatsugatiya_2#p159) and note [2](../Sanatsugatiya_2#fn680).
 
-[^1895]: 368:9 Cf. [p. 300](Anugita_15#p300) supra.
+[^1895]: 368:9 Cf. [p. 300](../Anugita_15#p300) supra.
 
-[^1896]: 368:10 Cf. Gîtâ, [p. 60](Bhagavadgita_4#p60).
+[^1896]: 368:10 Cf. Gîtâ, [p. 60](../Bhagavadgita_4#p60).
 
-[^1897]: 368:11 Cf. Gîtâ, [p. 82](Bhagavadgita_9#p82), note [3](Bhagavadgita_9#fn315).
+[^1897]: 368:11 Cf. Gîtâ, [p. 82](../Bhagavadgita_9#p82), note [3](../Bhagavadgita_9#fn315).
 
-[^1898]: 368:12 Of actions previously performed. See [p. 246](Anugita_4#p246) supra.
+[^1898]: 368:12 Of actions previously performed. See [p. 246](../Anugita_4#p246) supra.
 
-[^1899]: 368:13 Cf. Gîtâ, [p. 101](Bhagavadgita_12#p101), where, however, the original word is different.
+[^1899]: 368:13 Cf. Gîtâ, [p. 101](../Bhagavadgita_12#p101), where, however, the original word is different.

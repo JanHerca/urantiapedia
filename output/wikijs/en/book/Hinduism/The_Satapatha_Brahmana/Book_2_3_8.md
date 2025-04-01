@@ -302,17 +302,17 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^467]: 185:1 The text has only ‘âpyâyayanti,’ but the verb with which the author connects the verb ‘âprî’ is either â-p<i>ri</i><i>n</i>âti, he fills; or (more correctly) ‘â-prî<i>n</i>âti,’ he gratifies, propitiates, corresponding to the Zand âfrînaiti. Perhaps some words have been lost here. The Kâ<i>n</i>va text has: sa yad etâbhir âprîbhi<i>h</i> punar âpyâyata etâbhir enam âpri<i>n</i>âti tasmâd âpriyo nâma. On the Âprî verses, which form the offering-prayers (yâ<i>g</i>yâs) at the fore-offerings of the animal sacrifice, and vary according to different families, see Ait. Br. II, 4; Max Müller, Hist. of A. S. L., p. 463 seq.; Haug, Essays, p. 24r.
 
-[^468]: 185:2 See I, 5, 3, 8. The Adhvaryu calls out to the Agnîdh, ‘O <i>s</i>râvaya (make listen)!’ The Agnîdh calls out, ‘Astu <i>s</i>rausha<i>t</i> (yea, may one hear)!’ The Adhvaryu calls on the Maitrâvaru<i>n</i>a, ‘Preshya samidha<i>h</i> (prompt as to the kindling-sticks)!’ \[or, ‘Preshya Tanûnapâtam or Narâ<i>s</i>a<i>m</i>sam’ &c. in the succeeding fore-offerings.\] The Maitrâvaru<i>n</i>a calls out, ‘Hotâ yakshat samidham \[Tanûnapâtam, &c.\], (let the Hot<i>ri</i> pronounce the offering-prayer to the kindling-sticks, &c,!)’ Each offering-prayer (Âprî) is introduced p. 186 with the formula ‘Ye ya<i>g</i>âmahe, &c.’ See part i, p.148 note. The divine objects of these oblations of ghee are: 1. the Samidhs or kindling-sticks; 2. either Tanûnapât or Narâ<i>s</i>a<i>m</i>sa; 3. the I<i>d</i>as; 4. the Barhis (sacrificial grass on the altar); 5. the gates (of heaven and worshipping ground); 6. Dawn and Night; 7. the two divine Hot<i>ri</i>s; 8. the three goddesses (Sarasvatî, I<i>d</i>â, and Bhâratî); 9. Tvash<i>t</i><i>ri</i>; 10. Vanaspati (the tree, or lord of the forest); 11. the Svâhâk<i>ri</i>tis (calls of ‘All-hail,’ which at this, the last offering-prayer, are repeated before the names of the principal deities of the sacrifice). For this last fore-offering, see [III, 8, 2, 23](Book_2_3_8#v3_8_2_23) seq.
+[^468]: 185:2 See I, 5, 3, 8. The Adhvaryu calls out to the Agnîdh, ‘O <i>s</i>râvaya (make listen)!’ The Agnîdh calls out, ‘Astu <i>s</i>rausha<i>t</i> (yea, may one hear)!’ The Adhvaryu calls on the Maitrâvaru<i>n</i>a, ‘Preshya samidha<i>h</i> (prompt as to the kindling-sticks)!’ \[or, ‘Preshya Tanûnapâtam or Narâ<i>s</i>a<i>m</i>sam’ &c. in the succeeding fore-offerings.\] The Maitrâvaru<i>n</i>a calls out, ‘Hotâ yakshat samidham \[Tanûnapâtam, &c.\], (let the Hot<i>ri</i> pronounce the offering-prayer to the kindling-sticks, &c,!)’ Each offering-prayer (Âprî) is introduced p. 186 with the formula ‘Ye ya<i>g</i>âmahe, &c.’ See part i, p.148 note. The divine objects of these oblations of ghee are: 1. the Samidhs or kindling-sticks; 2. either Tanûnapât or Narâ<i>s</i>a<i>m</i>sa; 3. the I<i>d</i>as; 4. the Barhis (sacrificial grass on the altar); 5. the gates (of heaven and worshipping ground); 6. Dawn and Night; 7. the two divine Hot<i>ri</i>s; 8. the three goddesses (Sarasvatî, I<i>d</i>â, and Bhâratî); 9. Tvash<i>t</i><i>ri</i>; 10. Vanaspati (the tree, or lord of the forest); 11. the Svâhâk<i>ri</i>tis (calls of ‘All-hail,’ which at this, the last offering-prayer, are repeated before the names of the principal deities of the sacrifice). For this last fore-offering, see [III, 8, 2, 23](../Book_2_3_8#v3_8_2_23) seq.
 
 [^469]: 186:1 See I, 5, 3, 16.
 
-[^470]: 186:2 For the three parts of the thunderbolt, see [p. 108](Book_2_3_4#p108), note [2](Book_2_3_4#fn285).
+[^470]: 186:2 For the three parts of the thunderbolt, see [p. 108](../Book_2_3_4#p108), note [2](../Book_2_3_4#fn285).
 
 [^471]: 186:3 The Hot<i>ri</i> recites the triplet, Rig-veda IV, 15, 1-3.
 
 [^472]: 187:1 Sâya<i>n</i>a seems to take ‘abhipariharati’ in the sense of ‘he takes it round to the place where they cook.’ According to Kâty. VI, 5, 2, 3, the Agnîdh circumambulates thrice from left to right, either the place comprising the victim, the ghee, the slaughtering-place, the sacrificial post, the <i>k</i>âtvâla, and Âhavanîya; or only the ghee, the victim, and slaughtering-place. He then throws the firebrand back on the Âhavanîya, and performs the circumambulation as many times in the opposite direction. On the Paryagnikara<i>n</i>a, see also part i, p. 45 note.
 
-[^473]: 188:1 For the two omentum-spits, see note on [III, 8, 2, 16](Book_2_3_8#v3_8_2_16).
+[^473]: 188:1 For the two omentum-spits, see note on [III, 8, 2, 16](../Book_2_3_8#v3_8_2_16).
 
 [^474]: 188:2 The Maitrâvaru<i>n</i>a's additional cue or order (upapraisha) is ‘Agni has been victorious; he has won wealth!’ On the Hot<i>ri</i>'s recitation—the so-called Adhrigu litany—commencing ‘Ye divine quieters (slaughterers), commence, as well as ye that are human!’ and consisting of formulas usually pronounced by the Adhvaryu (and hence perhaps going back to a time when the Hot<i>ri</i> had to perform all but the menial parts of the sacrificial service), see Ait. Br. II, 6-7; Roth, Yâska XXXVII seq.
 
@@ -328,7 +328,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^480]: 193:1 Ned idam anv ahorâtrâ<i>n</i>i <i>s</i>o<i>k</i>ân iti, Kâ<i>n</i>va recension.
 
-[^481]: 193:2 See [III, 8, 1, 5](Book_2_3_8#v3_8_1_5).
+[^481]: 193:2 See [III, 8, 1, 5](../Book_2_3_8#v3_8_1_5).
 
 [^482]: 194:1 The two vapâ<i>s</i>rapa<i>n</i>îs (omentum-roasters) consist of sticks of kârshmarya wood (Gmelina Arborea), one of them being quite straight, while the other is bifurcate at the top, thus resembling a prop.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^487]: 195:3 That is, across the altar immediately behind the fire or high altar.
 
-[^488]: 196:1 Thus according to the commentator on Kâty. VI, 6, 18. See also note on [IV, 2, 5, 22](Book_2_4_2#v4_2_5_22), and Haug, Transl. Ait. Br. p. 101 note.
+[^488]: 196:1 Thus according to the commentator on Kâty. VI, 6, 18. See also note on [IV, 2, 5, 22](../Book_2_4_2#v4_2_5_22), and Haug, Transl. Ait. Br. p. 101 note.
 
 [^489]: 196:2 The (invitatory) formulas are Rig-Veda I, 75, 1, and III, 21, 1-5; Ait. Br. II, 12; Â<i>s</i>v. Sr. III, 4, 1.
 
@@ -362,7 +362,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^497]: 198:3 At the animal offerings on the Soma-days he adds to his praisha (order) the word ‘prasthitam,’ lit. standing before (the altar). Kâty. VI, 6, 27. See also <i>S</i>. Br. IV, 4, 3, 9.
 
-[^498]: 198:4 Ûrdhvanabhas, ‘he who drives the clouds upwards’ (or, keeps the clouds above), or, perhaps, ‘he who is above (in) the welkin,’ is apparently a name of Vâyu, the wind. Cf. [III, 6, 1, 16](Book_2_3_6#v3_6_1_16).
+[^498]: 198:4 Ûrdhvanabhas, ‘he who drives the clouds upwards’ (or, keeps the clouds above), or, perhaps, ‘he who is above (in) the welkin,’ is apparently a name of Vâyu, the wind. Cf. [III, 6, 1, 16](../Book_2_3_6#v3_6_1_16).
 
 [^499]: 199:1 They do so with the mantra, Vâ<i>g</i>. S. VI, 17 (Atharva-veda VII, 89, 3; cf. Rig-veda I, 23, 22; X, 9, 8).
 
@@ -370,19 +370,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^501]: 199:3 On the sacrificial essence passing successively from man into the horse, the ox, the goat, and finally into the rice and barley, see I, 2, 3, 6-7.
 
-[^502]: 200:1 The order of proceeding is not quite clear from the context, and seems to have puzzled the later ritualists. From Kâty. VI, 7-8 it would seem that the author of the Sûtras means the performance of the cake-offering to go on simultaneously with the cutting up of the victim (and the cooking of the portions and roasting of the beast). The comm. on Kâty. VI, 7, 29, however, protests against this arrangement as contrary to the order laid down in the Brâhma<i>n</i>a; and insists especially on the ‘atha (now)’ at the beginning of this paragraph. This particle is, however, often used in a vague sense; as very frequently when, after sketching the chief course of performance, the author turns back to fill in the details. There seems also a difference of opinion as to the exact meaning of the above direction given by the Adhvaryu to the Samitar after (as would seem) the portions have been cooked. The commentator on Kâty. VI, 8, 1 apparently takes ‘tri<i>h</i> pra<i>k</i>yâvaya’ in the sense of ‘shake thrice’ or ‘turn thrice.’ Sâya<i>n</i>a, on the other hand, explains it as meaning that the <i>S</i>amit<i>ri</i> is to divide the portions into three parts, according to whether they are destined for the chief offerings, or the Svish<i>t</i>ak<i>ri</i>t, or the by-offerings (?). As the direction cannot refer to the taking out of the portions from the cooking-vessel (ukhâ) it would seem that the <i>S</i>amitar is either to move (shake) the vessel itself, or to stir the contents, perhaps hereby separating the respective portions. The Kâ<i>n</i>va text reads, Tri<i>h</i> pra<i>k</i>yâvayâd ity uttame pra<i>k</i>yâva uttamârdhe h<i>ri</i>daya<i>m</i> kurutâd iti. The heart, when done, is to be removed from the spit and laid on the portions; whereupon the Adhvaryu pours ghee on the portions ([paragraph 8](Book_2_3_8#v3_8_3_8)).
+[^502]: 200:1 The order of proceeding is not quite clear from the context, and seems to have puzzled the later ritualists. From Kâty. VI, 7-8 it would seem that the author of the Sûtras means the performance of the cake-offering to go on simultaneously with the cutting up of the victim (and the cooking of the portions and roasting of the beast). The comm. on Kâty. VI, 7, 29, however, protests against this arrangement as contrary to the order laid down in the Brâhma<i>n</i>a; and insists especially on the ‘atha (now)’ at the beginning of this paragraph. This particle is, however, often used in a vague sense; as very frequently when, after sketching the chief course of performance, the author turns back to fill in the details. There seems also a difference of opinion as to the exact meaning of the above direction given by the Adhvaryu to the Samitar after (as would seem) the portions have been cooked. The commentator on Kâty. VI, 8, 1 apparently takes ‘tri<i>h</i> pra<i>k</i>yâvaya’ in the sense of ‘shake thrice’ or ‘turn thrice.’ Sâya<i>n</i>a, on the other hand, explains it as meaning that the <i>S</i>amit<i>ri</i> is to divide the portions into three parts, according to whether they are destined for the chief offerings, or the Svish<i>t</i>ak<i>ri</i>t, or the by-offerings (?). As the direction cannot refer to the taking out of the portions from the cooking-vessel (ukhâ) it would seem that the <i>S</i>amitar is either to move (shake) the vessel itself, or to stir the contents, perhaps hereby separating the respective portions. The Kâ<i>n</i>va text reads, Tri<i>h</i> pra<i>k</i>yâvayâd ity uttame pra<i>k</i>yâva uttamârdhe h<i>ri</i>daya<i>m</i> kurutâd iti. The heart, when done, is to be removed from the spit and laid on the portions; whereupon the Adhvaryu pours ghee on the portions ([paragraph 8](../Book_2_3_8#v3_8_3_8)).
 
-[^503]: 201:1 The Adhvaryu removes the dish northwards from the fire, takes the portions out of it, puts them into some kind of basket, and performs ‘prâ<i>n</i>adâna’ ([p. 196](Book_2_3_8#p196), note [3](Book_2_3_8#fn488)) on them.
+[^503]: 201:1 The Adhvaryu removes the dish northwards from the fire, takes the portions out of it, puts them into some kind of basket, and performs ‘prâ<i>n</i>adâna’ ([p. 196](../Book_2_3_8#p196), note [3](../Book_2_3_8#fn488)) on them.
 
-[^504]: 202:1 Or, the Plaksha branches with which the altar was covered on the preceding night. See [p. 120](Book_2_3_5#p120), note [3](Book_2_3_5#fn320). The Kâ<i>n</i>va text (as Taitt. S. VI, 3, 10, 2) speaks of one Plaksha branch put on the barhis.
+[^504]: 202:1 Or, the Plaksha branches with which the altar was covered on the preceding night. See [p. 120](../Book_2_3_5#p120), note [3](../Book_2_3_5#fn320). The Kâ<i>n</i>va text (as Taitt. S. VI, 3, 10, 2) speaks of one Plaksha branch put on the barhis.
 
 [^505]: 202:2 Anûka, of which anûkya is the adjective, means ‘the forepart of the spinal column.’ The Kâ<i>n</i>va text reads,—yan mastishko yad anûke ma<i>g</i><i>g</i>â.
 
-[^506]: 203:1 That is, the ladle used (as a substitute for the <i>g</i>uhû) for offering the fat-liquor or gravy. See [paragraph 20](Book_2_3_8#v3_8_3_20).
+[^506]: 203:1 That is, the ladle used (as a substitute for the <i>g</i>uhû) for offering the fat-liquor or gravy. See [paragraph 20](../Book_2_3_8#v3_8_3_20).
 
 [^507]: 203:2 That is, the vessel used for holding the cuttings (samavatta) of the i<i>d</i>â; also called i<i>d</i>âpâtrî, see part i, p. 219, note 3.
 
-[^508]: 203:3 See [p. 198](Book_2_3_8#p198), note [1](Book_2_3_8#fn493).
+[^508]: 203:3 See [p. 198](../Book_2_3_8#p198), note [1](../Book_2_3_8#fn493).
 
 [^509]: 203:4 Thereupon he says, ‘Recite to the manotâ (deity) the invitatory prayer for (of) the havis which is being cut in portions (havisho ’vadîyamânasya).’ Kâ<i>n</i>va text; cf. Ait. Br. II, 10.—While the sacrificial portions are being cut into the respective spoons, the Hot<i>ri</i> recites the Hymn to Agni, Rig-veda VI, 1, 1-13, beginning, ‘Thou, O wondrous Agni, the first thinker (manot<i>ri</i>) of this hymn, wert verily the priest. . . .’ From the occurrence of this word manotâ, the latter has come to be the technical name both of the hymn itself and of the deity (Agni) to whom it is recited.
 
@@ -394,7 +394,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^513]: 204:4 According to Kâty. VI, 7, 6, it is the foremost (or upper) joint (pûrvana<i>d</i>aka) of the left fore-foot which is taken. The Kâ<i>n</i>va text has simply ‘atha dosh<i>n</i>a<i>h</i>.’
 
-[^514]: 204:5 See [III, 8, 4, 9](Book_2_3_8#v3_8_4_9) seq.
+[^514]: 204:5 See [III, 8, 4, 9](../Book_2_3_8#v3_8_4_9) seq.
 
 [^515]: 205:1 Literally, the three-limbs, the technical name of the portion for Agni Svish<i>t</i>ak<i>ri</i>t.
 
@@ -410,7 +410,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^521]: 206:2 This forms part of the preceding formula (as subject to the verb ‘may totter’), though the author seems to separate it therefrom, as does Mahîdhara. The meaning of the formula seems to be, ‘May the enemies perish, confounded by (?) the hot vapour!’
 
-[^522]: 207:1 The St. Petersburg Dict. takes ‘Na-upâveyu<i>h</i>’ in the sense of ‘they did not fall in therewith; they did not feel inclined for it;’ as above, [III, 7, 3, 3](Book_2_3_7#v3_7_3_3). Sâya<i>n</i>a explains it by ‘nopâgatâ<i>h</i>’ (MSS. nâpâgatâ<i>h</i>).
+[^522]: 207:1 The St. Petersburg Dict. takes ‘Na-upâveyu<i>h</i>’ in the sense of ‘they did not fall in therewith; they did not feel inclined for it;’ as above, [III, 7, 3, 3](../Book_2_3_7#v3_7_3_3). Sâya<i>n</i>a explains it by ‘nopâgatâ<i>h</i>’ (MSS. nâpâgatâ<i>h</i>).
 
 [^523]: 207:2 That is, Aditi, according to the Kâ<i>n</i>va recension.
 
@@ -436,9 +436,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^534]: 211:2 Gudo vai pa<i>s</i>u<i>h</i>, medo vai medhas; this is one of many exceptions to the rule laid down by Professor Delbrück regarding the order of subject and predicate, Synt. Forsch., III, p. 26. Copulative sentences with a tertium comparationis likewise do not generally conform to that rule.
 
-[^535]: 212:1 See [p. 156](Book_2_3_6#p156), note [3](Book_2_3_6#fn414).
+[^535]: 212:1 See [p. 156](../Book_2_3_6#p156), note [3](../Book_2_3_6#fn414).
 
-[^536]: 212:2 When the priests and sacrificer have eaten their portions of the I<i>d</i>â, the Agnîdh fetches hot coals from the <i>S</i>âmitra (or, at the animal offering connected with the Soma-sacrifice), optionally from the Âgnîdhra, and puts them on the Hot<i>ri</i>'s hearth ([p. 148](Book_2_3_6#p148), note [4](Book_2_3_6#fn392)),—or at the ordinary animal offering (nirû<i>dh</i>a pa<i>s</i>u), on the north hip (north-west corner) of the altar after removing the sacrificial grass. On these coals the Pratiprasthât<i>ri</i> performs the by-offerings (upaya<i>g</i>), while the Adhvaryu performs the after-offerings (anuyâ<i>g</i>a) on the Âhavanîya. For the by-offerings the Pratiprasthât<i>ri</i> cuts the respective part and the hind-quarter ([III, 8, 3, 18](Book_2_3_8#v3_8_3_18)) into eleven parts, and at each Vasha<i>t</i> throws one piece thereof with his hand into the fire. The recipients of the first eight and the last after-offerings, on the other hand, are the same as those of the nine after-offerings at the Seasonal sacrifices (part i, p. 404). The Hot<i>ri</i>'s formulas for the additional two offerings, inserted before the last, are: 9. The divine lord of the forest \[10. The divine barhis of water-plants\] may graciously accept (the offering) for abundant obtainment of abundant gift! Vausha<i>t</i>!' (cf. part i, p. 235; Â<i>s</i>v. <i>S</i>r. III, 6, 13.)
+[^536]: 212:2 When the priests and sacrificer have eaten their portions of the I<i>d</i>â, the Agnîdh fetches hot coals from the <i>S</i>âmitra (or, at the animal offering connected with the Soma-sacrifice), optionally from the Âgnîdhra, and puts them on the Hot<i>ri</i>'s hearth ([p. 148](../Book_2_3_6#p148), note [4](../Book_2_3_6#fn392)),—or at the ordinary animal offering (nirû<i>dh</i>a pa<i>s</i>u), on the north hip (north-west corner) of the altar after removing the sacrificial grass. On these coals the Pratiprasthât<i>ri</i> performs the by-offerings (upaya<i>g</i>), while the Adhvaryu performs the after-offerings (anuyâ<i>g</i>a) on the Âhavanîya. For the by-offerings the Pratiprasthât<i>ri</i> cuts the respective part and the hind-quarter ([III, 8, 3, 18](../Book_2_3_8#v3_8_3_18)) into eleven parts, and at each Vasha<i>t</i> throws one piece thereof with his hand into the fire. The recipients of the first eight and the last after-offerings, on the other hand, are the same as those of the nine after-offerings at the Seasonal sacrifices (part i, p. 404). The Hot<i>ri</i>'s formulas for the additional two offerings, inserted before the last, are: 9. The divine lord of the forest \[10. The divine barhis of water-plants\] may graciously accept (the offering) for abundant obtainment of abundant gift! Vausha<i>t</i>!' (cf. part i, p. 235; Â<i>s</i>v. <i>S</i>r. III, 6, 13.)
 
 [^537]: 213:1 Praivaina<i>m</i> ta<i>g</i> <i>g</i>anayati, ‘he causes it (the victim) to be born (again).’ Kâ<i>n</i>va rec. The above passage has apparently to be understood in a general sense, ‘he causes birth to take place among living creatures.’
 
@@ -446,9 +446,9 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^539]: 214:2 The Kâ<i>n</i>va text (as the Taitt. S.) reverses the order of this and the following formula. Nor does it begin a new Brâhma<i>n</i>a here.
 
-[^540]: 214:3 Having completed the last after-offering, the Adhvaryu, in the p. 215 first place, throws the first chip of the sacrificial stake into the fire, in accordance with [III, 7, 1, 32](Book_2_3_7#v3_7_1_32). For the four Patnîsa<i>m</i>yâ<i>g</i>as, the deities of which are Soma, Tvash<i>t</i><i>ri</i>, the wives of the gods, and Agni the householder, see part i, p. 256, The first two offerings may consist only of ghee, or, as the last two, of a piece of the tail.
+[^540]: 214:3 Having completed the last after-offering, the Adhvaryu, in the p. 215 first place, throws the first chip of the sacrificial stake into the fire, in accordance with [III, 7, 1, 32](../Book_2_3_7#v3_7_1_32). For the four Patnîsa<i>m</i>yâ<i>g</i>as, the deities of which are Soma, Tvash<i>t</i><i>ri</i>, the wives of the gods, and Agni the householder, see part i, p. 256, The first two offerings may consist only of ghee, or, as the last two, of a piece of the tail.
 
-[^541]: 215:1 The technical term for this purificatory ceremony is <i>s</i>ûlâvabh<i>ri</i>tha, or spit-bath.' On the present occasion it is not performed (see [paragraph 11](Book_2_3_8#v3_8_5_11)), but it is inserted here because it forms the conclusion of the ordinary animal offering, not connected with the Soma-sacrifice (nirû<i>dh</i>a-pa<i>s</i>u), as well as of the offering of a sterile cow (termed anûbandhyâ) to Mitra and Varu<i>n</i>a, which concludes the Soma-sacrifice. See part i, p. 379, note 1, and [IV, 5, 2, 1](Book_2_4_5#v4_5_2_1) seq.
+[^541]: 215:1 The technical term for this purificatory ceremony is <i>s</i>ûlâvabh<i>ri</i>tha, or spit-bath.' On the present occasion it is not performed (see [paragraph 11](../Book_2_3_8#v3_8_5_11)), but it is inserted here because it forms the conclusion of the ordinary animal offering, not connected with the Soma-sacrifice (nirû<i>dh</i>a-pa<i>s</i>u), as well as of the offering of a sterile cow (termed anûbandhyâ) to Mitra and Varu<i>n</i>a, which concludes the Soma-sacrifice. See part i, p. 379, note 1, and [IV, 5, 2, 1](../Book_2_4_5#v4_5_2_1) seq.
 
 [^542]: 215:2 ? Ala<i>m</i><i>g</i>usha, ‘sufficient for eating,’ Sâya<i>n</i>a, ‘sufficient in itself,’ St. Petersburg Dict. The Kâ<i>n</i>va text has the probably preferable reading,—atha ala<i>m</i>gusha<i>m</i> <i>s</i>ritam eva parit<i>ri</i>ndanti,—they then pierce (with the spit) what is already sufficiently cooked.
 
@@ -460,4 +460,4 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^546]: 217:2 According to the Kâ<i>n</i>va text and Kâty. VI, 10, 5 they (the priests and sacrificer) touch the water while muttering the formula—‘From every fetter . . . . and whom we hate.’
 
-[^547]: 217:3 See [IV, 5, 1, 5](Book_2_4_5#v4_5_1_5) seq.
+[^547]: 217:3 See [IV, 5, 1, 5](../Book_2_4_5#v4_5_1_5) seq.

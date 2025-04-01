@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 Gô<i>s</i>, ‘the cow,’ κατ᾽ ἐξοχήν, is a personation of the animal kingdom which she maintains and protects. She is also called Drvâspa and Go<i>s</i>ûrûn: Drvâspa means ‘she who keeps horses in health,’ and is nothing more than an epithet of Gô<i>s</i>: Gô<i>s</i>ûrûn (from the Zend G<i>e</i>u<i>s</i> urvan) means ‘the Soul of the Bull’ (the primeval Bull). Although urvan is a masculine noun in Zend, yet Gô<i>s</i>ûrûn is considered a female angel, as this name is only a substitute for Gô<i>s</i>.
 
-Gô<i>s</i> is the angel of the 14th day (Sîrôzah I, 14), and her Ya<i>s</i>t is recited during the Gâh U<i>s</i>ahin, on the days of Gô<i>s</i>, Bahman, Mâh, and Râm (the same days as those on which the Mâh Ya<i>s</i>t is recited; see above, [p. 88](Yasts_7#p88)).
+Gô<i>s</i> is the angel of the 14th day (Sîrôzah I, 14), and her Ya<i>s</i>t is recited during the Gâh U<i>s</i>ahin, on the days of Gô<i>s</i>, Bahman, Mâh, and Râm (the same days as those on which the Mâh Ya<i>s</i>t is recited; see above, [p. 88](../Yasts_7#p88)).
 
 Gô<i>s</i> is hardly described in this Ya<i>s</i>t (§§ 1-2); the greater part of it being filled with the several prayers addressed to her by the Iranian heroes, Haoshyangha (§ 3), Yima (§ 8), Thraêtaona (§ 13), Haoma (§ 17), Husravah (§ 21), Zarathu<i>s</i>tra, and Vî<i>s</i>tâspa. Her worshippers and their prayers to her are the same as in the case of Ashi Vanguhi (see Yt. XVII).
 
@@ -206,13 +206,13 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^552]: 111:2 Doubtful.
 
-[^553]: 111:3 Cf. [p. 58](Yasts_5#p58), note [1](Yasts_5#fn294).
+[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
 
-[^554]: 111:4 Cf. [59](Yasts_5#p59), note [2](Yasts_5#fn298).
+[^554]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
 
 [^555]: 111:5 To hell.
 
-[^556]: 112:1 As above, [p. 30](Yasts_1#p30).
+[^556]: 112:1 As above, [p. 30](../Yasts_1#p30).
 
 [^557]: 112:2 § 7 = §§ 1-2.
 
@@ -224,13 +224,13 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. The destruction of the fiends, being one of the principal effects of sacrifice, is ascribed to Haoma as the most powerful element in the sacrifice. In the Shâh Nâmah, the god Haoma has been turned into a hermit who, living near the cave in which Afrâsyâb had taken refuge (see above, Yt. V, 41), overhears his lamentations, takes him by surprise, binds him, and delivers him into the hands of Khosrav (Études Iraniennes, II, 227).
 
-[^563]: 114:3 See [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^563]: 114:3 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^564]: 114:4 See above, [p. 66](Yasts_5#p66), note [2](Yasts_5#fn322).
+[^564]: 114:4 See above, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
 
-[^565]: 114:5 See [p. 66](Yasts_5#p66), note [3](Yasts_5#fn323).
+[^565]: 114:5 See [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
-[^566]: 114:6 See [p. 64](Yasts_5#p64), note [1](Yasts_5#fn315).
+[^566]: 114:6 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
 [^567]: 114:7 Doubtful (narava, as opposed to nara). Aghraêratha (Aghrêrath) was a brother of Afrâsyâb's; he was a righteous man, and Afrâsyâb killed him for his having saved the Iranian king Mino<i>k</i>ihr with his army, when captive in the Padashkhvâr mountains (Bundahi<i>s</i> XXXI, 21). Yet he is still living as an immortal in the land of Saukavastân, under the name of Gôpatshâh (the king of the bulls); ‘from foot to mid-body he is a bull, and from mid-body to p. 115 the top he is a man; at all times he stays on the sea-shore, and always performs the worship of God, and always pours holy-water into the sea’ (Minokhired LXII, 31 seq., tr. West; Bund. XXIX, 5); according to Bund. XXXI, 20, Aghrêrath was not Gôpatshâh, he was his father. Cf. Yt. XIX, 93.
 
@@ -246,7 +246,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^573]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
 
-[^574]: 117:3 See above, [p. 79](Yasts_5#p79), note [4](Yasts_5#fn392).
+[^574]: 117:3 See above, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
 
 [^577]: 117:4 Ἅπαξ λεγόμενος.
 

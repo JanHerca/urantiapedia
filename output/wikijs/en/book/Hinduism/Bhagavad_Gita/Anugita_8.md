@@ -76,7 +76,7 @@ Then the Vyâna became extinct, and again moved about. And the Prâna and Apâna
 
 The Brâhma<i>n</i>a said:
 
-Then Brahman, the lord of (all) creatures, said. to them who were assembled together: You are all greatest, and not greatest [^1304]. You are all possessed <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> of one another's qualities [1](Anugita_9#fn1305). All are greatest in their own spheres, and all support one another. There is one unmoving [2](Anugita_9#fn1306) (life-wind). There are others moving about, (which are) five, owing to (their) specific qualities. My own self is one only [3](Anugita_9#fn1307), (but) accumulated in numerous (forms). Being friendly with one another, and pleasing one another, go away happily. Welfare be to you! Support one another.’
+Then Brahman, the lord of (all) creatures, said. to them who were assembled together: You are all greatest, and not greatest [^1304]. You are all possessed <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> of one another's qualities [1](../Anugita_9#fn1305). All are greatest in their own spheres, and all support one another. There is one unmoving [2](../Anugita_9#fn1306) (life-wind). There are others moving about, (which are) five, owing to (their) specific qualities. My own self is one only [3](../Anugita_9#fn1307), (but) accumulated in numerous (forms). Being friendly with one another, and pleasing one another, go away happily. Welfare be to you! Support one another.’
 
 
 
@@ -106,7 +106,7 @@ Then Brahman, the lord of (all) creatures, said. to them who were assembled toge
 
 ## Footnotes
 
-[^1296]: 270:1 The senses are the doors of the house here, as they are among the doors of the city at Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1296]: 270:1 The senses are the doors of the house here, as they are among the doors of the city at Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
 [^1297]: 270:2 Owing to the want of food, &c. Cf. Maitrî, p. 112, and <i>Kh</i>ândogya. p. 422.
 
@@ -118,7 +118,7 @@ Then Brahman, the lord of (all) creatures, said. to them who were assembled toge
 
 [^1301]: 271:1 Ar<i>g</i>una Mi<i>s</i>ra says, ‘The wind going to the Prâ<i>n</i>a, and being obstructed in upward progress by the Prâ<i>n</i>a, goes to the Apâna, and then unable to go upwards or downwards, enters the passages or nâ<i>d</i>îs of the body and becomes Vyâna. In the same way Udâna, by the collision of the two, produces sound in the throat, and depends on Prâ<i>n</i>a and Apâna; so, too, the Samâna dwelling in the navel and kindling the gastric fire is also dependent on those two.’ The meaning seems to be that one life-wind is distributed in the different places, and gets different names, as stated, in the order mentioned. See Maitrî, p. 28.
 
-[^1302]: 271:2 A similar visit on the part of the Prâ<i>n</i>as (who, however, are not there the life-winds only, but the Prâ<i>n</i>a life-wind and the active organs) to Pra<i>g</i>âpati is mentioned at B<i>ri</i>hadâra<i>n</i>yaka-upanishad, p. 1016, and <i>Kh</i>ândogya, p. 297. Cf. also Pra<i>s</i>na, p. 178; B<i>ri</i>hadâra<i>n</i>yaka, p. 317; and Kaushîtaki, p. 63. See also, generally, as to the life-winds and their functions, B<i>ri</i>hadâra<i>n</i>yaka, p. 280, and <i>S</i>ankara's comment there; Yoga-sûtras III, 38, and comment; Cowell's note at Maitrî, p. 247; <i>S</i>ânti Parvan (Moksha Dharma), chap. 184, st. 24-25; chap. 185, st. 1 seq.; and [p. 258](Anugita_5#p258) supra.
+[^1302]: 271:2 A similar visit on the part of the Prâ<i>n</i>as (who, however, are not there the life-winds only, but the Prâ<i>n</i>a life-wind and the active organs) to Pra<i>g</i>âpati is mentioned at B<i>ri</i>hadâra<i>n</i>yaka-upanishad, p. 1016, and <i>Kh</i>ândogya, p. 297. Cf. also Pra<i>s</i>na, p. 178; B<i>ri</i>hadâra<i>n</i>yaka, p. 317; and Kaushîtaki, p. 63. See also, generally, as to the life-winds and their functions, B<i>ri</i>hadâra<i>n</i>yaka, p. 280, and <i>S</i>ankara's comment there; Yoga-sûtras III, 38, and comment; Cowell's note at Maitrî, p. 247; <i>S</i>ânti Parvan (Moksha Dharma), chap. 184, st. 24-25; chap. 185, st. 1 seq.; and [p. 258](../Anugita_5#p258) supra.
 
 [^1303]: 272:1 Ar<i>g</i>una Mi<i>s</i>ra says, Vyâna and Apâna also by force of the two ‘ands’ which occur in the original; and so in other places too.
 

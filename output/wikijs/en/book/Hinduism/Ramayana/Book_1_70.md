@@ -1128,7 +1128,7 @@ Because her rival mixed the bane
 
 To render her conception vain,
 And fruit unripened to destroy,
-Sagar  [1](Book_1_77#fn249) she called her darling boy.
+Sagar  [1](../Book_1_77#fn249) she called her darling boy.
 To Sagar Asamanj was heir:
 Bright Ans'umán his consort bare.
 Ans'umán's son, Dilipa famed,
@@ -1138,7 +1138,7 @@ From him came Raghu, feared by foes,
 Of him sprang Purushádak bold,
 Fierce hero of gigantic mould:
 Kalmáshapáda's name he bore,
-Because his feet were spotted o'er.  [2](Book_1_77#fn250)
+Because his feet were spotted o'er.  [2](../Book_1_77#fn250)
 From him came S'ankan, and from him
 Sudars'an, fair in face and limb.
 From beautiful Sudars'an came

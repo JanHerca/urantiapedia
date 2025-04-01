@@ -1142,7 +1142,7 @@ The hosts celestial came in view,
 And Ráma to the cot withdrew,
 While a sweet sense of rapture stole
 Through the unequalled hero's soul.
-He paid the Vis'vedevas  [1](Book_2_60#fn332) due.
+He paid the Vis'vedevas  [1](../Book_2_60#fn332) due.
 And Rudra's right, and Vishnu's too,
 Nor wonted blessings, to protect
 Their new-built home, did he neglect.
@@ -1577,7 +1577,7 @@ Beneath: my hair the tangled weeds:
 Its source the tears for Ráma shed:
 The hump-back's words its monsters dread:
 The boon I gave the wretch its shore,
-Till Ráma's banishment be o'er.  [1](Book_2_60#fn334)
+Till Ráma's banishment be o'er.  [1](../Book_2_60#fn334)
 &nbsp;&nbsp;&nbsp;&nbsp;Ah me, that I should long to set
 &nbsp;&nbsp;&nbsp;&nbsp;My eager eyes to-day
 &nbsp;&nbsp;&nbsp;&nbsp;On Raghu's son, and he be yet

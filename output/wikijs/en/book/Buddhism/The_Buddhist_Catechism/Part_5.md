@@ -278,7 +278,7 @@ A. _Iddhî vidha_. One possessing this can, by <span id="p108"><sup><small>[ p. 
 
 A. No; he expressly discouraged them as tending to create confusion in the minds of those who were not acquainted with the principles involved. They also tempt their possessors to show them merely to gratify idle curiosity and their own vanity. Moreover, similar phenomena can be shown by magicians and sorcerers learned in the Laukika, or the baser form of _Iddhî_ science. All false pretensions to supernatural attainment by monks are among the unpardonable sins (_Tevijga Sutta_).
 
-381\. Q. _You spoke of a 'deva' having appeared to the Prince [Siddhârtha](errata.htm#5) under a variety of forms; what do Buddhists believe respecting races of elemental invisible beings having relations with mankind?_
+381\. Q. _You spoke of a 'deva' having appeared to the Prince [Siddhârtha](../errata.htm#5) under a variety of forms; what do Buddhists believe respecting races of elemental invisible beings having relations with mankind?_
 
 A. They believe that there are such beings who inhabit worlds or spheres of their own. The Buddhist doctrine is, that by interior self-development and conquest over his baser nature the Arhat becomes <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> superior to even the most formidable of the devas, and may subject and control the lower orders.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T22:11:38Z
 
 <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
-[1](Book_5_10#fn789)
+[1](../Book_5_10#fn789)
 
 
 
@@ -427,7 +427,7 @@ The Vánar dwarfed his mighty size,
 <span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 And, in the straitest bounds restrained,
-The bigness of a cat retained.  [1](Book_5_10#fn808)
+The bigness of a cat retained.  [1](../Book_5_10#fn808)
 Then, when the moon's soft light was spread,
 Within the city's walls he sped.
 
@@ -573,8 +573,8 @@ From house to house the Vánar strayed,
 And still his wondering glances bent
 On terrace, dome, and battlement:
 Then with a light and rapid tread
-Prahasta's  [1b](Book_5_10#fn811) home he visited,
-And Kumbhakarna's  [2b](Book_5_10#fn812) courtyard where
+Prahasta's  [1b](../Book_5_10#fn811) home he visited,
+And Kumbhakarna's  [2b](../Book_5_10#fn812) courtyard where
 A cloudy pile rose high in air;
 And, wandering o'er the hill, explored
 The garden of each Rákshas lord.
@@ -586,7 +586,7 @@ And warrior fiends of every hue,
 A strange and fearful retinue.
 There elephants in many a row,
 The terror of the stricken foe.
-Huge Airávat,  [3b](Book_5_10#fn813) deftly trained
+Huge Airávat,  [3b](../Book_5_10#fn813) deftly trained
 In battle-fields, stood ready chained.
 Fair litters on the ground were set
 Adorned with gems and golden net.
@@ -595,7 +595,7 @@ Green bowers were there and picture halls,
 And chambers made for soft delight.
 Broad banners waved on every height.
 And from the roof like Mandar's hill
-The peacock's cry came loud and shrill.  [4b](Book_5_10#fn814)
+The peacock's cry came loud and shrill.  [4b](../Book_5_10#fn814)
 
 
 
@@ -633,7 +633,7 @@ Shone lovely lakes where lilies blew,
 And lotuses with flower and bud
 Gleamed on the bosom of the flood.
 There shone with gems that flashed afar
-The marvel of the Flower-named  [1](Book_5_10#fn815) car,
+The marvel of the Flower-named  [1](../Book_5_10#fn815) car,
 Mid wondrous dwellings still confessed
 Supreme and nobler than the rest.
 Thereon with wondrous art designed
@@ -646,7 +646,7 @@ And elephants with deftest skill
 Stood sculptured by a silver rill,
 Each bearing on his trunk a wreath
 Of lilies from the flood beneath.
-There Lakshmi,  [2](Book_5_10#fn816) beauty's heavenly queen,
+There Lakshmi,  [2](../Book_5_10#fn816) beauty's heavenly queen,
 Wrought by the artist's skill, was seen
 Beside a flower-clad pool to stand
 Holding a lotus in her hand.
@@ -660,7 +660,7 @@ Of precious gems and burnished gold;
 
 Nor could the Wind-God's son withdraw
 His rapt gaze from the sight he saw,
-By Vis'vakarmá's  [1b](Book_5_10#fn817) self proclaimed
+By Vis'vakarmá's  [1b](../Book_5_10#fn817) self proclaimed
 The noblest work his hand had framed.
 Uplifted in the air it glowed
 Bright as the sun's diurnal road.
@@ -671,7 +671,7 @@ With gems inlaid with lavish care.
 No precious stones so rich adorn
 The cars wherein the Gods are borne,
 Prize of the all-resistless might
-That sprang from pain and penance rite,  [2b](Book_5_10#fn818)
+That sprang from pain and penance rite,  [2b](../Book_5_10#fn818)
 Obedient to the master's will
 It moved o'er wood and towering hill,
 A glorious marvel well designed
@@ -679,7 +679,7 @@ By Vis'vakarmá's artist mind,
 Adorned with every fair device
 That decks the cars of Paradise.
 Swift moving as the master chose
-It flew through air or sank or rose,  [3b](Book_5_10#fn819)
+It flew through air or sank or rose,  [3b](../Book_5_10#fn819)
 And in its fleetness left behind
 The fury of the rushing wind:
 Meet mansion for the good and great,
@@ -845,7 +845,7 @@ The flag of Indra high in air.
 Scars by Airávat's impressed
 Showed red upon his shaggy breast.
 And on his shoulders were displayed
-The dints the thunder-bolt had made.  [1](Book_5_20#fn821)
+The dints the thunder-bolt had made.  [1](../Book_5_20#fn821)
 The spouses of the giant king
 Around their lord were slumbering,
 And, gay with sparkling earrings, shone

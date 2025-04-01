@@ -82,7 +82,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 [^517]: 168:2 That is, in express terms, such as, “Grant that the rain may descend,” &c., but only as it were incidentally mentioned.
 
-[^518]: 168:3 Namely, he who reads the ‏מוסף‎ \[Additional Service\]. See our eighth note page [165](Treatise12_Sabbath_19#p165), Treatise Rosh Hashanah.
+[^518]: 168:3 Namely, he who reads the ‏מוסף‎ \[Additional Service\]. See our eighth note page [165](../Treatise12_Sabbath_19#p165), Treatise Rosh Hashanah.
 
 [^519]: 168:4 That is, commence to say in the prayers, ‏משיב הרוח ומוריד הגשם‎, “Causing the wind to blow and the rain to descend.”
 

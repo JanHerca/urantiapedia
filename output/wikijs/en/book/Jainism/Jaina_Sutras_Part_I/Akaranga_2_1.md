@@ -503,7 +503,7 @@ End of the First Lecture, called Begging of Food.
 
 [^373]: 110:5 Pistia Stratiotes.
 
-[^374]: 111:1 For the meaning of this frequently used term, see note [5](Akaranga_1_8#fn307) on [p. 81](Akaranga_1_8#p81), and note [1](Akaranga_2_1#fn329) on [p. 94](Akaranga_2_1#p94).
+[^374]: 111:1 For the meaning of this frequently used term, see note [5](../Akaranga_1_8#fn307) on [p. 81](../Akaranga_1_8#p81), and note [1](../Akaranga_2_1#fn329) on [p. 94](../Akaranga_2_1#p94).
 
 [^375]: 114:1 They are detailed in the original: a<i>m</i>taru<i>k</i><i>kh</i>uya<i>m</i>, a piece between two knots; u<i>k</i><i>kh</i>uga<i>m</i><i>d</i>iya<i>m</i>, a piece containing a knot; u<i>k</i><i>kh</i>u<i>k</i>oyagam (?), u<i>k</i><i>kh</i>umeraga<i>m</i>, top of a stalk; u<i>k</i><i>kh</i>usâlaga<i>m</i>, long leaf; u<i>k</i><i>kh</i>u<i>d</i>âlaga<i>m</i>, fragment of a leaf.
 

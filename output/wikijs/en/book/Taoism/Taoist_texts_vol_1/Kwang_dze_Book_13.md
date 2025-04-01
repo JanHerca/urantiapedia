@@ -122,7 +122,7 @@ Duke Hwan [^499], seated above in his hall, was (once) reading a book, and the w
 
 ## Footnotes
 
-[^519]: 330:1 See pp. [144](Kwang_dze_Intro#p144), [145](Kwang_dze_Intro#p145).
+[^519]: 330:1 See pp. [144](../Kwang_dze_Intro#p144), [145](../Kwang_dze_Intro#p145).
 
 [^520]: 330:2 That is, its operation is universal. The Chinese critics generally explain ‘accumulation’ here by ‘rest,’ which is not quite the idea.
 

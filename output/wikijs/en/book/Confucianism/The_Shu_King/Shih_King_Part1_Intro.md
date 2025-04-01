@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:2:15Z
 
 ## THE SHIH KING. I. ODES OF THE TEMPLE AND THE ALTAR.
 
-IT was stated in the Introduction, [p. 278](Shih_King_Intro_1#p278), that the poems in the fourth Part of the Shih are the only ones that are professedly religious; and there are some even of them, it will be seen, which have little claim on internal grounds to be so considered.
+IT was stated in the Introduction, [p. 278](../Shih_King_Intro_1#p278), that the poems in the fourth Part of the Shih are the only ones that are professedly religious; and there are some even of them, it will be seen, which have little claim on internal grounds to be so considered.
 
 I commence with them my selections from the Shih for the Sacred Books of the Religions of the East. I will give them all, excepting the first two of the Praise Odes of Lû, the reason for omitting which will be found. when I come to that division of the Part.
 

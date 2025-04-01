@@ -110,7 +110,7 @@ Thus I say.
 
 [^391]: 150:4 <i>Kh</i>imâla = <i>g</i>âra, see Hêma<i>k</i>andra, Dê<i>s</i>î Kôsha 3, 27. It is a coarse term, which I replace by another, though probably the language of our coach-drivers might supply us with a more idiomatic rendering.
 
-[^392]: 150:5 Gârava, cf. [p. 98](Uttaradhyayana_19#p98), note [2](Uttaradhyayana_19#fn257).
+[^392]: 150:5 Gârava, cf. [p. 98](../Uttaradhyayana_19#p98), note [2](../Uttaradhyayana_19#fn257).
 
 [^393]: 151:1 The metre of this verse seems to have originally been Âryâ, but an attempt has been made to change it into Anush<i>t</i>ubh. We meet here with the interesting form a<i>n</i>usâsammî (read a<i>n</i>usasammi) = anu<i>s</i>âsmi.
 

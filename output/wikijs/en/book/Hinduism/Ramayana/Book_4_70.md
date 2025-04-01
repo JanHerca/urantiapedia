@@ -118,7 +118,7 @@ A good and valiant prince, his heir,
 Shall the dear name of Ráma bear.
 With his brave brother Lakshman he
 An exile in the woods shall be,
-Where Rávan, whom no God may slay,  [1](Book_4_70#fn779)
+Where Rávan, whom no God may slay,  [1](../Book_4_70#fn779)
 Shall steal his darling wife away,
 In vain the captive will be wooed
 With proffered love and dainty food,
@@ -189,7 +189,7 @@ Be strong in surest confidence.’
 &nbsp;&nbsp;&nbsp;&nbsp;Swift from the crag he sprang to try
 His pinions in his nativie sky.
 His words the chieftains' doubts had stilled?
-And every heart with courage filled. [1b](Book_4_70#fn780)
+And every heart with courage filled. [1b](../Book_4_70#fn780)
 
 
 
@@ -444,7 +444,7 @@ Thy matchless power and strength display
 Rise up, O prince, our second king,
 And o'er the flood of ocean spring.
 So shall the glorious exploit vie
-With his who stepped through earth and sky.'  [1](Book_4_70#fn786)
+With his who stepped through earth and sky.'  [1](../Book_4_70#fn786)
 
 He spoke: the younger chieftain heard,
 His soul to vigorous effort stirred,

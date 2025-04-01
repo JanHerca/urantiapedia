@@ -84,9 +84,9 @@ It is desire, it is wrath [^177], born from the quality of passion; it is very r
 
 [^154]: 52:3 The state of identification of oneself with the Brahman, which results from a correct knowledge of the Brahman.
 
-[^155]: 52:4 Infra, [p. 66](Bhagavadgita_5#p66).
+[^155]: 52:4 Infra, [p. 66](../Bhagavadgita_5#p66).
 
-[^156]: 52:5 Supra, [p. 47](Bhagavadgita_2#p47).
+[^156]: 52:5 Supra, [p. 47](../Bhagavadgita_2#p47).
 
 [^157]: 52:6 I. e., according to <i>S</i>ankara, identification of oneself with Brahman.
 
@@ -94,13 +94,13 @@ It is desire, it is wrath [^177], born from the quality of passion; it is very r
 
 [^159]: 52:8 I. e. not coupled with knowledge and purity of heart.
 
-[^160]: 53:1 Cf. infra, pp. [122](Bhagavadgita_18#p122)\-[128](Bhagavadgita_18#p128).
+[^160]: 53:1 Cf. infra, pp. [122](../Bhagavadgita_18#p122)\-[128](../Bhagavadgita_18#p128).
 
 [^161]: 53:2 Hands, feet, &c.
 
 [^162]: 53:3 By means of true discrimination keeping the senses from attachments to worldly objects, which lead to sin and evil.
 
-[^163]: 53:4 Cf. infra, pp. [60](Bhagavadgita_4#p60), [61](Bhagavadgita_4#p61). Probably the ‘sacrifices’ spoken of in that passage must be taken to be the same as those referred to in the Creator's injunction mentioned in this passage.
+[^163]: 53:4 Cf. infra, pp. [60](../Bhagavadgita_4#p60), [61](../Bhagavadgita_4#p61). Probably the ‘sacrifices’ spoken of in that passage must be taken to be the same as those referred to in the Creator's injunction mentioned in this passage.
 
 [^164]: 53:5 Cf. Maitrî-upanishad, p. 143
 
@@ -112,9 +112,9 @@ It is desire, it is wrath [^177], born from the quality of passion; it is very r
 
 [^168]: 54:4 <i>S</i>rîdhara says that Ar<i>g</i>una is here told to perform action, as freedom from it is only for the man of true knowledge, which Ar<i>g</i>una is not as yet.
 
-[^169]: 54:5 I. e. final emancipation; cf. [p. 59](Bhagavadgita_4#p59) infra, and Î<i>s</i>opanishad, p. 6.
+[^169]: 54:5 I. e. final emancipation; cf. [p. 59](../Bhagavadgita_4#p59) infra, and Î<i>s</i>opanishad, p. 6.
 
-[^170]: 55:1 The active principle is nature, the aggregate of the three qualities; the soul is only the looker-on;, cf. inter alia, [p. 104](Bhagavadgita_13#p104) infra.
+[^170]: 55:1 The active principle is nature, the aggregate of the three qualities; the soul is only the looker-on;, cf. inter alia, [p. 104](../Bhagavadgita_13#p104) infra.
 
 [^171]: 55:2 Scil. the difference of the soul from the collection of qualities, viz. the body, senses. &c., and from the actions of which they are the authors.
 
@@ -130,16 +130,16 @@ It is desire, it is wrath [^177], born from the quality of passion; it is very r
 
 [^177]: 56:4 Cf. Sutta Nipâta, p. 101, as to ‘likings and dislikings.’
 
-[^178]: 57:1 Vide [p. 50](Bhagavadgita_2#p50) supra.
+[^178]: 57:1 Vide [p. 50](../Bhagavadgita_2#p50) supra.
 
-[^179]: 57:2 I. e. knowledge, mentioned in the next sentence, for which construction [p. 71](Bhagavadgita_6#p71) and [p. 98](Bhagavadgita_11#p98) may be compared.
+[^179]: 57:2 I. e. knowledge, mentioned in the next sentence, for which construction [p. 71](../Bhagavadgita_6#p71) and [p. 98](../Bhagavadgita_11#p98) may be compared.
 
 [^180]: 57:3 Which becomes more powerful the more it is fed.
 
-[^181]: 57:4 The mind is that which ponders over things as such or such the understanding is that which finally determines (cf. Lewes' History of Philosophy, II, 463-465). These and the senses are the ‘seat’ of desire, because the perception of an object by the sense, the pondering over it by the mind, and the determination about it by the understanding are the preliminaries to the awakening of the desire; supra, [p. 50](Bhagavadgita_2#p50).
+[^181]: 57:4 The mind is that which ponders over things as such or such the understanding is that which finally determines (cf. Lewes' History of Philosophy, II, 463-465). These and the senses are the ‘seat’ of desire, because the perception of an object by the sense, the pondering over it by the mind, and the determination about it by the understanding are the preliminaries to the awakening of the desire; supra, [p. 50](../Bhagavadgita_2#p50).
 
 [^182]: 57:5 Knowledge is from books or teachers, experience is the result of personal perception.
 
-[^183]: 57:6 Ka<i>th</i>opanishad, p. 114; and see also pp. [148](Sanatsugatiya_Intro#p148), [149](Sanatsugatiya_1#p149).
+[^183]: 57:6 Ka<i>th</i>opanishad, p. 114; and see also pp. [148](../Sanatsugatiya_Intro#p148), [149](../Sanatsugatiya_1#p149).
 
 [^184]: 57:7 I. e. the supreme Being, as in the Ka<i>th</i>opanishad.

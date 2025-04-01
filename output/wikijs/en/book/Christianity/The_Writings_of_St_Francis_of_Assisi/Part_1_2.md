@@ -75,7 +75,7 @@ Hail, [^136] queen wisdom! May the Lord save thee with thy sister holy pure simp
 
 [^130]: 20:1 “Wherefore,” he writes of St. Francis, “in the praises of the virtues which he composed he says ‘Hail! queen wisdom, God save Thee with Thy sister pure, holy simplicity.’” See _2 Cel_. 3, 119, for this _Incipit_.
 
-[^131]: 20:2 See page [3](Part_1_1#p3).
+[^131]: 20:2 See page [3](../Part_1_1#p3).
 
 [^132]: 20:3 In the text of the _Conformities_ (which for the most part agrees with that of the Ognissanti MS.) the Salutation is preceded by No. 27 of the Admonitions and begins with the words “There is absolutely no man,” etc.
 

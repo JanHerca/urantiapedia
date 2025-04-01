@@ -253,11 +253,11 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^230]: 127:2 On the three Vi<i>s</i>va<i>g</i>yotis bricks, placed in the same layers, as representing the gods Agni, Vâyu and Âditya respectively, see VI, 3, 3, 16; 5, 3, 3.
 
-[^231]: 128:1 Or, But these (bricks) also are (or mean) generative power, cf. [paragraph 1](Book_4_8_7#v8_7_1_1).
+[^231]: 128:1 Or, But these (bricks) also are (or mean) generative power, cf. [paragraph 1](../Book_4_8_7#v8_7_1_1).
 
 [^232]: 128:2 That is, he is not to shift them from their proper place, but place each subsequent pair exactly on those laid down before. As a matter of fact, however, these two bricks (if we determine their site by mere calculation) would seem, in the fifth layer, to lie by half a foot further away from the central point, than the <i>Ri</i>tavyâs of the other layers do. This is owing to the fact that whilst, in the layers in which a Svayamât<i>ri</i><i>n</i><i>n</i>â lies in the middle, only one half of these central bricks lie on the east side of the central point, in the present layer the eastern -portion of the Gârhapatya (occupying the central part of the layer) consists of full-sized bricks. This discrepancy of half a foot was probably made good by some space being left, which was afterwards filled up with earth; unless, indeed, the Svayamât<i>ri</i><i>n</i><i>n</i>âs, as apparently natural stones, were allowed to somewhat exceed the ordinary size of bricks.
 
-[^233]: 131:1 For this verse see part iii, p. 307, note 2; for its symbolic meaning (as the breath, or vital air) VII, 1, 1, 15; 26. See also [VIII, 7, 3, 21](Book_4_8_7#v8_7_3_21), where the verse itself is explained.
+[^233]: 131:1 For this verse see part iii, p. 307, note 2; for its symbolic meaning (as the breath, or vital air) VII, 1, 1, 15; 26. See also [VIII, 7, 3, 21](../Book_4_8_7#v8_7_3_21), where the verse itself is explained.
 
 [^234]: 131:2 In laying down the Lokamp<i>ri</i><i>n</i>âs of the fifth layer, he begins, as in the first layer, from the right shoulder, or the south-east corner, of the altar, but so that in this case the first ‘space-filler’ is laid down, not at the corner, but a cubit to the west of it. Starting from that spot, he fills up the available spaces, in two turns, moving in the sunwise fashion.
 
@@ -265,7 +265,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^236]: 132:2 At VI, 1, 2, 25 Tâ<i>n</i><i>d</i>ya was made to maintain that the Ya<i>g</i>ushmatîs, or bricks laid down with special formulas, were the nobility, and that the Lokamp<i>ri</i><i>n</i>âs, laid down with one and the same formula, were the peasants, and as the noble (or chieftain) required a numerous clan for his subsistence, there should be fewer of the former kind of bricks, than the established practice was. This view was however rejected by the author of the Brâhma<i>n</i>a, and here, in opposition to that view, the Lokamp<i>ri</i><i>n</i>â is identified with the nobility, and the Ya<i>g</i>ushmatîs with the clan.
 
-[^237]: 132:3 The common formula used with these bricks, and from which they derive their name—beginning as it does ‘Lokam p<i>ri</i><i>n</i>a,’ ‘Fill the space!’ see [parag. 6](Book_4_8_7#v8_7_2_6)\—is pronounced once only after every ten such bricks, and after any odd ones at the end.
+[^237]: 132:3 The common formula used with these bricks, and from which they derive their name—beginning as it does ‘Lokam p<i>ri</i><i>n</i>a,’ ‘Fill the space!’ see [parag. 6](../Book_4_8_7#v8_7_2_6)\—is pronounced once only after every ten such bricks, and after any odd ones at the end.
 
 [^238]: 133:1 In the translation of VII, 5, 2, 14 (part iii, p. 404), the passage ‘having taken possession of the man by strength,’ which was based on a wrong reading (see Weber, Berl. Cat. II, p. 69), should read thus: ‘having pre-eminently endowed man with power’ (or, perhaps, ‘having placed him above (others) in respect of power,’ St. Petersb. Dict.)
 
@@ -273,7 +273,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^240]: 135:1 That is, one not properly built.
 
-[^241]: 136:1 This would seem to be the Vikar<i>n</i>î (see [VIII, 7, 3, 9](Book_4_8_7#v8_7_3_9) seqq.) which, however, like the central Svayamât<i>ri</i><i>n</i><i>n</i>â, is only to be laid down after the layer has been levelled up.
+[^241]: 136:1 This would seem to be the Vikar<i>n</i>î (see [VIII, 7, 3, 9](../Book_4_8_7#v8_7_3_9) seqq.) which, however, like the central Svayamât<i>ri</i><i>n</i><i>n</i>â, is only to be laid down after the layer has been levelled up.
 
 [^242]: 136:2 Viz. to the east end of the ‘spine.’
 
@@ -283,7 +283,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^245]: 137:3 Or, perhaps, dig them in.
 
-[^246]: 138:1 Âvapana has also the meaning of ‘throwing in, insertion,’ which is likewise understood here, whilst further on in this paragraph (‘the air is the âvapanam of all beings’) it can scarcely have this meaning (? something injected). Cf. [IX, 4, 2, 27](Book_4_9_4#v9_4_2_27).
+[^246]: 138:1 Âvapana has also the meaning of ‘throwing in, insertion,’ which is likewise understood here, whilst further on in this paragraph (‘the air is the âvapanam of all beings’) it can scarcely have this meaning (? something injected). Cf. [IX, 4, 2, 27](../Book_4_9_4#v9_4_2_27).
 
 [^247]: 139:1 Or, therewith (with loose soil).
 

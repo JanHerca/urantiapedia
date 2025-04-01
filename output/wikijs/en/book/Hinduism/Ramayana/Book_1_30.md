@@ -285,7 +285,7 @@ Far less to other men revealed.
 These arms to him, when earth he swayed,
 Mighty Kris'ás'va, pleased, conveyed.
 Kris'ás'va's sons they are indeed,
-Brought forth by Daksha's lovely seed,  [1](Book_1_30#fn145)
+Brought forth by Daksha's lovely seed,  [1](../Book_1_30#fn145)
 Heralds of conquest, strong and bold,
 Brilliant, of semblance manifold.
 Jayá and Vijayá, most fair,
@@ -460,7 +460,7 @@ Dissolved the shape that was so fair
 Since the great God's terrific rage
 &nbsp;&nbsp;&nbsp;&nbsp;Destroyed his form and frame,
 Káma in each succeeding age
-&nbsp;&nbsp;&nbsp;&nbsp;Has borne Ananga's  [1](Book_1_30#fn156) name.
+&nbsp;&nbsp;&nbsp;&nbsp;Has borne Ananga's  [1](../Book_1_30#fn156) name.
 So, where his lovely form decayed,
 &nbsp;&nbsp;&nbsp;&nbsp;This land is Anga styled:
 Sacred to him of old this shade,
@@ -860,7 +860,7 @@ And as he bade, that night he spent
 In Tádaká's wild wood, content.
 And the grove shone that happy day,
 Freed from the curse that on it lay,
-Like Chaitraratha  [1](Book_1_30#fn163) fair and gay.
+Like Chaitraratha  [1](../Book_1_30#fn163) fair and gay.
 
 
 

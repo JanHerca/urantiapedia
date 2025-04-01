@@ -142,6 +142,6 @@ Thus I say.
 
 [^837]: 281:3 Or, with burning fire they roast them.
 
-[^838]: 281:4 See Uttarâdhyayana XIX, 69 ff., above [p. 96](Uttaradhyayana_19#p96).
+[^838]: 281:4 See Uttarâdhyayana XIX, 69 ff., above [p. 96](../Uttaradhyayana_19#p96).
 
 [^839]: 282:1 Compare note on verse 12. The same lines recur in the next chapter, verse 13. The commentator gives the same explanation there as here.

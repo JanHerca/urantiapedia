@@ -35,7 +35,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
-This Ya<i>s</i>t ought to follow immediately after the Tîr Ya<i>s</i>t, as it is derived from the same Sîrôzah formula; the one in which Ti<i>s</i>trya is invoked along with Vana<i>n</i><i>t</i> and Haptôiri<i>n</i>ga (Sîrôzah, § 13). It is a mere supplement to that Ya<i>s</i>t. On Vana<i>n</i><i>t</i>, see [p. 97](Yasts_8#p97), note [6](Yasts_8#fn481).
+This Ya<i>s</i>t ought to follow immediately after the Tîr Ya<i>s</i>t, as it is derived from the same Sîrôzah formula; the one in which Ti<i>s</i>trya is invoked along with Vana<i>n</i><i>t</i> and Haptôiri<i>n</i>ga (Sîrôzah, § 13). It is a mere supplement to that Ya<i>s</i>t. On Vana<i>n</i><i>t</i>, see [p. 97](../Yasts_8#p97), note [6](../Yasts_8#fn481).
 
 ---
 
@@ -93,7 +93,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1388]: 310:1 See [p. 13](Sirozahs_1#p13), note [2](Sirozahs_1#fn96).
+[^1388]: 310:1 See [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
 
 [^1389]: 310:2 The reptiles and other Ahrimanian creatures (Vendîdâd, Introd. V, 11) which are destroyed by the rain (Bund. VII, 7).
 

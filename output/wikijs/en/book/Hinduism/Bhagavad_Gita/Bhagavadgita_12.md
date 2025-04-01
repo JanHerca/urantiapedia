@@ -68,7 +68,7 @@ Those who being constantly devoted, and possessed of the highest faith, worship 
 
 ## Footnotes
 
-[^403]: 99:1 Literally, ‘entered into;’ it means final emancipation. See [p. 128](Bhagavadgita_18#p128).
+[^403]: 99:1 Literally, ‘entered into;’ it means final emancipation. See [p. 128](../Bhagavadgita_18#p128).
 
 [^404]: 100:1 Passively looking on what occurs on earth; immovable = changeless; constant = eternal.
 
@@ -78,7 +78,7 @@ Those who being constantly devoted, and possessed of the highest faith, worship 
 
 [^407]: 100:4 Literally, ‘wish.’
 
-[^408]: 100:5 Cf. [p. 78](Bhagavadgita_8#p78) supra.
+[^408]: 100:5 Cf. [p. 78](../Bhagavadgita_8#p78) supra.
 
 [^409]: 100:6 Performing actions, but dedicating them to me.
 

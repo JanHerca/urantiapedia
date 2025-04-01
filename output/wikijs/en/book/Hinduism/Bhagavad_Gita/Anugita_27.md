@@ -44,7 +44,7 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 <span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
-(element) water, and the feeling of touch is air, the hideous holder of the mud [^1682] is earth, and likewise the sound is space; which is pervaded by disease and sorrow; which is surrounded by the five currents [^1683]; which is made up of the five elements; which has nine passages [^1684] and two deities [^1685]; which is full of passion; unfit to be seen [^1686]; made up of three qualities and of three constituent elements [^1687]; pleased with contacts [^1688]; and full of delusion [^1689]; this same (body), which is difficult to move in this mortal world, and which rests on the real (entity) [^1690], is the very wheel of time which rotates in this world [^1691]. It is a great ocean, fearful and unfathomable, and is named [^1692] delusion. The world, together with the immortals, should cast it aside, curtail it, <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> and restrain it [^1693]. Desire, wrath, fear, avarice, treachery, and falsehood also, (all these), which are difficult to get rid of, the good do get rid of by restraint of the senses [^1694]. And he who in this world has vanquished the three qualities and the five constituent elements [^1695], obtains the highest [^1696]\—the infinite-seat in heaven. Crossing the river of which the five senses are the lofty banks, the agitation of mind [^1697] the mighty waters, and delusion the reservoir [^1698], one should vanquish both desire and wrath. Freed from all sins, he, then perceives that highest (principle), concentrating the mind within the mind [^1699], and seeing the self within the self [^1700]. Understanding everything, he sees the self with the self in all entities as one [^1701], and also as various, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> changing from time to time [1](Anugita_28#fn1702). He can always perceive (numerous) bodies like a hundred lights from one light. He verily is Vish<i>n</i>u, and Mitra, and Varuna, Agni, and Pra<i>g</i>âpati. He is the supporter, and the creator. He is the lord whose faces ale in all directions [2](Anugita_28#fn1703). (In him) the great self—the heart of all beings—is resplendent. Him, all companies of Brâhma<i>n</i>as, and also gods, and demons, and Yakshas, and Pisâ<i>k</i>as, and Pit<i>ri</i>s, and birds, and the bands of Rakshases, and the bands of Bhûtas [3](Anugita_28#fn1704), and also all the great sages, ever extol.
+(element) water, and the feeling of touch is air, the hideous holder of the mud [^1682] is earth, and likewise the sound is space; which is pervaded by disease and sorrow; which is surrounded by the five currents [^1683]; which is made up of the five elements; which has nine passages [^1684] and two deities [^1685]; which is full of passion; unfit to be seen [^1686]; made up of three qualities and of three constituent elements [^1687]; pleased with contacts [^1688]; and full of delusion [^1689]; this same (body), which is difficult to move in this mortal world, and which rests on the real (entity) [^1690], is the very wheel of time which rotates in this world [^1691]. It is a great ocean, fearful and unfathomable, and is named [^1692] delusion. The world, together with the immortals, should cast it aside, curtail it, <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> and restrain it [^1693]. Desire, wrath, fear, avarice, treachery, and falsehood also, (all these), which are difficult to get rid of, the good do get rid of by restraint of the senses [^1694]. And he who in this world has vanquished the three qualities and the five constituent elements [^1695], obtains the highest [^1696]\—the infinite-seat in heaven. Crossing the river of which the five senses are the lofty banks, the agitation of mind [^1697] the mighty waters, and delusion the reservoir [^1698], one should vanquish both desire and wrath. Freed from all sins, he, then perceives that highest (principle), concentrating the mind within the mind [^1699], and seeing the self within the self [^1700]. Understanding everything, he sees the self with the self in all entities as one [^1701], and also as various, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> changing from time to time [1](../Anugita_28#fn1702). He can always perceive (numerous) bodies like a hundred lights from one light. He verily is Vish<i>n</i>u, and Mitra, and Varuna, Agni, and Pra<i>g</i>âpati. He is the supporter, and the creator. He is the lord whose faces ale in all directions [2](../Anugita_28#fn1703). (In him) the great self—the heart of all beings—is resplendent. Him, all companies of Brâhma<i>n</i>as, and also gods, and demons, and Yakshas, and Pisâ<i>k</i>as, and Pit<i>ri</i>s, and birds, and the bands of Rakshases, and the bands of Bhûtas [3](../Anugita_28#fn1704), and also all the great sages, ever extol.
 
 
 
@@ -76,9 +76,9 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1638]: 335:1 The contact of the objects of sense with the senses is the source of delusion.
 
-[^1639]: 335:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107), and note [1](Bhagavadgita_14#fn444) there.
+[^1639]: 335:2 Cf. Gîtâ, [p. 107](../Bhagavadgita_14#p107), and note [1](../Bhagavadgita_14#fn444) there.
 
-[^1640]: 335:3 Cf. Sânkhya-sûtra I, 121, and [p. 387](Anugita_36#p387) infra.
+[^1640]: 335:3 Cf. Sânkhya-sûtra I, 121, and [p. 387](../Anugita_36#p387) infra.
 
 [^1641]: 335:4 I.e. knowledge of the truth, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -106,19 +106,19 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1653]: 337:3 Cf. Lalita Vistara (translated by Dr. R. Mitra), p. 11.
 
-[^1654]: 337:4 The above sentences show the entities in the three different aspects mentioned, which correspond to each other; the ear is the sense, that which is connected with the self; sound is the object of that sense, as connected with the external world; and the p. 338 quarters, Dik, are the deities presiding over the senses; as to this cf. Sânkhya-sâra, p. 17, and Vedânta Paribhâshâ, p. 45, which show some discrepancies. The distinctions of Adhyâtma &c. are to be found in the Upanishads; cf. inter alia, <i>Kh</i>ândogya, p. 227, and cf. Gîtâ, [p. 77](Bhagavadgita_7#p77).
+[^1654]: 337:4 The above sentences show the entities in the three different aspects mentioned, which correspond to each other; the ear is the sense, that which is connected with the self; sound is the object of that sense, as connected with the external world; and the p. 338 quarters, Dik, are the deities presiding over the senses; as to this cf. Sânkhya-sâra, p. 17, and Vedânta Paribhâshâ, p. 45, which show some discrepancies. The distinctions of Adhyâtma &c. are to be found in the Upanishads; cf. inter alia, <i>Kh</i>ândogya, p. 227, and cf. Gîtâ, [p. 77](../Bhagavadgita_7#p77).
 
 [^1655]: 338:1 As to the original word, cf. inter alia, <i>S</i>vetâ<i>s</i>vatara, pp. 197-202.
 
-[^1656]: 338:2 This probably means the five senses which can perceive only when associated with the mind. See [p. 268](Anugita_7#p268) supra.
+[^1656]: 338:2 This probably means the five senses which can perceive only when associated with the mind. See [p. 268](../Anugita_7#p268) supra.
 
 [^1657]: 338:3 The understanding is called the charioteer at Ka<i>th</i>a, p. 111.
 
 [^1658]: 339:1 Cf. <i>Kh</i>ândogya, pp. 404-406, and glosses; Aitareya, p. 243; Vedânta Paribhâshâ, p. 47; Sânkhya-sûtra V, 111; Manu. I, 43; Max Müller's note at p. 94 of his <i>Kh</i>ândogya in this series.
 
-[^1659]: 339:2 So Nîlaka<i>nth</i>a, but he also adds that this means birth as a Brâhma<i>n</i>a, which seems to be quite wrong. Ar<i>g</i>una Mi<i>s</i>ra's ‘means of acquiring Brahman’ is right. See [p. 369](Anugita_32#p369) infra.
+[^1659]: 339:2 So Nîlaka<i>nth</i>a, but he also adds that this means birth as a Brâhma<i>n</i>a, which seems to be quite wrong. Ar<i>g</i>una Mi<i>s</i>ra's ‘means of acquiring Brahman’ is right. See [p. 369](../Anugita_32#p369) infra.
 
-[^1660]: 339:3 I. e., I presume, ‘knowledge.’ <i>S</i>ankara has so interpreted the word at Mu<i>nd</i>aka, p. 270, and Ka<i>nd</i>a, p. 127, and elsewhere; and see Sanatsu<i>g</i>âtîya, [p. 166](Sanatsugatiya_3#p166) supra.
+[^1660]: 339:3 I. e., I presume, ‘knowledge.’ <i>S</i>ankara has so interpreted the word at Mu<i>nd</i>aka, p. 270, and Ka<i>nd</i>a, p. 127, and elsewhere; and see Sanatsu<i>g</i>âtîya, [p. 166](../Sanatsugatiya_3#p166) supra.
 
 [^1661]: 339:4 Another reading is ‘of two kinds.’ But I prefer this, as three kinds are mentioned further on.
 
@@ -140,11 +140,11 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1670]: 341:6 Such as meditation or upâsana, and prâ<i>n</i>âyama or restraint of life-winds respectively, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1671]: 341:7 Cf. [p. 310](Anugita_19#p310) supra.
+[^1671]: 341:7 Cf. [p. 310](../Anugita_19#p310) supra.
 
 [^1672]: 341:8 I. e. bravery, learning, &c. are treated as not being merits, as they cause pride, &c., Nîlaka<i>nth</i>a.
 
-[^1673]: 341:9 I. e. in solitude, Nîlaka<i>nth</i>a; devoting oneself to the self\` only, Ar<i>g</i>una Mi<i>s</i>ra. Cf. also [p. 284](Anugita_11#p284) supra, note [4](Anugita_12#fn1364).
+[^1673]: 341:9 I. e. in solitude, Nîlaka<i>nth</i>a; devoting oneself to the self\` only, Ar<i>g</i>una Mi<i>s</i>ra. Cf. also [p. 284](../Anugita_11#p284) supra, note [4](../Anugita_12#fn1364).
 
 [^1674]: 341:10 Or, says Nîlaka<i>nth</i>a, free from any belief in distinctions.
 
@@ -152,19 +152,19 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1676]: 341:12 I. e. all collected together, I presume.
 
-[^1677]: 342:1 Cf. Gîtâ, pp. [50](Bhagavadgita_2#p50), [51](Bhagavadgita_2#p51), and <i>S</i>ânti Parvan (Moksha Dharma) I, 51, where the phrase is precisely the same as here.
+[^1677]: 342:1 Cf. Gîtâ, pp. [50](../Bhagavadgita_2#p50), [51](../Bhagavadgita_2#p51), and <i>S</i>ânti Parvan (Moksha Dharma) I, 51, where the phrase is precisely the same as here.
 
-[^1678]: 342:2 I. e. from all bonds, I suppose. See [p. 292](Anugita_13#p292) supra.
+[^1678]: 342:2 I. e. from all bonds, I suppose. See [p. 292](../Anugita_13#p292) supra.
 
-[^1679]: 342:3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
+[^1679]: 342:3 Cf. Gîtâ, [p. 51](../Bhagavadgita_2#p51).
 
-[^1680]: 342:4 Cf. Gîtâ, [p. 110](Bhagavadgita_14#p110).
+[^1680]: 342:4 Cf. Gîtâ, [p. 110](../Bhagavadgita_14#p110).
 
-[^1681]: 342:5 Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68).
+[^1681]: 342:5 Cf. Gîtâ, [p. 68](../Bhagavadgita_6#p68).
 
-[^1682]: 342:6 I. e. experience, Nîlaka<i>nth</i>a. It means direct perception of the relations between the supreme and individual self, Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
+[^1682]: 342:6 I. e. experience, Nîlaka<i>nth</i>a. It means direct perception of the relations between the supreme and individual self, Cf. Gîtâ, [p. 111](../Bhagavadgita_15#p111).
 
-[^1683]: 342:7 As opposed to forests. See Sanatsu<i>g</i>âtîya, [p. 159](Sanatsugatiya_2#p159), note 9.
+[^1683]: 342:7 As opposed to forests. See Sanatsu<i>g</i>âtîya, [p. 159](../Sanatsugatiya_2#p159), note 9.
 
 [^1684]: 342:8 This must mean here the supreme self, apparently.
 
@@ -178,15 +178,15 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1689]: 343:1 I. e. the flesh, bone, and so forth, Nîlaka<i>nth</i>a; the mucus in the nose, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1690]: 343:2 I. e. the senses. Cf. [p. 238](Anugita_2#p238) supra, note [7](Anugita_2#fn1090).
+[^1690]: 343:2 I. e. the senses. Cf. [p. 238](../Anugita_2#p238) supra, note [7](../Anugita_2#fn1090).
 
-[^1691]: 343:3 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1691]: 343:3 Cf. Gîtâ, [p. 65](../Bhagavadgita_5#p65).
 
-[^1692]: 343:4 See Sanatsu<i>g</i>âtîya, [p. 187](6#p187) supra.
+[^1692]: 343:4 See Sanatsu<i>g</i>âtîya, [p. 187](../6#p187) supra.
 
-[^1693]: 343:5 As being unholy, Nîlaka<i>nth</i>a; as the bodies of Kâ<i>nth</i>âlas &c, when seen are productive of sin, Ar<i>g</i>una Mi<i>s</i>ra. See [p. 155](Sanatsugatiya_2#p155) supra.
+[^1693]: 343:5 As being unholy, Nîlaka<i>nth</i>a; as the bodies of Kâ<i>nth</i>âlas &c, when seen are productive of sin, Ar<i>g</i>una Mi<i>s</i>ra. See [p. 155](../Sanatsugatiya_2#p155) supra.
 
-[^1694]: 343:6 Viz. vâta, pitta, <i>s</i>leshma, or wind, bile,, and phlegm. The dhâtus are sometimes spoken of as seven. See Yoga-sûtras, p. 192; Taitt. Âr. p. 874, commentary, and [p. 246](Anugita_4#p246) supra. See, too, however, <i>S</i>vetâ<i>s</i>vatara, commentary, p. 287.
+[^1694]: 343:6 Viz. vâta, pitta, <i>s</i>leshma, or wind, bile,, and phlegm. The dhâtus are sometimes spoken of as seven. See Yoga-sûtras, p. 192; Taitt. Âr. p. 874, commentary, and [p. 246](../Anugita_4#p246) supra. See, too, however, <i>S</i>vetâ<i>s</i>vatara, commentary, p. 287.
 
 [^1695]: 343:7 Which is delighted only by contact with food and so forth, not otherwise, Nîlaka<i>nth</i>a.
 
@@ -194,24 +194,24 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1697]: 343:9 I. e. the self, Ar<i>g</i>una Mi<i>s</i>ra; the understanding, Nîlaka<i>nth</i>a difficult to move = difficult to adjust if attacked by disease, &c., Nîlaka<i>nth</i>a.
 
-[^1698]: 343:10 It is owing to this body that the self becomes limited by time, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a's gloss I do not follow. Cf. [p. 187](Sanatsugatiya_6#p187) supra, and [p. 355](Anugita_29#p355) infra.
+[^1698]: 343:10 It is owing to this body that the self becomes limited by time, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a's gloss I do not follow. Cf. [p. 187](../Sanatsugatiya_6#p187) supra, and [p. 355](../Anugita_29#p355) infra.
 
 [^1699]: 343:11 I. e., Characterised by delusion, Ar<i>g</i>una Mi<i>s</i>ra.
 
 [^1700]: 344:1 I am not sure about the meaning here. Ar<i>g</i>una Mi<i>s</i>ra says, (reading vi<i>s</i>riget, ‘send forth,’ for vikshipet, ‘cast aside,’) ‘send forth at the creation, curtail at the dissolution, and restrain at the final emancipation.’ The commentary reads rodhayet, which we have adopted above. The text in the same copy, however, is bodhayet. Ar<i>g</i>una Mi<i>s</i>ra adds, as far as I can make out from an incorrect copy: ‘as in this life everything is accomplished by these actions’ (namely, I suppose, the casting aside, &c.) Nîlaka<i>nth</i>a says, ‘This same thing is the cause of creation, destruction, and knowledge,’ reading bodhayet.
 
-[^1701]: 344:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57).
+[^1701]: 344:2 Cf. Gîtâ, [p. 57](../Bhagavadgita_3#p57).
 
 [^1702]: 344:3 I. e. the five great elements, as stated in Williams' Dictionary, citing Yâgñavalkya III, 145. See Sânti Parvan (Moksha), chap. 182, st. 16; chap. 184, st. 1.
 
 [^1703]: 344:4 I. e. the seat of the Brahman, Nîlaka<i>nth</i>a.
 
-[^1704]: 344:5 See Gîtâ, [p. 66](Bhagavadgita_5#p66), where the word is the same, viz. vega.
+[^1704]: 344:5 See Gîtâ, [p. 66](../Bhagavadgita_5#p66), where the word is the same, viz. vega.
 
 [^1705]: 344:6 From which, namely, the river issues. Cf. for the whole figure, <i>S</i>ânti Parvan (Moksha), chap. 251, st. 12.
 
-[^1706]: 344:7 The mind = the lotus-like heart, Nîlaka<i>nth</i>a. Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79). Concentrating = withdrawing from external objects, &c.
+[^1706]: 344:7 The mind = the lotus-like heart, Nîlaka<i>nth</i>a. Cf. Gîtâ, [p. 79](../Bhagavadgita_8#p79). Concentrating = withdrawing from external objects, &c.
 
-[^1707]: 344:8 I. e. in the body, Nîlaka<i>nth</i>a. See [p. 248](Anugita_4#p248).
+[^1707]: 344:8 I. e. in the body, Nîlaka<i>nth</i>a. See [p. 248](../Anugita_4#p248).
 
-[^1708]: 344:9 Cf. Gîtâ, [p. 83](Bhagavadgita_9#p83), and note [4](Bhagavadgita_9#fn323) there. Nîlaka<i>nth</i>a says, ‘as one, i. e. by direct perception of the unity of the individual and supreme, and as various, i. e. in the all-comprehending form.’
+[^1708]: 344:9 Cf. Gîtâ, [p. 83](../Bhagavadgita_9#p83), and note [4](../Bhagavadgita_9#fn323) there. Nîlaka<i>nth</i>a says, ‘as one, i. e. by direct perception of the unity of the individual and supreme, and as various, i. e. in the all-comprehending form.’

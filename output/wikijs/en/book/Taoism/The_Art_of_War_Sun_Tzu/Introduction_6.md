@@ -130,7 +130,7 @@ To these of course must be added the great Catalogue of the Imperial Library:
 
 [^159]: l:2 #.
 
-[^160]: l:3 See [p. 174](13#p174). Further details on T‘ai Kung will be found in the _Shih Chi_, ch. 32 _ad init_. Besides the tradition which makes him a former minister of Chou Hsin, two other accounts of him are there given, according to which he would appear to have been first raised from a humble private station by Wên Wang.
+[^160]: l:3 See [p. 174](../13#p174). Further details on T‘ai Kung will be found in the _Shih Chi_, ch. 32 _ad init_. Besides the tradition which makes him a former minister of Chou Hsin, two other accounts of him are there given, according to which he would appear to have been first raised from a humble private station by Wên Wang.
 
 [^161]: li:1 #.
 

@@ -205,13 +205,13 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^462]: 230:1 The whole triplet runs thus: ‘Refreshing ye are, O waters; lead us to strength, to see great joy!—whatever is your most benign sap, therein let us share, like loving mothers!—For you we will readily go to him, to whose abode ye urge us, O waters, and quicken us.’
 
-[^463]: 230:2 See [VI, 1, 1, 12](Book_3_6_1#v6_1_1_12).
+[^463]: 230:2 See [VI, 1, 1, 12](../Book_3_6_1#v6_1_1_12).
 
-[^464]: 230:3 [VI, 1, 1, 13](Book_3_6_1#v6_1_1_13).
+[^464]: 230:3 [VI, 1, 1, 13](../Book_3_6_1#v6_1_1_13).
 
 [^465]: 230:4 That is, the hair of cattle is the most obvious characteristic of their outward appearance.
 
-[^466]: 232:1 See [VI, 1, 2, 6](Book_3_6_1#v6_1_2_6)\-[7](Book_3_6_1#v6_1_2_7).
+[^466]: 232:1 See [VI, 1, 2, 6](../Book_3_6_1#v6_1_2_6)\-[7](../Book_3_6_1#v6_1_2_7).
 
 [^467]: 235:1 Vish<i>n</i>u is identical with Agni, inasmuch as both are the sacrifice.
 
@@ -221,19 +221,19 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^470]: 236:2 Viz. by means of the mountains, according to Sâya<i>n</i>a.
 
-[^471]: 238:1 [VI, 6, 4, 8](Book_3_6_6#v6_6_4_8).
+[^471]: 238:1 [VI, 6, 4, 8](../Book_3_6_6#v6_6_4_8).
 
-[^472]: 239:1 See [VI, 1, 1, 14](Book_3_6_1#v6_1_1_14).
+[^472]: 239:1 See [VI, 1, 1, 14](../Book_3_6_1#v6_1_1_14).
 
-[^473]: 239:2 Viz. those of the sky, the air, and the earth. See [VI, 1, 2, 10](Book_3_6_1#v6_1_2_10).
+[^473]: 239:2 Viz. those of the sky, the air, and the earth. See [VI, 1, 2, 10](../Book_3_6_1#v6_1_2_10).
 
-[^474]: 240:1 That is, in case the fire-pan were to break. See [VI, 6, 4, 8](Book_3_6_6#v6_6_4_8) seq.
+[^474]: 240:1 That is, in case the fire-pan were to break. See [VI, 6, 4, 8](../Book_3_6_6#v6_6_4_8) seq.
 
 [^475]: 241:1 ? Or, divided into groups of seven each, as, for instance, the Mantis, see II, 5, 1, 13.
 
 [^476]: 241:2 Comp. the Germ. ‘seine sieben Sachen (or, Siebensachen) packen,’ to pack one's traps.
 
-[^477]: 241:3 One might take ‘athainam asyâ<i>m</i> khanati’ to mean, ‘he now digs for him (Agni) in the earth,’ or ‘digs him into the earth.’ Cf. [VI, 4, 1, 1](Book_3_6_4#v6_4_1_1), ‘athainam ata<i>h</i> khanati.’ Sâya<i>n</i>a, however (in accordance with the formula in [paragraph 3](Book_3_6_5#v6_5_4_3)), supplies ‘ava<i>t</i>am,’ ‘a hole.’
+[^477]: 241:3 One might take ‘athainam asyâ<i>m</i> khanati’ to mean, ‘he now digs for him (Agni) in the earth,’ or ‘digs him into the earth.’ Cf. [VI, 4, 1, 1](../Book_3_6_4#v6_4_1_1), ‘athainam ata<i>h</i> khanati.’ Sâya<i>n</i>a, however (in accordance with the formula in [paragraph 3](../Book_3_6_5#v6_5_4_3)), supplies ‘ava<i>t</i>am,’ ‘a hole.’
 
 [^478]: 242:1 Sarvâbhyo digbhya enam ava<i>t</i>a<i>m</i> khanati ta<i>m</i> <i>k</i>a sarvâsu dikshu nâsh<i>t</i>râ na hi<i>m</i>santi, Sây.
 

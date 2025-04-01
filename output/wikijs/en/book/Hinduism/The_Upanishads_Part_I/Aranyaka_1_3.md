@@ -149,7 +149,7 @@ In nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] are the waters in 
 
 6\. He extends a Trish<i>t</i>ubh and an Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh is the man, Anush<i>t</i>ubh the wife, and they make a couple. Therefore does a man, after having found a wife, consider himself a more perfect man.
 
-7\. These verses, by repeating the first three times, become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth [^446]. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> through the same. Therefore the two, the day and the hymn, are twenty-five [1](Aranyaka_3_1#fn447).
+7\. These verses, by repeating the first three times, become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth [^446]. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> through the same. Therefore the two, the day and the hymn, are twenty-five [1](../Aranyaka_3_1#fn447).
 
 
 ## SIXTH KHA<i>N</i><i>D</i>A.

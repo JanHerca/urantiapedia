@@ -76,7 +76,7 @@ The dukes and all the others, having heard this charge, bowed to one another, an
 
 ## Footnotes
 
-[^286]: 243:1 See note on these ministers, [p. 235](Shu_King_Part5_22#p235).
+[^286]: 243:1 See note on these ministers, [p. 235](../Shu_King_Part5_22#p235).
 
 [^287]: 243:2 These presents were in addition to the teams of horses exhibited in the courtyard;—silks and lighter productions of their various territories.
 
