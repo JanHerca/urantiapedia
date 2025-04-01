@@ -1,5 +1,5 @@
 ---
-title: Conversión del Índice de términos de TXT a Wiki.js
+title: Conversión de la Enciclopedia de TXT a Wiki.js
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td><a href="/es/help/github_diagrams_catalog">Catálogo de diagramas</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,9 +50,9 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td><a href="/es/help/github_diagrams_catalog">Catálogo de diagramas</a></td>
       </tr>
     </tbody>
   </table>

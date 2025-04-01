@@ -1,5 +1,5 @@
 ---
-title: "Création d'un catalogue de livres «source»"
+title: "Création d'un catalogue de livres supposément utilisés par les révélateurs"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/github_religious_books_markdown">Obtenez des livres de toutes les religions</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres « sources »</a></td>
+        <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres supposément utilisés par les révélateurs</a></td>
       </tr>
     </tbody>
   </table>
@@ -73,7 +73,7 @@ Avec ce fichier, l'index de la _Bibliothèque Urantiapedia_ et les index de chaq
       <tr>
         <td><a href="/fr/help/github_religious_books_markdown">Obtenez des livres de toutes les religions</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres « sources »</a></td>
+        <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres supposément utilisés par les révélateurs</a></td>
       </tr>
     </tbody>
   </table>

@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros «fuente»</a></td>
+        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_articles_markdown">Obtener artículos</a></td>
       </tr>
@@ -74,7 +74,7 @@ Si has modificado el listado a partir del fichero que hay en GitHub, tienes dos 
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros «fuente»</a></td>
+        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_articles_markdown">Obtener artículos</a></td>
       </tr>

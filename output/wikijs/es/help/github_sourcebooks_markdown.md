@@ -1,5 +1,5 @@
 ---
-title: "Obtener libros «fuente»"
+title: "Obtener libros supuestamente usados por los reveladores"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,15 +12,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_articles_catalog">Catálogo de artículos</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
+Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de libros supuestamente usados por los reveladores](/es/help/github_sourcebooks_catalog).
 
 ## Proceso
 
@@ -365,9 +365,9 @@ Esto completa todas las cosas a tener en cuenta al añadir libros «fuente» a l
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_articles_catalog">Catálogo de artículos</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>

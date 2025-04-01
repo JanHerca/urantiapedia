@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_studyaids_markdown">Obtenir des aides à l'étude</a></td>
+        <td><a href="/fr/help/github_topicindex_to_wiki">Convertir l'Encyclopédie</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_diagrams_svg">Obtenir des diagrammes</a></td>
       </tr>
@@ -61,7 +61,7 @@ Si vous avez modifié la liste du fichier sur GitHub, vous avez deux options pou
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_studyaids_markdown">Obtenir des aides à l'étude</a></td>
+        <td><a href="/fr/help/github_topicindex_to_wiki">Convertir l'Encyclopédie</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_diagrams_svg">Obtenir des diagrammes</a></td>
       </tr>

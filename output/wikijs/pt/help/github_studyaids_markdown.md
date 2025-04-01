@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/github_studyaids_catalog">Criando um catálogo de auxílios de estudo</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_diagrams_catalog">Criando um catálogo de diagramas</a></td>
+        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
       </tr>
     </tbody>
   </table>
@@ -86,7 +86,7 @@ Se você for um “editor-chefe” usando o GitHub, poderá enviar auxílios de 
       <tr>
         <td><a href="/pt/help/github_studyaids_catalog">Criando um catálogo de auxílios de estudo</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_diagrams_catalog">Criando um catálogo de diagramas</a></td>
+        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
       </tr>
     </tbody>
   </table>

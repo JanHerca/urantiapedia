@@ -12,7 +12,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help/github_studyaids_markdown">Obtener ayudas de estudio</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_religious_books_markdown">Obtener libros de todas las religiones</a></td>
       </tr>
@@ -67,7 +67,7 @@ Con este fichero se ha creado manualmente (mediante _replaces_) el índice de la
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help/github_studyaids_markdown">Obtener ayudas de estudio</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_religious_books_markdown">Obtener libros de todas las religiones</a></td>
       </tr>

@@ -1,5 +1,5 @@
 ---
-title: "Obter livros «fonte»"
+title: "Obtenção de livros supostamente usados ​​por reveladores"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros «fonte»</a></td>
+        <td><a href="/pt/help/github_sourcebooks_catalog">Criação de um catálogo de livros supostamente usados ​​por reveladores</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_articles_catalog">Criando catálogo de artigos</a></td>
+        <td><a href="/pt/help/github_topicindex">Tradução e revisão da Enciclopédia</a></td>
       </tr>
     </tbody>
   </table>
@@ -366,9 +366,9 @@ Isso completa todas as coisas que você deve ter em mente ao adicionar livros �
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros «fonte»</a></td>
+        <td><a href="/pt/help/github_sourcebooks_catalog">Criação de um catálogo de livros supostamente usados ​​por reveladores</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_articles_catalog">Criando catálogo de artigos</a></td>
+        <td><a href="/pt/help/github_topicindex">Tradução e revisão da Enciclopédia</a></td>
       </tr>
     </tbody>
   </table>

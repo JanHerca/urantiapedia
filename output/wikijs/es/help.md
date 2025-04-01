@@ -53,28 +53,35 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
 
 ## Tareas para colaboradores
 
-### Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
+### Fase I: El Libro de Urantia y la Biblia
 
 1. [Traducción del Paramony](/es/help/github_paramony)
-2. [Traducción y revisión del Índice de términos](/es/help/github_topicindex)
-3. [Obtener la Biblia](/es/help/github_bible)
-4. [Conversión a JSON](/es/help/github_book_json)
-5. [Adición de notas al pie](/es/help/github_footnotes)
-6. [Conversión del Índice de Términos](/es/help/github_topicindex_to_wiki)
-7. [Conversión de El Libro de Urantia](/es/help/github_book_to_wiki)
-8. [Conversión de La Biblia](/es/help/github_bible_to_wiki)
-9. [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload)
+2. [Obtener la Biblia](/es/help/github_bible)
+3. [Conversión a JSON](/es/help/github_book_json)
+4. [Adición de notas al pie](/es/help/github_footnotes)
+5. [Conversión de El Libro de Urantia](/es/help/github_book_to_wiki)
+6. [Conversión de La Biblia](/es/help/github_bible_to_wiki)
+7. [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload)
 
-### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
+### Fase II: Hemeroteca, Biblioteca y Enciclopedia
 
-1. [Creación de un catálogo de libros de todas las religiones](/es/help/github_religious_books_catalog)
-2. [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown)
-3. [Catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog)
-2. [Obtener libros «fuente»](/es/help/github_sourcebooks_markdown)
-3. [Catálogo de artículos](/es/help/github_articles_catalog)
-4. [Obtener artículos](/es/help/github_articles_markdown)
-5. [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog)
-6. [Obtener ayudas de estudio](/es/help/github_studyaids_markdown)
-7. [Catálogo de diagramas](/es/help/github_diagrams_catalog)
-8. [Obtener diagramas](/es/help/github_diagrams_svg)
-9. [Catálogo de imágenes](/es/help/github_images_catalog)
+1. [Catálogo de artículos](/es/help/github_articles_catalog)
+2. [Obtener artículos](/es/help/github_articles_markdown)
+3. [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog)
+4. [Obtener ayudas de estudio](/es/help/github_studyaids_markdown)
+5. [Creación de un catálogo de libros de todas las religiones](/es/help/github_religious_books_catalog)
+6. [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown)
+7. [Catálogo de libros supuestamente usados por los reveladores](/es/help/github_sourcebooks_catalog)
+8. [Obtener libros supuestamente usados por los reveladores](/es/help/github_sourcebooks_markdown)
+9. [Traducción y revisión de la Enciclopedia](/es/help/github_topicindex)
+10. [Conversión de la Enciclopedia](/es/help/github_topicindex_to_wiki)
+
+### Fase III: Traductor
+
+No se requiren más tareas en esta fase.
+
+### Fase IV: Cartoteca y Mediateca
+
+1. [Catálogo de diagramas](/es/help/github_diagrams_catalog)
+2. [Obtener diagramas](/es/help/github_diagrams_svg)
+3. [Catálogo de imágenes](/es/help/github_images_catalog)

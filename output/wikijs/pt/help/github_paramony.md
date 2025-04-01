@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/web_html_editor">Usando o editor de HTML</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_topicindex">Traduzir uma revisão do Índice de tópicos</a></td>
+        <td><a href="/pt/help/github_bible">Obter a Bíblia</a></td>
       </tr>
     </tbody>
   </table>
@@ -94,7 +94,7 @@ Exemplo de trecho:
       <tr>
         <td><a href="/pt/help/web_html_editor">Usando o editor de HTML</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_topicindex">Traduzir uma revisão do Índice de tópicos</a></td>
+        <td><a href="/pt/help/github_bible">Obter a Bíblia</a></td>
       </tr>
     </tbody>
   </table>

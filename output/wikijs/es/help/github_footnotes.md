@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_book_json">Conversión a JSON</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_topicindex_to_wiki">Conversión del Índice de Términos</a></td>
+        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
       </tr>
     </tbody>
   </table>
@@ -55,7 +55,7 @@ Los ficheros de salida son diferentes a los de entrada para evitar que si hay cu
       <tr>
         <td><a href="/es/help/github_book_json">Conversión a JSON</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_topicindex_to_wiki">Conversión del Índice de Términos</a></td>
+        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
       </tr>
     </tbody>
   </table>

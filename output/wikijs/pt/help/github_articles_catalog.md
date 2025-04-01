@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_markdown">Obter livros “fonte”</a></td>
+        <td><a href="/pt/help/github_upload">Carregar conteúdo em massa para Urantiapedia</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_articles_markdown">Obter artigos</a></td>
       </tr>
@@ -74,7 +74,7 @@ Se você modificou a listagem do arquivo no GitHub, você tem duas opções para
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_markdown">Obter livros “fonte”</a></td>
+        <td><a href="/pt/help/github_upload">Carregar conteúdo em massa para Urantiapedia</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_articles_markdown">Obter artigos</a></td>
       </tr>

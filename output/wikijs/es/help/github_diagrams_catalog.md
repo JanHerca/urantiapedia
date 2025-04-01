@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_studyaids_markdown">Obtener ayudas de estudio</a></td>
+        <td><a href="/es/help/github_topicindex_to_wiki">Conversión de la Enciclopedia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_diagrams_svg">Obtener diagramas</a></td>
       </tr>
@@ -61,7 +61,7 @@ Si has modificado el listado a partir del fichero que hay en GitHub, tienes dos 
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_studyaids_markdown">Obtener ayudas de estudio</a></td>
+        <td><a href="/es/help/github_topicindex_to_wiki">Conversión de la Enciclopedia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_diagrams_svg">Obtener diagramas</a></td>
       </tr>

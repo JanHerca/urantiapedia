@@ -14,7 +14,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_religious_books_catalog">Creación de un catálogo de libros de todas las religiones</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
       </tr>
     </tbody>
   </table>
@@ -436,7 +436,7 @@ Esto completa todas las cosas a tener en cuenta al añadir libros religiosos a l
       <tr>
         <td><a href="/es/help/github_religious_books_catalog">Creación de un catálogo de libros de todas las religiones</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
       </tr>
     </tbody>
   </table>

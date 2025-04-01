@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_footnotes">Adicionar notas de rodapé do Paramony</a></td>
+        <td><a href="/pt/help/github_topicindex">Tradução e revisão da Enciclopédia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_book_to_wiki">Convertendo o Livro de Urântia</a></td>
+        <td><a href="/pt/help/github_diagrams_catalog">Catálogo de diagramas</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,9 +50,9 @@ Os arquivos de saída já estão no formato que permite o upload direto para *Ur
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_footnotes">Adicionar notas de rodapé do Paramony</a></td>
+        <td><a href="/pt/help/github_topicindex">Tradução e revisão da Enciclopédia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_book_to_wiki">Convertendo o Livro de Urântia</a></td>
+        <td><a href="/pt/help/github_diagrams_catalog">Catálogo de diagramas</a></td>
       </tr>
     </tbody>
   </table>

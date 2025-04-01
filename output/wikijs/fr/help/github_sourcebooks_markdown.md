@@ -1,5 +1,5 @@
 ---
-title: "Obtenir les livres « source »"
+title: "Obtenir les livres supposément utilisés par les révélateurs"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_sourcebooks_catalog">Création d'un catalogue de livres « source »</a></td>
+        <td><a href="/fr/help/github_sourcebooks_catalog">Création d'un catalogue de livres supposément utilisés par les révélateurs</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_articles_catalog">Catalogue d'articles</a></td>
+        <td><a href="/fr/help/github_topicindex">Traduction et révision de l'Encyclopédie</a></td>
       </tr>
     </tbody>
   </table>
@@ -366,9 +366,9 @@ Ceci complète toutes les choses à garder en compte dans les autres livres «fu
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_sourcebooks_catalog">Création d'un catalogue de livres « source »</a></td>
+        <td><a href="/fr/help/github_sourcebooks_catalog">Création d'un catalogue de livres supposément utilisés par les révélateurs</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_articles_catalog">Catalogue d'articles</a></td>
+        <td><a href="/fr/help/github_topicindex">Traduction et révision de l'Encyclopédie</a></td>
       </tr>
     </tbody>
   </table>

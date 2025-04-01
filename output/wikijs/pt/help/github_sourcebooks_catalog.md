@@ -1,5 +1,5 @@
 ---
-title: "Criando um catálogo de livros «fonte»"
+title: "Criação de um catálogo de livros supostamente usados ​​por reveladores"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/github_upload">Obtenha livros de todas as religiões</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_sourcebooks_markdown">Obter livros “fonte”</a></td>
+        <td><a href="/pt/help/github_sourcebooks_markdown">Obtenção de livros supostamente usados ​​por reveladores</a></td>
       </tr>
     </tbody>
   </table>
@@ -73,7 +73,7 @@ Com este arquivo o índice da _Urantiapedia Library_ e os índices de cada estan
       <tr>
         <td><a href="/pt/help/github_upload">Obtenha livros de todas as religiões</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_sourcebooks_markdown">Obter livros “fonte”</a></td>
+        <td><a href="/pt/help/github_sourcebooks_markdown">Obtenção de livros supostamente usados ​​por reveladores</a></td>
       </tr>
     </tbody>
   </table>

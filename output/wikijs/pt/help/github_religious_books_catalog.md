@@ -12,7 +12,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_upload">Upload em massa de conteúdo para Urantiapedia</a></td>
+        <td><a href="/pt/help/github_studyaids_markdown">Obter Auxílios de Estudo</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_religious_books_markdown">Obtenha livros de todas as religiões</a></td>
       </tr>
@@ -67,7 +67,7 @@ Com este arquivo o índice da _Urantiapedia Library_ e os índices de cada estan
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_upload">Upload em massa de conteúdo para Urantiapedia</a></td>
+        <td><a href="/pt/help/github_studyaids_markdown">Obter Auxílios de Estudo</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_religious_books_markdown">Obtenha livros de todas as religiões</a></td>
       </tr>

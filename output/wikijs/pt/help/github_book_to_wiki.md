@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_topicindex_to_wiki">Conversão de índice de tópicos</a></td>
+        <td><a href="/pt/help/github_footnotes">Adicionar notas de rodapé do Paramony</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
       </tr>
@@ -53,7 +53,7 @@ Os arquivos de saída já estão no formato que permite o upload direto para *Ur
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_topicindex_to_wiki">Conversão de índice de tópicos</a></td>
+        <td><a href="/pt/help/github_footnotes">Adicionar notas de rodapé do Paramony</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
       </tr>

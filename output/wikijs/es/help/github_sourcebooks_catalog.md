@@ -1,5 +1,5 @@
 ---
-title: "Creación de un catálogo de libros «fuente»"
+title: "Creación de un catálogo de libros supuestamente usados por los reveladores"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_religious_books_markdown">Obtener libros de todas las religiones</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros supuestamente usados por los reveladores</a></td>
       </tr>
     </tbody>
   </table>
@@ -72,7 +72,7 @@ Con este fichero se ha creado manualmente (mediante _replaces_) el índice de la
       <tr>
         <td><a href="/es/help/github_religious_books_markdown">Obtener libros de todas las religiones</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros supuestamente usados por los reveladores</a></td>
       </tr>
     </tbody>
   </table>

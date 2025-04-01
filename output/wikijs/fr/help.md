@@ -53,28 +53,35 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
 
 ## Tâches pour les collaborateurs
 
-### Jalon I - Le Livre d'Urantia, la Bible et l'index des sujets
+### Étape I - Le Livre d'Urantia et la Bible
 
 1. [Traduction de Paramony](/fr/help/github_paramony)
-2. [Traduction et révision de Topic Index](/fr/help/github_topicindex)
-3. [Obtenir la Bible](/fr/help/github_bible)
-4. [Conversion en JSON](/fr/help/github_book_json)
-5. [Ajout de notes de bas de page Paramony](/fr/help/github_footnotes)
-6. [Convertir l'index des sujets](/fr/help/github_topicindex_to_wiki)
-7. [Convertir Le Livre d'Urantia](/fr/help/github_book_to_wiki)
-8. [Convertir la Bible](/fr/help/github_bible_to_wiki)
-9. [Télécharger du contenu en masse sur Urantiapedia](/fr/help/github_upload)
+2. [Obtenir la Bible](/fr/help/github_bible)
+3. [Conversion en JSON](/fr/help/github_book_json)
+4. [Ajout de notes de bas de page Paramony](/fr/help/github_footnotes)
+5. [Convertir Le Livre d'Urantia](/fr/help/github_book_to_wiki)
+6. [Convertir la Bible](/fr/help/github_bible_to_wiki)
+7. [Télécharger du contenu en masse sur Urantiapedia](/fr/help/github_upload)
 
-### Jalon II - Livres, articles, aides à l'étude, schémas et index
+### Étape II - Hémérothèque, Bibliothèque et Encyclopédie
 
-1. [Création d'un catalogue de livres de toutes religions](/fr/help/github_religious_books_catalog)
-2. [Obtenez des livres de toutes les religions](/fr/help/github_religious_books_markdown)
-3. [Catalogue de livres «sources»](/fr/help/github_sourcebooks_catalog)
-2. [Obtenir des livres «sources»](/fr/help/github_sourcebooks_markdown)
-3. [Catalogue d'articles](/fr/help/github_articles_catalog)
-4. [Obtenir des articles](/fr/help/github_articles_markdown)
-5. [Catalogue d'aides à l'étude](/fr/help/github_studyaids_catalog)
-6. [Obtenir des aides à l'étude](/fr/help/github_studyaids_markdown)
-7. [Catalogue de diagrammes](/fr/help/github_diagrams_catalog)
-8. [Obtenir des diagrammes](/fr/help/github_diagrams_svg)
-9. [Catalogue d'images](/fr/help/github_images_catalog)
+1. [Catalogue d'articles](/fr/help/github_articles_catalog)
+2. [Obtenir des articles](/fr/help/github_articles_markdown)
+3. [Catalogue d'aides à l'étude](/fr/help/github_studyaids_catalog)
+4. [Obtenir des aides à l'étude](/fr/help/github_studyaids_markdown)
+5. [Création d'un catalogue de livres de toutes religions](/fr/help/github_religious_books_catalog)
+6. [Obtenez des livres de toutes les religions](/fr/help/github_religious_books_markdown)
+7. [Création d'un catalogue de livres supposément utilisés par les révélateurs](/fr/help/github_sourcebooks_catalog)
+8. [Obtenir des livres supposément utilisés par les révélateurs](/fr/help/github_sourcebooks_markdown)
+9. [Traduction et révision de l'Encyclopédie](/fr/help/github_topicindex)
+10. [Convertir l'Encyclopédie](/fr/help/github_topicindex_to_wiki)
+
+### Étape III - Traducteur
+
+Aucune autre tâche n'est requise pour cette étape.
+
+### Étape IV - Cartothèque et Médiathèque
+
+1. [Catalogue de diagrammes](/fr/help/github_diagrams_catalog)
+2. [Obtenir des diagrammes](/fr/help/github_diagrams_svg)
+3. [Catalogue d'images](/fr/help/github_images_catalog)

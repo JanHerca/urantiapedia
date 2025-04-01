@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_topicindex">Traduzir uma revisão do Índice de tópicos</a></td>
+        <td><a href="/pt/help/github_paramony">Tradução do Paramony</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_book_json">Conversão para JSON</a></td>
       </tr>
@@ -195,7 +195,7 @@ Número | Abr. | Título português
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_topicindex">Traduzir uma revisão do Índice de tópicos</a></td>
+        <td><a href="/pt/help/github_paramony">Tradução do Paramony</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_book_json">Conversão para JSON</a></td>
       </tr>

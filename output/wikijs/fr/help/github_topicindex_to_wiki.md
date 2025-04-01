@@ -1,5 +1,5 @@
 ---
-title: Conversion de l'index de rubrique de TXT en Wiki.js
+title: Conversion de l'Encyclopédie de TXT en Wiki.js
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_footnotes">Ajout de notes de bas de page Paramony</a></td>
+        <td><a href="/fr/help/github_topicindex">Traduction et révision de l'Encyclopédie</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_book_to_wiki">Convertir Le Livre d'Urantia</a></td>
+        <td><a href="/fr/help/github_diagrams_catalog">Catalogue de diagrammes</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,9 +50,9 @@ Les fichiers de sortie sont déjà dans le format qui permet de les télécharge
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/github_footnotes">Ajout de notes de bas de page Paramony</a></td>
+        <td><a href="/fr/help/github_topicindex">Traduction et révision de l'Encyclopédie</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_book_to_wiki">Convertir Le Livre d'Urantia</a></td>
+        <td><a href="/fr/help/github_diagrams_catalog">Catalogue de diagrammes</a></td>
       </tr>
     </tbody>
   </table>

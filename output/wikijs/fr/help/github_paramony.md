@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/web_html_editor">Utilisation de l'éditeur HTML</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_topicindex">Traduction et révision de Topic Index</a></td>
+        <td><a href="/fr/help/github_bible">Obtenir la Bible</a></td>
       </tr>
     </tbody>
   </table>
@@ -94,7 +94,7 @@ Exemple d'extrait :
       <tr>
         <td><a href="/fr/help/web_html_editor">Utilisation de l'éditeur HTML</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_topicindex">Traduction et révision de Topic Index</a></td>
+        <td><a href="/fr/help/github_bible">Obtenir la Bible</a></td>
       </tr>
     </tbody>
   </table>

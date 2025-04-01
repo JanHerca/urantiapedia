@@ -53,28 +53,35 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
 
 ## Tarefas para colaboradores
 
-### Marco I - O Livro de Urântia, a Bíblia e o Índice de Tópicos
+### Marco I - O Livro de Urântia e a Bíblia
 
 1. [Tradução do Paramony](/pt/help/github_paramony)
-2. [Tradução de uma revisão do Índice de tópicos](/pt/help/github_topicindex)
-3. [Obter a Bíblia](/pt/help/github_bible)
-4. [Conversão para JSON](/pt/help/github_book_json)
-5. [Adicionar notas de rodapé do Paramony](/pt/help/github_footnotes)
-6. [Convertendo Índice de Tópicos](/pt/help/github_topicindex_to_wiki)
-7. [Convertendo o Livro de Urântia](/pt/help/github_book_to_wiki)
-8. [Convertendo a Bíblia](/pt/help/github_bible_to_wiki)
-9. [Carregar conteúdo em massa para Urantiapedia](/pt/help/github_upload)
+2. [Obter a Bíblia](/pt/help/github_bible)
+3. [Conversão para JSON](/pt/help/github_book_json)
+4. [Adicionar notas de rodapé do Paramony](/pt/help/github_footnotes)
+5. [Convertendo o Livro de Urântia](/pt/help/github_book_to_wiki)
+6. [Convertendo a Bíblia](/pt/help/github_bible_to_wiki)
+7. [Carregar conteúdo em massa para Urantiapedia](/pt/help/github_upload)
 
-### Marco II - Livros, artigos, auxílios de estudo, esquemas e índices
+### Marco II - Hemeroteca, Biblioteca e Enciclopédia
 
-1. [Criação de um catálogo de livros de todas as religiões](/pt/help/github_religious_books_catalog)
-2. [Obtenha livros de todas as religiões](/pt/help/github_religious_books_markdown)
-3. [Catálogo de livros “fonte”](/pt/help/github_sourcebooks_catalog)
-2. [Obter livros “fonte”](/pt/help/github_sourcebooks_markdown)
-3. [Catálogo de artigos](/pt/help/github_articles_catalog)
-4. [Obter artigos](/pt/help/github_articles_markdown)
-5. [Catálogo de Auxílios de Estudo](/pt/help/github_studyaids_catalog)
-6. [Obter Auxílios de Estudo](/pt/help/github_studyaids_markdown)
-7. [Catálogo de diagramas](/pt/help/github_diagrams_catalog)
-8. [Obter diagramas](/pt/help/github_diagrams_svg)
-9. [Catálogo de imagens](/pt/help/github_images_catalog)
+1. [Catálogo de artigos](/pt/help/github_articles_catalog)
+2. [Obter artigos](/pt/help/github_articles_markdown)
+3. [Catálogo de Auxílios de Estudo](/pt/help/github_studyaids_catalog)
+4. [Obter Auxílios de Estudo](/pt/help/github_studyaids_markdown)
+5. [Criação de um catálogo de livros de todas as religiões](/pt/help/github_religious_books_catalog)
+6. [Obtenha livros de todas as religiões](/pt/help/github_religious_books_markdown)
+7. [Criação de um catálogo de livros supostamente usados ​​por reveladores](/pt/help/github_sourcebooks_catalog)
+8. [Obtenção de livros supostamente usados ​​por reveladores](/pt/help/github_sourcebooks_markdown)
+9. [Tradução e revisão da Enciclopédia](/pt/help/github_topicindex)
+10. [Conversão da Enciclopédia](/pt/help/github_topicindex_to_wiki)
+
+### Marco III -Tradutor
+
+Não são necessárias mais tarefas neste quadro.
+
+### Marco IV - Cartoteca e Mediateca
+
+1. [Catálogo de diagramas](/pt/help/github_diagrams_catalog)
+2. [Obter diagramas](/pt/help/github_diagrams_svg)
+3. [Catálogo de imagens](/pt/help/github_images_catalog)

@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_paramony">Tradução de Paramony</a></td>
+        <td><a href="/pt/help/github_sourcebooks_markdown">Obtenção de livros supostamente usados ​​por reveladores</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_bible">Obter a Bíblia</a></td>
+        <td><a href="/pt/help/github_topicindex_to_wiki">Conversão da Enciclopédia</a></td>
       </tr>
     </tbody>
   </table>
@@ -284,9 +284,9 @@ Também uma funcionalidade útil é que a linha curta selecionada, que diz `civi
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_paramony">Tradução de Paramony</a></td>
+        <td><a href="/pt/help/github_sourcebooks_markdown">Obtenção de livros supostamente usados ​​por reveladores</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_bible">Obter a Bíblia</a></td>
+        <td><a href="/pt/help/github_topicindex_to_wiki">Conversão da Enciclopédia</a></td>
       </tr>
     </tbody>
   </table>

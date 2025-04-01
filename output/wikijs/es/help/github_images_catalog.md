@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_diagrams_svg">Obtener diagramas</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -119,7 +119,7 @@ Para enviar los cambios ienes dos opciones: 1) si eres un «Editor Jefe» utiliz
       <tr>
         <td><a href="/es/help/github_diagrams_svg">Obtener diagramas</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

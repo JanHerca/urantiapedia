@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
+        <td><a href="/pt/help/github_articles_catalog">Criação de um catálogo de artigos</a></td>
       </tr>
     </tbody>
   </table>
@@ -48,7 +48,7 @@ Para enviar conteúdo, siga estas etapas:
       <tr>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
+        <td><a href="/pt/help/github_articles_catalog">Criação de um catálogo de artigos</a></td>
       </tr>
     </tbody>
   </table>

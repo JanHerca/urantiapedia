@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_topicindex_to_wiki">Conversión del Índice de Términos</a></td>
+        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_bible_to_wiki">Conversión de La Biblia</a></td>
       </tr>
@@ -53,7 +53,7 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_topicindex_to_wiki">Conversión del Índice de Términos</a></td>
+        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_bible_to_wiki">Conversión de La Biblia</a></td>
       </tr>

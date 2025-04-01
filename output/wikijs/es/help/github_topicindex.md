@@ -1,5 +1,5 @@
 ---
-title: Traducción y revisión del Índice de términos
+title: Traducción y revisión de la Enciclopedia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_bible">Obtener la Biblia</a></td>
+        <td><a href="/es/help/github_topicindex_to_wiki">Conversión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -289,9 +289,9 @@ Otra funcionalidad útil es que la línea breve que está seleccionada en el eje
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+        <td><a href="/es/help/github_sourcebooks_markdown">Obtener libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_bible">Obtener la Biblia</a></td>
+        <td><a href="/es/help/github_topicindex_to_wiki">Conversión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>
