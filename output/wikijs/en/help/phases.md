@@ -69,7 +69,7 @@ Bulk uploading files in Wiki.js format | GitHub | Administrators
 > This phase is complete for three languages ​​(English, Spanish, and French).
 {.is-success}
 
-## Milestone III -Translator
+## Milestone III - Translator
 
 This phase is solely for development. The following content has been incorporated:
 - An application in Urantiapedia Tools that automates the translation of multiple pages into multiple languages ​​at once. This tool does the following:
