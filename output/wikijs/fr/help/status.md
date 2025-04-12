@@ -195,7 +195,7 @@ Ajout de cartes et traduction dans l'une des langues prises en charge | (juste q
 Ajout de diagrammes et de schémas. | (juste quelques tests)
 Ajout de présentations. | (juste quelques tests)
 Ajout de scènes 3D interactives. | (juste quelques tests)
-Ajout de versions audio du _Livre d'Urantia_ dans davantage de langues prises en charge. :heavy_check_mark: (en allemand, anglais, espagnol, français, italien et portugais)
+Ajout de versions audio du _Livre d'Urantia_ dans davantage de langues prises en charge. | :heavy_check_mark: (en allemand, anglais, espagnol, français, italien et portugais)
 Ajout d'un catalogue de vidéos intégrées. | (pas commencé)
 
 

@@ -195,7 +195,7 @@ Adicionar mapas e traduzi-los para qualquer um dos idiomas suportados | (apenas 
 Adicionando diagramas e esquemas. | (apenas alguns testes)
 Adicionando apresentações. | (apenas alguns testes)
 Adicionando cenas 3D interativas. | (apenas alguns testes)
-Adicionando versões áudio de _O Livro de Urântia_ em mais línguas suportadas. :heavy_check_mark: (em alemão, inglês, espanhol, francês, italiano e português)
+Adicionando versões áudio de _O Livro de Urântia_ em mais línguas suportadas. | :heavy_check_mark: (em alemão, inglês, espanhol, francês, italiano e português)
 Adicionando um catálogo de vídeos incorporados. | (não iniciado)
 
 

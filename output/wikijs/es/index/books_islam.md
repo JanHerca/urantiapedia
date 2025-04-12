@@ -690,7 +690,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Al-Ghazzali</text>
 							<text style="font-size:4px" x="61" y="125">1924</text>
-							<text style="font-size:9px" x="61" y="60">The Mishkât</text>
+							<text style="font-size:9px" x="61" y="60">El Mishkât</text>
 							<text style="font-size:9px" x="61" y="70">Al-Anwar</text>
 							<text style="font-size:9px" x="61" y="80">(El Nicho</text>
 							<text style="font-size:9px" x="61" y="90">de las Luces)</text>
@@ -698,7 +698,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Mishkât Al-Anwar (El Nicho de las Luces)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Mishkât Al-Anwar (El Nicho de las Luces)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Al-Ghazzali; W.H.T. Gairdner (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Islam/The_Mishkat_Al_Anwar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">

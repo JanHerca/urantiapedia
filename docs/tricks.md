@@ -159,7 +159,7 @@ Replace english curly quotes with spanish angular ones ||
 Replace spanish plain quotes with angular ones ||
 `"([^"]*)"` | `«$1»`
 HTML links to Markdown links ||
-`<a href="(.+)">(.+)</a>` | `[$2]($1)`
+`<a href="([^"]+)">([^<]+)</a>` | `[$2]($1)`
 Urantia references to links ||
 `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or<br> `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or<br> `(\d{1,3}):(\d{1,2})\.(\d{1,3}), \d{1,4}\.\d{1,2}` or<br> `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or<br> `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
 `\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`

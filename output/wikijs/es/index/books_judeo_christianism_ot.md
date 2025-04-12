@@ -1116,7 +1116,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Esdras (también llamado “Esdras en griego” o “III Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Esdras (también llamado «Esdras en griego» o «III Esdras»)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1139,7 +1139,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Esdras (también llamado “Apocalipsis de Esdras” o “IV Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Esdras (también llamado «Apocalipsis de Esdras» o «IV Esdras»)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/2_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>

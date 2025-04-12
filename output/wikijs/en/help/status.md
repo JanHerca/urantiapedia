@@ -195,7 +195,7 @@ Addition of maps and translation into any of the supported languages ​​| (so
 Addition of schemes and diagrams. | (some testing only)
 Addition of presentations. | (some testing only)
 Addition of interactive 3D scenes. | (just some testing)
-Adding audio versions of _The Urantia Book_ in more supported languages. :heavy_check_mark: (in German, English, Spanish, French, Italian, and Portuguese)
+Adding audio versions of _The Urantia Book_ in more supported languages. | :heavy_check_mark: (in German, English, Spanish, French, Italian, and Portuguese)
 Adding a catalog of embedded videos. | (not started)
 
 

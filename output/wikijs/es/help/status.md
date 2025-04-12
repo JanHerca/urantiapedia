@@ -195,7 +195,7 @@ Adición de mapas y traducción a cualquiera de los idiomas soportados | (sólo 
 Adición de esquemas y diagramas. | (sólo algunas pruebas)
 Adición de presentaciones. | (sólo algunas pruebas)
 Adición de escenas 3D interactivas. | (sólo algunas pruebas)
-Adición de versiones de audio de _El Libro de Urantia_ en más idiomas soportados.:heavy_check_mark: (en alemán, inglés, español, francés, italiano y portugués)
+Adición de versiones de audio de _El Libro de Urantia_ en más idiomas soportados. | :heavy_check_mark: (en alemán, inglés, español, francés, italiano y portugués)
 Adición de un catálogo de videos incrustados. | (no empezado)
 
 
