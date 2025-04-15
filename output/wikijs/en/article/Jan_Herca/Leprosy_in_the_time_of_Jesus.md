@@ -1,5 +1,5 @@
 ---
-title: “Leprosy in the time of Jesus”
+title: "Leprosy in the time of Jesus"
 description:
 published: true
 date: 2023-09-28T14:02:03.086Z
@@ -8,16 +8,16 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class=“v-card v-sheet theme--light grey lighten-3 px-2”>© 2009 Jan Herca (license <a href=“/en/license”>Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
-<figure class=“table chapter-navigator”>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td></td>
         <td>
-        <a href=“/en/index/articles_jan_herca”>
-          <span class=“mdi mdi-book-open-variant”></span><span class=“pl-2”>Articles from Jan Herca — Index</span>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
@@ -197,14 +197,14 @@ It seems strange that the species reached Europe, but _chaulmoogra_ oil, known s
 
 * [Original article](https://buscandoajesus.wordpress.com/articulos/la-lepra-en-tiempos-de-jesus/)
 
-<figure class=“table chapter-navigator”>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td></td>
         <td>
-        <a href=“/en/index/articles_jan_herca”>
-          <span class=“mdi mdi-book-open-variant”></span><span class=“pl-2”>Articles from Jan Herca — Index</span>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
