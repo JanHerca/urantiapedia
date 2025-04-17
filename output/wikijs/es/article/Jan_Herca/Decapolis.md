@@ -30,12 +30,12 @@ La Decápolis la componían un conjunto de diez ciudades originadas durante la i
 
 La mayoría de las ciudades, como hemos dicho, se constituyeron cuando los descendientes de los generales de Alejandro, lágidas de Egipto y seléucidas de Siria, conquistaron Palestina. Comprendía estas diez poblaciones: Escitópolis, Pella, Gerasa, Filadelfia, Hipos, Gadara, Abila, Dium, Rafaná y Damasco. Las más notables eran Gerasa, Pella, Hipos, Gadara, Filadelfia y, más al norte, Damasco.
 
-Todas se hallaban en la transjordania, excepto Escitópolis, que era la única en el lado oeste del Jordán. comprendían una zona una tanto indefinida, como hemos dicho, rodeando por el norte y el este a Perea.
+Todas se hallaban en la transjordania, excepto Escitópolis, que era la única en el lado oeste del Jordán. Comprendían una zona una tanto indefinida, como hemos dicho, rodeando por el norte y el este a Perea.
 
 ## Historia
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/The_Decapolis_Map.png">
+<img src="../../../image/article/Jan_Herca/Decapolis/The_Decapolis_Map.png">
 <figcaption><em>Mapa de la Decápolis. </em><a href="https://en.wikipedia.org/wiki/File:The_Decapolis_Map.png">Wikipedia</a></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Por consiguiente, el sentimiento generalizado hacia estas ciudades era de preven
 Filadelfia estaba situada hacia el sur de la región de la Decápolis. Hoy en día se conoce a esta ciudad como Ammán, la capital de Jordania.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Decapolis/Map_of_Philadelphia_(Amman).png">
+<img src="../../../image/article/Jan_Herca/Decapolis/Map_of_Philadelphia_(Amman).png">
 <figcaption><em>Mapa de Filadelfia. </em><a href="https://commons.wikimedia.org/wiki/File:Map_of_Philadelphia_(Amman).png">Wikimedia</a></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ La historia de Ammán desde entonces (aprox. 585 a.C.) hasta el tiempo de los to
 ### Descripción
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/Roman_theater_of_Amman_01.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Roman_theater_of_Amman_01.jpg">
 <figcaption><em>Filadelfia. Teatro romano. </em><a href="https://en.wikipedia.org/wiki/File:Roman_theater_of_Amman_01.jpg">Wikimedia</a></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ El teatro romano era impresionante. Estaba excavado en la ladera norte de una co
 Justo en frente del teatro están los restos de una plaza con columnas que antiguamente formó parte del foro de la ciudad.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/Decapolis/Amman_Forum_South-western_colonnade.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Amman_Forum_South-western_colonnade.jpg">
 <figcaption><em>Filadelfia. Columnata suroccidental del foro. </em><a href="https://en.wikipedia.org/wiki/File:Amman_Forum_South-western_colonnade.jpg">Wikimedia</a></figcaption>
 </figure>
 
@@ -98,6 +98,20 @@ Es de suponer que debían existir edificios públicos (quizá unos baños), un p
 
 <br style="clear:both;"/>
 
+### El Libro de Urantia
+
+Durante el viaje que Jesús hizo con su hermano pequeño Simón, el 17 d.C., con motivo de la Pascua, conocieron en Filadelfia a un mercader de Damasco. Éste quedó tan encantado con los dos hermanos que les invitó a su establecimiento en Jerusalén, donde Jesús pudo admirar el enorme negocio que tenía este hombre por medio mundo ([LU 128:3.2-3](/es/The_Urantia_Book/128#p3_2)).
+
+Fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)). Allí Jesús dio un discurso sobre la naturaleza positiva de su religión ([LU 159:5.1](/es/The_Urantia_Book/159#p5_1)). Fue también una de las poblaciones recorridas en la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+
+Jesús y los doce estuvieron en Filadelfia durante su gira del 11 al 20 de febrero del año 30 por el norte de Perea. Allí había establecido Abner su cuartel general con sus asociados. Jesús llegó a Filadelfia el miércoles 22 de febrero seguido de más de 600 seguidores, mientras Pedro y Andrés permanecían en Pella atendiendo a las multitudes. Pasó el jueves y viernes descansando ([LU 167:0.3](/es/The_Urantia_Book/167#p0_3)). El sábado 25, durante el desayuno, Jesús impartió su enseñanza sobre lo que es lícito hacer en sábado a un público formado por fariseos ([Lc 14:1-6](/es/Bible/Luke/14#v1), [LU 167:1](/es/The_Urantia_Book/167#p1)), explicando su postura con la parábola de la gran cena ([Mt 22:1-10](/es/Bible/Matthew/22#v1); [Lc 14:16-24](/es/Bible/Luke/14#v16), [LU 167:2](/es/The_Urantia_Book/167#p2)). Ese mismo día, en los oficios de la sinagoga, Jesús dirigió la lectura y después curó a una mujer de su depresión ([Lc 13:10-17](/es/Bible/Luke/13#v10), [LU 167:3](/es/The_Urantia_Book/167#p3)). Dos días después llegó a Filadelfia un mensaje de Betania: Lázaro estaba muy enfermo.
+
+La décima aparición morontial de Jesús tras su muerte tuvo lugar el martes 11 de abril del año 30, poco después de las ocho, en la sinagoga de Filadelfia, ante un grupo de seguidores que contaba con Abner, Lázaro y unos 150 de sus compañeros que incluía a parte de los evangelistas ([LU 191:4.1](/es/The_Urantia_Book/191#p4_1)).
+
+La sinagoga de Filadelfia nunca había estado sometida a la supervisión del sanedrín de Jerusalén, por lo que allí las enseñanzas de Jesús perduraron más. En el mismo emplazamiento de la antigua sinagoga después hubo una iglesia cristiana en Filadelfia. Abner fue el director de esta iglesia lo mismo que Santiago, el hermano de Jesús, lo fue de la iglesia de Jerusalén. Hubo una permanente enemistad entre ambas iglesias durante mucho tiempo ([LU 166:5.1-3](/es/The_Urantia_Book/166#p5_1)). Abner contó con el apoyo de Lázaro, el amigo de Jesús, de David Zebedeo, y del apóstol Natanael ([LU 168:5.3](/es/The_Urantia_Book/168#p5_3), [LU 171:1.5](/es/The_Urantia_Book/171#p1_5), [LU 193:6.4](/es/The_Urantia_Book/193#p6_4)). La iglesia de Filadelfia es la que permaneció más fiel a las enseñanzas de Jesús de todas las que existieron ([LU 130:2.3](/es/The_Urantia_Book/130#p2_3), [LU 166:5.7](/es/The_Urantia_Book/166#p5_7)). Lamentablemente con el ascenso del Islam esta iglesia y su área de influencia fueron barridas de la faz de la Tierra ([LU 171:1.6](/es/The_Urantia_Book/171#p1_6)) y sus enseñanzas se perdieron.
+
+Estos últimos datos proporcionados por _El Libro de Urantia_ acerca de una incipiente iglesia cristiana en Filadelfia no son corroborados por las evidencias arqueológicas e históricas. No se han encontrado evidencias de cristianismo primitivo en Filadelfia durante los tres primeros siglos d.C. (véase la Wikipedia).
+
 ### Referencias
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Philadelphia_(Amman))
@@ -105,7 +119,7 @@ Es de suponer que debían existir edificios públicos (quizá unos baños), un p
 ## Escitópolis (Betsán)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/scytho10.png">
+<img src="../../../image/article/Jan_Herca/Decapolis/scytho10.png">
 <figcaption><em>Plano de detalle de Escitópilis. </em></figcaption>
 </figure>
 
@@ -115,8 +129,8 @@ A los pies de la fortaleza antigua en cuyas murallas se expusieron los restos de
 
 ### Historia
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/Decapolis/fig1.jpg">
+<figure id="Figure_6" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/fig1.jpg">
 <figcaption><em>Plano general de Escitópilis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">German-Israeli Tell Iẓṭabba Excavation Project</a></figcaption>
 </figure>
 
@@ -133,7 +147,7 @@ Debido a la proximidad del río Harod y de un suficiente régimen de lluvias, Be
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Decapolis/fig1.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/13B.jpg">
 <figcaption><em>Vista general de las ruinas de Escitópilis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">This week in Palestine</a></figcaption>
 </figure>
 
@@ -142,7 +156,7 @@ Debido a la proximidad del río Harod y de un suficiente régimen de lluvias, Be
 ### Descripción
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/Model_of_Beth_Sheans_city_center_during_the_Roman_period.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Model_of_Beth_Sheans_city_center_during_the_Roman_period.jpg">
 <figcaption><em>Modelo del centro de la ciudad de Bet She'an durante el período romano. </em><a href="https://thisweekinpalestine.com/scythopolis-nysa/">Biblical Archaeology Society</a></figcaption>
 </figure>
 
@@ -155,11 +169,23 @@ Ya en la parte más meridional, el visitante se encontraría con el imponente Te
 <br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Decapolis/13E.png">
+<img src="../../../image/article/Jan_Herca/Decapolis/13E.png">
 <figcaption><em>Una ilustración del altar de César y el camino de las ninfas, con el Ninfeo a la derecha. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">This week in Palestine</a></figcaption>
 </figure>
 
 <br style="clear:both;"/>
+
+### El Libro de Urantia
+
+Cuando Jesús contaba con 11 años acompañó a su padre a Escitópolis por temas de negocios. Jesús se maravilló ante la belleza de la ciudad, sobre todo el teatro y el templo pagano. Expresó gran interés por los juegos atléticos que se celebraban en ese momento en el anfiteatro, lo que causó gran consternación en José y un serio enfado con su hijo, algo que dejó un recuerdo permanente en el joven Jesús ([LU 124:3.6-8](/es/The_Urantia_Book/124#p3_6)).
+
+Jesús volvió a ver la ciudad, pero ya de lejos, el año 7 d.C., cuando viajó por primera vez con sus padres a Jerusalén ([LU 124:6.4](/es/The_Urantia_Book/124#p6_4)).
+
+Fue uno de los sitios visitados por Jesús, los doce y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
+
+También fue visitada durante la segunda gira de predicación pública por Galilea, del domingo 3 de octubre al 30 de diciembre del 28 d.C. ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
+
+Por último, fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)).
 
 ### Referencias
 
@@ -171,7 +197,7 @@ Ya en la parte más meridional, el visitante se encontraría con el imponente Te
 ## Pella
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/960px-Pella_Contour_Plan.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/960px-Pella_Contour_Plan.jpg">
 <figcaption><em>Pella. Mapa con curvas de nivel. </em><a href="https://en.wikipedia.org/wiki/File:Pella_Contour_Plan.jpg">Wikipedia</a></figcaption>
 </figure>
 
@@ -190,8 +216,8 @@ En lo que se conoce como «huida a Pella», algo antes de la destrucción romana
 ### Descripción
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/151312756_lDw8DyNv_JordanPella20131145.jpg">
-<figcaption><em>Pella. Basílica bizantina del siglo V, construida usando materiales de edificios previos. </em><a href="https://pbase.com/dosseman_jordan/image/151312756">PBase</a></figcaption>
+<img src="../../../image/article/Jan_Herca/Decapolis/151312756_lDw8DyNv_JordanPella20131145.jpg">
+<figcaption><em>Pella. Basílica bizantina del siglo V, construida usando materiales de edificios previos. </em><a href="https://pbase.com/dosseman_jordan../../../image/151312756">PBase</a></figcaption>
 </figure>
 
 La ciudad estuvo amurallada desde antiguo, con un montículo principal en torno al cual se disponía la ciudad antigua. La zona más moderna se había extendido sobre un wadi (llamado hoy Al-Jirm).
@@ -202,6 +228,17 @@ La proximidad del Jordán hacían de esta ciudad un centro vital en la ruta del 
 
 <br style="clear:both;"/>
 
+### El Libro de Urantia
+
+Jesús y su hermano Simón pasaron cerca de Pella en su viaje a Jerusalén con motivo de la Pascua, el 17 d.C.
+
+Cuando Juan el Bautista llegó al vado del Jordán delante de Pella, en enero de 26, eso marcó el momento en que Jesús se decidió a iniciar su actividad pública, dejando definitivamente su trabajo como carpintero y constructor de barcas ([LU 134:9.8](/es/The_Urantia_Book/134#p9_8)). El domingo 13 de enero Jesús se presentó en el vado ante su primo, solicitando ser bautizado ([LU 135:8.3](/es/The_Urantia_Book/135#p8_3)). Tras el bautismo Jesús se retiró a las colinas situadas al este de Pella ([LU 136:4.14](/es/The_Urantia_Book/136#p4_14)). Regresó a Pella el sábado 23 de febrero de 26, donde se reencontró con Juan y sus discípulos y atendió a un muchacho que se había lastimado. ([LU 137:0.1](/es/The_Urantia_Book/137#p0_1))
+
+Jesús y los doce pasaron cerca de Pella en su viaje a Jerusalén del 27, para celebrar la Pascua ([LU 141:1.2](/es/The_Urantia_Book/141#p1_2)). Después de la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27, Jesús estabelció su cuartel general en Pella ([LU 144:8.1](/es/The_Urantia_Book/144#p8_1)). Allí recibieron la noticia de la muerte de Juan Bautista. 
+
+Tras enviar en misión a los 70 evangelistas, Jesús volvió a situar su cuartel general en Pella el 6 de diciembre de 29 ([LU 163:5.1](/es/The_Urantia_Book/163#p5_1), [LU 163:6.1](/es/The_Urantia_Book/163#p6_1)). Durante la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús, Pella fue el cento de operaciones donde se recibía a las multitudes, donde enseñaba Jesús si estaba presente o si no, una pareja de apóstoles ([LU 165:1](/es/The_Urantia_Book/165#p1)). Durante ese tiempo, mientras los discípulos llevaban a cabo su misión por Perea, Jesús pronunció muchas notables enseñanzas en Pella, como el sermón del Buen Pastor ([LU 165:2](/es/The_Urantia_Book/165#p2)), el sermón sobre no tener miedo ([LU 165:3](/es/The_Urantia_Book/165#p3)), el sermón sobre la codicia y la división de las herencias ([LU 165:4](/es/The_Urantia_Book/165#p4)), sobre la riqueza ([LU 165:5](/es/The_Urantia_Book/165#p5)) y otros ([LU 165:6](/es/The_Urantia_Book/165#p6)). El campamento de Pella fue definitivamente levantado el 13 de marzo de 30 ([LU 171:1.1](/es/The_Urantia_Book/171#p1_1)).
+
+
 ### Referencias
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Pella,_Jordan)
@@ -210,7 +247,7 @@ La proximidad del Jordán hacían de esta ciudad un centro vital en la ruta del 
 ## Gerasa
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/jerashmap.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/jerashmap.jpg">
 <figcaption><em>Mapa de la zona central de Gerasa. </em><a href="http://www.art-and-archaeology.com/jordan/jerash/jerash.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -227,7 +264,7 @@ La antigua ciudad que hoy se conserva en el lado occidental era el centro admini
 <br style="clear:both;"/>
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Decapolis/urn_cambridge.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/urn_cambridge.jpg">
 <figcaption><em>Mapa de Gerasa. </em><a href="https://www.cambridge.org/core/journals/antiquity/article/mapping-gerasa-a-new-and-open-data-map-of-the-site/5071C6A16B5F92350A3C967617835970#figures">Cambridge University Press</a></figcaption>
 </figure>
 
@@ -252,7 +289,7 @@ Cerca del hipódromo está la puerta sur. La puerta, originalmente una de las cu
 Una vez dentro de la puerta, el Templo de Zeus era el edificio más inmediato, a la izquierda. Tenía un tramo de escaleras sostenido por bóvedas que llevaba al interior desde un recinto sagrado más bajo. El templo mismo se continuaba construyendo en tiempos de Jesús. En la parte inferior o _temenos_ había un altar y servía como lugar sagrado para sacrificios. Desde tiempos antiguos este lugar había sido sagrado, conteniendo a lo largo del tiempo distintos templos.
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/Jordan1009.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Jordan1009.jpg">
 <figcaption><em>La Plaza Oval. </em><a href="http://www.art-and-archaeology.com/jordan/jerash/je01a.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -273,7 +310,7 @@ Siguiendo el _cardo_ estaba el Nimpheum, la principal fuente ornamental de la ci
 <br style="clear:both;"/>
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/Decapolis/Jordan0951.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Jordan0951.jpg">
 <figcaption><em>Propileo norte del Templo de Artemisa. Estaba flanqueda por dos magníficas puertas, siendo la norte la de la foto. Fue contruido a mediados del siglo II d.C.</em><a href="http://www.art-and-archaeology.com/jordan/jerash/je11.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -290,7 +327,7 @@ Justo al oeste y al sur del templo de Artemisa se disponían otros templos dedic
 <br style="clear:both;"/>
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Decapolis/Jerash_-_colonnaded_street.jpg">
+<img src="../../../image/article/Jan_Herca/Decapolis/Jerash_-_colonnaded_street.jpg">
 <figcaption><em>Gerasa. Calle columnada.</em><a href="https://en.wikipedia.org/wiki/File:Jerash_-_colonnaded_street.JPG">Wikipedia</a></figcaption>
 </figure>
 
@@ -315,17 +352,79 @@ Es una de las poblaciones visitadas durante la segunda gira de predicación por 
 
 ## Hipos (Susita)
 
-Reproducimos la información que ya se ofreció al hablar de la región del lago de Tiberíades.
+<figure id="Figure_17" class="image urantiapedia image-style-align-right">
+<img src="../../../image/article/Jan_Herca/Decapolis/Hippos_aerial.jpg">
+<figcaption><em>Hipos, foto aérea, vista desde el sudeste.</em><a href="https://www.dighippos.com/sussita/">Hippos Excavations Project</a></figcaption>
+</figure>
 
-Era el segundo puerto importante de la costa este del lago Tiberíades. La verdad es que las dimensiones y configuración de los muelles no se correspondía con la treintena de casas que conformaban el villorrio situado al pie de los rompeolas. Esta aldea, a su vez, se hallaba comunicada con una población mucho más densa (la verdadera Susita), encaramada a 350 m sobre el nivel del lago, en una meseta aislada y separada del mar por un par de km. La calzada romana ascendía hasta lo alto de la ciudad, ramificándose después en otra vía secundaria, más estrecha, que concluía en el citado puerto.
+Hippos o Hipos (del griego «caballo») o también Susita (en arameo y hebreo) es una antigua ciudad, hoy unas ruinas arqueológicas, situada en una colina a 2 km al este del mar de Galilea. Tras formar parte de la Decápolis se transformó en ciudad cristiana hasta que fue abandonada por causa de un terremoto en el 749.
 
-El puerto tenía unas características únicas. El rompeolas principal tenía una longitud de 120 m, con una anchura en su base, de 5 a 7 m. Partía perpendicular a la costa, y a los 15 m cambiaba de dirección, discurriendo paralelo al litoral, con rumbo sur. Este segundo tramo alcanzaba una longitud de 85 m. Súbitamente, el terraplén variaba de orientación, enfilando hacia el oeste. Esta curiosa Z invertida, maltratada sin duda por los vientos del sur, había sido cerrada por un segundo rompeolas de 40 m, que arrancaba en perpendicular desde la costa. Lo más curioso era que aquel muelle de 20 m de largo se aventuraba hacia el oeste, en aguas relativamente profundas (entre 4 y 5 m). El motivo de tan desproporcionado lugar portuario era que de este modo se usaba para el atraque y las operaciones de descarga sin necesidad de penetrar en el puerto.
+Fue contruida en una colina de cima plana a 350 metros de altitud sobre el nivel del mar de Galilea.
 
-La explicación a esta floreciente ciudad y a su villorrio asociado está en que había sido fundado en el siglo III a. de J.C. como un floreciente emporio helenístico, y tras caer en manos de Pompeyo, y adherirse al pacto que vinculaba a las ciudades de la Decápolis, fue reconstruida, creciendo y transformándose en la segunda entidad urbana de la costa oriental del mar de Tiberíades.
+Además de la ciudad fortificada en lo alto del montículo, Hipos tuvo dos puertos en el mar de Galilea y una gran zona circundante bajo su dominio (ver mapa de los territorios de la Decápolis).
+
+<br style="clear:both;"/>
+
+### Historia
+
+<figure id="Figure_18" class="image urantiapedia image-style-align-left">
+<img src="../../../image/article/Jan_Herca/Decapolis/Decapolis_territories.png">
+<figcaption><em>Territorios circundantes de la Decápolis.</em><a href="https://www.dighippos.com/regional">Hippos Excavations Project</a></figcaption>
+</figure>
+
+La ciudad fue fundada a mediados del siglo II a.C. como _Antioquía de Hipos_. Hipos significa caballo en griego y era un nombre común entre los monarcas seléucidas. En algunas referencias a la ciudad se la identifica por su nombre en arameo, Susita, que también significa caballo.
+
+La evidencia arquológica muestra que Hipos estuvo habitado desde el período Calcolítico Temprano o Medio. El sitio fue rehabilitado en el siglo III a.C. por los Ptolomeos, aunque no se sabe si únicamente como asentamiento militar o como urbe. Durante este tiempo, la región, denominada Celesiria, sirvió como campo de batalla para los generales de Alejandro Magno a la muerte de éste. Más tarde, ya construida como ciudad por los seléucidas, adquiere el nombre de _Antioquía Hippos_. Se construye un templo, un mercado central y otros edificios. La carestía de agua en un lugar tan elevado obligó a la construcción de cisternas.
+
+En el siglo I a.C. el asmoneo Alejandro Janeo se hace con el control de la ciudad y según Flavio Josefo, los habitantes fueron obligados a convertirse al judaísmo.
+
+En el 63 a.C. Pompeyo conquista Celesiria, junto a Judea, y pone fin a la independencia asmonea. Hipos es incorporada a la provincia romana de Siria. Bajo dominio romano Hipos adquiere cierta independencia y logra acuñar sus propias monedas, con la imagen de un caballo inscrita en ellas.
+
+Entregada a Herodes el Grande en el año 27 a.C., fue devuelta a Siria a la muerte de éste en el año 4 a.C. Según Josefo, durante este tiempo Hipos, una ciudad pagana, era el «enemigo declarado» de la nueva ciudad judía al otro lado del lago, Tiberíades. Josefo relata que durante la Primera Guerra Judeo-Romana del 66-70 d.C. los judíos de Hipos sufrieron una masacre.
+
+Tras la revuelta de Bar Kokhba, sofocada por los romanos, la ciudad pasó a formar parte de la provina de Siria Palestina en el 135. A principios del siglo II d.C. Hipos alcanzó su apogeo de prosperidad y crecimiento.
+
+### Descripción
+
+<figure id="Figure_19" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Hippos.png">
+<figcaption><em>Plano general de Hipos con las principales zonas de excavación.</em><a href="https://www.dighippos.com/regional">Hippos Excavations Project</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+La ciudad fue construida a lo largo de un patrón de cuadrícula, centrado alrededor de un _decumanus maximus_ con columnas que corría de este a oeste a través de la ciudad. Estaba atravesado por varias _cardinas_ o calles en dirección norte-sur. En el centro de la ciudad había un amplio foro de forma rectangular pavimentado con losas de basalto. Debajo del foro había un depósito de agua techado con una impresionante bóveda de cañón. Otros monumentos cercanos incluían un _Kalybe_ (un santuario al Emperador) del siglo II o III d.C., un santuario o _témenos_ de época helenísitica, una basílica de finales del siglo I, un odeón, unos baños al sur del foro, y las obligadas murallas. Sin embargo, lo más destacado fue un acueducto, que conducía agua a Hipos desde el arroyo El-Al en los Altos del Golán, de 24 km de largo.
+
+La ciudad tenía dos puertas, una situada en el extremo oriental y otra en el extremo occidental del _decumanus maximus_. Las puertas tenían un pasadizo de 3.15 m de ancho rodeado de dos torres redondas. Las fortificaciones debieron de ser de época romana. A lo largo de la muralla, a intervalos irregulares, se erigieron un pequeño número de torres cuadradas o rectangulares.
+
+El ejemplo más singular de arquitectura militar romana excavado en Hippos es el bastión (batería para proyectiles, catapultas y balistas antiguas). El bastión, una construcción de basalto de 51 x 10 m, se erigió en el borde del acantilado sur, a unos 40 m al sur del foro. Su sólida estructura de muro de basalto, totalmente expuesta, está intersectada por cuatro bóvedas de cámara y dos torres. Las bóvedas de cámara estaban cubiertas con pisos, de los cuales se conservan pocos. El bastión se construyó en el siglo I d.C. y fue parcialmente desmantelado durante el siglo II reutilizándolo para las termas meridionales.
+
+Respecto al puerto en el mar de Galilea, éste fue el segundo puerto más importante de la costa este del lago Tiberíades. La verdad es que las dimensiones y configuración de este muelle no se correspondían en tamaño con el villorio situado junto a la costa. Esta aldea tan sólo hacía las veces de puerto fluvial de Hipos. Una calzada romana ascendía hasta lo alto de la ciudad y entraba por la puerta occidental.
+
+El puerto tenía unas características únicas. El rompeolas principal tenía una longitud de 120 m, con una anchura en su base, de 5 a 7 m. Partía perpendicular a la costa, y a los 15 m cambiaba de dirección, discurriendo paralelo al litoral, con rumbo sur. Este segundo tramo alcanzaba una longitud de 85 m. Súbitamente, el terraplén variaba de orientación, enfilando hacia el oeste. Esta curiosa Z invertida, maltratada sin duda por los vientos del sur, era cerrada por un segundo rompeolas de 40 m, que arrancaba en perpendicular desde la costa. Lo más curioso era que aquel muelle de 20 m de largo se aventuraba hacia el oeste, en aguas relativamente profundas (entre 4 y 5 m). El motivo de tan desproporcionado lugar portuario era que de este modo se usaba para el atraque y las operaciones de descarga sin necesidad de penetrar en el puerto. La explicación de este embarcadero tan notable es que con la adquisición por parte de Pompeyo la ciudad superior, Hipos, y su puerto, se convirtieron en un floreciente emporio, creciendo y transformándose en la segunda entidad urbana de la costa oriental del mar de Galilea.
+
+### El Libro de Urantia
+
+Hipos fue uno de los lugares visitados durante el período de preparación de los doce, la primera gira de predicación en el mar de Galilea, del 23 de junio al 7 de julio de 26, que realizaron los doce en solitario ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)).
+
+También fue uno de los sitios visitados por Jesús, los doce apóstoles y los 117 evangelistas durante la segunda gira de predicación en Galilea, entre el 3 de octubre de 28 y el 30 de diciembre de 28 ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
+
+Fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29. Aquí Jesús pronunció un sermón acerca del perdón en respuesta a la pregunta de un discípulo ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2), [LU 159:1.1](/es/The_Urantia_Book/159#p1_1)).
+
+### Referencias
+
+- [Hippos Excavations Project](https://www.dighippos.com/sussita/)
+- [Modelo 3D de Hippos](http://hippos.byethost11.com/3d/HipposGen2020/App/index.html?i=1#%2F)
+- [Wikipedia](https://en.wikipedia.org/wiki/Hippos_(Golan_Heights))
 
 ## Gadara
 
 Situada hacia el norte de la Decápolis, en las cercanías del río Yarmuk, con vistas sobre los altos del Golán y el mar de Galilea al Norte, y el valle del Jordán al sur. Actualmente es la ciudad de Umm Qais.
+
+<figure id="Figure_20" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Topographic_map_of_Gadara.png">
+<figcaption><em>Mapa topográfico de Gadara.</em><a href="https://www.researchgate.net/figure/Topographic-map-of-Gadara-Umm-Qais-showing-the-location-of-the-five-aisled-basilica-and_fig2_358283097">Archaeological and Anthropological Sciences Journal</a></figcaption>
+</figure>
 
 ### Historia
 
@@ -333,27 +432,70 @@ La ciudad fue capturada a los tolomeos por los seléucidas en el año 198 a.C., 
 
 Los nabateos controlaban las rutas comerciales al Norte hasta el propio Damasco. Esta interferencia en los intereses de Roma llevó a Marco Antonio a enviar a Herodes el Grande para que los conquistara. El rey nabateo fue finalmente vencido en el 31 a.C. A Herodes le dieron Gadara después de una victoria naval y la gobernó hasta su muerte en el año 4 a.C., para disgusto de los lugareños, que lo habían intentado todo para que perdiera el favor de Roma. A su muerte, la ciudad volvió a ser una semiautonomía como parte de la provincia romana de Siria.
 
-Gadara siguió prosperando durante todo el tiempo posterior, en el siglo I de nuestra era y siguientes.
+Gadara siguió prosperando durante todo el tiempo posterior, en el siglo I de nuestra era y siguientes. Su importancia queda patente por el hecho de que llegó a convertirse en un obispado, que solo desapareció con la conquista musulmana.
 
 ### Descripción
 
-Las pocas ruinas que nos han llegado nos indican la típica ciudad romana fortificada, con una calzada romana, una calle columnada (que fue probablemente el centro comercial de la ciudad), y un teatro en la zona oeste. El teatro debía ser colosal, con unas vistas magníficas sobre el mar de Galilea.
+<figure id="Figure_21" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Gadara_IMG.jpg">
+<figcaption><em>Ruinas de Gadara.</em><a href="https://universes.art/en/art-destinations/jordan/gadara-umm-qais">Universes in Universe</a></figcaption>
+</figure>
 
-El teatro y algunas de las columnas son de basalto negro (así como muchas de las casas modernas de la zona, construidas sin duda con materiales robados de las ruinas). Más al oeste por lo que queda de la calzada romana, hay un mausoleo y luego los baños a al derecha y, más abajo, otro mausoleo a la izquierda. Unos centenares de metros más nos llevarían a los casi inevitables contornos de lo que fue antiguamente un hipódromo.
+<br style="clear:both;"/>
 
-Hammat Gader
+Las pocas ruinas que nos han llegado nos muestran una típica ciudad romana fortificada, con una calzada romana, una calle columnada (que fue probablemente el centro comercial de la ciudad), y un teatro en la zona oeste. El teatro debía ser colosal, con unas vistas magníficas sobre el mar de Galilea.
+
+El teatro y algunas de las columnas son de basalto negro (así como muchas de las casas modernas de la zona, construidas sin duda con materiales robados de las ruinas). Más al oeste de lo que queda de la calzada romana, hay un mausoleo, luego unos baños a la derecha y, más abajo, otro mausoleo a la izquierda. Unos centenares de metros más nos llevarían a los contornos de lo que antiguamente fue un hipódromo. En 2017, arqueólogos descubrieron un antiguo templo construido en la época helenística, en el siglo III a. C. Se cree que estaba dedicado a Poseidón.
+
+Un acueducto romano del siglo II d. C. suministró agua potable a Gadara a través de un _qanat_ (un acueducto subterráneo) de 170 km de longitud. Su tramo subterráneo más largo, de 94 km de longitud, es el túnel más largo conocido de la antigüedad.
+
+<figure id="Figure_22" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/overallmap100km.jpg">
+<figcaption><em>Trazado del acueducto. Rastros hipotéticos (trazo punteado) y comprobados (trazo sólido) del sistema de acueductos gemelos que abastecía a las ciudades de Adraa (Edrei), Abila y Gadara.</em><a href="http://www.romanaqueducts.info/aquasite/gadara/foto2.html">Roman Aqueducts</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+### Personajes ilustres
+
+Gadara fue famosa ya desde el siglo III a.C. por su importancia cultural. Varios filósofos, poetas y matemáticos nacieron allí. Gadara fue llamada en su día la «ciudad de los filósofos». Menipo fue un esclavo convertido en filósofo, del siglo III a.C., cuyas obras fueron imitadas por Varrón y Luciano; Meleagro, del siglo I a.C., fue uno de los poetas helenísticos más admirados; Filodemo, también del siglo I a.C., estudió filosofía en Atenas y fue uno de los máximos exponentes del epicureísmo; Filón, del siglo II d.C., fue un matemático que logró calcular con gran precisión el valor de π.
+
+### Hammat Gader
 
 Los baños de Hammat Gader estaban a unos 10 km de Gadara, bajando la colina hacia el río Yarmouk y el Golán. La zona cercana al río y a las fuentes es muy verde, haciendo un fuerte contraste con la empinada y árida meseta del Golán.
 
-Los baños eran famosos en tiempos de los romanos por sus propiedades salutíferas y todavía se utiliza en la actualidad. Hoy se llaman Al Hamme
+Los baños eran famosos en tiempos de los romanos por sus propiedades salutíferas y todavía se utiliza en la actualidad.
+
+### El Libro de Urantia
+
+Tomás Dídimo era pescador de Tariquea pero en otro tiempo fue carpintero y albañil en Gadara ([LU 138:2.5](/es/The_Urantia_Book/138#p2_5)). Gadara fue una de las poblaciones recorridas durante el primer trabajo de los doce, de mediados de agosto de 26 a finales de 26 ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)).
+
+Fue uno de los sitios visitados por Jesús, los doce y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
+
+También fue uno de los sitios visitados por Jesús, los doce y los 117 evangelistas durante la segunda gira de predicación en Galilea, entre el 3 de octubre de 28 y el 30 de diciembre de 28 ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
+
+Fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)). Fue una de las poblaciones recorridas en la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+
+En los evangelios se menciona un suceso, el [exorcismo del endemoniado gadareno](https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac) ([Mt 8:28-34](/es/Bible/Matthew/8#v28); [Mc 5:1-20](/es/Bible/Mark/5#v1); [Lc 8:26-39](/es/Bible/Luke/8#v26)), que es mencionado como sucediendo en Gadara, pero que _El Libro de Urantia_ identifica en realidad con [Jeresa](https://urantiapedia.org/es/topic/Kheresa) (llamada también en español Gergesa), el hogar de los gemelos Alfeo. Tiene mucho más sentido que fuera esta localidad. Ni Gadara ni la otra solución propuesta, Geresa, son poblaciones cercanas a la orilla del mar de Galilea. Véase [Amós, el lunático de Jeresa](https://urantiapedia.org/es/topic/Amos_(Kheresa_lunatic)).
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Gadara)
+- [Universe in Universes — Gadara (Umm Qais)](https://universes.art/en/art-destinations/jordan/gadara-umm-qais)
+- [Roman Aqueducts](http://www.romanaqueducts.info/aquasite/gadara/index.html)
+- [The white marbles and polychrome stones of the five-aisled basilica at Gadara (Umm Qais), Jordan: archaeometric characterization for provenance identification](https://www.researchgate.net/publication/358283097_The_white_marbles_and_polychrome_stones_of_the_five-aisled_basilica_at_Gadara_Umm_Qais_Jordan_archaeometric_characterization_for_provenance_identification)
+- [The Easstern City Area of Gadara (Umm Qais): Preliminary results on the Urban and Functional Structures Between the Hellenistic and Byzantine Periods](https://publication.doa.gov.jo/uploads/publications/25/SHAJ_10-369-376.pdf)
+- [Heritage Management: Analytical Study of Tourism Impacts on the Archaeological Site of Umm Qais—Jordan](https://www.mdpi.com/2571-9408/4/3/138)
 
 ## Damasco
+
+Damasco es hoy la capital de la actual Siria, una ciudad sagrada del Islam, y un importante centro cultural del Levante y el mundo árabe. En tiempos de Jesús la ciudad formaba parte de la Decápolis.
 
 ### Historia
 
 Damasco se autoproclama como la más antigua ciudad del mundo habitada en forma continua, a pesar de que su rival del norte, Alepo, le disputa ardientemente este título.
 
-Las tablas jeroglíficas de Egipto hacen referencia a Dimashqa como una de las ciudades conquistadas por los egipcios en el siglo XV a.C., pero excavaciones hechas en el patio de la Mezquita Omeya han dejado al descubierto hallazgos que se remontan al tercer milenio a.C.
+Las tablas jeroglíficas de Egipto hacen referencia a _Dimashqa_ como una de las ciudades conquistadas por los egipcios en el siglo XV a.C., pero excavaciones hechas en el patio de la Mezquita Omeya han dejado al descubierto hallazgos que se remontan al tercer milenio a.C.
 
 Damasco ha sido objeto de luchas en numerosas ocasiones y algunos de sus primeros conquistadores son el Rey David de Israel, los asirios en el 732 a.C., Nabucodonosor (cerca 600 a.C.) y después los persas en el 530 a.C. En el 333 a.C. cayó en manos de Alejandro Magno. La influencia griega declinó cuando los nabateos ocuparon la ciudad en el 85 a.C. Poco después, en el 64 a.C., los romanos obligaron a los nabateos a partir y Siria pasó a ser provincia romana. Fue aquí donde Saulo de Tarso pasó a ser Pablo el Apóstol.
 
@@ -361,31 +503,180 @@ Damasco ha sido objeto de luchas en numerosas ocasiones y algunos de sus primero
 
 Vamos a hacer un intento de aproximarnos a lo que fue la ciudad en tiempos de Jesús.
 
-Ciudad vieja
+<figure id="Figure_23" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/1855_Damascus_map_byPorter.png">
+<figcaption><em>Mapa de Damasco, por J.L. Porter, 1855.</em><a href="https://en.wikipedia.org/wiki/File:1855_Damascus_map_byPorter.png">Wikipedia</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+**Ciudad vieja**
 
 La mayoría de los atractivos del Damasco de hoy están en la ciudad vieja, rodeada por lo que fue la antigua muralla romana. La muralla ha sido derrumbada y reconstruida numerosas veces en los últimos 2000 años. La que hoy está en pie data del siglo XIII. Pero sigue las directrices de la existente en el siglo I.
 
 Diversas puertas abrían el paso a través de la muralla, pero sólo una de las que hoy existen (la Puerta Este) se remonta a tiempos de los romanos.
 
-Ciudadela
+**Ciudadela**
 
 Se encontraba en la muralla occidental. Está siendo restaurada hoy.
 
-Templo de Júpiter
+<figure id="Figure_24" class="image urantiapedia image-style-align-right">
+<img src="../../../image/article/Jan_Herca/Decapolis/The_Jupiter_temple_in_Damascus.jpg">
+<figcaption><em>El templo de Júpiter.</em><a href="https://commons.wikimedia.org/wiki/File:The_Jupiter_temple_in_Damascus.jpg">Wikimedia</a></figcaption>
+</figure>
 
-Se construyó en lo que antiguamente era un templo al dios arameo Hadad en el siglo IX a.C. Es una suposición que en tiempo de Jesús existiera aquí un templo a un dios romano, aunque las ruinas del templo actuales responden a un templo del siglo III d.C. Supongo que se construyó para engrandecer el ya existente. Hoy el templo es la Mezquita Omeya.
+**Templo de Júpiter**
 
-Calle Recta
+Situado cerca de la Ciudadela, junto a la gran mezquita omeya, en el sector occidental. Se construyó en lo que antiguamente era un templo al dios arameo Hadad (el dios de la tormenta) en el siglo IX a.C. Es una suposición que en tiempo de Jesús existiera aquí un templo a un dios romano, aunque las ruinas del templo actuales responden a un templo del siglo III d.C. Es de suponer que se construyó para engrandecer el ya existente. Hoy el templo es la Mezquita Omeya.
 
-Famosa por un pasaje de los Hechos de los Apóstoles, donde se menciona a un hombre (Judas) donde Pablo tenía que preguntar por un tal Ananías. Es curioso que en vida de Jesús esta casa y calle también debía existir.
+**Calle Recta**
+
+Era el antiguo _decumanus maximus_, la principal calzada romana, que iba de este a oeste. Es famosa por un pasaje de los Hechos de los Apóstoles ([Hch 9:11](/es/Bible/Acts_of_the_Apostles/9#v11)), donde se menciona a un hombre (Judas) a quien Ananías, un discípulo, debía preguntar por Pablo. Es curioso que en vida de Jesús esta casa y calle también debía existir.
+
+<br style="clear:both;"/>
+
+### El Libro de Urantia
+
+Jesús conoció a un profesor de matemáticas de Damasco, y después de aprender algunas nuevas técnicas aritméticas, dedicó mucho tiempo a las matemáticas durante varios años ([LU 123:6.3](/es/The_Urantia_Book/123#p6_3)).
+
+El año 17 d.C., tras una visita a Jerusalén en la que Jesús llevó a su hermano Dimón por la Pascua, conocieron a un mercader de Damasco. Este hombre ofreció trabajo a Jesús en Damasco pero Jesús rehusó amablemente ([LU 128:3.3](/es/The_Urantia_Book/128#p3_3)). Más tarde, ante la insistencia del mercader, Jesús aceptó pasar unos meses de ese año en Damasco organizando una nueva escuela en la ciudad ([LU 128:4](/es/The_Urantia_Book/128#p4)). Este evento de la vida de Jesús provocó que durante un tiempo se le conociera como el «escriba de Damasco» ([LU 129:3.2](/es/The_Urantia_Book/129#p3_2)).
+
+Jesús pasó por Damasco en su viaje de regreso de Roma con Ganid y Gonod ([LU 130:0.3](/es/The_Urantia_Book/130#p0_3), [LU 133:8](/es/The_Urantia_Book/133#p8)), el año 23 d.C.. A su regreso de Charax, donde Jesús se despidió de Ganid y Gonod, regresó a Damasco ([LU 134:1.1](/es/The_Urantia_Book/134#p1_1)).
+
+Después de su viaje hasta el mar Caspio, Jesús regresó en una caravana que pasó por Damasco ([LU 134:2.5](/es/The_Urantia_Book/134#p2_5)).
+
+El apóstol Pablo experimentó una conversión repentina y espectacular el día memorable en el camino de Damasco ([LU 100:5.3](/es/The_Urantia_Book/100#p5_3)), aunque _El Libro de Urantia_ no especifica a qué se debió, es llamativo que no dice nada acerca de una aparición o una voz de Jesús ([Hch 9:1-9](/es/Bible/Acts_of_the_Apostles/9#v1)).
+
+<figure id="Figure_25" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/4a2b7ea65577c79a321e6a9793e8cddd.jpg">
+<figcaption><em>Damasco en tiempos romanos.</em></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Damascus)
+- [Wikipedia, calle Recta](https://en.wikipedia.org/wiki/Straight_Street)
+- [Wikipedia, templo de Júpiter](https://en.wikipedia.org/wiki/Temple_of_Jupiter,_Damascus)
 
 ## Abila
 
-Situada en el norte, en la ribera del nahal Yarmuk, y donde se disponía una fuente llamada Abila. Poco que decir de una ciudad que se asemejaría mucho a las ya comentadas.
+<figure id="Figure_26" class="image urantiapedia image-style-align-right">
+<img src="../../../image/article/Jan_Herca/Decapolis/Abila_01.jpg">
+<figcaption><em>Vista del tell septentrional (Tell al-Abila) y la basílica del siglo VI.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
+</figure>
+
+Abila, distinguida como Abila en la Decápolis, y también conocida durante un tiempo como Seleucia y Abila Viniferos, fue una ciudad de la Decápolis; el sitio, ahora conocido como Qweilbeh, ocupa dos tell, Tell al-Abila y Khirbet Tell Umm al-Amad.
+
+El nombre de Abila proviene de la palabra semita Abel (prado, en árbe verdor). El emplazamiento se encuentra entre verdes campos agrícolas, cerca del actual manantial de Ain Quweilbeh, con olivares y campos de trigo.
+
+<br style="clear:both;"/>
+
+### Historia
+
+<figure id="Figure_27" class="image urantiapedia image-style-align-left">
+<img src="../../../image/article/Jan_Herca/Decapolis/Abila_02.jpg">
+<figcaption><em>Vista del tell meridional (Tell Umm al-Amad) y la basílica del siglo VII-VIII.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
+</figure>
+
+El sitio estuvo en uso desde el Neolítico hasta los períodos abasí / fatimí y ayubí /mameluco, desde el 4000 a.C. al 1500 d.C. Las excavaciones han sido más intensas desde 1980 aunque mucho permanece sin excavar.
+
+Polibio y Josefo mencionan la captura de la ciudad por el rey seléucida Antíoco III en el 218 a.C. Luego el rey asmoneo Alejandro Janneo conquistó Abila dustante sus guerras de expansión. Finalmente, Abila fue tomada por el general romano Pompeyo en el 63 a.C. y se le concedió la independencia. En los períodos romano y bizantino posteriores, Abila alcanzó una posición de importancia regional al formar parte de la Decápolis, como lo demuestra una inscripción de la época del emperador Adriano (117-138).
+
+Las evidencias arqueológicas de esta época incluyen un templo y monedas que muestran la veneración en la ciudad de Heracles, Tique (diosa de la fortuna) y Atenea (diosa de la sabiduría).
+
+Abila continuó prosperando durante el período bizantino y se convritió en un importante centro cristiano regional (con una sede episcopal), como lo demuestra la presencia de varias iglesias grandes. Sufrió un período de abandono en el siglo VII hasta que fue reocupado en el período omeya.
+
+<br style="clear:both;"/>
+
+### Descripción
+
+<figure id="Figure_28" class="image urantiapedia image-style-align-right">
+<img src="../../../image/article/Jan_Herca/Decapolis/Abila_03.jpg">
+<figcaption><em>Vista general del yacimiento. A la derecha, la franja de árboles es el cauce del wadi Qweilbeh, atravesado por un puente. Las flechas marcan emplazamientos de hallazgos destacados.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
+</figure>
+
+La arqueología confirma que el asentamiento en la colina norte (Tell al-Abila) fue el Abila original. La mayor parte de la ciudad se encontraba en la superficie en forma de silla de montar entre las dos colinas, con las pendientes salvadas mediante terrazas.
+
+La muralla, construida inicialmente en la Edad de Hierro y reforzada bajo el dominio macedonio y romano, definía un rectángulo alargado que comenzaba en la ladera del tell norte y continuaba hasta la cima de la colina sur. Se ha propuesto la existencia de un _cardo maximus_ que trascurría de norte a sur en paralelo a la muralla occidental, y un _decumanus_ que serpenteaba por el cauce entre las colinas en dirección este-oeste.
+
+En la colina norte se ha desenterrado una iglesia del siglo VI (Área A). En la colina sur se ha hecho lo mismo con otra iglesia, del siglo VII a VIII (Área D). Aprovechando la ladera de la colina sur se creó un teatro, encima del cual se situó posteriormente una fortaleza omeya. Al norte del teatro se ha encontrado un Ninfeo y unos baños. También cerca del teatro se ha descubierto una plaza romana de unos 12 metros de lado.
+
+Al oeste de la depresión entre ambas colinas se ha desenterrado una basílica bizantina de cinco naves. La basílica se encontraba próxima al puerte romano oriental que cruzaba el cauce del Wadi Qweilbeh, que bordeaba la ciudad por el este.
+
+### El Libro de Urantia
+
+Fue uno de los lugares donde predicaron los doce apóstoles durante el primer trabajo de los doce entre mediados de agosto de 26 y finales de ese año ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)).
+
+Jesús, los doce apóstoles y los doce de Juan predicaron en esta ciudad durante la primera gira de predicación en la Decápolis, entre los meses de noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)). Natanael estuvo aquí predicando durante la segunda gira por la Decápolis entre el 18 de agosto y el 16 de septiembre de 29 ([LU 159:4.1](/es/The_Urantia_Book/159#p4_1)). Allí tuvo una provechosa conversación con el Maestro acerca de la verdad contenida en las Escrituras judías.
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Abila_(Decapolis))
+- [Información del yacimiento, John Brown University](https://www.jbu.edu/academics/bible/abila/resources/)
+- [The 1996 Season o Excavation at Abila of the Decapolis](https://publication.doa.gov.jo/uploads/publications/194/ADAJ_1997_41--303-310.pdf)
 
 ## Dium
 
-Otra ciudad a orillas del Yarmuk, en lo que sería la frontera con el territorio de Filipo.
+<figure id="Figure_29" class="image urantiapedia image-style-align-right">
+<img src="../../../image/article/Jan_Herca/Decapolis/Dion.jpg">
+<figcaption><em>Vista del yacimiento de Dium desde el este.</em><a href="https://www.google.com/maps/place/Tell+el+Achaari/@32.7449259,36.0259328,356a,35y,256.69h,72.93t/">Google Maps</a></figcaption>
+</figure>
+
+Dium o Dión, o Dia, fue una ciudad de la antigua Celesiria mencionada por numerosos escritores antiguos. Según Esteban de Bizancio la ciudad fue fundada por Alejandro Magno y recibió su nombre de la ciudad de Dium en Macedonia. Se la identifica principalmente con Tell el-Ash'ari, de la gobernación de Daraa, en el suroeste de Siria, aunque otra identificación posible es Beit Ras, que es otra ubicación que se baraja para Rafaná y Capitolias.
+
+Por tanto, la ubicación de Dium no está probada con certeza. Según Ptolomeo, la ciudad se encontraba entre Pella y Gadara. Josefo, en su relato de la marcha de Pompeyo por la zona, afirma que llegó desde Damasco vía Dium a Pella, situando a Dium al norte de Pella. Las ruinas de Tell Ash'ari reflejan el concepto de una pequeña ciudad griega situada en un monte y sus alrededores. Un teatro situado en lo alto del barranco del río Yarmuk se encuentra, lamentablemente, en muy mal estado debido a la guerra civil.
+
+Como curiosidad conviene apuntar que Dium, a diferencia de todas las demás ciudades de la Decápolis, no fue una sede episcopal.
+
+<br style="clear:both;"/>
+
+### Historia
+
+<figure id="Figure_30" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Decapolis_towns.jpg">
+<figcaption><em>Ciudades de la Decápolis.</em></figcaption>
+</figure>
+
+Esteban habla de ella y comenta que su agua era insalubre. Se sabe poco de su historia. Como la mayoría de las ciudades helenísticas de la región, fue sometida a los judíos bajo el mando de Alejandro Janeo, quien la conquistó, y posteriormente fue conquistada por Pompeyo recuperando su libertad en el 62 a.C. Las monedas acuñadas en Dium datan de la época pompeyana. Plinio el Viejo y Ptolomeo la incluyen entre las ciudades de la Decápolis.
+
+<br style="clear:both;"/>
+
+### Descripción
+
+<figure id="Figure_31" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Dium_zone.jpg">
+<figcaption><em>Sur de Siria y norte de Trasjordania en el siglo II d.C.</em></figcaption>
+</figure>
+
+Poco podemos decir de cómo era esta población en tiempos de Jesús. El emplazamiento más probable, _Tell Al-Ash'ari_, cerca de una población llamada _Tafas_, es una colina situada junto a los barrancos que forma el río Yarmuk (Hieromykes) a su paso por la zona. Es una zona bien irrigada y con extensos campos de cultivo.
+
+El elemento más destacado de la colina es una muralla defensiva muy gruesa, que rodea la zona suroriental, dejando abierta la noroccidental, la que da al barranco, que crea una fortificación natural. Hay trazas también de torres a los lados. Una rampa conduce hasta el lado sur y termina en una puerta de la ciudad. Todos estos restos datan de la era del Bronce.
+
+De época romana se han podido identificar restos de un pequeño teatro de 20 metros de diámetro, en la ladera este y mirando al sudoeste. También han aparecido unas ruinas de una piscina de 100 metros para recoger agua de la fuente cercana, que algún arqueólogo ha identificado como una naumaquia. Otro hallazgo es una necrópolis situada al noreste.
+
+Partiendo del límite este del montículo se ha observado la existencia de una antigua senda que conducía al puente principal sobre el Wadi al-Ehrer, el afluente que luego desemboca en el Yarmuk.
+
+### Calzadas romanas
+
+Tres carreteras principales en el sur de Siria conectaban Damasco con Arabia y las ciudades de la Decápolis. Dos de ellas conducían a Bostra, el principal centro urbano de la mitad norte de la provincia de Arabia, sede de la legio III Cirenaica y quizás sede del gobernador; una seguía el límite oriental del desierto basáltico de Traconítide (_Leja_), y la otra, aún en perfecto estado de conservación, lo atravesaba.
+
+El acceso de Dium a la red de carreteras se realizaba a través de la más occidental de estas tres calzadas romanas, que seguía una conexión de gran antigüedad desde Damasco hasta el norte de Transjordania. Evitaba la peligrosa zona fronteriza al este y, en su lugar, cruzaba la llanura de Batanaea (Basán). La evidencia escrita de esta calzada proviene del _Itineraria Antoninianum_, el principal catálogo de estaciones de carretera con distancias relativas entre sí desde el siglo III d. C. Dos itinerarios enumeran las siguientes estaciones: Damasco 23 m.p. – Aere (_as-Sanamen_) 32 m.p. – Neve (_Nawa_) 30 m.p. – Capitolias (_Bet Ras_) 36 m.p. – Gadara (_Umm Qes_) 16 m.p. etc.
+
+Solo una pequeña parte de esta ruta es visible, desde Damasco hasta poco antes de _As-Sanamen_. Su recorrido posterior, especialmente el largo tramo entre Neve y Capitolias, es motivo de debate. Existe una escasez significativa de evidencias.  Lo que es seguro es que la carretera de Damasco a Capitolias cruzaba el _Wadi al-Ehrer_ en el Jisr (puente) al-Ehrer, a 2.5 km al norte de _Tell al-Ash‘ari_. Como se ha mencionado antes se sabe que hubo un puente romano. Además se ha encontrado la base de un miliario romano en el lado norte del _Jisr al-Ehrer_. Justo en _Jisr al-Ehrer_, este camino en dirección sur estaba unido por un eje transversal que descendía de la meseta del Golán pasando Bet Akkar y Sahm al-Jolan. Al sur de _Wadi al-Ehrer_, el camino pasaba entre Tafas y _Tell al-Ash‘ari_, cruzaba el _Wadi ed-Dahab_ (poco profundo) y el _Wadi al-Meddan_. Para llegar a la llanura de ‘Ajlun en la Jordania moderna y continuar hacia Capitolias (_Bet Ras_), el camino tenía que doblar hacia el oeste alrededor de _Turra_, cruzar el empinado y ancho _Wadi esh-Shellaleh_, e inmediatamente después el _Wadi er-Rahub_ hasta continuar por la llanura hacia Capitolias. En resumen, la distancia de 50.4 km entre Neve y Capitolias indicada en el Itinerario puede parecer excesiva, ya que son solo 35 km en línea recta. Pero estos inevitables desvíos a través de los _uadis_ confirman de hecho el kilometraje indicado.
+
+Debió de existir otra carretera que conectaba Adraa (Edrei) directamente con Dion y Neve. Adraa era el punto central de las rutas desde Capitolias y Bostra, así como desde Gerasa. No hay evidencia epigráfica de una conexión entre Neve y Adraa, pero su existencia se confirma mediante una discusión halájica del Talmud palestino. Procedentes del Golán, los sacerdotes no solo llegaban hasta Neve, sino que desde allí se dirigían a Adraa y finalmente a Bostra. Podemos mantener pusto el punto indiscutible de que el puente romano sobre el _Wadi al-Ehrer_ es el punto por donde discurría la gran ruta de Damasco hacia el sur y pasaba cerca de el _Tell al-Ash‘ari_ (Dium) para entrar en la Decápolis. Al igual que sus ciudades griegas vecinas, Dium debió beneficiarse de este acceso privilegiado a esta ruta comercial, especialmente rentable para el suministro de incienso procedente del sur de Arabia. Al mismo tiempo, Dión estaba estratégicamente situado en una zona fronteriza muy disputada entre las esferas de interés nabateo, judío y romano, junto a la ruta frecuentada tanto por soldados como por peregrinos de Babilonia en su camino a Jerusalén.
+
+
+### El Libro de Urantia
+
+Dium (Dion) es mencionada como una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Dium_(Coele-Syria))
+- [Dion of the Decapolis. Tell al-Ash'ari in southern Syria in the light of ancient documents and recent discoveries](https://www.academia.edu/1850849/Dion_of_the_Decapolis_Tell_al_Ashar%C4%AB_in_southern_Syria_in_the_light_of_ancient_documents_and_recent_discoveries)
 
 ## Rafaná
 
@@ -436,6 +727,10 @@ Debido a la presencia de iglesias en la calle principal debemos suponer que quiz
 En el extremo oriental de la calle se encuentran la puerta y columna nabateas. La puerta es la principal entrada al palacio en el que vivió el rey nabateo Rabel II. La columna es la única es su estilo en Siria y sostiene el típicoy simple capitel nabateo.
 
 Algo más alejadas de la población están dos cisternas que solían abastecer de agua de la cudad.
+
+## Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Decapolis)
 
 <figure class="table chapter-navigator">
   <table>
