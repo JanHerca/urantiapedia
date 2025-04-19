@@ -36,7 +36,7 @@ En primer lugar, había que situar Pella y después ver si hay actualmente algun
 
 Pella no podía resultar difícil de localizar. Por lo que sabía aún existen unas estupendas ruinas de la ciudad en las cercanías de una población conocida hoy como Tabakat-Fahil. Pero mis mapas a escala 1:200.000 eran insuficientes para situar ninguna de las dos. Necesitaba mapas más precisos, así que me dediqué a rastrear por Internet durante horas y horas.
 
-De pronto, una pequeña bendición: http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg. Este enlace, que estuvo disponible por un tiempo, está actualmente roto. Pero puede accederse  a lo mismo con [este enclace nuevo](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
+De pronto, una pequeña bendición: http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg. Este enlace, que estuvo disponible por un tiempo, está actualmente roto. Pero puede accederse  a lo mismo con [este enlace nuevo](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
 
 La página web contiene mapas escaneados a escala 1:50.000, los mejores que he encontrado. Y si se busca en el mapa, no tarda en aparecer, clarísimo, Tabaqat Fahl. Está en el cruce de la línea de coordenadas 46 vertical y 94 horizontal.
 

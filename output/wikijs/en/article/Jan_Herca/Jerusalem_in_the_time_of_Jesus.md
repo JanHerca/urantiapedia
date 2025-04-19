@@ -45,7 +45,7 @@ The Holy City was, like many important cities of the time, a walled city. The en
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
 <figcaption><em>Reconstruction of Jerusalem in the time of Jesus. On the right, the three towers of Herod; in the foreground, Herod's palace. In the background on the left, the temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
 

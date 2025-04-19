@@ -555,3 +555,10 @@ UBTheNews
 `^\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)(.+)`
 `> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
 
+Jan Herca articles
+
+<div style="display: flex;background-color: #fff3e0;border-radius: 8px;padding: 16px;font-size: 12px">
+<div style="margin-right: 16px"><img style="background: none;width:30px;height:30px;max-width:fit-content" src="https://buscandoajesus.wordpress.com/wp-content/uploads/2025/04/warning.png" /></div>
+<div>Este sitio web y todo su contenido se está moviendo a <a href="https://urantiapedia.org" target="_blank">urantiapedia.org</a>, un sitio web con contenido no sólo relativo a Jesús de Nazaret y su época, sino también a cientos de otros temas relacionados con religión, filosofía, ciencia y espiritualidad. El contenido de este blog, «Buscando a Jesús», va a continuar, pero es recomendable visitar el nuevo sitio web. Allí es donde se está publicando todo el contenido nuevo, además en varios idiomas (al menos en español, inglés y francés), y con enlaces a literatura clásica y bíblica.
+Véase este artículo en la nueva web aquí: <a href="https://urantiapedia.org/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times" target="_blank">El calendario judío de la época de Jesús</a>.</div>
+</div>

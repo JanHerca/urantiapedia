@@ -254,7 +254,7 @@ How many things we still have to discover in this fascinating puzzle that is the
 
 - [el-Araj Excatation Project](https://www.elarajexcavations.com/)
 
-- [Where is Biblical Bethsaida](https://bryanwindle.files.wordpress.com/2020/03/where-is-biblical-bethsaida_winter-2020-article-extracted-1_compressed.pdf), extracted from [Bible Archeology Report] (https://biblearchaeologyreport.com)
+- [Where is Biblical Bethsaida](https://bryanwindle.files.wordpress.com/2020/03/where-is-biblical-bethsaida_winter-2020-article-extracted-1_compressed.pdf), extracted from [Bible Archeology Report](https://biblearchaeologyreport.com)
 
 <figure class="table chapter-navigator">
   <table>

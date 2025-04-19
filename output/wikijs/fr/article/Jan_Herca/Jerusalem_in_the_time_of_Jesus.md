@@ -45,7 +45,7 @@ La ville sainte était, comme beaucoup de villes importantes de l'époque, une v
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
 <figcaption><em>Reconstruction de Jérusalem au temps de Jésus. A droite, les trois tours d'Hérode ; Au premier plan, le palais d'Hérode. Au fond à gauche, le temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipédia</a></figcaption>
 </figure>
 

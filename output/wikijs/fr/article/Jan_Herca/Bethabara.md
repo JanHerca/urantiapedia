@@ -32,7 +32,7 @@ Dans _Le Livre d'Urantia_, elle est mentionnée uniquement sous le nom de « Bé
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Bethabara/800px-Sapsaphas_Madaba.jpg">
-<figcaption><em>Carte de Madaba à l'embouchure du Jourdain dans la mer Morte.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia< /a></figcaption>
+<figcaption><em>Carte de Madaba à l'embouchure du Jourdain dans la mer Morte.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</a></figcaption>
 </figure>
 
 La population devait être importante, puisqu'elle constituait une étape nécessaire sur la route de Jéricho et de Jérusalem le long de la route orientale qui évitait la Samarie. Sur la carte de Madaba, vous pouvez voir le dessin de gros poissons dans la rivière, il devait donc y avoir une certaine industrie de la pêche ; des palmiers dattiers, pour les fruits et les dattes desquels la région était célèbre ; un lion poursuivant une antilope, ce qui atteste d'une faune assez sauvage ; et un ferry ou un bateau qui traversait le Jourdain tiré par une corde solide depuis les deux extrémités du fleuve, bien qu'à une altitude plus élevée au nord. J'ai des doutes quant à savoir s'il existait un gué traversable à l'époque de Jésus à n'importe quelle saison de l'année, ou si ce moyen de transport était le seul moyen possible de traverser le fleuve.

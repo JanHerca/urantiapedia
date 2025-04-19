@@ -54,7 +54,7 @@ Another piece of information from _The Urantia Book_ that gives a view of Nazare
 The image below shows a diagram that places the references offered by _The Urantia Book_.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
 <figcaption>Nazareth according to <em>The Urantia Book</em></figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ All these discoveries are supposed to fill at least the void of discoveries abou
 Despite all these discoveries, the Nazareth revealed to us by modern archaeology does not, at this time, coincide with the revelations of _The Urantia Book_. In light of the excavated remains, Nazareth seems to be a small town that lived in anonymity until it was rescued from oblivion by Christianity. According to _The Urantia Book_, Nazareth was a prosperous city located in a strategic enclave, on the caravan route, an exceptional position for a singular character like Jesus, who would be attentive to the news of the world.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth2.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret2.jpg">
 <figcaption>A map superimposed on a modern satellite image from Google Maps. The Basilica of the Annunciation is visible to the south, far from Mary and Joseph's home. According to the drawing, Jesus' home is at 6031 St. in the North District, uphill toward the northern foothills of Nebi Sa'in. But that's a wild guess. </figcaption>
 </figure>
 

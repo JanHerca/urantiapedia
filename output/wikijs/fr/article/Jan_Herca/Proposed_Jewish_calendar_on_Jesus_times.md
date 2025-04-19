@@ -27,6 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 > Ce document n'est pas finalisé et est en cours. Lorsqu'il sera terminé, il montrera tout le calendrier proposé pour la création du roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), de l'an 8 avant JC à 30 après JC. Ce roman est une biographie sur le Maître basé sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
+{.is-warning}
 
 ## Considérations
 

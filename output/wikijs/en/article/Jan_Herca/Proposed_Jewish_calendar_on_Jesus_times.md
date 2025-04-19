@@ -27,6 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 > This document is not finished and is in progress. When it is finished it will show the entire proposed timeline for the creation of the novel [«Jesus of Nazareth»](/en/book/Jan_Herca/Jesus_of_Nazareth), from the year 8 BC to the year 1100. 30 AD This novel is a biography of the Master based on _The Urantia Book_ which is in preparation by the author. 
+{.is-warning}
 
 ## Considerations 
 

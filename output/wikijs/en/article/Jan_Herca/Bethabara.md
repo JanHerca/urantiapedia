@@ -32,7 +32,7 @@ In _The Urantia Book_ it is referred to only as “Bethany beyond Jordan,” and
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Bethabara/800px-Sapsaphas_Madaba.jpg">
-<figcaption><em>Map of Madaba at the mouth of the Jordan into the Dead Sea.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</ a></figcaption>
+<figcaption><em>Map of Madaba at the mouth of the Jordan into the Dead Sea.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</a></figcaption>
 </figure>
 
 The town must have been important, as it was a necessary crossing point on the route to Jericho and Jerusalem along the eastern road that avoided Samaria. On the Madaba map we can see the drawing of large fish in the river, so there must have been some fishing industry; of date palms, for whose fruit, dates, the region was famous; a lion chasing an antelope, which attests to a fairly wild fauna; and a ferry or boat that crossed the Jordan River pulled by a strong rope from both ends of the river, although at a higher altitude to the north. I have doubts as to whether there was a passable ford in Jesus' time at any time of the year, or whether this means of ferry was the only possible way of crossing the river.

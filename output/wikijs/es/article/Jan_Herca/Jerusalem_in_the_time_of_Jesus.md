@@ -45,7 +45,7 @@ La ciudad santa era, como muchas ciudades importantes de la época, una ciudad a
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
 <figcaption><em>Reconstrucción de la Jerusalén de tiempos de Jesús. A la derecha, las tres torres de Herodes; en primer plano, el palacio de Herodes. Al fondo a la izquierda, el templo. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
 

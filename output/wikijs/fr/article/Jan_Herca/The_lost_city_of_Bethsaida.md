@@ -234,7 +234,7 @@ Que de choses nous reste-t-il encore à découvrir dans ce puzzle passionnant qu
 
 - [Page web des fouilles d'et-Tell.](http://www.unomaha.edu/bethsaida/)
 
-- Mendel Nun, _Articles_, disponible sur [Perspective Jérusalem] (http://www.jerusalemperspective.com/).
+- Mendel Nun, _Articles_, disponible sur [Perspective Jérusalem](http://www.jerusalemperspective.com/).
 
 - Nonne Mendel, _Est-ce que Bethsaïda a enfin été retrouvée ?_, kibboutz Ein Gev.
 

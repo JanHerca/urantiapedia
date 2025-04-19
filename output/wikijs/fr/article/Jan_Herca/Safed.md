@@ -48,7 +48,7 @@ Il existe de nombreuses grottes dans les environs, la plus célèbre étant cell
 ## Références
 
 - [Wikipédia](https://fr.wikipedia.org/wiki/Safed)
-- [Google maps, recherche Safed dans la case recherche](https://www.google.es/maps/place/Safed,+Israel/@32.9581283,35.4758874,14z/data=!3m1!4b1!4m6!3m5!1s0x151c2397188 2b96b:0x51383e291ebd8850!8m2!3d32.964648!4d35.495997!16zL20vMDF2dG5j?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
+- [Google maps, recherche Safed dans la case recherche](https://www.google.es/maps/place/Safed,+Israel/@32.9581283,35.4758874,14z/data=!3m1!4b1!4m6!3m5!1s0x151c23971882b96b:0x51383e291ebd8850!8m2!3d32.964648!4d35.495997!16zL20vMDF2dG5j?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
 - [Site Internet de la ville](www.safed.co.il)
 
 
