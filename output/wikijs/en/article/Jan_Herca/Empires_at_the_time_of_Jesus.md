@@ -26,6 +26,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/TradeRoutes.jpg">
+<figcaption>Trade routes and great empires of the first century A.D.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 Most of the books describing the time of Jesus usually deal with the Roman Empire, and perhaps a little with the Parthian Empire. It is assumed that the Roman domination of Judea was merely a direct influence of Western trends. But it is forgotten that the known world, even if only through legends or mythological stories, was much larger and more varied than that restricted to the Roman Empire, and that the cultural influences and communications between the different empires that existed were much richer and more complex.
 
 Jean-Noël Robert shows it this way:
@@ -55,15 +62,16 @@ The unification achieved in each empire had different paths:
 
 It was because of this confluence of pacifications in all these vast expanses that Jesus' message, after his death, was able to reach the most remote corners of the Earth. Although we know Paul's travels very well thanks to the book written by the evangelist Luke, Jesus' message was not directed only towards the West, as one might conclude from a study of the New Testament. As The Urantia Book rightly states (<a id="a55_413"></a>[UB 195:1.11](/en/The_Urantia_Book/195#p1_11), <a id="a55_460"></a>[UB 195:3.10](/en/The_Urantia_Book/195#p3_10)), and as ancient testimonies confirm, there was a much closer and more dynamic contact with the peoples of the East as well. This oriental influence in the area where Jesus lived, often ignored, must be duly taken into account in order to form a complete picture of the mentality and the environment in which the Master lived.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/466px-Kushanmap.jpg">
 <figcaption>Kushan Empire towards its maximum splendor, 2nd century <a href="http://en.wikipedia.org/wiki/Kushanmap.jpg">Wikipedia</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 ## References
 
 * Jean-Noël Robert, _From Rome to China. Along the Silk Road in the Times of Ancient Rome_, Herder Publishing, 1993
-* [Global map of empires and trade routes.](http://intranet.dalton.org/groups/Rome/RMap2.html)
 
 ## External links
 

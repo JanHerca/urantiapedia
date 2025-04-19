@@ -26,7 +26,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-La plupart des livres qui décrivent l’époque de Jésus ont tendance à parler de l’Empire romain, et peut-être un peu de l’Empire parthe. On suppose que la domination romaine de la Judée n’impliquait qu’une influence directe des tendances occidentales. Mais on oublie que le monde connu, ne serait-ce qu'à travers des légendes ou des récits mythologiques, était bien plus vaste et varié que celui limité à l'Empire romain, et que les influences culturelles et les communications entre les différents empires existants étaient bien plus riches et plus variées. complexe. .
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/TradeRoutes.jpg">
+<figcaption>Routes commerciales et grands empires du premier siècle après J.-C.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+La plupart des livres qui décrivent l’époque de Jésus ont tendance à parler de l’Empire romain, et peut-être un peu de l’Empire parthe. On suppose que la domination romaine de la Judée n’impliquait qu’une influence directe des tendances occidentales. Mais on oublie que le monde connu, ne serait-ce qu'à travers des légendes ou des récits mythologiques, était bien plus vaste et varié que celui limité à l'Empire romain, et que les influences culturelles et les communications entre les différents empires existants étaient bien plus riches et plus variées.
 
 Jean-Noël Robert le montre ainsi :
 
@@ -55,15 +62,16 @@ L’unification réalisée dans chaque empire a suivi des parcours différents :
 
 Grâce à cette confluence de pacifications dans toutes ces grandes extensions, c'est ainsi que le message de Jésus, après sa mort, a pu atteindre les coins les plus reculés de la Terre. Bien que nous connaissions très bien les voyages de Paul grâce au livre écrit par l'évangéliste Luc, le message de Jésus ne s'adressait pas seulement à l'Occident, comme on pourrait le conclure de l'étude du Nouveau Testament. Comme _Le Livre d'Urantia_ le dit très bien (<a id="a55_457"></a>[LU 195:1.11](/fr/The_Urantia_Book/195#p1_11),  <a id="a55_505"></a>[LU 195:3.10](/fr/The_Urantia_Book/195#p3_10)), et comme les témoignages anciens le confirment, il y eut également un contact beaucoup plus étroit et dynamique avec les peuples de l'Est. Cette influence orientale dans la région où vécut Jésus, souvent ignorée, doit être dûment prise en compte afin de dresser un tableau complet de la mentalité et du cadre dans lequel vivait le Maître.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/466px-Kushanmap.jpg">
 <figcaption>L'empire Kushan vers sa splendeur maximale, IIe siècle <a href="http://en.wikipedia.org/wiki/Kushanmap.jpg">Wikipedia</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 ## Références
 
 * Jean-Noël Robert, _De Rome à la Chine. Le long de la Route de la Soie au temps de la Rome antique_, Editorial Herder, 1993
-* [Carte mondiale des empires et des routes commerciales.](http://intranet.dalton.org/groups/Rome/RMap2.html)
 
 ## Liens externes
 

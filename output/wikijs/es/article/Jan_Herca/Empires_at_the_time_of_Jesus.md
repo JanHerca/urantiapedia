@@ -26,6 +26,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/TradeRoutes.jpg">
+<figcaption>Rutas comerciales y grandes imperios del siglo I d.C.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 En la mayor parte de los libros que describen la época de Jesús se suele hablar del imperio romano, y quizá un poco del imperio parto. Se da por supuesto que el hecho de la dominación de Judea por los romanos supuso tan sólo una influencia directa de tendencias occidentales. Pero se olvida que el mundo conocido, aunque sólo fuera por leyendas o historias mitológicas, era mucho más grande y variado que el restringido al imperio romano, y que las influencias culturales y las comunicaciones entre los diferentes imperios en existencia fueron mucho más ricos y complejos.
 
 Jean-Noël Robert así lo muestra:
@@ -55,15 +62,16 @@ La unificación lograda en cada imperio tuvo diferentes derroteros:
 
 Debido a esta confluencia de pacificaciones en todas estas grandes extensiones fue como el mensaje de Jesús, después de morir él, pudo llegar hasta los más recónditos rincones de la Tierra. Aunque conocemos muy bien los viajes de Pablo gracias al libro que escribió el evangelista Lucas, el mensaje de Jesús no se dirigió sólo hacia el oeste, como cabría concluir del estudio del Nuevo Testamento. Como muy bien afirma _El Libro de Urantia_ (<a id="a55_442"></a>[LU 195:1.11](/es/The_Urantia_Book/195#p1_11), <a id="a55_489"></a>[LU 195:3.10](/es/The_Urantia_Book/195#p3_10)), y como los testimonios antiguos confirman, hubo un contacto mucho más estrecho y dinámico también con los pueblos del este. Esta influencia oriental en la zona en la que vivió Jesús, muchas veces ignorada, debe ser debidamente tenida en cuenta para poder formarse un cuadro completo sobre la mentalidad y el escenario en el que le tocó vivir al Maestro.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Empires_at_the_time_of_Jesus/466px-Kushanmap.jpg">
 <figcaption>Imperio kushan hacia su máximo esplendor, siglo II <a href="http://en.wikipedia.org/wiki/Kushanmap.jpg">Wikipedia</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 ## Referencias
 
 * Jean-Noël Robert, _De Roma a China. Por la ruta de la seda en tiempos de la Roma antigua_, Editorial Herder, 1993
-* [Mapa global de los imperios y las rutas comerciales.](http://intranet.dalton.org/groups/Rome/RMap2.html)
 
 ## Enlaces externos
 
