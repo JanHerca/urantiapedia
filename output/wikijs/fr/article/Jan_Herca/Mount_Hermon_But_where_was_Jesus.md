@@ -32,10 +32,12 @@ Dans <a id="a30_5"></a>[LU 134:8](/fr/The_Urantia_Book/134#p8) (« Les années d
 
 Il ne m'a pas fallu longtemps pour trouver Beit Jenn sur une carte. Sur une carte générale du Liban à l'échelle 1/200 000 de l'Institut géographique national français[^3], le village, qui existe encore aujourd'hui et qui s'appelle Beït Jinn, apparaît très clairement. De plus, près du village se trouve un sommet de 2 224 mètres (mais ce n'est pas le plus haut sommet, qui culmine à 2 814 mètres). Il était facile de supposer que l'ascension de Jésus mentionnée dans le Livre d'Urantia est ce « petit » sommet. En consultant d'autres données, j'ai découvert qu'au total, depuis Beit Jenn, qui est située à 1 100 mètres d'altitude, il y avait environ 900 mètres de dénivelé jusqu'à l'endroit où ils ont construit l'entrepôt alimentaire.
 
-<figure id="Hermon_figure_1" class="image urantiapedia">
+<figure id="Hermon_figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/libano-eng-m06.jpg">
 <figcaption><em>La case rouge marque Beit Jenn ; la ligne rouge l'itinéraire possible de Jésus et du Tiglat ; et le cercle rouge l'emplacement possible du dépôt. Lettre générale du Liban, IGN français.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 On voit également sur la carte que de ce sommet de 2 224 mètres descendaient deux torrents jusqu'à Beit Jenn, l'un d'eux suivant une pente plus douce, celle par laquelle Jésus était probablement monté.
 
@@ -43,26 +45,32 @@ Un fait curieux qui ressort de tout cela est que tous les événements extraordi
 
 Le point exact était donc un peu plus clair. Mais à quoi ressemblait cette montagne à l’époque ?
 
-<figure id="Hermon_figure_2" class="image urantiapedia">
+<figure id="Hermon_figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/800px-Hermonsnow.jpg">
 <figcaption><em>Le Mont Hermon vu depuis le Mont Bental</em>, <a href="http://en.wikipedia.org/wiki/File:Hermonsnow.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 L'Hermon est en réalité une vaste chaîne de montagnes connue sous le nom de Jabal Ech Cheikh avec plusieurs sommets enneigés en permanence et qui possède aujourd'hui une station de ski. En raison de l'exploitation forestière intensive, les forêts luxuriantes de cèdres ont été abandonnées, ne laissant que de petites zones de cet arbre fantastique.[^4] Pour cette raison, les photographies que certains voyageurs nous ont données ne montrent que des pentes austères et solitaires.[^5]
 
 Pour avoir une idée de ce qu'était ce lieu hétéroclite au temps de Jésus, je me suis tourné vers le précieux récit du _Caballo de Troya 6_, le best-seller de J.J. Benítez,[^6] qui dans ses dernières pages reproduit cette ascension. avec des détails étonnants. Tout ce luxe de détails a été réutilisé par moi lors de l'écriture de ma version fictive[^7] de la Partie IV du _Le Livre d'Urantia_ sur laquelle je travaille depuis des années. J'utilise ainsi certains éléments tels que l'_asherat_ (une construction commémorative phénicienne historiquement détestée par les Juifs) et la clairière avec le cèdre au centre, qui apparaissent dans l'œuvre de Benítez.
 
-<figure id="Hermon_figure_3" class="image urantiapedia">
+<figure id="Hermon_figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_ascension.jpg">
 <figcaption><em>Route d'ascension de Jésus jusqu'au mont Hermon</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Il m'a semblé une bonne idée de faire dans mon roman[^7] que Jésus fasse un geste d'adoration sincère devant le monument d'_asherat_ (dans _Caballo de Troya 6_ l'ascension de Jésus n'est pas racontée, mais celle de Tiglat et de ses deux compagnons et c'est Tiglath celui qui s'incline). Ce geste de Jésus donne un exemple de son caractère personnel et contraste avec l'attitude typique des Juifs envers ces monuments étrangers (voir [2 Chron 34:1-7](/fr/Bible/2_Chronicles/34#v1); [Mic 5: 14-15](/fr/Bible/Micah/5#v14)). Les rois et les prophètes des temps anciens s'étaient battus pour détruire ces édifices qui leur étaient odieux du simple fait qu'ils commémoraient un autre dieu que Yahvé, le dieu juif. Cependant, pour le Jésus de mon roman, le lieu où Dieu est adoré est la chose la moins importante, l'important c'est que tous les bâtiments ont été réalisés par les mains des croyants, quelle que soit leur conception de Dieu.
 
-<figure id="Hermon_figure_4" class="image urantiapedia">
+<figure id="Hermon_figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_panoramica.jpg">
 <figcaption><em>Vue panoramique du sommet de l'Hermon obtenue avec Google Earth</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Dans mon roman[^7], Jésus raconte des légendes Tiglath sur le mont Hermon. Cette montagne a toujours été associée dans la littérature juive à des récits mythologiques. Dans le _Livre d'Enoch_, apocryphe du temps de Jésus, on peut lire :
 
