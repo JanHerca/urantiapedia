@@ -48,10 +48,12 @@ Ha estado deshabitada durante mil años, aunque algunos beduinos que la ocuparon
 
 La _via Maris_, o camino del mar, que los romanos convirtieron en una de las calzadas del imperio, y que unía Damasco con la costa mediterránea y el sur, pasaba a unos 100 m al noreste de los restos de la actual sinagoga. Un miliario encontrado, de época posterior, en tiempos del emperador Adriano, atestigua la existencia de la vía y su importancia romana.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/Kafar1.jpg">
 <figcaption><em>Ruinas de Cafarnaúm con su sinagoga al fondo. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Kafar1.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 El lugar era especialmente propicio para la pesca. Cafarnaúm estaba situada en un litoral con abundancia de peces, que se extendía hasta Tabgha. Se ha encontrado también una gran abundancia de vajillas y mobiliario de piedra, lo que indica la existencia de una industria pétrea típica. También restos atestiguan la existencia de una industria de producción de vasijas de vidrio, así como de aceite (se han desenterrado prensas para las olivas). Otra de las ocupaciones lógicas era la agricultura.
 
@@ -65,10 +67,12 @@ Los dos únicos edificios notorios en las ruinas son una sinagoga imponente y mu
 
 Según Reed y Crossan, el trazado de las calles no sigue el clásico cardo máximo y decumano de las poblaciones romanizadas. Pero si se consulta la página web de los franciscanos, se dice todo lo contrario. En mi opinión, los arqueólogos franciscanos utilizan términos aplicables a ciudades de cuño romano un poco a la ligera para explicar sus hallazgos de Cafarnaúm, mencionando la existencia de un cardo, un decumano, insulae, etc. Y aunque puede que hubiera varias calles transversales de cierta importancia, la disposición de las arterias no obedece a un orden establecido como ocurría en las ciudades romanas cuadriculadas y que dio origen a la denominación cardo-decumano. Tampoco hay pavimentos de piedra ni tuberías de agua corriente ni cloacas de aguas residuales en las calles, como las encontramos en otras ciudades de cuño romano.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/jerusalem_9.jpg">
 <figcaption><em>Vivienda del primer siglo en Cafarnaúm. </em><br> © John Dominic Crossan and Jonathan L. Reed, <em>Excavating Jesus</em>, 2001.</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Las viviendas
 
@@ -96,17 +100,21 @@ Actualmente, en las ruinas visibles, pueden admirarse los restos de una hermosa 
 
 Las sinagogas del siglo I no solían ser edificios especiales. En muchos yacimientos se ha tenido que presuponer como sinagogas algunas viviendas que eran adaptadas para tal uso. En otros casos sí se realizaba alguna construcción, pero de gran sencillez. Crossan y Reed apuntan muy acertadamente que «sinagoga», en la época de Jesús, no solía designar a un tipo de edificio concreto, sino a la asamblea o lugar de reunión habitual para celebrar los ritos religiosos. Este lugar no tenía porqué ser una construcción sancionada o sacralizada para tal fin.
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/800px-Capernaum_synagogue_by_David_Shankbone.jpg">
 <figcaption><em>Sinagoga de Cafarnaúm supuestamente construida sobre la de tiempos de Jesús. </em> <a href="http://es.wikipedia.org/wiki/Capernaum_synagogue_by_David_Shankbone.jpg">Wikipedia</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Según el evangelio de Lucas la sinagoga como tal sí existió en el caso de Cafarnaúm ([Lc 7:1-10](/es/Bible/Luke/7#v1)), pues el evangelista incluso menciona al benefactor que la construyó. Está claro que no está hablando de una vivienda cualquiera o un lugar público, como una plaza. Habla de una construcción concreta. Esto me hace estar en desacuerdo con las sorprendentes interpretaciones de Crossan y Reed en esta cuestión. Para ellos la ausencia de unos restos claros y rotundos de una sinagoga del siglo I implican necesariamente que no hubo tal edificio, a pesar de que la sinagoga es mencionada incluso en otros pasajes de los evangelios ([Mc 1:21](/es/Bible/Mark/1#v21), [Jn 6:59](/es/Bible/John/6#v59)). 
 
-<figure id="Figure_4" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/Capernaum_synagogue.jpg">
 <figcaption><em>Reconstrucción figurada de la sinagoga.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## La guarnición romana
 

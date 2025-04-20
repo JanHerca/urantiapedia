@@ -30,10 +30,12 @@ In a previous article we have already investigated what Capernaum may have been 
 
 > In 1906, the ruins of an octagonal building were discovered on land in Capernaum under the custody of the Franciscans. This was the Byzantine church that had become the “house of the Prince of the Apostles” spoken of by ancient pilgrims. Between 1968 and 1985, Franciscan archaeologists Virgil Corbo and Stalisnao Loffreda worked on this octagonal structure and its surroundings, bringing to light its extremely complex strata. In the 5th century BC, an octagonal church was built on top of a house-church dating from the 4th century, both of which were built on top of a simple courtyard house originally built in the 1st century BC. A series of curious examples of Christian invocations in Aramaic, Hebrew, Greek, Latin and Syriac had been scrawled on the stucco covering one of the rooms as early as the 2nd century AD. Since there were no household utensils and the room had been plastered several times, the early generations of Christians must have considered the room to be important in some way. The archaeologists concluded that it was the house of the apostle Peter.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/dji_0007.jpg">
 <figcaption><em>Capharnum today. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Is this building really the ancient house of Peter, and most likely the first Christian church in the world? This is what the Franciscans who have excavated the site seem to suggest.
 
@@ -60,10 +62,12 @@ For those of us who read _The Urantia Book_ with any credibility, there are many
 - _The house of the Roman centurion, Mangus_: a house which Jesus ultimately did not enter, admiring the man's great faith: "Lord, I am not worthy that you should enter under my roof. But only say the word and he will be healed" (<a id="a59_230"></a>[UB 147:1.1-4](/en/The_Urantia_Book/147#p1_1)). He must have been quite a wealthy person to make the donation for the construction of the synagogue. It is not unreasonable to think that his house was large, spacious, and was located in a place not far from the synagogue that he promoted.
 - _The house of Jairus_, one of the rulers of the synagogue: Jesus supposedly heals the daughter of this wealthy man from Capernaum, who thereafter becomes a believer (<a id="a60_168"></a>[UB 152:1.1-2](/en/The_Urantia_Book/152#p1_1) and <a id="a60_218"></a>[UB 154:1.2](/en/The_Urantia_Book/154#p1_2)).
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/house-of-peter-in-capernaum.jpg">
 <figcaption><em>Remains of the Basilica and the old church. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 If we assume the correct location of Capernaum, and that the synagogue now visible, dating from the fifth century, is built on the foundations of the one sponsored by the Roman centurion, then all the houses mentioned in _The Urantia Book_ as being located outside Capernaum or in Bethsaida must be ruled out. This excludes the house of Philip, that of Zebedee, that of his sons James and David, and that of Peter. Therefore, according to _The Urantia Book_, the basilica-church built in Capernaum was not on the site of Simon Peter's former home. Most likely, the early pilgrims spread this idea in order to give the site a more sacred significance. In fact, at the time when we have references to the pilgrims, Peter was already called the "prince of the apostles." How could the basilica be built on top of a house other than that of such a distinguished apostle?
 
@@ -87,10 +91,12 @@ Theories aside, I think it is very difficult to come to a firm decision on a sol
 
 And before I finish, I'll leave you with an interesting anecdote for readers of _The Urantia Book_. Has anyone noticed that the octagonal church has a floor plan that is actually three concentric circles? Was this symbolism already present in some way in the iconography of the early Christian community? If so, it is a very interesting fact, which will be worth investigating...
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/Basilica_by_Corbo.jpg">
 <figcaption><em>Peter's House and church, strata from the 5th century (white), 4th century (hatched) and 1st century (black) (according to Corbo), in a clear arrangement of three concentric rings.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## External links
 

@@ -30,10 +30,12 @@ En un artículo anterior ya hemos indagado sobre cómo pudo ser la Cafarnaúm de
 
 > En 1906 fueron descubiertas las ruinas de un edificio octogonal en unos terrenos de Cafarnaúm bajo la custodia de los franciscanos. Se trataba de la iglesia bizantina en la que se había convertido «la casa del príncipe de los Apóstoles», de la que hablaban los peregrinos antiguos. Entre 1968 y 1985 los arqueólogos franciscanos Virgilio Corbo y Stalisnao Loffreda trabajaron en esa estructura octogonal y sus alrededores y sacaron a la luz sus complejísimos estratos. En el siglo V e.v. fue construida una iglesia octogonal sobre una iglesia-casa que databa del siglo IV, erigidas ambas encima de una sencilla casa con patio construida inicialmente en el siglo I a.C. En el estuco que recubría una de las habitaciones habían sido garabateados ya en el siglo II d.C. una serie de curiosos ejemplos de invocaciones cristianas en arameo, hebreo, griego, latín y siríaco. Como no había ningún tipo de utensilio doméstico y la sala había sido revestida de yeso varias veces, las primeras generaciones de cristianos debieron de considerar que la sala era importante en algún sentido. La conclusión de los arqueólogos fue que se trataba de la casa del apóstol Pedro.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/dji_0007.jpg">
 <figcaption><em>Cafarnúm hoy en día. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ¿Es realmente esta construcción la antigua casa de Pedro, y muy seguramente la primera iglesia cristiana del mundo? Así parecen indicarlo los franciscanos que han excavado el lugar.
 
@@ -60,10 +62,12 @@ Para quienes leemos con credibilidad _El Libro de Urantia_ existen muchas otras 
 - _La casa del centurión romano, Mangus_: casa en la que finalmente Jesús no tuvo que entrar, admirado de la gran fe del hombre: «Señor, no soy digno de que entres en mi casa. Pero una palabra tuya bastará para sanarle» (<a id="a59_221"></a>[LU 147:1.1-4](/es/The_Urantia_Book/147#p1_1)). Debió de ser una persona bastante rica, como para realizar el donativo para la construcción de la sinagoga. No es descabellado pensar que su casa fuera amplia, espaciosa, y estuviera localizada en un lugar no muy lejano a la sinagoga que él promovió.
 - _La casa de Jairo_, uno de los rectores de la sinagoga: Jesús cura supuestamente a la hija de este hombre adinerado de Cafarnaúm, que después de eso se hace creyente (<a id="a60_169"></a>[LU 152:1.1-2](/es/The_Urantia_Book/152#p1_1) y <a id="a60_217"></a>[LU 154:1.2](/es/The_Urantia_Book/154#p1_2)).
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/house-of-peter-in-capernaum.jpg">
 <figcaption><em>Restos de la Basílica y la antigua iglesia. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Si suponemos correcto el emplazamiento de Cafarnaúm, y que la sinagoga visible actualmente, del siglo V, está construida sobre los cimientos de la patrocinada por el centurión romano, todas las casas que se mencionan en _El Libro de Urantia_ como situadas en las afueras de Cafarnaúm o en Betsaida deben quedar descartadas. Esto excluye la casa de Felipe, la de Zebedeo, la de sus hijos Santiago y David y la de Pedro. Por consiguiente, según _El Libro de Urantia_, la basílica-iglesia que se construyó en Cafarnaúm no estaba sobre la antigua casa de Simón Pedro. Lo más probable es que los primeros peregrinos divulgaran esta idea para dotar de una importancia más sagrada al lugar. De hecho, en la época de las que tenemos referencias de los peregrinos ya se denomina a Pedro el «príncipe de los apóstoles». ¿Cómo iba a estar asentada la basílica encima de una casa que no fuera la de tan insigne apóstol?
 
@@ -87,10 +91,12 @@ Teorías aparte, creo que es muy difícil decidirse con rigor por una solución.
 
 Y antes de terminar dejo aquí una anécdota interesante para los lectores de _El Libro de Urantia_. ¿Se ha dado cuenta alguien de que la iglesia octogonal tiene una planta que en realidad son tres círculos concéntricos? ¿Es que esta simbología estuvo ya presente de alguna manera en la iconografía de la primitiva comunidad cristiana? Si así fue, es un dato muy interesante, que merecerá la pena investigarse...
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/Basilica_by_Corbo.jpg">
 <figcaption><em>Casa de Pedro e iglesia, estratos del siglo V (blanco), siglo IV (rayado) y siglo I (negro) (según Corbo), en clara disposición de tres anillos concéntricos.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Enlaces externos
 

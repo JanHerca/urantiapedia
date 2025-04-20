@@ -126,7 +126,7 @@ Steps for Spanish ||
 `^\t([A-Z])\. ` | `\t- $1. `
 `\[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\)` | `[LU $3:$4.$5](/es/The_Urantia_Book/$3#p$4_$5)`
 
-### LaTeX
+### LaTeX to Markdown
 
 LaTeX | Markdown
 --- | ---
@@ -147,6 +147,61 @@ LaTeX | Markdown
 `\{\\url\{([^\}]+)\}\}` | `$1`
 `\{\\myurl\{([^\}]+)\}\}` | `$1`
 
+### HTML to Markdown
+
+HTML | Markdown
+--- | ---
+`<em>([^<]+)</em>` | `_$1_`
+`<i>([^<]+)</i>` | `_$1_`
+`<b>([^<]+)</b>` | `**$1**`
+`<strong>([^<]+)</strong>` | `**$1**`
+`<a href="([^"]+)">([^<]+)</a>` | `[$2]($1)`
+`<h1>([^<]+)</h1>` | `# $1`
+`<h2>([^<]+)</h2>` | `## $1`
+`<h3>([^<]+)</h3>` | `### $1`
+`<h4>([^<]+)</h4>` | `#### $1`
+`<h5>([^<]+)</h5>` | `##### $1`
+`<h6>([^<]+)</h6>` | `###### $1`
+`<ul>\s*<li>(.*?)</li>\s*</ul>` | `- $1`
+`<ol>\s*<li>(.*?)</li>\s*</ol>` | `1. $1`
+`<li>(.*?)</li>` | `- $1`
+`<blockquote>(.*?)</blockquote>` | `> $1`
+`<code>([^<]+)</code>` | ``$1``
+`<pre><code>([\s\S]+?)</code></pre>` | ````\n$1\n````
+`<img src="([^"]+)" alt="([^"]*)">` | `![$2]($1 "$2")`
+`<img src="([^"]+)">` | `![]($1)`
+`<figure>\s*<img src="([^"]+)" alt="([^"]*)">\s*<figcaption>([^<]+)</figcaption>\s*</figure>` | `![$2]($1 "$3")`
+`<br\s*/?>` | `\n`
+`<hr\s*/?>` | `---`
+`<p>(.*?)</p>` | `$1\n\n`
+`<p>(.*?)</p>` | `$1\n\n`
+`<div>(.*?)</div>` | `$1`
+`<span>(.*?)</span>` | `$1`
+
+### Markdown to HTML
+
+Markdown | HTML
+--- | ---
+`_([^_]+)_` | `<em>$1</em>` (manual, not replace all)
+`\*\*([^*]+)\*\*` | `<strong>$1</strong>`
+`\[(.*?)\]\((.*?)\)` | `<a href="$2">$1</a>`
+`# (.+)` | `<h1>$1</h1>`
+`## (.+)` | `<h2>$1</h2>`
+`### (.+)` | `<h3>$1</h3>`
+`#### (.+)` | `<h4>$1</h4>`
+`##### (.+)` | `<h5>$1</h5>`
+`###### (.+)` | `<h6>$1</h6>`
+`^- (.+)` | `<li>$1</li>` (wrap with <ul> for lists)
+`^(\d+)\. (.+)` | `<li>$1</li>` (wrap with <ol> for ordered lists)
+`^> (.+)` | `<blockquote>$1</blockquote>`
+``([^`]+)`` | `<code>$1</code>`
+````([\s\S]+?)```` | `<pre><code>$1</code></pre>`
+`!\[(.*?)\]\((.*?)\)` | `<img src="$2" alt="$1">`
+`---` | `<hr>`
+`"/es/` | `"https://urantiapedia.org/es/`
+`\[\^(\d+)\]` | `[<a href="#fn$1">$1</a>]` (add `id="fn$1"` to <p> in notes)
+`<p style="text-align:justify;text-indent:.5cm"></p>` | (add manually to all)
+
 ### Other replacements
 
 Origin | Fix
@@ -158,8 +213,6 @@ Replace english curly quotes with spanish angular ones ||
 `“([^”]*)”` | `«$1»`
 Replace spanish plain quotes with angular ones ||
 `"([^"]*)"` | `«$1»`
-HTML links to Markdown links ||
-`<a href="([^"]+)">([^<]+)</a>` | `[$2]($1)`
 Urantia references to links ||
 `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or<br> `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or<br> `(\d{1,3}):(\d{1,2})\.(\d{1,3}), \d{1,4}\.\d{1,2}` or<br> `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or<br> `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
 `\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
@@ -544,7 +597,7 @@ Allah|Alá
 &nbsp; 
 
 
-UBTheNews
+### UBTheNews
 
 `\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)  (.+)`
 `> $4 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
@@ -555,10 +608,26 @@ UBTheNews
 `^\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)(.+)`
 `> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
 
-Jan Herca articles
+### Jan Herca articles
+
+**The header**
 
 <div style="display: flex;background-color: #fff3e0;border-radius: 8px;padding: 16px;font-size: 12px">
 <div style="margin-right: 16px"><img style="background: none;width:30px;height:30px;max-width:fit-content" src="https://buscandoajesus.wordpress.com/wp-content/uploads/2025/04/warning.png" /></div>
 <div>Este sitio web y todo su contenido se está moviendo a <a href="https://urantiapedia.org" target="_blank">urantiapedia.org</a>, un sitio web con contenido no sólo relativo a Jesús de Nazaret y su época, sino también a cientos de otros temas relacionados con religión, filosofía, ciencia y espiritualidad. El contenido de este blog, «Buscando a Jesús», va a continuar, pero es recomendable visitar el nuevo sitio web. Allí es donde se está publicando todo el contenido nuevo, además en varios idiomas (al menos en español, inglés y francés), y con enlaces a literatura clásica y bíblica.
 Véase este artículo en la nueva web aquí: <a href="https://urantiapedia.org/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times" target="_blank">El calendario judío de la época de Jesús</a>.</div>
 </div>
+
+**Downloads section**
+
+<h2 id="descargas">Descargas</h2>
+<p style="text-align: justify;text-indent: .5cm"><img src="http://buscandoajesus.wordpress.com/files/2009/04/icon_pdf.png" alt="PDF" width="16" height="16" /> Este artículo : <a href="http://buscandoajesus.files.wordpress.com/2012/07/calendario_revisado.pdf" target="_blank" rel="noopener">PDF</a></p>
+
+**The footer**
+
+<h2 id="licencia">Licencia</h2>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" rel="license"> <img src="https://buscandoajesus.wordpress.com/wp-content/uploads/2025/04/by-sa.png" alt="Creative Commons License" width="100px" /> </a>
+
+© Jan Herca, 2025
+
+Este trabajo está sujeto a la <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="noopener">Licencia Creative Commons Attribution-ShareAlike 4.0.</a>

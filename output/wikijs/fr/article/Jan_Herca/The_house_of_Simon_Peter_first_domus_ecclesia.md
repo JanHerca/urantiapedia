@@ -30,10 +30,12 @@ Dans un article précédent, nous avons déjà étudié à quoi pouvait ressembl
 
 > En 1906, les ruines d'un édifice octogonal sont découvertes sur un terrain de Capharnaüm sous la garde des franciscains. C’était l’église byzantine qui était devenue « la maison du prince des Apôtres », dont parlaient les anciens pèlerins. Entre 1968 et 1985, les archéologues franciscains Virgilio Corbo et Stalisnao Loffreda ont travaillé sur cette structure octogonale et ses environs et ont mis en lumière ses strates très complexes. Au Ve siècle, une église octogonale fut construite sur un corps-église datant du IVe siècle, tous deux construits sur une simple maison avec un patio initialement construit au Ier siècle avant JC. Des gribouillis étaient déjà écrits sur le dessus. stuc qui recouvrait l'une des salles au IIe siècle après JC une série de curieux exemples d'invocations chrétiennes en araméen, hébreu, grec, latin et syriaque. Comme il n'y avait aucun ustensile ménager d'aucune sorte et que la pièce avait été enduite à plusieurs reprises, les premières générations de chrétiens ont dû considérer la pièce comme importante d'une manière ou d'une autre. La conclusion des archéologues était qu'il s'agissait de la maison de l'apôtre Pierre.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/dji_0007.jpg">
 <figcaption><em>Capharnum aujourd'hui. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Cette construction est-elle réellement l'ancienne maison de Pierre, et très certainement la première église chrétienne au monde ? C'est ce que semblent indiquer les franciscains qui ont fouillé les lieux.
 
@@ -60,10 +62,12 @@ Pour ceux d'entre nous qui lisent de manière crédible _Le Livre d'Urantia_, il
 - _La maison du centurion romain Mangus_ : maison dans laquelle Jésus n'a finalement pas dû entrer, admiré par la grande foi de l'homme : « Seigneur, je ne suis pas digne que tu entres dans ma maison. Mais un mot de ta part suffira pour le guérir» (<a id="a59_249"></a>[LU 147:1.1-4](/fr/The_Urantia_Book/147#p1_1)). Il devait être une personne suffisamment riche pour faire un don pour la construction de la synagogue. Il n’est pas déraisonnable de penser que sa maison était grande, spacieuse et située dans un endroit non loin de la synagogue dont il avait fait la promotion.
 - _La maison de Jaïrus_, un des recteurs de la synagogue : Jésus guérirait la fille de cet homme riche de Capharnaüm, qui devient ensuite croyant (<a id="a60_147"></a>[LU 152 :1.1 -2](/fr/The_Urantia_Book/152#p1_1) et <a id="a60_198"></a>[LU 154:1.2](/fr/The_Urantia_Book/154#p1_2)).
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/house-of-peter-in-capernaum.jpg">
 <figcaption><em>Vestiges de la basilique et de l'ancienne église. </em> <a href="https://www.custodia.org/en/sanctuaries/capernaum">Custodia Terrae Sanctae</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Si l'on suppose que l'emplacement de Capharnaüm est correct, et que la synagogue actuellement visible, dès le 5ème siècle, est construite sur les fondations de celle parrainée par le centurion romain, toutes les maisons mentionnées dans _Le Livre d'Urantia_ comme situées aux abords de Capernaüm ou Bethsaïda doivent être exclus. Cela exclut la maison de Philippe, celle de Zébédée, celle de ses fils Jacques et David, et celle de Pierre. Par conséquent, selon _Le Livre d'Urantia_, la basilique-église qui a été construite à Capharnaüm n'était pas sur l'ancienne maison de Simon Pierre. Très probablement, les premiers pèlerins ont répandu cette idée pour donner au lieu une importance plus sacrée. En fait, à l'époque dont nous avons des références des pèlerins, Pierre était déjà appelé le « prince des apôtres ». Comment la basilique a-t-elle pu être située au sommet d'une maison qui n'était pas celle d'un apôtre aussi distingué ?
 
@@ -87,10 +91,12 @@ Théories mises à part, je pense qu’il est très difficile de décider de man
 
 Et avant de terminer, je laisse ici une anecdote intéressante pour les lecteurs du _Le Livre d'Urantia_. Quelqu’un a-t-il remarqué que l’église octogonale a un plan composé en réalité de trois cercles concentriques ? Cette symbologie était-elle déjà présente d’une manière ou d’une autre dans l’iconographie de la première communauté chrétienne ? Si c'est le cas, c'est un fait très intéressant qui mérite d'être étudié...
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Simon_Peter_first_domus_ecclesia/Basilica_by_Corbo.jpg">
-<figcaption><em>Maison de Pierre et église, strates du 5ème siècle (blanc), du 4ème siècle (rayé) et du 1er siècle (noir) (selon Corbo), dans un arrangement clair de trois anneaux concentriques.</em ></em></ figcaption>
+<figcaption><em>Maison de Pierre et église, strates du 5ème siècle (blanc), du 4ème siècle (rayé) et du 1er siècle (noir) (selon Corbo), dans un arrangement clair de trois anneaux concentriques.</em ></em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Liens externes
 

@@ -48,10 +48,12 @@ It has been uninhabited for a thousand years, although some Bedouins who occupie
 
 The Via Maris, or sea road, which the Romans made into one of the roads of the empire, linking Damascus with the Mediterranean coast and the south, passed about 100 m northeast of the remains of the present synagogue. A milestone found from a later period, in the time of the Emperor Hadrian, attests to the existence of the road and its Roman importance.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/Kafar1.jpg">
 <figcaption><em>Ruins of Capernaum with its synagogue in the background. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Kafar1.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 The site was particularly favourable for fishing. Capernaum was situated on a coastline with an abundance of fish, which extended as far as Tabgha. A great abundance of stoneware and furniture has also been found, indicating the existence of a typical stone industry. Remains also attest to the existence of an industry producing glass vessels, as well as oil (olive presses have been unearthed). Another logical occupation was agriculture.
 
@@ -65,10 +67,12 @@ The only two notable buildings in the ruins are an imposing and very well preser
 
 According to Reed and Crossan, the street layout does not follow the classic cardo maximus and decumanus of Roman towns. But if you consult the Franciscan website, it says quite the opposite. In my opinion, the Franciscan archaeologists use terms applicable to Roman towns a bit lightly in explaining their findings at Capernaum, mentioning the existence of a cardo, a decumanus, insulae, etc. And although there may have been several important cross streets, the layout of the arteries does not follow an established order as occurred in the gridded Roman towns and which gave rise to the name cardo-decumanus. There are also no stone pavements, running water pipes or sewage drains in the streets, as we find in other Roman towns.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/jerusalem_9.jpg">
 <figcaption><em>First century housing in Capernaum. </em><br> © John Dominic Crossan and Jonathan L. Reed, <em>Excavating Jesus</em>, 2001.</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## The houses
 
@@ -96,17 +100,21 @@ This is clearly not the synagogue that Jesus knew. But could it be built on the 
 
 Synagogues in the first century were not usually special buildings. In many sites, it has been assumed that some houses were adapted for such use. In other cases, some construction was built, but it was very simple. Crossan and Reed rightly point out that "synagogue" in the time of Jesus did not usually designate a specific type of building, but rather the assembly or meeting place where religious rites were usually celebrated. This place did not have to be a sanctioned or sacred construction for that purpose.
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/800px-Capernaum_synagogue_by_David_Shankbone.jpg">
 <figcaption><em>Capharnaum Synagogue supposedly built on the one from the time of Jesus. </em> <a href="http://es.wikipedia.org/wiki/Capernaum_synagogue_by_David_Shankbone.jpg">Wikipedia</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 According to Luke's Gospel, the synagogue as such did exist in Capernaum ([Lk 7:1-10](/en/Bible/Luke/7#v1)), as the evangelist even mentions the benefactor who built it. It is clear that he is not talking about just any house or a public place, such as a square. He is talking about a specific building. This makes me disagree with the surprising interpretations of Crossan and Reed on this issue. For them, the absence of clear and conclusive remains of a synagogue from the first century necessarily implies that there was no such building, even though the synagogue is mentioned even in other passages of the Gospels ([Mk 1:21](/en/Bible/Mark/1#v21), [Jn 6:59](/en/Bible/John/6#v59)).
 
-<figure id="Figure_4" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Capernaum/Capernaum_synagogue.jpg">
 <figcaption><em>Figure reconstruction of the synagogue.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## The Roman garrison
 
