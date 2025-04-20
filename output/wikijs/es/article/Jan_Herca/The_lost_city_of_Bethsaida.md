@@ -50,11 +50,11 @@ En primer lugar, Betsaida es mencionada 7 veces en los evangelios:
 
 El historiador judío Flavio Josefo la mencionó en varias ocasiones:
 
-> También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César. [AJ 18:2.1] 
+> También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César. [[AJ 18:2.1](/es/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#2_1)] 
 
 Parece ser que el cambio de nombre de la villa tuvo lugar hacia el año 30, año de la muerte de Jesús, pero de aquí no sacamos su emplazamiento.
 
-> ...cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis. [BJ 3:5.1]
+> ...cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis. [[BJ 3:10.7](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_3#10_7)]
 
 Por la descripción parece estar diciendo que Julias, la antigua Betsaida, estaba situada antes de la desembocadura del Jordán en el mar de Galilea.
 
@@ -100,7 +100,7 @@ Si nos basamos en el supuesto, que puede ser erróneo, de que los cuatro evangel
 - Jesús enseña a la multitud y luego les alimenta mediante una multiplicación milagrosa de panes y peces (_Mc_, _Mt_, _Lc_ y _Jn_).
 - La multitud intenta proclamar rey a Jesús (_Jn_).
 - Pide a los discípulos que se marchen (_Mc_ y _Mt_) mientras él se retira a un monte a orar (_Mc_, _Mt_ y _Jn_).
-- Los discípulos marchan por barca en dirección a Betsaida (Mc), a la otra orilla (_Mt_), hacia Cafarnaúm (_Jn_).
+- Los discípulos marchan por barca en dirección a Betsaida (_Mc_), a la otra orilla (_Mt_), hacia Cafarnaúm (_Jn_).
 - El viento contrario les impide avanzar (_Mc_, _Mt_ y _Jn_).
 - Jesús camina sobre las aguas (_Mc_, _Mt_ y _Jn_), invita a Pedro a hacerlo (_Mt_), y sube a la barca (_Mc_ y _Mt_).
 - Llegan a su destino (_Jn_), pero que finalmente es Genesaret (_Mc_ y _Mt_).

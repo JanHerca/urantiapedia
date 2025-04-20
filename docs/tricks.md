@@ -193,7 +193,7 @@ Markdown | HTML
 `###### (.+)` | `<h6>$1</h6>`
 `^- (.+)` | `<li>$1</li>` (wrap with <ul> for lists)
 `^(\d+)\. (.+)` | `<li>$1</li>` (wrap with <ol> for ordered lists)
-`^> (.+)` | `<blockquote>$1</blockquote>`
+`^> (.+)` | `<blockquote>\n$1\n</blockquote>`
 ``([^`]+)`` | `<code>$1</code>`
 ````([\s\S]+?)```` | `<pre><code>$1</code></pre>`
 `!\[(.*?)\]\((.*?)\)` | `<img src="$2" alt="$1">`
