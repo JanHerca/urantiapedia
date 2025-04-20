@@ -152,10 +152,12 @@ Mendel Nun poursuit sa présentation en indiquant que des restes de bâtiments r
 
 Mendel Nun assure qu'El-Araj, qui n'est qu'une fine bande en face de la côte, se cache sous les ruines de l'ancienne Bethsaïde et que même sous les eaux se trouvent encore d'autres vestiges qui ont été inondés. La zone étant devenue marécageuse, les fouilles sont compliquées et laborieuses. C'est peut-être la raison pour laquelle aucune fouille archéologique systématique n'a encore été réalisée dans cette zone, qui pourrait cacher des ruines d'un intérêt inestimable.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_FR.png">
 <figcaption><em>Carte des anciens ports de la mer de Galilée (basée sur Mendel Nun).<br> Tabgha (Betsaida), la maison de plusieurs apôtres, est représentée à gauche. A droite, et-Tell et el-Araj, les deux sites qui contestent l'identification à Bethsaïda-Julias.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Théories d'experts
 
@@ -223,10 +225,12 @@ Lorsque cet article a été publié pour la première fois en 2006, je n’avais
 
 Que de choses nous reste-t-il encore à découvrir dans ce puzzle passionnant qu’est la vie de Jésus et son époque !
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
 <figcaption><em>L'équipe de fouilles d'el-Araj au périmètre de l'église byzantine des Apôtres.</em> <a href="https://www.elarajexcavations.com/post/el-araj-season-4-the-final-day-day-five-week-4">Lien</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Références
 
