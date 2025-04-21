@@ -50,11 +50,11 @@ First of all, Bethsaida is mentioned 7 times in the gospels:
 
 The Jewish historian Flavius ​​Josephus mentioned it on several occasions:
 
-> He also raised the village of Bethsaida, situated on Lake Gennesaret, to the status of a city, adding inhabitants and securing fortifications, and called it Julias, the same name as Caesar's daughter. [[AJ 18:2.1](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#2_1)] 
+> He also raised the village of Bethsaida, situated on Lake Gennesaret, to the status of a city, adding inhabitants and securing fortifications, and called it Julias, the same name as Caesar's daughter. [[AJ 18:2.1](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#v2_1)] 
 
 It seems that the name change of the town took place around the year 30, the year of Jesus' death, but we do not get its location from there.
 
-> ...when [the Jordan River] has traveled another one hundred and twenty stadia, it first passes the city of Julias, then flows through the middle of Lake Gennesaret; then it flows a long way through a desert, and ends at Lake Asphaltitus. [[BJ 3:10.7](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#10_7)]
+> ...when [the Jordan River] has traveled another one hundred and twenty stadia, it first passes the city of Julias, then flows through the middle of Lake Gennesaret; then it flows a long way through a desert, and ends at Lake Asphaltitus. [[BJ 3:10.7](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_7)]
 
 From the description it seems to be saying that Julias, the ancient Bethsaida, was located before the mouth of the Jordan in the Sea of ​​Galilee.
 
