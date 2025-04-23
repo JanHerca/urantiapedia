@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:54:19Z
   </table>
 </figure>
 
-La presente traducción de los Ejercicios de San Ignacio se ha realizado a partir del Autógrafo Español de San Ignacio. La copia así designada no es de puño y letra del santo, pero contiene numerosas correcciones hechas por él y se sabe que la utilizó para impartir los Ejercicios.
+La presente traducción de los Ejercicios de San Ignacio se ha realizado a partir del Autógrafo de San Ignacio. La copia así designada no es de puño y letra del santo, pero contiene numerosas correcciones hechas por él y se sabe que la utilizó para impartir los Ejercicios.
 
 San Ignacio de Loyola era un hombre sin grandes pretensiones de educación al escribir este libro. Su lengua materna no era el español, sino el euskera. Su falta de educación y su imperfecto conocimiento del español puro bastan para dejar claro que no cabe esperar en su obra un uso refinado de ninguna lengua, y más especialmente del español, ni, en general, un estilo acabado o incluso perfectamente correcto. Quizás eliminó algunos defectos literarios, al continuar usando y aplicando el libro, pero se sabe que nunca temió tales faltas. Las correcciones que se encuentran en este texto se hicieron claramente con miras a la precisión más que a cualquier otra cosa.
 

@@ -130,7 +130,7 @@ El suelo de la provincia era amarillo y fértil. Sus campos eran los más ricos 
 
 Pasando Kî-shih, navegaron hacia Lung-măn, en el oeste de Ho. Luego se encontraron al norte de Wei (con los tributarios de otros lugares).
 
-Español Telas de pelo y pieles (fueron traídas de) Khwăn-lun, Hsî-_k_ih, y <i>Kh</i>ü-sâu;—las tribus salvajes del Oeste (todas) llegando a (someterse a) los arreglos de Yü. 
+Telas de pelo y pieles (fueron traídas de) Khwăn-lun, Hsî-_k_ih, y <i>Kh</i>ü-sâu;—las tribus salvajes del Oeste (todas) llegando a (someterse a) los arreglos de Yü. 
 
 ## Sección 2. 
 

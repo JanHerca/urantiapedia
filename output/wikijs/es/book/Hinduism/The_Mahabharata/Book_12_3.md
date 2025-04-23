@@ -996,7 +996,7 @@ _El final del Santi Parva_.
 
 [^149]: 80:1 _Mokshadaisikam_ es explicado por el comentarista como _Mokshandeshataram_. KP Singha traduce erróneamente esta palabra. Esta sección se llama _pavakadhyayanam_, que significa _chitta-sodhakadhyayanam_, es decir, la lección que, cuando se lee y se domina, conduce a la purificación del corazón. 
 
-[^150]: 81:1 El tiempo, como agente personificado, está lanzando a todas las criaturas a distancias desiguales. Algunas son lanzadas cerca y otras a gran distancia. Estas distancias están reguladas por la naturaleza de los actos realizados por las criaturas lanzadas. Español Algunos son arrojados entre los animales, otros entre los hombres. Arrojándolos o lanzándolos así, el Tiempo los arrastra de nuevo, con las cuerdas de unión siempre en sus manos. 
+[^150]: 81:1 El tiempo, como agente personificado, está lanzando a todas las criaturas a distancias desiguales. Algunas son lanzadas cerca y otras a gran distancia. Estas distancias están reguladas por la naturaleza de los actos realizados por las criaturas lanzadas. Algunos son arrojados entre los animales, otros entre los hombres. Arrojándolos o lanzándolos así, el Tiempo los arrastra de nuevo, con las cuerdas de unión siempre en sus manos. 
 
 [^151]: 81:2 Ambos traductores vernáculos han malinterpretado la primera línea de este verso aunque no hay dificultad en ello. Apastamva dice _drishto dharma-vyatikrama; Sahasancha purvesham_. Lo que Bhishma dice aquí es que uno no debería hablar de esos casos de _Vyatikramah_ y _Sahasam_. 
 

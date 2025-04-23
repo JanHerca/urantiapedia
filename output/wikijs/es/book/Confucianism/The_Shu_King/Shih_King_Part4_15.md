@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:52:26Z
 
 <a id="o0"></a>
 
-Español El DUQUE Liû, un antepasado de la familia <i>K</i>âu, se asentó, según sus tradiciones, en 1797 a. C. en Pin, cuyo sitio se señala, 90 lî al oeste de la actual ciudad del distrito de San-shui, en Pin <i>K</i>âu, Shen-hsî, donde la tribu permaneció hasta el movimiento hacia el este de Than-fû, celebrado en la primera década de las Odas Mayores del Reino, oda 3. El duque de <i>K</i>âu, durante la minoría de edad del rey <i>Kh</i>ăng, hizo, se supone, la primera de las piezas de este Libro, describiendo para instrucción del joven monarca, las antiguas costumbres de sus padres en Pin; y posteriormente una compiló otras, odas hechas por el duque, y otras también sobre él, y las reunió bajo el nombre común de 'las Odas de Pin'.
+El DUQUE Liû, un antepasado de la familia <i>K</i>âu, se asentó, según sus tradiciones, en 1797 a. C. en Pin, cuyo sitio se señala, 90 lî al oeste de la actual ciudad del distrito de San-shui, en Pin <i>K</i>âu, Shen-hsî, donde la tribu permaneció hasta el movimiento hacia el este de Than-fû, celebrado en la primera década de las Odas Mayores del Reino, oda 3. El duque de <i>K</i>âu, durante la minoría de edad del rey <i>Kh</i>ăng, hizo, se supone, la primera de las piezas de este Libro, describiendo para instrucción del joven monarca, las antiguas costumbres de sus padres en Pin; y posteriormente una compiló otras, odas hechas por el duque, y otras también sobre él, y las reunió bajo el nombre común de 'las Odas de Pin'.
 
 <a id="o1"></a>
 

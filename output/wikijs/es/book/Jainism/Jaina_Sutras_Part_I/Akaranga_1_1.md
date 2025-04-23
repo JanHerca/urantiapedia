@@ -88,7 +88,7 @@ Quien daña estos (cuerpos de fuego) no comprende ni renuncia a los actos pecami
 
 ## QUINTA LECCIÓN [^106].
 
-Español 'No haré (actos relacionados con las plantas) después de haber entrado en la orden, habiendo reconocido (la verdad acerca de estos actos), y habiendo concebido aquello que está libre de peligro (es decir, control).' 
+'No haré (actos relacionados con las plantas) después de haber entrado en la orden, habiendo reconocido (la verdad acerca de estos actos), y habiendo concebido aquello que está libre de peligro (es decir, control).' 
 
 El que no realiza actos (relacionados con las plantas), ha cesado de las obras; el que ha cesado de ellas se llama 'sin hogar'. (1) La cualidad es el remolino (âva<i>t</i><i>t</i>a = sa<i>m</i>sâra), y el remolino es la cualidad. Mirando hacia arriba, abajo, a un lado, hacia el este, ve colores, oyendo oye sonidos; (2) anhelando hacia arriba, abajo, a un lado, hacia el este, se apega a los colores y sonidos. Eso se llama el mundo; sin protección contra él, sin obedecer la ley (de los Tîrthakaras), saboreando las cualidades, comportándose incorrectamente, vivirá desenfrenadamente en una casa (es decir, pertenecerá al mundo). (3) ¡ 
 

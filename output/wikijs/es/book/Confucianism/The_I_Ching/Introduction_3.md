@@ -68,7 +68,7 @@ Pero cuando examinamos los Apéndices tercero y cuarto (las «alas» quinta, sex
 
 En el Yî hay cuatro elementos característicos del camino de los sabios. Debemos valorar al máximo sus explicaciones, para guiarnos al hablar; sus cambios, para iniciar nuestros movimientos; sus figuras emblemáticas, para la acción concreta, como en la construcción de herramientas; y sus pronósticos, para nuestra práctica de la adivinación.
 
-Español A esto le siguen siete párrafos que amplían sus afirmaciones, y llegamos al último del capítulo que dice: "El Maestro dijo: «Tal es el significado de la afirmación de que hay cuatro cosas en el Yî, características del camino de los sabios». No puedo entender cómo se nos podría transmitir de manera más completa que el compilador o compiladores de este Apéndice eran distintos del Maestro cuyas palabras citaron, según les convenía, para confirmar o ilustrar sus puntos de vista.
+A esto le siguen siete párrafos que amplían sus afirmaciones, y llegamos al último del capítulo que dice: "El Maestro dijo: «Tal es el significado de la afirmación de que hay cuatro cosas en el Yî, características del camino de los sabios». No puedo entender cómo se nos podría transmitir de manera más completa que el compilador o compiladores de este Apéndice eran distintos del Maestro cuyas palabras citaron, según les convenía, para confirmar o ilustrar sus puntos de vista.
 
 En el cuarto Apéndice, encontramos de nuevo una ocurrencia similar de la fórmula de cita. Es mucho más breve que el tercero, y la frase «El Maestro dijo» no se nos presenta con tanta frecuencia; sin embargo, en los treinta y seis párrafos que componen la primera sección, la encontramos seis veces.
 

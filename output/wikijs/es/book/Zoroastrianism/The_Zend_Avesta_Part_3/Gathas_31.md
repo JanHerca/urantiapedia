@@ -317,7 +317,7 @@ Traducción.
 [^256]: 50:6 de lunes a jueves.
 
 [^257]: 50:7 Sazê<i>d</i> sanêh, 'preparar el sable'. Sin embargo, era un arma de dos manos; véase Y. LVI, 12, (4 Sp.).
-  Español El manuscrito parsi-persa: Wa ma kas aêdûn az <i>s</i>umâ kih û pág. 51 darwand mânsar <i>s</i>unawad wa âmû'hti<i>s</i>n (sic); \[kû az Â<i>s</i>môkân (?) Awestâ wa Zand ma <i>s</i>unawad\], <i>k</i>ih andar—ma<i>h</i>all <i>s</i>ahar wa deh dehad bad-rafti<i>s</i>n wa marg an i Â<i>s</i>mô<i>gh</i>; aêdûn (sic) ô<i>s</i>ân Â<i>s</i>mô<i>gh</i>ân râ sâzad silâ<i>h</i>. (De nuevo, muy cerca.)
+  El manuscrito parsi-persa: Wa ma kas aêdûn az <i>s</i>umâ kih û pág. 51 darwand mânsar <i>s</i>unawad wa âmû'hti<i>s</i>n (sic); \[kû az Â<i>s</i>môkân (?) Awestâ wa Zand ma <i>s</i>unawad\], <i>k</i>ih andar—ma<i>h</i>all <i>s</i>ahar wa deh dehad bad-rafti<i>s</i>n wa marg an i Â<i>s</i>mô<i>gh</i>; aêdûn (sic) ô<i>s</i>ân Â<i>s</i>mô<i>gh</i>ân râ sâzad silâ<i>h</i>. (De nuevo, muy cerca.)
 
 [^258]: 51:1 Así que, conjeturalmente.
 

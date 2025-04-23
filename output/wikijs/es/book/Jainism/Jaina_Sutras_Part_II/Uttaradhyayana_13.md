@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:57:49Z
 
 DECIMOTERCERA CONFERENCIA. KITRA Y SAMBHÛTA [^169]. 
 
-Español Siendo tratado con desprecio por causa de su nacimiento (como un <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta tomó, en Hastinâpura, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> la pecaminosa resolución (de convertirse en un monarca universal en algún nacimiento posterior); descendiendo de la región celestial Padmagulma, nació de <i>K</i>ulanî en Kâmpilya como Brahmadatta; <i>K</i>itra, sin embargo, nació en la ciudad de Purimatâla en la gran familia de un comerciante; cuando hubo escuchado la Ley, entró en la orden. (1, 2) 
+Siendo tratado con desprecio por causa de su nacimiento (como un <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta tomó, en Hastinâpura, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> la pecaminosa resolución (de convertirse en un monarca universal en algún nacimiento posterior); descendiendo de la región celestial Padmagulma, nació de <i>K</i>ulanî en Kâmpilya como Brahmadatta; <i>K</i>itra, sin embargo, nació en la ciudad de Purimatâla en la gran familia de un comerciante; cuando hubo escuchado la Ley, entró en la orden. (1, 2) 
 
 En la ciudad de Kâmpilya, tanto Sambhûta como <i>K</i>itra (como se les llamaba en un nacimiento anterior) se encontraron de nuevo y se contaron la recompensa que habían obtenido por sus buenas y malas acciones. (3) 
 

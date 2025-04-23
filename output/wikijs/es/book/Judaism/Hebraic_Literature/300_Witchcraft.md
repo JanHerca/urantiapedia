@@ -120,7 +120,7 @@ Rav Hunna añade entonces una receta para la fiebre terciana, y Rabí Yojanán d
 
 _Shabbath_, fol. 66, col. 2, etc
 
-Español Una vez, Rabba creó a un hombre (del polvo) y lo envió a Rabí Zira, quien, habiéndose dirigido a la figura y no recibiendo respuesta, dijo: «Tú fuiste (creado) por brujería; regresa a tu polvo nativo». Rav Chaneanah y Rav Oshayah se sentaban juntos cada víspera de Shabat estudiando el libro Yetzirah (es decir, el libro de la Creación), hasta que pudieron crear para sí mismos un ternero (tan grande como un) niño de tres años, y comieron de él.
+Una vez, Rabba creó a un hombre (del polvo) y lo envió a Rabí Zira, quien, habiéndose dirigido a la figura y no recibiendo respuesta, dijo: «Tú fuiste (creado) por brujería; regresa a tu polvo nativo». Rav Chaneanah y Rav Oshayah se sentaban juntos cada víspera de Shabat estudiando el libro Yetzirah (es decir, el libro de la Creación), hasta que pudieron crear para sí mismos un ternero (tan grande como un) niño de tres años, y comieron de él.
 
 _Sanedrín_, fol. 65, col. 2.
 

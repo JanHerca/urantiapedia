@@ -966,7 +966,7 @@ Luego, cuando su trabajo estuvo debidamente realizado,
 buscó el dulce arroyo de Godávaris, 
 se bañó, arrancó los lirios y 
 trajo consigo una reserva de frutas y bayas. 
-Español Entonces el sacrificio él debidamente pagó, 
+Entonces el sacrificio él debidamente pagó, 
 Y cortejó a los Dioses sus esperanzas para ayudar, 
 Y entonces a Ráma orgullosamente mostró 
 El catre preparado para su morada, 
@@ -1174,7 +1174,7 @@ Fresco de la marea purificadora
 El resplandeciente Ráma llegó, 
 Con Lakshman siempre a su lado, 
 Y la dulce dama Maithil. 
-Español Así Rudra brilla por mundos adorados, 
+Así Rudra brilla por mundos adorados, 
 En gloria inmaculada, 
 Cuando Nandi [1](../Libro_3_20#fn455) está junto a su señor, 
 Y el hijo del rey Himálaya. [2](../Libro_3_20#fn456) 
@@ -1220,7 +1220,7 @@ Como un loto brillante de tonos lustrosos,
 Con la gracia del joven Kandarpa [^458] dotado: 
 Como allí brillaba como el mismo Indra, 
 Ella amaba al joven que miraba. 
-Español Ella, de ojos sombríos y rostro aborrecido, 
+Ella, de ojos sombríos y rostro aborrecido, 
 Amaba su dulce mirada y la gracia de su frente: 
 Ella, de figura desagradable, él, 
 De forma majestuosa y miembros bien formados: 

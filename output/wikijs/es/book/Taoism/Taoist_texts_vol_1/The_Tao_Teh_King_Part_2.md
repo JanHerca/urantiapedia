@@ -233,7 +233,7 @@ Cuando el Tao es ignorado en el mundo, los caballos de guerra se reproducen en l
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/08900.jpg), «La moderación del deseo o la ambición». El capítulo muestra cómo la práctica del Tao debe conducir al contentamiento y la felicidad.
 
-Español Al traducir el párrafo 1, después de Wû Khäng, admití un ![](/image/book/Taoism/Taoist_texts_vol_1/08901.jpg) después del ![](/image/book/Taoism/Taoist_texts_vol_1/08902.jpg), siendo su principal autoridad para hacerlo que se encuentra así en una pieza poética de Kang Häng (78-139 d. C.). Kû Hsî también adoptó esta lectura ( ![](/image/book/Taoism/Taoist_texts_vol_1/08903.jpg), XVIII, 7 a). En el párrafo 2 Han Ying tiene una variación tentadora de ![](/image/book/Taoism/Taoist_texts_vol_1/08904.jpg) para ![](/image/book/Taoism/Taoist_texts_vol_1/08905.jpg), pero no la he adoptado porque la misma frase aparece en otros lugares.
+Al traducir el párrafo 1, después de Wû Khäng, admití un ![](/image/book/Taoism/Taoist_texts_vol_1/08901.jpg) después del ![](/image/book/Taoism/Taoist_texts_vol_1/08902.jpg), siendo su principal autoridad para hacerlo que se encuentra así en una pieza poética de Kang Häng (78-139 d. C.). Kû Hsî también adoptó esta lectura ( ![](/image/book/Taoism/Taoist_texts_vol_1/08903.jpg), XVIII, 7 a). En el párrafo 2 Han Ying tiene una variación tentadora de ![](/image/book/Taoism/Taoist_texts_vol_1/08904.jpg) para ![](/image/book/Taoism/Taoist_texts_vol_1/08905.jpg), pero no la he adoptado porque la misma frase aparece en otros lugares.
 
 
 <a id="c47"></a>
