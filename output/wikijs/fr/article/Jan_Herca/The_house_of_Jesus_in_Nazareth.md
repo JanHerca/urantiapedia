@@ -36,10 +36,12 @@ L'une des pièces était la salle à manger, une autre était la chambre/atelier
 
 Comme mobilier, dans la salle à manger, il y avait une table basse en pierre, des récipients en argile, des assiettes et des pots en pierre, un métier à tisser, une petite lampe en argile et plusieurs petits bancs.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Jesus_in_Nazareth/casa_nazaret.png">
 <figcaption>Plan de la maison de Jésus à Nazareth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Dans l'atelier, la nuit, ils s'allongent par terre sur des tapis (sans doute en corde). L'atelier aurait l'établi typique du charpentier et les outils de base : une hache pour abattre les arbres, une herminette pour dégrossir le bois, une hache, des scies en fer pour couper le bois sur mesure, une planche berbiquí et plusieurs forets pour percer. lui, un marteau à tête de pierre pour clouer, un maillet en bois pour frapper des burins ou ajuster des planches ; des ciseaux et des limes en fer pour sculpter le bois, des poinçons pour percer le bois ou le cuir et un assortiment de clous pour l'assemblage et le renforcement. Il est également possible qu'il y ait eu des garlopes ou des pinceaux. Pour mesurer, une règle, un compas, de la craie et bien sûr des sortes de crayons pour tracer les découpes. La pièce serait remplie de bois, notamment de sycomore ou de figuier sauvage, bois tendre et poreux, mais résistant. Également olive, dur, à grain fin et de couleur ambrée, ou peut-être de chêne. En cas de commandes spéciales, le cèdre phénicien et le cyprès, les plus chers, pourraient être utilisés.
 

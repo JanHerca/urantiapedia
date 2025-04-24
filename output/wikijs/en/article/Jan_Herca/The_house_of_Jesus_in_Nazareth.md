@@ -36,10 +36,12 @@ One of the rooms was the dining room, another was the bedroom/workshop (bedroom 
 
 As furnishings, in the dining room there was a low stone table, clay vessels, stone plates and pots, a loom, a small clay lamp, and several small benches.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_house_of_Jesus_in_Nazareth/casa_nazaret.png">
 <figcaption>Plan of Jesus' house in Nazareth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 In the workshop, at night, they would lie on the floor on mats (probably made of rope). The workshop would have had the typical carpenter's bench, and the basic tools: an axe for felling trees, an adze for roughing out wood, a hatchet, iron saws for cutting wood to size, a brace board and various drill bits for drilling holes in it, a stone-headed hammer for nailing, a wooden mallet for striking the chisels or fitting planks; iron chisels and files for shaping wood, awls for piercing wood or leather, and an assortment of nails for assembling and reinforcing. There may also have been planes or planes. For measuring, a ruler, a compass, chalk, and of course some kind of pencil for marking out cuts. The room would have been crammed with wood, mostly sycamore or wild fig, soft and porous but strong wood. Also olive, hard, fine-grained and amber-coloured, or perhaps oak. In cases of special requests, cedar and Phoenician cypress, the most expensive, could be used.
 

@@ -36,7 +36,7 @@ Tout d'abord, il fallait localiser Pella et ensuite voir s'il existe actuellemen
 
 Pella ne devait pas être difficile à localiser. D'après ce que je savais, il reste encore de magnifiques ruines de la ville à proximité d'une ville connue aujourd'hui sous le nom de Tabakat-Fahil. Mais mes cartes à l’échelle 1/200 000 étaient insuffisantes pour localiser l’un ou l’autre. J'avais besoin de cartes plus précises, alors j'ai passé des heures à parcourir Internet pendant des heures.
 
-Du coup, une petite bénédiction : http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg. Ce lien, qui était disponible depuis un certain temps, est actuellement rompu. Mais le même est accessible avec [ce nouveau lien](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
+Du coup, une [petite bénédiction](http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg). Ce lien, qui était disponible depuis un certain temps, est actuellement rompu. Mais le même est accessible avec [ce nouveau lien](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
 
 Le site Web contient des cartes numérisées à l'échelle 1:50 000, les meilleures que j'ai trouvées. Et si vous regardez sur la carte, Tabaqat Fahl ne tarde pas à apparaître très clairement. C'est à l'intersection de la ligne de coordonnées 46 verticale et 94 horizontale.
 
@@ -55,7 +55,7 @@ Oui, mais où est la grotte où Jésus s'est réfugié ? Il n'y a aucune indicat
 
 C'est aussi proche que possible de localiser cette grotte à l'aide de cartes. Pour la retrouver, il faudrait que quelqu'un se rende en Jordanie et commence à la chercher. Quelqu'un a-t-il déjà fait ce voyage ?
 
-De retour sur Internet pour chercher, j'ai trouvé cette pépite : https://planetabenitez.com/la-cueva-de-la-llave/ (auparavant la page était http://www.planetabenitez.com/misenigmas/lacueva.htm )
+De retour sur Internet pour chercher, j'ai trouvé cette pépite : [la cueva de la llave](https://planetabenitez.com/la-cueva-de-la-llave/) (auparavant la page était [ici](http://www.planetabenitez.com/misenigmas/lacueva.htm ))
 
 Pour ceux d'entre nous qui croient aux révélations du _Livre d'Urantia_, cet article du journaliste et écrivain JJ Benítez est profondément émouvant. Je ne sais pas si l'auteur espagnol a été le premier à découvrir l'emplacement le plus probable de la grotte dans laquelle Jésus s'est réfugié. Mais il est certainement le premier à divulguer au public cette information, ce qui est sans doute impressionnant. Dans la série télévisée _Planeta Encantado_ (_Planète enchantée_), J.J. Benítez montre même le lieu lors du tournage de l'épisode intitulé _El mensaje enterrado_ (_Le message enfoui_).
 

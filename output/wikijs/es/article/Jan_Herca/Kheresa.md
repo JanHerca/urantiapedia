@@ -34,10 +34,12 @@ Sin embargo, en los relatos paralelos de [Mc 1:5-20](/es/Bible/Mark/1#v5) y [Lc 
 
 El emplazamiento de Gadara y Gerasa parecen descartados si creemos el relato evangélico. Ambas poblaciones distan unos cuantos kilómetros del mar, Gerasa bastantes más. Por tanto, es imposible que la piara de cerdos se precipitara al mar por un precipicio. Sin embargo, el último emplazamiento, Kursi, cobró una redoblada validez cuando durante la construcción de una carretera en los años 70, aparecieron restos de un antiguo monasterio bizantino en la zona. Finalmente, todos los expertos han dado en aceptar que Kursi es la ubicación de la antigua población a la que se refieren los evangelios.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Miracle_of_the_Gaderene_Swine.jpg">
 <figcaption>Fig. 1. — El milagro de la piara gadarena, Briton Riviere, 1840 – 1920 (<a href="https://en.wikipedia.org/wiki/File:Briton_Riviere_(1840-1920)_-_The_Miracle_of_the_Gaderene_Swine_-_N01515_-_National_Gallery.jpg">Wikimedia Commons</a>)</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Los hallazgos arqueológicos
 

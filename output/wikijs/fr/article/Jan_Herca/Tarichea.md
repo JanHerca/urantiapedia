@@ -30,11 +30,11 @@ Les premières mentions de Tarichée rappellent que là, en 67 après JC, eut li
 
 Dans la guerre juive, nous lisons :
 
-> « Alors Vespasien envoya son fils Titus à Césarée Maritima pour amener les forces qui y restaient à Scythopolis, la plus grande ville de la Décapole, non loin de Tibériade, où les deux se rencontrèrent. S'avançant à la tête de trois légions, il campa à trois milles et demi de Tibériade, à un poste en vue des rebelles, appelé Senabris. [_BJ_ III : 9,7]
+> « Alors Vespasien envoya son fils Titus à Césarée Maritima pour amener les forces qui y restaient à Scythopolis, la plus grande ville de la Décapole, non loin de Tibériade, où les deux se rencontrèrent. S'avançant à la tête de trois légions, il campa à trois milles et demi de Tibériade, à un poste en vue des rebelles, appelé Senabris. ([_BJ_ III : 9.7](/fr/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v9_7))
 
 A cette occasion, les rebelles étaient les habitants de Tibériade, qui décidèrent sagement de se rendre lorsqu'ils rencontrèrent trois légions romaines aux portes de leur ville. Il faut rappeler qu'une légion était composée de soixante siècles, et chaque siècle de cent hommes commandés par un centurion, ce qui faisait au total 18 000 hommes. De plus, Titus commandait un groupe de cavalerie de 600 hommes et Trajan un autre de 400 hommes.
 
-Une fois Tibériade capitulé, Vespasien tourna alors son attention vers Tarichée, où bon nombre des rebelles les plus obstinés s'étaient retranchés, fuyant Tibériade et les villes voisines. Selon Josèphe, cette ville, « comme Tibériade, est située au pied d'une montagne, et des deux côtés où elle n'est pas baignée par la mer (de Génésaret), avait été fortement fortifiée par Josèphe, bien que pas autant que Tibériade. » (_BJ_ III : 10.1).
+Une fois Tibériade capitulé, Vespasien tourna alors son attention vers Tarichée, où bon nombre des rebelles les plus obstinés s'étaient retranchés, fuyant Tibériade et les villes voisines. Selon Josèphe, cette ville, « comme Tibériade, est située au pied d'une montagne, et des deux côtés où elle n'est pas baignée par la mer (de Génésaret), avait été fortement fortifiée par Josèphe, bien que pas autant que Tibériade. » ([_BJ_ III: 10.1](/fr/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_1))
 
 ## La bataille de Tariquea
 
@@ -52,10 +52,12 @@ Finalement, les Romains retrouvèrent les bateaux, anéantissant tous leurs occu
 
 ## Hypothèse de l'archéologie actuelle : Tariquea = Magdala. Est-ce correct ?
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Tarichea/Adam_Smith_extract.jpg">
 <figcaption>Fig. 1. — Géographie historique de la Terre Sainte, George Adam Smith, fragment</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Avec ces références, les géographes de la fin du XIXe et du début du XXe siècle ont placé Tarichée sur leurs cartes dans la zone sud de la mer de Galilée (telles que le Dictionnaire du Christ et des Évangiles de Hasting, 1906, et la Géographie historique de George Adam Smith. de Terre Sainte, 1894, d'après le Palestine Exploration Survey). Mais plus tard, plusieurs auteurs ont commencé à émettre des hypothèses identifiant les ruines de Magdala avec Tariquea. L'idée qui a conduit à cette autre solution est basée sur la description des événements par Flavius ​​​​Josèphe, selon laquelle il commente que Vespasien avança avec ses troupes depuis Scythopolis au sud jusqu'à Tibériade au nord. Les érudits ont supposé que Vespasien empruntait la route côtière de la mer de Galilée et, par conséquent, que si Tarichea se trouvait au sud de la mer, ses troupes auraient d'abord rencontré les insurgés dans cette ville, avant d'atteindre Tibériade.
 
@@ -77,7 +79,7 @@ Hypothèse B : Tarichée = au sud de la mer de Galilée (au sud de Tibériade), 
 
 Personnellement, je penche beaucoup plus pour la seconde hypothèse, qui est curieusement celle adoptée par les premiers chercheurs des siècles précédents. La raison en est que je trouve beaucoup plus d'arguments en faveur de cette hypothèse en examinant l'orographie de la mer de Galilée. J'ai pu consulter des cartes topographiques du littoral maritime, et une chose qui ressort, c'est que la côte sud-ouest est très escarpée, avec un éperon montagneux bordant le lac sur quelques kilomètres, ce qui laisse à peine de la place pour circuler le long de la côte ( La route actuelle passe à quelques mètres seulement de l'eau). Il est quelque peu étrange d'imaginer qu'un grand stratège et soldat comme Vespasien ait traversé cette zone du lac le long de l'ancienne route côtière avec ses troupes pour se présenter devant Tibériade, avec un grand danger de tomber dans une embuscade. Il semble plus logique d'imaginer qu'ils ont suivi un itinéraire plus éloigné de la côte pour, en grimpant jusqu'à la crête de l'élévation voisine, surprendre l'ennemi d'en haut. Cela semble décrire comment les Tibériens virent arriver les Romains, de sorte que la vue des troupes les effraya tellement que beaucoup s'enfuirent sans combattre. En revanche, la montagne que nous avons à Magdala est déjà beaucoup moins prononcée que dans le site sud prévu à Tariquea. Les ruines actuelles de Magdala sont le point de départ de ce qu'on appelle la plaine de Génésaret, une zone où plusieurs ruisseaux se jettent dans le lac et où la côte s'élargit sensiblement.
 
-Une autre raison à prendre en compte est que Josèphe parle d'une ville importante, avec un hippodrome et d'autres bâtiments uniques, dans le style de Tibériade (_Autobiographie_, XXVII). Il commente qu'elle possédait également des murs défensifs, construits sous le patronage de Josèphe lui-même (_Autobiographie_, XXIX ; les raisons qui ont conduit Josèphe à les construire sont également décrites ici). Cependant, aucune de ces deux ruines n'a été retrouvée dans les fouilles de Magdala. Ni les vestiges d'un mur ni les vestiges d'un hippodrome ne sont apparus.
+Une autre raison à prendre en compte est que Josèphe parle d'une ville importante, avec un hippodrome et d'autres bâtiments uniques, dans le style de Tibériade ([_Autobiographie_, XXVII](/fr/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_27)). Il commente qu'elle possédait également des murs défensifs, construits sous le patronage de Josèphe lui-même ([_Autobiographie_, XXIX](/fr/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_29) ; les raisons qui ont conduit Josèphe à les construire sont également décrites ici). Cependant, aucune de ces deux ruines n'a été retrouvée dans les fouilles de Magdala. Ni les vestiges d'un mur ni les vestiges d'un hippodrome ne sont apparus.
 
 Emil Schurer nous laisse entrevoir dans son Histoire du peuple juif que Tarichée était l'une des villes qui marquaient une toparchie en Galilée. Puisque Tibériade était la capitale de l'autre toparchie, cela n'a pas beaucoup de sens qu'Hérode Antipas construise Tibériade si près de Magdala (les deux sont très peu de kilomètres l'une de l'autre) s'il s'agissait de Tarichée. Il est plus logique que ce soit plus loin, au sud. De cette manière, chacune serait le centre d'une des toparchies de Galilée.
 
@@ -109,9 +111,9 @@ Par conséquent, je pense que nous devrons attendre les futures campagnes arché
 
 ## Références
 
-- Flavio Josèphe, _Œuvres complètes, Antiquités juives et guerres juives_, Éditorial Acervo Cultural, 1961.
+- Flavio Josèphe, _Œuvres complètes, Antiquités juives et guerres juives_, Éditorial Acervo Cultural, 1961. ([Œuvres d'Flavio Josèphe sur Urantiapedia](/fren/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavio Josèphe, _Sur l'antiquité des Juifs et l'autobiographie_, Alianza Editorial, 1987.
+- Flavio Josèphe, _Sur l'antiquité des Juifs et l'autobiographie_, Alianza Editorial, 1987. ([Œuvres d'Flavio Josèphe sur Urantiapedia](/fr/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Écrits de Flavius ​​​​Josephus et Philon disponibles sur www.earlyjewishwritings.com.
 

@@ -34,10 +34,12 @@ Cependant, dans les récits parallèles de [Mc 1:5-20](/fr/Bible/Mark/1#v5) et [
 
 La localisation de Gadara et Gerasa semble exclue si l'on en croit le récit évangélique. Les deux villes se trouvent à quelques kilomètres de la mer, Gerasa beaucoup plus loin. Il est donc impossible que le troupeau de porcs se soit précipité d’une falaise dans la mer. Cependant, le dernier emplacement, Kursi, a acquis une nouvelle validité lorsque, lors de la construction d'une route dans les années 70, les vestiges d'un ancien monastère byzantin sont apparus dans la région. Enfin, tous les experts s'accordent à dire que Kursi est le lieu où se trouvait l'ancienne population mentionnée dans les évangiles.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Miracle_of_the_Gaderene_Swine.jpg">
 <figcaption>Fig. 1. — Le miracle du troupeau Gaderene, Briton Riviere, 1840 – 1920 (<a href="https://en.wikipedia.org/wiki/File:Briton_Riviere_(1840-1920)_-_The_Miracle_of_the_Gaderene_Swine_-_N01515_-_National_Gallery.jpg">Wikimédia Communes</a>)</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Découvertes archéologiques
 

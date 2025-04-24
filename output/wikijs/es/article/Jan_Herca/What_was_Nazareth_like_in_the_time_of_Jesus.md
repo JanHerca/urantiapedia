@@ -53,10 +53,12 @@ Otro dato de _El Libro de Urantia_ que ofrece una visión de Nazaret como de «c
 
 La imagen más adelante muestra un esquema que sitúa las referencias ofrecidas por _El Libro de Urantia_.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia  image-style-align-center">
 <img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
 <figcaption>Nazaret según <em>El Libro de Urantia</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Nazaret según la arqueología actual
 
@@ -93,10 +95,12 @@ Todos estos descubrimientos suponen terminar por lo menos con el vacío de halla
 
 A pesar de todos estos hallazgos, la Nazaret que nos revela la arqueología actual no coincide, hoy por hoy, con las revelaciones de _El Libro de Urantia_. A la luz de los restos excavados, Nazaret parece una pequeña población que vivió en el anonimato hasta que fue rescatada del olvido por el cristianismo. Según _El Libro de Urantia_, Nazaret fue una próspera ciudad situada en un enclave estratégico, en la ruta de las caravanas, un puesto excepcional para un personaje singular como Jesús, que estaría atento a las novedades del mundo.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia  image-style-align-center">
 <img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret2.jpg">
 <figcaption>Plano superpuesto a la imagen de satélite moderna según Google Maps. La Basílica de la Anunciación se aprecia al sur, muy lejos de la casa de María y José. Según el dibujo, la casa de Jesús está en 6031 St. del Distrito Norte, una calle cuesta arriba en dirección a la estribación norte del Nebi Sa'in. Pero es una suposición muy aventurada. </figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## La importancia de Nazaret en el conocimiento de Jesús
 
@@ -115,10 +119,12 @@ Lo que estos dos estudiosos no explican es cómo puede aparecer Jesús en los ev
 
 La importancia del conocimiento de Nazaret es vital, como se ve, para entender mejor la vida de Jesús y quién fue él. Al describir _El Libro de Urantia_ a Nazaret como una pequeña ciudad con una sinagoga, y con una copia de las escrituras, resulta más fácil entender que Jesús fue educado, como muchos otros judíos, en un ambiente urbano, en el que leer y escribir formaba parte de las necesidades diarias. Resulta fácil comprender que entrara en las sinagogas y pudiera leer sin problemas el «hebreo» de las escrituras y lo tradujera al arameo para la audiencia, que era el idioma preferido. Resulta más sencillo, en definitiva, comprender que Jesús se desenvolvió en un ambiente que le proporcionó una base cultural suficiente como para asombrar posteriormente a sus paisanos con su conocimiento de las escrituras.
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia  image-style-align-center">
 <img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/Nazareth_the_holy_land_1842.jpg">
 <figcaption>Nazaret the holy land, 1842. Colección de David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Jesús debió conocer a sacerdotes ya en Nazaret, y a fariseos, que eran muy frecuentes en todas partes, y a saduceos. Dentro de estos grupos estaría el estrato pudiente de la ciudad, y vivirían en los barrios ricos, en edificios distinguidos de los que desgraciadamente no nos ha quedado resto alguno.
 

@@ -201,44 +201,34 @@ Markdown | HTML
 `"/es/` | `"https://urantiapedia.org/es/`
 `\[\^(\d+)\]` | `[<a href="#fn$1">$1</a>]` (add `id="fn$1"` to <p> in notes)
 `<p style="text-align:justify;text-indent:.5cm"></p>` | (add manually to all)
+`<a id="a\d+_\d+"></a>` | ``
 
 ### Other replacements
 
 Origin | Fix
 --- | --- 
-Replace english plain quotes with curly ones ||
-`"([^"]*)"` | `“$1”`
+`"([^"]*)"` | `“$1”` (Replace english plain quotes with curly ones)
 `'([^']*)'` | `‘$1’`
-Replace english curly quotes with spanish angular ones ||
-`“([^”]*)”` | `«$1»`
-Replace spanish plain quotes with angular ones ||
-`"([^"]*)"` | `«$1»`
+`“([^”]*)”` | `«$1»` (Replace english curly quotes with spanish angular ones)
+`"([^"]*)"` | `«$1»` (Replace spanish plain quotes with angular ones)
 Urantia references to links ||
 `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or<br> `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or<br> `(\d{1,3}):(\d{1,2})\.(\d{1,3}), \d{1,4}\.\d{1,2}` or<br> `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or<br> `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
 `\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
-Bible references to links ||
-`Gn (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
-Bible references that are not already converted to links (better option) ||
-`(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+`Gn (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)` (Bible references to links)
+`(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)` (Bible references that are not already converted to links (better option))
 `(?<!\[)(\d+):(\d+)([-|,])?(\d+)?` | `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
-Bible references to links ||
-`Luke (\d+):(\d+)-(\d+:?\d+)` | `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
-Change quotes inside other quotes ||
-`("[^"]*)(")([^"]*)(")([^"]*")` | `$1“$3”$5`
+`Luke (\d+):(\d+)-(\d+:?\d+)` | `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)` (Bible references to links)
+`("[^"]*)(")([^"]*)(")([^"]*")` | `$1“$3”$5` (Change quotes inside other quotes)
 Remove duplicate lines (requires a previous sorting, see below) ||
 `^(.*)(\n\1)+$` | `$1`
 `í` | `’`
 `ñ` | `C`
 `ì` | `“`
 `î` | `”` or `„  ”`
-Search end of sentences ||
-`[\.”\?!]` | &nbsp;
-Search by page ref ||
-`"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes` | &nbsp;
-Search existing old UB refs ||
-`\(\d{1,4}(\.\d{1,2})?\)` | &nbsp;
-Search existing new UB refs ||
-`(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp;
+`[\.”\?!]` | &nbsp; (Search end of sentences)
+`"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes` | &nbsp; (Search by page ref)
+`\(\d{1,4}(\.\d{1,2})?\)` | &nbsp; (Search existing old UB refs)
+`(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp; (Search existing new UB refs)
 
 ## Greeks letters
 

@@ -30,17 +30,17 @@ The first mentions of Tarichea recall that a naval battle took place there in 67
 
 In the War of the Jews we read:
 
-> «So Vespasian sent his son Titus to Caesarea Maritima to bring the remaining forces to Scythopolis, the largest city of the Decapolis, not far from Tiberias, where the two met. Advancing at the head of three legions, he camped three and a half miles from Tiberias, at a post in sight of the rebels, called Senabris.» [_BJ_ III : 9.7]
+> «So Vespasian sent his son Titus to Caesarea Maritima to bring the remaining forces to Scythopolis, the largest city of the Decapolis, not far from Tiberias, where the two met. Advancing at the head of three legions, he camped three and a half miles from Tiberias, at a post in sight of the rebels, called Senabris.» ([_BJ_ III : 9.7](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v9_7))
 
 On this occasion, the rebels were the people of Tiberias, who wisely decided to surrender when they found three Roman legions at the gates of their city. It must be remembered that a legion consisted of sixty centuries, and each century of one hundred men commanded by a centurion, which totaled 18,000 men. In addition, Titus commanded a cavalry group of 600 men and Trajan another of 400 men.
 
-Tiberias having been surrendered, Vespasian now turned his attention to Tarichea, where many of the more stubborn rebels had entrenched themselves, fleeing from Tiberias and the surrounding towns. According to Josephus, this city, "like Tiberias, is situated at the foot of a mountain, and on both sides on which it is not washed by the sea (of Gennesaret), had been strongly fortified by Josephus, though not so strongly as Tiberias." (_BJ_ III: 10.1).
+Tiberias having been surrendered, Vespasian now turned his attention to Tarichea, where many of the more stubborn rebels had entrenched themselves, fleeing from Tiberias and the surrounding towns. According to Josephus, this city, “like Tiberias, is situated at the foot of a mountain, and on both sides on which it is not washed by the sea (of Gennesaret), had been strongly fortified by Josephus, though not so strongly as Tiberias.” ([_BJ_ III: 10.1](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_1))
 
 ## The Battle of Tariquea
 
 The Battle of Tarichea began while Vespasian was still organising his defences. He had ordered a defensive wall to be built, in anticipation of the difficult task of capturing Tarichea. But then one of the Tarichean rebels, named Jesu (Jesus), together with a group of brave volunteers, sailed across the sea to attack the people building the wall. It was a brave gesture that lasted only a short time. The Roman legionaries repelled the attack, forcing the Taricheans to retreat to the beach, take up their boats and move out of arrow range into the sea.
 
-While this was going on Vespasian heard that the bulk of the Tarichaean troops were preparing for the attack on the plain in front of the city, so he sent his son Titus with 600 cavalry to disperse them. But his son soon realised that they were outnumbered and asked his father for reinforcements. The latter sent a fresh contingent of 2,000 archers commanded by Antony and Silo "to surround them against the city's mountain, and to repel those on the walls." Trajan, with his cavalry, also joined the charge, which caused Titus to harangue his men to have all the glory of the battle, since with such reinforcements the victory would otherwise be less than admirable. This harangue aroused such fury in Titus' men that they overran the Tarichaeans, who were surprised by this reaction of the Romans.
+While this was going on Vespasian heard that the bulk of the Tarichaean troops were preparing for the attack on the plain in front of the city, so he sent his son Titus with 600 cavalry to disperse them. But his son soon realised that they were outnumbered and asked his father for reinforcements. The latter sent a fresh contingent of 2,000 archers commanded by Antony and Silo “to surround them against the city's mountain, and to repel those on the walls.” Trajan, with his cavalry, also joined the charge, which caused Titus to harangue his men to have all the glory of the battle, since with such reinforcements the victory would otherwise be less than admirable. This harangue aroused such fury in Titus' men that they overran the Tarichaeans, who were surprised by this reaction of the Romans.
 
 In reality, only a small minority wanted to fight the Romans, the rest having been driven away by force and fear. Seeing the advantageous situation, Titus rode his troops into the city on horseback, riding across the water. Terrified by the Roman general's audacity, many fled. Jesu and his followers crossed the sea. Others tried to follow in their footsteps by setting out to sea in boats. But it was their downfall, because they found themselves face to face with the Romans, who massacred them.
 
@@ -52,10 +52,12 @@ Finally, the Romans found the boats and annihilated all their occupants. The mas
 
 ## Hypothesis of current archaeology: Tariquea = Magdala. Is it correct?
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Tarichea/Adam_Smith_extract.jpg">
 <figcaption>Fig. 1. — Historical Geography of the Holy Land, George Adam Smith, fragment</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Using these references, geographers of the late 19th and early 20th centuries placed Tarichea on their maps in the area south of the Sea of ​​Galilee (for example, Hasting's Dictionary of Christ and the Gospels, 1906, and George Adam Smith's Historical Geography of the Holy Land, 1894, of the Palestine Exploration Survey). But later, several authors began to make hypotheses that identified the ruins of Magdala with Tarichea. The idea that led to this alternative solution is based on the description of the events made by Flavius ​​Josephus, according to which he comments that Vespasian advanced with his troops from Scythopolis in the south to Tiberias in the north. Scholars have assumed that Vespasian used the coastal road of the Sea of ​​Galilee, and therefore, that if Tarichea were south of the sea, his troops would have encountered the insurgents first in this town, before reaching Tiberias.
 
@@ -77,7 +79,7 @@ Hypothesis B: Tarichea = south of the Sea of ​​Galilee (south of Tiberias), 
 
 Personally, I am much more inclined to the second hypothesis, which curiously is the one adopted by the first researchers of the previous centuries. The reason is that I find many more arguments in favour of this hypothesis when examining the orography of the Sea of ​​Galilee. I have been able to consult topographic maps of the sea coast, and one thing that is striking is that the south-western coast is pronouncedly abrupt, with a mountainous spur bordering the lake for a few kilometres, which barely leaves room to circulate along the coast (the current road runs just a few metres from the water). It is somewhat strange to imagine that a great strategist and military man like Vespasian would cross that area of ​​the lake along the old coastal road with his troops to present himself before Tiberias, with great danger of being ambushed. It seems more logical to imagine that they followed a route further away from the coast in order to climb the crest of the nearby hill and surprise the enemy from above. This is how the Tiberians seem to describe how they saw the Romans approaching, so that the sight of the troops frightened them so much that many fled without fighting. On the other hand, the mountain we have at Magdala is now much less pronounced than at the southern site planned for Tariquea. The current ruins of Magdala are where the so-called plain of Genesaret begins, an area where several streams flow into the lake and the coast widens considerably.
 
-Another reason to consider is that Josephus speaks of a substantial town, with a hippodrome and other singular buildings, in the style of Tiberias (_Autobiography_, XXVII). He comments that it also had defensive walls, built under the patronage of Josephus himself (_Autobiography_, XXIX; here he also describes the reasons that led Josephus to their construction). However, neither of these two ruins have been found in the excavations at Magdala. Neither remains of a wall nor remains of a hippodrome have been found.
+Another reason to consider is that Josephus speaks of a substantial town, with a hippodrome and other singular buildings, in the style of Tiberias ([_Autobiography_, XXVII](/en/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_27)). He comments that it also had defensive walls, built under the patronage of Josephus himself ([_Autobiography_, XXIX](/en/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_29); here he also describes the reasons that led Josephus to their construction). However, neither of these two ruins have been found in the excavations at Magdala. Neither remains of a wall nor remains of a hippodrome have been found.
 
 Emil Schurer suggests in his History of the Jewish People that Tarichea was one of the towns that formed a toparchy in Galilee. Since Tiberias was the capital of the other toparchy, it does not make much sense for Herod Antipas to build Tiberias so close to Magdala (both are only a few kilometres apart) if the latter were Tarichea. It makes more sense for it to be further away, in the south. In this way, each would be the centre of one of the toparchys of Galilee.
 
@@ -109,9 +111,9 @@ Therefore, I believe that we will have to wait for future archaeological campaig
 
 ## References
 
-- Flavius ​​Josephus, _Obras completas, Antigüedades judías y Guerras de los Judíos_ (_Complete Works, Jewish Antiquities and Wars of the Jews_), Editorial Acervo Cultural, 1961.
+- Flavius ​​Josephus, _Obras completas, Antigüedades judías y Guerras de los Judíos_ (_Complete Works, Jewish Antiquities and Wars of the Jews_), Editorial Acervo Cultural, 1961. ([Works of Flavius ​​Josephus in Urantiapedia](/en/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavius ​​Josephus, _Sobre la antigüedad de los judíos y Autobiografía_ (_On the Antiquity of the Jews and Autobiography_), Alianza Editorial, 1987.
+- Flavius ​​Josephus, _Sobre la antigüedad de los judíos y Autobiografía_ (_On the Antiquity of the Jews and Autobiography_), Alianza Editorial, 1987. ([Works of Flavius ​​Josephus in Urantiapedia](/en/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Writings of Flavius ​​Josephus and Philo available at www.earlyjewishwritings.com.
 

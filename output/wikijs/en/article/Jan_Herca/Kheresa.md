@@ -34,10 +34,12 @@ However, the parallel accounts in [Mk 1:5-20](/en/Bible/Mark/1#v5) and [Luke 8:2
 
 The sites of Gadara and Gerasa seem to be ruled out if we believe the Gospel account. Both towns are a few kilometres from the sea, Gerasa quite a bit further. It is therefore impossible that the herd of pigs would have fallen into the sea from a cliff. However, the last site, Kursi, was given further validity when during the construction of a road in the 1970s, remains of an ancient Byzantine monastery were discovered in the area. Finally, all experts have agreed that Kursi is the location of the ancient town referred to in the Gospels.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Miracle_of_the_Gaderene_Swine.jpg">
 <figcaption>Fig. 1. — The Miracle of the Gaderene Herd, Briton Riviere, 1840 – 1920 (<a href="https://en.wikipedia.org/wiki/File:Briton_Riviere_(1840-1920)_-_The_Miracle_of_the_Gaderene_Swine_-_N01515_-_National_Gallery. jpg">Wikimedia Commons</a>)</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Archaeological findings
 

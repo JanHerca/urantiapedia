@@ -30,11 +30,11 @@ Las primeras menciones a Tariquea recuerdan que allí, en el 67 d.C., se produjo
 
 En la Guerra de los Judíos leemos:
 
-> «Así pues Vespasiano envió a su hijo Tito a Cesarea Marítima para que trajera las fuerzas que permanecían allí a Escitópolis, la mayor ciudad de la Decápolis, no muy lejos de Tiberias, donde ambos se encontraron. Avanzando al frente de tres legiones, acampó a tres millas y media de Tiberias, en un puesto a la vista de los rebeldes, llamado Senabris.» [_BJ_ III : 9.7]
+> «Así pues Vespasiano envió a su hijo Tito a Cesarea Marítima para que trajera las fuerzas que permanecían allí a Escitópolis, la mayor ciudad de la Decápolis, no muy lejos de Tiberias, donde ambos se encontraron. Avanzando al frente de tres legiones, acampó a tres millas y media de Tiberias, en un puesto a la vista de los rebeldes, llamado Senabris.» ([_BJ_ III : 9.7](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v9_7))
 
 En esta ocasión, los rebeldes eran la gente de Tiberias, que sabiamente decidió rendirse cuando se encontraron con tres legiones romanas a las puertas de su ciudad. Debe recordarse que una legión se componía de sesenta centurias, y cada centuria de cien hombres comandados por un centurión, lo cual sumaba en total 18.000 hombres. Además, Tito comandaba un grupo de caballería de 600 hombres y Trajano otro de 400 hombres.
 
-Rendida Tiberias, Vespasiano dirigió su atención entonces a Tariquea, donde muchos de los rebeldes más pertinaces se habían atrincherado huyendo de Tiberias y de las ciudades limítrofes. Según Josefo, esta ciudad, «como Tiberias, está situada a los pies de una montaña, y en ambos lados en los que no está bañada por el mar (de Genesaret), había sido fuertemente fortificada por Josefo, aunque no tanto como Tiberias». (_BJ_ III: 10.1).
+Rendida Tiberias, Vespasiano dirigió su atención entonces a Tariquea, donde muchos de los rebeldes más pertinaces se habían atrincherado huyendo de Tiberias y de las ciudades limítrofes. Según Josefo, esta ciudad, «como Tiberias, está situada a los pies de una montaña, y en ambos lados en los que no está bañada por el mar (de Genesaret), había sido fuertemente fortificada por Josefo, aunque no tanto como Tiberias». ([_BJ_ III: 10.1](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_1))
 
 ## La batalla de Tariquea
 
@@ -52,10 +52,12 @@ Finalmente, los romanos dieron con las barcas, aniquilando a todos sus ocupantes
 
 ## Hipótesis de la arqueología actual : Tariquea = Magdala. ¿Es correcta?
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Tarichea/Adam_Smith_extract.jpg">
 <figcaption>Fig. 1. — Historical Geography of the Holy Land, George Adam Smith, fragmento</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Con estas referencias, los geográfos de finales del siglo XIX y principios del XX colocaron a Tariquea en sus mapas en la zona sur del mar de Galilea (así por ejemplo el Hasting's Dictionary of Christ and the Gospels, 1906, y el George Adam Smith's Historical Geography of the Holy Land, 1894, del Palestine Exploration Survey). Pero posteriormente, varios autores comenzaron a efectuar hipótesis que identificaban las ruinas de Magdala con Tariquea. La idea que llevó a esta otra solución está basada en la descripción de los hechos que hace Flavio Josefo, según los cuales comenta que Vespasiano avanzó con sus tropas desde Escitópolis al sur hasta Tiberias al norte. Los estudiosos han supuesto que Vespasiano utilizó la carretera costera del mar de Galilea, y por tanto, que si Tariquea estuviera al sur del mar, sus tropas se habrían topado con los insurgentes en primer lugar en esta población, antes de llegar a Tiberias.
 
@@ -77,7 +79,7 @@ Hipótesis B : Tariquea = sur del mar de Galilea (sur de Tiberias), en un lugar 
 
 Personalmente, me inclino mucho más por la segunda hipótesis, que curiosamente es la que adoptaron los primeros investigadores de los siglos anteriores. La razón es que encuentro muchos más argumentos a favor de esta hipótesis al examinar la orografía del mar de Galilea. He podido consultar mapas topográficos de la costa del mar, y una cosa que llama la atención es que la costa suroccidental es pronunciadamente abrupta, con una estribación montañosa bordeando el lago durante unos cuantos kilómetros, que apenas deja espacio para circular junto a la costa (la carretera actual transita a escasos metros del agua). Resulta un tanto extraño imaginar que un gran estratega y militar como fue Vespasiano atravesara por la antigua vía costera con sus tropas esa zona del lago para presentarse ante Tiberias, con gran peligro de recibir una emboscada. Parece más lógico imaginar que siguieron por una vía más alejada de la costa para, subiendo a la cresta de la elevación cercana, sorprender al enemigo desde lo alto. Así parece describir que vieron llegar a los romanos los tiberienses, de modo que la visión de las tropas les atemorizó tanto que muchos huyeron sin presentar batalla. Por otra parte, la montaña que tenemos en Magdala es ya mucho menos pronunciada que en el emplazamiento sur previsto para Tariquea. En las ruinas actuales de Magdala es donde comienza la denominada llanura de Genesaret, una zona donde desembocan varios arroyos en el lago y la costa se ensancha notablemente.
 
-Otra razón a tener en cuenta es que Josefo habla de una población importante, con un hipódromo y otros edificios singulares, al estilo de Tiberias (_Autobiografía_, XXVII). Comenta que también tenía muros defensivos, construidos bajo patrocinio del propio Josefo (_Autobiografía_, XXIX; aquí se describe además los motivos que llevaron a Josefo a su construcción). Sin embargo, ninguna de estas dos ruinas se han encontrado en las excavaciones de Magdala. No han aparecido ni restos de una muralla ni restos de un hipódromo.
+Otra razón a tener en cuenta es que Josefo habla de una población importante, con un hipódromo y otros edificios singulares, al estilo de Tiberias ([_Autobiografía_, XXVII](/es/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_27)). Comenta que también tenía muros defensivos, construidos bajo patrocinio del propio Josefo ([_Autobiografía_, XXIX](/es/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_29); aquí se describe además los motivos que llevaron a Josefo a su construcción). Sin embargo, ninguna de estas dos ruinas se han encontrado en las excavaciones de Magdala. No han aparecido ni restos de una muralla ni restos de un hipódromo.
 
 Emil Schurer nos deja entrever en su Historia del pueblo judío que Tariquea era una de la poblaciones que marcaban una toparquía en Galilea. Puesto que Tiberias era la capital de la otra toparquía, no tiene mucho sentido que Herodes Antipas construyera Tiberias tan cerca de Magdala (ambos distan muy pocos kilómetros) si ésta fuera Tariquea. Tiene más sentido que estuviera más alejada, en el sur. De este modo cada una sería centro de una de las toparquías de Galilea.
 
@@ -109,9 +111,9 @@ Por tanto, creo que habrá que esperar a que futuras campañas arqueológicas sa
 
 ## Referencias
 
-- Flavio Josefo, _Obras completas, Antigüedades judías y Guerras de los Judíos_, Editorial Acervo Cultural, 1961. 
+- Flavio Josefo, _Obras completas, Antigüedades judías y Guerras de los Judíos_, Editorial Acervo Cultural, 1961. ([Obra de Flavio Josefo en Urantiapedia](/es/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavio Josefo, _Sobre la antigüedad de los judíos y Autobiografía_, Alianza Editorial, 1987.
+- Flavio Josefo, _Sobre la antigüedad de los judíos y Autobiografía_, Alianza Editorial, 1987. ([Obra de Flavio Josefo en Urantiapedia](/es/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Escritos de Flavio Josefo y Filón disponibles en www.earlyjewishwritings.com.
 

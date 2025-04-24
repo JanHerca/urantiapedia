@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## History
 
-Although the site was inhabited as early as the 5th millennium BC, and Egyptian texts make several references to it in the 2nd millennium BC, it was during the Greco-Roman period that Pella flourished. The city's original name, _Pihilum_ or _Pehel_, seems to have been changed, according to Stephanus of Byzantium (5th c.), when the city was refounded by Alexander the Great. Alexander Jannaeus captured it, and, being unable to persuade the inhabitants to accept Judaism, destroyed it (Flavius ​​Josephus, _BJ_ I, 5 8; _AJ_ XIII 15 4). Pompey rebuilt it and annexed it to the province of Syria (_BJ_ I, 7 7; _AJ_ XIV, 4 4). It became part of the Decapolis, remaining always a Hellenistic city, and forming part of the northern frontier of Perea (_BJ_ III, 3 3). As part of Agrippa's kingdom it offered refuge to the budding Christian community of Mount Zion, which under the leadership of Simon took refuge there during the Jewish revolt and the siege of Jerusalem by the Romans (Eusebius _HE_ III, 5; Epiphanius _Haer_ XXIX, 7). When after three years of war and massacres the second Jewish revolt was suppressed by the Romans (132 - 135 AD) and the Emperor Hadrian rebuilt Jerusalem under the new name of Aelia Capitolina, a part of the community living in Pella moved on the orders of the uncircumcised bishop Mark to Mount Zion. In any case, Christianity in Pella persisted, as testified by Ariston (born there in the 2nd century, and author of the _Dialogue of Jason and Papiscus_) and the discovery of numerous Christian tombs and some inscriptions.
+Although the site was inhabited as early as the 5th millennium BC, and Egyptian texts make several references to it in the 2nd millennium BC, it was during the Greco-Roman period that Pella flourished. The city's original name, _Pihilum_ or _Pehel_, seems to have been changed, according to Stephanus of Byzantium (5th c.), when the city was refounded by Alexander the Great. Alexander Jannaeus captured it, and, being unable to persuade the inhabitants to accept Judaism, destroyed it (Flavius ​​Josephus, [_BJ_ I, 4:8](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_1#v4_8); [_AJ_ XIII 15:4](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_13#v15_4)). Pompey rebuilt it and annexed it to the province of Syria ([_BJ_ I, 7:7](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_1#v7_7); [_AJ_ XIV, 4:4](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_14#v4_4)). It became part of the Decapolis, remaining always a Hellenistic city, and forming part of the northern frontier of Perea ([_BJ_ III, 3 3](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v3_3)). As part of Agrippa's kingdom it offered refuge to the budding Christian community of Mount Zion, which under the leadership of Simon took refuge there during the Jewish revolt and the siege of Jerusalem by the Romans (Eusebius _HE_ III, 5; Epiphanius _Haer_ XXIX, 7). When after three years of war and massacres the second Jewish revolt was suppressed by the Romans (132 - 135 AD) and the Emperor Hadrian rebuilt Jerusalem under the new name of Aelia Capitolina, a part of the community living in Pella moved on the orders of the uncircumcised bishop Mark to Mount Zion. In any case, Christianity in Pella persisted, as testified by Ariston (born there in the 2nd century, and author of the _Dialogue of Jason and Papiscus_) and the discovery of numerous Christian tombs and some inscriptions.
 
 ## Archaeological ruins
 
@@ -38,10 +38,12 @@ The city was walled between two hills, one not very high to the north, and anoth
 
 Two torrents or _wadis_ that surround both hills, the _wadi_ Malawi surrounding the southern hill (called today _tell el-Husn_), and the wadi el-Hammeh, surrounding the northern hill, were to flow into the central valley where the city extended, called today _wadi Jim el-Moz_.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Pella/pella.jpg">
 <figcaption>Pella</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 There is little in the present ruins that tells us about the time of Jesus in particular. While the temple located at _el-Husn_ has already disappeared and was not replaced by any construction (perhaps the hill was cursed by the presence of that temple), it is nevertheless easy to find remains of the Christian presence (such as several churches) or even Arab (a mosque).
 

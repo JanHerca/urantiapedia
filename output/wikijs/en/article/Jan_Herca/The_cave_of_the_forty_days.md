@@ -36,7 +36,7 @@ First, it was necessary to locate Pella and then see if there is currently a vil
 
 Pella could not have been difficult to locate. As far as I knew, there were still some wonderful ruins of the city nearby, a town known today as Tabakat-Fahil. But my 1:200,000 scale maps were insufficient to locate either of them. I needed more precise maps, so I spent hours and hours scouring the Internet.
 
-Suddenly, a small blessing: http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg. This link, which was available for a while, is now broken. But the same thing can be accessed with [this new link](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
+Suddenly, a [small blessing](http://sunsite.berkeley.edu:8085/jordan/50k/3154_4.jpg). This link, which was available for a while, is now broken. But the same thing can be accessed with [this new link](https://digicoll.lib.berkeley.edu/record/222014?ln=en&amp%3Bv=uv&v=uv#?xywh=-6587%2C-639%2C21972%2C12746&amp;cv=35&cv=35)
 
 The website contains scanned maps at a scale of 1:50,000, the best I have found. And if you look at the map, it is not long before Tabaqat Fahl appears, very clearly. It is at the intersection of the line with coordinates 46 vertical and 94 horizontal.
 
@@ -55,7 +55,7 @@ Yes, but where is the cave where Jesus took refuge? There is no indication or sy
 
 That's as close as you can get to locating the cave using maps. To find it, someone would have to travel to Jordan and start looking for it. Has anyone made this journey before?
 
-Back on the Internet to search I find this gem: https://planetabenitez.com/la-cueva-de-la-llave/ (previously the page was http://www.planetabenitez.com/misenigmas/lacueva.htm)
+Back on the Internet to search I find this gem: [la cueva de la llave](https://planetabenitez.com/la-cueva-de-la-llave/) (previously the page was [here](http://www.planetabenitez.com/misenigmas/lacueva.htm))
 
 For those of us who believe the revelations in _The Urantia Book_, this article by journalist and writer JJ Benítez is deeply moving. I don't know if the Spanish author was the first person to discover the most likely location of the cave where Jesus took refuge. But he is certainly the first to divulge this information to the public, which is undoubtedly impressive. In the television series _Planeta Encantado_ (_Enchanted Planet_), J.J. Benítez even shows the location in the filming of the episode entitled _El mensaje enterrado_ (_The buried message_).
 
