@@ -80,10 +80,12 @@ Finally, the final argument in favor of Kefar Kenna is tradition. But it is a co
 
 No archaeological remains have been found that can be traced back to the time of Jesus, although ruins from that period have been found at a site several kilometres away.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_kafarkenna.jpg">
 <figcaption>Kefar Kenna in Google Earth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Khirbet Kanah
 
@@ -99,10 +101,12 @@ On the other hand, the great archaeologist Robinson was the first to point out t
 
 Archaeological evidence has also been found at this site, indicating that it was inhabited during the Israelite, Roman and Arab periods.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_khirbetkana.jpg">
 <figcaption>Khirbet Kana in Google Earth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Arguments against:**
 
@@ -129,6 +133,13 @@ But does this mean that we have discovered the house in question? These vessels,
 The Urantia Book makes several mentions of Cana, but none of them provide a clear indication of the location of the site. We can only note that Jesus travels from Capernaum to Cana with part of his family in a single day. However, this does not tell us much. Virtually all of the sites were within a day's drive of Capernaum, although the one that is especially close is Khirbet Kana (see <a id="a128_389"></a>[UB 137:3](/en/The_Urantia_Book/137#p3_1)).
 
 So which one should you choose?
+
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/canaswpmap.jpg">
+<figcaption>Map showing the location of Khirbet Kana (red), Kefar Kenna (blue), 'Ain Kanah (cyan) and Nazareth (green)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 ## Conclusions
 
@@ -160,7 +171,7 @@ But once it has been decided that Kefar Kenna is not the correct location, anoth
 
 - The new archaeological find at [Kefar Kana](http://www.foxnews.com/story/0,2933,142234,00.html).
 
-- A [fairly good map](http://www.bibleplaces.com/canaswpmap.htm) of the location of the two sites.
+- A [fairly good map](http://www.bibleplaces.com/canaswpmap.htm) of the location of the two sites. (The link is broken, but the map is provided above.)
 
 ## External links
 

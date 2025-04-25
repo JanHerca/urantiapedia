@@ -80,10 +80,12 @@ Por último, el argumento final en favor de Kefar Kenna es la tradición. Pero e
 
 No se han encontrado restos arqueológicos que se puedan remontar hasta la época de Jesús, aunque sí se han encontrado ruinas de la época en un yacimiento a varios kilómetros.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_kafarkenna.jpg">
 <figcaption>Kefar Kenna en Google Earth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Khirbet Kanah
 
@@ -99,10 +101,12 @@ Por otro lado, el gran arqueólogo Robinson fue el primero en apuntar que el nom
 
 También se han encontrado evidencias arqueológicas en este lugar, que indican que estuvo habitado en los períodos israelita, romano y árabe.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_khirbetkana.jpg">
 <figcaption>Khirbet Kana en Google Earth</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Argumentos en contra:**
 
@@ -129,6 +133,13 @@ Pero, ¿significa esto que hemos descubierto la casa en cuestión? Estas vasijas
 _El Libro de Urantia_ realiza varias menciones a Caná, pero de ninguna de ellas se consigue descifrar cuál es la posición de la localidad. Tan sólo podemos observar que Jesús viaja desde Cafarnaúm a Caná con parte de su familia en un sólo día. Sin embargo, esto no nos dice mucho. Prácticamente todos los enclaves estaban a menos de un día de Cafarnaúm, aunque el que está especialmente cerca es Khirbet Kana (véase <a id="a128_416"></a>[LU 137:3](/es/The_Urantia_Book/137#p3_1)).
 
 Por tanto, ¿por cuál decantarse?
+
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/canaswpmap.jpg">
+<figcaption>Mapa con la localización de Khirbet Kana (rojo), Kefar Kenna (azul), 'Ain Kanah (cian) y Nazaret (verde)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 ## Conclusiones
 
@@ -160,7 +171,7 @@ Pero, una vez decidido que Kefar Kenna no es el correcto emplazamiento, surge ot
 
 - El nuevo hallazgo arqueológico en [Kefar Kana](http://www.foxnews.com/story/0,2933,142234,00.html).
 
-- Un [mapa bastante bueno](http://www.bibleplaces.com/canaswpmap.htm) de la situación de los dos emplazamientos.
+- Un [mapa bastante bueno](http://www.bibleplaces.com/canaswpmap.htm) de la situación de los dos emplazamientos. (El enlace está roto, pero el mapa se ofrece más arriba.)
 
 ## Enlaces externos
 
