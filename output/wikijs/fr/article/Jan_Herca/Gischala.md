@@ -32,7 +32,7 @@ Cette population était localisée dans l'actuel Al-Jish ou Jish.
 
 Le nom est l'équivalent grec de l'hébreu « Gush-halab », qui signifie « grand morceau de terre ».
 
-C'était une ville qui produisait une huile fine bien connue, et elle était produite en grande quantité, donc il devait y avoir de grands moulins à huile, selon Josèphe (_Autobiographie_ 13 ; _Guerre juive_, II-21,2). Elle produisait également de la soie grège fine.
+C'était une ville qui produisait une huile fine bien connue, et elle était produite en grande quantité, donc il devait y avoir de grands moulins à huile, selon Josèphe ([_Autobiographie_ 13](/fr/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_13) ; [_Guerre juive_, II-21,2](/fr/book/Judaism/The_Works_of_Flavius_Josephus/War_2#v21_2)). Elle produisait également de la soie grège fine.
 
 Il était situé sur une colline qui tombait abruptement à l'est. La ville était considérée comme une très ancienne forteresse, avant la destruction qu'elle subit lors de la guerre contre Rome en 70.
 
@@ -57,11 +57,11 @@ Une dernière curiosité à mentionner est que Dismas, le « bon larron » cruci
 
 ## Références
 
-- [Milim culturel](http://www.milimcultural.com.ar)
+- [Milim Cultural](http://www.milimcultural.com.ar/newsletter/milim025.htm) (Lien brisé, le lien peut être consulté [ici](https://web.archive.org/web/20180903072428/http://www.milimcultural.com.ar/old/newsletter/milim025.htm))
 
-- Flavio Josèphe, _Œuvres complètes, Antiquités juives et guerres juives_, Éditorial Acervo Cultural, 1961.
+- Flavius ​​Josèphe, _Œuvres complètes, Antiquités juives et Guerres des Juifs_, Editorial Acervo Cultural, 1961. ([Œuvre de Flavius ​​Josèphe dans Urantiapedia](/fr/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavio Josèphe, _Sur l'antiquité des Juifs et l'autobiographie_, Alianza Editorial, 1987.
+- Flavius ​​Josèphe, _Sur l'Antiquité des Juifs et leur autobiographie_, Alianza Editorial, 1987. ([Œuvre de Flavius ​​Josèphe dans Urantiapedia](/fr/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Écrits de Flavius ​​​​Josephus et Philon disponibles sur www.earlyjewishwritings.com.
 

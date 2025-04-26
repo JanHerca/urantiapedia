@@ -32,7 +32,7 @@ Esta población estaba emplazada en la actual Al-Jish o Jish.
 
 El nombre es el equivalente griego del hebreo «Gush-halab», que significa «trozo grande de tierra».
 
-Era un ciudad que producía un aceite fino muy reconocido, y que se producía en grandes cantidades, por lo que debieron existir grandes almazaras, según Josefo (_Autobiografía_ 13; _Guerra de los judíos_, II-21,2). También producía seda bruta fina.
+Era un ciudad que producía un aceite fino muy reconocido, y que se producía en grandes cantidades, por lo que debieron existir grandes almazaras, según Josefo ([_Autobiografía_ 13](/es/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_13); [_Guerra de los judíos_, II-21,2](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_2#v21_2)). También producía seda bruta fina.
 
 Estaba situada sobre una colina que caía abruptamente hacia el este. La ciudad se consideraba una fortaleza muy antigua, antes de la destrucción que sufrió en la guerra contra Roma en el 70.
 
@@ -57,11 +57,11 @@ Una última curiosidad a mencionar es que Dismas, el «buen ladrón» al que cru
 
 ## Referencias
 
-- http://www.milimcultural.com.ar/newsletter/milim025.htm
+- [Milim Cultural](http://www.milimcultural.com.ar/newsletter/milim025.htm) (Enlace roto, el enlace puede consultarse [aquí](https://web.archive.org/web/20180903072428/http://www.milimcultural.com.ar/old/newsletter/milim025.htm))
 
-- Flavio Josefo, _Obras completas, Antigüedades judías y Guerras de los Judíos_, Editorial Acervo Cultural, 1961. 
+- Flavio Josefo, _Obras completas, Antigüedades judías y Guerras de los Judíos_, Editorial Acervo Cultural, 1961. ([Obra de Flavio Josefo en Urantiapedia](/es/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavio Josefo, _Sobre la antigüedad de los judíos y Autobiografía_, Alianza Editorial, 1987.
+- Flavio Josefo, _Sobre la antigüedad de los judíos y Autobiografía_, Alianza Editorial, 1987. ([Obra de Flavio Josefo en Urantiapedia](/es/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Escritos de Flavio Josefo y Filón disponibles en www.earlyjewishwritings.com.
 

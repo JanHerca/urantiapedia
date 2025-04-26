@@ -32,7 +32,7 @@ This population was located in present-day Al-Jish or Jish.
 
 The name is the Greek equivalent of the Hebrew "Gush-halab," meaning "large piece of land."
 
-It was a city that produced a very well-known fine oil, and that was produced in large quantities, so that there must have been large oil mills, according to Josephus (_Autobiography_ 13; _War of the Jews_, II-21,2). It also produced fine raw silk.
+It was a city that produced a very well-known fine oil, and that was produced in large quantities, so that there must have been large oil mills, according to Josephus ([_Autobiography_ 13](/en/book/Judaism/The_Works_of_Flavius_Josephus/Autobiography#v1_13); [_War of the Jews_, II-21,2](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_2#v21_2)). It also produced fine raw silk.
 
 It was situated on a hill that fell steeply to the east. The city was considered a very ancient fortress, before the destruction it suffered in the war against Rome in 70.
 
@@ -57,11 +57,11 @@ One last curiosity to mention is that Dismas, the "good thief" who was crucified
 
 ## References
 
-- [Milim culturel](http://www.milimcultural.com.ar)
+- [Milim Cultural](http://www.milimcultural.com.ar/newsletter/milim025.htm) (Broken link, the link can be consulted [here](https://web.archive.org/web/20180903072428/http://www.milimcultural.com.ar/old/newsletter/milim025.htm))
 
-- Flavius ​​Josephus, _Complete Works, Jewish Antiquities and Wars of the Jews_, Editorial Acervo Cultural, 1961.
+- Flavius ​​Josephus, _Complete Works, Jewish Antiquities and Wars of the Jews_, Editorial Acervo Cultural, 1961. ([Work of Flavius ​​Josephus in Urantiapedia](/en/book/Judaism/The_Works_of_Flavius_Josephus))
 
-- Flavius ​​Josephus, _On the Antiquity of the Jews and Autobiography_, Alianza Editorial, 1987.
+- Flavius ​​Josephus, _On the Antiquity of the Jews and Autobiography_, Alianza Editorial, 1987. ([Work of Flavius ​​Josephus in Urantiapedia](/en/book/Judaism/The_Works_of_Flavius_Josephus))
 
 - Writings of Flavius ​​Josephus and Philo available at www.earlyjewishwritings.com.
 

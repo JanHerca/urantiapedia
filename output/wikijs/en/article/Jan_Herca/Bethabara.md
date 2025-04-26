@@ -30,10 +30,12 @@ Bethabara is a town mentioned in [John 1:28](/en/Bible/John/1#v28) as a place wh
 
 In _The Urantia Book_ it is referred to only as “Bethany beyond Jordan,” and never by any of the other designations. Furthermore, in _The Urantia Book_ (<a id="a30_153"></a>[UB 141:7.2](/en/The_Urantia_Book/141#p7_2)) we are expressly told that Bethany was on the eastern bank, for it says that Jesus went to the hills “across the river, south of Jericho.” Therefore I believe that in Jesus’ time this place was always known by the name of Bethany, with “Beyond Jordan” added because it was across the river (the trans-Jordanian side), that is, on the eastern bank, and not where the Madaba map later placed it. Nearby, on either side, there must have been several places of worship, some of them by Jews, such as the place called Salem or Salim, where Melchizedek supposedly made a gesture in honour of Abraham, the father of the Jewish faith, or the place where the prophet Elijah also lived, near the Chorath torrent. As for the Christian faith, it was here that John the Baptist was believed to have begun to preach and baptise, and modern archaeology has unearthed the remains of a church and a monastery in the area, from the Byzantine period, which attest to the belief that this was a site revered by pilgrims from ancient times.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Bethabara/800px-Sapsaphas_Madaba.jpg">
 <figcaption><em>Map of Madaba at the mouth of the Jordan into the Dead Sea.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 The town must have been important, as it was a necessary crossing point on the route to Jericho and Jerusalem along the eastern road that avoided Samaria. On the Madaba map we can see the drawing of large fish in the river, so there must have been some fishing industry; of date palms, for whose fruit, dates, the region was famous; a lion chasing an antelope, which attests to a fairly wild fauna; and a ferry or boat that crossed the Jordan River pulled by a strong rope from both ends of the river, although at a higher altitude to the north. I have doubts as to whether there was a passable ford in Jesus' time at any time of the year, or whether this means of ferry was the only possible way of crossing the river.
 

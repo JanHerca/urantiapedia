@@ -46,7 +46,7 @@ The Holy City was, like many important cities of the time, a walled city. The en
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
-<figcaption><em>Reconstruction of Jerusalem in the time of Jesus. On the right, the three towers of Herod; in the foreground, Herod's palace. In the background on the left, the temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
+<figcaption><em>Reconstruction of Jerusalem in the time of Jesus. On the left, the three towers of Herod; in the foreground, Herod's palace. In the background on the left, the temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -117,9 +117,9 @@ As you entered the sanctuary, no matter which way you came, gold was everywhere.
 
 Once inside, in the women's atrium there were golden candelabras, with four golden cups at their top, and the temple treasuries, where donations and taxes were collected, were filled with gold and silver objects.
 
-The facade of the sanctuary, about 28 m\textsuperscript (100 cubits square), was covered with gold plates, as were the wall and the door between the vestibule and the Holy Place. The vestibule of the sanctuary was entirely covered with gold plates the thickness of a denarius and 100 cubits square. On the roof were sharp spikes of gold to scare away birds. From the beams of the vestibule hung gold chains. There were two tables in the vestibule, one of marble and the other of solid gold. Above the entrance leading from the vestibule to the Holy Place was a vine, also of gold, which was constantly growing with donations of golden branches that the priests were responsible for hanging. In addition, above this entrance hung a gold mirror that reflected the rays of the rising sun through the main door (which had no leaves). It had been a donation from Queen Helena of Adiabene. There were also other offerings in this vestibule. The Emperor Augustus and his wife had once given bronze vases and other gifts, and his son-in-law Marcus Agrippa had also made gifts.
+The facade of the sanctuary, about 28 m^2^ (100 cubits square), was covered with gold plates, as were the wall and the door between the vestibule and the Holy Place. The vestibule of the sanctuary was entirely covered with gold plates the thickness of a denarius and 100 cubits square. On the roof were sharp spikes of gold to scare away birds. From the beams of the vestibule hung gold chains. There were two tables in the vestibule, one of marble and the other of solid gold. Above the entrance leading from the vestibule to the Holy Place was a vine, also of gold, which was constantly growing with donations of golden branches that the priests were responsible for hanging. In addition, above this entrance hung a gold mirror that reflected the rays of the rising sun through the main door (which had no leaves). It had been a donation from Queen Helena of Adiabene. There were also other offerings in this vestibule. The Emperor Augustus and his wife had once given bronze vases and other gifts, and his son-in-law Marcus Agrippa had also made gifts.
 
-In the _Holy_, situated behind the vestibule, were found singular works of art: the massive seven-branched candelabrum weighing two talents (70 kg) and the massive table of the shewbread, also weighing several talents. The _sanctasanctorum_ must have been empty and its walls completely covered with gold.
+In the _Holy_, situated behind the vestibule, were found singular works of art: the massive seven-branched candelabrum weighing two talents (70 kg) and the massive table of the shewbread, also weighing several talents. The _sancta-sanctorum_ must have been empty and its walls completely covered with gold.
 
 The rabbinical treatises speak of ten degrees of holiness on earth, which were situated in concentric circles around the _sancta-sanctorum_: 1) the country of Israel; 2) the city of Jerusalem; 3) the temple mount; 4) the _soreg_ or _jel_, a terrace with a balustrade that separated it from the rest of the temple esplanade, and which marked the limits permitted to the pagans; 5) the atrium of the women; 6) the atrium of the Israelites; 7) the atrium of the priests; 8) the space between the altar of burnt offerings and the temple building; 9) the temple building; 10) the _sancta-sanctorum_.
 
@@ -205,13 +205,20 @@ At that time, Jerusalem was divided into two large centres, separated by the Tyr
 
 These two commercial arteries were linked by a swarm of cross streets that formed a veritable labyrinth. In this network of alleys, most of them unpaved and soaked in a stinking smell, a mixture of burnt oil, stews and urine thrown into the middle of the road, thousands of houses were crammed together, almost all of them single-storeyed and with peeling walls. All the streets came from the east and the west and crossed the Tyropeon valley. The most important of these cross streets was the street that ran from Herod's palace to the temple, reaching it at the bridge of Xistho (the current tarîq Bâb es-Silsileh, one of the main commercial bazaars today). This street ran parallel under the shadow of the enormous viaduct that formed the first northern wall, and ran from the Lydda Gate to a western entrance in the centre of the western façade of the temple.
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/Jerusalem_map.png">
+<figcaption><em>Map of Jerusalem in the time of Jesus. </em></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 The two main streets eventually led to another, much wider street, or Pool Street, because it led to the famous Pool of Siloam or Pool of the Envoy, at the southern end of the city, next to the great Old Pool and the Fountain Gate. These pools were fed by a fountain, the Gihon Fountain, which, from a spring next to the wall, crossed the wall through the so-called Hezekiah Tunnel.
 
 The swarm of artisans and merchants from both areas had caused a clear rivalry between the two sectors in the city, reaching unsuspected extremes. It turns out that while in the lower or old city the most noble and respected professions had settled, in the upper city the pagan artisans, the proselytes, and above all, the community of fullers or fabric bleachers, who because of their unpleasant profession, had been despised, dominated.
 
 These are the professions and places that we have listed below:
 
-- In the new city: the wool-carders' alley was the site of the bazaar or market for wool sellers (sûq sel sammarîm); to the north there must have been fullers in the new city, since in the north-east corner of the northernmost wall there was a monument to the fuller, and also a clothing market; in the northern suburb there would be the cutters' workshop; finally, outside the city walls, to the north, there would be the blacksmiths' bazaar.
+- In the new city: the wool-carders' alley was the site of the bazaar or market for wool sellers (_sûq sel sammarîm_); to the north there must have been fullers in the new city, since in the north-east corner of the northernmost wall there was a monument to the fuller, and also a clothing market; in the northern suburb there would be the cutters' workshop; finally, outside the city walls, to the north, there would be the blacksmiths' bazaar.
 - In the upper city we have to the north the most important neighborhood of the fullers (all of them pagans) and the artisans of artistic objects.
 - Finally, in the lower city, near the Garbage Gate, the weavers' quarter.
 

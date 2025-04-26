@@ -30,10 +30,12 @@ Betabara es una población que aparece mencionada en [Jn 1:28](/es/Bible/John/1#
 
 En _El Libro de Urantia_ aparece mencionado únicamente como «Betania Más Allá del Jordán» («Bethany beyond Jordan»), y nunca con cualquiera de las otras denominaciones. Además, en _El Libro de Urantia_ (<a id="a30_203"></a>[LU 141:7.2](/es/The_Urantia_Book/141#p7_2)) se nos dice expresamente que Betania estaba en la orilla oriental, pues dice que Jesús se dirigió a las colinas situadas «al otro lado del río, al sur de Jericó». Por tanto, creo que en la época de Jesús este lugar se conoció siempre por el nombre de Betania, y se añadía «Más Allá del Jordán» porque estaba al otro lado del río (el lado transjordano), es decir, en la orilla oriental, y no donde el mapa de Madaba lo situó después. En sus proximidades, en una u otra orilla, debieron de existir varios lugares venerados, algunos por los judíos, como el lugar llamado Salem o Salín, donde supuestamente Melquisedec hizo un gesto en honor de Abraham, el padre de la fe judía, o el lugar donde el profeta Elías también habitó, cerca del torrente Chorath. Respecto a la fe cristiana, aquí se creía que Juan el Bautista empezó a predicar y bautizar, y la arqueología moderna ha desenterrado los restos de una iglesia y un monasterio en la zona, del período bizantino, que atestiguan la creencia de que éste fue un sitio reverenciado por los peregrinos desde antiguo.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Bethabara/800px-Sapsaphas_Madaba.jpg">
 <figcaption><em>Mapa de Madaba en la desembocadura del Jordán en el mar Muerto.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 La población debía ser importante, pues era lugar de paso obligado en la ruta a Jericó y Jerusalén por el camino oriental que evitaba Samaria. En el mapa de Madaba se aprecia el dibujo de grandes peces en el río, por lo que debía existir cierta industria pesquera; de palmeras datileras, por cuyos frutos, los dátiles, la región era famosa; un león persiguiendo un antílope, que da fe de una fauna bastante salvaje; y un transbordador o barca que atravesaba el río Jordán tirado por una fuerte soga desde ambos extremos del río, aunque a una altura más al norte. Tengo dudas de si existió un vado transitable en la época de Jesús en alguna estación del año, o este medio del transbordador era la única forma posible de cruzar el río.
 

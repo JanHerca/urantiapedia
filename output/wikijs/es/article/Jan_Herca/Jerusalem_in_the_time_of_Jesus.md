@@ -46,7 +46,7 @@ La ciudad santa era, como muchas ciudades importantes de la época, una ciudad a
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
-<figcaption><em>Reconstrucción de la Jerusalén de tiempos de Jesús. A la derecha, las tres torres de Herodes; en primer plano, el palacio de Herodes. Al fondo a la izquierda, el templo. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
+<figcaption><em>Reconstrucción de la Jerusalén de tiempos de Jesús. A la izquierda, las tres torres de Herodes; en primer plano, el palacio de Herodes. Al fondo a la izquierda, el templo. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -117,9 +117,9 @@ Al entrar en el Santuario, por cualquier parte que se viniese, el oro deslumbrab
 
 Una vez dentro, en el atrio de las mujeres había candelabros de oro, con cuatro copas de oro en su vértice, y las tesorerías del templo, donde se recogían las donaciones e impuestos, estaban abarrotadas de objetos de oro y plata.
 
-La fachada del Santuario, de unos 28 m\textsuperscript (100 codos cuadrados) estaba recubierto de placas de oro; también lo estaban la pared y la puerta entre el vestíbulo y el Santo. El vestíbulo del Santuario estaba enteramente recubierto de placas de oro del grosor de un denario y de 100 codos cuadrados. Sobre el tejado había agudas puntas de oro para ahuyentar los pájaros. De las vigas del vestíbulo colgaban cadenas de oro. Allí mismo había dos mesas, una de mármol y otra de oro macizo. Sobre la entrada que conducía del vestíbulo al Santo se extendía una parra también de oro, la cual crecía constantemente con las donaciones de sarmientos de oro que los sacerdotes se encargaban de colgar. Además, sobre esta entrada pendía un espejo de oro que reflejaba los rayos del sol naciente a través de la puerta principal (que no tenía hojas). Había sido una donación de la reina Helena de Adiabene. También había en este vestíbulo otras ofrendas. El emperador Augusto y su esposa habían regalado antaño unos jarrones de bronce y otros presentes, y su yerno Marco Agripa también había hecho regalos.
+La fachada del Santuario, de unos 28 m^2^ (100 codos cuadrados) estaba recubierto de placas de oro; también lo estaban la pared y la puerta entre el vestíbulo y el Santo. El vestíbulo del Santuario estaba enteramente recubierto de placas de oro del grosor de un denario y de 100 codos cuadrados. Sobre el tejado había agudas puntas de oro para ahuyentar los pájaros. De las vigas del vestíbulo colgaban cadenas de oro. Allí mismo había dos mesas, una de mármol y otra de oro macizo. Sobre la entrada que conducía del vestíbulo al Santo se extendía una parra también de oro, la cual crecía constantemente con las donaciones de sarmientos de oro que los sacerdotes se encargaban de colgar. Además, sobre esta entrada pendía un espejo de oro que reflejaba los rayos del sol naciente a través de la puerta principal (que no tenía hojas). Había sido una donación de la reina Helena de Adiabene. También había en este vestíbulo otras ofrendas. El emperador Augusto y su esposa habían regalado antaño unos jarrones de bronce y otros presentes, y su yerno Marco Agripa también había hecho regalos.
 
-En el _Santo_, situado detrás del vestíbulo, se hallaban singulares obras de arte: el candelabro macizo de siete brazos de dos talentos de peso (70 kg) y la mesa maciza de los panes de la proposición, también de varios talentos de peso. El _sanctasanctorum_ debía de hallarse vacío y sus paredes totalmente recubiertas de oro.
+En el _Santo_, situado detrás del vestíbulo, se hallaban singulares obras de arte: el candelabro macizo de siete brazos de dos talentos de peso (70 kg) y la mesa maciza de los panes de la proposición, también de varios talentos de peso. El _sancta-sanctorum_ debía de hallarse vacío y sus paredes totalmente recubiertas de oro.
 
 Los tratados rabínicos nos hablan de diez grados de santidad en la tierra, y que estaban situados en círculos concéntricos alrededor del _sancta-sanctorum_: 1) el país de Israel; 2) la ciudad de Jerusalén; 3) el monte del templo; 4) el _soreg_ o _jel_, terraza con una balaustrada que la separaba del resto de la explanada del templo, y que marcaba los límites permitidos a los paganos; 5) el atrio de las mujeres; 6) el atrio de los israelitas; 7) el atrio de los sacerdotes; 8) el espacio entre el altar de los holocaustos y el edificio del templo; 9) el edificio del templo; 10) el _sancta-sanctorum_.
 
@@ -205,13 +205,20 @@ Jerusalén se dividía en aquella época en dos grandes núcleos, separados por 
 
 Estas dos arterias comerciales estaban unidas por un enjambre de calles transversales que constituían un auténtico laberinto. En esa red de callejuelas, la mayoría sin empedrar y sumidas en un pestilente olor, mezcla de aceite quemado, guisotes y orines arrojados al centro de la vía, se hacinaban miles de viviendas, casi todas de una sóla planta y con las paredes desconchadas. Todas las calles procedían del este y del oeste y atravesaban el valle de Tyropeón. La más importante de estas transversales era la calle que iba desde el palacio de Herodes al templo, alcanzándolo en el puente de Xisto (la actual tarîq Bâb es-Silsileh, uno de los principales bazares comerciales de hoy). Esta calle corría paralela bajo la sombra de el enorme viaducto que formaba la primera muralla norte, y que discurría desde la puerta de Lydda hasta un acceso occidental en el centro de la fachada oeste del templo.
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/Jerusalem_map.png">
+<figcaption><em>Mapa de Jerusalén en tiempos de Jesús. </em></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 Las dos calles principales desembocaban finalmente en otra mucho más ancha o calle de la Piscina, porque desembocaba en la famosa piscina de Siloé o del Enviado, en el extremo sur de la ciudad, junto a la gran piscina Antigua y al Portón de la Fuente. Estas piscinas se alimentaban de una fuente, la fuente Guijón, que, desde un manantial junto a la muralla, atravesaba la muralla por el llamado Túnel de Ezequías.
 
 El enjambre de artesanos y mercaderes de ambas zonas había provocado en la ciudad una clara rivalidad entre ambos sectores, llegando a extremos insospechados. Resulta que mientras que en la ciudad baja o antigua se habían afincado las profesiones más nobles y consideradas, en la ciudad alta dominaban los artesanos paganos, los prosélitos, y sobre todo, la comunidad de los bataneros o blanqueadores de tejidos, que a causa de su desagradable profesión, habían sido despreciados.
 
 Son estas profesiones y lugares los que ubicamos a continuación en el siguiente listado:
 
-- En la ciudad nueva: en la callejuela de los cardadores de lana se situaba el bazar o mercado de los vendedores de lana (sûq sel sammarîm); al norte debía haber bataneros en la ciudad nueva pues en el ángulo nordeste de la muralla más septentrional había un monumento al batanero, y también un mercado de vestidos; en el suburbio norte estaría el taller de los cutidores; finalmente, fuera de los muros de la ciudad, al norte, estaría el bazar de los herreros.
+- En la ciudad nueva: en la callejuela de los cardadores de lana se situaba el bazar o mercado de los vendedores de lana (_sûq sel sammarîm_); al norte debía haber bataneros en la ciudad nueva pues en el ángulo nordeste de la muralla más septentrional había un monumento al batanero, y también un mercado de vestidos; en el suburbio norte estaría el taller de los cutidores; finalmente, fuera de los muros de la ciudad, al norte, estaría el bazar de los herreros.
 - En la ciudad alta tenemos al norte el barrio más importante de los bataneros (todos ellos paganos) y los artesanos de los objetos artísticos.
 - Finalmente, en la ciudad baja,  cerca de la puerta de la Basura, el barrio de los tejedores.
 

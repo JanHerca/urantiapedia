@@ -85,10 +85,12 @@ Sólo las fundaciones, un círculo rodeado por un cuadrado, han sobrevivido del 
 
 El complejo del palacio de invierno incluía también una serie de estructuras construidas al este del palacio hasmoneo. Estas estructuras (sólo parcialmente excavadas), fueron construidas a lo largo de la franja de la propiedad real, tal vez como casa del personal administrativo. En su borde oriental, una pequeña «zona industrial» ha sida encontrada, probablemente para procesar algunos de los bienes reales (tal vez el _opobalsamum_). 
 
-<figure id="Figure_5" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/HERODS-PALACE_20160124-33.jpg">
 <figcaption><em>Palacio de Herodes en Jericó.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Otro importante proyecto de construcción de Herodes fue revelado y excavado por Netzer (1975/76) en Tell el Samarat, S de Tell el-Sultán. Se compone de los restos de un complejo único en todo el mundo grecoromano, que integraba una pista de carreras de caballos y carros, la cavea de un teatro de 70 metros de ancho, y un bonito edificio (70 x 70 m) elevado en la parte superior de un montículo artificial. Poco ha sobrevivido de las bases de este edificio, que pudo haber servido como un área de recepción o un gimnasio. 
 

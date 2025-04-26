@@ -85,10 +85,12 @@ Only the foundations, a circle surrounded by a square, have survived of the buil
 
 The Winter Palace complex also included a number of structures built to the east of the Hasmonean palace. These structures (only partially excavated) were built along the fringe of the royal property, perhaps as housing for the administrative staff. On its eastern edge, a small "industrial zone" has been found, probably for processing some of the royal goods (perhaps the _opobalsamum_).
 
-<figure id="Figure_5" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/HERODS-PALACE_20160124-33.jpg">
 <figcaption><em>Herod's palace in Jericho.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Another important building project of Herod was revealed and excavated by Netzer (1975/76) at Tell el Samarat, S of Tell el-Sultan. It consists of the remains of a complex unique in the Greco-Roman world, integrating a horse and chariot racing track, the cavea of ​​a 70-metre-wide theatre, and a fine building (70 x 70 m) raised on the top of an artificial mound. Little has survived of the foundations of this building, which may have served as a reception area or a gymnasium.
 

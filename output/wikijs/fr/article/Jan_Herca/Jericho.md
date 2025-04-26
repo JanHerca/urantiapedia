@@ -85,10 +85,12 @@ De l'édifice qui se dressait autrefois au sommet de la colline artificielle, se
 
 Le complexe du Palais d'Hiver comprenait également une série de structures construites à l'est du palais hasmonéen. Ces structures (seulement partiellement fouillées) ont été construites le long de la bande de propriété royale, peut-être pour servir de maison au personnel administratif. Sur sa bordure orientale, une petite « zone industrielle » a été découverte, probablement pour transformer une partie des biens royaux (peut-être l'_opobalsamum_).
 
-<figure id="Figure_5" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/HERODS-PALACE_20160124-33.jpg">
 <figcaption><em>Palais d'Hérode à Jéricho.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Un autre projet de construction important d'Hérode a été révélé et fouillé par Netzer (1975/76) à Tell el Samarat, au sud de Tell el-Sultan. Il est constitué des vestiges d'un complexe unique dans tout le monde gréco-romain, qui intégrait une piste de courses de chevaux et de chars, la cavea d'un théâtre de 70 mètres de large et un bel édifice (70 x 70 m) surélevé. au sommet d'un monticule artificiel. Il ne reste que peu de choses des fondations de ce bâtiment, qui pouvait servir d'espace de réception ou de gymnase.
 

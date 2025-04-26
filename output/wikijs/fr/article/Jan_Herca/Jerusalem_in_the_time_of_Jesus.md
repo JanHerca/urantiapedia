@@ -46,7 +46,7 @@ La ville sainte était, comme beaucoup de villes importantes de l'époque, une v
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalen_siglo_primero.jpg">
-<figcaption><em>Reconstruction de Jérusalem au temps de Jésus. A droite, les trois tours d'Hérode ; Au premier plan, le palais d'Hérode. Au fond à gauche, le temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipédia</a></figcaption>
+<figcaption><em>Reconstruction de Jérusalem au temps de Jésus. A gauche, les trois tours d'Hérode ; Au premier plan, le palais d'Hérode. Au fond à gauche, le temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipédia</a></figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -117,9 +117,9 @@ En entrant dans le Sanctuaire, où que l’on vienne, l’or éblouissait partou
 
 Une fois à l'intérieur, dans la cour des femmes, il y avait des candélabres en or, avec quatre coupes d'or à leur sommet, et les trésors des temples, où étaient collectés les dons et les impôts, étaient remplis d'objets en or et en argent.
 
-La façade du Sanctuaire, d'environ 28 m\textsuperscript (100 coudées carrées), était recouverte de plaques d'or ; ainsi que le mur et la porte entre le vestibule et le Saint. Le vestibule du Sanctuaire était entièrement recouvert de plaques d'or de l'épaisseur d'un denier et de 100 coudées carrées. Sur le toit, il y avait des pointes d'or pointues pour effrayer les oiseaux. Des chaînes en or pendaient aux chevrons du hall. Il y avait deux tables là, l'une en marbre et l'autre en or massif. Au-dessus de l'entrée qui menait du vestibule au Saint, s'étendait également une vigne en or, qui grandissait constamment grâce aux dons de branches d'or que les prêtres étaient chargés d'accrocher. De plus, au-dessus de cette entrée était suspendu un miroir doré qui reflétait les rayons du soleil levant à travers la porte principale (qui n'avait pas de vantaux). Il s'agissait d'un don de la reine Hélène d'Adiabène. Il y avait aussi d'autres offrandes dans ce vestibule. L'empereur Auguste et son épouse avaient autrefois offert des vases en bronze et d'autres cadeaux, et son gendre Marcus Agrippa avait également offert des cadeaux.
+La façade du Sanctuaire, d'environ 28 m^2^ (100 coudées carrées), était recouverte de plaques d'or ; ainsi que le mur et la porte entre le vestibule et le Saint. Le vestibule du Sanctuaire était entièrement recouvert de plaques d'or de l'épaisseur d'un denier et de 100 coudées carrées. Sur le toit, il y avait des pointes d'or pointues pour effrayer les oiseaux. Des chaînes en or pendaient aux chevrons du hall. Il y avait deux tables là, l'une en marbre et l'autre en or massif. Au-dessus de l'entrée qui menait du vestibule au Saint, s'étendait également une vigne en or, qui grandissait constamment grâce aux dons de branches d'or que les prêtres étaient chargés d'accrocher. De plus, au-dessus de cette entrée était suspendu un miroir doré qui reflétait les rayons du soleil levant à travers la porte principale (qui n'avait pas de vantaux). Il s'agissait d'un don de la reine Hélène d'Adiabène. Il y avait aussi d'autres offrandes dans ce vestibule. L'empereur Auguste et son épouse avaient autrefois offert des vases en bronze et d'autres cadeaux, et son gendre Marcus Agrippa avait également offert des cadeaux.
 
-Dans le _Saint_, situé derrière le vestibule, se trouvaient des œuvres d'art singulières : le solide candélabre à sept branches pesant deux talents (70 kg) et la solide table des pains de proposition, pesant également plusieurs talents. Le _sanctasanctorum_ devait être vide et ses murs entièrement recouverts d'or.
+Dans le _Saint_, situé derrière le vestibule, se trouvaient des œuvres d'art singulières : le solide candélabre à sept branches pesant deux talents (70 kg) et la solide table des pains de proposition, pesant également plusieurs talents. Le _sancta-sanctorum_ devait être vide et ses murs entièrement recouverts d'or.
 
 Les traités rabbiniques nous parlent de dix degrés de sainteté dans le pays, et qu'ils étaient situés en cercles concentriques autour du _sancta-sanctorum_ : 1) le pays d'Israël ; 2) la ville de Jérusalem ; 3) le mont du temple ; 4) le _soreg_ ou _jel_, terrasse avec une balustrade qui la séparait du reste de l'esplanade du temple, et qui marquait les limites permises aux païens ; 5) le tribunal des femmes ; 6) la cour des Israélites ; 7) la cour des prêtres ; 8) l'espace entre l'autel des holocaustes et le bâtiment du temple ; 9) le bâtiment du temple ; 10) le _sancta-sanctorum_.
 
@@ -205,13 +205,20 @@ Jérusalem était alors divisée en deux grands noyaux, séparés par la dépres
 
 Ces deux artères commerciales étaient reliées par un essaim de rues transversales qui constituaient un véritable labyrinthe. Dans ce réseau de ruelles, pour la plupart non pavées et plongées dans une odeur nauséabonde, un mélange d'huile brûlée, de ragoûts et d'urine jetés au centre de la route, des milliers de maisons étaient entassées, presque toutes sur un seul étage et avec murs qui pèlent. Toutes les rues venaient de l’est et de l’ouest et traversaient la vallée de Tyropoeon. La plus importante de ces transversales était la rue qui allait du palais d'Hérode au temple, pour y arriver au niveau du pont Xisto (l'actuel tarîq Bâb es-Silsileh, l'un des principaux bazars commerciaux actuels). Cette rue était parallèle à l'ombre de l'énorme viaduc qui formait le premier mur nord et qui allait de la porte Lydda à un accès ouest au centre de la façade ouest du temple.
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/Jerusalem_map.png">
+<figcaption><em>Carte de Jérusalem à l'époque de Jésus. </em></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 Les deux rues principales aboutissaient finalement à une rue beaucoup plus large ou rue de la Piscine, car elle menait au célèbre bassin de Siloé ou de l'Envoyé, à l'extrémité sud de la ville, à côté du grand Vieux Bassin et de la Porte de la Fontaine. Ces bassins étaient alimentés par une fontaine, la fontaine Guijón, qui, à partir d'une source située à côté du mur, traversait le mur à travers ce qu'on appelle le tunnel d'Ézéchias.
 
 L'afflux d'artisans et de commerçants des deux quartiers avait provoqué une nette rivalité entre les deux secteurs de la ville, atteignant des extrêmes insoupçonnés. Il s'avère que si les professions les plus nobles et les plus réputées s'étaient installées dans la ville basse ou antique, dans la ville haute dominaient les artisans païens, les prosélytes et surtout la communauté des foulons ou blanchisseurs d'étoffes qui, en raison de leur métier désagréable, , ils avaient été méprisés.
 
 Ce sont ces métiers et lieux que nous plaçons dans la liste suivante :
 
-- Dans la ville nouvelle : dans l'allée des cardeurs de laine, se trouvait le bazar ou marché des vendeurs de laine (sûq sel sammarîm) ; Au nord, il devait y avoir des foulons dans la nouvelle ville car dans le coin nord-est du mur le plus au nord, il y avait un monument au foulon, ainsi qu'un marché de vêtements ; dans la banlieue nord, il y aurait l'atelier des tailleurs ; Enfin, hors des murs de la ville, au nord, se trouverait le bazar des forgerons.
+- Dans la ville nouvelle : dans l'allée des cardeurs de laine, se trouvait le bazar ou marché des vendeurs de laine (_sûq sel sammarîm_) ; Au nord, il devait y avoir des foulons dans la nouvelle ville car dans le coin nord-est du mur le plus au nord, il y avait un monument au foulon, ainsi qu'un marché de vêtements ; dans la banlieue nord, il y aurait l'atelier des tailleurs ; Enfin, hors des murs de la ville, au nord, se trouverait le bazar des forgerons.
 - Dans la ville haute, nous avons au nord le quartier le plus important de foulons (tous païens) et d'artisans d'objets artistiques.
 - Enfin, dans la ville basse, près de la Garbage Gate, le quartier des tisserands.
 

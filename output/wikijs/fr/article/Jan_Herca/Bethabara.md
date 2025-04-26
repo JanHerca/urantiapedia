@@ -30,10 +30,12 @@ Bethabara est une ville mentionnée dans [Jn 1:28](/fr/Bible/John/1#v28) comme l
 
 Dans _Le Livre d'Urantia_, elle est mentionnée uniquement sous le nom de « Béthanie au-delà du Jourdain », et jamais avec aucun autre nom. De plus, dans _Le Livre d'Urantia_ (<a id="a30_175"></a>[LU 141:7.2](/fr/The_Urantia_Book/141#p7_2)) on nous dit expressément que Béthanie était sur la rive orientale, car il est dit que Jésus se rendit sur les collines situées « de l'autre côté ». côté." côté du fleuve, au sud de Jéricho. Par conséquent, je crois qu'au temps de Jésus, cet endroit a toujours été connu sous le nom de Béthanie, et "Au-delà du Jourdain" a été ajouté parce qu'il se trouvait de l'autre côté du fleuve (le côté transjordanien), c'est-à-dire à l'est. banque, et non là où la carte de Madaba l'a placé plus tard. Dans son voisinage, sur chaque rive, il devait y avoir plusieurs lieux vénérés, certains par les Juifs, comme le lieu appelé Salem ou Salin, où Melchisédech aurait fait un geste en l'honneur d'Abraham, le père de la foi juive, ou du lieu où habitait aussi le prophète Élie, près du torrent de Chorath. Concernant la foi chrétienne, on croyait ici que Jean-Baptiste commençait à prêcher et à baptiser, et l'archéologie moderne a mis au jour dans la région les restes d'une église et d'un monastère, de l'époque byzantine, qui attestent de la croyance qu'il s'agissait d'un un site vénéré par les pèlerins depuis l'Antiquité.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Bethabara/800px-Sapsaphas_Madaba.jpg">
 <figcaption><em>Carte de Madaba à l'embouchure du Jourdain dans la mer Morte.</em> <a href="http://en.wikipedia.org/wiki/File:Sapsaphas_Madaba.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 La population devait être importante, puisqu'elle constituait une étape nécessaire sur la route de Jéricho et de Jérusalem le long de la route orientale qui évitait la Samarie. Sur la carte de Madaba, vous pouvez voir le dessin de gros poissons dans la rivière, il devait donc y avoir une certaine industrie de la pêche ; des palmiers dattiers, pour les fruits et les dattes desquels la région était célèbre ; un lion poursuivant une antilope, ce qui atteste d'une faune assez sauvage ; et un ferry ou un bateau qui traversait le Jourdain tiré par une corde solide depuis les deux extrémités du fleuve, bien qu'à une altitude plus élevée au nord. J'ai des doutes quant à savoir s'il existait un gué traversable à l'époque de Jésus à n'importe quelle saison de l'année, ou si ce moyen de transport était le seul moyen possible de traverser le fleuve.
 
