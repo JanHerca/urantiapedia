@@ -30,11 +30,15 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 Esto es una recopilación de recreaciones hechas por ordenador de la Jerusalén y el templo de la época de Jesús, ordenadas cronológicamente por fecha de publicación.
 
+<br>
+
 ### Reconstrucción virtual del Segundo Templo y Jerusalén — Shephirot.com (2008)
 
 La empresa [Shephirot](http://www.sephirot.com/) creó hace ya unos cuantos años un interesante proyecto de reconstrucción virtual de Jerusalén y el segundo templo. Tienen un video que ya mostraba un algo grado de realismo en la época en que fue producido.
 
 http://www.youtube.com/watch?v=B37Mp6mhs3A
+
+<br>
 
 ### Reconstrucción virtual del Segundo Templo — Israel Antiquities Authority (2010)
 
@@ -42,6 +46,7 @@ Esta reconstrucción en 3D es un trabajo del _Urban Simulation Team_ de la UCLA 
 
 https://www.youtube.com/watch?v=HHLD6RXVLaM
 
+<br>
 
 ### Reconstrucción virtual del Segundo Templo — Messages of Christ (2019-2024)
 
@@ -56,6 +61,8 @@ https://www.youtube.com/watch?v=QQQyNVw8Pf4
 **El templo de Jerusalén: Construyendo la representación más detallada del templo de Herodes**
 
 https://www.youtube.com/watch?v=v0yqZJBUEHk
+
+<br>
 
 ### Reconstrucción virtual del Segundo Templo y Jerusalén — Bible Scenes (2023)
 
@@ -75,6 +82,8 @@ https://www.youtube.com/watch?v=5-EdlbP2xvo
 
 https://www.youtube.com/watch?v=hPyE6BP_m8o
 
+<br>
+
 ### Modelos en 3D del Templo en 3D Warehouse
 
 [3D Warehouse](https://3dwarehouse.sketchup.com) es un servicio actualmente de la empresa Trimble que permite compartir modelos 3D con una comunidad de usuarios. Los modelos pueden visualizarse gratuitamente y en muchos casos descargarse.
@@ -86,6 +95,7 @@ Esta es una lista no exhaustiva de modelos 3D relacionados con el Segundo Templo
 - [The Jewidh Temple](https://3dwarehouse.sketchup.com/model/b8327eac-2c21-48b5-96c5-7afaab1adf0d/The-Jewish-Temple)
 - [Herod's Temple](https://3dwarehouse.sketchup.com/model/5308991be9bd083fad8a06dbee1d115/Herods-Temple)
 
+<br>
 
 ## Referencias
 

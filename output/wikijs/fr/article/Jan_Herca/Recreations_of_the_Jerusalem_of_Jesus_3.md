@@ -30,11 +30,15 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 Il s'agit d'un recueil de reconstitutions générées par ordinateur de Jérusalem et du Temple de l'époque de Jésus, classées chronologiquement par date de publication.
 
+<br>
+
 ### Reconstruction virtuelle du Second Temple et de Jérusalem — Shephirot.com (2008)
 
 La société [Shephirot](http://www.sephirot.com/) a créé il y a quelques années un intéressant projet de reconstruction virtuelle de Jérusalem et du Second Temple. Ils ont une vidéo qui montrait déjà un certain degré de réalisme au moment où elle a été produite.
 
 http://www.youtube.com/watch?v=B37Mp6mhs3A
+
+<br>
 
 ### Reconstruction virtuelle du Second Temple — Autorité des antiquités d'Israël (2010)
 
@@ -42,6 +46,7 @@ Cette reconstruction 3D a été développée par l'équipe de simulation urbaine
 
 https://www.youtube.com/watch?v=HHLD6RXVLaM
 
+<br>
 
 ### Reconstruction virtuelle du Second Temple — Messages du Christ (2019-2024)
 
@@ -56,6 +61,8 @@ https://www.youtube.com/watch?v=QQQyNVw8Pf4
 **Le Temple de Jérusalem : Construction de la représentation la plus détaillée du Temple d'Hérode**
 
 https://www.youtube.com/watch?v=v0yqZJBUEHk
+
+<br>
 
 ### Reconstruction virtuelle du Second Temple et de Jérusalem — Scènes bibliques (2023)
 
@@ -75,6 +82,8 @@ https://www.youtube.com/watch?v=5-EdlbP2xvo
 
 https://www.youtube.com/watch?v=hPyE6BP_m8o
 
+<br>
+
 ### Modèles 3D du Temple dans 3D Warehouse
 
 [3D Warehouse](https://3dwarehouse.sketchup.com) est un service actuellement de la société Trimble qui permet de partager des modèles 3D avec une communauté d'utilisateurs. Les modèles peuvent être consultés gratuitement et dans de nombreux cas téléchargés.
@@ -86,6 +95,7 @@ Voici une liste non exhaustive de modèles 3D liés au Second Temple de Jérusal
 - [Le ​​Temple juif](https://3dwarehouse.sketchup.com/model/b8327eac-2c21-48b5-96c5-7afaab1adf0d/The-Jewish-Temple)
 - [Temple d'Hérode](https://3dwarehouse.sketchup.com/model/5308991be9bd083fad8a06dbee1d115/Herods-Temple)
 
+<br>
 
 ## Références
 
