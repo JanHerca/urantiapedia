@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jan Herca (text, licence <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jan Herca (text, licence <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -16,7 +16,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
+        <a href="/en/index/articles_jan_herca">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles by Jan Herca — Index</span>
         </a>
         </td>
@@ -99,7 +99,7 @@ This is a non-exhaustive list of 3D models related to the Second Temple of Jerus
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
+        <a href="/en/index/articles_jan_herca">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles by Jan Herca — Index</span>
         </a>
         </td>
