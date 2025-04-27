@@ -101,6 +101,8 @@ Fig. 6 shows a small detail of the courtyard of the priests looking through the 
 
 Fig. 7 is the first modeled reconstruction I've ever seen of the interior of the [Royal Basilica](https://es.wikipedia.org/wiki/Estoa_Real). The small figures representing people show the enormous dimensions of this building south of the temple esplanade. It was a classic Roman-style building with three naves and tall Corinthian columns. It is interesting to note that there is a second floor above the side aisles, and that the central nave is even taller. All of this is in line with Josephus' account ([Jewish Antiquities XV-11:5](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_15#v11_5)).
 
+<br>
+
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr9.jpg">
 <figcaption>Fig. 8 — <em>Interior of the Court of the Women.</em></figcaption>
@@ -109,6 +111,8 @@ Fig. 7 is the first modeled reconstruction I've ever seen of the interior of the
 <br style="clear:both;"/>
 
 Fig. 8 shows a detail of the south wing of the Court of the Women. Two of the immense menorah-shaped lights are visible ([UB 162:5.1](/en/The_Urantia_Book/162#p5_1)). The model, with small figurines representing the worshippers and lights serving as incense burners, is extremely realistic. A larger view of this same area is shown in Fig. 9.
+
+<br>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr10.jpg">
@@ -145,12 +149,14 @@ Fig. 8 shows a detail of the south wing of the Court of the Women. Two of the im
 
 Mr. Alec Garrard put commendable effort and care into his model. In an unprecedented degree of detail, he even adorned the complex with small figurines representing the famous money changers and merchants with whom Jesus had his run-in ([UB 173:1](/en/The_Urantia_Book/173#p1)). In fig. 13 shows the pens with “pure” animals for the sacrifices. Some details of these figurines are also shown in fig. 14 and 15.
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<br>
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr16.jpg">
 <figcaption>Fig. 14 — <em>Faithful leaving the Sanctuary.</em></figcaption>
 </figure>
 
-<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<figure id="Figure_15" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr17.jpg">
 <figcaption>Fig. 15 — <em>The person in charge of turning on the lights.</em></figcaption>
 </figure>
@@ -159,12 +165,12 @@ Mr. Alec Garrard put commendable effort and care into his model. In an unprecede
 
 Examples of the degree of detail of each tiny figure can be seen in figs. 16 and 17.
 
-<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<figure id="Figure_16" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr18.jpg">
 <figcaption>Fig. 16</figcaption>
 </figure>
 
-<figure id="Figure_17" class="image urantiapedia image-style-align-left">
+<figure id="Figure_17" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr19.jpg">
 <figcaption>Fig. 17</figcaption>
 </figure>
@@ -179,6 +185,8 @@ Examples of the degree of detail of each tiny figure can be seen in figs. 16 and
 <br style="clear:both;"/>
 
 Fig. 18 shows a Roman century. There are exactly ten legionaries at the front, organized in ten ranks. The captain of this division was usually called a centurion, and he was assisted by a non-commissioned officer called an optio, who is seen in the rear. To guard Jerusalem and the Temple precinct, there was a Roman cohort in Jesus' time, about six centuries long, like the one seen in the model. They were stationed at the Antonia Tower, the fortress adjacent to the Temple, and under the command of a tribune.
+
+<br>
 
 <figure id="Figure_19" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video1.jpg">
@@ -224,6 +232,8 @@ Fig. 18 shows a Roman century. There are exactly ten legionaries at the front, o
 
 Fig. 24 gives an idea of ​​the colossal dimensions of the Esplanade of the Gentiles. You can see how there was ample space for merchants to set up their stalls or for livestock to move through the area. And the image only shows the south side, because to the north, next to the Antonia Tower, there was another esplanade of the same size.
 
+<br>
+
 <figure id="Figure_25" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video8.jpg">
 <figcaption>Fig. 25 — <em>The southwest corner of the temple.</em></figcaption>
@@ -233,6 +243,8 @@ Fig. 24 gives an idea of ​​the colossal dimensions of the Esplanade of the G
 
 Fig. 25 shows in detail what this busy place was like, a crossroads for all pilgrims who wished to access the temple. The stairs that were arranged along the walls allowed the faithful to access the side doors of the temple. The staircase on the right rises to an elevated passage supported by semicircular arches that allows entry into the temple through the Royal Stoa.
 
+<br>
+
 <figure id="Figure_26" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video9.jpg">
 <figcaption>Fig. 26 — <em>A close-up of the Antonia fortress.</em></figcaption>
@@ -241,6 +253,8 @@ Fig. 25 shows in detail what this busy place was like, a crossroads for all pilg
 <br style="clear:both;"/>
 
 Fig. 26 shows the balustrade from which the procurator addressed the Jews (Jews were not allowed to defile themselves by entering the fortress grounds). In front was a wide esplanade. There are two things I miss from the model: first, a moat surrounding the fortress; and second, a ramp (not stairs) to access the western gate, shown on the right of the image. Fig. 27 allows a closer look at this area, also showing the Struthion pool, which supplied water to the fortress.
+
+<br>
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video13.jpg">

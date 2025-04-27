@@ -101,6 +101,8 @@ La fig. 6 permite ver un pequeño detalle del atrio de los sacerdotes mirando a 
 
 La fig. 7 es la primera reconstrucción modelada que he visto nunca del interior de la [Basílica Real](https://es.wikipedia.org/wiki/Estoa_Real). Gracias a las figuritas que representan a personas se puede apreciar las enormes dimensiones de este edificio al sur de la explanada del templo. Se trataba de una edifición clásica de estilo romano con tres naves y altas columnas corintias. Es curioso constatar que sobre las naves laterales hay una segunda planta, y que la nave central aún se eleva una cantidad extra. Todo esto está en consonancia con el relato de Josefo ([Antigüedades Judías XV-11:5](/es/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_15#v11_5)).
 
+<br>
+
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr9.jpg">
 <figcaption>Fig. 8 — <em>Interior del atrio de las mujeres.</em></figcaption>
@@ -109,6 +111,8 @@ La fig. 7 es la primera reconstrucción modelada que he visto nunca del interior
 <br style="clear:both;"/>
 
 La fig. 8 muestra un detalle del ala sur del atrio de las mujeres. Se aprecian dos de las inmensas luminarias con forma de _menorahs_ ([LU 162:5.1](/es/The_Urantia_Book/162#p5_1)). La maqueta, con pequeñas figuritas representando a los fieles y con luces haciendo las veces de pebeteros, resulta de un sumo realismo. En la fig. 9 se muestra una panorámica mayor de esta misma zona.
+
+<br>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr10.jpg">
@@ -145,12 +149,14 @@ La fig. 8 muestra un detalle del ala sur del atrio de las mujeres. Se aprecian d
 
 El señor Alec Garrard puso un empeño y un esmero dignos de elogio en su maqueta. En un grado de detalle sin precedentes incluso adornó el conjunto con figuritas representando a los famosos cambistas y mercaderes con los cuales Jesús tuvo su encontronazo ([LU 173:1](/es/The_Urantia_Book/173#p1)). En la fig. 13 pueden apreciarse los corrales con animales «puros» para la realización de los sacrificios. Algunos detalles de estas figuritas se muestran también en la fig. 14 y 15.
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<br>
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr16.jpg">
 <figcaption>Fig. 14 — <em>Fieles saliendo del Santuario.</em></figcaption>
 </figure>
 
-<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<figure id="Figure_15" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr17.jpg">
 <figcaption>Fig. 15 — <em>El encargado de encender las luminarias.</em></figcaption>
 </figure>
@@ -159,12 +165,12 @@ El señor Alec Garrard puso un empeño y un esmero dignos de elogio en su maquet
 
 Ejemplos del grado de detalle de cada minúscula figurita se pueden apreciar en las fig. 16 y 17.
 
-<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<figure id="Figure_16" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr18.jpg">
 <figcaption>Fig. 16</figcaption>
 </figure>
 
-<figure id="Figure_17" class="image urantiapedia image-style-align-left">
+<figure id="Figure_17" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr19.jpg">
 <figcaption>Fig. 17</figcaption>
 </figure>
@@ -179,6 +185,8 @@ Ejemplos del grado de detalle de cada minúscula figurita se pueden apreciar en 
 <br style="clear:both;"/>
 
 La fig. 18 muestra una centuria romana. Hay exactamente diez legionarios en el frente, organizados en diez filas. El capitán de esta división solía llamarse centurión, e iba ayudado por un suboficial llamado _optio_, que es a quien se ve en retaguardia. Para vigilar Jerusalén y el recinto del templo había en tiempos de Jesús una cohorte romana, unas 6 centurias como la que se ve en la maqueta. Estaban estacionadas en la torre Antonia, la fortaleza aledaña al templo, y bajo el mando de un tribuno.
+
+<br>
 
 <figure id="Figure_19" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video1.jpg">
@@ -224,6 +232,8 @@ La fig. 18 muestra una centuria romana. Hay exactamente diez legionarios en el f
 
 La fig. 24 da una idea de las colosales dimensiones de la explanada de los Gentiles. Se puede ver como había un amplio espacio para que los mercaderes colocaran sus puestos o para que transitara ganado por la zona. Y la imagen sólo muestra el lado sur, pues al norte, junto a la torre Antonia, había otra explanada del mismo tamaño.
 
+<br>
+
 <figure id="Figure_25" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video8.jpg">
 <figcaption>Fig. 25 — <em>La esquina suroccidental del templo.</em></figcaption>
@@ -233,6 +243,8 @@ La fig. 24 da una idea de las colosales dimensiones de la explanada de los Genti
 
 En la fig. 25 se aprecia con detalle cómo era este concurrido lugar, cruce de todos los peregrinos que deseaban acceder al templo. Las escaleras que se disponían junto a los muros permitían a los fieles acceder a las puertas laterales del templo. La escalera de la derecha sube hasta un paso elevado sustentado por arcos de medio punto que permite entrar al templo por la Estoa Real.
 
+<br>
+
 <figure id="Figure_26" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video9.jpg">
 <figcaption>Fig. 26 — <em>Un primer plano de la fortaleza Antonia.</em></figcaption>
@@ -241,6 +253,8 @@ En la fig. 25 se aprecia con detalle cómo era este concurrido lugar, cruce de t
 <br style="clear:both;"/>
 
 En la fig. 26 se puede apreciar la balaustrada desde donde el procurador se dirigía a los judíos (los judíos no podían contaminarse entrando en el recinto de la fortaleza). Delante se disponía una amplia explanada. Hay dos cosas que echo de menos en la maqueta: en primer lugar, un foso rodeando la fortaleza; y en segundo lugar, una rampa (y no escaleras), para acceder a la puerta occidental, que se muestra a la derecha de la imagen. La fig. 27 permite ver esta zona con más detalle, mostrando además la piscina de Struthion, que proveía de agua a la fortaleza.
+
+<br>
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Video13.jpg">
