@@ -245,40 +245,56 @@ These are some examples of webpages created in the website:
 <figcaption><em>Figure 1. Main page of the site</em> [<a href="https://urantiapedia.org">Link</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_2" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_02.jpg">
 <figcaption><em>Figure 2. A Urantia Book paper (with links to topics, articles and books) </em> [<a href="/en/The_Urantia_Book/1">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_03.jpg">
 <figcaption><em>Figure 3. Main page of Newspaper Library </em> [<a href="/en/article">Link</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_4" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_04.jpg">
 <figcaption><em>Figure 4. Index of publications in Newspaper Library </em> [<a href="/en/index/articles">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_5" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_05.jpg">
 <figcaption><em>Figure 5. Main page of Library</em> [<a href="/en/book">Link</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_6" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_06.jpg">
 <figcaption><em>Figure 6. Index of shelves in Library </em> [<a href="/en/index/books">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_7" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_07.jpg">
 <figcaption><em>Figure 7. Main page of Encyclopedia </em> [<a href="/en/topic">Link</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_8" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_08.jpg">
 <figcaption><em>Figure 8. Index of topics in Encyclopedia </em> [<a href="/en/index/topics">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ### Statistics
 
@@ -311,6 +327,8 @@ As you can see, the number of annual sessions (31,204) is far from the expected 
 <figcaption><em>Figure 1. Evolution of active users</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Regarding the number of returning users, we are slightly below (18%) the values ​​we had set for ourselves (>20%). This undoubtedly calls for important reflection. Not many users feel the urge to return to the site, which indicates that there is still work to be done regarding the usefulness of the content.
 
 <figure id="img_2" class="image urantiapedia image-style-align-center">
@@ -318,12 +336,16 @@ Regarding the number of returning users, we are slightly below (18%) the values 
 <figcaption><em>Figure 2. Countries with the most visits</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 The bounce rate, which we had set as a maximum of 60%, has been achieved, with a value of 43.67%, although it is still high. We believe this is due to what we mentioned earlier: the content may be comprehensive, but its usefulness is limited, which is why many users fail to fully interact with the site.
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_03.png">
 <figcaption><em>Figure 3. Languages ​​​​of users with the most visits</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Finally, the average interaction time should have been over 2 minutes, and this has been more than met. It's almost 3 minutes (2 min 55 s) per session, although the average time per user is still too low (5 min 11 s). We believe this time should be improved, since 5 minutes is a short reading time, and _Urantiapedia_ is essentially a reading site. However, it can be said that this objective has clearly been more than met.
 

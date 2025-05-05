@@ -55,17 +55,17 @@ Todo o conteúdo listado abaixo está disponível na _Urantiapedia_ nos três id
 
 Editor /<br>Publicação | Artigos
 --- | ---:
-**A Fundação Urântia**<br>\- [News Online](/es/index/articles_uf_news_online)<br>\- [News Flash](/es/index/articles_uf_newsflash)<br>\- [Urantian](/es/index/articles_uf_urantian) |  <br>640<br>24<br>63 
-**Fellowship**<br>\- [Fellowship Herald](/es/index/articles_herald)<br>\- [Mighty Messenger](/es/index/articles_mighty_messenger)<br>\- [Study Group Herald](/es/index/articles_study_group_herald)<br>\- [The Urantian](/es/index/articles_the_urantian) |  <br>263<br>218<br>129<br>264
-**IUA**<br>\- [Journal](/es/index/articles_iua_journal)<br>\- [Tidings](/es/index/articles_iua_tidings) |  <br>216<br>389
-**[Innerface Internacional](/es/index/articles_innerface)** | 568
-**[Spiritual Fellowship Journal](/es/index/articles_spiritual_fellowship_journal)** | 400
-**Associação Espanhola**<br>\- [Luz e Vida](/pt/index/articles_light_and_life) | <br>337
+**A Fundação Urântia**<br>\- [News Online](/en/index/articles_uf_news_online)<br>\- [News Flash](/en/index/articles_uf_newsflash)<br>\- [Urantian](/en/index/articles_uf_urantian) |  <br>640<br>24<br>63 
+**Fellowship**<br>\- [Fellowship Herald](/en/index/articles_herald)<br>\- [Mighty Messenger](/en/index/articles_mighty_messenger)<br>\- [Study Group Herald](/en/index/articles_study_group_herald)<br>\- [The Urantian](/en/index/articles_the_urantian) |  <br>263<br>218<br>129<br>264
+**IUA**<br>\- [Journal](/en/index/articles_iua_journal)<br>\- [Tidings](/en/index/articles_iua_tidings) |  <br>216<br>389
+**[Innerface Internacional](/en/index/articles_innerface)** | 568
+**[Spiritual Fellowship Journal](/en/index/articles_spiritual_fellowship_journal)** | 400
+**Associação Espanhola**<br>\- [Luz e Vida](/en/index/articles_luz_y_vida) | <br>337
 **Associação ANZURA**<br>\- [6-0-6](/en/index/articles_606)<br>\- [The Arena](/en/index/articles_arena) |  <br>257<br>108
 **Associação Francesa**<br>\- [Le ​​​​Lien](/en/index/articles_le_lien) |  <br>500
 **Associação de Quebec**<br>\- [Reflectivite](/en/index/articles_reflectivite) |  <br>401
-**[UB Annotated](/es/index/articles_ubannotated)** | 56
-**[Artigos de Jan Herca](/es/index/articles_jan_herca)** | 71
+**[UB Annotated](/en/index/articles_ubannotated)** | 56
+**[Artigos de Jan Herca](/en/index/articles_jan_herca)** | 71
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 **TOTAL** | **4864**
 
@@ -76,122 +76,122 @@ Editor /<br>Publicação | Artigos
 
 <div class="urantiapedia-table-wrapper">
 
-|   |   |  
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
 **BAHAÍSMO** | | |
-[Epístola ao Filho do Lobo](/es/book/Bahaism/Epistle_to_the_Son_of_the_Wolf) | [O Kitab-i-Aqdas](/es/book/Bahaism/The_Kitab_i_Aqdas) | [O Kitab-i-Iqan (O Livro da Certeza)](/es/book/Bahaism/The_Kitab_i_Iqan) | [O Esplendor de Deus](/es/book/Bahaism/The_Splendour_of_God)
+[Epístola ao Filho do Lobo](/en/book/Bahaism/Epistle_to_the_Son_of_the_Wolf) | [O Kitab-i-Aqdas](/en/book/Bahaism/The_Kitab_i_Aqdas) | [O Kitab-i-Iqan (O Livro da Certeza)](/en/book/Bahaism/The_Kitab_i_Iqan) | [O Esplendor de Deus](/en/book/Bahaism/The_Splendour_of_God)
 TOTAL | | | 4
 **BUDISMO** | | |
-[Amitabha](/es/book/Buddhism/Amitabha) | [Suttas Budistas (SBE11)](/es/book/Buddhism/Buddhist_Suttas) | [Espigas nos Campos de Buda](/es/book/Buddhism/Gleanings_In_Buddha_Fields) | [O Catecismo Budista](/es/book/Buddhism/The_Buddhist_Catechism) (42ª ed.)
-[O Credo de Buda](/es/book/Buddhism/The_Creed_of_Buddha) (2ª ed.) | [O Portão Sem Portão](/es/book/Buddhism/The_Gateless_Gate), Ekai [Huikai], chamado Mu-mon | [O Jataka Volume 1](/es/book/Buddhism/The_Jakata_Vol_1) | [O Jataka Volume 2](/es/book/Buddhism/The_Jakata_Vol_2)
-[O Jataka Volume 3](/es/book/Buddhism/The_Jakata_Vol_3) | [O Jataka Volume 4](/es/book/Buddhism/The_Jakata_Vol_4) | [O Jataka Volume 5](/es/book/Buddhism/The_Jakata_Vol_5) | [O Jataka Volume 6](/es/book/Buddhism/The_Jakata_Vol_6)
-[A Vida de Buda](/es/book/Buddhism/The_Life_of_Buddha) | [O Udâna](/es/book/Buddhism/The_Udana) | &nbsp; | &nbsp;
+[Amitabha](/en/book/Buddhism/Amitabha) | [Suttas Budistas (SBE11)](/en/book/Buddhism/Buddhist_Suttas) | [Espigas nos Campos de Buda](/en/book/Buddhism/Gleanings_In_Buddha_Fields) | [O Catecismo Budista](/en/book/Buddhism/The_Buddhist_Catechism) (42ª ed.)
+[O Credo de Buda](/en/book/Buddhism/The_Creed_of_Buddha) (2ª ed.) | [O Portão Sem Portão](/en/book/Buddhism/The_Gateless_Gate), Ekai [Huikai], chamado Mu-mon | [O Jataka Volume 1](/en/book/Buddhism/The_Jakata_Vol_1) | [O Jataka Volume 2](/en/book/Buddhism/The_Jakata_Vol_2)
+[O Jataka Volume 3](/en/book/Buddhism/The_Jakata_Vol_3) | [O Jataka Volume 4](/en/book/Buddhism/The_Jakata_Vol_4) | [O Jataka Volume 5](/en/book/Buddhism/The_Jakata_Vol_5) | [O Jataka Volume 6](/en/book/Buddhism/The_Jakata_Vol_6)
+[A Vida de Buda](/en/book/Buddhism/The_Life_of_Buddha) | [O Udâna](/en/book/Buddhism/The_Udana) | &nbsp; | &nbsp;
 TOTAL | | | 14
 **CRISTIANISMO** | | |
-[Paraíso Perdido, Paraíso Recuperado](/es/book/Christianity/Paradise_Lost_and_Regained) | [Pistis Sophia](/es/book/Christianity/Pistis_Sophia) | [Escritos de Martinho Lutero](/es/book/Christianity/Writings_of_Martin_Luther) | [O Livro dos Gigantes](/es/book/Christianity/The_Book_of_the_Giants)
-[O Livro da Caverna dos Tesouros](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures) | [Castelo Interior,ou O Castelo Interior](/es/book/Christianity/The_Interior_Castle) | [As Pequenas Flores de São Francisco](/es/book/Christianity/The_Little_Flowers_of_St_Francis) | [Os Exercícios Espirituais de Santo Inácio de Loyola](/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola)
-[Os Escritos de São Francisco de Assis](/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi) | &nbsp; | &nbsp; | &nbsp;
+[Paraíso Perdido, Paraíso Recuperado](/en/book/Christianity/Paradise_Lost_and_Regained) | [Pistis Sophia](/en/book/Christianity/Pistis_Sophia) | [Escritos de Martinho Lutero](/en/book/Christianity/Writings_of_Martin_Luther) | [O Livro dos Gigantes](/en/book/Christianity/The_Book_of_the_Giants)
+[O Livro da Caverna dos Tesouros](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures) | [Castelo Interior,ou O Castelo Interior](/en/book/Christianity/The_Interior_Castle) | [As Pequenas Flores de São Francisco](/en/book/Christianity/The_Little_Flowers_of_St_Francis) | [Os Exercícios Espirituais de Santo Inácio de Loyola](/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola)
+[Os Escritos de São Francisco de Assis](/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi) | &nbsp; | &nbsp; | &nbsp;
 TOTAL | | | 9
 **CONFUCIONISMO** | | |
-[I Ching, Livros Sagrados do Oriente, vol. 16 (SBE 16)](/es/book/Confucianism/The_I_Ching) | [O Li Ki, Parte I, Livros Sagrados do Oriente, Volume 27](/es/book/Confucianism/The_Li_Ki_Part_I) | [O Li Ki, Parte II, Livros Sagrados do Oriente, Volume 28](/es/book/Confucianism/The_Li_Ki_Part_II) | [Rei Shu, Rei Shih e Rei Hsiâo; Livros Sagrados do Oriente, Volume 3](/es/book/Confucianism/The_Shu_King)
+[I Ching, Livros Sagrados do Oriente, vol. 16 (SBE 16)](/en/book/Confucianism/The_I_Ching) | [O Li Ki, Parte I, Livros Sagrados do Oriente, Volume 27](/en/book/Confucianism/The_Li_Ki_Part_I) | [O Li Ki, Parte II, Livros Sagrados do Oriente, Volume 28](/en/book/Confucianism/The_Li_Ki_Part_II) | [Rei Shu, Rei Shih e Rei Hsiâo; Livros Sagrados do Oriente, Volume 3](/en/book/Confucianism/The_Shu_King)
 TOTAL | | | 4
 **HINDUISMO** | | |
-[Bhagavad Gita](/es/book/Hinduism/Bhagavad_Gita) | [Mahabharata](/es/book/Hinduism/The_Mahabharata) | [Ramayana](/es/book/Hinduism/Ramayana) | [Satapatha Brahmana, (5 partes)](/es/book/Hinduism/The_Satapatha_Brahmana)
-[Os Grihya Sutras, (2 partes)](/es/book/Hinduism/The_Grihya_Sutras) | [O Rig-Veda](/es/book/Hinduism/The_Rig_Veda) | [O S'rimad Devî Bhâgawatam](/es/book/Hinduism/The_Srimad_Devi_Bhagawatam) | [Os Upanishads, Parte I (SBE 1)](/es/book/Hinduism/The_Upanishads_Part_I)
-[Os Upanishads, Parte II (SBE 15)](/es/book/Hinduism/The_Upanishads_Part_II) | &nbsp; | &nbsp; | &nbsp;
+[Bhagavad Gita](/en/book/Hinduism/Bhagavad_Gita) | [Mahabharata](/en/book/Hinduism/The_Mahabharata) | [Ramayana](/en/book/Hinduism/Ramayana) | [Satapatha Brahmana, (5 partes)](/en/book/Hinduism/The_Satapatha_Brahmana)
+[Os Grihya Sutras, (2 partes)](/en/book/Hinduism/The_Grihya_Sutras) | [O Rig-Veda](/en/book/Hinduism/The_Rig_Veda) | [O S'rimad Devî Bhâgawatam](/en/book/Hinduism/The_Srimad_Devi_Bhagawatam) | [Os Upanishads, Parte I (SBE 1)](/en/book/Hinduism/The_Upanishads_Part_I)
+[Os Upanishads, Parte II (SBE 15)](/en/book/Hinduism/The_Upanishads_Part_II) | &nbsp; | &nbsp; | &nbsp;
 TOTAL | | | 9
 **ISLÃ** | | |
-[Alcorão](/es/book/Islam/Quran) | [O Alcorão — Livros Sagrados do Oriente, vol. 6 e 9](/es/book/Islam/Quran_Sacred_Books_of_the_East) | [Um Manual de Hadith](/es/book/Islam/A_Manual_of_Hadith) | [Hadith de Bukhari](/es/book/Islam/Hadith_of_Bukhari)
-[O Rubayyat de Omar Khayyam](/es/book/Islam/The_Rubbayat) | [Misticismo Oriental](/es/book/Islam/Oriental_Mysticism) | [Seleções da Poesia dos Afegãos](/es/book/Islam/Selections_from_the_Poetry_of_the_Afghans) | [O Kasidah de Haji Abdu El-Yezdi](/en/book/Islam/The_Kasidah)
-[O Mesnevi](/en/book/Islam/The_Mesnevi) (Livro I) de Rumi, com Atos dos Adeptos de Eflaki | [A Conferência dos Pássaros](/es/book/Islam/Bird_Parlamient) | [Poemas do Divã de Hafiz](/es/book/Islam/Poems_from_the_Divan_of_Hafiz) | [O Masnavi de Rumi](/es/book/Islam/The_Masnavi)
-[O Gulistan de Sa'di](/es/book/Islam/The_Gulistan) | [Salaman e Absal](/es/book/Islam/Salaman_and_Absal) | [Pergaminho da Sabedoria de Sadi](/es/book/Islam/Sadis_Scroll_of_Wisdom) | [A Alquimia da Felicidade](/es/book/Islam/The_Alchemy_of_Happiness)
-[O Jardim Fechado da Verdade](/es/book/Islam/The_Enclosed_Garden_of_the_Truth) (O Hadîqatu' l-Haqîqat) | [O Bustan de Sadi](/es/book/Islam/The_Bustan) | [O Tarjuman al-Ashwaq](/es/book/Islam/The_Tarjuman_al_Ashwaq) | [O Diwan de Zeb-un-Nissa](/es/book/Islam/The_Diwan_of_Zeb_un_Nissa)
-[Os Místicos do Islã](/es/book/Islam/The_Mystics_of_Islam) | [Uma mensagem sufi de liberdade espiritual](/es/book/Islam/A_Sufi_Message_of_Spiritual_Liberty) | [Canções de Kabir](/es/book/Islam/Songs_of_Kabir) | [O Jardim Secreto das Rosas](/es/book/Islam/The_Secret_Rose_Garden)
-[Os Segredos do Eu](/es/book/Islam/The_Secrets_of_the_Self) | [Estudos sobre o Misticismo Islâmico](/es/book/Islam/Studies_in_Islamic_Mysticism) | [O Mishkât Al-Anwar](/es/book/Islam/The_Mishkat_Al_Anwar) (O Nicho das Luzes) | [O Diwan de Abu'l-Ala](/es/book/Islam/The_Diwan_of_Abul_Ala)
-[A religião do Alcorão](/es/book/Islam/The_Religion_of_the_Koran) | [O pensamento árabe e seu lugar na história](/es/book/Islam/Arabic_Thought_and_Its_Place_in_History) | [A Glória do Mundo Xiita](/es/book/Islam/The_Glory_of_the_Shia_World) | [Poesia Árabe](/es/book/Islam/Arabian_Poetry)
-[A História da Filosofia no Islã](/es/book/Islam/The_History_of_Philosophy_in_Islam) | [Sabedoria Árabe](/es/book/Islam/Arabian_Wisdom) | [O Maqamat](/es/book/Islam/The_Maqamat) por Badí' al-Zamán al-Hamadhání | [Islã](/es/book/Islam/Islam)
-[A Filosofia de Alfarabi](/es/book/Islam/The_Philosophy_of_Alfarabi) | [Desenvolvimento da Teologia Muçulmana, Jurisprudência e Teoria Constitucional](/es/book/Islam/Development_of_Muslim_Theology) | [A Bíblia, o Alcorão e o Talmude ou Lendas Bíblicas dos Muçulmanos](/es/book/Islam/Bible_Koran_and_Talmud) | [Os Poemas Enforcados](/es/book/Islam/The_Hanged_Poems)
-[Folclore da Terra Santa](/es/book/Islam/Folk_lore_of_the_Holy_Land) | [Cristo no Islã](/es/book/Islam/Christ_In_Islam) | [O Evangelho de Barnabé](/es/book/Islam/The_Gospel_of_Barnabas) | &nbsp;
+[Alcorão](/en/book/Islam/Quran) | [O Alcorão — Livros Sagrados do Oriente, vol. 6 e 9](/en/book/Islam/Quran_Sacred_Books_of_the_East) | [Um Manual de Hadith](/en/book/Islam/A_Manual_of_Hadith) | [Hadith de Bukhari](/en/book/Islam/Hadith_of_Bukhari)
+[O Rubayyat de Omar Khayyam](/en/book/Islam/The_Rubbayat) | [Misticismo Oriental](/en/book/Islam/Oriental_Mysticism) | [Seleções da Poesia dos Afegãos](/en/book/Islam/Selections_from_the_Poetry_of_the_Afghans) | [O Kasidah de Haji Abdu El-Yezdi](/en/book/Islam/The_Kasidah)
+[O Mesnevi](/en/book/Islam/The_Mesnevi) (Livro I) de Rumi, com Atos dos Adeptos de Eflaki | [A Conferência dos Pássaros](/en/book/Islam/Bird_Parlamient) | [Poemas do Divã de Hafiz](/en/book/Islam/Poems_from_the_Divan_of_Hafiz) | [O Masnavi de Rumi](/en/book/Islam/The_Masnavi)
+[O Gulistan de Sa'di](/en/book/Islam/The_Gulistan) | [Salaman e Absal](/en/book/Islam/Salaman_and_Absal) | [Pergaminho da Sabedoria de Sadi](/en/book/Islam/Sadis_Scroll_of_Wisdom) | [A Alquimia da Felicidade](/en/book/Islam/The_Alchemy_of_Happiness)
+[O Jardim Fechado da Verdade](/en/book/Islam/The_Enclosed_Garden_of_the_Truth) (O Hadîqatu' l-Haqîqat) | [O Bustan de Sadi](/en/book/Islam/The_Bustan) | [O Tarjuman al-Ashwaq](/en/book/Islam/The_Tarjuman_al_Ashwaq) | [O Diwan de Zeb-un-Nissa](/en/book/Islam/The_Diwan_of_Zeb_un_Nissa)
+[Os Místicos do Islã](/en/book/Islam/The_Mystics_of_Islam) | [Uma mensagem sufi de liberdade espiritual](/en/book/Islam/A_Sufi_Message_of_Spiritual_Liberty) | [Canções de Kabir](/en/book/Islam/Songs_of_Kabir) | [O Jardim Secreto das Rosas](/en/book/Islam/The_Secret_Rose_Garden)
+[Os Segredos do Eu](/en/book/Islam/The_Secrets_of_the_Self) | [Estudos sobre o Misticismo Islâmico](/en/book/Islam/Studies_in_Islamic_Mysticism) | [O Mishkât Al-Anwar](/en/book/Islam/The_Mishkat_Al_Anwar) (O Nicho das Luzes) | [O Diwan de Abu'l-Ala](/en/book/Islam/The_Diwan_of_Abul_Ala)
+[A religião do Alcorão](/en/book/Islam/The_Religion_of_the_Koran) | [O pensamento árabe e seu lugar na história](/en/book/Islam/Arabic_Thought_and_Its_Place_in_History) | [A Glória do Mundo Xiita](/en/book/Islam/The_Glory_of_the_Shia_World) | [Poesia Árabe](/en/book/Islam/Arabian_Poetry)
+[A História da Filosofia no Islã](/en/book/Islam/The_History_of_Philosophy_in_Islam) | [Sabedoria Árabe](/en/book/Islam/Arabian_Wisdom) | [O Maqamat](/en/book/Islam/The_Maqamat) por Badí' al-Zamán al-Hamadhání | [Islã](/en/book/Islam/Islam)
+[A Filosofia de Alfarabi](/en/book/Islam/The_Philosophy_of_Alfarabi) | [Desenvolvimento da Teologia Muçulmana, Jurisprudência e Teoria Constitucional](/en/book/Islam/Development_of_Muslim_Theology) | [A Bíblia, o Alcorão e o Talmude ou Lendas Bíblicas dos Muçulmanos](/en/book/Islam/Bible_Koran_and_Talmud) | [Os Poemas Enforcados](/en/book/Islam/The_Hanged_Poems)
+[Folclore da Terra Santa](/en/book/Islam/Folk_lore_of_the_Holy_Land) | [Cristo no Islã](/en/book/Islam/Christ_In_Islam) | [O Evangelho de Barnabé](/en/book/Islam/The_Gospel_of_Barnabas) | &nbsp;
 TOTAL | | | 43
 **JAINISMO** | | |
-[Jain Sutras, Parte I, (Livros Sagrados do Oriente vol. 22)](/es/book/Jainism/Jaina_Sutras_Part_I) | [Jain Sutras, Parte II, (Livros Sagrados do Oriente vol. 45)](/es/book/Jainism/Jaina_Sutras_Part_II) | &nbsp; | &nbsp;
+[Jain Sutras, Parte I, (Livros Sagrados do Oriente vol. 22)](/en/book/Jainism/Jaina_Sutras_Part_I) | [Jain Sutras, Parte II, (Livros Sagrados do Oriente vol. 45)](/en/book/Jainism/Jaina_Sutras_Part_II) | &nbsp; | &nbsp;
 TOTAL | | | 2
 **JUDAÍSMO** | | |
-[Dezoito Tratados da Mishná](/es/book/Judaism/The_Mishna) | [Literatura Hebraica](/es/book/Judaism/Hebraic_Literature) | [Cabala - Sepher Yetzirah](/es/book/Judaism/Kabbalah_Sepher_Yetzirah) | [Obra de Filo de Alexandria](/es/book/Judaism/The_Works_Philo_of_Alexandria)
-[Ditos dos Padres Judeus (Pirqe Aboth)](/es/book/Judaism/Sayings_of_the_Jewish_Fathers) | [A Cabala](/es/book/Judaism/The_Cabala) | [O Talmude](/es/book/Judaism/The_Talmud) | [Obra de Flávio Josefo](/es/book/Judaism/The_Works_of_Flavius_Josephus)
-[Tratado Berakoth](/es/book/Judaism/Tractate_Berakoth) | [Tratado Sinédrio, Mishná e Tosefta](/es/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta) | &nbsp; | &nbsp;
+[Dezoito Tratados da Mishná](/en/book/Judaism/The_Mishna) | [Literatura Hebraica](/en/book/Judaism/Hebraic_Literature) | [Cabala - Sepher Yetzirah](/en/book/Judaism/Kabbalah_Sepher_Yetzirah) | [Obra de Filo de Alexandria](/en/book/Judaism/The_Works_Philo_of_Alexandria)
+[Ditos dos Padres Judeus (Pirqe Aboth)](/en/book/Judaism/Sayings_of_the_Jewish_Fathers) | [A Cabala](/en/book/Judaism/The_Cabala) | [O Talmude](/en/book/Judaism/The_Talmud) | [Obra de Flávio Josefo](/en/book/Judaism/The_Works_of_Flavius_Josephus)
+[Tratado Berakoth](/en/book/Judaism/Tractate_Berakoth) | [Tratado Sinédrio, Mishná e Tosefta](/en/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta) | &nbsp; | &nbsp;
 TOTAL | | | 10
 **JUDEU-CRISTIANISMO (a Bíblia e livros extrabíblicos) – ANTIGO TESTAMENTO** | | |
-[I Esdras](/es/Bible/1_Esdras) (também chamado de «Esdras em grego» ou «III Esdras») | [I Macabeus](/es/Bible/1_Maccabees) | [II Baruch](/es/Bible/2_Baruch) (ou Apocalipse Siríaco de Baruch) | [II Esdras](/es/Bible/2_Esdras) (também chamado de «Apocalipse de Esdras» ou «IV Esdras»)
-[II Macabeus](/es/Bible/2_Maccabees) | [III Baruch](/es/Bible/3_Baruch) (ou Apocalipse Grego de Baruch) | [Terceiro Livro de Enoque](/es/Bible/Third_Book_of_Enoch) | [III Macabeus](/es/Bible/3_Maccabees)
-[IV Baruque](/es/Bible/4_Baruch) | [IV Macabeus](/es/Bible/4_Maccabees) | [5 Macabeus](/es/Bible/5_Maccabees) | [Adições a Ester](/es/Bible/Additions_to_Esther) 
-[Amós](/es/Bible/Amos) | [Apocalipse de Abraão](/es/Bible/Apocalypse_of_Abraham) | [Apocalipse de Adão](/es/Bible/Apocalypse_of_Adam) | [Apocalipse de Elias](/es/Bible/Apocalypse_of_Elijah)
-[Apocalipse de Sedraque](/es/Bible/Apocalypse_of_Sedrach) | [Assunção de Moisés](/es/Bible/Assumption_of_Moses), também chamado de "Testamento de Moisés" | [Apocalipse de Sofonias](/es/Bible/Apocalypse_of_Zephaniah) | [Baruch](/es/Bible/Baruch)
-[Livro dos Jubileus](/es/Bible/Book_of_Jubilees) | [Bel e o Dragão](/es/Bible/Bel_and_the_Dragon) | [Daniel](/es/Bible/Daniel) | [Deuteronômio](/es/Bible/Deuteronomy)
-[Eclesiastes](/es/Bible/Ecclesiastes) | [Ester](/es/Bible/Esther) | [Êxodo](/es/Bible/Exodus) | [Ezequiel](/es/Bible/Ezekiel)
-[Esdras](/es/Bible/Ezra) | [Primeiro Livro de Adão e Eva](/es/Bible/First_book_of_Adam_and_Eve) | [Livro de Enoque](/es/Bible/Book_of_Enoch) | [Gênesis](/es/Bible/GêneGenesissis)
-[Apocalipse Grego de Esdras](/es/Bible/Greek_Apocalypse_of_Ezra) | [Habacuque](/es/Bible/Habakkuk) | [Ageu](/es/Bible/Haggai) | [Orações Sinagogais Helenísticas](/es/Bible/Hellenistic_Synagogal_Prayers)
-[História dos Recabitas](/es/Bible/History_of_the_Rechabites) | [Oséias](/es/Bible/Hosea) | [I Crônicas](/es/Bible/1_Chronicles) | [I Reis](/es/Bible/1_Kings)
-[I Samuel](/es/Bible/1_Samuel) | [II Crônicas](/es/Bible/2_Chronicles) | [II Reis](/es/Bible/2_Kings) | [II Samuel](/es/Bible/2_Samuel)
-[Isaías](/es/Bible/Isaiah) | [Jeremias](/es/Bible/Jeremiah) | [Jó](/es/Bible/Jó) | [Joel](/es/Bible/Joel)
-[Jonas](/es/Bible/Jonah) | [José e Aseneth](/es/Bible/Joseph_and_Aseneth) | [Josué](/es/Bible/Joshua) | [Juízes](/es/Bible/Judges)
-[Judite](/es/Bible/Judith) | [Lamentações de Jeremias](/es/Bible/Lamentações) | [Carta de Aristeas](/es/Bible/Letter_of_Aristeas) | [Carta de Jeremias](/es/Bible/Letter_of_Jeremiah)
-[Levítico](/es/Bible/Leviticus) | [Vida de Adão e Eva](/es/Bible/Life_of_Adam_and_Eve) | [Malaquias](/es/Bible/Malachi) | [Martírio de Isaías](/es/Bible/Martyrdom_of_Isaiah)
-[Miquéias](/es/Bible/Micah) | [Naum](/es/Bible/Nahum) | [Neemias](/es/Bible/Nehemiah) | [Números](/es/Bible/Numbers)
-[Obadias](/es/Bible/Obadiah) | [Oração de Azarias](/es/Bible/Prayer_of_Azariah) | [Oração de Jacó](/es/Bible/Prayer_of_Jacob) | [Oração de Manassés](/es/Bible/Prayer_of_Manesseh)
-[Provérbios](/es/Bible/Proverbs) | [Salmo 151](/es/Bible/Psalm_151) | [Salmos](/es/Bible/Psalms) | [Salmos de Davi](/es/Bible/Salmos_de_Davi)
-[Salmos de Salomão](/es/Bible/Psalms_of_Solomon) | [Pseudo-Philo](/es/Bible/Pseudo_Philo) | [Pseudo-Focilídeos](/es/Bible/Pseudo_Phocylides) | [Perguntas de Esdras](/es/Bible/Questions_of_Ezra)
-[Apocalipse de Esdras](/es/Bible/Revelation_of_Ezra) | [Rute](/es/Bible/Ruth) | [Segundo Livro de Adão e Eva](/es/Bible/Second_book_of_Adam_and_Eve) | [Segundo Livro de Enoque](/es/Bible/Second_Book_of_Enoch)
-[Primeira Epístola a Timóteo](/es/Bible/1_Timóteo) | [Segunda Epístola aos Coríntios](/es/Bible/2_Coríntios) | [Segunda Epístola de João](/es/Bible/2_João) | [Segunda Epístola de Pedro](/es/Bible/2_Peter)
-[Oráculos Sibilinos](/es/Bible/Sibylline_Oracles) | [Eclesiástico](/es/Bible/Sirach) (Eclesiástico) | [Cântico dos Cânticos](/es/Bible/Song_of_Solomon) | [Susana](/es/Bible/Susanna)
-[Testamento de Abraão](/es/Bible/Testament_of_Abraham) | [Testamento de Adão](/es/Bible/Testament_of_Adam) | [Testamento de Aser](/es/Bible/Testament_of_Asher) | [Testamento de Benjamim](/es/Bible/Testament_of_Benjamin)
-[Testamento de Dan](/es/Bible/Testament_of_Dan) | [Testamento de Gad](/es/Bible/Testament_of_Gad_prophet) | [Testamento de Isaque](/es/Bible/Testament_of_Isaac) | [Testamento de Issacar](/es/Bible/Testament_of_Isacar)
-[Testamento de Jacó](/es/Bible/Testament_of_Jacob) | [Testamento de Jó](/es/Bible/Testament_of_Job) | [Testamento de José](/es/Bible/Testament_of_Joseph) | [Testamento de Judá](/es/Bible/Testament_of_Judah)
-[Testamento de Levi](/es/Bible/Testament_of_Levi) | [Testamento de Naftali](/es/Bible/Testament_of_Naphtali) | [Testamento de Rúben](/es/Bible/Testament_of_Reuben) | [Testamento de Simeão](/es/Bible/Testament_of_Simeon)
-[Testamento de Salomão](/es/Bible/Testament_of_Solomon) | [Testamento de Zebulão](/es/Bible/Testament_of_Zebulun) | [Escada de Jacó](/es/Bible/Ladder_of_Jacob) | [As Vidas dos Profetas](/es/Bible/The_Lives_of_the_Prophets)
-[Odes de Salomão](/es/Bible/The_Odes_of_Solomon) | [História de Ahikar](/es/Bible/Story_of_Ahikar) | [Tobias](/es/Bible/Tobit) | [Tratado de Sem](/es/Bible/Treatise_of_Shem)
-[Visão de Esdras](/es/Bible/Visão_de_Esdras) | [Sabedoria](/es/Bible/Wisdom_of_Solomon) | [Zacarias](/es/Bible/Zechariah) | [Sofonias](/es/Bible/Zephaniah)
+[I Esdras](/en/Bible/1_Esdras) (também chamado de «Esdras em grego» ou «III Esdras») | [I Macabeus](/en/Bible/1_Maccabees) | [II Baruch](/en/Bible/2_Baruch) (ou Apocalipse Siríaco de Baruch) | [II Esdras](/en/Bible/2_Esdras) (também chamado de «Apocalipse de Esdras» ou «IV Esdras»)
+[II Macabeus](/en/Bible/2_Maccabees) | [III Baruch](/en/Bible/3_Baruch) (ou Apocalipse Grego de Baruch) | [Terceiro Livro de Enoque](/en/Bible/Third_Book_of_Enoch) | [III Macabeus](/en/Bible/3_Maccabees)
+[IV Baruque](/en/Bible/4_Baruch) | [IV Macabeus](/en/Bible/4_Maccabees) | [5 Macabeus](/en/Bible/5_Maccabees) | [Adições a Ester](/en/Bible/Additions_to_Esther) 
+[Amós](/en/Bible/Amos) | [Apocalipse de Abraão](/en/Bible/Apocalypse_of_Abraham) | [Apocalipse de Adão](/en/Bible/Apocalypse_of_Adam) | [Apocalipse de Elias](/en/Bible/Apocalypse_of_Elijah)
+[Apocalipse de Sedraque](/en/Bible/Apocalypse_of_Sedrach) | [Assunção de Moisés](/en/Bible/Assumption_of_Moses), também chamado de "Testamento de Moisés" | [Apocalipse de Sofonias](/en/Bible/Apocalypse_of_Zephaniah) | [Baruch](/en/Bible/Baruch)
+[Livro dos Jubileus](/en/Bible/Book_of_Jubilees) | [Bel e o Dragão](/en/Bible/Bel_and_the_Dragon) | [Daniel](/en/Bible/Daniel) | [Deuteronômio](/en/Bible/Deuteronomy)
+[Eclesiastes](/en/Bible/Ecclesiastes) | [Ester](/en/Bible/Esther) | [Êxodo](/en/Bible/Exodus) | [Ezequiel](/en/Bible/Ezekiel)
+[Esdras](/en/Bible/Ezra) | [Primeiro Livro de Adão e Eva](/en/Bible/First_book_of_Adam_and_Eve) | [Livro de Enoque](/en/Bible/Book_of_Enoch) | [Gênesis](/en/Bible/Genesis)
+[Apocalipse Grego de Esdras](/en/Bible/Greek_Apocalypse_of_Ezra) | [Habacuque](/en/Bible/Habakkuk) | [Ageu](/en/Bible/Haggai) | [Orações Sinagogais Helenísticas](/en/Bible/Hellenistic_Synagogal_Prayers)
+[História dos Recabitas](/en/Bible/History_of_the_Rechabites) | [Oséias](/en/Bible/Hosea) | [I Crônicas](/en/Bible/1_Chronicles) | [I Reis](/en/Bible/1_Kings)
+[I Samuel](/en/Bible/1_Samuel) | [II Crônicas](/en/Bible/2_Chronicles) | [II Reis](/en/Bible/2_Kings) | [II Samuel](/en/Bible/2_Samuel)
+[Isaías](/en/Bible/Isaiah) | [Jeremias](/en/Bible/Jeremiah) | [Jó](/en/Bible/Job) | [Joel](/en/Bible/Joel)
+[Jonas](/en/Bible/Jonah) | [José e Aseneth](/en/Bible/Joseph_and_Aseneth) | [Josué](/en/Bible/Joshua) | [Juízes](/en/Bible/Judges)
+[Judite](/en/Bible/Judith) | [Lamentações de Jeremias](/en/Bible/Lamentations) | [Carta de Aristeas](/en/Bible/Letter_of_Aristeas) | [Carta de Jeremias](/en/Bible/Letter_of_Jeremiah)
+[Levítico](/en/Bible/Leviticus) | [Vida de Adão e Eva](/en/Bible/Life_of_Adam_and_Eve) | [Malaquias](/en/Bible/Malachi) | [Martírio de Isaías](/en/Bible/Martyrdom_of_Isaiah)
+[Miquéias](/en/Bible/Micah) | [Naum](/en/Bible/Nahum) | [Neemias](/en/Bible/Nehemiah) | [Números](/en/Bible/Numbers)
+[Obadias](/en/Bible/Obadiah) | [Oração de Azarias](/en/Bible/Prayer_of_Azariah) | [Oração de Jacó](/en/Bible/Prayer_of_Jacob) | [Oração de Manassés](/en/Bible/Prayer_of_Manesseh)
+[Provérbios](/en/Bible/Proverbs) | [Salmo 151](/en/Bible/Psalm_151) | [Salmos](/en/Bible/Psalms) | [Salmos de Davi](/en/Bible/Psalms_of_David)
+[Salmos de Salomão](/en/Bible/Psalms_of_Solomon) | [Pseudo-Philo](/en/Bible/Pseudo_Philo) | [Pseudo-Focilídeos](/en/Bible/Pseudo_Phocylides) | [Perguntas de Esdras](/en/Bible/Questions_of_Ezra)
+[Apocalipse de Esdras](/en/Bible/Revelation_of_Ezra) | [Rute](/en/Bible/Ruth) | [Segundo Livro de Adão e Eva](/en/Bible/Second_book_of_Adam_and_Eve) | [Segundo Livro de Enoque](/en/Bible/Second_Book_of_Enoch)
+[Primeira Epístola a Timóteo](/en/Bible/1_Timothy) | [Segunda Epístola aos Coríntios](/en/Bible/2_Corinthians) | [Segunda Epístola de João](/en/Bible/2_John) | [Segunda Epístola de Pedro](/en/Bible/2_Peter)
+[Oráculos Sibilinos](/en/Bible/Sibylline_Oracles) | [Eclesiástico](/en/Bible/Sirach) (Eclesiástico) | [Cântico dos Cânticos](/en/Bible/Song_of_Solomon) | [Susana](/en/Bible/Susanna)
+[Testamento de Abraão](/en/Bible/Testament_of_Abraham) | [Testamento de Adão](/en/Bible/Testament_of_Adam) | [Testamento de Aser](/en/Bible/Testament_of_Asher) | [Testamento de Benjamim](/en/Bible/Testament_of_Benjamin)
+[Testamento de Dan](/en/Bible/Testament_of_Dan) | [Testamento de Gad](/en/Bible/Testament_of_Gad_prophet) | [Testamento de Isaque](/en/Bible/Testament_of_Isaac) | [Testamento de Issacar](/en/Bible/Testament_of_Issachar)
+[Testamento de Jacó](/en/Bible/Testament_of_Jacob) | [Testamento de Jó](/en/Bible/Testament_of_Job) | [Testamento de José](/en/Bible/Testament_of_Joseph) | [Testamento de Judá](/en/Bible/Testament_of_Judah)
+[Testamento de Levi](/en/Bible/Testament_of_Levi) | [Testamento de Naftali](/en/Bible/Testament_of_Naphtali) | [Testamento de Rúben](/en/Bible/Testament_of_Reuben) | [Testamento de Simeão](/en/Bible/Testament_of_Simeon)
+[Testamento de Salomão](/en/Bible/Testament_of_Solomon) | [Testamento de Zebulão](/en/Bible/Testament_of_Zebulun) | [Escada de Jacó](/en/Bible/Ladder_of_Jacob) | [As Vidas dos Profetas](/en/Bible/The_Lives_of_the_Prophets)
+[Odes de Salomão](/en/Bible/The_Odes_of_Solomon) | [História de Ahikar](/en/Bible/Story_of_Ahikar) | [Tobias](/en/Bible/Tobit) | [Tratado de Sem](/en/Bible/Treatise_of_Shem)
+[Visão de Esdras](/en/Bible/Vision_of_Ezra) | [Sabedoria](/en/Bible/Wisdom_of_Solomon) | [Zacarias](/en/Bible/Zechariah) | [Sofonias](/en/Bible/Zephaniah)
 TOTAL | | | 112
 **JUDEU-CRISTIANISMO (a Bíblia e livros extrabíblicos) – NOVO TESTAMENTO** | | |
-[Primeira Epístola aos Coríntios](/es/Bible/1_Corinthians) | [Primeira Epístola de João](/es/Bible/1_John) | [Primeira Epístola de Pedro](/es/Bible/1_Peter) | [Primeira Epístola aos Tessalonicenses](/es/Bible/1_Thessalonians)
-[Segunda Epístola aos Tessalonicenses](/es/Bible/2_Thessalonians) | [Segunda Epístola a Timóteo](/es/Bible/2_Timothy) | [Terceira Epístola de João](/es/Bible/3_John) | [Livro de São João Evangelista (o Teólogo)](/es/Bible/Account_of_St_John_the_Theologian)
-[Atos de Pilatos ou Evangelho de Nicodemos](/es/Bible/Gospel_of_Nicodemus) | [Atos dos Apóstolos](/es/Bible/Acts_of_the_Apostles) | [Evangelho da Infância Armênia](/es/Bible/Armenian_Infancy_Gospel) | [Livro sobre a Infância do Salvador](/es/Bible/Latin_Infancy_Gospel) (trechos), ou «Liber de infantia Salvatoris» [código. Arundel 404 do Museu Britânico]
-[Livro de João, Arcebispo de Tessalônica](/es/Bible/Book_of_John_Archbishop_of_Thessalonica) | [Livro sobre a natividade de Maria](/es/Bible/Book_of_the_birth_of_Saint_Mary), ou Libellus de Nativitate Sanctae Mariae | [Livro sobre a Infância do Salvador](/es/Bible/Latin_Infancy_Gospel_B) (trechos), ou «Liber de infantia Salvatoris» [ms. Latim 11867 da Biblioteca Nacional de Paris] | [Epístola aos Colossenses](/es/Bible/Colossians)
-[Epístola aos Efésios](/es/Bible/Efésios) | [Epístola aos Gálatas](/es/Bible/Galatians) | [Evangelho de Bartolomeu](/es/Bible/Gospel_of_Bartholomew) | [Evangelho de Pedro](/es/Bible/Gospel_of_Peter) [fragmento. de Akhmîm]
-[Evangelho do Pseudo-Mateus](/es/Bible/Gospel_of_Pseudo_Matthew), ou O Liber de Infantia | [Epístola aos Hebreus](/es/Bible/Hebrews) | [História de José, o Carpinteiro](/es/Bible/History_of_Joseph_the_Carpenter) | [Evangelho de Pseudo-Tomé](/es/Bible/Infancy_Gospel_of_Thomas)
-[Epístola de Tiago](/es/Bible/James) | [Evangelho de João](/es/Bible/John) | [Epístola de Judas](/es/Bible/Jude) | [Evangelho de Lucas](/es/Bible/Luke)
-[Evangelho de Marcos](/es/Bible/Mark) | [Evangelho de Mateus](/es/Bible/Matthew) | [Narração do Pseudo José de Arimateia](/es/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea) | [Escritos Suplementares aos Atos de Pilatos](/es/Bible/Gospel_of_Nicodemus_B)
-[Epístola a Filêmon](/es/Bible/Philemon) | [Epístola aos Filipenses](/es/Bible/Philippians) | [Protoevangelho de Tiago](/es/Bible/Protoevangelium_of_James) | [Apocalipse](/es/Bible/Revelation)
-[Epístola aos Romanos](/es/Bible/Romans) | [Evangelho Árabe da Infância](/es/Bible/Syriac_Infancy_Gospel) | [Epístola a Tito](/es/Bible/Tito) | &nbsp;
+[Primeira Epístola aos Coríntios](/en/Bible/1_Corinthians) | [Primeira Epístola de João](/en/Bible/1_John) | [Primeira Epístola de Pedro](/en/Bible/1_Peter) | [Primeira Epístola aos Tessalonicenses](/en/Bible/1_Thessalonians)
+[Segunda Epístola aos Tessalonicenses](/en/Bible/2_Thessalonians) | [Segunda Epístola a Timóteo](/en/Bible/2_Timothy) | [Terceira Epístola de João](/en/Bible/3_John) | [Livro de São João Evangelista (o Teólogo)](/en/Bible/Account_of_St_John_the_Theologian)
+[Atos de Pilatos ou Evangelho de Nicodemos](/en/Bible/Gospel_of_Nicodemus) | [Atos dos Apóstolos](/en/Bible/Acts_of_the_Apostles) | [Evangelho da Infância Armênia](/en/Bible/Armenian_Infancy_Gospel) | [Livro sobre a Infância do Salvador](/en/Bible/Latin_Infancy_Gospel) (trechos), ou «Liber de infantia Salvatoris» [código. Arundel 404 do Museu Britânico]
+[Livro de João, Arcebispo de Tessalônica](/en/Bible/Book_of_John_Archbishop_of_Thessalonica) | [Livro sobre a natividade de Maria](/en/Bible/Book_of_the_birth_of_Saint_Mary), ou Libellus de Nativitate Sanctae Mariae | [Livro sobre a Infância do Salvador](/en/Bible/Latin_Infancy_Gospel_B) (trechos), ou «Liber de infantia Salvatoris» [ms. Latim 11867 da Biblioteca Nacional de Paris] | [Epístola aos Colossenses](/en/Bible/Colossians)
+[Epístola aos Efésios](/en/Bible/Ephesians) | [Epístola aos Gálatas](/en/Bible/Galatians) | [Evangelho de Bartolomeu](/en/Bible/Gospel_of_Bartholomew) | [Evangelho de Pedro](/en/Bible/Gospel_of_Peter) [fragmento. de Akhmîm]
+[Evangelho do Pseudo-Mateus](/en/Bible/Gospel_of_Pseudo_Matthew), ou O Liber de Infantia | [Epístola aos Hebreus](/en/Bible/Hebrews) | [História de José, o Carpinteiro](/en/Bible/History_of_Joseph_the_Carpenter) | [Evangelho de Pseudo-Tomé](/en/Bible/Infancy_Gospel_of_Thomas)
+[Epístola de Tiago](/en/Bible/James) | [Evangelho de João](/en/Bible/John) | [Epístola de Judas](/en/Bible/Jude) | [Evangelho de Lucas](/en/Bible/Luke)
+[Evangelho de Marcos](/en/Bible/Mark) | [Evangelho de Mateus](/en/Bible/Matthew) | [Narração do Pseudo José de Arimateia](/en/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea) | [Escritos Suplementares aos Atos de Pilatos](/en/Bible/Gospel_of_Nicodemus_B)
+[Epístola a Filêmon](/en/Bible/Philemon) | [Epístola aos Filipenses](/en/Bible/Philippians) | [Protoevangelho de Tiago](/en/Bible/Protoevangelium_of_James) | [Apocalipse](/en/Bible/Revelation)
+[Epístola aos Romanos](/en/Bible/Romans) | [Evangelho Árabe da Infância](/en/Bible/Syriac_Infancy_Gospel) | [Epístola a Tito](/en/Bible/Titus) | &nbsp;
 TOTAL | | | 43
 **FILOSOFIA** | | |
-[Um Manifesto Democrático](/es/book/Emery_Reves/A_Democratic_Manifesto) | [Uma Filosofia Realista da Religião](/es/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion) | &nbsp; | &nbsp;
+[Um Manifesto Democrático](/en/book/Emery_Reves/A_Democratic_Manifesto) | [Uma Filosofia Realista da Religião](/en/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion) | &nbsp; | &nbsp;
 TOTAL | | | 2
 **CIÊNCIA** | | |
-[Um livro-texto universitário de geologia](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology) | [A Mente em Travessura](/es/book/William_S_Sadler/The_Mind_at_Mischief) | [O Universo ao Nosso Redor](/es/book/Sir_James_Jeans/The_Universe_Around_Us) | &nbsp;
+[Um livro-texto universitário de geologia](/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology) | [A Mente em Travessura](/en/book/William_S_Sadler/The_Mind_at_Mischief) | [O Universo ao Nosso Redor](/en/book/Sir_James_Jeans/The_Universe_Around_Us) | &nbsp;
 TOTAL | | | 3
 **SIKHISMO** | | |
-[A Religião dos Sikhs](/es/book/Sikhismo/The_Religion_of_the_Sikhs) | [A Religião Sikh, Volume 1](/es/book/Sikhismo/The_Sikh_Religion_Volume_1) | &nbsp; | &nbsp;
+[A Religião dos Sikhs](/en/book/Sikhism/The_Religion_of_the_Sikhs) | [A Religião Sikh, Volume 1](/en/book/Sikhism/The_Sikh_Religion_Volume_1) | &nbsp; | &nbsp;
 TOTAL | &nbsp; | &nbsp; | 43
 **XINTOÍSMO** | | |
-[Bushido, A Alma do Japão](/es/book/Shintoism/Bushido_The_Soul_of_Japan) | [Genji Monogatari](/es/book/Shintoism/Genji_Monogatari) | [No Japão Fantasmagórico](/es/book/Shintoism/In_Ghostly_Japan) | [Japão, uma tentativa de interpretação](/es/book/Shintoism/Japan_An_Attempt_At_Interpretation)
-[Kogoshui: Coleções de histórias antigas](/es/book/Shintoism/Kogoshui) | [Kwaidan](/es/book/Shintoism/Kwaidan) | [O Livro do Chá](/es/book/Shintoism/The_Book_of_Tea) | [Os Ideais do Oriente](/es/book/Shintoism/The_Ideals_of_the_East)
-[O Kojiki](/es/book/Shintoism/The_Kojiki) | [O Nihongi (trechos), 4 partes](/es/book/Shintoism/The_Nihongi_excerpts) | [O Shudai Zatsuwa (um filósofo japonês)](/es/book/Shintoism/The_Shundai_Zatsuwa) | [Os Rituais Yengishiki ou Xintoístas](/es/book/Shintoism/The_Yengishiki)
+[Bushido, A Alma do Japão](/en/book/Shintoism/Bushido_The_Soul_of_Japan) | [Genji Monogatari](/en/book/Shintoism/Genji_Monogatari) | [No Japão Fantasmagórico](/en/book/Shintoism/In_Ghostly_Japan) | [Japão, uma tentativa de interpretação](/en/book/Shintoism/Japan_An_Attempt_At_Interpretation)
+[Kogoshui: Coleções de histórias antigas](/en/book/Shintoism/Kogoshui) | [Kwaidan](/en/book/Shintoism/Kwaidan) | [O Livro do Chá](/en/book/Shintoism/The_Book_of_Tea) | [Os Ideais do Oriente](/en/book/Shintoism/The_Ideals_of_the_East)
+[O Kojiki](/en/book/Shintoism/The_Kojiki) | [O Nihongi (trechos), 4 partes](/en/book/Shintoism/The_Nihongi_excerpts) | [O Shudai Zatsuwa (um filósofo japonês)](/en/book/Shintoism/The_Shundai_Zatsuwa) | [Os Rituais Yengishiki ou Xintoístas](/en/book/Shintoism/The_Yengishiki)
 TOTAL | | | 12
 **TAOÍSMO** | | |
-[Tao-Te Ching](/es/book/Taoism/Tao_Te_Ching) | [Textos Taoístas, Parte I](/es/book/Taoism/Taoist_texts_vol_1) | [Textos Taoístas, Parte II](/es/book/Taoism/Taoist_texts_vol_2) | [A Arte da Guerra, Sun Tzu](/es/book/Taoism/The_Art_of_War_Sun_Tzu)
-[Os Ditos de Lao Tzu](/es/book/Taoism/The_Sayings_of_Lao_Tzu) | [Yin Chih Wen, O Tratado do Caminho Silencioso](/es/book/Taoism/Yin_Chih_Wen) | &nbsp; | &nbsp;
+[Tao-Te Ching](/en/book/Taoism/Tao_Te_Ching) | [Textos Taoístas, Parte I](/en/book/Taoism/Taoist_texts_vol_1) | [Textos Taoístas, Parte II](/en/book/Taoism/Taoist_texts_vol_2) | [A Arte da Guerra, Sun Tzu](/en/book/Taoism/The_Art_of_War_Sun_Tzu)
+[Os Ditos de Lao Tzu](/en/book/Taoism/The_Sayings_of_Lao_Tzu) | [Yin Chih Wen, O Tratado do Caminho Silencioso](/en/book/Taoism/Yin_Chih_Wen) | &nbsp; | &nbsp;
 TOTAL | | | 6
 **TEOLOGIA** | | |
-[Um Prefácio à Fé Cristã em uma Nova Era](/es/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age) | [Religião Aventureira e Outros Ensaios](/es/book/Harry_Emerson_Fosdick/Adventurous_Religion_and_Other_Essays) | [Religião Comparada e a Religião do Futuro](/es/book/Alfred_W_Martin/Comparative_Religion_and_Future) | [Deus e Nós Mesmos: Um Apelo à Realidade, Adequação e Disponibilidade de Deus](/es/book/Edwin_Lewis/God_and_Ourselves)
-[A Visão do Homem sobre Deus e a Lógica do Teísmo](/es/book/Charles_Hartshorne/Mans_Vision_of_God) | [Origem e Evolução da Religião](/es/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion) | [A Doutrina de Deus](/es/book/Albert_C_Knudson/The_Doctrine_of_God) | &nbsp;
+[Um Prefácio à Fé Cristã em uma Nova Era](/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age) | [Religião Aventureira e Outros Ensaios](/en/book/Harry_Emerson_Fosdick/Adventurous_Religion_and_Other_Essays) | [Religião Comparada e a Religião do Futuro](/en/book/Alfred_W_Martin/Comparative_Religion_and_Future) | [Deus e Nós Mesmos: Um Apelo à Realidade, Adequação e Disponibilidade de Deus](/en/book/Edwin_Lewis/God_and_Ourselves)
+[A Visão do Homem sobre Deus e a Lógica do Teísmo](/en/book/Charles_Hartshorne/Mans_Vision_of_God) | [Origem e Evolução da Religião](/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion) | [A Doutrina de Deus](/en/book/Albert_C_Knudson/The_Doctrine_of_God) | &nbsp;
 TOTAL | | | 7
 **LIVROS DE LEITORES** | | |
-[Ciência, Antropologia e Arqueologia em O Livro de Urântia](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book) | [Eugenia, Raças e O Livro de Urântia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) | &nbsp; | &nbsp;
+[Ciência, Antropologia e Arqueologia em O Livro de Urântia](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book) | [Eugenia, Raças e O Livro de Urântia](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) | &nbsp; | &nbsp;
 TOTAL | | | 2
 **ZOROASTRISMO** | | |
-[Os Ensinamentos de Zoroastro](/es/book/Zoroastrianism/The_Teachings_of_Zoroaster) | [O Yatkar-i-Zariran ou Memórias de Zarir](/es/book/Zoroastrianism/Memoirs_of_Zarir) | [O Zend Avesta, Parte I: «Vendîdâd» (SBE 4)](/es/book/Zoroastrianism/The_Zend_Avesta_Part_1) | [O Zend Avesta, Parte II: "Os Sîrôzahs, Yasts e Nyâyis" (SBE 23)](/es/book/Zoroastrianism/The_Zend_Avesta_Part_2)
-[O Zend Avesta, Parte III: «O Yasna, Visparad, Âfrînagân, Gâhs e Vários Fragmentos» (SBE 31)](/es/book/Zoroastrianism/The_Zend_Avesta_Part_3) | &nbsp; | &nbsp; | &nbsp;
+[Os Ensinamentos de Zoroastro](/en/book/Zoroastrianism/The_Teachings_of_Zoroaster) | [O Yatkar-i-Zariran ou Memórias de Zarir](/en/book/Zoroastrianism/Memoirs_of_Zarir) | [O Zend Avesta, Parte I: «Vendîdâd» (SBE 4)](/en/book/Zoroastrianism/The_Zend_Avesta_Part_1) | [O Zend Avesta, Parte II: "Os Sîrôzahs, Yasts e Nyâyis" (SBE 23)](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2)
+[O Zend Avesta, Parte III: «O Yasna, Visparad, Âfrînagân, Gâhs e Vários Fragmentos» (SBE 31)](/en/book/Zoroastrianism/The_Zend_Avesta_Part_3) | &nbsp; | &nbsp; | &nbsp;
 TOTAL | | | 5
 
 </div>
@@ -202,33 +202,33 @@ TOTAL | | | 5
 
 CARTA | REDIRECIONA | INGRESSOS
 --- | ---: | ---:
-[Número](/es/index/tópicos) | 0 | 7
-[A](/es/index/topics#a) | 33 | 291
-[B](/es/index/topics#b) | 28 | 214
-[C](/es/index/topics#c) | 66 | 422
-[D](/es/index/topics#d) | 50 | 211
-[E](/es/index/topics#e) | 39 | 191
-[F](/es/index/topics#f) | 29 | 160
-[G](/es/index/topics#g) | 23 | 167
-[H](/es/index/topics#h) ​​| 20 | 167
-[I](/es/index/topics#i) | 24 | 159
-[J](/es/index/topics#j) | 9 | 108
-[K](/es/index/topics#k) | 2 | 40
-[L](/es/index/topics#l) | 16 | 141
-[M](/es/index/topics#m) | 54 | 374
-[N](/es/index/topics#n) | 14 | 114
-[O](/es/index/topics#o) | 14 | 90
-[P](/es/index/topics#p) | 77 | 350
-[Q](/es/index/topics#q) | 2 | 12
-[R](/es/index/topics#r) | 19 | 159
-[S](/es/index/topics#s) | 111 | 574
-[T](/es/index/topics#t) | 34 | 231
-[U](/es/index/topics#u) | 21 | 78
-[V](/es/index/topics#v) | 9 | 68
-[W](/es/index/topics#w) | 12 | 93
-[X](/es/index/topics#x) | 0 | 2
-[Y](/es/index/topics#y) | 1 | 14
-[Z](/es/index/topics#z) | 5 | 20
+[Número](/en/index/topics) | 0 | 7
+[A](/en/index/topics#a) | 33 | 291
+[B](/en/index/topics#b) | 28 | 214
+[C](/en/index/topics#c) | 66 | 422
+[D](/en/index/topics#d) | 50 | 211
+[E](/en/index/topics#e) | 39 | 191
+[F](/en/index/topics#f) | 29 | 160
+[G](/en/index/topics#g) | 23 | 167
+[H](/en/index/topics#h) ​​| 20 | 167
+[I](/en/index/topics#i) | 24 | 159
+[J](/en/index/topics#j) | 9 | 108
+[K](/en/index/topics#k) | 2 | 40
+[L](/en/index/topics#l) | 16 | 141
+[M](/en/index/topics#m) | 54 | 374
+[N](/en/index/topics#n) | 14 | 114
+[O](/en/index/topics#o) | 14 | 90
+[P](/en/index/topics#p) | 77 | 350
+[Q](/en/index/topics#q) | 2 | 12
+[R](/en/index/topics#r) | 19 | 159
+[S](/en/index/topics#s) | 111 | 574
+[T](/en/index/topics#t) | 34 | 231
+[U](/en/index/topics#u) | 21 | 78
+[V](/en/index/topics#v) | 9 | 68
+[W](/en/index/topics#w) | 12 | 93
+[X](/en/index/topics#x) | 0 | 2
+[Y](/en/index/topics#y) | 1 | 14
+[Z](/en/index/topics#z) | 5 | 20
 TOTAIS | 712 | 4457
 
 </div>
@@ -244,40 +244,54 @@ Aqui estão alguns exemplos de páginas criadas no site:
 <figcaption><em>Figura 1. Página inicial do site</em> [<a href="https://urantiapedia.org">Link</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_2" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_02.jpg">
-<figcaption><em>Figura 2. Um documento do Livro de Urântia (com links para tópicos, artigos e livros)</em> [<a href="/es/The_Urantia_Book/1">Link</a>]</figcaption>
+<figcaption><em>Figura 2. Um documento do Livro de Urântia (com links para tópicos, artigos e livros)</em> [<a href="/en/The_Urantia_Book/1">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_03.jpg">
-<figcaption><em>Figura 3. Página principal do Arquivo de Jornais</em> [<a href="/es/article">Link</a>]</figcaption>
+<figcaption><em>Figura 3. Página principal do Arquivo de Jornais</em> [<a href="/en/article">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_4" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_04.jpg">
-<figcaption><em>Figura 4. Índice de publicações no Arquivo de Jornais</em> [<a href="/es/index/articles">Link</a>]</figcaption>
-</figura>
+<figcaption><em>Figura 4. Índice de publicações no Arquivo de Jornais</em> [<a href="/en/index/articles">Link</a>]</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_5" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_05.jpg">
-<figcaption><em>Figura 5. Página da Biblioteca Principal</em> [<a href="/es/book">Link</a>]</figcaption>
+<figcaption><em>Figura 5. Página da Biblioteca Principal</em> [<a href="/en/book">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_6" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_06.jpg">
-<figcaption><em>Figura 6.Índice da estante da biblioteca</em> [<a href="/es/index/books">Link</a>]</figcaption>
+<figcaption><em>Figura 6.Índice da estante da biblioteca</em> [<a href="/en/index/books">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_7" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_07.jpg">
-<figcaption><em>Figura 7. Página principal da Enciclopédia</em> [<a href="/es/topic">Link</a>]</figcaption>
+<figcaption><em>Figura 7. Página principal da Enciclopédia</em> [<a href="/en/topic">Link</a>]</figcaption>
 </figure>
 
 <figure id="img_8" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_08.jpg">
 <figcaption><em>Figura 8. Índice de verbetes na Enciclopédia</em> [<a href="/en/index/topics">Link</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ### Estatísticas
 
@@ -310,6 +324,8 @@ Como você pode ver, o número de sessões anuais (31.204) está longe das 40.00
 <figcaption><em>Figura 9. Evolução dos usuários ativos</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Em relação ao número de usuários recorrentes, estamos um pouco abaixo (18%) dos valores que havíamos estabelecido (>20%). Isto, sem dúvida, envolve uma reflexão importante. Poucos usuários sentem vontade de retornar ao site, o que indica que ainda há trabalho a ser feito em termos de utilidade do conteúdo.
 
 <figure id="img_10" class="image urantiapedia image-style-align-center">
@@ -317,12 +333,16 @@ Em relação ao número de usuários recorrentes, estamos um pouco abaixo (18%) 
 <figcaption><em>Figura 10. Países com mais visitas</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 A taxa de rejeição, que havíamos estabelecido como máximo 60%, foi atingida, com um valor de 43,67%, embora ainda seja alta. Acreditamos que isso se deve ao que discutimos anteriormente: o conteúdo pode ser extenso, mas sua utilidade é limitada, razão pela qual muitos usuários não conseguem interagir totalmente com o site.
 
 <figure id="img_11" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_03.png">
 <figcaption><em>Figura 11. Idiomas dos usuários com mais visitas</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Por fim, o tempo médio de interação tinha que ser superior a 2 minutos, e foi mais do que cumprido. São quase 3 minutos (2 min 55 s) para cada sessão, embora o tempo médio por usuário seja muito baixo (5 min 11 s). Este é um tempo que achamos que deveria ser melhorado, já que 5 minutos não é muito tempo para ler, e a Urantiapedia é essencialmente um lugar de leitura. No entanto, pode-se dizer que esse objetivo foi claramente mais do que alcançado.
 

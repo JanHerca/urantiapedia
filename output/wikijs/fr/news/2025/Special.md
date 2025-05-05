@@ -60,7 +60,7 @@ Tout le contenu répertorié ci-dessous est disponible sur Urantiapedia dans les
 **IUA**<br>\- [Journal](/fr/index/articles_iua_journal)<br>\- [Tidings](/fr/index/articles_iua_tidings) |  <br>216<br>389
 **[Innerface International](/fr/index/articles_innerface)** | 568
 **[Spiritual Fellowship Journal](/fr/index/articles_spiritual_fellowship_journal)** | 400
-**Association espagnole**<br>\- [Luz y Vida](/fr/index/articles_lumiere_et_vie) |  <br>337
+**Association espagnole**<br>\- [Luz y Vida](/fr/index/articles_luz_y_vida) |  <br>337
 **Association ANZURA**<br>\- [6-0-6](/fr/index/articles_606)<br>\- [The Arena](/fr/index/articles_arena) |  <br>257<br>108
 **Association Française**<br>\- [Le ​​​​Lien](/fr/index/articles_le_lien) |  <br>500
 **Association québécoise**<br>\- [Reflectivite](/fr/index/articles_reflectivite) |  <br>401
@@ -101,7 +101,7 @@ TOTAL | | | 4
 [Les Upanishads, Partie II (SBE 15)](/fr/book/Hinduism/The_Upanishads_Part_II) | &nbsp; | &nbsp; | &nbsp;
 TOTAL | | | 9
 **ISLAM** | | |
-[Coran](/fr/book/Islam/Coran) | [Le Coran — Livres sacrés de l'Orient, vol. 6 et 9](/fr/book/Islam/Quran_Sacred_Books_of_the_East) | [Un manuel de hadith](/fr/book/Islam/A_Manual_of_Hadith) | [Hadith de Boukhari](/fr/book/Islam/Hadith_of_Bukhari)
+[Coran](/fr/book/Islam/Quran) | [Le Coran — Livres sacrés de l'Orient, vol. 6 et 9](/fr/book/Islam/Quran_Sacred_Books_of_the_East) | [Un manuel de hadith](/fr/book/Islam/A_Manual_of_Hadith) | [Hadith de Boukhari](/fr/book/Islam/Hadith_of_Bukhari)
 [Les Rubayyat d'Omar Khayyam](/fr/book/Islam/The_Rubbayat) | [Mysticisme oriental](/fr/book/Islam/Oriental_Mysticism) | [Sélections de la poésie des Afghans](/fr/book/Islam/Selections_from_the_Poetry_of_the_Afghans) | [La Kasîdah de Hâjî Abdû El-Yezdî](/fr/book/Islam/The_Kasidah)
 [Le Mesnevi](/fr/book/Islam/The_Mesnevi) (Livre I) de Rumi, avec Actes des Adeptes d'Eflaki | [La Conférence des Oiseaux](/fr/book/Islam/Bird_Parlamient) | [Poèmes du Divan de Hafiz](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz) | [Le Masnavi de Rumi](/fr/book/Islam/The_Masnavi)
 [Le Gulistan de Sa'di](/fr/book/Islam/The_Gulistan) | [Salaman et Absal](/fr/book/Islam/Salaman_and_Absal) | [Parchemin de la sagesse de Sadi](/fr/book/Islam/Sadis_Scroll_of_Wisdom) | [L'Alchimie du Bonheur](/fr/book/Islam/The_Alchemy_of_Happiness)
@@ -126,13 +126,13 @@ TOTAL | | | 10
 [II Macchabées](/fr/Bible/2_Maccabees) | [III Baruch](/fr/Bible/3_Baruch) (ou Apocalypse grecque de Baruch) | [Troisième Livre d'Enoch](/fr/Bible/Third_Book_of_Enoch) | [3 Maccabées](/fr/Bible/3_Maccabees)
 [IV Baruch](/fr/Bible/4_Baruch) | [IV Maccabées](/fr/Bible/4_Maccabees) | [5 Maccabées](/fr/Bible/5_Maccabees) | [Ajouts à Esther](/fr/Bible/Additions_to_Esther)
 [Amos](/fr/Bible/Amos) | [Apocalypse d'Abraham](/fr/Bible/Apocalypse_of_Abraham) | [Apocalypse d'Adam](/fr/Bible/Apocalypse_of_Adam) | [Apocalypse d'Élie](/fr/Bible/Apocalypse_of_Elijah)
-[Apocalypse de Sedrac](/fr/Bible/Apocalypse_of_Sedrac) | [Assomption de Moïse](/fr/Bible/Assumption_of_Moses), également appelé le « Testament de Moïse » | [Apocalypse de Sophonie](/fr/Bible/Apocalypse_of_Zephaniah) | [Baruch](/fr/Bible/Baruch)
+[Apocalypse de Sedrac](/fr/Bible/Apocalypse_of_Sedrach) | [Assomption de Moïse](/fr/Bible/Assumption_of_Moses), également appelé le « Testament de Moïse » | [Apocalypse de Sophonie](/fr/Bible/Apocalypse_of_Zephaniah) | [Baruch](/fr/Bible/Baruch)
 [Livre des Jubilés](/fr/Bible/Book_of_Jubilees) | [Bel et le Dragon](/fr/Bible/Bel_and_the_Dragon) | [Daniel](/fr/Bible/Daniel) | [Deutéronome](/fr/Bible/Deuteronomy)
 [Ecclésiaste](/fr/Bible/Ecclesiastes) | [Esther](/fr/Bible/Esther) | [Exode](/fr/Bible/Exodus) | [Ézéchiel](/fr/Bible/Ezekiel)
 [Esdras](/fr/Bible/Ezra) | [Premier livre d'Adam et Eve](/fr/Bible/First_book_of_Adam_and_Eve) | [Livre d'Enoch](/fr/Bible/Book_of_Enoch) | [Genèse](/fr/Bible/Genesis)
 [Apocalypse grecque d'Esdras](/fr/Bible/Greek_Apocalypse_of_Ezra) | [Habacuc](/fr/Bible/Habakkuk) | [Aggée](/fr/Bible/Haggai) | [Prières synagogales hellénistiques](/fr/Bible/Hellenistic_Synagogal_Prayers)
 [Histoire des Récabites](/fr/Bible/History_of_the_Rechabites) | [Osée](/fr/Bible/Hosea) | [1 Chroniques](/fr/Bible/1_Chronicles) | [1 Rois](/fr/Bible/1_Kings)
-[I Samuel](/fr/Bible/1_Samuel) | [2 Chroniques](/fr/Bible/2_Chroniques) | [II Rois](/fr/Bible/2_Kings) | [II Samuel](/fr/Bible/2_Samuel)
+[I Samuel](/fr/Bible/1_Samuel) | [2 Chroniques](/fr/Bible/2_Chronicles) | [II Rois](/fr/Bible/2_Kings) | [II Samuel](/fr/Bible/2_Samuel)
 [Isaïe](/fr/Bible/Isaiah) | [Jérémie](/fr/Bible/Jeremiah) | [Job](/fr/Bible/Job) | [Joël](/fr/Bible/Joel)
 [Jonas](/fr/Bible/Jonah) | [Joseph et Aseneth](/fr/Bible/Joseph_and_Aseneth) | [Josué](/fr/Bible/Joshua) | [Juges](/fr/Bible/Judges)
 [Judith](/fr/Bible/Judith) | [Lamentations de Jérémie](/fr/Bible/Lamentations) | [Lettre d'Aristée](/fr/Bible/Letter_of_Aristeas) | [Lettre de Jérémie](/fr/Bible/Letter_of_Jeremiah)
@@ -144,12 +144,12 @@ TOTAL | | | 10
 [Apocalypse d'Esdras](/fr/Bible/Revelation_of_Ezra) | [Ruth](/fr/Bible/Ruth) | [Deuxième livre d'Adam et Ève](/fr/Bible/Second_book_of_Adam_and_Eve) | [Deuxième Livre d'Enoch](/fr/Bible/Second_Book_of_Enoch)
 [Oracles Sibyllins](/fr/Bible/Sibylline_Oracles) | [Ecclésiastique](/fr/Bible/Sirach) (Ecclésiastique) | [Cantique des Cantiques](/fr/Bible/Song_of_Solomon) | [Susanna](/fr/Bible/Susanna)
 [Testament d'Abraham](/fr/Bible/Testament_of_Abraham) | [Testament d'Adam](/fr/Bible/Testament_of_Adam) | [Testament d'Asher](/fr/Bible/Testament_of_Asher) | [Testament de Benjamin](/fr/Bible/Testament_of_Benjamin)
-[Testament de Dan](/fr/Bible/Testament_of_Dan) | [Testament de Gad](/fr/Bible/Testament_of_Gad_prophet) | [Testament d'Isaac](/fr/Bible/Testament_of_Isaac) | [Testament d'Issacar](/fr/Bible/Testament_of_Isacar)
+[Testament de Dan](/fr/Bible/Testament_of_Dan) | [Testament de Gad](/fr/Bible/Testament_of_Gad_prophet) | [Testament d'Isaac](/fr/Bible/Testament_of_Isaac) | [Testament d'Issacar](/fr/Bible/Testament_of_Issachar)
 [Testament de Jacob](/fr/Bible/Testament_of_Jacob) | [Testament de Job](/fr/Bible/Testament_of_Job) | [Testament de Joseph](/fr/Bible/Testament_of_Joseph) | [Testament de Juda](/fr/Bible/Testament_of_Judah)
 [Testament de Lévi](/fr/Bible/Testament_of_Levi) | [Testament de Nephtali](/fr/Bible/Testament_of_Naphtali) | [Testament de Ruben](/fr/Bible/Testament_of_Reuben) | [Testament de Siméon](/fr/Bible/Testament_of_Simeon)
 [Testament de Salomon](/fr/Bible/Testament_of_Solomon) | [Testament de Zabulon](/fr/Bible/Testament_of_Zebulun) | [L'échelle de Jacob](/fr/Bible/Ladder_of_Jacob) | [La vie des prophètes](/fr/Bible/The_Lives_of_the_Prophets)
 [Odes de Salomon](/fr/Bible/The_Odes_of_Solomon) | [Histoire d'Ahikar](/fr/Bible/Story_of_Ahikar) | [Tobie](/fr/Bible/Tobit) | [Traité de Sem](/fr/Bible/Treatise_of_Shem)
-[Vision d'Esdras](/fr/Bible/Vision_of_Ezra) | [Sagesse](/fr/Bible/Sagesse_de_Salomon) | [Zacharie](/fr/Bible/Zechariah) | [Sophonie](/fr/Bible/Zephaniah)
+[Vision d'Esdras](/fr/Bible/Vision_of_Ezra) | [Sagesse](/fr/Bible/Wisdom_of_Solomon) | [Zacharie](/fr/Bible/Zechariah) | [Sophonie](/fr/Bible/Zephaniah)
 TOTAL | | | 112
 **JUDÉO-CHRISTIANISME (la Bible et les livres extra-bibliques) – NOUVEAU TESTAMENT** | | |
 [Première épître aux Corinthiens](/fr/Bible/1_Corinthians) | [Première épître de Jean](/fr/Bible/1_John) | [Première épître de Pierre](/fr/Bible/1_Peter) | [Première épître aux Thessaloniciens](/fr/Bible/1_Thessalonians)
@@ -160,7 +160,7 @@ TOTAL | | | 112
 [Épître aux Éphésiens](/fr/Bible/Ephesians) | [Épître aux Galates](/fr/Bible/Galatians) | [Évangile de Barthélemy](/fr/Bible/Gospel_of_Bartholomew) | [Évangile de Pierre](/fr/Bible/Gospel_of_Peter) [fragment. d'Akhmîm]
 [Évangile du Pseudo-Matthieu](/fr/Bible/Gospel_of_Pseudo_Matthew), ou Le Liber de Infantia | [Épître aux Hébreux](/fr/Bible/Hebrews) | [Histoire de Joseph le charpentier](/fr/Bible/History_of_Joseph_the_Carpenter) | [Évangile du pseudo-Thomas](/fr/Bible/Infancy_Gospel_of_Thomas)
 [Épître de Jacques](/fr/Bible/James) | [Évangile de Jean](/fr/Bible/John) | [Épître de Jude](/fr/Bible/Jude) | [Évangile de Luc](/fr/Bible/Luke)
-[Évangile de Marc](/fr/Bible/Marc) | [Évangile de Matthieu](/fr/Bible/Matthew) | [Récit du pseudo Joseph d'Arimathie](/fr/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea) | [Écrits supplémentaires aux Actes de Pilate](/fr/Bible/Gospel_of_Nicodemus_B)
+[Évangile de Marc](/fr/Bible/Mark) | [Évangile de Matthieu](/fr/Bible/Matthew) | [Récit du pseudo Joseph d'Arimathie](/fr/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea) | [Écrits supplémentaires aux Actes de Pilate](/fr/Bible/Gospel_of_Nicodemus_B)
 [Épître à Philémon](/fr/Bible/Philemon) | [Épître aux Philippiens](/fr/Bible/Philippians) | [Protoévangile de Jacques](/fr/Bible/Protoevangelium_of_James) | [Apocalypse](/fr/Bible/Revelation)
 [Épître aux Romains](/fr/Bible/Romans) | [Évangile de l'enfance en arabe](/fr/Bible/Syriac_Infancy_Gospel) | [Épître à Tite](/fr/Bible/Titus) | &nbsp;
 TOTAL | | | 43
@@ -245,40 +245,56 @@ Voici quelques exemples de pages créées sur le site :
 <figcaption><em>Figure 1. Page d'accueil du site</em> [<a href="https://urantiapedia.org">Lien</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_2" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_02.jpg">
 <figcaption><em>Figure 2. Un document du Livre d'Urantia (avec des liens vers des sujets, des articles et des livres)</em> [<a href="/fr/The_Urantia_Book/1">Lien</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_03.jpg">
 <figcaption><em>Figure 3. Page principale des archives du journal</em> [<a href="/fr/article">Lien</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_4" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_04.jpg">
 <figcaption><em>Figure 4. Index des publications dans les archives du journal</em> [<a href="/fr/index/articles">Lien</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_5" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_05.jpg">
 <figcaption><em>Figure 5. Page principale de la bibliothèque</em> [<a href="/fr/book">Lien</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_6" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_06.jpg">
 <figcaption><em>Figure 6. Index des rayons de la bibliothèque</em> [<a href="/fr/index/books">Lien</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_7" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_07.jpg">
 <figcaption><em>Figure 7. Page principale de l'Encyclopédie</em> [<a href="/fr/topic">Lien</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_8" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_08.jpg">
 <figcaption><em>Figure 8. Index des entrées de l'Encyclopédie</em> [<a href="/fr/index/topics">Lien</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ### Statistiques
 
@@ -311,6 +327,8 @@ Comme on peut le constater, le nombre de sessions annuelles (31 204) est loin de
 <figcaption><em>Figure 9. Évolution des utilisateurs actifs</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Quant au nombre d'utilisateurs récurrents, nous sommes légèrement en dessous (18%) des valeurs que nous nous étions fixées (>20%). Cela implique sans aucun doute une réflexion importante. Peu d’utilisateurs ressentent le besoin de revenir sur le site, ce qui indique qu’il reste encore du travail à faire en termes d’utilité du contenu.
 
 <figure id="img_10" class="image urantiapedia image-style-align-center">
@@ -318,12 +336,16 @@ Quant au nombre d'utilisateurs récurrents, nous sommes légèrement en dessous 
 <figcaption><em>Figure 10. Pays avec le plus de visites</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 Le taux de rebond, que nous avions fixé à un maximum de 60%, a été atteint, avec une valeur de 43,67%, bien qu'il soit encore élevé. Nous pensons que cela est dû à ce que nous avons évoqué précédemment : le contenu peut être vaste, mais son utilité est limitée, c'est pourquoi de nombreux utilisateurs ne parviennent pas à interagir pleinement avec le site.
 
 <figure id="img_11" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_03.png">
 <figcaption><em>Figure 11. Langues des utilisateurs ayant le plus de visites</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Finalement, le temps d’interaction moyen devait être supérieur à 2 minutes, et cela a été plus que respecté. Il s'agit de près de 3 minutes (2 min 55 s) pour chaque session, bien que le temps moyen par utilisateur soit trop faible (5 min 11 s). C'est un temps que nous pensons devoir améliorer, car 5 minutes ne constituent pas un temps très long pour lire, et Urantiapedia est essentiellement un lieu de lecture. On peut toutefois affirmer que cet objectif a été largement atteint.
 

@@ -144,7 +144,7 @@ TOTAL | | | 10
 [Apocalipsis de Esdras](/es/Bible/Revelation_of_Ezra) | [Ruth](/es/Bible/Ruth) | [Segundo libro de Adán y Eva](/es/Bible/Second_book_of_Adam_and_Eve) | [Segundo libro de Enoc](/es/Bible/Second_Book_of_Enoch)
 [Oráculos Sibilinos](/es/Bible/Sibylline_Oracles) | [Eclesiástico](/es/Bible/Sirach) (Ecclesiasticus) | [Cantar de los Cantares](/es/Bible/Song_of_Solomon) | [Susana](/es/Bible/Susanna)
 [Testamento de Abraham](/es/Bible/Testament_of_Abraham) | [Testamento de Adán](/es/Bible/Testament_of_Adam) | [Testamento de Aser](/es/Bible/Testament_of_Asher) | [Testamento de Benjamín](/es/Bible/Testament_of_Benjamin)
-[Testamento de Dan](/es/Bible/Testament_of_Dan) | [Testamento de Gad](/es/Bible/Testament_of_Gad_prophet) | [Testamento de Isaac](/es/Bible/Testament_of_Isaac) | [Testamento de Issachar](/es/Bible/Testament_of_Isacar)
+[Testamento de Dan](/es/Bible/Testament_of_Dan) | [Testamento de Gad](/es/Bible/Testament_of_Gad_prophet) | [Testamento de Isaac](/es/Bible/Testament_of_Isaac) | [Testamento de Issachar](/es/Bible/Testament_of_Issachar)
 [Testamento de Jacob](/es/Bible/Testament_of_Jacob) | [Testamento de Job](/es/Bible/Testament_of_Job) | [Testamento de José](/es/Bible/Testament_of_Joseph) | [Testamento de Judá](/es/Bible/Testament_of_Judah)
 [Testamento de Leví](/es/Bible/Testament_of_Levi) | [Testamento de Neftalí](/es/Bible/Testament_of_Naphtali) | [Testamento de Rubén](/es/Bible/Testament_of_Reuben) | [Testamento de Simeón](/es/Bible/Testament_of_Simeon)
 [Testamento de Salomón](/es/Bible/Testament_of_Solomon) | [Testamento de Zebulón](/es/Bible/Testament_of_Zebulun) | [La escalera de Jacob](/es/Bible/Ladder_of_Jacob) | [Las vidas de los profetas](/es/Bible/The_Lives_of_the_Prophets)
@@ -244,40 +244,56 @@ Aquí mostramos algunos ejemplos de páginas creadas en el sitio web:
 <figcaption><em>Figure 1. Página principal del sitio</em> [<a href="https://urantiapedia.org">Enlace</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_2" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_02.jpg">
 <figcaption><em>Figure 2. Un documento de El Libro de Urantia (con enlaces a tópicos, artículos y libros)</em> [<a href="/es/The_Urantia_Book/1">Enlace</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_03.jpg">
 <figcaption><em>Figure 3. Página principal de la Hemeroteca</em> [<a href="/es/article">Enlace</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_4" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_04.jpg">
 <figcaption><em>Figure 4. Índice de publicaciones de la Hemeroteca</em> [<a href="/es/index/articles">Enlace</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_5" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_05.jpg">
 <figcaption><em>Figure 5. Página principal de la Biblioteca</em> [<a href="/es/book">Enlace</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_6" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_06.jpg">
 <figcaption><em>Figure 6. Índice de estantes de la Biblioteca</em> [<a href="/es/index/books">Enlace</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="img_7" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_07.jpg">
 <figcaption><em>Figure 7. Página principal de la Enciclopedia</em> [<a href="/es/topic">Enlace</a>]</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="img_8" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_08.jpg">
 <figcaption><em>Figure 8. Índice de entradas en la Enciclopedia</em> [<a href="/es/index/topics">Enlace</a>]</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ### Estadísticas
 
@@ -310,6 +326,8 @@ Como puede verse el número de sesiones anuales (31,204) está lejos de las 40,0
 <figcaption><em>Figura 9. Evolución de usuarios activos</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 En cuanto al número de usuarios recurrentes, estamos un poco por debajo (18%) de los valores que nos habíamos propuesto (>20%). Esto sin duda implica una importante reflexión. No muchos usuarios sienten el impulso de volver al sitio, lo cual denota que aún que trabajo por hacer en cuanto a la utilidad del contenido.
 
 <figure id="img_10" class="image urantiapedia image-style-align-center">
@@ -317,12 +335,16 @@ En cuanto al número de usuarios recurrentes, estamos un poco por debajo (18%) d
 <figcaption><em>Figura 10. Países con más visitas</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 La tasa de rebote, que habíamos fijado como máximo en un 60%, se ha conseguido, con un valor del 43.67%, aunque sigue siendo alta. Pensamos que se debe a lo comentado antes: el contenido puede que sea amplio, pero su utilidad es limitada, motivo por el cual muchos usuarios no llegan a interacturar a fondo con el sitio.
 
 <figure id="img_11" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_03.png">
 <figcaption><em>Figura 11. Idiomas de los usuarios con más visitas</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Por último, el tiempo medio de interacción debía estar por encima de 2 minutos, y se ha cumplido con creces. Son casi 3 minutos (2 min 55 s) por cada sesión, aunque el tiempo medio por usuario resulta demasiado bajo (5 min 11 s). Es un tiempo que consideramos que debería mejorar puesto que 5 minutos dan para poco tiempo de lectura, y _Urantiapedia_ es esencialmente un lugar de lectura. Sin embargo, puede decirse que este objetivo ha sido claramente cumplido con creces.
 
@@ -347,7 +369,7 @@ Una de las tareas que realizamos durante la conversión de PDF a formato Web es 
 
 Por último, aunque no menos importante, en el proceso de conversión añadimos todos los enlaces que podemos, especialmente a _El Libro de Urantia_. Esta adición de enlaces muchas veces implica cambiar un poco el texto original porque a lo largo del tiempo las referencias a un párrafo de la revelación se han ofrecido de un modo muy diverso. Por ejemplo, ha sido muy común, y aún lo es, citar _El Libro de Urantia_ simplemente ofreciendo la página de la edición original en inglés, que por supuesto, carece de utilidad para lectores de habla no inglesa. Es por este motivo que hemos tomado la decisión en _Urantiapedia_ de crear un [sistema global único de referencias a El Libro de Urantia](/es/help/links#sistema-global-único-de-referencias-de-el-libro-de-urantia). En todas las citas que detectamos que no siguen este sistema, modificamos el texto original para que se acomode al nuevo sistema.
 
-Por todas estas razones el proceso de obtención del contenido de _Urantiapedia_ ha llevado mucho más tiempo del esperado. Sin embargo, nos ha permitido aprender importantes lecciones de cara al futuro. Hemos encontrado muchas herramientas que resultan últiles, se han generado muchos [trucos](https://github.com/JanHerca/urantiapedia/blob/master/docs/tricks.md) para facilitar los procesos y en general hemos ganado una experiencia que podremos usar para planificar mejor futuras ampliaciones de contenidos.
+Por todas estas razones el proceso de obtención del contenido de _Urantiapedia_ ha llevado mucho más tiempo del esperado. Sin embargo, nos ha permitido aprender importantes lecciones de cara al futuro. Hemos encontrado muchas herramientas que resultan útiles, se han generado muchos [trucos](https://github.com/JanHerca/urantiapedia/blob/master/docs/tricks.md) para facilitar los procesos y en general hemos ganado una experiencia que podremos usar para planificar mejor futuras ampliaciones de contenidos.
 
 ### Respecto a la creación de un equipo de voluntarios
 
@@ -367,7 +389,7 @@ Con _El Libro de Urantia_ es fácil caer en la discusión y los puntos de vista 
 
 ## Visión para el futuro
 
-Por supuesto, el proyecto _Urantiapedia_ no se ha acabado con todo el trabajo realizado durante este “Programa Semilla de Mostaza”. Estamos _sembrando_ la semilla y _regándola_ con cuidado, pero queda todavía mucho trabajo por hacer. En la página inicial del sitio web tenemos una nota indicando que este proyecto probablemente nunca llegue a estar terminado. Debemos darnos cuenta de que _El Libro de Urantia_ representa el equivalente a una segunda venida del Maestro Jesús a la Tierra (así lo declaran los reveladores, [LU 92:4](/es/The_Urantia_Book/92#p4)), aunque sin su presencia personal. La cantidad de verdad que está destilada en este libro es de una envergadura tal que llevará muchos años y siglos descifrarlo e interpretarlo. Cada generación irá haciendo sus contribuciones por medio de más contenidos en forma de artículos, libros, ayudas de estudio, mapas, y docenas de otras cosas que hoy quizá ni imaginamos.
+Por supuesto, el proyecto _Urantiapedia_ no se ha acabado con todo el trabajo realizado durante este «Programa Semilla de Mostaza». Estamos _sembrando_ la semilla y _regándola_ con cuidado, pero queda todavía mucho trabajo por hacer. En la página inicial del sitio web tenemos una nota indicando que este proyecto probablemente nunca llegue a estar terminado. Debemos darnos cuenta de que _El Libro de Urantia_ representa el equivalente a una segunda venida del Maestro Jesús a la Tierra (así lo declaran los reveladores, [LU 92:4](/es/The_Urantia_Book/92#p4)), aunque sin su presencia personal. La cantidad de verdad que está destilada en este libro es de una envergadura tal que llevará muchos años y siglos descifrarlo e interpretarlo. Cada generación irá haciendo sus contribuciones por medio de más contenidos en forma de artículos, libros, ayudas de estudio, mapas, y docenas de otras cosas que hoy quizá ni imaginamos.
 
 Las lecciones aprendidas a lo largo de estos dos años nos han permitido tener una perspectiva mejor de lo que han de ser nuestros esfuerzos futuros. El principal cometido que debemos afrontar es la creación de un equipo de trabajo sólido, cohesionado, y con una participación suficiente para acometer la ingente tarea que hay por delante. Este es sin duda el trabajo más importante y la tarea pendiente que debe recibir los mayores esfuerzos, antes incluso de pensar en otros contenidos. El fracaso en este área nos ha hecho reflexionar y deberemos considerar todas las opciones a la hora de planificar en los próximos meses y años cómo se va a abordar la formación de este equipo. Hay que hacer un  mayor esfuerzo de difusión del proyecto, lograr una mejor explicación de su funcionamiento, eliminar esa visión compleja de él, e incentivar de algún modo la participación. La implantación de una comunidad de colaboradores en torno a _Urantiapedia_ es vital para asegurar el futuro de este proyecto.
 
