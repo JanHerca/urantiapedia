@@ -442,7 +442,7 @@ In general, however, the open rivers and plateaus were abandoned, and all the re
 
 <figure id="Figure_010" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_010.jpg">
-<figcaption>Fig. 10. — Ideal section of the bluff overlying the Diissel River, near Düsseldorf, showing the mode of formation of the famous Neanderthal Cave, where the original type of the Neanderthal race was discovered in 1856. A typical resort of the ‘cave man.’ After Lyell.<br>c. Entrance of percolating waters from above.<br>/. Exit from the grotto.<br> a-b. Interior of the cavern. </figcaption>
+<figcaption>Fig. 10. — Ideal section of the bluff overlying the Düssel River, near Düsseldorf, showing the mode of formation of the famous Neanderthal Cave, where the original type of the Neanderthal race was discovered in 1856. A typical resort of the ‘cave man.’ After Lyell.<br>c. Entrance of percolating waters from above.<br>/. Exit from the grotto.<br> a-b. Interior of the cavern. </figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -591,7 +591,7 @@ The only survivors of the great _African-Asiatic_ fauna in Fourth Glacial and Po
 
 The various species belonging to these five great faunae apparently succeed each other, and wherever their remains are mingled with the palaeoliths, as along the rivers Somme, Marne, and Thames, or in the hearths of the shelters and caverns, they become of extreme interest both in their bearing on the chronology of man and on the development of human culture, art, and industry. They also tell the story of the sequence of climatic conditions both in the regions bordering the glaciers and in the more temperate regions remote from the ice-caps. Thus they guide the anthropologist over the difficult gaps where the geologic record is limited or undecipherable. The general succession of these great faunas is illustrated in Fig. 14 and also in the above table.
 
-## References
+## Bibliography
 
 (1) Lamarck, 1815.1.
 
@@ -621,9 +621,9 @@ The various species belonging to these five great faunae apparently succeed each
 
 (14) Reinach, S., 1889.1.
 
-(15) Schmidt, 1912. i.
+(15) Schmidt, 1912.1.
 
-(16) Avebury, 1913. i.
+(16) Avebury, 1913.1.
 
 (17) Eccardus, 1750.1.
 
@@ -655,7 +655,7 @@ The various species belonging to these five great faunae apparently succeed each
 
 (31) de Mortillet, 1869.1.
 
-(32) Piette, E., 1907. i.
+(32) Piette, E., 1907.1.
 
 <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
@@ -663,7 +663,7 @@ The various species belonging to these five great faunae apparently succeed each
 
 (34) de Sautuola, 1880.1.
 
-(35) Schmidt, 1912.i.
+(35) Schmidt, 1912.1.
 
 (36) Bourgeois, 1867.1.
 
@@ -679,11 +679,11 @@ The various species belonging to these five great faunae apparently succeed each
 
 (42) Chamberlin, 1895.1; 1905.1, vol. III, chap. XIX, pp. 327-516.
 
-(43) Salisbury, 1905. i.
+(43) Salisbury, 1905.1.
 
 (44) Penck, 1909. 1,
 
-(45) Leverett, 1910.i.
+(45) Leverett, 1910.1.
 
 (46) Lyell, 1867.1, voL I, pp. 293-301; 1877.1, vol. I, p. 287.
 
@@ -697,9 +697,9 @@ The various species belonging to these five great faunae apparently succeed each
 
 (51) Sollas, 1900.1.
 
-(52) Penck, 1909.i, vol.III, pp. 1153-1176.
+(52) Penck, 1909.1, vol.III, pp. 1153-1176.
 
-(53) Geikie, 1914.i, p. 302.
+(53) Geikie, 1914.1, p. 302.
 
 (54) Reeds, 19 1 5. 1.
 
@@ -725,7 +725,7 @@ The various species belonging to these five great faunae apparently succeed each
 
 (65) Schuchardt, 1913.1, p. 144.
 
-(66) Obermaier, 1909.2; 1912. i.
+(66) Obermaier, 1909.2; 1912.1.
 
 (67) Schmidt, 1912. i, p. 266.
 
