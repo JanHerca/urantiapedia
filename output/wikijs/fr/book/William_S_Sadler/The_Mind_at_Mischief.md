@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p style="text-align:center;">ET</p>
 <p style="text-align:center;">MEYER SOLOMON, M.D.,<br>Associé en neurologie, Northwestern University Medical School</p>
 
-<p style="text-align:center;">FUNK \& WAGNALS COMPANY<br>NEW YORK ET LONDRES<br>COPYRIGHT, 1929, PAR<br>FUNK \& WAGNALLS COMPANY<br>[Imprimé aux États-Unis d'Amérique]<br>Première publication — septembre 1929<br>Deuxième impression, octobre 1929</p>
+<p style="text-align:center;">FUNK & WAGNALS COMPANY<br>NEW YORK ET LONDRES<br>COPYRIGHT, 1929, PAR<br>FUNK & WAGNALLS COMPANY<br>[Imprimé aux États-Unis d'Amérique]<br>Première publication — septembre 1929<br>Deuxième impression, octobre 1929</p>
 
 
 <p style="text-align:center;">Droits d'auteur en vertu des articles de la Convention sur le droit d'auteur des Républiques panaméricaines et des États-Unis, 11 août 1910.</p>

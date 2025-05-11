@@ -8,6 +8,30 @@ editor: markdown
 dateCreated: 2024-08-13T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction">
+          <span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <span id="pxiii">[<sup><small>p. xiii</small></sup>]</span>
 
 The call for a third edition of this volume has afforded me an opportunity not only to correct a number of minor errors in the illustrations and text, to which friendly reviewers and critics have called attention, but also to add an account of the Palaeolithic history of Spain and of the western region of northern Africa.
@@ -27,3 +51,28 @@ May 1st, 1918.
 
 
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction">
+          <span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

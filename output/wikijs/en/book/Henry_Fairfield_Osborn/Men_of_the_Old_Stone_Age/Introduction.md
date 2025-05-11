@@ -8,6 +8,30 @@ editor: markdown
 dateCreated: 2024-08-13T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface To The Third Edition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1">
+          <span class="pr-2">Chapter I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 GREEK CONCEPTIONS OF MAN’S ORIGIN — RISE OF ANTHROPOLOGY, OF ARCHAEOLOGY, OF THE GEOLOGIC HISTORY OF MAN — TIME DIVISIONS OF THE GLACIAL EPOCH — GEOGRAPHIC, CLIMATIC, AND LIFE PERIODS OF THE OLD STONE AGE
@@ -91,7 +115,7 @@ Darwin in the _Origin of Species_,^3^ which appeared in 1858, did not discuss th
 
 It appears that Lamarck's doctrine in the _Philosophic Zoologique_(1809)^4^ made a profound impression on the mind of Lyell, who was the first to treat the descent of man in a broad way from the standpoint of comparative anatomy and of geologic age. In his great work of 1863, _The Geological Evidences of the Antiquity of Man_, Lyell cited Huxley's estimate of the Neanderthal skull as more primitive than that of the Australian but of surprisingly large cranial capacity. He concludes with the notable statement; “The direct bearing of the ape-like character of the Neanderthal skull on Lamarck's doctrine of progressive development and transmutation . . . consists in this, that the newly observed deviation from a normal standard of human structure is not in a casual or random direction, but just what might have been anticipated if the laws of variation were such as the transmutationists require. For if we conceive the cranium to be very ancient, it exemplifies a less advanced stage of progressive development and improvement.”^5^
 
-Lyell followed this by an exhaustive review of all the then, existing evidence in favor of the great geological age of man, considering the ‘river-drift,’ the ‘loess,’ and the loam deposits, and the relations of man to the divisions of the Glacial Epoch. Referring to what is now knovm as the Lower Palseolithic of St. Acheul and the Upper Palaeolithic of xAurignac, he says that they were doubtless separated by a vast interval of time, when we consider that the flint implements of St. Acheul belong either to the Post-Pliocene or early Pleistocene time, or the ‘older drift.’
+Lyell followed this by an exhaustive review of all the then, existing evidence in favor of the great geological age of man, considering the ‘river-drift,’ the ‘loess,’ and the loam deposits, and the relations of man to the divisions of the Glacial Epoch. Referring to what is now knovm as the Lower Palaeolithic of St. Acheul and the Upper Palaeolithic of xAurignac, he says that they were doubtless separated by a vast interval of time, when we consider that the flint implements of St. Acheul belong either to the Post-Pliocene or early Pleistocene time, or the ‘older drift.’
 
 It is singular that in the _Descent of Man_, published in 1871,^6^ eight years after the appearance of Lyell’ s great work, Charles Darwin made only passing mention of the Neanderthal race, as follows: “Nevertheless, it must he admitted that some skulls of very high antiquity, such as the famous one at Neanderthal, are well-developed and capacious.” It was the relatively large brain capacity which turned Darwin's attention away from a type <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> which has furnished most powerful support to his theory of human descent. In the two hundred pages which Darwin devotes to the descent of man, he treats especially the evidences presented in comparative anatomy and comparative psychology, as well as the evidence afforded by the comparison of the lower and higher races of man. As regards the “birthplace and antiquity of man,”^7^ he observes:
 
@@ -275,11 +299,11 @@ These stages, at first regarded as single, have each been subdivided into three 
 
 <br style="clear:both;"/>
 
-A new impulse to the study of Palteolithic culture was given in 1895, when E. Riviere discovered examples of Palteolithic <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> mural art in the cavern of La Mouthe,^33^ thus confirming the original discovery, in 1880, by Marcelino de Sautuola of the wonderful ceiling frescoes of the cave of Altamira, northern Spain.^34^ This created the opportunity for the establishment by the Prince of Monaco of the _Institut de Paleontologie humaine_ in 1910, supporting the combined researches of the Upper Palaeolithic culture and art of France and Spain, by Cartailhac, Capitan, Rivière, Boule, Breuil, and Obermaier, and marking a new epoch in the brilliant history of the archaeology of France.
+A new impulse to the study of Palaeolithic culture was given in 1895, when E. Riviere discovered examples of Palaeolithic <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> mural art in the cavern of La Mouthe,^33^ thus confirming the original discovery, in 1880, by Marcelino de Sautuola of the wonderful ceiling frescoes of the cave of Altamira, northern Spain.^34^ This created the opportunity for the establishment by the Prince of Monaco of the _Institut de Paleontologie humaine_ in 1910, supporting the combined researches of the Upper Palaeolithic culture and art of France and Spain, by Cartailhac, Capitan, Rivière, Boule, Breuil, and Obermaier, and marking a new epoch in the brilliant history of the archaeology of France.
 
 It remained for the prehistory of the borders of the Danube, Rhine, and Neckar to be brought into harmony with that of France, and this has been accomplished with extraordinary precision and fulness through the labors of R. R. Schmidt, begun in 1906, and brought together in his invaluable work, _Die diluviale Vorzeit Deutschlands_.^35^
 
-To an earlier and longer epoch belongs the Prepalaeolithic or Eolithic stage. Beginning in 1867 with the supposed discovery by l’Abbe Bourgeois^36^ of a primordial or Prepalaeolithic stone culture, much observation and speculation has been devoted to the Eolithic^37^ era and the Eolithic industry, culminating in the complete chronological system of Rutot, as follows :
+To an earlier and longer epoch belongs the Prepalaeolithic or Eolithic stage. Beginning in 1867 with the supposed discovery by l’Abbé Bourgeois^36^ of a primordial or Prepalaeolithic stone culture, much observation and speculation has been devoted to the Eolithic^37^ era and the Eolithic industry, culminating in the complete chronological system of Rutot, as follows :
 
 LOWER QUATERNARY, OR PLEISTOCENE
 
@@ -609,7 +633,7 @@ The various species belonging to these five great faunae apparently succeed each
 
 (8) Retzius, A., 1864.1, p. 27.
 
-(9) Op, cit., p. 166.
+(9) Op. cit., p. 166.
 
 (10) Broca, 1875.1,
 
@@ -736,6 +760,34 @@ The various species belonging to these five great faunae apparently succeed each
 (70) Martins, 1847.1, pp. 941, 942.
 
 (71) Osborn, 1910.1, pp. 386-427.
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface To The Third Edition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1">
+          <span class="pr-2">Chapter I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<br>
 
 ## Footnotes
 

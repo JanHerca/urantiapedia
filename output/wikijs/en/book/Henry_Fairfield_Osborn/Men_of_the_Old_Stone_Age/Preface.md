@@ -8,6 +8,27 @@ editor: markdown
 dateCreated: 2024-08-13T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="pr-2">Preface To The Third Edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <span id="pvii">[<sup><small>p. vii</small></sup>]</span>
 
 This volume is the outcome of an ever memorablte tour through the country of the men of the Old Stone Age, guided by three of the distinguished archaeologists of France, to whom the work is gratefully dedicated. This Palaeolithic tour[^1] of three weeks, accompanied as it was by a constant flow of conversation and discussion, made a very profound impression, namely, of the very early evolution of the spirit of man, of the close relation bet'ween early human environment and industry and the development of mind, of the remote antiquity of the human powers of observation, of discovery, and of invention. It appears that men with faculties and powers like our own, but in the infancy of education and tradition, were living in this region of Europe at least 25,000 years ago. Back of these intelligent races were others, also of eastern origin but in earlier stages of mental development, all pointing to the very remote ancestry of man from earlier mental and physical stages.
@@ -22,7 +43,7 @@ The attempt to place this long chapter of prehistory on a historical basis has m
 
 This question is closely related to that of the antiquity of the oldest implements shaped by the human hand. Here again I have adopted an opinion opposed by some of the highest authorities, but supported by others, namely, that the earliest of these undoubted handiworks occur relatively late in the Pleistocene, namely, about 125,000 years ago. Since the Piltdown man was found in association with such implements, it is at once seen that the two questions hang together.
 
-This work represents the co-operation of many specialists on a single, very complex problem. I am not in any sense an archaeologist, and in this important and highly technical field I have relied cluefly upon the work of Hugo Obermaier and of Dechelette in the Lower Palaeolithic, and of Henri Breuil in the Upper Palaeolithic. Through the courtesy of Doctor Obermaier I had the privilege of watching the exploration of the wonderful grotto of Castillo, in northern Spain, which affords a unique and almost complete sequence of the industries of the entire Old Stone Age. This visit and that to the cavern of Altamira, with its wonderful frescoed ceiling, were in themselves a liberal education in the prehistory of man. With the Abbe Breuil I visited all the old camping stations of Upper Palaeolithic times in Dordogne and noted with wonder and admiration his detection of all the fime gradations of invention which separate the flint-makers of that period. With Professor Cartailhac I enjoyed a broad survey of the Lower <span id="px">[<sup><small>p. x</small></sup>]</span> and Upper Palaeolithic stations and caverns of the Pyrenees region and took note of his learned and spirited comments. Here also welfead the prixilege of being with the party who entered for the first time the cavern of Tuc d'Audoubert, with the Comte de Begouen and his sons.
+This work represents the co-operation of many specialists on a single, very complex problem. I am not in any sense an archaeologist, and in this important and highly technical field I have relied cluefly upon the work of Hugo Obermaier and of Dechelette in the Lower Palaeolithic, and of Henri Breuil in the Upper Palaeolithic. Through the courtesy of Doctor Obermaier I had the privilege of watching the exploration of the wonderful grotto of Castillo, in northern Spain, which affords a unique and almost complete sequence of the industries of the entire Old Stone Age. This visit and that to the cavern of Altamira, with its wonderful frescoed ceiling, were in themselves a liberal education in the prehistory of man. With the Abbé Breuil I visited all the old camping stations of Upper Palaeolithic times in Dordogne and noted with wonder and admiration his detection of all the fime gradations of invention which separate the flint-makers of that period. With Professor Cartailhac I enjoyed a broad survey of the Lower <span id="px">[<sup><small>p. x</small></sup>]</span> and Upper Palaeolithic stations and caverns of the Pyrenees region and took note of his learned and spirited comments. Here also welfead the prixilege of being with the party who entered for the first time the cavern of Tuc d'Audoubert, with the Comte de Begouen and his sons.
 
 In the American Museum I have been greatly aided by Mr. Nels C. Nelson, who has reviewed all the archaeological notes and greatly assisted me in the classification of the flint and bone implements which is adopted in this volume.
 
@@ -46,6 +67,31 @@ In sending forth the second edition I have been able to add the results of recen
 H. F. 0.
 
 December 20, 1915.
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="pr-2">Preface To The Third Edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<br>
 
 ## Footnotes
 
