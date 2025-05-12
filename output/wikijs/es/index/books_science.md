@@ -259,7 +259,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hombres de la antigua Edad de Piedra</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fairfield Osborn</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -383,7 +383,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">London: Seeley, Service & Co. Limited, 1915</text>
 							<text style="font-size:9px" x="61" y="60">El hombre</text>
 							<text style="font-size:9px" x="61" y="70">prehistórico</text>
-							<text style="font-size:9px" x="61" y="70">y su historia</text>
+							<text style="font-size:9px" x="61" y="80">y su historia</text>
 						</g>
 					</svg>
 				</div>

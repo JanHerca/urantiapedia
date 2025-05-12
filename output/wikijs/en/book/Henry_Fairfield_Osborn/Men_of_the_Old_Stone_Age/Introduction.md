@@ -179,7 +179,7 @@ In this manner Schwalbe^^ confirms Boule's estimates of the variations in the cu
 <figcaption>Fig. 2. — The skull and brain-case, showing the low, retreating forehead, prominent supraorbital ridges, and small brain capacity, of Pithecanthropus, the Java ape-man, as restored by J, H. McGregor. </figcaption>
 </figure>
 
-Neanderthal race — La Chapelle 1620 c.cm.
+Neanderthal race — La Chapelle 1620 c. cm.
 
 “ “ — Neanderthal 1408 “
 
@@ -187,7 +187,7 @@ Neanderthal race — La Chapelle 1620 c.cm.
 
 “ “ — Gibraltar 1296 “
 
-Thus the variations between the largest known brain in one member of the Neanderthal race, the male skull of La Chapelle, and the smallest brain of the same race, the supposed female skull of Gibraltar, is 324 c.cm., a range similar to that which we find in the existing species of man (_Homo sapiens_).
+Thus the variations between the largest known brain in one member of the Neanderthal race, the male skull of La Chapelle, and the smallest brain of the same race, the supposed female skull of Gibraltar, is 324 c. cm., a range similar to that which we find in the existing species of man (_Homo sapiens_).
 
 As another test for the classification of primitive skulls, we may select the well-known _frontal angle_ of Broca, as modified by Schwalbe, for measuring the retreating forehead. The angle is measured by drawing a line along the forehead upward from the bony ridge between the eyebrows, with a horizontal line carried from the glabella to the inion at the back of the skull. The various primitive races are arranged as follows:
 
@@ -243,7 +243,7 @@ Edouard Lartet, in 1860, began exploring the caverns of the Pyrenees and of Peri
 
 _(d)_ Age of the Aurochs or Bison.
 
-_(c)_ Age of the Woolly Mammoth and Rhinoceros.
+_\(c\)_ Age of the Woolly Mammoth and Rhinoceros.
 
 _(b)_ Age of the Reindeer.
 

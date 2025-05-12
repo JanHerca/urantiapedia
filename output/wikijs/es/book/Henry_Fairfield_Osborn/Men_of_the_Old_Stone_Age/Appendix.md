@@ -269,7 +269,7 @@ Por otro lado, Gerrit S. Miller, Jr.,[^9] a partir de un cuidadoso estudio compa
 
 <figure id="Figure_269" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_269.jpg">
-Fig. 269. — Sección geológica del valle del río Ouse en Piltdown, Inglaterra, que muestra los niveles fluviales anteriores (1, 2) y actuales (3). La cruz indica la ubicación de la cantera de Piltdown y el supuesto nivel anterior del río Ouse, que desde entonces ha excavado un profundo valle casi 30 metros por debajo del nivel que tenía cuando se depositó el cráneo de Piltdown. Dibujo de CA Reeds.
+<figcaption>Fig. 269. — Sección geológica del valle del río Ouse en Piltdown, Inglaterra, que muestra los niveles fluviales anteriores (1, 2) y actuales (3). La cruz indica la ubicación de la cantera de Piltdown y el supuesto nivel anterior del río Ouse, que desde entonces ha excavado un profundo valle casi 30 metros por debajo del nivel que tenía cuando se depositó el cráneo de Piltdown. Dibujo de CA Reeds.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -325,7 +325,7 @@ En el desarrollo del Capsiano mismo[^12] se observa que la industria iiv varía 
 
 <figure id="Figure_271" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_271.jpg">
-Fig. 271. — Mapas que muestran las supuestas rutas de migración a España de:<br>A. Industrias del Solutrense y Magdaleniense desde Francia.<br>B. Industria del Capsiense Tardío (Tardenoisiense) desde África. Según Obermaier.
+<figcaption>Fig. 271. — Mapas que muestran las supuestas rutas de migración a España de:<br>A. Industrias del Solutrense y Magdaleniense desde Francia.<br>B. Industria del Capsiense Tardío (Tardenoisiense) desde África. Según Obermaier.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -394,7 +394,7 @@ Se han reconocido ligeras infiltraciones del mismo arte en el norte de España, 
 
 <figure id="Figure_273" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_273.jpg">
-Fig. 273. — Detalle de los diseños del Paleolítico Tardío pintados en los laterales de dos nichos naturales en el abrigo rocoso de Alpera. Según Obermaier.
+<figcaption>Fig. 273. — Detalle de los diseños del Paleolítico Tardío pintados en los laterales de dos nichos naturales en el abrigo rocoso de Alpera. Según Obermaier.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -405,7 +405,7 @@ De igual interés es la explicación que este arte ofrece de los extraordinarios
 
 <figure id="Figure_274" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_274.jpg">
-Fig. 274. — Figuras de Piedra Escrita (ae) y del Cimbarillo de María Antonia (f), comparadas con un diseño presente en los guijarros pintados de Mas d'Azil, que muestra una progresiva convencionalización de la figura humana. Según Obermaier.
+<figcaption>Fig. 274. — Figuras de Piedra Escrita (ae) y del Cimbarillo de María Antonia (f), comparadas con un diseño presente en los guijarros pintados de Mas d'Azil, que muestra una progresiva convencionalización de la figura humana. Según Obermaier.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -418,7 +418,7 @@ En las siluetas capsias hay poca similitud con el arte naturalista de los croma�
 
 <figure id="Figure_275" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_275.jpg">
-Fig. 275. — Diversos tipos de arcos y flechas en las pinturas de la Cueva de la Vieja de Alpera. Según J. Cabré.
+<figcaption>Fig. 275. — Diversos tipos de arcos y flechas en las pinturas de la Cueva de la Vieja de Alpera. Según J. Cabré.</figcaption>
 </figure>
 
 <br style="clear:both;"/>

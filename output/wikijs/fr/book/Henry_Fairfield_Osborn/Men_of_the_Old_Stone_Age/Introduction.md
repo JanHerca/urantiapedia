@@ -179,7 +179,7 @@ De cette manière, Schwalbe^^ confirme les estimations de Boule sur les variatio
 <figcaption>Fig. 2. — Le crâne et la boîte crânienne, montrant le front bas et reculé, les crêtes supra-orbitaires proéminentes et la petite capacité cérébrale du Pithécanthrope, l'homme-singe de Java, tel que restauré par J, H. McGregor. </figcaption>
 </figure>
 
-Neanderthal race — La Chapelle 1620 c.cm.
+Neanderthal race — La Chapelle 1620 c. cm.
 
 « « — Néandertal 1408 »
 
@@ -243,7 +243,7 @@ En 1860, Édouard Lartet commença à explorer les cavernes des Pyrénées et du
 
 _(d)_ Âge des Aurochs ou Bisons.
 
-_(c)_ L'âge du mammouth laineux et du rhinocéros.
+_\(c\)_ L'âge du mammouth laineux et du rhinocéros.
 
 _(b)_ L'âge du renne.
 

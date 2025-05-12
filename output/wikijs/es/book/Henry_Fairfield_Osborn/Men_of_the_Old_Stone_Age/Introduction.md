@@ -159,7 +159,7 @@ Ancho del cráneo x 100 ÷ largo del cráneo.
 
 <figure id="Figure_001" class="image urantiapedia image-style-align-left">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_001.jpg">
-Fig. 1. — Contorno de un cráneo bradiencefálico moderno (puntos finos), superpuesto a un cráneo dolicocefálico (rayas), superpuesto a un cráneo de chimpancé (línea).<br>g. glabela o prominencia media entre las cejas.<br>i. inión: protuberancia occipital externa.<br>gi. Línea glabela-inión.<br>La línea vertical desde gi hasta la parte superior del cráneo indica la altura de la caja craneal. Modificado según Schwalbe.
+<figcaption>Fig. 1. — Contorno de un cráneo bradiencefálico moderno (puntos finos), superpuesto a un cráneo dolicocefálico (rayas), superpuesto a un cráneo de chimpancé (línea).<br>g. glabela o prominencia media entre las cejas.<br>i. inión: protuberancia occipital externa.<br>gi. Línea glabela-inión.<br>La línea vertical desde gi hasta la parte superior del cráneo indica la altura de la caja craneal. Modificado según Schwalbe.</figcaption>
 </figure>
 
 En este sentido, los hombres primitivos de la Edad de Piedra Antigua eran mayoritariamente dolicocéfalos, es decir, la anchura del cráneo era, en general, inferior al 75 % de la longitud, como en los australianos, cafres, zulúes, esquimales y fiyianos actuales. Sin embargo, algunas razas paleolíticas eran mesaticéfalas, es decir, la anchura oscilaba entre el 75 % y el 80 % de la longitud, como en los chinos y polinesios actuales. El tercer tipo, o braquicéfalo, es la excepción entre los cráneos paleolíticos, en el que la anchura supera el 80 % de la longitud, como en los malayos, birmanos, indígenas americanos y andamaneses.
@@ -179,7 +179,7 @@ De esta manera, Schwalbe^^ confirma las estimaciones de Boule sobre las variacio
 <figcaption>Fig. 2. — El cráneo y la caja craneana, que muestra la frente baja y retraída, las crestas supraorbitales prominentes y la pequeña capacidad cerebral, de Pithecanthropus, el hombre-mono de Java, según lo restaurado por J. H. McGregor. </figcaption>
 </figure>
 
-Raza neandertal — La Chapelle 1620 c.cm.
+Raza neandertal — La Chapelle 1620 c. cm.
 
 “ “ — Neandertal 1408 “
 
@@ -216,7 +216,7 @@ Francia, favorecida más que cualquier otro país por los hombres de la Edad de 
 
 <figure id="Figure_003" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_003.jpg">
-Fig. 3. — A. Un eolito de forma accidental. B. Un palteolitli de tipo chelliano, parcialmente tallado. C. Una cabeza de hacha neolítica, parcialmente pulida. Según MacCurdy.
+<figcaption>Fig. 3. — A. Un eolito de forma accidental. B. Un palteolitli de tipo chelliano, parcialmente tallado. C. Una cabeza de hacha neolítica, parcialmente pulida. Según MacCurdy.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -243,7 +243,7 @@ En 1860, Edouard Lartet comenzó a explorar las cavernas de los Pirineos y del P
 
 _(d)_ Edad del Uro o Bisonte.
 
-_(c)_ Edad del mamut lanudo y del rinoceronte.
+_\(c\)_ Edad del mamut lanudo y del rinoceronte.
 
 _(b)_ La edad del reno.
 
@@ -267,7 +267,7 @@ Poco después de la guerra franco-prusiana, Edouard Piette (n. 1827, f. 1906), q
 
 <figure id="Figure_004" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_004.jpg">
-Fig. 4. — Evolución de la punta de lanza, de dardo o de dardo. Obsérvese la creciente simetría y destreza en el descascarillado y el retoque a medida que los tipos pasan en orden ascendente por el Chelleano, el Achelense, el Musteriense y el Auriñaciense, hasta la perfeccionada, simétrica y de doble punta «hoja de laurel» del Solutrense; y hasta el posterior declive de la industria del sílex en las etapas Magdaleniense y Aziliense. Según de Mortillet, Obermaier y Hoernes.
+<figcaption>Fig. 4. — Evolución de la punta de lanza, de dardo o de dardo. Obsérvese la creciente simetría y destreza en el descascarillado y el retoque a medida que los tipos pasan en orden ascendente por el Chelleano, el Achelense, el Musteriense y el Auriñaciense, hasta la perfeccionada, simétrica y de doble punta «hoja de laurel» del Solutrense; y hasta el posterior declive de la industria del sílex en las etapas Magdaleniense y Aziliense. Según de Mortillet, Obermaier y Hoernes.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -341,7 +341,7 @@ El hombre emerge de la vasta historia geológica de la Tierra en el período con
 
 <figure id="Plate_2" clase="imagen urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Plate_2.jpg">
-<figcaption>Lámina II. Lámina II. «A lo largo de esta larga época, Europa occidental debe considerarse una península, rodeada por el mar y que se extiende hacia el oeste desde la gran masa continental de Europa Oriental y Asia, que fue el principal escenario de la evolución tanto de la vida animal como de la humana.» I—8. Yacimientos de descubrimiento de los especímenes tipo de las razas humana y prehumana.
+<figcaption>Lámina II. Lámina II. «A lo largo de esta larga época, Europa occidental debe considerarse una península, rodeada por el mar y que se extiende hacia el oeste desde la gran masa continental de Europa Oriental y Asia, que fue el principal escenario de la evolución tanto de la vida animal como de la humana.» I—8. Yacimientos de descubrimiento de los especímenes tipo de las razas humana y prehumana.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -408,7 +408,7 @@ En cuanto al origen de las arenas y gravas que componen las terrazas, sabemos qu
 
 <figure id="Figure_006" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_006.jpg">
-Fig. 6. Terrazas a ambos lados del valle del río Inn, Scharding, Austria, formadas por depósitos de arena y grava parcialmente cubiertos de loess. Según Bruckner.<br><em>Ib</em>. Depósitos fluviales muy anchos de la Primera Glaciación, en el primer nivel de erosión, cubiertos con el "Loess Superior" de la Segunda Etapa Interglaciar.<br><em>IIb</em>. Depósitos fluviales algo más estrechos de la Segunda Glaciación en el segundo nivel de erosión.<br><em>IIIb</em>. Terrazas fluviales aún más estrechas de la Tercera Glaciación en el tercer nivel de erosión, cubiertas con el "Loess Inferior" de la Tercera Etapa Interglaciar.<br><em>IVb</em>. Cuarta terraza o la más baja de la Cuarta Glaciación en el cuarto nivel de erosión.<br><em>Va</em>. Terrazas de erosión, Achen.<br><em>VIa</em>. Erosión post-Bühl. Loess. Loess superior del segundo interglaciar. Loess inferior del tercer interglaciar.
+<figcaption>Fig. 6. Terrazas a ambos lados del valle del río Inn, Scharding, Austria, formadas por depósitos de arena y grava parcialmente cubiertos de loess. Según Bruckner.<br><em>Ib</em>. Depósitos fluviales muy anchos de la Primera Glaciación, en el primer nivel de erosión, cubiertos con el "Loess Superior" de la Segunda Etapa Interglaciar.<br><em>IIb</em>. Depósitos fluviales algo más estrechos de la Segunda Glaciación en el segundo nivel de erosión.<br><em>IIIb</em>. Terrazas fluviales aún más estrechas de la Tercera Glaciación en el tercer nivel de erosión, cubiertas con el "Loess Inferior" de la Tercera Etapa Interglaciar.<br><em>IVb</em>. Cuarta terraza o la más baja de la Cuarta Glaciación en el cuarto nivel de erosión.<br><em>Va</em>. Terrazas de erosión, Achen.<br><em>VIa</em>. Erosión post-Bühl. Loess. Loess superior del segundo interglaciar. Loess inferior del tercer interglaciar.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -434,7 +434,7 @@ Sin duda, una inversión prehistórica similar ocurre en las «terrazas» del T�
 
 <figure id="Figure_008" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_008.jpg">
-Fig. 8. — Sección — Se indican cuatro terrazas en el valle del Támesis en Galley Hill, cerca de Londres. Lugar del descubrimiento del «Hombre de Galley Hill» en depósitos que cubren una de las terrazas altas. También se encuentra Gray's Thurrock, un depósito del Tercer Interglaciar que contiene mamíferos y pedernales de la era Chelleana. Un campamento típico del «hombre a la deriva». Dibujo del Dr. CA Reeds.
+<figcaption>Fig. 8. — Sección — Se indican cuatro terrazas en el valle del Támesis en Galley Hill, cerca de Londres. Lugar del descubrimiento del «Hombre de Galley Hill» en depósitos que cubren una de las terrazas altas. También se encuentra Gray's Thurrock, un depósito del Tercer Interglaciar que contiene mamíferos y pedernales de la era Chelleana. Un campamento típico del «hombre a la deriva». Dibujo del Dr. CA Reeds.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -451,7 +451,7 @@ Las etapas glaciares fueron generalmente épocas de humedad relativamente alta, 
 
 <figure id="Figure_009" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_009.jpg">
-Fig. 9. — Estación de loess magdaleniense de Aggsbach, en la Baja Austria. Una estación de acampada en cantera de tipo llanura abierta. Este típico depósito de loess postglacial contiene sílex del Magdaleniense temprano. Según Obermaier.
+<figcaption>Fig. 9. — Estación de loess magdaleniense de Aggsbach, en la Baja Austria. Una estación de acampada en cantera de tipo llanura abierta. Este típico depósito de loess postglacial contiene sílex del Magdaleniense temprano. Según Obermaier.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -466,7 +466,7 @@ En general, sin embargo, los ríos abiertos y las mesetas fueron abandonados, y 
 
 <figure id="Figure_010" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_010.jpg">
-Fig. 10. — Sección ideal del acantilado que cubre el río Düssel, cerca de Düsseldorf, que muestra el modo de formación de la famosa cueva neandertal, donde se descubrió el tipo original de la raza neandertal en 1856. Un lugar de recreo típico del «hombre de las cavernas». Según Lyell.<br>c. Entrada de aguas filtradas desde arriba.<br>/. Salida de la gruta.<br> ab. Interior de la caverna.
+<figcaption>Fig. 10. — Sección ideal del acantilado que cubre el río Düssel, cerca de Düsseldorf, que muestra el modo de formación de la famosa cueva neandertal, donde se descubrió el tipo original de la raza neandertal en 1856. Un lugar de recreo típico del «hombre de las cavernas». Según Lyell.<br>c. Entrada de aguas filtradas desde arriba.<br>/. Salida de la gruta.<br> ab. Interior de la caverna.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -475,7 +475,7 @@ Muchas cavernas se formaron, algunas de ellas a principios del Pleistoceno, por 
 
 <figure id="Figure_011" class="image urantiapedia image-style-align-left">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_011.jpg">
-Fig. 11. — Formación de la típica caverna de piedra caliza. Según Gaudiy. Sección vertical del acantilado de piedra caliza que muestra (S) las aguas que se filtran desde arriba; (AO) el interior de la caverna; y (G) la entrada a la gruta, salida original de las aguas de la caverna. Sección horizontal de la misma caverna que muestra (G) la entrada a la gruta y (A, G, O, B) las ramificaciones de la caverna.
+<figcaption>Fig. 11. — Formación de la típica caverna de piedra caliza. Según Gaudiy. Sección vertical del acantilado de piedra caliza que muestra (S) las aguas que se filtran desde arriba; (AO) el interior de la caverna; y (G) la entrada a la gruta, salida original de las aguas de la caverna. Sección horizontal de la misma caverna que muestra (G) la entrada a la gruta y (A, G, O, B) las ramificaciones de la caverna.</figcaption>
 </figure>
 
 Allí donde los glaciares o casquetes polares pasaban sobre las cumbres de las colinas, las corrientes subglaciales penetraban en la caliza de la montaña y formaban vastas cavernas, como la de Niaux, cerca del río Ariège. Aquí se formó una caverna casi horizontal, que se extendía media milla hacia el corazón de la montaña. El material con el que se cubren los suelos de las cavernas es una marga fina de cueva o el resto insoluble de la caliza, que forma una sustancia arcillosa marrón o gris. Los artistas magdalenienses realizaron dibujos sobre estas arcillas blandas y, en raras ocasiones, las utilizaron para modelar, como en el Tuc d'Audoubert. Las arenas y gravas también eran arrastradas desde los arroyos superiores y arrastradas por fuertes corrientes a lo largo de las superficies de las paredes, alisando y puliendo la caliza en preparación para las formas más avanzadas del dibujo y la pintura del Paleolítico Superior.
@@ -505,7 +505,7 @@ Las migraciones de mamíferos y de razas humanas hacia Europa occidental desde e
 
 <figure id="Figure_012" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_012.jpg">
-Fig. 12. — Europa en el período de máxima elevación continental, en el que las costas se extienden ampliamente, conectando África y Europa —incluyendo Gran Bretaña e Irlanda— en una sola y vasta península, y ofreciendo rutas de migración libres para las razas animales y humanas de norte a sur, así como de este a oeste. Los límites oceánicos son más remotos y los mares interiores tienen una superficie considerablemente reducida. Según Obermaier.
+<figcaption>Fig. 12. — Europa en el período de máxima elevación continental, en el que las costas se extienden ampliamente, conectando África y Europa —incluyendo Gran Bretaña e Irlanda— en una sola y vasta península, y ofreciendo rutas de migración libres para las razas animales y humanas de norte a sur, así como de este a oeste. Los límites oceánicos son más remotos y los mares interiores tienen una superficie considerablemente reducida. Según Obermaier.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -524,7 +524,7 @@ Penck^68^ estima la intensidad del frío y la humedad prevalecientes durante las
 
 <figure id="Figure_013" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_013.jpg">
-Fig. 13. — Sección ideal de la Tierra desde la Garganta Norte, a través de la meseta escandinava, el Mar del Norte, los Alpes suizos, los Pirineos y el Estrecho de Gibraltar, hasta la Cordillera del Atlas en el norte de África, a lo largo de la línea indicada en el mapa (Fig. 25, pág. 65), que ilustra el nivel del mar en el momento de mayor elevación del continente durante la Segunda Etapa Glacial, en comparación con el nivel actual; también las líneas sucesivas de descenso de la región de nieves perpetuas durante los cuatro grandes avances glaciales, en comparación con la línea de nieve actual. De estudios del Dr. CA Reeds.
+<figcaption>Fig. 13. — Sección ideal de la Tierra desde la Garganta Norte, a través de la meseta escandinava, el Mar del Norte, los Alpes suizos, los Pirineos y el Estrecho de Gibraltar, hasta la Cordillera del Atlas en el norte de África, a lo largo de la línea indicada en el mapa (Fig. 25, pág. 65), que ilustra el nivel del mar en el momento de mayor elevación del continente durante la Segunda Etapa Glacial, en comparación con el nivel actual; también las líneas sucesivas de descenso de la región de nieves perpetuas durante los cuatro grandes avances glaciales, en comparación con la línea de nieve actual. De estudios del Dr. CA Reeds.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -560,7 +560,7 @@ La evidencia combinada de todos estos grandes eventos en Europa occidental nos l
 
 <figure id="Figure_014" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_014.jpg">
-Fig. 14. — Grandes acontecimientos de la Época Glacial. A la izquierda, la relación entre las etapas glaciales e interglaciales en Europa y Norteamérica, con la teoría del autor sobre la división del tiempo, el inicio de la Edad de Piedra Antigua y la sucesiva aparición en Europa de diferentes ramas de la raza humana. A la derecha, el prolongado período templado-cálido en Europa, en las regiones no glaciadas, seguido del relativamente breve período frío de los últimos 70.000 años. Elaborado por el Dr. C. Ac Reeds, en colaboración con el autor.
+<figcaption>Fig. 14. — Grandes acontecimientos de la Época Glacial. A la izquierda, la relación entre las etapas glaciales e interglaciales en Europa y Norteamérica, con la teoría del autor sobre la división del tiempo, el inicio de la Edad de Piedra Antigua y la sucesiva aparición en Europa de diferentes ramas de la raza humana. A la derecha, el prolongado período templado-cálido en Europa, en las regiones no glaciadas, seguido del relativamente breve período frío de los últimos 70.000 años. Elaborado por el Dr. C. Ac Reeds, en colaboración con el autor.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -600,7 +600,7 @@ La zona templada del norte de Asia y Europa, con sus bosques resistentes y prade
 
 <figure id="Figure_015" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_015.jpg">
-Fig. 15. — Mapa zoogeográfico. Distribución de los grandes mamíferos de África y el sur de Asia desde el Plioceno y el Pleistoceno hasta casi el final del Paleolítico Inferior (líneas oblicuas). Distribución de la fauna de bosques y praderas de Europa y Asia desde principios del Pleistoceno hasta la prehistoria; fauna de ciervos y bisontes (líneas horizontales). Distribución actual de los mamíferos de la tundra o de tierras áridas (puntos) que se desplazaron hacia el sur durante la Cuarta Glaciación, expulsando a los grandes mamíferos asiáticos. Distribución actual de los mamíferos de los desiertos y estepas de Europa oriental y el sur de Asia, que también invadieron Europa occidental durante las etapas glacial y posglacial (líneas verticales). Los mamíferos alpinos habitaban las regiones de alta montaña e invadieron las llanuras y tierras bajas durante la Cuarta Glaciación y la Posglaciación.
+<figcaption>Fig. 15. — Mapa zoogeográfico. Distribución de los grandes mamíferos de África y el sur de Asia desde el Plioceno y el Pleistoceno hasta casi el final del Paleolítico Inferior (líneas oblicuas). Distribución de la fauna de bosques y praderas de Europa y Asia desde principios del Pleistoceno hasta la prehistoria; fauna de ciervos y bisontes (líneas horizontales). Distribución actual de los mamíferos de la tundra o de tierras áridas (puntos) que se desplazaron hacia el sur durante la Cuarta Glaciación, expulsando a los grandes mamíferos asiáticos. Distribución actual de los mamíferos de los desiertos y estepas de Europa oriental y el sur de Asia, que también invadieron Europa occidental durante las etapas glacial y posglacial (líneas verticales). Los mamíferos alpinos habitaban las regiones de alta montaña e invadieron las llanuras y tierras bajas durante la Cuarta Glaciación y la Posglaciación.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
