@@ -41,7 +41,7 @@ PALÉONTOLOGIE DES VERTÉBRÉS AU MUSÉE AMÉRICAIN D'HISTOIRE NATURELLE<br>
 <br> 
 LONDRES<br> 
 G. BELL AND SONS, Ltd.<br> 
-[1918](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_1918) 
+[1918](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_1918) 
 </p> 
 
 <p style="text-align:center;"> DÉDIÉ 
@@ -171,229 +171,288 @@ HUGO OBERMAIER<br>
 
 ## ILLUSTRATIONS
 
-- [Planche II](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_2). Sites de découverte des spécimens types des races humaines et préhumaines (_en couleur_) _face_ 19 
-- [Planche III](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_3). _Pithécanthrope_ l'homme-singe de Java 87 
-- [Planche IV](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_4). L'homme de Piltdown 145 
-- [Planche V](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_5). L'homme de Néandertal de La Chapelle-aux-Saints 203 
-- [Planche VI](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_6). Le « Vieil Homme de Crô-Magnon » 273 
-- [Planche VII](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_7). Artistes de Crô-Magnon dans la caverne de Font-de-Gaume (_en teinte_) _face_ 358 
-- [Planche VIII](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Planche_8). Bison peint par des artistes paléolithiques dans la caverne d'Altamira (_en couleur_) _face_ 414 
+- Planche I. Homme de Néandertal à la grotte du Moustier (_en teinte_) _Frontispice_
+- [Planche II](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Plate_2). Sites de découverte des spécimens types des races humaines et préhumaines (_en couleur_) _face_ 19
+- [Planche III](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Plate_3). _Pithécanthrope_, l'homme-singe de Java 87
+- [Planche IV](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Plate_4). L'homme de Piltdown 145
+- [Planche V](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Plate_5). L'homme de Néandertal de La Chapelle-aux-Saints 203
+- [Planche VI](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Plate_6). Le « Vieil Homme de Crô-Magnon » 273
+- [Planche VII](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Plate_7). Artistes de Crô-Magnon dans la caverne de Font-de-Gaume (_en teinte_) _face_ 358
+- [Planche VIII](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Plate_8). Bison peint par des artistes paléolithiques dans la caverne d'Altamira (en couleur), face à 414
+- [1](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_001). Comparaison de crânes modernes, pahéolithiques et de chimpanzés 8
+- [2](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_002). Crâne et cerveau du Pithécanthrope, l'homme-singe de Java 9
+- [3](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_003). Trois grands types d'outils en silex 11
+- [4](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_004). Évolution de la pointe de lance 15
+- [5](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_005). Carte — Stations types des cultures paléolithiques 16
+- [6](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_006). Section — Terrasses de l'auberge River Inn près de Scharding 25
+- [7](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_007). Coupe — Terrasses du Rhin en amont de Bâle
+- [8](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_008). Section — Terrasses de la Tamise près de Londres 28
+- [9](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_009). Station lœssique magdalénienne d'Aggsbach en Basse-Autriche 29
+- [10](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_010). Coupe du site de la grotte néandertalienne 31
+- [11](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_011). Coupes illustrant la formation d'une caverne calcaire typique 32
+- [12](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_012). Carte — L'Europe à l'époque de l'élévation continentale maximale 35
+- [13](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_013). Coupe montrant les limites des neiges et le niveau de la mer à l'époque glaciaire 37
+- [14](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_014). Tableau chronologique — Grands événements de l'époque glaciaire 41
+- [15](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_015). Carte zoogéographique 45
+- [16](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_016). Le gibbon 50
+- [17](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_017). L'orang-outan 51
+- [18](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_018). Le chimpanzé, marchant 52
+- [19](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_019). Le chimpanzé, ensablant 53
+- [20](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_020). Le gorille 55
+- [21](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_021). Coupes médianes des têtes d'un jeune gorille et d'un homme 56
+- [22](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_022). Vue latérale d'un cerveau humain de type 57 élevé
+- [23](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_023). Schémas de cerveaux humains et préhumains typiques (vue latérale) 58
+- [24](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_024). Schémas de cerveaux humains et préhumains typiques (vue de dessus) 59
+- [25](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_025). Carte — L'Europe durant la deuxième période glaciaire 65
+- [26](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_026). Le bœuf musqué 66
+- [27](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_027). Le cerf géant (_Megaceros_) 68
+- [28](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_028). Le tigre à dents de sabre (_Machaerodus_) 70
+- [29](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_029). Restauration du _Pithécanthrope_, l'homme-singe de Java 73
+- [30](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_030). Site de découverte du Pithécanthrope 74
+- [31](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_031). Coupe du volcan Lawoe et de la vallée de la rivière Solo 75
+- [32](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_032). Carte — Rivière Solo et site de découverte du Pithécanthrope 75
+- [33](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_033). Section du site de découverte du _Pithécanthrope_ 76
+- [34](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_034). Crâne de Pithécanthrope, vues de dessus et de profil 77
+- [35](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_035). Tête de chimpanzé, vues de face et de profil 78
+- [36](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_036). Restauration du crâne de _Pithécanthrope_, vue latérale 79
+- [37](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_037). Restauration du crâne de _Pithécanthrope_, trois vues 80
+- [38](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_038). _Pithécanthrope_, l'homme-singe de Java, vue de côté 81
+- [39](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_039). _Pithécanthrope_, l'homme-singe de Java, vue de face 82
+- [40](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_040). Vue latérale d'un cerveau humain de type 83 élevé
+- [41](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_041). Schémas de cerveaux humains et préhumains, vues de côté et de dessus 84
+- [42](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_042). L'hippopotame et le mammouth du sud 92
+- [43](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_043). Le rhinocéros de Merck et l'éléphant aux défenses droites 93
+- [44](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_044). Carte — Répartition géographique du rhinocéros de Merck, de l'hippopotame et de l'éléphant à défenses droites 94
+- [45](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_045). Coupe du site de découverte de Heidelberg 96
+- [46](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_046). La sablière de Mauer, site de la découverte de l'homme de Heidelberg 97
+- [47](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_047). La mâchoire de Heidelberg 98
+- [48](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_048). Mâchoires d'un Esquimau, d'un orang-outan et d'Heidelberg (vue latérale) 99
+- [49](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_049). Mâchoires d'un Esquimau, d'un orang-outan et d'Heidelberg (vue de dessus) 100
+- [50](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_050). Restauration de l'Homme de Heidelberg 101
+- [51](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_051). Carte — L'Europe durant la troisième période glaciaire 105
+- [52](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_052). Tableau chronologique du dernier tiers de l'époque glaciaire 108
+- [53](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_053). Carte — Stations pré-chelléennes et chelléennes 109
+- [54](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_054). Carte — L'Europe durant la troisième période glaciaire 110
+- [55](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_055). Fouilles à Chelles-sur-Marne 111
+- [56](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_056). Carte — L'Europe occidentale durant la troisième période interglaciaire 116
+- [57](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_057). Trois terrasses sur le fleuve Connecticut 120
+- [58](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_058). Pour nos formes du coup de poing chelléen 121
+- [59](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_059). Coupe — Terrasses sur la Somme à Saint-Acheul 122
+- [60](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_060). Palgéolithes très primitifs de Piltdown 127
+- [61](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_061). Coups de poing pré-chelléens de Saint-Acheul, 12e siècle
+- [62](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_062). Grattoir ou outil à raboter pré-chelléen de Saint-Acheul 129
+- [63](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_063). Site de découverte du crâne de Piltdown -131
+- [64](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_064). Section 133 du site de découverte de Piltdown
+- [65](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_065). Silex primitif travaillé trouvé près du crâne de Piltdown 134
+- [66](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_066). Éolithes découverts sur le site de Piltdown ou à proximité 135
+- [67](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_067). Crâne de Piltdown et crâne de Bushman sud-africain 136
+- [68](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_068). Restauration du crâne de Piltdown, trois vues 137
+- [69](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_069). Coupe du crâne de Piltdown, montrant le cerveau 140
+- [70](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_070). Schémas cérébraux de l'homme de Piltdown, d'un chimpanzé et de l'homme moderne, comparés 140
+- [71](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_071). L'homme de Piltdown, vue de côté 142
+- [72](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_072). L'homme de Piltdown, vue de face 143
+- [73](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_073). Carte — Stations pré-chelléennes et chelléennes 140
+- [74](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_074). Coupe — Terrasses moyennes et hautes de la Somme à Saint-Acheul 150
+- [75](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_075). Fouilles sur la haute terrasse de Saint-Acheul 151
+- [76](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_076). Petits outils chelléens 153
+- [77](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_077). Carte — Stations paléolithiques d'Allemagne 160
+- [78](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_078). Entrée de la grotte du Castillo 163
+- [79](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_079). Coupe — couches archéologiques de la grotte de Castillo 164
+- [80](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_080). Carte — Stations acheuléennes 167
+- [81](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_081). Station acheuléenne récente de La Micoque en Dordogne 16S
+- [82](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_082). Méthode de taillage du silex 169
+- [83](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_083). Méthode de « tailler » le silex 170
+- [84](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_084). La fracture du silex 171
+- [85](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_085). Grands outils acheuléens 173
+- [86](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_086). Carte — Vallées de la Dordogne et de la Garonne 175
+- [87](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_087). La vallée de la Vézère 176
+- [88](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_088). Outils acheuléens, grands et petits 178
+- [89](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_089). Un éclat Levallois 179
+- [90](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_090). La grotte de Krapina 181
+- [91](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_091). Coupe — Vallée de la rivière Krapinica et grotte de Krapina 182
+- [92](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_092). Section — La grotte de Krapina 183
+- [93](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/2#Figure_093). Crâne de Krapina, vue de côté 184
+- [94](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_094). Carte — L'Europe durant la quatrième période glaciaire 189
+- [95](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_095). Le rhinocéros laineux et le mammouth laineux 190
+- [96](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_096). Faune typique de la toundra 193
+- [97](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_097). Alap — Stations paléolithiques d'Allemagne 195
+- [98](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_098). La station type du Moustier 197
+- [99](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_099). Fouilles au Moustier 198
+- [100](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_100). La grotte aloustérienne de Wildkirchli 200
+- [101](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_101). Entrée de la grotte de Sirgenstein 20i
+- [102](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_102). Le mammouth laineux et ses chasseurs 208
+- [103](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_103). Le rhinocéros laineux 210
+- [104](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_104). Carte — Répartition des Pré-Néandertaliens et des Néandertaliens 214
+- [105](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_105). Le crâne de Gibraltar, vue de face 215
+- [106](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_106). Coupe du site de découverte néandertalien 216
+- [107](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_107). Crâne de Néandertal, vue de profil 217
+- [108](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_108). Le crâne connu sous le nom d'Espion I, vue de côté 220
+- [109](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_109). Site de découverte de La Chapelle-aux-Saints 222
+- [110](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_110). Entrée de la grotte de La Chapelle-aux-Saints 223
+- [111](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_111). Le crâne de La Chapelle-aux-Saints, trois vues 224
+- [112](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_112). Dents humaines de type néandertalien de La Cotte de Saint-Brélade 225
+- [113](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_113). Crânes de chimpanzé, de La Chapelle-aux-Saints et d'un Français moderne, vue de côté 227
+- [114](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_114). Contours du crâne de Gibraltar et d'un crâne australien moderne 22S
+- [115](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_115). Crâne de La Chapelle-aux-Saints comparé à un crâne de type moderne, vue de profil 230
+- [116](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_116). Crânes de chimpanzé, de La Chapelle-aux-Saints et d'un Français moderne, vue de dessus 231
+- [117](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_117). Diagramme comparant onze races d'hommes fossiles et vivants 233
+- [118](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_118). Coupe du crâne de La Chapelle-aux-Saints, montrant le cerveau 235
+- [119](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_119). Comparaison des schémas cérébraux de La Chapelle-aux-Saints, d'un chimpanzé et de l'homme moderne 235
+- [120](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_120). Cerveaux des races du Paléolithique inférieur et du Paléolithique du Cuivre, vues de dessus et de côté 236
+- [121](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_121). Squelette de La Chapelle-aux-Saints 238
+- [122](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_122). Os de la cuisse des races Trinil, Néandertalienne, Crô-Magnon et modernes 240
+- [123](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_123). L'homme de Néandertal de La Chapelle-aux-Saints, vue de profil 242
+- [124](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_124). L'homme de Néandertal de La Chapelle-aux-Saints, vue de face 243
+- [125](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_125). Carte — Stations moustériennes 245
+- [126](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_126). La grotte moustérienne de Hornos de la Peña 246
+- [127](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_127). Vue depuis la grotte de Hornos de la Peña 247
+- [128](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_128). « Pointes » moustériennes typiques du Moustier 250
+- [129](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_129). Pointes et grattoirs moustériens 251
+- [130](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/3#Figure_130). Outils du Moustérien récent 255
+- [131](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_131). Entrée de la Grotte du Prince près de Menton 262
+- [132](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_132). Coupe de la Grotte des Enfants 263
+- [133](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_133). Les squelettes des Grimaldi 267
+- [134](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_134). Crâne du jeune Grimaldi, vues de face et de profil 268
+- [135](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_135). Carte — Répartition des fossiles humains du Paléolithique supérieur 270
+- [136](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_136). Tableau chronologique du dernier tiers de l'Époque glaciaire 280
+- [137](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_137). « Tectiformes » de Font-de-Gaume 283
+- [138](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_138). Carte — Répartition du renne, du mammouth et du rhinocéros laineux 285
+- [130](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_130). Coupe de la grotte d'Aurignac 290
+- [140](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_140). Coupe de la grotte de Crô-Magnon 291
+- [141](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_141). Crâne de type Crô-Magnon provenant de la Grotte des Enfants 292
+- [142](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_142). Tête montrant la méthode de restauration utilisée par JH McGregor 293
+- [143](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_143). L'abri sous roche de Laugerie Haute, Dordogne 206
+- [144](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_144). Squelette de La Chapelle-aux-Saints et squelette de type Crô-Magnon de la Grotte des Enfants, comparés 297
+- [145](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_145). Coupes de tibias normaux et platycnémiques 29S
+- [146](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_146). Le « Vieil Homme de Crô-Magnon », vue de profil 300
+- [147](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_147). Le « Vieil Homme de Crô-Magnon », vue de face 301
+- [148](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_148). Comparaison des schémas cérébraux de Combe-Capelle, d'un chimpanzé et de l'homme moderne 303
+- [149](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_149). Évolution du burin, de l'Aurignacien ancien au Solutréen supérieur 307
+- [150](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_150). Grattoirs aurignaciens typiques 309
+- [151](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_151). Évolution de la « pointe » aurignacienne 311
+- [152](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_152). Prototypes de la « pointe en feuille de laurier » solutréenne 312
+- [153](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_153). Carte — Stations aurignaciennes 314
+- [154](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_154). Vue depuis la caverne de Pindal 315
+- [155](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_155). Mammouth peint dans la caverne de Pindal 316
+- [156](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_156). Peintures animales primitives de Font-de-Gaume 318
+- [157](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_157). Rhinocéros laineux peint dans la grotte de Font-de-Gaume 319
+- [158](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_158). Figurine féminine sculptée provenant des grottes de Grimaldi 321
+- [159](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_159). Figurine féminine en calcaire de Willendorf 322
+- [160](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_160). Figurine féminine en stéatite provenant des grottes de Grimaldi 323
+- [161](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_161). Gravures superposées de rhinocéros et de mammouth, extraites du Trilobite 324
+- [162](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_162). Silhouettes de mains de Gargas 325
+- [163](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_163). L'abri sous roche de Laussel sur la Beune 326
+- [164](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_164). Coupe des couches industrielles de Laussel 327
+- [165](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_165). Bas-relief d'une femme de Laussel 328
+- [166](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_166). Bas-relief d'un homme de Laussel 329
+- [167](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_167). Carte — Stations solutréennes 331
+- [168](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_168). Le crâne connu sous le nom de Brünn Ier, découvert à Brünn, en Moravie, en 335
+- [169](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_169). Solulrcan « pointes de laurier » 339
+- [170](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_170). La station type de Solutré 342
+- [171](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_171). Fouilles à Solutré 343
+- [172](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_172). Outils solutréens typiques 346
+- [173](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/4#Figure_173). Mammouth sculpté sur ivoire, de Predmost, Moravie 349
+- [174](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_174). Bison gravé et peint de Niaux 353
+- [175](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_175). Sagaies ou pointes de javelot décorées en os 354
+- [176](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_176). Tête de cheval gravée sur un fragment d'os, de Brassempouy 355
+- [177](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_177). Peinture d'un loup, Font-de-Gaume 356
+- [178](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_178). Sculpture grossière d'un bouquetin, Mas d'Azil 357
+- [179](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_179). Bâtons de commandement décorés 350
+- [180](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_180). Tableau chronologique du dernier tiers de l'époque glaciaire 362
+- [181](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_181). Renne gravé et peint de Font-de-Gaume 365
+- [182](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_182). Quatre types de chevaux fréquents au Paléolithique supérieur 367
+- [183](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_183). Cheval de type celtique, peint au plafond d'Altamira 363
+- [184](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_184). Quatre têtes de chamois gravées sur une corne de renne, Gourdan 369
+- [185](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_185). Faune alpine typique 371
+- [186](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_186). Faune typique des steppes 374
+- [187](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_187). Lagopède ou tétras sculpté dans un os, Mas d'Azil 375
+- [188](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_188). L'abri sous roche de Laugerie Basse, Donlogne 377
+- [189](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_189). Crânes humains découpés en bols, Placard 370
+- [190](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_190). Crânes d'homme et de femme de type Crô-Magnon, d'Obercassel 381
+- [191](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_191). La gare type de La Madeleine 383
+- [192](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_192). Outils en silex magdaléniens 386
+- [103](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_103). Harpons en os magdaléniens 387
+- [194](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_194). Lames de silex magdaléniennes à bord denticulé 390
+- [195](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_195). Aiguilles en os de Lacave 391
+- [196](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_196). Carte — Stations d'art paléolithique de la Dordogne, des Pyrénées et des monts Cantabriques 394
+- [197](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_197). Gravures primitives du mammouth de Combarelles 397
+- [198](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_198). Gravure préliminaire d'un mammouth peint de Font-de-Gaume 397
+- [199](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_199). Mammouth chargeant, gravé sur ivoire, La Madeleine 398
+- [200](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_200). Grotesques humains de Marboulas, Aitamira et Combarelles 399
+- [201](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_201). Entrée de la grotte des Combarelles, Dordogne 400
+- [202](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_202). Ours des cavernes gravé, de C'ombarelles 401
+- [203](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_203). Lampe en pierre magdalénienne, de La Alouthe 401
+- [204](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_204). Entrée de la caverne de La Pasiega 402
+- [205](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_205). Bison gravé de Marsoulas 403
+- [206](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_206). Troupeau de chevaux gravé sur une dalle de pierre, Chaffaud 404
+- [207](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_207). Troupeau de rennes gravé sur un rayon d'aigle, de La Mairie 405
+- [208](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_208). Cerf et saumon gravés sur un bois de cerf, Lorthet 406
+- [209](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_209). Lionne et chevaux gravés, de Font-de-Gaume 407
+- [210](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_210). Cheval peint de type celtique, de Castillo 408
+- [211](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_211). Cheval au galop, de type steppique, de Font-de-Gaume 408
+- [212](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_212). Entrée de la grotte de Niaux 40Q
+- [213](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_213). Cheval gravé au lourd pelage d'hiver, de Niaux 410
+- [214](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_214). Le professeur Émile Cartailhac à l'entrée du Portel 41 1
+- [215](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_215). Cheval et renne gravés, La Mairie 412
+- [216](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_216). Renne, ours des cavernes et deux chevaux gravés, de La Mairie 413
+- [217](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_217). Bœuf sauvage gravé, La Mairie 413
+- [218](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_218). Esquisse préliminaire gravée d'un bison de Font-de-Gaume 414
+- [219](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_219). Entrée de la caverne de Font-de-Gaume 415
+- [220](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_220). Plan de la caverne de Font-de-Gaume 416
+- [221](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_221). Passage étroit dit « Rubicon », Font-de-Gaume 417
+- [222](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_222). Plan montrant des rennes et un cortège de bisons, Font-de-Gaume 419
+- [223](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_223). Plan montrant la gravure et la peinture préliminaires du cortège de mammouths, superposées à des dessins de bisons, de rennes et de chevaux 420
+- [224](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_224). Exemple de superposition de peintures, Font-de-Gaume 421
+- [225](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_225). Entrée de la caverne d'Altamira 422
+- [226](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_226). Plan des peintures du plafond d'Altamira 423
+- [227](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_227). Le plafond d'Altamira 424
+- [228](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_228). Peinture d'une bisonne couchée, d'Altamira 425
+- [229](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_229). Cerf royal gravé au plafond d'Altamira 426
+- [230](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_230). Statuette de mammouth sculptée en corne de renne, Bruniquel 427
+- [231](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_231). Entrée de la caverne du Tuc d'Audoubert 428
+- [232](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_232). Tête de renne gravée du Tuc d'Audoubert 429
+- [233](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_233). Deux bisons, un mâle et une femelle, modelés en argile, provenant du Tuc d'Audoubert 430
+- [234](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_234). Cheval sculpté en haut-relief, Cap Blanc 431
+- [235](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_235). Tête de cheval sculptée sur un bois de renne, Mas d'Azil 432
+- [236](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_236). Statuette de cheval sculptée en ivoire, provenant des Espelugues 432
+- [237](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_237). Tête de femme sculptée en ivoire, de Brassempouy 433
+- [238](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_238). Carte — Stations magdaléniennes 435
+- [239](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_239). Collier de coquillages marins, de Crô-Magnon 437
+- [240](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_240). Carte — Stations paléolithiques d'Allemagne 439
+- [241](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_241). Renne gravé autour d'un morceau de bois de renne, Kesslerloch 441
+- [242](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_242). Entrée de la grotte de Kesslerloch 444
+- [243](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_243). L'abri sous roche de Schweizersbild 445
+- [244](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_244). La station de loess ouvert d'Aggsbach 448
+- [245](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/5#Figure_245). Antilope saïga sculptée sur un lanceur de fléchettes en os, Mas d'Azil 440
+- [246](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_246). Entrée ouest de la caverne du Mas d'Azil 460
+- [247](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_247). Harpons aziliens en corne de cerf 462
+- [248](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_248). Galets aziliens colorés 464
+- [249](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_249). Silex tardenoisiens 467
+- [250](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_250). Carte — Stations aziliennes-tardenoisiennes 471
+- [251](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_251). Outils en pierre aziliens 473
+- [252](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_252). Harpons aziliens à deux rangs en corne de cerf, d'Oban 474
+- [253](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_253). Section — Couches archéologiques dans la grotte d'Ofnet 476
+- [254](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_254). Nid funéraire composé de six crânes, provenant de la grotte d'Ofnet 477
+- [255](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_255). Crânes brachycéphales et dolichocéphales d'Ofnet 478
+- [256](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_256). Crâne à tête large de Grenelle 482
+- [257](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_257). Entrée de la grotte de Furfooz sur la Lesse 482
+- [258](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_258). Coupe de la grotte de Furfooz 483
+- [259](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_259). Un des crânes types de la race Furfooz 483
+- [260](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_260). Reconstitution de l'homme de Grenelle 484
+- [261](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_261). Outils et décorations de Maglemose 487
+- [262](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_262). Ascendance des races prénéolithiques 491
+- [263](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_263). Étapes de la fabrication de la hache de pierre néolithique 493
+- [264](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_264). Hache de pierre de Campigny 494
+- [265](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_265). Pic à pierre de Campigny 494
+- [266](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_266). Restauration de l'homme néolithique de Spiennes 493
+- [267](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_267). Chasse au cerf, peinture de l'abri sous roche d'Alpera 497
+- [268](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#Figure_268). Carte — Répartition des types d'hommes contemporains en Europe occidentale 499
+- [269](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_269). Coupe transversale du site de Piltdown 513
+- [270](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_270). Carte — Stations paléolithiques anciennes et capsiennes d'Espagne et du nord-ouest de l'Afrique 515
+- [271](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_271). Cartes — Routes de migration industrielle vers l'Espagne 517
+- [272](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_272). Carte — Stations paléolithiques d'Espagne et du Portugal 519
+- [273](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_273). Peintures du Paléolithique tardif à Alpera – figures humaines 523
+- [274](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_274). Conventionnalisation progressive de la figure humaine 524
+- [275](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#Figure_275). Arcs et flèches représentés dans les peintures d'Alpera 525
 
-[1](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_001). Crânes modernes, pahéolithiques et de chimpanzés comparés 8 
-[2](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_002). Crâne et cerveau de _Pithécanthrope_, l'homme-singe de Java 9 
-[3](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_003). Trois grands types d'outils en silex 11 
-[4](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_004). Évolution de la pointe de lance 15 
-[5](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_005). Carte — Stations types des cultures paléolithiques 16 
-[6](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_006). Coupe — Terrasses de l'Inn près de Scharding 25 
-[7](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_007). Coupe — Terrasses du Rhin en amont de Bâle 
-[8](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_008). Coupe — Terrasses de la Tamise près de Londres 28 
-[9](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_009). Station lœssique magdalénienne d'Aggsbach en Basse-Autriche 29 
-[10](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_010). Coupe du site de la grotte néandertalienne 31 
-[11](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_011). Coupes montrant la formation de la caverne calcaire typique 32 
-[12](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_012). Carte — L'Europe à l'époque de l'élévation continentale maximale 35 
-[13](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_013). Coupe montrant les limites des neiges et le niveau de la mer à l'époque glaciaire 37
-[15](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_015). Carte zoogéographique 45 
-[18](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_018). Le chimpanzé, marchant 52 
-[19](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_019). Le chimpanzé, ensablant 53 
-[20](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_020). Le gorille 55 
-[21](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_021). Coupes médianes des têtes d'un jeune gorille et d'un homme 56 
-[22](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_022). Vue de profil d'un cerveau humain de type élevé 57 
-[23](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_023). Contours de cerveaux humains et préhumains typiques (vue de profil) 58 
-[24](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_024). Contours de cerveaux humains et préhumains typiques (vue de dessus) 59 
-[25](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_025). Carte — L'Europe pendant la deuxième période glaciaire 65 
-[26](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_026). Le bœuf musqué 66 
-[27](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_027). Le cerf géant (_Megaceros_) 68 
-[28](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_028). Le tigre à dents de sabre (_Machaerodus_) 70 
-[29](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_029). Restauration de _Pithecanthropus_, l'homme-singe de Java 73 
-[30](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_030). Site de découverte de _Pithecanthropus_ 74 
-[31](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_031). Coupe du volcan de Lawoe et de la vallée de la rivière Solo 75 
-[32](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_032). Carte — Rivière Solo et site de découverte de _Pithecanthropus_ 75 
-[33](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_033). Coupe du site de découverte de _Pithecanthropus_ 76 
-[34](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_034). Sommet du crâne de _Pithecanthropus_, vues de dessus et de côté 77 
-[35](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_035). Tête de chimpanzé, vues de face et de côté 78 
-[36](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_036). Restauration du crâne de _Pithécanthrope_, vue latérale 79 
-[37](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_037). Restauration du crâne de _Pithécanthrope_, trois vues 80 
-[38](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_038). _Pithécanthrope_, l'homme-singe de Java, vue latérale 81
-[39](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_039). _Pithécanthrope_, l'homme-singe de Java, vue de face 82 
-[40](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_040). Vue latérale d'un cerveau humain de type élevé 83 
-[41](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_041). Contours de cerveaux humains et préhumains, vues latérale et de dessus 84 
-[42](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_042). L'hippopotame et le mammouth du sud 92 
-[43](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_043). Le rhinocéros de Merck et l'éléphant à défenses droites 93 
-[44](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_044). Carte — Répartition géographique du rhinocéros de Merck, de l'hippopotame et de l'éléphant à défenses droites 94 
-[45](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_045). Coupe du site de découverte de Heidelberg 96 
-[46](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_046). La sablière de Mauer, lieu de découverte de l'homme de Heidelberg 97 
-[47](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_047). La mâchoire de Heidelberg 98 
-[48](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_048). Mâchoires d'un Esquimau, d'un orang-outan et de Heidelberg (vue latérale) 99 
-[49](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_049). Mâchoires d'un Esquimau, d'un orang-outan et de Heidelberg (vue de dessus) 100 
-[50](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_050). Restauration de l'homme de Heidelberg 101 
-[51](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_051). Carte — L'Europe pendant la troisième période glaciaire 105 
-[52](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_052). Tableau chronologique du dernier tiers de l'époque glaciaire 108 
-[53](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_053). Carte — Stations pré-chelléennes et chelléennes 109 
-[54](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_054). Carte — L'Europe pendant le troisième étage glaciaire 110 
-[55](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_055). Fouilles à Chelles-sur-Marne 111 
-[56](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_056). Carte — L'Europe occidentale pendant le troisième étage interglaciaire 116 
-[57](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_057). Trois terrasses sur le fleuve Connecticut 120 
-[58](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_058). Nos formes du coup de poing chelléen 121 
-[59](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_059). Coupe — Terrasses sur la Somme à Saint-Acheul 122
-[82](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_082). Méthode de « taillage » du silex 169 
-[85](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_085). Grands outils acheuléens 173 
-[86](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_086). Carte — Vallées de la Dordogne et de la Garonne 175 
-[87](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_087). La vallée de la Vézère 176 
-[88](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_088). Outils acheuléens, grands et petits 178 
-[89](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_089). Un éclat Levallois 179 
-[90](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_090). La grotte de Krapina 181 
-[91](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_091). Coupe — Vallée de la rivière Krapinica et grotte de Krapina 182 
-[92](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_092). Coupe — La grotte de Krapina 183 
-[93](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_093). Crâne de Krapina, vue de côté 184 
-[94](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_094). Carte — L'Europe pendant la quatrième période glaciaire 189 
-[95](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_095). Le rhinocéros laineux et le mammouth laineux 190 
-[96](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_096). Faune typique de la toundra 193 
-[97](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_097). Alap — Stations paléolithiques d'Allemagne 195 
-[98](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_098). La station type du Moustier 197 
-[99](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_099). Fouilles au Moustier 198 
-[100](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_100). La grotte aloustérienne de Wildkirchli 200 
-[101](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_101). Entrée de la grotte de Sirgenstein 20i 
-[102](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_102). Le mammouth laineux et ses chasseurs 208 
-[103](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_103). Le rhinocéros laineux 210 
-[104](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_104). Carte — Répartition des pré-Néandertaliens et des Néandertaliens 214 
-[105](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_105). Le crâne de Gibraltar, vue de face 215 
-[106](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_106). Coupe du site de découverte néandertalien 216
-[107](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_107). Le crâne de Néandertal, vue de côté 217 
-[109](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_109). Site de découverte de La Chapelle-aux-Saints 222 
-[110](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_110). Entrée de la grotte de La Chapelle-aux-Saints 223 
-[111](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_111). Le crâne de La Chapelle-aux-Saints, trois vues 224 
-[112](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_112). Dents humaines de type néandertalien de La Cotte de St. Brelade 225 
-[113](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_113). Crânes de chimpanzé, de La Chapelle-aux-Saints et d'un Français moderne, vue de côté 227 
-[114](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_114). Contours du crâne de Gibraltar et d'un crâne australien moderne 22S 
-[115](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_115). Crâne de La Chapelle-aux-Saints comparé à un crâne de type moderne élevé, vue de côté 230 
-[116](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_116). Crânes d'un chimpanzé, de La Chapelle-aux-Saints et d'un Français moderne, vue de dessus 231 
-[117](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_117). Diagramme comparant onze races d'hommes fossiles et vivants 233 
-[118](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_118). Coupe du crâne de La Chaplle-aux-Saints, montrant le cerveau 235 
-[119](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_119). Contours du cerveau de La Chaplle-aux-Saints, d'un chimpanzé et de l'homme moderne, comparés 235 
-[120](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_120). Cerveaux de races du Paléolithique inférieur et du Paléolithique du Cuivre, vues de dessus et de côté 236 
-[121](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_121). Squelette de La Chapelle-aux-Saints 238 
-[122](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_122). Os de la cuisse des races Trinil, Néandertalienne, Crô-Magnon et modernes 240 
-[123](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_123). L'Homme de Néandertal de La Chapelle-aux-Saints, vue de profil 242 
-[124](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_124). L'Homme de Néandertal de La Chapelle-aux-Saints, vue de face 243 
-[125](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_125). Carte — Stations moustériennes 245 
-[127](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_127). Vue depuis la grotte des Hornos de la Peña 247
-[129](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_129). Pointes et grattoirs moustériens 251 
-[130](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_130). Outils du Moustérien récent 255 
-[131](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_131). Entrée de la Grotte du Prince près de Menton 262 
-[132](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_132). Coupe de la Grotte des Enfants 263 
-[133](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_133). Les squelettes des Grimaldi 267 
-[134](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_134). Crâne du jeune Grimaldi, vues de face et de profil 268 
-[135](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_135). Carte — Répartition des fossiles humains du Paléolithique supérieur 270 
-[136](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_136). Tableau chronologique du dernier tiers de l'époque glaciaire 280 
-[137](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_137). 'Tectiformes' de Font-de-Gaume 283 
-[138](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_138). Carte — Répartition du renne, du mammouth et du rhinocéros laineux 285 
-[130](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_130). Coupe de la grotte d'Aurignac 290 
-[140](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_140). Coupe de la grotte de Crô-Magnon 291 
-[141](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_141). Crâne de type Crô-Magnon provenant de la grotte des Enfants 292 
-[142](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_142). Tête montrant la méthode de restauration utilisée par JH McGregor 293 
-[143](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_143). Français L'abri sous roche de Laugerie Haute, Dordogne 206 
-[144](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_144). Squelette de La Chapelle-aux-Saints et squelette de type Crô-Magnon de la Grotte des Enfants, comparés 297 
-[145](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_145). Coupes de tibias normaux et platycnémiques 29S 
-[146](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_146). Le « Vieux de Crô-Magnon », vue de profil 300 
-[147](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_147). Le « Vieux de Crô-Magnon », vue de face 301 
-[150](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_150). Grattoirs aurignaciens typiques 309 
-[151](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_151). Évolution de la « pointe » aurignacienne 311
-[152](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_152). Prototypes de la « pointe en feuille de laurier » solutréenne 312 
-[153](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_153). Carte — Stations aurignaciennes 314 
-[154](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_154). Vue depuis la caverne de Pindal 315 
-[155](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_155). Mammouth peint dans la grotte de Pindal 316 
-[156](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_156). Peintures primitives d'animaux de Font-de-Gaume 318 
-[157](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_157). Rhinocéros laineux peint dans la grotte de Font-de-Gaume 319 
-[158](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_158). Figurine féminine sculptée des grottes de Grimaldi 321 
-[159](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_159). Figurine féminine en calcaire de Willendorf 322 
-[160](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_160). Figurine féminine en stéatite des grottes de Grimaldi 323 
-[161](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_161). Gravures superposées de rhinocéros et de mammouth du Trilobite 324 
-[162](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_162). Silhouettes de mains de Gargas 325 
-[163](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_163). L'abri sous roche de Laussel sur la Beune 326 
-[164](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_164). Coupe des couches industrielles de Laussel 327 
-[165](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_165). Bas-relief d'une femme de Laussel 328 
-[166](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_166). Bas-relief d'un homme de Laussel 329 
-[167](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_167). Carte — Stations solutréennes 331 
-[168](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_168). Le crâne connu sous le nom de Brünn I, découvert à Brünn, en Moravie 335 
-[170](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_170). La station type de Solutré 342 
-[171](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_171). Fouilles à Solutré 343 
-[194](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_194). Lames de silex magdaléniennes à bord denticulé 390 
-[195](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_195). Aiguilles en os de Lacave 391
-[196](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_196). Carte — Stations d'art paléolithique de la Dordogne, des Pyrénées et des monts Cantabriques 394 
-[197](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_197). Gravures primitives du mammouth de Combarelles 397 
-[198](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_198). Gravure préliminaire du mammouth peint de Font-de-Gaume 397 
-[199](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_199). Mammouth chargeant gravé sur ivoire, de La Madeleine 398 
-[200](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_200). Grotesques humains de Marboulas, Aitamira et Combarelles 399 
-[201](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_201). Entrée de la caverne de Combarelles, Dordogne 400 
-[202](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_202). Ours des cavernes gravé, de C'ombarelles 401 
-[203](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_203). Lampe en pierre magdalénienne, de La Alouthe 401 
-[204](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_204). Entrée de la caverne de La Pasiega 402 
-[205](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_205). Bison gravé de Marsoulas 403 
-[206](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_206). Troupeau de chevaux gravé sur une dalle de pierre, de Chaffaud 404 
-[207](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_207). Troupeau de rennes gravé sur un radius d'aigle, de La Mairie 405 
-[208](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_208). Cerf et saumon gravés sur un bois, de Lorthet 406 
-[209](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_209). Lionne et chevaux gravés, de Font-de-Gaume 407 
-[210](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_210). Cheval peint de type celtique, de Castillo 408 
-[211](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_211). Cheval au galop de type steppique, de Font-de-Gaume 408 
-[213](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_213). Cheval gravé au lourd pelage d'hiver, de Niaux 410 
-[214](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_214). Le professeur Émile Cartailhac à l'entrée du Portel 41 1 
-[215](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_215). Cheval et renne gravés, de La Mairie 412 
-[216](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_216). Renne gravé, ours des cavernes et deux chevaux, de La Mairie 413
-[217](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_217). Bœuf sauvage gravé, de La Mairie 413 
-[218](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_218). Contour préliminaire gravé d'un bison de Font-de-Gaume 414 
-[219](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_219). Entrée de la caverne de Font-de-Gaume 415 
-[220](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_220). Plan de la caverne de Font-de-Gaume 416 
-[221](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_221). Passage étroit dit « Rubicon », Font-de-Gaume 417 
-[222](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_222). Plan montrant des rennes et un cortège de bisons, Font-de-Gaume 419 
-[223](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_223). Plan montrant la gravure et la peinture préliminaires du cortège de mammouths, superposées à des dessins de bisons, de rennes et de chevaux 420 
-[224](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_224). Exemple de superposition de peintures, de Font-de-Gaume 421 
-[225](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_225). Entrée de la caverne d'Altamira 422 
-[226](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_226). Plan des peintures du plafond d'Altamira 423 
-[227](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_227). Plafond d'Altamira 424 
-[228](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_228). Peinture d'une bisonne couchée, d'Altamira 425 
-[229](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_229). Cerf royal gravé sur le plafond d'Altamira 426 
-[230](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_230). Statuette de mammouth sculptée en corne de renne, provenant de Bruniquel 427 
-[231](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_231). Entrée de la caverne du Tuc d'Audoubert 428 
-[232](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_232). Tête de renne gravée provenant du Tuc d'Audoubert 429 
-[234](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_234). Cheval sculpté en haut-relief, provenant du Cap Blanc 431 
-[235](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_235). Tête de cheval sculptée sur un bois de renne, provenant du Mas d'Azil 432 
-[236](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_236). Statuette de cheval sculptée en ivoire, provenant des Espelugues 432 
-[237](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_237). Tête de femme sculptée en ivoire, provenant de Brassempouy 433
-[238](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_238). Carte — Stations magdaléniennes 435 
-[239](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_239). Collier de coquillages marins, de Crô-Magnon 437 
-[240](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_240). Carte — Stations paléolithiques d'Allemagne 439 
-[241](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_241). Renne gravé autour d'un morceau de bois de renne, de Kesslerloch 441 
-[242](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_242). Entrée de la grotte de Kesslerloch 444 
-[243](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_243). L'abri sous roche de Schweizersbild 445 
-[244](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_244). La station de loess ouverte d'Aggsbach 448 
-[245](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_245). Antilope saïga sculptée sur un lanceur de fléchettes en os, du Mas d'Azil 440 
-[246](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_246). Entrée ouest de la caverne du Mas d'Azil 460 
-[247](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_247). Harpons aziliens en corne de cerf 462 
-[248](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_248). Galets coloriés aziliens 464 
-[249](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_249). Silex tardenoisiens 467 
-[250](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_250). Carte — Stations aziliennes-tardenoisiennes 471 
-[251](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_251). Outils en pierre aziliens 473 
-[252](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_252). Harpons aziliens à double rangée en corne de cerf, provenant d'Oban 474 
-[253](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_253). Coupe — Couches archéologiques de la grotte d'Ofnet 476 
-[254](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_254). Nid funéraire de six crânes, provenant de la grotte d'Ofnet 477 
-[256](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_256). Crâne à tête large de Grenelle 482 
-[258](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_258). Coupe de la grotte de Furfooz 483 
-[259](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_259). Un des crânes types de la race Furfooz 483 
-[260](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_260). Restauration de l'homme de Grenelle 484 
-[261](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_261). Outils et décorations de Maglemose 487
-[262](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_262). Ascendance des races pré-néolithiques 491 
-[263](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_263). Étapes de la fabrication de la hache de pierre néolithique 493 
-[264](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_264). Hache de pierre de Campigny 494 
-[265](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_265). Pic à pierre de Campigny 494 
-[266](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_266). Reconstitution de l'homme néolithique de Spiennes 493 
-[267](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_267). Chasse au cerf, peinture de l'abri sous roche d'Alpera 497 
-[268](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_268). Carte — Répartition des types d'hommes récents en Europe occidentale 499 
-[269](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_269). Coupe transversale du site de Piltdown 513 
-[270](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_270). Carte — Stations paléolithiques anciennes et capsiennes d'Espagne et du nord-ouest de l'Afrique 515 
-[271](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_271). Cartes — Routes de migration industrielle vers l'Espagne 517 
-[272](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_272). Carte — Stations paléolithiques d'Espagne et du Portugal 519 
-[273](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_273). Peintures du Paléolithique tardif d'Alpera : figures humaines 523 
-[274](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_274). Conventionnalisation progressive de la figure humaine 524 
-[275](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_275). Arcs et flèches représentés dans les peintures d'Alpera 525. 
-
-Carte du circuit paléolithique (pliée à la fin du volume).
+Carte du circuit paléolithique (pliée à la fin du volume)
