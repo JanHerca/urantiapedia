@@ -453,26 +453,26 @@ Les silhouettes capsiennes présentent peu de similitudes avec l'art naturaliste
 
 [^1]: Lucrèce, _De la nature des choses_, version métrique par J, M. Good. Bohn's Classical Library, Londres, 1890.
 
-[^2] : Bossuet, Jacques Benigne, _Discours sur l'Histoire universelle_ (publié pour la première fois en 1681), pp. 9, 10. Edition conforme ^ celle de 1700, troisième et demie Edition revue par Tauteur. Paris, Librairie de Firmin Didot Frères, 1845.
+[^2]: Bossuet, Jacques Benigne, _Discours sur l'Histoire universelle_ (publié pour la première fois en 1681), pp. 9, 10. Edition conforme ^ celle de 1700, troisième et demie Edition revue par Tauteur. Paris, Librairie de Firmin Didot Frères, 1845.
 
 [^3]: _Les Satires, Épîtres et Art Poétique d'Horace_, le texte latin avec la traduction de Conington, pp. 29, 31. George Bell & Sons, Londres, 1904.
 
 [^4]: Esculape, Prométhée enchaîné. Elizabeth Barrett Browning. _Oeuvres poétiques d'Elisabeth Barrett Browning_, pp. 148, 149- Édition d'Oxford, 1906. Henry Frowde, Londres, Édimbourg, Glasgow, New York et Toronto.
 
-[^5] : Kobeit, W., _Die Verbreikmg der Tierwelt_, pp. GH Tauchnitz, Leipzig, 1902.
+[^5]: Kobeit, W., _Die Verbreikmg der Tierwelt_, pp. GH Tauchnitz, Leipzig, 1902.
 
 [^6]: Abercromby, Hon. John, _La poterie préhistorique des îles Canaries et ses fabricants_. Royal Anthropological Institute, 17 novembre 1914. Nature^ 3 décembre 1914, p. 353.
 
-[^7] : * Verneau, Dr R., _Cinq années de séjour aux liens Canaries_. (Ouvrage couronne par TAcademie des sciences, 1891.)
+[^7]: Verneau, Dr R., _Cinq années de séjour aux liens Canaries_. (Ouvrage couronne par TAcademie des sciences, 1891.)
 
-[^8]: *B unbury, E, H. _Histoire de la géographie ancienne_, volume I, pp. John Murray, Londres, 1879.
+[^8]: Bunbury, E. H. _Histoire de la géographie ancienne_, volume I, pp. John Murray, Londres, 1879.
 
 [^9]: Miller, Gerrit S., Jr., _La mâchoire de l'homme de Piltdown_, Smitlisonian Institution, Washington, 24 novembre 1915.
 
-[^10] : J. de Morgan, L. Capitan et P. Boudy, « Stations préhistoriques du sud Tunisien », _Rev. Ecole d'Anthr._, 1910, pp. 105-136, 206-221, 267-286, 335-347 ; 1911, p. 217-228.
+[^10]: J. de Morgan, L. Capitan et P. Boudy, « Stations préhistoriques du sud Tunisien », _Rev. Ecole d'Anthr._, 1910, pp. 105-136, 206-221, 267-286, 335-347 ; 1911, p. 217-228.
 
-[^11] : Obermaier, Hugo, _El Hombre fósil_, 1916, p. 203.
+[^11]: Obermaier, Hugo, _El Hombre fósil_, 1916, p. 203.
 
-[^12] : Obermaier, Hugo, _El Hombre fósil_, 1916, pp. 346, 347.
+[^12]: Obermaier, Hugo, _El Hombre fósil_, 1916, pp. 346, 347.
 
-[^13] : Obermaier, Hugo, _El Hombre fósil_, 1916.
+[^13]: Obermaier, Hugo, _El Hombre fósil_, 1916.

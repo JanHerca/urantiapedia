@@ -41,7 +41,7 @@ PALEONTOLOGV IN THE AMERICAN MUSEUM OF NATURAL HISTORY<br>
 <br>
 LONDON<br>
 G. BELL AND SONS, Ltd.<br>
-[1918](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age#Figure_1918)
+[1918]
 </p>
 
 <p style="text-align:center;">
@@ -188,12 +188,12 @@ HUGO OBERMAIER<br>
 - [7](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_007). Section—Terraces of the River Rhine above Basle it
 - [8](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_008). Section—Terraces of the River Thames near London 28
 - [9](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_009). Magdalenian loess station of Aggsbach in Lower Austria 29
-- [10](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_010). Section of the site of the Neanderthal cave 31
-- [11](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_011). Sections showing the formation of the typical limestone cavern 32
-- [12](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_012). Map—Europe in the period of maximum continental elevation 35
-- [13](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_013). Section showing snow-lines and sea-Ievels of the Glacial Epoch 37
-- [14](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_014). Chronological chart—Great events of the Glacial Epoch 41
-- [15](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Ag/Introduction#Figure_015). Zoogeographic map 45
+- [10](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_010). Section of the site of the Neanderthal cave 31
+- [11](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_011). Sections showing the formation of the typical limestone cavern 32
+- [12](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_012). Map—Europe in the period of maximum continental elevation 35
+- [13](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_013). Section showing snow-lines and sea-Ievels of the Glacial Epoch 37
+- [14](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_014). Chronological chart—Great events of the Glacial Epoch 41
+- [15](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Introduction#Figure_015). Zoogeographic map 45
 - [16](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_016). The gibbon 50
 - [17](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_017). The orang 51
 - [18](/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#Figure_018). The chimpanzee, walking 52
