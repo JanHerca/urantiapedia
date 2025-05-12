@@ -41,7 +41,7 @@ PALÉONTOLOGIE DES VERTÉBRÉS AU MUSÉE AMÉRICAIN D'HISTOIRE NATURELLE<br>
 <br> 
 LONDRES<br> 
 G. BELL AND SONS, Ltd.<br> 
-[1918](/fr/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_1918) 
+[1918]
 </p> 
 
 <p style="text-align:center;"> DÉDIÉ 

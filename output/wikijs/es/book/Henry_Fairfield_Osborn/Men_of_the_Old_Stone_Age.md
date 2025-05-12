@@ -16,8 +16,9 @@ dateCreated: 2024-07-21T14:02:03.086Z
 		<text style="font-size:5px;" x="61" y="22">Henry Fairfield Osborn</text>
 		<text style="font-size:4px;" x="61" y="125">G. Bell and Sons, Ltd.</text>
 		<text style="font-size:4px;" x="61" y="130">London, 1918</text>
-		<text style="font-size:9px;" x="61" y="60">Hombres de la Antigua</text>
-		<text style="font-size:9px;" x="61" y="70">Edad de Piedra</text>
+		<text style="font-size:9px;" x="61" y="60">Hombres de la</text>
+		<text style="font-size:9px;" x="61" y="70">Antigua Edad</text>
+		<text style="font-size:9px;" x="61" y="80">de Piedra</text>
 	</g>
 </svg>
 </div>
@@ -41,7 +42,7 @@ PALEONTOLOGÍA DE VERTEBRADOS EN EL MUSEO AMERICANO DE HISTORIA NATURAL<br>
 <br> 
 LONDRES<br> 
 G. BELL AND SONS, Ltd.<br> 
-[1918](/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Figure_1918) 
+[1918]
 </p> 
 
 <p style="text-align:centro;"> 
@@ -74,7 +75,7 @@ HUGO OBERMAIER<br>
 	- [La primera glaciación](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p64) 
 	- [La primera etapa interglacial](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p66) 
 	- [Fauna del Pleistoceno Temprano](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p69) 
-	- [El Trinil raza](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p73) 
+	- [La raza Trinil](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p73) 
 	- [Eolitos, o pedernales primitivos](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p84) 
 	- [La segunda glaciación](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p86) 
 	- [La segunda etapa interglacial](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/1#p90) 
@@ -156,7 +157,7 @@ HUGO OBERMAIER<br>
 	- [Fauna neolítica](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#p498) 
 	- [Historia prehistórica y razas históricas de Europa](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#p499) 
 	- [Conclusiones](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/6#p501) 
-- [APÉNDICE](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Apéndice) 
+- [APÉNDICE](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix) 
 	- [I. Lucrecio y Bossuet sobre la evolución temprana del hombre](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#p503) 
 	- [II. Horacio sobre la evolución temprana del hombre](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#p504) 
 	- [III. Esquilo sobre la evolución temprana del hombre](/es/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Appendix#p505) 

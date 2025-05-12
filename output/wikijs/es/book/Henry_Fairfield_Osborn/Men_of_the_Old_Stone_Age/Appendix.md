@@ -358,7 +358,7 @@ Sería prematuro decir qué tipos de hombres desarrollaban estas industrias en e
 
 IMPORTANTES YACIMIENTOS PALEOLÍTICOS EN ESPAÑA Y PORTUGAL
 
-<figure id="Tabla_8" clase="imagen urantiapedia image-style-align-center">
+<figure id="Tabla_8" class="imagen urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Tabla_8.jpg">
 </figure>
 

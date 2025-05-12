@@ -339,9 +339,9 @@ SUCESIÓN DE INDUSTRIAS Y CULTURAS HUMANAS[^11]
 
 El hombre emerge de la vasta historia geológica de la Tierra en el período conocido como Pleistoceno, o Glacial, y Postglacial, el «Diluvio» de los geólogos más antiguos. Los hombres de la Antigua Edad de Piedra en Europa occidental son conocidos ahora desde la segunda mitad de la Edad Glacial hasta el final de la Edad Postglacial, cuando la Antigua Edad de Piedra, con su maravilloso entorno de vida mamífera y humana, llega a su fin gradual, y la Nueva Edad de Piedra comienza con el clima y las bellezas naturales de los bosques, praderas y Alpes de Europa tal como eran antes de que la civilización económica los asolara.
 
-<figure id="Plate_2" clase="imagen urantiapedia image-style-align-center">
+<figure id="Plate_2" class="imagen urantiapedia image-style-align-center">
 <img src="/image/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Plate_2.jpg">
-<figcaption>Lámina II. Lámina II. «A lo largo de esta larga época, Europa occidental debe considerarse una península, rodeada por el mar y que se extiende hacia el oeste desde la gran masa continental de Europa Oriental y Asia, que fue el principal escenario de la evolución tanto de la vida animal como de la humana.» I—8. Yacimientos de descubrimiento de los especímenes tipo de las razas humana y prehumana.</figcaption>
+<figcaption>Lámina II. «A lo largo de esta larga época, Europa occidental debe considerarse una península, rodeada por el mar y que se extiende hacia el oeste desde la gran masa continental de Europa Oriental y Asia, que fue el principal escenario de la evolución tanto de la vida animal como de la humana.» I—8. Yacimientos de descubrimiento de los especímenes tipo de las razas humana y prehumana.</figcaption>
 </figure>
 
 <br style="clear:both;"/>
