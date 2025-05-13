@@ -53,7 +53,7 @@ Todo el contenido que lista a continuación está disponible en _Urantiapedia_ e
 
 <div class="urantiapedia-table-wrapper">
 
-Editor /<br>Publicación | Articles
+Editor /<br>Publicación | Artículos
 --- | ---:
 **La Fundación Urantia**<br>\- [News Online](/es/index/articles_uf_news_online)<br>\- [News Flash](/es/index/articles_uf_newsflash)<br>\- [Urantian](/es/index/articles_uf_urantian) | &nbsp;<br>640<br>24<br>63
 **Fellowship**<br>\- [Fellowship Herald](/es/index/articles_herald)<br>\- [Mighty Messenger](/es/index/articles_mighty_messenger)<br>\- [Study Group Herald](/es/index/articles_study_group_herald)<br>\- [The Urantian](/es/index/articles_the_urantian) | &nbsp;<br>263<br>218<br>129<br>264
@@ -241,56 +241,56 @@ Aquí mostramos algunos ejemplos de páginas creadas en el sitio web:
 
 <figure id="img_1" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_01.jpg">
-<figcaption><em>Figure 1. Página principal del sitio</em> [<a href="https://urantiapedia.org">Enlace</a>]</figcaption>
+<figcaption><em>Figura 1. Página principal del sitio</em> [<a href="https://urantiapedia.org">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_2" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_02.jpg">
-<figcaption><em>Figure 2. Un documento de El Libro de Urantia (con enlaces a tópicos, artículos y libros)</em> [<a href="/es/The_Urantia_Book/1">Enlace</a>]</figcaption>
+<figcaption><em>Figura 2. Un documento de El Libro de Urantia (con enlaces a tópicos, artículos y libros)</em> [<a href="/es/The_Urantia_Book/1">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_3" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_03.jpg">
-<figcaption><em>Figure 3. Página principal de la Hemeroteca</em> [<a href="/es/article">Enlace</a>]</figcaption>
+<figcaption><em>Figura 3. Página principal de la Hemeroteca</em> [<a href="/es/article">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_4" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_04.jpg">
-<figcaption><em>Figure 4. Índice de publicaciones de la Hemeroteca</em> [<a href="/es/index/articles">Enlace</a>]</figcaption>
+<figcaption><em>Figura 4. Índice de publicaciones de la Hemeroteca</em> [<a href="/es/index/articles">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_5" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_05.jpg">
-<figcaption><em>Figure 5. Página principal de la Biblioteca</em> [<a href="/es/book">Enlace</a>]</figcaption>
+<figcaption><em>Figura 5. Página principal de la Biblioteca</em> [<a href="/es/book">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_6" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_06.jpg">
-<figcaption><em>Figure 6. Índice de estantes de la Biblioteca</em> [<a href="/es/index/books">Enlace</a>]</figcaption>
+<figcaption><em>Figura 6. Índice de estantes de la Biblioteca</em> [<a href="/es/index/books">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_7" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_07.jpg">
-<figcaption><em>Figure 7. Página principal de la Enciclopedia</em> [<a href="/es/topic">Enlace</a>]</figcaption>
+<figcaption><em>Figura 7. Página principal de la Enciclopedia</em> [<a href="/es/topic">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="img_8" class="image urantiapedia image-style-align-center">
 <img src="/image/up_screen_08.jpg">
-<figcaption><em>Figure 8. Índice de entradas en la Enciclopedia</em> [<a href="/es/index/topics">Enlace</a>]</figcaption>
+<figcaption><em>Figura 8. Índice de entradas en la Enciclopedia</em> [<a href="/es/index/topics">Enlace</a>]</figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -363,7 +363,7 @@ Hemos podido comprobar durante estos dos años que el tipo de contenido de _Uran
 
 En _Urantiapedia_ estamos haciendo un esfuerzo por convertir las publicaciones de PDF a formato Web por un motivo de importancia. El formato PDF, en primer lugar, es un formato propietario. La empresa que creó el formato ha abierto su uso a través de la organización [ISO](https://www.iso.org/standard/51502.html) para tratar de afianzarlo como si fuera un estándar, pero no lo es. Este formato genera dependencias tecnológicas que no deseamos en el proyecto. Además, su contenido no es «legible por humanos» y no permite ser usado con facilidad en [«sistemas de control de versiones»](https://es.wikipedia.org/wiki/Control_de_versiones). Por si fuera poco, tiene una profunda limitación: no puede utilizarse con comodidad en smartphones. Es un formato pensado para una era de documentación en papel, donde imprimir el mismo contenido en diferentes modelos de impresoras era lo esencial. Actualmente, la mayor parte del contenido de Internet se consume a través del smartphone, como se puede ver en las estadísticas anteriores. Los usuarios con smartphones (Android e iOS) triplican a los usuarios que usan el PC. Y en la actualidad, en muchos países la preferencia de lectura en dispositivos electrónicos se acerca a la de lectura en papel o incluso la supera.
 
-Por estas razones, la conversión de PDF a formato Web es un trabajo que consideramos esencial en _Urantiapedia_. Si queremos mantener un archivo de publicaciones relacionadas con _El Libro de Urantia_ que esté destinado a perdurar en el tiempo y resulte útil para los lectores, es imperativo acudir a lenguajes de marcas estándar, creados por organizaciones no comerciales, que permitan un control del versionado y sean compatibles con smartphones. Esto es fácilmente obtenible con [HTML](https://es.wikipedia.org/wiki/HTML) y [Markdown](https://es.wikipedia.org/wiki/Markdown), lo cual justifica que el 95% del proyecto esté formato por archivos en cualquiera de estos dos formatos. Este también es el motivo de que hayamos incluido una extensa referencia en la [ayuda de Urantiapedia sobre el formato Markdown](/es/help/markdown), que es nuestro formato preferido.
+Por estas razones, la conversión de PDF a formato Web es un trabajo que consideramos esencial en _Urantiapedia_. Si queremos mantener un archivo de publicaciones relacionadas con _El Libro de Urantia_ que esté destinado a perdurar en el tiempo y resulte útil para los lectores, es imperativo acudir a lenguajes de marcas estándar, creados por organizaciones no comerciales, que permitan un control del versionado y sean compatibles con smartphones. Esto es fácilmente obtenible con [HTML](https://es.wikipedia.org/wiki/HTML) y [Markdown](https://es.wikipedia.org/wiki/Markdown), lo cual justifica que el 95% del proyecto esté constituido por archivos en cualquiera de estos dos formatos. Este también es el motivo de que hayamos incluido una extensa referencia en la [ayuda de Urantiapedia sobre el formato Markdown](/es/help/markdown), que es nuestro formato preferido.
 
 Una de las tareas que realizamos durante la conversión de PDF a formato Web es que tratamos de uniformar el estilo de los contenidos para facilitar a los lectores identificar elementos. Por ejemplo, los encabezados, las citas, las listas o las tablas sencillas, todos ahora siguen un mismo estilo para que resulten más identificables. Incluso hemos adaptado las fórmulas matemáticas, sencillos diagramas de flujo y las notas al pie todo cuanto hemos podido. El objetivo ha sido obtener un contenido más mantenible en el tiempo. Para adaptar estos contenidos a veces tenemos que usar otros formatos estándar como [LaTeX](https://es.wikipedia.org/wiki/LaTeX), [SVG](https://es.wikipedia.org/wiki/Gráficos_vectoriales_escalables), o [Mermaid](https://www.mermaidchart.com/), lo cual complica aún más los procesos.
 
