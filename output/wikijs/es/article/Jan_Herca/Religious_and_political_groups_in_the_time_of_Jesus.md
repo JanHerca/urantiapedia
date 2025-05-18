@@ -142,8 +142,6 @@ Su jornada habitual constaba de una oración matutina mirando hacia el sol, una 
 <figcaption>Juan el Bautista fue nazareo (en la imagen, interpretado por Michael York).</figcaption>
 </figure>
 
-<br style="clear:both;"/>
-
 Los nazareos constituyen una pequeña hermandad de hombres y mujeres consagrados a Dios. Eran tenidos en muchísimo respeto porque solamente ellos podían tener acceso al santo de los santos en el templo, junto al sumo sacerdote.
 
 Vivían en pequeñas comunidades donde se tenía todo en común. Para ingresar a la orden había que realizar unos votos vitalicios: abstenerse de toda bebida alcohólica, ni de ningún fruto de la vid, aunque no estuviera fermentado; debían dejar crecer libremente su pelo; no se acercaban a lugares donde hubieran estado muertos ni tocaban a ningún muerto ni nada que hubiera estado en contacto con un muerto. Se consideraba en aquella época que eran estas tres cosas las que provocaban una impureza que impedía estar completamente puro en la presencia de Dios.
@@ -161,6 +159,8 @@ Las colonias donde se reunían era auténticos centros del saber. Eran hombres q
 Eran muy poco numerosos. Las poco más de cinco colonias que habría significaban unos 300 nazareos (_Bereshit Rabbá_ 91:3).
 
 La ley del nazareato viene descrita en [Números 6](/es/Bible/Numbers/6).
+
+<br style="clear:both;"/>
 
 ### Las comunidades proféticas
 
@@ -211,7 +211,7 @@ Jesús, durante su vida, como se desprende de los evangelios ([Mc 3:6](/es/Bible
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Religious_and_political_groups_in_the_time_of_Jesus/herodians.jpg">
-<figcaption>Herodes Antipas con su familia en su cumpleaños (El baile de Salomé, Andrea Marchisio, <a href="https://commons.wikimedia.org/wiki/File:The_Dance_of_Salome_by_Andrea_Marchisio.jpg">Wikimedia Commons</a>).</figcaption>
+<figcaption>Herodes Antipas con su familia en su cumpleaños (<em>El baile de Salomé</em>, Andrea Marchisio, <a href="https://commons.wikimedia.org/wiki/File:The_Dance_of_Salome_by_Andrea_Marchisio.jpg">Wikimedia Commons</a>).</figcaption>
 </figure>
 
 <br style="clear:both;"/>
