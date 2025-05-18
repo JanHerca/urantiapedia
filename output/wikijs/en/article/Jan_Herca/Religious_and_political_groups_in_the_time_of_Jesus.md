@@ -101,7 +101,7 @@ Their limitation to the Torah and their rejection of reformist tendencies led th
 The Essenes (_esseos_ or _essenoi_) were a true religious sect that formed following the split with the Hasideans during the Maccabean period. Their number fluctuated around 4,000, scattered throughout Judea and Galilee. They lived in rural communities, avoiding cities and following a way of life that had already been taught to the Greeks by Pythagoras. Certainly, these curious men had much in common with the Pythagoreans: they organized themselves into communes, shared land and property, and practiced virtues such as abstinence, modesty, self-discipline, discretion, and strict spiritual and bodily purity.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Religious_and_political_groups_in_the_time_of_Jesus/essenes.jpg">
+<img src="/image/article/Jan_Herca/Religious_and_political_groups_in_the_time_of_Jesus/esenios.jpg">
 <figcaption>An Essene community.</figcaption>
 </figure>
 

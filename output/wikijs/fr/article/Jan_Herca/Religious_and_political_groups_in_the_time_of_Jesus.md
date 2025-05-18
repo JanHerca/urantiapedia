@@ -35,7 +35,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 Les pharisiens, dont le nom signifiait « les séparés » (_parûs_) ou « les saints » (_qadôs_), étaient le groupe religieux le plus important à l'époque de Jésus. On les appelait ainsi parce qu’ils prétendaient être le « reste choisi par Dieu » pour le salut, la véritable communauté messianique qui serait la première à être sauvée au jour du jugement. Elle n'était pas composée précisément de personnes de la couche supérieure, mais englobait plutôt toutes les catégories sociales, et même des personnes sans éducation pour la plupart. Cependant, ses relations avec les scribes étaient très étroites. Tous les pharisiens du Sanhédrin étaient des scribes, et même s’il pouvait y avoir des scribes non pharisiens, ce n’était pas courant. C'est pourquoi pharisien et scribe étaient des mots qui, à l'époque de Jésus, signifiaient presque la même chose.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Religious_and_political_groups_in_the_time_of_Jesus/christ-and-pharisies-in-temple.jpg">
+<img src="/image/article/Jan_Herca/Religious_and_political_groups_in_the_time_of_Jesus/christ-and-pharisees-in-temple.jpg">
 <figcaption>Jésus parle avec les pharisiens dans le temple.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Ne sont pas de véritables communautés monastiques, car elles n’envisagent pa
 
 Ils existent depuis l'époque de Samuel ([1 Sam 10:5-6](/fr/Bible/1_Samuel/10#v5); [10:10-13](/fr/Bible/1_Samuel/10#v10); [19:20-24](/fr/Bible/1_Samuel/19#v20)), ils ont atteint leur splendeur maximale au temps d'Élie ([1 Rois 18:4](/fr/Bible/1_Kings/18#v4); [18:13](/fr/Bible/1_Kings/18#v13); [18:19-20](/fr/Bible/1_Kings/18#v19); [20:35](/fr/Bible/1_Kings/20#v35)) et ils ont perduré jusqu'à l'époque du prophète Amos ([Am 7:14](/fr/Bible/Amos/7#v14)), disparaître en exil ([Zach 7:3](/fr/Bible/Zechariah/7#v3); [Neh 6:10-14](/fr/Bible/Nehemiah/6#v10)).
 
-Il s’agissait de communautés indépendantes et itinérantes. Ils tournent autour d’un prophète considéré comme « Père ». Ils vivent pauvrement de leur propre travail ou de la charité publique ([2 Rois 4:8](/fr/Bible/2_Rois/4#v8); [4:38-44](/fr/Bible/2_Rois/4#v38); [6:1-7](/fr/Bible/2_Rois/6#v1)). La continence pouvait exister mais n’était pas obligatoire ([2 Rois 4:1](/fr/Bible/2_Rois/4#v1)).
+Il s’agissait de communautés indépendantes et itinérantes. Ils tournent autour d’un prophète considéré comme « Père ». Ils vivent pauvrement de leur propre travail ou de la charité publique ([2 Rois 4:8](/fr/Bible/2_Kings/4#v8); [4:38-44](/fr/Bible/2_Kings/4#v38); [6:1-7](/fr/Bible/2_Kings/6#v1)). La continence pouvait exister mais n’était pas obligatoire ([2 Rois 4:1](/fr/Bible/2_Kings/4#v1)).
 
 Ils étaient liés à des sanctuaires tels que Naioth près de Rama ([1 Sam 19:18-24](/fr/Bible/1_Samuel/19#v18)), Béthel ([1 Sam 10:3-6](/fr/Bible/1_Samuel/10#v3)), Jéricho ([2 Rois 2:3](/fr/Bible/2_Kings/2#v3)), le mont Carmel ([2 Rois 2:25](/fr/Bible/2_Kings/2#v25)). Avec David, ils s'installèrent à Jérusalem et devinrent un corps de prophètes lévites. Ses membres étaient issus des classes inférieures de la société.
 
