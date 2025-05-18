@@ -99,7 +99,7 @@ Cependant, la dure réalité était souvent plus dure que la législation rabbin
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Groups_according_to_racial_purity_in_the_times_of_Jesus/The_Slave_Market.jpg">
-<figcaption>Fig. 2. — Le Marché aux esclaves, Gustave Boulanger, 1824 – 1888 (<a ​​​​href="https://commons.wikimedia.org/wiki/File:Boulanger_Gustave_Clarence_Rudolphe_The_Slave_Market.jpg">Mediawiki Commons</a>)</figcaption>
+<figcaption>Fig. 2. — Le Marché aux esclaves, Gustave Boulanger, 1824 – 1888 (<a href="https://commons.wikimedia.org/wiki/File:Boulanger_Gustave_Clarence_Rudolphe_The_Slave_Market.jpg">Mediawiki Commons</a>)</figcaption>
 </figure>
 
 <br style="clear:both;"/>
