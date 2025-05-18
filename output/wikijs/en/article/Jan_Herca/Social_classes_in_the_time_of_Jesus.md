@@ -38,7 +38,7 @@ Kings and princes often had a good number of wives, such as Herod the Great, who
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Social_classes_in_the_time_of_Jesus/painting-of-herods-birthday.jpg">
-<figcaption>Fig. 1. — Herod Antipas's Birthday Feast, Edward Armitage, 1868 (<a ​​href="https://artsandculture.google.com/asset/herod-s-birthday-feast-0004/2gFjg8Srw1S0Lw?hl=es"> Google Arts & Culture</a>)</figcaption>
+<figcaption>Fig. 1. — Herod Antipas's Birthday Feast, Edward Armitage, 1868 (<a href="https://artsandculture.google.com/asset/herod-s-birthday-feast-0004/2gFjg8Srw1S0Lw?hl=es"> Google Arts & Culture</a>)</figcaption>
 </figure>
 
 These royal palaces were served by a vast troop of guards, doormen, servants, chamber attendants, ministers, chancellors, bodyguards, company, musicians and much more. This entourage, obviously, did not all live in the same league as the leaders, but they did enjoy an enviable social position.

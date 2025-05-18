@@ -38,7 +38,7 @@ Les rois et les princes avaient un bon nombre d’épouses, comme Hérode le Gra
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Social_classes_in_the_time_of_Jesus/painting-of-herods-birthday.jpg">
-<figcaption>Fig. 1. — Fête d'anniversaire d'Hérode Antipas, Edward Armitage, 1868 (<a ​​​​href="https://artsandculture.google.com/asset/herod-s-birthday-feast-0004/2gFjg8Srw1S0Lw?hl=es"> Google Arts & Culture</a>)</figcaption>
+<figcaption>Fig. 1. — Fête d'anniversaire d'Hérode Antipas, Edward Armitage, 1868 (<a href="https://artsandculture.google.com/asset/herod-s-birthday-feast-0004/2gFjg8Srw1S0Lw?hl=es"> Google Arts & Culture</a>)</figcaption>
 </figure>
 
 Ces palais royaux étaient desservis par une vaste troupe de gardes, portiers, serviteurs, domestiques, ministres, chanceliers, gardes du corps, compagnie, musiciens et bien d'autres encore. Cet entourage ne vivait évidemment pas tous dans le même train que les dirigeants, mais jouissait d'une position sociale enviable.
