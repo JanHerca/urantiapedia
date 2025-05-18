@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles by Jan Herca — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 In some parts of my novel about Jesus[^1] he appears named as “Salvin”. This name is actually taken from _The Urantia Book_, where we find all kinds of new expositions about the divine personality of Jesus. 
 
 The old and eternal discussion about the divinity of Jesus is a recurring theme throughout the centuries. Early Christian communities soon began to worship Jesus as a god, or even more, as God himself. This ended up leading to the idea of ​​the Holy Trinity, a complex idea according to which God, being a single being, had three personalities or manifestations, one the Father, another the Son, and another the Holy Spirit. Obviously, Jesus was identified with the Son, the second personality.
@@ -22,7 +38,7 @@ The idea of ​​the Holy Trinity as it was raised by early Christianity advoca
 
 _The Urantia Book_ launches a new consideration: divinity is a quality shared by many beings in the created universe, not just by three people (<a id="a22_144"></a>[UB 0:0.1](/en/The_Urantia_Book/0#p0_1), <a id="a22_185"></a>[UB 0:1.2](/en/The_Urantia_Book/0#p1_2), <a id="a22_226"></a>[UB 0:1.18](/en/The_Urantia_Book/0#p1_18)). This new vision establishes degrees within the divinity, which we can also assimilate with “degrees of perfection.”
 
-According to _The Urantia Book_ Jesus is a being with divinity capabilities (<a id="a24_77"></a>[UB 4:4.4](/en/The_Urantia_Book/4#p4_4), <a id="a24_118"></a>[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)). He is a god to all intents and purposes. But not God in the absolute sense. Like early Christianity, _The Urantia Book_ establishes only three persons as the absolutes of divinity, beings who comprise all possible perfection of Deity. But unlike ancient Christianity, Jesus does not appear as the absolute second member of the Trinity (<a id="a24_498"></a>[UB 33:1.2](/en/The_Urantia_Book/33#p1_2)), but as an extraordinary and unknown type of being called Michael or Creator Son (<a id="a24_623"></a>[UB 21:0.3](/en/The_Urantia_Book/21#p0_3), <a id="a24_666"></a>[UB 32:0.3](/en/The_Urantia_Book/32#p0_3)).
+According to _The Urantia Book_ Jesus is a being with divinity capabilities (<a id="a24_77"></a>[UB 4:4.4](/en/The_Urantia_Book/4#p4_4), <a id="a24_118"></a>[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)). He is a god to all intents and purposes. But not God in the absolute sense. Like early Christianity, _The Urantia Book_ establishes only three persons as the absolutes of divinity, beings who comprise all possible perfection of Deity. But unlike ancient Christianity, Jesus does not appear as the absolute second member of the Trinity (<a id="a24_498"></a>[UB 33:1.2](/en/The_Urantia_Book/33#p1_2)), but as an extraordinary and unknown type of being called Michael or Creator Son (<a id="a24_623"></a>[UB 21:0.3](/en/The_Urantia_Book/21#p0_3), <a id="a24_666"></a>[UB 32:0.3](/en/The_Urantia_Book/32#p0_3)). Even to designate its “degree of perfection” _The Urantia Book_ has to resort to the invention of a word that does not exist in our languages: absonite (<a id="a40_897"></a>[LU 0:1.12](/en/The_Urantia_Book/0#p1_12)), that is, neither absolute nor finite.
 
 Michaels are gods in the strict sense, there are thousands upon thousands of them (<a id="a26_83"></a>[UB 21:1.4](/en/The_Urantia_Book/21#p1_4)), and they are capable of creating physical formations in the universe and endowing the planets. From this perspective, Michael beings like Jesus should come naturally to us as the totality of divinity. But according to _The Urantia Book_, on a higher cosmic level, they are only the representatives of the three absolute persons of Deity.
 
@@ -38,8 +54,24 @@ As I show in my novel, there is a possible explanation for the new interest that
 
 ## External links
 
-* Original article: https://buscandoajesus.wordpress.com/descargas/
+* [Original article](https://buscandoajesus.wordpress.com/articulos/salvin-pero-que-nombre-es-este/)
 
-## References
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles by Jan Herca — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-[^1]: Jan Herca, _Jesus de Nazaret. Partes XI y XII_, 2010. https://buscandoajesus.wordpress.com/descargas/
+## Notes
+
+[^1]: This novel, [«Jesus of Nazareth»](/en/book/Jan_Herca/Jesus_of_Nazareth), is a biography of the Master based on _The Urantia Book_ that is in preparation by the author.
