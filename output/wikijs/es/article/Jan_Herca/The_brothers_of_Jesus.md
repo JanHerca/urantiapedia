@@ -30,13 +30,20 @@ Este asunto es uno de los que vienen causando más controversia y polémica dura
 
 La respuesta a esta pregunta carecería de toda importancia de no ser porque el cristianismo postuló una serie de dogmas y creencias en torno a la madre de Jesús, María, que chocarían frontalmente con la idea de que tuvo otros hijos aparte de Jesús. Porque, ¿qué importancia puede tener que Jesús fuera hijo único o tuviera más hermanos? ¿Menoscaba eso su posible origen divino? ¿Le hace parecer acaso más humano? ¿Hace que sus enseñanzas acerca de «una familia universal, de que todos somos hijos e hijas de Dios y por tanto debemos tratarnos como hermanos y hermanas», sean menos ciertas, o por el contrario, las realza en un contexto más clarificador?
 
-Personalmente, creo que este asunto ha sobrepasado los límites de lo racional para establecerse en el terreno del misterio y de la fe ciega. Aquí ya no se trata de averiguar de una forma histórica y contrastada si existen suficientes indicios para considerar que Jesús tuvo más familia, sino de afianzar y defender creencias y postulados prefijados. Por tanto, vamos a intentar ofrecer un resumen de la situación, sin apostar por ninguna de las posturas, y que sea el lector quien juzgue por sí mismo.
+Personalmente, creo que este asunto ha sobrepasado los límites de lo racional para establecerse en el terreno del misterio y de la fe ciega. Aquí muchas personas no tratan de averiguar de una forma histórica y contrastada si existen suficientes indicios para considerar que Jesús tuvo o no más familia, sino que buscan afianzar y defender creencias y postulados prefijados. Por tanto, vamos a intentar ofrecer un resumen de la situación, sin apostar por ninguna de las posturas, y que sea el lector quien juzgue por sí mismo.
 
-En primer lugar hay que decir que no existen pruebas concluyentes y definitivas que atestigüen que Jesús tuvo más hermanos. Los detractores de esta idea han localizado innumerables inconsistencias en ella como para que los defensores encuentren difícil dar con la solución. Recientemente surgió a la luz en Israel un descubrimiento arqueológico de un osario con la inscripción «Jacob, hijo de José y hermano de Jesús», que al final, al parecer, ha resultado ser un fraude. Pero, de haber sido auténtico, ¿eso nos hubiera dado la prueba concluyente? Al parecer no, lo cual viene a indicar hasta qué punto resulta indemostrable uno u otro punto de vista.
+En primer lugar hay que decir que no existen pruebas concluyentes y definitivas que atestigüen que Jesús tuvo más hermanos. Los detractores de esta idea han localizado innumerables inconsistencias en ella como para que los defensores encuentren difícil dar con la solución. Recientemente surgió a la luz en Israel un descubrimiento arqueológico de un osario con la inscripción «Jacob, hijo de José y hermano de Jesús», que al final, al parecer, ha resultado ser un fraude[^1]. Pero, de haber sido auténtico, ¿eso nos hubiera dado la prueba concluyente? Al parecer no, lo cual viene a indicar hasta qué punto resulta indemostrable uno u otro punto de vista.
 
-Básicamente en el tema existen dos posturas y lo que voy a hacer es examinar las evidencias que cada una de ella aporta como argumentos en su favor.
+Básicamente en el tema existen dos posturas y lo que voy a tratar de hacer es examinar las evidencias que cada una de ellas aporta como argumentos en su favor.
 
 ## Postura A: Jesús no tuvo hermanos, fue hijo único
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/The_brothers_of_Jesus/only_three.jpg">
+<figcaption>Fig. 1. — Jesús <em>sin</em> hermanos</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 Las pruebas presentadas más importantes se resumen así:
 
@@ -92,6 +99,13 @@ Por supuesto, esta es la postura oficial de las iglesias cristianas desde princi
 
 ## Postura B: Jesús tuvo al menos seis hermanos y hermanas
 
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/The_brothers_of_Jesus/brothers_sisters.jpg">
+<figcaption>Fig. 2. — Jesús <em>con</em> hermanos</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 Esta postura se puede resumir de la siguiente manera: José y María se casaron en primeras nupcias como cualquier otro matrimonio de su tiempo, jóvenes. Su primer hijo fue Jesús, pero después de él tuvieron cuatro hijos más y al menos dos hijas, que son los mencionados en los evangelios y otros escritos.
 
 Los puntos a favor que esgrimen quienes así piensan se pueden resumir como sigue:
@@ -108,7 +122,7 @@ En la ceremonia habitual de las bodas judías de tiempos de Jesús, los esposos 
 
 5\. Un argumento en contra de que los hermanos mencionados en varios evangelios sean hermanastros, hijos de un matrimonio anterior de José, está en la historia del viaje de José y María a Belén. Y cuando se fueron a Egipto, el evangelista dice: «José se levantó, tomó al niño y a su madre de noche, y partió hacia Egipto» ([Mt 2:14](/es/Bible/Matthew/2#v14)). Si fueron hijos anteriores de José, ¿por qué no hay ni rastro de ellos en el relato? Como se ve es un argumento similar al que se utiliza en la «postura A» cuando hablan del suceso de la visita de Jesús y sus padres a Jerusalén a los doce años.
 
-6\. ¿Por qué la idea de que María fuera la madre de Jesús, un ser divino, implicaba para ella y su padre no poder tener relaciones sexuales? El padre de la iglesia Orígenes afirmaba: «...aquel cuerpo que fue escogido para prestar un servicio al Verbo y acerca del cual se dice: ‘el Espíritu Santo descenderá sobre ti y la virtud del Altísimo te cobijará con su sombra’ no conoció unión alguna con varón por haber descendido sobre él el Espíritu Santo y haber sido cobijado por la virtud de lo alto. Yo sostengo razonablemente que la primicia de la pureza y castidad de los varones sea Jesús y que la de las mujeres sea María. No concordaría, efectivamente, con la piedad el atribuir a alguna otra persona distinta de ella la primicia de la virginidad».
+6\. ¿Por qué la idea de que María fuera la madre de Jesús, un ser divino, implicaba para ella y su padre no poder tener relaciones sexuales? Uno de los padre de la iglesia, Orígenes, afirmaba: «...aquel cuerpo que fue escogido para prestar un servicio al Verbo y acerca del cual se dice: ‘el Espíritu Santo descenderá sobre ti y la virtud del Altísimo te cobijará con su sombra’ no conoció unión alguna con varón por haber descendido sobre él el Espíritu Santo y haber sido cobijado por la virtud de lo alto. Yo sostengo razonablemente que la primicia de la pureza y castidad de los varones sea Jesús y que la de las mujeres sea María. No concordaría, efectivamente, con la piedad el atribuir a alguna otra persona distinta de ella la primicia de la virginidad».
 
 ¿No da la sensación este texto de que se quiere buscar en la virginidad un modelo de vida a seguir? Del mismo modo a como Jesús permaneció célibe, creando un modelo para los varones, así la incipiente iglesia cristiana buscó en María un modelo similar femenino.
 
@@ -151,3 +165,7 @@ Pero si reflexionamos e intentamos imaginar cuáles fueron los motivos de Jesús
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: [El osario de Santiago, Wikipedia](https://en.wikipedia.org/wiki/James_Ossuary)
