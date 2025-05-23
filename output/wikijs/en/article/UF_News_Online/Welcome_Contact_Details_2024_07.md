@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-1-march-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 1, March 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-2-july-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 2, July 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Richard_Zhu/A_Celebration_of_the_Chinese_Translation">
-          <span class="pr-2">A Celebration of the Chinese Translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/UF_News_Online/Urantia_Foundation_Has_a_New_Website">
+          <span class="pr-2">Urantia Foundation Has a New Website!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,32 +32,34 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/001.jpg">
+<img src="/image/article/UF_News_Online/2024_07/000300.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/002.jpg">
+<img src="/image/article/UF_News_Online/2024_07/001.jpg">
 </figure>
 
-- A Celebration of the Chinese Translation—Now Published on Urantia Foundation’s Website - Richard Zhu
-- Updates from the January 2024 Trustee Meeting
-- The Untold Story of Jesus—Coming Soon in Paperback! - Jim English
-- The Cultural Advisory Council Welcomes Uganda - Khatukhira Bernard
-- Remembering Dorothy Elder
-- Revelation Outreach in Uganda - Owen Atwebembire
-- What The Urantia Book Means to Us - Zofia and Jan Michniewicz
+- Urantia Foundation Has a New Website!
+- Updates from the April 2024 Trustee Meeting
+- Urantia Foundation Visits Taiwan
+- The Cultural Advisory Council Welcomes South Korea - Georges Michelson-Dupont
+- Healing the Pain of Grief in Internally Displaced Persons - Lilian Muthui
+- Hawaii and Chile Book Placement - Marian Hughes
+- The Urantia Book Video Channel - Nugroho Widi
+- Bogotá Urantia Association at FILBO 2024 - Andrés Ramírez
+- What The Urantia Book Means to Me - Alejandro Aran Sanchez
 - Announcements
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/003.jpg">
+<img src="/image/article/UF_News_Online/2024_07/015.jpg">
 </figure>
 
-## Volume 18, Issue 1. March 2024
+## Volume 18, Issue 2. July 2024
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/004.jpg">
+<img src="/image/article/UF_News_Online/2024_07/013.jpg">
 </figure>
 
 Urantia Foundation
@@ -72,7 +74,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Jessica Palmer, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Richard Zhu, Judy Van Cleave, Khatukhira “Khat” Bernard, Owen Atwebembire, Zofia and Jan Michniewicz
+Contributors: Judy Van Cleave, Georges Michelson-Dupont, Jisoo Han, Lilian Muthui, Marian Hughes, Nugroho Widi, Andrés Ramírez, Alejandro Aran Sanchez
 
 Production: Urantia Foundation
 
@@ -82,7 +84,7 @@ Sherry Cathcart Chavis, Víctor García-Bory, Gard Jameson, Marilynn Kulieke, Ol
 
 **Associate Trustees**
 
-Gaétan Charland, Gary Deinstadt, Geri Johnson, Marcel Peereboom
+Geri Johnson, Marcel Peereboom
 
 **Staff**
 
@@ -103,13 +105,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-1-march-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 1, March 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-2-july-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 2, July 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Richard_Zhu/A_Celebration_of_the_Chinese_Translation">
-          <span class="pr-2">A Celebration of the Chinese Translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/UF_News_Online/Urantia_Foundation_Has_a_New_Website">
+          <span class="pr-2">Urantia Foundation Has a New Website!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-1-march-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 1, March 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Richard_Zhu/A_Celebration_of_the_Chinese_Translation">
-          <span class="pr-2">A Celebration of the Chinese Translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
+          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,32 +32,31 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/001.jpg">
+<img src="/image/article/UF_News_Online/2024_10/000309.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/002.jpg">
+<img src="/image/article/UF_News_Online/2024_10/001.jpg">
 </figure>
 
-- A Celebration of the Chinese Translation—Now Published on Urantia Foundation’s Website - Richard Zhu
-- Updates from the January 2024 Trustee Meeting
-- The Untold Story of Jesus—Coming Soon in Paperback! - Jim English
-- The Cultural Advisory Council Welcomes Uganda - Khatukhira Bernard
-- Remembering Dorothy Elder
-- Revelation Outreach in Uganda - Owen Atwebembire
-- What The Urantia Book Means to Us - Zofia and Jan Michniewicz
+- Reflections on the Taiwan Conference
+- Updates from the July 2024 Trustee Meeting
+- Passing the Torch—Change Is in the Air at Urantia Book International School
+- The Cultural Advisory Council Welcomes Chile
+- The Marriage and Family Adventure! An Online Symposium
+- What The Urantia Book Means to Me
 - Announcements
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/003.jpg">
+<img src="/image/article/UF_News_Online/2024_10/013.jpg">
 </figure>
 
-## Volume 18, Issue 1. March 2024
+## Volume 18, Issue 2. July 2024
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_03/004.jpg">
+<img src="/image/article/UF_News_Online/2024_10/011.jpg">
 </figure>
 
 Urantia Foundation
@@ -72,7 +71,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Jessica Palmer, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Richard Zhu, Judy Van Cleave, Khatukhira “Khat” Bernard, Owen Atwebembire, Zofia and Jan Michniewicz
+Contributors: Judy Van Cleave, Georges Michelson-Dupont, Felipe Arrigorriaga, Joanne Strobel, Joyce Anderson
 
 Production: Urantia Foundation
 
@@ -82,7 +81,7 @@ Sherry Cathcart Chavis, Víctor García-Bory, Gard Jameson, Marilynn Kulieke, Ol
 
 **Associate Trustees**
 
-Gaétan Charland, Gary Deinstadt, Geri Johnson, Marcel Peereboom
+Joyce Anderson, Geri Johnson, Collins Lomo, Marcel Peereboom, Thomas Sadler, Richard Zhu
 
 **Staff**
 
@@ -103,13 +102,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-1-march-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 1, March 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Richard_Zhu/A_Celebration_of_the_Chinese_Translation">
-          <span class="pr-2">A Celebration of the Chinese Translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
+          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
