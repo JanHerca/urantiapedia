@@ -115,5 +115,9 @@
   "spellright.language": [
     "en"
   ],
-  "svg.preview.background": "editor"
+  "svg.preview.background": "editor",
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.chat.reviewSelection.enabled": false
 }

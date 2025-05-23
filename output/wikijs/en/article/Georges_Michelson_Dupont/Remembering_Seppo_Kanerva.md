@@ -3,7 +3,7 @@ title: "Remembering Seppo Kanerva—a Letter to a Brother, Friend, and Colleague
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Foundation, Urantia Foundation News Online, article
+tags: In Memoriam, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
