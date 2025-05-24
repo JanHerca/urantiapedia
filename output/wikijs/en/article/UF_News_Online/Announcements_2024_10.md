@@ -82,7 +82,7 @@ For details, visit [https://europe2025.urantia.fr/](https://europe2025.urantia.f
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2024-10/available-now-free-library-placement), [this article](https://www.urantia.org/news/2024-07/untold-story-jesus-now-available-in-paperback)
+- [This article](https://www.urantia.org/news/2024-10/available-now-free-library-placement), [this article](https://www.urantia.org/news/2024-10/fourth-european-conference-paris-france-2025)
 
 <br>
 

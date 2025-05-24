@@ -70,7 +70,7 @@ The theme is “Partnership with God: Day by Day.” The four-day gathering will
 
 It is good to tell people, “You are formidable and unique, and both the world and the Universe need you!” But can you really explain why? _The Urantia Book_ offers us a new cosmology of the universe, one in which the Universal Father is the Architect-Designer-Creator. To this end:
 
-> It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow. 10:1.1 (108.4)
+> It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow. [UB 10:1.1](/en/The_Urantia_Book/10#p1_1)
 
 Don’t miss this opportunity to study the fifth epochal revelation in the City of Lights! The Hotel CIS Paris Ravel is located in the heart of Paris amidst a verdant setting. The planning team is doing everything possible to make this conference well-organized and affordable.
 

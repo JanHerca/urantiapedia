@@ -1,5 +1,5 @@
 ---
-title: "Welcome & Contact Details"
+title: "Updates from the April 2024 Trustee Meeting"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

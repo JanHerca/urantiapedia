@@ -69,7 +69,7 @@ Based on my study of _The Urantia Book,_ I often ask myself two questions:
 
 Do I feel an inner nudge from my Thought Adjuster to move out of my comfort zone, overcome my fears, learn new skills, and develop my faith? Then I remind myself that our Thought Adjusters are, as a Solitary Messenger puts it, “deeply interested in your temporal welfare and in your real achievements on earth. They are delighted to contribute to your health, happiness, and true prosperity.” [UB 110:1.3](/en/The_Urantia_Book/110#p1_3)
 
-Am I motivated to be more and more useful to others in loving and unselfish service? Then I recall the advice of a Melchizedek about the implications of loyalty: “It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing.” 39:4.11 (435.4)
+Am I motivated to be more and more useful to others in loving and unselfish service? Then I recall the advice of a Melchizedek about the implications of loyalty: “It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing.” [UB 39:4.11](/en/The_Urantia_Book/39#p4_11)
 
 I also keep in mind that cooperation with our Adjusters is not about negation of oneself, rather, their guidance is positive: “The ideal life is one of loving service rather than an existence of fearful apprehension.” [UB 110:3.4](/en/The_Urantia_Book/110#p3_4)
 

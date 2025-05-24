@@ -66,6 +66,8 @@ Reading _The Urantia Book_ and discerning its profound truths will be a monument
 
 I salute everyone who has ever been here, taking that single step in the journey of a thousand miles. Let us not just walk the journey, but dance! It is a dance for life.
 
+~ Dr. Claire von Joe Li
+
 <br style="clear:both;"/>
 
 ---
