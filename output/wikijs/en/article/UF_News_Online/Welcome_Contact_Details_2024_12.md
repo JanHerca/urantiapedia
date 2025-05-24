@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-4-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 4, December 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
-          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mo_Siegel/The_Urantia_Book_Invest_in_a_Brighter_Future">
+          <span class="pr-2">The Urantia Book—Invest in a Brighter Future!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,31 +32,33 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/000309.jpg">
+<img src="/image/article/UF_News_Online/2024_12/000311.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/001.jpg">
+<img src="/image/article/UF_News_Online/2024_12/001.jpg">
 </figure>
 
-- Reflections on the Taiwan Conference
-- Updates from the July 2024 Trustee Meeting
-- Passing the Torch—Change Is in the Air at Urantia Book International School
-- The Cultural Advisory Council Welcomes Chile
-- The Marriage and Family Adventure! An Online Symposium
+- The Urantia Book—Invest in a Brighter Future!
+- Updates from the October 2024 Trustee Meeting
+- A Fond Farewell to the Finnish Branch Office
+- The Cultural Advisory Council Welcomes Ethiopia
+- Mustard Seed Grant Project—Urantia Book Outreach in Nigeria
+- Mustard Seed Grant— 2024 Nigerian Urantia Conference
+- The Urantia Book Featured at Awaken Wellness Fair
 - What The Urantia Book Means to Me
 - Announcements
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/013.jpg">
+<img src="/image/article/UF_News_Online/2024_12/015.jpg">
 </figure>
 
-## Volume 18, Issue 3. October 2024
+## Volume 18, Issue 4. December 2024
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/011.jpg">
+<img src="/image/article/UF_News_Online/2024_12/013.jpg">
 </figure>
 
 Urantia Foundation
@@ -71,7 +73,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Jessica Palmer, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Judy Van Cleave, Georges Michelson-Dupont, Felipe Arrigorriaga, Joanne Strobel, Joyce Anderson
+Contributors: Mo Siegel, Judy Van Cleave, Samrawit Muluneh, Karo Akamune, Emeka Anazodo, Charles Lehner, Collins Lomo
 
 Production: Urantia Foundation
 
@@ -102,13 +104,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-18-issue-4-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 4, December 2024 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
-          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mo_Siegel/The_Urantia_Book_Invest_in_a_Brighter_Future">
+          <span class="pr-2">The Urantia Book—Invest in a Brighter Future!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

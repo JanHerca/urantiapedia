@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2025 Urantia Foundation</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-19-issue-1-april-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Issue 1, April 2025 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
-          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mo_Siegel/Looking_Ahead_The_Spanish_Translations_of_El_libro_de_Urantia">
+          <span class="pr-2">Looking Ahead: The Spanish Translations of El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,31 +32,31 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/000309.jpg">
+<img src="/image/article/UF_News_Online/2025_04/000317.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/001.jpg">
+<img src="/image/article/UF_News_Online/2025_04/001.jpg">
 </figure>
 
-- Reflections on the Taiwan Conference
-- Updates from the July 2024 Trustee Meeting
-- Passing the Torch—Change Is in the Air at Urantia Book International School
-- The Cultural Advisory Council Welcomes Chile
-- The Marriage and Family Adventure! An Online Symposium
+- Looking Ahead: The Spanish Translations of El libro de Urantia 
+- Updates from the January 2025 Trustee Meeting
+- The Importance of Planned Giving: Leaving a Lasting Legacy
+- Volunteers—a Priceless Gift!
+- Adventures in Construction at 533 West Diversey Parkway
 - What The Urantia Book Means to Me
 - Announcements
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/013.jpg">
+<img src="/image/article/UF_News_Online/2025_04/015.jpg">
 </figure>
 
-## Volume 18, Issue 3. October 2024
+## Volume 19, Issue 1. April 2025
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2024_10/011.jpg">
+<img src="/image/article/UF_News_Online/2025_04/013.jpg">
 </figure>
 
 Urantia Foundation
@@ -71,7 +71,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Jessica Palmer, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Judy Van Cleave, Georges Michelson-Dupont, Felipe Arrigorriaga, Joanne Strobel, Joyce Anderson
+Contributors: Mo Siegel, Judy Van Cleave, Gard Jameson, Urantia Foundation Staff, Pre McGee
 
 Production: Urantia Foundation
 
@@ -102,13 +102,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-18-issue-3-october-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Issue 3, October 2024 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-19-issue-1-april-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Issue 1, April 2025 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/Reflections_on_the_Taiwan_Conference">
-          <span class="pr-2">Reflections on the Taiwan Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mo_Siegel/Looking_Ahead_The_Spanish_Translations_of_El_libro_de_Urantia">
+          <span class="pr-2">Looking Ahead: The Spanish Translations of El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
