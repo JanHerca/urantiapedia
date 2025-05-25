@@ -484,9 +484,9 @@ Full list of supported emojis in Markdown: https://gist.github.com/rxaviers/7360
 ## Google Translator common fails
 
 
-### To remove navigation headers remove this (with and without three lines `\n(.+)`)
+### To remove navigation headers remove this
 
-<figure class="table chapter-navigator">\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n</figure>\n
+`<figure class="table chapter-navigator">[\s\S]*?</figure>(?:\n|$)`
 
 ### Replacements
 

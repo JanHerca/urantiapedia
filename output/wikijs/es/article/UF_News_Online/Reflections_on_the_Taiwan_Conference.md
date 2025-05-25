@@ -1,5 +1,5 @@
 ---
-title: "La Fundación Urantia tiene una nueva página web"
+title: "Reflexiones sobre la Conferencia de Taiwán"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
