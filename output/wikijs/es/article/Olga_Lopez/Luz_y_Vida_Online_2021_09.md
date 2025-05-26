@@ -128,7 +128,7 @@ Ahora, en este momento, y cada día de nuestra existencia, comienza el juego del
 
 [**Los Arquitectos del Universo Maestro (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
 
-Este trabajo toma como puntos de partida otros trabajos secundarios del autor (recogidos en los [Apéndices de Un estudio del universo maestro](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/), también disponibles en la web de la asociación) para tratar de manera más extensa sobre el nivel absonito de la realidad y, en particular, sobre esos seres absonitos conocidos como los Arquitectos del Universo Maestro, que en palabras del autor «se ocupan de iniciar los planes de Dios».
+Este trabajo toma como puntos de partida otros trabajos secundarios del autor (recogidos en los [Apéndices de Un estudio del universo maestro](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) (también en la [web de la Asociación](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/))) para tratar de manera más extensa sobre el nivel absonito de la realidad y, en particular, sobre esos seres absonitos conocidos como los Arquitectos del Universo Maestro, que en palabras del autor «se ocupan de iniciar los planes de Dios».
 <br style="clear:both" />
 
 ---

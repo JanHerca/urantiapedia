@@ -52,14 +52,20 @@ El objetivo de esta presentación es compartir contigo la experiencia acumulada 
 	- Ir más allá del simple significado de las palabras para ampliar nuestro marco mental;
 	- Llevar los conceptos al nivel de la experiencia personal.
 4. Finalmente ofreceré ejemplos prácticos y haré algunas recomendaciones para que el curso del grupo de estudio sea efectivo y cautivador.
-	Los reveladores demostraron un gran conocimiento de cómo funciona nuestra mente para presentarnos la revelación, experiencia que podemos utilizar en grupos de estudio. En la práctica, el enfoque de estudio intensivo que sugiero se adapta mejor a los lectores que han leído El libro de Urantia en su totalidad. Sin embargo, los grupos de estudio pueden dar la bienvenida a nuevos lectores que primero deben familiarizarse con las enseñanzas. Entonces se hace necesario adaptar el método a las circunstancias.
-	¿Por qué estudiar el _Libro de Urantia_?
-	Cuando abres el Libro de Urantia para estudiar la quinta revelación de época, tienes una cita con Dios y las fuerzas espirituales que conspiran para apropiarte de la realidad de los valores espirituales y ayudarte a comprender la filosofía del universo. Esto no es una flor de retórica, es una realidad de la experiencia, ¿puedes realmente medir su importancia?
-5. Los Documentos de Urantia. “_Estas exposiciones, de las que forma parte este folleto, constituyen la presentación más reciente de la verdad a los mortales de Urantia._” (<a id="a57_173"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9)) Además, un Melquisedec de Nebadón nos exhorta a estudiar la revelación en estos términos. :
+
+Los reveladores demostraron un gran conocimiento de cómo funciona nuestra mente para presentarnos la revelación, experiencia que podemos utilizar en grupos de estudio. En la práctica, el enfoque de estudio intensivo que sugiero se adapta mejor a los lectores que han leído El libro de Urantia en su totalidad. Sin embargo, los grupos de estudio pueden dar la bienvenida a nuevos lectores que primero deben familiarizarse con las enseñanzas. Entonces se hace necesario adaptar el método a las circunstancias.
+
+## ¿Por qué estudiar el _Libro de Urantia_?
+
+Cuando abres el Libro de Urantia para estudiar la quinta revelación de época, tienes una cita con Dios y las fuerzas espirituales que conspiran para apropiarte de la realidad de los valores espirituales y ayudarte a comprender la filosofía del universo. Esto no es una flor de retórica, es una realidad de la experiencia, ¿puedes realmente medir su importancia?
+
+> _5. Los Documentos de Urantia. “Estas exposiciones, de las que forma parte este folleto, constituyen la presentación más reciente de la verdad a los mortales de Urantia._” (<a id="a57_173"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9)) Además, un Melquisedec de Nebadón nos exhorta a estudiar la revelación en estos términos. :
 
 > «_No es suficiente con que los mortales ascendentes conozcan algo sobre las relaciones de la Deidad con la génesis y las manifestaciones de la realidad cósmica; también deberían comprender algo acerca de las relaciones que existen entre ellos mismos y los numerosos niveles de realidades existenciales y experienciales, de realidades potenciales y actuales. La orientación del hombre en la Tierra, su perspicacia cósmica y la dirección de su conducta espiritual se vuelven más elevadas gracias a una mejor comprensión de las realidades del universo y de sus técnicas de interasociación, integración y unificación._» (<a id="a59_619"></a>[LU 106:0.1](/es/The_Urantia_Book/106#p0_1))
 
-El mandato de revelar. Está claramente identificado y expresado en el segundo párrafo de la introducción del Divino Consejero en estos términos: “***Expandir la conciencia cósmica y mejorar la percepción espiritual***”
+## El mandato de revelar
+
+Está claramente identificado y expresado en el segundo párrafo de la introducción del Divino Consejero en estos términos: “***Expandir la conciencia cósmica y mejorar la percepción espiritual***”
 
 Esta frase introduce dos conceptos: “expandir la conciencia cósmica” y “mejorar la percepción espiritual”. Descifraremos un poco más el significado de cada uno pero ya un Melquisedec de Nebadón describe este proceso como una técnica de ***evolución-revelación*** (<a id="a63_264"></a>[LU 196:3.15](/es/The_Urantia_Book/196#p3_15))
 

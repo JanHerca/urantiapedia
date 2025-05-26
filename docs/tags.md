@@ -317,6 +317,7 @@ UFO
 Unity
 Universe Mother Spirit
 Urantia
+Urantia Association of Spain
 Urantia Foundation
 Urantia Foundation—Copyright
 Urantia Foundation News Online

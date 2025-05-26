@@ -129,7 +129,7 @@ Maintenant, à ce moment et chaque jour de notre existence, le jeu de cache-cach
 
 [**Les architectes du Maître Univers (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
 
-Ce travail s'inspire d'autres travaux secondaires de l'auteur (recueillis dans les [Annexes d'Une étude du maître univers](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/), également disponibles sur le site de l'association) pour traiter plus en détail du niveau absonite de réalité et , en particulier, à propos de ces êtres absonites connus sous le nom d'Architectes du Maître Univers, qui, selon les mots de l'auteur, « sont chargés d'initier les plans de Dieu ».
+Ce travail s'inspire d'autres travaux secondaires de l'auteur (recueillis dans les [Annexes d'Une étude du maître univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe), également disponibles sur [le site de l'association](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/)) pour traiter plus en détail du niveau absonite de réalité et , en particulier, à propos de ces êtres absonites connus sous le nom d'Architectes du Maître Univers, qui, selon les mots de l'auteur, « sont chargés d'initier les plans de Dieu ».
 <br style="clear:both" />
 
 ---

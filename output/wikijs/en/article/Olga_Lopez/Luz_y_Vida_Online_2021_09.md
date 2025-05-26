@@ -130,7 +130,7 @@ Now, at this moment, and every day of our existence, the game of hide-and-seek b
 
 [**The Architects of the Master Universe (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
 
-This work takes as its starting points other secondary works by the author (collected in the [Appendices of A study of the master universe](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/), also available on the association's website) to deal more extensively with the absonite level of reality and, in particular, about those absonite beings known as the Architects of the Master Universe, who, in the words of the author, “deal with initiating God's plans.”
+This work takes as its starting points other secondary works by the author (collected in the [Appendices of A study of the master universe](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe), also available on the [association's website](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/)) to deal more extensively with the absonite level of reality and, in particular, about those absonite beings known as the Architects of the Master Universe, who, in the words of the author, “deal with initiating God's plans.”
 <br style="clear:both" />
 
 ---

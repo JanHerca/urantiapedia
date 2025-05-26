@@ -53,14 +53,22 @@ The purpose of this presentation is to share with you the experience accumulated
 	- Go beyond the simple meaning of words to broaden our mental framework;
 	- Bring concepts down to the level of personal experience.
 4. Finally, I will offer practical examples and make some recommendations to ensure that the study group is effective and captivating.
-	The revelators have demonstrated a great deal of knowledge of the workings of our minds in presenting revelation to us, expertise that we can use in study groups. In practice, the intensive study approach that I suggest is best suited to readers who have read The Urantia Book in its entirety. However, study groups can accommodate new readers who must first become familiar with the teachings. It then becomes necessary to adapt the method to the circumstances.
-	Why study The Urantia Book?
-	When you open The Urantia Book to study the fifth epochal revelation, you have an appointment with God and the spiritual forces who conspire to appropriate for you the reality of spiritual values and assist you in understanding the philosophy of the universe. This is not a flower of rhetoric, it is a reality of experience, can you really measure its importance?
-5. The Urantia Papers. “These expositions, of which this paper is a part, constitute the latest presentation of truth to Urantia mortals.” (<a id="a58_140"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)) Furthermore, a Melchizedek of Nebadon exhorts us to study the revelation in these words:
+
+The revelators have demonstrated a great deal of knowledge of the workings of our minds in presenting revelation to us, expertise that we can use in study groups. In practice, the intensive study approach that I suggest is best suited to readers who have read The Urantia Book in its entirety. However, study groups can accommodate new readers who must first become familiar with the teachings. It then becomes necessary to adapt the method to the circumstances.
+
+## Why study The Urantia Book?
+
+When you open The Urantia Book to study the fifth epochal revelation, you have an appointment with God and the spiritual forces who conspire to appropriate for you the reality of spiritual values and assist you in understanding the philosophy of the universe. This is not a flower of rhetoric, it is a reality of experience, can you really measure its importance?
+
+> _5. The Urantia Papers. “These expositions, of which this paper is a part, constitute the latest presentation of truth to Urantia mortals.”_ (<a id="a58_140"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+
+Furthermore, a Melchizedek of Nebadon exhorts us to study the revelation in these words:
 
 > “_IT IS not enough that the ascending mortal should know something of the relations of Deity to the genesis and manifestations of cosmic reality; he should also comprehend something of the relationships existing between himself and the numerous levels of existential and experiential realities, of potential and actual realities. Man’s terrestrial orientation, his cosmic insight, and his spiritual directionization are all enhanced by a better comprehension of universe realities and their techniques of interassociation, integration, and unification._” (<a id="a60_558"></a>[UB 106:0.1](/en/The_Urantia_Book/106#p0_1))
 
-The mandate to reveal. It is clearly identified and expressed in the second paragraph of the introduction by the Divine Counselor in these terms: “***Expand cosmic consciousness and enhance spiritual perception***”
+## The mandate to reveal
+
+It is clearly identified and expressed in the second paragraph of the introduction by the Divine Counselor in these terms: “***Expand cosmic consciousness and enhance spiritual perception***”
 
 This sentence introduces two concepts: “expanding cosmic consciousness” and “enhancing spiritual perception”. We will decipher the meaning of each a little further on, but already a Melchizedek of Nebadon describes this process as being a technique of ***evolution-revelation*** (<a id="a64_280"></a>[UB 196:3.15](/en/The_Urantia_Book/196#p3_15))
 
@@ -317,7 +325,7 @@ The Divine Counselor here denounces the Christian dogma of the death of Christ o
 
 The Divine Counselor unveils the transcendent purpose of the universe that science cannot formulate in order to place man in a context of cosmic brotherhood illuminating his personal and spiritual relationship with God, his Father and his loving creator.
 
-## CONCUBSION
+## CONCLUSION
 
 We have now reached the end of this presentation and I wanted to share with you a few years of experience acquired during preparations, participation and running of study groups and seminars.
 

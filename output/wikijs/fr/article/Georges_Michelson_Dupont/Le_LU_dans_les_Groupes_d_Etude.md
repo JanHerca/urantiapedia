@@ -51,14 +51,22 @@ Le but de cette présentation est de partager avec vous l'expérience accumulée
 	- Aller au-delà de la simple signification des mots pour élargir notre cadre mental ;
 	- Faire descendre les concepts au niveau de l'expérience personnelle.
 4. Enfin je proposerai des exemples pratiques et je ferai quelques recommandations pour que le déroulement du groupe d'étude soit efficace et captivant.
-	Les révélateurs ont fait preuve d'une grande connaissance du fonctionnement de notre mental pour nous présenter la révélation, expertise que nous pouvons utiliser dans les groupes d'étude. En pratique, l'approche de l'étude intensive que je suggère est plus adaptée aux lecteurs ayant lu le _Livre d'Urantia_ dans son intégralité. Cependant des groupes d'étude peuvent accueillir de nouveaux lecteurs qui doivent d'abord se familiariser avec les enseignements. Il devient alors nécessaire d'adapter la méthode aux circonstances.
-	Pourquoi étudier le _Livre d'Urantia_?
-	Quand vous ouvrez le _Livre d'Urantia_ pour étudier la cinquième révélation d'époque, vous avez rendez-vous avec Dieu et les forces spirituelles qui conspirent pour vous approprier la réalité des valeurs spirituelles et vous assistent dans la compréhension de la philosophie de l'univers. Ce n'est pas une fleur de rhétorique, c'est une réalité d'expérience, pouvez-vous réellement en mesurer l'importance?
-5. Les Fascicules d'Urantia. « _Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d'Urantia._ » (<a id="a56_165"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9)) De plus, un Melchizédek de Nébadon nous exhorte à étudier la révélation en ces termes:
+
+Les révélateurs ont fait preuve d'une grande connaissance du fonctionnement de notre mental pour nous présenter la révélation, expertise que nous pouvons utiliser dans les groupes d'étude. En pratique, l'approche de l'étude intensive que je suggère est plus adaptée aux lecteurs ayant lu le _Livre d'Urantia_ dans son intégralité. Cependant des groupes d'étude peuvent accueillir de nouveaux lecteurs qui doivent d'abord se familiariser avec les enseignements. Il devient alors nécessaire d'adapter la méthode aux circonstances.
+
+## Pourquoi étudier le _Livre d'Urantia_?
+
+Quand vous ouvrez le _Livre d'Urantia_ pour étudier la cinquième révélation d'époque, vous avez rendez-vous avec Dieu et les forces spirituelles qui conspirent pour vous approprier la réalité des valeurs spirituelles et vous assistent dans la compréhension de la philosophie de l'univers. Ce n'est pas une fleur de rhétorique, c'est une réalité d'expérience, pouvez-vous réellement en mesurer l'importance?
+
+> _5. Les Fascicules d'Urantia. « Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d'Urantia._ » (<a id="a56_165"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
+
+De plus, un Melchizédek de Nébadon nous exhorte à étudier la révélation en ces termes:
 
 > « _Il ne suffit pas que le mortel ascendant ait des notions sur les relations de la Déité avec la genèse et les manifestations de la réalité cosmique. Il devrait aussi comprendre quelque chose des relations existant entre lui-même et les nombreux niveaux de réalités existentielles et expérientielles, de réalités potentielles et actuelles. L'orientation de l'homme sur terre, sa clairvoyance cosmique et l'orientation de sa conduite spirituelle sont toutes rehaussées par une meilleure compréhension des réalités de l'univers et de leurs techniques d'interassociation, d'intégration et d'unification_ » (<a id="a58_607"></a>[LU 106:0.1](/fr/The_Urantia_Book/106#p0_1))
 
-Le mandat de révéler. Il est clairement identifié et exprimé dans le second paragraphe de l'introduction par le Conseiller Divin en ces termes: « ***Étendre la conscience cosmique et rehausser la perception spirituelle*** »
+## Le mandat de révéler
+
+Il est clairement identifié et exprimé dans le second paragraphe de l'introduction par le Conseiller Divin en ces termes: « ***Étendre la conscience cosmique et rehausser la perception spirituelle*** »
 
 Cette phrase introduit deux concepts : «étendre la conscience cosmique » et « rehausser la perception spirituelle ». Nous allons décrypter la signification de chacun un peu plus loin mais d'ores et déjà un Melchizédek de Nébadon décrit ce processus comme étant une technique ***d'évolution-révélation*** (<a id="a62_305"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15))
 
