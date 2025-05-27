@@ -89,7 +89,7 @@ All this shows us a vibrant, dynamic, increasingly interconnected and planetary 
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/02.jpg" width="250">
 </figure>
 
-**[Mr. Hubble and _The Urantia Book_ (Dick Bain, with comments by Jan Herca)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)**
+**[Mr. Hubble and _The Urantia Book_ (Dick Bain, with comments by Jan Herca)](/en/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers)** (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf))
 
 In this paper, Dick Bain (with additional comments by Jan Herca, the article's translator) compares Hubble's theory that the universe is constantly expanding against the book's claims to this perception, especially centered on the breathing of space. , which leads him to reflect on the cosmology of the book and the possible criticisms it may have from non-readers related to the need to review it.
 

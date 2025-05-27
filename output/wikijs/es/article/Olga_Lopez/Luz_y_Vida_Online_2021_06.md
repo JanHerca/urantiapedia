@@ -95,7 +95,7 @@ Dios escucha el llamado de nuestro corazón y nos ha proporcionado este hermoso 
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Carta para astrónomos y astrofísicos" width="250">
 </figure>
 
-[**Carta para astrónomos y astrofísicos (autor desconocido)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf)
+[**Carta para astrónomos y astrofísicos (autor desconocido)**](/es/article/A_Letter_to_Astronomers_and_Astrophysicists) ([también en el sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf))
 
 En este extenso e interesantísimo trabajo, traducido por Jan Herca, el autor aborda diferentes aspectos de la cosmología de _El Libro de Urantia_ y la compara con lo que la astronomía ha descubierto hasta ahora: la ubicación de los siete superuniversos, la distribución de los distintos tipos de espacio (penetrado y no penetrado), la forma del superuniverso de Orvonton, los niveles del espacio exterior, y mucho más.
 <br style="clear:both" />

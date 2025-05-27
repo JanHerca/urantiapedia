@@ -97,7 +97,7 @@ God hears the call of our hearts and has provided us with this beautiful blue bo
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Letter to astronomers and astrophysicists" width="250">
 </figure>
 
-[**Letter to astronomers and astrophysicists (author unknown)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf)
+[**Letter to astronomers and astrophysicists (author unknown)**](/en/article/A_Letter_to_Astronomers_and_Astrophysicists) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf))
 
 In this extensive and extremely interesting work, translated by Jan Herca, the author addresses different aspects of the cosmology of _The Urantia Book_ and compares it with what astronomy has discovered so far: the location of the seven superuniverses, the distribution of the different types of space (penetrated and non-penetrated), the shape of the Orvonton superuniverse, outer space levels, and much more.
 <br style="clear:both" />

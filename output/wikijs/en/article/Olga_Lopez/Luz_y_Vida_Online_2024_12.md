@@ -106,7 +106,7 @@ As readers committed to the teachings of the book, we want a guide that will hel
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/El-LU-y-el-colapso-de-la-era-capitalista.jpg" alt="El LU y el colapso" width="250">
 </figure>
 
-[**_The Urantia Book_ and the collapse of the capitalist era (Jan Herca)**](/en/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era) (Alternative link: [PDF on the association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/El-UB-y-el-colapso-de-la-era-capitalista.pdf))
+[**_The Urantia Book_ and the collapse of the capitalist era (Jan Herca)**](/en/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era) (Alternative link: [PDF on the association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/El-LU-y-el-colapso-de-la-era-capitalista.pdf))
 
 Despite not being the dominant discourse among governments and the media, more and more voices are being raised against the perfect storm that we face as humanity at this point in the 21st century: the climate crisis combined with the energy crisis, in which all countries are being affected in one way or another. Given the bleak outlook that is presented, the author of this essay takes a look at _The Urantia Book_, which he states “is extensive in describing catastrophic situations without at any time giving us the impression that such dramatic events had a special celestial intervention.” Will this situation be different from the previous ones? In this essay, the author gives his answer.
 

@@ -88,7 +88,7 @@ Tout cela nous montre un MOUVEMENT URANTIA vibrant, dynamique, de plus en plus i
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/02.jpg" width="250">
 </figure>
 
-**[Le Mr. Hubble et _Le Livre d'Urantia_ (Dick Bain, avec commentaires de Jan Herca)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)**
+**[Le Mr. Hubble et _Le Livre d'Urantia_ (Dick Bain, avec commentaires de Jan Herca)](/fr/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers)** (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf))
 
 Dans cet ouvrage, Dick Bain (avec les commentaires supplémentaires de Jan Herca, traducteur de l'article) compare la théorie de Hubble selon laquelle l'univers est en expansion constante avec les affirmations du livre sur cette perception, particulièrement axées sur la respiration de l'espace, ce qui l'amène à réfléchir sur la cosmologie du livre et les éventuelles critiques qu'il peut avoir de la part de non-lecteurs liées à la nécessité de le relire.
 
