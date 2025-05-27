@@ -182,7 +182,7 @@ On peut constater que les trois lois de la thermodynamique sont applicables loca
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

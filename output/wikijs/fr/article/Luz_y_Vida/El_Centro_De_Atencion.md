@@ -148,7 +148,7 @@ Nous devons prendre l’habitude d’être courageux et déterminés, mais instr
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

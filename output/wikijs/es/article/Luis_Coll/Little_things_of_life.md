@@ -64,7 +64,7 @@ Esta es exactamente la manera de vivir y actuar que tenía el Hijo Creador cuand
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

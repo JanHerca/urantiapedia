@@ -181,7 +181,7 @@ El próximo viernes 15 de marzo, de 7 a 8:30 de la tarde, Jaime Marco (vicepresi
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

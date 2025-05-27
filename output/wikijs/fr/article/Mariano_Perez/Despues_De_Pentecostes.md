@@ -143,7 +143,7 @@ Le Livre nous a été révélé pour préparer le terrain pour une époque futur
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

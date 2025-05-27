@@ -60,7 +60,7 @@ From these pages we wish you a happy summer, and that these days of rest are day
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

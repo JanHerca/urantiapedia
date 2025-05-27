@@ -160,7 +160,7 @@ One last comment: Albert Einstein's theory of relativity predicted (and it has m
 
 ## Referencias
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 - Original article: https://archive.urantiabook.org/archive/science/calass2.htm
 

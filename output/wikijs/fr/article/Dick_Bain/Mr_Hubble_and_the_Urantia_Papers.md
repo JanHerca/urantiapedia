@@ -100,11 +100,11 @@ Il me semble que les auteurs ont intentionnellement créé un mystère pour nous
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html)
 
-* « Hubble’s Contentious Constant », publication de la NASA, sept. 2017. https://science.nasa.gov/science-news/news-articles/hubbles-contentious-constant-news
+* [« Hubble’s Contentious Constant », publication de la NASA, sept. 2017.](https://science.nasa.gov/science-news/news-articles/hubbles-contentious-constant-news)
 
-* Francisco R. Villatoro, « Le problème constant de Hubble », juin 2017. https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
+* [Francisco R. Villatoro, « Le problème constant de Hubble », juin 2017.](https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/)
 
 
 

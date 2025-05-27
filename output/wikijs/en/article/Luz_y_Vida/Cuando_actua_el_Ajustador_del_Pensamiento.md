@@ -193,7 +193,7 @@ There it is. I believe that it has to make you think as it made me think of its 
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

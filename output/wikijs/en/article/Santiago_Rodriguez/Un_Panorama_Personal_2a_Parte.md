@@ -148,7 +148,7 @@ Let us not forget that “**YOU HAVE TO KNOW HUMAN THINGS TO BE ABLE TO LOVE THE
 
 - [A Personal Overview, Part One](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
 - [A Personal Overview, Part Three](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

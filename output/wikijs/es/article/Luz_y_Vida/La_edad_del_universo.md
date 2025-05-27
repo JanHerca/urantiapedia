@@ -181,7 +181,7 @@ Posiblemente se llegue a encontrar que las tres leyes de la termodinámica son a
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

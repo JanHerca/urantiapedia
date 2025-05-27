@@ -186,7 +186,7 @@ FIN de la 1ª PARTE
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Artículo completo publicado del [Fellowship Herald](/es/article/Israel_Dix/Urantia_606_of_Satania).
 
 

@@ -106,4 +106,4 @@ Here we have the key to what we are: Matter, our bodies; Mind, conscience, and S
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)

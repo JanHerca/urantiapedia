@@ -58,7 +58,7 @@ Mais comprendrons-nous tout ou saurons-nous tout ? Viendra-t-il le temps où l�
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

@@ -256,7 +256,7 @@ Meanwhile, as believers in the fifth revelation, let's live our life with joy; l
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

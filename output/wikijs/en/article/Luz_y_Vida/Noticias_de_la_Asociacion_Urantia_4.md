@@ -60,7 +60,7 @@ The books are sold at **15 euros** each (shipping costs not included), the same 
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

@@ -85,7 +85,7 @@ Publicado en el nº 32 del boletín «Le Lien Urantien» de la AFFLU. Traducció
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

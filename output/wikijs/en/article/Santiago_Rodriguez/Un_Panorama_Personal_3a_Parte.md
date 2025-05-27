@@ -205,7 +205,7 @@ The differences in the religions of the different ages depend entirely on the di
 
 - [A Personal Overview, Part One](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
 - [A Personal Overview, Part Two](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_2a_Parte)
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

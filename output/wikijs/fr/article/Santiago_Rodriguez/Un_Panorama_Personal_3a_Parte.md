@@ -204,7 +204,7 @@ Les différences entre les religions des différentes époques dépendent entiè
 
 - [Un aperçu personnel, première partie](/fr/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
 - [Un aperçu personnel, deuxième partie](/fr/article/Santiago_Rodriguez/Un_Panorama_Personal_2a_Parte)
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

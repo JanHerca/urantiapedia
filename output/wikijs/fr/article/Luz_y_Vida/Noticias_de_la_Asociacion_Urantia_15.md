@@ -182,7 +182,7 @@ Vendredi prochain, le 15 mars, de 19h à 20h30, Jaime Marco (vice-président de 
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

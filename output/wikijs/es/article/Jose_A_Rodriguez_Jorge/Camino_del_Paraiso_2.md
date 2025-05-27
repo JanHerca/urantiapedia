@@ -56,7 +56,7 @@ no dudo, sino confío.
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 - [Esta poesía también en otro número](/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso)
 

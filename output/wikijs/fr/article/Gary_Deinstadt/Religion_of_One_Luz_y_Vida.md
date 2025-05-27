@@ -172,7 +172,7 @@ Je ne fais qu'effleurer la surface ici. Il existe évidemment une théologie dé
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Original tiré du [Fellowship Herald, numéro d'été 2013](/fr/article/Gary_Deinstadt/Religion_of_One).
 
 

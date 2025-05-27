@@ -106,4 +106,4 @@ Aquí tenemos la clave de lo que somos: Materia, nuestros cuerpos; Mente, la con
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)

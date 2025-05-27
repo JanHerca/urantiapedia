@@ -171,7 +171,7 @@ Aquí sólo estoy rascando la superficie. Obviamente, hay teología pasada de mo
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Original de la [Fellowship Herald, número de verano de 2013](/es/article/Gary_Deinstadt/Religion_of_One).
 
 

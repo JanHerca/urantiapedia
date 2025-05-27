@@ -115,7 +115,7 @@ Au-delà des mathématiques se trouve... le maître mathématicien.
 - L'efficacité déraisonnable des mathématiques dans les sciences naturelles, Eugene Wigner. Il peut être lu sur le lien http://pedroweb.dyndns.org/fisica/eficacia/irrazonablewigner.pdf
 - Wikipédia : http://es.wikipedia.org
 - La page du nombre pi : http://webs.adam.es/rllorens/pihome.htm (par curiosité, la musique qui joue lors de la navigation sur la page est basée sur le nombre pi)
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV6/04.jpg">

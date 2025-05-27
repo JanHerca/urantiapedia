@@ -203,7 +203,7 @@ Las diferencias en las religiones de las distintas edades dependen totalmente de
 
 - [Un panorama personal, Primera parte](/es/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
 - [Un panorama personal, Segunda parte](/es/article/Santiago_Rodriguez/Un_Panorama_Personal_2a_Parte)
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -100,7 +100,7 @@ Le Prologue est toujours une partie qui bouleverse le lecteur, surtout lorsqu'il
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/04.jpg" width="250">
 </figure>
 
-**[Le superunivers d'Orvonton est-il la Voie Lactée ? (Eduardo Altuzarra)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf)**
+**[Le superunivers d'Orvonton est-il la Voie Lactée ? (Eduardo Altuzarra)](/fr/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea)** (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf))
 
 Dans cet ouvrage de 11 pages, l'auteur, Eduardo Altuzarra, lecteur chevronné du livre, expose, sur la base de citations du livre, de graphiques et d'œuvres secondaires d'autres lecteurs, sa thèse selon laquelle Orvontón est la galaxie de la Voie lactée.
 <br style="clear:both" />

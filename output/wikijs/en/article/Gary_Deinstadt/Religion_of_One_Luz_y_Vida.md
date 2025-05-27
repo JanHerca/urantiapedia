@@ -173,7 +173,7 @@ Here I am only scratching the surface. Obviously, there is old-fashioned theolog
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Original from the [Fellowship Herald, Summer 2013 issue](/en/article/Gary_Deinstadt/Religion_of_One).
 
 

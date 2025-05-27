@@ -88,7 +88,7 @@ Conforme escribo estas líneas me he documentado y parece ser que hace 10 mil a�
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - https://es.wikipedia.org/wiki/Teratornis
 - https://es.wikipedia.org/wiki/Argentavis_magnificens
 - https://es.wikipedia.org/wiki/Aepyornithidae

@@ -99,11 +99,11 @@ It appears to me that the authors intentionally created a mystery for us. I thin
 
 ## External Links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html)
 
-* «Hubble’s Contentious Constant», NASA publication, sept. 2017. https://science.nasa.gov/science-news/news-articles/hubbles-contentious-constant-news
+* [“Hubble’s Contentious Constant”, NASA publication, sept. 2017.](https://science.nasa.gov/science-news/news-articles/hubbles-contentious-constant-news)
 
-* Francisco R. Villatoro, «The Hubble constant problem», june 2017.  https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
+* [Francisco R. Villatoro, “The Hubble constant problem”, june 2017.](https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/)
 
 
 <figure class="table chapter-navigator">

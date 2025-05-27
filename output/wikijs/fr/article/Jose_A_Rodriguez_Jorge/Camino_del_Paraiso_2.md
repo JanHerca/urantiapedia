@@ -57,7 +57,7 @@ Je ne doute pas, mais j'ai confiance.
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 - [Cette poésie également dans un autre numéro](/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso)
 

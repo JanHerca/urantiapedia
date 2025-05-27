@@ -99,11 +99,13 @@ Me parece que los autores han creado un misterio para nosotros intencionadamente
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page10.html)
 
-* «La controvertida Constante de Hubble», publicación de la NASA, sep. 2017. https://ciencia.nasa.gov/la-controvertida-constante-de-hubble
+* [Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)
 
-* Francisco R. Villatoro, «El problema de la constante de Hubble», junio 2017.  https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
+* [«La controvertida Constante de Hubble», publicación de la NASA, sep. 2017.](https://ciencia.nasa.gov/la-controvertida-constante-de-hubble)
+
+* [Francisco R. Villatoro, «El problema de la constante de Hubble», junio 2017.](https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/)
 
 
 <figure class="table chapter-navigator">

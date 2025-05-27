@@ -147,7 +147,7 @@ N'oublions pas que « **IL FAUT CONNAÎTRE LES CHOSES HUMAINES POUR POUVOIR LES 
 
 - [Un aperçu personnel, première partie](/fr/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
 - [Un aperçu personnel, troisième partie](/fr/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

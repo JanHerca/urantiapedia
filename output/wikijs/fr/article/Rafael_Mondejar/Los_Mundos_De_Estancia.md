@@ -292,7 +292,7 @@ Dans <a id="a290_5"></a>[LU 47:3.5](/fr/The_Urantia_Book/47#p3_5) il y a des obs
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

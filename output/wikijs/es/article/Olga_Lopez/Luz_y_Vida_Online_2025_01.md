@@ -88,7 +88,7 @@ El Prólogo siempre es una parte que abruma al lector, sobre todo cuando se enfr
 <img src="/image/article/Luz_y_Vida/LyV_2025_01/201b16d5-a167-4528-9258-e911322b8448.jpg" alt="Orvontón-Vía Láctea" width="250">
 </figure>
 
-[**¿El superuniverso de Orvontón es la Vía Láctea? (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf)
+[**¿El superuniverso de Orvontón es la Vía Láctea? (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf))
 
 En este trabajo de 11 páginas el autor, Eduardo Altuzarra, lector veterano del libro, expone apoyándose en citas del libro, en gráficos y en trabajos secundarios de otros lectores su tesis de que Orvontón es la galaxia Vía Láctea.
 <br style="clear:both;"/>

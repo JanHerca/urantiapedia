@@ -101,7 +101,7 @@ The Prologue is always a part that overwhelms the reader, especially when facing
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/04.jpg" width="250">
 </figure>
 
-**[Is the Orvonton superuniverse the Milky Way? (Eduardo Altuzarra)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf)**
+**[Is the Orvonton superuniverse the Milky Way? (Eduardo Altuzarra)](/en/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea)** (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf))
 
 In this 11-page work, the author, Eduardo Altuzarra, a veteran reader of the book, explains his thesis that Orvonton is the Milky Way galaxy, based on quotes from the book, graphics and secondary works by other readers.
 <br style="clear:both" />

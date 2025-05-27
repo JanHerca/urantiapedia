@@ -94,7 +94,7 @@ Welcome then to the amazing and eternal adventure that opens with the reading of
 <img src="/image/article/Luz_y_Vida/LyV_2021_05/Lamateriaylaenergia.jpg" alt="La materia y la energía" width="250">
 </figure>
 
-[Matter and energy. Physics and _The Urantia Book_ (Carmelo Martínez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf)
+[Matter and energy. Physics and _The Urantia Book_ (Carmelo Martínez)](/en/article/Carmelo_Martinez/La_materia_y_la_energia_La_fisica_y_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf))
 
 In this extensive work, Carmelo Martínez (already graduated from this world) discusses material reality in the light of _The Urantia Book_, but without losing sight of the findings and theories of science. To do this, he briefly reviews the history of physics until he reaches particle physics and ends with his personal vision of ultimatons (not yet discovered by science), morontia matter and spiritual matter, based on the teachings from the book.
 

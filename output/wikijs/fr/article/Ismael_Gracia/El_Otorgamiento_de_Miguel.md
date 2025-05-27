@@ -241,7 +241,7 @@ Approfondir l'incarnation de Michael grâce au _Le Livre d'Urantia_ a été l'un
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

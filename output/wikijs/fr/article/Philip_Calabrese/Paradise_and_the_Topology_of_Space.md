@@ -158,7 +158,7 @@ Un dernier commentaire : la théorie de la relativité d'Albert Einstein prédis
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 - Article original : https://archive.urantiabook.org/archive/science/calass2.htm
 

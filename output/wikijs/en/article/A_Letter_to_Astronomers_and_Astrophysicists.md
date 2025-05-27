@@ -375,7 +375,7 @@ The Author
 
 ## External links
 
-* This article: https://archive.org/details/ALetterToAstronomersAndAstrophysicists-2016_201612/page/n7/mode/2up
+* [This article](https://archive.org/details/ALetterToAstronomersAndAstrophysicists-2016_201612/page/n7/mode/2up)
 
 ## Notes
 

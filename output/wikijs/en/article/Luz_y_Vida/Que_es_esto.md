@@ -90,7 +90,7 @@ As I write these lines I have documented myself and it seems that 10,000 years a
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 -https://es.wikipedia.org/wiki/Teratornis
 -https://es.wikipedia.org/wiki/Argentavis_magnificens
 -https://es.wikipedia.org/wiki/Aepyornithidae

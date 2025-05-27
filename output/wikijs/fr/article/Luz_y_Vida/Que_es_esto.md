@@ -89,7 +89,7 @@ Au moment où j'écris ces lignes, je me suis documenté et il semble qu'il y a 
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - https://es.wikipedia.org/wiki/Teratornis
 - https://es.wikipedia.org/wiki/Argentavis_magnificens
 - https://es.wikipedia.org/wiki/Aepyornithidae

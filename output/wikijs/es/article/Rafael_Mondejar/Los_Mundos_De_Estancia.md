@@ -291,7 +291,7 @@ En <a id="a289_3"></a>[LU 47:3.5](/es/The_Urantia_Book/47#p3_5) hay unas observa
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

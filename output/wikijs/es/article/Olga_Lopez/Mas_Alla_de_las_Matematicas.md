@@ -114,7 +114,7 @@ Más allá de las matemáticas se esconde...el Maestro Matemático.
 - La irrazonable eficacia de la matemática en las ciencias naturales, Eugene Wigner. Puede leerse en el enlace http://pedroweb.dyndns.org/fisica/eficacia/irrazonablewigner.pdf
 - Wikipedia: http://es.wikipedia.org
 - La página del número pi: http://webs.adam.es/rllorens/pihome.htm (como dato curioso, la música que suena al navegar por la página está basada en el número pi)
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV6/04.jpg">

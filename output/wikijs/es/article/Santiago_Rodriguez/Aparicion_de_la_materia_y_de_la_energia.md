@@ -156,7 +156,8 @@ El aumento de científicos creyentes no hará otra ciencia, pero sí avanzarán 
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
+- [Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Aparici%C3%B3n-en-el-escenario-c%C3%B3smico-de-la-materia-y-de-la-energ%C3%ADa.pdf)
 
 <figure class="table chapter-navigator">
   <table>

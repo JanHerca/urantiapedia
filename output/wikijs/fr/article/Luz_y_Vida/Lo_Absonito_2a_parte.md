@@ -169,7 +169,7 @@ Ce n'est pas surprenant. Fusionner avec l’Ajusteur n’est pas une mince affai
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

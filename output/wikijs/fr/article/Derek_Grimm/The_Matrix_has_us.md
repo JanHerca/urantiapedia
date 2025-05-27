@@ -234,7 +234,7 @@ Permettez-moi de terminer en partageant quelque chose que j'ai compris sur le co
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Article original dans : http://perthubsg.com/2015/08/the-matrix-has-us/
 
 

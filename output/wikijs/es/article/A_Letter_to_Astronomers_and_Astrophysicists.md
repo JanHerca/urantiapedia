@@ -375,7 +375,8 @@ El autor.
 
 ## Enlaces externos
 
-* Este artículo: https://archive.org/details/ALetterToAstronomersAndAstrophysicists-2016_201612/page/n7/mode/2up
+* [Este artículo](https://archive.org/details/ALetterToAstronomersAndAstrophysicists-2016_201612/page/n7/mode/2up)
+* [Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf)
 
 ## Notas
 

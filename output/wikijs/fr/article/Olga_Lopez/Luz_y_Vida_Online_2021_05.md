@@ -93,7 +93,7 @@ Bienvenue alors dans l'aventure étonnante et éternelle qui s'ouvre avec la lec
 <img src="/image/article/Luz_y_Vida/LyV_2021_05/Lamateriaylaenergia.jpg" alt="La materia y la energía" width="250">
 </figure>
 
-[Matière et énergie. Physique et _Le Livre d'Urantia_ (Carmelo Martínez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf)
+[Matière et énergie. Physique et _Le Livre d'Urantia_ (Carmelo Martínez)](/fr/article/Carmelo_Martinez/La_materia_y_la_energia_La_fisica_y_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf))
 
 Dans ce vaste ouvrage, Carmelo Martínez (déjà diplômé de ce monde) traite de la réalité matérielle à la lumière du _Le Livre d'Urantia_, mais sans perdre de vue les découvertes et les théories scientifiques. Para ello realiza un breve repaso por la historia de la física hasta llegar a la física de partículas y termina con su visión personal de los ultimatones (todavía no descubiertos por la ciencia), la materia de morontia y la materia espiritual, basándose en las enseñanzas du livre.
 

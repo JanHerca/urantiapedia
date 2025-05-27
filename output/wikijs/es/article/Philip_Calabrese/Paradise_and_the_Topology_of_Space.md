@@ -157,7 +157,7 @@ Un último comentario: la teoría de la relatividad de Albert Einstein predijo (
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 - Artículo original: https://archive.urantiabook.org/archive/science/calass2.htm
 

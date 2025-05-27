@@ -92,7 +92,7 @@ Bienvenidos/as pues a la aventura asombrosa y eterna que se abre con la lectura 
 <img src="/image/article/Luz_y_Vida/LyV_2021_05/Lamateriaylaenergia.jpg" alt="La materia y la energía" width="250">
 </figure>
 
-[La materia y la energía. La física y _El Libro de Urantia_ (Carmelo Martínez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf)
+[La materia y la energía. La física y _El Libro de Urantia_ (Carmelo Martínez)](/es/article/Carmelo_Martinez/La_materia_y_la_energia_La_fisica_y_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf))
 
 En este extenso trabajo, Carmelo Martínez (ya graduado de este mundo) trata sobre la realidad material bajo la luz de _El Libro de Urantia_, pero sin perder de vista los hallazgos y las teorías de la ciencia. Para ello realiza un breve repaso por la historia de la física hasta llegar a la física de partículas y termina con su visión personal de los ultimatones (todavía no descubiertos por la ciencia), la materia de morontia y la materia espiritual, basándose en las enseñanzas del libro.
 

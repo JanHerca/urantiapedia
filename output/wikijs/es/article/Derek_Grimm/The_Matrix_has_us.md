@@ -233,7 +233,7 @@ Déjenme terminar compartiendo algo que he comprendido acerca de la valentía. _
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Artículo original en: http://perthubsg.com/2015/08/the-matrix-has-us/
 
 <figure class="table chapter-navigator">

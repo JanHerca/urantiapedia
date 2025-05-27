@@ -122,7 +122,7 @@ I don't know if I'm being very clear. This is a matter best explained by the gal
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 ## Grades
 

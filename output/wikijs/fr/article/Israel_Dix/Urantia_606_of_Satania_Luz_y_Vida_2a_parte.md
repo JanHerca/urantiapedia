@@ -175,7 +175,7 @@ FIN de la PARTIE 2
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Article complet publié dans [Fellowship Herald](/fr/article/Israel_Dix/Urantia_606_of_Satania).
 
 

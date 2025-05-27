@@ -235,7 +235,7 @@ Let me end by sharing something I have come to understand about bravery. _The op
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 - Original article in: http://perthubsg.com/2015/08/the-matrix-has-us/
 
 

@@ -183,7 +183,7 @@ Next Friday, March 15, from 7 to 8:30 in the afternoon, Jaime Marco (Vice Presid
 
 ## References
 
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

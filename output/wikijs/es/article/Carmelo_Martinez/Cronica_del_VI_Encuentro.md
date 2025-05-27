@@ -74,7 +74,7 @@ La despedida del lunes tras el desayuno fue, como siempre, prolongada; tratábam
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

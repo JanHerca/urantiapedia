@@ -155,7 +155,7 @@ Here begins the particular path of each individual, of each generation, of each 
 
 - [A Personal Overview, Part Two](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_2a_Parte)
 - [A Personal Overview, Part Three](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 
 

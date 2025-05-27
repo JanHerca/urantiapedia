@@ -116,7 +116,7 @@ Beyond mathematics hides... the Mathematician Master.
 - The unreasonable effectiveness of mathematics in the natural sciences, Eugene Wigner. It can be read at the link http://pedroweb.dyndns.org/fisica/eficacia/irrazonablewigner.pdf
 - Wikipedia: http://es.wikipedia.org
 - The pi number page: http://webs.adam.es/rllorens/pihome.htm (as a curious fact, the music that plays when browsing the page is based on the pi number)
-- Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV6/04.jpg">
