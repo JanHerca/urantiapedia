@@ -19,7 +19,7 @@ dateCreated: 2025-1-31T13:52:37Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-abril-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2025</span>
         </a>
         </td>
@@ -108,7 +108,7 @@ Only returning, together, to our origins will allow us to revive hope in this wo
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-abril-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2025</span>
         </a>
         </td>

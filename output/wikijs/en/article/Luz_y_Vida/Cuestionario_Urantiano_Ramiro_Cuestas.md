@@ -19,7 +19,7 @@ dateCreated: 2025-1-31T13:52:37Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2024">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
         </a>
         </td>
@@ -101,7 +101,7 @@ As a final reflection, I would like to tell my brother readers of _The Urantia B
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2024">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
         </a>
         </td>

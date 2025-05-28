@@ -19,7 +19,7 @@ dateCreated: 2025-1-31T13:52:37Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-mayo-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2025</span>
         </a>
         </td>
@@ -155,7 +155,7 @@ Last night when I was sleeping (Antonio Machado)
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-mayo-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2025</span>
         </a>
         </td>

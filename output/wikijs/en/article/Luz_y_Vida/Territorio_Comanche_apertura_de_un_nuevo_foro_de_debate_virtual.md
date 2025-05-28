@@ -19,7 +19,7 @@ dateCreated: 2025-1-31T13:52:37Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2025</span>
         </a>
         </td>
@@ -90,7 +90,7 @@ We cordially welcome you to the virtual space "Comanche Territory"!
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2025</span>
         </a>
         </td>

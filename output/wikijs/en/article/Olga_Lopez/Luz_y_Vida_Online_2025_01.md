@@ -16,7 +16,7 @@ dateCreated: 2025-1-31T13:52:37Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2025</span>
         </a>
         </td>
@@ -276,7 +276,7 @@ All work and news from readers and study groups are welcome, so if you'd like to
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2025">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2025">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2025</span>
         </a>
         </td>
