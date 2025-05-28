@@ -116,7 +116,7 @@ URANTIA ASSOCIATION OF SPAIN
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/)
 
 
 

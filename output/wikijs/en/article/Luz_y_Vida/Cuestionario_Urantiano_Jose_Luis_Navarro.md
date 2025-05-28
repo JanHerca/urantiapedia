@@ -89,7 +89,7 @@ It is the most beautiful gift that has been given to the human being. All it tak
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro)
 
 
 

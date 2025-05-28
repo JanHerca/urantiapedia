@@ -112,7 +112,7 @@ So, let's do as our dear Master: let's enter our room, enter our body, close the
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/)
 
 
 

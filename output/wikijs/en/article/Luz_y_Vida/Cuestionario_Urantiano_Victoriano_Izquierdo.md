@@ -91,7 +91,7 @@ It has been a wonderful experience and it has led me to get to know and integrat
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo)
 
 
 

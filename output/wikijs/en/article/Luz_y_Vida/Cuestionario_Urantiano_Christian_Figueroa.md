@@ -101,7 +101,7 @@ I want to share three quotes that have become part of me and my vision, and that
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa)
 
 
 

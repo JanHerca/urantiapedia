@@ -179,7 +179,7 @@ https://youtu.be/C_HNHdWVFjk?si=2U1_Cb0_vTje4Kmn
 
 ## Navegando por la vida: Los zapatos del Padre
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_01/Los-zapatos-del-Padre.jpg" alt="Los zapatos del Padre" width="350">
 </figure>
 

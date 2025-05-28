@@ -84,7 +84,7 @@ Desde hace casi dos siglos (desde que Hegel y Nietzsche declararon su muerte) Oc
 
 **Por ello, ahora nos queda, limpio de polvo y paja, lo más importante: lo divino**. Mientras seamos capaces de percibir como divina una flor, un rostro, un pájaro, un gesto o una brizna de hierba, podremos tener esperanza en este mundo. Más bien, podríamos afirmar que «solo lo divino puede salvarnos».
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Editorial-abr-25-1.jpg" alt="Editorial abr 25 1">
 </figure>
 

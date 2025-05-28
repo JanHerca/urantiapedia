@@ -89,7 +89,7 @@ I have always seen _The Urantia Book_ as an exciting read, but very complex. My 
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca)
 
 
 

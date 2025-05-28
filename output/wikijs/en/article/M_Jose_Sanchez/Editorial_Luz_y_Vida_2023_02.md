@@ -144,7 +144,7 @@ Let's open our eyes and see...
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/)
 
 
 

@@ -158,7 +158,7 @@ The world needs these examples of families that we have highlighted above. Now i
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/)
 
 
 

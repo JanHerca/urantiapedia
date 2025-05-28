@@ -89,7 +89,7 @@ I am completely sure that this book will give another turn to this world, becaus
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan)
 
 
 

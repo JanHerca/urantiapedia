@@ -95,7 +95,7 @@ _The Urantia Book_ for me is a gift that has been given to us, so that we obtain
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa)
 
 
 

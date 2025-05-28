@@ -159,7 +159,7 @@ And with that perfect joy, we can truly bring Heaven to Earth.
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/)
 
 
 

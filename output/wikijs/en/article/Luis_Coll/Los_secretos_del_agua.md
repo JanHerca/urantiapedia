@@ -77,7 +77,7 @@ The human body is largely made up of water. It is estimated that 65% of body wei
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/)
 -Original: https://luiscollmilibrofavorito.blogspot.com/2021/10/los-secretos-del-agua.html
 
 

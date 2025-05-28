@@ -82,7 +82,7 @@ Reaching this level is reaching authentic emotional and spiritual freedom and in
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/)
 
 
 

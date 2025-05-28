@@ -91,7 +91,7 @@ I started (I guess like everyone else) with the first reading, eagerly looking f
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya)
 
 
 

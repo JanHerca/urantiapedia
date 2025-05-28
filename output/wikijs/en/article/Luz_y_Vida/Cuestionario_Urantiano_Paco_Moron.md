@@ -89,7 +89,7 @@ We are very at the beginning of this revelation, there are great cultural and be
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron)
 
 
 

@@ -92,7 +92,7 @@ Moral: to evolve spiritually, we do not need to be saints, nor accept them; it i
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/)
 
 
 

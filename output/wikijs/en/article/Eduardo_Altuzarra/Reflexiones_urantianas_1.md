@@ -83,7 +83,7 @@ It can be said that daring to start this endless adventure is to recognize in ad
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/)
 
 
 

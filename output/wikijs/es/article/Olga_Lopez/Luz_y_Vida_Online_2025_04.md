@@ -254,7 +254,9 @@ Los participantes compartieron experiencias personales y reflexiones sobre la é
 
 La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado en el que los asistentes pueden participar.
 
-Si os perdisteis la charla urantiana del día 25 de abril (Física cuántica e irrealidad, de Javier Martínez), [aquí tenéis el enlace](https://youtu.be/G_mHHbMXcj8?si=xIV2NqUrBi94iJdz).
+Si os perdisteis la charla urantiana del día 25 de abril (Física cuántica e irrealidad, de Javier Martínez), aquí tenéis el enlace
+
+https://youtu.be/G_mHHbMXcj8?si=xIV2NqUrBi94iJdz
 
 ## Presentaciones «En el foco» de la UBIS
 

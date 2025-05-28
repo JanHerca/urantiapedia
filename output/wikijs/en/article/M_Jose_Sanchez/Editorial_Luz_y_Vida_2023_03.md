@@ -142,7 +142,7 @@ This is how disconcerting, anti-system, amazing our God is: a God who makes hims
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/)
 
 
 

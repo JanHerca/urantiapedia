@@ -80,7 +80,7 @@ Luis
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/)
 
 
 

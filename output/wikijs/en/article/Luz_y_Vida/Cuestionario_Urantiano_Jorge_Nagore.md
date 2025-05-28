@@ -95,7 +95,7 @@ And above all, I would like to record my deepest gratitude to the developers and
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/)
 
 
 

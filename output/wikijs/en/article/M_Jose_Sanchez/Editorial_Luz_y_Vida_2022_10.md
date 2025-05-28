@@ -100,7 +100,7 @@ Let's go through the door that is _The Urantia Book_, let's discover with its re
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/)
 
 
 

@@ -121,7 +121,7 @@ Let's fight to be ourselves every day, let's go against the current, because bec
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/)
 
 
 

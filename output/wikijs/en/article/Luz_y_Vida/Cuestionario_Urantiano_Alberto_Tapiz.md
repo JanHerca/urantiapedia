@@ -66,4 +66,4 @@ I would like to express a wish about the book: I hope that its dissemination in 
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/31/cuestionario-urantiano-alberto-tapiz
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/31/cuestionario-urantiano-alberto-tapiz)

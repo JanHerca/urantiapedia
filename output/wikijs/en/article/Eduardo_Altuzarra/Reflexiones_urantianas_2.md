@@ -101,7 +101,7 @@ A book revealed to humanity for its transformation.
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/)
 
 
 

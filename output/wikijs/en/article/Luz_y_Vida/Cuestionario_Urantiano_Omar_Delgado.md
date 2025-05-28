@@ -89,7 +89,7 @@ Revelation is my master book of life and I will continue to share its message. I
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado)
 
 
 

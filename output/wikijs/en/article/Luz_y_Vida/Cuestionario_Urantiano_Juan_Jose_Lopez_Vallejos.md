@@ -102,7 +102,7 @@ I wish to add a personal circumstance. Quite a few years after knowing this book
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos)
 
 
 

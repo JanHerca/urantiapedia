@@ -63,7 +63,7 @@ It is in this way when the life-giving and liberating value of faith is fully fe
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/)
 
 
 

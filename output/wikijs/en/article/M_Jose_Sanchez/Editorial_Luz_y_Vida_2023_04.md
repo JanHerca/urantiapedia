@@ -112,7 +112,7 @@ Let us embrace in the present by His arms. Let us return as prodigal children to
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/)
 
 
 

@@ -89,7 +89,7 @@ What I want to say about _The Urantia Book_ is that it is a great revelation, an
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll)
 
 
 

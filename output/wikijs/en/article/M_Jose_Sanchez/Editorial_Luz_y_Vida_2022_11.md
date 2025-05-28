@@ -128,7 +128,7 @@ Nobody said that life was easy, but here we are... and we are accompanied by the
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/)
 
 
 

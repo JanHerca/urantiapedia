@@ -110,7 +110,7 @@ Free, as the true sons and daughters of God are free.
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/)
 
 
 

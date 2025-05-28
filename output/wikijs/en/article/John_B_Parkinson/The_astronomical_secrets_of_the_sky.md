@@ -130,7 +130,7 @@ After examining the Hyades, we will move on to my discovery of Jerusem, whose ne
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/)
 
 
 

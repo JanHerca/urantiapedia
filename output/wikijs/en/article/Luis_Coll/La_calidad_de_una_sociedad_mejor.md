@@ -64,7 +64,7 @@ The challenge for this modern age, if you want to put an end to most of the evil
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/)
 
 
 

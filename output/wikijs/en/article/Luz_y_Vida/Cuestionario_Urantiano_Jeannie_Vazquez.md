@@ -91,7 +91,7 @@ I would like many more of us who know and believe in the divine teachings of _Th
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu)
 
 
 

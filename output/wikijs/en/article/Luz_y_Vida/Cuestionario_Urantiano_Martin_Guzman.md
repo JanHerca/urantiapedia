@@ -105,7 +105,7 @@ _The Urantia Book_ is a road map that teaches us where to find the sustenance th
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman)
 
 
 

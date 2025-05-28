@@ -152,7 +152,7 @@ Now we can better grasp this powerful phrase from _The Urantia Book_, which we h
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
+- [Article of the Magazine «Luz y Vida Online»](https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/)
 
 
 
