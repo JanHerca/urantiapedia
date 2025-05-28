@@ -127,7 +127,7 @@ Maintenant, à ce moment et chaque jour de notre existence, le jeu de cache-cach
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="Arquitectos del Universo Maestro" width="250">
 </figure>
 
-[**Les architectes du Maître Univers (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
+[**Les architectes du Maître Univers (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Architects_of_Master_Universe) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf))
 
 Ce travail s'inspire d'autres travaux secondaires de l'auteur (recueillis dans les [Annexes d'Une étude du maître univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe), également disponibles sur [le site de l'association](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/)) pour traiter plus en détail du niveau absonite de réalité et , en particulier, à propos de ces êtres absonites connus sous le nom d'Architectes du Maître Univers, qui, selon les mots de l'auteur, « sont chargés d'initier les plans de Dieu ».
 <br style="clear:both" />
@@ -149,7 +149,7 @@ Dans cet ouvrage, l'auteur réfléchit sur le fait que les révélateurs semblai
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Gobekli-Tepe.jpg" alt="Gobekli Tepe" width="250">
 </figure>
 
-[**Gobekli Tepe (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Gobekli-Tepe.pdf)
+[**Gobekli Tepe (Halbert Katzen)**](/fr/article/Halbert_Katzen/Gobekli_Tepe) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Gobekli-Tepe.pdf))
 
 Dans cet ouvrage très intéressant qui ravira les lecteurs amateurs d'histoire ancienne et d'archéologie, l'auteur parle du site de Gobekli Tepe, vestige d'une ville étonnamment avancée pour l'époque à laquelle elle a été construite, et le relie aux explications de _The Livre d'Urantia_ sur « une civilisation pastorale génétiquement supérieure et bien développée existait dans cette région il y a plus de 30 000 ans. » Il comprend un grand nombre d’images du site et d’autres civilisations anciennes afin que l’on puisse se faire une idée de sa complexité et de son importance.
 <br style="clear:both" />

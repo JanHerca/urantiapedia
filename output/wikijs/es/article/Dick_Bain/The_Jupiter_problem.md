@@ -103,9 +103,9 @@ La hipótesis del origen *catastrófico* («teoría de Angona») puede tener aho
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html)
 
-* Traducción de Jan Herca: https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf
+* [Traducción de Jan Herca](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
 
 
 <figure class="table chapter-navigator">

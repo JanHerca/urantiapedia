@@ -107,7 +107,7 @@ Dans cet ouvrage vaste et très intéressant, traduit par Jan Herca, l'auteur ab
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="El Sol y su destino" width="250">
 </figure>
 
-[**Le Soleil et son destin (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf)
+[**Le Soleil et son destin (Jan Herca)**](/fr/article/Jan_Herca/The_Sun_and_its_destiny) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf))
 
 En guise d'introduction à cet ouvrage intéressant et agréable, quoi de mieux que de récupérer ici les mots introductifs de son auteur :
 

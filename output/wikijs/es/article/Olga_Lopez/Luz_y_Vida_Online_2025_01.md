@@ -77,7 +77,7 @@ Su investigación señala aspectos como estos:
 <img src="/image/article/Luz_y_Vida/LyV_2025_01/ce19e39a-9543-449a-a706-f61aaf120ce6o.jpg" alt="Simplificación del Prólogo" width="250">
 </figure>
 
-[**Simplificación del Prólogo (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf)
+[**Simplificación del Prólogo (Bill Sadler)**](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
 
 El Prólogo siempre es una parte que abruma al lector, sobre todo cuando se enfrenta a él por primera vez. En esta transcripción de una charla de Bill Sadler, hijo del Dr. William Sadler, trata sobre los conceptos que aparecen en el Prólogo y los explica de una manera muy coloquial y accesible. Un trabajo muy recomendable para todos los que desean aclarar los conceptos que aparecen en el Prólogo, y que luego son claves para comprender enseñanzas de otras partes del libro.
 <br style="clear:both;"/>

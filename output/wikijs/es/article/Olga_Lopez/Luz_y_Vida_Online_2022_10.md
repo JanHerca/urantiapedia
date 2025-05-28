@@ -78,7 +78,7 @@ Ahora hablemos de ti, querido lector o lectora, que lees este editorial de nuest
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego" width="250">
 </figure>
 
-[**La creación del fuego (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf)
+[**La creación del fuego (Halbert Katzen)**](/es/article/Halbert_Katzen/Creating_fire) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf))
 
 En este trabajo, el autor habla del momento en el que los seres humanos empezaron a utilizar el fuego de manera intencionada. Como sabemos, en el libro se dice que fueron Andón y Fonta, la primera pareja de seres humanos, los primeros que consiguieron hacer fuego a voluntad, pero la ciencia actual sitúa el inicio de esa habilidad varios cientos de miles de años después. Unos recientes descubrimientos han permitido retrasar considerablemente esa datación.
 <br style="clear:both" />
@@ -89,7 +89,7 @@ En este trabajo, el autor habla del momento en el que los seres humanos empezaro
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter" width="250">
 </figure>
 
-[**El problema de Júpiter (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
+[**El problema de Júpiter (Dick Bain)**](/es/article/Dick_Bain/The_Jupiter_problem) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf))
 
 Júpiter, ese planeta gigante gaseoso de nuestro sistema solar, siempre ha fascinado a astrónomos y no astrónomos. De hecho parece que no suele ser habitual encontrar ese tipo de planetas en otros sistemas solares, lo que lleva al autor a considerar lo que nos dicen los reveladores sobre nuestro propio sistema solar, que ellos llaman Monmatia y que tiene numerosas particularidades que lo hacen alejarse de lo que suele ser habitual. De hecho, el problema de Júpiter que da título a este trabajo es que no debería estar donde está. En palabras del autor: «Según los modelos actuales, los planetas gigantes se forman en los confines exteriores de un sistema, luego migran hacia adentro y terminan muy cerca de su estrella. Pero esto no podría ser para Júpiter. Es un planeta enorme, de más del doble de masa que el resto de planetas combinados del sistema solar, pero que sin embargo, orbita en una zona muy interior».
 <br style="clear:both" />

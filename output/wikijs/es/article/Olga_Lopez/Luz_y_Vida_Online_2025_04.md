@@ -95,7 +95,7 @@ En este extenso e interesantísimo trabajo, traducido por Jan Herca, el autor ab
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/El-Sol-y-su-destino.jpg" alt="El Sol y su destino" width="250">
 </figure>
 
-[**El Sol y su destino (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf)
+[**El Sol y su destino (Jan Herca)**](/es/article/Jan_Herca/The_Sun_and_its_destiny) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf))
 
 A título de introducción de este interesante y ameno trabajo, qué mejor que recuperar aquí las palabras introductorias de su autor:
 

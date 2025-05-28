@@ -379,4 +379,5 @@ Somos muy conscientes de las dificultades de nuestra tarea. Sabemos que no podem
 
 ## Referencias
 
-- Original in Urantia Association International: https://urantia-association.org/foreword-simplification/
+- [Original en Urantia Association International](https://urantia-association.org/foreword-simplification/)
+- [Original de la traducción en la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf)

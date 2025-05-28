@@ -90,7 +90,7 @@ Inside the PDF you will see a button from where you can access the text of the d
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/03.jpg" width="250">
 </figure>
 
-**[Simplified Prologue (Bill Sadler)](/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)**
+**[Simplified Prologue (Bill Sadler)](/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)** (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
 
 The Prologue is always a part that overwhelms the reader, especially when facing it for the first time. In this transcript of a talk by Bill Sadler, son of Dr. William Sadler, he discusses the concepts that appear in the Foreword and explains them in a very conversational and accessible way. A highly recommended work for all those who wish to clarify the concepts that appear in the Prologue, and which are later key to understanding teachings in other parts of the book.
 <br style="clear:both" />

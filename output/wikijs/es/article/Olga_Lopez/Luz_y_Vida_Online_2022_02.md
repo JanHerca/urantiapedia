@@ -85,7 +85,7 @@ Jamás se ha emborrachado nadie a base de comprender «intelectualmente» la pal
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación" width="250">
 </figure>
 
-[**Historia de la Creación (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf)
+[**Historia de la Creación (Bill Sadler)**](/es/article/Antonio_Moya/History_of_Creation) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf))
 
 Este trabajo es una síntesis de otro trabajo más extenso que Bill Sadler escribió sobre los temas más densos de _El Libro de Urantia_ como es el origen del universo, titulado _[Estudio del universo maestro](https://aue.urantia-association.org/estudio-del-universo-maestro-de-william-s-sadler-jr/)_. Sin duda esta obra ayudará a los lectores del libro a tener más claros la secuencia de edades que culminaron en traer a la existencia el cosmos y las personalidades divinas implicadas. Como apoyo a este trabajo está [este otro con gráficos de apoyo](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Graficos.pdf).
 <br style="clear:both" />

@@ -238,6 +238,7 @@ La interpretación de los detalles de cómo este área podría haberse hundido e
 - [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
 - [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
 - [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
+- [Este informe en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf)
 - Kenneth Chang, _Jack Oliver, demostrador de la deriva continental, muere a los 87 años_, (_Jack Oliver, Who Proved Continental Drift, Dies at 87_, _The New York Times_, enero 2011, \myurl{https://www.nytimes.com/2011/01/12/science/earth/12oliver.html?_r=4\&adxnnl=1\&ref=science\&adxnnlx=1294851704-aH9bArRuWC6WOqHwEm4ROQ})
 - _Zonas de grietas: nueva comprensión de las increíbles fuerzas, reservas de petróleo y gas debajo de la superficie de la Tierra_ (_Rift Zones: New Understanding Of Incredible Forces, Oil And Gas Reserves Beneath The Earth’s Surface_), _Science Daily_, febrero 2009, \myurl{https://www.sciencedaily.com/releases/2009/02/090211122136.htm}
 - _Teoría de la deriva continental_ (_Continental Drift Theory_), _The Columbia Electronic Encyclopedia_, 6ª ed., 2012, \myurl{https://www.infoplease.com/encyclopedia/earth/geology-oceanography/info/continental-drift}

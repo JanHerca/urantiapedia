@@ -80,7 +80,7 @@ Now let's talk about you, dear reader or reader, who reads this editorial from o
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="The Creation of Fire" width="250">
 </figure>
 
-[**The Creation of Fire (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf)
+[**The Creation of Fire (Halbert Katzen)**](/en/article/Halbert_Katzen/Creating_fire) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf))
 
 In this work, the author talks about the moment in which human beings began to use fire intentionally. As we know, in the book it is said that Andón and Fonta, the first couple of human beings, were the first to be able to make fire at will, but current science places the beginning of this ability several hundred thousand years later. Recent discoveries have made it possible to delay that dating considerably.
 <br style="clear:both" />
@@ -91,7 +91,7 @@ In this work, the author talks about the moment in which human beings began to u
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="The Jupiter Problem" width="250">
 </figure>
 
-[**The Jupiter Problem (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
+[**The Jupiter Problem (Dick Bain)**](/en/article/Dick_Bain/The_Jupiter_problem) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf))
 
 Jupiter, that gas giant planet in our solar system, has always fascinated astronomers and non-astronomers alike. In fact, it seems that it is not usual to find this type of planet in other solar systems, which leads the author to consider what the developers tell us about our own solar system, which they call Monmatia and which has numerous peculiarities that make it distance. than is usual. In fact, the problem with Jupiter that gives the title to this work is that it should not be where it is. In the author's words: “According to current models, giant planets form in the outer reaches of a system, then migrate inward and end up very close to their star. But this could not be for Jupiter. It is a huge planet, more than twice the mass of all the other planets in the solar system combined, but yet it orbits deep inside."
 <br style="clear:both" />

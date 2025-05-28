@@ -88,7 +88,7 @@ L'auteur, docteur en physique et professeur d'université à la retraite, aborde
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Neutrinos-neutrones.jpg" alt="Neutrinos y neutrones" width="250">
 </figure>
 
-[**Neutrinos, neutrons et étoiles à neutrons (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Neutrinos-neutrones-y-estrellas-de-neutrones.pdf)
+[**Neutrinos, neutrons et étoiles à neutrons (Ken Glasziou)**](/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Neutrinos-neutrones-y-estrellas-de-neutrones.pdf))
 
 Dans cet ouvrage, traduit en espagnol par Jan Herca, ce qui est dit dans le livre sur ces particules subatomiques est comparé (en utilisant la terminologie de l'époque où la révélation a eu lieu) avec ce que la science a découvert à leur sujet depuis les années 1930 jusqu'à aujourd'hui, ce qui confirme la connaissance scientifique qui apparaît dans _Le Livre d'Urantia_ et qui n'avait pas encore été découverte par la science à cette époque.
 <br style="clear:both" />

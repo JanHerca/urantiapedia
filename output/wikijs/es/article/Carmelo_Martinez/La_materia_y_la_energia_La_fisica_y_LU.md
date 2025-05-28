@@ -409,12 +409,6 @@ El libro nos dice que la «urdimbre de la moroncia es espiritual, su trama es f�
 
 Y ahí empieza nuestra vida de espíritus... y aquí termina mi presentación. Gracias por vuestra atención.
 
-<figure id="Diapositiva_31" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_materia_y_la_energia_La_fisica_y_LU/Diapositiva_31.jpg">
-</figure>
-
-<br style="clear:both;"/>
-
 ## Referencias
 
 - [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf)

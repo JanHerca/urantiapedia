@@ -169,9 +169,9 @@ El lenguaje, el nivel de conocimiento y la terminología de la referencia del do
 ## Enlaces externos
 
 * Este informe agrupa dos artículos publicados en la revista Innerface International, disponibles en el sitio web de la Urantia Fellowship:
-    Vol. 1 No. 6, nov/dic 1994: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page15.html
-    Vol. 3 No. 2, marzo/abril 1996: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page12.html
-
+    [Vol. 1 No. 6, nov/dic 1994](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page15.html)
+    [Vol. 3 No. 2, marzo/abril 1996](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page12.html)
+* [Este informe en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Neutrinos-neutrones-y-estrellas-de-neutrones.pdf)
 
 <figure class="table chapter-navigator">
   <table>

@@ -108,7 +108,7 @@ In this extensive and extremely interesting work, translated by Jan Herca, the a
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="The Sun and its destiny" width="250">
 </figure>
 
-[**The Sun and its destiny (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf)
+[**The Sun and its destiny (Jan Herca)**](/en/article/Jan_Herca/The_Sun_and_its_destiny) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf))
 
 As an introduction to this interesting and entertaining work, what better than to recover here the introductory words of its author:
 

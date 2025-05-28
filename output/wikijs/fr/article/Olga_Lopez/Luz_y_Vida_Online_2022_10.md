@@ -79,7 +79,7 @@ Parlons maintenant de vous, cher lecteur, qui lisez cet éditorial de notre maga
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego" width="250">
 </figure>
 
-[**La création du feu (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf)
+[**La création du feu (Halbert Katzen)**](/fr/article/Halbert_Katzen/Creating_fire) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf))
 
 Dans cet ouvrage, l'auteur parle du moment où les êtres humains ont commencé à utiliser le feu intentionnellement. Comme nous le savons, dans le livre, il est dit qu'Andón et Fonta, le premier couple d'êtres humains, ont été les premiers à réussir à faire du feu à volonté, mais la science actuelle situe le début de cette capacité plusieurs centaines de milliers d'années plus tard. Des découvertes récentes ont permis de retarder considérablement cette datation.
 <br style="clear:both" />
@@ -90,7 +90,7 @@ Dans cet ouvrage, l'auteur parle du moment où les êtres humains ont commencé 
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter" width="250">
 </figure>
 
-[**Le problème de Jupiter (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
+[**Le problème de Jupiter (Dick Bain)**](/fr/article/Dick_Bain/The_Jupiter_problem) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf))
 
 Jupiter, cette planète géante gazeuse de notre système solaire, a toujours fasciné les astronomes et les non-astronomes. En fait, il semble qu'il ne soit pas courant de trouver ce type de planètes dans d'autres systèmes solaires, ce qui amène l'auteur à considérer ce que les révélateurs nous disent de notre propre système solaire, qu'ils appellent Monmatia et qui présente de nombreuses particularités qui le rendent plus éloigné que d'habitude. En fait, le problème avec Jupiter qui donne le titre à cette œuvre est qu'il ne devrait pas être là où il est. Selon les mots de l'auteur : « Selon les modèles actuels, les planètes géantes se forment aux confins d'un système, puis migrent vers l'intérieur et finissent très près de leur étoile. Mais cela ne pouvait pas être le cas de Jupiter. « C'est une planète immense, plus de deux fois plus massive que le reste des planètes du système solaire réunies, mais qui orbite néanmoins dans une zone très intérieure. »
 <br style="clear:both" />

@@ -87,7 +87,7 @@ No one has ever gotten drunk on the basis of “intellectually” understanding 
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación" width="250">
 </figure>
 
-[**Creation Story (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf)
+[**Creation Story (Bill Sadler)**](/en/article/Antonio_Moya/History_of_Creation) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf))
 
 This work is a synthesis of another more extensive work that Bill Sadler wrote on the densest topics of _The Urantia Book_ such as the origin of the universe, entitled _[Study of the master universe](https://aue.urantia-association.org/estudio-del-universo-maestro-de-william-s-sadler-jr/)_. Without a doubt this work will help readers of the book to be clearer about the sequence of ages that culminated in bringing into existence the cosmos and the divine personalities involved. In support of this work is [this other with supporting graphics](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Graficos.pdf).
 <br style="clear:both" />

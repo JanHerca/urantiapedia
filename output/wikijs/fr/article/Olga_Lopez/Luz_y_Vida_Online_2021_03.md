@@ -89,7 +89,7 @@ Nous vous présentons la chronique de la vie de Jésus, que nous publierons sur 
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/03.jpg" width="250">
 </figure>
 
-**[Simplification du prologue (Bill Sadler)](/fr/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)**
+**[Simplification du prologue (Bill Sadler)](/fr/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)** (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
 
 Le Prologue est toujours une partie qui bouleverse le lecteur, surtout lorsqu'il y est confronté pour la première fois. Dans cette transcription d'une conférence de Bill Sadler, fils du Dr William Sadler, il discute des concepts qui apparaissent dans le Prologue et les explique d'une manière très familière et accessible. Un ouvrage fortement recommandé à tous ceux qui souhaitent clarifier les concepts qui apparaissent dans le Prologue, et qui sont ensuite clés pour comprendre les enseignements des autres parties du livre.
 <br style="clear:both" />

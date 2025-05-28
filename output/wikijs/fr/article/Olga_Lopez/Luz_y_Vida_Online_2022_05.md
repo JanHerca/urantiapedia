@@ -90,7 +90,7 @@ Malgré ce que pourrait indiquer le titre, plus qu'une réflexion sur ce qu'est 
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
 </figure>
 
-[**Adam et Ève (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf)
+[**Adam et Ève (Halbert Katzen)**](/fr/article/Halbert_Katzen/Adam_and_Eve) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf))
 
 L'auteur dit au début de cet ouvrage : « D'après _Le Livre d'Urantia_ (...), les premiers êtres humains (qui correspondent dans son texte plus ou moins à celui connu sous le nom de _Homo erectus_) ont évolué il y a environ 1 000 000 d'années. Il raconte également qu'il y a près de 38 000 ans, Adam et Eve ont introduit des améliorations génétiques dans notre pool génétique, qui ont amélioré la fonction cérébrale et la résistance aux maladies (correspondant à peu près à _Homo sapiens sapiens_). Eh bien, cet ouvrage passe en revue les découvertes scientifiques sur les mutations du génome humain qui remontent à l'arrivée des Material Children, comme le prétendent les révélateurs.
 <br style="clear:both" />

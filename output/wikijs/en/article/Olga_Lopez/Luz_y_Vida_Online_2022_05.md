@@ -91,7 +91,7 @@ Despite what the title might indicate, this article (published in the magazine L
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
 </figure>
 
-[**Adam and Eve (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf)
+[**Adam and Eve (Halbert Katzen)**](/en/article/Halbert_Katzen/Adam_and_Eve) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf))
 
 The author says at the beginning of this work: «According to _The Urantia Book_ (...), the first human beings (which correspond more or less in their text to that known as _Homo erectus_) evolved approximately 1,000,000 years ago. He also recounts that almost 38,000 years ago, Adam and Eve introduced some genetic improvements to our gene pool, which improved brain function and resistance to disease (which roughly corresponds to _Homo sapiens sapiens_)." Well, this work reviews the scientific findings of mutations in the human genome that go back to the arrival of the Material Sons, as the revelators affirm.
 <br style="clear:both" />

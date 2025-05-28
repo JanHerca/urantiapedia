@@ -105,7 +105,7 @@ Este trabajo consiste en un diagrama con los diferentes seres que pueblan el uni
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
 </figure>
 
-[**Primera migración a Bretaña (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
+[**Primera migración a Bretaña (Halbert Katzen)**](/es/article/Halbert_Katzen/Early_migration_to_Britain) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf))
 
 En este artículo aparece uno de los ejemplos en los que la ciencia parece corroborar las afirmaciones de _El Libro de Urantia_, en este caso en un aspecto tan fascinante y desconocido como la prehistoria. En palabras del autor: «_El Libro de Urantia_, publicado en 1955, declara que la habitación humana de Gran Bretaña comenzó hace aproximadamente 900.000 años. Indicando que solía haber un puente terrestre entre Gran Bretaña y Francia, también señala que, aunque la mayoría de las pruebas de ocupación humana están ahora sumergidas en el Canal de la Mancha, todavía hay varios sitios cerca de la costa que muestran evidencias de esta temprana ocupación. Aquí es donde se han realizado descubrimientos recientes que retrasan la fecha de la habitación humana en 200.000 años. El trabajo adicional del proyecto AHOB (siglas en inglés de «Ocupación Humana Antigua de Bretaña») apoya cada vez más este aspecto de la historia humana en _El Libro de Urantia_.»
 <br style="clear:both" />

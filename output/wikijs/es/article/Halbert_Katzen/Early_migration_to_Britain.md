@@ -209,6 +209,7 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 * [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
 * [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
 * *Britain's drowned world*, *Channel 4*, abril 2007. Excelente artículo de resumen de 2007 con fechas y lugares del descubrimiento, mangos de hachas, avance y retroceso de hielo.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Enlace original roto]

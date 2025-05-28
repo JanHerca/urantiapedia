@@ -126,7 +126,7 @@ Ahora, en este momento, y cada día de nuestra existencia, comienza el juego del
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="Arquitectos del Universo Maestro" width="250">
 </figure>
 
-[**Los Arquitectos del Universo Maestro (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
+[**Los Arquitectos del Universo Maestro (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Architects_of_Master_Universe) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf))
 
 Este trabajo toma como puntos de partida otros trabajos secundarios del autor (recogidos en los [Apéndices de Un estudio del universo maestro](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) (también en la [web de la Asociación](https://aue.urantia-association.org/apendices-de-estudio-del-universo-maestro-de-william-s-sadler-jr/))) para tratar de manera más extensa sobre el nivel absonito de la realidad y, en particular, sobre esos seres absonitos conocidos como los Arquitectos del Universo Maestro, que en palabras del autor «se ocupan de iniciar los planes de Dios».
 <br style="clear:both" />
@@ -148,7 +148,7 @@ En este trabajo, el autor reflexiona sobre el hecho de que los reveladores parec
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Gobekli-Tepe.jpg" alt="Gobekli Tepe" width="250">
 </figure>
 
-[**Gobekli Tepe (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Gobekli-Tepe.pdf)
+[**Gobekli Tepe (Halbert Katzen)**](/es/article/Halbert_Katzen/Gobekli_Tepe) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Gobekli-Tepe.pdf))
 
 En este interesantísimo trabajo que hará las delicias de los lectores aficionados a la historia antigua y la arqueología, el autor habla sobre el yacimiento de Gobekli Tepe, restos de una ciudad sorprendentemente avanzada para la época en la que se construyó, y lo enlaza con las explicaciones de _El Libro de Urantia_ sobre «una civilización pastoril genéticamente superior y bien desarrollada existió en esta área hace más de 30.000 años». Incluye una gran cantidad de imágenes del yacimiento y de otras civilizaciones antiguas para que podamos hacernos una idea de su complejidad e importancia.
 <br style="clear:both" />

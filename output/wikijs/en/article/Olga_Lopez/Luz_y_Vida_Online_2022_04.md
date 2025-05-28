@@ -107,7 +107,7 @@ This work consists of a diagram with the different beings that populate the loca
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="First migration to Brittany" width="250">
 </figure>
 
-[**First migration to Brittany (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
+[**First migration to Brittany (Halbert Katzen)**](/en/article/Halbert_Katzen/Early_migration_to_Britain) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf))
 
 In this article appears one of the examples in which science seems to corroborate the affirmations of _The Urantia Book_, in this case in an aspect as fascinating and unknown as prehistory. In the words of the author: «_The Urantia Book_, published in 1955, states that human habitation of Great Britain began approximately 900,000 years ago. Noting that there used to be a land bridge between Britain and France, he also points out that although most evidence of human occupancy is now submerged in the English Channel, there are still several sites near the coast that show evidence of this early occupation. This is where recent discoveries have been made that push the date of human habitation back 200,000 years. Additional work by the AHOB (Ancient Human Occupation of Britain) project increasingly supports this aspect of human history in _The Urantia Book_."
 <br style="clear:both" />

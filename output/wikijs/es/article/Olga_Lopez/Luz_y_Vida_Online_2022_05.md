@@ -89,7 +89,7 @@ A pesar de lo que el título podría indicar, más que una reflexión de lo que 
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
 </figure>
 
-[**Adán y Eva (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf)
+[**Adán y Eva (Halbert Katzen)**](/es/article/Halbert_Katzen/Adam_and_Eve) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf))
 
 Dice el autor al principio de este trabajo: «De acuerdo con _El Libro de Urantia_ (…), los primeros seres humanos (que se corresponden en su texto más o menos al conocido como _Homo erectus_) evolucionaron hace aproximadamente 1 000 000 de años. También narra que hace casi 38 000 años, Adán y Eva introdujeron algunas mejoras genéticas en nuestro conjunto de genes, lo que mejoró la función cerebral y la resistencia a la enfermedad (que se corresponde aproximadamente con el _Homo sapiens sapiens_)». Pues bien, este trabajo hace un repaso a los hallazgos científicos de mutaciones en el genoma humano que se remontan a la llegada de los Hijos Materiales, tal como afirman los reveladores.
 <br style="clear:both" />
