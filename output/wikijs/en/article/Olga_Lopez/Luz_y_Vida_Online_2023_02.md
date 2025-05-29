@@ -89,13 +89,13 @@ And we, readers of _The Urantia Book_, with what eyes do we look at reality? Do 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02)
 <br style="clear:both" />
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Repaso-a-la-organizacion-del-universo.jpg" alt="Orvonton and the Milky Way" width="250">
 </figure>
 
-[**Is Orvonton the Milky Way? (Dan Massey)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Es-Orvonton-la-Via-Lactea.pdf)
+[**Is Orvonton the Milky Way? (Dan Massey)**](/en/article/Dan_Massey/Is_Orvonton_The_Milky_Way) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Es-Orvonton-la-Via-Lactea.pdf))
 
 This brief article is one more contribution to the controversy about what astronomical reality the revelators refer to when they talk about Orvonton, the seventh superuniverse. One must be careful with the words they use, because, as the author says: «The terms “nebula” and “galaxy” seem destined to cause confusion. When man began to catalog the fuzzy patches that he could see in the sky with the naked eye and with simple telescopes, they were called “nebulae,” or “clouds” in Latin. The Milky Way, on the other hand, was visually special and took the specific name of “galaxy”, from “milk” in Greek (...) The meanings associated with words evolve with the growth of information that man has about the world that surrounds you."
 <br style="clear:both" />

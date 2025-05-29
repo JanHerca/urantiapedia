@@ -86,7 +86,7 @@ I love this short story because the ghost metaphor helps us a lot to understand 
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
 </figure>
 
-[**The Space Corps of Monmatia (Craig Carmichael)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
+[**The Space Corps of Monmatia (Craig Carmichael)**](/en/article/Craig_Carmichael/Worlds_of_Monmatia) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf))
 
 In _The Urantia Book_, Monmatia (our solar system) is said to have twelve planets, something our astronomers have not yet recognized. After reviewing what is meant by a planet and the controversy that has surrounded Pluto (about whether or not it can be considered a planet), it seems that astronomers are willing to acknowledge that there may be more planets in our solar system. As the author notes: “The ‘twelve planets’ described in the revelations no longer seem such a crazy number if we consider the asteroid belt as a failed planet, and if we consider the possibility of other planets beyond Neptune, even ruling out Pluto like planet. The current tally could be at ten, and going up.”
 <br style="clear:both" />

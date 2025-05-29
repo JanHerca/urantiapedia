@@ -84,7 +84,7 @@ _»Tu étais avec moi, mais je n'étais pas avec toi. Ces choses m'ont éloigné
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
-[**Revue de l'organisation générale de l'univers (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
+[**Revue de l'organisation générale de l'univers (Jeanmarie Chaise)**](/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf))
 
 Cet ouvrage, comme son nom l'indique, est une brève revue de l'organisation du maître univers, de la création cosmique de la Divinité. Il commence par le Paradis et ses zones de taille gigantesque et les relie aux dimensions du grand univers et de ses habitants. Des dimensions d’une taille impossible à concevoir pour notre esprit mortel. A titre d'exemple : « Au Paradis, et dans la deuxième zone périphérique de l'Aire Sainte, les groupes actifs d'individus glorifiés dans leur secteur assigné (dans ce cas, le secteur lié aux personnalités ascendantes d'un seul superunivers, par exemple Orvonton) sont de l'ordre de 823 543 suivis de 45 zéros. Pour connaître le nombre d'individus attendus dans ce secteur, il faudrait sûrement ajouter quelques zéros supplémentaires. » Mais cela ne s'arrête pas là : les calculs liés aux différents types de gravité l'amènent à déduire que le nombre de mondes dans le grand univers est 1/24 du nombre de mondes dans le maître univers.
 <br style="clear:both" />

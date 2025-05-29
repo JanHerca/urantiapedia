@@ -62,7 +62,7 @@ Les recherches de scientifiques comme Ampère et Faraday sur l’électricité n
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Personalidad.jpg" alt="Personalidad" width="250">

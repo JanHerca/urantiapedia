@@ -85,7 +85,7 @@ _“You were with me, but I was not with you. They kept me away from you those t
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Review of the organization of the universe" width="250">
 </figure>
 
-[**Review of the general organization of the universe (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
+[**Review of the general organization of the universe (Jeanmarie Chaise)**](/en/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf))
 
 This work, as its name indicates, is a brief review of the organization of the master universe, the cosmic creation of the Deity. He begins with Paradise and its gigantic zones and relates them to the dimensions of the great universe and its inhabitants. Dimensions of a size impossible to conceive by our mortal mind. As an example: “On Paradise, and in the second peripheral zone of the Holy Area, the active groups of glorified individuals in their assigned sector (in this case, the sector related to the ascendant personalities of a single superuniverse, say Orvonton) are of the order of 823,543 followed by 45 zeros. To know the number of individuals expected in this sector, surely we should add a few more zeros.” But it does not stop there: the calculations related to the different types of gravity lead him to deduce that the number of worlds in the grand universe is 1/24 part of the worlds in the master universe.
 <br style="clear:both" />

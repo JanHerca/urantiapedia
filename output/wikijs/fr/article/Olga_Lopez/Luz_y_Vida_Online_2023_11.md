@@ -66,7 +66,7 @@ Mais surtout, cela a valu la peine de pouvoir compter sur tant de lecteurs du _L
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Invitacion-para-leer-en-Navidad.png" alt="Invitación para leer en Navidad" width="250">

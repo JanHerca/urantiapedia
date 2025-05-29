@@ -66,7 +66,7 @@ Anne Frank n'a jamais perdu sa capacité à prendre plaisir dans le petit champ 
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">

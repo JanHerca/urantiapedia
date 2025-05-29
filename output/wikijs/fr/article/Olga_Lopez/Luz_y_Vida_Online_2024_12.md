@@ -67,7 +67,7 @@ La paix de l’esprit de Jésus était fondée sur une foi humaine absolue dans 
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-vida-de-familia-en-el-planeta-vecino.jpg" alt="La vida de familia en el planeta vecino" width="250">

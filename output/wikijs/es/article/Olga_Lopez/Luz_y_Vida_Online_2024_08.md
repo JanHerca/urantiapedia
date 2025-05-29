@@ -93,7 +93,7 @@ La [web de la Fundación Urantia](http://www.urantia.org/) ha pasado por una pro
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Breve-historia-de-la-Creacion.jpg" alt="Breve historia de la Creación" width="250">
 </figure>
 
-[**Breve historia de la Creación (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/BrevehistoriaCreacion.pdf)
+[**Breve historia de la Creación (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/Breve_historia_de_la_Creacion) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/BrevehistoriaCreacion.pdf))
 
 El propósito de este trabajo es tratar de comprender, desde una mente finita como la nuestra, todo el entramado de la Creación, desde sus orígenes hasta el final universal. Está basado en el Prólogo del libro, los trabajos de Bill Sadler «Simplificación del Prólogo» y «Estudio del universo maestro», así como de las transcripciones de algunas de sus conferencias. También toma como referencia el trabajo «Historia de la Creación», de Antonio Moya. A partir de este material, nos ofrece unos esquemas que ayudan a tener una visión general de esta parte tan abstracta, pero a la vez tan fundamental para comprender todo lo demás.
 <br style="clear:both;"/>

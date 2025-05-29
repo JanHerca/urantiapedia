@@ -84,7 +84,7 @@ Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchí
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
 </figure>
 
-[**Los cuerpos espaciales de Monmatia (Craig Carmichael)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
+[**Los cuerpos espaciales de Monmatia (Craig Carmichael)**](/es/article/Craig_Carmichael/Worlds_of_Monmatia) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf))
 
 En _El Libro de Urantia_, se dice que Monmatia (nuestro sistema solar) tiene doce planetas, algo que nuestros astrónomos todavía no han reconocido. Después de repasar lo que se entiende por planeta y de la controversia que ha rodeado a Plutón (sobre si se puede considerar un planeta o no), parece que los astrónomos están dispuestos a reconocer que puede haber más planetas en nuestro sistema solar. Como señala el autor: «Los «doce planetas» que describen las revelaciones ya no parecen una cifra tan loca si consideramos el cinturón de asteroides como un planeta fallido, y si consideramos la posibilidad de otros planetas más allá de Neptuno, incluso descartando a Plutón como planeta. La cuenta actual podría estar en diez, y subiendo».
 <br style="clear:both" />

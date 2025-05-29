@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
-<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jeanmarie Chaise<br>© 2004 Olga López, por la traducción<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -35,27 +35,25 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Con la ayuda de las revelaciones del _Libro de Urantia_ y los detalles numéricos que nos brinda, sin duda podemos comprender mejor cómo está organizada la creación cósmica de la Deidad. La referencia principal resulta, naturalmente, ser el Paraíso, que se presenta como el arquetipo de la manifestación cualificada de Dios. Por eso es la organización funcional del Paraíso la que primero debemos examinar y sólo la organización del Paraíso Superior y del Paraíso Periférico (Páginas <a id="a37_483"></a>[LU 11:2.9](/es/The_Urantia_Book/11#p2_9) y <a id="a37_527"></a>[LU 11:3.4](/es/The_Urantia_Book/11#p3_4))
+Con la ayuda de las revelaciones de _El Libro de Urantia_ y de los detalles cifrados que nos da, podemos concebir mejor cómo está organizada la creación cósmica de la Deidad. La referencia primera es naturalmente el Paraíso, presentado como el arquetipo de la manifestación calificada de Dios. Por tratarse de la organización funcional del Paraíso, debemos examinar de entrada y únicamente la organización del Alto Paraíso y del Paraíso Periférico (Páginas <a id="a37_483"></a>[LU 11:2.9](/es/The_Urantia_Book/11#p2_9) y <a id="a37_527"></a>[LU 11:3.4](/es/The_Urantia_Book/11#p3_4))
 
-En el corazón del Paraíso hay tres inmensas zonas, la más central de las cuales se llama la presencia de la Deidad. Esta zona central está rodeada por la segunda zona llamada la Santísima Esfera, un reino enteramente espiritual inaccesible a nuestra comprensión casi enteramente material. Alrededor de estas dos inmensas zonas se extienden siete zonas concéntricas que juntas constituyen el Área Santa. Hay por tanto nueve zonas sucesivas a partir del centro del Paraíso y sus atribuciones son las siguientes, al menos para las cuatro primeras, porque no se nos dice más:
+En el corazón del Paraíso se encuentran tres zonas inmensas, de la que la más central se denomina _presencia de la Deidad_. Esta zona central está rodeada de la segunda zona, denominada _Esfera Santísima_, reino enteramente espiritual e inaccesible a nuestra comprensión casi totalmente material. Alrededor de estas dos inmensas zonas se extienden siete zonas concéntricas que constituyen el _Área Santa_. Hay por tanto nueve zonas sucesivas que parten del centro del Paraíso y cuyos atributos son las siguientes, al menos para las cuatro primeras, porque no se nos dice mucho de ellas:
 1. Primera zona: la presencia de la Deidad.
-2. Segunda zona: La Santísima Esfera.
+2. Segunda zona: La Esfera Santísima.
 3. Tercera Zona: El Área Santa dividida en siete zonas concéntricas que son:
-	1. Área ocupada por ciudadanos del Paraíso y nativos de Havona. (<a id="a43_66"></a>[LU 11:3.3](/es/The_Urantia_Book/11#p3_3))
-	2. “_Área parcialmente subdividida en siete inmensas divisiones que forman el hogar paradisíaco de seres espirituales y criaturas ascendentes que provienen de los universos de progresión evolutiva_” En otras palabras, esta es el área asignada a los superuniversos.
+	1. Área ocupada por los ciudadanos del Paraíso y los nativos de Havona. (<a id="a43_66"></a>[LU 11:3.3](/es/The_Urantia_Book/11#p3_3))
+	2. “_Esta segunda zona está en parte subdividida en siete inmensas divisiones, el hogar en el Paraíso de los seres espirituales y las criaturas ascendentes que provienen de los universos de progresión evolutiva_” Dicho de otra manera, se trata de la zona asignada a los superuniversos.
 	3. Primer nivel de espacio exterior.
 	4. Segundo nivel de espacio exterior
 	5. Tercer nivel de espacio exterior
 	6. Cuarto nivel de espacio exterior
 	7. ?
 
-Como podemos ver inmediatamente, si la tercera zona central, el Área Santa, efectivamente está compuesta por siete zonas concéntricas como se nos dice en la página 121 en el párrafo 6, y si, según toda lógica, las seis primeras zonas del Área Santa Las áreas son efectivamente atribuibles a los dominios aquí indicados del Universo Maestro, entonces, la séptima zona no recibe asignación. Por lo tanto, si los dominios de los siete superuniversos constituyen la creación del Supremo y si las cuatro formaciones externas, como se nos ha dado a entender en varias ocasiones, están dedicadas a la realización del Último, entonces estamos justificados al pensar que esta séptima zona del Área Santa está dedicada a un proyecto de absolutidad que no se nos revela. Por eso nos vemos obligados a poner un signo de interrogación en este lugar.
+Tras haber subrayado esta laguna evidente en nuestra información, vamos a estudiar ahora la segunda zona del Área Santa, que nos concierne más particularmente a nosotros, los ascendentes de los superuniversos.
 
-Habiendo resaltado esta evidente laguna en nuestra información, podemos pasar ahora al estudio de esta segunda zona del Área Santa que nos concierne más particularmente a nosotros, los ascendentes de los superuniversos.
+Esta segunda zona del Área Santa está reservada en parte a los siete sectores. «_Cada uno de estos sectores está exclusivamente dedicado al bienestar y progreso de las personalidades de un solo superuniverso, pero estas instalaciones trascienden de manera casi infinita los requisitos actuales de los siete superuniversos_». Entonces, ¿cómo está constituido el sector del Paraíso reservado a los seres provenientes de Orvonton? ¿Cuántos seremos finalmente en este sector? Podemos responder parcialmente a estas preguntas, pero naturalmente siempre quedará una inmensa laguna. Sin embargo, las informaciones seguras que nos han dado nos permiten hacernos ahora una idea de esta inmensidad.
 
-Esta segunda zona del Área Santa está, por tanto, parcialmente reservada para siete sectores, “_cada uno de ellos dedicado exclusivamente al bienestar y avance de las personalidades de un único superuniverso, y se nos informa que los recursos que 'ofrecen casi infinitamente' exceden las necesidades de estos siete superuniversos actuales._' Entonces, ¿cómo se constituye el sector reservado en el Paraíso para los seres de Orvonton? ¿Cuántos de nosotros seremos finalmente en este sector? Podemos responder parcialmente a estas preguntas, pero, naturalmente, siempre quedará una gran brecha. Sin embargo, la información fiable que nos ha llegado nos permite tener ya una idea de esta inmensidad.
-
-La primera incógnita es el número de individuos que constituyen un grupo, de hecho es el único, pero es significativo dada la cantidad de grupos que se pueden incluir en este sector. Veamos en su lugar:
+La primera incógnita es el número de individuos que constituyen un grupo, de hecho es la única, pero es importante teniendo en cuenta el número de grupos que pueden incluirse en este sector. Veamos si no:
 
 Mil millones de grupos activos de individuos glorificados constituyen una unidad residencial; así tenemos:
 
@@ -64,47 +62,48 @@ Mil millones de grupos activos de individuos glorificados constituyen una unidad
 1.000.000.000 | grupo | = 1 unidad residencial.
 1.000 | unidades residenciales | = 1 división
 100.000 | divisiones | = 1 congregación
-10.000.000 | de congregaciones | = 1 conjunto
-1.000.000.000 | de asambleas | = 1 unidad grande
+10.000.000 | de congregaciones | = 1 asamblea
+1.000.000.000 | de asambleas | = 1 gran unidad
 
-He aquí una primera pirámide según el sistema denario. Por tanto, una gran unidad se compone de:
-1.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000, o 10^45^ grupos activos de individuos glorificados. Pero este mismo sector no incluye sólo una gran unidad. De hecho, las unidades grandes se cuentan según el sistema septenario, de la siguiente manera:
+He aquí una primera pirámide según el sistema decimal. Por tanto, una gran unidad está constituida por:
+
+1.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000, esto es, 10^45^ grupos activos de individuos glorificados. Pero este sector sólo comprende una gran unidad. En efecto, las grandes unidades se cuentan basadas en el número 7, de modo que:
 
 &nbsp; | &nbsp; | &nbsp;
 --- | --- | ---:
 7 unidades grandes | = 1 unidad maestra, es decir | 7x10^45^ |
 7 unidades maestras | = 1 unidad superior | 49x10^45^ |
 7 unidades superiores | = 1 unidad supersuperior | 343x10^45^ |
-7 unidades súper superiores | = 1 unidad celeste | 2401x10^45^ |
-7 unidades celestes | 1 unidad superceleste | 16,807×10^45^ |
-7 unidades supercelestes | 1 unidad suprema | 117.649x10^45^ |
-7 unidades supremas |= 1 sector | 823,543×10^45^ |
+7 unidades súper superiores | = 1 unidad celestial | 2401x10^45^ |
+7 unidades celestes | = 1 unidad supercelestial | 16,807×10^45^ |
+7 unidades supercelestes | = 1 unidad suprema | 117.649x10^45^ |
+7 unidades supremas | = 1 sector | 823,543×10^45^ |
 
-Así, para los siete sectores de la segunda zona del Área Santa, existe la posibilidad de integrar 5.764.801 x 10^45^ grupos activos de individuos glorificados de los cuales espero que todos seamos miembros.
+Así, para los siete sectores de la segunda zona del Área Santa, existe la posibilidad de integrar 5.764.801 x 1045 grupos activos de individuos glorificados, entre los cuales espero que estemos todos nosotros.
 
-En el Paraíso, y en la segunda zona periférica del Área Sagrada, los grupos activos de individuos glorificados en su sector asignado (aquí el sector asignado a las personalidades ascendentes de un único superuniverso, por ejemplo el de Orvontón) son, por tanto, 823.543, seguidos de 45 ceros. Para saber el número de personas que se esperan en este sector, probablemente sea necesario añadir algunos ceros más. Lo cuantificable sólo tiene sentido dentro de un cierto límite, límite que aquí se supera ampliamente.
+En el Paraíso, y en la segunda zona periférica del Área Santa, los grupos activos de individuos glorificados en su sector asignado (en este caso, el sector relacionado con las personalidades ascendentes de un único superuniverso, por ejemplo Orvonton) son del orden de 823.543 seguido por 45 ceros. Para conocer el número de individuos esperados en este sector, seguramente deberíamos añadir algunos ceros más. Lo cuantificable sólo es concebible dentro de unos límites, largamente rebasados aquí.
 
-Pero este cálculo debe sin duda compararse con este otro que indica el número de “_lugares reservados en las zonas periféricas del Paraíso para los recuerdos de nuestros días materiales en zonas de reminiscencia histórica._” (<a id="a86_226"></a>[LU 11:3.2](/es/The_Urantia_Book/11#p3_2)) “ _En la periferia El Paraíso, se nos dice, son las enormes áreas de exhibición histórica y profética asignadas a los Hijos Creadores que están dedicadas a los universos locales del tiempo y el espacio. Hay exactamente siete mil millones de estos sitios históricos instalados o en reserva, pero todos estos dispositivos combinados ocupan apenas el cuatro por ciento de la porción del área periférica que se les asigna. Inferimos que estas vastas reservas pertenecen a creaciones que posteriormente encontrarán su lugar más allá de las fronteras de los siete superuniversos actualmente conocidos y habitados._ » (<a id="a86_881"></a>[LU 11:4.3](/es/The_Urantia_Book/11#p4_3))
+Este cálculo es comparable a aquel otro que da cuenta del nombre de «_áreas históricas reminiscentes del Paraíso periférico_». (<a id="a86_226"></a>[LU 11:3.2](/es/The_Urantia_Book/11#p3_2)). «_Aquí en el Paraíso periférico están las enormes áreas de exhibición histórica y profética asignadas a los Hijos Creadores, dedicadas a los universos locales del tiempo y el espacio. Hay tan sólo siete billones de estas reservaciones históricas ya establecidas o en reserva, pero estas instalaciones, en suma, ocupan solamente alrededor de un cuatro por ciento de esa porción del área periférica así asignada. Inferimos que estas vastas reservas pertenecen a creaciones que, alguna vez han de situarse más allá de las fronteras de los siete superuniversos habitados que se conocen ahora._» (<a id="a86_881"></a>[LU 11:4.3](/es/The_Urantia_Book/11#p4_3))
 
-Sin embargo, “Siete superuniversos forman el gran universo” (<a id="a88_61"></a>[LU 15:2.9](/es/The_Urantia_Book/15#p2_9)) o 7 mil billones de mundos habitados. (1 billón = mil billones). Por lo tanto, existen tantas ubicaciones predichas como planetas predecibles en los siete superuniversos. Por tanto, cada planeta tiene su ubicación reservada. Por lo tanto, se nos espera en este sector del Área Santa, en una morada paradisíaca como ascendentes de Urantia.
+Ahora bien, «_siete universos forman el Gran Universo_» (<a id="a88_61"></a>[LU 15:2.9](/es/The_Urantia_Book/15#p2_9)), esto es, 7 mil millones de mundos habitados (1 billón = un millón de millones). Por tanto, hay tantos emplazamientos previstos como planetas previsibles en los siete superuniversos. Cada planeta tiene por tanto su emplazamiento reservado. Estamos alojados por tanto en este sector del Área Santa, en una morada paradisíaca como ascendentes procedentes de Urantia.
 
-Ya podemos establecer que si el 96% de estos lugares siguen vacíos es porque el 96% de los mundos habitados del futuro se crearán en los cuatro círculos exteriores de los agregados de materia actuales. Esto nos da:
+Podemos por tanto establecer que si el 96% de estos emplazamientos están aún por ocupar, entonces el 96% de los mundos habitados por venir serán creados en los cuatro círculos exteriores actuales de agregados de materia. Esto nos da:
 
-7,4 x 96 = 168 billones de mundos futuros fuera del gran universo. Eso es un total de 175 mil millones de mundos para el universo maestro.
+7:4 x 96 = 168 billones de mundos futuros exteriores en el gran universo. Esto es, alrededor de 175 billones de mundos para el Universo Maestro.
 
-El gran universo representaría por tanto 1/24º de los mundos habitados del universo maestro. Pero debemos pensar que nos faltan datos suficientes para acercarnos, aunque sea de forma aproximada, a las realidades concretas del verdadero proyecto divino.
+El Gran Universo representa entonces 1/24 parte de los mundos habitados del Universo Maestro. Pero debemos pensar que no tenemos datos suficientes para acercarnos a una de las realidades efectivas del proyecto divino real.
 
-Estas estimaciones también deben compararse con lo que nos indica en <a id="a96_69"></a>[LU 12:3.7](/es/The_Urantia_Book/12#p3_7) con respecto a la gravedad física universal según el informe de los expertos investigadores de Uversa. Se nos dice: “Estas investigaciones llevan a la sorprendente conclusión de que el universo central y los siete superuniversos que lo rodean emplean actualmente sólo el cinco por ciento de la operación activa de la gravedad absoluta del Paraíso. En otras palabras: en la actualidad, aproximadamente el noventa y cinco por ciento de la acción gravitacional cósmica activa del Paraíso, evaluada según una teoría de la totalidad, se ocupa en controlar sistemas materiales ubicados más allá de los límites de los universos actualmente organizados. aquí en el mismo orden de magnitud que los cálculos anteriores, y la diferencia del 1% se puede explicar fácilmente por los márgenes de error y por el hecho de que no se aplican todo a hecho con los mismos datos. Además, también se nos dice que “_Todos estos cálculos se refieren a la gravedad absoluta; La gravedad lineal es un fenómeno de interacción que sólo puede calcularse conociendo la gravedad efectiva del Paraíso._” Y esta gravedad no parece ser conocida exactamente por los investigadores de Uversa.
+Estas estimaciones son por otro lado comparables a lo que se nos indica en <a id="a96_69"></a>[LU 12:3.7](/es/The_Urantia_Book/12#p3_7) en lo que respecta a la gravedad física universal en relación a los investigadores expertos de Uversa. Se nos dice: «_Estos cálculos indican que la acción total de la gravedad en el gran universo es una porción muy pequeña de la atracción de gravedad estimada del Paraíso, computada en base a la respuesta gravitacional de las unidades físicas básicas de la materia del universo. Estos investigadores llegan a la pasmosa conclusión de que el universo central y los siete superuniversos que lo rodean están presentemente haciendo uso de aproximadamente un cinco por ciento de la función activa de la atracción de la gravedad absoluta del Paraíso. En otras palabras: en este momento, alrededor del noventa y cinco por ciento de la acción de la gravedad cósmica activa de la Isla del Paraíso, computada sobre la base de esta teoría de totalidad, está dedicada a controlar sistemas materiales mas allá de las fronteras de los actuales universos organizados_». Estamos aquí en el mismo orden de inmensidad que en los cálculos anteriores, y el 1% de diferencia puede explicarse fácilmente por los márgenes de error y por el hecho que no se aplican del todo a los mismos datos. Por otro lado se nos indica del mismo modo que «_Todos estos cálculos se refieren a la gravedad absoluta; la gravedad lineal es un fenómeno interactivo que se puede computar sólo si se conoce la verdadera gravedad del Paraíso_». Y esta gravedad no parecen conocerla totalmente los investigadores de Uversa.
 
-Y lo que es válido para la gravedad física parece serlo también para la gravedad mental y espiritual. Para este último parece, de hecho, que puede ser totalizado. Aprendemos que: “_Con la colaboración de Mensajeros Solitarios y otras personalidades espirituales, estos mismos investigadores de Uversa han logrado hacer un balance de la gravedad espiritual activa de la Segunda Fuente y Centro. Es muy instructivo observar que encuentran casi el mismo valor para la presencia efectiva y funcional de la gravedad espiritual en el gran universo que para el supuesto valor que habían admitido para la gravedad activa total del espíritu. En otras palabras, en la actualidad Prácticamente toda la gravedad del Hijo Eterno, calculada según esta teoría de la totalidad, es observable en funcionamiento en el gran universo. Si hay que confiar en estos resultados, podemos concluir que los universos que evolucionan en el espacio exterior son en la actualidad enteramente no espirituales. Y si es así, explica satisfactoriamente por qué los seres espirituales tienen tan poca o ninguna información sobre estas vastas manifestaciones de energía, aparte del conocimiento del hecho de su existencia física.
+Lo que es válido para la gravedad física parece serlo también para la gravedad mental y espiritual. Para esta última parece, en efecto, que sea totalizable. Nos enseñan que «_estos investigadores han explorado la capacidad actual de reacción de la gravedad espiritual y, con la cooperación de los Mensajeros Solitarios y de otras personalidades espirituales, han llegado al total de la gravedad espiritual activa de la Segunda Fuente y Centro. Es ilustrativo el mencionar que encuentran aproximadamente el mismo valor para la presencia real y funcional de la gravedad del espíritu en el gran universo que postulan para el presente total de la gravedad activa espiritual. Dicho de otro modo: en este momento, prácticamente toda la gravedad espiritual del Hijo Eterno, computada sobre la base de esta teoría de totalidad, puede ser observada funcionando en el gran universo. Si estos descubrimientos son confiables, podemos concluir que los universos que ahora evolucionan en el espacio exterior son en este momento, completamente no espirituales. Y si esto es cierto, explicaría satisfactoriamente por qué los seres dotados de espíritu poseen tan poca o ninguna información acerca de estas vastas manifestaciones de energía, aparte de conocer el hecho de su existencia física_». ([LU 12:3.9](/es/The_Urantia_Book/12#p3_9))
 
-Así, la totalidad de la gravedad espiritual está actualmente monopolizada por el gran universo, pero no ocurre lo mismo con respecto a la gravedad mental. Al menos eso es lo que los mismos investigadores deducen de sus numerosas encuestas. “Estos investigadores han deducido que aproximadamente el ochenta y cinco por ciento de la respuesta de gravedad mental a la atracción intelectual del actor conjunto se origina en el gran universo tal como existe. Esto sugiere la posibilidad de que las actividades mentales estén involucradas en conexión con las actividades físicas observables que ocurren en todos los reinos del espacio exterior.
+Así, la totalidad de la gravedad espiritual está actualmente acaparada por el Gran Universo, pero no sucede lo mismo con la gravedad mental. Al menos eso deducen los mismos investigadores en su mencionada encuesta. «_Estos investigadores deducen que alrededor del ochenta y cinco por ciento de la respuesta de la gravedad mental a la atracción intelectual del Actor Conjunto se origina en el gran universo existente. Esto sugeriría la posibilidad de que haya participación de actividades mentales relacionadas con las actividades físicas observables actualmente en progreso en todos los dominios del espacio exterior_».
 
-En cuanto a nosotros, podemos deducir de todo esto que toda la creación está sujeta a estimaciones numéricas, presentándose los números relativos a los tres dominios, físico, mental y espiritual, bajo la misma forma en virtud de una teoría de la totalidad que , además, no se nos revela.
+Respecto a nosotros, podemos deducir de todo esto que el conjunto de la creación está sujeto a numerosas estimaciones, números referentes a los tres dominios físico, mental y espiritual, que se presentan bajo la misma forma en virtud de una teoría de la totalidad que, por otro lado, no nos ha sido desvelada.
 
-Silla Jeanmarie
+## Referencias
 
-
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
 
 <figure class="table chapter-navigator">
   <table>

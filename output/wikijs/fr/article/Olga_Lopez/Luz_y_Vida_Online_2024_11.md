@@ -67,7 +67,7 @@ Mais par-dessus tout, nous sommes ravis d’avoir autant de lecteurs du Livre d�
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">

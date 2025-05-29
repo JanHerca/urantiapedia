@@ -83,7 +83,7 @@ _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aque
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
-[**Repaso a la organización general del universo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
+[**Repaso a la organización general del universo (Jeanmarie Chaise)**](/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf))
 
 Este trabajo, como su nombre indica, es un breve repaso a la organización del universo maestro, a la creación cósmica de la Deidad. Comienza por el Paraíso y sus zonas de gigantesco tamaño y las relaciona con las dimensiones del gran universo y sus habitantes. Unas dimensiones de un tamaño imposible de concebir por nuestra mente mortal. Como ejemplo: «En el Paraíso, y en la segunda zona periférica del Área Santa, los grupos activos de individuos glorificados en su sector asignado (en este caso, el sector relacionado con las personalidades ascendentes de un único superuniverso, por ejemplo Orvonton) son del orden de 823.543 seguido por 45 ceros. Para conocer el número de individuos esperados en este sector, seguramente deberíamos añadir algunos ceros más.» Pero no queda ahí: los cálculos relacionados con los diferentes tipos de gravedad le llevan a deducir que el número de mundos del gran universo es 1/24 parte de los mundos del universo maestro.
 <br style="clear:both" />

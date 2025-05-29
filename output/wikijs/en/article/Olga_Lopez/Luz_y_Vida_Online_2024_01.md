@@ -67,7 +67,7 @@ This extensive and hopeful text that is the blue book lends itself to being appr
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Presentacion-del-LU.jpg" alt="Comments on the Prologue" width="250">

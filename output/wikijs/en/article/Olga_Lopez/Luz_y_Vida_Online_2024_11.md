@@ -67,7 +67,7 @@ But above all we are excited to have so many readers of _The Urantia Book_ commi
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">

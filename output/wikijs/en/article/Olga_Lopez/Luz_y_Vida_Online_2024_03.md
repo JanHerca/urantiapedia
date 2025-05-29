@@ -69,7 +69,7 @@ Today we talk about rights, we demand them. We aspire to so much and we ask for 
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">

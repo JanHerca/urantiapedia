@@ -66,7 +66,7 @@ These messages of good Christmas wishes, these messages that speak of the “arr
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_12)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Quien-era-Jesus-1.jpg" alt="Jesús: hombre y mito" width="250">

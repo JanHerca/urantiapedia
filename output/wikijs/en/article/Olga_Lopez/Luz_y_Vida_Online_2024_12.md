@@ -67,7 +67,7 @@ Jesus' peace of mind was founded on an absolute human faith in the wise and comp
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-vida-de-familia-en-el-planeta-vecino.jpg" alt="La vida de familia en el planeta vecino" width="250">

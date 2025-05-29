@@ -68,7 +68,7 @@ The old, dusty, and cornered books have already had their moment of splendor, an
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Canalizaciones.jpg" alt="Otros seres" width="250">

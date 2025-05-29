@@ -69,7 +69,7 @@ Aujourd’hui, nous parlons de droits, nous les revendiquons. Nous aspirons à t
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03) 
 
-## Emplois – nos recommandations du mois 
+## Travais – nos recommandations du mois 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">

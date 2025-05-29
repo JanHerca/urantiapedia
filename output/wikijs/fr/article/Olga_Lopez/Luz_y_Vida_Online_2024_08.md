@@ -76,7 +76,7 @@ Deux lecteurs nous disent, d'un côté, quel est leur paragraphe préféré (Die
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_08)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Charlas-Bill-Sadler.jpg" alt="Charlas de Bill Sadler" width="250">
@@ -93,7 +93,7 @@ Le [site Web de la Fondation Urantia](http://www.urantia.org/) a subi une refont
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Breve-historia-de-la-Creacion.jpg" alt="Breve historia de la Creación" width="250">
 </figure>
 
-[**Une brève histoire de la création (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/BrevehistoriaCreacion.pdf)
+[**Une brève histoire de la création (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/Breve_historia_de_la_Creacion) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/BrevehistoriaCreacion.pdf))
 
 Le but de cet ouvrage est de tenter de comprendre, à partir d’un esprit fini comme le nôtre, la structure entière de la Création, depuis ses origines jusqu’à la fin universelle. Il est basé sur l'avant-propos du livre, les travaux de Bill Sadler «  Simplifying the Foreword  » et «  Studying the Master Universe  », ainsi que sur les transcriptions de certaines de ses conférences. Il prend également comme référence l'ouvrage «  Histoire de la Création  » d'Antonio Moya. À partir de ce matériel, il nous propose quelques schémas qui nous aident à avoir une vision d'ensemble de cette partie si abstraite, mais en même temps si fondamentale pour comprendre tout le reste.
 <br style="clear:both;"/>

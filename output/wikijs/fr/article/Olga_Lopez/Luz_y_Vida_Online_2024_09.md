@@ -68,7 +68,7 @@ Les vieux livres poussiéreux et coincés dans les coins ont déjà eu leur mome
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Canalizaciones.jpg" alt="Otros seres" width="250">

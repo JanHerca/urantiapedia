@@ -62,7 +62,7 @@ The research of scientists such as Ampère or Faraday on electricity has enabled
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02) 
 
-## Jobs – our recommendations of the month 
+## Works – our recommendations of the month 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Personalidad.jpg" alt="Personalidad" width="250">

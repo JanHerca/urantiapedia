@@ -85,7 +85,7 @@ J'adore cette nouvelle car la métaphore du fantôme nous aide beaucoup à compr
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
 </figure>
 
-[**Les corps spatiaux de Monmatia (Craig Carmichael)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
+[**Les corps spatiaux de Monmatia (Craig Carmichael)**](/fr/article/Craig_Carmichael/Worlds_of_Monmatia) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf))
 
 Dans _Le Livre d'Urantia_, Monmatia (notre système solaire) est dit avoir douze planètes, ce que nos astronomes n'ont pas encore reconnu. Après avoir examiné ce que l’on entend par planète et la controverse qui a entouré Pluton (sur la question de savoir si elle peut être considérée comme une planète ou non), il semble que les astronomes soient prêts à reconnaître qu’il pourrait y avoir davantage de planètes dans notre système solaire. Comme le souligne l'auteur : « Les « douze planètes » décrites dans les révélations ne semblent plus un chiffre aussi fou si l'on considère la ceinture d'astéroïdes comme une planète défaillante, et si l'on considère la possibilité d'autres planètes au-delà de Neptune, voire en excluant Pluton en tant que planète. Le nombre actuel pourrait être de dix, et ce nombre pourrait augmenter.
 <br style="clear:both" />

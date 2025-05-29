@@ -92,7 +92,7 @@ Pablo d'Ors analyse ces cinq convictions concernant l'écoute :
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07)
 
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style - align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/A propos-du-document-105.jpg" alt="A propos du document 105" width="250">

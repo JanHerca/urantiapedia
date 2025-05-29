@@ -66,7 +66,7 @@ In addition to our fixed sections of “Chronicle of the life of Jesus”, “Gu
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/LU-para-ninos-Oracion.jpg" alt="Meditar, orar y adorar" width="250">

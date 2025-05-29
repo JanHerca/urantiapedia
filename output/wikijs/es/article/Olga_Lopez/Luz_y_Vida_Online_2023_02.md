@@ -93,7 +93,7 @@ Y nosotros, lectores de _El Libro de Urantia_, ¿con qué ojos miramos la realid
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Repaso-a-la-organizacion-del-universo.jpg" alt="Orvonton y la Vía Láctea" width="250">
 </figure>
 
-[**¿Es Orvonton la Vía Láctea? (Dan Massey)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Es-Orvonton-la-Via-Lactea.pdf)
+[**¿Es Orvonton la Vía Láctea? (Dan Massey)**](/es/article/Dan_Massey/Is_Orvonton_The_Milky_Way) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Es-Orvonton-la-Via-Lactea.pdf))
 
 Este breve artículo es un aporte más a la controversia sobre a qué realidad astronómica se refieren los reveladores cuando hablan de Orvonton, el séptimo superuniverso. Hay que tener cuidado con las palabras que utilizan, pues, tal como dice el autor: «Los términos «nebulosa» y «galaxia» parecen destinados a causar confusión. Cuando el hombre empezó a catalogar las manchas borrosas que podía ver en el cielo a simple vista y con telescopios sencillos, se llamaron «nebulosas», o «nubes» en latín. La Vía Láctea, por otra parte, era visualmente especial y tomó el nombre específico de «galaxia», de «leche» en griego (…) Los significados asociados a las palabras evolucionan con el crecimiento de la información que tiene el hombre sobre el mundo que le rodea».
 <br style="clear:both" />

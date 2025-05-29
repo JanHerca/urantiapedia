@@ -66,7 +66,7 @@ Ces messages de bons vœux de Noël, ces messages qui parlent de «  l’arrivé
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_12)
 
-## Emplois – nos recommandations du mois
+## Travais – nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Quien-era-Jesus-1.jpg" alt="Jesús: hombre y mito" width="250">
