@@ -74,7 +74,7 @@ The answer is hope, that internal force, that spark that drives us to dream of a
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/El-universo.jpg" alt="Orvonton" width="250">
 </figure>
 
-[**Superuniverse of Orvonton (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/10/Super-Universo-Orvonton.pdf)
+[**Superuniverse of Orvonton (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/10/Super-Universo-Orvonton.pdf))
 
 This work, in addition to referring to contents of _The Urantia Book_, is based on secondary works carried out by other readers: “ASTRONOMY AND THE SUPERUNIVERSE” by Troy R. Bishop (1982), “What is Orvonton really like?”, by Antonio Moya (1987), “From Urantia to the master universe, interesting data”, by Humberto Andrade (1997), “How big is Orvonton really?”, by Norm Du Val, accompanied by photos from Hubble.
 <br style="clear:both;"/>

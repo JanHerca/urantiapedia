@@ -55,7 +55,7 @@ Cuando Jesús le dice a Judas, o a otro ser humano, que ora para que su actitud 
 
 Por lo tanto, cuando Jesús le dice a Judas que oró para llegar a amar a sus hermanos, claramente no es una oración en el sentido en que la entendemos ordinariamente, porque Jesús también nos dice que “***Lo que el verdadero hijo desea y lo que el Padre Infinito quiere ES. Tal oración no puede quedar sin respuesta, ni ningún otro tipo de petición puede ser concedida plenamente*** » <a id="a55_384"></a>[LU 146:2.7](/es/The_Urantia_Book/146#p2_7)
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

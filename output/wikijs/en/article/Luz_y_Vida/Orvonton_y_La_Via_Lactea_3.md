@@ -223,8 +223,8 @@ That's my opinion.
 
 - [How Big Is Orvonton?](/en/article/How_big_is_Orvonton), by Norm Du Val
 - Astronomy and Superuniverses, by Troy R. Bishop
-- Orvonton Superuniverse (presentation), by Eduardo Altuzarra
-- Urantia Astronomy, a personal vision, by Carmelo Martínez
+- [Orvonton Superuniverse (presentation)](/en/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006), by Eduardo Altuzarra
+- [Urantia Astronomy, a personal vision](/en/article/Carmelo_Martinez/Astronomia_urantiana_una_vision_personal), by Carmelo Martínez
 
 All these works are available on the Association's website, http://www.urantia.es.
 

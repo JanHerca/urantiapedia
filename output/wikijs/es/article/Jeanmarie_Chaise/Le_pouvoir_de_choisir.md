@@ -51,7 +51,7 @@ Entonces, ¿deberíamos difundir el conocimiento del Libro de Urantia, a riesgo 
 
 Si ha llegado nuestro momento, si es nuestro momento de elegir, elijamos. De lo contrario, en cualquier caso, pronto nos encontraremos todos en el camino hacia el Paraíso.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

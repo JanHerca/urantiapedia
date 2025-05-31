@@ -78,7 +78,7 @@ The development of this precious inner life leads to something ineffable that is
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Cosmologia-del-universo-de-universos.jpg" alt="Cosmología del universo de universos" width="250">
 </figure>
 
-[**Cosmology of the universe of universes (Tamila Ragimova)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Cosmologia.pdf)
+[**Cosmology of the universe of universes (Tamila Ragimova)**](/en/article/Tamila_Ragimova/Cosmology_of_the_universe_of_universes) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Cosmologia.pdf))
 
 The author, PhD in Physics and retired university professor, addresses the cosmology of _The Urantia Book_ with a complete declaration of intent: «The greatest of all human progress, which occurred in the 20th century on Earth is the fifth revelation of our Universal Father and of the heavenly life described in the documents of _The Urantia Book_, which offers us a model of the universe of universes. A model so complex that it could never be discovered on Earth by any scientific method, even the most advanced we have."
 <br style="clear:both" />

@@ -109,7 +109,7 @@ Cuando el maestro zen alcanzó la iluminación, escribió lo siguiente para cele
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/La-contraccion-del-espacio-y-el-tiempo.jpg" alt="Contracción del espacio-tiempo" width="250">
 </figure>
 
-[**La contracción del espacio y el tiempo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf)
+[**La contracción del espacio y el tiempo (Jeanmarie Chaise)**](/es/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf))
 
 La intención del autor de este trabajo es, en sus propias palabras, «ir más al fondo de los conceptos, particularmente de aquellos que nos conciernen de entrada más directamente, los conceptos que afectan a nuestro estado presente de ser muy de cerca y que nos obnubilan hasta el punto de que todas las penas del mundo nos derrotan; me refiero al concepto del espacio y, quizá más todavía, al concepto de tiempo».
 <br style="clear:both" />

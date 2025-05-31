@@ -111,7 +111,7 @@ When the Zen master achieved enlightenment, he wrote the following to celebrate:
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/La-contraccion-del-espacio-y-el-tiempo.jpg" alt="Contraction of space-time" width="250">
 </figure>
 
-[**The contraction of space and time (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf)
+[**The contraction of space and time (Jeanmarie Chaise)**](/en/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf))
 
 The intention of the author of this work is, in his own words, “to go deeper into the concepts, particularly those that concern us more directly from the outset, the concepts that affect our present state of being very closely and that they obscure to the point that all the sorrows of the world defeat us; I refer to the concept of space and, perhaps even more, to the concept of time”.
 <br style="clear:both" />

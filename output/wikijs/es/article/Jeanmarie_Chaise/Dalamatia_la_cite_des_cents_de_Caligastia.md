@@ -53,7 +53,7 @@ El trabajo arqueológico aún se encuentra en sus primeras etapas; Sin embargo, 
 
 A esto nosotros, los lectores de El libro de Urantia, tenemos la respuesta. Pero en cuanto a la situación en la antigua Dalamatia, consideremos nuestro mapa. Desde la isla de Bahrein, tracemos los ejes norte-sur y este-oeste. Dividamos el distrito suroeste en dos partes iguales. La dirección indicada por esta separación suroeste va directamente al sur del Mar Rojo. Lo que había que demostrar. ¡Es una hipótesis!
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

@@ -94,7 +94,7 @@ The priest responded firmly:
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Transformative Techniques" width="250">
 </figure>
 
-[**Transformative Techniques (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
+[**Transformative Techniques (William Sadler Jr.)**](/en/article/Antonio_Moya/Transformative_Techniques) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf))
 
 This work is actually a summary of one of the appendices of the work of William Sadler Jr. _Study of the Master Universe_, which can be read at [this link](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8.md). In the words of its author, one of the most brilliant readers of the book: «There is more than one way in which things and beings emerge from potentials to become real -to become actual- but, in all cases, it is a transformative process (...) There are various other transformative techniques (besides of evolution and creation) by virtue of which things and beings are brought into existence, and through which changes and modifications are wrought in already existing things and beings. In this summary, a review is made of precisely those techniques.
 <br style="clear:both" />

@@ -76,7 +76,7 @@ El desarrollo de esta vida interior tan preciada desemboca en algo inefable que 
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Cosmologia-del-universo-de-universos.jpg" alt="Cosmología del universo de universos" width="250">
 </figure>
 
-[**Cosmología del universo de universos (Tamila Ragimova)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Cosmologia.pdf)
+[**Cosmología del universo de universos (Tamila Ragimova)**](/es/article/Tamila_Ragimova/Cosmology_of_the_universe_of_universes) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Cosmologia.pdf))
 
 La autora, doctora en Física y profesora universitaria ya retirada, aborda la cosmología de _El Libro de Urantia_ con toda una declaración de intenciones: «Lo más grande de todo el progreso humano, que ocurrió en el siglo XX en la Tierra es la quinta revelación de nuestro Padre Universal y de la vida celestial descritos en los documentos de _El Libro de Urantia_, que nos ofrece un modelo del universo de universos. Un modelo tan complejo que nunca podría ser descubierto en la Tierra por cualquier método científico, aun el más avanzado que tenemos.»
 <br style="clear:both" />

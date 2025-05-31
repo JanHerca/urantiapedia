@@ -73,7 +73,7 @@ Mundos totales de los Siete Círculos de Havona:
 
 La proporcionalidad entre cada circuito es, por tanto, del orden de un vigésimo octavo. No se debe esperar nada menos que la perfección. De hecho, justo después del hexad que es el primer <ins>dígito del símbolo perfecto</ins>, 28 (4x7) es el <ins>primer número perfecto</ins>.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

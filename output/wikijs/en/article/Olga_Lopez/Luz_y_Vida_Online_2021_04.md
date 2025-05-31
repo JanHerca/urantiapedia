@@ -101,7 +101,7 @@ In this paper, Dick Bain (with additional comments by Jan Herca, the article's t
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/03.jpg" width="250">
 </figure>
 
-[The upward race, by Rafael Mondéjar](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
+[The upward race, by Rafael Mondéjar](/en/article/Rafael_Mondejar/La_carrera_ascendente) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf))
 
 In this extensive and exhaustive work, the author, a veteran reader of the book, exposes the ascending career from our stage as planetary mortals to the stage of citizens of Paradise, with all the milestones that characterize each of the stages and what we are learning in them. .
 

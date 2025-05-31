@@ -109,9 +109,11 @@ Aquí los viajeros espaciales no recorren el mismo camino. **B** simplemente cam
 
 La contracción del tiempo, y por tanto del espacio recorrido, (o viceversa) es un hecho fundamental y lógico de la organización universal.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
+## Referencias
 
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf)
 
 <figure class="table chapter-navigator">
   <table>

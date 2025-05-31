@@ -88,7 +88,7 @@ Todo esto nos está ampliamente explicado en el Libro de Urantia, por eso, para 
 
 Esto es lo que tuve que decir en respuesta a la sugerencia de Christine Baussain. El deseo de comulgar es común a todos nosotros, y cada uno de nosotros tiene que encontrar por sí mismo cómo debe ser para sí mismo esta comunión que tanto está inclinado a desear cuando salga de una primera lectura del _Libro de Urantia_. En todas las circunstancias, ¿no deberíamos siempre preguntarnos: “¿Qué haría Jesús?” Por lo tanto, con Christine, invito a otros lectores a compartir sus pensamientos sobre este tema recurrente y específico de todos los lectores.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

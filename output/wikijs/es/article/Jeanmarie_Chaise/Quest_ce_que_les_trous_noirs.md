@@ -53,7 +53,7 @@ De hecho, lo que nos permite distinguir de dónde proviene la energía luminosa 
 
 ¿No son los conjuntos de planetas arquitectónicos de este tipo simplemente lo que nuestros astrónomos llaman “agujeros negros”?
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

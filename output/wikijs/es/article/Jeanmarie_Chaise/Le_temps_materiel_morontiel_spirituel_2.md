@@ -63,7 +63,7 @@ Ya sea que nuestro progreso en nuestra eternidad futura nos reserve un destino d
 
 Desde tal enfoque intelectual, es posible describir la manifestación experiencial como sujeta voluntariamente por la Deidad a leyes numéricas, presentándose el tiempo y el espacio como una especie de abscisa y ordenada de una construcción cósmica que sólo puede ser superada mediante el logro de. lo absoluto. Y toda esta capacidad de numeración está escrita dentro de los diez símbolos numéricos. Este conjunto, con sus funciones únicas y por tanto simbolizantes, constituye sin duda lo que los reveladores llaman «***las prematemáticas de la fuerza, la energía y el poder.***» <a id="a63_579"></a>[[LU 104:3.2](/es/The_Urantia_Book/104#p3_2)], bases esenciales para la creación experiencial del tiempo y espacio.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

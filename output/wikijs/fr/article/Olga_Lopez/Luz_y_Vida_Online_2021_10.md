@@ -110,7 +110,7 @@ Lorsque le maître Zen atteignit l’illumination, il écrivit ce qui suit pour 
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/La-contraccion-del-espacio-y-el-tiempo.jpg" alt="Contracción del espacio-tiempo" width="250">
 </figure>
 
-[**La contraction de l'espace et du temps (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf)
+[**La contraction de l'espace et du temps (Jeanmarie Chaise)**](/fr/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf))
 
 L'intention de l'auteur dans cet ouvrage est, selon ses propres mots, « d'approfondir les concepts, notamment ceux qui nous concernent le plus directement d'emblée, concepts qui affectent de très près notre état d'être actuel et qui nous obscurcissent au point que toutes les peines du monde nous vainquent ; Je fais référence à la notion d'espace et, peut-être plus encore, à la notion de temps.
 <br style="clear:both" />

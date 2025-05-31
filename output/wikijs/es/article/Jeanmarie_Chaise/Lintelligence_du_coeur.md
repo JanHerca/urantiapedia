@@ -53,7 +53,7 @@ La inteligencia del corazón es, por tanto, sinónimo de apertura de miras, de m
 
 Este es el surgimiento primordial en el que Jesús nos invitó a todos a participar con alegría. Que todos aquellos hombres y mujeres de este mundo a quienes haya podido trastornar, perdonen los defectos que hayan notado en mí y que les desagraden. Sigo siendo su sirviente bien intencionado.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

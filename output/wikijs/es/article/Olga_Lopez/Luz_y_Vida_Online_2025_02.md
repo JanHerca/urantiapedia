@@ -97,7 +97,7 @@ En este trabajo, Dick Bain (con comentarios adicionales de Jan Herca, el traduct
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Lacarreraascendente-abr21.jpg" alt="La carrera ascendente" width="250">
 </figure>
 
-[**La carrera ascendente, de Rafael Mondéjar**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
+[**La carrera ascendente, de Rafael Mondéjar**](/es/article/Rafael_Mondejar/La_carrera_ascendente) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf))
 
 En este extenso y exhaustivo trabajo el autor, lector veterano del libro, expone la carrera ascendente desde nuestra etapa como mortales planetarios hasta la etapa de ciudadanos del Paraíso, con todos los hitos que caracterizan cada una de las etapas y lo que vamos aprendiendo en ellas.
 

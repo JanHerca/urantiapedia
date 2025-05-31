@@ -93,7 +93,7 @@ M. José Sánchez Santamaría
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
 </figure>
 
-[**Techniques de transformation (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
+[**Techniques de transformation (William Sadler Jr.)**](/en/article/Antonio_Moya/Transformative_Techniques) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf))
 
 Cet ouvrage est en fait un résumé d'une des annexes de l'ouvrage _Study of the Master Universe_ de William Sadler Jr., qui peut être lu sur [ce lien](http://www.urantia.org/es/apendices-de-estudio-del-universo-maestro/apendice-viii-tecnicas-transformadoras). Selon les mots de son auteur, l'un des plus brillants lecteurs du livre : « Il y a plus d'une manière par laquelle les choses et les êtres naissent de potentiels pour devenir réels - pour devenir réels - mais, dans tous les cas, il s'agit d'un processus de transformation (...) Il existe divers autres processus de transformation techniques (en plus de l'évolution et de la création) en vertu desquelles les choses et les êtres naissent et par lesquelles des changements et des modifications sont opérés dans des choses et des êtres déjà existants. Ce résumé passe précisément en revue ces techniques.
 <br style="clear:both" />

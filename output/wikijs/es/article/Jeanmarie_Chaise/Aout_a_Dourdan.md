@@ -58,7 +58,7 @@ Moussa, cuando no está trabajando, porque estas sesiones son obviamente para é
 
 Volví a ver a Moussa unos días después en la sede de AFFLU con su hijo Mustapha y sus dos sobrinas Fatou y Monique. Aquí nuevamente pude apreciar con unas quince personas más los beneficios de esta presencia que espero que todos encuentren algún día, porque creo que el Libro de Urantia se completa y perfecciona con la llegada de una personalidad que pone verdadera y profundamente el enseñanzas de Jesús en su vida.
 
-Silla Jeanmarie
+Jeanmarie Chaise
 
 
 

@@ -100,7 +100,7 @@ Dans cet ouvrage, Dick Bain (avec les commentaires supplémentaires de Jan Herca
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/03.jpg" width="250">
 </figure>
 
-[La Course Montante, de Rafael Mondéjar](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
+[La Course Montante, de Rafael Mondéjar](/fr/article/Rafael_Mondejar/La_carrera_ascendente) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf))
 
 Dans cet ouvrage vaste et exhaustif, l'auteur, lecteur chevronné du livre, expose la carrière ascendante depuis notre stade de mortels planétaires jusqu'à celui de citoyens du Paradis, avec tous les jalons qui caractérisent chacune des étapes et ce que nous apprenons. en eux. 
 
