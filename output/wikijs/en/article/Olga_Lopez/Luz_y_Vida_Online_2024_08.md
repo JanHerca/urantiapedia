@@ -104,7 +104,7 @@ The purpose of this work is to try to understand, from a finite mind like ours, 
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Serafin_2.jpg" alt="Serafín" width="250">
 </figure>
 
-[**Outline of the seraphic organization (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf)
+[**Outline of the seraphic organization (L. Coll)**](/en/article/Luis_Coll/Esquema_de_la_organizacion_serafica) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf))
 
 In this brief outline, its author offers the basic data to understand how the seraphim and their hierarchy are organized, in addition to offering us basic information about their nature and function. Very useful to keep in mind in a summarized way the most outstanding aspects of this fascinating order of beings created by the Mother Spirit of the local universe.
 <br style="clear:both;"/>

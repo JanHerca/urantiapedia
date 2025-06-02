@@ -80,7 +80,7 @@ To Nicodemus's perplexity, Jesus replied:
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo" width="250">
 </figure>
 
-[**Material time, morontia time and spiritual time (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf)
+[**Material time, morontia time and spiritual time (Jeanmarie Chaise)**](/en/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf))
 
 Despite what the title might indicate, this article (published in the magazine Le Lien Urantien, of the French readers association) rather than a reflection of what time itself is, reviews our upward career and the relationship that we will have in each of its stages with space and time and what it means to transcend the latter. Because, as the author says: «time and space are presented as a kind of abscissa and ordinates of a cosmic construction that can only be overcome by achieving the absolute. And all this capacity to number is inscribed inside ten number symbols.
 <br style="clear:both" />

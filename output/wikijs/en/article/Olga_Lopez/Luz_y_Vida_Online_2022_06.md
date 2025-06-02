@@ -105,7 +105,7 @@ This work is actually a summary of one of the appendices of the work of William 
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Freedom" width="250">
 </figure>
 
-[**Freedom (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
+[**Freedom (Jean-Claude Romeuf)**](/en/article/Jean_Claude_Romeuf/Liberte) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf))
 
 In this short article, which the author defines as a hymn to freedom, this quote from _The Urantia Book_ is analyzed: “As you ascend through the personality ladder, you first learn to be loyal, then to love, then to be affiliated, and then you can be free” <a id="a109_257"></a>[UB 39:4.11](/en/The_Urantia_Book/39#p4_11). The author exposes each of the points that leads us to be free (to be loyal, to love, to be filial) relying on other quotes from the book, as well as the reflections that each of these stages provokes in him. In the words of the author, to be free «is to live in the most total security. It is knowing that nothing bad can happen to us and that all superhuman and personal forces contribute to our happiness. All our physical or mental fears disappear, including the last fear that may be left behind the others: the fear of not being able to love.
 <br style="clear:both" />

@@ -90,9 +90,8 @@ De _«Estrellas y átomos»_ , por Sir Arthur Eddington:
 
 ## Enlaces externos
 
-* Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page16.html
-
-* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf
+* [Este artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page16.html)
+* [Este artículo en la web de la Asociación Urantia de España, traducción de Olga López](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf)
 
 ## Referencias
 

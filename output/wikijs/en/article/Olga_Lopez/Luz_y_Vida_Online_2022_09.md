@@ -96,7 +96,7 @@ Here are the links to the [second](https://aue.urantia-association.org/wp-conten
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/De-la-materia-al-espiritu.png" alt="De la materia al espíritu" width="250">
 </figure>
 
-[**From matter to spirit passing through the mind (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Materia-espiritu.pdf)
+[**From matter to spirit passing through the mind (Jean-Claude Romeuf)**](/en/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Materia-espiritu.pdf))
 
 In this work, its author reviews the evolution of the species and how the different spirit-mind adjutants were incorporated into them until they reached the human species and its ability to know God and love him. «The learning of love is not a purely human fact. Everything happens as if the helpers \[adjutores\] prepared in the course of evolution the animal mind to become sensitive to the superior influences of the spirit. Added to physical development, this makes the animal indispensable for the intellectual development of man."
 <br style="clear:both" />

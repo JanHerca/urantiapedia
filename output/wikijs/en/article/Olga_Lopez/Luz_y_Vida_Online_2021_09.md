@@ -139,7 +139,7 @@ This work takes as its starting points other secondary works by the author (coll
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravity" width="250">
 </figure>
 
-[**Gravity, Newton, Einstein and UB (author unknown)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
+[**Gravity, Newton, Einstein and UB (author unknown)**](/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf))
 
 In this work, the author reflects on the fact that the developers seemed to know Einstein's theory but nevertheless used Newtonian terms to expose contents related to gravity, matter and energy. Is this an indicator that both approaches have their share of truth, or is it part of the limitations of the developers? Meanwhile, scientists have made measurements and formulated theories that seem to fit the scientific claims made in the book.
 <br style="clear:both" />

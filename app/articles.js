@@ -52,7 +52,8 @@ class Articles {
 		'6-0-6',
 		'Reflectivite',
 		'Le Lien',
-		'La Lettre'
+		'La Lettre',
+		'Urantia Association of Spain'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

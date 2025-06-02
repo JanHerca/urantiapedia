@@ -97,7 +97,7 @@ Cet ouvrage est une synthèse d'un autre ouvrage plus étendu que Bill Sadler a 
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
-[**La force de gravité dans le noyau atomique prophétisée en 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
+[**La force de gravité dans le noyau atomique prophétisée en 1934 (Ken Glasziou)**](/fr/article/Ken Glasziou/The_Strong_Force_in_the_Atomic_Nucleus_Prophesied_in_1934) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf))
 
 Cet article, bien que bref, est très éclairant sur la façon dont la physique se rapproche progressivement de ce que les révélateurs affirment dans _Le Livre d'Urantia_ à propos du modèle atomique et des forces qui maintiennent les atomes ensemble. Rappelons que l’ultimathon n’a pas été découvert en tant que tel par la science. Pourquoi les révélateurs nous ont-ils parlé de lui, alors qu’il semble encore très loin d’être découvert ? Eh bien, il y a peut-être déjà des scientifiques qui sont sur la bonne voie.
 <br style="clear:both" />

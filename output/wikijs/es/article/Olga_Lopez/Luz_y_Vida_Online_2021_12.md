@@ -75,7 +75,7 @@ Para ello, os propongo saltar por encima de la avalancha de las noticias, de la 
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Surf-por-los-rayos-de-sol.jpg" alt="Surf por los rayos de sol" width="250">
 </figure>
 
-[**Haciendo surf por los rayos de sol (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf)
+[**Haciendo surf por los rayos de sol (Ken Glasziou)**](/es/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf))
 
 Este trabajo comienza preguntando al lector: «¿Cuántos de nosotros nos hemos asombrado con la sección de _El Libro de Urantia_ titulada «El calcio, el errante del espacio»?». Realmente nos puede resultar asombroso que un átomo como el del calcio pueda viajar por los rayos de sol, pero científicos de la época en la que se revelaron los documentos de Urantia ya lo consideraban, y así se expone en este interesante artículo.
 <br style="clear:both" />
@@ -86,7 +86,7 @@ Este trabajo comienza preguntando al lector: «¿Cuántos de nosotros nos hemos 
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Instituciones-humanas.jpg" alt="Instituciones humanas" width="250">
 </figure>
 
-[**Reflexiones urantianas sobre las instituciones humanas (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf)
+[**Reflexiones urantianas sobre las instituciones humanas (Olga López)**](/es/article/Olga_Lopez/Reflexiones_urantianas_sobre_las_instituciones_humanas) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf))
 
 Este trabajo es la transcripción de una presentación hecha en Zoom en agosto de 2019, y realiza un repaso a las instituciones humanas desde el punto de vista de _El Libro de Urantia_, tomando como referencia los documentos 69 (Las instituciones humanas primitivas), 70 (La evolución del gobierno humano) y 71 (El desarrollo del Estado). Porque, como dice la autora: «En unos tiempos tan «interesantes» como estos, en los que la palabra «crisis» está en boca de todos cuando se habla de la política, la economía y la sociedad, creo que es conveniente echar una mirada a lo que _El Libro de Urantia_ nos dice sobre todos estos aspectos de las instituciones humanas».
 <br style="clear:both" />

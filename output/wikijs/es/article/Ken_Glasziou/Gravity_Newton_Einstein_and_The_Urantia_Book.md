@@ -70,13 +70,13 @@ Todavía es pronto y sólo el tiempo dirá si estas ideas se comprobarán. Sus a
 
 ## Enlaces externos
 
-* Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page16.html
-* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf
-* https://es.wikipedia.org/wiki/Modelo_electrodébil
-* https://es.wikipedia.org/wiki/Energía_del_punto_cero
-* https://en.wikipedia.org/wiki/Stochastic_electrodynamics
-* https://es.wikipedia.org/wiki/Efecto_Lamb
-* https://es.wikipedia.org/wiki/Efecto_Casimir
+* [Este artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page16.html)
+* [Este artículo en la web de la Asociación Urantia de España, traducción de Olga López](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
+* [Wikipedia — Modelo electrodébil](https://es.wikipedia.org/wiki/Modelo_electrodébil)
+* [Wikipedia — Energía del punto cero](https://es.wikipedia.org/wiki/Energía_del_punto_cero)
+* [Wikipedia — Stochastic electrodynamics](https://en.wikipedia.org/wiki/Stochastic_electrodynamics)
+* [Wikipedia — Efecto Lamb](https://es.wikipedia.org/wiki/Efecto_Lamb)
+* [Wikipedia — Efecto Casimir](https://es.wikipedia.org/wiki/Efecto_Casimir)
 
 
 

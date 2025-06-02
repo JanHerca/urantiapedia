@@ -104,7 +104,7 @@ El propósito de este trabajo es tratar de comprender, desde una mente finita co
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Serafin_2.jpg" alt="Serafín" width="250">
 </figure>
 
-[**Esquema de la organización seráfica (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf)
+[**Esquema de la organización seráfica (L. Coll)**](/es/article/Luis_Coll/Esquema_de_la_organizacion_serafica) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf))
 
 En este breve esquema, su autor ofrece los datos básicos para comprender cómo se organizan las serafines y su jerarquía, aparte de ofrecernos la información básica sobre su naturaleza y función. Muy útil para tener presente de forma resumida lo más destacado de este fascinante orden de seres creados por el Espíritu Madre del universo local.
 <br style="clear:both;"/>

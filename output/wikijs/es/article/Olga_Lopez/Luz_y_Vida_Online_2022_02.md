@@ -96,7 +96,7 @@ Este trabajo es una síntesis de otro trabajo más extenso que Bill Sadler escri
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
-[**La fuerza de gravedad en el núcleo atómico profetizada en 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
+[**La fuerza de gravedad en el núcleo atómico profetizada en 1934 (Ken Glasziou)**](/es/article/Ken Glasziou/The_Strong_Force_in_the_Atomic_Nucleus_Prophesied_in_1934) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf))
 
 Este artículo, aun siendo breve, es muy esclarecedor sobre cómo la física se va acercando poco a poco a lo que los reveladores afirman en _El Libro de Urantia_ acerca del modelo atómico y las fuerzas que mantienen cohesionados los átomos. Recordemos que el ultimatón no ha sido descubierto como tal por la ciencia. ¿Por qué los reveladores nos hablaron de él, cuando parece estar todavía muy lejos de ser descubierto? Bueno, quizá ya haya científicos que estén en el camino correcto.
 <br style="clear:both" />

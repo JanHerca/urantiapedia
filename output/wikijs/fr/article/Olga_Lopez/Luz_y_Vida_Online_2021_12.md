@@ -76,7 +76,7 @@ Pour ce faire, je propose de sauter par-dessus l'avalanche de l'actualité, le m
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Surf-por-los-rayos-de-sol.jpg" alt="Surf por los rayos de sol" width="250">
 </figure>
 
-[**Surfer pour les rayons du soleil (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf)
+[**Surfer pour les rayons du soleil (Ken Glasziou)**](/fr/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf))
 
 Cet ouvrage commence en demandant au lecteur : « Combien d'entre nous ont été étonnés par la section du _Livre d'Urantia_ intitulée « Calcium, le Vagabond de l'Espace » ? Cela peut vraiment nous paraître surprenant qu'un atome comme le calcium puisse voyager à travers les rayons du soleil, mais les scientifiques de l'époque où les Cahiers d'Urantia ont été révélés l'avaient déjà envisagé, et cela est expliqué dans cet article intéressant.
 <br style="clear:both" />
@@ -87,7 +87,7 @@ Cet ouvrage commence en demandant au lecteur : « Combien d'entre nous ont été
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Instituciones-humanas.jpg" alt="Instituciones humanas" width="250">
 </figure>
 
-[**Réflexions urantiennes sur les institutions humaines (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf)
+[**Réflexions urantiennes sur les institutions humaines (Olga López)**](/fr/article/Olga_Lopez/Reflexiones_urantianas_sobre_las_instituciones_humanas) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf))
 
 Cet ouvrage est la transcription d'une présentation faite sur Zoom en août 2019, et passe en revue les institutions humaines du point de vue du _Le Livre d'Urantia_, en prenant comme référence les documents 69 (Institutions humaines primitives), 70 (L'évolution du gouvernement humain) et 71. (Le développement de l'État). Car, comme le dit l'auteur : « Dans une époque aussi « intéressante » que celle-ci, où le mot « crise » est sur toutes les lèvres lorsqu'on parle de politique, d'économie et de société, je pense qu'il est opportun d'y jeter un coup d'œil. ce que le _Livre d'Urantia_ nous dit sur tous ces aspects des institutions humaines.
 <br style="clear:both" />

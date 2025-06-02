@@ -79,7 +79,7 @@ Devant la perplexité de Nicodème, Jésus répondit :
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo" width="250">
 </figure>
 
-[**Temps matériel, temps morontiel et temps spirituel (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf)
+[**Temps matériel, temps morontiel et temps spirituel (Jeanmarie Chaise)**](/fr/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf))
 
 Malgré ce que pourrait indiquer le titre, plus qu'une réflexion sur ce qu'est le temps lui-même, cet article (publié dans la revue Le Lien Urantien, de l'association des lecteurs français) revient sur notre parcours ascendant et la relation que nous aurons dans chacun de ses étapes avec l'espace et le temps et ce que signifie transcender ce dernier. Car, comme le dit l'auteur : « le temps et l'espace se présentent comme une sorte d'abscisse et d'ordonnée d'une construction cosmique qui ne peut être dépassée que par la réalisation de l'absolu. Et toute cette capacité à numéroter est inscrite dans dix symboles numériques.
 <br style="clear:both" />

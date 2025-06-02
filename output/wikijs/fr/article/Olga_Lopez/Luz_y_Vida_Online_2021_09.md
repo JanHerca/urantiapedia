@@ -138,7 +138,7 @@ Ce travail s'inspire d'autres travaux secondaires de l'auteur (recueillis dans l
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
-[**Gravity, Newton, Einstein et LU (auteur inconnu)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
+[**Gravity, Newton, Einstein et LU (auteur inconnu)**](/fr/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf))
 
 Dans cet ouvrage, l'auteur réfléchit sur le fait que les révélateurs semblaient connaître la théorie d'Einstein mais utilisaient néanmoins des termes newtoniens pour exposer le contenu lié à la gravité, à la matière et à l'énergie. Cela pourrait-il être un indicateur que les deux approches ont leur part de vérité, ou cela fait-il partie des limites des révélateurs ? Pendant ce temps, les scientifiques ont effectué des mesures et formulé des théories qui semblent correspondre aux affirmations scientifiques du livre.
 <br style="clear:both" />

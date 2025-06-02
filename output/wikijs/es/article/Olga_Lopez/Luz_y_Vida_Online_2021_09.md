@@ -137,7 +137,7 @@ Este trabajo toma como puntos de partida otros trabajos secundarios del autor (r
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
-[**La gravedad, Newton, Einstein y el LU (autor desconocido)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
+[**La gravedad, Newton, Einstein y el LU (autor desconocido)**](/es/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf))
 
 En este trabajo, el autor reflexiona sobre el hecho de que los reveladores parecían conocer la teoría de Einstein pero sin embargo utilizaban términos newtonianos para exponer contenidos relacionados con la gravedad, la materia y la energía. ¿Será esto indicador de que ambos enfoques tienen su parte de verdad, o forma parte de las limitaciones de los reveladores? Mientras tanto, los científicos han realizado medidas y formulado teorías que parecen encajar con las afirmaciones científicas que aparecen en el libro.
 <br style="clear:both" />

@@ -88,7 +88,7 @@ In this extensive work, Carmelo Martínez (a graduate of this world since 2020) 
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemonstrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemonstrability of the existence of God" width="250">
 </figure>
 
-[**Unprovability of the existence of God (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf)
+[**Unprovability of the existence of God (Santiago Rodríguez)**](/en/article/Santiago_Rodriguez/Indemostrabilidad_de_la_existencia_de_Dios) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf))
 
 How many times have we thought about convincing others of the existence of God? In this brief but insightful reflection, the author begins with the gift of free will to human beings and our status as children of God through faith, leading to the conclusion that God's existence cannot be objectively demonstrated.
 <br style="clear:both;"/>

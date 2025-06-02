@@ -104,7 +104,7 @@ Le but de cet ouvrage est de tenter de comprendre, à partir d’un esprit fini 
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Serafin_2.jpg" alt="Serafín" width="250">
 </figure>
 
-[**Aperçu de l'organisation séraphique (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf)
+[**Aperçu de l'organisation séraphique (L. Coll)**](/fr/article/Luis_Coll/Esquema_de_la_organizacion_serafica) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OrganizacionSerafica.pdf))
 
 Dans ce bref aperçu, l'auteur fournit les données de base pour comprendre comment les séraphins sont organisés et leur hiérarchie, ainsi que nous offre des informations de base sur leur nature et leur fonction. Il est très utile de garder à l’esprit de manière résumée les aspects les plus marquants de cet ordre fascinant d’êtres créés par l’Esprit Mère de l’univers local.
 <br style="clear:both;"/>

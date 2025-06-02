@@ -101,6 +101,7 @@ Estamos experimentando una versión mortal del patrón cósmico establecido por 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+- [Este artículo en la web de la Asociación Urantia de España, traducción de Antonio Moya](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf)
 
 <figure class="table chapter-navigator">
   <table>

@@ -100,9 +100,8 @@ Y el que posiblemente sea el momento más pintoresco de todos: su pequeña charl
 
 ## Enlaces externos
 
-* Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
-
-* Traducción original: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf
+* [Este artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html)
+* [Este artículo en la web de la Asociación Urantia de España, traducción de Olga López](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf)
 
 
 <figure class="table chapter-navigator">

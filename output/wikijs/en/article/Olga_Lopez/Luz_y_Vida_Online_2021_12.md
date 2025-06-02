@@ -77,7 +77,7 @@ To do this, I propose that you jump over the avalanche of news, the maelstrom of
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Surf-por-los-rayos-de-sol.jpg" alt="Surf por los rayos de sol" width="250">
 </figure>
 
-[**Surfing through the sunbeams (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf)
+[**Surfing through the sunbeams (Ken Glasziou)**](/en/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf))
 
 This work begins by asking the reader: “How many of us have been amazed by the section of _The Urantia Book_ entitled “Calcium, the space wanderer”?”. It can really be amazing to us that an atom like calcium can travel through the sun's rays, but scientists at the time when the Urantia Papers were revealed already considered it, and it is exposed in this interesting article.
 <br style="clear:both" />
@@ -88,7 +88,7 @@ This work begins by asking the reader: “How many of us have been amazed by the
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Instituciones-humanas.jpg" alt="Instituciones humanas" width="250">
 </figure>
 
-[**Urantia Reflections on Human Institutions (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf)
+[**Urantia Reflections on Human Institutions (Olga López)**](/en/article/Olga_Lopez/Reflexiones_urantianas_sobre_las_instituciones_humanas) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf))
 
 This work is the transcription of a presentation made on Zoom in August 2019, and reviews human institutions from the point of view of _The Urantia Book_, taking as reference documents 69 (Primitive human institutions), 70 ( The evolution of human government) and 71 (The development of the State). Because, as the author says: «In times as “interesting” as these, in which the word “crisis” is on everyone's lips when talking about politics, the economy and society, I think it is convenient to take a look look at what _The Urantia Book_ tells us about all these aspects of human institutions.”
 <br style="clear:both" />

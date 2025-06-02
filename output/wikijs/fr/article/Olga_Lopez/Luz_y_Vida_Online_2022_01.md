@@ -91,7 +91,7 @@ Dans cette présentation PowerPoint, l'auteur de cet ouvrage secondaire propose 
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas" width="250">
 </figure>
 
-[**Nos divinités créatrices, une relation suprême (Linda Buselli)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf)
+[**Nos divinités créatrices, une relation suprême (Linda Buselli)**](/fr/article/Linda Buselli/Our_Creative_Deities_A_Supreme_Relationship) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf))
 
 Cet ouvrage est une transcription d'une présentation que l'auteur a faite lors d'une conférence sur Urantia en 2004 dont le sujet était l'Esprit Mère Créatrice. Plus précisément, l'auteur traite de la relation établie par le Fils Créateur avec son Esprit Créateur et de la dualité d'attributs et de fonctions qui existent entre les deux et de la grande valeur de cette dualité dans l'organisation de l'univers local.
 <br style="clear:both" />

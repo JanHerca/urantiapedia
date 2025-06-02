@@ -92,7 +92,7 @@ In this PowerPoint presentation, the author of this secondary work offers a very
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas" width="250">
 </figure>
 
-[**Our Creative Deities, a Supreme Relationship (Linda Buselli)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf)
+[**Our Creative Deities, a Supreme Relationship (Linda Buselli)**](/en/article/Linda Buselli/Our_Creative_Deities_A_Supreme_Relationship) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf))
 
 This work is a transcript of a presentation the author gave at a 2004 Urantia conference on the theme of Creative Mother Spirit. Specifically, the author deals with the relationship established by the Creator Son with his Creative Spirit and the duality of attributes and functions that exists between them and the great value of this duality in the organization of the local universe.
 <br style="clear:both" />

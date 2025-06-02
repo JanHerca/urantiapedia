@@ -112,7 +112,7 @@ In this 11-page work, the author, Eduardo Altuzarra, a veteran reader of the boo
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/05.jpg" width="250">
 </figure>
 
-**[An approximation to the local universe of Nebadón (Santiago Rodríguez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/UnaAproximacionAlUniversoLocalV9.pdf)**
+**[An approximation to the local universe of Nebadón (Santiago Rodríguez)](/en/article/Santiago_Rodriguez/Una_aproximacion_al_universo_local_de_Nebadon)** (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/UnaAproximacionAlUniversoLocalV9.pdf))
 
 Santiago Rodríguez is a veteran reader and amateur astronomer. A few years ago he wrote this extensive but very interesting work on what the dimensions of Nebadon would be according to what is said in the book and based on current astronomical data and quotes. The reference quote is the one that alludes to Antares as the largest star in Nebadon, which gives rise to the author to establish what would be the approximate size and location of our universe.
 <br style="clear:both" />

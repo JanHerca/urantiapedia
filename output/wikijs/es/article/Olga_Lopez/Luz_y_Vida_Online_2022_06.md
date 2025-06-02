@@ -103,7 +103,7 @@ Este trabajo es en realidad un resumen de uno de los apéndices de la obra de Wi
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad" width="250">
 </figure>
 
-[**Libertad (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
+[**Libertad (Jean-Claude Romeuf)**](/es/article/Jean_Claude_Romeuf/Liberte) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf))
 
 En este breve artículo, que el autor define como un himno a la libertad, se analiza esta cita de _El Libro de Urantia_: «A medida que ascendéis por la escala de la personalidad, aprendéis primero a ser leales, después a amar, después a ser filiales, y entonces podréis ser libres» <a id="a107_281"></a>[LU 39:4.11](/es/The_Urantia_Book/39#p4_11). El autor expone cada uno de los puntos que nos lleva a ser libres (ser leales, amar, ser filiales) apoyándose en otras citas del libro, así como las reflexiones que le provoca cada una de esas etapas. En palabras del autor, ser libre «es vivir en la seguridad más total. Es saber que nada malo nos puede suceder y que todas las fuerzas suprahumanas y personales contribuyen a nuestra felicidad. Todos nuestros miedos físicos o mentales desaparecen, incluso el último miedo que puede quedar tras los otros: el miedo de no ser capaz de amar».
 <br style="clear:both" />

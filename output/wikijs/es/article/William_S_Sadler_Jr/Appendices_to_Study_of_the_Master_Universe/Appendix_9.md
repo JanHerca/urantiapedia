@@ -174,6 +174,11 @@ Cuando toda la creación local esté establecida en luz y vida (Documento 55), e
 
 Hay una séptima etapa de desarrollo que pertenece tanto al Hijo Creador <a id="s174_72"></a>[LU 21:3.11](/es/The_Urantia_Book/21#p3_11) como al Espíritu Creativo <a id="s174_142"></a>[LU 17:6.10](/es/The_Urantia_Book/17#p6_10), pero esta etapa se relaciona probablemente con acontecimientos más allá del horizonte de la era actual del universo (Nuestro estudio respecto a la evolución posterior de los Hijos y Espíritus universales continúa en el [Apéndice XIII](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13).)
 
+
+## Referencias
+
+- [Este capítulo en la web de la Asociación Urantia de España, traducción de Antonio Moya](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CRONOLOG%C3%8DA-DE-LOS-UNIVERSOS-LOCALES.pdf)
+
 <br>
 
 <figure class="table chapter-navigator">

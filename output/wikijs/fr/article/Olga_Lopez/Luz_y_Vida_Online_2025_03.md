@@ -88,7 +88,7 @@ Dans cet ouvrage approfondi, Carmelo Martínez (diplômé de ce monde depuis 202
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemonstrabilidad-de-la-existencia-de-Dios.jpg" alt="Indémontrabilité de l'existence de Dieu" width="250">
 </figure>
 
-[**Improuvabilité de l'existence de Dieu (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf)
+[**Improuvabilité de l'existence de Dieu (Santiago Rodríguez)**](/fr/article/Santiago_Rodriguez/Indemostrabilidad_de_la_existencia_de_Dios) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf))
 
 
 Combien de fois avons-nous pensé à convaincre les autres de l’existence de Dieu ? Dans cette réflexion brève mais perspicace, l’auteur commence par le don du libre arbitre aux êtres humains et notre statut d’enfants de Dieu par la foi, conduisant à la conclusion que l’existence de Dieu ne peut être démontrée objectivement.

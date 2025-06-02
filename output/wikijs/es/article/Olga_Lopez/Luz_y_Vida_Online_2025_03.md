@@ -88,7 +88,7 @@ En este extenso trabajo, Carmelo Martínez (graduado de este mundo desde 2020) t
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemostrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemostrabilidad de la existencia de Dios" width="250">
 </figure>
 
-[**Indemostrabilidad de la existencia de Dios (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf)
+[**Indemostrabilidad de la existencia de Dios (Santiago Rodríguez)**](/es/article/Santiago_Rodriguez/Indemostrabilidad_de_la_existencia_de_Dios) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf))
 
 ¿Cuántas veces habremos pensado en convencer a otros de la existencia de Dios? En esta breve pero certera reflexión del autor se parte del regalo del libre albedrío a los seres humanos y de nuestra condición de hijos de Dios por la fe para llegar a la conclusión de que la existencia de Dios no se puede demostrar de manera objetiva.
 <br style="clear:both;"/>

@@ -98,7 +98,7 @@ This work is a synthesis of another more extensive work that Bill Sadler wrote o
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
-[**The force of gravity on the atomic nucleus prophesied in 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
+[**The force of gravity on the atomic nucleus prophesied in 1934 (Ken Glasziou)**](/en/article/Ken Glasziou/The_Strong_Force_in_the_Atomic_Nucleus_Prophesied_in_1934) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf))
 
 This article, although brief, is very illuminating on how physics is gradually getting closer to what the revelators affirm in _The Urantia Book_ about the atomic model and the forces that hold atoms together. Remember that the ultimaton has not been discovered as such by science. Why did the revelators tell us about it, when it seems to be still a long way from being discovered? Well, maybe there are already scientists who are on the right track.
 <br style="clear:both" />

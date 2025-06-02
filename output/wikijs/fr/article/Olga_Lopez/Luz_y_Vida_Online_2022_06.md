@@ -104,7 +104,7 @@ Cet ouvrage est en fait un résumé d'une des annexes de l'ouvrage _Study of the
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad" width="250">
 </figure>
 
-[**Liberté (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
+[**Liberté (Jean-Claude Romeuf)**](/fr/article/Jean_Claude_Romeuf/Liberte) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf))
 
 Dans ce court article, que l'auteur définit comme un hymne à la liberté, cette citation du _Livre d'Urantia_ est analysée : « À mesure que vous vous élevez sur l’échelle de la personnalité, vous apprenez d’abord à être loyal, ensuite à aimer, ensuite à être filial, et alors vous pouvez être libre » <a id="a108_300"></a>[LU 39:4.11](/fr/The_Urantia_Book/39#p4_11). L'auteur expose chacun des points qui nous amènent à être libres (être loyal, aimant, être filial) à partir d'autres citations du livre, ainsi que les réflexions que suscite chacune de ces étapes. Selon les mots de l’auteur, être libre « c’est vivre dans la sécurité la plus totale. C'est savoir que rien de mal ne peut nous arriver et que toutes les forces suprahumaines et personnelles contribuent à notre bonheur. Toutes nos peurs physiques ou mentales disparaissent, même la dernière peur qui peut rester derrière les autres : la peur de ne pas pouvoir aimer.
 <br style="clear:both" />
