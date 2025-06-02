@@ -53,7 +53,7 @@ Luz y Vida — Avril 2025
 Éditorial – avril 2025 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/Editorial-Apr-25-2.jpg" alt="Éditorial 25 avril 2020" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/Editorial-abr-25-2.jpg" alt="Éditorial 25 avril 2020" width="350">
 </figure>
 
 Tout d’abord : merci d’être là, de prendre quelques minutes.
@@ -72,7 +72,7 @@ Imaginez le sentiment d'une connexion profonde avec un groupe de lecteurs amicau
 ## Travails – Nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/MatterandEnergy.jpg" alt="Matière et Énergie" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/Lamateriaylaenergia.jpg" alt="Matière et Énergie" width="250">
 </figure>
 
 [**Matière et énergie. Physique et Le Livre d'Urantia (Carmelo Martínez)**](/fr/article/Carmelo_Martinez/La_materia_y_la_energia_La_fisica_y_LU) (également sur l'[association site Web](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf))
@@ -85,7 +85,7 @@ Dans cet ouvrage approfondi, Carmelo Martínez (diplômé de ce monde depuis 202
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemonstrabilidad-de-la-existencia-de-Dios.jpg" alt="Indémontrabilité de l'existence de Dieu" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemostrabilidad-de-la-existencia-de-Dios.jpg" alt="Indémontrabilité de l'existence de Dieu" width="250">
 </figure>
 
 [**Improuvabilité de l'existence de Dieu (Santiago Rodríguez)**](/fr/article/Santiago_Rodriguez/Indemostrabilidad_de_la_existencia_de_Dios) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf))
@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=cLoT5G_gyzI
 ## Histoire et enseignements : Chronique de la vie de Jésus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/Document-165.jpg" alt="Document 165" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/Documento-165.jpg" alt="Document 165" width="250">
 </figure>
 
 **COMPTE JOURNALISTIQUE DE LA VIE ET ​​DES ENSEIGNEMENTS DE JÉSUS SELON LE LIVRE D'URANTIA**
@@ -285,6 +285,8 @@ RÉVEILLEZ-VOUS!!
 
 ## Conférence d'Avril sur Urantian
 
+<br>
+
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">
 </figure>
@@ -308,7 +310,7 @@ Si vous avez manqué la première partie, [voici le lien](https://youtu.be/G_mHH
 ## Série de présentations UBIS « In Focus »
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.jpg" alt="Au point" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.png" alt="Au point" width="250">
 </figure>
 
 L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires « In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
@@ -334,17 +336,18 @@ Lien vers la vidéo
 
 https://youtu.be/FxXaVMNAxvM?si=_HdVtbyEaiIGY8rT
 
-Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS)
+## Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS)
 
-<figure id="Figure_15b" class="image urantiapedia image-style-align-center">
+<figure id="Figure_15b" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-septiembre-2021.jpg" alt="UBIS septembre 2021" width="250">
 </figure>
-
-<br style="clear:both;"/>
 
 Le trimestre d’avril de l’École Internationale du Livre d’Urantia (UBIS) est sur le point de commencer ! Les inscriptions débutent le **lundi 21 avril** et se terminent le **dimanche 4 mai**. Les cours commencent le **lundi 28 avril** avec la semaine d'orientation.
 
 Voici les cours qui seront offerts ce trimestre. Elles durent toutes **6 semaines** :
+
+<br style="clear:both;"/>
+
 1. **Le Prologue : Là où tout commence**. Animé par : Olga López. Niveau : basique.
 2. **Introduction à la prière et au culte**. Animé par : Darío Franco Cuartas. Niveau : basique.
 3. **L'Esprit Infini : le grand inconnu**. Animé par : Francisco Gallar Castro. Niveau : intermédiaire.

@@ -129,9 +129,10 @@ This PowerPoint presentation contains the content of the virtual talk the author
 
 You can watch the video of the presentation here.
 
+<br style="clear:both;"/>
+
 https://youtu.be/9zrKdtQwz0o
 
-<br style="clear:both;"/>
 
 ## History and Teachings: Chronicle of the Life of Jesus
 
@@ -201,6 +202,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## Ideas taken from the Circle of Trust group: Beauty
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Belleza.jpg" alt="Circle of Trust: Beauty">
 </figure>
@@ -224,6 +227,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## March Urantian Talk
 
+<br>
+
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Charla-urantiana-de-marzo.jpg" alt="Urantian Talk of March">
 </figure>
@@ -245,7 +250,7 @@ Time: **7:00 PM** (CET, Spanish peninsular time)
 ## UBIS "In Focus" Presentation Series
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.jpg" alt="In focus" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.png" alt="In focus" width="250">
 </figure>
 
 The Urantia Book International School (UBIS) offers a series of "In Focus" webinars related to topics from The Urantia Book or the reading community.
@@ -291,17 +296,17 @@ Link to the video:
 
 https://youtu.be/wU3FkLxMMkA?si=zrxOfTw_ltJbJc5n
 
-New courses from The Urantia Book International School (UBIS)
+## New courses from The Urantia Book International School (UBIS)
 
-<figure id="Figure_15b" class="image urantiapedia image-style-align-center">
+<figure id="Figure_15b" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-septiembre-2021.jpg" alt="UBIS September 2021" width="250">
 </figure>
-
-<br style="clear:both;"/>
 
 A new semester of courses begins in April at The Urantia Book International School (UBIS). Registration begins on Monday, April 21st and ends on Sunday, May 4th. Courses begin on Monday, April 28th with Orientation Week.
 
 These are the courses offered this quarter. All are **6 weeks** long:
+
+<br style="clear:both;"/>
 
 1. **The Prologue: Where It All Begins**. Facilitated by: Olga López. Level: Basic.
 2. **Introduction to Prayer and Worship**. Facilitated by: Darío Franco Cuartas. Level: Basic.

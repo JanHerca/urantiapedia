@@ -50,17 +50,19 @@ Luz y Vida — May 2025
 - UBIS “In Focus” presentations
 - About the Luz y Vida newsletter
 
-Editorial – May 2025 — Mr. José Sánchez Santamaría
+## Editorial – May 2025 — Mr. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Luz_y_Vida/LyV_2025_04/Editorial-May-25-3.jpg" alt="Editorial May 25 3" width="350">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2025_04/Editorial-may-25-3.jpg" alt="Editorial May 25 3" width="350">
 </figure>
 
-### WAKE UP
+**WAKE UP**
 
 Once again, welcome to this “Urantian” space for reflection, learning, sharing, and personal development that the “Luz y Vida” Newsletter aims to be. What's more, in this issue, we encourage you to participate in the 21st National Urantia Book Readers' Meeting, taking place in Zamora this May. And with a very thought-provoking topic of spiritual development... We'll leave it there...
 
 We propose a brief pause in your daily routine, a cordial invitation to stop and calm your mind and body. Are you up for it and continue reading?
+
+<br style="clear:both;"/>
 
 > A beggar stood by the side of a road for over thirty years. One day, a stranger passed by.
 > “A handout?” the beggar murmured, mechanically extending his cap.
@@ -72,8 +74,6 @@ We propose a brief pause in your daily routine, a cordial invitation to stop and
 > The beggar managed to open the lid. With infinite surprise, disbelief, and joy, he saw that the box was full of gold.
 > 
 > _The Power of Now_ (E. Tolle)
-
-<br style="clear:both;"/>
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2025_04)
 
@@ -99,9 +99,9 @@ In this extensive and very interesting work, translated by Jan Herca, the author
 
 As an introduction to this interesting and enjoyable work, what better than to recover here the introductory words of its author:
 
-«The scientist in all of us is inevitably plagued by a question: Will the Sun continue to be this invaluable source of energy in the ages to come? Will it one day run out of fuel and die, becoming a sad white dwarf? What will happen then to the future civilization living in our solar system? Will it have to migrate to other suns? What is the fate of the Sun, and therefore, our fate?»
+“The scientist in all of us is inevitably plagued by a question: Will the Sun continue to be this invaluable source of energy in the ages to come? Will it one day run out of fuel and die, becoming a sad white dwarf? What will happen then to the future civilization living in our solar system? Will it have to migrate to other suns? What is the fate of the Sun, and therefore, our fate?”
 
-»_The Urantia Book_ already provided very elaborate answers to these intriguing questions back in 1935, when it was written. And the wealth of information that fills its pages anticipated in many ways what science at that time was capable of theorizing, and even predated today's knowledge. In this report, we'll review some of the most surprising information the book offers about the Sun, to contrast it with what current science has been able to determine.»
+“_The Urantia Book_ already provided very elaborate answers to these intriguing questions back in 1935, when it was written. And the wealth of information that fills its pages anticipated in many ways what science at that time was capable of theorizing, and even predated today's knowledge. In this report, we'll review some of the most surprising information the book offers about the Sun, to contrast it with what current science has been able to determine.”
 <br style="clear:both;"/>
 
 ---
@@ -133,7 +133,7 @@ In this work, the author addresses the interesting exercise of locating the plac
 ## History and Teachings: Chronicle of the Life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_04/Document-166.jpg" alt="Document 166" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_04/Documento-166.jpg" alt="Document 166" width="250">
 </figure>
 
 **JOURNALISTIC ACCOUNT OF THE LIFE AND TEACHINGS OF JESUS ​​ACCORDING TO _THE URANTIA BOOK_**
@@ -147,7 +147,7 @@ We present the next installment of the chronicles of Jesus' life, which this tim
 ## The Urantia Book for Children Guide: Jesus Talks with James
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_04/Jesus-speaks-with-James.jpg" alt="Jesus speaks with James" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_04/Jesus-habla-con-Santiago.jpg" alt="Jesus speaks with James" width="250">
 </figure>
 
 We continue reviewing the secondary work _A Child's Guide to The Urantia Book_ by Mary Livingston. This is the next chapter, which deals with the moment when Jesus delegated to James the responsibility of caring for his mother and siblings, and which begins like this:
@@ -161,7 +161,7 @@ We continue reviewing the secondary work _A Child's Guide to The Urantia Book_ b
 ## Other books on spiritual growth
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_04/Josue-el-boy-de-Nazaret.jpg" alt="Josue the boy from Nazareth" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_04/Josue-el-muchacho-de-Nazaret.jpg" alt="Josue the boy from Nazareth" width="250">
 </figure>
 
 **Joshua, the boy from Nazareth (Geri Johnson)**
@@ -188,6 +188,8 @@ In the author's words: “[Prayer and worship] are both vital, but while prayer 
 <br style="clear:both;"/>
 
 ## Sailing Through Life: The Peace of Wild Things
+
+<br>
 
 <figure id="Figure_10b" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-paz-de-las-cosas-salvajes.jpg" alt="The Peace of Wild Things">
@@ -219,6 +221,8 @@ Link to the episode: [https://www.ivoox.com/siete-cielos-audios-mp3\_rf\_1111114
 
 ## Ideas taken from the Circle of Trust group: kindness (II)
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-bondad-II.jpg" alt="Circle of Trust: Kindness II">
 </figure>
@@ -245,6 +249,8 @@ Participants shared personal experiences and reflections on ethics, morality, an
 8. Another member asserts that goodness comes with the gift of personality from the Father. We are spontaneously good, although some people don't activate this gift. Bad thoughts are connected to one another and to the unconscious, and produce a disharmonious charge. He says that what must be done is to transmute bad thoughts, and that there are several ways. His particular one is a prayer: “Father, help me change this thought that is not mine.” He asserts, like almost all the members of the group, that there are degrees of goodness, intrinsically connected to morality.
 
 ## Urantian Talks
+
+<br>
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">

@@ -287,7 +287,7 @@ We look forward to seeing you!
 ## New courses at the Urantia Book International School (UBIS)
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Light_and_Life/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="UBIS Courses September" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="UBIS Courses September" width="350">
 </figure>
 
 A new term of courses at the Urantia Book International School (UBIS) begins in January. The registration period begins on **Monday, January 6** and ends on **Sunday, January 19**. Courses begin on **Monday, January 20** with orientation week.

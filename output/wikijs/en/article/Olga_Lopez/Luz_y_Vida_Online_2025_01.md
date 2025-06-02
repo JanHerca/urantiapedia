@@ -52,7 +52,7 @@ Luz y Vida — February 2025
 ## Editorial – February 2025 — Mr. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_01/Editorial-Feb25-3.jpg" alt="Editorial Feb 2025-3" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2025_01/Editorial-feb25-3.jpg" alt="Editorial Feb 2025-3" width="350">
 </figure>
 
 At this point, it seems pointless to deny that we are possibly experiencing one of the greatest changes ever seen in human history. The transformation is taking place at all levels: social, labor, economic, financial, environmental, cultural, consciousness, etc., and it affects us all, regardless of the country or continent we live in, race, creed, or socioeconomic level.
@@ -63,18 +63,19 @@ Beyond our everyday, personal experience, the data suggests that all this we see
 
 His research points out aspects such as these:
 
+<br style="clear:both;"/>
+
 - In the next eight seconds, for every baby born in the U.S., four will be born in China and five in India.
 - The 25% of Chinese population with the highest IQ exceeds the entire population of the United States.
 - Nintendo's research and innovation budget exceeds the US government's education budget.
 - This year alone, more information will be generated than in the previous five thousand years!
-<br style="clear:both;"/>
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2025_01)
 
 ## Works – Our Recommendations of the Month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_01/ce19e39a-9543-449a-a706-f61aaf120ce6o.jpg" alt="Prologue Simplification" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_01/ce19e39a-9543-449a-a706-f61aaf120ce6.jpg" alt="Prologue Simplification" width="250">
 </figure>
 
 [**Simplification of the Foreword (Bill Sadler)**](/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book) (also on the [association website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
@@ -147,7 +148,7 @@ We continue reviewing the secondary work _A Child's Guide to The Urantia Book_ b
 ## Other books on spiritual growth
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_01/El-arte-de-la-felicidad.jpg" alt="The art of happiness" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_01/El-arte-de-la-felicidad.png" alt="The art of happiness" width="250">
 </figure>
 
 **The Art of Happiness (Dalai Lama and Howard C. Cutler)**

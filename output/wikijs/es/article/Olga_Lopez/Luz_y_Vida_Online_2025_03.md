@@ -282,7 +282,9 @@ Cuando tu conciencia se identifica con esta mente o construcción del ego, te at
 
 ¡¡DESPIERTA!!
 
-## Charla urantiana de abril
+## Charla urantiana de abril7
+
+<br>
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">
@@ -307,7 +309,7 @@ Si os perdisteis la primera parte, [aquí tenéis el enlace](https://youtu.be/G_
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.jpg" alt="En el foco" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.png" alt="En el foco" width="250">
 </figure>
 
 La Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El libro de Urantia_ o de la comunidad de lectores.
@@ -335,15 +337,16 @@ https://youtu.be/FxXaVMNAxvM?si=_HdVtbyEaiIGY8rT
 
 ## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
 
-<figure id="Figure_15b" class="image urantiapedia image-style-align-center">
+<figure id="Figure_15b" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-septiembre-2021.jpg" alt="UBIS septiembre 2021" width="250">
 </figure>
-
-<br style="clear:both;"/>
 
 ¡El trimestre de abril de la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) está a punto de comenzar! El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
 
 Estos son los cursos que se ofrecerán este trimestre. Todos son de **6 semanas** de duración:
+
+<br style="clear:both;"/>
+
 1. **El Prólogo: donde todo comienza**. Facilita: Olga López. Nivel: básico.
 2. **Introducción a la oración y la adoración**. Facilita: Darío Franco Cuartas. Nivel: básico.
 3. **El Espíritu Infinito: el gran desconocido**. Facilita: Francisco Gallar Castro. Nivel: intermedio.

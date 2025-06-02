@@ -129,9 +129,10 @@ En esta presentación en PowerPoint está el contenido de la charla virtual que 
 
 Podéis ver el vídeo de la presentación aquí
 
+<br style="clear:both;"/>
+
 https://youtu.be/9zrKdtQwz0o
 
-<br style="clear:both;"/>
 
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
@@ -201,6 +202,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## Ideas extraídas del grupo Círculo de Confianza: la Belleza
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Belleza.jpg" alt="Círculo de Confianza: Belleza">
 </figure>
@@ -224,6 +227,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## Charla urantiana de marzo
 
+<br>
+
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Charla-urantiana-de-marzo.jpg" alt="Charla urantiana de marzo">
 </figure>
@@ -245,7 +250,7 @@ Hora: **19:00 horas** (CET, hora peninsular española)
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.jpg" alt="En el foco" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.png" alt="En el foco" width="250">
 </figure>
 
 La Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El libro de Urantia_ o de la comunidad de lectores.
@@ -293,15 +298,15 @@ https://youtu.be/wU3FkLxMMkA?si=zrxOfTw_ltJbJc5n
 
 ## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
 
-<figure id="Figure_15b" class="image urantiapedia image-style-align-center">
+<figure id="Figure_15b" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-septiembre-2021.jpg" alt="UBIS septiembre 2021" width="250">
 </figure>
-
-<br style="clear:both;"/>
 
 En abril comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
 
 Estos son los cursos que se ofrecerán este trimestre. Todos son de **6 semanas** de duración:
+
+<br style="clear:both;"/>
 
 1. **El Prólogo: donde todo comienza**. Facilita: Olga López. Nivel: básico.
 2. **Introducción a la oración y la adoración**. Facilita: Darío Franco Cuartas. Nivel: básico.

@@ -52,15 +52,17 @@ Luz y Vida — Mai 2025
 
 Éditorial – mai 2025 — M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Editorial-may-25-3.jpg" alt="Éditorial 25 mai 3" width="350">
 </figure>
 
-### RÉVEILLEZ-VOUS
+**RÉVEILLEZ-VOUS**
 
 Encore une fois, bienvenue dans cet espace « urantien » de réflexion, d’apprentissage, de partage et de développement personnel que se veut être la Newsletter « Luz y Vida ». De plus, dans ce numéro, nous vous encourageons à participer à la 21e réunion nationale des lecteurs du Livre d'Urantia, qui aura lieu à Zamora en mai prochain. Et avec un thème très suggestif et spirituellement évolutif… Nous en resterons là…
 
 Nous vous proposons une brève pause dans votre routine quotidienne, une invitation cordiale à vous arrêter et à calmer votre esprit et votre corps. Oserez-vous le faire et continuer à lire ?
+
+<br style="clear:both;"/>
 
 > Un mendiant est resté au bord d’une route pendant plus de trente ans. Un jour, un étranger est passé par là.
 > —Une aumône ? — murmura le mendiant en tendant machinalement sa casquette.
@@ -73,14 +75,12 @@ Nous vous proposons une brève pause dans votre routine quotidienne, une invitat
 >
 > _Le pouvoir du moment présent_ (E. Tolle)
 
-<br style="clear:both;"/>
-
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2025_04)
 
 ## Travails – Nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_04/Lettre-aux-astronomes-et-astrophysiciens.jpg" alt="Lettre aux astronomes et astrophysiciens" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_04/Carta-para-astronomos-y-astrofisicos.jpg" alt="Lettre aux astronomes et astrophysiciens" width="250">
 </figure>
 
 [**Lettre aux astronomes et astrophysiciens (auteur inconnu)**](/fr/article/A_Letter_to_Astronomers_and_Astrophysicists) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf))
@@ -99,9 +99,9 @@ Dans cet ouvrage vaste et très intéressant, traduit par Jan Herca, l'auteur ab
 
 En guise d'introduction à cet ouvrage intéressant et agréable, quoi de mieux que de reprendre ici les mots introductifs de son auteur :
 
-« Le scientifique en chacun de nous est inévitablement confronté à une question : le Soleil continuera-t-il à être cette source d’énergie inestimable dans les siècles à venir ? Est-ce qu'un jour, il tombera en panne de carburant et mourra, devenant une triste naine blanche ? Qu’adviendra-t-il alors de la future civilisation vivant dans notre système solaire ? Devrez-vous émigrer vers d’autres pays ? Quel est le destin du Soleil, et donc notre destin ?
+« Le scientifique en chacun de nous est inévitablement confronté à une question : le Soleil continuera-t-il à être cette source d’énergie inestimable dans les siècles à venir ? Est-ce qu'un jour, il tombera en panne de carburant et mourra, devenant une triste naine blanche ? Qu’adviendra-t-il alors de la future civilisation vivant dans notre système solaire ? Devrez-vous émigrer vers d’autres pays ? Quel est le destin du Soleil, et donc notre destin ? »
 
-»_Le Livre d’Urantia_ a déjà donné des réponses très élaborées à ces questions intrigantes en 1935, lorsqu’il a été écrit. Et la richesse d’informations qui remplit ses pages anticipait à bien des égards ce que la science de l’époque était capable de théoriser, et anticipait même les connaissances d’aujourd’hui. Dans ce rapport, nous passerons en revue certaines des informations les plus surprenantes que le livre offre sur le Soleil, afin de les comparer avec ce que la science actuelle a pu déterminer.
+« _Le Livre d’Urantia_ a déjà donné des réponses très élaborées à ces questions intrigantes en 1935, lorsqu’il a été écrit. Et la richesse d’informations qui remplit ses pages anticipait à bien des égards ce que la science de l’époque était capable de théoriser, et anticipait même les connaissances d’aujourd’hui. Dans ce rapport, nous passerons en revue certaines des informations les plus surprenantes que le livre offre sur le Soleil, afin de les comparer avec ce que la science actuelle a pu déterminer. »
 <br style="clear:both;"/>
 
 ---
@@ -189,6 +189,8 @@ Selon l'auteur : « [La prière et l'adoration] sont essentielles, mais si la pr
 
 ## Naviguer à travers la vie : La paix des créatures sauvages
 
+<br>
+
 <figure id="Figure_10b" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-paz-de-las-cosas-salvajes.jpg" alt="La paix des choses sauvages">
 </figure>
@@ -219,6 +221,8 @@ Lien vers l'épisode : [https://www.ivoox.com/siete-cielos-audios-mp3\_rf\_11111
 
 ## Idées tirées du groupe Cercle de confiance : la gentillesse (II)
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-bondad-II.jpg" alt="Cercle de confiance : Gentillesse II">
 </figure>
@@ -245,6 +249,8 @@ Les participants ont partagé leurs expériences personnelles et leurs réflexio
 8. Un autre membre affirme que la bonté vient avec le don de la personnalité du Père. Nous sommes spontanément bons, même si certaines personnes n’activent pas ce don. Les mauvaises pensées sont connectées entre elles et à l’inconscient et produisent une charge disharmonieuse. Il dit que ce que vous devez faire est de transmuter les mauvaises pensées et qu'il existe plusieurs manières. Sa prière est particulière : « Père, aide-moi à changer cette pensée qui n’est pas la mienne. » Il affirme, comme presque tous les membres du groupe, qu’il existe des degrés de bonté, intrinsèquement liés à la moralité.
 
 ## Entretiens d'Urantia
+
+<br>
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">

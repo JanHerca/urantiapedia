@@ -52,15 +52,17 @@ Luz y Vida — Mayo 2025
 
 ## Editorial – Mayo 2025 — M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Editorial-may-25-3.jpg" alt="Editorial may 25 3" width="350">
 </figure>
 
-### DESPIERTA
+**DESPIERTA**
 
 Un mes más, bienvenidos, bienvenidas, a este espacio «urantiano» de reflexión, aprendizaje, intercambio y desarrollo personal que pretende ser el Boletín «Luz y Vida». Es más, en este número os animamos a participar en el XXI encuentro nacional de lectores de El libro de Urantia que tendrá lugar en Zamora en este mismo mes de mayo. Y con tema muy sugerente y de desarrollo espiritual… Ahí lo dejamos caer…
 
 Te proponemos una pequeña pausa en tu rutina diaria, una invitación cordial a parar y sosegar la mente y cuerpo. ¿Te animas a hacerlo y seguir leyendo?
+
+<br style="clear:both;"/>
 
 > Un mendigo estuvo junto a una carretera durante más de treinta años. Un día, un desconocido pasó por allí.
 > —¿Una limosna? —murmuró el mendigo, alargando mecánicamente su gorra.
@@ -72,8 +74,6 @@ Te proponemos una pequeña pausa en tu rutina diaria, una invitación cordial a 
 > El mendigo consiguió abrir la tapa. Con infinita sorpresa, incredulidad y dicha vio que la caja estaba llena de oro.
 > 
 > _El poder del ahora_ (E. Tolle)
-
-<br style="clear:both;"/>
 
 [Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2025_04)
 
@@ -99,9 +99,9 @@ En este extenso e interesantísimo trabajo, traducido por Jan Herca, el autor ab
 
 A título de introducción de este interesante y ameno trabajo, qué mejor que recuperar aquí las palabras introductorias de su autor:
 
-«Al científico que todos llevamos dentro le asalta irremediablemente una pregunta: ¿Seguirá el Sol siendo esa invaluable fuente de energía en las eras por venir? ¿Se agotará un buen día su combustible y morirá, convirtiéndose en una triste enana blanca? ¿Qué le pasará entonces a la civilización futura que viva en nuestro sistema solar? ¿Tendrá que emigrar a otros soles? ¿Cuál es el destino del Sol, y por tanto, nuestro destino?
+«Al científico que todos llevamos dentro le asalta irremediablemente una pregunta: ¿Seguirá el Sol siendo esa invaluable fuente de energía en las eras por venir? ¿Se agotará un buen día su combustible y morirá, convirtiéndose en una triste enana blanca? ¿Qué le pasará entonces a la civilización futura que viva en nuestro sistema solar? ¿Tendrá que emigrar a otros soles? ¿Cuál es el destino del Sol, y por tanto, nuestro destino?»
 
-»_El libro de Urantia_ ya daba respuestas muy elaboradas a estas intrigantes cuestiones en 1935, cuando fue escrito. Y el raudal de información que puebla sus páginas se anticipaba en muchos aspectos a lo que la ciencia de ese momento era capaz de teorizar, e incluso se adelantaba a conocimientos de hoy en día. En este informe vamos a repasar algunas de las informaciones más sorprendentes que el libro ofrece sobre el Sol, para contrastarlas con lo que la ciencia actual ha sido capaz de determinar.»
+«_El libro de Urantia_ ya daba respuestas muy elaboradas a estas intrigantes cuestiones en 1935, cuando fue escrito. Y el raudal de información que puebla sus páginas se anticipaba en muchos aspectos a lo que la ciencia de ese momento era capaz de teorizar, e incluso se adelantaba a conocimientos de hoy en día. En este informe vamos a repasar algunas de las informaciones más sorprendentes que el libro ofrece sobre el Sol, para contrastarlas con lo que la ciencia actual ha sido capaz de determinar.»
 <br style="clear:both;"/>
 
 ---
@@ -189,6 +189,8 @@ En palabras de la autora: «\[La oración y la adoración\] son vitales, pero mi
 
 ## Navegando por la vida: La paz de las cosas salvajes
 
+<br>
+
 <figure id="Figure_10b" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-paz-de-las-cosas-salvajes.jpg" alt="La paz de las cosas salvajes">
 </figure>
@@ -219,6 +221,8 @@ Enlace al episodio: [https://www.ivoox.com/siete-cielos-audios-mp3\_rf\_11111142
 
 ## Ideas extraídas del grupo Círculo de Confianza: la bondad (II)
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/La-bondad-II.jpg" alt="Círculo de Confianza: La bondad II">
 </figure>
@@ -245,6 +249,8 @@ Los participantes compartieron experiencias personales y reflexiones sobre la é
 8. Otro miembro asegura que la bondad viene con el don de la personalidad procedente del Padre. Espontáneamente somos buenos, aunque algunas personas no activan este don. Los malos pensamientos están conectados unos con otros y al inconsciente y producen una carga desarmónica. Dice que lo que hay que hacer es trasmutar los malos pensamientos y que hay varias maneras. La suya es particular es una oración: «Padre, ayúdame a cambiar este pensamiento que no es mío». Asegura, como casi todos los miembros del grupo, que sí hay grados de bondad, conectada intrínsecamente con la moral.
 
 ## Charlas urantianas
+
+<br>
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">

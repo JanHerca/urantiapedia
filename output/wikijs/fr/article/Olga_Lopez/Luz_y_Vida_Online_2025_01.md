@@ -63,18 +63,19 @@ Au-delà de notre expérience quotidienne et personnelle, les données suggèren
 
 Ses recherches mettent en évidence des aspects tels que :
 
+<br style="clear:both;"/>
+
 - Dans les huit prochaines secondes, pour chaque bébé né aux États-Unis, quatre naîtront en Chine et cinq en Inde.
 - Les 25 % de la population chinoise ayant le QI le plus élevé dépassent la population totale des États-Unis.
 - Le budget de recherche et d'innovation de Nintendo dépasse le budget de l'éducation du gouvernement américain.
 - Rien que cette année, plus d’informations seront générées que durant les cinq mille années précédentes !
-<br style="clear:both;"/>
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2025_01)
 
 ## Travails – Nos recommandations du mois
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_01/ce19e39a-9543-449a-a706-f61aaf120ce6o.jpg" alt="Simplification du Prologue" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_01/ce19e39a-9543-449a-a706-f61aaf120ce6.jpg" alt="Simplification du Prologue" width="250">
 </figure>
 
 [**Simplification de l'avant-propos (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book) (également sur le [site web de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
@@ -147,7 +148,7 @@ Nous continuons à examiner l'ouvrage secondaire _A Child's Guide to The Urantia
 ## Autres livres sur la croissance spirituelle
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_01/El-arte-de-la-felicidad.jpg" alt="L'art du bonheur" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_01/El-arte-de-la-felicidad.png" alt="L'art du bonheur" width="250">
 </figure>
 
 **L'art du bonheur (Dalaï Lama et Howard C. Cutler)**

@@ -129,9 +129,9 @@ Cette présentation PowerPoint contient le contenu de la conférence virtuelle q
 
 Vous pouvez regarder la vidéo de la présentation ici.
 
-https://youtu.be/9zrKdtQwz0o
-
 <br style="clear:both;"/>
+
+https://youtu.be/9zrKdtQwz0o
 
 ## Histoire et enseignements : Chronique de la vie de Jésus
 
@@ -150,7 +150,7 @@ Nous présentons le prochain volet des chroniques de la vie de Jésus, qui conti
 ## Le Livre d'Urantia pour les enfants : Guide : Difficultés avec Juda
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_02/Difficulties-with-Juda.jpg" alt="Difficulties with Juda" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_02/Dificultades-con-Juda.jpg" alt="Difficulties with Juda" width="250">
 </figure>
 
 Nous continuons à examiner l'ouvrage secondaire _A Child's Guide to The Urantia Book_, de Mary Livingston. C'est le chapitre suivant, qui traite des problèmes que Jésus a eu avec son frère Juda, et qui commence ainsi :
@@ -201,6 +201,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## Idées tirées du groupe Cercle de confiance : Beauté
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Belleza.jpg" alt="Cercle de confiance : la beauté">
 </figure>
@@ -224,6 +226,8 @@ https://www.youtube.com/watch?v=5_tKZFrMbiI
 
 ## Conférence urantienne de mars
 
+<br>
+
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Charla-urantiana-de-marzo.jpg" alt="Discussion urantienne de mars">
 </figure>
@@ -245,7 +249,7 @@ Heure : **19h00** (CET, heure de la péninsule espagnole)
 ## Série de présentations UBIS « In Focus »
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.jpg" alt="Au point" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-En-el-foco.png" alt="Au point" width="250">
 </figure>
 
 L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires « In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
@@ -297,11 +301,11 @@ https://youtu.be/wU3FkLxMMkA?si=zrxOfTw_ltJbJc5n
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-septiembre-2021.jpg" alt="UBIS septembre 2021" width="250">
 </figure>
 
-<br style="clear:both;"/>
-
 Un nouveau semestre de cours commence en avril à l'École Internationale du Livre d'Urantia (UBIS). Les inscriptions débutent le **lundi 21 avril** et se terminent le **dimanche 4 mai**. Les cours commencent le **lundi 28 avril** avec la semaine d'orientation.
 
 Voici les cours qui seront offerts ce trimestre. Elles durent toutes **6 semaines** :
+
+<br style="clear:both;"/>
 
 1. **Le Prologue : Là où tout commence**. Animé par : Olga López. Niveau : basique.
 2. **Introduction à la prière et au culte**. Animé par : Darío Franco Cuartas. Niveau : basique.

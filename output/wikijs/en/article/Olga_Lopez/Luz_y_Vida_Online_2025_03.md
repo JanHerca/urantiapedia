@@ -85,7 +85,7 @@ In this extensive work, Carmelo Martínez (a graduate of this world since 2020) 
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemonstrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemonstrability of the existence of God" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/Indemostrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemonstrability of the existence of God" width="250">
 </figure>
 
 [**Unprovability of the existence of God (Santiago Rodríguez)**](/en/article/Santiago_Rodriguez/Indemostrabilidad_de_la_existencia_de_Dios) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf))
@@ -284,6 +284,8 @@ WAKE UP!!
 
 ## April Urantian Talk
 
+<br>
+
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/Charlas-urantianas-v2.jpg" alt="Charlas urantianas v2">
 </figure>
@@ -307,7 +309,7 @@ If you missed the first part, [here is the link](https://youtu.be/G_mHHbMXcj8?si
 ## UBIS “In Focus” Presentation Series
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.jpg" alt="In focus" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-En-el-foco.png" alt="In focus" width="250">
 </figure>
 
 _The Urantia Book_ International School (UBIS) offers a series of “In Focus” webinars related to topics from _The Urantia Book_ or the reading community.
@@ -335,15 +337,16 @@ https://youtu.be/FxXaVMNAxvM?si=_HdVtbyEaiIGY8rT
 
 ## New courses from The Urantia Book International School (UBIS)
 
-<figure id="Figure_15b" class="image urantiapedia image-style-align-center">
+<figure id="Figure_15b" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-septiembre-2021.jpg" alt="UBIS September 2021" width="250">
 </figure>
-
-<br style="clear:both;"/>
 
 _The Urantia Book_ International School (UBIS) April term is about to begin! Registration begins on **Monday, April 21st** and ends on **Sunday, May 4th**. Courses begin on **Monday, April 28th** with Orientation Week.
 
 These are the courses offered this quarter. All are **6 weeks** long:
+
+<br style="clear:both;"/>
+
 1. **The Prologue: Where It All Begins**. Facilitated by: Olga López. Level: Basic.
 2. **Introduction to Prayer and Worship**. Facilitated by: Darío Franco Cuartas. Level: Basic.
 3. **The Infinite Spirit: The Great Unknown**. Facilitated by: Francisco Gallar Castro. Level: Intermediate.
