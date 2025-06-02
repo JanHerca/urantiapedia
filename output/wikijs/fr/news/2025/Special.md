@@ -402,3 +402,4 @@ L’objectif ultime le plus important de ce projet est de le maintenir en vie et
 
 - [Index de toutes les actualités](/fr/news)
 - [Mois précédent](/fr/news/2025/03)
+- [Mois prochain](/fr/news/2025/05)

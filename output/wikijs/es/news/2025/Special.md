@@ -401,3 +401,4 @@ El objetivo final más importante de este proyecto es que continúe vivo y en co
 
 - [Índice de todas las Noticias](/es/news)
 - [Mes anterior](/es/news/2025/03)
+- [Mes siguiente](/es/news/2025/05)

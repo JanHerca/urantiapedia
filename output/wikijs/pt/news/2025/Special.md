@@ -399,3 +399,4 @@ O objetivo final mais importante deste projeto é mantê-lo vivo e crescendo, me
 
 - [Índice de todas as notícias](/pt/news)
 - [Mês anterior](/pt/news/2025/03)
+- [Próximo mês](/pt/news/2025/05)

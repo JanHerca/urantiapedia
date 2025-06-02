@@ -402,3 +402,4 @@ The most important ultimate goal of this project is allowing it to continue aliv
 
 - [Index of all news](/en/news)
 - [Previous month](/en/news/2025/03)
+- [Next month](/en/news/2025/05)
