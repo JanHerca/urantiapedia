@@ -373,6 +373,27 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 			</div>
 		</div>
 	</div>
+	<!-- Association Website -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Spain.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Site de l'association</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Le site web de l'Association Urantia d'Espagne</em> propose de nombreux articles et articles, classés selon la partie du <em>Livre d'Urantia</em> à laquelle ils se rapportent. Ces articles couvrent un large éventail de sujets intéressants et approfondissent les révélations. Il propose également des traductions en espagnol d'ouvrages dans d'autres langues.</div>
+				<div><small>Sources: <a href="https://aue.urantia-association.org/study/"><em>Travails sur le Web espagnol</em></a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
 </div>
 
 ## ANZURA — Association Urantia d’Australie et de Nouvelle-Zélande
