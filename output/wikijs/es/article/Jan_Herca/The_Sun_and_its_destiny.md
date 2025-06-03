@@ -27,6 +27,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Sun_and_its_destiny/Sol.jpg">
 <figcaption>Fig. 1. — El Sol en todo su esplendor visto por el observatorio SOHO de la NASA.</figcaption>
@@ -40,7 +42,7 @@ _El Libro de Urantia_ ya daba respuestas muy elaboradas a estas intrigantes cues
 
 ## Energía a raudales
 
-Un sol promedio como nuestro Sol libera a cada segundo una cantidad desorbitada de energía. Apenas somos conscientes del ingente derroche de energía que el Sol vierte al espacio. Se estima que el Sol tiene una potencia de 380 billones de teravatios (TW)[^1], o lo que es lo mismo, cada segundo el Sol produce 105,55 10\textsuperscript{9} TWh (teravatios-hora). Esta inconcebible cifra se puede poner en perspectiva si consideramos que la producción energética mundial[^2] fue en 2010 de 147.899 TWh y en 2017 subió hasta 162.494 TWh. Por tanto, el Sol es capaz en un segundo de producir casi 650.000 veces toda la energía producida por el ser humano a lo largo de todo el año 2017.
+Un sol promedio como nuestro Sol libera a cada segundo una cantidad desorbitada de energía. Apenas somos conscientes del ingente derroche de energía que el Sol vierte al espacio. Se estima que el Sol tiene una potencia de 380 billones de teravatios (TW)[^1], o lo que es lo mismo, cada segundo el Sol produce 105,55 10^9^ TWh (teravatios-hora). Esta inconcebible cifra se puede poner en perspectiva si consideramos que la producción energética mundial[^2] fue en 2010 de 147.899 TWh y en 2017 subió hasta 162.494 TWh. Por tanto, el Sol es capaz en un segundo de producir casi 650.000 veces toda la energía producida por el ser humano a lo largo de todo el año 2017.
 
 Viendo estos datos se comprende que muchos, en la época en que vivimos, se planteen cómo es posible que nuestra civilización tenga problemas energéticos y cómo es que seguimos atados a los combustibles fósiles para obtener nuestras fuentes primarias de energía. El Sol en sólo un segundo es capaz de producir toda la energía que necesitaría la raza humana en más de 600.000 años. Es absurdamente increíble.
 
@@ -106,6 +108,8 @@ Otra posible explicación es un error en la consideración de qué es exactament
 
 Conviene detenerse a explicar cómo está constituido el Sol según los modelos científicos actuales. La estructura del Sol se considera que tiene seis capas: el núcleo, la zona radiante, la tacoclina, la zona convectiva, la fotosfera y la atmósfera. En estas capas la temperatura no deja de decrecer desde el núcleo más caliente a la atmósfera menos caliente (si exceptuamos ciertas zonas exteriores de la atmósfera solar donde la temperatura vuelve a subir de forma impresionante).
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Sun_and_its_destiny/El_interior_solar.jpg">
 <figcaption>Fig. 2. — Estructura del Sol.</figcaption>
@@ -133,21 +137,17 @@ En su libro sobre astronomía, sir James Jeans no menciona nada sobre el viento 
 
 _El Libro de Urantia_ ofrece más datos interesantes sobre el Sol:
 
-> La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10\textsuperscript{27}) de toneladas [= 1.800 Yt ó _yottatoneladas_]. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores. [LU 41:1.4](/es/The_Urantia_Book/41#p1_4)
+> La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10^27^) de toneladas [= 1.800 Yt ó _yottatoneladas_]. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores. [LU 41:1.4](/es/The_Urantia_Book/41#p1_4)
 
 La masa del Sol siempre ha sido un valor muy difícil de determinar a pesar del descubrimiento de Newton de su ley de gravitación. El propio Newton determinó el ratio entre la masa del Sol y la de la Tierra, pero no el valor en sí. El cálculo exige conocer otras variables complicadas de obtener, como la unidad astronómica (UA) o distancia entre la Tierra y el Sol, y la constante de gravitación universal (G). Como la Tierra sigue una órbita elíptica alrededor del Sol, la masa solar puede calcularse de la ecuación del período orbital (un año = 1 yr) para un cuerpo pequeño orbitando una masa central. Para el caso del Sol esta sería:
 
-{
-	\setlength{\belowdisplayskip}{0pt} \setlength{\belowdisplayshortskip}{0pt}
-	\setlength{\abovedisplayskip}{0pt} \setlength{\abovedisplayshortskip}{0pt}
-	\begin{align*}
+$$
 	M_{\odot} = \frac{4 \pi^2 (1 AU)^3}{G (1 yr)^2}
-	\end{align*}
-}
+$$
 
-En su libro de astronomía de 1930, sir James Jeans comenta que «la masa del Sol es 2 10\textsuperscript{33} gramos», es decir 2 10\textsuperscript{27} toneladas (2.000 Yt _yottatoneladas_)[^15]. En la Wikipedia inglesa se da también el valor de 2 10\textsuperscript{27} toneladas[^16], que se usa incluso hoy día en cosmología como unidad de medida, la masa solar (M\textsubscript{\(\odot\)}). Más específicamente dice que M\textsubscript{\(\odot\)} = (1,98847 ± 0,00007) 10\textsuperscript{27} toneladas. Los datos actuales que ofrece el observatorio SOHO para la masa del Sol es de 2,2 10\textsuperscript{27} toneladas.
+En su libro de astronomía de 1930, sir James Jeans comenta que «la masa del Sol es 2 10^33^ gramos», es decir 2 10^27^ toneladas (2.000 Yt _yottatoneladas_)[^15]. En la Wikipedia inglesa se da también el valor de 2 10^27^ toneladas[^16], que se usa incluso hoy día en cosmología como unidad de medida, la masa solar ($M_{\odot}$). Más específicamente dice que $M_{\odot} = (1,98847 ± 0,00007) 10^{27}$  toneladas. Los datos actuales que ofrece el observatorio SOHO para la masa del Sol es de 2,2 10^27^ toneladas.
 
-Es extraño que el autor del documento 41 de _El Libro de Urantia_ diga que la estimación de la masa del Sol de los científicos sea 1,8 10\textsuperscript{27} toneladas cuando el valor que ofrece sir James Jeans allá por 1930 es de 2 10\textsuperscript{27} toneladas, muy similar a la estimada actualmente, y por tanto conforme con lo que expresa el libro de que el valor correcto es ligeramente superior. Resulta claro de los autores del libro no utilizaron a sir James Jeans como su fuente de información.
+Es extraño que el autor del documento 41 de _El Libro de Urantia_ diga que la estimación de la masa del Sol de los científicos sea 1,8 10^27^ toneladas cuando el valor que ofrece sir James Jeans allá por 1930 es de 2 10^27^ toneladas, muy similar a la estimada actualmente, y por tanto conforme con lo que expresa el libro de que el valor correcto es ligeramente superior. Resulta claro de los autores del libro no utilizaron a sir James Jeans como su fuente de información.
 
 Sir James Jeans ofrece el dato de que «la densidad media del Sol es 1,4, lo que significa que el metro cúbico medio en el Sol contiene 1,4 toneladas de materia»[^17]. Las densidades en este libro están dadas respecto a la densidad del agua, por lo que la declaración de _El Libro de Urantia_ es conforme con la ciencia de 1935. En la Wikipedia inglesa se nos da para la densidad media del Sol el dato de 1,408 veces la densidad del agua, por lo que el dato de las revelaciones parece un correcto redondeo al decir «alrededor de una vez y media la densidad del agua».
 
@@ -155,6 +155,8 @@ Sir James Jeans ofrece el dato de que «la densidad media del Sol es 1,4, lo que
 ## ¿Se morirá nuestro Sol?
 
 Si hay algo en lo que _El Libro de Urantia_ y la ciencia actual difieren es en su manera de predecir el futuro y destino de los soles. Para la ciencia rige la _Ley de conservación de la materia_, ley que extendida a la teoría de la relatividad implica que si no hay conservación de la masa es porque la masa faltante se ha convertido en energía, siguiendo la famosa ecuación de Einstein. Esto significa que nuestro Sol irá perdiendo masa con el paso del tiempo y que esas pérdidas le llevarán irremediablemente a un agotamiento completo del combustible necesario para mantener la presión de los gases exteriores. Es decir, que nuestro Sol seguirá el camino denominado «secuencia principal», según la cual el Sol, a medida que pierda masa, se irá volviendo cada vez más caliente a causa de que el helio resultante de la fusión nuclear es más pesado y se compacta más que el hidrógeno. El menor tamaño encojerá al Sol y las capas externas ejercerán más presión gravitatoria, que como se sabe es función del inverso del cuadrado de la distancia. Para soportar esta nueva presión el Sol deberá quemar combustible a un ratio cada vez mayor, acelerando la pérdida de masa y acelerando la subida de temperatura en el interior. Cuando finalmente el Sol alcance cierta temperatura crítica, las grandes cantidades de helio centrales empezarán a arder y el Sol empezará a hincharse. Es lo que se conoce como _gigante roja_[^18]. Se estima que el Sol alcanzará este estado dentro de 5.000 a 6.000 millones de años, y será un proceso gradual y lento de unos 600 millones de años en los cuales el Sol se agrandará tanto que se tragará a Mercurio, Venus, y probablemente la Tierra. Cuando alcance su tamaño y luminosidad máximas tendrá 260 veces más tamaño que el de hoy y será 2.700 veces más luminoso.
+
+<br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Sun_and_its_destiny/Solar_Life.jpg">
@@ -224,6 +226,8 @@ _El Libro de Urantia_ da una pista de qué proporción de soles son «permanente
 ¿Hay algún modo de verificar las predicciones de _El Libro de Urantia_ acerca de la continuidad del Sol?
 
 Si el Sol está recibiendo aportes de materia provenientes del espacio exterior por medio de circuitos energéticos, debería poder detectarse. A medida que el Sol quema su combustible, una parte de su masa se pierde en forma de energía. Ya dijimos anteriormente que la ciencia actual estima esas pérdidas en 5,5 millones de toneladas por segundo, es decir, 173,45 billones de toneladas al año. Esa diferencia de masa según van pasando los años debería producir que los planetas orbitasen ligeramente más lejos del Sol conforme pasa el tiempo. ¿Es posible medir ese alejamiento en la Tierra o en el resto de planetas? La respuesta es que es prácticamente imposible.
+
+<br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Sun_and_its_destiny/Muerte_Sol.jpg">

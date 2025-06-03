@@ -12,7 +12,7 @@ dateCreated: 2022-11-28T11:12:37.284Z
 
 By William Sadler Jr. on June 30, 1960
 
-This document is a transcription of a talk given by William S. Sadler, Jr. to young people, clarifying and simplifying the teachings of the Foreword of _The Urantia Book_.
+This document is a transcription of a talk given by William S. Sadler, Jr. to young people, clarifying and simplifying the teachings of the [Foreword](/en/The_Urantia_Book/0#p0_1) of _The Urantia Book_.
 
 (This simplification was compiled by William S. Sadler, Jr., and he accepts responsibility for the sacrifice of meaning, for the dilution of fact, and for the distortion of truth. Much meaning has been sacrificed to make some meaning clear. Much fact has been diluted to simplify the understanding of some fact. Much truth has been distorted so that some truth could be more easily comprehended.)
 

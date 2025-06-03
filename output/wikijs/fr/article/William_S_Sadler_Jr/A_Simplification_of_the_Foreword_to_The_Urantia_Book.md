@@ -12,7 +12,7 @@ dateCreated: 2022-11-28T11:12:37.284Z
 
 Par William Sadler Jr. le 30 juin 1960
 
-Ce document est une transcription d'un discours donné par William S. Sadler, Jr. aux jeunes, clarifiant et simplifiant les enseignements de l'Avant-propos du _Le Livre d'Urantia_.
+Ce document est une transcription d'un discours donné par William S. Sadler, Jr. aux jeunes, clarifiant et simplifiant les enseignements de [l'Avant-propos](/fr/The_Urantia_Book/0#p0_1) du _Le Livre d'Urantia_.
 
 (Cette simplification a été compilée par William S. Sadler, Jr., et il accepte la responsabilité du sacrifice du sens, de la dilution des faits et de la distorsion de la vérité. Beaucoup de sens a été sacrifié pour rendre clair certains sens. Beaucoup de faits a été diluée pour simplifier la compréhension de certains faits. Une grande partie de la vérité a été déformée afin qu'une certaine vérité puisse être plus facilement comprise.)
 

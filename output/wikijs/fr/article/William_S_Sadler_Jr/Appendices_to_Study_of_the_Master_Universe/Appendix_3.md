@@ -72,11 +72,11 @@ Chaque niveau d’espace favorise le mouvement dans une direction donnée autour
 
 _Les frontières de l'espace._ L’espace a des frontières dans toutes les directions — vers l'intérieur et l'extérieur, au-dessus et au-dessous — ainsi que des zones internes de quiétude relative entre les niveaux d’espace. Ces limites sont les suivantes:
 
-- (a) _Les bordures intérieures de l'espace._
+- a) _Les bordures intérieures de l'espace._
     > <a id="s75_6"></a>[LU 11:7.4](/fr/The_Urantia_Book/11#p7_4). Les bords intérieurs de l'espace sont dans les régions proches du Paradis.
     > 
     > <a id="s77_6"></a>[LU 11:7.1](/fr/The_Urantia_Book/11#p7_1). L'espace ne touche pas réellement le Paradis ; les zones d’espace médian s’interposent entre les bords intérieurs de l’espace et l’Ile Centrale.
-- (b) _Les limites supérieures et inférieures de l'espace._
+- b) _Les limites supérieures et inférieures de l'espace._
     > <a id="s79_6"></a>[LU 11:7.7](/fr/The_Urantia_Book/11#p7_7). L'espace est limité au-dessus et au-dessous par les zones d’espace médian.
 - (c\) _Les frontières internes des niveaux d’espace._
     > <a id="s81_6"></a>[LU 11:7.8](/fr/The_Urantia_Book/11#p7_8). Chaque niveau d’espace est séparé horizontalement du niveau d’espace adjacent par une zone semi-tranquille. Manifestement, il n’existe aucune matérialisation de masse dans ces zones <a id="s81_231"></a>[LU 12:1.14](/fr/The_Urantia_Book/12#p1_14) ; elles sont décrites comme étant «libres de poussière stellaire et de brouillard cosmique».
@@ -84,7 +84,7 @@ _Les frontières de l'espace._ L’espace a des frontières dans toutes les dire
     > <a id="s83_6"></a>[LU 14:1.8](/fr/The_Urantia_Book/14#p1_8). Une zone semi-tranquille sépare l'univers central des superunivers. Ses dimensions ne nous sont pas données.
     > 
     > <a id="s85_6"></a>[LU 12:1.14](/fr/The_Urantia_Book/12#p1_14). Les zones semi-tranquilles entre les superunivers et le premier niveau d’espace extérieur s'étalent sur environ quatre cent mille années-lumière.
-- (d) _Les bordures extérieures de l'espace._
+- d) _Les bordures extérieures de l'espace._
     > <a id="s87_6"></a>[LU 11:7.4](/fr/The_Urantia_Book/11#p7_4). L'espace s'étend au-delà de la limite extérieure du maitre univers. De combien ? Nous ne le savons pas.
     > 
     > <a id="s89_6"></a>[LU 12:5.2](/fr/The_Urantia_Book/12#p5_2). Les limites absolues de l’espace ne sont pas connues. _<a id="s89_104"></a>[LU 11:7.3](/fr/The_Urantia_Book/11#p7_3)_. Les zones d’espace médian encapsulent finalement tout l'espace.

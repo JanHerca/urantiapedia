@@ -40,13 +40,13 @@ We do conceive of an age after the Sixth Universe Age, but such an era would hav
 
 In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as “the dawn of eternity.” <a id="s40_419"></a>[UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, “the dawn of eternity” designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
 
-- (a) _The First Universe Age._ This is the age of Havona. The First Age, like the central universe, is a past eternal; it has no beginning in time. This age is unique in other respects: It is pre-supreme and pre-ultimate, hence, pre-experiential. <a id="s42_248"></a>[UB 0:9.5](/en/The_Urantia_Book/0#p9_5) Being pre-experiential, the First Age is wholly existential. <a id="s42_349"></a>[UB 0:7.2](/en/The_Urantia_Book/0#p7_2) It is the only such age.
+- a) _The First Universe Age._ This is the age of Havona. The First Age, like the central universe, is a past eternal; it has no beginning in time. This age is unique in other respects: It is pre-supreme and pre-ultimate, hence, pre-experiential. <a id="s42_248"></a>[UB 0:9.5](/en/The_Urantia_Book/0#p9_5) Being pre-experiential, the First Age is wholly existential. <a id="s42_349"></a>[UB 0:7.2](/en/The_Urantia_Book/0#p7_2) It is the only such age.
   The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as “the offspring of the Paradise Trinity.” But, in the same paragraph, they are designated as “beings who never were created.” <a id="s43_257"></a>[UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, [Appendix I § 1, The First Universe Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-the-first-universe-age); [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
   The First Universe Age had no beginning, but it does have an ending. It ended when the present universe age began. Perhaps this was at the time of the creation of the Ancients of Days <a id="s44_186"></a>[UB 18:3.4](/en/The_Urantia_Book/18#p3_4), or the time of the Trinity mandate directing the organization of the seven superuniverses. <a id="s44_320"></a>[UB 19:7.1](/en/The_Urantia_Book/19#p7_1)
-- (b) _The post-Havona ages._ This term is often used to designate the five ages that follow the age of Havona. It is used because these five ages have much in common. All five have beginnings and endings in time; only the First Age is a past eternal.
+- b) _The post-Havona ages._ This term is often used to designate the five ages that follow the age of Havona. It is used because these five ages have much in common. All five have beginnings and endings in time; only the First Age is a past eternal.
   All post-Havona ages are experiential. Experiential deity is actualizing in the post-Havona epochs of the master universe. <a id="s46_125"></a>[UB 0:7.1](/en/The_Urantia_Book/0#p7_1) These ages appear to be characterized by a two-way procession of ascenders and descenders. In the present universe age, the Supreme Creators and their associates are descending from Paradise to the time-space creations and the evolutionary creatures are ascending from these same creations in the Paradise ascent. <a id="s46_479"></a>[UB 115:6.5](/en/The_Urantia_Book/115#p6_5) In the next age, the finaliters will be associated with others who will serve in outer space <a id="s46_616"></a>[UB 31:10.11](/en/The_Urantia_Book/31#p10_11) and it is anticipated that outer-spacers will be ascending to Paradise through the perfected superuniverses. <a id="s46_771"></a>[UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
-- (c) _The Second Universe age._ This is the present age, the age of the evolutionary superuniverses. This age is also unique – it is the age of the evolutionary growth of the Supreme Being. When he has completed his growth, this age will come to its end and the opportunity to participate in this wonderful experience will be forever gone. <a id="s47_341"></a>[UB 31:10.12](/en/The_Urantia_Book/31#p10_12) In the Second Age it is possible to have finite experience and grow by the evolutionary process; subsequent ages will not be able to participate in these adventures. <a id="s47_553"></a>[UB 31:10.11](/en/The_Urantia_Book/31#p10_11)
-- (d) _The expansion of destiny._ The successive ages expand destiny; they provide the techniques for overriding previous growth limits. For example: First-Age Havona is a perfect universe and is a “perfection-limited” universe. In the Second Age, the present age, Havona perfection expands outward into the imperfect superuniverses to achieve new experiential destiny.
+- c) _The Second Universe age._ This is the present age, the age of the evolutionary superuniverses. This age is also unique – it is the age of the evolutionary growth of the Supreme Being. When he has completed his growth, this age will come to its end and the opportunity to participate in this wonderful experience will be forever gone. <a id="s47_341"></a>[UB 31:10.12](/en/The_Urantia_Book/31#p10_12) In the Second Age it is possible to have finite experience and grow by the evolutionary process; subsequent ages will not be able to participate in these adventures. <a id="s47_553"></a>[UB 31:10.11](/en/The_Urantia_Book/31#p10_11)
+- d) _The expansion of destiny._ The successive ages expand destiny; they provide the techniques for overriding previous growth limits. For example: First-Age Havona is a perfect universe and is a “perfection-limited” universe. In the Second Age, the present age, Havona perfection expands outward into the imperfect superuniverses to achieve new experiential destiny.
 
 ## § 2. Experiential Deity in successive ages
 
@@ -137,7 +137,7 @@ _The Supreme Being_
 > 
 > (ibid) (b) The Supreme will expand as a universe sovereign and will be superalmighty in the creations of outer space.
 > 
-> <a id="s139_2"></a>[UB 116:1.5](/en/The_Urantia_Book/116#p1_5) (c) He will give expression to some unknown aspect of mind. The mind of Supremacy is believed to have a latent potential for function that is master-universe in scope.
+> <a id="s139_2"></a>[UB 116:1.5](/en/The_Urantia_Book/116#p1_5) \(c\) He will give expression to some unknown aspect of mind. The mind of Supremacy is believed to have a latent potential for function that is master-universe in scope.
 
 _The First Experiential Trinity_
 
@@ -336,7 +336,7 @@ The superuniverses will, of course, persist into the post-ultimate age – the a
 
 It may prove helpful to analyze the sequence of events that marked the transition from the First to the Second Universe Age – from the times of Havona to the age of the grand universe – from the times of the central universe to the age of the seven superuniverses. The story is not completely clear, but it seems to unfold in a series of steps that appear to have a reasonable sequence relationship.
 
-- (a) _The unqualified concept of the First Age_
+- a) _The unqualified concept of the First Age_
 
   > <a id="s340_4"></a>[UB 8:1.9](/en/The_Urantia_Book/8#p1_9) The Third Person eternalized simultaneously with Havona, and since he is eternal, so also is the central universe.
   > 
@@ -344,7 +344,7 @@ It may prove helpful to analyze the sequence of events that marked the transitio
 
   Deduction: The original inhabitants of the central universe are without origin — eternal.
 
-- (b) _Terminus of the First Age — before the “near times of eternity”_
+- b) _Terminus of the First Age — before the “near times of eternity”_
 
   > <a id="s348_4"></a>[UB 10:2.7](/en/The_Urantia_Book/10#p2_7) When the Infinite Spirit personalized this completed “the existential cycle of Deity personalization,” and the next Deity personalizations were not co-ordinate but were subordinate (subabsolute) — the Seven Master Spirits.
 
@@ -360,7 +360,7 @@ It may prove helpful to analyze the sequence of events that marked the transitio
 
   Deduction: Energy activities were taking place in the superuniverse space level long before the organization of the seven superuniverses.
 
-- (c) _The “near times of eternity” and the “dawn of time”_
+- c) _The “near times of eternity” and the “dawn of time”_
 
   > <a id="s364_4"></a>[UB 23:1.1](/en/The_Urantia_Book/23#p1_1) Following the creation of the Spirits of the Circuits in Havona, the Conjoint Actor created the Solitary Messengers. They have existed since the “near times of eternity.” They are the first of the creations of the Infinite Spirit to be “. . . conscious of time . . . to be personalized in time and spiritualized in space.”
   > 
@@ -536,10 +536,10 @@ Speculation: These two transactions are related in some manner.
 > <a id="s535_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Urantia mortals have a type of personality bestowed upon them that contains three dimensions of “self-expression or person-realization” that can be realized on the finite level.
 > 
 > <a id="s537_2"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1) Fusion with the Thought Adjuster adds:
-> - (a) Fixation of divinity quality
-> - (b) Past-eternity experience and memory
-> - (c) Immortality
-> - (d) A phase of qualified potential absoluteness
+> - a) Fixation of divinity quality
+> - b) Past-eternity experience and memory
+> - c) Immortality
+> - d) A phase of qualified potential absoluteness
 > 
 > <a id="s543_2"></a>[UB 107:4.2](/en/The_Urantia_Book/107#p4_2) Adjusters are limited as to quantity of divinity, but not as to absoluteness of quality of divinity.
 

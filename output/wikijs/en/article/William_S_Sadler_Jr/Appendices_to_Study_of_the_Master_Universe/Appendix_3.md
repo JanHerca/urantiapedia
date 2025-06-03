@@ -72,19 +72,19 @@ Each of these space levels is an elliptical zone of “lessened resistance to mo
 Each space level favors motion in a given direction around Paradise – clockwise or counterclockwise. <a id="s71_101"></a>[UB 11:7.9](/en/The_Urantia_Book/11#p7_9) These favored directions alternate. Havona revolves clockwise <a id="s71_205"></a>[UB 14:1.3](/en/The_Urantia_Book/14#p1_3); the superuniverses revolve counterclockwise <a id="s71_292"></a>[UB 12:4.15](/en/The_Urantia_Book/12#p4_15); the Primary Space Level revolves clockwise (ibid); and so on. There is a reason for this alternating directional flow of movement in each space level. There is also a reason for the organization of (master universe) space into the six space levels. Such alternating movements and such an organization of space permits the exercise of control over excessive gravity-pressures and mass-velocities. <a id="s71_733"></a>[UB 11:7.9](/en/The_Urantia_Book/11#p7_9) This is an equalizing function performed by the Universal Absolute <a id="s71_842"></a>[UB 12:4.16](/en/The_Urantia_Book/12#p4_16), the source of compensatory motion <a id="s71_921"></a>[UB 12:4.11](/en/The_Urantia_Book/12#p4_11): motion designed to equalize all tensions that have been caused by other motions. <a id="s71_1047"></a>[UB 12:4.5](/en/The_Urantia_Book/12#p4_5)
 
 _The boundaries of space._ Space has boundaries in all directions – inner and outer, upper and nether – as well as having internal zones of relative quiet in between the space levels. These bounds are given as follows:
-- (a) _The inner margins of space._
+- a) _The inner margins of space._
     > <a id="s75_6"></a>[UB 11:7.4](/en/The_Urantia_Book/11#p7_4) The inner margins of space are in the near regions of Paradise.
     > 
     > <a id="s77_6"></a>[UB 11:7.1](/en/The_Urantia_Book/11#p7_1) Space does not actually touch Paradise; the midspace zones lie in between the inner margins of space and the central Isle.
-- (b) _The upper and nether limits of space._
+- b) _The upper and nether limits of space._
     > <a id="s79_6"></a>[UB 11:7.7](/en/The_Urantia_Book/11#p7_7) Space is bounded above and below by the mid­space zones.
-- (c) _The internal boundaries of the space levels._
+- c) _The internal boundaries of the space levels._
     > <a id="s81_6"></a>[UB 11:7.8](/en/The_Urantia_Book/11#p7_8) / <a id="s81_50"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14) Each space level is horizontally separated from the adjacent space level by a semi-quiet zone. There is evidently no mass materialization in these zones; they are spoken of as being “free from star dust – cosmic fog.”
     > 
     > <a id="s83_6"></a>[UB 14:1.8](/en/The_Urantia_Book/14#p1_8) There is a semi-quiet zone separating the central universe from the superuniverses. We are not given its dimensions.
     > 
     > <a id="s85_6"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14) The semi-quiet zone between the superuniverses and the first outer space level is about four-hundred thousand light-years across.
-- (d) _The outer margins of space._
+- d) _The outer margins of space._
     > <a id="s87_6"></a>[UB 11:7.4](/en/The_Urantia_Book/11#p7_4) Space extends beyond the outer edge of the master universe, but how far beyond is not known.
     > 
     > <a id="s89_6"></a>[UB 12:5.2](/en/The_Urantia_Book/12#p5_2) / <a id="s89_50"></a>[UB 11:7.3](/en/The_Urantia_Book/11#p7_3) The absolute limits of space are not known. The midspace zones eventually encapsulate all space.

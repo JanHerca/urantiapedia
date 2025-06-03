@@ -90,9 +90,9 @@ _La emergencia completa del Último._ Se nos informa de que las funciones de la 
 La emergencia de la segunda Trinidad experiencial no se debe únicamente a los logros de la primera Trinidad experiencial. La emergencia del Último también se muestra en los éxitos de los Creadores pos-Havona, como los miembros pos-Havona de Dios Séptuple, cuya actividad «…probablemente se ampliará cuando comience la evolución futura de las creaciones del espacio exterior». <a id="s89_376"></a>[LU 0:8.12](/es/The_Urantia_Book/0#p8_12) Y finalmente la emergencia del Último se debe al éxito de sus propios esfuerzos, a su «…propia labor experiencial en los universos de poder y de personalidad…». <a id="s89_579"></a>[LU 0:12.3](/es/The_Urantia_Book/0#p12_3)
 
 La emergencia objetiva del Último significará que los valores trascendentales han sido coordinados en los niveles creativos _finales_. En otras palabras: el Último emergido reunirá ciertas realidades que se describen  <a id="s91_218"></a>[LU 0:2.18](/es/The_Urantia_Book/0#p2_18) en los Documentos como sigue:
-- (a) Valores superpersonales-absonitos,
-- (b) Valores del espacio-tiempo trascendido, y
-- (c) Valores experienciales existenciados.
+- a) Valores superpersonales-absonitos,
+- b) Valores del espacio-tiempo trascendido, y
+- c) Valores experienciales existenciados.
 
 La síntesis experiencial de estas realidades diversas se describe como síntesis del poder y la personalidad <a id="s96_108"></a>[LU 0:9.3](/es/The_Urantia_Book/0#p9_3), y deberíamos recordar que la palabra «poder» se emplea para designar la soberanía, así como la energía organizada. <a id="s96_264"></a>[LU 0:6.2](/es/The_Urantia_Book/0#p6_2)
 
@@ -101,9 +101,9 @@ Para trazar un paralelismo a partir de ciertas afirmaciones que se hacen sobre l
 ## § 2. La naturaleza de la Deidad Última
 
 Las naturalezas de las tres deidades experienciales tienen la experiencia en común, pero por lo demás son distintas. <a id="s102_117"></a>[LU 118:0.5,7-8](/es/The_Urantia_Book/118#p0_5) En su naturaleza:
-- (a) Dios Supremo es _evolutivo_-experiencial.
-- (b) Dios Último es _trascendental_-experiencial.
-- (c) Dios Absoluto es _existencial_-experiencial.
+- a) Dios Supremo es _evolutivo_-experiencial.
+- b) Dios Último es _trascendental_-experiencial.
+- c) Dios Absoluto es _existencial_-experiencial.
 
 Como el Supremo, el Último es totalmente experiencial. <a id="s107_55"></a>[LU 0:7.5](/es/The_Urantia_Book/0#p7_5) El Último es incluso un tanto único en este sentido: está vinculado en ambos lados por trinidades experienciales. Las otras dos deidades experienciales no están situadas así. No hay una trinidad experiencial que pueda unirse para dar emergencia al Supremo; su evolución depende de la colaboración entre los Creadores Supremos y la Deidad trina del Paraíso. <a id="s107_452"></a>[LU 0:8.9](/es/The_Urantia_Book/0#p8_9) Y, con Dios Absoluto, nos encontramos con un ser que es existencial así como experiencial. <a id="s107_583"></a>[LU 0:7.5](/es/The_Urantia_Book/0#p7_5) El Último se describe como una «Deidad que se proyecta a sí misma». <a id="s107_691"></a>[LU 0:1.10](/es/The_Urantia_Book/0#p1_10) ¿Esto es porque su emergencia está implicada en la unificación de la primera Trinidad experiencial y su destino inmediato está en la segunda? <a id="s107_875"></a>[LU 0:12.6-7](/es/The_Urantia_Book/0#p12_6)
 
@@ -114,16 +114,16 @@ Cuando Dios Último ha emergido finalmente, después de la terminación de toda 
 - (1) La Deidad que es el resultado de la unificación final de la primera Trinidad experiencial.
 - (2) La Deidad que personaliza totalmente toda la divinidad absonita y trascendental.
 - (3) La Deidad que abarca todas las fases de la realidad última que es
-    - (a) experimentable personalmente,
-    - (b) que dirige el control,
-    - (c) que unifica mediante tensiones,
-    - (d) otros muchos aspectos no revelados.
+    - a) experimentable personalmente,
+    - b) que dirige el control,
+    - c) que unifica mediante tensiones,
+    - d) otros muchos aspectos no revelados.
 
 Esta definición del Último terminado o finalmente emergido soportará un análisis cuidadoso. Ya hemos considerado al Último como la consecuencia de deidad de la unificación de la primera Trinidad experiencial. <a id="s121_209"></a>[LU 0:9.1](/es/The_Urantia_Book/0#p9_1) Y ya hemos señalado que el Último personaliza los valores absonitos del Paraíso (Ibíd.) Ahora bien, deberíamos analizar cuidadosamente las cuatro fases (más arriba) de la realidad última que son experimentables personalmente, que dirigen el control, que unifican mediante tensiones y que no se han revelado.
-- (a) _Fases del Último experimentables personalmente._ Esto debe referirse, al menos en parte, a la personalidad del Último. Esta personalidad (o superpersonalidad) será contactable algún día por otras personalidades (y superpersonalidades). <a id="s122_243"></a>[LU 0:5.4](/es/The_Urantia_Book/0#p5_4)
-- (b) _Fases del Último que dirigen el control._ Probablemente representan una relación dentro del Último que es análoga a la relación del Todopoderoso con el Supremo. Afortunadamente, se nos da un nombre para este componente funcional del Último: se designa como el «Omnipotente». <a id="s123_282"></a>[LU 118:2.4](/es/The_Urantia_Book/118#p2_4)
-- (c) _Fases del Último que unifican mediante tensiones._ Probablemente esto se refiera a alguna actividad de la Mente Última que podría servir para unificar al Omnipotente con Dios Último, como la Mente Suprema (en los niveles finitos) unifica al Todopoderoso con Dios Supremo. <a id="s124_279"></a>[LU 106:2.3](/es/The_Urantia_Book/106#p2_3) Posiblemente podría referirse a alguna actividad del Último que tendría que ver con la igualación y compensación de ciertas tensiones de la realidad configuradas por la coexistencia de lo finito y lo absoluto. Si es así, entonces esto podría ser un corolario subabsoluto de ciertas actividades análogas del Absoluto Universal. <a id="s124_650"></a>[LU 0:11.13](/es/The_Urantia_Book/0#p11_13); [LU 12:4.5](/es/The_Urantia_Book/12#p4_5,11)
-- (d) _Los aspectos no revelados del Último_ sugieren que la naturaleza del Último es mucho más compleja que la naturaleza del Supremo. <a id="s125_136"></a>[LU 106:8.15](/es/The_Urantia_Book/106#p8_15)
+- a) _Fases del Último experimentables personalmente._ Esto debe referirse, al menos en parte, a la personalidad del Último. Esta personalidad (o superpersonalidad) será contactable algún día por otras personalidades (y superpersonalidades). <a id="s122_243"></a>[LU 0:5.4](/es/The_Urantia_Book/0#p5_4)
+- b) _Fases del Último que dirigen el control._ Probablemente representan una relación dentro del Último que es análoga a la relación del Todopoderoso con el Supremo. Afortunadamente, se nos da un nombre para este componente funcional del Último: se designa como el «Omnipotente». <a id="s123_282"></a>[LU 118:2.4](/es/The_Urantia_Book/118#p2_4)
+- c) _Fases del Último que unifican mediante tensiones._ Probablemente esto se refiera a alguna actividad de la Mente Última que podría servir para unificar al Omnipotente con Dios Último, como la Mente Suprema (en los niveles finitos) unifica al Todopoderoso con Dios Supremo. <a id="s124_279"></a>[LU 106:2.3](/es/The_Urantia_Book/106#p2_3) Posiblemente podría referirse a alguna actividad del Último que tendría que ver con la igualación y compensación de ciertas tensiones de la realidad configuradas por la coexistencia de lo finito y lo absoluto. Si es así, entonces esto podría ser un corolario subabsoluto de ciertas actividades análogas del Absoluto Universal. <a id="s124_650"></a>[LU 0:11.13](/es/The_Urantia_Book/0#p11_13); [LU 12:4.5](/es/The_Urantia_Book/12#p4_5,11)
+- d) _Los aspectos no revelados del Último_ sugieren que la naturaleza del Último es mucho más compleja que la naturaleza del Supremo. <a id="s125_136"></a>[LU 106:8.15](/es/The_Urantia_Book/106#p8_15)
 
 Del análisis precedente de los factores comprendidos en la unificación del poder y la personalidad del Último, deducimos que la personalidad (o superpersonalidad) del Último es inseparable de las fases no personales de su naturaleza de deidad. <a id="s127_244"></a>[LU 106:5.2](/es/The_Urantia_Book/106#p5_2)
 
@@ -148,9 +148,9 @@ La probable relación futura del hombre con el Último será la de un finalitari
 ## § 3. Atributos de dios último
 
 De todos los atributos de Dios Último, quizá el más característico sea la trascendencia del tiempo y el espacio. <a id="s149_113"></a>[LU 0:1.10](/es/The_Urantia_Book/0#p1_10), 13; <a id="s149_160"></a>[LU 0:2.17](/es/The_Urantia_Book/0#p2_17), <a id="s149_203"></a>[LU 106:4.4](/es/The_Urantia_Book/106#p4_4); y hay muchas otras referencias) El Último es una Deidad trascendental, y la misma palabra «trascendental» implica verdaderamente algo que tiene una relación con el espacio y el tiempo pero que no está limitado en realidad por ninguno de los dos. Consideremos lo que los Documentos tienen que decir <a id="s149_546"></a>[LU 0:1.11-13](/es/The_Urantia_Book/0#p1_11) acerca de las tres relaciones con el espacio y el tiempo:
-- (a) La realidad finita está limitada por el espacio y el tiempo.
-- (b) La realidad absoluta no tiene relación ni con el espacio ni con el tiempo. No tiene «ni espacio ni tiempo».
-- (c) La realidad absonita está directamente relacionada tanto con el espacio como con el tiempo, pero no está limitada por ninguno de los dos.
+- a) La realidad finita está limitada por el espacio y el tiempo.
+- b) La realidad absoluta no tiene relación ni con el espacio ni con el tiempo. No tiene «ni espacio ni tiempo».
+- c) La realidad absonita está directamente relacionada tanto con el espacio como con el tiempo, pero no está limitada por ninguno de los dos.
 
 El Último es la Deidad trascendental. Es subabsoluto, pero tiene la capacidad inherente de asociarse funcionalmente con el nivel absoluto. <a id="s154_139"></a>[LU 106:3.3](/es/The_Urantia_Book/106#p3_3) Y también se nos informa de que, entre otros atributos, el Último es omnipotente, omnisciente y omnipresente. <a id="s154_293"></a>[LU 0:1.10](/es/The_Urantia_Book/0#p1_10)
 
@@ -166,7 +166,7 @@ Del mismo modo que el Supremo es en parte una representación de la Trinidad del
 
 Actualmente las Deidades del Paraíso no colaboran personalmente con el Último; trabajan con él (como con el Supremo) a través de la Trinidad del Paraíso. Este tipo de relación cambiará, de alguna manera desconocida, cuando estas deidades experienciales emerjan de las eras de crecimiento experiencial, que se designan como prepersonales. <a id="s166_338"></a>[LU 10:7.3](/es/The_Urantia_Book/10#p7_3) En ese momento futuro, sospechamos que el Padre Universal, el Hijo Eterno y el Espíritu Infinito, colaborarán personalmente con Dios Supremo y con Dios Último, mientras que la Trinidad del Paraíso entrará en nuevas relaciones funcionales con las trinidades experienciales.
 
-Respecto a su presencia en las creaciones pos-Havona, el Padre Universal ha elegido estar: (a) limitado por el Supremo en evolución, (b) condicionado por el Último en existenciación, (c) coordinado por los Absolutos. <a id="s168_217"></a>[LU 3:2.15](/es/The_Urantia_Book/3#p2_15) —
+Respecto a su presencia en las creaciones pos-Havona, el Padre Universal ha elegido estar: (a) limitado por el Supremo en evolución, (b) condicionado por el Último en existenciación, \(c\) coordinado por los Absolutos. <a id="s168_217"></a>[LU 3:2.15](/es/The_Urantia_Book/3#p2_15) —
 
 De manera similar, la presencia fuera de Havona del Hijo Eterno, aparte de estar personalizado en los Hijos de Dios Paradisíacos, está condicionada por el Supremo y por el Último. <a id="s170_180"></a>[LU 7:2.1](/es/The_Urantia_Book/7#p2_1)
 
@@ -175,9 +175,9 @@ Puesto que el Espíritu Infinito impregna todo el espacio <a id="s172_57"></a>[L
 ## § 5. La relación del Último con el Universo Maestro
 
 El Último está relacionado muy directamente con la aparición del universo maestro (con todo excepto con el universo central de perfección eterna) En relación con la aparición de la creación maestra, el Último ocupa una posición intermedia entre los Absolutos y el Supremo. Se nos informa <a id="s176_288"></a>[LU 12:6.9-11](/es/The_Urantia_Book/12#p6_9) de que la aparición del universo maestro depende (experiencialmente) de lo siguiente:
-- (a) En lo potencial, de los tres Absolutos
-- (b) En la dirección, del Último
-- (c) En la coordinación evolutiva, del Supremo
+- a) En lo potencial, de los tres Absolutos
+- b) En la dirección, del Último
+- c) En la coordinación evolutiva, del Supremo
 
 Dentro del universo maestro, el Último trabaja en la «organización creativa» de los tres Absolutos de potencialidad. <a id="s181_117"></a>[LU 12:6.11](/es/The_Urantia_Book/12#p6_11) Esto debe significar que, de alguna manera, está causando que estos potenciales absolutos se segreguen y emerjan para hacerlos reactivos a las acciones transformadoras subabsolutas. Si este es el caso, entonces la capacidad de todos los creadores subabsolutos de «crear» depende de la «organización creativa» previa de esos potenciales por el Último. <a id="s181_512"></a>[LU 118:4.7](/es/The_Urantia_Book/118#p4_7); [Apéndice VII § 2, La maduración de los potenciales](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-2-la-maduración-de-los-potenciales).)
 
@@ -216,9 +216,9 @@ Tanto de los Supervisores Incalificados del Supremo como de los Vicegerentes Cal
 ## § 7. La ultimidad de la deidad
 
 La Ultimidad de la Deidad <a id="s217_26"></a>[LU 0:1.10](/es/The_Urantia_Book/0#p1_10) no es la función de una deidad, una entidad o incluso una trinidad. La Ultimidad de la Deidad es un nivel de realidad en el que tiene lugar la acción y la interacción de cierta fase de la Deidad Total. <a id="s217_270"></a>[LU 0:1.3](/es/The_Urantia_Book/0#p1_3) Al menos tres realidades de deidad ocupan (u ocuparán) este séptimo nivel de la acción de la Deidad Total:
-- (a) _La Trinidad de la Ultimidad._ Esta es la Trinidad del Paraíso que actúa en relación con el nivel absonito de la realidad. <a id="s218_129"></a>[LU 10:5.5](/es/The_Urantia_Book/10#p5_5) Esta actividad de la trinidad proporciona la coordinación existencial del nivel trascendental, antes de la formación de cualquier otra trinidad (de naturaleza experiencial) y de la emergencia de toda deidad experiencial. En el momento presente, se habla de ciertas acciones del Último emergente como que reflejan ciertas actividades absonitas de la Trinidad del Paraíso. <a id="s218_542"></a>[LU 10:8.2](/es/The_Urantia_Book/10#p8_2)
-- (b) _La Trinidad Última._ Esta trinidad parece ser el complemento experiencial de la trinidad existencial (Paradisíaca) en el trabajo de coordinar el universo maestro. <a id="s219_170"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6) La emergencia de Dios Último es una consecuencia directa de la unificación de esta Trinidad, la primera Trinidad experiencial, en el escenario espacial del universo maestro. <a id="s219_386"></a>[LU 0:9.1](/es/The_Urantia_Book/0#p9_1)
-- (c) _Dios Último._ Esta deidad experiencial, que emerge como consecuencia de la unificación de la primera Trinidad experiencial, completa el inventario de aquellos cuyas actividades ocupan el nivel de la Ultimidad de la Deidad. Y deberíamos recordar que el concepto del Último (emergido) como persona no se puede separar de los aspectos no personales de su naturaleza de deidad trascendental. <a id="s220_395"></a>[LU 106:5.2](/es/The_Urantia_Book/106#p5_2)
+- a) _La Trinidad de la Ultimidad._ Esta es la Trinidad del Paraíso que actúa en relación con el nivel absonito de la realidad. <a id="s218_129"></a>[LU 10:5.5](/es/The_Urantia_Book/10#p5_5) Esta actividad de la trinidad proporciona la coordinación existencial del nivel trascendental, antes de la formación de cualquier otra trinidad (de naturaleza experiencial) y de la emergencia de toda deidad experiencial. En el momento presente, se habla de ciertas acciones del Último emergente como que reflejan ciertas actividades absonitas de la Trinidad del Paraíso. <a id="s218_542"></a>[LU 10:8.2](/es/The_Urantia_Book/10#p8_2)
+- b) _La Trinidad Última._ Esta trinidad parece ser el complemento experiencial de la trinidad existencial (Paradisíaca) en el trabajo de coordinar el universo maestro. <a id="s219_170"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6) La emergencia de Dios Último es una consecuencia directa de la unificación de esta Trinidad, la primera Trinidad experiencial, en el escenario espacial del universo maestro. <a id="s219_386"></a>[LU 0:9.1](/es/The_Urantia_Book/0#p9_1)
+- c) _Dios Último._ Esta deidad experiencial, que emerge como consecuencia de la unificación de la primera Trinidad experiencial, completa el inventario de aquellos cuyas actividades ocupan el nivel de la Ultimidad de la Deidad. Y deberíamos recordar que el concepto del Último (emergido) como persona no se puede separar de los aspectos no personales de su naturaleza de deidad trascendental. <a id="s220_395"></a>[LU 106:5.2](/es/The_Urantia_Book/106#p5_2)
 
 Las actividades integradas de la Trinidad de Ultimidad existencial, la Trinidad Última experiencial, y la realidad emergida de Dios Último, constituyen (o constituirán) la Ultimidad de la Deidad tal como la conocemos. La interacción funcional de las tres estaría relacionada en la función de la providencia (la providencia como operaría en lo trascendental y en relación con lo último)
 

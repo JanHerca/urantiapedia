@@ -12,7 +12,7 @@ dateCreated: 2022-11-28T11:12:37.284Z
 
 Por William Sadler Jr. el 30 de Junio, 1960
 
-Este folleto es la transcripción de una charla dada por William S. Sadler, hijo, a unos jóvenes, clarificando y simplificando las enseñanzas del Prólogo del Libro de Urantia. Publicado por Asoka Foundation. PO Box 270608, Oklahoma City, Ok 73127.
+Este folleto es la transcripción de una charla dada por William S. Sadler, hijo, a unos jóvenes, clarificando y simplificando las enseñanzas del [Prólogo](/es/The_Urantia_Book/0#p0_1) del Libro de Urantia. Publicado por Asoka Foundation. PO Box 270608, Oklahoma City, Ok 73127.
 
 [Esta simplificación fue compilada por William S. Sadler hijo, y él acepta la responsabilidad de haber sacrificado los significados, de haber diluido los hechos y de haber deformado la verdad. Se han sacrificado muchos significados para clarificar algún significado. Se han diluído muchos hechos para simplificar la comprensión de algún hecho. Se han deformado muchas verdades para que pudiera comprenderse más fácilmente alguna verdad.]
 

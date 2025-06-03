@@ -66,7 +66,7 @@ La mayoría de nosotros pensamos en la Trinidad del Paraíso muy despreocupadame
 
 En términos humanos, la triunidad es como una colectividad, una asociación; la trinidad es como una empresa, una entidad legal (no una persona, sino una entidad) Esta diferencia puede hacerse incluso más clara si comparamos las funciones de la Primera Triunidad con las funciones de la Trinidad del Paraíso:
 
-(c) _La Primera Triunidad comparada con la Trinidad del Paraíso_
+\(c\) _La Primera Triunidad comparada con la Trinidad del Paraíso_
 
 > <a id="s70_2"></a>[LU 104:4.3-6](/es/The_Urantia_Book/104#p4_3) La Primera Triunidad se define como una asociación del Padre, el Hijo y el Espíritu.
 > 
@@ -117,9 +117,9 @@ Esto diferencia claramente la _asociación personal_ de las personas divinas y u
 ## § 3. Evolución de los miembros de la Trinidad Última
 
 Consideremos de nuevo los miembros de la primera Trinidad experiencial, la Trinidad Última, pero con una ligera variación en el orden habitual de enumeración:
-- (a) El Ser Supremo
-- (b) Los Arquitectos Maestros
-- (c) Los Creadores Supremos
+- a) El Ser Supremo
+- b) Los Arquitectos Maestros
+- c) Los Creadores Supremos
 
 En este apéndice, hemos calculado previamente el número de personalidades relacionadas con los miembros de esta trinidad, y encontramos que hacían un total de 1.428.040 individuos. Pero en realidad ni esta trinidad ni ninguna otra tienen una lista de personalidades. La Trinidad Última tiene tres miembros y solo tres, y ninguno de ellos es una personalidad. Las personalidades no se unen para formar una trinidad: la trinidad es una unión de la deidad, no una asociación de personalidades. <a id="s123_491"></a>[LU 106:5.3](/es/The_Urantia_Book/106#p5_3) Quizá los miembros de la Trinidad Última deberían analizarse más atentamente.
 
@@ -178,9 +178,9 @@ Se nos informa de que la evolución del Todopoderoso es al Cuerpo de Creadores S
 (Este tipo de razonamiento especulativo puede, por supuesto, rebatirse como falto de lógica, pero a duras penas puede rebatirse como que no tiene garantías o que no es sabio, pues los Documentos <a id="s177_195"></a>[LU 30:0.2](/es/The_Urantia_Book/30#p0_2) parecen animar este tipo de «especulación creativa»)
 
 Si nuestro razonamiento tan extenso sobre los miembros probables de la Trinidad Última es sustancialmente correcto, entonces esos miembros se describirían con precisión solo si fueran designados como sigue:
-- (a) La Deidad del Ser Supremo
-- (b) La Deidad del Cuerpo de Arquitectos Maestros
-- (c) La Deidad del Cuerpo de los Creadores Supremos.
+- a) La Deidad del Ser Supremo
+- b) La Deidad del Cuerpo de Arquitectos Maestros
+- c) La Deidad del Cuerpo de los Creadores Supremos.
 
 En el mismo sentido, la Trinidad del Paraíso solo se describe sin mucho rigor como la unión del Padre, el Hijo y el Espíritu. Una descripción más precisa (pero también menos elegante) sería: la unión de la Deidad del Padre, la Deidad del Hijo y la Deidad del Espíritu.
 
@@ -188,21 +188,21 @@ En el mismo sentido, la Trinidad del Paraíso solo se describe sin mucho rigor c
 
 Los Documentos tienen muy poco que decir sobre el estatus y las funciones actuales y futuras de la primera Trinidad experiencial. Consideremos las siguientes citas:
 
-- (a) _Estatus actual_
+- a) _Estatus actual_
   > <a id="s191_4"></a>[LU 0:12.5](/es/The_Urantia_Book/0#p12_5) Las trinidades experienciales todavía no son completamente reales; se están actualizando.
   > 
   > <a id="s193_4"></a>[LU 117:7.4](/es/The_Urantia_Book/117#p7_4) La Trinidad Última apenas podría formarse como realidad objetiva hasta después de la emergencia completa del Supremo. Pero esta trinidad es ahora una «realidad calificada» y los Vicegerentes Calificados del Último existen actualmente.
 
 Aunque la Trinidad Última no sea completamente real, tampoco es muy correcto decir que no es real. Quizá deberíamos clasificarla como una «realidad en transformación» y, como tal, funcional hasta un grado limitado (pero en expansión) en la era actual del universo.
 
-- (b) _Funciones actuales_
+- b) _Funciones actuales_
   > <a id="s198_4"></a>[LU 106:3.5](/es/The_Urantia_Book/106#p3_5) La evolución física y espiritual se unifica en los niveles finitos en el Supremo, y en los niveles trascendentales en la primera Trinidad experiencial.
   > 
   > <a id="s200_4"></a>[LU 31:10.10](/es/The_Urantia_Book/31#p10_10) La movilización de los siete cuerpos finalitarios es más que una reacción a la acción directora del Supremo; revela las actividades directoras de la primera Trinidad experiencial en el proceso de movilizar los recursos, fuerzas y personalidades tanto finitos como absonitos, como preparación para los futuros desarrollos en los universos del espacio exterior.
 
 La Trinidad Última está actuando verdaderamente en la era actual del universo, a pesar del estatus incompleto del Ser Supremo y el estado inacabado del Cuerpo de Creadores Supremos (no todos los Hijos y Espíritus universales han sido comisionados, ni han terminado su crecimiento evolutivo personal como creadores de universos).
 
-- (c) _Funciones futuras_
+- c) _Funciones futuras_
   > <a id="s205_4"></a>[LU 10:5.5](/es/The_Urantia_Book/10#p5_5) / <a id="s205_48"></a>[LU 10:8.2](/es/The_Urantia_Book/10#p8_2) / <a id="s205_92"></a>[LU 106:3.5](/es/The_Urantia_Book/106#p3_5) La Trinidad del Paraíso coordina actualmente las realidades últimas, pero lo hace como un absoluto autocalificado; la primera Trinidad experiencial coordinará a los trascendentales como trascendental.
   > 
   > <a id="s207_4"></a>[LU 106:3.2](/es/The_Urantia_Book/106#p3_2) La Trinidad Última está destinada a causar la unificación evolutiva futura del universo maestro.
@@ -216,9 +216,9 @@ Las funciones de la Trinidad Última dominarán probablemente las actividades de
 ## § 5. Unificación de la Trinidad Última
 
 Sabemos que la Trinidad Última es menos que infinita, porque comprende «Deidades derivadas», seres derivados del producto de la acción de la Trinidad del Paraíso. <a id="s217_163"></a>[LU 0:12.3](/es/The_Urantia_Book/0#p12_3) Puesto que las metas del logro de la Trinidad Última son también menos que infinitas, esta trinidad puede unificarse hasta su finalización. <a id="s217_345"></a>[LU 0:12.6,8](/es/The_Urantia_Book/0#p12_6) Al parecer, la Trinidad Última tiene tres metas experienciales:
-- (a) La coordinación de todo el universo maestro <a id="s218_50"></a>[LU 106:4.2](/es/The_Urantia_Book/106#p4_2)
-- (b) Su propia unificación experiencial <a id="s219_41"></a>[LU 0:12.8](/es/The_Urantia_Book/0#p12_8) (No deberíamos olvidar que la unidad de la Deidad en las creaciones pos-Havona «es una consecución») <a id="s219_184"></a>[LU 56:5.4](/es/The_Urantia_Book/56#p5_4))
-- (c) La personalización de poder del Último <a id="s220_45"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
+- a) La coordinación de todo el universo maestro <a id="s218_50"></a>[LU 106:4.2](/es/The_Urantia_Book/106#p4_2)
+- b) Su propia unificación experiencial <a id="s219_41"></a>[LU 0:12.8](/es/The_Urantia_Book/0#p12_8) (No deberíamos olvidar que la unidad de la Deidad en las creaciones pos-Havona «es una consecución») <a id="s219_184"></a>[LU 56:5.4](/es/The_Urantia_Book/56#p5_4))
+- c) La personalización de poder del Último <a id="s220_45"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
 
 Avanzamos la teoría de que estas metas se conseguirán en cuatro etapas amplias, y que cada una de esas etapas estará asociada con la invasión, la exploración, el desarrollo y el establecimiento final de uno de los niveles del espacio exterior. Hay cuatro niveles del espacio exterior, y la conquista de cada uno debería ir acompañada del correspondiente progreso en la coordinación del universo maestro, la unificación de la Trinidad Última y la emergencia (la personalización de poder) de Dios Último. Al parecer, las tres metas se lograrán simultáneamente al final de la Sexta Era del Universo, el desarrollo final y el establecimiento del Cuarto Nivel de Espacio, y la emergencia final de Dios Último. ([Apéndice XVIII § 1](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-emergencia-del-último))
 
@@ -253,9 +253,9 @@ Deducción: La Deidad puede sumarse; es totalizable. Hay cierta maleabilidad en 
 Aquí deberíamos plantear una cuestión. ¿Es realmente imposible que las personalidades se combinen? ¿Y la trinitización? ¿Y la unión de dos seres progenitores? ¿Dicha unión no constituye una totalización de los progenitores?
 
 Los Documentos responden a estas preguntas en lo que respecta tanto a criaturas como a creadores:
-- (a) _No es cierto para las criaturas_
+- a) _No es cierto para las criaturas_
   > <a id="s256_4"></a>[LU 22:7.7](/es/The_Urantia_Book/22#p7_7) La unión de los padres de un hijo trinitizado por las criaturas es una unión limitada y parece consistir en una «…biunificación de ciertas fases espirituales de la personalidad…».
-- (b) _No es cierto para los creadores_
+- b) _No es cierto para los creadores_
   > <a id="s258_4"></a>[LU 22:7.8](/es/The_Urantia_Book/22#p7_8) Cuando el Padre y el Hijo eternizaron al Espíritu, «…se volvieron inmediatamente como uno solo, y desde entonces siempre han sido uno solo».
   > 
   > <a id="s260_4"></a>[LU 10:2.1](/es/The_Urantia_Book/10#p2_1) Pero esto solo es cierto en el sentido de que el Padre solo puede actuar «como personalidad absoluta e incalificada» en conjunción con el Hijo.
@@ -267,8 +267,8 @@ Por consiguiente, deducimos que una personalidad puede entrar en ciertas relacio
 «La personalidad puede unificar la identidad de cualquier sistema energético viviente». <a id="s266_88"></a>[LU 112:0.7](/es/The_Urantia_Book/112#p0_7) Pero dicha unificación de la personalidad no puede totalizarse con otras personalidades, ni puede fragmentarse (en los niveles de la deidad) El Hijo Eterno es un «ser exclusivamente personal» y no puede fragmentar su naturaleza, como hace el Padre. <a id="s266_381"></a>[LU 6:5.5](/es/The_Urantia_Book/6#p5_5) El Padre es tan persona como el Hijo, pero es «también todo lo demás». <a id="s266_492"></a>[LU 6:5.6](/es/The_Urantia_Book/6#p5_6) Su deidad prepersonal puede fragmentarse <a id="s266_573"></a>[LU 30:1.99](/es/The_Urantia_Book/30#p1_99), la deidad personal no. Al parecer es imposible restar la personalidad; parece igualmente imposible sumar personalidades. La personalidad parece ser inamovible (o lo tomas o lo dejas); es como es.
 
 La Deidad parece emplear dos técnicas opuestas, complementarias, que parecen interactuar en el proceso de conseguir la máxima autorrealización y autoexpresión. Estas dos técnicas son la individualización y la unificación; la articulación individual y única de cada posible parte, y la unificación total y completa de todas esas partes en el todo, sin perder ningún factor de identidad o individualidad en cada parte. La Deidad parece emplear las siguientes dos técnicas para conseguir estos fines y para lograrlos simultáneamente:
-- (a) Expresión de la personalidad, y
-- (b) Formación de la trinidad.
+- a) Expresión de la personalidad, y
+- b) Formación de la trinidad.
 
 La personalidad produce una unificación _interna_ de la parte; la trinidad existencia la unificación _externa_ del todo; el todo de cualquier nivel (supermaterial) que pudiera estar involucrado. La personalidad actúa de manera _intensiva_ para unificar la parte; la trinidad actúa de manera _extensiva_ para unificar el todo. Dicha consecución del total de trinidad es un hecho existencial en las creaciones centrales; es un logro experiencial en los universos de la periferia. <a id="s272_478"></a>[LU 56:5.4](/es/The_Urantia_Book/56#p5_4)
 

@@ -70,19 +70,19 @@ Cada uno de estos niveles espaciales es una zona elíptica de «resistencia redu
 Cada nivel de espacio favorece el movimiento en una dirección dada alrededor del Paraíso: en el sentido de las agujas del reloj, o en sentido contrario. <a id="s69_153"></a>[LU 11:7.9](/es/The_Urantia_Book/11#p7_9) Estas direcciones favorecidas se alternan. Havona gira en el sentido de las agujas del reloj <a id="s69_288"></a>[LU 14:1.3](/es/The_Urantia_Book/14#p1_3); los superuniversos en sentido contrario <a id="s69_371"></a>[LU 12:4.15](/es/The_Urantia_Book/12#p4_15); el primer nivel de espacio gira en el sentido de las agujas del reloj (Ibíd.), etc. Hay un motivo para este flujo alterno en la dirección del movimiento de cada nivel de espacio. También hay un motivo para la organización del espacio (del universo maestro) en seis niveles espaciales. Esos movimientos alternos y esa organización del espacio permiten ejercer el control sobre una presión gravitatoria excesiva y una velocidad y masa excesivas. <a id="s69_860"></a>[LU 11:7.9](/es/The_Urantia_Book/11#p7_9) Esta es una función igualadora realizada por el Absoluto Universal <a id="s69_969"></a>[LU 12:4.16](/es/The_Urantia_Book/12#p4_16), la fuente del movimiento compensatorio <a id="s69_1053"></a>[LU 12:4.11](/es/The_Urantia_Book/12#p4_11): el movimiento designado para igualar todas las tensiones causadas por el resto de movimiento. <a id="s69_1192"></a>[LU 12:4.5](/es/The_Urantia_Book/12#p4_5)
 
 _Los límites del espacio._ El espacio tiene límites en todas direcciones (hacia dentro y hacia fuera, hacia arriba y hacia abajo), así como zonas internas de quietud relativa entre los niveles de espacio. Estos límites se dan como sigue:
-- (a) _Los márgenes interiores del espacio._
+- a) _Los márgenes interiores del espacio._
     > <a id="s73_6"></a>[LU 11:7.4](/es/The_Urantia_Book/11#p7_4) Los márgenes interiores del espacio están en las regiones cercanas al Paraíso
     > 
     > <a id="s75_6"></a>[LU 11:7.1](/es/The_Urantia_Book/11#p7_1) El espacio no toca el Paraíso; las zonas de espacio intermedio están entre los márgenes interiores del espacio y la Isla central.
-- (b) _Los límites superior e inferior del espacio._
+- b) _Los límites superior e inferior del espacio._
     > <a id="s77_6"></a>[LU 11:7.7](/es/The_Urantia_Book/11#p7_7) El espacio está rodeado por arriba y por abajo por zonas de espacio intermedio.
-- (c) _Los límites interiores de los niveles de espacio._
+- c) _Los límites interiores de los niveles de espacio._
     > <a id="s79_6"></a>[LU 11:7.8](/es/The_Urantia_Book/11#p7_8) / <a id="s79_50"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14) Cada nivel de espacio está separado horizontalmente del nivel espacial adyacente por una zona relativamente tranquila. Evidentemente, no hay materializaciones de masa en esas zonas; se habla de ellas como «libres de polvo estelar - de niebla cósmica».
     > 
     > <a id="s81_6"></a>[LU 14:1.8](/es/The_Urantia_Book/14#p1_8) Hay una zona relativamente tranquilla que separa al universo central de los superuniversos. No nos dan sus dimensiones.
     > 
     > <a id="s83_6"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14) La zona relativamente tranquila entre los superuniversos y el primer nivel del espacio exterior tiene cerca de cuatrocientos mil años-luz de anchura.
-- (d) _Los márgenes exteriores del espacio._
+- d) _Los márgenes exteriores del espacio._
     > <a id="s85_6"></a>[LU 11:7.4](/es/The_Urantia_Book/11#p7_4) El espacio se extiende más allá del borde exterior del universo maestro, pero se desconoce cuánto más allá.
     > 
     > <a id="s87_6"></a>[LU 12:5.2](/es/The_Urantia_Book/12#p5_2) / <a id="s87_50"></a>[LU 11:7.3](/es/The_Urantia_Book/11#p7_3) Se desconocen los límites absolutos del espacio. Las zonas de espacio intermedio envuelven finalmente todo el espacio.

@@ -68,7 +68,7 @@ Most of us are apt to think of the Paradise Trinity in a rather careless manner.
 
 In human terms triunity is like a partnership, an association; trinity is like a corporation, a legal entity — not a person, but still an entity. This difference may become even clearer if we compare the functions of the First Triunity with the functions of Paradise Trinity:
 
-(c) _The First Triunity contrasted to the Paradise Trinity_
+\(c\) _The First Triunity contrasted to the Paradise Trinity_
 
 > <a id="s72_2"></a>[UB 104:4.3-6](/en/The_Urantia_Book/104#p4_3) The First Triunity is defined as an association of the Father, the Son, and the Spirit.
 > 
@@ -119,9 +119,9 @@ This clearly differentiates between a _personal association_ of divine persons a
 ## § 3. Evolution of the members of the Trinity Ultimate
 
 Let us again recapitulate the membership of the First Experiential Trinity, the Trinity Ultimate, but with a slight variation in the usual order of listing:
-- (a) The Supreme Being
-- (b) The Master Architects
-- (c) The Supreme Creators
+- a) The Supreme Being
+- b) The Master Architects
+- c) The Supreme Creators
 
 Earlier in this Appendix we computed the number of personalities that are related to the membership in this trinity and found that it totaled 1,428,04 individuals. But in actuality neither this trinity nor any other trinity has a membership of personalities. The Trinity Ultimate has three members, and only three members, and none of them is a personality. Personalities do not unite to constitute a trinity — trinity is a deity union, not personality association. <a id="s125_466"></a>[UB 106:5.3](/en/The_Urantia_Book/106#p5_3) Perhaps the membership of the Trinity Ultimate should be analyzed a little more carefully.
 
@@ -180,9 +180,9 @@ We are informed that the evolution of the Almighty is to the Corps of the Suprem
 (This kind of speculative reasoning can, of course, be challenged as failing in logic, but it can hardly be challenged as either unwarranted or unwise, for the Papers <a id="s179_167"></a>[UB 30:0.2](/en/The_Urantia_Book/30#p0_2) seem to encourage this sort of “creative speculation.”)
 
 If our rather lengthy reasoning about the probable members of the Trinity Ultimate is substantially correct, then such members would be precisely described only if they were designated as follows:
-- (a) The Deity of the Supreme Being
-- (b) The Deity of the Corps of the Master Architects
-- (c) The Deity of the Corps of the Supreme Creators
+- a) The Deity of the Supreme Being
+- b) The Deity of the Corps of the Master Architects
+- c) The Deity of the Corps of the Supreme Creators
 
 In the same sense, the Paradise Trinity is only loosely designated as the union of the Father, the Son, and the Spirit. A more precise (but obviously more awkward) designation would be: the union of the Deity of the Father, the Deity of the Son, and the Deity of the Spirit.
 
@@ -190,21 +190,21 @@ In the same sense, the Paradise Trinity is only loosely designated as the union 
 
 The Papers have quite a little to say about the present status and functions, and the future status and functions, of the First Experiential Trinity. Consider the following citations:
 
-- (a) _Present status_
+- a) _Present status_
   > <a id="s193_4"></a>[UB 0:12.5](/en/The_Urantia_Book/0#p12_5) The experiential trinities are not  yet fully real; they are in process of being actualized.
   > 
   > <a id="s195_4"></a>[UB 117:7.4](/en/The_Urantia_Book/117#p7_4) The Trinity Ultimate could hardly form as a factual reality until after the complete emergence of the Supreme. But this trinity is now a “qualified reality” and the Qualified Vicegerents of the Ultimate are now in existence.
 
 While the Trinity Ultimate is not yet fully real, neither is it quite correct to say that it is not real. Perhaps we should classify it as a “becoming reality” and, as such, functional to a limited (but expanding) degree in the present universe age.
 
-- (b) _Present functions_
+- b) _Present functions_
   > <a id="s200_4"></a>[UB 106:3.5](/en/The_Urantia_Book/106#p3_5) Physical and spiritual evolution  are unifying on finite levels in the Supreme, and on transcendental levels in  the First Experiential Trinity.
   > 
   > <a id="s202_4"></a>[UB 31:10.10](/en/The_Urantia_Book/31#p10_10) The mobilization of the seven finaliter corps is more than a response to the directive action of the Supreme; it discloses the directive activities of the First Experiential Trinity in the process of mobilizing both the finite and the absonite resources, forces, and personalities, in preparation for future developments in the outer space universes.
 
 The Trinity Ultimate is certainly functioning in the present universe age despite the incomplete status of the Supreme Being and the unfinished estate of the Corps of the Supreme Creators — not all universe Sons and Spirits have been commissioned, neither have they all finished their personal evolutionary growth as universe makers.
 
-- (c) _Future functions_
+- c) _Future functions_
   > <a id="s207_4"></a>[UB 10:5.5](/en/The_Urantia_Book/10#p5_5) / <a id="s207_48"></a>[UB 10:8.2](/en/The_Urantia_Book/10#p8_2) / <a id="s207_92"></a>[UB 106:3.5](/en/The_Urantia_Book/106#p3_5) The Paradise Trinity now co-ordinates ultimate realities, but it does this as a self-qualified absolute; the First Experiential Trinity will co-ordinate transcendentals as a transcendental.
   > 
   > <a id="s209_4"></a>[UB 106:3.2](/en/The_Urantia_Book/106#p3_2) The Trinity Ultimate is destined to bring about a further evolutionary unification of the master universe.
@@ -218,9 +218,9 @@ The functions of the Trinity Ultimate will likely dominate the activities of the
 ## § 5. Unification of the Trinity Ultimate
 
 We know that the Trinity Ultimate is less than infinite because it embraces “derived Deities,” beings derived from that which was produced by the action of the Paradise Trinity. <a id="s219_178"></a>[UB 0:12.3](/en/The_Urantia_Book/0#p12_3) Since the attainment goals of the Trinity Ultimate are also less than infinite, this trinity can unify in completion. <a id="s219_338"></a>[UB 0:12.6,8](/en/The_Urantia_Book/0#p12_6) The Trinity Ultimate apparently has three experiential goals:
-- (a) The co-ordination of the entire master universe <a id="s220_54"></a>[UB 106:4.2](/en/The_Urantia_Book/106#p4_2)
-- (b) Its own experiential unification <a id="s221_39"></a>[UB 0:12.8](/en/The_Urantia_Book/0#p12_8) (We should not forget that Deity unity in the post-Havona creations “is an achievement.” <a id="s221_170"></a>[UB 56:5.4](/en/The_Urantia_Book/56#p5_4))
-- (c) The power-personalization of the Ultimate <a id="s222_48"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
+- a) The co-ordination of the entire master universe <a id="s220_54"></a>[UB 106:4.2](/en/The_Urantia_Book/106#p4_2)
+- b) Its own experiential unification <a id="s221_39"></a>[UB 0:12.8](/en/The_Urantia_Book/0#p12_8) (We should not forget that Deity unity in the post-Havona creations “is an achievement.” <a id="s221_170"></a>[UB 56:5.4](/en/The_Urantia_Book/56#p5_4))
+- c) The power-personalization of the Ultimate <a id="s222_48"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
 
 We advance the theory that these goals will be achieved in four broad stages and each of these stages will be associated with the invasion, the exploration, the development, and the final settling, of one of the outer space levels. There are four of these outer space levels and the conquest of each should be attended by corresponding progress in the co-ordination of the master universe, the unification of the Trinity Ultimate, and the emergence (the power-personalization) of God the Ultimate. Apparently all three goals will be simultaneously attained at the close of the Sixth Universe Age, the final development and settling of the Quartan Space Level, and the final emergence of God the Ultimate. ([Appendix XVIII § 1](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-emergence-of-the-ultimate))
 
@@ -255,9 +255,9 @@ Deduction: Deity can be added together; it is totalable. There is a certain mall
 But, we should raise a point. Is it really impossible for personalities to be combined? How about trinitization? and the union of the two parental beings? Does not such a union constitute a totaling of the parental beings?
 
 The Papers answer these questions as concerns both creatures and creators:
-- (a) _This is not true with creatures_
+- a) _This is not true with creatures_
   > <a id="s258_4"></a>[UB 22:7.7](/en/The_Urantia_Book/22#p7_7) The union of the parents of a creature-trinitized son is a limited union and seems to consist in a “. . . bi-unification of certain spiritual phases of personality . . .”
-- (b) _This is not true with creators_
+- b) _This is not true with creators_
   > <a id="s260_4"></a>[UB 22:7.8](/en/The_Urantia_Book/22#p7_8) When the Father and the Son eternalized the Spirit they “. . . became as one and ever since have been one.”
   > 
   > <a id="s262_4"></a>[UB 10:2.1](/en/The_Urantia_Book/10#p2_1) But this is true only in the sense that the Father cannot function “as the absolute and unqualified personality” except in conjunction with the Son.
@@ -269,8 +269,8 @@ Accordingly, we deduce that personality can enter into certain intimate and limi
 "Personality . . . can unify the identity of any living energy system." <a id="s268_72"></a>[UB 112:0.7](/en/The_Urantia_Book/112#p0_7) But such a personality unification cannot be totaled with other personalities, neither (on deity levels) can it be fragmented. The Eternal Son is an “exclusively personal being” and cannot fragment his nature, as does the Father. <a id="s268_346"></a>[UB 6:5.5](/en/The_Urantia_Book/6#p5_5) The Father is just as much a person as is the Son, but he is “also everything else in addition.” <a id="s268_483"></a>[UB 6:5.6](/en/The_Urantia_Book/6#p5_6) His prepersonal deity can be fragmented <a id="s268_563"></a>[UB 30:1.99](/en/The_Urantia_Book/30#p1_99), personal deity cannot. It is apparently impossible to subtract from personality; it seems to be equally impossible to total personalities. Personality appears to be inconcussible — take it, or leave it — it is as it is.
 
 Deity appears to be employing two techniques that are opposite, complemental, and interacting in the process of achieving maximum self-realization and self-expression. These two techniques are: individualization and unification — the individual and unique articulation of each possible part, and the full and complete unification of all such parts in the whole, without the loss of any factor of identity or individuality in each part. Deity seems to employ the following two techniques to accomplish these ends and to achieve them simultaneously:
-- (a) personality expression, and
-- (b) trinity formation.
+- a) personality expression, and
+- b) trinity formation.
 
 Personality produces an _internal_ unification of the part; trinity eventuates in the _external_ unification of the whole — the whole of whatever (superrmaterial) level that may be concerned. Personality acts in an _intensive_ manner to unify the part; trinity acts in an _extensive_ manner to unify the whole. Such achievement of trinity-total is an existential fact in the central creations; it is an experiential achievement in the outlying universes. <a id="s274_455"></a>[UB 56:5.4](/en/The_Urantia_Book/56#p5_4)
 

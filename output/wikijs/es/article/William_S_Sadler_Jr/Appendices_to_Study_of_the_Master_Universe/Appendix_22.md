@@ -48,7 +48,7 @@ Respecto a la personalidad subabsoluta:
 > 
 > <a id="s48_2"></a>[LU 112:0.5](/es/The_Urantia_Book/112#p0_5) (b) Está relativamente libre de «…las trabas de la causalidad antecedente. Es relativamente creativa o cocreativa».
 > 
-> <a id="s50_2"></a>[LU 112:0.7](/es/The_Urantia_Book/112#p0_7) (c) No tiene identidad en y de sí misma, pero puede «…unificar la identidad de cualquier sistema energético viviente».
+> <a id="s50_2"></a>[LU 112:0.7](/es/The_Urantia_Book/112#p0_7) \(c\) No tiene identidad en y de sí misma, pero puede «…unificar la identidad de cualquier sistema energético viviente».
 
 Deducimos que la personalidad destaca claramente respecto a las tres energías: espíritu, mente y materia. La realidad de estas tres energías puede expresarse tanto en términos cualitativos como cuantitativos. La realidad de la personalidad solo puede expresarse en términos cualitativos. Esto está particularmente bien ilustrado en las estimaciones hechas respecto a los cuatro circuitos absolutos de gravedad. <a id="s52_411"></a>[LU 12:3.1](/es/The_Urantia_Book/12#p3_1) La acción de la gravedad en los dominios de la materia, la mente y el espíritu puede calcularse, pero el funcionamiento del circuito de personalidad del Padre, la gravedad de la personalidad, «no es calculable».
 
@@ -69,21 +69,21 @@ En los reinos físicos, la palabra «poder» (como en la expresión «poder univ
 ## § 2. ¿Por qué tiene lugar la síntesis del poder y la personalidad?
 
 ¿Existe alguna razón o necesidad básica para el proceso de unificación del poder y la personalidad? ¿Hay algo en la naturaleza de Dios, o en la relación que Dios ha establecido, que hace que este proceso sea inherente de manera natural y divinamente inevitable? Con esta pregunta en mente, examinemos la naturaleza de Dios, revisemos la manera en la que ha expresado su naturaleza en la diversidad, consideremos cómo ha coordinado esta diversidad mediante técnicas existenciales. Para hacer esto, será necesario considerar lo siguiente:
-- (a) La unidad absoluta de la naturaleza de Dios
-- (b) La expresión dual de la naturaleza de Dios manifestada
-- (c) La coordinación funcional de la realidad manifestada
-- (d) Una comparación por contraste de los Actuales y los Potenciales
+- a) La unidad absoluta de la naturaleza de Dios
+- b) La expresión dual de la naturaleza de Dios manifestada
+- c) La coordinación funcional de la realidad manifestada
+- d) Una comparación por contraste de los Actuales y los Potenciales
 
 Una vez hemos estudiado lo que sucede existencialmente, deberíamos continuar con la consideración de las repercusiones y las consecuencias experienciales de estas transacciones existenciales.
 
-- (a) _La unidad absoluta de la naturaleza de Dios_
+- a) _La unidad absoluta de la naturaleza de Dios_
   > <a id="s79_4"></a>[LU 4:4.1](/es/The_Urantia_Book/4#p4_1) Dios se define como «…energía intencional (espíritu creador) y voluntad absoluta…».
   > 
   > <a id="s81_4"></a>[LU 56:1.4-5](/es/The_Urantia_Book/56#p1_4) Dios no podría tener naturaleza dual, física y espiritual, porque Dios «está absolutamente unificado». La energía pura y el espíritu puro convergen en su persona, y allí son una.
 
 Comenzamos con la absolutidad de la unidad de Dios. En él no hay algo como energía espiritual y energía no espiritual. En este punto pensamos en un nivel conceptual anterior y ancestral, tanto al espíritu paradisíaco como a la monota paradisíaca.
 
-- (b) _La expresión dual de la naturaleza de Dios manifestada_
+- b) _La expresión dual de la naturaleza de Dios manifestada_
   > <a id="s86_4"></a>[LU 11:9.3](/es/The_Urantia_Book/11#p9_3) Cuando el Padre da expresión al Hijo Original, la repercusión de este acto es la aparición de la Isla del Paraíso. De este modo, Dios proyecta la realidad manifestada en dos direcciones: lo personal-espiritual frente a lo no personal-no espiritual, el Hijo frente al Paraíso.
   > 
   > <a id="s88_4"></a>[LU 42:2.19-20](/es/The_Urantia_Book/42#p2_19) La energía de la Isla del Paraíso se denomina monota; es la expresión no espiritual de la energía del Padre. La energía espiritual del Hijo Eterno es la revelación espiritual de la energía del Padre. En el Paraíso, estas dos energías son de naturaleza aparentemente idéntica; se distinguen solo por el nombre: espíritu paradisíaco y monota paradisíaca.
@@ -98,7 +98,7 @@ Comenzamos con la absolutidad de la unidad de Dios. En él no hay algo como ener
 
 La identidad, la igualdad absoluta, de la monota y el espíritu paradisíaco, es una revelación de la unicidad absoluta, en la naturaleza de Dios, de lo que se convierte en energía espiritual en el Hijo y en energía no espiritual en la Isla eterna. Hay conciencia (cualidad de mente) anterior a la aparición del Actor Conjunto, pero no hay todavía una mente manifestada.
 
-- (c) _La coordinación funcional de la realidad manifestada_
+- c) _La coordinación funcional de la realidad manifestada_
   > <a id="s101_4"></a>[LU 11:9.3](/es/The_Urantia_Book/11#p9_3) La tensión aparece cuando la unidad original de la realidad se proyecta como manifestación en dos direcciones: en el Hijo Eterno y en la Isla eterna. Y entonces, en presencia de esta tensión, el Padre y el Hijo, conjuntamente, se disponen a actuar; esto da expresión al Espíritu y al universo central.
   > 
   > <a id="s103_4"></a>[LU 8:1.3](/es/The_Urantia_Book/8#p1_3) Con la aparición del Espíritu Infinito, «…el ciclo de la eternidad queda establecido. La Trinidad del Paraíso ya existe».
@@ -122,7 +122,7 @@ Estas afirmaciones resistirían un análisis muy cuidadoso, que debería conside
 
 En resumen: en este análisis no observamos que hubiera una síntesis del Hijo Eterno y la Isla del Paraíso. El Paraíso permanece aislado. Lo que sucedió fue la aparición de una tesis triple de la deidad, que culmina en la tesis existencial final de la deidad indivisa: la Trinidad del Paraíso. La Deidad actual está unida y unificada; el Paraíso (que no es deidad) no lo está; está aislada.
 
-- (d) _Una comparación por contraste de los Actuales y los Potenciales_
+- d) _Una comparación por contraste de los Actuales y los Potenciales_
   > <a id="s125_4"></a>[LU 0:11.1](/es/The_Urantia_Book/0#p11_1) El Padre se expresa (como manifestación) en el Hijo, en el Espíritu, en el Paraíso y en Havona. Pero no se expresa de este modo fuera de Havona. Su presencia fuera de Havona está oculta en los «potenciales de la infinidad». Permanece «…oculto en el Absoluto Incalificado y divinamente disimulado en el Absoluto de la Deidad…»
   > 
   > <a id="s127_4"></a>[LU 10:8.4](/es/The_Urantia_Book/10#p8_4) El Absoluto de la Deidad es «…el potencial prepersonal y existencial de la Deidad Total». 
@@ -142,9 +142,9 @@ Creemos que estos son los antecedentes eternos del desafío pos-Havona de la sí
 ## § 3. El desafío de la síntesis del poder y la personalidad
 
 La revelación de Dios nunca puede ser completa. Sería final solo si la capacidad exterior a Havona pudiera agotarse experiencialmente al volverse real; solo si todos los potenciales pudieran emerger como actuales. Esto significaría que tendrían que alcanzarse tres metas:
-- (a) _La manifestación física de Dios_ tendría que volverse experiencialmente infinita. Esto requeriría el agotamiento final de la capacidad para emitir la «materia de las nebulosas» (potencia espacial) en el Absoluto Incalificado. <a id="s144_233"></a>[LU 11:8.8](/es/The_Urantia_Book/11#p8_8) Esto significaría la terminación real, la materialización total, de una creación infinita. Pero se nos enseña que el Absoluto Incalificado no tiene límites. <a id="s144_432"></a>[LU 3:4.2](/es/The_Urantia_Book/3#p4_2)
-- (b) _La manifestación personal de Dios_ tendría que volverse experiencialmente infinita. Esto requeriría la emergencia experiencial completa del Absoluto de la Deidad. La Deidad Absoluta (potencial y existencial) tendría que emerger completamente (actualizarse experiencialmente) como Dios Absoluto. Este sería el equivalente experiencial del Hijo Eterno existencial. El Hijo Eterno es la persona absoluta existencial; la plena emergencia de Dios Absoluto le constituiría como la persona absoluta experiencial. Esto significaría la realización experiencial de la divinidad absoluta. <a id="s145_585"></a>[LU 0:10.1](/es/The_Urantia_Book/0#p10_1)
-- (c) _Unificación_. El Absoluto Incalificado, como se expresa en la creación experiencial infinita, y Dios Absoluto, como deidad experiencial y actual, tendrían que estar unificados completa y experiencialmente.
+- a) _La manifestación física de Dios_ tendría que volverse experiencialmente infinita. Esto requeriría el agotamiento final de la capacidad para emitir la «materia de las nebulosas» (potencia espacial) en el Absoluto Incalificado. <a id="s144_233"></a>[LU 11:8.8](/es/The_Urantia_Book/11#p8_8) Esto significaría la terminación real, la materialización total, de una creación infinita. Pero se nos enseña que el Absoluto Incalificado no tiene límites. <a id="s144_432"></a>[LU 3:4.2](/es/The_Urantia_Book/3#p4_2)
+- b) _La manifestación personal de Dios_ tendría que volverse experiencialmente infinita. Esto requeriría la emergencia experiencial completa del Absoluto de la Deidad. La Deidad Absoluta (potencial y existencial) tendría que emerger completamente (actualizarse experiencialmente) como Dios Absoluto. Este sería el equivalente experiencial del Hijo Eterno existencial. El Hijo Eterno es la persona absoluta existencial; la plena emergencia de Dios Absoluto le constituiría como la persona absoluta experiencial. Esto significaría la realización experiencial de la divinidad absoluta. <a id="s145_585"></a>[LU 0:10.1](/es/The_Urantia_Book/0#p10_1)
+- c) _Unificación_. El Absoluto Incalificado, como se expresa en la creación experiencial infinita, y Dios Absoluto, como deidad experiencial y actual, tendrían que estar unificados completa y experiencialmente.
 
 ¡Es impensable el agotamiento experiencial de los potenciales de los tres Absolutos sin límites! Pero, a medida que consideramos su relación existencial, encontramos que los tres Absolutos ya son uno; están unificados en y por el Absoluto Universal. Dios es existencial en la eternidad, y así tiene una «autoconciencia de la infinidad» _existencial_. Pero se necesitará otra eternidad para lograr la autorrealización experiencial de lo que está contenido en los depósitos sin límites de los tres Absolutos (Los cinco párrafos anteriores son un análisis de la página 645, párrafos 3 al 5, (<a id="s148_589"></a>[LU 56:9.9-11](/es/The_Urantia_Book/56#p9_9) de los Documentos).
 
@@ -157,24 +157,24 @@ La unificación experiencial de los tres Absolutos sería la síntesis final y u
 A partir de la definición de personalidad y poder, hemos visto que su síntesis tiene lugar a través de la unificación de la energía organizada (física, mental y espiritual) y la personalidad. Hemos señalado que la personalidad nunca se manifiesta por sí misma, y descubriremos que la naturaleza de las personalizaciones de la deidad que participan en estas transacciones es siempre de personalidad espiritual. Descubriremos que esta unificación del poder y la personalidad tiene lugar en tres niveles: absoluto, absonito y finito.
 
 La realidad original está eternamente presente en el nivel existencial y absoluto; y se proporcionaron «…dos niveles subabsolutos y evolutivos en los que se manifiestan la personalidad y el poder en el universo maestro» <a id="s158_220"></a>[LU 0:12.1](/es/The_Urantia_Book/0#p12_1) Al mismo tiempo, deberíamos reconocer que la Trinidad del Paraíso «es existencial en actualidad» <a id="s158_359"></a>[LU 0:12.2](/es/The_Urantia_Book/0#p12_2), pero en su función, «todos los potenciales son experienciales» (Ibíd.) La Trinidad, desde el principio, tiene el potencial de actuar en tres niveles: <a id="s158_552"></a>[LU 106:8.9](/es/The_Urantia_Book/106#p8_9)
-- (a) _Funciones finitas_. Cuando la Trinidad actúa en relación con el nivel finito de la realidad, se denomina la Trinidad de Supremacía . <a id="s159_140"></a>[LU 10:5.4](/es/The_Urantia_Book/10#p5_4)
-- (b) _Funciones absonitas_. Cuando la Trinidad actúa en relación con el nivel absonito de la realidad, se designa como la Trinidad de Ultimidad. <a id="s160_146"></a>[LU 10:8.2](/es/The_Urantia_Book/10#p8_2)
-- (c) _Funciones absolutas_. Cuando la Trinidad funciona en sentido absoluto, esta acción es la acción de la Deidad Total, la activación de la Deidad Absoluta. <a id="s161_160"></a>[LU 10:8.3-4](/es/The_Urantia_Book/10#p8_3)
+- a) _Funciones finitas_. Cuando la Trinidad actúa en relación con el nivel finito de la realidad, se denomina la Trinidad de Supremacía . <a id="s159_140"></a>[LU 10:5.4](/es/The_Urantia_Book/10#p5_4)
+- b) _Funciones absonitas_. Cuando la Trinidad actúa en relación con el nivel absonito de la realidad, se designa como la Trinidad de Ultimidad. <a id="s160_146"></a>[LU 10:8.2](/es/The_Urantia_Book/10#p8_2)
+- c) _Funciones absolutas_. Cuando la Trinidad funciona en sentido absoluto, esta acción es la acción de la Deidad Total, la activación de la Deidad Absoluta. <a id="s161_160"></a>[LU 10:8.3-4](/es/The_Urantia_Book/10#p8_3)
 
 Ahora bien, deberíamos tener muy en cuenta que estas acciones de la Trinidad del Paraíso son de potencial experiencial. La Trinidad es objetivamente existencial, pero sus potenciales son experienciales. Por eso hay tres deidades experienciales potenciales: Supremo, Último y Absoluto.
 
 Estas tres deidades experienciales se están personalizando en sus respectivos niveles porque la Trinidad del Paraíso actúa originariamente en estos niveles, y porque dichas actividades son de potencial experiencial. Podemos resumir esto de nuevo, pero desde otra perspectiva:
-- (a) _Dios Supremo_. La primera deidad experiencial se está personalizando en poder «…en el primer… nivel de las criaturas donde se revela la Deidad unificadora…» <a id="s166_164"></a>[LU 0:2.16](/es/The_Urantia_Book/0#p2_16)
-- (b) _Dios Último_. La segunda deidad experiencial se está personalizando en poder en «…el segundo nivel experiencial donde se manifesta la Deidad unificadora.» <a id="s167_162"></a>[LU 0:2.17](/es/The_Urantia_Book/0#p2_17)
-- (c) _Dios Absoluto_. La tercera deidad experiencial se está personalizando en «…el tercer nivel de expresión de expansión de la Deidad unificadora». <a id="s168_151"></a>[LU 0:2.18](/es/The_Urantia_Book/0#p2_18)
+- a) _Dios Supremo_. La primera deidad experiencial se está personalizando en poder «…en el primer… nivel de las criaturas donde se revela la Deidad unificadora…» <a id="s166_164"></a>[LU 0:2.16](/es/The_Urantia_Book/0#p2_16)
+- b) _Dios Último_. La segunda deidad experiencial se está personalizando en poder en «…el segundo nivel experiencial donde se manifesta la Deidad unificadora.» <a id="s167_162"></a>[LU 0:2.17](/es/The_Urantia_Book/0#p2_17)
+- c) _Dios Absoluto_. La tercera deidad experiencial se está personalizando en «…el tercer nivel de expresión de expansión de la Deidad unificadora». <a id="s168_151"></a>[LU 0:2.18](/es/The_Urantia_Book/0#p2_18)
 
 Ignoremos de momento a Dios Absoluto, y consideremos las dos deidades experienciales que se personalizan en poder en los niveles subabsolutos: el Supremo y el Último. Su aparición en estos dos niveles hace inevitable la formación de las dos trinidades experienciales. <a id="s170_268"></a>[LU 0:12.1](/es/The_Urantia_Book/0#p12_1) La correlación de la suma total de todas las actividades de la divinidad en el nivel finito se personaliza en poder en Dios Supremo, y se unifica impersonalmente en la primera Trinidad experiencial: la Trinidad Última. Del mismo modo, la correlación de la suma total de todas las actividades de la divinidad en el nivel absonito se personaliza en poder en Dios Último y se unifica impersonalmente en la segunda Trinidad experiencial: la Trinidad Absoluta.
 
 Se nos informa de que una trinidad siempre busca abarcar todas las realidades posibles de deidad <a id="s172_97"></a>[LU 0:12.4](/es/The_Urantia_Book/0#p12_4), y que las realidades de la deidad siempre buscan realizarse y manifestarse en la personalización (Ibíd.) Por tanto, las deidades experienciales están seguras de hacerse reales porque son potenciales en la Trinidad del Paraíso (Ibíd.); y las trinidades experienciales están seguras de aparecer debido a la evolución de las deidades experienciales. Esto parece como una reacción en cadena.
 
 Las deidades experienciales pueden ser potenciales en la Trinidad del Paraíso, pero su emergencia actual en la escena cósmica de acción depende de dos cosas:
-- (a) Sus propios esfuerzos, «…su propia labor experiencial en los universos de poder y de personalidad…» <a id="s175_106"></a>[LU 0:12.4](/es/The_Urantia_Book/0#p12_4), y
-- (b) Los logros de «los Creadores y Trinidades posteriores a Havona» (Ibíd.)
+- a) Sus propios esfuerzos, «…su propia labor experiencial en los universos de poder y de personalidad…» <a id="s175_106"></a>[LU 0:12.4](/es/The_Urantia_Book/0#p12_4), y
+- b) Los logros de «los Creadores y Trinidades posteriores a Havona» (Ibíd.)
 
 > **RESUMEN: PRESENTACIÓN FUNCIONAL DE DIOS SÉPTUPLE**
 > 
@@ -195,15 +195,15 @@ No hay ninguna trinidad experiencial que sea presuprema. La _primera_ de las dei
 Lo que hizo en realidad la Trinidad del Paraíso fue crear a la persona espiritual de Dios Supremo <a id="s194_98"></a>[LU 0:7.7](/es/The_Urantia_Book/0#p7_7); <a id="s194_139"></a>[LU 0:8.10](/es/The_Urantia_Book/0#p8_10), y esta persona espiritual es el centro volitivo de toda la unificación finita del poder y la personalidad.
 
 _Dios Séptuple_. El Ser Supremo emerge como resultado de los logros evolutivos de Dios Séptuple, como resultado de la colaboración satisfactoria entre los Creadores Supremos y las Deidades del Paraíso. <a id="s196_202"></a>[LU 0:8.1](/es/The_Urantia_Book/0#p8_1) En el resumen anterior se hace hincapié en esta relación, y destaca los tres niveles del Séptuple:
-- (a) Los Creadores Supremos: los creadores pos-Havona.
-- (b) El Ser Supremo: la primera deidad experiencial.
-- (c) Las Deidades del Paraíso: Padre, Hijo y Espíritu.
+- a) Los Creadores Supremos: los creadores pos-Havona.
+- b) El Ser Supremo: la primera deidad experiencial.
+- c) Las Deidades del Paraíso: Padre, Hijo y Espíritu.
 
 La emergencia evolutiva del Ser Supremo tuene lugar en ausencia de la unificación de toda trinidad experiencial; no hay ninguna que se pueda unificar. El crecimiento del Supremo es el resultado de la interacción de los tres niveles de Dios Séptuple. Internamente, también se da cierta unificación que tiene lugar en la Deidad Séptuple: el Cuerpo de los Creadores Supremos sí consigue la unificación experiencial que constituye (en el sentido de la deidad unificada) uno de los tres miembros de la primera Trinidad experiencial.
 
 _¿Por qué converge el poder del Todopoderoso?_ ¿Qué es lo que hace que los actos del espacio-tiempo y los esfuerzos de los creadores del espacio-tiempo se focalice en el poder convergente del Todopoderoso? Se nos informa de que hay dos «unidades» en las creaciones del espacio-tiempo que interactúan para causar esta convergencia entrante de poder experiencial. <a id="s203_362"></a>[LU 56:6.1-2](/es/The_Urantia_Book/56#p6_1) Se presentan como sigue:
-- (a) _La unidad de la divinidad_. La divinidad de propósito en los Creadores Supremos da como resultado el «potencial de poder unificador» del Todopoderoso (Se recordará que la divinidad se define como «…la cualidad característica, unificadora y coordinadora de la Deidad» (<a id="s204_275"></a>[LU 0:1.16](/es/The_Urantia_Book/0#p1_16))
-- (b) _La unidad-energía impersonal del universo_. Este es el origen, en relación al cual la «divinidad de propósito» establece una tensión; una tensión que puede resolverse únicamente a medida que el potencial de poder del Todopoderoso se unifica con la persona espiritual del Supremo.
+- a) _La unidad de la divinidad_. La divinidad de propósito en los Creadores Supremos da como resultado el «potencial de poder unificador» del Todopoderoso (Se recordará que la divinidad se define como «…la cualidad característica, unificadora y coordinadora de la Deidad» (<a id="s204_275"></a>[LU 0:1.16](/es/The_Urantia_Book/0#p1_16))
+- b) _La unidad-energía impersonal del universo_. Este es el origen, en relación al cual la «divinidad de propósito» establece una tensión; una tensión que puede resolverse únicamente a medida que el potencial de poder del Todopoderoso se unifica con la persona espiritual del Supremo.
 
 > **RESUMEN: PRESENTACIÓN GENERAL DE LA DEIDAD SÉPTUPLE**
 > 
@@ -265,8 +265,8 @@ _Una nueva relación entre el Arquetipo y la Persona._ La unificación de los as
 > <a id="s264_2"></a>[LU 10:2.2](/es/The_Urantia_Book/10#p2_2) El Hijo Eterno es la personalidad absoluta.
 
 Observaciones:
-- (a) La Isla del Paraíso es el mecanismo absoluto: el Hijo Eterno es la persona absoluta.
-- (b) El Absoluto Incalificado es un mecanismo teórico: el Absoluto de la Deidad es una persona potencial (absoluta).
+- a) La Isla del Paraíso es el mecanismo absoluto: el Hijo Eterno es la persona absoluta.
+- b) El Absoluto Incalificado es un mecanismo teórico: el Absoluto de la Deidad es una persona potencial (absoluta).
 
 Evidentemente, algo nuevo está teniendo lugar en la emergencia evolutiva de la deidad experiencial. Allí parece haber un ámbito más amplio para esa realidad que está siendo focalizada en poder y luego unificada en personalidad. Este ámbito parece ser total en lo que respecta a nivel de realidad en el cual tiene lugar la unificación del poder y la personalidad: finito total y absonito total. En las deidades experienciales todo (materia, mente y espíritu) se está uniendo con la personalidad.
 
@@ -291,9 +291,9 @@ En el Paraíso no hay diferencia discernible ni mesurable entre el espíritu y l
 _La actividad personal del Supremo._ Sabemos que las deidades experienciales crecen en parte como resultado de sus propios esfuerzos, «…de su propia labor experiencial en los universos de poder y de personalidad…». <a id="s290_215"></a>[LU 0:12.4](/es/The_Urantia_Book/0#p12_4) Esto significa que cada deidad experiencial emergente forma parte activa en el proceso de crecimiento evolutivo; «participa de manera volitiva y creativa» en la realización de su propia deidad. <a id="s290_451"></a>[LU 117:3.7](/es/The_Urantia_Book/117#p3_7)
 
 La persona espiritual del Supremo «se deriva de la Trinidad», y su poder todopoderoso «evoluciona gracias a los creadores» (Ibíd.) y trabaja personalmente en los «universos de poder y personalidad». También crece a medida que es capaz de realizar experiencialmente «los potenciales asociativos y creativos» de la Deidad del Paraíso. <a id="s292_333"></a>[LU 0:7.1](/es/The_Urantia_Book/0#p7_1) Hemos encontrado antes estas tres palabras (asociativo, creativo y potencial), que describían tres de los siete niveles de la función de la Deidad Total. <a id="s292_527"></a>[LU 0:1.5-7](/es/The_Urantia_Book/0#p1_5) En relación con la manifestación de la Deidad, se definen como sigue:
-- (a) Nivel creativo, «Deidad que se distribuye a sí misma y se revela de manera divina.»
-- (b) Nivel asociativo, «Deidad que se ha personalizado a sí misma y divinamente fraternal».
-- (c) Nivel potencial, «Deidad con una voluntad y una finalidad propias».
+- a) Nivel creativo, «Deidad que se distribuye a sí misma y se revela de manera divina.»
+- b) Nivel asociativo, «Deidad que se ha personalizado a sí misma y divinamente fraternal».
+- c) Nivel potencial, «Deidad con una voluntad y una finalidad propias».
 
 El Ser Supremo está implicado en hacer real (actualizar) ciertos potenciales de estos tres niveles. La Deidad del Paraíso ha llenado previamente estos tres niveles existencialmente (y lo seguirá haciendo); ahora delega en el Supremo (y el Último) para llenarlos experiencialmente.
 
@@ -364,16 +364,16 @@ Estos, pues, son algunos de los elementos de la divinidad paradisíaca que enriq
 ## § 7. El nivel absonito: el estatus presupremo
 
 Cuando llevamos a cabo el estudio de la unificación del poder y la personalidad en el nivel absonito, consideramos algo que es inseparable del desarrollo de todo el universo maestro. Si limitamos nuestra atención a las eras pos-Havona del crecimiento del universo maestro, estas se agrupan en dos divisiones principales:
-> - (a)_ Estatus presupremo_: el estado de las cosas anterior a la emergencia del Ser Supremo y de todo lo que está asociado con él, y
-> - (b) _Estatus pos-supremo_: el estado de las cosas del universo maestro posterior a la plena emergencia del Ser Supremo, y de todo lo asociado con su evolución terminada.
+> - a)_ Estatus presupremo_: el estado de las cosas anterior a la emergencia del Ser Supremo y de todo lo que está asociado con él, y
+> - b) _Estatus pos-supremo_: el estado de las cosas del universo maestro posterior a la plena emergencia del Ser Supremo, y de todo lo asociado con su evolución terminada.
 
 En esta sección, proponemos examinar el control y el supercontrol que se ejerce actualmente en relación con el universo maestro, tal como existe en el tiempo presente, previo a la emergencia del Ser Supremo.
 
 El universo maestro está controlado existencialmente por la Trinidad de la Ultimidad (por la Trinidad del Paraíso cuando actúa en relación con lo absonito). <a id="s371_157"></a>[LU 12:6.8](/es/The_Urantia_Book/12#p6_8); <a id="s371_200"></a>[LU 10:5.5](/es/The_Urantia_Book/10#p5_5) Desde el punto de vista experiencial, el control de todo el universo maestro es la función:
-- (a) Potencial: de los tres Absolutos.
-- (b) De dirección: del Último que emerge.
-- (c) De coordinación evolutiva: del Supremo que emerge.
-- (d) De preadministración: de los Arquitectos Maestros <a id="s375_56"></a>[LU 12:6.9-12](/es/The_Urantia_Book/12#p6_9)
+- a) Potencial: de los tres Absolutos.
+- b) De dirección: del Último que emerge.
+- c) De coordinación evolutiva: del Supremo que emerge.
+- d) De preadministración: de los Arquitectos Maestros <a id="s375_56"></a>[LU 12:6.9-12](/es/The_Urantia_Book/12#p6_9)
 
 En esta relación, el Supremo y el Último actúan como potenciales (como los Absolutos) más que como actuales. Modifican y condicionan los potenciales incondicionados de los Absolutos. Hacen madurar estos potenciales para su utilización en lo absonito y en los niveles finitos de actividad creativa-evolutiva (Vean el [Apéndice VII § 2, La maduración de los potenciales](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-2-la-maduración-de-los-potenciales).
 
@@ -386,10 +386,10 @@ Este, pues, es el retrato de la coordinación de los asuntos del universo maestr
 ## § 8. El nivel absonito: el estatus pos-Supremo
 
 La emergencia evolutiva final del Ser Supremo introduce cuatro elementos nuevos en el nivel absonito de la realidad:
-- (a) _La primera Trinidad experiencial_. Con la emergencia del Ser Supremo, la Trinidad Última puede formarse como realidad objetiva. Es un miembro de esta trinidad, junto con los Creadores Supremos y los Arquitectos Maestros. <a id="s388_228"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
-- (b) _El Ser Supremo_. El Ser Supremo tendrá una función futura en los universos del espacio exterior como deidad experiencial posfinita (absonita) Esta es su función terciaria, que contrasta con su función primaria (en Havona, como persona espiritual) y con su función secundaria (en los superuniversos como personalidad de poder). <a id="s389_334"></a>[LU 116:0.5](/es/The_Urantia_Book/116#p0_5) Entre otras cosas, esta función terciaria en el universo maestro se visualiza como la actividad de un superomnipotente (Ibíd.) y como la expresión de un potencial mental desconocido. <a id="s389_561"></a>[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)
-- (c) _El Cuerpo de los Creadores Supremos._ El Cuerpo de los Creadores Supremos. La evolución finalizada del Todopoderoso Supremo (en el espacio y el tiempo) es al Cuerpo de los Creadores Supremos lo que la aparición del Espíritu Infinito (en la eternidad y en el Paraíso) es para la asociación del Padre y el Hijo. <a id="s390_317"></a>[LU 116:2.14](/es/The_Urantia_Book/116#p2_14) Deducimos que la evolución terminada del Todopoderoso Supremo califica experiencialmente a la Deidad emergida y unificada del Cuerpo de los Creadores Supremos para actuar como miembro de la primera Trinidad experiencial. ([Apéndice X § 3](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolución-de-los-miembros-de-la-trinidad-última)) Al mismo tiempo, este desarrollo podría liberar los potenciales superfinitos de los Hijos Creadores para su acción absonita. <a id="s390_868"></a>[LU 119:8.6](/es/The_Urantia_Book/119#p8_6) Se nos informa de que los Ancianos de los Días (entre los Hijos Estacionarios de la Trinidad) no son «limitados finitos». <a id="s390_1034"></a>[LU 19:4.8-9](/es/The_Urantia_Book/19#p4_8) Y también se nos informa de que los Espíritus Maestros tienen atributos superfinitos. <a id="s390_1164"></a>[LU 16:1.3-4](/es/The_Urantia_Book/16#p1_3)
-- (d) _Criaturas pos-finitas_. Estas son todas las criaturas, perfectas y perfeccionadas, que han participado en el crecimiento evolutivo del Supremo, que escapan de las limitaciones previas (finitas) en asociación con él, y que comienzan la nueva aventura hacia una nueva meta de existencia de criatura en los nuevos niveles de la realidad última. <a id="s391_349"></a>[LU 0:7.10](/es/The_Urantia_Book/0#p7_10); <a id="s391_392"></a>[LU 117:5.4](/es/The_Urantia_Book/117#p5_4) Esta emergencia de criaturas exfinitas en el nivel absonito es un resultado directo del logro de divinidad de Dios Séptuple en las creaciones del espacio-tiempo: los siete superuniversos.
+- a) _La primera Trinidad experiencial_. Con la emergencia del Ser Supremo, la Trinidad Última puede formarse como realidad objetiva. Es un miembro de esta trinidad, junto con los Creadores Supremos y los Arquitectos Maestros. <a id="s388_228"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
+- b) _El Ser Supremo_. El Ser Supremo tendrá una función futura en los universos del espacio exterior como deidad experiencial posfinita (absonita) Esta es su función terciaria, que contrasta con su función primaria (en Havona, como persona espiritual) y con su función secundaria (en los superuniversos como personalidad de poder). <a id="s389_334"></a>[LU 116:0.5](/es/The_Urantia_Book/116#p0_5) Entre otras cosas, esta función terciaria en el universo maestro se visualiza como la actividad de un superomnipotente (Ibíd.) y como la expresión de un potencial mental desconocido. <a id="s389_561"></a>[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)
+- c) _El Cuerpo de los Creadores Supremos._ El Cuerpo de los Creadores Supremos. La evolución finalizada del Todopoderoso Supremo (en el espacio y el tiempo) es al Cuerpo de los Creadores Supremos lo que la aparición del Espíritu Infinito (en la eternidad y en el Paraíso) es para la asociación del Padre y el Hijo. <a id="s390_317"></a>[LU 116:2.14](/es/The_Urantia_Book/116#p2_14) Deducimos que la evolución terminada del Todopoderoso Supremo califica experiencialmente a la Deidad emergida y unificada del Cuerpo de los Creadores Supremos para actuar como miembro de la primera Trinidad experiencial. ([Apéndice X § 3](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolución-de-los-miembros-de-la-trinidad-última)) Al mismo tiempo, este desarrollo podría liberar los potenciales superfinitos de los Hijos Creadores para su acción absonita. <a id="s390_868"></a>[LU 119:8.6](/es/The_Urantia_Book/119#p8_6) Se nos informa de que los Ancianos de los Días (entre los Hijos Estacionarios de la Trinidad) no son «limitados finitos». <a id="s390_1034"></a>[LU 19:4.8-9](/es/The_Urantia_Book/19#p4_8) Y también se nos informa de que los Espíritus Maestros tienen atributos superfinitos. <a id="s390_1164"></a>[LU 16:1.3-4](/es/The_Urantia_Book/16#p1_3)
+- d) _Criaturas pos-finitas_. Estas son todas las criaturas, perfectas y perfeccionadas, que han participado en el crecimiento evolutivo del Supremo, que escapan de las limitaciones previas (finitas) en asociación con él, y que comienzan la nueva aventura hacia una nueva meta de existencia de criatura en los nuevos niveles de la realidad última. <a id="s391_349"></a>[LU 0:7.10](/es/The_Urantia_Book/0#p7_10); <a id="s391_392"></a>[LU 117:5.4](/es/The_Urantia_Book/117#p5_4) Esta emergencia de criaturas exfinitas en el nivel absonito es un resultado directo del logro de divinidad de Dios Séptuple en las creaciones del espacio-tiempo: los siete superuniversos.
 
 Estos, pues, son los nuevos elementos que aparecerán en el nivel absoluto de la realidad en la Tercera Era del Universo, y actuará a lo largo de cada una de las eras pos-supremas (tercera, cuarta, quinta y sexta) de los niveles del espacio exterior. Se añadirán a las fuerzas, personalidades e influencias que funcionaron previamente en los niveles del espacio exterior del universo maestro, y en el nivel absoluto de la realidad (los Arquitectos del Universo Maestro y la Trinidad de la Ultimidad, la Trinidad del Paraíso que actúa en relación con lo absonito)
 
@@ -427,10 +427,10 @@ _Relaciones del Último con el Séptuple (¿o Décuple?)_. Se nos informa de que
 Hay una diferencia importante entre la Deidad Séptuple y la (posible) Deidad Décuple: el Séptuple está coordinado únicamente por la Deidad existencial del Paraíso; tanto el Espíritu Infinito como el Padre Universal son miembros funcionales de Dios Séptuple y de los Controladores Séptuples <a id="s426_290"></a>[LU 116:2.5-11](/es/The_Urantia_Book/116#p2_5); <a id="s426_338"></a>[LU 116:5.2-8](/es/The_Urantia_Book/116#p5_2), y también es así en la Deidad Décuple. Pero, además, el Décuple disfrutará también de la coordinación experiencial del Ser Supremo terminado.
 
 _El Último en relación con el Supremo._ Nuestros intentos de imaginar las técnicas de la síntesis del poder y la personalidad en el nivel absonito se ven complicados por el hecho de que Dios Último es la segunda de las deidades experienciales (Dios Supremo es la primera) No hay deidad experiencial total previa al Supremo (excepto por la acción colectiva intermitente de los Siete Espíritus Maestros), sino que todo el proceso de crecimiento del Último (en las eras pos-supremas) depende de la presencia previa del Supremo actualizado. Vemos cuatro relaciones emergentes entre el Último en proceso de actualizarse y el Supremo terminado:
-- (a) _A través de la primera Trinidad experiencial_. La Trinidad Última está en proceso de unificarse en las eras pos-supremas. El Ser Supremo es un miembro de esta trinidad. <a id="s429_176"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6); (1165.7) 106.5.2
-- (b) _Dentro de la segunda Trinidad experiencial (emergente)_. Tanto el Supremo como el Último son miembros de esta trinidad <a id="s430_126"></a>[LU 0:12.7](/es/The_Urantia_Book/0#p12_7), y la Trinidad Absoluta existe únicamente como realidad calificada en las eras pos-supremas. <a id="s430_261"></a>[LU 117:7.4](/es/The_Urantia_Book/117#p7_4) Esta trinidad no puede formarse objetivamente hasta el cierre de la Sexta Era del Universo y la terminación del universo maestro. <a id="s430_435"></a>[LU 106:5.1](/es/The_Urantia_Book/106#p5_1)
-- (c) _Dentro de Dios Décuple_. El Supremo, junto con el Último, estará presente de nuevo en esta relación de la Deidad Décuple. ([Apéndice XII § 4](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-4-se-convertirá-el-séptuple-en-décuple-en-el-espacio-exterior)) Suponemos que Dios Décuple (una expansión de Dios Séptuple) funcionará en los universos del espacio exterior.
-- (d) _Directamente como intermediario de dos deidades experienciales_. Parece probable que el Supremo y el Último tengan una relación directa. Su relación es la asociación fundamental de la deidad subabsoluta; juntos correlacionan todo el crecimiento del universo maestro (creación, evolución y existenciación), todo el cambio progresivo. <a id="s432_340"></a>[LU 118:0.9](/es/The_Urantia_Book/118#p0_9) Parece probable que esta relación presagie su acción futura como el Supremo-Último. ([Apéndice XXV](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25)) Quizá la relación implique también a la Trinidad de Trinidades. ([Apéndice XXIII § 4 - 6](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23#h-4-trinitización-supremo-último)) En cualquier caso, la relación parece ser una parte de la función terciaria del Ser Supremo en el universo maestro. ([Apéndice XI § 3](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11#h-3-el-supremo-en-el-universo-interior-y-en-los-universos-exteriores))
+- a) _A través de la primera Trinidad experiencial_. La Trinidad Última está en proceso de unificarse en las eras pos-supremas. El Ser Supremo es un miembro de esta trinidad. <a id="s429_176"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6); (1165.7) 106.5.2
+- b) _Dentro de la segunda Trinidad experiencial (emergente)_. Tanto el Supremo como el Último son miembros de esta trinidad <a id="s430_126"></a>[LU 0:12.7](/es/The_Urantia_Book/0#p12_7), y la Trinidad Absoluta existe únicamente como realidad calificada en las eras pos-supremas. <a id="s430_261"></a>[LU 117:7.4](/es/The_Urantia_Book/117#p7_4) Esta trinidad no puede formarse objetivamente hasta el cierre de la Sexta Era del Universo y la terminación del universo maestro. <a id="s430_435"></a>[LU 106:5.1](/es/The_Urantia_Book/106#p5_1)
+- c) _Dentro de Dios Décuple_. El Supremo, junto con el Último, estará presente de nuevo en esta relación de la Deidad Décuple. ([Apéndice XII § 4](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-4-se-convertirá-el-séptuple-en-décuple-en-el-espacio-exterior)) Suponemos que Dios Décuple (una expansión de Dios Séptuple) funcionará en los universos del espacio exterior.
+- d) _Directamente como intermediario de dos deidades experienciales_. Parece probable que el Supremo y el Último tengan una relación directa. Su relación es la asociación fundamental de la deidad subabsoluta; juntos correlacionan todo el crecimiento del universo maestro (creación, evolución y existenciación), todo el cambio progresivo. <a id="s432_340"></a>[LU 118:0.9](/es/The_Urantia_Book/118#p0_9) Parece probable que esta relación presagie su acción futura como el Supremo-Último. ([Apéndice XXV](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25)) Quizá la relación implique también a la Trinidad de Trinidades. ([Apéndice XXIII § 4 - 6](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23#h-4-trinitización-supremo-último)) En cualquier caso, la relación parece ser una parte de la función terciaria del Ser Supremo en el universo maestro. ([Apéndice XI § 3](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11#h-3-el-supremo-en-el-universo-interior-y-en-los-universos-exteriores))
 
 El Ser Supremo parece ser el enlace que conecta todas las relaciones experienciales de la deidad emergente de Dios Último.
 

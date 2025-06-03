@@ -50,7 +50,7 @@ With regard to subabsolute personality:
 > 
 > <a id="s50_2"></a>[UB 112:0.5](/en/The_Urantia_Book/112#p0_5) (b) It is relatively free from “. . . the fetters of antecedent causation. It is relatively creative or cocreative.”
 > 
-> <a id="s52_2"></a>[UB 112:0.7](/en/The_Urantia_Book/112#p0_7) (c) It does not have identity in and of itself, but it can “. . . unify the identity of any living energy system.”
+> <a id="s52_2"></a>[UB 112:0.7](/en/The_Urantia_Book/112#p0_7) \(c\) It does not have identity in and of itself, but it can “. . . unify the identity of any living energy system.”
 
 We deduce: Personality stands in sharp contrast to the three energies — spirit, mind, and matter. The reality of these three energies can be expressed in terms of both quality and quantity. The reality of personality can be expressed in terms of quality only. This is particularly well illustrated in the estimates made concerning the four absolute gravity circuits. <a id="s54_367"></a>[UB 12:3.1](/en/The_Urantia_Book/12#p3_1) The action of gravity in the domains of matter, mind, and spirit can be computed — but the operation of the Father's personality circuit, personality gravity, “is noncomputable.”
 
@@ -71,21 +71,21 @@ In the physical realms, the word “power” (as in the phrase “universe power
 ## § 2. Why does Power-Personality synthesis take place?
 
 Is there a basic reason, or need, for the process of power-personality unification? Is there something in the nature of God, or in the relationships which God has established, that makes this process inherently natural and divinely inevitable? With this question in mind let us examine the nature of God, review the manner in which he has expressed his nature in diversity; and then, consider how he has co-ordinated this diversity by existential techniques. To do this, it will be necessary to consider the following:
-- (a) The absolute unity of God's nature
-- (b) The dual expression of God's nature in actuality
-- (c) The functional co-ordination of actual reality
-- (d) A contrastive comparison of Actuals and Potentials
+- a) The absolute unity of God's nature
+- b) The dual expression of God's nature in actuality
+- c) The functional co-ordination of actual reality
+- d) A contrastive comparison of Actuals and Potentials
 
 After we have studied what happened existentially, we should go on to consider the experiential repercussions and consequences of these existential transactions.
 
-- (a) _The absolute unity of God's nature_
+- a) _The absolute unity of God's nature_
   > <a id="s81_4"></a>[UB 4:4.1](/en/The_Urantia_Book/4#p4_1) God is defined as “. . . purposive energy (creative spirit) and absolute will . . .”
   > 
   > <a id="s83_4"></a>[UB 56:1.4-5](/en/The_Urantia_Book/56#p1_4) God could not possibly be dual in nature, physical and spiritual, because God “is absolutely unified.” Pure energy and pure spirit both converge in his person, and there they are one.
 
 We start out with the absoluteness of God's unity. In him there is no such thing as spirit energy and not-spirit energy. At this point we are thinking on a concept level that is prior, and ancestral, to both Paradise spirit and Paradise monota.
 
-- (b) _The dual expression of God's nature in actuality_
+- b) _The dual expression of God's nature in actuality_
   > <a id="s88_4"></a>[UB 11:9.3](/en/The_Urantia_Book/11#p9_3) When the Father gives expression to the Original Son, the repercussion to this act is the appearance of the Isle of Paradise. God thus projects actual reality in two directions: the personal-spiritual versus the nonpersonal-nonspiritual, the Son versus Paradise.
   > 
   > <a id="s90_4"></a>[UB 42:2.19-20](/en/The_Urantia_Book/42#p2_19) The energy of the Paradise Isle is called monota; it is the nonspiritual expression of the energy of the Father. The spiritual energy of the Eternal Son is the spiritual revelation of the energy of the Father. On Paradise these two energies are apparently identical in nature; they are distinguished only by name — Paradise spirit and Paradise monota.
@@ -100,7 +100,7 @@ We start out with the absoluteness of God's unity. In him there is no such thing
 
 The identity, the absolute sameness, of monota and spirit on Paradise is a revelation of the absolute oneness, in the nature of God, of that which becomes spirit energy in the Son and nonspirit energy in the eternal Isle. There is consciousness (mindedness) prior to the appearance of the Conjoint Actor, but there is, as yet, no actual mind.
 
-- (c) _The functional co-ordination of actual reality_
+- c) _The functional co-ordination of actual reality_
   > <a id="s103_4"></a>[UB 11:9.3](/en/The_Urantia_Book/11#p9_3) Tension appears when the original unity of reality is projected, as actuality, in two directions: in the Eternal Son, and as the eternal Isle. And then, in the presence of this tension the Father and the Son, jointly, will act; this gives expression to the Spirit and to the central universe.
   > 
   > <a id="s105_4"></a>[UB 8:1.3](/en/The_Urantia_Book/8#p1_3) With the appearance of the Infinite Spirit, “ . . . the cycle of eternity is established. The Paradise Trinity is existent.”
@@ -124,7 +124,7 @@ These statements will stand some very careful analysis. This analysis should car
 
 To summarize: In this analysis we did not observe that there was a synthesis of the Eternal Son and the Isle of Paradise. Paradise remains isolated. What did happen was the appearance of a threefold thesis of deity, culminating in the final existential thesis of undivided deity — the Paradise Trinity. Actual Deity is united and unified; Paradise (which is nondeity) is not, it is isolated.
 
-- (d) _A contrastive comparison of Actuals and Potentials_
+- d) _A contrastive comparison of Actuals and Potentials_
   > <a id="s127_4"></a>[UB 0:11.1](/en/The_Urantia_Book/0#p11_1) The Father expresses himself (as an actuality) in the Son, in the Spirit, and in Paradise and Havona. But he does not thus express himself outside of Havona. His extra-Havona presence is concealed in the “potentials of infinity.” He remains “. . . space concealed in the Unqualified Absolute and divinely enshrouded in the Deity Absolute . . .”
   > 
   > <a id="s129_4"></a>[UB 10:8.4](/en/The_Urantia_Book/10#p8_4) The Deity Absolute is “. . . the prepersonal and existential potential of total Deity.”
@@ -144,9 +144,9 @@ We believe this is the eternity background of the post-Havona challenge of power
 ## § 3. The challenge of Power-Personality Synthesis
 
 The revelation of God can never be complete. It could become final only if all extra-Havona capacity could become experientially exhausted by becoming real — only if all potentials could emerge as actuals. This would mean that three goals would have to be reached:
-- (a) _God's physical manifestation_ would have to become experientially infinite. This would require the final exhaustion of the capacity to give forth the “stuff of nebulae” (space potency) in the Unqualified Absolute. <a id="s146_221"></a>[UB 11:8.8](/en/The_Urantia_Book/11#p8_8) This would mean the actual completion, the total materialization, of an infinite creation. But we have been instructed that the Unqualified absolute is limitless. <a id="s146_426"></a>[UB 3:4.2](/en/The_Urantia_Book/3#p4_2)
-- (b) _God's personal manifestation_ would have to become experientially infinite. This would require the completed experiential emergence of the Deity Absolute. The (potential and existential) Deity Absolute would have to emerge completely (actualize experientially) as God the Absolute. This would be the experiential equivalent of the existential Eternal Son. The Eternal Son is the existential absolute person; the full emergence of God the Absolute would constitute him the experiential absolute person. This would mean the experiential realization of absolute divinity. <a id="s147_576"></a>[UB 0:10.1](/en/The_Urantia_Book/0#p10_1)
-- (c) _Unification_. The Unqualified Absolute as expressed in the infinite experiential creation, and God the Absolute as an experiential and actual deity, would have to be completely and experientially unified.
+- a) _God's physical manifestation_ would have to become experientially infinite. This would require the final exhaustion of the capacity to give forth the “stuff of nebulae” (space potency) in the Unqualified Absolute. <a id="s146_221"></a>[UB 11:8.8](/en/The_Urantia_Book/11#p8_8) This would mean the actual completion, the total materialization, of an infinite creation. But we have been instructed that the Unqualified absolute is limitless. <a id="s146_426"></a>[UB 3:4.2](/en/The_Urantia_Book/3#p4_2)
+- b) _God's personal manifestation_ would have to become experientially infinite. This would require the completed experiential emergence of the Deity Absolute. The (potential and existential) Deity Absolute would have to emerge completely (actualize experientially) as God the Absolute. This would be the experiential equivalent of the existential Eternal Son. The Eternal Son is the existential absolute person; the full emergence of God the Absolute would constitute him the experiential absolute person. This would mean the experiential realization of absolute divinity. <a id="s147_576"></a>[UB 0:10.1](/en/The_Urantia_Book/0#p10_1)
+- c) _Unification_. The Unqualified Absolute as expressed in the infinite experiential creation, and God the Absolute as an experiential and actual deity, would have to be completely and experientially unified.
 
 The experiential exhaustion of the potentials of the three limitless Absolutes is unthinkable. But, as we look at their existential relationship we find that the three Absolutes are already one; they are unified in, and by, the Universal Absolute. God is existential in eternity, and so he has an _existential_ “self consciousness of infinity.” But it will require another eternity to achieve the _experiential_ self-realization of what is contained in the limitless reservoirs of the three Absolutes. (The five preceding paragraphs are an analysis of page 645, paragraphs two to four, (<a id="s150_587"></a>[UB 56:9.9-11](/en/The_Urantia_Book/56#p9_9) in the Papers.)
 
@@ -159,24 +159,24 @@ The experiential unification of the three Absolutes would be the final, and the 
 — We have seen from the definitions of personality and power, that their synthesis takes place through the unification of organized energy (physical, mindal, and spiritual) with personality. We have noted that personality is never manifested by itself, and we will find that the nature of the deity personalizations that participate in these transactions is always spirit-personality. We will discover that this unification of power and personality is taking place on three levels — absolute, absonite, and finite.
 
 Original Reality is eternally present on the existential and absolute level; and provision was made for “. . . two subabsolute and evolutional levels of power-personality manifestations in the master universe.” <a id="s160_211"></a>[UB 0:12.1](/en/The_Urantia_Book/0#p12_1) At the same time, we should recognize that the Paradise Trinity “is existential in actuality” <a id="s160_347"></a>[UB 0:12.2](/en/The_Urantia_Book/0#p12_2), but in function, “all potentials are experiential.” (ibid) The Trinity, from the beginning, has a potential for function on three levels: <a id="s160_528"></a>[UB 106:8.9](/en/The_Urantia_Book/106#p8_9)
-- (a) _Finite functions._ When the Trinity acts in relation to the finite level of reality, it is denominated the Trinity of Supremacy. <a id="s161_136"></a>[UB 10:5.4](/en/The_Urantia_Book/10#p5_4)
-- (b) _Absonite functions._ When the Trinity acts in relation to the absonite level of reality, it is designated the Trinity of Ultimacy. <a id="s162_138"></a>[UB 10:8.2](/en/The_Urantia_Book/10#p8_2)
-- (c) _Absolute functions._ When the Trinity functions in the absolute sense, this action is the action of Total Deity, the activation of the Deity Absolute. <a id="s163_158"></a>[UB 10:8.3-4](/en/The_Urantia_Book/10#p8_3)
+- a) _Finite functions._ When the Trinity acts in relation to the finite level of reality, it is denominated the Trinity of Supremacy. <a id="s161_136"></a>[UB 10:5.4](/en/The_Urantia_Book/10#p5_4)
+- b) _Absonite functions._ When the Trinity acts in relation to the absonite level of reality, it is designated the Trinity of Ultimacy. <a id="s162_138"></a>[UB 10:8.2](/en/The_Urantia_Book/10#p8_2)
+- c) _Absolute functions._ When the Trinity functions in the absolute sense, this action is the action of Total Deity, the activation of the Deity Absolute. <a id="s163_158"></a>[UB 10:8.3-4](/en/The_Urantia_Book/10#p8_3)
 
 Now, we should carefully bear in mind that the actions on the part of the Paradise Trinity are experiential in potential. The Trinity is existential in fact, but its potentials are experiential. This is why there are three potential experiential — deities — Supreme, Ultimate, and Absolute.
 
 These three experiential deities are personalizing on their respective levels because the Paradise Trinity originally functions on these levels, and because such functions are experiential in potential. We can summarize this again, from still another perspective:
-- (a) _God the Supreme._ The first experiential deity is power-personalizing “. . . on the first . . . level of unifying Deity revelation . . .” <a id="s168_145"></a>[UB 0:2.16](/en/The_Urantia_Book/0#p2_16)
-- (b) _God the Ultimate._ The second experiential deity is power-personalizing on “. . . the second experiential level of unifying Deity manifestation.” <a id="s169_153"></a>[UB 0:2.17](/en/The_Urantia_Book/0#p2_17)
-- (c) _God the Absolute._ The third experiential deity is power-personalizing on “. . . the third level of unifying Deity expression and expansion.” <a id="s170_149"></a>[UB 0:2.18](/en/The_Urantia_Book/0#p2_18)
+- a) _God the Supreme._ The first experiential deity is power-personalizing “. . . on the first . . . level of unifying Deity revelation . . .” <a id="s168_145"></a>[UB 0:2.16](/en/The_Urantia_Book/0#p2_16)
+- b) _God the Ultimate._ The second experiential deity is power-personalizing on “. . . the second experiential level of unifying Deity manifestation.” <a id="s169_153"></a>[UB 0:2.17](/en/The_Urantia_Book/0#p2_17)
+- c) _God the Absolute._ The third experiential deity is power-personalizing on “. . . the third level of unifying Deity expression and expansion.” <a id="s170_149"></a>[UB 0:2.18](/en/The_Urantia_Book/0#p2_18)
 
 Let us, for the moment, ignore God the Absolute and consider the two experiential deities that are power-personalizing on subabsolute levels — the Supreme and the Ultimate. Their appearance on these two levels makes the formation of the two experiential trinities inevitable. <a id="s172_276"></a>[UB 0:12.1](/en/The_Urantia_Book/0#p12_1) The correlation of the sum total of all divinity activities on the finite level power-personalizes in God the Supreme and unifies impersonally in the First Experiential Trinity — the Trinity Ultimate. Likewise, the correlation of the sum total of all divinity activities on the absonite level power-personalizes in God the Ultimate and unifies impersonally in the Second Experiential Trinity — the Trinity Absolute.
 
 We are informed that a trinity always reaches out to envelop all possible deity realities <a id="s174_90"></a>[UB 0:12.4](/en/The_Urantia_Book/0#p12_4), and that deity realities are always seeking for the completeness of self-realization in personalization. (ibid) The experiential deities are, therefore, certain to factualize because they are potential in the Paradise Trinity (ibid); and the experiential trinities are certain to appear because of the evolution of the experiential deities. This appears to be something of a chain reaction.
 
 The experiential deities may be potential in the Paradise Trinity, but their actual emergence on the cosmic scene of action is dependent on two things:
-- (a) Their own efforts, “. . . their own experiential functioning in the universes of power and personality . . .” <a id="s177_116"></a>[UB 0:12.4](/en/The_Urantia_Book/0#p12_4), and
-- (b) The achievements of “the post-Havona Creators and Trinities.” (ibid)
+- a) Their own efforts, “. . . their own experiential functioning in the universes of power and personality . . .” <a id="s177_116"></a>[UB 0:12.4](/en/The_Urantia_Book/0#p12_4), and
+- b) The achievements of “the post-Havona Creators and Trinities.” (ibid)
 
 > **SUMMARY: A FUNCTIONAL PRESENTATION OF GOD THE SEVENFOLD**
 > 
@@ -197,15 +197,15 @@ There is no experiential trinity that is pre-supreme. The _first_ of the evoluti
 What the Paradise Trinity actually did was to produce the spirit person of God the Supreme <a id="s196_91"></a>[UB 0:7.7](/en/The_Urantia_Book/0#p7_7); <a id="s196_132"></a>[UB 0:8.10](/en/The_Urantia_Book/0#p8_10), and this sprit person is the volitional focal point of all finite power-personality unification.
 
 _God the Sevenfold._ The Supreme Being emerges as a result of the evolutionary achievements of God the Sevenfold, as a result of the successful collaboration between the Supreme Creators and the Deities of Paradise. <a id="s198_216"></a>[UB 0:8.1](/en/The_Urantia_Book/0#p8_1) This relationship is emphasized in the summary appearing on the facing page. This summary stresses the three levels of the Sevenfold:
-- (a) The Supreme Creators — the post-Havona creators
-- (b) The Supreme Being — the first experiential deity
-- (c) The Paradise Deities — Father, Son, and Spirit
+- a) The Supreme Creators — the post-Havona creators
+- b) The Supreme Being — the first experiential deity
+- c) The Paradise Deities — Father, Son, and Spirit
 
 The evolutionary emergence of the Supreme Being takes place in the absence of the unification of any experiential trinity; none is in existence that could unify. The growth of the Supreme is the result of the interaction of the three levels of God the Sevenfold. Internally, there is also a certain unification that takes place in the Sevenfold Deity: The Corps of the Supreme Creators does achieve an experiential unification that constitutes it (in the unified deity sense) one of the three members of the First Experiential Trinity.
 
 _Why does Almighty power converge?_ What is it that causes the time-space acts and efforts of time-space creators to focalize in the converging power of the Almighty? We are informed that there are two “unities” in the time-space creations that so interact as to cause this inflowing convergence of experiential power. <a id="s205_319"></a>[UB 56:6.1-2](/en/The_Urantia_Book/56#p6_1) These are presented as follows:
-- (a) _The unity of divinity._ The divinity of purpose in the Supreme Creators results in the “unifying power potential” of the Almighty. (It will be recalled that divinity is defined as “. . . the characteristic, unifying, and co-ordinating quality of Deity.” (<a id="s206_262"></a>[UB 0:1.16](/en/The_Urantia_Book/0#p1_16))
-- (b) _The impersonal energy-unity of the universe._ This is the background, in relation to which the “divinity of purpose” sets up a tension; a tension that can be resolved only as the power potential of the Almighty unifies with the spirit person of the Supreme.
+- a) _The unity of divinity._ The divinity of purpose in the Supreme Creators results in the “unifying power potential” of the Almighty. (It will be recalled that divinity is defined as “. . . the characteristic, unifying, and co-ordinating quality of Deity.” (<a id="s206_262"></a>[UB 0:1.16](/en/The_Urantia_Book/0#p1_16))
+- b) _The impersonal energy-unity of the universe._ This is the background, in relation to which the “divinity of purpose” sets up a tension; a tension that can be resolved only as the power potential of the Almighty unifies with the spirit person of the Supreme.
 
 > **SUMMARY: A GENERAL PRESENTATION OF THE SEVENFOLD DEITY**
 > 
@@ -267,8 +267,8 @@ _A new relationship between Pattern and Person._ The unification of the other-th
 > <a id="s266_2"></a>[UB 10:2.2](/en/The_Urantia_Book/10#p2_2) The Eternal Son is the absolute personality.
 
 Observations:
-- (a) The Paradise Isle is the absolute mechanism; the Eternal Son is the absolute person.
-- (b) The Unqualified Absolute is a theoretical mechanism; the Deity Absolute is a potential (absolute) person.
+- a) The Paradise Isle is the absolute mechanism; the Eternal Son is the absolute person.
+- b) The Unqualified Absolute is a theoretical mechanism; the Deity Absolute is a potential (absolute) person.
 
 Something new is evidently taking place in the evolutionary emergence of experiential deity. There appears to be a wider scope to that reality which is being power-focalized, then personality-unified. This scope appears to be total as concerns the level of reality on which power-personality unification is taking place — total finite, and total absonite. In the experiential deities everything — matter, mind, and spirit — is being unified with personality.
 
@@ -293,9 +293,9 @@ On Paradise there is neither discernible nor measurable difference between spiri
 _The personal activity of the Supreme._ We know that the experiential deities grow partly as a result of their own efforts “. . . their own experiential functioning in the universes of power and personality . . . ” <a id="s292_215"></a>[UB 0:12.4](/en/The_Urantia_Book/0#p12_4) This means that each emerging experiential deity takes an active part in the evolutionary growth process; he is “a volitional creative participant” in his own achievement of actualization. <a id="s292_446"></a>[UB 117:3.7](/en/The_Urantia_Book/117#p3_7)
 
 The spirit person of the Supreme is “Trinity derived,” and his almighty power is “creator evolved” (ibid), and he works personally in the “universes of power and personality.” He is also growing as he is able to experientially actualize “the associative-creative potentials” of Paradise Deity. <a id="s294_294"></a>[UB 0:7.1](/en/The_Urantia_Book/0#p7_1) We have encountered these three words before — associative, creative, and potential — words used to describe three of the seven levels of Total Deity function. <a id="s294_494"></a>[UB 0:1.5-7](/en/The_Urantia_Book/0#p1_5) They are defined, in relation to the manifestation of Deity, as follows:
-- (a) Creative level, “self-distributive and divinely revealed”
-- (b) Associative level, “self-personalized and divinely fraternal”
-- (c) Potential level, “self-willed and self-purposive”
+- a) Creative level, “self-distributive and divinely revealed”
+- b) Associative level, “self-personalized and divinely fraternal”
+- c) Potential level, “self-willed and self-purposive”
 
 The Supreme Being is engaged in making real (actualizing) certain potentials of these three levels. Paradise Deity has previously filled, and will continue to fill, these three levels existentially; it now devolves upon the Supreme (and the Ultimate) to fill them experientially.
 
@@ -372,10 +372,10 @@ When we undertake the study of power-personality unification on the absonite lev
 In this section we propose to examine the control, and the overcontrol, that is now being exercised in relation to the master universe, as it presently exists, prior to the emergence of the Supreme Being.
 
 The master universe is controlled, existentially, by the Trinity of Ultimacy — by the Paradise Trinity functioning in relation to the absonite. <a id="s373_144"></a>[UB 12:6.8](/en/The_Urantia_Book/12#p6_8); <a id="s373_187"></a>[UB 10:5.5](/en/The_Urantia_Book/10#p5_5) From the experiential standpoint, the control of the total master universe is the function of:
-- (a) In potential — by the three Absolutes
-- (b) In direction — by the emerging Ultimate
-- (c) In evolutionary co-ordination — by the emerging Supreme
-- (d) In pre-administration — by the Master Architects <a id="s377_55"></a>[UB 12:6.9-12](/en/The_Urantia_Book/12#p6_9)
+- a) In potential — by the three Absolutes
+- b) In direction — by the emerging Ultimate
+- c) In evolutionary co-ordination — by the emerging Supreme
+- d) In pre-administration — by the Master Architects <a id="s377_55"></a>[UB 12:6.9-12](/en/The_Urantia_Book/12#p6_9)
 
 In this relationship, the Supreme and the Ultimate are functioning as potentials (like the Absolutes), rather than actuals. They are modifying and conditioning the unconditioned potentials of the Absolutes. They are maturing these potentials for utilization on the absonite, and on the finite levels of creative-evolutional activity. (See [Appendix VII § 2, The Maturation of potentials](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-2-the-maturation-of-potentials).)
 
@@ -388,10 +388,10 @@ This, then, is the picture of the co-ordination of the affairs of the master uni
 ## § 8. The Absonite Level: Post-Supreme Status
 
 The final evolutionary emergence of the Supreme Being introduces four new elements into the absonite level of reality:
-- (a) _The First Experiential Trinity._ With the emergence of the Supreme Being, the Trinity Ultimate can form as a factual reality. He is a member of this trinity, together with the Supreme Creators and the Master Architects. <a id="s390_227"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
-- (b) _The Supreme Being._ The Supreme Being will have a future function in the outer space universes as a postfinite (absonite) experiential deity. This is his tertiary function, and it stands in contrast to his primary function (in Havona as a spirit person), and to his secondary function (in the superuniverses as a personality of power). <a id="s391_343"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5) Among other things, this tertiary function in the master universe is visualized as the activity of a superalmighty (ibid), and as the expression of some unknown aspect of mind. <a id="s391_564"></a>[UB 110:1.5](/en/The_Urantia_Book/110#p1_5)
-- (c) _The Corps of Supreme Creators._ The finished evolution of the Almighty Supreme (in time and space) is to the Corps of the Supreme Creators what the appearance of the Infinite Spirit (in eternity and on Paradise) is to the partnership of the Father and the Son. <a id="s392_268"></a>[UB 116:2.14](/en/The_Urantia_Book/116#p2_14) We deduce that the completed evolution of the Almighty Supreme experientially qualifies the emerged and unified Deity of the Corps of the Supreme Creators to function as a member of the First Experiential Trinity. ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)) At the same time, this development may release the superfinite potentials of the Creator Sons for absonite function. <a id="s392_805"></a>[UB 119:8.6](/en/The_Urantia_Book/119#p8_6) We are informed that the Ancients of Days (among the Stationary Sons of the Trinity) are not “finite limited.” <a id="s392_960"></a>[UB 19:4.8-9](/en/The_Urantia_Book/19#p4_8) And we are also informed that the Master Spirits have attributes that are superfinite. <a id="s392_1091"></a>[UB 16:1.3-4](/en/The_Urantia_Book/16#p1_3)
-- (d) _Postfinite creatures._ These are all the creatures, perfect and perfected, who have participated in the evolutionary growth of the Supreme, and in association with him escape previous (finite) limitations, and begin the new adventure toward a new goal of creature existence on new levels of ultimate reality. <a id="s393_316"></a>[UB 0:7.10](/en/The_Urantia_Book/0#p7_10); <a id="s393_359"></a>[UB 117:5.4](/en/The_Urantia_Book/117#p5_4) This emergence of ex-finite creatures on the absonite level is a direct result of the divinity success of God the Sevenfold in the time-space creations — the seven superuniverses.
+- a) _The First Experiential Trinity._ With the emergence of the Supreme Being, the Trinity Ultimate can form as a factual reality. He is a member of this trinity, together with the Supreme Creators and the Master Architects. <a id="s390_227"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
+- b) _The Supreme Being._ The Supreme Being will have a future function in the outer space universes as a postfinite (absonite) experiential deity. This is his tertiary function, and it stands in contrast to his primary function (in Havona as a spirit person), and to his secondary function (in the superuniverses as a personality of power). <a id="s391_343"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5) Among other things, this tertiary function in the master universe is visualized as the activity of a superalmighty (ibid), and as the expression of some unknown aspect of mind. <a id="s391_564"></a>[UB 110:1.5](/en/The_Urantia_Book/110#p1_5)
+- c) _The Corps of Supreme Creators._ The finished evolution of the Almighty Supreme (in time and space) is to the Corps of the Supreme Creators what the appearance of the Infinite Spirit (in eternity and on Paradise) is to the partnership of the Father and the Son. <a id="s392_268"></a>[UB 116:2.14](/en/The_Urantia_Book/116#p2_14) We deduce that the completed evolution of the Almighty Supreme experientially qualifies the emerged and unified Deity of the Corps of the Supreme Creators to function as a member of the First Experiential Trinity. ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)) At the same time, this development may release the superfinite potentials of the Creator Sons for absonite function. <a id="s392_805"></a>[UB 119:8.6](/en/The_Urantia_Book/119#p8_6) We are informed that the Ancients of Days (among the Stationary Sons of the Trinity) are not “finite limited.” <a id="s392_960"></a>[UB 19:4.8-9](/en/The_Urantia_Book/19#p4_8) And we are also informed that the Master Spirits have attributes that are superfinite. <a id="s392_1091"></a>[UB 16:1.3-4](/en/The_Urantia_Book/16#p1_3)
+- d) _Postfinite creatures._ These are all the creatures, perfect and perfected, who have participated in the evolutionary growth of the Supreme, and in association with him escape previous (finite) limitations, and begin the new adventure toward a new goal of creature existence on new levels of ultimate reality. <a id="s393_316"></a>[UB 0:7.10](/en/The_Urantia_Book/0#p7_10); <a id="s393_359"></a>[UB 117:5.4](/en/The_Urantia_Book/117#p5_4) This emergence of ex-finite creatures on the absonite level is a direct result of the divinity success of God the Sevenfold in the time-space creations — the seven superuniverses.
 
 These, then, are some of the new elements that will appear on the absonite level of reality in the Third Universe Age, and will function throughout each of the post-supreme ages (Third, Fourth, Fifth, and Sixth) of the outer space levels. They will add to the forces, personalities, and influences, that previously operated in the outer space levels of the master universe, and on the absonite level of reality — the Architects of the Master Universe and the Trinity of Ultimacy (the Paradise Trinity functioning in relation to the absonite.)
 
@@ -429,10 +429,10 @@ _Relationship of the Ultimate to the Sevenfold (or Tenfold?)_ We are informed th
 There is one important difference between the Sevenfold Deity and the (possible) Tenfold Deity: The Sevenfold is co-ordinated only by existential Paradise Deity; both the Infinite Spirit and the Universal Father are functional members of God the Sevenfold and of the Sevenfold Controllers <a id="s428_289"></a>[UB 116:2.5-11](/en/The_Urantia_Book/116#p2_5); <a id="s428_337"></a>[UB 116:5.2-8](/en/The_Urantia_Book/116#p5_2), and this is also the case with the Tenfold Deity. But, in addition, the Tenfold will enjoy the experiential co-ordination of the completed Supreme Being.
 
 _The Ultimate in relation to the Supreme._ Our attempts to visualize the techniques of power-personality synthesis on the absonite level are complicated by the fact that God the Ultimate is the second of the experiential deities — God the Supreme is the first. There is no total experiential deity prior to the Supreme (except for the intermittent collective function of the Seven Master Spirits) but the entire growth process of the Ultimate (in the post-supreme ages) is dependent on the prior presence of the actualized Supreme. We see four relationships emerging between the actualizing Ultimate and the completed Supreme:
-- (a) _Through the First Experiential Trinity._ The Trinity Ultimate is in process of unifying the post-supreme ages. The Supreme Being is a member of this trinity. <a id="s431_165"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6); (1165.7) 106.5.2
-- (b) _Within the (emerging) Second Experiential Trinity._ Both the Supreme and the Ultimate are members of this trinity <a id="s432_121"></a>[UB 0:12.7](/en/The_Urantia_Book/0#p12_7), and the Trinity Absolute exists only as a qualified reality in the post-supreme ages. <a id="s432_250"></a>[UB 117:7.4](/en/The_Urantia_Book/117#p7_4) This trinity cannot factually form until the close of the Sixth Universe Age and the completion of the master universe. <a id="s432_414"></a>[UB 106:5.1](/en/The_Urantia_Book/106#p5_1)
-- (c) _Within God the Tenfold._ The Supreme will again be present in this relationship of the Tenfold Deity along with the Ultimate. ([Appendix XII § 4](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-4-will-the-sevenfold-become-tenfold-in-outer-space)) Presumably God the Tenfold (an expansion of God the Sevenfold) will be operative in the outer space universes.
-- (d) _Directly, as between two experiential deities._ It seems likely that the Supreme and the Ultimate have (or will have) a direct relationship. Their relationship is the fundamental association of subabsolute deity; together they correlate all master-universe growth — creation, evolution, and eventuation — all progressive change. <a id="s434_336"></a>[UB 118:0.9](/en/The_Urantia_Book/118#p0_9) It appears likely that his relationship foreshadows their future function as the Supreme-Ultimate. ([Appendix XXV](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25)) The relationship may also possibly involve the Trinity of Trinities. ([Appendix XXIII § 4 - 6](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23#h-4-supreme-ultimate-trinitization)) In any event, the relationship appears to be a part of the tertiary function of the Supreme Being in the master universe. ([Appendix XI § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11#h-3-the-supreme-in-the-inner-and-the-outer-universes))
+- a) _Through the First Experiential Trinity._ The Trinity Ultimate is in process of unifying the post-supreme ages. The Supreme Being is a member of this trinity. <a id="s431_165"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6); (1165.7) 106.5.2
+- b) _Within the (emerging) Second Experiential Trinity._ Both the Supreme and the Ultimate are members of this trinity <a id="s432_121"></a>[UB 0:12.7](/en/The_Urantia_Book/0#p12_7), and the Trinity Absolute exists only as a qualified reality in the post-supreme ages. <a id="s432_250"></a>[UB 117:7.4](/en/The_Urantia_Book/117#p7_4) This trinity cannot factually form until the close of the Sixth Universe Age and the completion of the master universe. <a id="s432_414"></a>[UB 106:5.1](/en/The_Urantia_Book/106#p5_1)
+- c) _Within God the Tenfold._ The Supreme will again be present in this relationship of the Tenfold Deity along with the Ultimate. ([Appendix XII § 4](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-4-will-the-sevenfold-become-tenfold-in-outer-space)) Presumably God the Tenfold (an expansion of God the Sevenfold) will be operative in the outer space universes.
+- d) _Directly, as between two experiential deities._ It seems likely that the Supreme and the Ultimate have (or will have) a direct relationship. Their relationship is the fundamental association of subabsolute deity; together they correlate all master-universe growth — creation, evolution, and eventuation — all progressive change. <a id="s434_336"></a>[UB 118:0.9](/en/The_Urantia_Book/118#p0_9) It appears likely that his relationship foreshadows their future function as the Supreme-Ultimate. ([Appendix XXV](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25)) The relationship may also possibly involve the Trinity of Trinities. ([Appendix XXIII § 4 - 6](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23#h-4-supreme-ultimate-trinitization)) In any event, the relationship appears to be a part of the tertiary function of the Supreme Being in the master universe. ([Appendix XI § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11#h-3-the-supreme-in-the-inner-and-the-outer-universes))
 
 The Supreme Being appears to be the connecting link between all of the experiential relationships of the emerging deity of God the Ultimate.
 

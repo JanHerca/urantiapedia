@@ -102,7 +102,7 @@ Al superuniverso número 6 deberíamos encontrarlo quizá entre las direcciones 
 El universo central estaría más o menos en la dirección 0 de la Vía Láctea y quizá a una distancia de 2 millones de años luz. Insisto en que en toda esta deducción el párrafo [LU 15:1.4](/es/The_Urantia_Book/15#p1_4) es clave. Si esto es cierto, el universo central estaría en el mismo plano que la Vía Láctea y en la dirección 0 (vean Fig, 1) ¡Precisamente la de mayor densidad dentro del plano de mayor densidad! ¡Qué casualidad! la zona más «tapada» a nuestra vista de todo el universo. No puedo resistirme a la cita: «_Cuando el ángulo de observación es propicio, dirigiendo la mirada a través del cuerpo principal de este dominio de máxima densidad, estaréis mirando hacia el universo residencial y el centro de todas las cosas_» ([LU 15:3.3](/es/The_Urantia_Book/15#p3_3))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Astronomia_urantiana_una_vision_personal/01.png">
+<img src="/image/article/Spain_Association/Astronomia_urantiana_una_vision_personal/01.jpg">
 <figcaption>Fig. 1.</figcaption>
 </figure>
 

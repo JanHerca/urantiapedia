@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/406px-Lucas_Cranach.jpg">
+<img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/Fraunhofer-lines-in-the-solar-spectrum.jpg">
 <figcaption><em>Surfing the sunbcams requires energy that atomic calcium acquires from sunlight. The H and K bands are seen at top left of this spectrum made with a 14ft spectroheliograph.</em> <a href="https://www.researchgate.net/figure/Fraunhofer-lines-in-the-solar-spectrum.jpg">ResearchGate</a></figcaption>
 </figure>
 

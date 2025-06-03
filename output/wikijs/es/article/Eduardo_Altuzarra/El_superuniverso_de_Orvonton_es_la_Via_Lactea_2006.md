@@ -45,67 +45,95 @@ Los Universos Locales si que pueden llegar a tener extremidades según el grado 
 
 Una Constelación es una parte administrativa de un Universo Local, un Sistema Local es otra parte administrativa y unos Sistemas Físicos son la parte más pequeña del espacio, con 1, 2 ó 3 soles, varios planetas y diversos satélites.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/01.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/02.jpg">
 <figcaption>Agrupación circular alargada como un reloj. <a href="/es/The_Urantia_Book/15#p3_1">LU 15:3.1</a>. Los Universos están metidos en procesión ordenada, bien comprendida y perfectamente controlada. <a href="/es/The_Urantia_Book/15#p1_1">LU 15:1.1</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/03.jpg">
 <figcaption>De este modo se ve una parte de ORVONTON, un plano alargado cuya anchura en mucho más grande que el espesor, y cuya longitud es mayor que su anchura. <a href="/es/The_Urantia_Book/15#p3_1">LU 15:3.1</a>.</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/04.jpg">
 <figcaption>Si saliéramos fuera, al espacio exterior veríamos una agrupación inmensa de nubes de estrellas, medianamente ordenadas y divisaríamos los diferentes sectores administrativos.</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/05.jpg">
 <figcaption>Nos tenemos que conformar con ver lo que nos rodea del modo que se representa.</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/06.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/07.jpg">
 <figcaption>El Súper universo de ORVONTON puede ser o contener la Vía Láctea<br>El súper universo de Orvonton está iluminado y calentado por más de diez billones de soles resplandecientes. «...lejos, muy lejos en el denso diámetro de la Vía Láctea...» <a href="/es/The_Urantia_Book/32#p2_11">LU 32:2.11</a> - Los rayos espaciales cortos. «... Desde el plano más denso del súper universo, la Vía Láctea, que es también el plano más denso de los universos exteriores.» <a href="/es/The_Urantia_Book/42#p5_5">LU 42:5.5</a></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/08.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/09.jpg">
 <figcaption>Sector Mator SPLANDON Nº 5. Contiene 100 Sectores Menores</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/10.jpg">
 <figcaption>Nube estelar de Saqitario. Sector Menor ENSA Nº 3, contiene 100 Universos Locales</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/11.jpg">
 <figcaption>Nebulosa de Andronover y algo más. Universo Local NEBADON Nº 87, contiene 100 Constelaciones</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/12.jpg">
 <figcaption>Constelación NORLATIADEK NO 7º, contiene 100 Sistemas Locales</figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006/13.jpg">
 <figcaption>Sistema Local SATANIA Nº 24. Contiene 1000 mundos habitados. Actualmente tiene 619 m/h en 556 Sistemas Físicos. El Sistema contiene 2000 soles. Nuestro Sistema Físico, La Tierra, Urantia.</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Referencias
 

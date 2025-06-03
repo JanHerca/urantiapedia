@@ -118,8 +118,8 @@ Ceci différencie clairement une _association personnelle_ de personnes divines 
 ## § 3. Évolution des membres de la Trinité Ultime
 
 Récapitulons encore une fois l'association de la première Trinité expérientielle, la Trinité Ultime, mais avec une légère variante dans l'ordre habituel de leur énonciation:
-- (a) L'Être Suprême
-- (b) Les Maitres Architectes
+- a) L'Être Suprême
+- b) Les Maitres Architectes
 - (c\) Les Créateurs Suprêmes
 
 Nous évaluions précédemment, dans cet appendice, le nombre de personnalités incluses comme membres de cette trinité et trouvions un total de 1 428 040 individus. Mais, effectivement, ni dans cette trinité ni dans aucune autre trinité, les membres ne sont des personnalités. La Trinité Ultime comprend trois membres, et seulement trois membres, et aucun d'eux n'est une personnalité. Les personnalités ne s'unissent pas pour former une trinité — une trinité est une union de déité, non une association de personnalités <a id="s124_518"></a>[LU 106:5.3](/fr/The_Urantia_Book/106#p5_3). Nous devrions peutêtre analyser la composition de la Trinité Ultime d'un peu plus près.
@@ -179,8 +179,8 @@ On nous dit que l'évolution du Tout-Puissant est au Corps des Créateurs Suprê
 (Ce genre de raisonnement spéculatif peut, bien sûr, être contesté comme manquant de logique, mais il peut difficilement être contesté comme étant soit injustifié soit imprudent, car les fascicules ( <a id="s178_200"></a>[LU 30:0.2](/fr/The_Urantia_Book/30#p0_2) semblent encourager ce genre de «spéculation créative»).
 
 Si notre raisonnement, qui est plutôt long, à propos des membres probables de la Trinité Ultime, est substantiellement correct, alors de tels membres seraient décrits précisément uniquement s'ils étaient désignés comme suit:
-- (a) La Déité de l'Être Suprême
-- (b) La Déité du Corps des Maitres Architectes
+- a) La Déité de l'Être Suprême
+- b) La Déité du Corps des Maitres Architectes
 - (c\) La Déité du Corps des Créateurs Suprêmes
 
 Dans ce même sens, la Trinité du Paradis n'est désignée qu'approximativement comme l'union du Père, du Fils et de l'Esprit. Une désignation plus précise (mais manifestement plus malcommode) serait: l'Union de la Déité du Père, de la Déité du Fils et de la Déité de l'Esprit.
@@ -189,14 +189,14 @@ Dans ce même sens, la Trinité du Paradis n'est désignée qu'approximativement
 
 Les fascicules ont peu de choses à dire des fonctions et du statut présents et futurs de la première Trinité expérientielle. Considérez les citations suivantes:
 
-- (a) _Statut présent._
+- a) _Statut présent._
   > <a id="s192_4"></a>[LU 0:12.5](/fr/The_Urantia_Book/0#p12_5). Les trinités expérientielles ne sont pas complètement réelles; elles sont en cours d'actualisation.
   > 
   > <a id="s194_4"></a>[LU 117:7.4](/fr/The_Urantia_Book/117#p7_4). La Trinité Ultime pourrait difficilement se former en tant que réalité factuelle avant l'émergence complète du Suprême. Mais cette trinité est maintenant une «réalité qualifiée» et les vice-gérants Qualifiés de l'Ultime existent maintenant.
 
 Quoique la Trinité Ultime ne soit pas complètement réelle, il n'est pas non plus tout à fait correct de dire qu'elle n'est pas réelle. Peutêtre pourrions nous la classer comme une «réalité émergente en devenir» et, comme telle, fonctionnelle à un degré limité (mais en expansion) dans le présent âge de l'univers.
 
-- (b) _Fonctions présentes._
+- b) _Fonctions présentes._
   > <a id="s199_4"></a>[LU 106:3.5](/fr/The_Urantia_Book/106#p3_5). Les évolutions physique et spirituelle s'unifient sur les niveaux finis dans le Suprême, et sur les niveaux transcendantaux dans la première Trinité Expérientielle.
   > 
   > <a id="s201_4"></a>[LU 31:10.10](/fr/The_Urantia_Book/31#p10_10). La mobilisation des sept corps de finalitaires est plus qu'une réponse à l'action directrice du Suprême; elle dévoile les activités directrices de la première Trinité expérientielle dans le processus de mobilisation des ressources, des forces et des personnalités à la fois finies et absonites, en préparation pour de futurs développements dans les univers extérieurs de l'espace.
@@ -217,8 +217,8 @@ Les fonctions de la Trinité Ultime domineront sans doute les activités des âg
 ## § 5. Unification de la Trinité Ultime
 
 Nous savons que la Trinité Ultime est moins qu'infinie parce qu'elle embrasse des «Déités dérivées» des êtres dérivés du produit de l'action de la Trinité du Paradis <a id="s218_166"></a>[LU 0:12.3](/fr/The_Urantia_Book/0#p12_3). Puisque les buts d'aboutissement de la Trinité Ultime sont aussi moins qu'infinis, cette trinité peut s'unifier complètement <a id="s218_334"></a>[LU 0:12.6, 8](/fr/The_Urantia_Book/0#p12_6). Apparemment, la Trinité Ultime a trois buts expérientiels:
-- (a) La coordination du maitre univers entier <a id="s219_47"></a>[LU 106:4.2](/fr/The_Urantia_Book/106#p4_2)
-- (b) Sa propre unification expérientielle <a id="s220_43"></a>[LU 0:12.8](/fr/The_Urantia_Book/0#p12_8). (Nous ne devrions pas oublier que l'unité de la Déité, dans les créations post-havoniennes, «est un accomplissement») <a id="s220_204"></a>[LU 56:5.4](/fr/The_Urantia_Book/56#p5_4))
+- a) La coordination du maitre univers entier <a id="s219_47"></a>[LU 106:4.2](/fr/The_Urantia_Book/106#p4_2)
+- b) Sa propre unification expérientielle <a id="s220_43"></a>[LU 0:12.8](/fr/The_Urantia_Book/0#p12_8). (Nous ne devrions pas oublier que l'unité de la Déité, dans les créations post-havoniennes, «est un accomplissement») <a id="s220_204"></a>[LU 56:5.4](/fr/The_Urantia_Book/56#p5_4))
 - (c\) La personnalisation du pouvoir de l'Ultime <a id="s221_50"></a>[LU 0:12.6](/fr/The_Urantia_Book/0#p12_6)
 
 Nous avançons la théorie que ces buts seront atteints en quatre grands stades, et chacun de ces stades sera associé à l'invasion, l'exploration, le développement et l'ancrage final d'un des niveaux extérieurs de l'espace. Il y en a quatre de ces niveaux extérieurs d’espace, et la conquête de chacun d'eux devrait être suivie d’un progrès correspondant dans la coordination du maitre univers, l'unification de la Trinité Ultime et l'émergence (l'acquisition de pouvoir et de personnalité) de Dieu l'Ultime. Apparemment ces trois buts seront atteints simultanément à la fin du Sixième âge de l’univers, qui marquera le développement final et l'ancrage du niveau quaternaire de l'Espace ainsi que l'émergence finale de Dieu l'Ultime ([appendice XVIII, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-%C3%A9mergence-de-lultime)).
@@ -255,9 +255,9 @@ Mais étudions l'aspect suivant: Est-il vraiment impossible que des personnalit�
 
 Les fascicules répondent à ces questions en ce qui concerne à la fois les créatures et les créateurs:
 
-- (a) _Ceci n'est pas vrai en ce qui concerne les créatures._
+- a) _Ceci n'est pas vrai en ce qui concerne les créatures._
   > <a id="s258_4"></a>[LU 22:7.7](/fr/The_Urantia_Book/22#p7_7). L'union des parents d'un fils trinitisé par une créature est une union limitée et semble consister en une «... biunification de certaines phases spirituelles de la personnalité...».
-- (b) _Ceci n'est pas vrai en ce qui concerne les créateurs._
+- b) _Ceci n'est pas vrai en ce qui concerne les créateurs._
   > <a id="s260_4"></a>[LU 22:7.8](/fr/The_Urantia_Book/22#p7_8). Quand le Père et le Fils s'unirent pour éterniser l'Esprit Infini, ils «...furent immédiatement comme ne faisant qu'un et ils le sont toujours restés depuis lors.»
   > 
   > <a id="s262_4"></a>[LU 10:2.1](/fr/The_Urantia_Book/10#p2_1). Mais ceci n'est vrai que dans le sens où le Père ne peut agir «en tant que personnalité absolue et non qualifiée», et qu'en conjonction avec le Fils.
@@ -269,8 +269,8 @@ Par conséquent, nous en déduisons que la personnalité peut entrer en relation
 «La personnalité...peut unifier l'identité de tout système énergétique vivant.» <a id="s268_80"></a>[LU 112:0.7](/fr/The_Urantia_Book/112#p0_7). Mais une telle unification de personnalité ne peut être totalisable avec d'autres personnalités et elle ne peut (sur les niveaux de déité) être fragmentée. Le Fils Éternel est un «être exclusivement personnel» et ne peut fragmenter sa nature comme le fait le Père <a id="s268_389"></a>[LU 6:5.5](/fr/The_Urantia_Book/6#p5_5). Le Père est tout autant une personne que le Fils est une personne, mais il est «aussi tout ce qui existe d'autre...» <a id="s268_547"></a>[LU 6:5.6](/fr/The_Urantia_Book/6#p5_6). Sa déité prépersonnelle peut être fragmentée <a id="s268_633"></a>[LU 30:1.99](/fr/The_Urantia_Book/30#p1_99), une déité personnelle ne le peut pas. Il est apparemment impossible de soustraire quelque chose d'une personnalité; il semble qu'il est également impossible de totaliser des personnalités. La personnalité semble être «inébranlable» - prenezla ou laissez-la, elle est telle qu'elle est.
 
 La déité semble employer deux techniques opposées, complémentaires et interactives dans le processus qui consiste à accomplir le maximum de réalisation et d'expression de soi. Ces deux techniques sont: l'individualisation et l'unification — l'articulation unique et individuelle de toutes les parties possibles, et l'unification pleine et complète de toutes ces parties dans le tout, sans la perte d'aucun facteur d'identité ou d'individualité dans chaque partie. La déité semble employer les deux techniques suivantes pour accomplir ces buts et les réaliser simultanément:
-- (a) expression de personnalité et
-- (b) formation de trinité.
+- a) expression de personnalité et
+- b) formation de trinité.
 
 La personnalité produit une unification interne de la partie; la trinité s'extériorise dans l'unification _externe_ du tout - le tout de n'importe quel niveau (supramatériel) qui puisse être concerné. La personnalité agit de manière _intensive_ pour unifier la partie; la trinité agit de manière _extensive_ pour unifier le tout. Un tel accomplissement de totalité de trinité est un fait existentiel dans les créations centrales; c'est un accomplissement expérientiel dans les univers du temps et de l'espace <a id="s274_509"></a>[LU 56:5.4](/fr/The_Urantia_Book/56#p5_4).
 

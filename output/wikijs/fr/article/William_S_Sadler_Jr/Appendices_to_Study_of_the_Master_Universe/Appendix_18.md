@@ -91,8 +91,8 @@ _Émergence parachevée de l’Ultime._ On nous dit que les fonctions de la trin
 L’émergence de la deuxième Déité Expérientielle n’est pas due seulement aux accomplissements de la première Trinité expérientielle. L’émergence de l’Ultime est aussi due aux succès des Créateurs post-havoniens, tels que les membres post-havoniens de Dieu le Septuple, dont les fonctions vont «...probablement s’étendre avec l’évolution future des créations de l’espace extérieures» <a id="s90_382"></a>[LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). Et, finalement, l’émergence de l’Ultime est due aux succès de ses propres efforts, de son «…propre fonctionnement expérientiel dans les univers de pouvoir et de personnalité…» <a id="s90_601"></a>[LU 0:12.3](/fr/The_Urantia_Book/0#p12_3).
 
 L’émergence factuelle de l’Ultime signifiera que les valeurs transcendantales ont été coordonnées sur des niveaux créatifs _finals_. En d’autres termes, l’Ultime émergé aura rassemblé certaines réalité s qui sont décrites <a id="s92_222"></a>[LU 0:2.18](/fr/The_Urantia_Book/0#p2_18) dans les fascicules comme suit:
-- (a) Les valeurs absonites superpersonnelles,
-- (b) Les valeurs transcendées de l’espace-temps,
+- a) Les valeurs absonites superpersonnelles,
+- b) Les valeurs transcendées de l’espace-temps,
 - (c\) Les valeurs expérientielles extériorisées.
 
 La synthèse expérientielle de ces différentes réalité s est décrite comme une synthèse de pouvoir-personnalité <a id="s97_111"></a>[LU 0:9.3](/fr/The_Urantia_Book/0#p9_3) et nous devrions nous souvenir que le mot «pouvoir» est utilisé pour indiquer le fait de souveraineté aussi bien que l’énergie organisée <a id="s97_288"></a>[LU 0:6.2](/fr/The_Urantia_Book/0#p6_2).
@@ -102,8 +102,8 @@ Pour établir un parallèle à partir de certaines affirmations qui sont faites 
 ## § 2. La Nature De La Déité Ultime
 
 Les natures des trois déités expérientielles ont toutes en commun l’expérience, mais autrement elles sont différentes <a id="s103_118"></a>[LU 118:0.5, 7-8](/fr/The_Urantia_Book/118#p0_5). En nature –
-- (a) Dieu le Suprême est expérientiel_évolutionnaire_.
-- (b) Dieu l’Ultime est expérientiel_transcendantal_.
+- a) Dieu le Suprême est expérientiel_évolutionnaire_.
+- b) Dieu l’Ultime est expérientiel_transcendantal_.
 - (c\) Dieu l’Absolu est expérientiel_existentiel_.
 
 Comme le Suprême, l’Ultime est pleinement expérientiel <a id="s108_55"></a>[LU 0:7.5](/fr/The_Urantia_Book/0#p7_5). L’Ultime est même quelque chose d’unique dans ce cas: il est limité des deux côtés par des trinités expérientielles. Les deux autres déités expérientielles ne sont pas ainsi placées. Il n’y a pas de Trinité expérientielle qui aurait pu s’unifier pour donner naissance au Suprême ; son évolution dépend de la collaboration entre les Créateurs Suprêmes et la Déité trine du Paradis <a id="s108_476"></a>[LU 0:8.9](/fr/The_Urantia_Book/0#p8_9). Et, avec Dieu l’Absolu, nous avons affaire à un être qui est existentiel aussi bien qu’expérientiel <a id="s108_617"></a>[LU 0:7.5](/fr/The_Urantia_Book/0#p7_5). L’Ultime est décrit comme une «Déité se projetant d’elle-même» <a id="s108_721"></a>[LU 0:1.10](/fr/The_Urantia_Book/0#p1_10). Est-ce parce que son émergence est impliquée dans l’unification de la première Trinité expérientielle et sa destinée immédiate dans la Seconde ? <a id="s108_909"></a>[LU 0:12.6](/fr/The_Urantia_Book/0#p12_6).
@@ -115,16 +115,16 @@ Quand Dieu l’Ultime aura finalement émergé, après l’achèvement de la syn
 - (1) Cette Déité qui est le résultat de l’unification finale de la première Trinité Expérientielle.
 - (2) Cette Déité qui personnalise pleinement toute divinité absonite et transcendantale.
 - (3) Cette Déité qui englobe toutes les phases de la réalité ultime dont on peut:
-    - (a) faire l’expérience personnellement,
-    - (b) qui gèrent l’autorité,
+    - a) faire l’expérience personnellement,
+    - b) qui gèrent l’autorité,
     - (c\) qui unifient par tension et , aussi,
-    - (d) qui ont d’autres aspects non révélés.
+    - d) qui ont d’autres aspects non révélés.
 
 Cette définition de l’Ultime parachevé ou finalement émergé supportera une analyse sérieuse. Nous avons déjà considéré l’Ultime comme résultante de déité de l’unification de la première Trinité expérientielle <a id="s122_209"></a>[LU 0:9.1](/fr/The_Urantia_Book/0#p9_1). Et nous avons déjà noté que l’Ultime personnalise les valeurs absonites du Paradis (ibid.). Nous pourrions maintenant analyser avec soin les quatre phases (ci-dessus) de la réalité ultime dont on peut faire l’expérience personnellement, qui gèrent l’autorité, qui unifient par tension et qui ont d’autres aspects non révélés.
-- (a). _Phases de l’Ultime dont on peut faire l’expérience personnellement._ Ceci doit se rapporter, du moins en partie, à la personnalité de l’Ultime.Cette personnalité (ou superpersonnalité) doit, à un moment donné, être contactable par d’autres personnalités (et superpersonnalités) <a id="s123_286"></a>[LU 0:5.4](/fr/The_Urantia_Book/0#p5_4).
-- (b). _Phases de l’Ultime qui gèrent l’autorité._ Celles-ci se rapportent probablement à une relation dans l’Ultime lui-même qui est analogue à la relation du Tout-Puissant au Suprême. Heureusement, on nous donne un nom pour ce composant fonctionnel de l’Ultime ; il est désigné comme étant «l’Omnipotent» <a id="s124_307"></a>[LU 118:2.4](/fr/The_Urantia_Book/118#p2_4).
+- a). _Phases de l’Ultime dont on peut faire l’expérience personnellement._ Ceci doit se rapporter, du moins en partie, à la personnalité de l’Ultime.Cette personnalité (ou superpersonnalité) doit, à un moment donné, être contactable par d’autres personnalités (et superpersonnalités) <a id="s123_286"></a>[LU 0:5.4](/fr/The_Urantia_Book/0#p5_4).
+- b). _Phases de l’Ultime qui gèrent l’autorité._ Celles-ci se rapportent probablement à une relation dans l’Ultime lui-même qui est analogue à la relation du Tout-Puissant au Suprême. Heureusement, on nous donne un nom pour ce composant fonctionnel de l’Ultime ; il est désigné comme étant «l’Omnipotent» <a id="s124_307"></a>[LU 118:2.4](/fr/The_Urantia_Book/118#p2_4).
 - (c\). _Phases de l’Ultime qui unifient par tension._ Elles font probablement référence à quelque activité du Mental Ultime qui pourrait servir à unifier l’Omnipotent et Dieu l’Ultime, de la même manière que (sur des niveaux finis) le Mental Suprême unifie aussi le Tout-Puissant et Dieu le Suprême <a id="s125_300"></a>[LU 106:2.3](/fr/The_Urantia_Book/106#p2_3). Cela pourrait aussi se référer à une fonction de l’Ultime qui pourrait avoir affaire avec l’égalisation et la compensation de certaines tensions de réalité engendrées par la coexistence du fini et de l’absolu. S’il en est ainsi, ce pourrait être un corollaire subabsolu de certaines activités analogues de l’Absolu Universel <a id="s125_670"></a>[LU 0:11.13](/fr/The_Urantia_Book/0#p11_13) ; <a id="s125_716"></a>[LU 12:4.5, 11](/fr/The_Urantia_Book/12#p4_5).
-- (d). _Les aspects non révélés de l’Ultime_ suggèrent que la nature de l’Ultime est beaucoup plus complexe que la nature du Suprême <a id="s126_133"></a>[LU 106:8.15](/fr/The_Urantia_Book/106#p8_15).
+- d). _Les aspects non révélés de l’Ultime_ suggèrent que la nature de l’Ultime est beaucoup plus complexe que la nature du Suprême <a id="s126_133"></a>[LU 106:8.15](/fr/The_Urantia_Book/106#p8_15).
 
 De l’analyse précédente des facteurs englobés dans l’unification de personnalité-pouvoir de l’Ultime, nous déduisons que la personnalité (ou superpersonnalité) de l’Ultime est inséparable de toutes les autres phases autres-quepersonnelles de sa nature de déité <a id="s128_261"></a>[LU 106:5.2](/fr/The_Urantia_Book/106#p5_2).
 
@@ -149,8 +149,8 @@ La relation future probable de l’homme à l’Ultime sera celle d’un finalit
 ## § 3. Attributs de Dieu l’Ultime
 
 De tous les attributs de Dieu l’Ultime, le plus caractéristique est peutêtre la transcendance du temps et de l’espace <a id="s150_118"></a>[LU 0:1.10, 13](/fr/The_Urantia_Book/0#p1_10) ; <a id="s150_166"></a>[LU 0:2.17](/fr/The_Urantia_Book/0#p2_17) ; <a id="s150_210"></a>[LU 106:4.4](/fr/The_Urantia_Book/106#p4_4); et il y a beaucoup d’autres références). L’Ultime est une Déité Transcendantale, et ce mot «transcendantal» implique certainement quelque chose qui a une relation avec le temps et l’espace, mais il n’est pas actuellement limité par l’un ou l’autre. Considérez ce que les fascicules ont à dire <a id="s150_548"></a>[LU 0:1.11](/fr/The_Urantia_Book/0#p1_11) au sujet des trois relations avec l’espace-temps:
-- (a) La réalité finie est limitée par l’espace-temps.
-- (b) La réalité absolue n’a de relation ni avec le temps ni avec l’espace. Elle est «sans temps et sans espace».
+- a) La réalité finie est limitée par l’espace-temps.
+- b) La réalité absolue n’a de relation ni avec le temps ni avec l’espace. Elle est «sans temps et sans espace».
 - (c\) La réalité absonite est directement liée au temps et à l’espace, mais elle n’est limitée ni par l’un ni par l’autre.
 
 L’Ultime est une Déité Transcendantale. Il est subabsolu, mais il a la capacité inhérente de prendre un contact fonctionnel avec le niveau absolu <a id="s155_146"></a>[LU 106:3.3](/fr/The_Urantia_Book/106#p3_3). Et l’on nous dit aussi que, parmi d’autres attributs, l’Ultime est omnipotent, omniscient et omniprésent <a id="s155_296"></a>[LU 0:1.10](/fr/The_Urantia_Book/0#p1_10).
@@ -176,8 +176,8 @@ Puisque l’Esprit Infini pénètre tout l’espace <a id="s173_46"></a>[LU 9:0.
 ## § 5. Rapport de l’Ultime au Maitre Univers
 
 L’Ultime est très directement concerné par l’apparition du maitre univers entier – excepté l’univers central de perfection éternelle. Par rapport à cette apparition de la Maitresse création, l’Ultime occupe une position médiane entre les Absolus et le Suprême. On nous dit <a id="s177_273"></a>[LU 12:6.9](/fr/The_Urantia_Book/12#p6_9) que l’apparition du maitre univers dépend (expérientiellement) de ce qui suit:
-- (a) En potentiel, des trois Absolus ;
-- (b) En direction, de l’Ultime ;
+- a) En potentiel, des trois Absolus ;
+- b) En direction, de l’Ultime ;
 - (c\) En coordination évolutionnaire, du Suprême.
 
 Dans le maitre univers, l’Ultime élabore «l’organisation créatrice» des trois Absolus de Potentialité <a id="s182_102"></a>[LU 12:6.11](/fr/The_Urantia_Book/12#p6_11). Cela doit signifier que, d’une certaine façon, il va séparer et faire émerger ces potentiels absolus au point qu’ils réagiront aux actions de transformation subabsolues. Si tel est le cas, la faculté de tous les créateurs subabsolus de «créer» dépend de l’antériorité de l’«organisation créatrice» de tels potentiels par l’Ultime <a id="s182_477"></a>[LU 118:4.7](/fr/The_Urantia_Book/118#p4_7) ; appendice VII, §2: La Maturation du Potentiel).
@@ -217,8 +217,8 @@ On parle de l’influence des Superviseurs Non Qualifiés du Suprême et des Vic
 ## § 7. L’Ultimité de la Déité
 
 L’Ultimité de la Déité <a id="s218_23"></a>[LU 0:1.10](/fr/The_Urantia_Book/0#p1_10) n’est pas la fonction d’une déité, d’une entité ou même d’une trinité. L’Ultimité de la Déité est un niveau de réalité sur lequel a lieu l’action et l’interaction d’une certaine phase de la Déité totale <a id="s218_268"></a>[LU 0:1.3](/fr/The_Urantia_Book/0#p1_3). Au moins trois réalité s de déité occupent (ou occuperont) ce septième niveau de l’action de la Déité totale.
-- (a) _La Trinité d’Ultimité._ C’est la Trinité du Paradis fonctionnant par rapport au niveau absonite de réalité <a id="s219_114"></a>[LU 10:5.5](/fr/The_Urantia_Book/10#p5_5). Cette activité trinitaire fournit la coordination existentielle de tout le niveau transcendantal antérieur à la formation de toute autre trinité (de nature expérientielle) et antérieur à l’émergence d’une déité expérientielle. A l’heure actuelle, certaines actions de l’Ultime en voie d’émergence sont connues comme étant réflectives de certaines fonctions absonites de la Trinité du Paradis <a id="s219_549"></a>[LU 10:8.2](/fr/The_Urantia_Book/10#p8_2).
-- (b) _La Trinité Ultime._ Cette trinité semble être le complément expérientiel de la trinité existentielle (du Paradis) dans le travail de coordination du maitre univers <a id="s220_171"></a>[LU 0:12.6](/fr/The_Urantia_Book/0#p12_6). L’émergence de Dieu l’Ultime est une conséquence directe de l’unification de cette Trinité, la première Trinité expérientielle, sur la scène spatiale du maitre univers <a id="s220_382"></a>[LU 0:9.1](/fr/The_Urantia_Book/0#p9_1).
+- a) _La Trinité d’Ultimité._ C’est la Trinité du Paradis fonctionnant par rapport au niveau absonite de réalité <a id="s219_114"></a>[LU 10:5.5](/fr/The_Urantia_Book/10#p5_5). Cette activité trinitaire fournit la coordination existentielle de tout le niveau transcendantal antérieur à la formation de toute autre trinité (de nature expérientielle) et antérieur à l’émergence d’une déité expérientielle. A l’heure actuelle, certaines actions de l’Ultime en voie d’émergence sont connues comme étant réflectives de certaines fonctions absonites de la Trinité du Paradis <a id="s219_549"></a>[LU 10:8.2](/fr/The_Urantia_Book/10#p8_2).
+- b) _La Trinité Ultime._ Cette trinité semble être le complément expérientiel de la trinité existentielle (du Paradis) dans le travail de coordination du maitre univers <a id="s220_171"></a>[LU 0:12.6](/fr/The_Urantia_Book/0#p12_6). L’émergence de Dieu l’Ultime est une conséquence directe de l’unification de cette Trinité, la première Trinité expérientielle, sur la scène spatiale du maitre univers <a id="s220_382"></a>[LU 0:9.1](/fr/The_Urantia_Book/0#p9_1).
 - (c\) _Dieu l’Ultime._ Cette déité expérientielle, émergeant comme étant la conséquence de l’unification de la première Trinité expérientielle, complète l’inventaire de ceux dont les fonctions occupent le niveau de l’Ultimité de la Déité. Et nous devrions nous souvenir que le concept de l’Ultime (émergé), en tant que personne, ne doit pas être séparé des aspects autres-que-personnels de sa nature de déité transcendantale <a id="s221_426"></a>[LU 106:5.2](/fr/The_Urantia_Book/106#p5_2).
 
 Les fonctions intégrées de la Trinité d’Ultimité existentielle, la Trinité Ultime expérientielle et la réalité émergée de Dieu l’Ultime, constituent (ou constitueront) l’Ultimité de la Déité telle que nous la comprenons. L’interaction fonctionnelle des trois serait concernée dans la fonction de Providence – Providence telle qu’elle peut opérer sur le transcendantal et par rapport aux ultimes.

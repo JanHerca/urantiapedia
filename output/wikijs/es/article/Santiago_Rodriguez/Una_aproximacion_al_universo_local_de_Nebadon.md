@@ -594,7 +594,9 @@ Sobre el límite inferior al número de estrellas, partiendo de la anteriormente
 
 Número de estrellas 3010^6^, dividido por la densidad de Nebadon que nos proporciona el LU (1.17 10^-3^), nos dará una idea del volumen en al cúbicos del que estamos hablando:
 
-$V_{\text{Nebadon}} = 30 \cdot 10^{6} / 1.17 \cdot 10^{-3} = 2.564 \cdot 10^{-3} \mathrm{al}^{3}$
+$$
+V_{Nebadon} = 30 \cdot 10^{6} / 1.17 \cdot 10^{-3} = 2.564 \cdot 10^{-3} \mathrm{al}^{3}
+$$
 
 Este volumen estaría contenido en una esfera de radio: 1829 al (3658 al de diámetro).
 
@@ -602,11 +604,15 @@ En definitiva, hemos establecido un volumen para Nebadon, que debería estar com
 
 Si nos moviéramos en densidades medidas por nuestra ciencia para distancias más cortas de unos 2 ó 3 mil al de entorno, en el que como vimos, la densidad estimada subía a un promedio de 3.72 x 10^-3^ estrellas por año luz cúbico, estaríamos hablando de una franja de volumen para Nebadon que iría desde:
 
-$V_{\text{Nebadon}} = 30 \cdot 10^{6} / 3.72 \cdot 10^{-3} = 8.06 \cdot 10^{9} \mathrm{al}^{3}$
+$$
+V_{Nebadon} = 30 \cdot 10^{6} / 3.72 \cdot 10^{-3} = 8.06 \cdot 10^{9} \mathrm{al}^{3}
+$$
 
 Hasta:
 
-$V_{\text{Nebadon}} = 100 \cdot 10^{6} / 3.72 \cdot 10^{-3} = 2.688 \cdot 10^{10} \mathrm{al}^{3}$
+$$
+V_{Nebadon} = 100 \cdot 10^{6} / 3.72 \cdot 10^{-3} = 2.688 \cdot 10^{10} \mathrm{al}^{3}
+$$
 
 Un elipsoide que contiene ese volumen podría tener unas medidas en al de semiejes: 2480 x 1900 x 1300 de alto (Apéndice 7).
 
@@ -743,13 +749,17 @@ Nos dicen que Satania tiene más de 2000 soles brillantes, luego sería razonabl
 
 Así el volumen estimado de Satania para 2200 estrellas (por ejemplo) sería de:
 
-$V_{\text{Satania}} = 2200 / 1.173 \cdot 10^{-3} = 1875533 \mathrm{al}^{3}$.
+$$
+V_{Satania} = 2200 / 1.173 \cdot 10^{-3} = 1875533 \mathrm{al}^{3}
+$$
 
 Este Volumen de Satania sería como el de una esfera de 76.50 al de radio ( 153 al de diámetro), teniendo en cuenta que hemos utilizado la densidad que nos da el LU para nuestro Universo Local de Nebadon, cono similar a la que tengamos en nuestro sistema Satania.
 
 Si usamos el valor de la densidad estelar de nuestro entorno cósmico, como tabulamos de 3.72 x 10^-3^ estrellas por año luz cúbico, nos iríamos a Volúmenes de:
 
-$V_{\text{Satania}} = 2200 / 3.72 \cdot 10^{-3} = 591398 \mathrm{al}^{3}$
+$$
+V_{Satania} = 2200 / 3.72 \cdot 10^{-3} = 591398 \mathrm{al}^{3}
+$$
 
 En este caso estaríamos hablando de una esfera de 52 al de radio (104 al de diámetro).
 
@@ -1118,9 +1128,9 @@ Puesto que lo que hemos colocado en la proporción son diámetros en $m$, el res
 
 X = 2.548410 10^17^ m, que para hacerlo más manejable y teniendo en cuenta que un año luz (al) es equivalente a 9.4607 10^15^ m.
 
-$\mathrm{X}=26.9367$ al de diámetro, que presenta un volumen de : $\quad V=\frac{4 \pi r^{3}}{3}$
+$\mathrm{X}=26.9367$ al de diámetro, que presenta un volumen de : $V = \frac{4 \pi r^{3}}{3}$
 
-V: 10233.67 al $^{3}$
+$V = 10233.67 \mathrm{al}^{3}$
 
 Si en este volumen V, se alojan 12 estrellas, resulta que la densidad aproximada en estrellas por año luz cúbico será:
 

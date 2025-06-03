@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/406px-Lucas_Cranach.jpg">
+<img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/Fraunhofer-lines-in-the-solar-spectrum.jpg">
 <figcaption><em>Navegar por las cámaras solares requiere energía que el calcio atómico adquiere de la luz solar. Las bandas H y K se ven en la parte superior izquierda de este espectro hecho con un espectroheliógrafo de 14 pies.</em> <a href="https://www.researchgate.net/figure/Fraunhofer-lines-in-the-solar-spectrum.jpg">ResearchGate</a></figcaption>
 </figure>
 

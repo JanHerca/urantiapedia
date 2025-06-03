@@ -92,9 +92,9 @@ _Completed emergence of the Ultimate._ We are informed that trinity functions al
 The emergence of the Second Experiential Deity is not due solely to the achievements of the First Experiential Trinity. The emergence of the Ultimate is also predicated on the success of the post-Havona Creators, such as the post-Havona members of God the Sevenfold, whose functions “. . . will probably expand in connection with the future evolution of the creations of outer space.” <a id="s91_385"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) And finally, the emergence of the Ultimate is due to the success of his own efforts, to his “. . . own experiential functioning in the universes of power and personality . . .” <a id="s91_604"></a>[UB 0:12.3](/en/The_Urantia_Book/0#p12_3)
 
 The factual emergence of the Ultimate will mean that transcendental values have been co-ordinated in _final_ creative levels. In other words, the emerged Ultimate will have put together certain realities which are described <a id="s93_224"></a>[UB 0:2.18](/en/The_Urantia_Book/0#p2_18) in the Papers as follows:
-- (a) Absonite-superpersonal values,
-- (b) Time-space-transcended values, and
-- (c) Eventuated-experiential values.
+- a) Absonite-superpersonal values,
+- b) Time-space-transcended values, and
+- c) Eventuated-experiential values.
 
 The experiential synthesis of these several realities is described as a power-personality synthesis <a id="s98_100"></a>[UB 0:9.3](/en/The_Urantia_Book/0#p9_3), and we should remember that the word “power” is used to denote the fact of sovereignty as well as organized energy. <a id="s98_257"></a>[UB 0:6.2](/en/The_Urantia_Book/0#p6_2)
 
@@ -103,9 +103,9 @@ To draw a parallel from certain statements that are made about the emergence of 
 ## § 2. The nature of Ultimate Deity
 
 The natures of the three experiential deities all have experience in common, but otherwise they are different. <a id="s104_111"></a>[UB 118:0.5,7-8](/en/The_Urantia_Book/118#p0_5) In nature —
-- (a) God the Supreme is _evolutionary_-experiential
-- (b) God the Ultimate is _transcendental_-experiential
-- (c) God the Absolute is _existential_-experiential.
+- a) God the Supreme is _evolutionary_-experiential
+- b) God the Ultimate is _transcendental_-experiential
+- c) God the Absolute is _existential_-experiential.
 
 Like the Supreme, the Ultimate is wholly experiential. <a id="s109_55"></a>[UB 0:7.5](/en/The_Urantia_Book/0#p7_5) The Ultimate is even somewhat unique in this sense: he is bounded on both sides by trinities that are experiential. The other two experiential deities are not so situated. There is no experiential trinity that could have unified to give emergence to the Supreme; his evolution depends on the collaboration between the Supreme Creators and triune Paradise Deity. <a id="s109_457"></a>[UB 0:8.9](/en/The_Urantia_Book/0#p8_9) And, with God the Absolute, we encounter a being who is existential as well as experiential. <a id="s109_590"></a>[UB 0:7.5](/en/The_Urantia_Book/0#p7_5) The Ultimate is described as a “self-projected Deity.” <a id="s109_685"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10) Is this because his emergence is involved in the unification of the First Experiential Trinity and his immediate destiny is in the Second? <a id="s109_866"></a>[UB 0:12.6-7](/en/The_Urantia_Book/0#p12_6)
 
@@ -116,16 +116,16 @@ When God the Ultimate has finally emerged, after the completion of all the power
 - (1) That Deity which is the result of the First Experiential Trinity.
 - (2) That Deity which fully personalizes all absonite and all transcendental divinity.
 - (3) That Deity which encompasses all those phases of ultimate reality that are —
-    - (a) personally experienceable,
-    - (b) control directing,
-    - (c) tensionally unifying, and
-    - (d) other unrevealed aspects.
+    - a) personally experienceable,
+    - b) control directing,
+    - c) tensionally unifying, and
+    - d) other unrevealed aspects.
 
 This definition of the completed, or finally emerged, Ultimate will stand some careful analysis. We have already considered the Ultimate as the deity consequence of the unification of the First Experiential Trinity. <a id="s123_216"></a>[UB 0:9.1](/en/The_Urantia_Book/0#p9_1) And we have already noted that the Ultimate personalizes the absonite values of Paradise. (ibid) Now, we should carefully analyze the four phases (above) of ultimate reality that are personally experienceable, control directing, tensionally unifying, and unrevealed.
-- (a) _Personally experienceable phases of the Ultimate._ This must refer, at least in part, to the personality of the Ultimate. This personality (or superpersonality) is sometime to be contactable by other personalities (and superpersonalities). <a id="s124_247"></a>[UB 0:5.4](/en/The_Urantia_Book/0#p5_4)
-- (b) _Control-directing phases of the Ultimate._ These probably stand for a relationship within the Ultimate that is analogous to the relationship of the Almighty to the Supreme. Fortunately, we are given a name for this functional omnipotent of the Ultimate; it is designated as the “Omnipotent.” <a id="s125_299"></a>[UB 118:2.4](/en/The_Urantia_Book/118#p2_4)
-- (c) _Tensionally-unifying phases of the Ultimate._ This probably refers to some activity of the Ultimate Mind that may serve to unify the Omnipotent with God the Ultimate, just as (on finite levels) the Supreme Mind so unifies the Almighty with God the Supreme. <a id="s126_264"></a>[UB 106:2.3](/en/The_Urantia_Book/106#p2_3) This could possibly refer to some function of the Ultimate which could have to do with the equalization and the compensation of certain reality-tensions set up by the co-existence of the finite and the absolute. If so, then this might be a subabsolute corollary of certain analogous activities of the Universal Absolute. <a id="s126_629"></a>[UB 0:11.13](/en/The_Urantia_Book/0#p11_13); [UB 12:4.5](/en/The_Urantia_Book/12#p4_5,11)
-- (d) _The unrevealed aspects of the Ultimate_ suggest that the nature of the Ultimate is much more complex than the nature of the Supreme. <a id="s127_140"></a>[UB 106:8.15](/en/The_Urantia_Book/106#p8_15)
+- a) _Personally experienceable phases of the Ultimate._ This must refer, at least in part, to the personality of the Ultimate. This personality (or superpersonality) is sometime to be contactable by other personalities (and superpersonalities). <a id="s124_247"></a>[UB 0:5.4](/en/The_Urantia_Book/0#p5_4)
+- b) _Control-directing phases of the Ultimate._ These probably stand for a relationship within the Ultimate that is analogous to the relationship of the Almighty to the Supreme. Fortunately, we are given a name for this functional omnipotent of the Ultimate; it is designated as the “Omnipotent.” <a id="s125_299"></a>[UB 118:2.4](/en/The_Urantia_Book/118#p2_4)
+- c) _Tensionally-unifying phases of the Ultimate._ This probably refers to some activity of the Ultimate Mind that may serve to unify the Omnipotent with God the Ultimate, just as (on finite levels) the Supreme Mind so unifies the Almighty with God the Supreme. <a id="s126_264"></a>[UB 106:2.3](/en/The_Urantia_Book/106#p2_3) This could possibly refer to some function of the Ultimate which could have to do with the equalization and the compensation of certain reality-tensions set up by the co-existence of the finite and the absolute. If so, then this might be a subabsolute corollary of certain analogous activities of the Universal Absolute. <a id="s126_629"></a>[UB 0:11.13](/en/The_Urantia_Book/0#p11_13); [UB 12:4.5](/en/The_Urantia_Book/12#p4_5,11)
+- d) _The unrevealed aspects of the Ultimate_ suggest that the nature of the Ultimate is much more complex than the nature of the Supreme. <a id="s127_140"></a>[UB 106:8.15](/en/The_Urantia_Book/106#p8_15)
 
 From the foregoing analysis of the factors encompassed in the power-personality unification of the Ultimate, we deduce that the personality (or superpersonality) of the Ultimate is inseparable from all of the other-than-personal phases of his deity nature. <a id="s129_257"></a>[UB 106:5.2](/en/The_Urantia_Book/106#p5_2)
 
@@ -150,9 +150,9 @@ Man's probable future relationship to the Ultimate will be that of a postfinite 
 ## § 3. Attributes of God The Ultimate
 
 Of all the attributes of God the Ultimate, perhaps the most characteristic is the transcendence of time and space. <a id="s151_115"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10), 13; <a id="s151_162"></a>[UB 0:2.17](/en/The_Urantia_Book/0#p2_17), <a id="s151_205"></a>[UB 106:4.4](/en/The_Urantia_Book/106#p4_4); and there are many other references.) The Ultimate is a Transcendental Deity, and the very word “transcendental” certainly implies something that has a relationship to time and space but is not actually limited by either one. Consider what the Papers have to say <a id="s151_513"></a>[UB 0:1.11-13](/en/The_Urantia_Book/0#p1_11) about the three relationships to time and space:
-- (a) Finite reality is limited by time and space
-- (b) Absolute reality has no relationship to either time or space. It is “timeless and spaceless.”
-- (c) Absonite reality is directly related to both time and space but is not limited by either one of them.
+- a) Finite reality is limited by time and space
+- b) Absolute reality has no relationship to either time or space. It is “timeless and spaceless.”
+- c) Absonite reality is directly related to both time and space but is not limited by either one of them.
 
 The Ultimate is Transcendental Deity. He is subsabsolute, but has inherent capacity to make functional contact with the absolute level. <a id="s156_136"></a>[UB 106:3.3](/en/The_Urantia_Book/106#p3_3) And we are also informed that, among other attributes, the Ultimate is omnipotent, omniscient, and omnipresent. <a id="s156_292"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10)
 
@@ -168,7 +168,7 @@ Much as the Supreme is now something of a representation of the Paradise Trinity
 
 The Paradise Deities do not now personally collaborate with the Ultimate; they work with him — as with the Supreme — through the Paradise Trinity. This mode of relationship will change, in some unknown way, whenever these experiential deities emerge from the eras of experiential growth which are designated prepersonal. <a id="s168_321"></a>[UB 10:7.3](/en/The_Urantia_Book/10#p7_3) At such a future time we suspect that the Universal Father, the Eternal Son, and the Infinite Spirit, will personally collaborate with God the Supreme and with God the Ultimate, while the Paradise Trinity will enter into new functional relationships with the experiential trinities.
 
-With regard to his presence in the post-Havona creations, the Universal Father has chosen to be: (a) limited by the evolving Supreme, (b) conditioned by the eventuating Ultimate, (c) co-ordinated by the Absolutes. <a id="s170_214"></a>[UB 3:2.15](/en/The_Urantia_Book/3#p2_15) —
+With regard to his presence in the post-Havona creations, the Universal Father has chosen to be: (a) limited by the evolving Supreme, (b) conditioned by the eventuating Ultimate, \(c\) co-ordinated by the Absolutes. <a id="s170_214"></a>[UB 3:2.15](/en/The_Urantia_Book/3#p2_15) —
 
 Similarly, the extra-Havona presence of the Eternal Son, aside from being personalized in the Paradise Sons of God, is conditioned by the Supreme and by the Ultimate. <a id="s172_167"></a>[UB 7:2.1](/en/The_Urantia_Book/7#p2_1)
 
@@ -177,9 +177,9 @@ Since the Infinite Spirit pervades all space <a id="s174_45"></a>[UB 9:0.5](/en/
 ## § 5. Relation of The Ultimate to the Master Universe
 
 The Ultimate is very directly concerned with the appearance of the entire master universe — all except the central universe of eternal perfection. In relation to this appearance of the master creation, the Ultimate occupies a middle position between the Absolutes and the Supreme. We are informed <a id="s178_297"></a>[UB 12:6.9-11](/en/The_Urantia_Book/12#p6_9) that the appearance of the master universe depends (experientially) on the following:
-- (a) In potential, on the three Absolutes
-- (b) In direction, on the Ultimate
-- (c) In evolutionary co-ordination, on the Supreme
+- a) In potential, on the three Absolutes
+- b) In direction, on the Ultimate
+- c) In evolutionary co-ordination, on the Supreme
 
 Within the master universe, the Ultimate is working out the “creative organization” of the three Absolutes of Potentiality. <a id="s183_124"></a>[UB 12:6.11](/en/The_Urantia_Book/12#p6_11) This must mean that in some manner he is causing these absolute potentials to become so segregated and otherwise emergent as to make them responsive to subabsolute transformative actions. If this is the case, then the ability of all subabsolute creators to “create” is dependent on this prior “creative organization” of such potentials by the Ultimate. <a id="s183_521"></a>[UB 118:4.7](/en/The_Urantia_Book/118#p4_7); [Appendix VII § 2, The Maturation of Potential](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-2-the-maturation-of-potentials).)
 
@@ -218,9 +218,9 @@ Both the Unqualified Supervisors of the Supreme and the Qualified Vicegerents of
 ## § 7. The Ultimacy of Deity
 
 The Ultimacy of Deity <a id="s219_22"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10) is not the function of a deity, of an entity, or even of a trinity. The Ultimacy of Deity is a level of reality on which the action and the interaction of a certain phase of Total Deity takes place. <a id="s219_263"></a>[UB 0:1.3](/en/The_Urantia_Book/0#p1_3) At least three deity-realities occupy (or will occupy) this seventh level of Total Deity action:
-- (a) _The Trinity of Ultimacy._ This is the Paradise Trinity functioning in relation to the absonite level of reality. <a id="s220_120"></a>[UB 10:5.5](/en/The_Urantia_Book/10#p5_5) This trinity activity provides for the existential co-ordination of the whole transcendental level prior to the formation of any other trinity (of experiential nature) and prior to the emergence of any experiential deity. At the present time, certain actions of the emerging Ultimate are spoken of as being reflective of certain absonite functions of the Paradise Trinity. <a id="s220_535"></a>[UB 10:8.2](/en/The_Urantia_Book/10#p8_2)
-- (b) _The Trinity Ultimate._ This trinity appears to be the experiential complement of the existential (Paradise) trinity in the work of co-ordinating the master universe. <a id="s221_173"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6) The emergence of God the Ultimate is a direct consequence of the unification of this Trinity, the First Experiential Trinity, on the space-stage of the master universe. <a id="s221_384"></a>[UB 0:9.1](/en/The_Urantia_Book/0#p9_1)
-- (c) _God the Ultimate._ This experiential deity, emerging as the consequence of the unification of the First Experiential Trinity, completes the inventory of those whose functions occupy the level of the Ultimacy of Deity. And we should remember that the concept of the (emerged) Ultimate as person is not to be separated from the other-than-personal aspects of his transcendental deity nature. <a id="s222_397"></a>[UB 106:5.2](/en/The_Urantia_Book/106#p5_2)
+- a) _The Trinity of Ultimacy._ This is the Paradise Trinity functioning in relation to the absonite level of reality. <a id="s220_120"></a>[UB 10:5.5](/en/The_Urantia_Book/10#p5_5) This trinity activity provides for the existential co-ordination of the whole transcendental level prior to the formation of any other trinity (of experiential nature) and prior to the emergence of any experiential deity. At the present time, certain actions of the emerging Ultimate are spoken of as being reflective of certain absonite functions of the Paradise Trinity. <a id="s220_535"></a>[UB 10:8.2](/en/The_Urantia_Book/10#p8_2)
+- b) _The Trinity Ultimate._ This trinity appears to be the experiential complement of the existential (Paradise) trinity in the work of co-ordinating the master universe. <a id="s221_173"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6) The emergence of God the Ultimate is a direct consequence of the unification of this Trinity, the First Experiential Trinity, on the space-stage of the master universe. <a id="s221_384"></a>[UB 0:9.1](/en/The_Urantia_Book/0#p9_1)
+- c) _God the Ultimate._ This experiential deity, emerging as the consequence of the unification of the First Experiential Trinity, completes the inventory of those whose functions occupy the level of the Ultimacy of Deity. And we should remember that the concept of the (emerged) Ultimate as person is not to be separated from the other-than-personal aspects of his transcendental deity nature. <a id="s222_397"></a>[UB 106:5.2](/en/The_Urantia_Book/106#p5_2)
 
 The integrated functions of the existential Trinity of Ultimacy, the experiential Trinity Ultimate, and the emerged reality of God the Ultimate, constitute (or will constitute) the Ultimacy of Deity as we understand it. The functional interaction of all three would be concerned in the function of providence — providence as it may operate on the transcendental and in relation to ultimates.
 

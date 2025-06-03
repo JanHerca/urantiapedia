@@ -105,17 +105,17 @@ In the Third and subsequent ages the Supreme will still be functioning in the in
 > (ibid) His _secondary function_ is in the grand universe; he functions here as a sovereign, as a person of power.
 > 
 > (ibid) His _tertiary function_ is of master-universe scope and three speculations are offered concerning his future function.
-> - (a) The tertiary phase of Supremacy will have something to do with “the third level of Deity manifestation.”
-> - (b) The Supreme will expand as universe sovereign and will be a super-Almighty in the creations of outer space.
-> - (c) <a id="s109_8"></a>[UB 116:1.5](/en/The_Urantia_Book/116#p1_5)He will give expression to some unknown aspect of mind. The mind of Supremacy is believed to have a latent potential for function that is master universe in scope.
+> - a) The tertiary phase of Supremacy will have something to do with “the third level of Deity manifestation.”
+> - b) The Supreme will expand as universe sovereign and will be a super-Almighty in the creations of outer space.
+> - c) <a id="s109_8"></a>[UB 116:1.5](/en/The_Urantia_Book/116#p1_5)He will give expression to some unknown aspect of mind. The mind of Supremacy is believed to have a latent potential for function that is master universe in scope.
 > - (ibid) Both physical and spiritual growth seem to reach a final limit on worlds long settled in light and life, but growth of mind appears to be limitless.
 
 In the outer space ages, we project a picture of possible threefold function of the Supreme Being: He is still operating in Havona in the spiritual sense; he is still functioning as almighty sovereign of the grand universe; and he has developed some new function, or functions, that spread out over the whole master universe. What is this new function, or functions?
 
 We may examine the three speculations that are offered us in the Papers:
-- (a) _The “third level of Deity manifestation.”_ This statement is difficult to interpret unless it refers to some relationship with God the Absolute. We are informed that God the Absolute “. . . is the third level of unifying Deity expression and expansion.” Such relationship on the part of the Supreme would seem to involve the Ultimate and would suggest collaboration in the Second Experiential Trinity. (See [Appendix XIX, The Second Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19).) We do not feel that the Trinity of Trinities is involved, since this trinity seems to be extra-master-universe in function. (Nevertheless, see [Appendix XXIV, The Third Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
-- (b) _The Supreme as super-Almighty._ This suggests an extension of the present function of the Supreme as sovereign of the superuniverses, as a being of power. Perhaps the Supreme will in some manner be active in the administration of the outer creations. Perhaps this is one of the ways the Supreme will collaborate with the Spirit in outer space.
-- (c) _An unknown potential of mind._ The third speculation offered in the Papers concerns the expression of some latent potential of mind. Concerning the Supreme Mind we are informed as follows:
+- a) _The “third level of Deity manifestation.”_ This statement is difficult to interpret unless it refers to some relationship with God the Absolute. We are informed that God the Absolute “. . . is the third level of unifying Deity expression and expansion.” Such relationship on the part of the Supreme would seem to involve the Ultimate and would suggest collaboration in the Second Experiential Trinity. (See [Appendix XIX, The Second Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19).) We do not feel that the Trinity of Trinities is involved, since this trinity seems to be extra-master-universe in function. (Nevertheless, see [Appendix XXIV, The Third Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
+- b) _The Supreme as super-Almighty._ This suggests an extension of the present function of the Supreme as sovereign of the superuniverses, as a being of power. Perhaps the Supreme will in some manner be active in the administration of the outer creations. Perhaps this is one of the ways the Supreme will collaborate with the Spirit in outer space.
+- c) _An unknown potential of mind._ The third speculation offered in the Papers concerns the expression of some latent potential of mind. Concerning the Supreme Mind we are informed as follows:
   > <a id="s118_4"></a>[UB 115:4.7](/en/The_Urantia_Book/115#p4_7) It was bestowed by the Conjoint Actor and serves to unify the power of the Almighty with the spirit person of the Supreme.
   > 
   > <a id="s120_4"></a>[UB 116:1.3](/en/The_Urantia_Book/116#p1_3) It is now emerging as an actuality through its work with God the Sevenfold in the development of the grand universe.
@@ -176,9 +176,9 @@ Speculation: Will the Mighty Messengers and their colleagues rejoin the finalite
 And there must be a great many other orders of beings who are going to find ultimate service-destiny in the space levels of the post-supreme universes.
 
 _The growth of finaliters._ We are informed <a id="s177_44"></a>[UB 31:3.6](/en/The_Urantia_Book/31#p3_6) that finaliters, who are sixth-stage spirits, have yet to attain finality of growth in three ways:
-- (a) Ultimate spirit status
-- (b) Creature service
-- (c) Attainment of experiential deity.
+- a) Ultimate spirit status
+- b) Creature service
+- c) Attainment of experiential deity.
 
 We know that our experience of growth in the present universe age has to do with the development of the first three (of seven) dimensions of personality, and that the next three dimensions (fourth, fifth, and sixth) are presently completely dormant, being reserved for absonite growth. <a id="s182_286"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) It appears likely that, by far, the most of our growth will be post-supreme, and the entire story of the mortal ascent to Paradise and of finaliter service in the grand universe, is in the larger sense, just the beginning — a sort of kindergarten in relation to the higher and vaster levels of education and service that lie beyond the circumscribing horizons of the present universe age. (See [Appendix IV § 8-B, Finaliters in the Post-Supreme Ages](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-8-b-finaliters-in-the-post-supreme-ages).)
 

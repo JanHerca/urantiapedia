@@ -38,13 +38,13 @@ Concebimos una era tras la Sexta Era del Universo, pero esa era tendría que ver
 
 En nuestro estudio de los antecedentes del universo maestro ([Apéndice I](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), retrocedimos en el tiempo tanto como pudimos, de vuelta a una hipotética Era Cero. Esa era nunca existió; no es una realidad objetiva, aunque es un concepto muy válido. Los Documentos hablan de esta era hipotética como «los albores de la eternidad». <a id="s38_413"></a>[LU 31:9.3](/es/The_Urantia_Book/31#p9_3) Proporciona un punto de partida conceptual para considerar los comienzos de la historia cósmica. A medida que entendemos el uso del término, «albores de la eternidad» designa el comienzo hipotético de una era del universo que no tiene comienzo: la era de Havona.
 
-- (a) _La Primera Era del Universo._ Es la era de Havona. La Primera Era, como el universo central, es eterna en el pasado; no tiene un comienzo en el tiempo. Esta era es única en otros aspectos: es presuprema y preúltima, y por tanto preexperiencial.  <a id="s40_253"></a>[LU 0:9.5](/es/The_Urantia_Book/0#p9_5) Al ser preexperiencial, la Primera Era es totalmente existencial. <a id="s40_359"></a>[LU 0:7.2](/es/The_Urantia_Book/0#p7_2) Es la única era que lo es.
+- a) _La Primera Era del Universo._ Es la era de Havona. La Primera Era, como el universo central, es eterna en el pasado; no tiene un comienzo en el tiempo. Esta era es única en otros aspectos: es presuprema y preúltima, y por tanto preexperiencial.  <a id="s40_253"></a>[LU 0:9.5](/es/The_Urantia_Book/0#p9_5) Al ser preexperiencial, la Primera Era es totalmente existencial. <a id="s40_359"></a>[LU 0:7.2](/es/The_Urantia_Book/0#p7_2) Es la única era que lo es.
   La Primera Era del Universo también parece ser precreativa y preevolutiva. Por ejemplo: los nativos de Havona son mencionados como que «descienden todos de la Trinidad del Paraíso». Pero, en el mismo párrafo, son designados como «seres que nunca fueron creados». <a id="s41_265"></a>[LU 14:4.10](/es/The_Urantia_Book/14#p4_10) Puesto que los asuntos del Havona de la Primera Era eran completamente existenciales, tenían que ser preevolutivos. (Vean también el [Apéndice I § 1, La primera era del universo](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-la-primera-era-del-universo); [Apéndice VI § 3, Paradojas en el estatus de Havona](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradojas-del-estatus-de-havona), y [§ 4, El mecanismo existencial, La era pos-Último](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-el-mecanismo-existencial).)
   La Primera Era del Universo no tuvo principio, pero sí tiene fin. Terminó cuando comenzó la era actual del universo. Quizá este fue el momento en que se crearon los Ancianos de los Días <a id="s42_188"></a>[LU 18:3.4](/es/The_Urantia_Book/18#p3_4), o el momento en que la Trinidad emitió el mandato con el plan de organización de los siete superuniversos. <a id="s42_338"></a>[LU 19:7.1](/es/The_Urantia_Book/19#p7_1)
-- (b) _Las eras pos-Havona._ Este término se emplea a menudo para designar las cinco eras que siguen a la era de Havona. Se emplea porque estas cinco eras tienen mucho en común. Las cinco tienen principio y fin en el tiempo; solo la Primera Era es eterna en el pasado.
+- b) _Las eras pos-Havona._ Este término se emplea a menudo para designar las cinco eras que siguen a la era de Havona. Se emplea porque estas cinco eras tienen mucho en común. Las cinco tienen principio y fin en el tiempo; solo la Primera Era es eterna en el pasado.
   Todas las eras pos-Havona son experienciales. La deidad experiencial se actualiza en las épocas pos-Havona del universo maestro. <a id="s44_131"></a>[LU 0:7.1](/es/The_Urantia_Book/0#p7_1) Estas eras parecen estar caracterizadas por una procesión en dos direcciones de ascendentes y descendentes. En la era actual del universo, los Creadores Supremos y sus asociados descienden desde el Paraíso hacia las creaciones espaciotemporales, y las criaturas evolutivas ascienden desde esas mismas creaciones hacia el Paraíso. <a id="s44_501"></a>[LU 115:6.5](/es/The_Urantia_Book/115#p6_5) En la siguiente edad, los finalitarios se asociarán con otros, que servirán en el espacio exterior <a id="s44_644"></a>[LU 31:10.11](/es/The_Urantia_Book/31#p10_11) y se anticipa que los habitantes del espacio exterior ascenderán al Paraíso a través de los superuniversos perfeccionados. <a id="s44_813"></a>[LU 56:7.9](/es/The_Urantia_Book/56#p7_9)
-- (c) _La Segunda Era del Universo._ Esta es la era actual, la era de los superuniversos evolutivos. Esta era también es única: es la era del crecimiento evolutivo del Ser Supremo. Cuando haya terminado su crecimiento, esta era llegará a su fin y la oportunidad de participar en esta maravillosa experiencia se irá para siempre. <a id="s45_329"></a>[LU 31:10.12](/es/The_Urantia_Book/31#p10_12) En la Segunda Era, es posible tener experiencias finitas y crecer mediante un proceso evolutivo; las eras siguientes no podrán participar en esas aventuras. <a id="s45_532"></a>[LU 31:10.11](/es/The_Urantia_Book/31#p10_11)
-- (d) _La expansión del destino._ Las eras sucesivas expanden el destino; proporcionan las técnicas para invalidar los límites de crecimiento anteriores. Por ejemplo: el Havona de la Primera Era es un universo perfecto y «limitado de perfección». En la Segunda Era, la era actual, la perfección de Havona se expande hacia fuera, hacia los superuniversos imperfectos, para lograr un nuevo destino experiencial.
+- c) _La Segunda Era del Universo._ Esta es la era actual, la era de los superuniversos evolutivos. Esta era también es única: es la era del crecimiento evolutivo del Ser Supremo. Cuando haya terminado su crecimiento, esta era llegará a su fin y la oportunidad de participar en esta maravillosa experiencia se irá para siempre. <a id="s45_329"></a>[LU 31:10.12](/es/The_Urantia_Book/31#p10_12) En la Segunda Era, es posible tener experiencias finitas y crecer mediante un proceso evolutivo; las eras siguientes no podrán participar en esas aventuras. <a id="s45_532"></a>[LU 31:10.11](/es/The_Urantia_Book/31#p10_11)
+- d) _La expansión del destino._ Las eras sucesivas expanden el destino; proporcionan las técnicas para invalidar los límites de crecimiento anteriores. Por ejemplo: el Havona de la Primera Era es un universo perfecto y «limitado de perfección». En la Segunda Era, la era actual, la perfección de Havona se expande hacia fuera, hacia los superuniversos imperfectos, para lograr un nuevo destino experiencial.
 
 ## § 2. La deidad experiencial en las eras sucesivas
 
@@ -135,7 +135,7 @@ _El Ser Supremo_
 > 
 > (ibid) (b) El Supremo se expandirá como un soberano del universo y será supertodopoderoso en las creaciones del espacio exterior.
 > 
-> <a id="s137_2"></a>[LU 116:1.5](/es/The_Urantia_Book/116#p1_5) (c) Dará expresión a un aspecto de la mente desconocido. Se cree que la mente de la Supremacía tiene el potencial latente de acción cuyo ámbito es el universo maestro.
+> <a id="s137_2"></a>[LU 116:1.5](/es/The_Urantia_Book/116#p1_5) \(c\) Dará expresión a un aspecto de la mente desconocido. Se cree que la mente de la Supremacía tiene el potencial latente de acción cuyo ámbito es el universo maestro.
 
 _La Primera Trinidad experiencial_
 
@@ -334,7 +334,7 @@ Por supuesto, los superuniversos continuarán en la era pos-última, la era de l
 
 Podría ser útil analizar la secuencia de acontecimientos que marcaron la transición de la Primera a la Segunda Era, desde los tiempos de Havona hasta la era del gran universo, desde los tiempos del universo central hasta la era de los siete superuniversos. La historia no está completamente clara, pero parece desarrollarse en una serie de pasos que parecen tener una relación secuencial razonable.
 
-- (a) _El concepto incalificado de la Primera Era._
+- a) _El concepto incalificado de la Primera Era._
 
   > <a id="s338_4"></a>[LU 8:1.9](/es/The_Urantia_Book/8#p1_9) La Tercera Persona se eternizó simultáneamente con Havona y, puesto que es eterna, también lo es el universo central.
   > 
@@ -342,7 +342,7 @@ Podría ser útil analizar la secuencia de acontecimientos que marcaron la trans
 
   Deducción: Los habitantes originales del universo central no tienen origen, son eternos.
 
-- (b) _El final de la Primera Era - antes de «los tiempos cercanos a la eternidad»_
+- b) _El final de la Primera Era - antes de «los tiempos cercanos a la eternidad»_
 
   > <a id="s346_4"></a>[LU 10:2.7](/es/The_Urantia_Book/10#p2_7) Cuando el Espíritu Infinito personalizó «el ciclo existencial de la personalización de la Deidad», y la siguiente personalización de la Deidad no estuvo coordinada sino subordinada (subabsoluta): los Siete Espíritus Maestros.
 
@@ -358,7 +358,7 @@ Podría ser útil analizar la secuencia de acontecimientos que marcaron la trans
 
   Deducción: Las actividades energéticas tuvieron lugar en el nivel espacial de los superuniversos mucho antes de la organización de los siete superuniversos.
 
-- (c) _Los «tiempos cercanos a la eternidad» y «los albores del tiempo»_
+- c) _Los «tiempos cercanos a la eternidad» y «los albores del tiempo»_
 
   > <a id="s362_4"></a>[LU 23:1.1](/es/The_Urantia_Book/23#p1_1) Después de la creación de los Espíritus de los Circuitos de Havona, el Actor Conjunto creó a los Mensajeros Solitarios. Han existido desde los «tiempos cercanos a la eternidad». Son las primeras criaturas del Espíritu Infinito en ser «conscientes del tiempo… que fueron personalizadas en el tiempo y espiritualizadas en el espacio».
   > 
@@ -535,9 +535,9 @@ Conjetura: Estas dos transacciones están relacionadas de alguna manera.
 > 
 > <a id="s535_2"></a>[LU 112:7.1](/es/The_Urantia_Book/112#p7_1) La fusión con el Ajustador del Pensamiento añade:
 > (a) La fijación de la cualidad de divinidad.
-> - (b) La experiencia y la memoria de la eternidad pasada.
-> - (c) La inmortalidad.
-> - (d) Una fase de absolutidad potencial limitada.
+> - b) La experiencia y la memoria de la eternidad pasada.
+> - c) La inmortalidad.
+> - d) Una fase de absolutidad potencial limitada.
 > 
 > <a id="s541_2"></a>[LU 107:4.2](/es/The_Urantia_Book/107#p4_2) Los Ajustadores están limitados en cuanto a cantidad de divinidad, pero no en cuanto a absolutidad de calidad de divinidad.
 

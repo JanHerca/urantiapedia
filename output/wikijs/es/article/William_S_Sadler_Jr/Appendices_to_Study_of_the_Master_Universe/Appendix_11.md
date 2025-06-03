@@ -103,17 +103,17 @@ En la Tercera Era y en las siguientes, el Supremo seguirá actuando en las creac
 > (Ibíd.) Ejerce su _función secundaria_ en el gran universo como soberano, como una personalidad con poder.
 > 
 > (Ibíd.) La _función terciaria_ del Supremo abarca al universo maestro y se ofrecen tres conjeturas respecto a esta función futura:
-> - (a) La fase terciaria de la Supremacía tendrá algo que ver con «el tercer nivel de manifestación de la Deidad».
-> - (b) El Supremo se extenderá para ser soberano del universo y será superomnipotente en las creaciones del espacio exterior.
-> - (c) <a id="s107_8"></a>[LU 116:1.5](/es/The_Urantia_Book/116#p1_5) Dará expresión a algún aspecto desconocido de la mente. Se cree que la mente de la Supremacía tiene un potencial latente de actuación en el universo maestro.
+> - a) La fase terciaria de la Supremacía tendrá algo que ver con «el tercer nivel de manifestación de la Deidad».
+> - b) El Supremo se extenderá para ser soberano del universo y será superomnipotente en las creaciones del espacio exterior.
+> - c) <a id="s107_8"></a>[LU 116:1.5](/es/The_Urantia_Book/116#p1_5) Dará expresión a algún aspecto desconocido de la mente. Se cree que la mente de la Supremacía tiene un potencial latente de actuación en el universo maestro.
 > - (Ibíd.) Mientras que el crecimiento físico y espiritual parece alcanzar un límite final en los mundos establecidos durante mucho tiempo en luz y vida, el crecimiento de la mente parece no tener límites.
 
 En las eras del espacio exterior, proyectamos la imagen de una posible función triple del Ser Supremo: todavía funciona en Havona en sentido espiritual; todavía actúa como soberano todopoderoso del gran universo; y ha desarrollado una función o funciones nuevas que se extienden por todo el universo maestro. ¿Cuál es esa nueva función, o funciones?
 
 Podemos examinar las tres conjeturas que se nos ofrecen en los Documentos:
-- (a) _The «tercer nivel de manifestación de la Deidad.»_ Esta afirmación es difícil de interpretar, a no ser que se refiera a alguna relación con Dios Absoluto. Se nos informa de que Dios Absoluto «…es el tercer nivel de expresión y expansión de la Deidad unificada». Dicha relación por parte del Supremo parecería implicar al Último, y sugeriría la colaboración en la segunda Trinidad experiencial. (Vean el [Apéndice XIX, La segunda Trinidad experiencial](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19).) No creemos que la Trinidad de Trinidades esté implicada, puesto que la acción de esta trinidad parece quedar fuera del universo maestro (No obstante, vean el [Apéndice XXIV, La tercera Trinidad experiencial](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
-- (b) _El Supremo como super-Todopoderoso_. Esto sugiere una extensión de la función actual del Supremo como soberano de los superuniversos, como ser de poder. Quizás el Supremo de alguna manera estará activo en la administración de las creaciones externas. Quizás esta sea una de las formas en que el Supremo colaborará con el Espíritu en el espacio exterior.
-- (c) _Un potencial de la mente desconocido._ La tercera conjetura ofrecida en los Documentos se refiere a la expresión de algún potencial latente de la mente. Respecto a la Mente Suprema, se nos informa de lo siguiente:
+- a) _The «tercer nivel de manifestación de la Deidad.»_ Esta afirmación es difícil de interpretar, a no ser que se refiera a alguna relación con Dios Absoluto. Se nos informa de que Dios Absoluto «…es el tercer nivel de expresión y expansión de la Deidad unificada». Dicha relación por parte del Supremo parecería implicar al Último, y sugeriría la colaboración en la segunda Trinidad experiencial. (Vean el [Apéndice XIX, La segunda Trinidad experiencial](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19).) No creemos que la Trinidad de Trinidades esté implicada, puesto que la acción de esta trinidad parece quedar fuera del universo maestro (No obstante, vean el [Apéndice XXIV, La tercera Trinidad experiencial](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
+- b) _El Supremo como super-Todopoderoso_. Esto sugiere una extensión de la función actual del Supremo como soberano de los superuniversos, como ser de poder. Quizás el Supremo de alguna manera estará activo en la administración de las creaciones externas. Quizás esta sea una de las formas en que el Supremo colaborará con el Espíritu en el espacio exterior.
+- c) _Un potencial de la mente desconocido._ La tercera conjetura ofrecida en los Documentos se refiere a la expresión de algún potencial latente de la mente. Respecto a la Mente Suprema, se nos informa de lo siguiente:
   > <a id="s116_4"></a>[LU 115:4.7](/es/The_Urantia_Book/115#p4_7) La unión del poder del Todopoderoso Supremo y la persona espiritual de Dios Supremo tiene lugar en virtud del ministerio del Actor Conjunto, que donó la mente del Supremo.
   > 
   > <a id="s118_4"></a>[LU 116:1.3](/es/The_Urantia_Book/116#p1_3) La mente Suprema está en proceso de manifestarse en la coordinación del gran universo y en asociación funcional con Dios Séptuple.
@@ -174,9 +174,9 @@ Conjetura: ¿Se unirán los Mensajeros Poderosos y sus compañeros al cuerpo de 
 Y debe haber muchos otros órdenes de seres que van a encontrar el destino último de servicio en los niveles de espacio de los universos pos-supremos.
 
 _El crecimiento de los finalitarios._ Se nos informa <a id="s175_53"></a>[LU 31:3.6](/es/The_Urantia_Book/31#p3_6) de que los finalitarios, que son espíritus de sexta etapa, tienen que alcanzar todavía la finalidad del crecimiento de tres maneras:
-- (a) Estado espiritual último
-- (b) Servicio de las criaturas
-- (c) Logro de la deidad experiencial.
+- a) Estado espiritual último
+- b) Servicio de las criaturas
+- c) Logro de la deidad experiencial.
 
 Sabemos que nuestra experiencia de crecimiento en la era actual del universo tiene que ver con el desarrollo de las tres (o siete) primeras dimensiones de la personalidad, y que las siguientes tres dimensiones (cuarta, quinta y sexta) están en la actualidad totalmente latentes y se reservan para el crecimiento absonito. <a id="s180_322"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9) Parece probable que, con mucho, la mayor parte de nuestro crecimiento sea pos-supremo, y que toda la historia de la ascensión mortal al Paraíso y del servicio finalitario en el gran universo sea, en el sentido más amplio, solo el comienzo, una especie de guardería en relación con los niveles más elevados y extensos de educación y servicio que subyacen más allá de los horizontes circunscritos de la era actual del universo. (Vean el [Apéndice IV § 8-B, Finalitarios en las eras pos-Supremo](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-8-b-los-finalitarios-en-las-eras-pos-supremo).)
 

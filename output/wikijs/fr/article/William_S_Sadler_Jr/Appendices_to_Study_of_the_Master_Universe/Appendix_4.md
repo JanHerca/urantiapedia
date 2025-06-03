@@ -39,13 +39,13 @@ On peut concevoir un âge postérieur au sixième âge d'univers , mais une tell
 
 Notre étude des antécédents du maitre univers ([appendice I](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)) nous a ramenés aussi loin en arrière que nous le pouvions, c’està-dire dans l'éternité passé jusque dans l'hypothétique âge Zéro. Un tel âge n' a jamais existé. Il n' est pas une réalité factuelle, bien que ce soit un concept tout à fait valable. En ce qui a trait à cette époque hypothétique, les fascicules en parlent comme de "l'aurore de l'éternité" ( <a id="s39_505"></a>[LU 31:9.3](/fr/The_Urantia_Book/31#p9_3). Elle forme un point de départ conceptuel permettant de considérer les commencements de l'histoire cosmique. Tel que nous comprenons l’usage du terme "aurore de l'éternité" , cela désigne le commencement hypothétique d’un âge d’univers qui n' avait pas de commencement — l’âge de Havona.
 
-- (a) _Le premier âge de l’univers._ C'est l’âge de Havona. Tout comme l'univers central, le premier âge est dans l’éternel passé ; il n' a pas de commencement dans le temps. Sous d’autres aspects, cet âge est unique ; il est présuprême et pré-ultime, puisque préexpérientiel <a id="s41_276"></a>[LU 0:9.5](/fr/The_Urantia_Book/0#p9_5). Étant préexpérientiel, le premier âge est totalement existentiel <a id="s41_382"></a>[LU 0:7.2](/fr/The_Urantia_Book/0#p7_2). C'est le seul âge de cette sorte.
+- a) _Le premier âge de l’univers._ C'est l’âge de Havona. Tout comme l'univers central, le premier âge est dans l’éternel passé ; il n' a pas de commencement dans le temps. Sous d’autres aspects, cet âge est unique ; il est présuprême et pré-ultime, puisque préexpérientiel <a id="s41_276"></a>[LU 0:9.5](/fr/The_Urantia_Book/0#p9_5). Étant préexpérientiel, le premier âge est totalement existentiel <a id="s41_382"></a>[LU 0:7.2](/fr/The_Urantia_Book/0#p7_2). C'est le seul âge de cette sorte.
   Il semblerait que le premier âge de l’univers soit précréatif et préévolutionnaire. Par exemple: On parle des natifs de Havona comme de "la progéniture de la Trinité du Paradis". Mais, dans le même paragraphe, ils sont désignés comme des êtres qui ne furent jamais créés. <a id="s42_274"></a>[LU 14:4.10](/fr/The_Urantia_Book/14#p4_10) Puisque les affaires du premier âge de Havona étaient entièrement existentielles, elles devaient alors être préévolutionnaires. (Voir aussi [appendice I, §1: Le premier âge de l'univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-le-premier-%C3%A2ge-de-lunivers) ; [appendice VI, §3: Les paradoxes dans les statuts de Havona](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-dans-le-statut-de-havona) et [§4: Le mécanisme existentiel.](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-le-mécanisme-existentiel))
   Le premier âge de l’univers n'a pas eu de commencement, mais il eut une fin. Il s'acheva quand l'âge présent débuta. C'était peutêtre à l'époque de la création des Anciens des Jours <a id="s43_184"></a>[LU 18:3.4](/fr/The_Urantia_Book/18#p3_4) ou bien à celle du mandat de la Trinité donnant instruction d'organiser les sept superunivers <a id="s43_320"></a>[LU 19:7.1](/fr/The_Urantia_Book/19#p7_1).
-- (b) _Les âges post-havoniens._ Ce terme est souvent utilisé pour désigner les cinq âges qui suivent l’âge de Havona. Il est utilisé parce que ces cinq âges ont beaucoup de choses en commun. Ils ont tous les cinq un commencement et une fin dans le temps ; seul le premier âge est de l’éternel passé.
+- b) _Les âges post-havoniens._ Ce terme est souvent utilisé pour désigner les cinq âges qui suivent l’âge de Havona. Il est utilisé parce que ces cinq âges ont beaucoup de choses en commun. Ils ont tous les cinq un commencement et une fin dans le temps ; seul le premier âge est de l’éternel passé.
   Tous les âges post-havoniens sont expérientiels. La déité expérientielle s'actualise dans les époques post-havoniennes du maitre univers <a id="s45_139"></a>[LU 0:7.1](/fr/The_Urantia_Book/0#p7_1). Ces âges paraissent être caractérisés par une procession à double sens d’ascendeurs et de descendeurs. Dans le présent âge de l'univers, les Créateurs Suprêmes et leurs associés descendent du Paradis vers les créations de l’espace-temps et les créatures évolutionnaires font l’ascension depuis ces mêmes créations vers le Paradis <a id="s45_510"></a>[LU 115:6.5](/fr/The_Urantia_Book/115#p6_5). Dans l’âge suivant , les finalitaires seront associés à d’autres pour aller servir dans l'espace extérieur <a id="s45_662"></a>[LU 31:10.11](/fr/The_Urantia_Book/31#p10_11) et l’on peut s' attendre que les habitants des espaces extérieurs fassent l’ascension du Paradis en passant par les superunivers devenus parfaits <a id="s45_854"></a>[LU 56:7.9](/fr/The_Urantia_Book/56#p7_9).
 - (c\) _Le deuxième âge de l’univers._ C'est le présent âge, l’âge des superunivers évolutionnaires. Cet âge est aussi unique – c'est l’âge de la croissance évolutionnaire de l’Être Suprême. Lorsqu'il aura terminé sa croissance, cet âge s'achèvera et l’occasion de participer à cette expérience extraordinaire s'arrêtera pour toujours <a id="s46_335"></a>[LU 31:10.12](/fr/The_Urantia_Book/31#p10_12). Dans le deuxième âge, on peut faire des expériences finies et croitre par un processus évolutionnaire ; dans les âges postérieurs, on ne pourra plus prendre part à ces aventures <a id="s46_560"></a>[LU 31:10.11](/fr/The_Urantia_Book/31#p10_11).
-- (d) _L'expansion de la destinée._ Les âges successifs voient une expansion de la destinée ; ils fournissent les techniques permettant de surmonter les précédentes limites à la croissance. Par exemple: le premier âge de Havona est un univers parfait ; un univers "limité dans sa perfection". Lors du deuxième âge, l’âge présent, la perfection de Havona s'étend vers l’extérieur, dans les univers imparfaits, et elle atteint ainsi une nouvelle destinée expérientielle.
+- d) _L'expansion de la destinée._ Les âges successifs voient une expansion de la destinée ; ils fournissent les techniques permettant de surmonter les précédentes limites à la croissance. Par exemple: le premier âge de Havona est un univers parfait ; un univers "limité dans sa perfection". Lors du deuxième âge, l’âge présent, la perfection de Havona s'étend vers l’extérieur, dans les univers imparfaits, et elle atteint ainsi une nouvelle destinée expérientielle.
 
 ## § 2. La Déité Expérientielle au cours des âges successifs
 
@@ -331,7 +331,7 @@ Bien sûr, les superunivers existeront toujours à l'âge post-ultime, l’âge 
 
 Il serait peutêtre utile d'analyser la séquence des évènements qui marquèrent la transition entre le premier et le deuxième âge des univers: depuis l’époque de Havona à l'âge du grand univers, depuis l’époque de l’univers central jusqu'à l'âge des sept superunivers. L'histoire n’est pas parfaitement claire, mais elle semble se dérouler en une série de stades qui paraissent se suivre assez logiquement.
 
-- (a) _Le concept non qualifié du premier âge_
+- a) _Le concept non qualifié du premier âge_
 
   > <a id="s335_4"></a>[LU 8:1.9](/fr/The_Urantia_Book/8#p1_9). La Troisième Personne s'éternisa en même temps que Havona et, puisqu'elle est éternelle, l’univers central l’est aussi.
   > 
@@ -339,7 +339,7 @@ Il serait peutêtre utile d'analyser la séquence des évènements qui marquère
 
   Déduction: Les habitants originels de l’univers central n'ont pas d'origine. Ils sont éternels.
 
-- (b) _Fin du premier âge – avant «les temps proches de l’éternité»_
+- b) _Fin du premier âge – avant «les temps proches de l’éternité»_
 
   > <a id="s343_4"></a>[LU 10:2.7](/fr/The_Urantia_Book/10#p2_7). Avec la personnalisation de l’Esprit Infini, s’accomplit «le cycle existentiel de personnalisation de la Déité», et les personnalisations suivantes de Déité ne furent pas coordonnées mais subordonnées (subabsolues). Ce furent les Sept Maitres Esprits.
 
@@ -371,7 +371,7 @@ Déduction: Des activités d'énergies avaient lieu sur les niveaux d’espace d
   > 
   > <a id="s371_4"></a>[LU 19:7.1](/fr/The_Urantia_Book/19#p7_1). Le dernier ordre de Citoyens du Paradis fut créé au moment du mandat de la Trinité instituant le plan des sept superunivers.
 
-- (d) _Le commencement de l’histoire superuniverselle_
+- d) _Le commencement de l’histoire superuniverselle_
 
   > <a id="s375_4"></a>[LU 18:3.4](/fr/The_Urantia_Book/18#p3_4). La première mention figurant dans l'histoire enregistrée au Paradis est le rapport de la trinitisation des Anciens des Jours.
 
@@ -534,10 +534,10 @@ Spéculation: Ces deux transactions sont liées d'une certaine manière.
 > <a id="s533_2"></a>[LU 112:1.9](/fr/The_Urantia_Book/112#p1_9). Le type de personnalité effusé sur les mortels d’Urantia contient trois dimensions «d'expression du moi ou de réalisation de la personne» qui peut être réalisé sur le niveau fini.
 > 
 > <a id="s535_2"></a>[LU 112:7.1](/fr/The_Urantia_Book/112#p7_1). La fusion avec l'Ajusteur de Pensée ajoute:
-> - (a) une fixation de la qualité de divinité ;
-> - (b) la mémoire et l'expérience de l'éternité passée ;
+> - a) une fixation de la qualité de divinité ;
+> - b) la mémoire et l'expérience de l'éternité passée ;
 > - (c\) l’immortalité ;
-> - (d) une phase d’absoluité potentielle qualifiée.
+> - d) une phase d’absoluité potentielle qualifiée.
 > 
 > <a id="s541_2"></a>[LU 107:4.2](/fr/The_Urantia_Book/107#p4_2). Les Ajusteurs sont limités en quantité de divinité, mais non en absoluité de qualité de divinité.
 

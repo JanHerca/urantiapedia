@@ -32,11 +32,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Medellín, 25 de septiembre de 2016
 
-## 1. LA CARRERA ASCENDENTE
+## LA CARRERA ASCENDENTE
+
+**1**
 
 > _La carrera ascendente es el factor más importante en cualquier estudio sobre los mortales del tiempo $y$ del espacio_ ([LU 40:5.18](/es/The_Urantia_Book/40#p5_18))
 
-## 2. CONDICIÓN Y MUNDOS
+## CONDICIÓN Y MUNDOS
+
+**2**
 
 **La carrera ascendente** es ese largo camino de progreso material, intelectual y espiritual, que podemos recorrer, si así lo deseamos, <ins>desde nuestra condición inicial de seres humanos</ins> mortales en nuestro mundo de origen, el planeta Tierra (Urantia), <ins>hasta lograr la condición de espíritus perfeccionados y eternos en el Paraíso</ins>, y aún más allá de ese logro.
 
@@ -54,7 +58,9 @@ Medellín, 25 de septiembre de 2016
 
 **Esto que acabamos de ver**, es <ins>una rapidísima panorámica</ins>, pero vamos a ir más despacio, conociendo esos mundos que acabo de mencionar, las diferentes etapas de nuestra carrera ascendente y el progreso que realizaremos en cada una de ellas.
 
-## 3. ETAPAS
+## ETAPAS
+
+**3**
 
 **En ese largo camino**, vamos a pasar por <ins>siete etapas de progreso muy diferentes entre sí</ins>:
 
@@ -68,11 +74,13 @@ Medellín, 25 de septiembre de 2016
 
 Bien, pues ya comenzamos con
 
-## 4. LA ETAPA DE MORTALES PLANETARIOS
+## LA ETAPA DE MORTALES PLANETARIOS
+
+**4**
 
 **Esta es la etapa inicial** de nuestra carrera ascendente, la que actualmente estamos viviendo y experimentando. La quiero tratar con detalle, porque para entender todo lo que nos espera después, <ins>resulta imprescindible hacernos plenamente conscientes</ins> de que ya hemos comenzado el largo camino de la vida eterna, y <ins>recordar algunos conceptos básicos</ins> de esta primera etapa, porque constituyen la base de todo nuestro futuro.
 
-## 5. ETAPA DE MORTALES PLANETARIOS
+**5**
 
 **Contenidos**
 
@@ -85,7 +93,9 @@ Bien, pues ya comenzamos con
 5. La muerte y tipos de muerte
 6. ¿Qué ocurre después de la muerte física?
 
-## 6. ETAPA DE MORTALES PLANETARIOS
+**6**
+
+### Nuestros elementos constituyentes
 
 **Nuestros elementos constituyentes (1)**
 
@@ -99,13 +109,13 @@ Bien, pues empezamos examinando nuestros elementos constituyentes.
 4. El espíritu
 5. El alma
 
-## 7. ETAPA DE MORTALES PLANETARIOS
+**7**
 
 **Nuestros elementos constituyentes (2)**
 
 **El cuerpo** es nuestro <ins>mecanismo electroquímico</ins>, viviente pero mortal, de naturaleza y origen animal, provisto de estructuras cerebrales, nerviosas y otras, que permiten la superposición y manifestación de los otros 4 elementos ya mencionados. El cuerpo físico nos lo proporcionan nuestros padres materiales, que igualmente son de naturaleza y origen animal.
 
-## 8. ETAPA DE MORTALES PLANETARIOS
+**8**
 
 **Nuestros elementos constituyentes (3)**
 
@@ -118,7 +128,7 @@ Bien, pues empezamos examinando nuestros elementos constituyentes.
 
 **Esta mente humana** tiene conciencia de sí misma (identidad), porque al estar bajo la influencia de los 7EAM, sólo necesita para funcionar el cerebro, al que ya está asociada.
 
-## 9. ETAPA DE MORTALES PLANETARIOS
+**9**
 
 **Nuestros elementos constituyentes (4)**
 
@@ -143,13 +153,13 @@ Bien, pues empezamos examinando nuestros elementos constituyentes.
 - <ins>La consagración de la personalidad a hacer la voluntad del Padre</ins>
 - <ins>La adoración</ins> o reconocimiento sincero de los valores divinos y del amor a Dios
 
-## 10. ETAPA DE MORTALES PLANETARIOS
+**10**
 
 **Nuestros elementos constituyentes (5)**
 
 **El espíritu** es un <ins>fragmento prepersonal, divino e inmortal</ins>, que también el Padre Universal nos otorga, para que resida en nuestra mente, y desde allí nos oriente moralmente y realice en ella los ajustes necesarios para propiciar nuestro avance espiritual. Este espíritu divino está destinado a fusionarse con nosotros, con nuestra personalidad, si así lo deseamos y trabajamos para ello. En el LU recibe el nombre de <ins>Ajustador del Pensamiento o Monitor de Misterio</ins>.
 
-## 11. ETAPA DE MORTALES PLANETARIOS
+**11**
 
 **Nuestros elementos constituyentes (6)**
 
@@ -165,7 +175,9 @@ Bien, pues empezamos examinando nuestros elementos constituyentes.
 
 Veamos ahora
 
-## 12. ETAPA DE MORTALES PLANETARIOS
+**12**
+
+### Otras ayudas que recibimos
 
 **Otras ayudas que recibimos (49.6.1)**
 
@@ -178,7 +190,9 @@ Veamos ahora
  3. El Espíritu Santo, que procede del Espíritu Infinito, recibido a través de la Ministra Divina, compañera de Miguel de Nebadon en la creación del UL.
 8. **Y a medida que progresemos** en la escala de la inteligencia y de la percepción espiritual, recibiremos nuevas influencias espirituales superiores.
 
-## 13. ETAPA DE MORTALES PLANETARIOS
+**13**
+
+### Los 7 círculos psíquicos del progreso humano
 
 **Los 7 círculos psíquicos del progreso humano (1)**
 
@@ -194,7 +208,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Pero el crecimiento cualitativo** de nuestra alma está ligado a nuestra Fe y a nuestros Actos; porque, por un lado, depende _totalmente_ de que **nuestra fe** capte la verdad de que el hombre es hijo de Dios, –y cuando eso ocurre, esa verdad se convierte en experiencia-, pero, por otro lado, **nuestros actos** nuestras obras, la realización de la voluntad de Dios– son imprescindibles para alcanzar la conciencia de que somos parte integrante de la realidad cósmica del Ser Supremo.
 
-## 14. ETAPA DE MORTALES PLANETARIOS
+**14**
 
 **Los 7 Círculos Psíquicos del progreso humano (2)**
 
@@ -205,7 +219,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
  - La sintonía con el Ajustador
 4. **Un crecimiento desproporcionado** de unas partes sobre otras, conlleva siempre <ins>dos peligros alternativos</ins>: el de caer en la incapacidad para percibir las directrices del Ajustador o el de interpretar fanáticamente esas directrices.
 
-## 15. ETAPA DE MORTALES PLANETARIOS
+**15**
 
 **Los siete Círculos Psíquicos del progreso humano (3)**
 
@@ -216,7 +230,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
  - **y que cuando la mente** escoge la verdad, la belleza y la bondad, está recorriendo los 7 círculos, bajo la guía de los 7EAM, unificados y dirigidos por el Espíritu de la Sabiduría.
  - **Y después de completarse** los 7 círculos, <ins>el don de la mente morontial se superpone</ins> a la mente que está bajo la influencia de estos espíritus ayudantes, lo que inicia la carrera morontial.
 
-## 16. ETAPA DE MORTALES PLANETARIOS
+**16**
+
+### Logros que alcanzaremos en los 7 círculos
 
 **Logros que alcanzaremos en los 7 círculos**
 
@@ -231,7 +247,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Por último, decir,** que <ins>si la conquista de estos 7 Círculos Cósmicos no la alcanzamos antes de la muerte física</ins>, formará parte de nuestra experiencia en los MMA, salvo que en la imposibilidad de alcanzar estos mundos haya culpa por parte nuestra o que nuestras intenciones y deseos no tengan un valor de supervivencia.
 
-## 17. ETAPA DE MORTALES PLANETARIOS
+**17**
 
 **Logros que alcanzaremos. Círculo 7º (1)**
 
@@ -240,7 +256,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 1. El funcionamiento adecuado de la personalidad humana,
 2. Y la capacidad para alcanzar la individualidad espiritual.
 
-## 18. ETAPA DE MORTALES PLANETARIOS
+**18**
 
 **Logros que alcanzaremos. Círculo 7º (2)**
 
@@ -261,7 +277,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - que también ha recibido el Espíritu de la Verdad
 - Y que se nos ha incluido en los circuitos de influencia del Espíritu Santo
 
-## 20. ETAPA DE MORTALES PLANETARIOS
+**20**
 
 **Logros que alcanzaremos. Círculo 7º (4)**
 
@@ -274,7 +290,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 1. **La entrada en el 7º círculo** nos convierte en verdaderos ciudadanos potenciales del UL.
 2. **Y desde ese momento** <ins>pertenecemos a un grupo de 1.000 mortales</ins> en condiciones similares de progreso, y estamos <ins>bajo el cuidado y la custodia de 1 Pareja de Serafines y 1 Compañía de Querubines Auxiliares</ins>.
 
-## 21. ETAPA DE MORTALES PLANETARIOS
+**21**
 
 **Logros que alcanzaremos. Círculos 6º al 4º**
 
@@ -285,7 +301,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 3. **Que cuando alcanzamos el 5º círculo**, <ins>pertenecemos a un grupo de unas 100 personas, y que 1 Pareja de Serafines con 1 Grupo de Querubines se encargan de nosotros</ins>.
 4. **Que cuando alcanzamos el 4º círculo**, <ins>somos reunidos en grupos de 10 , y que 1 Pareja de Serafines, asistida por 1 Compañía de Querubines, se encarga nuevamente de nosotros</ins>.
 
-## 22. ETAPA DE MORTALES PLANETARIOS
+**22**
 
 **Logros que alcanzaremos. Círculo 3º**
 
@@ -300,7 +316,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Del 2º círculo** no se nos dice nada específico.
 
-## 23. ETAPA DE MORTALES PLANETARIOS
+**23**
 
 **Logros que alcanzaremos. Círculo 1º**
 
@@ -311,7 +327,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 3. **Que, en consecuencia,** la mente se vuelve cada vez más semejante a la inteligencia del estado morontial,
 4. **Y también** que en este Primer Círculo, nos sentimos más intensamente ciudadanos del universo y parte integrante del Ser Supremo.
 
-## 24. ETAPA DE MORTALES PLANETARIOS
+**24**
+
+### La muerte y tipos de muerte
 
 **La muerte y tipos de muerte (1)**
 
@@ -321,7 +339,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 2. Desde una visión filosófica con valores de supervivencia, y
 3. Desde el punto de vista de la supervivencia de la personalidad
 
-## 25. ETAPA DE MORTALES PLANETARIOS
+**25**
 
 **La muerte y tipos de muerte (2)**
 
@@ -332,7 +350,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
  - La muerte intelectual (o de la mente)
  - La muerte física (del cuerpo y de la mente)
 
-## 26. ETAPA DE MORTALES PLANETARIOS
+**26**
 
 **La muerte y tipos de muerte (3)**
 
@@ -346,7 +364,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **La muerte espiritual** es completamente definitiva y, aunque la vida física de ese individuo continúe por el simple impulso material de las energías cósmicas, el interesado ya está muerto cósmicamente y nunca más resucitará. Su Ajustador se marcha a Divinington, pero su Serafín personal o colectivo, seguirá cumpliendo sus deberes respecto de ese individuo abandonado por su Ajustador.
 
-## 27. ETAPA DE MORTALES PLANETARIOS
+**27**
 
 **La muerte y tipos de muerte (4)**
 
@@ -359,7 +377,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - **El cuerpo menos la mente volitiva** ya no es humano,
 - **Pero el alma de ese individuo** puede sobrevivir de acuerdo con la elección anterior de su voluntad.
 
-## 28. ETAPA DE MORTALES PLANETARIOS
+**28**
 
 **La muerte y tipos de muerte (5)**
 
@@ -369,7 +387,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Esto conlleva** el deterioro de la mente y pone fin a la conciencia mortal, que no podrá volver a aparecer hasta que se haya preparado una situación cósmica que permita que esa misma personalidad humana ejerza de nuevo su actividad en relación con la energía viviente.
 
-## 29. ETAPA DE MORTALES PLANETARIOS
+**29**
+
+### ¿Qué ocurre después de la muerte física?
 
 **¿Qué ocurre después de la muerte física? (1)**
 
@@ -378,7 +398,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - El Alma Morontial
 - La Personalidad inmortal
 
-## 30. ETAPA DE MORTALES PLANETARIOS
+**30**
 
 **¿Qué ocurre después de la muerte física? (2)**
 
@@ -393,7 +413,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 (*) En el LU se dice «<ins>personalidad</ins> de la criatura» pero ojo, esta personalidad no puede estar referida a la que recibe el individuo como don del Padre, ya que ese don no forma parte todavía del Ajustador, por lo tanto el concepto de la personalidad en esa frase, no puede tener sino el valor de <ins>personalidad material o identidad</ins>.
 
-## 31. ETAPA DE MORTALES PLANETARIOS
+**31**
 
 **¿Qué ocurre después de la muerte física? (3)**
 
@@ -407,7 +427,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - **Durante ese tiempo**, <ins>el alma jamás manifiesta una identidad activa</ins>, porque no la tiene,
 - **y tampoco establece** <ins>ningún tipo de comunicación con otras personalidades</ins>.
 
-## 32. ETAPA DE MORTALES PLANETARIOS
+**32**
 
 **¿Qué ocurre después de la muerte física? (4)**
 
@@ -418,13 +438,15 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Y, además** de estos tres elementos disgregados (Espíritu, Alma y Personalidad), **la historia de la vida humana**, tal como fue vivida en la carne, se conserva en el UL, junto con ciertos registros vivientes.
 
-## 33. ETAPA DE MORTALES PLANETARIOS
+**33**
 
 **¿Qué ocurre después de la muerte física? (5)**
 
 **Tras esta situación de muerte** del cuerpo físico y de la mente material, y de disgregación de los elementos no materiales, los Mortales Planetarios, **pasamos a la etapa de Supervivientes Dormidos**.
 
-## 34. ETAPA DE SUPERVIVIENTES DORMIDOS
+## ETAPA DE SUPERVIVIENTES DORMIDOS
+
+**34**
 
 **Ya vimos que después de la muerte** del cuerpo físico y de la mente material, el alma, separada del Ajustador, no puede manifestar identidad ni establecer ningún tipo de comunicación con los seres que viven en la Tierra. Podríamos decir, por tanto, que el yo material de la persona fallecida **se encuentra en la más absoluta oscuridad**.
 
@@ -436,7 +458,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Clic**
 
-## 35. ETAPA DE SUPERVIVIENTES DORMIDOS
+**35**
 
 **Contenidos**
 
@@ -450,7 +472,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 6. Modo en que se realiza la resurrección
 7. Los mortales que no despiertan, que no resucitan
 
-## 36. ETAPA DE SUPERVIVIENTES DORMIDOS
+**36**
+
+### Nuestro tiempo de permanencia en esta etapa
 
 **Nuestro tiempo de permanencia en esta etapa**
 
@@ -472,7 +496,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
  **Todos estos seres humanos** son <ins>repersonalizados al tercer día, aunque en mundos diferentes</ins> y mediante órdenes de ascensión diferentes, como enseguida veremos.
 6. **Por último, la de aquellos seres humanos**, generalmente procedentes <ins>de mundos evolutivos avanzados</ins>, que en su propia vida física fusionan con su Ajustador, sin pasar por las puertas de la muerte. Con toda probabilidad han alcanzado el primer círculo, aunque este hecho, por sí solo, no implica fusionar en vida con el Ajustador. Estos seres humanos son despertados de inmediato en la sede del UL.
 
-## 37. ETAPA DE SUPERVIVIENTES DORMIDOS
+**37**
+
+### Órdenes de ascensión para la supervivencia
 
 **Órdenes de ascensión para la supervivencia (1)**
 
@@ -491,7 +517,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **El hecho de que se nos despierte antes o después** y de que se nos incluya en una o en otra de las órdenes de ascensión, <ins>depende</ins>, como ya hemos visto en la diapositiva anterior, <ins>de la situación de diferente progreso</ins> en que nos encontremos en el momento de nuestra muerte, y también de los valores de supervivencia que hayamos alcanzado. A mayores logros y mayores valores de supervivencia, más pronto se nos despierta.
 
-## 38. ETAPA DE SUPERVIVIENTES DORMIDOS
+**38**
 
 **Órdenes de ascensión para la supervivencia (2)**
 
@@ -502,7 +528,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Generalmente**, todos los mortales que despiertan por alguna de estas órdenes, son repersonalizados en el 1º MMA.
 
-## 39. ETAPA DE SUPERVIVIENTES DORMIDOS
+**39**
 
 **Órdenes de ascensión para la supervivencia (3)**
 
@@ -511,7 +537,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 2. Los de avance intermedio, que son repersonalizados en un mundo intermedio de las mansiones
 3. Los más avanzados, que son repersonalizados en el 7º MMA
 
-## 40. ETAPA DE SUPERVIVIENTES DORMIDOS
+**40**
 
 **Órdenes de ascensión para la supervivencia (4)**
 
@@ -521,7 +547,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Estos niños son repersonalizados** en los mundos finalistas del Sistema, de la Constelación o del UL, dependiendo de donde sean repersonalizados sus padres.
 
-## 41. ETAPA DE SUPERVIVIENTES DORMIDOS
+**41**
 
 **Órdenes de ascensión para la supervivencia (5)**
 
@@ -532,7 +558,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 5\. **Órdenes de ascensión primarias modificadas**. Se dictan para despertar a aquellos mortales, generalmente <ins>procedentes de mundos evolutivos avanzados</ins> que fusionan con su Ajustador y que no mueren. Aparecen en la sede del UL.
 
-## 42. ETAPA DE SUPERVIVIENTES DORMIDOS
+**42**
+
+### Requisitos para una Orden de Ascensión Individual
 
 **Requisitos para una Orden de Ascensión Individual**
 
@@ -545,7 +573,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 5. Que los Ancianos de los Días dicten y transmitan, por los circuitos de comunicación que van a Salvington, que ese ser humano avance de posición
 6. Que los Tribunales del Soberano de Nebadon decreten el paso inmediato de ese ser humano a las salas de resurrección de los MMA.
 
-## 43. ETAPA DE SUPERVIVIENTES DORMIDOS
+**43**
+
+### Mundos donde se realiza la resurrección
 
 **Mundos donde se realiza la resurrección (1)**
 
@@ -562,7 +592,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - **En la Sede de las Constelaciones** (Edentia es la Sede de nuestra Constelación de Norlatiadek) donde se reensambla a los mortales del grupo más perfeccionado de las órdenes de ascensión secundarias modificadas.
 - **En la Sede del Universo Local** (Salvingtón), en la que reciben su investidura los seres humanos fusionados con su Ajustador.
 
-## 44. ETAPA DE SUPERVIVIENTES DORMIDOS
+**44**
 
 **Mundos donde se lleva a cabo la resurrección (2)**
 
@@ -580,7 +610,11 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Estas alas terminan en salas circulares**, que se utilizan para despertar al menos a un millón de individuos de las razas mezcladas de los mundos postadánicos normales.
 
-## 45.ETAPA DE SUPERVIVIENTES DORMIDOS
+## ETAPA DE SUPERVIVIENTES DORMIDOS
+
+**45**
+
+### Cuadro resumen
 
 **Cuadro resumen (1)**
 
@@ -591,7 +625,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - El tiempo en que se produce la resurrección, y
 - Los mundos donde se lleva a cabo la resurrección
 
-## 46.ETAPA DE SUPERVIVIENTES DORMIDOS
+**46**
 
 **Cuadro resumen (2)**
 
@@ -610,7 +644,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 | | 1º Círculo Mundos de evoluc. intermedia | Ordenes de ascensión secundarias modificadas. Grupo más perfeccionado | Resurrección al tercer día | Sede de la Constelación |
 | 5 | 1º Círculo. Mundos avanzados. | Órdenes de ascensión primarias modificadas. Fusionados con el Ajustador | Tránsito directo desde la vida a las salas de resurrección | Sede del Universo Local |
 
-## 47. ETAPA DE SUPERVIVIENTES DORMIDOS
+**47**
+
+### Modo en que se realiza la resurrección
 
 **Modo en que se realiza la resurrección (1)**
 
@@ -627,7 +663,7 @@ Y para ello, se reúnen:
 
 **Y en esas cámaras de ensamblaje de la vida**, los Supervisores del Poder Morontial nos proporcionan un cuerpo vital, de naturaleza morontial (que es una síntesis de lo material y lo espiritual), que nos permite recuperar la conciencia, mediante la reunión de las partes constituyentes de nuestra personalidad.
 
-## 48. ETAPA DE SUPERVIVIENTES DORMIDOS
+**48**
 
 **Modo en que se realiza la resurrección (2)**
 
@@ -642,7 +678,7 @@ Y para ello, se reúnen:
 
 **Pero antes de irnos a esa etapa**, veamos qué ocurre con 
 
-## 49.ETAPA DE SUPERVIVIENTES DORMIDOS
+**49**
 
 **Modo en que se realiza la resurrección (3)**
 
@@ -655,7 +691,7 @@ Y para ello, se reúnen:
 - **Que reflejará, mejor que la forma física**, nuestra naturaleza interior, y que este mejor reflejo será progresivo en las sucesivas formas morontiales y espirituales que tengamos.
 - **Y que tendrá la misma finalidad** que nuestro cuerpo actual, es decir, que a través de esa forma morontial que nos van a fabricar, y a entregar, podrán manifestarse, la mente y el alma morontiales, así como el Ajustador y la Personalidad, que los unifica a todos.
 
-## 50. ETAPA DE SUPERVIVIENTES DORMIDOS
+**50**
 
 **Modo en que se realiza la resurrección (4)**
 
@@ -671,7 +707,9 @@ Y para ello, se reúnen:
 - **y pondrá de manifiesto** una creciente capacidad asociativa con ella a lo largo de los 570 niveles de la vida morontial, por los que vamos a pasar.
 
 
-## 51. ETAPA DE SUPERVIVIENTES DORMIDOS
+**51**
+
+### Mortales que no despiertan, que no resucitan
 
 **Mortales que no despiertan, que no resucitan (1)**
 
@@ -690,7 +728,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Sin embargo**, su destrucción no es inmediata.
 
-## 52. ETAPA DE SUPERVIVIENTES DORMIDOS
+**52**
 
 **Mortales que no despiertan, que no resucitan (2)**
 
@@ -702,7 +740,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Pero únicamente los tres Ancianos de los Días**, que dirigen el SU tienen la potestad conjunta de decretar el cese de la existencia de los mortales con voluntad, que están dormidos. Este cese de la existencia, se decreta normalmente en el momento del juicio de dispensación, que, en un planeta como Urantia, tiene lugar al final de una dispensación planetaria.
 
-## 53. ETAPA DE SUPERVIVIENTES DORMIDOS
+**53**
 
 **Mortales que no despiertan, que no resucitan (3)**
 
@@ -715,15 +753,17 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Esta situación es** eternamente irreversible para el ser humano, que ha muerto con carácter definitivo.
 
-## 54. ETAPA DE SUPERVIVIENTES DORMIDOS
+**54**
 
 **Pero los que fueron resucitados...**
 
 ... comenzaron su **<ins>etapa de Estudiantes en los MMA.</ins>**
 
-## 55. ETAPA DE ESTUDIANTES EN LOS MMA
+## ETAPA DE ESTUDIANTES EN LOS MMA
 
-## 56. ETAPA DE ESTUDIANTES EN LOS MMA
+**55**
+
+**56**
 
 **Contenidos**
 
@@ -737,7 +777,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
  3. En Jerusem, la sede de nuestro Sistema Local
 
 
-## 57. ETAPA DE ESTUDIANTES EN LOS MMA
+**57**
+
+### Descripción y habitantes de los MMA
 
 **Descripción y habitantes de los MMA (1)**
 
@@ -747,7 +789,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 - quiénes los habitan y gobiernan
 - y, sobre todo, para qué sirven dichos mundos.
 
-## 58. ETAPA DE ESTUDIANTES EN LOS MMA
+**58**
 
 **Descripción y habitantes de los MMA (2)**
 
@@ -759,7 +801,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Dicho esto**, ya no se nos indica prácticamente nada más en cuanto a las características físicas propias de estos MMA.
 
-## 59. ETAPA DE ESTUDIANTES EN LOS MMA
+**59**
 
 **Descripción y habitantes de los MMA (3)**
 
@@ -769,7 +811,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Pero en esta pantalla los estamos viendo** desde muy cerca. Vamos a observarlos con una perspectiva más amplia, más global, y así poder ver mejor dónde se sitúan.
 
-## 60. ETAPA DE ESTUDIANTES EN LOS MMA
+**60**
 
 **Descripción y habitantes de los MMA (4)**
 
@@ -777,7 +819,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **podemos ahora ver**, y las respectivas 7 esferas secundarias de cada uno de ellos, giran todos (los 56) alrededor de Jerusem, que es el Mundo Sede o la Capital del Sistema de Satania. Todos estos (los 57), son los MMO del Sistema de Satania. Recordadlo bien porque pronto vamos a referirnos nuevamente a ellos,
 
-## 61. ETAPA DE ESTUDIANTES EN LOS MMA
+**61**
 
 **Descripción y habitantes de los MMA (5)**
 
@@ -785,7 +827,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **¿Alguna duda respecto** de cuántos son y dónde están localizados los MMA?
 
-## 62. ETAPA DE ESTUDIANTES EN LOS MMA
+**62**
 
 **Descripción y habitantes de los MMA (6)**
 
@@ -798,13 +840,13 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 - Ministros de Transición, Espirongas y Espornagias
 - Mortales fusionados con el Espíritu y Mortales fusionados con el Ajustador
 
-## 63. ETAPA DE ESTUDIANTES EN LOS MMA
+**63**
 
 **Descripción y habitantes de los MMA (7)**
 
 **Y respecto a quienes** gobiernan los MMA, podemos decir que sus responsables son los Hijos Melquisedeks y los Supervisores del Poder Morontial, y que, además, hay un gobernador en cada MMA, aunque no se nos indica nada específico de él.
 
-## 64. ETAPA DE ESTUDIANTES EN LOS MMA
+**64**
 
 **Descripción y habitantes de los MMA (8)**
 
@@ -812,7 +854,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **sirven para que los mortales <ins>adultos</ins> supervivientes**, procedentes de mundos evolutivos como el nuestro, podamos continuar nuestro aprendizaje y ascenso paulatinos, preparándonos así para alcanzar otros mundos morontiales de mayor progreso aún, como los del Universo Local de Nebadon, los mundos espirituales del Superuniverso de Orvonton, los mundos perfectos de Havona y el propio Paraíso.
 
-## 65. ETAPA DE ESTUDIANTES EN LOS MMA
+**65**
+
+### Nuevo despertar y reanudación de vida
 
 **Nuevo despertar y reanudación de vida (1)**
 
@@ -830,7 +874,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Por lo tanto, en los MMA** <ins>reconoceremos y seremos reconocidos</ins> por aquellas personas con las que establecimos lazos en Urantia.
 
-## 66. ETAPA DE ESTUDIANTES EN LOS MMA
+**66**
 
 **Nuevo despertar y reanudación de vida (2)**
 
@@ -844,7 +888,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Desde cada uno de los MMA por los que pasemos**, <ins>podremos visitar el Mundo de Transición correspondiente al mismo número del MMA</ins>, así como el sector de Jerusem relacionado con dicho Mundo de Transición, y también podremos visitar y observar cualquiera de los siete mundos (de actividades colectivas asociadas) que rodean al respectivo Mundo de Transición.
 
-## 67. ETAPA DE ESTUDIANTES EN LOS MMA
+**67**
 
 **Nuevo despertar y reanudación de vida (3)**
 
@@ -860,7 +904,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Bien, pues hasta aquí hemos visto** las generalidades de nuestro despertar y de la reanudación de la vida en los MMA, y ahora procede que veamos, sintéticamente, cuáles van a ser los logros que alcanzaremos en los MMO del Sistema.
 
-## 68. ETAPA DE ESTUDIANTES EN LOS MMA
+**68**
+
+### Logros en el Mundo de los Finalistas
 
 **Logros en el Mundo de los Finalistas (1)**
 
@@ -882,7 +928,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Sin embargo**, <ins>los Transformadores de la Energía y los Supervisores del Poder Morontial</ins> nos los hacen momentáneamente visibles con ocasión de las asambleas que anualmente celebran.
 
-## 69. ETAPA DE ESTUDIANTES EN LOS MMA
+**69**
 
 **Logros en el Mundo de los Finalistas (2)**
 
@@ -899,7 +945,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 - Mortales de transición
 - Visitantes estudiantiles
 
-## 70. ETAPA DE ESTUDIANTES EN LOS MMA
+**70**
+
+#### La Guardería Probatoria
 
 **Logros en el Mundo de los Finalistas (3)**
 
@@ -923,13 +971,13 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Y en la próxima diapositiva** –fijaos bien– vamos a poder presenciar una de esas tiernas escenas del reencuentro de los padres con los hijos, que tiene lugar en las puertas de la Guardería. Como podréis comprobar, la emoción es tremenda. Aquí los tenemos.
 
-## 71. ETAPA DE ESTUDIANTES EN LOS MMA
+**71**
 
 **Logros en el Mundo de los Finalistas (4)**
 
 **La Guardería Probatoria (2)**
 
-## 72. ETAPA DE ESTUDIANTES EN LOS MMA
+**72**
 
 **Logros en el Mundo de los Finalistas (5)**
 
@@ -947,7 +995,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **En los Mundos Finalistas de la Constelación y de la sede del UL** también existen Guarderías Probatorias similares para los niños sin Ajustador, o con él si aún no han tomado su decisión por la vida eterna, cuyos padres mortales son llamados por las órdenes de ascensión primarias y secundarias modificadas.
 
-## 73. ETAPA DE ESTUDIANTES EN LOS MMA
+**73**
+
+### Logros en el Primer Mundo de las Mansiones
 
 **Logros en el Primer Mundo de las Mansiones (1)**
 
@@ -969,7 +1019,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 - Los Guardianes de los Edificios
 - Los Supervisores de las Excursiones
 
-## 74. ETAPA DE ESTUDIANTES EN LOS MMA
+**74**
 
 **Logros en el Primer Mundo de las Mansiones (2)**
 
@@ -983,7 +1033,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **También trabajaremos para comprender, poco a poco, el significado de la mota morontial.**
 
-## 75. ETAPA DE ESTUDIANTES EN LOS MMA
+**75**
 
 **Logros en el Primer Mundo de las Mansiones (3)**
 
@@ -997,7 +1047,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Finalmente, en este 1^er^ MMA** deberemos alcanzar, al menos, <ins>el nivel de la dispensación postadánica</ins> de los mundos evolutivos normales.
 
-## 76. ETAPA DE ESTUDIANTES EN LOS MMA
+**76**
+
+### Logros en el Segundo Mundo de las Mansiones
 
 **Logros en el Segundo Mundo de las Mansiones (1)**
 
@@ -1014,7 +1066,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Crearemos nuevas órdenes sociales** y nuevas disposiciones gubernamentales.
 
-## 77. ETAPA DE ESTUDIANTES EN LOS MMA
+**77**
 
 **Logros en el Segundo Mundo de las Mansiones (2)**
 
@@ -1028,7 +1080,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **En este 2º MMA alcanzaremos**, al menos, el nivel intelectual de la cultura posterior al <ins>Hijo Magistral</ins> en los mundos evolutivos ideales.
 
-## 78. ETAPA DE ESTUDIANTES EN LOS MMA
+**78**
+
+### Logros en el Tercer Mundo de las Mansiones
 
 **Logros en el Tercer Mundo de las Mansiones**
 
@@ -1046,7 +1100,9 @@ Es la **sede de los Educadores de los MMA**, aunque ejercen su actividad en las 
 
 **En este 3º MMA alcanzaremos**, al menos, el nivel de la época posterior a la donación de un Hijo Creador en un planeta habitado normal.
 
-## 79. ETAPA DE ESTUDIANTES EN LOS MMA
+**79**
+
+### Logros en el Cuarto Mundo de las Mansiones
 
 **Logros en el Cuarto Mundo de las Mansiones (1)**
 
@@ -1058,7 +1114,7 @@ Es la **sede de los Educadores de los MMA**, aunque ejercen su actividad en las 
 
 **Lograremos el dominio del idioma del UL.**
 
-## 80. ETAPA DE ESTUDIANTES EN LOS MMA
+**80**
 
 **Logros en el 4º Mundo de las Mansiones (2)**
 
@@ -1070,7 +1126,9 @@ Es la **sede de los Educadores de los MMA**, aunque ejercen su actividad en las 
 
 La cultura intelectual y social **de este 4º MMA** se puede comparar con la vida mental y social de **la época posterior al** **<ins>Hijo Instructor</ins>** en los planetas que tienen una evolución normal.
 
-## 81. ETAPA DE ESTUDIANTES EN LOS MMA
+**81**
+
+### Logros en el Quinto Mundo de las Mansiones
 
 **Logros en el Quinto Mundo de las Mansiones (1)**
 
@@ -1086,7 +1144,7 @@ La cultura intelectual y social **de este 4º MMA** se puede comparar con la vid
 
 **Sentiremos en nosotros** el verdadero nacimiento de una conciencia cósmica, de una mentalidad universal y de una expansión de horizontes.
 
-## 82. ETAPA DE ESTUDIANTES EN LOS MMA
+**82**
 
 **Logros en el 5º Mundo de las Mansiones (2)**
 
@@ -1102,7 +1160,9 @@ La cultura intelectual y social **de este 4º MMA** se puede comparar con la vid
 
 **La cultura de este 5º MMA** corresponde en general a la etapa inicial la era de luz y de vida en los planetas cuyo progreso evolutivo es normal.
 
-## 83. ETAPA DE ESTUDIANTES EN LOS MMA
+**83**
+
+### Logros en el Sexto Mundo de las Mansiones
 
 **Logros en el Sexto Mundo de las Mansiones**
 
@@ -1122,7 +1182,9 @@ La cultura intelectual y social **de este 4º MMA** se puede comparar con la vid
 
 **Alcanzaremos un estado** comparable al del elevado desarrollo que caracteriza a aquellos mundos evolutivos que han progresado normalmente más allá de la etapa inicial de luz y de vida.
 
-## 84. ETAPA DE ESTUDIANTES EN LOS MMA
+**84**
+
+### Logros en el Séptimo Mundo de las Mansiones
 
 **Logros en el Séptimo Mundo de las Mansiones**
 
@@ -1140,7 +1202,9 @@ La cultura intelectual y social **de este 4º MMA** se puede comparar con la vid
 
 **Para presenciar nuestra partida** hacia Jerusem con la categoría de residentes o ciudadanos, <ins>habrá reuniones en el mar de cristal</ins>.
 
-## 85. ETAPA DE ESTUDIANTES EN LOS MMA
+**85**
+
+### Logros en Jerusem, la sede del Sistema
 
 **Logros en Jerusem, la sede del Sistema (1)**
 
@@ -1156,7 +1220,7 @@ La cultura intelectual y social **de este 4º MMA** se puede comparar con la vid
 
 **Los Intérpretes de la Ciudadanía Cósmica** (Serafines Administradores) nos guiarán y estimularán nuestra apreciación por la responsabilidad en las tareas de gobierno de un universo.
 
-## 86. ETAPA DE ESTUDIANTES EN LOS MMA
+**86**
 
 **Logros en Jerusem, la sede del Sistema (2)**
 
@@ -1170,13 +1234,15 @@ Nuestra personalidad mortal, que dio comienzo en los mundos evolutivos metida en
 
 **Y lo que ocurre a partir de ahora**, es que <ins>entramos en la ...Cuarta Etapa de nuestra Carrera Ascendente</ins>
 
-## 87. ETAPA DE PROGRESORES MORONTIALES
+## ETAPA DE PROGRESORES MORONTIALES
+
+**87**
 
 **A lo largo de las tres etapas anteriores**, con nuestro paso por Urantia, por los 7 MMA, por las esferas de transición que rodean a Jerusem y por la propia capital del Sistema, habremos adquirido un bagaje importante y tal vez, incluso, habremos fusionado con nuestro Ajustador, pero aún nos queda un largo recorrido de progreso por los mundos morontiales de nuestro Universo Local.
 
 **Por eso, durante esta 4ª etapa** de nuestra carrera ascendente, se nos clasifica como Progresores Morontiales.
 
-## 88. ETAPA DE PROGRESORES MORONTIALES
+**88**
 
 **Contenidos / Subetapas**
 
@@ -1192,7 +1258,9 @@ Nuestra personalidad mortal, que dio comienzo en los mundos evolutivos metida en
 7. Una, en sus mundos formativos
 8. Y otra en Salvington, la capital
 
-## 89. ETAPA DE PROGRESORES MORONTIALES
+**89**
+
+### Mundos que vamos a conocer
 
 **Mundos que vamos a conocer (1)**
 
@@ -1212,7 +1280,7 @@ Nuestra personalidad mortal, que dio comienzo en los mundos evolutivos metida en
 
 Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
-## 90. ETAPA DE PROGRESORES MORONTIALES
+**90**
 
 **Mundos que vamos a conocer (2)**
 
@@ -1220,7 +1288,7 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **También está conformada** por un conglomerado de mundos arquitectónicos que constituyen la capital Edentia y sus mundos formativos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
-## 91. ETAPA DE PROGRESORES MORONTIALES
+**91**
 
 **Mundos que vamos a conocer (3)**
 
@@ -1228,7 +1296,7 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **Edentia, la capital de Norlatiadek**, está rodeada por **70 satélites o mundos primarios** que giran alrededor de ella, y cada uno de estos mundos primarios está rodeado a su vez por 10 satélites o mundos secundarios que giran alrededor de cada uno de los mundos primarios. En total son 700 mundos secundarios, que junto con los 70 primarios y la capital Edentia, suman 771 mundos arquitectónicos en esta Constelación de Norlatiadek. Todos estos mundos son también mundos educativos o formativos.
 
-## 92. ETAPA DE PROGRESORES MORONTIALES
+**92**
 
 **Mundos que vamos a conocer (4)**
 
@@ -1236,7 +1304,7 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **También está conformado** por un conglomerado de mundos arquitectónicos que constituyen la capital Salvington y sus mundos formativos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
-## 93. ETAPA DE PROGRESORES MORONTIALES
+**93**
 
 **Mundos que vamos a conocer (5)**
 
@@ -1248,7 +1316,9 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **Igualmente, podemos apreciar** el lugar que ocupa la primera Esfera del grupo de mundos Melquisedek, que es el mundo piloto o receptor, donde llegaremos los mortales ascendentes cuando accedamos al UL de Nebadon.
 
-## 94. ETAPA DE PROGRESORES MORONTIALES
+**94**
+
+### Cambios que vamos a experimentar
 
 **Cambios que vamos a experimentar**
 
@@ -1264,7 +1334,9 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **Ojo!. Estamos hablando de cambios, no de vidas nuevas** en un sentido radical, donde uno no tiene ninguna conciencia de su vida anterior. <ins>Vida consciente no tenemos más que una: la que recibimos aquí, junto con nuestra personalidad e identidad</ins>. Lo que cambia es el estado de esa vida y las circunstancias en las que se desenvuelve. En esta etapa de Progresores morontiales ni siquiera nos cambian el cuerpo ni la mente, simplemente los ajustan. Y tampoco perdemos la conciencia. Por lo tanto, <ins>siempre somos la misma personalidad y conservamos la memoria de todo aquello que fue esencial a lo largo de nuestra vida</ins>.
 
-## 95. ETAPA DE PROGRESORES MORONTIALES
+**95**
+
+### Mundos formativos de la Constelación
 
 **Mundos formativos de la Constelación (1)**
 
@@ -1289,7 +1361,7 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 
 **Esa contradicción es solo aparente**, ya que <ins>en el primero de los párrafos citados sólo se hace referencia a la unificación de la personalidad</ins>, mientras que en el segundo párrafo se hace referencia no sólo a la unificación, que se pudo conseguir antes (en los mundos de las mansiones), sino <ins>a un conjunto de acciones más amplias, que incluyen también la movilización y realización de la personalidad</ins>, y es todo el conjunto el que solo se alcanza en Jerusem, antes de ir a Edentia.
 
-## 96. ETAPA DE PROGRESORES MORONTIALES
+**96**
 
 **Mundos formativos de la Constelación (2)**
 
@@ -1305,7 +1377,7 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 
 **Y con este esquema** de convivencia progresiva,
 
-## 97. ETAPA DE PROGRESORES MORONTIALES
+**97**
 
 **Mundos formativos de la Constelación (3)**
 
@@ -1317,7 +1389,7 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 5. **Fomentar la coordinación progresiva de la carrera** de ascensión al Paraíso.
 6. **Aumentar nuestra perspicacia espiritual** mejorando nuestra capacidad para captar las metas y los significados eternos.
 
-## 98. ETAPA DE PROGRESORES MORONTIALES
+**98**
 
 **Mundos formativos de la Constelación (4)**
 
@@ -1325,7 +1397,9 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 1. **En el aspecto intelectual, social y espiritual**, la técnica de la asociación de personas, no simplemente suma, sino que <ins>multiplica los potenciales de consecución</ins>.
 2. **En nuestras relaciones sociales** con los univitatias de la Constelación, <ins>aprenderemos una ética mejorada</ins> que repercutirá en nuestras relaciones con los compañeros que progresen con nosotros en la carrera ascendente.
 
-## 99. ETAPA DE PROGRESORES MORONTIALES
+**99**
+
+### Edentia, la capital de la Constelación
 
 **Edentia, la capital de la Constelación**
 
@@ -1338,7 +1412,9 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 5. **Toda nuestra experiencia en la Constelación** tiene como objetivo principal <ins>la educación de los ascendentes en la adaptación a la vida social pre-espiritual. Y es análoga a la experiencia espiritual prefinalista que tendremos en Havona y a la formación preabsonita que tendremos en el Paraíso</ins>.
 6. **Por último, el día que estemos preparados** para dejar Edentia con vistas a la carrera en las esferas de Salvington, haremos una pausa y <ins>recordaremos una de las épocas más hermosas y refrescantes</ins> de todos nuestros períodos de formación a este lado del Paraíso.
 
-## 100. ETAPA DE PROGRESORES MORONTIALES
+**100**
+
+### Mundos formativos del Universo Local
 
 **Mundos formativos del Universo Local (1)**
 
@@ -1349,7 +1425,7 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 4. **Pero un grupo sumamente especializado de Melquisedeks**, en asociación con Hijos Instructores Trinitarios, son los que supervisan nuestra carrera morontial progresiva.
 5. **En realidad, todo el sistema educativo del UL** está patrocinado por los Hijos Melquisedeks, y es práctico, progresivo y experiencial; y abarca la instrucción en las cosas materiales, intelectuales, morontiales y espirituales.
 
-## 101. ETAPA DE PROGRESORES MORONTIALES
+**101**
 
 **Mundos formativos del Universo Local (2)**
 
@@ -1364,7 +1440,7 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
 
 (**) Los Evángeles del Destino son los <ins>que salen a proclamar la libertad espiritual y la filiación divina incluso hasta los mundos lejanos del universo</ins>. Esta facultad particular de la Universidad Melquisedek es una institución exclusiva del universo; los visitantes estudiantiles procedentes de otros reinos no son admitidos aquí.
 
-## 102. ETAPA DE PROGRESORES MORONTIALES
+**102**
 
 **Mundos formativos del Universo Local (3)**
 
@@ -1376,7 +1452,7 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
  - **En el 5º satélite** se realiza <ins>la revisión de nuestra estancia en el mundo sede de la constelación</ins>.
  - **Y en el satélite nº 6**, se intenta <ins>correlacionar estas cinco épocas y lograr así una coordinación de la experiencia, como preparación para entrar en las escuelas primarias Melquisedeks de formación universal</ins>.
 
-## 103. ETAPA DE PROGRESORES MORONTIALES
+**103**
 
 **Mundos formativos del Universo Local (4)**
 
@@ -1388,7 +1464,7 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
  - **La 6: a la vida espiritual avanzada**
  - **La 7: a la autorrealización coordinada y suprema**
 
-## 104. ETAPA DE PROGRESORES MORONTIALES
+**104**
 
 **Mundos formativos del Universo Local (5)**
 
@@ -1399,7 +1475,7 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
  - **Que la enseñanza progresiva** que recibiremos en las escuelas Vorondadeks, en materia legislativa, es insuperable incluso en Uversa.
  - **Y finalmente se nos dice** que en este grupo de mundos iniciaremos nuevas actividades, pero incomprensibles para nosotros por falta de referencias con las que se pueda establecer alguna analogía.
 
-## 105. ETAPA DE PROGRESORES MORONTIALES
+**105**
 
 **Mundos formativos del Universo Local (6)**
 
@@ -1408,7 +1484,7 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
  - **Estos antiguos soberanos** de los sistemas <ins>serán nuestros instructores administrativos</ins> y también lo serán de las huestes angélicas.
  - **Cuando estuvimos en Jerusén** pudimos observar el trabajo de los administradores, pero ahora, en estas esferas lanonandeks, <ins>podremos participar en la coordinación de las declaraciones administrativas</ins> de los 10.000 sistemas locales de Nebadon.
 
-## 106. ETAPA DE PROGRESORES MORONTIALES
+**106**
 
 **Mundos formativos del Universo Local (7)**
 
@@ -1421,7 +1497,9 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
 
 **Bien, pues hasta aquí la información** que se nos revela sobre nuestro recorrido por los mundos formativos del UL. Pero para acabar la etapa de Progresores Morontiales, aún nos queda pasar por Salvington.
 
-## 107. ETAPA DE PROGRESORES MORONTIALES
+**107**
+
+### Salvington, la capital de Nebadon
 
 **Salvington, la capital de Nebadon**
 
@@ -1433,13 +1511,17 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
 5. **Y justo antes de dejar la sede del UL** para trasladarnos a los mundos receptores de los sectores menores del Superuniverso, <ins>adquiriremos una verdadera identidad espiritual</ins>. La mente, la personalidad y el carácter permanecen invariables con este avance; sólo la forma sufre una modificación. Pero la forma espiritual es tan real como el cuerpo morontial, y es igual de perceptible.
 6. **Obviamente, en Salvington** están <ins>las presencias personales de Miguel y de la Ministra Divina</ins> y es de suponer que, de alguna manera, entraremos en contacto con ellos. De hecho, antes de partir del UL <ins>recibiremos la confirmación espiritual del Hijo Creador y del Espíritu Madre</ins>. Y a partir de este momento, nuestro estado quedará establecido para siempre, porque pasaremos a la etapa de Pupilos del Superuniverso, y ningún alma que haya llegado al Superuniverso se ha perdido jamás.
 
-## 108. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+## ETAPA DE PUPILOS DEL SUPERUNIVERSO
+
+**108**
 
 Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero antes de hacerlo, quiero resaltar aquí algo que me parece muy gratificante y hermoso; y es que Orvonton, el séptimo Superuniverso al que pertenece nuestro Universo Local de Nebadon y, por lo tanto nosotros, se caracteriza principalmente por su extraordinaria y generosa donación de misericordia hacia los mortales del tiempo. Es célebre por la manera en que prevalece la justicia templada por la misericordia, y donde domina un poder condicionado por la paciencia, mientras que se hacen abundantes sacrificios de tiempo para asegurar la estabilización de la eternidad. Orvonton es una demostración universal del amor y de la misericordia del Padre Universal.
 
 **Comenzamos**
 
-## 109.ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**109**
+
+### Mundos / Subetapas
 
 **Mundos / Subetapas**
 
@@ -1450,7 +1532,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **También pasaremos** por los 9 Sectores Mayores restantes del Superuniverso de Orvonton, pero como no nos indican la estructura organizativa de sus mundos arquitectónicos, no he incluido ese número de mundos en esta diapositiva. De tener dichos Sectores Mayores una estructura de mundos similar a la de Splandon, pasaríamos por 639 (71mundos x 9 Sectores Mayores = 639 ) mundos más.
 
-## 110. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**110**
 
 **Mundos / Subetapas (2)**
 
@@ -1459,7 +1541,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 2. la del Sector Mayor
 3. y la del Superuniverso
 
-## 111. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**111**
 
 **Nuestro paso por el Sector Menor**
 
@@ -1469,14 +1551,16 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **Veamos una representación esquemática de Sector Menor de Ensa.**
 
-## 112. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**112**
+
+### Nuestro paso por el Sector Menor
 
 **Nuestro paso por el Sector Menor**
 
 1. **El Sector Menor de Ensa** está conformado por 100 Universos Locales, entre los cuales he destacado el nº 84$, que es nuestro Universo Local, el de Nebadon, del que forman parte la Constelación de Norlatiadek y el Sistema de Satania, que es donde se encuentra nuestro mundo evolutivo Urantia.
 2. **En el centro de este Sector Menor** se encuentra su sede o capital, que se llama Umenor la Tercera, alrededor de la cual giran 7 mundos formativos arquitectónicos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
-## 113. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**113**
 
 **Nuestro paso por el Sector Menor**
 
@@ -1492,7 +1576,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
  1. De los Centros Supremos del Poder de los superuniversos y
  2. De las siete órdenes de Controladores Físicos Maestros.
 
-## 114. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**114**
 
 **Nuestro paso por el Sector Menor**
 
@@ -1505,7 +1589,9 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **Así es que nos vamos** a los mundos formativos del Sector Mayor.
 
-## 115. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**115**
+
+### Nuestro paso por el Sector Mayor
 
 **Nuestro paso por el Sector Mayor**
 
@@ -1514,7 +1600,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 1. Nos trasladarán al mundo piloto del Sector Mayor de Splandon, pero ya acreditados <ins>como espíritus de segunda fase o de segundo grado</ins>. Tampoco aquí nos indican cuál es el mundo piloto al que llegaremos.
 2. Veamos una representación esquemática de Sector Mayor de Splandon.
 
-## 116. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**116**
 
 **Nuestro paso por el Sector Mayor**
 
@@ -1522,7 +1608,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 2. **En el centro de este Sector Mayor** se encuentra su sede o capital, que se llama Umayor la Quinta, alrededor de la cual giran 70 mundos formativos arquitectónicos.
 3. **Esto último podemos verl**o algo mejor en la siguiente diapositiva.
 
-## 117. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**117**
 
 **Nuestro paso por el Sector Mayor**
 
@@ -1535,7 +1621,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 5. **En Umayor la Quinta se reúnen** sabios de todo Orvonton, que trabajan sin descanso para prepararnos a los mortales ascendentes con vistas a nuestro progreso posterior hacia Havona y el Paraíso. La mayor parte de esta formación se lleva a cabo en los setenta mundos formativos del Sector Mayor.
 6. **Por último decir**, que los Perfecciones de los Días de nuestro Sector Mayor nos tomarán, en persona, juramento colectivo a los graduados ascendentes de las escuelas de dicho Sector.
 
-## 118. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**118**
 
 **Nuestro paso por el Sector Mayor**
 
@@ -1548,7 +1634,9 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **Así es que ahora nos vamos ya**, directamente, a los mundos formativos del Superuniverso.
 
-## 119. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**119**
+
+### Nuestro paso por el Superuniverso
 
 **Nuestro paso por el Superuniverso**
 
@@ -1556,15 +1644,16 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 1. Aquí llegaremos ya como espíritus de tercera fase o de tercer grado. Y tampoco en este caso nos indican cual es ese mundo piloto en el que aterrizaremos.
 2. Veamos ahora una posible representación esquemática del Superuniverso de Orvonton.
 
-## 120. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**120**
 
 **Nuestro paso por el Superuniverso**
+
 1. **El Superuniverso de Orvonton** está conformado por 10 sectores mayores, entre los cuales podemos distinguir o destacar el nº 5$, que es nuestro Sector Mayor de Splandon, del que forma parte el Sector Menor de Ensa y el Universo Local de Nebadon, donde se encuentra Urantia.
 2. **El Superuniverso de Orvonton** también está conformado por un conglomerado de mundos arquitectónicos que constituyen la capital Uversa y sus mundos formativos. Esto último lo podemos apreciar mejor en la siguiente diapositiva.
 
-## 121. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**121**
 
-Nuestro paso por el Superuniverso
+**Nuestro paso por el Superuniverso**
 
 **Aquí lo tenemos**
 
@@ -1577,7 +1666,7 @@ Nuestro paso por el Superuniverso
 7. **El régimen educativo del Superuniverso** no es el mismo para todos los mortales ascendentes. Recibiremos la misma educación general, pero habrá grupos y clases que realicen cursos especiales o específicos de formación. También se nos preparará para afrontar el reto de acceder a las universidades de los 7 circuitos de Havona. Como habremos podido observar, no se nos indica claramente quiénes serán **nuestros instructores** a lo largo de nuestro recorrido por todo el Superuniverso de Orvonton, si bien, la lógica me lleva a creer que de nuestro aprendizaje están encargados especialmente los ins	Seconafines Terciarios, por ser los más vinculados a nosotros y, en menor medida, los Seconafines Primarios y Secundarios que, de vez en cuando, son nombrados para servirnos como instructores.
 8. **Finalmente, antes de partir del Superuniverso** para dirigirnos a Havona, recibiremos, un curso minucioso sobre la administración del Superuniverso, similar al que habíamos recibido sobre la administración del Universo Local durante nuestra experiencia morontial. Y esto es así porque antes de que salgamos hacia Havona, deberemos poseer el **dominio de la administración del Universo Local y del Superuniverso**, aunque ésta no será nuestra ocupación exclusiva. Parece ser que este entrenamiento es sabio y necesario considerando nuestro posible destino futuro como miembros del Cuerpo de la Finalidad.
 
-## 122. ETAPA DE PUPILOS DEL SUPERUNIVERSO
+**122**
 
 **Nuestro paso por el Superuniverso**
 
@@ -1589,11 +1678,13 @@ Nuestro paso por el Superuniverso
 
 **Y con esto terminaremos la etapa** de Pupilos del Superuniverso y estaremos en condiciones de iniciar la...
 
-## 123. ETAPA DE PEREGRINOS DE HAVONA
+## ETAPA DE PEREGRINOS DE HAVONA
+
+**123**
 
 **Cuando hayamos completado** el desarrollo espiritual máximo que podemos conseguir en el Superuniverso, los mortales ascendentes estaremos preparados para el largo vuelo hacia Havona.
 
-## 124. ETAPA DE PEREGRINOS DE HAVONA
+**124**
 
 **Contenidos**
 
@@ -1605,7 +1696,9 @@ Nuestro paso por el Superuniverso
 
 **Comenzamos.**
 
-## 125. ETAPA DE PEREGRINOS DE HAVONA
+**125**
+
+### Generalidades referidas a los circuitos y mundos de Havona
 
 **Generalidades referidas a los circuitos y mundos de Havona**
 
@@ -1620,7 +1713,9 @@ Nuestro paso por el Superuniverso
 9. **Havona es el hogar** de la <ins>personalidad modelo</ins> para todos los tipos de mortales, y también es el hogar de todas las personalidades superhumanas asociadas a los mortales, que no son nativas de las creaciones del tiempo.
 10. **Estos mundos proporcionan el estímulo** a todos los impulsos humanos de dirigirse hacia la obtención de los verdaderos valores espirituales en los niveles de realidad más elevados que se puedan concebir. <ins>Havona es la meta educativa preparadisiaca de todos los mortales ascendentes y nuestro objetivo será llegar a ser verdaderos espíritus perfeccionados</ins>.
 
-## 126. ETAPA DE PEREGRINOS DE HAVONA
+**126**
+
+### Generalidades de nuestro paso por Havona
 
 **Generalidades de nuestro paso por Havona (1)**
 
@@ -1630,7 +1725,7 @@ Nuestro paso por el Superuniverso
 4. **Y llegaremos al mundo piloto** de ese circuito exterior, que es el séptimo.
 5. **Nuestra llegada a Havona** se transmitirá a Salvington –la sede de nuestro UL- y se comunicará a nuestros serafines guardianes, dondequiera que se encuentren.
 
-## 127. ETAPA DE PEREGRINOS DE HAVONA
+**127**
 
 **Generalidades de nuestro paso por Havona (2)**
 
@@ -1643,7 +1738,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 10. **A medida que avancemos de circuito en circuito** en Havona, no sólo tendremos que hacer frente a unos <ins>cambios inimaginables</ins>, sino que nuestro asombro será cada vez más grande a medida que progresemos de planeta en planeta dentro de cada circuito. Cada uno de estos mil millones de mundos de estudio es una verdadera universidad de sorpresas y en ellos experimentaremos un asombro continuo, una admiración interminable. La monotonía no forma parte de la carrera en Havona.
 
-## 128. ETAPA DE PEREGRINOS DE HAVONA
+**128**
 
 **Generalidades de nuestro paso por Havona (3)**
 
@@ -1653,7 +1748,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 14. **Círculo tras círculo**, durante el viaje hacia el interior a través de Havona, la adoración será una pasión creciente.
 15. **El deseo de la aventura y el estímulo de la curiosidad** no desaparecerán de nosotros hasta que hayamos atravesado el último circuito de Havona y visitado el último de sus mundos. Pero entonces aparecerá en nosotros un nuevo estímulo, el impulso hacia adelante de la eternidad.
 
-## 129. ETAPA DE PEREGRINOS DE HAVONA
+**129**
+
+### Nuestro paso por el séptimo circuito
 
 **Nuestro paso por el séptimo circuito (1)**
 
@@ -1666,7 +1763,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 5. **Esto nos proporcionará** la oportunidad de ir a visitar a nuestros amigos, compañeros y asociados de nuestra larga experiencia de ascensión.
 6. **Podremos consultar también** las transmisiones para saber quiénes son los compañeros que han partido hacia Havona desde el momento en que dejamos Uversa. Esto último da idea de que el viaje a Havona es muy largo.
 
-## 130. ETAPA DE PEREGRINOS DE HAVONA
+**130**
 
 **Nuestro paso por el séptimo circuito (2)**
 
@@ -1675,7 +1772,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 9. *ins	Deberemos empezar el trabajo* de desarrollar la perfección de entendimiento y la técnica de comprensión, que son tan indispensables
 10. **Para lograr el objetivo** de <ins>perfeccionar nuestra personalidad</ins>.
 
-## 131. ETAPA DE PEREGRINOS DE HAVONA
+**131**
 
 **Nuestro paso por el séptimo circuito (3)**
 
@@ -1688,7 +1785,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **Éste es el curso primario o elemental** con el que deberemos enfrentarnos en Havona. Un curso que es: cuantitativo, cualitativo y experiencial; y también es: intelectual, espiritual y supremo.
 
-## 132. ETAPA DE PEREGRINOS DE HAVONA
+**132**
 
 **Nuestro paso por el séptimo circuito (4)**
 
@@ -1698,7 +1795,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **Cuando el trabajo del círculo exterior de Havona haya terminado** y el curso ofrecido haya sido superado, los Ayudantes de los Peregrinos nos llevarán al mundo piloto del círculo siguiente y nos confiarán a los cuidados de los Guías de la Supremacía. Los Ayudantes de los Peregrinos se quedarán durante una temporada para contribuir a que el traslado sea agradable y beneficioso a la vez.
 
-## 136. ETAPA DE PEREGRINOS DE HAVONA
+**136**
+
+### Nuestro paso por el sexto circuito
 
 **Nuestro paso por el sexto circuito (1)**
 
@@ -1710,14 +1809,16 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **Parece como si Dios Supremo** nos otorgara afectuosamente y hasta los propios límites de nuestras capacidades experienciales, esos aumentos de comprensión intelectual, de perspicacia espiritual y de extensión de la personalidad que tanto necesitaremos para penetrar en el nivel de las Deidades eternas y existenciales del Paraíso.
 
-## 134. ETAPA DE PEREGRINOS DE HAVONA
+**134**
 
 **Nuestro paso por el sexto circuito (2)**
 
 3. **Cuando los Guías de la Supremacía** consideren que estamos maduros para avanzar al 5º Círculo, nos llevarán ante la <ins>Comisión de los Setenta</ins>, un grupo mixto (que no se menciona en ninguna otra parte del LU) que actúa como examinador en el mundo piloto del circuito número seis. Esta Comisión evaluará nuestra comprensión del Ser Supremo y de la Trinidad de Supremacía. (La Trinidad de Supremacía es la función de la Trinidad del Paraíso, en relación con la realidad finita)
 4. **Cuando el resultado de esa evaluación** sea satisfactorio, recibiremos la confirmación de que pueden trasladarnos al quinto circuito de Havona.
 
-## 135. ETAPA DE PEREGRINOS DE HAVONA
+**135**
+
+### Nuestro paso por el quinto circuito
 
 **Nuestro paso por el quinto circuito (1)**
 
@@ -1727,7 +1828,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 4. **como preparación para que podamos** <ins>reconocer la personalidad del Espíritu Infinito, que es la meta de este círculo</ins>.
 5. **Pero esto no será fácil**. Aquí comprenderemos el significado del verdadero estudio y del auténtico esfuerzo mental y espiritual que deberemos realizar para alcanzar esta elevada meta.
 
-## 136. ETAPA DE PEREGRINOS DE HAVONA
+**136**
 
 **Nuestro paso por el quinto circuito (2)**
 
@@ -1736,7 +1837,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 8. **Después de terminar la formación de este quinto circuito**, los Guías de la Trinidad nos llevarán al mundo piloto y nos presentarán ante una comisión de las muchas que funcionan para examinar y declarar aptos a los candidatos a la aventura de la Deidad. <ins>Estas comisiones están compuestas por tres miembros</ins>: un compañero Finalista, uno de los Directores de la Conducta (que pertenecen a la orden de los Supernafines Primarios), y un Mensajero Solitario del espacio o un Hijo Trinitizado del Paraíso.
 9. **Si culminamos con éxito** la búsqueda del Espíritu Infinito y nuestro paso por todos los mundos de este círculo, que será lo más común, los Guías de la Trinidad nos trasladarán al cuarto círculo de Havona.
 
-## 137. ETAPA DE PEREGRINOS DE HAVONA
+**137**
 
 **Nuestro paso por el quinto circuito (3)**
 
@@ -1745,7 +1846,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 12. **Y después de ese largo tiempo serán devueltos**, por un periodo no inferior a mil años, al trabajo de los reinos del espacio, aunque no al superuniverso de su origen, sino al que sea más favorable para su preparación de cara a superar el fracaso anterior. En este regreso a los mundos del espacio nunca van solos, sino que los acompaña o su Serafín Guardián o un Compañero Paradisiaco. Quien nunca le acompaña es su asociado mortal si tuvo éxito en la carrera de la Deidad, ya que no le está permitido. Este asociado mortal puede esperarle en el Paraíso hasta que el compañero regrese a Havona y tenga éxito en su encuentro con la Deidad.
 13. **Después de esto, regresan a Havona**, al mismo círculo en el que supuestamente fracasaron y, en compañía de los mismos instructores y guías que anteriormente lo atendieron, reanudan su trabajo de preparación para afrontar de nuevo la aventura de la Deidad. Y esta segunda aventura siempre culmina con éxito.
 
-## 138. ETAPA DE PEREGRINOS DE HAVONA
+**138**
+
+### Nuestro paso por el cuarto circuito
 
 **Nuestro paso por el cuarto circuito (1)**
 
@@ -1754,7 +1857,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 3. **Con esta finalidad, también nos trasladarán** temporalmente al Paraíso, donde podremos tener un contacto comprensivo con estas Deidades.
 4. **En este cuarto círculo hay siete mundos** en los que el cuerpo de reserva de los Migueles Paradisiacos mantienen escuelas especiales de servicio que ofrecen su ministerio tanto a los peregrinos ascendentes como a los descendentes; por lo que, en dichos mundos, nos encontraremos y confraternizaremos con peregrinos que descienden del Paraíso para tener contacto con la realidad experiencial de los mundos del espacio-tiempo. Este encuentro será muy beneficioso tanto para nosotros como para ellos.
 
-## 139. ETAPA DE PEREGRINOS DE HAVONA
+**139**
 
 **Nuestro paso por el cuarto circuito (2)**
 
@@ -1762,7 +1865,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 2. **Cuando alcancemos al Hijo Eterno**, que será lo más común, y pasemos por todos los mundos de este cuarto círculo, seremos trasladados al tercer círculo de Havona para continuar nuestra progresión ascendente.
 3. **No obstante, también en este cuarto círculo** de Havona, algunos, muy pocos, de los candidatos, no alcanzarán al Hijo Eterno y sufrirán la demora de ese fracaso aparente en la aventura de la Deidad, siguiendo el mismo procedimiento de aquellos que no alcanzaron al Espíritu Infinito, conforme a lo ya explicado al estudiar nuestro paso por el quinto círculo.
 
-## 140. ETAPA DE PEREGRINOS DE HAVONA
+**140**
+
+### Nuestro paso por el tercer circuito
 
 **Nuestro paso por el tercer circuito (1)**
 
@@ -1771,7 +1876,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 3. **En su momento, desde el mundo piloto** de este tercer círculo, el trío de transporte también nos conducirá al Paraíso para <ins>alcanzar y comprender al Padre, que es la meta de este circuito</ins>.
 4. **Cuando una criatura mortal y material** como nosotros alcanza esa meta, se ha convertido, realmente y para toda la eternidad, en un espíritu e hijo perfeccionado de Dios. Y este hecho glorioso supone un gran acontecimiento, que muestra la <ins>viabilidad del plan de ascensión del Padre y la justicia y la rectitud del mandato «Sed perfectos como yo soy perfecto»</ins>, que dirigió a las humildes criaturas de los mundos evolutivos. Por eso, este hecho glorioso será ampliamente difundido por las transmisiones de Havona.
 
-## 141. ETAPA DE PEREGRINOS DE HAVONA
+**141**
 
 **Nuestro paso por el tercer circuito (2)**
 
@@ -1779,7 +1884,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 6. **Después de pasar por todos los mundos** de este tercer círculo, seremos transportados al mundo piloto del segundo círculo de Havona para continuar nuestro progreso.
 7. **Y de igual manera, aquellos pocos que no alcancen al Padre Universal**, también deberán seguir el mismo procedimiento explicado con anterioridad.
 
-## 142. ETAPA DE PEREGRINOS DE HAVONA
+**142**
+
+### Nuestro paso por el segundo circuito
 
 **Nuestro paso por el segundo circuito (1)**
 
@@ -1787,7 +1894,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 2. **En este círculo recibiremos el estímulo y el consejo** provechoso de estos instructores con el fin de capacitarnos para afrontar las nuevas y más elevadas responsabilidades que tendremos en el Paraíso.
 3. **También nos prepararán** para abordar la etapa de descanso que nos espera en el primer círculo de Havona. En todo caso, nuestra estancia en este segundo círculo será provechosa y agradable. Pero serán muchos los peregrinos que en esos momentos recuerden su larguísima lucha con añoranza y con el deseo de poder regresar de algún modo a los mundos del tiempo y empezarlo todo otra vez.
 
-## 143. ETAPA DE PEREGRINOS DE HAVONA
+**143**
 
 **Nuestro paso por el segundo circuito (2)**
 
@@ -1797,7 +1904,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
    - **Dichos ascendentes son puestos** bajo la jurisdicción de los Jefes de la Asignación del Paraíso, y enviados directamente a este segundo círculo, donde después de recibir durante un largo tiempo la ayuda y el consuelo de los Consejeros y los Asesores,
    - **Serán examinados** por los Consejos de la Perfección, que se reúnen en el mundo piloto de este círculo.
 
-## 144. ETAPA DE PEREGRINOS DE HAVONA
+**144**
 
 **Nuestro paso por el segundo circuito (3)**
 
@@ -1805,7 +1912,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 - **Después de recibir este certificado**, se les lleva ante los Jefes de la Asignación y, como ya vimos anteriormente, son devueltos al trabajo de los reinos del espacio, pero a un superuniverso diferente del de su origen, por un tiempo no inferior a mil años; y se marchan con regocijo, con alegría y como ministros amorosos del tipo más elevado para con los hijos del tiempo y las decepciones temporales.
 - **Pasado ese tiempo, los ascendentes que experimentaron** ese fracaso aparente, regresarán no a este segundo circuito de Havona sino a aquel en el que en apariencia fracasaron, y continuarán de nuevo la aventura de la Deidad que, con total seguridad, terminará exitosamente.
 
-## 145. ETAPA DE PEREGRINOS DE HAVONA
+**145**
+
+### Nuestro paso por el primer circuito
 
 **Nuestro paso por el primer circuito (1)**
 
@@ -1814,7 +1923,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 3. **Una amplia y diversa multitud de seres** residen de manera permanente o transitoria en este círculo. Y los Complementos del Descanso aprovechan esta variada mezcla de personalidades para favorecer nuestra educación, especialmente en lo que se refiere a los problemas de ajuste a los numerosos grupos de seres que pronto encontraremos en el Paraíso.
 4. **En este círculo confraternizaremos** con los peregrinos descendentes y con los Hijos Trinitizados por las Criaturas que residen aquí. Y nuestros instructores se interesan mucho por fomentar estas asociaciones fraternales.
 
-## 146. ETAPA DE PEREGRINOS DE HAVONA
+**146**
 
 **Nuestro paso por el primer circuito (2)**
 
@@ -1822,7 +1931,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 6. **que saldrán para darnos la bienvenida** y para completar nuestra preparación con vistas al sueño de transición de la última resurrección.
 7. **Los peregrinos perfeccionados empezaremos este descanso**, durmiéndonos, en el mundo piloto del primer círculo de Havona, y despertando en las orillas del Paraíso.
 
-## 147. ETAPA DE PEREGRINOS DE HAVONA
+**147**
 
 **Nuestro paso por el primer circuito (3)**
 
@@ -1831,11 +1940,13 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **Y YA SOLO NOS FALTARÁ AFRONTAR...**
 
-## 148. ETAPA DE CIUDADANOS DEL PARAÍSO
+## ETAPA DE CIUDADANOS DEL PARAÍSO
+
+**148**
 
 **Cuando alcancemos el Paraíso**, nuestra capacidad para identificarnos con los _<ins>«verdaderos valores espirituales»</ins>_ se habrá ampliado tanto, que habremos conseguido «la posesión perfecta de la luz de la vida». Una personalidad espiritual tan perfeccionada como la que tendremos en esos momentos, se unificará tan completa, divina y espiritualmente con la bondad, la belleza y la verdad, que no quedará ninguna posibilidad de que pueda _arrojar alguna sombra negativa de mal potencial_ cuando se encuentre ante _los Soberanos infinitos del Paraíso_. En todos nosotros, la bondad se habrá vuelto divinamente completa y se acercará a la pureza y a la perfección del Supremo.
 
-## 149. ETAPA DE CIUDADANOS DEL PARAÍSO
+**149**
 
 **Contenidos**
 
@@ -1848,7 +1959,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **Comenzamos**
 
-## 153. ETAPA DE CIUDADANOS DEL PARAÍSO
+**153**
+
+### Generalidades sobre el Paraíso y sus satélites
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1856,7 +1969,7 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 **El Padre Universal ha concentrado** en el Paraíso el potencial absoluto de toda la realidad cósmica. **El Paraíso tiene la forma plana de una galleta** no redonda o circular, sino elipsoide. Lo vemos mejor en la siguiente diapositiva.
 
-## 151. ETAPA DE CIUDADANOS DEL PARAÍSO
+**151**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1878,7 +1991,7 @@ la llamamos «x», el largo del Paraíso (que sería la distancia N-S)
 
 sería « x + x / 6$ », y el alto del Paraíso (que sería la distancia O-O') que representamos con este otro pequeño segmento vertical, sería « x / 10 ».
 
-## 152. ETAPA DE CIUDADANOS DEL PARAÍSO
+**152**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1886,13 +1999,13 @@ sería « x + x / 6$ », y el alto del Paraíso (que sería la distancia O-O') q
 
 **También vemos el Paraíso Periférico**, donde tienen lugar actividades que no son estrictamente personales ni impersonales.
 
-## 153. ETAPA DE CIUDADANOS DEL PARAÍSO
+**153**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
 Y en esta, ahora mirando desde abajo, también con una ligera inclinación, podemos ver de nuevo el Paraíso Periférico y el Paraíso Inferior. En este último tienen lugar las actividades impersonales.
 
-## 154. ETAPA DE CIUDADANOS DEL PARAÍSO
+**154**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1905,7 +2018,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
   - **La siguiente zona** (la de color verde) es el área residencial de los nativos de los 7 superuniversos, y está parcialmente subdividida en 7 sectores, dedicados cada uno de ellos al bienestar y al progreso de las personalidades de un superuniverso. Cada uno de estos sectores está subdividido en unidades residenciales, que se agrupan en unidades cada vez más amplias como las divisiones, las congregaciones, las asambleas, etc. y así hasta llegar a las unidades supremas. El número de unidades residenciales es verdaderamente astronómico, concretamente 7^7^ x 10^27^ y cada una de estas unidades residenciales es adecuada para albergar a mil millones (10^9^) de grupos de trabajo individuales y glorificados.
   - **De las restantes zonas del Área Santa** (es decir, de la 3ª a la 7ª) no se nos da información alguna.
 
-## 155. ETAPA DE CIUDADANOS DEL PARAÍSO
+**155**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1913,7 +2026,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 - **También se encuentran en esta superficie** periférica las <ins>sedes centrales de fuerza de los 7 Espíritus Maestros</ins> (sus sedes personales de poder y de autoridad, están en las 7 Esferas del Espíritu).
 - **Y también se encuentran en el Paraíso Periférico** las <ins>enormes áreas de exposiciones históricas y proféticas</ins> asignadas a los Hijos Creadores, y dedicadas a los universos locales del tiempo y del espacio.
 
-## 156. ETAPA DE CIUDADANOS DEL PARAÍSO
+**156**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1931,7 +2044,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **La Zona Exterior** tal vez se puede identificar con las funciones del Absoluto No Cualificado.
 
-## 157. ETAPA DE CIUDADANOS DEL PARAÍSO
+**157**
 
 **Generalidades sobre el Paraíso y sus satélites**
 
@@ -1949,7 +2062,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Un permiso similar obtendremos** <ins>para aterrizar en las otras cuatro esferas secretas del Padre</ins> (Spiritington, Vicegerington, Solitarington y Serafington), aunque no podremos visitar todos sus sectores, y especialmente el sector de los secretos que cada uno de dichos mundos encierra. Divinington será la única esfera del Padre en la que nunca podremos aterrizar, puesto que no habrá jamás necesidad de hacerlo.
 
-## 158. ETAPA DE CIUDADANOS DEL PARAÍSO
+**158**
+
+### Nuestros primeros pasos en el Paraíso.
 
 **Nuestros primeros pasos en el Paraíso.**
 
@@ -1961,7 +2076,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Los Compañeros Paradisiacos** pertenecen a la séptima división de las Huestes de Mensajeros del Espacio y son un grupo compuesto, reclutado de entre los Serafines, Seconafines, Supernafines y Omniafines. En los últimos días de nuestra estancia en Havona, son designados de una lista de espera, por el Espíritu Madre, por los Espíritus Reflectantes o por Majestón, dependiendo de su procedencia y examinan nuestro origen y nuestro historial de ascensión con el fin ser unos compañeros comprensivos y fascinantes. Los Compañeros Paradisiacos que nos asignan serán de nuestro tipo superuniversal, es decir, originarios de Orvonton o del Séptimo Espíritu Maestro, y, naturalmente, nunca nos asignarán a un Omniafín, ya que estos no están vinculados con los mortales ascendentes.
 
-## 159. ETAPA DE CIUDADANOS DEL PARAÍSO
+**159**
+
+### Logros en la 1ª Subetapa Prefinalista: El descanso
 
 **Logros en la 1ª Subetapa Prefinalista: El descanso**
 
@@ -1972,7 +2089,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Nada más se nos indica** de nuestra relación con estos Supernafines Primarios.
 
-## 168. ETAPA DE CIUDADANOS DEL PARAÍSO
+**168**
+
+### Logros en la 2ª Subetapa prefinalista. La fraternización.
 
 **Logros en la 2ª Subetapa prefinalista. La fraternización.**
 
@@ -1987,7 +2106,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Y un detalle más que se indica es** que el grupo de Jefes de la Asignación es designado de vez en cuando, por el Supernafín Original del Paraíso para que presida la organización de las tres órdenes de Supernafines (primaria, secundaria y terciaria).
 
-## 161. ETAPA DE CIUDADANOS DEL PARAÍSO
+**161**
+
+### Logros en la 3 a Subetapa prefinalista. La ética.
 
 **Logros en la 3 a Subetapa prefinalista. La ética.**
 
@@ -2003,15 +2124,19 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
    7. **Y en los mundos de Havona** estableceremos relaciones y asociaciones fraternales con miles y miles de grupos de criaturas residentes en ellos y con otros tantos que descienden del Paraíso, realizando en cada caso los ajustes necesarios en nuestra comprensión de la ética.
 4. **Ahora, en el Paraíso,** no necesitaremos que nos enseñen la ética, pero sí necesitaremos que nos interpreten adecuadamente aquello que hemos aprendido a lo largo de nuestra carrera ascendente. Y este será el trabajo de nuestros instructores los Intérpretes de la Ética, que nos ayudarán a ajustarnos a los numerosos grupos de seres majestuosos hasta que seamos admitidos oficialmente en el Cuerpo de los Finalistas Mortales.
 
-## 162. ETAPA DE CIUDADANOS DEL PARAÍSO
+**162**
 
-**Logros en la 4 a Subetapa prefinalista. La conducta.**
+### Logros en la 4ª Subetapa prefinalista. La conducta.
+
+**Logros en la 4ª Subetapa prefinalista. La conducta.**
 
 1. **Los Directores de la Conducta** son el cuarto grupo de Supernafines Primarios que nos instruirán en el Paraíso.
 2. **En el Paraíso, toda conducta es natural y libre**. Pero existe <ins>una manera adecuada y perfecta de hacer las cosas</ins>, y esto es esencial para progresar hasta las alturas espirituales de la adoración espontánea. Por eso, una vez que hayamos sido instruidos en la ética del Paraíso, nos resultará útil recibir el consejo de estos instructores, que son los que enseñan los usos de la conducta perfecta de los seres elevados que residen en el Paraíso.
 3. **Ellos se ocuparán, principalmente**, de instruirnos acerca de una serie casi interminable de situaciones nuevas y de usos desconocidos, y de guiar nuestros pasos con el fin de que nos encontremos perfectamente a gusto y capacitados para evitar la confusión y la incertidumbre, que, de otro modo, serían inevitables porque a pesar de la larga preparación que habremos recibido en las etapas anteriores para residir allí, el Paraíso seguirá siendo extraordinariamente extraño y nuevo para todos los que consigamos finalmente el estado de residentes.
 
-## 163. ETAPA DE CIUDADANOS DEL PARAÍSO
+**163**
+
+### Logros en la 5ª Subetapa prefinalista. El conocimiento.
 
 **Logros en la 5ª Subetapa prefinalista. El conocimiento.**
 
@@ -2020,7 +2145,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 3. **Son unas bibliotecas vivientes** y de actualización automática, que pueden ser consultadas a voluntad por todo residente del Paraíso. Por esa razón, a través de estos instructores, podremos obtener el conocimiento supremo. Pero también este conocimiento es distribuido abundantemente a todos los seres de cualquier circuito de Havona y, de forma indirecta, es utilizado por las Cortes de los Ancianos de los Días en los superuniversos, pero no está a disposición de los universos locales sino de forma indirecta y por reflectividad.
 4. **Estos Supernafines dirigen unos cursos** informales de instrucción para los residentes del Paraíso, pero su función principal es la de servir de consulta y de comprobación.
 
-## 164. ETAPA DE CIUDADANOS DEL PARAÍSO
+**164**
+
+### Logros en la 6ª Subetapa prefinalista. La filosofía.
 
 **Logros en la 6ª Subetapa prefinalista. La filosofía.**
 
@@ -2030,7 +2157,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 4. **Y en ello nos ayudarán estos Maestros de la Filosofía**, que enseñan mediante todos los métodos posibles de instrucción, incluyendo <ins>la técnica gráfica superior de Havona y ciertos métodos del Paraíso para comunicar información</ins>. Todas estas técnicas sobrepasan nuestra actual capacidad de comprensión y como ejemplo, nos dicen que <ins>una hora de instrucción en el Paraíso equivaldría a diez mil años de métodos de memorización de Urantia</ins>.
 5. **Estas actividades intelectuales** del Paraíso no se transmiten a los superuniversos sino de manera personal por parte de aquellos que las escucharon.
 
-## 165. ETAPA DE CIUDADANOS DEL PARAÍSO
+**165**
+
+### Logros en la 7ª Subetapa prefinalista. La adoración
 
 **Logros en la 7ª Subetapa prefinalista. La adoración (1)**
 
@@ -2039,7 +2168,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 3. **La calidad de la adoración** está determinada por la capacidad de la criatura para profundizar en el conocimiento del carácter infinito de las Deidades del Paraíso, por lo tanto, a medida que dicha criatura profundiza en ese conocimiento, el acto de adorar se vuelve cada vez más amplio, hasta que alcanza finalmente la gloria y el placer más exquisito que conocen los seres creados.
 4. **Tan exquisito es ese placer**, que la adoración constituye <ins>la pasión primera y dominante</ins> de todos los seres que se elevan hasta alcanzar el Paraíso; es el <ins>arrebato espontáneo y colectivo</ins> de aquellos que han aprendido lo suficiente de Dios como para llegar a su presencia. Círculo tras círculo en Havona, la adoración fue una pasión creciente, como en su momento dijimos, pero en el Paraíso es tan desbordante, <ins>que se hace necesario dirigir y controlar</ins> su expresión.
 
-## 166. ETAPA DE CIUDADANOS DEL PARAÍSO
+**166**
 
 **Logros en la 7ª Subetapa prefinalista. La adoración (2)**
 
@@ -2047,7 +2176,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 6. **Este es un trabajo tan gratificante para nuestros instructores**, que todos los Supernafines Primarios anhelan ser Conductores de la Adoración; y todos los seres ascendentes querríamos permanecer para siempre en esa actitud de adoración suprema y de alabanza espiritual. Para evitar eso, porque en el Paraíso hay más cosas que hacer, los Jefes de la Asignación se encargan de dispersar periódicamente estas reuniones.
 7. **Tan grandes son los arrebatos por la adoración que sentimos**, <ins>que desde los tiempos de Grandfanda, los Supernafines nunca han sido capaces de acomodar plenamente el Espíritu de Adoración en el Paraíso</ins>. Y esto sucede porque las personalidades con una perfección propia (como son los Supernafines) no pueden apreciar por completo las asombrosas reacciones de emoción espiritual de unos seres como nosotros, que hemos efectuado nuestro camino hacia arriba de forma lenta y laboriosa, partiendo de las tinieblas espirituales de los mundos inferiores del tiempo y del espacio. Cuando por fin alcanzamos y comprendemos la presencia de los Poderes del Paraíso, se produce en nosotros una <ins>gigantesca explosión de las emociones acumuladas</ins> durante siglos, un espectáculo que asombra a los Supernafines y que provoca en las Deidades del Paraíso la alegría suprema de la satisfacción divina.
 
-## 167. ETAPA DE CIUDADANOS DEL PARAÍSO
+**167**
 
 **Logros en la 7ª Subetapa prefinalista. La adoración (3)**
 
@@ -2059,7 +2188,9 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
    - **Se nos considerará espíritus de la 6ª fase**, se nos denominará Graduados Paradisiacos,
    - **Y seremos enrolados en el Cuerpo de los Finalistas Mortales.**
 
-## 168. ETAPA DE CIUDADANOS DEL PARAÍSO
+**168**
+
+### Posible actividad en la Subetapa Finalista
 
 **Posible actividad en la Subetapa Finalista (1)**
 
@@ -2068,7 +2199,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 3. **Y a partir de ese juramento nuestro**, seremos Espíritus de la 6ª Fase y perteneceremos al Cuerpo de los Finalistas Mortales.
 4. **Solo podrán ser miembros permanentes** de este Cuerpo aquellos seres que hayan fusionado con el Ajustador o que lo posean de manera innata.
 
-## 173. ETAPA DE CIUDADANOS DEL PARAÍSO
+**173**
 
 **Posible actividad en la Subetapa Finalista (2)**
 
@@ -2095,7 +2226,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Los siete cuerpos finalistas representan la respuesta** divina del Gran Universo a las necesidades futuras de los potenciales no desarrollados en los universos exteriores donde tendrán lugar futuras actividades eternas.
 
-## 170. ETAPA DE CIUDADANOS DEL PARAÍSO
+**170**
 
 **Posible actividad en la Subetapa Finalista (3)**
 
@@ -2108,7 +2239,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 6. **Criaturas Intermedias Glorificadas**: Son ciudadanos permanentes de los mundos evolutivos, pero cuando dichos mundos alcanzan el estado de luz y de vida, son liberados de ese estado de permanencia e inician su ascensión al Paraíso siguiendo los pasos de los mortales ascendentes, y finalmente se enrolan en alguno de los Cuerpos de Finalistas.
 7. **Grupo que aún se desconoce**: permanece vacante en teoría, si bien en la práctica está provisionalmente ocupado, como enseguida veremos.
 
-## 178. ETAPA DE CIUDADANOS DEL PARAÍSO
+**178**
 
 **Posible actividad en la Subetapa Finalista (4)**
 
@@ -2128,7 +2259,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál será nuestro trabajo como tales Finalistas y dónde lo realizaremos?**
 
-## 179. ETAPA DE CIUDADANOS DEL PARAÍSO
+**179**
 
 **Posible actividad en la Subetapa Finalista (5)**
 
@@ -2140,7 +2271,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 4. **Ninguna influencia exterior** puede hacer presión sobre su política.
 5. **Sus miembros sólo prestan juramento de lealtad** a la Trinidad del Paraíso, y son, en verdad, almas probadas y sinceras del tiempo y del espacio, absolutamente leales e impermeables al mal y protegidas contra el pecado.
 
-## 173. ETAPA DE CIUDADANOS DEL PARAÍSO
+**173**
 
 **Posible actividad en la Subetapa Finalista (6)**
 
@@ -2154,7 +2285,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 6. **Una parte de nuestra experiencia como finalistas en el Paraíso** consistirá en el esfuerzo por comprender la naturaleza y la función de más de mil grupos de Trascendentales, unos seres eventuados con atributos absonitos. En nuestra asociación con estas superpersonalidades, los finalistas ascendentes recibiremos el asesoramiento de numerosas órdenes de ministros Trascendentales que tienen la tarea de presentarnos a nuestros nuevos hermanos del Paraíso. Toda la orden de los Trascendentales vive en el oeste del Paraíso en una inmensa zona que ocupan de manera exclusiva.
 7. **Finalmente, decir que algunos Finalistas Mortales**, que cumplan determinados requisitos, pueden trinitizar, que es una de las maneras de traer a la existencia a nuevos seres. Enseguida hablamos de esto.
 
-## 174. ETAPA DE CIUDADANOS DEL PARAÍSO
+**174**
 
 **Posible actividad en la Subetapa Finalista (7)**
 
@@ -2173,7 +2304,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **Y cuando los finalistas mortales se convierten en Hijos Trinitizados**, esos finalistas han alcanzado su destino, al menos durante la presente era del universo. Quizás no sean todavía espíritus de séptima fase, que se alcanza tras conocer al Ser Supremo, pero el abrazo de la Trinidad los dota de todo aquello que un finalista conseguirá algún día como espíritu de séptima fase. <ins>Estos Hijos Trinitizados</ins> son, al menos por el momento, <ins>criaturas acabadas</ins>, en contraste con los finalistas, que son en la actualidad criaturas inacabadas.
 
-## 175. ETAPA DE CIUDADANOS DEL PARAÍSO
+**175**
 
 **Posible actividad en la Subetapa Finalista (8)**
 
@@ -2192,7 +2323,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **La elección de los candidatos finalistas mortales** para recibir el abrazo de la Trinidad y formar parte de cualquiera de estas tres órdenes de Hijos de Dios Trinitizados se realiza en el Paraíso de forma automática e inherente (sin posible arbitrariedad en ningún sentido), por lo que la experiencia personal, los valores espirituales y los requisitos específicos mencionados son los que determinan quiénes serán los elegidos para formar parte de estas tres órdenes trinitizadas, que reciben la denominación común de <ins>Hijos Trinitizados de la Consecución</ins>.
 
-## 179. ETAPA DE CIUDADANOS DEL PARAÍSO
+**179**
 
 **Posible actividad en la Subetapa Finalista (9)**
 
@@ -2212,7 +2343,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **La elección de estos candidatos mortales** no finalistas para recibir el abrazo de la Trinidad y formar parte de la Orden de Embajadores Trinitizados, <ins>se realiza en el Paraíso de conformidad con los informes de sus instructores de Havona</ins>. Esta Orden de Embajadores Trinitizados, junto con la Orden de Custodios Trinitizados (que está formada por Serafines y Criaturas Intermedias que llegaron al Cuerpo de Finalistas Mortales), reciben la denominación común de Hijos Trinitizados de la Elección.
 
-## 180. ETAPA DE CIUDADANOS DEL PARAÍSO
+**180**
 
 **Posible actividad en la Subetapa Finalista (10)**
 
@@ -2229,7 +2360,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **Como puede verse,** en dos de estas posibles aventuras podremos participar los Finalistas Mortales
 
-## 178. ETAPA DE CIUDADANOS DEL PARAÍSO
+**178**
 
 **Posible actividad en la Subetapa Finalista (11)**
 
@@ -2242,7 +2373,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 5. **Si la trinitización** llevada a cabo por estos dos Finalistas Mortales <ins>es exitosa, el resultado es un Hijo Trinitizado por los ascendentes</ins>. Este Hijo <ins>personifica una realidad del Todopoderoso Supremo</ins> adquirida por los padres trinitizadores en su carrera de ascensión al Paraíso, y es dotado de personalidad por el Padre Universal.
 6. **En los dos padres trinitizadores**, se produce una experiencia casi divina, que consiste en una biunificación de ciertas fases espirituales de sus personalidades, y en cierto sentido <ins>se convierten espiritualmente en uno solo</ins> en sus tareas universales y en el nivel funcional último. No obstante, siguen siendo considerados como dos personalidades, y son conscientes uno del otro, pueden comunicarse entre sí y pueden desempeñar funciones que ninguno de los dos podría haber desempeñado anteriormente.
 
-## 179. ETAPA DE CIUDADANOS DEL PARAÍSO
+**179**
 
 **Posible actividad en la Subetapa Finalista (12)**
 
@@ -2258,7 +2389,9 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **Un Consejero Divino y una personalidad de las que no tienen Nombre ni Número, dicen**: «_Los mortales evolutivos nacen en los planetas del espacio, pasan por los mundos morontiales, ascienden a los universos espirituales, atraviesan las esferas de Havona, encuentran a Dios, alcanzan el Paraíso y son enrolados en el Cuerpo primario de la Finalidad, para esperar allí la siguiente misión de servicio universal. Hay otros seis cuerpos de la finalidad que se están reuniendo, pero Grandfanda, el primer ascendente mortal, preside como jefe paradisiaco todas las órdenes de finalistas. Cuando vemos este espectáculo sublime, todos exclamamos: ¡Qué glorioso destino para los hijos temporales de origen animal, los hijos materiales del espacio!_» ([LU 31:10.20](/es/The_Urantia_Book/31#p10_20))
 
-## 180. FIN DE LA PRESENTACIÓN
+## FIN DE LA PRESENTACIÓN
+
+**180**
 
 **Muchas gracias por haber llegado hasta aquí.**
 
