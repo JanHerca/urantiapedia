@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Paula_Thompson_et_al/22.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/22.jpg">
 </figure>
 
 _par Sue Haskell, Paula Thompson et Abert Einstein Lassiter_
@@ -114,7 +114,7 @@ Dans _Le Livre d'Urantia_, trois heures sont une heure significative.
 Le croisement des deux éclipses peut être considéré comme véritablement symbolique de la situation actuelle du monde, « frémissant au bord de l’une de ses époques les plus étonnantes et les plus passionnantes de réajustement social, d’accélération morale et d’illumination spirituelle » (<a id="a113_288"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)) et au _carrefour_ de l'avancement ou de la régression.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Paula_Thompson_et_al/23.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/23.jpg">
 <figcaption>Éclipse solaire 2012 — Observatoire de la dynamique solaire de la NASA</figcaption>
 </figure>
 

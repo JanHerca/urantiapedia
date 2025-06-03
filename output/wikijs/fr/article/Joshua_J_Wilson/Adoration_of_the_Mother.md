@@ -50,7 +50,7 @@ De nombreuses religions contiennent des concepts trinitaires, et le christianism
 Et donc, il n’est pas nécessaire d’avoir une théologie astucieuse pour sonder le mystère. Le problème réside, dans les termes les plus simples, dans une orientation culturelle dominante lente à honorer et à reconnaître les femmes à plusieurs niveaux. Heureusement, nous avons son esprit avec nous et de merveilleux exemples tout autour, clarifiant la situation pour nous. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004162.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004162.jpg">
 <figcaption><em>L'Assomption de Marie par Tim Langenderfer.</em></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Dans le catholicisme, une doctrine a été codifiée par le pape Pie XII (Eugeni
 Il convient de noter que le psychologue Dr Carl Jung (contemporain du Dr William Sadler), à travers son archétype de La Grande Mère, considérait cette reconnaissance en 1950 comme un développement significatif, voire monumental, dans la psyché humaine évoluant vers la reconnaissance du _divin féminin_. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004163.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004163.jpg">
 <figcaption><em>Krisna et Radha.</em></figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Le Christ, notre Père, qui nous a visité sous le nom de Jésus de Nazareth, et
 Nous entendons et parlons des termes : culte, prière et méditation, et ils font partie intégrante de nos vies. Ce qui est important, c’est que nous savons que dans tous les univers, il est enseigné que l’adoration doit être accordée uniquement à notre Père Universel au Paradis. Mais qu’en est-il de notre affection sincère pour Micaël et Mère ? _Adoration_ est le mot. « Exalter, honorer et chérir » sont d’autres mots appropriés. « Honorez votre père et votre mère. » 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004164.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004164.jpg">
 <figcaption><em> Couronnement par Giotto di Bondone. </em></figcaption>
 </figure>
 

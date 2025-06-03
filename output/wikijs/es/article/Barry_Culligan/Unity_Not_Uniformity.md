@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Barry_Culligan/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/25.jpg">
 </figure>
 
 _por Barry Culligan_
@@ -63,7 +63,7 @@ Desafortunadamente, el individuo es a menudo percibido por el conformista como u
 <br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Barry_Culligan/26.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/26.jpg">
 </figure>
 
 La forma en que El Libro de Urantia habla de unidad espiritual sugiere que los católicos y los protestantes no están obligados a conformarse unos con otros, sino que deben vivir fielmente lo mejor que puedan: humildemente ante Dios, respetuosamente como hermanos que entienden que sus diferencias no son enemigas sino complementarios, unidos en un servicio amoroso, produciendo los frutos del espíritu, evitando la violencia en todas sus formas, trabajando juntos para establecer la rectitud, la paz y la justicia. ¡Cómo anhela el mundo ver a estos hermanos unidos! De hecho, no cabe duda de que las élites tóxicas de este mundo temen a una cristiandad unificada más que a cualquier otra cosa en el mundo; gastan fortunas esforzándose por mantenernos enfrentados unos a otros. ¿Cuándo despertaremos de esta espantosa pesadilla que nos han impuesto y nos daremos cuenta de que nuestro enemigo no es el que es de otro color o el que nació en una tradición diferente, sino aquellos que «dicen lo bueno, pero no lo hacen». (<a id="a68_1020"></a>[LU 175:1.8](/es/The_Urantia_Book/175#p1_8))

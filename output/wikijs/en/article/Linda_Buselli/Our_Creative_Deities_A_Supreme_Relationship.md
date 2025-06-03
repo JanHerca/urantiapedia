@@ -54,7 +54,7 @@ I would like to avoid using the terms male/female, aggressive/ passive, etc. bec
 This is the Tai Chi, the symbol of universe balance used in Eastern religions. And please note two important aspects here. Each contains something of the other, and they are totally equal and coordinate. Frankly, I can’t think of a better symbol for the duality of the Supreme as expressed in the relationship of the Creator Son and Creative Spirit. 
 
 <figure id="Taichi" class="image urantiapedia">
-<img src="/image/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship/taichi.png">
+<img src="/image/article/Fellowship_Herald/Volume_10_n_1/taichi.png">
 </figure>
 
 ## The Differences Are Necessary 

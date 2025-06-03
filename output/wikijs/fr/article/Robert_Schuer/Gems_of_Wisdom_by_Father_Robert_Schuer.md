@@ -38,7 +38,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 Un érudit bien-aimé du Livre d'Urantia et un prêtre ordonné depuis 60 ans 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004129.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004129.jpg">
 <figcaption><em> Père Robert Schuer.</em></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Un érudit bien-aimé du Livre d'Urantia et un prêtre ordonné depuis 60 ans
 - En ce moment, vous montrez aux hommes et aux anges comment Dieu se comporterait s'il était à votre place
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004130.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004130.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Un érudit bien-aimé du Livre d'Urantia et un prêtre ordonné depuis 60 ans
 - _Le Livre d'Urantia_ m'a dit tout ce que je veux savoir. 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004131.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004131.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure> 
 

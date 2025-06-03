@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ## GPS: Our God Positioning System
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Sue_Snider_Seccombe/42.jpg">
+<img src="/image/article/Fellowship_Herald/Sue_Snider_Seccombe.jpg">
 </figure>
 
 _by Sue Snider Seccombe_
@@ -67,7 +67,7 @@ We know that variety is essential, yet we sometimes (perhaps often) struggle to 
 Forging new, stronger, and beautiful social systems from the intentional unification of our contrasts offers so many opportunities to yield the fruits of the spirit, to grow our own souls, and to each make a unique and hard-earned contribution to the Supreme. Everyone who has read even part of _The Urantia Book_ has at least the embers of desire (if not a full-scale bonfire) to align our will with God's.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Sue_Snider_Seccombe/45.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/45.jpg">
 <figcaption><em>Contrasts in the Evening (Blue and Orange)</em> by Paul Klee</figcaption>
 </figure>
 

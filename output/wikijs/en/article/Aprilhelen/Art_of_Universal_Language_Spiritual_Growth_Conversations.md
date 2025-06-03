@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/24.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/24.jpg">
 </figure>
 
 _by Aprilhelen Lovesyou_
@@ -67,7 +67,7 @@ One of those restatements of the teachings is the _Truthseekers_, who were the f
 The _Truthseekers_ worked alongside the Fellowship's Youth and Young Adult Committee (the YaYAs), with several of its members serving in both groups concurrently.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/25.jpg">
 <figcaption>Guardian Angel by Jim Mayne Freeheart</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ The celestials have given us the foundation of effective and efficient communica
 My interpretation arrives from our brother Marvin Gawryn, as I paraphrase here: _vividness_ for attention grabbing, universality of understanding, readiness for integration, and simplicity of application. The last one our other brother Albert Einstein says simply, “If you can't explain it to a six year old, you don't understand it yourself.”
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/26.jpg">
 <figcaption>The Sermon at Capernaum by Vasily Alexandrovich Kotarbiński</figcaption>
 </figure>
 

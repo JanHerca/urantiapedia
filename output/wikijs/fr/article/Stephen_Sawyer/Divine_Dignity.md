@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Stephen_Sawyer/14.jpg">
+<img src="/image/article/Fellowship_Herald/Stephen_Sawyer.jpg">
 </figure>
 
 _par Stephen Sawyer_
@@ -45,7 +45,7 @@ Lorsque Jésus nous a enseigné que nous étions, par la foi, des enfants du Die
 Compte tenu de ce statut de dignité divine il y a plus de deux mille ans, d’innombrables frères et sœurs restent à la traîne parce qu’ils rejettent ou comprennent mal cette profonde vérité éternelle selon laquelle nous sommes, en fait, fils et filles de Dieu.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Stephen_Sawyer/13.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/13.jpg">
 <figcaption>Dignité divine par Stephen Sawyer</figcaption>
 </figure>
 

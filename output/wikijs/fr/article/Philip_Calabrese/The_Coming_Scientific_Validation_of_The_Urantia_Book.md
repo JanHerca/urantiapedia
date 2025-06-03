@@ -150,7 +150,7 @@ Vers 1990, avec la publication des premières photos de l’espace lointain, nos
 Oh, avec quelle rapidité les estimations scientifiques changent sans guère de regard en arrière ou d’admission d’erreur dans l’enthousiasme des « nouveaux résultats », qui sont tout aussi fièrement affirmés avec la même certitude que les croyances précédentes. _Le Livre d'Urantia_ doit vivre avec ce qu'il disait en 1955, et il a battu la science galactique de 1986 !
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image01.png">
 <figcaption><em>Hubble Deep Field - Télescope spatial Hubble</em></figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ Le Département de physique et d'astronomie de l'Université du Tennessee écrit
 « Les études Redshift ont révélé les plus grandes structures jamais observées dans l'Univers. La concentration importante de galaxies s’étendant en diagonale à travers la partie nord (c’est-à-dire supérieure) de l’image adjacente a été appelée la Grande Muraille.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image02.png">
 <figcaption><em>Centre de l'Anneau Galatique</em></figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ a) __Plus grande distorsion spectrographique.__ _Mais la plus importante de ces 
 En tant que mathématicien, j'ai décidé d'étudier cette possibilité de manière analytique. J'ai pu prouver un résultat intéressant. Apparemment, une situation telle que celle décrite par le Livre d'Urantia, avec des galaxies se déplaçant de manière ordonnée dans la première zone spatiale extérieure, s'ajoute à un décalage rouge (ou bleu) constant (selon l'angle d'observation) de tout objet dont la distance du centre postulé de rotation est supérieure à la distance de la Terre à ce centre de rotation. (Cette constante s'avère être la distance entre la Terre et le centre de rotation multipliée par la différence entre les vitesses angulaires de la Terre et celles du premier objet spatial.[^21]
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image03.png">
 <figcaption><em>Anneau spatial rotatif</em></figcaption>
 </figure>
 

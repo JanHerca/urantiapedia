@@ -36,7 +36,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Mary_Huggins/001.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/001c.jpg">
 </figure>
 
 Moi : J'aimerais tellement te CONNAÎTRE vraiment ! 
@@ -83,7 +83,7 @@ montagnes et vallées, rochers, océans et rivières tumultueuses
 canyons et panoramas majestueux. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Mary_Huggins/002.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/002.jpg">
 </figure>
 
 Voyez-moi dans des peintures, des sculptures harmonieuses, 

@@ -62,7 +62,7 @@ I was, for a long time, a Jesus apologist. Christianity had soured anything that
 I cannot point to any given moment in time when I became aware of my spiritual folly. I had made the assumption that I could develop a relationship with God without turning my life over to the direction of His Son—the word of God—without allowing me to be nurtured and led by the Spirit of Truth, a necessary step for cuddling up more closely with my Beloved. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004220.png">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004220.png">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ We are told that Jesus, through the Spirit of Truth, lives anew in the experienc
 The Spirit of Truth asks us to reveal truth to the world around us by allowing the love of the Divine to pass through our personal experience and into the lives of others. We must remake ourselves into fountains of living truth, (born again), and share that truth with those that hunger. We, in partnership with the Spirit within, create a living pathway through which those who are lost can find their way home. We are the ones who spread the crumbs that identify a path through the dark forest floor to the illuminated valley waiting to embrace all who come—to the very source of love. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004221.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004221.jpg">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 

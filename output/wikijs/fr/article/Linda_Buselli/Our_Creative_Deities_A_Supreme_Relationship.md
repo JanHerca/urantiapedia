@@ -55,7 +55,7 @@ J'aimerais éviter d'utiliser les termes masculin/féminin, agressif/passif, etc
 Il s'agit du Tai Chi, symbole de l'équilibre de l'univers utilisé dans les religions orientales. Et veuillez noter ici deux aspects importants. Chacun contient quelque chose de l’autre, et ils sont totalement égaux et coordonnés. Franchement, je ne peux pas penser à un meilleur symbole pour la dualité du Suprême telle qu’exprimée dans la relation entre le Fils Créateur et l’Esprit Créateur. 
 
 <figure id="Taichi" class="image urantiapedia">
-<img src="/image/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship/taichi.png">
+<img src="/image/article/Fellowship_Herald/Volume_10_n_1/taichi.png">
 </figure>
 
 ## Les différences sont nécessaires 

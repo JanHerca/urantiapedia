@@ -53,7 +53,7 @@ Each stage of consciousness is a natural epistemology, a worldview that arises f
 Graves’ research revealed further that these sequential stages are themselves naturally organized in a systemic, structural relationship that forms the dialectic spiral of development illustrated below.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Steve_McIntosh/Putting_The_Urantia_Books_Teachings_Into_Action/Spiral_of_Development.png">
+<img src="/image/article/Fellowship_Herald/Volume_6_n_1/Spiral_of_Development.png">
 <figcaption><em><b>Figure 1.</b> The Spiral of Development - Archaic, Tribal, Warrior, Traditional, Modernist, Postmodern, Integral, Postintegral Consciousness.</em></figcaption>
 </figure>
 

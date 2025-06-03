@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Stephen_Sawyer/14.jpg">
+<img src="/image/article/Fellowship_Herald/Stephen_Sawyer.jpg">
 </figure>
 
 _by Stephen Sawyer_
@@ -45,7 +45,7 @@ When Jesus taught us that we were, by faith, children of the living God, he lift
 Given this status of divine dignity more than two thousand years ago there are still countless brothers and sisters who fall behind because they discard or misunderstand this profound eternal truth that we are, in fact, sons and daughters of God.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Stephen_Sawyer/13.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/13.jpg">
 <figcaption>Divine Dignity by Stephen Sawyer</figcaption>
 </figure>
 

@@ -62,7 +62,7 @@ Fui, durante mucho tiempo, un apologista de Jesús. El cristianismo había agria
 No puedo señalar ningún momento dado en el tiempo cuando me di cuenta de mi locura espiritual. Había asumido que podía desarrollar una relación con Dios sin entregar mi vida a la dirección de Su Hijo, la palabra de Dios, sin permitir que el Espíritu de la Verdad me nutriera y guiara, un paso necesario para acurrucarme. más de cerca con mi Amado.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004220.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004220.jpg">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Se nos dice que Jesús, a través del Espíritu de la Verdad, vive de nuevo en l
 El Espíritu de la Verdad nos pide que revelemos la verdad al mundo que nos rodea al permitir que el amor de lo Divino pase a través de nuestra experiencia personal ya la vida de los demás. Debemos rehacernos a nosotros mismos en fuentes de verdad viva, (nacer de nuevo), y compartir esa verdad con aquellos que tienen hambre. Nosotros, en asociación con el Espíritu interior, creamos un camino vivo a través del cual aquellos que están perdidos pueden encontrar el camino a casa. Somos los que esparcimos las migajas que identifican un camino a través del suelo del bosque oscuro hacia el valle iluminado que espera abrazar a todos los que vienen, a la fuente misma del amor.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004221.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004221.jpg">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 

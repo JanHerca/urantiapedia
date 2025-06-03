@@ -70,7 +70,7 @@ Los más perezosos entre nosotros pueden concluir que no tiene mucho sentido tra
 _El Libro de Urantia_ ofrece una gran cantidad de información sobre los niveles espirituales necesarios que deben alcanzarse para alcanzar la fusión. Identificar dónde se encuentra en esa progresión estructurada puede ayudarlo a inspirarse y alentarlo a continuar progresando. ¿Cómo puede determinar su propio progreso hacia la fusión? Se nos dice que la fusión generalmente ocurre en los mundos mansión nº 5 o nº 6, y se nos da una descripción precisa de los niveles espirituales y los logros necesarios para dominar cada uno de los niveles de los mundos mansión antes de eso. El mundo mansión nº 1 está dedicado casi por completo al ministerio de deficiencia. Los sobrevivientes que llegan a esta esfera presentan múltiples defectos del carácter de las criaturas y deficiencias de la experiencia mortal. Las deficiencias biológicas se abordan en el primer mundo de estancia, y los principales defectos en la experiencia planetaria relacionados con la vida sexual, la asociación familiar y la función de los padres, se corrigen o se proyectan para su futura rectificación entre las familias de los Hijos Materiales en Jerusem.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.png">
 <figcaption><em> Mi ajustador de pensamientos.</em> © 2019 Patrick Yesh</figcaption>
 </figure>
 

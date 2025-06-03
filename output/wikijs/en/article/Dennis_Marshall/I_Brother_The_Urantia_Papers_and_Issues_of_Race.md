@@ -74,7 +74,7 @@ A trite example of this would be someone believing that because “white men can
 To illustrate a point, I’ve assumed six, relatively homogenous, hypothetical races and arranged them in a simple graph. The races each have different sized populations and those populations are differentially talented musically in relation to the other races. The vertical axis measures the upper and lower range of musical ability within each race. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image01b.png">
 </figure>
 
 I have placed a short-dash line in the middle of each race to indicate its average (mean) and used this measure to stipulate RACE 2 as the musically superior race because it had the highest musical average. Furthermore, a long- dash line has been placed to indicate my ability in relation to all of the races. It can be seen that, regardless of which race I personally belong to, the graph shows there will be people with musical talent both greater and lesser than my own. Other observations include:  

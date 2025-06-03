@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-![](/image/article/Framy_Mas/Framy_Mas.jpg)
+![](/image/article/Fellowship_Herald/Framy_Mas.jpg)
 
 Intro: G, C, G, C,
 
@@ -112,7 +112,7 @@ Thank you! Thank you! Fade Out...<br>
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Framy_Mas/001.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/001.jpg">
 <figcaption><em> Shutterstock 2871542</em></figcaption>
 </figure>
 

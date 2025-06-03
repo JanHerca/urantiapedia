@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Neal_Waldrop/18.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/18.jpg">
 </figure>
 
 _por Neal Waldrop_
@@ -75,7 +75,7 @@ Ahora Paulinus, como ya habrás imaginado, está visitando Northumbria porque qu
 Esto aparentemente fue decisivo en el año 627, y el cristianismo se convirtió entonces en la religión oficial del Reino de Northumbria. Tenga en cuenta que la decisión del rey Edwin era vinculante para todos sus súbditos, privándolos así de cualquier oportunidad de disentir o discrepar de su edicto real. Así, la historia de Beda sirve para personificar la realidad subyacente: durante los siglos que siguieron al colapso de la mitad occidental del Imperio Romano, la fe cristiana fue impuesta desde arriba por la autoridad de caudillos, reyezuelos y reyes, no como resultado de ninguna acción. proceso mediante el cual los individuos fueron persuadidos o convertidos en un sentido espiritual.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Stephen_Sawyer/19.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/19.jpg">
 <figcaption>El bautismo de Edwin de Ford Madox Brown</figcaption>
 </figure>
 

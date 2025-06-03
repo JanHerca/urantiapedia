@@ -72,7 +72,7 @@ According to Hall, this area has been studied using the tools of bathymetry, gra
 > The region’s recent history also seems to beckon. From the pioneering study of our colleague Ya’akov Petrovitch Malovitskiy[^3] (1978) who proposed on the basis of seismic investigations that the Levantine Basin was a sunken continent, we advance to recent extrapolations (Sarmast, 2003) regarding the ‘finding’ of Atlantis at depths of 1,500 m between the West Tartus Ridge and the Gelendzhik Rise, based upon a computer analysis of the Russian Research Vessel (R/V) Strakhov’s multibeam soundings. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image01.png">
 <figcaption><b>Figure 2.</b><em> Map of the three plates to which Dr. Hall refers: Anatolian, Arabian and African. (Courtesy of National Geographic Magazine, October 2002, p. 125) </em></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ In 2003 Sarmast published Discovery of Atlantis,[^4] which makes the case that M
 To support his thesis, Sarmast mounted a privately funded exploratory expedition in 2004, drawing financial support from a large number of _Urantia Book_ students, with the aim of probing the surface of the sunken content using a research technology known as side-scan sonar. The second edition of his book in 2006 incorporated the results of this survey, after which Sarmast led a widely publicized expedition in November 2006 that was funded, filmed, and broadcast by The History Channel.  
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image02.png">
 <figcaption><b>Figure 3. </b><em> Eastern Mediterranean basin with sea level lowered digitally one mile. (Courtesy of Robert Sarmast, R/V Strakhov, NOAA, USGS and Scotia Group imagery) </em></figcaption>
 </figure>
 
@@ -100,14 +100,14 @@ But in 2003, the R/V Le Suroît from L’Institut Français de Recherche pour l�
 Notably, the well-defined ridges that appeared in the center (based on the multibeam bathymetric IFREMER data), seemed to support Sarmast’s claim that some sort of megalithic structures existed within the black square in figure[^4].   
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image03.png">
 <figcaption><b>Figure 4. </b><em> Central part of Malovitskiy’s Sunken Continent. (From IFREMER scan data and Scotia Group imagery)   </em></figcaption>
 </figure>
 
 An enlarged graphical display of this structure is provided in Figure 5, which depicts what appears to be a 3700-meter-long, narrow, regular, linear Y-formation in the northern part of the area. In addition, just to the south was a 2800-meter-long irregular low tabular mound about 110 meters high and varying between 500 to 800 meters wide. Also in evidence are scarp-like features half way up the mound, leading off to both the eastern and western sides. (A scarp is a very steep bank or slope.) This general area became the primary target of both the 2004 and 2006 expeditions. Bear in mind, however, that the height of these features are magnified ten-fold to enhance them for study.  
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image04.png">
 <figcaption><b>Figure 5. </b><em> Enlarged Scotia Group image, facing south, showing the central mound and a narrow, regular, linear Y-formation.It should be noted that this 3-D representation exaggerates heights by a factor of ten for contrast, because that was the way the IFREMER data were received. (Courtesy of Robert Sarmast with Scotia Group imagery from the IFREMER scans) </em></figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ The information from the IFREMER multibeam sonar scans provided excellent orient
 The ship used for the 2004 expedition was the motor vessel (M/V) Flying Enterprise. Captain Duncan MacKenzie, a husky South African with years of sea service, was the ship’s master for this voyage. Given my decades of previous experience with research and commercial voyages of this kind, I was in the role of expedition leader. The ship was perfectly suited for our purpose; in fact it qualifies as a medium-size research vessel with winches, cranes, and an A-frame for the deployment of our underwater probe attached to a coaxial cable. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image05.png">
 <figcaption><b>Figure 6. </b><em> The Motor Vessel Flying Enterprise converted to a Research Vessel. (Official Photo from EDT Towage and Salvage Co., Ltd Photo) </em></figcaption>
 </figure>
 
@@ -125,26 +125,26 @@ The images acquired from the 2004 expedition using the side-scan sonar provided 
 The tracks along which the side-scan sonar traces were recorded over the ridges and central mound were documented in Figure 7 by team member Axel Schoeller. Schoeller first laid grid lines along an axis of our intended courses over the central mound. The base line for the ridges was labeled “Wall 1” and a parallel scan line to the north was labeled “1-175” indicating it was 175 meters distant from the “Wall 1” line. The use of a minus sign in the figure means “north of” Wall 1, while the plus sign for scans on the central mount indicates “south of” a datum mark (not shown on the chart because it is off the north end of the chart) by the number of meters from that datum point indicated by the numbers following the “3+.”   
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image06.png">
 <figcaption><b>Figure 7. </b><em> Tracks along which the side-scan traces were recorded in the 2004 Expedition. (Courtesy of Axel Schoeller as adapted by the author)   </em></figcaption>
 </figure>
 
 The images produced by the side-scan sonar lines in Figure 7 are associated with the same line number next to those images in Figure 8. They provided the historical first close look at the ridges and the summit of the central mound. The line numbers and the associated images will be frequently referred to in the text that follows.  
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image07.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image07.png">
 <figcaption><b>Figure 8. </b><em> The side-scan traces as they appeared when recorded on the 2004 expedition. (Courtesy of Robert Sarmast and Phoenix International) </em></figcaption>
 </figure>
 
 The 3700-meter-long ridge formation first received attention from Lowry in early September 2004 when the data from the R/V _Le Suroît_ were obtained from IFREMER and sent to him. Except for Sarmast, no one prior to that time reported any significance attached to that anomaly. At first, Lowry was of the opinion that the slump on the face of the associated mound and the transverse ridges at the foot of the mound fit the classical depiction of a natural slump—that is, the accumulation of material from a landslide off the front side of the mound as seen in Figure 10. Later we will consider a much different interpretation of these features that results from the data acquired in the 2006 expedition. 
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image08.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image08.png">
 <figcaption><b>Figure 9. </b><em> A projection facing east (utilizing side-scan data 1-175) that depicts one of the two narrow, regular ridge formations closest to the central mound. Notice the almost right angle turn of the ridge and its uniform linearity. (Courtesy of Robert Sarmast with Scotia Group imagery from Phoenix International side scan data) </em></figcaption>
 </figure>
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image09.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image09.png">
 <figcaption><b>Figure 10. </b><em> An enhanced colorized version of the central mound and ridges. (A product of Vistapro from the images developed from IFREMER multibeam scans)  </em></figcaption>
 </figure>
 
@@ -155,14 +155,14 @@ Robert Sarmast’s first expedition caught the attention of media around the wor
 The History Channel’s documentary about Sarmast’s second expedition is entitled: Atlantis–New Revelations. The History Channel personnel did exhaustive research for the two-hour documentary. They covered all the latest Atlantis theories in the program and disposed of alternate theories that had no merit regarding the location of Atlantis. The primetime program first aired in January 2007 and it especially highlighted the work of Sarmast and his team.   
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image10.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image10.png">
 <figcaption><b>Figure 11. </b><em> The Motor Tugboat EDT Argonaut converted to a Research Vessel. (Photo by Robert Sarmast) </em></figcaption>
 </figure>
 
 Notwithstanding his lack of experience, Sarmast made the executive decision that he would be expedition leader in 2006. The ship used for that expedition was the 41 meter long M/T EDT Argonaut (Figure 11) operated by EDT Towage and Salvage Co., our previous provider based in Limassol, Cyprus.[^6] This time, more advanced equipment was used in addition to side-scan sonar, most notably a sub-bottom profiler (SBP)—an instrument that uses echo sounding, like sonar, to map the strata as deep as 30 meters below the surface of the sea bed. Another instrument known as a depth sounder, which is crucial for guiding the towfish, was also on board. Only five tracks were planned for the 2006 expedition, as shown in Figure 12. The plan was to crisscross as much as the area as possible with both side-scan and SBP during the 72 hours that were allotted for the trip. The first and longest line was designed to capture the cross section of both branches of the ridges and the central mound. 
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image11.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image11.png">
 <figcaption><b>Figure 12. </b><em> The five tracks planned for the 2006 expedition. The longest, heaviest line (Line 1) crossed both branches of the narrow, regular, linear Y-formation as well as the hill. Because of serious technical problems during the expedition, Line 1 was the only line that was actually surveyed. Notice the inserted chart in the upper right, which we return to later.. (Photo by Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ As a result of Sarmast’s decision, the time charter came to an end without hav
 Previous to the 2006 expedition, the face of the mound with its obvious main and minor scarps—as well as the transverse ridges associated with it—gave the appearance of a natural slump or landslide, as we noted in Figure 10. But significantly, the main result of the 2006 expedition dispels that idea—at least according to my reading of the data that resulted from the one and only line of SBP data we had acquired along Line 1. The SBP image in Figure 13 provides an excellent cross-sectional look at the ridge closest to the central mound. (Recall that the SBP can trace features up to 30 meters below the surface.) 
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image12.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image12.png">
 <figcaption><b>Figure 13. </b><em> (opposite) The cross-section of the ridge closest to the central mound returned in 2006 by the SBP data. Shown also are the lines of continuous stratum of the ridge formation as drawn by marine geologist Patrick Lowry. (Courtesy of Patrick Lowry from Seatronics SBP scan)   </em></figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ Now, let’s examine the illustration at the bottom of Figure14. Note that I hav
 These observations have led me to a new hypothesis about the nature of the impediment and how it can be interpreted within the context of a discussion of the purpose, direction, position, length, breadth, and height of the ridges.   
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image13.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image13.png">
 <figcaption><b>Figure 14. </b><em> Deflected strata due to a well-defined impediment. (Courtesy of Patrick Lowry from Seatronics SBP scan and author)  </em></figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ The case for the engineered subterranean conduit system alone could well be enou
 Recall that Lowry had offered the opinion in 2004 that the slump on the face of the mound and the transverse ridges at the foot of the mound, when taken together, fit the classical depiction of a natural slump—a landslide. He gave no further explanation of the slump on camera at the end of the 2006 expedition. But the evidence I have now offered may be a game changer. My improved description of the nature of the ridges’ seismic up-thrusts based on empirical evidence allows us to logically separate the ridges and the slump into distinct features that are independent of each other. Separating these two features invites us to look elsewhere for an explanation of the true nature of the mound. A closer look at the slump on the face of the mound as seen in Figures 5 and 10 reveals that it lacks the classic features of a landslide as shown below in Figure 15 (top image). On our mound (bottom image) we observe no foot, no cracks, and no discernible surface of rupture or separation. The only visible parts of this slump are, in my estimation, the crown, the main scarp, and the two minor scarps. Also, the ridges as a whole are unlike the classic transverse ridges of a typical landslide. 
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image14.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image14.png">
 <figcaption><b>Figure 15. </b><em> A comparison of features of a classic landslide with the enlarged image of the mound. (The image depicting the parts of a typical landslide is provided online by the U.S. Geological Survey.) </em></figcaption>
 </figure>
 
@@ -255,12 +255,12 @@ Plus, other curiosities can be found on (what we have taken to be) the enlarged 
 This feature, if it is truly present, sharply differentiates the central mound from the mud volcanoes that dot this landscape. Mud volcanoes in the area have a single depression in the center of their cones. In addition, they do not cluster in groups to form uniformly continuous tabular mounds as shown here and in Figure 4. 
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image16.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image16.png">
 <figcaption><b>Figure 17. </b><em> The IFREMER multibeam image of the summit of the mound (see first figure above), if overlayed with side-scan images of the mound, can be combined to show mysterious physical circular segments if the side-scan images are enlarged to the proper scale. (Courtesy of Robert Sarmastand IFREMER. Composite by author) </em></figcaption>
 </figure>
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image17.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image17.png">
 <figcaption><b>Figure 18. </b><em> (opposite) easternmost (leftmost) circular arcs in Figure  17. (Composite by author from side-scan images:3+2975, 3+3150 and 3+3325) </em></figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ One of the byproducts of the SBP scan is a graph compiled during the 2006 expedi
 A major feature at the foot of the south side of the mound is a deep concave depression below the -1600 meter level in Figure 20.In studying Figure 4, there is an obvious line of what appears to be a river bank on the south side of the mound that extends left to right for thousands of meters in both directions. An examination of the IFREMER bathymetric scans throughout the area yields no similar feature that could be interpreted as a continuous river bank. And, the literature about this peninsula leaves no doubt that an important river meandered through the land, as I recount below.  
 
 <figure id="Figure_19" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image19.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image19.png">
 <figcaption><b>Figure 19. </b><em> A closer look at the insert in Figure 12. The Path Profile compiled during the scan of Line 1 shows features from left to right of the two ridges, the main scarp, the top of the hill and a slight scarp on the back of the hill (-1500m) ending with the lowest point, probably a river bed bottom (below -1600 m). [South is to the right.] (Photo by Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ Next, the Bible prominently mention a river associated with the Garden of Eden i
 > “The man brought me back to the entrance to the temple, and I saw water coming out from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar. He then brought me out through the north gate and led me around the outside to the outer gate facing east, and the water was tricking from the south side.” ([Ezekiel 47:1-2 NIV](/en/Bible/Ezekiel/47#v1)) 
 
 <figure id="Figure_20" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figure 20. </b><em> (opposite) The great river that flowed “East of Eden” through the “peninsular neck” to the mainland and thence across the lowlands of Mesopotamia to the sea beyond. (Described in Ezekiel 47:1-2 and _The _Urantia Book. From the author’s collection) </em></figcaption>
 </figure>
 
@@ -309,7 +309,7 @@ It must have been the case that the occupants of Malovitskiy’s Sunken Continen
 The number of bricks required in this account reaches astronomical figures. We are told that the Edenites built houses, roads, sewer conduits, and temples with brick, and even built two 27-mile-long brick walls at the Garden’s entrance (containing the so-called twelve gates of Eden). Other uses of bricks are suggested in _Enki and the World Order_ for the building of waterways, irrigation ditches, and controlling dikes.
 
 <figure id="Figure_21" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figure 21. </b><em> A close look at a possible quarry site north of the central mound. (From IFREMER scan data and Scotia Group imagery)</em></figcaption>
 </figure>
 

@@ -72,7 +72,7 @@ Según Hall, esta área ha sido estudiada utilizando las herramientas de batimet
 > La historia reciente de la región también parece llamar la atención. Desde el estudio pionero de nuestro colega Ya'akov Petrovich Malovitskiy[^3] (1978) quien propuso sobre la base de investigaciones sísmicas que la cuenca levantina era un continente hundido, avanzamos a extrapolaciones recientes (Sarmast, 2003) sobre el 'hallazgo ' de Atlantis a profundidades de 1.500 m entre West Tartus Ridge y Gelendzhik Rise, basado en un análisis informático de los sondeos multihaz del Russian Research Vessel (R/V) Strakhov.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image01.png">
 <figcaption><b>Figura 2. </b><em> Mapa de las tres placas a las que se refiere el Dr. Hall: Anatolia, Arabia y África. (Cortesía de la revista National Geographic, octubre de 2002, pág. 125) </em></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ En 2003, Sarmast publicó Discovery of Atlantis,[^4] que argumenta que el contin
 Para respaldar su tesis, Sarmast montó una expedición exploratoria financiada con fondos privados en 2004, con el apoyo financiero de un gran número de estudiantes de _El Libro de Urantia_, con el objetivo de sondear la superficie del contenido hundido utilizando una tecnología de investigación conocida como sonar de barrido lateral. La segunda edición de su libro en 2006 incorporó los resultados de esta encuesta, después de lo cual Sarmast dirigió una expedición ampliamente publicitada en noviembre de 2006 que fue financiada, filmada y transmitida por The History Channel.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image02.png">
 <figcaption><b>Figura 3. </b><em> Cuenca del Mediterráneo oriental con el nivel del mar descendido digitalmente una milla. (Cortesía de imágenes de Robert Sarmast, R/V Strakhov, NOAA, USGS y Scotia Group)  </em></figcaption>
 </figure>
 
@@ -100,14 +100,14 @@ Pero en 2003, el R/V Le Suroît del L'Institut Français de Recherche pour l'Exp
 En particular, las crestas bien definidas que aparecieron en el centro (según los datos batimétricos multihaz de IFREMER) parecían respaldar la afirmación de Sarmast de que existía algún tipo de estructuras megalíticas dentro del cuadrado negro en la figura[^4]. 
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image03.png">
 <figcaption><b>Figura 4. </b><em> Parte central del Continente Hundido de Malovitskiy. (De datos escaneados de IFREMER e imágenes de Scotia Group) </em></figcaption>
 </figure>
 
 En la Figura 5 se proporciona una representación gráfica ampliada de esta estructura, que representa lo que parece ser una formación en Y lineal regular, angosta y lineal de 3700 metros de largo en la parte norte del área. Además, justo al sur había un montículo tabular irregular bajo de 2800 metros de largo, de unos 110 metros de altura y que variaba entre 500 y 800 metros de ancho. También son evidentes las características escarpadas a mitad de camino del montículo, que conducen a los lados este y oeste. (Una escarpa es un banco o pendiente muy empinada). Esta área general se convirtió en el objetivo principal de las expediciones de 2004 y 2006. Tenga en cuenta, sin embargo, que la altura de estas características se amplía diez veces para mejorarlas para su estudio.
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image04.png">
 <figcaption><b>Figura 5. </b><em> Imagen ampliada del Grupo Scotia, orientada hacia el sur, que muestra el montículo central y una formación en Y estrecha, regular y lineal. Cabe señalar que esta representación tridimensional exagera las alturas por un factor de diez por el contrario, porque así se recibían los datos del IFREMER. (Cortesía de Robert Sarmast con imágenes de Scotia Group de los escaneos de IFREMER) </em></figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ La información de las exploraciones del sonar multihaz de IFREMER proporcionó 
 El barco utilizado para la expedición de 2004 fue la embarcación a motor (M/V) Flying Enterprise. El capitán Duncan MacKenzie, un sudafricano fornido con años de servicio en el mar, fue el capitán del barco para este viaje. Dadas mis décadas de experiencia previa con viajes de investigación y comerciales de este tipo, yo estaba en el papel de líder de la expedición. El barco se adaptaba perfectamente a nuestro propósito; de hecho, califica como un buque de investigación de tamaño mediano con cabrestantes, grúas y un marco en A para el despliegue de nuestra sonda submarina conectada a un cable coaxial.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image05.png">
 <figcaption><b>Figura 6. </b><em> La Motor Vessel Flying Enterprise convertida en una nave de investigación. (Foto oficial de EDT Towage and Salvage Co., Ltd Photo) </em></figcaption>
 </figure>
 
@@ -125,26 +125,26 @@ Las imágenes adquiridas de la expedición de 2004 utilizando el sonar de barrid
 Las pistas a lo largo de las cuales se registraron las trazas del sonar de barrido lateral sobre las crestas y el montículo central fueron documentadas en la Figura 7 por el miembro del equipo Axel Schoeller. Schoeller primero colocó líneas de cuadrícula a lo largo de un eje de nuestros cursos previstos sobre el montículo central. La línea de base para las crestas se denominó «Pared 1» y una línea de exploración paralela hacia el norte se denominó «1-175», lo que indica que estaba a 175 metros de distancia de la línea «Pared 1». El uso de un signo menos en la figura significa «al norte de» la pared 1, mientras que el signo más para los escaneos en el soporte central indica «al sur de» una marca de referencia (no se muestra en el gráfico porque está fuera del extremo norte de la pared del gráfico) por el número de metros desde ese punto de referencia indicado por los números que siguen al «3+». 
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image06.png">
 <figcaption><b>Figura 7. </b><em> Huellas a lo largo de las cuales se registraron las huellas de barrido lateral en la Expedición de 2004. (Cortesía de Axel Schoeller según la adaptación del autor) </em></figcaption>
 </figure>
 
 Las imágenes producidas por las líneas del sonar de barrido lateral en la Figura 7 están asociadas con el mismo número de línea al lado de las imágenes en la Figura 8. Proporcionaron la primera mirada histórica de cerca a las crestas y la cima del montículo central. Los números de línea y las imágenes asociadas se mencionarán con frecuencia en el texto que sigue.
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image07.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image07.png">
 <figcaption><b>Figura 8. </b><em> Los rastros de escaneo lateral tal como aparecieron cuando se registraron en la expedición de 2004. (Cortesía de Robert Sarmast y Phoenix International) </em></figcaption>
 </figure>
 
 La formación de la cresta de 3700 metros de largo recibió la atención de Lowry a principios de septiembre de 2004 cuando los datos del R/V _Le Suroît_ se obtuvieron de IFREMER y se los enviaron. A excepción de Sarmast, nadie antes de ese momento reportó ningún significado asociado a esa anomalía. Al principio, Lowry era de la opinión de que el derrumbe en la cara del montículo asociado y las crestas transversales al pie del montículo se ajustaban a la descripción clásica de un derrumbe natural, es decir, la acumulación de material de un deslizamiento de tierra desde el frente lado del montículo como se ve en la Figura 10. Más adelante consideraremos una interpretación muy diferente de estas características que resulta de los datos adquiridos en la expedición de 2006.
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image08.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image08.png">
 <figcaption><b>Figura 9. </b><em> Una proyección orientada hacia el este (utilizando datos de escaneo lateral 1-175) que representa una de las dos formaciones de crestas estrechas y regulares más cercanas al montículo central. Observe el giro en ángulo casi recto de la cresta y su linealidad uniforme. (Cortesía de Robert Sarmast con imágenes de Scotia Group de datos de escaneo lateral de Phoenix International) </em></figcaption>
 </figure>
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image09.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image09.png">
 <figcaption><b>Figura 10. </b><em> Una versión coloreada mejorada del montículo central y las crestas. (Un producto de Vistapro a partir de las imágenes desarrolladas a partir de escaneos multihaz de IFREMER) </em></figcaption>
 </figure>
 
@@ -155,14 +155,14 @@ La primera expedición de Robert Sarmast llamó la atención de los medios de co
 El documental de History Channel sobre la segunda expedición de Sarmast se titula: Atlantis–New Revelations. El personal de History Channel realizó una investigación exhaustiva para el documental de dos horas. Cubrieron todas las últimas teorías de la Atlántida en el programa y desecharon teorías alternativas que no tenían ningún mérito con respecto a la ubicación de la Atlántida. El programa en horario estelar se emitió por primera vez en enero de 2007 y destacó especialmente el trabajo de Sarmast y su equipo. 
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image10.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image10.png">
 <figcaption><b>Figura 11. </b><em> Remolcador a motor EDT Argonaut convertido en buque de investigación. (Foto de Robert Sarmast) </em></figcaption>
 </figure>
 
 A pesar de su falta de experiencia, Sarmast tomó la decisión ejecutiva de que sería el líder de la expedición en 2006. El barco utilizado para esa expedición fue el M/T EDT Argonaut de 41 metros de eslora (Figura 11) operado por EDT Towage and Salvage Co., nuestra proveedor anterior con sede en Limassol, Chipre.[^6] Esta vez, se utilizó un equipo más avanzado además de la sonda de barrido lateral, en particular, un perfilador de subfondo (SBP), un instrumento que utiliza ecos, como una sonda, para cartografíe los estratos a una profundidad de hasta 30 metros por debajo de la superficie del lecho marino. Otro instrumento conocido como sonda de profundidad, que es crucial para guiar al remolque, también estaba a bordo. Solo se planificaron cinco pistas para la expedición de 2006, como se muestra en la Figura 12. El plan era cruzar la mayor parte posible del área con barrido lateral y SBP durante las 72 horas asignadas para el viaje. La primera y más larga línea fue diseñada para capturar la sección transversal de ambas ramas de las crestas y el montículo central.
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image11.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image11.png">
 <figcaption><b>Figura 12. </b><em> Las cinco rutas previstas para la expedición de 2006. La línea más larga y pesada (Línea 1) cruzaba ambos ramales de la formación Y estrecha, regular y lineal, así como la colina. Debido a serios problemas técnicos durante la expedición, la Línea 1 fue la única línea que realmente fue relevada. Observe el gráfico insertado en la parte superior derecha, al que volveremos más adelante. (Foto de Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ Como resultado de la decisión de Sarmast, el fletamento por tiempo llegó a su 
 Antes de la expedición de 2006, la cara del montículo con sus escarpes principales y menores obvios, así como las crestas transversales asociadas con él, daban la apariencia de un derrumbe natural o deslizamiento de tierra, como notamos en la Figura 10. Pero significativamente, el El resultado principal de la expedición de 2006 disipa esa idea, al menos según mi lectura de los datos que resultaron de la única línea de datos de PAS que habíamos adquirido a lo largo de la Línea 1. La imagen de PAS en la Figura 13 proporciona una excelente vista transversal en la cresta más cercana al montículo central. (Recuerde que el SBP puede rastrear características hasta 30 metros debajo de la superficie).
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image12.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image12.png">
 <figcaption><b>Figura 13. </b><em> (opuesto) La sección transversal de la cresta más cercana al montículo central arrojada en 2006 por los datos de SBP. También se muestran las líneas del estrato continuo de la formación de la cresta dibujadas por el geólogo marino Patrick Lowry. (Cortesía de Patrick Lowry de Seatronics SBP scan) </em></figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ Ahora, examinemos la ilustración en la parte inferior de la Figura 14. Tenga en
 Estas observaciones me han llevado a una nueva hipótesis sobre la naturaleza del impedimento y cómo puede interpretarse dentro del contexto de una discusión sobre el propósito, la dirección, la posición, la longitud, la anchura y la altura de las crestas. 
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image13.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image13.png">
 <figcaption><b>Figura 14. </b><em> Estratos desviados debido a un impedimento bien definido. (Cortesía de Patrick Lowry de Seatronics SBP scan y el autor) </em></figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ El caso del sistema de conductos subterráneos diseñado por sí solo bien podr�
 Recuerde que Lowry había ofrecido la opinión en 2004 de que el derrumbe en la cara del montículo y las crestas transversales al pie del montículo, cuando se toman en conjunto, se ajustan a la representación clásica de un derrumbe natural: un deslizamiento de tierra. No dio más explicaciones sobre la caída ante la cámara al final de la expedición de 2006. Pero la evidencia que ahora he ofrecido puede cambiar las reglas del juego. Mi descripción mejorada de la naturaleza de los empujes ascendentes sísmicos de las dorsales, basada en evidencia empírica, nos permite separar lógicamente las dorsales y el hundimiento en características distintas que son independientes entre sí. Separar estas dos características nos invita a buscar en otra parte una explicación de la verdadera naturaleza del montículo. Una mirada más cercana al derrumbe en la cara del montículo, como se ve en las Figuras 5 y 10, revela que carece de las características clásicas de un deslizamiento de tierra, como se muestra a continuación en la Figura 15 (imagen superior). En nuestro montículo (imagen inferior) no observamos pie, grietas ni superficie perceptible de ruptura o separación. Las únicas partes visibles de este hundimiento son, en mi opinión, la corona, el escarpe principal y los dos escarpes menores. Además, las crestas en su conjunto son diferentes a las crestas transversales clásicas de un deslizamiento de tierra típico.
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image14.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image14.png">
 <figcaption><b>Figura 15. </b><em> Una comparación de las características de un deslizamiento de tierra clásico con la imagen ampliada del montículo. (La imagen que representa las partes de un derrumbe típico es proporcionada en línea por el Servicio Geológico de EE. UU.). </em></figcaption>
 </figure>
 
@@ -255,12 +255,12 @@ Además, se pueden encontrar otras curiosidades en (lo que hemos tomado como) la
 Esta característica, si está realmente presente, diferencia claramente el montículo central de los volcanes de lodo que salpican este paisaje. Los volcanes de lodo en el área tienen una sola depresión en el centro de sus conos. Además, no se agrupan en grupos para formar montículos tabulares uniformemente continuos como se muestra aquí y en la Figura 4.
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image16.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image16.png">
 <figcaption><b>Figura 17. </b><em> La imagen multihaz de IFREMER de la cima del montículo (consulte la primera figura anterior), si se superpone con imágenes de barrido lateral del montículo, puede combinarse para mostrar misteriosos fenómenos físicos. segmentos circulares si las imágenes de barrido lateral se amplían a la escala adecuada. (Cortesía de Robert Sarmastand IFREMER. Composición del autor) </em></figcaption>
 </figure>
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image17.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image17.png">
 <figcaption><b>Figura 18. </b><em> (opuesto) arcos circulares más al este (más a la izquierda) en la Figura 17. (Composición del autor a partir de imágenes de escaneo lateral: 3+2975, 3+3150 y 3+3325) </em></figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ Uno de los subproductos de la exploración SBP es un gráfico compilado durante 
 Una característica principal al pie del lado sur del montículo es una profunda depresión cóncava debajo del nivel de -1600 metros en la Figura 20. Al estudiar la Figura 4, hay una línea obvia de lo que parece ser la orilla de un río en el lado sur del montículo que se extiende de izquierda a derecha por miles de metros en ambas direcciones. El examen de los barridos batimétricos de IFREMER en toda la zona no arroja ningún rasgo similar que pueda interpretarse como una ribera continua. Y, la literatura sobre esta península no deja duda de que un importante río serpenteaba por la tierra, como cuento más adelante.
 
 <figure id="Figure_19" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image19.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image19.png">
 <figcaption><b>Figura 19. </b><em> Una mirada más cercana al inserto en la Figura 12. El perfil de ruta compilado durante el escaneo de la Línea 1 muestra las características de izquierda a derecha de las dos crestas, la escarpa principal, la cima de la colina y una pequeña escarpa en la parte posterior. del cerro (-1500m) terminando en el punto más bajo, probablemente el fondo del lecho de un río (por debajo de -1600m). [El sur está a la derecha.] (Foto de Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ Luego, la Biblia menciona de manera prominente un río asociado con el Jardín d
 > «El hombre me llevó de vuelta a la entrada del templo, y vi agua que salía de debajo del umbral del templo hacia el este (porque el templo miraba hacia el este). El agua bajaba de debajo del lado sur del templo, al sur del altar. Entonces me sacó por la puerta del norte y me hizo dar la vuelta por fuera hasta la puerta exterior que mira al este, y el agua corría por el lado del sur». ([Ezequiel 47:1-2 NVI](/es/Bible/Ezekiel/47#v1))
 
 <figure id="Figure_20" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figura 20. </b><em> (opuesto) El gran río que fluía «al este de Edén» a través del «cuello peninsular» hacia el continente y desde allí cruzaba las tierras bajas de Mesopotamia hasta el mar más allá. (Descrito en Ezequiel 47:1-2 y _El _Libro de Urantia. De la colección del autor) </em></figcaption>
 </figure>
 
@@ -309,7 +309,7 @@ Debe haber sido el caso de que los ocupantes del Continente Hundido de Malovitsk
 El número de ladrillos requeridos en esta cuenta alcanza cifras astronómicas. Se nos dice que los edenitas construyeron casas, caminos, conductos de alcantarillado y templos con ladrillos, e incluso construyeron dos muros de ladrillos de 27 millas de largo a la entrada del Jardín (que contiene las llamadas doce puertas del Edén). En _Enki y el orden mundial_ se sugieren otros usos de los ladrillos para la construcción de vías fluviales, acequias de riego y diques de control.
 
 <figure id="Figure_21" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figura 21. </b><em> Una mirada cercana a un posible sitio de cantera al norte del montículo central. (De datos escaneados de IFREMER e imágenes de Scotia Group)</em></figcaption>
 </figure>
 

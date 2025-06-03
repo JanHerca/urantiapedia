@@ -123,7 +123,7 @@ There are many paths this article could follow to further explore these studies.
 We can ask how and where the Holy Spirit circuit connects with our minds, and what we can provide in the environment to provide for the richest soil for the reception of the Thought Adjuster. Does the Spirit of Truth “light up our temporal lobes,” but maybe on a very subtle level? What part do decisions play in helping to develop the child's SQ—spiritual intelligence? All of these circuits begin to operate when a child makes his or her first moral decision, and the Thought Adjuster is sent from the Paradise Father to indwell the child. As the child makes intellectual decisions, moral choices, and develops spiritually, the Adjuster “..._is increasingly enabled to register his picturizations of destiny with augmenting vividness and conviction upon the evolving consciousness._...” <a id="a122_789"></a>[[110:6.5](/en/The_Urantia_Book/110#p6_5)]
 
 <figure id="Faith_figure_1" class="image urantiapedia">
-<img src="/image/article/Sara_Blackstock/Faith_Wiring_in_the_Brain/brain.png">
+<img src="/image/article/Fellowship_Herald/Volume_4_n_1/brain.png">
 <figcaption><em><b>Figure 1.</b> Illustration by C. Montgomery based on Newsweek, May 7, 2001.</em></figcaption>
 </figure>
 

@@ -42,7 +42,7 @@ Les articles d'Urantia donnent naissance à une hypothèse crédible sur l'empla
 Parce qu'elle semblait si lointaine, Harlow Shapley a appelé en 1922 NGC 2419 le « Tramp intergalactique », ce qui signifie qu'elle semblait parcourir l'univers sans aucun lien avec la Voie lactée. Il est désormais communément surnommé le « Vagabond intergalactique » pour clarifier ce que Shapley voulait dire. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004171.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004171.jpg">
 <figcaption><em> NGC 2419 ESA/Hubble </em></figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Afin de justifier l'hypothèse selon laquelle NGC 2419 est l'emplacement d'Uvers
 - La distance moyenne de NGC 2419 à Urantia est de 245 000 années-lumière. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004172.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004172.jpg">
 </figure>
 
 Les quatre citations suivantes sont toutes les références dans les fascicules d'Urantia concernant l'emplacement d'Uversa. Chaque citation est suivie d'une analyse sur la façon dont NGC 2419 est en corrélation avec les preuves concernant l'emplacement d'Uversa. 
@@ -92,7 +92,7 @@ Uversa au sein de NGC 2419 bénéficie d'un emplacement central à proximité du
 > Le système Satanien de mondes habités est <ins>fort éloigné d’Uversa et du grand amas de soleils</ins> qui fonctionne comme <ins>centre physique ou astronomique</ins> du septième superunivers. <ins>Depuis Jérusem</ins>, capitale de Satania, <ins>il faut plus de deux-cent-mille années-lumière</ins> pour arriver au centre physique du superunivers d’Orvonton, loin, très loin <ins>dans le diamètre dense de la Voie Lactée</ins>. Satania est à la périphérie de l’univers local, et <ins>Nébadon</ins> est présentement très excentré et proche de la <ins>lisière extérieure</ins> d’Orvonton. Du plus lointain système de mondes habités jusqu’au <ins>centre du superunivers</ins>, il y a juste <ins>un peu moins de deux-cent- cinquante-mille années-lumière</ins>. (<a id="a91_760"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004173.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004173.jpg">
 <figcaption><em> L'anticentre à travers Urantia depuis le centre galactique est dans la direction passant par « le diamètre dense » du plan de la Voie Lactée, vers la constellation du Lynx, qui est l'emplacement de NGC 2419. </em></figcaption >
 </figure>
 

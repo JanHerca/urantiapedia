@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ## GPS: Nuestro sistema de posicionamiento de Dios
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Sue_Snider_Seccombe/42.jpg">
+<img src="/image/article/Fellowship_Herald/Sue_Snider_Seccombe.jpg">
 </figure>
 
 _por Sue Snider Seccombe_
@@ -67,7 +67,7 @@ Sabemos que la variedad es esencial, pero a veces (quizás a menudo) nos cuesta 
 Forjar sistemas sociales nuevos, más fuertes y hermosos a partir de la unificación intencional de nuestros contrastes ofrece muchas oportunidades para producir los frutos del espíritu, hacer crecer nuestras propias almas y hacer que cada uno haga una contribución única y ganada con esfuerzo al Supremo. Todo el que ha leído aunque sea una parte de El Libro de Urantia tiene al menos las brasas del deseo (si no una hoguera a gran escala) de alinear nuestra voluntad con la de Dios.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Sue_Snider_Seccombe/45.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/45.jpg">
 <figcaption><em>Contrastes en la noche (azul y naranja)</em> de Paul Klee</figcaption>
 </figure>
 

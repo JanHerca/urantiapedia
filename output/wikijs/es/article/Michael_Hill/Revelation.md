@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Michael_Hill/07.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/07.jpg">
 </figure>
 
 _por Michael Hill_
@@ -55,7 +55,7 @@ Entonces, ¿cómo hacer eso? El libro identifica muy claramente hábitos de vida
 ¿En qué medida evalúo el éxito de mis esfuerzos por vivir su voluntad? Se nos enseña que esas personas guiadas por el espíritu «...muestran espontáneamente los frutos del espíritu en [su] vida diaria; y los frutos del espíritu son la esencia del tipo más elevado de autocontrol placentero y ennoblecedor, incluso las alturas del logro mortal terrestre: el verdadero autodominio (<a id="a54_379"></a>[LU 143:2.8](/es/The_Urantia_Book/143#p2_8))».
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Michael_Hill/09.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/09.jpg">
 </figure>
 
 Además de los frutos bíblicos (amor, alegría, paz, paciencia, gentileza, bondad, fe, mansedumbre y templanza), _El Libro de Urantia_ afirma que Jesús añade: «servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera (<a id="a60_383"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))».

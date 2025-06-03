@@ -35,11 +35,11 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/41.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/41.jpg">
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Douglas_Burns/40.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/40.jpg">
 </figure>
 
 _par Douglas Burns_
@@ -65,7 +65,7 @@ L'infrastructure construite autour des enseignements du Livre d'Urantia joue un 
 L'exemple des religieux d'Urmia (voir <a id="a64_38"></a>[« The Urmia Lectures »](/fr/The_Urantia_Book/134#p3)) (1) sert de phare pour la paix et l'harmonie et (2) rejette l'idée de supériorité religieuse. Leur influence durable sert de boussole, incitant les institutions et leurs membres à adopter cet esprit d’unité. Il s’agit d’un appel à réfléchir sur la force et le potentiel accrus d’un mouvement uni dans l’intention et l’action.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/43.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/43.jpg">
 </figure>
 
 Bien que les débats sur les forces et les limites des modèles organisationnels soient importants, la poursuite ultime est un dévouement inébranlable aux enseignements du Livre d'Urantia. Alors que nous regardons vers l’horizon, j’espère que nous pourrons visualiser collectivement un mouvement aligné – une union qui symbolise l’unité et magnifie la résonance du mouvement.

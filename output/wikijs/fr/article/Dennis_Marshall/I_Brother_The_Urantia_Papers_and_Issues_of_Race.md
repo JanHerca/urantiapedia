@@ -75,7 +75,7 @@ Un exemple banal de cela serait quelqu’un qui croit que, parce que « les homm
 Pour illustrer un point, j’ai supposé six races hypothétiques, relativement homogènes, et je les ai disposées dans un graphique simple. Les races ont chacune des populations de tailles différentes et ces populations ont des talents musicaux différentiels par rapport aux autres races. L'axe vertical mesure les niveaux supérieur et inférieur des capacités musicales de chaque race. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image01b.png">
 </figure>
 
 J'ai placé une ligne en tirets courts au milieu de chaque course pour indiquer sa moyenne et j'ai utilisé cette mesure pour stipuler la RACE 2 comme la race musicalement supérieure car elle avait la moyenne musicale la plus élevée. De plus, une longue ligne tiretée a été placée pour indiquer mes capacités par rapport à toutes les courses. On peut voir que, quelle que soit la race à laquelle j'appartiens personnellement, le graphique montre qu'il y aura des personnes ayant un talent musical à la fois supérieur et inférieur au mien. D’autres observations incluent :  

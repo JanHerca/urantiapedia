@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Gard_Jameson/36.jpg">
+<img src="/image/article/Fellowship_Herald/Gard_Jameson.jpg">
 </figure>
 
 _by Gard Jameson_

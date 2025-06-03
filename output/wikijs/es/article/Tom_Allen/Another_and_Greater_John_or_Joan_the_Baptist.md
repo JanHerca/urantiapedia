@@ -39,7 +39,7 @@ _por Tom Allen_
 > Tarde o temprano deberá surgir otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca» —que propondrá un retorno al elevado concepto espiritual de Jesús, el cual proclamó que el reino es la voluntad de su Padre celestial, dominante y trascendente, en el corazón del creyente— y hará todo esto sin referirse para nada a la iglesia visible en la Tierra, ni a la esperada segunda venida de Cristo. Es preciso que se produzca un renacimiento de las *verdaderas* enseñanzas de Jesús, que se expongan de nuevo de tal manera que anulen el efecto de la obra de sus primeros seguidores, los cuales se pusieron a crear un sistema sociofilosófico de creencias sobre el *hecho* de la estancia de Miguel en la Tierra. En poco tiempo, la enseñanza de esta historia *acerca de* Jesús sustituyó casi por completo la predicación del evangelio del reino de Jesús. De esta manera, una religión histórica desplazó la enseñanza en la que Jesús había mezclado las ideas morales y los ideales espirituales más elevados del hombre con sus esperanzas más sublimes para el futuro —la vida eterna. Éste era todo el evangelio del reino. (<a id="a38_1139"></a>[LU 170:5.19](/es/The_Urantia_Book/170#p5_19))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Tom_Allen/08.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/08.jpg">
 </figure>
 
 Incluso si existiera una persona capaz de encabezar un gran cambio en la economía espiritual del planeta hoy, creo que los tiempos tal vez no estén maduros para ello. Secularismo, amenazas del cambio climático, dependencia de los combustibles fósiles, guerras y rumores de guerras, democracias que se desmoronan, liderazgo insuficiente, aumento de la autocracia, desigualdad racial, distribución desigual de la riqueza, igualdad de sexos deficiente, agitaciones económicas, desastres naturales horribles, cristianismo en declive, locura por el entretenimiento , el declive familiar, la hambruna masiva, la guerra cibernética, las corrientes sociológicas, la escasez de educación sobre la opinión pública, el analfabetismo rampante, los flagelos de la pandemia mundial, el nacionalismo, el patriotismo y la solidaridad cultural rezagados y el ateísmo en tendencia, se combinan para crear una situación muy inestable y semibárbara. mundo. Estas peligrosas condiciones juntas posiblemente estén llevando a nuestro planeta a crisis como no hemos visto desde la Segunda Guerra Mundial.
@@ -59,7 +59,7 @@ No me gusta sonar como [Jeremiah](https://en.wikipedia.org/wiki/Jeremiah) o Chic
 > Ninguna civilización nacional dura mucho tiempo a menos que sus métodos educativos y sus ideales religiosos inspiren un patriotismo inteligente y una devoción nacional de tipo elevado. Sin este tipo de patriotismo inteligente y de solidaridad cultural, todas las naciones tienden a desintegrarse a consecuencia de los celos regionales y de los egoísmos locales. (<a id="a58_365"></a>[LU 81:6.35](/es/The_Urantia_Book/81#p6_35))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/10.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/10.jpg">
 <figcaption>Destrucción de Thomas Cole (El curso del imperio)</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Todos los futuristas están equivocados, y yo también, pero al mirar hacia los 
 > Un observador Altísimo está facultado para hacerse cargo, a su juicio, del gobierno planetario en tiempos de grave crisis planetaria, y los archivos indican que esto ha sucedido treinta y tres veces en la historia de Urantia. (<a id="a67_229"></a>[LU 114:4.4](/es/The_Urantia_Book/114#p4_4))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption>Regla de oro de Norman Rockwell</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Los problemas en Urantia aún no han estallado por el posible deslizamiento haci
 Esta cita de «temblando al borde del abismo» está escrita por intermedios secundarios que han vivido durante más de treinta y seis mil años, y posiblemente ven mil años como el umbral tembloroso sobre el cual profetizaron. Para ellos mil años no es mucho tiempo. ¿Fueron ingenuos los Intermedios al pensar que la década de 1960 comenzaría el florecimiento de una nueva época? Posiblemente podría haberlo hecho. John o Joan no aparecieron. Tampoco podrían hacerlo en retrospectiva. Demasiadas cosas salieron mal en Urantia y no alcanzamos los niveles de espiritualidad que habrían inspirado un liderazgo espiritual asombroso y creado un equilibrio entre lo material y lo espiritual. Debemos esperar otro día para superar el límite de la época. El borde es como estar en el umbral del comienzo mismo de un nuevo período en la época del Hijo Hombre posterior al autootorgamiento en Urantia. Este período puede extenderse por lo menos mil años, y posiblemente muchos miles más, antes de que estemos listos para otra revelación de emergencia de época o la inauguración de la época del Hijo-Hombre Post-Magisterial. Mientras tanto, estamos solos en un mundo oscuro que sufre la doble catástrofe de la rebelión y el impago.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/12.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/12.jpg">
 <figcaption>El sueño de Arcadia de Thomas Cole (El curso del imperio)</figcaption>
 </figure>
 

@@ -59,7 +59,7 @@ Las instituciones religiosas de los griegos helénicos, tanto como los romanos:
 > Cuando un miembro de un grupo social religioso ha cumplido con los requisitos de dicho grupo, se le debería animar a disfrutar de la libertad religiosa, expresando plenamente su propia interpretación personal de las verdades de la creencia religiosa y de los hechos de la experiencia religiosa. La seguridad de un grupo religioso depende de su unidad espiritual, no de su uniformidad teológica. Los miembros de un grupo religioso deberían poder disfrutar de la libertad de pensar libremente, sin tener que convertirse en «librepensadores». Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros. <a id="a58_719"></a>[[LU 103:5.12](/es/The_Urantia_Book/103#p5_12)]
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image01.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ A la luz de _El Libro de Urantia_, ahora estamos en condiciones de hacer precisa
 En mi propia parroquia local de United Church of Christ (UCC), la secuencia de eventos el domingo pasado y típicamente es: música, anuncios y bienvenida, preludio (música: piano u órgano), llamado a la adoración (recitación de One & All), Himno en grupo, oración de confesión y garantía de perdón, música especial (coro o solista), charla de niños (y clase de la escuela de la iglesia), alegrías y preocupaciones (una oportunidad para que cualquiera presente se dirija brevemente a los reunidos), oraciones por nuestra familia de la iglesia y el Padre Nuestro, Saludos de Amistad, Himno, Escritura, Sermón, Ofertorio (con música), Respuesta Coral, Oración de Dedicación, Himno de Clausura, Bendición, Envío y Compartir la Luz (música), Postludio (música mientras la gente se va). Después hubo café, etc., con contacto social. Y este fue solo el servicio dominical sin el «ritual de recuerdo de pan y jugo de uva» mensual. Hay muchos otros servicios sociales de los miembros a los miembros y a la comunidad en general.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Corbis</em></figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Las ideas expansivas del cosmos, los ideales de la ciudadanía universal, los Aj
 > Pero la gran dificultad que existe para encontrar un simbolismo nuevo y satisfactorio reside en que los hombres modernos, como grupo, se adhieren a la actitud científica, evitan las supersticiones y aborrecen la ignorancia, mientras que como individuos, todos ansían el misterio y veneran lo desconocido. Ningún culto puede sobrevivir a menos que incorpore un misterio dominante y oculte una meta inaccesible digna de alcanzarse. Además, el nuevo simbolismo no sólo debe ser significativo para el grupo, sino que también debe tener sentido para el individuo. Las formas de cualquier simbolismo útil deben ser aquellas que el individuo pueda llevar a cabo por su propia iniciativa, y que también pueda disfrutar con sus semejantes. Si el nuevo culto pudiera ser dinámico en lugar de estático, podría efectuar una contribución realmente valiosa al progreso tanto temporal como espiritual de la humanidad. <a id="a145_905"></a>[[LU 87:7.9](/es/The_Urantia_Book/87#p7_9)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Shuttestock</em></figcaption>
 </figure>
 

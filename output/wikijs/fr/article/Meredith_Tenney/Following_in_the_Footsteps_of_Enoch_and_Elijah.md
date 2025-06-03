@@ -71,7 +71,7 @@ Les plus paresseux d'entre nous pourraient conclure qu'il ne sert à rien de tra
 _Le Livre d'Urantia_ offre une richesse d'informations sur les niveaux spirituels nécessaires qui doivent être atteints pour atteindre la fusion. Identifier où vous en êtes dans cette progression structurée peut vous inspirer et vous encourager à continuer à progresser. Comment pouvez-vous évaluer vos propres progrès vers la fusion ? On nous dit que la fusion se produit généralement sur le Monde des Maisons n°5 ou n°6, et on nous donne une description précise des niveaux spirituels et des réalisations requises pour maîtriser chacun des niveaux du Monde des Maisons avant cela. Le Monde de maison #1 est presque entièrement consacré au ministère des carences. Les survivants arrivant sur cette sphère présentent de nombreux défauts de caractère de créature et des déficiences d'expérience mortelle. Les déficiences biologiques sont corrigées sur le premier monde des maisons, et les défauts majeurs de l'expérience planétaire concernant la vie sexuelle, l'association familiale et la fonction parentale sont soit corrigés, soit projetés pour une rectification future parmi les familles des Fils Matériels sur Jérusem. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.png">
 <figcaption><em> Mon Ajusteur de Pensée.</em> © 2019 Patrick Yesh</figcaption>
 </figure>
 

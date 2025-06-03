@@ -49,7 +49,7 @@ Muchas religiones contienen conceptos de trinidad, y uno claro se ve en el crist
 Y así, no se requiere una teología astuta para sondear el misterio. El colgado ha sido, en términos más simples, una orientación cultural dominante lenta para honrar y reconocer a las mujeres en muchos niveles. Afortunadamente, tenemos su espíritu con nosotros y ejemplos maravillosos por todas partes, que nos aclaran el panorama.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004162.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004162.jpg">
 <figcaption><em>La Asunción de María por Tim Langenderfer.</em></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ En el catolicismo una doctrina fue codificada por el Papa Pío XII (Eugenio Pace
 Cabe señalar que el psicólogo Dr. Carl Jung (contemporáneo del Dr. William Sadler), a través de su arquetipo de La Gran Madre, vio este reconocimiento en 1950 como un desarrollo significativo, incluso monumental, en la psique humana que avanza hacia el reconocimiento del _divino femenino_ .
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004163.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004163.jpg">
 <figcaption><em> Krisna and Radha.</em></figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Cristo, nuestro Padre, que nos visitó como Jesús de Nazaret, y nuestra Madre d
 Escuchamos y hablamos sobre los términos: adoración, oración y meditación, y son partes intrínsecas de nuestras vidas. Es importante destacar que sabemos que en todos los universos se enseña que la adoración debe otorgarse solo a nuestro Padre Universal en el Paraíso. Pero, ¿qué pasa con nuestro afecto sincero por Miguel y Madre? _Adoración_ es la palabra. «Exaltar, honrar y apreciar» son otras palabras apropiadas. «Honra a tu padre y a tu madre.»
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004164.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004164.jpg">
 <figcaption><em> Coronación por Giotto di Bondone. </em></figcaption>
 </figure>
 

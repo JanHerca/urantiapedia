@@ -35,7 +35,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 
-![](/image/article/Framy_Mas/Framy_Mas.jpg)
+![](/image/article/Fellowship_Herald/Framy_Mas.jpg)
 
 Introduction : G, C, G, C,
 
@@ -113,7 +113,7 @@ Merci! Merci! Fondu en fondu...<br>
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Framy_Mas/001.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/001.jpg">
 <figcaption><em>Shutterstock 2871542</em></figcaption>
 </figure>
 

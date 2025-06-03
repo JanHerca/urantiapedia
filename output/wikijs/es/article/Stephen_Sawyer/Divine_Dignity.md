@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Stephen_Sawyer/14.jpg">
+<img src="/image/article/Fellowship_Herald/Stephen_Sawyer.jpg">
 </figure>
 
 _por Stephen Sawyer_
@@ -45,7 +45,7 @@ Cuando Jesús nos enseñó que éramos, por fe, hijos del Dios vivo, nos sacó d
 Dado este estatus de dignidad divina hace más de dos mil años, todavía hay innumerables hermanos y hermanas que se quedan atrás porque descartan o malinterpretan esta profunda y eterna verdad de que somos, de hecho, hijos e hijas de Dios.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Stephen_Sawyer/13.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/13.jpg">
 <figcaption>Dignidad Divina de Stephen Sawyer</figcaption>
 </figure>
 

@@ -149,7 +149,7 @@ Alrededor de 1990, con la publicación de las primeras fotografías del espacio 
 Dios mío, qué rápido cambian las estimaciones científicas sin apenas mirar atrás o admitir el error en el entusiasmo de los «nuevos resultados», que se afirman con el mismo orgullo y la misma certeza que las creencias anteriores. _El Libro de Urantia_ tiene que vivir con lo que dijo en 1955, ¡y venció a la ciencia galáctica de 1986!
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image01.png">
 <figcaption><em>Campo Profundo Hubble - Telescopio Espacial Hubble</em></figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ El Departamento de Física y Astronomía de la Universidad de Tennessee escribe 
 «Las estudios de corrimientos al rojo han revelado las estructuras más grandes observadas hasta ahora en el Universo. La importante concentración de galaxias que se extienden en diagonal a través de la parte norte (es decir, superior) de la imagen adyacente se ha denominado Gran Muralla.»
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image02.png">
 <figcaption><em>Centro del Anillo Galáctico</em></figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ a) __La mayor distorsión espectrográfica.__ _Pero la más importante de todas 
 Siendo matemático, decidí investigar esta posibilidad analíticamente. Pude probar un resultado interesante. Aparentemente, una situación como la que _El Libro de Urantia_ describe con galaxias que avanzan en forma ordenada en la primera zona del espacio exterior se suma a un cambio constante al rojo (o al azul) (dependiendo del ángulo de observación) para cualquier objeto cuya distancia desde el centro postulado de rotación es mayor que la distancia de la tierra a ese centro de rotación. (Esa constante resulta ser la distancia desde la Tierra hasta el centro de rotación multiplicada por la diferencia entre las velocidades angulares de la Tierra en comparación con el primer objeto del espacio exterior.[^21]
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image03.png">
 <figcaption><em>Anillo espacial giratorio</em></figcaption>
 </figure>
 
@@ -360,7 +360,7 @@ Sin embargo, «_Los ultimatones no están sometidos a la gravedad local, a la in
 > Los ultimatones no describen órbitas ni giran en circuitos dentro de los electrones, pero se separan o se agrupan de acuerdo con sus velocidades de rotación axiales, determinando así las dimensiones electrónicas diferenciales. Esta misma velocidad ultimatónica de rotación axial también determina las reacciones positivas o negativas de los diversos tipos de unidades electrónicas. Toda la separación y el agrupamiento de la materia electrónica, junto con la diferenciación eléctrica de los cuerpos negativos y positivos de la energía-materia, son provocados por estas diversas funciones de las interasociaciones ultimatónicas componentes. <a id="a359_642"></a>[[LU 42:6.6](/es/The_Urantia_Book/42#p6_6)]
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image04.png">
 <figcaption><em>100 Ultimatones = 1 electrón</em></figcaption>
 </figure>
 

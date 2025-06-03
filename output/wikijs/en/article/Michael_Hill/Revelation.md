@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Michael_Hill/07.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/07.jpg">
 </figure>
 
 _by Michael Hill_
@@ -55,7 +55,7 @@ So how to do that? The book very clearly identifies habits of living that foster
 By what measure do I assess the success of my efforts at living his will? We are taught that such spirit-led folks “...spontaneously show forth the fruits of the spirit in [their] daily lives; and the fruits of the spirit are the essence of the highest type of enjoyable and ennobling selfcontrol, even the heights of terrestrial mortal attainment-true self-mastery (<a id="a54_367"></a>[UB 143:2.8](/en/The_Urantia_Book/143#p2_8)).”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Michael_Hill/09.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/09.jpg">
 </figure>
 
 In addition to the Biblical fruits (love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance), _The Urantia Book_ states that Jesus adds: “loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace (<a id="a60_376"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)).”

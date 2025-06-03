@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Chuck_Thurston/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/27.jpg">
 </figure>
 
 _by Chuck Thurston_
@@ -84,7 +84,7 @@ Principles are a crucial factor in the achievement of spiritual unity, both for 
 While spiritual unity can be seen as a principle unto itself (according to the above definition), its achievement is accomplished through the implementation of many other unity principles. From a philosophical perspective, whenever we have a problem with disunity, it makes sense to look for remedies in the study and application of relevant unity principles and unity practices.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption><em>Golden Rule</em> by Norman Rockwell</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Our potential for spiritual unity comes from our individual relationships with G
 > The unity of religious experience among a social or racial group derives from the identical nature of the God fragment indwelling the individual. (<a id="a100_149"></a>[UB 103:1.1](/en/The_Urantia_Book/103#p1_1))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Chuck_Thurston/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/29.jpg">
 </figure>
 
 If we turn to other unity principles that support greater spiritual unity, near the top of the list would be the principle of individual responsibility for the good of the whole. Anything we can offer that is truly good for the whole will also bring benefit to ourselves and others, and when the individual truly benefits, the whole becomes stronger. Loyal commitment to our relationship with the whole is inherently and profoundly unifying in its implications.

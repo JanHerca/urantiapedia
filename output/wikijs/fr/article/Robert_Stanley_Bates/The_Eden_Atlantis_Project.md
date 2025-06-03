@@ -73,7 +73,7 @@ Selon Hall, cette zone a été étudiée à l'aide d'outils de bathymétrie, de 
 > L’histoire récente de la région semble également interpellante. De l'étude pionnière de notre collègue Ya'akov Petrovitch Malovitskiy[^3] (1978) qui proposait, sur la base d'investigations sismiques, que le bassin levantin était un continent englouti, nous avançons vers des extrapolations récentes (Sarmast, 2003) concernant la « découverte » ' de l'Atlantide à des profondeurs de 1 500 m entre la crête ouest de Tartous et la montée de Gelendzhik, sur la base d'une analyse informatique des sondages multifaisceaux du navire de recherche russe (R/V) Strakhov. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image01.png">
 <figcaption><b>Figure 2. </b><em> Carte des trois plaques auxquelles le Dr Hall fait référence : anatolienne, arabe et africaine. (Avec l'aimable autorisation du National Geographic Magazine, octobre 2002, p. 125) </em></figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ En 2003, Sarmast a publié Discovery of Atlantis[^4], qui démontre que le conti
 Pour soutenir sa thèse, Sarmast a monté une expédition exploratoire financée par des fonds privés en 2004, bénéficiant du soutien financier d'un grand nombre d'étudiants du Livre d'Urantia, dans le but de sonder la surface du contenu englouti en utilisant une technologie de recherche connue sous le nom de sonar à balayage latéral. La deuxième édition de son livre en 2006 incorporait les résultats de cette enquête, après quoi Sarmast a mené une expédition largement médiatisée en novembre 2006 qui a été financée, filmée et diffusée par The History Channel.  
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image02.png">
 <figcaption><b>Figure 3. </b><em> Bassin de la Méditerranée orientale avec le niveau de la mer abaissé numériquement d'un mile. (Avec l'aimable autorisation de Robert Sarmast, R/V Strakhov, NOAA, USGS et imagerie du Scotia Group) </em></figcaption>
 </figure>
 
@@ -101,14 +101,14 @@ Mais en 2003, le N/R Le Suroît de l'Institut Français de Recherche pour l'Expl
 Notamment, les crêtes bien définies apparues au centre (basées sur les données bathymétriques multifaisceaux de l’IFREMER) semblaient soutenir l’affirmation de Sarmast selon laquelle une sorte de structures mégalithiques existait à l’intérieur du carré noir de la figure[^4].   
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image03.png">
 <figcaption><b>Figure 4. </b><em> Partie centrale du continent englouti de Malovitskiy. (À partir des données scannées de l'IFREMER et des images du Groupe Scotia) </em></figcaption>
 </figure>
 
 Un affichage graphique agrandi de cette structure est fourni dans la figure 5, qui représente ce qui semble être une formation en Y étroite, régulière et linéaire de 3 700 mètres de long dans la partie nord de la zone. De plus, juste au sud se trouvait un monticule tabulaire bas et irrégulier de 2 800 mètres de long, d'environ 110 mètres de haut et variant entre 500 et 800 mètres de large. Des éléments en forme d'escarpement sont également visibles à mi-hauteur du monticule, menant aux côtés est et ouest. (Un escarpement est une berge ou une pente très raide.) Cette zone générale est devenue la cible principale des expéditions de 2004 et de 2006. Gardez toutefois à l’esprit que la hauteur de ces éléments est multipliée par dix afin de les mettre en valeur pour l’étude.  
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image04.png">
 <figcaption><b>Figure 5. </b><em> Image agrandie du Groupe Scotia, face au sud, montrant le monticule central et une formation en Y étroite, régulière et linéaire. Il convient de noter que cette représentation 3D exagère les hauteurs. d'un facteur dix pour le contraste, car c'est ainsi que les données IFREMER ont été reçues. (Avec l'aimable autorisation de Robert Sarmast avec les images du Groupe Scotia issues des scans IFREMER) </em></figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Les informations du sonar multifaisceau IFREMER ont fourni une excellente orient
 Le navire utilisé pour l'expédition de 2004 était le navire à moteur (M/V) Flying Enterprise. Le capitaine Duncan MacKenzie, un sud-africain costaud ayant des années de service en mer, était le capitaine du navire pour ce voyage. Compte tenu de mes décennies d’expérience dans les voyages de recherche et commerciaux de ce type, j’occupais le rôle de chef d’expédition. Le navire était parfaitement adapté à notre objectif ; en fait, il s'agit d'un navire de recherche de taille moyenne doté de treuils, de grues et d'un cadre en A pour le déploiement de notre sonde sous-marine fixée à un câble coaxial. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image05.png">
 <figcaption><b>Figure 6. </b><em> Le navire à moteur Flying Enterprise converti en navire de recherche. (Photo officielle d'EDT Towage and Salvage Co., Ltd Photo) </em></figcaption>
 </figure>
 
@@ -126,26 +126,26 @@ Les images acquises lors de l'expédition de 2004 à l'aide du sonar à balayage
 Les traces le long desquelles les traces du sonar à balayage latéral ont été enregistrées au-dessus des crêtes et du monticule central ont été documentées sur la figure 7 par Axel Schoeller, membre de l'équipe. Schoeller a d'abord posé des lignes de quadrillage le long d'un axe de nos parcours prévus sur le monticule central. La ligne de base des crêtes était étiquetée « Mur 1 » et une ligne de balayage parallèle au nord était étiquetée « 1-175 », indiquant qu'elle était à 175 mètres de la ligne « Mur 1 ». L'utilisation d'un signe moins dans la figure signifie « au nord du » mur 1, tandis que le signe plus pour les numérisations sur le support central indique « au sud » d'une marque de référence (non représentée sur la carte car elle se trouve à l'extrémité nord du mur 1). graphique) par le nombre de mètres à partir de ce point de référence indiqué par les chiffres suivant le « 3+ ».   
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image06.png">
 <figcaption><b>Figure 7. </b><em> Pistes le long desquelles les traces de balayage latéral ont été enregistrées lors de l'expédition de 2004. (Avec l'aimable autorisation d'Axel Schoeller tel qu'adapté par l'auteur) </em></figcaption>
 </figure>
 
 Les images produites par les lignes du sonar à balayage latéral de la figure 7 sont associées au même numéro de ligne à côté de ces images de la figure 8. Elles ont fourni le premier examen historique approfondi des crêtes et du sommet du monticule central. Les numéros de lignes et les images associées seront fréquemment mentionnés dans le texte qui suit.  
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image07.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image07.png">
 <figcaption><b>Figure 8. </b><em> Les traces de balayage latéral telles qu'elles sont apparues lors de leur enregistrement lors de l'expédition de 2004. (Avec l'aimable autorisation de Robert Sarmast et Phoenix International) </em></figcaption>
 </figure>
 
 La formation de crête de 3700 mètres de long a retenu l'attention de Lowry pour la première fois début septembre 2004 lorsque les données du N/R _Le Suroît_ ont été obtenues de l'IFREMER et lui ont été envoyées. À l’exception de Sarmast, personne avant cette époque n’a signalé une quelconque signification attachée à cette anomalie. Au début, Lowry était d'avis que l'affaissement sur la face du monticule associé et les crêtes transversales au pied du monticule correspondaient à la représentation classique d'un affaissement naturel, c'est-à-dire l'accumulation de matériaux provenant d'un glissement de terrain au large du front. côté du monticule comme le montre la figure 10. Plus tard, nous examinerons une interprétation très différente de ces caractéristiques qui résulte des données acquises lors de l'expédition de 2006. 
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image08.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image08.png">
 <figcaption><b>Figure 9. </b><em> Une projection orientée vers l'est (utilisant les données de balayage latéral 1-175) qui représente l'une des deux formations de crête étroites et régulières les plus proches du monticule central. Remarquez la rotation presque à angle droit de la crête et sa linéarité uniforme. (Avec l'aimable autorisation de Robert Sarmast avec les images du Groupe Scotia provenant des données d'analyse latérale de Phoenix International) </em></figcaption>
 </figure>
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image09.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image09.png">
 <figcaption><b>Figure 10. </b><em> Une version colorisée améliorée du monticule central et des crêtes. (Un produit de Vistapro à partir des images développées à partir des scans multifaisceaux IFREMER) </em></figcaption>
 </figure>
 
@@ -156,14 +156,14 @@ La première expédition de Robert Sarmast a attiré l’attention des médias d
 Le documentaire de History Channel sur la deuxième expédition de Sarmast s’intitule : Atlantis – New Revelations. Le personnel de History Channel a effectué des recherches exhaustives pour le documentaire de deux heures. Ils ont couvert toutes les dernières théories de l'Atlantide dans le programme et ont éliminé les théories alternatives qui n'avaient aucun mérite concernant l'emplacement de l'Atlantide. L'émission aux heures de grande écoute a été diffusée pour la première fois en janvier 2007 et a particulièrement mis en valeur le travail de Sarmast et de son équipe.   
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image10.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image10.png">
 <figcaption><b>Figure 11. </b><em> Le remorqueur à moteur EDT Argonaut converti en navire de recherche. (Photo de Robert Sarmast) </em></figcaption>
 </figure>
 
 Malgré son manque d'expérience, Sarmast a pris la décision exécutive de devenir chef de l'expédition en 2006. Le navire utilisé pour cette expédition était le M/T EDT Argonaut de 41 mètres de long (Figure 11) exploité par EDT Towage and Salvage Co., notre société. précédent fournisseur basé à Limassol, Chypre.[^6] Cette fois, un équipement plus avancé a été utilisé en plus du sonar à balayage latéral, notamment un profileur de sous-fond (SBP) - un instrument qui utilise l'écho, comme le sonar, pour cartographier les strates jusqu'à 30 mètres sous la surface du fond marin. Un autre instrument appelé sondeur, indispensable au guidage du poisson-remorque, se trouvait également à bord. Seules cinq pistes étaient prévues pour l'expédition de 2006, comme le montre la figure 12. Le plan était de sillonner autant de zone que possible avec à la fois le balayage latéral et le SBP pendant les 72 heures allouées au voyage. La première et la plus longue ligne a été conçue pour capturer la section transversale des deux branches des crêtes et du monticule central. 
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image11.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image11.png">
 <figcaption><b>Figure 12. </b><em> Les cinq pistes prévues pour l'expédition de 2006. La ligne la plus longue et la plus lourde (ligne 1) traversait les deux branches de la formation en Y étroite, régulière et linéaire ainsi que la colline. En raison de graves problèmes techniques survenus au cours de l'expédition, la ligne 1 a été la seule à être réellement étudiée. Remarquez le graphique inséré en haut à droite, sur lequel nous reviendrons plus tard. (Photo par Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ Naviguer avec un équipement clé inopérant est imputable à une installation d
 Avant l'expédition de 2006, la face du monticule avec ses escarpements principaux et mineurs évidents, ainsi que les crêtes transversales qui lui sont associées, donnaient l'apparence d'un affaissement naturel ou d'un glissement de terrain, comme nous l'avons noté sur la figure 10. Mais de manière significative, le Le principal résultat de l’expédition de 2006 dissipe cette idée – du moins d’après ma lecture des données résultant de la seule et unique ligne de données SBP que nous avions acquises le long de la ligne 1. L’image SBP de la figure 13 offre un excellent aperçu en coupe transversale. sur la crête la plus proche du monticule central. (Rappelez-vous que le SBP peut tracer des entités jusqu'à 30 mètres sous la surface.) 
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image12.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image12.png">
 <figcaption><b>Figure 13. </b><em> (ci-contre) La coupe transversale de la crête la plus proche du monticule central restituée en 2006 par les données SBP. Sont également représentées les lignes de strate continue de la formation de crête dessinées par le géologue marin Patrick Lowry. (Avec l'aimable autorisation de Patrick Lowry de Seatronics SBP scan) </em></figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Examinons maintenant l’illustration au bas de la figure 14. Notez que j’ai a
 Ces observations m'ont conduit à une nouvelle hypothèse sur la nature de l'obstacle et sur la manière dont elle peut être interprétée dans le contexte d'une discussion sur le but, la direction, la position, la longueur, la largeur et la hauteur des crêtes.   
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image13.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image13.png">
 <figcaption><b>Figure 14. </b><em> Strates déviées en raison d'un obstacle bien défini. (Avec l'aimable autorisation de Patrick Lowry de Seatronics SBP scan et auteur) </em></figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ L’argument en faveur du système de conduits souterrains pourrait à lui seul 
 Rappelons que Lowry avait émis l'opinion en 2004 que l'affaissement sur la face du monticule et les crêtes transversales au pied du monticule, pris ensemble, correspondaient à la représentation classique d'un effondrement naturel : un glissement de terrain. Il n'a donné aucune autre explication sur l'effondrement devant la caméra à la fin de l'expédition de 2006. Mais les preuves que je viens de proposer pourraient changer la donne. Ma description améliorée de la nature des poussées sismiques des crêtes, basée sur des preuves empiriques, nous permet de séparer logiquement les crêtes et l’affaissement en éléments distincts indépendants les uns des autres. Séparer ces deux éléments nous invite à chercher ailleurs une explication de la véritable nature du monticule. Un examen plus attentif de l'affaissement de la face du monticule, comme le montrent les figures 5 et 10, révèle qu'il ne présente pas les caractéristiques classiques d'un glissement de terrain, comme le montre la figure 15 ci-dessous (image du haut). Sur notre monticule (image du bas), nous n’observons aucun pied, aucune fissure et aucune surface perceptible de rupture ou de séparation. Les seules parties visibles de cet affaissement sont, à mon avis, la couronne, l'escarpement principal et les deux escarpements mineurs. De plus, les crêtes dans leur ensemble ne ressemblent pas aux crêtes transversales classiques d’un glissement de terrain typique. 
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image14.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image14.png">
 <figcaption><b>Figure 15. </b><em> Une comparaison des caractéristiques d'un glissement de terrain classique avec l'image agrandie du monticule. (L'image représentant les parties d'un glissement de terrain typique est fournie en ligne par l'US Geological Survey.) </em></figcaption>
 </figure>
 
@@ -256,12 +256,12 @@ De plus, d’autres curiosités peuvent être trouvées sur (ce que nous avons c
 Cette caractéristique, si elle est réellement présente, différencie nettement le monticule central des volcans de boue qui parsèment ce paysage. Les volcans de boue de la région ont une seule dépression au centre de leurs cônes. De plus, ils ne se regroupent pas en groupes pour former des monticules tabulaires uniformément continus, comme le montrent ici et la figure 4. 
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image16.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image16.png">
 <figcaption><b>Figure 17. </b><em> L'image multifaisceaux IFREMER du sommet du monticule (voir première figure ci-dessus), si elle est superposée à des images à balayage latéral du monticule, peut être combinée pour montrer de mystérieux phénomènes physiques. segments circulaires si les images à balayage latéral sont agrandies à l’échelle appropriée. (Avec l'aimable autorisation de Robert Sarmastand IFREMER. Composite de l'auteur) </em></figcaption>
 </figure>
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image17.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image17.png">
 <figcaption><b>Figure 18. </b><em> (ci-contre) arcs de cercle les plus à l'est (le plus à gauche) de la figure 17. (Composite de l'auteur à partir d'images à balayage latéral : 3+2975, 3+3150 et 3+3325) </em></figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ L'un des sous-produits de l'analyse SBP est un graphique compilé lors de l'exp�
 Une caractéristique majeure au pied du côté sud du monticule est une profonde dépression concave au-dessous du niveau -1 600 mètres sur la figure 20. En étudiant la figure 4, il y a une ligne évidente de ce qui semble être une berge de rivière sur le côté sud. du monticule qui s'étend de gauche à droite sur des milliers de mètres dans les deux sens. L’examen des scans bathymétriques IFREMER sur l’ensemble de la zone ne révèle aucune caractéristique similaire pouvant être interprétée comme une berge continue du fleuve. Et la littérature sur cette péninsule ne laisse aucun doute sur le fait qu'un fleuve important serpentait à travers les terres, comme je le raconte ci-dessous.  
 
 <figure id="Figure_19" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image19.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image19.png">
 <figcaption><b>Figure 19. </b><em> Un examen plus approfondi de l'insert de la figure 12. Le profil de chemin compilé lors du scan de la ligne 1 montre les caractéristiques de gauche à droite des deux crêtes, l'escarpement principal, le sommet de la colline et un léger escarpement à l'arrière de la colline (-1500 m) se terminant par le point le plus bas, probablement le fond d'un lit de rivière (en dessous de -1600 m). [Le sud est à droite.] (Photo par Axel Schoeller) </em></figcaption>
 </figure>
 
@@ -287,7 +287,7 @@ Ensuite, la Bible mentionne de manière bien visible une rivière associée au j
 > « L'homme m'a ramené à l'entrée du temple, et j'ai vu de l'eau sortir de dessous le seuil du temple vers l'est (car le temple était tourné vers l'est). L'eau descendait du côté sud du temple, au sud de l'autel. Il m'a ensuite fait sortir par la porte nord et m'a fait contourner par l'extérieur jusqu'à la porte extérieure qui fait face à l'est, et l'eau coulait du côté sud. ([Ézéchiel 47:1-2 NIV](/fr/Bible/Ezekiel/47#v1)) 
 
 <figure id="Figure_20" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figure 20. </b><em> (ci-contre) Le grand fleuve qui coulait « à l'est de l'Eden » à travers le « cou péninsulaire » jusqu'au continent et de là à travers les basses terres de la Mésopotamie jusqu'à la mer au-delà. (Décrit dans Ézéchiel 47 : 1-2 et _Le _Livre d'Urantia. De la collection de l'auteur) </em></figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Il est probable que les occupants du continent englouti de Malovitski étaient d
 Le nombre de briques nécessaires à ce compte atteint des chiffres astronomiques. On nous dit que les Édenites ont construit des maisons, des routes, des conduites d’égout et des temples en brique, et qu’ils ont même construit deux murs de briques de 44 km de long à l’entrée du Jardin (contenant les soi-disant douze portes d’Éden). D'autres utilisations des briques sont suggérées dans _Enki et l'Ordre Mondial_ pour la construction de voies navigables, de fossés d'irrigation et de digues de contrôle.
 
 <figure id="Figure_21" class="image urantiapedia">
-<img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
+<img src="/image/article/Fellowship_Herald/Volume_18_n_1/image20.png">
 <figcaption><b>Figure 21. </b><em> Un examen attentif d'un éventuel site de carrière au nord du monticule central. (À partir des données numérisées de l'IFREMER et des images du Groupe Scotia)</em></figcaption>
 </figure>
 

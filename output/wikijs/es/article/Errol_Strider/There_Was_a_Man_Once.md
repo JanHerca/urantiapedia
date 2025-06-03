@@ -120,7 +120,7 @@ Del eterno viaje del amor.
 
 ---
 
-![](/image/article/Errol_Strider/Errol_Strider.jpg)
+![](/image/article/Fellowship_Herald/Errol_Strider.jpg)
 
 > Errol encontró _El Libro de Urantia_ en 1969 y desde entonces se ha esforzado por traducir las enseñanzas en su vida y obra. Con experiencia como director teatral, dramaturgo, coreógrafo e intérprete, se sintió guiado por el Espíritu para usar sus talentos para comunicar perspectivas espirituales y curativas a través de las artes escénicas. Ha escrito y presentado producciones teatrales y seminarios para miles de personas durante los últimos 50 años.
 >

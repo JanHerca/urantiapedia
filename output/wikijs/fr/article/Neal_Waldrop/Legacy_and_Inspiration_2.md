@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Neal_Waldrop/18.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/18.jpg">
 </figure>
 
 _par Neal Waldrop_
@@ -75,7 +75,7 @@ Maintenant, Paulin, comme vous l'avez peut-être déjà imaginé, visite la Nort
 Cela semble être décisif en 627, et le christianisme devient alors la religion officielle du royaume de Northumbrie. Veuillez noter que la décision du roi Edwin était contraignante pour tous ses sujets, les privant ainsi de toute possibilité de s'opposer ou de contester son édit royal. Ainsi, l'histoire de Bède résume la réalité sous-jacente : au cours des siècles qui ont suivi l'effondrement de la moitié occidentale de l'Empire romain, la foi chrétienne a été imposée d'en haut par l'autorité des chefs, des roitelets et des rois, et non à la suite d'une quelconque décision. processus par lequel les individus étaient persuadés ou convertis dans un sens spirituel.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Stephen_Sawyer/19.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/19.jpg">
 <figcaption>Le baptême d'Edwin par Ford Madox Brown</figcaption>
 </figure>
 

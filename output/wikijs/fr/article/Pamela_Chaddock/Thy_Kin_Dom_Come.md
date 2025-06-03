@@ -32,7 +32,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Pamela_Chaddock/06.jpg">
+<img src="/image/article/Fellowship_Herald/Pamela_Chaddock.jpg">
 </figure>
 
 _par Pamela Chaddock_
@@ -52,7 +52,7 @@ Ce fut une journée de lutte au milieu de la pandémie lorsqu’elle cherchait u
 Dans son dernier livre, [Freeing Jesus](https://www.amazon.com/Freeing-Jesus-Rediscovering-Teacher-Presence/dp/0062659529), Diana partage sa révélation sur le plaidoyer de Jésus pour la libération. Cet historien américain du christianisme, défenseur du christianisme progressiste et conteur extraordinaire, est l'un des commentateurs américains les plus fiables sur la religion et la spiritualité contemporaine.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Pamela_Chaddock/5.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/5.jpg">
 <figcaption>La nature de la réalité par Flammarion</figcaption>
 </figure>
 

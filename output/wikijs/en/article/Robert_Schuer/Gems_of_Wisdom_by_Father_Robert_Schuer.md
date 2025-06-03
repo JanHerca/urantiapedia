@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 A Beloved _Urantia Book_ Scholar and an Ordained Priest for 60 Years 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004129.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004129.jpg">
 <figcaption><em> Father Robert Schuer.</em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ A Beloved _Urantia Book_ Scholar and an Ordained Priest for 60 Years
 - Right now you are showing men and angels how God would conduct himself if he were you in your position
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004130.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004130.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ A Beloved _Urantia Book_ Scholar and an Ordained Priest for 60 Years
 - _The Urantia Book_ has told me everything I want to know. 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004131.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004131.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure> 
 

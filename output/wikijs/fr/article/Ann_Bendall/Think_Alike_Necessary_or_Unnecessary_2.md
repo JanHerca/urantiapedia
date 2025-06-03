@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Ann_Bendall/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/30.jpg">
 </figure>
 
 _par Cecilia Bendall_
@@ -51,7 +51,7 @@ L’un des rares sujets qui, nous a-t-on dit, a amené Jésus à être ému dans
 > « Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui. » » (<a id="a50_475"></a>[LU 141:5.1-3](/fr/The_Urantia_Book/141#p5_1))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/32.jpg">
 <figcaption><em>Jésus enseignant au bord de la mer</em> par James Tissot</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Et pourtant, s’ils formulent une opinion sur n’importe quel sujet comme un �
 Un bel exemple de cette tendance humaine est fourni par Simon Zelotes lorsqu'il interagit pour la première fois avec Teherma (« le Persan ») que Simon considérait « comme un « adorateur du feu », bien que Téherma ait pris grand soin de lui expliquer que le feu n’était que le symbole visible de l’Être Pur et Saint. » (<a id="a81_319"></a>[LU 141:6.1](/fr/The_Urantia_Book/141#p6_1)) Dans mon interprétation actuelle du _Le Livre d'Urantia_, il semble que Simon n'était pas convaincu, ou que Teherma ne pensait pas qu'il l'était.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/32.jpg">
 <figcaption><em>Art persan</em></figcaption>
 </figure>
 

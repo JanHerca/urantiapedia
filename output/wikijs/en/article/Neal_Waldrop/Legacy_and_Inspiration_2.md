@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Neal_Waldrop/18.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/18.jpg">
 </figure>
 
 _by Neal Waldrop_
@@ -75,7 +75,7 @@ Now Paulinus, as you may already have imagined, is visiting Northumbria because 
 This apparently was decisive in the year 627, and Christianity then became the official religion of the Kingdom of Northumbria. Please note that King Edwin's decision was binding on all his subjects, thereby depriving them of any opportunity to dissent or take issue with his royal edict. Thus Bede's story serves to epitomize the underlying reality: During the centuries that followed the collapse of the western half of the Roman Empire, the Christian faith was imposed from above by the authority of chieftains, kinglets, and kings, not as a result of any process whereby individuals were persuaded or were converted in a spiritual sense.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Stephen_Sawyer/19.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/19.jpg">
 <figcaption>The Baptism of Edwin by Ford Madox Brown</figcaption>
 </figure>
 

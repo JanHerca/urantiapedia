@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/33.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/33.jpg">
 </figure>
 
 _par Aprilhelen Lovesyou_
@@ -51,7 +51,7 @@ Il y a quelques années à peine, en avril 2017, Angie et ses deux sœurs spirit
 Au cours de leurs réunions bimensuelles, Angie, Liz et Mae ont animé à tour de rôle une vidéoconférence de quatre-vingt-dix minutes. Ils ont passé leur temps à partager en communion, ce qui comprenait la pratique de prières à voix haute devant le groupe. Ils ont chacun pris connaissance de leur vie quotidienne, ont occupé un espace sacré pour faire face aux inévitables défis de la vie qui se présentaient et ont été les pom-pom girls spirituelles les unes des autres, partageant leurs victoires personnelles. Au cours des semaines entre les appels, ils se sont encouragés mutuellement à pratiquer la communion quotidienne avec Dieu, à tenir un journal et à atteindre les objectifs spirituels qu'ils se sont fixés chacun. Toutes ces activités se sont révélées progressives.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/34.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/34.jpg">
 <figcaption>Liz Craig, Mae Thompson, Angie Thurston</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ L'aventure continue ! Nous sommes ravis de partager le Progress Project avec le 
 Visitez http://theProgressProject.info pour plus d'informations, pour vous inscrire à l'orientation et pour vous inscrire sur une liste d'attente pour les futurs cours. Vous pouvez contacter les six membres originaux à tout moment via cet e-mail : hello@progressproject.info. Nous serions ravis d’être avec vous ensemble dans votre croissance spirituelle !
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/35.jpg">
 </figure>
 
 ## Références

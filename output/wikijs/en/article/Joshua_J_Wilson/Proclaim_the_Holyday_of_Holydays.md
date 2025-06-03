@@ -65,7 +65,7 @@ Since Mother is our universe source of mind, it is quite natural that we may fin
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004186.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004186.jpg">
 <figcaption><em>Baroncelli Polyptych: Coronation of the Virgin by Giotto Di Bondone </em></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ I hope to hear a word of good cheer from you! Glory to God in the highest! _Glor
 > The Son initiates the creation of certain of the universe children, while the Spirit is solely responsible for bringing into existence the numerous orders of spirit personalities who minister and serve under the direction and guidance of this selfsame Mother Spirit. In the creation of other types of universe personalities, both the Son and the Spirit function together, and in no creative act does the one do aught without the counsel and approval of the other. <a id="a101_466"></a>[[UB 33:3.8](/en/The_Urantia_Book/33#p3_8)] 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004187.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004187.jpg">
 <figcaption><em>The Ascension by Catherine Andrews </em></figcaption>
 </figure>
 

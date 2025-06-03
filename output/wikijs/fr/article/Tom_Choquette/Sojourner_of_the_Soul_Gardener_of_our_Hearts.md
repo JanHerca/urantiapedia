@@ -63,7 +63,7 @@ J’ai longtemps été un apologiste de Jésus. Pour moi, le christianisme avait
 Je ne peux pas citer un moment précis où j’ai pris conscience de ma folie spirituelle. J'avais supposé que je pouvais développer une relation avec Dieu sans confier ma vie à la direction de Son Fils - la parole de Dieu - sans me permettre d'être nourri et dirigé par l'Esprit de Vérité, une étape nécessaire pour me blottir contre moi. plus étroitement avec mon Bien-Aimé. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004220.png">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004220.png">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ On nous dit que Jésus, par l’Esprit de Vérité, revit dans l’expérience d
 L'Esprit de Vérité nous demande de révéler la vérité au monde qui nous entoure en permettant à l'amour du Divin de traverser notre expérience personnelle et dans la vie des autres. Nous devons nous transformer en fontaines de vérité vivante (né de nouveau) et partager cette vérité avec ceux qui ont faim. Nous, en partenariat avec l’Esprit intérieur, créons un chemin vivant par lequel ceux qui sont perdus peuvent retrouver le chemin du retour. C’est nous qui répandons les miettes qui tracent un chemin à travers le sol sombre de la forêt jusqu’à la vallée illuminée attendant d’embrasser tous ceux qui viennent – jusqu’à la source même de l’amour. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Tom_Choquette/004221.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004221.jpg">
 <figcaption>© Shutterstock</figcaption>
 </figure>
 

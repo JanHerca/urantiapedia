@@ -58,7 +58,7 @@ A mediados de la década de 1800, nuestra comprensión de los fenómenos del mag
 Es un hecho experimental que la sola distancia entre las posiciones geométricas en el espacio de dos cuerpos en movimiento determina el tiempo de viaje de la luz entre ellos. En otras palabras, el tiempo medido de viaje de la luz entre cualquier emisor y receptor en movimiento es un número que depende solo de sus posiciones, no de sus velocidades. La luz no lleva la velocidad del cuerpo emisor de luz.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image01.png">
 <figcaption><em>(Vagón de tren velocidad V, hombre en el tren caminando con velocidad W brillando con luz roja a velocidad de la luz c, hombre en el andén brillando con luz roja).</em></figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ Con el advenimiento de una mejor espectroscopia, se hizo posible medir el cambio
 La existencia de la «materia oscura» implícita que evita que las galaxias de estrellas luminosas que giran rápidamente se separen sugiere que hay una fuerza de coherencia muy poderosa en el trabajo en el universo, que mantiene unido el cosmos tanto microscópicamente como en su conjunto.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image02.png">
 </figure>
 
 Al postular un Centro del Universo, incluidos los cuerpos de gravedad oscuros cerca de ese Centro, es posible imaginar la materia unida por fuertes fuerzas nucleares atractivas equilibradas por una rotación y un giro rápidos. La materia oscura existiría en el centro como una fuerte fuerza de atracción central que equilibra el movimiento circular y da lugar a tremendas energías cinéticas angulares: energías nucleares.
@@ -183,7 +183,7 @@ Frente a tal desarrollo teórico reincidente, la descripción de _El Libro de Ur
 A diferencia de la serpenteante teoría BB, la «respiración espacial» periódica es completamente consistente con lo que se ha observado en las décadas posteriores a la publicación de _El Libro de Urantia_ en 1955, incluida incluso la _fase_ del ciclo de respiración, acercándose al punto medio de la fase de expansión, que es la fase de _aceleración_ de la expansión antes de que la expansión comience a ralentizarse (desacelerar).
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image03.png">
 <figcaption><em>Representación artística del Paraíso y los Depósitos del Espacio</em></figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ La órbita recientemente observada de enormes cúmulos de galaxias alrededor de 
 Einstein no podía comprender que la influencia de la energía se propagara a una velocidad superior a la de la luz, y se refirió a ella como «acción espeluznante a distancia». La exitosa teoría de la gravitación de Isaac Newton incluía la atracción instantánea de dos cuerpos con una fuerza inversamente proporcional al cuadrado de su distancia (y proporcional al producto de sus masas). En su teoría de la relatividad general, Einstein eliminó esa «acción a distancia» instantánea al suponer que los cuerpos masivos deforman el espacio, produciendo así un canal de energía alrededor del cuerpo. Para Einstein, las influencias no pueden propagarse a través del espacio más rápido que la velocidad de la luz.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image04.png">
 <figcaption><em>Experimentos de partículas divididas que demuestran una influencia más rápida que la luz </em></figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ Este es el origen trascendental de la rotación orbital inherente y el giro inhe
 **100 ultimatones concéntricos forman un electrón**
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image05.png">
 <figcaption><em>• 100 ultimatones (azul) generan 100 octavas de energía ondulatoria.
 • Cada diámetro azul es la mitad del siguiente diámetro mayor.
 • Existen 3 diámetros primarios y 7 intermedios mixtos dentro de cada
@@ -359,7 +359,7 @@ Eso es como tratar de imaginar la tierra, el sol y los planetas sin un cuerpo ce
 Como se prevé aquí, los movimientos elípticos de la materia (masa) son básicamente planos debido a su rápido giro interno y sus rápidas órbitas externas. Esto se observa en el sistema solar y en las miríadas de galaxias de estrellas giratorias planas. La vista del Universo Infinito desde dentro del espacio finito se puede visualizar como una elipse casi infinita que tiene un foco fijo, no espacial del INFINITO real ubicado en el macrocentro de toda la materia y un segundo foco absoluto en los alcances infinitos más allá del espacio exterior donde yace el INFINITO potencial, el Absoluto No Cualificado, enfocado en el Paraíso inferior.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image06.png">
 <figcaption><em>Direcciones y distancias absolutas con respecto a la ubicación fija, no espacial y focal del paraíso.</em></figcaption>
 </figure>
 

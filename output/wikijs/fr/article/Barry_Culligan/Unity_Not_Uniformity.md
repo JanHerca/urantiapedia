@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Barry_Culligan/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/25.jpg">
 </figure>
 
 _par Barry Culligan_
@@ -63,7 +63,7 @@ Malheureusement, l'_individu_ est souvent perçu comme une insulte vivante par l
 <br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Barry_Culligan/26.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/26.jpg">
 </figure>
 
 La façon dont le Livre d'Urantia parle de l'unité spirituelle suggère que les catholiques et les protestants ne sont pas tenus de se conformer les uns aux autres mais doivent vivre fidèlement du mieux qu'ils peuvent - humblement devant Dieu, respectueusement comme des frères qui comprennent que leurs différences ne sont pas hostiles mais complémentaires, unis dans un service aimant, portant les fruits de l’esprit, évitant la violence sous toutes ses formes et travaillant ensemble pour établir la droiture, la paix et la justice. Comme le monde a envie de voir ces frères unis ! En effet, il ne fait guère de doute que les élites toxiques de ce monde craignent plus que toute autre chose une chrétienté unifiée ; ils dépensent des fortunes pour nous maintenir à couteaux tirés. Quand allons-nous nous réveiller de cet effroyable cauchemar qui nous a été imposé et réaliser que notre ennemi n'est pas celui qui est d'une autre couleur, ou celui qui est né dans une autre tradition, mais ceux qui « disent ce qui est bien, mais ils ne le font pas. (<a id="a68_1051"></a>[LU 175:1.8](/fr/The_Urantia_Book/175#p1_8))

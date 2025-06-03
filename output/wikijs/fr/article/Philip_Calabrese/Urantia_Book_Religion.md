@@ -60,7 +60,7 @@ Les institutions religieuses des Grecs helléniques, tout comme des Romains :
 > Quand un membre d’un groupe religieux social s’est conformé aux exigences du groupe, il faudrait l’encourager à jouir de la liberté religieuse dans la pleine expression de son interprétation personnelle des vérités de la croyance religieuse et des faits de l’expérience religieuse. La sécurité d’un groupe religieux dépend de son unité spirituelle et non de son uniformité théologique. Les membres d’un groupe religieux devraient pouvoir jouir de la liberté de penser librement sans devenir forcément des « libres penseurs ». De grands espoirs sont permis pour toute Église qui adore le Dieu vivant, qui valide la fraternité des hommes et qui ose dégager ses membres de toute contrainte dogmatique. (<a id="a59_702"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image01.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Disons donc <a id="a88_12"></a>[[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7)] « 
 Dans ma propre paroisse locale de l'Église Unie du Christ (UCC), la séquence des événements du dimanche dernier est généralement la suivante : musique, annonces et bienvenue, prélude (musique – piano ou orgue), appel à l'adoration (récitation par One & All), groupe. Hymne, prière de confession et d'assurance de pardon, musique spéciale (choeur ou solo), conversation d'enfants (et classe d'école paroissiale), joies et inquiétudes (une chance pour toute personne présente de s'adresser brièvement à l'assemblée), prières pour notre famille d'église et le Prière du Notre Père, salutations d'amitié, hymne, Écriture, sermon, offrande (avec musique), réponse chorale, prière de dédicace, hymne de clôture, bénédiction, envoi et partage de la lumière (musique), postlude (musique lorsque les gens partent). Ensuite, il y avait du café, etc. avec contact social. Et ce n’était que le service dominical sans le « rituel mensuel du souvenir du pain et du jus de raisin ». Il existe de nombreux autres services sociaux offerts aux membres et à la communauté dans son ensemble. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Corbis</em></figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ As-tu eu tout ça ? La Religion Urantia élargie devrait :
 > Mais il est fort difficile de trouver un symbolisme nouveau et satisfaisant, parce que les hommes modernes, collectivement, adhèrent à l’attitude scientifique, écartent les superstitions et abhorrent l’ignorance, mais, individuellement, sont tous affamés de mystères et vénèrent l’inconnu. Aucun culte ne peut survivre à moins d’incorporer un mystère magistral et de masquer un but inaccessible digne d’être atteint. En outre, il ne suffit pas que le nouveau symbolisme soit significatif pour le groupe ; il doit aussi avoir un sens pour l’individu. Les formes de tout symbolisme utile doivent être celles que l’individu peut mettre en pratique de sa propre initiative et dont il peut aussi jouir avec ses semblables. Si seulement le nouveau culte pouvait être dynamique au lieu d’être statique, il ferait réellement un apport valable au progrès de l’humanité, à la fois temporellement et spirituellement. (<a id="a146_909"></a>[LU 87:7.9](/fr/The_Urantia_Book/87#p7_9))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Shuttestock</em></figcaption>
 </figure>
 

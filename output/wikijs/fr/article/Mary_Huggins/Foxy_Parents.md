@@ -33,7 +33,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Mary_Huggins/003.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/003.jpg">
 </figure>
 
 À maman et papa 

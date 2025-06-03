@@ -59,7 +59,7 @@ Au milieu des années 1800, notre compréhension des phénomènes du magnétisme
 C'est un fait expérimental que la seule distance entre les positions géométriques dans l'espace de deux corps en mouvement détermine le temps de trajet de la lumière entre eux. En d’autres termes, le temps mesuré de déplacement de la lumière entre des émetteurs et des récepteurs en mouvement est un nombre dépendant uniquement de leur position, et pas du tout de leur vitesse. La lumière ne transporte pas la vitesse du corps émetteur de lumière. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image01.png">
 <figcaption><em>(Vitesse du wagon V, homme dans le train marchant à la vitesse W allumant un feu rouge à la vitesse de la lumière c, homme sur la rive allumant un feu rouge.)</em></figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Les astronomes contemporains ne s'attendaient pas à ce que la vitesse de rotati
 L’existence de la « matière noire » implicite empêchant les galaxies d’étoiles lumineuses en rotation rapide de se séparer suggère qu’il existe une force de cohérence très puissante à l’œuvre dans l’univers, maintenant la cohésion du cosmos à la fois au niveau microscopique et dans son ensemble.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image02.png">
 </figure>
 
 En postulant un centre de l'univers, comprenant des corps de gravité sombres à proximité de ce centre, il est possible d'imaginer la matière maintenue ensemble par de fortes forces nucléaires attractives équilibrées par une rotation et un spin rapides. La matière noire existerait au centre sous la forme d’une puissante force d’attraction centrale équilibrant le mouvement circulaire et donnant naissance à d’énormes énergies cinétiques angulaires – les énergies nucléaires.
@@ -184,7 +184,7 @@ Face à un tel développement théorique récidiviste, la description du Livre d
 Contrairement à la théorie des méandres BB, la « respiration spatiale » périodique est tout à fait cohérente avec ce qui a été observé au cours des décennies depuis la publication du _Livre d'Urantia_ en 1955, y compris même la _phase_ du cycle respiratoire – approchant du point médian de la phase d'expansion, qui est la phase d'_accélération_ de l'expansion avant que l'expansion ne commence à ralentir (décélérer).
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image03.png">
 <figcaption><em>Artistic Rendition of Paradise and the Space Reservoirs</em></figcaption>
 </figure>
 
@@ -199,7 +199,7 @@ L’orbite récemment observée d’énormes amas de galaxies autour de quelque 
 Einstein ne pouvait pas comprendre que l’influence de l’énergie se propageait à une vitesse supérieure à celle de la lumière, la qualifiant d’« action effrayante à distance ». La théorie très réussie de la gravitation d’Isaac Newton incluait l’attraction _instantanée_ de deux corps avec une force inversement proportionnelle au carré de leur distance (et proportionnelle au produit de leurs masses). Dans sa théorie de la relativité générale, Einstein a supprimé cette « action à distance » instantanée en supposant que les corps massifs déforment l’espace, produisant ainsi un creux d’énergie autour du corps. Pour Einstein, les influences ne peuvent se propager dans l’espace à une vitesse inférieure à celle de la lumière.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image04.png">
 <figcaption><em>Split Particle Experiments Demonstrating Faster-than-light Influence </em></figcaption>
 </figure>
 
@@ -278,7 +278,7 @@ C’est l’origine transcendantale de la rotation orbitale inhérente et du spi
 **100 ultimatons concentriques forment un électron**
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image05.png">
 <figcaption><em>• 100 ultimatons (bleu) génèrent 100 octaves d'énergie ondulatoire.
 • Chaque diamètre bleu représente la moitié de celui du diamètre immédiatement supérieur.
 • 3 diamètres primaires et 7 diamètres intermédiaires mixtes existent dans chacun
@@ -360,7 +360,7 @@ C’est comme essayer d’imaginer la Terre, le Soleil et les planètes sans un 
 Tel qu’envisagé ici, les mouvements elliptiques de la matière (masse) sont fondamentalement plats en raison de leur rotation interne rapide et de leurs orbites externes rapides. Ceci est observé dans le système solaire et dans les myriades de galaxies d’étoiles plates en rotation. La vue de l'Univers Infini depuis l'espace fini peut être envisagée comme une ellipse presque infinie ayant un foyer fixe et non spatial de l'INFINI réel situé au macrocentre de toute matière et un deuxième foyer absolu dans les étendues infinies au-delà de l'espace extra-atmosphérique dans lequel se trouve l’INFINI potentiel, l’Absolu Non Qualifié, concentré dans le Paradis inférieur.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image06.png">
 <figcaption><em>Directions et distances absolues par rapport à l'emplacement fixe, non spatial et focal du paradis.</em></figcaption>
 </figure>
 

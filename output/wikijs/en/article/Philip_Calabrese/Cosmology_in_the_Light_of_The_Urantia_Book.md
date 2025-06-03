@@ -58,7 +58,7 @@ In the mid 1800s our understanding of the phenomena of magnetism, electricity, a
 It is an experimental fact that the distance alone between the geometric positions in space of two moving bodies determines the time of light travel between them. In other words, the measured time of light travel between any moving emitters and receivers is a number depending only on their positions, not at all on their velocities. Light doesn’t carry the velocity of the light emitting body. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image01.png">
 <figcaption><em>(Train car speed V, man on train walking with speed W shining red light at speed of light c, man on Bank shining red light.)</em></figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ It was quite unexpected by contemporary astronomers when the rotation speed was 
 The existence of the implied “dark matter” preventing the rapidly spinning galaxies of luminous stars from flying apart suggests that there is a very powerful force of coherence at work in the universe, holding together the cosmos both microscopically and as a whole. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image02.png">
 </figure>
 
 By postulating a Center of the Universe, including dark gravity bodies near that Center, it is possible to imagine matter held together by strong attractive nuclear forces balanced by rapid rotation and spin. Dark matter would exist at the center as a strong central attractive force balancing circular motion and giving rise to tremendous angular kinetic energies— nuclear energies. 
@@ -183,7 +183,7 @@ In the face of such recidivist theoretic development, _The Urantia Book_’s 195
 Unlike the meandering BB theory, periodic “space respiration” is completely consistent with what has been observed in the decades since _The Urantia Book_ was published in 1955, including even the _phase_ of the respiration cycle— approaching the midpoint of the expansion phase, which is the phase of _accelerating_ expansion before expansion begins to slow down (decelerate). 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image03.png">
 <figcaption><em>Artistic Rendition of Paradise and the Space Reservoirs</em></figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ The recently observed orbiting of huge clusters of galaxies around something[^9]
 Einstein could not fathom energy influence propagated at faster than light speed, referring to it as “spooky action at a distance.” Isaac Newton’s very successful theory of gravitation included the _instantaneous_ attraction of two bodies with a force inversely proportional to the square of their distance (and proportional to the product of their masses). In his theory of general relativity Einstein did away with such instantaneous ‘action at a distance’ by assuming that massive bodies warp space, thereby producing an energy trough around the body. For Einstein, influences can be propagated through space no faster than the speed of light. 
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image04.png">
 <figcaption><em>Split Particle Experiments Demonstrating Faster-than-light Influence </em></figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ This is the transcendental origin of inherent orbital rotation and inherent spin
 **100 Concentric Ultimatons Form an Electron**
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image05.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image05.png">
 <figcaption><em>• 100 ultimatons (blue) generate 100 octaves of wavelike energy.
 • Each blue diameter is 1/2 that of the next larger diameter.
 • 3 primary and 7 mixed intermediate diameters exist within each
@@ -359,7 +359,7 @@ That is like trying to imagine the earth, sun, and planets without a central bod
 As envisioned here the elliptical motions of matter (mass) are basically flat due to their rapid internal spinning and rapid external orbits. This is observed in the solar system and the myriads of flat spinning galaxies of stars. The view of the Infinite Universe from within finite space can be envisioned as an almost infinite ellipse having one fixed, non-spatial focus of actual INFINITY located at the macro center of all matter and a second absolute focus in the infinite reaches beyond outer space wherein lies potential INFINITY, the Unqualified Absolute, focused in nether Paradise. 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image06.png">
+<img src="/image/article/Fellowship_Herald/Volume_12_n_1/image06.png">
 <figcaption><em>Absolute Directions and Distances with respect to the Fixed, Non-Spatial, Focal Paradise Location.</em></figcaption>
 </figure>
 

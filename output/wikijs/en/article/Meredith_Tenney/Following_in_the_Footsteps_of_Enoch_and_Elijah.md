@@ -70,7 +70,7 @@ The more sluggard among us may conclude there is little point in working for som
 _The Urantia Book_ offers a wealth of information about the necessary spiritual levels that must be achieved to reach fusion. Identifying where you are in that structured progression may help inspire and encourage you to continue to make progress. How can you ascertain your own progress towards fusion? We are told that fusion generally occurs on Mansion World #5 or #6, and are given an accurate description of the spiritual levels and accomplishments required to master each of the Mansion World levels prior to that. Mansion World #1 is almost entirely devoted to deficiency ministry. Survivors arriving on this sphere present with manifold defects of creature character and deficiencies of mortal experience. Biologic deficiencies are addressed on the first mansion world, and major defects in planetary experience pertaining to sex life, family association, and parental function, are either corrected or projected for future rectification among the Material Son families on Jerusem. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.png">
 <figcaption><em> My Thought Adjuster.</em> © 2019 Patrick Yesh</figcaption>
 </figure>
 

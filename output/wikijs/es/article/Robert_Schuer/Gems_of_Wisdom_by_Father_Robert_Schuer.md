@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 Un amado erudito del _Libro de Urantia_ y sacerdote ordenado durante 60 años
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004129.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004129.jpg">
 <figcaption><em> El padre Robert Schuer.</em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Un amado erudito del _Libro de Urantia_ y sacerdote ordenado durante 60 años
 - En este momento estás mostrando a hombres y ángeles cómo se comportaría Dios si estuviera en tu posición
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004130.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004130.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Un amado erudito del _Libro de Urantia_ y sacerdote ordenado durante 60 años
 - _El Libro de Urantia_ me ha dicho todo lo que quiero saber.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004131.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004131.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure> 
 

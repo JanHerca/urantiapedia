@@ -64,7 +64,7 @@ Hace más de 200 mil millones de años nuestra Madre comenzó a dar vida y alime
 Dado que la Madre es nuestra fuente universal de mente, es bastante natural que nos resulte más fácil formarnos conceptos de ella que del Hijo Miguel o del Padre residente (comparar <a id="a63_182"></a>[[LU 9:5.4](/es/The_Urantia_Book/9#p5_4)]). Ella atrae a todas las mentes de nuestro universo hacia sí misma. Ella es el actor flexible que focaliza todas las influencias espirituales; iniciando y sustentando toda vida; coordinando toda la energía, el material y las mentes; y penetrando todo el espacio del universo local. La Madre ministra el amor combinado del Padre y la misericordia de Miguel, y por lo tanto también es conocida por nosotros como nuestro Ministro Divino.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004186.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004186.jpg">
 <figcaption><em>Políptico Baroncelli: Coronación de la Virgen de Giotto Di Bondone </em></figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Por el amor de Dios, haz algo para celebrar esta gran ocasión. El resto del uni
 > El Hijo inicia la creación de ciertos hijos del universo, mientras que el Espíritu tiene la única responsabilidad de traer a la existencia a las numerosas órdenes de personalidades espirituales que ayudan y sirven bajo la dirección y la guía de este mismo Espíritu Madre. En la creación de otros tipos de personalidades universales, tanto el Hijo como el Espíritu actúan juntos, y en ningún acto creativo ninguno de ellos hace nada sin el consejo y la aprobación del otro. <a id="a100_475"></a>[[LU 33:3.8](/es/The_Urantia_Book/33#p3_8)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004187.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004187.jpg">
 <figcaption><em>La Ascensión de Catherine Andrews </em></figcaption>
 </figure>
 

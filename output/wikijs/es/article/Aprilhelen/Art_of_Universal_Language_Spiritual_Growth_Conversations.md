@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/24.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/24.jpg">
 </figure>
 
 _por Aprilhelen Lovesyou_
@@ -67,7 +67,7 @@ Una de esas reformulaciones de las enseñanzas son los _Buscadores de la Verdad_
 Los _Buscadores de la Verdad_ trabajaron junto con el Comité de Jóvenes y Adultos Jóvenes de la Comunidad (los YaYA), y varios de sus miembros sirvieron en ambos grupos al mismo tiempo.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/25.jpg">
 <figcaption>Ángel de la guarda de Jim Mayne Freeheart</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Los celestiales nos han dado la base de una comunicación eficaz y eficiente par
 Mi interpretación proviene de nuestro hermano Marvin Gawryn, como lo parafraseo aquí: _viveza_ para captar la atención, universalidad de comprensión, disposición para la integración y simplicidad de aplicación. El último, nuestro otro hermano Albert Einstein, dice simplemente: «Si no puedes explicárselo a un niño de seis años, no lo entenderás tú mismo».
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/26.jpg">
 <figcaption>El sermón de Cafarnaúm de Vasily Alexandrovich Kotarbiński</figcaption>
 </figure>
 

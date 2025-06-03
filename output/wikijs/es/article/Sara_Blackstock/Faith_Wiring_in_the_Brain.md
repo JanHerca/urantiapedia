@@ -123,7 +123,7 @@ Hay muchos caminos que este artículo podría seguir para explorar más a fondo 
 Podemos preguntar cómo y dónde se conecta el circuito del Espíritu Santo con nuestras mentes, y qué podemos proporcionar en el entorno para proporcionar el terreno más fértil para la recepción del Ajustador del Pensamiento. ¿El Espíritu de la Verdad «ilumina nuestros lóbulos temporales», pero quizás en un nivel muy sutil? ¿Qué papel juegan las decisiones para ayudar a desarrollar la SQ—inteligencia espiritual del niño? Todos estos circuitos comienzan a operar cuando un niño toma su primera decisión moral, y el Ajustador del Pensamiento es enviado desde el Padre del Paraíso para morar en el niño. A medida que el niño toma decisiones intelectuales, opciones morales y se desarrolla espiritualmente, el Ajustador «..._está cada vez más capacitado para registrar sus representaciones del destino con creciente viveza y convicción en la conciencia en evolución._...» <a id="a122_870"></a>[[110:6.5 ](/es/The_Urantia_Book/110#p6_5)]
 
 <figure id="Figure_de_fe_1" class="image urantiapedia">
-<img src="/image/article/Sara_Blackstock/Faith_Wiring_in_the_Brain/brain.png">
+<img src="/image/article/Fellowship_Herald/Volume_4_n_1/brain.png">
 <figcaption><em><b>Figura 1.</b> Ilustración de C. Montgomery basada en Newsweek, 7 de mayo de 2001.</em></figcaption>
 </figure>
 

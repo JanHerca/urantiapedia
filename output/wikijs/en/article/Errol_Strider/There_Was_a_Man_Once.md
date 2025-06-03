@@ -120,7 +120,7 @@ Of the timeless journey of love.
 
 ---
 
-![](/image/article/Errol_Strider/Errol_Strider.jpg)
+![](/image/article/Fellowship_Herald/Errol_Strider.jpg)
 
 > Errol found _The Urantia Book_ in 1969 and since then has endeavored to translate the teachings into his life and work. With a background as a theatrical director, playwright, choreographer and performer, he felt guided by Spirit to use his talents to communicate spiritual and healing perspectives through the performing arts. He has written and presented theatrical productions and seminars for thousands of people over the past 50 years. 
 > 

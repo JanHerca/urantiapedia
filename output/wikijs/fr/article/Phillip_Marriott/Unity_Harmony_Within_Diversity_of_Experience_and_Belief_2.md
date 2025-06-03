@@ -35,7 +35,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Phillip_Marriott/46.jpg">
+<img src="/image/article/Fellowship_Herald/Phillip_Marriott.jpg">
 </figure>
 
 _Par Phillip Marriott_
@@ -67,7 +67,7 @@ Alors, en rentrant chez moi après la foire, cela m'a fait réfléchir : comment
 > Il choisit cinq dirigeants parmi les stoïciens, onze parmi les cyniques et seize parmi les maitres du culte des mystères. Durant six mois, il passa une grande partie de ses loisirs en association étroite avec ces chefs religieux, et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. (<a id="a66_647"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Phillip_Marriott/47.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/47.jpg">
 </figure>
 
 Mais bien sûr, je ne pourrai jamais espérer être aussi intelligent ou sagace que Jésus, et s’il n’y a pas de désir d’unité, alors ce sera toujours une affaire à sens unique. C'était donc mon point de vue, si nous avions pu tous les deux convenir d'avoir une camaraderie – d'entretenir des relations amicales et que toute opinion ou pensée divergente soit mise de côté et permettre à l'idée commune de passer au premier plan – cela pourrait être une base pour ensuite bâtir sur. Mais cela ne fonctionnera que dans un environnement de coopération et avec une volonté de paix et d’harmonie.
@@ -106,6 +106,10 @@ Le livre le résume le mieux avec ces articles finaux :
 > La Pentecôte fut l’appel à l’unité spirituelle parmi les croyants à l’évangile. Quand l’esprit descendit sur les disciples à Jérusalem, la même chose se produisit à Philadelphie, à Alexandrie et en tous les autres lieux où demeuraient des croyants sincères. Il fut littéralement vrai « qu’il n’y avait qu’un seul cœur et une seule âme parmi la multitude des croyants ». La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue. (<a id="a105_471"></a>[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17))
 
 > Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans : « Une maison divisée contre elle-même ne peut subsister. » Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. Jésus vivant représente le seul espoir possible d’unifier le christianisme. (<a id="a107_336"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+
+<figure id="Figure_3" class="image urantiapedia">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/48.jpg">
+</figure>
 
 ## Références
 

@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/David_Schlundt/28.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/28.jpg">
 </figure>
 
 _By David G. Schlundt_
@@ -50,7 +50,7 @@ This gospel of the kingdom is a living truth. I have told you it is like the lea
 The Urantia Book Fellowship (the Fellowship) is currently working to find new ways to disseminate _The Urantia Book_ and its teachings. As we have studied the challenge, one of our first steps was to think about who our audience is. While you might think the answer should be that every person in the world deserves to know about _The Urantia Book_ and its life-altering teachings, this is not a practical approach. Based on the findings of a survey of Fellowship members, the Organizational Guidance Committee developed a way of segmenting our audience. The following figure is helpful in visualizing the segments.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/27.jpg">
 </figure>
 
 There are three large blocks of people that the Fellowship plans to communicate with: 1) people engaged with the Urantia Book Community, 2) people engaged with _The Urantia Book_, and 3) people not aware of The Urantia Book. It is this third very large group that I am writing about here. We can think of those unaware of the book using a readiness continuum. The continuum goes from not ready for _The Urantia Book_, to those who might be receptive to some of the teachings, to active truth seekers who are ready to learn about the book. In using a readiness continuum, the goal is to help people move closer to being ready to study _The Urantia Book_. It is neither necessary nor desirable for the goal to be to start by sharing the book with everyone.
@@ -62,7 +62,7 @@ The billions of people who are unaware of _The Urantia Book_ are obviously very 
 The following diagram will help us think about finding effective ways to share the truths contained in _The Urantia Book_.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/29.jpg">
 </figure>
 
 The top of the figure is a house which represents the individual person. This house has an interior on the left and an exterior on the right. According to modern cognitive psychology, our understanding and perceptions of ourselves and the world are organized into cognitive schemas. Schemas are bundles of information about ideas, emotions, values, goals, consequences, and actions that are associated with our understanding of ourselves and our world. For example, a baseball schema contains knowledge that the shortstop is between second and third base, that a double play is the right action when there in an infield ground ball with a player on first, that getting hit by a pitched ball would hurt, and that striking out with two outs in the bottom of the ninth with the winning run on base would feel disappointing.
@@ -132,7 +132,7 @@ To reach out to secular humanists, the table identifies potential walls, windows
 ## Summary
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/David_Schlundt/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/30.jpg">
 </figure>
 
 Each person has a complicated set of ideas about the self, the world, society, God, and religion. To maintain a consistent sense of self, these internal cognitive schemas are resistant to change and are defended by selective attention, motivated interpretation, and discounting or denial. Part of the mission of _The Urantia Book_ Fellowship is to reach out to the billions of people who are not aware of _The Urantia Book_ and its teachings. I have argued that the goal of sharing the teachings of _The Urantia Book_ is to stimulate people to consider incorporating new information or perspectives into their understandings of themselves, God, the universe, religion, and spiritual practices. Small changes may eventually lead a person to be ready to discover _The Urantia Book_ and pursue studying it on their own or as part of a study group. The art of outreach involves segmenting the target audience, listening to their real needs and desires, then creating messages that align enough with existing beliefs to allow new information to be considered. Using the analogy of the house, the goal is to shine the light of truth through the windows until someone becomes willing to open the door. There is much work to be done.

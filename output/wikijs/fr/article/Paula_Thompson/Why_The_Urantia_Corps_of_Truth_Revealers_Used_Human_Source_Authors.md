@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Paula_Thompson/31.jpg">
+<img src="/image/article/Fellowship_Herald/Paula_Thompson.jpg">
 </figure>
 
 _par Paula Thompson_

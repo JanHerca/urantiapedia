@@ -121,7 +121,7 @@ Du voyage intemporel de l’amour.
 
 ---
 
-![](/image/article/Errol_Strider/Errol_Strider.jpg)
+![](/image/article/Fellowship_Herald/Errol_Strider.jpg)
 
 > Errol a fondé _Le Livre d'Urantia_ en 1969 et depuis lors, il s'est efforcé de traduire les enseignements dans sa vie et son œuvre. Avec une formation de metteur en scène de théâtre, dramaturge, chorégraphe et interprète, il s'est senti guidé par Spirit pour utiliser ses talents pour communiquer des perspectives spirituelles et curatives à travers les arts du spectacle. Il a écrit et présenté des productions théâtrales et des séminaires pour des milliers de personnes au cours des 50 dernières années. 
 > 

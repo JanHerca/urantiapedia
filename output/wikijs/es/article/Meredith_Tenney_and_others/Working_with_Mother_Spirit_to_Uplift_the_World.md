@@ -36,7 +36,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004147.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004147.jpg">
 </figure>
 
 Nuestro Espíritu Materno del Universo está reuniendo a las mujeres. Las está reuniendo en el Parlamento de Religiones Mundiales, donde reunió a miles de personas de todas las tradiciones religiosas en la primera Asamblea de Mujeres en el Parlamento en Salt Lake City en 2016. Las está reuniendo en las Naciones Unidas, donde cientos de mujeres de todo el mundo se reúnen cada primavera en la ciudad de Nueva York en la Comisión de la Condición Jurídica y Social de la Mujer de la ONU para abogar por una 5ª Conferencia Mundial de la Mujer de la ONU. La madre incluso está llamando a las mujeres a salir a la calle. El 21 de enero de 2017, aproximadamente 2,6 millones de mujeres participaron en 673 marchas en todo el mundo, la más grande en Washington. Las multitudes de mujeres que marchaban eran tan grandes en algunas ciudades que marchar era casi imposible. En Chicago, los organizadores detuvieron la marcha y se concentraron en Grant Park cuando la multitud aumentó a 150,000. En la ciudad de Nueva York, el número fue de 400.000; en Boston, los medios informaron que más de 100.000 personas marcharon en Boston Common. Había 60.000 en Oakland, California, 750.000 en Los Ángeles y otros 100.000 en San Francisco. Las mujeres respondieron de todo el mundo con 10.000 marchando en Australia, más de 100.000 en Londres, 7.000 en París y más en Roma. Desde Ghana hasta Grecia, desde Reykjavik hasta Costa Rica, desde Tanzania hasta Tailandia, las mujeres respondieron al llamado de la Madre.
@@ -106,7 +106,7 @@ Planeamos distribuir el documento ampliamente tanto dentro del movimiento Uranti
 Desde el comienzo del milenio actual, un colectivo creciente de mujeres en el movimiento Urantia comenzó a dialogar en reuniones regionales sobre las cualidades de la Divinidad Femenina y la toma de conciencia de la realidad y la presencia de Nuestro Universo Madre Espíritu. Estaban respondiendo al mismo llamado del Espíritu que cientos de otros grupos de mujeres en todas las naciones del mundo para trabajar por la igualdad de género y la dignidad de las mujeres y todos los miembros de la familia humana. Varios grupos de Cuerpos de Mujeres surgieron en todo el país hace una década o más, pero la nueva energía del movimiento actual comenzó en IC '14 en Amherst cuando un grupo de mujeres surgió espontáneamente para servir a la Madre. En el retiro «Sisters in Spirit» realizado en octubre de 2017 en California, muchas mujeres de Urantia acordaron trabajar juntas durante varios meses para intentar articular las metas de nuestro Espíritu Materno. Esa reunión fue el impulso para este artículo colaborativo de las hermanas espirituales y autoras Meredith Tenney, Sharon Porter, Mary Huggins y Elisabeth Callahan.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004148.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004148.jpg">
 <figcaption><em>© John Fielder</em></figcaption>
 </figure>
 

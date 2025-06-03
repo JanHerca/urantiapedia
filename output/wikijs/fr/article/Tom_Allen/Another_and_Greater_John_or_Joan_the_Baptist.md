@@ -39,7 +39,7 @@ _par Tom Allen_
 > Tôt ou tard, un Jean le Baptiste nouveau et plus grand se dressera en proclamant que « le royaume de Dieu est à portée de la main » — signifiant un retour au concept supérieur de Jésus qui proclamait que le royaume est la volonté de son Père céleste, dominante et transcendante, dans le cœur des croyants. Et il accomplira tout cela sans faire la moindre allusion à l’Église terrestre visible, ni à la seconde venue anticipée du Christ. Il faut qu’il se produise une renaissance des enseignements de Jésus *tels qu’il les a donnés,* que sa doctrine soit réexposée de manière à rectifier l’œuvre des disciples initiaux qui entreprirent de créer un système sociophilosophique de croyances concernant le *fait* du séjour de Micaël sur terre. En très peu de temps, l’enseignement de cette histoire *à propos* de Jésus supplanta presque entièrement l’enseignement de l’évangile de Jésus sur le royaume. De cette manière, une religion historique se substitua à l’enseignement dans lequel Jésus avait mêlé les idées morales et les idéaux spirituels les plus élevés des hommes avec leurs plus sublimes espérances pour l’avenir — la vie éternelle. Or, c’était là l’évangile du royaume. (<a id="a38_1180"></a>[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Tom_Allen/08.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/08.jpg">
 </figure>
 
 Même s’il existait aujourd’hui une telle personne capable de diriger un énorme changement dans l’économie spirituelle de la planète, je crois que les temps ne sont peut-être pas mûrs pour cela. Laïcité, menaces du changement climatique, dépendance aux combustibles fossiles, guerres et rumeurs de guerre, démocraties en ruine, leadership insuffisant, montée de l'autocratie, inégalités raciales, répartition inégale des richesses, égalité des sexes déficiente, bouleversements économiques, horribles catastrophes naturelles, déclin du christianisme, folie du divertissement. , le déclin familial, la famine massive, la cyber-guerre, les contre-courants sociologiques, le manque d'éducation de l'opinion publique, l'analphabétisme généralisé, les fléaux pandémiques mondiaux, le nationalisme, le patriotisme et la solidarité culturelle en retard, et l'athéisme tendance se combinent tous pour créer un monde très instable et semi-barbare. monde. L’ensemble de ces conditions dangereuses pourrait conduire notre planète à des crises comme nous n’en avons pas vu depuis la Seconde Guerre mondiale.
@@ -59,7 +59,7 @@ Je n'aime pas ressembler à [Jeremiah](https://en.wikipedia.org/wiki/Jeremiah) o
 > Nulle civilisation nationale ne dure longtemps à moins que ses méthodes éducatives et ses idéaux religieux n’inspirent un patriotisme intelligent et un dévouement national de type élevé. Sans cette espèce de patriotisme intelligent et de solidarité culturelle, toutes les nations tendent à se désagréger par suite des jalousies régionales et des égoïsmes locaux. (<a id="a58_366"></a>[LU 81:6.35](/fr/The_Urantia_Book/81#p6_35))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/10.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/10.jpg">
 <figcaption>Destruction par Thomas Cole (The Course of Empire)</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Tous les futuristes ont tort, et moi aussi, mais en regardant les cent prochaine
 > Un Très Haut observateur jouit du pouvoir discrétionnaire de prendre en mains le gouvernement de la planète en temps de crise planétaire grave, et les annales rapportent que ce fut trente-trois fois le cas dans l’histoire d’Urantia. (<a id="a67_236"></a>[LU 114:4.4](/fr/The_Urantia_Book/114#p4_4))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption>La règle d'or de Norman Rockwell</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Les troubles sur Urantia n'ont pas encore éclaté en vue d'un éventuel glissem
 Cette citation « frémissant au bord du gouffre » est écrite par des médians secondaires qui ont vécu plus de trente-six mille ans et considèrent peut-être mille ans comme le frémissement au sujet duquel ils ont prophétisé. Pour eux, mille ans, ce n’est pas une longue période. Les Médians étaient-ils naïfs de penser que les années 1960 marqueraient l'éclosion d'une nouvelle époque ? Cela aurait peut-être pu. John ou Joan ne se sont pas présentés. Avec le recul, ils ne le pouvaient pas non plus. Trop de choses ont mal tourné sur Urantia, et nous n’avons pas atteint les niveaux de spiritualité qui auraient inspiré un leadership spirituel étonnant et créé un équilibre entre le matériel et le spirituel. Nous devons attendre un autre jour pour dépasser le seuil de l’époque. Le gouffre, c'est comme se tenir au seuil du tout début d'une nouvelle période dans l'époque du Fils-Homme post-effusion sur Urantia. Cette période peut s'étendre sur au moins un millier d'années, et peut-être plusieurs milliers d'autres avant que nous soyons prêts pour une autre révélation d'époque d'urgence ou l'inauguration de l'époque du Fils-Homme Post-Magistral. En attendant, nous sommes livrés à nous-mêmes dans un monde sombre, confronté à la double catastrophe de la rébellion et du défaut de paiement.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/12.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/12.jpg">
 <figcaption>Rêve d'Arcadia de Thomas Cole (The Course of Empire)</figcaption>
 </figure>
 

@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/36.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/36.jpg">
 </figure>
 
 _par Aprilhelen_
@@ -69,7 +69,7 @@ _par Aprilhelen_
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/37.jpg">
 </figure>
 
 ## Références

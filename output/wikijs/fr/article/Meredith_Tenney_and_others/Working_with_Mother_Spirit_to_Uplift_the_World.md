@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004147.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004147.jpg">
 </figure>
 
 Notre Esprit Mère de l’Univers rassemble les femmes. Elle les rassemble au Parlement des religions du monde, où elle a réuni des milliers de personnes de toutes les traditions religieuses lors de la première Assemblée des femmes au Parlement de Salt Lake City en 2016. Elle les rassemble aux Nations Unies, où des centaines de femmes du monde entier se réunissent chaque printemps à New York à la Commission de la condition de la femme des Nations Unies pour plaider en faveur d'une 5e Conférence mondiale des femmes d'ONU Femmes. Mère appelle même les femmes à descendre dans la rue. Le 21 janvier 2017, environ 2,6 millions de femmes ont participé à 673 marches à travers le monde, la plus importante ayant eu lieu à Washington. Les foules de femmes en marche étaient si nombreuses dans certaines villes que marcher était presque impossible. À Chicago, les organisateurs ont interrompu la marche et se sont rassemblés à Grant Park alors que la foule atteignait 150 000 personnes. À New York, ce nombre était de 400 000 ; à Boston, les médias ont rapporté que plus de 100 000 personnes avaient défilé sur Boston Common. Il y en avait 60 000 à Oakland, en Californie, 750 000 à Los Angeles et 100 000 autres à San Francisco. Les femmes ont répondu du monde entier avec 10 000 marches en Australie, plus de 100 000 à Londres, 7 000 à Paris et plus à Rome. Du Ghana à la Grèce, de Reykjavik au Costa Rica, de la Tanzanie à la Thaïlande, les femmes ont répondu à l’appel de leur mère. 
@@ -107,7 +107,7 @@ Nous prévoyons de diffuser largement le document au sein du mouvement Urantia e
 Depuis le début du millénaire actuel, un collectif croissant de femmes du mouvement Urantia a commencé à dialoguer lors de réunions régionales sur les qualités du Divin Féminin et à sensibiliser à la réalité et à la présence de l'Esprit-Mère de Notre Univers. Elles répondaient au même appel de l’Esprit que des centaines d’autres groupes de femmes à travers les nations du monde pour œuvrer en faveur de l’égalité des sexes et de la dignité des femmes et de tous les membres de la famille humaine. Plusieurs groupes du Women's Corps ont vu le jour à travers le pays il y a dix ans ou plus, mais la nouvelle énergie du mouvement actuel a commencé lors de l'IC '14 à Amherst lorsqu'un groupe de femmes s'est spontanément levé pour servir Mère. Lors de la retraite « Sœurs par l’Esprit » tenue en octobre 2017 en Californie, de nombreuses femmes urantiennes ont accepté de travailler ensemble pendant plusieurs mois pour tenter d’articuler les objectifs de notre Mère Esprit. Cette réunion a été à l’origine de cet article collaboratif des sœurs spirituelles et auteurs Meredith Tenney, Sharon Porter, Mary Huggins et Elisabeth Callahan. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004148.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004148.jpg">
 <figcaption><em>© John Fielder</em></figcaption>
 </figure>
 

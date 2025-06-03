@@ -32,7 +32,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/John_Lange/36.jpg">
+<img src="/image/article/Fellowship_Herald/John_Lange.jpg">
 </figure>
 
 _by John Lange_
@@ -61,7 +61,7 @@ To encourage further engagement and retention of our contributing members, we ar
 - _Feedback_—We make an impact statement on accomplishments.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/John_Lange/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/36.jpg">
 </figure>
 
 Future annual reports will feature: the Fellowship's Inmate Correspondence Program, with books placed in facilities throughout the United States; the Pipeline of Light, with books placed in most nations of the world; and the Second Miler Grant Program, with over thirty grants already approved.
@@ -87,18 +87,18 @@ If you are interested in exploring these donation concepts please contact john.l
 Finance Committee: John Lange, Chair; Larry Geis, Secretary; Dale Sztejnberg; Barry Clark; Karen Allen; and Richard Daunt.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/John_Lange/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/37.jpg">
 </figure>
 
 > We would like to thank all those members who have contributed over the years that have insured _The Urantia Book_ Fellowship a firm grip on life.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/John_Lange/38.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/38.jpg">
 <figcaption>LOVE, by Laura Kimpton and Jeff Schonberg Photo by Chuck Thurston</figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/John_Lange/39.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/39.jpg">
 <figcaption>Migrating Mural, by Inkdwell Studio. Photo by Chuck Thurston</figcaption>
 </figure>
 

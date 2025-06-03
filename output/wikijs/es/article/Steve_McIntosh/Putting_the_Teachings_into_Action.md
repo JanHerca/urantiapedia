@@ -53,7 +53,7 @@ Cada etapa de la conciencia es una epistemología natural, una cosmovisión que 
 La investigación de Graves reveló además que estas etapas secuenciales están naturalmente organizadas en una relación sistémica y estructural que forma la espiral dialéctica del desarrollo que se ilustra a continuación.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Steve_McIntosh/Putting_The_Urantia_Books_Teachings_Into_Action/Spiral_of_Development.png">
+<img src="/image/article/Fellowship_Herald/Volume_6_n_1/Spiral_of_Development.png">
 <figcaption><em><b>Figura 1.</b> La espiral del desarrollo: conciencia arcaica, tribal, guerrera, tradicional, modernista, posmoderna, integral, posintegral.</em></figcaption>
 </figure>
 

@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Paula_Thompson_et_al/22.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/22.jpg">
 </figure>
 
 _por Sue Haskell, Paula Thompson y Abert Einstein Lassiter_
@@ -114,7 +114,7 @@ En El Libro de Urantia, las tres en punto es una hora significativa.
 El cruce de los dos eclipses puede verse como un verdadero símbolo de la situación actual del mundo, «temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» (<a id="a113_245"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) y en la encrucijada del avance o la regresión.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Paula_Thompson_et_al/23.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/23.jpg">
 <figcaption>Eclipse solar 2012 — Observatorio de dinámica solar de la NASA</figcaption>
 </figure>
 

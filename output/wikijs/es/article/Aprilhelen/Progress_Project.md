@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/33.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/33.jpg">
 </figure>
 
 _por Aprilhelen te ama_
@@ -51,7 +51,7 @@ Hace unos pocos años, en abril de 2017, Angie y sus dos hermanas en espíritu, 
 Durante sus reuniones bimensuales, Angie, Liz y Mae se turnaron para organizar una videoconferencia de noventa minutos. Pasaron su tiempo compartiendo la comunión, lo que incluyó practicar hablar oraciones en voz alta al grupo. Cada uno de ellos habló sobre su vida diaria, mantuvo un espacio sagrado para afrontar los inevitables desafíos de la vida que surgieron y fueron animadores espirituales de cada uno, compartiendo victorias personales. En las semanas intermedias entre las llamadas, se animaron mutuamente a practicar la comunión diaria con Dios, escribir un diario y lograr las metas espirituales que cada uno se propuso. Todas estas actividades resultaron progresivas.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/34.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/34.jpg">
 <figcaption>Liz Craig, Mae Thompson, Angie Thurston</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ El curso Service Corps examina estos aspectos de ser guiados por el espíritu en
 Visite http://theProgressProject.info para obtener más información, registrarse para orientación y unirse a una lista de espera para cursos futuros. Puede comunicarse con los seis miembros originales en cualquier momento a través de este correo electrónico: hello@progressproject.info. ¡Nos encantaría estar juntos con ustedes en el crecimiento espiritual!
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/35.jpg">
 </figure>
 
 ## Referencias

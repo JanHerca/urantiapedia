@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Ann_Bendall/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/30.jpg">
 </figure>
 
 _by Cecilia Bendall_
@@ -51,7 +51,7 @@ One of the few topics that we are told led to Jesus being stirred within his spi
 > “Your spirit unity implies two things, which always will be found to harmonize in the lives of individual believers: First, you are possessed with a common motive for life service; you all desire above everything to do the will of the Father in heaven. Second, you all have a common goal of existence; you all purpose to find the Father in heaven, thereby proving to the universe that you have become like him.” (<a id="a50_415"></a>[UB 141:5.1-3](/en/The_Urantia_Book/141#p5_1))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/31.jpg">
 <figcaption><em>Jesus Teaching On The Seashore</em> by James Tissot</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ And yet if they phrase an opinion on any topic as a universal “everyone believ
 A beautiful example of this human tendency is provided by Simon Zelotes when he initially interacted with Teherma (“the Persian”) whom Simon looked upon “as a ‘fire worshiper,’ although Teherma took great pains to explain that fire was only the visible symbol of the Pure and Holy One.” (<a id="a81_288"></a>[UB 141:6.1](/en/The_Urantia_Book/141#p6_1)) In my current interpretation of _The Urantia Book_, it seems that Simon was not convinced, or that Teherma did not think that he was.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/32.jpg">
 <figcaption><em>Persian art</em></figcaption>
 </figure>
 

@@ -32,7 +32,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/John_Lange/36.jpg">
+<img src="/image/article/Fellowship_Herald/John_Lange.jpg">
 </figure>
 
 _par John Lange_
@@ -61,7 +61,7 @@ Pour encourager un engagement et une fidélisation accrus de nos membres contrib
 - _Feedback_—Nous faisons une déclaration d'impact sur les réalisations.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/John_Lange/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/36.jpg">
 </figure>
 
 Les futurs rapports annuels présenteront : le programme de correspondance des détenus de la Fellowship, avec des livres placés dans des établissements à travers les États-Unis ; le Pipeline de Lumière, avec des livres placés dans la plupart des pays du monde ; et le programme de subventions Second Miler, avec plus de trente subventions déjà approuvées.
@@ -87,18 +87,18 @@ Si vous êtes intéressé à explorer ces concepts de dons, veuillez contacter j
 Comité des finances : John Lange, président; Larry Geis, secrétaire; Dale Sztejnberg ; Barry Clark ; Karen Allen ; et Richard Daunt.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/John_Lange/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/37.jpg">
 </figure>
 
 > Nous aimerions remercier tous ces membres qui ont contribué au fil des années à assurer à la Communauté du Livre d'Urantia une ferme emprise sur la vie.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/John_Lange/38.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/38.jpg">
 <figcaption>AMOUR, par Laura Kimpton et Jeff Schonberg Photo par Chuck Thurston</figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/John_Lange/39.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/39.jpg">
 <figcaption>Migration murale, par Inkdwell Studio. Photo par Chuck Thurston</figcaption>
 </figure>
 

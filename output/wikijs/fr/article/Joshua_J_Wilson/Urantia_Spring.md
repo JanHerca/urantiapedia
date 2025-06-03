@@ -71,7 +71,7 @@ La figure clé de cette période était initialement le Dr Lena Sadler. Son pati
 Le titre « Prophète », tel qu'utilisé par Strauss et Howe, n'est pas censé s'appliquer ici dans un sens direct ; mais c’est l’idéalisme des Sadler, complété par le soutien de nombreux « soldats des cercles », qui a dynamisé les premiers efforts cruciaux pour produire la Révélation. Au cours de cette saison, ou génération, le groupe d'étude des Soixante-dix fut formé, la Fondation Urantia et la Fraternité Urantia furent créées sous la supervision du Dr William Sadler, et le _Livre d'Urantia_ fut imprimé. L'ambiance était bonne, très bonne, alors que les enseignements des êtres célestes se retrouvaient entre les mains d'étudiants individuels du monde entier, de groupes d'étude et des premières nouvelles sociétés. 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004215.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004215.jpg">
 <figcaption><em>Dr. Léna Sadler.</em></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Strauss et Howe décrivent cette génération comme une époque où,
 Cela semble être une vision appropriée, puisque la caractéristique déterminante de cette période du mouvement Urantia était en effet la formation des institutions urantiennes. Si l’Égypte s’en était tenue au concept d’un Dieu unique, elle aurait pu être le lieu de la septième effusion de Micaël. Il ne fait aucun doute que d’autres personnes ont été considérées pour leur rôle en dehors des Sadler. C'est le dessein divin dans les cycles historiques qui est essentiel, et non les lieux ou les personnes.   
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004216.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004216.jpg">
 <figcaption><em>Dr. William S. Sadler, MD (Crédit : Société historique du Livre d'Urantia).</em></figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Strauss et Howe décrivent une génération réactive comme suit :
 > « Nous sommes à une époque où les institutions sont attaquées au nom de l'autonomie personnelle et spirituelle. Juste au moment où la société atteint son apogée en matière de progrès public, les gens se lassent soudain de la discipline sociale et veulent retrouver un sentiment de conscience de soi, de spiritualité et d’authenticité personnelle. 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004217.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004217.jpg">
 <figcaption><em>Dr. Meredith Sprunger.</em></figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Vers la fin de cette période, en raison de leur intérêt mutuel pour le minist
 En 1981, la conférence internationale triennale des lecteurs s'est tenue à Snowmass, Colorado. Moi et beaucoup d’autres avions l’impression que le paradis était descendu sur terre. Nous avions une révélation et le peuple de Dieu heureux et brillant avec qui partager tout cela. Vern Bennom Grimsley, un prédicateur des plus inspirants, était le conférencier principal. Vern avait une émission de radio dans les cinquante États et dans certaines stations à l'extérieur du pays, ainsi que sur le réseau radio des services armés. Il correspondait à la définition d'un archétype de héros, et cela n'a fait qu'empirer les choses lorsque les choses allaient mal pour lui et pour nous. 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004218.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004218.jpg">
 <figcaption><em>Vern Bennom Grimsley.</em></figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ L’hiver met le monde végétal et animal en crise. Les ressources sont rares e
 Le pianiste concertiste allemand Urs Ruchti est un bon exemple d'artiste qui a fait une différence importante au cours de cette saison. Il était le traducteur en chef du Livre d'Urantia en langue allemande, à la tête de l'équipe qui nous a apporté Das Urantia Buch. 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004219.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004219.jpg">
 <figcaption><em>Urs Ruchti.</em></figcaption>
 </figure>
 

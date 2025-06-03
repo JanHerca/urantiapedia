@@ -39,7 +39,7 @@ _by Tom Allen_
 > Sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at hand” meaning a return to the high spiritual concept of Jesus, who proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer—and doing all this without in any way referring either to the visible church on earth or to the anticipated second coming of Christ. There must come a revival of the _actual_ teachings of Jesus, such a restatement as will undo the work of his early followers who went about to create a sociophilosophical system of belief regarding the _fact_ of Michael's sojourn on earth. In a short time the teaching of this story _about_ Jesus nearly supplanted the preaching of Jesus' gospel of the kingdom. In this way a historical religion displaced that teaching in which Jesus had blended man's highest moral ideas and spiritual ideals with man's most sublime hope for the future—eternal life. And that was the gospel of the kingdom. (<a id="a38_1021"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Tom_Allen/08.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/08.jpg">
 </figure>
 
 Even if there were such a person capable of spearheading a huge shift in the spiritual economy on the planet today, I believe that the times may not be ripe for it. Secularism, climate change threats, fossil fuel dependence, wars and rumors of wars, crumbling democracies, insufficient leadership, rise of autocracy, racial inequality, unequal distribution of wealth, deficient sex equality, economic upheavals, horrific natural disasters, declining Christianity, amusement madness, family decline, massive starvation, cyber warfare, sociologic riptides, paucity of public opinion education, rampant illiteracy, world-wide pandemic scourges, nationalism, lagging patriotism and cultural solidarity, and trending atheism all combine to create a very unstable and semi-barbaric world. These dangerous conditions together are possibly leading our planet to crises like we have not seen since World War II.
@@ -59,7 +59,7 @@ I don't like to sound like either [Jeremiah](https://en.wikipedia.org/wiki/Jerem
 > No national civilization long endures unless its educational methods and religious ideals inspire a high type of intelligent patriotism and national devotion. Without this sort of intelligent patriotism and cultural solidarity, all nations tend to disintegrate as a result of provincial jealousies and local self-interests (<a id="a58_326"></a>[UB 81:6.35](/en/The_Urantia_Book/81#p6_35)).
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/10.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/10.jpg">
 <figcaption>Destruction by Thomas Cole (The Course of Empire)</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ All futurists are wrong, and so am I too, but in looking forward to the next few
 > A Most High observer is empowered, at his discretion, to seize the planetary government in times of grave planetary crises, and it is of record that this has happened thirty-three times in the history of Urantia (<a id="a67_215"></a>[UB 114:4.4](/en/The_Urantia_Book/114#p4_4)).
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption>Golden Rule by Norman Rockwell</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ The troubles on Urantia have not yet burst for the possible slide into the inter
 This “quivering on the very brink” quote is written by secondary midwayers who have lived for over thirty-six thousand years, and possibly see one-thousand years as the quivering brink about which they prophesied. To them, onethousand years is not a long time. Were the Midwayers naïve to think that the 1960 s would begin the flowering of a new epoch? It possibly could have. John or Joan did not show up. Nor could they in hindsight. Too many things went wrong on Urantia, and we did not reach the levels of spirituality that would have inspired amazing spiritual leadership and created balance between the material and the spiritual. We must wait for another day to go past the epochal brink. The brink is like standing on the threshold of the very beginning of a new period in the Post-Bestowal Son Man epoch on Urantia. This period may extend for at least one -thousand years, and possibly many thousands more before we are ready for another emergency epochal revelation or the inauguration of the Post-Magisterial Son Man epoch. In the meantime, we are on our own in a dark world suffering from the dual catastrophe of rebellion and default.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/12.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/12.jpg">
 <figcaption>Dream of Arcadia by Thomas Cole (The Course of Empire)</figcaption>
 </figure>
 

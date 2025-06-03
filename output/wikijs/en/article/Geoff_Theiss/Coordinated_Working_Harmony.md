@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Geoff_Theiss/42.jpg">
+<img src="/image/article/Fellowship_Herald/Geoff_Theiss.jpg">
 </figure>
 
 _by Geoffrey Theiss_

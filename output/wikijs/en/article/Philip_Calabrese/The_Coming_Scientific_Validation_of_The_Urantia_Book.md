@@ -149,7 +149,7 @@ About 1990, with the publication of early deep space photos, our scientific esti
 My, how quickly scientific estimates change without hardly a look back or an admission of error in the enthusiasm of “new results,” which are just as proudly asserted with the same certainty as the previous beliefs. _The Urantia Book_ has to live with what it said in 1955, and it beat the galactic science of 1986!
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image01.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image01.png">
 <figcaption><em>Hubble Deep Field - Hubble Space Telescope</em></figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ The Department of Physics & Astronomy at University of Tennessee writes in its S
 “Redshift surveys have revealed the largest structures yet observed in the Universe. The prominent concentration of galaxies running diagonally across the northern (that is, upper) portion of the adjacent image has been termed the Great Wall.”
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image02.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image02.png">
 <figcaption><em>Center of Galatic Ring</em></figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ a) __Greatest Spectrographic Distortion.__ _But the greatest of all such distort
 Being a mathematician, I decided to investigate this possibility analytically. I was able to prove an interesting result. Apparently, such a situation as _The Urantia Book_ describes with galaxies proceeding in orderly fashion in the first outer space zone adds up to a constant red (or blue) shift (depending on the angle of observation) to any object whose distance from the postulated center of rotation is greater than earth’s distance to that center of rotation. (That constant turns out to be the distance from earth to the center of rotation times the difference between the angular velocities of the Earth versus the first outer space object.[^21]
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image03.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image03.png">
 <figcaption><em>Rotating Outer Space Ring</em></figcaption>
 </figure>
 
@@ -360,7 +360,7 @@ However, “_The ultimatons are not subject to local gravity, the interplay of m
 > Ultimatons do not describe orbits or whirl about in circuits within the electrons, but they do spread or cluster in accordance with their axial revolutionary velocities, thus determining the differential electronic dimensions. This same ultimatonic velocity of axial revolution also determines the negative or positive reactions of the several types of electronic units. The entire segregation and grouping of electronic matter, together with the electric differentiation of negative and positive bodies of energy-matter, result from these various functions of the component ultimatonic interassociation. <a id="a359_607"></a>[[UB 42:6.6](/en/The_Urantia_Book/42#p6_6)]
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book/image04.png">
+<img src="/image/article/Fellowship_Herald/Volume_7_n_1/image04.png">
 <figcaption><em>100 Ultimatons = 1 Electron</em></figcaption>
 </figure>
 

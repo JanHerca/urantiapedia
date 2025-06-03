@@ -59,7 +59,7 @@ Sin embargo, en el párrafo inmediatamente posterior, Immanuel aclaró la natura
 > «5. Si lo consideras conveniente, puedes identificarte con los movimientos religiosos y espirituales existentes que puedan encontrarse en Urantia, pero trata de evitar, de todas las maneras posibles, el establecimiento formal de un culto organizado, de una religión cristalizada o de una agrupación ética separada de seres humanos. Tu vida y tus enseñanzas deben convertirse en la herencia común de todas las religiones y de todos los pueblos». <a id="a58_447"></a>[[LU 120:3.6](/es/The_Urantia_Book/120#p3_6)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004150.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004150.jpg">
 <figcaption><em>Sueños</em>, Wassilij Dimitriewitsch Polenow, 1894. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Neal Waldrop
 {.is-info}
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004151.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 

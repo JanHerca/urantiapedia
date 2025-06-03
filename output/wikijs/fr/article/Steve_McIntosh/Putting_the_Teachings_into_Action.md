@@ -54,7 +54,7 @@ Chaque étape de la conscience est une épistémologie naturelle, une vision du 
 Les recherches de Graves ont en outre révélé que ces étapes séquentielles sont elles-mêmes naturellement organisées dans une relation systémique et structurelle qui forme la spirale dialectique du développement illustrée ci-dessous.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Steve_McIntosh/Putting_The_Urantia_Books_Teachings_Into_Action/Spiral_of_Development.png">
+<img src="/image/article/Fellowship_Herald/Volume_6_n_1/Spiral_of_Development.png">
 <figcaption><em><b>Figure 1.</b> La spirale du développement : conscience archaïque, tribale, guerrière, traditionnelle, moderniste, postmoderne, intégrale, postintégrale.</em></figcaption>
 </figure>
 

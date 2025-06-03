@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Michael_Hill/07.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/07.jpg">
 </figure>
 
 _par Michael Hill_
@@ -55,7 +55,7 @@ Alors comment faire ça ? Le livre identifie très clairement les habitudes de v
 Par quelle mesure puis-je évaluer le succès de mes efforts pour vivre sa volonté ? On nous enseigne que ces personnes dirigées par l’esprit « … manifestent spontanément les fruits de l’esprit dans [leur] vie quotidienne ; et les fruits de l'esprit sont l'essence du type le plus élevé de maîtrise de soi agréable et ennoblissante, même les sommets de l'accomplissement mortel terrestre — la véritable maîtrise de soi (<a id="a54_418"></a>[LU 143:2.8](/fr/The_Urantia_Book/143#p2_8)).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Michael_Hill/09.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/09.jpg">
 </figure>
 
 En plus des fruits bibliques (amour, joie, paix, longanimité, douceur, bonté, foi, douceur et tempérance), _Le Livre d'Urantia_ déclare que Jésus ajoute : « service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. » (<a id="a60_381"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))

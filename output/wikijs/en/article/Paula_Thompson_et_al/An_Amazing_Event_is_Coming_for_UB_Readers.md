@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Paula_Thompson_et_al/22.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/22.jpg">
 </figure>
 
 _by Sue Haskell, Paula Thompson, and Abert Einstein Lassiter_
@@ -114,7 +114,7 @@ In _The Urantia Book_, three o'clock is a significant time.
 The crossing of the two eclipses can be seen as truly symbolic of where the world stands now, “quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” (<a id="a113_245"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) and at the _crossroads_ of advancement or regression.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Paula_Thompson_et_al/23.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/23.jpg">
 <figcaption>Solar Eclipse 2012 — NASA Solar Dynamics Observatory</figcaption>
 </figure>
 

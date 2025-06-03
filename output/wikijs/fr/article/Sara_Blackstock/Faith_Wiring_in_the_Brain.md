@@ -124,7 +124,7 @@ Il existe de nombreuses voies que cet article pourrait suivre pour approfondir c
 Nous pouvons nous demander comment et où le circuit du Saint-Esprit se connecte à notre esprit, et ce que nous pouvons fournir dans l'environnement pour fournir le sol le plus riche pour la réception de l'Ajusteur de Pensée. L’Esprit de Vérité « éclaire-t-il nos lobes temporaux », mais peut-être à un niveau très subtil ? Quel rôle les décisions jouent-elles dans le développement du SQ – l'intelligence spirituelle de l'enfant ? Tous ces circuits commencent à fonctionner lorsqu'un enfant prend sa première décision morale, et l'Ajusteur de Pensée est envoyé par le Père Paradisiaque pour habiter l'enfant. Au fur et à mesure que l'enfant prend des décisions intellectuelles, des choix moraux et se développe spirituellement, l'Ajusteur «..._si bien qu’il peut de mieux en mieux enregistrer ses images de la destinée, avec une clarté et une conviction croissantes sur la conscience évoluante de ce mental-âme qui cherche Dieu._...» <a id="a123_934"></a>[[110:6.5](/fr/The_Urantia_Book/110#p6_5)]
 
 <figure id="Faith_figure_1" class="image urantiapedia">
-<img src="/image/article/Sara_Blackstock/Faith_Wiring_in_the_Brain/brain.png">
+<img src="/image/article/Fellowship_Herald/Volume_4_n_1/brain.png">
 <figcaption><em><b>Figure 1.</b> Illustration de C. Montgomery d'après Newsweek, 7 mai 2001.</em></figcaption>
 </figure>
 

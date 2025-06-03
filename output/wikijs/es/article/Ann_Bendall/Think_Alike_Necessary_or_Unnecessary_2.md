@@ -35,7 +35,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Ann_Bendall/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/30.jpg">
 </figure>
 
 _por Cecilia Bendall_
@@ -51,7 +51,7 @@ Uno de los pocos temas que, según nos dicen, llevó a Jesús a ser conmovido en
 > «Vuestra unidad espiritual implica dos factores, que siempre se armonizarán en la vida de los creyentes individuales: En primer lugar, poseéis un motivo común para una vida de servicio; todos deseáis por encima de todo hacer la voluntad del Padre que está en los cielos. Y en segundo lugar, todos tenéis una meta común en la existencia; todos os proponéis encontrar al Padre que está en los cielos, mostrando así al universo que os habéis vuelto como él». (<a id="a50_459"></a>[LU 141:5.1-3](/es/The_Urantia_Book/141#p5_1))
 
 <figure id="Figura_2" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/31.jpg">
 <figcaption><em>Jesús enseñando a la orilla del mar</em> por James Tissot</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Y, sin embargo, si expresan una opinión sobre cualquier tema como un universal 
 Un hermoso ejemplo de esta tendencia humana lo proporciona Simón Zelotes cuando interactuó inicialmente con Teherma (“el persa”) a quien Simón consideraba «un «adorador del fuego», aunque Tejerma se esmeró en explicarle que el fuego sólo era el símbolo visible del Único Puro y Santo». (<a id="a81_287"></a>[LU 141:6.1](/es/The_Urantia_Book/141#p6_1)) En mi interpretación actual de _El Libro de Urantia_, parece que Simón no estaba convencido, o que Teherma no creía que lo estuviera.
 
 <figure id="Figura_3" class="image urantiapedia">
-<img src="/image/article/Ann_Bendall/31.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/32.jpg">
 <figcaption><em>Arte persa</em></figcaption>
 </figure>
 

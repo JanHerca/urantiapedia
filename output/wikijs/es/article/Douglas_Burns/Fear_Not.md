@@ -35,11 +35,11 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/41.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/41.jpg">
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Douglas_Burns/40.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/40.jpg">
 </figure>
 
 _por Douglas Burns_
@@ -65,7 +65,7 @@ La infraestructura construida en torno a las enseñanzas del _Libro de Urantia_ 
 El ejemplo de los religiosos de Urmia (ver <a id="a64_43"></a>[«The Urmia Lectures»](/es/The_Urantia_Book/134#p3)) (1) sirve como un faro para la paz y la armonía y (2) rechaza la idea de superioridad religiosa. Su influencia duradera sirve como brújula, instando tanto a las instituciones como a sus miembros a abrazar este espíritu de unidad. Este es un llamado a reflexionar sobre la mayor fuerza y potencial de un movimiento unido en intención y acción.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/43.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/43.jpg">
 </figure>
 
 Si bien los debates sobre las fortalezas y limitaciones de los modelos organizativos son importantes, el objetivo final es una dedicación inquebrantable a las enseñanzas de _El Libro de Urantia_. Mientras miramos hacia el horizonte, espero que podamos visualizar colectivamente un movimiento alineado, una unión que simbolice la unidad y magnifique la resonancia del movimiento.

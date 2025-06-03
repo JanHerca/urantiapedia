@@ -70,7 +70,7 @@ La figura clave en este período fue inicialmente la Dra. Lena Sadler. Su pacien
 El encabezamiento «Profeta» tal como lo usan Strauss y Howe no pretende aplicarse aquí en un sentido directo; pero fue el _idealismo_ de los Sadler, complementado por el apoyo de muchos «soldados de los círculos», lo que energizó los primeros esfuerzos fundamentales para producir la Revelación. Durante esta temporada, o generación, se formó el grupo de estudio de los Setenta, se crearon la Fundación Urantia y la Hermandad Urantia bajo la supervisión del Dr. William Sadler, y se publicó _El Libro de Urantia_. El estado de ánimo era alto, muy alto, a medida que las enseñanzas de los celestiales llegaban a las manos de estudiantes individuales de todo el mundo, grupos de estudio y las primeras sociedades nuevas.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004215.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004215.jpg">
 <figcaption><em>Dr. Lena Sadler.</em></figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Strauss y Howe describen esta generación como una época en la que,
 Esto parece una idea apropiada, ya que la característica definitoria de este período en el movimiento Urantia fue de hecho la formación de instituciones Urantia. Si Egipto se hubiera apegado al concepto de un solo Dios, podría haber sido el lugar del séptimo otorgamiento de Miguel. Sin duda, se consideró a otras personas para su papel además de los Sadler. Es el propósito divino en los ciclos históricos lo que es esencial, no los lugares o las personas. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004216.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004216.jpg">
 <figcaption><em>Dr. William S. Sadler, MD (Crédito: Sociedad Histórica del Libro de Urantia).</em></figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Strauss y Howe describen una generación reactiva de la siguiente manera:
 > «Esta es una era en la que se ataca a las instituciones en nombre de la autonomía personal y espiritual. Justo cuando la sociedad está alcanzando su punto álgido de progreso público, la gente de repente se cansa de la disciplina social y quiere recuperar un sentido de autoconciencia, espiritualidad y autenticidad personal».
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004217.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004217.jpg">
 <figcaption><em>Dr. Meredith Sprunger.</em></figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Hacia el final de este período, debido a su interés mutuo en el ministerio uni
 En 1981 se llevó a cabo la conferencia trienal internacional de lectores en Snowmass, Colorado. Yo y muchos otros sentimos que el cielo había bajado a la tierra. Tuvimos una Revelación y el feliz y resplandeciente pueblo de Dios con quien compartirlo todo. Un predicador muy inspirador, Vern Bennom Grimsley, fue el orador principal. Vern tenía una transmisión de radio en los cincuenta estados y algunas estaciones fuera del país, así como en la red de radio de los Servicios Armados. Encajaba en la definición de un arquetipo de héroe, y esto empeoró las cosas cuando las cosas salieron mal para él y para nosotros.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004218.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004218.jpg">
 <figcaption><em>Vern Bennom Grimsley.</em></figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ El invierno pone en crisis el mundo vegetal y animal. Los recursos son escasos y
 El concertista de piano de Alemania Urs Ruchti es un buen ejemplo de un artista que marcó una diferencia importante durante esta temporada. Fue el principal traductor de _El Libro de Urantia_ al idioma alemán y encabezó el equipo que nos trajo Das Urantia Buch.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004219.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004219.jpg">
 <figcaption><em>Urs Ruchti.</em></figcaption>
 </figure>
 

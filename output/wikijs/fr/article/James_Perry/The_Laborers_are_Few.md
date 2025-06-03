@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/James_Perry/34.jpg">
+<img src="/image/article/Fellowship_Herald/James_Perry.jpg">
 </figure>
 
 _par le Dr James Perry_
@@ -59,7 +59,7 @@ Il est impératif pour nous tous de réfléchir aux raisons pour lesquelles nous
 > Vous pouvez faire une œuvre importante si vous ne vous attribuez pas d’importance. (<a id="a58_86"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/James_Perry/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/34.jpg">
 </figure>
 
 ## Références

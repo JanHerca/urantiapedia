@@ -35,7 +35,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Karen_Larson/001.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/001b.jpg">
 </figure>
 
 madre de corazon

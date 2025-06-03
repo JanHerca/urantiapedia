@@ -59,7 +59,7 @@ In the immediately succeeding paragraph, however, Immanuel clarified the nature 
 > “5. As you may see fit, you are to identify yourself with existing religious and spiritual movements as they may be found on Urantia but in every possible manner seek to avoid the formal establishment of an organized cult, a crystallized religion, or a segregated ethical grouping of mortal beings. Your life and teachings are to become the common heritage of all religions and all peoples.” <a id="a58_394"></a>[[UB 120:3.6](/en/The_Urantia_Book/120#p3_6)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004150.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004150.jpg">
 <figcaption><em>Dreams</em>, Wassilij Dimitriewitsch Polenow, 1894. Public Domain. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ January 12, 2019
 {.is-info} 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004151.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 

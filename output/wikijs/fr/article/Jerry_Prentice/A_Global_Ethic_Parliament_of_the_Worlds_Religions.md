@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jerry_Prentice/38.jpg">
+<img src="/image/article/Fellowship_Herald/Jerry_Prentice.jpg">
 </figure>
 
 par Jerry Prentice L'unité est également une préoccupation mondiale. Et si nous, les religions du monde et les nations, pouvions formuler une déclaration éthique qui soit acceptable pour tous les peuples ? Le Parlement des Religions du Monde a lancé ce processus. Je ne trouve rien de répréhensible dans leur déclaration initiale. Est-ce que tu?

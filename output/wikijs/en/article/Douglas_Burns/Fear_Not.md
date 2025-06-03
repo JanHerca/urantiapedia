@@ -35,11 +35,11 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/41.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/41.jpg">
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Douglas_Burns/40.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/40.jpg">
 </figure>
 
 _by Douglas Burns_
@@ -65,7 +65,7 @@ The infrastructure built around The Urantia Book's teachings plays a pivotal rol
 The Urmia religionists' example (see <a id="a64_37"></a>[“The Urmia Lectures”](/en/The_Urantia_Book/134#p3)) (1) serves as a beacon for peace and harmony and (2) rejects the idea of religious superiority. Their enduring influence serves as a compass, urging institutions and members alike to embrace this spirit of unity. This is a call to reflect on the enhanced strength and potential of a movement united in intent and action.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Douglas_Burns/43.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/43.jpg">
 </figure>
 
 While debates on the strengths and limitations of organizational models hold importance, the ultimate pursuit is an unwavering dedication to The Urantia Book's teachings. As we look to the horizon, I hope we can collectively visualize an aligned movement-a union that symbolizes unity and magnifies the resonance of the movement.

@@ -66,7 +66,7 @@ Puisque la Mère est la source de l'esprit de notre univers, il est tout à fait
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004186.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004186.jpg">
 <figcaption><em>Polyptyque Baroncelli : Couronnement de la Vierge par Giotto Di Bondone </em></figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ J'espère entendre un mot de bonne humeur de votre part ! Gloire à Dieu au plus
 > Le Fils prend l’initiative de créer certains enfants de l’univers, tandis que l’Esprit est uniquement responsable d’amener à l’existence les nombreux ordres de personnalités spirituelles qui exercent leur ministère et servent sous les directives et la gouverne de ce même Esprit-Mère. Dans la création, d’autres types de personnalités universelles, le Fils et l’Esprit opèrent tous deux ensemble, et dans aucun acte créatif l’un ne fait quelque chose sans le conseil et l’approbation de l’autre. <a id="a102_498"></a>[[LU 33:3.8](/fr/The_Urantia_Book/33#p3_8)] 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays/004187.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_21_n_1/004187.jpg">
 <figcaption><em>L'Ascension de Catherine Andrews </em></figcaption>
 </figure>
 

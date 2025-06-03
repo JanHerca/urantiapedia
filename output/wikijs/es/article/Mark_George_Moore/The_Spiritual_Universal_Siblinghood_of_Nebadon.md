@@ -57,7 +57,7 @@ y luego al Universal (Padre).<br>
 </p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Mark_George_Moore/39.jpg">
+<img src="/image/article/Fellowship_Herald/Mark_George_Moore.jpg">
 </figure>
 
 ## Referencias

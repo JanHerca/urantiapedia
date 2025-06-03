@@ -41,7 +41,7 @@ The Urantia papers give rise to a credible hypothesis about the location of Uver
 Because it seemed so distant, Harlow Shapley in 1922 called NGC 2419 the “Intergalactic Tramp,” meaning that it seemed to be tramping across the universe with no connection to the Milky Way. It is now commonly nicknamed the “Intergalactic Wanderer” to clarify what Shapley meant. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004171.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004171.jpg">
 <figcaption><em> NGC 2419 ESA/Hubble </em></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ In order to justify the hypothesis that NGC 2419 is the location of Uversa, here
 - The average distance of NGC 2419 from Urantia is 245,000 light-years. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004172.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004172.jpg">
 </figure>
 
 The following four quotes are all the references in the Urantia papers about the location of Uversa. Each quote is followed with analysis about how NGC 2419 correlates with evidence concerning the location of Uversa. 
@@ -91,7 +91,7 @@ Uversa within NGC 2419 has a central location near the astronomical center of th
 > The Satania system of inhabited worlds is <ins>far removed from Uversa and that great sun cluster</ins> which functions as the <ins>physical or astronomic center</ins> of the seventh superuniverse. <ins>From Jerusem</ins>, the headquarters of Satania, it is <ins>over two hundred thousand light-years</ins> to the <ins>physical center</ins> of the superuniverse of Orvonton, far, far away <ins>in the dense diameter of the Milky Way</ins>. Satania is on the periphery of the local universe, and <ins>Nebadon</ins> is now well out towards the edge of Orvonton. From the <ins>outermost system</ins> of inhabited worlds to the <ins>center of the superuniverse</ins> is a <ins>trifle less than two hundred and fifty thousand light- years</ins>. (<a id="a90_744"></a>[UB 32:2.11](/en/The_Urantia_Book/32#p2_11))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004173.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004173.jpg">
 <figcaption><em> The anticenter through Urantia from the galactic center is in the direction through “the dense diameter” of the Milky Way plane, toward the constellation Lynx, which is the location of NGC 2419.  </em></figcaption>
 </figure>
 

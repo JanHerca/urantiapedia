@@ -42,7 +42,7 @@ As Urantians, we need to keep the bow of our boat well pointed into the wave of 
 All throughout our book we read passages that show us the feminine face of God. She is our Paradise Mother Spirit, our Eternal Mother Son and the Supreme. But more importantly in our own Universe, she is our spiritual Mother who brings us her Holy Spirit. And she stands equally beside our spiritual Father and his Spirit of Truth. Together they represent the **_balance_** of Spirit, the Yin and Yang, Mother and Father, female and male. **She is a new revelation to this world.** 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship/taichi.png">
+<img src="/image/article/Fellowship_Herald/Volume_10_n_1/taichi.png">
 </figure>
 
 That is the good “news” that our _Urantia Book_ is bringing to our torn world! Urantia is a world fallen into rebellion. Consequently, we lack knowledge and wisdom that our more advanced neighbors have, but we have _The Urantia Book_. 

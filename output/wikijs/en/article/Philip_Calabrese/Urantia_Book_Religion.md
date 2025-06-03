@@ -59,7 +59,7 @@ The religious institutions of the Hellenic Greeks, much as the Romans:
 > When a member of a social religious group has complied with the requirements of such a group, he should be encouraged to enjoy religious liberty in the full expression of his own personal interpretation of the truths of religious belief and the facts of religious experience. The security of a religious group depends on spiritual unity, not on theological uniformity. A religious group should be able to enjoy the liberty of freethinking without having to become “freethinkers.” There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members. <a id="a58_640"></a>[[UB 103:5.12](/en/The_Urantia_Book/103#p5_12)]
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image01.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image01.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ In light of _The Urantia Book_, we are now in a position to do just that with th
 In my own local United Church of Christ (UCC) parish, the sequence of events last Sunday and typically is: Music, Announcements & Welcome, Prelude (music – piano or organ), Call to Worship (recitation by One & All), Group Hymn, Prayer of Confession and Assurance of Forgiveness, Special Music (choir or solo), Children’s Chat (& church school class), Joys & Concerns (a chance for anyone present to briefly address those assembled), Prayers for our church family & The Lord’s Prayer, Friendship Greetings, Hymn, Scripture, Sermon, Offertory (with music), Choral Response, Prayer of Dedication, Closing Hymn, Benediction, Sending Forth and Sharing the Light (music), Postlude (music as people leave). Afterwards, there was coffee etc. with social contact. And this was just the Sunday service without the monthly “Remembrance ritual of bread and grape juice.” There are many other social services of members to members and to the community at large. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Corbis</em></figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Did you get all of that? The expanded Urantia Religion would need to:
 > But the great difficulty of finding a new and satisfying symbolism is because modern men, as a group, adhere to the scientific attitude, eschew superstition, and abhor ignorance, while as individuals they all crave mystery and venerate the unknown. No cult can survive unless it embodies some masterful mystery and conceals some worthful unattainable. Again, the new symbolism must not only be significant for the group but also meaningful to the individual. The forms of any serviceable symbolism must be those which the individual can carry out on his own initiative, and which he can also enjoy with his fellows. If the new cult could only be dynamic instead of static, it might really contribute something worthwhile to the progress of mankind, both temporal and spiritual. <a id="a145_780"></a>[[UB 87:7.9](/en/The_Urantia_Book/87#p7_9)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/image02.jpg">
 <figcaption><em>© Shuttestock</em></figcaption>
 </figure>
 

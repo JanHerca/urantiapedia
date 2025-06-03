@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/James_Perry/34.jpg">
+<img src="/image/article/Fellowship_Herald/James_Perry.jpg">
 </figure>
 
 _por el Dr. James Perry_
@@ -59,7 +59,7 @@ Es imperativo que todos reflexionemos sobre nuestras razones para comprometernos
 > Podéis hacer un trabajo importante si no os volvéis engreídos; podéis hacer diversas cosas tan fácilmente como una sola si dejáis fuera a vuestro yo. (<a id="a58_153"></a>[LU 48:6.37](/es/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/James_Perry/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/34.jpg">
 </figure>
 
 ## Referencias

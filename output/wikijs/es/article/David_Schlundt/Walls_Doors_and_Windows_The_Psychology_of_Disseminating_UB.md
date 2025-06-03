@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/David_Schlundt/28.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/28.jpg">
 </figure>
 
 _Por David G. Schlundt_
@@ -50,7 +50,7 @@ Este evangelio del reino es una verdad viva. Os he dicho que es como la levadura
 La Fellowship del _Libro de Urantia_ (la Comunidad) está trabajando actualmente para encontrar nuevas formas de difundir _El Libro de Urantia_ y sus enseñanzas. Mientras estudiamos el desafío, uno de nuestros primeros pasos fue pensar quién es nuestra audiencia. Si bien se podría pensar que la respuesta debería ser que todas las personas en el mundo merecen saber sobre El Libro de Urantia y sus enseñanzas que alteran la vida, este no es un enfoque práctico. Con base en los hallazgos de una encuesta realizada a los miembros de la Comunidad, el Comité de Orientación Organizacional desarrolló una forma de segmentar nuestra audiencia. La siguiente figura es útil para visualizar los segmentos.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/27.jpg">
 </figure>
 
 Hay tres grandes bloques de personas con las que la Comunidad planea comunicarse: 1) personas comprometidas con la Comunidad del Libro de Urantia, 2) personas comprometidas con _El Libro de Urantia_ y 3) personas que no conocen El Libro de Urantia. Es este tercer grupo muy grande sobre el que estoy escribiendo aquí. Podemos pensar en aquellos que no conocen el libro utilizando un continuo de preparación. El continuo va desde aquellos que no están preparados para El Libro de Urantia, pasando por aquellos que podrían ser receptivos a algunas de sus enseñanzas, hasta buscadores activos de la verdad que están dispuestos a aprender sobre el libro. Al utilizar un continuo de preparación, el objetivo es ayudar a las personas a acercarse a estar preparadas para estudiar El Libro de Urantia. No es necesario ni deseable que el objetivo sea empezar por compartir el libro con todo el mundo.
@@ -62,7 +62,7 @@ Los miles de millones de personas que desconocen El Libro de Urantia son obviame
 El siguiente diagrama nos ayudará a pensar en cómo encontrar formas efectivas de compartir las verdades contenidas en _El Libro de Urantia_.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/29.jpg">
 </figure>
 
 La parte superior de la figura es una casa que representa a la persona individual. Esta casa tiene un interior a la izquierda y un exterior a la derecha. Según la psicología cognitiva moderna, nuestra comprensión y percepciones de nosotros mismos y del mundo están organizadas en esquemas cognitivos. Los esquemas son conjuntos de información sobre ideas, emociones, valores, metas, consecuencias y acciones que están asociadas con nuestra comprensión de nosotros mismos y de nuestro mundo. Por ejemplo, un esquema de béisbol contiene conocimiento de que el campocorto está entre la segunda y la tercera base, que una doble jugada es la acción correcta cuando hay un rodado dentro del cuadro con un jugador en primera, que ser golpeado por una bola lanzada dolería, y que poncharse con dos outs en la parte baja de la novena con la carrera ganadora en base sería decepcionante.
@@ -132,7 +132,7 @@ Para llegar a los humanistas seculares, la tabla identifica posibles paredes, ve
 ## Resumen
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/David_Schlundt/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/30.jpg">
 </figure>
 
 Cada persona tiene un conjunto complicado de ideas sobre sí mismo, el mundo, la sociedad, Dios y la religión. Para mantener un sentido coherente de uno mismo, estos esquemas cognitivos internos se resisten al cambio y se defienden mediante atención selectiva, interpretación motivada y descuento o negación. Parte de la misión de la Comunidad _El Libro de Urantia_ es llegar a los miles de millones de personas que no conocen _El Libro de Urantia_ y sus enseñanzas. He sostenido que el objetivo de compartir las enseñanzas de _El Libro de Urantia_ es estimular a las personas a considerar la posibilidad de incorporar nueva información o perspectivas a su comprensión de sí mismos, de Dios, del universo, de la religión y de las prácticas espirituales. Con el tiempo, pequeños cambios pueden llevar a una persona a estar preparada para descubrir _El Libro de Urantia_ y seguir estudiándolo por su cuenta o como parte de un grupo de estudio. El arte de la divulgación implica segmentar el público objetivo, escuchar sus necesidades y deseos reales y luego crear mensajes que se alineen lo suficiente con las creencias existentes para permitir que se considere nueva información. Usando la analogía de la casa, el objetivo es hacer brillar la luz de la verdad a través de las ventanas hasta que alguien esté dispuesto a abrir la puerta. Hay mucho trabajo por hacer.

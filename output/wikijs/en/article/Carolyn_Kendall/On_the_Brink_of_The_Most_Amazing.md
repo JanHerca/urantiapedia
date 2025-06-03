@@ -139,7 +139,7 @@ The Brotherhood early recognized that it would be impossible to get a foot in th
 A conservative route was taken. The first brochure, published in 1956 was “Excerpts from *The Urantia Book*,” which contained nothing but many soaring 1978 quotations from the book. Next came “A Description of *The Urantia Book*,” containing a brief review of each part of the book and a list of the papers. For years, the Foundation and the Brotherhood jointly resisted efforts by individuals or groups to pro­duce brochures, insisting that the book should speak for itself.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image1.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image1.png">
 <figcaption><em>EL “Christy” Christensen, Chicago.</em></figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ The Allenberry conference in Boiling Springs, PA, in May 1984, devoted its agend
 Neal Waldrup, who had recently returned from China, advanced the idea of a global perspective: “Energetically pursue translations into other non-Western languages so Christian linkage to Western culture doesn't rub off on the book. Don't follow narrow-minded traditions by denouncing vari­ant or divergent views.” Harry McMullan of Oklahoma City, OK, acknowledged the value of personal trans­formation when spreading the gospel, but urged that one should not hold back until he or she was trans­formed. “Many untransformed people have done im­pressive work: Omar Khyam, John the Baptist; John wasn't in the kingdom, but he transformed many.”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
 
@@ -345,7 +345,7 @@ The Fellowship set up a booth at the World Parliament of Religions in Chicago in
 The Fellowship has also participated in book fairs around the world. An early booth set up by the Brotherhood and Foundation in Lon­don attracted the no­tice of a younger fe­male member of the Royal House of Windsor who  thumbed through the book and asked questions about it. The Fellowship and Foundation have even worked together in the same booth in recent months. A book fair in southeast Asia experienced an overwhelming number of book sales last yea; prompting an emergency shipment to fulfill or­ders.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image3.png">
 <figcaption><em>Mediterranean Tour Group, Rome, 1998.</em></figcaption>
 </figure>
 

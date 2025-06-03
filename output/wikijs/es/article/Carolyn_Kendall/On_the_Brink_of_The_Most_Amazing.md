@@ -139,7 +139,7 @@ La Hermandad pronto reconoció que sería imposible poner un pie en la puerta co
 Se tomó una ruta conservadora. El primer folleto, publicado en 1956, fue «Extractos de _El Libro de Urantia_», que contenía la vertiginosa cifra de 1978 citas del libro. Luego venía «Una descripción de _El Libro de Urantia_», que contenía una breve reseña de cada parte del libro y una lista de los documentos. Durante años, la Fundación y la Hermandad resistieron conjuntamente los esfuerzos de individuos o grupos para producir folletos, insistiendo en que el libro debería hablar por sí mismo.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image1.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image1.png">
 <figcaption><em>EL «Christy» Christensen, Chicago.</em></figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ La conferencia de Allenberry en Boiling Springs, PA, en mayo de 1984, dedicó su
 Neal Waldrup, quien había regresado recientemente de China, avanzó la idea de una perspectiva global: «Buscar con energía las traducciones a otros idiomas no occidentales para que el vínculo cristiano con la cultura occidental no se contagie en el libro. No sigas tradiciones de mente estrecha al denunciar puntos de vista variantes o divergentes». Harry McMullan de Oklahoma City, OK, reconoció el valor de la transformación personal al difundir el evangelio, pero instó a que uno no se detenga hasta que sea transformado. «Muchas personas no transformadas han hecho un trabajo impresionante: Omar Khyam, Juan el Bautista; Juan no estaba en el reino, pero transformó a muchos».
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
 
@@ -346,7 +346,7 @@ La Fraternidad también ha participado en ferias del libro en todo el mundo. Una
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image3.png">
 <figcaption><em>Grupo Tour Mediterráneo, Roma, 1998.</em></figcaption>
 </figure>
 

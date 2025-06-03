@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Cristina_Seaborn/24.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/24.jpg">
 <figcaption>Cristina Seaborn. Photo by Doug Jenkins</figcaption>
 </figure>
 

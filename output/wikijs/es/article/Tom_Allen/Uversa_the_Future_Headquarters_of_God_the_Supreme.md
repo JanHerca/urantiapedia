@@ -41,7 +41,7 @@ Los documentos de Urantia dan lugar a una hipótesis creíble sobre la ubicació
 Debido a que parecía tan distante, Harlow Shapley en 1922 llamó a NGC 2419 el «vagabundo intergaláctico», lo que significa que parecía estar vagando por el universo sin conexión con la Vía Láctea. Ahora es comúnmente apodado el «Vagabundo intergaláctico» para aclarar lo que Shapley quiso decir.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004171.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004171.jpg">
 <figcaption><em> NGC 2419 ESA/Hubble </em></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Para justificar la hipótesis de que NGC 2419 es la ubicación de Uversa, aquí 
 - La distancia media de NGC 2419 a Urantia es de 245.000 años luz.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004172.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004172.jpg">
 </figure>
 
 Las siguientes cuatro citas son todas las referencias en los documentos de Urantia sobre la ubicación de Uversa. Cada cita va seguida de un análisis sobre cómo NGC 2419 se correlaciona con la evidencia sobre la ubicación de Uversa.
@@ -91,7 +91,7 @@ Uversa dentro de NGC 2419 tiene una ubicación central cerca del centro astronó
 > El sistema de mundos habitados de Satania está <ins>muy alejado de Uversa y del gran grupo de soles</ins> que funciona como el <ins>centro físico o astronómico</ins> del séptimo superuniverso. <ins>Desde Jerusem</ins>, la sede central de Satania, hay <ins>más de doscientos mil años luz</ins> hasta el <ins>centro físico</ins> del superuniverso de Orvonton, situado lejos, muy lejos <ins>en el denso diámetro de la Vía Láctea</ins>. Satania se encuentra en la periferia del universo local, y <ins>Nebadon</ins> se halla ahora muy afuera hacia el borde de Orvonton. Desde el <ins>sistema más alejado</ins> de mundos habitados hasta el <ins>centro del superuniverso</ins> hay un <ins>poco menos de doscientos cincuenta mil años luz</ins>. (<a id="a90_740"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme/004173.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004173.jpg">
 <figcaption><em> El anticentro a través de Urantia desde el centro galáctico está en la dirección a través del «diámetro denso» del plano de la Vía Láctea, hacia la constelación Lynx, que es la ubicación de NGC 2419. </em></figcaption>
 </figure>
 

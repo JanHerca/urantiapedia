@@ -35,7 +35,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Phillip_Marriott/46.jpg">
+<img src="/image/article/Fellowship_Herald/Phillip_Marriott.jpg">
 </figure>
 
 _Por Phillip Marriott_
@@ -67,7 +67,7 @@ Entonces, esto me hizo pensar en mi camino a casa después de la feria: cómo te
 > Seleccionó a cinco dirigentes de los estoicos, a once de los cínicos y a dieciséis jefes del culto de los misterios, y pasó una gran parte de su tiempo libre, durante casi seis meses, en asociación íntima con estos educadores religiosos. He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba; (<a id="a66_634"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Phillip_Marriott/47.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/47.jpg">
 </figure>
 
 Pero, por supuesto, nunca podría aspirar a ser tan inteligente o sagaz como Jesús, y si no hay deseo de unidad, entonces siempre será un asunto unidireccional. Así que ese era mi punto, si ambos hubiésemos acordado tener compañerismo – tener relaciones amistosas y dejar de lado cualquier opinión o pensamiento diferente y permitir que la idea común pase a primer plano – esto podría ser una base para luego construir sobre. Pero sólo funcionará en un ambiente de cooperación y con la voluntad de tener paz y armonía.
@@ -111,7 +111,7 @@ El libro lo resume mejor con estos artículos finales:
 {.is-info}
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Phillip_Marriott/48.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/48.jpg">
 </figure>
 
 ## Referencias

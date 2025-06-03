@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Kurt_Cira/21.jpg">
+<img src="/image/article/Fellowship_Herald/Kurt_Cira.jpg">
 </figure>
 
 _por Kurt Cira_
@@ -62,7 +62,7 @@ Para nuestros hermanos y hermanas
 En tu familia
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Kurt_Cira/20.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/20.jpg">
 </figure>
 
 ## Referencias

@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/33.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/33.jpg">
 </figure>
 
 _by Aprilhelen Lovesyou_
@@ -51,7 +51,7 @@ A few short years ago, in April, 2017, Angie and her two sisters in spirit, Liz 
 During their bi-monthly gatherings, Angie, Liz, and Mae took turns hosting a ninety-minute video-conference. They spent their time sharing in communion, which included practicing speaking prayers out loud to the group. They each checked in about their daily lives, held sacred space for navigating life's inevitable challenges that arose, and were each other's spiritual cheerleaders, sharing in personal victories. Within the weeks in between the calls, they encouraged each other to practice daily communion with God, journal, and accomplish spiritual goals they each set. All of these activities proved progressive.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Aprilhelen/34.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/34.jpg">
 <figcaption>Liz Craig, Mae Thompson, Angie Thurston</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Are you interested in joining the Progress Project? The next session is October 
 Visit http://theProgressProject.info for more information, orientation registration, and to join a waitlist for future courses. You can reach out to the original six members anytime through this email: hello@progressproject.info. We would love to be with you together in spiritual growth!
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/35.jpg">
 </figure>
 
 ## References

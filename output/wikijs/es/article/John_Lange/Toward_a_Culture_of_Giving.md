@@ -32,7 +32,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/John_Lange/36.jpg">
+<img src="/image/article/Fellowship_Herald/John_Lange.jpg">
 </figure>
 
 _por John Lange_
@@ -61,7 +61,7 @@ Para fomentar una mayor participación y retención de nuestros miembros contrib
 - _Feedback_—Hacemos una declaración de impacto sobre los logros.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/John_Lange/35.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/36.jpg">
 </figure>
 
 Los informes anuales futuros incluirán: el Programa de correspondencia para reclusos de la Fellowship, con libros distribuidos en instalaciones de todo Estados Unidos; el Tubería de Luz, con libros colocados en la mayoría de las naciones del mundo; y el Programa de Becas Second Miler, con más de treinta subvenciones ya aprobadas.
@@ -87,18 +87,18 @@ Si está interesado en explorar estos conceptos de donación, comuníquese con j
 Comité de Finanzas: John Lange, Presidente; Larry Geis, Secretario; Dale Sztejnberg; Barry Clark; Karen Allen; y Richard Daunt.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/John_Lange/37.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/37.jpg">
 </figure>
 
 > Nos gustaría agradecer a todos aquellos miembros que han contribuido a lo largo de los años para asegurar a la Comunidad _El Libro de Urantia_ un firme control de la vida.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/John_Lange/38.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/38.jpg">
 <figcaption>LOVE, de Laura Kimpton y Jeff Schonberg Foto de Chuck Thurston</figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/John_Lange/39.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/39.jpg">
 <figcaption>Mural migratorio, de Inkdwell Studio. Foto de Chuck Thurston</figcaption>
 </figure>
 

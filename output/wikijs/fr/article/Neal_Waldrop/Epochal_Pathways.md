@@ -60,7 +60,7 @@ Cependant, dans le paragraphe qui suit immédiatement, Immanuel clarifie la natu
 > « « 5. Dans la mesure où tu le jugeras opportun, tu dois t’assimiler aux mouvements religieux et spirituels existant sur Urantia, mais cherche, de toutes les manières possibles, à éviter l’établissement officiel d’un culte organisé, d’une religion cristallisée ou d’un groupement éthique séparé d’êtres humains. Ta vie et tes enseignements doivent devenir l’héritage commun de toutes les religions et de tous les peuples. » (<a id="a59_427"></a>[LU 120:3.6](/fr/The_Urantia_Book/120#p3_6))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004150.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004150.jpg">
 <figcaption><em>Rêves</em>, Wassilij Dimitriewitsch Polenow, 1894. Domaine public. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipédia</a></figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Neal Waldrop
 {.is-info} 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004151.jpg">
 <figcaption><em>© Shutterstock</em></figcaption>
 </figure>
 

@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Chuck_Thurston/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/27.jpg">
 </figure>
 
 _par Chuck Thurston_
@@ -84,7 +84,7 @@ Les principes sont un facteur crucial dans la réalisation de l’unité spiritu
 Bien que l’unité spirituelle puisse être considérée comme un principe en soi (selon la définition ci-dessus), sa réalisation s’accomplit grâce à la mise en œuvre de nombreux autres principes d’unité. D’un point de vue philosophique, chaque fois que nous sommes confrontés à un problème de désunion, il est logique de rechercher des remèdes dans l’étude et l’application des principes d’unité et des pratiques d’unité pertinents.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption><em>Règle d'or</em> de Norman Rockwell</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Notre potentiel d’unité spirituelle vient de nos relations individuelles avec
 > L’unité de l’expérience religieuse parmi les membres d’un groupe social ou racial dérive de l’identité de nature des fragments de Dieu qui habitent les individus. (<a id="a100_166"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Chuck_Thurston/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/29.jpg">
 </figure>
 
 Si nous nous tournons vers d’autres principes d’unité qui soutiennent une plus grande unité spirituelle, le principe de la responsabilité individuelle pour le bien de l’ensemble figurerait en tête de liste. Tout ce que nous pouvons offrir qui est vraiment bon pour l’ensemble apportera également un bénéfice à nous-mêmes et aux autres, et lorsque l’individu en bénéficie réellement, l’ensemble devient plus fort. L’engagement loyal envers notre relation avec le tout est intrinsèquement et profondément unificateur dans ses implications.

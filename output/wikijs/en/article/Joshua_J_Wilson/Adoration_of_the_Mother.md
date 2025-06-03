@@ -49,7 +49,7 @@ Many religions contain trinity concepts, and a clear one is seen in Christianity
 And so, it doesn’t require an astute theology to plumb the mystery. The hang up has been, in simplest terms, a dominant cultural orientation slow to honor and recognize women on many levels. Fortunately, we have her spirit with us and wonderful examples all around, clarifying the picture for us. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004162.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004162.jpg">
 <figcaption><em>The Assumption of Mary by Tim Langenderfer.</em></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ In Catholicism a doctrine was codified by Pope Pius XII (Eugenio Pacelli) in 195
 It should be noted that psychologist Dr. Carl Jung (contemporary of Dr. William Sadler), through his archetype of The Great Mother, viewed this recognition in 1950 as a significant, even monumental development in the human psyche moving toward recognition of the _divine feminine_. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004163.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004163.jpg">
 <figcaption><em> Krisna and Radha.</em></figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Christ, our Father, who visited as Jesus of Nazareth, and our Universe Mother ar
 We hear and talk about the terms: worship, prayer, and meditation, and they are intrinsic parts of our lives. Importantly, we know that throughout the universes it is taught that worship is to be accorded only to our Universal Father in Paradise. But what about our heart-felt affections for Michael and Mother? _Adoration_ is the word. To “exalt, honor, and cherish” are other appropriate words. “Honor your father and mother.” 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004164.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_20_n_1/004164.jpg">
 <figcaption><em> Coronation by Giotto di Bondone. </em></figcaption>
 </figure>
 

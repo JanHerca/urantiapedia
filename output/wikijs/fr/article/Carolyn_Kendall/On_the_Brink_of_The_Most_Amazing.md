@@ -140,7 +140,7 @@ La Confrérie a très tôt compris qu'il serait impossible de mettre un pied dan
 Une voie conservatrice a été adoptée. La première brochure, publiée en 1956, était « Extraits du *Livre d'Urantia* », qui ne contenait que de nombreuses citations fulgurantes du livre de 1978. Vint ensuite « Une description du *Livre d'Urantia* », contenant une brève revue de chaque partie du livre et une liste des articles. Pendant des années, la Fondation et la Confrérie ont résisté aux efforts déployés par des individus ou des groupes pour produire des brochures, insistant sur le fait que le livre devait parler de lui-même.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image1.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image1.png">
 <figcaption><em>« Christy » Christensen, Chicago.</em></figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ La conférence Allenberry à Boiling Springs, Pennsylvanie, en mai 1984, a consa
 Neal Waldrup, récemment revenu de Chine, a avancé l'idée d'une perspective mondiale : « Poursuivez énergiquement les traductions dans d'autres langues non occidentales afin que le lien chrétien avec la culture occidentale ne déteigne pas sur le livre. Ne suivez pas les traditions étroites d'esprit en dénonçant des opinions différentes ou divergentes.» Harry McMullan d'Oklahoma City, OK, a reconnu la valeur de la transformation personnelle lors de la propagation de l'Évangile, mais a insisté sur le fait qu'il ne faut pas se retenir jusqu'à ce qu'on soit transformé. « De nombreuses personnes non transformées ont accompli un travail impressionnant : Omar Khyam, Jean-Baptiste ; Jean n'était pas dans le royaume, mais il en a transformé beaucoup.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
 
@@ -346,7 +346,7 @@ La Fraternité a installé un stand au Parlement mondial des religions à Chicag
 La Bourse a également participé à des salons du livre à travers le monde. Un premier stand installé par la Fraternité et la Fondation à Londres a attiré l'attention d'une jeune femme membre de la Maison Royale de Windsor qui a feuilleté le livre et posé des questions à ce sujet. La Fellowship et la Fondation ont même travaillé ensemble sur le même stand ces derniers mois. Un salon du livre en Asie du Sud-Est a enregistré un nombre impressionnant de ventes de livres l'année dernière ; provoquant une expédition d’urgence pour exécuter les commandes.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
+<img src="/image/article/Fellowship_Herald/Volume_1_n_1/image3.png">
 <figcaption><em>Groupe touristique méditerranéen, Rome, 1998.</em></figcaption>
 </figure>
 

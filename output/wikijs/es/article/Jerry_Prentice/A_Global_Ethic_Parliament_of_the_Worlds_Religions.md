@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jerry_Prentice/38.jpg">
+<img src="/image/article/Fellowship_Herald/Jerry_Prentice.jpg">
 </figure>
 
 por Jerry Prentice La unidad también es una preocupación mundial. ¿Qué pasaría si nosotros, las religiones y las naciones del mundo, pudiéramos formular una declaración de ética que fuera aceptable para todos los pueblos? El Parlamento de las Religiones del Mundo ha iniciado ese proceso. No encuentro nada objetable en su declaración inicial. ¿Tú?

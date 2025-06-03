@@ -70,7 +70,7 @@ The key figure in this period was initially Dr. Lena Sadler. Her patient was the
 The heading “Prophet” as used by Strauss and Howe is not meant to apply here in a direct sense; but it was the Sadlers’ _idealism_, complemented by the support of many “soldiers of the circles,” that energized the pivotal early efforts to bring forth the Revelation. During this season, or generation, the study group of the Seventy was formed, the Urantia Foundation and the Urantia Brotherhood were created under Dr. William Sadler’s supervision, and _The Urantia Book_ came into print. The mood was high, very high, as the teachings of celestials were finding their way into the hands of individual students around the world, study groups, and the first new societies. 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004215.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004215.jpg">
 <figcaption><em>Dr. Lena Sadler.</em></figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Strauss and Howe describe this generation as a time when,
 This seems an appropriate insight, as the defining characteristic of this period in the Urantia movement was indeed the formation of Urantia institutions. If Egypt had kept to the one-God concept, it could have been the location of Michael’s seventh bestowal. No doubt other persons were considered for their role besides the Sadlers. It is the divine purpose in historical cycles that is essential, not the places or persons.   
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004216.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004216.jpg">
 <figcaption><em>Dr. William S. Sadler, MD (Credit: Urantia Book Historical Society).</em></figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Strauss and Howe describe a Reactive generation as follows:
 > “This is an era when institutions are attacked in the name of personal and spiritual autonomy. Just when society is reaching its high tide of public progress, people suddenly tire of social discipline and want to recapture a sense of self-awareness, spirituality and personal authenticity.” 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004217.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004217.jpg">
 <figcaption><em>Dr. Meredith Sprunger.</em></figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Toward the end of this period, due to their mutual interest in college ministry,
 In 1981 the international triennial conference of readers was held in Snowmass, Colorado. I and many others felt like heaven had come down to earth. We had a Revelation and the happy, shining people of God to share it all with. A most inspiring preacher, Vern Bennom Grimsley, was the keynote speaker. Vern had a radio broadcast in all fifty states and some stations outside the country, as well as on the Armed Services radio network. He fit the definition of a hero archetype, and this made matters all the worse when things went badly for him, and us. 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004218.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004218.jpg">
 <figcaption><em>Vern Bennom Grimsley.</em></figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Winter puts the plant and animal world into crisis. Resources are scant, and sto
 The concert pianist from Germany, Urs Ruchti is a good example of an artist who made an important difference during this season. He was the chief translator of The Urantia Bo o k into the German language, heading up the team that brought us Das Urantia Buch. 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004219.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_17_n_1/004219.jpg">
 <figcaption><em>Urs Ruchti.</em></figcaption>
 </figure>
 

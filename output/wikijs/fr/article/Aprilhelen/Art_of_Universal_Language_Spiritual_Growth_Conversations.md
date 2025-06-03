@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/24.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/24.jpg">
 </figure>
 
 _par Aprilhelen Lovesyou_
@@ -67,7 +67,7 @@ L'une de ces reformulations des enseignements est celle des _Truthseekers_, qui 
 Les _Truthseekers_ ont travaillé aux côtés du Comité des jeunes et des jeunes adultes de la Fellowship (les YaYA), plusieurs de ses membres servant simultanément dans les deux groupes.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/25.jpg">
 <figcaption>Ange gardien par Jim Mayne Freeheart</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Les célestes nous ont donné les bases d’une communication efficace et effici
 Mon interprétation vient de notre frère Marvin Gawryn, comme je paraphrase ici : _vividness_ pour attirer l'attention, universalité de compréhension, préparation à l'intégration et simplicité d'application. Le dernier, notre autre frère Albert Einstein, dit simplement : « Si vous ne pouvez pas l'expliquer à un enfant de six ans, vous ne le comprenez pas vous-même. »
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Aprilhelen/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/26.jpg">
 <figcaption>Le Sermon à Capharnaüm de Vasily Alexandrovich Kotarbiński</figcaption>
 </figure>
 

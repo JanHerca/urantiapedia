@@ -42,7 +42,7 @@ Como urantianos, debemos mantener la proa de nuestro barco bien apuntada hacia l
 A lo largo de nuestro libro leemos pasajes que nos muestran el rostro femenino de Dios. Ella es nuestro Espíritu Madre del Paraíso, nuestro Hijo Madre Eterno y el Supremo. Pero más importante en nuestro propio Universo, ella es nuestra Madre espiritual que nos trae su Espíritu Santo. Y ella está igualmente al lado de nuestro Padre espiritual y su Espíritu de Verdad. Juntos representan el **_equilibrio_** del Espíritu, el Yin y el Yang, la Madre y el Padre, lo femenino y lo masculino. **Ella es una nueva revelación para este mundo.**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship/taichi.png">
+<img src="/image/article/Fellowship_Herald/Volume_10_n_1/taichi.png">
 </figure>
 
 ¡Esas son las buenas «noticias» que nuestro _Libro de Urantia_ está trayendo a nuestro mundo desgarrado! Urantia es un mundo caído en rebelión. En consecuencia, carecemos del conocimiento y la sabiduría que tienen nuestros vecinos más avanzados, pero tenemos _El Libro de Urantia_.

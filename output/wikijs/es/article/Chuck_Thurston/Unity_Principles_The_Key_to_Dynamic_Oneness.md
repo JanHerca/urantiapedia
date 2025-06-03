@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Chuck_Thurston/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/27.jpg">
 </figure>
 
 _por Chuck Thurston_
@@ -84,7 +84,7 @@ Los principios son un factor crucial en el logro de la unidad espiritual, tanto 
 Si bien la unidad espiritual puede verse como un principio en sí mismo (según la definición anterior), su logro se logra mediante la implementación de muchos otros principios de unidad. Desde una perspectiva filosófica, siempre que tenemos un problema de desunión, tiene sentido buscar soluciones en el estudio y la aplicación de principios y prácticas de unidad relevantes.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Tom_Allen/11.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/11.jpg">
 <figcaption><em>Regla de oro</em> de Norman Rockwell</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Nuestro potencial para la unidad espiritual proviene de nuestras relaciones indi
 > La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo. (<a id="a100_154"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1))
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Chuck_Thurston/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/29.jpg">
 </figure>
 
 Si recurrimos a otros principios de unidad que apoyan una mayor unidad espiritual, cerca del principio de la lista estaría el principio de responsabilidad individual por el bien del conjunto. Cualquier cosa que podamos ofrecer que sea verdaderamente buena para el conjunto también traerá beneficios para nosotros y para los demás, y cuando el individuo realmente se beneficia, el conjunto se vuelve más fuerte. El compromiso leal con nuestra relación con el todo es inherente y profundamente unificador en sus implicaciones.

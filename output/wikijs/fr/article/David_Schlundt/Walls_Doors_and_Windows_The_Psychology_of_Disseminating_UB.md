@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/David_Schlundt/28.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/28.jpg">
 </figure>
 
 _Par David G. Schlundt_
@@ -50,7 +50,7 @@ Cet évangile du royaume est une vérité vivante. Je vous ai dit qu’il ressem
 La Fellowship du Livre d'Urantia (la Communauté) travaille actuellement à trouver de nouvelles façons de diffuser _Le Livre d'Urantia_ et ses enseignements. Après avoir étudié le défi, l’une de nos premières étapes a été de réfléchir à qui est notre public. Même si vous pourriez penser que la réponse devrait être que chaque personne dans le monde mérite de connaître le _Livre d'Urantia_ et ses enseignements qui changent la vie, ce n'est pas une approche pratique. Sur la base des résultats d'une enquête auprès des membres de la Fellowship, le comité d'orientation organisationnelle a développé une manière de segmenter notre public. La figure suivante est utile pour visualiser les segments.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/27.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/27.jpg">
 </figure>
 
 Il y a trois grands groupes de personnes avec lesquelles la Fraternité prévoit de communiquer : 1) les personnes engagées dans la Communauté du Livre d'Urantia, 2) les personnes engagées dans _Le Livre d'Urantia_, et 3) les personnes qui ne connaissent pas Le Livre d'Urantia. C’est de ce troisième très grand groupe dont je parle ici. Nous pouvons penser à ceux qui ne connaissent pas le livre en utilisant un continuum de préparation. Le continuum va de ceux qui ne sont pas prêts pour _Le Livre d'Urantia_, à ceux qui pourraient être réceptifs à certains enseignements, jusqu'aux chercheurs actifs de la vérité qui sont prêts à en apprendre davantage sur le livre. En utilisant un continuum de préparation, le but est d’aider les gens à se rapprocher d’être prêts à étudier le _Livre d’Urantia_. Il n’est ni nécessaire ni souhaitable que l’objectif soit de commencer par partager le livre avec tout le monde.
@@ -62,7 +62,7 @@ Les milliards de personnes qui ne connaissent pas _Le Livre d'Urantia_ sont évi
 Le diagramme suivant nous aidera à réfléchir à la recherche de moyens efficaces pour partager les vérités contenues dans _Le Livre d'Urantia_.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/David_Schlundt/29.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/29.jpg">
 </figure>
 
 Le haut de la figure est une maison qui représente l'individu. Cette maison a un intérieur à gauche et un extérieur à droite. Selon la psychologie cognitive moderne, notre compréhension et nos perceptions de nous-mêmes et du monde sont organisées en schémas cognitifs. Les schémas sont des ensembles d'informations sur les idées, les émotions, les valeurs, les objectifs, les conséquences et les actions associés à notre compréhension de nous-mêmes et de notre monde. Par exemple, un schéma de baseball contient des connaissances selon lesquelles l'arrêt-court se situe entre le deuxième et le troisième but, qu'un double jeu est la bonne action lorsqu'il y a un ballon au sol dans le champ intérieur avec un joueur en premier, qu'être touché par une balle lancée ferait mal, et que retirer avec deux retraits en fin de neuvième avec le point gagnant sur les buts serait décevant.
@@ -132,7 +132,7 @@ Pour toucher les humanistes laïcs, le tableau identifie les murs, fenêtres et 
 ## Résumé
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/David_Schlundt/30.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_22_n_1/30.jpg">
 </figure>
 
 Chaque personne a un ensemble complexe d’idées sur soi, le monde, la société, Dieu et la religion. Pour maintenir un sentiment de soi cohérent, ces schémas cognitifs internes résistent au changement et sont défendus par une attention sélective, une interprétation motivée et une exclusion ou un déni. Une partie de la mission de la Communauté du Livre d'Urantia est d'atteindre les milliards de personnes qui ne connaissent pas le Livre d'Urantia et ses enseignements. J'ai soutenu que le but du partage des enseignements du _Livre d'Urantia_ est de stimuler les gens à envisager d'incorporer de nouvelles informations ou perspectives dans leur compréhension d'eux-mêmes, de Dieu, de l'univers, de la religion et des pratiques spirituelles. De petits changements peuvent éventuellement amener une personne à être prête à découvrir _Le Livre d'Urantia_ et à poursuivre son étude seule ou dans le cadre d'un groupe d'étude. L’art de la sensibilisation consiste à segmenter le public cible, à écouter ses besoins et désirs réels, puis à créer des messages suffisamment alignés sur les croyances existantes pour permettre de prendre en compte de nouvelles informations. En utilisant l’analogie de la maison, le but est de faire briller la lumière de la vérité à travers les fenêtres jusqu’à ce que quelqu’un veuille ouvrir la porte. Il y a beaucoup de travail à faire.

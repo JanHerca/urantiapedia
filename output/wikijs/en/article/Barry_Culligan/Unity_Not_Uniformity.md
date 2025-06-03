@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Barry_Culligan/25.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/25.jpg">
 </figure>
 
 _by Barry Culligan_
@@ -63,7 +63,7 @@ Unfortunately, the _individual_ is often perceived as a living insult by the con
 <br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Barry_Culligan/26.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/26.jpg">
 </figure>
 
 The way _The Urantia Book_ speaks of _spiritual_ unity suggests that the Catholic and the Protestant are not required to _conform_ with one another but are to live faithfully as best they can—humbly before God, respectfully as brothers who understand that their differences are not inimical but complementary, united in loving service, bearing the fruits of the spirit, eschewing violence in all its forms—working together to establish righteousness, peace, and justice. How the world craves to see these brothers united! Indeed, there can be little doubt that the toxic elites of this world fear a unified Christendom more than anything else in the world; they spend fortunes endeavoring to keep us at one another's throats. When will we wake up from this frightful nightmare which has been foisted upon us and realize that our enemy is not he who is of a different color, or he who was born into a different tradition, but those who “say that which is good, but they do it not.” (<a id="a68_982"></a>[UB 175:1.8](/en/The_Urantia_Book/175#p1_8))

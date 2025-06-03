@@ -35,7 +35,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Phillip_Marriott/46.jpg">
+<img src="/image/article/Fellowship_Herald/Phillip_Marriott.jpg">
 </figure>
 
 _by Phillip Marriott_
@@ -67,7 +67,7 @@ So, this got me thinking on my way home after the book fair-how to have spirit u
 > He selected five of the leading Stoics, eleven of the Cynics, and sixteen of the mystery-cult leaders and spent much of his spare time for almost six months in intimate association with these religious teachers. And this was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error. (<a id="a66_574"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Phillip_Marriott/47.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/47.jpg">
 </figure>
 
 But of course, I could never hope to be as clever or sagacious as Jesus, and if there is no desire for unity then it will always be a one-way affair. So that was my point, if we could have both agreed to have fellowship—to be of friendly relations—and that our differing opinions or thoughts could be put aside to allow the common idea to come to the forefrontthen this could be a foundation to build upon. But it's only going to work in an environment of cooperation in which there is a willingness to have peace and harmony.
@@ -111,7 +111,7 @@ The book best sums it up with these final papers:
 {.is-info}
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Phillip_Marriott/48.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_23_n_1/48.jpg">
 </figure>
 
 ## References

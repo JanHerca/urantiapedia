@@ -36,7 +36,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004147.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004147.jpg">
 </figure>
 
 Our Universe Mother Spirit is gathering the women. She is gathering them at the Parliament of World Religions, where she brought together thousands of people from every faith tradition at the first Women’s Assembly at the Parliament in Salt Lake City in 2016. She is gathering them at the United Nations, where hundreds of women from around the world gather every spring in New York City at the UN Commission on the Status of Women to advocate for a 5th UN Women’s World Conference. Mother is even calling on women to take to the streets. On January 21st, 2017, an estimated 2.6 million women took part in 673 marches around the world with the largest taking place in Washington. Crowds of marching women were so large in some cities that marching was almost impossible. In Chicago, organizers halted the march and rallied at Grant Park instead as crowds swelled to 150,000. In New York City, the number was 400,000; in Boston, media reported more than 100,000 people marching on Boston Common. There were 60,000 in Oakland, Calif., 750,000 in Los Angeles, and another 100,000 in San Francisco. Women responded from around the globe with 10,000 marching in Australia, more than 100,000 in London, 7,000 in Paris and more in Rome. From Ghana to Greece, from Reykjavik to Costa Rica, from Tanzania to Thailand, women answered Mother’s call. 
@@ -106,7 +106,7 @@ We plan to circulate the document widely both within the Urantia movement and be
 Since the start of the current millennium a growing collective of women in the Urantia movement began to dialogue in regional meetings about the qualities of the Divine Feminine and raising awareness of the reality and presence of Our Universe Mother Spirit. They were responding to the same call of the Spirit as were hundreds of other women’s groups throughout the nations of the world to work for gender equality and the dignity of women and all members of the human family. Several Women's Corps groups sprung up around the country a decade or more ago, but the new energy of the current movement began at IC '14 in Amherst when a group of women spontaneously arose to serve Mother. At the “Sisters in Spirit” retreat held in October 2017 in California, many Urantian women agreed to work together over several months to attempt to articulate our Mother Spirit’s goals. That meeting was the impetus for this collaborative article by spiritual sisters and authors Meredith Tenney, Sharon Porter, Mary Huggins and Elisabeth Callahan. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004148.jpg">
+<img src="/image/article/Fellowship_Herald/Volume_19_n_1/004148.jpg">
 <figcaption><em>© John Fielder</em></figcaption>
 </figure>
 
