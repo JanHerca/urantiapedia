@@ -121,12 +121,14 @@ La fig. 8 muestra un detalle del ala sur del atrio de las mujeres. Se aprecian d
 
 <br style="clear:both;"/>
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr11.jpg">
 <figcaption>Fig. 10 — <em>Detalles de diferentes partes de la maqueta que muestran al gentío de la explanada de los Gentiles.</em></figcaption>
 </figure>
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<br style="clear:both;"/>
+
+<figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr12.jpg">
 <figcaption>Fig. 11 — <em>Otra imagen con detalles similares del patio de los Gentiles.</em></figcaption>
 </figure>
@@ -178,7 +180,7 @@ Ejemplos del grado de detalle de cada minúscula figurita se pueden apreciar en 
 <br style="clear:both;"/>
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr17.jpg">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr20.jpg">
 <figcaption>Fig. 18 — <em>Un batallón romano o <em>centuria</em> en los recintos del templo.</em></figcaption>
 </figure>
 

@@ -1128,9 +1128,15 @@ Puesto que lo que hemos colocado en la proporción son diámetros en $m$, el res
 
 X = 2.548410 10^17^ m, que para hacerlo más manejable y teniendo en cuenta que un año luz (al) es equivalente a 9.4607 10^15^ m.
 
-$\mathrm{X}=26.9367$ al de diámetro, que presenta un volumen de : $V = \frac{4 \pi r^{3}}{3}$
+X = 26.9367 al de diámetro, que presenta un volumen de : 
 
-$V = 10233.67 \mathrm{al}^{3}$
+$$
+V = \frac{4 \pi r^{3}}{3}
+$$
+
+$$
+V = 10233.67 \mathrm{al}^{3}
+$$
 
 Si en este volumen V, se alojan 12 estrellas, resulta que la densidad aproximada en estrellas por año luz cúbico será:
 

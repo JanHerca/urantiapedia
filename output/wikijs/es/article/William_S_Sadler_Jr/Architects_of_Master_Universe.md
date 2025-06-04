@@ -118,7 +118,7 @@ No sabemos, pero suponemos, que los 490 Arquitectos del quinto cuerpo prestarán
 
 <ins>El nivel espacial cuaternario.</ins>- Los planificadores de universos del séptimo y último cuerpo ascienden a 24.010 miembros.
 
-# RESUMEN: NÚMERO DE ARQUITECTOS DEL UNIVERSO MAESTRO 
+## RESUMEN: NÚMERO DE ARQUITECTOS DEL UNIVERSO MAESTRO 
 
 &nbsp; | &nbsp;
 --- | ---

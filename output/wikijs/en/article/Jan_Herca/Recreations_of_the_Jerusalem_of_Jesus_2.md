@@ -121,12 +121,14 @@ Fig. 8 shows a detail of the south wing of the Court of the Women. Two of the im
 
 <br style="clear:both;"/>
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr11.jpg">
 <figcaption>Fig. 10 — <em>Details of different parts of the model showing the crowd on the Gentiles esplanade.</em></figcaption>
 </figure>
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<br style="clear:both;"/>
+
+<figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr12.jpg">
 <figcaption>Fig. 11 — <em>Another image with similar details of the Court of the Gentiles.</em></figcaption>
 </figure>
@@ -178,7 +180,7 @@ Examples of the degree of detail of each tiny figure can be seen in figs. 16 and
 <br style="clear:both;"/>
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr17.jpg">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr20.jpg">
 <figcaption>Fig. 18 — <em>A Roman battalion or <em>centuria</em> in the temple precincts.</em></figcaption>
 </figure>
 

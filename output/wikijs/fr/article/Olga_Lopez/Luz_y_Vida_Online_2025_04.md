@@ -50,7 +50,7 @@ Luz y Vida — Mai 2025
 - Présentations UBIS « In Focus »
 - À propos de la newsletter Luz y Vida
 
-Éditorial – mai 2025 — M. José Sánchez Santamaría
+## Éditorial – mai 2025 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/Editorial-may-25-3.jpg" alt="Éditorial 25 mai 3" width="350">

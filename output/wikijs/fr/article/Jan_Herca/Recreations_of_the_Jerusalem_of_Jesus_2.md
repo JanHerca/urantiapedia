@@ -121,12 +121,14 @@ La Fig. 8 montre un détail de l'aile sud de l'atrium des femmes. Deux des immen
 
 <br style="clear:both;"/>
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr11.jpg">
 <figcaption>Fig. 10 — <em>Détails des différentes parties de la maquette montrant la foule sur l'esplanade des Gentils.</em></figcaption>
 </figure>
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<br style="clear:both;"/>
+
+<figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr12.jpg">
 <figcaption>Fig. 11 — <em>Une autre image avec des détails similaires de la Cour des Gentils.</em></figcaption>
 </figure>
@@ -180,7 +182,7 @@ Des exemples du niveau de détail de chaque petite figurine peuvent être vus da
 <br style="clear:both;"/>
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr17.jpg">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus_2/Gerr20.jpg">
 <figcaption>Fig. 18 — <em>Un bataillon romain ou <em>centuria</em> dans l'enceinte du temple.</em></figcaption>
 </figure>
 
