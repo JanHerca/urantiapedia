@@ -34,10 +34,12 @@ De aquí que los vocablos griegos elegidos para traducir _keneset_ vinieran a si
 
 También se la podía designar como _proseucha_ o _proseuché_. Aquí se refiere más al edificio en sí que albergaba las reuniones.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Jewish_synagogue/Ruins_of_the_Ancient_Synagogue_at_Baram.jpg">
 <figcaption>Ruinas de la antigua sinagoga de Kfar Bar'am en Galilea <a href="https://commons.wikimedia.org/wiki/File:Ruins_of_the_Ancient_Synagogue_at_Bar%27am.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Origen
 
@@ -69,10 +71,12 @@ En arameo _hzn hknst_, _hazán_ o _chazán ha-keneset_. En griego se usaron sin�
 
 En arameo _slyh shwr_. No había funcionarios oficiales para estas tareas. Esta labor se encargaba a uno de la comunidad, o cada una de las tres tareas a personas diferentes. También podía recaer en alguien destacado que estuviera de paso. Es de este modo como Jesús pudo dirigir la palabra en muchas ocasiones durante sus visitas por las poblaciones judías.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Jewish_synagogue/Gush_Halav1.jpg">
 <figcaption>Ruinas de la antigua sinagoga de Giscala <a href="https://commons.wikimedia.org/wiki/File:Gush_Halav1.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Poderes
 
