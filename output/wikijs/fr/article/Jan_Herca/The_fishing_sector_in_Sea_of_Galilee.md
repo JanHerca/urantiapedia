@@ -95,7 +95,7 @@ S’il n’y avait pas assez de membres de la famille dans la coopérative, les 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/672.jpg">
-<figcaption>Fig. 3. — Poissons de la mer de Galilée, de la <a href="https://wol.jw.org/fr/wol/d/r1/lp-f/1001072103">BIBLIOTHÈQUE EN LIGNE Watchtower</a>. 1) Le <i>biny</i> (<i>Barbus longiceps</i>), 2) le <i>musht</i> (<i>Tilapia galilea</i>), et 3) les sardines (<i>Acanthobrama terrae sanctae</i>)</figcaption>
+<figcaption>Fig. 3. — Poissons de la mer de Galilée, de la <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1001072103">BIBLIOTHÈQUE EN LIGNE Watchtower</a>. 1) Le <i>biny</i> (<i>Barbus longiceps</i>), 2) le <i>musht</i> (<i>Tilapia galilea</i>), et 3) les sardines (<i>Acanthobrama terrae sanctae</i>)</figcaption>
 </figure>
 
 Les poissons, en général, à l'époque de Jésus, étaient classés comme permis et interdits, c'est-à-dire comme purs et impurs. La loi mosaïque ([Lv 11:9-12](/fr/Bible/Leviticus/11#v9)) établissait que seuls les poissons vertébrés, dotés d'écailles et de nageoires, pouvaient être considérés comme comestibles, tandis que les autres étaient considérés comme interdits. C'est la raison profonde du texte de l'Évangile, dans [Mt 13,48](/fr/Bible/Matthew/13#v48), où il est question de bons poissons (autorisés par la loi) et de mauvais poissons. À la fin de chaque pêche, les pêcheurs devaient donc se rassembler sur la plage et séparer les poissons impurs, puis les remettre à l'eau.

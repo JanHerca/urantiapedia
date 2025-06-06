@@ -96,9 +96,10 @@ If there were not enough family members in the cooperative, the fishermen had to
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/672.jpg">
 <figcaption>Fig. 3. — Fish of the Sea of ​​Galilee, from <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1001072103">Watchtower ONLINE LIBRARY</a>. 1)
-The biny (Barbus longiceps), 2) the musht (Tilapia galilea), and 3) the sardines (Acanthobrama terrae sanctae
+The biny (Barbus longiceps), 2) the musht (Tilapia galilea), and 3) the sardines (Acanthobrama terrae sanctae</i>)</figcaption>
+</figure>
 
-) impure The Mosaic Law ([Lv 11:9-12](/en/Bible/Leviticus/11#v9)) established that only vertebrate fish, with scales and fins, could be considered edible, while the rest were considered prohibited. This is the underlying reason for the text in the Gospel, in [Mt 13:48](/en/Bible/Matthew/13#v48), which speaks of good fish (permitted by law) and bad ones. At the end of each catch, therefore, the fishermen had to gather on the beach, and separate the impure fish, returning them to the water.
+Fish, in general terms in Jesus' time, were classified as permitted and prohibited, that is, as pure and impure. The Mosaic Law ([Lv 11:9-12](/en/Bible/Leviticus/11#v9)) established that only vertebrate fish, with scales and fins, could be considered edible, while the rest were considered prohibited. This is the underlying reason for the text in the Gospel, in [Mt 13:48](/en/Bible/Matthew/13#v48), which speaks of good fish (permitted by law) and bad ones. At the end of each catch, therefore, the fishermen had to gather on the beach, and separate the impure fish, returning them to the water.
 
 The Sea of ​​Galilee has been famous for its fish since ancient times. There are eighteen species of fish native to the lake, which are locally classified into three main groups:
 
