@@ -184,6 +184,8 @@ Y estos acontecimientos son los que Jesús, realmente, quería que sus apóstole
 
 Y la prueba de que este fue el auténtico significado de sus palabras la ofrece el evangelio de Juan en otros pasajes.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Last_Supper/Jesus_words.jpg">
 <figcaption>Fig. 2. — ¿Han sido malinterpretadas las palabras de Jesús en la última cena?</figcaption>
@@ -326,7 +328,7 @@ Difícilmente la iglesia cristiana de hoy admitirá estas conclusiones. Pero alg
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
 <figcaption>Fig. 3. — La última cena, James Tissot, 1886 — 1894. <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Last_Supper_Judas_Dipping_his_Hand_in_the_Dish_(La_Céne._Judas_met_la_main_dans_le_plat)_-_James_Tissot_(cropped).jpg">Wikimedia</a></figcaption>
 </figure>
 

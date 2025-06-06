@@ -164,7 +164,7 @@ If there is one thing on which _The Urantia Book_ and current science differ, it
 
 <br style="clear:both;"/>
 
-It goes without saying that according to this scenario, any possibility of life on Earth will be zero, no matter what technology we are able to create. Even long before the Sun enters the red giant phase, just 600 million years from now, the increasing luminosity of the Sun will have reduced CO\textsubscript{2} to amounts critical to support plant life. When the luminosity exceeds 10\%, the average temperature on Earth will be 47 °C. The atmosphere will become a humid greenhouse, leading to the rapid evaporation of the oceans, and the Earth will become a planet like Venus.
+It goes without saying that according to this scenario, any possibility of life on Earth will be zero, no matter what technology we are able to create. Even long before the Sun enters the red giant phase, just 600 million years from now, the increasing luminosity of the Sun will have reduced CO~2~ to amounts critical to support plant life. When the luminosity exceeds 10\%, the average temperature on Earth will be 47 °C. The atmosphere will become a humid greenhouse, leading to the rapid evaporation of the oceans, and the Earth will become a planet like Venus.
 
 As if this scenario weren't enough to sweep humanity away from Earth, when the Sun reaches its peak red giant state, despite having lost enormous amounts of mass from its outer regions and having pushed the planets from their orbits, it will swallow the Earth. The friction of our beloved planet with the solar corona and the enormous temperatures will cause the loss of the crust and mantle until every molecule on Earth is completely destroyed, the atoms becoming part of the entire Sun. [^19]
 

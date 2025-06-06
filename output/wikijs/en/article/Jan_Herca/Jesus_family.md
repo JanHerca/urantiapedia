@@ -1,5 +1,5 @@
 ---
-title: "La familia de Jesús"
+title: "The Family of Jesus"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -26,167 +26,176 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Es muy poco lo que sabemos de la familia de Jesús, es decir, de los hermanos y hermanas de sus padres y de sus abuelos. No hay prácticamente ni rastro en los evangelios, y las menciones de los primeros cristianos tampoco son muy numerosas. Esto ha venido a construir una idea anómala de la vida de Jesús, imaginándole como un muchacho que creció sin apenas contacto familiar a excepción de sus padres. Pero esta visión no parece concordar con las numerosas parábolas en las que Jesús utilizaba las relaciones familiares para expresar sus enseñanzas, y que seguramente estaban sacadas de la propia experiencia personal.
+We know very little about Jesus' family, that is, about his uncles and grandparents. There is virtually no trace of them in the Gospels, and mentions of them by the early Christians are also scarce. This has led to an anomalous image of Jesus' life, depicting him as a boy who grew up with little family contact except for his parents. But this view doesn't seem to fit with the numerous parables in which Jesus used family relationships to express his teachings, and which were surely drawn from his own personal experience.
 
-¿Pero qué podemos saber sobre su familia según los evangelios?
+But what can we know about his family according to the gospels?
 
-> Matán engendró a Jacob. Y Jacob engendró a José, el esposo de María, de la cual nació Jesús, llamado Mesías. [Mt 1:16](/en/Bible/Matthew/1#v16)
+> Mattan became the father of Jacob. And Jacob became the father of Joseph, the husband of Mary; and of her was born Jesus, who is called the Messiah. [Mt 1:16](/en/Bible/Matthew/1#v16)
 
-Según Mateo el abuelo paterno de Jesús se llamaba Jacob y su bisabuelo Matán, pero esto no concuerda con el texto de Lucas.
+According to Matthew, Jesus' paternal grandfather was called Jacob and his great-grandfather Mattan, but this does not agree with Luke's text.
 
-> Cuando Jesús comenzó  ministerio, tenía unos treinta años y, en opinión de la gente, era hijo de José. Estos son sus ascendientes: Helí, Matat... [Lc 3:23](/en/Bible/Luke/3#v23)
+> When Jesus began his ministry, he was about thirty years old, and people believed he was the son of Joseph. These were his ancestors: Heli, Mattath... [Luke 3:23](/en/Bible/Luke/3#v23)
 
-Lucas menciona a un tal Helí como abuelo paterno y a Matat como bisabuelo. La nula coincidencia entre los dos evangelistas hace dudar de la confiabilidad de los dos.
+Luke mentions a certain Heli as his paternal grandfather and Matthat as his great-grandfather. The lack of agreement between the two evangelists casts doubt on their reliability.
 
-> Aún estaba Jesús hablando a la gente, cuando llegaron su madre y sus hermanos. [Mt 12:46](/en/Bible/Matthew/12#v46)
+> While Jesus was still speaking to the crowds, his mother and brothers arrived. [Mt 12:46](/en/Bible/Matthew/12#v46)
 > 
-> ¿No es este el hijo del carpintero? ¿No se llaman su madre María, y sus hermanos Santiago, José, Simón y Judas? ¿No están todas sus hermanas entre nosotros? [Mt 13:55](/en/Bible/Matthew/13#v55)
+> Isn't this the carpenter's son? Aren't his mother called Mary, and his brothers James, Joseph, Simon, and Judas? Aren't all his sisters with us? [Mt 13:55](/en/Bible/Matthew/13#v55)
 > 
-> Llegaron su madre y sus hermanos y, desde fuera, lo mandaron llamar. [Mc 3:31](/en/Bible/Mark/3#v31)
+> His mother and brothers came and called him from outside. [Mk 3:31](/en/Bible/Mark/3#v31)
 > 
-> Entonces se presentaron su madre y sus hermanos, pero no pudieron llegar hasta Jesús a causa del gentío. [Lc 8:19](/en/Bible/Luke/8#v19)
+> Then his mother and brothers came to him, but they couldn't get to Jesus because of the crowd. [Luke 8:19](/en/Bible/Luke/8#v19)
 
-Se nos menciona a sus hermanos (hermanos carnales o hermanastros según distintas teorías), pero nunca acompañados de otros parientes sino sólo de su madre.
+We are told of his brothers (full brothers or stepbrothers according to different theories), but never accompanied by other relatives, only by his mother.
 
-> Santiago, el hijo de Alfeo, y Tadeo [Mt 10:3](/en/Bible/Matthew/10#v3)
+> James, the son of Alphaeus, and Thaddeus [Mt 10:3](/en/Bible/Matthew/10#v3)
 > 
-> Santiago el hijo de Alfeo, Tadeo [Mc 3:18](/en/Bible/Mark/3#v18)
+> James the son of Alphaeus, Thaddeus [Mk 3:18](/en/Bible/Mark/3#v18)
 > 
-> Santiago, el hijo de Alfeo, Simón llamado Zelota, Judas el hijo de Santiago [Lc 6:15](/en/Bible/Luke/6#v15)
+> James, son of Alphaeus, Simon called Zealot, Judas the son of James [Luke 6:15](/en/Bible/Luke/6#v15)
 > 
-> Muchas mujeres que habían seguido a Jesús desde Galilea para asistirlo, contemplaban la escena desde lejos. Entre ellas, estaban María Magdalena y María, la madre de Santiago y José, y la madre de los Zebedeos. [Mt 27:56](/en/Bible/Matthew/27#v56)
+> Many women who had followed Jesus from Galilee to help him were watching from a distance. Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee. [Mt 27:56](/en/Bible/Matthew/27#v56)
 > 
-> Algunas mujeres contemplaban la escena desde lejos. Entre ellas María Magdalena, María, la madre de Santiago el menor y de José, y Salomé [Mc 15:40](/en/Bible/Mark/15#v40)
+> Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and Joseph, and Salome. [Mk 15:40](/en/Bible/Mark/15#v40)
 > 
-> Junto a la cruz de Jesús estaban su madre, la hermana de su madre, María la mujer de Cleofás, y María Magdalena. [Jn 19:25](/en/Bible/John/19#v25)
+> Standing near the cross of Jesus were his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene. [Jn 19:25](/en/Bible/John/19#v25)
 
-Se tiende a identificar a estos Santiago el menor y José con los dos hermanos de Jesús mencionados en [Mt 13:55](/en/Bible/Matthew/13#v55). Pero conviene analizar los pasajes para advertir que no tiene sentido. Si así fuera, la «María, la madre de Santiago y José», se estaría refiriendo a la madre de Jesús, y entonces [Mc 15:40](/en/Bible/Mark/15#v40) sería más apropiado que dijera «María la madre de Jesús».
+There is a tendency to identify these James the Lesser and Joseph with the two brothers of Jesus mentioned in [Mt 13:55](/en/Bible/Matthew/13#v55). But it is worth analyzing the passages to realize that this does not make sense. If this were the case, then “Mary, the mother of James and Joseph” would be referring to the mother of Jesus, and then [Mk 15:40](/en/Bible/Mark/15#v40) would be more appropriate to say “Mary the mother of Jesus.”
 
-Como vemos las referencias a parientes de Jesús son escasísimas. Tan sólo se nos menciona a una María, hermana de su madre, y por tanto tía de Jesús, en [Jn 19:25](/en/Bible/John/19#v25). Pero esta referencia parece una corrupción. ¿Cómo es posible que la madre de Jesús tuviera una hermana con su mismo nombre? Ningún padre, por razones prácticas y obvias, pondría el mismo nombre a dos hijas. ¿Cómo conciliar esto? En mi opinión, el texto de [Jn 19:25](/en/Bible/John/19#v25) es una corrupción que debería ser traducida por
+As we can see, references to Jesus' relatives are very few. The only mention of a Mary, his mother's sister and therefore Jesus' aunt, is in [Jn 19:25](/en/Bible/John/19#v25). But this reference seems to be a corruption. How is it possible that Jesus' mother had a sister with the same name? No father, for obvious practical reasons, would give two daughters the same name. How can this be reconciled? In my opinion, the text of [Jn 19:25](/en/Bible/John/19#v25) is a corruption that should be translated as
 
-> Junto a la cruz de Jesús estaban su madre, la cuñada de su madre, María la mujer de Cleofás, y María Magdalena.
+> Standing near the cross of Jesus were his mother, his mother's sister-in-law, Mary the wife of Clopas, and Mary Magdalene.
 
-Es decir que esta María era en realidad la mujer de un hermano de María llamado Cleofás.
+That is to say, this Mary was actually the wife of a brother of Mary called Cleopas.
 
-Las referencias a otra María que se ha identificado por muchos estudiosos como la madre de dos hermanos de Jesús también contienen corrupciones y se interpretan erróneamente, en mi opinión. Esta María, que no tiene nada que ver con la anterior, es la madre de dos apóstoles llamados Tadeo y Lebeo (Thaddeus y Lebbaeus). Que no tiene nada que ver con la María anterior se muestra en el hecho de que uno de ellos, llamado Santiago, se dice que es hijo de Alfeo, y al otro, de nombre Judas, se dice que es hijo de Santiago. Por tanto nada que ver con Cleofás.
+References to another Mary, identified by many scholars as the mother of two of Jesus' brothers, also contain corruptions and are, in my opinion, misinterpreted. This Mary, who has nothing to do with the previous one, is the mother of two apostles named Thaddeus and Lebbaeus. This unrelated Mary is demonstrated by the fact that one of them, named James, is said to be the son of Alphaeus, and the other, named Judas, is said to be the son of James. Therefore, she has nothing to do with Cleopas.
 
-Pero las referencias que aparecen en los evangelios de estos dos personajes son contradictorias. A uno se le llama de forma constante Santiago, diciendo que es hijo de Alfeo. Mencionar aquí el nombre del padre tiene mucho sentido si consideramos que tenemos a otro Santiago entre los apóstoles, el hijo de Zebedeo. El nombre del padre, por tanto, como era costumbre judía, servía como apellido para distinguir a personas tocayas. Pero las menciones al otro apóstol, que se realizan siempre a continuación del primero, son todas distintas. A este apóstol se le llama Tadeo y Judas el hijo de Santiago (y puede que en [Mt 27:56](/en/Bible/Matthew/27#v56) y [Mc 15:40](/en/Bible/Mark/15#v40) se le esté llamando José si imaginamos que quien estaba al pie de la cruz era su madre). 
+But the references to these two figures in the Gospels are contradictory. One is consistently called James, saying he is the son of Alphaeus. Mentioning the father's name here makes perfect sense if we consider that we have another James among the apostles, the son of Zebedee. The father's name, therefore, as was Jewish custom, served as a surname to distinguish people with similar names. But the references to the other apostle, which always follow the first, are all different. This apostle is called “Thaddaeus” and “Judas the son of James” (and it may be that in Matthew 27:56 and Mark 15:40, he is being called “Joseph” if we imagine that the person at the foot of the cross was his mother).
 
-En cualquier caso, no parece que se pueda identificar a estos Santiago y Judas Tadeo con los dos hermanos de Jesús que en los inicios del cristianismo obtuvieron tanta fama, y de los cuales se conservan cartas en el Nuevo Testamento. No se comprende que si Jesús tenía hermanos entre sus apóstoles, los evangelistas les mencionen pidiendo ser recibidos por él ([Mt 12:46](/en/Bible/Matthew/12#v46), [Mc 3:31](/en/Bible/Mark/3#v31) y [Lc 8:19](/en/Bible/Luke/8#v19)). Por otra parte, al Santiago «hermano de Jesús» se le apodó «el Justo», mientras que en estos pasajes se le apoda «el menor». Además, si hubiera sido hermano de Jesús, su padre habría sido José, y no Alfeo, como aquí se nos dice.
+In any case, it does not seem that these James and Judas Thaddeus can be identified with the two brothers of Jesus who gained so much fame in the early days of Christianity, and of whom letters are preserved in the New Testament. It is incomprehensible that if Jesus had brothers among his apostles, the evangelists mention them asking to be received by him ([Mt 12:46](/en/Bible/Matthew/12#v46), [Mc 3:31](/en/Bible/Mark/3#v31) and [Lc 8:19](/en/Bible/Luke/8#v19)). On the other hand, James “the brother of Jesus” was nicknamed “the Just,” while in these passages he is nicknamed “the younger.” Furthermore, if he had been Jesus' brother, his father would have been Joseph, and not Alphaeus, as we are told here.
 
-Ante este panorama de desconocimiento, no queda otra alternativa que acudir a otra literatura para obtener más datos sobre los familiares de Jesús. Y un libro que nos proporciona una gran cantidad de respuestas es _El Libro de Urantia_. Eso sí, siempre y cuando estemos dispuestos a conceder a este libro la credibilidad de ser una revelación.
+Given this lack of knowledge, we have no choice but to turn to other literature for more information about Jesus's relatives. One book that provides us with a wealth of answers is The Urantia Book. That is, only if we are willing to grant this book the credibility of being a revelation.
 
-## ¿Qué cuenta _El Libro de Urantia_ sobre los familiares de Jesús?
+## What does The Urantia Book tell us about Jesus' relatives?
 
-> En el viaje de vuelta, María visitó a sus padres, Joaquín y Ana. Sus dos hermanos, sus dos hermanas y sus padres consideraban con excepticismo la misión divina de Jesús, aunque por supuesto en ese entonces nada sabían de la visitación de Gabriel. Pero María sí le confió a su hermana Salomé que creía que su hijo estaba destinado a ser un gran maestro. <a id="a80_355"></a>[[UB 122:3.3](/en/The_Urantia_Book/122#p3_3)]
+> Upon her return, Mary went to visit her parents, Joachim and Hannah. Her two brothers and two sisters, as well as her parents, were always very skeptical about the divine mission of Jesus, though, of course, at this time they knew nothing of the Gabriel visitation. But Mary did confide to her sister Salome that she thought her son was destined to become a great teacher. <a id="a80_355"></a>[[UB 122:3.3](/en/The_Urantia_Book/122#p3_3)]
 
-> (José) En su juventud, conviviendo con sus ocho hermanos y hermanas. <a id="a82_71"></a>[[UB 122:5.1](/en/The_Urantia_Book/122#p5_1)]
+> (Joseph) As a youth, among his eight brothers and sisters... <a id="a82_71"></a>[[UB 122:5.1](/en/The_Urantia_Book/122#p5_1)]
 
-> Poco tiempo después se mudaron a su nueva casa en Nazaret, que había sido construida por José con la ayuda de dos de sus hermanos. <a id="a84_133"></a>[[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)]
+> Shortly thereafter they moved into their new home in Nazareth, which had been built by Joseph with the assistance of two of his brothers. <a id="a84_133"></a>[[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)]
 
-> La mayor parte de la familia de José se convirtieron en creyentes de las enseñanzas de Jesús, pero muy pocos de los parientes de María creyeron en él hasta después de su partida de este mundo. <a id="a86_195"></a>[[UB 122:5.10](/en/The_Urantia_Book/122#p5_10)]
+> The larger part of Joseph’s family became believers in the teachings of Jesus, but very few of Mary’s people ever believed in him until after he departed from this world. <a id="a86_195"></a>[[UB 122:5.10](/en/The_Urantia_Book/122#p5_10)]
 
-> El construir y amueblar la casa había sido un gasto grande para José quien también tenía que contribuir para mantener a sus padres, puesto que su padre había sido incapacitado poco tiempo antes. <a id="a88_197"></a>[[UB 122:7.4](/en/The_Urantia_Book/122#p7_4)]
+> The building and furnishing of a home had been a great drain on Joseph since he had also to contribute to the support of his parents, as his father had been recently disabled. <a id="a88_197"></a>[[UB 122:7.4](/en/The_Urantia_Book/122#p7_4)]
 
-> Llegaron sin haber sido anunciados a la casa de Nazaret, ocupada desde hacía más de tres años por uno de los hermanos casados de José. Éste demostró gran sorpresa al verlos; <a id="a90_176"></a>[[UB 123:1.1](/en/The_Urantia_Book/123#p1_1)]
+> They arrived unannounced at the Nazareth home, which had been occupied for more than three years by one of Joseph’s married brothers, who was indeed surprised to see them; <a id="a90_176"></a>[[UB 123:1.1](/en/The_Urantia_Book/123#p1_1)]
 
-> Fue a mediados del verano de este mismo año cuando José construyó un pequeño taller cerca de la fuente del pueblo y del solar donde paraban las caravanas. A partir de entonces hizo muy pocos trabajos de carpintería al día. Tenía como socios a dos de sus hermanos y a varios obreros más, a quienes enviaba a trabajar fuera mientras él permanecía en el taller fabricando arados, yugos y otros objetos de madera. <a id="a92_412"></a>[[UB 123:1.6](/en/The_Urantia_Book/123#p1_6)]
+> It was midsummer of this same year that Joseph built a small workshop close to the village spring and near the caravan tarrying lot. After this he did very little carpenter work by the day. He had as associates two of his brothers and several other mechanics, whom he sent out to work while he remained at the shop making yokes and plows and doing other woodwork. <a id="a92_412"></a>[[UB 123:1.6](/en/The_Urantia_Book/123#p1_6)]
 
-> (María) vistió a sus dos hijos y huyó con ellos a la casa de campo de su hermano, varios kilómetros al sur de Nazaret, en la carretera de Meguidó cerca de Sarid. No volvieron a Nazaret por más de dos meses; Jesús disfrutó mucho de esta su primera experiencia en una granja. <a id="a94_276"></a>[[UB 123:1.7](/en/The_Urantia_Book/123#p1_7)]
+> (Mary) bundled up both her children and fled to the country home of her brother, several miles south of Nazareth on the Megiddo road near Sarid. They did not return to Nazareth for more than two months; Jesus greatly enjoyed this, his first experience on a farm. <a id="a94_276"></a>[[UB 123:1.7](/en/The_Urantia_Book/123#p1_7)]
 
-> En junio de este año José entregó su taller de Nazaret a sus hermanos. <a id="a96_73"></a>[[UB 123:3.7](/en/The_Urantia_Book/123#p3_7)]
+> In June of this year Joseph turned the shop in Nazareth over to his brothers. <a id="a96_73"></a>[[UB 123:3.7](/en/The_Urantia_Book/123#p3_7)]
 
-> (Jesús) hacía sus tareas tan bien que se le permitía una semana de vacaciones por mes. Generalmente pasaba esa semana con su tío el pescador en las orillas del mar de Galilea cerca de Magdala, o en la granja de su otro tío (hermano de su madre) ocho kilómetros al sur de Nazaret. <a id="a98_282"></a>[[UB 123:6.1](/en/The_Urantia_Book/123#p6_1)]
+> (Jesus) was a diligent pupil and belonged to the more progressive third of the class, doing his work so well that he was excused from attendance one week out of each month. This week he usually spent either with his fisherman uncle on the shores of the Sea of Galilee near Magdala or on the farm of another uncle (his mother’s brother) five miles south of Nazareth. <a id="a98_282"></a>[[UB 123:6.1](/en/The_Urantia_Book/123#p6_1)]
 
-Da la sensación de que el texto menciona al tío de Jesús de Magdala como si fuera hermano de José, su padre. De ahí la expresión «hermano de su madre» para el otro tío de Sarid.
+It seems as though the text refers to Jesus of Magdala's uncle as if he were the brother of Joseph, his father. Hence the expression “his mother's brother” for the other uncle of Sarid.
 
-> Ya un tío suyo se habían hecho cargo de la tienda de provisiones de la familia. <a id="a102_82"></a>[[UB 126:5.8](/en/The_Urantia_Book/126#p5_8)]
+> The family supply shop had already been taken over by his uncle... <a id="a102_82"></a>[[UB 126:5.8](/en/The_Urantia_Book/126#p5_8)]
 
-> Durante este año entero Jesús no pudo alejarse casi nunca de su banco de carpintero. <a id="a104_87"></a>[[UB 127:1.6](/en/The_Urantia_Book/127#p1_6)]
+> Throughout this year Jesus was closely confined to the workbench. <a id="a104_87"></a>[[UB 127:1.6](/en/The_Urantia_Book/127#p1_6)]
 
-> Uno de los tíos de Jesús (Simón, el hermano de María) ya se había unido al grupo [nacionalista], llegando a convertirse con el tiempo en oficial de la división galilea, lo cual dio lugar a que se produjera cierto distanciamiento entre Jesús y su tío durante varios años. <a id="a106_273"></a>[[UB 127:2.4](/en/The_Urantia_Book/127#p2_4)]
+> One of Jesus’ uncles (Mary’s brother Simon) had already joined this [nationalist] group, subsequently becoming an officer in the Galilean division. And for several years there was something of an estrangement between Jesus and his uncle. <a id="a106_273"></a>[[UB 127:2.4](/en/The_Urantia_Book/127#p2_4)]
 
-Como hemos visto en el pasaje anterior, Jesús parece que permaneció durante todo un año en Nazaret. Se menciona que su tío, Simón, hermano de María, el que se había hecho zelote, lo instó a unirse al grupo. Si Jesús no pudo ir durante un año ni a Magdala ni a Sarid, el tío zelote, por tanto, debería vivir en Nazaret y ser otro tío diferente a los dos anteriores.
+As we saw in the previous passage, Jesus seems to have remained in Nazareth for a full year. It is mentioned that his uncle, Simon, Mary's brother, who had become a Zealot, urged him to join the group. If Jesus was unable to go to either Magdala or Sarid for a year, the Zealot uncle, therefore, must have lived in Nazareth and be a different uncle than the previous two.
 
-> La posición de Jesús se vio aun más dificultada porque su madre, su tío e incluso su hermano menor Santiago, lo instaban a abrazar la causa nacionalista. <a id="a110_156"></a>[[UB 127:2.7](/en/The_Urantia_Book/127#p2_7)]
+> Jesus’ position was made more difficult because his mother and uncle, and even his younger brother James, all urged him to join the nationalist cause. <a id="a110_156"></a>[[UB 127:2.7](/en/The_Urantia_Book/127#p2_7)]
 
-> Antes de la cosecha, llevó a Judá a visitar al tío granjero que vivía al sur de Nazaret; pero Judá no se quedó mucho tiempo después de la cosecha, sino que se escapó de la granja del tío. Poco tiempo después lo encontró Simón viviendo con los pescadores del lago. Cuando Simón lo trajo de vuelta al hogar, Jesús tuvo una conversación con el fugitivo muchacho y, puesto que quería ser pescador, lo llevó a Magdala, entregándolo a la custodia de un pariente que era pescador. <a id="a112_476"></a>[[UB 128:7.8](/en/The_Urantia_Book/128#p7_8)]
+> Before the harvest, [Jesus] took Jude to the farmer uncle south of Nazareth, but Jude did not remain long after the harvest. He ran away, and Simon later found him with the fishermen at the lake. When Simon brought him back home, Jesus talked things over with the runaway lad and, since he wanted to be a fisherman, went over to Magdala with him and put him in the care of a relative, a fisherman. <a id="a112_476"></a>[[UB 128:7.8](/en/The_Urantia_Book/128#p7_8)]
 
-> Junto a la cruz estuvieron en distintos momentos de la crucifixión María, Rut, Judá, Salomé (la madre de Juan), y un grupo de mujeres, sinceras creyentes, que incluía a María la mujer de Cleofás y la hermana de la madre de Jesús, a María Magdalena, y a Rebeca, anteriormente de Séforis. <a id="a114_289"></a>[[UB 187:3.2](/en/The_Urantia_Book/187#p3_2)]
+> Standing near the cross at one time or another during the crucifixion were Mary, Ruth, Jude, John, Salome (John’s mother), and a group of earnest women believers including Mary the wife of Clopas and sister of Jesus’ mother, Mary Magdalene, and Rebecca, onetime of Sepphoris. <a id="a114_289"></a>[[UB 187:3.2](/en/The_Urantia_Book/187#p3_2)]
 
-> Las mujeres que así permanecieron junto a la tumba este viernes por la noche fueron: María Magdalena; María la mujer de Cleofás; Marta, otra hermana de la madre de Jesús, y Rebeca de Séforis. <a id="a116_194"></a>[[UB 188:1.7](/en/The_Urantia_Book/188#p1_7)]
+> The women who thus tarried by the tomb on this Friday evening were: Mary Magdalene, Mary the wife of Clopas, Martha another sister of Jesus’ mother, and Rebecca of Sepphoris. <a id="a116_194"></a>[[UB 188:1.7](/en/The_Urantia_Book/188#p1_7)]
 
-Las conclusiones que extraemos son:
+The conclusions we draw are:
 
-En cuanto a la familia de María, sus padres se llamaban Joaquín y Ana, y tenía dos hermanos y dos hermanas. Uno de sus hermanos, anónimo, vivía cerca de Sarid y por tanto de Nazaret en una granja (es el tío de Jesús que podríamos llamar «granjero», y de quien Jesús derivó todos sus conocimientos agrícolas). Otro de los hermanos es Simón, de Nazaret, que fue un jefe importante de los zelotas en Galilea, y animó a Jesús a unirse a la causa. En cuanto a las dos hermanas, una llamada Salomé se nos menciona en <a id="a120_511"></a>[UB 122:3.3](/en/The_Urantia_Book/122#p3_3), y la otra, llamada Marta, se nos menciona en <a id="a120_601"></a>[UB 188:1.7](/en/The_Urantia_Book/188#p1_7). Por tanto, no encaja que se hable de otra María, mujer de Cleofás, como hermana de María en <a id="a120_738"></a>[UB 187:3.2](/en/The_Urantia_Book/187#p3_2). Pero tampoco tiene mucho sentido interpretar de nuevo en _El Libro de Urantia_, al igual que en los evangelios, una corrupción de «hermana» por «hermana política» o cuñada, porque eso significaría que el hermano anónimo «granjero» no es otro que Cleofás. Entonces, ¿por qué no le menciona por su nombre cuando habla de él en [UB 123](/en/The_Urantia_Book/123)?
+As for Mary's family, her parents were named Joachim and Anna, and she had two brothers and two sisters. One of her brothers, who is anonymous, lived on a farm near Sarid and therefore Nazareth (he is Jesus's uncle, whom we might call “the farmer,” and from whom Jesus derived all his agricultural knowledge). Another brother is Simon of Nazareth, who was an important leader of the Zealots in Galilee and encouraged Jesus to join the cause. As for the two sisters, one named Salome is mentioned in [UB 122:3.3](/en/The_Urantia_Book/122#p3_3), and the other, named Martha, is mentioned in [UB 188:1.7](/en/The_Urantia_Book/188#p1_7). Therefore, it does not fit that another Mary, the wife of Cleopas, is spoken of as Mary’s sister in [UB 187:3.2](/en/The_Urantia_Book/187#p3_2). But it also does not make much sense to interpret again in _The Urantia Book_, as in the gospels, a corruption of “sister” to “sister-in-law”, because that would mean that the anonymous “farmer” brother is none other than Cleopas. So why does she not mention him by name when speaking of him in [UB 123](/en/The_Urantia_Book/123)?
 
-Una posible explicación es que la mención «Sus dos hermanos, sus dos hermanas» de <a id="a122_82"></a>[UB 122:3.3](/en/The_Urantia_Book/122#p3_3) no se refiere al total de sus hermanos, sino a los que vivían en Nazaret (recordemos que uno vivía en Sarid, fuera de Nazaret), por lo que habría que ampliar el número de hermanos y hermanas a un número indefinido en el que sí podría entrar este Cleofás. Otra posible explicación es que cuando nació Jesús su madre sólo tuviera cuatro hermanos y hermanas, pero después María tuviera nuevas hermanas o hermanos, por lo que Jesús tendría tías o tíos más jóvenes que él.
+One possible explanation is that the mention “His two brothers, his two sisters” in [UB 122:3.3](/en/The_Urantia_Book/122#p3_3) does not refer to the total number of his siblings, but to those who lived in Nazareth (remember that one lived in Sarid, outside of Nazareth), so the number of brothers and sisters would have to be extended to an indefinite number that could include this Cleopas. Another possible explanation is that when Jesus was born his mother only had four brothers and sisters, but later Mary had new sisters or brothers, so Jesus would have aunts or uncles younger than he was.
 
-La explicación de que «María, mujer de Cleofás», sea una corrupción de «Marta, mujer de Cleofás», de modo que Cleofás sea en realidad cuñado de María, no nos vale porque en <a id="a124_173"></a>[UB 188:1.7](/en/The_Urantia_Book/188#p1_7) se nos menciona a las dos hermanas de María. Es más, aquí se nos dice explícitamente: «Marta, otra hermana de la madre de Jesús». Esto, dicho después de haber designado a María la mujer de Cleofás como hermana de María, no deja lugar a dudas. Eran dos personas distintas y ambas eran hermanas de María. 
+The explanation that “Mary, the wife of Clopas” is a corruption of “Martha, the wife of Clopas,” so that Clepas is really Mary’s brother-in-law, does not hold good for us because in [UB 188:1.7](/en/The_Urantia_Book/188#p1_7) we are told of two of Mary’s sisters. Indeed, here we are explicitly told: “Martha, another sister of the mother of Jesus.” This, after Mary, the wife of Clopas, has been designated as Mary’s sister, leaves no room for doubt. They were two distinct persons, and both were sisters of Mary.
 
-Todo esto sólo nos deja como opciones: o que sea una corrupción por «cuñada» y Cleofás sea el hermano de Sarid, o que María efectivamente tuviera otra hermana llamada María y por tanto el número de sus hermanos fuera de al menos cinco y no cuatro, aunque fueran cuatro los que vivían en las proximidades de Nazaret.
+All this leaves us with only two options: either it is a corruption of “sister-in-law” and Cleopas is the brother of Sarid, or Mary actually had another sister called Mary and therefore the number of her siblings was at least five and not four, even though four lived in the vicinity of Nazareth.
 
-En cuanto a la familia de José, no se nos mencionan los nombres de los padres, pero sí que José tuvo ocho hermanos y hermanas. Al menos dos vivían en Nazaret (<a id="a128_159"></a>[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)). Uno se nos menciona que se hizo cargo de la tienda de provisiones de la familia. El tío de Jesús que era pescador y vivía cerca de Magdala yo creo que era otro de los hermanos de José, aunque ya hemos visto que adjudicar a María sólo dos hermanos podría no ser del todo correcto.
+As for Joseph’s family, we are not told the names of his parents, but Joseph did have eight brothers and sisters. At least two lived in Nazareth (<a id="a128_159"></a>[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)). One is mentioned as having taken charge of the family provision store. Jesus’ uncle, a fisherman living near Magdala, I believe was another of Joseph’s brothers, although we have seen that assigning Mary only two siblings may not be entirely correct.
 
-## Dejando a la imaginación actuar
+## Letting the imagination do its work
 
-En definitiva, a pesar de utilizar _El Libro de Urantia_ como fuente creíble, seguimos sin disponer de información como para hacernos una idea suficiente del número de tíos y tías que tuvo Jesús, especialmente en Nazaret, y mucho menos de sus primos y primas, que seguro que tuvo muchos.
+In short, despite using _The Urantia Book_ as a credible source, we still do not have enough information to give us a sufficient idea of ​​the number of uncles and aunts Jesus had, especially in Nazareth, let alone his cousins, of whom he surely had many.
 
-Por tanto lo que voy a hacer aquí es ofrecer una versión inventada por completo, aunque basada en todos los datos que dispongo, de cómo pudo ser la familia al completo de Jesús. Esta familia es la que luego se dejará entrever en el relato de «Jesús de Nazaret».[^1]
+So what I'm going to do here is offer an invented version, albeit one based on the available data, of Jesus' family. This family is the one that will later be revealed in the story of “Jesus of Nazareth.”[^1]
 
-### La familia de José
+### Joseph's family
 
-Jacob y Raquel, abuelos de Jesús, tuvieron como hijos a José, Jonás, Amós, Janai, Simón, Juana, Miriam, Ruth, Marta, y éstas son sus familias:
+Jacob and Rachel, Jesus' grandparents, had as children Joseph, Jonah, Amos, Janai, Simon, Joanne, Miriam, Ruth, Martha, and these are their families:
 
-- José se casó con María (ver más abajo).
-- Jonás, de Nazaret, fue carpintero asociado de José en su taller, y luego se hizo cargo de la tienda de provisiones. Se casó con Sunah y tuvieron a: Jonás, Obén, Sera, Rejina.
-- Amós, de Nazaret, fue quien ocupaba la casa de José a su regreso de Egipto. Se asoció con José en el taller de carpintería, y luego fue dueño de este taller. Se casó con María y tuvieron a: Jacob, Juan, Manaél, Jesuá, Mirna y María.
-- Janai se casó con Yenoah y tuvieron a: Simón, David, Jesús, Janai, Raquel, María e Isabel.
-- Simón (pescador de Magdala) se casó con Seraj y no tuvieron hijos.
-- Juana se casó con Jebod y tuvieron a: Judas, Jebod, Josí, Ana y Susana.
-- Miriam se casó con Eleazar y tuvieron a: Elías, María y Ana.
-- Ruth murió poco antes de llegar a casarse.
-- Marta murió unos años antes que Jesús, soltera.
+- Joseph married Mary (see below).
+- Jonah, from Nazareth, was Joseph's carpenter, working for him in his workshop, and later took over the provision store. He married Shunah, and they had Jonah, Oben, Serah, and Rehinah.
+- Amos, from Nazareth, was the tenant of Joseph's household upon his return from Egypt. He partnered with Joseph in the carpentry shop and later became the owner of the workshop. He married Mary and they had Jacob, John, Manael, Jeshua, Myrna, and Mary.
+- Janai married Yenoah and they had: Simon, David, Jesus, Janai, Rachel, Mary and Elizabeth.
+- Simon (a fisherman from Magdala) married Serah and they had no children.
+- Joanne married Jebod and they had: Judas, Jebod, Joseph, Anna and Susanna.
+- Miriam married Eleazar and they had: Elijah, Mary and Anna.
+- Ruth died shortly before getting married.
+- Martha died a few years before Jesus, single.
 
-### La familia de María
+### Mary's family
 
-Joaquín y Ana, abuelos de Jesús, tuvieron como hijos a: Simón, Joatán, María, Mariah, Salomé y Marta, y éstas son sus familias:
+Joachim and Anna, Jesus' grandparents, had as children: Simon, Joatan, Mary, Salome, Martha, and Mariah, and these are their families:
 
-- Simón, de Nazaret, que se hizo zelota y fue un caudillo destacado de los nacionalistas en Galilea, se casó con Ainar y tuvieron a: Joaquín, Jesús, Jacob, Judas y Esther.
-- Joatán, que se trasladó a vivir en una granja en el campo cerca de Sarid, al sur de Nazaret, se casó con Jerusa y tuvieron a: Eleazar, Jonatán, José, Serod, Mariah y Súa.
-- María se casó con José (ver más abajo).
-- Mariah, que nació después que Jesús, se casó con Cleofás, ambos vivieron en Nazaret y tuvieron a: Joán, Fasael, Nida, María, Marta, Ruth, Esther y Alejandra.
-- Marta se casó con Juan y tuvieron a: Josim, Rubén, Jesús, María, Rebeca e Isabel.
-- Salomé fue soltera toda su vida y cuidó de su madre Ana.
+- Simon of Nazareth, who became a Zealot and was a prominent leader of the nationalists in Galilee, married Ainar and they had: Joachim, Jesus, Jacob, Judas and Esther.
+- Joatan, who moved to live on a farm in the countryside near Sarid, south of Nazareth, married Jerusa and they had: Eleazar, Jonathan, Joseph, Zerod, Mariah and Shua.
+- Mary married Joseph (see below).
+- Martha married John and they had: Josim, Ruben, Jesus, Mary, Rebecca and Elizabeth.
+- Salome was single all her life and took care of her mother Anna.
+- Mariah, who was born after Jesus, married Cleopas, both lived in Nazareth and had: John, Phasael, Nida, Mary, Martha, Ruth, Esther and Alexandra.
 
-### La familia de José y María
+### The family of Joseph and Mary
 
-José y María tuvieron, aparte de a Jesús, a: Santiago, Simón, José, Judas o Judá, Amós, Marta, Miriam y Ruth, y éstas son sus familias:
+<br>
 
-- Santiago se casó hacia noviembre del año 20 con Esta (<a id="a165_56"></a>[UB 128:7.10](/en/The_Urantia_Book/128#p7_10)). Se trasladó a Cafarnaúm siguiendo las huellas de Jesús, y trabajó en Cafarnaúm junto a Jesús en el astillero de Zebedeo (<a id="a165_225"></a>[UB 134:1.1](/en/The_Urantia_Book/134#p1_1)). En el año 25 Santiago contaba con tres hijos: dos chicos y una chica, el menor de apenas un año. Se llamaban, por orden de edad: Santiago, María y José. El año 27 tuvieron a su cuarto hijo, Eleazar, y luego tuvieron: Ana (29), Marta (33), y Sara (35).
-- Simón se casó a primeros de marzo del año 24 (<a id="a166_48"></a>[UB 134:1.4](/en/The_Urantia_Book/134#p1_4)) con Ana y vivieron en Nazaret. Su primer hijo, Juan, nació en febrero de 26. Luego tuvieron seis más: Judas (29), Simón (31), María (32), Berenice (34), Samuel (35) y Josías (38). Simón era albañil y socio de Jacobo (<a id="a166_310"></a>[UB 128:2.2](/en/The_Urantia_Book/128#p2_2)), el marido de Miriam.
-- José se casó con Rebeca, mientras Jesús estuvo de viaje, hacia los años 22 ó 23, y vivieron en Nazaret, en la antigua casa de la familia (<a id="a167_140"></a>[UB 134:1.6](/en/The_Urantia_Book/134#p1_6)). Tuvieron a su primer hijo, Ariel, a principios del año 24, y luego tuvieron a Jesús, en julio de 26, José, en abril de 28, María, en enero de 30. Después de morir Jesús tuvieron otro hijo el año 32. José se ocupó durante un tiempo de la tienda de provisiones para caravanas, y luego la dejó en manos de un socio y se dedicó a la carpintería.
-- Judá se casó con Marta a primeros de marzo de 24 (<a id="a168_52"></a>[UB 134:1.4](/en/The_Urantia_Book/134#p1_4)), en una doble boda con Simón, y vivían en Magdala. Marta tuvo frecuentes problemas de salud, y sólo tuvieron un hijo, el año 33, llamado Judas. Judá era pescador.
-- Miriam se casó con Jacobo, el amigo de la infancia de Jesús, en la misma boda que Santiago. Jacobo era albañil y vivía en una casa adyacente a la de José en Nazaret. La madre de Jacobo, Ana, vivió siempre con ellos. Jacob el padre, que había sido socio de José, había muerto años antes de casarse ellos. Tuvieron a su primer hijo, Jacob, en el año 22, y a su segundo, José, en el 24. Luego tuieron tres más: María (28), Saúl (31) y Ana (33).
-- Marta se casó con Jesús en octubre de 21. Tuvieron a su primer hijo, a quien pusieron Jesús, a mediados de diciembre de 25. Luego tuvieron siete más: José (27), Matán (30), María (32), Judas (33), Ana (35), Elizabeth (37) y Jebud (40).
-- Amós. Nace el 9 de enero del año 7 d. de J.C. Tenía casi 13 años menos que Jesús. Murió el 3 de diciembre del año 12 d. de J.C., con casi 6 años, de una infección.
-- Ruth no se casó mientras vivió Jesús. Poco tiempo después de morir él, a primeros de junio de 30, se casó con David Zebedeo (<a id="a172_127"></a>[UB 190:1.10](/en/The_Urantia_Book/190#p1_10)). Ruth vivió antes de casarse en la casa de su madre en Cafarnaúm, a la que también se trasladó desde Nazaret la familia de Santiago (<a id="a172_307"></a>[UB 134:1.6](/en/The_Urantia_Book/134#p1_6)). Ruth y David tuvieron tres hijos: Jesús (32), Marta (34), y Mariamme (35). Ambos se trasladaron a Filadelfia a primeros de junio de 30, donde vivieron. David se ocupó de servir en la nueva casa de Lázaro en Filadelfia como protector y ayudante.
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jesus_family/family.jpg">
+<figcaption>Jesus with some of his brothers. On his left, James and Joseph. On his right, Amos, Miriam, and little Ruth.</figcaption>
+</figure>
 
-¿Son fiables estos nombres y estas biografías?
+<br style="clear:both;"/>
 
-Realmente no. La mayor parte de los datos anteriores son elucubraciones obtenidas a partir de _El Libro de Urantia_. Pero no hay constancia de esta información ni en los evangelios canónicos, ni en los apócrifos, e incluso hay muy poca confirmación del propio _Libro de Urantia_. La familia de Jesús, sus primos, sobrinos, y los descendientes de éstos, desaparecieron de las páginas de la historia, para ceder su protagonismo a un nuevo tipo de personaje: los primeros creyentes cristianos. Esto me hace extraer una primera conclusión: Jesús tuvo pocos seguidores entre sus propios familiares. Tan sólo han saltado a las páginas de la historia sus hermanos Santiago, al que se le apodó «el Justo», y que fue sin duda el primer obispo o director de la iglesia de Jerusalén, y también Judas. Curiosamente, _El Libro de Urantia_ confirma con su relato que estos dos hombres tuvieron una especial cercanía con Jesús.
+Joseph and Mary had, apart from Jesus, James, Miriam, Joseph, Simon, Martha, Judah or Jude, Amos and Ruth, and these are their families:
 
-Pero de sus descendientes, excepto una anécdota recogida por el historiador Hegesipo en sus _Comentarios de los Hechos de la Iglesia_, relativo a un interrogatorio por parte del emperador Domiciano de unos nietos de Judas, el hermano de Jesús, nada de nada. No dejaron ni rastro en los siglos subsiguientes. Y quizá es comprensible. Estos descendientes de la familia de Jesús pasaron a convertirse, de la noche a la mañana, en la familia más perseguida y más odiada de la tierra. No es difícil imaginar que desearan un anonimato que les llevó a desaparecer de los textos históricos.
+- James, born April 2, 3 BC ([UB 123:1.5](/en/The_Urantia_Book/123#p1_5)), was married to Esta (<a id="a165_56"></a>[UB 128:7.10](/en/The_Urantia_Book/128#p7_10)) around November 20. He moved to Capernaum, following in Jesus' footsteps, and worked with Jesus in Zebedee's shipyard in Capernaum (<a id="a165_225"></a>[UB 134:1.1](/en/The_Urantia_Book/134#p1_1)). By 25, James had three children: two boys and a girl, the youngest being barely one year old. In order of age, their names were James, Mary, and Joseph. In the year 27 they had their fourth son, Eleazar, and then they had: Anna (29), Martha (33), and Sarah (35).
+- Miriam, born July 11, 2 BC ([UB 123:2.3](/en/The_Urantia_Book/123#p2_3)), married James, Jesus’ childhood friend, at the same wedding as James. James was a bricklayer and lived in a house adjacent to Joseph’s in Nazareth. James’s mother, Anna, lived with them all the time. Jacob the father, who had been Joseph’s partner, had died years before their marriage. They had their first son, Jacob, in 22 AD, and their second, Joseph, in 24 AD. They later had three more: Mary (28), Saul (31), and Hannah (33).
+- Joseph, born March 16, 1 A.D. ([UB 123:4.9](/en/The_Urantia_Book/123#p4_9)), married Rebekah while Jesus was away, about the year 22 or 23, and they lived at Nazareth in the old family home (<a id="a167_140"></a>[UB 134:1.6](/en/The_Urantia_Book/134#p1_6)). They had their first son, Ariel, early in the year 24, and then Jesus was born in July 26, Joseph in April 28, and Mary in January 30. After Jesus' death, another son was born in the year 32. Joseph kept the caravan supply store for a time, then left it in the hands of a partner and took up carpentry.
+- Simon, born April 14, 2 ([UB 123:6.7](/en/The_Urantia_Book/123#p6_7)), was married in early March 24 (<a id="a166_48"></a>[UB 134:1.4](/en/The_Urantia_Book/134#p1_4)) to Hannah, and they lived in Nazareth. Their first son, John, was born in February 26. They later had six more: Judas (29), Simon (31), Mary (32), Bernice (34), Samuel (35), and Josiah (38). Simon was a mason and partner of James (<a id="a166_310"></a>[UB 128:2.2](/en/The_Urantia_Book/128#p2_2)), Miriam's husband and Jesus' best friend.
+- Martha, born on September 13, 3 ([UB 124:1.7](/en/The_Urantia_Book/124#p1_7)), married Jesus in October 21. They had their first child, named Jesus, in mid-December 25. They later had seven more: Joseph (27), Matthan (30), Mary (32), Judas (33), Anna (35), Elizabeth (37), and Jebud (40).
+- Judah, born June 24 A.D. 5 ([UB 124:3.4](/en/The_Urantia_Book/124#p3_4)), married Martha in early March 24 A.D. (<a id="a168_52"></a>[UB 134:1.4](/en/The_Urantia_Book/134#p1_4)), in a double wedding with Simon, and they lived in Magdala. Martha had frequent health problems, and they had only one son, in the year 33, named Judas. Judah was a fisherman.
+- Amos. Born on January 9, 7 AD ([UB 124:5.2](/en/The_Urantia_Book/124#p5_2)). He was almost 13 years younger than Jesus. He died on December 3, 12 AD, at the age of almost 6, of an infection.
+- Ruth was born posthumously on April 17 A.D. 9 ([UB 126:3.2](/en/The_Urantia_Book/126#p3_2)), and she did not marry during Jesus’ lifetime. Shortly after his death, in early June 30 A.D., she married David Zebedee (<a id="a172_127"></a>[UB 190:1.10](/en/The_Urantia_Book/190#p1_10)). Before her marriage, Ruth lived in her mother’s house in Capernaum, to which the family of James also moved from Nazareth (<a id="a172_307"></a>[UB 134:1.6](/en/The_Urantia_Book/134#p1_6)). Ruth and David had three children: Jesus (32), Martha (34), and Mariamme (35). They both moved to Philadelphia in early June 1930, where they lived. David took it upon himself to serve in Lazarus's new household in Philadelphia as a protector and helper.
 
-## Referencias
+Are these names and biographies reliable?
 
-- Varios autores, _El Libro de Urantia_, 1955.
+Not really. Most of the above information is speculation gleaned from _The Urantia Book_. But there is no record of this information in either the canonical or apocryphal gospels, and there is even very little confirmation from The Urantia Book itself. Jesus' family, his cousins, nephews, and their descendants, disappeared from the pages of history, giving way to a new type of character: the first Christian believers. This leads me to my initial conclusion: Jesus had few followers among his own relatives. The only ones who have made it into history are his brothers James, nicknamed “the Just,” who was undoubtedly the first bishop or leader of the Church of Jerusalem, and also Judas. Curiously, _The Urantia Book_ confirms with its account that these two men had a special closeness to Jesus.
 
-- _Nuevo Testamento_, La Casa de la Biblia, 1992.
+But of their descendants, except for an anecdote recorded by the historian Hegesippus in his _Commentaries on the Acts of the Church_, concerning an interrogation by the Emperor Domitian of some grandsons of Judas, Jesus' brother, nothing at all. They left no trace in the centuries that followed. And perhaps this is understandable. These descendants of Jesus' family became, overnight, the most persecuted and hated family on earth. It is not difficult to imagine that they desired anonymity that led them to disappear from historical texts.
 
-## Enlaces externos
+## References
 
-* [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-familia-de-jesus/)
+- Various authors, _The Urantia Book_, 1955.
+
+- _New Testament_, The House of the Bible, 1992.
+
+## External links
+
+* [Original article](https://buscandoajesus.wordpress.com/articulos/la-familia-de-jesus/)
 
 <figure class="table chapter-navigator">
   <table>

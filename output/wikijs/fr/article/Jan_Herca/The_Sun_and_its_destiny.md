@@ -163,7 +163,7 @@ S'il existe un point sur lequel _Le Livre d'Urantia_ et la science actuelle diff
 
 <br style="clear:both;"/>
 
-Il va sans dire que dans ce scénario, toute chance de vie sur Terre sera nulle, quelle que soit la technologie que nous parviendrons à créer. Bien avant que le Soleil n'entre en phase de géante rouge, dans seulement 600 millions d'années, l'augmentation de sa luminosité aura réduit le CO2 à des niveaux critiques pour la vie végétale. Lorsque la luminosité dépassera 10 %, la température moyenne sur Terre atteindra 47 °C. L'atmosphère se transformera en une serre humide, entraînant une évaporation rapide des océans, et la Terre deviendra une planète semblable à Vénus.
+Il va sans dire que dans ce scénario, toute chance de vie sur Terre sera nulle, quelle que soit la technologie que nous parviendrons à créer. Bien avant que le Soleil n'entre en phase de géante rouge, dans seulement 600 millions d'années, l'augmentation de sa luminosité aura réduit le CO~2~ à des niveaux critiques pour la vie végétale. Lorsque la luminosité dépassera 10 %, la température moyenne sur Terre atteindra 47 °C. L'atmosphère se transformera en une serre humide, entraînant une évaporation rapide des océans, et la Terre deviendra une planète semblable à Vénus.
 
 Comme si ce scénario ne suffisait pas à emporter l'humanité loin de la Terre, lorsque le Soleil atteindra son état maximal de géante rouge, et malgré la perte considérable de masse de ses parties externes et le déplacement des planètes hors de leur orbite, il engloutira la Terre. La friction de notre chère planète avec la couronne solaire et les températures extrêmes entraîneront la perte de la croûte et du manteau jusqu'à la destruction complète de chaque molécule terrestre, les atomes devenant partie intégrante du Soleil[^19].
 
@@ -297,15 +297,15 @@ Durée de vie restante (> 25 Gyr) | 1 Tyr | 5 Gyr
 
 [^4]: _La nucléosynthèse stellaire_ est l'ensemble des réactions nucléaires qui se produisent dans les étoiles pour obtenir l'énorme énergie qui s'en échappe. [Wikipedia](https://es.wikipedia.org/wiki/Nucleosíntesis_estelar)
 
-[^5] : [Wikipédia : Chaîne proton-proton](https://es.wikipedia.org/wiki/Cadena_protón-proton)
+[^5]: [Wikipédia : Chaîne proton-proton](https://es.wikipedia.org/wiki/Cadena_protón-proton)
 
-[^6] : [Wikipédia : Ciclo CNO](https://es.wikipedia.org/wiki/Ciclo_CNO)
+[^6]: [Wikipédia : Ciclo CNO](https://es.wikipedia.org/wiki/Ciclo_CNO)
 
 [^7]: [Wikipédia : Plasma](https://es.wikipedia.org/wiki/Plasma_(state_of_the_matter))
 
 [^8]: Sir James Jeans, _The Universe Around Us_ (_L'Univers qui nous entoure_), _Cambridge University Press_, deuxième édition, 1930, p. 288.
 
-[^9] : Galaxia, _National Geographic_, avec un prologue de Chris Hadfield, RBA Libros, 2018, p. 128.
+[^9]: Galaxia, _National Geographic_, avec un prologue de Chris Hadfield, RBA Libros, 2018, p. 128.
 
 [^10]: [Données SOHO](https://www.esa.int/ESA_Multimedia/Images/1998/01/Soho_charts_Sun_s_temperature_variations)
 
@@ -315,21 +315,21 @@ Durée de vie restante (> 25 Gyr) | 1 Tyr | 5 Gyr
 
 [^13]: Sir James Jeans, _The Universe Around Us_ (_L'Univers qui nous entoure_, _Cambridge University Press_), deuxième édition, 1930, p. 187.
 
-[^14] : [Wikipédia : Vent solaire](https://en.wikipedia.org/wiki/Solar_wind)
+[^14]: [Wikipédia : Vent solaire](https://en.wikipedia.org/wiki/Solar_wind)
 
 [^15]: Sir James Jeans, _The Universe Around Us_ (_L'Univers qui nous entoure_, _Cambridge University Press_), deuxième édition, 1930, p. 45, 286.
 
-[^16] : [Wikipédia : Masse solaire](https://en.wikipedia.org/wiki/Solar_mass)
+[^16]: [Wikipédia : Masse solaire](https://en.wikipedia.org/wiki/Solar_mass)
 
 [^17]: Sir James Jeans, _The Universe Around Us_ (_L'Univers qui nous entoure_, _Cambridge University Press_), deuxième édition, 1930, p. 290.
 
-[^18] : [Wikipédia : géante rouge](https://es.wikipedia.org/wiki/Gigante_roja)
+[^18]: [Wikipédia : géante rouge](https://es.wikipedia.org/wiki/Gigante_roja)
 
-[^19] : [Wikipédia : L'avenir de la Terre](https://es.wikipedia.org/wiki/Futuro_de_la_Earth)
+[^19]: [Wikipédia : L'avenir de la Terre](https://es.wikipedia.org/wiki/Futuro_de_la_Earth)
 
 [^20]: « Il est dans notre nature d'explorer. Nous avons commencé comme un peuple errant, et nous errons toujours. Nous sommes restés trop longtemps sur les rives de l'océan cosmique. Nous sommes maintenant prêts à mettre les voiles vers les étoiles. » Carl Sagan, _Cosmos_, Random House, 1980.
 
-[^21] : [Wikipédia : Rayonnement cosmique](https://es.wikipedia.org/wiki/Cosmic_Radiation)
+[^21]: [Wikipédia : Rayonnement cosmique](https://es.wikipedia.org/wiki/Cosmic_Radiation)
 
 [^22]: Un « géant noir de l'espace » nommé Angona, dit le livre, fut responsable de la formation du système solaire dans le passé. Voir [LU 57:5.4](/fr/The_Urantia_Book/57#p5_4).
 

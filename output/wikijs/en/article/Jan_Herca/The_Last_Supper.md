@@ -184,6 +184,8 @@ And these events are what Jesus truly wanted his apostles to remember. The true 
 
 And the proof that this was the true meaning of his words is offered by the Gospel of John in other passages.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Last_Supper/Jesus_words.jpg">
 <figcaption>Fig. 2. — Have Jesus' words at the Last Supper been misinterpreted?</figcaption>
@@ -326,7 +328,7 @@ The Christian Church today will hardly accept these conclusions. But one day, de
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
 <figcaption>Fig. 3. — The Last Supper, James Tissot, 1886 — 1894. <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Last_Supper_Judas_Dipping_his_Hand_in_the_Dish_(La_Céne._Judas_met_la_main_dans_le_plat)_-_James_Tissot_(cropped).jpg">Wikimedia</a></figcaption>
 </figure>
 

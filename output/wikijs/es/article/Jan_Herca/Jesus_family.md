@@ -26,7 +26,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Es muy poco lo que sabemos de la familia de Jesús, es decir, de los hermanos y hermanas de sus padres y de sus abuelos. No hay prácticamente ni rastro en los evangelios, y las menciones de los primeros cristianos tampoco son muy numerosas. Esto ha venido a construir una idea anómala de la vida de Jesús, imaginándole como un muchacho que creció sin apenas contacto familiar a excepción de sus padres. Pero esta visión no parece concordar con las numerosas parábolas en las que Jesús utilizaba las relaciones familiares para expresar sus enseñanzas, y que seguramente estaban sacadas de la propia experiencia personal.
+Es muy poco lo que sabemos de la familia de Jesús, es decir, de sus tíos y de sus abuelos. No hay prácticamente ni rastro en los evangelios, y las menciones de los primeros cristianos tampoco son muy numerosas. Esto ha venido a construir una idea anómala de la vida de Jesús, imaginándole como un muchacho que creció sin apenas contacto familiar a excepción de sus padres. Pero esta visión no parece concordar con las numerosas parábolas en las que Jesús utilizaba las relaciones familiares para expresar sus enseñanzas, y que seguramente estaban sacadas de la propia experiencia personal.
 
 ¿Pero qué podemos saber sobre su familia según los evangelios?
 
@@ -34,7 +34,7 @@ Es muy poco lo que sabemos de la familia de Jesús, es decir, de los hermanos y 
 
 Según Mateo el abuelo paterno de Jesús se llamaba Jacob y su bisabuelo Matán, pero esto no concuerda con el texto de Lucas.
 
-> Cuando Jesús comenzó  ministerio, tenía unos treinta años y, en opinión de la gente, era hijo de José. Estos son sus ascendientes: Helí, Matat... [Lc 3:23](/es/Bible/Luke/3#v23)
+> Cuando Jesús comenzó su ministerio, tenía unos treinta años y, en opinión de la gente, era hijo de José. Estos son sus ascendientes: Helí, Matat... [Lc 3:23](/es/Bible/Luke/3#v23)
 
 Lucas menciona a un tal Helí como abuelo paterno y a Matat como bisabuelo. La nula coincidencia entre los dos evangelistas hace dudar de la confiabilidad de los dos.
 
@@ -56,11 +56,11 @@ Se nos menciona a sus hermanos (hermanos carnales o hermanastros según distinta
 > 
 > Muchas mujeres que habían seguido a Jesús desde Galilea para asistirlo, contemplaban la escena desde lejos. Entre ellas, estaban María Magdalena y María, la madre de Santiago y José, y la madre de los Zebedeos. [Mt 27:56](/es/Bible/Matthew/27#v56)
 > 
-> Algunas mujeres contemplaban la escena desde lejos. Entre ellas María Magdalena, María, la madre de Santiago el menor y de José, y Salomé [Mc 15:40](/es/Bible/Mark/15#v40)
+> Algunas mujeres contemplaban la escena desde lejos. Entre ellas María Magdalena, María, la madre de Santiago el menor y de José, y Salomé. [Mc 15:40](/es/Bible/Mark/15#v40)
 > 
 > Junto a la cruz de Jesús estaban su madre, la hermana de su madre, María la mujer de Cleofás, y María Magdalena. [Jn 19:25](/es/Bible/John/19#v25)
 
-Se tiende a identificar a estos Santiago el menor y José con los dos hermanos de Jesús mencionados en [Mt 13:55](/es/Bible/Matthew/13#v55). Pero conviene analizar los pasajes para advertir que no tiene sentido. Si así fuera, la «María, la madre de Santiago y José», se estaría refiriendo a la madre de Jesús, y entonces [Mc 15:40](/es/Bible/Mark/15#v40) sería más apropiado que dijera «María la madre de Jesús».
+Se tiende a identificar a estos Santiago el menor y José con los dos hermanos de Jesús mencionados en [Mt 13:55](/es/Bible/Matthew/13#v55). Pero conviene analizar los pasajes para advertir que no tiene sentido. Si así fuera, con «María, la madre de Santiago y José», se estaría refiriendo a la madre de Jesús, y entonces [Mc 15:40](/es/Bible/Mark/15#v40) sería más apropiado que dijera «María la madre de Jesús».
 
 Como vemos las referencias a parientes de Jesús son escasísimas. Tan sólo se nos menciona a una María, hermana de su madre, y por tanto tía de Jesús, en [Jn 19:25](/es/Bible/John/19#v25). Pero esta referencia parece una corrupción. ¿Cómo es posible que la madre de Jesús tuviera una hermana con su mismo nombre? Ningún padre, por razones prácticas y obvias, pondría el mismo nombre a dos hijas. ¿Cómo conciliar esto? En mi opinión, el texto de [Jn 19:25](/es/Bible/John/19#v25) es una corrupción que debería ser traducida por
 
@@ -68,9 +68,9 @@ Como vemos las referencias a parientes de Jesús son escasísimas. Tan sólo se 
 
 Es decir que esta María era en realidad la mujer de un hermano de María llamado Cleofás.
 
-Las referencias a otra María que se ha identificado por muchos estudiosos como la madre de dos hermanos de Jesús también contienen corrupciones y se interpretan erróneamente, en mi opinión. Esta María, que no tiene nada que ver con la anterior, es la madre de dos apóstoles llamados Tadeo y Lebeo (Thaddeus y Lebbaeus). Que no tiene nada que ver con la María anterior se muestra en el hecho de que uno de ellos, llamado Santiago, se dice que es hijo de Alfeo, y al otro, de nombre Judas, se dice que es hijo de Santiago. Por tanto nada que ver con Cleofás.
+Las referencias a otra María, identificada por muchos estudiosos como la madre de dos hermanos de Jesús, también contienen corrupciones y se interpretan erróneamente, en mi opinión. Esta María, que no tiene nada que ver con la anterior, es la madre de dos apóstoles llamados Tadeo y Lebeo (Thaddeus y Lebbaeus). Y se demuestra que no tiene nada que ver con la María anterior en el hecho de que uno de ellos, llamado Santiago, se dice que es hijo de Alfeo, y al otro, de nombre Judas, se dice que es hijo de Santiago. Por tanto nada que ver con Cleofás.
 
-Pero las referencias que aparecen en los evangelios de estos dos personajes son contradictorias. A uno se le llama de forma constante Santiago, diciendo que es hijo de Alfeo. Mencionar aquí el nombre del padre tiene mucho sentido si consideramos que tenemos a otro Santiago entre los apóstoles, el hijo de Zebedeo. El nombre del padre, por tanto, como era costumbre judía, servía como apellido para distinguir a personas tocayas. Pero las menciones al otro apóstol, que se realizan siempre a continuación del primero, son todas distintas. A este apóstol se le llama Tadeo y Judas el hijo de Santiago (y puede que en [Mt 27:56](/es/Bible/Matthew/27#v56) y [Mc 15:40](/es/Bible/Mark/15#v40) se le esté llamando José si imaginamos que quien estaba al pie de la cruz era su madre). 
+Pero las referencias que aparecen en los evangelios de estos dos personajes son contradictorias. A uno se le llama de forma constante Santiago, diciendo que es hijo de Alfeo. Mencionar aquí el nombre del padre tiene mucho sentido si consideramos que tenemos a otro Santiago entre los apóstoles, el hijo de Zebedeo. El nombre del padre, por tanto, como era costumbre judía, servía como apellido para distinguir a personas tocayas. Pero las menciones al otro apóstol, que se realizan siempre a continuación del primero, son todas distintas. A este apóstol se le llama «Tadeo» y «Judas el hijo de Santiago» (y puede que en [Mt 27:56](/es/Bible/Matthew/27#v56) y [Mc 15:40](/es/Bible/Mark/15#v40) se le esté llamando «José» si imaginamos que quien estaba al pie de la cruz era su madre). 
 
 En cualquier caso, no parece que se pueda identificar a estos Santiago y Judas Tadeo con los dos hermanos de Jesús que en los inicios del cristianismo obtuvieron tanta fama, y de los cuales se conservan cartas en el Nuevo Testamento. No se comprende que si Jesús tenía hermanos entre sus apóstoles, los evangelistas les mencionen pidiendo ser recibidos por él ([Mt 12:46](/es/Bible/Matthew/12#v46), [Mc 3:31](/es/Bible/Mark/3#v31) y [Lc 8:19](/es/Bible/Luke/8#v19)). Por otra parte, al Santiago «hermano de Jesús» se le apodó «el Justo», mientras que en estos pasajes se le apoda «el menor». Además, si hubiera sido hermano de Jesús, su padre habría sido José, y no Alfeo, como aquí se nos dice.
 
@@ -80,7 +80,7 @@ Ante este panorama de desconocimiento, no queda otra alternativa que acudir a ot
 
 > En el viaje de vuelta, María visitó a sus padres, Joaquín y Ana. Sus dos hermanos, sus dos hermanas y sus padres consideraban con excepticismo la misión divina de Jesús, aunque por supuesto en ese entonces nada sabían de la visitación de Gabriel. Pero María sí le confió a su hermana Salomé que creía que su hijo estaba destinado a ser un gran maestro. <a id="a80_355"></a>[[LU 122:3.3](/es/The_Urantia_Book/122#p3_3)]
 
-> (José) En su juventud, conviviendo con sus ocho hermanos y hermanas. <a id="a82_71"></a>[[LU 122:5.1](/es/The_Urantia_Book/122#p5_1)]
+> (José) En su juventud, conviviendo con sus ocho hermanos y hermanas... <a id="a82_71"></a>[[LU 122:5.1](/es/The_Urantia_Book/122#p5_1)]
 
 > Poco tiempo después se mudaron a su nueva casa en Nazaret, que había sido construida por José con la ayuda de dos de sus hermanos. <a id="a84_133"></a>[[LU 122:5.9](/es/The_Urantia_Book/122#p5_9)]
 
@@ -100,7 +100,7 @@ Ante este panorama de desconocimiento, no queda otra alternativa que acudir a ot
 
 Da la sensación de que el texto menciona al tío de Jesús de Magdala como si fuera hermano de José, su padre. De ahí la expresión «hermano de su madre» para el otro tío de Sarid.
 
-> Ya un tío suyo se habían hecho cargo de la tienda de provisiones de la familia. <a id="a102_82"></a>[[LU 126:5.8](/es/The_Urantia_Book/126#p5_8)]
+> Un tío suyo ya se había hecho cargo de la tienda de provisiones de la familia... <a id="a102_82"></a>[[LU 126:5.8](/es/The_Urantia_Book/126#p5_8)]
 
 > Durante este año entero Jesús no pudo alejarse casi nunca de su banco de carpintero. <a id="a104_87"></a>[[LU 127:1.6](/es/The_Urantia_Book/127#p1_6)]
 
@@ -110,9 +110,9 @@ Como hemos visto en el pasaje anterior, Jesús parece que permaneció durante to
 
 > La posición de Jesús se vio aun más dificultada porque su madre, su tío e incluso su hermano menor Santiago, lo instaban a abrazar la causa nacionalista. <a id="a110_156"></a>[[LU 127:2.7](/es/The_Urantia_Book/127#p2_7)]
 
-> Antes de la cosecha, llevó a Judá a visitar al tío granjero que vivía al sur de Nazaret; pero Judá no se quedó mucho tiempo después de la cosecha, sino que se escapó de la granja del tío. Poco tiempo después lo encontró Simón viviendo con los pescadores del lago. Cuando Simón lo trajo de vuelta al hogar, Jesús tuvo una conversación con el fugitivo muchacho y, puesto que quería ser pescador, lo llevó a Magdala, entregándolo a la custodia de un pariente que era pescador. <a id="a112_476"></a>[[LU 128:7.8](/es/The_Urantia_Book/128#p7_8)]
+> Antes de la cosecha, [Jesús] llevó a Judá a visitar al tío granjero que vivía al sur de Nazaret; pero Judá no se quedó mucho tiempo después de la cosecha, sino que se escapó de la granja del tío. Poco tiempo después lo encontró Simón viviendo con los pescadores del lago. Cuando Simón lo trajo de vuelta al hogar, Jesús tuvo una conversación con el fugitivo muchacho y, puesto que quería ser pescador, lo llevó a Magdala, entregándolo a la custodia de un pariente que era pescador. <a id="a112_476"></a>[[LU 128:7.8](/es/The_Urantia_Book/128#p7_8)]
 
-> Junto a la cruz estuvieron en distintos momentos de la crucifixión María, Rut, Judá, Salomé (la madre de Juan), y un grupo de mujeres, sinceras creyentes, que incluía a María la mujer de Cleofás y la hermana de la madre de Jesús, a María Magdalena, y a Rebeca, anteriormente de Séforis. <a id="a114_289"></a>[[LU 187:3.2](/es/The_Urantia_Book/187#p3_2)]
+> Junto a la cruz estuvieron en distintos momentos de la crucifixión María, Rut, Judá, Salomé (la madre de Juan), y un grupo de mujeres, sinceras creyentes, que incluía a María (la mujer de Cleofás y hermana de la madre de Jesús), a María Magdalena, y a Rebeca, anteriormente de Séforis. <a id="a114_289"></a>[[LU 187:3.2](/es/The_Urantia_Book/187#p3_2)]
 
 > Las mujeres que así permanecieron junto a la tumba este viernes por la noche fueron: María Magdalena; María la mujer de Cleofás; Marta, otra hermana de la madre de Jesús, y Rebeca de Séforis. <a id="a116_194"></a>[[LU 188:1.7](/es/The_Urantia_Book/188#p1_7)]
 
@@ -122,9 +122,9 @@ En cuanto a la familia de María, sus padres se llamaban Joaquín y Ana, y tení
 
 Una posible explicación es que la mención «Sus dos hermanos, sus dos hermanas» de <a id="a122_82"></a>[LU 122:3.3](/es/The_Urantia_Book/122#p3_3) no se refiere al total de sus hermanos, sino a los que vivían en Nazaret (recordemos que uno vivía en Sarid, fuera de Nazaret), por lo que habría que ampliar el número de hermanos y hermanas a un número indefinido en el que sí podría entrar este Cleofás. Otra posible explicación es que cuando nació Jesús su madre sólo tuviera cuatro hermanos y hermanas, pero después María tuviera nuevas hermanas o hermanos, por lo que Jesús tendría tías o tíos más jóvenes que él.
 
-La explicación de que «María, mujer de Cleofás», sea una corrupción de «Marta, mujer de Cleofás», de modo que Cleofás sea en realidad cuñado de María, no nos vale porque en <a id="a124_173"></a>[LU 188:1.7](/es/The_Urantia_Book/188#p1_7) se nos menciona a las dos hermanas de María. Es más, aquí se nos dice explícitamente: «Marta, otra hermana de la madre de Jesús». Esto, dicho después de haber designado a María la mujer de Cleofás como hermana de María, no deja lugar a dudas. Eran dos personas distintas y ambas eran hermanas de María. 
+La explicación de que «María, mujer de Cleofás», sea una corrupción de «Marta, mujer de Cleofás», de modo que Cleofás sea en realidad cuñado de María, no nos vale porque en <a id="a124_173"></a>[LU 188:1.7](/es/The_Urantia_Book/188#p1_7) se nos menciona a las dos hermanas de María. Es más, aquí se nos dice explícitamente: «Marta, otra hermana de la madre de Jesús». Esto, dicho después de haber designado a María la mujer de Cleofás como hermana de María, no deja lugar a dudas. Eran dos personas distintas y ambas eran hermanas de María.
 
-Todo esto sólo nos deja como opciones: o que sea una corrupción por «cuñada» y Cleofás sea el hermano de Sarid, o que María efectivamente tuviera otra hermana llamada María y por tanto el número de sus hermanos fuera de al menos cinco y no cuatro, aunque fueran cuatro los que vivían en las proximidades de Nazaret.
+Todo esto sólo nos deja dos opciones: o que sea una corrupción por «cuñada» y Cleofás sea el hermano de Sarid, o que María efectivamente tuviera otra hermana llamada María y por tanto el número de sus hermanos fuera de al menos cinco y no cuatro, aunque fueran cuatro los que vivían en las proximidades de Nazaret.
 
 En cuanto a la familia de José, no se nos mencionan los nombres de los padres, pero sí que José tuvo ocho hermanos y hermanas. Al menos dos vivían en Nazaret (<a id="a128_159"></a>[LU 122:5.9](/es/The_Urantia_Book/122#p5_9)). Uno se nos menciona que se hizo cargo de la tienda de provisiones de la familia. El tío de Jesús que era pescador y vivía cerca de Magdala yo creo que era otro de los hermanos de José, aunque ya hemos visto que adjudicar a María sólo dos hermanos podría no ser del todo correcto.
 
@@ -132,7 +132,7 @@ En cuanto a la familia de José, no se nos mencionan los nombres de los padres, 
 
 En definitiva, a pesar de utilizar _El Libro de Urantia_ como fuente creíble, seguimos sin disponer de información como para hacernos una idea suficiente del número de tíos y tías que tuvo Jesús, especialmente en Nazaret, y mucho menos de sus primos y primas, que seguro que tuvo muchos.
 
-Por tanto lo que voy a hacer aquí es ofrecer una versión inventada por completo, aunque basada en todos los datos que dispongo, de cómo pudo ser la familia al completo de Jesús. Esta familia es la que luego se dejará entrever en el relato de «Jesús de Nazaret».[^1]
+Por tanto lo que voy a hacer aquí es ofrecer una versión inventada, aunque basada en los datos disponibles, de la familia de Jesús. Esta familia es la que luego se dejará entrever en el relato de «Jesús de Nazaret».[^1]
 
 ### La familia de José
 
@@ -150,27 +150,36 @@ Jacob y Raquel, abuelos de Jesús, tuvieron como hijos a José, Jonás, Amós, J
 
 ### La familia de María
 
-Joaquín y Ana, abuelos de Jesús, tuvieron como hijos a: Simón, Joatán, María, Mariah, Salomé y Marta, y éstas son sus familias:
+Joaquín y Ana, abuelos de Jesús, tuvieron como hijos a: Simón, Joatán, María, Salomé, Marta, y Mariah, y éstas son sus familias:
 
 - Simón, de Nazaret, que se hizo zelota y fue un caudillo destacado de los nacionalistas en Galilea, se casó con Ainar y tuvieron a: Joaquín, Jesús, Jacob, Judas y Esther.
 - Joatán, que se trasladó a vivir en una granja en el campo cerca de Sarid, al sur de Nazaret, se casó con Jerusa y tuvieron a: Eleazar, Jonatán, José, Serod, Mariah y Súa.
 - María se casó con José (ver más abajo).
-- Mariah, que nació después que Jesús, se casó con Cleofás, ambos vivieron en Nazaret y tuvieron a: Joán, Fasael, Nida, María, Marta, Ruth, Esther y Alejandra.
 - Marta se casó con Juan y tuvieron a: Josim, Rubén, Jesús, María, Rebeca e Isabel.
 - Salomé fue soltera toda su vida y cuidó de su madre Ana.
+- Mariah, que nació después que Jesús, se casó con Cleofás, ambos vivieron en Nazaret y tuvieron a: Joán, Fasael, Nida, María, Marta, Ruth, Esther y Alejandra.
 
 ### La familia de José y María
 
-José y María tuvieron, aparte de a Jesús, a: Santiago, Simón, José, Judas o Judá, Amós, Marta, Miriam y Ruth, y éstas son sus familias:
+<br>
 
-- Santiago se casó hacia noviembre del año 20 con Esta (<a id="a165_56"></a>[LU 128:7.10](/es/The_Urantia_Book/128#p7_10)). Se trasladó a Cafarnaúm siguiendo las huellas de Jesús, y trabajó en Cafarnaúm junto a Jesús en el astillero de Zebedeo (<a id="a165_225"></a>[LU 134:1.1](/es/The_Urantia_Book/134#p1_1)). En el año 25 Santiago contaba con tres hijos: dos chicos y una chica, el menor de apenas un año. Se llamaban, por orden de edad: Santiago, María y José. El año 27 tuvieron a su cuarto hijo, Eleazar, y luego tuvieron: Ana (29), Marta (33), y Sara (35).
-- Simón se casó a primeros de marzo del año 24 (<a id="a166_48"></a>[LU 134:1.4](/es/The_Urantia_Book/134#p1_4)) con Ana y vivieron en Nazaret. Su primer hijo, Juan, nació en febrero de 26. Luego tuvieron seis más: Judas (29), Simón (31), María (32), Berenice (34), Samuel (35) y Josías (38). Simón era albañil y socio de Jacobo (<a id="a166_310"></a>[LU 128:2.2](/es/The_Urantia_Book/128#p2_2)), el marido de Miriam.
-- José se casó con Rebeca, mientras Jesús estuvo de viaje, hacia los años 22 ó 23, y vivieron en Nazaret, en la antigua casa de la familia (<a id="a167_140"></a>[LU 134:1.6](/es/The_Urantia_Book/134#p1_6)). Tuvieron a su primer hijo, Ariel, a principios del año 24, y luego tuvieron a Jesús, en julio de 26, José, en abril de 28, María, en enero de 30. Después de morir Jesús tuvieron otro hijo el año 32. José se ocupó durante un tiempo de la tienda de provisiones para caravanas, y luego la dejó en manos de un socio y se dedicó a la carpintería.
-- Judá se casó con Marta a primeros de marzo de 24 (<a id="a168_52"></a>[LU 134:1.4](/es/The_Urantia_Book/134#p1_4)), en una doble boda con Simón, y vivían en Magdala. Marta tuvo frecuentes problemas de salud, y sólo tuvieron un hijo, el año 33, llamado Judas. Judá era pescador.
-- Miriam se casó con Jacobo, el amigo de la infancia de Jesús, en la misma boda que Santiago. Jacobo era albañil y vivía en una casa adyacente a la de José en Nazaret. La madre de Jacobo, Ana, vivió siempre con ellos. Jacob el padre, que había sido socio de José, había muerto años antes de casarse ellos. Tuvieron a su primer hijo, Jacob, en el año 22, y a su segundo, José, en el 24. Luego tuieron tres más: María (28), Saúl (31) y Ana (33).
-- Marta se casó con Jesús en octubre de 21. Tuvieron a su primer hijo, a quien pusieron Jesús, a mediados de diciembre de 25. Luego tuvieron siete más: José (27), Matán (30), María (32), Judas (33), Ana (35), Elizabeth (37) y Jebud (40).
-- Amós. Nace el 9 de enero del año 7 d. de J.C. Tenía casi 13 años menos que Jesús. Murió el 3 de diciembre del año 12 d. de J.C., con casi 6 años, de una infección.
-- Ruth no se casó mientras vivió Jesús. Poco tiempo después de morir él, a primeros de junio de 30, se casó con David Zebedeo (<a id="a172_127"></a>[LU 190:1.10](/es/The_Urantia_Book/190#p1_10)). Ruth vivió antes de casarse en la casa de su madre en Cafarnaúm, a la que también se trasladó desde Nazaret la familia de Santiago (<a id="a172_307"></a>[LU 134:1.6](/es/The_Urantia_Book/134#p1_6)). Ruth y David tuvieron tres hijos: Jesús (32), Marta (34), y Mariamme (35). Ambos se trasladaron a Filadelfia a primeros de junio de 30, donde vivieron. David se ocupó de servir en la nueva casa de Lázaro en Filadelfia como protector y ayudante.
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jesus_family/family.jpg">
+<figcaption>Jesús con algunos de sus hermanos. A su izquierda, Santiago y José. A su derecha, Amós, Miriam y la pequeña Ruth.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+José y María tuvieron, aparte de a Jesús, a: Santiago, Miriam, José, Simón, Marta, Judas o Judá, Amós y Ruth, y éstas son sus familias:
+
+- Santiago, nacido el 2 de abril de 3 a.C. ([LU 123:1.5](/es/The_Urantia_Book/123#p1_5)), se casó hacia noviembre del año 20 con Esta (<a id="a165_56"></a>[LU 128:7.10](/es/The_Urantia_Book/128#p7_10)). Se trasladó a Cafarnaúm siguiendo las huellas de Jesús, y trabajó en Cafarnaúm junto a Jesús en el astillero de Zebedeo (<a id="a165_225"></a>[LU 134:1.1](/es/The_Urantia_Book/134#p1_1)). En el año 25 Santiago contaba con tres hijos: dos chicos y una chica, el menor de apenas un año. Se llamaban, por orden de edad: Santiago, María y José. El año 27 tuvieron a su cuarto hijo, Eleazar, y luego tuvieron a: Ana (29), Marta (33), y Sara (35).
+- Miriam, nacida el 11 de julio de 2 a.C. ([LU 123:2.3](/es/The_Urantia_Book/123#p2_3)), se casó con Jacobo, el amigo de la infancia de Jesús, en la misma boda que Santiago. Jacobo era albañil y vivía en una casa adyacente a la de José en Nazaret. La madre de Jacobo, Ana, vivió siempre con ellos. Jacob el padre, que había sido socio de José, había muerto años antes de casarse ellos. Tuvieron a su primer hijo, Jacob, en el año 22, y a su segundo, José, en el 24. Luego tuvieron tres más: María (28), Saúl (31) y Ana (33).
+- José, nacido el 16 de marzo de 1 ([LU 123:4.9](/es/The_Urantia_Book/123#p4_9)), se casó con Rebeca, mientras Jesús estuvo de viaje, hacia los años 22 ó 23, y vivieron en Nazaret, en la antigua casa de la familia (<a id="a167_140"></a>[LU 134:1.6](/es/The_Urantia_Book/134#p1_6)). Tuvieron a su primer hijo, Ariel, a principios del año 24, y luego tuvieron a Jesús, en julio de 26, José, en abril de 28, y María, en enero de 30. Después de morir Jesús tuvieron otro hijo el año 32. José se ocupó durante un tiempo de la tienda de provisiones para caravanas, y luego la dejó en manos de un socio y se dedicó a la carpintería.
+- Simón, nacido el 14 de abril de 2 ([LU 123:6.7](/es/The_Urantia_Book/123#p6_7)), se casó a primeros de marzo del año 24 (<a id="a166_48"></a>[LU 134:1.4](/es/The_Urantia_Book/134#p1_4)) con Ana y vivieron en Nazaret. Su primer hijo, Juan, nació en febrero de 26. Luego tuvieron seis más: Judas (29), Simón (31), María (32), Berenice (34), Samuel (35) y Josías (38). Simón era albañil y socio de Jacobo (<a id="a166_310"></a>[LU 128:2.2](/es/The_Urantia_Book/128#p2_2)), el marido de Miriam y mejor amigo de Jesús.
+- Marta, nacida el 13 de septiembre de 3 ([LU 124:1.7](/es/The_Urantia_Book/124#p1_7)), se casó con Jesús en octubre de 21. Tuvieron a su primer hijo, a quien pusieron Jesús, a mediados de diciembre de 25. Luego tuvieron siete más: José (27), Matán (30), María (32), Judas (33), Ana (35), Elizabeth (37) y Jebud (40).
+- Judá, nacido el 24 de junio de 5 ([LU 124:3.4](/es/The_Urantia_Book/124#p3_4)), se casó con Marta a primeros de marzo de 24 (<a id="a168_52"></a>[LU 134:1.4](/es/The_Urantia_Book/134#p1_4)), en una doble boda con Simón, y vivían en Magdala. Marta tuvo frecuentes problemas de salud, y sólo tuvieron un hijo, el año 33, llamado Judas. Judá era pescador.
+- Amós. Nace el 9 de enero del año 7 d. de J.C. ([LU 124:5.2](/es/The_Urantia_Book/124#p5_2)). Tenía casi 13 años menos que Jesús. Murió el 3 de diciembre del año 12 d. de J.C., con casi 6 años, de una infección.
+- Ruth nació póstuma el 17 de abril de 9 ([LU 126:3.2](/es/The_Urantia_Book/126#p3_2)), y no se casó mientras vivió Jesús. Poco tiempo después de morir él, a primeros de junio de 30, se casó con David Zebedeo (<a id="a172_127"></a>[LU 190:1.10](/es/The_Urantia_Book/190#p1_10)). Ruth vivió antes de casarse en la casa de su madre en Cafarnaúm, a la que también se trasladó desde Nazaret la familia de Santiago (<a id="a172_307"></a>[LU 134:1.6](/es/The_Urantia_Book/134#p1_6)). Ruth y David tuvieron tres hijos: Jesús (32), Marta (34), y Mariamme (35). Ambos se trasladaron a Filadelfia a primeros de junio de 30, donde vivieron. David se ocupó de servir en la nueva casa de Lázaro en Filadelfia como protector y ayudante.
 
 ¿Son fiables estos nombres y estas biografías?
 

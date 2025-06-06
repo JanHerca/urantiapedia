@@ -185,6 +185,8 @@ Et c'est de ces événements que Jésus voulait vraiment que ses apôtres se sou
 
 D'autres passages de l'Évangile de Jean en apportent la preuve.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_Last_Supper/Jesus_words.jpg">
 <figcaption>Fig. 2. — Les paroles de Jésus lors de la Cène ont-elles été mal interprétées ?</figcaption>
@@ -327,7 +329,7 @@ L'Église chrétienne d'aujourd'hui n'acceptera guère ces conclusions. Mais un 
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/The_Last_Supper.jpg">
 <figcaption>Fig. 3. — La Cène, James Tissot, 1886 — 1894. <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Last_Supper_Judas_Dipping_his_Hand_in_the_Dish_(La_Céne._Judas_met_la_main_dans_le_plat)_-_James_Tissot_(cropped).jpg">Wikimédia</a></figcaption>
 </figure>
 
