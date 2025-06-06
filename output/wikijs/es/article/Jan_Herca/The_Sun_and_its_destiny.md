@@ -8,20 +8,19 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jan Herca<br>© 2020 Asociación Urantia de España</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
+        <td></td>
         <td>
-        </td>
-        <td>
-        <a href="/es/index/articles_spain">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
         </a>
         </td>
-        <td>
-        </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -137,7 +136,7 @@ En su libro sobre astronomía, sir James Jeans no menciona nada sobre el viento 
 
 _El Libro de Urantia_ ofrece más datos interesantes sobre el Sol:
 
-> La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10^27^) de toneladas [= 1.800 Yt ó _yottatoneladas_]. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores. [LU 41:1.4](/es/The_Urantia_Book/41#p1_4)
+> La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10^27^) de toneladas [= 1.800 Yt ó _yottatoneladas_]. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores. [LU 41:4.1](/es/The_Urantia_Book/41#p4_1)
 
 La masa del Sol siempre ha sido un valor muy difícil de determinar a pesar del descubrimiento de Newton de su ley de gravitación. El propio Newton determinó el ratio entre la masa del Sol y la de la Tierra, pero no el valor en sí. El cálculo exige conocer otras variables complicadas de obtener, como la unidad astronómica (UA) o distancia entre la Tierra y el Sol, y la constante de gravitación universal (G). Como la Tierra sigue una órbita elíptica alrededor del Sol, la masa solar puede calcularse de la ecuación del período orbital (un año = 1 yr) para un cuerpo pequeño orbitando una masa central. Para el caso del Sol esta sería:
 
@@ -277,15 +276,13 @@ Tiempo de vida restante (>25 Gyr) | 1 Tyr | 5 Gyr
   <table>
     <tbody>
       <tr>
+        <td></td>
         <td>
-        </td>
-        <td>
-        <a href="/es/index/articles_spain">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
         </a>
         </td>
-        <td>
-        </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
