@@ -78,7 +78,7 @@ Face à ce panorama d'ignorance, il n'y a pas d'autre solution que de se tourner
 
 ## Que dit _Le Livre d'Urantia_ au sujet de la famille de Jésus ?
 
-> À son retour, Marie alla voir ses parents Joachim et Anna. Ses deux frères, ses deux sœurs aussi bien que ses parents furent toujours très sceptiques sur la mission divine de Jésus, bien qu’à cette époque, ils n’aient naturellement rien su de la visitation de Gabriel. Mais Marie confia bien à sa sœur Salomé qu’elle pensait que son fils était destiné à devenir un grand éducateur. <a id="a80_355"></a>[[LU 122:3.3](/fr/Le_Livre_d'Urantia/122#p3_3)]
+> À son retour, Marie alla voir ses parents Joachim et Anna. Ses deux frères, ses deux sœurs aussi bien que ses parents furent toujours très sceptiques sur la mission divine de Jésus, bien qu’à cette époque, ils n’aient naturellement rien su de la visitation de Gabriel. Mais Marie confia bien à sa sœur Salomé qu’elle pensait que son fils était destiné à devenir un grand éducateur. <a id="a80_355"></a>[[LU 122:3.3](/fr/The_Urantia_Book/122#p3_3)]
 
 > (Joseph) Dans sa jeunesse, parmi ses huit frères et sœurs... <a id="a82_71"></a>[[LU 122:5.1](/fr/The_Urantia_Book/122#p5_1)]
 
@@ -96,7 +96,7 @@ Face à ce panorama d'ignorance, il n'y a pas d'autre solution que de se tourner
 
 > En juin de cette année, Joseph céda l’atelier de Nazareth à ses frères. <a id="a96_73"></a>[[LU 123:3.7](/fr/The_Urantia_Book/123#p3_7)]
 
-> (Jésus) ne fût pas un étudiant exceptionnel, il était un élève appliqué et se classait dans le premier tiers de sa classe ; il faisait si bien son travail qu’il était dispensé de présence une semaine par mois. Il passait généralement cette semaine soit avec son oncle pêcheur sur les bords de la mer de Galilée, près de Magdala, soit à la ferme d’un autre de ses oncles (le frère de sa mère) à huit kilomètres au sud de Nazareth. <a id="a98_282"></a>[[LU 123:6.1](/fr/Le_Livre_d'Urantia/123#p6_1)]
+> (Jésus) ne fût pas un étudiant exceptionnel, il était un élève appliqué et se classait dans le premier tiers de sa classe ; il faisait si bien son travail qu’il était dispensé de présence une semaine par mois. Il passait généralement cette semaine soit avec son oncle pêcheur sur les bords de la mer de Galilée, près de Magdala, soit à la ferme d’un autre de ses oncles (le frère de sa mère) à huit kilomètres au sud de Nazareth. <a id="a98_282"></a>[[LU 123:6.1](/fr/The_Urantia_Book/123#p6_1)]
 
 Le texte semble faire référence à l'oncle de Jésus de Magdala comme s'il était le frère de Joseph, son père. D'où l'expression « frère de sa mère » pour l'autre oncle de Sarid.
 
@@ -114,7 +114,7 @@ Comme nous l’avons vu dans le passage précédent, Jésus semble être resté 
 
 > Parmi les personnes qui se tinrent près de la croix à un moment ou à un autre durant la crucifixion, il y eut Marie, Ruth, Jude, Jean, Salomé (la mère de Jean) et un groupe de croyantes sincères et convaincues comprenant Marie (femme de Clopas et sœur de la mère de Jésus), Marie-Madeleine et Rébecca, qui avait autrefois habité à Sepphoris. <a id="a114_289"></a>[[LU 187:3.2](/fr/The_Urantia_Book/187#p3_2)]
 
-> Voici les noms des femmes qui s’attardèrent ainsi près du tombeau ce vendredi soir : Marie-Madeleine, Marie la femme de Clopas, Marthe (une autre sœur de la mère de Jésus) et Rébecca de Sepphoris. <a id="a116_194"></a>[[LU 188:1.7](/fr/Le_Livre_d'Urantia/188#p1_7)]
+> Voici les noms des femmes qui s’attardèrent ainsi près du tombeau ce vendredi soir : Marie-Madeleine, Marie la femme de Clopas, Marthe (une autre sœur de la mère de Jésus) et Rébecca de Sepphoris. <a id="a116_194"></a>[[LU 188:1.7](/fr/The_Urantia_Book/188#p1_7)]
 
 Les conclusions que nous tirons sont :
 

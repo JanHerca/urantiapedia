@@ -3,7 +3,7 @@ title: "La composición de los evangelios según El Libro de Urantia"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, Judaism, religion, article
+tags: Jesus, Jesus times, Bible, Bible—Mark, Bible—Matthew, Bible—Luke, Bible—John, Apocrypha NT, Judaism, Christianity, religion, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -72,11 +72,11 @@ En mi opinión la teoría de las dos fuentes es correcta ([Wikipedia en español
 
 Pero antes deberíamos decir que en _El Libro de Urantia_ nos falta una mención que diga que Isador escribió el _Evangelio de Mateo en griego_ utilizando también como fuente las _Notas modificadas de Andrés_, al igual que hizo Lucas. Es lo lógico si pensamos que se nos cuenta que Isador se trasladó de Jerusalén a Pella (<a id="a72_323"></a>[LU 121:8.7](/es/The_Urantia_Book/121#p8_7)). Isador debió de conocer a Andrés, que seguramente también vivió en Jerusalén junto a Pedro por un tiempo. Por tanto, Isador debió de tener acceso a los escritos de Andrés, las _Notas de Andrés_ o bien una de sus versiones modificadas.
 
-Siguiendo con la teoría de las dos fuentes, el que los expertos llaman _documento Q_ no sería otro, según _El Libro de Urantia_, que los escritos perdidos del apóstol Andrés, las _Notas modificadas de Andrés_ (que precisamente es un documento que en el mundo celestial no está perdido y fue usado como fuente invaluable para escribir la cuarta parte de _El Libro de Urantia_, según ).
+Siguiendo con la teoría de las dos fuentes, el que los expertos llaman _documento Q_ no sería otro, según _El Libro de Urantia_, que los escritos perdidos del apóstol Andrés, las _Notas modificadas de Andrés_ (que precisamente es un documento que en el mundo celestial no está perdido y fue usado como fuente invaluable para escribir la cuarta parte de _El Libro de Urantia_, según [LU 121:0.1](/es/The_Urantia_Book/121#p0_1)).
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/The_composition_of_the_gospels_according_to_The_Urantia_Book/Evangelios_es.svg">
-<figcaption>Diagrama de la composición de los evangelios según El Libro de Urantia</figcaption>
+<figcaption>Diagrama de la composición de los evangelios según <em>El Libro de Urantia</em></figcaption>
 </figure>
 
 Se indica con una igualdad (=) la denominación que los expertos dan a algunas obras. En color naranja, los documentos de los que no tenemos ningún texto hoy en día; en rallas naranjas, si tenemos alguna indicación en la literatura cristiana con algún fragmento; en verde los documentos que tenemos completos. Las líneas marcan la influencia que unos escritos ejercieron sobre otros. La línea punteada es la única que no aparece mencionada en _El Libro de Urantia_, y que yo supongo también como válida.
@@ -134,7 +134,7 @@ Una lista de estos escritos, excluyendo los apócrifos que ya han sido mencionad
 - _Revelación de Pedro_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Gnostic_Apocalypse_of_Peter)): una visión supuestamente de Pedro, con claras percepciones gnósticas, y que parece ser un escrito que pretendía descalificar a cierta tendencia paulina poniendo a Pedro como garante de la fe. Siglo III.
 - _Revelación a Santiago_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/First_Apocalypse_of_James)): Diálogo gnóstico entre Jesús y su hermano Santiago de esquema muy parecido al de los anteriores. Siglo III.
 - _El libro del gran discurso iniciático_ o los _dos libros de Yeú_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Books_of_Jeu)): un tratado místico donde se ofrecen visiones místicas sobre los dioses, los ángeles y los rituales gnósticos, pero donde Jesús aparece de forma puramente nominal. Siglo III.
-- _Pistis Sofía_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Pistis_Sophia)): como una continuación del anterior, donde en forma de diálogo de Jesús con sus discípulos, se siguen desgranando ideas gnósticas sobre el origen y destino del hombre. Siglo III. ([Enlace en Urantiapedia]([/es/book/Christianity/Pistis_Sophia))
+- _Pistis Sofía_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Pistis_Sophia)): como una continuación del anterior, donde en forma de diálogo de Jesús con sus discípulos, se siguen desgranando ideas gnósticas sobre el origen y destino del hombre. Siglo III. ([Enlace en Urantiapedia](/es/book/Christianity/Pistis_Sophia))
 - _Evangelio de los egipcios_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Coptic_Gospel_of_the_Egyptians)): discurso con el típico contenido gnóstico de nombres místicos y explicaciones extrañas sobre el orden en el cosmos. Siglo II.
 - _Evangelio de la verdad_ ([Wikipedia en español](http://es.wikipedia.org/wiki/Evangelio_de_la_Verdad)): discurso u homilía de corte gnóstico valentiniano. Siglo II.
 - _Evangelio de los nazarenos_ ([Wikipedia en inglés](http://en.wikipedia.org/wiki/Gospel_of_the_Nazarenes)): tenemos unos pocos fragmentos, pero en mi opinión, y siguiendo a algunos expertos que así lo creen, este evangelio no es sino una copia del llamado evangelio de los hebreos, que yo he llamado _Evangelio de Mateo en arameo_, al igual que el evangelio de Pedro. Siglo II.
