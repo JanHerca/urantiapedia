@@ -200,7 +200,7 @@ Markdown | HTML
 `---` | `<hr>`
 `"/es/` | `"https://urantiapedia.org/es/`
 `\[\^(\d+)\]` | `[<a href="#fn$1">$1</a>]` (add `id="fn$1"` to <p> in notes)
-`^([A-Z])` | `<p style="text-align:justify;text-indent:.5cm"></p>$1` (add manually to all)
+`^([A-Z])` | `<p style="text-align:justify;text-indent:.5cm">$1` (add manually to all)
 `<a id="a\d+_\d+"></a>` | ``
 
 ### Other replacements

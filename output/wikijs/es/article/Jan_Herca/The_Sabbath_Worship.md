@@ -37,7 +37,7 @@ Las mil y una cosas que estaban prohibidas hacer en sábado llegaban a la absolu
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Jan_Herca/The_Sabbath_Worship/Jesus_Unrolls_the_Book_in_the_Synagogue.jpg">
-<figcaption>Fig. 1. — Jesús desenrolla el libro en la sinagoga<a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Jesus_Unrolls_the_Book_in_the_Synagogue_(Jésus_dans_la_synagogue_déroule_le_livre)_-_James_Tissot_-_overall.jpg"></a>Wikimedia Commons</figcaption>
+<figcaption>Fig. 1. — Jesús desenrolla el libro en la sinagoga, James Tissot. <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Jesus_Unrolls_the_Book_in_the_Synagogue_(Jésus_dans_la_synagogue_déroule_le_livre)_-_James_Tissot_-_overall.jpg">Wikimedia Commons</a></figcaption>
 </figure>
 
 Por ser el sábado de Dios el Santo precepto fundamental para Israel, se castigaba su violación. Si ésta se producía por inadvertencia, quien la comete recibe una amonestación y se hace deudor de un sacrificio expiatorio. Cuando el precepto del sábado es quebrantado, pese a los testigos y pese a la previa amonestación, su transgresión exige como pena la lapidación, en tanto que, cuando dicha transgresión se produce sin testigos, tiene por consecuencia al exterminio por la mano justiciera de Dios.
