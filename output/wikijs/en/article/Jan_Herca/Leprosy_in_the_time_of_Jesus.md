@@ -32,6 +32,15 @@ Leprosy has been a well-known pathology since ancient times, stigmatizing, mutil
 
 The term “leprosy” comes from the Greek and means “scaly.” The Greek word used by Hippocrates and the physicians of Hellas called leprosy the scaly-appearing lesions that appeared on the skin, what we know today as psoriasis. They also called this type of lesion “psoriasis léuki,” which means white leprosy.
 
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Leprosy_in_the_time_of_Jesus/Leper.jpg">
+<figcaption>Fig. 1. — Leper begging at the entrance of a city.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 The problem apparently arises from translations of the Bible, on the one hand, and from the Arabic versions of Greek works, on the other. Thus, the Hebrew term “_tsara'ath,_” which designated whitish skin lesions, is translated by the Greek word “leprosy.” As with many other biblical terms designating diseases, the lack of identification has led to insoluble translation problems. _Tsara'ath_ is the word applied generically to all skin diseases.
 
 Maimonides already interpreted it this way in his “_Tumat ha-tsara'ath,_” where he identifies this word as dermatitis or dermatosis. Thus a distinction is made between _néga ha-tsara´ath_ (primary syphilis, yaws), _tsara´ath or basar_ (ulcus durum), _tsara´ath puráht_ (secondary syphilis), _tsara´ath noshénet_ (tertiary syphilis, yaws),_tsara´ath ha-rosh_ (trichophycy or _tsara´ath_ of the head), and _tsara´ath ha-báyit_ (saprophytes, dirt, contamination).
@@ -104,6 +113,15 @@ The study of this tradition, contained in the Old Testament, and its disseminati
 In the 20th century BC, the Hebrews left Ur, in Chaldea, and traveled through the Middle East for almost three centuries. They likely brought with them leprosy and the idea of ​​illness as sin, illness as impurity, and punishment. This is evidenced by the oldest books of the Israelites. After their captivity in Egypt, the Exodus began, and Leviticus appeared, another of their books of laws, written by Moses, in which he codified and compiled all the medical knowledge they had acquired in Egypt, both preventive, curative, and religious. The filth that the Hebrews were forced to endure due to the lack of water while crossing desert areas must have caused numerous and frequent skin diseases, and this was the reason why Moses devoted such an extensive chapter to skin conditions, which he grouped under the common denominator of _zara'ath_ or _tsara'ath_. He mentions leprosy in men, in garments, and in dwellings, and relates all of them to sin ([Lv 13:2-7,9-17,25](/en/Bible/Leviticus/13#v2)). Leprosy must be diagnosed by the priest who declares the person suffering from it unclean ([Lv 13:28,47-59,35-36](/en/Bible/Leviticus/13#v28)).
 
 The religious significance of leprosy will continue to exist in the West based on biblical knowledge and propagated by the Levitical concept of impurity. From the Old Testament it will pass to the New, where the idea that leprosy is purified continues, although Jesus heals the lepers ([Lk 5:12-16](/en/Bible/Luke/5#v12)), separating for the first time the concepts of healing of the body and spiritual health through faith ([UB 141:4.4-9](/en/The_Urantia_Book/141#p4_4)). Thus this concept of religious disease will continue in Christianity for many centuries.
+
+<br>
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/Healing_of_Ten_Lepers.jpg">
+<figcaption>Fig. 2. — <em>Healing of the ten lepers</em>, James Tissot, 1886 — 1894, <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_(Guérison_de_dix_lépreux)_-_James_Tissot_-_overall.jpg">Wikimedia</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 ## First Greco-Roman descriptions
 

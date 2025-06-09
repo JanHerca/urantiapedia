@@ -32,6 +32,15 @@ La lèpre est une pathologie bien connue depuis l'Antiquité, stigmatisante, mut
 
 Le terme « lèpre » vient du grec et signifie « squameux ». Le mot grec utilisé par Hippocrate et les médecins helléniques désignait les lésions squameuses qui apparaissaient sur la peau sous le nom de lèpre, ce que nous connaissons aujourd'hui sous le nom de psoriasis. Ils ont également appelé ce type de lésions « psoriasis leuki », ce qui signifie lèpre blanche.
 
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Leprosy_in_the_time_of_Jesus/Leper.jpg">
+<figcaption>Fig. 1. — Lépreux mendiant à l'entrée d'une ville.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 Le problème se pose apparemment à cause des traductions de la Bible, d’une part, et des versions arabes des œuvres grecques, d’autre part. Ainsi le terme hébreu « _tsara'ath_ », qui désignait des lésions cutanées blanchâtres, est traduit par le mot grec lèpre. Le mot _tsara'ath_ a été utilisé comme beaucoup d'autres termes bibliques désignant des maladies qui, parce qu'elles ne peuvent être identifiées, ont créé des problèmes de traduction insolubles. _Tsara'ath_ est le mot qui était appliqué de manière générique à toutes les maladies de la peau.
 
 Maïmonide l'a déjà interprété de cette façon dans son « _Tumat ha-tsara´ath_ », où il identifie ce mot comme une dermatite ou une dermatose. On distingue ainsi entre _néga ha-tsara´ath_ (syphilis primaire, pian), _tsara´ath ou basar_ (ulcus durum), _tsara´ath puráht_ (syphilis secondaire), _tsara´ath noshénet_ (syphilis tertiaire, pian),_tsara'ath ha-rosh_ (trichophycie ou _tsara'ath_ de la tête), et _tsara'ath ha-báyit_ (saprophytes, saleté, contamination).
@@ -104,6 +113,15 @@ L'étude de cette tradition, contenue dans l'Ancien Testament, et sa diffusion n
 Au XXe siècle avant J.-C., les Hébreux quittent Ur, en Chaldée, pour traverser le Moyen-Orient pendant près de trois siècles. Ils portent sûrement avec eux la lèpre et l’idée de maladie-péché, de maladie-impureté-punition. Les plus anciens livres des Israélites le prouvent. Après leur captivité en Égypte, l'Exode eut lieu, et parut le Lévitique, un autre de leurs livres de lois, écrit par Moïse, dans lequel il codifia et compila toutes les connaissances médicales qu'ils avaient acquises en Égypte, à la fois préventives, curatives et religieuses. La saleté à laquelle les Hébreux étaient obligés de faire face en raison du manque d'eau lorsqu'ils traversaient des zones désertiques devait être la cause de nombreuses maladies de peau fréquentes, et c'est la raison pour laquelle Moïse a consacré un chapitre aussi étendu aux affections cutanées qu'il a regroupées sous le dénominateur commun de _zara'ath_ ou _tsara'ath_. Il mentionne la lèpre chez les hommes, dans les vêtements et dans les maisons, et relie tout cela au péché ([Lv 13:2-7,9-17,25](/fr/Bible/Leviticus/13#v2)). La lèpre doit être diagnostiquée par le prêtre qui déclare impur la personne qui en souffre ([Lv 13:28,47-59,35-36](/fr/Bible/Leviticus/13#v28)).
 
 La signification religieuse de la lèpre continuera d’exister en Occident, fondée sur la connaissance biblique et propagée par le concept lévitique d’impureté. De l'Ancien Testament on passera au Nouveau, dans lequel l'idée que la lèpre est purifiée continue, bien que Jésus guérisse les lépreux ([Luc 5:12-16](/fr/Bible/Luke/5#v12)) séparant pour la première fois les concepts de guérison du corps et de santé spirituelle par la foi ([LU 141:4.4-9](/fr/The_Urantia_Book/141#p4_4)). Ainsi, ce concept de maladie religieuse perdurera dans le christianisme pendant de nombreux siècles.
+
+<br>
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/Healing_of_Ten_Lepers.jpg">
+<figcaption>Fig. 2. — <em>Guérison des dix lépreux</em>, James Tissot, 1886 — 1894, <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_(Guérison_de_dix_lépreux)_-_James_Tissot_-_overall.jpg">Wikimedia</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 ## Premières descriptions gréco-romaines
 

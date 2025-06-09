@@ -32,6 +32,15 @@ La lepra ha sido una patología bien conocida desde tiempos antiguos, estigmatiz
 
 El término «lepra» proviene del griego y significa «escamoso». La palabra griega utilizada por Hipócrates y los médicos de la Hélade llamaba lepra a las lesiones aparecidas en la piel con aspecto escamoso, lo que hoy conocemos con el nombre de psoriasis. También llamaron a este tipo de lesiones «psoriasis léuki», que significa lepra blanca.
 
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Leprosy_in_the_time_of_Jesus/Leper.jpg">
+<figcaption>Fig. 1. — Leproso pidiendo limosna a la entrada de una ciudad.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 El problema surge aparentemente a causa de las traducciones de la Biblia, por un lado, y de otro por las versiones al árabe de las obras griegas. Así el término hebreo «_tsara´ath_», con el que se designaban las lesiones blanquecinas de la piel, es traducido por la palabra griega lepra. Con la palabra _tsara´ath_ ha sucedido como con otros muchos términos bíblicos que designan enfermedades, que al no poder identificarlos han creado problemas insolubles de traducción. _Tsara'ath_ es la palabra que se aplicaba genéricamente a todas las enfermedades de la piel.
 
 Maimónides ya lo interpretó así en su «_Tumat ha-tsara´ath_», donde identifica esta palabra como dermatitis o dermatosis. Así se hace distingo entre _néga ha-tsara´ath_ (sífilis primaria, frambuesia), _tsara´ath or basar_ (ulcus durum), _tsara´ath puráht_ (sífilis secundaria), _tsara´ath noshénet_ (sífilis terciaria, frambesia), _tsara´ath ha-rosh_ (tricoficia o _tsara´ath_ de la cabeza), y _tsara´ath ha-báyit_ (saprofites, suciedad, contaminación).
@@ -104,6 +113,15 @@ El estudio de esta tradición, contenido en el Antiguo Testamento, y su difusió
 En el siglo XX a.C. los hebreos salen de Ur, en Caldea, para atravesar por espacio de casi tres siglos el Medio Oriente. Seguramente llevan consigo la lepra y la idea de enfermedad-pecado, enfermedad impureza-castigo. Lo demuestran los libros más antiguos de los israelitas. Después de su cautiverio en Egipto se produce el éxodo, y aparece el Levítico, otro de sus libros de leyes, escrito por Moisés, en el que codifica y reúne cuantos conocimientos médicos habían adquirido en Egipto, preventivos, curativos y religiosos. La suciedad a que forzosamente se vieron abocados los hebreos, por falta de agua al atravesar zonas desérticas, debió ser causa de múltiples y frecuentes enfermedades de la piel, y ésta fue la razón de que Moisés dedicase tan extenso capítulo a las afecciones cutáneas que agrupó bajo el denominador común de _zara´ath_ o _tsara´ath_. Menciona la lepra del hombre, la de los vestidos y la de las viviendas, y relaciona todas con el pecado ([Lv 13:2-7,9-17,25](/es/Bible/Leviticus/13#v2)). La lepra ha de ser diagnosticada por el sacerdote que declara impuro al que la padece ([Lv 13:28,47-59,35-36](/es/Bible/Leviticus/13#v28)). 
 
 El significado religioso de la lepra continuará existiendo en Occidente a partir del conocimiento bíblico y propagado por el concepto levítico de impureza. Del Antiguo Testamento pasará al Nuevo, en el que continúa la idea de que la lepra se purifica, aunque Jesús cura a los leprosos ([Lc 5:12-16](/es/Bible/Luke/5#v12)) separando por primera vez los conceptos de curación del cuerpo y de salud espiritual por la fe ([LU 141:4.4-9](/es/The_Urantia_Book/141#p4_4)). Así continuará este concepto de enfermedad religiosa en el cristianismo por muchos siglos.
+
+<br>
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
+<img src="/image/The_Urantia_Book/Jesus_life/paintings/Healing_of_Ten_Lepers.jpg">
+<figcaption>Fig. 2. — <em>Curación de los diez leprosos</em>, James Tissot, 1886 — 1894, <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_(Guérison_de_dix_lépreux)_-_James_Tissot_-_overall.jpg">Wikimedia</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 ## Primeras descripciones grecorromanas
 
