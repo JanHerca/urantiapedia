@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-La Decápolis la componían un conjunto de diez ciudades originadas durante la influencia helénica del siglo II a.C. No era propiamente un territorio de Palestina, como Judea y Galilea, sino que la zona que comprendía era aproximada y no tenía una demarcación territorial definida.
+La Decápolis la componían un conjunto de unas cuantas ciudades (como de unas diez, de ahí su nombre) originadas durante la influencia helénica del siglo II a.C. No era propiamente un territorio de Palestina, como Judea y Galilea, sino que la zona que comprendía era aproximada y no tenía una demarcación territorial definida.
 
 La mayoría de las ciudades, como hemos dicho, se constituyeron cuando los descendientes de los generales de Alejandro, lágidas de Egipto y seléucidas de Siria, conquistaron Palestina. Comprendía estas diez poblaciones: Escitópolis, Pella, Gerasa, Filadelfia, Hipos, Gadara, Abila, Dium, Rafaná y Damasco. Las más notables eran Gerasa, Pella, Hipos, Gadara, Filadelfia y, más al norte, Damasco.
 
@@ -181,7 +181,7 @@ Cuando Jesús contaba con 11 años acompañó a su padre a Escitópolis por tema
 
 Jesús volvió a ver la ciudad, pero ya de lejos, el año 7 d.C., cuando viajó por primera vez con sus padres a Jerusalén ([LU 124:6.4](/es/The_Urantia_Book/124#p6_4)).
 
-Fue uno de los sitios visitados por Jesús, los doce y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
+Fue uno de los sitios visitados por Jesús, los doce de Jesús y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
 
 También fue visitada durante la segunda gira de predicación pública por Galilea, del domingo 3 de octubre al 30 de diciembre del 28 d.C. ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
 
@@ -335,7 +335,7 @@ Justo al oeste y al sur del templo de Artemisa se disponían otros templos dedic
 
 ### El Libro de Urantia
 
-Se nos cuenta que Jesús pasó por esta ciudad en su viaje a Jerusalén cuando llevó a su hermano pequeño Simón para pasar allí la Pascua ([LU 128:3.2](/es/The_Urantia_Book/128#p3_2)). También estuvo de paso con Juan Zebedeo cuando Jesús marchó por unos días a Jerusalén antes de iniciar su labor pública ([LU 134:9.1](/es/The_Urantia_Book/134#p9_1)).
+Se nos cuenta que Jesús pasó por esta ciudad en su viaje a Jerusalén cuando llevó a su hermano pequeño Simón para celebrar allí la Pascua ([LU 128:3.2](/es/The_Urantia_Book/128#p3_2)). También estuvo de paso con Juan Zebedeo cuando Jesús marchó por unos días a Jerusalén antes de iniciar su labor pública ([LU 134:9.1](/es/The_Urantia_Book/134#p9_1)).
 
 Es una de las poblaciones visitadas durante la primera gira de predicación en el mar de Galilea, del 23 de junio al 7 de julio de 26, que realizaron los doce en solitario. ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3))
 
@@ -470,13 +470,13 @@ Los baños eran famosos en tiempos de los romanos por sus propiedades salutífer
 
 Tomás Dídimo era pescador de Tariquea pero en otro tiempo fue carpintero y albañil en Gadara ([LU 138:2.5](/es/The_Urantia_Book/138#p2_5)). Gadara fue una de las poblaciones recorridas durante el primer trabajo de los doce, de mediados de agosto de 26 a finales de 26 ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)).
 
-Fue uno de los sitios visitados por Jesús, los doce y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
+Fue uno de los sitios visitados por Jesús, los doce de Jesús y los doce de Juan durante la primera gira de predicación por la Decápolis, entre noviembre y diciembre de 27 ([LU 144:7.1](/es/The_Urantia_Book/144#p7_1)).
 
-También fue uno de los sitios visitados por Jesús, los doce y los 117 evangelistas durante la segunda gira de predicación en Galilea, entre el 3 de octubre de 28 y el 30 de diciembre de 28 ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
+También fue uno de los sitios visitados por Jesús, los doce de Jesús y los 117 evangelistas durante la segunda gira de predicación en Galilea, entre el 3 de octubre de 28 y el 30 de diciembre de 28 ([LU 149:0.1](/es/The_Urantia_Book/149#p0_1)).
 
-Fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)). Fue una de las poblaciones recorridas en la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+Fue una de las poblaciones visitadas por los doce de Jesús, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)). Fue una de las poblaciones recorridas en la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
 
-En los evangelios se menciona un suceso, el [exorcismo del endemoniado gadareno](https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac) ([Mt 8:28-34](/es/Bible/Matthew/8#v28); [Mc 5:1-20](/es/Bible/Mark/5#v1); [Lc 8:26-39](/es/Bible/Luke/8#v26)), que es mencionado como sucediendo en Gadara, pero que _El Libro de Urantia_ identifica en realidad con [Jeresa](https://urantiapedia.org/es/topic/Kheresa) (llamada también en español Gergesa), el hogar de los gemelos Alfeo. Tiene mucho más sentido que fuera esta localidad. Ni Gadara ni la otra solución propuesta, Geresa, son poblaciones cercanas a la orilla del mar de Galilea. Véase [Amós, el lunático de Jeresa](https://urantiapedia.org/es/topic/Amos_(Kheresa_lunatic)).
+En los evangelios se menciona un suceso, el [exorcismo del endemoniado gadareno](https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac) ([Mt 8:28-34](/es/Bible/Matthew/8#v28); [Mc 5:1-20](/es/Bible/Mark/5#v1); [Lc 8:26-39](/es/Bible/Luke/8#v26)), que es sugerido como sucediendo en Gadara, pero que _El Libro de Urantia_ identifica en realidad con [Jeresa](https://urantiapedia.org/es/topic/Kheresa) (llamada también en español Gergesa), el hogar de los gemelos Alfeo. Tiene mucho más sentido que fuera esta localidad. Ni Gadara ni la otra solución propuesta, Geresa, son poblaciones cercanas a la orilla del mar de Galilea. Véase [Amós, el lunático de Jeresa](https://urantiapedia.org/es/topic/Amos_(Kheresa_lunatic)).
 
 ### Referencias
 
@@ -512,7 +512,7 @@ Vamos a hacer un intento de aproximarnos a lo que fue la ciudad en tiempos de Je
 
 **Ciudad vieja**
 
-La mayoría de los atractivos del Damasco de hoy están en la ciudad vieja, rodeada por lo que fue la antigua muralla romana. La muralla ha sido derrumbada y reconstruida numerosas veces en los últimos 2000 años. La que hoy está en pie data del siglo XIII. Pero sigue las directrices de la existente en el siglo I.
+La mayoría de los atractivos del Damasco de hoy están en la ciudad vieja, rodeada por lo que fue la antigua muralla romana. La muralla ha sido derrumbada y reconstruida numerosas veces en los últimos 2000 años. La que hoy está en pie data del siglo XIII, pero sigue las directrices de la existente en el siglo I.
 
 Diversas puertas abrían el paso a través de la muralla, pero sólo una de las que hoy existen (la Puerta Este) se remonta a tiempos de los romanos.
 
@@ -539,13 +539,13 @@ Era el antiguo _decumanus maximus_, la principal calzada romana, que iba de este
 
 Jesús conoció a un profesor de matemáticas de Damasco, y después de aprender algunas nuevas técnicas aritméticas, dedicó mucho tiempo a las matemáticas durante varios años ([LU 123:6.3](/es/The_Urantia_Book/123#p6_3)).
 
-El año 17 d.C., tras una visita a Jerusalén en la que Jesús llevó a su hermano Dimón por la Pascua, conocieron a un mercader de Damasco. Este hombre ofreció trabajo a Jesús en Damasco pero Jesús rehusó amablemente ([LU 128:3.3](/es/The_Urantia_Book/128#p3_3)). Más tarde, ante la insistencia del mercader, Jesús aceptó pasar unos meses de ese año en Damasco organizando una nueva escuela en la ciudad ([LU 128:4](/es/The_Urantia_Book/128#p4)). Este evento de la vida de Jesús provocó que durante un tiempo se le conociera como el «escriba de Damasco» ([LU 129:3.2](/es/The_Urantia_Book/129#p3_2)).
+El año 17 d.C., tras una visita a Jerusalén en la que Jesús llevó a su hermano Simón por la Pascua, conocieron a un mercader de Damasco. Este hombre ofreció trabajo a Jesús en Damasco pero éste rehusó amablemente ([LU 128:3.3](/es/The_Urantia_Book/128#p3_3)). Más tarde, ante la insistencia del mercader, Jesús aceptó pasar unos meses de ese año en Damasco organizando una nueva escuela ([LU 128:4](/es/The_Urantia_Book/128#p4)). Este evento de la vida de Jesús provocó que durante un tiempo se le conociera como el «escriba de Damasco» ([LU 129:3.2](/es/The_Urantia_Book/129#p3_2)).
 
 Jesús pasó por Damasco en su viaje de regreso de Roma con Ganid y Gonod ([LU 130:0.3](/es/The_Urantia_Book/130#p0_3), [LU 133:8](/es/The_Urantia_Book/133#p8)), el año 23 d.C.. A su regreso de Charax, donde Jesús se despidió de Ganid y Gonod, regresó a Damasco ([LU 134:1.1](/es/The_Urantia_Book/134#p1_1)).
 
 Después de su viaje hasta el mar Caspio, Jesús regresó en una caravana que pasó por Damasco ([LU 134:2.5](/es/The_Urantia_Book/134#p2_5)).
 
-El apóstol Pablo experimentó una conversión repentina y espectacular el día memorable en el camino de Damasco ([LU 100:5.3](/es/The_Urantia_Book/100#p5_3)), aunque _El Libro de Urantia_ no especifica a qué se debió, es llamativo que no dice nada acerca de una aparición o una voz de Jesús ([Hch 9:1-9](/es/Bible/Acts_of_the_Apostles/9#v1)).
+El apóstol Pablo experimentó una conversión repentina y espectacular un día memorable en el que iba camino de Damasco ([LU 100:5.3](/es/The_Urantia_Book/100#p5_3)). Aunque _El Libro de Urantia_ no especifica a qué se debió, es llamativo que no dice nada acerca de una aparición o una voz de Jesús ([Hch 9:1-9](/es/Bible/Acts_of_the_Apostles/9#v1)).
 
 <figure id="Figure_25" class="image urantiapedia image-style-align-center">
 <img src="../../../image/article/Jan_Herca/Decapolis/4a2b7ea65577c79a321e6a9793e8cddd.jpg">
@@ -567,9 +567,9 @@ El apóstol Pablo experimentó una conversión repentina y espectacular el día 
 <figcaption><em>Vista del tell septentrional (Tell al-Abila) y la basílica del siglo VI.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
 </figure>
 
-Abila, distinguida como Abila en la Decápolis, y también conocida durante un tiempo como Seleucia y Abila Viniferos, fue una ciudad de la Decápolis; el sitio, ahora conocido como Qweilbeh, ocupa dos tell, Tell al-Abila y Khirbet Tell Umm al-Amad.
+Abila, distinguida como «Abila en la Decápolis», y también conocida durante un tiempo como Seleucia y _Abila Viniferos_, fue una ciudad de la Decápolis; el sitio, ahora conocido como Qweilbeh, ocupa dos tell, Tell al-Abila y Khirbet Tell Umm al-Amad.
 
-El nombre de Abila proviene de la palabra semita Abel (prado, en árbe verdor). El emplazamiento se encuentra entre verdes campos agrícolas, cerca del actual manantial de Ain Quweilbeh, con olivares y campos de trigo.
+El nombre de Abila proviene de la palabra semita Abel («prado», en árabe «verdor»). El emplazamiento se encuentra entre verdes campos agrícolas, cerca del actual manantial de Ain Quweilbeh, con olivares y campos de trigo.
 
 <br style="clear:both;"/>
 
@@ -580,9 +580,9 @@ El nombre de Abila proviene de la palabra semita Abel (prado, en árbe verdor). 
 <figcaption><em>Vista del tell meridional (Tell Umm al-Amad) y la basílica del siglo VII-VIII.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
 </figure>
 
-El sitio estuvo en uso desde el Neolítico hasta los períodos abasí / fatimí y ayubí /mameluco, desde el 4000 a.C. al 1500 d.C. Las excavaciones han sido más intensas desde 1980 aunque mucho permanece sin excavar.
+El sitio estuvo en uso desde el Neolítico hasta los períodos abasí / fatimí y ayubí / mameluco, desde el 4000 a.C. al 1500 d.C. Las excavaciones han sido más intensas desde 1980 aunque mucho permanece sin excavar.
 
-Polibio y Josefo mencionan la captura de la ciudad por el rey seléucida Antíoco III en el 218 a.C. Luego el rey asmoneo Alejandro Janneo conquistó Abila dustante sus guerras de expansión. Finalmente, Abila fue tomada por el general romano Pompeyo en el 63 a.C. y se le concedió la independencia. En los períodos romano y bizantino posteriores, Abila alcanzó una posición de importancia regional al formar parte de la Decápolis, como lo demuestra una inscripción de la época del emperador Adriano (117-138).
+Polibio y Josefo mencionan la captura de la ciudad por el rey seléucida Antíoco III en el 218 a.C. Luego el rey asmoneo Alejandro Janneo conquistó Abila durante sus guerras de expansión. Finalmente, Abila fue tomada por el general romano Pompeyo en el 63 a.C. y se le concedió la independencia. En los períodos romano y bizantino posteriores, Abila alcanzó una posición de importancia regional al formar parte de la Decápolis, como lo demuestra una inscripción de la época del emperador Adriano (117-138).
 
 Las evidencias arqueológicas de esta época incluyen un templo y monedas que muestran la veneración en la ciudad de Heracles, Tique (diosa de la fortuna) y Atenea (diosa de la sabiduría).
 
@@ -680,53 +680,111 @@ Dium (Dion) es mencionada como una de las poblaciones visitadas por Jesús, los 
 
 ## Rafaná
 
-Esta ciudad estaba en medio del territorio de Filipo, aunque como Damasco, se mantenía en la autonomía de la Decápolis.
+Rafaná fue una de las ciudades de la Decápolis mencionadas por Plinio el Viejo en su _Naturalis Historia_ (Libro V.74).
 
-## Otras poblaciones
+No está aún muy claro el emplazamiento de esta ciudad. Se ha identificado con la Rafón de los Macabeos o con Abila, en el wadi Queilbeh, pero no hay evidencia arqueológica de que Abila se haya llamado otra cosa que _Abila dekapoleos_, _Abila Seleukia_ o _Abilia viniferos_, y Eusebio la menciona en su _Onomastikon_ como 12 millas al este de Gadara.
 
-Debemos mencionar como poblaciones también pertenecientes a este territorio de la Decápolis a: Capitolias, Efrom, Galaad, Bosora y Canatá. No mantenían la independencia de la Decápolis, pero su posición las hacía conferirse de ciertos atributos de identidad con la liga de las diez ciudades.
+Investigaciones recientes han hallado una ubicación plausible en el noroeste de la Decápolis, lo que coincide con un relato de Flavio Josefo acerca de unas fortalezas en un lugar llamado Raepta, quizá un asentamiento predecesor de Rafaná. Otra evidencia es una anotación en la _Notitia Dignitatum_ (un antiguo manuscrito administrativo del imaperio romano tardío) habla de una población llamada Arefa que tuvo una unidad militar romano, un ala, en ese lugar. Parece que, con gran probabilidad, la Rafaná de la Decápolis, su predecesora Raepta y su sucesora Arpha / Arefa se encuentra en las ruinas de Khirbet ar-Rafi'ah, situada en Ard al-Fanah, al sureste de Damasco.
 
-### Canatá
+Durante un tiempo, la ciudad parece haber sido el campamento base de la XII legión romana, Legio XII Fulminata, así como de la Legio III Gallica.
 
-Ciudad situada muy al este. Poco podemos decir de esta ciudad antigua. El monumento mejor conservado hoy se conoce como Seraglio. Los historiadores creen que era una combinación de templos, cuyo edificio más intacto data de la segunda mitad del siglo II d.C. Debemos pues suponer que los griegos y romanos levantaron un templo en los que sería un templo anterior.
+### El Libro de Urantia
 
-Al norte desde aquí (hacia la izquierda desde la fachada principal) se llega hasta la orilla de un río donde aún se pueden ver los restos de un teatro, un ninfeo y otras reliquias esparcidas.
+Aunque Jesús y los doce predicaron en la Decápolis, esta población no es mencionada nunca en el _El Libro de Urantia_. No está claro si su situación tan al este (es la población de la Decápolis más oriental) tuvo algo que ver con esto y significa que Jesús y sus discípulos no se alejaron tanto del mar de Galilea. Tampoco se nos menciona que Jesús entrase en Damasco durante sus predicaciones por la Decápolis, por lo que tiene sentido que un territorio tan distante fuera excluido por Jesús y los apóstoles para realizar su ministerio. Esta suposición se confirma por el hecho de que Canata, otra población de la Decápolis, que está más o menos tan al este como Rafaná, tampoco es mencionada como parte de las predicaciones de Jesús, sino de Aden, un predicador espontáneo que inició un movimiento en favor del Maestro después de escuchar al famoso lunático que había sido curado por él ([LU 159:2.4](./es/The_Urantia_Book/159#p2_4)).
 
-### Bosora (Bosra)
+### Referencias
 
-La ciudad de Bosra yace entre dos wadis, ambos de los cuales llegan hasta el río Yarmuk. Se encuentra también hacia el este, a través de fértiles llanuras repletas de orcas de basalto negro. Era muy importante en la antigüedad por su situación en la encrucijada de varias rutas comerciales.
+- [Wikipedia](https://en.wikipedia.org/wiki/Raphana)
+- [Raphana of the Decapolis and its succesor Arpha — The search for an eminent Greco-Roman City](https://peercommunityjournal.org/item/10.24072/pcjournal.201.pdf), Perr Community Journal, Archaeology.
 
-Se trata de un lugar extraño y maravilloso. Aparte de poseer el que quizá sea el teatro romano mejor conservado existente, el resto de la población se construye sobre, en y alrededor de antiguos restos de edificios romanos, casi enteramente levantados con bloques de basalto negro. 
+## Canata
+
+Canatá es una ciudad situada muy al este. Se haya en la pendiente occidental del Haurán, y sus ruinas se llaman hoy Kanawât o Qanawat. Se encuentra a una altura de 1200 m, cerca de un río y rodeada de bosques.
 
 ### Historia
 
-Bosra aparece mencionada en registros egipcios tan antiguos como del año 130 a.C. y durante el siglo I d.C. se convirtió en la capital septentronal del reino Nabateo; la capital meridional era Petra.
+Es una de las ciudades más antiguas de las zonas de Basán y Haurán. Probablemente es la mencionada en la Biblia como Kenath ([Nm 32:42](/es/Bible/Numbers/32#v42), [1 Cr 2:23](/es/Bible/1_Chronicles/2#v23)). En época romana se la menciona por primera vez durante el reinado de Herodes el Grandes, cuando las fuerzas nabateas derrotaron al ejército judío. Desde Pompeyo en adelante pasó a formar parte de la Decápolis. En el siglo I d.C. fue anexionada a la provincia romana de Siria, y en el siglo II, bajo Septimio Severo, pasó a ser colonia romana rebautizada como Septimia Canatha, ya como parte de la provincia romana de Arabia.
+
+Existió una notable comunidad cristiana. Conocemos el nombre de un obispo, Teodosio, que participó en varios concilios celebrados en el siglo V.
+
+### Descripción
+
+Las extensas ruinas antiguas de la ciudad tienen 1500 m de largo y 750 m de ancho. Entre ellas se encuentran un puente romano y un teatro excavado en la roca, con nueve gradas y una orquesta de diecinueve metros de diámetro, además de un ninfeo, un acueducto y un gran templo próstilo con pórtico y columnatas. Al noroeste de la ciudad se encuentra un templo peripteral de finales del siglo II o principios del III, construido sobre una plataforma elevada rodeada por una columnata. Durante años, se creyó que este templo honraba a Helios, pero una inscripción descubierta en 2002 muestra que estaba dedicado a un dios local, Rabbos.
+
+El monumento mejor conservado hoy se conoce como Es-Serai, Seraya o Seraglio (palacio). Los historiadores creen que era una combinación de templos, cuyo edificio más intacto data de la segunda mitad del siglo II d.C. Debemos pues suponer que los griegos y romanos levantaron este templo encima de un templo anterior.
+
+<br>
+
+<figure id="Figure_32" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Al_Quanawat-Kanatha_-_GAR_-_8-05.jpg">
+<figcaption><em>Templo Seraglio en Canata, dedicado al dios Rabbos.</em> <a href="https://en.wikipedia.org/wiki/File:Al_Quanawat-Kanatha_-_GAR_-_8-05.jpg">Wikipedia</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+### El Libro de Urantia
+
+Como se ha indicado antes para Rafaná, Jesús parece que nunca pisó esta localidad. Es únicamente mencionada como lugar de predicación de Aden, un predicador con quien se enfrentó el apóstol Juan en Astarot, pero que no hizo caso y llegó a formar un grupo de seguidores en Canata.
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Qanawat)
+
+## Bosora (Bosra)
+
+La ciudad de Bosra yace entre dos wadis, ambos de los cuales llegan hasta el río Yarmuk. Se encuentra también hacia el este, a través de fértiles llanuras repletas de orcas de basalto negro. Era muy importante en la antigüedad por su situación en la encrucijada de varias rutas comerciales.
+
+Se trata de un lugar extraño y maravilloso. Aparte de poseer el que quizá sea el teatro romano mejor conservado existente, el resto de la población se construye sobre, en y alrededor de antiguos restos de edificios romanos, casi enteramente levantados con bloques de basalto negro.
+
+<br>
+
+<figure id="Figure_33" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/bosra-map-0.jpg">
+<figcaption><em>Teatro romano de Bosra.</em> <a href="https://www.orangesmile.com/travelguide/bosra/high-resolution-maps.htm">Mapa ata resolución</a></figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+### Historia
+
+Bosra aparece mencionada en registros egipcios tan antiguos como del año 130 a.C. y durante el siglo I d.C. se convirtió en la capital septentrional del reino Nabateo; la capital meridional era Petra.
 
 En el 106 d.C. la zona fue anexionada por los romanos y Bosra se convirtió en la capital de la Provincia de Arabia, rebautizada como Nova Trajana Bostra.
 
-### Descripción 
-
-(ver mapa)
+### Descripción
 
 La ciudadela es una curiosa construcción ya que en buena parte consiste en un teatro romano fortificado. Ambas estructuras son de hecho una misma (la fortaleza fue construida alrededor del tearo romano para hacer de él un reducto inexpugnable).
 
-Al entrar en la ciudadela resulta sorprendente ver ese magnifíco teatro con capacidad para 15.000 personas. En comparación con otros teatros de su época, resulta de una rareza debido a que no se inclina sobre la ladera del montículo, como era lo habitual, sino que se levanta apoyándose sobre sí mismo.
+Al entrar en la ciudadela resulta sorprendente ver ese magnifíco teatro con capacidad para 15.000 personas. En comparación con otros teatros de su época, resulta de una gran rareza debido a que no se inclina sobre la ladera del montículo, como era lo habitual, sino que se levanta apoyándose sobre sí mismo.
 
-El escenario queda delimitado en su parte posterior por filas de columnas corintias y toda la fachada estaba originalmente cubierta de mármol blanco. Un techo de madera solía cubrir el escenario, mientras que el resto del teatro quedaba protegido de los elementos por todos de seda. Por si esto no fuera suficiente refinamiento, se rociaba el ambiente con agua perfumda que caía finamente sobre las cabezas de los espectadores.
+<figure id="Figure_34" class="image urantiapedia image-style-align-center">
+<img src="../../../image/article/Jan_Herca/Decapolis/Syria_bosra_theater.jpg">
+<figcaption><em>Teatro romano de Bosra.</em> <a href="https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra#/media/File:Syria_bosra_theater.jpg">Wikipedia</a></figcaption>
+</figure>
 
-Al norte de la ciudadela está la calle principal de la ciudad vieja que transcurre aprox. en sentido este-oeste. En el extremo occidental está la Gran Puerta del Viento. A los largo de la calle principal se pueden ver restos de las columnas encontradas en excavaciones.
+El escenario queda delimitado en su parte posterior por filas de columnas corintias y toda la fachada estaba originalmente cubierta de mármol blanco. Un techo de madera solía cubrir el escenario, mientras que el resto del teatro quedaba protegido de los elementos por toldos de seda. Por si esto no fuera suficiente refinamiento, se rociaba el ambiente con agua perfumada que caía finamente sobre las cabezas de los espectadores.
+
+Al norte de la ciudadela está la calle principal de la ciudad vieja que transcurre aproximadamente en sentido este-oeste. En el extremo occidental está la Gran Puerta del Viento. A lo largo de la calle principal se pueden ver restos de las columnas encontradas en las excavaciones.
 
 Otro vestigio son cuatro enormes columnas corintias, restos del ninfeo, que abastecía de agua a personas y jardines.
 
 Justo detrás hay otra columna de lo que queda de un templo erigido por un rey de Bosra para proteger a su hija contra la muerte.
 
-Justo en frente estaban los baños romanos. Consistían en una serie de salas de baño en que el bañista recorría sumergiéndose en ellas hasta llegar finalmente al baño de vapor.
+Justo en frente estaban los baños romanos. Consistían en una serie de salas de baño que el bañista recorría sumergiéndose en ellas hasta llegar finalmente al baño de vapor.
 
 Debido a la presencia de iglesias en la calle principal debemos suponer que quizá estaban construidas sobre lo que fuesen templos paganos.
 
-En el extremo oriental de la calle se encuentran la puerta y columna nabateas. La puerta es la principal entrada al palacio en el que vivió el rey nabateo Rabel II. La columna es la única es su estilo en Siria y sostiene el típicoy simple capitel nabateo.
+En el extremo oriental de la calle se encuentran la puerta y columna nabateas. La puerta es la principal entrada al palacio en el que vivió el rey nabateo Rabel II. La columna es la única es su estilo en Siria y sostiene el típico y simple capitel nabateo.
 
-Algo más alejadas de la población están dos cisternas que solían abastecer de agua de la cudad.
+Algo más alejadas de la población están dos cisternas que solían abastecer de agua a la cudad.
+
+### El Libro de Urantia
+
+Bosora sólo es mencionada en El Libro de Urantia como parte de las poblaciones que constituyeron el último esfuerzo misionero de Jesús y sus seguidores, desde el 3 de enero del año 30 hasta el final de su vida. En esta labor se recorrieron decenas de localidades de Perea y la Decápolis ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+
+### Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra)
 
 ## Referencias
 
