@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2025 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -35,7 +35,7 @@ Todas se hallaban en la transjordania, excepto Escitópolis, que era la única e
 ## Historia
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/The_Decapolis_Map.png">
+<img src="/image/article/Jan_Herca/Decapolis/The_Decapolis_Map.png">
 <figcaption><em>Mapa de la Decápolis. </em><a href="https://en.wikipedia.org/wiki/File:The_Decapolis_Map.png">Wikipedia</a></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Por consiguiente, el sentimiento generalizado hacia estas ciudades era de preven
 Filadelfia estaba situada hacia el sur de la región de la Decápolis. Hoy en día se conoce a esta ciudad como Ammán, la capital de Jordania.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Map_of_Philadelphia_(Amman).png">
+<img src="/image/article/Jan_Herca/Decapolis/Map_of_Philadelphia_(Amman).png">
 <figcaption><em>Mapa de Filadelfia. </em><a href="https://commons.wikimedia.org/wiki/File:Map_of_Philadelphia_(Amman).png">Wikimedia</a></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ La historia de Ammán desde entonces (aprox. 585 a.C.) hasta el tiempo de los to
 ### Descripción
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Roman_theater_of_Amman_01.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Roman_theater_of_Amman_01.jpg">
 <figcaption><em>Filadelfia. Teatro romano. </em><a href="https://en.wikipedia.org/wiki/File:Roman_theater_of_Amman_01.jpg">Wikimedia</a></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ El teatro romano era impresionante. Estaba excavado en la ladera norte de una co
 Justo en frente del teatro están los restos de una plaza con columnas que antiguamente formó parte del foro de la ciudad.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/Jan_Herca/Decapolis/Amman_Forum_South-western_colonnade.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Amman_Forum_South-western_colonnade.jpg">
 <figcaption><em>Filadelfia. Columnata suroccidental del foro. </em><a href="https://en.wikipedia.org/wiki/File:Amman_Forum_South-western_colonnade.jpg">Wikimedia</a></figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Estos últimos datos proporcionados por _El Libro de Urantia_ acerca de una inci
 ## Escitópolis (Betsán)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/scytho10.png">
+<img src="/image/article/Jan_Herca/Decapolis/scytho10.png">
 <figcaption><em>Plano de detalle de Escitópilis. </em></figcaption>
 </figure>
 
@@ -130,8 +130,8 @@ A los pies de la fortaleza antigua en cuyas murallas se expusieron los restos de
 ### Historia
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/fig1.jpg">
-<figcaption><em>Plano general de Escitópilis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">German-Israeli Tell Iẓṭabba Excavation Project</a></figcaption>
+<img src="/image/article/Jan_Herca/Decapolis/fig1.jpg">
+<figcaption><em>Plano general de Escitópolis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">German-Israeli Tell Iẓṭabba Excavation Project</a></figcaption>
 </figure>
 
 La Biblia identifica Beit She'an como el lugar donde el rey Saúl y sus tres hijos fueron colgados por los filisteos después de la batalla de Gilboa. A pesar de ello, no se ha encontrado evidencia arqueológica de una ocupación filistea de Beit She'an.
@@ -147,8 +147,8 @@ Debido a la proximidad del río Harod y de un suficiente régimen de lluvias, Be
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/13B.jpg">
-<figcaption><em>Vista general de las ruinas de Escitópilis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">This week in Palestine</a></figcaption>
+<img src="/image/article/Jan_Herca/Decapolis/13B.jpg">
+<figcaption><em>Vista general de las ruinas de Escitópolis. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">This week in Palestine</a></figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -156,7 +156,7 @@ Debido a la proximidad del río Harod y de un suficiente régimen de lluvias, Be
 ### Descripción
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Model_of_Beth_Sheans_city_center_during_the_Roman_period.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Model_of_Beth_Sheans_city_center_during_the_Roman_period.jpg">
 <figcaption><em>Modelo del centro de la ciudad de Bet She'an durante el período romano. </em><a href="https://thisweekinpalestine.com/scythopolis-nysa/">Biblical Archaeology Society</a></figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ Ya en la parte más meridional, el visitante se encontraría con el imponente Te
 <br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/13E.png">
+<img src="/image/article/Jan_Herca/Decapolis/13E.png">
 <figcaption><em>Una ilustración del altar de César y el camino de las ninfas, con el Ninfeo a la derecha. </em><a href="https://www.uni-muenster.de/Archaeologie/forschen/projekte/german-israelitelliztabbaproject/index.html">This week in Palestine</a></figcaption>
 </figure>
 
@@ -197,7 +197,7 @@ Por último, fue una de las poblaciones visitadas por los doce, los doce evangel
 ## Pella
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/960px-Pella_Contour_Plan.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/960px-Pella_Contour_Plan.jpg">
 <figcaption><em>Pella. Mapa con curvas de nivel. </em><a href="https://en.wikipedia.org/wiki/File:Pella_Contour_Plan.jpg">Wikipedia</a></figcaption>
 </figure>
 
@@ -216,8 +216,8 @@ En lo que se conoce como «huida a Pella», algo antes de la destrucción romana
 ### Descripción
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/151312756_lDw8DyNv_JordanPella20131145.jpg">
-<figcaption><em>Pella. Basílica bizantina del siglo V, construida usando materiales de edificios previos. </em><a href="https://pbase.com/dosseman_jordan../../../image/151312756">PBase</a></figcaption>
+<img src="/image/article/Jan_Herca/Decapolis/151312756_lDw8DyNv_JordanPella20131145.jpg">
+<figcaption><em>Pella. Basílica bizantina del siglo V, construida usando materiales de edificios previos. </em><a href="https://pbase.com/dosseman_jordan/image/151312756">PBase</a></figcaption>
 </figure>
 
 La ciudad estuvo amurallada desde antiguo, con un montículo principal en torno al cual se disponía la ciudad antigua. La zona más moderna se había extendido sobre un wadi (llamado hoy Al-Jirm).
@@ -247,7 +247,7 @@ Tras enviar en misión a los 70 evangelistas, Jesús volvió a situar su cuartel
 ## Gerasa
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/jerashmap.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/jerashmap.jpg">
 <figcaption><em>Mapa de la zona central de Gerasa. </em><a href="http://www.art-and-archaeology.com/jordan/jerash/jerash.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -264,7 +264,7 @@ La antigua ciudad que hoy se conserva en el lado occidental era el centro admini
 <br style="clear:both;"/>
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/urn_cambridge.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/urn_cambridge.jpg">
 <figcaption><em>Mapa de Gerasa. </em><a href="https://www.cambridge.org/core/journals/antiquity/article/mapping-gerasa-a-new-and-open-data-map-of-the-site/5071C6A16B5F92350A3C967617835970#figures">Cambridge University Press</a></figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ Cerca del hipódromo está la puerta sur. La puerta, originalmente una de las cu
 Una vez dentro de la puerta, el Templo de Zeus era el edificio más inmediato, a la izquierda. Tenía un tramo de escaleras sostenido por bóvedas que llevaba al interior desde un recinto sagrado más bajo. El templo mismo se continuaba construyendo en tiempos de Jesús. En la parte inferior o _temenos_ había un altar y servía como lugar sagrado para sacrificios. Desde tiempos antiguos este lugar había sido sagrado, conteniendo a lo largo del tiempo distintos templos.
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Jordan1009.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Jordan1009.jpg">
 <figcaption><em>La Plaza Oval. </em><a href="http://www.art-and-archaeology.com/jordan/jerash/je01a.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Siguiendo el _cardo_ estaba el Nimpheum, la principal fuente ornamental de la ci
 <br style="clear:both;"/>
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Jordan0951.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Jordan0951.jpg">
 <figcaption><em>Propileo norte del Templo de Artemisa. Estaba flanqueda por dos magníficas puertas, siendo la norte la de la foto. Fue contruido a mediados del siglo II d.C.</em><a href="http://www.art-and-archaeology.com/jordan/jerash/je11.html">Art and Archaeology</a></figcaption>
 </figure>
 
@@ -327,7 +327,7 @@ Justo al oeste y al sur del templo de Artemisa se disponían otros templos dedic
 <br style="clear:both;"/>
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Jerash_-_colonnaded_street.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Jerash_-_colonnaded_street.jpg">
 <figcaption><em>Gerasa. Calle columnada.</em><a href="https://en.wikipedia.org/wiki/File:Jerash_-_colonnaded_street.JPG">Wikipedia</a></figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ Es una de las poblaciones visitadas durante la segunda gira de predicación por 
 ## Hipos (Susita)
 
 <figure id="Figure_17" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Hippos_aerial.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Hippos_aerial.jpg">
 <figcaption><em>Hipos, foto aérea, vista desde el sudeste.</em><a href="https://www.dighippos.com/sussita/">Hippos Excavations Project</a></figcaption>
 </figure>
 
@@ -368,7 +368,7 @@ Además de la ciudad fortificada en lo alto del montículo, Hipos tuvo dos puert
 ### Historia
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/Jan_Herca/Decapolis/Decapolis_territories.png">
+<img src="/image/article/Jan_Herca/Decapolis/Decapolis_territories.png">
 <figcaption><em>Territorios circundantes de la Decápolis.</em><a href="https://www.dighippos.com/regional">Hippos Excavations Project</a></figcaption>
 </figure>
 
@@ -387,7 +387,7 @@ Tras la revuelta de Bar Kokhba, sofocada por los romanos, la ciudad pasó a form
 ### Descripción
 
 <figure id="Figure_19" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Hippos.png">
+<img src="/image/article/Jan_Herca/Decapolis/Hippos.png">
 <figcaption><em>Plano general de Hipos con las principales zonas de excavación.</em><a href="https://www.dighippos.com/regional">Hippos Excavations Project</a></figcaption>
 </figure>
 
@@ -422,7 +422,7 @@ Fue una de las poblaciones visitadas por los doce, los doce evangelistas y otras
 Situada hacia el norte de la Decápolis, en las cercanías del río Yarmuk, con vistas sobre los altos del Golán y el mar de Galilea al Norte, y el valle del Jordán al sur. Actualmente es la ciudad de Umm Qais.
 
 <figure id="Figure_20" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Topographic_map_of_Gadara.png">
+<img src="/image/article/Jan_Herca/Decapolis/Topographic_map_of_Gadara.png">
 <figcaption><em>Mapa topográfico de Gadara.</em><a href="https://www.researchgate.net/figure/Topographic-map-of-Gadara-Umm-Qais-showing-the-location-of-the-five-aisled-basilica-and_fig2_358283097">Archaeological and Anthropological Sciences Journal</a></figcaption>
 </figure>
 
@@ -437,7 +437,7 @@ Gadara siguió prosperando durante todo el tiempo posterior, en el siglo I de nu
 ### Descripción
 
 <figure id="Figure_21" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Gadara_IMG.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Gadara_IMG.jpg">
 <figcaption><em>Ruinas de Gadara.</em><a href="https://universes.art/en/art-destinations/jordan/gadara-umm-qais">Universes in Universe</a></figcaption>
 </figure>
 
@@ -450,7 +450,7 @@ El teatro y algunas de las columnas son de basalto negro (así como muchas de la
 Un acueducto romano del siglo II d. C. suministró agua potable a Gadara a través de un _qanat_ (un acueducto subterráneo) de 170 km de longitud. Su tramo subterráneo más largo, de 94 km de longitud, es el túnel más largo conocido de la antigüedad.
 
 <figure id="Figure_22" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/overallmap100km.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/overallmap100km.jpg">
 <figcaption><em>Trazado del acueducto. Rastros hipotéticos (trazo punteado) y comprobados (trazo sólido) del sistema de acueductos gemelos que abastecía a las ciudades de Adraa (Edrei), Abila y Gadara.</em><a href="http://www.romanaqueducts.info/aquasite/gadara/foto2.html">Roman Aqueducts</a></figcaption>
 </figure>
 
@@ -476,7 +476,7 @@ También fue uno de los sitios visitados por Jesús, los doce de Jesús y los 11
 
 Fue una de las poblaciones visitadas por los doce de Jesús, los doce evangelistas y otras evangelistas durante la segunda gira por la Decápolis del 18 de agosto al 16 de septiembre de 29 ([LU 159:0.2](/es/The_Urantia_Book/159#p0_2)). Fue una de las poblaciones recorridas en la misisón de Perea, desde el 3 de enero de 30 hasta la muerte de Jesús ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
 
-En los evangelios se menciona un suceso, el [exorcismo del endemoniado gadareno](https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac) ([Mt 8:28-34](/es/Bible/Matthew/8#v28); [Mc 5:1-20](/es/Bible/Mark/5#v1); [Lc 8:26-39](/es/Bible/Luke/8#v26)), que es sugerido como sucediendo en Gadara, pero que _El Libro de Urantia_ identifica en realidad con [Jeresa](https://urantiapedia.org/es/topic/Kheresa) (llamada también en español Gergesa), el hogar de los gemelos Alfeo. Tiene mucho más sentido que fuera esta localidad. Ni Gadara ni la otra solución propuesta, Geresa, son poblaciones cercanas a la orilla del mar de Galilea. Véase [Amós, el lunático de Jeresa](https://urantiapedia.org/es/topic/Amos_(Kheresa_lunatic)).
+En los evangelios se menciona un suceso, el [exorcismo del endemoniado gadareno](https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac) ([Mt 8:28-34](/es/Bible/Matthew/8#v28); [Mc 5:1-20](/es/Bible/Mark/5#v1); [Lc 8:26-39](/es/Bible/Luke/8#v26)), que es sugerido como sucediendo en Gadara, pero que _El Libro de Urantia_ identifica en realidad con [Jeresa](/es/topic/Kheresa) (llamada también en español Gergesa), el hogar de los gemelos Alfeo. Tiene mucho más sentido que fuera esta localidad. Ni Gadara ni la otra solución propuesta, Geresa, son poblaciones cercanas a la orilla del mar de Galilea. Véase [Amós, el lunático de Jeresa](/es/topic/Amos_(Kheresa_lunatic)).
 
 ### Referencias
 
@@ -504,7 +504,7 @@ Damasco ha sido objeto de luchas en numerosas ocasiones y algunos de sus primero
 Vamos a hacer un intento de aproximarnos a lo que fue la ciudad en tiempos de Jesús.
 
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/1855_Damascus_map_byPorter.png">
+<img src="/image/article/Jan_Herca/Decapolis/1855_Damascus_map_byPorter.png">
 <figcaption><em>Mapa de Damasco, por J.L. Porter, 1855.</em><a href="https://en.wikipedia.org/wiki/File:1855_Damascus_map_byPorter.png">Wikipedia</a></figcaption>
 </figure>
 
@@ -521,7 +521,7 @@ Diversas puertas abrían el paso a través de la muralla, pero sólo una de las 
 Se encontraba en la muralla occidental. Está siendo restaurada hoy.
 
 <figure id="Figure_24" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/The_Jupiter_temple_in_Damascus.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/The_Jupiter_temple_in_Damascus.jpg">
 <figcaption><em>El templo de Júpiter.</em><a href="https://commons.wikimedia.org/wiki/File:The_Jupiter_temple_in_Damascus.jpg">Wikimedia</a></figcaption>
 </figure>
 
@@ -548,7 +548,7 @@ Después de su viaje hasta el mar Caspio, Jesús regresó en una caravana que pa
 El apóstol Pablo experimentó una conversión repentina y espectacular un día memorable en el que iba camino de Damasco ([LU 100:5.3](/es/The_Urantia_Book/100#p5_3)). Aunque _El Libro de Urantia_ no especifica a qué se debió, es llamativo que no dice nada acerca de una aparición o una voz de Jesús ([Hch 9:1-9](/es/Bible/Acts_of_the_Apostles/9#v1)).
 
 <figure id="Figure_25" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/4a2b7ea65577c79a321e6a9793e8cddd.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/4a2b7ea65577c79a321e6a9793e8cddd.jpg">
 <figcaption><em>Damasco en tiempos romanos.</em></figcaption>
 </figure>
 
@@ -563,7 +563,7 @@ El apóstol Pablo experimentó una conversión repentina y espectacular un día 
 ## Abila
 
 <figure id="Figure_26" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Abila_01.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Abila_01.jpg">
 <figcaption><em>Vista del tell septentrional (Tell al-Abila) y la basílica del siglo VI.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
 </figure>
 
@@ -576,7 +576,7 @@ El nombre de Abila proviene de la palabra semita Abel («prado», en árabe «ve
 ### Historia
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/Jan_Herca/Decapolis/Abila_02.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Abila_02.jpg">
 <figcaption><em>Vista del tell meridional (Tell Umm al-Amad) y la basílica del siglo VII-VIII.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
 </figure>
 
@@ -593,7 +593,7 @@ Abila continuó prosperando durante el período bizantino y se convritió en un 
 ### Descripción
 
 <figure id="Figure_28" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Abila_03.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Abila_03.jpg">
 <figcaption><em>Vista general del yacimiento. A la derecha, la franja de árboles es el cauce del wadi Qweilbeh, atravesado por un puente. Las flechas marcan emplazamientos de hallazgos destacados.</em><a href="https://www.jbu.edu/academics/bible/abila/resources/">John Brown University</a></figcaption>
 </figure>
 
@@ -620,7 +620,7 @@ Jesús, los doce apóstoles y los doce de Juan predicaron en esta ciudad durante
 ## Dium
 
 <figure id="Figure_29" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/Decapolis/Dion.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Dion.jpg">
 <figcaption><em>Vista del yacimiento de Dium desde el este.</em><a href="https://www.google.com/maps/place/Tell+el+Achaari/@32.7449259,36.0259328,356a,35y,256.69h,72.93t/">Google Maps</a></figcaption>
 </figure>
 
@@ -635,7 +635,7 @@ Como curiosidad conviene apuntar que Dium, a diferencia de todas las demás ciud
 ### Historia
 
 <figure id="Figure_30" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Decapolis_towns.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Decapolis_towns.jpg">
 <figcaption><em>Ciudades de la Decápolis.</em></figcaption>
 </figure>
 
@@ -646,7 +646,7 @@ Esteban habla de ella y comenta que su agua era insalubre. Se sabe poco de su hi
 ### Descripción
 
 <figure id="Figure_31" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Dium_zone.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Dium_zone.jpg">
 <figcaption><em>Sur de Siria y norte de Trasjordania en el siglo II d.C.</em></figcaption>
 </figure>
 
@@ -682,7 +682,7 @@ Dium (Dion) es mencionada como una de las poblaciones visitadas por Jesús, los 
 
 Rafaná fue una de las ciudades de la Decápolis mencionadas por Plinio el Viejo en su _Naturalis Historia_ (Libro V.74).
 
-No está aún muy claro el emplazamiento de esta ciudad. Se ha identificado con la Rafón de los Macabeos o con Abila, en el wadi Queilbeh, pero no hay evidencia arqueológica de que Abila se haya llamado otra cosa que _Abila dekapoleos_, _Abila Seleukia_ o _Abilia viniferos_, y Eusebio la menciona en su _Onomastikon_ como 12 millas al este de Gadara.
+No está aún muy claro el emplazamiento de esta ciudad. Se ha identificado con la Rafón de los Macabeos o con Abila, en el wadi Queilbeh, pero no hay evidencia arqueológica de que Abila se haya llamado otra cosa que _Abila dekapoleos_, _Abila Seleukia_ o _Abila viniferos_, y Eusebio la menciona en su _Onomastikon_ como 12 millas al este de Gadara.
 
 Investigaciones recientes han hallado una ubicación plausible en el noroeste de la Decápolis, lo que coincide con un relato de Flavio Josefo acerca de unas fortalezas en un lugar llamado Raepta, quizá un asentamiento predecesor de Rafaná. Otra evidencia es una anotación en la _Notitia Dignitatum_ (un antiguo manuscrito administrativo del imaperio romano tardío) habla de una población llamada Arefa que tuvo una unidad militar romano, un ala, en ese lugar. Parece que, con gran probabilidad, la Rafaná de la Decápolis, su predecesora Raepta y su sucesora Arpha / Arefa se encuentra en las ruinas de Khirbet ar-Rafi'ah, situada en Ard al-Fanah, al sureste de Damasco.
 
@@ -690,7 +690,7 @@ Durante un tiempo, la ciudad parece haber sido el campamento base de la XII legi
 
 ### El Libro de Urantia
 
-Aunque Jesús y los doce predicaron en la Decápolis, esta población no es mencionada nunca en el _El Libro de Urantia_. No está claro si su situación tan al este (es la población de la Decápolis más oriental) tuvo algo que ver con esto y significa que Jesús y sus discípulos no se alejaron tanto del mar de Galilea. Tampoco se nos menciona que Jesús entrase en Damasco durante sus predicaciones por la Decápolis, por lo que tiene sentido que un territorio tan distante fuera excluido por Jesús y los apóstoles para realizar su ministerio. Esta suposición se confirma por el hecho de que Canata, otra población de la Decápolis, que está más o menos tan al este como Rafaná, tampoco es mencionada como parte de las predicaciones de Jesús, sino de Aden, un predicador espontáneo que inició un movimiento en favor del Maestro después de escuchar al famoso lunático que había sido curado por él ([LU 159:2.4](./es/The_Urantia_Book/159#p2_4)).
+Aunque Jesús y los doce predicaron en la Decápolis, esta población no es mencionada nunca en el _El Libro de Urantia_. No está claro si su situación tan al este (es la población de la Decápolis más oriental) tuvo algo que ver con esto y significa que Jesús y sus discípulos no se alejaron tanto del mar de Galilea. Tampoco se nos menciona que Jesús entrase en Damasco durante sus predicaciones por la Decápolis, por lo que tiene sentido que un territorio tan distante fuera excluido por Jesús y los apóstoles para realizar su ministerio. Esta suposición se confirma por el hecho de que Canata, otra población de la Decápolis, que está más o menos tan al este como Rafaná, tampoco es mencionada como parte de las predicaciones de Jesús, sino de Aden, un predicador espontáneo que inició un movimiento en favor del Maestro después de escuchar al famoso lunático que había sido curado por él ([LU 159:2.4](/es/The_Urantia_Book/159#p2_4)).
 
 ### Referencias
 
@@ -716,7 +716,7 @@ El monumento mejor conservado hoy se conoce como Es-Serai, Seraya o Seraglio (pa
 <br>
 
 <figure id="Figure_32" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Al_Quanawat-Kanatha_-_GAR_-_8-05.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Al_Quanawat-Kanatha_-_GAR_-_8-05.jpg">
 <figcaption><em>Templo Seraglio en Canata, dedicado al dios Rabbos.</em> <a href="https://en.wikipedia.org/wiki/File:Al_Quanawat-Kanatha_-_GAR_-_8-05.jpg">Wikipedia</a></figcaption>
 </figure>
 
@@ -739,7 +739,7 @@ Se trata de un lugar extraño y maravilloso. Aparte de poseer el que quizá sea 
 <br>
 
 <figure id="Figure_33" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/bosra-map-0.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/bosra-map-0.jpg">
 <figcaption><em>Teatro romano de Bosra.</em> <a href="https://www.orangesmile.com/travelguide/bosra/high-resolution-maps.htm">Mapa ata resolución</a></figcaption>
 </figure>
 
@@ -758,7 +758,7 @@ La ciudadela es una curiosa construcción ya que en buena parte consiste en un t
 Al entrar en la ciudadela resulta sorprendente ver ese magnifíco teatro con capacidad para 15.000 personas. En comparación con otros teatros de su época, resulta de una gran rareza debido a que no se inclina sobre la ladera del montículo, como era lo habitual, sino que se levanta apoyándose sobre sí mismo.
 
 <figure id="Figure_34" class="image urantiapedia image-style-align-center">
-<img src="../../../image/article/Jan_Herca/Decapolis/Syria_bosra_theater.jpg">
+<img src="/image/article/Jan_Herca/Decapolis/Syria_bosra_theater.jpg">
 <figcaption><em>Teatro romano de Bosra.</em> <a href="https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra#/media/File:Syria_bosra_theater.jpg">Wikipedia</a></figcaption>
 </figure>
 
@@ -780,11 +780,12 @@ Algo más alejadas de la población están dos cisternas que solían abastecer d
 
 ### El Libro de Urantia
 
-Bosora sólo es mencionada en El Libro de Urantia como parte de las poblaciones que constituyeron el último esfuerzo misionero de Jesús y sus seguidores, desde el 3 de enero del año 30 hasta el final de su vida. En esta labor se recorrieron decenas de localidades de Perea y la Decápolis ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
+Bosora sólo es mencionada en _El Libro de Urantia_ como parte de las poblaciones que constituyeron el último esfuerzo misionero de Jesús y sus seguidores, desde el 3 de enero del año 30 hasta el final de su vida. En esta labor se recorrieron decenas de localidades de Perea y la Decápolis ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1)).
 
 ### Referencias
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra)
+- [Wikipedia — Bosra](https://en.wikipedia.org/wiki/Bosra)
+- [Wikipedia — Teatro romano de Bosra](https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra)
 
 ## Referencias
 
