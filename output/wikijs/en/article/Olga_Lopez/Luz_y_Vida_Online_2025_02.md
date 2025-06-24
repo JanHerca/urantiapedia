@@ -112,7 +112,7 @@ In this extensive and exhaustive work, the author, a veteran reader of the book,
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/Quehacerconlaevolucion-abr21.jpg" alt="What to do with the evolution of the human race" width="250">
 </figure>
 
-[**What to Do About Human Evolution?, by Mariano Pérez**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Que-hacer-con-la-evoluci%C3%B3n-biol%C3%B3gica.pdf)
+[**What to Do About Human Evolution?, by Mariano Pérez**](/en/article/Mariano_Perez/Que_hacer_con_la_evolucion_humana) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Que-hacer-con-la-evoluci%C3%B3n-biol%C3%B3gica.pdf))
 
 This work was presented in a virtual Zoom talk on October 25, 2015. In this talk, the author, based on the teachings of the book, asks whether anything should be done to biologically improve the races of Earth and, if so, how to do it. To answer these questions, the author strives to contextualize the teachings with an open mind and critical spirit to propose the tools that should be used for the improvement of the races. Here is the [supporting PowerPoint presentation](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/Reflexiones-urantianas-sobre-las-instituciones-humanas-PowerPoint.pdf)
 <br style="clear:both;"/>

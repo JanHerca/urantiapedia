@@ -73,7 +73,7 @@ Jesus' peace of mind was founded on an absolute human faith in the wise and comp
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-vida-de-familia-en-el-planeta-vecino.jpg" alt="La vida de familia en el planeta vecino" width="250">
 </figure>
 
-[**Family life on the neighboring planet (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf)
+[**Family life on the neighboring planet (Olga López)**](/en/article/Olga_Lopez/La_vida_de_familia_en_el_planeta_vecino) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf))
 
 In this presentation, and within the framework of the Symposium on the Family organized by the Urantia Foundation in June 2024, the author focuses on the family life of the neighboring planet, which is discussed at some length in paper 72, more specifically in section 3 of this document. To do this, the measures taken in the nation of the neighboring planet are first presented, and then the situation of the Urantia societies is described, mainly in Spain, which can serve as a reference for a country that belongs to the Western world.
 <br style="clear:both;"/>

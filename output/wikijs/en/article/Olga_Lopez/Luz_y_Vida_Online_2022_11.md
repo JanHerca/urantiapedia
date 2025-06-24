@@ -91,7 +91,7 @@ With a book of complexity and abundance of information such as _The Urantia Book
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="History of Urantia" width="250">
 </figure>
 
-[**History of Urantia (Alberto Torre)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf)
+[**History of Urantia (Alberto Torre)**](/en/article/Alberto_Torre/Historia_de_Urantia) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf))
 
 Here is another scheme, this time in the form of a table, which also helps us to have a global vision of the extensive history of our planet in the form of a chronology grouped according to the geological eras and that goes from the arrival of the Life Carriers of Jerusem until the Holocene, the era in which we find ourselves. In each geological era, the most important milestones related to our planet and the history of humanity are specified.
 <br style="clear:both" />

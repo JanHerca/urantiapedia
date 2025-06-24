@@ -89,7 +89,7 @@ Con un libro de la complejidad y abundancia de información como es _El Libro de
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia" width="250">
 </figure>
 
-[**Historia de Urantia (Alberto Torre)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf)
+[**Historia de Urantia (Alberto Torre)**](/es/article/Alberto_Torre/Historia_de_Urantia) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf))
 
 He aquí otro esquema, esta vez en forma de tabla, que nos ayuda también a tener una visión global de la extensa historia de nuestro planeta en forma de cronología agrupada según las eras geológicas y que va desde la llegada de los Portadores de Vida de Jerusem hasta el holoceno, la era en la que nos encontramos. En cada era geológica se especifican los hitos más importantes relacionados con nuestro planeta y la historia de la humanidad.
 <br style="clear:both" />

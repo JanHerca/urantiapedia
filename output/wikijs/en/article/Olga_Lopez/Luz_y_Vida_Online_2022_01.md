@@ -103,7 +103,7 @@ This work is a transcript of a presentation the author gave at a 2004 Urantia co
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión" width="250">
 </figure>
 
-[**The new religion (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf)
+[**The new religion (Olga López)**](/en/article/Olga_Lopez/La_nueva_religion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf))
 
 In this presentation, the author reviews the most important concepts that appear in the documents of the book that deal with religion in a more specific way: 100, 101, 102 and 103. Well, as she says in the introduction of her work: «Religion as described in _The Urantia Book_ contains a new definition of religion that is made to be lived, since it tries to live our relationship with God in a personal and non-transferable way. This new concept of religion makes a big difference and challenges us to experience a new way to progress and to be better than we are."
 <br style="clear:both" />

@@ -73,7 +73,7 @@ La paix de l’esprit de Jésus était fondée sur une foi humaine absolue dans 
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-vida-de-familia-en-el-planeta-vecino.jpg" alt="La vida de familia en el planeta vecino" width="250">
 </figure>
 
-[**La vie de famille sur la planète voisine (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf)
+[**La vie de famille sur la planète voisine (Olga López)**](/fr/article/Olga_Lopez/La_vida_de_familia_en_el_planeta_vecino) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf))
 
 Dans cette présentation, et dans le cadre du Symposium sur la Famille organisé par la Fondation Urantia en juin 2024, l'auteur se concentre sur la vie de famille sur la planète voisine, qui est discutée en détail dans le document 72, plus précisément dans la section 3 de ce document. À cette fin, les mesures prises dans la nation de la planète voisine sont d'abord présentées, puis la situation des sociétés d'Urantia est décrite, principalement en Espagne, qui peut servir de référence pour un pays appartenant au monde occidental.
 <br style="clear:both;"/>

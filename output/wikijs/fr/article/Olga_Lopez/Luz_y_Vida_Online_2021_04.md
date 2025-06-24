@@ -114,7 +114,7 @@ Dans cet ouvrage vaste et exhaustif, l'auteur, lecteur chevronné du livre, expo
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/04.jpg" width="250">
 </figure>
 
-[Que faire de l'évolution humaine ?, par Mariano Pérez](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Que-hacer-con-la-evoluci%C3%B3n-biol%C3%B3gica.pdf)
+[Que faire de l'évolution humaine ?, par Mariano Pérez](/fr/article/Mariano_Perez/Que_hacer_con_la_evolucion_humana) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Que-hacer-con-la-evoluci%C3%B3n-biol%C3%B3gica.pdf))
 
 Ce travail a été présenté lors d'une conférence virtuelle sur Zoom le 25 octobre 2015. Dans cette conférence, l'auteur, sur la base des enseignements du livre, demande s'il faut faire quelque chose pour améliorer biologiquement les races de la Terre et, si oui, comment pour le réaliser. Pour répondre à ces questions, l'auteur s'efforce de contextualiser les enseignements avec un esprit ouvert et critique pour proposer quels outils doivent être utilisés pour l'amélioration des courses. Voici la [présentation PowerPoint de support](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/Reflexiones-urantianas-sobre-las-instituciones-humanas-PowerPoint.pdf)
 

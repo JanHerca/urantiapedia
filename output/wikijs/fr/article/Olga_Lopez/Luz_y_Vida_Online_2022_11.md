@@ -90,7 +90,7 @@ Avec un livre de la complexité et de l'abondance d'informations tel que _Le Liv
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia" width="250">
 </figure>
 
-[**Histoire d'Urantia (Alberto Torre)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf)
+[**Histoire d'Urantia (Alberto Torre)**](/fr/article/Alberto_Torre/Historia_de_Urantia) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf))
 
 Voici un autre schéma, cette fois sous forme de tableau, qui nous aide également à avoir une vision globale de la longue histoire de notre planète sous forme d'une chronologie regroupée selon les ères géologiques et qui va de l'arrivée du Porteurs de vie de Jérusem jusqu'à l'Holocène, l'époque dans laquelle nous nous trouvons. Dans chaque époque géologique, sont précisés les jalons les plus importants liés à notre planète et à l’histoire de l’humanité.
 <br style="clear:both" />

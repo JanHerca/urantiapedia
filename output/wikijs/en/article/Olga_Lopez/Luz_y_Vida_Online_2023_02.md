@@ -117,7 +117,7 @@ Eugenics and how to put it into practice in our societies is a controversial sub
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
 </figure>
 
-[**Urartu, the Lost Kingdom of Van (Troy R. Bishop)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf)
+[**Urartu, the Lost Kingdom of Van (Troy R. Bishop)**](/en/article/Troy_R_Bishop/Urartu_the_lost_kingdom_of_Van) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf))
 
 In this interesting article we are told about the kingdom of Urartu and what was its relationship with Van and his people, combining what we know of the ancient history of that part of the world with the statements of _The Urantia Book_. Its author tells us: “A casual reading of _The Urantia Book_ might give the impression that Van's headquarters were primarily in the Lake Van area. Further analysis and comparison of the statements in _The Urantia Book_ indicates, however, that Van's main headquarters were in the southern foothills of the Kopet Dag, where Adanson later settled. In this sense, _The Urantia Book_ explains that the Vanitas (the first followers of Van) and their descendants later settled on the shores of Lake Van and their later traditions developed around this area."
 <br style="clear:both" />

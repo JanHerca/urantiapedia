@@ -101,7 +101,7 @@ Este trabajo es la transcripción de una presentación que la autora hizo en una
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión" width="250">
 </figure>
 
-[**La nueva religión (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf)
+[**La nueva religión (Olga López)**](/es/article/Olga_Lopez/La_nueva_religion) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf))
 
 En esta presentación, la autora hace un repaso de los conceptos más importantes que aparecen en los documentos del libro que tratan sobre la religión de una manera más específica: 100, 101, 102 y 103. Pues, tal como dice en la introducción de su trabajo: «La religión tal como se describe en _El Libro de Urantia_ contiene una nueva definición de religión que está hecha para ser vivida, pues trata de vivir nuestra relación con Dios de manera personal e intransferible. Este nuevo concepto de religión marca una gran diferencia y nos desafía a experimentar una nueva manera de progresar y de ser mejores de lo que somos.»
 <br style="clear:both" />

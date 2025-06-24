@@ -73,7 +73,7 @@ La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado s
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-vida-de-familia-en-el-planeta-vecino.jpg" alt="La vida de familia en el planeta vecino" width="250">
 </figure>
 
-[**La vida de familia en el planeta vecino (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf)
+[**La vida de familia en el planeta vecino (Olga López)**](/es/article/Olga_Lopez/La_vida_de_familia_en_el_planeta_vecino) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-VIDA-DE-FAMILIA-EN-EL-PLANETA-VECINO-v2.pdf))
 
 En esta presentación, y en el marco del Simposio sobre la Familia que organizó la Fundación Urantia en junio de 2024, la autora se centra en la vida de familia del planeta vecino, de la que se habla con cierta extensión en el documento 72, más concretamente en la sección 3 de este documento. Para ello, primero se exponen las medidas tomadas en la nación del planeta vecino, y a continuación se describe la situación de las sociedades urantianas, principalmente en la española, que puede servir como referencia de país que pertenece al mundo occidental.
 <br style="clear:both;"/>

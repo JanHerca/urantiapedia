@@ -116,7 +116,7 @@ L’eugénisme et la manière de le mettre en pratique dans nos sociétés est u
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
 </figure>
 
-[**Urartu, le royaume perdu de Van (Troy R. Bishop)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf)
+[**Urartu, le royaume perdu de Van (Troy R. Bishop)**](/fr/article/Troy_R_Bishop/Urartu_the_lost_kingdom_of_Van) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf))
 
 Dans cet article intéressant, on nous parle du royaume d'Urartu et de ses relations avec Van et son peuple, combinant ce que nous savons de l'histoire ancienne de cette partie du monde avec les déclarations du _Livre d'Urantia_. Son auteur nous dit : « Une lecture informelle du _Livre d'Urantia_ pourrait donner l'impression que le quartier général de Van se trouvait principalement dans la région du lac Van. Une analyse plus détaillée et une comparaison des déclarations du Livre d'Urantia indiquent cependant que le quartier général de Van se trouvait dans les contreforts sud du Kopet Dag, où Adanson s'installa plus tard. En ce sens, le Livre d'Urantia explique que les Vanites (les premiers disciples de Van) et leurs descendants se sont installés plus tard sur les rives du lac de Van et que leurs traditions ultérieures se sont développées autour de cette région.
 <br style="clear:both" />
