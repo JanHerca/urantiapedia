@@ -98,7 +98,7 @@ Pablo d'Ors analyzes these five convictions regarding listening:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Sobre-el-documento-105.jpg" alt="Sobre el documento 105" width="250">
 </figure>
 
-[**About document 105 (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf)
+[**About document 105 (William Sadler Jr.)**](/en/article/William_S_Sadler_Jr/About_paper_105) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf))
 
 Bill Sadler, son of Dr. Sadler, had the uncanny ability to explain very complex concepts from _The Urantia Book_ in simple words. In this paper, which contains a transcript of a talk he gave to a study group, Bill Sadler alludes to a teaching in Paper 105, “Deity and Reality” on the I AM: “When I think of static Deity, I think of a fried egg. This is the I AM. Potentials have not yet been differentiated from manifestations. As the paper describes it, this is the hypothetical static moment of eternity.” He then elaborates on the comparison to better understand the differentiation of potentials and actuals.
 <br style="clear:both;"/>

@@ -97,7 +97,8 @@ Si nous survivons, l’Ajusteur reviendra et fusionnera avec nous. Si nous ne su
 ## Références
 
 - [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
-
+- [Cet article sur le site Web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+- [L'Association Urantia d'Espagne — Index](/fr/index/articles_spain)
 
 
 <figure class="table chapter-navigator">

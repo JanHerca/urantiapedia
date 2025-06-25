@@ -99,7 +99,7 @@ Dans cet ouvrage, traduit en espagnol par Jan Herca, ce qui est dit dans le livr
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/El-paseo-de-un-hombre-por-el-debate-evolucionista2-1.jpg" alt="Paseo por el debate evolucionista" width="250">
 </figure>
 
-[**La marche d'un homme à travers l'aventure évolutive (anonyme)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf)
+[**La marche d'un homme à travers l'aventure évolutive (anonyme)**](/fr/article/One_mans_journey_through_evolutionary_adventure) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf))
 
 Ce travail approfondi a été publié par la revue _The Fellowship Herald_, de l'Urantia Book Fellowship, et traduit en espagnol par Carmelo Martínez. Son auteur est un scientifique qui a demandé à rester anonyme. Dans son introduction, il dit, entre autres choses : « Bien que le but principal de cet article ne soit pas d'établir des parallèles entre la science moderne et le Livre d'Urantia, l'article décrit néanmoins les points communs croissants entre les recherches scientifiques récentes, la théorie de l'évolution et la théorie de l'évolution. concepts clés liés à l'évolution présentés dans _Le Livre d'Urantia_." Oserez-vous parcourir avec l’auteur le débat séculaire entre évolution et création ?
 <br style="clear:both" />

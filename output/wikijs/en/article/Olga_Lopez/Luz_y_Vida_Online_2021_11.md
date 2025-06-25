@@ -100,7 +100,7 @@ In this work, translated into Spanish by Jan Herca, what is said in the book abo
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/El-paseo-de-un-hombre-por-el-debate-evolucionista2-1.jpg" alt="Paseo por el debate evolucionista" width="250">
 </figure>
 
-[**One Man's Evolutionary Adventure Ride (Anonymous)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf)
+[**One Man's Evolutionary Adventure Ride (Anonymous)**](/en/article/One_mans_journey_through_evolutionary_adventure) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf))
 
 This extensive work was published by the magazine _The Fellowship Herald_, of the Urantia Book Fellowship, and translated into Spanish by Carmelo Martínez. Its author is a scientist who asked to remain anonymous. In his introduction he says, among other things: “Although the primary purpose of this article is not to draw parallels between today's science and _The Urantia Book_, the article nevertheless describes the growing overlap between recent scientific research.” evolutionary theory and the key concepts relating to evolution presented in _The Urantia Book_." Do you dare to walk with the author through the secular debate between evolution and creation?
 <br style="clear:both" />

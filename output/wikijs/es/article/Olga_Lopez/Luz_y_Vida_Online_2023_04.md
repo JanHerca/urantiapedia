@@ -85,7 +85,7 @@ Pero una mañana hubo un silencio curioso y extraño. Uno a uno, los cerdos fuer
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Dualidad.jpg" alt="Dualidad" width="250">
 </figure>
 
-[**La naturaleza dual de la Supremacía (Linda Buselli)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+[**La naturaleza dual de la Supremacía (Linda Buselli)**](/es/article/Linda_Buselli/The_Dual_Nature_of_Supremacy) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf))
 
 En palabras de la autora, «la supremacía debe comprender todas las posibilidades finitas e indica que debe ser una experiencia en todos los niveles de cualquier posibilidad dada, desde un extremo hasta el otro, desde un subinfinito quasi absoluto hasta su opuesto». A continuación, hace un rápido recorrido por la expresión de este concepto en _El Libro de Urantia_ en la figura de las parejas de Hijo Creador / Ministra Divina y otras relaciones duales que se manifiestan en el nivel finito y que contribuyen a la compleción del Supremo.
 <br style="clear:both" />

@@ -87,7 +87,7 @@ But one morning there was a curious and strange silence. One by one the pigs sto
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Dualidad.jpg" alt="Duality" width="250">
 </figure>
 
-[**The Dual Nature of Supremacy (Linda Buselli)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+[**The Dual Nature of Supremacy (Linda Buselli)**](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf))
 
 In the author's words, “supremacy must comprise all finite possibilities and indicates that it must be an experience at all levels of any given possibility, from one extreme to the other, from a quasi-absolute subinfinite to its opposite.” He then takes a quick tour of the expression of this concept in _The Urantia Book_ in the figure of Creator Son/Divine Minister couples and other dual relationships that manifest at the finite level and contribute to the completion of the Supreme.
 <br style="clear:both" />

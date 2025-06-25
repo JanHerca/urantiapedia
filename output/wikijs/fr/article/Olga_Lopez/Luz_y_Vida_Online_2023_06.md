@@ -114,7 +114,7 @@ Comme Jésus avait raison de les avertir à ce sujet ! Il a su repérer avec cer
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
 </figure>
 
-[**Migrations urantiennes (M. José Gaete)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf)
+[**Migrations urantiennes (M. José Gaete)**](/fr/article/M_Jose_Garcia/Migraciones_urantianas) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf))
 
 Comme l'explique son auteur en introduction : « Cet ouvrage traite des migrations et des établissements urantiens survenus depuis les ancêtres des premiers êtres humains jusqu'à la fin des migrations des races humaines naissantes et de la participation des descendants d'Adam au progrès. et le progrès racial planétaire. Pour cette compilation j'ai utilisé et synthétisé les documents 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79, 80 et 96.
 <br style="clear:both" />
@@ -125,7 +125,7 @@ Comme l'explique son auteur en introduction : « Cet ouvrage traite des migratio
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador" width="250">
 </figure>
 
-[**Mariage et vie de famille (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
+[**Mariage et vie de famille (Olga López)**](/fr/article/Olga_Lopez/Matrimonio_y_vida_familiar) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf))
 
 L'auteur commence par ce paragraphe du document 84 : « Quant aux idéaux du mariage d’un couple, la femme a finalement gagné récognition, dignité, indépendance, égalité et éducation ; mais va-t-elle se montrer digne de cette réussite nouvelle et sans précédent ? La femme moderne répondra-t-elle à cette grande libération sociale par la paresse, l’indolence, la stérilité et l’infidélité ? Aujourd’hui, au vingtième siècle, la femme subit l’épreuve décisive de sa longue existence dans le monde ! » <a id="a129_498"></a>[LU 84:5.10](/fr/The_Urantia_Book/84#p5_10). À partir de là, elle se demande brièvement si les femmes de notre époque gagnent la reconnaissance et la dignité dont on parle.
 <br style="clear:both" />

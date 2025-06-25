@@ -72,7 +72,7 @@ Además de nuestras secciones fijas de «Crónica de la vida de Jesús», «Guí
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/LU-para-ninos-Oracion.jpg" alt="Meditar, orar y adorar" width="250">
 </figure>
 
-[**Meditar, orar y adorar (Mariano Pérez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf)
+[**Meditar, orar y adorar (Mariano Pérez)**](/es/article/Mariano_Perez/Meditar_orar_y_adorar) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf))
 
 En este artículo, el autor trata sobre la diferencia entre estas tres acciones, que a menudo se confunden en nuestra práctica religiosa. En su introducción, afirma: «Para quien busca la Verdad, Belleza y Bondad que hay en la Creación y en la mano que la dirige, es de suma importancia tener claros estos conceptos y técnicas para aplicarlos en su vida diaria y para evolucionar en la perfección del alma. La meditación, la oración y la adoración son herramientas preciosas y muy necesarias para los que quieren de verdad alcanzar algún día, en esta vida o más adelante en su existencia futura, el verdadero objetivo de nuestros afanes: La unión con nuestro Ser interior con el espíritu divino que mora en nosotros».
 <br style="clear:both;"/>

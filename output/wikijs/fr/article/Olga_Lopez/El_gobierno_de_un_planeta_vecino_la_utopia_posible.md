@@ -300,7 +300,8 @@ L'utopie, l'âge de la lumière et de la vie, est un horizon lointain, mais c'es
 ## Références
 
 - [Magazine Luz y Vida (tous les anciens numéros)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
-
+- [Cet article sur le site Web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
+- [L'Association Urantia d'Espagne — Index](/en/index/articles_spain)
 
 
 

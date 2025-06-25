@@ -86,7 +86,7 @@ Mais un matin, il y eut un silence curieux et étrange. Un à un, les cochons ce
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Dualidad.jpg" alt="Dualidad" width="250">
 </figure>
 
-[**La double nature de la suprématie (Linda Buselli)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+[**La double nature de la suprématie (Linda Buselli)**](/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf))
 
 Selon les mots de l'auteur, « la suprématie doit englober toutes les possibilités finies et indique qu'elle doit être une expérience à tous les niveaux de toute possibilité donnée, d'un extrême à l'autre, d'un subinfini quasi absolu à son opposé ». Ensuite, il fait un rapide tour d'horizon de l'expression de ce concept dans _Le Livre d'Urantia_ dans la figure des couples Fils Créateur/Ministre Divin et autres relations duelles qui se manifestent au niveau fini et qui contribuent à l'achèvement du Suprême.
 <br style="clear:both" />

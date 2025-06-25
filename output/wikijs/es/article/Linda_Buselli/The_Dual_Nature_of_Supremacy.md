@@ -85,8 +85,8 @@ El Supremo parece crecer desde todos los posibles puntos de partida experiencial
 ## Referencias
 
 - Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
-
-
+- [Este artículo en la web de la Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

@@ -96,6 +96,8 @@ Si sobrevivimos, el Ajustador volverá y fusionará con nosotros. Si no sobreviv
 ## Referencias
 
 - [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

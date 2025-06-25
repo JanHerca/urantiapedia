@@ -100,7 +100,7 @@ Cette œuvre est en fait un graphique où l'on nous montre de manière très gra
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Ajustador" width="250">
 </figure>
 
-[**En communication avec notre Ajusteur de Pensée (auteur inconnu)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf)
+[**En communication avec notre Ajusteur de Pensée (auteur inconnu)**](/fr/article/In_communication_with_our_Thought_Adjuster) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf))
 
 L'auteur commence son ouvrage par une citation du livre qui exprime que le grand défi de l'humanité aujourd'hui est précisément celui de parvenir à une meilleure communication avec notre Ajusteur. Et pourquoi est-ce un défi ? En grande partie à cause de tous les événements qui ont rendu difficile le développement de notre monde à tous les niveaux. Les révélateurs séparent clairement ce qui n'est pas la voix de notre Ajusteur de ce qui est une communication authentique et indiquent la meilleure façon d'améliorer cette communication. La clé? Développez les fruits de l’esprit.
 <br style="clear:both" />

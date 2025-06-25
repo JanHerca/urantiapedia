@@ -76,7 +76,7 @@ Dans une phrase choquante, le professeur de Kabbale Mario Sabán nous donne la c
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Ajustador-del-Pensamiento.jpg" alt="Ajustador del Pensamiento" width="250">
 </figure>
 
-[**L'Ajusteur et l'Expérience (divers auteurs)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+[**L'Ajusteur et l'Expérience (divers auteurs)**](/fr/article/Luz_y_Vida/El_Ajustador_y_la_experiencia) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf))
 
 Avant l’existence des groupes d’étude en personne, il y avait des lecteurs qui posaient des questions à d’autres amis lecteurs par courrier électronique, ce qui donnait lieu à des conversations multipartites intéressantes. Ce groupe avait même un nom, GEI (Internet Study Group), et voici la compilation d'une de ces conversations, qui a commencé par les questions d'un des participants : « Comment est-il possible que si Dieu est tout-puissant et a a déposé un fragment de lui-même en chacun de nous, cet ajusteur qui habite en nous n'a pas d'expériences ? Alors qu’est-ce que cela peut nous apporter ? ou à quoi les veux-tu ? Et si oui, pourquoi en a-t-il besoin, s’il est un fragment de Dieu ? Je ne comprends pas pourquoi vous accumulez des expériences d’êtres qui commencent à peine à les avoir.
 <br style="clear:both;"/>

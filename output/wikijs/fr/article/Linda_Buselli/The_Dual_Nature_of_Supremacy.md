@@ -86,7 +86,8 @@ Le Suprême semble grandir à partir de tous les points de départ expérientiel
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
-
+- [Cet article sur le site Web de l'Association Urantia d'Espagne](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+- [L'Association Urantia d'Espagne — Index](/fr/index/articles_spain)
 
 
 

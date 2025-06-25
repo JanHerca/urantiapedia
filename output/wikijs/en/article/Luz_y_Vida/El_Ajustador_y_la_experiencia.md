@@ -98,7 +98,8 @@ If we survive, the Adjuster will return and fuse with us. If we do not survive, 
 ## References
 
 - [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
-
+- [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+- [Urantia Association of Spain — Índice](/en/index/articles_spain)
 
 
 <br>

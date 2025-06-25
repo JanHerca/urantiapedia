@@ -85,7 +85,8 @@ The Supreme seems to grow from all possible expe riential starting points in ful
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
-
+- [This article on the Urantia Association of Spain website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
+- [Urantia Association of Spain — Index](/en/index/articles_spain)
 
 
 <figure class="table chapter-navigator">

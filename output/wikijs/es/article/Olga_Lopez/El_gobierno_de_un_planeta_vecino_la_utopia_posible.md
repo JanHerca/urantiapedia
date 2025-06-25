@@ -299,7 +299,8 @@ La utopía, la edad de luz y vida, es un horizonte lejano, pero también es una 
 ## Referencias
 
 - [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
-
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>
@@ -327,12 +328,12 @@ La utopía, la edad de luz y vida, es un horizonte lejano, pero también es una 
 
 ## Notas
 
-[^1]: http://es.wikipedia.org/wiki/Anexo%3APa%C3%ADses_por_poblaci%C3%B3n
+[^1]: http://es.wikipedia.org/wiki/Anexo%3APaíses_por_población
 
-[^2]: http://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_esperanza_de_vida
+[^2]: http://es.wikipedia.org/wiki/Anexo:Países_por_esperanza_de_vida
 
-[^3]: http://es.wikipedia.org/wiki/Anexo%3APa%C3%ADses_por_superficie
+[^3]: http://es.wikipedia.org/wiki/Anexo%3APaíses_por_superficie
 
-[^4]: http://es.wikipedia.org/wiki/Lista_de_ciudades_espa%C3%B1olas_por_poblaci%C3%B3n
+[^4]: http://es.wikipedia.org/wiki/Lista_de_ciudades_españolas_por_población
 
-[^5]: http://es.wikipedia.org/wiki/Poder_Judicial_de_Espa%C3%B1a
+[^5]: http://es.wikipedia.org/wiki/Poder_Judicial_de_España

@@ -98,7 +98,7 @@ Pablo d’Ors analiza estas cinco convicciones respecto a la escucha:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Sobre-el-documento-105.jpg" alt="Sobre el documento 105" width="250">
 </figure>
 
-[**Sobre el documento 105 (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf)
+[**Sobre el documento 105 (William Sadler Jr.)**](/es/article/William_S_Sadler_Jr/About_paper_105) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf))
 
 Bill Sadler, hijo del Dr. Sadler, tenía la extraordinaria habilidad de explicar con palabras sencillas conceptos muy complejos de _El libro de Urantia_. En este trabajo, que contiene la transcripción de una charla que dio a un grupo de estudio, Bill Sadler alude a una enseñanza que aparece en el documento 105, «La Deidad y la realidad» sobre el YO SOY: «Cuando pienso en la Deidad estática, pienso en un huevo frito. Este es el YO SOY. Los potenciales aún no se han diferenciado de las manifestaciones. Tal como el documento lo describe, este es el hipotético momento estático de la eternidad.» Y a continuación desarrolla la comparación para comprender mejor la diferenciación de los potenciales y los actuales.
 <br style="clear:both;"/>

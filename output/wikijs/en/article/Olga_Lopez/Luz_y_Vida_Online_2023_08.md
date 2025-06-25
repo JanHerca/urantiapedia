@@ -76,7 +76,7 @@ In a striking phrase, the master of Kabbalah Mario Sabán gives us the key: eith
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Ajustador-del-Pensamiento.jpg" alt="Ajustador del Pensamiento" width="250">
 </figure>
 
-[**The Adjuster and the Experience (various authors)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+[**The Adjuster and the Experience (various authors)**](/en/article/Luz_y_Vida/El_Ajustador_y_la_experiencia) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf))
 
 Before there were in-person study groups, there were readers who asked other reader friends questions via email, which led to interesting multi-party conversations. This group even had a name, GEI (Internet Study Group), and this is the compilation of one of those conversations, which began with the questions of one of the participants: "How is it possible that if God is all-powerful and has deposited a fragment of himself in each one of us, this adjuster that lives in us does not have experiences? Then what can he give us? Or why does he want them? And if so, why does he need them, if he is a fragment of God? I do not understand why he accumulates experiences from beings who are just beginning to have them."
 <br style="clear:both;"/>

@@ -117,7 +117,8 @@ On nous dit que, sur les mondes établis dans la lumière et la vie, « _la repr
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
-
+- [Cet article sur le site Web de l'Association Urantia d'Espagne](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
+- [L'Association Urantia d'Espagne — Index](/fr/index/articles_spain)
 
 
 

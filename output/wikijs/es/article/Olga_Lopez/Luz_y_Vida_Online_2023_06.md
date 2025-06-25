@@ -113,7 +113,7 @@ Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su 
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
 </figure>
 
-[**Migraciones urantianas (M. José Gaete)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf)
+[**Migraciones urantianas (M. José Gaete)**](/es/article/M_Jose_Garcia/Migraciones_urantianas) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf))
 
 Tal como explica su autora en la introducción: «Este trabajo trata sobre las migraciones y asentamientos urantianos ocurridos desde los antecesores de los primeros seres humanos hasta el fin de las migraciones de las incipientes razas humanas y la participación de los descendientes de Adán en el progreso y avance racial planetario. Para esta recopilación ocupé y sinteticé los documentos 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79. 80 y 96».
 <br style="clear:both" />
@@ -124,7 +124,7 @@ Tal como explica su autora en la introducción: «Este trabajo trata sobre las m
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador" width="250">
 </figure>
 
-[**Matrimonio y vida familiar (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
+[**Matrimonio y vida familiar (Olga López)**](/es/article/Olga_Lopez/Matrimonio_y_vida_familiar) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf))
 
 La autora comienza con este párrafo del documento 84: «En los ideales del matrimonio en pareja la mujer ha obtenido por fin reconocimiento, dignidad, independencia, igualdad y educación; ¿se mostrará merecedora de todos estos nuevos logros sin precedentes? ¿Responderá la mujer moderna a su gran liberación social con pereza, indiferencia, esterilidad e infidelidad? ¡Hoy, en el siglo veinte, la mujer afronta la prueba crucial de su larga existencia en el mundo!» <a id="a128_465"></a>[LU 84:5.10](/es/The_Urantia_Book/84#p5_10). A partir de aquí, hace una breve reflexión sobre si las mujeres de nuestro tiempo nos estamos ganando el reconocimiento y la dignidad de la que se habla.
 <br style="clear:both" />

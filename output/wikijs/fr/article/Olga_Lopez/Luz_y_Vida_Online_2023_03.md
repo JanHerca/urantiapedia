@@ -85,7 +85,7 @@ Les garçons et les filles manquaient de toute forme de considération sociale �
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
-[**L'Être Suprême (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
+[**L'Être Suprême (Demetrio Gómez)**](/fr/article/Demetrio_Gomez/El_Ser_Supremo) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf))
 
 Cet ouvrage est plus qu'une compilation de citations sur l'Être Suprême, une Déité qui n'apparaît dans aucune religion ou vision du monde connue, et à laquelle le _Livre d'Urantia_ consacre plusieurs documents dans la troisième partie. Dans celui-ci, l'auteur essaie de nous aider à comprendre ce qu'est l'Être Suprême en clarifiant et en reliant les concepts de base qui apparaissent dans le livre, ainsi qu'en utilisant des comparaisons, dont nous soulignerons les suivantes : « Quelque chose comme l'unification du WWW du Internet mondial doté d'un pouvoir d'action et de décision personnelle, comme s'il s'agissait d'une intelligence unique. Des millions de personnes utilisent ce système pour communiquer et obtenir des informations. En réalité la somme et la synthèse des connaissances de la planète informatique."
 <br style="clear:both" />

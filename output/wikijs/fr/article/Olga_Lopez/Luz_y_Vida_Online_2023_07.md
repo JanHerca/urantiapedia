@@ -98,7 +98,7 @@ Pablo d'Ors analyse ces cinq convictions concernant l'écoute :
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/A propos-du-document-105.jpg" alt="A propos du document 105" width="250">
 </figure>
 
-[**A propos du document 105 (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf)
+[**A propos du document 105 (William Sadler Jr.)**](/fr/article/William_S_Sadler_Jr/About_paper_105) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobre-el-documento-105.pdf))
 
 Bill Sadler, fils du Dr . Sadler, Il avait l’extraordinaire capacité d’expliquer des concepts très complexes du Livre d’Urantia avec des mots simples. Dans cet article, qui contient une transcription d'un discours qu'il a donné à un groupe d'étude, Bill Sadler fait allusion à un enseignement qui apparaît dans le document 105, « Déité et réalité » sur le JE SUIS : « Quand je pense à la statique de la Déité, je Pensez à un œuf au plat. C'est le JE SUIS. Les potentiels n’ont pas encore été différenciés des manifestations. Comme le décrit le document, il s’agit du moment statique hypothétique de l’éternité. Et développe ensuite la comparaison pour mieux comprendre la différenciation entre potentiels et courants.
 <br style="clear:both;"/>

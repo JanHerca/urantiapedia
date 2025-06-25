@@ -72,7 +72,7 @@ En plus de nos sections fixes de «  Chronique de la vie de Jésus  », «  Guid
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/LU-para-ninos-Oracion.jpg" alt="Meditar, orar y adorar" width="250">
 </figure>
 
-[**Méditer, prier et adorer (Mariano Pérez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf)
+[**Méditer, prier et adorer (Mariano Pérez)**](/fr/article/Mariano_Perez/Meditar_orar_y_adorar) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf))
 
 Dans cet article, l’auteur discute de la différence entre ces trois actions, qui sont souvent confondues dans notre pratique religieuse. Dans son introduction, il déclare : « Pour ceux qui recherchent la Vérité, la Beauté et la Bonté qui sont dans la Création et dans la main qui la dirige, il est de la plus haute importance d'avoir ces concepts et techniques clairs afin de les appliquer dans leur vie quotidienne. vit et évolue dans la perfection de l'âme. La méditation, la prière et l'adoration sont des outils précieux et très nécessaires pour ceux qui veulent vraiment atteindre un jour, dans cette vie ou plus tard dans leur existence future, le véritable but de nos efforts : l'union avec notre Être intérieur avec l'esprit divin qui habite en nous."
 <br style="clear:both;"/>

@@ -101,7 +101,7 @@ This work is actually a graph where we are shown in a very graphic way what its 
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Adjuster" width="250">
 </figure>
 
-[**In communication with our Thought Adjuster (author unknown)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf)
+[**In communication with our Thought Adjuster (author unknown)**](/en/article/In_communication_with_our_Thought_Adjuster) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf))
 
 The author begins the work with a quote from the book that expresses that the great challenge of current humanity is precisely to achieve better communication with our Adjuster. And why is it a challenge? In large part, due to all the events that have hampered the development of our world at all levels. The revelators clearly separate what is not our Adjuster's voice from what is authentic communication, and indicate how best to improve that communication. The key? Develop the fruits of the spirit.
 <br style="clear:both" />

@@ -116,7 +116,8 @@ We are told that, on worlds settled in light and life, “_reproduction is regul
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
-
+- [This article on the Urantia Association of Spain website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
+- [Urantia Association of Spain — Index](/en/index/articles_spain)
 
 
 <figure class="table chapter-navigator">

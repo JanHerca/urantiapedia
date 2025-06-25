@@ -123,7 +123,7 @@ As an introduction to this interesting and entertaining work, what better than t
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="The government of a neighboring planet" width="250">
 </figure>
 
-[**The government of a neighboring planet: the possible utopia (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
+[**The government of a neighboring planet: the possible utopia (Olga López)**](/en/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf))
 
 Document 72 is the source of many useful ideas for developing healthy societies that allow their members to grow at all levels. In this work, the author analyzes each of the aspects as they have developed on that neighboring planet that the developers tell us about, under the premise that many of these improvements could be put into practice as soon as the will to do so exists. . The government of a neighboring planet does not describe a society in light and life, but a possible utopia from which we can learn a lot.
 <br style="clear:both" />

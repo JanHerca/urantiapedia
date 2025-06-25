@@ -98,7 +98,7 @@ En este trabajo, traducido al español por Jan Herca, se compara lo que se dice 
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/El-paseo-de-un-hombre-por-el-debate-evolucionista2-1.jpg" alt="Paseo por el debate evolucionista" width="250">
 </figure>
 
-[**El paseo de un hombre por la aventura evolucionista (anónimo)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf)
+[**El paseo de un hombre por la aventura evolucionista (anónimo)**](/es/article/One_mans_journey_through_evolutionary_adventure) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf))
 
 Este extenso trabajo fue publicado por la revista _The Fellowship Herald_, de la Urantia Book Fellowship, y traducido al español por Carmelo Martínez. Su autor es un científico que pidió permanecer en el anonimato. En su introducción dice, entre otras cosas: «Aunque el propósito principal de este artículo no es establecer paralelismos entre la ciencia de hoy en día y _El Libro de Urantia_, el artículo describe sin embargo, la coincidencia creciente entre las investigaciones recientes de la ciencia evolutiva y los conceptos clave relativos a la evolución presentados en _El Libro de Urantia_.» ¿Os animáis a pasear con el autor por el debate secular entre evolución y creación?
 <br style="clear:both" />

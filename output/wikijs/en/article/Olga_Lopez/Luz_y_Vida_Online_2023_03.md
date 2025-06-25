@@ -86,7 +86,7 @@ Boys and girls lacked any type of social consideration at the time when Jesus of
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="The Supreme Being" width="250">
 </figure>
 
-[**The Supreme Being (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
+[**The Supreme Being (Demetrio Gómez)**](/en/article/Demetrio_Gomez/El_Ser_Supremo) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf))
 
 This work is more than a collection of quotes about the Supreme Being, a Deity that does not appear in any known religion or worldview, and to which _The Urantia Book_ dedicates several third part papers. In it, the author tries to make us understand what the Supreme Being is by clarifying and relating basic concepts that appear in the book, and also using similes, of which we would highlight the following: “Something like the unification of the WWW of the global Internet with power of action and personal decision, as if it were a single intelligence. Millions of individuals use this system to communicate and obtain information. Actually the sum and synthesis of the knowledge of the computer planet.”
 <br style="clear:both" />

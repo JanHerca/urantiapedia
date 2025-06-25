@@ -122,7 +122,7 @@ En guise d'introduction à cet ouvrage intéressant et agréable, quoi de mieux 
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="El gobierno de un planeta vecino" width="250">
 </figure>
 
-[**Le gouvernement d'une planète voisine : l'utopie possible (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
+[**Le gouvernement d'une planète voisine : l'utopie possible (Olga López)**](/fr/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible) (https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
 
 Le document 72 est une source de nombreuses idées utiles pour développer des sociétés saines qui permettent la croissance de leurs membres à tous les niveaux. Dans cet ouvrage, l'auteur analyse chacun des aspects tels qu'ils se sont développés sur la planète voisine dont nous parlent les révélateurs, en partant du principe que beaucoup de ces améliorations pourraient être mises en pratique dès qu'il y aura la volonté de le faire. Le gouvernement d’une planète voisine ne décrit pas une société de lumière et de vie, mais plutôt une possible utopie dont nous pouvons beaucoup apprendre.
 <br style="clear:both" />

@@ -84,7 +84,7 @@ Los niños y niñas carecían de cualquier tipo de consideración social en la �
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
-[**El Ser Supremo (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
+[**El Ser Supremo (Demetrio Gómez)**](/es/article/Demetrio_Gomez/El_Ser_Supremo) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf))
 
 Este trabajo es más que una recopilación de citas sobre el Ser Supremo, una Deidad que no aparece en ninguna religión ni cosmovisión conocida, y a la que _El Libro de Urantia_ le dedica varios documentos de la tercera parte. En él, el autor intenta que comprendamos qué es el Ser Supremo aclarando y relacionando conceptos básicos que aparecen en el libro, y también utilizando símiles, del que destacaríamos el siguiente: «Algo así como la unificación de la WWW de la Internet global con poder de acción y decisión personal, como si de una sola inteligencia se tratara. Millones de individuos se valen de este sistema para comunicarse y obtener información. En realidad la suma y síntesis del conocimiento del planeta informático.»
 <br style="clear:both" />

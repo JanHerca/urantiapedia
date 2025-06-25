@@ -76,7 +76,7 @@ En una impactante frase, el maestro de cábala Mario Sabán nos da la clave: o l
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Ajustador-del-Pensamiento.jpg" alt="Ajustador del Pensamiento" width="250">
 </figure>
 
-[**El Ajustador y la experiencia (varios autores)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf)
+[**El Ajustador y la experiencia (varios autores)**](/es/article/Luz_y_Vida/El_Ajustador_y_la_experiencia) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/AjustadoryExperiencia.pdf))
 
 Antes de que hubiera grupos de estudio presenciales, había lectores que planteaban preguntas a otros amigos lectores por correo electrónico que daban lugar a interesantes conversaciones a varias bandas. Este grupo incluso llegó a tener un nombre, GEI (Grupo de Estudio por Internet), y esta es la recopilación de una de esas conversaciones, que comenzó con las preguntas de uno de los participantes: «¿cómo es posible que si Dios es todopoderoso y ha depositado un fragmento suyo en cada uno de nosotros ese ajustador que mora en nosotros no tenga experiencias? Entonces ¿qué nos puede aportar? o ¿para qué las quiere? Y si es así, ¿para qué las necesita, si es un fragmento de Dios? No llego a comprender para qué acumula experiencias de unos seres que están empezando a tenerlas».
 <br style="clear:both;"/>

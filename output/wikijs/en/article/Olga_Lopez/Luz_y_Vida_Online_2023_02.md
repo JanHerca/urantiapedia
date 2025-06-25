@@ -106,7 +106,7 @@ This brief article is one more contribution to the controversy about what astron
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Eugenesia-razas-y-LU.png" alt="Ethical Eugenics" width="250">
 </figure>
 
-[**Ethical Eugenics (Charles Montgomery)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
+[**Ethical Eugenics (Charles Montgomery)**](/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf))
 
 Eugenics and how to put it into practice in our societies is a controversial subject, and although revelators have emphasized on numerous occasions that mankind must deal with race improvement sooner or later, it is a matter most readers tend to tend to. to tiptoe That is why the exercise of the author of this article is especially interesting, who, in the introduction, tells us: “Some people believe that the insistence of _The Urantia Book_ on eugenics simply reflects the tenor of the times in which it was written, and they wonder if it's still relevant. Others are sure that it means what it says, and that these ideas are intended to endure. The first question that people often ask is: Who plays God, who decides who reproduces? This is a thorny problem that even _The Urantia Book_ acknowledges: “The difficulty in executing a radical program like this on Urantia consists in the absence of competent judges to decide on the biological fitness or incapacity of individuals of the races of your world.” ” (P.585) But according to the book the problem is not insurmountable”.
 <br style="clear:both" />

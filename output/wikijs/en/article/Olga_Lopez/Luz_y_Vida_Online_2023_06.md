@@ -115,7 +115,7 @@ How right Jesus was in warning them about it! He knew how to point out with cert
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
 </figure>
 
-[**Urantia Migrations (M. José Gaete)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf)
+[**Urantia Migrations (M. José Gaete)**](/en/article/M_Jose_Garcia/Migraciones_urantianas) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf))
 
 As its author explains in the introduction: “This work deals with the Urantian migrations and settlements that occurred from the ancestors of the first human beings to the end of the migrations of the incipient human races and the participation of the descendants of Adam in the progress and planetary racial advancement. For this compilation I used and synthesized documents 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79. 80 and 96”.
 <br style="clear:both" />
@@ -126,7 +126,7 @@ As its author explains in the introduction: “This work deals with the Urantian
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Adjuster" width="250">
 </figure>
 
-[**Marriage and family life (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
+[**Marriage and family life (Olga López)**](/en/article/Olga_Lopez/Matrimonio_y_vida_familiar) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf))
 
 The author begins with this paragraph from document 84: “In the ideals of married couples, women have finally obtained recognition, dignity, independence, equality and education; Will she prove herself worthy of all these unprecedented new achievements? Will the modern woman respond to her great social liberation with laziness, indifference, sterility and infidelity? Today, in the twentieth century, the woman faces the crucial test of her long existence in the world!” <a id="a130_473"></a>[UB 84:5.10](/en/The_Urantia_Book/84#p5_10). From here, she briefly reflects on whether women of our time are earning the recognition and dignity that is being talked about.
 <br style="clear:both" />

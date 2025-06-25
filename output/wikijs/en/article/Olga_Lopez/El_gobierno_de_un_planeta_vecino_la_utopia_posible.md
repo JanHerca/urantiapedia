@@ -301,7 +301,8 @@ Utopia, the age of light and life, is a distant horizon, but it is also a promis
 ## References
 
 - [“Luz y Vida” Magazine (all old issues)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
-
+- [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
+- [Urantia Association of Spain — Index](/en/index/articles_spain)
 
 
 

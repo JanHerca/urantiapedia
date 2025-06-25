@@ -72,7 +72,7 @@ In addition to our fixed sections of “Chronicle of the life of Jesus”, “Gu
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/LU-para-ninos-Oracion.jpg" alt="Meditar, orar y adorar" width="250">
 </figure>
 
-[**Meditate, pray and worship (Mariano Pérez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf)
+[**Meditate, pray and worship (Mariano Pérez)**](/en/article/Mariano_Perez/Meditar_orar_y_adorar) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf))
 
 In this article, the author discusses the difference between these three actions, which are often confused in our religious practice. In his introduction, he states: “For those who seek the Truth, Beauty and Goodness that exists in Creation and in the hand that directs it, it is of utmost importance to be clear about these concepts and techniques in order to apply them in their daily lives and to evolve in the perfection of the soul. Meditation, prayer and worship are precious and very necessary tools for those who truly want to achieve one day, in this life or later in their future existence, the true objective of our endeavors: The union with our inner Being with the divine spirit that dwells within us.”
 <br style="clear:both;"/>
