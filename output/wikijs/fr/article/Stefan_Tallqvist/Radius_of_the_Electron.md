@@ -62,7 +62,7 @@ Il n’y a aucune possibilité que cela puisse être une sorte de coïncidence. 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html)
 
 
 

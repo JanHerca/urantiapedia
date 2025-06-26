@@ -74,7 +74,7 @@ Thus, it would seem the intellectual choice to accept any rational system of dre
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html)
 
 
 

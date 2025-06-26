@@ -98,7 +98,7 @@ Toutes les citations proviennent du *Livre d'Urantia*, sauf indication contraire
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html)
 
 
 

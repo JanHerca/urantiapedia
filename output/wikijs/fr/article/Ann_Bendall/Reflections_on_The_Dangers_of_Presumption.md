@@ -63,7 +63,7 @@ En tant que lecteurs du _Livre d'Urantia_, la plupart d'entre nous se considère
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html)
 
 
 

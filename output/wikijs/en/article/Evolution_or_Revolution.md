@@ -117,7 +117,7 @@ Remembering that evolution rather than revolution is the preferred option, then 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html)
 
 
 

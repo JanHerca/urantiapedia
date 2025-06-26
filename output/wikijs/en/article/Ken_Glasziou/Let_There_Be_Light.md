@@ -56,7 +56,7 @@ Not that there are no Christians who are intimately familiar with the God portra
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html)
 
 
 

@@ -97,7 +97,7 @@ All quotes are from *The Urantia Book* except as noted. The numbers in brackets 
 
 ## External links
 
--   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html
+-   [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html)
 
 
 <figure class="table chapter-navigator">

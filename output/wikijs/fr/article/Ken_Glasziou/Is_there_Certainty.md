@@ -46,7 +46,7 @@ Y a-t-il un Dieu ? Et si c’est le cas, et que Dieu a créé toutes choses, alo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html)
 
 
 

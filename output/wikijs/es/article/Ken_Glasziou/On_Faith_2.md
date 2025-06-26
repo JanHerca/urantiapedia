@@ -93,7 +93,7 @@ La incertidumbre con la seguridad es la esencia de la aventura del Paraíso: inc
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -72,7 +72,7 @@ Son grand attrait est qu’il nous permet de « nous tirer d’affaire » de nos
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html)
 
 
 

@@ -58,7 +58,7 @@ So yes, if we take the revelation seriously then we do need to take sin seriousl
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page13.html)
 
 
 

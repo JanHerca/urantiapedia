@@ -89,7 +89,7 @@ J'ai dit à Gardner à la fin de notre entretien que j'étais un pragmatique. J'
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html)
 
 
 

@@ -67,7 +67,7 @@ Entonces, en pocas palabras, hacer la voluntad de Dios significa, con Jesús com
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html)
 
 
 

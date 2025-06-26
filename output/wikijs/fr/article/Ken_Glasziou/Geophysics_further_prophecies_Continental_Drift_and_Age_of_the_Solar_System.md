@@ -82,7 +82,7 @@ Alors pourquoi du matériel prophétique a-t-il été inclus ? La raison la plus
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html)
 
 - Application Web interactive montrant la Terre de 750 Ma à aujourd'hui : https://dinosaurpictures.org/ancient-earth/
 

@@ -171,7 +171,7 @@ Hoy no son sólo los físicos cuánticos los que han abandonado el materialismo 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html)
 
 
 <figure class="table chapter-navigator">

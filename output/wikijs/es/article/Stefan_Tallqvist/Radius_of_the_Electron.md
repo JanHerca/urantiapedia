@@ -61,7 +61,7 @@ No hay forma posible de que esto pueda ser algún tipo de coincidencia. Si miram
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html)
 
 
 

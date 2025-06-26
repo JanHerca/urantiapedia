@@ -60,7 +60,7 @@ Jugar a Dios y el orgullo asociado con ello es una trampa continua. Porque una v
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html)
 
 
 

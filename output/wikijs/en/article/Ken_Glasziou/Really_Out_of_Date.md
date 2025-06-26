@@ -107,7 +107,7 @@ But it does add a new dimension. It will **prevent any realistic, long term use 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page14.html)
 
 
 

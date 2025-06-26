@@ -92,7 +92,7 @@ Though it be a puzzle, the existence of its riddles has only served to increase 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html)
 
 
 

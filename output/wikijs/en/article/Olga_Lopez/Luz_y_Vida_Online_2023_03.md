@@ -97,7 +97,7 @@ This work is more than a collection of quotes about the Supreme Being, a Deity t
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Survival" width="250">
 </figure>
 
-[**What actually survives? (Ken Glasziou)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+[**What actually survives? (Ken Glasziou)**](/en/article/Ken_Glasziou/What_Really_Survives) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf))
 
 The author begins his article with a reflection and a question, which is precisely the one in the title: «Most readers of the Urantia Papers experience a feeling of exhilaration and relief when they learn that even those Urantians on whom the faintest glimmer of light flickers faith will have the opportunity to continue to the mansion worlds after physical death. We may even get the impression that, except for a better body and mind, we pick up our way on the first mansion world exactly where we left off here on Urantia. But what really survives of our life on Urantia?" He then provides us with a series of useful concepts and quotes from the book to respond to what is spiritual; which is, after all, what has eternal and survival value.
 <br style="clear:both" />

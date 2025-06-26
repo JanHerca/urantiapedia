@@ -87,7 +87,7 @@ Il est intéressant de noter que le « mésotron » de Yukawa, celui décrit dan
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page16.html)
 
 
 

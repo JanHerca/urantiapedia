@@ -85,7 +85,7 @@ If we interpret Jesus’ life and sayings as the basis of a set of rules to foll
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html)
 
 
 

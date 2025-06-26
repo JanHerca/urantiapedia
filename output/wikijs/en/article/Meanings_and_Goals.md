@@ -49,7 +49,7 @@ And we know already where Urantia is heading—for “the revelation of God to t
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

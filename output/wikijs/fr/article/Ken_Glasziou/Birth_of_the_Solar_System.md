@@ -64,7 +64,7 @@ Un exemple d’information clé pourrait être l’époque donnée pour l’orig
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html)
 
 
 

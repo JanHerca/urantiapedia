@@ -82,7 +82,7 @@ Jesus had come “**to establish and demonstrate a standard of human life for al
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -58,7 +58,7 @@ C’est difficile, la chose la plus difficile au monde à faire. C’est si diff
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html)
 
 
 

@@ -128,7 +128,7 @@ Espérons que les nombreuses leçons du Parlement des religions du monde de 1993
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html)
 
 
 

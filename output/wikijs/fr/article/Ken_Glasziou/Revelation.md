@@ -63,7 +63,7 @@ Mais la plus grande erreur de l’enseignement sur les Écritures est la doctrin
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html)
 
 
 

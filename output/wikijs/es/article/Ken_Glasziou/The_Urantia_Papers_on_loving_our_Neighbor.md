@@ -63,7 +63,7 @@ Amar a nuestro prójimo no es algo que podamos hacer solos. Debemos aprender a e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html)
 
 
 

@@ -361,7 +361,7 @@ En d’autres termes, il est dit que la moisson de la croyance est la foi ; que 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html)
 
 
 

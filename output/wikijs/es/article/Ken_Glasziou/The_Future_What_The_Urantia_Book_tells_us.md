@@ -82,7 +82,7 @@ Jesús también fue directo cuando fue necesario. Como resultado, cinco mil se c
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html)
 
 
 

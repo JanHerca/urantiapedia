@@ -63,7 +63,7 @@ Avez-vous une expérience similaire?
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page3.html)
 
 
 

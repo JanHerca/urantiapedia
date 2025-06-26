@@ -62,7 +62,7 @@ The cross makes a supreme appeal to the best in man because it discloses one who
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html)
 
 
 

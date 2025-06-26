@@ -103,7 +103,7 @@ Les fossiles d'algues rouges des espèces Eosphaera et Huroniospora sont datés 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page16.html)
 
 
 

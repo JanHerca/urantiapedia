@@ -156,7 +156,7 @@ Sin embargo, el remedio está en nuestras propias manos. Cuando suficientes de n
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -73,7 +73,7 @@ _Stated in its simplest form the gospel of the kingdom is the recognition that t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page15.html)
 
 
 

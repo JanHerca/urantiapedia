@@ -71,7 +71,7 @@ Merci, Nelson Mandela, de nous avoir montré, une fois de plus, ce qui peut êtr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page6.html)
 
 
 

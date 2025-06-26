@@ -55,7 +55,7 @@ Man does not have unfettered free will; there are limits to his range of choice,
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html)
 
 
 

@@ -74,7 +74,7 @@ Et tous les événements essentiels, aux apparences extérieures, étaient un en
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page2.html)
 
 
 

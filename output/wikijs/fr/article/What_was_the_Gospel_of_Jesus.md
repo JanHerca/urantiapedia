@@ -170,7 +170,7 @@ Bien à vous, Ken Glasziou
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html)
 
 
 

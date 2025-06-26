@@ -66,7 +66,7 @@ But at the conscious level of eliminating selfishness from our nature, the task 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html)
 
 
 

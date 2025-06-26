@@ -70,7 +70,7 @@ No debemos confundir y enredar la misión y la influencia de nuestro Dios-Espír
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page4.html)
 
 
 

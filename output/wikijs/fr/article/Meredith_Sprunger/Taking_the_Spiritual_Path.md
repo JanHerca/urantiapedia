@@ -68,7 +68,7 @@ Notre société a désespérément besoin d’une vision spirituelle élargie po
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html)
 
 
 

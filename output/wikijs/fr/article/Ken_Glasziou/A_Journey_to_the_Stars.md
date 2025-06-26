@@ -148,7 +148,7 @@ Ce serait peut-être une bonne idée de lire maintenant la section intitulée «
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html)
 
 
 

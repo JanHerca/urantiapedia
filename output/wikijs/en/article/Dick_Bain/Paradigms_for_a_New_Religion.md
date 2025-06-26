@@ -128,7 +128,7 @@ The inherent worth and dignity of every person; Justice, equity, and compassion 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page13.html)
 
 
 

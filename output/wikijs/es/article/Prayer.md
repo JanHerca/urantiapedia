@@ -48,7 +48,7 @@ La verdadera oración es un reflejo de nuestro sincero anhelo espiritual de toma
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html)
 
 <figure class="table chapter-navigator">
   <table>

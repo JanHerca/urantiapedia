@@ -44,7 +44,7 @@ Au début de l’expansion de l’univers, après le Big Bang théorique, l’un
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html)
 
 
 

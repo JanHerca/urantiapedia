@@ -97,7 +97,7 @@ There are many good reasons to be of service to our fellow mortals. Service is j
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html)
 
 
 

@@ -49,7 +49,7 @@ La réponse que nous donnons à cette question reflète nos progrès dans la com
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page18.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page18.html)
 
 
 

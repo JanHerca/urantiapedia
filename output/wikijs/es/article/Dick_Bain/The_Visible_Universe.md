@@ -93,7 +93,7 @@ Esta especulación sobre el tamaño del universo es un paso necesario para obser
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html)
 
 
 <figure class="table chapter-navigator">

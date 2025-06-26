@@ -57,7 +57,7 @@ La parabole d'action du « lavement des pieds » visait à démontrer ce que Jé
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html)
 
 
 

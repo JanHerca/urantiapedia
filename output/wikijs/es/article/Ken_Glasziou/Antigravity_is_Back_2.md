@@ -64,7 +64,7 @@ Entre otras cosas, El Libro de Urantia nos dice que, «_la antigravedad es un po
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html)
 
 
 

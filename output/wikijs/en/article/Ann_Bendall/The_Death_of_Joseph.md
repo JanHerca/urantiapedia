@@ -93,7 +93,7 @@ And so: “_Jesus naturally loved his people; he loved his family, and this natu
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html)
 
 
 

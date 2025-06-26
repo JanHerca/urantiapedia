@@ -62,7 +62,7 @@ La cruz hace un llamamiento supremo a lo mejor del hombre porque revela a alguie
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html)
 
 
 

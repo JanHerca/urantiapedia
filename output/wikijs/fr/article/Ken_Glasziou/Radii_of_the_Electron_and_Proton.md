@@ -92,7 +92,7 @@ Les cyniques, les sceptiques, les agnostiques, les athées, les égocentriques, 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html)
 
 
 

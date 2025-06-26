@@ -59,7 +59,7 @@ La revelación es la única esperanza realista del hombre evolutivo de salvar el
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html)
 
 
 

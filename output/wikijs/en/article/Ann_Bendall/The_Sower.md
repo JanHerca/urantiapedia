@@ -46,7 +46,7 @@ Following his explanation, Jesus added, “_the last of the parable of the sower
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html)
 
 
 

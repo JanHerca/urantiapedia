@@ -80,7 +80,7 @@ L’émerveillement vient également si nous lisons le récit du Livre sur la pr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html)
 
 
 

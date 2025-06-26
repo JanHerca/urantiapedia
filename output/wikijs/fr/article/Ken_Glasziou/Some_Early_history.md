@@ -81,7 +81,7 @@ Lorsqu’on évalue la validité d’un travail, il est certainement souhaitable
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html)
 
 
 

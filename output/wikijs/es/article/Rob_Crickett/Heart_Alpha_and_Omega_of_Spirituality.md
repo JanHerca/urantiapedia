@@ -62,4 +62,4 @@ Una de las maravillas del corazón es que, cuando es movido por la visión de nu
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html)

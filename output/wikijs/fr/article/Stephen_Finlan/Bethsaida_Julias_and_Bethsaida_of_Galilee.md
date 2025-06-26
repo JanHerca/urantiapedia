@@ -178,7 +178,7 @@ L'autre lieu de pèlerinage à Tabgha est « l'Église de la Primauté », faisa
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html)
 
 
 

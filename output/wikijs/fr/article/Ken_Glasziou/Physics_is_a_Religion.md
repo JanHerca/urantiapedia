@@ -68,7 +68,7 @@ Comme la physique, toute religion dépend d’une foi non prouvée. Il semble qu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html)
 
 
 

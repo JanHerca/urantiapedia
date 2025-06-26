@@ -94,7 +94,7 @@ Este único paso, que implica el desarrollo individual de la conciencia de Dios,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html)
 
 
 

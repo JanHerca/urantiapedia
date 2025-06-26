@@ -71,7 +71,7 @@ Its great attraction is that it lets us “off the hook” for our nastiness wit
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html)
 
 
 

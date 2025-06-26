@@ -75,7 +75,7 @@ Ainsi, il semblerait que le choix intellectuel d’accepter tout système ration
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html)
 
 
 

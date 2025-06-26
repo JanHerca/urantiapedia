@@ -127,7 +127,7 @@ Let us hope that the many lessons from the 1993 Parliament of the World’s Reli
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html)
 
 
 

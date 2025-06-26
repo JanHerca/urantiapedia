@@ -77,7 +77,7 @@ His unwritten message : _Follow me--live as I lived._
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html)
 
 <figure class="table chapter-navigator">
   <table>

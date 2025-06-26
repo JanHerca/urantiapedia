@@ -51,7 +51,7 @@ There is probably no better way than this for us Urantians to achieve the necess
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html)
 
 
 

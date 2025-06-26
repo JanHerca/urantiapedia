@@ -97,7 +97,7 @@ Ensemble, ces neutrinos constitueraient une « _grande quantité de minuscules p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page13.html)
 
 
 

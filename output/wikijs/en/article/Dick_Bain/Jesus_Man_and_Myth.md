@@ -81,7 +81,7 @@ Whatever we think about Jesus, most of us would agree that no individual has had
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html)
 
 
 <figure class="table chapter-navigator">

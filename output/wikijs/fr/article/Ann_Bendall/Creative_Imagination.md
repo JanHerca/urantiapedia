@@ -67,7 +67,7 @@ J'ai tellement envie d'être la vérité. « _Cependant, jamais l’homme ne peu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html)
 
 
 

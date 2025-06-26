@@ -62,7 +62,7 @@ Pero el mayor error de la enseñanza sobre las Escrituras es la doctrina de que 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html)
 
 <figure class="table chapter-navigator">
   <table>

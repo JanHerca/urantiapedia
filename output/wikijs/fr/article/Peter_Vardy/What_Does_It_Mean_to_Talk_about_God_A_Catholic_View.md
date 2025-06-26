@@ -151,7 +151,7 @@ Il apparaît donc que la redécouverte de la logique aristotélicienne dans le m
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page3.html)
 
 
 

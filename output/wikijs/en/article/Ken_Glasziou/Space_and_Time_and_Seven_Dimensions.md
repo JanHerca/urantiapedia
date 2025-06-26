@@ -79,7 +79,7 @@ If it is any consolation then perhaps there is comfort in the knowledge that our
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html)
 
 
 

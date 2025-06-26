@@ -52,7 +52,7 @@ Los intermedios usan un lenguaje muy emotivo al describir las emociones y los pe
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html)
 
 
 

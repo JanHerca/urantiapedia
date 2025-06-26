@@ -61,7 +61,7 @@ We need never reject the tasks that come our way on false grounds of our physica
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html)
 
 
 

@@ -72,7 +72,7 @@ Entonces, aunque sea «per ardua ad astra», busquemos las estrellas.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page9.html)
 
 
 

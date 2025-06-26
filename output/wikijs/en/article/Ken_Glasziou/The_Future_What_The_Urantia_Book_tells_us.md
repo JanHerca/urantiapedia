@@ -82,7 +82,7 @@ Jesus was also forthright when necessary. As a result, five thousand became five
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html)
 
 
 

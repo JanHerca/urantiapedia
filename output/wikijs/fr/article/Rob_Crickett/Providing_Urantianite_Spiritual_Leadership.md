@@ -62,7 +62,7 @@ De cette manière, l’Épocale façonne et refond la grande foi et la persévé
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html)
 
 
 

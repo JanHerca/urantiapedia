@@ -71,7 +71,7 @@ Por supuesto, los nuevos lectores deben encontrar su propio camino hacia la verd
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html)
 
 
 

@@ -78,7 +78,7 @@ Los autores de _El Libro de Urantia_ nos informan que hubo varias buenas razones
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html)
 
 
 

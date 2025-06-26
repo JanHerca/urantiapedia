@@ -132,10 +132,9 @@ Hay dos aproximaciones para comprender lo que significa «espiritual». Puesto q
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
-* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf
-
-
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html)
+- [Este artículo en la web de la Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

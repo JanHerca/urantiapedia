@@ -77,7 +77,7 @@ Ceux qui connaissent la scène de la « pauvreté écrasante » connaîtront bie
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html)
 
 
 

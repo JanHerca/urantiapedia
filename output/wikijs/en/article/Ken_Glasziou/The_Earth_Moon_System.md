@@ -66,7 +66,7 @@ Modern radioactive dating of racks has been revolutionized by the use of zircons
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html)
 
 
 

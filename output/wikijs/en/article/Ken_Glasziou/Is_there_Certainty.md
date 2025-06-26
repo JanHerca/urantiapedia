@@ -45,7 +45,7 @@ Is there a God? And if there is, and God created all things, then am I not a “
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html)
 
 
 

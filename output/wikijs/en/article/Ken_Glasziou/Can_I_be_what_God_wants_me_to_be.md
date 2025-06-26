@@ -69,7 +69,7 @@ Can I live the way Jesus lived? Of course I can. All that is required is the sin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html)
 
 
 

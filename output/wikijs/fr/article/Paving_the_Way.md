@@ -78,7 +78,7 @@ Avec du dévouement et des efforts, de nombreuses personnes pourraient être sen
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html)
 
 
 

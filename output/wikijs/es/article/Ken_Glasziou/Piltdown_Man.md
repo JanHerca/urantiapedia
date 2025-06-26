@@ -44,7 +44,7 @@ En _A Scientific Forgery_ (1990), que no estuvo disponible para nosotros para nu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page22.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page22.html)
 
 
 

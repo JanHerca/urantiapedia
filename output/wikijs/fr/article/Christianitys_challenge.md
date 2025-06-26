@@ -59,7 +59,7 @@ La religion révélée est l’élément unificateur de l’existence humaine. L
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html)
 
 
 

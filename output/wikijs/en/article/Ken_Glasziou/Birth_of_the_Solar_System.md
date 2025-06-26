@@ -63,7 +63,7 @@ One example of key information may be the time given for the origin of the solar
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html)
 
 
 

@@ -72,7 +72,7 @@ Tout cela signifie que l’atteinte de la conscience divine est un objectif prio
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html)
 
 
 

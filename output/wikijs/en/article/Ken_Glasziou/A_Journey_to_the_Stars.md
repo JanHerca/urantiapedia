@@ -147,7 +147,7 @@ It might be a good idea to now read the Section entitled “Conductors of Worshi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html)
 
 
 

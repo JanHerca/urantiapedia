@@ -79,7 +79,7 @@ Un incident important s'est produit très tôt dans cette période, son importan
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page6.html)
 
 
 

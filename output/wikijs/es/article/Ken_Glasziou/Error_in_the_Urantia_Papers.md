@@ -140,7 +140,7 @@ Tenemos los Documentos y la obligación.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html)
 
 
 <figure class="table chapter-navigator">

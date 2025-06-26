@@ -96,7 +96,7 @@ L'homme mortel a droit à la jouissance des **plaisirs physiques** et à la sati
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html)
 
 
 

@@ -57,7 +57,7 @@ Comment a-t-il freiné la tendance à réagir à l’environnement social ? Ce s
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html)
 
 
 

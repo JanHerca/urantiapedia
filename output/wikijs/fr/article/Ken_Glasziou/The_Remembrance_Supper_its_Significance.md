@@ -105,7 +105,7 @@ Une nouvelle ère s’ouvre réellement. Il est temps de « s’activer ». Nous
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html)
 
 
 

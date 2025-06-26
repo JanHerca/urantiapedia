@@ -51,7 +51,7 @@ Partager le fardeau et faire le travail acharné à tour de rôle est logique, q
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page5.html)
 
 
 

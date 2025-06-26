@@ -117,7 +117,7 @@ En pocas palabras, el movimiento cuáquero se vino abajo porque promovió los te
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html)
 
 
 

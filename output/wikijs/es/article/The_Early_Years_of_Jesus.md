@@ -78,7 +78,7 @@ Por lo tanto, Jesús no era un paleto del campo que nunca había estado expuesto
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

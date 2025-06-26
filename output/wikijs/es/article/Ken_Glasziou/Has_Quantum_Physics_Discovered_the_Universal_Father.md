@@ -272,7 +272,7 @@ _El Libro de Urantia_ nos dice que toda la materia es energía, pero ¿qué es l
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page3.html)
 
 
 

@@ -56,7 +56,7 @@ Actual spiritual status is the measure of Deity attainment—attunement with the
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html)
 
 
 <figure class="table chapter-navigator">

@@ -107,7 +107,7 @@ Si nous devons nous préoccuper de ramener l’humanité à la Quatrième Révé
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html)
 
 
 

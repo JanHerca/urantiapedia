@@ -157,7 +157,7 @@ Toutefois, le remède est entre nos mains. Quand un nombre suffisant d’entre n
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html)
 
 
 

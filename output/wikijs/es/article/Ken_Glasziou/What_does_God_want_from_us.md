@@ -70,7 +70,7 @@ Pero con Jesús como mi modelo, con el Espíritu de la Verdad de Jesús como mi 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html)
 
 
 

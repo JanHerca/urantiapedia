@@ -78,7 +78,7 @@ Peut-être que Rodan avait une réponse.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page6.html)
 
 
 

@@ -95,7 +95,7 @@ Cette étape, impliquant le développement individuel de la conscience divine, e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html)
 
 
 

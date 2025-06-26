@@ -148,7 +148,7 @@ Estos se convierten en los problemas en las fronteras del crecimiento y el servi
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -61,7 +61,7 @@ Y aurait-il eu un être humain si égoïste, si arrogant, si vaniteux, si préte
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page12.html)
 
 
 

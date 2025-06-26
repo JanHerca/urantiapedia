@@ -91,7 +91,7 @@ Il existe de nombreux versets dans le Nouveau Testament qui parlent de la demeur
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html)
 
 
 

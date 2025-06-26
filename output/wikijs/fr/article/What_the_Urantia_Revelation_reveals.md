@@ -57,7 +57,7 @@ Le statut spirituel réel est la mesure de l’atteinte de la Déité – l’ha
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html)
 
 
 

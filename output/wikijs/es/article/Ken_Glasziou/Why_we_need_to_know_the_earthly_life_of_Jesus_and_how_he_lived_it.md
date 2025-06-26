@@ -86,7 +86,7 @@ _El hecho de que Jesús vivió por nosotros es infinitamente más significativo 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page.html)
 
 
 

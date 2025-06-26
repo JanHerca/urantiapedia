@@ -104,7 +104,7 @@ En un artículo de la edición anterior de Innerface, exploramos citas de los Do
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html)
 
 
 

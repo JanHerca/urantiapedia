@@ -219,7 +219,7 @@ La vida de Jesús es, por lo tanto, un modelo de vida para todos aquellos de cua
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html)
 
 
 

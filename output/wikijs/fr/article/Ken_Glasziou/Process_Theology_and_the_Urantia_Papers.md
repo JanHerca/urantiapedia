@@ -112,7 +112,7 @@ Très peu de ces publications sont disponibles en Australie mais semblent être 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html)
 
 
 

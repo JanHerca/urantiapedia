@@ -53,7 +53,7 @@ La fe y la experiencia personal, no la ciencia ni siquiera la calidad, es la cla
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html)
 
 
 

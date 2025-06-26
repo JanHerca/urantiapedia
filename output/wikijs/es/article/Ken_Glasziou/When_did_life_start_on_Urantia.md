@@ -42,7 +42,7 @@ El libro dice: «El plasma original de vida de un mundo evolutivo debe contener 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html)
 
 
 <figure class="table chapter-navigator">

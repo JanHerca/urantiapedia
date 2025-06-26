@@ -49,7 +49,7 @@ Y ya sabemos hacia dónde se dirige Urantia, porque «la revelación de Dios al 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

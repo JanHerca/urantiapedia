@@ -74,7 +74,7 @@ Introyectados sin mucha consideración por parte de los padres y la sociedad en 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html)
 
 
 

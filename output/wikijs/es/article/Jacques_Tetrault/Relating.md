@@ -81,7 +81,7 @@ Ayudémonos, relacionémonos; mientras permanecemos siempre humildemente disponi
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page11.html)
 
 
 

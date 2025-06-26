@@ -58,7 +58,7 @@ La religión revelada es el elemento unificador de la existencia humana. La reve
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html)
 
 <figure class="table chapter-navigator">
   <table>

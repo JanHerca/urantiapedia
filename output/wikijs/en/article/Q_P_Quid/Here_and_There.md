@@ -61,7 +61,7 @@ All this took place simultaneously with the continual hubbub that was going on a
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

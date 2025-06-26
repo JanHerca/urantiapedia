@@ -62,7 +62,7 @@ Quelle tragédie que nous l'honorions uniquement dans nos jeux, que nous prenons
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html)
 
 
 

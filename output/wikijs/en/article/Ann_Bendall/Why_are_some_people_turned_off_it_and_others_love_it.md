@@ -122,7 +122,7 @@ The student’s pathway becomes a faith adventure whereby we have the courage to
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page3.html)
 
 
 

@@ -256,7 +256,7 @@ flowchart TD
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html)
 
 
 

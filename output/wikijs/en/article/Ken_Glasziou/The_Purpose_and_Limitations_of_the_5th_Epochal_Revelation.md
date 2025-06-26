@@ -83,7 +83,7 @@ Since _The Urantia Book_ was released to the general public, maybe there have be
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html)
 
 
 

@@ -86,7 +86,7 @@ L'une des merveilles du cœur est que, lorsqu'il est touché par la vision de no
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html)
 
 
 

@@ -86,7 +86,7 @@ Qu'étions-nous censés faire ? Il était clairement demandé aux apôtres de pr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page5.html)
 
 
 

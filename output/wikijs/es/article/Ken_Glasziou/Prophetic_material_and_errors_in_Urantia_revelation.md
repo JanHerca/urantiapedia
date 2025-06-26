@@ -79,7 +79,7 @@ También nos maravillamos si leemos el relato del Libro sobre el crecimiento par
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html)
 
 
 <figure class="table chapter-navigator">

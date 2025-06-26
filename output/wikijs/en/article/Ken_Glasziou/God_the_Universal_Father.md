@@ -220,7 +220,7 @@ God is personally conscious of, and in personal touch with, all personalities of
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html)
 
 
 

@@ -38,7 +38,7 @@ The Papers state that monstrous dinosaur remains lie buried in America, western 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html)
 
 
 

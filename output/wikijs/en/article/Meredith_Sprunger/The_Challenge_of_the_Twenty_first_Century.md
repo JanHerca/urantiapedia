@@ -50,7 +50,7 @@ The singular ingredient which will bring meaning and unity into planetary existe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html)
 
 
 

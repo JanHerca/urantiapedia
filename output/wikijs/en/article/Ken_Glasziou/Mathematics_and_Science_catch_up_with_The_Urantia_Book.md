@@ -68,7 +68,7 @@ The basis of physics, in fact of all science, is mathematics. Hence the conclusi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html)
 
 
 

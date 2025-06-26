@@ -90,7 +90,7 @@ Il me semble que _Le Livre d'Urantia_ contient suffisamment de nouveaux élémen
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html)
 
 
 

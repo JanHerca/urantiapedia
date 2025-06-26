@@ -101,7 +101,7 @@ Sin embargo, nunca estamos solos: «Ese fragmento de la Deidad pura del Padre Un
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html)
 
 
 

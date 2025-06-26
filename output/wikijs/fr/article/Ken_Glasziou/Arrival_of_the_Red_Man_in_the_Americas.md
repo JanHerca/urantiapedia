@@ -43,7 +43,7 @@ Compte tenu des incertitudes lors de la rédaction des documents, pourquoi notre
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page17.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page17.html)
 
 
 

@@ -51,7 +51,7 @@ Durante las conferencias vespertinas en el monte Gerizim, Jesús enseñó muchas
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html)
 
 
 

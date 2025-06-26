@@ -78,7 +78,7 @@ An important incident occurred very early in this period, its importance being i
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page6.html)
 
 
 

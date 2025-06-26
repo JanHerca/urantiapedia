@@ -93,7 +93,7 @@ I believe that the greatest potential for spreading the essential message about 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html)
 
 
 

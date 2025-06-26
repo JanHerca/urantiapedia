@@ -102,7 +102,7 @@ La arqueología ha descubierto símbolos cristianos y oraciones a Jesús que se 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/ página5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/ página5.html)
 
 <figure class="table chapter-navigator">
   <table>

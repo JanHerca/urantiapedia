@@ -77,7 +77,7 @@ Mais même si nous nous éloignons pour toujours de leur présence, nos âmes po
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html)
 
 
 

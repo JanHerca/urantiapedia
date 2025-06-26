@@ -48,7 +48,7 @@ Este es el verdadero significado de ese mandato divino: «Sed perfectos, como yo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

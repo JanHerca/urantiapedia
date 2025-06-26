@@ -219,7 +219,7 @@ Jesus’ life is therefore a pattern life for all those of any religion who trul
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html)
 
 
 

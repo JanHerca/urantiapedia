@@ -69,7 +69,7 @@ Mi viaje con _El Libro de Urantia_ comenzó con curiosidad, pasó de un salto de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html)
 
 
 

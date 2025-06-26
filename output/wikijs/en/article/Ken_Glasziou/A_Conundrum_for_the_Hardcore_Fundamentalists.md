@@ -58,7 +58,7 @@ Mighty Messengers do not have “Creator” status, hence are fallible, as are a
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html)
 
 
 

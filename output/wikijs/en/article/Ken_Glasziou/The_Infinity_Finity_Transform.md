@@ -112,7 +112,7 @@ Further information may be found at the Center for Process Studies. Their Intern
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page5.html)
 
 
 

@@ -79,7 +79,7 @@ Among much else they state, “_The existence of God can never be proved by scie
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html)
 
 
 <figure class="table chapter-navigator">

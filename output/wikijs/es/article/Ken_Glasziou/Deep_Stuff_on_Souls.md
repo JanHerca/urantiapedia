@@ -76,7 +76,7 @@ Pero aunque nos apartemos para siempre de su presencia, nuestras almas poseerán
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html)
 
 
 

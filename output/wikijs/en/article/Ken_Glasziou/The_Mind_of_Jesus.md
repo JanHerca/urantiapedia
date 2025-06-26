@@ -624,7 +624,7 @@ The Father is living love and this life of the Father is in his Son. And the Spi
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

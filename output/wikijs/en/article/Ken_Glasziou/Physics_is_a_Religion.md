@@ -67,7 +67,7 @@ Like physics, all religion is dependent upon unproved faith. It appears that God
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html)
 
 
 

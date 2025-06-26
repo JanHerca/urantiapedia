@@ -134,7 +134,7 @@ Pero se requiere cuidado para asegurar que no nos engañemos a nosotros mismos. 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html)
 
 
 

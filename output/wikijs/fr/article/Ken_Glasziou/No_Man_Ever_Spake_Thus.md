@@ -57,7 +57,7 @@ L'esprit transmue les valeurs de l'esprit en significations de l'intellect ; la 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page10.html)
 
 
 

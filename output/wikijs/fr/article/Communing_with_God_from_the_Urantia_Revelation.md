@@ -45,7 +45,7 @@ La prière a toujours été et sera toujours une double expérience humaine : un
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html)
 
 
 

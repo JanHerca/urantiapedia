@@ -73,7 +73,7 @@ Alors que nous, chrétiens d’aujourd’hui, repensons aux premiers jours grisa
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page15.html)
 
 
 

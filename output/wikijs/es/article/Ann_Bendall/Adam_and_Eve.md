@@ -95,7 +95,7 @@ Cuando llegue a Jerusem, espero que Adán y Eva todavía estén allí y tengan t
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

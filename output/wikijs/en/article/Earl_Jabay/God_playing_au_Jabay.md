@@ -88,7 +88,7 @@ We now have a full and unsullied record of that life and death. What are we goin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html)
 
 
 

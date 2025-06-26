@@ -156,7 +156,7 @@ In other words the doing of God’s will is just that. It is not our will. We ar
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html)
 
 
 <figure class="table chapter-navigator">

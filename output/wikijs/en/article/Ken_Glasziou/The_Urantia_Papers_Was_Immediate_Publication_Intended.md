@@ -74,7 +74,7 @@ Clambering our way back to reality, we have to accept that it didn’t happen th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html)
 
 
 

@@ -95,7 +95,7 @@ Es posible que los Documentos de Urantia hayan sido diseñados específicamente 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html)
 
 
 

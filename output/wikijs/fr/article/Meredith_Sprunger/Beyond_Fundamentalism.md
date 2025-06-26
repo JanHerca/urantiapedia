@@ -61,7 +61,7 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
 
 
 

@@ -145,7 +145,7 @@ Obviamente, la idea se nos ha dado por una razón: ¿no es solo una charla ocios
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html)
 
 
 

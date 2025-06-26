@@ -43,7 +43,7 @@ It may be worth a try?
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html)
 
 <figure class="table chapter-navigator">
   <table>

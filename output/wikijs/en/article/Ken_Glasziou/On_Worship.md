@@ -145,7 +145,7 @@ Obviously the idea has been given to us for a reason—it is not just idle chatt
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html)
 
 
 

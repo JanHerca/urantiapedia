@@ -80,7 +80,7 @@ Al evaluar la validez de cualquier trabajo, seguramente es deseable hacerlo con 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html)
 
 
 

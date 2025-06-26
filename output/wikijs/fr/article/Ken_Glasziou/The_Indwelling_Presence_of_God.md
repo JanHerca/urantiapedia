@@ -51,7 +51,7 @@ La sagesse supérieure et supra-philosophique de ces individus éclairés et dis
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page3.html)
 
 
 

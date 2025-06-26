@@ -63,7 +63,7 @@ As I currently view the future of Urantia in the light of reading _The Urantia B
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html)
 
 
 

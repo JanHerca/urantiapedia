@@ -53,7 +53,7 @@ L’univers physique et spatial dans lequel nous vivons a été créé par Dieu 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html)
 
 
 

@@ -69,7 +69,7 @@ Ce qui est également certain, c’est qu’à mesure que la confiance dans la r
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page8.html)
 
 
 

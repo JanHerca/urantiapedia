@@ -95,7 +95,7 @@ Mortal man is entitled to the enjoyment of **physical pleasures** and to the sat
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

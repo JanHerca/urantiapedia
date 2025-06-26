@@ -130,7 +130,7 @@ For sincere and dedicated readers of the Urantia Papers, the future surely will 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html)
 
 
 

@@ -55,7 +55,7 @@ Quelle que soit votre réponse, n’oubliez jamais que vous êtes réellement ha
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page3.html)
 
 
 

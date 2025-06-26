@@ -63,7 +63,7 @@ Obviamente, hay muchas secciones en el libro que deben permanecer tal como se pr
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page16.html)
 
 
 

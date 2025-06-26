@@ -148,7 +148,7 @@ So, barring an accident, it appears that our planet should be safe for a long ti
 
 ## External links
 
--   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html
+-   [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

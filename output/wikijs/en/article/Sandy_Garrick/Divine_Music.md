@@ -64,7 +64,7 @@ When we stand in awe of the Master Universe, we must pause to consider that this
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html)
 
 
 

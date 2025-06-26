@@ -58,7 +58,7 @@ Dios siempre nos está guiando suavemente hacia adelante. Él sabe que con el ti
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -94,7 +94,7 @@ Everything outside of the minimal creed could be personal. Something of this nat
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page9.html)
 
 
 

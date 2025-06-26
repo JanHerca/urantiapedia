@@ -77,7 +77,7 @@ Peut-être aussi, c'est chaque fois qu'une expérience du monde produit un « me
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page11.html)
 
 
 

@@ -63,7 +63,7 @@ Otra evidencia de que los neandertales contribuyeron poco al acervo genético de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html)
 
 
 

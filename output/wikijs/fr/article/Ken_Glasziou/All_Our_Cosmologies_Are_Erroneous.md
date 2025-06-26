@@ -139,7 +139,7 @@ Au péril de sa vie et de son intégrité physique, je suis obligé de supposer 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html)
 
 
 

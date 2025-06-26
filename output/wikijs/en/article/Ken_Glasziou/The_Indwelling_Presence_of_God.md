@@ -50,7 +50,7 @@ The higher and super-philosophic wisdom of such enlightened and disciplined indi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page3.html)
 
 
 

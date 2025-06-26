@@ -60,7 +60,7 @@ To seek the will of God in making this decision I spent hours under the stars in
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html)
 
 
 

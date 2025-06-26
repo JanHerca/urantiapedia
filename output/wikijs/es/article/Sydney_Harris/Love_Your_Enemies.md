@@ -61,7 +61,7 @@ Qué tragedia que lo honremos solo en nuestros juegos, que nos tomamos tan en se
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html)
 
 
 

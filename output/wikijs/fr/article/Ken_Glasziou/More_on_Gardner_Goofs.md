@@ -80,7 +80,7 @@ Entre autres choses, ils déclarent : « _L’existence de Dieu ne pourra jamais
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html)
 
 
 

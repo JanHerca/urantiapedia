@@ -61,7 +61,7 @@ It is worth remembering that only one human being ever received Jesus’ persona
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html)
 
 
 

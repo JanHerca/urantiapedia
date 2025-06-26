@@ -66,7 +66,7 @@ Il est donc certain que la correction de cette erreur primordiale est une condit
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html)
 
 
 

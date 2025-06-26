@@ -69,7 +69,7 @@ No puedes ser ni siquiera un poco fanático de un equipo de fútbol, ​​o de 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html)
 
 
 

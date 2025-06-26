@@ -83,7 +83,7 @@ Une chance chanceuse semble être la seule alternative. Mais les chances de ne p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page26.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page26.html)
 
 
 

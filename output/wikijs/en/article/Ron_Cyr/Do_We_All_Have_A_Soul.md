@@ -50,7 +50,7 @@ So, is not Urantia now facing a situation where millions upon millions of human 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page9.html)
 
 
 

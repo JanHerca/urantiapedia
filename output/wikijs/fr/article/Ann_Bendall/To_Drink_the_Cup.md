@@ -53,7 +53,7 @@ Je n’ai aucun doute que toute adversité que je pourrais rencontrer dans la vi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html)
 
 
 

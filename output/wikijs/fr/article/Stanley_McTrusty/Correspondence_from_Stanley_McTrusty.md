@@ -107,7 +107,7 @@ Si une seule personne comprend vraiment ce que j’ai déduit dans ce résumé, 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html)
 
 
 

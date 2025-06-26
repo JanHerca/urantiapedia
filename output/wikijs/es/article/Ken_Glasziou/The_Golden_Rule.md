@@ -59,7 +59,7 @@ Y así debemos reconocer claramente que ni la regla de oro ni la enseñanza de l
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html)
 
 
 

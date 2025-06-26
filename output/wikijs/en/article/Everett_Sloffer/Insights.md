@@ -58,7 +58,7 @@ God is ever gently leading us forward. He knows that in time and with His help, 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -47,7 +47,7 @@ Suite à son explication, Jésus a ajouté : « _la dernière de la parabole du 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html)
 
 
 

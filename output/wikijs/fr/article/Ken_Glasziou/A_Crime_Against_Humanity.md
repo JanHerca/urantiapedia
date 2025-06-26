@@ -113,7 +113,7 @@ Si nous parvenions à convaincre les chrétiens d’avoir les documents sur leur
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html)
 
 
 

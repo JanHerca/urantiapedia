@@ -82,7 +82,7 @@ Having attained that desirable state, we qualify to become “as one” with the
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html)
 
 
 

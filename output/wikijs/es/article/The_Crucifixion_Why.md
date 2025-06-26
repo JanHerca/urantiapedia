@@ -84,7 +84,7 @@ El cambio que parece ser necesario es uno que moldeará lo que ahora es una cole
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html)
 
 
 

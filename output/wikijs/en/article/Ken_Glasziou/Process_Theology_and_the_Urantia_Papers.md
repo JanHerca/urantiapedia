@@ -111,7 +111,7 @@ Very little of this literature is available in Australia but appears to be freel
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html)
 
 
 

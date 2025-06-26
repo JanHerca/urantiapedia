@@ -73,7 +73,7 @@ Hmmm!—maybe some of us have some work to do.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html)
 
 
 

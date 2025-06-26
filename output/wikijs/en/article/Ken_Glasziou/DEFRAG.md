@@ -60,7 +60,7 @@ This is where we can again make use of `DEFRAG2`. Think hard on the name “`DEF
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html)
 
 
 <figure class="table chapter-navigator">

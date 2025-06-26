@@ -56,7 +56,7 @@ How did he curb the tendency to react to the social environment? It would be nic
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html)
 
 
 <figure class="table chapter-navigator">

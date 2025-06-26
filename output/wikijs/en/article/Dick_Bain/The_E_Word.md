@@ -93,7 +93,7 @@ Matthew suggests reading Mark Haller’s book, “_Eugenics_,” to get an idea 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page4.html)
 
 
 

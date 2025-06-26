@@ -82,7 +82,7 @@ Habiendo alcanzado ese estado deseable, calificamos para convertirnos en «uno»
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html)
 
 
 

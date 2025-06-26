@@ -272,7 +272,7 @@ _The Urantia Book_ tells us all matter is energy but what is energy other than m
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page3.html)
 
 
 

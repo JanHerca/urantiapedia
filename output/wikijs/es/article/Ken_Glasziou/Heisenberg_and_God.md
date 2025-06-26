@@ -50,7 +50,7 @@ A pesar de lo avanzado de la hora, un pequeño bote atracó en el embarcadero y 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html)
 
 
 

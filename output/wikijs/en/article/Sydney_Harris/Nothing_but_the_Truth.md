@@ -60,7 +60,7 @@ Both the absolutists and the relativists are dishonest in this—the absolutists
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page12.html)
 
 
 

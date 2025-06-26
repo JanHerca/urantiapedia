@@ -50,7 +50,7 @@ All good things come down from the Father of light, in whom there is no variable
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page16.html)
 
 
 

@@ -56,7 +56,7 @@ Qu’il soit ou non possible d’expliquer entièrement notre univers à partir 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html)
 
 
 

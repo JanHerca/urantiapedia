@@ -56,7 +56,7 @@ The prelude to true worship is the **practice of the presence of God** which eve
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page13.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -49,7 +49,7 @@ Jesús elevó el estándar, en su nivel más bajo, al tipo de amor que se espera
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html)
 
 
 

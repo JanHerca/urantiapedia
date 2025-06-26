@@ -51,7 +51,7 @@ Voir l’article « Ce qui survit réellement » pour obtenir des éclaircisseme
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html)
 
 
 

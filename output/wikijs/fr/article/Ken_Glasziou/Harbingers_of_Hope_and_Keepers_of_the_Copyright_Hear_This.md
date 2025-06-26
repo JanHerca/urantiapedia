@@ -59,7 +59,7 @@ Tous ceux qui pensent en termes de « diffuser le message » en distribuant le t
 
 ## Liens externes
 
-- Article dans Innerface International : https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
+- [Article dans Innerface International](https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html)
 
 
 

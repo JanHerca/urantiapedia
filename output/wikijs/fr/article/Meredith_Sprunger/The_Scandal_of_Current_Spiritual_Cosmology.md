@@ -51,7 +51,7 @@ Ici, comme dans tant d’autres domaines de l’illumination spirituelle, le Liv
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html)
 
 
 

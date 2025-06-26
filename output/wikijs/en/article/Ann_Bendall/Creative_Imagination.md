@@ -66,7 +66,7 @@ I so long to be the truth. “_But truth can never become man’s possession wit
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html)
 
 
 

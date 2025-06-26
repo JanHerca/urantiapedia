@@ -233,7 +233,7 @@ La ocurrencia de un error en _El Libro de Urantia_ no nos da otra opción que to
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)
 
 
 <figure class="table chapter-navigator">

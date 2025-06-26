@@ -98,7 +98,7 @@ Il existe de nombreuses bonnes raisons d’être au service de nos semblables mo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html)
 
 
 

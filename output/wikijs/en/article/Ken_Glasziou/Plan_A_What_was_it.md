@@ -60,7 +60,7 @@ A corollary to this statement is that __if we implement Plan A, Plan B (the book
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

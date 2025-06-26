@@ -61,7 +61,7 @@ Heureux serez-vous quand les hommes vous injurieront, vous persécuteront et dir
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html)
 
 
 

@@ -48,7 +48,7 @@ En théologie et en métaphysique, le terme Absolu fait généralement référen
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html)
 
 
 

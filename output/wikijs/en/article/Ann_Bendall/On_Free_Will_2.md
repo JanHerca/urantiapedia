@@ -91,7 +91,7 @@ Incredibly so! In _The Urantia Book_ there are a number of classic exemplars of 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html)
 
 
 

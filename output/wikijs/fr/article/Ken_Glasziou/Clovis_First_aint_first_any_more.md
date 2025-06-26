@@ -58,7 +58,7 @@ Des preuves de fabrication d'outils remontant à 3 millions d'années en Afrique
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html)
 
 
 

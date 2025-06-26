@@ -74,7 +74,7 @@ La foi conduit à la connaissance de Dieu, et non seulement à un sentiment myst
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html)
 
 
 

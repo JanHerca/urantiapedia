@@ -43,7 +43,7 @@ Said Jesus to Ganid, an Indian lad, “Ganid, I have absolute confidence in my h
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html)
 
 
 

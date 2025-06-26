@@ -50,7 +50,7 @@ At its best the religion of the spirit is an intimate partnership involving acti
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

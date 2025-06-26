@@ -45,7 +45,7 @@ D'autres problèmes sont survenus pour le modèle standard en raison des recherc
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html)
 
 
 

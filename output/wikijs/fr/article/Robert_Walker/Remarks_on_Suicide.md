@@ -47,7 +47,7 @@ La vie de Jésus fournit un exemple frappant de la manière d’affronter les vi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html)
 
 
 

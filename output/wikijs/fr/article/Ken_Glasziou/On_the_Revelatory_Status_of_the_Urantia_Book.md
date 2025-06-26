@@ -93,7 +93,7 @@ Même s’il s’agit d’une énigme, l’existence de ses énigmes n’a fait 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html)
 
 
 

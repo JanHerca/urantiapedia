@@ -78,7 +78,7 @@ Se podría argumentar que ya existe una especie de iglesia de Urantia. Considere
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page2.html)
 
 
 

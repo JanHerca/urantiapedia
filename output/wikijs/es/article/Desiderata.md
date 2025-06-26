@@ -62,7 +62,7 @@ Ten cuidado. Esfuérzate por ser feliz.
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html
+* [Artículo en Innerface International](https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

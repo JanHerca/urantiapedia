@@ -80,7 +80,7 @@ When assessing the validity of any work, surely it is desirable to do so with an
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page5.html)
 
 
 

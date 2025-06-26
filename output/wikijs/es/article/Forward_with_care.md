@@ -49,7 +49,7 @@ Sin embargo, a la larga podemos confiar en dos realidades universales por excele
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html)
 
 <figure class="table chapter-navigator">
   <table>

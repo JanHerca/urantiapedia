@@ -49,7 +49,7 @@ La possibilité du mal est nécessaire au choix moral, mais pas sa réalité. Le
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html)
 
 
 

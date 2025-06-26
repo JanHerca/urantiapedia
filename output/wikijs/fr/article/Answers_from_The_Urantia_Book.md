@@ -80,7 +80,7 @@ Réponses du _Le Livre d'Urantia_.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page4.html)
 
 
 

@@ -360,7 +360,7 @@ Put another way, it says that the harvest of belief is faith; that just as even 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html)
 
 
 

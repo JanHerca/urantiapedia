@@ -66,7 +66,7 @@ On reaching the mansion worlds, a surprise may be in store. Many of these ignora
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html)
 
 
 

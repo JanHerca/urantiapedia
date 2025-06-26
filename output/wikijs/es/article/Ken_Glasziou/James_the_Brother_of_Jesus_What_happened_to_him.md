@@ -50,7 +50,7 @@ La autora, Elaine Pagels, comenta sobre otra referencia de Josefo que menciona a
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html)
 
 
 

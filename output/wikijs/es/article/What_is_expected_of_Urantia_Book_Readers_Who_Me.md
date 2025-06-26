@@ -48,7 +48,7 @@ Mi Padre requiere de los hijos de la fe que den mucho fruto espiritual. Por tant
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html)
 
 
 

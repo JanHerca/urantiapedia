@@ -58,7 +58,7 @@ In fact the carbon cycle operates only in large high temperature stars (as point
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page12.html)
 
 
 

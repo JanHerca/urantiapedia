@@ -52,7 +52,7 @@ I have no doubt that any adversity I may experience in life will pale into insig
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html)
 
 
 

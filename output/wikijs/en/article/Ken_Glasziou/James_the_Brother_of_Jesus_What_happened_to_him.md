@@ -50,7 +50,7 @@ So maybe there really once was a person named Jesus of Nazareth who had a brothe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html)
 
 
 

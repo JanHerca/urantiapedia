@@ -112,7 +112,7 @@ If we could get Christians to be comfortable with having the Papers on their boo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html)
 
 
 

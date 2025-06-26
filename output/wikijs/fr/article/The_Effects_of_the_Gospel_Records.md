@@ -70,7 +70,7 @@ Tout cela démontre une congruence remarquable d’informations provenant des É
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html)
 
 
 

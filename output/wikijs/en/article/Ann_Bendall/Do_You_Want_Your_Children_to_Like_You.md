@@ -90,7 +90,7 @@ Parents must devote the time to accumulating a “storehouse of good will” wit
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html)
 
 
 <figure class="table chapter-navigator">

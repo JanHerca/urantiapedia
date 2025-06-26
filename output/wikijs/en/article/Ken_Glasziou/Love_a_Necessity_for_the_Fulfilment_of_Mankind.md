@@ -68,7 +68,7 @@ Love must grasp the ever changing concept of the highest cosmic good of the indi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html)
 
 
 

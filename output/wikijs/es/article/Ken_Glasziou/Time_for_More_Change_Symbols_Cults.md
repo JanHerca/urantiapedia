@@ -67,7 +67,7 @@ Seguro que es hora de cambiar. Todos tenemos trabajo que hacer, pero cada uno de
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

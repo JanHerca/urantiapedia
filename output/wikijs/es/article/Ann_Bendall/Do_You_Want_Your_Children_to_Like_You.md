@@ -90,7 +90,7 @@ Los padres deben dedicar tiempo a acumular un «almacén de buena voluntad» con
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html)
 
 
 <figure class="table chapter-navigator">

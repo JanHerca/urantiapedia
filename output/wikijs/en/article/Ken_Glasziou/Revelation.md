@@ -62,7 +62,7 @@ But the greatest error of the teaching about the Scriptures is the doctrine of t
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html)
 
 <figure class="table chapter-navigator">
   <table>

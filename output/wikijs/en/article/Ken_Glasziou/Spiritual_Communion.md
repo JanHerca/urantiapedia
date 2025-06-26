@@ -51,7 +51,7 @@ God, the Father, deals with man, his child, on the basis, not of actual virtue o
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html)
 
 
 

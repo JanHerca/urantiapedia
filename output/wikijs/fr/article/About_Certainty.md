@@ -65,7 +65,7 @@ Personne n'est à aucun moment dérangé par l'attitude d'un voisin lorsque cett
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html)
 
 
 

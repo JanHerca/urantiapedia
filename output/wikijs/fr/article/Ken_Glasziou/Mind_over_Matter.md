@@ -62,7 +62,7 @@ Nous ne devons jamais rejeter les tâches qui nous sont confiées en invoquant �
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html)
 
 
 

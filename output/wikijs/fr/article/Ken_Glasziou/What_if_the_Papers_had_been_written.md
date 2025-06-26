@@ -78,7 +78,7 @@ Le mauvais côté est que beaucoup peuvent se détourner du livre sans lui avoir
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page31.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page31.html)
 
 
 

@@ -93,7 +93,7 @@ Uncertainty with security is the essence of the Paradise adventure--uncertainty 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

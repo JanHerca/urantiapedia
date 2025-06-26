@@ -194,7 +194,7 @@ De toute évidence, ce contraste extraordinaire entre l'erreur et la déclaratio
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html)
 
 
 

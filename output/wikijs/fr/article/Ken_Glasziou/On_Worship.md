@@ -146,7 +146,7 @@ Une autre pensée qui m'est venue à l'esprit pendant la préparation est la sui
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html)
 
 
 

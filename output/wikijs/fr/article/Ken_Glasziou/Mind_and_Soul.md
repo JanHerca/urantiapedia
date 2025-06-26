@@ -86,7 +86,7 @@ Si nous interprétons la vie et les paroles de Jésus comme la base d’un ensem
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html)
 
 
 

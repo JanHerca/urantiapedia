@@ -93,7 +93,7 @@ Three hundred and fifty years ago the Quakers almost got it right. They lost the
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html)
 
 
 <figure class="table chapter-navigator">

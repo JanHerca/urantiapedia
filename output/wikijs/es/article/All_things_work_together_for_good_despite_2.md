@@ -46,7 +46,7 @@ Jesús dijo: «Tengo una confianza absoluta en la protección de mi Padre celest
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

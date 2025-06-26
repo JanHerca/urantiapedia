@@ -57,7 +57,7 @@ Y así continúa todo el camino hacia el Paraíso, la lenta rutina evolutiva de 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

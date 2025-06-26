@@ -48,7 +48,7 @@ This is the true meaning of that divine command, "Be you perfect, even as I am p
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

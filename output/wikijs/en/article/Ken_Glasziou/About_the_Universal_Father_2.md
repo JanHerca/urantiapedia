@@ -115,7 +115,7 @@ Many people believe that Jesus of Nazareth was the direct source of virtually al
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html)
 
 
 

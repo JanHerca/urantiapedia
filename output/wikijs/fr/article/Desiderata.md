@@ -63,7 +63,7 @@ Sois prudent. Aspire à être heureux.
 
 ## Liens externes
 
-* Article dans Innerface International : https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html
+* [Article dans Innerface International](https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html)
 
 
 

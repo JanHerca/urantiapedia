@@ -105,7 +105,7 @@ Dans un article du numéro précédent d’Innerface, nous avons exploré des ci
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html)
 
 
 

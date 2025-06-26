@@ -73,7 +73,7 @@ Peu après la publication des fascicules, l'idée s'est développée selon laque
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html)
 
 
 

@@ -41,7 +41,7 @@ Ce concept a été mis à l'épreuve (Science, vol. 292, p. 115) au Human Geneti
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html)
 
 
 

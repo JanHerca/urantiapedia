@@ -64,7 +64,7 @@ Si bien sigue siendo cierto que la certeza nos evade, también sigue siendo cier
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html)
 
 
 

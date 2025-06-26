@@ -110,7 +110,7 @@ Les Cahiers indiquent très clairement que notre rôle d'enseignant doit s'exerc
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html)
 
 
 

@@ -45,7 +45,7 @@ Ainsi, la déclaration sur la migration des marsupiaux et la dérive des contine
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page20.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page20.html)
 
 
 

@@ -82,7 +82,7 @@ We do this through being in constant communication with our indwelling Adjuster 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html)
 
 
 

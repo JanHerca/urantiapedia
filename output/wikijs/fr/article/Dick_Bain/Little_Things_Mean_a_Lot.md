@@ -68,7 +68,7 @@ L’histoire géologique « récente » d’Urantia, telle qu’elle est présen
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page17.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page17.html)
 
 
 

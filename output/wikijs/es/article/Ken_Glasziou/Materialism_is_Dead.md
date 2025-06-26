@@ -201,7 +201,7 @@ De lo cual se puede discernir que quienquiera que haya escrito los Documentos de
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 <figure class="table chapter-navigator">

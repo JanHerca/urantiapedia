@@ -64,7 +64,7 @@ Abordons-nous les autres sans préjugés d’anticipation ? Abordons-nous les au
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html)
 
 
 

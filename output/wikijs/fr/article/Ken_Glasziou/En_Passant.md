@@ -56,7 +56,7 @@ Par conséquent, en vertu du chemin par lequel les Fascicules nous sont parvenus
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 
 

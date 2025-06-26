@@ -115,7 +115,7 @@ And if a person philosophically postulates, “I wonder what God wants of me oth
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page10.html)
 
 
 

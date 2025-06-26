@@ -61,7 +61,7 @@ La présence de fossiles de marsupiaux dans les strates de l'Oligocène (âgées
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html)
 
 
 

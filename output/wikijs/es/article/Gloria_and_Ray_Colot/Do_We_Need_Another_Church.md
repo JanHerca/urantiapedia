@@ -60,7 +60,7 @@ El artículo de Dick Bain en el Innerface de marzo/abril nos entusiasmó a todos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html)
 
 
 

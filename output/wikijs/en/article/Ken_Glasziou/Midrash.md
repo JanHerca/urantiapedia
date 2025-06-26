@@ -54,7 +54,7 @@ The revelators of _The Urantia Book_ also use midrash, for example, in describin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page12.html)
 
 
 

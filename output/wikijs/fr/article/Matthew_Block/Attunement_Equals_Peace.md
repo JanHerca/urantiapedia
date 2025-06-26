@@ -59,7 +59,7 @@ _Le Christ de la Route Indienne_ contient d'autres parallèles avec _Le Livre d'
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html)
 
 
 

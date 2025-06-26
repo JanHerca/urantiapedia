@@ -201,7 +201,7 @@ From which it may be discerned that whoever wrote the Urantia Papers was fully a
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 <figure class="table chapter-navigator">

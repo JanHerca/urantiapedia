@@ -119,7 +119,7 @@ Pero, ¿eso no nos deja aún con una pregunta sin respuesta? ¿Cómo se puede es
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page12.html)
 
 
 

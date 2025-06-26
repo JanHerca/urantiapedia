@@ -101,7 +101,7 @@ Aparentemente, la sal para la industria del encurtido provenía del área del Ma
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html)
 
 
 

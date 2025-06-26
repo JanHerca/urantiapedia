@@ -56,7 +56,7 @@ L’homme n’a pas un libre arbitre illimité ; il y a des limites à son éven
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html)
 
 
 

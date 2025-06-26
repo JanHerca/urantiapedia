@@ -111,7 +111,7 @@ Le livre cité ci-dessus, publié en 1930, était l'une des sources utilisées p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html)
 
 
 

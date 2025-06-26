@@ -43,7 +43,7 @@ Si bien es un concepto valioso para ayudar a cada individuo a evolucionar y crec
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html)
 
 <figure class="table chapter-navigator">
   <table>

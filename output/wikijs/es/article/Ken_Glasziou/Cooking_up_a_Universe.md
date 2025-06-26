@@ -62,7 +62,7 @@ P.D. ¿Lo sabías? Si una sopa compuesta de los ingredientes de nucleótidos (bl
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page6.html)
 
 
 

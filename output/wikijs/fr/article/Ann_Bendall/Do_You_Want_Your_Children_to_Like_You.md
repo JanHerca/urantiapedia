@@ -91,7 +91,7 @@ Les parents doivent consacrer du temps à accumuler un « réservoir de bonne vo
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html)
 
 
 

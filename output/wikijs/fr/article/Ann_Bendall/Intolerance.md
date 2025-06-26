@@ -83,7 +83,7 @@ Nous faisons cela en étant en communication constante avec notre Ajusteur inté
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html)
 
 
 

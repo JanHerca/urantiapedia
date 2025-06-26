@@ -117,7 +117,7 @@ La única forma segura de llevar finalmente a la humanidad a la religión del es
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page4.html)
 
 
 

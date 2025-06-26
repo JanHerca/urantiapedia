@@ -106,7 +106,7 @@ Otra consideración es la esperanza declarada de los autores de que su ofrenda a
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html)
 
 
 <figure class="table chapter-navigator">

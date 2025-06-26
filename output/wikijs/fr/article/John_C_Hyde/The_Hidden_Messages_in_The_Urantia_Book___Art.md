@@ -97,7 +97,7 @@ Et cela, je le soumets, pourrait être décrit comme le message qui rend le _Liv
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html)
 
 
 

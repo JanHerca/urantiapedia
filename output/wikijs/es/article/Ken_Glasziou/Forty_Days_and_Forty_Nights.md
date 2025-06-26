@@ -106,7 +106,7 @@ Si vamos a preocuparnos por llevar a la humanidad de regreso a la Cuarta Revelac
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html)
 
 
 

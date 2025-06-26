@@ -56,7 +56,7 @@ S’ensuit un « **assaut combiné** ». (voir p. 2)
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html)
 
 
 

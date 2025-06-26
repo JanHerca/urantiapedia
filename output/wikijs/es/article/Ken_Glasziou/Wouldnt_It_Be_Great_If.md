@@ -47,7 +47,7 @@ Nosotros, los urantianos, somos buenos para producir boletines informativos edif
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html)
 
 
 

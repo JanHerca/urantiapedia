@@ -77,7 +77,7 @@ No parece haber ninguna razón esencial para equiparar una unidad de control de 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page7.html)
 
 
 

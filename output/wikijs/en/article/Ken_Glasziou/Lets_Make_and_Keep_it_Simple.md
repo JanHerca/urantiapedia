@@ -65,7 +65,7 @@ So just make it simple and keep it simple. In all things, seek to serve God. In 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page6.html)
 
 
 

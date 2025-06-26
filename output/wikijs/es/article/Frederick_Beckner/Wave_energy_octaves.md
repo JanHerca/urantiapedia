@@ -66,7 +66,7 @@ Esto nos lleva a la pregunta de por qué se proporcionó esta información. Como
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html)
 
 
 

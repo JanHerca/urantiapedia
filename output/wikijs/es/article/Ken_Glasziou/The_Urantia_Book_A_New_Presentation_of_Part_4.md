@@ -45,7 +45,7 @@ Tal como está ahora, es poco probable que _El Libro de Urantia_ contribuya sign
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page16.html)
 
 
 

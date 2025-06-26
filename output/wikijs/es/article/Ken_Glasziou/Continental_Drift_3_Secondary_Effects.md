@@ -60,7 +60,7 @@ La presencia de fósiles de marsupiales en estratos del Oligoceno (alrededor de 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html)
 
 
 <figure class="table chapter-navigator">

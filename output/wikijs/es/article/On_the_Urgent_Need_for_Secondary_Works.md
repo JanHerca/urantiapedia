@@ -93,7 +93,7 @@ Parte de la tarea a realizar debe hacerse sin referencia directa a *El Libro de 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html)
 
 
 <figure class="table chapter-navigator">

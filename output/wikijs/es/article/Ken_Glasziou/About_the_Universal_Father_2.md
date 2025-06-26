@@ -115,7 +115,7 @@ Mucha gente cree que Jesús de Nazaret fue la fuente directa de prácticamente t
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html)
 
 
 

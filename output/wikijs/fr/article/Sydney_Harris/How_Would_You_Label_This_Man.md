@@ -84,7 +84,7 @@ Le barbu sourit tristement. « Certains m'appellent le Fils de l'homme. » Tous 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page9.html)
 
 
 

@@ -83,7 +83,7 @@ Science will have discovered that energy flow in the universes is controlled lon
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

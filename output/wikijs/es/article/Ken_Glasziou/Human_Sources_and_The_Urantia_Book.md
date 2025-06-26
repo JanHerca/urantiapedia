@@ -86,7 +86,7 @@ Gamow estaba adivinando. Quien haya escrito el Documento 41 sabía muy bien que 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html)
 
 
 <figure class="table chapter-navigator">

@@ -54,7 +54,7 @@ Pregunta 3: ¿Qué efecto tendrán algunas actitudes actuales sobre la aceptaci�
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html)
 
 
 

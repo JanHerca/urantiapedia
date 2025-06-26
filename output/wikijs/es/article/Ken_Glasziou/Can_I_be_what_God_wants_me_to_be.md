@@ -69,7 +69,7 @@ Para los llamados grandes hombres de la historia, hombres como Alejandro Magno, 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html)
 
 
 

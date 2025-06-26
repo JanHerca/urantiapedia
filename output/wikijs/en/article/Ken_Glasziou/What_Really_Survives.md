@@ -132,8 +132,9 @@ There are two approaches to understanding what spiritual “is.” Since God is 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
-
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html)
+- [This article on the Urantia Association of Spain website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+- [Urantia Association of Spain — Index](/en/index/articles_spain)
 
 
 

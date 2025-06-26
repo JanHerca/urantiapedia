@@ -62,7 +62,7 @@ Ainsi, selon Jésus, ce qu’il fallait, c’était une transformation intérieu
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html)
 
 
 

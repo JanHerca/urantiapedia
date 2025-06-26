@@ -48,7 +48,7 @@ Assuming it is my irreversible intention to survive, then it is the disposable p
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html)
 
 
 

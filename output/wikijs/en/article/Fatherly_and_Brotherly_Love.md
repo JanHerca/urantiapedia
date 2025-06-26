@@ -49,7 +49,7 @@ Jesus raised the standard to, at its lowest, the kind of love expected from real
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html)
 
 
 

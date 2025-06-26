@@ -82,7 +82,7 @@ When the prayer seeks nothing for the one who prays nor anything for his fellows
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html)
 
 
 

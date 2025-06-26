@@ -64,7 +64,7 @@ And it was only as the cock crowed that Peter realized he had denied his Master.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html)
 
 
 

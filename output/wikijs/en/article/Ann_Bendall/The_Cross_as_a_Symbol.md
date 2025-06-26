@@ -71,7 +71,7 @@ Most _Urantia Book_ readers would deem themselves to fall within the category of
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page14.html)
 
 
 

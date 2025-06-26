@@ -97,7 +97,7 @@ Thus from Jewish and pagan sources there exists enough references to substantiat
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

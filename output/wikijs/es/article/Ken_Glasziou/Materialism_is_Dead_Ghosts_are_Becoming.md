@@ -55,7 +55,7 @@ Adivina qué. La gente ahora está tratando de usar la imagen fantasma del átom
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 

@@ -61,7 +61,7 @@ Thus, according to Jesus, what was needed was an inner transformation of the sel
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -44,7 +44,7 @@ Cela vaut peut-être la peine d'essayer ?
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html)
 
 
 

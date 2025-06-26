@@ -67,7 +67,7 @@ Mais le résultat net est toujours le même. Personne ne gagne vraiment. Au fil 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html)
 
 
 

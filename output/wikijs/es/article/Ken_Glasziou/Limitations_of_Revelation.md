@@ -53,7 +53,7 @@ Para arrojar un poco de luz sobre este tema, hemos convertido el propósito y la
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html)
 
 
 

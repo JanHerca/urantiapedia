@@ -57,7 +57,7 @@ This is hard, the hardest thing in the world to do. It is so hard that religion 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html)
 
 
 

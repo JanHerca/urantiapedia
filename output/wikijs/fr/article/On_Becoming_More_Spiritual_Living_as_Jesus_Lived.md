@@ -220,7 +220,7 @@ La vie de Jésus est donc un modèle de vie pour tous ceux de n’importe quelle
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html)
 
 
 

@@ -53,7 +53,7 @@ La otra posibilidad está en <a id="a48_28"></a>[LU 29:4.36](/es/The_Urantia_Boo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page10.html)
 
 
 

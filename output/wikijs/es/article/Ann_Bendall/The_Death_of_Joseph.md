@@ -93,7 +93,7 @@ Y así: «_ Jesús amaba de manera natural a su gente; quería a su familia, y e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html)
 
 
 

@@ -113,7 +113,7 @@ Le cœur de notre révélation se trouve dans cette dernière phrase : nous meno
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page6.html)
 
 
 

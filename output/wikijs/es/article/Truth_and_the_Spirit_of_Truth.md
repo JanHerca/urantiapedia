@@ -114,7 +114,7 @@ Ciertamente nos proporciona algo en lo que trabajar.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page7.html)
 
 
 

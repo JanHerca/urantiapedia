@@ -64,7 +64,7 @@ Alors que je considère actuellement l'avenir d'Urantia à la lumière de la lec
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html)
 
 
 

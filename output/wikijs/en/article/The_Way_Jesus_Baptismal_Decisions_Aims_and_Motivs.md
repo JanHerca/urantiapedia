@@ -84,7 +84,7 @@ Whereas the goal set for those who volunteer to be on Jesus’ team may appear d
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html)
 
 
 

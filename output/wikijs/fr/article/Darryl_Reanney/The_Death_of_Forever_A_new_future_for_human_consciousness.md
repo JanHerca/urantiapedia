@@ -100,7 +100,7 @@ Nous devrions apprendre à aborder la mort avec gratitude, en la considérant po
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html)
 
 
 

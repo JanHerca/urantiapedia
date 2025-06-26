@@ -62,7 +62,7 @@ Como lectores de _El Libro de Urantia_, probablemente la mayoría de nosotros co
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html)
 
 
 

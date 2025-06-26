@@ -65,7 +65,7 @@ Matthew Block considers that Reginald A. Daly’s book, “Our Mobile Earth” (
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page14.html)
 
 
 

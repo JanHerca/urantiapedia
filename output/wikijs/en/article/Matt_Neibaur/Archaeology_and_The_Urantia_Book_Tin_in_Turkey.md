@@ -45,7 +45,7 @@ Although the researchers had found tin ore at Kestel, some skeptics thought ther
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html)
 
 
 

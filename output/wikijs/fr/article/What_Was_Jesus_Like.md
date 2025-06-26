@@ -104,7 +104,7 @@ Peu à peu, la plupart d’entre nous apprendront que la connaissance la plus im
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page13.html)
 
 
 

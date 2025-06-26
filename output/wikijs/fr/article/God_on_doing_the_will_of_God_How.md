@@ -89,7 +89,7 @@ Mais comment être sûr d’être sérieux ? Tout ce que nous devons faire, c'es
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html)
 
 
 

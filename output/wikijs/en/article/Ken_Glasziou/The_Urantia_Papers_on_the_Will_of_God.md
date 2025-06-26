@@ -68,7 +68,7 @@ The human Jesus saw God as being holy, just, and great, as well as being true, b
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html)
 
 
 

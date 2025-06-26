@@ -46,7 +46,7 @@ Bien que les chercheurs aient trouvé du minerai d'étain à Kestel, certains sc
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html)
 
 
 

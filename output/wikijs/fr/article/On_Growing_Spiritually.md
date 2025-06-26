@@ -67,7 +67,7 @@ Mais au niveau conscient de l’élimination de l’égoïsme de notre nature, l
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html)
 
 
 

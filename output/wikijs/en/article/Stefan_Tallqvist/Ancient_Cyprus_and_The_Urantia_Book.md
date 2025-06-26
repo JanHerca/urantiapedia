@@ -77,7 +77,7 @@ Stefan concludes that he finds all of the archaeological information is in good 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html)
 
 
 

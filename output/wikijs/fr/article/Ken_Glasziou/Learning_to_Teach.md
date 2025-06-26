@@ -97,7 +97,7 @@ La phase dans laquelle notre tâche principale est d'aider les chrétiens à pre
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html)
 
 
 

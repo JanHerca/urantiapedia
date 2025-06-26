@@ -84,7 +84,7 @@ La moralidad no es necesariamente espiritual; puede ser total y puramente humana
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

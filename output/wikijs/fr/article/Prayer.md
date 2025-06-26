@@ -49,7 +49,7 @@ La vraie prière est le reflet de notre désir spirituel sincère de prendre con
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html)
 
 
 

@@ -74,7 +74,7 @@ Trepando nuestro camino de regreso a la realidad, tenemos que aceptar que no suc
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html)
 
 
 

@@ -82,7 +82,7 @@ Editors
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html)
 
 
 

@@ -46,7 +46,7 @@ So even if the time factor permitted use of the meteorite data, because of the c
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html)
 
 
 

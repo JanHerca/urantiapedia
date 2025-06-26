@@ -62,7 +62,7 @@ Tout cela se déroulait simultanément avec le brouhaha continu qui se déroulai
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html)
 
 
 

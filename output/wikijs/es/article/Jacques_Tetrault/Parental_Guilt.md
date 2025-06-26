@@ -97,7 +97,7 @@ Dile SÍ a tu Padre celestial, la vida te dirá SÍ. Y tus hijos también estar�
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html)
 
 
 

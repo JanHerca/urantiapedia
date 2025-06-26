@@ -94,7 +94,7 @@ We have a whole millennium in which to work. A gradual approach appears to be th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html)
 
 
 

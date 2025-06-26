@@ -86,7 +86,7 @@ Did we fail to take up that challenge by getting bogged down in things secular w
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html)
 
 
 

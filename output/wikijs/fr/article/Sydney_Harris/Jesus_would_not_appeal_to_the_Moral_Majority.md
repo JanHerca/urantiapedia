@@ -62,7 +62,7 @@ Quoi que prétende être le fondamentaliste moderne, au nom du Christ, il prend 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html)
 
 
 

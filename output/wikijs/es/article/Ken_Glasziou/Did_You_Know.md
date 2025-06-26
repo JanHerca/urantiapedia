@@ -43,7 +43,7 @@ Durante la primera parte de la expansión del universo, posterior al Big Bang te
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html)
 
 
 

@@ -76,7 +76,7 @@ En el estado mortal **nada puede probarse absolutamente**, tanto la ciencia como
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page10.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page10.html)
 
 <figure class="table chapter-navigator">
   <table>

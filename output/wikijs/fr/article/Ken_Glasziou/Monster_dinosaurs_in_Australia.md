@@ -39,7 +39,7 @@ Les documents indiquent que des restes de dinosaures monstrueux sont enterrés e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html)
 
 
 

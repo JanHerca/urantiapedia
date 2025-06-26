@@ -63,7 +63,7 @@ Puis une autre pensée m'est venue même si j'étais encore en larmes, j'avais t
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_4/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page5.html)
 
 
 

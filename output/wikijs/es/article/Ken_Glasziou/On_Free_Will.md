@@ -55,7 +55,7 @@ El hombre no tiene libre albedrío ilimitado; hay límites a su rango de elecci�
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page15.html)
 
 
 

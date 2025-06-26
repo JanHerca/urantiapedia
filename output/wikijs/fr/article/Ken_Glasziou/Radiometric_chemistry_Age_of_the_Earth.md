@@ -54,7 +54,7 @@ Il n’y a absolument aucun moyen qu’en 1955, les planches d’impression du L
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html)
 
 
 

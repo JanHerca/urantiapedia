@@ -65,7 +65,7 @@ Seguramente, entonces, la corrección de ese error primario es el requisito card
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html)
 
 
 

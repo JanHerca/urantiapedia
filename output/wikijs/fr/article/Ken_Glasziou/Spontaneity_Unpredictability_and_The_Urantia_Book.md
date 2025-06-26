@@ -75,7 +75,7 @@ Nos citations du _Livre d'Urantia_ sont tout à fait concluantes sur les rôles 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page6.html)
 
 
 

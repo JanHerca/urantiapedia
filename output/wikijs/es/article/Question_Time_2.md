@@ -54,7 +54,7 @@ Cualquiera que sea tu respuesta, nunca olvides que realmente estás habitado por
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page3.html)
 
 
 

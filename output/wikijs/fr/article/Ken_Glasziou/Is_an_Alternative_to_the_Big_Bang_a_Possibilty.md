@@ -110,7 +110,7 @@ Ces visions d’un état quasi-stationnaire s’adaptent beaucoup plus étroitem
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html)
 
 - Explorer le Cosmos. Conférences de l'Université de Californie, Irvine. https://faculty.humanities.uci.edu/bjbecker/ExploringtheCosmos/lecture20.html
 

@@ -93,7 +93,7 @@ This speculation about the size of the universe is a necessary step towards look
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html)
 
 
 <figure class="table chapter-navigator">

@@ -98,7 +98,7 @@ Ainsi, à partir de sources juives et païennes, il existe suffisamment de réf�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html)
 
 
 

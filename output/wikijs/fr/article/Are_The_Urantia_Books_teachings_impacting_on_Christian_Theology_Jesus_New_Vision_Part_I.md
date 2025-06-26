@@ -338,7 +338,7 @@ En comparant Borg avec ce que nous trouvons dans le Livre d'Urantia, nous devons
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html)
 
 
 

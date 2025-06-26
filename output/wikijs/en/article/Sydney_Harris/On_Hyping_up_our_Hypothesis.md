@@ -53,7 +53,7 @@ The human capacity to process new facts so that they agree with our prior conclu
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page8.html)
 
 
 

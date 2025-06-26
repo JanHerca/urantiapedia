@@ -96,7 +96,7 @@ The phase in which our principal task is to help Christians to become aware of t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html)
 
 
 

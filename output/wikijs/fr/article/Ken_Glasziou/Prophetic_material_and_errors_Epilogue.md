@@ -57,7 +57,7 @@ Si la révélation n’avait pas pour but d’apporter de nouvelles connaissance
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html)
 
 
 

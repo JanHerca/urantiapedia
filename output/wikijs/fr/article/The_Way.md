@@ -44,7 +44,7 @@ Si donc l’esprit habite en vous, vous n’êtes plus des esclaves de la chair 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html)
 
 
 

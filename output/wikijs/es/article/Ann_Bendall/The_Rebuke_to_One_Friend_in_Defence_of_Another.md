@@ -68,7 +68,7 @@ Y en el mismo instante, y sobre el mismo conjunto de eventos, una amiga, María,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html)
 
 
 

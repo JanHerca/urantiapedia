@@ -85,7 +85,7 @@ La morale n'est pas nécessairement spirituelle ; elle peut être entièrement e
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html)
 
 
 

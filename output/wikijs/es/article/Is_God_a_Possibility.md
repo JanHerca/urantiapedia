@@ -136,7 +136,7 @@ Wright concluye con este comentario: «Ya sea que creas o no que la historia de 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html)
 
 
 <figure class="table chapter-navigator">

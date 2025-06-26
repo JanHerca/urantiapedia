@@ -57,7 +57,7 @@ Dieu grandit à mesure que nous grandissons, car il reflète ce que nous devenon
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html)
 
 
 

@@ -51,7 +51,7 @@ N'est-il pas étonnant que nous qui connaissons la parole de Jésus parvenons to
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page13.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page13.html)
 
 
 

@@ -40,7 +40,7 @@ This concept was put to the test (Science, vol. 292, p. 115) at the Human Geneti
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html)
 
 
 

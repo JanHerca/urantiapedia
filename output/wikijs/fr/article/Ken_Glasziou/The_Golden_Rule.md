@@ -60,7 +60,7 @@ Nous devons donc clairement reconnaître que ni la règle d’or ni l’enseigne
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html)
 
 
 

@@ -42,7 +42,7 @@ In view of the uncertainties when the Papers were written, why did our hypotheti
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page17.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page17.html)
 
 
 

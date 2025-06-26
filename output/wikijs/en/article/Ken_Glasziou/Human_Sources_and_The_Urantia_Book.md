@@ -86,7 +86,7 @@ Gamow was guessing. Whoever wrote Paper 41 knew full well that this was so. Does
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html)
 
 
 <figure class="table chapter-navigator">

@@ -127,7 +127,7 @@ Esperemos que las muchas lecciones del Parlamento de las Religiones del Mundo de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html)
 
 
 

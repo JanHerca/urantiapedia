@@ -67,7 +67,7 @@ Maybe only ten people would read our efforts. But if they pass it on, ten times 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page2.html)
 
 
 

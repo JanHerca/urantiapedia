@@ -44,7 +44,7 @@ So the statement on marsupial migration and drifting continents had to be just a
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page20.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page20.html)
 
 
 

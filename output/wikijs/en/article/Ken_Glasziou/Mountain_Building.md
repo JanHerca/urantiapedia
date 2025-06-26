@@ -48,7 +48,7 @@ The answer we give to that question reflects our progress in understanding the p
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page18.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page18.html)
 
 
 

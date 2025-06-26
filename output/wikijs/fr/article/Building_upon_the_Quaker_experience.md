@@ -157,7 +157,7 @@ En d’autres termes, faire la volonté de Dieu n’est que cela. Ce n'est pas n
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html)
 
 
 

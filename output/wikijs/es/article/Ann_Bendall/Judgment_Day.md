@@ -77,7 +77,7 @@ Y así, mientras me abro camino ignorantemente a través del ascenso al Paraíso
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html)
 
 
 

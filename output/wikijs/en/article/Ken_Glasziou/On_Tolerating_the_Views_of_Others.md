@@ -39,7 +39,7 @@ To those who were disconcerted about the Master's tolerance of the views of othe
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 
 <figure class="table chapter-navigator">

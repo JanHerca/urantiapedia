@@ -134,7 +134,7 @@ But care is required to ensure that we do not deceive ourselves. If concepts and
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html)
 
 
 

@@ -91,7 +91,7 @@ Il semble peu probable qu’une méthodologie scientifique puisse jamais être d
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html)
 
 
 

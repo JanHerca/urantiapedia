@@ -60,7 +60,7 @@ God-playing and the pride associated with it is an ongoing trap. For once our mo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html)
 
 
 

@@ -68,7 +68,7 @@ El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, her
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html)
 
 
 

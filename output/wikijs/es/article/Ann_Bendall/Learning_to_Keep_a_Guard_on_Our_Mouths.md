@@ -64,7 +64,7 @@ Y fue solo cuando cantó el gallo que Pedro se dio cuenta de que había negado a
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html)
 
 
 

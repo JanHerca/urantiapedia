@@ -73,7 +73,7 @@ And all of the essential events, to outward appearances, were a set of fortuitou
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page2.html)
 
 
 

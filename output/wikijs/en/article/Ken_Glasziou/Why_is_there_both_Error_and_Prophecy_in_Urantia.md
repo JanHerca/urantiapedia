@@ -106,7 +106,7 @@ A further consideration is the stated hope of the authors that their offering wi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html)
 
 
 <figure class="table chapter-navigator">

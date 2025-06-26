@@ -84,7 +84,7 @@ Morality is not necessarily spiritual; it may be wholly and purely human, albeit
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -59,7 +59,7 @@ Or we can choose to let mayhem take its course.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page2.html)
 
 
 <figure class="table chapter-navigator">

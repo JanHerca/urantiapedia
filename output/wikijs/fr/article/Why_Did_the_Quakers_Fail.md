@@ -118,7 +118,7 @@ En un mot, le mouvement Quaker s’est effondré parce qu’il a promu les quest
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html)
 
 
 

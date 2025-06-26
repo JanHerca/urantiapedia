@@ -56,7 +56,7 @@ Pero principalmente, debemos vivir como vivió Jesús.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page13.html)
 
 
 

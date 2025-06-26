@@ -87,7 +87,7 @@ Avons-nous échoué à relever ce défi en nous enlisant dans des choses laïque
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html)
 
 
 

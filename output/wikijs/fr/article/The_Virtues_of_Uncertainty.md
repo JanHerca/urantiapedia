@@ -55,7 +55,7 @@ Qu’est-ce qui a une valeur spirituelle ? Jésus considérait le Père comme sa
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html)
 
 
 

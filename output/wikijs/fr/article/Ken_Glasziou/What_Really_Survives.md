@@ -133,10 +133,9 @@ Il existe deux approches pour comprendre ce qu’est le spirituel. Puisque Dieu 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
-
-
-
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html)
+- [Cet article sur le site Web de l'Association Urantia d'Espagne](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+- [L'Association Urantia d'Espagne — Index](/fr/index/articles_spain)
 
 
 

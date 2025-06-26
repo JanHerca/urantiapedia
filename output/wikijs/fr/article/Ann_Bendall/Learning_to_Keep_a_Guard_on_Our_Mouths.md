@@ -65,7 +65,7 @@ Et ce n'est que lorsque le coq a chanté que Pierre s'est rendu compte qu'il ava
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html)
 
 
 

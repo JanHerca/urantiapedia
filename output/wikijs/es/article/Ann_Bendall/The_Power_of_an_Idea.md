@@ -76,7 +76,7 @@ Puedo ayudar a mi compañero, mi Ajustador del Pensamiento:
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page8.html)
 
 
 

@@ -50,7 +50,7 @@ Consulte el artículo «Lo que realmente sobrevive» para obtener información s
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html)
 
 
 

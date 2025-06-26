@@ -78,7 +78,7 @@ Un atractor extraño es un gráfico de espacio de fase que traza la trayectoria 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html)
 
 
 

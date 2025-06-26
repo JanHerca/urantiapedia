@@ -58,7 +58,7 @@ Can we rectify our error? We could try by sincerely dedicating our wills back to
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html)
 
 
 

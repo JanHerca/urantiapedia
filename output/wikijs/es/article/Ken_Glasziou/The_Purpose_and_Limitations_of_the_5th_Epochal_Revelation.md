@@ -83,7 +83,7 @@ Desde que _El Libro de Urantia_ se lanzó al público en general, tal vez ha hab
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html)
 
 
 

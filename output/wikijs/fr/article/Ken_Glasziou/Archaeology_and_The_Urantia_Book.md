@@ -51,7 +51,7 @@ L'article qui suit concerne la localisation de Tarichée sur la mer de Galilée.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html)
 
 
 

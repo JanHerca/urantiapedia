@@ -96,7 +96,7 @@ Quand j'arrive à Jérusem, j'espère qu'Adam et Eve sont toujours là et qu'ils
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html)
 
 
 

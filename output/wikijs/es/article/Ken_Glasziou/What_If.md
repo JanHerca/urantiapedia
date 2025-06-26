@@ -40,7 +40,7 @@ La redacción del _Libro de Urantia_ de 2000 páginas habría requerido una enor
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html)
 
 
 

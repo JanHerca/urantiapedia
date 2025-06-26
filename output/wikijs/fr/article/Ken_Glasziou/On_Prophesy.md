@@ -54,7 +54,7 @@ La foi et l'expérience personnelle, et non la science ou même la qualité, son
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html)
 
 
 

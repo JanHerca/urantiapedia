@@ -536,7 +536,7 @@ Consequently the Papers tell us: “that which is of greatest value is to know t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html)
 
 
 

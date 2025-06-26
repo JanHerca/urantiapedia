@@ -109,7 +109,7 @@ These quasi-steady state views provide a much closer fit to Urantia Book cosmolo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html)
 
 - Exploring the Cosmos. Lectures from University of California, Irvine. https://faculty.humanities.uci.edu/bjbecker/ExploringtheCosmos/lecture20.html
 

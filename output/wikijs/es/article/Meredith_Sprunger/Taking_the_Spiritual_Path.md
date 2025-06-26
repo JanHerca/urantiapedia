@@ -67,7 +67,7 @@ Nuestra sociedad necesita desesperadamente una visión espiritual ampliada para 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html)
 
 
 

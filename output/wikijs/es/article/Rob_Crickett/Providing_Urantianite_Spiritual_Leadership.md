@@ -61,7 +61,7 @@ De esta manera, el Epochal arroja y refunde la gran fe y perseverancia que está
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html)
 
 
 

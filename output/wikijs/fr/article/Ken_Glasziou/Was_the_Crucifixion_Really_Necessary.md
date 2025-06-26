@@ -88,7 +88,7 @@ Ces raisons me suffisent. Il n’y avait pas d’autre solution possible. Je pri
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html)
 
 * https://en.wikipedia.org/wiki/Irenaeus
 

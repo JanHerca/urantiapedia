@@ -59,7 +59,7 @@ Sur <a id="a57_4"></a>[LU 40:5.15](/fr/The_Urantia_Book/40#p5_15), l'auteur du P
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html)
 
 
 

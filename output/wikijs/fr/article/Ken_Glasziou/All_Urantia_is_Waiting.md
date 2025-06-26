@@ -74,7 +74,7 @@ Hmmm ! Peut-être que certains d’entre nous ont du travail à faire.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html)
 
 
 

@@ -220,7 +220,7 @@ Dios es personalmente consciente y está en contacto personal con todas las pers
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html)
 
 
 

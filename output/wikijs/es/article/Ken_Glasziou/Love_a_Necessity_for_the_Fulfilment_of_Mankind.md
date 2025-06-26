@@ -68,7 +68,7 @@ El amor debe comprender el concepto siempre cambiante del bien cósmico más alt
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html)
 
 
 

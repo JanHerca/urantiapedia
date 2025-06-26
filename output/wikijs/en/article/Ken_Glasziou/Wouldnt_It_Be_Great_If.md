@@ -47,7 +47,7 @@ Is it time for the teachings of _The Urantia Book_ to not only become visible in
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html)
 
 
 

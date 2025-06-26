@@ -89,7 +89,7 @@ Ayúdame y guíame para dominarme, transformarme, para que pueda hacer del hogar
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

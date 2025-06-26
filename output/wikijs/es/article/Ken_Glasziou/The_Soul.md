@@ -51,7 +51,7 @@ Fuente: _El Libro de Urantia_, <a id="a45_31"></a>[LU 133:6.5-7](/es/The_Urantia
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -58,7 +58,7 @@ For mankind, mind is in addition to personality, body, and soul. Our earth-mind 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html)
 
 
 <figure class="table chapter-navigator">

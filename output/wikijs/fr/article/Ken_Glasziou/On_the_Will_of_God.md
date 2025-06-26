@@ -76,7 +76,7 @@ Ce choix ne consiste pas tant dans la négation de la volonté de la créature :
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html)
 
 
 

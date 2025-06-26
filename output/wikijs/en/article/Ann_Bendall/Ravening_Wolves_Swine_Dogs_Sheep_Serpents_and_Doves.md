@@ -61,7 +61,7 @@ And finally the role of sheep/lamb—this is the relationship between me and Jes
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html)
 
 
 

@@ -79,7 +79,7 @@ Entre muchas otras cosas, afirman: «_La existencia de Dios nunca puede probarse
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html)
 
 
 <figure class="table chapter-navigator">

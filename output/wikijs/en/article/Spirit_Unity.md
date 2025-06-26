@@ -68,7 +68,7 @@ You cannot be even mildly fanatical about a football team—or any other worldly
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html)
 
 
 

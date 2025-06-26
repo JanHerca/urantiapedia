@@ -64,7 +64,7 @@ Il se pourrait bien que l’affirmation de soi doive précéder la soumission vo
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html)
 
 
 

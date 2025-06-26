@@ -116,7 +116,7 @@ Un estudio más profundo podría incluir otros conceptos relacionados como «pod
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page11.html)
 
 
 

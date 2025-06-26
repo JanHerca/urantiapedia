@@ -77,7 +77,7 @@ The mandate to the revelators permitted “_the supplying of information which w
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page19.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page19.html)
 
 
 

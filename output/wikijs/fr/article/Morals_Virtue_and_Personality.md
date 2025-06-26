@@ -58,7 +58,7 @@ La vertu suprême est donc de choisir de tout cœur de faire la volonté du Pèr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html)
 
 
 

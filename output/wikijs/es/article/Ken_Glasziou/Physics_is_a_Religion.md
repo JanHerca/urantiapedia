@@ -67,7 +67,7 @@ Como la física, toda religión depende de una fe no probada. Parece que Dios qu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html)
 
 
 

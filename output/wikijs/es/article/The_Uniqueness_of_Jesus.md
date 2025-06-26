@@ -121,7 +121,7 @@ Estos dichos están destinados a guiar nuestra transformación, y no a convertir
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

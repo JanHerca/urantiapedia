@@ -66,7 +66,7 @@ Es alimento para el pensamiento.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html)
 
 
 

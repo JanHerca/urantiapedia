@@ -83,7 +83,7 @@ Lorsque la prière ne cherche rien pour celui qui prie ni rien pour ses semblabl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html)
 
 
 

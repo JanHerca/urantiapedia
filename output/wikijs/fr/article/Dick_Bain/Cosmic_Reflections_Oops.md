@@ -68,7 +68,7 @@ Lorsque l’univers est dans la phase d’expansion du cycle de respiration spat
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html)
 
 
 

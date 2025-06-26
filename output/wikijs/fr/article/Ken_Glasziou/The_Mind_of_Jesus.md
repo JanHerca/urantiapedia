@@ -624,7 +624,7 @@ Le Père est amour vivant et cette vie du Père est en son Fils. Et l'Esprit du 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html)
 
 
 

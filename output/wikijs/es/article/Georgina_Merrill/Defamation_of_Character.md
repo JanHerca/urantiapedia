@@ -62,7 +62,7 @@ Entonces me vino otro pensamiento a pesar de que todavía estaba llorando, todav
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page5.html)
 
 
 

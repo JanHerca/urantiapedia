@@ -133,7 +133,7 @@ Si el Espíritu habita en nosotros, somos potencialmente hijos libres y liberado
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html)
 
 
 

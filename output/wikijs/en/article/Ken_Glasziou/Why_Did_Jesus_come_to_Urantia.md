@@ -161,7 +161,7 @@ And what greater Gift can we offer the God of Nebadon than ourselves? Happy birt
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html)
 
 
 

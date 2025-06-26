@@ -62,7 +62,7 @@ As readers of _The Urantia Book_, probably most of us consider ourselves to have
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html)
 
 
 

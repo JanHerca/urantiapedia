@@ -137,7 +137,7 @@ Notre tâche est de diffuser le message de Jésus, pas nécessairement de diffus
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html)
 
 
 

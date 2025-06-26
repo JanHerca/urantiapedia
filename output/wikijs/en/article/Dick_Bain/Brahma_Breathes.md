@@ -102,7 +102,7 @@ Speculation won’t necessarily provide correct answers, but it can help us to f
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html)
 
 
 <figure class="table chapter-navigator">

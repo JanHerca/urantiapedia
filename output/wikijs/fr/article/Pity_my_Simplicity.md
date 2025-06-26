@@ -65,7 +65,7 @@ Si nous nous considérons comme un peuple élu, récompensé d’une manière ou
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html)
 
 
 

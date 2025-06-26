@@ -134,7 +134,7 @@ Et peut-être enfin :_ « Quand les hommes verront que vous les aimez tant et av
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html)
 
 
 

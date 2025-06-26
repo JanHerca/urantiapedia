@@ -78,7 +78,7 @@ Which is why the truth of any religion is evidenced solely by the fruits of the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html)
 
 
 

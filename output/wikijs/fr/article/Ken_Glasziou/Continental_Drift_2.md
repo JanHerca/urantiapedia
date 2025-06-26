@@ -59,7 +59,7 @@ De toute évidence, de nombreuses sections du livre doivent rester telles qu’e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page27.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page27.html)
 
 
 

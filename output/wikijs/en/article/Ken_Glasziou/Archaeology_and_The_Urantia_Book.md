@@ -50,7 +50,7 @@ The article that follows concerns the location of Tarichea on the Sea of Galilee
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html)
 
 
 

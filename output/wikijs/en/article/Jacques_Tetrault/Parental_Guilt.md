@@ -97,7 +97,7 @@ Say YES to your heavenly Father, life will say YES to you. And your children wil
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html)
 
 
 

@@ -37,7 +37,7 @@ An article appearing in Natural History (8/92) indicates that the ancient North 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html)
 
 <figure class="table chapter-navigator">
   <table>

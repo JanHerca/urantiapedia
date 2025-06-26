@@ -70,7 +70,7 @@ Resumiendo esta evidencia, concluimos que la veracidad de las apariciones de la 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -74,7 +74,7 @@ For the universe’s most favored scenario today the picture has emerged of a fl
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

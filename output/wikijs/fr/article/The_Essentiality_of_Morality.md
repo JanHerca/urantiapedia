@@ -106,7 +106,7 @@ Demandez-vous : « Si ce n’était pas le cas, pourquoi ai-je alors les Cahiers
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page3.html)
 
 
 

@@ -131,7 +131,7 @@ Pour les lecteurs sincères et dévoués des Cahiers d'Urantia, l'avenir sera s�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html)
 
 
 

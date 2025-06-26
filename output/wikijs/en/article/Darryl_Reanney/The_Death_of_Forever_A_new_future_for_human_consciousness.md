@@ -99,7 +99,7 @@ We should learn to approach death with gratitude, seeing it for what it is, the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html)
 
 
 

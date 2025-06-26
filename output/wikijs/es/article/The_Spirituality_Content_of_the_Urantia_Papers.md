@@ -536,7 +536,7 @@ En consecuencia, los Documentos nos dicen: «lo que tiene mayor valor es conocer
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html)
 
 
 <figure class="table chapter-navigator">

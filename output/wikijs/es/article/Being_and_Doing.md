@@ -105,7 +105,7 @@ Y así, de acuerdo con la evidencia citada, concluimos que las vidas vividas a i
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html)
 
 
 

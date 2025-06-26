@@ -66,7 +66,7 @@ Pero a nivel consciente de eliminar el egoísmo de nuestra naturaleza, la tarea 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html)
 
 
 

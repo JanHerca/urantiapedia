@@ -59,7 +59,7 @@ C'est le genre de techniques utilisées par la science moderne pour dater de man
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html)
 
 
 

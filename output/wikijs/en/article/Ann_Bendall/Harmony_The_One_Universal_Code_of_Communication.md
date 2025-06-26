@@ -81,7 +81,7 @@ Whatever the truth may be, it is certain that our Thought Adjuster has the neces
 
 ## External links
 
-Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html
+[Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html)
 
 
 <figure class="table chapter-navigator">

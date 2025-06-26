@@ -96,7 +96,7 @@ Y eso, sostengo, podría presentarse como el mensaje que hace que _El Libro de U
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html)
 
 
 

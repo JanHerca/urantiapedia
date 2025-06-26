@@ -116,7 +116,7 @@ Bien qu’il semble signaler une capitulation, un appel à l’aide divine est i
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html)
 
 
 

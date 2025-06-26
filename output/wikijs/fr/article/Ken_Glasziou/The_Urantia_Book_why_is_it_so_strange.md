@@ -123,7 +123,7 @@ Alors, qu’est-ce qui doit être proclamé ? Voici quelques-uns de ses composan
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page12.html)
 
 
 

@@ -133,7 +133,7 @@ Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán ferv
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html)
 
 
 

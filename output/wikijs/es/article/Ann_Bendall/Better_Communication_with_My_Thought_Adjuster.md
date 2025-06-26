@@ -66,7 +66,7 @@ Al llegar a conocer a Dios y a Jesús, y luego ejercer mi voluntad de una manera
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html)
 
 
 

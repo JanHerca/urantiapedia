@@ -78,7 +78,7 @@ Thus Jesus was not a country yokel who had never been exposed to Greco-Roman civ
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -120,7 +120,7 @@ La intención del autor de este trabajo es, en sus propias palabras, «ir más a
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Quehacerconlaevolucion-abr21.jpg" alt="Evolución o creación" width="250">
 </figure>
 
-[**Evolución y creación (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Evolucionycreacion.pdf)
+[**Evolución y creación (Carmelo Martínez)**](/es/article/Carmelo_Martinez/Evolucion_o_creacion) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Evolucionycreacion.pdf))
 
 Tal como expresa Carmelo en la introducción a este trabajo: «¿Evolución o creación? No se pretende con la pregunta dar a entender que se va a rechazar la teoría de la evolución y defender a algunos creacionistas estadounidenses que interpretan literalmente la Biblia (…) La evolución de las especies es una teoría bien establecida por la ciencia actual que nadie, casi nadie, pone en duda. El propósito es más bien destacar que, al parecer, sobre esa teoría no se ha dicho aún la última palabra». Si además añadimos lo que se afirma en _El Libro de Urantia_ acerca de ambos conceptos, tendremos una visión mucho más completa de esa (falsa) dicotomía.
 <br style="clear:both" />

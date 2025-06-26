@@ -95,7 +95,7 @@ Y el veredicto de Jesús sobre la forma en que Judas sería juzgado se refleja e
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

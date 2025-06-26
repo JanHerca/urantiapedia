@@ -55,7 +55,7 @@ In the second instance on <a id="a46_26"></a>[UB 139:4.8](/en/The_Urantia_Book/1
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page5.html)
 
 
 

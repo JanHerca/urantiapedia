@@ -112,7 +112,7 @@ Despite the carbon dating debacle, it still appears to be possible that the Turi
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -62,7 +62,7 @@ Attitudes thus make all the difference. Jesus never perceived the apparent hosti
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html)
 
 
 

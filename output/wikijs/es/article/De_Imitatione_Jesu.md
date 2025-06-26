@@ -104,7 +104,7 @@ Posiblemente el mejor modelo disponible para nosotros de un grupo de personas de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html)
 
 
 

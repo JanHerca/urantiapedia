@@ -68,7 +68,7 @@ Jusqu’à présent, les hommes chrétiens se sont contentés d’excuser leur c
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html)
 
 
 

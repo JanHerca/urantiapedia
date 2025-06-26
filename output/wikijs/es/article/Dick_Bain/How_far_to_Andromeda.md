@@ -74,7 +74,7 @@ Para el escenario más favorecido del universo actual, ha surgido la imagen de u
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

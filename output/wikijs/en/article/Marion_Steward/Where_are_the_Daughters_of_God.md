@@ -102,7 +102,7 @@ Where, then, are the Daughters of God? They are everywhere—the spirit beings c
 
 ## External links
 
-* This article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
+* [This article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

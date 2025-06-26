@@ -50,7 +50,7 @@ Although it is unintended, I can think of no more subtle way to disrupt unity in
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

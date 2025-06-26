@@ -62,7 +62,7 @@ The Biblical fundamentalists have brought much derision upon themselves and the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html)
 
 
 

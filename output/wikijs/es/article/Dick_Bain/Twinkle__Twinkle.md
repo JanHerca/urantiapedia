@@ -52,7 +52,7 @@ El telescopio es en efecto una máquina del tiempo. Cuanto más viaja la luz des
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html)
 
 
 <figure class="table chapter-navigator">

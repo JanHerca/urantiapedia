@@ -40,7 +40,7 @@ Part 4 of _The Urantia Book_ contains literally hundreds of historical and archa
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html)
 
 
 

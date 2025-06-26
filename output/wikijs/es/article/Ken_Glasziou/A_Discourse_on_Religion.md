@@ -90,7 +90,7 @@ Adaptado del Documento 155, Secciones 5 y 6
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page2.html)
 
 
 

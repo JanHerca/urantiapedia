@@ -172,7 +172,7 @@ Aujourd’hui, ce ne sont pas seulement les physiciens quantiques qui ont abando
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html)
 
 
 

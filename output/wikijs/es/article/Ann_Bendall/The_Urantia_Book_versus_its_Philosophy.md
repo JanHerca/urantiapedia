@@ -63,7 +63,7 @@ Como actualmente veo el futuro de Urantia a la luz de la lectura de _El Libro de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html)
 
 
 

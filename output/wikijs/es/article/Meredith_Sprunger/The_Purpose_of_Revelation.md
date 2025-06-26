@@ -161,7 +161,7 @@ El sólido núcleo del movimiento Urantia ha superado estas tribulaciones con re
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

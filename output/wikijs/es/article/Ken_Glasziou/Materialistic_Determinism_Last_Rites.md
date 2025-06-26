@@ -72,7 +72,7 @@ De hecho, somos afortunados de vivir en estos tiempos emocionantes en los que nu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html)
 
 
 

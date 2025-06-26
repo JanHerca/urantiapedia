@@ -85,7 +85,7 @@ Le changement qui semble nécessaire est celui qui façonnera ce qui est mainten
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html)
 
 
 

@@ -148,7 +148,7 @@ Entonces, salvo un accidente, parece que nuestro planeta debería estar seguro d
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

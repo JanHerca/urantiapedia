@@ -92,7 +92,7 @@ Si es así, la función probable de los Portadores de Vida habría sido reorgani
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page10.html)
 
 
 

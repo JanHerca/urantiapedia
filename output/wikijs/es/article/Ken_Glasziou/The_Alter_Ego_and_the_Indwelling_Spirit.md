@@ -82,7 +82,7 @@ Cuando la oración no busca nada para el que ora ni nada para sus semejantes, en
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html)
 
 
 

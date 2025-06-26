@@ -84,7 +84,7 @@ Mientras que la meta establecida para aquellos que se ofrecen como voluntarios p
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html)
 
 
 

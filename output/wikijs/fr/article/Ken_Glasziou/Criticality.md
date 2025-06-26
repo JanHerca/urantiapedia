@@ -96,7 +96,7 @@ Il est possible que les Cahiers d'Urantia aient été spécifiquement conçus po
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html)
 
 
 

@@ -71,7 +71,7 @@ Je pense que parce que le *Livre d'Urantia* est favorable à l'évolution, il pl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html)
 
 
 

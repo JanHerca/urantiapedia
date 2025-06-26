@@ -77,7 +77,7 @@ Given devotion and effort, many people could be made aware of key universal prin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html)
 
 
 

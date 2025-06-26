@@ -88,7 +88,7 @@ Le dije a Gardner al final de nuestra entrevista que soy pragmático. Trato de e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html)
 
 <figure class="table chapter-navigator">
   <table>

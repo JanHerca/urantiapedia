@@ -48,7 +48,7 @@ The possibility of evil is necessary to moral choosing, but not the actuality th
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

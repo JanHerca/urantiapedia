@@ -55,7 +55,7 @@ La verdad divina es una realidad viva y discernida por el espíritu. La verdad e
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -91,7 +91,7 @@ Les révélateurs expriment également l’espoir supplémentaire que leur rév�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page2.html)
 
 
 

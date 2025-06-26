@@ -69,7 +69,7 @@ All of which demonstrates a remarkable congruence of information stemming from L
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -360,7 +360,7 @@ Dicho de otra manera, dice que la cosecha de la fe es la fe; que así como inclu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html)
 
 
 

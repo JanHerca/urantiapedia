@@ -115,7 +115,7 @@ _La jalousie : un poison spirituel qui attaque et détruit le cœur !_
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html)
 
 
 

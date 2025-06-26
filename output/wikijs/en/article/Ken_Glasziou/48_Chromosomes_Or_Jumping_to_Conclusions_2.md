@@ -77,7 +77,7 @@ There appears to be no essential reason to equate a unit of pattern control with
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page7.html)
 
 
 

@@ -115,7 +115,7 @@ Although apparently signaling capitulation, a cry for divine help is inappropria
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

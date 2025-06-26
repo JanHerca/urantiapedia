@@ -156,7 +156,7 @@ However, the remedy is in our own hands. When enough of us enlist the aid of Jes
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

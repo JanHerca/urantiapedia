@@ -62,7 +62,7 @@ Si mon « adversité » particulière ne s’était pas produite, je n’aurais 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html)
 
 
 

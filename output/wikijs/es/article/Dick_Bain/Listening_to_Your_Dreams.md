@@ -69,7 +69,7 @@ En lo que a mí respecta, continuaré buscando un significado espiritual en mis 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html)
 
 
 <figure class="table chapter-navigator">

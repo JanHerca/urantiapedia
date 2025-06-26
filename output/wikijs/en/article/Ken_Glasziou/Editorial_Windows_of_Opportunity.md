@@ -100,7 +100,7 @@ An article on some of the parallels between process theology and the Urantia Pap
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html)
 
 
 

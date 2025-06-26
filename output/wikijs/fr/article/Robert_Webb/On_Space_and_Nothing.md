@@ -49,7 +49,7 @@ Pouvons-nous dire que l’espace dans l’Univers est la base de toute réalité
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html)
 
 
 

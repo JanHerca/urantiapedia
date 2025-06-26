@@ -76,7 +76,7 @@ En effet, c'est une joie de vivre à une époque où le message vivant de Jésus
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html)
 
 
 

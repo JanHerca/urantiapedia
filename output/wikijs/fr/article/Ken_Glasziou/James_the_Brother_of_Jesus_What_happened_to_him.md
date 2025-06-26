@@ -51,7 +51,7 @@ Alors peut-être qu’il y avait vraiment une personne nommée Jésus de Nazaret
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html)
 
 
 

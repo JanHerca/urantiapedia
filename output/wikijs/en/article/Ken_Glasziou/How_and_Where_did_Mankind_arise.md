@@ -63,7 +63,7 @@ Further evidence that the Neanderthals contributed little to the gene pool of mo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html)
 
 
 

@@ -51,7 +51,7 @@ Probablemente no haya mejor manera que esta para nosotros, los urantianos, de lo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html)
 
 
 

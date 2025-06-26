@@ -119,7 +119,7 @@ En résumé:
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page7.html)
 
 
 

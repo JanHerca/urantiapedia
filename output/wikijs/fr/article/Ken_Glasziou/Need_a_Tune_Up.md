@@ -52,7 +52,7 @@ Il n’y a probablement pas de meilleur moyen que cela pour nous, Urantiens, par
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html)
 
 
 

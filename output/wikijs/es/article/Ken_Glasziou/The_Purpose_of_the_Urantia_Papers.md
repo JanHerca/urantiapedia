@@ -88,7 +88,7 @@ En cierto modo, los lectores del _Libro de Urantia_ han tratado los Documentos d
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html)
 
 
 

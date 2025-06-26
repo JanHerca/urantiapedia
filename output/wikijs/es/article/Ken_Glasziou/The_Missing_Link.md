@@ -105,7 +105,7 @@ Según Needleman, limpiar el interior para que el exterior también esté limpio
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page5.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page5.html)
 
 ## Referencias
 

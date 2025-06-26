@@ -72,7 +72,7 @@ Bien entendu, les nouveaux lecteurs doivent trouver leur propre chemin vers la v
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html)
 
 
 

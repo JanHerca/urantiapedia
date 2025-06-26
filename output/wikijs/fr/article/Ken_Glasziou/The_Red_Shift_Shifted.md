@@ -89,7 +89,7 @@ Il est intéressant de noter que les auteurs de l'Étude d'Urantia ont pris, pou
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page13.html)
 
 
 

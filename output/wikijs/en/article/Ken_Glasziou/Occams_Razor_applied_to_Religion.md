@@ -71,7 +71,7 @@ And because we know that our God is perfectly good, we also know that the eterna
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page15.html)
 
 
 

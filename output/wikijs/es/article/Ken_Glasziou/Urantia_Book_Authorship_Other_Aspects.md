@@ -60,7 +60,7 @@ El autor de la Parte 4 todavía tenía 250 páginas por escribir, y aquí nos di
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page12.html)
 
 
 

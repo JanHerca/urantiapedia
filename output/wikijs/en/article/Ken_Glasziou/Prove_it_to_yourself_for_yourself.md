@@ -119,7 +119,7 @@ But does that not still leave us floundering with an unanswered question–how c
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page12.html)
 
 
 

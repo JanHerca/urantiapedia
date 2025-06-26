@@ -87,7 +87,7 @@ Those reasons are enough for me. There was no possible alternative course of act
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html)
 
 * https://en.wikipedia.org/wiki/Irenaeus
 

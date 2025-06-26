@@ -90,7 +90,7 @@ It appears to be unlikely that any scientific methodology could ever be develope
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

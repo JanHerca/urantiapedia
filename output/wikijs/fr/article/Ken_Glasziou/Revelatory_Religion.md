@@ -42,7 +42,7 @@ L’une des caractéristiques les plus étonnantes de la vie religieuse est cett
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html)
 
 
 

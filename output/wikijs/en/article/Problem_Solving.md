@@ -45,7 +45,7 @@ Rodan, Alexandria
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page15.html)
 
 
 

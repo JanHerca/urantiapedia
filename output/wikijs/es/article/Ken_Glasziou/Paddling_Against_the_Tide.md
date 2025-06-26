@@ -53,7 +53,7 @@ El establecimiento respondió a esta afirmación arrojando dudas sobre las técn
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page13.html)
 
 
 

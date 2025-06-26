@@ -103,7 +103,7 @@ Des symboles chrétiens et des prières adressées à Jésus ont été découver
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html)
 
 
 

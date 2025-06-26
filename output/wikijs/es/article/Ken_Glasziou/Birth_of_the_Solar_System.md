@@ -63,7 +63,7 @@ Un ejemplo de información clave puede ser el tiempo dado para el origen del sis
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html)
 
 
 

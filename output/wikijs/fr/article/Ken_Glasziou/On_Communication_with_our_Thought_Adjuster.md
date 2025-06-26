@@ -84,7 +84,7 @@ Ce qui suit cette citation de <a id="a77_30"></a>[LU 193:2.2](/fr/The_Urantia_Bo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page3.html)
 
 
 

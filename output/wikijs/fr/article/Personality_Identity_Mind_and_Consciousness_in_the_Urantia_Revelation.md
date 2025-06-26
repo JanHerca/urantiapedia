@@ -205,7 +205,7 @@ En répondant à une question sur l’âme, Jésus dit :
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)
 
 
 

@@ -62,7 +62,7 @@ Los fundamentalistas bíblicos se han burlado mucho de sí mismos y de la religi
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html)
 
 
 

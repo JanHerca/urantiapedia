@@ -61,7 +61,7 @@ Nunca debemos rechazar las tareas que se nos presentan por motivos falsos de nue
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html)
 
 
 

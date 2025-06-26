@@ -59,7 +59,7 @@ Il serait très intéressant de connaître les dates réelles de publication de 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page17.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page17.html)
 
 
 

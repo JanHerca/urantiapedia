@@ -60,7 +60,7 @@ La révélation est le seul espoir réaliste de l’homme évolutionnaire de com
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html)
 
 
 

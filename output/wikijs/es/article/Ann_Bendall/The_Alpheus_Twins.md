@@ -81,7 +81,7 @@ Los gemelos Alfeo «vivieron y murieron conscientes de haber sido honrados y ben
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page7.html)
 
 
 

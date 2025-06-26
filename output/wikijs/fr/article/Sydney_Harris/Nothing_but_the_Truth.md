@@ -61,7 +61,7 @@ Les absolutistes comme les relativistes sont malhonnêtes en cela : les absoluti
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page12.html)
 
 
 

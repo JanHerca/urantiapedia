@@ -60,7 +60,7 @@ En réponse à une question de Nathaniel, Jésus a fourni aux apôtres une instr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html)
 
 
 

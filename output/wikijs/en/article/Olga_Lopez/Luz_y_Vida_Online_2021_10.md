@@ -122,7 +122,7 @@ The intention of the author of this work is, in his own words, “to go deeper i
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Quehacerconlaevolucion-abr21.jpg" alt="Evolution or creation" width="250">
 </figure>
 
-[**Evolution and creation (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Evolucionycreacion.pdf)
+[**Evolution and creation (Carmelo Martínez)**](/en/article/Carmelo_Martinez/Evolucion_o_creacion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Evolucionycreacion.pdf))
 
 As expressed by Carmelo in the introduction to this work: “Evolution or creation? The question is not intended to imply that the theory of evolution is going to be rejected and defend some American creationists who interpret the Bible literally (...) The evolution of species is a theory well established by current science that nobody, almost no one doubts it. The purpose is rather to emphasize that, apparently, on this theory the last word has not yet been said ”. If we also add what is stated in _The Urantia Book_ about both concepts, we will have a much more complete vision of that (false) dichotomy.
 <br style="clear:both" />

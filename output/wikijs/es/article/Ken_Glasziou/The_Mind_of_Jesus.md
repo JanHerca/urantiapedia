@@ -624,7 +624,7 @@ El Padre es amor vivo y esta vida del Padre está en su Hijo. Y el Espíritu del
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -104,7 +104,7 @@ Although I can draw attention to some of these problems, real solutions are in t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html)
 
 
 

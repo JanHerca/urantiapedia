@@ -81,7 +81,7 @@ Quelle que soit la réalité, le fait que mon Ajusteur de Pensée soit décrit c
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html)
 
 
 

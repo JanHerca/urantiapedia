@@ -50,7 +50,7 @@ Aquí, como en tantas otras áreas de iluminación espiritual, _El Libro de Uran
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html)
 
 
 

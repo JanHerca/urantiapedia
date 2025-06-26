@@ -79,7 +79,7 @@ C’est pourquoi la vérité de toute religion est attestée uniquement par les 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html)
 
 
 

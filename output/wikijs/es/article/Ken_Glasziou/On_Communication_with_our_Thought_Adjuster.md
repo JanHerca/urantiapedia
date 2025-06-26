@@ -83,7 +83,7 @@ Lo que sigue a esta cita de <a id="a76_28"></a>[LU 193:2.2](/es/The_Urantia_Book
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page3.html)
 
 
 

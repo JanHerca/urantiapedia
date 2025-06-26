@@ -41,7 +41,7 @@ Un viejo proverbio dice que no debemos preocuparnos por lo que no sabemos. Pero 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

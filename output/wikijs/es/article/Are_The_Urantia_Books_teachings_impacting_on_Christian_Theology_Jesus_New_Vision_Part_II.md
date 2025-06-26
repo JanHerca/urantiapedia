@@ -322,7 +322,7 @@ La similitud del relato de Borg sobre la vida y muerte de Jesús con la proporci
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_5/ página2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_5/ página2.html)
 
 <figure class="table chapter-navigator">
   <table>

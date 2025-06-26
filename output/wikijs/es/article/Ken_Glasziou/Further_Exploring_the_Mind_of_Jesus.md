@@ -310,7 +310,7 @@ De hecho, incluso el pensamiento de que nuestras vidas son, o incluso deberían 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html)
 
 
 <figure class="table chapter-navigator">

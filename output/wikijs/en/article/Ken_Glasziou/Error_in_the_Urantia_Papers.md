@@ -140,7 +140,7 @@ We have the Papers—and the obligation.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html)
 
 
 <figure class="table chapter-navigator">

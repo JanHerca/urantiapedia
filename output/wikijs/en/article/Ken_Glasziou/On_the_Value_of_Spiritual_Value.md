@@ -102,7 +102,7 @@ The fulfillment of the revelatory promise is dependent on both our conscious and
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page5.html)
 
 
 

@@ -41,7 +41,7 @@ An old proverb states that what we don't know about we need not worry about. But
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

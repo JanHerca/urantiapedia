@@ -96,7 +96,7 @@ A very large number of Christians have, through the ages, arrived at concepts ab
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html)
 
 
 

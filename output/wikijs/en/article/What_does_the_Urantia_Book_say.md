@@ -29,4 +29,4 @@ Thus we conclude that the concepts of monistic  idealism and the thoughts presen
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page15.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page15.html)

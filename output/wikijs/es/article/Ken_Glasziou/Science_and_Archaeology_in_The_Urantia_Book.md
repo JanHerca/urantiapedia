@@ -40,7 +40,7 @@ La parte 4 de _El Libro de Urantia_ contiene literalmente cientos de referencias
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html)
 
 
 

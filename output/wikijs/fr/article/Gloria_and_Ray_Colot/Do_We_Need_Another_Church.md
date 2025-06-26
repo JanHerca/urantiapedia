@@ -61,7 +61,7 @@ L’article de Dick Bain dans Innerface de mars/avril nous a tous enthousiasmés
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html)
 
 
 

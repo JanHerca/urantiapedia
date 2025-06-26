@@ -52,7 +52,7 @@ Source : _Le Livre d'Urantia_, <a id="a46_31"></a>[LU 133:6.5-7](/fr/The_Urantia
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html)
 
 
 

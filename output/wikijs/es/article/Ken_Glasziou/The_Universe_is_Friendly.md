@@ -62,7 +62,7 @@ Por lo tanto, las actitudes marcan la diferencia. Jesús nunca percibió la apar
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html)
 
 
 

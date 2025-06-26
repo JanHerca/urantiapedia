@@ -73,7 +73,7 @@ Ce serait sûrement une contradiction logique que l’auteur de ces mots (et des
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html)
 
 
 

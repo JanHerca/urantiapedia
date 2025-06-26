@@ -77,7 +77,7 @@ Dans l'état mortel **rien ne peut être absolument prouvé**, la science et la 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page10.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page10.html)
 
 
 

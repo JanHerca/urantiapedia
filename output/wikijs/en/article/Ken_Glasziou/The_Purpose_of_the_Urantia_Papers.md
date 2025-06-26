@@ -88,7 +88,7 @@ In some ways Urantia Book readers have treated the Papers in the same way as Chr
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html)
 
 
 

@@ -55,7 +55,7 @@ Guess what. People are now trying to use the ghost-image of the real cobalt atom
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 

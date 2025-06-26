@@ -115,7 +115,7 @@ Aunque aparentemente indica capitulación, un grito de ayuda divina es inapropia
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

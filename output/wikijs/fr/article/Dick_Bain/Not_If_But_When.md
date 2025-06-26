@@ -79,7 +79,7 @@ On pourrait faire valoir qu’une sorte d’église Urantia existe déjà. Consi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page2.html)
 
 
 

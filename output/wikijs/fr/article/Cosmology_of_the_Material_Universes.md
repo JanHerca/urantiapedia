@@ -84,7 +84,7 @@ La science aura découvert que le flux d'énergie dans les univers est contrôl�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html)
 
 
 

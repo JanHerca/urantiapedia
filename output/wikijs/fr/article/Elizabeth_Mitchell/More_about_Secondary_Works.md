@@ -61,7 +61,7 @@ N'oubliez pas que le nom du livre est :
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page13.html)
 
 
 

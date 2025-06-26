@@ -65,7 +65,7 @@ Entre autres choses, le Livre d'Urantia nous dit que « l'antigravité est une p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html)
 
 
 

@@ -94,7 +94,7 @@ L'incertitude et la sécurité sont l'essence de l'aventure du Paradis : incerti
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page13.html)
 
 
 

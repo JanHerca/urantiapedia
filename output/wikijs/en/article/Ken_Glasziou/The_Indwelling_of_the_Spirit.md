@@ -71,7 +71,7 @@ And in the case that any of our readers find themselves in a position of being a
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page10.html)
 
 
 

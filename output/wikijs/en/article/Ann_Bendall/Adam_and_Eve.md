@@ -95,7 +95,7 @@ When I get to Jerusem I hope that Adam and Eve are still there and have the time
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

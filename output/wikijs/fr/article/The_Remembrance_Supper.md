@@ -74,7 +74,7 @@ Interrogés, même les membres des églises protestantes fondamentales ont décl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html)
 
 
 

@@ -88,7 +88,7 @@ Pero, ¿cómo podemos estar seguros de que hablamos en serio? Todo lo que necesi
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

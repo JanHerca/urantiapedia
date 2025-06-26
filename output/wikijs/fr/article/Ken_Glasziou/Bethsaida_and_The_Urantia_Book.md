@@ -80,7 +80,7 @@ Nos lecteurs sont maintenant laissés à eux-mêmes pour corréler les résultat
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html)
 
 
 

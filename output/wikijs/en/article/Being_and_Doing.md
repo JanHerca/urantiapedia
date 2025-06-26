@@ -105,7 +105,7 @@ And so, in accord with the cited evidence, we conclude that lives lived in the i
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html)
 
 
 

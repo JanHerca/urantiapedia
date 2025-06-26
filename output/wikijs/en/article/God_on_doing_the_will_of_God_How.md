@@ -88,7 +88,7 @@ But how can we be sure that we are serious? All we need to do is to commit ourse
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

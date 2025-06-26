@@ -87,7 +87,7 @@ Estas razones me bastan. No había otro curso posible de acción. Rezo para pode
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html)
 
 * Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf
 

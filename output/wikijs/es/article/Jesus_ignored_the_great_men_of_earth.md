@@ -112,7 +112,7 @@ El núcleo de nuestra revelación está en esa última oración: que llevemos nu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page6.html)
 
 
 

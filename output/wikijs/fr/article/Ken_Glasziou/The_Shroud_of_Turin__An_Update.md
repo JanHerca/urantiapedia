@@ -125,7 +125,7 @@ Il existe un certain nombre d’explications possibles à la débâcle de la dat
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html)
 
 
 

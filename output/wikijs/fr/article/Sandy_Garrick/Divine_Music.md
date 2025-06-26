@@ -65,7 +65,7 @@ Lorsque nous sommes impressionnés par le Maître Univers, nous devons nous arr�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html)
 
 
 

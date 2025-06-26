@@ -64,7 +64,7 @@ Cuando nos asombramos ante el Universo Maestro, debemos hacer una pausa para con
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html)
 
 
 

@@ -91,7 +91,7 @@ Y así, hasta la noche de su arresto, continuó orando, «_si esta copa no pasa,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html)
 
 
 

@@ -88,7 +88,7 @@ Y a lo largo del resto de su vida, sus experiencias incluyeron:
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html)
 
 
 

@@ -56,7 +56,7 @@ And that appears to have been his sole purpose–and his religion of the spirit.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html)
 
 
 

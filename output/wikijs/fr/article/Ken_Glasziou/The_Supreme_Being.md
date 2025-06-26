@@ -192,7 +192,7 @@ flowchart TB
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page7.html)
 
 
 

@@ -75,7 +75,7 @@ Le’Ruth Ward Tyau
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page13.html)
 
 
 

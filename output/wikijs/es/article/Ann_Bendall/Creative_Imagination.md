@@ -66,7 +66,7 @@ Tanto anhelo ser la verdad. «_Pero el hombre nunca puede poseer la verdad sin e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html)
 
 
 

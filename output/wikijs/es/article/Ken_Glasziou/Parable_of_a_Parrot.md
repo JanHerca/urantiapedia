@@ -58,7 +58,7 @@ Las lágrimas brillaron también en las alas del loro y cayeron como pétalos so
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html)
 
 
 

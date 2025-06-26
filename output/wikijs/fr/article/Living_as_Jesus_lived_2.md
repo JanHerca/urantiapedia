@@ -83,7 +83,7 @@ Jésus était venu « **pour établir et démontrer une norme de vie humaine pou
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html)
 
 
 

@@ -70,7 +70,7 @@ Creo que debido a que _El Libro de Urantia_ es amigable con la evolución, atrae
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html)
 
 
 <figure class="table chapter-navigator">

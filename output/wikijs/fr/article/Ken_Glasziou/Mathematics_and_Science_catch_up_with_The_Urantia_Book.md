@@ -69,7 +69,7 @@ La base de la physique, en fait de toute science, ce sont les mathématiques. Pa
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html)
 
 
 

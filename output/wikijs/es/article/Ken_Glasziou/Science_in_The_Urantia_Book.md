@@ -149,7 +149,7 @@ Así, SN 1987A proporcionó una notable confirmación del panorama general de la
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html)
 
 
 <figure class="table chapter-navigator">

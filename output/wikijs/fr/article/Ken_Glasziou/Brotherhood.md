@@ -67,7 +67,7 @@ C'est matière à réflexion.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html)
 
 
 

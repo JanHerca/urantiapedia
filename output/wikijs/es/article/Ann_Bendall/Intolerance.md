@@ -82,7 +82,7 @@ Hacemos esto estando en comunicación constante con nuestro Ajustador residente,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html)
 
 
 

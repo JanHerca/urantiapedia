@@ -47,7 +47,7 @@ En teología y metafísica, el término Absoluto generalmente se refiere a Dios.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

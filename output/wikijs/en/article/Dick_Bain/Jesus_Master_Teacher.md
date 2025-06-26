@@ -78,7 +78,7 @@ The authors of _The Urantia Book_ inform us that there were a number of good rea
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html)
 
 
 

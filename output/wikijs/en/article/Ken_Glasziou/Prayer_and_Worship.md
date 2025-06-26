@@ -51,7 +51,7 @@ At the evening conferences on Mount Gerizim, Jesus taught many great truths, and
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html)
 
 
 

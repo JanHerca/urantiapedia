@@ -57,7 +57,7 @@ Esto es difícil, lo más difícil del mundo. Es tan difícil que la religión t
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html)
 
 
 

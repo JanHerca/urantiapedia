@@ -221,7 +221,7 @@ Dieu est personnellement conscient et en contact personnel avec toutes les perso
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html)
 
 
 

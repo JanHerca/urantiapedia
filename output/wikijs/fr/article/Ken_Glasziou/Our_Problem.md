@@ -80,7 +80,7 @@ Une autre alternative est celle des travaux secondaires. En raison des événeme
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html)
 
 
 

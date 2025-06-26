@@ -105,7 +105,7 @@ According to Needleman, cleansing the inside so that the outside, too, may be cl
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page5.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page5.html)
 
 ## References
 

@@ -61,7 +61,7 @@ If, after doing so, we can answer that yes, we would still continue to attempt t
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html)
 
 <figure class="table chapter-navigator">
   <table>

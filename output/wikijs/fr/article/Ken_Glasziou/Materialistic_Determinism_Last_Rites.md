@@ -73,7 +73,7 @@ En effet, nous avons la chance de vivre en ces temps passionnants dans lesquels 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html)
 
 
 

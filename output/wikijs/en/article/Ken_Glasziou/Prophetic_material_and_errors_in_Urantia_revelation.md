@@ -79,7 +79,7 @@ Wonderment also comes if we read the Book’s account of the early parallel grow
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page2.html)
 
 
 <figure class="table chapter-navigator">

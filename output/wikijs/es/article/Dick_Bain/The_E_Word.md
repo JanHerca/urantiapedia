@@ -93,7 +93,7 @@ Matthew sugiere leer el libro de Mark Haller, «_Eugenics_», para tener una ide
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page4.html)
 
 
 

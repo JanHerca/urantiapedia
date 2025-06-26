@@ -82,7 +82,7 @@ Así que es un mal viento que no trae ningún bien a nadie. La prueba crítica s
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html)
 
 
 

@@ -60,7 +60,7 @@ Ce n’est vraiment pas si difficile une fois que nous avons débarrassé notre 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html)
 
 
 

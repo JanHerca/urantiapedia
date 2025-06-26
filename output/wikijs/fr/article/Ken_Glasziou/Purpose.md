@@ -59,7 +59,7 @@ Pouvons-nous rectifier notre erreur ? Nous pourrions essayer en consacrant sinc√
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html)
 
 
 

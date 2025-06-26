@@ -60,7 +60,7 @@ A lucky guess seems to be the only alternative. But the odds against guessing co
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html)
 
 
 <figure class="table chapter-navigator">

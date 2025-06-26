@@ -44,7 +44,7 @@ Préjuger les articles et intégrer des préjugés antérieurs dans l’évaluat
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html)
 
 
 

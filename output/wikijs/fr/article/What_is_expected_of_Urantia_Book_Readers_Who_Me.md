@@ -49,7 +49,7 @@ Mon Père exige des enfants de la foi qu’ils portent beaucoup de fruits spirit
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html)
 
 
 

@@ -63,7 +63,7 @@ La croix lance un appel suprême au meilleur de l'homme car elle révèle celui 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html)
 
 
 

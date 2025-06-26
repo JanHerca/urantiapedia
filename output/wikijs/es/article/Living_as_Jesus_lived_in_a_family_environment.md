@@ -93,7 +93,7 @@ Hace trescientos cincuenta años, los cuáqueros casi acertaron. Se perdieron cu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html)
 
 
 <figure class="table chapter-navigator">

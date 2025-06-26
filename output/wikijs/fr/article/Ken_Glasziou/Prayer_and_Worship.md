@@ -52,7 +52,7 @@ Lors des conférences du soir sur le mont Garizim, Jésus a enseigné de nombreu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html)
 
 
 

@@ -120,7 +120,7 @@ That appears to leave the revelators themselves as the major (only?) suspects.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html)
 
 
 <figure class="table chapter-navigator">

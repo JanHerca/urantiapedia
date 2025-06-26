@@ -69,7 +69,7 @@ Nous pouvons être tout à fait certains d’une autre chose. Une approche géd�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page14.html)
 
 
 

@@ -80,7 +80,7 @@ This is an essential requirement if the choosing of God’s will in our daily li
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html)
 
 
 

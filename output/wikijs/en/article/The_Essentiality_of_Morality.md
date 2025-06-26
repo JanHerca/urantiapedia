@@ -105,7 +105,7 @@ Ask yourself, “If it were not so, why then do I have the Urantia Papers?”
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page3.html)
 
 
 

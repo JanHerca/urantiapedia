@@ -101,7 +101,7 @@ It was in about 1955 that the New York Times carried a headline report that the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html)
 
 
 

@@ -90,7 +90,7 @@ De la misma manera, las recompensas espirituales de una relación con Miguel/Jes
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html)
 
 
 

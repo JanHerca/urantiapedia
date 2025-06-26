@@ -67,7 +67,7 @@ Surely it is time for change. We all have work to do - but each of us must work 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

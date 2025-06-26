@@ -77,7 +77,7 @@ Las modificaciones a las comparaciones de Swann tal como aparecen en _El Libro d
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page6.html)
 
 
 

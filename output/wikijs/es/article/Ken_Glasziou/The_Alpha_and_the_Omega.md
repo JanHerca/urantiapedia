@@ -52,7 +52,7 @@ Adán y Eva buscaron el camino fácil: comer del fruto que les conferiría conoc
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

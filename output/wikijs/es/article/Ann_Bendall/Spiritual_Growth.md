@@ -54,7 +54,7 @@ Esta no es la filosofía de progreso aceptada por nuestra cultura. Para aquellos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page13.html)
 
 
 

@@ -44,7 +44,7 @@ Jésus dit à Ganid, un jeune Indien : « Ganid, j’ai une confiance absolue da
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html)
 
 
 

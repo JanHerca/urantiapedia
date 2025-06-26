@@ -95,7 +95,7 @@ Nous avons tout un millénaire pour travailler. Une approche progressive semble 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html)
 
 
 

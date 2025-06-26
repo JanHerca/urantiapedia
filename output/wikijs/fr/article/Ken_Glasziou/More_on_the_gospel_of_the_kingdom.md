@@ -74,7 +74,7 @@ _Déclaré dans sa forme la plus simple, l'évangile du royaume est la reconnais
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page15.html)
 
 
 

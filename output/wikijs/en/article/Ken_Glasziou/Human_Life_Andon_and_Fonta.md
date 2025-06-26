@@ -81,7 +81,7 @@ Herto man (pictured above) is dated to 154-160,000 years BP, and is the earliest
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page5.html)
 
 
 

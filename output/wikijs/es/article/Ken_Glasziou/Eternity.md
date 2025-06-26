@@ -62,7 +62,7 @@ No importa cuán pequeños, incluso triviales, puedan parecer nuestros esfuerzos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html)
 
 
 

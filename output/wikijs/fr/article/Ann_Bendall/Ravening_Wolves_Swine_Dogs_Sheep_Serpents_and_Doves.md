@@ -62,7 +62,7 @@ Et enfin le rôle du mouton/agneau – c’est la relation entre moi et Jésus !
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html)
 
 
 

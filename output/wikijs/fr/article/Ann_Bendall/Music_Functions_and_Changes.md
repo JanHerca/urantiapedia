@@ -76,7 +76,7 @@ La musique peut passer inaperçue à notre oreille consciente, mais jamais à no
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html)
 
 
 

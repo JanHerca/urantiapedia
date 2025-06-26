@@ -62,7 +62,7 @@ Dado que Dios gobierna el universo por el poder mismo de su amor, ¿qué arriesg
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page3.html)
 
 
 

@@ -46,7 +46,7 @@ Después de su explicación, Jesús agregó, «_lo último de la parábola del s
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html)
 
 
 

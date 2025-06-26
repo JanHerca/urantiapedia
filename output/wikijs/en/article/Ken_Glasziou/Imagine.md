@@ -64,7 +64,7 @@ While it remains true that certainty evades us, it also remains true that our un
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html)
 
 
 

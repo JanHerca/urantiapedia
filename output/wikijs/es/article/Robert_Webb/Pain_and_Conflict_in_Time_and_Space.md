@@ -52,7 +52,7 @@ El universo físico de tiempo y espacio en el que vivimos fue creado por Dios, y
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html)
 
 
 

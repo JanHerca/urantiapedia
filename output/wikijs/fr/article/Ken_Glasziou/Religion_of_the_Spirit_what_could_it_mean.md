@@ -57,7 +57,7 @@ Et cela semble avoir été son seul objectif – et sa religion de l’esprit.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html)
 
 
 

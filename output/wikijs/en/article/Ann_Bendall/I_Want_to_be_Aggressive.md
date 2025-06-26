@@ -68,7 +68,7 @@ I do not envisage any difficulties on Jesus'/Michael's part because I am female.
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html)
 
 
 <figure class="table chapter-navigator">

@@ -67,7 +67,7 @@ Plus tard, Jean est sorti de ses tendances antérieures, pour finalement devenir
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page7.html)
 
 
 

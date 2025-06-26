@@ -55,7 +55,7 @@ Therefore, by virtue of the pathway through which the Papers came to us includin
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

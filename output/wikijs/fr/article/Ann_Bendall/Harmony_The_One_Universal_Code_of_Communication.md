@@ -82,7 +82,7 @@ Quelle que soit la vérité, il est certain que notre Ajusteur de Pensée dispos
 
 ## Liens externes
 
-Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html
+[Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html)
 
 
 

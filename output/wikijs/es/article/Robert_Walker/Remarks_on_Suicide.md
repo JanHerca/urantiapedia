@@ -46,7 +46,7 @@ La vida de Jesús proporciona un vívido ejemplo de cómo enfrentar las vicisitu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html)
 
 
 

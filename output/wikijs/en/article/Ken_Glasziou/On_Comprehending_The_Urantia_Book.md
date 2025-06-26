@@ -61,7 +61,7 @@ Looked upon in this light, the revelators have accomplished their assignment mag
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html)
 
 
 

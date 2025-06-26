@@ -86,7 +86,7 @@ Es maravilloso que ahora haya un movimiento tan poderoso hacia la reforma en las
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html)
 
 
 

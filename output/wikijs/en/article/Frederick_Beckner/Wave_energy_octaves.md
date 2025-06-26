@@ -66,7 +66,7 @@ This brings us to the question of why this information was given at all. As we h
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html)
 
 
 

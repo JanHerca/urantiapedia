@@ -75,7 +75,7 @@ At the conclusion of the Remembrance Supper, Jesus really did instruct us to con
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

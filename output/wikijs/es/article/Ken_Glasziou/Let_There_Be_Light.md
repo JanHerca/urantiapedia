@@ -56,7 +56,7 @@ No es que no haya cristianos que estén íntimamente familiarizados con el Dios 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html)
 
 
 

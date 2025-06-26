@@ -121,7 +121,7 @@ Cela semble laisser les révélateurs eux-mêmes comme les principaux (seuls ?) 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html)
 
 
 

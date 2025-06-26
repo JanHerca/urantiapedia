@@ -72,7 +72,7 @@ Poco después de que se publicaran los Documentos, creció el concepto de que la
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html)
 
 
 

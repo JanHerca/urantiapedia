@@ -66,7 +66,7 @@ Adoptar el concepto de «el fin justifica los medios» parece ser una estratagem
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html)
 
 
 

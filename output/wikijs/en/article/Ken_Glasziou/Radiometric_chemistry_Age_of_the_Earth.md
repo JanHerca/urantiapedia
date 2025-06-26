@@ -53,7 +53,7 @@ There is absolutely no way that in 1955, the printing plates of The Urantia Book
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html)
 
 
 

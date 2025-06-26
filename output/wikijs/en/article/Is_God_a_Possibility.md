@@ -136,7 +136,7 @@ Wright concludes with this comment: “Whether or not you believe that the story
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html)
 
 
 <figure class="table chapter-navigator">

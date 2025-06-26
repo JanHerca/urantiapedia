@@ -66,7 +66,7 @@ If the predictions turn out to be correct, it will be one more piece of substant
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html)
 
 
 

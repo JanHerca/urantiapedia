@@ -96,7 +96,7 @@ And that, I submit, could be portrayed as the message that makes _The Urantia Bo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html)
 
 
 

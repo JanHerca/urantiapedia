@@ -57,7 +57,7 @@ También está documentada la evidencia de la fabricación de herramientas desde
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html)
 
 
 

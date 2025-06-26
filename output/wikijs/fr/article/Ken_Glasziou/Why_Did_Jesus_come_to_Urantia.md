@@ -162,7 +162,7 @@ Et quel plus grand don pouvons-nous offrir au Dieu de Nébadon que nous-mêmes ?
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html)
 
 
 

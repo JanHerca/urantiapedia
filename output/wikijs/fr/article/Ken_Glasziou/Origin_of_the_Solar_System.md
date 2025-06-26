@@ -47,7 +47,7 @@ Ainsi, même si le facteur temps permettait l’utilisation des données sur les
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html)
 
 
 

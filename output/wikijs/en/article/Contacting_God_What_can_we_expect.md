@@ -75,7 +75,7 @@ And in conclusion:
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page12.html)
 
 
 

@@ -85,7 +85,7 @@ One of the wonderfulnesses of heart is that, when it is moved by our Father's vi
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

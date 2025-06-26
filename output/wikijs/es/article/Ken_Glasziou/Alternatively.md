@@ -59,7 +59,7 @@ Esto realmente no es tan difícil una vez que liberamos nuestras mentes de nuest
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html)
 
 
 <figure class="table chapter-navigator">

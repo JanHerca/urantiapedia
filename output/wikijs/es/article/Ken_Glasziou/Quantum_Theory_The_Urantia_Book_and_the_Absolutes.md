@@ -121,7 +121,7 @@ Sin embargo, al bloquear el camino de los electrones de corriente «ascendente»
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page13.html)
 
 
 

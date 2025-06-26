@@ -91,7 +91,7 @@ El cínico, el escéptico, el agnóstico, el ateo, el egocéntrico, el que simpl
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html)
 
 
 

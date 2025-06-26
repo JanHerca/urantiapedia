@@ -51,7 +51,7 @@ Toutes les bonnes choses descendent du Père de la lumière, en qui il n’y a n
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page16.html)
 
 
 

@@ -50,7 +50,7 @@ La respuesta de Jesús debe quedar grabada de forma indeleble en la mente de tod
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page13.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

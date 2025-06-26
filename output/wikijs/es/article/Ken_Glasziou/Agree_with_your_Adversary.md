@@ -76,7 +76,7 @@ Si alguna vez queremos que nuestras fuerzas espirituales residentes se hagan car
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page9.html)
 
 
 

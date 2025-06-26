@@ -56,7 +56,7 @@ La vérité divine est une réalité vivante et discernée par l’esprit. La v�
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html)
 
 
 

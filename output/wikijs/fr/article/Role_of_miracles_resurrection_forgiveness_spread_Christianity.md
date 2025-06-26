@@ -71,7 +71,7 @@ En résumant ces preuves, nous concluons que la véracité des apparitions de J�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html)
 
 
 

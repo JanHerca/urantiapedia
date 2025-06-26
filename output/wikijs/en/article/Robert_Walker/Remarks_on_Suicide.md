@@ -46,7 +46,7 @@ Jesus’ life provides vivid example of how to face the vicissitudes of temporal
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html)
 
 
 

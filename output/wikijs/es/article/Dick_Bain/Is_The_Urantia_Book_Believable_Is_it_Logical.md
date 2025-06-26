@@ -97,7 +97,7 @@ Todas las citas son de _El Libro de Urantia_ excepto cuando se indique lo contra
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html)
 
 
 <figure class="table chapter-navigator">

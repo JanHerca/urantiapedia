@@ -79,7 +79,7 @@ Nuestros lectores ahora pueden correlacionar los resultados de la investigación
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html)
 
 
 

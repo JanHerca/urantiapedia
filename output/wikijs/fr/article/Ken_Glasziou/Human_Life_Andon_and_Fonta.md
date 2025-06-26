@@ -82,7 +82,7 @@ L'homme Herto (photo ci-dessus) est daté de 154 à 160 000 ans BP et constitue 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page5.html)
 
 
 

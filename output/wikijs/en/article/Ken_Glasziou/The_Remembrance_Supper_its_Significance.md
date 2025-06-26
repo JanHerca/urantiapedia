@@ -104,7 +104,7 @@ A new age really is dawning. It is time to “get activated.” We Urantians hav
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html)
 
 
 

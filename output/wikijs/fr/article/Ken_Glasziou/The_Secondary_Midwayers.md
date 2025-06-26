@@ -66,7 +66,7 @@ En posant de telles questions, nous devons rester humbles. Les Révélateurs ont
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html)
 
 
 

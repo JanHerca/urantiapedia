@@ -40,7 +40,7 @@ Este concepto se puso a prueba (Science, vol. 292, p. 115) en el Centro de Gené
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page9.html)
 
 
 

@@ -48,7 +48,7 @@ La potencia espacial no está sujeta a las interacciones de la gravitación. Es 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html)
 
 
 

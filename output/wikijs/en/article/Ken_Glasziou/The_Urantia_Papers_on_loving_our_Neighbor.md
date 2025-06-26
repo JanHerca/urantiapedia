@@ -63,7 +63,7 @@ Loving our neighbor is not something we can do on our own. We must learn to list
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html)
 
 
 

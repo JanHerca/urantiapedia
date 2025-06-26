@@ -51,7 +51,7 @@ Malgré l’heure tardive, un petit bateau s’est amarré sur la jetée et nous
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html)
 
 
 

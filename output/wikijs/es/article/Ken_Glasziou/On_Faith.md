@@ -54,7 +54,7 @@ Tal vez por eso los reveladores nos dicen que, «_La razón es la prueba de la c
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

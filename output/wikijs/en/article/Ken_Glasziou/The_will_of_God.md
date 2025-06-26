@@ -74,7 +74,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page16.html)
 
 <figure class="table chapter-navigator">
   <table>

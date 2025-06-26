@@ -71,7 +71,7 @@ Au bureau australien d'Innerface International, nous serons heureux de recevoir 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html)
 
 
 

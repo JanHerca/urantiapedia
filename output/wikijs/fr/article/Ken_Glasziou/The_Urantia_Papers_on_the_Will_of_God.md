@@ -69,7 +69,7 @@ Le Jésus humain considérait Dieu comme étant saint, juste et grand, tout en �
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html)
 
 
 

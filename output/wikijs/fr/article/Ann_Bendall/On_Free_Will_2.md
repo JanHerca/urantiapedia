@@ -92,7 +92,7 @@ Incroyablement ! Dans le Livre d'Urantia, il y a un certain nombre d'exemples cl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html)
 
 
 

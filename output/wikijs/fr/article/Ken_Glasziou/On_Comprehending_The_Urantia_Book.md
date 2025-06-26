@@ -62,7 +62,7 @@ Considérés sous cet angle, les révélateurs ont accompli leur mission magnifi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html)
 
 
 

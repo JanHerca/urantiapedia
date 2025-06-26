@@ -66,7 +66,7 @@ But the net result is always the same. Nobody really wins. Over time, both sides
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html)
 
 
 

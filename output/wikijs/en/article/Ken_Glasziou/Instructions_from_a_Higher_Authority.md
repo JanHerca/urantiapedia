@@ -57,7 +57,7 @@ Both the text of _The Urantia Book_ and the instructions of Jesus contained ther
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page10.html)
 
 
 

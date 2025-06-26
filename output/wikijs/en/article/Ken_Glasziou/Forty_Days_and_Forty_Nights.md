@@ -106,7 +106,7 @@ If we are to be concerned with leading humanity back to Jesus’ Fourth Epochal 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html)
 
 
 

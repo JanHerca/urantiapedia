@@ -104,7 +104,7 @@ Una nueva era realmente está amaneciendo. Es hora de «activarse». Nosotros, l
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html)
 
 
 

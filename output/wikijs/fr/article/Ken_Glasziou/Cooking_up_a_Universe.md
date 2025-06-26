@@ -63,7 +63,7 @@ P.S. Saviez-vous?? Si une soupe composée d'ingrédients nucléotidiques (élém
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page6.html)
 
 
 

@@ -75,7 +75,7 @@ D'après ce que nos astronomes peuvent voir maintenant, il apparaît que la simp
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html)
 
 
 

@@ -134,7 +134,7 @@ Si l’Esprit habite en nous, nous sommes potentiellement des enfants libres et 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html)
 
 
 

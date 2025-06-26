@@ -129,7 +129,7 @@ La valeur et la dignité inhérentes à chaque personne ; Justice, équité et c
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page13.html)
 
 
 

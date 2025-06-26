@@ -545,7 +545,7 @@ Realmente, solo entre aquellos que nos conocen y nos aman mejor podemos vivir un
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

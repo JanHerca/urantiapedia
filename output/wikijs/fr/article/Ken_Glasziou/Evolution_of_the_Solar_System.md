@@ -79,7 +79,7 @@ Un attracteur étrange est un graphique de l’espace des phases qui trace la tr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html)
 
 
 

@@ -50,7 +50,7 @@ Et nous savons déjà où se dirige Urantia – car « la révélation de Dieu a
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html)
 
 
 

@@ -56,7 +56,7 @@ Devinez quoi. Les gens essaient maintenant d’utiliser l’image fantôme du v�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 

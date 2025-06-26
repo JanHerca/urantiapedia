@@ -56,7 +56,7 @@ Néanmoins, même pour Jésus lui-même, « tout doit attendre l’arrivée de s
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html)
 
 
 

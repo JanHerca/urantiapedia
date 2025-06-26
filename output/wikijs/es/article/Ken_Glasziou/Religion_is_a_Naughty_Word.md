@@ -65,7 +65,7 @@ Seguramente es sopa para el pensamiento.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page7.html)
 
 
 

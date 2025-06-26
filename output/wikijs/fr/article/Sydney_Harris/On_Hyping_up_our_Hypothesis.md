@@ -54,7 +54,7 @@ La capacité humaine à traiter de nouveaux faits afin qu’ils concordent avec 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page8.html)
 
 
 

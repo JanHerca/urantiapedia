@@ -72,7 +72,7 @@ Indeed we are fortunate to live in these exciting times in which our world can h
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html)
 
 
 

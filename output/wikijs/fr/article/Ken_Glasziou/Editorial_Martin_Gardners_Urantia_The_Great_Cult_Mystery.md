@@ -42,7 +42,7 @@ Un vieux proverbe dit que ce que nous ne savons pas ne doit pas nous inquiéter.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html)
 
 
 

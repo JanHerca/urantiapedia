@@ -112,7 +112,7 @@ Si pudiéramos hacer que los cristianos se sintieran cómodos con tener los Docu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html)
 
 
 

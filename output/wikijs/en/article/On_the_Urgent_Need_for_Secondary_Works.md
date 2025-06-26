@@ -93,7 +93,7 @@ Part of the task to be accomplished needs to be done without direct reference to
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html)
 
 
 <figure class="table chapter-navigator">

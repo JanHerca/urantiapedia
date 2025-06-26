@@ -42,7 +42,7 @@ Jésus faisait autant confiance à Dieu que l’enfant fait confiance à ses par
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html)
 
 
 

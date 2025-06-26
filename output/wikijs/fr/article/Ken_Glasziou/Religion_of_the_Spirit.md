@@ -66,7 +66,7 @@ Cependant, au cœur de la religion de l'esprit se trouve la quête personnelle d
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html)
 
 
 

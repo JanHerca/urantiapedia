@@ -63,7 +63,7 @@ Les fondamentalistes bibliques ont suscité beaucoup de dérision contre eux-mê
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html)
 
 
 

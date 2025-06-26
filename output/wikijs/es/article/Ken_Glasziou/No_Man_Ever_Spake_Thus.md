@@ -56,7 +56,7 @@ La mente transmuta los valores del espíritu en los significados del intelecto; 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page10.html)
 
 
 

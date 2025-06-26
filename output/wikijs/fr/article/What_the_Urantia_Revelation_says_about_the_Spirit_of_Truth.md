@@ -131,7 +131,7 @@ Cependant, prenez garde à ne pas commettre l’erreur d’espérer devenir inte
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html)
 
 
 

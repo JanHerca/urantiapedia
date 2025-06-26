@@ -90,7 +90,7 @@ Pero Jesús nos dijo que la religión del espíritu no exige uniformidad de punt
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html)
 
 
 

@@ -136,7 +136,7 @@ Nuestra tarea es difundir el mensaje de Jesús, no necesariamente difundir un li
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html)
 
 
 

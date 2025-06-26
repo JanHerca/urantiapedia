@@ -82,7 +82,7 @@ Es bueno que no todos respondamos de la misma manera a los desafíos de _El Libr
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html)
 
 
 

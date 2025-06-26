@@ -66,7 +66,7 @@ Remarque : L'article « Rayon de l'électron » qui suit peut être copié et ut
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html)
 
 
 

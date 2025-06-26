@@ -81,7 +81,7 @@ Sea lo que sea lo que pensemos sobre Jesús, la mayoría de nosotros estaría de
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html)
 
 * Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf
 

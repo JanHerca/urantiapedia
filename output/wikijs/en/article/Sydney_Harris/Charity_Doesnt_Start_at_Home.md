@@ -61,7 +61,7 @@ In a psychological sense, the philanthropist needs the poor more than they need 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page13.html)
 
 
 

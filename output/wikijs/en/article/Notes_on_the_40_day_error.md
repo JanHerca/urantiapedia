@@ -67,7 +67,7 @@ In closing, and just in case any fundamentalist manages to find a way to call bl
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html)
 
 
 

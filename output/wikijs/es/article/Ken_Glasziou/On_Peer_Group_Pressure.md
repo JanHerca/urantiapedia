@@ -54,7 +54,7 @@ En realidad nunca estás solo. El Dios-Espíritu que mora en ti está siempre co
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page11.html)
 
 
 

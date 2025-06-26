@@ -106,7 +106,7 @@ Ainsi, conformément aux preuves citées, nous concluons que les vies vécues à
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html)
 
 
 

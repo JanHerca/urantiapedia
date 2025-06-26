@@ -50,7 +50,7 @@ Essayez de créer une nouvelle utilisation pour le temps que vous avez perdu en 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html)
 
 
 

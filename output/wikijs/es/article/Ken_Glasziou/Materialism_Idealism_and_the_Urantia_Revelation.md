@@ -531,7 +531,7 @@ Filosófica y científicamente, la revelación de Urantia concuerda bien con lo 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page3.html)
 
 
 

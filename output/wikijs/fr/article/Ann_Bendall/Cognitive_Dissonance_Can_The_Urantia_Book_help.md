@@ -117,7 +117,7 @@ Et même si je serai déçu de moi-même si je suis confronté à une dissonance
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html)
 
 * Dissonance cognitive : https://en.wikipedia.org/wiki/Cognitive_dissonance
 

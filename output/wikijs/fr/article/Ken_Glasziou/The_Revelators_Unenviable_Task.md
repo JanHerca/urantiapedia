@@ -173,7 +173,7 @@ Il semble certainement que la vie mortelle soit censée être chargée d’incer
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html)
 
 
 

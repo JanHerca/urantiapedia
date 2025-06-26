@@ -150,7 +150,7 @@ Thus it appears that the 13th century re-discovery of Aristotelian logic in the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page3.html)
 
 
 

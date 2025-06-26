@@ -94,7 +94,7 @@ Il y a trois cent cinquante ans, les Quakers avaient presque raison. Ils se sont
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html)
 
 
 

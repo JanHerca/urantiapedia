@@ -67,7 +67,7 @@ Ce n’est qu’alors que la requête du Notre Père « que ton royaume vienne, 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html)
 
 
 

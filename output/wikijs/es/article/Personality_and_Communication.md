@@ -71,7 +71,7 @@ Todo lo cual significa el logro de la conciencia de Dios como un objetivo priori
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html)
 
 
 

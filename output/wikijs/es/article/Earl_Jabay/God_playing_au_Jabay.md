@@ -88,7 +88,7 @@ Ahora tenemos un registro completo e inmaculado de esa vida y muerte. ¿Qué vam
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html)
 
 
 

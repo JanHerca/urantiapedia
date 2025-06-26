@@ -74,7 +74,7 @@ Por lo tanto, parecería que la elección intelectual de aceptar cualquier siste
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html)
 
 
 

@@ -61,7 +61,7 @@ En un sentido psicológico, el filántropo necesita a los pobres más de lo que 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page13.html)
 
 
 

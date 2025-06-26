@@ -94,7 +94,7 @@ Je crois que le plus grand potentiel pour diffuser le message essentiel sur la v
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html)
 
 
 

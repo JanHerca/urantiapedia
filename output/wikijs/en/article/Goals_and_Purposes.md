@@ -79,7 +79,7 @@ Thus does this revealed meaning for love function to change life’s traditional
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html)
 
 
 

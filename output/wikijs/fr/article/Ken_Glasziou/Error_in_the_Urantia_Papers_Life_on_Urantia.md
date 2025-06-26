@@ -109,7 +109,7 @@ Si tel était le cas, la fonction probable des Porteurs de Vie aurait été de r
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page2.html)
 
 
 

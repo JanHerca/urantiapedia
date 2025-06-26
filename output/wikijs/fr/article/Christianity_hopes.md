@@ -61,7 +61,7 @@ Le christianisme a en effet rendu un grand service à ce monde, mais ce dont on 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page14.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page14.html)
 
 
 

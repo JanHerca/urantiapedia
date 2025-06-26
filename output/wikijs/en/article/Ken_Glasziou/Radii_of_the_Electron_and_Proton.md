@@ -91,7 +91,7 @@ The cynic, the skeptic, the agnostic the atheist, the egocentric, those who simp
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html)
 
 
 

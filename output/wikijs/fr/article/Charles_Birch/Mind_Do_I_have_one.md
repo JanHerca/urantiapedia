@@ -268,5 +268,5 @@ Alors que le Dieu d'Aristote et du théisme classique est totalement insensible 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html)
 

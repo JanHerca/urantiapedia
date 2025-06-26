@@ -83,7 +83,7 @@ Ayant atteint cet état désirable, nous nous qualifions pour devenir « comme u
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html)
 
 
 

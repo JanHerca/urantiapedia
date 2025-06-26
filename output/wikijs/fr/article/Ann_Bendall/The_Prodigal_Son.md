@@ -67,7 +67,7 @@ Dieu, en tant que Père, est patient et souffre longtemps. Il attend longtemps l
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page2.html)
 
 
 

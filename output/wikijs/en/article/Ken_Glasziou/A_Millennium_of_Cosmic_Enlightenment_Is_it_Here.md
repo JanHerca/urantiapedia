@@ -72,7 +72,7 @@ Whereas it would appear that the peoples of our planet are many thousands, maybe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html)
 
 
 

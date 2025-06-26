@@ -54,7 +54,7 @@ Question 3: What effect will some current attitudes have on acceptance of the bo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html)
 
 
 

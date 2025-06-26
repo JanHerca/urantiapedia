@@ -64,7 +64,7 @@ If we see ourselves as chosen people, in some way being rewarded as special by G
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html)
 
 
 

@@ -81,7 +81,7 @@ En fin de compte, surtout lorsqu'il a donné sa vie pour ses amis, il a semblé 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html)
 
 
 

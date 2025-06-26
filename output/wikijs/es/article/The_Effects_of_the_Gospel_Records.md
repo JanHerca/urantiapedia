@@ -69,7 +69,7 @@ Todo lo cual demuestra una notable congruencia de información proveniente de lo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -118,7 +118,7 @@ En gardant à l’esprit que l’évolution plutôt que la révolution est l’o
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html)
 
 
 

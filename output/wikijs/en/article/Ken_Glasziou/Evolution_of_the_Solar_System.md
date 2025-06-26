@@ -78,7 +78,7 @@ A strange attractor is a phase-space graph that charts the trajectory of a syste
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html)
 
 
 

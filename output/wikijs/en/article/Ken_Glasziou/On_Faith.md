@@ -54,7 +54,7 @@ So maybe this is why the revelators tell us that, “_Reason is the proof of sci
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

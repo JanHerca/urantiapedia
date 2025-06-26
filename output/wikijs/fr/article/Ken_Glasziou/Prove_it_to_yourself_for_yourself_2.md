@@ -142,7 +142,7 @@ Mais cela ne nous laisse-t-il pas toujours sans réponse : comment pouvons-nous,
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page12.html)
 
 
 

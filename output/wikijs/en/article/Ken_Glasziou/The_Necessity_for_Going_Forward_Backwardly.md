@@ -60,7 +60,7 @@ But even when we have found that core, we also discover that faith is essential 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page13.html)
 
 
 

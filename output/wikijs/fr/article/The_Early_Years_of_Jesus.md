@@ -79,7 +79,7 @@ Jésus n’était donc pas un rustre de la campagne qui n’avait jamais été e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html)
 
 
 

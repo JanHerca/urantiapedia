@@ -149,7 +149,7 @@ La théologie du processus ne prétend pas détenir toutes les réponses, Dieu r
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html)
 
 
 

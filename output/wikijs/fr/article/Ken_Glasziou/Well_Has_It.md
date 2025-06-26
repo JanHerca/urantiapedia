@@ -97,7 +97,7 @@ _Le Livre d'Urantia_ a beaucoup à dire sur la réalité transcendante. Mais, en
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page11.html)
 
 
 

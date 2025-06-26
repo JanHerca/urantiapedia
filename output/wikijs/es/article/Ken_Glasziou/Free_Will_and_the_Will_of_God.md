@@ -92,7 +92,7 @@ Además de la guía que obtenemos del «bien cósmico supremo» al servir a nues
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html)
 
 
 

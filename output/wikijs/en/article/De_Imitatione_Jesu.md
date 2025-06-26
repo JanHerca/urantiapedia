@@ -104,7 +104,7 @@ Possibly the best model available to us of a group of dedicated people, united i
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html)
 
 
 

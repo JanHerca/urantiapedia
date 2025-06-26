@@ -103,7 +103,7 @@ La spéculation ne fournira pas nécessairement de réponses correctes, mais ell
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html)
 
 
 

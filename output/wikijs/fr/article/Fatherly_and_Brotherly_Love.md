@@ -50,7 +50,7 @@ Jésus a élevé la norme, au plus bas, au genre d'amour attendu de très bons p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html)
 
 
 

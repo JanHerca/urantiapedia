@@ -311,7 +311,7 @@ En fait, même l’idée que nos vies sont, ou même devraient être, des exempl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html)
 
 
 

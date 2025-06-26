@@ -68,7 +68,7 @@ En résumé, faire la volonté de Dieu signifie, avec Jésus comme modèle, touj
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html)
 
 
 

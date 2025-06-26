@@ -59,7 +59,7 @@ Les Puissants Messagers n’ont pas le statut de « Créateur », ils sont donc 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html)
 
 
 

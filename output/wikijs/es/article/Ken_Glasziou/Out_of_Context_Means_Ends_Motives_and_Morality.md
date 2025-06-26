@@ -52,7 +52,7 @@ En el debate, siempre podemos encontrar circunstancias hipotéticas en las que d
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html)
 
 
 

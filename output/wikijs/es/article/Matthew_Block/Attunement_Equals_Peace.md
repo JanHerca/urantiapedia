@@ -58,7 +58,7 @@ _El Cristo del Camino Indio_ contiene otros paralelos con _El Libro de Urantia_,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html)
 
 
 

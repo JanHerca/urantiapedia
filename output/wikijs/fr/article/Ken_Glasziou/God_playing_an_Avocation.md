@@ -61,7 +61,7 @@ Le jeu de Dieu et la fierté qui y est associée sont un piège permanent. Car u
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html)
 
 
 

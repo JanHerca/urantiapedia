@@ -141,7 +141,7 @@ Nous avons les papiers – et l’obligation.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html)
 
 
 

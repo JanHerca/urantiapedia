@@ -71,7 +71,7 @@ Il s’agit d’éviter que la confusion sur les erreurs apparentes dans la cosm
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page14.html)
 
 
 

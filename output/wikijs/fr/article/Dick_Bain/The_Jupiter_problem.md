@@ -104,7 +104,7 @@ L’hypothèse de l’origine catastrophique/la théorie d’Angona a peut-être
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html)
 
 
 

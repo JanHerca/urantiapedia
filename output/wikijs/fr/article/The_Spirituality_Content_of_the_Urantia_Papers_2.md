@@ -546,7 +546,7 @@ Notre but? Grandir spirituellement – comme le démontre notre éveil aux besoi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html)
 
 
 

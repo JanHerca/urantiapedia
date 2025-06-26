@@ -59,7 +59,7 @@ En respuesta a una pregunta de Natanael, Jesús proporcionó a los apóstoles in
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html)
 
 
 

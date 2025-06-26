@@ -83,7 +83,7 @@ La beauté et la vérité des enseignements de l’hindouisme ont été capturé
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html)
 
 
 

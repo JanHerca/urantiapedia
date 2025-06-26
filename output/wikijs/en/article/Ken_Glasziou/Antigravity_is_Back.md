@@ -60,7 +60,7 @@ Image here
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page16.html)
 
 
 

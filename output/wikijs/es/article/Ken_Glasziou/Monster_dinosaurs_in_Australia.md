@@ -38,7 +38,7 @@ Los Documentos afirman que monstruosos restos de dinosaurios yacen enterrados en
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page19.html)
 
 
 

@@ -61,7 +61,7 @@ Is choosing morality and virtue difficult? It should not be so for we have the S
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html)
 
 
 

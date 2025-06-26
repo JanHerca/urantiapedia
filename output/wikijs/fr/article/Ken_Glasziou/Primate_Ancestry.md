@@ -38,7 +38,7 @@ Un article paru dans Natural History (8/92) indique que l'on pensait auparavant 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html)
 
 
 

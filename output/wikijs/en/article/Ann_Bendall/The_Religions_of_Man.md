@@ -80,7 +80,7 @@ In the end, especially when he laid down his life for his friends, it seemed to 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html)
 
 
 

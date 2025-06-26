@@ -101,7 +101,7 @@ However we are never alone: “That fragment of the pure Deity of the Universal 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html)
 
 
 

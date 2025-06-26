@@ -90,7 +90,7 @@ Parece poco probable que alguna vez se pueda desarrollar una metodología cient�
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html)
 
 <figure class="table chapter-navigator">
   <table>

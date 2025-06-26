@@ -58,7 +58,7 @@ En <a id="a56_3"></a>[LU 40:5.15](/es/The_Urantia_Book/40#p5_15), el autor del D
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html)
 
 
 

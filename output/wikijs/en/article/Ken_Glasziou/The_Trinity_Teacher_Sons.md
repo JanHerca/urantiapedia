@@ -53,7 +53,7 @@ It is obvious that we Urantians have a long, long path to hoe before we make fir
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html)
 
 
 

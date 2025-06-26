@@ -67,7 +67,7 @@ Of the materials covered in this article, only the article on the energy of star
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html)
 
 
 

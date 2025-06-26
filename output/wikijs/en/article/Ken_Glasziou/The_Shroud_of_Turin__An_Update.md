@@ -124,7 +124,7 @@ There are a number of possible explanations for the carbon dating debacle—whic
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html)
 
 
 <figure class="table chapter-navigator">

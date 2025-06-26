@@ -80,7 +80,7 @@ Si cela peut vous consoler, alors peut-être y a-t-il du réconfort dans le fait
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html)
 
 
 

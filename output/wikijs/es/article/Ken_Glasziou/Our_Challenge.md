@@ -67,7 +67,7 @@ Tal vez solo diez personas leerían nuestros esfuerzos. Pero si lo pasan, diez p
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page2.html)
 
 
 

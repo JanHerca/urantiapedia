@@ -133,7 +133,7 @@ If the Spirit dwells within us, potentially we are free and liberated children o
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page7.html)
 
 
 

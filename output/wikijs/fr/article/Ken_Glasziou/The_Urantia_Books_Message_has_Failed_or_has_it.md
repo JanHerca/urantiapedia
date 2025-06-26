@@ -61,7 +61,7 @@ Alors s’il vous plaît, ne soyons pas comme la majorité de la génération ac
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html)
 
 
 

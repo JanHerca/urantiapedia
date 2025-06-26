@@ -70,7 +70,7 @@ En la oficina australiana de Innerface International estaremos encantados de rec
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html)
 
 
 

@@ -58,7 +58,7 @@ It would be of great interest to discover the actual dates for publication of an
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page17.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page17.html)
 
 
 

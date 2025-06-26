@@ -44,7 +44,7 @@ Further trouble for the standard model has now arisen due to investigations usin
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html)
 
 
 <figure class="table chapter-navigator">

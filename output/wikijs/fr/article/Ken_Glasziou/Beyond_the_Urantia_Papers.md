@@ -118,7 +118,7 @@ Le seul moyen sûr d’amener l’humanité à la religion de l’esprit est que
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page4.html)
 
 
 

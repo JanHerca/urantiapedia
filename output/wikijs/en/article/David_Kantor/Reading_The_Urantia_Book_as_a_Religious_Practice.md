@@ -148,7 +148,7 @@ These become the issues at the frontiers of growth and service. Jesus revealed t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

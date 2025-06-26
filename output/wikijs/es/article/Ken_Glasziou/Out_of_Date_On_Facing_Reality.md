@@ -76,7 +76,7 @@ Quienes estén familiarizados con la escena de laconocerán bien la frase Tal ve
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html)
 
 
 

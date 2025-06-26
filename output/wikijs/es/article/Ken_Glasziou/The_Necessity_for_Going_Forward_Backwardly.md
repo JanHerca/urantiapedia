@@ -60,7 +60,7 @@ Pero incluso cuando hemos encontrado ese núcleo, también descubrimos que la fe
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page13.html)
 
 
 

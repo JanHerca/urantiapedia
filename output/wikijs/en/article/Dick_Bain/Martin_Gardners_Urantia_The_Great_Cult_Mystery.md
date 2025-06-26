@@ -88,7 +88,7 @@ I told Gardner at the end of our interview that I am a pragmatist. I try to eval
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html)
 
 <figure class="table chapter-navigator">
   <table>

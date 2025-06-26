@@ -56,7 +56,7 @@ Jesús fue activo en la interacción con los demás y proactivo en ser «sabio y
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html)
 
 
 <figure class="table chapter-navigator">

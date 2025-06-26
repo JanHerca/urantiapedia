@@ -55,7 +55,7 @@ Pero no dejes que la fe sea vencida. Más bien, que prevalezca esta seguridad: �
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html)
 
 
 

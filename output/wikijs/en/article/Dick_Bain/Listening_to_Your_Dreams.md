@@ -69,7 +69,7 @@ As far as I’m concerned, I will continue to look for spiritual meaning in my d
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html)
 
 
 <figure class="table chapter-navigator">

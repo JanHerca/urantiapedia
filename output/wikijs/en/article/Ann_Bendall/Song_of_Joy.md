@@ -84,7 +84,7 @@ for love and understanding. <br>
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page11.html)
 
 
 

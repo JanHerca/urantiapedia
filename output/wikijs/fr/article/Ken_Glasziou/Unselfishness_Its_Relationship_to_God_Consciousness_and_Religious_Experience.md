@@ -80,7 +80,7 @@ La Bible et le Livre d'Urantia nous informent que toute bonté a son origine dan
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html)
 
 
 

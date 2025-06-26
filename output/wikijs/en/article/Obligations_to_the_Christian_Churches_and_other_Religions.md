@@ -94,7 +94,7 @@ This one step, involving individual development of God-consciousness, is absolut
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html)
 
 
 

@@ -51,7 +51,7 @@ Dios, el Padre, trata con el hombre, su hijo, sobre la base, no de la virtud o e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html)
 
 
 

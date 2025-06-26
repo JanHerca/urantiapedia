@@ -79,7 +79,7 @@ Our readers are now left to their own devices to correlate the results of modem 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html)
 
 
 

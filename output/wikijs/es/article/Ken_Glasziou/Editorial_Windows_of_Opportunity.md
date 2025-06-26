@@ -100,7 +100,7 @@ A continuación se incluye un artículo sobre algunos de los paralelismos entre 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html)
 
 
 

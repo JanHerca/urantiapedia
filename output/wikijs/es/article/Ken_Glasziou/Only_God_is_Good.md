@@ -80,7 +80,7 @@ Independientemente de la realidad, tener a mi Ajustador del Pensamiento descrito
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html)
 
 
 

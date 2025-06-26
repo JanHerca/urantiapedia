@@ -85,7 +85,7 @@ Même si l’objectif fixé à ceux qui se portent volontaires pour faire partie
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page7.html)
 
 
 

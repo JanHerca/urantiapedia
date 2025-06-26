@@ -72,7 +72,7 @@ Soon after the Papers were published the concept grew that the main function of 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html)
 
 
 

@@ -150,7 +150,7 @@ Ainsi, SN 1987A a fourni une confirmation remarquable du tableau général de la
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html)
 
 
 

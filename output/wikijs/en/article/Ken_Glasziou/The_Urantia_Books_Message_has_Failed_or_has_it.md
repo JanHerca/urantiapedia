@@ -60,7 +60,7 @@ So please, let us not be as the majority of the current crop of Christians with 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html)
 
 
 

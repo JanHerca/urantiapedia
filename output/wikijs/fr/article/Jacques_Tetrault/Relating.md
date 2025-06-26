@@ -82,7 +82,7 @@ Aidons-nous les uns les autres, racontons-nous ; tout en restant toujours humble
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page11.html)
 
 
 

@@ -123,7 +123,7 @@ Le cheminement de l'étudiant devient une aventure de foi dans laquelle nous avo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page3.html)
 
 
 

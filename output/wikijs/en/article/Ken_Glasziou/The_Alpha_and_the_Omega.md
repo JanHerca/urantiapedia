@@ -52,7 +52,7 @@ Adam and Eve sought the easy way - to eat of the fruit that would confer unearne
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

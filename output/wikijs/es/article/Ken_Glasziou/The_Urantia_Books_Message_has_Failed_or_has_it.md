@@ -60,7 +60,7 @@ Así que, por favor, no seamos como la mayoría de la cosecha actual de cristian
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html)
 
 
 

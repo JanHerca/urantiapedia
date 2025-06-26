@@ -59,7 +59,7 @@ Revelation is evolutionary man’s only realistic hope of bridging the gulf betw
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html)
 
 
 

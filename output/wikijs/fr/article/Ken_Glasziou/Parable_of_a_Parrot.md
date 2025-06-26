@@ -59,7 +59,7 @@ Des larmes scintillaient aussi sur les ailes du perroquet et tombaient comme des
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html)
 
 
 

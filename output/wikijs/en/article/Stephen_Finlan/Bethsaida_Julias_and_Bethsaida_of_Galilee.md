@@ -177,7 +177,7 @@ The other pilgrim site at Tabgha is the “Church of the Primacy,” referring t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html)
 
 
 <figure class="table chapter-navigator">

@@ -67,7 +67,7 @@ Our society desperately needs an enlarged spiritual vision to give guidance and 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html)
 
 
 

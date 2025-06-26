@@ -79,7 +79,7 @@ Answers from _The Urantia Book_.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page4.html)
 
 
 

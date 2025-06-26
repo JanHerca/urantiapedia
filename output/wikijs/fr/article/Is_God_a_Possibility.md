@@ -137,7 +137,7 @@ Wright conclut par ce commentaire : « Que vous croyiez ou non que l’histoire 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html)
 
 
 

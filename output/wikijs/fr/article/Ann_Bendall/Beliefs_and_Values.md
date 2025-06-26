@@ -75,7 +75,7 @@ Pouvons-nous nous débarrasser des fausses valeurs ? « Et quand Jésus entendit
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html)
 
 
 

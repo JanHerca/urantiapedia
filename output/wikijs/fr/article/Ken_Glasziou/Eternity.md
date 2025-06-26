@@ -63,7 +63,7 @@ Aussi petits, voire insignifiants, que nos efforts puissent paraître, nous ne s
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html)
 
 
 

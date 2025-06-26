@@ -62,7 +62,7 @@ Cuando despertemos de nuestro sueño terrenal, tendremos un cuerpo nuevo y más 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page7.html)
 
 
 

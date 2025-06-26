@@ -45,7 +45,7 @@ Pero Godell tiene la última palabra. Por ejemplo, ¿no puedo decir con absoluta
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html)
 
 
 

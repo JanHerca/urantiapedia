@@ -60,7 +60,7 @@ Desde que emprendí mi aventura con los evangelios también he aprendido que mi 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html)
 
 
 

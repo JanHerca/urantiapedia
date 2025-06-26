@@ -67,7 +67,7 @@ Adopter le concept « la fin justifie les moyens » semble être un stratagème 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html)
 
 
 

@@ -53,7 +53,7 @@ Dans le débat, nous pouvons toujours proposer des circonstances hypothétiques 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html)
 
 
 

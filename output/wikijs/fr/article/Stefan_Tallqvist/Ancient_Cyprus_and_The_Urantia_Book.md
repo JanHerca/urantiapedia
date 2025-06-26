@@ -78,7 +78,7 @@ Stefan conclut qu'il trouve que toutes les informations archéologiques sont en 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html)
 
 
 

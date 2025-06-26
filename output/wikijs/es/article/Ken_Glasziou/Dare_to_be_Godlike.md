@@ -61,7 +61,7 @@ Si, después de hacerlo, podemos responder que sí, que aún continuamos intenta
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html)
 
 <figure class="table chapter-navigator">
   <table>

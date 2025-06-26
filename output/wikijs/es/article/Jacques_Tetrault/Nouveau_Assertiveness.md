@@ -63,7 +63,7 @@ Bien puede ser que la asertividad deba preceder a la sumisión voluntaria y la a
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

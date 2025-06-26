@@ -70,7 +70,7 @@ Thank you, Nelson Mandela, for showing us, once again, what can be achieved when
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page6.html)
 
 
 

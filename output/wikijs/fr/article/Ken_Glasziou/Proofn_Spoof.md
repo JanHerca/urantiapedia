@@ -56,7 +56,7 @@ En transférant le concept de base dans un autre domaine, nous devrions être ca
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page11.html)
 
 
 

@@ -75,7 +75,7 @@ Music may go unnoticed to our conscious ear, but never to our emotions and uncon
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html)
 
 
 

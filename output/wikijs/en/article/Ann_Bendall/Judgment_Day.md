@@ -77,7 +77,7 @@ And so as I ignorantly trip my way through the Paradise ascent I prepare myself 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html)
 
 
 

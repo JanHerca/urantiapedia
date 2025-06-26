@@ -58,7 +58,7 @@ Los Mensajeros Poderosos no tienen el estatus de «Creador», por lo tanto, son 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html)
 
 
 

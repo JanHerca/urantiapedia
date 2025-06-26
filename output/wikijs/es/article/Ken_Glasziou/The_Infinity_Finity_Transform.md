@@ -112,7 +112,7 @@ Se puede encontrar más información en el Centro de Estudios de Procesos. Su di
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page5.html)
 
 
 

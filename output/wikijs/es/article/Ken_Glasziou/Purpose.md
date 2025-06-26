@@ -58,7 +58,7 @@ Contrariamente a la opinión de la mayoría de los lectores del _Libro de Uranti
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html)
 
 
 

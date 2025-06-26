@@ -59,7 +59,7 @@ Pero este es solo un pequeño ejemplo del asombroso poder de las matemáticas pa
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page14.html)
 
 
 

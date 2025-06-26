@@ -73,7 +73,7 @@ El libro nos informa que Jesús es el mejor modelo que tenemos de la semejanza a
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html)
 
 
 

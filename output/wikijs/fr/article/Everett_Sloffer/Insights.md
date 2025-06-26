@@ -59,7 +59,7 @@ Dieu nous fait toujours avancer avec douceur. Il sait qu’avec le temps et avec
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html)
 
 
 

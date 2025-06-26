@@ -60,7 +60,7 @@ Since undertaking my adventure with the gospels I have also learned that my reli
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html)
 
 
 

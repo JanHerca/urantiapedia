@@ -78,7 +78,7 @@ Et ainsi, alors que je parcoure par ignorance l'ascension du Paradis, je me pré
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html)
 
 
 

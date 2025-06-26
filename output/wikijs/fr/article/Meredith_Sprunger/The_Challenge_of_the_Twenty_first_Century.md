@@ -51,7 +51,7 @@ L’ingrédient singulier qui apportera sens et unité à l’existence planéta
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html)
 
 
 

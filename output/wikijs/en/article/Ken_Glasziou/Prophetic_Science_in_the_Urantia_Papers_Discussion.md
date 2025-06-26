@@ -101,7 +101,7 @@ Ecclesiasticism is at once and forever incompatible with that living faith, grow
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page9.html)
 
 
 <figure class="table chapter-navigator">

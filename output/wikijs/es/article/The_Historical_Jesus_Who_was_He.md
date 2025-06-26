@@ -97,7 +97,7 @@ Así, de fuentes judías y paganas existen suficientes referencias para corrobor
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

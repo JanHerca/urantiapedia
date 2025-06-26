@@ -69,7 +69,7 @@ The essence of the Fifth Epochal Revelation’s instruction on the second great 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html)
 
 
 

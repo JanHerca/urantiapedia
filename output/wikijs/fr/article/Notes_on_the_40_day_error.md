@@ -68,7 +68,7 @@ En conclusion, et au cas où un fondamentaliste parviendrait à trouver un moyen
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html)
 
 
 

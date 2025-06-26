@@ -63,7 +63,7 @@ Los psicólogos sociales Snyder, Tanke y Berscheid (1977) llevaron a cabo un exp
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html)
 
 
 

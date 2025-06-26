@@ -79,7 +79,7 @@ Con el paso del tiempo, los excesos de los entusiastas de Gaia pasarán y surgir
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page14.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page14.html)
 
 
 <figure class="table chapter-navigator">

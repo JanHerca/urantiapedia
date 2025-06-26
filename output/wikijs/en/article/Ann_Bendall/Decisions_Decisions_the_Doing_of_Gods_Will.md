@@ -77,7 +77,7 @@ And after approximately 150 consecutive successful attempts we will reach the le
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page9.html)
 
 
 

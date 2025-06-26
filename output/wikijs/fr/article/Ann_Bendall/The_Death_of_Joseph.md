@@ -94,7 +94,7 @@ Et ainsi : « _Jésus aimait naturellement son entourage, il aimait sa famille, 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html)
 
 
 

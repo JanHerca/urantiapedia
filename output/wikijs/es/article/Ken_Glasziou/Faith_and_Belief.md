@@ -55,7 +55,7 @@ Sigue un «**asalto combinado**». (ver pág. 2)
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html)
 
 
 

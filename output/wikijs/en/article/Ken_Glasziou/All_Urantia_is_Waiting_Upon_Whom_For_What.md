@@ -90,7 +90,7 @@ There are many verses in the New Testament that tell of God’s indwelling. A fe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html)
 
 
 

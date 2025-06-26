@@ -64,7 +64,7 @@ Within the next decade, our habits of thinking about what is wholly true and wha
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html)
 
 
 

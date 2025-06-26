@@ -109,7 +109,7 @@ Nous, les humains terriens, attribuons depuis longtemps à Dieu tous ces phénom
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html)
 
 
 

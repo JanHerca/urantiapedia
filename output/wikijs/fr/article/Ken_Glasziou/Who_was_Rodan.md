@@ -71,7 +71,7 @@ La religion de Jésus transcende tous nos anciens concepts de l'idée d'adoratio
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page6.html)
 
 
 

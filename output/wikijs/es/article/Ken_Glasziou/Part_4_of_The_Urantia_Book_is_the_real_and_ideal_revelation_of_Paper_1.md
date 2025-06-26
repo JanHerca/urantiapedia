@@ -70,7 +70,7 @@ Esto es para evitar que la confusión sobre errores aparentes en la cosmología 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page14.html)
 
 
 

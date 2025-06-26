@@ -87,7 +87,7 @@ Gamow devinait. Celui qui a écrit le fascicule 41 savait très bien qu’il en 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html)
 
 
 

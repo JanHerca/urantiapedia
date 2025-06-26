@@ -56,7 +56,7 @@ La parábola de acción del «lavatorio de los pies» era para demostrar lo que 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html)
 
 
 

@@ -125,7 +125,7 @@ Aquellos que comprenden el pleno significado de estas palabras no necesitan nada
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html)
 
 
 

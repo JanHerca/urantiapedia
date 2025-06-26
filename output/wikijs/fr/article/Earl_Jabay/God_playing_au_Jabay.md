@@ -89,7 +89,7 @@ Nous disposons désormais d’un récit complet et intact de cette vie et de cet
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html)
 
 
 

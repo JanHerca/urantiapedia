@@ -49,7 +49,7 @@ Intenta crear un nuevo uso para el tiempo que has estado desperdiciando en la du
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html)
 
 
 

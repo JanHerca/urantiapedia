@@ -64,7 +64,7 @@ Ninguna persona se inquieta en ningún momento por la actitud de un prójimo cua
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

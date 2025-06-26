@@ -111,7 +111,7 @@ We are blessed with this gift. Its effectiveness is in our own hands.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html)
 
 
 

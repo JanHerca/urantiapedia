@@ -52,7 +52,7 @@ Dieu, le Père, traite l’homme, son enfant, non pas sur la base de vertus ou d
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html)
 
 
 

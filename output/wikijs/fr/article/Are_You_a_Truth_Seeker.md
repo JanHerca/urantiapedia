@@ -73,7 +73,7 @@ Alors même si cela peut être « per ardua ad astra », tendons la main vers le
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_3/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page9.html)
 
 
 

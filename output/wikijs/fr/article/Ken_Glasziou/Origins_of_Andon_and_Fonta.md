@@ -64,7 +64,7 @@ Beaucoup (la plupart ?) de lecteurs pensent que _Le Livre d'Urantia_ prétend qu
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html)
 
 
 

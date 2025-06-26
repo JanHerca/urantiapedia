@@ -265,5 +265,5 @@ Mientras que el Dios de Aristóteles y del teísmo clásico no se ve afectado en
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html)
 

@@ -83,7 +83,7 @@ C'est donc un vent mauvais qui n'apporte de bien à personne. Le test critique s
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html)
 
 
 

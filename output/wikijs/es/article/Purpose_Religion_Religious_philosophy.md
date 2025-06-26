@@ -73,7 +73,7 @@ La fe lleva a conocer a Dios, no sólo a un sentimiento místico de la presencia
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

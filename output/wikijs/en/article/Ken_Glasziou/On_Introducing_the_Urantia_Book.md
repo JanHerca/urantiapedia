@@ -65,7 +65,7 @@ Note: The article “Radius of the Electron” that follows may be copied and us
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html)
 
 
 <figure class="table chapter-navigator">

@@ -70,7 +70,7 @@ Il n’y a aucune bonne raison pour que ces membres de la famille, ou leurs asso
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html)
 
 
 

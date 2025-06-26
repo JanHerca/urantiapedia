@@ -90,7 +90,7 @@ Hay muchos versículos en el Nuevo Testamento que hablan de la morada de Dios. S
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html)
 
 
 

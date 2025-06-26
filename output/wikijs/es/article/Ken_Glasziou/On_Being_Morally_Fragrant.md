@@ -61,7 +61,7 @@ Sin un Dios que sea amor y la promesa de una vida futura deseable, la adopción 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html)
 
 
 

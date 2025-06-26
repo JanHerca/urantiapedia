@@ -59,7 +59,7 @@ Pour l’humanité, l’esprit s’ajoute à la personnalité, au corps et à l�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html)
 
 
 

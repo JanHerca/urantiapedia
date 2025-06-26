@@ -64,7 +64,7 @@ Le mandat confié aux révélateurs permettait « de fournir des renseignements 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html)
 
 
 

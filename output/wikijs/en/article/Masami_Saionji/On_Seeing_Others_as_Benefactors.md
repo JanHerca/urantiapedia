@@ -49,7 +49,7 @@ Try creating a new use for the time that you have been squandering on doubt.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html)
 
 
 

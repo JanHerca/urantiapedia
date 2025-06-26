@@ -68,7 +68,7 @@ Lo que también es seguro es que a medida que crezca la confianza en la realidad
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

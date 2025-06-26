@@ -50,7 +50,7 @@ Cette histoire a été entendue lors d'une interview à la BBC d'un haut policie
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html)
 
 
 

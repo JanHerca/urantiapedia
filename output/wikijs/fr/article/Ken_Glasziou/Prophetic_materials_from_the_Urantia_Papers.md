@@ -108,7 +108,7 @@ Si l’on considère que les détails de Swann ont été délibérément modifi�
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page10.html)
 
 
 

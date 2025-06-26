@@ -50,7 +50,7 @@ En el mejor de los casos, la religión del espíritu es una asociación íntima 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

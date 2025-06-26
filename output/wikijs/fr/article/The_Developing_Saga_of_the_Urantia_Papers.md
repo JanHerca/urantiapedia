@@ -302,7 +302,7 @@ Pour ceux qui croient sérieusement à la grande valeur et à la qualité de cet
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html)
 
 
 

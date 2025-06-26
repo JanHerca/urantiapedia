@@ -74,7 +74,7 @@ From what our astronomers can see now, it appears that the simple picture of a t
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html)
 
 
 <figure class="table chapter-navigator">

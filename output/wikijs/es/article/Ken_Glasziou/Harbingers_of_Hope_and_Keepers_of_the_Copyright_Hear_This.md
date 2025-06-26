@@ -58,7 +58,7 @@ Cualquiera que piense en términos de «difundir el mensaje» entregando el text
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
+- [Artículo en Innerface International](https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

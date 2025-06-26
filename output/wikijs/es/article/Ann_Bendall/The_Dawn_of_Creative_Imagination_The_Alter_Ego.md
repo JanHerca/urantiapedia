@@ -50,7 +50,7 @@ The ability to live as if in the presence of God is through the «alter ego.» A
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page8.html)
 
 
 

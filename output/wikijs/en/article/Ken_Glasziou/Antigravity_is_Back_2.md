@@ -64,7 +64,7 @@ Among other things The Urantia Book tells us that, “_antigravity is a power of
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html)
 
 
 

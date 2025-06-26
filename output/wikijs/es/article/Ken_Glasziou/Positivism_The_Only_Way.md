@@ -48,4 +48,4 @@ La cita anterior es, por supuesto, al comienzo del sermón de ordenación a los 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page3.html)

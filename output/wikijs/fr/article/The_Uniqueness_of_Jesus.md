@@ -122,7 +122,7 @@ Ces paroles sont destinées à guider notre transformation et non à être trans
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html)
 
 
 

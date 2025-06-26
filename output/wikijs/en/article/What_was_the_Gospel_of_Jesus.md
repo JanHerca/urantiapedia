@@ -169,7 +169,7 @@ Yours with love, Ken Glasziou
 
 ## External links
 
--   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html
+-   [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html)
 
 
 <figure class="table chapter-navigator">

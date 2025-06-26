@@ -322,7 +322,7 @@ The similarity of Borg’s account of Jesus’ life and death with that provided
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

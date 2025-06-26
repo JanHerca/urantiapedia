@@ -89,7 +89,7 @@ D’une certaine manière, les lecteurs du Livre d’Urantia ont traité les fas
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html)
 
 
 

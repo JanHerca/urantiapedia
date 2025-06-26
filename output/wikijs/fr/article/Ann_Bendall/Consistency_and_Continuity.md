@@ -58,7 +58,7 @@ Et ainsi se poursuit jusqu’au Paradis, la lente évolution évolutive consista
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html)
 
 
 

@@ -57,7 +57,7 @@ Supreme virtue, then, is wholeheartedly to choose to do the will of the Father i
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html)
 
 
 

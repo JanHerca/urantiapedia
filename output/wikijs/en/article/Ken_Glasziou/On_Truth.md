@@ -55,7 +55,7 @@ Divine truth is a spirit-discerned and living reality. Truth exists only on high
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

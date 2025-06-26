@@ -67,7 +67,7 @@ Hasta el presente, los hombres cristianos se han contentado con excusar su compo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html)
 
 
 <figure class="table chapter-navigator">

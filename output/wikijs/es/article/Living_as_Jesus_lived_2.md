@@ -82,7 +82,7 @@ Jesús había venido «**para establecer y demostrar un estándar de vida humana
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

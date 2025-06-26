@@ -62,7 +62,7 @@ And it behooves the Master’s followers in all ages to learn to minister as “
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html)
 
 
 

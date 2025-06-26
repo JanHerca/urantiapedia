@@ -57,7 +57,7 @@ Le prélude au véritable culte est la **pratique de la présence de Dieu** qui 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page13.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page13.html)
 
 
 

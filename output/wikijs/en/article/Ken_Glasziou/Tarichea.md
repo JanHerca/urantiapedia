@@ -101,7 +101,7 @@ Apparently the salt for the pickling industry came up from the Dead Sea area. Th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html)
 
 
 

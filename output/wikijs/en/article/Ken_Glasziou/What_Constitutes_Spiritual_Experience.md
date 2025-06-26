@@ -76,7 +76,7 @@ Perhaps also, it is whenever a worldly experience brings forth a “thank you, G
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page11.html)
 
 
 

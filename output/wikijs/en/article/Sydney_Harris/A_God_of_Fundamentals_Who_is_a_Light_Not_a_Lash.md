@@ -56,7 +56,7 @@ God grows, as we grow, for he reflects what we become; and when we grow to the f
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html)
 
 
 

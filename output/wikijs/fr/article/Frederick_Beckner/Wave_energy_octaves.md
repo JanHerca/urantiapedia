@@ -67,7 +67,7 @@ Cela nous amène à la question de savoir pourquoi ces informations ont été fo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html)
 
 
 

@@ -83,7 +83,7 @@ La volonté de Dieu ne prévaut pas uniformément dans le cœur du mortel matér
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page5.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page5.html)
 
 
 

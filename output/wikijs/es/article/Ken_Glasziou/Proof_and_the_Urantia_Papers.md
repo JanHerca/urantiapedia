@@ -87,7 +87,7 @@ La primera oración de la declaración del Documento de Urantia tiene el sello d
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html)
 
 
 

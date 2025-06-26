@@ -67,7 +67,7 @@ Une fois dans le royaume, qui est une expérience évolutive, commençant ici su
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page5.html)
 
 
 

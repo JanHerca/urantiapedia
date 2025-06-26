@@ -537,7 +537,7 @@ C’est pourquoi les Cahiers nous disent : « ce qui a le plus de valeur est de 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html)
 
 
 

@@ -67,7 +67,7 @@ Cuando el universo está en la fase de expansión del ciclo de respiración espa
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html)
 
 
 

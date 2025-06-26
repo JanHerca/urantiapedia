@@ -301,7 +301,7 @@ Para los creyentes serios en el alto valor y la calidad de este aspecto de los D
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html)
 
 
 <figure class="table chapter-navigator">

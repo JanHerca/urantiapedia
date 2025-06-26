@@ -532,7 +532,7 @@ Philosophiquement et scientifiquement, la révélation d'Urantia s'accorde bien 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_5/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page3.html)
 
 
 

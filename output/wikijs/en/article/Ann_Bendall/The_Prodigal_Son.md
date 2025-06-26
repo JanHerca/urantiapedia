@@ -66,7 +66,7 @@ God as a Father, is patient and long suffering. He waits a long time for His pro
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

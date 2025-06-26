@@ -55,7 +55,7 @@ Si es o no posible explicar nuestro universo completamente desde dentro del sist
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html)
 
 <figure class="table chapter-navigator">
   <table>

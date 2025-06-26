@@ -60,7 +60,7 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
 
 
 

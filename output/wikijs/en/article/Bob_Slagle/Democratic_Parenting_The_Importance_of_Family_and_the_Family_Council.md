@@ -126,7 +126,7 @@ So, it appears that from the lowest to the highest, from Earth to Salvington and
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page3.html)
 
 
 

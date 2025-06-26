@@ -58,7 +58,7 @@ Tant le texte du _Livre d’Urantia_ que les instructions de Jésus qu’il cont
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page10.html)
 
 
 

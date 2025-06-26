@@ -310,7 +310,7 @@ In fact, even the thought that our lives are, or even should be, examples to the
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html)
 
 
 <figure class="table chapter-navigator">

@@ -76,7 +76,7 @@ Il y a de nombreuses sections du _Livre d'Urantia_ qui peuvent nous aider dans c
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page7.html)
 
 
 

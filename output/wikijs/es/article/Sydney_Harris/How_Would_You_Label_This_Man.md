@@ -83,7 +83,7 @@ El barbudo sonrió con tristeza. «Algunos me llaman el Hijo del Hombre». Ambos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page9.html)
 
 
 

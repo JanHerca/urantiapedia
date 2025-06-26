@@ -56,7 +56,7 @@ Mais que la foi ne soit pas vaincue. Laissez plutôt prévaloir cette assurance 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html)
 
 
 

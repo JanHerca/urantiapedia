@@ -58,7 +58,7 @@ These are the kind of techniques used by modern science to reliably date importa
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

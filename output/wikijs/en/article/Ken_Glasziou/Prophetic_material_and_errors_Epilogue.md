@@ -56,7 +56,7 @@ If the revelation did not have the purpose of providing new knowledge in fields 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html)
 
 <figure class="table chapter-navigator">
   <table>

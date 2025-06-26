@@ -66,7 +66,7 @@ Sólo entonces la petición del Padrenuestro «venga tu reino, hágase tu volunt
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html)
 
 
 

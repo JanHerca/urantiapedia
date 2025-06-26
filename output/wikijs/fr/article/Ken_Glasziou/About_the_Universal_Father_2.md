@@ -116,7 +116,7 @@ Beaucoup de gens croient que Jésus de Nazareth est la source directe de pratiqu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page3.html)
 
 
 

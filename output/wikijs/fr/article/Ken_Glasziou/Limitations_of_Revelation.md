@@ -54,7 +54,7 @@ Afin d'apporter un peu de lumière sur ce sujet, nous avons fait du but et des l
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html)
 
 
 

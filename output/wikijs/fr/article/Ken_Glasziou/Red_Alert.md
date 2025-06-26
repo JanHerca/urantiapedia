@@ -55,7 +55,7 @@ Question 3 : Quel effet certaines attitudes actuelles auront-elles sur l’accep
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page5.html)
 
 
 

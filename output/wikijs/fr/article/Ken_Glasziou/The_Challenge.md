@@ -60,7 +60,7 @@ Ou nous pouvons choisir de laisser le chaos suivre son cours.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page2.html)
 
 
 

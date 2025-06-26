@@ -77,7 +77,7 @@ Il ne semble y avoir aucune raison essentielle d'assimiler une unité de contrô
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page14.html)
 
 
 

@@ -60,7 +60,7 @@ Un corolario de esta afirmación es que __si implementamos el Plan A, el Plan B 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html)
 
 
 <figure class="table chapter-navigator">

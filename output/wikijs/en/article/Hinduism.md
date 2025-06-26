@@ -82,7 +82,7 @@ The beauty and truth of Hinduism’s teachings were captured by Jesus and Ganid 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html)
 
 
 

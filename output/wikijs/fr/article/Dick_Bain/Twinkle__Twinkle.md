@@ -53,7 +53,7 @@ Le télescope est en fait une machine à voyager dans le temps. Plus la lumière
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html)
 
 
 

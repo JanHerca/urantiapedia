@@ -43,7 +43,7 @@ Le livre dit : « Le plasma vital originel d’un monde évolutionnaire contienn
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html)
 
 
 

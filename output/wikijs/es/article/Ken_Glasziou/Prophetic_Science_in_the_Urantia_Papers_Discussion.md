@@ -101,7 +101,7 @@ El eclesiasticismo es a la vez y para siempre incompatible con esa fe viva, esp�
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page9.html)
 
 
 <figure class="table chapter-navigator">

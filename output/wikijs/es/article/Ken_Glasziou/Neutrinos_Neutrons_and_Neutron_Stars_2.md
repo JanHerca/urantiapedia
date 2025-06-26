@@ -96,7 +96,7 @@ Juntos, estos neutrinos constituirían una «gran cantidad de diminutas partícu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page13.html)
 
 
 

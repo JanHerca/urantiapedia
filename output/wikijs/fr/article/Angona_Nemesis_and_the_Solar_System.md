@@ -66,7 +66,7 @@ Cette section du livre précède immédiatement celle qui traite de la croissanc
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html)
 
 
 

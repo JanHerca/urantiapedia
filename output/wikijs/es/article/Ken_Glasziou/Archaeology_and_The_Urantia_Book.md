@@ -50,7 +50,7 @@ El artículo que sigue se refiere a la ubicación de Tarichea en el Mar de Galil
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html)
 
 
 

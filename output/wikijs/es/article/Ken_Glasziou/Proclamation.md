@@ -121,7 +121,7 @@ Los habitantes de Urantia realmente necesitan organizarse en grupos de servicio 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html)
 
 
 

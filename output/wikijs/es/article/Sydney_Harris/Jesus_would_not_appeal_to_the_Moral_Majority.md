@@ -61,7 +61,7 @@ Sea lo que sea que el fundamentalista moderno afirme ser, en el nombre de Cristo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html)
 
 
 

@@ -80,7 +80,7 @@ Regardless of the reality, having my Thought Adjuster described as a child of Go
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html)
 
 
 

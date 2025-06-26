@@ -96,7 +96,7 @@ Un gran número de cristianos, a lo largo de los siglos, han llegado a conceptos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html)
 
 
 

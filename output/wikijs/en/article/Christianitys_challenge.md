@@ -58,7 +58,7 @@ Revealed religion is the unifying element of human existence. Revelation unifies
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html)
 
 <figure class="table chapter-navigator">
   <table>

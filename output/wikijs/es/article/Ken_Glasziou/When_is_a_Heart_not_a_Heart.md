@@ -38,5 +38,5 @@ Así, según Jesús, lo que se necesitaba era una transformación interior del y
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page4.html)
 

@@ -59,7 +59,7 @@ Esto implica que solo aquellas decisiones que tienen que ver con el tipo de expe
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page6.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

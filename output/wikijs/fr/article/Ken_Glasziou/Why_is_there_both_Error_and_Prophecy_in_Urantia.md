@@ -107,7 +107,7 @@ Une autre considération est l'espoir déclaré des auteurs que leur offre contr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html)
 
 
 

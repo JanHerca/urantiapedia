@@ -79,7 +79,7 @@ Por lo tanto, este significado revelado para el amor funciona para cambiar la me
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html)
 
 
 

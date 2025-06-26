@@ -50,7 +50,7 @@ See the article “What Really Survives” for enlightenment on spirit goals.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html)
 
 
 

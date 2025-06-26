@@ -68,7 +68,7 @@ Parmi les documents couverts dans cet article, seul l'article sur l'énergie des
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html)
 
 
 

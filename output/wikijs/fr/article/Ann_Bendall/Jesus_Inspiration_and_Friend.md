@@ -89,7 +89,7 @@ Et pourtant, il a vécu une vie de joie ! Il n'a jamais résumé ses expérience
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html)
 
 
 

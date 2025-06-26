@@ -93,7 +93,7 @@ Creo que el mayor potencial para difundir el mensaje esencial sobre la verdadera
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html)
 
 
 

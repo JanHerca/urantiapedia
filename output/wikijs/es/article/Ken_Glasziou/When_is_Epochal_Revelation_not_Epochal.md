@@ -80,7 +80,7 @@ Este es un requisito esencial para que la elección de la voluntad de Dios en nu
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html)
 
 
 

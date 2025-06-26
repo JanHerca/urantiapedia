@@ -60,7 +60,7 @@ Una suposición afortunada parece ser la única alternativa. Pero las probabilid
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html)
 
 
 <figure class="table chapter-navigator">

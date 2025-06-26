@@ -118,7 +118,7 @@ In summary:
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page7.html)
 
 
 

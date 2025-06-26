@@ -71,7 +71,7 @@ Of course, new readers must find their own pathway to truth. Some may find my ex
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html)
 
 
 

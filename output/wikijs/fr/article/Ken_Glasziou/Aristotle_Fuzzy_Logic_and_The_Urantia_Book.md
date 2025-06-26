@@ -65,7 +65,7 @@ Au cours de la prochaine décennie, nos habitudes de réflexion sur ce qui est e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html)
 
 
 

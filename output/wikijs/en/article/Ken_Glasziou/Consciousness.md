@@ -171,7 +171,7 @@ Today it is not only quantum physicists who have forsaken materialism and determ
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html)
 
 
 <figure class="table chapter-navigator">

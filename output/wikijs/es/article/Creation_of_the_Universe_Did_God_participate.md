@@ -108,7 +108,7 @@ Nosotros, los humanos terrestres, tenemos una larga historia de atribuir a Dios 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html)
 
 
 

@@ -172,7 +172,7 @@ It certainly seems that mortal life is meant to be charged with uncertainty. Thu
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html)
 
 
 

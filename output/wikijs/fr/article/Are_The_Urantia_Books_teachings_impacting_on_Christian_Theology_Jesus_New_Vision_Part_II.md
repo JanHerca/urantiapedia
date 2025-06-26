@@ -323,7 +323,7 @@ La similitude du récit de Borg sur la vie et la mort de Jésus avec celui fourn
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html)
 
 
 

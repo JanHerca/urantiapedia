@@ -92,7 +92,7 @@ Aunque sea un rompecabezas, la existencia de sus acertijos solo ha servido para 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html)
 
 
 

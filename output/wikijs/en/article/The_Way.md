@@ -43,7 +43,7 @@ If, then, the spirit dwells within you, you are no longer bondslaves of the fles
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

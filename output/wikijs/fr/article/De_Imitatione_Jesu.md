@@ -105,7 +105,7 @@ L’Armée du Salut est peut-être le meilleur modèle dont nous disposons d’u
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html)
 
 
 

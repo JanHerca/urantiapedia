@@ -46,7 +46,7 @@ Entonces, incluso si el factor tiempo permitiera el uso de los datos del meteori
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html)
 
 
 

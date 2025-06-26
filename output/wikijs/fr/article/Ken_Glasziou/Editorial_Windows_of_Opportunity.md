@@ -101,7 +101,7 @@ Suit un article sur certains des parallèles entre la théologie du processus et
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page3.html)
 
 
 

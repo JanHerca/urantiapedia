@@ -56,7 +56,7 @@ Y ese parece haber sido su único propósito, y su religión del espíritu.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html)
 
 
 

@@ -59,7 +59,7 @@ Aquí es donde podemos volver a hacer uso de `DEFRAG2`. Piensa bien en el nombre
 > Hay que fijarse muy bien en la palabra que la ética cristiana emplea para amor. Es la palabra ágape.... Significa una actitud invencible de buena voluntad; significa que no importa lo que el otro hombre nos haga, nunca, bajo ninguna circunstancia, buscaremos otra cosa que su bien.
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html)
 
 
 <figure class="table chapter-navigator">

@@ -51,7 +51,7 @@ Bien que ce ne soit pas intentionnel, je ne peux penser à aucune façon plus su
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html)
 
 
 

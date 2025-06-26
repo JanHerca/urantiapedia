@@ -63,7 +63,7 @@ Muchos (¿la mayoría?) de los lectores piensan que _El Libro de Urantia_ afirma
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html)
 
 
 <figure class="table chapter-navigator">

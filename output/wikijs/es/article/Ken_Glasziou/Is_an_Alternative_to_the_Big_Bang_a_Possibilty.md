@@ -109,7 +109,7 @@ Estas visiones de estado casi estacionario proporcionan un ajuste mucho más cer
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html)
 
 - Explorando el Cosmos. Conferencias de la Universidad de California, Irvine. https://faculty.humanities.uci.edu/bjbecker/ExploringtheCosmos/lecture20.html
 

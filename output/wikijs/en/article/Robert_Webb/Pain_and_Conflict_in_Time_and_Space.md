@@ -52,7 +52,7 @@ The physical time-space universe in which we live was created by God—and there
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html)
 
 
 

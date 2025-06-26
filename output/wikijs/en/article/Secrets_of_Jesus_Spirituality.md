@@ -41,7 +41,7 @@ Jesus trusted God much as the child trusts a parent. He had a profound confidenc
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

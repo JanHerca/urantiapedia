@@ -76,7 +76,7 @@ Despite a naturally skeptical nature, due possibly to my engineering training, _
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page13.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page13.html)
 
 
 <figure class="table chapter-navigator">

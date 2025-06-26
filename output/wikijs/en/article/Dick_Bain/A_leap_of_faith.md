@@ -69,7 +69,7 @@ My journey with _The Urantia Book_ started with curiosity, moved through a leap 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html)
 
 
 

@@ -61,7 +61,7 @@ Vale la pena recordar que solo un ser humano recibió la seguridad personal de J
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html)
 
 
 

@@ -125,7 +125,7 @@ Ce commentaire se trouve juste après le sermon.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page4.html)
 
 
 

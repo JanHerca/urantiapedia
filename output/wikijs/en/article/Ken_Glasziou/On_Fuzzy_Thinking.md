@@ -65,7 +65,7 @@ God is He who wrote the math. Or She who wrote the math. Or It that wrote the ma
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html)
 
 
 

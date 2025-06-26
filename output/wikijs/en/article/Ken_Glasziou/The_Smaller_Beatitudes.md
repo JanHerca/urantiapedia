@@ -60,7 +60,7 @@ Happy are you when men shall revile you, and persecute you, and say all manner o
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html)
 
 
 

@@ -68,7 +68,7 @@ And at the same instant, and over the same set of events one friend, Mary, demon
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html)
 
 
 

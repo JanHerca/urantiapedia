@@ -57,7 +57,7 @@ Also documented is evidence of toolmaking as far back as 3 million years ago fro
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html)
 
 
 

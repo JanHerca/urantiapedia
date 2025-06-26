@@ -59,7 +59,7 @@ Si les lecteurs du Livre d’Urantia lisaient de tels éléments de la Bible ou 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page15.html)
 
 
 

@@ -105,7 +105,7 @@ Même si je peux attirer l’attention sur certains de ces problèmes, les véri
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html)
 
 
 

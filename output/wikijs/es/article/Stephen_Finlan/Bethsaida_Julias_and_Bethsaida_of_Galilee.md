@@ -177,7 +177,7 @@ El otro lugar de peregrinaje en Tabgha es la «Iglesia de la Primacía», refiri
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html)
 
 
 <figure class="table chapter-navigator">

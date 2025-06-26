@@ -49,7 +49,7 @@ Esta historia se escuchó durante una entrevista de la BBC a un alto policía br
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html)
 
 
 

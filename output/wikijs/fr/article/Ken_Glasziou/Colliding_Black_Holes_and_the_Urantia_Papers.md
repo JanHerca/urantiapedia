@@ -102,7 +102,7 @@ C’est vers 1955 que le New York Times publia un article selon lequel la taille
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html)
 
 
 

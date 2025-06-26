@@ -161,7 +161,7 @@ He conocido a lectores del_Libro de Urantia_ que quieren pasar por alto esta fas
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html)
 
 
 

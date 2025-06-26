@@ -90,7 +90,7 @@ Aide-moi et guide-moi pour me dominer, me transformer, afin que je puisse faire 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html)
 
 
 

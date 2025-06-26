@@ -60,7 +60,7 @@ Para buscar la voluntad de Dios al tomar esta decisión, pasé horas bajo las es
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html)
 
 
 

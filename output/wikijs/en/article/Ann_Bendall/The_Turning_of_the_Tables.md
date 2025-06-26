@@ -56,7 +56,7 @@ The “washing of the feet” action parable was to demonstrate what Jesus meant
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html)
 
 
 

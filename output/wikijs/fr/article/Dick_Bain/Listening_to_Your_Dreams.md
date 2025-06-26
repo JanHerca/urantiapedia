@@ -70,7 +70,7 @@ En ce qui me concerne, je continuerai à chercher une signification spirituelle 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html)
 
 
 

@@ -67,7 +67,7 @@ De los materiales cubiertos en este artículo, solo el artículo sobre la energ�
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html)
 
 
 

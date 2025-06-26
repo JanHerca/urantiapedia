@@ -48,7 +48,7 @@ La posibilidad del mal es necesaria para la elección moral, pero no la actualid
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html)
 
 <figure class="table chapter-navigator">
   <table>

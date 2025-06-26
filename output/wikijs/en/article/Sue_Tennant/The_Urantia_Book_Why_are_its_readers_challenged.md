@@ -80,7 +80,7 @@ There is no human authority, religious or otherwise, by which the truth of _The 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page11.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page11.html)
 
 <figure class="table chapter-navigator">
   <table>

@@ -66,7 +66,7 @@ So although, technically speaking, the authors’ statement can be defended as c
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page21.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page21.html)
 
 
 <figure class="table chapter-navigator">

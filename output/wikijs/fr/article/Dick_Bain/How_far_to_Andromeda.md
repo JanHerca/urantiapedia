@@ -75,7 +75,7 @@ Pour le scénario le plus favorable de l'univers actuel, l'image d'un univers pl
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html)
 
 
 

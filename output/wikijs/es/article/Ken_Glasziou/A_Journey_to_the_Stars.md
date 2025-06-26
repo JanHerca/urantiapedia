@@ -147,7 +147,7 @@ Podría ser una buena idea leer ahora la sección titulada «Conductores de ador
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html)
 
 
 

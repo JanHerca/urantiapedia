@@ -58,7 +58,7 @@ Everybody who thinks in terms of “spreading the message” by handing out the 
 
 ## External links
 
-- Article in Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
+- [Article in Innerface International](https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html)
 
 <figure class="table chapter-navigator">
   <table>

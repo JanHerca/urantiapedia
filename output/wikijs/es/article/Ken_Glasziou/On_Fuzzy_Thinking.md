@@ -65,7 +65,7 @@ Dios es el que escribió las matemáticas. O la que escribió las matemáticas. 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html)
 
 
 

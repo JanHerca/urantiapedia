@@ -58,7 +58,7 @@ On <a id="a56_3"></a>[UB 40:5.15](/en/The_Urantia_Book/40#p5_15), the author of 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html)
 
 
 

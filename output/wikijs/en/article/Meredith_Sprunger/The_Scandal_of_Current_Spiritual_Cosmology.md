@@ -50,7 +50,7 @@ Here, as in so many other areas of spiritual enlightenment, The Urantia Book pre
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html)
 
 
 

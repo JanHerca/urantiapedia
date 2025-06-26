@@ -60,7 +60,7 @@ The presence of marsupial fossils in Oligocene strata (about 35 to 40 million ye
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html)
 
 
 <figure class="table chapter-navigator">

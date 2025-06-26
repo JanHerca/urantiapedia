@@ -60,7 +60,7 @@ Dick Bain’s article in the March/April Innerface had us all fired up with enth
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html)
 
 
 

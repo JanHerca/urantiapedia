@@ -96,7 +96,7 @@ La fase en la que nuestra tarea principal es ayudar a los cristianos a tomar con
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html)
 
 
 

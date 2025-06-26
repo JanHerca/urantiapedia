@@ -73,7 +73,7 @@ Alors qu’il semblerait que les peuples de notre planète soient à plusieurs m
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html)
 
 
 

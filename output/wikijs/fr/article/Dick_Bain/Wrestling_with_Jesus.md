@@ -91,7 +91,7 @@ De même, les récompenses spirituelles d’une relation avec Michel/Jésus dép
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html)
 
 
 

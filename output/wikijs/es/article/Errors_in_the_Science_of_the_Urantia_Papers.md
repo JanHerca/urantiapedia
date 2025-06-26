@@ -193,7 +193,7 @@ Obviamente, este extraordinario contraste entre el error y la declaración asomb
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html)
 
 
 <figure class="table chapter-navigator">

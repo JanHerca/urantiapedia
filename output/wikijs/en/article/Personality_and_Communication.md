@@ -71,7 +71,7 @@ All of which means the achieving of God-consciousness as a priority aim for our 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html)
 
 
 

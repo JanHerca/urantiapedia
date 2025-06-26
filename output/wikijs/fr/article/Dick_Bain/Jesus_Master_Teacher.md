@@ -79,7 +79,7 @@ Les auteurs du _Livre d'Urantia_ nous informent qu'il y avait un certain nombre 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html)
 
 
 

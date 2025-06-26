@@ -77,7 +77,7 @@ Su mensaje no escrito: _Sígueme, vive como yo viví._
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html)
 
 <figure class="table chapter-navigator">
   <table>

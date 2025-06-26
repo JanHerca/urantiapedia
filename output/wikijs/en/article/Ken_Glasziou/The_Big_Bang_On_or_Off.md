@@ -82,7 +82,7 @@ So it is an ill wind that brings nobody no good. The critical test will be the o
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html)
 
 
 

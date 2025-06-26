@@ -88,7 +88,7 @@ La première phrase de la déclaration du Cahier d’Urantia a la marque d’avo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html)
 
 
 

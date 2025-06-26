@@ -91,7 +91,7 @@ Mais Jésus nous a dit que la religion de l’esprit n’exige pas l’uniformit
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html)
 
 
 

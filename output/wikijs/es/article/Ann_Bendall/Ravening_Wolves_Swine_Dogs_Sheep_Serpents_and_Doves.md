@@ -61,7 +61,7 @@ Y finalmente el papel de oveja/cordero: ¡esta es la relación entre Jesús y yo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html)
 
 
 

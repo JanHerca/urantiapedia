@@ -41,7 +41,7 @@ L’écriture du _Livre d’Urantia_ de 2000 pages aurait nécessité énorméme
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html)
 
 
 

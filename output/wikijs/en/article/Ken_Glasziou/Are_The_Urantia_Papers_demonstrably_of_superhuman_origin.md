@@ -43,7 +43,7 @@ To pre-judge the Papers and bring previously held prejudices into the assessment
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html)
 
 
 

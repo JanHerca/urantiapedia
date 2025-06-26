@@ -73,7 +73,7 @@ Faith leads to knowing God, not merely to a mystical feeling of the divine prese
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html)
 
 <figure class="table chapter-navigator">
   <table>

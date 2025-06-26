@@ -172,7 +172,7 @@ Ciertamente parece que la vida mortal está destinada a estar cargada de incerti
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html)
 
 
 

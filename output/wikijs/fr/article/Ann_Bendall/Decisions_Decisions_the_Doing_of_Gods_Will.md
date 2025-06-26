@@ -78,7 +78,7 @@ Et après environ 150 tentatives consécutives réussies, nous atteindrons le ni
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page9.html)
 
 
 

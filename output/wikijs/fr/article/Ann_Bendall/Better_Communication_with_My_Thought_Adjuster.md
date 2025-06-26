@@ -67,7 +67,7 @@ En apprenant à connaître Dieu et Jésus, puis en exerçant ma volonté d'une m
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html)
 
 
 

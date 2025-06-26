@@ -113,7 +113,7 @@ Malgré la débâcle de la datation au carbone, il semble toujours possible que 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html)
 
 
 

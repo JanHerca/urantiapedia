@@ -72,7 +72,7 @@ As we modern day Christians look back at the early heady days of the disciples o
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page15.html)
 
 
 

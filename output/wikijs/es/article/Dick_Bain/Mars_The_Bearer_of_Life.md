@@ -66,7 +66,7 @@ El jurado científico aún no sabe si existió vida en Marte. Pero si existió v
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html)
 
 
 

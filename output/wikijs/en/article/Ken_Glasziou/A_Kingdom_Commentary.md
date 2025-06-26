@@ -66,7 +66,7 @@ Only then does the “your kingdom come, your will be done” petition of the Lo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html)
 
 
 

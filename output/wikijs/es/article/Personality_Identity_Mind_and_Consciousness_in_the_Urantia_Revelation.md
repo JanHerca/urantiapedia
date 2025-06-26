@@ -204,7 +204,7 @@ Al responder a una pregunta sobre el alma, Jesús dijo:
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

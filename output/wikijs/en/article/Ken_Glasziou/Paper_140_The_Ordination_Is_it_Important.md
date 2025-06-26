@@ -124,7 +124,7 @@ This comment is found just after the sermon.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page4.html)
 
 
 

@@ -89,7 +89,7 @@ Me parece que _El Libro de Urantia_ contiene suficiente material nuevo para dist
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html)
 
 <figure class="table chapter-navigator">
   <table>

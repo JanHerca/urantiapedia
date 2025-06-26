@@ -234,7 +234,7 @@ L'apparition d'une erreur dans _Le Livre d'Urantia_ ne nous donne d'autre choix 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)
 
 
 

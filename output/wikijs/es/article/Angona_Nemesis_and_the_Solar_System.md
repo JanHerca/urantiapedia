@@ -65,7 +65,7 @@ Esta sección del libro precede inmediatamente a la que trata del crecimiento de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html)
 
 
 

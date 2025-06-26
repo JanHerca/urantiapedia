@@ -57,7 +57,7 @@ Non pas qu'il n'y ait aucun chrétien qui soit intimement familier avec le Dieu 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html)
 
 
 

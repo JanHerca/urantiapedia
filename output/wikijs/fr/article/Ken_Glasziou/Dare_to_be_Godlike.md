@@ -62,7 +62,7 @@ Si, après cela, nous pouvons répondre que oui, nous continuerons à essayer d'
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html)
 
 
 

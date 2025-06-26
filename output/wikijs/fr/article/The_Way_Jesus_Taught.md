@@ -63,7 +63,7 @@ Et il incombe aux disciples du Maître de tous âges d’apprendre à exercer le
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html)
 
 
 

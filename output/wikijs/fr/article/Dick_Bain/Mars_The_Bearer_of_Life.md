@@ -67,7 +67,7 @@ Le jury scientifique ne sait toujours pas si la vie a existé sur Mars. Mais si 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html)
 
 
 

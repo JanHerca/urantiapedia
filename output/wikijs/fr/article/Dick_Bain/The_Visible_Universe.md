@@ -94,7 +94,7 @@ Cette spéculation sur la taille de l'univers est une étape nécessaire pour é
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html)
 
 
 

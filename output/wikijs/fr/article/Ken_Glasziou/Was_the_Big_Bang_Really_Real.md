@@ -67,7 +67,7 @@ Si les prédictions s'avèrent exactes, ce sera une preuve supplémentaire que l
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html)
 
 
 

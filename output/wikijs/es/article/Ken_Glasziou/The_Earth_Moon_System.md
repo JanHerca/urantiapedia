@@ -66,7 +66,7 @@ La datación radiactiva moderna de bastidores se ha visto revolucionada por el u
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html)
 
 
 

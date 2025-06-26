@@ -122,7 +122,7 @@ Les Urantiens ont vraiment besoin de s'organiser en groupes de service si l'espo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html)
 
 
 

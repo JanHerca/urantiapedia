@@ -60,7 +60,7 @@ Scholarly evaluation shows that Urantia Book fundamentalism is just as untenable
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
 
 
 

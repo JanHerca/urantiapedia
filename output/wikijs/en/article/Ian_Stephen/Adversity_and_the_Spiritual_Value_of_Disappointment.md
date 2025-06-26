@@ -61,7 +61,7 @@ If my particular “adversity” had not occurred, I would never have found the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html)
 
 
 

@@ -127,7 +127,7 @@ Ainsi, il semble que du plus bas au plus haut, de la Terre à Salvington et jusq
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_6/page3.html)
 
 
 

@@ -63,7 +63,7 @@ El mandato a los reveladores permitió «el suministro de una información que c
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html)
 
 
 <figure class="table chapter-navigator">

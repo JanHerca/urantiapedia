@@ -92,7 +92,7 @@ Besides the lead we get from “highest cosmic good” in serving our brothers a
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html)
 
 
 

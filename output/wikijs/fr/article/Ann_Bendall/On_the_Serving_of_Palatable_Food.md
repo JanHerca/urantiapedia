@@ -116,7 +116,7 @@ Et si une personne postule philosophiquement : « Je me demande ce que Dieu veut
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page10.html)
 
 
 

@@ -94,7 +94,7 @@ Tenemos todo un milenio en el que trabajar. Un enfoque gradual parece ser el ún
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html)
 
 
 

@@ -67,7 +67,7 @@ So in a nut shell, doing the will of God means, with Jesus as our model, always 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html)
 
 
 

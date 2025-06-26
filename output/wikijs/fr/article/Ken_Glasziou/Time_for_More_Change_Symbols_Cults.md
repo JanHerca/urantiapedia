@@ -68,7 +68,7 @@ Il est sûrement temps de changer. Nous avons tous du travail à accomplir, mais
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html)
 
 
 

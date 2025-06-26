@@ -62,7 +62,7 @@ Est-il difficile de choisir la moralité et la vertu ? Il ne devrait pas en êtr
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html)
 
 
 

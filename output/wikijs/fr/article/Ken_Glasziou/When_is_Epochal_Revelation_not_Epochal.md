@@ -81,7 +81,7 @@ C’est une exigence essentielle si l’on veut que le choix de la volonté de D
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html)
 
 
 

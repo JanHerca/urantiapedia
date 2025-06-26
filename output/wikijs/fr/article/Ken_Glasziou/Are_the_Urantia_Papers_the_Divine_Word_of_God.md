@@ -244,7 +244,7 @@ flowchart TD
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html)
 
 
 

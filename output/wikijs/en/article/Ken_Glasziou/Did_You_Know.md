@@ -43,7 +43,7 @@ During the early part of universe expansion, subsequent to the theoretical Big B
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page16.html)
 
 
 

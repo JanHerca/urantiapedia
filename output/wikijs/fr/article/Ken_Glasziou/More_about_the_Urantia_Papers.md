@@ -97,7 +97,7 @@ Un très grand nombre de chrétiens sont, à travers les âges, parvenus à des 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html)
 
 
 

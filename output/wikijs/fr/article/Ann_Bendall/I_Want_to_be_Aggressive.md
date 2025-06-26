@@ -69,7 +69,7 @@ Je n'envisage aucune difficulté de la part de Jésus/Michael car je suis une fe
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html)
 
 
 

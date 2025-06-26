@@ -60,7 +60,7 @@ Cela implique que seules les décisions qui concernent le type d’expériences 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page6.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page6.html)
 
 
 

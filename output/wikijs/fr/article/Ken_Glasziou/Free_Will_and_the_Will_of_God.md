@@ -93,7 +93,7 @@ Outre l'orientation que nous recevons du « bien cosmique le plus élevé » en 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html)
 
 
 

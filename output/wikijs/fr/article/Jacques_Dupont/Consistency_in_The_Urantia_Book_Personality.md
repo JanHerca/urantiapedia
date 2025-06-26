@@ -117,7 +117,7 @@ Une étude plus approfondie pourrait inclure d’autres concepts connexes tels q
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page11.html)
 
 
 

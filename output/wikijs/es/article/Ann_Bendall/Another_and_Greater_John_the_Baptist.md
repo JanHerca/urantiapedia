@@ -75,7 +75,7 @@ De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del �
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html)
 
 
 <figure class="table chapter-navigator">

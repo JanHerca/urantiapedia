@@ -81,7 +81,7 @@ So why was prophetic material included? The most likely reason appears to be tha
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html)
 
 - Interactive web app showing Earth from 750 My to today: https://dinosaurpictures.org/ancient-earth/
 

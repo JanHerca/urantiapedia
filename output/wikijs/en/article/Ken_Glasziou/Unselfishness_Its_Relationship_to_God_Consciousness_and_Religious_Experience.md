@@ -79,7 +79,7 @@ Both the Bible and _The Urantia Book_ inform us that all goodness has its origin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html)
 
 
 

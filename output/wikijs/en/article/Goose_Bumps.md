@@ -50,7 +50,7 @@ Sharing the burden and taking turns at doing the hard work makes sense, be it pe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_1/page5.html)
 
 
 

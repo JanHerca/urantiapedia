@@ -126,7 +126,7 @@ Ceux qui comprennent toute la signification de ces mots n’ont besoin de rien d
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html)
 
 
 

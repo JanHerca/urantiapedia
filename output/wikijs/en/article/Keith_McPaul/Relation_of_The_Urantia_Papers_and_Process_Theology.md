@@ -148,7 +148,7 @@ Process theology does not claim to have all the answers, God still remains a mys
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html)
 
 
 

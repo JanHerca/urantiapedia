@@ -55,7 +55,7 @@ Peut-être devrons-nous attendre d’arriver dans les mondes des maisons pour ob
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html)
 
 
 

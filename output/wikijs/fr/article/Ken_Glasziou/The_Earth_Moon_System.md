@@ -67,7 +67,7 @@ La datation radioactive moderne des racks a été révolutionnée par l'utilisat
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_5/page20.html)
 
 
 

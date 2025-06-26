@@ -69,7 +69,7 @@ Et au même instant, et au cours de la même série d'événements, une amie, Ma
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html)
 
 
 

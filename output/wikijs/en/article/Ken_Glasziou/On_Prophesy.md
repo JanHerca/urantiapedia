@@ -53,7 +53,7 @@ Faith and personal experience, not science or even quality, is the key that elev
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page23.html)
 
 
 

@@ -73,7 +73,7 @@ Matt Neibaur ajoute ce qui suit :
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page2.html)
 
 
 

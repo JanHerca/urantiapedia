@@ -67,7 +67,7 @@ Matt Neibaur adds as follows:
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page5.html)
 
 
 

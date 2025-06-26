@@ -66,7 +66,7 @@ Ainsi, même si, techniquement parlant, la déclaration des auteurs peut être d
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page9.html)
 
 
 

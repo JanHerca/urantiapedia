@@ -52,7 +52,7 @@ Supongamos que soy un escéptico verrugoso que es lo suficientemente realista co
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page12.html)
 
 
 

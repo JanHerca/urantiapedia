@@ -98,7 +98,7 @@ Dites OUI à votre Père céleste, la vie vous dira OUI. Et vos enfants seront �
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html)
 
 
 

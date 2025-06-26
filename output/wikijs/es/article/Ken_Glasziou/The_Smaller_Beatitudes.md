@@ -60,7 +60,7 @@ Felices seréis cuando los hombres os vituperen y os persigan, y digan toda clas
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page9.html)
 
 
 

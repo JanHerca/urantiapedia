@@ -51,7 +51,7 @@ Au mieux, la religion de l'esprit est un partenariat intime impliquant le partag
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html)
 
 
 

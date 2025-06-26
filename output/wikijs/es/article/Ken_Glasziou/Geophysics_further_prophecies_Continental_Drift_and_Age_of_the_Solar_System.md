@@ -81,7 +81,7 @@ Entonces, ¿por qué se incluyó material profético? La razón más probable pa
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html)
 
 - Aplicación web interactiva que muestra la Tierra desde 750 M años hasta hoy: https://dinosaurpictures.org/ancient-earth/
 

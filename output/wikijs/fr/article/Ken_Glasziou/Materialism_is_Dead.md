@@ -202,7 +202,7 @@ D'où l'on peut discerner que celui qui a écrit les Cahiers d'Urantia était pl
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html)
 
 
 

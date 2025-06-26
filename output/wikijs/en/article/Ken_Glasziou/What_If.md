@@ -40,7 +40,7 @@ The writing of the 2000-page _Urantia Book_ would have required an enormous amou
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page15.html)
 
 
 

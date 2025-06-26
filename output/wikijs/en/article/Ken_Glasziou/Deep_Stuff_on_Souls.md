@@ -76,7 +76,7 @@ But though we depart forever from their presence, our souls will possess a conti
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html)
 
 
 

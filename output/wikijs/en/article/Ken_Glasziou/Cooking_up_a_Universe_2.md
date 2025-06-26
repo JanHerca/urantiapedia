@@ -65,7 +65,7 @@ P.S. **Did you know**?? If a soup composed of the nucleotide ingredients (buildi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page21.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page21.html)
 
 
 

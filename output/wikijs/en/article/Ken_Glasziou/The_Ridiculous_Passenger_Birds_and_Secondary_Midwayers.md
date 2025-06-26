@@ -58,7 +58,7 @@ If Urantia Book readers read such material in the Bible or the Koran they would 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page15.html)
 
 
 

@@ -72,7 +72,7 @@ La plupart des lecteurs du Livre d'Urantia se considéreraient eux-mêmes comme 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_4/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page14.html)
 
 
 

@@ -59,7 +59,7 @@ This is really not so difficult once we rid our minds of our fundamentalist-type
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html)
 
 
 <figure class="table chapter-navigator">

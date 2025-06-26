@@ -77,7 +77,7 @@ Dada la devoción y el esfuerzo, muchas personas podrían ser conscientes de los
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html)
 
 
 

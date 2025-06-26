@@ -68,7 +68,7 @@ El arrepentimiento a veces requiere algo más que un «Dios arrepentido». Sabre
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html)
 
 
 

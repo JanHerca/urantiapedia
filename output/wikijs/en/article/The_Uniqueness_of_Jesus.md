@@ -121,7 +121,7 @@ These sayings are meant to guide our transformation, and not to be converted int
 
 ## External links
 
--   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
+-   [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

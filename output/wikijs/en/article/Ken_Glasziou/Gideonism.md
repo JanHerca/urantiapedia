@@ -68,7 +68,7 @@ Of one other thing we can be quite certain. A Gideonist approach to the spreadin
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page14.html)
 
 
 

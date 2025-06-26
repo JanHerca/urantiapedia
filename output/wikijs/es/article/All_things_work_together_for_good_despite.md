@@ -43,7 +43,7 @@ Jesús le dijo a Ganid, un muchacho indio: «Ganid, tengo una confianza absoluta
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html)
 
 
 

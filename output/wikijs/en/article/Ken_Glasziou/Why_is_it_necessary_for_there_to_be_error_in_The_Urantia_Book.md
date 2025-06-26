@@ -233,7 +233,7 @@ The occurrence of error in _The Urantia Book_ gives us no option other than to m
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)
 
 
 <figure class="table chapter-navigator">

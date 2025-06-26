@@ -116,7 +116,7 @@ And although I will be disappointed in myself if I get cognitive dissonance and 
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html)
 
 * Cognitive dissonance: https://en.wikipedia.org/wiki/Cognitive_dissonance
 

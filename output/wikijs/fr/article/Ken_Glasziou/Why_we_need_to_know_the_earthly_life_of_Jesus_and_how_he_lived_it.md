@@ -87,7 +87,7 @@ _Le fait que Jésus a vécu pour nous est infiniment plus significatif que l'ens
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_5/page6.html)
 
 
 

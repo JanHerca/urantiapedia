@@ -66,7 +66,7 @@ Si las predicciones resultan ser correctas, será una prueba más de que el Big 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html)
 
 
 

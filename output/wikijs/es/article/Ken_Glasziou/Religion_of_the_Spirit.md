@@ -65,7 +65,7 @@ Sin embargo, el centro de la religión del espíritu es la búsqueda personal de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html)
 
 
 

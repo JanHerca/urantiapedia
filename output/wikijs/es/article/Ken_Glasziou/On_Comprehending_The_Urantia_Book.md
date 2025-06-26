@@ -61,7 +61,7 @@ Vistos bajo esta luz, los reveladores han cumplido su tarea magníficamente, has
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html)
 
 
 

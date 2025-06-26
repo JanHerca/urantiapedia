@@ -57,7 +57,7 @@ La virtud suprema, entonces, es elegir de todo corazón hacer la voluntad del Pa
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html)
 
 
 

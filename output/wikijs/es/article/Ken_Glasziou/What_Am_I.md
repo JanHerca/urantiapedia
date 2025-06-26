@@ -48,7 +48,7 @@ Suponiendo que mi intención irreversible sea sobrevivir, entonces son las parte
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html)
 
 
 

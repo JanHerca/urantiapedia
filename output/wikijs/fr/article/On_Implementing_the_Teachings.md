@@ -135,7 +135,7 @@ Mais il faut veiller à ne pas se tromper. Si les concepts et les idées, comme 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html)
 
 
 

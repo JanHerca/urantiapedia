@@ -112,7 +112,7 @@ Nous sommes bénis par ce don. Son efficacité est entre nos mains.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html)
 
 
 

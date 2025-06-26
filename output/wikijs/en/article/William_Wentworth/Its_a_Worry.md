@@ -55,7 +55,7 @@ Nevertheless, even for Jesus himself, “everything must await the coming of its
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html)
 
 
 

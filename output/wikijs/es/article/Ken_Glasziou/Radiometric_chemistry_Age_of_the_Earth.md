@@ -53,7 +53,7 @@ No hay absolutamente ninguna forma de que en 1955, las planchas de impresión de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html)
 
 
 

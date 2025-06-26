@@ -59,7 +59,7 @@ En fait, le cycle du carbone ne fonctionne que dans les grandes étoiles à haut
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page12.html)
 
 
 

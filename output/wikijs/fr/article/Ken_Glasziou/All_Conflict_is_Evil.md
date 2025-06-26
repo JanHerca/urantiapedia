@@ -83,7 +83,7 @@ Ainsi, jusqu’à ce que nous soyons convaincus du contraire, nous nous en tenon
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html)
 
 
 

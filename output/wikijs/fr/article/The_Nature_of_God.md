@@ -102,7 +102,7 @@ Cependant, nous ne sommes jamais seuls : « Ce fragment de la pure Divinité du 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html)
 
 
 

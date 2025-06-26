@@ -108,7 +108,7 @@ We human earthlings have a long history of attributing to God all those phenomen
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html)
 
 
 

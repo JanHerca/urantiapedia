@@ -55,7 +55,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html)
 
 
 

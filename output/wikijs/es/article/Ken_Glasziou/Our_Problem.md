@@ -79,7 +79,7 @@ Otra alternativa son las obras secundarias. Debido a los acontecimientos precede
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html)
 
 
 <figure class="table chapter-navigator">

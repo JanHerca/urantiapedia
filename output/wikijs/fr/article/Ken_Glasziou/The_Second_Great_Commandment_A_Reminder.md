@@ -70,7 +70,7 @@ L’essence de l’instruction de la Cinquième Révélation d’Époque sur le 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html)
 
 
 

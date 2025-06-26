@@ -102,7 +102,7 @@ Apparemment, le sel destiné à l'industrie du décapage provenait de la région
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page10.html)
 
 
 

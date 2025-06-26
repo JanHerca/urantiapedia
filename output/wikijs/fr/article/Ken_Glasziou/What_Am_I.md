@@ -49,7 +49,7 @@ En supposant que mon intention irréversible soit de survivre, ce sont les pièc
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html)
 
 
 

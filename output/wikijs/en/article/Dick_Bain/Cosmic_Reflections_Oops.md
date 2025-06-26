@@ -67,7 +67,7 @@ When the universe is in the expansion phase of the space respiration cycle, the 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html)
 
 
 

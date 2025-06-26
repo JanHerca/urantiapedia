@@ -109,7 +109,7 @@ The Papers make it quite clear that our teaching role must be through the actual
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html)
 
 
 

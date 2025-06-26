@@ -43,7 +43,7 @@ Prejuzgar los Documentos y traer prejuicios previos a la evaluación puede ser c
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_7/page2.html)
 
 
 

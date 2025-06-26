@@ -82,7 +82,7 @@ La belleza y la verdad de las enseñanzas del hinduismo fueron capturadas por Je
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html)
 
 
 

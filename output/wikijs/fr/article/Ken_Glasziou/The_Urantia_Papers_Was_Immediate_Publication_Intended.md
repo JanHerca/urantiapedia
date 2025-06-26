@@ -75,7 +75,7 @@ En revenant à la réalité, nous devons accepter que cela ne s’est pas produi
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html)
 
 
 

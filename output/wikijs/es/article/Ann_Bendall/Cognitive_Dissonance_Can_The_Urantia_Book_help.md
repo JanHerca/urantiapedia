@@ -116,7 +116,7 @@ Y aunque me sentiré decepcionada conmigo misma si tengo disonancia cognitiva y 
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html)
 
 * Disonancia cognitiva: https://es.wikipedia.org/wiki/Disonancia_cognitiva
 

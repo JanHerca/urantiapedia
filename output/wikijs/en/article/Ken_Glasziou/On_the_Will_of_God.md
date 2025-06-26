@@ -75,7 +75,7 @@ This choosing does not so much consist in the negation of creature will--"Not my
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

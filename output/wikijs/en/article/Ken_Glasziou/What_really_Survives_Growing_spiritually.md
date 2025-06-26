@@ -104,7 +104,7 @@ In an article in the previous issue of Innerface we explored quotations from the
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html)
 
 
 

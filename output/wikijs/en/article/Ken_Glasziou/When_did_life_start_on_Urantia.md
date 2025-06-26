@@ -42,7 +42,7 @@ The book says, “The original life plasm of the evolutionary world must contain
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html)
 
 
 <figure class="table chapter-navigator">

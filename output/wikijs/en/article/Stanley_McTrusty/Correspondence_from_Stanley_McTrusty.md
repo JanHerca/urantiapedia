@@ -106,7 +106,7 @@ If just one person really understands what I have deduced in this summary, and i
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html)
 
 <figure class="table chapter-navigator">
   <table>

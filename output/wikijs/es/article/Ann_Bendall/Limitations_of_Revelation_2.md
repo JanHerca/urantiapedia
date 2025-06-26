@@ -85,7 +85,7 @@ Si nosotros, como organización social, insistimos en continuar con tales ‘ali
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page5.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page5.html)
 
 
 

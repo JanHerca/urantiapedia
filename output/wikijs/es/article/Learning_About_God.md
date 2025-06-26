@@ -111,7 +111,7 @@ Somos bendecidos con este regalo. Su eficacia está en nuestras propias manos.
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html)
 
 
 

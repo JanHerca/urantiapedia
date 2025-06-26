@@ -54,7 +54,7 @@ La transición a la vida en el espíritu no tiene por qué ser demasiado traumá
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html)
 
 
 

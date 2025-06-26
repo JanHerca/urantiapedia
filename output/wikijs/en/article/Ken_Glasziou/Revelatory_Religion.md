@@ -41,7 +41,7 @@ One of the most amazing earmarks of religious living is that dynamic and sublime
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html)
 
 
 

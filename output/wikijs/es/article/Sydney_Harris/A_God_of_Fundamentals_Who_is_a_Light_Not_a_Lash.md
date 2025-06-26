@@ -56,7 +56,7 @@ Dios crece, a medida que nosotros crecemos, porque refleja en lo que nos convert
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html)
 
 
 

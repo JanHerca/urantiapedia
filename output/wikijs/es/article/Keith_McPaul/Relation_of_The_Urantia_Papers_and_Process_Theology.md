@@ -148,7 +148,7 @@ La teología del proceso no pretende tener todas las respuestas, Dios sigue sien
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html)
 
 
 

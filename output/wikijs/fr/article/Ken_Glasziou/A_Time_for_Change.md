@@ -84,7 +84,7 @@ Laissez les premières choses passer en premier.
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page2.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page2.html)
 
 
 

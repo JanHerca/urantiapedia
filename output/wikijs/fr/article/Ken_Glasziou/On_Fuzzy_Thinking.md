@@ -66,7 +66,7 @@ Dieu est Celui qui a écrit les mathématiques. Ou Celle qui a écrit les maths.
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html)
 
 
 

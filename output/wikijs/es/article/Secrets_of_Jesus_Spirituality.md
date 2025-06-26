@@ -41,7 +41,7 @@ Jesús confiaba en Dios tanto como el niño confía en un padre. Tenía una prof
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

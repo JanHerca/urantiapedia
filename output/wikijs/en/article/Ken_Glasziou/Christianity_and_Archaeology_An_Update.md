@@ -133,7 +133,7 @@ And perhaps finally:_ “When men see you so love them, and how fervently you se
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html)
 
 
 

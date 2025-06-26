@@ -149,7 +149,7 @@ Thus SN 1987A provided a remarkable confirmation of the general picture of neutr
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html)
 
 
 <figure class="table chapter-navigator">

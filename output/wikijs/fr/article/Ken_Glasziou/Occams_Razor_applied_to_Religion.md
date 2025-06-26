@@ -72,7 +72,7 @@ Et parce que nous savons que notre Dieu est parfaitement bon, nous savons aussi 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page15.html)
 
 
 

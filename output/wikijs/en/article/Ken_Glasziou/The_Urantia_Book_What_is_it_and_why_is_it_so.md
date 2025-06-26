@@ -90,7 +90,7 @@ But Jesus told us that the religion of the spirit does not demand uniformity of 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_2/page8.html)
 
 
 

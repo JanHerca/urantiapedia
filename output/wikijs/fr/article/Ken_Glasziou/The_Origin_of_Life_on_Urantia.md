@@ -104,7 +104,7 @@ Mon point de vue personnel, détaillé dans [Innerface International Vol.5 No.7]
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_2/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_2/page8.html)
 
 
 

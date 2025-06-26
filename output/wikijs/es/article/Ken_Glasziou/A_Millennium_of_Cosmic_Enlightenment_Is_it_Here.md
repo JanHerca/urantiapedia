@@ -72,7 +72,7 @@ Mientras que parecería que la gente de nuestro planeta está a muchos miles, ta
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html)
 
 
 

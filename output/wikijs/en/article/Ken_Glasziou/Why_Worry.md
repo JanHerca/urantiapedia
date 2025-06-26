@@ -102,7 +102,7 @@ The two thousand pages of The Urantia Book provide a content far too large to pe
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page11.html)
 
 
 <figure class="table chapter-navigator">

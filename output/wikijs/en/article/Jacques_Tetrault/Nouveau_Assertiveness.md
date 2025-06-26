@@ -63,7 +63,7 @@ It may well be that assertiveness must precede freewilled submission to, and joy
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html)
 
 <figure class="table chapter-navigator">
   <table>

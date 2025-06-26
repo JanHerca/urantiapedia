@@ -65,7 +65,7 @@ Nota: El artículo «Radio del electrón» que sigue se puede copiar y utilizar 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html)
 
 
 <figure class="table chapter-navigator">

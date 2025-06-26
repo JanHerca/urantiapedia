@@ -54,7 +54,7 @@ Il est évident que nous, Urantiens, avons un très long chemin à parcourir ava
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html)
 
 
 

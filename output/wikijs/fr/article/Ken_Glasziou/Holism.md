@@ -86,7 +86,7 @@ La philosophie des processus est holistique. Il perçoit les relations entre les
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page7.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page7.html)
 
 
 

@@ -101,7 +101,7 @@ Trouver des voies et moyens d'enseigner ou de démontrer que l'essence de notre 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page11.html)
 
 
 

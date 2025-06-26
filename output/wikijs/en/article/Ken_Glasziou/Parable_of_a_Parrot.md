@@ -58,7 +58,7 @@ Teardrops sparkled on the parrot’s wings, too, and dropped down like petals up
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_6/page5.html)
 
 
 

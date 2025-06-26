@@ -54,7 +54,7 @@ L'autre possibilité est sur <a id="a49_28"></a>[LU 29:4.36](/fr/The_Urantia_Boo
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page10.html)
 
 
 

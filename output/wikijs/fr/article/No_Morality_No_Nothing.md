@@ -69,7 +69,7 @@ La repentance exige parfois plus qu’un simple « Dieu désolé ». Nous sauron
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html)
 
 
 

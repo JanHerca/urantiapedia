@@ -83,7 +83,7 @@ Il est bon que nous ne répondions pas tous de la même manière aux défis du _
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html)
 
 
 

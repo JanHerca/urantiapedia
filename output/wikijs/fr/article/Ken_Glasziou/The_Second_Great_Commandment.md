@@ -75,7 +75,7 @@ Comment Jésus a-t-il aimé ? Le véritable amour, l’amour semblable à celui 
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html)
 
 
 

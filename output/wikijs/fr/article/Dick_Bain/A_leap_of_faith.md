@@ -70,7 +70,7 @@ Mon voyage avec _Le Livre d'Urantia_ a commencé par la curiosité, est passé p
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html)
 
 
 

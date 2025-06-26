@@ -75,7 +75,7 @@ There are many sections of _The Urantia Book_ that can help us during those mome
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page7.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page7.html)
 
 
 

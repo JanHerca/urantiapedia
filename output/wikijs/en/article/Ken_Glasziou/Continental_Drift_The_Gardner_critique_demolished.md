@@ -63,7 +63,7 @@ Obviously there are many sections in the book that must remain as originally pro
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page16.html)
 
 
 

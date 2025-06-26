@@ -110,7 +110,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html)
 
 
 

@@ -54,7 +54,7 @@ Perhaps we’ll have to wait till we get to the mansion worlds to get an answer 
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html)
 
 
 <figure class="table chapter-navigator">

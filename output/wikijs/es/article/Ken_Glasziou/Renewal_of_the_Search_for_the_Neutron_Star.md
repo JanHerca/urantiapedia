@@ -120,7 +120,7 @@ Eso parece dejar a los propios reveladores como los principales (¿únicos?) sos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html)
 
 
 <figure class="table chapter-navigator">

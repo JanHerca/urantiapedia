@@ -162,7 +162,7 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html)
 
 
 

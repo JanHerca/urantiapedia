@@ -78,7 +78,7 @@ Son message non écrit : _Suivez-moi, vivez comme j'ai vécu._
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page15.html)
 
 
 

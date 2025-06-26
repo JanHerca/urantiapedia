@@ -65,7 +65,7 @@ Surely, then, the correcting of that primary error is the cardinal requirement f
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html)
 
 
 

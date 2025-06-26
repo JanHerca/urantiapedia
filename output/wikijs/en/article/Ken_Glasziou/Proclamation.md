@@ -121,7 +121,7 @@ Urantians really do need to get organized in service groups if the “through th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html)
 
 
 

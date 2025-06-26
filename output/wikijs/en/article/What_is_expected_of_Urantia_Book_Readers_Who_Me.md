@@ -48,7 +48,7 @@ My Father requires of the children of faith that they bear much spirit fruit. If
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html)
 
 
 

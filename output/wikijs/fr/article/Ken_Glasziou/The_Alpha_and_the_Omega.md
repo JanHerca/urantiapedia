@@ -53,7 +53,7 @@ Adam et Ève recherchaient la voie la plus facile : manger du fruit qui confère
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html)
 
 
 

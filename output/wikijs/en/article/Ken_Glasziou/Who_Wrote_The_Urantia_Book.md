@@ -69,7 +69,7 @@ There is no good reason why such family members, or still living associates, sho
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html)
 
 
 

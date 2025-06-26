@@ -136,7 +136,7 @@ And finally, as would be expected from the Son of a loving God, comforting words
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html)
 
 
 

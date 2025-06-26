@@ -111,7 +111,7 @@ Muy poca de esta literatura está disponible en Australia, pero parece estar dis
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html)
 
 
 

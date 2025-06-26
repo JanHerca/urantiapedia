@@ -53,7 +53,7 @@ Es obvio que los urantianos tenemos un largo, largo camino por recorrer antes de
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html)
 
 
 

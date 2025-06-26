@@ -65,7 +65,7 @@ In asking such questions we must retain our humility. The Revelators did what th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

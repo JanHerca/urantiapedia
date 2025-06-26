@@ -55,7 +55,7 @@ C'est peut-être pour cela que les révélateurs nous disent que « _La raison e
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html)
 
 
 

@@ -64,7 +64,7 @@ Dentro de la próxima década, nuestros hábitos de pensamiento sobre lo que es 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html)
 
 
 

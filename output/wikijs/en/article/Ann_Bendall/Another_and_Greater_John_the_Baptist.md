@@ -75,7 +75,7 @@ Indeed it is a joy to live in an era where Jesus' living message of “the Kingd
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html)
 
 
 <figure class="table chapter-navigator">

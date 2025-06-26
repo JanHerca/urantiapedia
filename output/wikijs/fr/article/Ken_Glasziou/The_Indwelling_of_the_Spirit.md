@@ -72,7 +72,7 @@ Et dans le cas o√π l'un de nos lecteurs se trouverait en mesure d'aider les chr√
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_6/page10.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_6/page10.html)
 
 
 

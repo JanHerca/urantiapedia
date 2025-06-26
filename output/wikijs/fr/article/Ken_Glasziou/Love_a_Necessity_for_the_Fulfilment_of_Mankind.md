@@ -69,7 +69,7 @@ L’amour doit saisir le concept en constante évolution du bien cosmique le plu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html)
 
 
 

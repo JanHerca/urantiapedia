@@ -74,7 +74,7 @@ Can we rid ourselves of false values? “And when Jesus heard these words, he lo
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html)
 
 
 

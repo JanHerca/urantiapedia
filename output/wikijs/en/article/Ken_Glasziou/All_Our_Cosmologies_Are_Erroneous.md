@@ -138,7 +138,7 @@ At enormous risk to life and limb, I’m forced to speculate that since the pres
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html)
 
 
 <figure class="table chapter-navigator">

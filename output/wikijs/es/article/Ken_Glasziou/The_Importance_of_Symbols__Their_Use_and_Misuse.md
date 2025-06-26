@@ -66,7 +66,7 @@ Pero el resultado neto es siempre el mismo. Nadie realmente gana. Con el tiempo,
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html)
 
 
 

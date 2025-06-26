@@ -103,7 +103,7 @@ L’accomplissement de la promesse révélatrice dépend à la fois de notre rec
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_2/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_2/page5.html)
 
 
 

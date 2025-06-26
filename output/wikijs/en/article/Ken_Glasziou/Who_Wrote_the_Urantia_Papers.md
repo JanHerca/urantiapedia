@@ -125,7 +125,7 @@ Those who comprehend the full significance of these words need nothing more.
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html)
 
 
 

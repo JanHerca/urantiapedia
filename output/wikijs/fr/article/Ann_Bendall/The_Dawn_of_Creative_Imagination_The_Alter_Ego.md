@@ -51,7 +51,7 @@ La capacité de vivre comme en présence de Dieu passe par « l’alter ego ». 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page8.html)
 
 
 

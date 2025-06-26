@@ -66,7 +66,7 @@ The scientific jury is still out on whether life existed on Mars. But if life ex
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html)
 
 
 

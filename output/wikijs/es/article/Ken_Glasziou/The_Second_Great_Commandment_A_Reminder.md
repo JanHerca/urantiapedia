@@ -69,7 +69,7 @@ La esencia de la instrucción de la Quinta Revelación de Época sobre el segund
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html)
 
 
 

@@ -56,7 +56,7 @@ Si la revelación no tuvo el propósito de brindar nuevos conocimientos en campo
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html)
 
 <figure class="table chapter-navigator">
   <table>

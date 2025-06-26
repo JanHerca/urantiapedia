@@ -79,7 +79,7 @@ Si te sirve de consuelo, quizás lo sea saber que nuestros primos animales solo 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html)
 
 
 

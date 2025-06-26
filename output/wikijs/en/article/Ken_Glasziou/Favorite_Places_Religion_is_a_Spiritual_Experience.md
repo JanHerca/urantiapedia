@@ -59,7 +59,7 @@ In response to a question from Nathaniel, Jesus provided the apostles with instr
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_2/page2.html)
 
 
 

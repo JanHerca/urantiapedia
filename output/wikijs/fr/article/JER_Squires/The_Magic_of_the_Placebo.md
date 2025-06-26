@@ -53,7 +53,7 @@ Qui a dit que la rationalité avait une valeur de survie ?
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_5/page12.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol5_5/page12.html)
 
 
 

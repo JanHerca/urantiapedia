@@ -109,7 +109,7 @@ Los Documentos dejan bastante claro que nuestro papel docente debe ser a través
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html)
 
 
 

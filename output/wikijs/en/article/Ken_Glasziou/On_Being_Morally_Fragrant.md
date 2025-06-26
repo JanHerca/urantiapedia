@@ -61,7 +61,7 @@ Could it be that a major intention of the revelators in providing us with the Fi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html)
 
 
 

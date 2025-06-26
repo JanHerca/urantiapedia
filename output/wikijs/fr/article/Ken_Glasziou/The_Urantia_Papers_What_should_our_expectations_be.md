@@ -64,7 +64,7 @@ En cherchant à éviter ce même sort, les auteurs se sont donné beaucoup de ma
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page4.html)
 
 
 

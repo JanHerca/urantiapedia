@@ -75,7 +75,7 @@ Al final de la Cena del Recuerdo, Jesús realmente nos instruyó a continuar rea
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html)
 
 <figure class="table chapter-navigator">
   <table>

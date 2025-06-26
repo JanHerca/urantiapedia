@@ -62,7 +62,7 @@ Se pourrait-il qu'une intention majeure des révélateurs en nous fournissant la
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html)
 
 
 

@@ -50,7 +50,7 @@ Despite the late hour, a small boat made fast on the jetty and took us back to K
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html)
 
 
 

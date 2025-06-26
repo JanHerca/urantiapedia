@@ -72,7 +72,7 @@ Surely it would be a logical contradiction for the author of these words (and th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html)
 
 
 

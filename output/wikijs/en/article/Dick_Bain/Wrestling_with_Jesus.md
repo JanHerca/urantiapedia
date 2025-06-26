@@ -90,7 +90,7 @@ Just so, the spiritual rewards of a relationship with Michael/Jesus far outweigh
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html)
 
 
 

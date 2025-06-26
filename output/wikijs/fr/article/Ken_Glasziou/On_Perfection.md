@@ -49,7 +49,7 @@ C'est le véritable sens de ce commandement divin : « Soyez parfaits, comme je 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html)
 
 
 

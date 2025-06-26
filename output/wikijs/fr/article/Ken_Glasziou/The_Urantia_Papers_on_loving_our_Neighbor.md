@@ -64,7 +64,7 @@ Aimer notre prochain n’est pas quelque chose que nous pouvons faire seuls. Nou
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html)
 
 
 

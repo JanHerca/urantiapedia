@@ -156,7 +156,7 @@ En otras palabras, el hacer la voluntad de Dios es solo eso. No es nuestra volun
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html)
 
 
 <figure class="table chapter-navigator">

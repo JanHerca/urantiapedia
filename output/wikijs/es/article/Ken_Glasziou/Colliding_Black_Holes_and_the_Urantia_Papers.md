@@ -101,7 +101,7 @@ Fue alrededor de 1955 que el New York Times publicó un titular que decía que e
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page23.html)
 
 
 

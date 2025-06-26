@@ -136,7 +136,7 @@ Y finalmente, como se esperaría del Hijo de un Dios amoroso, palabras de consue
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html)
 
 
 

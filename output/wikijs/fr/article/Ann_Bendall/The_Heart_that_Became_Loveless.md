@@ -97,7 +97,7 @@ Et le verdict de Jésus sur la manière dont Judas serait jugé se reflète dans
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html)
 
 
 

@@ -68,7 +68,7 @@ No preveo ninguna dificultad por parte de Jesús/Miguel porque soy mujer. Nos he
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html)
 
 ## Referencias
 

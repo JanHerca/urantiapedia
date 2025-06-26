@@ -87,7 +87,7 @@ The first sentence of the Urantia Paper’s statement has the stamp of having be
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html)
 
 
 

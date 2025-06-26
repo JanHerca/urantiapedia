@@ -63,7 +63,7 @@ Al tratar de evitar este mismo destino, los autores han hecho todo lo posible pa
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page4.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page4.html)
 
 
 

@@ -80,7 +80,7 @@ Ainsi, ce sens révélé de l’amour a pour fonction de changer le but traditio
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html)
 
 
 

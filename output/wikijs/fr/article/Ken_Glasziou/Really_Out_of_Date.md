@@ -108,7 +108,7 @@ Mais cela ajoute une nouvelle dimension. Cela **empêchera toute utilisation ré
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_5/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page14.html)
 
 
 

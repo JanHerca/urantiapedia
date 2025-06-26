@@ -50,7 +50,7 @@ Aunque no es intencionado, no puedo pensar en una forma más sutil de interrumpi
 
 ## Enlaces externos
 
-* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html
+* [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html)
 
 <figure class="table chapter-navigator">
   <table>

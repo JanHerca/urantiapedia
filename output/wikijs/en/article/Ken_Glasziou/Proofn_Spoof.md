@@ -55,7 +55,7 @@ Carrying the basic concept into another area, we should be able to comprehend th
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_5/page11.html)
 
 
 

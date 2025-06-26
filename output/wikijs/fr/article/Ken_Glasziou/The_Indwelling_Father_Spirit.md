@@ -71,7 +71,7 @@ Nous ne devons pas confondre la mission et l’influence de notre Esprit-Dieu qu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page4.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_3/page4.html)
 
 
 

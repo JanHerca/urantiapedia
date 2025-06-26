@@ -56,7 +56,7 @@ El estado espiritual real es la medida del logro de la Deidad: la sintonía con 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html)
 
 
 <figure class="table chapter-navigator">

@@ -41,7 +41,7 @@ La partie 4 du _Le Livre d'Urantia_ contient littéralement des centaines de ré
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html)
 
 
 

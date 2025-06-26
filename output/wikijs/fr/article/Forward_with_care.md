@@ -50,7 +50,7 @@ Cependant, à long terme, nous pouvons nous appuyer sur deux réalités universe
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html)
 
 
 

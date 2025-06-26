@@ -44,7 +44,7 @@ La oración siempre ha sido y siempre será una doble experiencia humana: un pro
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html)
 
 <figure class="table chapter-navigator">
   <table>

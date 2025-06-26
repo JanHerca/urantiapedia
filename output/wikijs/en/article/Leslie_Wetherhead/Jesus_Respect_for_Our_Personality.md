@@ -110,7 +110,7 @@ The book cited above, published in 1930, was one of the sources used by the midw
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html)
 
 
 

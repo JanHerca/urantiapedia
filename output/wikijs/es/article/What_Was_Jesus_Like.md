@@ -103,7 +103,7 @@ Gradualmente, la mayoría de nosotros aprenderá que el más importante de todos
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page13.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol8_3/page13.html)
 
 
 

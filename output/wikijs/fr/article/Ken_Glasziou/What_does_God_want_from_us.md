@@ -71,7 +71,7 @@ Mais avec Jésus comme modèle, avec l'Esprit de Vérité de Jésus comme guide 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html)
 
 
 

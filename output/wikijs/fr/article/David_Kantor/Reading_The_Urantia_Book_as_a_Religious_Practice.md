@@ -149,7 +149,7 @@ Ces questions se situent aux frontières de la croissance et du service. Jésus 
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html)
 
 
 

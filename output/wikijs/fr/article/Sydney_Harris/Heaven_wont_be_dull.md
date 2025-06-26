@@ -62,7 +62,7 @@ Il convient de rappeler qu’un seul être humain a reçu l’assurance personne
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html)
 
 
 

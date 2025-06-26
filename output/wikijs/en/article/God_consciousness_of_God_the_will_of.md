@@ -82,7 +82,7 @@ The will of God does not uniformly prevail in the heart of the God-seeking mater
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page5.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page5.html)
 
 <figure class="table chapter-navigator">
   <table>

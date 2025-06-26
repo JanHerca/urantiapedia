@@ -65,7 +65,7 @@ S’il reste vrai que la certitude nous échappe, il reste également vrai que n
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html)
 
 
 

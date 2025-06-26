@@ -62,7 +62,7 @@ Y corresponde a los seguidores del Maestro en todas las épocas aprender a minis
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html
+- [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html)
 
 
 

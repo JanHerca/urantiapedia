@@ -80,7 +80,7 @@ Au fil du temps, les excès des enthousiastes de Gaia passeront, et un concept G
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page14.html
+* [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol7_2/page14.html)
 
 
 

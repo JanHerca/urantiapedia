@@ -84,7 +84,7 @@ Depuis que le _Livre d'Urantia_ a été rendu public au grand public, il y a peu
 
 ## Liens externes
 
-- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html
+- [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html)
 
 
 

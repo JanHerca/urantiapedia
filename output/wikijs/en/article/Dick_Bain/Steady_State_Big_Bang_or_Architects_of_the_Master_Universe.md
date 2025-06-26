@@ -82,7 +82,7 @@ It is good that we will not all respond the same way to challenges to _The Urant
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html
+- [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_4/page11.html)
 
 
 

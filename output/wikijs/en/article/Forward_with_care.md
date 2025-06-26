@@ -49,7 +49,7 @@ However, in the long run we can rely upon two quintessential universe realities:
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html
+* [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html)
 
 <figure class="table chapter-navigator">
   <table>
