@@ -36,7 +36,7 @@ Medellín, 25 de septiembre de 2016
 
 **1**
 
-> _La carrera ascendente es el factor más importante en cualquier estudio sobre los mortales del tiempo $y$ del espacio_ ([LU 40:5.18](/es/The_Urantia_Book/40#p5_18))
+> _La carrera ascendente es el factor más importante en cualquier estudio sobre los mortales del tiempo y del espacio_ ([LU 40:5.18](/es/The_Urantia_Book/40#p5_18))
 
 ## CONDICIÓN Y MUNDOS
 
@@ -283,7 +283,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **¿Pero todos** desarrollamos estas capacidades? Evidentemente, no.
 
-**Las personas con una mente normal** alcanzan el 7º círculo $y$, a partir de él, van escalando todos los demás hasta llegar al 1º.
+**Las personas con una mente normal** alcanzan el 7º círculo y, a partir de él, van escalando todos los demás hasta llegar al 1º.
 
 **Las personas con una mente subnormal** (incluyendo en esta categoría <ins>exclusivamente</ins> a aquellas que no pueden ejercer un poder normal de la voluntad, conforme a lo que acabamos de ver: es decir, que no tienen capacidad para elegir, ni para tomar decisiones ordinarias, que no se les puede exigir responsabilidad moral, que <ins>no tienen capacidad para alcanzar la individualidad espiritual y para comprender personalmente a Dios</ins>) **no alcanzan este 7º círculo** y, en consecuencia, no experimentan el crecimiento equilibrado del conjunto de los aspectos de la personalidad que antes hemos mencionado. No obstante, estas personas con una mente subnormal, tienen asignada una Compañía de Serafines y un Batallón de Querubines, encargados de servirlos y de vigilar que se les manifieste justicia y misericordia en las luchas por la vida en nuestro planeta. Por lo tanto, es obvio que merecen también toda nuestra comprensión, nuestro amor y nuestro servicio. (¿Tienen personalidad estas criaturas? Creo que pueden tenerla, como cualquier otro ser humano, y creo que, tras su muerte, pueden ser despertados en los MMO, como despiertan los niños que mueren sin Ajustador. Pero esta es una cuestión que no está explícitamente resulta en el LU)
 
@@ -407,7 +407,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 - **no puede retener por ahora** la personalidad del sujeto (porque no es suya, porque no se ha fusionado con él),
 - **pero se queda con la** **ins	identidad** del mismo, que radicaba en la mente;
 - **y tras la muerte de dicho sujeto**, <ins>se marcha a Divinington</ins>,
-- **pero antes de partir** realiza <ins>una copia duplicada de la memoria</ins> de la mente en la que residió, que contendrá aquellos acontecimientos de la vida humana que tuvieron valores y significados morontiales y espirituales. Y <ins>una de esas copias</ins> se la lleva con él, para que en el momento de la repersonalización, cuando este Ajustador regrese, pueda restablecer la memoria del individuo original $y$, de ese modo, éste tenga plena conciencia de su continuidad y de la expansión de su personalidad. Estos factores espiritualizados <ins>de la memoria y de la identidad</ins> de la criatura (*) forman parte para siempre del Ajustador.
+- **pero antes de partir** realiza <ins>una copia duplicada de la memoria</ins> de la mente en la que residió, que contendrá aquellos acontecimientos de la vida humana que tuvieron valores y significados morontiales y espirituales. Y <ins>una de esas copias</ins> se la lleva con él, para que en el momento de la repersonalización, cuando este Ajustador regrese, pueda restablecer la memoria del individuo original y, de ese modo, éste tenga plena conciencia de su continuidad y de la expansión de su personalidad. Estos factores espiritualizados <ins>de la memoria y de la identidad</ins> de la criatura (*) forman parte para siempre del Ajustador.
 
 <ins>No explicar, si no es necesario, pero es indispensable saberlo</ins>:
 

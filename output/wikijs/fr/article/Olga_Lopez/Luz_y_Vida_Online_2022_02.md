@@ -108,7 +108,7 @@ Cet article, bien que bref, est très éclairant sur la façon dont la physique 
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
 </figure>
 
-[**Aux éducateurs et croyants de la cinquième révélation (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf)
+[**Aux éducateurs et croyants de la cinquième révélation (Olga López)**](/fr/article/Olga_Lopez/A_los_educadores_y_creyentes_de_la_quinta_revelacion) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf))
 
 Cet article est une analyse de la section «  Instructions pour les éducateurs et les croyants  » du document 159 (La tournée de la Décapole). Ces instructions faisaient partie d’un discours prononcé par Jésus pour exprimer « les principes qui doivent guider ceux qui prêchent la vérité » et « donner de la force à tous ceux qui enseignent l’Évangile du royaume ». Et cela s’applique parfaitement à nous, lecteurs engagés dans les enseignements de la cinquième révélation.
 <br style="clear:both" />

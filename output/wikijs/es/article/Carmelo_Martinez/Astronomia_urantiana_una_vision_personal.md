@@ -41,7 +41,7 @@ Toda la información que tenemos sobre el universo se ha obtenido desde la super
 
 No hemos visto realmente el aspecto que tiene la Vía Láctea; lo suponemos por comparación con otras galaxias que sí vemos y por mediciones hechas desde dentro.
 
-No somos capaces de viajar por el espacio, al menos de momento, por lo que la información que disponemos se ha obtenido con telescopios $y$ otros mecanismos que reciben las señales que llegan a nuestro planeta después de viajar más o menos y de atravesar más o menos espacio. Hay que esperar que los datos de objetos cercanos serán más precisos y fiables que los de objetos lejanos. Hay que esperar asimismo que con el paso del tiempo esta función de precisión y fiabilidad aumentará con la mejora de nuestros instrumentos.
+No somos capaces de viajar por el espacio, al menos de momento, por lo que la información que disponemos se ha obtenido con telescopios y otros mecanismos que reciben las señales que llegan a nuestro planeta después de viajar más o menos y de atravesar más o menos espacio. Hay que esperar que los datos de objetos cercanos serán más precisos y fiables que los de objetos lejanos. Hay que esperar asimismo que con el paso del tiempo esta función de precisión y fiabilidad aumentará con la mejora de nuestros instrumentos.
 
 ## Las divisiones administrativas
 

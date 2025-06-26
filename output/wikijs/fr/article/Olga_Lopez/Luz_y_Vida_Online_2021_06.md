@@ -133,7 +133,7 @@ Le document 72 est une source de nombreuses idées utiles pour développer des s
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="El mundo de la cruz" width="250">
 </figure>
 
-[**Le monde de la croix (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf)
+[**Le monde de la croix (Carmelo Martínez)**](/fr/article/Carmelo_Martinez/El_mundo_de_la_cruz) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf))
 
 Dans cet ouvrage, l'auteur aborde l'exercice intéressant de localiser les lieux où la mort et la résurrection de Jésus de Nazareth ont eu lieu tels qu'ils sont aujourd'hui, sur la base des indices offerts par les révélateurs dans _Le Livre d'Urantia_.
 

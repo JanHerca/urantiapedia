@@ -95,7 +95,7 @@ En _El Libro de Urantia_, se dice que Monmatia (nuestro sistema solar) tiene doc
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel" width="250">
 </figure>
 
-[**Los otorgamientos de Cristo Miguel (Javier Martínez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf)
+[**Los otorgamientos de Cristo Miguel (Javier Martínez)**](/es/article/Javier_Martinez/Los_otorgamientos_de_Cristo_Miguel) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf))
 
 Aquí tenemos un esquema en forma de tabla donde aparecen las características más destacadas de los siete otorgamientos que llevó a cabo Miguel de Nebadon, nuestro Hijo Creador, tales como: el momento del tiempo en el que se produjeron, el lugar, la duración, el tipo de ser en el que se otorgó, quién o quiénes se enteraron del otorgamiento, el puesto desempeñado, a qué voluntad se sometió, etc. Resulta muy útil para tener una visión de conjunto sobre los otorgamientos, y también para percibir las diferencias entre ellos.
 <br style="clear:both" />

@@ -134,7 +134,7 @@ Por lo que respecta al hogar, los padres siempre han actuado como refuerzo de la
 
 ## 9. Tutela de los padres hasta los 15 años ([LU 72:3.7](/es/The_Urantia_Book/72#p3_7))
 
-_En esta sociedad, los niños están bajo la tutela legal de los padres hasta los quince años, momento en que son iniciados por primera vez a las responsabilidades cívicas. A partir de ahí se van reduciendo las obligaciones hacia los padres a la vez que se asumen nuevas responsabilidades cívicas y sociales hacia el Estado. Además, la edad mínima para votar es los 20 años, para casarse sin consentimiento de los padres es de 25 años $y$, como hemos mencionado anteriormente, nadie con más de 30 años puede seguir viviendo en casa de sus padres. Está claro que en el planeta vecino se le da mucha importancia a la madurez que da la edad a la hora de participar en la sociedad._
+_En esta sociedad, los niños están bajo la tutela legal de los padres hasta los quince años, momento en que son iniciados por primera vez a las responsabilidades cívicas. A partir de ahí se van reduciendo las obligaciones hacia los padres a la vez que se asumen nuevas responsabilidades cívicas y sociales hacia el Estado. Además, la edad mínima para votar es los 20 años, para casarse sin consentimiento de los padres es de 25 años y, como hemos mencionado anteriormente, nadie con más de 30 años puede seguir viviendo en casa de sus padres. Está claro que en el planeta vecino se le da mucha importancia a la madurez que da la edad a la hora de participar en la sociedad._
 
 **¿Cómo de alejados estamos?**
 

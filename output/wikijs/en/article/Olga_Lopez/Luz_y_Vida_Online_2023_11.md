@@ -72,7 +72,7 @@ But above all, it has been worth it to be able to count on so many readers of _T
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Invitacion-para-leer-en-Navidad.png" alt="Invitación para leer en Navidad" width="250">
 </figure>
 
-[**Invitation to read at Christmas (Pablo Morales)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf)
+[**Invitation to read at Christmas (Pablo Morales)**](/en/article/Pablo_Morales/Invitacion_a_leer_en_Navidad) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf))
 
 In this work, the author takes a look at the circumstances before and after the birth of Jesus of Nazareth; he begins by reviewing the reasons why the “official” birth date does not match the one indicated in the book, and continues with the events associated with Christmas, such as the supposed star of Bethlehem. He then explains who Jesus of Nazareth really was in the organization of the universe, taking into account who preceded him in this world.
 <br style="clear:both;"/>

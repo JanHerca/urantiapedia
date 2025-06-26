@@ -96,7 +96,7 @@ Dans _Le Livre d'Urantia_, Monmatia (notre système solaire) est dit avoir douze
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel" width="250">
 </figure>
 
-[**Les dons de Cristo Miguel (Javier Martínez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf)
+[**Les dons de Cristo Miguel (Javier Martínez)**](/fr/article/Javier_Martinez/Los_otorgamientos_de_Cristo_Miguel) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf))
 
 Nous avons ici un diagramme sous forme de tableau où apparaissent les caractéristiques les plus remarquables des sept effusions réalisées par Miguel de Nébadon, notre Fils Créateur, telles que : le moment où elles ont eu lieu, le lieu, la durée, le type d'être dans lequel il a été accordé, qui ou qui a eu connaissance de l'octroi, le poste occupé, à quelle volonté il a été soumis, etc. Il est très utile d’avoir une vue d’ensemble des récompenses, et aussi de percevoir les différences entre elles.
 <br style="clear:both" />

@@ -91,7 +91,7 @@ Los reveladores nos hacen hincapié en que Jesús «saboreó» una vida normal, 
 
 Veamos cómo orientó su vida, y tendremos el modelo a seguir para nosotros mismos. Él tuvo a su disposición una herramienta excepcional, pero que también está a nuestro alcance. Esta herramienta no es otra cosa que una FE SUBLIME Y SIN RESERVAS EN DIOS.
 
-Hay algo que la hace excepcional $y$ es que, contrariamente a lo que ocurre con las herramientas que nosotros fabricamos, resulta que cuanto más se hace uso de ella, en lugar de estropearse o deteriorarse, más poderosa se torna.
+Hay algo que la hace excepcional y es que, contrariamente a lo que ocurre con las herramientas que nosotros fabricamos, resulta que cuanto más se hace uso de ella, en lugar de estropearse o deteriorarse, más poderosa se torna.
 
 La Fe nos plantea un dilema análogo al de qué fue primero si el huevo o la gallina, y yo personalmente no tengo claro si primero se llega a la idea-ideal de Dios, y después surge la Fe, o bien es a la inversa, pero lo que sí me parece claro es que en uno u otro momento de nuestras vidas, ambos conceptos aparecen, y la clave está en no apartarlos de ti por el hecho de que, sobre todo al principio, te parezcan desconcertantes o poco claros.
 

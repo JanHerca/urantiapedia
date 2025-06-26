@@ -106,7 +106,7 @@ El autor comienza su artículo con una reflexión y una pregunta, que es justame
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles" width="250">
 </figure>
 
-[**Los doce apóstoles (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf)
+[**Los doce apóstoles (Javier Martínez)**](/es/article/Javier_Martinez/Los_doce_apostoles) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf))
 
 Esta presentación del autor comienza haciendo una «ficha» de cada uno de los apóstoles (esquematizando lo que _El Libro de Urantia_ nos presenta redactado de manera sistemática y exhaustiva), en la que aparece toda la información aportada por el documento 139. Por cierto, un documento en el que el Dr. Sadler, como psiquiatra que era, tuvo la certeza de que los documentos Urantia eran auténticos, dada su riqueza en la descripción de cada uno de esos tipos humanos tan distintos y a la vez tan unidos en una meta espiritual común. En este trabajo encontraréis incluso un gráfico con las edades de los apóstoles cuando empezaron su ministerio con Jesús.
 <br style="clear:both" />

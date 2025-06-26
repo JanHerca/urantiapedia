@@ -109,7 +109,7 @@ This article, although brief, is very illuminating on how physics is gradually g
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
 </figure>
 
-[**To the educators and believers of the fifth revelation (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf)
+[**To the educators and believers of the fifth revelation (Olga López)**](/en/article/Olga_Lopez/A_los_educadores_y_creyentes_de_la_quinta_revelacion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf))
 
 This article is an analysis of the section “Instructions for educators and believers” of document 159 (The tour of the Decapolis). These instructions were part of a talk that Jesus gave to express “the principles that should guide those who preach the truth” and “promote all who teach the gospel of the kingdom.” And that is perfectly applicable to us as readers committed to the teachings of the fifth revelation.
 <br style="clear:both" />

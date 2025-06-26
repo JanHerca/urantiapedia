@@ -107,7 +107,7 @@ Este artículo, aun siendo breve, es muy esclarecedor sobre cómo la física se 
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
 </figure>
 
-[**A los educadores y creyentes de la quinta revelación (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf)
+[**A los educadores y creyentes de la quinta revelación (Olga López)**](/es/article/Olga_Lopez/A_los_educadores_y_creyentes_de_la_quinta_revelacion) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf))
 
 Este artículo es un análisis de la sección «Las instrucciones para los educadores y los creyentes» del documento 159 (La gira por la Decápolis). Estas instrucciones fueron parte de una charla que Jesús dio para expresar «los principios que deberían guiar a los que predican la verdad» e «impulsar a todos los que enseñan el evangelio del reino». Y eso es perfectamente aplicable a nosotros como lectores comprometidos con las enseñanzas de la quinta revelación.
 <br style="clear:both" />

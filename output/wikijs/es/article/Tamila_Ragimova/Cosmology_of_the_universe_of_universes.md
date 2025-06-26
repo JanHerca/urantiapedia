@@ -265,7 +265,7 @@ quinto, con la sede central de Splanton. Los diez sectores mayores forman nuestr
 > 4. La circulación de la nube estelar local de Nebadon y de sus creaciones asociadas alrededor del centro de la nube Sagitario, que es el centro de nuestro sector menor.
 > 5. La rotación alrededor del centro de su sector mayor de los cien sectores menores, incluyendo Sagitario.
 > 6. El giro de los diez sectores mayores, el así llamado flujo estelar, alrededor de la sede central de Uversa en Orvonton.
-> 7. El movimiento de Orvonton $y$ de los seis superuniversos asociados alrededor del Paraíso y de Havona, la procesión en sentido contrario a las manecillas del reloj. ([LU 15:3.1-14](/es/The_Urantia_Book/15#p3_1)).
+> 7. El movimiento de Orvonton y de los seis superuniversos asociados alrededor del Paraíso y de Havona, la procesión en sentido contrario a las manecillas del reloj. ([LU 15:3.1-14](/es/The_Urantia_Book/15#p3_1)).
 
 La capital de nuestro Superuniverso Uversa debe estar ubicada en el centro de la Vía Láctea. Como la Vía Láctea es el núcleo del Superuniverso Orvonton, y las sedes centrales por las reglas de los arquitectos del Paraíso se construyen en el centro geográfico de la unidad.
 

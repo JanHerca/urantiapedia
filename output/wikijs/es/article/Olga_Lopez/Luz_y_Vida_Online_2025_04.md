@@ -122,7 +122,7 @@ El documento 72 es fuente de muchas ideas útiles para desarrollar sociedades sa
 <img src="/image/article/Luz_y_Vida/LyV_2025_04/El-mundo-de-la-cruz.jpg" alt="El mundo de la cruz" width="250">
 </figure>
 
-[**El mundo de la cruz (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf)
+[**El mundo de la cruz (Carmelo Martínez)**](/es/article/Carmelo_Martinez/El_mundo_de_la_cruz) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf))
 
 En este trabajo, el autor aborda el interesante ejercicio de ubicar los lugares donde se produjo la muerte y resurrección de Jesús de Nazaret tal y como están hoy día, tomando como base las pistas que ofrecen los reveladores en _El libro de Urantia_.
 

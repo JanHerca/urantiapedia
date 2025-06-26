@@ -96,7 +96,7 @@ Como requisito, el director ejecutivo debe aceptar los valores de la Fundación 
 
 ***Compensación Y Beneficios***
 
-Salario base: 75.000-85.000$, dependiendo de su cualificación y experiencia. Se proporcionan excelentes beneficios médicos $y$ de vacaciones.
+Salario base: 75.000-85.000$, dependiendo de su cualificación y experiencia. Se proporcionan excelentes beneficios médicos y de vacaciones.
 
 ***Cómo Presentar La Solicitud***
 

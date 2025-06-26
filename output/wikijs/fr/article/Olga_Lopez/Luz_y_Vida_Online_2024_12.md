@@ -95,7 +95,7 @@ Depuis des siècles, de nombreuses tentatives ont été faites pour imaginer des
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/LU-para-ninos-Oracion.jpg" alt="Educación de los niños" width="250">
 </figure>
 
-[**L'éducation des enfants dans la famille : l'exemple de Jésus (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/12/La-educacion-de-los-ninos-en-la-familia-web.pdf)
+[**L'éducation des enfants dans la famille : l'exemple de Jésus (Olga López)**](/fr/article/Olga_Lopez/La_educación_en_familia_ejemplo_de_Jesus) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/12/La-educacion-de-los-ninos-en-la-familia-web.pdf))
 
 En tant que lecteurs engagés dans les enseignements du livre, nous voulons un guide qui nous aidera à éduquer les enfants dans les enseignements de la cinquième révélation. Bien qu'il n'existe pas de documents spécifiques sur ce sujet, le livre contient ici et là de nombreuses perles de sagesse qui peuvent nous servir et nous inspirer. Dans cette présentation, l’auteur se concentre sur l’exemple que Jésus nous a donné en tant que père-frère de sa famille terrestre, ainsi que sur les enseignements qu’il a offerts concernant l’éducation des enfants et la façon dont il les considérait.
 <br style="clear:both;"/>

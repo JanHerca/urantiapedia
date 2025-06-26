@@ -72,7 +72,7 @@ Mais surtout, cela a valu la peine de pouvoir compter sur tant de lecteurs du _L
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Invitacion-para-leer-en-Navidad.png" alt="Invitación para leer en Navidad" width="250">
 </figure>
 
-[**Invitation à lire à Noël (Pablo Morales)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf)
+[**Invitation à lire à Noël (Pablo Morales)**](/fr/article/Pablo_Morales/Invitacion_a_leer_en_Navidad) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf))
 
 Dans cet ouvrage, l’auteur passe en revue les circonstances avant et après la naissance de Jésus de Nazareth ; Il commence par passer en revue les raisons pour lesquelles la date de naissance «  officielle  » ne correspond pas à celle indiquée dans le livre, et continue avec les événements associés à Noël, comme la supposée étoile de Bethléem. Ensuite, il explique qui était réellement Jésus de Nazareth dans l’organisation de l’univers, en tenant compte de ceux qui l’ont précédé dans ce monde.
 <br style="clear:both;"/>

@@ -96,7 +96,7 @@ This work contains the presentation that Paula gave at a Readers' Meeting in Spa
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Quien-era-Jesus-1.jpg" alt="Jesús de Nazaret" width="250">
 </figure>
 
-[**The figure of Jesus of Nazareth (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf)
+[**The figure of Jesus of Nazareth (L. Coll)**](/en/article/Luis_Coll/La_figura_de_Jesus_de_Nazaret) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf))
 
 This brief work is related to the artistic representations that have been made of Jesus throughout history. Right at the beginning, its author says: “If I had to believe in that type of Jesus as some cartoonists have painted him, that Jesus so sweet, so pretty, so loving, so gentle and so handsome, with a wax face like a Sunday holy card, or that Jesus dressed in gold and jewels who only seems to bless the rich, or that type of Jesus with the face of a vagabond, if I had to believe in that type of Jesus I would have become an atheist a long time ago.”
 <br style="clear:both;"/>

@@ -79,7 +79,7 @@ Mirando a nuestro alrededor nos quejamos o, cuando menos, nos sorprendemos de qu
 
 Es decir, la conclusión que sí parece demostrada es que podemos vivir (hay personas que lo hacen) una vida plena y feliz, al menos hasta el límite de sus propias exigencias, al margen de que, para ellos, Dios exista o no.
 
-Su conclusión es clara: puesto que no lo necesitan $y$, como nadie puede demostrarme su existencia, no debe de existir...o al menos «yo» no lo necesito.
+Su conclusión es clara: puesto que no lo necesitan y, como nadie puede demostrarme su existencia, no debe de existir...o al menos «yo» no lo necesito.
 
 Precisamente que esto sea posible es el no va más, la demostración de que el Padre Universal nos ha dotado realmente de libre albedrío, frente a la cuestión más importante y relevante para nuestro futuro, que no es otra que la decisión de sobrevivir.
 

@@ -33,7 +33,7 @@ Como representantes diversificados del ACTOR CONJUNTO, los Espíritus Supremos s
 
 El nivel de la Deidad de la Supremacía se puede concebir como una realidad de actividad relacionada con las existencias finitas. Las realidades finitas pueden no tener un final pero siempre tienen un principio. Las criaturas están limitadas por el espacio y el tiempo, son creadas.
 
-La Deidad puede personalizarse como Dios, $y$ puede ser prepersonal $y$ superpersonal.
+La Deidad puede personalizarse como Dios, y puede ser prepersonal y superpersonal.
 
 La Deidad es todo aquello que es divino y que se caracteriza por la unidad.
 

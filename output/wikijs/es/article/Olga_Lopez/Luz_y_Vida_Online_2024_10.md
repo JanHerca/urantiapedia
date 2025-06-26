@@ -96,7 +96,7 @@ Este trabajo contiene la presentación que dio Paula en un Encuentro de lectores
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Quien-era-Jesus-1.jpg" alt="Jesús de Nazaret" width="250">
 </figure>
 
-[**La figura de Jesús de Nazaret (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf)
+[**La figura de Jesús de Nazaret (L. Coll)**](/es/article/Luis_Coll/La_figura_de_Jesus_de_Nazaret) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf))
 
 Este breve trabajo está relacionado con las representaciones artísticas que se han hecho de Jesús a lo largo de la historia. Justamente al principio, su autor dice: «Si yo tuviese que creer en ese tipo de Jesús tal como lo han pintado algunos dibujantes, ese Jesús tan dulce, tan bonito, tan amoroso, tan suave y tan guapetón, con cara de cera tipo estampita dominical, o ese Jesús vestido de oro y joyas que solo parece bendecir a los ricos, o ese tipo de Jesús con cara de vagabundo, si yo tuviese que creer en ese tipo de Jesus ya haría tiempo que me habría vuelto ateo».
 <br style="clear:both;"/>

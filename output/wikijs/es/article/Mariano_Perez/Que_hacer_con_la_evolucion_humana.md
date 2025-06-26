@@ -37,7 +37,7 @@ En esta, mi segunda charla virtual en la sala cedida por nuestros hermanos de Br
 
 Este es un asunto que, al ser tratado en _El libro de Urantia_, ha provocado muchas controversias. Yo diría, sin miedo a equivocarme, que es uno de los asuntos de los que nos hablan nuestros reveladores, a través de esta quinta revelación, que más _ampollas_ levantan, dentro de los que lo han leído, y que ha hecho incluso que algunos lectores, creyentes en Dios y que aceptan de buen grado en general las explicaciones y enseñanzas de _El libro de Urantia_, se hayan alejado de él y hayan incluso rechazado esta maravillosa revelación. Y a otros lectores que, aunque no hayan rechazado la quinta revelación en su conjunto, sí les crea muchas dudas e incertidumbres. Desde luego que, para los que están en contra o no aceptan _El libro de Urantia_ como una revelación, este es uno de los temas a los que se aferran para difamar al libro en su conjunto.
 
-Es verdad que no deja de ser un tema delicado éste de la evolución biológica de la raza humana, pero sinceramente creo que en muchos casos no ha sido bien comprendido $y$ hay que contextualizar las frases que hablan de ello, y no llevarlo a la literalidad absoluta de las palabras.
+Es verdad que no deja de ser un tema delicado éste de la evolución biológica de la raza humana, pero sinceramente creo que en muchos casos no ha sido bien comprendido y hay que contextualizar las frases que hablan de ello, y no llevarlo a la literalidad absoluta de las palabras.
 
 Sabedor de esta problemática, es por lo que me he animado a profundizar sobre el tema, con mente abierta y espíritu crítico. Para ello, voy a describir el camino, los pasos, que llevaré a cabo en mi charla/conferencia.
 

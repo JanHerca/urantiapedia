@@ -95,7 +95,7 @@ Durante siglos, muchos han sido los intentos de imaginar sociedades perfectas do
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/LU-para-ninos-Oracion.jpg" alt="Educación de los niños" width="250">
 </figure>
 
-[**La educación de los niños en la familia: el ejemplo de Jesús (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/12/La-educacion-de-los-ninos-en-la-familia-web.pdf)
+[**La educación de los niños en la familia: el ejemplo de Jesús (Olga López)**](/es/article/Olga_Lopez/La_educación_en_familia_ejemplo_de_Jesus) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/12/La-educacion-de-los-ninos-en-la-familia-web.pdf))
 
 Como lectores comprometidos con las enseñanzas del libro, queremos una guía que nos sirva para educar a los niños en las enseñanzas de la quinta revelación. Aunque no hay documentos específicos sobre este particular, el libro contiene muchas perlas de sabiduría aquí y allí que nos pueden servir e inspirar. En esta presentación, la autora se centra en el ejemplo que Jesús nos dio como padre-hermano de su familia terrenal, y también en las enseñanzas que ofreció respecto a la educación de los niños y en cómo los consideraba.
 <br style="clear:both;"/>

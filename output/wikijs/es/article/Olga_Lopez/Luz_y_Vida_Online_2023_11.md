@@ -72,7 +72,7 @@ Pero sobre todo ha merecido la pena poder contar con tantos lectores de _El libr
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Invitacion-para-leer-en-Navidad.png" alt="Invitación para leer en Navidad" width="250">
 </figure>
 
-[**Invitación a leer en Navidad (Pablo Morales)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf)
+[**Invitación a leer en Navidad (Pablo Morales)**](/es/article/Pablo_Morales/Invitacion_a_leer_en_Navidad) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/Invitacio%CC%81n-a-Leer-en-Navidad.pdf))
 
 En este trabajo, el autor hace un recorrido por las circunstancias previas y posteriores del nacimiento de Jesús de Nazaret; comienza por repasar los motivos por los que la fecha de nacimiento «oficial» no se ajusta a la que se indica en el libro, y sigue con los eventos asociados con la navidad, como por ejemplo la supuesta estrella de Belén. A continuación explica quién era realmente Jesús de Nazaret en la organización del universo, teniendo en cuenta quiénes le precedieron en este mundo.
 <br style="clear:both;"/>

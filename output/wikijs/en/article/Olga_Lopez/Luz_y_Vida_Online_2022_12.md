@@ -97,7 +97,7 @@ In _The Urantia Book_, Monmatia (our solar system) is said to have twelve planet
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="The bestowals of Christ Michael" width="250">
 </figure>
 
-[**The bestowals of Christ Michael (Javier Martínez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf)
+[**The bestowals of Christ Michael (Javier Martínez)**](/en/article/Javier_Martinez/Los_otorgamientos_de_Cristo_Miguel) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf))
 
 Here we have a diagram in the form of a table where the most outstanding characteristics of the seven bestowals carried out by Miguel de Nebadon, our Creator Son, appear, such as: the moment of time in which they were produced, the place, the duration, the type of being in which it was granted, who or who found out about the granting, the position held, to what will it was submitted, etc. It is very useful to have an overview of the grants, and also to perceive the differences between them.
 <br style="clear:both" />

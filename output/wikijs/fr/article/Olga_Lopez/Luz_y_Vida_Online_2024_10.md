@@ -96,7 +96,7 @@ Cet ouvrage contient la présentation que Paula a donnée lors d'une réunion de
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Quien-era-Jesus-1.jpg" alt="Jesús de Nazaret" width="250">
 </figure>
 
-[**La figure de Jésus de Nazareth (L. Coll)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf)
+[**La figure de Jésus de Nazareth (L. Coll)**](/fr/article/Luis_Coll/La_figura_de_Jesus_de_Nazaret) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/01/La-figura-de-Jes%C3%BAs-de-Nazaret.pdf))
 
 Cette brève œuvre est liée aux représentations artistiques qui ont été faites de Jésus à travers l’histoire. Dès le début, son auteur dit : « Si je devais croire à ce type de Jésus tel que certains dessinateurs l'ont peint, ce Jésus si doux, si joli, si aimant, si gentil et si beau, avec un visage de cire comme un carte sainte, dimanche, ou ce Jésus habillé d'or et de bijoux qui ne semble bénir que les riches, ou ce type de Jésus avec le visage d'un vagabond, si j'avais dû croire à ce type de Jésus je serais devenu athée Il y a longtemps.
 <br style="clear:both;"/>

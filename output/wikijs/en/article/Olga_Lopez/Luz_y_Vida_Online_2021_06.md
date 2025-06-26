@@ -134,7 +134,7 @@ Document 72 is the source of many useful ideas for developing healthy societies 
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="The world of the cross" width="250">
 </figure>
 
-[**The world of the cross (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf)
+[**The world of the cross (Carmelo Martínez)**](/en/article/Carmelo_Martinez/El_mundo_de_la_cruz) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf))
 
 In this work, the author addresses the interesting exercise of locating the places where the death and resurrection of Jesus of Nazareth occurred as they are today, based on the clues offered by the revelators in _The Urantia Book_.
 

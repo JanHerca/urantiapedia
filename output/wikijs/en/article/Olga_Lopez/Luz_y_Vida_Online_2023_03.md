@@ -108,7 +108,7 @@ The author begins his article with a reflection and a question, which is precise
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="The Twelve Apostles" width="250">
 </figure>
 
-[**The Twelve Apostles (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf)
+[**The Twelve Apostles (Javier Martínez)**](/en/article/Javier_Martinez/Los_doce_apostoles) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf))
 
 This presentation by the author begins by making a “file” of each one of the apostles (outlining what _The Urantia Book_ presents us written in a systematic and exhaustive manner), in which all the information provided by document 139 appears. By the way, a document in which Dr. Sadler, as a psychiatrist, was certain that the Urantia documents were authentic, given their richness in the description of each one of those human types so different and at the same time so united in a spiritual goal common. In this work you will even find a graph with the ages of the apostles when they began their ministry with Jesus.
 <br style="clear:both" />

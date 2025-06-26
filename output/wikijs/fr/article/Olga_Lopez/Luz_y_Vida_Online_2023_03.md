@@ -107,7 +107,7 @@ L'auteur commence son article par une réflexion et une question, qui est préci
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles" width="250">
 </figure>
 
-[**Les douze apôtres (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf)
+[**Les douze apôtres (Javier Martínez)**](/fr/article/Javier_Martinez/Los_doce_apostoles) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf))
 
 Cette présentation de l'auteur commence par réaliser un « dossier » de chacun des apôtres (schématisant ce que _Le Livre d'Urantia_ nous présente écrit de manière systématique et exhaustive), dans lequel figure toutes les informations fournies par le document 139. un document dans lequel le Dr Sadler, en tant que psychiatre, était certain que les Cahiers d'Urantia étaient authentiques, compte tenu de leur richesse dans la description de chacun de ces types humains, si différents et en même temps si unis dans un but spirituel commun. Dans cet ouvrage, vous trouverez même un graphique avec l'âge des apôtres lorsqu'ils ont commencé leur ministère avec Jésus.
 <br style="clear:both" />
