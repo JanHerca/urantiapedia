@@ -26,6 +26,10 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
+## ¿Cómo está hecha esta cronología?
+
+Está enteramente guiada por una lectura y análisis del _Libro de Urantia_. El libro da muchos datos cronológicos, tanto fechas exactas como aproximaciones, sobre los momentos en que ocurrieron los eventos más dignos de recordarse de la vida de Jesús. Todo dato cronológico que ofrece el libro se ha registrado aquí. En cuanto a algunas fechas o momentos de determinados sucesos han sido escogidas según criterios propios. Simplemente buscan situar en el calendario estos acontecimientos, y no pretenden ser rigurosos. De cualquier modo, todos los sucesos mencionados están extraidos del libro. Los años de la vida de Jesús se indican según la era corriente, y entre paréntesis la edad que cumplía Jesús ese año. El calendario usado es el actual de 365 días el año y bisiesto cada 4 años. 
+
 ## AÑO 9 a. de J.C.
 
 <a name="Ene_09a"></a> **ENERO**
@@ -683,7 +687,7 @@ José es promovido en su trabajo a capataz de un grupo de obreros que trabajaban
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    | 
+| 29 | 30 | 31 |    |    |    |    |
 
 <a name="Feb_04a"></a> **FEBRERO**
 
@@ -1988,7 +1992,7 @@ A mediados, Jesús acompaña a José en un viaje de trabajo; van a Scythópolis,
 
 ## AÑO 7 d. de J.C. (13 años)
 
-   Notas: Ese año ocurrirían muchas más cosas. Primero, antes de ir a Jerusalén Jesús conoce a alguien, que primero pensó que era un hombre y resultó ser un ángel. Los primeros días sólo habla con él de cosas sin importancia, pero un buen día le da una noticia. De ahí su decisión de quedarse en Jerusalén. Además, en plena fiesta de la Pascua recibe un mensajero de Emanuel, aunque Jesús confunde el mensaje. A mediados de Julio tiene otra aparición, esta vez de otro ángel.
+Notas: Ese año ocurrirían muchas más cosas. Primero, antes de ir a Jerusalén Jesús conoce a alguien, que primero pensó que era un hombre y resultó ser un ángel. Los primeros días sólo habla con él de cosas sin importancia, pero un buen día le da una noticia. De ahí su decisión de quedarse en Jerusalén. Además, en plena fiesta de la Pascua recibe un mensajero de Emanuel, aunque Jesús confunde el mensaje. A mediados de Julio tiene otra aparición, esta vez de otro ángel.
 
 <a name="Jan_07"></a> **ENERO**
 
@@ -2290,6 +2294,7 @@ Nota: Este año el joven Juan, el hijo de Zacarías e Isabel, tomó los votos na
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
+
 17, Nace Ruth, «la pequeña ardilla», hija póstuma de José.
 
 <a name="May_09"></a> **MAYO**
@@ -2790,7 +2795,7 @@ Llegan de visita Isabel y Juan. Los dos amigos, que hacía años que no se veía
 
 Notas: Jesús dirige varias veces la sinagoga en la lectura del sábado siempre que no haya alguien para hacerlo en la aldea. El antiguo chazán de la escuela y amigo de Jesús forma un grupo de jóvenes que se reúne para tratar de temas de filosofía. Jesús comparte experiencias con este grupo de amigos, y se vuelve el líder de este grupo. Sin saberlo, el joven Jesús causa admiración entre las chicas jóvenes de la aldea.
 
-[Juan (el Bautista), rehusó aceptar el estipendio del sacerdocio que se le adeudaba a su padre; dos años después tuvo que ponerse a trabajar porque estaban arruinados.]
+Juan (el Bautista), rehusó aceptar el estipendio del sacerdocio que se le adeudaba a su padre; dos años después tuvo que ponerse a trabajar porque estaban arruinados.
 
 ## AÑO 13 d. de J.C. (19 años)
 
@@ -2999,7 +3004,7 @@ Jesús viaja a Betania por la pascua y la pasa en casa de Lázaro. La madre de s
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-[Juan (el Bautista) se traslada de Ciudad de Judá a Hebrón. Vive como pastor de la cría de ovejas y de los fonfos de la congregación de En-Gedi, a la cual comienza a frecuentar más que a Hebrón.]
+Juan (el Bautista) se traslada de Ciudad de Judá a Hebrón. Vive como pastor de la cría de ovejas y de los fonfos de la congregación de En-Gedi, a la cual comienza a frecuentar más que a Hebrón.
 
 <a name="Aug_14"></a> **AGOSTO**
 
@@ -3284,6 +3289,8 @@ Reunión familiar. Jesús cede la jefatura de la casa a su hermano Santiago y ma
 
 <a name="Oct_16"></a> **OCTUBRE**
 
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
@@ -4381,6 +4388,8 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 
 ## El período público
 
+<div class="urantiapedia-table-wrapper">
+
 | &nbsp; | AÑO 25 | AÑO 26 | AÑO 27 | AÑO 28 | AÑO 29 | AÑO 30 |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | E      |        | Bautismo + Cuarenta días en el desierto | Ordenación de los apóstoles | Cuatro días memorables en Cafarnaúm | Descanso de la predicación | En Pella |
@@ -4395,6 +4404,8 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 | O      | Período de espera | ^^ | ^^ | ^^ | 2ª gira predicac. en Galilea | Fiesta de los Tabernáculos en Jerusalén |   |
 | N      | ^^ | ^^ | Por la Decápolis | ^^ | Ordenación de los 70 en Magadán |   |
 | D      | ^^ | ^^ | En Pella | ^^ | Campamento en Pella <br> Fiesta de la Consagración |   |
+
+</div>
 
 ## AÑO 25 d. de J.C. (31 años)
 
@@ -4428,7 +4439,7 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-[Juan parte de En-Gedi para comenzar su carrera como predicador público. Se dirige por la costa del Mar de la Sal hasta el vado del Jordán cerca de Jericó. Desde allí comenzó a predicar. Permaneció allí por cuatro meses.]
+Juan parte de En-Gedi para comenzar su carrera como predicador público. Se dirige por la costa del Mar de la Sal hasta el vado del Jordán cerca de Jericó. Desde allí comenzó a predicar. Permaneció allí por cuatro meses.
 
 <a name="Apr_25"></a> **ABRIL**
 
@@ -4453,7 +4464,7 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-[Llega una delegación de levitas a Betabara para preguntar a Juan]
+Llega una delegación de levitas a Betabara para preguntar a Juan.
 
 <a name="Jun_25"></a> **JUNIO**
 
@@ -4467,7 +4478,7 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 
 28, Jesús abandona Antioquía y se emprende a realizar un viaje para conocer mejor su tierra Palestina, en previsión de su futura misión, gastando así el dinero que había ganado en Antioquía. Durante este mes viajó hacia el sur y luego regresando al norte haciendo escala en pueblos o ciudades por los que pasaba del siguiente recorrido: Antioquía - Sidón (1 Julio)-
 
-[Juan comienza a remontar el cauce del Jordán hacia el norte. Empieza a cobrar fama y miles de seguidores avanzan con él, siguiendo su predicación.]
+Juan comienza a remontar el cauce del Jordán hacia el norte. Empieza a cobrar fama y miles de seguidores avanzan con él, siguiendo su predicación.
 
 <a name="Jul_25"></a> **JULIO**
 
@@ -4506,7 +4517,7 @@ Beerot - Lebona - Sicar - Siquem - Samaría - Geba - En-Ganim - Endor - Madón -
 
 22 Aparición de Satanás y Caligastia, la prueba cósmica; 23, Jesús regresa a Capernaum desde el Hermón   
 
-[Juan comienza a hablar de Jesús («alguien que viene tras de mí») en Adam.]
+Juan comienza a hablar de Jesús («alguien que viene tras de mí») en Adam.
 
 <a name="Oct_25"></a> **OCTUBRE**
 
@@ -5252,6 +5263,8 @@ A fines de mes se trasladaron Jesús y los veinticuatro hacia Pella, acampando c
 ## Enlaces externos
 
 * [Artículo original: Cronología de la vida de Jesús según El Libro de Urantia, en PDF](https://buscandoajesus.wordpress.com/descargas/)
+* [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
+* [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

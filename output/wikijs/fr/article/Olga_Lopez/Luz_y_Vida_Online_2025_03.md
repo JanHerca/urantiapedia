@@ -100,7 +100,7 @@ Combien de fois avons-nous pensé à convaincre les autres de l’existence de D
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/ElescribadeDamasco.jpg" alt="Le Scribe de Damas" width="250">
 </figure>
 
-[**Le Scribe de Damas (Demetrius Gomez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
+[**Le Scribe de Damas (Demetrius Gomez)**](/fr/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf))
 
 Dans cet ouvrage, présenté à l'une des Rencontres Nationales de l'Association Urantia d'Espagne, Demetrio (également diplômé de ce monde) revient sur la partie de la vie de Jésus qui est détaillée dans _Le Livre d'Urantia_ mais qui n'apparaît pas dans les évangiles : le voyage à travers l'Empire romain que Jésus fit avec Gonod et Ganid, un riche homme d'affaires indien et son fils adolescent. Il s’agit d’une période de la vie de Jésus qui mérite une étude approfondie, car elle fut bien plus qu’un prélude à la vie publique du Maître.
 

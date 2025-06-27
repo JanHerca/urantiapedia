@@ -102,7 +102,7 @@ Here is another scheme, this time in the form of a table, which also helps us to
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Chronology of the life of Jesus according to UB" width="250">
 </figure>
 
-[**Chronology of the life of Jesus according to _The Urantia Book_ (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
+[**Chronology of the life of Jesus according to _The Urantia Book_ (Jan Herca)**](/en/article/Jan_Herca/Chronology) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf))
 
 Many chronologies of the life of Jesus have been made according to what is told in the book, but this is one of the most exhaustive and complete. In the author's words, «every chronological data offered by the book has been recorded here. As for some dates or moments of certain events, they have been chosen according to their own criteria. They simply seek to place these events on the calendar, and do not claim to be rigorous. In any case, all the events mentioned are taken from the book. Its peculiarity is that a calendar for each year appears to the left of each milestone in the life of Jesus.
 <br style="clear:both" />

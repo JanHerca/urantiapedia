@@ -109,7 +109,7 @@ Bill Sadler, hijo del Dr. Sadler, tenía la extraordinaria habilidad de explicar
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Navegando-por-la-vida-Se-busca.jpg" alt="El reino de los cielos" width="250">
 </figure>
 
-[**El reino de los cielos en el siglo XXI (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-reino-de-los-cielos-en-el-siglo-XXI.pdf)
+[**El reino de los cielos en el siglo XXI (Olga López)**](/es/article/Olga_Lopez/El_reino_de_los_cielos_en_el_siglo_XXI) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-reino-de-los-cielos-en-el-siglo-XXI.pdf))
 
 Este trabajo fue escrito como presentación en una sala virtual, pensando en que el día de la presentación era justamente el Domingo de Resurrección. En una reivindicación del mensaje optimista de la resurrección y de la religión de Jesús frente al hecho de la crucifixión y de la religión sobre Jesús, respectivamente, la autora hace un repaso sobre el concepto clave del mensaje que Jesús vino a transmitirnos: el reino de los cielos. Para ello, desarrolla cuál fue el origen del concepto del reino, cómo fue evolucionando durante la vida pública de Jesús y en el cristianismo posterior, y cuál puede ser el futuro de su puesta en práctica, a la luz de las enseñanzas de _El libro de Urantia_.
 <br style="clear:both;"/>

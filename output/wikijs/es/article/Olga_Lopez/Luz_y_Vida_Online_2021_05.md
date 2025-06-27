@@ -116,7 +116,7 @@ En este extenso trabajo, Carmelo Martínez (ya graduado de este mundo) trata sob
 <img src="/image/article/Luz_y_Vida/LyV_2021_05/ElescribadeDamasco.jpg" alt="El escriba de Damasco" width="250">
 </figure>
 
-[El escriba de Damasco (Demetrio Gómez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
+[El escriba de Damasco (Demetrio Gómez)](/es/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf))
 
 En este trabajo, que se expuso en uno de los Encuentros nacionales de la Asociación Urantia de España, Demetrio hace un repaso por la parte de la vida de Jesús que se detalla en _El Libro de Urantia_ pero que no aparece en los evangelios: el viaje por el imperio romano que hizo Jesús junto con Gonod y Ganid, un rico hombre de negocios de la India y su hijo adolescente. Esta es una época de la vida de Jesús que merece la pena estudiar en profundidad, pues fue mucho más que el preludio a la vida pública del Maestro.
 

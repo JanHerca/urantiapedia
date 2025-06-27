@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-[_NDLR : en raison de la longueur de cet article, ce qui apparaît ici est un résumé. Vous pouvez lire l'article complet dans la rubrique « Travaux », « quatrième partie »_ : http://urantia.es/node/49.]
+[_NDLR : en raison de la longueur de cet article, ce qui apparaît ici est un résumé. Vous pouvez lire l'article complet ici dans [Urantiapedia](/fr/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) et dans le [site web de l'Association espagnole, section « Travails », « quatrième partie »](https://aue.urantia-association.org/cuarta-parte/)_.]
 
 Au premier siècle de notre ère, Yahshua ben Yossef, le charpentier de Nazareth, consacra une partie de sa 28e année et la totalité de sa 29e année à couvrir la quasi-totalité du bassin méditerranéen de l'Empire romain. Ce fut une période fascinante de sa vie. Peut-être l'aventure la plus captivante de votre expérience humaine. Et pour de nombreuses raisons, à cette époque, il était connu sous le nom de « LE SCRIBE DE DAMAS ».
 

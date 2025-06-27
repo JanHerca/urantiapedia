@@ -99,7 +99,7 @@ How many times have we thought about convincing others of the existence of God? 
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/ElescribadeDamasco.jpg" alt="The scribe of Damascus" width="250">
 </figure>
 
-[**The Scribe of Damascus (Demetrius Gomez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
+[**The Scribe of Damascus (Demetrius Gomez)**](/en/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf))
 
 In this work, which was presented at one of the National Meetings of the Urantia Association of Spain, Demetrio (also a graduate of this world) reviews the part of Jesus' life detailed in The Urantia Book but not included in the Gospels: the journey through the Roman Empire that Jesus made with Gonod and Ganid, a wealthy businessman from India and his teenage son. This is a period in Jesus' life that deserves in-depth study, as it was much more than a prelude to the Master's public life.
 

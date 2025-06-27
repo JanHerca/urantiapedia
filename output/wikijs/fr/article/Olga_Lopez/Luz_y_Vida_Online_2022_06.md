@@ -127,7 +127,7 @@ Dans un autre ouvrage de Halbert Katzen consacré à la comparaison des déclara
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Jesus-y-las-mujeres.jpg" alt="Jesús y las mujeres" width="250">
 </figure>
 
-[**Jésus et les femmes (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/Jes%C3%BAs-y-las-mujeres.pdf)
+[**Jésus et les femmes (Olga López)**](/fr/article/Olga_Lopez/Jesus_y_las_mujeres) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/Jes%C3%BAs-y-las-mujeres.pdf))
 
 Selon les mots de l'auteur : « À la lumière des enseignements du _Livre d'Urantia_, nous trouvons un Jésus plus proche et encore plus puissant que celui qui apparaît dans les évangiles. Et il y a un aspect de sa vie qui n'est normalement pas souligné, et c'est justement son attitude envers les femmes (…) Dans cette présentation, nous allons aborder cette facette intéressante du Maître. Dans un premier temps, nous verrons comment il se comportait envers les femmes de sa propre famille et, dans un deuxième temps, quelle était son attitude envers les femmes en général.
 <br style="clear:both" />

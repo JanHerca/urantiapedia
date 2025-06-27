@@ -109,7 +109,7 @@ Although the science that appears in _The Urantia Book_ is very restricted to kn
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Semilla-de-mostaza.png" alt="mustard seed" width="250">
 </figure>
 
-[**Reflections on the parable of the mustard seed (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
+[**Reflections on the parable of the mustard seed (Olga López)**](/en/article/Olga_Lopez/Reflexiones_sobre_la_parabola_de_la_semilla_de_mostaza) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf))
 
 In the words of the author: «The parables of Jesus do not have a single interpretation, but serve to evoke in us images and elevated ideas, and help us to discern the way to progress spiritually... The parable of the mustard seed is one of the best known that Jesus used when referring to the development of the kingdom of heaven in the hearts of men. Precisely to delve into the meanings that this parable evokes for us, the author goes through all the references that we can find in the fourth part of _The Urantia Book_ and reviews the statements that are linked to the comparison of the kingdom of heaven with the mustard seed. Because “The mustard seed is truly the smallest of all seeds, but when it has grown it is the largest of vegetables, and becomes a tree.” <a id="a113_770"></a>[UB 151:4.2](/en/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />

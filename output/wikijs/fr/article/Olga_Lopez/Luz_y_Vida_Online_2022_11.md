@@ -101,7 +101,7 @@ Voici un autre schéma, cette fois sous forme de tableau, qui nous aide égaleme
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Cronología de la vida de Jesús según el LU" width="250">
 </figure>
 
-[**Chronologie de la vie de Jésus selon _Le Livre d'Urantia_ (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
+[**Chronologie de la vie de Jésus selon _Le Livre d'Urantia_ (Jan Herca)**](/fr/article/Jan_Herca/Chronology) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf))
 
 De nombreuses chronologies ont été faites de la vie de Jésus selon ce qui est raconté dans le livre, mais celle-ci est l'une des plus exhaustives et des plus complètes. Selon les mots de l'auteur, « toutes les données chronologiques proposées par le livre ont été enregistrées ici. Quant à certaines dates ou moments de certains événements, ils ont été choisis selon leurs propres critères. Ils cherchent simplement à inscrire ces événements sur le calendrier, et ne prétendent pas à la rigueur. Quoi qu’il en soit, tous les événements évoqués sont tirés du livre. Sa particularité est qu'un calendrier pour chaque année apparaît à gauche de chaque étape de la vie de Jésus.
 <br style="clear:both" />

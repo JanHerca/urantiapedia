@@ -109,7 +109,7 @@ Bill Sadler, son of Dr. Sadler, had the uncanny ability to explain very complex 
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Navegando-por-la-vida-Se-busca.jpg" alt="El reino de los cielos" width="250">
 </figure>
 
-[**The Kingdom of Heaven in the 21st Century (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-reino-de-los-cielos-en-el-siglo-XXI.pdf)
+[**The Kingdom of Heaven in the 21st Century (Olga López)**](/en/article/Olga_Lopez/El_reino_de_los_cielos_en_el_siglo_XXI) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-reino-de-los-cielos-en-el-siglo-XXI.pdf))
 
 This work was written as a presentation in a virtual room, considering that the day of the presentation was precisely Easter Sunday. In a vindication of the optimistic message of the resurrection and the religion of Jesus in the face of the fact of the crucifixion and the religion about Jesus, respectively, the author reviews the key concept of the message that Jesus came to transmit to us: the kingdom of heaven. To do so, she develops what was the origin of the concept of the kingdom, how it evolved during the public life of Jesus and in later Christianity, and what the future of its implementation may be, in light of the teachings of _The Urantia Book_.
 <br style="clear:both;"/>

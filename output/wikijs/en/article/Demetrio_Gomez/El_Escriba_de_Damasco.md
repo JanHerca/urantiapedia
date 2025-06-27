@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-[_Editor's note: Due to the length of this article, what appears here is a summary. You can read the full article in the “Works” section, “fourth part”_: http://urantia.es/node/49.]
+[_Editor's note: Due to the length of this article, what appears here is a summary. You can read the full article here in [Urantiapedia](/en/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) and in the [Spanish Association website, “Works” section, “fourth part”](https://aue.urantia-association.org/cuarta-parte/)_.]
 
 In the 1st century C.E., Yahshua ben Yosef, the carpenter of Nazareth, spent part of his 28th year and all of his 29th year touring nearly the entire Mediterranean basin area of the Roman Empire. This was a fascinating period of his life. Possibly the most captivating adventure of your human experience. And for many reasons at that time, he was known as “THE SCRIBE OF DAMASCUS.”
 

@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-[_Nota de la redacción: debido a la extensión de este artículo, lo que aparece aqui es un resumen. Podéis leer el artículo completo en la sección «Trabajos», «cuarta parte»_: http://urantia.es/node/49.]
+[_Nota de la redacción: debido a la extensión de este artículo, lo que aparece aqui es un resumen. Podéis leer el artículo completo aquí en [Urantiapedia](/es/article/Demetrio_Gomez/El_Escriba_de_Damasco_completo) y en la [página de la Asociación, “Trabajos”, “Cuarta parte”](https://aue.urantia-association.org/cuarta-parte/)_.]
 
 En el siglo I E.C., Yahshúa ben Yosef, el carpintero de Nazaret, dedicó parte de su año 28 y todo su año 29 a recorrer casi toda la zona de la cuenca mediterránea del Imperio Romano. Este fue un periodo fascinante de su vida. Posiblemente, la más cautivadora aventura de su experiencia humana. Y por muchas razones en aquel tiempo, fue conocido como «EL ESCRIBA DE DAMASCO».
 

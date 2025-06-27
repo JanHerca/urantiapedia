@@ -107,7 +107,7 @@ A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restrin
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Semilla-de-mostaza.png" alt="Semilla de mostaza" width="250">
 </figure>
 
-[**Reflexiones sobre la parábola de la semilla de mostaza (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
+[**Reflexiones sobre la parábola de la semilla de mostaza (Olga López)**](/es/article/Olga_Lopez/Reflexiones_sobre_la_parabola_de_la_semilla_de_mostaza) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf))
 
 En palabras de la autora: «Las parábolas de Jesús no tienen una interpretación única, sino que sirven para evocar en nosotros imágenes e ideas elevadas, y nos ayudan a discernir la manera de progresar espiritualmente… La parábola del grano de mostaza es una de las más conocidas que utilizó Jesús al referirse al desarrollo del reino de los cielos en el corazón de los hombres». Precisamente para profundizar en los significados que nos evoca esta parábola, la autora recorre todas las referencias que podemos encontrar en la cuarta parte de _El Libro de Urantia_ y hace un repaso de las afirmaciones que van vinculadas a la comparación del reino de los cielos con la semilla de mostaza. Porque «La semilla de mostaza es en verdad la más pequeña de todas las simientes, pero cuando ha crecido es la mayor de las hortalizas, y se hace árbol». <a id="a111_842"></a>[LU 151:4.2](/es/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />

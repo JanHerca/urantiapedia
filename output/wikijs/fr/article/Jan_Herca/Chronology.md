@@ -1,5 +1,5 @@
 ---
-title: "Chronology of the Life of Jesus in The Urantia Book"
+title: "Chronologie de la vie de Jésus selon Le Livre d'Urantia"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/fr/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -16,8 +16,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
@@ -26,15 +26,15 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-## How is this chronology compiled?
+## Comment cette chronologie est-elle établie ?
 
-It is entirely guided by a reading and analysis of The Urantia Book. The book provides extensive chronological data, both exact and approximate, regarding the moments in which the most memorable events of Jesus' life occurred. All chronological data provided in the book has been recorded here. Some dates or moments of specific events have been chosen according to their own criteria. They simply seek to place these events on the calendar and do not claim to be rigorous. In any case, all the events mentioned are taken from the book. The years of Jesus' life are indicated according to the current era, with Jesus' age that year indicated in parentheses. The calendar used is the current one, with 365 days a year and a leap year every 4 years.
+Elle est entièrement guidée par la lecture et l'analyse du Livre d'Urantia. Ce livre fournit des données chronologiques détaillées, exactes et approximatives, concernant les moments où se sont produits les événements les plus mémorables de la vie de Jésus. Toutes les données chronologiques fournies dans le livre ont été consignées ici. Certaines dates ou moments d'événements spécifiques ont été choisis selon des critères propres. Ils cherchent simplement à situer ces événements dans le calendrier et ne prétendent pas à la rigueur. Quoi qu'il en soit, tous les événements mentionnés sont tirés du livre. Les années de la vie de Jésus sont indiquées selon l'ère actuelle, l'âge de Jésus cette année-là étant indiqué entre parenthèses. Le calendrier utilisé est le calendrier actuel, avec 365 jours par an et une année bissextile tous les 4 ans.
 
-## YEAR 9 BC
+## AN 9 av. J.-C.
 
-<a name="Ene_09a"></a> **JANUARY**
+<a name="Ene_09a"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -42,9 +42,9 @@ It is entirely guided by a reading and analysis of The Urantia Book. The book pr
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Feb_09a"></a> **FEBRUARY**
+<a name="Feb_09a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -52,11 +52,11 @@ It is entirely guided by a reading and analysis of The Urantia Book. The book pr
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 |    |    |    |
 
-At the beginning of the month, several seraphim appear before Ardnon, the priest of Ur of Chaldea; two weeks later, he speaks with several of his beloved colleagues.
+Au début, plusieurs séraphins se présentent devant Ardnon, le prêtre d'Ur en Chaldée ; deux semaines plus tard, il parle avec plusieurs de ses chers collègues.
 
-<a name="Mar_09a"></a> **MARCH**
+<a name="Mar_09a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -64,9 +64,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Apr_09a"></a> **APRIL**
+<a name="Apr_09a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -74,9 +74,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="May_09a"></a> **MAY**
+<a name="May_09a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -84,9 +84,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_09a"></a> **JUNE**
+<a name="Jun_09a"></a> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -94,9 +94,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Jul_09a"></a> **JULY**
+<a name="Jul_09a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -104,9 +104,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_09a"></a> **AUGUST**
+<a name="Aug_09a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -114,20 +114,20 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Sep_09a"></a> **SEPTEMBER**
+<a name="Sep_09a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    |    |    |  1 |
+|    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Oct_09a"></a> **OCTOBER**
+<a name="Oct_09a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -135,9 +135,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Nov_09a"></a> **NOVEMBER**
+<a name="Nov_09a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -145,9 +145,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Dec_09a"></a> **DECEMBER**
+<a name="Dec_09a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -156,11 +156,11 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-## YEAR 8 BC
+## ANNÉE 8 a. de J.C.
 
-<a name="Jan_08a"></a> **JANUARY**
+<a name="Jan_08"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -168,9 +168,9 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_08a"></a> **FEBRUARY**
+<a name="Feb_08a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -178,11 +178,11 @@ At the beginning of the month, several seraphim appear before Ardnon, the priest
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 |    |    |
 
-At the beginning of the month, the three priests who were companions of Ardnon began their journey to Judea from Ur.
+Dans un premier temps, les trois prêtres qui sont les compagnons d'Ardnon commencent leur voyage vers la Judée depuis Ur.
 
-<a name="Mar_08a"></a> **MARCH**
+<a name="Mar_08a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -191,11 +191,11 @@ At the beginning of the month, the three priests who were companions of Ardnon b
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-Esponsales de José y María
+Les fiançailles de Joseph et Marie
 
-<a name="Apr_08a"></a> **APRIL**
+<a name="Apr_08a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -203,9 +203,9 @@ Esponsales de José y María
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="May_08a"></a> **MAY**
+<a name="May_08a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -213,9 +213,9 @@ Esponsales de José y María
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_08a"></a> **JUNE**
+<a name="08_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -224,11 +224,11 @@ Esponsales de José y María
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-At the end of the month, Gabriel appears before Elizabeth.
+À la fin, Gabriel apparaît devant Elizabeth
 
-<a name="Jul_08a"></a> **JULY**
+<a name="Jul_08a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -236,9 +236,9 @@ At the end of the month, Gabriel appears before Elizabeth.
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Aug_08a"></a> **AUGUST**
+<a name="Aug_08a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -246,9 +246,9 @@ At the end of the month, Gabriel appears before Elizabeth.
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Sep_08a"></a> **SEPTEMBER**
+<a name="Sep_08a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -256,9 +256,9 @@ At the end of the month, Gabriel appears before Elizabeth.
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Oct_08a"></a> **OCTOBER**
+<a name="Oct_08a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -266,9 +266,9 @@ At the end of the month, Gabriel appears before Elizabeth.
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Nov_08a"></a> **NOVEMBER**
+<a name="Nov_08a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -276,11 +276,11 @@ At the end of the month, Gabriel appears before Elizabeth.
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-In the middle of the month, Gabriel appears to Mary; at the end, Elizabeth tells Zechariah about the apparition; Zechariah doubts her for several weeks.
+Au milieu, Gabriel apparaît à Marie ; à la fin, Élisabeth raconte l'apparition à Zacharie ; Zacharie doute d'elle pendant plusieurs semaines.
 
-<a name="Dec_08a"></a> **DECEMBER**
+<a name="Dec_08a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -288,21 +288,21 @@ In the middle of the month, Gabriel appears to Mary; at the end, Elizabeth tells
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-## YEAR 7 BC
+## ANNÉE 7 a. de J.C.
 
-<a name="Jan_07a"></a> **JANUARY**
+<a name="Jan_07a"></a> **ENERO**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |    | 
+| 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Feb_07a"></a> **FEBRUARY**
+<a name="Feb_07a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -310,11 +310,11 @@ In the middle of the month, Gabriel appears to Mary; at the end, Elizabeth tells
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 |    |
 
-At the beginning of the month, Zechariah has an extraordinary dream and is convinced of the truth. In the middle of the month, Mary visits Elizabeth. He stays with his distant cousin for about three weeks, and then returns to Nazareth.
+Au début, Zacharie fait un rêve extraordinaire et est convaincu de la vérité. Au milieu, Marie rend visite à Élisabeth. Il reste chez sa cousine éloignée pendant environ trois semaines, puis retourne à Nazareth.
 
-<a name="Mar_07a"></a> **MARCH**
+<a name="Mar_07a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -323,11 +323,11 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-25 John is born; joy of the parents; a messenger is sent to Nazareth to announce it to Mary
+25 Jean naît ; joie des parents ; un messager est envoyé à Nazareth pour l'annoncer à Marie
 
-<a name="Apr_07a"></a> **APRIL**
+<a name="Apr_07a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -335,11 +335,11 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-2 Circuncisión de Juan
+2 Circoncision de Jean
 
-<a name="May_07a"></a> **MAY**
+<a name="May_07a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -347,9 +347,9 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Jun_07a"></a> **JUNE**
+<a name="07_juin"></a> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -357,9 +357,9 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Jul_07a"></a> **JULY**
+<a name="Jul_07a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -367,9 +367,9 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_07a"></a> **AUGUST**
+<a name="Aug_07"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -378,11 +378,11 @@ At the beginning of the month, Zechariah has an extraordinary dream and is convi
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-At the beginning of the month, the census order decreed by Caesar Augustus arrives in the Jewish country and in Nazareth; discussions begin between Joseph and Mary about whether or not it is advisable for her to go; 18 They leave Nazareth for Bethlehem, spend the night at the foot of Mount Gilboa with other travelers; 19 Second day to Jericho; 20 They pass through Jerusalem, visit the Temple, and arrive in Bethlehem in the evening; 21 At noon Jesus is born, to the great rejoicing of the parents; 23 Mary sends a message to Elizabeth; 24 They receive a reply from Elizabeth; 29 Jesus is circumcised in Bethlehem
+D'abord, l'ordre de recensement décrété par César Auguste arrive dans le pays juif et à Nazareth ; des discussions commencent entre Joseph et Marie pour savoir s'il est opportun ou non qu'elle s'y rende ; 18 Ils quittent Nazareth pour Bethléem, passent la nuit au pied du mont Guilboa avec d'autres voyageurs ; 19 Deuxième jour pour Jéricho ; 20 Ils traversent Jérusalem, visitent le Temple et arrivent à Bethléem le soir ; 21 À midi, Jésus naît, à la grande joie des parents ; 23 Marie envoie un message à Élisabeth ; 24 Ils reçoivent une réponse d'Élisabeth ; 29 Jésus est circoncis à Bethléem
 
-<a name="Sep_07a"></a> **SEPTEMBER**
+<a name="Sep_07a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -390,11 +390,11 @@ At the beginning of the month, the census order decreed by Caesar Augustus arriv
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-In the middle of the month, they come to present Jesus at the Temple and for the purification rite (anecdote from the song of Simeon and Anna); At the end, the priests of Ur arrive in Jerusalem; their search for the child or anyone who could tell them anything is fruitless; when they are about to leave, they meet Zechariah; they visit the family. Satisfied, they are about to start their return when Herod, suspicious, discovers them and demands their presence; they appear before the king although they say nothing; warned by Zechariah of the king's true intentions, they leave for their country; the king's anger angers him, who orders an investigation
+Au milieu, ils viennent présenter Jésus au Temple et pour le rite de purification (anecdote du cantique de Siméon et Anne) ; à la fin, les prêtres d'Ur arrivent à Jérusalem ; leurs recherches de l'enfant ou de quiconque pourrait leur dire quelque chose sont vaines ; alors qu'ils s'apprêtent à partir, ils rencontrent Zacharie ; ils rendent visite à la famille. Satisfaits, ils s'apprêtent à entreprendre leur retour lorsqu'Hérode, méfiant, les découvre et exige leur présence ; ils comparaissent devant le roi sans rien dire ; avertis par Zacharie des véritables intentions du roi, ils repartent pour leur pays ; la colère du roi, qui ordonne une enquête
 
-<a name="Oct_07a"></a> **OCTOBER**
+<a name="Oct_07a"></a> **OCTÈS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -402,20 +402,20 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Nov_07a"></a> **NOVEMBER**
+<a name="Nov_07a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 
+| 30 |
 
-<a name="Dec_07a"></a> **DECEMBER**
+<a name="Dec_07a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -423,30 +423,30 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-## YEAR 6 BC (1 año)
+## ANNÉE 6 av. J.-C. (1 an)
 
-<a name="Jan_06a"></a> **JANUARY**
+<a name="Jan_06a"></a> **ENERO**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Feb_06a"></a> **FEBRUARY**
+<a name="Feb_06a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 
-<a name="Mar_06a"></a> **MARCH**
+<a name="Mar_06a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -454,9 +454,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Apr_06a"></a> **APRIL**
+<a name="Apr_06a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -464,9 +464,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="May_06a"></a> **MAY**
+<a name="May_06a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -475,9 +475,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Jun_06a"></a> **JUNE**
+<a name="06_juin"></a> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -485,9 +485,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Jul_06a"></a> **JULY**
+<a name="Jul_06a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -495,9 +495,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_06a"></a> **AUGUST**
+<a name="Aug_06a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -506,9 +506,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_06a"></a> **SEPTEMBER**
+<a name="Sep_06a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -516,9 +516,9 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Oct_06a"></a> **OCTOBER**
+<a name="Oct_06a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -526,11 +526,11 @@ In the middle of the month, they come to present Jesus at the Temple and for the
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-In the middle of the month, Herod becomes desperate because he can't find the boy king. He orders the killing of all children under two years old. The night before the massacre, the family flees to Egypt, warned by Zechariah.
+Au milieu de la guerre, Hérode, désespéré, ne parvenait pas à retrouver l'enfant roi. Il ordonna le massacre de tous les enfants de moins de deux ans. La veille du massacre, la famille s'enfuit en Égypte, avertie par Zacharie.
 
-<a name="Nov_06a"></a> **NOVEMBER**
+<a name="Nov_06a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -538,11 +538,11 @@ In the middle of the month, Herod becomes desperate because he can't find the bo
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-They arrive in Alexandria, where Joseph has relatives. They stay there for two years. Joseph quickly finds work as a carpenter. Mary becomes obsessed with Jesus' safety, but her relatives try to calm her down. Jesus leads a normal life as a child, playing and having fun with other children.
+Ils arrivent à Alexandrie, où Joseph a de la famille. Ils y restent deux ans. Joseph trouve rapidement du travail comme charpentier. Marie est obsédée par la sécurité de Jésus, mais sa famille tente de la calmer. Jésus mène une vie d'enfant normale, jouant et s'amusant avec d'autres enfants.
 
-<a name="Dec_06a"></a> **DECEMBER**
+<a name="Dec_06a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -550,74 +550,11 @@ They arrive in Alexandria, where Joseph has relatives. They stay there for two y
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-## YEAR 5 BC (2 years)
+## ANNÉE 5 BC (2 ans)
 
-<a name="Jan_05a"></a> **JANUARY**
+<a name="Jan_05a"></a> **ÉNÉRO**
 
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    |    | 1  | 2  |
-| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 |    |    |    |    |    |    | 
-
-<a name="Feb_05a"></a> **FEBRUARY**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    | 1  | 2  | 3  | 4  | 5  | 6  |
-| 7  | 8  | 9  | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 
-
-<a name="Mar_05a"></a> **MARCH**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    | 1  | 2  | 3  | 4  | 5  |
-| 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 | 31 |    |    |
-
-José is promoted at work to foreman of a group of workers working on a public building.
-
-<a name="Apr_05a"></a> **APRIL**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    |    | 1  | 2  |
-| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-
-<a name="May_05a"></a> **MAY**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
-| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    |
-
-<a name="Jun_05a"></a> **JUNE**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    | 1  | 2  | 3  | 4  |
-| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 
-
-<a name="Jul_05a"></a> **JULY**
-
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -626,9 +563,72 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_05a"></a> **AUGUST**
+<a name="Feb_05a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    | 1  | 2  | 3  | 4  | 5  | 6  |
+| 7  | 8  | 9  | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 |
+
+<a name="Mar_05a"></a> **MARS**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    | 1  | 2  | 3  | 4  | 5  |
+| 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 31 |    |    |
+
+José est promu au travail comme contremaître d'un groupe d'ouvriers travaillant sur un bâtiment public.
+
+<a name="Apr_05a"></a> **AVRIL**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    |    |    | 1  | 2  |
+| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+
+<a name="May_05a"></a> **MAI**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |    |    |    |    |
+
+<a name="Jun_05a"></a> **JUIN**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    | 1  | 2  | 3  | 4  |
+| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+
+<a name="Jul_05a"></a> **JUILLET**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    |    |    | 1  | 2  |
+| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 |    |    |    |    |    |    |
+
+<a name="Aug_05a"></a> **AOÛT**
+
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -636,9 +636,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_05a"></a> **SEPTEMBER**
+<a name="Sep_05a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -646,9 +646,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Oct_05a"></a> **OCTOBER**
+<a name="Oct_05a"></a> **OCTÈS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -657,9 +657,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Nov_05a"></a> **NOVEMBER**
+<a name="Nov_05a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -667,9 +667,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_05a"></a> **DECEMBER**
+<a name="Dec_05a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -677,11 +677,11 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## YEAR 4 BC (3 years)
+## ANNÉE 4 BC (3 ans)
 
-<a name="Jan_04a"></a> **JANUARY**
+<a name="Jan_04"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -689,9 +689,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Feb_04a"></a> **FEBRUARY**
+<a name="Feb_04a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -699,9 +699,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |    |    |    |    |
 
-<a name="Mar_04a"></a> **MARCH**
+<a name="Mar_04a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -709,20 +709,20 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Apr_04a"></a> **APRIL**
+<a name="Apr_04a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 
+| 30 |
 
-<a name="May_04a"></a> **MAY**
+<a name="May_04a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -730,19 +730,19 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Jun_04a"></a> **JUNE**
+<a name="04_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 
+| 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Jul_04a"></a> **JULY**
+<a name="Jul_04a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -751,9 +751,9 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Aug_04a"></a> **AUGUST**
+<a name="Aug_04a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -761,11 +761,11 @@ José is promoted at work to foreman of a group of workers working on a public b
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-Before leaving, they meet with Joseph's relatives and friends from Memphis; Jesus is given a book of Scripture; and at the end, they travel by sea to the port of Joppa. Then, they travel via Lydda and Emmaus to Bethlehem.
+Avant de partir, ils rencontrent la famille et les amis de Joseph à Memphis ; Jésus reçoit un livre des Écritures ; et, à la fin, ils voyagent par mer jusqu'au port de Joppé. Puis, via Lydda et Emmaüs, ils rejoignent Bethléem.
 
-<a name="Sep_04a"></a> **SEPTEMBER**
+<a name="Sep_04a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -773,9 +773,9 @@ Before leaving, they meet with Joseph's relatives and friends from Memphis; Jesu
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Oct_04a"></a> **OCTOBER**
+<a name="Oct_04a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -783,11 +783,11 @@ Before leaving, they meet with Joseph's relatives and friends from Memphis; Jesu
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-Given the serious political situation with Archelaus in Judea, they decided to return to Nazareth. When they arrived, they found they had to borrow the house from a relative who had taken it over in their absence.
+Compte tenu de la grave situation politique d'Archélaüs en Judée, ils décidèrent de retourner à Nazareth. À leur arrivée, ils découvrirent qu'ils devaient emprunter la maison à un parent qui l'avait reprise en leur absence.
 
-<a name="Nov_04a"></a> **NOVEMBER**
+<a name="Nov_04a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -795,9 +795,9 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Dec_04a"></a> **DECEMBER**
+<a name="Dec_04a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -806,31 +806,31 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-## YEAR 3 BC (4 years)
+## ANNÉE 3 BC (4 ans)
 
-<a name="Jan_03a"></a> **JANUARY**
+<a name="Jan_03a"></a> **ENERO**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 31 |    |    |    | 
+| 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Feb_03a"></a> **FEBRUARY**
+<a name="Feb_03a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 
+| 25 | 26 | 27 | 28 |
 
-<a name="Mar_03a"></a> **MARCH**
+<a name="Mar_03a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -838,9 +838,9 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Apr_03a"></a> **APRIL**
+<a name="Apr_03a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -848,11 +848,11 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |
 
-2, Santiago is born
+2, Santiago est né
 
-<a name="May_03a"></a> **MAY**
+<a name="May_03a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -860,9 +860,9 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_03a"></a> **JUNE**
+<a name="03_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -870,9 +870,9 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Jul_03a"></a> **JULY**
+<a name="Jul_03a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -880,11 +880,11 @@ Given the serious political situation with Archelaus in Judea, they decided to r
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-José monta un taller con dos de sus hermanos
+José monte un atelier avec deux de ses frères
 
-<a name="Aug_03a"></a> **AUGUST**
+<a name="Aug_03a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -892,11 +892,11 @@ José monta un taller con dos de sus hermanos
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-Epidemic in the village; Maria takes the children to a brother's farm near Sarid.
+Épidémie dans le village ; Maria emmène les enfants dans la ferme d'un frère près de Sarid.
 
-<a name="Sep_03a"></a> **SEPTEMBER**
+<a name="Sep_03a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -905,9 +905,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Oct_03a"></a> **OCTOBER**
+<a name="Oct_03a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -915,9 +915,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Nov_03a"></a> **NOVEMBER**
+<a name="Nov_03a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -925,9 +925,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Dec_03a"></a> **DECEMBER**
+<a name="Dec_03a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -936,21 +936,21 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-## YEAR 2 BC (5 years)
+## ANNÉE 2 BC (5 ans)
 
-<a name="Jan_02a"></a> **JANUARY**
+<a name="Jan_02a"></a> **ÉNÉRO**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 | 31 |    |    | 
+| 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_02a"></a> **FEBRUARY**
+<a name="Feb_02a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -958,9 +958,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 |    |    |
 
-<a name="Mar_02a"></a> **MARCH**
+<a name="Mar_02a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -969,9 +969,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Apr_02a"></a> **APRIL**
+<a name="Apr_02a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -979,9 +979,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="May_02a"></a> **MAY**
+<a name="May_02a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -989,9 +989,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_02a"></a> **JUNE**
+<a name="Jun_02a"></a> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1000,9 +1000,9 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Jul_02a"></a> **JULY**
+<a name="Jul_02a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1010,11 +1010,11 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-11, Miriam is born
+11, Nace Miriam
 
-<a name="Aug_02a"></a> **AUGUST**
+<a name="Aug_02a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1022,11 +1022,11 @@ Epidemic in the village; Maria takes the children to a brother's farm near Sarid
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-On the 21st, Jesus turns five. He begins to live under the tutelage of Joseph and learns his father's trade.
+Le 21, Jésus fête ses cinq ans. Il commence à vivre sous la tutelle de Joseph et apprend le métier de son père.
 
-<a name="Sep_02a"></a> **SEPTEMBER**
+<a name="Sep_02a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1034,11 +1034,11 @@ On the 21st, Jesus turns five. He begins to live under the tutelage of Joseph an
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about everything around him; he constantly questions his parents, and they become discouraged.
+Un léger tremblement de terre à Nazareth ; Jésus commence à montrer une curiosité persistante pour tout ce qui l'entoure ; il interroge constamment ses parents, et ils se découragent.
 
-<a name="Oct_02a"></a> **OCTOBER**
+<a name="Oct_02a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1046,9 +1046,9 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Nov_02a"></a> **NOVEMBER**
+<a name="Nov_02a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1056,9 +1056,9 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Dec_02a"></a> **DECEMBER**
+<a name="Dec_02a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1066,11 +1066,11 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-## YEAR 1 BC (6 years)
+## ANNÉE 1 BC (6 ans)
 
-<a name="Jan_01a"></a> **JANUARY**
+<a name="Jan_01a"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1078,9 +1078,9 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Feb_01a"></a> **FEBRUARY**
+<a name="Feb_01a"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1088,9 +1088,9 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 
-<a name="Mar_01a"></a> **MARCH**
+<a name="Mar_01a"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1098,19 +1098,19 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Apr_01a"></a> **APRIL**
+<a name="Apr_01a"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 
+| 26 | 27 | 28 | 29 | 30 |
 
-<a name="May_01a"></a> **MAY**
+<a name="May_01a"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1119,9 +1119,9 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Jun_01a"></a> **JUNE**
+<a name="Jun_01a"></a> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1129,11 +1129,11 @@ A slight earthquake in Nazareth; Jesus begins to show persistent curiosity about
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-Elizabeth visits Mary. John and Jesus meet for the first time. The children become fast friends. The older ones chatter on, making plans for both of them, still confused by Gabriel's message. They stayed for a few days. Joseph hands over the workshop to his brothers and becomes a contractor. He takes Jesus on some of his trips.
+Élisabeth rend visite à Marie. Jean et Jésus se rencontrent pour la première fois. Les enfants deviennent rapidement amis. Les plus âgés bavardent, préparant des projets pour eux deux, encore perturbés par le message de Gabriel. Ils restent quelques jours. Joseph cède l'atelier à ses frères et devient entrepreneur. Il accompagne Jésus dans certains de ses voyages.
 
-<a name="Jul_01a"></a> **JULY**
+<a name="Jul_01a"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1141,9 +1141,9 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_01a"></a> **AUGUST**
+<a name="Aug_01a"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1152,9 +1152,9 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_01a"></a> **SEPTEMBER**
+<a name="Sep_01a"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1162,9 +1162,9 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Oct_01a"></a> **OCTOBER**
+<a name="Oct_01a"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1172,9 +1172,9 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Nov_01a"></a> **NOVEMBER**
+<a name="Nov_01a"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1182,9 +1182,9 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Dec_01a"></a> **DECEMBER**
+<a name="Dec_01a"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1192,11 +1192,11 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-## YEAR 1 AD (7 years)
+## ANNÉE 1 AD (7 ans)
 
-<a name="Jan_01"></a> **JANUARY**
+<a name="Jan_01"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1205,11 +1205,11 @@ Elizabeth visits Mary. John and Jesus meet for the first time. The children beco
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-Unusually, a little snow falls in Nazareth. Parents reprimand him for his passion for games and trips to Nebi Sa'in Hill.
+Fait inhabituel, un peu de neige tombe à Nazareth. Ses parents le réprimandent pour sa passion pour les jeux et les excursions à la colline de Nebi Sa'in.
 
-<a name="Feb_01"></a> **FEBRUARY**
+<a name="01_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1217,9 +1217,9 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 |    |    |    |    |    |    |
 
-<a name="Mar_01"></a> **MARCH**
+<a name="Mar_01"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1227,11 +1227,11 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-16, Joseph is born
+16, Joseph est né
 
-<a name="Apr_01"></a> **APRIL**
+<a name="Apr_01"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1239,9 +1239,9 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="May_01"></a> **MAY**
+<a name="May_01"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1250,9 +1250,9 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Jun_01"></a> **JUNE**
+<a name="June_01"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1260,9 +1260,9 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Jul_01"></a> **JULY**
+<a name="Jul_01"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1270,11 +1270,11 @@ Unusually, a little snow falls in Nazareth. Parents reprimand him for his passio
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-Jesus's spectacular accident when he tumbled down the steps of the staircase attached to one of the walls of the house, blinded by a sandstorm. Mary resurrects his old fears.
+L'accident spectaculaire de Jésus, aveuglé par une tempête de sable, dévale les marches de l'escalier accroché à l'un des murs de la maison. Marie ravive ses vieilles peurs.
 
-<a name="Aug_01"></a> **AUGUST**
+<a name="Aug_01"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1282,11 +1282,11 @@ Jesus's spectacular accident when he tumbled down the steps of the staircase att
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-On the 21st, Jesus turns seven and enters the village school, where he would receive a basic education until the age of ten.
+Le 21, Jésus a sept ans et entre à l'école du village, où il recevra une éducation de base jusqu'à l'âge de dix ans.
 
-<a name="Sep_01"></a> **SEPTEMBER**
+<a name="Sep_01"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1294,9 +1294,9 @@ On the 21st, Jesus turns seven and enters the village school, where he would rec
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Oct_01"></a> **OCTOBER**
+<a name="Oct_01"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1305,11 +1305,11 @@ On the 21st, Jesus turns seven and enters the village school, where he would rec
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-Notes: He continues to listen to stories about the journeys of pilgrims and caravaners. He learns more Greek, and Maria teaches him how to milk, make cheese, and weave. With his friend Jacob, the bricklayer's son, the children develop a passion for it and frequent the house of the friendly potter Nathan.
+Notes : Il continue d'écouter les récits des voyages des pèlerins et des caravaniers. Il apprend le grec, et Maria lui apprend à traire, à faire du fromage et à tisser. Avec son ami Jacob, le fils du maçon, les enfants se passionnent pour cette activité et fréquentent la maison du sympathique potier Nathan.
 
-<a name="Nov_01"></a> **NOVEMBER**
+<a name="Nov_01"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1317,9 +1317,9 @@ Notes: He continues to listen to stories about the journeys of pilgrims and cara
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Dec_01"></a> **DECEMBER**
+<a name="Dec_01"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1327,22 +1327,22 @@ Notes: He continues to listen to stories about the journeys of pilgrims and cara
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-## YEAR 2 AD (8 years)
+## ANNÉE 2 AD (8 ans)
 
-<a name="Jan_02"></a> **JANUARY**
+<a name="Jan_02"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 |    |    |    |    |    | 
+| 30 | 31 |    |    |    |    |    |
 
-<a name="Feb_02"></a> **FEBRUARY**
+<a name="02_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1350,9 +1350,9 @@ Notes: He continues to listen to stories about the journeys of pilgrims and cara
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 |    |    |    |    |    |
 
-<a name="Mar_02"></a> **MARCH**
+<a name="Mar_02"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1360,11 +1360,11 @@ Notes: He continues to listen to stories about the journeys of pilgrims and cara
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-The school chazzan, seeing the splendid progress of little Jesus, allows him one week off each month, and Maria lets him go during that week, which she divides by going to a farm owned by an uncle near the lake, in Magdala, and to the farm of her other uncle near Sarid.
+Le chazzan de l'école, voyant les progrès splendides du petit Jésus, lui accorde une semaine de congé chaque mois, et Maria le laisse partir pendant cette semaine, qu'elle divise en allant dans une ferme appartenant à un oncle près du lac, à Magdala, et dans la ferme de son autre oncle près de Sarid.
 
-<a name="Apr_02"></a> **APRIL**
+<a name="Apr_02"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1372,11 +1372,11 @@ The school chazzan, seeing the splendid progress of little Jesus, allows him one
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-14, Nace Simón
+14, Simon est né
 
-<a name="May_02"></a> **MAY**
+<a name="May_02"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1384,11 +1384,11 @@ The school chazzan, seeing the splendid progress of little Jesus, allows him one
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |
 
-Su tío le lleva a pescar por primera vez
+Son oncle l'emmène pêcher pour la première fois
 
-<a name="Jun_02"></a> **JUNE**
+<a name="02_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1396,11 +1396,11 @@ Su tío le lleva a pescar por primera vez
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |
 
-Jesus teaches his little brother James the basics of the alphabet
+Jésus enseigne à son petit frère Jacques les bases de l'alphabet
 
-<a name="Jul_02"></a> **JULY**
+<a name="Jul_02"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1409,11 +1409,11 @@ Jesus teaches his little brother James the basics of the alphabet
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |
 
-First admonitions from the elders and chazans, who lose patience with Jesus' endless questions and great curiosity, even about forbidden subjects.
+Premières admonestations des anciens et des chazans, qui perdent patience face aux questions incessantes et à la grande curiosité de Jésus, même sur des sujets interdits.
 
-<a name="Aug_02"></a> **AUGUST**
+<a name="Aug_02"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1421,9 +1421,9 @@ First admonitions from the elders and chazans, who lose patience with Jesus' end
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_02"></a> **SEPTEMBER**
+<a name="Sep_02"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1431,11 +1431,11 @@ First admonitions from the elders and chazans, who lose patience with Jesus' end
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-A teacher from one of the rabbinical schools in Jerusalem (Nahor) arrives in the village, sent by Zechariah to see Jesus. He invites the parents to leave the child in his care to be educated in the schools of Jerusalem. The parents approve of the idea. But Jesus skillfully dismisses the matter and remains in Nazareth.
+Un professeur d'une école rabbinique de Jérusalem (Nahor) arrive au village, envoyé par Zacharie pour voir Jésus. Il invite les parents à lui confier l'enfant pour qu'il soit éduqué dans les écoles de Jérusalem. Les parents approuvent l'idée. Mais Jésus, habilement, écarte la question et reste à Nazareth.
 
-<a name="Oct_02"></a> **OCTOBER**
+<a name="Oct_02"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1444,11 +1444,11 @@ A teacher from one of the rabbinical schools in Jerusalem (Nahor) arrives in the
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Notes: Jesús wins the sympathy of his uncles in Migdal, and during that year he spends a lot of time on both farms, learning farm work and, above all, how to fish in the lake. Making cheese earns him some money and pays for tools for carpentry and fishing.
+Notes : Jesús gagne la sympathie de ses oncles à Migdal et, durant cette année-là, il passe beaucoup de temps dans les deux fermes, apprenant les travaux agricoles et, surtout, à pêcher dans le lac. La fabrication du fromage lui permet de gagner un peu d'argent et de payer ses outils de menuiserie et de pêche.
 
-<a name="Nov_02"></a> **NOVEMBER**
+<a name="Nov_02"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1456,9 +1456,9 @@ Notes: Jesús wins the sympathy of his uncles in Migdal, and during that year he
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_02"></a> **DECEMBER**
+<a name="Dec_02"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1466,21 +1466,21 @@ Notes: Jesús wins the sympathy of his uncles in Migdal, and during that year he
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## YEAR 3 AD (9 years)
+## ANNÉE 3 AD (9 ans)
 
-<a name="Jan_03"></a> **JANUARY**
+<a name="Jan_03"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    | 
+| 29 | 30 | 31 |    |    |    |    |
 
-<a name="Feb_03"></a> **FEBRUARY**
+<a name="03_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1488,9 +1488,9 @@ Notes: Jesús wins the sympathy of his uncles in Migdal, and during that year he
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |    |    |    |    |
 
-<a name="Mar_03"></a> **MARCH**
+<a name="Mar_03"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1498,11 +1498,11 @@ Notes: Jesús wins the sympathy of his uncles in Migdal, and during that year he
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-He gets chickenpox. He's looking bigger and stronger all the time.
+Il a la varicelle. Il paraît de plus en plus grand et fort.
 
-<a name="Apr_03"></a> **APRIL**
+<a name="Apr_03"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1511,9 +1511,9 @@ He gets chickenpox. He's looking bigger and stronger all the time.
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="May_03"></a> **MAY**
+<a name="May_03"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1521,9 +1521,9 @@ He gets chickenpox. He's looking bigger and stronger all the time.
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Jun_03"></a> **JUNE**
+<a name="03_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1531,9 +1531,9 @@ He gets chickenpox. He's looking bigger and stronger all the time.
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Jul_03"></a> **JULY**
+<a name="Jul_03"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1542,11 +1542,11 @@ He gets chickenpox. He's looking bigger and stronger all the time.
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-He climbs Mount Tabor with his father on a hike.
+Il escalade le mont Thabor avec son père lors d'une randonnée.
 
-<a name="Aug_03"></a> **AUGUST**
+<a name="Aug_03"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1554,11 +1554,11 @@ He climbs Mount Tabor with his father on a hike.
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |
 
-He continued to go fishing on his uncle's farm. He became a good fisherman, and he also worked as a harvester on his other uncle's farm.
+Il continua à pêcher dans la ferme de son oncle. Il devint un bon pêcheur et travailla également comme moissonneur dans la ferme de son autre oncle.
 
-<a name="Sep_03"></a> **SEPTEMBER**
+<a name="Sep_03"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1566,11 +1566,11 @@ He continued to go fishing on his uncle's farm. He became a good fisherman, and 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-13, Martha is born. Joseph adds an addition to the house to accommodate everyone.
+13 ans, naissance de Marthe. Joseph agrandit la maison pour loger tout le monde.
 
-<a name="Oct_03"></a> **OCTOBER**
+<a name="Oct_03"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1578,9 +1578,9 @@ He continued to go fishing on his uncle's farm. He became a good fisherman, and 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Nov_03"></a> **NOVEMBER**
+<a name="Nov_03"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1588,11 +1588,11 @@ He continued to go fishing on his uncle's farm. He became a good fisherman, and 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Serious reprimand to Jesus for an alleged childish act: having painted a portrait of his chazan on the school floor, something strictly prohibited according to the law of Moses, both painting and sculpture.
+Grave réprimande à Jésus pour un acte prétendument enfantin : avoir peint un portrait de son chazan sur le sol de l'école, chose strictement interdite selon la loi de Moïse, aussi bien en peinture qu'en sculpture.
 
-<a name="Dec_03"></a> **DECEMBER**
+<a name="Dec_03"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1601,21 +1601,21 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-## YEAR 4 AD (10 years)
+## ANNÉE 4 AD (10 ans)
 
-<a name="Jan_04"></a> **JANUARY**
+<a name="Jan_04"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 31 |    |    |    | 
+| 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Feb_04"></a> **FEBRUARY**
+<a name="04_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1623,9 +1623,9 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29
 
-<a name="Mar_04"></a> **MARCH**
+<a name="Mar_04"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1634,9 +1634,9 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Apr_04"></a> **APRIL**
+<a name="Apr_04"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1644,9 +1644,9 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="May_04"></a> **MAY**
+<a name="May_04"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1654,9 +1654,9 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_04"></a> **JUNE**
+<a name="04_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1664,9 +1664,9 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Jul_04"></a> **JULY**
+<a name="Jul_04"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1674,11 +1674,11 @@ Serious reprimand to Jesus for an alleged childish act: having painted a portrai
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-Saturday the 5th, During one of his usual walks with his father, Jesus confessed that he felt deep inside that he wasn't who everyone thought he was and that a Heavenly Father had sent him there. No one understood him, and they also tried not to share their anxieties with anyone.
+Samedi 5, lors d'une de ses promenades habituelles avec son père, Jésus confessa qu'il sentait au fond de lui qu'il n'était pas celui que tout le monde croyait et qu'un Père céleste l'avait envoyé là. Personne ne le comprenait et ils s'efforçaient de ne partager leurs angoisses avec personne.
 
-<a name="Aug_04"></a> **AUGUST**
+<a name="Aug_04"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1686,11 +1686,11 @@ Saturday the 5th, During one of his usual walks with his father, Jesus confessed
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-He began to spend time in the company and conversations of his elders, as well as taking solitary walks. He entered high school; he continued to test the patience of his teachers. This time it was his father who reprimanded him, and from then on, Jesús never spoke again.
+Il commença à fréquenter et à discuter avec ses aînés, ainsi qu'à faire des promenades solitaires. Il entra au lycée et continua à mettre la patience de ses professeurs à rude épreuve. Cette fois, ce fut son père qui le réprimanda, et à partir de ce moment, Jesús ne parla plus jamais.
 
-<a name="Sep_04"></a> **SEPTEMBER**
+<a name="Sep_04"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1698,9 +1698,9 @@ He began to spend time in the company and conversations of his elders, as well a
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Oct_04"></a> **OCTOBER**
+<a name="Oct_04"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1708,11 +1708,11 @@ He began to spend time in the company and conversations of his elders, as well a
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-Notes: He continued visiting his uncles, who understood him best, and improving his fishing skills. Due to his growing physical size and mental agility, he became the leader of a group of his friends, but his dislike of fighting caused him conflict with them, except for Jacobo, his best friend.
+Notes : Il continua de rendre visite à ses oncles, qui le comprenaient mieux, et d'améliorer ses compétences de pêche. Grâce à sa taille et à son agilité mentale croissantes, il devint le chef d'un groupe d'amis, mais son aversion pour le combat le mit en conflit avec eux, à l'exception de Jacobo, son meilleur ami.
 
-<a name="Nov_04"></a> **NOVEMBER**
+<a name="Nov_04"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1720,9 +1720,9 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Dec_04"></a> **DECEMBER**
+<a name="Dec_04"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1730,21 +1730,21 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-## YEAR 5 AD (11 years)
+## ANNÉE 5 AD (11 ans)
 
-<a name="Jan_05"></a> **JANUARY**
+<a name="Jan_05"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |    |    | 
+| 26 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_05"></a> **FEBRUARY**
+<a name="05_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1752,9 +1752,9 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28
 
-<a name="Mar_05"></a> **MARCH**
+<a name="Mar_05"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1763,9 +1763,9 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Apr_05"></a> **APRIL**
+<a name="Apr_05"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1773,9 +1773,9 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="May_05"></a> **MAY**
+<a name="May_05"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1783,11 +1783,11 @@ Notes: He continued visiting his uncles, who understood him best, and improving 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-In the middle of the month, Jesus accompanies Joseph on a business trip; they go to Scythopolis, in the Decapolis. There, Jesus enjoys and becomes so enthusiastic about the pagan attractions and games that his father becomes angry with him and almost hits him. Jesus apologizes, and the matter is never mentioned again.
+Au milieu de l'année, Jésus accompagne Joseph en voyage d'affaires ; ils se rendent à Scythopolis, en Décapole. Là, Jésus s'enthousiasme tellement pour les attractions et les jeux païens que son père se met en colère et manque de le frapper. Jésus s'excuse, et l'affaire n'est plus jamais évoquée.
 
-<a name="Jun_05"></a> **JUNE**
+<a name="05_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1795,11 +1795,11 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-24, Judas, or Jude, is born. Mary falls ill during childbirth, and Jesus has to take care of everyone while Joseph is away. He stops attending his classes and hanging out with his friends.
+24, Judas, ou Jude, naît. Marie tombe malade pendant l'accouchement, et Jésus doit prendre soin de tout le monde pendant l'absence de Joseph. Il cesse d'aller en cours et de fréquenter ses amis.
 
-<a name="Jul_05"></a> **JULY**
+<a name="Jul_05"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1807,9 +1807,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_05"></a> **AUGUST**
+<a name="Aug_05"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1818,9 +1818,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Sep_05"></a> **SEPTEMBER**
+<a name="Sep_05"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1828,9 +1828,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Oct_05"></a> **OCTOBER**
+<a name="Oct_05"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1838,11 +1838,11 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-Notes: He continues to be tormented by a very strange doubt about who he really is, but he doesn't tell anyone. This year, since he can hardly go to the farm to confide in his beloved uncle, he becomes much more quiet and silent.
+Notes : Il continue d'être tourmenté par un doute étrange sur sa véritable identité, mais il n'en parle à personne. Cette année, comme il peut difficilement se rendre à la ferme pour se confier à son oncle bien-aimé, il devient beaucoup plus discret et silencieux.
 
-<a name="Nov_05"></a> **NOVEMBER**
+<a name="Nov_05"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1851,9 +1851,9 @@ Notes: He continues to be tormented by a very strange doubt about who he really 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Dec_05"></a> **DECEMBER**
+<a name="Dec_05"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1861,32 +1861,32 @@ Notes: He continues to be tormented by a very strange doubt about who he really 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-## YEAR 6 AD (12 years)
+## ANNÉE 6 AD (12 ans)
 
-Notes: Jesus returns to his studies when his mother begins to feel better. But he is no longer the same in class. He becomes so quiet and silent that even his teachers are surprised. He devotes himself to his brothers, teaches them everything he could know, and involves them in games and stories. His parents want to talk to him about the angel and their concerns, but they don't dare tell him. His personality distances them from their idea of ​​a king of their nation. Jesus knows all this because he hears them arguing unintentionally at night, but no one seems to understand his strange inner feeling.
+Notes : Jésus retourne à ses études lorsque sa mère commence à se sentir mieux. Mais il n’est plus le même en classe. Il devient si silencieux et taciturne que même ses professeurs en sont surpris. Il se consacre à ses frères, leur enseigne tout ce qu’il pourrait savoir et les implique dans des jeux et des histoires. Ses parents veulent lui parler de l’ange et de leurs inquiétudes, mais ils n’osent pas le lui dire. Sa personnalité les éloigne de leur idée d’un roi de leur nation. Jésus sait tout cela car il les entend se disputer involontairement la nuit, mais personne ne semble comprendre son étrange sentiment intérieur.
 
-<a name="Jan_06"></a> **JANUARY**
+<a name="Jan_06"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |    | 
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_06"></a> **FEBRUARY**
+<a name="Feb_06"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 
-<a name="Mar_06"></a> **MARCH**
+<a name= "Mar_06"> </a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1894,9 +1894,9 @@ Notes: Jesus returns to his studies when his mother begins to feel better. But h
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Apr_06"></a> **APRIL**
+<a name="Apr_06"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1904,9 +1904,9 @@ Notes: Jesus returns to his studies when his mother begins to feel better. But h
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="May_06"></a> **MAY**
+<a name="May_06"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -1915,11 +1915,11 @@ Notes: Jesus returns to his studies when his mother begins to feel better. But h
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |
 
-In the middle of the month, Jesus accompanies Joseph on a business trip; they go to Scythopolis, in the Decapolis. There, Jesus enjoys and becomes so enthusiastic about the pagan attractions and games that his father becomes angry with him and almost hits him. Jesus apologizes, and the matter is never mentioned again.
+Au milieu de l'année, Jésus accompagne Joseph en voyage d'affaires ; ils se rendent à Scythopolis, en Décapole. Là, Jésus s'enthousiasme tellement pour les attractions et les jeux païens que son père se met en colère et manque de le frapper. Jésus s'excuse, et l'affaire n'est plus jamais évoquée.
 
-<a name="Jun_06"></a> **JUNE**
+<a name="06_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -1927,11 +1927,11 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-24, Judas, or Jude, is born. Mary falls ill during childbirth, and Jesus has to take care of everyone while Joseph is away. He stops attending his classes and hanging out with his friends.
+24, Judas, ou Jude, naît. Marie tombe malade pendant l'accouchement, et Jésus doit prendre soin de tout le monde pendant l'absence de Joseph. Il cesse d'aller en cours et de fréquenter ses amis.
 
-<a name="Jul_06"></a> **JULY**
+<a name="Jul_06"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -1939,9 +1939,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_06"></a> **AUGUST**
+<a name="Aug_06"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -1950,9 +1950,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_06"></a> **SEPTEMBER**
+<a name="Sep_06"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1960,9 +1960,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Oct_06"></a> **OCTOBER**
+<a name="Oct_06"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -1970,9 +1970,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Nov_06"></a> **NOVEMBER**
+<a name="Nov_06"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -1980,9 +1980,9 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Dec_06"></a> **DECEMBER**
+<a name="Dec_06"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -1990,13 +1990,13 @@ In the middle of the month, Jesus accompanies Joseph on a business trip; they go
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-## YEAR 7 AD (13 years)
+## ANNÉE 7 AD (13 ans)
 
-Notes: Many more things would happen that year. First, before going to Jerusalem, Jesus met someone he initially thought was a man, but who turned out to be an angel. The first few days he spoke to him only about unimportant things, but one day he gave him some news. Hence his decision to stay in Jerusalem. Furthermore, in the middle of the Passover feast, he received a messenger from Emmanuel, although Jesus mistook the message. In mid-July, he had another apparition, this time from another angel.
+Notes : Bien d’autres événements se produisirent cette année-là. D’abord, avant de se rendre à Jérusalem, Jésus rencontra quelqu’un qu’il prit d’abord pour un homme, mais qui se révéla être un ange. Les premiers jours, il ne lui parla que de choses sans importance, mais un jour, il lui donna des nouvelles. D’où sa décision de rester à Jérusalem. De plus, au milieu de la fête de Pâques, il reçut un messager d’Emmanuel, bien que Jésus se méprenne sur le message. À la mi-juillet, il eut une autre apparition, cette fois d’un autre ange.
 
-<a name="Jan_07"></a> **JANUARY**
+<a name="Jan_07"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2005,11 +2005,11 @@ Notes: Many more things would happen that year. First, before going to Jerusalem
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |
 
-9, Nace Amós
+9, Naissance d'Amos
 
-<a name="Feb_07"></a> **FEBRUARY**
+<a name="07_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2017,9 +2017,9 @@ Notes: Many more things would happen that year. First, before going to Jerusalem
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28
 
-<a name="Mar_07"></a> **MARCH**
+<a name="Mar_07"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2027,11 +2027,11 @@ Notes: Many more things would happen that year. First, before going to Jerusalem
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-20, Read a passage in the village synagogue. Jesus' calmer attitude begins to make his parents and family think that perhaps Jesus could really become the person they all expect.
+20, Lisez un passage dans la synagogue du village. L'attitude plus calme de Jésus commence à faire penser à ses parents et à sa famille que Jésus pourrait peut-être devenir la personne qu'ils attendent tous.
 
-<a name="Apr_07"></a> **APRIL**
+<a name="Apr_07"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2039,11 +2039,11 @@ Notes: Many more things would happen that year. First, before going to Jerusalem
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-At the beginning of the month, he receives a public announcement that he has completed his studies. As a reward, Joseph assures him that he will see Jerusalem that year. 4, The family and 130 other pilgrims travel toward the holy city. 7, They arrive at the Mount of Olives, where they camp. 8, They meet a very friendly family from Bethany: the parents of Lazarus. The two children, almost the same age, become close friends. They are invited to spend Passover at their home. 9, Jesus is consecrated in the Temple as a son of the law. The rites and sacrifices of the Temple begin to disappoint him. He has some arguments with his parents. 10, Jesus discovers the gatherings of the rabbis and doctors. 18, The pilgrims gather near the Temple and leave; when they arrive in Jericho, the parents realize that Jesus is not with them. 19, Jesus speaks before the doctors for the first time. Joseph and Mary arrive and desperately search for him. 20, Jesus returns to the Temple. The doctors are surprised by the boy's pertinent questions. Joseph and Mary decide to go to the Temple to speak with Zechariah and find him.
+Tout d'abord, il reçoit une annonce publique annonçant la fin de ses études. En récompense, Joseph lui assure qu'il verra Jérusalem cette année-là. 4, La famille et 130 autres pèlerins se dirigent vers la ville sainte. 7, Ils arrivent au mont des Oliviers, où ils campent. 8, Ils rencontrent une famille de Béthanie très amicale : les parents de Lazare. Les deux enfants, presque du même âge, se lient d'amitié. Ils sont invités à passer la Pâque chez eux. 9, Jésus est consacré au Temple comme fils de la Loi. Les rites et les sacrifices du Temple commencent à le décevoir. Il se dispute avec ses parents. 10, Jésus découvre les rassemblements des rabbins et des docteurs. 18, Les pèlerins se rassemblent près du Temple et partent ; lorsqu'ils arrivent à Jéricho, les parents réalisent que Jésus n'est pas avec eux. 19, Jésus parle devant les docteurs pour la première fois. Joseph et Marie arrivent et le recherchent désespérément. 20, Jésus retourne au Temple. Les médecins sont surpris par les questions pertinentes du garçon. Joseph et Marie décident d'aller au Temple pour parler à Zacharie et le retrouver.
 
-<a name="May_07"></a> **MAY**
+<a name="May_07"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2052,9 +2052,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Jun_07"></a> **JUNE**
+<a name="07_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2062,9 +2062,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Jul_07"></a> **JULY**
+<a name="Jul_07"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2072,9 +2072,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Aug_07"></a> **AUGUST**
+<a name="Aug_07"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2082,9 +2082,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Sep_07"></a> **SEPTEMBER**
+<a name="Sep_07"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2092,9 +2092,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Oct_07"></a> **OCTOBER**
+<a name="Oct_07"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2103,9 +2103,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Nov_07"></a> **NOVEMBER**
+<a name="Nov_07"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2113,9 +2113,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Dec_07"></a> **DECEMBER**
+<a name="Dec_07"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2123,22 +2123,22 @@ At the beginning of the month, he receives a public announcement that he has com
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-## YEAR 8 AD (14 years)
+## ANNÉE 8 AD (14 ans)
 
-<a name="Jan_08"></a> **JANUARY**
+<a name="Jan_08"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 |    |    |    |    |    |    | 
+| 30 | 31 |    |    |    |    |    |    |
 
-<a name="Feb_08"></a> **FEBRUARY**
+<a name="08_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2146,9 +2146,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29
 
-<a name="Mar_08"></a> **MARCH**
+<a name="Mar_08"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2156,9 +2156,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Apr_08"></a> **APRIL**
+<a name="Apr_08"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2167,9 +2167,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="May_08"></a> **MAY**
+<a name="May_08"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2177,9 +2177,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Jun_08"></a> **JUNE**
+<a name="08_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2187,9 +2187,9 @@ At the beginning of the month, he receives a public announcement that he has com
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Jul_08"></a> **JULY**
+<a name="Jul_08"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2198,11 +2198,11 @@ At the beginning of the month, he receives a public announcement that he has com
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Note: This year young John, the son of Zechariah and Elizabeth, formally took Nazirite vows in the congregation at En-Gedi.
+Remarque : Cette année, le jeune Jean, fils de Zacharie et d’Élisabeth, a officiellement prononcé ses vœux de naziréat dans la congrégation d’En-Gedi.
 
-<a name="Aug_08"></a> **AUGUST**
+<a name="Aug_08"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2210,9 +2210,9 @@ Note: This year young John, the son of Zechariah and Elizabeth, formally took Na
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Sep_08"></a> **SEPTEMBER**
+<a name="Sep_08"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2220,11 +2220,11 @@ Note: This year young John, the son of Zechariah and Elizabeth, formally took Na
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-25th, a sad day. Joseph dies in a work accident. He was working on a construction site in Sepphoris when he falls from a scaffold. The next day he was buried in Nazareth. The entire town turned out in support of the family, so that all winter there wasn't a day when people didn't gather at Jesus's house to listen to his readings from Scripture, chat, or hear him play the harp.
+Le 25, triste jour. Joseph meurt dans un accident du travail. Il travaillait sur un chantier à Sepphoris lorsqu'il tombe d'un échafaudage. Le lendemain, il est enterré à Nazareth. Toute la ville se mobilise pour soutenir la famille, si bien que, tout l'hiver, il n'y a pas un jour où les gens ne se rassemblent chez Jésus pour écouter ses lectures bibliques, discuter ou l'entendre jouer de la harpe.
 
-<a name="Oct_08"></a> **OCTOBER**
+<a name="Oct_08"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2232,9 +2232,9 @@ Note: This year young John, the son of Zechariah and Elizabeth, formally took Na
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Nov_08"></a> **NOVEMBER**
+<a name="Nov_08"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2242,9 +2242,9 @@ Note: This year young John, the son of Zechariah and Elizabeth, formally took Na
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Dec_08"></a> **DECEMBER**
+<a name="Dec_08"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2253,111 +2253,11 @@ Note: This year young John, the son of Zechariah and Elizabeth, formally took Na
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-## YEAR 9 AD (15 years)
+## ANNÉE 9 AD (15 ans)
 
-<a name="Jan_09"></a> **JANUARY**
+<a name="Jan_09"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    | 1  | 2  | 3  | 4  | 5  | 6  |
-| 7  | 8  | 9  | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 31 |    |    |    | 
-
-<a name="Feb_09"></a> **FEBRUARY**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    | 1  | 2  | 3  |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28
-
-<a name="Mar_09"></a> **MARCH**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    | 1  | 2  | 3  |
-| 4  | 5  | 6  | 7  | 8  | 9  | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-
-<a name="Apr_09"></a> **APRIL**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
-| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 |    |    |    |    |    |
-
-17, Ruth, "the little squirrel," Joseph's posthumous daughter, is born.
-
-<a name="May_09"></a> **MAY**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    | 1  | 2  | 3  | 4  | 5  |
-| 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 | 31 |    |    |
-
-<a name="Jun_09"></a> **JUNE**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    |    |    | 1  | 2  |
-| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-
-Jesús continues working in the carpentry shop. The family's poverty is extreme, a situation aggravated by taxes.
-
-<a name="Jul_09"></a> **JULY**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
-| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    |
-
-Miriam sells milk. Santiago starts working in the supply warehouse.
-
-<a name="Aug_09"></a> **AUGUST**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    | 1  | 2  | 3  | 4  |
-| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |    |
-
-Jesus borrows a plot of land and they use it to grow their food.
-
-<a name="Sep_09"></a> **SEPTEMBER**
-
-| M    | T    | W    | T    | F    | S    | S    |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    |    |    | 1  | 2  | 3  | 4  |
-| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |    |
-
-They travel to Sepphoris to claim compensation for Joseph's death. Herod Antipas welcomes them but mocks them.
-
-<a name="Oct_09"></a> **OCTOBER**
-
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2365,11 +2265,111 @@ They travel to Sepphoris to claim compensation for Joseph's death. Herod Antipas
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-Jesus continues working hard and acquires several cows, sheep, a donkey, chickens, and a dog.
+<a name="09_févr"></a> **FÉVRIER**
 
-<a name="Nov_09"></a> **NOVEMBER**
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    |    | 1  | 2  | 3  |
+| 4  | 5  | 6  | 7  | 8  | 9  | 10
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28
 
-| M    | T    | W    | T    | F    | S    | S    |
+<a name="Mar_09"></a> **MARS**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    |    | 1  | 2  | 3  |
+| 4  | 5  | 6  | 7  | 8  | 9  | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+
+<a name="Apr_09"></a> **AVRIL**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 |    |    |    |    |    |
+
+17, Ruth, « le petit écureuil », fille posthume de Joseph, naît.
+
+<a name="May_09"></a> **MAI**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    | 1  | 2  | 3  | 4  | 5  |
+| 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 31 |    |    |
+
+<a name="09_juin"> **JUIN**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    |    |    | 1  | 2  |
+| 3  | 4  | 5  | 6  | 7  | 8  | 9  |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+
+Jesús continue de travailler à la menuiserie. La pauvreté de la famille est extrême, une situation aggravée par les impôts.
+
+<a name="Jul_09"></a> **JUILLET**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |    |    |    |    |
+
+Miriam vend du lait. Santiago commence à travailler à l'entrepôt d'approvisionnement.
+
+<a name="Aug_09"></a> **AOÛT**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    | 1  | 2  | 3  | 4  |
+| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 |    |
+
+Jésus emprunte un terrain et ils l'utilisent pour cultiver leur nourriture.
+
+<a name="Sep_09"></a> **SEPTEMBRE**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    |    |    | 1  | 2  | 3  | 4  |
+| 5  | 6  | 7  | 8  | 9  | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 |    |
+
+Ils se rendent à Sepphoris pour réclamer une compensation pour la mort de Joseph. Hérode Antipas les accueille, mais se moque d'eux.
+
+<a name="Oct_09"></a> **OCTOBRE**
+
+| L    | M    | X    | J    | V    | S    | D    |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    | 1  | 2  | 3  | 4  | 5  | 6  |
+| 7  | 8  | 9  | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 31 |    |    |    |
+
+Jésus continue à travailler dur et acquiert plusieurs vaches, des moutons, un âne, des poulets et un chien.
+
+<a name="Nov_09"></a> **NOVEMBRE**
+
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2377,11 +2377,11 @@ Jesus continues working hard and acquires several cows, sheep, a donkey, chicken
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-One Saturday in the synagogue, he read the passage from Isaiah that speaks of him. He was enthusiastic about the readings and frequented the synagogue library in his free time.
+Un samedi, à la synagogue, il lut le passage d'Isaïe qui parle de lui. Les lectures l'enchantèrent et il fréquenta la bibliothèque de la synagogue pendant son temps libre.
 
-<a name="Dec_09"></a> **DECEMBER**
+<a name="Dec_09"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2390,13 +2390,13 @@ One Saturday in the synagogue, he read the passage from Isaiah that speaks of hi
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Find the text in the book of Enoch where it speaks of the Son of Man.
+Trouvez le texte dans le livre d'Enoch où il parle du Fils de l'Homme.
 
-## YEAR 10 AD (16 years)
+## ANNÉE 10 AD (16 ans)
 
-<a name="Jan_10"></a> **JANUARY**
+<a name="Jan_10"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2404,9 +2404,9 @@ Find the text in the book of Enoch where it speaks of the Son of Man.
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_10"></a> **FEBRUARY**
+<a name="10_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2414,11 +2414,11 @@ Find the text in the book of Enoch where it speaks of the Son of Man.
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28
 
-From then on, Jesus would be a tireless worker and a silent boy; he only confided his secrets to Santiago and his close friend Jacobo.
+Dès lors, Jésus sera un travailleur infatigable et un garçon silencieux ; il ne confiera ses secrets qu'à Santiago et à son ami proche Jacobo.
 
-<a name="Mar_10"></a> **MARCH**
+<a name="Mar_10"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2427,9 +2427,9 @@ From then on, Jesus would be a tireless worker and a silent boy; he only confide
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Apr_10"></a> **APRIL**
+<a name="Apr_10"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2437,11 +2437,11 @@ From then on, Jesus would be a tireless worker and a silent boy; he only confide
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-Simon enters school. Jesus teaches his younger sisters, but he does so in secret, as it was forbidden.
+Simon entre à l'école. Jésus enseigne à ses jeunes sœurs, mais en secret, car c'est interdit.
 
-<a name="May_10"></a> **MAY**
+<a name="May_10"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2449,9 +2449,9 @@ Simon enters school. Jesus teaches his younger sisters, but he does so in secret
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_10"></a> **JUNE**
+<a name="Jun_10"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2460,9 +2460,9 @@ Simon enters school. Jesus teaches his younger sisters, but he does so in secret
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Jul_10"></a> **JULY**
+<a name="Jul_10"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2470,11 +2470,11 @@ Simon enters school. Jesus teaches his younger sisters, but he does so in secret
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-A mathematics professor from Damascus arrived in those days and engaged in long conversations with him for several days. Jesus became very interested in numerical sciences.
+Un professeur de mathématiques de Damas arriva à cette époque et s'entretint longuement avec lui pendant plusieurs jours. Jésus s'intéressa vivement aux sciences numériques.
 
-<a name="Aug_10"></a> **AUGUST**
+<a name="Aug_10"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2482,9 +2482,9 @@ A mathematics professor from Damascus arrived in those days and engaged in long 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Sep_10"></a> **SEPTEMBER**
+<a name="Sep_10"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2492,9 +2492,9 @@ A mathematics professor from Damascus arrived in those days and engaged in long 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Oct_10"></a> **OCTOBER**
+<a name="Oct_10"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2502,11 +2502,11 @@ A mathematics professor from Damascus arrived in those days and engaged in long 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-Notes: He continued working tirelessly in the carpentry shop. He decided to wait before embarking on a dream that had been on his mind and which he now calls "his mission."
+Notes : Il a continué à travailler sans relâche à l'atelier de menuiserie. Il a décidé d'attendre avant de se lancer dans un rêve qui lui tenait à cœur et qu'il appelle désormais « sa mission ».
 
-<a name="Nov_10"></a> **NOVEMBER**
+<a name="Nov_10"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2514,9 +2514,9 @@ Notes: He continued working tirelessly in the carpentry shop. He decided to wait
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Dec_10"></a> **DECEMBER**
+<a name="Dec_10"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2524,11 +2524,11 @@ Notes: He continued working tirelessly in the carpentry shop. He decided to wait
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-## YEAR 11 AD (17 years)
+## ANNÉE 11 AD (17 ans)
 
-<a name="Jan_11"></a> **JANUARY**
+<a name="Jan_11"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2536,11 +2536,11 @@ Notes: He continued working tirelessly in the carpentry shop. He decided to wait
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-Growing tension among the people, especially in the Judean district, due to the outbreak of a rebellion against paying taxes to Rome. This marks the beginning of the riots caused by the so-called Zealots.
+La tension monte au sein de la population, notamment en Judée, en raison du déclenchement d'une rébellion contre le paiement des impôts à Rome. C'est le début des émeutes provoquées par les soi-disant Zélotes.
 
-<a name="Feb_11"></a> **FEBRUARY**
+<a name="Feb_11"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2548,9 +2548,9 @@ Growing tension among the people, especially in the Judean district, due to the 
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 |    |
 
-<a name="Mar_11"></a> **MARCH**
+<a name="Mar_11"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2559,11 +2559,11 @@ Growing tension among the people, especially in the Judean district, due to the 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Zealots arrived in the village recruiting people. They had heard about Jesus. Mary supported them, and they tried to convince Jesus, but he refused, reasoning that he shouldn't abandon his family. From then on, they no longer bothered him. In contrast, his beloved uncle Simon, from Migdal, embraced the cause and eventually emerged as the leader of a large group of Zealots, which caused a rift between nephew and uncle. In the village, things with the neighbors began to go badly.
+Des zélotes arrivèrent au village pour recruter. Ils avaient entendu parler de Jésus. Marie les soutint et tentèrent de convaincre Jésus, mais il refusa, prétextant qu'il ne devait pas abandonner sa famille. Dès lors, ils cessèrent de l'importuner. En revanche, son oncle bien-aimé Simon, de Migdal, embrassa la cause et finit par devenir le chef d'un important groupe de zélotes, ce qui provoqua une rupture entre son neveu et son oncle. Au village, les relations entre voisins commencèrent à se détériorer.
 
-<a name="Apr_11"></a> **APRIL**
+<a name="Apr_11"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2571,11 +2571,11 @@ Zealots arrived in the village recruiting people. They had heard about Jesus. Ma
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-A man named Isaac, a wealthy man and moneylender, appeared in the village, offering Jesus financial security for his family in exchange for joining the Zealots (thus bringing Jesus along with his group of friends from Nazareth). In reality, this was all a ruse by those in the village who were hostile to Jesus. He reasoned with them again and explained his motives. He managed to convince them completely. But not all of them, and this unleashed such a storm in the village that moments of tension were frequent.
+Un homme nommé Isaac, riche et usurier, apparut dans le village et proposa à Jésus une sécurité financière pour sa famille en échange de son adhésion aux Zélotes (ce qui lui permettrait d'emmener Jésus avec son groupe d'amis de Nazareth). En réalité, tout cela n'était qu'une ruse de ceux du village qui étaient hostiles à Jésus. Il les raisonna à nouveau et leur expliqua ses motivations. Il réussit à les convaincre complètement. Mais pas tous, et cela déclencha une telle tempête dans le village que les moments de tension étaient fréquents.
 
-<a name="May_11"></a> **MAY**
+<a name="May_11"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2583,9 +2583,9 @@ A man named Isaac, a wealthy man and moneylender, appeared in the village, offer
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Jun_11"></a> **JUNE**
+<a name="11_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2593,9 +2593,9 @@ A man named Isaac, a wealthy man and moneylender, appeared in the village, offer
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Jul_11"></a> **JULY**
+<a name="Jul_11"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2603,9 +2603,9 @@ A man named Isaac, a wealthy man and moneylender, appeared in the village, offer
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_11"></a> **AUGUST**
+<a name="Aug_11"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2614,9 +2614,9 @@ A man named Isaac, a wealthy man and moneylender, appeared in the village, offer
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Sep_11"></a> **SEPTEMBER**
+<a name="Sep_11"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2624,11 +2624,11 @@ A man named Isaac, a wealthy man and moneylender, appeared in the village, offer
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-Jesus continues to think about his dream and occasionally talks at home about his strange way of thinking.
+Jésus continue de penser à son rêve et parle parfois à la maison de son étrange façon de penser.
 
-<a name="Oct_11"></a> **OCTOBER**
+<a name="Oct_11"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2636,9 +2636,9 @@ Jesus continues to think about his dream and occasionally talks at home about hi
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Nov_11"></a> **NOVEMBER**
+<a name="Nov_11"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2647,9 +2647,9 @@ Jesus continues to think about his dream and occasionally talks at home about hi
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Dec_11"></a> **DECEMBER**
+<a name="Dec_11"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2657,11 +2657,11 @@ Jesus continues to think about his dream and occasionally talks at home about hi
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-## YEAR 12 AD (18 years)
+## ANNÉE 12 AD (18 ans)
 
-<a name="Jan_12"></a> **JANUARY**
+<a name="Jan_12"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2669,9 +2669,9 @@ Jesus continues to think about his dream and occasionally talks at home about hi
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Feb_12"></a> **FEBRUARY**
+<a name="Feb_12"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2679,11 +2679,11 @@ Jesus continues to think about his dream and occasionally talks at home about hi
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 |    |    |    |    |    |    |
 
-They sell a property in Nahum, the last one, to pay some taxes. They also pay the first installment on Jesús's uncles' old caravan supply store.
+Ils vendent une propriété à Nahum, la dernière, pour payer des impôts. Ils paient également le premier versement de l'ancien magasin de fournitures pour caravanes de l'oncle de Jesús.
 
-<a name="Mar_12"></a> **MARCH**
+<a name="Mar_12"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2691,9 +2691,9 @@ They sell a property in Nahum, the last one, to pay some taxes. They also pay th
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Apr_12"></a> **APRIL**
+<a name="Apr_12"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2701,11 +2701,11 @@ They sell a property in Nahum, the last one, to pay some taxes. They also pay th
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-Jesus and James' journey to Jerusalem, on the occasion of their coming of age. They ate the Passover meal at Lazarus's house. Lazarus's father, Simon, had died a year earlier.
+Voyage de Jésus et Jacques à Jérusalem, à l'occasion de leur majorité. Ils mangèrent la Pâque chez Lazare, dont le père, Simon, était décédé un an plus tôt.
 
-<a name="May_12"></a> **MAY**
+<a name="May_12"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2714,9 +2714,9 @@ Jesus and James' journey to Jerusalem, on the occasion of their coming of age. T
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Jun_12"></a> **JUNE**
+<a name="Jun_12"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2724,11 +2724,11 @@ Jesus and James' journey to Jerusalem, on the occasion of their coming of age. T
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-Jesús takes over the warehouse, and Santiago takes over the workshop, where he is already making progress. In this way, Jesús increasingly connects with travelers and further expands one of his dreams: travel.
+Jesús reprend l'entrepôt et Santiago l'atelier, où il progresse déjà. Ainsi, Jesús noue de plus en plus de liens avec les voyageurs et concrétise l'un de ses rêves : le voyage.
 
-<a name="Jul_12"></a> **JULY**
+<a name="Jul_12"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2736,11 +2736,11 @@ Jesús takes over the warehouse, and Santiago takes over the workshop, where he 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-Zechariah, John's father, dies from an illness lasting several months; the news is communicated to the family in Nazareth.
+Zacharie, le père de Jean, meurt d'une maladie qui dure plusieurs mois ; la nouvelle est communiquée à la famille à Nazareth.
 
-<a name="Aug_12"></a> **AUGUST**
+<a name="Aug_12"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2748,9 +2748,9 @@ Zechariah, John's father, dies from an illness lasting several months; the news 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Sep_12"></a> **SEPTEMBER**
+<a name="Sep_12"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2758,11 +2758,11 @@ Zechariah, John's father, dies from an illness lasting several months; the news 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Isabel and Juan arrive for a visit. The two friends, who hadn't seen each other for years, talked about many things and consulted each other on many issues. They both agreed that if they were destined to be anything their families believed in, they would still have to wait for that time to come.
+Isabel et Juan arrivent pour une visite. Les deux amis, qui ne s'étaient pas vus depuis des années, ont discuté de beaucoup de choses et se sont consultés sur de nombreux sujets. Ils ont tous deux convenu que s'ils étaient destinés à devenir ce en quoi leurs familles croyaient, ils devraient encore attendre.
 
-<a name="Oct_12"></a> **OCTOBER**
+<a name="Oct_12"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2771,9 +2771,9 @@ Isabel and Juan arrive for a visit. The two friends, who hadn't seen each other 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Nov_12"></a> **NOVEMBER**
+<a name="Nov_12"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2781,9 +2781,9 @@ Isabel and Juan arrive for a visit. The two friends, who hadn't seen each other 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Dec_12"></a> **DECEMBER**
+<a name="Dec_12"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2791,17 +2791,17 @@ Isabel and Juan arrive for a visit. The two friends, who hadn't seen each other 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-3rd, a very sad day. Amos, the youngest brother, dies of a high fever that lasted a week. The family is despondent, and they are lovingly comforted by Jesus. To make matters worse, the household finances are in dire straits. However, Jesus is not discouraged for a single moment.
+Le 3, un jour très triste. Amos, le plus jeune frère, mourut d'une forte fièvre qui dura une semaine. La famille était démoralisée, et Jésus les réconforta avec amour. Pour couronner le tout, les finances du ménage étaient au plus mal. Pourtant, Jésus ne se découragea pas un seul instant.
 
-Notes: Jesus leads the synagogue during the Sabbath reading several times, whenever there is no one to do so in the village. The former school chazzan and friend of Jesus forms a group of young men who meet to discuss philosophical topics. Jesus shares experiences with this group of friends and becomes their leader. Unbeknownst to him, the young Jesus inspires admiration among the young women of the village.
+Notes : Jésus dirige la lecture du sabbat à la synagogue à plusieurs reprises, chaque fois qu'il n'y a personne pour le faire au village. L'ancien chef de l'école et ami de Jésus forme un groupe de jeunes qui se réunissent pour discuter de sujets philosophiques. Jésus partage ses expériences avec ce groupe d'amis et devient leur chef. À son insu, le jeune Jésus suscite l'admiration des jeunes filles du village.
 
-John (the Baptist) refused to accept the priesthood stipend owed to his father; two years later, he had to go to work because they were ruined.
+Jean (Baptiste) refusa d'accepter le salaire de prêtre dû à son père ; deux ans plus tard, il dut aller travailler parce qu'ils étaient ruinés.
 
-## YEAR 13 AD (19 years)
+## ANNÉE 13 après J.-C. (19 ans)
 
-<a name="Jan_13"></a> **JANUARY**
+<a name="Jan_13"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2810,11 +2810,11 @@ John (the Baptist) refused to accept the priesthood stipend owed to his father; 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Jesus convinces Mary of his new teaching methods, and they both put this new system into practice at home. Although there were problems with some of the younger brothers, Jesus performed very well in his role as father and brother. Judah, Joseph, and Simon in particular were the ones who caused the most distress to the head of the family.
+Jésus convainc Marie de ses nouvelles méthodes d'enseignement, et tous deux mettent en pratique ce nouveau système à la maison. Malgré des problèmes avec certains de ses jeunes frères, Jésus remplit très bien son rôle de père et de frère. Juda, Joseph et Simon en particulier furent ceux qui causèrent le plus de souffrance au chef de famille.
 
-<a name="Feb_13"></a> **FEBRUARY**
+<a name="Feb_13"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2822,9 +2822,9 @@ Jesus convinces Mary of his new teaching methods, and they both put this new sys
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 |    |    |    |    |
 
-<a name="Mar_13"></a> **MARCH**
+<a name="Mar_13"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2832,9 +2832,9 @@ Jesus convinces Mary of his new teaching methods, and they both put this new sys
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Apr_13"></a> **APRIL**
+<a name="Apr_13"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2842,9 +2842,9 @@ Jesus convinces Mary of his new teaching methods, and they both put this new sys
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="May_13"></a> **MAY**
+<a name="May_13"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2852,9 +2852,9 @@ Jesus convinces Mary of his new teaching methods, and they both put this new sys
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Jun_13"></a> **JUNE**
+<a name="13_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2862,11 +2862,11 @@ Jesus convinces Mary of his new teaching methods, and they both put this new sys
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Judah begins school. To cover the cost, Jesus has to sell his harp, but fortunately it falls into the hands of a beautiful woman who later even asks him for harp lessons in exchange for being allowed to play.
+Juda commence l'école. Pour payer les frais, Jésus doit vendre sa harpe, mais heureusement, elle tombe entre les mains d'une belle femme qui, plus tard, lui demande même des leçons de harpe en échange de l'autorisation d'en jouer.
 
-<a name="Jul_13"></a> **JULY**
+<a name="Jul_13"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -2875,9 +2875,9 @@ Judah begins school. To cover the cost, Jesus has to sell his harp, but fortunat
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_13"></a> **AUGUST**
+<a name="Aug_13"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2885,9 +2885,9 @@ Judah begins school. To cover the cost, Jesus has to sell his harp, but fortunat
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_13"></a> **SEPTEMBER**
+<a name="Sep_13"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2895,11 +2895,11 @@ Judah begins school. To cover the cost, Jesus has to sell his harp, but fortunat
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly in love with Jesus. Unable to resist her desire any longer, she decided to confide in her friend and Jesus' sister, Miriam, and later in his mother, Mary. But she met with only resistance. So in the middle of that month, on Rebekah's 17th birthday, she asked her father to formally invite Jesus to their house. Jesus was greatly surprised. He reasoned with his father, and later with Rebekah, and thus Jesus remained the head of their family. Rebekah, feeling so heartbroken, moved to Sepphoris. However, from then on, a secret love for Jesus would develop, which, although unrequited by him, became the talk of the surrounding towns for a time.
+Rébecca, la fille d'Esdras, un riche marchand de Nazareth, était follement amoureuse de Jésus. Incapable de résister plus longtemps à son désir, elle décida de se confier à son amie et sœur de Jésus, Miriam, puis à sa mère, Marie. Mais elle ne rencontra que de la résistance. Alors, au milieu du mois, le jour de son 17e anniversaire, Rébecca demanda à son père d'inviter officiellement Jésus chez eux. Jésus fut très surpris. Il raisonna avec son père, puis avec Rébecca, et ainsi Jésus resta le chef de famille. Rébecca, le cœur brisé, s'installa à Sepphoris. Cependant, dès lors, un amour secret pour Jésus allait se développer, qui, bien que non réciproque, devint pendant un temps le sujet de conversation des villes environnantes.
 
-<a name="Oct_13"></a> **OCTOBER**
+<a name="Oct_13"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2908,9 +2908,9 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Nov_13"></a> **NOVEMBER**
+<a name="Nov_13"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -2918,9 +2918,9 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_13"></a> **DECEMBER**
+<a name="Dec_13"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2928,11 +2928,11 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## YEAR 14 AD (20 years)
+## AN 14 après J.-C. (20 ans)
 
-<a name="Jan_14"></a> **JANUARY**
+<a name="Jan_14"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -2940,9 +2940,9 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Feb_14"></a> **FEBRUARY**
+<a name="Feb_14"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2950,9 +2950,9 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |    |    |    |    |
 
-<a name="Mar_14"></a> **MARCH**
+<a name="Mar_14"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -2960,9 +2960,9 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Apr_14"></a> **APRIL**
+<a name="Apr_14"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -2971,11 +2971,11 @@ Rebekah, a maiden daughter of Ezra, a wealthy merchant from Nazareth, was madly 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-Jesus travels to Bethany for Passover and spends it at Lazarus's house. His friends' mother had died the year before, and young Lazarus was the head of the family. Jesus instituted a new way of celebrating Passover, which was fully accepted by his friends. Upon his return, he attempted to introduce this and other innovations into the house, albeit with little success.
+Jésus se rend à Béthanie pour la Pâque et la passe chez Lazare. La mère de ses amis est décédée l'année précédente, et le jeune Lazare est le chef de famille. Jésus instaure une nouvelle façon de célébrer la Pâque, qui est pleinement acceptée par ses amis. À son retour, il tente d'introduire cette innovation et d'autres dans la maison, mais sans grand succès.
 
-<a name="May_14"></a> **MAY**
+<a name="May_14"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -2983,9 +2983,9 @@ Jesus travels to Bethany for Passover and spends it at Lazarus's house. His frie
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Jun_14"></a> **JUNE**
+<a name="14_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -2993,9 +2993,9 @@ Jesus travels to Bethany for Passover and spends it at Lazarus's house. His frie
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Jul_14"></a> **JULY**
+<a name="Jul_14"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3004,11 +3004,11 @@ Jesus travels to Bethany for Passover and spends it at Lazarus's house. His frie
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-John (the Baptist) moves from the City of Judah to Hebron. He lives as a shepherd, tending the flocks and the crops of the congregation at En Gedi, which he begins to frequent more than Hebron.
+Jean (le Baptiste) quitte la ville de Juda pour Hébron. Il vit comme berger, gardant les troupeaux et les récoltes de la congrégation d'En-Guédi, qu'il fréquente plus souvent qu'Hébron.
 
-<a name="Aug_14"></a> **AUGUST**
+<a name="Aug_14"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3016,9 +3016,9 @@ John (the Baptist) moves from the City of Judah to Hebron. He lives as a shepher
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Sep_14"></a> **SEPTEMBER**
+<a name="Sep_14"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3026,11 +3026,11 @@ John (the Baptist) moves from the City of Judah to Hebron. He lives as a shepher
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-Jesus meets Zebedee Sr. at a property sale in Capernaum and befriends the family and their sons.
+Jésus rencontre Zébédée père lors d'une vente immobilière à Capharnaüm et se lie d'amitié avec la famille et leurs fils.
 
-<a name="Oct_14"></a> **OCTOBER**
+<a name="Oct_14"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3038,11 +3038,11 @@ Jesus meets Zebedee Sr. at a property sale in Capernaum and befriends the family
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-Joseph, the third of the brothers, finishes his studies at the synagogue and becomes James' apprentice as a carpenter.
+Joseph, le troisième des frères, termine ses études à la synagogue et devient l'apprenti charpentier de Jacques.
 
-<a name="Nov_14"></a> **NOVEMBER**
+<a name="Nov_14"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3050,9 +3050,9 @@ Joseph, the third of the brothers, finishes his studies at the synagogue and bec
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Dec_14"></a> **DECEMBER**
+<a name="Dec_14"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3061,21 +3061,21 @@ Joseph, the third of the brothers, finishes his studies at the synagogue and bec
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-## YEAR 15 AD (21 years)
+## AN 15 après J.-C. (21 ans)
 
-<a name="Jan_15"></a> **JANUARY**
+<a name="Jan_15"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 31 |    |    |    | 
+| 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Feb_15"></a> **FEBRUARY**
+<a name="Feb_15"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3083,9 +3083,9 @@ Joseph, the third of the brothers, finishes his studies at the synagogue and bec
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28
 
-<a name="Mar_15"></a> **MARCH**
+<a name="Mar_15"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3093,9 +3093,9 @@ Joseph, the third of the brothers, finishes his studies at the synagogue and bec
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Apr_15"></a> **APRIL**
+<a name="Apr_15"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3103,11 +3103,11 @@ Joseph, the third of the brothers, finishes his studies at the synagogue and bec
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus and his sisters.
+Voyage de Jésus à Jérusalem avec le petit Joseph. Il séjourne à Béthanie avec Lazare et ses sœurs.
 
-<a name="May_15"></a> **MAY**
+<a name="May_15"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3115,9 +3115,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_15"></a> **JUNE**
+<a name="15_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3125,9 +3125,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Jul_15"></a> **JULY**
+<a name="Jul_15"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3135,9 +3135,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_15"></a> **AUGUST**
+<a name="Aug_15"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3145,9 +3145,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Sep_15"></a> **SEPTEMBER**
+<a name="Sep_15"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3156,9 +3156,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Oct_15"></a> **OCTOBER**
+<a name="Oct_15"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3166,9 +3166,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Nov_15"></a> **NOVEMBER**
+<a name="Nov_15"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3176,9 +3176,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Dec_15"></a> **DECEMBER**
+<a name="Dec_15"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3187,11 +3187,11 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-## YEAR 16 AD (22 years)
+## ANNÉE 16 après J.-C. (22 ans)
 
-<a name="Jan_16"></a> **JANUARY**
+<a name="Jan_16"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3199,9 +3199,9 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Feb_16"></a> **FEBRUARY**
+<a name="Feb_16"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3209,11 +3209,11 @@ Jesus' journey to Jerusalem with little Joseph. He stays in Bethany with Lazarus
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 |    |
 
-Jesus's brothers are growing older and the typical difficulties of adolescence begin to emerge.
+Les frères de Jésus grandissent et les difficultés typiques de l’adolescence commencent à apparaître.
 
-<a name="Mar_16"></a> **MARCH**
+<a name="Mar_16"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3222,9 +3222,9 @@ Jesus's brothers are growing older and the typical difficulties of adolescence b
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Apr_16"></a> **APRIL**
+<a name="Apr_16"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3232,11 +3232,11 @@ Jesus's brothers are growing older and the typical difficulties of adolescence b
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-Simon finished his schooling and became an apprentice to Jesus' friend, James the Mason. Jesus continued working in marquetry and cabinetmaking for the first part of that year, but woodworking began to become scarce.
+Simon termina ses études et devint apprenti chez Jacques le Maçon, ami de Jésus. Jésus continua à travailler la marqueterie et l'ébénisterie pendant la première partie de l'année, mais le travail du bois commença à se faire rare.
 
-<a name="May_16"></a> **MAY**
+<a name="May_16"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3244,9 +3244,9 @@ Simon finished his schooling and became an apprentice to Jesus' friend, James th
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Jun_16"></a> **JUNE**
+<a name="16_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3254,11 +3254,11 @@ Simon finished his schooling and became an apprentice to Jesus' friend, James th
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-Family reunion. Jesus hands over the leadership of the household to his brother James and goes to look for a new job as a blacksmith in Sepphoris. During his time away, Jesus makes regular visits to Nazareth, just 5 km from Sepphoris, to see how things are going.
+Réunion de famille. Jésus confie la direction de la maison à son frère Jacques et part chercher un nouvel emploi comme forgeron à Sepphoris. Durant son absence, Jésus se rend régulièrement à Nazareth, à seulement 5 km de Sepphoris, pour prendre de ses nouvelles.
 
-<a name="Jul_16"></a> **JULY**
+<a name="Jul_16"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3266,9 +3266,9 @@ Family reunion. Jesus hands over the leadership of the household to his brother 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Aug_16"></a> **AUGUST**
+<a name="Aug_16"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3277,9 +3277,9 @@ Family reunion. Jesus hands over the leadership of the household to his brother 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Sep_16"></a> **SEPTEMBER**
+<a name="Sep_16"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3287,9 +3287,9 @@ Family reunion. Jesus hands over the leadership of the household to his brother 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Oct_16"></a> **OCTOBER**
+<a name="Oct_16"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3297,11 +3297,11 @@ Family reunion. Jesus hands over the leadership of the household to his brother 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-Note: During the time that Jesus is in Sepphoris, Rebekah sees her hopes resurrected and tries to see Jesus, although always without him realizing it.
+Note : Pendant le temps où Jésus est à Sepphoris, Rebecca voit ses espoirs ressuscités et essaie de voir Jésus, bien que toujours sans qu'il s'en rende compte.
 
-<a name="Nov_16"></a> **NOVEMBER**
+<a name="Nov_16"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3310,9 +3310,9 @@ Note: During the time that Jesus is in Sepphoris, Rebekah sees her hopes resurre
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Dec_16"></a> **DECEMBER**
+<a name="Dec_16"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3320,13 +3320,13 @@ Note: During the time that Jesus is in Sepphoris, Rebekah sees her hopes resurre
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-The group of blacksmiths where Jesus works in Sepphoris agrees to participate in the construction of several public buildings commissioned by Herod Antipas. Jesus, wanting nothing to do with this ruler, invents an excuse and returns home, where he once again takes charge of the workshop and repair warehouse with James.
+Le groupe de forgerons où Jésus travaille à Sepphoris accepte de participer à la construction de plusieurs bâtiments publics commandés par Hérode Antipas. Jésus, ne voulant rien avoir à faire avec ce souverain, invente un prétexte et rentre chez lui, où il reprend la direction de l'atelier et de l'entrepôt de réparation avec Jacques.
 
-## YEAR 17 AD (23 years)
+## ANNÉE 17 après J.-C. (23 ans)
 
-<a name="Jan_17"></a> **JANUARY**
+<a name="Jan_17"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3334,20 +3334,20 @@ The group of blacksmiths where Jesus works in Sepphoris agrees to participate in
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Feb_17"></a> **FEBRUARY**
+<a name="17_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 
-Financial pressure eases. Four family members are working. Miriam also sells milk and butter, and Marta weaves. More than a third of the store is paid for.
+La pression financière s'atténue. Quatre membres de la famille travaillent. Miriam vend également du lait et du beurre, et Marta tisse. Plus d'un tiers du magasin est payé.
 
-<a name="Mar_17"></a> **MARCH**
+<a name="Mar_17"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3355,9 +3355,9 @@ Financial pressure eases. Four family members are working. Miriam also sells mil
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Apr_17"></a> **APRIL**
+<a name="Apr_17"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3365,11 +3365,11 @@ Financial pressure eases. Four family members are working. Miriam also sells mil
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from Damascus who becomes a close friend of Jesus. This man offers him a job in Damascus, but Jesus rejects it. In Jerusalem, the curious anecdote of the chance encounter between Stephen and Jesus occurs.
+Jésus emmène le petit Simon à Pâques. À Philadelphie, ils rencontrent un marchand de Damas qui devient un ami proche de Jésus. Cet homme lui propose un emploi à Damas, mais Jésus refuse. À Jérusalem, se produit l'anecdote curieuse de la rencontre fortuite entre Étienne et Jésus.
 
-<a name="May_17"></a> **MAY**
+<a name="May_17"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3378,9 +3378,9 @@ Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Jun_17"></a> **JUNE**
+<a name="17_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3388,9 +3388,9 @@ Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Jul_17"></a> **JULY**
+<a name="Jul_17"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3398,9 +3398,9 @@ Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_17"></a> **AUGUST**
+<a name="Aug_17"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3409,9 +3409,9 @@ Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_17"></a> **SEPTEMBER**
+<a name="Sep_17"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3419,11 +3419,11 @@ Jesus takes little Simon for Easter. In Philadelphia, they meet a merchant from 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-A messenger arrived from the merchant of Damascus, offering Jesus a new offer regarding a new venture: the establishment of a new academy of learning in that city. He remained there for four months, employed in the merchant's house, organizing matters pertaining to the new academy.
+Un messager arriva du marchand de Damas, proposant à Jésus une nouvelle initiative : la création d'une nouvelle académie d'enseignement dans cette ville. Il y resta quatre mois, travaillant chez le marchand, à organiser les affaires de la nouvelle académie.
 
-<a name="Oct_17"></a> **OCTOBER**
+<a name="Oct_17"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3431,9 +3431,9 @@ A messenger arrived from the merchant of Damascus, offering Jesus a new offer re
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Nov_17"></a> **NOVEMBER**
+<a name="Nov_17"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3441,9 +3441,9 @@ A messenger arrived from the merchant of Damascus, offering Jesus a new offer re
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Dec_17"></a> **DECEMBER**
+<a name="Dec_17"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3451,13 +3451,13 @@ A messenger arrived from the merchant of Damascus, offering Jesus a new offer re
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-He returned to Nazareth, rejecting the offer to take over the management of the academy.
+Il retourna à Nazareth, rejetant l’offre de prendre en charge la direction de l’académie.
 
-## YEAR 18 AD (24 years)
+## ANNÉE 18 après J.-C. (24 ans)
 
-<a name="Jan_18"></a> **JANUARY**
+<a name="Jan_18"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3466,9 +3466,9 @@ He returned to Nazareth, rejecting the offer to take over the management of the 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Feb_18"></a> **FEBRUARY**
+<a name="Feb_18"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3476,9 +3476,9 @@ He returned to Nazareth, rejecting the offer to take over the management of the 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28
 
-<a name="Mar_18"></a> **MARCH**
+<a name="Mar_18"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3486,9 +3486,9 @@ He returned to Nazareth, rejecting the offer to take over the management of the 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Apr_18"></a> **APRIL**
+<a name="Apr_18"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3496,11 +3496,11 @@ He returned to Nazareth, rejecting the offer to take over the management of the 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-The week after Easter, a young man from Alexandria arrives in Nazareth to arrange a meeting with Jesus for a group of learned Alexandrian Jews, since Jesus' fame had reached that remote city thanks to the merchant from Damascus.
+La semaine après Pâques, un jeune homme d'Alexandrie arrive à Nazareth pour organiser une rencontre avec Jésus pour un groupe de Juifs érudits d'Alexandrie, car la renommée de Jésus avait atteint cette ville éloignée grâce au marchand de Damas.
 
-<a name="May_18"></a> **MAY**
+<a name="May_18"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3509,9 +3509,9 @@ The week after Easter, a young man from Alexandria arrives in Nazareth to arrang
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Jun_18"></a> **JUNE**
+<a name="18_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3519,11 +3519,11 @@ The week after Easter, a young man from Alexandria arrives in Nazareth to arrang
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-In the middle of the month, Jesus meets with the Alexandrian men and listens to their proposals. They offer him a position as assistant to the chazzan of the main synagogue. Jesus politely declines the offer. Jesus returns to Nazareth and experiences one of the most relaxing moments of his life, in the company of his brothers, who are growing older and older.
+Au milieu de l'année, Jésus rencontre les hommes d'Alexandrie et écoute leurs propositions. Ils lui proposent un poste d'assistant du chazzan de la synagogue principale. Jésus décline poliment l'offre. Il retourne à Nazareth et vit l'un des moments les plus relaxants de sa vie, en compagnie de ses frères qui vieillissent de plus en plus.
 
-<a name="Jul_18"></a> **JULY**
+<a name="Jul_18"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3531,9 +3531,9 @@ In the middle of the month, Jesus meets with the Alexandrian men and listens to 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Aug_18"></a> **AUGUST**
+<a name="Aug_18"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3541,9 +3541,9 @@ In the middle of the month, Jesus meets with the Alexandrian men and listens to 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Sep_18"></a> **SEPTEMBER**
+<a name="Sep_18"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3551,9 +3551,9 @@ In the middle of the month, Jesus meets with the Alexandrian men and listens to 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Oct_18"></a> **OCTOBER**
+<a name="Oct_18"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3562,11 +3562,11 @@ In the middle of the month, Jesus meets with the Alexandrian men and listens to 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-Notes: Jesus continued to teach night school three times a week, read the scriptures frequently on the Sabbath, conversed more frequently with his mother and brothers, and in general everything was going better and better.
+Notes : Jésus continua à enseigner à l’école du soir trois fois par semaine, à lire fréquemment les Écritures le jour du sabbat, à converser plus fréquemment avec sa mère et ses frères, et en général tout allait de mieux en mieux.
 
-<a name="Nov_18"></a> **NOVEMBER**
+<a name="Nov_18"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3574,9 +3574,9 @@ Notes: Jesus continued to teach night school three times a week, read the script
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Dec_18"></a> **DECEMBER**
+<a name="Dec_18"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3584,13 +3584,13 @@ Notes: Jesus continued to teach night school three times a week, read the script
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-James tells Jesus his desire to marry Este, a girl from the village. Jesus asks him to wait two years until Joseph is fit to be the new head of the family. Miriam also confesses to her brother her love for James the mason, Jesus' close friend.
+Jacques confie à Jésus son désir d'épouser Este, une jeune fille du village. Jésus lui demande d'attendre deux ans que Joseph soit apte à devenir le nouveau chef de famille. Miriam confesse également à son frère son amour pour Jacques le maçon, ami proche de Jésus.
 
-## YEAR 19 AD (25 years)
+## ANNÉE 19 après J.-C. (25 ans)
 
-<a name="Jan_19"></a> **JANUARY**
+<a name="Jan_19"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3599,9 +3599,9 @@ James tells Jesus his desire to marry Este, a girl from the village. Jesus asks 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Feb_19"></a> **FEBRUARY**
+<a name="Feb_19"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3609,11 +3609,11 @@ James tells Jesus his desire to marry Este, a girl from the village. Jesus asks 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28
 
-Financially, things are going well; for the first time, they don't owe anyone any money. The store has been paid off, and all the brothers are earning a living, including the girls. They've even begun to have a surplus fund.
+Financièrement, tout va bien ; pour la première fois, ils ne doivent plus d'argent à personne. Le magasin est soldé et tous les frères gagnent leur vie, y compris les filles. Ils ont même commencé à avoir un excédent de fonds.
 
-<a name="Mar_19"></a> **MARCH**
+<a name="Mar_19"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3621,11 +3621,11 @@ Financially, things are going well; for the first time, they don't owe anyone an
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-Judá se gradua y completa sus estudios en la sinagoga. 
+Juda obtient son diplôme et termine ses études à la synagogue.
 
-<a name="Apr_19"></a> **APRIL**
+<a name="Apr_19"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3633,11 +3633,11 @@ Judá se gradua y completa sus estudios en la sinagoga.
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-Jesus, given the family's good situation, decides to take Judah to Jerusalem for Passover. There, they happen to meet Lazarus. Judah gets Jesus into trouble over a dispute with a Roman legionary. They were imprisoned for three days until Jesus was able to partially resolve the situation.
+Jésus, vu la bonne situation de la famille, décide d'emmener Juda à Jérusalem pour la Pâque. Là, ils rencontrent Lazare. Juda met Jésus dans l'embarras à cause d'une dispute avec un légionnaire romain. Ils sont emprisonnés pendant trois jours, jusqu'à ce que Jésus parvienne à résoudre partiellement la situation.
 
-<a name="May_19"></a> **MAY**
+<a name="May_19"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3645,11 +3645,11 @@ Jesus, given the family's good situation, decides to take Judah to Jerusalem for
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-Jesus had a long talk with Judah, but his success in redirecting the impetuous boy was only partial.
+Jésus a eu une longue conversation avec Juda, mais son succès à rediriger le garçon impétueux n’a été que partiel.
 
-<a name="Jun_19"></a> **JUNE**
+<a name="19_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3657,11 +3657,11 @@ Jesus had a long talk with Judah, but his success in redirecting the impetuous b
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Jesus is a true delight for children. From that time, there's the tender image of Jesus telling stories to the children at the entrance to the caravan park.
+Jésus est un véritable enchantement pour les enfants. De cette époque, on retrouve cette image touchante de Jésus racontant des histoires aux enfants à l'entrée du camping.
 
-<a name="Jul_19"></a> **JULY**
+<a name="Jul_19"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3670,9 +3670,9 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_19"></a> **AUGUST**
+<a name="Aug_19"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3680,9 +3680,9 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_19"></a> **SEPTEMBER**
+<a name="Sep_19"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3690,9 +3690,9 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Oct_19"></a> **OCTOBER**
+<a name="Oct_19"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3701,9 +3701,9 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Nov_19"></a> **NOVEMBER**
+<a name="Nov_19"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3711,9 +3711,9 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_19"></a> **DECEMBER**
+<a name="Dec_19"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3721,11 +3721,11 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## YEAR 20 AD (26 years)
+## AN 20 après J.-C. (26 ans)
 
-<a name="Jan_20"></a> **JANUARY**
+<a name="Jan_20"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3733,11 +3733,11 @@ Jesus is a true delight for children. From that time, there's the tender image o
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-Jesus begins to feel the disconcerting reality of the power he possessed. (Perhaps he performs several miracles alone?) He begins to understand who he really is. And he begins to understand why he's here and why he came.
+Jésus commence à ressentir la réalité déconcertante du pouvoir qu'il possédait. (Peut-être accomplit-il plusieurs miracles seul ?) Il commence à comprendre qui il est vraiment. Et il commence à comprendre pourquoi il est ici et pourquoi il est venu.
 
-<a name="Feb_20"></a> **FEBRUARY**
+<a name="Feb_20"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3745,9 +3745,9 @@ Jesus begins to feel the disconcerting reality of the power he possessed. (Perha
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29
 
-<a name="Mar_20"></a> **MARCH**
+<a name="Mar_20"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3755,11 +3755,11 @@ Jesus begins to feel the disconcerting reality of the power he possessed. (Perha
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-During this year, Judah's violent outbursts reached such an extreme, and he was so testing the brothers' patience, that James and Joseph proposed expelling him from the house. If not for Jesus, the family would have experienced some truly tense moments, since Judah even had Mary's approval for belonging to the Zealots. However, for several years, the quarrels between the brothers continued.
+Cette année-là, les accès de violence de Juda atteignirent un tel degré d'intensité, mettant à rude épreuve la patience des frères, que Jacques et Joseph proposèrent de l'expulser de la maison. Sans Jésus, la famille aurait connu des moments de tension profonde, car Juda avait même l'approbation de Marie pour être Zélote. Cependant, les querelles entre les frères persistèrent pendant plusieurs années.
 
-<a name="Apr_20"></a> **APRIL**
+<a name="Apr_20"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3767,9 +3767,9 @@ During this year, Judah's violent outbursts reached such an extreme, and he was 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="May_20"></a> **MAY**
+<a name="May_20"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3777,9 +3777,9 @@ During this year, Judah's violent outbursts reached such an extreme, and he was 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_20"></a> **JUNE**
+<a name="June_20"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3787,9 +3787,9 @@ During this year, Judah's violent outbursts reached such an extreme, and he was 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Jul_20"></a> **JULY**
+<a name="Jul_20"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3797,9 +3797,9 @@ During this year, Judah's violent outbursts reached such an extreme, and he was 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_20"></a> **AUGUST**
+<a name="Aug_20"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3807,13 +3807,13 @@ During this year, Judah's violent outbursts reached such an extreme, and he was 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-Since Jesus had more free time, he spent a lot of time instructing James in the management of the repair shop and Joseph as the head of the family. Mary began to sense that Jesus was about to leave them, and she was in a hurry to talk to her son about the long-forgotten question of "his mission."
+Comme Jésus avait plus de temps libre, il passa beaucoup de temps à enseigner à Jacques la gestion de l'atelier et à Joseph le rôle de chef de famille. Marie pressentit que Jésus était sur le point de les quitter et se précipita pour parler à son fils de la question souvent oubliée de « sa mission ».
 
-Around this time, Jesus took Judah to see his uncle in Sarid, leaving him there to work in the harvest, but he ran away. A week later, Simon found him living as a fisherman on the lake and brought him back home. Jesus then arranged for him to be brought to Simon, his beloved uncle, a fisherman from Migdal, now a Zealot, and Judah willingly remained as a worker under Simon's care.
+À cette époque, Jésus emmena Juda chez son oncle à Sarid, le laissant travailler aux moissons, mais il s'enfuit. Une semaine plus tard, Simon le trouva pêcheur sur le lac et le ramena chez lui. Jésus s'arrangea alors pour qu'il soit amené chez Simon, son oncle bien-aimé, pêcheur de Migdal, devenu zélote. Juda accepta alors de rester comme ouvrier sous la garde de Simon.
 
-<a name="Sep_20"></a> **SEPTEMBER**
+<a name="Sep_20"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3822,9 +3822,9 @@ Around this time, Jesus took Judah to see his uncle in Sarid, leaving him there 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Oct_20"></a> **OCTOBER**
+<a name="Oct_20"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3832,9 +3832,9 @@ Around this time, Jesus took Judah to see his uncle in Sarid, leaving him there 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Nov_20"></a> **NOVEMBER**
+<a name="Nov_20"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3842,11 +3842,11 @@ Around this time, Jesus took Judah to see his uncle in Sarid, leaving him there 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-Double wedding. James and Estha, and Miriam and James were married. The wedding lasted a week, and the financial relief allowed them to enjoy a few moments of joy and true jubilation. At the end, Jesus officially appointed Joseph as head of the family. It was a very emotional moment because it coincided with the emergence of a completely changed Judah, who from then on joined in the domestic discipline by contributing his part.
+Double mariage. Jacques et Estha, ainsi que Miriam et Jacques, se marièrent. Le mariage dura une semaine, et l'allègement financier leur permit de savourer quelques instants de joie et de véritable jubilation. À la fin, Jésus nomma officiellement Joseph chef de famille. Ce fut un moment très émouvant, car il coïncida avec l'émergence d'un Juda complètement transformé, qui participa désormais à la discipline domestique en apportant sa contribution.
 
-<a name="Dec_20"></a> **DECEMBER**
+<a name="Dec_20"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3855,13 +3855,13 @@ Double wedding. James and Estha, and Miriam and James were married. The wedding 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Notes: The day after the wedding, a very emotional event occurred: Jesus confessed to his brother James that he was preparing to leave home. He gave him ownership of the repair shop, also making him responsible for the care of the house. The conversation between the two culminated in a practical farewell.
+Notes : Le lendemain du mariage, un événement très émouvant se produisit : Jésus confessa à son frère Jacques qu’il s’apprêtait à quitter la maison. Il lui confia la propriété de l’atelier de réparation, le rendant également responsable de l’entretien de la maison. La conversation entre les deux hommes se termina par un adieu concret.
 
-## YEAR 21 AD (27 years)
+## AN 21 après J.-C. (27 ans)
 
-<a name="Jan_21"></a> **JANUARY**
+<a name="Jan_21"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3869,11 +3869,11 @@ Notes: The day after the wedding, a very emotional event occurred: Jesus confess
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-19, Jesus leaves the village on a rainy Sunday morning, heading for Tiberias or Tiberias; 20-26 He remains in Tiberias; 21 He heads for Bethsaida, visiting Magdala along the way, and from there spends the night in Nahum where he visits the Zebedee family. From then on, the members of this family develop admiration for Jesus. Zebedee Sr. offers Jesus a job as a boatbuilder, and he accepts. He works for a little over a year and becomes a renowned boatbuilder in Capernum thanks to a revolutionary new system for steaming planks that he devised. During that time, he also occasionally goes out fishing.
+19, Jésus quitte le village un dimanche matin pluvieux, en direction de Tibériade ou de Tibériade ; 20-26 Il reste à Tibériade ; 21 Il se dirige vers Bethsaïde, visitant Magdala en chemin, et de là passe la nuit à Nahum où il rend visite à la famille Zébédée. Dès lors, les membres de cette famille développent une admiration pour Jésus. Zébédée père propose à Jésus un travail de constructeur de bateaux, et il accepte. Il travaille pendant un peu plus d'un an et devient un constructeur de bateaux renommé à Capharnaüm grâce à un nouveau système révolutionnaire de cuisson à la vapeur des planches qu'il a mis au point. Pendant ce temps, il part aussi occasionnellement à la pêche.
 
-<a name="Feb_21"></a> **FEBRUARY**
+<a name="21_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3881,11 +3881,11 @@ Notes: The day after the wedding, a very emotional event occurred: Jesus confess
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 |    |    |
 
-During this year, Jesus frequented the company of many people. He was especially interested in the travelers who stopped at the caravan inns and asked about the distant places they came from. He further expanded his dream of traveling. He also officiated numerous times in the new synagogue built by a Roman member of the military garrison.
+Durant cette année, Jésus fréquenta de nombreuses personnes. Il s'intéressait particulièrement aux voyageurs qui s'arrêtaient dans les auberges des caravanes et s'enquéraient de leurs origines lointaines. Il approfondit encore son rêve de voyage. Il officia également à de nombreuses reprises dans la nouvelle synagogue construite par un membre de la garnison romaine.
 
-<a name="Mar_21"></a> **MARCH**
+<a name="Mar_21"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3894,9 +3894,9 @@ During this year, Jesus frequented the company of many people. He was especially
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Apr_21"></a> **APRIL**
+<a name="Apr_21"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3904,9 +3904,9 @@ During this year, Jesus frequented the company of many people. He was especially
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="May_21"></a> **MAY**
+<a name="May_21"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -3914,9 +3914,9 @@ During this year, Jesus frequented the company of many people. He was especially
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_21"></a> **JUNE**
+<a name="21_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -3925,9 +3925,9 @@ During this year, Jesus frequented the company of many people. He was especially
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Jul_21"></a> **JULY**
+<a name="Jul_21"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -3935,9 +3935,9 @@ During this year, Jesus frequented the company of many people. He was especially
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Aug_21"></a> **AUGUST**
+<a name="Aug_21"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -3945,11 +3945,11 @@ During this year, Jesus frequented the company of many people. He was especially
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-This is when Jesus gained such fame that he was asked to give a weekly teaching to a group of young people hungry for new ideas. This also spread among the group of day laborers under Zebedee's command, who were the first to begin calling Jesus "rabbi" on his weekly teaching day. Even Judah would come on Saturdays to listen to him in the synagogue and then converse with him.
+C'est à ce moment-là que Jésus acquit une telle renommée qu'on lui demanda de donner un enseignement hebdomadaire à un groupe de jeunes avides d'idées nouvelles. Cette réputation se répandit également parmi les journaliers sous le commandement de Zébédée, qui furent les premiers à appeler Jésus « rabbi » lors de son enseignement hebdomadaire. Même Juda venait le samedi l'écouter à la synagogue et converser avec lui.
 
-<a name="Sep_21"></a> **SEPTEMBER**
+<a name="Sep_21"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3957,9 +3957,9 @@ This is when Jesus gained such fame that he was asked to give a weekly teaching 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Oct_21"></a> **OCTOBER**
+<a name="Oct_21"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -3967,11 +3967,11 @@ This is when Jesus gained such fame that he was asked to give a weekly teaching 
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-8th, Martha's Wedding; Jesus attends the wedding, and everyone is eager to find out what had become of him in recent months. These very happy days lasted a week.
+8, Noces de Marthe ; Jésus assiste aux noces et tout le monde est impatient de savoir ce qu'il est devenu ces derniers mois. Ces jours de bonheur durèrent une semaine.
 
-<a name="Nov_21"></a> **NOVEMBER**
+<a name="Nov_21"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -3979,9 +3979,9 @@ This is when Jesus gained such fame that he was asked to give a weekly teaching 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-<a name="Dec_21"></a> **DECEMBER**
+<a name="Dec_21"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -3989,15 +3989,15 @@ This is when Jesus gained such fame that he was asked to give a weekly teaching 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-Notes: During his residence in Capernaum this year, he spent at least five nights a week studying in the synagogue library. One night he would engage in conversation with the elders and another with the young people. A group of people who frequented Jesus' gatherings began to form in the house, and they began to gain a renowned reputation.
+Notes : Durant son séjour à Capharnaüm cette année-là, il passait au moins cinq soirs par semaine à étudier à la bibliothèque de la synagogue. Un soir, il discutait avec les anciens et un autre soir avec les jeunes. Un groupe de personnes qui fréquentaient les réunions avec Jésus commença à se former dans la maison, et ce groupe commença à acquérir une renommée.
 
-Jesus increasingly realized who he really was; during this time, we witness the prodigious and dizzying transformation of the one who would be called from Son of Man to Son of God.
+Jésus réalise de plus en plus qui il est réellement ; pendant ce temps, nous assistons à la transformation prodigieuse et vertigineuse de celui qui sera appelé de Fils de l’Homme à Fils de Dieu.
 
-## YEAR 22 AD (28 years)
+## AN 22 après J.-C. (28 ans)
 
-<a name="Jan_22"></a> **JANUARY**
+<a name="Jan_22"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4005,9 +4005,9 @@ Jesus increasingly realized who he really was; during this time, we witness the 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Feb_22"></a> **FEBRUARY**
+<a name="22_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4015,9 +4015,9 @@ Jesus increasingly realized who he really was; during this time, we witness the 
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 |    |
 
-<a name="Mar_22"></a> **MARCH**
+<a name="Mar_22"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4026,11 +4026,11 @@ Jesus increasingly realized who he really was; during this time, we witness the 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Jesus bids farewell to the Zebedee family and to Capernaum. He asked for a small sum of money to cover his travel expenses and set out for Jerusalem. He promised to remain there until Passover, when everyone would be reunited. He left John Zebedee in charge of sending money to his household weekly. Meanwhile, he settled in with his dear friend from Bethany, Lazarus, whom he had not seen for a long time. During this time in Jerusalem, he also attended the Temple meetings and made sporadic visits to the rabbinical schools. It was Annas himself, the former high priest, who introduced and showed Jesus these schools.
+Jésus fait ses adieux à la famille de Zébédée et à Capharnaüm. Il demande une petite somme d'argent pour couvrir ses frais de voyage et part pour Jérusalem. Il promet d'y rester jusqu'à la Pâque, jour où tout le monde sera réuni. Il confie à Jean Zébédée le soin d'envoyer de l'argent à sa maisonnée chaque semaine. Entre-temps, il s'installe chez son cher ami de Béthanie, Lazare, qu'il n'a pas vu depuis longtemps. Durant ce séjour à Jérusalem, il assiste également aux réunions du Temple et visite sporadiquement les écoles rabbiniques. C'est Anne lui-même, l'ancien grand prêtre, qui présente et montre ces écoles à Jésus.
 
-<a name="Apr_22"></a> **APRIL**
+<a name="Apr_22"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4038,13 +4038,13 @@ Jesus bids farewell to the Zebedee family and to Capernaum. He asked for a small
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-Arrival of the Zebedee Family; Jesus celebrated the Passover meal with the Zebedee Family at the house of Annas, who had graciously invited them. At the end of Passover Week, Jesus met an Indian father and his son, Gonod and Ganid. The father offered him a trip with them, serving as an interpreter. Jesus ultimately accepted. He only told the truth about this period to Zebedee Sr. The others never learned what became of him.
+Arrivée de la famille de Zébédée ; Jésus célébra le repas de Pâques avec la famille de Zébédée chez Anne, qui les avait gracieusement invités. À la fin de la semaine de Pâques, Jésus rencontra un père indien et ses fils, Gonod et Ganid. Le père lui proposa de les accompagner en voyage, leur servant d'interprète. Jésus finit par accepter. Il ne révéla la vérité sur cette période qu'à Zébédée père. Les autres n'apprirent jamais ce qu'il était advenu de lui.
 
-26 They left Jerusalem by way of Joppa and arrived at Caesarea. They embarked for Alexandria on a passenger and cargo ship.
+26 Ils partirent de Jérusalem, passèrent par Joppé et arrivèrent à Césarée. Ils s'embarquèrent pour Alexandrie sur un navire de passagers et de marchandises.
 
-<a name="May_22"></a> **MAY**
+<a name="May_22"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4052,9 +4052,9 @@ Arrival of the Zebedee Family; Jesus celebrated the Passover meal with the Zebed
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Jun_22"></a> **JUNE**
+<a name="22_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4062,9 +4062,9 @@ Arrival of the Zebedee Family; Jesus celebrated the Passover meal with the Zebed
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Jul_22"></a> **JULY**
+<a name="Jul_22"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4072,9 +4072,9 @@ Arrival of the Zebedee Family; Jesus celebrated the Passover meal with the Zebed
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Aug_22"></a> **AUGUST**
+<a name="Aug_22"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4083,11 +4083,11 @@ Arrival of the Zebedee Family; Jesus celebrated the Passover meal with the Zebed
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-On 17, John's mother, Elizabeth, died. Her family buried her and then informed John. He abandoned his sheep breeding and donated the flock to the En-Gedi brotherhood, in the care of his beloved orphaned child, Ezda. He lived for two and a half years in the En-Gedi community, studying the scriptures, praying, and reflecting.
+Le 17, la mère de John, Élisabeth, décéda. Sa famille l'enterra et informa John. Il abandonna son élevage de moutons et fit don du troupeau à la confrérie d'En-Gedi, sous la garde de son enfant orphelin bien-aimé, Ezda. Il vécut deux ans et demi au sein de la communauté d'En-Gedi, étudiant les Écritures, priant et méditant.
 
-<a name="Sep_22"></a> **SEPTEMBER**
+<a name="Sep_22"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4095,9 +4095,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Oct_22"></a> **OCTOBER**
+<a name="Oct_22"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4105,9 +4105,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Nov_22"></a> **NOVEMBER**
+<a name="Nov_22"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4116,9 +4116,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Dec_22"></a> **DECEMBER**
+<a name="Dec_22"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4126,11 +4126,11 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-## YEAR 23 AD (29 years)
+## AN 23 après J.-C. (29 ans)
 
-<a name="Jan_23"></a> **JANUARY**
+<a name="Jan_23"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4138,18 +4138,18 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Feb_23"></a> **FEBRUARY**
+<a name="23_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 
-<a name="Mar_23"></a> **MARCH**
+<a name="Mar_23"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4157,9 +4157,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Apr_23"></a> **APRIL**
+<a name="Apr_23"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4167,9 +4167,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="May_23"></a> **MAY**
+<a name="May_23"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4178,9 +4178,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Jun_23"></a> **JUNE**
+<a name="23_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4188,9 +4188,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Jul_23"></a> **JULY**
+<a name="Jul_23"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4198,9 +4198,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_23"></a> **AUGUST**
+<a name="Aug_23"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4209,9 +4209,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_23"></a> **SEPTEMBER**
+<a name="Sep_23"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4219,9 +4219,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Oct_23"></a> **OCTOBER**
+<a name="Oct_23"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4229,9 +4229,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Nov_23"></a> **NOVEMBER**
+<a name="Nov_23"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4239,9 +4239,9 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Dec_23"></a> **DECEMBER**
+<a name="Dec_23"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4249,15 +4249,15 @@ On 17, John's mother, Elizabeth, died. Her family buried her and then informed J
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-On 10, Jesus bids farewell to Gonod and Ganid in Charax
+10, Jésus dit au revoir à Gonod et Ganid à Charax
 
-Note: The Mediterranean voyage had the following route: (overland) Jerusalem - Joppa (three days) - Caesarea (here they stayed for about a week due to a ship breakdown); (overland) Caesarea - Alexandria (here they stayed for about three weeks) - Lasea on the island of Crete (here they stayed for a week) - Cyrene (two days stopover) - Carthage (three days) - Malta or Melita (two days stopover) - Syracuse on the island of Sicily (one week) - Messana (one day) - Neapolis (five days); (overland, via Appia) Neapolis - Capua (three days) - Rome (here they stayed for six months); five voyages from Rome to different places of interest during that time, one to the northern lakes, and another to Switzerland; - along the Appian Way they marched to Tarentum, arriving there about four days later, by sea they embarked for Nicopolis (three days) - Corinth (two months) - Athens (four days) - Ephesus (one week) - Rhodes (a one-day stopover) - Paphos on the island of Cyprus (a month and a half because Ganid fell ill) - Salamis, where they embarked - Antioch in Syria (one week) - Sidon, and with a caravan of camels to Damascus (three days) - the journey with the caravan lasted about six months - Susa (three weeks) - Ur (a few days) - Charax.
+Français : Note : Le voyage à travers la Méditerranée avait l'itinéraire suivant : (par voie terrestre) Jérusalem - Joppé (trois jours) - Césarée (ils y sont restés environ une semaine en raison d'une panne du navire) ; (par voie maritime) Césarée - Alexandrie (ils y sont restés environ trois semaines) - Lasée sur l'île de Crète (ils y sont restés une semaine) - Cyrène (escale de deux jours) - Carthage (trois jours) - île de Malte ou Melita (escale de deux jours) - Syracuse sur l'île de Sicile (une semaine) - Messane (un jour) - Néapolis (cinq jours) ; (par voie terrestre, via Appia) Néapolis - Capoue (trois jours) - Rome (ils y sont restés six mois) ; cinq voyages de Rome vers différents lieux d'intérêt pendant cette période, un vers les lacs du nord et un autre vers la Suisse ; - le long de la voie Appienne, ils marchèrent jusqu'à Tarente, où ils arrivèrent environ quatre jours plus tard, par mer ils s'embarquèrent pour Nicopolis (trois jours) - Corinthe (deux mois) - Athènes (quatre jours) - Éphèse (une semaine) - Rhodes (une escale d'un jour) - Paphos sur l'île de Chypre (un mois et demi car Ganid tomba malade) - Salamine, où ils s'embarquèrent - Antioche en Syrie (une semaine) - Sidon, et avec une caravane de chameaux jusqu'à Damas (trois jours) - le voyage avec la caravane dura environ six mois - Suse (trois semaines) - Ur (quelques jours) - Charax.
 
-## YEAR 24 AD (30 years)
+## AN 24 après J.-C. (30 ans)
 
-<a name="Jan_24"></a> **JANUARY**
+<a name="Jan_24"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4266,9 +4266,9 @@ Note: The Mediterranean voyage had the following route: (overland) Jerusalem - J
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Feb_24"></a> **FEBRUARY**
+<a name="24_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4276,11 +4276,11 @@ Note: The Mediterranean voyage had the following route: (overland) Jerusalem - J
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 |    |    |    |    |    |
 
-In the middle of the month, Jesus arrives in Nazareth after a stop of a few hours in Capernaum.
+Au milieu, Jésus arrive à Nazareth après une étape de quelques heures à Capharnaüm.
 
-<a name="Mar_24"></a> **MARCH**
+<a name="Mar_24"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4288,11 +4288,11 @@ In the middle of the month, Jesus arrives in Nazareth after a stop of a few hour
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-At the beginning of the month, a double wedding: Simon and Judah get married.
+Au début, double mariage : Simon et Juda se marient.
 
-<a name="Apr_24"></a> **APRIL**
+<a name="Apr_24"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4300,11 +4300,11 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-1st, Jesus leaves Nazareth with the caravan heading towards the Caspian Sea
+1, Jésus quitte Nazareth avec la caravane en direction de la mer Caspienne
 
-<a name="May_24"></a> **MAY**
+<a name="May_24"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4312,9 +4312,9 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Jun_24"></a> **JUNE**
+<a name="24_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4322,9 +4322,9 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Jul_24"></a> **JULY**
+<a name="Jul_24"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4333,9 +4333,9 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_24"></a> **AUGUST**
+<a name="Aug_24"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4343,9 +4343,9 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_24"></a> **SEPTEMBER**
+<a name="Sep_24"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4353,11 +4353,11 @@ At the beginning of the month, a double wedding: Simon and Judah get married.
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-Note: During those months, Jesus experienced a caravan journey. They headed toward Damascus, stopping in Urmia, and then reaching the Caspian Sea. On his return, he stopped to rest in Urmia, where he gave several lectures at the school of Cymboiton.
+Note : Durant ces mois, Jésus fit un voyage en caravane. Ils se dirigèrent vers Damas, s'arrêtèrent à Ourmia, puis atteignirent la mer Caspienne. À son retour, il s'arrêta pour se reposer à Ourmia, où il donna plusieurs conférences à l'école de Cymboiton.
 
-<a name="Oct_24"></a> **OCTOBER**
+<a name="Oct_24"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4366,9 +4366,9 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Nov_24"></a> **NOVEMBER**
+<a name="Nov_24"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4376,9 +4376,9 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_24"></a> **DECEMBER**
+<a name="Dec_24"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4386,32 +4386,32 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## El período público
+## La période publique
 
 <div class="urantiapedia-table-wrapper">
 
-| &nbsp; | YEAR 25 | YEAR 26 | YEAR 27 | YEAR 28 | YEAR 29 | YEAR 30 |
+|   | ANNÉE 25 | ANNÉE 26 | ANNÉE 27 | ANNÉE 28 | ANNÉE 29 | ANNÉE 30 |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| E      |        | Baptism + Forty Days in the Desert | Ordination of the Apostles | Four Memorable Days in Capernaum | Break from Preaching | In Pella |
-| F      |        | First Six Disciples + Wedding at Cana | Preaching Trip to the South | 1st Preaching Tour in Galilee + Break in Bethsaida | 3rd Preaching Tour in Galilee | Tour of Perea + Stay in Pella |
-| M      |        | First Sermons in Capernaum | ^^ | ^^ | Rejection in Nazareth <br> Busy March at the Lake | (raising of Lazarus) |
-| A      | Travels through Palestine and its regions | Preparation period | Easter Week in Jerusalem | Easter Week in Jerusalem <br> Return to Galilee | Easter Week in Jerusalem <br> (incognito) | Last week in Jerusalem <br> + apparitions |
-| M      | ^^ | ^^ | In Judea | Preachers' camp in Bethsaida | 30 Ab. - crisis in Capernaum | Last apparitions + <br> Pentecost |
-| J      | ^^ | Sermon on the Kingdom | ^^ | ^^ | Flight to the north and preaching <br> + return to the lake |   |
-| J      |         | First preaching by the lake <br> + six new disciples | In the villages of southern Samaria <br> The Samaritan woman | ^^ | ^^ |   |
-| A      | Sojourn on Mount Hermon | Training period, <br> + work <br> + preaching in Galilee | ^^ | ^^ | The Transfiguration on Mount Hermon |   |
-| S      | ^^ | ^^ | On Mount Gilboa | ^^ | Tour of the Decapolis |   |
-| O | Waiting period | ^^ | ^^ | ^^ | 2nd preaching tour in Galilee | Feast of Tabernacles in Jerusalem |   |
-| N      | ^^ | ^^ | In the Decapolis | ^^ | Ordination of the 70 in Magadan | |
-| D      | ^^ | ^^ | In Pella | ^^ | Camp in Pella <br> Feast of Consecration |   |
+| E      |        | Baptême + Quarante jours au désert | Ordination des apôtres | Quatre jours mémorables à Capharnaüm | Repos de la prédication | À Pella |
+| F       |       | Six premiers disciples + Noces de Cana | Voyage de prédication dans le Sud | 1er voyage de prédication en Galilée + Repos à Bethsaïde | 3e voyage de prédication en Galilée | Tour de Pérée + Séjour à Pella |
+| M       |       | Premiers sermons à Capharnaüm | ^^ | ^^ | Rejet à Nazareth <br> Marche animée au bord du lac | (résurrection de Lazare) |
+| A       | Voyages à travers la Palestine et ses régions | Période de préparation | Semaine de Pâques à Jérusalem | Semaine de Pâques à Jérusalem <br> Retour en Galilée | Semaine de Pâques à Jérusalem <br> (incognito) | Dernière semaine à Jérusalem <br> + apparitions |
+| M       | ^^ | ^^ | En Judée | Camp des prédicateurs à Bethsaïde | 30 Ab. - crise à Capharnaüm | Dernières apparitions + <br> Pentecôte |
+| J       | ^^ | Sermon sur le Royaume | ^^ | ^^ | Évadez-vous vers le Nord et prêchez <br> + Retour au lac |    |
+| J       |    | Premier sermon au bord du lac <br> + six nouveaux disciples | Dans les villages du sud de la Samarie <br> La Samaritaine | ^^ | ^^ |    |
+| A       | Séjour à l'Hermon | Stage, <br> + travail <br> + prédication en Galilée | ^^ | ^^ | La transfiguration à l'Hermon |    |
+| S       | ^^ | ^^ | Sur le mont Guilboa | ^^ | Tour de la Décapole |    |
+| O       | Période d'attente | ^^ | ^^ | ^^ | 2e tournée de prédication en Galilée | Fête des Tabernacles à Jérusalem |    |
+| N       | ^^ | ^^ | Pour la Décapole | ^^ | Ordination des 70 à Magadan |    |
+| D       | ^^ | ^^ | À Pella | ^^ | Camp à Pella <br> Fête de la Consécration |    |
 
 </div>
 
-## YEAR 25 AD (31 years)
+## AN 25 après J.-C. (31 ans)
 
-<a name="Jan_25"></a> **JANUARY**
+<a name="Jan_25"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4419,9 +4419,9 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="Feb_25"></a> **FEBRUARY**
+<a name="25_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4429,9 +4429,9 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |    |    |    |    |
 
-<a name="Mar_25"></a> **MARCH**
+<a name="Mar_25"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4439,11 +4439,11 @@ Note: During those months, Jesus experienced a caravan journey. They headed towa
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-John left En-Gedi to begin his career as a public preacher. He traveled along the coast of the Salt Sea to the ford of the Jordan near Jericho. From there he began preaching. He remained there for four months.
+Jean quitta En-Guédi pour commencer sa carrière de prédicateur. Il longea la côte de la mer Salée jusqu'au gué du Jourdain, près de Jéricho. De là, il commença à prêcher. Il y resta quatre mois.
 
-<a name="Apr_25"></a> **APRIL**
+<a name="Apr_25"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4452,11 +4452,11 @@ John left En-Gedi to begin his career as a public preacher. He traveled along th
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-1 Jesus returns to Capernaum with the caravan; 1-4 Visits his family in Capernaum; 5-10 Visits his mother in Nazareth; until 14 In Capernaum, at the home of the Zebedee family; 15 Departs for Tyre, where he spends the night; 16 Marches to Sidon, where he arrives that night and stays until the 18th; 19 Leaves for Antioch by ship, arriving on the 22nd, making several stops along the coast. He remains in Antioch for more than two months, until June 28, working, observing, studying, and carrying out personal ministry with the people he met.
+1 Jésus retourne à Capharnaüm avec la caravane ; 1-4 Visite sa famille à Capharnaüm ; 5-10 Visite sa mère à Nazareth ; jusqu'au 14 À Capharnaüm, chez la famille de Zébédée ; 15 Départ pour Tyr, où il passe la nuit ; 16 Marche vers Sidon, où il arrive cette nuit-là et reste jusqu'au 18 ; 19 Départ pour Antioche en bateau, arrivant le 22, faisant plusieurs escales le long de la côte. Il reste à Antioche pendant plus de deux mois, jusqu'au 28 juin, travaillant, observant, étudiant et exerçant un ministère personnel auprès des personnes qu'il rencontre.
 
-<a name="May_25"></a> **MAY**
+<a name="25_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4464,11 +4464,11 @@ John left En-Gedi to begin his career as a public preacher. He traveled along th
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-A delegation of Levites arrives at Bethabara to question John.
+Une délégation de Lévites arrive à Béthabara pour interroger Jean.
 
-<a name="Jun_25"></a> **JUNE**
+<a name="25_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4476,13 +4476,13 @@ A delegation of Levites arrives at Bethabara to question John.
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-In 28, Jesus left Antioch and embarked on a journey to better understand his homeland of Palestine, in anticipation of his future mission, spending the money he had earned in Antioch. During this month, he traveled south and then returned north, stopping in towns and cities along the following route: Antioch - Sidon (July 1) -
+Le 28 juillet, Jésus quitte Antioche et entreprend un voyage pour mieux comprendre sa Palestine natale, en prévision de sa future mission. Il dépense l'argent gagné à Antioche. Durant ce mois, il voyage vers le sud, puis revient vers le nord, s'arrêtant dans les villes et villages le long de l'itinéraire suivant : Antioche - Sidon (1er juillet).
 
-John began to travel north up the Jordan. He began to gain fame, and thousands of followers followed him, following his preaching.
+Jean commence à remonter le Jourdain vers le nord. Il commence à devenir célèbre et des milliers de disciples le suivent, suivant sa prédication.
 
-<a name="Jul_25"></a> **JULY**
+<a name="Jul_25"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4491,11 +4491,11 @@ John began to travel north up the Jordan. He began to gain fame, and thousands o
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-Tyre - Acre - Caesarea (3-17) - Joppa (18), always travelling by boat; from here he heads east away from the coast. - Jamnia - Ashdod - Gaza (19) - Beersheba (20-27) - Hebron (28) - Bethlehem, where he sees his birthplace (29) - Jerusalem, where he arrives without entering Bethany (30) -
+Tyr - Acre - Césarée (3-17) - Joppé (18), voyageant toujours en bateau ; de là, il se dirige vers l'est, loin de la côte. - Jamnia - Ashdod - Gaza (19) - Beer-Sheva (20-27) - Hébron (28) - Bethléem, où il voit son lieu de naissance (29) - Jérusalem, où il arrive sans entrer dans Béthanie (30) -
 
-<a name="Aug_25"></a> **AUGUST**
+<a name="Aug_25"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4503,11 +4503,11 @@ Tyre - Acre - Caesarea (3-17) - Joppa (18), always travelling by boat; from here
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-Beeroth - Lebona - Sychar - Shechem - Samaria - Geba - En-Ganim - Endor - Madon - Magdala - Capernaum (2) - Waters of Merom - Karatha - Caesarea Philippi (3-12) - Beit Jenn (13); August 16 - September 23, Jesus on the summit of Mount Hermon
+Beéroth - Lebona - Sychar - Sichem - Samarie - Guéba - En-Ganim - Endor - Madon - Magdala - Capharnaüm (2) - Eaux de Mérom - Caratha - Césarée de Philippe (3-12) - Beit Jenn (13) ; 16 août - 23 septembre, Jésus au sommet du mont Hermon
 
-<a name="Sep_25"></a> **SEPTEMBER**
+<a name="Sep_25"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4515,13 +4515,13 @@ Beeroth - Lebona - Sychar - Shechem - Samaria - Geba - En-Ganim - Endor - Madon 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-22 Appearance of Satan and Caligastia, the cosmic test; 23 Jesus returns to Capernaum from Mount Hermon
+22 Apparition de Satan et Caligastia, l'épreuve cosmique ; 23, Jésus revient à Capharnaüm depuis le mont Hermon   
 
-John begins to speak of Jesus ("someone who comes after me") in Adam.
+Jean commence à parler de Jésus (« quelqu’un qui vient après moi ») en Adam.
 
-<a name="Oct_25"></a> **OCTOBER**
+<a name="Oct_25"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4529,11 +4529,11 @@ John begins to speak of Jesus ("someone who comes after me") in Adam.
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-At the beginning, Jesus reunited with his family in Capernaum; the next day, he left with John Zebedee for Jerusalem for the Feast of Tabernacles. They stayed at Lazarus's house. They spent three weeks in the holy city. In the middle of the Feast of Tabernacles celebrations, Jesus said goodbye to John.
+Au début, Jésus retrouva sa famille à Capharnaüm ; le lendemain, il partit avec Jean Zébédée pour Jérusalem pour la fête des Tabernacles. Ils logèrent chez Lazare. Ils passèrent trois semaines dans la ville sainte. Au milieu des célébrations de la fête des Tabernacles, Jésus dit au revoir à Jean.
 
-<a name="Nov_25"></a> **NOVEMBER**
+<a name="Nov_25"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4541,11 +4541,11 @@ At the beginning, Jesus reunited with his family in Capernaum; the next day, he 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-Jesus spends the first week alone in the hills near Bethany; afterward, he does not return to Jerusalem but goes to Capernaum, where he resumes his work as a boat builder in Zebedee's workshop.
+Jésus passe la première semaine seul dans les collines près de Béthanie ; ensuite, il ne retourne pas à Jérusalem mais se rend à Capharnaüm, où il reprend son travail de constructeur de bateaux dans l'atelier de Zébédée.
 
-<a name="Dec_25"></a> **DECEMBER**
+<a name="Dec_25"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4554,13 +4554,13 @@ Jesus spends the first week alone in the hills near Bethany; afterward, he does 
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-John reaches Pella. His fame spreads throughout Galilee as well. John and James Zebedee go to the Jordan to be baptized after hearing Jesus speak about John.
+Jean arrive à Pella. Sa renommée se répand également dans toute la Galilée. Jean et Jacques Zébédée se rendent au Jourdain pour se faire baptiser après avoir entendu Jésus parler de Jean.
 
-## YEAR 26 AD (32 years)
+## AN 26 après J.-C. (32 ans)
 
-<a name="Jan_26"></a> **JANUARY**
+<a name="Jan_26"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4568,11 +4568,11 @@ John reaches Pella. His fame spreads throughout Galilee as well. John and James 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-12, Saturday. Jesus officiates in the synagogue of Capernaum; then he has a meeting with his two brothers James and Judah about what they should do about John's baptism, since they were determined to go. 13, This Sunday Jesus postponed his answer. But that day something important happened: Jesus decided that the time had come to begin his mission. They headed to see John. They spent the night at a ford in the Jordan. 14, The three were baptized by John, and the incredible events of that day occurred. Just after the baptism, Jesus set out for the hills. The news of what had happened that day and the whispers about Jesus led to an increase in the crowds seeking the new Messiah. But they couldn't see him, because Jesus traveled for about forty days.
+12, samedi. Jésus officie dans la synagogue de Capharnaüm ; puis il rencontre ses deux frères, Jacques et Juda, pour discuter du baptême de Jean, car ils étaient déterminés à y aller. 13, Ce dimanche-là, Jésus a différé sa réponse. Mais ce jour-là, un événement important se produit : Jésus décide que le moment est venu de commencer sa mission. Ils se rendent chez Jean. Ils passent la nuit à un gué du Jourdain. 14, Tous trois sont baptisés par Jean, et les événements incroyables de ce jour-là se produisent. Juste après le baptême, Jésus part pour la montagne. La nouvelle de ce qui s'est passé ce jour-là et les rumeurs à son sujet font augmenter la foule à la recherche du nouveau Messie. Mais ils ne peuvent pas le voir, car Jésus voyage pendant environ quarante jours.
 
-<a name="Feb_26"></a> **FEBRUARY**
+<a name="26_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4580,11 +4580,11 @@ John reaches Pella. His fame spreads throughout Galilee as well. John and James 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 |    |    |    |
 
-5, A delegation of priests and Pharisees arrives from Jerusalem; 23, Jesus returns to John's camp; Andrew and Peter become Jesus' disciples. That day Jesus sleeps in Pella. That night James and John return from searching for Jesus in the mountains. They go to see Jesus. 24, Jesus says goodbye to John the Baptist and heads with his first four apostles to Galilee, to Nazareth. At the ford of the Jordan, they are joined by Philip and Nathanael. They spend the night in Nazareth, in Jesus' former home, now owned by his brother Joseph. 25, The six apostles head for Cana; Jesus continued on to Magdala, where he visited his brother Judah, and then to Capernaum, where he joins his family at Zebedee's house. 26, They go to Cana for the wedding; 27, The miraculous events of the wedding; 28, They return to Capernaum. Night meeting with the apostles
+5, Une délégation de prêtres et de pharisiens arrive de Jérusalem ; 23, Jésus retourne au camp de Jean ; André et Pierre deviennent ses disciples. Ce jour-là, Jésus dort à Pella. Cette nuit-là, Jacques et Jean reviennent de la recherche de Jésus dans les montagnes. Ils vont voir Jésus. 24, Jésus dit au revoir à Jean-Baptiste et se rend avec ses quatre premiers apôtres en Galilée, à Nazareth. Au gué du Jourdain, ils sont rejoints par Philippe et Nathanaël. Ils passent la nuit à Nazareth, dans l'ancienne maison de Jésus, désormais propriété de son frère Joseph. 25, Les six apôtres se dirigent vers Cana ; Jésus poursuit sa route vers Magdala, où il rend visite à son frère Juda, puis vers Capharnaüm, où il rejoint sa famille chez Zébédée. 26, Ils se rendent à Cana pour les noces ; 27, Les événements miraculeux des noces ; 28, Ils retournent à Capharnaüm. Rencontre nocturne avec les apôtres.
 
-<a name="Mar_26"></a> **MARCH**
+<a name="Mar_26"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4592,11 +4592,11 @@ John reaches Pella. His fame spreads throughout Galilee as well. John and James 
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-2, Jesus officiates in the synagogue at Caperanum; 3, John begins the journey south with the disciples who had decided to follow him rather than Jesus.
+2, Jésus officie dans la synagogue de Capharnaüm ; 3, Jean commence le voyage vers le sud avec les disciples qui avaient décidé de le suivre plutôt que Jésus.
 
-<a name="Apr_26"></a> **APRIL**
+<a name="Apr_26"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4604,11 +4604,11 @@ John reaches Pella. His fame spreads throughout Galilee as well. John and James 
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-John, during his stay of several weeks in Adam, launched his attack against Herod Antipas.
+Jean, durant son séjour de plusieurs semaines à Adam, lança son attaque contre Hérode Antipas.
 
-<a name="May_26"></a> **MAY**
+<a name="26_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4616,9 +4616,9 @@ John, during his stay of several weeks in Adam, launched his attack against Hero
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_26"></a> **JUNE**
+<a name="Jun_26"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4626,11 +4626,11 @@ John, during his stay of several weeks in Adam, launched his attack against Hero
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-John in Bethabara; 12, John is arrested; his disciples disperse, go to Galilee with Jesus, or await developments in the area. Six days later, 18, the news reaches Jesus in Capernaum. Jesus decides that the time has come for his mission. 22, He officiates in the synagogue, and delivers a sermon on the Kingdom of God; 23, Jesus sends them out two by two: James and John to Cheresa, Andrew and Peter to Capernaum, Philip and Nathanael to Tarichea.
+Jean à Béthabara ; 12, Jean est arrêté ; ses disciples se dispersent, vont en Galilée avec Jésus ou attendent l'évolution de la situation dans la région. Six jours plus tard, 18, la nouvelle parvient à Jésus à Capharnaüm. Jésus décide que le temps est venu pour sa mission. 22, Il officie dans la synagogue et prononce un sermon sur le Royaume de Dieu ; 23, Jésus les envoie deux par deux : Jacques et Jean à Chérésa, André et Pierre à Capharnaüm, Philippe et Nathanaël à Tarichée.
 
-<a name="Jul_26"></a> **JULY**
+<a name="Jul_26"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4638,11 +4638,11 @@ John in Bethabara; 12, John is arrested; his disciples disperse, go to Galilee w
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-7, The apostles return. During the preaching period, they had selected six more chosen ones: Matthew, Thomas, James, Judas, Simon, and Iscariot. 8, Jesus and the six spend that day together. 9, Dinner at Matthew's house. 10, They visit the twins at Cheresa. 11, They visit Thomas at Tarichea. 12, Jesus spends the day in seclusion and joins them for dinner. 13, That Saturday, they make plans for their ministry. 14-20, A week of intensive training for the apostles. 21-3 August. Two weeks of work on the lake to support their families. From then until the end of the year, they would alternate every two weeks working on the lake and carrying out personal ministry in the neighboring villages of Capernaum, Bethsaida-Julias, Chorazin, Gerasa, Hippos, Magdala, Cana, Bethlem, Jotapatha, Ramah, Safed, Gishchala, Gadara, and Abila. Every two weeks of preaching, Jesus marched with each of the pairs of apostles.
+7, Les apôtres reviennent. Pendant la prédication, ils avaient choisi six autres élus : Matthieu, Thomas, Jacques, Judas, Simon et Iscariote. 8, Jésus et les six passent cette journée ensemble. 9, Dîner chez Matthieu. 10, Ils rendent visite aux jumeaux à Chérésa. 11, Ils rendent visite à Thomas à Tarichée. 12, Jésus passe la journée en retraite et se joint à eux pour dîner. 13, Ce samedi-là, ils planifient leur ministère. 14-20, Une semaine de formation intensive pour les apôtres. 21-3 août. Deux semaines de travail sur le lac pour subvenir aux besoins de leurs familles. À partir de ce moment et jusqu'à la fin de l'année, ils alternaient toutes les deux semaines entre le travail sur le lac et le ministère personnel dans les villages voisins de Capharnaüm, Bethsaïde-Julias, Chorazin, Gérasa, Hippos, Magdala, Cana, Bethlem, Jotapatha, Rama, Safed, Gishchala, Gadara et Abila. Toutes les deux semaines, Jésus prêchait avec chacun des deux apôtres.
 
-<a name="Aug_26"></a> **AUGUST**
+<a name="Aug_26"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4650,9 +4650,9 @@ John in Bethabara; 12, John is arrested; his disciples disperse, go to Galilee w
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Sep_26"></a> **SEPTEMBER**
+<a name="Sep_26"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4661,9 +4661,9 @@ John in Bethabara; 12, John is arrested; his disciples disperse, go to Galilee w
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-<a name="Oct_26"></a> **OCTOBER**
+<a name="Oct_26"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4671,11 +4671,11 @@ John in Bethabara; 12, John is arrested; his disciples disperse, go to Galilee w
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-Notes: During the months of March, April, May, and June, Jesus and the six apostles continued to live their normal lives, working on the lake, and preparing for their mission. Jesus held many sessions with them, giving them instructions and teachings regarding everything they should know during their missionary mission.
+Notes : Durant les mois de mars, avril, mai et juin, Jésus et les six apôtres continuèrent leur vie normale, travaillant sur le lac et se préparant à leur mission. Jésus organisa de nombreuses réunions avec eux, leur donnant des instructions et des enseignements sur tout ce qu’ils devaient savoir pendant leur mission.
 
-<a name="Nov_26"></a> **NOVEMBER**
+<a name="Nov_26"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4683,9 +4683,9 @@ Notes: During the months of March, April, May, and June, Jesus and the six apost
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Dec_26"></a> **DECEMBER**
+<a name="Dec_26"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4694,11 +4694,11 @@ Notes: During the months of March, April, May, and June, Jesus and the six apost
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-## YEAR 27 AD (33 years)
+## AN 27 après J.-C. (33 ans)
 
-<a name="Jan_27"></a> **JANUARY**
+<a name="Jan_27"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4706,11 +4706,11 @@ Notes: During the months of March, April, May, and June, Jesus and the six apost
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-The personal ministry and work of the apostles continues until, finally, on the 12th, Jesus gathers the apostles for his ordination. 13-14 Ministry of the apostles; 15, Day of Rest; 16-18 Three more days of teachings (Thursday at the lake teachings) and 18 Saturday Consecration of the apostles; 19 They leave Bethsaida and spend the night in Tarichea; 20 They arrive near Pella, where Jesus was baptized. They remain there for more than two weeks preaching. Around the 25th, many people begin to arrive at the camp.
+Le ministère personnel et le travail des apôtres continuent jusqu'à ce que, finalement, le 12, Jésus rassemble les apôtres pour son ordination. 13-14 Ministère des apôtres ; 15, Jour de repos ; 16-18 Trois autres jours d'enseignements (enseignements du jeudi au lac) et 18 Samedi Consécration des apôtres ; 19 Ils quittent Bethsaïde et passent la nuit à Tarichée ; 20 Ils arrivent près de Pella, où Jésus a été baptisé. Ils y restent plus de deux semaines à prêcher. Vers le 25, de nombreuses personnes commencent à arriver au camp.
 
-<a name="Feb_27"></a> **FEBRUARY**
+<a name="27_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4718,11 +4718,11 @@ The personal ministry and work of the apostles continues until, finally, on the 
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 |    |    |
 
-Preaching at Amathus for three weeks; 26, Journeying with the disciples to Bethabara. They remain there for four weeks.
+Il prêche à Amathus pendant trois semaines. 26, Il voyage avec les disciples jusqu'à Béthabara. Ils y restent quatre semaines.
 
-<a name="Mar_27"></a> **MARCH**
+<a name="Mar_27"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4731,11 +4731,11 @@ Preaching at Amathus for three weeks; 26, Journeying with the disciples to Betha
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-In Bethabara, four weeks. During the first week, Jesus withdrew with Peter, James, and John for a few days. During those days, they also traveled to Jericho. 31, They left Jericho for Bethany
+À Béthanie, quatre semaines. Durant la première semaine, Jésus se retira quelques jours avec Pierre, Jacques et Jean. Durant ces jours, ils se rendirent également à Jéricho. 31, Ils quittèrent Jéricho pour Béthanie.
 
-<a name="Apr_27"></a> **APRIL**
+<a name="Apr_27"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4743,11 +4743,11 @@ In Bethabara, four weeks. During the first week, Jesus withdrew with Peter, Jame
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-1-5, They remain in Bethany; 6, They go down to Jerusalem for Passover. They visit Annas and are unwelcome. The rest of April is spent teaching in the Temple.
+1-5, Ils restent à Béthanie ; 6, Ils descendent à Jérusalem pour la Pâque. Ils rendent visite à Anne et ne sont pas accueillis. Le reste du mois d'avril est consacré à l'enseignement au Temple.
 
-<a name="May_27"></a> **MAY**
+<a name="27_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4755,11 +4755,11 @@ In Bethabara, four weeks. During the first week, Jesus withdrew with Peter, Jame
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-In Bethlehem, Hebron, and the surrounding villages. Also in En-Gedi with Abner.
+À Bethléem, Hébron et dans les villages environnants. Également à En-Guédi avec Abner.
 
-<a name="Jun_27"></a> **JUNE**
+<a name="27_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4768,11 +4768,11 @@ In Bethlehem, Hebron, and the surrounding villages. Also in En-Gedi with Abner.
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 |    |    |    |    |    |    |
 
-Back in Jerusalem, in Gethsemane; there is no public preaching, only private. At the end of June 28, they march to Samaria, in Bethel, where they stay for several days preaching to the people.
+De retour à Jérusalem, à Gethsémani, il n'y a pas de prédication publique, seulement des prédications privées. À la fin du 28 juin, ils marchent vers la Samarie, à Béthel, où ils restent plusieurs jours pour prêcher au peuple.
 
-<a name="Jul_27"></a> **JULY**
+<a name="Jul_27"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4780,11 +4780,11 @@ Back in Jerusalem, in Gethsemane; there is no public preaching, only private. At
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-They headed to Arimathea and Tamna to preach in the villages of the region, remaining there for the first two weeks of July. During the last week of July, they prepared to go to the cities of Phasaelis and Archelais.
+Ils se dirigèrent vers Arimathie et Tamna pour prêcher dans les villages de la région, y restant les deux premières semaines de juillet. La dernière semaine de juillet, ils se préparèrent à se rendre dans les villes de Phasaëlis et d'Archelaïs.
 
-<a name="Aug_27"></a> **AUGUST**
+<a name="Aug_27"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4792,11 +4792,11 @@ They headed to Arimathea and Tamna to preach in the villages of the region, rema
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-First fortnight: preaching in Phasaelis and Archelais. During this time, they isolated themselves for three days on Mount Sartaba to rest from preaching. 18: Departure for Sychar. In the afternoon, meeting with the Samaritan woman. 19-20: Preaching in Sychar. Until the end of August, they set up the preachers' camp on Mount Gerizim.
+Première quinzaine : prédication à Phasaelis et à Archelais. Pendant ce temps, ils s'isolent trois jours sur le mont Sartaba pour se reposer de la prédication. 18 : Départ pour Sychar. L'après-midi, rencontre avec la Samaritaine. 19-20 : Prédication à Sychar. Jusqu'à la fin août, ils installent le camp des prédicateurs sur le mont Garizim.
 
-<a name="Sep_27"></a> **SEPTEMBER**
+<a name="Sep_27"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4804,11 +4804,11 @@ First fortnight: preaching in Phasaelis and Archelais. During this time, they is
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-At first, they continued their journey north and camped on the slopes of Mount Gilboa. Jesus spent the rest of the month in retreat with the apostles, teaching and instructing them (teaching them about prayer).
+Ils poursuivirent d'abord leur voyage vers le nord et campèrent sur les pentes du mont Guilboa. Jésus passa le reste du mois en retraite avec les apôtres, les enseignant et les instruisant (leur enseignant la prière).
 
-<a name="Oct_27"></a> **OCTOBER**
+<a name="Oct_27"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4816,11 +4816,11 @@ At first, they continued their journey north and camped on the slopes of Mount G
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-First, there was a chance encounter between the apostles and John's disciples. For three weeks, they met at the foot of Mount Gilboa to hold a conference together.
+Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciples de Jean. Pendant trois semaines, ils se réunirent au pied du mont Guilboa pour tenir une conférence.
 
-<a name="Nov_27"></a> **NOVEMBER**
+<a name="Nov_27"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4828,11 +4828,11 @@ First, there was a chance encounter between the apostles and John's disciples. F
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-2, They break camp at Gilboa. During the months of November and December, Jesus' apostles and John's disciples joined forces in a common preaching effort in the Greek cities of the Decapolis, especially Scythoplis, Gerasa, Abila, and Gadara.
+2, Ils lèvent le camp à Guilboa. Durant les mois de novembre et décembre, les apôtres de Jésus et les disciples de Jean unissent leurs forces pour une prédication commune dans les villes grecques de la Décapole, notamment Scythoplis, Gérasa, Abila et Gadara.
 
-<a name="Dec_27"></a> **DECEMBER**
+<a name="Dec_27"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4840,13 +4840,13 @@ First, there was a chance encounter between the apostles and John's disciples. F
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-At the end of the month, Jesus and the twenty-four moved toward Pella, camping near the village. During those days, messengers sent by John from prison arrived for Jesus.
+À la fin du mois, Jésus et les vingt-quatre hommes partirent pour Pella, campant près du village. À cette époque, des messagers envoyés par Jean depuis la prison arrivèrent pour Jésus.
 
-## YEAR 28 AD (34 years)
+## AN 28 après J.-C. (34 ans)
 
-<a name="Jan_28"></a> **JANUARY**
+<a name="Jan_28"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4854,11 +4854,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-10, John is executed by Herod. His body is buried in Sebaste. On the 12th, John's disciples set out for Jesus in Pella, where they arrived in the evening. 13, Jesus and the disciples go to Capernaum and stay at Zebedee's house. The preaching now begins in earnest. 14, 15, and 16, Jesus instructs his apostles for their preaching tour. On the 16th, in the morning, the fish harvest; in the afternoon, an interview with Ruth; on the 17th, Saturday, preaching in the synagogue; then the supposed healing of the demon-possessed boy and Peter's mother-in-law; in the evening, Jesus performs a true miracle: the healing of 683 sick people. On the 18th, Jesus dismisses the crowds seeking new miracles and sets out in the afternoon for Rimmon. They preached for two months in the villages of Rimmon, Jotapatha, Ramah, Zebulun, Iron, Gishchal, Chorazin, Madon, Cana, Nain, and Endor. They stopped in these villages for a few days to preach, and in other smaller ones while they were passing through.
+10, Jean est exécuté par Hérode. Son corps est enterré à Sébaste. Le 12, les disciples de Jean partent pour rejoindre Jésus à Pella, où ils arrivent le soir. 13, Jésus et les disciples se rendent à Capharnaüm et séjournent chez Zébédée. La prédication commence alors sérieusement. 14, 15 et 16, Jésus donne des instructions à ses apôtres pour leur tournée de prédication. Le 16, au matin, la récolte du poisson ; l'après-midi, une entrevue avec Ruth ; le 17, samedi, prédication à la synagogue ; puis la prétendue guérison du garçon possédé et de la belle-mère de Pierre ; le soir, Jésus accomplit un véritable miracle : la guérison de 683 malades. Le 18, Jésus congédie la foule en quête de nouveaux miracles et part dans l'après-midi pour Rimmon. Ils prêchèrent pendant deux mois dans les villages de Rimmon, Jotapatha, Rama, Zabulon, Iron, Gishchal, Chorazin, Madon, Cana, Naïn et En-Dor. Ils s'arrêtèrent quelques jours pour prêcher dans ces villages, ainsi que dans d'autres plus petits lors de leur passage.
 
-<a name="Feb_28"></a> **FEBRUARY**
+<a name="28_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4866,9 +4866,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 
-<a name="Mar_28"></a> **MARCH**
+<a name="Mar_28"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4876,11 +4876,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-17, Return to Capernaum from the preaching tour; two weeks in Bethsaida while Jesus withdrew to the hills and the apostles preached. 29, Healing of the centurion's servant; 30, Journey to Jerusalem
+17, Retour à Capharnaüm après la tournée de prédication ; deux semaines à Bethsaïde pendant que Jésus se retirait dans les collines et que les apôtres prêchaient. 29, Guérison du serviteur du centurion ; 30, Voyage à Jérusalem
 
-<a name="Apr_28"></a> **APRIL**
+<a name="Apr_28"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4888,11 +4888,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-2, They arrive at Bethany, but have to hide from the crowds in Gethsemane. 10, At the Pool of Bethesda, in the afternoon, they teach the rule of living. The last week, they leave for Galilee, separating from the group of John's disciples, led by Abner. Preaching in Bethabara; three days in Amathus.
+2, Ils arrivent à Béthanie, mais doivent se cacher de la foule à Gethsémané. 10, À la piscine de Béthesda, l'après-midi, ils enseignent la règle de vie. La dernière semaine, ils partent pour la Galilée, se séparant du groupe des disciples de Jean, conduits par Abner. Prédication à Béthesda ; trois jours à Amathonte.
 
-<a name="May_28"></a> **MAY**
+<a name="28_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4901,11 +4901,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-1, They continue their journey to Capernaum, but only the distance stipulated by law, due to the presence of spies from Jerusalem; 3, They arrive at Bethsaida by boat from Tarichea; 4, They preach (the theme of fasting). During the months of May, June, July, August, and September, they preach in a tent camp erected near the Zebedee family's house in Bethsaida, where a hospital for the sick and a training school for evangelists were also founded (a group of 117 evangelists was formed).
+1, Ils continuent leur voyage vers Capharnaüm, mais seulement sur la distance prescrite par la loi, en raison de la présence d'espions venus de Jérusalem ; 3, Ils arrivent à Bethsaïde en bateau depuis Tarichée ; 4, Ils prêchent (le thème du jeûne). Durant les mois de mai, juin, juillet, août et septembre, ils prêchent dans un camp de tentes dressé près de la maison de la famille Zébédée à Bethsaïde, où un hôpital pour les malades et une école de formation pour évangélistes ont également été fondés (un groupe de 117 évangélistes a été formé).
 
-<a name="Jun_28"></a> **JUNE**
+<a name="28_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -4913,9 +4913,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-<a name="Jul_28"></a> **JULY**
+<a name="Jul_28"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -4923,9 +4923,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Aug_28"></a> **AUGUST**
+<a name="Aug_28"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -4934,9 +4934,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Sep_28"></a> **SEPTEMBER**
+<a name="Sep_28"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4944,9 +4944,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Oct_28"></a> **OCTOBER**
+<a name="Oct_28"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -4954,11 +4954,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-1, Healing of the paralytic; 3, Beginning of the second preaching tour: to Gadara, Ptolemais, Japhia, Dabarite, Megiddo, Jezreel, Scythopolis, Tarichea, Hippos, Gamala, Bethsaida-Julias, and other villages and towns. It lasted almost three months.
+1, Guérison du paralytique ; 3, Début de la deuxième tournée de prédication : à Gadara, Ptolémaïs, Japhia, Dabarite, Megiddo, Jizréel, Scythopolis, Tarichée, Hippos, Gamala, Bethsaïde-Julias et d’autres villages et villes. Elle dura près de trois mois.
 
-<a name="Nov_28"></a> **NOVEMBER**
+<a name="Nov_28"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -4966,9 +4966,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 |    |    |    |    |    |
 
-<a name="Dec_28"></a> **DECEMBER**
+<a name="Dec_28"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -4976,13 +4976,13 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-30 Diciembre: regreso de los evangelistas a Betsaida
+30 décembre : Retour des évangélistes à Bethsaïde
 
-## YEAR 29 AD (35 years)
+## AN 29 après J.-C. (35 ans)
 
-<a name="Jan_29"></a> **JANUARY**
+<a name="Jan_29"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -4991,11 +4991,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-1, Until this day, the groups of evangelists remained together recounting their experiences. Afterward, they had two weeks of rest to devote themselves to their duties. 16, Abner's disciples arrived and set up a meeting with the body of disciples. In the afternoon, Jesus selected a group of ten women (later twelve). 18, The 75 evangelists who had passed the test of personal experience in the villages joined the group of twenty-four. These were sent on the third preaching tour to all the villages. 22, Saturday in Tiberias
+1, Jusqu'à ce jour, les groupes d'évangélistes restèrent ensemble à raconter leurs expériences. Ensuite, ils bénéficièrent de deux semaines de repos pour se consacrer à leurs devoirs. 16, Les disciples d'Abner arrivèrent et organisèrent une réunion avec l'ensemble des disciples. Dans l'après-midi, Jésus choisit un groupe de dix femmes (plus tard douze). 18, Les 75 évangélistes ayant passé avec succès le test d'expérience personnelle dans les villages rejoignirent le groupe de vingt-quatre. Ceux-ci furent envoyés pour la troisième tournée de prédication dans tous les villages. 22, Samedi à Tibériade
 
-<a name="Feb_29"></a> **FEBRUARY**
+<a name="29_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -5003,9 +5003,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 |    |    |    |    |    |    |
 
-<a name="Mar_29"></a> **MARCH**
+<a name="Mar_29"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -5013,11 +5013,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-4, Meeting in Nazareth of the touring group; 5, Sabbath services in the synagogue; rejection of the preaching by the people of his town; 10, The preaching groups meet in Bethsaida. 10 and 11, days of fishing on the lake or odd jobs. 12, Attending the synagogue; 13, Jesus begins a new teaching system: parables; 19, Jesus withdraws to the hills; 20, Traveling by boat on the lake to escape the crowds. The storm on the lake. 21, The lunatic at Cheresah; 22, Return to Capernaum. Healing of the woman with a hemorrhage and of Jairus's daughter. They spend the night in Bethsaida. 27, They withdraw from the crowd in the park on the eastern shore of the lake; 30, The meal for five thousand, and the attempted coronation; Peter's dream at night as they return by boat; 24 in the morning they sleep at Zebedee's house. Jesus then retires for a few days to the region of Gennesaret.
+4, Rencontre à Nazareth du groupe en tournée ; 5, Offices du sabbat à la synagogue ; rejet de la prédication par les habitants de sa ville ; 10, Les groupes de prédication se réunissent à Bethsaïde. 10 et 11, journées de pêche sur le lac ou petits boulots. 12, Fréquentation de la synagogue ; 13, Jésus commence un nouvel enseignement : les paraboles ; 19, Jésus se retire dans les collines ; 20, Voyage en barque sur le lac pour échapper à la foule. La tempête sur le lac. 21, Le fou à Keresah ; 22, Retour à Capharnaüm. Guérison de la femme atteinte d'hémorragie et de la fille de Jaïrus. Ils passent la nuit à Bethsaïde. 27, Ils se retirent de la foule dans le parc sur la rive orientale du lac ; 30, Le repas pour cinq mille et la tentative de couronnement ; Le songe nocturne de Pierre alors qu'ils reviennent en barque ; Le 24 au matin, ils couchèrent chez Zébédée. Jésus se retira ensuite pour quelques jours dans la région de Génésareth.
 
-<a name="Apr_29"></a> **APRIL**
+<a name="Apr_29"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -5025,11 +5025,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-3, Journey to Jerusalem from Bethsaida via Gerasa and Philadelphia; 6, in the evening, arrival at Bethany; 24, departure from Jerusalem to Bethsaida via Joppa, Caesarea, Ptolemais, Ramah and Chorazin; 29, Arrival at Bethsaida; 30, Saturday, Jesus officiates in the synagogue
+3, Voyage à Jérusalem depuis Bethsaïde via Gérasa et Philadelphie ; 6, le soir, arrivée à Béthanie ; 24, départ de Jérusalem pour Bethsaïde via Joppé, Césarée, Ptolémaïs, Rama et Chorazin ; 29, Arrivée à Bethsaïde ; 30, samedi, Jésus officie dans la synagogue
 
-<a name="May_29"></a> **MAY**
+<a name="29_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -5038,11 +5038,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-1-7, Jesus holds intimate consultations with his followers at Zebedee's house; 6, the religious authorities decide to close the doors of the Capernaum synagogue to Jesus. 8, from all Palestine. Jesus gives his disciples a week's vacation; 16, the religious authorities before Herod in Tiberias; 18, agreement to arrest Jesus; 21, Pilate gives his authorization. That same Sabbath, the leaders meet in the Capernaum synagogue; 22, they flee from Capernaum by boat just as Jesus' family was arriving, heading for Cheresa; then they go to Caesarea Philippi and from there to Phoenicia. 23, Jesus sends Peter with the evangelists to Chorazin. They remain there for two weeks. 24, The rest arrive at Caesarea Philippi. They remain there for two weeks.
+1-7, Jésus tient des consultations intimes avec ses disciples chez Zébédée ; 6, les autorités religieuses décident de fermer les portes de la synagogue de Capharnaüm à Jésus. 8, de toute la Palestine. Jésus accorde à ses disciples une semaine de congé ; 16, les autorités religieuses comparaissent devant Hérode à Tibériade ; 18, accord pour arrêter Jésus ; 21, Pilate donne son autorisation. Ce même sabbat, les chefs se réunissent à la synagogue de Capharnaüm ; 22, ils fuient Capharnaüm en bateau au moment où la famille de Jésus arrive, se dirigeant vers Chérésa ; puis ils se rendent à Césarée de Philippe, puis en Phénicie. 23, Jésus envoie Pierre avec les évangélistes à Chorazin. Ils y restent deux semaines. 24, Les autres arrivent à Césarée de Philippe. Ils y restent deux semaines.
 
-<a name="Jun_29"></a> **JUNE**
+<a name="29_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -5050,11 +5050,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-7, Peter and his men set out for Caesarea and arrived on the 8th. 9, They all set out for Phoenicia, skirting the marshy region on the way to Luz, and arriving at Sidon on the 10th. Near Luz, a memorable sermon on true religion was given. In Sidon they spent two and a half weeks resting. 28, They began the journey up the coast, passing through Porphyreon and Heldua.
+7, Pierre et ses hommes partirent pour Césarée et arrivèrent le 8, 9, Ils partirent tous pour la Phénicie, longeant la région marécageuse en direction de Luz, et arrivèrent à Sidon le 10, Près de Luz, un sermon mémorable sur la vraie religion fut prononcé. À Sidon, ils passèrent deux semaines et demie de repos. 28, Ils commencèrent leur voyage en remontant la côte, passant par Porphyreon et Heldua.
 
-<a name="Jul_29"></a> **JULY**
+<a name="Jul_29"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -5062,11 +5062,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-6, They return to Sidon and stay at Justa's house until the 10th, when they travel south, arriving in Tyre on the 11th. 11-24, Teachings in Tyre; 24, They leave Tyre and arrive at Ptolemais, where they spend a day. 25, Peter preaches at night. 26, They leave Ptolemais and arrive at Jotapatha, where they stay that day and on the 27th. 28, They leave Jotapatha and arrive at Ramah on the 29th. They spend the Sabbath there. 31, They arrive in Zebulun, spend the night, and leave the next day.
+6, Ils retournent à Sidon et restent chez Justa jusqu'au 10, puis ils voyagent vers le sud et arrivent à Tyr le 11, 11-24, Enseignements à Tyr ; 24, Ils quittent Tyr et arrivent à Ptolémaïs, où ils passent une journée. 25, Pierre prêche la nuit. 26, Ils quittent Ptolémaïs et arrivent à Jotapatha, où ils restent ce jour-là et le 27, 28, Ils quittent Jotapatha et arrivent à Rama le 29, Ils y passent le sabbat. 31, Ils arrivent à Zabulon, y passent la nuit et repartent le lendemain.
 
-<a name="Aug_29"></a> **AUGUST**
+<a name="29_août"></a> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -5074,11 +5074,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-1, they reach the region of Gennesaret; that night they cross the lake by boat and rest in the hills all the following day, day 2, in the park east of the lake; 7, unsuccessful attempt to arrange a meeting between Jesus and his family in Capernaum; they are forced to pay the tribute; at night they rowed secretly to Bethsaida and camped in the park of Magadan, near Bethsaida-Julias; 8, Public conference with all the preaching groups and uproar with the Pharisees; at night, secret meeting; 9, Jesus and the Twelve leave for Caesarea Philippi; 10, At the house of Celsus; 11, David's messengers arrive with money to provide for them; 12, they leave for Mount Hermon; 15, Jesus and the three apostles begin the ascent; that night, the transfiguration; then, the descent; 16, in the morning the four arrive at base camp; Jesus heals an epileptic boy; they head for Caesarea and spend the night at Celsus's house; 17 They depart and arrive in Magadan, passing unnoticed by Peter's house in Capernaum, and arriving in Magadan by night; 18 Until September 16, all the preaching groups go on a tour of the Decapolis.
+1, ils atteignent la région de Génésareth ; cette nuit-là, ils traversent le lac en bateau et se reposent dans les collines tout le jour suivant, jour 2, dans le parc à l'est du lac ; 7, tentative avortée d'organiser une rencontre entre Jésus et sa famille à Capharnaüm ; ils sont obligés de payer le tribut ; la nuit, ils rament secrètement jusqu'à Bethsaïde et campent dans le parc de Magadan, près de Bethsaïde-Julias ; 8, Conférence publique avec tous les groupes de prédication et tumulte avec les pharisiens ; la nuit, réunion secrète ; 9, Jésus et les Douze partent pour Césarée de Philippe ; 10, À la maison de Celse ; 11, Les messagers de David arrivent avec de l'argent pour subvenir à leurs besoins ; 12, ils partent pour le mont Hermon ; 15, Jésus et les trois apôtres commencent l'ascension ; cette nuit-là, la transfiguration ; puis, la descente ; 16, au matin, les quatre arrivent au camp de base ; Jésus guérit un garçon épileptique ; ils se dirigent vers Césarée et passent la nuit chez Celse ; 17 Ils partent et arrivent à Magadan, passant inaperçus devant la maison de Pierre à Capharnaüm, et arrivent à Magadan de nuit ; 18 Jusqu'au 16 septembre, tous les groupes de prédication font une tournée dans la Décapole.
 
-<a name="Sep_29"></a> **SEPTEMBER**
+<a name="Sep_29"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -5086,11 +5086,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-16, Return to Magadan; 18-23 Week of rest; conversations with Rodan; 25 Meeting in Magadan; 26 Departure for Jerusalem (Rodan, Thomas, and Nathanael remain behind); 28 Arrival in Bethany at night; 30 Thomas and Nathanael arrive
+16, Retour à Magadan ; 18-23 Semaine de repos ; conversations avec Rodan ; 25 Rencontre à Magadan ; 26 Départ pour Jérusalem (Rodan, Thomas et Nathanaël restent sur place) ; 28 Arrivée à Béthanie dans la nuit ; 30 Arrivée de Thomas et Nathanaël
 
-<a name="Oct_29"></a> **OCTOBER**
+<a name="Oct_29"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -5099,11 +5099,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-1-12 Visits to Bethany and Bethlehem; sporadic teachings in Jerusalem; 13-20 Feast of Tabernacles; 21-29 In Bethlehem with Abner; 30 Departure from Ephraim
+1-12 Visites à Béthanie et Bethléem ; enseignements sporadiques à Jérusalem ; 13-20 Fête des Tabernacles ; 21-29 À Bethléem avec Abner ; 30 Départ d'Éphraïm
 
-<a name="Nov_29"></a> **NOVEMBER**
+<a name="Nov_29"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -5111,11 +5111,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |    |    |    |    |
 
-2 Arrival in Magadan; 4 Arrival of Abner's men; 4-19 Intensive training course; 19 Ordination and 20 dispatch of the Seventy; 20-5 Council in Magadan
+2 Arrivée à Magadan ; 4 Arrivée des hommes d'Abner ; 4-19 Stage intensif ; 19 Ordination et 20 envoi des Soixante-dix ; 20-5 Concile à Magadan
 
-<a name="Dec_29"></a> **DECEMBER**
+<a name="Dec_29"></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -5123,13 +5123,13 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-6 Departure from Magadan to Pella; 7 Jesus leaves them setting up camp and goes with Nathanael and Thomas to Jerusalem for the Feast of the Consecration; they spend the night in Jericho; 8 In Jerusalem, visit to Lazarus, night in Gethsemane; 9 Night, meeting at the house of Nicodemus; 10 Healing of the man born blind; 11 Return to Pella, night in Jericho; 12 Arrival at Pella and beginning of preaching; 18 David returns with the tents from Bethsaida and the camp is enlarged; 30 Arrival of the Seventy
+6 Départ de Magadan pour Pella ; 7 Jésus les laisse camper et se rend avec Nathanaël et Thomas à Jérusalem pour la fête de la Consécration ; ils passent la nuit à Jéricho ; 8 À Jérusalem, visite à Lazare, nuit à Gethsémané ; 9 Nuit, rencontre chez Nicodème ; 10 Guérison de l'aveugle-né ; 11 Retour à Pella, nuit à Jéricho ; 12 Arrivée à Pella et début de la prédication ; 18 David revient de Bethsaïda avec les tentes et le camp s'agrandit ; 30 Arrivée des Soixante-dix
 
-## YEAR 30 AD (36 years)
+## AN 30 après J.-C. (36 ans)
 
-<a name="Jan_30"></a> **JANUARY**
+<a name="Jan_30"></a> **JANVIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -5138,11 +5138,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-3 Mission sent to Perea; January 1 - February 10 Jesus preaches in Pella and makes some visits; 28 Memorable sermon in Pella
+3 Mission envoyée en Pérée ; 1er janvier - 10 février Jésus prêche à Pella et fait quelques visites ; 28 Sermon mémorable à Pella
 
-<a name="Feb_30"></a> **FEBRUARY**
+<a name="30_févr"></a> **FÉVRIER**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -5150,11 +5150,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 |    |    |    |    |    |
 
-11-20 Jesus tours the villages of Perea; 18 In Ragaba; 19 Near Amathus, the 10 lepers; 22-25 In Philadelphia, breakfast with the Pharisees; 26 The message from Bethany arrives
+11-20 Jésus fait le tour des villages de Pérée ; 18 À Ragaba ; 19 Près d'Amathus, les 10 lépreux ; 22-25 À Philadelphie, petit-déjeuner avec les pharisiens ; 26 Le message de Béthanie arrive
 
-<a name="Mar_30"></a> **MARCH**
+<a name="Mar_30"></a> **MARS**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -5162,11 +5162,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-1 Journey to Bethany; 2 Raising of Lazarus; 3 Meeting of the Sanhedrin; 6 Arrival at Pella and teachings in Pella; 11 Memorable sermon on the Kingdom of Heaven; 13-28 From Pella they tour Perea; 29 In Livias; 30 In Jericho; 31 Arrival at Bethany
+1 Voyage à Béthanie ; 2 Résurrection de Lazare ; 3 Réunion du Sanhédrin ; 6 Arrivée à Pella et enseignements à Pella ; 11 Sermon mémorable sur le Royaume des Cieux ; 13-28 De Pella, ils visitent la Pérée ; 29 À Livie ; 30 À Jéricho ; 31 Arrivée à Béthanie
 
-<a name="Apr_30"></a> **APRIL**
+<a name="30_avr"></a> **AVRIL**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -5174,11 +5174,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-1-6 Last days in Jerusalem; 7 Crucifixion; 8 The saddest day of Easter; 9 Beginning of appearances in Jerusalem and Emmaus; 11 Appearance in Philadelphia; 15 Second appearance to the apostles; 16 The apostles with John Mark leave for Galilee; 18 Appearance in Alexandria; 19 At night the apostles arrive at Bethsaida; 21 Appearance of Jesus to the apostles while they were fishing; 22 With Jesus on the Mount of Ordination; 22-29 They remained in Bethsaida waiting; 29 Appearance of Jesus to more than 500 brothers; 30 The apostles return to Jerusalem
+1-6 Derniers jours à Jérusalem ; 7 Crucifixion ; 8 Le jour le plus triste de Pâques ; 9 Début des apparitions à Jérusalem et à Emmaüs ; 11 Apparition à Philadelphie ; 15 Seconde apparition aux apôtres ; 16 Les apôtres avec Jean Marc partent pour la Galilée ; 18 Apparition à Alexandrie ; 19 De nuit, les apôtres arrivent à Bethsaïde ; 21 Apparition de Jésus aux apôtres alors qu'ils pêchaient ; 22 Avec Jésus sur la montagne de l'Ordination ; 22-29 Ils restèrent à Bethsaïde en attente ; 29 Apparition de Jésus à plus de 500 frères ; 30 Les apôtres retournent à Jérusalem
 
-<a name="May_30"></a> **MAY**
+<a name="30_mai"></a> **MAI**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
@@ -5186,11 +5186,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-3, when they arrive, they are met with the sad news that Elijah Mark has died (he had a stroke); 4, general meeting in the Upper Room; 5, appearance of Jesus in the Garden of Nicodemus; 13, appearance of Jesus to the people of Sychar; 16, appearance in Tyre; 18, last appearance to the apostles and ascension; in the morning, general meeting at the house of Mary Mark and election of Matthias; in the afternoon, arrival of the Spirit of Truth and glorious preaching in the Temple: it was the beginning of a new era.
+3, à leur arrivée, ils sont accueillis par la triste nouvelle qu'Élie Marc est mort (il a eu un accident vasculaire cérébral) ; 4, assemblée générale au Cénacle ; 5, apparition de Jésus au jardin de Nicodème ; 13, apparition de Jésus au peuple de Sychar ; 16, apparition à Tyr ; 18, dernière apparition aux apôtres et ascension ; le matin, assemblée générale chez Marie Marc et élection de Matthias ; l'après-midi, arrivée de l'Esprit de Vérité et prédication glorieuse au Temple : c'est le début d'une ère nouvelle.
 
-<a name="Jun_30"></a> **JUNE**
+<a name="30_juin"> **JUIN**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    | 1  | 2  | 3  | 4  |
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
@@ -5198,9 +5198,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="Jul_30"></a> **JULY**
+<a name="30_juillet"></a> **JUILLET**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    | 1  | 2  |
 | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
@@ -5209,9 +5209,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_30"></a> **AUGUST**
+<a name="30_août"> **AOÛT**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    | 1  | 2  | 3  | 4  | 5  | 6  |
 | 7  | 8  | 9  | 10 | 11 | 12 | 13 |
@@ -5219,9 +5219,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="Sep_30"></a> **SEPTEMBER**
+<a name="Sep_30"></a> **SEPTEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -5229,9 +5229,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 |    |
 
-<a name="Oct_30"></a> **OCTOBER**
+<a name="Oct_30"></a> **OCTOBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    |    |    | 1  |
 | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
@@ -5240,9 +5240,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Nov_30"></a> **NOVEMBER**
+<a name="Nov_30"></a> **NOVEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    | 1  | 2  | 3  | 4  | 5  |
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
@@ -5250,9 +5250,9 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="Dec_30"></a> **DECEMBER**
+<a name="30_déc."></a> **DÉCEMBRE**
 
-| M    | T    | W    | T    | F    | S    | S    |
+| L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |    |    |    |    | 1  | 2  | 3  |
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
@@ -5260,11 +5260,11 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-## Enlaces externos
+## Liens externes
 
-* [Artículo original: Cronología de la vida de Jesús según El Libro de Urantia, en PDF](https://buscandoajesus.wordpress.com/descargas/)
-* [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
-* [«Urantia Association of Spain» — Index](/en/index/articles_spain)
+* [Article original : Chronologie de la vie de Jésus selon Le Livre d'Urantia, en PDF](https://buscandoajesus.wordpress.com/descargas/)
+* [Cet article est disponible sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
+* [« Association Urantia d'Espagne » — Index](/fr/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>
@@ -5272,8 +5272,8 @@ At the end of the month, Jesus and the twenty-four moved toward Pella, camping n
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>

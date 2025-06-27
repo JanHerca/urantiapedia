@@ -108,7 +108,7 @@ Bien que la science qui apparaît dans _Le Livre d'Urantia_ soit très limitée 
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Semilla-de-mostaza.png" alt="Semilla de mostaza" width="250">
 </figure>
 
-[**Réflexions sur la parabole de la graine de moutarde (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
+[**Réflexions sur la parabole de la graine de moutarde (Olga López)**](/fr/article/Olga_Lopez/Reflexiones_sobre_la_parabola_de_la_semilla_de_mostaza) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf))
 
 Selon les mots de l'auteur : « Les paraboles de Jésus n'ont pas une seule interprétation, mais servent plutôt à évoquer en nous des images et des idées élevées et à nous aider à discerner la voie pour progresser spirituellement... La parabole de la graine de moutarde est l'un des « les plus connus que Jésus a utilisés en faisant référence au développement du royaume des cieux dans le cœur des hommes  ». Précisément pour approfondir les significations qu'évoque cette parabole, l'auteur passe en revue toutes les références que l'on peut trouver dans la quatrième partie du _Le Livre d'Urantia_ et passe en revue les énoncés qui sont liés à la comparaison du royaume des cieux avec la graine de moutarde. Car « La graine de moutarde est vraiment la plus petite de toutes les graines, mais lorsqu'elle a poussé, elle est le plus gros des légumes, et elle devient un arbre. » <a id="a112_877"></a>[LU 151:4.2](/fr/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />
