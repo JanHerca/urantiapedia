@@ -12,6 +12,7 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Novedades de Junio 2025](/es/news/2025/06)
 - [Novedades de Mayo 2025](/es/news/2025/05)
 - [Informe Especial — Programa «Semilla de Mostaza»](/es/news/2025/Special)
 - [Novedades de Marzo 2025](/es/news/2025/03)

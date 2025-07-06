@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Notícias de junho de 2025](/pt/news/2025/06)
 - [Notícias de maio de 2025](/pt/news/2025/05)
 - [Relatório Especial — «Programa Semente de Mostarda»](/pt/news/2025/Special)
 - [Notícias de março de 2025](/pt/news/2025/03)
