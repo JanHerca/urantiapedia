@@ -111,7 +111,7 @@ L'auteur commence son ouvrage par une citation du livre qui exprime que le grand
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Vida-y-ensenanza-de-Jesus.jpg" alt="Cronología" width="250">
 </figure>
 
-[**Chronologie de la vie de Jésus sur Urantia (Jimmer Prieto)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
+[**Chronologie de la vie de Jésus sur Urantia (Jimmer Prieto)**](/fr/article/Jimmer_Prieto/Cronologia_de_la_vida_de_Jesus_en_Urantia) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf))
 
 Les travaux réalisés par les lecteurs qui font une chronologie des événements de la vie de Jésus selon _Le Livre d'Urantia_ ne manquent pas. Dans le cas de l'auteur de cette chronologie, il convient de noter que la vie de Jésus apparaît regroupée par étapes, lorsque cela est possible, la référence au même événement apparaît à la fin dans les évangiles. Le tout avec un style très schématique et clair, et où les références sont faciles à trouver, depuis la naissance de Jésus jusqu'aux événements de la Pentecôte.
 <br style="clear:both" />

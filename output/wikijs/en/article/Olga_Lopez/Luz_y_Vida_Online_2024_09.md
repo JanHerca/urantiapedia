@@ -85,7 +85,7 @@ In this brief outline, the author helps us to make sense of the beings whose cha
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Jesus-a-los-18-anos.jpg" alt="Vida y enseñanzas de Jesús" width="250">
 </figure>
 
-[**The life and teachings of Jesus (Jesús Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf)
+[**The life and teachings of Jesus (Jesús Rodríguez)**](/en/article/Jesus_Rodriguez/La_vida_y_ensenanzas_de_Jesus) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf))
 
 At the beginning of this extensive work, its author highlights that in the life of Jesus we must differentiate between his personal ministry and his public ministry, separated by a short period of transition. Each of them has unique characteristics and served specific and unique purposes. Next, he summarizes the events of his life and the meaning they had in chronological order.
 <br style="clear:both;"/>

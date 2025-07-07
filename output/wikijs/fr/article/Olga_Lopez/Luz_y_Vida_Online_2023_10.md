@@ -83,7 +83,7 @@ Dans cet article, l’auteur discute de la différence entre ces trois actions, 
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/El-mundo-de-la-cruz.jpg" alt="¿Era la crucifixión necesaria?" width="250">
 </figure>
 
-[**La crucifixion était-elle vraiment nécessaire ? (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf)
+[**La crucifixion était-elle vraiment nécessaire ? (Ken Glasziou)**](/fr/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf))
 
 C’est donc avec cette question que l’auteur commence son essai. Une question dont la réponse commence par «  cela dépend de la théologie de chacun  » et qui fait ensuite allusion à la doctrine de l’expiation. Il est intéressant de noter que l’auteur note que «  bien qu’elle soit mentionnée dans les évangiles et les épîtres du Nouveau Testament, il est douteux que la doctrine de l’expiation ait eu une grande importance pour les premières communautés chrétiennes  ». C'est beaucoup plus tard que les idées de saint Augustin d'Hippone sur le péché originel et sur le fait que nous naissons tous dans un état de culpabilité et de condamnation ont commencé à se répandre et à prendre de l'importance dans la théologie chrétienne ultérieure. L'auteur réfléchit également à l'attitude que nous, lecteurs, devrions avoir envers ceux qui y croient, à la lumière des enseignements du Livre d'Urantia.
 <br style="clear:both;"/>

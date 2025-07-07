@@ -89,7 +89,7 @@ Y a lo largo del resto de su vida, sus experiencias incluyeron:
 ## Enlaces externos
 
 - [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html)
-
+- [Traducción de Olga López](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf)
 
 
 <figure class="table chapter-navigator">

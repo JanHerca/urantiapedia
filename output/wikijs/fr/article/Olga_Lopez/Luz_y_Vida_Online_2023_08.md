@@ -87,7 +87,7 @@ Avant l’existence des groupes d’étude en personne, il y avait des lecteurs 
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Creer-JAW.jpg" alt="Creer" width="250">
 </figure>
 
-[**Croire (José Alberto Wonsover)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf)
+[**Croire (José Alberto Wonsover)**](/fr/article/Jose_Alberto_Wonsover/Creer) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf))
 
 Dans cet écrit révélateur, l’auteur nous dit qu’il est non seulement important de vouloir changer, mais de faire des pas dans la bonne direction. Comme il le dit à juste titre : « Il y a beaucoup d’êtres humains qui disent qu’ils veulent mûrir et trouver la liberté intérieure et faire quelque chose pour y parvenir, mais ils se sont habitués à leur cage intérieure et ne veulent pas la quitter. » Et comment fait-on pour sortir de cette cage intérieure ? Par l'expérience. José Alberto nous dit : « Faire quelque chose pour obtenir quelque chose demande un effort et une lutte sans fin, mais ce but est déjà en nous. Le Père est en nous. Comment ne pourrions-nous pas y parvenir ?
 <br style="clear:both;"/>

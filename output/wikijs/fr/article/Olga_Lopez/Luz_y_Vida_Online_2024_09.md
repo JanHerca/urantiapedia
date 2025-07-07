@@ -85,7 +85,7 @@ Dans ce bref aperçu, l'auteur nous aide à avoir une idée des êtres dont les 
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Jesus-a-los-18-anos.jpg" alt="Vida y enseñanzas de Jesús" width="250">
 </figure>
 
-[**La vie et les enseignements de Jésus (Jesus Rodriguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf)
+[**La vie et les enseignements de Jésus (Jesus Rodriguez)**](/fr/article/Jesus_Rodriguez/La_vida_y_ensenanzas_de_Jesus) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf))
 
 Au début de ce vaste ouvrage, son auteur souligne que dans la vie de Jésus, il est nécessaire de différencier entre son ministère personnel et son ministère public, séparés par une courte période de transition. Chacun d’entre eux avait des caractéristiques uniques et servait des objectifs spécifiques et uniques. Ci-dessous, il résume les événements de sa vie et leur signification par ordre chronologique.
 <br style="clear:both;"/>

@@ -72,7 +72,7 @@ These messages of good Christmas wishes, these messages that speak of the “arr
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Quien-era-Jesus-1.jpg" alt="Jesús: hombre y mito" width="250">
 </figure>
 
-[**Jesus, man and myth (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf)
+[**Jesus, man and myth (Dick Bain)**](/en/article/Dick_Bain/Jesus_Man_and_Myth) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf))
 
 The author says at the beginning of the article: “Many of those who knew Jesus only by hearsay assumed that he was the reincarnation of some known prophet. Some of his enemies seemed to think that he was an ally of the prince of demons. But the apostles, who had lived with him for more than a year, believed that he was the Son of God, and also in some way the Messiah expected by the Jews. This certainly did not settle the question: the search for Jesus' identity has continued for 1,900 years and has not yet ended.” In this work, the author takes a tour of the evolution of the concept of Jesus in later Christianity, as well as a review of the historical Jesus. One thing is certain: there has not been a person who has had such an impact on the history of our planet.
 <br style="clear:both;"/>

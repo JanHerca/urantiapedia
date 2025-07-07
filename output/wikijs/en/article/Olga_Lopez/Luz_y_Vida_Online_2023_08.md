@@ -87,7 +87,7 @@ Before there were in-person study groups, there were readers who asked other rea
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Creer-JAW.jpg" alt="Creer" width="250">
 </figure>
 
-[**Creer (José Alberto Wonsover)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf)
+[**Creer (José Alberto Wonsover)**](/en/article/Jose_Alberto_Wonsover/Creer) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf))
 
 In this revealing writing, the author tells us that it is not only important to want to change, but to take steps in the right direction. As he rightly says: “There are many human beings who say they want to mature and find inner freedom and do something about it, but they have become accustomed to their inner cage and do not want to leave it.” And how do we manage to leave that inner cage? Through experience. José Alberto tells us: “Doing something to achieve something requires effort and an endless struggle, but that goal is already within us. The Father is within us.” How can we not achieve it?
 <br style="clear:both;"/>

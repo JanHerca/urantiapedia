@@ -135,7 +135,7 @@ La autora comienza con este párrafo del documento 84: «En los ideales del matr
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo" width="250">
 </figure>
 
-[**Jesús, inspiración y amigo (Ann Bendall)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf)
+[**Jesús, inspiración y amigo (Ann Bendall)**](/es/article/Ann_Bendall/Jesus_Inspiration_and_Friend) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf))
 
 En este breve artículo, la autora realiza un rápido repaso por la gran variedad de experiencias por las que pasó Jesús en su corta vida en Urantia. Hay un párrafo en concreto de su exposición en el que creo que todos estaremos de acuerdo: «Observando la vida de Jesús, no creo que ningún otro ser humano haya estado sometido jamás durante una vida tan corta a tantas adversidades como las que él sufrió. Mis propias experiencias palidecen por insignificantes en comparación, y sé que, sin importar lo que yo haya pasado, él llegó más lejos que yo.»
 <br style="clear:both" />

@@ -72,7 +72,7 @@ Estos mensajes de buenos deseos navideños, estos mensajes que hablan de la «ll
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Quien-era-Jesus-1.jpg" alt="Jesús: hombre y mito" width="250">
 </figure>
 
-[**Jesús, hombre y mito (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf)
+[**Jesús, hombre y mito (Dick Bain)**](/es/article/Dick_Bain/Jesus_Man_and_Myth) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf))
 
 Dice su autor al inicio del artículo: «Muchos de aquellos que conocieron a Jesús sólo de oídas asumieron que era la reencarnación de algún profeta conocido. Algunos de sus enemigos parecían pensar que era un aliado del príncipe de los demonios. Pero los apóstoles, que habían vivido con él durante más de un año, creían que era el Hijo de Dios, y también de alguna forma el Mesías esperado por los judíos. Esto ciertamente no dejó zanjada la cuestión: la búsqueda de la identidad de Jesús ha continuado durante 1.900 años y no ha finalizado todavía.» En este trabajo, el autor hace un recorrido por la evolución del concepto de Jesús en el cristianismo posterior, así como un repaso por el Jesús histórico. Una cosa es segura: no ha habido una persona que haya causado tanto impacto en la historia de nuestro planeta.
 <br style="clear:both;"/>

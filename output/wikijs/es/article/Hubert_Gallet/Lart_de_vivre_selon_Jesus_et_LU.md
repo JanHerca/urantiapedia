@@ -107,6 +107,10 @@ Y podríamos decir, en resumen, que la aplicación de su enseñanza al nivel de 
 
 Hubert Gallet
 
+## Referencias
+
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-arte-de-vivir.pdf)
+
 
 
 <figure class="table chapter-navigator">

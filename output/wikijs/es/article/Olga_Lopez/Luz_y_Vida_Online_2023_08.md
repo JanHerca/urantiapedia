@@ -87,7 +87,7 @@ Antes de que hubiera grupos de estudio presenciales, había lectores que plantea
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Creer-JAW.jpg" alt="Creer" width="250">
 </figure>
 
-[**Creer (José Alberto Wonsover)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf)
+[**Creer (José Alberto Wonsover)**](/es/article/Jose_Alberto_Wonsover/Creer) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Creer.pdf))
 
 En este revelador escrito, su autor nos habla de que no solo es importante querer cambiar, sino dar pasos en la dirección correcta. Como muy bien dice: «son muchos los seres humanos que dicen querer madurar y hallar la libertad interior y hacer algo al respecto, pero que se han acostumbrado a su jaula interna y no quieren abandonarla». ¿Y cómo conseguimos abandonar esa jaula interior? Por medio de la experiencia. Nos dice José Alberto: «hacer algo para alcanzar algo requiere esfuerzo y una lucha interminable, pero esa meta ya está en nosotros. El Padre está en nosotros.» ¿Cómo no vamos a conseguirlo?
 <br style="clear:both;"/>

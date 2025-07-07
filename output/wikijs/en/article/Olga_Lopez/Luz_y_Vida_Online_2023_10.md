@@ -83,7 +83,7 @@ In this article, the author discusses the difference between these three actions
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/El-mundo-de-la-cruz.jpg" alt="¿Era la crucifixión necesaria?" width="250">
 </figure>
 
-[**Was the crucifixion really necessary? (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf)
+[**Was the crucifixion really necessary? (Ken Glasziou)**](/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf))
 
 Thus, with that question, the author begins his essay. A question whose answer begins with “it depends on each person's theology” and which continues by alluding to the doctrine of atonement. Curiously, the author points out that “although it is mentioned in the gospels and in the epistles of the New Testament, it is doubtful that the doctrine of atonement was of great importance to the first Christian communities.” It was much later when the ideas of Saint Augustine of Hippo about original sin and that we are all born in a state of guilt and condemnation were those that were propagated and gained importance in later Christian theology. The author also reflects on the attitude that we as readers should have towards those who believe in it, in light of the teachings of _The Urantia Book_.
 <br style="clear:both;"/>

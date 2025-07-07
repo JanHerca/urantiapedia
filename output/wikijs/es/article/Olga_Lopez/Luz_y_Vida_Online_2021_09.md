@@ -159,7 +159,7 @@ En este interesantísimo trabajo que hará las delicias de los lectores aficiona
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/El-arte-de-vivir.jpg" alt="El arte de vivir" width="250">
 </figure>
 
-[**El arte de vivir (Hubert Gallet)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-arte-de-vivir.pdf)
+[**El arte de vivir (Hubert Gallet)**](/es/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-arte-de-vivir.pdf))
 
 En palabras de su autor, un lector canadiense, «Jesús no vino a la tierra para imponernos lo que era, sino para vivir su vida de la mejor manera posible y para mostrarnos un camino, creer en un alto ideal e inspirar, de este modo y con dulzura, un arte de vivir fundamentalmente innovador, en un mundo asolado en aquel entonces por el mal». Justamente en este trabajo se nos dan unas pinceladas sobre el arte de vivir que practicó Jesús, tal como aparecen en la cuarta parte de _El Libro de Urantia_.
 <br style="clear:both" />

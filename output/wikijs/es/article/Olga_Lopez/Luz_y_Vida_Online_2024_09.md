@@ -85,7 +85,7 @@ En este breve esquema, su autor nos ayuda a hacernos una composición de lugar s
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Jesus-a-los-18-anos.jpg" alt="Vida y enseñanzas de Jesús" width="250">
 </figure>
 
-[**La vida y enseñanzas de Jesús (Jesús Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf)
+[**La vida y enseñanzas de Jesús (Jesús Rodríguez)**](/es/article/Jesus_Rodriguez/La_vida_y_ensenanzas_de_Jesus) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-vida-y-ense%C3%B1anzas-de-Jes%C3%BAs-Jes%C3%BAs-Rodr%C3%ADguez.pdf))
 
 Al inicio de este extenso trabajo, su autor destaca que en la vida de Jesús hay que diferenciar entre su ministerio personal y su ministerio público, separados por un corto periodo de transición. Cada uno de ellos tiene unas características únicas y sirvieron a propósitos específicos y también únicos. A continuación, hace un resumen de los acontecimientos de su vida y del significado que tuvieron en orden cronológico.
 <br style="clear:both;"/>

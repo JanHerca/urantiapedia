@@ -136,7 +136,7 @@ L'auteur commence par ce paragraphe du document 84 : « Quant aux idéaux du mar
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo" width="250">
 </figure>
 
-[**Jésus, inspiration et amie (Ann Bendall)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf)
+[**Jésus, inspiration et amie (Ann Bendall)**](/fr/article/Ann_Bendall/Jesus_Inspiration_and_Friend) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf))
 
 Dans ce bref article, l’auteur donne un aperçu rapide de la grande variété d’expériences que Jésus a vécues au cours de sa courte vie sur Urantia. Il y a un paragraphe particulier dans sa présentation sur lequel je pense que nous serons tous d'accord : « En regardant la vie de Jésus, je ne crois pas qu'aucun autre être humain ait jamais été soumis, au cours d'une vie aussi courte, à autant d'adversités qu'il en a souffert. Mes propres expériences sont insignifiantes en comparaison, et je sais que, peu importe ce que j'ai vécu, il est allé plus loin que moi.
 <br style="clear:both" />
