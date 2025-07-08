@@ -72,7 +72,7 @@ La religieuse n'était pas très convaincue. Comment pourrais-je atteindre cette
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**Méditation dans le mouvement urantien (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**Méditation dans le mouvement urantien (Francisco J. Santos)**](/fr/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco commence par passer en revue ce que dit Le Livre d'Urantia sur la méditation et arrive à quelques conclusions initiales à ce sujet :
 <br style="clear:both;"/>

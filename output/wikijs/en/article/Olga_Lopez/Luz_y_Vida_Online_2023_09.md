@@ -72,7 +72,7 @@ The nun did not leave very convinced. How could she achieve that inner peace wit
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**Meditation in the Urantian movement (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**Meditation in the Urantian movement (Francisco J. Santos)**](/en/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco begins by reviewing what _The Urantia Book_ says about meditation, and reaches some initial conclusions about it:
 <br style="clear:both;"/>

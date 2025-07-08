@@ -40,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**Meditation in the Urantian movement (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**Meditation in the Urantian movement (Francisco J. Santos)**](/en/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco begins by reviewing what _The Urantia Book_ says about meditation, and reaches some initial conclusions about it:
 <br style="clear:both;"/>
@@ -73,7 +73,7 @@ Marinett reviews the family, from the Paradise Trinity to the human family. She 
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Inma.jpeg" alt="Inma Gómez" width="350">
 </figure>
 
-[**Work, business and money (Inmaculada Gómez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf)
+[**Work, business and money (Inmaculada Gómez)**](/en/article/Inmaculada_Gomez/Trabajo_Negocio_Dinero) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf))
 
 Inma begins with a series of references to work that appear in _The Urantia Book_, in which it is seen as a way of serving others, in which it is important to maintain a positive attitude and be clear that there are no inferior occupations.
 
@@ -88,7 +88,7 @@ Here you can access the [PDF with the images supporting the presentation](https:
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Santi.jpg" alt="Santi Rodríguez" width="350">
 </figure>
 
-[**Technology and science (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf)
+[**Technology and science (Santiago Rodríguez)**](/en/article/Santiago_Rodriguez/La_tecnologia_y_la_ciencia_a_la_luz_de_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf))
 
 To clarify the topic of the presentation, Santi begins with the definition of technology and science, and makes a series of very interesting and pertinent observations in these times in which the scientific method is undervalued. He points out what makes us uncomfortable about science, and wonders if we should stop the advance of technology, as Urantians and in the face of current dilemmas: privacy and data protection, AI and automation, genetic editing and biotechnology, digital inequality, cybersecurity, climate change, use of technology in armed conflicts, etc.
 
@@ -103,7 +103,7 @@ Here you can access the [PDF with the images supporting the presentation](https:
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-M.-Helena.jpg" alt="M. Helena Bañas" width="350">
 </figure>
 
-[**Health, illness and death (M. Helena Bañas)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf)
+[**Health, illness and death (M. Helena Bañas)**](/en/article/Helena_Banas/La_salud_la_enfermedad_y_la_muerte) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf))
 
 M. Helena makes a historical review of the reflections on death that appear in _The Urantia Book_, and explains what the current situation is: there is a certain return to magic and shamanism, since there is no religion that can provide support. On the other hand, doctors treat the symptoms, but they do not go to the root of the problems. Many people suffer from anxiety-depressive syndrome.
 

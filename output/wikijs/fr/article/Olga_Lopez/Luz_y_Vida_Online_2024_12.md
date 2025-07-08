@@ -84,7 +84,7 @@ Dans cette présentation, et dans le cadre du Symposium sur la Famille organisé
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/La-utopia-como-certeza.png" alt="La utopía como certeza" width="250">
 </figure>
 
-[**L'utopie comme certitude (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-UTOPIA-COMO-CERTEZA-Web.pdf)
+[**L'utopie comme certitude (Olga López)**](/fr/article/Olga_Lopez/La_utopia_como_certeza) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/11/LA-UTOPIA-COMO-CERTEZA-Web.pdf))
 
 Depuis des siècles, de nombreuses tentatives ont été faites pour imaginer des sociétés parfaites où règnent la paix et l’harmonie et où les êtres humains développent leur plein potentiel. Et c’est ici que _Le Livre d’Urantia_ nous remplit d’espoir lorsque les révélateurs affirment que l’utopie n’est pas quelque chose d’inatteignable, mais fait plutôt partie de la destinée planétaire et d’un objectif sûr dans les âges planétaires des mortels. Et ce n’est pas tout : il offre de brillantes réflexions sur l’État, la démocratie et d’autres institutions humaines, ainsi que des recettes pour les améliorer qui seraient réalisables s’il y avait la volonté de les appliquer.
 <br style="clear:both;"/>

@@ -40,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**Méditation dans le mouvement urantien (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**Méditation dans le mouvement urantien (Francisco J. Santos)**](/fr/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco commence par passer en revue ce que dit _Le Livre d'Urantia_ sur la méditation et tire quelques conclusions initiales à ce sujet :
 <br style="clear:both;"/>
@@ -73,7 +73,7 @@ Marinett passe en revue la famille, allant de la Trinité du Paradis à la famil
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Inma.jpeg" alt="Inma Gómez" width="350">
 </figure>
 
-[**Travail, affaires et argent (Inmaculada Gómez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf)
+[**Travail, affaires et argent (Inmaculada Gómez)**](/fr/article/Inmaculada_Gomez/Trabajo_Negocio_Dinero) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf))
 
 Inma commence par une série de références au travail qui apparaissent dans _Le Livre d'Urantia_, dans lequel il est considéré comme une manière de servir les autres, dans laquelle il est important de maintenir une attitude positive et d'être clair qu'il n'y a pas d'occupations inférieures.
 
@@ -88,7 +88,7 @@ Ici vous pouvez accéder au [PDF avec les images supportant la présentation](ht
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Santi.jpg" alt="Santi Rodríguez" width="350">
 </figure>
 
-[**Technologie et science (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf)
+[**Technologie et science (Santiago Rodríguez)**](/fr/article/Santiago_Rodriguez/La_tecnologia_y_la_ciencia_a_la_luz_de_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf))
 
 Pour clarifier le thème de la présentation, Santi commence par la définition de la technologie et de la science, et fait une série d’observations très intéressantes et pertinentes en ces temps où la méthode scientifique est sous-estimée. Il souligne ce qui nous met mal à l'aise dans la science et se demande si nous devrions arrêter l'avancée de la technologie, en tant qu'Urantiens et face aux dilemmes actuels : confidentialité et protection des données, IA et automatisation, édition génétique et biotechnologie, inégalités numériques, cybernétique de sécurité , changement climatique, utilisation de la technologie dans les conflits armés, etc.
 
@@ -103,7 +103,7 @@ Ici vous pouvez accéder au [PDF avec les images supportant la présentation](ht
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-M.-Helena.jpg" alt="M. Helena Bañas" width="350">
 </figure>
 
-[**Santé, maladie et mort (M. Helena Bañas)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf)
+[**Santé, maladie et mort (M. Helena Bañas)**](/fr/article/Helena_Banas/La_salud_la_enfermedad_y_la_muerte) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf))
 
 M. Helena fait une revue historique des réflexions sur la mort qui paraissent dans _Le Livre d'Urantia_, et explique la situation actuelle : il y a un certain retour à la magie et au chamanisme, puisqu'il n'y a pas de religion qui puisse fournir un soutien. En revanche, les médecins traitent les symptômes, mais ne s’attaquent pas à la racine des problèmes. De nombreuses personnes souffrent du syndrome anxieux-dépressif.
 

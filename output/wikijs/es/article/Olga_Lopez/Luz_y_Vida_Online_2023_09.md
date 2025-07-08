@@ -72,7 +72,7 @@ La religiosa no se fue muy convencida. ¿Cómo podía alcanzar aquella paz inter
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**La meditación en el movimiento urantiano (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**La meditación en el movimiento urantiano (Francisco J. Santos)**](/es/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco comienza haciendo un repaso por lo que dice _El libro de Urantia_ sobre la meditación, y llega a unas conclusiones iniciales sobre ella:
 <br style="clear:both;"/>

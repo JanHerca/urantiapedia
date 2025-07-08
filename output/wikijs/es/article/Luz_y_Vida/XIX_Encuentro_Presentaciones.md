@@ -40,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Paco-Santos.jpg" alt="Paco Santos" width="350">
 </figure>
 
-[**La meditación en el movimiento urantiano (Francisco J. Santos)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf)
+[**La meditación en el movimiento urantiano (Francisco J. Santos)**](/es/article/Francisco_Javier_Santos_Castilla/La_Meditacion_en_el_Movimiento_Urantiano) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/LA-MEDITACION-EN-EL-MOVIMIENTO-URANTIANO-FCO.-JAVIER-SANTOS.pdf))
 
 Paco comienza haciendo un repaso por lo que dice _El libro de Urantia_ sobre la meditación, y llega a unas conclusiones iniciales sobre ella:
 <br style="clear:both;"/>
@@ -73,7 +73,7 @@ Marinett hace un repaso de la familia, que va desde la Trinidad del Paraíso a l
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Inma.jpeg" alt="Inma Gómez" width="350">
 </figure>
 
-[**El trabajo, los negocios y el dinero (Inmaculada Gómez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf)
+[**El trabajo, los negocios y el dinero (Inmaculada Gómez)**](/es/article/Inmaculada_Gomez/Trabajo_Negocio_Dinero) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Trabajo-Negocio-Dinero-Inmaculada-Gomez.pdf))
 
 Inma comienza con una serie de referencias al trabajo que aparecen en _El libro de Urantia_, en las que se ve como una forma de servir a los demás, en el que es importante mantener una actitud positiva y tener claro que no hay ocupaciones inferiores.
 
@@ -88,7 +88,7 @@ Aquí podéis acceder al [PDF con las imágenes de apoyo a la presentación](htt
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-Santi.jpg" alt="Santi Rodríguez" width="350">
 </figure>
 
-[**La tecnología y la ciencia (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf)
+[**La tecnología y la ciencia (Santiago Rodríguez)**](/es/article/Santiago_Rodriguez/La_tecnologia_y_la_ciencia_a_la_luz_de_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Ciencia-Tecnologia-Santiago-Rodriguez-.pdf))
 
 Para tener claro el tema de la presentación, Santi comienza con la definición de tecnología y ciencia, y hace una serie de observaciones muy interesantes y pertinentes en estos tiempos en los que se menosprecia el método científico. Señala lo que nos incomoda de la ciencia, y se pregunta si hemos de frenar el avance de la tecnología, como urantianos y ante los dilemas actuales: privacidad y protección de los datos, IA y automatización, edición genética y biotecnología, desigualdad digital, seguridad cibernética, cambio climático, uso de la tecnología en conflictos armados, etc.
 
@@ -103,7 +103,7 @@ Aquí podéis acceder al [PDF con las imágenes de apoyo a la presentación](htt
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-M.-Helena.jpg" alt="M. Helena Bañas" width="350">
 </figure>
 
-[**La salud, la enfermedad y la muerte (M. Helena Bañas)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf)
+[**La salud, la enfermedad y la muerte (M. Helena Bañas)**](/es/article/Helena_Banas/La_salud_la_enfermedad_y_la_muerte) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/Salud_Enfermedad_Muerte_Helena-Banas.pdf))
 
 M. Helena hace un repaso histórico de las reflexiones sobre la muerte que aparecen en _El libro de Urantia_, y expone cuál es la situación actual: se está dando cierto regreso a la magia y al chamanismo, pues no hay religión que sirva de agarre. Por otro lado, los médicos tratan los síntomas, pero no van a la raíz de los problemas. Muchas personas padecen de síndrome ansioso-depresivo.
 
