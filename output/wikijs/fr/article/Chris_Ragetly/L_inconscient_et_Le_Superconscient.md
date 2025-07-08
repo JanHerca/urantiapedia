@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-10-20T19:22:11Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Cris Ragetly<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Chris Ragetly<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

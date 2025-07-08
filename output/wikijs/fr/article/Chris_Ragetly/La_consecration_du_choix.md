@@ -68,7 +68,7 @@ En se consacrant à faire la volonté du Père, la créature se débarrasse des 
 
 En dernière analyse, le choix individuel entre le bien et le mal, la vérité et l'erreur, le matériel et le spirituel, l'humain et le divin, le temps et l'éternité, est le travail de la clairvoyance spirituelle.
 
-Chris Ragelty
+Chris Ragetly
 
 <figure class="table chapter-navigator">
   <table>

@@ -99,7 +99,7 @@ This work is the transcription of a presentation made on Zoom in August 2019, an
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Quien-era-Jesus-1.jpg" alt="¿Quién era Jesús?" width="250">
 </figure>
 
-[**Who was Jesus? (Chris M. Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf)
+[**Who was Jesus? (Chris M. Ragelty)**](/en/article/Chris_Ragetly/Qui_etait_Jesus) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf))
 
 This work was originally published in French in the magazine _Le Lien Urantien_, a publication of the AFFLU, the association of French readers. It consists of two parts: the first describes the personality traits of Jesus (highlighting, for example, what each apostle appreciated most about Jesus), accompanied by the corresponding quotes from the book. The second part deals with his different bestowals in the local universe, in order to more fully expose the character of our Creator Son.
 <br style="clear:both" />

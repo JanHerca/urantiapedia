@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragelty<br>© 2006 Olga López, for translation<br>© 2006 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragetly<br>© 2006 Olga López, for translation<br>© 2006 Urantia Association of Spain</p>
 <br>
 <figure class="table chapter-navigator">
   <table>
@@ -46,7 +46,7 @@ After the birth of the soul, which takes place concomitantly with the arrival of
 
 (The _Urantia Book_ quotes that are in bold italics are the passages that I highlight.)
 
-Published in [no 31 of the bulletin “Le Lien Urantien”](/en/article/Chris_Ragelty/Discernement_et_libre_arbitre) of the AFFLU.
+Published in [no 31 of the bulletin “Le Lien Urantien”](/en/article/Chris_Ragetly/Discernement_et_libre_arbitre) of the AFFLU.
 
 
 

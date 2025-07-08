@@ -25,7 +25,7 @@ dateCreated: 2024-10-20T19:22:11Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/en/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="pr-2">The Unconscious and the Superconscious</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -225,7 +225,7 @@ BALANCE SHEET AS OF 12/31/2014
         </a>
         </td>
         <td>
-        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/en/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="pr-2">The Unconscious and the Superconscious</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -102,7 +102,7 @@ The author says at the beginning of this work: «According to _The Urantia Book_
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Paul and Abner" width="250">
 </figure>
 
-[**Paul and Abner (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf)
+[**Paul and Abner (Olga López)**](/en/article/Olga_Lopez/Pablo_y_Abner) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf))
 
 In this work, the author reviews and compares the figures of Abner and Paul of Tarsus, since they personify different attitudes towards the gospel of Jesus: one, that of Abner, who, despite being much more faithful to the initial message, quickly fell into oblivion, in the face of Paul, who made many doctrinal concessions to adapt to the previous beliefs of other peoples. In the words of the author: «this reflection can be very useful to us, since the mission of Jesus supposed the fourth revelation of the age, and we, the readers of _The Urantia Book_, have the responsibility to avoid that the fifth revelation is distorted with time".
 <br style="clear:both" />

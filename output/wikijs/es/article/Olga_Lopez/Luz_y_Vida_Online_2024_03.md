@@ -97,7 +97,7 @@ En esta presentación, que se ofreció en uno de los encuentros de lectores espa
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-trabajo-en-equipo.jpg" alt="El trabajo en equipo" width="250">
 </figure>
 
-[**El trabajo en equipo (Chris Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
+[**El trabajo en equipo (Chris Ragetly)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
 
 Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». <a id="a101_761"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>

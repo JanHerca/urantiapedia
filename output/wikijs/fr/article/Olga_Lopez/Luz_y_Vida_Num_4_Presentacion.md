@@ -45,13 +45,13 @@ Bulletin de l'Association Urantia d'Espagne
 - A quoi servent les sept mondes des demeures ?, par Antonio Moya
 - Les données, par José A. Rodríguez Jorge
 - Un instant infini (poème), de Monique Fennes
-- Discernement et libre arbitre, par Chris Ragelty
+- Discernement et libre arbitre, par Chris Ragetly
 - VIe Rencontre des Lecteurs du _Livre d'Urantia_ en Espagne
 
 
 ## Présentation
 
-Chers amis : avec la ferme volonté de continuer à publier des épisodes de ce bulletin, nous vous présentons ce quatrième numéro de « Luz y Vida », le premier de cette année qui vient pratiquement de commencer. Nous incluons le dernier volet de l'œuvre de Santi « Une expérience personnelle ». L’idée d’écrire l’article « Amis et résidents sur Urantia » est née d’une question que je me suis posée sur les différents types d’êtres qui se trouvent ici même sur notre planète, dirigeant le gouvernement surhumain de ce monde troublé. L'article d'Antonio nous donne un aperçu très éclairant du rôle des mondes des maisons et de leur fonction en tant que complément expérientiel pour les mortels qui n'ont pas connu les époques de lumière et de vie. Nous joignons également un article de Chris Ragelty, lecteur résidant en France, sur une préoccupation très commune parmi les lecteurs du Livre : celle de faire connaître ses enseignements à ceux qui n'ont pas entendu parler de la révélation d'Urantia.
+Chers amis : avec la ferme volonté de continuer à publier des épisodes de ce bulletin, nous vous présentons ce quatrième numéro de « Luz y Vida », le premier de cette année qui vient pratiquement de commencer. Nous incluons le dernier volet de l'œuvre de Santi « Une expérience personnelle ». L’idée d’écrire l’article « Amis et résidents sur Urantia » est née d’une question que je me suis posée sur les différents types d’êtres qui se trouvent ici même sur notre planète, dirigeant le gouvernement surhumain de ce monde troublé. L'article d'Antonio nous donne un aperçu très éclairant du rôle des mondes des maisons et de leur fonction en tant que complément expérientiel pour les mortels qui n'ont pas connu les époques de lumière et de vie. Nous joignons également un article de Chris Ragetly, lecteur résidant en France, sur une préoccupation très commune parmi les lecteurs du Livre : celle de faire connaître ses enseignements à ceux qui n'ont pas entendu parler de la révélation d'Urantia.
 
 Je tiens à remercier José et Monique pour leurs contributions qui enrichissent encore davantage notre bulletin.
 

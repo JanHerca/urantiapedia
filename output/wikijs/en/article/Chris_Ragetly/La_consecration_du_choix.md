@@ -69,7 +69,7 @@ By dedicating oneself to doing the will of the Father, the creature gets rid of 
 
 In the final analysis, the individual choice between good and evil, truth and error, material and spiritual, human and divine, time and eternity, is the work of spiritual clairvoyance.
 
-Chris Ragelty
+Chris Ragetly
 
 
 

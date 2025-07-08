@@ -93,6 +93,10 @@ _(Fin de la primera parte)_
 
 Chris Ragetly
 
+## Referencias
+
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 
 <figure class="table chapter-navigator">

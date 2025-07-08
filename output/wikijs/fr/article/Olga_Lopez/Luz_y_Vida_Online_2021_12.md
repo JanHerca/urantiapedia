@@ -98,7 +98,7 @@ Cet ouvrage est la transcription d'une présentation faite sur Zoom en août 201
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/Quien-era-Jesus-1.jpg" alt="¿Quién era Jesús?" width="250">
 </figure>
 
-[**Qui était Jésus ? (Chris M. Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf)
+[**Qui était Jésus ? (Chris M. Ragelty)**](/fr/article/Chris_Ragetly/Qui_etait_Jesus) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf))
 
 Cet ouvrage a été initialement publié en français dans la revue _Le Lien Urantien_, une publication de l'AFFLU, une association de lecteurs français. Il se compose de deux parties : la première décrit les traits de personnalité de Jésus (en soulignant, par exemple, ce que chaque apôtre appréciait le plus chez Jésus), accompagnée des citations correspondantes du livre. La deuxième partie traite de ses différentes effusions dans l'univers local, pour exposer plus complètement le caractère de notre Fils Créateur.
 <br style="clear:both" />

@@ -101,7 +101,7 @@ L'auteur dit au début de cet ouvrage : « D'après _Le Livre d'Urantia_ (...), 
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner" width="250">
 </figure>
 
-[**Pablo et Abner (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf)
+[**Pablo et Abner (Olga López)**](/fr/article/Olga_Lopez/Pablo_y_Abner) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf))
 
 Dans cet ouvrage, l'auteur passe en revue et compare les figures d'Abner et de Paul de Tarse, car ils personnifient des attitudes différentes envers l'Évangile de Jésus : l'une, celle d'Abner, qui, bien que beaucoup plus fidèle au message initial, tomba rapidement en discrédit. .oubliant, comparé à Paul, qui a fait de nombreuses concessions doctrinales pour s'adapter aux croyances antérieures des autres peuples. En palabras de la autora: «esta reflexión nos puede ser muy útil, pues la misión de Jesús supuso la cuarta revelación de época, y nosotros, los lectores de _El Libro de Urantia_, tenemos la responsabilidad de evitar que la quinta revelación se desvirtúe con le pas du temps".
 <br style="clear:both" />

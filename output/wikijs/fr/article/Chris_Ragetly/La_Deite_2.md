@@ -82,7 +82,7 @@ Et enfin sur le 3ème circuit de comprendre Dieu le Père.
 
 Nous aurons ainsi eu la chance de gravir les différents stades de cette Déité septuple qui en fait est là pour notre seul bénéfice.
 
-Chris Ragelty
+Chris Ragetly
 
 <figure class="table chapter-navigator">
   <table>

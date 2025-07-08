@@ -83,7 +83,7 @@ And finally on the 3rd circuit of understanding God the Father.
 
 We will thus have had the chance to climb the different stages of this sevenfold Deity who in fact is there for our sole benefit.
 
-Chris Ragelty
+Chris Ragetly
 
 
 

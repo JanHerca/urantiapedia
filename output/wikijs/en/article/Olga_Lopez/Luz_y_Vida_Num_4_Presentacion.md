@@ -46,13 +46,13 @@ Newsletter of the Urantia Association of Spain
 - What are the seven mansion worlds for?, by Antonio Moya
 - The data, by José A. Rodríguez Jorge
 - An infinite moment (poem), by Monique Fennes
-- Discernment and Free Will, by Chris Ragelty
+- Discernment and Free Will, by Chris Ragetly
 - VI Meeting of Readers of the _Urantia Book_ in Spain
 
 
 ## Presentation
 
-Dear friends: with the firm will to continue publishing issues of this newsletter, we present this fourth issue of “Light and Life”, the first of this year that has practically just begun. We include the latest installment of Santi's work “A personal experience”. The idea for writing the article “Friends and Residents on Urantia” arose from a question I asked myself about the different types of beings that are right here on our planet, running the superhuman government of this troubled world. Antonio's article gives us a very illuminating overview of the role of the mansion worlds and their function as an experiential complement for those mortals who have not known the eras of light and life. We have also attached an article by Chris Ragelty, a reader based in France, on a very common concern among readers of the Book: that of making its teachings known to those who have not heard of the Urantia revelation.
+Dear friends: with the firm will to continue publishing issues of this newsletter, we present this fourth issue of “Light and Life”, the first of this year that has practically just begun. We include the latest installment of Santi's work “A personal experience”. The idea for writing the article “Friends and Residents on Urantia” arose from a question I asked myself about the different types of beings that are right here on our planet, running the superhuman government of this troubled world. Antonio's article gives us a very illuminating overview of the role of the mansion worlds and their function as an experiential complement for those mortals who have not known the eras of light and life. We have also attached an article by Chris Ragetly, a reader based in France, on a very common concern among readers of the Book: that of making its teachings known to those who have not heard of the Urantia revelation.
 
 I would like to thank José and Monique for their contributions, which further enrich our newsletter.
 

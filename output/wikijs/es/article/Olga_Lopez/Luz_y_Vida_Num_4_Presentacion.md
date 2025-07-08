@@ -44,13 +44,13 @@ Boletín de la Asociación Urantia de España
 - ¿Para qué sirven los siete mundos de las mansiones?, de Antonio Moya
 - El dato, de José A. Rodríguez Jorge
 - Un instante infinito (poema), de Monique Fennes
-- Discernimiento y libre albedrío, de Chris Ragelty
+- Discernimiento y libre albedrío, de Chris Ragetly
 - VI Encuentro de Lectores del _Libro de Urantia_ en España
 
 
 ## Presentación
 
-Queridos amigos: con la voluntad firme de seguir publicando entregas de este boletín, os presentamos este cuarto número de «Luz y Vida», primero de este año que prácticamente acaba de comenzar. Incluimos la última entrega del trabajo de Santi «Una experiencia personal». La idea de escribir el artículo «Amigos y residentes en Urantia» surgió a raíz de una pregunta que me hice sobre los diferentes tipos de seres que están aquí mismo, en nuestro planeta, llevando el gobierno superhumano de este atribulado mundo. El artículo de Antonio nos da una visión de conjunto muy esclarecedora del papel de los mundos de las mansiones y su función de complemento experiencial para aquellos mortales que no han conocido las eras de luz y vida. También adjuntamos un artículo de Chris Ragelty, lector residente en Francia, sobre una inquietud muy común entre los lectores del Libro: la de dar a conocer sus enseñanzas a aquéllos que no han oído hablar de la revelación Urantia.
+Queridos amigos: con la voluntad firme de seguir publicando entregas de este boletín, os presentamos este cuarto número de «Luz y Vida», primero de este año que prácticamente acaba de comenzar. Incluimos la última entrega del trabajo de Santi «Una experiencia personal». La idea de escribir el artículo «Amigos y residentes en Urantia» surgió a raíz de una pregunta que me hice sobre los diferentes tipos de seres que están aquí mismo, en nuestro planeta, llevando el gobierno superhumano de este atribulado mundo. El artículo de Antonio nos da una visión de conjunto muy esclarecedora del papel de los mundos de las mansiones y su función de complemento experiencial para aquellos mortales que no han conocido las eras de luz y vida. También adjuntamos un artículo de Chris Ragetly, lector residente en Francia, sobre una inquietud muy común entre los lectores del Libro: la de dar a conocer sus enseñanzas a aquéllos que no han oído hablar de la revelación Urantia.
 
 Quiero agradecer aquí las aportaciones de José y de Monique, que enriquecen aún más nuestro boletín.
 

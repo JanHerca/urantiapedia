@@ -563,9 +563,9 @@
 - [Annual Retreat for UK and Ireland 2019](/en/article/Chris_Moseley/annual_retreat_uk_ireland_2019), Tidings, Tidings — June 2019
 - [Great Britain & Ireland Annual Summer Retreat 2023](/en/article/Chris_Moseley/great_britain_ireland_summer_retreat), Tidings, Tidings — March 2023
 
-/en/article/Chris_Ragelty
+/en/article/Chris_Ragetly
 
-- [Discernment and free will](/en/article/Chris_Ragelty/Discernement_et_libre_arbitre_2), Luz y Vida, Luz y Vida — No. 4 — February 2006
+- [Discernment and free will](/en/article/Chris_Ragetly/Discernement_et_libre_arbitre_2), Luz y Vida, Luz y Vida — No. 4 — February 2006
 
 /en/article/Chris_Wood
 

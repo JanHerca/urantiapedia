@@ -14,7 +14,7 @@ dateCreated: 2024-10-20T19:22:11Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/fr/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'inconscient et Le Superconscient</span>
         </a>
         </td>
@@ -115,7 +115,7 @@ La deuxième période sera publiée dans le Lien Nº 72 de Janvier 2016
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/fr/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'inconscient et Le Superconscient</span>
         </a>
         </td>

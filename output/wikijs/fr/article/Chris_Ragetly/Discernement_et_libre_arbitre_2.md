@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragelty<br>© 2006 Olga López, pour la traduction<br>© 2006 Association Urantia d'Espagne</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragetly<br>© 2006 Olga López, pour la traduction<br>© 2006 Association Urantia d'Espagne</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -46,7 +46,7 @@ Aprés la naissance de l'âme qui a lieu en concomitance avec l'arrivée de l'Aj
 
 (Les citations du _Livre d'Urantia_ sont en italiques, en gras, sont les assages que je mets en exergue)
 
-Publié dans [n° 31 du bulletin « Le Lien Urantien »](/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre) de l'AFFLU.
+Publié dans [n° 31 du bulletin « Le Lien Urantien »](/fr/article/Chris_Ragetly/Discernement_et_libre_arbitre) de l'AFFLU.
 
 
 

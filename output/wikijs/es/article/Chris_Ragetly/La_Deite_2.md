@@ -83,7 +83,7 @@ Y finalmente en el 3er circuito de comprensión de Dios Padre.
 
 De este modo habremos tenido la oportunidad de ascender los diferentes niveles de esta Deidad séptuple que, de hecho, está ahí sólo para nuestro beneficio.
 
-Chris Ragelty
+Chris Ragetly
 
 
 

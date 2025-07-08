@@ -100,7 +100,7 @@ Dice el autor al principio de este trabajo: «De acuerdo con _El Libro de Uranti
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner" width="250">
 </figure>
 
-[**Pablo y Abner (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf)
+[**Pablo y Abner (Olga López)**](/es/article/Olga_Lopez/Pablo_y_Abner) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf))
 
 En este trabajo, la autora hace un repaso y compara las figuras de Abner y de Pablo de Tarso, pues personifican actitudes diferentes frente al evangelio de Jesús: una, la de Abner, que aun siendo mucho más fiel al mensaje inicial, cayó rápidamente en el olvido, frente a Pablo, que hizo muchas concesiones doctrinales para adaptarse a las creencias previas de otros pueblos. En palabras de la autora: «esta reflexión nos puede ser muy útil, pues la misión de Jesús supuso la cuarta revelación de época, y nosotros, los lectores de _El Libro de Urantia_, tenemos la responsabilidad de evitar que la quinta revelación se desvirtúe con el paso del tiempo».
 <br style="clear:both" />

@@ -24,7 +24,7 @@ dateCreated: 2024-10-20T19:22:11Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/fr/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="pr-2">L'inconscient et Le Superconscient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -221,7 +221,7 @@ BILAN AU 31/12/2014
         </a>
         </td>
         <td>
-        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+        <a href="/fr/article/Chris_Ragetly/L_inconscient_et_Le_Superconscient">
           <span class="pr-2">L'inconscient et Le Superconscient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernimiento y libre albedrío</span>
         </a>
         </td>
@@ -109,7 +109,7 @@ Apdo. de Correos 272
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernimiento y libre albedrío</span>
         </a>
         </td>

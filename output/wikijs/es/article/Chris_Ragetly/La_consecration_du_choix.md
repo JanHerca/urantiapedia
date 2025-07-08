@@ -69,7 +69,7 @@ Al dedicarse a hacer la voluntad del Padre, la criatura se libra de elecciones p
 
 En última instancia, la elección individual entre el bien y el mal, la verdad y el error, lo material y lo espiritual, lo humano y lo divino, el tiempo y la eternidad, es obra de la clarividencia espiritual.
 
-Chris Ragelty
+Chris Ragetly
 
 
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragelty<br>© 2006 Olga López, por la traducción<br>© 2006 Asociación Urantia de España</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragetly<br>© 2006 Olga López, por la traducción<br>© 2006 Asociación Urantia de España</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -44,7 +44,7 @@ Tras el nacimiento del alma, que tiene lugar en concomitancia con la llegada del
 
 (Las citas del _Libro de Urantia_ que están en cursiva y negrita son los pasajes que destaco).
 
-Publicado en el [no 31 del boletín «Le Lien Urantien»](/es/article/Chris_Ragelty/Discernement_et_libre_arbitre) de la AFFLU.
+Publicado en el [no 31 del boletín «Le Lien Urantien»](/es/article/Chris_Ragetly/Discernement_et_libre_arbitre) de la AFFLU.
 
 <figure class="table chapter-navigator">
   <table>

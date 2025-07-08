@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+        <a href="/fr/article/Chris_Ragetly/Discernement_et_libre_arbitre_2">
           <span class="pr-2">Discernement et libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -85,7 +85,7 @@ Toute la splendeur et la lumière du firmament.<br>
         </a>
         </td>
         <td>
-        <a href="/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+        <a href="/fr/article/Chris_Ragetly/Discernement_et_libre_arbitre_2">
           <span class="pr-2">Discernement et libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
