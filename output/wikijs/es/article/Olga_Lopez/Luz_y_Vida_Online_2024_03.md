@@ -108,7 +108,7 @@ Este breve artículo se publicó inicialmente en francés en el boletín _Le Lie
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Un-grito-a-la-esperanza.jpg" alt="Un grito a la esperanza" width="250">
 </figure>
 
-[**Un grito a la esperanza (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf)
+[**Un grito a la esperanza (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/Un_grito_a_la_esperanza) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf))
 
 Esta es la transcripción de una de las presentaciones de la serie «En el foco» patrocinada por la UBIS (Escuela Internacional de _El libro de Urantia_). En ella se incide en el libro como un libro de esperanza, pues en palabras del autor: «Creo en este libro porque es un libro de esperanza, independientemente de que la existencia de Dios sea para unos un hecho demostrable y para otros sea un hecho indemostrable. Son tantas las cosas que me aseguran que existe una realidad totalmente desconocida para la mayoría de los mortales que no tengo por menos que, como poco, depositar confianza y sobre todo esperanza en todas y en cada una de las enseñanzas de su contenido».
 <br style="clear:both;"/>

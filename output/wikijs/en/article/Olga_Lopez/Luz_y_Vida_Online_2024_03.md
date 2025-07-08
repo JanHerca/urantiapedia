@@ -108,7 +108,7 @@ This brief article was originally published in French in the newsletter _Le Lien
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Un-grito-a-la-esperanza.jpg" alt="Un grito a la esperanza" width="250">
 </figure>
 
-[**A cry for hope (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf)
+[**A cry for hope (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/Un_grito_a_la_esperanza) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf))
 
 This is a transcript of one of the presentations in the series “In Focus” sponsored by UBIS (Urantia Book International School). It highlights the book as a book of hope, as the author says: “I believe in this book because it is a book of hope, regardless of the fact that the existence of God is a demonstrable fact for some and an undemonstrable fact for others. There are so many things that assure me that there is a reality that is totally unknown to the majority of mortals that I cannot help but, at the very least, place trust and above all hope in each and every one of the teachings contained in it.”
 <br style="clear:both;"/>

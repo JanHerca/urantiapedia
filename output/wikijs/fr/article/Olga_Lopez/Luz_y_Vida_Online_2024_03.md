@@ -108,7 +108,7 @@ Ce court article a été publié originellement en français dans le bulletin _L
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Un-grito-a-la-esperanza.jpg" alt="Un grito a la esperanza" width="250">
 </figure>
 
-[** Un cri d'espoir (Eduardo Altuzarra)**]([https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf ](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf)) 
+[** Un cri d'espoir (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/Un_grito_a_la_esperanza) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf))
 
 Ceci est la transcription d'une des présentations de la série « In Focus » sponsorisée par UBIS (International School of _The Book of Urantia_). Il met en valeur le livre comme un livre d'espoir, car selon les mots de l'auteur : « Je crois en ce livre parce que c'est un livre d'espoir, indépendamment du fait que l'existence de Dieu est un fait démontrable pour certains et un fait pour d'autres, impossible à prouver. Il y a tellement de choses qui m'assurent qu'il existe une réalité totalement inconnue de la majorité des mortels que je n'ai d'autre choix que de placer, à tout le moins, confiance et surtout espoir dans chacun des enseignements de son contenu. . 
 <br style="clear:both;"/> 
