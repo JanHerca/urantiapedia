@@ -118,7 +118,7 @@ En palabras de la autora: «Las parábolas de Jesús no tienen una interpretaci�
 <img src="https://urantia-association.org/wp-content/uploads/2012/01/Urantia-Book-e1636413757883.jpg" alt="The Urantia Book" width="250">
 </figure>
 
-[**Historia del movimiento Urantia (William S. Sadler)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/01/Historia-del-Movimiento-Urantia.pdf)
+[**Historia del movimiento Urantia (William S. Sadler)**](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/01/Historia-del-Movimiento-Urantia.pdf))
 
 Los orígenes de los documentos que dieron lugar a _El Libro de Urantia_ son motivo de curiosidad para muchas personas. En este artículo no solo se hace un repaso general al proceso revelador, sino que también se hace un breve recorrido histórico sobre la génesis de las organizaciones que surgieron en torno al libro y cómo se fue formando una comunidad alrededor de las enseñanzas de _El Libro de Urantia_.
 <br style="clear:both" />

@@ -111,7 +111,7 @@ This extensive work was published by the magazine _The Fellowship Herald_, of th
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="The Quran and UB" width="250">
 </figure>
 
-[**The Quran under the spiritual lights of _The Urantia Book_ (Omar Delgado)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf)
+[**The Quran under the spiritual lights of _The Urantia Book_ (Omar Delgado)**](/en/article/Omar_Delgado/El_Coran_bajo_las_luces_espirituales_de_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf))
 
 We find ourselves here with an interesting work, which addresses a subject that does not exactly abound among the secondary works on _The Urantia Book_. In the words of its author: «This compilation of quotations from the Qur'an and _The Urantia Book_ has the purpose of broadening the spiritual horizons of every sincere believer in the Truth of this nascent faith of the 6th century AD. by Muhammad. Jesus said that the Father always sends messengers or revelations to each generation to humanity without forgetting anyone, to amplify and refresh the spiritual message of the Kingdom."
 <br style="clear:both" />

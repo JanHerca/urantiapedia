@@ -106,7 +106,7 @@ Aquí tenemos un esquema en forma de tabla donde aparecen las características m
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
-[**De la tribu a la ciudadanía cósmica (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
+[**De la tribu a la ciudadanía cósmica (Olga López)**](/es/article/Olga_Lopez/De_la_tribu_a_la_ciudadania_cosmica) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf))
 
 Este es el texto de una presentación que se dio durante la Urantiatón del 28 de noviembre de 2020, y que comienza así: «En _El Libro de Urantia_ aparece varias veces la expresión ciudadanía cósmica o ciudadanos cósmicos. Otra de las expresiones que va relacionada a la ciudadanía cósmica es sin duda la de consciencia cósmica. Leemos y entendemos lo que significan esas palabras por separado, pero ¿a qué se refieren exactamente cuando van juntas?». A partir de esta pregunta, la autora desarrolla un vínculo entre ciudadanía y consciencia cósmica, a la luz de las enseñanzas de _El Libro de Urantia_.
 <br style="clear:both" />

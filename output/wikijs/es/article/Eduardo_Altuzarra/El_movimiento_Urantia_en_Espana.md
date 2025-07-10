@@ -720,87 +720,139 @@ Olga desarrolló el cargo durante cinco años con dedicación y responsabilidad 
 
 En los días del 2 al 4 de mayo de 2008, decidimos hacer el VIII Encuentro Nacional de lectores de _El libro de Urantia_ en el Hotel Osuna de Madrid. [VIII Encuentro](http://www.librodeurantia.es/?q=node/21) y [Luz y Vida № 13](http://www.librodeurantia.es/sites/default/files/LyV13.pdf)
 
-En octubre, y en referencia a la impresión de la Edición Europea, el director de la empresa que había impreso los primeros libros de tapa blanda de la edición de 1993 nos deriva a otros impresores ya que dicha empresa no editaba menos de 10.000 ejemplares y nuestras expectativas se movían entre 1.500 o 2.500 ejemplares,
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-45.jpg?height=455&width=601&top_left_y=1326&top_left_x=1173) como mucho, cuyo coste económico se pensaba sufragar con las aportaciones recibidas por parte de lectores.
+<br style="clear:both;"/>
 
-A primeros de noviembre visitamos en Mallorca al grupo de estudio que lideraba Cati (Catalina Covas, actualmente fallecida). Efectivamente, el fin de semana del 1 y 2 , la presidenta Olga López y un servidor, acompañados de nuestros respectivos cónyuges, volamos a la isla. Noticias LyV15
+<figure id="Figure_37" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/035.jpg">
+</figure>
+
+En octubre, y en referencia a la impresión de la Edición Europea, el director de la empresa que había impreso los primeros libros de tapa blanda de la edición de 1993 nos deriva a otros impresores ya que dicha empresa no editaba menos de 10.000 ejemplares y nuestras expectativas se movían entre 1.500 o 2.500 ejemplares, como mucho, cuyo coste económico se pensaba sufragar con las aportaciones recibidas por parte de lectores.
+
+A primeros de noviembre visitamos en Mallorca al grupo de estudio que lideraba Cati (Catalina Covas, actualmente fallecida). Efectivamente, el fin de semana del 1 y 2 , la presidenta Olga López y un servidor, acompañados de nuestros respectivos cónyuges, volamos a la isla. [Noticias LyV15](http://www.librodeurantia.es/sites/default/files/LyV15.pdf)
 
 A mediados del mes de noviembre, la asociación había conseguido recaudar la mayor parte del dinero necesario para financiar la impresión de la edición europea de _El libro de Urantia_.
 
-El segundo fin de semana de marzo, varios miembros de la junta (Olga,
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-45.jpg?height=452&width=700&top_left_y=2227&top_left_x=1089)
+<br style="clear:both;"/>
 
-Andrés y yo) nos trasladamos a Madrid con el fin de visitar a los miembros del grupo de estudio, así como hacer una presentación de _El libro de Urantia_ en uno de los salones de Ecocentro situado en la calle Esquilache.
+<figure id="Figure_38" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/036.jpg">
+</figure>
+
+El segundo fin de semana de marzo, varios miembros de la junta (Olga, Andrés y yo) nos trasladamos a Madrid con el fin de visitar a los miembros del grupo de estudio, así como hacer una presentación de _El libro de Urantia_ en uno de los salones de Ecocentro situado en la calle Esquilache.
 
 Llega abril y, con todos los acuerdos prácticamente resueltos para la celebración de la Conferencia Internacional, mi esposa y yo nos dirigimos al hotel Vistamar de Benalmádena, Málaga, una semana antes de los días previstos para la conferencia y desarrollamos todos los preparativos junto al director del hotel.
 
-Llegado el día 17 dimos comienzo al evento de características internacionales que veníamos preparando desde hacía casi tres años los cuatro miembros de la junta directiva, junto a los doce miembros del Comité Organizador. El hotel Vistamar nos acogió durante cinco días en los que
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-46.jpg?height=472&width=709&top_left_y=798&top_left_x=1065) disfrutamos de la compañía de más de 117 personas de 20 países diferentes. Luz y Vida № 17
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-46.jpg?height=341&width=227&top_left_y=1417&top_left_x=292)
+<br style="clear:both;"/>
 
-Después de varios años de trabajo dedicados a la traducción, por fin este año, con motivo de la celebración de la Conferencia Internacional en Benalmádena, se presentó _El libro de Urantia_ (Edición Europea) en español, y para ser distribuido únicamente en España.
-Comentario 1 Comentario 2
-Entre los días 10 y 12 del mes de octubre se organizó un mini-encuentro entre varios lectores españoles que se desarrolló en el pueblo de San Rafael, Segovia, en el mismo alojamiento en el que se organizó el IV Encuentro, la Casona del Pinar, una
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-46.jpg?height=461&width=829&top_left_y=1774&top_left_x=945) residencia de tiempo libre. Se hicieron comentarios diversos sobre temas del libro, así como presentaciones de PowerPoint por parte de Mariano y mías. Se habló de la posibilidad de hacer una presentación con motivo de la nueva Edición Europea. Disfrutamos de tres días inolvidables de buen ambiente y largas disertaciones, así como de la buena comida y generosos paseos entre pinares.
+<figure id="Figure_39" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/040.jpg">
+</figure>
+
+Llegado el día 17 dimos comienzo al evento de características internacionales que veníamos preparando desde hacía casi tres años los cuatro miembros de la junta directiva, junto a los doce miembros del Comité Organizador. El hotel Vistamar nos acogió durante cinco días en los que disfrutamos de la compañía de más de 117 personas de 20 países diferentes. [Luz y Vida № 17](http://www.librodeurantia.es/sites/default/files/LyV17.pdf)
+
+<br style="clear:both;"/>
+
+<figure id="Figure_40" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/038.jpg">
+</figure>
+
+Después de varios años de trabajo dedicados a la traducción, por fin este año, con motivo de la celebración de la Conferencia Internacional en Benalmádena, se presentó _El libro de Urantia_ (Edición Europea) en español, y para ser distribuido únicamente en España. [Comentario 1](http://www.urantia.org/es/news/2008-09/impresion-de-la-edicion-europea-del-libro-de-urantia) [Comentario 2](http://www.urantia.org/es/news/2010-12/el-libro-de-urantia-edicion-europea-la-edicion-en-espanol-de-espana)
+
+<br style="clear:both;"/>
+
+<figure id="Figure_41" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/039.jpg">
+</figure>
+
+Entre los días 10 y 12 del mes de octubre se organizó un mini-encuentro entre varios lectores españoles que se desarrolló en el pueblo de San Rafael, Segovia, en el mismo alojamiento en el que se organizó el IV Encuentro, la Casona del Pinar, una residencia de tiempo libre. Se hicieron comentarios diversos sobre temas del libro, así como presentaciones de PowerPoint por parte de Mariano y mías. Se habló de la posibilidad de hacer una presentación con motivo de la nueva Edición Europea. Disfrutamos de tres días inolvidables de buen ambiente y largas disertaciones, así como de la buena comida y generosos paseos entre pinares.
 
 En 2009, tres nuevos grupos de estudio se consolidaron como tales. El de Mallorca que, debido al fallecimiento en su día de su responsable, se había quedado algo desmembrado; uno nuevo en Murcia y otro en Gerona.
 
-Llegados a mayo de 2010 se celebró el IX Encuentro Nacional en La Casa Toya, una casa de reposo y salud situada en la pequeña localidad de Aluenda (Zaragoza), donde en ocasiones anteriores miembros de la Junta ya nos habíamos reunidos con anterioridad. Nos reunimos el fin de semana del 7 al 9 de mayo (ambos inclusive) para disfrutar de un seminario que impartió Sheila Keene-Lund, lectora nacida en España, de padre inglés y madre puertorriqueña, que reside en EE.UU. desde la adolescencia. Sheila había publicado recientemente un libro sobre las enseñanzas de _El libro de Urantia_, Heaven is not the last stop (El cielo no es la última parada), y la invitamos a dar un seminario para que compartiera su manera de difundir las enseñanzas. Luz y Vida no 21 y IX Encuentro
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-47.jpg?height=466&width=758&top_left_y=1189&top_left_x=289)
-libro. También se proyectaro
+Llegados a mayo de 2010 se celebró el IX Encuentro Nacional en La Casa Toya, una casa de reposo y salud situada en la pequeña localidad de Aluenda (Zaragoza), donde en ocasiones anteriores miembros de la Junta ya nos habíamos reunidos con anterioridad. Nos reunimos el fin de semana del 7 al 9 de mayo (ambos inclusive) para disfrutar de un seminario que impartió Sheila Keene-Lund, lectora nacida en España, de padre inglés y madre puertorriqueña, que reside en EE.UU. desde la adolescencia. Sheila había publicado recientemente un libro sobre las enseñanzas de _El libro de Urantia_, Heaven is not the last stop (El cielo no es la última parada), y la invitamos a dar un seminario para que compartiera su manera de difundir las enseñanzas. [Luz y Vida no 21](http://www.librodeurantia.es/sites/default/files/LyV21.pdf) y [IX Encuentro](http://www.librodeurantia.es/?q=node/261)
 
-Olga, Andrés y yo acudimos los días del 1 al 3 de octubre del año 2010 en representación de la Asociación a la feria ecológica EcoAltea, que se celebra anualmente en la ciudad levantina de Altea. Montamos una carpa y en ella expusimos _El libro de Urantia_, folletos y publicaciones relacionadas con el presentaciones PowerPoint en referencia a las enseñanzas del libro. Luz y Vida № 23
+<br style="clear:both;"/>
+
+<figure id="Figure_42" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/042.jpg">
+</figure>
+
+Olga, Andrés y yo acudimos los días del 1 al 3 de octubre del año 2010 en representación de la Asociación a la feria ecológica EcoAltea, que se celebra anualmente en la ciudad levantina de Altea. Montamos una carpa y en ella expusimos _El libro de Urantia_, folletos y publicaciones relacionadas con el libro. También se proyectaro presentaciones PowerPoint en referencia a las enseñanzas del libro. [Luz y Vida № 23](http://www.librodeurantia.es/sites/default/files/LyV23.pdf)
 
 Terminamos el año ampliando el número de grupos de estudio con el agrupamiento de varios lectores de Málaga.
 
-La Asociación Urantia de España invitó a todos los lectores españoles, socios y amigos al Encuentro Nacional que se celebró entre los días de 5 al 8 de mayo de 2011 en Valls, Tarragona. X Encuentro y Luz y Vida № 25
+La Asociación Urantia de España invitó a todos los lectores españoles, socios y amigos al Encuentro Nacional que se celebró entre los días de 5 al 8 de mayo de 2011 en Valls, Tarragona. [X Encuentro](http://www.librodeurantia.es/?q=node/267) y Luz y Vida № 25
 
 Días después de las fechas del encuentro, el domingo 22, nos desplazamos a Sevilla la presidenta Olga y yo con nuestros respectivos cónyuges con motivo de la Feria del Libro que se desarrollaba en la capital hispalense para dar una conferenciapresentación sobre _El libro de Urantia_, en la carpa de actividades en la Plaza Nueva. Nuestra presencia en el lugar fue promovida por la LIBRERÍA ANATMA.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-47.jpg?height=523&width=335&top_left_y=2163&top_left_x=1443)
 
-En el mes de julio, la Asociación Urantia Internacional patrocinó el Simposio de Liderazgo que se celebró en Techny Towers, al norte de Chicago. A la cita acudieron un par de miembros de la Asociación Urantia de España, Mariano e Ismael, junto con nuestra presidenta Olga. Simposio de Liderazgo y Luz y Vida № 26
+<br style="clear:both;"/>
+
+<figure id="Figure_43" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/041.jpg">
+</figure>
+
+En el mes de julio, la Asociación Urantia Internacional patrocinó el Simposio de Liderazgo que se celebró en Techny Towers, al norte de Chicago. A la cita acudieron un par de miembros de la Asociación Urantia de España, Mariano e Ismael, junto con nuestra presidenta Olga. [Simposio de Liderazgo y Luz y Vida № 26](http://www.urantia.org/es/news/2011-09/los-lectores-de-el-libro-de-urantia-estudian-juntos-este-verano)
 
 Poco después de este evento, en septiembre, los miembros de la junta directiva decidimos incorporar a Mariano Pérez Blanco a esta como responsable del Comité de Grupos de Estudio. A partir de entonces Mariano ha realizado y realiza viajes (Sevilla, Málaga, Valencia, Mallorca, etc.) siempre que es demandado por lectores o grupos a las diferentes capitales de provincia de España para orientar, organizar o dar conferencias intentando promover e incentivar a los lectores para la creación de grupos de estudio del libro.
 
 A finales de 2011, Olga se incorpora a la junta directiva de la UBIS (Urantia Book Internet School, o Escuela de _El libro de Urantia_ en Internet, auspiciada por la Fundación Urantia), con el fin de crear e impulsar la rama organizativa de la UBIS en español. Después de un primer curso de prueba en septiembre de 2011, en el que se invitó a lectores latinoamericanos y españoles, a primeros del año 2012 comienzan a darse cursos en español en la UBIS. La escuela como tal ya impartía cursos en línea desde 1999 pero hasta este año solo se ofrecían en inglés. Este primer año se dieron tres cursos en español, un curso por trimestre.
 
-También en este mes de enero, nuestra presidenta Olga López fue invitada para ser entrevistada en el programa «Luces en la Oscuridad» de Abc Punto Radio, que se emitía desde Barcelona para toda España. La entrevista duró cuarenta minutos y en ella se explicó la historia de _El libro de Urantia_ y lo más destacado de su contenido. Entrevista
+También en este mes de enero, nuestra presidenta Olga López fue invitada para ser entrevistada en el programa «Luces en la Oscuridad» de Abc Punto Radio, que se emitía desde Barcelona para toda España. La entrevista duró cuarenta minutos y en ella se explicó la historia de _El libro de Urantia_ y lo más destacado de su contenido. [Entrevista](http://lucesenlaoscuridad.es/entradas_grabacion/los-misterios-y-ensenanzas-del-libro-de-urantia-entrevista-a-olga-lopez-presidenta-de-la-asociacion-urantia-de-espana-2/)
 
-A finales del mes de abril se celebró la Conferencia Internacional patrocinada por la Asociación Urantia Internacional entre los días 28 de abril y 2 de mayo en Medellín, Colombia. A dicha conferencia acudió nuestra presidenta. Cl 2012
+A finales del mes de abril se celebró la Conferencia Internacional patrocinada por la Asociación Urantia Internacional entre los días 28 de abril y 2 de mayo en Medellín, Colombia. A dicha conferencia acudió nuestra presidenta. [CI 2012](http://www.urantia.org/es/news/2012-06/mi-viaje-colombia-sudamerica)
 
 Entre los días 11 y 13 de mayo del año en curso, celebramos el XI Encuentro Nacional en el Albergue «Inturjoven» situado en la calle Isaac Peral, 2 (Reina Mercedes) de Sevilla.
 
-En este encuentro, cabe destacar que se produjo la renovación de casi toda la junta directiva de la asociación. Los miembros salientes llevaban ocho años desempeñando su cargo y ya era momento y hora de que fueran remplazados. A partir de entonces, Carmelo Martínez pasó a ser el presidente; Jaime Marco, del grupo de estudio de Murcia, fue nombrado vicepresidente. Ismael Gracia, de Roquetes
-(Tarragona) y miembro del grupo de estudio de Barcelona, fue nombrado secretario.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-49.jpg?height=606&width=772&top_left_y=348&top_left_x=288)
-aceptó de buen grado. XI Encuentro y
+En este encuentro, cabe destacar que se produjo la renovación de casi toda la junta directiva de la asociación. Los miembros salientes llevaban ocho años desempeñando su cargo y ya era momento y hora de que fueran remplazados. A partir de entonces, Carmelo Martínez pasó a ser el presidente; Jaime Marco, del grupo de estudio de Murcia, fue nombrado vicepresidente. Ismael Gracia, de Roquetes (Tarragona) y miembro del grupo de estudio de Barcelona, fue nombrado secretario.
 
-Un servidor no pudo abandonar el puesto, pero cambió su cargo de vicepresidente por el de tesorero. No obstante Olga se comprometió voluntariamente a continuar con el mantenimiento de la página web de la Asociación y de la edición de la revista Luz y Vida. También le pedimos que continuara junto a la nueva dirección como asesora con voz, pero sin voto, lo cual y Luz y Vida № 29
+<br style="clear:both;"/>
+
+<figure id="Figure_44" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/043.jpg">
+</figure>
+
+Un servidor no pudo abandonar el puesto, pero cambió su cargo de vicepresidente por el de tesorero. No obstante Olga se comprometió voluntariamente a continuar con el mantenimiento de la página web de la Asociación y de la edición de la revista Luz y Vida. También le pedimos que continuara junto a la nueva dirección como asesora con voz, pero sin voto, lo cual aceptó de buen grado. [XI Encuentro](http://www.librodeurantia.es/?q=node/339) y [Luz y Vida № 29](http://www.librodeurantia.es/sites/default/files/LyV29.pdf)
 
 En el mes de junio es noticia un miniencuentro que se celebró en la ciudad de Talavera de la Reina entre un grupo informal de lectores. Se comentó que fue una reunión enriquecedora, con debates y comentarios de los que salió el compromiso de formalizar un nuevo grupo de estudio del que se responsabilizaba Paloma Gutiérrez, lectora del libro y amiga de la Asociación.
 
 Un mes después, a primeros de julio, Olga López e Ismael Gracia ofrecieron una presentación de _El libro de Urantia_, en la «Casa Verde» de Barcelona, lugar de reuniones donde se daba aliento a la progresión espiritual y cambios en la conciencia de algunos ciudadanos de esa ciudad cosmopolita.
 
-Una buena noticia a destacar fue la charla-presentación que impartió Ismael Gracia en una de las salas de la librería FNAC de Valencia, a finales de septiembre. Noticia $Y$ tampoco debemos olvidar la presentación que dio el presidente de la Asociación, Carmelo Martínez en la localidad tarraconense de L' Aldea, en el mes de octubre, a la que acudimos varios lectores. Luz y Vida № 31
+Una buena noticia a destacar fue la charla-presentación que impartió Ismael Gracia en una de las salas de la librería FNAC de Valencia, a finales de septiembre. [Noticia](http://www.librodeurantia.es/sites/default/files/LyV30.pdf) Y tampoco debemos olvidar la presentación que dio el presidente de la Asociación, Carmelo Martínez en la localidad tarraconense de L' Aldea, en el mes de octubre, a la que acudimos varios lectores. [Luz y Vida № 31](http://www.librodeurantia.es/sites/default/files/LyV31.pdf)
 
 A primeros de enero de 2013, gracias a lectores de Brasil que nos «prestaron» horas en una sala virtual, los miembros de la junta directiva crearon el Grupo de Estudio Virtual (GEV), donde los lectores, españoles en su gran mayoría, podíamos reunirnos para leer y estudiar _El libro de Urantia_. Actualmente el grupo se reúne virtualmente en una sala de la plataforma Zoom que contrató la Asociación Urantia de España.
 
-A finales de febrero, nuestro secretario Ismael Gracia acudió a Sevilla a una entrevista en un programa de video denominado «Confidencias en el Camarote» de Cadena Gelves. Vídeo y Luz y Vida № 32
+A finales de febrero, nuestro secretario Ismael Gracia acudió a Sevilla a una entrevista en un programa de video denominado «Confidencias en el Camarote» de Cadena Gelves. Vídeo (debajo) y [Luz y Vida № 32](http://www.librodeurantia.es/sites/default/files/LyV32.pdf)
 
-Un día después de esta entrevista, se nos comunicó el fallecimiento de Josefina Canseco, el «Espíritu Madre de España», como la llamó en cierta ocasión Richard Keeler, uno de los fideicomisarios de La Fundación. Nos dejó para hacer un viaje a los mundos mansión el 26 de febrero por la mañana. Llevaba algún tiempo no muy bien; el miércoles 20 la ingresaron y finalmente el martes 26 nos dijo adiós, aunque,
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-50.jpg?height=481&width=429&top_left_y=245&top_left_x=1350) como todos sabemos, no para siempre. Josefina
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-50.jpg?height=443&width=361&top_left_y=792&top_left_x=291) siempre estuvo motivando las relaciones entre los lectores sevillanos y de toda España. En su casa se hacían largas reuniones de lectores, simpatizantes y amigos de _El libro de Urantia_. Tenía dos hijos que crecieron entre sus letras, Elías y M ${ }^{\text {a }}$ José. Los últimos años de su vida los vivió en la compañía del también lector sevillano, Esteban Cotán, hombre bueno y sabio. Otro paladín entusiasta y conversador con el que se pueden pasar horas embelesados entre los párrafos del libro.
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=7fB3MV2Tvfg
+
+<br style="clear:both;"/>
+
+<figure id="Figure_45" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/046.jpg">
+</figure>
+
+<figure id="Figure_46" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/044.jpg">
+</figure>
+
+Un día después de esta entrevista, se nos comunicó el fallecimiento de Josefina Canseco, el «Espíritu Madre de España», como la llamó en cierta ocasión Richard Keeler, uno de los fideicomisarios de La Fundación. Nos dejó para hacer un viaje a los mundos mansión el 26 de febrero por la mañana. Llevaba algún tiempo no muy bien; el miércoles 20 la ingresaron y finalmente el martes 26 nos dijo adiós, aunque, como todos sabemos, no para siempre. Josefina siempre estuvo motivando las relaciones entre los lectores sevillanos y de toda España. En su casa se hacían largas reuniones de lectores, simpatizantes y amigos de _El libro de Urantia_. Tenía dos hijos que crecieron entre sus letras, Elías y Mª José. Los últimos años de su vida los vivió en la compañía del también lector sevillano, Esteban Cotán, hombre bueno y sabio. Otro paladín entusiasta y conversador con el que se pueden pasar horas embelesados entre los párrafos del libro.
 
 Jaime Marco, nuestro vicepresidente, hizo una presentación en la FNAC de Diagonal de Barcelona el día 15 de marzo, en la que estuvo acompañado por varios lectores
 
 A mediados del mes de abril inauguramos lo que pasamos a denominar «El Rincón de Urantia», un foro de debates on-line, una nueva lista para comentar entre lectores, desarrollada fundamentalmente como un lugar para dialogar, comentar o dar opinión de cualquier tema de los muchos que contiene _El libro de Urantia_.
 
 En Frankfurt se dieron cita lectores de varios países europeos, entre ellos España (Olga, Paco, Fran) los días 27 y 28 de abril invitados por «The Blue Club» (El Club Azul) incluido el presidente de la AUI, con el fin de crear actividades de diseminación orientadas a las sociedades europeas, en las que la secularización es el elemento dominante, con el fin de impulsar las enseñanzas de _El libro de Urantia_.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-50.jpg?height=404&width=275&top_left_y=2214&top_left_x=291)
+
+<br style="clear:both;"/>
+
+<figure id="Figure_47" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/045.jpg">
+</figure>
 
 Mariano Pérez dio una charla-presentación del libro en la librería Cinco Anillos de Málaga, en colaboración con los miembros del grupo de estudio local.
 
-Llegamos al mes de mayo y un año más nos volvemos a reunir los lectores españoles de _El libro de Urantia_. Este viaje repetimos escenario. Estuvimos juntos del 31 de mayo al 2 de junio XII Encuentro y Luz y Vida № 33
+Llegamos al mes de mayo y un año más nos volvemos a reunir los lectores españoles de _El libro de Urantia_. Este viaje repetimos escenario. Estuvimos juntos del 31 de mayo al 2 de junio [XII Encuentro](http://www.librodeurantia.es/?q=node/353) y [Luz y Vida № 33](http://www.librodeurantia.es/sites/default/files/LyV33.pdf)
 
 Es digno de mención que a lo largo de este año se formalizaron dos nuevos grupos de estudio, uno en Valencia y otro en Torrevieja (Alicante).
 
@@ -808,41 +860,71 @@ Por segunda vez, coincidiendo con la II Feria de Conciencia, Arte y Sentimiento 
 
 Olga López hizo una presentación el día 20 de abril a las 21:00 horas en la sala virtual de la Asociación Urantia de Brasil con el título de EL REINO DE LOS CIELOS EN EL SIGLO XXI
 
-Entre los días 23 y 25 de mayo, una vez más, los lectores de _El libro de Urantia_ nos reunimos en Valencia con motivo de la celebración del Encuentro Nacional organizado por la junta directiva de la Asociación Urantia de España y con la colaboración de varios miembros del grupo de estudio de Valencia. XIII Encuentro Luz y Vida № 37
+Entre los días 23 y 25 de mayo, una vez más, los lectores de _El libro de Urantia_ nos reunimos en Valencia con motivo de la celebración del Encuentro Nacional organizado por la junta directiva de la Asociación Urantia de España y con la colaboración de varios miembros del grupo de estudio de Valencia. [XIII Encuentro](http://www.librodeurantia.es/?q=node/361) [Luz y Vida № 37](http://www.librodeurantia.es/sites/default/files/LyV37.pdf)
 
-Este año, entre los días 21 al 24 de agosto, se celebró en Berlín (Alemania) una conferencia de lectores europeos de _El libro de Urantia_, organizada por The Blue Club. A este evento acudieron 55 personas de trece países europeos, entre ellos Olga, Paco y Fran de España. Hay que mencionar la
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-51.jpg?height=455&width=666&top_left_y=1354&top_left_x=1106) presencia en el evento de Chris Wood, presidente de la AUI, y de los fideicomisarios asociados de la Fundación Urantia Richard Jernnigan (EEUU) y Sandra Burga-Cisneros (residente en Suiza pero originaria de Perú).
+<br style="clear:both;"/>
 
-Los últimos días del mes de agosto nuestro presidente, Carmelo Martínez, grabó un video presentación-invitación a través del medio audiovisual La Caja de Pandora. Habló, como no podía ser de otra manera, de _El libro de Urantia_ y denominó a su disertación «Una revelación transformadora». En esa representación, el autor comienza hablando de la
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-51.jpg?height=557&width=684&top_left_y=2063&top_left_x=1097) transformación que se produce en el lector en la medida que
-profundiza en su lectura y estudio. Nos deleita hablando de la capacidad que se alcanza para obtener una cierta visión cósmica de todo el contenido de La Realidad. Al final nos invita a tomar la decisión de leerlo y de hacerlo con la paciencia debida para utilizarlo como una «herramienta» para nuestro propio crecimiento personal, ya que todo su contenido rebosa coherencia. A lo largo de toda esta presentación, al orador se le hacen varias preguntas sobre diversos temas en relación al contenido del libro. A todas supo darle una satisfactoria respuesta. Vídeo
+<figure id="Figure_48" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/048.jpg">
+</figure>
+
+Este año, entre los días 21 al 24 de agosto, se celebró en Berlín (Alemania) una conferencia de lectores europeos de _El libro de Urantia_, organizada por _The Blue Club_. A este evento acudieron 55 personas de trece países europeos, entre ellos Olga, Paco y Fran de España. Hay que mencionar la presencia en el evento de Chris Wood, presidente de la AUI, y de los fideicomisarios asociados de la Fundación Urantia Richard Jernnigan (EEUU) y Sandra Burga-Cisneros (residente en Suiza pero originaria de Perú).
+
+<br style="clear:both;"/>
+
+<figure id="Figure_49" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/047.jpg">
+</figure>
+
+Los últimos días del mes de agosto nuestro presidente, Carmelo Martínez, grabó un video presentación-invitación a través del medio audiovisual La Caja de Pandora. Habló, como no podía ser de otra manera, de _El libro de Urantia_ y denominó a su disertación «Una revelación transformadora». En esa representación, el autor comienza hablando de la transformación que se produce en el lector en la medida que profundiza en su lectura y estudio. Nos deleita hablando de la capacidad que se alcanza para obtener una cierta visión cósmica de todo el contenido de La Realidad. Al final nos invita a tomar la decisión de leerlo y de hacerlo con la paciencia debida para utilizarlo como una «herramienta» para nuestro propio crecimiento personal, ya que todo su contenido rebosa coherencia. A lo largo de toda esta presentación, al orador se le hacen varias preguntas sobre diversos temas en relación al contenido del libro. A todas supo darle una satisfactoria respuesta. Vídeo (debajo)
+
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=9aLPsLrY5Ns
 
 Mariano Pérez dio una conferencia el 14 de septiembre a las 22:00 (hora española) en la sala virtual de la AUB. El titulo fue "ADORACIÓN Y MEDITACIÓN. Esta disertación se repitió el día 5 de octubre por haber surgido problemas técnicos en la sala y quedarse algunos participantes fuera de lugar.
 
 El 2 de octubre se dio una charla-presentación a cargo de Olga López sobre _El libro de Urantia_ en la sala Alexandría de Espai Natura de Girona. Al lugar acudieron varias personas entre lectores y amistades invitadas que llenaron la sala con capacidad para unas 25 personas. En esta conversación, Olga empleó unos cuarenta y cinco minutos y a continuación se inició el tiempo de ruegos y preguntas que se extendió tanto o más que la presentación. Hubo preguntas de todo tipo, y las más sobresalientes fueron sobre cómo apareció el libro, la reencarnación, etc.
 
-Nos situamos en el mes de noviembre, y el fin de semana del 21 al 23, miembros de la junta se reunieron y entre las varias cosas que desarrollaron cabe destacar unas grabaciones de video que hicieron tituladas «Ágora Nostra», encaminadas a presentar de un modo coloquial distintos temas de _El libro de Urantia_. Ágora Nostra
+Nos situamos en el mes de noviembre, y el fin de semana del 21 al 23, miembros de la junta se reunieron y entre las varias cosas que desarrollaron cabe destacar unas grabaciones de video que hicieron tituladas «Ágora Nostra», encaminadas a presentar de un modo coloquial distintos temas de _El libro de Urantia_. Ágora Nostra (debajo)
+
+https://www.youtube.com/watch?v=vqFl8A-jo78
 
 Días después de esta reunión, Mariano Pérez y Fernando Carazo, miembros pertenecientes al Grupo de Estudio de Madrid, dieron una charla el día 30 en uno de los salones de Ecocentro en Madrid a las 19:00 horas. El tema se desarrollaba sobre el como «Llegar a Dios a través de la religión personal» y «El alma».
+
 http://www.ecocentro.es/?Section=Activity\&Subsection=13\&month=11\&year=2014\&day=30
+
 Los lectores de _El libro de Urantia_, un año más nos reunimos en Cartagena, Murcia, para celebrar el XIV Encuentro Nacional desde el 30 de abril al 3 de mayo de 2015. Ese año contamos con la inestimable ayuda del Grupo de Estudio de Murcia para organizar el Encuentro en este rincón del Levante peninsular. También hay que decir que nos acompañó por primera vez Antonio Schefer, presidente del comité de conferencias de la AUI. Su compañía fue muy agradable
-y se ofreció para colaborar con los miembros de la junta directiva en los trabajos de divulgación. XIV Encuentro Luz y Vida № 40
+y se ofreció para colaborar con los miembros de la junta directiva en los trabajos de divulgación. [XIV Encuentro](http://www.librodeurantia.es/?q=node/365) [Luz y Vida № 40](http://www.librodeurantia.es/sites/default/files/LyV40.pdf)
 
 En la sala virtual de la Asociación Urantia de Brasil, Olga López dio una conferencia titulada «LA MANO QUE MECE LA CUNA» a las 21:00 horas el día 31 de mayo.
+
 «REFLEXIONES A LOS INSTRUCTORES Y CREYENTES DE LA QUINTA REVELACIÓN» fue la conferencia que transmitió Olga López el 26 de julio, también a las 21:00 horas y también en la sala virtual de AUB.
 
 Carmelo Martínez, nuestro presidente, hablo de «LA MATERIA Y LA ENERGÍA, LA FÍSICA Y _El libro de Urantia_» el 27 de septiembre a la hora habitual en la sala virtual de la AUB.
 
 En Gerona, en la sala Alexandría de Espai Natura, el día 1 de octubre, Olga López dio una charla basada en la presentación de _El libro de Urantia_. Las personan asistentes al evento estuvieron muy atentas a la presentación, y los ruegos y preguntas se alargaron casi una hora.
+
+<br style="clear:both;"/>
+
+<figure id="Figure_50" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/050.jpg">
+</figure>
+
 ¿QUÉ HACER CON LA EVOLUCIÓN BIOLÓGICA DE LA RAZA HUMANA? Fue el título con el que Mariano Pérez nos deleitó en la conferencia que expuso el día 25 de octubre a las 21:00 hora española, en la sala virtual de la Asociación Urantia de Brasil.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-53.jpg?height=398&width=624&top_left_y=1252&top_left_x=1153)
 
 En un viaje relámpago, Carmelo Martínez, presidente y Mariano Pérez coordinador de los Grupos de Estudio, viajaron hasta Mallorca el viernes 30 de octubre para reunirse en casa de Miguel Bustos, responsable del Grupo de Estudio de Mallorca, con varios lectores de _El libro de Urantia_, así como con amigos y simpatizantes, con el fin de darse a conocer, dar una charla-presentación y socializar con el grupo.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-53.jpg?height=423&width=1318&top_left_y=2033&top_left_x=369)
 
-Escuela de El libro de URANTIA en Internet - Fundada en 1999
-Hasta este año de 2016, la UBIS venia impartiendo un curso por trimestre, a partir de este enero se dan tres cursos por trimestre,
-aumentando con ello la participación de los lectores de idioma español. Actualmente, de los 18 profesores-facilitadores, 7 son españoles.
+<br style="clear:both;"/>
+
+<figure id="Figure_50" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/049.jpg">
+<figcaption>Escuela de El libro de URANTIA en Internet - Fundada en 1999</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+Hasta este año de 2016, la UBIS venia impartiendo un curso por trimestre, a partir de este enero se dan tres cursos por trimestre, aumentando con ello la participación de los lectores de idioma español. Actualmente, de los 18 profesores-facilitadores, 7 son españoles.
 
 Algunos ejemplos de los cursos impartidos son los siguientes:
 
@@ -856,19 +938,27 @@ Algunos ejemplos de los cursos impartidos son los siguientes:
 - Miguel de Nebadon, nuestro Hijo Creador.
 
 En el mes de enero, varios lectores de Zaragoza tuvieron a bien reunirse y acordaron formar un nuevo grupo de estudio en esa ciudad. Uno más con los que la Asociación cuenta, siendo 10 los grupos con actividad periódica, ya que el Grupo de Torrevieja se encuentra inactivo.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-54.jpg?height=1066&width=1491&top_left_y=1323&top_left_x=288)
+
+<br/>
+
+<figure id="Figure_51" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/051.jpg">
+<figcaption>Escuela de El libro de URANTIA en Internet - Fundada en 1999</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 El domingo 10 de abril se dio una conferencia a las 21:00 hora española, en la sala virtual de la Asociación Urantia de Brasil. Corrió a cargo de Olga López y la exposición estuvo basada en el documento «El gobierno de un planeta vecino: La utopía posible»
 
 A finales del mes de marzo, por una cuestión de renovación tecnológica, se dejó la antigua sala de chat ofrecida por la Asociación Urantia de Brasil y se contrató una sala virtual en Zoom.es. A partir de esa fecha la Asociación Urantia de España posee sala virtual propia para todas las actividades de difusión que se deseen desarrollar.
 
-El XV Encuentro de lectores se desarrolló en Bilbao entre los días 28 de abril y 1 de mayo. La ciudad de Bilbao fue elegida mayoritariamente en el encuentro anterior en Cartagena. XV Encuentro Luz y Vida № 44
+El XV Encuentro de lectores se desarrolló en Bilbao entre los días 28 de abril y 1 de mayo. La ciudad de Bilbao fue elegida mayoritariamente en el encuentro anterior en Cartagena. XV Encuentro [Luz y Vida № 44](http://www.librodeurantia.es/sites/default/files/LyV44.pdf)
 
-Es también digno de mencionar que actualmente y desde el año 2011 se está trabajando en una revisión de la traducción de _El libro de Urantia_ en el idioma español con la intención de mejorar la Edición del 93 y la Edición Europea. Traducción
+Es también digno de mencionar que actualmente y desde el año 2011 se está trabajando en una revisión de la traducción de _El libro de Urantia_ en el idioma español con la intención de mejorar la Edición del 93 y la Edición Europea. [Traducción](http://www.urantia.org/es/news/2011-09/informe-de-la-reunion-de-inicio-de-la-revision-de-la-traduccion-espanola)
 
 Llegados a este punto, poco más queda que comentar. Decir que a lo largo de todos los años que el movimiento ha funcionado a partir de aquella primera decisión que tomo el Grupo de Estudio de Sevilla, de reunirse periódicamente con aquellos lectores de _El libro de Urantia_ que tuvieran a bien pasar unos días socializando en torno a temas del libro, las personas que han participado en los eventos organizados han podido ser más de 600 y decir que de todos esos eventos han salido múltiples actividades que van en incremento y buen desarrollo.
 
-## Agradecimientos:
+## Agradecimientos
 
 Es mi deseo expresar un especial agradecimiento a Marga Jaramillo, José Luis Barturen y Josep Barceló por estimularme a escribir esta narrativa.
 
@@ -881,7 +971,7 @@ Y a mi querida amiga Olga López por su inestimable ayuda y colaboración.
 Sin ellos este relato no hubiera visto la luz.
 Eduardo Altuzarra, en Miranda de Ebro octubre de 2016
 
-## Bibliografía:
+## Bibliografía
 
 Algunas reproducciones de Congresos y demás están copiadas de Internet (Hemeroteca La Vanguardia)
 
@@ -889,330 +979,249 @@ La mayoría de fotografías están copiadas de reuniones y eventos. Algunas se h
 
 ## ANEXO I
 
-## CONFERENCIAS EN OPORTO - PORTUGAL
+**CONFERENCIAS EN OPORTO - PORTUGAL**
 
-## CASA DE ESPAÑA <br> ![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-58.jpg?height=158&width=155&top_left_y=738&top_left_x=1282) <br> OPORTO
+<br/>
 
-CICLO DE CONFERENCIAS
-DURANTE LOS DIAS 16,23 Y 30 DE NOVIEMBRE DE 1968
+<figure id="Figure_52" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/052.jpg">
+</figure>
 
-TEIMA:
-LAS DOS ASTRONÁUTIGAS
+<br style="clear:both;"/>
 
-Conferenciante:
-Exmo. Señor Don Pedro Valverde y Tort
-INVITACIÓN
+<figure id="Figure_53" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/053.jpg">
+</figure>
 
-## LAS DOS ASTRONÁUTICAS
+<br style="clear:both;"/>
 
-El conferenciante, miembro de la Sociedad de Estúdios Interplanetarios de Barcelona y de la Sociedad de Amigos de los Visitantes del Espacio de Madrid, presentará en forma amena e interesante y en el curso de tres sesiones, todo el ya largo historial de um fenomeno hasta hoy sinexplicatos pero explicable hasta cierto punto, un fenomeno real pero desacreditado een ciertos medioss, un misterio de graves implicaciones pero eludido conscientemente.
-La historia de los objetos volantes no identificados, los mal llamados eplatillos volantes.
+<figure id="Figure_54" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/054.jpg">
+</figure>
 
-PRIMERA SESION - Dia 16 Nov. a las 9 y media TEMA:
+<br style="clear:both;"/>
 
-## ACTUALIDAD DE UN FENOMENO
+<figure id="Figure_55" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/055.jpg">
+</figure>
 
-Historias de nuestros dias. Su existencia continuada. Los casos mas evidentes. Las estadisticas objetivas. La posición oficial de ciertos gobiernos. Documentación. Testimonios fidedignos y burlas.
+<br style="clear:both;"/>
 
-SEGUNDA SESIÓN - Dia 23 Nov. a las 9 y media TEMA:
-HISTORIA ANTIGUA DE UN FENOMENO
-Leyendas populares y religiosas. La contribución arqueológica. Las mitologias orientales y europeas. Egipto, América, India, Tibet. El Mahabarata. La Biblia. Implicaciones en la religión.
+<figure id="Figure_56" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/056.jpg">
+</figure>
 
-TERCERA SESIÓN - Dia 30 Nov, a las 9 y media TEMA:
+<br style="clear:both;"/>
 
-ESPECULACIONES Y FANTASIA EN TORNO A UN FENOMENO
+<figure id="Figure_57" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/057.jpg">
+</figure>
 
-Los intermediarios. Contactos. Verdad y mentira de unos hechos extraños. Coincidencias. ? Estamos en visperas de acontecimientos trascendentes.? Se impone rellexionar y seleccionar la hierba del trigo. Las asociaciones de estudio en el mundo. Investigadores cientificos o adeptos mentalizados.
+<br style="clear:both;"/>
 
-NOTAS: Debido a su duración, las conferencias comenzarán con estricta puntualidad.
-Al final de cada sesión se abrirá coloquio entre los asistentes y
-el conferenciante. Las conferencias serán ilustradas con proyección de diapositivas.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-59.jpg?height=1626&width=1346&top_left_y=492&top_left_x=358)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-60.jpg?height=1985&width=1494&top_left_y=304&top_left_x=281)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-61.jpg?height=1380&width=1317&top_left_y=312&top_left_x=344)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-62.jpg?height=1991&width=1452&top_left_y=238&top_left_x=285)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-63.jpg?height=278&width=224&top_left_y=318&top_left_x=365)
-
-II CONGRES INTERNACIONAL
-
-II CONGRESO INTERNACIONAL PARA EL ESTUDIO DE LOS ESTADOS MODIFICADOS DE CONSCIENCIA Etrocognición, chananismo plantes y contexto ailtural
-
-11 INIERNATIONAL CONGRESS FOR THE STUDY OF THE MODIFIED STATES OF CONSCIOUSNESS
-Ethnocognition, Chemanism, Plants and Calfturl context
-
-3 a 7 de octubre de 1.994 Lleida (España)
-
-II CONGRES INTERNACIONAL PER A L'ESTUDI DELS ESTATS MODIFICATS DE CONSCIENCIA: etnocognició, xamanisme, plantes $i$ context cultura1.
-
-II CONGRESO INTERNACIONAL PARA EL ESTUDIO DE LOS ESTADOS MODIFICADOS DE CONSCIENCIA: etnocognición, chamanismo, plantas y contexto cultural.
-
-II INTERNATIONAL CONGRESS FOR THE STUDY OF THE MODIFIED STATES OF CONSCIOUSNESS: Ethnocognition, Shamanism, Plants and Cultural Context.
-
-Imatilint des Prospectivas Amtropollosics
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-63.jpg?height=33&width=495&top_left_y=1103&top_left_x=740)
-
-E1 Comité Internacional Organizador de este II Congreso Internacional, certifica que:
-e1 Sr./a.: $\qquad$ Pere Valverde
-ha participado presentando 1a $\qquad$ Comunicación titulada $\qquad$ Alteridad y Onírica.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-63.jpg?height=278&width=989&top_left_y=1671&top_left_x=493)
-
-Congreso con carta de oficialidad auspiciado por la Generalitat de Catalunya, Universidad de Barcelona y los organismos cientificos coorganizadores
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-63.jpg?height=258&width=1196&top_left_y=2007&top_left_x=399)
 
 ## ANEXO 2
 
-## PROYECTO DE VIVIENDAS SOCIALES - ANGOLA
+**PROYECTO DE VIVIENDAS SOCIALES - ANGOLA**
 
-## DO JORNAL «DIARIO» - A PROVINCIA DE ANGOLA <br> Ne 15.536, de 7 de Novembro de 1973
+<br>
 
-## DISTRITO DO HUAI
+<figure id="Figure_58" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/058.jpg">
+</figure>
 
-## Desenvalvimento industrial do Huambo
+<br style="clear:both;"/>
 
-## Mais um importante complexo fabril
+<figure id="Figure_59" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/059.jpg">
+</figure>
 
-## na progressiva cidade da Caála
+<br style="clear:both;"/>
 
-O planafto centrai, segundo a doute opinião do eng:- Vicents Ferrsirs, - governante uftramarino de inegavel vi-séo-, constitui a regiäo angolana dotada de methores condiçōes acológicas para a fixação humana.
-$E$ ap prova evidente de tal facto of a Huambo passuir a mais elevada densidade demográfica de todo o Estado angolano, que se encontra recheado de imensas e progres. sivos aglomerados popufaciotais.
+<figure id="Figure_60" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/060.jpg">
+</figure>
 
-Por outro lado, a de há uns anos a esta parte, os capita. listas angolanos o do Portugal auropeu, tém vindo a fi-xar-se nestas terras altas, aqui implantando es suas unidedes industriais.
+<br style="clear:both;"/>
 
-O serro de novos complexos fabris, embora se vertha a registar em bonn número. está, no ertento, muito aquém das necessidades impostes para ums sólide estruturação sócio econúmica de regidao planältica.
+<figure id="Figure_61" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/061.jpg">
+</figure>
 
-Assim. e quando temos canhecimonto de que há perspectivas de na zona planaftica vir a ser instafada nova unidade industrial, rejubilamos com o facto procurando dar a conhacer ao publico, atrasvés de informaçös concretas c. reais, todos os elementos sobre a furtura camplexe.
+<br style="clear:both;"/>
 
-Esteye em Nova Lisboa, ducante breves horas, Padro Val-
-verde fort, súbdito esparihol radicado há oito anos no Portugat Europeu, onde estś apregado a importantes organizaçöes industriais.
+<figure id="Figure_62" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/062.jpg">
+</figure>
 
-Pois Padro Valverde veio ao Huambo a firm de utimar negociaçóes para instalar no zona industrial da Caéla, na cidade de Robert Williams. ume importante unidade me-talo-mecánica, destinada especialmente à fabricação de moquinas para indústrias quimicas e gráficas.
-
-A Sociedade, de que Pedra $V$ afverde é sócio, e cuja escritura já fot firmada, recebeu a designação de wFabril de Mequinaria, Ldan, indo invesiir na primeira fase do sett complexo na Cadála. 7.000 contos.
-
-Em breve trace de impressóes que mantivemos com Pedro Valverde fomos esciarecidos sobre a forma extrao:dinária como a Edilidade caslense recebou o interessado em instalar na sua terra täo importanto inctústria.
-
-Em Janeiro-Fevereira deverảo chegar à Caska, além de todo o equipamenta mecanico (tornos, frezadores, etc.). o edificio pré-fabricado, destinado precisamente à instalafía do principal bloce fabrif.
-
-A montagem total do odifício e maquinaria deverá estar concluida num periodo máximo de 3 meses, pelo que se espera que para meados
-de 1974 a nova unidade industrial entre em laboraçäo.
-
-Segundo Pedro Valverde é intençā̄a da Fabril de Maquineria, Lda., trazer para a Caśla conjuntamente com todo o material exigido. to agregados familiares. cujos chefes sería técnicos especializados. que atém de prestarem spoio tecnológica à nove unidade. servirão de monitores \&̀ especialização do pessoal rectu. do nà regiso.
-
-Na primeira fase a drea coberta petss instalsçöes atifigirs os 2.700 metros quadrados.
-
-Portanto, em 1974, a Caafa passará a contar com mais uma importante unidade indistrial, que, certamente, muito viré contribuir para a sels almejado desenvolvimento económice $n$ secigl
-
-## CONSTRUÇÕES PREFABRICADAS sistema (tort)
-
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-65.jpg?height=1438&width=1483&top_left_y=790&top_left_x=289)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-66.jpg?height=2196&width=1486&top_left_y=242&top_left_x=289)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-67.jpg?height=2041&width=1509&top_left_y=292&top_left_x=289)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-68.jpg?height=2054&width=1489&top_left_y=332&top_left_x=289)
+<br style="clear:both;"/>
 
 ## ANEXO 3
 
 ENTREVISTA A PEDRO VALVERDE: LA MÍSTICA DEL FENÓMENO OVNI
+
 Por Pere Artigas, de la revista «El Maresme»
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-69.jpg?height=1140&width=829&top_left_y=592&top_left_x=288)
+
+<figure id="Figure_63" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/066.jpg">
+</figure>
 
 Pedro Valverde Tort forma parte de ese grupo de mataroneses que, aun habiendo hecho cosas realmente importantes, permanecen en el anonimato; quizá en su caso Pedro Valverde quiere expresamente que así sea. Ha costado mucho poder hacerle esta entrevista, entre otras cosas porque arrastra un tipo de destino que le lleva a viajar constantemente, ya sea por su profesión o bien porque fuerza las posibilidades. Nacido en Mataró hace cincuenta años, ejerce como perito mecánico. Quince años atrás, comenzó un vuelo que le llevó a numerosos países, acabando su aventura cuando la guerra africana de Angola rompió su más querido proyecto personal y profesional: abastecer a todo un país africano de escuelas primarias y dispensarios médicos mediante un sistema de edificios prefabricados, sistema este del que es el inventor.
 
-Precisamente fue con este nuevo sistema con el que Pedro Valverde consiguió la medalla de plata en el Salón Internacional de Nuevas Técnicas, celebrado en Ginebra (Suiza) el año 1973. Sin embargo, no es su actividad profesional la que nos ha llevado a hablar con él, sino sus estudios sobre las posibilidades de existencia de extraterrestres y sus manifestaciones a través del fenómeno OVNI. Desde el año 1950, Pedro Valverde está llevando a cabo numerosas investigaciones en este campo; puede decirse que él, Antonio Ribera y Mario Lleget son los catalanes más avanzados en esta cuestión. Recientemente se celebró en Barcelona el
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-69.jpg?height=692&width=520&top_left_y=1884&top_left_x=1259) I Congreso Nacional de Ufología, donde Valverde presentó una ponencia de título «La problemática mística del fenómeno OVNI»,
-y con la cual consiguió despertar el interés de los especialistas internacionales que asistieron al congreso. Todavía más recientemente, presentó la misma ponencia en «El Racó» de nuestra ciudad.
+<br style="clear:both;"/>
+
+<figure id="Figure_64" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/065.jpg">
+</figure>
+
+Precisamente fue con este nuevo sistema con el que Pedro Valverde consiguió la medalla de plata en el Salón Internacional de Nuevas Técnicas, celebrado en Ginebra (Suiza) el año 1973. Sin embargo, no es su actividad profesional la que nos ha llevado a hablar con él, sino sus estudios sobre las posibilidades de existencia de extraterrestres y sus manifestaciones a través del fenómeno OVNI. Desde el año 1950, Pedro Valverde está llevando a cabo numerosas investigaciones en este campo; puede decirse que él, Antonio Ribera y Mario Lleget son los catalanes más avanzados en esta cuestión. Recientemente se celebró en Barcelona el I Congreso Nacional de Ufología, donde Valverde presentó una ponencia de título «La problemática mística del fenómeno OVNI», y con la cual consiguió despertar el interés de los especialistas internacionales que asistieron al congreso. Todavía más recientemente, presentó la misma ponencia en «El Racó» de nuestra ciudad.
+
+<br style="clear:both;"/>
 
 Pedro, justifica la existencia de lo extraterrestre y su tarjeta de presentación: el OVNI. Hay mucha gente que muestra gran escepticismo hacia estas cuestiones...
 
-El hecho es, para mí y para muchos, algo incontrovertible. Y ya es hora de que comience a serlo para muchos más, para todo el mundo. Hoy se puede decir que disponemos de una extensa casuística al alcance de todos los que quieran profundizar en el tema; hace veinte años todo era mucho más confuso. Hoy contamos ya con el reconocimiento de los gobiernos de muchos países, España incluida, y en cierta manera supone un aval de la actualidad y realidad del hecho.
+_El hecho es, para mí y para muchos, algo incontrovertible. Y ya es hora de que comience a serlo para muchos más, para todo el mundo. Hoy se puede decir que disponemos de una extensa casuística al alcance de todos los que quieran profundizar en el tema; hace veinte años todo era mucho más confuso. Hoy contamos ya con el reconocimiento de los gobiernos de muchos países, España incluida, y en cierta manera supone un aval de la actualidad y realidad del hecho._
 
 Aun así, el tema sigue siendo interesante para ciertas minorías...
-Parece que lo de las minorías es verdad, pero no es así. En realidad, son muchas las asociaciones, tanto a nivel nacional como estatal y mundial, que están trabajando activamente en el tema, y cuando las asociaciones nacen es prueba evidente de que las presiones en el medio son grandes. Lo que sí hay es una gran confusión, en el sentido de que todo son dificultades, muchas de ellas creadas expresamente para discernir entre los hechos positivos y los falseados, y con eso se genera cierta desconfianza en el profano.
 
-## UNA INTERFERENCIA DENOMINADA RELIGIÓN
+_Parece que lo de las minorías es verdad, pero no es así. En realidad, son muchas las asociaciones, tanto a nivel nacional como estatal y mundial, que están trabajando activamente en el tema, y cuando las asociaciones nacen es prueba evidente de que las presiones en el medio son grandes. Lo que sí hay es una gran confusión, en el sentido de que todo son dificultades, muchas de ellas creadas expresamente para discernir entre los hechos positivos y los falseados, y con eso se genera cierta desconfianza en el profano._
+
+UNA INTERFERENCIA DENOMINADA RELIGIÓN
 
 Aceptemos que el fenómeno sea una realidad. ¿Qué consecuencias se pueden derivar? ¿Qué interpretaciones haces de este fenómeno?
 
-Tu pregunta es intencionada. Para empezar, te diré que mi postura actual es diferente a la del principio; esto no es nada nuevo, pues a muchos les ha pasado lo mismo. Al comenzar, uno se preocupa y se interesa por el hecho en sí, su espectacularidad, los avances técnicos que suponen el domino de la técnica espacial que se observa en los OVNIS, la confirmación del hecho trascendental de que no estamos solos en el universo, las repercusiones sociológicas de un futuro contacto de nuestra sociedad con una civilización extraterrestre...
+_Tu pregunta es intencionada. Para empezar, te diré que mi postura actual es diferente a la del principio; esto no es nada nuevo, pues a muchos les ha pasado lo mismo. Al comenzar, uno se preocupa y se interesa por el hecho en sí, su espectacularidad, los avances técnicos que suponen el domino de la técnica espacial que se observa en los OVNIS, la confirmación del hecho trascendental de que no estamos solos en el universo, las repercusiones sociológicas de un futuro contacto de nuestra sociedad con una civilización extraterrestre..._
 
-Poco a poco, consigues llegar al fondo de la cuestión, al «porqué» de la presencia de observadores extraterrestres entre nosotros, algo constatado en la más remota antigüedad y, sobre todo, al porqué de la constante interferencia del OVNI y del Sr. Extraterrestre en el contexto religioso de todos los pueblos...
+_Poco a poco, consigues llegar al fondo de la cuestión, al «porqué» de la presencia de observadores extraterrestres entre nosotros, algo constatado en la más remota antigüedad y, sobre todo, al porqué de la constante interferencia del OVNI y del Sr. Extraterrestre en el contexto religioso de todos los pueblos..._
 
 Me parece que estás entrando en un terreno resbaladizo y peligroso...
-Soy plenamente consciente de ello. Hablaba de la constante interferencia a través del tiempo y de todas las culturas. Este es, sin duda, el «porqué» trascendental del problema.
 
-## LA INMORTALIDAD: UNA PALABRA ENCASILLADA Y EXCLUSIVIZADA
+_Soy plenamente consciente de ello. Hablaba de la constante interferencia a través del tiempo y de todas las culturas. Este es, sin duda, el «porqué» trascendental del problema._
+
+LA INMORTALIDAD: UNA PALABRA ENCASILLADA Y EXCLUSIVIZADA
 
 Religiosamente hablando, podría decirse que todo está atado y calculado, muy bien atado y muy bien calculado, diría yo...
 
-Más que eso, creo que lo correcto es decir que está «encaminado y bien encaminado».
-El universo entero está regido por las leyes de la evolución desde el principio de los principios, y el «homo sapiens» es el resultado de una evolución biológica y psíquica que se irá prolongando en los siglos futuros, pues no hay nada que nos pueda hacer creer que hemos alcanzado la culminación de una curva evolutiva. Pero cuando pensamos en términos de evolución, nos condicionamos - sin razón ninguna - a aceptarla en términos filosóficos y de inteligencia a nivel puramente cerebral. Y no se trata de eso. Existe otra línea de actuación paralela, mucho más trascendente, que acabará proporcionando al hombre una cualidad muy especial - que ya poseen algunos de los pueblos del espacio -. La posibilidad de que el hombre pueda adquirir esta «cualidad superior» ha estado instituida por todas las generaciones que nos han precedido y, al mismo tiempo, ha estado encasillada, acaparada por todas las religiones. Me estoy refiriendo a la inmortalidad.
+_Más que eso, creo que lo correcto es decir que está «encaminado y bien encaminado»._
+
+_El universo entero está regido por las leyes de la evolución desde el principio de los principios, y el «homo sapiens» es el resultado de una evolución biológica y psíquica que se irá prolongando en los siglos futuros, pues no hay nada que nos pueda hacer creer que hemos alcanzado la culminación de una curva evolutiva. Pero cuando pensamos en términos de evolución, nos condicionamos - sin razón ninguna - a aceptarla en términos filosóficos y de inteligencia a nivel puramente cerebral. Y no se trata de eso. Existe otra línea de actuación paralela, mucho más trascendente, que acabará proporcionando al hombre una cualidad muy especial - que ya poseen algunos de los pueblos del espacio -. La posibilidad de que el hombre pueda adquirir esta «cualidad superior» ha estado instituida por todas las generaciones que nos han precedido y, al mismo tiempo, ha estado encasillada, acaparada por todas las religiones. Me estoy refiriendo a la inmortalidad._
+
 ¡Coño! Me parece que continúas por terreno resbaladizo y peligroso...
-Nos han forzado a aceptar la inmortalidad como un premio que se concede a quien se somete a determinadas reglas, pero también puede considerarse como una cualidad que se adquiere indiscriminadamente cuando no se interfieren o se fomentan las leyes de la evolución psíquica.
+
+_Nos han forzado a aceptar la inmortalidad como un premio que se concede a quien se somete a determinadas reglas, pero también puede considerarse como una cualidad que se adquiere indiscriminadamente cuando no se interfieren o se fomentan las leyes de la evolución psíquica._
 
 Me parece que nos estamos alejando de lo que hablábamos al principio... aunque lo que estás diciendo es muy interesante.
 
-No, no se aleja de lo que decía al principio. Puedes encontrar narraciones de infinidad de casos de observaciones de OVNIS en los que las características se alejan tanto, son tan superiores a lo que pueda conseguir la técnica más avanzada posible de los hombres, que solo puedes explicarlo enmarcándolo en lo que hoy se considera como terreno sobrenatural.
+_No, no se aleja de lo que decía al principio. Puedes encontrar narraciones de infinidad de casos de observaciones de OVNIS en los que las características se alejan tanto, son tan superiores a lo que pueda conseguir la técnica más avanzada posible de los hombres, que solo puedes explicarlo enmarcándolo en lo que hoy se considera como terreno sobrenatural._
 
-## UNA REALIDAD PARA CONFIRMAR Y DOMINAR
+UNA REALIDAD PARA CONFIRMAR Y DOMINAR
 
 ¿En qué sentido puede influir o modificar la forma de vivir y desarrollarse del hombre de hoy, este - llamémosle - «conocimiento»?
 
-Cuando el hombre de hoy, especialmente en lo que respecta a la juventud, tenga el conocimiento, la certeza que puede hacer valer su derecho a participar en una gran aventura cósmica, llena de alicientes y estímulos; una aventura que puede llevarlo a horizontes infinitos de realización personal y al pleno conocimiento de por qué existimos y para qué existimos, exigirá a este hombre que esté liberado de dogmas y doctrinas -
-que ya habrán cumplido su misión histórica de prepararnos para una «tercera fase» pero que de ninguna manera pueden ser aceptados como algo perenne.
+_Cuando el hombre de hoy, especialmente en lo que respecta a la juventud, tenga el conocimiento, la certeza que puede hacer valer su derecho a participar en una gran aventura cósmica, llena de alicientes y estímulos; una aventura que puede llevarlo a horizontes infinitos de realización personal y al pleno conocimiento de por qué existimos y para qué existimos, exigirá a este hombre que esté liberado de dogmas y doctrinas - que ya habrán cumplido su misión histórica de prepararnos para una «tercera fase» pero que de ninguna manera pueden ser aceptados como algo perenne._
 
 Se puede entender en el concepto clásico de mundo o nivel sobrenatural...
-No, no, de ninguna manera hemos de entenderlo en este concepto clásico. Hemos de entenderlo como una auténtica realidad que estamos a punto de confirmar y, después, dominar; una realidad que llevará incluida en ella misma el conocimiento de la gran ley que gobierna todo el universo.
+
+_No, no, de ninguna manera hemos de entenderlo en este concepto clásico. Hemos de entenderlo como una auténtica realidad que estamos a punto de confirmar y, después, dominar; una realidad que llevará incluida en ella misma el conocimiento de la gran ley que gobierna todo el universo._
 
 Has hablado poco de los OVNIS, la gente quiere saber cosas concretas...
-Medita en la forma en que se comportan. En primer lugar, después de siglos de observación, comienzan a manifestarse para que los hombres tomen conciencia de que son posibles. Todo eso coincide con la fase técnica en la que el hombre puede intentar el vuelo espacial, con los tímidos ensayos de pequeños satélites que giran alrededor del mundo.
 
-Después viene una fase de verificación de su certeza física, de la realidad de su presencia. Y es precisamente en esta segunda fase en la que el hombre abre fronteras y pone sus pies en un mundo que no es la Tierra. Para cualquier niño de hoy, este avance es completamente natural y no lo pone en duda, sino que lo acepta como una cosa más, a pesar de que para las personas más mayores este hecho haya constituido - en su día - un verdadero impacto emocional.
+_Medita en la forma en que se comportan. En primer lugar, después de siglos de observación, comienzan a manifestarse para que los hombres tomen conciencia de que son posibles. Todo eso coincide con la fase técnica en la que el hombre puede intentar el vuelo espacial, con los tímidos ensayos de pequeños satélites que giran alrededor del mundo._
 
-Y ahora se prepara una «tercera fase» en la cual el hombre pone sus ojos más allá del sistema solar y se habitúa a la posibilidad de encontrarse con otras inteligencias; se prepara para enfrentarse al «contacto». Inversamente, los que van a ser «contactados» poseen la prueba real de su posición en el cosmos y no habrá peligro de que se enmarque este hecho en el marco de una pseudosobrenaturalidad, de la superstición o del contexto religioso humano...
+_Después viene una fase de verificación de su certeza física, de la realidad de su presencia. Y es precisamente en esta segunda fase en la que el hombre abre fronteras y pone sus pies en un mundo que no es la Tierra. Para cualquier niño de hoy, este avance es completamente natural y no lo pone en duda, sino que lo acepta como una cosa más, a pesar de que para las personas más mayores este hecho haya constituido - en su día - un verdadero impacto emocional._
+
+_Y ahora se prepara una «tercera fase» en la cual el hombre pone sus ojos más allá del sistema solar y se habitúa a la posibilidad de encontrarse con otras inteligencias; se prepara para enfrentarse al «contacto». Inversamente, los que van a ser «contactados» poseen la prueba real de su posición en el cosmos y no habrá peligro de que se enmarque este hecho en el marco de una pseudosobrenaturalidad, de la superstición o del contexto religioso humano..._
+
 ¿Se puede relacionar todo lo que dices con la película que dan en Barcelona titulada «Encuentros en la tercera fase»?
 
-Evidentemente, el tema coincide y la proyección de este film creo que acontece en el momento más oportuno. La idea con la que está hecha pienso que es válida, aunque naturalmente la interpretación es muy propia del autor.
+_Evidentemente, el tema coincide y la proyección de este film creo que acontece en el momento más oportuno. La idea con la que está hecha pienso que es válida, aunque naturalmente la interpretación es muy propia del autor._
 
-Pedro Valverde me explica que el próximo mes de abril el secretario general de la ONU, Kurt Walheim, presentará ante la Asamblea un dosier sobre el fenómeno OVNI; considera que esto puede ser muy importante de cara al futuro. Lamenta también que el presidente norteamericano Jimmy Carter no haya cumplido las promesas hechas durante la campaña electoral, en el sentido de que si salía elegido presidente daría luz al tema OVNI y a toda la documentación recogida y guardada en secreto... Eso quiere decir que el tema les
-espanta, que se les escapa..., dice resignado por la falta de palabra de Carter, y esperanzado a la vez de lo que se pueda decir en la ONU.
+Pedro Valverde me explica que el próximo mes de abril el secretario general de la ONU, Kurt Walheim, presentará ante la Asamblea un dosier sobre el fenómeno OVNI; considera que esto puede ser muy importante de cara al futuro. Lamenta también que el presidente norteamericano Jimmy Carter no haya cumplido las promesas hechas durante la campaña electoral, en el sentido de que si salía elegido presidente daría luz al tema OVNI y a toda la documentación recogida y guardada en secreto... _Eso quiere decir que el tema les espanta, que se les escapa..._, dice resignado por la falta de palabra de Carter, y esperanzado a la vez de lo que se pueda decir en la ONU.
 
-Mientras me acompañaba a la puerta de salida, hablando sobre la entrevista, coincidimos en lo mismo: el tema es muy polémico y puede despertar controversias entre los lectores. Esto demuestra que el tema está vivo, que existe, que se palpa... a pesar de que haya quien diga que es un cuento puramente comercial, me dice Pedro haciendo una clara alusión a un escrito que salió hace poco en un diario de Barcelona de gran tirada, propiedad de un conde y firmado por F.M.
+Mientras me acompañaba a la puerta de salida, hablando sobre la entrevista, coincidimos en lo mismo: el tema es muy polémico y puede despertar controversias entre los lectores. _Esto demuestra que el tema está vivo, que existe, que se palpa... a pesar de que haya quien diga que es un cuento puramente comercial_, me dice Pedro haciendo una clara alusión a un escrito que salió hace poco en un diario de Barcelona de gran tirada, propiedad de un conde y firmado por F.M.
 
 Traducido por Olga López.
 
 ## ANEXO 4
 
-# INSTITUTO DE INVESTIGACION Y ESTUDIOS EXOBIOLOGICOS (I.I.E.E) 
+**INSTITUTO DE INVESTIGACION Y ESTUDIOS EXOBIOLOGICOS (I.I.E.E)**
 
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-74.jpg?height=187&width=249&top_left_y=586&top_left_x=915)
+<br/>
 
-## INSTITUTO DE INVESTIGACION $Y$ ESTUDIOS EXOBIOLOGICOS
+<figure id="Figure_65" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/067.jpg">
+</figure>
 
-BOLIVIA, 19 - TEL. 3007615-3885653 - BARCELONA (18) - ESPAÑA
+<br style="clear:both;"/>
 
-Secretaría de la
-COORDINADORA DE ESTUDIOS SOBRE
-EL FENOMENO O.V.N.I.
+<figure id="Figure_66" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/068.jpg">
+</figure>
 
-## CENTROS MIEMEROS DE LA COORDINADOKA
+<br style="clear:both;"/>
 
-| CIOVE |  | SANTANDER | CIFE | ARCHENA(Murcia) |
-| :--- | :--- | :--- | :--- | :--- |
-| CHARLES | FORT | VALLADOLID | GIP | MONZON (Huesca) |
-| R.N.C |  | SEVILLA | CAUFEX | ZARAGOZA |
-| ADEM |  | ZARAGOZA | CRIFOP | LOGROÑO |
-| UNEICC | S. | DE | I.I.E.E. | BARCELONA |
+<figure id="Figure_67" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/069.jpg">
+</figure>
 
-## INVESTIGADORES. INDEPENDIENTES MIEMBROS
+<br style="clear:both;"/>
 
-| ENRIQUE DE VICENTE |  | MADRID |
-| :--- | :--- | :--- |
-| PEDRO HUESO |  | BARCELONA |
-| JULIO MARVIZON |  | SEVILLA |
-| PEDRO VALVERDE |  | MATARO (Barcelona) |
-| VICTOR S. AJA |  | BADAJOZ |
-| JOSE-LUIS HERMIDA |  | SEVILLA |
-| JOSE BAÑOS BAÑOS |  | SEVILLA |
+**PROYECTO DELFOS**
 
-## 000000000000000
+<br/>
 
-## Miembro de U.G.E.P.I.
+<figure id="Figure_68" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/070.jpg">
+</figure>
 
-Unión des Groupements d'Etude
-des Phenomènes Inexpliqués
-Suiza, Belgica, Luxemburgo, España, Portugal.
+<br style="clear:both;"/>
 
-## 000000000000000
+<figure id="Figure_69" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/071.jpg">
+</figure>
 
-## SUMARIO
+<br style="clear:both;"/>
 
-(Pag.)
-EDITORIAL ..... 3
-CASO DE VALENCIA ..... 5
-¿PORQUE SE ACERCAN LOS O.V.N.I.S A LOS VEHICULOS? ..... 11
-MUNDILLO O.V.N.I ..... 17
+<figure id="Figure_70" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/072.jpg">
+</figure>
 
-FIRMA PERSONAL
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-75.jpg?height=178&width=542&top_left_y=391&top_left_x=377)
-
-- SEL. isós
-
-CADUCA
-
-## I.I.E.E.
-
-Bolivia, 19
-Tel: 3007615
-Barcelona-18
-ESPAÑA
-EL PRESIDENTE
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-75.jpg?height=193&width=557&top_left_y=923&top_left_x=364)
-
-Registro n. ${ }^{\circ} 2228$ - Sección $1{ }^{\mathrm{a}}$. GOBIERNO CIVIL DE BARCELONA
-
-INSTITUTO DE INVESTIGACION
-Y
-ESTUDIOS EXOBIOLOGICOS
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-75.jpg?height=346&width=636&top_left_y=455&top_left_x=1049)
-
-DOCUMENTO DE IDENTIFICACION
-VALVERDE TORT
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-75.jpg?height=338&width=640&top_left_y=899&top_left_x=1045)
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-75.jpg?height=496&width=1055&top_left_y=1660&top_left_x=376)
-I.I.E.E.
+<br style="clear:both;"/>
 
 INSTITUTO DE INVESTIGACION Y ESTUDIOS EXOBIOLOGICOS
 
-PEDRO
-NOMBRE
-CARGO
+PROGRAMA
 
-VALVERDE TORT
-ASESOR
+- 0.- ENCUENTRO DE PARTICIPANTES EN GILET
+  - Sábado, 9 de Abril, 9 de la mañana.
+- 1.- APERTURA.
+- 1.1.- Intervenciones.
+- 2.- RELACION CON LA C.E.OURANOS 
+- 2.1.- Intervenciones.
+- 3.- PROPOSITO DEL PROYECTO DELFOS
+- 3.1.- Intervenciones
+- 4.- DIFERENCIAS-AFINIDADES CON OURANOS
+- 4.1.- Intervenciones
+- 5.- I.I.E.E. - C.I.U.E. - DELFOS
+- 5.1.- Intervenciones
+  - Sábado 9 de Abril, 4 de la tarde.
+- 6.- EL PROYECTO DELFOS
+- 6.1.- Intervenciones
+- 7.- INTERVENCION DE LOS MIEMBROS
+- 7.1.- Opiniones. Sugerencias. Experiencias personales. Otros aspectos. El cuestionario.
+  - Sábado 9 de Abril,después de la cena. LOS «FANTASMADORES» en acción.
+  - Domingo, 10 de Abril. Mañana a las 10.
+- 8.- CONCLUSIONES Y ACUERDO FINAL.
+- 8.1.- Confirmación de adhesiones.
+- 9.- ÁPAGA Y VÁMONOS.
 
-## PROYECTO DELFOS
-
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-76.jpg?height=158&width=209&top_left_y=518&top_left_x=935)
-
-| INSTITUTO DE INVESTIGACION $Y$ ESTUDIOS EXOBIOLOGICOS <br> egraña BOLIVYA, 10 TEL. 3007615 <br> BARCELONA (1B) 1994 |  |
-| :--- | :--- |
-|  |  |
-|  |  |
-|  | PROGRAMA |
-| ENCUENTRO DE PARTICIPANTES EN GILET |  |
-|  |  |
-|  | Sábado, 9 de Abril, 9 de la mañana. |
-| 1.- | APERTURA. |
-| 1.1.- Intervenciones. |  |
-| 2.- | RELACION CON LA C.E.OURANOS |
-| 2.1.- Intervenciones. |  |
-| 3.- | PROPOSITO DEL PROYECTO DELFOS |
-| 3.1.- Intervenciones |  |
-| 4.- DIFERENCIAS-AFINIDADES CON OURANOS |  |
-| 4.1.- Intervenciones |  |
-| 5.- | I.I.E.E. - C.I.U.E. - DELFOS |
-| 5.1.- Intervenciones |  |
-| Sábado 9 de Abril, 4 de la tarde. |  |
-| 6. | EL PROYECTO DELFOS |
-| 6.1.- Intervenciones |  |
-| 7.- | INTERVENCION DE LOS MIEMBROS |
-| 7.1.- | Opiniones. Sugerencias. Experiencias personales. Otros aspectos.El cuestionario. |
-|  | Sábado 9 de Abril,después de la cena. LOS «FANTASMADORES» en acción. |
-|  | Domingo, 10 de Abril. Mañana a las 10. |
-| 8.- | CONCLUSIONES Y ACUERDO FINAL. |
-|  | 8.1.- Confirmación de adhesiones. |
-| 9.- | ÁPAGA Y VÁMONOS. |
-
-INSTITUTO DE INVESTIGACION $Y$ ESTUDIOS EXOBIOLOGICOS BOLIVIA, 19
-
-TEL. 3007815
-BARCELONA (18)
-ESPAÑA
+INSTITUTO DE INVESTIGACION Y ESTUDIOS EXOBIOLOGICOS
 
 En Gilet, a 11 de abril de 1994.
 
 Todos los investigadores del fenómeno OVNI abajo consignados, que se han reunido en Gilet para constituirse en grupo de trabajo y desarrollar las directrices del proyecto Delfos, acuerdan desarrollar una futura línea de trabajo, investigación y divulgación, que definen según los diez puntos del siguiente
 
-## - MANIFIESTO-
+- MANIFIESTO-
 
 1) El fenómeno OVNI es total o parcialmente extraño al problema de la vida extraterrestre, con la cual se ha pretendido casi siempre asociarlo y justificarlo.
 2) Muchas de las manifestaciones del fenómeno OVNI entran en los dominios de 10 parafísico, nivel que por su naturaleza de alto contenido subjetivo puede escapar al análisis científico convencional.
@@ -1222,11 +1231,15 @@ Todos los investigadores del fenómeno OVNI abajo consignados, que se han reunid
 6) Su interferencia en los asuntos humanos debe insertarse en el contexto de un verdadero complot oculto, orientado posiblemente hacia un nuevo Orden Mundial.
 7) Se puede concluir que el fenómeno OVNI y otras manifestaciones inexplicables tienen lugar en el plan de un vasto escenario de engaño.
 8) Se concluye que este plan o complot ha interferido y sigue interfiriendo en la normal evolución del hombre y de sus capacidades psíquicas, por medio de la seducción de banalizar lo oculto, en una estrategia enfocada esencialmente a los jóvenes.
-9) Esta acción abarca la manipulación psiquica, la sugestió, mental, los estados alterados de conciencia, las modificaciones de la personalidad, el control telepático... 10) La continuada presencia del fenómeno OVNI y su interferencia a lo largo de la historia, es prueba evidente: de la existencia de una INTENCIONALIDAD y de una ESTRATEGIF al servicio de un poder. Contrarrestrar la FINALIDAD de esta acción subversiva que se lleva a cabo tanto a nivel mental como fisico, es la linea de tranbajo que se proponen desarrollar los miembros comprometidos en el Proyecto Delfos.
-![](https://cdn.mathpix.com/cropped/2025_07_08_bf106e2490ffa4df2187g-78.jpg?height=935&width=1386&top_left_y=1503&top_left_x=341)
+9) Esta acción abarca la manipulación psiquica, la sugestió, mental, los estados alterados de conciencia, las modificaciones de la personalidad, el control telepático...
+10) La continuada presencia del fenómeno OVNI y su interferencia a lo largo de la historia, es prueba evidente: de la existencia de una INTENCIONALIDAD y de una ESTRATEGIF al servicio de un poder. Contrarrestrar la FINALIDAD de esta acción subversiva que se lleva a cabo tanto a nivel mental como fisico, es la linea de tranbajo que se proponen desarrollar los miembros comprometidos en el Proyecto Delfos.
 
-El primero de la derecha de la fotografía, sentado, Pedro Valverde. Falleció durante el Proyecto Delfos.
+<br />
 
+<figure id="Figure_71" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/073.jpg">
+<figcaption>El primero de la derecha de la fotografía, sentado, Pedro Valverde. Falleció durante el Proyecto Delfos.</figcaption>
+</figure>
 
 
 

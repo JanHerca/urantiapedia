@@ -107,7 +107,7 @@ Nous avons ici un diagramme sous forme de tableau où apparaissent les caractér
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
-[**De la tribu à la citoyenneté cosmique (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
+[**De la tribu à la citoyenneté cosmique (Olga López)**](/fr/article/Olga_Lopez/De_la_tribu_a_la_ciudadania_cosmica) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf))
 
 Ceci est le texte d'une présentation qui a été donnée lors de l'Urantiaton du 28 novembre 2020, et qui commence ainsi : « Dans _Le Livre d'Urantia_ l'expression citoyenneté cosmique ou citoyens cosmiques apparaît à plusieurs reprises. Une autre expression liée à la citoyenneté cosmique est sans aucun doute celle de conscience cosmique. Nous lisons et comprenons ce que ces mots signifient séparément, mais à quoi font-ils exactement référence lorsqu’ils sont associés ? A partir de cette question, l'auteur développe un lien entre citoyenneté et conscience cosmique, à la lumière des enseignements du _Livre d'Urantia_.
 <br style="clear:both" />

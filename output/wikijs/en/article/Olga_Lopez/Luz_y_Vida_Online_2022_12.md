@@ -108,7 +108,7 @@ Here we have a diagram in the form of a table where the most outstanding charact
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="From the tribe to cosmic citizenship" width="250">
 </figure>
 
-[**From the tribe to cosmic citizenship (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
+[**From the tribe to cosmic citizenship (Olga López)**](/en/article/Olga_Lopez/De_la_tribu_a_la_ciudadania_cosmica) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf))
 
 This is the text of a presentation that was given during the Urantiathon on November 28, 2020, and which begins like this: «In _The Urantia Book_ the expression cosmic citizenship or cosmic citizens appears several times. Another of the expressions that is related to cosmic citizenship is undoubtedly that of cosmic consciousness. We read and understand what those words mean separately, but what exactly do they refer to when they go together? From this question, the author develops a link between citizenship and cosmic consciousness, in light of the teachings of _The Urantia Book_.
 <br style="clear:both" />

@@ -101,7 +101,7 @@ The late author, who was president of Urantia Foundation, begins by saying: “W
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/El-movimiento-Urantia-en-Espana.jpg" alt="El movimiento Urantia en España" width="250">
 </figure>
 
-[**The Urantia movement in Spain (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf) 
+[**The Urantia movement in Spain (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/El_movimiento_Urantia_en_Espana) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf))
 
 If there is something that draws attention in this work, at times history and at times personal story, it is the description of the key people in the dissemination of the teachings of _The Urantia Book_ in our country. People who were not daunted by the fact that the book was in a language other than their native tongue and that there was no one else in the country to whom they could turn to obtain it; they were so determined to know its content that they resorted to all means at their disposal to drink from its teachings. Now, in the age of the Internet, it is easy to access any book from any part of the planet, but this was far from the case in the 1970s. In this story, perhaps not all who are there are, but certainly all who are there are. It was very difficult, if not impossible, for them all to be there. Perhaps we still lack the perspective that time gives; the history of the Urantia movement, like all history, is an open story to which the word “end” cannot be put. 
 <br style="clear:both;"/> 

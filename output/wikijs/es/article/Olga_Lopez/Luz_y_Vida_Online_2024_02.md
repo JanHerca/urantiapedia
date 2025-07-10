@@ -101,7 +101,7 @@ El autor, ya fallecido, que fue presidente de la Fundación Urantia, comienza di
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/El-movimiento-Urantia-en-Espana.jpg" alt="El movimiento Urantia en España" width="250">
 </figure>
 
-[**El movimiento Urantia en España (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf)
+[**El movimiento Urantia en España (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/El_movimiento_Urantia_en_Espana) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf))
 
 Si hay algo que llama la atención de este trabajo, a ratos historia y a ratos relato personal, es la descripción de las personas clave en la difusión de las enseñanzas de _El libro de Urantia_ en nuestro país. Personas que no se amedrentaron ante el hecho de que el libro estuviera en un idioma distinto a su lengua materna y de que no hubiera nadie más en el país al que acudir para conseguirlo; estaban tan decididos a conocer su contenido que recurrieron a todos los medios que estuvieron a su alcance para beber de sus enseñanzas. Ahora, en la era de Internet, es fácil acceder a cualquier libro de cualquier parte del planeta, pero esto era lejos de ser así en los años 70. En este relato posiblemente no estén todos los que son, pero desde luego sí son todos los que están. Era muy difícil, por no decir imposible, que estuvieran todos. Quizá nos falte todavía la perspectiva que da el tiempo; la historia del movimiento Urantia, como toda historia, es un relato abierto al que no se le puede poner la palabra «fin».
 <br style="clear:both;"/>

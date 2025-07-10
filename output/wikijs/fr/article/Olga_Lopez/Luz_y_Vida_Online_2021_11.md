@@ -110,7 +110,7 @@ Ce travail approfondi a été publié par la revue _The Fellowship Herald_, de l
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="El Corán y el LU" width="250">
 </figure>
 
-[**Le Coran sous les lumières spirituelles du _Le Livre d'Urantia_ (Omar Delgado)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf)
+[**Le Coran sous les lumières spirituelles du _Le Livre d'Urantia_ (Omar Delgado)**](/fr/article/Omar_Delgado/El_Coran_bajo_las_luces_espirituales_de_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf))
 
 Nous trouvons ici un ouvrage intéressant, qui aborde un sujet qui n'est pas exactement abondant parmi les ouvrages secondaires sur _Le Livre d'Urantia_. Selon les mots de son auteur : « Cette compilation de citations du Coran et du _Livre d'Urantia_ est destinée à élargir les horizons spirituels de tout croyant sincère en la Vérité de cette foi naissante du 6ème siècle après JC. par Mahomet. « Jésus a dit que le Père envoie toujours des messagers ou des révélations à chaque génération à l'humanité sans oublier personne, pour élargir et rafraîchir le message spirituel du Royaume. »
 <br style="clear:both" />

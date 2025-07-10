@@ -3,12 +3,12 @@ title: Historia del Movimiento Urantia
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
-tags: The Urantia Book, The Urantia Book—Authorship
+tags: The Urantia Book, The Urantia Book—Authorship, The Urantia Book—History, History of Urantia Movement, william sadler
 editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Dr. William S. Sadler.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation<br>Traductor: Jan Herca</p>
 
 Varios miembros de este grupo que participó en los «contactos» preliminares que llevaron a la aparición de los Documentos de Urantia tenían una experiencia considerable en la investigación de fenómenos psíquicos. Este grupo llegó rápidamente a la conclusión de que los fenómenos relacionados con la personalidad, que más tarde fue asociada con los Documentos de Urantia, de ninguna manera eran similares a cualquier otro fenómeno psíquico conocido, como la hipnosis, escritura automática, clarividencia, trances, telepatía, Mediación espiritista o doble personalidad. 
 
@@ -356,9 +356,12 @@ Una cosa debe quedar clara: No se hace nada por interferir con los energéticos 
 ## Enlaces externos
 
 * [Artículo en la Fundación Urantia](https://www.urantia.org/urantia-foundation/history)
+* [Enlace al texto español que está en la web de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/historia-del-movimiento-urantia)
 * [Artículo en la Fellowship](https://archive.urantiabook.org/archive/history/histumov.htm)
+* [Traducción de Antonio Moya, Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/01/Historia-del-Movimiento-Urantia.pdf)
 * [Traducción de Ángel Sánchez-Escobar](https://web.archive.org/web/19991001193139/http://209.24.252.35/documents/doc291.htm) Esta traducción ya no está disponible en el sitio de la Fellowship (enlace a Wayback Machine).
 * [Traducción en Agrupación Autónoma Urantia Chile](https://web.archive.org/web/20220529132204/http://www.urantiachile.org/?modulo=articulos) El sitio web ya no está disponible (enlace a Wayback Machine).
+* [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 ## Notas
 
