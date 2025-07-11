@@ -144,7 +144,7 @@ Aquí tenéis una presentación exhaustiva de la figura de Juan el Bautista, pre
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Respuestas-para-los-que-no-creen.png" alt="Para los que no creen" width="250">
 </figure>
 
-[**Respuestas para los que no creen (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf)
+[**Respuestas para los que no creen (Olga López)**](/es/article/Olga_Lopez/Respuestas_para_los_que_no_creen) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf))
 
 En este trabajo, la autora repasa y responde a una serie de afirmaciones adoptadas por el ateísmo moderno. Dice la autora en la introducción: «Por supuesto, mis respuestas no son incontestables (no pueden serlo si el otro no cree o no tiene predisposición a creer). En _El Libro de Urantia_ se dice que «El hombre que conoce a Dios no describe sus experiencias espirituales para convencer a los incrédulos, sino para la edificación y la satisfacción mutua de los creyentes.» (30.5, 1:6.6), así que con este ejercicio lo que pretendo es que nos animemos mutuamente frente a un entorno donde los no creyentes abundan».
 <br style="clear:both" />

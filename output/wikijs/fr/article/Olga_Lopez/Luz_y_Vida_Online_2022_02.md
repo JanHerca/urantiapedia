@@ -119,7 +119,7 @@ Cet article est une analyse de la section «  Instructions pour les éducateurs 
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos" width="250">
 </figure>
 
-[**Astronomie et superunivers (Troy R. Bishop)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf)
+[**Astronomie et superunivers (Troy R. Bishop)**](/fr/article/Troy_R_Bishop/Astronomy_and_superuniverses) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf))
 
 Dans cet ouvrage de Troy R. Bishop, traduit par Jan Herca, une revue est faite de l'organisation du maître univers selon _Le Livre d'Urantia_ et une tentative est faite pour l'adapter aux connaissances astronomiques actuelles et aux mesures actuellement utilisées pour calculer les phénomènes astronomiques. distances. Sont également exposés les désaccords qui existent encore entre la science et la cinquième révélation, qui sont logiques, puisque la science doit avancer selon une méthode scientifique très éloignée des méthodes de la révélation.
 <br style="clear:both" />

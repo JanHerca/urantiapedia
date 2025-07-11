@@ -118,7 +118,7 @@ Este artículo es un análisis de la sección «Las instrucciones para los educa
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos" width="250">
 </figure>
 
-[**Astronomía y superuniversos (Troy R. Bishop)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf)
+[**Astronomía y superuniversos (Troy R. Bishop)**](/es/article/Troy_R_Bishop/Astronomy_and_superuniverses) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf))
 
 En este trabajo de Troy R. Bishop, traducido por Jan Herca, se hace un repaso de la organización del universo maestro según _El Libro de Urantia_ y se intenta encajar con los conocimientos astronómicos actuales y las medidas usadas actualmente para calcular distancias astronómicas. También se exponen los desacuerdos que todavía existen entre la ciencia y la quinta revelación, por otra parte lógicos, ya que la ciencia debe avanzar siguiendo un método científico que está muy alejado de los métodos de la revelación.
 <br style="clear:both" />

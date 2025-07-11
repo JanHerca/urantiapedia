@@ -107,7 +107,7 @@ This brief work is related to the artistic representations that have been made o
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/La-vida-interior-hacia-arriba.jpg" alt="La vida interior: hacia arriba" width="250">
 </figure>
 
-[**The inner life: upwards (Ana María García)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf)
+[**The inner life: upwards (Ana María García)**](/en/article/Ana_Maria_Garcia/La_vida_interior_hacia_arriba) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf))
 
 This is the text of a presentation given at a Readers' Meeting, whose main theme was “The Inner Life,” and which deals with worship, meditation, and adoration. In the words of the author: “Worship is the hallmark that we are candidates for spiritual ascension. The practice of meditation in worship and effective prayer take us upward. Worship and prayer require, among other things, attention, vigilance, diligence, constancy, discipline, insistence, silence, and stillness. Worship and prayer are significant and valuable tools for going upward.”
 

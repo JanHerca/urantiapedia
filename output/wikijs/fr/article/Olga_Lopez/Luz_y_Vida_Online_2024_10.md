@@ -107,7 +107,7 @@ Cette brève œuvre est liée aux représentations artistiques qui ont été fai
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/La-vida-interior-hacia-arriba.jpg" alt="La vida interior: hacia arriba" width="250">
 </figure>
 
-[**La vie intérieure : vers le haut (Ana María García)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf)
+[**La vie intérieure : vers le haut (Ana María García)**](/fr/article/Ana_Maria_Garcia/La_vida_interior_hacia_arriba) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf))
 
 Il s'agit du texte d'une présentation donnée lors d'une réunion de lecteurs, dont le thème principal était «  La vie intérieure  » et qui traite du culte, de la méditation et de l'adoration. Selon les mots de l’auteur : « L’adoration est la marque distinctive qui nous montre que nous sommes candidats à l’ascension spirituelle. La pratique de la méditation dans le culte et la prière efficace nous élèvent. L’adoration et la prière exigent, entre autres choses, de l’attention, de la vigilance, de la diligence, de la constance, de la discipline, de la persévérance, du silence et de l’immobilité. L’adoration et la prière sont des outils importants et précieux pour progresser.
 

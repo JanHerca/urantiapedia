@@ -83,7 +83,7 @@ L'auteur dit au début de l'article : « Beaucoup de ceux qui connaissaient Jés
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Presentacion-del-LU.jpg" alt="Testimonios de lectores del LU" width="250">
 </figure>
 
-[**Témoignages de lecteurs du _Livre d'Urantia_ (compilés par Saskia Praamsma)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Como-encontre-el-LU-Extractos.pdf)
+[**Témoignages de lecteurs du _Livre d'Urantia_ (compilés par Saskia Praamsma)**](/fr/article/Saskia_Praamsma_Raevouri/Testimonials_from_UB_readers) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Como-encontre-el-LU-Extractos.pdf))
 
 Cet article est un extrait du livre Comment j'ai trouvé le Livre d'Urantia, écrit par Saskia Praamsma, qui recueille les témoignages de 324 lecteurs qui ont décidé d'écrire leur (parfois long) voyage à la recherche de la vérité, et comment ils ont finalement trouvé la livre. (ou comment le livre les a trouvés). Ce livre n'a pas été traduit en espagnol, et pour cette raison, Antonio Moya a eu l'idée d'extraire les paragraphes qu'il considérait comme les plus intéressants ou les plus significatifs, ou qui pouvaient nous apprendre quelque chose, et de les traduire en espagnol. Il y a quelque chose d’extrêmement édifiant à lire comment d’autres personnes ont trouvé le livre, et je suis sûr que nous pouvons nous identifier à beaucoup de ces témoignages.
 <br style="clear:both;"/>

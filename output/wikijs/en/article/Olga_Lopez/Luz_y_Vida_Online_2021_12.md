@@ -110,7 +110,7 @@ This work was originally published in French in the magazine _Le Lien Urantien_,
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/La-vida-interior-hacia-fuera.jpg" alt="La vida interior: hacia fuera" width="250">
 </figure>
 
-[**The inner life: outwards (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf)
+[**The inner life: outwards (Santiago Rodríguez)**](/en/article/Santiago_Rodriguez/La_vida_interior_hacia_fuera) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf))
 
 This work was presented at the last readers' conference in Spain, in April 2019. The conference dealt with four aspects of the inner life, and this is one of them: the inner life as it is projected outwards. To address this aspect, the author poses a series of questions and elaborates his answers: What is it to be born of the spirit, and how is it born? What is a religious experience, and how is it achieved? What is growing spiritually, and how is it done? And finally: What is the will of the Father, and how is it carried out?
 <br style="clear:both" />

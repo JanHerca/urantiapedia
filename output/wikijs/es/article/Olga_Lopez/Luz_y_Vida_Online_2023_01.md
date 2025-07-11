@@ -148,7 +148,7 @@ Como nos dice la autora: «El Universo está a rebosar de Hijos de Dios, comenza
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/La-busqueda-de-la-felicidad.jpg" alt="La búsqueda de la felicidad" width="250">
 </figure>
 
-[**La búsqueda de la felicidad a la luz de las enseñanzas de _El Libro de Urantia_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf)
+[**La búsqueda de la felicidad a la luz de las enseñanzas de _El Libro de Urantia_ (Olga López)**](/es/article/Olga_Lopez/La_busqueda_de_la_felicidad_a_la_luz_de_las_ensenanzas_de_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf))
 
 El trabajo comienza con estas observaciones de la autora: «Vivimos en unos tiempos en los que parece que la felicidad es la meta última de nuestra vida, aunque su búsqueda ha sido una constante en la historia de la humanidad… Pero ¿es verdaderamente la felicidad nuestra meta en la vida? ¿Hay una única manera de conseguirla? ¿Se puede encontrar la felicidad en las cosas materiales?». Justamente para responder a esas preguntas, la autora se asoma a las enseñanzas del libro y hace un repaso a las referencias que se hacen sobre la felicidad.
 <br style="clear:both" />

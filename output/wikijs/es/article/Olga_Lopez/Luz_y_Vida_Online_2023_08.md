@@ -98,7 +98,7 @@ En este revelador escrito, su autor nos habla de que no solo es importante quere
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Reflexiones-urantianas-LGB.jpg" alt="La vida interior: hacia Dios" width="250">
 </figure>
 
-[**La vida interior: hacia Dios (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf)
+[**La vida interior: hacia Dios (Olga López)**](/es/article/Olga_Lopez/La_vida_interior_hacia_Dios) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf))
 
 En esta presentación, la autora comienza diciendo lo siguiente: «Una vida interior rica pasa por espiritualizarnos, por alejarnos de las tendencias materiales y animales de la mente. ¿Y qué mejor manera de hacerlo que acercándonos a la fuente de todo lo que es espíritu?». Y a continuación se pregunta: «¿Cómo nos elevamos espiritualmente, nosotros los mortales de carne y hueso? ¿Cómo pasamos de ser animales racionales a ser todo lo perfectos que podemos ser en el nivel finito de la realidad? A diferencia de los nativos de Havona, no nacimos perfectos, luego tenemos que aprender a serlo. ¿Y cómo aprendemos?». Acompañen a la autora por el camino que va desde lo material hasta lo espiritual, hacia la fuente de Todo y de todos: Dios Padre.
 <br style="clear:both;"/>

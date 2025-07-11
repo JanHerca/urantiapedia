@@ -107,7 +107,7 @@ Este breve trabajo está relacionado con las representaciones artísticas que se
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/La-vida-interior-hacia-arriba.jpg" alt="La vida interior: hacia arriba" width="250">
 </figure>
 
-[**La vida interior: hacia arriba (Ana María García)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf)
+[**La vida interior: hacia arriba (Ana María García)**](/es/article/Ana_Maria_Garcia/La_vida_interior_hacia_arriba) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-arriba.pdf))
 
 Este es el texto de una presentación que se dio en un Encuentro de lectores, cuyo tema principal era «La vida interior», y que trata sobre la adoración, la meditación y la adoración. En palabras de la autora: «La adoración es el distintivo de que somos candidatos a ascender espiritualmente. La práctica de la meditación en adoración y la oración eficaz nos llevan hacia arriba. La adoración y la oración requieren, entre otras cosas, atención, vigilancia, diligencia, constancia, disciplina, insistencia, silencio y quietud. La adoración y la oración son herramientas significativas y valiosas para ir hacia arriba».
 

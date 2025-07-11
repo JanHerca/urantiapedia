@@ -149,7 +149,7 @@ Comme nous le dit l'auteur : « L'Univers regorge de Fils de Dieu, à commencer 
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/La-busqueda-de-la-felicidad.jpg" alt="La búsqueda de la felicidad" width="250">
 </figure>
 
-[**La poursuite du bonheur à la lumière des enseignements du _Le Livre d'Urantia_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf)
+[**La poursuite du bonheur à la lumière des enseignements du _Le Livre d'Urantia_ (Olga López)**](/fr/article/Olga_Lopez/La_busqueda_de_la_felicidad_a_la_luz_de_las_ensenanzas_de_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf))
 
 L'ouvrage commence par ces observations de l'auteur : « Nous vivons à une époque où il semble que le bonheur soit le but ultime de nos vies, même si sa recherche a été une constante dans l'histoire de l'humanité... Mais le bonheur est-il vraiment notre objectif ? dans la vie? N'y a-t-il qu'un seul moyen de l'obtenir ? Le bonheur peut-il être trouvé dans les choses matérielles ? C'est précisément pour répondre à ces questions que l'auteur se penche sur les enseignements du livre et passe en revue les références faites sur le bonheur.
 <br style="clear:both" />

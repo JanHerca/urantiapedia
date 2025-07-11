@@ -98,7 +98,7 @@ In this revealing writing, the author tells us that it is not only important to 
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Reflexiones-urantianas-LGB.jpg" alt="La vida interior: hacia Dios" width="250">
 </figure>
 
-[**The Inner Life: Towards God (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf)
+[**The Inner Life: Towards God (Olga López)**](/en/article/Olga_Lopez/La_vida_interior_hacia_Dios) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf))
 
 In this presentation, the author begins by saying the following: "A rich inner life involves spiritualizing ourselves, moving away from the material and animal tendencies of the mind. And what better way to do this than by getting closer to the source of everything that is spirit?" And then she asks: “How do we, mortals of flesh and blood, elevate ourselves spiritually? How do we go from being rational animals to being as perfect as we can be on the finite level of reality? Unlike the natives of Havona, we are not born perfect, so we have to learn to be perfect. And how do we learn?” Follow the author on the path that goes from the material to the spiritual, to the source of Everything and everyone: God the Father.
 <br style="clear:both;"/>

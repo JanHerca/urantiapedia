@@ -108,7 +108,7 @@ Este trabajo se publicó originalmente en francés en la revista _Le Lien Uranti
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/La-vida-interior-hacia-fuera.jpg" alt="La vida interior: hacia fuera" width="250">
 </figure>
 
-[**La vida interior: hacia fuera (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf)
+[**La vida interior: hacia fuera (Santiago Rodríguez)**](/es/article/Santiago_Rodriguez/La_vida_interior_hacia_fuera) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf))
 
 Este trabajo se presentó en la última conferencia de lectores en España, en abril de 2019. La conferencia trató sobre cuatro aspectos de la vida interior, y este es uno de ellos: la vida interior tal como se proyecta hacia fuera. Para abordar este aspecto, el autor plantea una serie de preguntas y elabora sus respuestas: ¿Qué es nacer del espíritu, y cómo se nace? ¿Qué es una experiencia religiosa, y cómo se logra? ¿Qué es crecer espiritualmente, y cómo se hace? Y por último: ¿Cuál es la voluntad del Padre, y cómo se lleva a cabo?
 <br style="clear:both" />

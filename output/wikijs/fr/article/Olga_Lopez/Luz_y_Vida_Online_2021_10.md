@@ -145,7 +145,7 @@ Vous avez ici une présentation complète de la figure de Jean-Baptiste, précur
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Respuestas-para-los-que-no-creen.png" alt="Para los que no creen" width="250">
 </figure>
 
-[**Réponses pour ceux qui ne croient pas (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf)
+[**Réponses pour ceux qui ne croient pas (Olga López)**](/fr/article/Olga_Lopez/Respuestas_para_los_que_no_creen) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf))
 
 Dans cet ouvrage, l'auteur passe en revue et répond à une série de déclarations adoptées par l'athéisme moderne. L'auteur dit en introduction : « Bien entendu, mes réponses ne sont pas incontestables (elles ne peuvent l'être si l'autre ne croit pas ou n'est pas prédisposé à croire). Dans _Le Livre d'Urantia_, il est dit que « L'homme qui connaît Dieu ne décrit pas ses expériences spirituelles pour convaincre les incroyants, mais pour l'édification et la satisfaction mutuelle des croyants. » (30.5, 1:6.6), donc avec cet exercice, mon intention est que nous nous encourageions les uns les autres face à un environnement où les non-croyants abondent.
 <br style="clear:both" />

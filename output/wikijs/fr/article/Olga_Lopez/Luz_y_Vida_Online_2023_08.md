@@ -98,7 +98,7 @@ Dans cet écrit révélateur, l’auteur nous dit qu’il est non seulement impo
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Reflexiones-urantianas-LGB.jpg" alt="La vida interior: hacia Dios" width="250">
 </figure>
 
-[**La vie intérieure : vers Dieu (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf)
+[**La vie intérieure : vers Dieu (Olga López)**](/fr/article/Olga_Lopez/La_vida_interior_hacia_Dios) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-Dios.pdf))
 
 Dans cette présentation, l'auteur commence par dire ce qui suit : « Une vie intérieure riche implique de nous spiritualiser, de nous éloigner des tendances matérielles et animales de l'esprit. Et quelle meilleure façon d’y parvenir qu’en se rapprochant de la source de tout ce qui est esprit ? Et puis il demande : « Comment nous, mortels de chair et de sang, nous élevons-nous spirituellement ? Comment passons-nous du statut d’animaux rationnels à celui d’être aussi parfait que possible au niveau fini de la réalité ? Contrairement aux natifs de Havona, nous ne sommes pas nés parfaits, nous devons donc apprendre à être parfaits. Et comment apprenons-nous ? Accompagner l'auteur sur le chemin qui va du matériel au spirituel, vers la source de Tout et de tous : Dieu le Père.
 <br style="clear:both;"/>

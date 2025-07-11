@@ -146,7 +146,7 @@ Here you have an exhaustive presentation of the figure of John the Baptist, fore
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Respuestas-para-los-que-no-creen.png" alt="For unbelievers" width="250">
 </figure>
 
-[**Answers for those who do not believe (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf)
+[**Answers for those who do not believe (Olga López)**](/en/article/Olga_Lopez/Respuestas_para_los_que_no_creen) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf))
 
 In this work, the author reviews and responds to a series of affirmations adopted by modern atheism. The author says in the introduction: “Of course, my answers are not incontestable (they cannot be if the other does not believe or is not predisposed to believe). In _The Urantia Book_ it is said that “The man who knows God does not describe his spiritual experiences to convince the unbelievers, but for the edification and mutual satisfaction of the believers.” (30.5, 1:6.6), so with this exercise what I intend is for us to encourage each other in the face of an environment where non-believers abound ”.
 <br style="clear:both" />

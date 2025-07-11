@@ -83,7 +83,7 @@ The author says at the beginning of the article: “Many of those who knew Jesus
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Presentacion-del-LU.jpg" alt="Testimonios de lectores del LU" width="250">
 </figure>
 
-[**Testimonies from readers of _The Urantia Book_ (compiled by Saskia Praamsma)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Como-encontre-el-UB-Extractos.pdf)
+[**Testimonies from readers of _The Urantia Book_ (compiled by Saskia Praamsma)**](/en/article/Saskia_Praamsma_Raevouri/Testimonials_from_UB_readers) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Como-encontre-el-LU-Extractos.pdf))
 
 This article is an excerpt from the book _How I found The Urantia Book_, written by Saskia Praamsma, which collects the testimonies of 324 readers who decided to write down their (sometimes long) journey in search of the truth, and how they finally found the book (or how the book found them). This book has not been translated into Spanish, and for that reason Antonio Moya had the idea of extracting those paragraphs that he considered most interesting or significant, or that could teach us something, and translating them into Spanish. There is something extremely edifying in reading how other people found the book, and we can surely identify with many of those testimonies.
 <br style="clear:both;"/>

@@ -109,7 +109,7 @@ Cet ouvrage a été initialement publié en français dans la revue _Le Lien Ura
 <img src="/image/article/Luz_y_Vida/LyV_2021_12/La-vida-interior-hacia-fuera.jpg" alt="La vida interior: hacia fuera" width="250">
 </figure>
 
-[**La vie intérieure : vers l'extérieur (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf)
+[**La vie intérieure : vers l'extérieur (Santiago Rodríguez)**](/fr/article/Santiago_Rodriguez/La_vida_interior_hacia_fuera) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf))
 
 Ce travail a été présenté lors de la dernière conférence de lecteurs en Espagne, en avril 2019. La conférence portait sur quatre aspects de la vie intérieure, et celui-ci en fait partie : la vie intérieure telle qu'elle est projetée vers l'extérieur. Pour aborder cet aspect, l'auteur pose une série de questions et élabore ses réponses : Qu'est-ce que naître de l'esprit, et comment naît-il ? Qu’est-ce qu’une expérience religieuse et comment la réaliser ? Qu’est-ce que la croissance spirituelle et comment se réalise-t-elle ? Et enfin : Quelle est la volonté du Père et comment s'accomplit-elle ?
 <br style="clear:both" />

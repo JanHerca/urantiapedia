@@ -150,7 +150,7 @@ As the author tells us: «The Universe is overflowing with Sons of God, beginnin
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/La-busqueda-de-la-felicidad.jpg" alt="The search for happiness" width="250">
 </figure>
 
-[**The search for happiness in light of the teachings of _The Urantia Book_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf)
+[**The search for happiness in light of the teachings of _The Urantia Book_ (Olga López)**](/en/article/Olga_Lopez/La_busqueda_de_la_felicidad_a_la_luz_de_las_ensenanzas_de_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf))
 
 The work begins with these observations by the author: «We live in times in which it seems that happiness is the ultimate goal of our lives, although its search has been a constant in the history of humanity... But is happiness really our goal in life? Is there only one way to get it? Can happiness be found in material things? Precisely to answer these questions, the author looks at the book's teachings and reviews the references made about happiness.
 <br style="clear:both" />
