@@ -119,7 +119,7 @@ This is the text of a presentation that was given during the Urantiathon on Nove
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="UB Presentation" width="250">
 </figure>
 
-[**In-depth study of UB in study groups (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+[**In-depth study of UB in study groups (Georges Michelson-Dupont)**](/en/article/Georges_Michelson_Dupont/Le_LU_dans_les_Groupes_d_Etude) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf))
 
 In this presentation, Urantia Foundation Trustee and Vice President International Georges Michelson Dupont shares his extensive experience hosting study groups and facilitating seminars, all based on the pedagogy deployed by the revelators in The Urantia Book. It also proposes practical examples and recommendations for the group to develop effectively and encourages the participation of its members.
 <br style="clear:both" />

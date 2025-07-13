@@ -79,7 +79,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) we find this transc
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Indicios.jpg" alt="Indicios" width="250">
 </figure>
 
-[**Indicios (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf) 
+[**Indicios (Antonio Moya)**](/en/article/Antonio_Moya/Indicios) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf) )
 
 Its author begins by saying: "In a universe as large and complex as ours, it must be very difficult for God to have been able to completely hide his hand. Somewhere, clues to that hand should be able to be seen or deduced." And that is the starting point for a series of logical reasonings that the universe is intentional and there is something when according to logic there should be nothing. And not only that: it seems that it would also be logical for there to be a Necessary Being, compared to all the contingent beings that we know and among which we find ourselves. Of course, the arguments presented will not convince those who do not want to be convinced, but they are completely logical and plausible for believers. 
 <br style="clear:both;"/> 

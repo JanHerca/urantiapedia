@@ -86,7 +86,7 @@ Sur le [site Web de la Fondation Urantia ](http://www.urantia.org/) nous avons t
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Urantia-Book-e1636413757883.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**Le Livre d'Urantia : Pourquoi, Comment, Quoi (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf) 
+[**Le Livre d'Urantia : Pourquoi, Comment, Quoi (Olga López)**](/fr/article/Olga_Lopez/El_libro_de_Urantia_por_que_como_que) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf)) 
 
 Dans cette présentation, qui a été offerte à l'une des rencontres des lecteurs espagnols, une possible approche de diffusion des enseignements du livre : plutôt que de s'attacher à résumer le livre (et donc à se concentrer sur l'aspect purement intellectuel), il vaut mieux se concentrer sur les raisons pour lesquelles nous croyons que ces enseignements ont la capacité de transformer le monde. Selon les mots de l'auteur : « Si nous commençons notre présentation en disant « pourquoi » nous présentons le livre, nous entrons dans le domaine des valeurs, une zone beaucoup plus profonde de notre esprit, où naissent les ressorts qui motivent les gens. sont activés. pour agir comme ils le font, ce qui fait que ceux qui nous entendent s'identifient à nous et veulent donc atteindre le niveau où nous sommes arrivés. 
 <br style="clear:both;"/> 

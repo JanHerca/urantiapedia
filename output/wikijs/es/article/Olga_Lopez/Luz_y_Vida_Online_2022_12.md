@@ -117,7 +117,7 @@ Este es el texto de una presentación que se dio durante la Urantiatón del 28 d
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
-[**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+[**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](/es/article/Georges_Michelson_Dupont/Le_LU_dans_les_Groupes_d_Etude) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf))
 
 En esta presentación, el fideicomisario y vicepresidente internacional de la Fundación Urantia, Georges Michelson Dupont, comparte su extensa experiencia como anfitrión de grupos de estudio y facilitador de seminarios, todos ellos basados en la pedagogía que despliegan los reveladores en El Libro de Urantia. También propone ejemplos prácticos y recomendaciones para que el grupo se desarrolle de manera eficaz y fomente la participación de sus miembros.
 <br style="clear:both" />

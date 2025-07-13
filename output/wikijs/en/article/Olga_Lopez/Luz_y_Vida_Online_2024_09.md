@@ -96,7 +96,7 @@ At the beginning of this extensive work, its author highlights that in the life 
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/book.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**Key Dates in the History of _The Urantia Book_ (UB Fellowship website)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Fechas-clave-en-la-historia-del-UB.pdf)
+[**Key Dates in the History of _The Urantia Book_ (UB Fellowship website)**](/en/article/Key_dates_in_the_history_of_The_Urantia_Book) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Fechas-clave-en-la-historia-del-LU.pdf))
 
 As the title indicates, the decisive years in the development of the Urantia revelation are set forth here in chronological order, from the year 1906 (the date of the first presentation to the contact personality) through 1954, the year in which the final instructions were received prior to the publication of the book.
 <br style="clear:both;"/>

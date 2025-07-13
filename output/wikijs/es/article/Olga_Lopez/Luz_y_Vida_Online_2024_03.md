@@ -86,7 +86,7 @@ En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos co
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Urantia-Book-e1636413757883.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**El libro de Urantia: por qué, cómo, qué (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf)
+[**El libro de Urantia: por qué, cómo, qué (Olga López)**](/es/article/Olga_Lopez/El_libro_de_Urantia_por_que_como_que) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf))
 
 En esta presentación, que se ofreció en uno de los encuentros de lectores españoles, se indica un posible enfoque de diseminación de las enseñanzas del libro: en lugar de enfocarse en hacer una síntesis del libro (y centrarnos por tanto en el aspecto puramente intelectual), es mejor centrarse en el por qué creemos que estas enseñanzas tienen la capacidad de transformar el mundo. En palabras de la autora: «Si comenzamos nuestra presentación diciendo “por qué” damos a conocer el libro, estamos entrando en la zona de los valores, una zona mucho más profunda de nuestra mente, donde se activan los resortes que motivan a las personas a actuar como actúan, que hacen que los que nos oyen puedan identificarse con nosotros y quieran, por tanto, llegar adonde nosotros hemos llegado».
 <br style="clear:both;"/>

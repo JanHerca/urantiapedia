@@ -79,7 +79,7 @@ En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos c
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Indicios.jpg" alt="Indicios" width="250">
 </figure>
 
-[**Indicios (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf)
+[**Indicios (Antonio Moya)**](/es/article/Antonio_Moya/Indicios) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf))
 
 Su autor comienza diciendo: «En un universo tan grande y tan complejo como el nuestro, debe ser muy difícil que Dios haya podido ocultar por completo su mano. En alguna parte deberían poder verse o deducirse indicios de esa mano». Y ese es el punto de partida para una serie de razonamientos lógicos que el universo es intencional y hay algo cuando según la lógica no debería haber nada. Y no solo eso: parece que también sería lógico que hubiera un Ser Necesario, frente a todos los seres contingentes que conocemos y entre los cuales nos encontramos. Desde luego, los argumentos expuestos no convencerán a quien no quiere convencerse, pero son completamente lógicos y plausibles para los creyentes.
 <br style="clear:both;"/>

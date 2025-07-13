@@ -113,7 +113,7 @@ Many chronologies of the life of Jesus have been made according to what is told 
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentation of UB" width="250">
 </figure>
 
-[**Presentation of _The Urantia Book_ in “Pandora's Box” (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)
+[**Presentation of _The Urantia Book_ in “Pandora's Box” (Carmelo Martínez)**](/en/article/Carmelo_Martinez/Presentacion_de_LU_en_La_Caja_de_Pandora) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf))
 
 This work contains the text of the presentation that its author made in 2014 for the YouTube channel “La Caja de Pandora” (a channel that no longer exists). It is aimed at those who do not know the book and focuses on the transformative power of its teachings. It is quite an invitation for the truth seekers out there to know about the book and look at its pages.
 <br style="clear:both" />

@@ -83,7 +83,7 @@ Dans cet ouvrage, l’auteur passe en revue les circonstances avant et après la
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/La-mano-que-mece-la-cuna-2.png" alt="La mano que mece la cuna" width="250">
 </figure>
 
-[**La main qui berce le berceau (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf)
+[**La main qui berce le berceau (Olga López)**](/fr/article/Olga_Lopez/La_mano_que_mece_la_cuna) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf))
 
 Comme l'indique le sous-titre, cet ouvrage se veut «  un regard urantien sur la condition féminine  », quoique dans ses grandes lignes. Selon les mots de l’auteur : « Le Livre d’Urantia contient des enseignements très éclairants sur la relation homme-femme et sur la condition féminine, qui peuvent être d’une grande aide pour transcender la confrontation entre hommes et femmes. Dans cette présentation, je vous invite à faire un voyage à travers le féminin à la fois là-haut dans les cieux et ici-bas sur Terre. C'est important, non seulement pour les femmes, mais aussi pour les hommes.
 <br style="clear:both;"/>

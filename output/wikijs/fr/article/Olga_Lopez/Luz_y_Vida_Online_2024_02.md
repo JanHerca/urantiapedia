@@ -79,7 +79,7 @@ Sur le site Web de la Fondation Urantia (http://www.urantia.org/), nous trouvons
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Indicios.jpg" alt="Indicios" width="250">
 </figure>
 
-[**Indices (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf)
+[**Indices (Antonio Moya)**](/fr/article/Antonio_Moya/Indicios) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf))
 
 Son auteur commence par dire : « Dans un univers aussi grand et complexe que le nôtre, il doit être très difficile pour Dieu d'avoir pu cacher complètement sa main. Il devrait y avoir quelque part des signes indiquant que cette main a été vue ou déduite. Et c’est le point de départ d’une série de raisonnements logiques selon lesquels l’univers est intentionnel et qu’il y a quelque chose alors que selon la logique il ne devrait rien y avoir. Et ce n’est pas tout : il semble qu’il serait également logique qu’il y ait un Être Nécessaire, contrairement à tous les êtres contingents que nous connaissons et parmi lesquels nous nous trouvons. Bien sûr, les arguments présentés ne convaincront pas ceux qui ne veulent pas être convaincus, mais ils sont tout à fait logiques et plausibles pour les croyants.
 <br style="clear:both;"/>

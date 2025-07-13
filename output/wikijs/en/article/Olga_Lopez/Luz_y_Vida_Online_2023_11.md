@@ -83,7 +83,7 @@ In this work, the author takes a look at the circumstances before and after the 
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/La-mano-que-mece-la-cuna-2.png" alt="La mano que mece la cuna" width="250">
 </figure>
 
-[**The hand that rocks the cradle (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf)
+[**The hand that rocks the cradle (Olga López)**](/en/article/Olga_Lopez/La_mano_que_mece_la_cuna) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf))
 
 As indicated in the subtitle, this work was conceived as “a Urantian look at the feminine condition,” albeit in broad strokes. In the words of the author: “_The Urantia Book_ contains very enlightening teachings about the man-woman relationship and about the feminine condition, which can be of great help when it comes to transcending the confrontation between men and women. In this presentation, I invite you to take a journey through the feminine both up in the heavens and down on Earth. It is important, not only for women, but also for men.”
 <br style="clear:both;"/>

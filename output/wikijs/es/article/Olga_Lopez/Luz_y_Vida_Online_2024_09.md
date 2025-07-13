@@ -96,7 +96,7 @@ Al inicio de este extenso trabajo, su autor destaca que en la vida de Jesús hay
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/book.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**Fechas clave en la historia de _El libro de Urantia_ (sitio web de la UB Fellowship)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Fechas-clave-en-la-historia-del-LU.pdf)
+[**Fechas clave en la historia de _El libro de Urantia_ (sitio web de la UB Fellowship)**](/es/article/Key_dates_in_the_history_of_The_Urantia_Book) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Fechas-clave-en-la-historia-del-LU.pdf))
 
 Tal como indica su título, aquí se exponen en orden cronológico los años decisivos en el desarrollo de la revelación Urantia, desde el año 1906 (fecha de la primera presentación a la personalidad de contacto) hasta 1954, año en el que se recibieron las instrucciones finales antes de la publicación del libro.
 <br style="clear:both;"/>

@@ -83,7 +83,7 @@ En este trabajo, el autor hace un recorrido por las circunstancias previas y pos
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/La-mano-que-mece-la-cuna-2.png" alt="La mano que mece la cuna" width="250">
 </figure>
 
-[**La mano que mece la cuna (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf)
+[**La mano que mece la cuna (Olga López)**](/es/article/Olga_Lopez/La_mano_que_mece_la_cuna) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LA-MANO-QUE-MECE-LA-CUNA-Charla-31-05-15.pdf))
 
 Tal como se indica en el subtítulo, este trabajo se planteó como «una mirada urantiana sobre la condición femenina», aunque sea a grandes pinceladas. En palabras de la autora: «_El libro de Urantia_ contiene enseñanzas muy esclarecedoras sobre la relación hombre-mujer y sobre la condición femenina, que pueden ser de gran ayuda a la hora de trascender el enfrentamiento entre hombres y mujeres. En esta presentación, os invito a recorrer un viaje por lo femenino tanto arriba en los cielos como abajo en la Tierra. Es importante, no solo para las mujeres, sino también para los hombres.»
 <br style="clear:both;"/>

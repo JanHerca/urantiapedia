@@ -89,6 +89,8 @@ Por supuesto, todo esto no son más que conjeturas. Pero quizá esto explique lo
 ## Referencias
 
 - [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
+- [Este artículo en la web de la Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

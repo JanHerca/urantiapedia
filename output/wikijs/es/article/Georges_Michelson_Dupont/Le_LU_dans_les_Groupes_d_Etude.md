@@ -347,7 +347,10 @@ Georges Michelson-Dupont
 <figcaption>“¡Creado para dar, amar y saber que eres amado!”</figcaption>
 </figure>
 
+## Referencias
 
+- [Este artículo (otra traducción) en la web de la Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

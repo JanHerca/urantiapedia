@@ -118,7 +118,7 @@ Ceci est le texte d'une présentation qui a été donnée lors de l'Urantiaton d
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
-[**Etude approfondie de l'UL dans les groupes d'étude (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+[**Etude approfondie de l'UL dans les groupes d'étude (Georges Michelson-Dupont)**](/fr/article/Georges_Michelson_Dupont/Le_LU_dans_les_Groupes_d_Etude) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf))
 
 Dans cette présentation, l'administrateur de la Fondation Urantia et vice-président international Georges Michelson Dupont partage sa vaste expérience en matière d'organisation de groupes d'étude et d'animation de séminaires, le tout basé sur la pédagogie déployée par les révélateurs du Livre d'Urantia. Il propose également des exemples pratiques et des recommandations pour que le groupe se développe efficacement et encourage la participation de ses membres.
 <br style="clear:both" />
