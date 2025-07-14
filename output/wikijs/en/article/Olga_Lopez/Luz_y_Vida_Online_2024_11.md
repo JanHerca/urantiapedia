@@ -84,7 +84,7 @@ Starting from a fragment of a conversation between Bill Sadler and the members o
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Opiniones-y-comentarios.jpg" alt="Opiniones y comentarios" width="250">
 </figure>
 
-[**Opinions and comments (Bill Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OpinionesBS.pdf)
+[**Opinions and comments (Bill Sadler Jr.)**](/en/article/William_S_Sadler_Jr/Opinions_and_comments) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OpinionesBS.pdf))
 
 On July 23, 1960, Bill Sadler met with a Urantia Book study group in Oklahoma City, USA. The lecture was quite long and was recorded on tape. Years later, that talk was transcribed in full and is available on other websites. This is a translated summary containing Bill Sadler's most notable comments and opinions.
 <br style="clear:both;"/>

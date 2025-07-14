@@ -84,7 +84,7 @@ Partiendo de un fragmento de una charla entre Bill Sadler y los miembros de un g
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Opiniones-y-comentarios.jpg" alt="Opiniones y comentarios" width="250">
 </figure>
 
-[**Opiniones y comentarios (Bill Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OpinionesBS.pdf)
+[**Opiniones y comentarios (Bill Sadler Jr.)**](/es/article/William_S_Sadler_Jr/Opinions_and_comments) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OpinionesBS.pdf))
 
 El 23 de julio de 1960, Bill Sadler se reunió con un grupo de estudio de _El libro de Urantia_ en Oklahoma City (EE. UU.). La charla-conferencia fue bastante larga y se grabó en cinta magnetofónica. Años después, esa charla se transcribió y está completa en otros sitios web. Este es un resumen traducido que contiene los comentarios y opiniones más destacados de Bill Sadler.
 <br style="clear:both;"/>

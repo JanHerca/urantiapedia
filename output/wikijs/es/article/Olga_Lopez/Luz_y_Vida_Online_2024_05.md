@@ -106,7 +106,7 @@ Uno de los conceptos más importantes de _El libro de Urantia_ es sin duda el de
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Urantia-Book-e1636413757883.jpg" alt="Cómo es de grande Orvonton" width="250">
 </figure>
 
-[**Publicidad y _El libro de Urantia_ (Jeffrey Wattles)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Publicidad.pdf)
+[**Publicidad y _El libro de Urantia_ (Jeffrey Wattles)**](/es/article/Jeff_Wattles/Advertising_and_The_Urantia_Book) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Publicidad.pdf))
 
 El autor comienza así este trabajo: «Al reconocer _El libro de Urantia_ como un regalo maravilloso, lo natural es que queramos darlo a conocer a los demás. El libro trae buenas noticias (el evangelio, la paternidad de Dios y la hermandad de los hombres) de una forma que resulta ideal desde muchos puntos de vista. Estamos llamados a proclamar el evangelio a todo el mundo, pero ¿debemos hacer lo mismo con _El libro de Urantia_? Algunos hablan de promoción intensiva del libro, mientras otros se adhieren a la tradición de un acercamiento tranquilo y gradual. ¿Podemos encontrar alguna orientación en el libro?». A continuación, se da respuesta a estas inquietudes típicas entre los lectores.
 <br style="clear:both;"/>
