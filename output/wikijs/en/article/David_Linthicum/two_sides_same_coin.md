@@ -14,7 +14,7 @@ dateCreated: 2023-9-16T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Jeffrey_Wattles/spiritual_value_peru_conference">
+        <a href="/en/article/Jeff_Wattles/spiritual_value_peru_conference">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Value in the Peru Conference</span>
         </a>
         </td>
@@ -110,7 +110,7 @@ If you’d like to know more—if you’d like to be a part—if you’d like to
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Jeffrey_Wattles/spiritual_value_peru_conference">
+        <a href="/en/article/Jeff_Wattles/spiritual_value_peru_conference">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Value in the Peru Conference</span>
         </a>
         </td>

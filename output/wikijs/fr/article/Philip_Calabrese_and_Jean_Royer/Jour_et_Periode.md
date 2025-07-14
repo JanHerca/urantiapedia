@@ -14,7 +14,7 @@ dateCreated: 2024-10-27T10:7:29Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+        <a href="/fr/article/Jeff_Wattles/Reveler_Effectivement_La_Verite">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révéler Effectivement La Vérité</span>
         </a>
         </td>
@@ -235,7 +235,7 @@ _Jean Royer, Le Thor 2009_
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+        <a href="/fr/article/Jeff_Wattles/Reveler_Effectivement_La_Verite">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révéler Effectivement La Vérité</span>
         </a>
         </td>

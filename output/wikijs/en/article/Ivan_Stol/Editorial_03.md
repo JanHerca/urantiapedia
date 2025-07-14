@@ -25,7 +25,7 @@ dateCreated: 2024-10-27T10:7:29Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+        <a href="/en/article/Jeff_Wattles/Reveler_Effectivement_La_Verite">
           <span class="pr-2">Effectively Revealing the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -63,7 +63,7 @@ Brotherly friendships Ivan Stol
         </a>
         </td>
         <td>
-        <a href="/en/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+        <a href="/en/article/Jeff_Wattles/Reveler_Effectivement_La_Verite">
           <span class="pr-2">Effectively Revealing the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

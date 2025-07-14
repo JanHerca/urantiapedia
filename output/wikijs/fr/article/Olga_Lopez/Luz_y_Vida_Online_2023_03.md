@@ -118,7 +118,7 @@ Cette présentation de l'auteur commence par réaliser un « dossier » de chacu
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Ciencia-filosofia-religion-revelacion" width="250">
 </figure>
 
-[**Science, philosophie, religion et révélation (Jean Royer)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf)
+[**Science, philosophie, religion et révélation (Jean Royer)**](/fr/article/Jean_Royer/Science_philosophie_religion_et_revelation) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf))
 
 Dans cet article, son auteur fait une analyse systématique de tous ces concepts car, pour mieux comprendre de quoi il s'agit et quelles sont leurs différences, « il est bon de définir ce que l'on entend par termes de base, et c'est ce que nous cherchons ». va faire." avant votre examen : 1) Fondamentaux, 2) Méthode, 3) Objet et 4) Champ d'action. Enfin, l'auteur compare la manière dont chacun peut affronter le problème de Dieu. Tout cela soutenu par des citations du livre, qui exprime si magnifiquement le champ d'application de chacun d'eux et l'importance de ne pas confondre ces domaines pour éviter de tomber dans le matérialisme ou le panthéisme le plus flagrant.
 <br style="clear:both" />

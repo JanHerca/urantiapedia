@@ -119,7 +119,7 @@ This presentation by the author begins by making a “file” of each one of the
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Science, philosophy, religion and revelation" width="250">
 </figure>
 
-[**Science, philosophy, religion and revelation (Jean Royer)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf)
+[**Science, philosophy, religion and revelation (Jean Royer)**](/en/article/Jean_Royer/Science_philosophie_religion_et_revelation) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf))
 
 In this article, its author makes a systematic analysis of all these concepts because, in order to better understand what each of them deals with and what their differences are, "it is good to define what is understood by basic terms, and that is what we are going to do prior to your exam: 1) Fundamentals, 2) Method, 3) Object and 4) Field of action”. Finally, the author compares the way in which each one can face the problem of God. All this supported by quotes from the book, which so magnificently expresses the scope of application of all of them and the importance of not confusing these areas to avoid falling into materialism or the most flagrant pantheism.
 <br style="clear:both" />

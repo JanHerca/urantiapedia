@@ -477,6 +477,10 @@ El 99% de este ensayo es una recopilación del _Libro de Urantia_, poco más he 
 
 Jean-Royer
 
+## Referencias
+
+- [Este artículo en la web de la Asociación Urantia de España, traducción de Olga López](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 
 <figure class="table chapter-navigator">
