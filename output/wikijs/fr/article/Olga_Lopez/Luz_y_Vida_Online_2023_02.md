@@ -127,7 +127,7 @@ Dans cet article intéressant, on nous parle du royaume d'Urartu et de ses relat
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/caballo-web.jpg" alt="El LU y JJ Benítez" width="130">
 </figure>
 
-[**_Le Livre d'Urantia_ dans les livres de J.J. Benítez (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUyJJBen%C3%ADtez.pdf)
+[**_Le Livre d'Urantia_ dans les livres de J.J. Benítez (Olga López)**](/fr/article/Olga_López/LU_en_los_libros_de_JJ_Benitez) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUyJJBen%C3%ADtez.pdf))
 
 Juan José Benítez, un chercheur ufologique espagnol bien connu, a présenté des connaissances extraites du _Livre d'Urantia_ dans plusieurs de ses livres. Certains prétendent qu'un avant et un après sont clairement évidents dans son œuvre, considérant la lecture du livre comme un tournant. Beaucoup pourraient penser que cette inspiration n'est perçue que dans la série _Chevaux de Troie_, mais Benítez a exposé une grande partie du contenu du livre dans de nombreux autres romans (certains plus explicitement que d'autres). Dans cet article, l'auteur expose quels sont les romans de Benítez dans lesquels l'empreinte du livre est très clairement visible.
 

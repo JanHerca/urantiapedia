@@ -112,7 +112,7 @@ En esta presentación, la autora hace un repaso de los conceptos más importante
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/La-ciencia-no-puede-sustituir-a-la-religion.jpg" alt="Ciencia y religión" width="250">
 </figure>
 
-[**La ciencia no puede sustituir a la religión (Antti Roine)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Science_Spanish.pdf)
+[**La ciencia no puede sustituir a la religión (Antti Roine)**](/es/article/Antti_Roine/Science_cannot_replace_religion_2) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Science_Spanish.pdf))
 
 Este trabajo de Antti Roine, lector finlandés, expone de manera muy clara por qué la ciencia no puede ser la fuente de sentido de nuestra existencia, que es una de las prerrogativas de la religión. Como él dice al principio de su artículo: «La ciencia no se manifiesta sobre las preguntas que tienen una importancia fundamental para el espíritu humano, concretamente, sobre el bien y el mal. Es la religión la que encuentra las respuestas a estas preguntas.»
 <br style="clear:both" />

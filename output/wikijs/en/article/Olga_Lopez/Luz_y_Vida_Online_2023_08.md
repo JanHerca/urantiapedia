@@ -109,7 +109,7 @@ In this presentation, the author begins by saying the following: "A rich inner l
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Sobre-la-personalidad.jpg" alt="La personalidad" width="250">
 </figure>
 
-[**Personality (Jacques Dupont)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf)
+[**Personality (Jacques Dupont)**](/en/article/Jacques_Dupont/La_personnalite) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf))
 
 Even though they are aware that personality is, in the words of the revelators, "one of the unsolved mysteries of the universes," and taking into account that they also tell us that a complete revelation would not be very desirable because it would stifle our imagination, the author launches into the attempt to define personality and present its basic characteristics. This is a very interesting work to get a more or less approximate idea of ​​what it means to have the gift of personality and the free will associated with it.
 

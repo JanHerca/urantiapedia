@@ -94,7 +94,7 @@ Cet article est un extrait du livre Comment j'ai trouvé le Livre d'Urantia, éc
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/La-evolucion-en-un-planeta-normal.jpg" alt="Evolución y progreso" width="250">
 </figure>
 
-[**Évolution et progrès (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-evoluci%C3%B3n-y-el-progreso.pdf)
+[**Évolution et progrès (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/La_evolucion_y_el_progreso) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-evoluci%C3%B3n-y-el-progreso.pdf))
 
 Ces deux concepts, si étroitement liés, sont essentiels à notre survie au-delà de la mort. Cet article traite, entre autres, des étapes nécessaires pour progresser spirituellement, pour naître de l'esprit, en prenant comme référence les enseignements du _Livre d'Urantia_ et complétés par des citations provenant d'autres sources. Eh bien, comme le dit l'auteur : «  Si nous avons assez de courage pour oser faire une radiographie de notre intérieur, de notre façon de penser, de notre développement personnel et que nous sommes suffisamment sincères avec nous-mêmes, il ne nous faudra pas longtemps pour « Nous devons comprendre où nous échouons et quelles mesures nous devons prendre.  »
 <br style="clear:both;"/>

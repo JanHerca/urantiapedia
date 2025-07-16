@@ -109,7 +109,7 @@ En esta presentación, la autora comienza diciendo lo siguiente: «Una vida inte
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Sobre-la-personalidad.jpg" alt="La personalidad" width="250">
 </figure>
 
-[**La personalidad (Jacques Dupont)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf)
+[**La personalidad (Jacques Dupont)**](/es/article/Jacques_Dupont/La_personnalite) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf))
 
 Aun siendo consciente de que la personalidad es, en palabras de los reveladores, «uno de los misterios no resueltos de los universos», y teniendo en cuenta que también nos dicen que una revelación completa no sería muy deseable pues ahogaría nuestra imaginación, el autor se lanza al intento de definir la personalidad y presentar sus características básicas. Este es un trabajo muy interesante para tener una idea más o menos aproximada de lo que supone tener el don de la personalidad y el libre albedrío asociado a ella.
 

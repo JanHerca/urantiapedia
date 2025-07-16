@@ -105,7 +105,7 @@ En esta presentación, el autor expresa cuál es la transformación que realiza 
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Anova" width="250">
 </figure>
 
-[**Anova (Jean Royer)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Anova.pdf)
+[**Anova (Jean Royer)**](/es/article/Jean_Royer/Anova_1) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Anova.pdf))
 
 En el libro se habla extensamente de la edad de luz y vida, en la que un planeta alcanza un estado que podríamos definir como el cielo en la tierra. Pero hay una referencia interesante a un mundo, Anova, del que los reveladores nos dicen que es el mundo habitado más viejo del sistema de Satania al cual pertenecemos. El autor toma esa referencia y, a partir de otras afirmaciones del libro, deduce (según su interpretación) que ese mundo está en la séptima etapa de luz y vida.
 

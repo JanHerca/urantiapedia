@@ -128,7 +128,7 @@ In this interesting article we are told about the kingdom of Urartu and what was
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/caballo-web.jpg" alt="UB and JJ Benítez" width="130">
 </figure>
 
-[**_The Urantia Book_ in the books of J.J. Benítez (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUyJJBen%C3%ADtez.pdf)
+[**_The Urantia Book_ in the books of J.J. Benítez (Olga López)**](/en/article/Olga_López/LU_en_los_libros_de_JJ_Benitez) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUyJJBen%C3%ADtez.pdf))
 
 Juan José Benítez, a well-known Spanish ufological researcher, has exposed in many of his books knowledge extracted from _The Urantia Book_. Some say that a before and after is clearly evident in his work, taking the reading of the book as a turning point. Many might think that this inspiration is only perceived in the _Trojan Horses_ series, but Benítez has exposed many of the book's contents in many other novels (in some more explicitly than in others). In this article, the author exposes which are the novels by Benítez in which the imprint of the book can be seen very clearly.
 

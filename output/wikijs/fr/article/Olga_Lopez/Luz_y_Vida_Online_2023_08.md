@@ -109,7 +109,7 @@ Dans cette présentation, l'auteur commence par dire ce qui suit : « Une vie in
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Sobre-la-personalidad.jpg" alt="La personalidad" width="250">
 </figure>
 
-[**Personnalité (Jacques Dupont)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf)
+[**Personnalité (Jacques Dupont)**](/fr/article/Jacques_Dupont/La_personnalite) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf))
 
 Tout en étant conscient que la personnalité est, selon les mots des révélateurs, « l'un des mystères non résolus de l'univers », et en gardant à l'esprit qu'ils nous disent aussi qu'une révélation complète ne serait pas très souhaitable car elle étoufferait notre imagination, l'auteur se lance dans une tentative de définir la personnalité et de présenter ses caractéristiques fondamentales. C'est un ouvrage très intéressant pour avoir une idée plus ou moins approximative de ce que signifie avoir le don de la personnalité et le libre arbitre qui lui est associé.
 

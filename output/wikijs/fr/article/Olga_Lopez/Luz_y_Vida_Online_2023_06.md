@@ -147,7 +147,7 @@ Dans ce bref article, l’auteur donne un aperçu rapide de la grande variété 
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
 </figure>
 
-[**Vie, Mort et Éternité (Maurice Migneault)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf)
+[**Vie, Mort et Éternité (Maurice Migneault)**](/fr/article/Maurice_Migneault/La_vie_la_mort_et_l_eternite) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf))
 
 Comme le dit son auteur au début : « Ce texte s'adresse aux personnes qui ne connaissent pas _Le Livre d'Urantia_, et son objectif est de leur présenter de manière douce et respectueuse de leurs croyances quelques concepts et enseignements que ce merveilleux livre nous donne. Nous devons toujours être conscients que la confiance doit d’abord être créée avant que les connaissances ne soient présentées. « Il est important de savoir ce dont quelqu'un a besoin avant de lui proposer quoi que ce soit. » Il est structuré en trois parties, présentées dans le titre de l'article, où il offre un aperçu bref mais précieux de chacun des trois thèmes, inspiré par les enseignements du livre.
 <br style="clear:both" />

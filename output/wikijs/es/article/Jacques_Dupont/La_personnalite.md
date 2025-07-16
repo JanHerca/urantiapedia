@@ -173,7 +173,9 @@ Agradezco de antemano a quienes estén dispuestos a compartir su punto de vista 
 21 de enero de 1996
 Jacques Dupont — Recierra
 
+## Referencias
 
+- [Otra versión de este artículo traducida por Antonio Moya, en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PersonalidadJD.pdf)
 
 <figure class="table chapter-navigator">
   <table>

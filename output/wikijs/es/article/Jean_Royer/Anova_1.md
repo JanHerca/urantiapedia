@@ -79,7 +79,9 @@ Así, Anova habría alcanzado la primera etapa de luz y vida hace al menos 30 mi
 
 Jean-Royer
 
+## Referencias
 
+- [Otra versión de este artículo traducida por Olga López, en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Anova.pdf)
 
 <figure class="table chapter-navigator">
   <table>

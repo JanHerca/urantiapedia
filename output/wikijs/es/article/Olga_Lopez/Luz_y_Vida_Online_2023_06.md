@@ -146,7 +146,7 @@ En este breve artículo, la autora realiza un rápido repaso por la gran varieda
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
 </figure>
 
-[**La vida, la muerte y la eternidad (Maurice Migneault)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf)
+[**La vida, la muerte y la eternidad (Maurice Migneault)**](/es/article/Maurice_Migneault/La_vie_la_mort_et_l_eternite) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf))
 
 Como dice su autor al inicio: «Este texto está dirigido a personas que no conocen _El Libro de Urantia_, y tiene como objetivo presentarles de manera suave y respetuosa con sus creencias algunos conceptos y enseñanzas que nos aporta este maravilloso libro. Siempre debemos ser conscientes de que primero hay que crear confianza antes de presentar el conocimiento. Es importante saber lo que alguien necesita antes de ofrecerle cualquier cosa». Está estructurado en tres partes, expuestas en el mismo título del artículo, donde ofrece breves pero valiosas pinceladas de cada uno de los tres temas, inspiradas en las enseñanzas del libro.
 <br style="clear:both" />

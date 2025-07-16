@@ -105,7 +105,7 @@ In this presentation, the author expresses the transformation that the revelatio
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Anova" width="250">
 </figure>
 
-[**Anova (Jean Royer)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Anova.pdf)
+[**Anova (Jean Royer)**](/en/article/Jean_Royer/Anova_1) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Anova.pdf))
 
 The book speaks at length about the age of light and life, in which a planet reaches a state that we could define as heaven on earth. But there is an interesting reference to a world, Anova, which the revelators tell us is the oldest inhabited world in the Satania system to which we belong. The author takes that reference and, from other statements in the book, deduces (according to his interpretation) that this world is in the seventh stage of light and life.
 

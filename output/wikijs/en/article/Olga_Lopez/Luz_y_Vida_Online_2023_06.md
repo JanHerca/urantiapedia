@@ -148,7 +148,7 @@ In this short article, the author does a quick review of the wide variety of exp
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
 </figure>
 
-[**Life, death and eternity (Maurice Migneault)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf)
+[**Life, death and eternity (Maurice Migneault)**](/en/article/Maurice_Migneault/La_vie_la_mort_et_l_eternite) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf))
 
 As its author says at the beginning: «This text is aimed at people who do not know _The Urantia Book_, and its objective is to present to them in a soft and respectful way with their beliefs some concepts and teachings that this wonderful book provides us with. We must always be aware that trust must first be built before presenting knowledge. It is important to know what someone needs before offering them anything. It is structured in three parts, exposed in the very title of the article, where it offers brief but valuable insights into each of the three themes, inspired by the book's teachings.
 <br style="clear:both" />
