@@ -73,7 +73,7 @@ Por eso lo que aprendamos en esta vida, lo que progresemos al vivir, esa experie
 
 Y ¿cuál es el objetivo final de todo este vivir? Pues la perfección; igual que las sociedades humanas están destinadas inexorablemente a llegar a la perfección, los humanos estamos destinados a la perfección, pero a diferencia de las sociedades, nosotros podemos elegir o no individualmente hacer ese camino; somos totalmente libres a este respecto. De hecho, toda la creación, todos los mundos, todas las galaxias, tiene como destino llegar a la perfección, y nosotros podemos tomar parte en esos trabajos o no; es nuestra elección.
 
-Si elegimos hacerlo, viviremos cientos, miles de vidas en las que iremos progresando y perfeccionándonos como personas, a la vez que haremos que progresen y se perfeccionen aquellas partes de la creación en las que estemos en cada momento, en cada vida (empezando por este planeta en este momento y en esta vida). Y a medida que progresemos tendremos mentes más capaces y capacidades mayores de acción en los mundos; seremos seres cada vez más perfectos $y$, gracias a esa perfección, cada vez más poderosos.
+Si elegimos hacerlo, viviremos cientos, miles de vidas en las que iremos progresando y perfeccionándonos como personas, a la vez que haremos que progresen y se perfeccionen aquellas partes de la creación en las que estemos en cada momento, en cada vida (empezando por este planeta en este momento y en esta vida). Y a medida que progresemos tendremos mentes más capaces y capacidades mayores de acción en los mundos; seremos seres cada vez más perfectos y, gracias a esa perfección, cada vez más poderosos.
 
 ¿Quizá te estés preguntando si hay una meta, si hay un final del camino? Y lo hay. Al final está el Padre Universal, la Primera Fuente y Centro de todas las cosas; el origen y el destino de todas las cosas y de todos los seres.
 
@@ -135,7 +135,7 @@ En mi presentación he explicado el sentido que a la vida y a toda la creación 
 
 4-. _Hablas de una chispa divina que tenemos en nuestro interior. Si te he entendido bien, dices que Dios mismo está dentro de nosotros. Por favor, explícame un poco mejor esto._
 
-La mente es el mecanismo que nos permite conocer la realidad, es el instrumento de nuestra persona que nos sirve para captar lo que sucede, para razonar, para llegar a conclusiones $y$, sobre todo, para tomar decisiones. Es ahí, en la mente, donde está presenta esa chispa divina. Y esa chispa en una fracción del espíritu de Dios, es de hecho un trocito del Padre, nuestro trocito, el que corresponde a nuestra personalidad. De alguna forma, es la parte del Padre que somos nosotros.
+La mente es el mecanismo que nos permite conocer la realidad, es el instrumento de nuestra persona que nos sirve para captar lo que sucede, para razonar, para llegar a conclusiones y, sobre todo, para tomar decisiones. Es ahí, en la mente, donde está presenta esa chispa divina. Y esa chispa en una fracción del espíritu de Dios, es de hecho un trocito del Padre, nuestro trocito, el que corresponde a nuestra personalidad. De alguna forma, es la parte del Padre que somos nosotros.
 
 Aunque no nos damos cuenta normalmente, esta chispa trata de dialogar con nosotros y de decirnos qué haría el Padre en cada circunstancia de nuestra vida, qué decisión tomaría ante cada alternativa que se nos presenta. No nos obliga a nada, nuestro libre albedrío es sagrado, simplemente es nuestra guía en la toma de decisiones. Pero podemos hacerle caso o no, ésa es nuestra prerrogativa.
 

@@ -9,6 +9,23 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Norm Du Val</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spain">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Beaucoup de gens se sont interrogés et ont spéculé sur la véritable taille de notre Superunivers, du Grand Univers et du Maître Univers, etc., en particulier depuis que *Le Livre d'Urantia* et la science ne semblent pas être en très bon accord. Et il se peut que, comme le dit *Le Livre d'Urantia*, les gens découvrent des « erreurs sur la face des cosmologies associées » dans *Le Livre d'Urantia*. Alors, quelle est la taille d'Orvonton, et devons-nous modifier *Le Livre d'Urantia* afin de l'adapter à la « science du jour », ou pire, à la science d'hier ?
 
@@ -247,9 +264,27 @@ Finalement, *Le Livre d'Urantia*, nous disent les Révélateurs,
 
 ## Liens externes
 
-* Lien vers cet article : https://urantia-book.org/archive/studyaid/orvonton.html
+* [Lien vers cet article](https://urantia-book.org/archive/studyaid/orvonton.html)
 
-## Références
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spain">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+## Remarches
 
 [^1]: Carl Sagan, « Cosmos », Radmon House, 1980, p. 299
 

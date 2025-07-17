@@ -43,7 +43,7 @@ Una de las cosas que me llamó la atención fue que, de las 64 referencias que e
 
 > Toda esta estancia en los mundos formativos de la constelación, que culmina en la ciudadanía de Edentia, es un período de verdadera felicidad celestial para los progresores morontiales... [LU 43:9.2](/es/The_Urantia_Book/43#p9_2)
 
-> El plan de supervivencia de los mortales tiene un objetivo práctico y útil; no sois los destinatarios de toda esta labor divina y de todo este esmerado entrenamiento sólo para que podáis sobrevivir y disfrutar de una felicidad sin fin $y$ de un descanso eterno... [LU 48:8.3](/es/The_Urantia_Book/48#p8_3)
+> El plan de supervivencia de los mortales tiene un objetivo práctico y útil; no sois los destinatarios de toda esta labor divina y de todo este esmerado entrenamiento sólo para que podáis sobrevivir y disfrutar de una felicidad sin fin y de un descanso eterno... [LU 48:8.3](/es/The_Urantia_Book/48#p8_3)
 
 > ... [Los Ajustadores] están dedicados a la prodigiosa tarea de guiaros con seguridad hacia dentro y hacia arriba hasta el refugio celestial de la felicidad... [LU 110:1.2](/es/The_Urantia_Book/110#p1_2)
 

@@ -94,7 +94,7 @@ Tal como se indica en el subtítulo, este trabajo se planteó como «una mirada 
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/El-factor-100.jpg" alt="El factor 100" width="250">
 </figure>
 
-[**El factor 100 (Robert Gallo)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Factor100.pdf)
+[**El factor 100 (Robert Gallo)**](/es/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Factor100.pdf))
 
 Este breve artículo incide en la importancia del número 10 y sus potencias en la organización universal, y comienza así: «La numerología de _El libro de Urantia_ es fiel y constante respecto a ciertos números que sirven indudablemente de base al edificio cósmico, tanto en los planos materiales como en los planos espirituales. Todo parece construido alrededor de los números 3, 7, 10 (7+3) y de los múltiplos de este último. En este aspecto, el número 100 parece estar dotado de una finalidad particular, siendo probablemente el factor constante de una progresión universal.»
 <br style="clear:both;"/>

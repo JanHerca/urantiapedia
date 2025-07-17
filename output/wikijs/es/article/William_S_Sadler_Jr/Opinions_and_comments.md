@@ -86,7 +86,7 @@ Bien, los tontos tienen tan buenas posibilidades ante Dios como los inteligentes
 
 ## Sobre el alma
 
-El alma se origina cuando este fragmento de Dios invade la mente humana en algún momento del quinto año de vida. Esto produce una _concepción_; la mente humana es el útero del alma, la madre del alma. El fragmento de Dios es el padre del alma, y el alma es una realidad embrionaria que crece lentamente dentro del útero de la mente, tal como un niño crece en el útero de su madre. $Y$ si vivimos lo suficiente, y si estamos lo suficientemente civilizados, podemos morir con un alma madura en lugar de tener que ir a esos mundos incubadora para completar el proceso de desanimalización.
+El alma se origina cuando este fragmento de Dios invade la mente humana en algún momento del quinto año de vida. Esto produce una _concepción_; la mente humana es el útero del alma, la madre del alma. El fragmento de Dios es el padre del alma, y el alma es una realidad embrionaria que crece lentamente dentro del útero de la mente, tal como un niño crece en el útero de su madre. Y si vivimos lo suficiente, y si estamos lo suficientemente civilizados, podemos morir con un alma madura en lugar de tener que ir a esos mundos incubadora para completar el proceso de desanimalización.
 
 ## Sobre la sinceridad
 

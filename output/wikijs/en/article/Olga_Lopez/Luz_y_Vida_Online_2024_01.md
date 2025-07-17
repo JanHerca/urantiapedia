@@ -95,7 +95,7 @@ All readers will probably agree with Dr. Sadler's statement: "I believe that ove
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Ciencia.png" alt="Aspectos científicos del LU" width="250">
 </figure>
 
-[**Study of some scientific aspects of _The Urantia Book_ (John Lee)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf)
+[**Study of some scientific aspects of _The Urantia Book_ (John Lee)**](/en/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf))
 
 The author begins by alluding to the famous section 4 of Paper 101, “The Limits of Revelation,” and goes on to state: “The Revelators were very limited in their work and did not reveal everything, for Man must discover for himself the workings of the Universe. I find it hard to believe that the Revelators would have voluntarily revealed errors under the pretext of dissuading us from making a fetish of the Book, as some people imply, or from adhering to the scientific knowledge of the beginning of the century.” He then addresses some of the scientific claims in the book that do not seem to fit with current science.
 <br style="clear:both;"/>

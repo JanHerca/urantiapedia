@@ -318,7 +318,7 @@ A veces hay que caer muy bajo para tomar impulso y subir a lo más alto. Pero es
 
 La religión que aparece en _El libro de Urantia_ es justamente una religión de primera mano, una experiencia religiosa personal en la que estamos nosotros y el Padre. Por lo tanto, no deberíamos desaprovechar la oportunidad de mostrar a otros la manera en que vivimos la religión, y permitir que descubran a Dios por ellos mismos, que sean ellos quienes descubran los tesoros del templo en lugar de explicarles cómo son.
 
-El documento 195 termina con una sección de título muy sugerente, «El futuro», en el que los reveladores ofrecen muchas ideas clarificadoras sobre lo que nos pueden deparar los años venideros. $Y$ hay una idea en la que los reveladores insisten bastante:
+El documento 195 termina con una sección de título muy sugerente, «El futuro», en el que los reveladores ofrecen muchas ideas clarificadoras sobre lo que nos pueden deparar los años venideros. Y hay una idea en la que los reveladores insisten bastante:
 
 > _...El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres..._ [LU 195:10.1](/es/The_Urantia_Book/195#p10_1)
 

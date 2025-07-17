@@ -55,7 +55,7 @@ Comentaba Óscar Wilde, «_lo menos frecuente en este mundo es vivir. La mayorí
 
 «_El Universo emite una permanente vibración, una nota musical que llama a la filiación, una señal no audible, pero sensible al alma. Es como una clave, como una silenciosa llamada que alerta a quienes aún sin ser conscientes de ello, la están esperando._
 
-_Suena la nota y algo se remueve en el corazón del llamado...puede ser un suceso, una imagen, una frase...quizás has encontrado la confirmación de lo que ya sabes, quizás has reconocido este momento como tú momento, tú hora de transformación, tú cambio profundo de mente $y$ de corazón...cada segundo de la vida marca la oportunidad para empezar de nuevo si lo deseas y no son palabras, esto no es una arenga que pretenda motivarte, sino el reconocimiento explícito de una Ley cósmica que se activa cuando ponemos en marcha la voluntad, si quieres puedes._
+_Suena la nota y algo se remueve en el corazón del llamado...puede ser un suceso, una imagen, una frase...quizás has encontrado la confirmación de lo que ya sabes, quizás has reconocido este momento como tú momento, tú hora de transformación, tú cambio profundo de mente y de corazón...cada segundo de la vida marca la oportunidad para empezar de nuevo si lo deseas y no son palabras, esto no es una arenga que pretenda motivarte, sino el reconocimiento explícito de una Ley cósmica que se activa cuando ponemos en marcha la voluntad, si quieres puedes._
 
 _... si ya lo has decidido, estás son las fases del camino que inicias:_
 
@@ -81,7 +81,7 @@ Comenta Paulo Coelho que Ben-Yagul interrumpió a sus discípulos diciendo:
 
 «_Cuando miramos al sol de frente, nos quedamos ciegos y ya no podemos ver los bosques y las montañas que nos rodean. Por eso, el hombre necesita un poco de luz y un poco de sombra en la vida._»
 
-«_Aquel que anhela alcanzar la perfección sigue el camino de la vanidad. La búsqueda espiritual consiste en aceptar quiénes somos $y$ aun así intentar servir a Dios de todo corazón. Nuestros pequeños defectos nos ayudarán a ser más humildes, más humanos y más tolerantes con los defectos de los demás_»
+«_Aquel que anhela alcanzar la perfección sigue el camino de la vanidad. La búsqueda espiritual consiste en aceptar quiénes somos y aun así intentar servir a Dios de todo corazón. Nuestros pequeños defectos nos ayudarán a ser más humildes, más humanos y más tolerantes con los defectos de los demás_»
 
 ## Lo que somos y lo que podemos llegar a ser
 

@@ -111,7 +111,7 @@ En este trabajo, la autora hace un repaso y compara las figuras de Abner y de Pa
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad" width="250">
 </figure>
 
-[**Sobre la personalidad (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
+[**Sobre la personalidad (Seppo Kanerva)**](/es/article/Seppo_Kanerva/About_personality) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf))
 
 Os presentamos aquí una reflexión muy personal de alguien que lleva décadas estudiando el libro y que fue presidente de la Fundación Urantia; una reflexión relacionada con uno de los conceptos más novedosos que aparecen en _El Libro de Urantia_. Seppo comienza así su presentación: «La personalidad es uno de los misterios no resueltos de los universos (<a id="a115_354"></a>[LU 5:6.2](/es/The_Urantia_Book/5#p6_2)). Así pues, si fuéramos capaces de resolver este «misterio de los universos» en un discurso de veintitantos minutos, estaríamos asistiendo a un milagro de unas proporciones que no sólo sacudiría a la Tierra, sino a todo el universo. ¡No temáis! No va a ocurrir nada de esa magnitud. En lugar de eso, lo que vais a oír es lo que entiende una persona perpleja que ha estudiado la cuestión y ha implorado, a la manera de un «de profundis exclamo a te, Domine», para que la sabiduría sobrehumana guíe su mente mientras intenta comprender la cuestión y compartir su entendimiento con vosotros».
 <br style="clear:both" />

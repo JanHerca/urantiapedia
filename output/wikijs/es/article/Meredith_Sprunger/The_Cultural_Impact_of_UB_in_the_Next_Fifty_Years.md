@@ -92,7 +92,10 @@ Si uno o más de estos eventos inusuales ocurrieran en los próximos cincuenta a
 
 Los acontecimientos inesperados tienen su propia dinámica. Aparte de desarrollar una presencia popular estable en nuestra sociedad, poco podemos hacer para prepararnos para eventos inusuales. Cuando se produzcan estos cambios repentinos, estarán gobernados por su propio liderazgo y nuestra capacidad para responder sabiamente a la situación contemporánea. Nuestra tarea es continuar recorriendo el camino lleno de baches y pedregosos del desarrollo evolutivo. Los cambios repentinos marcarán su propio destino.
 
+## Referencias
 
+- [Otra traducción de este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ImpactodelLU.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>

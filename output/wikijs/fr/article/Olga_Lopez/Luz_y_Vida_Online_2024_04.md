@@ -94,7 +94,7 @@ Comme le souligne son auteur, cette présentation tente d’expliquer brièvemen
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Astronomia-y-superuniversos.jpg" alt="Cómo es de grande Orvonton" width="250">
 </figure>
 
-[**Quelle est la taille d'Orvonton ? (Norm Du Val)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf)
+[**Quelle est la taille d'Orvonton ? (Norm Du Val)**](/fr/article/Norm_Duval/How_big_is_Orvonton) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf))
 
 Cet article commence par cette déclaration : « De nombreuses personnes se sont interrogées et ont spéculé sur la taille réelle de notre superunivers, grand univers, maître univers, etc., en particulier depuis que _Le Livre d'Urantia_ et la science ne semblent pas être en très bon accord. ». Alors, quelle est la taille d'Orvonton ? Devons-nous modifier _Le Livre d’Urantia_ pour l’adapter à la science d’aujourd’hui, ou pire, à la science d’hier ? C’est à ces questions que l’auteur tente de répondre dans cet article, en examinant à la fois ce que dit le livre et ce qui fait partie de la connaissance humaine.
 <br style="clear:both;"/>

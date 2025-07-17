@@ -78,7 +78,7 @@ Cuando actuamos, que es muy diferente a hacer algo para alcanzar algo, cuando ac
 Y así tú no te esfuerzas en experimentar algo, tú lo experimentas y listo. Como la flor no se esfuerza cuando va a florecer; sólo florece cuando ya está madura. Cuando el tiempo apropiado y exacto así lo indique. Sin ningún esfuerzo, como lo más natural. Y sean cuales sean los resultados de esa experiencia, ten por seguro que nuestro Padre nos AMA. Es algo que nace dentro de ti. Lógicamente esa experiencia es para que tú comprendas que Dios nos AMA y está con nosotros en los momentos buenos como difíciles. Y esa fe en el Padre es la que te ayudará en cualquier experiencia en la VIDA. Es así de sencillo.
 
 Encuentras entonces de lo más fácil hacer algo, y el trabajo se torna fácil, natural, creativo. Actuando con AMOR. Cuando comprendes esto, comprendes que tu alma anhela SER libre, SER como Dios o UNO con Dios. Llegar a SER perfecta. El hijo desea SER como el Padre, SER uno con el Padre. Algo que con la experiencia y fe lo tendrás.
-$Y$ si tienes fe, una fe genuina $y$ verdadera, esa experiencia se torna enriquecedora, creativa, motivadora. Y te es más fácil hacer lo correcto. Por que esa fe en el Padre es la que te guía.
+Y si tienes fe, una fe genuina y verdadera, esa experiencia se torna enriquecedora, creativa, motivadora. Y te es más fácil hacer lo correcto. Por que esa fe en el Padre es la que te guía.
 
 > Un verdadero creyente, cada día que vive, encuentra más fácil hacer lo que és justo. [LU 156:5.13](/es/The_Urantia_Book/156#p5_13)
 

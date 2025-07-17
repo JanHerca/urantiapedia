@@ -113,7 +113,7 @@ In this work, the author reviews and compares the figures of Abner and Paul of T
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="About the personality" width="250">
 </figure>
 
-[**About the personality (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
+[**About the personality (Seppo Kanerva)**](/en/article/Seppo_Kanerva/About_personality) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf))
 
 We present to you here a very personal reflection of someone who has spent decades studying the book and who was president of Urantia Foundation; a reflection related to one of the newest concepts that appear in _The Urantia Book_. Seppo begins his presentation thus: «Personality is one of the unsolved mysteries of the universes (<a id="a117_332"></a>[UB 5:6.2](/en/The_Urantia_Book/5#p6_2)). So, if we were able to solve this “mystery of the universes” in a speech of twenty minutes, we would be witnessing a miracle of proportions that would not only shake the Earth, but the entire universe. Fear not! Nothing of that magnitude is going to happen. Instead, what you are going to hear is the understanding of a perplexed person who has studied the question and has implored, in the manner of a “de profundis I exclaim to you, Domine,” for superhuman wisdom to guide his mind while he tries to understand the issue and share his understanding with you.”
 <br style="clear:both" />

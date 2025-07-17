@@ -134,7 +134,7 @@ Pero, ¿cómo se vive la convivencia entre sexos aquí abajo? ¿Cómo se ha cons
 
 ## La dualidad
 
-Tenemos dos tipos de seres humanos. Masculino y femenino, hombre y mujer. No somos los únicos tipos de seres que han sido creados en dos variantes distintas. Hemos mencionado antes que, por ejemplo, los pares seráficos también manifiestan características duales y complementarias. $Y$ estas características se han repartido en dos variantes para fomentar la creación de nuevos valores superiores: para sumar, no para restar.
+Tenemos dos tipos de seres humanos. Masculino y femenino, hombre y mujer. No somos los únicos tipos de seres que han sido creados en dos variantes distintas. Hemos mencionado antes que, por ejemplo, los pares seráficos también manifiestan características duales y complementarias. Y estas características se han repartido en dos variantes para fomentar la creación de nuevos valores superiores: para sumar, no para restar.
 
 > _Las diferencias de naturaleza, reacción, puntos de vista y pensamientos entre los hombres y las mujeres, en lugar de producir inquietud, deberían ser consideradas como altamente beneficiosas para la humanidad, tanto individual como colectivamente. Muchas órdenes de criaturas del universo son creadas en fases duales de manifestación de la personalidad. Entre los mortales, los Hijos Materiales y los midsonitarios, esta diferencia se describe como masculina y femenina; entre los serafines, los querubines y los Compañeros Morontiales, ha sido denominada positiva o dinámica, y negativa o reservada. Estas asociaciones duales multiplican enormemente la diversidad de talentos y vencen las limitaciones inherentes..._ [LU 84:6.5](/es/The_Urantia_Book/84#p6_5)
 
@@ -168,7 +168,7 @@ Además, siempre se le ha exigido más a la mujer en cuestión de materia sexual
 
 Es enormemente interesante considerar cuál era la actitud de Jesús hacia las mujeres. En primer lugar, de su propia familia y, en segundo lugar, de las mujeres en general.
 
-Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. $Y$, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
+Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. Y, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
 
 > _«Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas.»_ [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
 
@@ -281,7 +281,7 @@ Nunca se insistirá lo suficiente en lo importante que es la educación para la 
 
 La discriminación de un grupo de seres humanos a cargo de otro no deja de ser una manifestación de la falta de verdadero amor fraternal. Cuando crees que otra persona es inferior a ti, estás dejando de considerarla tu igual y, por tanto, la estás «cosificando», le niegas los derechos que tú consideras que mereces. Lo mismo sucede con hombres y mujeres.
 
-La educación es fundamental para que, desde pequeños, los seres humanos aprendan a respetarse mutuamente y a valorar las diferencias como algo que enriquece y complementa, no como algo que empobrece y separa. $Y$, por supuesto, no me refiero solo a la educación en las escuelas: el hogar es una escuela fundamental, sobre todo cuando se trata de valores. Nadie es tan influyente en los niños como sus padres, que hacen de ejemplos vivientes que ellos después emularán.
+La educación es fundamental para que, desde pequeños, los seres humanos aprendan a respetarse mutuamente y a valorar las diferencias como algo que enriquece y complementa, no como algo que empobrece y separa. Y, por supuesto, no me refiero solo a la educación en las escuelas: el hogar es una escuela fundamental, sobre todo cuando se trata de valores. Nadie es tan influyente en los niños como sus padres, que hacen de ejemplos vivientes que ellos después emularán.
 
 La educación recibida en casa y en la escuela es esencial para ir estableciendo una igualdad real. Y es de vital importancia, no sólo para el bien de las mujeres sino para el de toda la humanidad, ganar a los hombres para esta causa.
 

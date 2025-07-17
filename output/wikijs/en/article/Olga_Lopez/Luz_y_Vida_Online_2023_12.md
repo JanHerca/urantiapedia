@@ -105,7 +105,7 @@ These two concepts, so closely linked, are key to our survival beyond death. Thi
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**The Cultural Impact of _The Urantia Book_ in the Next 50 Years (Meredith Sprunger)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ImpactodelUB.pdf)
+[**The Cultural Impact of _The Urantia Book_ in the Next 50 Years (Meredith Sprunger)**](/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ImpactodelLU.pdf))
 
 The author begins this article with these questions: “What will be the cultural impact of _The Urantia Book_ in the next 50 years? Who among us can be sure what will happen tomorrow? Humans have made predictions about the future since the beginning of history. When we examine such prophecies, one is struck by the inaccuracy of a large percentage of these predictions, even when made by the most educated people.” Written in 1992, this article speculates on the cultural impact the book's teachings will have in the year 2042. Will the author be right? Only time will tell.
 

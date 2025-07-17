@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Jesús de Nazaret, el Maestro de maestros, cambió de manera indiscutible la historia de nuestro planeta tras su corta vida en Urantia. A pesar de que no vino a cambiar el orden social de nuestro mundo (no fue un revolucionario, en el sentido en el que se entiende normalmente este término), sus enseñanzas tal como fueron transmitidas por el cristianismo han dado esperanza y han mejorado la vida de miles de millones de personas a lo largo de los últimos dos mil años.
 
-A la luz de las enseñanzas de _El libro de Urantia_, encontramos a un Jesús más cercano e incluso más poderoso que el que aparece en los evangelios. $Y$ hay un aspecto de su vida en el que normalmente no suele hacerse hincapié, y es justamente el de su actitud hacia las mujeres. Pues justamente fue uno de los aspectos que supusieron todo un desafío para las normas y convenciones sociales de la Palestina del siglo I.
+A la luz de las enseñanzas de _El libro de Urantia_, encontramos a un Jesús más cercano e incluso más poderoso que el que aparece en los evangelios. Y hay un aspecto de su vida en el que normalmente no suele hacerse hincapié, y es justamente el de su actitud hacia las mujeres. Pues justamente fue uno de los aspectos que supusieron todo un desafío para las normas y convenciones sociales de la Palestina del siglo I.
 
 Así que, en esta presentación, vamos a abordar esta interesante faceta del Maestro. En primer lugar, veremos cómo se comportó con las mujeres de su propia familia y, en segundo lugar, cuál fue su actitud ante las mujeres en general.
 

@@ -107,7 +107,7 @@ As the title indicates, the decisive years in the development of the Urantia rev
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Personalidad.jpg" alt="Dar a conocer el LU" width="250">
 </figure>
 
-[**How to publicize _The Urantia Book_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/C%C3%B3mo-dar-a-conocer-el-UB-VI-Encuentro.pdf)
+[**How to publicize _The Urantia Book_ (Olga López)**](/en/article/Olga_Lopez/Como_dar_a_conocer_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/C%C3%B3mo-dar-a-conocer-el-LU-VI-Encuentro.pdf))
 
 In this presentation, which was given at the IV Meeting of readers of the book in Spain, the author highlights two distinctive features of the fifth revelation: that it has been given to us before it fully bears fruit, and at a time that is not at all the same as for other planets that have followed a more typical evolution in accordance with the plan. From there, she expresses what would be the best way to make the book known among our fellow men, in which the example of Jesus shines with its own light.
 

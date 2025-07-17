@@ -107,7 +107,7 @@ Tal como indica su título, aquí se exponen en orden cronológico los años dec
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Personalidad.jpg" alt="Dar a conocer el LU" width="250">
 </figure>
 
-[**Cómo dar a conocer _El libro de Urantia_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/C%C3%B3mo-dar-a-conocer-el-LU-VI-Encuentro.pdf)
+[**Cómo dar a conocer _El libro de Urantia_ (Olga López)**](/es/article/Olga_Lopez/Como_dar_a_conocer_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/C%C3%B3mo-dar-a-conocer-el-LU-VI-Encuentro.pdf))
 
 En esta presentación, que se dio en el IV Encuentro de lectores del libro en España, la autora destaca dos rasgos distintivos de la quinta revelación: que se nos ha dado antes de que fructifique plenamente, y en un momento que no es en absoluto el mismo que para otros planetas que han seguido una evolución más típica y acorde al plan. A partir de ahí, expresa cuál sería la mejor manera de dar a conocer el libro entre nuestros semejantes, en el que el ejemplo de Jesús brilla con luz propia.
 

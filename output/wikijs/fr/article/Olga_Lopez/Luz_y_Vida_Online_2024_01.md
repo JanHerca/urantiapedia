@@ -95,7 +95,7 @@ Tous les lecteurs seront probablement d'accord avec le Dr . Déclaration de Sadl
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Ciencia.png" alt="Aspectos científicos del LU" width="250">
 </figure>
 
-[**Etude de quelques aspects scientifiques du _Livre d'Urantia_ (John Lee)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf)
+[**Etude de quelques aspects scientifiques du _Livre d'Urantia_ (John Lee)**](/fr/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf))
 
 L'auteur commence par faire allusion à la célèbre section 4 du document 101, « Les limites de la révélation », puis déclare : « Les révélateurs étaient très limités dans leur travail et n'ont pas tout révélé, puisque l'homme doit découvrir par lui-même les mécanismes de la révélation. Univers. J'ai du mal à croire que les Révélateurs auraient volontairement révélé des erreurs sous prétexte de nous dissuader de faire du Livre un fétichisme, comme certains le sous-entendent, ou d'adhérer aux connaissances scientifiques du début du siècle. Il aborde ensuite certaines des affirmations scientifiques du livre qui ne semblent pas correspondre à la science actuelle.
 <br style="clear:both;"/>

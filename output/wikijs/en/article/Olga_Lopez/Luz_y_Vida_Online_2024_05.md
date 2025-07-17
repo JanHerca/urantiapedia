@@ -95,7 +95,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) we found this trans
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/La-nueva-religion.jpg" alt="La verdadera religión" width="250"> 
 </figure> 
 
-[**La verdadera religión (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf) 
+[**La verdadera religión (Olga López)**](/en/article/Olga_Lopez/La_verdadera_religion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf))
 
 One of the most important concepts of _The Urantia Book_ is undoubtedly that of religion, true religion. Not the religion that we inevitably associate with churches, dogmas and rituals, but the religion that is the product of our personal experience. True religion is one that truly elevates our spirit, and does not chain it with useless dogmas and rituals. The best religion is personal experience, one's own faith. This work is about that, about delving into the concept of personal religion. 
 <br style="clear:both;"/> 

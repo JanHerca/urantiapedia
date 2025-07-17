@@ -95,7 +95,7 @@ Sur le [Sur le site Web de la Fondation Urantia](http://www.urantia.org/) nous a
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/La-nueva-religion.jpg" alt="La verdadera religión" width="250">
 </figure>
 
-[**La vraie religion (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf)
+[**La vraie religion (Olga López)**](/fr/article/Olga_Lopez/La_verdadera_religion) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf))
 
 L'un des concepts les plus importants du _Livre d'Urantia_ est sans aucun doute celui de la religion, la vraie religion. Non pas la religion que nous associons inévitablement aux églises, aux dogmes et aux rituels, mais la religion qui est le produit de notre expérience personnelle. La vraie religion est celle qui élève véritablement notre esprit et ne l'enchaîne pas à des dogmes et des rituels inutiles. La meilleure religion est l'expérience personnelle, la foi personnelle. Cet ouvrage traite de cela, de l'approfondissement du concept de religion personnelle.
 <br style="clear:both;"/>

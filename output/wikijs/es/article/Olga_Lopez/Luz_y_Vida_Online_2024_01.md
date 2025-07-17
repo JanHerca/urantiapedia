@@ -95,7 +95,7 @@ Es probable que todos los lectores estén de acuerdo con esta afirmación del Dr
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Ciencia.png" alt="Aspectos científicos del LU" width="250">
 </figure>
 
-[**Estudio de algunos aspectos científicos de _El libro de Urantia_ (John Lee)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf)
+[**Estudio de algunos aspectos científicos de _El libro de Urantia_ (John Lee)**](/es/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf))
 
 El autor comienza aludiendo a la famosa sección 4 del documento 101, «Los límites de la revelación», y afirma a continuación: «Los Reveladores estaban muy limitados en su trabajo y no lo revelaron todo, ya que el Hombre debe descubrir por él mismo los mecanismos del Universo. Me cuesta creer que los Reveladores hayan revelado errores de forma voluntaria con el pretexto de disuadirnos de hacer del Libro un fetiche, como ciertas personas insinúan, o de ceñirse a los conocimientos científicos de comienzos de siglo». Después, aborda algunas de las afirmaciones científicas del libro que no parecen encajar con la ciencia actual.
 <br style="clear:both;"/>

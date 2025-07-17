@@ -112,7 +112,7 @@ Dans cet ouvrage, l'auteur passe en revue et compare les figures d'Abner et de P
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad" width="250">
 </figure>
 
-[**À propos de la personnalité (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
+[**À propos de la personnalité (Seppo Kanerva)**](/fr/article/Seppo_Kanerva/About_personality) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf))
 
 Nous présentons ici une réflexion très personnelle de quelqu'un qui étudie le livre depuis des décennies et qui fut président de la Fondation Urantia ; une réflexion liée à l'un des concepts les plus innovants qui apparaissent dans _Le Livre d'Urantia_. Seppo commence ainsi sa présentation : « La personnalité est l'un des mystères non résolus des univers (<a id="a116_358"></a>[LU 5:6.2](/fr/The_Urantia_Book/5#p6_2)). Ainsi, si nous étions capables de résoudre ce « mystère des univers » en un discours d’une vingtaine de minutes, nous assisterions à un miracle aux proportions qui ébranlerait non seulement la Terre, mais l’univers tout entier. N'ai pas peur! Rien de cette ampleur ne se produira. Au lieu de cela, ce que vous allez entendre est ce que comprend une personne perplexe qui a étudié la question et a imploré, à la manière d'un « de profundis exclamo a te, Domine », une sagesse surhumaine pour guider son esprit pendant qu'il essaie pour comprendre la problématique et partager sa compréhension avec vous.
 <br style="clear:both" />

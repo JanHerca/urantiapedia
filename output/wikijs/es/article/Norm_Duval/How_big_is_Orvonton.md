@@ -9,6 +9,23 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Norm Du Val<br>© 2021 Jan Herca (traducción)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spain">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Mucha gente se ha preguntado y ha especulado con el tamaño real de nuestro superuniverso, el Gran Universo, y el Universo Maestro, etc., especialmente desde que *El Libro de Urantia* y la ciencia no parecen estar en muy buen acuerdo. Así que, ¿cuánto de grande es Orvonton?, y ¿tenemos que cambiar *El Libro de Urantia* para que se ajuste a la ciencia de hoy, o peor, a la ciencia de ayer?
 
@@ -245,11 +262,30 @@ Finalmente, el libro dice:
 * [Superuniverso](/es/topic/superuniverses)
 * [Vía Láctea](/es/topic/Milky_Way_galaxy)
 
-## Enlaces externos
-
-* Enlace a este artículo: https://urantia-book.org/archive/studyaid/orvonton.html
-
 ## Referencias
+
+* [Enlace a este artículo](https://urantia-book.org/archive/studyaid/orvonton.html)
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spain">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">«Asociación Urantia de España» — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+## Notas
 
 [^1]: Carl Sagan, «Cosmos», Radmon House, 1980, p.299
 
