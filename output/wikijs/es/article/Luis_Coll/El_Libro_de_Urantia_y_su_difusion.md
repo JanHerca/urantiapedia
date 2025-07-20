@@ -97,6 +97,9 @@ La difusión del _Libro de Urantia_ debe ser de una manera ordenada y tranquila,
 ## Referencias
 
 - [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUysudifusion.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
+
 
 <figure class="table chapter-navigator">
   <table>

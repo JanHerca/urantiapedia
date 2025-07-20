@@ -67,7 +67,7 @@ Ceux d'entre nous qui lisent _Le Livre d'Urantia_ connaissent les difficultés q
 
 Le Livre d’Urantia contre le paradigme du futur
 
-[**L'avenir technologique (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf)
+[**L'avenir technologique (Olga López)**](/fr/article/Olga_Lopez/Futuro_Tecnologico) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf))
 
 Le développement des technologies a connu une croissance exponentielle ces dernières années, mais l’humain est-il à la hauteur des changements induits par leur utilisation généralisée dans tous les domaines ? Il existe des études qui affirment que le progrès de l’esprit humain a été linéaire, tandis que la technologie a connu une avancée exponentielle. Face à cette situation, que peut offrir _Le Livre d’Urantia_ comme manuel d’instruction pour naviguer dans ces temps de développement accéléré, où nous remettons en question même les limites de l’être humain ?
 

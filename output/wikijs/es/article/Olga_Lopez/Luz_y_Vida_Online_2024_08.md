@@ -82,7 +82,7 @@ Dos lectores nos cuentan, por un lado, cuál es su párrafo favorito (Diego Beta
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Charlas-Bill-Sadler.jpg" alt="Charlas de Bill Sadler" width="250">
 </figure>
 
-[**Charlas (Bill Sadler)**](https://www.urantia.org/sites/default/files/study-materials/sadler-jr-talks/Charlas-de-Bill-Sadler-Jr-es.pdf)
+[**Charlas (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (también en el [sitio web de la asociación](https://www.urantia.org/sites/default/files/study-materials/sadler-jr-talks/Charlas-de-Bill-Sadler-Jr-es.pdf))
 
 La [web de la Fundación Urantia](http://www.urantia.org/) ha pasado por una profunda remodelación, de manera que todas las charlas de Bill Sadler que se encontraban en la antigua web se han recopilado en un único PDF, con la ventaja que representa a la hora de imprimirlo o de leerlo en cualquier dispositivo electrónico sin necesidad de estar conectado a Internet. Estas charlas son muy recomendables para ayudar a entender los conceptos más difíciles del libro, sobre todo del Prólogo y de la primera parte.
 <br style="clear:both;"/>

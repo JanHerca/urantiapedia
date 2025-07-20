@@ -169,10 +169,15 @@ Hoy no son sólo los físicos cuánticos los que han abandonado el materialismo 
 
 > A medida que la mente persigue la realidad hasta su análisis final, la materia desaparece para los sentidos materiales... (<a id="a169_125"></a>[LU 112:2.11](/es/The_Urantia_Book/112#p2_11))
 
+## Enlaces
+
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
+
+
 ## Enlaces externos
 
 - [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html)
-
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf)
 
 <figure class="table chapter-navigator">
   <table>

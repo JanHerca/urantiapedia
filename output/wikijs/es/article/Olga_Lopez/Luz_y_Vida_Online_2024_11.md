@@ -73,7 +73,7 @@ Pero sobre todo nos entusiasma contar con tantos lectores de _El libro de Uranti
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**La mente humana según Bill Sadler (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf)
+[**La mente humana según Bill Sadler (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 Partiendo de un fragmento de una charla entre Bill Sadler y los miembros de un grupo de estudio, en el que aquel expone cuál sería para él la imagen de la mente humana y sus componentes, Eduardo ha creado unos gráficos en los que representa cuál sería esa imagen y cómo estaría conectada con los espíritus-mente adjutores y el Ajustador del Pensamiento. Muy útil para tener una visión de conjunto sobre la mente, sus componentes y sus conexiones.
 <br style="clear:both;"/>
@@ -95,7 +95,7 @@ El 23 de julio de 1960, Bill Sadler se reunió con un grupo de estudio de _El li
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Un-nuevo-pensamiento.jpg" alt="Un nuevo pensamiento" width="250">
 </figure>
 
-[**Un nuevo pensamiento (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf)
+[**Un nuevo pensamiento (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/Un_nuevo_pensamiento) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf))
 
 El autor comienza así su exposición: «En esta disertación no van a encontrar respuestas ni los neófitos ni aquellas personas que, considerándose buscadores de la verdad, no han sentido en su interior la fuerza que arrastra ante el umbral de la REALIDAD». ¿De qué trata, entonces, este trabajo? Pues justamente del despertar a un nuevo pensamiento, que es justamente el que surge cuando buscamos la verdad de manera sincera, cuando queremos desarrollar una consciencia «que nos haga progresar en la realidad cósmica, de un modo consciente y responsable».
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ El autor comienza así su exposición: «En esta disertación no van a encontrar
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Sintesis-de-la-realidad.jpg" alt="Síntesis de la realidad" width="250">
 </figure>
 
-[**Síntesis de la realidad (Joseph Servant)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf)
+[**Síntesis de la realidad (Joseph Servant)**](/es/article/Joseph_Servant/Synthese_de_la_realite) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf))
 
 Realmente este trabajo es justamente lo que indica su título: hace un repaso breve a toda la realidad según _El libro de Urantia_, desde el YO SOY hasta nuestra condición humana. Por este rápido camino se intercalan valiosas reflexiones sobre nuestra sociedad, la Iglesia que surgió después de Jesús de Nazaret, y muchas otras más.
 

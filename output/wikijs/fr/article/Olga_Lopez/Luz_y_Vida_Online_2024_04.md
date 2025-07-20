@@ -105,7 +105,7 @@ Cet article commence par cette déclaration : « De nombreuses personnes se sont
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-realidad-segun-el-LU.jpg" alt="Una descripción de la realidad" width="250">
 </figure>
 
-[**Une description de la réalité (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf)
+[**Une description de la réalité (Antonio Moya)**](/fr/article/Antonio_Moya/Una_descripcion_de_la_realidad) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf))
 
 L'introduction de ce vaste ouvrage est une déclaration d'intention de la part de l'auteur : « Les êtres humains marchent dans ce monde quelque peu perdus, désorientés. Nous dérivons un peu, tâtonnons dans le noir, car nous ne connaissons pas une description de la Réalité (…) L’être humain ne sait pas avec certitude ce qu’il fait ici, comment et pourquoi il a émergé dans le Cosmos, à quoi cela sert l'existence a. , ce qu'on attend de lui et, en tout cas, quel est son destin (s'il y en a un). Au fil des siècles, nous, les hommes, avons cherché des réponses à la raison de notre existence et de l’Univers. Ce court ouvrage est une tentative de proposer une explication possible aux questions que nous nous posons : « Quelle place occupons-nous dans l’Univers ? Et finalement, à quoi ressemble vraiment la structure de la Réalité ? »
 

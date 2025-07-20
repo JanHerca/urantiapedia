@@ -220,6 +220,11 @@ Una vez que las vidas de los individuos experimentan cambios profundos, inevitab
 
 Y la evolución es lenta pero terriblemente efectiva.
 
+## Referencias
+
+- [Otra traducción de este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DiseminacionSK.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

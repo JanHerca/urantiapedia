@@ -582,3 +582,5 @@ Y por último, pero no menos importante, **[la técnica de recibir los Documento
 Estudio obtenido de:
 - [Sitio web de la Fundación Urantia](https://www.urantia.org/study/consideration-some-criticisms-urantia-book)
 - [Sitio web de la Fellowship](https://archive.urantiabook.org/archive/history/sadcrit.htm)
+- [Otra traducción en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf)
+- [«Asociación Urantia de España» — Índice](/es/index/articles_spain)

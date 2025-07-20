@@ -84,7 +84,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) there are a number 
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**Reflections on some criticisms of _The Urantia Book_ (Dr. William S. Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf)
+[**Reflections on some criticisms of _The Urantia Book_ (Dr. William S. Sadler)**](/en/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf))
 
 All readers will probably agree with Dr. Sadler's statement: "I believe that overall _The Urantia Book_ stands on its own against all kinds of criticism." But it is worth reading his reflections in the wake of some criticisms of the book from outside the Urantia community and putting the proper perspective into consideration, taking into account what our revelators left written in the Publication Mandate. As they so rightly told us: "Thousands of spiritually hungry souls will bless you... while millions will condemn you for disturbing their comfortable theology."
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ The author begins by alluding to the famous section 4 of Paper 101, “The Limit
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Conciencia-determinismo-materialismo.jpg" alt="Conciencia" width="250">
 </figure>
 
-[**Consciousness, determinism and materialism (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf)
+[**Consciousness, determinism and materialism (Ken Glasziou)**](/en/article/Ken_Glasziou/Consciousness) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf))
 
 This article deals with these three concepts and the relationship between them, comparing the materialism of the present age with what _The Urantia Book_ says about it. It is interesting to note that determinism is on the decline (as already pointed out by the revelators in _The Urantia Book_), especially with the advances that have been made in quantum physics, and that scientists are investigating consciousness (not only individual, but also universal) as something real.
 

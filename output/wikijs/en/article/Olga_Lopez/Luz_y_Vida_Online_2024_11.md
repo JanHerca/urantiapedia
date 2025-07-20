@@ -73,7 +73,7 @@ But above all we are excited to have so many readers of _The Urantia Book_ commi
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**The human mind according to Bill Sadler (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf)
+[**The human mind according to Bill Sadler (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 Starting from a fragment of a conversation between Bill Sadler and the members of a study group, in which the former explains what the image of the human mind and its components would be for him, Eduardo has created some graphics in which he represents what that image would be and how it would be connected to the adjutant mind-spirits and the Thought Adjuster. Very useful for having an overall view of the mind, its components and its connections.
 <br style="clear:both;"/>
@@ -95,7 +95,7 @@ On July 23, 1960, Bill Sadler met with a Urantia Book study group in Oklahoma Ci
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Un-nuevo-pensamiento.jpg" alt="Un nuevo pensamiento" width="250">
 </figure>
 
-[**A new thought (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf)
+[**A new thought (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/Un_nuevo_pensamiento) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf))
 
 The author begins his presentation thus: “In this dissertation, neither neophytes nor those people who, considering themselves seekers of the truth, have not felt within themselves the force that drags one to the threshold of REALITY, will find answers.” What is this work about, then? Precisely about awakening to a new thought, which is precisely what arises when we sincerely seek the truth, when we want to develop a consciousness “that makes us progress in cosmic reality, in a conscious and responsible way.”
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ The author begins his presentation thus: “In this dissertation, neither neophy
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Sintesis-de-la-realidad.jpg" alt="Síntesis de la realidad" width="250">
 </figure>
 
-[**Synthesis of reality (Joseph Servant)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf)
+[**Synthesis of reality (Joseph Servant)**](/en/article/Joseph_Servant/Synthese_de_la_realite) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf))
 
 This work is really exactly what its title indicates: it briefly reviews all of reality according to _The Urantia Book_, from the I AM to our human condition. Along this rapid path, valuable reflections on our society, the Church that emerged after Jesus of Nazareth, and many others are interspersed.
 

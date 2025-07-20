@@ -119,5 +119,19 @@
   "github.copilot.enable": {
     "*": false
   },
-  "github.copilot.chat.reviewSelection.enabled": false
+  "github.copilot.chat.reviewSelection.enabled": false,
+  "surround.custom": {
+    "ins": {
+      "label": "Wrap with <ins>",
+      "description": "Surround selection with <ins> tags",
+      "snippet": "<ins>$TM_SELECTED_TEXT</ins>$0",
+      "languageIds": ["markdown", "html"]
+    },
+    "ins_bold": {
+      "label": "Wrap with <ins> and bold",
+      "description": "Surround selection with <ins> tags and bold",
+      "snippet": "**<ins>$TM_SELECTED_TEXT</ins>**$0",
+      "languageIds": ["markdown", "html"]
+    }
+  }
 }

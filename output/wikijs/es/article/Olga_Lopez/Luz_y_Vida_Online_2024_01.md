@@ -84,7 +84,7 @@ En la [web de la Fundación Urantia](http://www.urantia.org/) hay una serie de t
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**Reflexiones sobre algunas críticas que se hacen a _El libro de Urantia_ (Dr. William S. Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf)
+[**Reflexiones sobre algunas críticas que se hacen a _El libro de Urantia_ (Dr. William S. Sadler)**](/es/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf))
 
 Es probable que todos los lectores estén de acuerdo con esta afirmación del Dr. Sadler: «Yo creo que en general _El libro de Urantia_ se defiende por sí solo en contra de todo tipo de críticas». Pero no está de más leer sus reflexiones a raíz de algunas críticas que se hacen al libro desde fuera de la comunidad Urantia y tomar la perspectiva adecuada, teniendo en cuenta lo que nos reveladores dejaron por escrito en el Mandato de Publicación. Como muy bien nos dijeron: «miles de almas espiritualmente hambrientas los bendecirán… mientras que millones los condenarán por perturbar su cómoda teología».
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ El autor comienza aludiendo a la famosa sección 4 del documento 101, «Los lím
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Conciencia-determinismo-materialismo.jpg" alt="Conciencia" width="250">
 </figure>
 
-[**Conciencia, determinismo y materialismo (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf)
+[**Conciencia, determinismo y materialismo (Ken Glasziou)**](/es/article/Ken_Glasziou/Consciousness) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf))
 
 Este artículo trata sobre estos tres conceptos y la relación que existe entre ellos, comparando el materialismo de la época actual con lo que afirma _El libro de Urantia_ al respecto. Es interesante destacar que el determinismo está en horas bajas (tal como ya apuntaban los reveladores en _El libro de Urantia_), sobre todo con los avances que se han producido en la física cuántica, y que los científicos están investigando la conciencia (no solo la individual, sino también la universal) como algo real.
 

@@ -117,7 +117,7 @@ El autor comienza así este trabajo: «Al reconocer _El libro de Urantia_ como u
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Historia-de-la-Creacion.jpg" alt="La creación según el LU" width="250">
 </figure>
 
-[**La creación según _El libro de Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf)
+[**La creación según _El libro de Urantia_ (Juan Pomares)**](/es/article/Juan_Pomares/La_creacion_según_LU) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf))
 
 Siempre va bien tener un esquema para tener claros los conceptos básicos de _El libro de Urantia_, y tener una visión general de toda la creación resulta de mucha utilidad cuando tenemos tantos seres celestiales y unidades administrativas implicados. Recomendamos este trabajo como una ayuda útil para los lectores; en él se incluyen dos tablas: una para el universo central, y otra para el universo maestro.
 

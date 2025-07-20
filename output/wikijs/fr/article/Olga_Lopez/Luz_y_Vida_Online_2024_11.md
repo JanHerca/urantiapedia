@@ -73,7 +73,7 @@ Mais par-dessus tout, nous sommes ravis d’avoir autant de lecteurs du Livre d�
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**L'esprit humain selon Bill Sadler (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf)
+[**L'esprit humain selon Bill Sadler (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 À partir d'un fragment d'une conversation entre Bill Sadler et les membres d'un groupe d'étude, dans lequel le premier explique quelle serait pour lui l'image de l'esprit humain et de ses composants, Eduardo a créé des graphiques dans lesquels il représente ce que serait cette image serait. image et comment elle serait connectée aux esprits mentaux adjuvats et à l'Ajusteur de Pensée. Très utile pour avoir une vue d'ensemble de l'esprit, de ses composantes et de ses connexions.
 <br style="clear:both;"/>
@@ -95,7 +95,7 @@ Le 23 juillet 1960, Bill Sadler a rencontré un groupe d’étude du Livre d’U
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Un-nuevo-pensamiento.jpg" alt="Un nuevo pensamiento" width="250">
 </figure>
 
-[**Une nouvelle pensée (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf)
+[**Une nouvelle pensée (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/Un_nuevo_pensamiento) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Nuevopensamiento.pdf))
 
 L'auteur commence son exposé ainsi : «  Dans cette dissertation, ni les néophytes ni ceux qui, se considérant comme des chercheurs de la vérité, n'ont pas ressenti en eux-mêmes la force qui entraîne jusqu'au seuil de la RÉALITÉ, ne trouveront de réponses.  » De quoi parle alors cette œuvre ? Eh bien, précisément de l'éveil à une pensée nouvelle, qui est précisément ce qui surgit lorsque nous recherchons sincèrement la vérité, lorsque nous voulons développer une conscience «  qui nous fait progresser dans la réalité cosmique, de manière consciente et responsable  ».
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ L'auteur commence son exposé ainsi : «  Dans cette dissertation, ni les néoph
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Sintesis-de-la-realidad.jpg" alt="Síntesis de la realidad" width="250">
 </figure>
 
-[**Synthèse de la réalité (Joseph Serviteur)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf)
+[**Synthèse de la réalité (Joseph Servant)**](/fr/article/Joseph_Servant/Synthese_de_la_realite) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sintesisrealidad.pdf))
 
 Cet ouvrage est en réalité exactement ce que son titre indique : il passe brièvement en revue toute la réalité selon _Le Livre d'Urantia_, du JE SUIS à notre condition humaine. Ce parcours rapide est parsemé de précieuses réflexions sur notre société, sur l’Église née après Jésus de Nazareth et sur bien d’autres.
 

@@ -117,7 +117,7 @@ The author begins this paper: “Recognizing _The Urantia Book_ as a wonderful g
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Historia-de-la-Creacion.jpg" alt="La creación según el UB" width="250"> 
 </figure> 
 
-[**La creación según _El Libro de Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf) 
+[**La creación según _El Libro de Urantia_ (Juan Pomares)**](/en/article/Juan_Pomares/La_creacion_según_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf)) 
 
 It is always good to have an outline to understand the basic concepts of _The Urantia Book_, and having an overview of all creation is very useful when we have so many celestial beings and administrative units involved. We recommend this work as a useful aid to readers; it includes two tables: one for the central universe and one for the master universe. 
 

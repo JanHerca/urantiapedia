@@ -105,7 +105,7 @@ Este breve artículo incide en la importancia del número 10 y sus potencias en 
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Reencarnacion-y-karma.jpg" alt="Reencarnación y karma" width="250">
 </figure>
 
-[**La evolución de la reencarnación y el karma (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Reencarnacion.pdf)
+[**La evolución de la reencarnación y el karma (Santiago Rodríguez)**](/es/article/Santiago_Rodriguez/La_evolucion_de_la_reencarnacion_y_el_karma) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Reencarnacion.pdf))
 
 En el libro se habla extensamente de la edad de luz y vida, en la que un planeta alcanza un estado que podríamos definir como el cielo en la tierra. Pero hay una referencia interesante a un mundo, Anova, del que los reveladores nos dicen que es el mundo habitado más viejo del sistema de Satania al cual pertenecemos. El autor toma esa referencia y, a partir de otras afirmaciones del libro, deduce (según su interpretación) que ese mundo está en la séptima etapa de luz y vida.
 

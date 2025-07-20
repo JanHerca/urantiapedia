@@ -97,7 +97,7 @@ In this presentation, which was given at one of the Spanish readers’ meetings,
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-trabajo-en-equipo.jpg" alt="El trabajo en equipo" width="250">
 </figure>
 
-[**Teamwork (Chris Ragetly)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
+[**Teamwork (Chris Ragetly)**](/en/article/Chris_Ragetly/Le_travail_dequipe) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf))
 
 This brief article was originally published in French in the newsletter _Le Lien Urantien_ of the AFFLU (Association of Francophone Readers of _The Urantia Book_). It emphasizes the importance of teamwork not only on this world but throughout the entire ascending career, as reflected in this quote at the head of the article: “One of the most important lessons you must learn during your career as mortals is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. There are few tasks in the universe for the solitary server. The higher you ascend, the lonelier you will feel when temporarily without the companionship of your fellows.” <a id="a101_695"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>

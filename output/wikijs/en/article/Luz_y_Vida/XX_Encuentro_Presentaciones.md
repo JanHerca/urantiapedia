@@ -40,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/artificial-intelligence-2.jpg" alt="Futuro tecnológico" width="250">
 </figure>
 
-[**Technological future (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf)
+[**Technological future (Olga López)**](/en/article/Olga_Lopez/Futuro_Tecnologico) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf))
 
 The development of technologies has experienced exponential growth in recent years, but are humans up to the changes that their widespread use is producing in all areas? There are studies that say that the progress of the human mind has been linear, while technology has experienced exponential advancement. Faced with this situation, what can _The Urantia Book_ offer as an instruction manual to navigate these times of accelerated development, in which we are even questioning the boundaries of the human being?
 
@@ -53,7 +53,7 @@ In this presentation, we see what _The Urantia Book_ tells us regarding the chal
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Etica-y-moral.jpg" alt="Ética y moral" width="250">
 </figure>
 
-[Ethics and morals (José Manuel Díaz)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/ETICA-Y-MORAL-Jose-Manuel-Diaz.pdf)**
+[Ethics and morals (José Manuel Díaz)](/en/article/Jose_Manuel_Diaz/Etica_y_Moral) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/ETICA-Y-MORAL-Jose-Manuel-Diaz.pdf))
 
 This presentation is divided into four parts or questions:
 
@@ -71,7 +71,7 @@ From the initial definitions, both according to the dictionary and the book, Jos
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Relacionens-interpersonales.jpg" alt="Relaciones interpersonales" width="250">
 </figure>
 
-(https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Nuevas-relaciones-interpersonales-Paula-Requejo.pdf)
+[New interpersonal relationships (Paula Requejo)](/en/article/Paula_Requejo/Nuevas_relaciones_interpersonales) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Nuevas-relaciones-interpersonales-Paula-Requejo.pdf))
 
 The presentation begins by defining what an interpersonal relationship is and the types. Next, Paula explains the current situation of interpersonal relationships and how technology is generating new ways of interacting. But are these new relationships of better quality, or do they lead us to unwanted loneliness?
 
@@ -84,7 +84,7 @@ It also addresses new gender identities and the very definition of that word, an
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Orientacion-y-conocimiento.jpg" alt="Orientación y conocimiento" width="250">
 </figure>
 
-(https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Orientacion-y-conocimiento-Eduardo-Altuzarra.pdf)
+[Orientation and knowledge (Eduardo Altuzarra)](/en/article/Eduardo_Altuzarra/Orientacion_y_conocimiento) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Orientacion-y-conocimiento-Eduardo-Altuzarra.pdf))
 
 Positioning oneself in an ideal situation in the face of the new changes that are coming and acquiring the knowledge provided for the times to come is something that society has to consider in the short and medium term in order to be able to face future challenges and contradictions, while taking advantage of the opportunities that usually arise in a changing world. This presentation is based on four scenarios: _The Urantia Book_, understanding and comprehension, future education and the ability of human beings to be wiser. In the end, it would be about helping as much as possible for humanity to move from the third era (that of material comfort) to the fourth (the search for knowledge and wisdom).
 

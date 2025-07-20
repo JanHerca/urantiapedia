@@ -82,7 +82,7 @@ Two readers tell us, on the one hand, what their favorite paragraph is (Diego Be
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Charlas-Bill-Sadler.jpg" alt="Charlas de Bill Sadler" width="250">
 </figure>
 
-[**Talks (Bill Sadler)**](https://www.urantia.org/sites/default/files/study-materials/sadler-jr-talks/Charlas-de-Bill-Sadler-Jr-es.pdf)
+[**Talks (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/sites/default/files/study-materials/sadler-jr-talks/Charlas-de-Bill-Sadler-Jr-es.pdf))
 
 The [Urantia Foundation website](http://www.urantia.org/) has undergone a thorough remodeling, so that all of Bill Sadler's talks that were on the old website have been compiled into a single PDF, with the advantage that this represents when printing it or reading it on any electronic device without needing to be connected to the Internet. These talks are highly recommended to help understand the most difficult concepts in the book, especially the Prologue and the first part.
 <br style="clear:both;"/>

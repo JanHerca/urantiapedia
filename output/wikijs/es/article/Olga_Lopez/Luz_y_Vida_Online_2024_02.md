@@ -90,7 +90,7 @@ Su autor comienza diciendo: «En un universo tan grande y tan complejo como el n
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**¿Qué enseña _El libro de Urantia_ respecto a la diseminación de sus enseñanzas? (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DiseminacionSK.pdf)
+[**¿Qué enseña _El libro de Urantia_ respecto a la diseminación de sus enseñanzas? (Seppo Kanerva)**](/es/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DiseminacionSK.pdf))
 
 El autor, ya fallecido, que fue presidente de la Fundación Urantia, comienza diciendo: «Podemos advertir que _El libro de Urantia_ no trae instrucciones explícitas relativas a la diseminación de la Revelación. Podemos, por supuesto, estudiar los métodos empleados en la diseminación por las cuatro revelaciones anteriores e intentar aplicar los mismos métodos en la diseminación de la quinta revelación de época». Pasa a continuación a analizar los métodos de diseminación de las cuatro revelaciones anteriores y, a partir de referencias del libro, pasa a explicar cuál es la manera de transmitir las enseñanzas de la quinta revelación.
 <br style="clear:both;"/>

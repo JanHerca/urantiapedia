@@ -90,7 +90,7 @@ Its author begins by saying: "In a universe as large and complex as ours, it mus
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**What does _The Urantia Book_ teach about the dissemination of its teachings? (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DiseminacionSK.pdf)
+[**What does _The Urantia Book_ teach about the dissemination of its teachings? (Seppo Kanerva)**](/en/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DiseminacionSK.pdf))
 
 The late author, who was president of Urantia Foundation, begins by saying: “We may note that The Urantia Book contains no explicit instructions concerning the dissemination of the Revelation. We may, of course, study the methods employed in dissemination by the four preceding revelations and attempt to apply the same methods to the dissemination of the fifth epochal revelation.” He then goes on to discuss the methods of dissemination of the four preceding revelations and, using references from the book, to explain how the teachings of the fifth revelation are to be conveyed. 
 <br style="clear:both;"/> 

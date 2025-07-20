@@ -67,7 +67,7 @@ Those of us who read _The Urantia Book_ know the difficulties that material life
 
 The Urantia Book versus the paradigm of the future
 
-[**Technological future (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf)
+[**Technological future (Olga López)**](/en/article/Olga_Lopez/Futuro_Tecnologico) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf))
 
 The development of technologies has experienced exponential growth in recent years, but are humans up to the changes that their widespread use is producing in all areas? There are studies that say that the progress of the human mind has been linear, while technology has experienced exponential advancement. Faced with this situation, what can _The Urantia Book_ offer as an instruction manual to navigate these times of accelerated development, in which we are even questioning the boundaries of the human being?
 

@@ -40,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/artificial-intelligence-2.jpg" alt="Futuro tecnológico" width="250">
 </figure>
 
-[**L'avenir technologique (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf)
+[**L'avenir technologique (Olga López)**](/fr/article/Olga_Lopez/Futuro_Tecnologico) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/FUTURO-TECNOLOGICO-Olga-Lopez.pdf))
 
 Le développement des technologies a connu une croissance exponentielle ces dernières années, mais l’humain est-il à la hauteur des changements induits par leur utilisation généralisée dans tous les domaines ? Il existe des études qui affirment que le progrès de l’esprit humain a été linéaire, tandis que la technologie a connu une avancée exponentielle. Face à cette situation, que peut offrir _Le Livre d’Urantia_ comme manuel d’instruction pour naviguer dans ces temps de développement accéléré, où nous remettons en question même les limites de l’être humain ?
 
@@ -53,7 +53,7 @@ Dans cette présentation, nous examinons ce que _Le Livre d'Urantia_ nous dit su
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Etica-y-moral.jpg" alt="Ética y moral" width="250">
 </figure>
 
-[Éthique et morale (José Manuel Diaz)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/ETICA-Y-MORAL-Jose-Manuel-Diaz.pdf)**
+[Éthique et morale (José Manuel Diaz)](/fr/article/Jose_Manuel_Diaz/Etica_y_Moral) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/ETICA-Y-MORAL-Jose-Manuel-Diaz.pdf))
 
 Cette présentation est divisée en quatre parties ou questions :
 
@@ -71,7 +71,7 @@ Sur la base des définitions initiales, tant selon le dictionnaire que selon le 
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Relacionens-interpersonales.jpg" alt="Relaciones interpersonales" width="250">
 </figure>
 
-(https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Nuevas-relaciones-interpersonales-Paula-Requejo.pdf)
+[Nouvelles relations interpersonnelles (Paula Requejo)](/fr/article/Paula_Requejo/Nuevas_relaciones_interpersonales) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Nuevas-relaciones-interpersonales-Paula-Requejo.pdf))
 
 La présentation commence par définir ce qu’est une relation interpersonnelle et les types. Paula discute ensuite de l’état actuel des relations interpersonnelles et de la manière dont la technologie génère de nouvelles façons d’interagir. Mais ces nouvelles relations sont-elles de meilleure qualité ou nous conduisent-elles à une solitude indésirable ?
 
@@ -84,7 +84,7 @@ Il aborde également les nouvelles identités de genre et la définition même d
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Orientacion-y-conocimiento.jpg" alt="Orientación y conocimiento" width="250">
 </figure>
 
-(https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Orientacion-y-conocimiento-Eduardo-Altuzarra.pdf)
+[Orientation et connaissances (Eduardo Altuzarra)](/fr/article/Eduardo_Altuzarra/Orientacion_y_conocimiento) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/07/Orientacion-y-conocimiento-Eduardo-Altuzarra.pdf))
 
 Se positionner dans une situation idéale face aux nouveaux changements qui arrivent et acquérir les connaissances nécessaires pour les temps à venir est quelque chose que la société doit considérer à court et moyen terme afin de pouvoir faire face aux défis et contradictions futurs. , tout en profitant des opportunités qui se présentent souvent dans un monde en mutation. Cette présentation est basée sur quatre scénarios : _Le Livre d’Urantia_, la compréhension, l’éducation future et la capacité des êtres humains à devenir plus sages. Il s’agirait finalement d’aider autant que possible l’humanité à passer de la troisième ère (celle du confort matériel) à la quatrième (la recherche de la connaissance et de la sagesse).
 
