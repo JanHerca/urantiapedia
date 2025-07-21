@@ -3,7 +3,7 @@ title: "Eugénisme, Race et Le Livre d'Urantia - Annexe 2. Les jumeaux Alphée �
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: eugenics 
+tags: eugenics, book
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

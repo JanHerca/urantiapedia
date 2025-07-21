@@ -3,7 +3,7 @@ title: "L'eugénisme, la race et le Livre d'Urantia - Annexe 3. Comment sont uti
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: eugenics 
+tags: eugenics, book
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
