@@ -1274,6 +1274,7 @@ const showProgress = (show) => {
 };
 
 const showErrors = (errors) => {
+	errors = Array.isArray(errors) ? errors : [errors];
 	controls.logArea.innerHTML = errors.map(err=> {
 		return err.stack.split('\n').map((s,i) => {
 			return (i === 0 ?

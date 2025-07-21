@@ -1439,19 +1439,40 @@ class Articles {
 
 				issues.forEach(issue => {
 					issue.articles.forEach(article => {
+						//Both articles and frontpages of books are considered
 						const m = `/${this.language}/article/`;
-						const subpath = article.path.replace(m, '');
-						const authorFolder = (subpath.split('/').length === 2 ?
-							path.join(dirPath, subpath.split('/')[0]) : null);
+						const m2 = `/${this.language}/book/`;
+						const subpath = article.path
+							.replace(m, '')
+							.replace(m2, '');
+						const pathParts = subpath.split('/');
+						const authorFolder = pathParts.length > 1 ?
+							path.join(dirPath, pathParts[0]) : 
+							null;
+						const bookFolder = pathParts.length > 2 ?
+							path.join(dirPath, pathParts[0], pathParts[1]) : 
+							null;
 						const sourcePath = path.join(app.getAppPath(), 
 							'output', 'wikijs', article.path + '.md');
+						const sourcePath2 = path.join(app.getAppPath(), 
+							'output', 'wikijs', article.path + '.html');
 						const targetPath = path.join(dirPath, subpath + '.md');
+						const targetPath2 = path.join(dirPath, subpath + '.html');
 						//Articles are only in one level structure so ensure
 						// that folder exists and if not create
+						//Books are in two levels, so the same
 						if (authorFolder && !fs.existsSync(authorFolder)) {
 							fs.mkdirSync(authorFolder);
 						}
-						promises.push(copyFile(sourcePath, targetPath));
+						if (authorFolder && fs.existsSync(authorFolder) &&bookFolder && !fs.existsSync(bookFolder)) {
+							fs.mkdirSync(bookFolder);
+						}
+						if (fs.existsSync(sourcePath)) {
+							promises.push(copyFile(sourcePath, targetPath));
+						}
+						if (fs.existsSync(sourcePath2)) {
+							promises.push(copyFile(sourcePath2, targetPath2));
+						}
 					});
 				});
 				Promise.all(promises).then(resolve, reject);

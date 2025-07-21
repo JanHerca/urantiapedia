@@ -73,7 +73,7 @@ Pero sobre todo nos entusiasma contar con tantos lectores de _El libro de Uranti
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**La mente humana según Bill Sadler (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
+[**La mente humana según Bill Sadler (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/La_mente_humana_segun_Bill_Sadler) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 Partiendo de un fragmento de una charla entre Bill Sadler y los miembros de un grupo de estudio, en el que aquel expone cuál sería para él la imagen de la mente humana y sus componentes, Eduardo ha creado unos gráficos en los que representa cuál sería esa imagen y cómo estaría conectada con los espíritus-mente adjutores y el Ajustador del Pensamiento. Muy útil para tener una visión de conjunto sobre la mente, sus componentes y sus conexiones.
 <br style="clear:both;"/>

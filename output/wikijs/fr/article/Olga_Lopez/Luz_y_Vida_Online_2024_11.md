@@ -73,7 +73,7 @@ Mais par-dessus tout, nous sommes ravis d’avoir autant de lecteurs du Livre d�
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**L'esprit humain selon Bill Sadler (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
+[**L'esprit humain selon Bill Sadler (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/La_mente_humana_segun_Bill_Sadler) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 À partir d'un fragment d'une conversation entre Bill Sadler et les membres d'un groupe d'étude, dans lequel le premier explique quelle serait pour lui l'image de l'esprit humain et de ses composants, Eduardo a créé des graphiques dans lesquels il représente ce que serait cette image serait. image et comment elle serait connectée aux esprits mentaux adjuvats et à l'Ajusteur de Pensée. Très utile pour avoir une vue d'ensemble de l'esprit, de ses composantes et de ses connexions.
 <br style="clear:both;"/>

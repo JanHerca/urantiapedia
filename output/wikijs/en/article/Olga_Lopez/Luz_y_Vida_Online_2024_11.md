@@ -73,7 +73,7 @@ But above all we are excited to have so many readers of _The Urantia Book_ commi
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/La-mente-humana-segun-Bill-Sadler.jpg" alt="La mente humana" width="250">
 </figure>
 
-[**The human mind according to Bill Sadler (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/La_mente_humana_según_Bill_Sadler) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
+[**The human mind according to Bill Sadler (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/La_mente_humana_segun_Bill_Sadler) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-mente-humana-de-Bill-Sadler.pdf))
 
 Starting from a fragment of a conversation between Bill Sadler and the members of a study group, in which the former explains what the image of the human mind and its components would be for him, Eduardo has created some graphics in which he represents what that image would be and how it would be connected to the adjutant mind-spirits and the Thought Adjuster. Very useful for having an overall view of the mind, its components and its connections.
 <br style="clear:both;"/>
