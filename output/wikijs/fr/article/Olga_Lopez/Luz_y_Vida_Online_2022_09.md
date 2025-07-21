@@ -106,7 +106,7 @@ Dans cet ouvrage, son auteur passe en revue l'évolution des espèces et comment
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/Eugenesia-razas-y-LU.png" alt="Eugenesia" width="250">
 </figure>
 
-[**Eugénisme, races et _Le Livre d'Urantia_ (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Eugenesia-razas-y-el-LU.pdf)
+[**Eugénisme, races et _Le Livre d'Urantia_ (Halbert Katzen)**](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Eugenesia-razas-y-el-LU.pdf))
 
 La question de l’eugénisme et des races est sans aucun doute un sujet controversé qu’il n’est pas facile d’aborder d’un point de vue impartial et objectif. De nombreux lecteurs ont tendance à l’ignorer, estimant que la société n’est pas prête à considérer ces questions d’une manière non seulement spirituelle, mais simplement éthique. C'est pourquoi des ouvrages secondaires comme celui-ci, un long essai (171 pages) dont le but principal est, selon les mots de l'auteur, « de fournir une revue complète des déclarations du _Le Livre d'Urantia_ relatives à l'eugénisme et à la race, et, en particulier, de se concentrer sur sur les aspects de ces sujets qui sont les plus susceptibles d'être mal interprétés et/ou de susciter des inquiétudes.
 <br style="clear:both" />

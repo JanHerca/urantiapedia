@@ -116,7 +116,7 @@ Comme il est difficile de parler de Dieu ! Quiconque veut le faire doit savoir q
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Meditacion-y-adoracion.jpg" alt="Meditación y adoración" width="250">
 </figure>
 
-[**Parlez de méditation et d'adoration (Mariano Pérez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf)
+[**Parlez de méditation et d'adoration (Mariano Pérez)**](/fr/article/Mariano_Perez/Charla_sobre_adoracion_y_meditacion) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf))
 
 Dans ce travail, qui a été proposé sous forme de présentation dans une salle virtuelle, l'auteur développe ce qu'il a exprimé dans un [ouvrage précédent sur la prière et l'adoration](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf), seulement dans ce cas il se concentre exclusivement sur la méditation et l'adoration. Selon l'auteur, ces deux concepts sont étroitement liés, et il se charge de l'exposer dans cette conférence, appuyée par deux présentations PowerPoint : la première, sur le culte, est disponible [ici](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/05/Presentaci%C3%B3n-Adoraci%C3%B3n-1%C2%AA-parte.pdf) ; et le second, sur la méditation, peut être téléchargé [ici](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-Meditaci%C3%B3n-2%C2%AA-parte.ppsx).
 <br style="clear:both" />
@@ -127,7 +127,7 @@ Dans ce travail, qui a été proposé sous forme de présentation dans une salle
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/El-Ser-Supremo.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
-[**L'Être Suprême et concepts précédents (Rafael Mondéjar)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf)
+[**L'Être Suprême et concepts précédents (Rafael Mondéjar)**](/fr/article/Rafael_Mondejar/El_Ser_Supremo_y_conceptos_previos) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf))
 
 Au début de cet ouvrage, l'auteur nous dit : « Quand j'ai commencé à connaître l'existence de l'Être Suprême, j'ai eu l'idée qu'il s'agissait d'une réalité un peu complexe, mais en approfondissant un peu, cette complexité initiale s'est accrue. en moi jusqu'à atteindre les limites d'une énorme confusion, car ce qui me semblait au début être une seule divinité, j'ai compris que, même si en fait il en est ainsi ou le sera dans un avenir lointain, la vérité est que dans un temps presque sans fin présent « Il semble qu'il s'agisse de trois divinités différentes : l'Être Suprême, le Tout-Puissant Suprême et le Dieu Suprême. » Et c'est précisément à démêler les différences entre ces trois divinités que l'auteur se consacre dans son ouvrage exhaustif et détaillé.
 <br style="clear:both" />
@@ -138,7 +138,7 @@ Au début de cet ouvrage, l'auteur nous dit : « Quand j'ai commencé à connaî
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Hijas-de-Dios.jpg" alt="Hijas de Dios" width="250">
 </figure>
 
-[**Où sont les Filles de Dieu ? (Marion Steward)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf)
+[**Où sont les Filles de Dieu ? (Marion Steward)**](/fr/article/Marion_Steward/Where_are_the_Daughters_of_God) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf))
 
 Comme nous le dit l'auteur : « L'Univers regorge de Fils de Dieu, à commencer par le Fils Éternel, en continuant avec tous les Fils descendants, les Fils de Dieu du Paradis (Fils Créateurs), les Fils Magistraux et les Fils Instructeurs Trinitaires ; puis par les Fils de Dieu des Univers locaux – Fils Melchisédek, Fils Vorondadek, Fils Lanonandek, Porteurs de Vie et de nombreux ordres non révélés de Fils Trinitisés. Ensuite, nous avons les Fils ascendants – fusionnés avec le Père, fusionnés avec le Fils et fusionnés avec l'Esprit, les mortels, les séraphins évolutionnaires, les Fils Matériels ascendants, les êtres intermédiaires et les Ajusteurs personnalisés. Mais qu'en est-il des filles ? Suite à cette question, l’auteur développe une explication intéressante sur la manière dont les révélateurs abordent la différenciation de genre.
 <br style="clear:both" />

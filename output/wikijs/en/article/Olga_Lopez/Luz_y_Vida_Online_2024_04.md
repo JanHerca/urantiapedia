@@ -72,7 +72,7 @@ Anne Frank never lost her ability to rejoice in the small field of vision she co
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">
 </figure>
 
-[**Master Universe Hypothesis (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro)
+[**Master Universe Hypothesis (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro))
 
 On the [Urantia Foundation website](http://www.urantia.org/) we find this transcription of one of the talks that Bill Sadler gave to a study group, in which he addresses a part of the teachings that may be most difficult for us to understand due to our condition as beings circumscribed to space and time: that hypothetical moment of the eternity in which the I AM is "split" into the deified (personal) and non-deified (non-personal) reality. With a clear and simple style, it also explains what was the origin of the creation of the universe and the beings that direct it. It is a highly recommended work to clarify the sequence of events that led to the creation of the master universe.
 <br style="clear:both;"/>

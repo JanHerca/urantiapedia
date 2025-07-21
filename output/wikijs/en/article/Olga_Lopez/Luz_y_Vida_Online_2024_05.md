@@ -84,7 +84,7 @@ In the June newsletter you will find a small “banquet” with such a diversity
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/ce19e39a-9543-449a-a706-f61aaf120ce6.jpg" alt="About the Foreword" width="250"> 
 </figure>
 
-[**Questions and Answers to the Comments on the Foreword (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo) 
+[**Questions and Answers to the Comments on the Foreword (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo)) 
 
 On the [Urantia Foundation website](http://www.urantia.org/) we found this transcription of one of the talks that Bill Sadler gave to a study group, in which there is a lively dialogue between him and the attendees about concepts and entities that appear in the Prologue, in a very simple and colloquial language, with comparisons of daily life that can be very useful to us when it comes to understanding at least the most basic aspects of the Absolutes and the levels of reality. 
 <br style="clear:both;"/> 

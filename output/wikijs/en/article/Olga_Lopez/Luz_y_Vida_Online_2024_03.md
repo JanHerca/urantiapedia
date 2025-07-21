@@ -75,7 +75,7 @@ Today we talk about rights, we demand them. We aspire to so much and we ask for 
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**The Journey After Physical Death (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)
+[**The Journey After Physical Death (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica))
 
 On the [Urantia Foundation website](http://www.urantia.org/) we find this transcript of one of the talks that Bill Sadler gave to a study group, in which he explains what happens once we leave this world after death. In it, Bill Sadler answers the questions posed to him by the members of the study group in his usual conversational style and sense of humor, but without abandoning the rigor when it comes to explaining his interpretation of the content of the book on this particular topic.
 <br style="clear:both;"/>

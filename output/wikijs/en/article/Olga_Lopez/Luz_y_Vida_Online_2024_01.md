@@ -73,7 +73,7 @@ This extensive and hopeful text that is the blue book lends itself to being appr
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Presentacion-del-LU.jpg" alt="Comments on the Prologue" width="250">
 </figure>
 
-[**Some Comments on the Foreword to _The Urantia Book_ (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia)
+[**Some Comments on the Foreword to _The Urantia Book_ (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia))
 
 On the [Urantia Foundation website](http://www.urantia.org/) there are a number of works by Dr. Sadler and his son, Bill Sadler, that are well worth considering. On this occasion, we recommend the transcription of a talk by Bill Sadler in which he gives clarifying comments on the content of the Foreword, as one progresses in reading his text. Given the importance of the Foreword in clarifying concepts that are later discussed in other documents in the book, anything that helps us better understand these concepts is, of course, welcome.
 <br style="clear:both;"/>

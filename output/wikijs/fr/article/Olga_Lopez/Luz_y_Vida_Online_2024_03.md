@@ -75,7 +75,7 @@ Aujourd’hui, nous parlons de droits, nous les revendiquons. Nous aspirons à t
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**Le voyage après la mort physique (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica) 
+[**Le voyage après la mort physique (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)) 
 
 Sur le [site Web de la Fondation Urantia ](http://www.urantia.org/) nous avons trouvé cette transcription d’un des discours que Bill Sadler a donné à un groupe d’étude, dans lequel il explique ce qui se passe une fois que nous quittons ce monde après la mort. Dans cet ouvrage, Bill Sadler répond aux questions posées par les membres du groupe d'étude dans son style familier et son sens de l'humour habituels, mais sans abandonner la rigueur lorsqu'il s'agit de présenter son interprétation du contenu du livre sur ce sujet particulier. 
 <br style="clear:both;"/> 

@@ -77,7 +77,7 @@ M. José Sánchez Santamaría
 
 I love this short story because the ghost metaphor helps us a lot to understand the power of our mind, our thoughts and, above all, our fears. How we can drown in a sea of recurring, repetitive and exhausting emotions and thoughts. Thoughts and emotions that, due to their very close nature to the animal, will not have a spiritual development beyond this material world. How fragile we are!
 
-[Read more](//en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
+[Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
 <br style="clear:both" />
 
 ## Works – our recommendations of the month

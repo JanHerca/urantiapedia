@@ -133,7 +133,7 @@ En este PDF podréis ver los puntos principales de la presentación ofrecida por
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús" width="250">
 </figure>
 
-**Una chica judía encuentra a Jesús (Bobbie Dreier)**
+**[Una chica judía encuentra a Jesús (Bobbie Dreier)](/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)**
 
 En esta presentación, la autora habla de su crianza en la religión judía, en su relación con el cristianismo. Tal como dice la autora, «”Jesús” es una especia de palabra maldita en la mayoría de los hogares judíos. Las persecuciones durante la Inquisición en España, las Cruzadas, los asaltos a las juderías con la matanza de sus habitantes, el Holocausto, el antisemitismo general y una gran parte del sufrimiento que los judíos han experimentado, se hace de alguna manera a los pies de Jesús. Ellos no hacen ninguna distinción entre el cristianismo y Jesús». Pero a través de su esposo conoció _El libro de Urantia_, y en sus páginas encontró por primera vez a Jesús y no solo se reconcilió con su figura, sino que también empezó a amarlo.
 <br style="clear:both;"/>

@@ -121,7 +121,7 @@ Santiago Rodríguez es lector veterano y astrónomo aficionado. Hace unos años 
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/06.jpg" width="250">
 </figure>
 
-**[Un día en la vida de un estudiante de los mundos mansión (Tom Maringer)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf)**
+**[Un día en la vida de un estudiante de los mundos mansión (Tom Maringer)](/es/book/Tom_Maringer/A_Day_in_the_Life_of_a_Mansion_Worlds_Student)** (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf))
 
 En los últimos años se han publicado muchos trabajos de ficción relacionados con las enseñanzas de _El Libro de Urantia_, pero este es un relato que fue escrito cuando todavía había pocos trabajos secundarios en forma de ficción (1994) y que Carmelo Martínez tradujo al español en 2011. Como su título muy bien indica, es un relato de alguien que despierta en la sala de resurrección del primer mundo mansión debido a un accidente. Una vez allí, va experimentando lo que _El Libro de Urantia_ explica como la vida moroncial en toda su extensión.
 <br style="clear:both" />

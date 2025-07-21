@@ -133,7 +133,7 @@ Dans ce PDF vous pouvez voir les points principaux de la présentation offerte p
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús" width="250">
 </figure>
 
-**Une jeune fille juive rencontre Jésus (Bobbie Dreier)**
+**[Une jeune fille juive rencontre Jésus (Bobbie Dreier)](/fr/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)**
 
 Dans cette présentation, l'auteur parle de son éducation dans la religion juive, dans ses rapports avec le christianisme. Comme le dit l’auteur, « Jésus est une sorte de mot maudit dans la plupart des foyers juifs. Les persécutions pendant l'Inquisition en Espagne, les Croisades, les assauts contre les quartiers juifs avec le massacre de leurs habitants, l'Holocauste, l'antisémitisme général et une grande partie des souffrances que les Juifs ont subies, sont en quelque sorte le résultat de les pieds de Jésus. Ils ne font aucune distinction entre le christianisme et Jésus. Mais grâce à son mari, elle a connu le Livre d'Urantia et, dans ses pages, elle a rencontré Jésus pour la première fois et non seulement elle s'est réconciliée avec lui,mais j'ai aussi commencé à l'aimer.
 <br style="clear:both;"/>

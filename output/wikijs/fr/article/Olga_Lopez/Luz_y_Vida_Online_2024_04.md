@@ -72,7 +72,7 @@ Anne Frank n'a jamais perdu sa capacité à prendre plaisir dans le petit champ 
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">
 </figure>
 
-[**Hypothèse du Maître Univers (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro)
+[**Hypothèse du Maître Univers (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro))
 
 Sur le [site Web de la Fondation Urantia](http://www.urantia.org/), nous avons trouvé cette transcription d'un des discours que Bill Sadler a donné à un groupe d'étude, dans lequel il aborde une partie des enseignements. difficile à comprendre pour nous en raison de notre condition d'êtres limités à l'espace et au temps : ce moment hypothétique de l'éternité dans lequel le JE SUIS se « divise » en la réalité déifiée (personnelle) et la réalité non déifiée (non personnelle). Avec un style clair et simple, il explique également l'origine de la création de l'univers et des êtres qui le dirigent. C'est un ouvrage hautement recommandé pour clarifier la séquence d'événements qui ont conduit à la création de l'univers maître.
 <br style="clear:both;"/>

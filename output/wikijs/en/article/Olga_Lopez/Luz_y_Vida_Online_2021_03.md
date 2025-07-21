@@ -123,7 +123,7 @@ Santiago Rodríguez is a veteran reader and amateur astronomer. A few years ago 
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/06.jpg" width="250">
 </figure>
 
-**[A Day in the Life of a Mansion Worlds Student (Tom Maringer)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf)**
+**[A Day in the Life of a Mansion Worlds Student (Tom Maringer)](/en/book/Tom_Maringer/A_Day_in_the_Life_of_a_Mansion_Worlds_Student)** (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf))
 
 Many works of fiction related to the teachings of _The Urantia Book_ have been published in recent years, but this is an account that was written when there were still few secondary works in the form of fiction (1994) and that Carmelo Martínez translated into Spanish in 2011. As its title very well indicates, it is a story of someone who wakes up in the resurrection room of the first mansion world due to an accident. Once there, he experiences what _The Urantia Book_ explains as morontia life in its entirety.
 <br style="clear:both" />

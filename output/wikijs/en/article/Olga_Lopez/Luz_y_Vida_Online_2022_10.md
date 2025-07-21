@@ -102,7 +102,7 @@ Jupiter, that gas giant planet in our solar system, has always fascinated astron
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comments to paper 179" width="250">
 </figure>
 
-[**Comments to paper 179 (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf)
+[**Comments to paper 179 (Jan Herca)**](/en/article/Jan_Herca/The_Last_Supper) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf))
 
 In this article, the author deals with the Last Supper (which is precisely mentioned in paper 179) and the circumstances that surrounded it, comparing what is said in the book with the gospels. In the words of the author: “Few stop to think carefully about what Jesus did that night: he changed the ancient rituals! But Jesus was not inaugurating a new way of celebrating the old Passover. His intention was not to curtail human freedom and force a new type of celebration. Jesus was simply giving a lesson in freedom and using an ancient ritual as a means of further teaching and establishing a new type of commemoration.”
 <br style="clear:both" />

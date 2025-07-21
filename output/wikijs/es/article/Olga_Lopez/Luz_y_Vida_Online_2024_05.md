@@ -84,7 +84,7 @@ En el boletín del mes de junio encontraréis un pequeño «banquete» con tal d
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/ce19e39a-9543-449a-a706-f61aaf120ce6.jpg" alt="Sobre el Prólogo" width="250">
 </figure>
 
-[**Preguntas y respuestas a los comentarios sobre el Prólogo (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo)
+[**Preguntas y respuestas a los comentarios sobre el Prólogo (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (también en el [sitio web de la asociación](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo))
 
 En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos con esta transcripción de una de las charlas que dio Bill Sadler a un grupo de estudio, en la que hay un animado diálogo entre él y los asistentes sobre conceptos y entidades que aparecen en el Prólogo, en un lenguaje muy sencillo y coloquial, con comparaciones de la vida cotidiana que nos pueden resultar muy útiles a la hora de comprender al menos lo más básico de los Absolutos y de los niveles de la realidad.
 <br style="clear:both;"/>

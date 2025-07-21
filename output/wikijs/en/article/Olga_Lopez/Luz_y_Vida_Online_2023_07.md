@@ -133,7 +133,7 @@ In this PDF you can see the main points of the presentation offered by its autho
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús" width="250">
 </figure>
 
-**A Jewish girl finds Jesus (Bobbie Dreier)**
+**[A Jewish girl finds Jesus (Bobbie Dreier)](/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)**
 
 In this presentation, the author talks about her upbringing in the Jewish religion, in its relationship to Christianity. As the author says, “Jesus is a kind of cursed word in most Jewish homes. The persecutions during the Inquisition in Spain, the Crusades, the raids on Jewish quarters with the slaughter of their inhabitants, the Holocaust, general anti-Semitism, and a great deal of the suffering that Jews have experienced, is somehow laid at the feet of Jesus. They make no distinction between Christianity and Jesus.” But through her husband she came to know _The Urantia Book_, and in its pages she encountered Jesus for the first time and not only became reconciled with him, but also began to love him.
 <br style="clear:both;"/>

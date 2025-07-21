@@ -100,7 +100,7 @@ Júpiter, ese planeta gigante gaseoso de nuestro sistema solar, siempre ha fasci
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179" width="250">
 </figure>
 
-[**Comentarios al documento 179 (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf)
+[**Comentarios al documento 179 (Jan Herca)**](/es/article/Jan_Herca/The_Last_Supper) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf))
 
 En este artículo, el autor trata sobre la Última Cena (de la que justamente se habla en el documento 179) y las circunstancias que la rodearon, comparando lo que se dice en el libro con los evangelios. En palabras del autor: «Pocos se paran a pensar detenidamente en lo que Jesús hizo esa noche: ¡cambió los rituales antiguos! Pero Jesús no estaba inaugurando una nueva forma de celebrar la antigua pascua. Su intención no era la de coartar la libertad humana y obligar a un nuevo tipo de celebración. Jesús estaba, sencillamente, dando una lección de libertad y utilizando un ritual antiguo como medio para una enseñanza mayor y para establecer un nuevo tipo de conmemoración».
 <br style="clear:both" />

@@ -75,7 +75,7 @@ Hoy se habla de derechos, se exige. Se aspira a tanto y se pide tanto que podemo
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**El viaje que sigue a la muerte física (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)
+[**El viaje que sigue a la muerte física (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (también en el [sitio web de la asociación](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica))
 
 En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos con esta transcripción de una de las charlas que dio Bill Sadler a un grupo de estudio, en la que explica lo que sucede una vez dejamos este mundo tras la muerte. En ella Bill Sadler responde a las preguntas que le plantean los miembros del grupo de estudio con su habitual estilo coloquial y sentido del humor, pero sin abandonar el rigor a la hora de exponer su interpretación del contenido del libro en este tema en particular.
 <br style="clear:both;"/>

@@ -98,7 +98,7 @@ In the author's words, “supremacy must comprise all finite possibilities and i
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Neutrinos.jpg" alt="Neutrinos" width="250">
 </figure>
 
-[**Neutrinos (author unknown)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
+[**Neutrinos (author unknown)**](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf))
 
 Although the science that appears in _The Urantia Book_ is very restricted to knowledge from the 1930s, it does contain knowledge unknown to scientists at the time, but discovered decades later. An example of this is the existence of neutrinos referred to in this fragment: “Electro-gravitational changes give rise to immense amounts of small particles devoid of electrical potential and that rapidly escape from the solar interior” <a id="a102_433"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3) . Not only that: in the book the developers tell us that these particles can cause “the collapse of a gigantic sun in a few days”, something that could only be observed until 1987. In this article, the author reviews how the science to confirm what the revelators tell us in _The Urantia Book_ about it.
 <br style="clear:both" />

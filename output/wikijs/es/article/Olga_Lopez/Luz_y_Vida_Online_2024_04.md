@@ -72,7 +72,7 @@ Anne Frank nunca perdió su capacidad de alegrarse con el pequeño campo de visi
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">
 </figure>
 
-[**Hipótesis del universo maestro (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro)
+[**Hipótesis del universo maestro (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (también en el [sitio web de la asociación](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro))
 
 En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos con esta transcripción de una de las charlas que dio Bill Sadler a un grupo de estudio, en la que aborda una parte de las enseñanzas que más nos puede costar entender por nuestra condición de seres circunscritos al espacio y al tiempo: ese momento hipotético de la eternidad en el que el YO SOY se «escinde» en la realidad deificada (personal) y la no deificada (no personal). Con un estilo claro y sencillo, expone también cuál fue el origen de la creación del universo y de los seres que lo dirigen. Es un trabajo muy recomendable para aclarar la secuencia de acontecimientos que llevaron a la creación del universo maestro.
 <br style="clear:both;"/>

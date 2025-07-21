@@ -76,7 +76,7 @@ M. José Sánchez Santamaría
 
 J'adore cette nouvelle car la métaphore du fantôme nous aide beaucoup à comprendre le pouvoir de notre esprit, de nos pensées et surtout de nos peurs. Comment on peut se noyer dans une mer d’émotions et de pensées récurrentes, répétitives et épuisantes. Des pensées et des émotions qui, en raison de leur nature très proche de l'animal, n'auront pas de développement spirituel au-delà de ce monde matériel. À quel point nous sommes fragiles!
 
-[Lire la suite](//fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
+[Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
 <br style="clear:both" />
 
 ## Travaux – nos recommandations du mois

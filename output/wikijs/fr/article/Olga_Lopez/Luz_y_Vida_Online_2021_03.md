@@ -122,7 +122,7 @@ Santiago Rodríguez est un lecteur chevronné et un astronome amateur. Il y a qu
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/06.jpg" width="250">
 </figure>
 
-**[Une journée dans la vie d'un étudiant du monde des maisons (Tom Maringer)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf)**
+**[Une journée dans la vie d'un étudiant du monde des maisons (Tom Maringer)](/fr/book/Tom_Maringer/A_Day_in_the_Life_of_a_Mansion_Worlds_Student)** (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf))
 
 Ces dernières années, de nombreuses œuvres de fiction liées aux enseignements du _Livre d'Urantia_ ont été publiées, mais il s'agit d'une histoire qui a été écrite alors qu'il existait encore peu d'œuvres secondaires sous forme de fiction (1994) et que Carmelo Martínez a traduite en espagnol en 2011. Comme son titre l'indique très bien, il s'agit de l'histoire de quelqu'un qui se réveille dans la salle de résurrection du premier monde des maisons à cause d'un accident. Une fois sur place, il fait l'expérience de ce que le Livre d'Urantia explique comme la vie morontielle dans son intégralité.
 <br style="clear:both" />

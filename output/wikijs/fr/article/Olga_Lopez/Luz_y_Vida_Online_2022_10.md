@@ -101,7 +101,7 @@ Jupiter, cette planète géante gazeuse de notre système solaire, a toujours fa
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179" width="250">
 </figure>
 
-[**Commentaires sur le document 179 (janvier Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf)
+[**Commentaires sur le document 179 (janvier Herca)**](/fr/article/Jan_Herca/The_Last_Supper) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf))
 
 Dans cet article, l'auteur évoque la Cène (qui est précisément évoquée dans le document 179) et les circonstances qui l'entourent, en comparant ce qui est dit dans le livre avec les évangiles. Selon les mots de l'auteur : « Rares sont ceux qui s'arrêtent pour réfléchir attentivement à ce que Jésus a fait cette nuit-là : il a changé les anciens rituels ! Mais Jésus n’inaugurait pas une nouvelle manière de célébrer l’ancienne Pâque. Son intention n’était pas de restreindre la liberté humaine et d’imposer un nouveau type de célébration. « Jésus enseignait simplement une leçon de liberté et utilisait un ancien rituel comme moyen d'enseignement ultérieur et d'établissement d'un nouveau type de commémoration. »
 <br style="clear:both" />

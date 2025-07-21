@@ -96,7 +96,7 @@ En palabras de la autora, «la supremacía debe comprender todas las posibilidad
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Neutrinos.jpg" alt="Neutrinos" width="250">
 </figure>
 
-[**Neutrinos (autor desconocido)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
+[**Neutrinos (autor desconocido)**](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf))
 
 A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restringida a los conocimientos de la década de los 30 del siglo pasado, sí que contiene conocimientos que los científicos de la época no conocían, pero que se descubrieron décadas más tarde. Un ejemplo de esto es la existencia de los neutrinos a los que se refieren en este fragmento: «Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de pequeñas partículas desprovistas de potencial eléctrico y que escapan rápidamente del interior solar» <a id="a100_533"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3). No solo eso: en el libro los reveladores nos dicen que estas partículas pueden provocar « el desmoronamiento de un sol gigantesco en pocos días», algo que solo se pudo observar hasta 1987. En este artículo, el autor hace un repaso de cómo llegó la ciencia a confirmar lo que los reveladores nos dicen en _El Libro de Urantia_ al respecto.
 <br style="clear:both" />

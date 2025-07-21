@@ -117,7 +117,7 @@ How difficult it is to talk about God! Anyone who wants to do this needs to know
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Meditacion-y-adoracion.jpg" alt="Meditation and worship" width="250">
 </figure>
 
-[**Talk on meditation and worship (Mariano Pérez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf)
+[**Talk on meditation and worship (Mariano Pérez)**](/en/article/Mariano_Perez/Charla_sobre_adoracion_y_meditacion) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf))
 
 In this work, which was offered as a presentation in a virtual room, the author expands on what he expressed in a [previous work on prayer and worship](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf), only in this case it focuses exclusively on meditation and worship . According to the author, these two concepts go hand in hand, and he is in charge of exposing it in this talk, which has two supporting PowerPoint presentations: the first, on worship, is available [here](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/05/Presentaci%C3%B3n-Adoraci%C3%B3n-1%C2%AA-parte.pdf); and the second, on meditation, can be downloaded [here](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-Meditaci%C3%B3n-2%C2%AA-parte.ppsx).
 <br style="clear:both" />
@@ -128,7 +128,7 @@ In this work, which was offered as a presentation in a virtual room, the author 
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/El-Ser-Supremo.jpg" alt="The Supreme Being" width="250">
 </figure>
 
-[**The Supreme Being and previous concepts (Rafael Mondéjar)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf)
+[**The Supreme Being and previous concepts (Rafael Mondéjar)**](/en/article/Rafael_Mondejar/El_Ser_Supremo_y_conceptos_previos) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf))
 
 At the beginning of this work, the author tells us: «When I began to find out about the existence of the Supreme Being, I had the idea that it was a somewhat complex reality, but when I delved a little deeper, that initial complexity grew in me until reach the limits of enormous confusion, because what at first seemed to me to be a single deity, I understood that, although it is indeed so or will be in the distant future, the truth is that in an almost endless present it seems to be three different deities: the Supreme Being, the Supreme Almighty, and Supreme God.” And it is precisely to unravel the differences between these three deities that the author dedicates himself in his exhaustive and detailed work.
 <br style="clear:both" />
@@ -139,7 +139,7 @@ At the beginning of this work, the author tells us: «When I began to find out a
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Hijas-de-Dios.jpg" alt="Daughters of God" width="250">
 </figure>
 
-[**Where are the Daughters of God? (Marion Steward)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf)
+[**Where are the Daughters of God? (Marion Steward)**](/en/article/Marion_Steward/Where_are_the_Daughters_of_God) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf))
 
 As the author tells us: «The Universe is overflowing with Sons of God, beginning with the Eternal Son, continuing with all the descending Sons, Paradise Sons of God (Creator Sons), Magisterial Sons and Trinity Instructor Sons; then by the Sons of God of the Local Universes - Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, Life Carriers and numerous unrevealed orders of Trinitized Sons. Then we have the ascending Sons—Father-fused, Son-fused, and Spirit-fused, mortals, evolutionary seraphim, ascending Material Sons, midwayers, and personalized Adjusters.” But what about the Daughters? As a result of this question, the author develops an interesting explanation of how developers approach gender differentiation.
 <br style="clear:both" />

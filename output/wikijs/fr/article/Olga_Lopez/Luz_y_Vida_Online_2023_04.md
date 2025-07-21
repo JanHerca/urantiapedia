@@ -97,7 +97,7 @@ Selon les mots de l'auteur, « la suprématie doit englober toutes les possibili
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Neutrinos.jpg" alt="Neutrinos" width="250">
 </figure>
 
-[**Neutrinos (auteur inconnu)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
+[**Neutrinos (auteur inconnu)**](/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf))
 
 Bien que la science qui apparaît dans _Le Livre d'Urantia_ soit très limitée à la connaissance des années 1930, elle contient des connaissances que les scientifiques de l'époque ne connaissaient pas, mais qui ont été découvertes des décennies plus tard. Un exemple en est l'existence de neutrinos mentionnés dans ce fragment : « Les changements électrogravitationnels donnent naissance à d’immenses quantités de minuscules particules dépourvues de potentiel électrique, et celles-ci s’échappent promptement de l’intérieur du soleil, ce qui amène en quelques jours l’effondrement d’un soleil gigantesque » <a id="a101_605"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3) . Et ce n'est pas tout : dans le livre, les révélateurs nous disent que ces particules peuvent provoquer « l'effondrement d'un gigantesque soleil en quelques jours », ce qui n'a pu être observé que jusqu'en 1987. Dans cet article, l'auteur passe en revue comment la science a confirmé ce que les révélateurs nous disent à ce sujet dans _Le Livre d'Urantia_.
 <br style="clear:both" />

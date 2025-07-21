@@ -115,7 +115,7 @@ Y ahora, en la noche, mientras su hijo duerme, él recuerda esa escena., vuelve 
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Meditacion-y-adoracion.jpg" alt="Meditación y adoración" width="250">
 </figure>
 
-[**Charla sobre meditación y adoración (Mariano Pérez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf)
+[**Charla sobre meditación y adoración (Mariano Pérez)**](/es/article/Mariano_Perez/Charla_sobre_adoracion_y_meditacion) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf))
 
 En este trabajo, que se ofreció como presentación en una sala virtual, el autor amplía lo que expresó en un [trabajo anterior sobre oración y adoración](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MeditarOrar.pdf), solo que en este caso se centra exclusivamente en la meditación y la adoración. Según el autor, estos dos conceptos van muy unidos, y se encarga de exponerlo en esta charla, que cuenta con dos presentaciones PowerPoint de apoyo: la primera, sobre la adoración, está disponible [aquí](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/05/Presentaci%C3%B3n-Adoraci%C3%B3n-1%C2%AA-parte.pdf); y la segunda, sobre la meditación, se puede descargar [aquí](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-Meditaci%C3%B3n-2%C2%AA-parte.ppsx).
 <br style="clear:both" />
@@ -126,7 +126,7 @@ En este trabajo, que se ofreció como presentación en una sala virtual, el auto
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/El-Ser-Supremo.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
-[**El Ser Supremo y conceptos previos (Rafael Mondéjar)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf)
+[**El Ser Supremo y conceptos previos (Rafael Mondéjar)**](/es/article/Rafael_Mondejar/El_Ser_Supremo_y_conceptos_previos) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf))
 
 Al inicio de este trabajo, el autor nos dice: « Cuando comencé a informarme sobre la existencia del Ser Supremo, tuve la idea de que se trataba de una realidad algo compleja, pero cuando profundicé un poco más, esa complejidad inicial creció en mí hasta alcanzar los límites de una enorme confusión, porque lo que en principio me parecía que era una sola deidad, comprendí que, aunque en efecto así lo sea o lo vaya a ser en un futuro lejano, lo cierto es, que en un presente casi interminable parece tratarse de tres deidades distintas: el Ser Supremo, el Todopoderoso Supremo y Dios Supremo.» Y justamente a desentrañar las diferencias entre esas tres deidades se dedica el autor en su exhaustivo y detallado trabajo.
 <br style="clear:both" />
@@ -137,7 +137,7 @@ Al inicio de este trabajo, el autor nos dice: « Cuando comencé a informarme so
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Hijas-de-Dios.jpg" alt="Hijas de Dios" width="250">
 </figure>
 
-[**¿Dónde están las Hijas de Dios? (Marion Steward)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf)
+[**¿Dónde están las Hijas de Dios? (Marion Steward)**](/es/article/Marion_Steward/Where_are_the_Daughters_of_God) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf))
 
 Como nos dice la autora: «El Universo está a rebosar de Hijos de Dios, comenzando por el Hijo Eterno, siguiendo por todos los Hijos descendentes, Hijos Paradisíacos de Dios (Hijos Creadores), Hijos Magisteriales e Hijos Instructores Trinitarios; después por los Hijos de Dios de los Universos Locales – Hijos Melquisedek, Hijos Vorondadek, Hijos Lanonandek, Portadores de Vida y numerosas órdenes no reveladas de Hijos Trinidizados. Luego tenemos los Hijos ascendentes –fusionados con el Padre, fusionados con el Hijo y fusionados con el Espíritu, mortales, serafines evolutivos, Hijos Materiales ascendentes, seres intermedios y Ajustadores personalizados». Pero ¿qué pasa con las Hijas? A raíz de esta pregunta, la autora va desarrollando una explicación interesante sobre cómo enfocan los reveladores la diferenciación por géneros.
 <br style="clear:both" />

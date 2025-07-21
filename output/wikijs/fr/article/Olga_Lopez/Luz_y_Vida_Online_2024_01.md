@@ -73,7 +73,7 @@ Ce texte vaste et plein d'espoir qu'est le livre bleu se prête à être abordé
 <img src="/image/article/Luz_y_Vida /LyV_2024_01/Présentation-del-LU.jpg" alt="Commentaires sur le prologue" width="250">
 </figure>
 
-[**Quelques commentaires sur l'avant-propos du _Livre d'Urantia_ (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia)
+[**Quelques commentaires sur l'avant-propos du _Livre d'Urantia_ (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia))
 
 Sur le [site Web de la Fondation Urantia](http://www.urantia.org/) il y a une série d'ouvrages du Dr Sadler et de son fils, Bill Sadler, qui méritent vraiment d'être pris en considération. A cette occasion, nous recommandons la transcription d'une conférence de Bill Sadler dans laquelle il donne des commentaires éclairants sur le contenu du Prologue, au fur et à mesure que l'on progresse dans la lecture de son texte. Étant donné l’importance du Prologue pour clarifier des concepts qui sont ensuite abordés dans d’autres documents du livre, tout ce qui nous aide à mieux comprendre ces concepts est, bien entendu, le bienvenu.
 <br style="clear:both;"/>
