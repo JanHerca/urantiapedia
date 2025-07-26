@@ -170,8 +170,7 @@ El espíritu divino es quien ayuda y cuida a todo mortal que este en comunión c
 
 Nuestro reconocimiento de nuestras necesidades espirituales es oído por el espíritu y Él es quien resalta nuestra vida cotidiana en una vida extraordinaria por muy simple que parezca.
 
-[LU 132:7.9](/es/The_Urantia_Book/132#p7_9) _... Lo que una imaginación humana esclarecida y reflexiva, que ha recibido la enseñanza y
-la guía espirituales, quiere sincera y altruistamente ser y hacer, se torna mediblemente creativo según el grado de dedicación del mortal a la ejecución divina de la voluntad del Padre. Cuando el hombre se asocia con Dios, pueden ocurrir, y ocurren, realmente cosas grandiosas._
+[LU 132:7.9](/es/The_Urantia_Book/132#p7_9) _... Lo que una imaginación humana esclarecida y reflexiva, que ha recibido la enseñanza y la guía espirituales, quiere sincera y altruistamente ser y hacer, se torna mediblemente creativo según el grado de dedicación del mortal a la ejecución divina de la voluntad del Padre. Cuando el hombre se asocia con Dios, pueden ocurrir, y ocurren, realmente cosas grandiosas._
 
 ## MIGUEL DE NEBADON
 
@@ -719,8 +718,7 @@ A pesar de que se pronuncie el infierno en estas aleyas, queda claro que es la e
 
 [Corán 43-62](/es/book/Islam/Quran/43#v62) _Y nunca permitáis que Satanás os extravía (del camino recto). No cabe duda de que él es un enemigo manifiesto._
 
-[LU 188:4.5](/es/The_Urantia_Book/188#p4_5) _La naturaleza animal -la tendencia al mal- puede ser hereditaria, pero el pecado no se transmite de padre a hijo. El pecado es el acto deliberado y consciente de rebeldía contra la_
-voluntad del Padre y las leyes de los Hijos cometido por una criatura volitiva.
+[LU 188:4.5](/es/The_Urantia_Book/188#p4_5) _La naturaleza animal -la tendencia al mal- puede ser hereditaria, pero el pecado no se transmite de padre a hijo. El pecado es el acto deliberado y consciente de rebeldía contra la voluntad del Padre y las leyes de los Hijos cometido por una criatura volitiva._
 
 [LU 53:9.8](/es/The_Urantia_Book/53#p9_8) _Pero durante muchas edades los siete mundos de prisión de la oscuridad espiritual en Satania han constituido una advertencia solemne para todo Nebadon, que proclama elocuente y eficazmente la gran verdad de que «el camino del transgresor es duro»; que »cada pecado encierra la semilla de su propia destrucción»; que «la paga del pecado es muerte»._
 
@@ -2374,9 +2372,7 @@ _¡Oh, Profeta! Apremia a los creyentes al combate. Si hubiese veinte de vosotro
 
 [Corán 40, 78](/es/book/Islam/Quran/40#v78) _En realidad, enviamos a Mensajeros antes de ti; entre ellos están aquellos de los que ya te hemos mencionado, y entre ellos están aquellos de los que no te hemos mencionado. No es propio de un Mensajero hacer un milagro excepto por el permiso de Dios. Luego, cuando la orden de Dios es emitida, se juzga con la verdad y justicia, y aquellos inventores d3 mentiras (quienes atribuyen copartícipes a Dios y se esfuerzan en refutar la verdad) van a perder y arruinarse._
 
-[LU 176:2.3](/es/The_Urantia_Book/176#p2_3) _... Cuando el reino haya llegado a su fruto pleno, estad seguros de que el Padre en el cielo no dejará de visitaros con una revelación ampliada de la verdad y con una enaltecida demostración de rectitud, aun como ya otorgó a este mundo a aquel que se convirtió en el príncipe de las tinieblas, y luego a_
-
-_Adán, que fue seguido por Melquisedek, y en estos días, el Hijo del Hombre. Así pues, mi Padre continuará manifestando su misericordia y mostrando su amor, aun a este mundo tenebroso y malvado. Así también yo, después que mi Padre me haya investido de todo poder y autoridad, continuaré siguiendo vuestra suerte y guiando los asuntos del reino mediante la presencia de mi espíritu que pronto será derramado sobre toda carne. Aunque así estaré presente con vosotros en espíritu, también os prometo que alguna vez volveré a este mundo, donde he vivido esta vida en la carne logrando la experiencia simultánea de revelar a Dios al hombre y conducir al hombre a Dios. Muy pronto debo abandonaros y emprender la obra que el Padre ha confiado en mis manos, pero seáis valerosos porque alguna vez retornaré. Mientras tanto, mi Espíritu de la Verdad de un universo os confortará y os guiará._
+[LU 176:2.3](/es/The_Urantia_Book/176#p2_3) _... Cuando el reino haya llegado a su fruto pleno, estad seguros de que el Padre en el cielo no dejará de visitaros con una revelación ampliada de la verdad y con una enaltecida demostración de rectitud, aun como ya otorgó a este mundo a aquel que se convirtió en el príncipe de las tinieblas, y luego a Adán, que fue seguido por Melquisedek, y en estos días, el Hijo del Hombre. Así pues, mi Padre continuará manifestando su misericordia y mostrando su amor, aun a este mundo tenebroso y malvado. Así también yo, después que mi Padre me haya investido de todo poder y autoridad, continuaré siguiendo vuestra suerte y guiando los asuntos del reino mediante la presencia de mi espíritu que pronto será derramado sobre toda carne. Aunque así estaré presente con vosotros en espíritu, también os prometo que alguna vez volveré a este mundo, donde he vivido esta vida en la carne logrando la experiencia simultánea de revelar a Dios al hombre y conducir al hombre a Dios. Muy pronto debo abandonaros y emprender la obra que el Padre ha confiado en mis manos, pero seáis valerosos porque alguna vez retornaré. Mientras tanto, mi Espíritu de la Verdad de un universo os confortará y os guiará._
 
 ## EL PADRE INSPIRA
 

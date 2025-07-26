@@ -39,7 +39,7 @@ Así que, en esta presentación, vamos a abordar esta interesante faceta del Mae
 
 Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. Y, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
 
-> «_Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas._» (1396.2) ${ }^{127: 1.5}$ [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
+> «_Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas._» [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
 
 Como vemos, Jesús siempre empleaba una actitud proactiva. Si creía que había que hacer algo y la sociedad no proporcionaba los medios necesarios, él mismo lo hacía.
 

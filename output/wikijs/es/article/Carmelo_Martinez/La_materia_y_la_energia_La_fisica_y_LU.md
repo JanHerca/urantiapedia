@@ -41,9 +41,9 @@ Pero la realidad material es mucho más amplia. La realidad material tiene manif
 
 Para llegar a esos otros aspectos que no percibimos no podemos usar los sentidos, hemos de usar la experimentación, la deducción, la lógica y la razón. Y la puerta que nos abre este proceso es la curiosidad. Y el método que usamos para conocerlos es el científico.
 
-La ciencia ha recorrido a lo largo de su historia un camino de descubrimiento de la realidad material desde la captación sensorial de lo que percibimos hasta la deducción de su constitución más profunda. Pero, como veremos y como nos sugiere El libro de Urantia, aún no ha llegado al final de ese camino.
+La ciencia ha recorrido a lo largo de su historia un camino de descubrimiento de la realidad material desde la captación sensorial de lo que percibimos hasta la deducción de su constitución más profunda. Pero, como veremos y como nos sugiere _El libro de Urantia_, aún no ha llegado al final de ese camino.
 
-En esta presentación pretendo dar una visión de cómo piensa hoy la ciencia que está constituida la materia-energía, y cómo se relaciona esta visión con la que de eso mismo nos da El libro de Urantia.
+En esta presentación pretendo dar una visión de cómo piensa hoy la ciencia que está constituida la materia-energía, y cómo se relaciona esta visión con la que de eso mismo nos da _El libro de Urantia_.
 
 Es un tema que puede resultar arduo, por lo que he intentado presentarlo de la forma más amena posible.
 

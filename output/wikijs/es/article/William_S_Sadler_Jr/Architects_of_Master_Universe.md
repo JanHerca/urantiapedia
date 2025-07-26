@@ -271,7 +271,7 @@ Este mismo principio es cierto incluso con respecto a la progresión evolutiva d
 
 ---
 
-[^1]: «actual» en el sentido de «real», «concreto», en contraposición a «potencial».
+
 
 ## Referencias
 
@@ -295,3 +295,7 @@ Este mismo principio es cierto incluso con respecto a la progresión evolutiva d
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: «actual» en el sentido de «real», «concreto», en contraposición a «potencial».

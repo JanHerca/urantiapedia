@@ -43,8 +43,7 @@ A lo largo de la historia de este mundo ha habido muchos conquistadores, que con
 
 De toda la gloria y triunfos de estos grandes conquistadores ¿qué nos queda hoy de esos grandes personajes y conquistas? Solo unas cuantas ruinas y monumentos para el deleite de los turistas.
 
-Pero hubo un personaje en Nazaret que, trabajando humildemente en su taller de carpintería, empezó a enseñar y a formular las más grandes enseñanzas que el mundo ha escuchado nunca y que cambiaron el curso de la historia. De Jesús se ha hablado muchísimo, se han escrito libros, tratados de filosofía, se han hecho películas,
-comentarios, documentales, dibujos, pinturas etc. De Jesucristo se ha hablado casi más que de ningún otro personaje en la historia.
+Pero hubo un personaje en Nazaret que, trabajando humildemente en su taller de carpintería, empezó a enseñar y a formular las más grandes enseñanzas que el mundo ha escuchado nunca y que cambiaron el curso de la historia. De Jesús se ha hablado muchísimo, se han escrito libros, tratados de filosofía, se han hecho películas, comentarios, documentales, dibujos, pinturas etc. De Jesucristo se ha hablado casi más que de ningún otro personaje en la historia.
 
 ## La muerte de un héroe
 

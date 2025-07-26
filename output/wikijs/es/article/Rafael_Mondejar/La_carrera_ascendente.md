@@ -185,9 +185,9 @@ Veamos ahora
 2. **Todos somos liberados** de las cadenas de la carne mediante la muerte natural, salvo aquellos que durante la vida física fusionan con el Ajustador.
 3. **Todos vamos a los Mundos Morontiales (MMO)** de evolución espiritual y de progreso mental, salvo aquellos en los que se produce la muerte espiritual (o del alma).
 4. **Además, desde Pentecostés**, se universalizó para <ins>todos los seres humanos de Urantia</ins> la enseñanza y la guía de una <ins>triple dotación espiritual</ins>:
- 1. El Ajustador del Pensamiento, que ya hemos mencionado, y que procede del Padre.
- 2. El Espíritu de la Verdad, que procede del Hijo Eterno, recibido a través de Miguel de Nebadón, Hijo de Dios y creador del UL, que encarnó en nuestro planeta como Jesús de Nazaret.
- 3. El Espíritu Santo, que procede del Espíritu Infinito, recibido a través de la Ministra Divina, compañera de Miguel de Nebadon en la creación del UL.
+  1. El Ajustador del Pensamiento, que ya hemos mencionado, y que procede del Padre.
+  2. El Espíritu de la Verdad, que procede del Hijo Eterno, recibido a través de Miguel de Nebadón, Hijo de Dios y creador del UL, que encarnó en nuestro planeta como Jesús de Nazaret.
+  3. El Espíritu Santo, que procede del Espíritu Infinito, recibido a través de la Ministra Divina, compañera de Miguel de Nebadon en la creación del UL.
 8. **Y a medida que progresemos** en la escala de la inteligencia y de la percepción espiritual, recibiremos nuevas influencias espirituales superiores.
 
 **13**
@@ -200,9 +200,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Y este progreso individual** de los seres humanos se alcanza y se mide por la conquista y el paso sucesivo de los llamados <ins>siete círculos psíquicos</ins> o también <ins>círculos cósmicos</ins>.
 
-1. **Por lo tanto**, podemos decir que los siete círculos psíquicos consisten en <ins>7 niveles de progresión humana</ins>, que comienzan en el escalón siguiente al puramente animal (eso sería la entrada en el 7º Círculo) y que nos conducen finalmente a descubrir que somos ciudadanos del universo y que formamos parte de la experiencia cósmica del Ser Supremo.
+1\. **Por lo tanto**, podemos decir que los siete círculos psíquicos consisten en <ins>7 niveles de progresión humana</ins>, que comienzan en el escalón siguiente al puramente animal (eso sería la entrada en el 7º Círculo) y que nos conducen finalmente a descubrir que somos ciudadanos del universo y que formamos parte de la experiencia cósmica del Ser Supremo.
 
-2. **El dominio de estos círculos** está relacionado con el crecimiento del alma. Este crecimiento puede ser cuantitativo o cualitativo.
+2\. **El dominio de estos círculos** está relacionado con el crecimiento del alma. Este crecimiento puede ser cuantitativo o cualitativo.
 
 **Se produce un crecimiento cuantitativo** de nuestra alma a medida <ins>que comprendemos los significados</ins> –quién soy, de dónde vengo, qué estoy haciendo aquí, a dónde voy después, qué sentido tiene esta vida, por qué existe el mal, qué hay más allá de la muerte, cuál es la finalidad de este universo, etc.– <ins>de la realidad finita en la que estamos inmersos</ins> (recuerdo que la realidad tiene 3 niveles: el material, el intelectual y el espiritual).
 
@@ -212,23 +212,23 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 **Los 7 Círculos Psíquicos del progreso humano (2)**
 
-3. **Es importantísimo tener en cuenta** que el avance a través de los 7 círculos psíquicos tiene que ver con el <ins>crecimiento equilibrado del conjunto de la personalidad humana</ins>, que incluye:
- - Los aspectos corporales o materiales
- - Los logros de la mente
- - El crecimiento del alma, y
- - La sintonía con el Ajustador
-4. **Un crecimiento desproporcionado** de unas partes sobre otras, conlleva siempre <ins>dos peligros alternativos</ins>: el de caer en la incapacidad para percibir las directrices del Ajustador o el de interpretar fanáticamente esas directrices.
+3\. **Es importantísimo tener en cuenta** que el avance a través de los 7 círculos psíquicos tiene que ver con el <ins>crecimiento equilibrado del conjunto de la personalidad humana</ins>, que incluye:
+  - Los aspectos corporales o materiales
+  - Los logros de la mente
+  - El crecimiento del alma, y
+  - La sintonía con el Ajustador
+4\. **Un crecimiento desproporcionado** de unas partes sobre otras, conlleva siempre <ins>dos peligros alternativos</ins>: el de caer en la incapacidad para percibir las directrices del Ajustador o el de interpretar fanáticamente esas directrices.
 
 **15**
 
 **Los siete Círculos Psíquicos del progreso humano (3)**
 
-5. **También debemos saber** que el hecho de atravesar estos 7 círculos <ins>no equivale a la fusión con el Ajustador</ins>, aunque revela que se han alcanzado las etapas previas para fusionar con él.
-6. **El Ajustador** colabora con nosotros, <ins>desde nuestro interior</ins>, para que alcancemos los 7 círculos, y él mismo también progresa en ellos hacia su propio funcionamiento autónomo en el ámbito de la realidad finita.
-7. **Por otro lado**, <ins>también los Serafines</ins>, que son estimuladores de la mente, intentan continuamente provocarnos decisiones que conduzcan a superar los círculos. No lo hacen desde el interior como los Ajustadores, sino <ins>desde el exterior</ins>, trabajando a través de nuestro entorno social, ético y moral.
-8. **Finalmente, decir** que el alma refleja las acciones y las motivaciones de la mente,
- - **y que cuando la mente** escoge la verdad, la belleza y la bondad, está recorriendo los 7 círculos, bajo la guía de los 7EAM, unificados y dirigidos por el Espíritu de la Sabiduría.
- - **Y después de completarse** los 7 círculos, <ins>el don de la mente morontial se superpone</ins> a la mente que está bajo la influencia de estos espíritus ayudantes, lo que inicia la carrera morontial.
+5\. **También debemos saber** que el hecho de atravesar estos 7 círculos <ins>no equivale a la fusión con el Ajustador</ins>, aunque revela que se han alcanzado las etapas previas para fusionar con él.
+6\. **El Ajustador** colabora con nosotros, <ins>desde nuestro interior</ins>, para que alcancemos los 7 círculos, y él mismo también progresa en ellos hacia su propio funcionamiento autónomo en el ámbito de la realidad finita.
+7\. **Por otro lado**, <ins>también los Serafines</ins>, que son estimuladores de la mente, intentan continuamente provocarnos decisiones que conduzcan a superar los círculos. No lo hacen desde el interior como los Ajustadores, sino <ins>desde el exterior</ins>, trabajando a través de nuestro entorno social, ético y moral.
+8\. **Finalmente, decir** que el alma refleja las acciones y las motivaciones de la mente,
+  - **y que cuando la mente** escoge la verdad, la belleza y la bondad, está recorriendo los 7 círculos, bajo la guía de los 7EAM, unificados y dirigidos por el Espíritu de la Sabiduría.
+  - **Y después de completarse** los 7 círculos, <ins>el don de la mente morontial se superpone</ins> a la mente que está bajo la influencia de estos espíritus ayudantes, lo que inicia la carrera morontial.
 
 **16**
 
@@ -241,9 +241,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 1. **Que comenzamos** entrando en el 7º círculo, en el más exterior, y que a partir de ahí, nuestras decisiones intelectuales, nuestras elecciones morales, nuestro desarrollo espiritual, nuestra fe y nuestros actos, determinan nuestro avance hacia cada uno de los círculos siguientes hasta llegar al 1º.
 2. **Que entre la conquista** de los círculos cósmicos y la experiencia religiosa espiritual no existe una relación directa, pero que esa conquista acrecienta nuestro potencial de éxito y de logros humanos.
 3. **Que la evolución cósmica** a través de estos círculos se refleja de tres maneras:
- - En la sintonía progresiva con el Ajustador
- - En la evolución, también progresiva, del alma morontial
- - Y en el grado de realidad cada vez más alto de la personalidad humana
+  - En la sintonía progresiva con el Ajustador
+  - En la evolución, también progresiva, del alma morontial
+  - Y en el grado de realidad cada vez más alto de la personalidad humana
 
 **Por último, decir,** que <ins>si la conquista de estos 7 Círculos Cósmicos no la alcanzamos antes de la muerte física</ins>, formará parte de nuestra experiencia en los MMA, salvo que en la imposibilidad de alcanzar estos mundos haya culpa por parte nuestra o que nuestras intenciones y deseos no tengan un valor de supervivencia.
 
@@ -309,9 +309,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 1. **Que desde que llegamos a este 3º círculo**, <ins>1 Pareja de Guardianes Seráficos</ins> se dedican total y exclusivamente a nosotros, tras lo cual se observa una evidente mejora en todas las fases de progresión cósmica y de desarrollo espiritual.
 2. **Que nuestro Ajustador se esfuerza**:
- - Por morontializar nuestra mente (es decir, por hacer que nuestra mente se asemeje cada vez más a la mente morontial)
- - Por conquistar los círculos restantes, y
- - Por alcanzar la etapa final de la asociación humano-divina antes de que se produzca la muerte natural y se disuelva esta asociación excepcional (entre el Ajustador y el Guardián Seráfico)
+  - Por morontializar nuestra mente (es decir, por hacer que nuestra mente se asemeje cada vez más a la mente morontial)
+  - Por conquistar los círculos restantes, y
+  - Por alcanzar la etapa final de la asociación humano-divina antes de que se produzca la muerte natural y se disuelva esta asociación excepcional (entre el Ajustador y el Guardián Seráfico)
 3. **Que la influencia de los 7EAM** disminuye progresivamente desde este 3^er^ círculo hasta el 1º.
 
 **Del 2º círculo** no se nos dice nada específico.
@@ -346,9 +346,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 1. **Los seres humanos** entendemos normalmente la muerte como el cese físico de las energías vitales; y, en efecto, eso es la muerte desde un punto de vista puramente material. Cuando el cuerpo humano no responde a ningún estímulo, se entiende que la persona está físicamente muerta. Y para aquellos que solo consideran la muerte desde el punto de vista material, ésta es la única muerte que existe.
 2. **Sin embargo,** desde una visión filosófica con valores de permanencia, la muerte sólo es <ins>el comienzo de una carrera permanente de aventuras</ins> excitantes y de maravillas sin fin, el comienzo de una vida perpetua de anticipaciones y de un eterno viaje de descubrimientos.
 3. **Pero en el terreno de la realidad** que ya conocemos, es decir, <ins>en lo que se refiere, no meramente al cuerpo físico, sino a la supervivencia de la personalidad, existen en realidad tres tipos de muerte</ins>:
- - La muerte espiritual (o del alma)
- - La muerte intelectual (o de la mente)
- - La muerte física (del cuerpo y de la mente)
+  - La muerte espiritual (o del alma)
+  - La muerte intelectual (o de la mente)
+  - La muerte física (del cuerpo y de la mente)
 
 **26**
 
@@ -486,14 +486,14 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 2. **La de aquellos seres humanos que**, en el momento de su muerte, <ins>ya han recibido el Ajustador</ins> y, por tanto, han alcanzado el 7º Círculo, e incluso algún círculo más avanzado, <ins>pero</ins> que <ins>todavía no han elegido la vida eterna</ins>. Son generalmente <ins>niños que tienen entre 6 y 14 ó 16 años</ins>. Estos niños, a los efectos de la supervivencia, también dependen de sus padres, por lo que, igualmente, permanecerán en la etapa de supervivientes dormidos un tiempo variable, hasta que alguno de sus padres sea repersonalizado.
 3. **La de aquellos seres humanos, adultos**, que, en el momento de su muerte, se encuentran entre el 7º y el 4º círculo. Estos mortales proceden generalmente **de mundos evolutivos poco avanzados** y permanecen como supervivientes dormidos un tiempo variable, que puede finalizar en cualquier momento, o al producirse una orden de ascensión milenaria o al finalizar una época, dependiendo no solo del círculo que hayan alcanzado (entre el 7º y el 4º ), sino también de diversas circunstancias (razones prácticas, asociaciones sentimentales, etc).
 4. **La de aquellos seres humanos** que en el momento de su muerte, se encuentran al menos en el 3º Círculo, y que tienen la asistencia de un Serafín personal. (49.6.8; 112.4.12). En este 4º grupo, <ins>algunos de estos supervivientes dormidos</ins>, proceden de <ins>mundos evolutivos poco avanzados</ins> y, entre ellos, se pueden distinguir <ins>tres grupos</ins>, según su diferente situación de progreso:
- 1. Mortales menos avanzados
- 2. Mortales de avance intermedio
- 3. Mortales más avanzados
+  1. Mortales menos avanzados
+  2. Mortales de avance intermedio
+  3. Mortales más avanzados
 5. **Otros seres humanos** también se encuentran en el 3^er^ Círculo o en un nivel superior y tienen igualmente la asistencia de un Guardián Seráfico del Destino personal, pero proceden de <ins>mundos evolutivos intermedios</ins>. Y entre ellos también se pueden distinguir tres grupos según su diferente situación de progreso:
- 1. Mortales menos perfeccionados
- 2. Mortales de perfección intermedia
- 3. Mortales más perfeccionados
- **Todos estos seres humanos** son <ins>repersonalizados al tercer día, aunque en mundos diferentes</ins> y mediante órdenes de ascensión diferentes, como enseguida veremos.
+  1. Mortales menos perfeccionados
+  2. Mortales de perfección intermedia
+  3. Mortales más perfeccionados
+  **Todos estos seres humanos** son <ins>repersonalizados al tercer día, aunque en mundos diferentes</ins> y mediante órdenes de ascensión diferentes, como enseguida veremos.
 6. **Por último, la de aquellos seres humanos**, generalmente procedentes <ins>de mundos evolutivos avanzados</ins>, que en su propia vida física fusionan con su Ajustador, sin pasar por las puertas de la muerte. Con toda probabilidad han alcanzado el primer círculo, aunque este hecho, por sí solo, no implica fusionar en vida con el Ajustador. Estos seres humanos son despertados de inmediato en la sede del UL.
 
 **37**
@@ -522,9 +522,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 **Órdenes de ascensión para la supervivencia (2)**
 
 1\. **Las órdenes de ascensión colectivas**, se dictan para resurrecciones en diferentes fechas, y las hay de tres clases:
-1. Órdenes de dispensación planetaria (para resurrecciones al final de una época)
-2. Órdenes de ascensión milenaria (para resurrecciones cada mil años)
-3. Órdenes de ascensión especial (para resurrecciones en fechas indeterminadas)
+   1. Órdenes de dispensación planetaria (para resurrecciones al final de una época)
+   2. Órdenes de ascensión milenaria (para resurrecciones cada mil años)
+   3. Órdenes de ascensión especial (para resurrecciones en fechas indeterminadas)
 
 **Generalmente**, todos los mortales que despiertan por alguna de estas órdenes, son repersonalizados en el 1º MMA.
 
@@ -533,17 +533,17 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 **Órdenes de ascensión para la supervivencia (3)**
 
 2\. **Las órdenes de ascensión individuales** se dictan, como he dicho antes, para resurrecciones que tienen lugar al tercer día de la muerte y, generalmente, para mortales procedentes de **mundos evolutivos poco avanzados**. Estos mortales han alcanzado, como ya vimos, al menos el 3º Círculo, tienen un Guardián Seráfico Personal y están en diferente situación de progreso, distinguiéndose tres grupos, según expliqué anteriormente:
-1. Los menos avanzados, que son repersonalizados en el 1º MMA
-2. Los de avance intermedio, que son repersonalizados en un mundo intermedio de las mansiones
-3. Los más avanzados, que son repersonalizados en el 7º MMA
+   1. Los menos avanzados, que son repersonalizados en el 1º MMA
+   2. Los de avance intermedio, que son repersonalizados en un mundo intermedio de las mansiones
+   3. Los más avanzados, que son repersonalizados en el 7º MMA
 
 **40**
 
 **Órdenes de ascensión para la supervivencia (4)**
 
 3\. **Órdenes de ascensión que dependen de un periodo de prueba**. Estas órdenes afectan fundamentalmente a los niños y jóvenes que dependen de sus padres para la supervivencia y que, por tanto, se promulgan en la fecha en que se promulguen las órdenes de ascensión de sus respectivos padres. Estas órdenes de ascensión son de dos tipos:
-1. Para niños que mueren antes de recibir al Ajustador
-2. Para niños y jóvenes con Ajustador, que mueren antes de elegir la supervivencia
+   1. Para niños que mueren antes de recibir al Ajustador
+   2. Para niños y jóvenes con Ajustador, que mueren antes de elegir la supervivencia
 
 **Estos niños son repersonalizados** en los mundos finalistas del Sistema, de la Constelación o del UL, dependiendo de donde sean repersonalizados sus padres.
 
@@ -552,9 +552,9 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 **Órdenes de ascensión para la supervivencia (5)**
 
 4\. **Órdenes de ascensión secundarias modificadas**. Se dictan también para resurrecciones que tienen lugar al tercer día de la muerte, y para los mortales generalmente <ins>procedentes de mundos evolutivos intermedios</ins>, que también alcanzaron, como ya vimos, al menos el 3º Círculo, que igualmente tienen un Serafín Personal y que están en diferente situación de progreso, distinguiéndose también tres grupos de mortales:
-1. Los menos perfeccionados, que son repersonalizados en la sede del sistema local
-2. Los de perfección intermedia, que son repersonalizados en los mundos educativos de la constelación
-3. Los más perfeccionados, que son repersonalizados en la sede de la constelación)
+   1. Los menos perfeccionados, que son repersonalizados en la sede del sistema local
+   2. Los de perfección intermedia, que son repersonalizados en los mundos educativos de la constelación
+   3. Los más perfeccionados, que son repersonalizados en la sede de la constelación)
 
 5\. **Órdenes de ascensión primarias modificadas**. Se dictan para despertar a aquellos mortales, generalmente <ins>procedentes de mundos evolutivos avanzados</ins> que fusionan con su Ajustador y que no mueren. Aparecen en la sede del UL.
 
@@ -585,8 +585,8 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 
 - **En los Mundos Finalistas** <ins>del Sistema, de la Constelación y de la Sede del UL</ins>, donde se reensambla a los mortales de las órdenes de ascensión que dependen de un periodo de prueba (niños sin Ajustador o con Ajustador), dependiendo de dónde se reensamble al primero de sus padres.
 - **En todos los MMA de cada Sistema**, donde se reensambla:
- - A los mortales de las órdenes de ascensión de dispensación planetaria, milenarias y especiales
- - A los mortales de los tres grupos de las órdenes de ascensión individual
+  - A los mortales de las órdenes de ascensión de dispensación planetaria, milenarias y especiales
+  - A los mortales de los tres grupos de las órdenes de ascensión individual
 - **En la Sede de los Sistemas Locales** (Jerusem es la Sede del Sistema de Satania), donde se reensambla a los mortales del grupo menos perfeccionado de las órdenes de ascensión secundarias modificadas.
 - **En la primera esfera receptora de Edentia**, (nuestra Constelación) donde se reensambla a los mortales del grupo de perfección intermedia de la las órdenes de ascensión secundarias modificadas.
 - **En la Sede de las Constelaciones** (Edentia es la Sede de nuestra Constelación de Norlatiadek) donde se reensambla a los mortales del grupo más perfeccionado de las órdenes de ascensión secundarias modificadas.
@@ -772,9 +772,9 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 1. Descripción y habitantes de los MMA.
 2. Nuevo despertar y reanudación de la vida
 3. Logros que alcanzaremos en los MMO del Sistema
- 1. En el Mundo de los Finalistas. La Guardería Probatoria
- 2. En los 7 MMA, uno a uno
- 3. En Jerusem, la sede de nuestro Sistema Local
+  1. En el Mundo de los Finalistas. La Guardería Probatoria
+  2. En los 7 MMA, uno a uno
+  3. En Jerusem, la sede de nuestro Sistema Local
 
 
 **57**
@@ -1430,10 +1430,10 @@ El subrayado del párrafo anterior parece estar en contradicción con lo sosteni
 **Mundos formativos del Universo Local (2)**
 
 6. **En esta esfera Melquisedek se encuentran**, entre otras:
- 1. **Las escuelas de administración universal y de sabiduría**
- 2. **Las escuelas dedicadas a una sola línea de investigación** (energía, materia, organización, comunicación, archivos, ética...)
- 3. **La Facultad Melquisedek de Dotación Espiritual**, exclusiva en todo el UL, donde todas las órdenes de Hijos de Dios cooperan con los Melquisedeks y los educadores seráficos en la formación educativa de los <ins>Evángeles del Destino</ins> (**).
- 4. **La Facultad de Ética Superior**, presidida por el Padre Melquisedek, donde se imparte el curso de formación más elevado en administración universal.
+  1. **Las escuelas de administración universal y de sabiduría**
+  2. **Las escuelas dedicadas a una sola línea de investigación** (energía, materia, organización, comunicación, archivos, ética...)
+  3. **La Facultad Melquisedek de Dotación Espiritual**, exclusiva en todo el UL, donde todas las órdenes de Hijos de Dios cooperan con los Melquisedeks y los educadores seráficos en la formación educativa de los <ins>Evángeles del Destino</ins> (**).
+  4. **La Facultad de Ética Superior**, presidida por el Padre Melquisedek, donde se imparte el curso de formación más elevado en administración universal.
 7. **Mientras residamos en esta esfera Melquisedek y en las restantes esferas primarias**, nos formaremos también en sus respectivos seis satélites circundantes de educación especializada. Y este mismo método se aplicará durante nuestra estancia en las setenta esferas primarias del circuito de Salvington.
 
 NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
@@ -1445,55 +1445,55 @@ NO ES INDISPENSABLE LEER LO SIGUIENTE, pero está bien saberlo
 **Mundos formativos del Universo Local (3)**
 
 8. **En lo que se refiere a nosotros**, los 6 satélites tributarios de la esfera Melquisedek, o Mundo Piloto, se dedican a las <ins>fases especiales de estudio siguientes</ins>:
- - **El satélite nº 1 se ocupa** de revisar nuestra <ins>vida planetaria inicial</ins>. Esta revisión la realizaremos junto con mortales que provengan de Urantia.
- - **El nº 2 se ocupa** de una revisión similar de las <ins>experiencias vividas en los MMA</ins>.
- - **Las revisiones del satélite nº 3** están relacionadas con nuestra estancia en Jerusem, y en sus 7 Mundos de Transición.
- - **El 4º satélite** de la esfera Melquisedek se ocupa de revisar <ins>nuestras experiencias en los setenta mundos primarios de la constelación y en sus esferas asociadas</ins>.
- - **En el 5º satélite** se realiza <ins>la revisión de nuestra estancia en el mundo sede de la constelación</ins>.
- - **Y en el satélite nº 6**, se intenta <ins>correlacionar estas cinco épocas y lograr así una coordinación de la experiencia, como preparación para entrar en las escuelas primarias Melquisedeks de formación universal</ins>.
+  - **El satélite nº 1 se ocupa** de revisar nuestra <ins>vida planetaria inicial</ins>. Esta revisión la realizaremos junto con mortales que provengan de Urantia.
+  - **El nº 2 se ocupa** de una revisión similar de las <ins>experiencias vividas en los MMA</ins>.
+  - **Las revisiones del satélite nº 3** están relacionadas con nuestra estancia en Jerusem, y en sus 7 Mundos de Transición.
+  - **El 4º satélite** de la esfera Melquisedek se ocupa de revisar <ins>nuestras experiencias en los setenta mundos primarios de la constelación y en sus esferas asociadas</ins>.
+  - **En el 5º satélite** se realiza <ins>la revisión de nuestra estancia en el mundo sede de la constelación</ins>.
+  - **Y en el satélite nº 6**, se intenta <ins>correlacionar estas cinco épocas y lograr así una coordinación de la experiencia, como preparación para entrar en las escuelas primarias Melquisedeks de formación universal</ins>.
 
 **103**
 
 **Mundos formativos del Universo Local (4)**
 
 9. **En las 3 diapositivas anteriores** nos hemos referido fundamentalmente a la Esfera Melquisedek y a sus 6 satélites, pero también debemos mencionar las seis esferas primarias restantes del grupo regentado por los Melquisedeks, que se dedican a lo siguiente:
- - **La 2: a la vida física y a las energías vivientes**
- - **La 3: a la vida morontial**
- - **La 4: a la vida espiritual inicial**
- - **La 5: a la vida espiritual intermedia**
- - **La 6: a la vida espiritual avanzada**
- - **La 7: a la autorrealización coordinada y suprema**
+  - **La 2: a la vida física y a las energías vivientes**
+  - **La 3: a la vida morontial**
+  - **La 4: a la vida espiritual inicial**
+  - **La 5: a la vida espiritual intermedia**
+  - **La 6: a la vida espiritual avanzada**
+  - **La 7: a la autorrealización coordinada y suprema**
 
 **104**
 
 **Mundos formativos del Universo Local (5)**
 
 10. **De nuestro paso por el segundo grupo** de 7 esferas primarias y sus 42 secundarias, que están regentadas por los Hijos Vorondadeks, sólo se nos dice:
- - **Que cada esfera** y sus correspondientes 6 satélites, se ocupan de una fase especial de las actividades Vorondadeks.
- - **Que en estos mundos** alcanzaremos el apogeo de nuestra educación sobre la legislación del UL.
- - **Que bajo la tutela de los Vorondadeks** más antiguos, participaremos en la promulgación de la legislación general del universo, encaminada a la coordinación de la legislación de las diferentes constelaciones
- - **Que la enseñanza progresiva** que recibiremos en las escuelas Vorondadeks, en materia legislativa, es insuperable incluso en Uversa.
- - **Y finalmente se nos dice** que en este grupo de mundos iniciaremos nuevas actividades, pero incomprensibles para nosotros por falta de referencias con las que se pueda establecer alguna analogía.
+  - **Que cada esfera** y sus correspondientes 6 satélites, se ocupan de una fase especial de las actividades Vorondadeks.
+  - **Que en estos mundos** alcanzaremos el apogeo de nuestra educación sobre la legislación del UL.
+  - **Que bajo la tutela de los Vorondadeks** más antiguos, participaremos en la promulgación de la legislación general del universo, encaminada a la coordinación de la legislación de las diferentes constelaciones
+  - **Que la enseñanza progresiva** que recibiremos en las escuelas Vorondadeks, en materia legislativa, es insuperable incluso en Uversa.
+  - **Y finalmente se nos dice** que en este grupo de mundos iniciaremos nuevas actividades, pero incomprensibles para nosotros por falta de referencias con las que se pueda establecer alguna analogía.
 
 **105**
 
 **Mundos formativos del Universo Local (6)**
 
 11. **En el grupo de 49 esferas Lanonandeks**:
- - **Se encuentran las escuelas administrativas** del UL, que están supervisadas por Hijos Lanonandeks que tienen una larga experiencia como soberanos de los sistemas y como consejeros de las constelaciones.
- - **Estos antiguos soberanos** de los sistemas <ins>serán nuestros instructores administrativos</ins> y también lo serán de las huestes angélicas.
- - **Cuando estuvimos en Jerusén** pudimos observar el trabajo de los administradores, pero ahora, en estas esferas lanonandeks, <ins>podremos participar en la coordinación de las declaraciones administrativas</ins> de los 10.000 sistemas locales de Nebadon.
+  - **Se encuentran las escuelas administrativas** del UL, que están supervisadas por Hijos Lanonandeks que tienen una larga experiencia como soberanos de los sistemas y como consejeros de las constelaciones.
+  - **Estos antiguos soberanos** de los sistemas <ins>serán nuestros instructores administrativos</ins> y también lo serán de las huestes angélicas.
+  - **Cuando estuvimos en Jerusén** pudimos observar el trabajo de los administradores, pero ahora, en estas esferas lanonandeks, <ins>podremos participar en la coordinación de las declaraciones administrativas</ins> de los 10.000 sistemas locales de Nebadon.
 
 **106**
 
 **Mundos formativos del Universo Local (7)**
 
 12. **De los 7 restantes grupos** de mundos arquitectónicos de Salvington no se nos indica cuál será nuestro aprendizaje. No obstante, <ins>quiero destacar</ins> algunas cosas de esos mundos:
- - **Del grupo de mundos de los Portadores de Vida** se nos indica el nombre de cada una de las 7 esferas principales y algo sobre el cometido que en ellas y en sus satélites se desempeña, por lo que es de suponer que nuestra formación en esos mundos tenga algo que ver con esas actividades, pero nada se concreta.
- - **Del grupo de 49 esferas Finalistas** se nos dice que son el punto de encuentro de las personalidades de los superuniversos y del Universo Central que pueden estar realizando misiones en Nebadon, pero no se nos da ningún otro detalle de nuestro aprendizaje. Incluso se nos dice que en estos mundos serán en los que encontraremos más limitaciones a nuestra libre circulación.
- - **De las esferas regentadas** por las <ins>Brillantes Estrellas Vespertinas</ins>, se nos dice que los satélites de los tres primeros mundos primarios están consagrados a las escuelas de los Hijos Instructores y de las Estrellas Vespertinas, mientras que los satélites de los tres mundos primarios siguientes están consagrados a la formación de mortales ascendentes, pero no se nos indica tampoco qué formación recibiremos en ellos.
- - **Tampoco nos indican qué formación** recibiremos <ins>en los mundos de los Arcángeles</ins>, aunque se nos dice que estos están dedicados a fomentar nuestra carrera ascendente y a la tarea de nuestra supervivencia, indicándonos, en este sentido, que los Mundos de los Arcángeles están ocupados por el inmenso cuerpo de registradores de la personalidad, que conservan los informes de nuestra personalidad y las garantías de nuestra identidad durante el periodo que media entre la muerte física y la repersonalización, y que mantienen en orden la historia de cada uno de nosotros desde el momento de nuestro nacimiento hasta que dejamos Salvington.
- - **Y respecto de nuestro paso** <ins>por los mundos de los Mortales Fusionados con el Espíritu</ins>, solo se nos dice que en ellos disfrutaremos de muchas estancias agradables y beneficiosas, como invitados por los residentes de dichos mundos.
+  - **Del grupo de mundos de los Portadores de Vida** se nos indica el nombre de cada una de las 7 esferas principales y algo sobre el cometido que en ellas y en sus satélites se desempeña, por lo que es de suponer que nuestra formación en esos mundos tenga algo que ver con esas actividades, pero nada se concreta.
+  - **Del grupo de 49 esferas Finalistas** se nos dice que son el punto de encuentro de las personalidades de los superuniversos y del Universo Central que pueden estar realizando misiones en Nebadon, pero no se nos da ningún otro detalle de nuestro aprendizaje. Incluso se nos dice que en estos mundos serán en los que encontraremos más limitaciones a nuestra libre circulación.
+  - **De las esferas regentadas** por las <ins>Brillantes Estrellas Vespertinas</ins>, se nos dice que los satélites de los tres primeros mundos primarios están consagrados a las escuelas de los Hijos Instructores y de las Estrellas Vespertinas, mientras que los satélites de los tres mundos primarios siguientes están consagrados a la formación de mortales ascendentes, pero no se nos indica tampoco qué formación recibiremos en ellos.
+  - **Tampoco nos indican qué formación** recibiremos <ins>en los mundos de los Arcángeles</ins>, aunque se nos dice que estos están dedicados a fomentar nuestra carrera ascendente y a la tarea de nuestra supervivencia, indicándonos, en este sentido, que los Mundos de los Arcángeles están ocupados por el inmenso cuerpo de registradores de la personalidad, que conservan los informes de nuestra personalidad y las garantías de nuestra identidad durante el periodo que media entre la muerte física y la repersonalización, y que mantienen en orden la historia de cada uno de nosotros desde el momento de nuestro nacimiento hasta que dejamos Salvington.
+  - **Y respecto de nuestro paso** <ins>por los mundos de los Mortales Fusionados con el Espíritu</ins>, solo se nos dice que en ellos disfrutaremos de muchas estancias agradables y beneficiosas, como invitados por los residentes de dichos mundos.
 
 **Bien, pues hasta aquí la información** que se nos revela sobre nuestro recorrido por los mundos formativos del UL. Pero para acabar la etapa de Progresores Morontiales, aún nos queda pasar por Salvington.
 
@@ -1568,13 +1568,13 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 1. **Umenor la Tercera**, que es la capital de Ensa, está rodeada por 7 mundos formativos o educativos que giran alrededor de ella. Uno de estos mundos será el mundo piloto donde aterrizaremos pero no nos indican cuál. En total son 8 los mundos arquitectónicos en este Sector Menor de Ensa.
 2. **El gobierno del Sector Menor**, que tiene su sede en la capital, está presidido por tres Recientes de los Días, que son Personalidades Supremas de la Trinidad, a los que tendremos ocasión de conocer; y su administración se ocupa principalmente:
- 1. del control, la unificación y la estabilización física del Sector; y también
- 2. de coordinar la administración de los aproximadamente 100 universos locales que lo componen.
+  1. del control, la unificación y la estabilización física del Sector; y también
+  2. de coordinar la administración de los aproximadamente 100 universos locales que lo componen.
 3. **Umenor la Tercera es también** el gran punto de reunión **de las 7 órdenes de Controladores Físicos Maestros**, que residen en las 7 esferas de instrucción que rodean a la capital.
 4. **Estas esferas están dedicadas** a los estudios físicos superiores de la vida ascendente y son los centros donde se enseña el conocimiento físico y administrativo relacionado con el Universo Maestro.
 5. **Y en ellas proseguiremos** nuestros estudios y experiencias, relacionados con las actividades de:
- 1. De los Centros Supremos del Poder de los superuniversos y
- 2. De las siete órdenes de Controladores Físicos Maestros.
+  1. De los Centros Supremos del Poder de los superuniversos y
+  2. De las siete órdenes de Controladores Físicos Maestros.
 
 **114**
 
@@ -1777,9 +1777,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 **Nuestro paso por el séptimo circuito (3)**
 
 11. **Los Ayudantes de los Peregrinos**, dirigen su trabajo para los mortales ascendentes en tres divisiones principales:
-    1. **La comprensión suprema de la Trinidad del Paraíso**
-    2. **La comprensión espiritual de la asociación Padre-Hijo**
-    3. **El reconocimiento intelectual del Espíritu Infinito.**
+  1. **La comprensión suprema de la Trinidad del Paraíso**
+  2. **La comprensión espiritual de la asociación Padre-Hijo**
+  3. **El reconocimiento intelectual del Espíritu Infinito.**
 
 **Cada una de estas fases** de enseñanza se divide y subdivide en numerosas clasificaciones.
 
@@ -1803,9 +1803,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 1. **Cuando nos trasladan al sexto círculo de Havona** llegamos como <ins>espíritus de 4ª fase o de 4º grado,</ins> nos denominan _<ins>«graduados espirituales»</ins>_, y nos colocan bajo la supervisión directa de los <ins>Guías de la Supremacía</ins>.
 2. En este círculo lograremos una <ins>mejor comprensión de Dios Supremo</ins>. Durante nuestra larga carrera de ascensión por los universos evolutivos, habremos experimentado la <ins>conciencia creciente de un supercontrol todopoderoso de las creaciones del espacio-tiempo</ins>. Aquí, en este circuito de Havona, aunque no podamos percibir la presencia personal de Dios Supremo, que reside en este Universo Central, experimentaremos, sin embargo, un <ins>crecimiento transformador, que conlleva</ins>:
-   1. Una nueva integración de su conciencia,
-   2. Una mayor comprensión de su propósito, y
-   3. Una mayor sensibilidad a su divinidad.
+  1. Una nueva integración de su conciencia,
+  2. Una mayor comprensión de su propósito, y
+  3. Una mayor sensibilidad a su divinidad.
 
 **Parece como si Dios Supremo** nos otorgara afectuosamente y hasta los propios límites de nuestras capacidades experienciales, esos aumentos de comprensión intelectual, de perspicacia espiritual y de extensión de la personalidad que tanto necesitaremos para penetrar en el nivel de las Deidades eternas y existenciales del Paraíso.
 
@@ -1900,9 +1900,9 @@ HAY UNA ANALOGÍA ENTRE ESTOS 7 CÍRCULOS DE PROGRESO EN HAVONA Y LOS 7 CÍRCULO
 
 4. **Cuando concluya nuestra experiencia** en los mundos de este segundo círculo, los Guías de los Graduados promulgarán la orden que nos permitirá entrar en el círculo final. Y estos guías nos conducirán personalmente hasta el primer círculo.
 5. **Pero antes de ver qué ocurre en el primer círculo**, <ins>RECORDEMOS</ins> que:
-   - **Al 2º círculo llegan también**, aunque de manera inmediata y directa, aquellos <ins>ascendentes que en los círculos anteriores fracasaron</ins> en su primer esfuerzo de encontrar y reconocer a las Deidades del Paraíso.
-   - **Dichos ascendentes son puestos** bajo la jurisdicción de los Jefes de la Asignación del Paraíso, y enviados directamente a este segundo círculo, donde después de recibir durante un largo tiempo la ayuda y el consuelo de los Consejeros y los Asesores,
-   - **Serán examinados** por los Consejos de la Perfección, que se reúnen en el mundo piloto de este círculo.
+  - **Al 2º círculo llegan también**, aunque de manera inmediata y directa, aquellos <ins>ascendentes que en los círculos anteriores fracasaron</ins> en su primer esfuerzo de encontrar y reconocer a las Deidades del Paraíso.
+  - **Dichos ascendentes son puestos** bajo la jurisdicción de los Jefes de la Asignación del Paraíso, y enviados directamente a este segundo círculo, donde después de recibir durante un largo tiempo la ayuda y el consuelo de los Consejeros y los Asesores,
+  - **Serán examinados** por los Consejos de la Perfección, que se reúnen en el mundo piloto de este círculo.
 
 **144**
 
@@ -2115,13 +2115,13 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 1. **Los Intérpretes de la Ética** son el tercer grupo de Supernafines Primarios que se dedicarán a instruirnos.
 2. **¿Nos suena esto de la ética?**. En realidad, desde nuestro mundo evolutivo Urantia hasta nuestra salida de Havona no habremos dejado de avanzar en la ética, porque cuanto más nos elevamos en la escala de la vida, más atención tenemos que prestar a la ética universal.
 3. **Repasemos brevemente nuestro avance** en ética a lo largo de la carrera ascendente:
-   1. **En Urantia** todos recibimos los Espíritus Ayudantes de la Mente, entre los cuales está el Espíritu de Consejo, que es ese don de la Ministra Divina que nos impulsa a la cooperación con nuestra especie. Muchos de nosotros aprendemos, ya en nuestro mundo de origen, el concepto básico de la ética, que consiste en que cada individuo reconozca y respete los derechos inherentes a los demás. Y a partir de ahí iniciamos nuestro progreso estableciendo relaciones sociales, de trabajo, de amistad e incluso de amor con las personas que son más afines a nosotros.
-   2. **En los Mundos de las Mansiones**, con la mota morontial como nueva base filosófica, participamos en las agrupaciones de la vida morontial, en grupos de trabajo, en organizaciones sociales e incluso en comunidades y, de ese modo, conseguimos grandes logros personales y sociales que nos harán disfrutar más plenamente de los encantos de la vida social y que nos llevarán a buscar un nuevo orden social, donde prime la simpatía, el mutuo aprecio, el amor desinteresado y la motivación compartida de alcanzar amplias metas de perfección.
-   3. **En la capital del sistema** sometemos nuestro yo a la disciplina de las actividades colectivas y de las empresas coordinadas, apreciando la responsabilidad por las tareas de gobierno e incluso participando en el gobierno representativo de Jerusem.
-   4. **En la constelación, la ética tiene un valor destacado**: nuestro objetivo consiste en hacer realmente sociable nuestra personalidad, y descubrimos que en los aspectos intelectuales, sociales y espirituales, <ins>la técnica de la asociación de personas multiplica el potencial de nuestros logros</ins>. En nuestras relaciones con los Univitatias aprendemos una ética mejorada y en Edentia llegamos a dominar la ética colectiva y reconocemos que ésta es el secreto de las relaciones agradables y beneficiosas entre las personalidades inteligentes.
-   5. **En el Universo Local** estudiamos en la Facultad de Ética Superior, donde probablemente realizamos importantes avances en esta materia.
-   6. **En los mundos del Superuniverso** no se nos indican nuevos logros en el campo de la ética, lo que no significa que no los haya.
-   7. **Y en los mundos de Havona** estableceremos relaciones y asociaciones fraternales con miles y miles de grupos de criaturas residentes en ellos y con otros tantos que descienden del Paraíso, realizando en cada caso los ajustes necesarios en nuestra comprensión de la ética.
+  1. **En Urantia** todos recibimos los Espíritus Ayudantes de la Mente, entre los cuales está el Espíritu de Consejo, que es ese don de la Ministra Divina que nos impulsa a la cooperación con nuestra especie. Muchos de nosotros aprendemos, ya en nuestro mundo de origen, el concepto básico de la ética, que consiste en que cada individuo reconozca y respete los derechos inherentes a los demás. Y a partir de ahí iniciamos nuestro progreso estableciendo relaciones sociales, de trabajo, de amistad e incluso de amor con las personas que son más afines a nosotros.
+  2. **En los Mundos de las Mansiones**, con la mota morontial como nueva base filosófica, participamos en las agrupaciones de la vida morontial, en grupos de trabajo, en organizaciones sociales e incluso en comunidades y, de ese modo, conseguimos grandes logros personales y sociales que nos harán disfrutar más plenamente de los encantos de la vida social y que nos llevarán a buscar un nuevo orden social, donde prime la simpatía, el mutuo aprecio, el amor desinteresado y la motivación compartida de alcanzar amplias metas de perfección.
+  3. **En la capital del sistema** sometemos nuestro yo a la disciplina de las actividades colectivas y de las empresas coordinadas, apreciando la responsabilidad por las tareas de gobierno e incluso participando en el gobierno representativo de Jerusem.
+  4. **En la constelación, la ética tiene un valor destacado**: nuestro objetivo consiste en hacer realmente sociable nuestra personalidad, y descubrimos que en los aspectos intelectuales, sociales y espirituales, <ins>la técnica de la asociación de personas multiplica el potencial de nuestros logros</ins>. En nuestras relaciones con los Univitatias aprendemos una ética mejorada y en Edentia llegamos a dominar la ética colectiva y reconocemos que ésta es el secreto de las relaciones agradables y beneficiosas entre las personalidades inteligentes.
+  5. **En el Universo Local** estudiamos en la Facultad de Ética Superior, donde probablemente realizamos importantes avances en esta materia.
+  6. **En los mundos del Superuniverso** no se nos indican nuevos logros en el campo de la ética, lo que no significa que no los haya.
+  7. **Y en los mundos de Havona** estableceremos relaciones y asociaciones fraternales con miles y miles de grupos de criaturas residentes en ellos y con otros tantos que descienden del Paraíso, realizando en cada caso los ajustes necesarios en nuestra comprensión de la ética.
 4. **Ahora, en el Paraíso,** no necesitaremos que nos enseñen la ética, pero sí necesitaremos que nos interpreten adecuadamente aquello que hemos aprendido a lo largo de nuestra carrera ascendente. Y este será el trabajo de nuestros instructores los Intérpretes de la Ética, que nos ayudarán a ajustarnos a los numerosos grupos de seres majestuosos hasta que seamos admitidos oficialmente en el Cuerpo de los Finalistas Mortales.
 
 **162**
@@ -2182,11 +2182,11 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 8. **A veces todo el Paraíso se sumerge en una marea dominante** de expresión espiritual y adoradora. Y a menudo los Conductores de la Adoración no pueden controlar estos fenómenos, hasta que _«la triple de luz de la Deidad»_, indica que el corazón divino del Padre, del Hijo y del Espíritu está completamente satisfecho con la adoración sincera de los residentes del Paraíso y de las criaturas ascendentes del tiempo.
 9. **Después de conseguir la satisfacción suprema de la plenitud de la adoración:**
-   - El curso con los Conductores de la Adoración habrá terminado,
-   - **Estaremos cualificados para ser admitidos** en <ins>el Cuerpo de la Finalidad</ins>.
-   - **Prestaremos el juramento de lealtad** a la Trinidad del Paraíso,
-   - **Se nos considerará espíritus de la 6ª fase**, se nos denominará Graduados Paradisiacos,
-   - **Y seremos enrolados en el Cuerpo de los Finalistas Mortales.**
+  - El curso con los Conductores de la Adoración habrá terminado,
+  - **Estaremos cualificados para ser admitidos** en <ins>el Cuerpo de la Finalidad</ins>.
+  - **Prestaremos el juramento de lealtad** a la Trinidad del Paraíso,
+  - **Se nos considerará espíritus de la 6ª fase**, se nos denominará Graduados Paradisiacos,
+  - **Y seremos enrolados en el Cuerpo de los Finalistas Mortales.**
 
 **168**
 

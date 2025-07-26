@@ -103,7 +103,7 @@ Y aunque no desea evitarnos la adversidad, también nos ha prometido estar a nue
 
 Finalmente, «_...para todo ser humano debería ser un verdadero consuelo comprender que "Él conoce vuestra estructura; se acuerda de que sois polvo_» [LU 3:3.2](/es/The_Urantia_Book/3#p3_2)
 
-De esta manera, la evolución ha conseguido su fin: a través de ese temor supersticioso a lo desconocido y el terror a la enfermedad y a la muerte que constituyen el andamiaje para alcanzar el concepto de Dios, una vez que ha conseguido progresar en el conocimiento sobre Él, la acción coordinada de la revelación (como son las enseñanzas contenidas en El libro de Urantia), esta técnica de crecimiento evolutivo pone en movimiento las fuerzas mentales que, poco a poco, irán destruyendo inexorablemente el andamiaje que, era tras era, ha cumplido ya su misión (cita no textual, [LU 90:3.10](/es/The_Urantia_Book/90#p3_10)).
+De esta manera, la evolución ha conseguido su fin: a través de ese temor supersticioso a lo desconocido y el terror a la enfermedad y a la muerte que constituyen el andamiaje para alcanzar el concepto de Dios, una vez que ha conseguido progresar en el conocimiento sobre Él, la acción coordinada de la revelación (como son las enseñanzas contenidas en _El libro de Urantia_), esta técnica de crecimiento evolutivo pone en movimiento las fuerzas mentales que, poco a poco, irán destruyendo inexorablemente el andamiaje que, era tras era, ha cumplido ya su misión (cita no textual, [LU 90:3.10](/es/The_Urantia_Book/90#p3_10)).
 
 
 

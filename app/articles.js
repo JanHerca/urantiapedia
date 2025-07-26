@@ -391,7 +391,7 @@ class Articles {
 					});
 				} else {
 					lines.forEach((line, i) => {
-						const [title, path, author, tags] = 
+						const [title, filepath, author, tags] = 
 							line.split('\t').map(n => n.trim());
 						const author2 = (author != '' && 
 							!author.startsWith('-') &&
@@ -401,7 +401,7 @@ class Articles {
 							`/${lan}/article/${author2}` : '');
 						if (author === 'is-title') {
 							this.index.title = title;
-							this.index.link = path != '---' ? path : '';
+							this.index.link = filepath != '---' ? filepath : '';
 							this.index.tags = ['Index', 'Article', 
 								...(tags != '---' ? [tags]: [])];
 							this.index.sourceText = 
@@ -421,7 +421,9 @@ class Articles {
 								title: title,
 								line: i,
 								path: indexPath + '#' + issueAnchor,
-								imagePath: path && path != '---' ? path : '',
+								imagePath: filepath && filepath != '---' 
+									? filepath 
+									: '',
 								articles: []
 							};
 							if (currentVolume) {
@@ -438,7 +440,7 @@ class Articles {
 							};
 							currentIssue.articles.push(currentGroup);
 							this.items.push(currentGroup);
-						} else if (currentIssue && title && path) {
+						} else if (currentIssue && title && filepath) {
 							const [ititle, note] = title.split('|');
 							if (note) {
 								this.index.notes[inote] = note;
@@ -448,7 +450,7 @@ class Articles {
 								title: ititle,
 								note: note ? inote : null,
 								line: i,
-								path: path,
+								path: filepath,
 								author: (author != '' && 
 									!author.startsWith('-') ? author : ''),
 								authorLink: authorLink,
@@ -557,9 +559,9 @@ class Articles {
 			const addIssue = issue => {
 				index.push({ title: issue.title, title2: "" });
 				issue.articles.forEach(article => {
-					const {title, path} = article;
-					const filePath = path
-						? path.join(outputFolder, path.replace('/en/', 
+					const {title, path: filepath} = article;
+					const filePath = filepath
+						? path.join(outputFolder, filepath.replace('/en/', 
 							`/${this.language}/`) + '.md')
 						: undefined;
 					index.push({ title, filePath, title2: "" });
@@ -620,10 +622,10 @@ class Articles {
 
 		const addIssue = issue => {
 			issue.articles.forEach(article => {
-				const { title, path } = article;
+				const { title, filepath } = article;
 				index.articles.push({
 					title,
-					path,
+					path: filepath,
 					issue: issue.title
 				});
 			});

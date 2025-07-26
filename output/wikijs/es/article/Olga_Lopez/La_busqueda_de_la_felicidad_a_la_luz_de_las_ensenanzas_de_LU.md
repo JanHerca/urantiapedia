@@ -29,7 +29,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Presentación hecha en la sala Zoom de la AUE el 10 de mayo de 2019
 
-Vivimos en unos tiempos en los que parece que la felicidad es la meta última de nuestra vida, aunque su búsqueda ha sido una constante en la historia de la humanidad. ¿Quién no recuerda, por ejemplo, a los epicúreos, dedicados exclusivamente a la búsqueda de este valor tan huidizo y efímero? Por no mencionar a los judíos de los tiempos de Jesús, que pensaban en el establecimiento de un nuevo reino de Dios, en el que sus ciudadanos «se volverían inmortales disfrutando de esta felicidad sin fin» (1500.4) 135.5.4
+Vivimos en unos tiempos en los que parece que la felicidad es la meta última de nuestra vida, aunque su búsqueda ha sido una constante en la historia de la humanidad. ¿Quién no recuerda, por ejemplo, a los epicúreos, dedicados exclusivamente a la búsqueda de este valor tan huidizo y efímero? Por no mencionar a los judíos de los tiempos de Jesús, que pensaban en el establecimiento de un nuevo reino de Dios, en el que sus ciudadanos «se volverían inmortales disfrutando de esta felicidad sin fin» [LU 135:5.4](/es/The_Urantia_Book/135#p5_4)
 
 Hay miles de libros dedicados a la búsqueda de la felicidad que nos venden recetas para ser felices y que garantizan resultados si seguimos los pasos que nos indican. Los anuncios publicitarios también «venden» felicidad en forma de productos. ¿Recordáis aquel anuncio de Coca-Cola cuyo lema era «Destapa la felicidad»? ¡Incluso se atrevían a identificar la felicidad con un refresco de cola!
 
@@ -114,7 +114,7 @@ Desafortunadamente, su doctrina fue desvirtuada por sus sucesores, que se centra
 > ... Sus seguidores pasaron por alto el hecho de que la felicidad suprema está unida a la persecución inteligente y entusiasta de unas metas nobles, y que estos logros constituyen un verdadero progreso en la autorrealización cósmica. [LU 94:8.17](/es/The_Urantia_Book/94#p8_17)
 
 A pesar de las distorsiones que sufrieron las enseñanzas de Gautama, el budismo ha conservado una buena parte de los valores transmitidos por su fundador:
- 
+
 > El budismo es hoy una religión viviente y creciente porque consigue conservar una gran parte de los valores morales más elevados de sus adeptos. Fomenta la calma y el dominio de sí mismo, aumenta la serenidad y la felicidad, y contribuye mucho a impedir la tristeza y la aflicción. Aquellos que creen en esta filosofía viven una vida mejor que muchos de los que no creen en ella. [LU 94:9.6](/es/The_Urantia_Book/94#p9_6)
 
 Hace ya unas décadas que las enseñanzas budistas empezaron a calar en occidente, y muchos desengañados del cristianismo y sus enseñanzas sobre la culpa abrazaron estas otras creencias que al menos nos hacían responsables únicamente de nuestros actos, sin cargar con las culpas heredadas de un nebuloso pecado original. Esto es mucho más liberador y generador de felicidad de lo que podría parecer a simple vista. Eso sí, la felicidad definitiva solo se consigue en el Paraíso, como recompensa final por la fe. Veamos este párrafo en el que se habla de una de las variantes del budismo, la creencia en el Amida Buda:

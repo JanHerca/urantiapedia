@@ -304,7 +304,7 @@ Empezaremos por el recorrido que realizó la comitiva que llevaba a Jesús y los
 
 El párrafo 187:0.3 describe la partida del pretorio:
 
-> «Justo antes de las nueve de esta mañana los soldados salieron con Jesús desde el pretorio de camino al Gólgota. Fueron seguidos por mucha gente que simpatizaba secretamente con Jesús, pero la mayor parte de este grupo de doscientas o más personas eran o bien sus enemigos o bien ociosos curiosos que deseaban meramente disfrutar del impacto de presenciar las crucifixiones. Solo algunos líderes judíos salieron a ver a Jesús morir en la cruz. Sabiendo que Pilatos lo había puesto en manos de los soldados romanos y que estaba condenado a muerte, los demás se dedicaron a celebrar su reunión en el templo, donde hablaron sobre lo que había de hacerse con sus seguidores.» [LU 187:0.3](/es/The_Urantia_Book/187#p0_3)
+> «Justo antes de las nueve de esta mañana los soldados salieron con Jesús desde el pretorio de camino al Gólgota. Fueron seguidos por mucha gente que simpatizaba secretamente con Jesús, pero la mayor parte de este grupo de doscientas o más personas eran o bien sus enemigos o bien ociosos curiosos que deseaban meramente disfrutar del impacto de presenciar las crucifixiones. Solo algunos líderes judíos salieron a ver a Jesús morir en la cruz. Sabiendo que Pilatos lo había puesto en manos de los soldados romanos y que estaba condenado a muerte, los demás se dedicaron a celebrar su reunión en el templo, donde hablaron sobre lo que había de hacerse con sus seguidores.» [LU 187:0.4](/es/The_Urantia_Book/187#p0_4)
 
 El párrafo clave para conocer este recorrido es el 187:1.4, que dice:
 
@@ -401,9 +401,9 @@ En las figuras 15 y 16 se señala ese lugar en el mapa. Se puede comprobar que e
 
 ## 10. La tumba de Jesús
 
-Las indicaciones que el libro nos da sobre esta tumba están en 188:1.3:
+Las indicaciones que el libro nos da sobre esta tumba están en 188:1.2:
 
-> «Una persona crucificada no podía ser enterrada en un cementerio judío; había una ley estricta que lo prohibía. José y Nicodemo conocían esta ley, y de camino hacia el Gólgota habían decidido enterrar a Jesús en la nueva tumba de la familia de José, tallada en sólida roca y situada a corta distancia al norte del Gólgota, al otro lado de la calzada que conducía a Samaria.» [LU 188:1.3](/es/The_Urantia_Book/188#p1_3)
+> «Una persona crucificada no podía ser enterrada en un cementerio judío; había una ley estricta que lo prohibía. José y Nicodemo conocían esta ley, y de camino hacia el Gólgota habían decidido enterrar a Jesús en la nueva tumba de la familia de José, tallada en sólida roca y situada a corta distancia al norte del Gólgota, al otro lado de la calzada que conducía a Samaria.» [LU 188:1.2](/es/The_Urantia_Book/188#p1_2)
 
 La Tumba del jardín esta al norte y un poco al oeste del lugar probable de la crucifixión, a corta distancia (unos 100 mts.) y al otro lado de «la calzada que conducía a Samaria». Su entrada tiene orientación sudeste lo que coindice también con lo que dice el libro en 189:4.6:
 

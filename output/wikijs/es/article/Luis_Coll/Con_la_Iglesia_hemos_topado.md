@@ -63,9 +63,9 @@ Entonces tú también puedes empezar la mayor aventura de todas – la del hombr
 
 > ......tenéis que avanzar desde el lugar donde os encontráis ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
-> Pero si realmente lo queréis, pero si verdaderamente lo deseáis, seguramente la herencia de las edades será vuestra, y algún día serviréis a lo largo y a lo ancho de los universos en vuestro carácter verdadero: hijos del Dios Supremo de la experiencia e hijos divinos del Padre del Paraíso de todas las personalidades.([LU 112:7.19](/es/The_Urantia_Book/112#p7_19))
+> Pero si realmente lo queréis, pero si verdaderamente lo deseáis, seguramente la herencia de las edades será vuestra, y algún día serviréis a lo largo y a lo ancho de los universos en vuestro carácter verdadero: hijos del Dios Supremo de la experiencia e hijos divinos del Padre del Paraíso de todas las personalidades. ([LU 112:7.19](/es/The_Urantia_Book/112#p7_19))
 
-## L.Coll
+L.Coll
 
 Nota: Para un estudio más detallado sobre este tema. –Libro de Urantia capítulos [LU 194](/es/The_Urantia_Book/194), [LU 195](/es/The_Urantia_Book/195), [LU 196](/es/The_Urantia_Book/196).
 
@@ -73,8 +73,7 @@ Nota: Para un estudio más detallado sobre este tema. –Libro de Urantia capít
 
 ## Referencias
 
-- [Este artículo en la web de la Asociación Urantia de España](
-https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ConlaIglesia.pdf)
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ConlaIglesia.pdf)
 
 
 <figure class="table chapter-navigator">

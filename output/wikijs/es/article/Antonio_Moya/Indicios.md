@@ -511,7 +511,7 @@ No buscan una intencionalidad en el universo. Sólo buscan causas físicas, no c
 
 > «La ciencia supone que los dones intelectuales y filosóficos del hombre surgieron de unas inteligencias cada vez menores a medida que se alejan más en el pasado, teniendo finalmente su origen en la vida primitiva que estaba totalmente desprovista de todo pensamiento y de todo sentimiento.» ([LU 102:6.8](/es/The_Urantia_Book/102#p6_8))
 
-«Una causación desprovista de mente no puede transformar lo rudimentario y lo simple en elementos refinados y complejos.» ([LU 130:4.5](/es/The_Urantia_Book/130#p4_5))
+> «Una causación desprovista de mente no puede transformar lo rudimentario y lo simple en elementos refinados y complejos.» ([LU 130:4.5](/es/The_Urantia_Book/130#p4_5))
 
 Es opinión del que esto escribe de que hay científicos que son capaces de apoyar cualquier teoría de lo más peregrina y poco razonable (incluso en contra de toda lógica y coherencia), con tal de no contemplar la posibilidad de que este universo pueda ser intencional.
 

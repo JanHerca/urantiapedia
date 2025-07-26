@@ -148,7 +148,7 @@ _McGraw-Hill Encyclopedia of Science \& Technology_, 4th ed.
 
 ## Notas
 
-[^1]: LU 0:0.6 «Llamamos generalmente _gran universo_ a los siete superuniversos en evolución en asociación con el universo central y divino; éstas son las creaciones organizadas y habitadas actualmente».
+[^1]: [LU 0:0.6](/es/The_Urantia_Book/0#p0_6) «Llamamos generalmente _gran universo_ a los siete superuniversos en evolución en asociación con el universo central y divino; éstas son las creaciones organizadas y habitadas actualmente».
 
 [^2]: [LU 0:0.5](/es/The_Urantia_Book/0#p0_5). «Vuestro mundo, Urantia, es uno de los muchos planetas habitados similares que componen el universo local de Nebadon. Este universo, junto con otras creaciones semejantes, forman el superuniverso de Orvonton, [...] uno de los siete superuniversos evolutivos del tiempo y del espacio que rodean al universo central de Havona [...]. En el núcleo de este universo central y eterno se encuentra la Isla estacionaria del Paraíso».
 

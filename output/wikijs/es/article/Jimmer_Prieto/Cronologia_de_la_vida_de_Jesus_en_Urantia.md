@@ -1014,7 +1014,7 @@ Mientras un gran número de visitantes de todas partes de Palestina e incluso de
 Jesús, Pedro, Santiago y Juan se encontraban en las colinas cuando fueron llegando de dos en dos al campamento de Pella, el grupo de los setenta mensajeros, acompañados de numerosos creyentes. [LU 163:6.1](/es/The_Urantia_Book/163#p6_1)
 
 30 de diciembre
-Durante la noche, Jesús escucha las historias que traían los 70 maestros de la Buena Nueva. «_... yo mismo he visto a Satanás caer del cielo como un rayo_». [LU 163:6.2](/es/The_Urantia_Book/163#p6_2) ([Lc. 10:17-20](/es/Bible/Luke/10#v17)
+Durante la noche, Jesús escucha las historias que traían los 70 maestros de la Buena Nueva. «_... yo mismo he visto a Satanás caer del cielo como un rayo_». [LU 163:6.2](/es/The_Urantia_Book/163#p6_2) ([Lc. 10:17-20](/es/Bible/Luke/10#v17))
 
 Diciembre 31
 Sábado. Jesús habló ante los setenta misioneros. «_Habéis emprendido la gran tarea de enseñar al hombre mortal que es un hijo de Dios_». [LU 163:6.7](/es/The_Urantia_Book/163#p6_7)
@@ -1024,7 +1024,7 @@ Principios de enero
 Fase final del trabajo del reino caracterizada por la profundidad espiritual. Preparación para la misión en Perea. El cuerpo de mujeres también se preparó para salir en grupos de a dos, acompañando a los setenta. [LU 163:7.1-3](/es/The_Urantia_Book/163#p7_1)
 
 3 de enero
-Abner dió instrucciones finales a los setenta mensajeros que estaban a punto de ser enviados en una larga misión de casi tres meses por todas las ciudades y pueblos de Perea. Esta misión fue el último ministerio del Maestro. Con la participación de un frente de 62 mujeres periódicamente supervisado por Jesús y los doce apóstoles, la misión se extendió a Zafón, Gadara, Macad, Arbela, Ramat, Endrei, Bosora, Caspin, Mispé, Gérasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Gilead, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhue, Bet-Peor, Sitim, Sibma, Medeba, Met-Meón, Areópolis y Aroer.) [LU 165:0.1](/es/The_Urantia_Book/165#p0_1)
+Abner dió instrucciones finales a los setenta mensajeros que estaban a punto de ser enviados en una larga misión de casi tres meses por todas las ciudades y pueblos de Perea. Esta misión fue el último ministerio del Maestro. Con la participación de un frente de 62 mujeres periódicamente supervisado por Jesús y los doce apóstoles, la misión se extendió a Zafón, Gadara, Macad, Arbela, Ramat, Endrei, Bosora, Caspin, Mispé, Gérasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Gilead, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhue, Bet-Peor, Sitim, Sibma, Medeba, Met-Meón, Areópolis y Aroer. [LU 165:0.1](/es/The_Urantia_Book/165#p0_1)
 
 Mediados de enero
 Más de 1200 personas se reunieron en Pella. Jesús enseñaba a la multitud por lo menos una vez por día. Para finales de enero la multitud que se reunía los sábados por la tarde llegaba casi a los 3000. Para mediados de marzo la asistencia a las sesiones de enseñanza aumentó a más de 4,000. [LU 165:1.1-2](/es/The_Urantia_Book/165#p1_1) En una sesión donde estaban presentes los líderes judíos de Jerusalén y los apóstoles, Jesús enseñó la parábola del redil. «_El verdadero pastor cuando llega la mañana, entra en el corral por la puerta y cuando llama, las ovejas conocen su voz_» ([Jn. 10:1-6](/es/Bible/John/10#v1))
