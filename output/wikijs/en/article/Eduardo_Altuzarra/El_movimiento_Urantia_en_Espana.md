@@ -894,8 +894,7 @@ Days after this meeting, Mariano Pérez and Fernando Carazo, members of the Madr
 
 http://www.ecocentro.es/?Section=Activity\&Subsection=13\&month=11\&year=2014\&day=30
 
-The readers of _The Urantia Book_ gathered once again in Cartagena, Murcia, to celebrate the 14th National Meeting from April 30 to May 3, 2015. That year, we had the invaluable help of the Murcia Study Group in organizing the meeting in this corner of the eastern peninsula. It's also worth mentioning that Antonio Schefer, president of the UAI Conference Committee, joined us for the first time. His company was very pleasant.
-and offered to collaborate with the board members in their outreach efforts. [14th Meeting](http://www.librodeurantia.es/?q=node/365) [Light and Life No. 40](http://www.librodeurantia.es/sites/default/files/LyV40.pdf)
+The readers of _The Urantia Book_ gathered once again in Cartagena, Murcia, to celebrate the 14th National Meeting from April 30 to May 3, 2015. That year, we had the invaluable help of the Murcia Study Group in organizing the meeting in this corner of the eastern peninsula. It's also worth mentioning that Antonio Schefer, president of the UAI Conference Committee, joined us for the first time. His company was very pleasant and offered to collaborate with the board members in their outreach efforts. [14th Meeting](http://www.librodeurantia.es/?q=node/365) [Light and Life No. 40](http://www.librodeurantia.es/sites/default/files/LyV40.pdf)
 
 In the Urantia Association of Brazil's virtual conference room, Olga López gave a lecture entitled “THE HAND THAT ROCKS THE CRADLE” at 9:00 p.m. on May 31.
 

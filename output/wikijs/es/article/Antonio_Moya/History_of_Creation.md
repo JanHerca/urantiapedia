@@ -648,9 +648,7 @@ Nuestro estudio del universo maestro ha concluido. Pero éste no es el final de 
    5. EL NIVEL EVOLUTIVO.- En este nivel encontramos la creatividad unida al tiempo, una creatividad en la que las mismas criaturas pueden participar. En este nivel, incluso la Deidad evoluciona.
 - ***<ins>C. NIVELES ENTRANTES</ins>.*** Estos niveles se denominan «entrantes» porque en ellos la Deidad consolida y unifica todo lo que ha sucedido. La primera consolidación la efectúa en los niveles finitos, la segunda en los niveles absonitos.
    6. EL NIVEL SUPREMO.- Éste es el nivel de la Deidad en relación con lo finito. En este nivel, la Deidad consolida todas las actividades finitas y las unifica en el Supremo.
-   7. EL NIVEL ÚLTIMO.- Éste es el nivel de la Deidad en relación con lo absonito. En este nivel, la
-
-Deidad consolida todas las actividades absonitas y las unifica en el Último.
+   7. EL NIVEL ÚLTIMO.- Éste es el nivel de la Deidad en relación con lo absonito. En este nivel, la Deidad consolida todas las actividades absonitas y las unifica en el Último.
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/History_of_Creation/11.jpg">

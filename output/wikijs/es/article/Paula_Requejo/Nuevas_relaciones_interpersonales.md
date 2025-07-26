@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Las relaciones interpersonales son interacciones entre personas. Estas interacciones producen vínculos, y estos vínculos están basados en los sentimientos, las emociones, los intereses, las actividades familiares y sociales.
 
-Para que las personas nos relacionemos es clave $y$ fundamental la comunicación. Las relaciones interpersonales son la base de la vida en sociedad.
+Para que las personas nos relacionemos es clave y fundamental la comunicación. Las relaciones interpersonales son la base de la vida en sociedad.
 
 ## Cuántos TIPOS DE RELACIONES INTERPERSONALES podemos encontrar:
 
@@ -139,7 +139,7 @@ Pero a partir de la quinta revelación ¿deberíamos considerar una nueva forma 
 
 ¿Qué es Dios? Dios es amor, es verdad, es belleza, es bondad. Pero los reveladores nos han confirmado algo fundamental: el Padre Universal es una PERSONA. Y como ellos mismos aclaran desde el documento primero, «solo una PERSONA puede AMAR y SER amada» [LU 1:7.3](/es/The_Urantia_Book/1#p7_3)
 
-Por la quinta revelación sabemos que una chispa divina nos habita. $Y$ si realmente somos conscientes y sentimos que él nos habita, podemos considerar que esta relación personal con Dios es la que nos va a llevar a vivir una vida plena, llena de sorpresas, de incertidumbres, de inevitabilidades. Una relación donde si nuestra mirada la hacemos suya, miraremos a los demás con amor, con ganas de servir. Una relación que sobre todo y a pesar de todo, nos hará sentir SIEMPRE acompañados.
+Por la quinta revelación sabemos que una chispa divina nos habita. Y si realmente somos conscientes y sentimos que él nos habita, podemos considerar que esta relación personal con Dios es la que nos va a llevar a vivir una vida plena, llena de sorpresas, de incertidumbres, de inevitabilidades. Una relación donde si nuestra mirada la hacemos suya, miraremos a los demás con amor, con ganas de servir. Una relación que sobre todo y a pesar de todo, nos hará sentir SIEMPRE acompañados.
 
 Esta es la relación más importante que debemos cultivar y cuidar, porque es la que nos hace trascender, la que nos lleva de la mano, junto a las demás personas con las que compartimos el camino. Esta relación es la que nos lleva hacia Él, hasta el abrazo con su Persona. Y ¿podéis imaginar mejor abrazo que este?
 

@@ -894,8 +894,7 @@ Días después de esta reunión, Mariano Pérez y Fernando Carazo, miembros pert
 
 http://www.ecocentro.es/?Section=Activity\&Subsection=13\&month=11\&year=2014\&day=30
 
-Los lectores de _El libro de Urantia_, un año más nos reunimos en Cartagena, Murcia, para celebrar el XIV Encuentro Nacional desde el 30 de abril al 3 de mayo de 2015. Ese año contamos con la inestimable ayuda del Grupo de Estudio de Murcia para organizar el Encuentro en este rincón del Levante peninsular. También hay que decir que nos acompañó por primera vez Antonio Schefer, presidente del comité de conferencias de la AUI. Su compañía fue muy agradable
-y se ofreció para colaborar con los miembros de la junta directiva en los trabajos de divulgación. [XIV Encuentro](http://www.librodeurantia.es/?q=node/365) [Luz y Vida № 40](http://www.librodeurantia.es/sites/default/files/LyV40.pdf)
+Los lectores de _El libro de Urantia_, un año más nos reunimos en Cartagena, Murcia, para celebrar el XIV Encuentro Nacional desde el 30 de abril al 3 de mayo de 2015. Ese año contamos con la inestimable ayuda del Grupo de Estudio de Murcia para organizar el Encuentro en este rincón del Levante peninsular. También hay que decir que nos acompañó por primera vez Antonio Schefer, presidente del comité de conferencias de la AUI. Su compañía fue muy agradable y se ofreció para colaborar con los miembros de la junta directiva en los trabajos de divulgación. [XIV Encuentro](http://www.librodeurantia.es/?q=node/365) [Luz y Vida № 40](http://www.librodeurantia.es/sites/default/files/LyV40.pdf)
 
 En la sala virtual de la Asociación Urantia de Brasil, Olga López dio una conferencia titulada «LA MANO QUE MECE LA CUNA» a las 21:00 horas el día 31 de mayo.
 

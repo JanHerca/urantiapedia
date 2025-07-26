@@ -648,9 +648,7 @@ Our study of the master universe has concluded. But this is not the end of the s
    5. THE EVOLUTIONARY LEVEL.- At this level, we find creativity linked to time, a creativity in which creatures themselves can participate. At this level, even the Deity evolves.
 - ***<ins>C. INCOMING LEVELS</ins>.*** These levels are called “incoming” because in them the Deity consolidates and unifies all that has happened. The first consolidation is effected in the finite levels, the second in the absonite levels.
    6. THE SUPREME LEVEL.- This is the level of Deity in relation to the finite. At this level, Deity consolidates all finite activities and unifies them in the Supreme.
-   7. THE ULTIMATE LEVEL.- This is the level of the Deity in relation to the absonite. At this level, the
-
-Deity consolidates all absonite activities and unifies them in the Ultimate.
+   7. THE ULTIMATE LEVEL.- This is the level of the Deity in relation to the absonite. At this level, the Deity consolidates all absonite activities and unifies them in the Ultimate.
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Spain_Association/History_of_Creation/11.jpg">
