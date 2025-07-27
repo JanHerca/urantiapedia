@@ -91,7 +91,7 @@ La familia desembarca en Jope y luego se dirige a Belén, ciudad en la que Marí
 
 Año 4 antes del calendario
 Principios de octubre
-Parten de Belén rumbo a Nazaret por el camino de Lida y Escitópolis, llegando a Nazaret al cuarto día de viaje. [LU 123:0.6](/es/The_Urantia_Book/123#p0_6) ([Mt. 2:23](/es/Bible/Matthew/2#v23)) (Lc. 2:39)
+Parten de Belén rumbo a Nazaret por el camino de Lida y Escitópolis, llegando a Nazaret al cuarto día de viaje. [LU 123:0.6](/es/The_Urantia_Book/123#p0_6) ([Mt. 2:23](/es/Bible/Matthew/2#v23)) ([Lc. 2:39](/es/Bible/Luke/2#v39))
 
 ### Año 4 de Jesús
 
@@ -706,8 +706,7 @@ Los espías acusan a los apóstoles de violar el Sábado. El evento de los grano
 El grupo apostólico llega en barco a Betsaida, procedentes de Tariquea. [LU 147:7.1](/es/The_Urantia_Book/147#p7_1)
 
 4 de mayo
-Los espías le preguntan a Jesús por qué él no ordena a sus discípulos a ayunar y orar como ayunaban los fariseos. «_¿Acaso ayunan los pajes de honor cuando el novio está con ellos? Mientras el novio permanece con ellos, dificilmente pueden ayunar. Pero se acerca la hora..._» [LU 147:7.2](/es/The_Urantia_Book/147#p7_2)
-([Mt. 9:14-17](/es/Bible/Matthew/9#v14)) ([Mc. 2:18-22](/es/Bible/Mark/2#v18)) ([Lc. 5:33-39](/es/Bible/Luke/5#v33))
+Los espías le preguntan a Jesús por qué él no ordena a sus discípulos a ayunar y orar como ayunaban los fariseos. «_¿Acaso ayunan los pajes de honor cuando el novio está con ellos? Mientras el novio permanece con ellos, dificilmente pueden ayunar. Pero se acerca la hora..._» [LU 147:7.2](/es/The_Urantia_Book/147#p7_2) ([Mt. 9:14-17](/es/Bible/Matthew/9#v14)) ([Mc. 2:18-22](/es/Bible/Mark/2#v18)) ([Lc. 5:33-39](/es/Bible/Luke/5#v33))
 
 3 de mayo a 3 de octubre
 El Campamento de Betsaida bajo la supervision de David Zebedeo y los gemelos Alfeo. Durante estos cinco meses también se creó una «nueva escuela de los profetas» operada bajo la guía de Pedro y un hospital bajo la dirección de Elman. El campamento fue visitado por miles de personas del imperio romano y países al este del Eufrates; fueron entrenados 117 nuevos evangelistas. [LU 148:0.1](/es/The_Urantia_Book/148#p0_1)
@@ -982,7 +981,7 @@ Noviembre 4 al 19
 Jesús y los apóstoles dirigieron un curso de entrenamiento intensivo para un grupo de creyentes, de los cuales Jesús escogió posteriormente setenta maestros para proclamar el evangelio del reino. [LU 163:0.1](/es/The_Urantia_Book/163#p0_1)
 
 19 de noviembre
-Este sábado, Jesús ordenó a los setenta maestros y predicadores del evangelio; Abner fue colocado a la cabeza de ellos. También estaban presentes David Zebedeo y la mayoría del grupo de sus mensajeros, más de cuatrocientos creyentes, quienes presenciaron la ordenación. Arrodillados en círculo a su alrededor, el Maestro impuso sus manos sobre la cabeza de cada uno de ellos. «Os envío como corderos en medio de lobos». [LU 163:1.1-3](/es/The_Urantia_Book/163#p1_1) ([[Lc. 10:1-12](/es/Bible/Luke/10#v1](/es/Bible/Luke/10#v1))
+Este sábado, Jesús ordenó a los setenta maestros y predicadores del evangelio; Abner fue colocado a la cabeza de ellos. También estaban presentes David Zebedeo y la mayoría del grupo de sus mensajeros, más de cuatrocientos creyentes, quienes presenciaron la ordenación. Arrodillados en círculo a su alrededor, el Maestro impuso sus manos sobre la cabeza de cada uno de ellos. «Os envío como corderos en medio de lobos». [LU 163:1.1-3](/es/The_Urantia_Book/163#p1_1) ([Lc. 10:1-12](/es/Bible/Luke/10#v1))
 Después de hablar con Jesús, más de una docena de candidatos ya no desearon convertirse en mensajeros del evangelio. Lo que cuesta seguir a Jesús. El diálogo con el joven rico. «_Si quieres ser mi mensajero, ve a vender todo lo que posees; cuando hayas dado el producto a los pobres..._» [LU 163:1.4](/es/The_Urantia_Book/163#p1_4) ([Lc. 18:18-29](/es/Bible/Luke/18#v18)) ([Mt. 19:16-30](/es/Bible/Matthew/19#v16)) ([Mc. 10:17-31](/es/Bible/Mark/10#v17))
 
 20 de noviembre

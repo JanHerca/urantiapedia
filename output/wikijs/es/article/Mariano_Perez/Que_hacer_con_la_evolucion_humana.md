@@ -71,7 +71,7 @@ Pero no hemos hablado de los beneficios que supone esta mejora. Vamos a ver qué
 
 ### Beneficios de la mejora biológica
 
-> _La amalgamación de las razas evolutivas con los hijos de Adán acrecienta y sella todas estas relaciones, teniendo como resultado el mejoramiento inmediato del estado biológico, la estimulación del potencial intelectual y el aumento de la receptividad espiritual._ [LU 51:6](/es/The_Urantia_Book/51#p6)
+> _La amalgamación de las razas evolutivas con los hijos de Adán acrecienta y sella todas estas relaciones, teniendo como resultado el mejoramiento inmediato del estado biológico, la estimulación del potencial intelectual y el aumento de la receptividad espiritual._ [LU 51:6.1](/es/The_Urantia_Book/51#p6_1)
 
 > _La donación del plasma vital adámico a las razas mortales tiene como resultado una elevación inmediata de la capacidad intelectual y una aceleración del progreso espiritual. También hay habitualmente cierto mejoramiento físico._ [LU 52:3.5](/es/The_Urantia_Book/52#p3_5)
 
