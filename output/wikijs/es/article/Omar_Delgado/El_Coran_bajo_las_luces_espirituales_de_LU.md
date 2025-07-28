@@ -842,8 +842,7 @@ _(Les hemos enviado con) pruebas claras de la verdad y Escrituras. Y a ti te hem
 
 [Corán 7-10](/es/book/Islam/Quran/7#v10) _En verdad que os hemos establecido en la Tierra (Oh seres humanos, proporcionándoles un gran potencial) y os hemos encargado de vuestros medios de subsistencia. Apenas agradecéis._
 
-[Corán 8-24](/es/book/Islam/Quran/8#v24) _¡Oh vosotros que creéis! Responded a Dios y a al Mensajero cuando el Mensajero os llame (en el nombre de Dios) a lo que os da vida, y sabed que Dios_
-«interviene» entre la persona y el corazón y que seréis reunidos ante Él.
+[Corán 8-24](/es/book/Islam/Quran/8#v24) _¡Oh vosotros que creéis! Responded a Dios y a al Mensajero cuando el Mensajero os llame (en el nombre de Dios) a lo que os da vida, y sabed que Dios «interviene» entre la persona y el corazón y que seréis reunidos ante Él._
 
 [LU 108:6.1](/es/The_Urantia_Book/108#p6_1) _Es realmente una maravilla de condescendencia divina que los excelsos y perfectos Ajustadores se ofrezcan a si mismos para existir verdaderamente en la mente de los mortales de Urantia, para efectivamente consumar la unión de prueba con los seres de origen animal en la Tierra._
 
@@ -853,7 +852,7 @@ Es poco lo que las religiones comprenden tanto de Dios, como de Dios en el hombr
 
 Tenemos en nuestra mente y cultura un Dios lejano (sin saber dónde está). La Revelación tiene el propósito de ayudarnos a entender de manera conceptual el Dios interior nuestro y Padre en nuestra experiencia humana y ascendente en el Gran Mas Allá (como dice el Corán). Como también se encuentra el Espíritu de la Verdad que acompaña a nuestras almas vivientes.
 
-[Corán 16-102](/es/book/Islam/Quran/16#v102) _Di (Diles a ellos, Oh Mensajero): «Mi Señor afirma): «El espíritu d Santidad lo trae de tu Señor con la Verdad (encarnando la verdad y con nada falso en él), para que confirme a los que creen (fortaleciéndoles en su fe y su adhesión al camino de Dios) y como guía y buenas nuevas para los musulmanes (aquellos que se han sometido totalmente a Dios)».»_
+[Corán 16-102](/es/book/Islam/Quran/16#v102) _Di (Diles a ellos, Oh Mensajero): «Mi Señor afirma: «El espíritu d Santidad lo trae de tu Señor con la Verdad (encarnando la verdad y con nada falso en él), para que confirme a los que creen (fortaleciéndoles en su fe y su adhesión al camino de Dios) y como guía y buenas nuevas para los musulmanes (aquellos que se han sometido totalmente a Dios)».»_
 
 [Corán 18-24](/es/book/Islam/Quran/18#v24) _Y recuerda a Tu Señor cuando olvides y di: "Espero que mi Señor me guie me guíe hacia lo que está más cerca de la conducta correcta que esto (mi olvido)_
 
@@ -867,8 +866,9 @@ _Y Quien, cuando caigo enfermo, me sana._
 
 _Y Quien me hará morir y entonces me concederá la vida nueva._
 
-_Y Quien, espero, me perdonará mis pecados en el Día del Juicio Final.
-¡Señor mío! Concédeme un recto y buen juicio, y reúneme con los rectos._
+_Y Quien, espero, me perdonará mis pecados en el Día del Juicio Final._
+
+_¡Señor mío! Concédeme un recto y buen juicio, y reúneme con los rectos._
 
 [Corán 40-15](/es/book/Islam/Quran/40#v15) _Él se halla por encima de todos los grados, Dueño del Trono Supremo. Él transmite el espíritu (La Revelación que da vida, desde el reino inmaterial) de Su Orden a quien su Voluntad dicta de Sus siervos, para advertir (a los seres conscientes y responsables) del día del encuentro (cuando Sus siervos se encontraran con Él)._
 
@@ -982,7 +982,7 @@ _Mientras que la vida del Más Allá es mejor y más duradera._
 
 [Corán 3-25](/es/book/Islam/Quran/3#v25) _¿Qué suerte correrán cuándo les reunamos a todos para un Día sobre (cuya venida) no hay duda alguna, y cuando cada alma se le restituya por completo lo que haya ganado (mientras estuvieron en este mundo), sin que nadie sea tratado injustamente?_
 
-[Mateo 25-14,30](/es/Bible/Matthew/25#v14) 14 _porque el reino de los cielos es como un hombre que, yéndose lejos, llamó a sus siervos y les entregó sus _bienes.
+[Mateo 25-14,30](/es/Bible/Matthew/25#v14) 14 _porque el reino de los cielos es como un hombre que, yéndose lejos, llamó a sus siervos y les entregó sus _bienes._
 
 15 _a uno dio cinco talentos, y a otro dos, y a otro uno, a cada uno conforme a su capacidad; y luego se fue lejos._
 
@@ -2074,7 +2074,7 @@ _Nuestras Revelaciones, os purifica (de falsas creencias, faltas y todo tipo de 
 
 [LU 93:9.11](/es/The_Urantia_Book/93#p9_11) _Pero uno de los escritores del Libro de los Hebreos comprendió la misión de Melquisedek, porque está escrito: «Este Melquisedek, sacerdote del Altísimo, era un rey de paz; sin padre, sin madre, sin genealogía, que ni tiene principio de días ni de fin de vida, sino hecho semejante al Hijo de Dios, permanece sacerdote para siempre». Este escritor definió a Melquisedek en la misma clase posteriormente representada por el autootorgamiento de Micael, afirmando que Jesús era un «ministro para siempre de la orden de Melquisedek». Aunque esta comparación no fue muy afortunada, era literalmente verdad que Cristo recibió el título provisional a Urantia «por orden de los doce síndicos Melquisedek» de servicio al tiempo de su autootorgamiento en el mundo._
 
-[Hebreos 7-1](/es/book/Islam/Quran/7#v1) _Porque este Melquisedec, rey de Salem, sacerdote del Dios Altísimo, que salió a recibir a Abraham que volvía de la derrota de los reyes, y le bendijo,_
+[Hebreos 7-1](/es/Bible/Hebrews/7#v1) _Porque este Melquisedec, rey de Salem, sacerdote del Dios Altísimo, que salió a recibir a Abraham que volvía de la derrota de los reyes, y le bendijo,_
 
 2 _quien asimismo dio Abraham los diezmos de todo; cuyo nombre significa primeramente Rey de justicia, y también Rey de Salem, esto es, Rey de paz;_
 
