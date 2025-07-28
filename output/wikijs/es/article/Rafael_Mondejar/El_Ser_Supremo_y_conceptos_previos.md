@@ -505,7 +505,7 @@ Su primer objetivo consiste en culminar su propia realidad. Esa culminación sup
 
 <ins>El cuarto objetivo del Ser Supremo</ins>, será participar, <ins>en la Segunda Trinidad Experiencial</ins> [posible enlace para recordar] o también llamada Trinidad Absoluta, donde estará en compañía de Dios Último y del Consumador no Revelado del Destino del Universo.
 
- Por último, podría ser <ins>un quinto objetivo del Ser Supremo</ins>, su <ins>participación en la tal vez posible Trinidad de Trinidades</ins>, pero eso ya es mucho aventurar hasta para los más expertos filósofos del universo.
+Por último, podría ser <ins>un quinto objetivo del Ser Supremo</ins>, su <ins>participación en la tal vez posible Trinidad de Trinidades</ins>, pero eso ya es mucho aventurar hasta para los más expertos filósofos del universo.
 
 ### 6. ¿Qué hace El Ser Supremo y dónde lo hace? ¿Cuáles son SUS FUNCIONES?
 
@@ -598,8 +598,7 @@ Más concretamente, intervienen en el desarrollo del Ser Supremo y, por tanto, s
 
 <ins>Los Hijos Creadores o Migueles</ins>, que en sus donaciones a las diversas órdenes de su creación, adquieren la naturaleza y el punto de vista cósmico de sus hijos del universo local, a los cuales les muestran, en su propia vida de donación, la personalidad del Padre Universal.
 
-<ins>Y, finalmente, Los Hijos Magistrales o Avonales</ins>, que, en sus diversas misiones (judiciales, magistrales y donadoras), adquieren una naturaleza que expresa la
-divinidad del paraíso en unión con los valores espirituales más elevados de la naturaleza material humana.
+<ins>Y, finalmente, Los Hijos Magistrales o Avonales</ins>, que, en sus diversas misiones (judiciales, magistrales y donadoras), adquieren una naturaleza que expresa la divinidad del paraíso en unión con los valores espirituales más elevados de la naturaleza material humana.
 
 **5. Relaciones con los Controladores del Poder, de la Deidad Séptuple**
 
