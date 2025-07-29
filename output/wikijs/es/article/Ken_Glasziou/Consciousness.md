@@ -62,12 +62,12 @@ Un fenómeno intensamente investigado es el hecho de que un solo fotón o electr
 
 Esta extraña reticencia de una partícula a que se revele su camino no parece deberse a ningún efecto físico sobre la partícula por parte de la instrumentación utilizada durante el intento de observarla, como se muestra en el trabajo que se describe a continuación.
 
+## Un fantasma inteligente
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Consciousness/005530.png">
 <figcaption><b>Experimento de Chiao</b><br>A. La luz incide en el divisor y los dos están separados. Incluso los fotones individuales atraviesan ambos caminos. Un contador registra los fotones que llegan en el mismo instante. Con esta disposición, se pueden observar efectos de interferencia.<br>B. Igual que «A» arriba, excepto que un polarizador en el camino superior le permite al observador «etiquetar» uno de los caminos tomados por un fotón. Esto destruye los efectos de interferencia. <br> C. Igual que en «B», excepto que se colocan polarizadores adicionales antes de los detectores, lo que significa que el observador pierde la información de «etiquetado» obtenida del primer polarizador. Sorprendentemente, los patrones de interferencia se restauran. ¿Quién o qué hace eso?</figcaption>
 </figure>
-
-## Un fantasma inteligente
 
 El trabajo independiente de Pritchard y sus compañeros de trabajo, o de Chiao y su grupo, describe esquemas increíblemente elaborados que intentan obtener conocimiento de las vías en tipos de experimentos de dos rendijas sin alterar el rendimiento ondulatorio de una partícula, pero todo fue en vano[^1]. En todas las ocasiones, el 'fantasma en la máquina' ha sido capaz de pensar mejor que sus oponentes.
 
@@ -76,6 +76,8 @@ Un experimento de Chiao et al.[^2] es ilustrativo. Se colocó un polarizador en 
 Dejando el polarizador en el mismo lugar, se agregaron dos más a lo largo de las vías, uno frente a cada detector de interferencia. Esta acción significó que los observadores perdieran el conocimiento de la ruta que habían obtenido previamente al etiquetar los fotones que avanzaban a lo largo de una ruta. La consecuencia fue la pronta restauración del fenómeno de interferencia, señalado por el resurgimiento del comportamiento ondulatorio de los fotones en el sistema detector.
 
 Luego, el grupo de Chiao instaló un sistema aún más elaborado al sustituir los polarizadores de división de haz por los que estaban frente a los detectores. El tiempo de llegada y la polarización de todos los fotones que llegan a los detectores se registraron y almacenaron automáticamente en una computadora. El examen posterior de los datos mostró que, para fotones polarizados de manera similar, los patrones de interferencia persistieron, pero solo cuando se desconocía el camino de los fotones individuales.
+
+<br style="clear:both;"/>
 
 ## El orden central de las cosas
 

@@ -1989,7 +1989,7 @@ Here we have it
 
 We call it “x”, the length of Paradise (which would be the distance NS)
 
-would be “x + x / 6$”, and the height of Paradise (which would be the distance OO') that we represent with this other small vertical segment, would be “x / 10”.
+would be “x + x / 6”, and the height of Paradise (which would be the distance OO') that we represent with this other small vertical segment, would be “x / 10”.
 
 **152**
 
@@ -2216,7 +2216,7 @@ Returning to the Upper Paradise, we distinguish on its surface three large zones
 
 **All these Bodies are supervised and coordinated**, as we have already seen, <ins>by the oldest Master Architect</ins>.
 
-**But each of these corps** has <ins>a presiding chief</ins>, and the seven chiefs constitute the <ins>Supreme Council of Destiny in Paradise</ins>; Matter and Energy, Physics and LU during the present universe age, Grandfanda is the chief of this supreme council which assigns the universal missions to the members of the finaliter corps.
+**But each of these corps** has <ins>a presiding chief</ins>, and the seven chiefs constitute the <ins>Supreme Council of Destiny in Paradise</ins>; and during the present universe age, Grandfanda is the chief of this supreme council which assigns the universal missions to the members of the finaliter corps.
 
 **The fact that these seven bodies** are being assembled or formed indicates the mobilization of potentials, personalities, minds, spirits, absonites, and experiential realities, probably transcending even the future functions of the Supreme Being in the Master Universe.
 
@@ -2397,7 +2397,7 @@ The selection of these nonfinalist mortal candidates for the Trinity embrace of 
 
 **Referencias**
 
-- [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites6.202004.HISTORIA-DE-NEBAD%C3%93N.pdf)
+- [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
 - <a href="https://aue.urantia-association.org/wp-content/uploads/sites6.201803.CARRERA-ASCENDENTE-LU-Rafa-.ppsx" download>Slides complementing the article</a>
 
 <figure class="table chapter-navigator">

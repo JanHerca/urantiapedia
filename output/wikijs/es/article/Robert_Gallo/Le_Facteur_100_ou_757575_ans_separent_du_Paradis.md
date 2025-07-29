@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
-<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Robert Gallo<br>>© 2004 Olga López, traducción<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Robert Gallo<br>© 2004 Olga López, traducción<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

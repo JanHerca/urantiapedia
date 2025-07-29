@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>>© 2009 Antonio Moya, de la traducción<br>© 2009 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 2009 Antonio Moya, de la traducción<br>© 2009 Urantia Association of Spain</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

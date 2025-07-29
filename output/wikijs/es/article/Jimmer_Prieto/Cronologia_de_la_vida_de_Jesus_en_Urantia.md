@@ -1331,7 +1331,7 @@ Cuando la alegría de este espíritu derramado se experimenta conscientemente en
 - [Este artículo en la web de la Asociación Urantia de España](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
 
 
-<figure class=»table chapter-navigator">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

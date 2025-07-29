@@ -27,7 +27,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Urantian Migrations and Settlements María José García Gaete
+_María José García Gaete_
+
+## Urantian Migrations and Settlements
 
 This work deals with the Urantia migrations and settlements that occurred from the ancestors of the first human beings until the end of the migrations of the incipient human races and the participation of Adam's descendants in planetary racial progress and advancement. For this compilation, I used and synthesized papers 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79, 80, and 96.
 

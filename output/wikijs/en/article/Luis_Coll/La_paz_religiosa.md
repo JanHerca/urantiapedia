@@ -54,7 +54,7 @@ What has caused the most conflict, intolerance, fanaticism, and bloodshed has be
 ## Sit at the feet of Jesus
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/La_paz_religiosa/001.jpg">
+<img src="/image/article/Spain_Association/La_paz_religiosa/002.jpg">
 </figure>
 
 What the world today needs more than anything is to sit at the feet of Jesus again and learn from Him again the greatest truths the world has ever heard.

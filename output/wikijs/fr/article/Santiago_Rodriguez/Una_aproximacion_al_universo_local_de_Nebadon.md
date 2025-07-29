@@ -207,8 +207,8 @@ Comme point de départ pour l'étude, je présenterai le tableau récapitulatif 
 | 70 Superunivers sur un total de 7 | Orvonton (il y a 7 Superunivers dans le Grand Univers) | 1000000000000 ( 10^12^ ) |
 | 50 Secteurs Majeurs sur 10 | Splandon (il y a 10 Secteurs Majeurs à Orvonton) | 100000000000 (10^11^) |
 | 3e. Secteur mineur de 100 | Ensa (il y a 1000 secteurs mineurs à Orvonton) | 1000000000 (10^9^ ) |
-| 84\% Univers local de 100 | Nébadon (il y a 100 000 univers locaux à Orvonton) | 10000000 (10^7^) |
-| 70@ Constellation de 100 | Norlatiadek (il y a 10^7^ constellations à Orvonton) | 100000 (10^5^) |
+| 84 Univers local de 100 | Nébadon (il y a 100 000 univers locaux à Orvonton) | 10000000 (10^7^) |
+| 70 Constellation de 100 | Norlatiadek (il y a 10^7^ constellations à Orvonton) | 100000 (10^5^) |
 | 240 Système local de 100 | Satania (il y a 10^9^ systèmes locaux à Orvonton) | 1000(10^3^) |
 | 6060 Planète sur 1000. Grand Nombre Universel : 5 342 482 337 666/ sur 7 000 000 000 000 | Urantia (il y a 10^12^ planètes habitées à Orvonton) | 1 |
 

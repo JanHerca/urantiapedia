@@ -832,7 +832,7 @@ Como de costumbre, las decisiones y los planes de Dios están detrás de todos e
 **1)** <ins>La síntesis existencial de los potenciales.</ins>- Cuando Dios da nacimiento a los Absolutos, los sintetiza en el Absoluto Universal, de manera que en la eternidad son un solo Absoluto. Ésta es una síntesis existencial, no una síntesis experiencial.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/6.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/06.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -840,7 +840,7 @@ Como de costumbre, las decisiones y los planes de Dios están detrás de todos e
 **2)** <ins>La no síntesis de los manifestados.</ins>- Cuando Dios da nacimiento a la tesis del Hijo Eterno, también produce la antítesis del Hijo, el Paraíso no personal y no espiritual. Dios no sintetiza estas dos manifestaciones absolutas. Las coordina por medio de la mente, pero por lo demás las deja separadas, como un problema a ser resuelto por las Deidades y Trinidades experienciales que aparecerán más tarde.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/7.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/07.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -848,7 +848,7 @@ Como de costumbre, las decisiones y los planes de Dios están detrás de todos e
 **3)** <ins>Tesis tras tesis.</ins>- Puesto que el Hijo Original es la Persona Absoluta, se convierte en la tesis original de la Deidad. Dios, como Padre de este Hijo, se convierte en la pre-tesis de la Deidad. Luego Dios se une con el Hijo para trinitizar al Espíritu, que se convierte así en la tesis conjunta de la Deidad. Los tres se unen en la Trinidad Paradisiaca, que se convierte en la tesis indivisa de la Deidad. Esto es una superposición de tesis sobre tesis, y no la creación de una síntesis. Tiene el efecto de unificar por completo la Deidad existencial y de separarla por completo de lo que no es deidad, excepto lo que está coordinado funcionalmente por la mente.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/8.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/08.jpg">
 </figure>
 
 <br style="clear:both;"/>

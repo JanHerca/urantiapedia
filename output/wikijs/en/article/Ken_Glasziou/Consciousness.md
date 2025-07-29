@@ -62,12 +62,12 @@ One intensively-investigated phenomenon is the fact that a single photon or elec
 
 This strange reluctance of a particle to have its pathway revealed does not appear to be due to any physical effect on the particle by the instrumentation used during the attempt to observe it—as shown in work described below.
 
+## A smart ghost
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Consciousness/005530.png">
 <figcaption><b>Chiao Experiment</b><br>A. Light impinges splitter and the two are separately. Even single photons traverse both paths. A counter registers photons arriving at the same instant. With this arrangement, interference effects can observed.<br>B. Same as “A” above, except a polarizer in the top path allows the observer to “tag” one of the paths taken by a photon. This destroys the interference effects. <br> C. Same as in “B” except that additional polarizers are placed the before the detectors—which means the observer loses the “tagging” information obtained from the first polarizer. Remarkably, the interference patterns are restored. Who or what doesthat??</figcaption>
 </figure>
-
-## A smart ghost
 
 Independent work by Pritchard and co-workers, or Chiao and his group, describes incredibly elaborate schemes attempting to gain knowledge of pathways in two-slit types of experiment without disturbing the wave-like performance of a particle—but all to no avail[^1]. On every occasion the ‘ghost in the machine’ has been able to out-think its opponents.
 
@@ -76,6 +76,8 @@ An experiment by Chiao et al.[^2] is illustrative. A polarizer was placed in one
 While leaving the polarizer at the same location, two more were added further along the pathways, one in front of each interference detector. This action meant that the observers lost the knowledge of the pathway they had previously gained by labeling photons proceeding along one path. The consequence was the prompt restoration of the interference phenomenon, this being signaled by the re-emergence of wave-like behavior of the photons at the detector system.
 
 An even more elaborate system was then set up by Chiao’s group by substituting beam splitting polarizers for those in front of the detectors. The time of arrival and the polarization of all photons reaching the detectors was automatically recorded and stored in a computer. Subsequent examination of the data showed that, for similarly polarized photons, interference patterns persisted—but only when the path of individual photons remained unknown.
+
+<br style="clear:both;"/>
 
 ## The Central Order of Things
 

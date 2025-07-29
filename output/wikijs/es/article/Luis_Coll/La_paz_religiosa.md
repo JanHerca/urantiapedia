@@ -54,7 +54,7 @@ Lo que más conflictos, intolerancia, fanatismo y derramamiento de sangre han pr
 ## Sentarse a los pies de Jesús
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/La_paz_religiosa/001.jpg">
+<img src="/image/article/Spain_Association/La_paz_religiosa/002.jpg">
 </figure>
 
 Lo que el mundo de hoy en día necesita más que nada es <ins>sentarse de nuevo a los pies de Jesús</ins> y aprender nuevamente de Él las más grandes verdades que el mundo ha escuchado.

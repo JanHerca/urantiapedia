@@ -368,7 +368,7 @@ Y así sucede y así debe ser...Cuando el hombre se asocia con Dios, grandes cos
 - [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
 
 
-<figure class=«table chapter-navigator»>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

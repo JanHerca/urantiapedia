@@ -54,7 +54,7 @@ Les plus grands conflits, intolérances, fanatismes et derramamiento de sangre o
 ## Sentarse a los pies de Jesús
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/La_paz_religiosa/001.jpg">
+<img src="/image/article/Spain_Association/La_paz_religiosa/002.jpg">
 </figure>
 
 C'est pourquoi le monde d'aujourd'hui a besoin aujourd'hui de plus que rien ne soit <ins>sentarse de nuevo a los pies de Jesus</ins> et apprenne nuevamente les plus grandes vérités que le monde a entendues.

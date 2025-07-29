@@ -910,7 +910,7 @@ Lo que ocurre es que el pecado y la iniquidad no tienen cabida, no pueden existi
 
 **Logros en el Mundo de los Finalistas (1)**
 
-**Y para ello vamos a empezar** por el Mundo de los Finalistas, que, como ya hemos visto, es el Mundo de Transición nº 1$ de los 7 que giran alrededor de Jerusem, y que está rodeado por los 7 MMA.
+**Y para ello vamos a empezar** por el Mundo de los Finalistas, que, como ya hemos visto, es el Mundo de Transición nº 1 de los 7 que giran alrededor de Jerusem, y que está rodeado por los 7 MMA.
 
 **Pasamos, pues, al detalle** de las características y de los logros que se alcanzan en el Mundo de los Finalistas:
 
@@ -1284,7 +1284,7 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **Mundos que vamos a conocer (2)**
 
-**La Constelación de Norlatiadek** está conformada por 100 Sistemas Locales, entre los cuales he destacado, como podéis ver, el nº 24$, que es el Sistema de Satania, en el que se encuentra nuestro mundo evolutivo Urantia.
+**La Constelación de Norlatiadek** está conformada por 100 Sistemas Locales, entre los cuales he destacado, como podéis ver, el nº 24, que es el Sistema de Satania, en el que se encuentra nuestro mundo evolutivo Urantia.
 
 **También está conformada** por un conglomerado de mundos arquitectónicos que constituyen la capital Edentia y sus mundos formativos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
@@ -1300,7 +1300,7 @@ Vamos a echarle un vistazo a la distribución de esos mundos en el espacio.
 
 **Mundos que vamos a conocer (4)**
 
-**El Universo Local de Nebadon** está conformado por 100 Constelaciones, entre las cuales he destacado la nº 70$, que es la Constelación de Norlatiadek, de la que hace parte el Sistema de Satania, que, como ya vimos, es donde se encuentra nuestro mundo evolutivo Urantia.
+**El Universo Local de Nebadon** está conformado por 100 Constelaciones, entre las cuales he destacado la nº 70, que es la Constelación de Norlatiadek, de la que hace parte el Sistema de Satania, que, como ya vimos, es donde se encuentra nuestro mundo evolutivo Urantia.
 
 **También está conformado** por un conglomerado de mundos arquitectónicos que constituyen la capital Salvington y sus mundos formativos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
@@ -1557,7 +1557,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **Nuestro paso por el Sector Menor**
 
-1. **El Sector Menor de Ensa** está conformado por 100 Universos Locales, entre los cuales he destacado el nº 84$, que es nuestro Universo Local, el de Nebadon, del que forman parte la Constelación de Norlatiadek y el Sistema de Satania, que es donde se encuentra nuestro mundo evolutivo Urantia.
+1. **El Sector Menor de Ensa** está conformado por 100 Universos Locales, entre los cuales he destacado el nº 84, que es nuestro Universo Local, el de Nebadon, del que forman parte la Constelación de Norlatiadek y el Sistema de Satania, que es donde se encuentra nuestro mundo evolutivo Urantia.
 2. **En el centro de este Sector Menor** se encuentra su sede o capital, que se llama Umenor la Tercera, alrededor de la cual giran 7 mundos formativos arquitectónicos. Esto último podemos verlo mejor en la siguiente diapositiva.
 
 **113**
@@ -1648,7 +1648,7 @@ Vamos a abordar el estudio de nuestra etapa como Pupilos del Superuniverso, pero
 
 **Nuestro paso por el Superuniverso**
 
-1. **El Superuniverso de Orvonton** está conformado por 10 sectores mayores, entre los cuales podemos distinguir o destacar el nº 5$, que es nuestro Sector Mayor de Splandon, del que forma parte el Sector Menor de Ensa y el Universo Local de Nebadon, donde se encuentra Urantia.
+1. **El Superuniverso de Orvonton** está conformado por 10 sectores mayores, entre los cuales podemos distinguir o destacar el nº 5, que es nuestro Sector Mayor de Splandon, del que forma parte el Sector Menor de Ensa y el Universo Local de Nebadon, donde se encuentra Urantia.
 2. **El Superuniverso de Orvonton** también está conformado por un conglomerado de mundos arquitectónicos que constituyen la capital Uversa y sus mundos formativos. Esto último lo podemos apreciar mejor en la siguiente diapositiva.
 
 **121**
@@ -1989,7 +1989,7 @@ Aquí la tenemos
 
 la llamamos «x», el largo del Paraíso (que sería la distancia N-S)
 
-sería « x + x / 6$ », y el alto del Paraíso (que sería la distancia O-O') que representamos con este otro pequeño segmento vertical, sería « x / 10 ».
+sería « x + x / 6 », y el alto del Paraíso (que sería la distancia O-O') que representamos con este otro pequeño segmento vertical, sería « x / 10 ».
 
 **152**
 
@@ -2216,7 +2216,7 @@ Volviendo al Paraíso Superior, distinguimos en su superficie, tres grandes zona
 
 **Todos estos Cuerpos están supervisados y coordinados**, como ya hemos visto, <ins>por el Arquitecto Maestro más antiguo</ins>.
 
-**Pero cada uno de estos cuerpos** tiene <ins>un jefe que lo preside</ins>, y los siete jefes constituyen el <ins>Consejo Supremo del Destino en el Paraíso</ins>; La_materia_y_la_energia_La_fisica_y_LU durante la presente era del universo, Grandfanda es el jefe de este consejo supremo que asigna las misiones universales a los miembros de los cuerpos de los finalistas.
+**Pero cada uno de estos cuerpos** tiene <ins>un jefe que lo preside</ins>, y los siete jefes constituyen el <ins>Consejo Supremo del Destino en el Paraíso</ins>; y durante la presente era del universo, Grandfanda es el jefe de este consejo supremo que asigna las misiones universales a los miembros de los cuerpos de los finalistas.
 
 **El hecho de que estos siete cuerpos** se estén reuniendo o conformando pone de manifiesto la movilización de potenciales, personalidades, mentes, espíritus, absonitos y realidades experienciales, que trascienden probablemente incluso las funciones futuras del Ser Supremo en el Universo Maestro.
 
@@ -2397,7 +2397,7 @@ Pero, **¿cómo funciona realmente el Cuerpo de los Finalistas Mortales, cuál s
 
 **Referencias**
 
-- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites6.202004.HISTORIA-DE-NEBAD%C3%93N.pdf)
+- [Este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
 - <a href="https://aue.urantia-association.org/wp-content/uploads/sites6.201803.CARRERA-ASCENDENTE-LU-Rafa-.ppsx" download>Presentación de apoyo del artículo</a>
 
 <figure class="table chapter-navigator">

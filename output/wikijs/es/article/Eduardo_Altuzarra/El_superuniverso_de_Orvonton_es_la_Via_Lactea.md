@@ -273,7 +273,7 @@ De todos estos párrafos del Dto. 57 interpreto que, salvo muy pocas nebulosas q
 ## Bibliografía
 
 - DIVERSOS PÁRRAFOS DE LOS DOCUMENTOS 11-12-15-32-41-42-49 y 57 DE EL LIBRO DE URANTIA.
-- [«ASTRONOMÍA Y EL SUPERUNIVERSO»](/es/article/Troy_R_Bishop/Astronomy_and_superuniverses_commented) de Troy R. Bíshop © 1982
+- [«ASTRONOMÍA Y EL SUPERUNIVERSO»](/es/article/Troy_R_Bishop/Astronomy_and_superuniverses) de Troy R. Bíshop © 1982
 - «¿CÓMO ES ORVONTON REALMENTE?» de Antonio Moya 1987
 - «DE URANTIA AL UNIVERSO MAESTRO, DATOS INTERESANTES» de Humberto Andrade 1997
 - [¿QUÉ TAMAÑO TIENE DE VERDAD ORVONTON?](/es/article/Norm_Duval/How_big_is_Orvonton) de Norm Du Val.

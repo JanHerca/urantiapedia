@@ -27,7 +27,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Migrations et établissements urantiens María José García Gaete
+_María José García Gaete_
+
+## Migrations et établissements urantiens
 
 Cet ouvrage traite des migrations et des peuplements sur Urantia, depuis les ancêtres des premiers êtres humains jusqu'à la fin des migrations des races humaines naissantes, et de la participation des descendants d'Adam au progrès et à l'avancement racial planétaire. Pour cette compilation, j'ai utilisé et synthétisé les documents 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79, 80 et 96.
 

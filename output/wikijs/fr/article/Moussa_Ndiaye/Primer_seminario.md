@@ -27,9 +27,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Premier séminaire donné par Moussa N'Diaye Notes prises par Mercedes Delgado
+Premier séminaire donné par Moussa N'Diaye
 
-(Les différentes couleurs que vous retrouverez dans la lettre de ce document correspondent à : Noir : notes sans texte initial. — <span style="color:blue;">Bleu foncé</span> : texte intégral contenu dans les photocopies fournies par Moussa. — <span style="color:pink;">Rose</span> : quelques notes, commentaires ou précisions apportés par Moussa dans sa présentation de ces textes)
+_Notes prises par Mercedes Delgado_
+
+(Les différentes couleurs que vous retrouverez dans la lettre de ce document correspondent à : Noir : notes sans texte initial. — <span style="color:blue;">Bleu foncé</span> : texte intégral contenu dans les photocopies fournies par Moussa. — <span style="colorpurple;">Rose</span> : quelques notes, commentaires ou précisions apportés par Moussa dans sa présentation de ces textes)
 
 **L'ÉTUDE DE LA CRÉATION**
 
@@ -245,76 +247,76 @@ Qu'est-ce que l'adoration ? Que se passe-t-il lorsque l'homme adore Dieu ? Lorsq
 
 Nous avons dit qu'il y a la connaissance. Et il y a l'aspect d'unification des choses. Nous étudierons l'application de la sagesse aux réalités de la vie humaine (comme dans les sciences, etc.), c'est-à-dire que nous étudierons la sagesse à travers la réalité des faits.
 
-<span style="color:pink;">Un regard attentif sur l'assistant de sagesse :</span>
+<span style="colorpurple;">Un regard attentif sur l'assistant de sagesse :</span>
 
 <span style="color:blue;">APPLICATION DE LA SAGESSE ET DE LA RÉVÉLATION</span>
 
 <span style="color:blue;">I. CHAMP DE CONSCIENCE</span>
 
-- <span style="color:blue;">La science (la connaissance) conduit à la conscience des faits.</span> <span style="color:pink;">La science conduit toujours à Dieu (source de tous les faits).</span>
-- <span style="color:blue;">La religion conduit à la conscience des valeurs</span> <span style="color:pink;">(bonté, beauté, vérité et amour)</span>
-- <span style="color:blue;">La sagesse conduit à coordonner la conscience des faits et des valeurs</span> <span style="color:pink;">(unification des faits et de Dieu &rarr; l'âme est sagesse)</span>
-- <span style="color:blue;">La révélation conduit à la véritable conscience de la Réalité</span> <span style="color:pink;">(Dieu)</span>
+- <span style="color:blue;">La science (la connaissance) conduit à la conscience des faits.</span> <span style="colorpurple;">La science conduit toujours à Dieu (source de tous les faits).</span>
+- <span style="color:blue;">La religion conduit à la conscience des valeurs</span> <span style="colorpurple;">(bonté, beauté, vérité et amour)</span>
+- <span style="color:blue;">La sagesse conduit à coordonner la conscience des faits et des valeurs</span> <span style="colorpurple;">(unification des faits et de Dieu &rarr; l'âme est sagesse)</span>
+- <span style="color:blue;">La révélation conduit à la véritable conscience de la Réalité</span> <span style="colorpurple;">(Dieu)</span>
 
 
 <span style="color:blue;">II. PORTÉE SOCIALE</span>
 
 - <span style="color:blue;">La science provoque l'émergence de classes sociales (ou classes socioprofessionnelles)</span>
-- <span style="color:blue;">La religion conduit les hommes à servir : elle fait naître la moralité et l'altruisme</span> <span style="color:pink;">(car elle traite de valeurs, les mêmes pour tous)</span>
-- <span style="color:blue;">La sagesse conduit à une connaissance supérieure des idées</span> <span style="color:pink;">(dans la société) et des hommes (et les met en relation &rarr; fraternité)</span>
+- <span style="color:blue;">La religion conduit les hommes à servir : elle fait naître la moralité et l'altruisme</span> <span style="colorpurple;">(car elle traite de valeurs, les mêmes pour tous)</span>
+- <span style="color:blue;">La sagesse conduit à une connaissance supérieure des idées</span> <span style="colorpurple;">(dans la société) et des hommes (et les met en relation &rarr; fraternité)</span>
 - <span style="color:blue;">La révélation libère les hommes et les lance dans l’aventure éternelle de la connaissance de Dieu.</span>
 
 
-<span style="color:blue;">III. PORTÉE DE LA PLÉNITUDE DU SOI</span> <span style="color:pink;">(dans la société)</span>
+<span style="color:blue;">III. PORTÉE DE LA PLÉNITUDE DU SOI</span> <span style="colorpurple;">(dans la société)</span>
 
-- <span style="color:blue;">La science sélectionne les hommes</span> <span style="color:pink;">(elle les classe selon leur formation)</span>
-- <span style="color:blue;">La religion fait que les hommes s'aiment autant qu'eux-mêmes</span> <span style="color:pink;">(ne sélectionne pas)</span>
-- <span style="color:blue;">La sagesse distribue la justice aux hommes lorsque l'harmonie manque entre eux</span> <span style="color:pink;">(La sagesse les mettra d'accord)</span>
+- <span style="color:blue;">La science sélectionne les hommes</span> <span style="colorpurple;">(elle les classe selon leur formation)</span>
+- <span style="color:blue;">La religion fait que les hommes s'aiment autant qu'eux-mêmes</span> <span style="colorpurple;">(ne sélectionne pas)</span>
+- <span style="color:blue;">La sagesse distribue la justice aux hommes lorsque l'harmonie manque entre eux</span> <span style="colorpurple;">(La sagesse les mettra d'accord)</span>
 - <span style="color:blue;">L'Apocalypse glorifie les hommes et révèle leurs capacités à s'associer à Dieu.</span>
 
 
 <span style="color:blue;">IV. PORTÉE DE LA FRATERNITÉ</span>
 
-- <span style="color:blue;">La science poursuit en vain la création d'une communauté de culture</span> <span style="color:pink;">(deux personnes de professions différentes n'ont peut-être pas grand-chose à se dire)</span>
-- <span style="color:blue;">La religion fait naître la fraternité de l'Esprit</span> <span style="color:pink;">(Dieu est commun à tous)</span>
-- <span style="color:blue;">La philosophie recherche la fraternité de la sagesse</span> <span style="color:pink;">(combinant science, culture et religion)</span>
+- <span style="color:blue;">La science poursuit en vain la création d'une communauté de culture</span> <span style="colorpurple;">(deux personnes de professions différentes n'ont peut-être pas grand-chose à se dire)</span>
+- <span style="color:blue;">La religion fait naître la fraternité de l'Esprit</span> <span style="colorpurple;">(Dieu est commun à tous)</span>
+- <span style="color:blue;">La philosophie recherche la fraternité de la sagesse</span> <span style="colorpurple;">(combinant science, culture et religion)</span>
 - <span style="color:blue;">L'Apocalypse montre la communion spirituelle</span>
 
 
 <span style="color:blue;">V. PORTÉE DE LA PERSONNALITÉ</span>
 
 - <span style="color:blue;">La science fait apparaître la fierté dans la personnalité</span>
-- <span style="color:blue;">La sagesse est la conscience du sens de la personnalité</span> <span style="color:pink;">(et des valeurs : Dieu en moi)</span>
+- <span style="color:blue;">La sagesse est la conscience du sens de la personnalité</span> <span style="colorpurple;">(et des valeurs : Dieu en moi)</span>
 - <span style="color:blue;">La religion est l'expérience qui révèle la valeur de la personnalité</span>
-- <span style="color:blue;">La révélation est la certitude de la survie de la personnalité</span> <span style="color:pink;">(quand j'adore, Dieu se manifeste, s'exprime en moi, se révèle en moi. Dieu est associé à moi $\alpha$ La personnalité ne va pas mourir)</span>
+- <span style="color:blue;">La révélation est la certitude de la survie de la personnalité</span> <span style="colorpurple;">(quand j'adore, Dieu se manifeste, s'exprime en moi, se révèle en moi. Dieu est associé à moi $\alpha$ La personnalité ne va pas mourir)</span>
 
-<span style="color:pink;">Voilà pour les 5 aspects de la vie d'un homme.</span>
+<span style="colorpurple;">Voilà pour les 5 aspects de la vie d'un homme.</span>
 
-<span style="color:pink;">L'homme possède cinq choses importantes : le corps, la conscience, la personnalité, la vie et le libre arbitre. Et qui lui a donné tout cela ?</span>
+<span style="colorpurple;">L'homme possède cinq choses importantes : le corps, la conscience, la personnalité, la vie et le libre arbitre. Et qui lui a donné tout cela ?</span>
 
 <span style="color:blue;">VI. PORTÉE DU COSMOS</span>
 
-- <span style="color:blue;">La science s'occupe d'identifier, d'analyser et de classer les parties fractionnaires du cosmos illimité</span> <span style="color:pink;">(astronomie)</span>
-- <span style="color:blue;">La religion englobe l'idée du tout, du cosmos entier</span> <span style="color:pink;">(elle n'analyse pas)</span>
-- <span style="color:blue;">La philosophie (la sagesse) tente d'identifier les segments matériels de la science avec le concept de discernement spirituel de l'ensemble</span> <span style="color:pink;">(elle met le scientifique en accord avec l'homme religieux)</span>
+- <span style="color:blue;">La science s'occupe d'identifier, d'analyser et de classer les parties fractionnaires du cosmos illimité</span> <span style="colorpurple;">(astronomie)</span>
+- <span style="color:blue;">La religion englobe l'idée du tout, du cosmos entier</span> <span style="colorpurple;">(elle n'analyse pas)</span>
+- <span style="color:blue;">La philosophie (la sagesse) tente d'identifier les segments matériels de la science avec le concept de discernement spirituel de l'ensemble</span> <span style="colorpurple;">(elle met le scientifique en accord avec l'homme religieux)</span>
 - <span style="color:blue;">L'Apocalypse y parvient lorsqu'elle affirme que le cercle cosmique est universel, éternel et infini</span>
 
 
 <span style="color:blue;">VII. NIVEAU DE LA DIVINITÉ</span>
 
-<span style="color:pink;">(La nature de Dieu est Esprit. Bonté : Il m'a donné tout ce que je suis. Amour : Il m'a donné la vie. Beauté : Sa miséricorde m'a aussi donné la capacité de créer, de faire des choses)</span>
+<span style="colorpurple;">(La nature de Dieu est Esprit. Bonté : Il m'a donné tout ce que je suis. Amour : Il m'a donné la vie. Beauté : Sa miséricorde m'a aussi donné la capacité de créer, de faire des choses)</span>
 
-- <span style="color:blue;">La science montre la Divinité comme un fait</span> <span style="color:pink;">(chaque mouvement a une force)</span>
-- <span style="color:blue;">La philosophie ou la sagesse présente l'idée d'un Absolu</span> <span style="color:pink;">[Dieu a toutes les idées : Pensée Absolue, Source Absolue des idées, Cerveau Absolu (les faits sont illimités, les idées absolues)]</span>
-- <span style="color:blue;">La religion considère Dieu comme une personnalité spirituelle aimante</span> <span style="color:pink;">(Dieu l'a aussi fait par Amour : tu t'appartiens, je te donne toi-même)</span>
-- <span style="color:blue;">L'Apocalypse affirme (prouve) qu'il existe une unité entre le fait de la Déité, l'idée d'un Absolu et la personnalité spirituelle de Dieu</span> <span style="color:pink;">(l'homme lui-même en est la preuve).</span>
+- <span style="color:blue;">La science montre la Divinité comme un fait</span> <span style="colorpurple;">(chaque mouvement a une force)</span>
+- <span style="color:blue;">La philosophie ou la sagesse présente l'idée d'un Absolu</span> <span style="colorpurple;">[Dieu a toutes les idées : Pensée Absolue, Source Absolue des idées, Cerveau Absolu (les faits sont illimités, les idées absolues)]</span>
+- <span style="color:blue;">La religion considère Dieu comme une personnalité spirituelle aimante</span> <span style="colorpurple;">(Dieu l'a aussi fait par Amour : tu t'appartiens, je te donne toi-même)</span>
+- <span style="color:blue;">L'Apocalypse affirme (prouve) qu'il existe une unité entre le fait de la Déité, l'idée d'un Absolu et la personnalité spirituelle de Dieu</span> <span style="colorpurple;">(l'homme lui-même en est la preuve).</span>
 
 
 <span style="color:blue;">VIII. NIVEAU DE CONNAISSANCE</span>
 
-<span style="color:pink;">(L'homme est un chercheur. Il ne sait rien, et pourtant il veut savoir)</span>
+<span style="colorpurple;">(L'homme est un chercheur. Il ne sait rien, et pourtant il veut savoir)</span>
 
-- <span style="color:blue;">La quête de la connaissance constitue la science – la quête de la sagesse est la philosophie</span> <span style="color:pink;">(si l'homme connaît la science de lui-même, s'il se connaît lui-même, il atteint la sagesse)</span>
+- <span style="color:blue;">La quête de la connaissance constitue la science – la quête de la sagesse est la philosophie</span> <span style="colorpurple;">(si l'homme connaît la science de lui-même, s'il se connaît lui-même, il atteint la sagesse)</span>
 - <span style="color:blue;">L'amour de Dieu est religion</span>
 - <span style="color:blue;">La soif de vérité est une révélation</span>
 
@@ -323,30 +325,30 @@ Nous avons dit qu'il y a la connaissance. Et il y a l'aspect d'unification des c
 <span style="color:blue;">IX. NIVEAU D'EXPRESSION DE LA RÉALISATION</span>
 
 - <span style="color:blue;">En science, l'idée précède l'expression de sa réalisation</span>
-- <span style="color:blue;">En religion, l'expression de la réalisation précède l'expression de l'idée</span> <span style="color:pink;">(Je veux être comme Dieu et c'est pourquoi je veux connaître sa nature)</span>
+- <span style="color:blue;">En religion, l'expression de la réalisation précède l'expression de l'idée</span> <span style="colorpurple;">(Je veux être comme Dieu et c'est pourquoi je veux connaître sa nature)</span>
 - <span style="color:blue;">Il y a une immense différence entre la volonté évolutive de croire (un produit de l'illumination de la raison) ou le discernement religieux d'une part et la révélation de la volonté croissante d'autre part.</span>
 
 
 <span style="color:blue;">X. NIVEAU D'ÉVOLUTION</span>
 
-- <span style="color:blue;">Dans l'évolution, la religion conduit souvent les hommes à créer leurs propres concepts de Dieu</span> <span style="color:pink;">(dans la religion primitive, l'homme anthropomorphisait Dieu)</span>
-- <span style="color:blue;">L'Apocalypse montre le phénomène des hommes de Dieu évoluant à partir d'eux-mêmes</span> <span style="color:pink;">(Dieu se montre à travers moi)</span>
+- <span style="color:blue;">Dans l'évolution, la religion conduit souvent les hommes à créer leurs propres concepts de Dieu</span> <span style="colorpurple;">(dans la religion primitive, l'homme anthropomorphisait Dieu)</span>
+- <span style="color:blue;">L'Apocalypse montre le phénomène des hommes de Dieu évoluant à partir d'eux-mêmes</span> <span style="colorpurple;">(Dieu se montre à travers moi)</span>
 - <span style="color:blue;">L'évolution tend à rendre Dieu semblable à l'homme</span>
-- <span style="color:blue;">La révélation tend à rendre l'homme semblable à Dieu</span> <span style="color:pink;">(l'idée de religion est en constante évolution).</span>
+- <span style="color:blue;">La révélation tend à rendre l'homme semblable à Dieu</span> <span style="colorpurple;">(l'idée de religion est en constante évolution).</span>
 
 
 <span style="color:blue;">XI. NIVEAU D'OBJECTIF</span>
 
-- <span style="color:blue;">La science ne se satisfait que des causes premières</span> <span style="color:pink;">(il y a des causes ajoutées, mais elles proviennent d'une origine, qui est la cause des causes)</span>
-- <span style="color:blue;">La religion avec seulement la personnalité suprême</span> <span style="color:pink;">(la cause sans cause)</span>
+- <span style="color:blue;">La science ne se satisfait que des causes premières</span> <span style="colorpurple;">(il y a des causes ajoutées, mais elles proviennent d'une origine, qui est la cause des causes)</span>
+- <span style="color:blue;">La religion avec seulement la personnalité suprême</span> <span style="colorpurple;">(la cause sans cause)</span>
 - <span style="color:blue;">Philosophie seulement avec unité</span>
-- <span style="color:blue;">L'Apocalypse déclare que les trois sont unifiés et que tous sont bons</span> <span style="color:pink;">(et nécessaires)</span>
+- <span style="color:blue;">L'Apocalypse déclare que les trois sont unifiés et que tous sont bons</span> <span style="colorpurple;">(et nécessaires)</span>
 
-<span style="color:blue;">L'Éternel Réel est le Bien de l'Univers. Dans l'expérience spirituelle de toute personnalité, il est toujours noté que le Bien</span> <span style="color:pink;">(Dieu)</span> <span style="color:blue;">est Réel et que le Réel est Bon.</span>
+<span style="color:blue;">L'Éternel Réel est le Bien de l'Univers. Dans l'expérience spirituelle de toute personnalité, il est toujours noté que le Bien</span> <span style="colorpurple;">(Dieu)</span> <span style="color:blue;">est Réel et que le Réel est Bon.</span>
 
-<span style="color:pink;">La relation entre les faits et leur source est la sagesse, qui sert la révélation. Les faits constituent la science, et leur source est la religion ; la combinaison des deux constitue la sagesse. Les faits expriment ce que la source veut qu'ils expriment ; la source se manifeste à travers les faits ; la source se révèle dans les faits ; la révélation.</span>
+<span style="colorpurple;">La relation entre les faits et leur source est la sagesse, qui sert la révélation. Les faits constituent la science, et leur source est la religion ; la combinaison des deux constitue la sagesse. Les faits expriment ce que la source veut qu'ils expriment ; la source se manifeste à travers les faits ; la source se révèle dans les faits ; la révélation.</span>
 
-<span style="color:pink;">Voici les quatre aspects de la vérité : l’homme est un fait. Qui m’a créé ? Dieu. &rarr; Ces relations constituent la sagesse, d’où naît l’âme, qui est révélation. &rarr; C’est ainsi que Dieu vient à l’homme. Ces aspects sont indissociables. Toute la création repose sur eux. C’est pourquoi cette application quaternaire a été faite.</span>
+<span style="colorpurple;">Voici les quatre aspects de la vérité : l’homme est un fait. Qui m’a créé ? Dieu. &rarr; Ces relations constituent la sagesse, d’où naît l’âme, qui est révélation. &rarr; C’est ainsi que Dieu vient à l’homme. Ces aspects sont indissociables. Toute la création repose sur eux. C’est pourquoi cette application quaternaire a été faite.</span>
 
 3. ÉTUDE DE LA PERSONNALITÉ
 
@@ -393,60 +395,60 @@ Avant de mourir, presque tous les hommes éprouvent cette inquiétude de s'inter
 
 ***La personnalité divine***
 
-<span style="color:pink;">[Il existe deux formes différentes de personnalité : la personnalité humaine (le soi humain : les 7 pouvoirs) et la personnalité divine (quand je veux ressembler à Dieu et être comme lui). La personnalité divine, c'est quand mon être humain a la volonté de ressembler à Dieu, de devenir divin.]</span>
+<span style="colorpurple;">[Il existe deux formes différentes de personnalité : la personnalité humaine (le soi humain : les 7 pouvoirs) et la personnalité divine (quand je veux ressembler à Dieu et être comme lui). La personnalité divine, c'est quand mon être humain a la volonté de ressembler à Dieu, de devenir divin.]</span>
 
 - <span style="color:blue;">La personnalité est cette qualité dans la réalité qui est conférée par le Père Universel lui-même, ou par l'Acteur Conjoint (l'Esprit Infini, la 3ème source ou la 3ème personne de la Trinité) agissant à sa place.</span>
-- <span style="color:blue;">Il peut être donné à tout système énergétique vivant qui contient le mental</span> <span style="color:pink;">(les 7 esprits adjuvants du mental)</span> <span style="color:blue;">ou l'esprit <span style="color:pink;">(l'Ajusteur).</span> Les animaux sont exclus.</span>
-- <span style="color:blue;">Il n'est pas</span> <span style="color:pink;">(par libre arbitre)</span> <span style="color:blue;">complètement soumis aux obstacles des causes précédentes</span> <span style="color:pink;">(l'homme n'a pas à être soumis à ses parents parce qu'ils l'ont mis au monde).</span> <span style="color:blue;">Il est relativement créatif ou co-créatif.</span>
+- <span style="color:blue;">Il peut être donné à tout système énergétique vivant qui contient le mental</span> <span style="colorpurple;">(les 7 esprits adjuvants du mental)</span> <span style="color:blue;">ou l'esprit <span style="colorpurple;">(l'Ajusteur).</span> Les animaux sont exclus.</span>
+- <span style="color:blue;">Il n'est pas</span> <span style="colorpurple;">(par libre arbitre)</span> <span style="color:blue;">complètement soumis aux obstacles des causes précédentes</span> <span style="colorpurple;">(l'homme n'a pas à être soumis à ses parents parce qu'ils l'ont mis au monde).</span> <span style="color:blue;">Il est relativement créatif ou co-créatif.</span>
 - <span style="color:blue;">Lorsqu'il est donné à des créatures matérielles évolutives, il amène l'esprit à s'efforcer de maîtriser l'énergie-matière par la médiation de l'esprit.</span>
 - <span style="color:blue;">Bien que dépourvue d'identité, la personnalité peut unifier l'identité de tout système énergétique vivant.</span>
-- <span style="color:blue;">Leur sensibilité au circuit de la personnalité n'est que qualitative</span> <span style="color:pink;">(en ce qui concerne les valeurs, on ne peut pas avoir plus de personnalité qu'on n'en a),</span> <span style="color:blue;">contrairement aux trois énergies</span> <span style="color:pink;">(matérielle : corps / morontielle : âme / spirituelle : Ajusteur)</span> <span style="color:blue;">qui sont à la fois qualitativement et quantitativement sensibles à la gravité.</span>
+- <span style="color:blue;">Leur sensibilité au circuit de la personnalité n'est que qualitative</span> <span style="colorpurple;">(en ce qui concerne les valeurs, on ne peut pas avoir plus de personnalité qu'on n'en a),</span> <span style="color:blue;">contrairement aux trois énergies</span> <span style="colorpurple;">(matérielle : corps / morontielle : âme / spirituelle : Ajusteur)</span> <span style="color:blue;">qui sont à la fois qualitativement et quantitativement sensibles à la gravité.</span>
 - <span style="color:blue;">La personnalité ne change pas en présence de changement.</span>
 - <span style="color:blue;">Vous pouvez faire un don à Dieu – la consécration du libre arbitre pour faire la volonté de Dieu.</span>
-- <span style="color:blue;">Elle se caractérise par la moralité – la conscience de la relativité des relations avec autrui. Elle discerne les niveaux de comportement et fait un choix raisonnable parmi eux.</span> <span style="color:pink;">(Dans la méchanceté d'un acte, on voit souvent qu'elle est causée par une réaction à un autre mal antérieur, qu'au fond, cette personne malfaisante recherche la justice)</span>
-- <span style="color:blue;">La personnalité est unique, absolument unique</span> <span style="color:pink;">(cela offre une grande sécurité)</span> : <span style="color:blue;">elle est unique dans le temps et dans l'espace ; elle est unique dans l'éternité et au Paradis ; elle est unique au moment où elle est accordée – il n'y a pas de copies ; elle est unique à chaque instant de l'existence ; elle est unique par rapport à Dieu – qui ne fait pas acception de personnes, mais qui ne les ajoute pas non plus, puisqu'elles ne peuvent pas être ajoutées – Elles peuvent être associées, mais non totalisées.</span> <span style="color:pink;">(Une personnalité ne peut être placée dans une autre, ni être ajoutée à une autre)</span>
+- <span style="color:blue;">Elle se caractérise par la moralité – la conscience de la relativité des relations avec autrui. Elle discerne les niveaux de comportement et fait un choix raisonnable parmi eux.</span> <span style="colorpurple;">(Dans la méchanceté d'un acte, on voit souvent qu'elle est causée par une réaction à un autre mal antérieur, qu'au fond, cette personne malfaisante recherche la justice)</span>
+- <span style="color:blue;">La personnalité est unique, absolument unique</span> <span style="colorpurple;">(cela offre une grande sécurité)</span> : <span style="color:blue;">elle est unique dans le temps et dans l'espace ; elle est unique dans l'éternité et au Paradis ; elle est unique au moment où elle est accordée – il n'y a pas de copies ; elle est unique à chaque instant de l'existence ; elle est unique par rapport à Dieu – qui ne fait pas acception de personnes, mais qui ne les ajoute pas non plus, puisqu'elles ne peuvent pas être ajoutées – Elles peuvent être associées, mais non totalisées.</span> <span style="colorpurple;">(Une personnalité ne peut être placée dans une autre, ni être ajoutée à une autre)</span>
 - <span style="color:blue;">La personnalité réagit directement à la présence d'une autre personnalité.</span>
-- <span style="color:blue;">C'est un élément qui peut être ajouté à l'esprit</span> <span style="color:pink;">(de Dieu dans l'homme),</span> <span style="color:blue;">qui illustre la primauté du Père sur le Fils. (L'esprit n'a pas besoin d'être ajouté à l'esprit).</span>
-- <span style="color:blue;">La personnalité peut survivre à la mort physique grâce à l'identité qui se trouve dans l'âme survivante. L'Ajusteur</span> <span style="color:pink;">(Dieu)</span> <span style="color:blue;">et la personnalité</span> <span style="color:pink;">(l'homme)</span> <span style="color:blue;">ne varient pas ; la relation entre les deux</span> <span style="color:pink;">(dans l'âme embryonnaire)</span> <span style="color:blue;">n'est que changement, évolution continuelle ; et si ce changement (croissance) devait cesser, cela signifierait la fin de l'âme.</span> <span style="color:pink;">La personnalité se manifeste très tôt chez l'homme. Lorsque l'Ajusteur arrive, un contact est établi entre lui et la personnalité, et l'âme embryonnaire naît. Plus tard, lorsque l'homme désire chercher Dieu, lorsqu'il coopère avec Lui, l'âme grandit et se développe. <ins>Il doit grandir</ins> pour survivre.</span>
-- <span style="color:blue;">La personnalité a une conscience unique du temps</span> <span style="color:pink;">(l'expérience permettra à la personnalité d'avoir une conscience du temps et de l'espace),</span> <span style="color:blue;"> quelque chose de différent de la perception du temps qu'ont l'esprit (de l'homme) ou l'esprit (de Dieu).</span>
-- <span style="color:blue;">Cette personnalité est la partie qui nous permet de reconnaître et d'identifier positivement une personne telle que nous la connaissions auparavant, même si elle a beaucoup changé suite à des modifications dans son mode d'expression et de manifestation.</span> <span style="color:pink;">Un homme a toujours la même personnalité, même s'il a pu changer de caractère. Plus il apprend, plus il devient stable dans sa façon d'être.</span>
+- <span style="color:blue;">C'est un élément qui peut être ajouté à l'esprit</span> <span style="colorpurple;">(de Dieu dans l'homme),</span> <span style="color:blue;">qui illustre la primauté du Père sur le Fils. (L'esprit n'a pas besoin d'être ajouté à l'esprit).</span>
+- <span style="color:blue;">La personnalité peut survivre à la mort physique grâce à l'identité qui se trouve dans l'âme survivante. L'Ajusteur</span> <span style="colorpurple;">(Dieu)</span> <span style="color:blue;">et la personnalité</span> <span style="colorpurple;">(l'homme)</span> <span style="color:blue;">ne varient pas ; la relation entre les deux</span> <span style="colorpurple;">(dans l'âme embryonnaire)</span> <span style="color:blue;">n'est que changement, évolution continuelle ; et si ce changement (croissance) devait cesser, cela signifierait la fin de l'âme.</span> <span style="colorpurple;">La personnalité se manifeste très tôt chez l'homme. Lorsque l'Ajusteur arrive, un contact est établi entre lui et la personnalité, et l'âme embryonnaire naît. Plus tard, lorsque l'homme désire chercher Dieu, lorsqu'il coopère avec Lui, l'âme grandit et se développe. <ins>Il doit grandir</ins> pour survivre.</span>
+- <span style="color:blue;">La personnalité a une conscience unique du temps</span> <span style="colorpurple;">(l'expérience permettra à la personnalité d'avoir une conscience du temps et de l'espace),</span> <span style="color:blue;"> quelque chose de différent de la perception du temps qu'ont l'esprit (de l'homme) ou l'esprit (de Dieu).</span>
+- <span style="color:blue;">Cette personnalité est la partie qui nous permet de reconnaître et d'identifier positivement une personne telle que nous la connaissions auparavant, même si elle a beaucoup changé suite à des modifications dans son mode d'expression et de manifestation.</span> <span style="colorpurple;">Un homme a toujours la même personnalité, même s'il a pu changer de caractère. Plus il apprend, plus il devient stable dans sa façon d'être.</span>
 
 
-<span style="color:blue;">Personnalité :</span> <span style="color:pink;">manifester Dieu.</span>
+<span style="color:blue;">Personnalité :</span> <span style="colorpurple;">manifester Dieu.</span>
 
-<span style="color:blue;">Réalité :</span> <span style="color:pink;">Dieu, qui a donné à l’homme la capacité d’aller à Lui à travers l’univers local, le superunivers et l’univers central.</span>
+<span style="color:blue;">Réalité :</span> <span style="colorpurple;">Dieu, qui a donné à l’homme la capacité d’aller à Lui à travers l’univers local, le superunivers et l’univers central.</span>
 
-1. <span style="color:blue;">État de localisation : La personnalité fonctionne (dans tous les espaces) <span style="color:pink;">avec la même efficacité dans l'Univers local, le Superunivers et l'Univers central.</span>
-2. <span style="color:blue;">État de signification : La personnalité joue un rôle effectif aux niveaux du fini, de l'Absonite</span> <span style="color:pink;">(entre le fini et l'infini)</span> <span style="color:blue;">et même aux frontières de l'Absolu</span> <span style="color:pink;">(les potentiels de Dieu).</span>
-3. <span style="color:blue;">Statut de valeur : La personnalité peut se développer de manière expérientielle dans les domaines progressifs : matériel, morontiel</span> <span style="color:pink;">(Univers local et superunivers)</span> <span style="color:blue;">et spirituel</span> <span style="color:pink;">(Paradis).</span>
+1. <span style="color:blue;">État de localisation : La personnalité fonctionne (dans tous les espaces) <span style="colorpurple;">avec la même efficacité dans l'Univers local, le Superunivers et l'Univers central.</span>
+2. <span style="color:blue;">État de signification : La personnalité joue un rôle effectif aux niveaux du fini, de l'Absonite</span> <span style="colorpurple;">(entre le fini et l'infini)</span> <span style="color:blue;">et même aux frontières de l'Absolu</span> <span style="colorpurple;">(les potentiels de Dieu).</span>
+3. <span style="color:blue;">Statut de valeur : La personnalité peut se développer de manière expérientielle dans les domaines progressifs : matériel, morontiel</span> <span style="colorpurple;">(Univers local et superunivers)</span> <span style="color:blue;">et spirituel</span> <span style="colorpurple;">(Paradis).</span>
 
 ***<span style="color:blue;">Les dimensions de la personnalité dans le fini</span>***
 
 <span style="color:blue;">La personnalité a trois dimensions dans le fini :</span>
 
-1. <span style="color:blue;">Longueur : représente la direction et la nature du progrès – mouvement dans l’espace et le temps – évolution</span> <span style="color:pink;">(par l’expérience et la volonté)</span>
-2. <span style="color:blue;">Profondeur verticale : inclut les pulsions et les comportements de l’organisme, les différents niveaux de compréhension de soi et le phénomène général de réaction à ce qui nous entoure.</span> <span style="color:pink;">(Plus l’homme connaît Dieu, plus il s’approfondit et plus il s’élève. Les anges, .... peuvent voir la lumière verticale de l’âme)</span>
-3. <span style="color:blue;">Étendue : englobe les domaines de la coordination, de l’association et de l’organisation de l’ego.</span> <span style="color:pink;">(Avec tout le monde et tout à portée de main)</span>
+1. <span style="color:blue;">Longueur : représente la direction et la nature du progrès – mouvement dans l’espace et le temps – évolution</span> <span style="colorpurple;">(par l’expérience et la volonté)</span>
+2. <span style="color:blue;">Profondeur verticale : inclut les pulsions et les comportements de l’organisme, les différents niveaux de compréhension de soi et le phénomène général de réaction à ce qui nous entoure.</span> <span style="colorpurple;">(Plus l’homme connaît Dieu, plus il s’approfondit et plus il s’élève. Les anges, .... peuvent voir la lumière verticale de l’âme)</span>
+3. <span style="color:blue;">Étendue : englobe les domaines de la coordination, de l’association et de l’organisation de l’ego.</span> <span style="colorpurple;">(Avec tout le monde et tout à portée de main)</span>
 
-<span style="color:pink;">(4, 5 et 6 sont les dimensions de l'Absonite ; 7 sont celles de l'Absolu)</span>
+<span style="colorpurple;">(4, 5 et 6 sont les dimensions de l'Absonite ; 7 sont celles de l'Absolu)</span>
 
 5 et 6. ÉTUDE DE LA FOI
 
-<span style="color:pink;">Dieu m'a créé avec lui en moi ; il m'a donné la vie. Puis il m'a donné le libre arbitre, afin que je puisse décider de naître de nouveau ou non, de lui ressembler ou non ; c'est moi qui décide de continuer. Il m'a donné tout cela sans que je lui demande quoi que ce soit. Maintenant, si je demande à lui ressembler, il me l'accordera, mais je dois le lui demander. S'il en est ainsi, je devrai donner aux autres, comme il m'a donné autrefois. Et mon âme grandira.
+<span style="colorpurple;">Dieu m'a créé avec lui en moi ; il m'a donné la vie. Puis il m'a donné le libre arbitre, afin que je puisse décider de naître de nouveau ou non, de lui ressembler ou non ; c'est moi qui décide de continuer. Il m'a donné tout cela sans que je lui demande quoi que ce soit. Maintenant, si je demande à lui ressembler, il me l'accordera, mais je dois le lui demander. S'il en est ainsi, je devrai donner aux autres, comme il m'a donné autrefois. Et mon âme grandira.
 
-<span style="color:pink;">Sur Terre, tout meurt, tout ce qui est construit périt, l'homme est mortel. Mais il ne le veut pas ; il veut être immortel, comme Dieu. Pour lui ressembler, il faut le désirer. Si le désir est sincère, l'âme naît. Mais il ne faut pas s'arrêter là ; il faut la faire grandir.</span>
+<span style="colorpurple;">Sur Terre, tout meurt, tout ce qui est construit périt, l'homme est mortel. Mais il ne le veut pas ; il veut être immortel, comme Dieu. Pour lui ressembler, il faut le désirer. Si le désir est sincère, l'âme naît. Mais il ne faut pas s'arrêter là ; il faut la faire grandir.</span>
 
 <span style="color:blue;">La foi, qui montre la voie vers le but du salut humain, vers le but ultime de l'accomplissement humain universel, libère l'homme :</span>
 
-1. <span style="color:blue;">Des obstacles matériels</span> <span style="color:pink;">(les limites du corps. Ex. : l'homme ne peut pas voir Dieu)</span> <span style="color:blue;">dans l'expérience personnelle de la filiation avec Dieu qui est Esprit.</span> <span style="color:pink;">(« Je suis né en Dieu, Il est né en moi ». Votre être moral, à travers votre expérience, parviendra à connaître Dieu &rarr; de là naîtra l'Âme &rarr; je naîtrai comme Fils de Dieu. Mais nous devons travailler à faire grandir l'Âme.)</span>
-2. <span style="color:blue;">De l'esclavage intellectuel</span> <span style="color:pink;">(de l'ignorance des hommes qui ne connaissent pas Dieu),</span> <span style="color:blue;">les hommes connaîtront la Vérité</span> <span style="color:pink;">(la relation de mon être avec mon Dieu, pour l'Amour de Dieu)</span> <span style="color:blue;">et la Vérité les libérera.</span> <span style="color:pink;">« Ce n'est pas que Dieu existe parce que Jésus l'a dit, mais qu'il l'a dit parce que c'est vrai ».</span>
-3. <span style="color:blue;">De la cécité spirituelle</span> <span style="color:pink;">(chacun naît sans connaître Dieu, même Jésus)</span> <span style="color:blue;">pour atteindre le concept humain de la fraternité des hommes et la conscience subséquente de la fraternité de toutes les créatures de l'Univers ; à la découverte de la réalité spirituelle par le service</span> <span style="color:pink;">(si je ne connais pas Dieu, je ne peux pas le faire connaître aux autres),</span> <span style="color:blue;">et à la révélation de la Bonté</span> <span style="color:pink;">(Je serai aussi la Bonté, mais pour la donner aux autres. Sinon, pourquoi ?)</span> <span style="color:blue;">des valeurs spirituelles par le ministère de l'Amour.</span>
-4. <span style="color:blue;">Des défauts de la personnalité humaine</span> <span style="color:pink;">(s'unifier avec son Ajusteur)</span> <span style="color:blue;">en ce qui concerne l'atteinte des niveaux spirituels de l'Univers et la compréhension finale de l'harmonie et de la perfection</span> <span style="color:pink;">(que l'homme peut maintenant commencer à comprendre par ce qui est en lui)</span> <span style="color:blue;">du Paradis, le lieu d'existence des Absolus.</span>
-5. <span style="color:blue;">De lui-même, en le libérant des limitations de la conscience de soi en atteignant les niveaux cosmiques de la Pensée Suprême</span> <span style="color:pink;">(la pensée de l'homme lorsqu'il s'élève aux niveaux cosmiques)</span> <span style="color:blue;">et en se coordonnant avec la réalisation de tous les autres êtres conscients d'eux.</span> <span style="color:pink;">(La conscience cosmique est la conscience de Dieu. Je demande à Dieu que ma conscience humaine devienne conscience cosmique afin de tout comprendre)</span>
+1. <span style="color:blue;">Des obstacles matériels</span> <span style="colorpurple;">(les limites du corps. Ex. : l'homme ne peut pas voir Dieu)</span> <span style="color:blue;">dans l'expérience personnelle de la filiation avec Dieu qui est Esprit.</span> <span style="colorpurple;">(« Je suis né en Dieu, Il est né en moi ». Votre être moral, à travers votre expérience, parviendra à connaître Dieu &rarr; de là naîtra l'Âme &rarr; je naîtrai comme Fils de Dieu. Mais nous devons travailler à faire grandir l'Âme.)</span>
+2. <span style="color:blue;">De l'esclavage intellectuel</span> <span style="colorpurple;">(de l'ignorance des hommes qui ne connaissent pas Dieu),</span> <span style="color:blue;">les hommes connaîtront la Vérité</span> <span style="colorpurple;">(la relation de mon être avec mon Dieu, pour l'Amour de Dieu)</span> <span style="color:blue;">et la Vérité les libérera.</span> <span style="colorpurple;">« Ce n'est pas que Dieu existe parce que Jésus l'a dit, mais qu'il l'a dit parce que c'est vrai ».</span>
+3. <span style="color:blue;">De la cécité spirituelle</span> <span style="colorpurple;">(chacun naît sans connaître Dieu, même Jésus)</span> <span style="color:blue;">pour atteindre le concept humain de la fraternité des hommes et la conscience subséquente de la fraternité de toutes les créatures de l'Univers ; à la découverte de la réalité spirituelle par le service</span> <span style="colorpurple;">(si je ne connais pas Dieu, je ne peux pas le faire connaître aux autres),</span> <span style="color:blue;">et à la révélation de la Bonté</span> <span style="colorpurple;">(Je serai aussi la Bonté, mais pour la donner aux autres. Sinon, pourquoi ?)</span> <span style="color:blue;">des valeurs spirituelles par le ministère de l'Amour.</span>
+4. <span style="color:blue;">Des défauts de la personnalité humaine</span> <span style="colorpurple;">(s'unifier avec son Ajusteur)</span> <span style="color:blue;">en ce qui concerne l'atteinte des niveaux spirituels de l'Univers et la compréhension finale de l'harmonie et de la perfection</span> <span style="colorpurple;">(que l'homme peut maintenant commencer à comprendre par ce qui est en lui)</span> <span style="color:blue;">du Paradis, le lieu d'existence des Absolus.</span>
+5. <span style="color:blue;">De lui-même, en le libérant des limitations de la conscience de soi en atteignant les niveaux cosmiques de la Pensée Suprême</span> <span style="colorpurple;">(la pensée de l'homme lorsqu'il s'élève aux niveaux cosmiques)</span> <span style="color:blue;">et en se coordonnant avec la réalisation de tous les autres êtres conscients d'eux.</span> <span style="colorpurple;">(La conscience cosmique est la conscience de Dieu. Je demande à Dieu que ma conscience humaine devienne conscience cosmique afin de tout comprendre)</span>
 6. <span style="color:blue;">Du temps, pour la réalisation d'une vie éternelle de progrès sans fin dans la connaissance et le service de Dieu.</span>
-7. <span style="color:blue;">Du fini, par une unité parfaite avec la Déité</span> <span style="color:pink;">(la nature de Dieu en moi-même)</span> <span style="color:blue;">et par le Suprême</span> <span style="color:pink;">(Suprématie : lorsque vous avez développé votre Âme)</span> <span style="color:blue;">à travers lequel la créature essaie de découvrir transcendantalement l'Ultime.</span>
+7. <span style="color:blue;">Du fini, par une unité parfaite avec la Déité</span> <span style="colorpurple;">(la nature de Dieu en moi-même)</span> <span style="color:blue;">et par le Suprême</span> <span style="colorpurple;">(Suprématie : lorsque vous avez développé votre Âme)</span> <span style="color:blue;">à travers lequel la créature essaie de découvrir transcendantalement l'Ultime.</span>
 
-<span style="color:pink;">En Dieu, l'espace est énergie. Le temps est ce qui transforme les énergies, le temps est transformation (comme le fœtus qui grandit pour devenir un être humain). Tout obéit à une progression ; les choses n'arrivent pas comme un bombardement. La sagesse de tout cela ne vient pas immédiatement ; elle prend du temps. Le temps apporte transformation et croissance <ins>petit à petit</ins>.</span>
+<span style="colorpurple;">En Dieu, l'espace est énergie. Le temps est ce qui transforme les énergies, le temps est transformation (comme le fœtus qui grandit pour devenir un être humain). Tout obéit à une progression ; les choses n'arrivent pas comme un bombardement. La sagesse de tout cela ne vient pas immédiatement ; elle prend du temps. Le temps apporte transformation et croissance <ins>petit à petit</ins>.</span>
 
 
 

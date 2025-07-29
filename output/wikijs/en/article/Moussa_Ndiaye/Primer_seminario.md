@@ -27,9 +27,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## First seminar given by Moussa N'Diaye Notes taken by Mercedes Delgado
+First seminar given by Moussa N'Diaye
 
-(The different colors that you will find in the letter of this document correspond to: Black: notes without initial text. — <span style="color:blue;">Dark blue</span>: full text contained in the photocopies provided by Moussa. — <span style="color:pink;">Pink</span>: some notes, comments or clarifications made by Moussa in his presentation of these texts)
+_Notes taken by Mercedes Delgado_
+
+(The different colors that you will find in the letter of this document correspond to: Black: notes without initial text. — <span style="color:blue;">Dark blue</span>: full text contained in the photocopies provided by Moussa. — <span style="colorpurple;">Pink</span>: some notes, comments or clarifications made by Moussa in his presentation of these texts)
 
 **THE STUDY OF CREATION**
 
@@ -246,76 +248,76 @@ What is worship? What happens when man worships? When man worships God, he wants
 
 We've said that there is knowledge. And there is the aspect of unifying things. We will study the application of wisdom to the facts of human life (as in the sciences, etc.), that is, we will study wisdom through the reality of the facts.
 
-<span style="color:pink;">A close look at the wisdom helper:</span>
+<span style="colorpurple;">A close look at the wisdom helper:</span>
 
 <span style="color:blue;">APPLICATION OF WISDOM AND REVELATION</span>
 
 <span style="color:blue;">I. SCOPE OF CONSCIOUSNESS</span>
 
-- <span style="color:blue;">Science (knowledge) leads to awareness of the facts.</span> <span style="color:pink;">Science always leads to God (source of all facts).</span>
-- <span style="color:blue;">Religion leads to awareness of values</span> <span style="color:pink;">(goodness, beauty, truth &rarr; love)</span>
-- <span style="color:blue;">Wisdom leads to coordinating the awareness of facts and values</span> <span style="color:pink;">(unification of facts and God &rarr; the soul is wisdom)</span>
-- <span style="color:blue;">Revelation leads to true awareness of Reality</span> <span style="color:pink;">(God)</span>
+- <span style="color:blue;">Science (knowledge) leads to awareness of the facts.</span> <span style="colorpurple;">Science always leads to God (source of all facts).</span>
+- <span style="color:blue;">Religion leads to awareness of values</span> <span style="colorpurple;">(goodness, beauty, truth &rarr; love)</span>
+- <span style="color:blue;">Wisdom leads to coordinating the awareness of facts and values</span> <span style="colorpurple;">(unification of facts and God &rarr; the soul is wisdom)</span>
+- <span style="color:blue;">Revelation leads to true awareness of Reality</span> <span style="colorpurple;">(God)</span>
 
 
 <span style="color:blue;">II. SOCIAL SCOPE</span>
 
 - <span style="color:blue;">Science causes the emergence of social classes (or socio-professional classes)</span>
-- <span style="color:blue;">Religion leads men to serve: it gives rise to morality and altruism</span> <span style="color:pink;">(because it deals with values, the same for all)</span>
-- <span style="color:blue;">Wisdom leads to a higher knowledge of ideas</span> <span style="color:pink;">(in society) and of men (and puts them in relationship &rarr; brotherhood)</span>
+- <span style="color:blue;">Religion leads men to serve: it gives rise to morality and altruism</span> <span style="colorpurple;">(because it deals with values, the same for all)</span>
+- <span style="color:blue;">Wisdom leads to a higher knowledge of ideas</span> <span style="colorpurple;">(in society) and of men (and puts them in relationship &rarr; brotherhood)</span>
 - <span style="color:blue;">Revelation liberates men and launches them into the eternal adventure of knowing God.</span>
 
 
-<span style="color:blue;">III. SCOPE OF THE FULLNESS OF THE SELF</span> <span style="color:pink;">(in society)</span>
+<span style="color:blue;">III. SCOPE OF THE FULLNESS OF THE SELF</span> <span style="colorpurple;">(in society)</span>
 
-- <span style="color:blue;">Science selects men</span> <span style="color:pink;">(it classifies them according to their training)</span>
-- <span style="color:blue;">Religion makes men love themselves as much as themselves</span> <span style="color:pink;">(does not select)</span>
-- <span style="color:blue;">Wisdom distributes justice to men when harmony is lacking among them</span> <span style="color:pink;">(Wisdom will make them agree)</span>
+- <span style="color:blue;">Science selects men</span> <span style="colorpurple;">(it classifies them according to their training)</span>
+- <span style="color:blue;">Religion makes men love themselves as much as themselves</span> <span style="colorpurple;">(does not select)</span>
+- <span style="color:blue;">Wisdom distributes justice to men when harmony is lacking among them</span> <span style="colorpurple;">(Wisdom will make them agree)</span>
 - <span style="color:blue;">Revelation glorifies men and reveals their abilities to associate with God.</span>
 
 
 <span style="color:blue;">IV. SCOPE OF FRATERNITY</span>
 
-- <span style="color:blue;">Science pursues in vain the creation of a fellowship of culture</span> <span style="color:pink;">(two people from different professions may not have much to talk about)</span>
-- <span style="color:blue;">Religion brings into existence the brotherhood of Spirit</span> <span style="color:pink;">(God is common to all)</span>
-- <span style="color:blue;">Philosophy seeks the brotherhood of wisdom</span> <span style="color:pink;">(combining science, culture and religion)</span>
+- <span style="color:blue;">Science pursues in vain the creation of a fellowship of culture</span> <span style="colorpurple;">(two people from different professions may not have much to talk about)</span>
+- <span style="color:blue;">Religion brings into existence the brotherhood of Spirit</span> <span style="colorpurple;">(God is common to all)</span>
+- <span style="color:blue;">Philosophy seeks the brotherhood of wisdom</span> <span style="colorpurple;">(combining science, culture and religion)</span>
 - <span style="color:blue;">Revelation shows spiritual fellowship</span>
 
 
 <span style="color:blue;">V. SCOPE OF PERSONALITY</span>
 
 - <span style="color:blue;">Science makes pride appear in personality</span>
-- <span style="color:blue;">Wisdom is the awareness of the meaning of personality</span> <span style="color:pink;">(and of values: God in me)</span>
+- <span style="color:blue;">Wisdom is the awareness of the meaning of personality</span> <span style="colorpurple;">(and of values: God in me)</span>
 - <span style="color:blue;">Religion is the experience that reveals the value of personality</span>
-- <span style="color:blue;">Revelation is the certainty of the survival of personality</span> <span style="color:pink;">(when I worship, God manifests himself, expresses himself in me, reveals himself in me. God is associated with me $\alpha$ Personality is not going to die)</span>
+- <span style="color:blue;">Revelation is the certainty of the survival of personality</span> <span style="colorpurple;">(when I worship, God manifests himself, expresses himself in me, reveals himself in me. God is associated with me $\alpha$ Personality is not going to die)</span>
 
-<span style="color:pink;">So much for the 5 aspects of a man's life.</span>
+<span style="colorpurple;">So much for the 5 aspects of a man's life.</span>
 
-<span style="color:pink;">Man has five important things: body, consciousness, personality, life, and free will. And who gave him all these things?</span>
+<span style="colorpurple;">Man has five important things: body, consciousness, personality, life, and free will. And who gave him all these things?</span>
 
 <span style="color:blue;">VI. SCOPE OF THE COSMOS</span>
 
-- <span style="color:blue;">Science deals with identifying, analyzing, classifying the fractional parts of the limitless cosmos</span> <span style="color:pink;">(astronomy)</span>
-- <span style="color:blue;">Religion encompasses the idea of the whole, the whole cosmos</span> <span style="color:pink;">(it does not analyze)</span>
-- <span style="color:blue;">Philosophy (wisdom) tries to identify the material segments of science with the concept of spiritual discernment of the whole</span> <span style="color:pink;">(it brings the scientist into agreement with the religious man)</span>
+- <span style="color:blue;">Science deals with identifying, analyzing, classifying the fractional parts of the limitless cosmos</span> <span style="colorpurple;">(astronomy)</span>
+- <span style="color:blue;">Religion encompasses the idea of the whole, the whole cosmos</span> <span style="colorpurple;">(it does not analyze)</span>
+- <span style="color:blue;">Philosophy (wisdom) tries to identify the material segments of science with the concept of spiritual discernment of the whole</span> <span style="colorpurple;">(it brings the scientist into agreement with the religious man)</span>
 - <span style="color:blue;">Revelation achieves this when it affirms that the cosmic circle is universal, eternal, and infinite</span>
 
 
 <span style="color:blue;">VII. LEVEL OF THE DEITY</span>
 
-<span style="color:pink;">(God's nature is Spirit. Goodness: He has given me everything I am. Love: He has given me life. Beauty: His mercy has also given me the ability to create, to do things)</span>
+<span style="colorpurple;">(God's nature is Spirit. Goodness: He has given me everything I am. Love: He has given me life. Beauty: His mercy has also given me the ability to create, to do things)</span>
 
-- <span style="color:blue;">Science shows Deity as a fact</span> <span style="color:pink;">(every movement has a force)</span>
-- <span style="color:blue;">Philosophy or wisdom presents the idea of an Absolute</span> <span style="color:pink;">[God has all ideas: Absolute Thought, Absolute Source of ideas, Absolute brain (facts are unlimited, ideas absolute)]</span>
-- <span style="color:blue;">Religion views God as a loving spiritual personality</span> <span style="color:pink;">(God has also done it out of Love: you belong to yourself, I give you yourself)</span>
-- <span style="color:blue;">Revelation affirms (proves) that there is a unity between the fact of Deity, the idea of an Absolute, and the spiritual personality of God</span> <span style="color:pink;">(man himself is the proof).</span>
+- <span style="color:blue;">Science shows Deity as a fact</span> <span style="colorpurple;">(every movement has a force)</span>
+- <span style="color:blue;">Philosophy or wisdom presents the idea of an Absolute</span> <span style="colorpurple;">[God has all ideas: Absolute Thought, Absolute Source of ideas, Absolute brain (facts are unlimited, ideas absolute)]</span>
+- <span style="color:blue;">Religion views God as a loving spiritual personality</span> <span style="colorpurple;">(God has also done it out of Love: you belong to yourself, I give you yourself)</span>
+- <span style="color:blue;">Revelation affirms (proves) that there is a unity between the fact of Deity, the idea of an Absolute, and the spiritual personality of God</span> <span style="colorpurple;">(man himself is the proof).</span>
 
 
 <span style="color:blue;">VIII. LEVEL OF KNOWLEDGE</span>
 
-<span style="color:pink;">(Man is a seeker. He knows nothing, yet he wants to know)</span>
+<span style="colorpurple;">(Man is a seeker. He knows nothing, yet he wants to know)</span>
 
-- <span style="color:blue;">The pursuit of knowledge constitutes science – the pursuit of wisdom is philosophy</span> <span style="color:pink;">(if man knows the science of himself, if he knows himself, he achieves wisdom)</span>
+- <span style="color:blue;">The pursuit of knowledge constitutes science – the pursuit of wisdom is philosophy</span> <span style="colorpurple;">(if man knows the science of himself, if he knows himself, he achieves wisdom)</span>
 - <span style="color:blue;">The love of God is religion</span>
 - <span style="color:blue;">The thirst for truth is a revelation</span>
 
@@ -324,30 +326,30 @@ We've said that there is knowledge. And there is the aspect of unifying things. 
 <span style="color:blue;">IX. LEVEL OF EXPRESSION OF REALIZATION</span>
 
 - <span style="color:blue;">In science, the idea precedes the expression of its realization</span>
-- <span style="color:blue;">In religion, the expression of realization precedes the expression of the idea</span> <span style="color:pink;">(I want to be like God and that's why I want to know his nature)</span>
+- <span style="color:blue;">In religion, the expression of realization precedes the expression of the idea</span> <span style="colorpurple;">(I want to be like God and that's why I want to know his nature)</span>
 - <span style="color:blue;">There is an immense difference between the evolutionary will to believe (a product of the enlightenment of reason) or religious discernment on the one hand and the revelation of the growing will on the other.</span>
 
 
 <span style="color:blue;">X. LEVEL OF EVOLUTION</span>
 
-- <span style="color:blue;">In evolution, religion often leads men to create their concepts of God</span> <span style="color:pink;">(in primitive religion, man anthropomorphized God)</span>
-- <span style="color:blue;">Revelation shows the phenomenon of men of God evolving from themselves</span> <span style="color:pink;">(God shows himself through me)</span>
+- <span style="color:blue;">In evolution, religion often leads men to create their concepts of God</span> <span style="colorpurple;">(in primitive religion, man anthropomorphized God)</span>
+- <span style="color:blue;">Revelation shows the phenomenon of men of God evolving from themselves</span> <span style="colorpurple;">(God shows himself through me)</span>
 - <span style="color:blue;">Evolution tends to make God similar to man</span>
-- <span style="color:blue;">Revelation tends to make man similar to God</span> <span style="color:pink;">(the idea of religion is always evolving).</span>
+- <span style="color:blue;">Revelation tends to make man similar to God</span> <span style="colorpurple;">(the idea of religion is always evolving).</span>
 
 
 <span style="color:blue;">XI. PURPOSE LEVEL</span>
 
-- <span style="color:blue;">Science is only satisfied with the first causes</span> <span style="color:pink;">(there are added causes, but they come from an origin, which is the cause of causes)</span>
-- <span style="color:blue;">Religion with only the supreme personality</span> <span style="color:pink;">(the cause without a cause)</span>
+- <span style="color:blue;">Science is only satisfied with the first causes</span> <span style="colorpurple;">(there are added causes, but they come from an origin, which is the cause of causes)</span>
+- <span style="color:blue;">Religion with only the supreme personality</span> <span style="colorpurple;">(the cause without a cause)</span>
 - <span style="color:blue;">Philosophy only with unity</span>
-- <span style="color:blue;">Revelation states that the three are unified and that all are good</span> <span style="color:pink;">(and necessary)</span>
+- <span style="color:blue;">Revelation states that the three are unified and that all are good</span> <span style="colorpurple;">(and necessary)</span>
 
-<span style="color:blue;">The Eternal Real is the Good of the Universe. In the spiritual experience of all personalities, it is always noted that the Good</span> <span style="color:pink;">(God)</span> <span style="color:blue;">is Real and that Real is Good.</span>
+<span style="color:blue;">The Eternal Real is the Good of the Universe. In the spiritual experience of all personalities, it is always noted that the Good</span> <span style="colorpurple;">(God)</span> <span style="color:blue;">is Real and that Real is Good.</span>
 
-<span style="color:pink;">The relationship between facts and their source is wisdom, which serves revelation. Facts constitute science, and their source is religion; the combination of the two constitutes wisdom. Facts express what the source wants them to express &rarr; the source manifests itself through the facts &rarr; the source reveals itself in the facts &rarr; revelation.</span>
+<span style="colorpurple;">The relationship between facts and their source is wisdom, which serves revelation. Facts constitute science, and their source is religion; the combination of the two constitutes wisdom. Facts express what the source wants them to express &rarr; the source manifests itself through the facts &rarr; the source reveals itself in the facts &rarr; revelation.</span>
 
-<span style="color:pink;">And these are the four aspects of truth: Man is a fact. Who made me? God. &rarr; These relationships constitute wisdom, from which the soul is born, which is revelation &rarr; This is the way God comes to man. These aspects are inseparable. All creation is based on them. For this reason, this quaternary application has been made.</span>
+<span style="colorpurple;">And these are the four aspects of truth: Man is a fact. Who made me? God. &rarr; These relationships constitute wisdom, from which the soul is born, which is revelation &rarr; This is the way God comes to man. These aspects are inseparable. All creation is based on them. For this reason, this quaternary application has been made.</span>
 
 3. STUDY OF PERSONALITY
 
@@ -394,60 +396,60 @@ Before dying, almost all men have this restlessness to question the subject of G
 
 ***The divine personality***
 
-<span style="color:pink;">[There are two different forms of personhood: human personhood (the human self: the 7 powers) and divine personhood (when I want to resemble and be like God). Divine personhood is when my human self has the will to resemble God, to become divine.]</span>
+<span style="colorpurple;">[There are two different forms of personhood: human personhood (the human self: the 7 powers) and divine personhood (when I want to resemble and be like God). Divine personhood is when my human self has the will to resemble God, to become divine.]</span>
 
 - <span style="color:blue;">Personality is that quality in reality which is bestowed by the Universal Father himself, or by the Conjoint Actor (the Infinite Spirit, the 3rd source or 3rd person of the Trinity) acting in his stead.</span>
-- <span style="color:blue;">It can be given to any living energy system that contains the mind</span> <span style="color:pink;">(the 7 adjutant spirits of the mind)</span> <span style="color:blue;">or the spirit <span style="color:pink;">(the Adjuster).</span> Animals are excluded.</span>
-- <span style="color:blue;">It is not</span> <span style="color:pink;">(by free will)</span> <span style="color:blue;">completely subject to the obstacles of preceding causes</span> <span style="color:pink;">(man does not have to be subject to his parents because they brought him into the world).</span> <span style="color:blue;">It is relatively creative or co-creative.</span>
+- <span style="color:blue;">It can be given to any living energy system that contains the mind</span> <span style="colorpurple;">(the 7 adjutant spirits of the mind)</span> <span style="color:blue;">or the spirit <span style="colorpurple;">(the Adjuster).</span> Animals are excluded.</span>
+- <span style="color:blue;">It is not</span> <span style="colorpurple;">(by free will)</span> <span style="color:blue;">completely subject to the obstacles of preceding causes</span> <span style="colorpurple;">(man does not have to be subject to his parents because they brought him into the world).</span> <span style="color:blue;">It is relatively creative or co-creative.</span>
 - <span style="color:blue;">When given to evolutionary material creatures, it causes the spirit to strive to master energy-matter through the mediation of the mind.</span>
 - <span style="color:blue;">While devoid of identity, personality can unify the identity of any living energy system.</span>
-- <span style="color:blue;">Their sensitivity to the personality circuit is only qualitative</span> <span style="color:pink;">(as far as values go, one cannot have more personality than one has),</span> <span style="color:blue;">contrary to the three energies</span> <span style="color:pink;">(material: body / morontial: soul / spiritual: Adjuster)</span> <span style="color:blue;">which are both qualitatively and quantitatively sensitive to gravity.</span>
+- <span style="color:blue;">Their sensitivity to the personality circuit is only qualitative</span> <span style="colorpurple;">(as far as values go, one cannot have more personality than one has),</span> <span style="color:blue;">contrary to the three energies</span> <span style="colorpurple;">(material: body / morontial: soul / spiritual: Adjuster)</span> <span style="color:blue;">which are both qualitatively and quantitatively sensitive to gravity.</span>
 - <span style="color:blue;">Personality does not change in the presence of change.</span>
 - <span style="color:blue;">You can make a gift to God – the consecration of free will to do God's will.</span>
-- <span style="color:blue;">It is characterized by morality - the awareness of the relativity of relationships with other people. It discerns the levels of behavior and makes a reasonable choice among them.</span> <span style="color:pink;">(in the evil of some act one can often see that it is caused by a reaction to another previous evil, that deep down this evil person is seeking justice)</span>
-- <span style="color:blue;">Personality is unique, absolutely unique</span> <span style="color:pink;">(this provides great security)</span>: <span style="color:blue;">it is unique in time and space; it is unique in eternity and in Paradise; it is unique at the moment in which it is granted – there are no copies; it is unique at every moment of existence; it is unique with respect to God – who is no respecter of persons, but who does not add them either, since they cannot be added – They can be associated, but not totalized.</span> <span style="color:pink;">(One personality cannot be placed within another, nor can one be added to another)</span>
+- <span style="color:blue;">It is characterized by morality - the awareness of the relativity of relationships with other people. It discerns the levels of behavior and makes a reasonable choice among them.</span> <span style="colorpurple;">(in the evil of some act one can often see that it is caused by a reaction to another previous evil, that deep down this evil person is seeking justice)</span>
+- <span style="color:blue;">Personality is unique, absolutely unique</span> <span style="colorpurple;">(this provides great security)</span>: <span style="color:blue;">it is unique in time and space; it is unique in eternity and in Paradise; it is unique at the moment in which it is granted – there are no copies; it is unique at every moment of existence; it is unique with respect to God – who is no respecter of persons, but who does not add them either, since they cannot be added – They can be associated, but not totalized.</span> <span style="colorpurple;">(One personality cannot be placed within another, nor can one be added to another)</span>
 - <span style="color:blue;">The personality reacts directly to the presence of another personality.</span>
-- <span style="color:blue;">It is an element that can be added to the spirit</span> <span style="color:pink;">(of God in man),</span> <span style="color:blue;">which illustrates the primacy of the Father over the Son. (The mind does not need to be added to the spirit).</span>
-- <span style="color:blue;">Personality can survive physical death with the identity that is in the surviving soul. The Adjuster</span> <span style="color:pink;">(God)</span> <span style="color:blue;">and the personality</span> <span style="color:pink;">(man)</span> <span style="color:blue;">do not vary; the relationship between the two</span> <span style="color:pink;">(in the embryonic soul)</span> <span style="color:blue;">is only change, continual evolution; and if that change (growth) should cease, it would mean the end of the soul.</span> <span style="color:pink;">Personality shows itself very early in man. When the Adjuster arrives, contact is made between it and the personality, and the embryonic soul is born. Later, when man desires to seek God, when he cooperates with Him, the soul grows and develops. <ins>It must grow</ins> to survive.</span>
-- <span style="color:blue;">The personality has a unique awareness of time</span> <span style="color:pink;">(experience will allow the personality to have an awareness of time and space),</span> <span style="color:blue;"> something different from the perception of time that the mind (of man) or the spirit (of God) have.</span>
-- <span style="color:blue;">This personality is that part that allows us to recognize and positively identify a person as the one we have known before, even if he has changed a lot as a result of modifications in the vehicle of expression and manifestation of his personality.</span> <span style="color:pink;">A man always has the same personality, even if he has been able to change his character. The more he learns, the more stable he will become in his way of being.</span>
+- <span style="color:blue;">It is an element that can be added to the spirit</span> <span style="colorpurple;">(of God in man),</span> <span style="color:blue;">which illustrates the primacy of the Father over the Son. (The mind does not need to be added to the spirit).</span>
+- <span style="color:blue;">Personality can survive physical death with the identity that is in the surviving soul. The Adjuster</span> <span style="colorpurple;">(God)</span> <span style="color:blue;">and the personality</span> <span style="colorpurple;">(man)</span> <span style="color:blue;">do not vary; the relationship between the two</span> <span style="colorpurple;">(in the embryonic soul)</span> <span style="color:blue;">is only change, continual evolution; and if that change (growth) should cease, it would mean the end of the soul.</span> <span style="colorpurple;">Personality shows itself very early in man. When the Adjuster arrives, contact is made between it and the personality, and the embryonic soul is born. Later, when man desires to seek God, when he cooperates with Him, the soul grows and develops. <ins>It must grow</ins> to survive.</span>
+- <span style="color:blue;">The personality has a unique awareness of time</span> <span style="colorpurple;">(experience will allow the personality to have an awareness of time and space),</span> <span style="color:blue;"> something different from the perception of time that the mind (of man) or the spirit (of God) have.</span>
+- <span style="color:blue;">This personality is that part that allows us to recognize and positively identify a person as the one we have known before, even if he has changed a lot as a result of modifications in the vehicle of expression and manifestation of his personality.</span> <span style="colorpurple;">A man always has the same personality, even if he has been able to change his character. The more he learns, the more stable he will become in his way of being.</span>
 
 
-<span style="color:blue;">Personality:</span> <span style="color:pink;">manifest God.</span>
+<span style="color:blue;">Personality:</span> <span style="colorpurple;">manifest God.</span>
 
-<span style="color:blue;">Reality:</span> <span style="color:pink;">God, who has given man the ability to go to Him through the local universe, the superuniverse, and the central universe.</span>
+<span style="color:blue;">Reality:</span> <span style="colorpurple;">God, who has given man the ability to go to Him through the local universe, the superuniverse, and the central universe.</span>
 
-1. <span style="color:blue;">State of location: The personality functions (in all spaces) <span style="color:pink;">with equal efficiency in the Local Universe, the Superuniverse, and the Central Universe.</span>
-2. <span style="color:blue;">State of meaning: Personality plays an effective role at the levels of the finite, the Absonite</span> <span style="color:pink;">(between the finite and the infinite)</span> <span style="color:blue;">and even at the borders of the Absolute</span> <span style="color:pink;">(the potentials of God).</span>
-3. <span style="color:blue;">Value status: Personality can develop experientially in the progressive realms: material, morontial</span> <span style="color:pink;">(Local Universe and Superuniverse)</span> <span style="color:blue;">and spiritual</span> <span style="color:pink;">(Paradise).</span>
+1. <span style="color:blue;">State of location: The personality functions (in all spaces) <span style="colorpurple;">with equal efficiency in the Local Universe, the Superuniverse, and the Central Universe.</span>
+2. <span style="color:blue;">State of meaning: Personality plays an effective role at the levels of the finite, the Absonite</span> <span style="colorpurple;">(between the finite and the infinite)</span> <span style="color:blue;">and even at the borders of the Absolute</span> <span style="colorpurple;">(the potentials of God).</span>
+3. <span style="color:blue;">Value status: Personality can develop experientially in the progressive realms: material, morontial</span> <span style="colorpurple;">(Local Universe and Superuniverse)</span> <span style="color:blue;">and spiritual</span> <span style="colorpurple;">(Paradise).</span>
 
 ***<span style="color:blue;">The dimensions of personality in the finite</span>***
 
 <span style="color:blue;">Personality has three dimensions in the finite:</span>
 
-1. <span style="color:blue;">Length: represents the direction and nature of progress – movement through space and time – evolution</span> <span style="color:pink;">(through experience and willpower)</span>
-2. <span style="color:blue;">Vertical depth: includes the organism's drives and behaviors, the varying levels of self-understanding, and the general phenomenon of reaction to what surrounds us.</span> <span style="color:pink;">(The more man knows God, the deeper he becomes and the higher he rises. Angels, .... can see the vertical light of the soul)</span>
-3. <span style="color:blue;">Breadth: encompasses the domains of coordination, association, and ego organization.</span> <span style="color:pink;">(With everyone else and everything within reach)</span>
+1. <span style="color:blue;">Length: represents the direction and nature of progress – movement through space and time – evolution</span> <span style="colorpurple;">(through experience and willpower)</span>
+2. <span style="color:blue;">Vertical depth: includes the organism's drives and behaviors, the varying levels of self-understanding, and the general phenomenon of reaction to what surrounds us.</span> <span style="colorpurple;">(The more man knows God, the deeper he becomes and the higher he rises. Angels, .... can see the vertical light of the soul)</span>
+3. <span style="color:blue;">Breadth: encompasses the domains of coordination, association, and ego organization.</span> <span style="colorpurple;">(With everyone else and everything within reach)</span>
 
-<span style="color:pink;">(4, 5 and 6 are the dimensions of the Absonite; 7 are those of the Absolute)</span>
+<span style="colorpurple;">(4, 5 and 6 are the dimensions of the Absonite; 7 are those of the Absolute)</span>
 
 5 and 6. STUDY OF FAITH
 
-<span style="color:pink;">God made me with him in me; he gave me life. Then he gave me free will, so that I can decide whether or not to be born again, whether or not to be like him; it is I who decide to continue. He gave me all this without my asking for anything. Now, if I ask to be like him, he will grant it to me, but I must ask him. If this is so, I will have to give to others, as he once gave to me. And my soul will grow.
+<span style="colorpurple;">God made me with him in me; he gave me life. Then he gave me free will, so that I can decide whether or not to be born again, whether or not to be like him; it is I who decide to continue. He gave me all this without my asking for anything. Now, if I ask to be like him, he will grant it to me, but I must ask him. If this is so, I will have to give to others, as he once gave to me. And my soul will grow.
 
-<span style="color:pink;">On Earth, all things die, everything that is built perishes, man is mortal. But he does not want this; he wants to be immortal, as God is. To be like Him, one must desire it. If it is a sincere desire, the soul is born. But one must not stop there; one must make the soul grow.</span>
+<span style="colorpurple;">On Earth, all things die, everything that is built perishes, man is mortal. But he does not want this; he wants to be immortal, as God is. To be like Him, one must desire it. If it is a sincere desire, the soul is born. But one must not stop there; one must make the soul grow.</span>
 
 <span style="color:blue;">Faith, which points the way to the goal of human salvation, to the ultimate goal of universal human achievement, liberates man:</span>
 
-1. <span style="color:blue;">From material obstacles</span> <span style="color:pink;">(the limits of the body. E.g.: man cannot see God)</span> <span style="color:blue;">in the personal experience of filiation with God who is Spirit.</span> <span style="color:pink;">(“I was born in God, He was born in me”. Your moral being, through your experience, will come to know God &rarr; from there the Soul will be born &rarr; I will be born as a Son of God. But we must work to make the Soul grow.)</span>
-2. <span style="color:blue;">From intellectual slavery</span> <span style="color:pink;">(from the ignorance of men who do not know God),</span> <span style="color:blue;">men will know the Truth</span> <span style="color:pink;">(the relationship of my being with my God, for the Love of God)</span> <span style="color:blue;">and the Truth will set them free.</span> <span style="color:pink;">“It is not that God exists because Jesus said so, but that he said it because it is true”.</span>
-3. <span style="color:blue;">From spiritual blindness</span> <span style="color:pink;">(everyone is born without knowing God, even Jesus)</span> <span style="color:blue;">to reach the human concept of the brotherhood of men and the subsequent awareness of the brotherhood of all creatures in the Universe; to the discovery of spiritual reality through service</span> <span style="color:pink;">(if I don't know God, I can't make Him known to others),</span> <span style="color:blue;">and the revelation of Goodness</span> <span style="color:pink;">(I will also be Goodness, but to give it to others. If not, why?)</span> <span style="color:blue;">of spiritual values through the ministry of Love.</span>
-4. <span style="color:blue;">Of the shortcomings of the human personality</span> <span style="color:pink;">(to unify with his Adjuster)</span> <span style="color:blue;">in regard to reaching the spiritual levels of the Universe and finally understanding the harmony and perfection</span> <span style="color:pink;">(which man can now begin to understand by what is within him)</span> <span style="color:blue;">of Paradise, the place of existence of the Absolutes.</span>
-5. <span style="color:blue;">Of himself, by liberating him from the limitations of self-consciousness by reaching the cosmic levels of the Supreme Thought</span> <span style="color:pink;">(the thought of man when he rises to the cosmic levels)</span> <span style="color:blue;">and by coordination with the realization of all other beings conscious of them.</span> <span style="color:pink;">(Cosmic consciousness is God consciousness. I ask God that my human consciousness become cosmic consciousness in order to understand everything)</span>
+1. <span style="color:blue;">From material obstacles</span> <span style="colorpurple;">(the limits of the body. E.g.: man cannot see God)</span> <span style="color:blue;">in the personal experience of filiation with God who is Spirit.</span> <span style="colorpurple;">(“I was born in God, He was born in me”. Your moral being, through your experience, will come to know God &rarr; from there the Soul will be born &rarr; I will be born as a Son of God. But we must work to make the Soul grow.)</span>
+2. <span style="color:blue;">From intellectual slavery</span> <span style="colorpurple;">(from the ignorance of men who do not know God),</span> <span style="color:blue;">men will know the Truth</span> <span style="colorpurple;">(the relationship of my being with my God, for the Love of God)</span> <span style="color:blue;">and the Truth will set them free.</span> <span style="colorpurple;">“It is not that God exists because Jesus said so, but that he said it because it is true”.</span>
+3. <span style="color:blue;">From spiritual blindness</span> <span style="colorpurple;">(everyone is born without knowing God, even Jesus)</span> <span style="color:blue;">to reach the human concept of the brotherhood of men and the subsequent awareness of the brotherhood of all creatures in the Universe; to the discovery of spiritual reality through service</span> <span style="colorpurple;">(if I don't know God, I can't make Him known to others),</span> <span style="color:blue;">and the revelation of Goodness</span> <span style="colorpurple;">(I will also be Goodness, but to give it to others. If not, why?)</span> <span style="color:blue;">of spiritual values through the ministry of Love.</span>
+4. <span style="color:blue;">Of the shortcomings of the human personality</span> <span style="colorpurple;">(to unify with his Adjuster)</span> <span style="color:blue;">in regard to reaching the spiritual levels of the Universe and finally understanding the harmony and perfection</span> <span style="colorpurple;">(which man can now begin to understand by what is within him)</span> <span style="color:blue;">of Paradise, the place of existence of the Absolutes.</span>
+5. <span style="color:blue;">Of himself, by liberating him from the limitations of self-consciousness by reaching the cosmic levels of the Supreme Thought</span> <span style="colorpurple;">(the thought of man when he rises to the cosmic levels)</span> <span style="color:blue;">and by coordination with the realization of all other beings conscious of them.</span> <span style="colorpurple;">(Cosmic consciousness is God consciousness. I ask God that my human consciousness become cosmic consciousness in order to understand everything)</span>
 6. <span style="color:blue;">Of time, for the realization of an eternal life of endless progress in the knowledge and service of God.</span>
-7. <span style="color:blue;">From the finite, by a perfected unity with the Deity</span> <span style="color:pink;">(the nature of God in myself)</span> <span style="color:blue;">and by the Supreme</span> <span style="color:pink;">(Supremacy: when you have grown your Soul)</span> <span style="color:blue;">through whom the creature tries to transcendentally discover the Ultimate.</span>
+7. <span style="color:blue;">From the finite, by a perfected unity with the Deity</span> <span style="colorpurple;">(the nature of God in myself)</span> <span style="color:blue;">and by the Supreme</span> <span style="colorpurple;">(Supremacy: when you have grown your Soul)</span> <span style="color:blue;">through whom the creature tries to transcendentally discover the Ultimate.</span>
 
-<span style="color:pink;">In God, space is energies. Time is what transforms energies, time is transformation (like the fetus that grows to become a human being). Everything obeys a progression; things don't arrive like a bombardment. The wisdom of all this doesn't come immediately; it takes time. Time brings transformation and growth <ins>little by little</ins>.</span>
+<span style="colorpurple;">In God, space is energies. Time is what transforms energies, time is transformation (like the fetus that grows to become a human being). Everything obeys a progression; things don't arrive like a bombardment. The wisdom of all this doesn't come immediately; it takes time. Time brings transformation and growth <ins>little by little</ins>.</span>
 
 
 

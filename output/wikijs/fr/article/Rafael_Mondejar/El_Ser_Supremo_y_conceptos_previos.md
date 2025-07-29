@@ -640,7 +640,7 @@ Rafael Mondéjar. Mai 2014
 - [Cet article est sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf)
 
 
-<figure class=«table chapter-navigator»>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

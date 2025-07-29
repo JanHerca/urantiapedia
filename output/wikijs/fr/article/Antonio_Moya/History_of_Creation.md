@@ -832,7 +832,7 @@ Comme toujours, les décisions et les plans de Dieu sont à l'origine de tous ce
 **1)** <ins>La synthèse existentielle des potentiels.</ins> - Lorsque Dieu donne naissance aux Absolus, il les synthétise en l'Absolu Universel, de sorte qu'ils ne forment qu'un seul Absolu dans l'éternité. Il s'agit d'une synthèse existentielle, et non d'une synthèse expérientielle.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/6.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/06.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -840,7 +840,7 @@ Comme toujours, les décisions et les plans de Dieu sont à l'origine de tous ce
 **2)** <ins>La non-synthèse du Manifesté.</ins> - Lorsque Dieu fait émerger la thèse du Fils Éternel, Il fait aussi naître l'antithèse du Fils, le Paradis non personnel et non spirituel. Dieu ne synthétise pas ces deux manifestations absolues. Il les coordonne par le mental, mais les laisse par ailleurs séparées, problème que les Déités et Trinités expérientielles qui apparaîtront plus tard devront résoudre.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/7.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/07.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -848,7 +848,7 @@ Comme toujours, les décisions et les plans de Dieu sont à l'origine de tous ce
 **3)** <ins>Thèse sur thèse.</ins> - Puisque le Fils Originel est la Personne Absolue, Il devient la thèse originelle de la Déité. Dieu, en tant que Père de ce Fils, devient la préthèse de la Déité. Dieu s'unit alors au Fils pour trinitiser l'Esprit, qui devient ainsi la thèse commune de la Déité. Tous trois sont unis dans la Trinité du Paradis, qui devient la thèse indivise de la Déité. Il s'agit d'une superposition de thèses sur thèses, et non d'une synthèse. Cela a pour effet d'unifier complètement la Déité existentielle et de la séparer complètement de la non-déité, à l'exception de ce qui est fonctionnellement coordonné par l'esprit.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/8.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/08.jpg">
 </figure>
 
 <br style="clear:both;"/>

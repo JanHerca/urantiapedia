@@ -27,7 +27,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Migraciones y asentamientos urantianos María José García Gaete
+_María José García Gaete_
+
+## Migraciones y asentamientos urantianos
 
 Este trabajo trata sobre las migraciones y asentamientos urantianos ocurridos desde los antecesores de los primeros seres humanos hasta el fin de las migraciones de las incipientes razas humanas y la participación de los descendientes de Adán en el progreso y avance racial planetario. Para esta recopilación ocupe y sinteticé los documentos 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79. 80 y 96.
 

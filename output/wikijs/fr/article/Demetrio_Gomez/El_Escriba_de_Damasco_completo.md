@@ -368,7 +368,7 @@ Et ainsi réussir et aussi devoir ser... Lorsque l'homme s'associe à Dieu, de g
 - [Cet article est sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
 
 
-<figure class=«table chapter-navigator»>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

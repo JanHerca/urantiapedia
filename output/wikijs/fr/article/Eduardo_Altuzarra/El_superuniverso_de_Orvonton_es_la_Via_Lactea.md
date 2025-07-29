@@ -273,7 +273,7 @@ De tous ces paragraphes du Décret 57, j'interprète que, à l'exception de quel
 ## Bibliographie
 
 - DIVERS PARAGRAPHES DES DOCUMENTS 11-12-15-32-41-42-49 ET 57 DU LIVRE D'URANTIA.
-- ["ASTRONOMIE ET SUPERUNIVERS"](/fr/article/Troy_R_Bishop/Astronomy_and_superuniverses_commented) par Troy R. Bishop © 1982
+- ["ASTRONOMIE ET SUPERUNIVERS"](/fr/article/Troy_R_Bishop/Astronomy_and_superuniverses) par Troy R. Bishop © 1982
 - « À QUOI RESSEMBLE VRAIMENT ORVONTON ? » par Antonio Moya 1987
 - "D'URANTIA À L'UNIVERS MAÎTRE, FAITS INTÉRESSANTS" par Humberto Andrade 1997
 - [QUELLE EST VRAIMENT LA TAILLE D'ORVONTON ?](/fr/article/Norm_Duval/How_big_is_Orvonton) par Norm Du Val.

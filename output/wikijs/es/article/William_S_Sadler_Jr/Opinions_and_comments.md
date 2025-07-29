@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-**Nota del traductor**: <small>El 23 de julio de 1960 (hace ya 46 años), Bill Sadler se reunió con un grupo de estudio del Libro de Urantia en Oklahoma City (EE.UU.). La charla-conferencia fue bastante larga y se grabó en cinta magnetofónica. Años después, Kristen Maaherra la ha puesto por escrito en 11 capítulos, que actualmente están colgados en la página web de la Fellowship. Traduzco a continuación aquellos comentarios y opiniones de Bill que a mí me parecen más interesantes.<small>
+**Nota del traductor**: <small>El 23 de julio de 1960 (hace ya 46 años), Bill Sadler se reunió con un grupo de estudio del Libro de Urantia en Oklahoma City (EE.UU.). La charla-conferencia fue bastante larga y se grabó en cinta magnetofónica. Años después, Kristen Maaherra la ha puesto por escrito en 11 capítulos, que actualmente están colgados en la página web de la Fellowship. Traduzco a continuación aquellos comentarios y opiniones de Bill que a mí me parecen más interesantes.</small>
 
 ## Sobre el laicismo
 

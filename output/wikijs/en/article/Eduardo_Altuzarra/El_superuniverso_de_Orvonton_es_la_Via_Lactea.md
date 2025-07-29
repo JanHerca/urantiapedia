@@ -273,7 +273,7 @@ From all these paragraphs of Decree 57 I interpret that, except for a very few n
 ## Bibliography
 
 - VARIOUS PARAGRAPHS FROM DOCUMENTS 11-12-15-32-41-42-49 AND 57 OF THE URANTIA BOOK.
-- [“ASTRONOMY AND THE SUPERUNIVERSE”](/en/article/Troy_R_Bishop/Astronomy_and_superuniverses_commented) by Troy R. Bishop © 1982
+- [“ASTRONOMY AND THE SUPERUNIVERSE”](/en/article/Troy_R_Bishop/Astronomy_and_superuniverses) by Troy R. Bishop © 1982
 - “WHAT IS ORVONTON REALLY LIKE?” by Antonio Moya 1987
 - “FROM URANTIA TO THE MASTER UNIVERSE, INTERESTING FACTS” by Humberto Andrade 1997
 - [HOW BIG IS ORVONTON REALLY?](/en/article/Norm_Duval/How_big_is_Orvonton) by Norm Du Val.

@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-**Note du traducteur** : Le 23 juillet 1960 (il y a 46 ans), Bill Sadler a rencontré un groupe d'étude du Livre d'Urantia à Oklahoma City, en Oklahoma. La conférence, assez longue, a été enregistrée. Des années plus tard, Kristen Maaherra a compilé 11 chapitres, désormais publiés sur le site web de la Fellowship. Je traduis ci-dessous les commentaires et opinions de Bill que je trouve particulièrement intéressants.
+**Note du traducteur** : <small>Le 23 juillet 1960 (il y a 46 ans), Bill Sadler a rencontré un groupe d'étude du Livre d'Urantia à Oklahoma City, en Oklahoma. La conférence, assez longue, a été enregistrée. Des années plus tard, Kristen Maaherra a compilé 11 chapitres, désormais publiés sur le site web de la Fellowship. Je traduis ci-dessous les commentaires et opinions de Bill que je trouve particulièrement intéressants.</small>
 
 ## Sur la laïcité
 

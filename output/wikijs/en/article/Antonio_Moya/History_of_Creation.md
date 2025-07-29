@@ -832,7 +832,7 @@ As usual, God's decisions and plans are behind all these phenomena of experienti
 **1)** <ins>The existential synthesis of potentials.</ins> - When God gives birth to the Absolutes, he synthesizes them into the Universal Absolute, so that in eternity they are one Absolute. This is an existential synthesis, not an experiential synthesis.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/6.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/06.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -840,7 +840,7 @@ As usual, God's decisions and plans are behind all these phenomena of experienti
 **2)** <ins>The Non-Synthesis of the Manifested.</ins> - When God brings forth the thesis of the Eternal Son, He also brings about the antithesis of the Son, the non-personal, non-spiritual Paradise. God does not synthesize these two absolute manifestations. He coordinates them by means of mind, but otherwise leaves them separate, a problem to be solved by the experiential Deities and Trinities who will appear later.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/7.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/07.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -848,7 +848,7 @@ As usual, God's decisions and plans are behind all these phenomena of experienti
 **3)** <ins>Thesis upon thesis.</ins>- Since the Original Son is the Absolute Person, He becomes the original thesis of Deity. God, as the Father of this Son, becomes the pre-thesis of Deity. God then unites with the Son to trinitize the Spirit, which thus becomes the joint thesis of Deity. All three are united in the Paradise Trinity, which becomes the undivided thesis of Deity. This is a superposition of thesis upon thesis, not the creation of a synthesis. It has the effect of completely unifying existential Deity and completely separating it from non-deity except that which is functionally coordinated by mind.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/History_of_Creation/8.jpg">
+<img src="/image/article/Spain_Association/History_of_Creation/08.jpg">
 </figure>
 
 <br style="clear:both;"/>

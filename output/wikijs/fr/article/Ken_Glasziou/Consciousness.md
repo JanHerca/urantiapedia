@@ -63,12 +63,12 @@ Un phénomène qui a fait l'objet d'études approfondies est le fait qu'un seul 
 
 Cette étrange réticence d’une particule à voir son parcours révélé ne semble pas être due à un effet physique sur la particule par les instruments utilisés lors de la tentative d’observation, comme le montrent les travaux décrits ci-dessous.
 
+## Un fantôme intelligent
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Consciousness/005530.png">
 <figcaption><b>Expérience Chiao</b><br>A. La lumière frappe le séparateur et les deux sont séparément. Même les photons uniques parcourent les deux chemins. Un compteur enregistre les photons arrivant au même instant. Avec cet agencement, des effets d'interférence peuvent être observés.<br>B. Identique à « A » ci-dessus, sauf qu'un polariseur dans le chemin supérieur permet à l'observateur de « marquer » l'un des chemins empruntés par un photon. Cela détruit les effets d'interférence. <br> C. Comme en « B », sauf que des polariseurs supplémentaires sont placés avant les détecteurs, ce qui signifie que l'observateur perd les informations de « marquage » obtenues à partir du premier polariseur. Remarquablement, les modèles d’interférence sont restaurés. Qui ou quoi fait ça ??</figcaption>
 </figure>
-
-## Un fantôme intelligent
 
 Des travaux indépendants de Pritchard et de ses collègues, ou de Chiao et son groupe, décrivent des schémas incroyablement élaborés tentant d'acquérir des connaissances sur les voies dans des types d'expériences à deux fentes sans perturber les performances ondulatoires d'une particule, mais en vain[^1]. À chaque fois, le « fantôme dans la machine » a réussi à surpasser ses adversaires.
 
@@ -77,6 +77,8 @@ Une expérience de Chiao et al.[^2] est illustrative. Un polariseur a été plac
 Tout en laissant le polariseur au même endroit, deux autres ont été ajoutés plus loin le long des trajets, un devant chaque détecteur d'interférence. Cette action signifiait que les observateurs perdaient la connaissance du chemin qu'ils avaient précédemment acquis en marquant les photons empruntant un chemin. La conséquence a été la restauration rapide du phénomène d'interférence, signalée par la réémergence du comportement ondulatoire des photons au niveau du système de détection.
 
 Un système encore plus élaboré a ensuite été mis en place par le groupe de Chiao en substituant des polariseurs séparateurs de faisceau à ceux situés devant les détecteurs. L'heure d'arrivée et la polarisation de tous les photons atteignant les détecteurs ont été automatiquement enregistrées et stockées dans un ordinateur. Un examen ultérieur des données a montré que, pour des photons polarisés de manière similaire, les modèles d'interférence persistaient, mais seulement lorsque la trajectoire des photons individuels restait inconnue.
+
+<br style="clear:both;"/>
 
 ## L'ordre central des choses
 

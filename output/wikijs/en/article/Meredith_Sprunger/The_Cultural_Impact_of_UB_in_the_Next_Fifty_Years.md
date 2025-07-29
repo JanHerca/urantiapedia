@@ -87,7 +87,7 @@ If one or more of these unusual events should take place in the next fifty years
 
 What is the probability that one or more of these catalytic events will happen in the next fifty years? I think there is a greater than 50% chance that one or more of these, or some other focusing event, will take place in the next tive decades. If this assessment is correct, what can we do to prepare for it? Outside of being mentally and spiritually prepared, I think there is little that we can or should do — other than building an evolutionary foundation for future growth. This we should be doing irrespective of any “sudden change” possibilities; for whatever does survive must have this kind of solid foundation.
 
-> _A religious leader of national or international stature may espouse The Urantia Book. A Billy Graham, Paul Tillich, or Robert Schuler could quickly focus attention on The Urantia Book._
+> _A religious leader of national or international stature may espouse The Urantia Book._ A Billy Graham, Paul Tillich, or Robert Schuler could quickly focus attention on _The Urantia Book._
 
 Unexpected events have their own dynamics. Outside of developing a stable grass roots presence in our society, we can do little to prepare for unusual events. If and when these sudden changes occur, they will be governed by their own leadership and our ability to respond wisely in the contemporary situation. Our task is to continue traveling the pot-holed, boulder-strewn road of evolutionary development. The sudden changes will shape their own destiny.
 

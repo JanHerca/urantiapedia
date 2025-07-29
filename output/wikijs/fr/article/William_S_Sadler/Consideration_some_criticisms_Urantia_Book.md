@@ -10,7 +10,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
-### 1. Critique: Les théologiens et les professeurs de séminaire n'approuveront jamais _Le Livre d'Urantia_.
+## 1. Critique: Les théologiens et les professeurs de séminaire n'approuveront jamais _Le Livre d'Urantia_.
 
 Il était une fois Jean emprisonné qui envoya des messagers à Jésus pour s'enquérir de la certitude de son enseignement et de sa mission. Jésus a-t-il fait dire à Jean:
 
@@ -28,7 +28,7 @@ Notez ce passage de _Le Livre d'Urantia,_ <a id="s26_42"></a>[102:8.6](/fr/The_U
 
 > "Bien que la religion personnelle précède l’évolution de la morale humaine, on constate à regret que la religion institutionnelle est invariablement restée à la traine des mœurs, lentement changeantes, des races humaines. La religion organisée s’est montrée retardataire par conservatisme. Les prophètes ont généralement guidé les peuples dans le développement religieux ; les théologiens les ont généralement freinés. La religion, étant une affaire d’expérience intérieure ou personnelle, ne peut jamais anticiper beaucoup sur l’évolution intellectuelle des races."
 
-### 2. Critique: _Le Livre d'Urantia_ est une renaissance du Gnosticisme—une hérésie que l'Église Chrétienne a répudiée dans les premières années de son existence.
+## 2. Critique: _Le Livre d'Urantia_ est une renaissance du Gnosticisme—une hérésie que l'Église Chrétienne a répudiée dans les premières années de son existence.
 
 Le gnosticisme était un syncrétisme d'enseignements juifs, païens et chrétiens répandus dans les premiers siècles de l'ère chrétienne. Elle était caractérisée par les enseignements suivants:
 - Ils avaient de nombreux slogans et symboles secrets et mystiques.
@@ -102,7 +102,7 @@ _Le Livre d'Urantia_, <a id="s96_22"></a>[102:0.2-3](/fr/The_Urantia_Book/102#p0
 
 Et tout cela est en plein accord avec la déclaration du Nouveau Testament selon laquelle "le juste vivra par la foi". ([Héb. 10:38](/fr/Bible/Hebrews/10#v38); [Gal. 3:11](/fr/Bible/Galatians/3#v11).)
 
-### 3. Critique: Il semble n'y avoir rien de nouveau ou d'original dans la cosmologie, et pour moi, cela semble plutôt mécanique.
+## 3. Critique: Il semble n'y avoir rien de nouveau ou d'original dans la cosmologie, et pour moi, cela semble plutôt mécanique.
 
 La cosmologie du _Livre d'Urantia_ n'est pas seulement unique et originale, mais c'est la première fois que les religieux ont une cosmologie digne des prétentions universelles du christianisme. Jusqu'à présent, les scientifiques ont taquiné le religieux à propos de sa cosmologie restreinte et centrée sur la terre, mais maintenant, nous, les religieux, pouvons affronter la science avec une cosmologie majestueuse et transcendante qui défie même le scientifique d'inventer de meilleurs instruments afin de voir les galaxies grouillantes qui sont au-delà du monde. portée de leurs télescopes actuels.
 
@@ -170,7 +170,7 @@ _Le Livre d'Urantia_, <a id="s166_22"></a>[195:7.17](/fr/The_Urantia_Book/195#p7
 
 L'univers n'est pas comme les lois, les mécanismes et les uniformités que le scientifique découvre et qu'il en vient à considérer comme de la science, mais plutôt comme le scientifique curieux, pensant, choisissant, créatif, combinant et discriminant qui observe ainsi les phénomènes de l'univers et les classe. les faits mathématiques inhérents aux phases mécanistes du côté matériel de la création L'univers n'est pas non plus comme l'art de l'artiste, mais plutôt comme l'artiste luttant, rêvant, aspirant et progressant qui cherche à transcender le monde des choses matérielles dans l'effort de atteindre un but spirituel." Et ainsi notre critique clérical non seulement n'a pas imaginé le magnifique cosmos du _Livre d'Urantia_, mais il a lu si superficiellement le texte qu'il a pensé qu'il présentait un cosmos mécanique.Combien même un savant théologien peut se tromper quand son esprit n'est pas ouvert à la réception d'une nouvelle vérité ! 
 
-### 4. Critique: Urantia ignore complètement les enseignements bibliques sur l'homme. Pour Urantia, l'homme est fini, ignorant et asservi par la matière. Dans la Bible, l'homme est anxieux, coupable, déchu et spirituellement pervers. Il n'y a tout simplement pas de terrain d'entente entre ces deux points de vue.
+## 4. Critique: Urantia ignore complètement les enseignements bibliques sur l'homme. Pour Urantia, l'homme est fini, ignorant et asservi par la matière. Dans la Bible, l'homme est anxieux, coupable, déchu et spirituellement pervers. Il n'y a tout simplement pas de terrain d'entente entre ces deux points de vue.
 
 C'est une critique difficile à analyser. La critique ne présente qu'une vue partielle de l'homme telle qu'elle est présentée dans les fascicules d'Urantia. Et nous pensons que ce concept de la vision biblique de l'homme est aussi quelque peu incomplet et un peu déformé. Puisque les deux images de l'homme ne sont guère vraiment représentatives du Livre d'Urantia ou de la Bible, il n'est guère profitable d'entreprendre une discussion détaillée de cette critique.
 
@@ -188,7 +188,7 @@ Un pasteur, docteur, m'a récemment dit:
 
 "Le concept Urantia de l'homme est en harmonie avec la meilleure pensée chrétienne d'aujourd'hui." 
 
-### 5. Critique: Pourquoi la personne qui a mis les fascicules d'Urantia en anglais écrit ne devrait-elle pas être connue ?
+## 5. Critique: Pourquoi la personne qui a mis les fascicules d'Urantia en anglais écrit ne devrait-elle pas être connue ?
 
 Les auteurs des Livres de la Bible sont connus. Le livre lui-même raconte comment les fascicules d'Urantia ont vu le jour. La raison qui nous a été donnée pour ne pas divulguer l'identité du sujet employé dans cette transaction était: Nous ne voulons pas que les générations futures se préoccupent de l'adoration d'un saint Pierre ou d'un saint Paul, d'un Luther, Calvin ou Wesley. Nous voulons qu'aucun individu ne soit exalté par les Papiers d'Urantia. Le livre devrait se tenir sur sa propre nature et son travail.
 
@@ -212,7 +212,7 @@ Divinington – la demeure des Ajusteurs de Pensée – n'est ouverte qu'aux ent
 
 Dans une organisation militaire, les officiers supérieurs sont souvent en possession d'informations qu'il n'est pas sage de transmettre à la base de l'armée. 
 
-### 6. Critique: Il n'y a pas de doctrine du péché dans _Le Livre d'Urantia_. Il n'y a pas non plus de plan de salut pour l'homme perdu.
+## 6. Critique: Il n'y a pas de doctrine du péché dans _Le Livre d'Urantia_. Il n'y a pas non plus de plan de salut pour l'homme perdu.
 
 Encore une fois, notre critique n'a pas lu _Le Livre d'Urantia_ qui présente une doctrine claire du péché. Il est vrai qu'il redéfinit le péché de manière à le séparer à jamais des erreurs de compréhension partielle et du mal potentiel de l'imperfection finie. La doctrine Urantia du péché sépare également cet état des "sentiments de culpabilité" ordinaires qu'une conscience erronée (soi-disant la voix de Dieu à l'âme) impose à des individus autrement bien intentionnés qui sont conscients d'avoir violé les mœurs - n'ont pas réussi à vivre jusqu'à un idéal éthique ou une réglementation sociale ou d'autres dogmes créés par l'homme.
 
@@ -281,7 +281,7 @@ Dans _Le Livre d'Urantia_, les doctrines du péché et du salut ont un sens. Ils
 
 Les fascicules d'Urantia nient à la fois le péché originel et le salut universel et inconditionnel. Certes, nous avons « tous péché et nous sommes privés de la gloire de Dieu ». [Rom. 3:23](/fr/Bible/Romans/3#v23). Mais seuls ceux qui choisissent la survie continueront à trouver Dieu et deviendront de plus en plus comme lui. 
 
-### 7. Critique: Le but du salut représente un programme prolongé de formation et même alors il est indéfini et incertain.
+## 7. Critique: Le but du salut représente un programme prolongé de formation et même alors il est indéfini et incertain.
 
 Oui, _Le Livre d'Urantia_ présente un vaste schéma d'éducation universelle dans le cadre du plan de survie des ascendeurs mortels. D'autres ont trouvé à redire à ce plan d'ascension au Paradis. Le plus notable de tous ces critiques était Lucifer lui-même. L'une des trois principales critiques adressées au rebelle Lucifer concernait l'entraînement prolongé donné aux survivants mortels.
 
@@ -289,7 +289,7 @@ Le salut n'est pas magique - s'endormir dans la mort en tant que créature maté
 
 Les survivants mortels sont éduqués et formés pour un destin magnifique. Et toute cette éducation pratique est en elle-même un destin transcendant. 
 
-### 8. Critique: Le Père céleste aimant, gentil et tolérant présenté dans _Le Livre d'Urantia_ n'est pas le Dieu de l'Exode et le Dieu qui sauve les pécheurs.
+## 8. Critique: Le Père céleste aimant, gentil et tolérant présenté dans _Le Livre d'Urantia_ n'est pas le Dieu de l'Exode et le Dieu qui sauve les pécheurs.
 
 La Bible ne nous encourage pas à chercher une nouvelle vérité – son injonction est Souviens-toi et Obéis. Notre critique veut que nous retournions au dieu jaloux et colérique du temps de Samuel et d'Elie. D'une certaine manière, cette critique est valable. _Le Livre d'Urantia_ présente le portrait d'un Père céleste affectueux tel que celui présenté par le deuxième Isaïe et illustré dans la vie et les enseignements de Jésus.
 
@@ -305,7 +305,7 @@ Le Dieu du _Livre d'Urantia_ est un Dieu qui "sauve les pécheurs" - d'un bout �
 
 > "Quiconque veut peut venir et prendre librement de l'eau de la vie." 
 
-### 9. Critique: _Le Livre d'Urantia_ ignore presque complètement les prophètes de l'Ancien Testament. La raison en est claire: les enseignements des prophètes contredisent catégoriquement le plan du _Livre d'Urantia._
+## 9. Critique: _Le Livre d'Urantia_ ignore presque complètement les prophètes de l'Ancien Testament. La raison en est claire: les enseignements des prophètes contredisent catégoriquement le plan du _Livre d'Urantia._
 
 Encore une fois, ce critique n'a pas lu le livre. Il y a des centaines de références à l'Ancien Testament dans _Le Livre d'Urantia_. [Les fascicules 73-76](/fr/The_Urantia_Book/73), [93-98](/fr/The_Urantia_Book/93) sont entièrement consacrés à la considération des personnes, des peuples et des religions de l'Ancien Testament.
 
@@ -313,7 +313,7 @@ Les fascicules d'Urantia valident à la fois les Écritures de l'Ancien et du No
 
 _Le Livre d'Urantia_ dépeint la croissance évolutive continue de la religion augmentée par la révélation périodique depuis l'aube de la civilisation jusqu'à l'heure actuelle. La vérité divine est vivante et en expansion ; toujours grandissante et éclairant de plus en plus les voies du développement humain. 
 
-### 10. Critique: _Le Livre d'Urantia_ est un méli-mélo banal de verbiage, tel que de nombreux écrivains automatiques l'ont produit.
+## 10. Critique: _Le Livre d'Urantia_ est un méli-mélo banal de verbiage, tel que de nombreux écrivains automatiques l'ont produit.
 
 Je peux témoigner que les Papiers d'Urantia n'étaient pas le produit d'une écriture automatique ou de toute autre technique de manège psychique que je connaisse.
 
@@ -361,7 +361,7 @@ ACTIVITÉS INHABITUELLES DE LA CONSCIENCE MARGINALE: (Le subconscient)
 
 REMARQUE: La technique de réception du _Livre d'Urantia_ en anglais n'est en aucun cas parallèle ou n'empiète sur aucun des phénomènes ci-dessus de la conscience marginale. 
 
-### 11. Critique: L'expiation a disparu dans _Le Livre d'Urantia_. Il en est de même du Dieu majestueux et jaloux qui punit son peuple lorsqu'il se prostitue après d'autres dieux.
+## 11. Critique: L'expiation a disparu dans _Le Livre d'Urantia_. Il en est de même du Dieu majestueux et jaloux qui punit son peuple lorsqu'il se prostitue après d'autres dieux.
 
 C'est une critique valable. Dans _Le Livre d'Urantia_, l'expiation a disparu. Lisez un <a id="s365_87"></a>[2:6.5](/fr/The_Urantia_Book/2#p6_5):
 
@@ -371,7 +371,7 @@ Le Livre d'Urantia va jusqu'à déclarer que la doctrine de l'expiation est une 
 
 Il y a une pénalité pour ceux qui abandonnent Dieu et abandonnent la poursuite de la survie. Et la peine est la perte d'être l'anéantissement. "Ils deviendront comme s'ils n'avaient pas été." [Abdias 1:16](/fr/Bible/Obadiah/1#v16). 
 
-### 12. Critique: Bien qu'il y ait de nouvelles idées à trouver dans _Le Livre d'Urantia_, aucune nouvelle institution surprenante n'y est révélée.
+## 12. Critique: Bien qu'il y ait de nouvelles idées à trouver dans _Le Livre d'Urantia_, aucune nouvelle institution surprenante n'y est révélée.
 
 Jésus était la plus grande de toutes les révélations—l'incarnation—mais il a prêché un évangile simple: la Paternité de Dieu et la fraternité des hommes. Il a beaucoup fait appel à l'Ancien Testament. Une grande partie de sa prédication était destinée aux gens ordinaires.
 
@@ -385,7 +385,7 @@ La mission du livre est bien racontée sur <a id="s383_42"></a>[196:1.2](/fr/The
 
 > "Les temps sont murs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! La communauté chrétienne des croyants n’hésiterait certainement pas à réadapter sa foi et ses habitudes de vie, de manière à pouvoir « suivre » le Maitre dans la démonstration de sa vie réelle de dévotion religieuse à faire la volonté de son Père et de consécration désintéressée au service des hommes. Les prétendus chrétiens craignent-ils de dévoiler la suffisance et la non-consécration d’une communauté faite de respectabilité sociale et d’inadaptation économique égoïste ? Le christianisme institutionnel craint-il que l’autorité ecclésiastique traditionnelle ne soit mise en péril, et même peut-être renversée, si le Jésus de Galilée est rétabli dans le mental et l’âme des hommes mortels en tant qu’idéal de vie religieuse personnelle ? En vérité, les rajustements sociaux, les transformations économiques, les régénérescences morales et les révisions religieuses de la civilisation chrétienne seraient radicaux et révolutionnaires si la religion vivante de Jésus supplantait soudainement la religion théologique à propos de Jésus."
 
-### 13. Critique _Le Livre d'Urantia_ enlève la centralité du Christ dans la foi chrétienne. Alors que _Le Livre d'Urantia_ place Dieu au centre du maitre univers, ainsi qu'au centre de la foi chrétienne, le Fils d'effusion partage cette place avec son Père.
+## 13. Critique _Le Livre d'Urantia_ enlève la centralité du Christ dans la foi chrétienne. Alors que _Le Livre d'Urantia_ place Dieu au centre du maitre univers, ainsi qu'au centre de la foi chrétienne, le Fils d'effusion partage cette place avec son Père.
 
 L'enseignement d'Urantia élargit considérablement la mission de Jésus sur ce monde. En plus du concept de Sauveur, il devient notre Créateur et Seigneur Souverain. L'affirmation: « Nul ne vient au Père que par moi » devient beaucoup plus absolue dans sa signification.
 
@@ -409,7 +409,7 @@ _Le Livre d'Urantia_ reconnaît la suprématie du Christ dans toutes les choses 
 - Je suis le pont vivant qui relie un monde à l’autre.
 - Je suis le lien vivant entre le temps et l’éternité.
 
-### 14. Critique: En matière de science, ce livre est daté. Il présente une très bonne image de la façon dont nous avons regardé le cosmos il y a de nombreuses années.
+## 14. Critique: En matière de science, ce livre est daté. Il présente une très bonne image de la façon dont nous avons regardé le cosmos il y a de nombreuses années.
 
 Dans l'ensemble, je pense que c'est une critique valable du Livre d'Urantia. Permettez-moi de lire _Le Livre d'Urantia_, <a id="s413_121"></a>[101:4.1](/fr/The_Urantia_Book/101#p4_1). 
 
@@ -419,13 +419,13 @@ Dans l'ensemble, je pense que c'est une critique valable du Livre d'Urantia. Per
 
 La science des fascicules d'Urantia porte la date de clôture de 1934 ap. J.-C. Même si elle est maintenant considérée comme dépassée de dix ans, elle avait 15 ou 20 ans d'avance sur l'époque où elle nous a été présentée pour la première fois. Mais même maintenant, le fait de l'ultimaton n'a pas encore été découvert, même s'il y a eu plusieurs allusions dans ce sens dans les articles scientifiques de ces dernières années. 
 
-### 15. Critique: Les enseignements de Jésus tels qu'ils sont présentés dans _Le Livre d'Urantia_ peuvent être trouvés dans un millier de livres différents, en particulier dans les écrits antérieurs à 1930.
+## 15. Critique: Les enseignements de Jésus tels qu'ils sont présentés dans _Le Livre d'Urantia_ peuvent être trouvés dans un millier de livres différents, en particulier dans les écrits antérieurs à 1930.
 
 Vous remarquez que notre critique omet de citer les livres qui dépeignent les enseignements de Jésus tels qu'ils se trouvent dans _Le Livre d'Urantia_. Il est réconfortant d'apprendre que les enseignements d'Urantia ont un si large soutien parmi les auteurs chrétiens. Mais je trouve beaucoup dans les enseignements de Jésus sur Urantia que je n'ai pas encore rencontrés.
 
 Je peux citer des dizaines de discours, d'entretiens, de conférences et de périodes de questions-réponses - que je défie quiconque de trouver déjà enregistrés dans la littérature chrétienne actuelle. 
 
-### 16. Critique: Le récit des premières années de la vie de Jésus - les années silencieuses des Évangiles - m'a impressionné comme étant très ordinaire, voire même de deuxième année. Rien d'extraordinaire ne s'est produit. Je pouvais m'asseoir et dicter une histoire aussi bonne, voire meilleure, en trois ou quatre heures.
+## 16. Critique: Le récit des premières années de la vie de Jésus - les années silencieuses des Évangiles - m'a impressionné comme étant très ordinaire, voire même de deuxième année. Rien d'extraordinaire ne s'est produit. Je pouvais m'asseoir et dicter une histoire aussi bonne, voire meilleure, en trois ou quatre heures.
 
 Je suis heureux que la rhétorique principale des récits de la vie de Jésus soit facilement compréhensible par les étudiants de deuxième année, même les étudiants de première année, du lycée ainsi que du niveau collégial. L'autre jour, un étudiant en deuxième année d'université m'a raconté à quel point il avait été aidé par cette histoire de la jeunesse de Jésus. Mais alors que je passe en revue ces années, il y a dans mon esprit de nombreuses discussions qui pourraient facilement engager la réflexion profonde d'hommes et de femmes de plusieurs grades au-dessus du niveau de deuxième année. Permettez-moi d'attirer votre attention sur quelques-uns: 
 1. Sa prise en charge et la gestion des affaires familiales après la mort de son père.
@@ -473,7 +473,7 @@ Encore une fois [1 Corinthiens 2:14](/fr/Bible/1_Corinthians/2#v14):
 
 > "Car la sagesse de ce monde est une folie devant Dieu." 
 
-### 17. Critique: À mon avis, _Le Livre d'Urantia_ est une fraude—un canular. Ceux qui ont perpétré ce livre sont des criminels.
+## 17. Critique: À mon avis, _Le Livre d'Urantia_ est une fraude—un canular. Ceux qui ont perpétré ce livre sont des criminels.
 
 Quiconque qualifierait les Papiers d'Urantia de fraude ne sait pas grand-chose des gens qui se sont préoccupés de la factualisation de ce livre unique. Ma femme et moi avons eu une expérience considérable de la dénonciation des fraudes médiumniques et des farces psychiques au cours de nos premières années, et il y a une quarantaine d'années, j'ai écrit un livre décrivant nos expériences face à ces praticiens de l'occulte.
 
@@ -493,7 +493,7 @@ Lorsque mon fils est rentré à la maison en congé du Corps des Marines pour li
 
 Mais le cri de fraude est ancien. Ils accusèrent Jésus d'être un imposteur: « N'es-tu pas Jésus de Nazareth, le fils du charpentier ? Et ils ont continué à accuser qu'il était de mèche avec les démons. Un ministre critique du Livre d'Urantia a déclaré: "Cela dévoile le mariage mélodramatique du gnosticisme néoplatonisé de seconde main et du rationalisme protestant bâclé à la science-fiction sanctifiée et à la pure stupidité. La progéniture bâtarde de cette union s'appelle Urantia. Il n'y a pas de place pour dans la maison du Seigneur." 
 
-### 18. Critique: _Le Livre d'Urantia_ ne contient aucun concept nouveau et original. Il n'y a vraiment rien de nouveau dans sa présentation de la cosmologie, de la philosophie et de la religion.
+## 18. Critique: _Le Livre d'Urantia_ ne contient aucun concept nouveau et original. Il n'y a vraiment rien de nouveau dans sa présentation de la cosmologie, de la philosophie et de la religion.
 
 En réponse à cette critique, je soumets 74 concepts et doctrines qui sont nouveaux et originaux tels que présentés dans _Le Livre d'Urantia_, sans parler de plus d'une centaine de récits supplémentaires qui représentent l'élargissement, l'amplification et la clarification des connaissances existantes. 
 

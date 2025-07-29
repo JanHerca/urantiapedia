@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-**Translator's Note**: <small>On July 23, 1960 (46 years ago), Bill Sadler met with a Urantia Book study group in Oklahoma City, Oklahoma. The lecture was quite long and was recorded on tape. Years later, Kristen Maaherra compiled 11 chapters, which are now posted on the Fellowship's website. Below I translate Bill's comments and opinions that I find most interesting.<small>
+**Translator's Note**: <small>On July 23, 1960 (46 years ago), Bill Sadler met with a Urantia Book study group in Oklahoma City, Oklahoma. The lecture was quite long and was recorded on tape. Years later, Kristen Maaherra compiled 11 chapters, which are now posted on the Fellowship's website. Below I translate Bill's comments and opinions that I find most interesting.</small>
 
 ## On secularism
 

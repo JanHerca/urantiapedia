@@ -454,7 +454,7 @@ class Articles {
 								author: (author != '' && 
 									!author.startsWith('-') ? author : ''),
 								authorLink: authorLink,
-								tags: tags && tags.length > 0 
+								tags: tags && tags.length > 0 && tags != '---'
 									? tags.split(',').map(t => t.trim()) 
 									: []
 							};

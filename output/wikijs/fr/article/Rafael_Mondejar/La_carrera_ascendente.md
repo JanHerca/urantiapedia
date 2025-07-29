@@ -2216,7 +2216,7 @@ De retour au Paradis Supérieur, on distingue à sa surface trois grandes zones 
 
 **Tous ces Corps sont supervisés et coordonnés**, comme nous l'avons déjà vu, <ins>par le plus ancien Maître Architecte</ins>.
 
-**Mais chacun de ces corps** a <ins>un chef président</ins>, et les sept chefs constituent le <ins>Conseil suprême du Destin au Paradis</ins> ; Matière et Énergie, Physique et LU durant l'âge de l'univers actuel, Grandfanda est le chef de ce conseil suprême qui assigne les missions universelles aux membres du corps finalitaire.
+**Mais chacun de ces corps** a <ins>un chef président</ins>, et les sept chefs constituent le <ins>Conseil suprême du Destin au Paradis</ins> ; et durant l'âge de l'univers actuel, Grandfanda est le chef de ce conseil suprême qui assigne les missions universelles aux membres du corps finalitaire.
 
 **Le fait que ces sept corps** soient assemblés ou formés indique la mobilisation de potentiels, de personnalités, d’esprits, d’âmes, d’absonites et de réalités expérientielles, transcendant probablement même les fonctions futures de l’Être Suprême dans le Maître Univers.
 
@@ -2397,7 +2397,7 @@ Mais, **comment fonctionne réellement le Corps des Finalitaires Mortels, quel s
 
 **Referencias**
 
-- [Cet article est sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites6.202004.HISTORIA-DE-NEBAD%C3%93N.pdf)
+- [Cet article est sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
 - <a href="https://aue.urantia-association.org/wp-content/uploads/sites6.201803.CARRERA-ASCENDENTE-LU-Rafa-.ppsx" download>Présentation de l'article</a>
 
 <figure class="table chapter-navigator">
