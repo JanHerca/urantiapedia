@@ -236,8 +236,7 @@ En los sistemas mas jóvenes el número de los mundos habitados es menor que 100
 
 ## El superuniverso de Orvonton
 
-Nuestro planeta Urantia pertenece al sistema local Satania, que tiene su sede central Jerusem. Satania pertenece a la constelación de Norlatiadec con la capital Edentia. Norlatiadec es una de las 100 constelaciones que forman nuestro universo local Nebadon, con la capital Salvington. Nuestro sector menor tiene nombre Umenor el tercero y está formado por 100 universos locales; su sede central se llama Ensa. El sector mayor tiene nombre Umayor el
-quinto, con la sede central de Splanton. Los diez sectores mayores forman nuestro Superuniverso que lleva el nombre Orvonton, con la capital Uversa.
+Nuestro planeta Urantia pertenece al sistema local Satania, que tiene su sede central Jerusem. Satania pertenece a la constelación de Norlatiadec con la capital Edentia. Norlatiadec es una de las 100 constelaciones que forman nuestro universo local Nebadon, con la capital Salvington. Nuestro sector menor tiene nombre Umenor el tercero y está formado por 100 universos locales; su sede central se llama Ensa. El sector mayor tiene nombre Umayor el quinto, con la sede central de Splanton. Los diez sectores mayores forman nuestro Superuniverso que lleva el nombre Orvonton, con la capital Uversa.
 
 **Tabla 2. Posición de Urantia**
 
