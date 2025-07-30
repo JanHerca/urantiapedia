@@ -2,7 +2,7 @@
 title: Tests de Jan en Markdown
 description: 
 published: true
-date: 2023-06-04T17:48:53.393Z
+date: 2025-07-29T12:34:45.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:12:29.765Z
@@ -74,3 +74,38 @@ flowchart TD
 	experience as well as in the length and extent of that experience.`")
 	s1 --> s2
 ```
+
+
+$$
+\left.
+\begin{array}{l}
+  \text{7. Totalidad} \\
+  \text{6. Personalidad} \\
+    \left.
+    \begin{array}{l}
+      \text{5. Espíritu} \\
+      \text{4. Mente} \\
+      \left.
+      \begin{array}{l}
+        \text{3. Profundidad} \\
+        \text{2. Altura} \\
+        \text{1. Anchura}
+      \end{array}
+      \right\}
+      \begin{array}{l}
+      \text{Material,} \\
+      \text{1ª integración}
+      \end{array}
+    \end{array}
+    \right\}
+    \begin{array}{l}
+    \text{Fusión,} \\
+    \text{2º integración}
+    \end{array}
+  \end{array}
+\right\}
+\begin{array}{l}
+\text{Finalidad,} \\
+\text{3ª integración}
+\end{array}
+$$

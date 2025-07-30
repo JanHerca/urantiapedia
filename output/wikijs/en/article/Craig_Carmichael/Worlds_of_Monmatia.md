@@ -209,7 +209,7 @@ As you can see, Martin Gardner boasted too soon in his book-critique of _The Ura
   </table>
 </figure>
 
-## Grades
+## Footnotes
 
 [^1]: [UB 57:5.9](/en/The_Urantia_Book/57#p5_9). “The five inner and five outer planets soon formed in miniature from the cooling and condensing cores at the sharp, less massive ends of the gigantic gravitational bulge which Angona had successfully separated from the sun, while Saturn and Jupiter were formed from the more massive and bulging central portions.”
 

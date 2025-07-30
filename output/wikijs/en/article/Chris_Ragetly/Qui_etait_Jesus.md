@@ -33,8 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
-
 _(This article has three parts)_
 
 What was his character when he was on Urantia as the Son of Man?

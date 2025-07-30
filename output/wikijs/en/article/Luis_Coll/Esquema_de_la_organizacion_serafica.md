@@ -139,8 +139,8 @@ flowchart TB
 flowchart TB
 	A["ANGELICAL ARMS"]
 	A1["Directed by: "]
-	A2["Bright Stars"
-	Evenings
+	A2["Bright Evening
+	Stars"]
 	A3["or lieutenants of
 	Gabriel ."]
 	A --> A1

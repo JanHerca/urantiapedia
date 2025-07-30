@@ -633,7 +633,7 @@ Con los 5 elementos que ya hemos visto que poseemos (cuerpo, mente, personalidad
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | :-- | :-- | :--- | :--- | :--- |
 | | Situaciones de progreso en el momento de la muerte | Órdenes de ascensión para la supervivencia | Tiempo en que se produce la resurrección | Mundos donde se lleva a cabo la resurrección |
-| 1 | Antes de entrar en el 7º Círculo Niños sin Ajustador | Órdenes que dependen de un periodo de prueba | Al mismo tiempo que la de sus padres | Mundos Finalistas del Sistema, de la Constelación y de la Sede del UL |
+| 1 | Antes de entrar en el 7º Círculo. Niños sin Ajustador | Órdenes que dependen de un periodo de prueba | Al mismo tiempo que la de sus padres | Mundos Finalistas del Sistema, de la Constelación y de la Sede del UL |
 | | 7º al 4º Círculos. Niños con Ajust. pero sin elegir la vida eterna | Órdenes que dependen de un periodo de prueba | Al mismo tiempo que la de sus padres | Mundos Finalistas del Sistema, de la Constelación o del UL |
 | 2 | 7º al 4º Círculos Mundos poco evolucionados | Órdenes de ascensión colectiva (de dispensac. o milenarias o especiales) | Al acabar una época, o al pasar mil años o en cualquier momento | Mundo1º de las Mansiones |
 | 3 | 3º Círculo Mundos poco evolucionados | Órdenes de ascensión individual Grupo menos avanzado | Resurrección al tercer día | Mundo 1 de las Mansiones |

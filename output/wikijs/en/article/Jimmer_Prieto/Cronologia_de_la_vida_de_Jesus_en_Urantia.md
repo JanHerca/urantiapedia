@@ -712,7 +712,7 @@ The spies ask Jesus why he doesn’t command his disciples to fast and pray as t
 May 3 to October 3
 The Bethsaida Camp under the supervision of David Zebedee and the Alpheus twins. During these five months, a “new school of the prophets” operated under the guidance of Peter and a hospital under the direction of Elman were also established. The camp was visited by thousands of people from the Roman Empire and countries east of the Euphrates; 117 new evangelists were trained. [UB 148:0.1](/en/The_Urantia_Book/148#p0_1)
 
-## Year 35 of Jesus
+### Year 35 of Jesus
 
 Year 29 of the calendar
 September 18
@@ -781,8 +781,7 @@ Jesus and his party returned to Bethsaida by ship, where a large crowd was waiti
 The story of the woman healed by her own faith when she touched the Master's garment. “Someone touched me.” ([Mt. 9:20-22](/en/Bible/Matthew/9#v20)) ([Mk. 5:25-34](/en/Bible/Mark/5#v25)) ([Lk. 8:43-48](/en/Bible/Luke/8#v43))
 Jesus awakened the daughter of Jairus, a synagogue ruler. The people mistakenly thought that Jesus had raised her from the dead. “Your daughter is not dead; she is only asleep.” ([Luke 8:40-56](/en/Bible/Luke/8#v40)) ([Mt. 9:18-26](/en/Bible/Matthew/9#v18)) ([Mk. 5:21-43](/en/Bible/Mark/5#v21)) [UB 152:0.1](/en/The_Urantia_Book/152#p0_1)
 
-## March 22 to 27
-
+March 22 to 27
 Jesus and the apostles continue teaching the crowds at Bethsaida.
 March 27
 Sunday. Jesus was exhausted and wanted to get away from the crowds to rest. He took a boat with the twelve to a place near Bethsaida-Julias, but the crowds followed them. The number grew from 1,000 to 3,000. By Wednesday noon, the group had grown to 5,000. [UB 152:2.4](/en/The_Urantia_Book/152#p2_4)
@@ -1087,8 +1086,7 @@ March 12
 Jesus announces that the next day, he and his apostles will leave for Jerusalem for Passover. His followers were once again mistaken in thinking he would go to Jerusalem to proclaim the reign of Jewish supremacy.
 This Sunday afternoon, Salome, the mother of the apostles James and John, arrives, asking Jesus for honors for her sons in the coming kingdom. “_Woman, you do not know what you are asking for._” [UB 171:0.1-5](/en/The_Urantia_Book/171#p0_1) ([Mt. 20:20-28](/en/Bible/Matthew/20#v20)) ([Mk. 10:35-45](/en/Bible/Mark/10#v35))
 
-## March 13 to 31
-
+March 13 to 31
 On Monday afternoon, the 13th, Jesus and the twelve apostles finally left the camp at Pella. [UB 171:1.1](/en/The_Urantia_Book/171#p1_1) On the way to Jerusalem, they visited all the cities where the seventy were working and talked with them. The journey lasted two weeks. [UB 171:1.1-2](/en/The_Urantia_Book/171#p1_1)
 At Bethabara beyond the Jordan, Jesus spoke to a crowd of nearly 1,000 followers about “_What It Costs to Follow Jesus._” “_From now on, those of you who would follow me must be willing to pay the price of total dedication to doing my Father’s will._” [UB 171:2.2-3](/en/The_Urantia_Book/171#p2_2)
 Immediately afterward, Jesus and the twelve started on their way to Heshbon, followed by about five hundred; the other five hundred went straight on to Jerusalem. [UB 171:3.1](/en/The_Urantia_Book/171#p3_1)
@@ -1209,7 +1207,7 @@ April 8
 Saturday morning. A group of Jewish leaders had met the night before to discuss their fears about the Master's claims that he would rise from the dead on the third day. They decided to ask Pilate to post a guard of Roman soldiers at Jesus' tomb. That Saturday, Pilate offered the Jewish leaders a group of ten soldiers to guard Jesus' tomb. These soldiers, along with ten other Jewish soldiers, rolled another stone to seal the tomb and placed Pilate's seal on it. [UB 188:2.3](/en/The_Urantia_Book/188#p2_3)
 That night, the eleven apostles met at the home of young John Mark, in the same upstairs room where the Last Supper had been held two nights earlier. [UB 188:3.2](/en/The_Urantia_Book/188#p3_2)
 
-## The Resurrection
+### The Resurrection
 
 The chief Archangel of Nebadon convenes his council for the resurrection of will creatures. They follow the suggestion of Gabriel, who pointed out that since Michael had “_laid down his life of his own free will, he also had the power to recover it according to his own decision._” Shortly thereafter, the Personalized Adjuster of Jesus speaks to them: “_... What you behold is the human transition of Jesus of Nazareth from life in the flesh to life in morontia... Your Creator-Father has chosen to pass through the entire experience of his mortal creatures, from birth on the material worlds through natural death to the morontia resurrection to the state of true spirit existence...._” [UB 189:0.1](/en/The_Urantia_Book/189#p0_1)
 After the Personal Adjuster speaks to them, all assume an attitude of anxious expectation. [UB 189:0.3](/en/The_Urantia_Book/189#p0_3)

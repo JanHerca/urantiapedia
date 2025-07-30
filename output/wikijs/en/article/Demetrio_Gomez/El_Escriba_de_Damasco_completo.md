@@ -369,7 +369,7 @@ And so it happens and so it should be...When man partners with God, great things
 - [This article on the Urantia Association of Spain website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
 
 
-<figure class=“table chapter-navigator”>
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

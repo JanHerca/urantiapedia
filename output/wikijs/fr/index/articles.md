@@ -385,10 +385,10 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 				<div><small>Sources: <a href="https://aue.urantia-association.org/study/"><em>Travails sur le Web espagnol</em></a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/index/articles_spain" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
-				<a href="" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/t/urantia%20association%20of%20spain" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>

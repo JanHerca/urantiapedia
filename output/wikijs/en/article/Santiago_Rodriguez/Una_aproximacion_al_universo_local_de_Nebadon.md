@@ -162,7 +162,7 @@ If we take a step outward and try to describe what science tells us about the im
 
 <br style="clear:both;"/>
 
-The plane indicates the plane of our Milky Way Galaxy (Milchstraße in the diagram), the green vertical lines indicate the position above or below the plane of the different galaxies that make up the local group, those with the black dot with the name of the galaxy at the top of the line will be above the plane, and those with the name and the white dot at the bottom of the line are below the plane. The coordinate axis at the bottom center of the diagram represents the perspective of (1MLj) 1 million al, so that the distance along the three axes of the different galaxies that make up the drawing can be estimated.
+The plane indicates the plane of our Milky Way Galaxy (Milchstraße in the diagram), the green vertical lines indicate the position above or below the plane of the different galaxies that make up the local group, those with the black dot with the name of the galaxy at the top of the line will be above the plane, and those with the name and the white dot at the bottom of the line are below the plane. The coordinate axis at the bottom center of the diagram represents the perspective of (1MLj) 1 million ly, so that the distance along the three axes of the different galaxies that make up the drawing can be estimated.
 
 In it we find two large groups of galaxies, the lower one with the Milky Way at its center and the upper one with another group of galaxies mainly around the Andromeda Galaxy.
 
@@ -180,7 +180,7 @@ Another representation that can help locate the main galaxies that are part of t
 
 <br style="clear:both;"/>
 
-For the purpose of this work, I think it is not worth going to the representation of larger areas of the known cosmos, however in Appendix 3, we can see a representation of the situation of the galaxies in an environment that covers an approximate area of 21 million al per side and a thickness (z axis) of approximately 10 million al.
+For the purpose of this work, I think it is not worth going to the representation of larger areas of the known cosmos, however in Appendix 3, we can see a representation of the situation of the galaxies in an environment that covers an approximate area of 21 million ly per side and a thickness (z axis) of approximately 10 million ly.
 
 It's worth noting that the area that lies towards the zone where our galactic shadow is located has practically no known galaxies... and probably there aren't, but it could also be that we haven't been able to find them yet.
 
@@ -335,7 +335,7 @@ This situation immediately leads us to two working hypotheses:
 
 At present, neither of the two previous possibilities seem plausible to me, and if I had to choose one, I would choose the possibility that the Milky Way contains on the order of 20 times more stars than currently assumed.
 
-I don't see it possible that in an environment of 250,000 al there are the equivalent of 20 Milky Ways and that we have not yet been able to discover them.
+I don't see it possible that in an environment of 250,000 ly there are the equivalent of 20 Milky Ways and that we have not yet been able to discover them.
 
 I can explore a third possibility and try to accept a slightly more complex situation that can reconcile the two data presented in the LU, and that does not involve such a drastically changing current scientific knowledge.
 
@@ -352,7 +352,7 @@ In the LU revelation, we can find other data that could fit this third working h
 1. The Magellanic Clouds appear to be part of Orvonton. [UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
 2. Globular clusters have been found around several galaxies. [UB 15:4.8](/en/The_Urantia_Book/15#p4_8) both in the Milky Way and the Andromeda Galaxy. Indeed, this type of object seems to be abundant in the outskirts of most of the large galaxies.
 3. In paragraph [UB 15:4.7](/en/The_Urantia_Book/15#p4_7) we can understand at first glance that Andromeda is outside the “inhabited superuniverse,” but I want to call attention to the expression used by the revelators. We are assuming the fact that all seven superuniverses are inhabited by definition, which makes the express inclusion of the adjective “inhabited” seem redundant, were it not for the fact that it brings out and emphasizes the fact that a superuniverse can have inhabited parts and uninhabited parts, which would make it plausible that Andromeda is part of the superuniverse even though it is uninhabited.
-4. [UB 32:2.11](/en/The_Urantia_Book/32#p2_11) From the outermost system of inhabited worlds to the center of the superuniverse is about 250,000 al. This distance would be considerably less than the entire size of Orvonton, but again the UB emphasizes that these are distances to the inhabited system of worlds, therefore in a superuniverse setting with inhabited and uninhabited areas this statement would not be contradicted.
+4. [UB 32:2.11](/en/The_Urantia_Book/32#p2_11) From the outermost system of inhabited worlds to the center of the superuniverse is about 250,000 ly. This distance would be considerably less than the entire size of Orvonton, but again the UB emphasizes that these are distances to the inhabited system of worlds, therefore in a superuniverse setting with inhabited and uninhabited areas this statement would not be contradicted.
 
 To be rigorous, we find other data in the revelation that in principle would disagree with this idea:
 1. Globular clusters are predominant near the outer margins of Orvonton [UB 15:4.8](/en/The_Urantia_Book/15#p4_8), and they appear to be abundant around the galaxies, at least the large ones, the Milky Way with about 200, Andromeda over 500, and the Triangulum Galaxy which has been counted with about 60. So while it is true that they exist around the galaxies, it is true of all the large ones, so it could be true but not unique to Orvonton.
@@ -562,7 +562,7 @@ In [UB 41:0.3](/en/The_Urantia_Book/41#p0_3) it tells us that despite its varied
 
 As we get closer to the location of our Sun (and therefore our Earth), we are exploring areas that are closer and theoretically better known to our science.
 
-If we have established that the headquarters of our minor sector, Ensa, is located about 9000 al away in the direction of the constellation of Sagittarius, it is clear that our local universe must be established between us and that area of our Milky Way.
+If we have established that the headquarters of our minor sector, Ensa, is located about 9000 ly away in the direction of the constellation of Sagittarius, it is clear that our local universe must be established between us and that area of our Milky Way.
 
 We will gather more information in order to determine where it extends and how large Nebadon might be.
 
@@ -595,7 +595,7 @@ Regarding the lower limit to the number of stars, starting from the previously m
 Number of stars 3010^6^, divided by the density of Nebadon that the LU gives us (1.17 10^-3^), will give us an idea of the volume in cubic meters we are talking about:
 
 $$
-V_Nebadon = 30 \cdot 10^{6} / 1.17 \cdot 10^{-3} = 2.564 \cdot 10^{-3} \mathrm{ly}^{3}
+V_{Nebadon} = 30 \cdot 10^{6} / 1.17 \cdot 10^{-3} = 2.564 \cdot 10^{-3} \mathrm{ly}^{3}
 $$
 
 This volume would be contained in a sphere with a radius of 1829 ly (3658 ly in diameter).
@@ -708,7 +708,7 @@ The center is our solar system, the green star is Antares (Alpha Scorpio), which
 
 The red circle represents a distance of 5000 α from our Sun, which we have already established as outside our Local Universe.
 
-The last blue circle represents those 4200 al of distance, which will be the maximum distance to which we will extend Nebadon.
+The last blue circle represents those 4200 ly of distance, which will be the maximum distance to which we will extend Nebadon.
 
 If we were at the center of our local universe, it would extend over an area between the blue circles marking 2000 and 3000 ly, which could correspond to a radius of 2100 ly.
 
@@ -753,7 +753,7 @@ $$
 V_{Satania} = 2200 / 1.173 \cdot 10^{-3} = 1875533 \mathrm{ly}^{3}
 $$
 
-This Volume of Satania would be like that of a sphere with a radius of 76.50 al (153 al in diameter), taking into account that we have used the density that the LU gives us for our Local Universe of Nebadon, similar to the one we have in our Satania system.
+This Volume of Satania would be like that of a sphere with a radius of 76.50 ly (153 ly in diameter), taking into account that we have used the density that the LU gives us for our Local Universe of Nebadon, similar to the one we have in our Satania system.
 
 If we use the value of stellar density of our cosmic environment, as tabulated of 3.72 x 10^-3^ stars per cubic light year, we would get Volumes of:
 
@@ -976,7 +976,7 @@ Below I will detail the explanatory appendices for some of the aspects covered, 
 
 The gray plane is the one that contains our galaxy, which is at coordinates (0,0,0).
 
-The units of measurement are kiloparsecs (1 kpsc = 3260 al).
+The units of measurement are kiloparsecs (1 kpsc = 3260 ly).
 
 If we look at the projection on the planes, the galaxies that are above our galactic plane are represented in green, and those that are below in blue.
 
@@ -1259,7 +1259,7 @@ Table of the nearest stars: [Wikipedia: Nearest stars](http://es.wikipedia.org/w
 | 49 | DEN 0255-4700 | | L7.5V | 22.92 | 24.44 | – | 02h 55m 3.7^s | -47° 00' 52'' | 16.197(314) |
 | 50 | GJ 682 | | M4.5V | 10.95 | 12.45 | – | 17h 37m 04s | -44° 19' 09'' | 16,336(189) |
 
-We have 50 star systems within a radius of 17 al, with a total of 67 stars, in which the data that science provides us are the magnitudes of these stars, the (m) visual magnitude is the brightness with which we see them from Earth, it is the apparent magnitude, which appears when we observe it, but since not all stars are at the same distance, if we do not know how far away the star we are observing is, we cannot know how much it really shines, for this, astronomy has defined another concept (M) which is the absolute Magnitude, which is the apparent magnitude (brightness) that the body would have if it were placed 10 parsecs away or 32.616 al away. In this way we can compare the brightness of the two bodies. We must also bear in mind that the magnitude values go a little against the usual logic, so that the brighter a body is, its magnitude value is smaller, and can have negative values.
+We have 50 star systems within a radius of 17 ly, with a total of 67 stars, in which the data that science provides us are the magnitudes of these stars, the (m) visual magnitude is the brightness with which we see them from Earth, it is the apparent magnitude, which appears when we observe it, but since not all stars are at the same distance, if we do not know how far away the star we are observing is, we cannot know how much it really shines, for this, astronomy has defined another concept (M) which is the absolute Magnitude, which is the apparent magnitude (brightness) that the body would have if it were placed 10 parsecs away or 32.616 ly away. In this way we can compare the brightness of the two bodies. We must also bear in mind that the magnitude values go a little against the usual logic, so that the brighter a body is, its magnitude value is smaller, and can have negative values.
 
 The differences in brightness between the brightest stars (m = 1) (1st magnitude), and the weakest ones that we can see with the naked eye (on a moonless night and away from artificial lights) which are $m=6$ (6th magnitude) is about 100 times. So a 1st magnitude star shines 2.5 times more than a 2nd magnitude star.
 

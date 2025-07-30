@@ -166,7 +166,7 @@ MATTHIAS (substitute for Judas Iscariot)
 
 </div>
 
-## 9. JAMES ALPHEAUS, 10. JUDAS ALPHEAUS, 11. SIMON [THE JEALOUS]
+## 9. JAMES ALPHEAUS, 10. JUDAS ALPHEAUS, 11. SIMON [THE ZELOT]
 
 <div class="urantiapedia-table-wrapper">
 

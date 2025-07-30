@@ -633,7 +633,7 @@ Whether we are awakened sooner or later and included in one or another of the or
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | :-- | :-- | :--- | :--- | :--- |
 | | Situations of progress at the time of death | Orders of ascension for survival | Time of resurrection | Worlds where resurrection takes place |
-| 1 | Before Entering the 7th Circle | Adjusterless Children | Orders Dependent on Probation | Concurrent with Their Parents | System, Constellation, and Headquarters Finality Worlds |
+| 1 | Before Entering the 7th Circle. Adjusterless Children | Orders Dependent on Probation | Concurrent with Their Parents | System, Constellation, and Headquarters Finality Worlds |
 | | 7th to 4th Circles. Children with Adjustments but not choosing eternal life | Orders dependent on a probationary period | At the same time as their parents | Finalist Worlds of the System, the Constellation, or the UL |
 | 2 | 7th to 4th Circles Less-evolved worlds | Collective ascension orders (dispensational, millennial, or special) | At the end of an era, or after a thousand years, or at any time | 1st Mansion World |
 | 3 | 3rd Circle Less-evolved worlds | Individual ascension orders Less-advanced group | Resurrection on the third day | Mansion World 1 |
@@ -2141,9 +2141,9 @@ Returning to the Upper Paradise, we distinguish on its surface three large zones
 **Achievements in the 5th Pre-Final Sub-Stage. Knowledge.**
 
 1. **In the 5th Prefinalist Substage**, <ins>our instructors will be the Custodians of Knowledge</ins>, Primary Supernaphim who inherently possess universal knowledge; they themselves have organized and classified them into 7 large groups with almost a million subdivisions per group.
-2. **They are the living, perfect, and replete depositories of the truth of eternity and space-time. They are the final, living summaries and custodians of the immense chain of recording angels, which extends from the Seraphim of the UL to the Tertiary Supernaphim of Havona.
+2. **They are the living, perfect, and replete depositories** of the truth of eternity and space-time. They are the final, living summaries and custodians of the immense <ins>chain of recording angels</ins>, which extends from the Seraphim of the UL to the Tertiary Supernaphim of Havona.
 3. **They are living, self-updating libraries** that can be consulted at will by every resident of Paradise. For this reason, through these instructors, we can obtain supreme knowledge. But this knowledge is also abundantly distributed to all beings on any Havona circuit and, indirectly, is utilized by the Courts of the Ancients of Days in the superuniverses. However, it is not available to the local universes except indirectly and by reflectivity.
-4. **These Supernaphim conduct informal courses of instruction for the residents of Paradise, but their primary function is to serve as a reference and a check.
+4. **These Supernaphim conduct informal courses** of instruction for the residents of Paradise, but their primary function is to serve as a reference and a check.
 
 **164**
 
@@ -2174,7 +2174,7 @@ Returning to the Upper Paradise, we distinguish on its surface three large zones
 
 5. **To this end, our instructors** <ins>have the task of teaching us worship</ins> in such a way that it enables us to achieve the satisfaction of expressing ourselves and, at the same time, be able to pay attention to the essential activities of Paradise. Without the improvement in <ins>the technique of worship that they teach us</ins>, we would need hundreds of years to fully and satisfactorily express our emotions of intelligent appreciation and gratitude. The Leaders of Worship open up unknown avenues of expression so that we can achieve, in less time, the goal of supreme pleasure and the most sublime expression of ourselves.
 6. **This is such a rewarding work for our instructors** that all Primary Supernaphim long to be Leaders of Worship; and all ascending beings would like to remain forever in that attitude of supreme worship and spiritual praise. To prevent this, because there are other things to do in Paradise, the Assignment Chiefs are responsible for periodically breaking up these meetings.
-7. **So great are our raptures of adoration that, since the time of Grandfanda, the Supernaphim have never been able to fully accommodate the Spirit of Adoration in Paradise. This is because personalities of their own perfection (such as the Supernaphim) cannot fully appreciate the astonishing reactions of spiritual emotion in beings like ourselves, who have made our way upward slowly and laboriously from the spiritual darkness of the lower worlds of time and space. When we finally attain and comprehend the presence of the Paradise Powers, there comes within us a gigantic explosion of the emotions accumulated over the centuries, a spectacle which astonishes the Supernaphim and evokes in the Paradise Deities the supreme joy of divine satisfaction.
+7. **So great are our raptures of adoration that**, <ins>since the time of Grandfanda, the Supernaphim have never been able to fully accommodate the Spirit of Adoration in Paradise</ins>. This is because personalities of their own perfection (such as the Supernaphim) cannot fully appreciate the astonishing reactions of spiritual emotion in beings like ourselves, who have made our way upward slowly and laboriously from the spiritual darkness of the lower worlds of time and space. When we finally attain and comprehend the presence of the Paradise Powers, there comes within us a <ins>gigantic explosion of the emotions accumulated</ins> over the centuries, a spectacle which astonishes the Supernaphim and evokes in the Paradise Deities the supreme joy of divine satisfaction.
 
 **167**
 
@@ -2265,7 +2265,7 @@ But, **how does the Corps of Mortal Finaliters actually work, what will our work
 
 **Let's go with the first of those questions**: <ins>How does the Final Mortal Corps actually work?</ins>
 
-1. **Although the future organization of this extraordinary group is unknown, the Corps of Mortal Finaliters is currently organized according to the associative experience they acquired during their ascendant career.</ins>
+1. **Although the future organization of this extraordinary group is unknown**, the Corps of Mortal Finaliters <ins>is currently organized according to the associative experience they acquired during their ascendant career.</ins>
 2. **Currently, the Mortal Finalists** <ins>are a completely autonomous body</ins>, no one directs or controls them directly.
 3. **They elect their own bosses and directors.**
 4. **No outside influence** can put pressure on your policy.
@@ -2312,7 +2312,7 @@ But, **how does the Corps of Mortal Finaliters actually work, what will our work
 
 **And they become Trinitized Sons of God**, of a different Order, according to the characteristic in which they stood out.
 1. **Those who stood out for their loyalty** in a rebellion or in a “politically” difficult situation, are transformed into Trinitized Sons of God, of the Order of Mighty Messengers.
-2. **Those who stood out for their administrative and governmental capacity are transformed into Trinitized Sons of God, of the Order of those Elevated in Authority.
+2. **Those who stood out for their administrative** and governmental capacity are transformed into Trinitized Sons of God, of the Order of those Elevated in Authority.
 3. **And those who stood out for their capacity and spiritual concept of worship**, are transformed into Trinitized Sons of God, of the Order of <ins>Those Who Have Neither Name nor Number</ins>.
 
 **The Mighty Messengers** were mortal finaliters <ins>embraced by the Trinity in groups of 700,000</ins>, of whom 100,000 are assigned at any one time to each SU, where they are associated with the Ancients of Days in functions throughout all superuniverse phases and on all sectors, UL, and even evolutionary worlds of that SU. <ins>Their primary duty is as official observers</ins> for the Ancients of Days and as advisers to the directing authorities on the spheres upon which they reside. They are maintained in constant connection with SU headquarters through the reflectivity service. Nearly <ins>one billion Mighty Messengers</ins> are stationed on Uversa.
@@ -2341,7 +2341,7 @@ But, **how does the Corps of Mortal Finaliters actually work, what will our work
 
 **Trinitized Ambassadors** are non-finalist mortals <ins>embraced by the Trinity in groups of 7,000</ins>, of whom probably 1,000 are assigned at any one time to each SU, where they are associated with the Ancients of Days, who <ins>send them out as their Trinitized Ambassadors</ins> to serve in the SUs, where they <ins>perform special and important services at the Minor Sector Headquarters</ins>, among a variety of other functions, for they are the master minds of their respective groups and are qualified to assist the SU rulers in understanding and administering the interests of the worlds from which these mortals hail. Nearly 500 million of these Trinitized Ambassadors are registered on Uversa.
 
-The selection of these nonfinalist mortal candidates for the Trinity embrace of the Order of Trinitized Ambassadors is conducted on Paradise in accordance with the reports of their Havona instructors. This Order of Trinitized Ambassadors, together with the Order of Trinitized Custodians (which consists of Seraphim and Midwayers who have attained the Mortal Finaliter Corps), are commonly designated the Trinitized Sons of Election.
+**The selection of these nonfinalist mortal candidates** for the Trinity embrace of the Order of Trinitized Ambassadors <ins>is conducted on Paradise in accordance with the reports of their Havona instructors</ins>. This Order of Trinitized Ambassadors, together with the Order of Trinitized Custodians (which consists of Seraphim and Midwayers who have attained the Mortal Finaliter Corps), are commonly designated the Trinitized Sons of Election.
 
 **180**
 

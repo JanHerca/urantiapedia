@@ -338,7 +338,7 @@ And for almost twenty years, no human father could have loved or raised his daug
 This first prayer that Jesus wrote still survives today. 
 
 <p style="text-align:center;"> 
-<b>OUR FATHER<b><br/> 
+<b>OUR FATHER</b><br/> 
 <br/> 
 <b>Our Father who art in heaven</b><br/> 
 <br/> 

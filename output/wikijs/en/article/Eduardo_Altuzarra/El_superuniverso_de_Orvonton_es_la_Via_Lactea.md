@@ -66,7 +66,7 @@ Nebulae need not have a direct relationship to administrative units such as Majo
 ## Paper 11
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/001.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -110,7 +110,7 @@ At the end of the next page 165 it says:
 > ***Practically all of the starry realms visible to the naked eye on Urantia belong to the seventh section of the grand universe, the superuniverse of Orvonton.*** [UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/003.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/003.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -120,7 +120,7 @@ I attach what is seen with the naked eye from Urantia and this is literal, do no
 If we gave that ellipse a longitudinal section AB or if we could look at it from above, we would not see this:
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/004.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/004.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -128,7 +128,7 @@ If we gave that ellipse a longitudinal section AB or if we could look at it from
 We would see, as I imagine, something similar to this:
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/009.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/009.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -148,7 +148,7 @@ I explain how I interpret and imagine the Milky Way or Orvonton, and in principl
 There's nothing to interpret or imagine here either; it's written very clearly, and I think it doesn't matter whether they're represented as “little cheeses,” as “portions” of space, as cubes, as rhombic polyhedrons, or as something else. They're ten major divisions; they can never be ten Andromeda-type nebulae.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/005.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/005.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -166,7 +166,7 @@ Why do I say that? To say what I say, you have to read the first four sections o
 > The rotational center of your minor sector is situated far away in the enormous and dense star cloud of Sagittarius, around which your local universe and its associated creations all move, and from opposite sides of the vast Sagittarius subgalactic system you may observe two great streams of star clouds emerging in stupendous stellar coils. [UB 15:3.5](/en/The_Urantia_Book/15#p3_5)
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/011.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/011.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -195,7 +195,7 @@ Why do I say that? To say what I say, you have to read the first four sections o
 > The Milky Way galaxy is composed of vast numbers of former spiral and other nebulae, and many still retain their original configuration. But as the result of internal catastrophes and external attraction, many have suffered such distortion and rearrangement as to cause these enormous aggregations to appear as gigantic luminous masses of blazing suns, like the Magellanic Cloud. The globular type of star clusters predominates near the outer margins of Orvonton. [UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/006.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/006.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -207,7 +207,7 @@ Why do I say that? To say what I say, you have to read the first four sections o
 ## Paper 32
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/012.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/012.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -233,7 +233,7 @@ From the most distant system of inhabited worlds to the center of the superunive
 > Urantia is of origin in your sun, and your sun is one of the multifarious offspring of the Andronover nebula, which was onetime organized as a component part of the physical power and material matter of the local universe of Nebadon. ***And this great nebula itself took origin in the universal force-charge of space in the superuniverse of Orvonton, long, long ago.*** [UB 57:1.1](/en/The_Urantia_Book/57#p1_1)
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/007.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/007.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -261,7 +261,7 @@ From the most distant system of inhabited worlds to the center of the superunive
 > 6,000,000,000 years ago marks the end of the terminal breakup and the birth of your sun, the fifty-sixth from the last of the Andronover second solar family. This final eruption of the nebular nucleus gave birth to 136,702 suns, most of them solitary orbs. The total number of suns and sun systems having origin in the Andronover nebula was 1,013,628. The number of the solar system sun is 1,013,572. [UB 57:4.8](/en/The_Urantia_Book/57#p4_8)
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_superuniverse_of_Orvonton_is_the_Via_Lactea/008.jpg">
+<img src="/image/article/Spain_Association/El_superuniverso_de_Orvonton_es_la_Via_Lactea/008.jpg">
 </figure>
 
 <br style="clear:both;"/>

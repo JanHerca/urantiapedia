@@ -1,6 +1,6 @@
 ---
-title: "About Document 105"
-description: "Some Comments on Document 105 (Deity and Reality)"
+title: "About Paper 105"
+description: "Some Comments on Paper 105 (Deity and Reality)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: God, Realities, Study Aid, Bill Sadler, article
@@ -29,11 +29,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ***Transcript of a recorded talk by Bill Sadler to a study group.***
 
-If you look closely at the Deity and Reality document, you will have the best discussion of the Urantia Papers.
+If you look closely at the Deity and Reality paper, you will have the best discussion of the Urantia Papers.
 
-When I think of the static Deity, I think of a fried egg. This is the I AM. Potentials have not yet been differentiated from manifestations. As the document describes it, this is the hypothetical static moment of eternity. This is the language they use in the reference I gave you.
+When I think of the static Deity, I think of a fried egg. This is the I AM. Potentials have not yet been differentiated from manifestations. As the paper describes it, this is the hypothetical static moment of eternity. This is the language they use in the reference I gave you.
 
-But the documents don't validate what philosophers and metaphysicians call monism, which is not a fried egg, but a scrambled egg. There's a big difference.
+But the papers don't validate what philosophers and metaphysicians call monism, which is not a fried egg, but a scrambled egg. There's a big difference.
 
 In a scrambled egg, you have a unity, don't you? But in a fried egg, you have a nucleus and a cytoplasm. The nucleus is the yellow part; the cytoplasm is the white. Always, even in the hypothetical static moment, at the beginning of beginnings (before the beginning of beginnings), the possibility of free will was always there.
 
@@ -55,9 +55,9 @@ The yolk departed from the static situation. By thus departing, the yolk demonst
 
 Unchanged because it never moved. And, at this point, the white became an id, because the personal potentials were in the yolk. When you remove the yolk from the white, you remove all the qualities of deity and personality. From now on, the unchanged is “it,” not him.
 
-The yolk (what name shall we give to the yolk?) I like the term Qualified or Modified Absolute. It's rarely used in documents.
+The yolk (what name shall we give to the yolk?) I like the term Qualified or Modified Absolute. It's rarely used in papers.
 
-And what name do we give to the relationship between the white and the yolk? The documents give us the name: Universal Absolute, whose function is to interrelate the tensions, the relationships, between the Qualified Absolute and the Unqualified Absolute.
+And what name do we give to the relationship between the white and the yolk? The papers give us the name: Universal Absolute, whose function is to interrelate the tensions, the relationships, between the Qualified Absolute and the Unqualified Absolute.
 
 And here lies the beginning of the separation between Deity and non-Deity. The Unqualified Absolute is static reality minus all that is Deity. The Qualified Absolute contains within itself the seeds of the manifestation of Deity.
 

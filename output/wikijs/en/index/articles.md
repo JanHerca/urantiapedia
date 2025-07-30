@@ -385,10 +385,10 @@ It is worth remembering that the articles in all these publications have the quo
 				<div><small>Sources: <a href="https://aue.urantia-association.org/study/"><em>Studies in the Spanish website</em></a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/index/articles_spain" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
-				<a href="" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/t/urantia%20association%20of%20spain" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
 				</a>
 			</div>

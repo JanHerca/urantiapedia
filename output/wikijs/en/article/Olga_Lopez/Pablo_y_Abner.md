@@ -81,7 +81,7 @@ Thus, we find ourselves in the paradoxical situation that the group that most fa
 
 It's now time to talk about Paul.
 
-## What is being said about Pablo in the LU?
+## What is being said about Paul in the LU?
 
 Paul of Tarsus is a figure who did not know Jesus during his lifetime and did not participate in his public life. However, there are many references to him in the LU, since the success of Christianity is largely due to him. These references are more numerous in the early documents of the fourth part, which describe the religious landscape of Jesus' time and explain why Christianity spread so successfully throughout the West.
 

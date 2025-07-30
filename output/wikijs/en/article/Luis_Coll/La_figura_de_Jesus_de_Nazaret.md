@@ -36,7 +36,7 @@ If I had to believe in that kind of Jesus as some cartoonists have painted him, 
 <br/>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_figura_of_Jesus_of_Nazareth/001.jpg">
+<img src="/image/article/Spain_Association/La_figura_de_Jesus_de_Nazaret/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -48,7 +48,7 @@ The dark, sad, and dull Christ in some dark corner of a church does not appeal a
 <br/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_figura_de_Jesus_de_Nazareth/002.jpg">
+<img src="/image/article/Spain_Association/La_figura_de_Jesus_de_Nazaret/002.jpg">
 </figure>
 
 <br style="clear:both;"/>
