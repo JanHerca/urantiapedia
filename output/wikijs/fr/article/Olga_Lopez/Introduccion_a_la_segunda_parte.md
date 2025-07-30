@@ -87,7 +87,7 @@ Je voudrais souligner une observation très intéressante du Fascicule 49, dont 
 
 Les Princes Planétaires et les Adams Planétaires sont deux types de personnalités déterminantes sur chaque monde habité. Dans notre cas, le prince assigné à notre monde, Caligastia, a rejoint la rébellion de Lucifer, ce qui a entraîné un déviation de notre monde de l'évolution normale. L'absence d'Adam et Ève a contribué à cette situation. Bien qu'ils n'aient pas rejoint la rébellion, contrairement à ce que Caligastia souhaitait, ils ont définitivement perturbé les plans d'amélioration des races humaines, privées d'une grande partie de la contribution de la race violette.
 
-## 7. Les Époques Planétaires des Mortels (Doc. 52)
+## 7. Les Époques Planétaires des Mortels (Fasc. 52)
 
 Ce document décrit les étapes de la vie humaine à l'échelle planétaire. Il en existe sept :
 
@@ -99,7 +99,7 @@ Ce document décrit les étapes de la vie humaine à l'échelle planétaire. Il 
 6. <ins>Âge post-donation</ins> : Arrivés à ce stade, les révélateurs discutent de la manière de parvenir à la fraternité sociale, une tâche de longue haleine qui exige beaucoup d'efforts, surtout sur une planète aussi confuse et désordonnée que la nôtre. Ils nous fournissent également quelques points clés pour y parvenir, comme favoriser les contacts internationaux, développer une langue commune, échanger des écrits et sensibiliser aux effets néfastes de l'intolérance et des conflits fratricides, entre autres. Il est également important que les hommes d'État œuvrent pour le bien-être de l'humanité, et pas seulement pour celui de leurs groupes nationaux ou raciaux.
 7. L'Homme après le Fils Instructeur : Les Fils Instructeurs de la Trinité arrivent. Urantia est à nouveau atypique, car Jésus a promis de revenir. Les Fils Instructeurs préparent le monde à son entrée dans l'ère de lumière et de vie. La mort naturelle devient moins fréquente (l'espérance de vie approche les 500 ans) et les Ajusteurs fusionnent « dans la vie » avec les humains. La maîtrise de soi individuelle s'est instaurée et le gouvernement disparaît. Le « travail » est réduit à une heure. La planète est en contact étroit avec les affaires de l'univers. Le Prince Planétaire devient Souverain Planétaire. Nous entrons dans l'ère de lumière et de vie.
 
-## 8. La rébellion de Lucifer (Doc. 53 et 54)
+## 8. La rébellion de Lucifer (Fasc. 53 et 54)
 
 Voici d'autres documents extrêmement intéressants et fascinants, non seulement parce qu'ils nous aident à comprendre le pourquoi des troubles de notre monde, mais aussi parce qu'ils décrivent la véritable personnalité de Lucifer. Une personnalité brillante, un être de lumière, qui a succombé à sa propre importance et s'est volontairement laissé aller au Mal.
 
@@ -115,7 +115,7 @@ Finalement, 37 mondes ont succombé à la rébellion, dont le nôtre. Caligastia
 
 Lucifer est enchaîné sur la planète-prison de Jérusem depuis que Michel est devenu souverain de Nébadon de droit divin. Satan est également emprisonné. Le verdict final prononcé contre eux est inconnu, mais on suppose qu'il s'agit de leur annihilation, car ils n'ont montré aucun signe de repentir et ont rejeté toute offre de clémence.
 
-Le Document 54 propose une série de réflexions très intéressantes sur cette rébellion, notamment sur ses conséquences et sa possible fin. Les révélateurs proposent une analyse très éclairante de la véritable liberté, la contrastant avec la fausse liberté prônée par Lucifer. Le pire aspect de sa rébellion fut sa tentative de sauter le temps dans un univers expérientiel comme celui dans lequel nous vivons. Le mal et le péché sont inévitables pour que la créature soit véritablement libre, et rien ni personne ne peut nous priver de cette liberté de choix, comme Lucifer l'avait prévu.
+Le Fascicule 54 propose une série de réflexions très intéressantes sur cette rébellion, notamment sur ses conséquences et sa possible fin. Les révélateurs proposent une analyse très éclairante de la véritable liberté, la contrastant avec la fausse liberté prônée par Lucifer. Le pire aspect de sa rébellion fut sa tentative de sauter le temps dans un univers expérientiel comme celui dans lequel nous vivons. Le mal et le péché sont inévitables pour que la créature soit véritablement libre, et rien ni personne ne peut nous priver de cette liberté de choix, comme Lucifer l'avait prévu.
 
 Les révélateurs comprennent que, compte tenu de notre étroitesse d'esprit, nous pourrions penser que la résolution finale tarde trop. Ils nous donnent des raisons tout à fait compréhensibles de soutenir le contraire. Premièrement, Michel lui-même a tout fait pour retarder l'exécution de la justice, non par faiblesse ou permissivité, mais pour donner à Lucifer (son fils, ne l'oublions pas) toute possibilité de se repentir de ses actes. Cette restriction de la justice par la miséricorde est une preuve supplémentaire que Dieu est amour.
 
@@ -123,7 +123,7 @@ D'un autre côté, le temps ne s'écoule pas de la même manière pour nous et p
 
 Il est également vrai que lorsqu'un membre de la famille devient perturbateur, le reste de la famille en souffre, mais il est également vrai que cette rébellion ne nous empêchera pas d'accéder au Paradis et d'atteindre Dieu. En effet, on nous dit que « le bien qui est résulté de la rébellion de Satania est plus de mille fois supérieur à la somme de tous les maux ». Avoir vécu sur une planète troublée par la rébellion nous donne un bagage expérientiel dont d'autres mondes plus « normaux » manquent, et cela peut nous apporter un précieux bagage spirituel.
 
-## 9. Les sphères de lumière et de vie (Doc. 55)
+## 9. Les sphères de lumière et de vie (Fasc. 55)
 
 Le document 55 parle plus longuement de ces mondes du temps et de l’espace qui ont atteint leur plénitude, le stade le plus avancé de l’évolution, et qui ont déjà été mentionnés dans le document sur les stades planétaires des mortels.
 
@@ -135,7 +135,7 @@ Bien que le potentiel maléfique soit encore important et que des problèmes quo
 
 Le stade de lumière et de vie ne concerne pas seulement les mondes, mais, à mesure qu'il s'étend, il englobe les systèmes, les constellations, les univers locaux et les secteurs mineurs et majeurs du superunivers. Nul ne sait ce qui adviendra lorsque les sept superunivers seront établis dans la lumière et la vie, mais ce sera certainement l'événement le plus important depuis l'apparition de l'univers central.
 
-## 10. Unité universelle (Doc. 56)
+## 10. Unité universelle (Fasc. 56)
 
 La deuxième partie se conclut par ce document, qui est en quelque sorte un document récapitulatif dans lequel, bien que tous les éléments qui composent les univers locaux aient été détaillés, il nous rappelle une fois de plus que tout est créé, conçu, organisé et administré de manière unifiée. Ne laissons pas les arbres occulter la forêt. En fin de compte, le but de l'existence des univers locaux, compte tenu de leur nature évolutive, est l'unité avec le JE SUIS.
 

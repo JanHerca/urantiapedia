@@ -277,7 +277,7 @@ De tous ces paragraphes du Décret 57, j'interprète que, à l'exception de quel
 - « À QUOI RESSEMBLE VRAIMENT ORVONTON ? » par Antonio Moya 1987
 - "D'URANTIA À L'UNIVERS MAÎTRE, FAITS INTÉRESSANTS" par Humberto Andrade 1997
 - [QUELLE EST VRAIMENT LA TAILLE D'ORVONTON ?](/fr/article/Norm_Duval/How_big_is_Orvonton) par Norm Du Val.
-- [«UNE ÉTUDE DE L'UNIVERS MAÎTRE»](/fr/article/William_S_Sadler_Jr/Étude_de_l'Univers_Maître) par William Sadler, Jr.
+- [«UNE ÉTUDE DE L'UNIVERS MAÎTRE»](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe) par William Sadler, Jr.
 - PHOTOGRAPHIES HUBBLE.
 
 ## Références 

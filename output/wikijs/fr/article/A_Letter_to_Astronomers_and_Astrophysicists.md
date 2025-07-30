@@ -48,7 +48,7 @@ Rappelons que les galaxies géantes et leurs galaxies satellites sont aussi appe
 > Votre univers local de Nébadon appartient à Orvonton, le septième superunivers, qui tourne entre les superunivers numéros un et six et a pris depuis peu (à la manière dont nous calculons le temps) le tournant sud-est du niveau d’espace des superunivers. Aujourd’hui, le système solaire auquel appartient Urantia a passé depuis quelques milliards d’années la courbure sud, si bien que, présentement, vous avancez au-delà du tournant sud-est et vous vous déplacez rapidement sur la longue trajectoire comparativement rectiligne vers le nord. Pendant des âges innombrables, Orvonton suivra ce parcours allant presque droit vers le nord. <a id="a47_636"></a>[LU 15:1.4-5](/fr/The_Urantia_Book/15#p1_4)
 
 <figure id="Lettre_figure_2" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Superunivers.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Superuniverses.png">
 <figcaption><em><b>Figure 2.</b> Identification proposée des sept « superunivers » du _Livre d’Urantia_</em></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Les zones de quiescence de l'espace intermédiaire (essentiellement les vides co
 > Un niveau d’espace fonctionne donc comme une région elliptique de mouvement entourée de tous côtés par une immobilité relative. Ces relations entre mouvement et repos constituent un chemin d’espace courbe de moindre résistance au mouvement. Ce chemin est universellement suivi par la force cosmique et l’énergie émergente au cours de leur circulation sans fin autour de l’Ile du Paradis. <a id="a88_390"></a>[LU 11:7.7-8](/fr/The_Urantia_Book/11#p7_7)
 
 <figure id="Lettre_figure_3" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Midspace_fr.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Midspace_en.png">
 <figcaption><em><b>Figure 3.</b> Vue latérale des « zones de quiescence de l’espace intermédiaire » entourant la _Nappe locale_ et des « zones relativement calmes » autour du premier niveau possible de l’espace extra-atmosphérique. Adaptation de l’image originale extraite de : <a href="http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg">http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg</a>.</em></figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Les zones de quiescence de l'espace intermédiaire (essentiellement les vides co
 Les documents publiés en 1955 affirment l'existence d'immenses espaces d'extension « supérieurs » et « inférieurs » moins riches en galaxies, appelés par eux réservoirs d'espace (espace non pénétré). Ce sujet est similaire au précédent, à l'exception du fait que _Le Livre d'Urantia_ mentionne spécifiquement l'existence de ces deux Super Vides et déclare que l'un occupe une région inférieure et l'autre une position supérieure par rapport à ce que nous connaissons sous le nom de _Feuille Locale_ (_Local Sheet_). Ces vides ont été désignés par _Super Vide Local Nord_[^13] (_Northern Local Supervoid_) et _Super Vide Local Sud_[^14] (_Southern Local Supervoid_).
 
 <figure id="Lettre_figure_4" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/groupes_proches.jpg">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/nearby_groups.jpg">
 <figcaption><em><b>Figure 4.</b> Distrución espacial del vecindario del Grupo Local projeté sur le plan supergalactique (Y, Z). Image originale : <a href="http://ned.ipac.caltech.edu/level5/Dev2/frames.html">http://ned.ipac.caltech.edu/level5/Dev2/frames.html</ a>.</em></figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Les extraits suivants sont tirés de l'article _La structure de l'Univers tracé
 {.is-info}
 
 <figure id="Lettre_figure_6" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space_fr.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space_en.png">
 <figcaption><em><b>Figure 6.</b> Coupe verticale : 132 684 amas de galaxies répartis, ressemblant légèrement à une croix de Malte (vue latérale).</em></figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Toujours sceptique quant aux réservoirs spatiaux et à leurs extensions, j'ai t
 {.is-info}
 
 <figure id="Lettre_figure_7" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space2_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space2_en.png">
 <figcaption><em><b>Figure 7.</b> Coupe verticale : environ 510 000 quasars répartis, ressemblant légèrement à une croix de Malte (vue latérale).</em></figcaption>
 </figure>
 
@@ -195,20 +195,20 @@ Les documents de 1955 appellent ces sphères par des noms différents, et décri
 
 Dans deux autres articles, ils décrivent que certaines sphères sont sombres et peuvent également être formées par des agrégations de matière se déplaçant lentement dans l'espace ; mentionnant même l'existence d'une exolune en orbite autour d'une « planète sombre » sans soleil principal :
 
-> Quelques-unes des iles denses et obscures proviennent directement d’un agrégat d’énergie transmuante dans l’espace. Un autre groupe de ces iles obscures est venu à l’existence par l’accumulation d’énormes quantités de matière froide, de simples fragments et météorites circulant dans l’espace. Ces agrégats de matière n’ont jamais été chauds et, à part leur densité, leur composition est très semblable à celle d’Urantia. <a id="a197_424"></a>[LU 15:5.10](/fr/The_Urantia_Book/15#p5_10)
+> Quelques-unes des iles denses et obscures proviennent directement d’un agrégat d’énergie transmuante dans l’espace. Un autre groupe de ces _iles obscures_ est venu à l’existence par l’accumulation d’énormes quantités de matière froide, de simples fragments et météorites circulant dans l’espace. Ces agrégats de matière n’ont jamais été chauds et, à part leur densité, leur composition est très semblable à celle d’Urantia. <a id="a197_424"></a>[LU 15:5.10](/fr/The_Urantia_Book/15#p5_10)
 
-> Le plus ancien monde habité de Satania, le monde numéro 1, est Anova, l’un des 44 satellites tournant autour d’une énorme planète obscure, mais exposée à la lumière différentielle de trois soleils voisins. Anova est dans un état avancé de civilisation progressive. <a id="a199_267"></a>[LU 49:0.5](/fr/The_Urantia_Book/49#p0_5)
+> Le plus ancien monde habité de Satania, le monde numéro 1, est Anova, l’un des 44 satellites tournant autour d’une énorme _planète obscure_, mais exposée à la lumière différentielle de trois soleils voisins. Anova est dans un état avancé de civilisation progressive. <a id="a199_267"></a>[LU 49:0.5](/fr/The_Urantia_Book/49#p0_5)
 
 ## Le format d'Orvonton, le septième superunivers
 
-Le superunivers d'Orvonton est composé principalement de la Voie Lactée, c'est le plan principal du superunivers mais pas son intégralité. Le septième superunivers, ainsi nommé par le Livre d'Urantia, couvre toute la Voie Lactée et tout autour sous la forme d'un « plan allongé ». La Voie Lactée est positionnée perpendiculairement à l'intérieur de ce plan.
+Le superunivers d'Orvonton est composé principalement de la Voie Lactée, c'est le plan principal du superunivers mais pas son intégralité. Le septième superunivers, ainsi nommé par le _Livre d'Urantia_, couvre toute la Voie Lactée et tout autour sous la forme d'un « plan allongé ». La Voie Lactée est positionnée perpendiculairement à l'intérieur de ce plan.
 
-> Pratiquement tous les royaumes étoilés visibles d’Urantia à l’œil nu appartiennent à la septième section du grand univers, le superunivers d’Orvonton. Le vaste système d’étoiles de la Voie Lactée représente le noyau central d’Orvonton et se trouve très au-delà des frontières de votre univers local. Ce grand agrégat de soleils, d’iles obscures de l’espace, d’étoiles doubles, d’amas globulaires, de nuages stellaires, de nébuleuses spirales ou autres, ainsi que de myriades de planètes individuelles, forme un groupement ovale allongé à profil de montre englobant environ un septième des univers évolutionnaires habités.[^20].
+> Pratiquement tous les royaumes étoilés visibles d’Urantia à l’œil nu appartiennent à la septième section du grand univers, le superunivers d’Orvonton. Le vaste système d’étoiles de la Voie Lactée représente le noyau central d’Orvonton et se trouve très au-delà des frontières de votre univers local.[^18] Ce grand agrégat de soleils, d’iles obscures de l’espace, d’étoiles doubles, d’amas globulaires, de nuages stellaires, de nébuleuses spirales[^19] ou autres, ainsi que de myriades de planètes individuelles, forme un _groupement ovale allongé_ à profil de montre englobant environ un septième des univers évolutionnaires habités.[^20].
 >
 > Depuis l’emplacement astronomique d’Urantia, en regardant _la grande Voie Lactée à travers une section droite des systèmes rapprochés_, on observe que les sphères d’Orvonton voyagent dans _un vaste plan allongé dont la largeur est beaucoup plus grande que l’épaisseur et la longueur beaucoup plus grande que la largeur_. ​​<a id="a207_325"></a>[LU 15:3.1-2](/fr/The_Urantia_Book/15#p3_1)
 
 <figure id="Lettre_figure_8" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/darkmatter_formation_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/darkmatter_formation_en.png">
 <figcaption><em><b>Figure 8.</b> Formation du halo de matière noire autour d'une galaxie à disque, extraite de « Scalar-field theory of dark matter » (2014). Disponible sur : <a href="http://arxiv.org/pdf/1304.1595v2.pdf">http://arxiv.org/pdf/1304.1595v2.pdf</a>.</em></figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ Le superunivers d'Orvonton est composé principalement de la Voie Lactée, c'est
 <figcaption><em><b>Figure 9.</b> Sag DEG. Image de Jon Lomberg en collaboration avec David Martinez-Delgado pour le Stellar Tidal Stream Survey.</em></figcaption>
 </figure>
 
-La description d'un système allongé de ces amas dans lequel la Voie Lactée serait disposée serait très inhabituelle en 1955 et même dans les décennies à venir. Mais des études indiquent maintenant qu'un halo de matière noire entoure de la même manière toute la Voie Lactée[^21]. Dans les paragraphes ci-dessus, Le Livre d'Urantia fait clairement référence aux amas globulaires et à Sag DEG, mais cette galaxie elliptique en boucle orbitant autour des pôles de la Voie Lactée n'a été découverte qu'en 1994, 39 ans après les documents de 1955.
+La description d'un système allongé de ces amas dans lequel la Voie Lactée serait disposée serait très inhabituelle en 1955 et même dans les décennies à venir. Mais des études indiquent maintenant qu'un halo de matière noire entoure de la même manière toute la Voie Lactée[^21]. Dans les paragraphes ci-dessus, _Le Livre d'Urantia_ fait clairement référence aux amas globulaires et à Sag DEG, mais cette galaxie elliptique en boucle orbitant autour des pôles de la Voie Lactée n'a été découverte qu'en 1994, 39 ans après les documents de 1955.
 
 > _Note complémentaire de l'éditeur_
 >
@@ -230,7 +230,7 @@ _Le Livre d'Urantia_ a anticipé de 49 ans la connaissance humaine selon laquell
 
 Voici ce que déclare _Le Livre d'Urantia_ :
 
-> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. <a id="a232_247"></a>[LU 41:3.5](/fr/The_Urantia_Book/41#p3_5)
+> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’_une étoile double_ dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. <a id="a232_247"></a>[LU 41:3.5](/fr/The_Urantia_Book/41#p3_5)
 
 Voici ce qui a été publié dans le magazine _Nature_ en octobre 2004 :
 
@@ -240,17 +240,17 @@ Voici ce qui a été publié dans le magazine _Nature_ en octobre 2004 :
 
 _Le Livre d'Urantia_ a anticipé d'au moins 21 ans la connaissance scientifique de la [« vitesse particulière »](https://en.wikipedia.org/wiki/Peculiar_velocity). En 1976, on a découvert que certaines galaxies ne suivaient pas l'expansion de l'univers comme le prévoyait la loi de Hubble, mais qu'elles semblaient plutôt suivre un mouvement différent dans une direction inattendue. C'est ce que l'on a appelé l'effet Rubin-Ford[^23]. Les documents de 1955 affirment que de vastes régions de galaxies, qui en plus de s'étendre suivent également des flux bien définis et des mouvements préférés dans d'autres directions (ceux-ci sont appelés « mouvements secondaires » <a id="a240_666"></a>[LU 12:4.9](/fr/The_Urantia_Book/12#p4_9)), le livre explique également la raison de ces mouvements.
 
-> Ce zonage alterné du maitre univers, associé au flux alterné des galaxies dans le sens des aiguilles d’une montre et en sens inverse, est un facteur de stabilisation de la gravité physique destiné à empêcher que la pression de gravité ne s’accentue au point où elle produirait un effet de désagrégation et de dispersion. Ce dispositif exerce une influence antigravitationnelle et agit comme un frein sur des vitesses qui autrement seraient dangereuses. <a id="a242_455"></a>[LU 11:7.9](/fr/The_Urantia_Book/11#p7_9)
+> Ce zonage alterné du maitre univers, associé au flux _alterné des galaxies dans le sens des aiguilles d’une montre et en sens inverse_, est un facteur de stabilisation de la gravité physique destiné à empêcher que la pression de gravité ne s’accentue au point où elle produirait un effet de désagrégation et de dispersion. Ce dispositif exerce une influence antigravitationnelle et agit comme un _frein_ sur des vitesses qui autrement seraient dangereuses. <a id="a242_455"></a>[LU 11:7.9](/fr/The_Urantia_Book/11#p7_9)
 
-> Mais la plus importante de ces distorsions provient de ce que les vastes univers de l’espace extérieur situés dans les royaumes avoisinant les domaines des sept superunivers paraissent effectuer leur rotation en sens inverse de celle du grand univers. Autrement dit, ces myriades de nébuleuses ainsi que les soleils et sphères qui les accompagnent tournent présentement autour de la création centrale dans le sens des aiguilles d’une montre. Or les sept superunivers tournent en sens inverse autour du Paradis. Il semble que le second univers extérieur de galaxies, tout comme les sept superunivers, tourne en sens inverse des aiguilles d’une montre autour du Paradis. Les astronomes observateurs d’Uversa croient découvrir la preuve que des mouvements rotatifs s’effectuent dans une troisième ceinture d’espace immensément lointaine, et que ces mouvements commencent à manifester des tendances à s’orienter dans le sens des aiguilles d’une montre. <a id="a244_951"></a>[LU 12:4.15](/fr/The_Urantia_Book/12#p4_15)
+> Mais la plus importante de ces distorsions provient de ce que les vastes univers de l’espace extérieur situés dans les royaumes avoisinant les domaines des sept superunivers paraissent effectuer leur rotation en _sens inverse_ de celle du grand univers. Autrement dit, ces myriades de nébuleuses ainsi que les soleils et sphères qui les accompagnent tournent présentement autour de la création centrale dans le sens des aiguilles d’une montre. Or les sept superunivers tournent en sens inverse autour du Paradis. Il semble que le second univers extérieur de galaxies, tout comme les sept superunivers, tourne en sens inverse des aiguilles d’une montre autour du Paradis. Les astronomes observateurs d’Uversa croient découvrir la preuve que des mouvements rotatifs s’effectuent dans une troisième ceinture d’espace immensément lointaine, et que ces mouvements commencent à manifester des tendances à s’orienter dans le sens des aiguilles d’une montre. <a id="a244_951"></a>[LU 12:4.15](/fr/The_Urantia_Book/12#p4_15)
 
 > _Note complémentaire de l'éditeur_
 >
-> Aujourd'hui, on découvre dans les mesures de nombreuses distorsions qui s'écartent de la loi de Hubble sur l'expansion universelle. On parle par exemple de « distorsions spatiales dues au décalage vers le rouge » ([Redshift-space distortions](https://en.wikipedia.org/wiki/Redshift-space_distortions) ou RSDs), dont la principale manifestation sont les « doigts de Dieu », des mégastructures linéaires apparentes dans la distribution des galaxies qui sont observées lorsque le décalage vers le rouge est utilisé comme unité de distance au lieu des distances réelles. Un effet similaire est ce qu'on appelle l'effet Kaiser, dans lequel la distorsion est causée par les mouvements cohérents des galaxies lorsqu'elles se déplacent vers le centre de leurs amas.
+> Aujourd'hui, on découvre dans les mesures de nombreuses distorsions qui s'écartent de la loi de Hubble sur l'expansion universelle. On parle par exemple de « distorsions spatiales dues au décalage vers le rouge » ([Redshift-space distortions](https://en.wikipedia.org/wiki/Redshift-space_distortions) ou RSDs), dont la principale manifestation sont les « doigts de Dieu », des mégastructures linéaires apparentes dans la distribution des galaxies qui sont observées lorsque le décalage vers le rouge est utilisé comme unité de distance au lieu des distances réelles. Un effet similaire est ce qu'on appelle l'_effet Kaiser_, dans lequel la distorsion est causée par les mouvements cohérents des galaxies lorsqu'elles se déplacent vers le centre de leurs amas.
 >
-> En fait, l'effet Rubin-Ford, qui n'avait pas été très bien accueilli lors de sa première publication en 1976, a depuis été confirmé et on parle désormais d'un « streaming à grande échelle » (_Large-scale streaming_) dans les cumulus des galaxies. Voici quelques-unes des conclusions des études modernes sur le sujet :
+> En fait, l'_effet Rubin-Ford_, qui n'avait pas été très bien accueilli lors de sa première publication en 1976, a depuis été confirmé et on parle désormais d'un « streaming à grande échelle » (_Large-scale streaming_) dans les cumulus des galaxies. Voici quelques-unes des conclusions des études modernes sur le sujet :
 >
-> > Des observations récentes de deux échantillons de galaxies de tout le ciel ont fourni des preuves de déviations systématiques à grande échelle par rapport au flux isotrope de Hubble. La première de ces observations était le rapport préliminaire de notre ré-étude de l'échantillon de galaxies spirales de Rubin et al. (1976) en utilisant des techniques infrarouges (Collins, Joseph & Robertson 1986). L'application d'indicateurs infrarouges de Tully-Fisher et optiques (couleur infrarouge) de luminosité de magnitude confirme l'« effet Rubin-Ford », c'est-à-dire le mouvement apparent du Groupe local, par rapport à cet échantillon de galaxies de tout le ciel, qui est approximativement orthogonal à la vitesse déduite de l'anisotropie dipolaire dans le rayonnement de fond cosmologique (CBR) à 2,7 K. Nous avons interprété ce résultat en termes de vitesse de flux systématique de ces galaxies d'environ 970 km s^-1^. Comme le décalage vers le rouge moyen de l'échantillon est de 5100 km s-1^, ce flux se situe à une échelle spatiale d'environ 100 h-1^ Mpc (où la constante de Hubble est de 100 h-1^ km s-1^ Mpc-1^). Un échantillon de galaxies elliptiques de décalage vers le rouge moyen de 3000 km s-1^ observé par Dressler et al. (1987) montre un flux similaire d'environ 600 km s-1^.
+> > Des observations récentes de deux échantillons de galaxies de tout le ciel ont fourni des preuves de déviations systématiques à grande échelle par rapport au flux isotrope de Hubble. La première de ces observations était le rapport préliminaire de notre ré-étude de l'échantillon de galaxies spirales de Rubin et al. (1976) en utilisant des techniques infrarouges (Collins, Joseph & Robertson 1986). L'application d'indicateurs infrarouges de Tully-Fisher et optiques (couleur infrarouge) de luminosité de magnitude confirme l'« effet Rubin-Ford », c'est-à-dire le mouvement apparent du Groupe local, par rapport à cet échantillon de galaxies de tout le ciel, qui est approximativement orthogonal à la vitesse déduite de l'anisotropie dipolaire dans le rayonnement de fond cosmologique (CBR) à 2,7 K. Nous avons interprété ce résultat en termes de vitesse de flux systématique de ces galaxies d'environ 970 km s^-1^. Comme le décalage vers le rouge moyen de l'échantillon est de 5100 km s-1^, ce flux se situe à une échelle spatiale d'environ 100 _h_-1^ Mpc (où la constante de Hubble est de 100 h-1^ km s-1^ Mpc-1^). Un échantillon de galaxies elliptiques de décalage vers le rouge moyen de 3000 km s-1^ observé par Dressler et al. (1987) montre un flux similaire d'environ 600 km s-1^.
 > >
 > > En revanche, une étude d'Aaronson et al. (1986) sur les spirales de 10 amas bien en dehors du superamas local, à des décalages vers le rouge de 4000 à 1000 km s^-1^, contredit directement ces résultats. Aaronson et al. trouvent un mouvement du Groupe local par rapport à ces amas en bon accord, en amplitude et en direction, avec le mouvement du Groupe local par rapport au CBR. Ainsi, l'étude d'Aaronson et al. indique que ces 10 amas n'ont pas de composante de flux le long de cette direction.
 > >
@@ -286,7 +286,7 @@ Les documents indiquent que le premier niveau est une ceinture de galaxies en or
 
 Les documents de 1955 n'indiquent pas clairement la longueur exacte du premier niveau d'espace, mais nous pouvons déduire de <a id="a286_125"></a>[LU 12:1.14-15](/fr/The_Urantia_Book/12#p1_14) que le premier niveau s'étend jusqu'à environ 97 millions d'années-lumière au-delà de la Voie Lactée, ou 75 millions d'années-lumière à l'extérieur de l'ellipse, avec un diamètre global maximum d'environ 170 millions d'années-lumière (y compris le superamas de la Vierge). Cependant, le deuxième niveau d'espace extérieur devrait être beaucoup plus grand. En parlant des premiers niveaux d’espace extra-atmosphérique, les mystérieux auteurs affirment avoir détecté au moins 70 000 agrégats de matière, soit plus que n’importe laquelle des galaxies de la « Grande Ellipse » (<a id="a286_746"></a>[LU 31:10.19](/fr/The_Urantia_Book/31#p10_19)). Pour une estimation très approximative, si la Voie Lactée a une masse d’environ 1,5 10^12^ $M^\odot$, nous pouvons supposer que les premiers niveaux d’espace extra-atmosphérique ont environ 1,05 10^17^ $M^\odot$.
 
-Il s'agit d'un résultat très proche de la masse du superamas de Laniakea. Que ce soit une simple coïncidence ou non, nous devrions considérer ce qui suit :
+Il s'agit d'un résultat très proche de la masse du _superamas de Laniakea_. Que ce soit une simple coïncidence ou non, nous devrions considérer ce qui suit :
 
 1. Le superamas de Laniakea et le superamas de Persée-Poissons forment une sorte d'« arc » incliné autour de la _Nappe locale_ (_Local Sheet_);
 2. Il existe une différence significative de vitesse particulière entre Laniakea et Persée-Poissons ;
@@ -314,7 +314,7 @@ Selon les auteurs, il existe 4 types de mouvements des galaxies dans l’espace,
 
 ## Une réflexion sur « l’Univers central » et la Grande Ellipse
 
-Selon Le Livre d’Urantia, l’Île Centrale est le « plus gigantesque corps organisé de réalité cosmique de tout le maître univers » et « le centre éternel de l’univers des univers » <a id="a316_180"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1). Ce noyau, appelé à juste titre « Paradis », n’est pas limité à l’espace et au temps. « Le Paradis existe sans temps et n’a pas de localisation dans l’espace » <a id="a316_382"></a>[LU 11:2.10](/fr/The_Urantia_Book/11#p2_10). Cette Île stationnaire n’occupe pas l’espace puisqu’elle existe en dehors de celui-ci.
+Selon _Le Livre d’Urantia_, l’Île Centrale est le « plus gigantesque corps organisé de réalité cosmique de tout le maître univers » et « le centre éternel de l’univers des univers » <a id="a316_180"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1). Ce noyau, appelé à juste titre « Paradis », n’est pas limité à l’espace et au temps. « Le Paradis existe sans temps et n’a pas de localisation dans l’espace » <a id="a316_382"></a>[LU 11:2.10](/fr/The_Urantia_Book/11#p2_10). Cette Île stationnaire n’occupe pas l’espace puisqu’elle existe en dehors de celui-ci.
 
 > L’Ile du Paradis — Le Paradis, sans autre qualification, est l’Absolu du contrôle matériel-gravitationnel de la Source-Centre Première. Le Paradis est sans mouvement et il est la seule chose immobile dans l’univers des univers. L’Ile du Paradis a un emplacement dans l’univers mais pas de position dans l’espace. Cette Ile éternelle est la source effective des univers physiques — passés, présents et futurs. <a id="a318_411"></a>[LU 0:4.12](/fr/The_Urantia_Book/0#p4_12)
 
@@ -333,7 +333,7 @@ Si vraiment les galaxies qui composent la grande ellipse gravitent autour d'un c
 <figcaption><em><b>Figure 12.</b> Proportions de l'île centrale selon le Livre d'Urantia. Figure du haut : vue de dessus ; Figure du bas : vue de côté.</em></figcaption>
 </figure>
 
-Bien entendu, cette dernière hypothèse ne peut être vérifiée, mais il y a quelque chose d'intéressant dans la forme et les dimensions de l'Ile éternelle. Selon Le Livre d'Urantia, ce grand corps a la forme géométrique d'un ellipsoïde triaxial ([Figure 13](#Letter_figure_13)).
+Bien entendu, cette dernière hypothèse ne peut être vérifiée, mais il y a quelque chose d'intéressant dans la forme et les dimensions de l'Ile éternelle. Selon _Le Livre d'Urantia_, ce grand corps a la forme géométrique d'un ellipsoïde triaxial ([Figure 13](#Letter_figure_13)).
 
 > Dans sa forme, le Paradis diffère des corps habités de l’espace : il n’est pas sphérique, il est nettement ellipsoïde, son diamètre nord-sud étant d’un sixième plus long que son diamètre est-ouest. L’Ile centrale est essentiellement plate, et la distance entre la surface supérieure et la surface inférieure est le dixième du diamètre est-ouest. <a id="a337_348"></a>[LU 11:2.2](/fr/The_Urantia_Book/11#p2_2)
 
@@ -361,7 +361,7 @@ Ces documents publiés en 1955 font référence à une dizaine de concepts scien
 9. Le mouvement particulier des galaxies ;
 10. Le concept de champ de Higgs.
 
-Même des décennies après 1955, certains de ces concepts n'apparaissaient dans aucune littérature, à l'exception de ces étranges documents dont l'auteur humain est inconnu. Ces connaissances pourraient-elles être le fruit d'un génie du vingtième siècle doté d'une imagination fertile, au point d'anticiper ce que la science n'avait pas encore découvert et de préférer rester anonyme ? Ces documents pourraient-ils vraiment provenir d'intelligences non humaines ? Cependant, s'il existait réellement un humain capable de prédire ces faits, pourquoi les personnes les plus instruites de l'époque ne l'auraient-elles pas fait ? Le plus intéressant est que Le Livre d'Urantia n'est pas un livre scientifique, et l'objectif principal des auteurs n'était certainement pas de présenter des informations scientifiques inconnues de l'humanité, considérant, par exemple, que plus d'un tiers du contenu total de 2097 pages est un récit de la vie et des enseignements de Jésus de Nazareth.
+Même des décennies après 1955, certains de ces concepts n'apparaissaient dans aucune littérature, à l'exception de ces étranges documents dont l'auteur humain est inconnu. Ces connaissances pourraient-elles être le fruit d'un génie du vingtième siècle doté d'une imagination fertile, au point d'anticiper ce que la science n'avait pas encore découvert et de préférer rester anonyme ? Ces documents pourraient-ils vraiment provenir d'intelligences non humaines ? Cependant, s'il existait réellement un humain capable de prédire ces faits, pourquoi les personnes les plus instruites de l'époque ne l'auraient-elles pas fait ? Le plus intéressant est que _Le Livre d'Urantia_ n'est pas un livre scientifique, et l'objectif principal des auteurs n'était certainement pas de présenter des informations scientifiques inconnues de l'humanité, considérant, par exemple, que plus d'un tiers du contenu total de 2097 pages est un récit de la vie et des enseignements de Jésus de Nazareth.
 
 Malgré l'existence d'erreurs dans ce livre (erreurs qui reflétaient le point de vue scientifique des années 30 ; <a id="a365_113"></a>[LU 101:4](/fr/The_Urantia_Book/101#p4)), les preuves présentées ici semblent être (du point de vue d'un profane) étonnantes. Devrions-nous nous arrêter et considérer les chances que quelqu'un ait formulé chacune de ces suppositions en 1955, puis les comparer ? Cependant, je demande au lecteur de comprendre : cette lettre n'est pas un essai de validation d'un prétendu canular, combiné à la pseudoscience et à toutes ses productions imaginaires. Ce document n'est né que de l'observation de faits déjà découverts et étrangement liés à un contact supposé avec des entités intelligentes non humaines.
 

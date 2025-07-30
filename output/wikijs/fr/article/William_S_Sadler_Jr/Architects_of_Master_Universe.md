@@ -296,4 +296,4 @@ Ce même principe est vrai même en ce qui concerne la progression évolutive de
 
 ## Remarques
 
-[^1] : « réel » au sens de « réel », « concret », par opposition à « potentiel ».
+[^1]: « réel » au sens de « réel », « concret », par opposition à « potentiel ».

@@ -595,7 +595,7 @@ En ce qui concerne la limite inférieure du nombre d'étoiles, à partir de la c
 Le nombre d'étoiles 3010^6^, divisé par la densité de Nébadon que nous donne l'UL (1,17 10^-3^), nous donnera une idée du volume en mètres cubes dont nous parlons :
 
 $$
-V_Nébadon = 30 \cdot 10^{6} / 1,17 \cdot 10^{-3} = 2,564 \cdot 10^{-3} \mathrm{al}^{3}
+V_{Nebadon} = 30 \cdot 10^{6} / 1,17 \cdot 10^{-3} = 2,564 \cdot 10^{-3} \mathrm{al}^{3}
 $$
 
 Ce volume serait contenu dans une sphère de rayon 1829 al (3658 al de diamètre).
@@ -605,13 +605,13 @@ En bref, nous avons établi un volume pour Nébadon, qui devrait être compris e
 Si nous devions nous déplacer dans des densités mesurées par notre science sur des distances plus courtes d'environ 2 ou 3 mille vers la zone environnante, dans laquelle, comme nous l'avons vu, la densité estimée s'élève à une moyenne de 3,72 x 10^-3^ étoiles par année-lumière cube, nous parlerions d'une gamme de volumes pour Nébadon qui irait de :
 
 $$
-V_{Nébadon} = 30 \cdot 10^{6} / 3,72 \cdot 10^{-3} = 8,06 \cdot 10^{9} \mathrm{al}^{3}
+V_{Nebadon} = 30 \cdot 10^{6} / 3,72 \cdot 10^{-3} = 8,06 \cdot 10^{9} \mathrm{al}^{3}
 $$
 
 Jusqu'à:
 
 $$
-V_{Nébadon} = 100 \cdot 10^{6} / 3,72 \cdot 10^{-3} = 2,688 \cdot 10^{10} \mathrm{al}^{3}
+V_{Nebadon} = 100 \cdot 10^{6} / 3,72 \cdot 10^{-3} = 2,688 \cdot 10^{10} \mathrm{al}^{3}
 $$
 
 Un ellipsoïde contenant ce volume pourrait avoir des mesures sur les demi-axes : 2480 x 1900 x 1300 de haut (Annexe 7).

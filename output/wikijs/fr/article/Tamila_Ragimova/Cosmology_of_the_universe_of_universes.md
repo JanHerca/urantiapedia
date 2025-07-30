@@ -44,7 +44,7 @@ Ces dernières années, l'astronomie a également connu un développement signif
 En physique, il existe un modèle expliquant l'émergence de l'univers, appelé la théorie du Big Bang. Ce modèle repose sur une découverte cruciale faite par l'astronome Edwin Hubble en 1929. Hubble a découvert que les galaxies lointaines s'éloignent de nous, ce qui signifie que l'univers est en expansion (Fig. 1).
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/01.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/01.jpg">
 <figcaption>Fig. 1. — Dépendance de la vitesse de déplacement d'une galaxie par rapport à sa distance à la Terre : H<sub>o</sub> ≥ 10 km/sMpc ; t<sub>univ</sub>= 1,5 x 10<sup>10</sup> ans</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ En 1922, le physicien théoricien Alexander Friedmann démontra mathématiquemen
 La théorie du Big Bang repose sur la physique relativiste générale et la mécanique quantique. Cette théorie prédit que l'espace-temps a débuté à la singularité du Big Bang et qu'il progresserait vers la conclusion du Big Crunch. L'univers a commencé par une gigantesque explosion de matière, actuellement en expansion et qui finira par s'arrêter. S'ensuit une contraction de la matière jusqu'à un effondrement, appelé le Big Crunch (Fig. 2). Ces théories n'expliquent pas l'émergence de la matière. Le modèle mécano-théorique du Big Bang fait l'objet de nombreuses discussions et ajustements parmi les physiciens. La question qui se pose est la suivante : est-il possible d'utiliser uniquement la mécanique quantique relativiste pour décrire l'émergence et le modèle de l'univers réel, ou d'autres concepts encore inconnus de la science manquent-ils pour décrire la véritable réalité cosmique ?
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/02.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/02.jpg">
 <figcaption>Fig. 2. — Big Bang et Big Crunch. Tiré de « Une brève histoire du temps » de Stephen W. Hawking.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Le plus grand progrès humain sur Terre au XXe siècle est la cinquième révél
 La forme du Paradis diffère de celle des corps habités. Il n'est pas sphérique, mais ellipsoïde plat, dont le diamètre nord-sud est six fois plus long que son diamètre est-ouest ; la distance entre la surface supérieure et la surface inférieure est d'un dixième du diamètre est-ouest (Fig. 3).
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/03.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/03.jpg">
 <figcaption>Fig. 3. — L'île du Paradis, centre de toute la création.<br>1. Le Paradis supérieur<br>2. Le Paradis périphérique<br>3. Le Paradis inférieur<br>D = d + d/6<br>h = 0,1 d<br><b>Matière - Absolutum</b><br>Cycle de pulsation : environ 10<sup>9</sup> ans
 </figcaption>
 </figure>
@@ -111,14 +111,14 @@ L'espace occupé s'étend horizontalement par rapport au Paradis, dans une direc
 L'espace inoccupé est un espace vertical est-ouest, inoccupé par les forces, énergies, matériaux, pouvoirs et présences qui existent dans l'espace occupé (fig. 4). Pour tenter d'imaginer le profil volumique de ces réserves spatiales, on pourrait penser à un sablier ou à la croix de Malte (fig. 5).
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/04.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/04.jpg">
 <figcaption>Fig. 4. — Espaces occupés et inoccupés, et leurs mouvements<br>Espace occupé en expansion<br>Espace inoccupé en compression<br>Espace au repos</figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/05.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/05.jpg">
 <figcaption>Fig. 5. — Espaces occupés et inoccupés comme la croix de Malte</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Les observations du physicien Edwin Hubble sur les galaxies en recul semblent ê
 Les niveaux spatiaux successifs du maître univers constituent les principales divisions de l'espace occupé : création totale, organisée et partiellement habitée, ou à organiser et habiter à l'avenir. Le maître univers est organisé en une série de niveaux spatiaux elliptiques, alternant avec des zones de repos relatif. L'énergie et la matière gravitent toujours le long des grands circuits spatiaux elliptiques.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/06.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/06.jpg">
 <figcaption>Fig. 6. — Le Maître Univers comprend le Paradis, Havona, les 7 Superunivers et les 4 niveaux de l'espace extra-atmosphérique.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ Les six niveaux spatiaux, dont les énergies sont organisées en matière ou non
 L'univers central de Havona tourne dans le sens des aiguilles d'une montre. Les sept superunivers tournent dans le sens inverse. Le premier niveau de l'espace extra-atmosphérique tourne dans le sens des aiguilles d'une montre, etc., comme le montre la figure 6.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/07.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/07.jpg">
 <figcaption>Fig. 7. — Le Paradis avec les 21 satellites et l'Univers Central Havona.</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ D'un point de vue physique, les circuits de Havona et les satellites du Paradis 
 La ceinture interne des corps gravitationnels sombres est disposée en forme de tube. Le cercle extérieur est perpendiculaire, dix mille fois (10^4^) plus haut que le circuit interne. Le diamètre longitudinal du circuit extérieur des corps sombres (Fig. 8) est cinquante mille fois (50 x 10^3^) supérieur à son diamètre transversal.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/08.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/08.jpg">
 <figcaption>Fig. 8. — Le Paradis et Havona avec les deux anneaux de corps sombres.</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ La ceinture interne des corps gravitationnels sombres est disposée en forme de 
 En dehors de l'univers central de Havona existent les sept superunivers d'espace et de temps, situés sur le premier niveau spatial post-Havona. Au début de la matérialisation de la création de l'univers, le schéma septuple d'organisation et de gouvernement des superunivers fut formulé. La première création post-Havona fut divisée en sept segments prodigieux, appelés superunivers. Les mondes architecturaux du siège des superunivers furent conçus et construits (fig. 9). Le Paradis, l'univers central de Havona, et les sept superunivers forment le Grand Univers.
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/09.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/09.jpg">
 <figcaption>Fig. 9. — Le Grand Univers est composé de l'Île du Paradis, d'Havona et des 7 Superunivers.</figcaption>
 </figure>
 
@@ -285,7 +285,7 @@ Toute matière dans l'univers provient de la matérialisation de l'énergie univ
 Notre univers local, Nébadon, s'est formé à partir de la nébuleuse d'Andronover, qui a commencé à se stabiliser il y a 875 000 000 000 d'années. Les nébuleuses rejettent des soleils et d'autres matériaux cosmiques. Notre soleil est né il y a 6 000 000 000 d'années. La figure 10 illustre schématiquement la libération de matériaux cosmiques par les nébuleuses.
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Cosmologie_de_l'univers_des_univers/10.jpg">
+<img src="/image/article/Spain_Association/Cosmology_of_the_universe_of_universes/10.jpg">
 <figcaption>Fig. 10. — Formation de soleils, de planètes et d’autres corps cosmiques dans une nébuleuse.</figcaption>
 </figure>
 

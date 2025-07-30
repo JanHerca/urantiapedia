@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-**Note du traducteur :** [L'annexe VIII (Techniques de transformation)](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendice_8) de [« Une étude du Maître Univers »](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) de Bill Sadler (une annexe très longue, 30 pages au total), traite de toutes les techniques utilisées dans l'univers actuel pour donner naissance à un nouvel être. Sadler dit ceci :
+**Note du traducteur :** [L'annexe VIII (Techniques de transformation)](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8) de [« Une étude du Maître Univers »](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) de Bill Sadler (une annexe très longue, 30 pages au total), traite de toutes les techniques utilisées dans l'univers actuel pour donner naissance à un nouvel être. Sadler dit ceci :
 
 Il existe plus d'une manière par laquelle les choses et les êtres émergent de potentiels pour devenir réels – pour devenir réels –, mais dans tous les cas, il s'agit d'un processus transformateur. Pour nous qui vivons dans un monde évolutionnaire, il ne devrait pas être trop difficile d'imaginer la création par décret, par opposition à l'évolution lente. Il existe diverses autres techniques de transformation (outre l'évolution et la création) grâce auxquelles les choses et les êtres naissent et par lesquelles des changements et des modifications s'opèrent chez les choses et les êtres déjà existants.
 
