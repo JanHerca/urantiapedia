@@ -68,7 +68,7 @@ Every political position should be obtained through specific training for candid
 
 The desire to serve one's neighbor must transcend any personal or political interests; it is the only way for rulers to be fair, honest, and transparent. Our systems are corrupt because this desire to serve one's neighbor is lacking. We can see this in our parliaments: even if an idea is excellent for an entire nation, its implementation is blocked because it originated with a rival party.
 
-In section 7 of document 71 (Education) they tell us about the importance of education to achieve the ideal State.
+In section 7 of paper 71 (Education) they tell us about the importance of education to achieve the ideal State.
 
 > In the ideal state, education continues throughout life, and philosophy sometime becomes the chief pursuit of its citizens. The citizens of such a commonwealth pursue wisdom as an enhancement of insight into the significance of human relations, the meanings of reality, the nobility of values, the goals of living, and the glories of cosmic destiny. [UB 71:7.2](/en/The_Urantia_Book/71#p7_2)
 
@@ -121,7 +121,7 @@ Between the 100 states and the federal state, there appears to be an intermediat
 
 Regarding universal suffrage, at this point, we will find great differences in the manner in which the citizens of the neighboring planet elect their rulers. Instead of the Urantian system of “one person, one vote,” those “_who have rendered great service to society_” ([UB 72:2.9](/en/The_Urantia_Book/72#p2_9)) are allowed additional votes, up to a maximum of ten. Additional votes are also available to those who have contributed heavily to the public treasury. Just as additional votes are granted, the right to vote is waived in various cases. For example, in the case of “those sentenced to forced labor in the mines and all government officials supported by tax funds” ([UB 72:9.4](/en/The_Urantia_Book/72#p9_4)).
 
-It is interesting that document 45 refers to the weighted votes in universal suffrage in the capital of our system, Jerusem:
+It is interesting that paper 45 refers to the weighted votes in universal suffrage in the capital of our system, Jerusem:
 
 > Suffrage is universal on Jerusem among these three groups of citizens [referring to the Material Sons, seraphim and midwayers, and ascendant mortals], but the vote is cast differentially according to one's recognized and duly recorded possession of mota—the wisdom of morontia. The vote cast by any personality in an election on Jerusem has a value ranging from one to one thousand. The citizens of Jerusem are thus classified according to their attainments in mota. [UB 45:7.6](/en/The_Urantia_Book/45#p7_6)
 
@@ -151,7 +151,7 @@ In Paper 55, a Mighty Messenger tells us that a world in the early stages of lig
 - Planetary social service is one of the highest honors a citizen can receive [UB 55:3.8](/en/The_Urantia_Book/55#p3_8).
 - Parity between men and women in social, administrative, educational, and judicial positions [UB 55:3.9](/en/The_Urantia_Book/55#p3_9).
 
-Later in this document, the Mighty Messenger describes “the physical perfection, intellectual achievement, and spiritual development that characterize these advanced ages of evolution on a sinless sphere” (55:5.1). A day will come when there will be no poverty or social inequality, no crime or mental illness; a day when science, art, and industry will flourish; a day when economic life will become ethical; a day when there will be no wars, no armies, no police; a day when everything will be conducive to the attainment of happiness, that state so fleeting today.
+Later in this paper, the Mighty Messenger describes “the physical perfection, intellectual achievement, and spiritual development that characterize these advanced ages of evolution on a sinless sphere” (55:5.1). A day will come when there will be no poverty or social inequality, no crime or mental illness; a day when science, art, and industry will flourish; a day when economic life will become ethical; a day when there will be no wars, no armies, no police; a day when everything will be conducive to the attainment of happiness, that state so fleeting today.
 
 > ... The planetary realization of this era of light and life far more than equals the fondest expectations of Urantia mortals who have entertained no more farseeing concepts of the future life than those embraced within religious beliefs which depict heaven as the immediate destiny and final dwelling place of surviving mortals. ... [UB 52:7.16](/en/The_Urantia_Book/52#p7_16)
 

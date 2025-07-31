@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/001.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -72,7 +72,7 @@ It was on October 12, 1955, that The Urantia Book was first published in this wo
 <br>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/002.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/002.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -80,7 +80,7 @@ It was on October 12, 1955, that The Urantia Book was first published in this wo
 The compilation of his text was developed through the dedication of a group of people called “the Forum”, who believed from the beginning in some documents that were “appearing” in previous years in the Sadler family environment as a revelation, which without any greater mysteries than those of family confidentiality were kept inside a safe that said family had in the building they owned, located at 533 Diversey Parkway, Chicago (Illinois), currently the headquarters of the Urantia Foundation in the USA.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/004.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/004.jpg">
 </figure>
 
 This book gradually spread throughout the different states of the United States, as well as to several other countries. In fact, between 1961 and 1962, The Urantia Book was published for the first time in France in French, translated by Jacques Weiss and his team, under the title La Cosmogonie d'Urantia and published in three volumes. Jacques Weiss was a French industrialist, aviation expert, former leader of the underground resistance to the Nazis during the occupation, and an ardent seeker of truth. [A Short History](/en/article/Georges_Michelson_Dupont/A_Short_History_of_the_French_Translation)
@@ -96,13 +96,13 @@ The most conclusive proof, after a long, exhaustive, and reliable investigation,
 <br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/003.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/003.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/005.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/005.jpg">
 </figure>
 
 Pedro Valverde Tort was born in Mataró on August 25, 1928. He married Carmen Vilabella Bassangé in 1952, and they had four children. Later, in 1956, they lived in Granollers. In 1964, Pedro and his family moved to Porto (Portugal) for work. He held degrees in Geography and History, as well as a degree in Draftsmanship. Around that time, or perhaps a little earlier, Pedro Valverde Tort discovered books. For the next eight years, family life unfolded naturally in the neighboring country.
@@ -118,7 +118,7 @@ According to what I was told at the time, in broad strokes and without many deta
 Pedro gave several lectures (Annex 1) on wide and diverse topics of “unexplained phenomena” because he was a member, at that time, of societies such as the “Interplanetary Studies of Barcelona” and the “Friends of Space Visitors of Madrid.”
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/006.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/006.jpg">
 </figure>
 
 At the same time as these events were taking place in Portugal, other events related to _The Urantia Book_ were also unfolding in the city of Chicago, in the United States of America. On April 26, 1969, the alma mater, Dr. William Samuel Sadler, passed away at the age of 93. He was the lifeblood of all the writings associated with the 196 documents of _The Urantia Book_.
@@ -132,7 +132,7 @@ It seems that news of the events unfolding in France around that time reached Pe
 Later, in mid-1972, Pedro had to leave for Angola for work. His work consisted mainly of the gradual relocation of industrial equipment.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/007.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/007.jpg">
 </figure>
 
 Between 1973 and 1974, it is true that, due to misunderstandings, debates, and confrontations between the trustees of The Urantia Foundation in Chicago and Jacques Weiss, a series of lawsuits and lawsuits began, ultimately resulting in the confiscation of the printing plates for the volumes of _La Cosmogonie d'Urantia_, as well as all the printed books that could be seized. As a result of these actions against Weiss, the French translation essentially ceased to be sold. The only option left was to make clandestine photocopies of the editions, and due to the situation, these photocopies increased in price.
@@ -158,7 +158,7 @@ Finally, Pedro returned to Spain from Angola, settling in Mataró in December 19
 From that year onwards and perhaps with renewed spirit, not without leaving his studies and work duties, Pedro Valverde Tort began a journey of activities in his free time for approximately two decades, in which he mainly dedicated himself to the dissemination of _The Urantia Book_ and to a more in-depth study (if possible).
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/008.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/008.jpg">
 </figure>
 
 He dedicated, as could not be otherwise, every moment he had available to research and studies of ufology, parapsychology, as well as a series of somewhat incomprehensible and enigmatic events related to the paranormal world, such as life after death and other occult topics that sometimes and in some people create totally mysterious emotional and mental conflicts.
@@ -170,7 +170,7 @@ Around October 23, 1976, Pedro Valverde gave possibly his first lecture/talk in 
 <br>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/010.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/010.jpg">
 <figcaption>Cultural activities. The current situation and problems of UFOs under scrutiny. The First National Congress on Ufology, in Barcelona. The First National Congress on Ufology ( OVNI ) will be held on December 3rd and 4th at the Montjuich Conference Centre, under the chairmanship of Mr. Antonio Ribera. The objectives of this Congress are to inform the attending public and the Spanish public in general about the state of UFO research in Spain, research that has reached very high levels among us, and also to allow contact and an exchange of views among our researchers. Among the presentations that will be presented are: - The enigma of Sirius. - Bases for a theoretical modeling of the UFO phenomenon. - Pictorial material from Cantabrian caves and its relation to the UFO phenomenon. The Mystery of UMMO, The 1897 Aircraft: Unpublished Facts, The Problem of Contact, UFOs: Official Documents of the Spanish Government, and other equally interesting ones. For any information or registration, please contact the Congress Secretariat at 637 José Antonio Avenue, Office 14, phone numbers 301, 33, 75, and 318, 45, 93, Barcelona, Spain.
 </figure>
 
@@ -209,7 +209,7 @@ The process followed consisted of obtaining as much information as possible, stu
 Approximately one month after the 1st National Congress of Ufology, Pedro asked Antonio Ribera for the address of Juan José Benítez, journalist, ufologist and writer, to contact him because, knowing that he attended the congress as a speaker, and that, due to circumstances beyond their control, it was impossible to have an in-depth conversation except for sporadic greetings (if there were any).
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/009.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/009.jpg">
 </figure>
 
 JJ Benítez is well known to all of us, mainly for the books written about the saga “_The Trojan Horses_” (“_Caballos de Troya_”).
@@ -231,7 +231,7 @@ I'm not entirely sure whether Pedro Valverde Tort attended them as a spectator o
 <br>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/010b.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/010b.jpg">
 <figcaption>A conference dedicated to the topic of UFOs will begin tomorrow. The First Mediterranean Congress of Ufology (OVNI) will be held at the Montjuich Conference Centre on the 16th and 17th. This conference will feature specialists in unidentified flying objects from various European countries. The president of the conference is writer Antonio Ribera, and the president of the Organizing Committee is Francisco de Asis Rovaatti, a specialist in parapsychology. While some presentations are expected to be rigorous in their approach to the UFO phenomenon, such as that of Robert Pinotti from Italy, who will discuss the “dossiers” of the Italian Department of Defense General Staff, there are others whose announcement is pending, such as that of Antonio Pelegrí of Spain, who will discuss “Standards for legal relations with extraterrestrials.” Other topics to be discussed will include: - Correlation of the UFO phenomenon with certain socioeconomic factors. - New official Spanish documents. - “The mystical problems of the UFO phenomenon” and - “On the nature of observations”
 </figure>
 
@@ -242,7 +242,7 @@ At the First Mediterranean Congress of Ufology, now in 1979, Pedro presented his
 <br>
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/010c.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/010c.jpg">
 <figcaption>Interest in the UFO topic is growing. The First Mediterranean Congress on Ufology has concluded. There is great interest in our country in the UFO topic. There is a group of young university students, physics graduates, engineers, computer science specialists, all with rigorous training, who are studying this phenomenon, declared the president of the First Mediterranean Congress on Ufology at the closing ceremony, which concluded on Sunday. The Congress included speakers from Portugal, Italy, France, Romania, Turkey, and Spain. According to the president of the Congress, Mr. Antonio Ribera, in other countries this interest is channeled through official organizations, such as in France, where the organization that studies UFOs depends on the National Center for Scientific Research. The presidencies of the Congress and its organizing committee were held by Antonio Ribera, writer and honorary president of the Center for Interplanetary Studies (CEI) in Barcelona, and Francisco Rovatti, sociologist and president of the I, II, and III National Congresses of Parapsychology. Papers were presented at this Mediterranean Congress by Marius Lleget, De Blas, David López, José Benitez, Antoni Pelegri, Pedro Valverde, Enrique Vicente, and Antonio Ribera, from Spain; Pierre Delval, from France; Fernando Patinha, from Portugal; Florin Gheorghita, from Romania; and Roberto Pinoti, from Italy. Also attending the congress were Dr. Haluk Egemen, from Turkey, and Messrs. Fourd and Lagarde, from France, although they did not present communications or papers.
 </figure>
 
@@ -251,7 +251,7 @@ At the First Mediterranean Congress of Ufology, now in 1979, Pedro presented his
 <br>
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/012.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/012.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -261,7 +261,7 @@ Among many attendees at this conference was Ferran Ballester, an ophthalmologist
 Personally, over time, I had the opportunity to meet Ferran and also some of his friends with whom I was able to talk about that conference and its consequences.
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/011.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/011.jpg">
 </figure>
 
 I asked him several questions, including when, how, and why he met Pedro Valverde Tort. Ferran answered:
@@ -279,7 +279,7 @@ He also told me:
 _I must admit that its content caught my attention, and I insisted that I was interested in purchasing the book. He replied that the French version by Jacques Weiss was out of print and that a reissue was not authorized, but that Weiss himself would provide copies of the book upon request. I managed to locate Mr. Weiss and spoke with him by telephone, and thus I obtained the complete French version of The Urantia Book, distributed in 12 booklets, which allowed me to delve into the study of this extensive and peculiar narrative work about Urantia, our planet._
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/013.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/013.jpg">
 </figure>
 
 Beginning in October 1980, Pedro collaborated with the Center for the Study and Reflection on Human Destiny and the Urantia Book Study Group. On November 20 of that same year, he gave a lecture on religions, speaking about “The Human Instrument within The Urantia Book.”
@@ -291,7 +291,7 @@ In 1981, a series of meetings took place in which, through negotiations between 
 
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/015.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/015.jpg">
 </figure>
 
 Mr. Jacques Weiss passed away in 1983. According to a close friend of Mr. Jacques, who was present at his deathbed, he told him something to the effect that he was leaving this world broken by the consequences he had experienced over the years involved in the translation. What began with great enthusiasm between him and Dr. Sadler was cut short by the trustees' insistence on implementing policies to control the revelation after Dr. Sadler's death.
@@ -301,7 +301,7 @@ I know, without specifying reliable dates, that at the beginning of the 80s, fro
 <br style="clear:both;"/>
 
 <figure id="Figure_17" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/014.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/014.jpg">
 </figure>
 
 Asking Ferran Ballester about this topic, about how and where he came to know Henry Begemann, Ferran answered:
@@ -323,7 +323,7 @@ _All this happened during the eighties, which was the period when I was most ded
 I believe that Pedro Valverde Tort dedicated the following years to maintaining relationships with friends linked in one way or another to the dissemination of _The Urantia Book_.
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/016.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/016.jpg">
 </figure>
 
 Between 1988 and 1994, Pedro Valverde collaborated extensively with Andreas Faber-Kaiser (1944-1994). Andreas directed, produced and presented the esoteric program _Sintonia Alfa_ on Catalunya Ràdio, alternating with the special program [Arxiu Secret](http://andreas.faber.cat/radio/) (Secret Archive) and the program [Què volen aquesta gent?](http://andreas.faber.cat/radio/) (What Do These People Want?), a series dedicated to extraterrestrial issues and unidentified flying objects.
@@ -335,7 +335,7 @@ In fact, on August 12, 1988, Pedro appeared on the radio program _Què Volen Aqu
 <br style="clear:both;"/>
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/017.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/017.jpg">
 </figure>
 
 A few days after this last event on _Catalunya Ràdio_, on the 25th and 26th, Pedro appeared as a speaker at the III Symposium of the Ramón Llull Lodge of AMORC Rosicrucian Order, of which he was a Frater, and gave a lecture on “The mystery of _The Urantia Book_”.
@@ -355,7 +355,7 @@ On the 22nd of that same month and year, Pedro appeared on Andreas Faber-Kaiser'
 <br style="clear:both;"/>
 
 <figure id="Figure_19" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/019.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/019.jpg">
 </figure>
 
 
@@ -368,7 +368,7 @@ In June he moved to Madrid to appear on the program LA NOCHE on Radio Getafe, wh
 <br style="clear:both;"/>
 
 <figure id="Figure_20" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/018.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/018.jpg">
 </figure>
 
 Once again, on July 12, Pedro Valverde Tort, along with Francisco Gil Sarrión, participated in Andreas Faber Kaiser's program _Sintonia Alfa_ on _Catalunya Ràdio_ to discuss topics related to the “Rosicrucian Fellowship.”
@@ -386,7 +386,7 @@ In 1993, the Urantia Foundation of Chicago, through the American translation com
 <br style="clear:both;"/>
 
 <figure id="Figure_21" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/020.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/020.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -400,7 +400,7 @@ Due to the fluid correspondence he maintained with Urantia Foundation in Chicago
 Although the exact date is unknown, that year Pedro Valverde Tort, along with Neus Albentosa and Ramón Hervás, participated in a program hosted by José Herrera on Hospitalet de Llobregat TV.
 
 <figure id="Figure_22" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/021.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/021.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -436,7 +436,7 @@ At this point, after the appropriate investigations, I must state that Pedro Val
 <br>
 
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/022.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/022.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -479,7 +479,7 @@ _Until then, my friend, may the love of the Father unite us._
 <br>
 
 <figure id="Figure_25" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/024.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/024.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -491,7 +491,7 @@ While all these events were taking place in Catalonia, a series of events were a
 It all began around 1977 when Mr. Ignacio Darnaude Rojas Marcos in Seville, reading a novel about extraterrestrial life forms, read a footnote that said: Adam and Eve (_The Urantia Book_).
 
 <figure id="Figure_26" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/023.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/023.jpg">
 </figure>
 
 Ignacio, a lifelong Sevillian, is a person of unique characteristics: extroverted, friendly, a great conversationalist, and a very good friend to his friends. Ignacio Darnaude Rojas Marcos was born in Seville on November 18, 1931. He has three children from his first wife. He later married Mariluz. With a degree in Economics and Business Administration, his career has been linked to banking.
@@ -513,7 +513,7 @@ Simply speechless, and if anything were to be added, it would be something like,
 The thing is, Ignatius, upon reading “Adam and Eve (_The Urantia Book_),” became interested in the subject and located the Foundation in Chicago that houses the book, so he requested a copy. Once he had it in his hands, he read its 2,097 pages continuously for several months.
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/026.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/026.jpg">
 </figure>
 
 It didn't end there. Ignacio, a close friend of Antonio Moya Cerpa, with whom he was primarily interested in ufology at the time, commented on the existence and content of the book (I should add at this point that Antonio Moya told me at the time that he got into this primarily because of Ignacio's explanations and tenacity in giving him details of the book's contents).
@@ -523,7 +523,7 @@ It didn't end there. Ignacio, a close friend of Antonio Moya Cerpa, with whom he
 I had the opportunity to meet him and interact with Ignacio Darnaude for the first time in Seville due to a visit made by several members of the board of directors of the Urantia Association of Spain.
 
 <figure id="Figure_28" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/025.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/025.jpg">
 </figure>
 
 Antonio Moya was born in 1948 in Seville (Spain). When he was 26, he began to investigate phenomena such as UFOs, Oui-ja, extraterrestrial contacts, mediumship, revealed books, etc. He found the French translation of _The Urantia Book_ at the age of 30, and since then his life has never been the same.
@@ -561,7 +561,7 @@ _Answer: For years, we were unaware of anyone else reading_ The Urantia Book _in
 <br>
 
 <figure id="Figure_29" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/027.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/027.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -597,7 +597,7 @@ As an anecdote, I can say that it was the meeting that lasted the longest and ha
 Once the meeting was over, several candidates took over the baton so that the next meeting could be organized over the next 365 days. Initially, a couple of readers residing in Toledo offered to participate, but they were unable to do so due to circumstances that were never clarified. It took several years for Spanish readers of The Urantia Book to gather again to read it.
 
 <figure id="Figure_30" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/029.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/029.jpg">
 </figure>
 
 At the beginning of the summer of 2001, several of my “die-hard” reader friends got together to analyze the situation and consider whether it was worth organizing a national meeting. We discussed it extensively from all possible perspectives and came to the conclusion that it was necessary for us Spanish readers to meet again.
@@ -611,7 +611,7 @@ While all this was happening, in early September of that same year, my wife and 
 The reason for this event was to attempt to reach some agreements to resolve the controversy that had arisen from the publication in the same edition of _The Urantia Book_ with the Prologue and the First Part with an improved translation by Antonio Moya and the Study Group.
 
 <figure id="Figure_31" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/028.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/028.jpg">
 </figure>
 
 After various conversations, a series of agreements were reached that did not bear the desired fruit over time.
@@ -631,7 +631,7 @@ It's worth noting that this meeting was the first in which all attendees were co
 In 2003, no national events were organized, but we did receive visitors. Between November 18 and 19, I was visited by several local readers, along with Trustee Richard Keeler and the Foundation's liaison with Spanish-speaking readers, Victor Garcia. The purpose of this visit was to consult us on our opinions of the Spanish translation of _The Urantia Book_, published in 1993. They spent several days in Spain, visiting as many reader groups as they could find on their agendas: Seville, Madrid, Barcelona, etc.
 
 <figure id="Figure_32" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/030.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/030.jpg">
 </figure>
 
 At the beginning of December, a group of “hardcore readers” met in Sigüenza. We did so at the end of the year in a wonderful, newly renovated accommodation provided by our friend and reader, Rafael Modéjar.
@@ -657,7 +657,7 @@ After the Meeting, steps were taken to make the association accessible to the wi
 Activities are proposed to promote study groups throughout Spain, such as visits, presentations, lectures, etc., as well as placing _The Urantia Book_ in public libraries.
 
 <figure id="Figure_32" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/031.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/031.jpg">
 </figure>
 
 In July of this same year (2004), a representative from the Junta attended the Parliament of Religions, held for the first time in Europe. It was held in Barcelona, within the framework of the Universal Forum of Cultures. We attended because members of the Fellowship (a readers' association that emerged from the Urantia Brotherhood, created by the Foundation) sent a delegation with a stand and two representatives who gave lectures as speakers.
@@ -675,7 +675,7 @@ From April 29th to May 2nd, 2005 we celebrated the V National Meeting at the Sac
 <br style="clear:both;"/>
 
 <figure id="Figure_33" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/032.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/032.jpg">
 </figure>
 
 In 2005, the process of establishing the Urantia Association of Spain began. That year, another new study group was established in the Balearic Islands, specifically in Mallorca. Its leader was Catalina Covas, an enthusiastic and active reader who even maintained two study groups in Palma de Mallorca and the surrounding area. She enthusiastically led the various readers on the island, always striving to emphasize the importance of this revelation for personal growth.
@@ -689,7 +689,7 @@ That year also saw the launch of the EDEN (School of Natural Spiritual Developme
 <br style="clear:both;"/>
 
 <figure id="Figure_34" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/034.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/034.jpg">
 </figure>
 
 At the end of October 2006, our president was invited by Urantia Association International to visit its headquarters in Chicago, specifically to the iconic building located at 533 Diversey Parkway. The purpose of the invitation was to be part of a UAI delegation that was to meet with the Foundation's trustees to explore avenues for rapprochement between UAI and the Fellowship. The trip was also used to establish friendly relations with the trustees and members of the international association.
@@ -697,7 +697,7 @@ At the end of October 2006, our president was invited by Urantia Association Int
 <br style="clear:both;"/>
 
 <figure id="Figure_35" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/033.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/033.jpg">
 </figure>
 
 Due to circumstances described in issue 17 of our magazine Luz y Vida, specifically at the beginning of the article “Genesis of the Conference,” the curiosity of taxi driver, book reader, and friend Thomas Sánchez Mateos, unbeknownst to him, triggered the course of events. The link is provided below. Because of this, we found it necessary to move our venue for the VII Meeting to the Hotel Vistamar in Benalmádena, Málaga. We were able to maintain the dates and program since it could not be held in Toledo for reasons beyond our control. [VII Meeting](http://www.librodeurantia.es/?q=node/20) and [Luz y Vida No. 9](http://www.librodeurantia.es/sites/default/files/LyV9.pdf)
@@ -711,7 +711,7 @@ The Association finally obtained legal status, and on October 29, 2007, we were 
 <br style="clear:both;"/>
 
 <figure id="Figure_36" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/037.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/037.jpg">
 </figure>
 
 At the beginning of 2008, it was very welcome news for everyone associated with the Association to learn that the trustees of the Urantia Foundation in Chicago had appointed our president, Olga López, as an associate trustee. This appointment helped establish stronger and better relationships of all kinds with the various members of the Foundation and, likewise, with members of the International Urantia Association. She is a computer engineer with a degree in philosophy and the author of three novels, several essays, and several articles. [Books](http://www.librodeurantia.es/node/364).
@@ -723,7 +723,7 @@ From May 2nd to 4th, 2008, we decided to hold the 8th National Meeting of _Urant
 <br style="clear:both;"/>
 
 <figure id="Figure_37" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/035.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/035.jpg">
 </figure>
 
 In October, and in reference to the printing of the European Edition, the director of the company that had printed the first paperbacks of the 1993 edition referred us to other printers since that company did not publish less than 10,000 copies and our expectations ranged between 1,500 or 2,500 copies, at most, the economic cost of which was expected to be covered by contributions received from readers.
@@ -735,7 +735,7 @@ By mid-November, the association had raised most of the money needed to finance 
 <br style="clear:both;"/>
 
 <figure id="Figure_38" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/036.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/036.jpg">
 </figure>
 
 The second weekend of March, several board members (Olga, Andrés, and I) traveled to Madrid to visit the study group members and give a presentation of _The Urantia Book_ in one of the Ecocentro rooms located on Esquilache Street.
@@ -745,7 +745,7 @@ April arrives, and with all the arrangements for the International Conference pr
 <br style="clear:both;"/>
 
 <figure id="Figure_39" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/040.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/040.jpg">
 </figure>
 
 On the 17th, we began the international event that the four members of the board of directors, along with the twelve members of the Organizing Committee, had been preparing for almost three years. The Vistamar Hotel hosted us for five days, during which we enjoyed the company of more than 117 people from 20 different countries. [Light and Life No. 17](http://www.librodeurantia.es/sites/default/files/LyV17.pdf)
@@ -753,7 +753,7 @@ On the 17th, we began the international event that the four members of the board
 <br style="clear:both;"/>
 
 <figure id="Figure_40" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/038.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/038.jpg">
 </figure>
 
 After several years of translation work, _The Urantia Book_ (European Edition) was finally released in Spanish this year, in conjunction with the International Conference in Benalmádena. [Comment 1](http://www.urantia.org/news/2008-09/impression-of-the-european-edition-of-the-urantia-book) [Comment 2](http://www.urantia.org/news/2010-12/the-urantia-book-european-edition-of-the-spanish-edition-of-spain)
@@ -761,7 +761,7 @@ After several years of translation work, _The Urantia Book_ (European Edition) w
 <br style="clear:both;"/>
 
 <figure id="Figure_41" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/039.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/039.jpg">
 </figure>
 
 Between October 10th and 12th, a mini-meeting was organized for several Spanish readers in the town of San Rafael, Segovia, at the same accommodation where the IV Meeting was held: La Casona del Pinar, a leisure residence. Various comments were made on topics from the book, as well as PowerPoint presentations by Mariano and me. The possibility of a presentation on the new European Edition was discussed. We enjoyed three unforgettable days of good atmosphere and long talks, as well as good food and generous walks through pine forests.
@@ -773,7 +773,7 @@ In May 2010, the IX National Meeting was held at La Casa Toya, a nursing home lo
 <br style="clear:both;"/>
 
 <figure id="Figure_42" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/042.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/042.jpg">
 </figure>
 
 Olga, Andrés, and I represented the Association at the EcoAltea environmental fair, held annually in the Levantine city of Altea, from October 1st to 3rd, 2010. We set up a tent and displayed _The Urantia Book_, brochures, and publications related to the book. PowerPoint presentations about the book's teachings were also shown. [Light and Life No. 23](http://www.librodeurantia.es/sites/default/files/LyV23.pdf)
@@ -787,7 +787,7 @@ A few days after the meeting, on Sunday the 22nd, President Olga and I traveled 
 <br style="clear:both;"/>
 
 <figure id="Figure_43" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/041.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/041.jpg">
 </figure>
 
 In July, Urantia Association International sponsored the Leadership Symposium held at Techny Towers, north of Chicago. A pair of Urantia Association members from Spain, Mariano and Ismael, attended, along with our president, Olga. [Leadership and Light and Life Symposium No. 26](http://www.urantia.org/news/2011-09/urantia-book-readers-study-together-this-summer)
@@ -807,7 +807,7 @@ At this meeting, it is worth noting that almost the entire board of directors of
 <br style="clear:both;"/>
 
 <figure id="Figure_44" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/043.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/043.jpg">
 </figure>
 
 I was unable to leave my position, but I changed my position from vice president to treasurer. However, Olga voluntarily agreed to continue maintaining the Association's website and publishing the magazine Luz y Vida. We also asked her to remain with the new leadership as an advisor with voice but no vote, which she gladly accepted. [XI Meeting](http://www.librodeurantia.es/?q=node/339) and [Luz y Vida No. 29](http://www.librodeurantia.es/sites/default/files/LyV29.pdf)
@@ -829,11 +829,11 @@ https://www.youtube.com/watch?v=7fB3MV2Tvfg
 <br style="clear:both;"/>
 
 <figure id="Figure_45" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/046.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/046.jpg">
 </figure>
 
 <figure id="Figure_46" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/044.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/044.jpg">
 </figure>
 
 The day after this interview, we were informed of the passing of Josefina Canseco, the “Mother Spirit of Spain,” as Richard Keeler, one of the Foundation's trustees, once called her. She left us to take a trip to the mansion worlds on the morning of February 26th. She hadn't been doing well for some time; she was admitted on Wednesday the 20th, and finally, on Tuesday the 26th, she said goodbye to us, although, as we all know, not forever. Josefina was always motivating relationships among readers from Seville and throughout Spain. Long meetings of readers, supporters, and friends of _The Urantia Book_ were held at her home. She had two children, Elías and Mª José, who grew up among her writing. She lived her last years in the company of Esteban Cotán, also a reader from Seville, a good and wise man. Another enthusiastic and conversationalist with whom one could spend hours enthralled in the paragraphs of the book.
@@ -847,7 +847,7 @@ Readers from several European countries, including Spain (Olga, Paco, Fran) met 
 <br style="clear:both;"/>
 
 <figure id="Figure_47" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/045.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/045.jpg">
 </figure>
 
 Mariano Pérez gave a talk and book presentation at the Cinco Anillos bookstore in Málaga, in collaboration with members of the local study group.
@@ -865,7 +865,7 @@ Between May 23rd and 25th, the readers of _The Urantia Book_ met once again in V
 <br style="clear:both;"/>
 
 <figure id="Figure_48" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/048.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/048.jpg">
 </figure>
 
 This year, from August 21st to 24th, a European _Urantia Book_ Readers' Conference was held in Berlin, Germany, organized by The Blue Club. Fifty-five people from thirteen European countries attended the event, including Olga, Paco, and Fran from Spain. Special mention should be made of the presence of Chris Wood, President of UAI, and Urantia Foundation Associate Trustees Richard Jernigan (USA) and Sandra Burga-Cisneros (resident of Switzerland but originally from Peru).
@@ -873,7 +873,7 @@ This year, from August 21st to 24th, a European _Urantia Book_ Readers' Conferen
 <br style="clear:both;"/>
 
 <figure id="Figure_49" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/047.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/047.jpg">
 </figure>
 
 At the end of August, our president, Carmelo Martínez, recorded a video presentation-invitation through the audiovisual medium Pandora's Box. He spoke, as expected, about _The Urantia Book_ and called his talk “A Transforming Revelation.” In this presentation, the author begins by talking about the transformation that occurs in the reader as they delve deeper into its reading and study. He delights us by talking about the capacity one achieves to obtain a certain cosmic vision of the entire content of The Reality. At the end, he invites us to make the decision to read it and to do so with the necessary patience to use it as a "tool" for our own personal growth, since its entire content is brimming with coherence. Throughout this presentation, the speaker is asked several questions on various topics related to the book's content. He was able to give satisfactory answers to all of them. Video (below)
@@ -907,7 +907,7 @@ In Girona, in the Alexandria room of Espai Natura, on October 1st, Olga López g
 <br style="clear:both;"/>
 
 <figure id="Figure_50" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/050.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/050.jpg">
 </figure>
 
 WHAT TO DO WITH THE BIOLOGICAL EVOLUTION OF THE HUMAN RACE? This was the title Mariano Pérez gave during the lecture he gave on October 25th at 9:00 PM Spanish time in the Urantia Association of Brazil's virtual conference room.
@@ -917,7 +917,7 @@ On a whirlwind trip, Carmelo Martínez, president, and Mariano Pérez, coordinat
 <br style="clear:both;"/>
 
 <figure id="Figure_50" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/049.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/049.jpg">
 <figcaption>The Urantia Book Online School - Founded in 1999</figcaption>
 </figure>
 
@@ -941,7 +941,7 @@ In January, several readers from Zaragoza met and agreed to form a new study gro
 <br/>
 
 <figure id="Figure_51" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/051.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/051.jpg">
 <figcaption>The Urantia Book Online School - Founded in 1999</figcaption>
 </figure>
 
@@ -983,37 +983,37 @@ Most of the photographs are copied from meetings and events. Some have been copi
 <br/>
 
 <figure id="Figure_52" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/052.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/052.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_53" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/053.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/053.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_54" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/054.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/054.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_55" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/055.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/055.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_56" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/056.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/056.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_57" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/057.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/057.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -1026,31 +1026,31 @@ Most of the photographs are copied from meetings and events. Some have been copi
 <br>
 
 <figure id="Figure_58" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/058.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/058.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_59" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/059.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/059.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_60" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/060.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/060.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_61" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/061.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/061.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_62" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/062.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/062.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -1062,7 +1062,7 @@ INTERVIEW WITH PEDRO VALVERDE: THE MYSTICISM OF THE UFO PHENOMENON
 By Pere Artigas, from the magazine “El Maresme”
 
 <figure id="Figure_63" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/066.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/066.jpg">
 </figure>
 
 Pedro Valverde Tort is part of that group of Mataró residents who, despite having accomplished truly important things, remain anonymous; perhaps in his case, Pedro Valverde expressly wants it that way. It was very difficult to conduct this interview, among other reasons because he has a kind of destiny that compels him to travel constantly, either for his profession or simply because he pushes the limits. Born in Mataró fifty years ago, he works as a mechanical expert. Fifteen years ago, he began a journey that took him to numerous countries, ending his adventure when the African war in Angola disrupted his most cherished personal and professional project: supplying an entire African country with primary schools and medical clinics using a system of prefabricated buildings, a system he invented.
@@ -1070,7 +1070,7 @@ Pedro Valverde Tort is part of that group of Mataró residents who, despite havi
 <br style="clear:both;"/>
 
 <figure id="Figure_64" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/065.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/065.jpg">
 </figure>
 
 It was precisely with this new system that Pedro Valverde won the silver medal at the International Salon of New Techniques, held in Geneva, Switzerland, in 1973. However, it was not his professional activity that led us to speak with him, but rather his studies on the possibility of the existence of extraterrestrials and their manifestations through the UFO phenomenon. Since 1950, Pedro Valverde has conducted numerous investigations in this field; it can be said that he, Antonio Ribera, and Mario Lleget are the most advanced Catalans in this field. The First National Congress of Ufology was recently held in Barcelona, where Valverde presented a paper entitled “The Mystical Problems of the UFO Phenomenon,” which successfully sparked the interest of the international specialists attending the conference. Even more recently, he presented the same paper at “El Racó” in our city.
@@ -1148,19 +1148,19 @@ Translated by Olga López.
 <br/>
 
 <figure id="Figure_65" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/067.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/067.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_66" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/068.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/068.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_67" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/069.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/069.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -1170,19 +1170,19 @@ Translated by Olga López.
 <br/>
 
 <figure id="Figure_68" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/070.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/070.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_69" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/071.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/071.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_70" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/072.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/072.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -1236,7 +1236,7 @@ All the UFO phenomenon researchers listed below, who have met in Gilet to form a
 <br />
 
 <figure id="Figure_71" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/The_Urantia_Movement_in_Spain/073.jpg">
+<img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/073.jpg">
 <figcaption>First on the right in the photo, seated, is Pedro Valverde. He died during the Delphi Project.</figcaption>
 </figure>
 

@@ -113,7 +113,7 @@ In this article, the author deals with the Last Supper (which is precisely menti
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
 </figure>
 
-[**The challenges of the leaders of the fifth revelation (Olga López)**](/en/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelación) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
+[**The challenges of the leaders of the fifth revelation (Olga López)**](/en/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelacion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
 
 In this presentation, the author reviews what for her are the desirable characteristics in leaders who drink from the teachings of _The Urantia Book_, which have little to do with the concept of leader that we have seen so far in history. religions and humanity in general. It also includes examples of true leaders who appear in the book in each of the earlier epochal revelations, and finally lists the characteristics that make the book's community of readers different from the communities that have been created out of evolutionary religions.
 <br style="clear:both" />

@@ -238,8 +238,7 @@ _One of the names of the Father is being The Light._
 
 [UB 182:1.12](/en/The_Urantia_Book/182#p1_12) _I am the light of the world._
 
-[UB 182:1.13](/en/The_Urantia_Book/182#p1_13) _
-I am the desire of all ages._
+[UB 182:1.13](/en/The_Urantia_Book/182#p1_13) _I am the desire of all ages._
 
 [UB 182:1.14](/en/The_Urantia_Book/182#p1_14) _I am the open door to eternal salvation._
 
@@ -868,8 +867,9 @@ _And Who, when I fall ill, heals me._
 
 _And Who will make me die and then grant me new life._
 
-_And Who, I hope, will forgive my sins on the Day of Judgment.
-My Lord! Grant me sound judgment, and gather me among the upright.
+_And Who, I hope, will forgive my sins on the Day of Judgment._
+
+_My Lord! Grant me sound judgment, and gather me among the upright._
 
 [Quran 40-15](/en/book/Islam/Quran/40#v15) _He is above all degrees, the Lord of the Supreme Throne. He transmits the spirit (the life-giving Revelation from the immaterial realm) of His Order to whomever His Will dictates from His servants, to warn (the sentient and responsible beings) of the Day of Meeting (when His servants will meet Him)._
 
@@ -983,7 +983,7 @@ _While the life of the Hereafter is better and longer lasting._
 
 [Quran 3-25](/en/book/Islam/Quran/3#v25) _What will be their fate when We have gathered them all for a Day (about Whose coming) there is no doubt, and when every soul will be given back in full whatever it earned (while in this world), and no one will be wronged?_
 
-[Matthew 25-14,30](/en/Bible/Matthew/25#v14) 14 _for the kingdom of heaven is like a man who, going to a far place, called his servants and delivered to them his _goods.
+[Matthew 25-14,30](/en/Bible/Matthew/25#v14) 14 _for the kingdom of heaven is like a man who, going to a far place, called his servants and delivered to them his goods._
 
 15 _To one he gave five talents, to another two, and to another one, to each according to his ability; and then he went away._
 
@@ -2121,7 +2121,7 @@ _Although these admissions may perhaps detract from the immediate force and auth
 
 [Quran 3-43, 44](/en/book/Islam/Quran/3#v43) _And remember when the angels said: "O Mary! God has chosen you and purified you and chosen you above the women of all nations._
 
-“Oh, Mary! Be obedient to your Lord and bow down and worship God only with those who worship him.”
+_“O, Mary! Be obedient to your Lord and bow down and worship God only with those who worship him.”_
 
 _O Messenger! Convey to the people what has been revealed to you by your Lord; for if you do not, you would not have proclaimed His Message at all. And God will protect you from men. Indeed, God does not guide the disbelieving people._
 
@@ -2185,9 +2185,9 @@ _Truly, the Messiah will never disdain to be God's servant, nor will the angels 
 
 [Quran 5-112, 115](/en/book/Islam/Quran/5#v112) _They said: “We wish to eat of it so that our hearts may be at ease, and we may know that You have spoken to us the truth, and we may bear witness to it.”_
 
-Jesus, son of Mary, said: “O Father, our Lord, send us from heaven a table spread with delicacies, which will be a feast for us, from the first to the last of us, and a Sign from You; and provide for us, for You are the Best of Providers.”
+_Jesus, son of Mary, said: “O Father, our Lord, send us from heaven a table spread with delicacies, which will be a feast for us, from the first to the last of us, and a Sign from You; and provide for us, for You are the Best of Providers.”_
 
-God said, “I will indeed send it to you, but if any of you disbelieve after that, I will inflict upon you a punishment such as I will not inflict on any other people.”
+_God said, “I will indeed send it to you, but if any of you disbelieve after that, I will inflict upon you a punishment such as I will not inflict on any other people.”_
 
 [UB 179:5.1](/en/The_Urantia_Book/179#p5_1) _As they brought Jesus the third cup of wine, the “cup of blessing,” he arose from the couch and, taking the cup in his hands, blessed it, saying: “Take this cup, all of you, and drink of it. This shall be the cup of my remembrance. This is the cup of the blessing of a new dispensation of grace and truth. This shall be to you the emblem of the bestowal and ministry of the divine Spirit of Truth. And I will not again drink this cup with you until I drink in new form with you in the Father’s eternal kingdom.”_
 

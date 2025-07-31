@@ -146,7 +146,7 @@ _McGraw-Hill Encyclopedia of Science \& Technology_, 4th ed.
   </table>
 </figure>
 
-## Grades
+## Footnotes
 
 [^1]: [UB 0:0.6](/en/The_Urantia_Book/0#p0_6) “The seven evolving superuniverses in association with the central and divine universe, we commonly refer to as the _grand universe_; these are the now organized and inhabited creations. They are all a part of the master universe, which also embraces the uninhabited but mobilizing universes of outer space.”
 

@@ -47,7 +47,7 @@ Así que, por un lado, cósmico significa que procede del cosmos o está relacio
 
 **consciousness**
 
-1. -
+1. —
 	- a: awareness or perception of an inward psychological or spiritual fact : intuitively perceived knowledge of something in one's inner self
 	- b : inward awareness of an external object, state, or fact «a consciousness ... of what really is at stake in modern philosophy Hannah Arendt»
 	- c : concerned awareness : INTEREST, CONCERN - often used with an attributive noun «tax _consciousness_» «class _consciousness_» «rank _consciousness_»

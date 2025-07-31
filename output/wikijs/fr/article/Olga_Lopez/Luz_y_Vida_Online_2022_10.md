@@ -112,7 +112,7 @@ Dans cet article, l'auteur évoque la Cène (qui est précisément évoquée dan
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
 </figure>
 
-[**Les défis des dirigeants de la cinquième révélation (Olga López)**](/fr/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelación) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
+[**Les défis des dirigeants de la cinquième révélation (Olga López)**](/fr/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelacion) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
 
 Dans cette présentation, l'auteur passe en revue quelles sont pour elle les caractéristiques souhaitables chez les leaders qui s'appuient sur les enseignements du _Le Livre d'Urantia_, qui ont peu à voir avec le concept de leader que nous avons vu jusqu'à présent dans l'histoire des religions et de l'humanité. en général. Il comprend également des exemples de véritables dirigeants qui apparaissent dans le livre dans chacune des révélations d'époque précédentes, et énumère enfin les caractéristiques qui différencient la communauté des lecteurs du livre des communautés créées à partir des religions évolutionnistes.
 <br style="clear:both" />

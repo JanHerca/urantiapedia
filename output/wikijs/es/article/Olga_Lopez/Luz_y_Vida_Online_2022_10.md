@@ -111,7 +111,7 @@ En este artículo, el autor trata sobre la Última Cena (de la que justamente se
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
 </figure>
 
-[**Los retos de los líderes de la quinta revelación (Olga López)**](/es/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelación) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
+[**Los retos de los líderes de la quinta revelación (Olga López)**](/es/article/Olga_Lopez/Los_retos_de_los_lideres_de_la_quinta_revelacion) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf))
 
 En esta presentación, la autora hace un repaso de lo que para ella son las características deseables en los líderes que beben de las enseñanzas de _El Libro de Urantia_, que poco tienen que ver con el concepto de líder que hemos visto hasta ahora en la historia de las religiones y de la humanidad en general. También incluye ejemplos de verdaderos líderes que aparecen en el libro en cada una de las revelaciones de época anteriores, y por último enumera las características que hacen que la comunidad de lectores del libro sea distinta a las comunidades que se han creado a partir de las religiones evolutivas.
 <br style="clear:both" />

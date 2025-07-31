@@ -12,9 +12,9 @@ Author: anonymous | Editor: **Jan Herca**
 
 Dear,
 
-For more than two years I have been intrigued by the article “_A Council of Giants_” (2014)[^1]. The reason for my perplexion is that this work seems to recognize in part (with the exception of the galaxy UGCA 320) a structure similar to the one described in documents from 1955. We know that at that time there was not enough scientific information for one to suppose the existence of the _Local Sheet_, or the _Council of Giants_, with the way such galaxies are arranged. I listed briefly 10 items that I think are at least unlikely to have been proposed or simply "predicted" during the 1950s. I wrote in a simple and explanatory way with the intention to provide the contents of that letter in full to friends and those interested.
+For more than two years I have been intrigued by the article “_A Council of Giants_” (2014)[^1]. The reason for my perplexion is that this work seems to recognize in part (with the exception of the galaxy UGCA 320) a structure similar to the one described in papers from 1955. We know that at that time there was not enough scientific information for one to suppose the existence of the _Local Sheet_, or the _Council of Giants_, with the way such galaxies are arranged. I listed briefly 10 items that I think are at least unlikely to have been proposed or simply "predicted" during the 1950s. I wrote in a simple and explanatory way with the intention to provide the contents of that letter in full to friends and those interested.
 
-The documents to which I refer, are known as _The Urantia Book_[^2], initially written between 1934-1935, and published in 1955. The documents mention the existence of a structure of galaxies in a large ellipse disposed in a plane, and "below" and "above" this structure there is, on each side, one huge void. The text also provides the seven relative positions of the main galaxies. Due to the time of the composition of this work, several terms used by the author(s) to express a concept or things were magnified or new expressions were created as the scientific definitions of the 30s were exhausted or when the author(s) understand that they should use their own expressions. The following are some examples:
+The papers to which I refer, are known as _The Urantia Book_[^2], initially written between 1934-1935, and published in 1955. The papers mention the existence of a structure of galaxies in a large ellipse disposed in a plane, and "below" and "above" this structure there is, on each side, one huge void. The text also provides the seven relative positions of the main galaxies. Due to the time of the composition of this work, several terms used by the author(s) to express a concept or things were magnified or new expressions were created as the scientific definitions of the 30s were exhausted or when the author(s) understand that they should use their own expressions. The following are some examples:
 
 Expressions used in The Urantia Book (1955) | Equivalent or usual terms
 --- | ---
@@ -95,14 +95,14 @@ The midspace zones of quiescence (basically the cosmic voids[^9]) are enormous a
 
 ## North and South Super Voids
 
-The documents published in 1955 affirm the existence of huge extension space “superior” and “inferior” that are less rich in galaxies, called by them as space reservoirs (unpervaded space). This topic is similar to the previous one, except for the fact that _The Urantia Book_ specifically mentions the existence of these two Super Voids and states that one occupies a lower region, and the other a superior position in relation to what we know as Local Sheet. These voids were designated by Northern Local Supervoid[^13] e Southern Local Supervoid[^14]
+The papers published in 1955 affirm the existence of huge extension space “superior” and “inferior” that are less rich in galaxies, called by them as space reservoirs (unpervaded space). This topic is similar to the previous one, except for the fact that _The Urantia Book_ specifically mentions the existence of these two Super Voids and states that one occupies a lower region, and the other a superior position in relation to what we know as Local Sheet. These voids were designated by Northern Local Supervoid[^13] e Southern Local Supervoid[^14]
 
 <figure id="Letter_figure_4" class="image urantiapedia">
 <img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/nearby_groups.jpg">
 <figcaption><em><b>Figure 4.</b> Distrución espacial del vecindario del Grupo Local proyectado en el plano supergaláctico (Y, Z). Imagen original: <a href="http://ned.ipac.caltech.edu/level5/Dev2/frames.html">http://ned.ipac.caltech.edu/level5/Dev2/frames.html</a>.</em></figcaption>
 </figure>
 
-The interesting point is that these voids were discovered only about 25 years after the publication of the Urantia documents[^15].
+The interesting point is that these voids were discovered only about 25 years after the publication of the Urantia papers[^15].
 
 The De Vaucouleurs article mentioned above has indications like these:
 
@@ -166,7 +166,7 @@ Still skeptical about the space reservoirs and their extensions, I plotted about
 
 ## The concept of galaxy filaments and great walls
 
-Consequently, these documents also anticipated the concept of galaxy filaments and great walls of galaxies, which are called by the authors by terms such as “continuous belt” <a id="a168_175"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14), or “tracks of the great space circuits” <a id="a168_260"></a>[UB 12:1.2](/en/The_Urantia_Book/12#p1_2). These enormous structures began to be discovered in the late 1980s, about 30 years after the publication of _The Urantia Book_.
+Consequently, these papers also anticipated the concept of galaxy filaments and great walls of galaxies, which are called by the authors by terms such as “continuous belt” <a id="a168_175"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14), or “tracks of the great space circuits” <a id="a168_260"></a>[UB 12:1.2](/en/The_Urantia_Book/12#p1_2). These enormous structures began to be discovered in the late 1980s, about 30 years after the publication of _The Urantia Book_.
 
 > . . . And the astronomic observers of Uversa think they detect evidence of revolutionary movements in a third outer _belt_ of far-distant space which are beginning to exhibit directional tendencies of a clockwise nature. <a id="a170_223"></a>[UB 12:4.15](/en/The_Urantia_Book/12#p4_15)
 
@@ -184,7 +184,7 @@ Shiv S. Kumar theorizes in his 1963 article the following:
 > 
 > Note: The masses in the article are given in solar masses, which is commonly expressed with the symbol $M^\odot$.
 
-The documents of 1955 called these spheres by different names, and describing the process of formation of some suns, they claim:
+The papers of 1955 called these spheres by different names, and describing the process of formation of some suns, they claim:
 
 > When less than _one tenth the size of your sun_, these fiery spheres rapidly contract, condense, and cool. . . . <a id="a188_115"></a>[UB 41:3.4](/en/The_Urantia_Book/41#p3_4)
 
@@ -217,7 +217,7 @@ The superuniverse of Orvonton is composed of mostly the Milky Way, it is the mai
 <figcaption><em><b>Figure 9.</b> Sag DEG. Image by Jon Lomberg in collaboration with David Martinez-Delgado for the Stellar Tidal Stream Survey.</em></figcaption>
 </figure>
 
-The description of an elongated system of these in which the Milky Way is arranged would be very unusual in 1955 and even in the coming decades. But now studies indicate that a halo of dark matter in the same way is encompassing the entire Milky Way[^21]. In the above paragraphs, _The Urantia Book_ makes clear reference to the globular clusters and Sag DEG, but this elliptical galaxy in a loop orbiting the poles of the Milky Way was discovered only in 1994, 39 years after the documents of 1955.
+The description of an elongated system of these in which the Milky Way is arranged would be very unusual in 1955 and even in the coming decades. But now studies indicate that a halo of dark matter in the same way is encompassing the entire Milky Way[^21]. In the above paragraphs, _The Urantia Book_ makes clear reference to the globular clusters and Sag DEG, but this elliptical galaxy in a loop orbiting the poles of the Milky Way was discovered only in 1994, 39 years after the papers of 1955.
 
 > _Additional Editor's Note_
 >
@@ -238,7 +238,7 @@ This is what was published in _Nature_ magazine in October 2004:
 
 ## Peculiar Velocity
 
-_The Urantia Book_ anticipated by at least in 21 years the scientific knowledge of the [“peculiar velocity”](https://en.wikipedia.org/wiki/Peculiar_velocity). In 1976 it was discovered that some galaxies were not following the expansion of the universe just as Hubble's Law predicted, but rather they seemed to follow a different movement in an unexpected direction. This became known as _Rubin-Ford effect_[^23]. The documents of 1955 claim that vast regions of galaxies, which in addition to expanding also follow well defined flows and preferred movements in other directions (these are called “secondary movements” <a id="a240_619"></a>[UB 12:4.9](/en/The_Urantia_Book/12#p4_9)), the book also explains the reason for these movements.
+_The Urantia Book_ anticipated by at least in 21 years the scientific knowledge of the [“peculiar velocity”](https://en.wikipedia.org/wiki/Peculiar_velocity). In 1976 it was discovered that some galaxies were not following the expansion of the universe just as Hubble's Law predicted, but rather they seemed to follow a different movement in an unexpected direction. This became known as _Rubin-Ford effect_[^23]. The papers of 1955 claim that vast regions of galaxies, which in addition to expanding also follow well defined flows and preferred movements in other directions (these are called “secondary movements” <a id="a240_619"></a>[UB 12:4.9](/en/The_Urantia_Book/12#p4_9)), the book also explains the reason for these movements.
 
 > This alternate zoning of the master universe, in association with the _alternate clockwise and counterclockwise flow of the galaxies_, is a factor in the stabilization of physical gravity designed to prevent the accentuation of gravity pressure to the point of disruptive and dispersive activities. Such an arrangement exerts antigravity influence and acts as a _brake_ upon otherwise dangerous velocities. <a id="a242_409"></a>[UB 11:7.9](/en/The_Urantia_Book/11#p7_9)
 
@@ -263,7 +263,7 @@ _The Urantia Book_ anticipated by at least in 21 years the scientific knowledge 
 
 There is subtle and accurate information in _The Urantia Book_ related to particle physics. The Higgs field was first proposed in 1962 by Philip Warren Anderson[^24]. With the relativistic model developed in 1964 by three independent groups, one of which included Peter Higgs[^25]. Strong evidence for this field was only being discovered in 2013 by the Large Hadron Collider at CERN[^26].
 
-However, unlike any existing literature in 1955, the Urantia documents mention subtly but clearly, a form of energy not known at that time and with the same properties of the Higgs Field. One should remember that in the mid-twentieth century the concept of so-called luminiferous aether had long been abandoned. So, there would be no apparent reason for _The Urantia Book_ affirming the existence of such analogous "energy" to surpass ether. After all, something more or less like the hypothetical ether would only be proposed seven years after the publication of the book. The fact that the Higgs Field possesses similarities in some points with postulate ether is also mentioned in the book _The Fabric of the Cosmos_ by physicist Brian Greene.
+However, unlike any existing literature in 1955, the Urantia papers mention subtly but clearly, a form of energy not known at that time and with the same properties of the Higgs Field. One should remember that in the mid-twentieth century the concept of so-called luminiferous aether had long been abandoned. So, there would be no apparent reason for _The Urantia Book_ affirming the existence of such analogous "energy" to surpass ether. After all, something more or less like the hypothetical ether would only be proposed seven years after the publication of the book. The fact that the Higgs Field possesses similarities in some points with postulate ether is also mentioned in the book _The Fabric of the Cosmos_ by physicist Brian Greene.
 
 But after all, how could a book without any known author and also without any scientific basis assert with such certainty the existence of a not even theorized phenomenon, which only was discovered almost 6 decades later? All these 10 topics together would be a lottery jackpot. What the book says is as follows:
 
@@ -277,14 +277,14 @@ _The Urantia Book_ tells us that the whole universe is spinning in successive la
 
 > The successive space levels of the master universe constitute the major divisions of pervaded space — total creation, organized and partially inhabited or yet to be organized and inhabited. If the master universe were not a series of elliptical space levels of lessened resistance to motion, alternating with zones of relative quiescence, we conceive that some of the cosmic energies would be observed to shoot off on an infinite range, off on a straight-line path into trackless space; but we never find force, energy, or matter thus behaving; ever they whirl, always swinging onward in the tracks of the great space circuits. <a id="a277_630"></a>[UB 12:1.2](/en/The_Urantia_Book/12#p1_2)
 
-The documents state that the first level is a belt of galaxies orbiting the same center as the “Great Ellipse”, but in an opposite direction. In a top view of the _Local Sheet_ plane, the ellipse of galaxies would move clockwise, while the first level of galaxies would move counter-clockwise. The second level of outer space maintains a clockwise rotation. But if it were thus, we would observe a clear difference in the peculiar velocity of these galaxies because on one side they present a greater redshifit, while on the other side we would observe a lesser redshift. There would be a dichotomy redshift. And that's exactly what we found[^27] ([Figura 10](#Letter_figure_10)).
+The papers state that the first level is a belt of galaxies orbiting the same center as the “Great Ellipse”, but in an opposite direction. In a top view of the _Local Sheet_ plane, the ellipse of galaxies would move clockwise, while the first level of galaxies would move counter-clockwise. The second level of outer space maintains a clockwise rotation. But if it were thus, we would observe a clear difference in the peculiar velocity of these galaxies because on one side they present a greater redshifit, while on the other side we would observe a lesser redshift. There would be a dichotomy redshift. And that's exactly what we found[^27] ([Figura 10](#Letter_figure_10)).
 
 <figure id="Letter_figure_10" class="image urantiapedia">
 <img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Peculiar_velocities.png">
 <figcaption><em><b>Figure 10.</b> Peculiar radial velocities viewed in the SGX-SGZ plane. Available in: <a href="http://arxiv.org/pdf/1306.0091v4.pdf">http://arxiv.org/pdf/1306.0091v4.pdf</a>.</em></figcaption>
 </figure>
 
-The documents of 1955 do not clearly inform the exact length of 1st level of space, but we can infered from <a id="a286_108"></a>[UB 12:1.14-15](/en/The_Urantia_Book/12#p1_14), which 1st level extends to about 97 Mly beyond the Milky Way, or 75 Mly to outside the ellipse, with a maximum overall diameter of approximately 170 Mly (including the Virgo supercluster). However, the second level of outer space should be much larger. Talking about the first outer space levels the mysterious authors state that detected at least 70,000 aggregations of matter, higher than any of the galaxies of the “Great Ellipse” (<a id="a286_591"></a>[UB 31:10.19](/en/The_Urantia_Book/31#p10_19)). For a very rough estimate, if the Milky Way has a mass of about 1,5 10^12^ $M^\odot$, we could assume that the first levels of outer space have about 1,05 10^17^ $M^\odot$.
+The papers of 1955 do not clearly inform the exact length of 1st level of space, but we can infered from <a id="a286_108"></a>[UB 12:1.14-15](/en/The_Urantia_Book/12#p1_14), which 1st level extends to about 97 Mly beyond the Milky Way, or 75 Mly to outside the ellipse, with a maximum overall diameter of approximately 170 Mly (including the Virgo supercluster). However, the second level of outer space should be much larger. Talking about the first outer space levels the mysterious authors state that detected at least 70,000 aggregations of matter, higher than any of the galaxies of the “Great Ellipse” (<a id="a286_591"></a>[UB 31:10.19](/en/The_Urantia_Book/31#p10_19)). For a very rough estimate, if the Milky Way has a mass of about 1,5 10^12^ $M^\odot$, we could assume that the first levels of outer space have about 1,05 10^17^ $M^\odot$.
 
 This is a very near result of the mass of _Laniakea Supercluster_. Being mere coincidence or not, we should consider the following:
 
@@ -292,7 +292,7 @@ This is a very near result of the mass of _Laniakea Supercluster_. Being mere co
 2. There is a significant difference of peculiar velocity between Laniakea and Perseus-Pisces;
 3. The Laniakea center is about 250 Mly, but the Perseus-Pisces center is also 250 Mly.
 
-Therefore, my conjecture is: would Laniakea and Perseus-Pisces components of the same 2nd level of outer space, cited by documents of 1955? If the speculation is correct then the 2nd level space would be really huge, with probably nearly 1 billion light years in diameter. So virtually every point of peculiar velocities that we see in the [Figure 10](#Letter_figure_10) represent the 2nd level of outer space, which would turn clockwise presenting the galaxies on the left side with radial velocities away, and those on the right, with movement in our direction.
+Therefore, my conjecture is: would Laniakea and Perseus-Pisces components of the same 2nd level of outer space, cited by papers of 1955? If the speculation is correct then the 2nd level space would be really huge, with probably nearly 1 billion light years in diameter. So virtually every point of peculiar velocities that we see in the [Figure 10](#Letter_figure_10) represent the 2nd level of outer space, which would turn clockwise presenting the galaxies on the left side with radial velocities away, and those on the right, with movement in our direction.
 
 <figure id="Letter_figure_11" class="image urantiapedia">
 <img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Great_ellipse_en.png">
@@ -348,7 +348,7 @@ When we plotted all seven galaxies of the ellipse in a 3d software we observe an
 
 ## Why is it important?
 
-These documents published in 1955 make reference to about 10 scientific concepts unknown at the time and only discovered a few decades later:
+These papers published in 1955 make reference to about 10 scientific concepts unknown at the time and only discovered a few decades later:
 
 1. An elliptical arrangement of galaxies in our neighborhood extragalactic and the seven positions ordered of these galaxies, as indicated by _The Urantia Book_;
 2. The existence of independent trajectories of the Milky Way suns;
@@ -361,11 +361,11 @@ These documents published in 1955 make reference to about 10 scientific concepts
 9. The peculiar motion of galaxies;
 10. The concept of Higgs field.
 
-Even decades after 1955 some these of concepts did not appear in any literature except those strange documents whose human authorship is unknown. Could this knowledge all be the fruit of some twentieth century genius with a fertile imagination, to the point of anticipating what science had not yet discovered and still prefer to remain anonymous? Could these documents really have originated from non human intelligences? However, if there really existed a human able to predict these facts, why would the people most well trained in that time did not? The most interesting thing is that _The Urantia Book_ is not a scientific book, and certainly not even the main objective of the authors was to present scientific information unknown to mankind, considering, for example, that more than one third of all the content of 2097 pages, is a narrative of the life and teachings of Jesus of Nazareth.
+Even decades after 1955 some these of concepts did not appear in any literature except those strange papers whose human authorship is unknown. Could this knowledge all be the fruit of some twentieth century genius with a fertile imagination, to the point of anticipating what science had not yet discovered and still prefer to remain anonymous? Could these papers really have originated from non human intelligences? However, if there really existed a human able to predict these facts, why would the people most well trained in that time did not? The most interesting thing is that _The Urantia Book_ is not a scientific book, and certainly not even the main objective of the authors was to present scientific information unknown to mankind, considering, for example, that more than one third of all the content of 2097 pages, is a narrative of the life and teachings of Jesus of Nazareth.
 
-Notwithstanding the existence of errors in this book, (errors which reflected the scientific point of view of the 30s; <a id="a365_119"></a>[UB 101:4](/en/The_Urantia_Book/101#p4)); the evidences presented here seem to be (in the view of a layman) amazing. Should we stop and consider the chances of someone making each of these suppositions in 1955, and then match. However, I ask the reader to understand: this letter is not a validation trial of an alleged hoax, combined with pseudoscience and all it's imaginative productions. Rather, this document arose only by observation of facts already discovered and strangely related to a supposed contact with non-human intelligent entities.
+Notwithstanding the existence of errors in this book, (errors which reflected the scientific point of view of the 30s; <a id="a365_119"></a>[UB 101:4](/en/The_Urantia_Book/101#p4)); the evidences presented here seem to be (in the view of a layman) amazing. Should we stop and consider the chances of someone making each of these suppositions in 1955, and then match. However, I ask the reader to understand: this letter is not a validation trial of an alleged hoax, combined with pseudoscience and all it's imaginative productions. Rather, this paper arose only by observation of facts already discovered and strangely related to a supposed contact with non-human intelligent entities.
 
-I wrote about some cosmological questions in this letter, but I have in my files about 13 archaeological anticipations made by the same documents. Cosmology and archeology are not my areas, I'm no astronomer shipowner much less a shipowner archaeologist, I am a student of civil engineering. I regret not having qualifications and knowledge necessary to develop a more worthy document and the height of the importance of this subject. So I request that all these questions are analyzed by professionals and institutions in the area. It might be this book the first evidence that we had contact with extra-planetary or non-human intelligences? Ironically, would the first evidence of extraterrestrial intelligent life has coming, not from the SETI, FAST or other programs, but be all this time on our own shelves?
+I wrote about some cosmological questions in this letter, but I have in my files about 13 archaeological anticipations made by the same papers. Cosmology and archeology are not my areas, I'm no astronomer shipowner much less a shipowner archaeologist, I am a student of civil engineering. I regret not having qualifications and knowledge necessary to develop a more worthy paper and the height of the importance of this subject. So I request that all these questions are analyzed by professionals and institutions in the area. It might be this book the first evidence that we had contact with extra-planetary or non-human intelligences? Ironically, would the first evidence of extraterrestrial intelligent life has coming, not from the SETI, FAST or other programs, but be all this time on our own shelves?
 
 I hope this letter will be of use in your future work and keenly await your response.
 

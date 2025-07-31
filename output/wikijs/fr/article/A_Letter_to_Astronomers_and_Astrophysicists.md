@@ -295,7 +295,7 @@ Il s'agit d'un résultat très proche de la masse du _superamas de Laniakea_. Qu
 Par conséquent, ma conjecture est la suivante : Laniakea et Persée-Poissons seraient-elles des composantes du même deuxième niveau d'espace extra-atmosphérique, citées dans des documents de 1955 ? Si la spéculation est correcte, alors l'espace de deuxième niveau serait vraiment énorme, avec probablement près d'un milliard d'années-lumière de diamètre. Ainsi, pratiquement chaque point de vitesses particulières que nous voyons dans la [Figure 10](#Letter_figure_10) représente le deuxième niveau d'espace extra-atmosphérique, qui tournerait dans le sens des aiguilles d'une montre, présentant les galaxies du côté gauche avec des vitesses radiales dans notre direction, et celles du côté droit, avec un mouvement dans notre direction.
 
 <figure id="Lettre_figure_11" class="image urantiapedia">
-<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Grande_ellipse_fr.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Great_ellipse_en.png">
 <figcaption><em><b>Figure 11.</b> Les galaxies de la grande ellipse et la rotation hypothétique « vers le Grand Attracteur ».</em></figcaption>
 </figure>
 
