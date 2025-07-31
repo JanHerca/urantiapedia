@@ -122,7 +122,7 @@ Les travaux réalisés par les lecteurs qui font une chronologie des événement
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes" width="250">
 </figure>
 
-[**Amis et résidents sur Urantia (Olga López)**](/fr/article/Olga_Lopez/Amigos_y_residentes_en_Urantia) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf))
+[**Amis et résidents sur Urantia (Olga López)**](/fr/article/Olga_Lopez/Amigos_Y_Residentes_En_Urantia) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf))
 
 Dans de nombreux passages du livre, les révélateurs nous parlent d'êtres qui résident sur notre planète et qui ne sont pas des mortels ascendants comme nous. Certains d’entre eux sont ici parce que c’est normal dans tous les mondes du temps et de l’espace ; d'autres sont ici en raison de notre condition particulière en tant que monde choisi pour abriter la septième effusion de notre Fils Créateur, et d'autres encore résident ici en conséquence de la rébellion de Lucifer. Cet ouvrage est en fait un décompte, une liste des « autres habitants d'Urantia », qui peut nous aider à prendre conscience que nous ne sommes pas aussi abandonnés qu'on pourrait le penser.
 <br style="clear:both" />

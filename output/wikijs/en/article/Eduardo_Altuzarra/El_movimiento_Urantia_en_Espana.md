@@ -824,7 +824,7 @@ At the end of February, our secretary, Ismael Gracia, went to Seville for an int
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=7fB3MV2Tvfg
+http://bit.ly/4ocQrwY
 
 <br style="clear:both;"/>
 
@@ -880,7 +880,7 @@ At the end of August, our president, Carmelo Martínez, recorded a video present
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=9aLPsLrY5Ns
+http://bit.ly/4kYsWEZ
 
 Mariano Pérez gave a talk on September 14th at 10:00 PM (Spanish time) in the AUB virtual room. The title was “WORSHIP AND MEDITATION.” This talk was repeated on October 5th due to technical problems in the room, which caused some participants to be out of place.
 

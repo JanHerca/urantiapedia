@@ -325,4 +325,4 @@ Merci beaucoup.
 
 ## Notes
 
-[^1] : Chacune des formes alternatives présentées par un gène.
+[^1]: Chacune des formes alternatives présentées par un gène.

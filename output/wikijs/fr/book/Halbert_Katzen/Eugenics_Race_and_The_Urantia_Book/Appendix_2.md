@@ -114,7 +114,7 @@ Le mot anormal est utilisé six fois :
 3. Comme une vision que l’homme primitif avait des femmes, les considérant comme « particulières, et même anormales » [LU 84:4.5](/fr/Le_Livre_d’Urantia/84#p4_5).
 4. Comme un peuple étrange que les hommes primitifs en vinrent à adorer, parce qu’ils « croyaient que ces êtres anormaux [tels que les lunatiques, les épileptiques et les faibles d’esprit] étaient habités par les dieux » [LU 85:6.2](/fr/The_Urantia_Book/85#p6_2).
 5. Comme un trait que les premiers hommes « attribuaient à la possession spirituelle » [LU 90:1.2](/fr/The_Urantia_Book/90#p1_2)
-6. Comme état mental (« manifestations mentales anormales ») que certains mystiques ont tenté d’atteindre par la dissociation mentale. C’est une pratique mystique que *Le Livre d’Urantia* déconseille en tant que pratique spirituelle [LU 100:5.9](/fr/Le_Livre_d_Urantia/100#p5_9)
+6. Comme état mental (« manifestations mentales anormales ») que certains mystiques ont tenté d’atteindre par la dissociation mentale. C’est une pratique mystique que *Le Livre d’Urantia* déconseille en tant que pratique spirituelle [LU 100:5.9](/fr/The_Urantia_Book/100#p5_9)
 
 ## Les jumeaux Alphée
 

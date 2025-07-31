@@ -53,7 +53,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## 2. Le rôle de la méditation
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/001.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/001.jpg">
 </figure>
 
 Que pouvons-nous conclure des paragraphes précédents ? La méditation est considérée comme un outil permettant de connecter l'esprit à l'âme, d'adorer Dieu, le Père et, d'une certaine manière, de se connecter à l'Ajusteur intérieur ou au Moniteur de Mystère.
@@ -109,7 +109,7 @@ Selon certains auteurs, les positions du corps peuvent être :
 <br>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/002.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/002.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -123,7 +123,7 @@ La posture est la première étape vers la relaxation, mais nous devons comprend
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/003.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/003.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -145,7 +145,7 @@ Cette technique vise à approfondir la relaxation amorcée par une posture confo
 <br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/004.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/004.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -165,7 +165,7 @@ Lorsque la boule de lumière atteint notre tête, nous pouvons nous délecter de
 <br>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/005.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/005.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -187,7 +187,7 @@ L'objectif de l'autohypnose est de programmer notre cerveau pour qu'en suivant u
 <br>
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/006.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/006.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -207,7 +207,7 @@ Nous pouvons explorer notre propre imagination, voir où elle nous mène si nous
 <br>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/007.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/007.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -225,7 +225,7 @@ En fait, ce sur quoi vous devriez travailler dans cet état est de devenir plus 
 <br>
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/008.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/008.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -245,7 +245,7 @@ Il existe de nombreuses possibilités de recherche dans cette facette du dévelo
 <br>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/009.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/009.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -261,7 +261,7 @@ Lorsque vous avez la capacité de percevoir des sons dans votre esprit, ou d'avo
 <br>
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Meditation_in_the_Urantian_Movement/010.jpg">
+<img src="/image/article/Spain_Association/La_Meditacion_en_el_Movimiento_Urantiano/010.jpg">
 </figure>
 
 <br style="clear:both;"/>

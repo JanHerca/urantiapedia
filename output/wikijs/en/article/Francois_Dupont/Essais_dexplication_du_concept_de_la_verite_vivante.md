@@ -136,7 +136,7 @@ This is why the truth is alive...so alive...
 - It reacts unfailingly to the Truth and compensates Urantians for their planetary isolation.
 - Makes God's Will known to truth seekers.
 
-## CONCUBSION
+## CONCLUSION
 
 The mission of the Spirit of Truth and its cohort of divine, spiritual and morontia helpers, brilliantly illuminates the importance attached to the diffusion of methods for seeking the truth; as well as the encouragement given throughout the 2097 pages of the _Urantia Book_. Let us therefore not hesitate to ask questions of our inner guide: sooner or later he will make you know your share of the truth as well as the way to make it bear fruit.
 

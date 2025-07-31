@@ -133,7 +133,7 @@ Pero, ¿cómo se vive la convivencia entre sexos aquí abajo? ¿Cómo se ha cons
 
 ## 3. Lo femenino «aquí abajo»
 
-## La dualidad
+### La dualidad
 
 Tenemos dos tipos de seres humanos. Masculino y femenino, hombre y mujer. No somos los únicos tipos de seres que han sido creados en dos variantes distintas. Hemos mencionado antes que, por ejemplo, los pares seráficos también manifiestan características duales y complementarias. Y estas características se han repartido en dos variantes para fomentar la creación de nuevos valores superiores: para sumar, no para restar.
 

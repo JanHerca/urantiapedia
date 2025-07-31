@@ -306,7 +306,7 @@ Amos, Jesus's younger brother, dies after a week of illness with a high fever. [
 Year 13 of the calendar
 Ezra's daughter, Rebekah, falls in love with Jesus and desires to marry him. Jesus hears her proposal and responds. “If I am a child of destiny, I must assume no lifelong obligations until my destiny is made manifest.” [UB 127:5.3-6](/en/The_Urantia_Book/127#p5_3)
 
-##### Year 20 of Jesus
+### Year 20 of Jesus
 
 Year 14 of the calendar
 April
@@ -1331,7 +1331,7 @@ When the joy of this outpouring of spirit is consciously experienced in human li
 - [This article on the Urantia Association of Spain website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
 
 
-<figure class=»table chapter-navigator">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

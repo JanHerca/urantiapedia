@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Association_Espagnole/Astronomie_et_superunivers/M31bobo.jpg">
+<img src="/image/article/Association_Espagnole/Astronomy_and_superuniverses/M31bobo.jpg">
 <figcaption>La galaxie d'Andromède, M31</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Lorsque _Le Livre d'Urantia_ fut écrit en 1934, les révélateurs affirmaient q
 <br>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Association_Espagnole/Astronomie_et_superunivers/heic0107e.jpg">
+<img src="/image/article/Association_Espagnole/Astronomy_and_superuniverses/heic0107e.jpg">
 <figcaption>La constellation du Sagittaire, vue à travers le centre supposé de la Voie Lactée <a href="https://www.spacetelescope.org/images/heic0107e/">Télescope spatial</a></figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ _Encyclopédie McGraw-Hill des sciences et de la technologie_, 4e éd.
 - [Cet article est sur le site Web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf)
 
 
-<figure class="table chapitre-navigateur">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -156,9 +156,9 @@ _Encyclopédie McGraw-Hill des sciences et de la technologie_, 4e éd.
 
 [^4]: [LU 12:1.3](/fr/The_Urantia_Book/12#p1_3). « Partant du Paradis vers l’extérieur à travers l’extension horizontale de l’espace pénétré, le maitre univers existe en six ellipses concentriques, les niveaux d’espace entourant l’Ile centrale. »
 
-[^5] : [LU 15:3.1-2](/fr/The_Urantia_Book/15#p3_1).
+[^5]: [LU 15:3.1-2](/fr/The_Urantia_Book/15#p3_1).
 
-[^6] : [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1) ; [LU 12:2.2-3](/fr/The_Urantia_Book/12#p2_2).
+[^6]: [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1) ; [LU 12:2.2-3](/fr/The_Urantia_Book/12#p2_2).
 
 [^7]: [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1). «  Le vaste système d’étoiles de la Voie Lactée représente le noyau central d’Orvonton et se trouve très au-delà des frontières de votre univers local. »
 
@@ -166,49 +166,49 @@ _Encyclopédie McGraw-Hill des sciences et de la technologie_, 4e éd.
 
 [^9]: [LU 12:1.13](/fr/The_Urantia_Book/12#p1_13). « Le grand univers est la création présentement organisée et habitée. Il se compose des sept superunivers avec un potentiel évolutionnaire cumulé d’environ sept billions de planètes habitées [...]. L’arête présentement déchiquetée du grand univers, sa périphérie inégale et inachevée conjuguée avec l’état prodigieusement agité de tout le terrain astronomique, suggère à nos observateurs d’étoiles que même les sept superunivers ne sont toujours pas achevés. »
 
-[^10] : [LU 15:2.2-25](/fr/The_Urantia_Book/15#p2_2) ; [LU 41:0.3-4](/fr/The_Urantia_Book/41#p0_3).
+[^10]: [LU 15:2.2-25](/fr/The_Urantia_Book/15#p2_2) ; [LU 41:0.3-4](/fr/The_Urantia_Book/41#p0_3).
 
-[^11] : [LU 41:0.2-3](/fr/The_Urantia_Book/41#p0_2) ; [LU 41:0.2-3](/fr/The_Urantia_Book/41#p0_2).
+[^11]: [LU 41:0.2-3](/fr/The_Urantia_Book/41#p0_2) ; [LU 41:0.2-3](/fr/The_Urantia_Book/41#p0_2).
 
-[^12] : [LU 15:2.4-5](/fr/The_Urantia_Book/15#p2_4) ; [LU 15:2.10-17](/fr/The_Urantia_Book/15#p2_10).
+[^12]: [LU 15:2.4-5](/fr/The_Urantia_Book/15#p2_4) ; [LU 15:2.10-17](/fr/The_Urantia_Book/15#p2_10).
 
-[^13] : [LU 15:3.8-14](/fr/The_Urantia_Book/15#p3_8).
+[^13]: [LU 15:3.8-14](/fr/The_Urantia_Book/15#p3_8).
 
 [^14]: [LU 15:3.7](/fr/The_Urantia_Book/15#p3_7). « Le secteur du Sagittaire et tous les autres secteurs et divisions d’Orvonton tournent autour d’Uversa, et une partie de la confusion des observateurs d’étoiles d’Urantia vient des illusions d’optique et des déformations relatives produites par les multiples mouvements de révolution » [...].
 
 [^15]: [LU 15:3.5](/fr/The_Urantia_Book/15#p3_5). « Le centre de rotation de votre secteur mineur est situé au loin, dans l'énorme et dense nuage d'étoiles du Sagittaire, autour duquel se meuvent votre univers local et ses créations associées. » [...]. [LU 15:3.11](/fr/The_Urantia_Book/15#p3_11). « Le déplacement du nuage d'étoiles local de Nébadon et de ses créations associées autour de son centre de secteur mineur en Sagittaire. » [LU 15:3.12](/fr/The_Urantia_Book/15#p3_12). « La rotation des cent secteurs mineurs, y compris le Sagittaire, autour de leur secteur majeur. » [LU 41:0.4](/fr/The_Urantia_Book/41#p0_4). « C'est la constitution du nuage d'étoiles local de Nébadon, qui orbite maintenant sur une orbite de plus en plus stable autour du centre, situé dans le Sagittaire, du secteur mineur d'Orvonton auquel appartient notre création locale. »
 
-[^16] : [LU 41:3.10](/fr/The_Urantia_Book/41#p3_10).
+[^16]: [LU 41:3.10](/fr/The_Urantia_Book/41#p3_10).
 
-[^17] : [LU 15:4.7](/fr/The_Urantia_Book/15#p4_7).
+[^17]: [LU 15:4.7](/fr/The_Urantia_Book/15#p4_7).
 
 [^18]: Isaac Asimov, _L'Univers de la Terre plate aux trous noirs et au-delà_, Walker et Compay, New York, 1980, p. 84
 
-[^19] : Isaac Asimov, _idem_, p. 90
+[^19]: Isaac Asimov, _idem_, p. 90
 
-[^20] : Isaac Asimov, _idem_, p. 92
+[^20]: Isaac Asimov, _idem_, p. 92
 
-[^21] : Isaac Asimov, _idem_, p. 203-207
+[^21]: Isaac Asimov, _idem_, p. 203-207
 
 [^22]: [LU 12:4.14](/fr/The_Urantia_Book/12#p4_14). « Bien que vos estimations spectroscopiques des vitesses astronomiques soient assez fiables lorsqu’elles s’appliquent aux royaumes stellaires appartenant à votre superunivers et aux superunivers associés, vos calculs ne sont pas du tout fiables lorsqu’ils se réfèrent aux domaines de l’espace extérieur. » [...]
 
-[^23] : [LU 11:8.5-8](/fr/The_Urantia_Book/11#p8_5) ; [LU 130:7.4-6](/fr/The_Urantia_Book/130#p7_4).
+[^23]: [LU 11:8.5-8](/fr/The_Urantia_Book/11#p8_5) ; [LU 130:7.4-6](/fr/The_Urantia_Book/130#p7_4).
 
 [^24]: [LU 11:6.2-5](/fr/The_Urantia_Book/11#p6_2); [11:7](/fr/The_Urantia_Book/11#p7); [12:4.12](/fr/The_Urantia_Book/12#p4_12).
 
 [^25]: Bart J. Bok, _La Voie Lactée_, Scientific American (mars 1981), pp. 92-120.
 
-[^26] : [LU 12 :2.3-4](/fr/The_Urantia_Book/12#p2_3).
+[^26]: [LU 12 :2.3-4](/fr/The_Urantia_Book/12#p2_3).
 
-[^27] : [LU 12 :2.3-4](/fr/The_Urantia_Book/12#p2_3).
+[^27]: [LU 12 :2.3-4](/fr/The_Urantia_Book/12#p2_3).
 
 [^28]: [LU 15:4.8](/fr/The_Urantia_Book/15#p4_8). « La galaxie de la Voie Lactée est composée d’un vaste nombre de nébuleuses précédemment spirales et d’autres nébuleuses, dont beaucoup ont conservé leur configuration première. Mais, à la suite de catastrophes internes et d’attractions externes, beaucoup ont subi de tels remaniements et déformations que ces énormes agrégats apparaissent comme de gigantesques masses lumineuses de soleils flamboyants, tel le Nuage de Magellan. »
 
-[^29] : Bart J. Bok, _idem_, p. 94.
+[^29]: Bart J. Bok, _idem_, p. 94.
 
-[^30] : Bart J. Bok, _idem_, p. 92-93.
+[^30]: Bart J. Bok, _idem_, p. 92-93.
 
-[^31] : [LU 15:3.4](/fr/The_Urantia_Book/15#p3_4).
+[^31]: [LU 15:3.4](/fr/The_Urantia_Book/15#p3_4).
 
 [^32]: [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2).
 

@@ -33,8 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
-
 _El Libro de Urantia_ transmite una gran cantidad de información científica. Estos datos suelen ser muy precisos y es interesante compararlos con las afirmaciones de la ciencia actual.
 
 En algunos sitios de Internet, algunas personas afirman que la Quinta Revelación de Época a veces contiene errores en estas presentaciones científicas.

@@ -133,7 +133,7 @@ Aware of the particularity of this pedagogy, the school has developed specific t
 
 ***Discernment of meanings***: Let us remember that “meaning is something that experience adds to value, it is the appreciative awareness of values” (<a id="a133_150"></a>[UB 100:3.4](/en/The_Urantia_Book/100#p3_4)). It is therefore unique for each person. Discernment of meanings, that is to say the qualitative evaluation of experiences is the basis of spiritual progress, it is founded on the intellectual recognition of spiritual poverty, coupled with personal awareness of the thirst for perfection, the desire to know God and to be like him, the sincere intention to do the will of the Father who is in heaven. (<a id="a133_597"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1)). Reading, questioning and answering must provide the participant with an increase in his capacity to discriminate the value of true meanings and allow the process of devolution-revelation to take place, the discovery by oneself of true values.
 
-## IN CONCUBSION.
+## IN CONCLUSION.
 
 I would like to end this presentation by listing some of the benefits that both participants and instructors will gain from participating in a UBIS course.
 

@@ -65,7 +65,7 @@ Il y a quelques mois, dans l'édition du 23 avril du journal « La Vanguardia »
 > 
 > _—Pourquoi ça s'appelle comme ça ?_
 > 
-_—Parce que les signes ressemblaient à de petits clous, à des coins, en raison de l'angle sous lequel le roseau frappait l'argile molle. Les signes étaient des dessins stylisés, faits de lignes, et représentaient des objets concrets, sans verbes._
+> _—Parce que les signes ressemblaient à de petits clous, à des coins, en raison de l'angle sous lequel le roseau frappait l'argile molle. Les signes étaient des dessins stylisés, faits de lignes, et représentaient des objets concrets, sans verbes._
 > 
 > _—Quelle langue contenait cet écrit ?_
 > 

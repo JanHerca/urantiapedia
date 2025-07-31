@@ -550,7 +550,7 @@ C'est l'importance personnelle, et non l'importance du travail, qui épuise les 
 - [Cet article est sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-mujer-por-el-debate-evolucionista.pdf)
 
 
-<figure class="table chapitre-navigateur">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

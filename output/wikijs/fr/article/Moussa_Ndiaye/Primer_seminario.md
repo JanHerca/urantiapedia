@@ -36,9 +36,9 @@ _Notes prises par Mercedes Delgado_
 **L'ÉTUDE DE LA CRÉATION**
 
 L'étude de la Création comprend 3 parties :
-I. L'étude des créatures : l'homme, les arbres, les animaux...
-II. L'étude des mondes de la Création : la Terre, le Soleil, les étoiles...
-III. Le Créateur : Dieu.
+- I. L'étude des créatures : l'homme, les arbres, les animaux...
+- II. L'étude des mondes de la Création : la Terre, le Soleil, les étoiles...
+- III. Le Créateur : Dieu.
 
 Cette division contient tout ce qui existe, mais nous ne pouvons pas tout étudier d'un coup ; nous devons choisir. Commençons par nous étudier nous-mêmes.
 
@@ -140,7 +140,7 @@ Adorer signifie : d’abord connaître la nature de Dieu ; ensuite connaître sa
   - c) _L'homme mûr_, lorsqu'il devient vieux, se regroupe avec des adultes et des gens cultivés pour demander et savoir ce qu'il y a après la mort.
   - Cela montre que, pour ce qui est de la sociologie et de la psychologie, l'homme possède une faculté qui le pousse vers la connaissance de Dieu.
 - Du point de vue de l'anthropologie :
-  Dès l'Antiquité, les humains pratiquaient un culte religieux. Au début, ils vénéraient le soleil ; c'était une forme primitive de culte. À mesure que la civilisation progressait, les humains vénéraient leurs ancêtres. Plus tard, avec la religion de la révélation, elle a évolué vers le culte d'un Dieu unique (judaïsme, christianisme, islam, etc.).
+  - Dès l'Antiquité, les humains pratiquaient un culte religieux. Au début, ils vénéraient le soleil ; c'était une forme primitive de culte. À mesure que la civilisation progressait, les humains vénéraient leurs ancêtres. Plus tard, avec la religion de la révélation, elle a évolué vers le culte d'un Dieu unique (judaïsme, christianisme, islam, etc.).
   - On pourrait se demander : à quoi cela sert-il ? Il s'agit de créer des religions qui ont apporté fraternité et vie sociale paisible (les religions ont apporté beaucoup de paix aux gens).
 
 ### 1.7. Aide de la sagesse
@@ -169,8 +169,8 @@ Nous avons déjà étudié le fonctionnement, le mouvement et l'action des humai
 - C) <ins>Petite enfance</ins> (de 3 à 6 ans) : Durant cette période, les enfants sont très occupés à jouer. Ils s'éloignent de leur mère et se livrent à leurs propres jeux. Les jeux développent leur intelligence et leur capacité d'action. C'est ce qu'on appelle la « praxie ». En jouant et en progressant, ils travaillent. Ils ont même tendance à sortir de la maison, dans un espace plus vaste, et l'aventure commence. Ils veulent faire comme les adultes. Il est fortement recommandé aux parents d'aider leurs enfants à jouer ; les jeux leur permettent de conquérir l'espace et leurs muscles se développent mieux. C'est la période ludique.
 - D) <ins>Seconde enfance</ins> (6 à 12 ans) : À cette étape, l'enfant découvre le milieu scolaire. Il commence à découvrir la société à travers ses relations avec ses pairs, ses enseignants et son environnement. Il découvre également le monde de la connaissance ; il commence à comprendre que la société est organisée, à voir que chaque chose a sa place (institutions, hôpitaux, écoles, etc.). Il s'ouvre à l'espace au-delà de son foyer, en tant que citoyen.
 - E) <ins>Adolescence</ins> (13 à 18 ans) : D'abord, ils remarquent que leur corps change ; ils réalisent qu'ils peuvent se reproduire grâce à la grossesse. &rarr; L'espace pour la procréation se développe. Deuxièmement, ils découvrent leur espace émotionnel, leur vie sexuelle. Troisièmement, ils commencent à se sentir autonomes, qu'ils ont une personnalité, qu'ils ont une volonté. Ils comprennent le monde à leur manière (pas comme papa et maman). Ils découvrent le sens des responsabilités : ils peuvent être parents, travailler dans la société. Ils doivent découvrir leurs ambitions et diriger leur destin, en agissant personnellement dans leur vie.
-F) <ins>Niveau adulte</ins> : Premièrement, elle se manifeste dans la vie familiale (mariage, enfants, etc.). Deuxièmement, dans la société (par le travail). Troisièmement, dans l’ouverture et le plein épanouissement social (par l’adhésion à d’autres associations, etc.). Quatrièmement, lorsqu’on cherche à connaître d’autres races, cultures et nations. Cinquièmement, à connaître la planète.
-G) <ins>Niveau cosmique</ins> : dans cette phase, l'homme veut connaître le Créateur de l'homme, le Créateur de la Terre, le Créateur de toutes les étoiles.
+- F) <ins>Niveau adulte</ins> : Premièrement, elle se manifeste dans la vie familiale (mariage, enfants, etc.). Deuxièmement, dans la société (par le travail). Troisièmement, dans l’ouverture et le plein épanouissement social (par l’adhésion à d’autres associations, etc.). Quatrièmement, lorsqu’on cherche à connaître d’autres races, cultures et nations. Cinquièmement, à connaître la planète.
+- G) <ins>Niveau cosmique</ins> : dans cette phase, l'homme veut connaître le Créateur de l'homme, le Créateur de la Terre, le Créateur de toutes les étoiles.
 
 ### 2.2. Aide à la compréhension
 

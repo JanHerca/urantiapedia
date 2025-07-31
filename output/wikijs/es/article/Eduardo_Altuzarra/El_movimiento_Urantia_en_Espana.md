@@ -824,7 +824,7 @@ A finales de febrero, nuestro secretario Ismael Gracia acudió a Sevilla a una e
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=7fB3MV2Tvfg
+http://bit.ly/4ocQrwY
 
 <br style="clear:both;"/>
 
@@ -880,7 +880,7 @@ Los últimos días del mes de agosto nuestro presidente, Carmelo Martínez, grab
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=9aLPsLrY5Ns
+http://bit.ly/4kYsWEZ
 
 Mariano Pérez dio una conferencia el 14 de septiembre a las 22:00 (hora española) en la sala virtual de la AUB. El titulo fue "ADORACIÓN Y MEDITACIÓN. Esta disertación se repitió el día 5 de octubre por haber surgido problemas técnicos en la sala y quedarse algunos participantes fuera de lugar.
 

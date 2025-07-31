@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Las_imagenes_sobre_Jesus/001.jpg">
+<img src="/image/article/Spain_Association/Solo_hubo_un_vencedor/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -51,7 +51,7 @@ commentaires, documentaires, dessins, peintures, etc. Jésus-Christ a été évo
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Spain_Association/Las_imagenes_sobre_Jesus/002.jpg">
+<img src="/image/article/Spain_Association/Solo_hubo_un_vencedor/002.jpg">
 </figure>
 
 <br style="clear:both;"/>

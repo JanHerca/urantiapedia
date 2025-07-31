@@ -300,7 +300,7 @@ Jésus est notre Père, Créateur de cet univers local. Il frappe à la porte de
 
 _Je suis proche et j'exauce la prière de celui qui me demande, quand il me demande. Qu'ils me répondent donc et croient en moi, afin qu'ils soient bien guidés !_
 
-[Apocalypse 3-20](/fr/Bible/Apocalypse/3#v20) _Voici, je me tiens à la porte et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi._
+[Apocalypse 3-20](/fr/Bible/Revelation/3#v20) _Voici, je me tiens à la porte et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi._
 
 [LU 166:3.7](/fr/The_Urantia_Book/166#p3_7) _... Néanmoins, pour tous ceux qui ont un cœur honnête et une foi sincère, la citation suivante reste éternellement vraie : « Voici, je me tiens à la porte du cœur des hommes et je frappe ; si quelqu’un veut m’ouvrir, j’entrerai, je souperai avec lui et je le nourrirai du pain de vie ; nous ne ferons qu’un en esprit et n’aurons qu’un dessein ; ainsi nous serons toujours frères dans la longue et féconde tâche de rechercher le Père du Paradis. » Donc, le petit ou le grand nombre de ceux qui doivent être sauvés dépend entièrement du petit ou grand nombre de ceux qui tiendront compte de l’invitation : « Je suis la porte, je suis le chemin nouveau et vivant ; quiconque le veut peut entrer et se lancer dans la recherche sans fin de la vérité pour la vie éternelle. »_
 
@@ -448,7 +448,7 @@ L'invitation est lancée : suivez ce qui est parvenu au monde, non seulement les
 
 [Coran 11-49](/fr/book/Islam/Quran/11#v49) _Voici des anecdotes de faits indicibles que Nous t'avons révélés, et dont ni toi ni ton peuple n'aviez connaissance auparavant. (Vu qu'il n'y a pas de différence substantielle entre les conditions dans lesquelles les Messagers ont accompli leurs missions et les réactions qu'ils ont subies), sois patient. Le résultat (heureux) sera pour les pieux dévots._
 
-[1 Corinthiens 2-9](/fr/Bible/1_Corinthiens/2#v9) _Mais comme il est écrit :_
+[1 Corinthiens 2-9](/fr/Bible/1_Corinthians/2#v9) _Mais comme il est écrit :_
 
 _Des choses qu’aucun œil n’a vues, ni aucune oreille entendues,_
 
@@ -940,7 +940,7 @@ _En vérité, Nous avons créé au-dessus de vous sept cieux superposés, et sep
 
 [Coran 2-56](/fr/book/Islam/Quran/2#v56) _Puis, de cet état proche de la mort, Nous t'avons fait revivre (en te faisant guérir de cet état proche de la mort) afin que tu sois reconnaissant._
 
-[1 Corinthiens 15-40](/fr/Bible/1_Corinthiens/15#v40) _Il y a des corps célestes et des corps terrestres ; mais autre est la gloire des corps célestes, et autre est la gloire des corps terrestres._
+[1 Corinthiens 15-40](/fr/Bible/1_Corinthians/15#v40) _Il y a des corps célestes et des corps terrestres ; mais autre est la gloire des corps célestes, et autre est la gloire des corps terrestres._
 
 [LU 47:3.2](/fr/The_Urantia_Book/47#p3_2) _Le vrai centre de toutes les activités sur le premier monde des maisons est la salle de résurrection, le temple colossal où l’on reconstitue les personnalités. Cette construction gigantesque est le lieu de rencontre central des gardiens séraphiques de la destinée, des Ajusteurs de Pensée et des archanges de la résurrection. Les Porteurs de Vie opèrent aussi avec ces êtres célestes pour ressusciter les morts._
 
@@ -2428,7 +2428,7 @@ _Mais indépendamment de leurs liens ou dérivations apparents, les religions r�
 
 ## GABRIEL
 
-[Coran 19:64](/fr/book/Islam/Quran/19#v64) _(En réponse à une lacune dans la révélation, Gabriel expliqua :) « Nous ne descendons que par ordre de ton Seigneur. À Lui appartient tout ce qui est devant nous, tout ce qui est derrière nous et tout ce qui est entre les deux. Et ton Seigneur n’oublie jamais. (Ne craignez donc pas qu’Il vous oublie). »_
+[Coran 19:64](/fr/book/Islam/Quran/19#v64) _(En réponse à une lacune dans la révélation, Gabriel expliqua) : « Nous ne descendons que par ordre de ton Seigneur. À Lui appartient tout ce qui est devant nous, tout ce qui est derrière nous et tout ce qui est entre les deux. Et ton Seigneur n’oublie jamais. (Ne craignez donc pas qu’Il vous oublie). »_
 
 [Coran 64:12](/fr/book/Islam/Quran/64#v12) _Obéissez à Dieu et au Messager. Si vous vous en écartez, il incombe à Notre Messager de transmettre le Message pleinement et clairement._
 

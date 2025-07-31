@@ -163,8 +163,6 @@ La revelación unifica la existencia humana. (<a id="a71_45"></a>[LU 102:4.6](/e
 
 8\.
 
-> Dios es tan real y absoluto que no se puede ofrecer, como testimonio de su realidad, ningún signo material de prueba ni ninguna demostración de supuestos milagros. Siempre llegaremos a conocerlo porque confiamos en él, y nuestra creencia en él está totalmente basada en nuestra participación personal en las manifestaciones divinas de su realidad infinita. (<a id="a165_360"></a>[LU 102:1.5](/es/The_Urantia_Book/102#p1_5))
-
 [El intelecto es sólo una parte de la mente]
 
 > Dios es tan real y absoluto que no se puede ofrecer, como testimonio de su realidad, ningún signo material de prueba ni ninguna demostración de supuestos milagros. Siempre llegaremos a conocerlo porque confiamos en él, y nuestra creencia en él está totalmente basada en nuestra participación personal en las manifestaciones divinas de su realidad infinita. (<a id="a169_360"></a>[LU 102:1.5](/es/The_Urantia_Book/102#p1_5))
@@ -173,68 +171,34 @@ La revelación unifica la existencia humana. (<a id="a71_45"></a>[LU 102:4.6](/e
 
 9\.
 
-> La verdad es la base de la ciencia y de la filosofía, y representa el fundamento intelectual de la religión. La belleza patrocina el arte, la música y los ritmos significativos de toda experiencia humana. La bondad engloba el sentido de la ética, la moralidad y la religión —el hambre de perfección experiencial.
-> 
 > La verdad es la base de la ciencia y de la filosofía, y representa el fundamento intelectual de la religión. La belleza patrocina el arte, la música y los ritmos significativos de toda experiencia humana. La bondad engloba el sentido de la ética, la moralidad y la religión —el hambre de perfección experiencial. (<a id="a177_316"></a>[LU 56:10.10](/es/The_Urantia_Book/56#p10_10))
 
 10\.
 
-> En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios.
-> 
-> En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios.
-> 
-> En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios.
-> 
 > En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios. (<a id="a187_399"></a>[LU 102:3.14](/es/The_Urantia_Book/102#p3_14))
 
 11\.
 
-> El problema del pecado no existe por sí mismo en el mundo finito. El hecho de ser finito no es malo ni pecaminoso. El mundo finito ha sido hecho por un Creador infinito —es la obra de sus Hijos divinos— y por lo tanto debe ser *bueno*{2}. Lo que da origen al mal y al pecado es el mal uso, la deformación y la desnaturalización de lo finito.
-> 
-> El problema del pecado no existe por sí mismo en el mundo finito. El hecho de ser finito no es malo ni pecaminoso. El mundo finito ha sido hecho por un Creador infinito —es la obra de sus Hijos divinos— y por lo tanto debe ser *bueno*{2}. Lo que da origen al mal y al pecado es el mal uso, la deformación y la desnaturalización de lo finito.
-> 
-> El problema del pecado no existe por sí mismo en el mundo finito. El hecho de ser finito no es malo ni pecaminoso. El mundo finito ha sido hecho por un Creador infinito —es la obra de sus Hijos divinos— y por lo tanto debe ser *bueno*{2}. Lo que da origen al mal y al pecado es el mal uso, la deformación y la desnaturalización de lo finito.
-> 
 > El problema del pecado no existe por sí mismo en el mundo finito. El hecho de ser finito no es malo ni pecaminoso. El mundo finito ha sido hecho por un Creador infinito —es la obra de sus Hijos divinos— y por lo tanto debe ser *bueno*{2}. Lo que da origen al mal y al pecado es el mal uso, la deformación y la desnaturalización de lo finito. (<a id="a197_345"></a>[LU 111:6.3](/es/The_Urantia_Book/111#p6_3))
 
 [Distinguimos, como Hegel, la moralidad como una relación de individuo a individuo y la **ética** como una relación con el grupo.]
 
 12\.
 
-> La ciencia clasifica a los hombres; la religión ama a los hombres, incluso como a vosotros mismos; la sabiduría hace justicia a los distintos hombres; pero la revelación glorifica al hombre y revela su capacidad para asociarse con Dios.
-> 
-> La ciencia clasifica a los hombres; la religión ama a los hombres, incluso como a vosotros mismos; la sabiduría hace justicia a los distintos hombres; pero la revelación glorifica al hombre y revela su capacidad para asociarse con Dios.
-> 
-> La ciencia clasifica a los hombres; la religión ama a los hombres, incluso como a vosotros mismos; la sabiduría hace justicia a los distintos hombres; pero la revelación glorifica al hombre y revela su capacidad para asociarse con Dios.
-> 
 > La ciencia clasifica a los hombres; la religión ama a los hombres, incluso como a vosotros mismos; la sabiduría hace justicia a los distintos hombres; pero la revelación glorifica al hombre y revela su capacidad para asociarse con Dios. (<a id="a209_240"></a>[LU 102:3.7](/es/The_Urantia_Book/102#p3_7))
 
 13\.
 
-> La ciencia se esfuerza en vano por crear la fraternidad de la cultura; la religión engendra la fraternidad del espíritu. La filosofía lucha por la fraternidad de la sabiduría; la revelación describe la fraternidad eterna, el Cuerpo Paradisiaco de la Finalidad.
-> 
-> La ciencia se esfuerza en vano por crear la fraternidad de la cultura; la religión engendra la fraternidad del espíritu. La filosofía lucha por la fraternidad de la sabiduría; la revelación describe la fraternidad eterna, el Cuerpo Paradisiaco de la Finalidad.
-> 
-> La ciencia se esfuerza en vano por crear la fraternidad de la cultura; la religión engendra la fraternidad del espíritu. La filosofía lucha por la fraternidad de la sabiduría; la revelación describe la fraternidad eterna, el Cuerpo Paradisiaco de la Finalidad.
-> 
 > La ciencia se esfuerza en vano por crear la fraternidad de la cultura; la religión engendra la fraternidad del espíritu. La filosofía lucha por la fraternidad de la sabiduría; la revelación describe la fraternidad eterna, el Cuerpo Paradisiaco de la Finalidad. (<a id="a219_264"></a>[LU 102:3.8](/es/The_Urantia_Book/102#p3_8))
 
 [Lo que es esta eterna fraternidad está bastante lejos de la tradición cristiana, la del descanso y la contemplación de la Deidad, de la tradición musulmana, de un Paraíso donde fluye leche y miel, o de la tradición budista, la forma de un Nirvana en el que la personalidad se disuelve, es el de pertenecer a un Cuerpo Paradisíaco de Finalidad continuamente en busca de algo más allá del tiempo finito y encontrarlo en el servicio.]
 
 14\. 
 
-> El conocimiento produce orgullo en el hecho de la personalidad; la sabiduría es la conciencia del significado de la personalidad; la religión es la experiencia del conocimiento del valor de la personalidad; la revelación es la seguridad de la supervivencia de la personalidad.
-> 
-> El conocimiento produce orgullo en el hecho de la personalidad; la sabiduría es la conciencia del significado de la personalidad; la religión es la experiencia del conocimiento del valor de la personalidad; la revelación es la seguridad de la supervivencia de la personalidad.
-> 
-> El conocimiento produce orgullo en el hecho de la personalidad; la sabiduría es la conciencia del significado de la personalidad; la religión es la experiencia del conocimiento del valor de la personalidad; la revelación es la seguridad de la supervivencia de la personalidad.
-> 
 > El conocimiento produce orgullo en el hecho de la personalidad; la sabiduría es la conciencia del significado de la personalidad; la religión es la experiencia del conocimiento del valor de la personalidad; la revelación es la seguridad de la supervivencia de la personalidad. (<a id="a231_280"></a>[LU 102:3.9](/es/The_Urantia_Book/102#p3_9))
 
 15\.
 
-> En la ciencia, la idea precede a la expresión de su realización; en la religión, la experiencia de la realización precede a la expresión de la idea. Existe una inmensa diferencia entre la voluntad evolutiva de creer y el producto de la razón iluminada, la perspicacia religiosa y la revelación —la *voluntad que cree*.
-> 
 > En la ciencia, la idea precede a la expresión de su realización; en la religión, la experiencia de la realización precede a la expresión de la idea. Existe una inmensa diferencia entre la voluntad evolutiva de creer y el producto de la razón iluminada, la perspicacia religiosa y la revelación —la *voluntad que cree*. (<a id="a237_322"></a>[LU 102:3.13](/es/The_Urantia_Book/102#p3_13))
 
 **Método científico:**

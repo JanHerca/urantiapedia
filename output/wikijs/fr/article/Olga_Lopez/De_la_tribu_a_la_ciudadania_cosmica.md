@@ -47,7 +47,7 @@ Ainsi, d'un côté, cosmique désigne quelque chose qui provient du cosmos ou qu
 
 **conscience**
 
-1. -
+1. —
 	- a : conscience ou perception d'un fait psychologique ou spirituel intérieur : connaissance perçue intuitivement de quelque chose dans son moi intérieur
 	- b : conscience intérieure d'un objet, d'un état ou d'un fait extérieur « une conscience... de ce qui est réellement en jeu dans la philosophie moderne Hannah Arendt »
 	- c : conscience concernée : INTÉRÊT, PRÉOCCUPATION - souvent utilisé avec un nom attributif « conscience fiscale » « conscience de classe » « conscience de rang »

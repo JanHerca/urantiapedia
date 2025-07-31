@@ -497,70 +497,70 @@ Mais le cri de fraude est ancien. Ils accusèrent Jésus d'être un imposteur: �
 
 En réponse à cette critique, je soumets 74 concepts et doctrines qui sont nouveaux et originaux tels que présentés dans _Le Livre d'Urantia_, sans parler de plus d'une centaine de récits supplémentaires qui représentent l'élargissement, l'amplification et la clarification des connaissances existantes. 
 
-1. **[Le Fils Éternel du Paradis](/fr/The_Urantia_Book/6): **Pour la première fois dans les archives humaines clairement désigné et personnellement identifié.
-2. **[L'Acteur Conjoint unique](/fr/The_Urantia_Book/8): **Le concept de la Troisième Personne de la Déité est à la fois unique et original dans les fascicules d'Urantia.
-3. **[The Paradise Trinity](/fr/The_Urantia_Book/10): **Dans _The Urantia Book_ la Paradise Trinity trouve sa seule identification et reconnaissance actuelle.
-4. **<a id="s502_5"></a>[La Résidence Géographique Centrale de la Déité](/fr/The_Urantia_Book/0#p0_5): **Pour la première fois, le monde sait exactement où Dieu habite.
-5. **[L'Ile absolue du Paradis](/fr/The_Urantia_Book/11): **Le concept original du Paradis comme l'absolu de la réalité non-déité.
-6. **[Fils Créateurs Multiples](/fr/The_Urantia_Book/21): **Reconnaissance de plus de 700 000 Fils Créateurs du Paradis.
-7. **Concept des Absolus: **Le concept des Absolus Non Qualifiés, Universels et de Déité est original avec le Livre d'Urantia.
-8. **Doctrine de la Déité Évolutive: **Alors que j'ai vu une allusion à la Déité finie dans l'un des livres de Pratt sur le moment de la venue des fascicules d'Urantia, je suis sûr que les concepts de l'[Être Suprême](/en /The_Urantia_Book/0#p2_15) et <a id="s506_252"></a>[Dieu l'Ultime](/fr/The_Urantia_Book/0#p2_17) sont originaux.
-9. **[Concept des Triunités](/fr/The_Urantia_Book/104): **Les Triunités sont un concept original d'Urantia.
-10. **[Havona Universe and Natives](/fr/The_Urantia_Book/14): **Le milliard d'images mondiales de Havona et de ses habitants est un concept entièrement nouveau et original.
-11. **Le Concept d'Espace: **Nonobstant la théorie d'un « cosmos explosif », le concept d'espace du _Livre d'Urantia_ est nouveau et original.
-12. **Le Grand et le Maître Univers: **Le concept global du Maître cosmos n'est pas seulement original, mais il transcende de loin toutes les idées précédentes.
-13. **Les sept ordres des jours créés par la Trinité: **Alors que l'un de ces sept ordres, les "Anciens des jours", est mentionné dans la Bible, toute la présentation est à la fois nouvelle et originale.
-14. **[Les Fils Paradisiaques de Dieu](/fr/The_Urantia_Book/20): **L'histoire des Fils Magistral et Instructeur de la Trinité en plus des Fils Créateurs est entièrement originale avec _Le Livre d'Urantia_.
-15. **[Fils de Dieu trinitisés](/fr/The_Urantia_Book/22): **L'histoire et la technique de la trinitisation des Fils divins sont uniques et originales dans les fascicules d'Urantia.
-16. **[Les Sept Maitres Esprits](/fr/The_Urantia_Book/16): **Alors que la Bible fait mention de sept Esprits de Dieu, c'est seulement dans _Le Livre d'Urantia_ que ces Esprits sont identifiés et leur travail pleinement décrit.
-17. **La Vaste Famille de l'Acteur Conjoint: **La famille vaste et lointaine de l'Esprit Infini - les supernaphins, les seconaphins, les Messagers Solitaires ne sont que brièvement préfigurés par le récit Biblique des séraphins et des chérubins.
-18. **Les Circuits Universels: **Les circuits de la gravité, de la personnalité, de l'esprit et du mental sont l'enseignement original du _Livre d'Urantia_.
-19. **<a id="s517_6"></a>[Universal Reflectivity - Majeston](/fr/The_Urantia_Book/17#p2_1): **L'étonnante histoire de la réflectivité universelle est une présentation entièrement nouvelle et originale de la révélation Urantia.
-20. **<a id="s518_6"></a>[Directeurs de Pouvoir](/fr/The_Urantia_Book/29#p5_1): **Tout le concept de contrôle intelligent et téléologique de l'énergie cosmique est original avec _The_Urantia_Book_.
-21. **Évolution de l'Énergie - Matière: **Alors que certaines phases de l'histoire d'Urantia de l'évolution de l'énergie peuvent avoir été annoncées par la découverte scientifique, néanmoins, le concept dans son ensemble est nouveau tel que présenté dans les fascicules d'Urantia.
-22. **<a id="s520_6"></a>[Le Ultimaton](/fr/The_Urantia_Book/42#p6_1): **Au moment de la suggestion de l'Ultimaton dans les Urantia Papers, je n'avais jamais entendu parler d'un tel concept dans la littérature scientifique. Au cours des cinq ou six dernières années, j'ai noté plusieurs indices différents de l'existence possible d'un facteur physique analogue au concept d'ultimaton.
-23. **<a id="s521_6"></a>[Origine du système solaire](/fr/The_Urantia_Book/57#p5_1): **Alors que le récit d'Urantia sur l'origine du système solaire inclut certaines caractéristiques de la théorie de Moulton-Chamberlain, toute l'histoire est si complète et unique pour en faire une présentation pratiquement originale.
-24. **<a id="s522_6"></a>[Les mondes architecturaux](/fr/The_Urantia_Book/15#p5_13): **Les mondes fabriqués sur commande de spécifications sont originaux avec _Le Livre d'Urantia_.
-25. **Administration de l'Univers: **Du monde habité à la gestion du grand univers, le schéma administratif du _Livre d'Urantia_ est entièrement nouveau.
-26. **[Les Porteurs de Vie](/fr/The_Urantia_Book/36): **Rien de tel que le concept des Porteurs de Vie n'a jamais été suggéré à l'humanité dans toute l'histoire passée.
-27. **[Origine de la race humaine](/fr/The_Urantia_Book/63): **Bien que l'histoire d'Urantia sur l'origine de la race humaine valide la doctrine de l'évolution, elle présente néanmoins un récit si détaillé et unique qu'il constituent une présentation tout sauf originale des origines humaines.
-28. **[Origine des races colorées](/fr/The_Urantia_Book/64): **L'histoire d'Urantia sur l'origine des races Sangik est le seul récit de ce genre qui existe.
-29. **[Source et nature de la personnalité](/fr/The_Urantia_Book/112): **Alors que _Le Livre d'Urantia_, comme la science, ne parvient pas à définir la personnalité, il désigne son origine et dépeint de façon gratifiante son magnifique destin.
-30. **[Le Concept des Ajusteurs de Pensée](/fr/The_Urantia_Book/107): **Alors que la Bible parle de la « véritable lumière qui éclaire tout homme venant au monde », l'histoire des Ajusteurs de Pensée telle que révélée dans le Les Papiers d'Urantia sont si complets et uniques qu'ils constituent une histoire nouvelle et originale.
-31. **<a id="s529_6"></a>[Évolution de l'âme](/fr/The_Urantia_Book/0#p5_10): **Le concept de l'origine, de la nature et de l'évolution de l'âme est original avec _Le Livre d'Urantia_.
-32. **<a id="s530_6"></a>[Identification du Saint-Esprit](/fr/The_Urantia_Book/8#p5_3): **Indiquer le Saint-Esprit comme la présence de l'Esprit-Mère de l'Univers Local est tout à fait nouveau et original dans les fascicules d'Urantia.
-33. **<a id="s531_6"></a>[Les Sept Esprits Adjutants](/fr/The_Urantia_Book/36#p5_1): **Alors que la Bible fait mention de sept esprits et dans Ésaïe les identifie partiellement, le récit d'Urantia est si complet et unique qu'il une présentation originale.
-34. **[Fils de Dieu de l'Univers Local](/fr/The_Urantia_Book/35): **Toute l'histoire des Fils de l'Univers Local est nouvelle et originale.
-35. **<a id="s533_6"></a>[Le Plan d'Ascension—Soyez Parfait](/fr/The_Urantia_Book/30#p4_9): **Tandis que Jésus proposait le mandat "Soyez parfait", etc., le déploiement du plan d'ascension au Paradis dans _L'Urantia Book_ est un concept tout sauf nouveau et original.
-36. **[Les Sept Mondes des Maisons](/fr/The_Urantia_Book/47): **Alors que le Maître faisait allusion aux « mondes des maisons », l'histoire complète de leur nature et de leur province est à la fois nouvelle et originale.
-37. **<a id="s535_6"></a>[Le Concept Morontiel](/fr/The_Urantia_Book/0#p5_12): **Tout le concept morontiel—l'étape entre le matériel et le spirituel est nouveau et original.
-38. **[Artisans Célestes et Directeurs de Réversion](/fr/The_Urantia_Book/44): **Ces deux concepts sont nouveaux dans _The_Urantia_Book_. Le concept de jeu céleste et d'humour spirituel est tout sauf nouveau.
-39. **Concept de Citoyenneté Permanente: **Ceci est tout à fait original avec _Le Livre d'Urantia_.
-40. **[Les Médians d'Urantia](/fr/The_Urantia_Book/77): **Alors que l'Ancien Testament fait référence aux "Nephilim", la citation est si indéfinie qu'elle constitue l'histoire d'Urantia des médians comme une nouvelle et originale récit.
-41. **Le Gouvernement Planétaire Surhumain: **L'histoire des fonctions planétaires des Très Hauts, du Corps de Réserve et des séraphins planétaires est originale, malgré l'allusion au travail des Très Hauts dans la Bible.
-42. **Les milliards de mondes habités: **Au moment de l'arrivée des Papiers d'Urantia, il n'y avait aucune littérature traitant des mondes habités autres que notre monde. L'idée était nouvelle. Ces dernières années, nous avons fréquemment rencontré des spéculations concernant d'autres planètes habitées.
-43. **Clarification du péché et de la rébellion: **La clarification unique du péché et de la rébellion est originale avec _Le Livre d'Urantia_.
-44. **[Identification d'Adam et Eve](/fr/The_Urantia_Book/74): **Le récit factuel de l'histoire légendaire d'Adam et Eve est original.
-45. **[Clarification de Melchisédek](/fr/The_Urantia_Book/93): **L'histoire de Melchisédek telle qu'elle est clarifiée dans le récit d'Urantia est vraiment un concept nouveau et original.
-46. ​​**Concept des âges de la lumière et de la vie: **La réalisation de l'évolution mortelle telle qu'elle est décrite dans le concept des âges de la lumière et de la vie est entièrement nouvelle et originale.
-47. **Une histoire unifiée d'Urantia: **Nulle part ailleurs dans le monde vous ne pouvez trouver une histoire cohérente et unifiée de notre monde. Pour la première fois, nous avons une chronologie des affaires humaines.
-48. **Maladies: **Le Livre présente une explication nouvelle et originale des maladies microbiennes.
-49. **Antigravité: **Tout le concept d'antigravité est unique et original avec les fascicules d'Urantia. Ce n'est que l'année dernière qu'un scientifique a promulgué une théorie de l'antigravité.
-50. **<a id="s548_6"></a>[Anniversaire de Jésus](/fr/The_Urantia_Book/122#p8_1): **Pour la première fois durant l'ère chrétienne, nous connaissons le véritable anniversaire de Jésus—le 21 août 7 av.
-51. **Planète expérimentale: **Le fait qu'Urantia était une planète décimale - que les Porteurs de Vie avaient la permission d'essayer de nouvelles caractéristiques de l'évolution biologique. Ce sont des informations jusqu'ici inconnues sur la planète.
-52. **[L'évolution de la religion](/fr/The_Urantia_Book/99): **Bien que vous puissiez lire beaucoup sur l'évolution de la religion sur Urantia, néanmoins, l'histoire simple racontée dans les fascicules d'Urantia est unique et originale.
-53. **[La raison unique de l'effusion de Jésus](/fr/The_Urantia_Book/119): **_Le Livre d'Urantia_ présente une nouvelle, unique et originale raison de la vie et de la mort de Jésus sur notre monde.
-54. **[Une histoire chronologique de la vie de Jésus](https://www.urantia.org/urantia-book-standardized/part-iv-life-and-teachings-jesus): **Le Livre présente la seule histoire complète de la vie de Jésus sur ce monde.
-55. **[Identification des Douze Apôtres](/fr/The_Urantia_Book/139): **L'histoire d'Urantia est la première fois que la confusion des 12 Apôtres a été redressée.
-56. **<a id="s554_6"></a>[L'histoire unique de Marie](/fr/The_Urantia_Book/122#p1_1): **L'histoire de Marie, la mère de Jésus, est unique et originale.
-57. **<a id="s555_6"></a>[L'eau et le vin](/fr/The_Urantia_Book/137#p4_1): **Pour autant que je sache, _Le Livre d'Urantia_ présente une explication originale de ce supposé miracle.
-58. **Explication des Miracles Involontaires: **Le Livre présente une explication possible de nombreux miracles imprévus.
-59. **L'attitude de Jésus envers l'art et l'athlétisme: **L'attitude du Maître envers l'art et l'athlétisme n'est révélée nulle part ailleurs.
-60. **<a id="s558_6"></a>[Le Sermon sur la Montagne](/fr/The_Urantia_Book/140#p3_1): **Je ne suis, bien sûr, pas familier avec toute la littérature sur le Sermon sur la Montagne. Mais autant que je sache, l'interprétation de cette adresse dans _Le Livre d'Urantia_ est nouvelle et originale.
-61. **<a id="s559_6"></a>[The Women's Evangelistic Corps](/fr/The_Urantia_Book/150#p1_1): **Cette histoire est nouvelle, malgré la brève mention de ce sujet dans le Nouveau Testament.
-62. **[Rodan d'Alexandrie](/fr/The_Urantia_Book/160): **Toute cette histoire est originale avec _The Urantia Book_.
-63. **L'histoire d'Abner: **L'histoire unique du chef des apôtres de Jean-Baptiste est originale avec les Papiers d'Urantia.
-64. **<a id="s562_6"></a>[David Zebedee' s Intelligence Corps](/fr/The_Urantia_Book/149#p0_4): **Toute cette histoire se trouve exclusivement dans _Le Livre d'Urantia_
+1. **[Le Fils Éternel du Paradis](/fr/The_Urantia_Book/6):** Pour la première fois dans les archives humaines clairement désigné et personnellement identifié.
+2. **[L'Acteur Conjoint unique](/fr/The_Urantia_Book/8):** Le concept de la Troisième Personne de la Déité est à la fois unique et original dans les fascicules d'Urantia.
+3. **[The Paradise Trinity](/fr/The_Urantia_Book/10):** Dans _The Urantia Book_ la Paradise Trinity trouve sa seule identification et reconnaissance actuelle.
+4. **<a id="s502_5"></a>[La Résidence Géographique Centrale de la Déité](/fr/The_Urantia_Book/0#p0_5):** Pour la première fois, le monde sait exactement où Dieu habite.
+5. **[L'Ile absolue du Paradis](/fr/The_Urantia_Book/11):** Le concept original du Paradis comme l'absolu de la réalité non-déité.
+6. **[Fils Créateurs Multiples](/fr/The_Urantia_Book/21):** Reconnaissance de plus de 700 000 Fils Créateurs du Paradis.
+7. **Concept des Absolus:** Le concept des Absolus Non Qualifiés, Universels et de Déité est original avec le Livre d'Urantia.
+8. **Doctrine de la Déité Évolutive:** Alors que j'ai vu une allusion à la Déité finie dans l'un des livres de Pratt sur le moment de la venue des fascicules d'Urantia, je suis sûr que les concepts de l'[Être Suprême](/en /The_Urantia_Book/0#p2_15) et <a id="s506_252"></a>[Dieu l'Ultime](/fr/The_Urantia_Book/0#p2_17) sont originaux.
+9. **[Concept des Triunités](/fr/The_Urantia_Book/104):** Les Triunités sont un concept original d'Urantia.
+10. **[Havona Universe and Natives](/fr/The_Urantia_Book/14):** Le milliard d'images mondiales de Havona et de ses habitants est un concept entièrement nouveau et original.
+11. **Le Concept d'Espace:** Nonobstant la théorie d'un « cosmos explosif », le concept d'espace du _Livre d'Urantia_ est nouveau et original.
+12. **Le Grand et le Maître Univers:** Le concept global du Maître cosmos n'est pas seulement original, mais il transcende de loin toutes les idées précédentes.
+13. **Les sept ordres des jours créés par la Trinité:** Alors que l'un de ces sept ordres, les "Anciens des jours", est mentionné dans la Bible, toute la présentation est à la fois nouvelle et originale.
+14. **[Les Fils Paradisiaques de Dieu](/fr/The_Urantia_Book/20):** L'histoire des Fils Magistral et Instructeur de la Trinité en plus des Fils Créateurs est entièrement originale avec _Le Livre d'Urantia_.
+15. **[Fils de Dieu trinitisés](/fr/The_Urantia_Book/22):** L'histoire et la technique de la trinitisation des Fils divins sont uniques et originales dans les fascicules d'Urantia.
+16. **[Les Sept Maitres Esprits](/fr/The_Urantia_Book/16):** Alors que la Bible fait mention de sept Esprits de Dieu, c'est seulement dans _Le Livre d'Urantia_ que ces Esprits sont identifiés et leur travail pleinement décrit.
+17. **La Vaste Famille de l'Acteur Conjoint:** La famille vaste et lointaine de l'Esprit Infini - les supernaphins, les seconaphins, les Messagers Solitaires ne sont que brièvement préfigurés par le récit Biblique des séraphins et des chérubins.
+18. **Les Circuits Universels:** Les circuits de la gravité, de la personnalité, de l'esprit et du mental sont l'enseignement original du _Livre d'Urantia_.
+19. **<a id="s517_6"></a>[Universal Reflectivity - Majeston](/fr/The_Urantia_Book/17#p2_1):** L'étonnante histoire de la réflectivité universelle est une présentation entièrement nouvelle et originale de la révélation Urantia.
+20. **<a id="s518_6"></a>[Directeurs de Pouvoir](/fr/The_Urantia_Book/29#p5_1):** Tout le concept de contrôle intelligent et téléologique de l'énergie cosmique est original avec _The_Urantia_Book_.
+21. **Évolution de l'Énergie - Matière:** Alors que certaines phases de l'histoire d'Urantia de l'évolution de l'énergie peuvent avoir été annoncées par la découverte scientifique, néanmoins, le concept dans son ensemble est nouveau tel que présenté dans les fascicules d'Urantia.
+22. **<a id="s520_6"></a>[Le Ultimaton](/fr/The_Urantia_Book/42#p6_1):** Au moment de la suggestion de l'Ultimaton dans les Urantia Papers, je n'avais jamais entendu parler d'un tel concept dans la littérature scientifique. Au cours des cinq ou six dernières années, j'ai noté plusieurs indices différents de l'existence possible d'un facteur physique analogue au concept d'ultimaton.
+23. **<a id="s521_6"></a>[Origine du système solaire](/fr/The_Urantia_Book/57#p5_1):** Alors que le récit d'Urantia sur l'origine du système solaire inclut certaines caractéristiques de la théorie de Moulton-Chamberlain, toute l'histoire est si complète et unique pour en faire une présentation pratiquement originale.
+24. **<a id="s522_6"></a>[Les mondes architecturaux](/fr/The_Urantia_Book/15#p5_13):** Les mondes fabriqués sur commande de spécifications sont originaux avec _Le Livre d'Urantia_.
+25. **Administration de l'Univers:** Du monde habité à la gestion du grand univers, le schéma administratif du _Livre d'Urantia_ est entièrement nouveau.
+26. **[Les Porteurs de Vie](/fr/The_Urantia_Book/36):** Rien de tel que le concept des Porteurs de Vie n'a jamais été suggéré à l'humanité dans toute l'histoire passée.
+27. **[Origine de la race humaine](/fr/The_Urantia_Book/63):** Bien que l'histoire d'Urantia sur l'origine de la race humaine valide la doctrine de l'évolution, elle présente néanmoins un récit si détaillé et unique qu'il constituent une présentation tout sauf originale des origines humaines.
+28. **[Origine des races colorées](/fr/The_Urantia_Book/64):** L'histoire d'Urantia sur l'origine des races Sangik est le seul récit de ce genre qui existe.
+29. **[Source et nature de la personnalité](/fr/The_Urantia_Book/112):** Alors que _Le Livre d'Urantia_, comme la science, ne parvient pas à définir la personnalité, il désigne son origine et dépeint de façon gratifiante son magnifique destin.
+30. **[Le Concept des Ajusteurs de Pensée](/fr/The_Urantia_Book/107):** Alors que la Bible parle de la « véritable lumière qui éclaire tout homme venant au monde », l'histoire des Ajusteurs de Pensée telle que révélée dans le Les Papiers d'Urantia sont si complets et uniques qu'ils constituent une histoire nouvelle et originale.
+31. **<a id="s529_6"></a>[Évolution de l'âme](/fr/The_Urantia_Book/0#p5_10):** Le concept de l'origine, de la nature et de l'évolution de l'âme est original avec _Le Livre d'Urantia_.
+32. **<a id="s530_6"></a>[Identification du Saint-Esprit](/fr/The_Urantia_Book/8#p5_3):** Indiquer le Saint-Esprit comme la présence de l'Esprit-Mère de l'Univers Local est tout à fait nouveau et original dans les fascicules d'Urantia.
+33. **<a id="s531_6"></a>[Les Sept Esprits Adjutants](/fr/The_Urantia_Book/36#p5_1):** Alors que la Bible fait mention de sept esprits et dans Ésaïe les identifie partiellement, le récit d'Urantia est si complet et unique qu'il une présentation originale.
+34. **[Fils de Dieu de l'Univers Local](/fr/The_Urantia_Book/35):** Toute l'histoire des Fils de l'Univers Local est nouvelle et originale.
+35. **<a id="s533_6"></a>[Le Plan d'Ascension—Soyez Parfait](/fr/The_Urantia_Book/30#p4_9):** Tandis que Jésus proposait le mandat "Soyez parfait", etc., le déploiement du plan d'ascension au Paradis dans _L'Urantia Book_ est un concept tout sauf nouveau et original.
+36. **[Les Sept Mondes des Maisons](/fr/The_Urantia_Book/47):** Alors que le Maître faisait allusion aux « mondes des maisons », l'histoire complète de leur nature et de leur province est à la fois nouvelle et originale.
+37. **<a id="s535_6"></a>[Le Concept Morontiel](/fr/The_Urantia_Book/0#p5_12):** Tout le concept morontiel—l'étape entre le matériel et le spirituel est nouveau et original.
+38. **[Artisans Célestes et Directeurs de Réversion](/fr/The_Urantia_Book/44):** Ces deux concepts sont nouveaux dans _The_Urantia_Book_. Le concept de jeu céleste et d'humour spirituel est tout sauf nouveau.
+39. **Concept de Citoyenneté Permanente:** Ceci est tout à fait original avec _Le Livre d'Urantia_.
+40. **[Les Médians d'Urantia](/fr/The_Urantia_Book/77):** Alors que l'Ancien Testament fait référence aux "Nephilim", la citation est si indéfinie qu'elle constitue l'histoire d'Urantia des médians comme une nouvelle et originale récit.
+41. **Le Gouvernement Planétaire Surhumain:** L'histoire des fonctions planétaires des Très Hauts, du Corps de Réserve et des séraphins planétaires est originale, malgré l'allusion au travail des Très Hauts dans la Bible.
+42. **Les milliards de mondes habités:** Au moment de l'arrivée des Papiers d'Urantia, il n'y avait aucune littérature traitant des mondes habités autres que notre monde. L'idée était nouvelle. Ces dernières années, nous avons fréquemment rencontré des spéculations concernant d'autres planètes habitées.
+43. **Clarification du péché et de la rébellion:** La clarification unique du péché et de la rébellion est originale avec _Le Livre d'Urantia_.
+44. **[Identification d'Adam et Eve](/fr/The_Urantia_Book/74):** Le récit factuel de l'histoire légendaire d'Adam et Eve est original.
+45. **[Clarification de Melchisédek](/fr/The_Urantia_Book/93):** L'histoire de Melchisédek telle qu'elle est clarifiée dans le récit d'Urantia est vraiment un concept nouveau et original.
+46. ​​**Concept des âges de la lumière et de la vie:** La réalisation de l'évolution mortelle telle qu'elle est décrite dans le concept des âges de la lumière et de la vie est entièrement nouvelle et originale.
+47. **Une histoire unifiée d'Urantia:** Nulle part ailleurs dans le monde vous ne pouvez trouver une histoire cohérente et unifiée de notre monde. Pour la première fois, nous avons une chronologie des affaires humaines.
+48. **Maladies:** Le Livre présente une explication nouvelle et originale des maladies microbiennes.
+49. **Antigravité:** Tout le concept d'antigravité est unique et original avec les fascicules d'Urantia. Ce n'est que l'année dernière qu'un scientifique a promulgué une théorie de l'antigravité.
+50. **<a id="s548_6"></a>[Anniversaire de Jésus](/fr/The_Urantia_Book/122#p8_1):** Pour la première fois durant l'ère chrétienne, nous connaissons le véritable anniversaire de Jésus—le 21 août 7 av.
+51. **Planète expérimentale:** Le fait qu'Urantia était une planète décimale - que les Porteurs de Vie avaient la permission d'essayer de nouvelles caractéristiques de l'évolution biologique. Ce sont des informations jusqu'ici inconnues sur la planète.
+52. **[L'évolution de la religion](/fr/The_Urantia_Book/99):** Bien que vous puissiez lire beaucoup sur l'évolution de la religion sur Urantia, néanmoins, l'histoire simple racontée dans les fascicules d'Urantia est unique et originale.
+53. **[La raison unique de l'effusion de Jésus](/fr/The_Urantia_Book/119):** _Le Livre d'Urantia_ présente une nouvelle, unique et originale raison de la vie et de la mort de Jésus sur notre monde.
+54. **[Une histoire chronologique de la vie de Jésus](https://www.urantia.org/urantia-book-standardized/part-iv-life-and-teachings-jesus):** Le Livre présente la seule histoire complète de la vie de Jésus sur ce monde.
+55. **[Identification des Douze Apôtres](/fr/The_Urantia_Book/139):** L'histoire d'Urantia est la première fois que la confusion des 12 Apôtres a été redressée.
+56. **<a id="s554_6"></a>[L'histoire unique de Marie](/fr/The_Urantia_Book/122#p1_1):** L'histoire de Marie, la mère de Jésus, est unique et originale.
+57. **<a id="s555_6"></a>[L'eau et le vin](/fr/The_Urantia_Book/137#p4_1):** Pour autant que je sache, _Le Livre d'Urantia_ présente une explication originale de ce supposé miracle.
+58. **Explication des Miracles Involontaires:** Le Livre présente une explication possible de nombreux miracles imprévus.
+59. **L'attitude de Jésus envers l'art et l'athlétisme:** L'attitude du Maître envers l'art et l'athlétisme n'est révélée nulle part ailleurs.
+60. **<a id="s558_6"></a>[Le Sermon sur la Montagne](/fr/The_Urantia_Book/140#p3_1):** Je ne suis, bien sûr, pas familier avec toute la littérature sur le Sermon sur la Montagne. Mais autant que je sache, l'interprétation de cette adresse dans _Le Livre d'Urantia_ est nouvelle et originale.
+61. **<a id="s559_6"></a>[The Women's Evangelistic Corps](/fr/The_Urantia_Book/150#p1_1):** Cette histoire est nouvelle, malgré la brève mention de ce sujet dans le Nouveau Testament.
+62. **[Rodan d'Alexandrie](/fr/The_Urantia_Book/160):** Toute cette histoire est originale avec _The Urantia Book_.
+63. **L'histoire d'Abner:** L'histoire unique du chef des apôtres de Jean-Baptiste est originale avec les Papiers d'Urantia.
+64. **<a id="s562_6"></a>[David Zebedee' s Intelligence Corps](/fr/The_Urantia_Book/149#p0_4):** Toute cette histoire se trouve exclusivement dans _Le Livre d'Urantia_
 65. **<a id="s563_6"></a>[Les "Clés du Royaume."](/fr/The_Urantia_Book/39#p4_14)** L'explication de la signification des "clés du royaume" est nouvelle et originale telle qu'elle se trouve dans _Le Livre d'Urantia. _
 66. **[Clarification du Concept du Royaume.](/fr/The_Urantia_Book/170)** Le concept du Royaume est clarifié. La religion de Jésus et la religion à propos de Jésus sont totalement différenciées.
 67. **<a id="s565_6"></a>[Clarification du Second Avènement.](/fr/The_Urantia_Book/176#p2_1)** La clarification de [Matthieu 24](/fr/Bible/Matthew/24) et la seconde venue de Christ est complète et original.

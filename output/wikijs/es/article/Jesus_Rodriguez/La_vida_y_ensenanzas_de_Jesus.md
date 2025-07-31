@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_vida_y_ensenanzas_de_Jesus">
+<img src="/image/article/Spain_Association/La_vida_y_ensenanzas_de_Jesus/001.jpg">
 </figure>
 
 <br style="clear:both;"/>

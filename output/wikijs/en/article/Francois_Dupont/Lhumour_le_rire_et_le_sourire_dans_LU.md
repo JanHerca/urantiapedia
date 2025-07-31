@@ -92,7 +92,7 @@ Bob Slagle thought he should add 3. Here they are:
 2. Is the study of the L.U desirable? Then man should read carefully the association of the tertiary reality, the ultimate quaternary integration, the integration of the fifth phase; and ask himself what this means for an absonite being!
 3. Is the loan of the L.U. desirable? Then you should be able to explain to your friends, how you believe in these extra planetary beings, radiating a violet light, with a size of three meters living temporarily on this planet, riding giant birds, able to speak and fly, and...making invisible children etc...
 
-## CONCUBSION
+## CONCLUSION
 
 Here is a triple affirmation according to the L.U. models which can serve as a guiding principle for our art of living: true humor is always human, always forgives and always shows understanding towards its neighbors, friends, acquaintances and fellow citizens on earth and beyond!
 

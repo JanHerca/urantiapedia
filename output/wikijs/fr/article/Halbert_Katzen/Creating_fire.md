@@ -255,7 +255,7 @@ Les découvertes faites au Gesher Benot Ya'aqov en Israël au cours de ce millé
 
 [^9]: https://en.wikipedia.org/wiki/Terra_Amata_(archaeological_site)
 
-[^10] : Kyle Streich, *Terra Amata*, juin 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html [Lien original rompu]
+[^10]: Kyle Streich, *Terra Amata*, juin 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html [Lien original rompu]
 
 [^11]: Dennis O'Neill, *Culture humaine archaïque*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm
 

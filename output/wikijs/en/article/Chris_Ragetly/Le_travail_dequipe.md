@@ -33,11 +33,9 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
+_The Urantia Book_ strongly advises us to work in teams, and warns us that in the future we will have little opportunity to work alone. “One of the most important lessons to be learned during your mortal career is that of teamwork. Those who have mastered this art of working with other beings populate the spheres of perfection. There is little work in the universe for isolated servers. The higher you rise, the more isolated you become when you are temporarily deprived of the society of your companions.” (<a id="a37_508"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14))
 
-
-The Urantia Book strongly advises us to work in teams, and warns us that in the future we will have little opportunity to work alone. “One of the most important lessons to be learned during your mortal career is that of teamwork. Those who have mastered this art of working with other beings populate the spheres of perfection. There is little work in the universe for isolated servers. The higher you rise, the more isolated you become when you are temporarily deprived of the society of your companions.” (<a id="a37_508"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14))
-
-When a group for reading and studying The Urantia Book, such as the one in Avignon, to which I belong, meets with more or less the same members for 15 to 25 years for the majority of them, a sort of unconscious habit of work is formed, not only with regard to the other members as individuals, but also with regard to the group as a corporate entity, to give it a name of unit.
+When a group for reading and studying _The Urantia Book_, such as the one in Avignon, to which I belong, meets with more or less the same members for 15 to 25 years for the majority of them, a sort of unconscious habit of work is formed, not only with regard to the other members as individuals, but also with regard to the group as a corporate entity, to give it a name of unit.
 
 This attitude, this unconscious expression is manifested at each of our meetings by the moods of each person, the subject discussed, etc. The arrival of new elements within the group always poses some problems, resulting in new ideas which “disrupt” the usual routine in which the older members tend to “loll around”: these new personalities are a valuable aid in familiarizing us with the approach to situations, crises, new social habits, with which we will have to live and work in harmony.
 

@@ -33,7 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
 Le Livre d'Urantia nous conseille fortement le travail en équipe, et nous prévient que dans le futur nous aurons peu l'occasion de travailler seul. « _L'une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d'autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l'univers pour les serviteurs isolés. Plus vous vous élevez, plus vous devenez isolé lorsque vous êtes temporairement privés de la société de vos compagnons_ ». (<a id="a36_547"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
 Lorsqu'un groupe de lecture et d'étude du Livre d'Urantia, tel que celui d'Avignon, auquel j'appartiens, se réunit avec à peu près les mêmes membres depuis 15 à 25 ans pour la majorité d'entre eux, il se forme une sorte d'habitude inconsciente de travail, vis à vis non seulement des autres membres en tant qu'individus, mais aussi vis à vis du groupe en tant qu'entité corporative, pour lui donner un nom d'unité.

@@ -113,7 +113,7 @@ Man being what he is, for nearly 100,000 years, wedged between the glaciers of t
 
 If we take stock of humans from 500,000 years ago, we have the original humans, the Andonites having given several variants, including the Neanderthals. We also have the six colored “races” from the Andonites who more or less mixed with each other. To this, we must add the Nodites, the eighth race, descendants of the staff of Caligastia. Then, 37,848 years before the Christian era, the arrival of Adam and Eve introduced the Adamic “race” to the human race. All this joyful mixing had the result that there is no longer really a pure human “race” today. At most we can divide them into three different classes, the Caucasoids, the Mongoloids and the Negroids 81:4.11 to 13 (905.2 to 4$).
 
-## CONCUBSION
+## CONCLUSION
 
 So, to answer Patricia Monsigny's question, regardless of the word used to designate the different variants of the human being, we all come, and even on two occasions, from the same human family. The first being Andon and Fonta, the Andonites, the second being the Badonite couple at the origin of the nineteen children of different colors, the Sangik <a id="a117_352"></a>[UB 64:5.2](/en/The_Urantia_Book/64#p5_2) family. In conclusion, we are all humans, brothers and sisters of the same big family. All the more reason to help each other and love each other as our biggest brother, Jesus, showed us through his human life more than two thousand years ago!
 

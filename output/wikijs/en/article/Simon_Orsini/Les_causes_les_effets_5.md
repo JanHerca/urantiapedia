@@ -66,7 +66,7 @@ I think God would rather take the risk of rebellion than deprive one individual 
 
 A real element, a product of human evolution, which survives death: it is the soul. It survives the death of our physical body, as well as that of our material thought. This child of human and divine belonging constitutes the surviving element of earthly origin, it is the spiritualized ego of the immortal soul. The materials which will form our new body are beyond our understanding, these forms are not energetic archetypes of the material order, however on the new world, they serve the same purpose as our material bodies on the planet of human nativity. The volition of a creature cannot exist without thought, but it persists despite the loss of material intellect. In a universe without time, boredom cannot be felt, this dimension does not exist.
 
-## CONCUBSION
+## CONCLUSION
 
 True religion is not a system of philosophical beliefs which can be deduced by reasoning and demonstrated by natural evidence. Nor is it a fantastic and mystical experience of indescribable feelings of ecstasy, which can only be enjoyed by the romantic devotees of mysticism. Religion is not the product of reason but, seen from within, it is entirely reasonable. Religion is not derived from the logic of human philosophy but, as a mortal experience, it is entirely logical. Religion is the experiencing of Divinity in the consciousness of a moral being of evolutionary origin. It represents a real experience, with realities eternal in time, and the realization of spiritual satisfactions during incarnation.
 

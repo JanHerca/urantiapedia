@@ -105,7 +105,7 @@ Enfin, il a mis en corrélation les deux phases opposées de la Réalité (perso
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/001.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -148,7 +148,7 @@ Les transcendantaux sont antérieurs aux êtres finis, en ce sens qu'ils sont le
 <br>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/002.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/002.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -176,7 +176,7 @@ L'Apocalypse nous apprend que le but de l'existence de toute personnalité est l
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/003.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/003.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -208,7 +208,7 @@ Mais notre superunivers n'est pas seul dans l'espace. Il est rejoint par six sup
 <br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/004.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/004.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -218,7 +218,7 @@ Au-delà des sept superunivers, de nouveaux univers se forment dans les premier,
 <br>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/005.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/005.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -234,7 +234,7 @@ D'autre part, l'univers dans son ensemble connaît un cycle d'expansion et de co
 <br>
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/006.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/006.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -333,7 +333,7 @@ Après la mort – la dissolution de la forme physique – l'être qui a choisi 
 <br>
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/Una_descripcion_de_la_reality/008.jpg">
+<img src="/image/article/Spain_Association/Una_descripcion_de_la_realidad/008.jpg">
 </figure>
 
 <br style="clear:both;"/>

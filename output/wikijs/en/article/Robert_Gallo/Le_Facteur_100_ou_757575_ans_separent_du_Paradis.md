@@ -33,8 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
-
 The numerology of the _Urantia Book_ is faithful and constant with regard to certain numbers which incontestably serve as the basis for the cosmic edifice on both the material and spiritual planes. Everything seems to be built around the numbers 3, 7, 10 (7+3) and multiples of the latter.
 
 In this regard the number 100 appears to conceal a particular purpose by probably being the constant factor of a universal progression. To be convinced of this, let us observe the perfectly regular construction of a Superuniverse where:

@@ -83,7 +83,7 @@ La compilation de son texte a été élaborée grâce au dévouement d'un groupe
 <img src="/image/article/Spain_Association/El_movimiento_Urantia_en_Espana/004.jpg">
 </figure>
 
-Ce livre s'est progressivement répandu dans les différents États des États-Unis, ainsi que dans plusieurs autres pays. De fait, entre 1961 et 1962, _Le Livre d'Urantia_ a été publié pour la première fois en France en français, traduit par Jacques Weiss et son équipe, sous le titre _La Cosmogonie d'Urantia_ et publié en trois volumes. Jacques Weiss était un industriel français, expert en aviation, ancien chef de la résistance clandestine aux nazis pendant l'Occupation et un ardent chercheur de vérité. [Une brève histoire](/fr/article/Georges_Michelson_Dupont/Une_brève_histoire_de_la_traduction_française)
+Ce livre s'est progressivement répandu dans les différents États des États-Unis, ainsi que dans plusieurs autres pays. De fait, entre 1961 et 1962, _Le Livre d'Urantia_ a été publié pour la première fois en France en français, traduit par Jacques Weiss et son équipe, sous le titre _La Cosmogonie d'Urantia_ et publié en trois volumes. Jacques Weiss était un industriel français, expert en aviation, ancien chef de la résistance clandestine aux nazis pendant l'Occupation et un ardent chercheur de vérité. [Une brève histoire](/fr/article/Georges_Michelson_Dupont/A_Short_History_of_the_French_Translation)
 
 <br style="clear:both;"/>
 
@@ -824,7 +824,7 @@ Fin février, notre secrétaire, Ismael Gracia, s'est rendu à Séville pour une
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=7fB3MV2Tvfg
+http://bit.ly/4ocQrwY
 
 <br style="clear:both;"/>
 
@@ -880,7 +880,7 @@ Fin août, notre président, Carmelo Martínez, a enregistré une vidéo d'invit
 
 <br style="clear:both;"/>
 
-https://www.youtube.com/watch?v=9aLPsLrY5Ns
+http://bit.ly/4kYsWEZ
 
 Mariano Pérez a donné une conférence le 14 septembre à 22h00 (heure espagnole) dans la salle virtuelle de l'AUB. Son titre était « CULTE ET MÉDITATION ». Cette conférence a été reprise le 5 octobre en raison de problèmes techniques dans la salle, qui ont entraîné l'absence de certains participants.
 
@@ -1249,7 +1249,7 @@ Tous les chercheurs sur le phénomène OVNI listés ci-dessous, qui se sont réu
 - [Cet article est sur le site de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVimiento-URANTIA-EN-ESPA%C3%91A.pdf)
 
 
-<figure class="table chapitre-navigateur">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -1269,6 +1269,6 @@ Tous les chercheurs sur le phénomène OVNI listés ci-dessous, qui se sont réu
 
 ## Notes
 
-[^1] : Photographie prise sur Internet. J'ai demandé la permission de publier d'autres photos de la page de l'auteur, mais je n'ai pas reçu de réponse.
+[^1]: Photographie prise sur Internet. J'ai demandé la permission de publier d'autres photos de la page de l'auteur, mais je n'ai pas reçu de réponse.
 
 [^2]: http://barcelofilia.blogspot.com.es/2012/07/abraxas-gelabert-26-1972-1995.html

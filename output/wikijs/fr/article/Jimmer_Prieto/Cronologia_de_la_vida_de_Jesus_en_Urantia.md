@@ -306,7 +306,7 @@ Amos, le frère cadet de Jésus, meurt après une semaine de maladie et une fort
 Année 13 du calendrier
 La fille d'Esdras, Rebecca, tombe amoureuse de Jésus et désire l'épouser. Jésus entend sa proposition et répond : « Si je suis un enfant du destin, je ne dois assumer aucune obligation à vie jusqu'à ce que ma destinée soit manifestée. » [LU 127:5.3-6](/fr/The_Urantia_Book/127#p5_3)
 
-##### Année 20 de Jésus
+### Année 20 de Jésus
 
 Année 14 du calendrier
 Avril
@@ -711,7 +711,7 @@ Les espions demandent à Jésus pourquoi il n'ordonne pas à ses disciples de je
 Du 3 mai au 3 octobre
 Le camp de Bethsaïde était supervisé par David Zébédée et les jumeaux Alphée. Durant ces cinq mois, une « nouvelle école de prophètes » fut mise en place sous la direction de Pierre, et un hôpital fut également établi sous la direction d'Elman. Le camp fut visité par des milliers de personnes venues de l'Empire romain et des pays situés à l'est de l'Euphrate ; 117 nouveaux évangélistes furent formés. [LU 148:0.1](/fr/The_Urantia_Book/148#p0_1)
 
-## Année 35 de Jésus
+### Année 35 de Jésus
 
 Année 29 du calendrier
 18 septembre
@@ -780,8 +780,7 @@ Jésus et son groupe retournèrent à Bethsaïde par bateau, où une foule nombr
 L'histoire de la femme guérie par sa propre foi lorsqu'elle toucha le vêtement du Maître. « Quelqu'un m'a touchée. » ([Mt 9:20-22](/fr/Bible/Matthew/9#v20)) ([Mc 5:25-34](/fr/Bible/Mark/5#v25)) ([Lc 8:43-48](/fr/Bible/Luke/8#v43))
 Jésus réveilla la fille de Jaïrus, chef de synagogue. Le peuple pensa à tort que Jésus l'avait ressuscitée. « Ta fille n'est pas morte ; elle dort seulement. » ([Luc 8:40-56](/fr/Bible/Luke/8#v40)) ([Mt. 9:18-26](/fr/Bible/Matthew/9#v18)) ([Mc. 5:21-43](/fr/Bible/Mark/5#v21)) [LU 152:0.1](/fr/The_Urantia_Book/152#p0_1)
 
-## Du 22 au 27 mars
-
+Du 22 au 27 mars
 Jésus et les apôtres continuent d’enseigner les foules à Bethsaïde.
 27 mars
 Dimanche. Jésus était épuisé et voulait s'éloigner de la foule pour se reposer. Il prit un bateau avec les douze jusqu'à un endroit près de Bethsaïde-Julie, mais la foule les suivit. Le nombre passa de 1 000 à 3 000. Le mercredi midi, le groupe était passé à 5 000. [LU 152:2.4](/fr/The_Urantia_Book/152#p2_4)
@@ -1086,8 +1085,7 @@ Le samedi 11 mars après-midi, Jésus prononça son dernier sermon à Pella, exp
 Jésus annonce que le lendemain, lui et ses apôtres partiront pour Jérusalem pour la Pâque. Ses disciples se trompent une fois de plus en pensant qu'il viendrait à Jérusalem proclamer la suprématie juive.
 Ce dimanche après-midi, Salomé, la mère des apôtres Jacques et Jean, arrive et demande à Jésus des honneurs pour ses fils dans le royaume à venir. « _Femme, tu ne sais pas ce que tu demandes._ » [LU 171:0.1-5](/fr/The_Urantia_Book/171#p0_1) ([Mt. 20:20-28](/fr/Bible/Matthew/20#v20)) ([Mc. 10:35-45](/fr/Bible/Mark/10#v35))
 
-## Du 13 au 31 mars
-
+Du 13 au 31 mars
 Le lundi 13 après-midi, Jésus et les douze apôtres quittèrent finalement le camp de Pella. [LU 171:1.1](/fr/The_Urantia_Book/171#p1_1) En route vers Jérusalem, ils visitèrent toutes les villes où travaillaient les soixante-dix et s'entretinrent avec eux. Le voyage dura deux semaines. [LU 171:1.1-2](/fr/The_Urantia_Book/171#p1_1)
 À Béthabara, au-delà du Jourdain, Jésus s'adressa à une foule de près de 1 000 disciples sur le « _Prix de la suite de Jésus_ ». « _Désormais, ceux d'entre vous qui veulent me suivre doivent être prêts à payer le prix d'un dévouement total à la volonté de mon Père._ » [LU 171:2.2-3](/fr/The_Urantia_Book/171#p2_2)
 Immédiatement après, Jésus et les douze se mirent en route pour Hesbon, suivis d'environ cinq cents hommes ; les cinq cents autres allèrent directement à Jérusalem. [LU 171:3.1](/fr/The_Urantia_Book/171#p3_1)
@@ -1208,7 +1206,7 @@ Jésus est enterré, assisté du centurion romain, peu après 16 heures, dans un
 Samedi matin. Un groupe de chefs juifs s'était réuni la veille au soir pour discuter de leurs craintes concernant les affirmations du Maître selon lesquelles il ressusciterait le troisième jour. Ils décidèrent de demander à Pilate de poster une garde de soldats romains au tombeau de Jésus. Ce samedi-là, Pilate offrit aux chefs juifs un groupe de dix soldats pour garder le tombeau de Jésus. Ces soldats, avec dix autres soldats juifs, roulèrent une autre pierre pour sceller le tombeau et y apposèrent le sceau de Pilate. [LU 188:2.3](/fr/The_Urantia_Book/188#p2_3)
 Cette nuit-là, les onze apôtres se réunirent chez le jeune Jean Marc, dans la même pièce à l'étage où la Cène avait eu lieu deux nuits plus tôt. [LU 188:3.2](/fr/The_Urantia_Book/188#p3_2)
 
-## La Résurrection
+### La Résurrection
 
 L'Archange suprême de Nébadon convoque son conseil pour la résurrection des créatures douées de volonté. Ils suivent la suggestion de Gabriel, qui souligne que, puisque Micaël a « _donné sa vie de son plein gré, il a aussi le pouvoir de la recouvrer selon sa propre décision_ ». Peu après, l'Ajusteur Personnalisé de Jésus leur parle : « _… Ce que vous voyez est la transition humaine de Jésus de Nazareth, de la vie incarnée à la vie morontielle… Votre Père Créateur a choisi de traverser toute l'expérience de ses créatures mortelles, de la naissance sur les mondes matériels à la résurrection morontielle, en passant par la mort naturelle, jusqu'à l'état de véritable existence spirituelle…_ » [LU 189:0.1](/fr/The_Urantia_Book/189#p0_1)
 Après que l'Ajusteur Personnel leur a parlé, tous adoptent une attitude d'attente anxieuse. [LU 189:0.3](/fr/The_Urantia_Book/189#p0_3)
@@ -1331,7 +1329,7 @@ Lorsque la joie de cette effusion d'esprit est consciemment expérimentée dans 
 - [Cet article est sur le site web de l'Association Urantia d'Espagne](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
 
 
-<figure class=»table chapter-navigator">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

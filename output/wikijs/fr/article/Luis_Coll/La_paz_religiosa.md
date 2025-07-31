@@ -51,15 +51,15 @@ Les plus grands conflits, intolérances, fanatismes et derramamiento de sangre o
 
 > _Les religions d’autorité ne peuvent que diviser les hommes et dresser les consciences les unes contre les autres. La religion de l’esprit attirera progressivement les hommes les uns vers les autres et provoquera une sympathie compréhensive entre eux._ ([LU 155:6.9](/fr/The_Urantia_Book/155#p6_9))
 
-## Sentarse a los pies de Jesús
+## Assieds-toi aux pieds de Jésus
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Spain_Association/La_paz_religiosa/002.jpg">
 </figure>
 
-C'est pourquoi le monde d'aujourd'hui a besoin aujourd'hui de plus que rien ne soit <ins>sentarse de nuevo a los pies de Jesus</ins> et apprenne nuevamente les plus grandes vérités que le monde a entendues.
+C'est pourquoi le monde d'aujourd'hui a besoin aujourd'hui de plus que rien ne soit <ins>Assieds-toi aux pieds de Jésus</ins> et apprenne nuevamente les plus grandes vérités que le monde a entendues.
 
-Sentarse a los pies of Jesús significa deprendre de toda presunción that uno pueda tener de presumir of «religioso» and acceptar como la fe d'un enfant, et la suffisamment mature d'un adulte les nouvelles éducations et les dynamiques adaptées à l'époque en ce que nous vivons actuellement. Un chemin nouveau et meilleur, libre de dogmes religieux et supersticiones.
+« Assieds-toi aux pieds de Jésus » significa deprendre de toda presunción that uno pueda tener de presumir of «religioso» and acceptar como la fe d'un enfant, et la suffisamment mature d'un adulte les nouvelles éducations et les dynamiques adaptées à l'époque en ce que nous vivons actuellement. Un chemin nouveau et meilleur, libre de dogmes religieux et supersticiones.
 
 <br style="clear:both;"/>
 
@@ -83,9 +83,9 @@ Les grandes religions, si elles veulent vivre en paix, ont besoin de nouveaux di
 
 Commentaire : lettres bleues (dans le PDF original, cursives dans ce document) texte du –Livre d'Urantia– pour un studio plus détaillé :
 
-La Soberanía – Divina y humana [LU 134:3.6](/fr/The_Urantia_Book/134#p3_6) et [LU 134:5.2](/fr/The_Urantia_Book/134#p5_2) Le discours sur la vraie religion [LU 155:4.1](/fr/The_Urantia_Book/155#p4_1) a [LU 155:6.18](/fr/The_Urantia_Book/155#p6_18)
+Souveraineté – Divine et Humaine [LU 134:3.6](/fr/The_Urantia_Book/134#p3_6) et [LU 134:5.2](/fr/The_Urantia_Book/134#p5_2) Le discours sur la vraie religion [LU 155:4.1](/fr/The_Urantia_Book/155#p4_1) a [LU 155:6.18](/fr/The_Urantia_Book/155#p6_18)
 
-La Fe de Jésus [LU 196:0.1](/fr/The_Urantia_Book/196#p0_1) a [LU 196:2.2](/fr/The_Urantia_Book/196#p2_2)
+La foi de Jésus [LU 196:0.1](/fr/The_Urantia_Book/196#p0_1) a [LU 196:2.2](/fr/The_Urantia_Book/196#p2_2)
 
 
 

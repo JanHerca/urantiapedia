@@ -214,7 +214,7 @@ You know that a shadow is created if the light comes from a single light source.
 
 If I quoted this last writing to you, it is to reveal to you, on behalf of the _Urantia Book_, a certain way of finding correspondences in external literature: there is truth elsewhere, it is up to us to discover it and highlight it.
 
-## IV. CONCUBSION.
+## IV. CONCLUSION.
 
 This conclusion was written by our working group which has been studying the Book in the philosophical, scientific and religious fields for around forty years.
 

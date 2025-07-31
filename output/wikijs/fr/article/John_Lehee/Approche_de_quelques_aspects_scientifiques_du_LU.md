@@ -33,7 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
 _Le Livre d'Urantia_ véhicule un très grand nombre d'informations scientifiques. Ces données sont souvent très pointues et il est intéressant de les comparer aux affirmations de la science actuelle.
 
 Sur quelques sites de l'Internet, certaines personnes affirment que la Cinquième Révélation d'Epoque contient parfois des erreurs au niveau de ces exposés scientifiques.

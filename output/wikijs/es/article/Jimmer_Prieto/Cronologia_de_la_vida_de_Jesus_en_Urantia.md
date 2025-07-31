@@ -306,7 +306,7 @@ Muere Amós, el pequeño hermano de Jesús, después de una semana de enfermedad
 Año 13 del calendario
 Rebeca, la hija de Esdras se enamora de Jesús y desea casarse con él. Jesús escucha la propuesta y responde. «Si soy un hijo del destino, no debo asumir obligaciones para toda la vida hasta el momento en que mi destino se haga manifiesto» [LU 127:5.3-6](/es/The_Urantia_Book/127#p5_3)
 
-##### Año 20 de Jesús
+### Año 20 de Jesús
 
 Año 14 del calendario
 Abril

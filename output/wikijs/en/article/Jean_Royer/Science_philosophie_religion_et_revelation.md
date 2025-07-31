@@ -164,8 +164,6 @@ Revelation unifies human existence. (<a id="a72_37"></a>[UB 102:4.6](/en/The_Ura
 
 8\.
 
-> God is so all real and absolute that no material sign of proof or no demonstration of so-called miracle may be offered in testimony of his reality. Always will we know him because we trust him, and our belief in him is wholly based on our personal participation in the divine manifestations of his infinite reality. (<a id="a166_319"></a>[UB 102:1.5](/en/The_Urantia_Book/102#p1_5))
-
 [The intellect is only a part of the mind]
 
 > God is so all real and absolute that no material sign of proof or no demonstration of so-called miracle may be offered in testimony of his reality. Always will we know him because we trust him, and our belief in him is wholly based on our personal participation in the divine manifestations of his infinite reality. (<a id="a170_319"></a>[UB 102:1.5](/en/The_Urantia_Book/102#p1_5))
@@ -174,68 +172,34 @@ Revelation unifies human existence. (<a id="a72_37"></a>[UB 102:4.6](/en/The_Ura
 
 9\.
 
-> Truth is the basis of science and philosophy, presenting the intellectual foundation of religion. Beauty sponsors art, music, and the meaningful rhythms of all human experience. Goodness embraces the sense of ethics, morality, and religion—experiential perfection-hunger.
-> 
 > Truth is the basis of science and philosophy, presenting the intellectual foundation of religion. Beauty sponsors art, music, and the meaningful rhythms of all human experience. Goodness embraces the sense of ethics, morality, and religion—experiential perfection-hunger. (<a id="a178_275"></a>[UB 56:10.10](/en/The_Urantia_Book/56#p10_10))
 
 10\.
 
-> In evolution, religion often leads to man’s creating his concepts of God; revelation exhibits the phenomenon of God’s evolving man himself, while in the earth life of Christ Michael we behold the phenomenon of God’s revealing himself to man. Evolution tends to make God manlike; revelation tends to make man Godlike.
-> 
-> In evolution, religion often leads to man’s creating his concepts of God; revelation exhibits the phenomenon of God’s evolving man himself, while in the earth life of Christ Michael we behold the phenomenon of God’s revealing himself to man. Evolution tends to make God manlike; revelation tends to make man Godlike.
-> 
-> In evolution, religion often leads to man’s creating his concepts of God; revelation exhibits the phenomenon of God’s evolving man himself, while in the earth life of Christ Michael we behold the phenomenon of God’s revealing himself to man. Evolution tends to make God manlike; revelation tends to make man Godlike.
-> 
 > In evolution, religion often leads to man’s creating his concepts of God; revelation exhibits the phenomenon of God’s evolving man himself, while in the earth life of Christ Michael we behold the phenomenon of God’s revealing himself to man. Evolution tends to make God manlike; revelation tends to make man Godlike. (<a id="a188_320"></a>[UB 102:3.14](/en/The_Urantia_Book/102#p3_14))
 
 11\.
 
-> The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator—it is the handiwork of his divine Sons—and therefore it must be *good.* It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin.
-> 
-> The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator—it is the handiwork of his divine Sons—and therefore it must be *good.* It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin.
-> 
-> The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator—it is the handiwork of his divine Sons—and therefore it must be *good.* It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin.
-> 
 > The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator—it is the handiwork of his divine Sons—and therefore it must be *good.* It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin. (<a id="a198_325"></a>[UB 111:6.3](/en/The_Urantia_Book/111#p6_3))
 
 [We distinguish, in the manner of Hegel, morality as a relationship from individual to individual and **ethics** as a relationship to the group.]
 
 12\.
 
-> Science sorts men; religion loves men, even as yourself; wisdom does justice to differing men; but revelation glorifies man and discloses his capacity for partnership with God.
-> 
-> Science sorts men; religion loves men, even as yourself; wisdom does justice to differing men; but revelation glorifies man and discloses his capacity for partnership with God.
-> 
-> Science sorts men; religion loves men, even as yourself; wisdom does justice to differing men; but revelation glorifies man and discloses his capacity for partnership with God.
-> 
 > Science sorts men; religion loves men, even as yourself; wisdom does justice to differing men; but revelation glorifies man and discloses his capacity for partnership with God. (<a id="a210_180"></a>[UB 102:3.7](/en/The_Urantia_Book/102#p3_7))
 
 13\.
 
-> Science vainly strives to create the brotherhood of culture; religion brings into being the brotherhood of the spirit. Philosophy strives for the brotherhood of wisdom; revelation portrays the eternal brotherhood, the Paradise Corps of the Finality.
-> 
-> Science vainly strives to create the brotherhood of culture; religion brings into being the brotherhood of the spirit. Philosophy strives for the brotherhood of wisdom; revelation portrays the eternal brotherhood, the Paradise Corps of the Finality.
-> 
-> Science vainly strives to create the brotherhood of culture; religion brings into being the brotherhood of the spirit. Philosophy strives for the brotherhood of wisdom; revelation portrays the eternal brotherhood, the Paradise Corps of the Finality.
-> 
 > Science vainly strives to create the brotherhood of culture; religion brings into being the brotherhood of the spirit. Philosophy strives for the brotherhood of wisdom; revelation portrays the eternal brotherhood, the Paradise Corps of the Finality. (<a id="a220_253"></a>[UB 102:3.8](/en/The_Urantia_Book/102#p3_8))
 
 [What this eternal brotherhood is is quite far from the Christian tradition, that of rest and contemplation of the Deity, from the Muslim tradition, of a Paradise where milk and honey flow, or from the Buddhist tradition of a Nirvana in which the personality dissolves, it is that of belonging to a Paradise Body of the Finality continually in search of a beyond finite time and finding it in service.]
 
 14\.
 
-> Knowledge yields pride in the fact of personality; wisdom is the consciousness of the meaning of personality; religion is the experience of cognizance of the value of personality; revelation is the assurance of personality survival.
-> 
-> Knowledge yields pride in the fact of personality; wisdom is the consciousness of the meaning of personality; religion is the experience of cognizance of the value of personality; revelation is the assurance of personality survival.
-> 
-> Knowledge yields pride in the fact of personality; wisdom is the consciousness of the meaning of personality; religion is the experience of cognizance of the value of personality; revelation is the assurance of personality survival.
-> 
 > Knowledge yields pride in the fact of personality; wisdom is the consciousness of the meaning of personality; religion is the experience of cognizance of the value of personality; revelation is the assurance of personality survival. (<a id="a232_236"></a>[UB 102:3.9](/en/The_Urantia_Book/102#p3_9))
 
 15\.
 
-> In science, the idea precedes the expression of its realization; in religion, the experience of realization precedes the expression of the idea. There is a vast difference between the evolutionary will-to-believe and the product of enlightened reason, religious insight, and revelation—the *will that believes.*
-> 
 > In science, the idea precedes the expression of its realization; in religion, the experience of realization precedes the expression of the idea. There is a vast difference between the evolutionary will-to-believe and the product of enlightened reason, religious insight, and revelation—the *will that believes.* (<a id="a238_315"></a>[UB 102:3.13](/en/The_Urantia_Book/102#p3_13))
 
 **Method of science:**

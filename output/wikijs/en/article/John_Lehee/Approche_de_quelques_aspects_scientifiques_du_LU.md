@@ -33,8 +33,6 @@ dateCreated: 2024-09-29T14:02:03.086Z
   </table>
 </figure>
 
-
-
 _The Urantia Book_ conveys a very large amount of scientific information. This data is often very specific and it is interesting to compare it to the assertions of current science.
 
 On some sites on the Internet, some people claim that the Fifth Epochal Revelation sometimes contains errors in its scientific statements.
@@ -205,7 +203,7 @@ The probe must still explore the sky for three years to possibly answer these qu
 
 But let's wait because science is characterized by many twists and turns.
 
-## CONCUBSION
+## CONCLUSION
 
 Through these few scientific aspects, it seems obvious that we must carefully read the very detailed presentations of the Revelators and take a step back from the assertions of science whose perpetual discoveries constantly shake up the convictions of researchers.
 

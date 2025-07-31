@@ -213,7 +213,7 @@ Les fiançailles de Joseph et Marie
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="08_juin"> **JUIN**
+<a name="Jun_08a"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -347,7 +347,7 @@ Au début, Zacharie fait un rêve extraordinaire et est convaincu de la vérité
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="07_juin"></a> **JUIN**
+<a name="Jun_07a"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -475,7 +475,7 @@ Au milieu, ils viennent présenter Jésus au Temple et pour le rite de purificat
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="06_juin"></a> **JUIN**
+<a name="Jun_06a"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -730,7 +730,7 @@ José est promu au travail comme contremaître d'un groupe d'ouvriers travaillan
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="04_juin"> **JUIN**
+<a name="Jun_04a"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -860,7 +860,7 @@ Compte tenu de la grave situation politique d'Archélaüs en Judée, ils décid�
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="03_juin"> **JUIN**
+<a name="Jun_03a"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1207,7 +1207,7 @@ Un léger tremblement de terre à Nazareth ; Jésus commence à montrer une curi
 
 Fait inhabituel, un peu de neige tombe à Nazareth. Ses parents le réprimandent pour sa passion pour les jeux et les excursions à la colline de Nebi Sa'in.
 
-<a name="01_févr"></a> **FÉVRIER**
+<a name="Feb_01"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1250,7 +1250,7 @@ Fait inhabituel, un peu de neige tombe à Nazareth. Ses parents le réprimandent
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="June_01"> **JUIN**
+<a name="Jun_01"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1340,7 +1340,7 @@ Notes : Il continue d'écouter les récits des voyages des pèlerins et des cara
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="02_févr"></a> **FÉVRIER**
+<a name="Feb_02"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1386,7 +1386,7 @@ Le chazzan de l'école, voyant les progrès splendides du petit Jésus, lui acco
 
 Son oncle l'emmène pêcher pour la première fois
 
-<a name="02_juin"> **JUIN**
+<a name="Jun_02"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1478,7 +1478,7 @@ Notes : Jesús gagne la sympathie de ses oncles à Migdal et, durant cette anné
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="03_févr"></a> **FÉVRIER**
+<a name="Feb_03"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1521,7 +1521,7 @@ Il a la varicelle. Il paraît de plus en plus grand et fort.
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="03_juin"> **JUIN**
+<a name="Jun_03"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1613,7 +1613,7 @@ Grave réprimande à Jésus pour un acte prétendument enfantin : avoir peint un
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="04_févr"></a> **FÉVRIER**
+<a name="Feb_04"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1654,7 +1654,7 @@ Grave réprimande à Jésus pour un acte prétendument enfantin : avoir peint un
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="04_juin"> **JUIN**
+<a name="Jun_04"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1742,7 +1742,7 @@ Notes : Il continua de rendre visite à ses oncles, qui le comprenaient mieux, e
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="05_févr"></a> **FÉVRIER**
+<a name="Feb_05"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1785,7 +1785,7 @@ Notes : Il continua de rendre visite à ses oncles, qui le comprenaient mieux, e
 
 Au milieu de l'année, Jésus accompagne Joseph en voyage d'affaires ; ils se rendent à Scythopolis, en Décapole. Là, Jésus s'enthousiasme tellement pour les attractions et les jeux païens que son père se met en colère et manque de le frapper. Jésus s'excuse, et l'affaire n'est plus jamais évoquée.
 
-<a name="05_juin"> **JUIN**
+<a name="Jun_05"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1884,7 +1884,7 @@ Notes : Jésus retourne à ses études lorsque sa mère commence à se sentir mi
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 
-<a name= "Mar_06"> </a> **MARS**
+<a name= "Mar_06"></a> **MARS**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -1917,7 +1917,7 @@ Notes : Jésus retourne à ses études lorsque sa mère commence à se sentir mi
 
 Au milieu de l'année, Jésus accompagne Joseph en voyage d'affaires ; ils se rendent à Scythopolis, en Décapole. Là, Jésus s'enthousiasme tellement pour les attractions et les jeux païens que son père se met en colère et manque de le frapper. Jésus s'excuse, et l'affaire n'est plus jamais évoquée.
 
-<a name="06_juin"> **JUIN**
+<a name="Jun_06"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2007,7 +2007,7 @@ Notes : Bien d’autres événements se produisirent cette année-là. D’abord
 
 9, Naissance d'Amos
 
-<a name="07_févr"></a> **FÉVRIER**
+<a name="Feb_07"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2052,7 +2052,7 @@ Tout d'abord, il reçoit une annonce publique annonçant la fin de ses études. 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="07_juin"> **JUIN**
+<a name="Jun_07"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2136,7 +2136,7 @@ Tout d'abord, il reçoit une annonce publique annonçant la fin de ses études. 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |    |
 
-<a name="08_févr"></a> **FÉVRIER**
+<a name="Feb_08"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2177,7 +2177,7 @@ Tout d'abord, il reçoit une annonce publique annonçant la fin de ses études. 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="08_juin"> **JUIN**
+<a name="Jun_08"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2265,7 +2265,7 @@ Le 25, triste jour. Joseph meurt dans un accident du travail. Il travaillait sur
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="09_févr"></a> **FÉVRIER**
+<a name="Feb_09"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2307,7 +2307,7 @@ Le 25, triste jour. Joseph meurt dans un accident du travail. Il travaillait sur
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="09_juin"> **JUIN**
+<a name="Jun_09"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2404,7 +2404,7 @@ Trouvez le texte dans le livre d'Enoch où il parle du Fils de l'Homme.
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="10_févr"></a> **FÉVRIER**
+<a name="Feb_10"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2449,7 +2449,7 @@ Simon entre à l'école. Jésus enseigne à ses jeunes sœurs, mais en secret, c
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="Jun_10"> **JUIN**
+<a name="Jun_10"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2472,7 +2472,7 @@ Simon entre à l'école. Jésus enseigne à ses jeunes sœurs, mais en secret, c
 
 Un professeur de mathématiques de Damas arriva à cette époque et s'entretint longuement avec lui pendant plusieurs jours. Jésus s'intéressa vivement aux sciences numériques.
 
-<a name="Aug_10"> **AOÛT**
+<a name="Aug_10"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2583,7 +2583,7 @@ Un homme nommé Isaac, riche et usurier, apparut dans le village et proposa à J
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="11_juin"> **JUIN**
+<a name="Jun_11"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2714,7 +2714,7 @@ Voyage de Jésus et Jacques à Jérusalem, à l'occasion de leur majorité. Ils 
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="Jun_12"> **JUIN**
+<a name="Jun_12"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2852,7 +2852,7 @@ Jésus convainc Marie de ses nouvelles méthodes d'enseignement, et tous deux me
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="13_juin"> **JUIN**
+<a name="Jun_13"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -2983,7 +2983,7 @@ Jésus se rend à Béthanie pour la Pâque et la passe chez Lazare. La mère de 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |    |    |    |
 
-<a name="14_juin"> **JUIN**
+<a name="Jun_14"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3006,7 +3006,7 @@ Jésus se rend à Béthanie pour la Pâque et la passe chez Lazare. La mère de 
 
 Jean (le Baptiste) quitte la ville de Juda pour Hébron. Il vit comme berger, gardant les troupeaux et les récoltes de la congrégation d'En-Guédi, qu'il fréquente plus souvent qu'Hébron.
 
-<a name="Aug_14"> **AOÛT**
+<a name="Aug_14"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3115,7 +3115,7 @@ Voyage de Jésus à Jérusalem avec le petit Joseph. Il séjourne à Béthanie a
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="15_juin"> **JUIN**
+<a name="Jun_15"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3244,7 +3244,7 @@ Simon termina ses études et devint apprenti chez Jacques le Maçon, ami de Jés
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="16_juin"> **JUIN**
+<a name="Jun_16"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3266,7 +3266,7 @@ Réunion de famille. Jésus confie la direction de la maison à son frère Jacqu
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Aug_16"> **AOÛT**
+<a name="Aug_16"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3334,7 +3334,7 @@ Le groupe de forgerons où Jésus travaille à Sepphoris accepte de participer �
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="17_févr"></a> **FÉVRIER**
+<a name="Feb_17"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3378,7 +3378,7 @@ Jésus emmène le petit Simon à Pâques. À Philadelphie, ils rencontrent un ma
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="17_juin"> **JUIN**
+<a name="Jun_17"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3509,7 +3509,7 @@ La semaine après Pâques, un jeune homme d'Alexandrie arrive à Nazareth pour o
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |    |    |    |    |    |
 
-<a name="18_juin"> **JUIN**
+<a name="Jun_18"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3531,7 +3531,7 @@ Au milieu de l'année, Jésus rencontre les hommes d'Alexandrie et écoute leurs
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="Aug_18"> **AOÛT**
+<a name="Aug_18"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3647,7 +3647,7 @@ Jésus, vu la bonne situation de la famille, décide d'emmener Juda à Jérusale
 
 Jésus a eu une longue conversation avec Juda, mais son succès à rediriger le garçon impétueux n’a été que partiel.
 
-<a name="19_juin"> **JUIN**
+<a name="Jun_19"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3670,7 +3670,7 @@ Jésus est un véritable enchantement pour les enfants. De cette époque, on ret
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="Aug_19"> **AOÛT**
+<a name="Aug_19"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3777,7 +3777,7 @@ Cette année-là, les accès de violence de Juda atteignirent un tel degré d'in
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="June_20"> **JUIN**
+<a name="Jun_20"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3871,7 +3871,7 @@ Notes : Le lendemain du mariage, un événement très émouvant se produisit : J
 
 19, Jésus quitte le village un dimanche matin pluvieux, en direction de Tibériade ou de Tibériade ; 20-26 Il reste à Tibériade ; 21 Il se dirige vers Bethsaïde, visitant Magdala en chemin, et de là passe la nuit à Nahum où il rend visite à la famille Zébédée. Dès lors, les membres de cette famille développent une admiration pour Jésus. Zébédée père propose à Jésus un travail de constructeur de bateaux, et il accepte. Il travaille pendant un peu plus d'un an et devient un constructeur de bateaux renommé à Capharnaüm grâce à un nouveau système révolutionnaire de cuisson à la vapeur des planches qu'il a mis au point. Pendant ce temps, il part aussi occasionnellement à la pêche.
 
-<a name="21_févr"></a> **FÉVRIER**
+<a name="Feb_21"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -3914,7 +3914,7 @@ Durant cette année, Jésus fréquenta de nombreuses personnes. Il s'intéressai
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="21_juin"> **JUIN**
+<a name="Jun_21"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4005,7 +4005,7 @@ Jésus réalise de plus en plus qui il est réellement ; pendant ce temps, nous 
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |    |
 
-<a name="22_févr"></a> **FÉVRIER**
+<a name="Feb_22"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4052,7 +4052,7 @@ Arrivée de la famille de Zébédée ; Jésus célébra le repas de Pâques avec
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="22_juin"> **JUIN**
+<a name="Jun_22"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4138,7 +4138,7 @@ Le 17, la mère de John, Élisabeth, décéda. Sa famille l'enterra et informa J
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
-<a name="23_févr"></a> **FÉVRIER**
+<a name="Feb_23"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4178,7 +4178,7 @@ Le 17, la mère de John, Élisabeth, décéda. Sa famille l'enterra et informa J
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="23_juin"> **JUIN**
+<a name="Jun_23"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4266,7 +4266,7 @@ Français : Note : Le voyage à travers la Méditerranée avait l'itinéraire su
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="24_févr"></a> **FÉVRIER**
+<a name="Feb_24"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4312,7 +4312,7 @@ Au début, double mariage : Simon et Juda se marient.
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="24_juin"> **JUIN**
+<a name="Jun_24"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4419,7 +4419,7 @@ Note : Durant ces mois, Jésus fit un voyage en caravane. Ils se dirigèrent ver
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |    |    |    |    |
 
-<a name="25_févr"></a> **FÉVRIER**
+<a name="Feb_25"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4454,7 +4454,7 @@ Jean quitta En-Guédi pour commencer sa carrière de prédicateur. Il longea la 
 
 1 Jésus retourne à Capharnaüm avec la caravane ; 1-4 Visite sa famille à Capharnaüm ; 5-10 Visite sa mère à Nazareth ; jusqu'au 14 À Capharnaüm, chez la famille de Zébédée ; 15 Départ pour Tyr, où il passe la nuit ; 16 Marche vers Sidon, où il arrive cette nuit-là et reste jusqu'au 18 ; 19 Départ pour Antioche en bateau, arrivant le 22, faisant plusieurs escales le long de la côte. Il reste à Antioche pendant plus de deux mois, jusqu'au 28 juin, travaillant, observant, étudiant et exerçant un ministère personnel auprès des personnes qu'il rencontre.
 
-<a name="25_mai"></a> **MAI**
+<a name="May_25"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4466,7 +4466,7 @@ Jean quitta En-Guédi pour commencer sa carrière de prédicateur. Il longea la 
 
 Une délégation de Lévites arrive à Béthabara pour interroger Jean.
 
-<a name="25_juin"> **JUIN**
+<a name="Jun_25"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4570,7 +4570,7 @@ Jean arrive à Pella. Sa renommée se répand également dans toute la Galilée.
 
 12, samedi. Jésus officie dans la synagogue de Capharnaüm ; puis il rencontre ses deux frères, Jacques et Juda, pour discuter du baptême de Jean, car ils étaient déterminés à y aller. 13, Ce dimanche-là, Jésus a différé sa réponse. Mais ce jour-là, un événement important se produit : Jésus décide que le moment est venu de commencer sa mission. Ils se rendent chez Jean. Ils passent la nuit à un gué du Jourdain. 14, Tous trois sont baptisés par Jean, et les événements incroyables de ce jour-là se produisent. Juste après le baptême, Jésus part pour la montagne. La nouvelle de ce qui s'est passé ce jour-là et les rumeurs à son sujet font augmenter la foule à la recherche du nouveau Messie. Mais ils ne peuvent pas le voir, car Jésus voyage pendant environ quarante jours.
 
-<a name="26_févr"></a> **FÉVRIER**
+<a name="Feb_26"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4606,7 +4606,7 @@ Jean arrive à Pella. Sa renommée se répand également dans toute la Galilée.
 
 Jean, durant son séjour de plusieurs semaines à Adam, lança son attaque contre Hérode Antipas.
 
-<a name="26_mai"></a> **MAI**
+<a name="May_26"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4616,7 +4616,7 @@ Jean, durant son séjour de plusieurs semaines à Adam, lança son attaque contr
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 |    |    |
 
-<a name="Jun_26"> **JUIN**
+<a name="Jun_26"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4640,7 +4640,7 @@ Jean à Béthabara ; 12, Jean est arrêté ; ses disciples se dispersent, vont e
 
 7, Les apôtres reviennent. Pendant la prédication, ils avaient choisi six autres élus : Matthieu, Thomas, Jacques, Judas, Simon et Iscariote. 8, Jésus et les six passent cette journée ensemble. 9, Dîner chez Matthieu. 10, Ils rendent visite aux jumeaux à Chérésa. 11, Ils rendent visite à Thomas à Tarichée. 12, Jésus passe la journée en retraite et se joint à eux pour dîner. 13, Ce samedi-là, ils planifient leur ministère. 14-20, Une semaine de formation intensive pour les apôtres. 21-3 août. Deux semaines de travail sur le lac pour subvenir aux besoins de leurs familles. À partir de ce moment et jusqu'à la fin de l'année, ils alternaient toutes les deux semaines entre le travail sur le lac et le ministère personnel dans les villages voisins de Capharnaüm, Bethsaïde-Julias, Chorazin, Gérasa, Hippos, Magdala, Cana, Bethlem, Jotapatha, Rama, Safed, Gishchala, Gadara et Abila. Toutes les deux semaines, Jésus prêchait avec chacun des deux apôtres.
 
-<a name="Aug_26"> **AOÛT**
+<a name="Aug_26"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4708,7 +4708,7 @@ Notes : Durant les mois de mars, avril, mai et juin, Jésus et les six apôtres 
 
 Le ministère personnel et le travail des apôtres continuent jusqu'à ce que, finalement, le 12, Jésus rassemble les apôtres pour son ordination. 13-14 Ministère des apôtres ; 15, Jour de repos ; 16-18 Trois autres jours d'enseignements (enseignements du jeudi au lac) et 18 Samedi Consécration des apôtres ; 19 Ils quittent Bethsaïde et passent la nuit à Tarichée ; 20 Ils arrivent près de Pella, où Jésus a été baptisé. Ils y restent plus de deux semaines à prêcher. Vers le 25, de nombreuses personnes commencent à arriver au camp.
 
-<a name="27_févr"></a> **FÉVRIER**
+<a name="Feb_27"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4745,7 +4745,7 @@ Il prêche à Amathus pendant trois semaines. 26, Il voyage avec les disciples j
 
 1-5, Ils restent à Béthanie ; 6, Ils descendent à Jérusalem pour la Pâque. Ils rendent visite à Anne et ne sont pas accueillis. Le reste du mois d'avril est consacré à l'enseignement au Temple.
 
-<a name="27_mai"></a> **MAI**
+<a name="May_27"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4757,7 +4757,7 @@ Il prêche à Amathus pendant trois semaines. 26, Il voyage avec les disciples j
 
 À Bethléem, Hébron et dans les villages environnants. Également à En-Guédi avec Abner.
 
-<a name="27_juin"> **JUIN**
+<a name="Jun_27"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4856,7 +4856,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 10, Jean est exécuté par Hérode. Son corps est enterré à Sébaste. Le 12, les disciples de Jean partent pour rejoindre Jésus à Pella, où ils arrivent le soir. 13, Jésus et les disciples se rendent à Capharnaüm et séjournent chez Zébédée. La prédication commence alors sérieusement. 14, 15 et 16, Jésus donne des instructions à ses apôtres pour leur tournée de prédication. Le 16, au matin, la récolte du poisson ; l'après-midi, une entrevue avec Ruth ; le 17, samedi, prédication à la synagogue ; puis la prétendue guérison du garçon possédé et de la belle-mère de Pierre ; le soir, Jésus accomplit un véritable miracle : la guérison de 683 malades. Le 18, Jésus congédie la foule en quête de nouveaux miracles et part dans l'après-midi pour Rimmon. Ils prêchèrent pendant deux mois dans les villages de Rimmon, Jotapatha, Rama, Zabulon, Iron, Gishchal, Chorazin, Madon, Cana, Naïn et En-Dor. Ils s'arrêtèrent quelques jours pour prêcher dans ces villages, ainsi que dans d'autres plus petits lors de leur passage.
 
-<a name="28_févr"></a> **FÉVRIER**
+<a name="Feb_28"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4890,7 +4890,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 2, Ils arrivent à Béthanie, mais doivent se cacher de la foule à Gethsémané. 10, À la piscine de Béthesda, l'après-midi, ils enseignent la règle de vie. La dernière semaine, ils partent pour la Galilée, se séparant du groupe des disciples de Jean, conduits par Abner. Prédication à Béthesda ; trois jours à Amathonte.
 
-<a name="28_mai"></a> **MAI**
+<a name="May_28"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4903,7 +4903,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 1, Ils continuent leur voyage vers Capharnaüm, mais seulement sur la distance prescrite par la loi, en raison de la présence d'espions venus de Jérusalem ; 3, Ils arrivent à Bethsaïde en bateau depuis Tarichée ; 4, Ils prêchent (le thème du jeûne). Durant les mois de mai, juin, juillet, août et septembre, ils prêchent dans un camp de tentes dressé près de la maison de la famille Zébédée à Bethsaïde, où un hôpital pour les malades et une école de formation pour évangélistes ont également été fondés (un groupe de 117 évangélistes a été formé).
 
-<a name="28_juin"> **JUIN**
+<a name="Jun_28"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -4993,7 +4993,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 1, Jusqu'à ce jour, les groupes d'évangélistes restèrent ensemble à raconter leurs expériences. Ensuite, ils bénéficièrent de deux semaines de repos pour se consacrer à leurs devoirs. 16, Les disciples d'Abner arrivèrent et organisèrent une réunion avec l'ensemble des disciples. Dans l'après-midi, Jésus choisit un groupe de dix femmes (plus tard douze). 18, Les 75 évangélistes ayant passé avec succès le test d'expérience personnelle dans les villages rejoignirent le groupe de vingt-quatre. Ceux-ci furent envoyés pour la troisième tournée de prédication dans tous les villages. 22, Samedi à Tibériade
 
-<a name="29_févr"></a> **FÉVRIER**
+<a name="Feb_29"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5027,7 +5027,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 3, Voyage à Jérusalem depuis Bethsaïde via Gérasa et Philadelphie ; 6, le soir, arrivée à Béthanie ; 24, départ de Jérusalem pour Bethsaïde via Joppé, Césarée, Ptolémaïs, Rama et Chorazin ; 29, Arrivée à Bethsaïde ; 30, samedi, Jésus officie dans la synagogue
 
-<a name="29_mai"></a> **MAI**
+<a name="May_29"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5040,7 +5040,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 1-7, Jésus tient des consultations intimes avec ses disciples chez Zébédée ; 6, les autorités religieuses décident de fermer les portes de la synagogue de Capharnaüm à Jésus. 8, de toute la Palestine. Jésus accorde à ses disciples une semaine de congé ; 16, les autorités religieuses comparaissent devant Hérode à Tibériade ; 18, accord pour arrêter Jésus ; 21, Pilate donne son autorisation. Ce même sabbat, les chefs se réunissent à la synagogue de Capharnaüm ; 22, ils fuient Capharnaüm en bateau au moment où la famille de Jésus arrive, se dirigeant vers Chérésa ; puis ils se rendent à Césarée de Philippe, puis en Phénicie. 23, Jésus envoie Pierre avec les évangélistes à Chorazin. Ils y restent deux semaines. 24, Les autres arrivent à Césarée de Philippe. Ils y restent deux semaines.
 
-<a name="29_juin"> **JUIN**
+<a name="Jun_29"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5064,7 +5064,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 6, Ils retournent à Sidon et restent chez Justa jusqu'au 10, puis ils voyagent vers le sud et arrivent à Tyr le 11, 11-24, Enseignements à Tyr ; 24, Ils quittent Tyr et arrivent à Ptolémaïs, où ils passent une journée. 25, Pierre prêche la nuit. 26, Ils quittent Ptolémaïs et arrivent à Jotapatha, où ils restent ce jour-là et le 27, 28, Ils quittent Jotapatha et arrivent à Rama le 29, Ils y passent le sabbat. 31, Ils arrivent à Zabulon, y passent la nuit et repartent le lendemain.
 
-<a name="29_août"></a> **AOÛT**
+<a name="Aug_29"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5140,7 +5140,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 3 Mission envoyée en Pérée ; 1er janvier - 10 février Jésus prêche à Pella et fait quelques visites ; 28 Sermon mémorable à Pella
 
-<a name="30_févr"></a> **FÉVRIER**
+<a name="Feb_30"></a> **FÉVRIER**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5164,7 +5164,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 1 Voyage à Béthanie ; 2 Résurrection de Lazare ; 3 Réunion du Sanhédrin ; 6 Arrivée à Pella et enseignements à Pella ; 11 Sermon mémorable sur le Royaume des Cieux ; 13-28 De Pella, ils visitent la Pérée ; 29 À Livie ; 30 À Jéricho ; 31 Arrivée à Béthanie
 
-<a name="30_avr"></a> **AVRIL**
+<a name="Apr_30"></a> **AVRIL**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5176,7 +5176,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 1-6 Derniers jours à Jérusalem ; 7 Crucifixion ; 8 Le jour le plus triste de Pâques ; 9 Début des apparitions à Jérusalem et à Emmaüs ; 11 Apparition à Philadelphie ; 15 Seconde apparition aux apôtres ; 16 Les apôtres avec Jean Marc partent pour la Galilée ; 18 Apparition à Alexandrie ; 19 De nuit, les apôtres arrivent à Bethsaïde ; 21 Apparition de Jésus aux apôtres alors qu'ils pêchaient ; 22 Avec Jésus sur la montagne de l'Ordination ; 22-29 Ils restèrent à Bethsaïde en attente ; 29 Apparition de Jésus à plus de 500 frères ; 30 Les apôtres retournent à Jérusalem
 
-<a name="30_mai"></a> **MAI**
+<a name="May_30"></a> **MAI**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5188,7 +5188,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 3, à leur arrivée, ils sont accueillis par la triste nouvelle qu'Élie Marc est mort (il a eu un accident vasculaire cérébral) ; 4, assemblée générale au Cénacle ; 5, apparition de Jésus au jardin de Nicodème ; 13, apparition de Jésus au peuple de Sychar ; 16, apparition à Tyr ; 18, dernière apparition aux apôtres et ascension ; le matin, assemblée générale chez Marie Marc et élection de Matthias ; l'après-midi, arrivée de l'Esprit de Vérité et prédication glorieuse au Temple : c'est le début d'une ère nouvelle.
 
-<a name="30_juin"> **JUIN**
+<a name="Jun_30"></a> **JUIN**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5198,7 +5198,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |    |    |
 
-<a name="30_juillet"></a> **JUILLET**
+<a name="Jul_30"></a> **JUILLET**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5209,7 +5209,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |    |    |    |    |    |    |
 
-<a name="30_août"> **AOÛT**
+<a name="Aug_30"></a> **AOÛT**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -5250,7 +5250,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 |    |    |    |
 
-<a name="30_déc."></a> **DÉCEMBRE**
+<a name="Dec_30"></a> **DÉCEMBRE**
 
 | L    | M    | X    | J    | V    | S    | D    |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: |

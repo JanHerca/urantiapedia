@@ -121,7 +121,7 @@ No escasean los trabajos hechos por lectores que hacen una cronología de los he
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes" width="250">
 </figure>
 
-[**Amigos y residentes en Urantia (Olga López)**](/es/article/Olga_Lopez/Amigos_y_residentes_en_Urantia) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf))
+[**Amigos y residentes en Urantia (Olga López)**](/es/article/Olga_Lopez/Amigos_Y_Residentes_En_Urantia) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf))
 
 En muchos pasajes del libro, los reveladores nos hablan de seres que residen nuestro planeta y que no son mortales ascendentes como nosotros. Algunos de ellos están aquí pues eso es lo habitual en todos los mundos del tiempo y del espacio; otros están aquí por nuestra peculiar condición de mundo elegido para albergar el séptimo otorgamiento de nuestro Hijo Creador, y algunos más residen aquí como consecuencia de la rebelión de Lucifer. Este trabajo es de hecho un recuento, una lista de «los otros moradores de Urantia», que nos puede ayudar a ser conscientes de que no estamos tan abandonados como podríamos pensar.
 <br style="clear:both" />

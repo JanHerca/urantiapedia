@@ -133,7 +133,7 @@ But how is coexistence between the sexes experienced here below? How has feminin
 
 ## 3. The feminine “down here”
 
-## Duality
+### Duality
 
 We have two types of human beings: male and female, man and woman. We are not the only types of beings who have been created in two distinct variants. We mentioned before that, for example, seraphic pairs also manifest dual and complementary characteristics. And these characteristics have been divided into two variants to foster the creation of new, higher values: to add, not to subtract.
 

@@ -3,7 +3,7 @@ title: "Quelle est vraiment la taille d'Orvonton ?"
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
-tags: Astronomy, Cosmology
+tags: Astronomy, Cosmology, article
 editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
@@ -159,7 +159,7 @@ Et il y a encore plus !
 
 Il est étonnant de constater que nous avons ici une NOUVELLE INFORMATION SCIENTIFIQUE corroborante provenant de l'encyclopédie sur CD-ROM Grolier. (Copiée directement à partir du CD.) Elle dit :
 
-> « La masse totale de la Galaxie peut être mesurée en étudiant les mouvements des étoiles individuelles et des nuages ​​d’hydrogène gazeux dans différentes parties de la galaxie et en appliquant la MÉCANIQUE CÉLESTE pour calculer une masse totale qui tiendra compte des mouvements observés. La masse peut également être déterminée à partir des mouvements des petites galaxies satellites de la Galaxie, en particulier les galaxies naines elliptiques proches et les amas globulaires. Des calculs récents effectués par les deux méthodes s’accordent sur le fait que la masse de la Galaxie est peut-être de 1 000 à 2 000 milliards de fois la masse du Soleil. Comme la masse du Soleil est à peu près moyenne pour une étoile de la Galaxie, le nombre total d’étoiles doit également être de cet ordre. » [UB 15:4.8](/fr/Le_Livre_d_Urantia/15#p4_8)
+> « La masse totale de la Galaxie peut être mesurée en étudiant les mouvements des étoiles individuelles et des nuages ​​d’hydrogène gazeux dans différentes parties de la galaxie et en appliquant la MÉCANIQUE CÉLESTE pour calculer une masse totale qui tiendra compte des mouvements observés. La masse peut également être déterminée à partir des mouvements des petites galaxies satellites de la Galaxie, en particulier les galaxies naines elliptiques proches et les amas globulaires. Des calculs récents effectués par les deux méthodes s’accordent sur le fait que la masse de la Galaxie est peut-être de 1 000 à 2 000 milliards de fois la masse du Soleil. Comme la masse du Soleil est à peu près moyenne pour une étoile de la Galaxie, le nombre total d’étoiles doit également être de cet ordre. » [UB 15:4.8](/fr/The_Urantia_Book/15#p4_8)
 
 1 000 à 2 000 milliards de masses solaires représentent entre un et deux trillions de masses solaires. Bien que les « masses solaires » ne correspondent pas nécessairement à des étoiles, selon l'encyclopédie, le nombre total d'étoiles dans la Voie Lactée doit également être du même ordre ! Au lieu d'essayer de plier *Le Livre d'Urantia* pour répondre à la science, nous attendons simplement patiemment que la science change. C'est une évidence, comme le dit le dicton.
 
@@ -189,14 +189,14 @@ Des affirmations identiques peuvent être faites à propos de la Voie lactée. �
 
 Et une autre déclaration qui indique que la Voie Lactée est le noyau et le plus grand composant d'Orvonton est celle-ci,
 
-> « La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. » [UB 41:3.5](/fr/Le_Livre_d_Urantia/41#p3_5)
+> « La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. » [UB 41:3.5](/fr/The_Urantia_Book/41#p3_5)
 
 Cette supernova est bien sûr celle observée par Tycho Brahe. Elle a été localisée dans un bras spiral externe de la Voie Lactée, à quelque 15 000 années-lumière de distance, et non dans une galaxie lointaine, probablement dans les zones extra-atmosphériques.
 
 Au vu de toutes ces données convaincantes, il devrait être clair maintenant qu'une zone de l'espace d'environ 500 000 années-lumière de diamètre et centrée sur la Voie Lactée est en fait Orvonton.
 
 <figure class="image urantiapedia">
-<img src="/image/article/Quelle_est_la_taille_d'Orvonton/Orvonton_ViaLactea.jpg" width="600" heigth="890">
+<img src="/image/article/How_big_is_Orvonton/Orvonton_ViaLactea.jpg" width="600" heigth="890">
 <figcaption><em>Orvonton est-il la Voie Lactée ou quelque chose de plus grand ?</em></figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ Au vu de toutes ces données convaincantes, il devrait être clair maintenant qu
 
 *Le Livre d'Urantia* dit que,
 
-> « Satania n’est pas un système physique uniforme, une unité ou organisation astronomique simple,.. » [UB 32:2.10](/fr/Le_Livre_d_Urantia/32#p2_10)
+> « Satania n’est pas un système physique uniforme, une unité ou organisation astronomique simple,.. » [UB 32:2.10](/fr/The_Urantia_Book/32#p2_10)
 
 Mais s'il s'agissait d'un système physique uniforme, plus précisément s'il s'agissait d'un cube d'espace, et en supposant 2 000 étoiles et une moyenne de quatre années-lumière entre les étoiles dans notre région de la galaxie, il y aurait environ 50 années-lumière sur chaque bord, enfermant un volume d'environ 128 000 années-lumière cubes.
 
@@ -260,7 +260,7 @@ Finalement, *Le Livre d'Urantia*, nous disent les Révélateurs,
 
 * [Orvonton](/fr/topic/Orvonton_(superuniverse))
 * [Superunivers](/fr/topic/superuniverses)
-* [Voie Lactée](/fr/topic/Voie_Lactée_galaxie)
+* [Voie Lactée](/fr/topic/Milky_Way_galaxy)
 
 ## Liens externes
 

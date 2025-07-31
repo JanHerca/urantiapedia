@@ -56,13 +56,13 @@ Un planétarium double. Un planétarium doté d'un hémisphère en plus de celui
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_mente_humana_according_to_Bill_Sadler/001.jpg">
+<img src="/image/article/Spain_Association/La_mente_humana_segun_Bill_Sadler/001.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_mente_humana_according_to_Bill_Sadler/002.jpg">
+<img src="/image/article/Spain_Association/La_mente_humana_segun_Bill_Sadler/002.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -72,7 +72,7 @@ Un planétarium double. Un planétarium doté d'un hémisphère en plus de celui
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Spain_Association/La_mente_humana_according_to_Bill_Sadler/003.jpg">
+<img src="/image/article/Spain_Association/La_mente_humana_segun_Bill_Sadler/003.jpg">
 </figure>
 
 <br style="clear:both;"/>

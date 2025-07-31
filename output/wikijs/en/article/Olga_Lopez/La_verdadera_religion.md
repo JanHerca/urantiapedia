@@ -31,7 +31,7 @@ One of the most important concepts of LU is undoubtedly that of religion, true r
 
 True religion is one that truly elevates our spirit, and doesn't chain it with useless dogmas and rituals. The best religion is personal experience, each person's faith.
 
-In document 5, which deals with the relationship of God with individuals, I would highlight this paragraph:
+In paper 5, which deals with the relationship of God with individuals, I would highlight this paragraph:
 
 > _Moral conduct is always an antecedent of evolved religion and a part of even revealed religion, but never the whole of religious experience. Social service is the result of moral thinking and religious living. Morality does not biologically lead to the higher spiritual levels of religious experience. The adoration of the abstract beautiful is not the worship of God; neither is exaltation of nature nor the reverence of unity the worship of God._ [UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
 
@@ -51,11 +51,11 @@ In LU, it is often stated that religious experience is personal and therefore no
 
 Religions as institutions were necessary at one stage in the spiritual development of the human species, but it's time we cast aside those “crutches” and began to walk on our own, to begin seeking God through personal experience, focusing on how we live our filiation with God. I remember a comment in this regard from a “Urantian” friend; he said that the word “God” had too many Judeo-Christian connotations for him, and that's why he preferred to call Him “Father.”
 
-In document 86, “The Primitive Evolution of Religion,” we find this paragraph on the evolution of religion and rituals:
+In paper 86, “The Primitive Evolution of Religion,” we find this paragraph on the evolution of religion and rituals:
 
 > _Industry, war, slavery, and civil government arose in response to the social evolution of man in his natural environment; religion similarly arose as his response to the illusory environment of the imaginary ghost world. Religion was an evolutionary development of self-maintenance, and it has worked, notwithstanding that it was originally erroneous in concept and utterly illogical._ [UB 86:7.5](/en/The_Urantia_Book/86#p7_5)
 
-In document 89, “Sin, Sacrifice, and Atonement,” we find these paragraphs on rituals and ceremonies in general:
+In paper 89, “Sin, Sacrifice, and Atonement,” we find these paragraphs on rituals and ceremonies in general:
 
 > _The human sacrifice, throughout the course of the evolution of Urantian rituals, has advanced from the bloody business of man-eating to higher and more symbolic levels. The early rituals of sacrifice bred the later ceremonies of sacrament. In more recent times the priest alone would partake of a bit of the cannibalistic sacrifice or a drop of human blood, and then all would partake of the animal substitute. These early ideas of ransom, redemption, and covenants have evolved into the later-day sacramental services. And all this ceremonial evolution has exerted a mighty socializing influence._ [UB 89:9.1](/en/The_Urantia_Book/89#p9_1)
 
@@ -63,9 +63,9 @@ In document 89, “Sin, Sacrifice, and Atonement,” we find these paragraphs on
 
 Another concept repeatedly emphasized in the Book is that of living faith, as opposed to the blind faith inherent in obedience to a religious institution. Anyone who reads the Book of Truth and makes it a part of their life feels their faith grow stronger every day, immerses themselves fully in the search for Truth, and finds themselves at peace with themselves and with the world. Reading the Book of Truth makes us see the world through different eyes; it broadens our perspective, and this makes many seemingly irrational and abominable things meaningful, allowing us to glimpse the purpose of seemingly arbitrary suffering and evil.
 
-In the penultimate document of the LU, number 195, entitled “After Pentecost,” a series of extremely interesting reflections are made on the future of Christianity. This document states that, after Jesus' resurrection, the error of creating a religion “appropriate” to Jesus was made, emphasizing his divine character and neglecting his earthly life. Too much importance was given to the supposedly supernatural nature of his resurrection, when according to the LU, the only “supernatural” aspect was that his body decomposed much more rapidly than that of any other person, in order to spare millions of heavenly beings the sad spectacle of the slow putrefaction of his mortal body.
+In the penultimate paper of the LU, number 195, entitled “After Pentecost,” a series of extremely interesting reflections are made on the future of Christianity. This paper states that, after Jesus' resurrection, the error of creating a religion “appropriate” to Jesus was made, emphasizing his divine character and neglecting his earthly life. Too much importance was given to the supposedly supernatural nature of his resurrection, when according to the LU, the only “supernatural” aspect was that his body decomposed much more rapidly than that of any other person, in order to spare millions of heavenly beings the sad spectacle of the slow putrefaction of his mortal body.
 
-This document also states that the true message of Jesus remains latent in Christianity, and that nothing and no one will be able to completely erase it. In fact, it affirms that it is only a matter of time before humanity understands the message He came to bring us: that we are all children of the Father (and therefore brothers and sisters), and that we will obtain the most precious spiritual treasures by consciously doing His will according to our free will.
+This paper also states that the true message of Jesus remains latent in Christianity, and that nothing and no one will be able to completely erase it. In fact, it affirms that it is only a matter of time before humanity understands the message He came to bring us: that we are all children of the Father (and therefore brothers and sisters), and that we will obtain the most precious spiritual treasures by consciously doing His will according to our free will.
 
 I often wonder if the day is near when humanity will fully understand the message of Jesus of Nazareth. I suppose it is an indispensable condition for the Church to undergo a profound internal transformation.
 
@@ -89,7 +89,7 @@ Regarding the conflict between religions, I am reprinting here a fragment of an 
 
 It seems inconceivable that, in the 21st century, evolutionary religions have not been completely replaced by the religion of personal experience. That there are still people who believe that “their” God wants them to dress a certain way or that they must blindly believe what a supposedly “holy” book says.
 
-More or less related to this, there is a fact that is narrated in document 132 of the Book, “The Stay in Rome”:
+More or less related to this, there is a fact that is narrated in paper 132 of the Book, “The Stay in Rome”:
 
 > _Jesus, Gonod, and Ganid made five trips away from Rome to points of interest in the surrounding territory. On their visit to the northern Italian lakes Jesus had the long talk with Ganid concerning the impossibility of teaching a man about God if the man does not desire to know God. They had casually met a thoughtless pagan while on their journey up to the lakes, and Ganid was surprised that Jesus did not follow out his usual practice of enlisting the man in conversation which would naturally lead up to the discussion of spiritual questions. When Ganid asked his teacher why he evinced so little interest in this pagan, Jesus answered:_
 >

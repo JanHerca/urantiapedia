@@ -120,7 +120,7 @@ Les Soixante-dix, ainsi que de nombreux autres membres du Forum, furent les prem
 
 **8 août** — Décès du Dr Lena Sadler.
 
-<ins>Note de l'éditeur</ins> : Il est regrettable que nous ne disposions pas de plus d'informations sur la vie du Dr Lena Sadler. Elle fut apparemment la première à reconnaître l'importance des informations révélées par le « sujet endormi », et elle poursuivit le projet lorsque le Dr William S. Sadler fut sur le point de l'abandonner. Sa vie fut marquée par la tragédie de la perte prématurée de sa fille. On raconte qu'elle devint inconsolable et porta le deuil pendant des années, jusqu'à ce qu'elle trouve un peu de réconfort dans l'adoption d'Emma Christensen. Plus tard, elle souffrit d'un cancer du sein apparent et, suite à une mastectomie ratée, dut être amputée d'un bras. Cependant, elle conserva son enthousiasme et son dévouement pour le projet jusqu'à ce que le cancer mette fin à sa carrière humaine. À son départ pour les mondes des maisons, elle avait récolté plus de 20 000 dollars pour le projet de publication. Une personne m’a dit : « Si quelqu’un dans ce groupe (les membres du comité de contact) était un réserviste du destin, c’était le Dr Lena Sadler. »
+<ins>Note de l'éditeur</ins>: Il est regrettable que nous ne disposions pas de plus d'informations sur la vie du Dr Lena Sadler. Elle fut apparemment la première à reconnaître l'importance des informations révélées par le « sujet endormi », et elle poursuivit le projet lorsque le Dr William S. Sadler fut sur le point de l'abandonner. Sa vie fut marquée par la tragédie de la perte prématurée de sa fille. On raconte qu'elle devint inconsolable et porta le deuil pendant des années, jusqu'à ce qu'elle trouve un peu de réconfort dans l'adoption d'Emma Christensen. Plus tard, elle souffrit d'un cancer du sein apparent et, suite à une mastectomie ratée, dut être amputée d'un bras. Cependant, elle conserva son enthousiasme et son dévouement pour le projet jusqu'à ce que le cancer mette fin à sa carrière humaine. À son départ pour les mondes des maisons, elle avait récolté plus de 20 000 dollars pour le projet de publication. Une personne m’a dit : « Si quelqu’un dans ce groupe (les membres du comité de contact) était un réserviste du destin, c’était le Dr Lena Sadler. »
 
 Les premières ébauches de la Déclaration de Confiance et de la Constitution de la Fraternité furent rédigées. Les plans originaux, soumis à l'approbation de leurs associés célestes par les membres du comité de contact, furent renvoyés avec le commentaire suivant : « Ne pourriez-vous pas faire mieux ? »
 
@@ -139,8 +139,6 @@ Certaines sources anecdotiques affirment que le livre était prêt à être publ
 Bill Sadler aurait déclaré avoir engagé un avocat spécialisé en droit d'auteur, John Denier (son nom peut être vérifié), lorsqu'ils ont découvert les problèmes de paternité lors de l'enregistrement. Ils ont décidé de voir si l'utilisation de « Fondation Urantia » comme auteur fonctionnerait, et c'est ce qui s'est passé. Le bureau du droit d'auteur ne vérifie pas la validité des demandes et ne contrôle pas les œuvres enregistrées. Apparemment, les membres de la Commission de contact ont reçu des messages administratifs jusqu'aux instructions « finales » de 1954, lorsque le contact a été rompu et que tous les révélateurs sont retournés dans leurs lieux d'origine ou assignés. Le message était : « Vous êtes désormais livrés à vous-mêmes. »
 
 (Traducteur anglais : Antonio Moya)
-
-
 
 
 

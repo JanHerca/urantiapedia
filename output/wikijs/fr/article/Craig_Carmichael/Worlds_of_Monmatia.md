@@ -191,7 +191,7 @@ Comme vous pouvez le constater, Martin Gardner s'est vanté trop tôt dans sa cr
 - [Article original sur le site Web de la Urantia Book Fellowship](https://archive.urantiabook.org/archive/science/Worlds_of_Monmatia1.htm)
 - [Cet article est sur le site Web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
 
-<figure class="table chapitre-navigateur">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -243,7 +243,7 @@ Comme vous pouvez le constater, Martin Gardner s'est vanté trop tôt dans sa cr
 
 [^16]: _Note du traducteur_: Au moment de la rédaction de cet article, la sonde Cassini et la sonde Huygens effectuaient leur voyage de 7 ans vers Saturne. La sonde Huygens s'est finalement séparée de son porteur, Cassini, le 25 décembre 2004 et a atterri sur Titan le 14 janvier 2005. Outre le tournage de quelques brèves secondes de la descente, elle a fourni des données précieuses pour la compréhension de cette lune. Son atmosphère produit des pluies de méthane liquide et possède des lacs et des rivières de méthane qui érodent le paysage. Il y fait extrêmement froid (-180 °C) et subit des vents violents de 60 à 100 km/h. La surface solide semble être constituée de substances argileuses spongieuses.
 
-[^17]: _Note du traducteur_: Le Livre d'Urantia ne précise pas si l'avenir du Soleil est, comme le prédit la science, en expansion jusqu'à atteindre l'orbite terrestre. Voir le rapport [«Le Soleil et sa destinée»](/fr/article/Jan_Herca/Le_Soleil_et_sa_destinée).
+[^17]: _Note du traducteur_: Le Livre d'Urantia ne précise pas si l'avenir du Soleil est, comme le prédit la science, en expansion jusqu'à atteindre l'orbite terrestre. Voir le rapport [«Le Soleil et sa destinée»](/fr/article/Jan_Herca/The_Sun_and_its_destiny).
 
 [^18]: [LU 15:6.15](/fr/The_Urantia_Book/15#p6_15). « Dans votre superunivers, il n’y a pas une planète froide sur quarante qui soit habitable par des êtres de votre ordre. »
 
@@ -251,4 +251,4 @@ Comme vous pouvez le constater, Martin Gardner s'est vanté trop tôt dans sa cr
 
 [^20]: Batygin, Konstantin; Brown, Michael E. _Preuve de l'existence d'une planète géante lointaine dans le système solaire_. _The Astronomical Journal_ Jan 2016, 151 (2): 22.
 
-[^21] : [Wikipédia : Planète Neuf](https://es.wikipedia.org/wiki/Planeta_Nueve)
+[^21]: [Wikipédia : Planète Neuf](https://es.wikipedia.org/wiki/Planeta_Nueve)

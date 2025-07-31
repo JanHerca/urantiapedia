@@ -132,7 +132,7 @@ Mais comment la coexistence entre les sexes est-elle vécue ici-bas ? Comment la
 
 ## 3. Le féminin « ici-bas »
 
-## Dualité
+### Dualité
 
 Nous avons deux types d'êtres humains : l'homme et la femme, l'homme et la femme. Nous ne sommes pas les seuls à avoir été créés selon deux variantes distinctes. Nous avons déjà mentionné que, par exemple, les couples séraphiques présentent également des caractéristiques duales et complémentaires. Ces caractéristiques ont été divisées en deux variantes pour favoriser la création de valeurs nouvelles et supérieures : l'addition, et non la soustraction.
 

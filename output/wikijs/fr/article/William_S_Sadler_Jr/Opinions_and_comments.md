@@ -49,7 +49,7 @@ J'aimerais vous lire quelque chose :
 
 \1. Le courage, la force de caractère, est-il souhaitable ? Alors…
 
-(Et Sadler leur a lu les 9 points des « inévitabilités ». Puis il a dit :)
+(Et Sadler leur a lu les 9 points des « inévitabilités ». Puis il a dit) :
 
 Pensez au mot le plus important que vous connaissez. Je dirais que ce mot est « réalité ». Je ne vois pas de mot plus fort que « réalité ». « Ce qui est réel ». Subdivisons « réalité ». Je veux mettre trois colonnes sous ce mot. Et je veux mettre des sous-titres sous chacune de ces colonnes. Et ces trois sous-titres sont : Choses, Significations et Valeurs.
 
