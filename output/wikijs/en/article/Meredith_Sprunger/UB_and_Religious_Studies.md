@@ -3,12 +3,12 @@ title: "The Urantia Book and Religious Studies"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i><br>© 1991 <i>The Urantia Book</i> Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -20,12 +20,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spiritual Fellowship Journal — Spring 1991 — First Issue — Index</span>
         </a>
         </td>
         <td>
         <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
           <span class="pr-2">The Mathematics of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Perspectives for a New Age</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">The Imperative of Outreach Ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -120,6 +143,13 @@ _The Urantia Book_ Description of the Supreme Being Compared with Whitehead's Co
 
 These are only a few of dozens of topics which are inspired by the stimulating and innovative material found in _The Urantia Book_. When scholars of religion finally discover the rich mine of religious material in _The Urantia Book_, the creative parameters of research will be greatly expanded. Kenneth Boulding in _The Meaning of the Twentieth Century_, Alvin Toffler in _The Third Wave_, John Naisbitt in _Megatrends_, Fritjof Capra in _The Turning Point_, and many other prophetic voices have pointed out that we are entering a major transitional change in the history of our planet. We desperately need spiritual foundations which are large enough, solid enough, and have the visionary potential to give stability and guidance to the new age which is struggling to be born. I believe _The Urantia Book_ has the greatest potential for serving in this capacity of any philosophical-religious resource now available to humankind. $\square$
 
+
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -137,6 +167,29 @@ These are only a few of dozens of topics which are inspired by the stimulating a
         <td>
         <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
           <span class="pr-2">The Mathematics of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Perspectives for a New Age</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">The Imperative of Outreach Ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -3,7 +3,7 @@ title: "Pionniers du Nouvel Âge"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_World_Mission_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission mondiale du Livre d'Urantia</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="pr-2">Le don de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Je voudrais attirer votre attention sur une déclaration faite par le prophète de l’Ancien Testament Habacuc ([1:5](/fr/Bible/Habakkuk/1#v5)), « Regardez, il y a un travail qui se fait dans vos jours qui vous étonnera et que vous ne ferez pas. croyez quand cela vous est dit. Nous vivons à nouveau à une époque où des choses étonnantes sont accomplies par l’esprit de Dieu dans notre monde.
@@ -96,7 +118,10 @@ Chacun de nous doit trouver la réponse à cette question dans le calme de son �
 > _Meredith Sprunger est un pasteur à la retraite de l'UCC et professeur d'université qui a travaillé pendant plus de cinquante ans pour interagir avec le clergé principal. Il est le fondateur et le premier rédacteur en chef du Spiritual Fellowship Journal, et actuellement rédacteur associé._
 {.is-info}
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_pioneers_in_new_age.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -115,6 +140,29 @@ Chacun de nous doit trouver la réponse à cette question dans le calme de son �
         <td>
         <a href="/fr/article/Stan_Hartman/Fusion_Power">
           <span class="pr-2">Puissance de fusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_World_Mission_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission mondiale du Livre d'Urantia</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="pr-2">Le don de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

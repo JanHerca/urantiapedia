@@ -3,12 +3,35 @@ title: "The Origin of The Urantia Book"
 description: "The Meredith J. Sprunger Archive"
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Authorship, article
+tags: The Urantia Book, The Urantia Book—Authorship, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Meredith J. Sprunger<br>© 1979 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Meredith J. Sprunger<br>© 1979 <i>The Urantia Book</i> Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Leavening_Our_Religious_Heritage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leavening Our Religious Heritage</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Universe_Christology_A_Transplanetary_Theory">
+          <span class="pr-2">Universe Christology: A Transplanetary Theory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 4/79 Revised 12/97
 
@@ -39,7 +62,7 @@ Dr. Sadler candidly discussed any question we asked him, but he would not talk a
 1. “The main reason for not revealing the identity of the contact personality is that the revelators do not want any human being—any human name—ever to be associated with _The Urantia Book_. They want this revelation to stand on its own declarations and teachings. They are determined that future generations shall have the book wholly free of all mortal connections—they do not want a St. Peter, St. Paul, Luther, Calvin, or Wesley. The book does not even bear the name or any mark of the printer who brought the book into being.”
 2. “There is much about the appearance of the Urantia papers which no human being fully understands. No one really knows just how this phenomenon was executed. There are numerous missing links in the story of how this revelation came to appear in written English. If anyone should tell all he really knows about this technique and the methods employed in getting this revelation, such a narration would satisfy no one, there are too many missing links.”
 
-Our group of ministers discovered a possible reference to the individual somehow involved in the materialization of _The Urantia Book_. It is found in the appendix of Sadler's book, _The Mind at Mischief,_ published in 1929. He says, _“Eighteen years of study and careful investigation have failed to reveal the psychic origin of these messages. I find myself at the present time just where I was when I started. Psychoanalysis, hypnotism, and intensive comparison fail to show that the written or spoken messages of this individual have origin in his own mind. Much of the material secured through this subject is quite contrary to his habit of thought, to the way in which he has been taught, and to his entire philosophy. In fact, of much that we have secured, we have failed to find anything of its nature in existence. Its philosophic content is quite new, and we are unable to find where very much of it has ever found human expression.”_ (p. 383)
+Our group of ministers discovered a possible reference to the individual somehow involved in the materialization of _The Urantia Book_. It is found in the appendix of Sadler's book, _The Mind at Mischief,_ published in 1929. He says, _“Eighteen years of study and careful investigation have failed to reveal the psychic origin of these messages. I find myself at the present time just where I was when I started. Psychoanalysis, hypnotism, and intensive comparison fail to show that the written or spoken messages of this individual have origin in his own mind. Much of the material secured through this subject is quite contrary to his habit of thought, to the way in which he has been taught, and to his entire philosophy. In fact, of much that we have secured, we have failed to find anything of its nature in existence. Its philosophic content is quite new, and we are unable to find where very much of it has ever found human expression.”_ ([p. 303](/en/book/William_S_Sadler/The_Mind_at_Mischief/Appendix#p303))
 
 During Dr. Sadler's investigation of this phenomenon, he consulted men like Howard Thurston, the renowned slight-of-hand artist who devoted considerable time to exposing fraudulent mediums and psychics. He also conferred with Sir Hubert Wilkens, the noted scientist and explorer involved in investigating psychic phenomena. They all agreed that the phenomena connected with this individual could not be classified with other types of psychic phenomena such as automatic writing, telepathy, clairvoyance, trances, spirit mediumship, channeling, or split personality.
 
@@ -61,4 +84,29 @@ The events associated with the origin of _The Urantia Book_ have nothing to do w
 
 ## References
 
-* [This article at The Urantia Book Fellowship website](https://archive.urantiabook.org/archive/mjs_archive/mjs_origin_of_ub.htm)
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article at The Urantia Book Fellowship website](https://archive.urantiabook.org/archive/mjs_archive/mjs_origin_of_ub.htm)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Leavening_Our_Religious_Heritage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leavening Our Religious Heritage</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Universe_Christology_A_Transplanetary_Theory">
+          <span class="pr-2">Universe Christology: A Transplanetary Theory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

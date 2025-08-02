@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ><br>© 1991 <i>The Urantia Book</i> Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles pour un nouvel âge</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">L'impératif du ministère de proximité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 _Article présenté à la réunion de l'American Academy of Religion à Anaheim le 25/11/85._
@@ -121,7 +143,10 @@ _Le Livre d'Urantia_ Description de l'Être Suprême comparée au concept de Whi
 
 Ce ne sont là que quelques-uns parmi des dizaines de sujets inspirés par le matériel stimulant et innovant trouvé dans _Le Livre d'Urantia_. Lorsque les érudits en religion découvriront enfin la riche mine de matériel religieux contenu dans le Livre d'Urantia, les paramètres créatifs de la recherche seront considérablement élargis. Kenneth Boulding dans _The Meaning of the Twentieth Century_, Alvin Toffler dans _The Third Wave_, John Naisbitt dans _Megatrends_, Fritjof Capra dans _The Turning Point_, et de nombreuses autres voix prophétiques ont souligné que nous entrons dans un changement de transition majeur dans l'histoire de notre planète. Nous avons désespérément besoin de fondations spirituelles suffisamment vastes, suffisamment solides et dotées du potentiel visionnaire pour donner stabilité et orientation à la nouvelle ère qui peine à naître. Je crois que _Le Livre d'Urantia_ a le plus grand potentiel pour servir à ce titre parmi toutes les ressources philosophico-religieuses actuellement disponibles pour l'humanité. $\square$
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -140,6 +165,29 @@ Ce ne sont là que quelques-uns parmi des dizaines de sujets inspirés par le ma
         <td>
         <a href="/fr/article/Charles_E_Hansen/The_Mathematics_of_Love">
           <span class="pr-2">Les mathématiques de l'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles pour un nouvel âge</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">L'impératif du ministère de proximité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

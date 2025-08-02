@@ -3,7 +3,7 @@ title: "Pioneers in the New Age"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_World_Mission_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Mission of The Urantia Book</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="pr-2">The Gift of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 I should like to call your attention to a statement made by the Old Testament prophet Habakkuk ([1:5](/en/Bible/Habakkuk/1#v5)), “Look, there is work being done in your days which will astonish you and which you will not believe when it is told to you.” We are again living in a time when amazing things are being accomplished by the spirit of God in our world.
 
@@ -95,6 +117,12 @@ Each of us must find the answer to this question in the quietness of our own sou
 > _Meredith Sprunger is a retired UCC pastor and college professor who has worked for over fifty years to interface with mainline clergy. He is the founder and the first senior editor of The Spiritual Fellowship Journal, and currently associate editor._
 {.is-info}
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_pioneers_in_new_age.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -112,6 +140,29 @@ Each of us must find the answer to this question in the quietness of our own sou
         <td>
         <a href="/en/article/Stan_Hartman/Fusion_Power">
           <span class="pr-2">Fusion Power</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_World_Mission_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Mission of The Urantia Book</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="pr-2">The Gift of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

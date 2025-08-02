@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ><br>© 1991 La Fellowship de El Libro de Urantia</p></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales para una nueva era</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">El imperativo del ministerio de extensión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 _Artículo presentado en la reunión de la Academia Estadounidense de Religión en Anaheim el 25/11/85._
@@ -121,7 +143,10 @@ _El Libro de Urantia_ «Descripción del Ser Supremo comparado con el concepto d
 
 Estos son sólo algunos de las docenas de temas inspirados en el material estimulante e innovador que se encuentra en _El Libro de Urantia_. Cuando los estudiosos de la religión finalmente descubran la rica mina de material religioso que hay en _El Libro de Urantia_, los parámetros creativos de la investigación se ampliarán enormemente. Kenneth Boulding en _The Meaning of the Twentieth Century_, Alvin Toffler en _The Third Wave_, John Naisbitt en _Megatrends_, Fritjof Capra en _The Turning Point_ y muchas otras voces proféticas han señalado que estamos entrando en un importante cambio de transición en la historia de nuestro planeta. Necesitamos desesperadamente bases espirituales que sean lo suficientemente grandes, sólidas y que tengan el potencial visionario para dar estabilidad y guía a la nueva era que lucha por nacer. Creo que _El Libro de Urantia_ tiene el mayor potencial para servir en esta capacidad de cualquier recurso filosófico-religioso disponible actualmente para la humanidad. $\square$
 
+## Referencias
 
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+-  [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -140,6 +165,29 @@ Estos son sólo algunos de las docenas de temas inspirados en el material estimu
         <td>
         <a href="/es/article/Charles_E_Hansen/The_Mathematics_of_Love">
           <span class="pr-2">Las matemáticas del amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales para una nueva era</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
+          <span class="pr-2">El imperativo del ministerio de extensión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

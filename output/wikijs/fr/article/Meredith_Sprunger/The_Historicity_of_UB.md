@@ -3,7 +3,7 @@ title: "L'historicité du Livre d'Urantia"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Authorship, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Urantia Book—Authorship, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,8 +32,31 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le don de la révélation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
+          <span class="pr-2">Espoir pour une société aliénée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-
+1/21/86; Révisé 1/21/98
 
 Le fait que le Livre d'Urantia ait gagné l'appréciation de milliers de personnes dotées d'esprits capables et de personnalités équilibrées au sein des traditions chrétienne et judaïque, et qu'il se soit vendu à plus de 250 000 exemplaires sans effort de promotion organisé, atteste de l'attrait de son message religieux. Des années d'expérience, cependant, ont démontré que la première chose que les gens souhaitent savoir sur le Livre d'Urantia est sa paternité et son origine. Il est difficile de répondre à cette question car le livre ne rentre pas dans les catégories conventionnelles. Il prétend être une nouvelle révélation et avoir été écrit par des personnalités supermortelles !
 
@@ -127,7 +150,10 @@ _Le Livre d'Urantia_ est l'une des sources de pensée créatrice les plus promet
 
 Le _Journal de la Fraternité Spirituelle_ est né du réseau du clergé de la communauté chrétienne des étudiants du _Livre d'Urantia_ organisé en 1979. Il est conçu pour interagir avec les ministres principaux qui ont à la fois la formation théorique et pratique nécessaire pour évaluer de manière critique le contenu du livre. La reconnaissance de concepts et de valeurs spirituelles élargies nécessite également du courage, de l’équilibre et de l’ouverture d’esprit. Nous vous invitons à vous joindre au nombre croissant de chefs religieux intéressés à lancer une période de test de cette vision nouvelle et fascinante de la réalité spirituelle.
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_historicity.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -146,6 +172,29 @@ Le _Journal de la Fraternité Spirituelle_ est né du réseau du clergé de la c
         <td>
         <a href="/fr/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
           <span class="pr-2">Le mystère de la Trinité : l'unité dans la pluralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le don de la révélation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
+          <span class="pr-2">Espoir pour une société aliénée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

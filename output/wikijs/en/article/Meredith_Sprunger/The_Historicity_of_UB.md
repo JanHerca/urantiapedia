@@ -3,7 +3,7 @@ title: "The Historicity of The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Authorship, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Urantia Book—Authorship, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,6 +32,31 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Gift of Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
+          <span class="pr-2">Hope for an Alienated Society</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+1/21/86; Revised 1/21/98
 
 
 The fact that _The Urantia Book_ has won the appreciation of thousands of people with capable minds and balanced personalities within the Christian and Judaic traditions, and has sold over 250,000 copies without organized promotional effort, attests to the attractiveness of its religious message. Years of experience, however, have demonstrated that the first thing people wish to know about _The Urantia Book_ is its authorship and origin. This is a difficult question to answer because the book does not fit into conventional categories. It claims to be new revelation and to have been written by supermortal personalities!
@@ -126,6 +151,12 @@ _The Urantia Book_ is one of the most promising sources of creative thought in p
 
 _The Spiritual Fellowship Journal_ grew out of the Clergy Network of the Christian Fellowship of Students of _The Urantia Book_ organized in 1979. It is designed to interface with mainline ministers who have both the theoretical and practical background needed to critically evaluate the book's content. The recognition of enlarged spiritual concepts and values also requires courage, balance, and open-mindedness. We invite you to join the increasing number of religious leaders interested in initiating a period of testing for this new and fascinating vision of spiritual reality.
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_historicity.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -143,6 +174,29 @@ _The Spiritual Fellowship Journal_ grew out of the Clergy Network of the Christi
         <td>
         <a href="/en/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
           <span class="pr-2">The Mystery of the Trinity: Unity in Plurality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Gift_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Gift of Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
+          <span class="pr-2">Hope for an Alienated Society</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
