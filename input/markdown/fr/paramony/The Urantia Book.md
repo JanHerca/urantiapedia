@@ -49,7 +49,7 @@
 | # 1 Takes a city                                                                       | #1 : Prend une ville                                                                        |
 | # 2 Dust to dust                                                                        | # 2 De la poussière à la poussière                                                          |
 | # 2 Love and be loved                                                                   | #2 Aimer et être aimé                                                                       |
-| # 2 Eyes of Lord every place                                                           | #2 : Les yeux du Seigneur en tout lieu                                                      |
+| # 2 Eyes of Lord every place                                                           | #2 : Les yeux du Seigneur en tout lieu                                                      |
 | # 2 God's laws are just                                                                | #2 : Les lois de Dieu sont justes                                                           |
 | 23rd Psalm                                                                              | 23ème psaume                                                                                |
 | 24 sentinels / elders                                                                   | 24 sentinelles/anciens                                                                      |
@@ -3359,7 +3359,7 @@
 | Son poured out spirit on flesh                                                          | Fils déversa l'esprit sur la chair                                                          |
 | Son wasted his on riotous living                                                        | Le fils a gaspillé ses biens en vivant dans l'émeute                                        |
 | Son, sun of righteousness                                                               | Fils, soleil de la justice                                                                  |
-| Son: the only way                                                                       | Fils : le seul moyen                                                                        |
+| Son: the only way                                                                       | Fils : le seul moyen                                                                        |
 | Son's decision to return                                                                | La décision du fils de revenir                                                              |
 | Sons are the “way”                                                                      | Les fils sont le «chemin»                                                                   |
 | Sons of faith                                                                           | Fils de la foi                                                                              |

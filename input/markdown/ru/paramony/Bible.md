@@ -468,7 +468,7 @@
 | Part 2: Behold God is great                            | Часть 2: Вот Бог велик                                            |
 | Part 2: By sons of God all made                        | Часть 2: Сынами Божьими все сделано                               |
 | Part 2: Cause of causes                                | Часть 2: Причина причин                                           |
-| Part 2: Chiefest of 10,000                             | Часть 2: Главный из 10 000                                        |
+| Part 2: Chiefest of 10,000                             | Часть 2: Главный из 10 000                                        |
 | Part 2: Cover with shadow                              | Часть 2: Покрытие тенью                                           |
 | Part 2: Created not in vain                            | Часть 2: Создано не зря                                           |
 | Part 2: Divine footsteps                               | Часть 2: Божественные шаги                                        |
@@ -481,7 +481,7 @@
 | Part 2: God of salvation                               | Часть 2: Бог спасения                                             |
 | Part 2: God would not forsake                          | Часть 2: Бог не оставит                                           |
 | Part 2: Great in counsel                               | Часть 2: Великий советчик                                         |
-| Part 2: Greatest among 10K                             | Часть 2: Лучший среди 10 000                                      |
+| Part 2: Greatest among 10K                             | Часть 2: Лучший среди 10 000                                      |
 | Part 2: Greatness unsearchable                         | Часть 2: Неисследимое величие                                     |
 | Part 2: He gives power to faint                        | Часть 2: Он дает силу упасть в обморок                            |
 | Part 2: If any say I sinned                            | Часть 2: Если кто-нибудь скажет, что я согрешил                   |

@@ -4766,7 +4766,7 @@
 /en/article/William_Wentworth
 
 - [It's a Worry](/en/article/William_Wentworth/Its_a_Worry), Innerface International, Volume 1 - No. 5
-- [The Meaning of Worship and Service ](/en/article/William_Wentworth/meaning_of_worship), Journal, Journal — May 2019
+- [The Meaning of Worship and Service ](/en/article/William_Wentworth/meaning_of_worship), Journal, Journal — May 2019
 - [Application of Scientific Thinking to Cosmology in The Urantia Book](/en/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book), Journal, Journal — November 2021
 
 /en/article/Will_Sherwood

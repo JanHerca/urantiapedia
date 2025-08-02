@@ -6864,7 +6864,7 @@ El hecho es que Jesús ya sabía desde hacía tiempo que su manera de predicar y
 
 Jesús murió crucificado como muchos hombres y mujeres de su tiempo, pero ocurrió así tan sólo por un conjunto de circunstancias que propiciaron este tipo de ejecución. Los dirigentes judíos no querían un juicio y una muerte judías para Jesús: buscaban congraciarse con Roma y obtener un juicio y una ejecución al modo romanos. Podían pensar en enrededar al gobernador romano en estas intrigas religiosas internas porque el procurador en curso, Poncio Pilato, era un hombre violento de una extrema cobardía cuando se veía muy presionado. En varias ocasiones Poncio había tenido que claudicar contra las presiones de los dirigentes judíos.
 
-Los jefes judíos, con Caifás a la cabeza, sabían que el pueblo tenía en cierta estima al Maestro. Por eso buscaban un juicio no judío como manera de hacer entender a  la muchedumbre que Jesús realmente era un alborotador que merecía la muerte, puesto que así lo habían certificado los romanos.
+Los jefes judíos, con Caifás a la cabeza, sabían que el pueblo tenía en cierta estima al Maestro. Por eso buscaban un juicio no judío como manera de hacer entender a la muchedumbre que Jesús realmente era un alborotador que merecía la muerte, puesto que así lo habían certificado los romanos.
 
 Ante todo este cúmulo de circunstancias, las cosas se estaban poniendo cada vez peor para Jesús. De no ser por su retirada a tiempo en varias circunstancias, y su refugio durante algunos períodos de tiempo en territorio amigo, como era el caso de la tetrarquía de Herodes Filipo, sin duda hoy no estaríamos hablando de crucifixión sino de lapidación. De hecho, los primeros discípulos mártires fueron todos lapidados.
 

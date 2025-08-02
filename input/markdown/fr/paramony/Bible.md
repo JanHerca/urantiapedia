@@ -98,7 +98,7 @@
 | Cites prophecy Ps 78:2                                 | Cite la prophétie Ps 78:2                                   |
 | Cites prophecy Zc 11:12                                | Cite la prophétie Zc 11:12                                  |
 | Cites prophecy Zc 9:9                                  | Cite la prophétie Zc 9:9                                    |
-| City: builder, maker, is God                           | Ville : constructeur, fabricant, est Dieu                   |
+| City: builder, maker, is God                           | Ville : constructeur, fabricant, est Dieu                   |
 | Clean outside dirty inside                             | Propre à l'extérieur sale à l'intérieur                     |
 | Cleanse congregation's sins                            | Nettoyer les péchés de la congrégation                      |
 | Cleanse individual sins                                | Nettoyer les péchés individuels                             |
@@ -148,7 +148,7 @@
 | Ended by singing hymn                                  | Terminé en chantant un hymne                                |
 | Eternal / everlasting life                             | Vie éternelle / éternelle                                   |
 | Eye, light of body                                     | Oeil, lumière du corps                                      |
-| Eyes:are the windows of soul                           | Yeux : sont les fenêtres de l'âme                           |
+| Eyes:are the windows of soul                           | Yeux : sont les fenêtres de l'âme                           |
 | Ezekiel: service / devotion                            | Ézéchiel : service / dévotion                               |
 | Faith, hope, & charity                                 | Foi, espérance et charité                                   |
 | Faithful and Divine Creator                            | Créateur fidèle et divin                                    |
@@ -303,7 +303,7 @@
 | Jesus' last talk in temple                             | Le dernier discours de Jésus au temple                      |
 | Jesus' prayer Re: Judas                                | La prière de Jésus Re: Judas                                |
 | Job: God blesses faithful                              | Job : Dieu bénit les fidèles                                |
-| Job: good, rich & healthy                              | Travail : bon, riche et sain                                |
+| Job: good, rich & healthy                              | Travail : bon, riche et sain                                |
 | John but fore runner of Messiah                        | Jean mais précurseur du Messie                              |
 | John the Baptist killed, buried                        | Jean-Baptiste tué, enterré                                  |
 | John's declaration re: Jesus                           | Déclaration de Jean concernant : Jésus                      |
@@ -326,7 +326,7 @@
 | Kingdom of God not meat..                              | Royaume de Dieu pas de viande..                             |
 | Kingdom of heaven already here                         | Royaume des cieux déjà ici                                  |
 | Kingdom of heaven is at hand                           | Le royaume des cieux est à portée de main                   |
-| Kingdom:comes in power & glory                         | Royaume : vient en puissance et en gloire                   |
+| Kingdom:comes in power & glory                         | Royaume : vient en puissance et en gloire                   |
 | Know God & self as a son                               | Connaître Dieu et soi comme un fils                         |
 | Know Son, know Father                                  | Connais Fils, connais Père                                  |
 | Know truth , be free                                   | Connaître la vérité, être libre                             |
@@ -519,7 +519,7 @@
 | Part 2: Yahweh is judge, etc.                          | Deuxième partie : Yahweh est juge, etc.                     |
 | Part 2: You are precious                               | Partie 2 : Vous êtes précieux                               |
 | Part 3: A God of battles                               | Partie 3 : Un dieu des batailles                            |
-| Part 3: Creator covers self                            | Partie 3 : Le créateur se couvre lui-même                   |
+| Part 3: Creator covers self                            | Partie 3 : Le créateur se couvre lui-même                   |
 | Part 3: Guiding spirit                                 | Partie 3 : Esprit guide                                     |
 | Part 3: I blot out transgressions                      | Partie 3 : J'efface les transgressions                      |
 | Part 3: Mercy to merciful                              | Partie 3 : Miséricorde à miséricordieux                     |
@@ -579,7 +579,7 @@
 | Reap what you sow                                      | Récoltez ce que vous semez                                  |
 | Reason for “40 days”                                   | Raison de «40 jours»                                        |
 | Receive Jesus: sons of God                             | Recevez Jésus : fils de Dieu                                |
-| Recorded as: “God calling..”                           | Enregistré comme : «Dieu appelle ..»                        |
+| Recorded as: “God calling..”                           | Enregistré comme : «Dieu appelle ..»                        |
 | Religion of LOVE                                       | Religion d'AMOUR                                            |
 | Render unto Caesar & God                               | Rendez à César et à Dieu                                    |
 | Render unto Caesar what is Caesar's, God what is God's | Rendez à César ce qui est à César, à Dieu ce qui est à Dieu |
@@ -646,7 +646,7 @@
 | Slow of wrath, understands                             | Lent de colère, comprend                                    |
 | Smitten by enemies                                     | Frappé par les ennemis                                      |
 | Snake: voice of evil spirits                           | Serpent : voix des mauvais esprits                          |
-| So-called “temptation” to get food                     | Soi-disant « tentation » d'obtenir de la nourriture         |
+| So-called “temptation” to get food                     | Soi-disant « tentation » d'obtenir de la nourriture         |
 | So-called “temptation” to jump                         | Soi-disant «tentation» de sauter                            |
 | Soft answer vs. wrath                                  | Réponse douce contre colère                                 |
 | Soldiers settle & watch                                | Les soldats s'installent et regardent                       |
@@ -682,7 +682,7 @@
 | Those with spirit, sons of God                         | Ceux qui ont de l'esprit, fils de Dieu                      |
 | Thousand years but a day                               | Mille ans mais un jour                                      |
 | Three “Holy” Spirits                                   | Trois «Saints» Esprits                                      |
-| Three celestials: real                                 | Trois célestes : réels                                      |
+| Three celestials: real                                 | Trois célestes : réels                                      |
 | To be first, minister                                  | Être premier, ministre                                      |
 | To Bethany                                             | À Béthanie                                                  |
 | To have given, from have not taken                     | Avoir donné, n'avoir pas pris                               |
@@ -707,7 +707,7 @@
 | Warning: bring before councils                         | Attention : apporter avant les conseils                     |
 | Warning: crucifixion, resurrection                     | Avertissement : crucifixion, résurrection                   |
 | Warning: sheep amid wolves                             | Attention : moutons parmi les loups                         |
-| Warning: they shall beat / kill you                    | Avertissement : ils doivent vous battre / vous tuer         |
+| Warning: they shall beat / kill you                    | Avertissement : ils doivent vous battre / vous tuer         |
 | We are the children of God                             | Nous sommes les enfants de Dieu                             |
 | We live n God                                          | Nous vivons en Dieu                                         |
 | What profit to gain world                              | Quel profit gagner monde                                    |
@@ -721,7 +721,7 @@
 | Who has is given; has not, taken                       | Qui a est donné; n'a pas, pris                              |
 | Who has is given; has not, taken                       | Qui a est donné; n'a pas, pris                              |
 | Who has seen me, seen Father                           | Qui m'a vu, vu Père                                         |
-| Who would be greatest: serve                           | Qui serait le plus grand : servir                           |
+| Who would be greatest: serve                           | Qui serait le plus grand : servir                           |
 | Whoever humbles himself will be exalted                | Quiconque s'abaisse sera élevé                              |
 | Why do the heathen rage                                | Pourquoi les païens ragent-ils                              |
 | Why Jesus wept                                         | Pourquoi Jésus a pleuré                                     |
