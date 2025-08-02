@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Nouvelles Juillet 2025](/fr/news/2025/07)
 - [Nouvelles Juin 2025](/fr/news/2025/06)
 - [Nouvelles Mai 2025](/fr/news/2025/05)
 - [Rapport spécial — « Programme des graines de moutarde »](/fr/news/2025/Special)
